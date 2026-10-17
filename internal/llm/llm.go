@@ -96,8 +96,23 @@ type ReviewUnit struct {
 	Leakage  []Leak    `json:"leakage,omitempty"`
 }
 
+// Variant, when set, puts the translation and review files of an
+// experiment under stage/alt/<variant>/, apart from the edition's own.
+var Variant string
+
 func path(cfg *work.Config, stage, unit string) string {
+	if Variant != "" && (stage == "translate" || stage == "review" || stage == "final") {
+		return cfg.Path("stage", "alt", Variant, stage, unit+".json")
+	}
 	return cfg.Path("stage", stage, unit+".json")
+}
+
+// ReviewPackPath is the review pack of a unit, under the variant if one is set.
+func ReviewPackPath(cfg *work.Config, unit string) string {
+	if Variant != "" {
+		return cfg.Path("stage", "alt", Variant, "packs", "review", unit+".md")
+	}
+	return cfg.Path("stage", "packs", "review", unit+".md")
 }
 
 func MorphPath(cfg *work.Config, unit string) string       { return path(cfg, "morph", unit) }

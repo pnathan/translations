@@ -8,12 +8,15 @@
 //	tr status WORK            the stage of every unit
 //	tr show   WORK REF…       print the tokens of segments
 //
-// Run from the repository root.
+// Run from the repository root. --alt NAME places the translation, review
+// and final files of an experiment under works/WORK/stage/alt/NAME/.
 package main
 
 import (
 	"fmt"
 	"os"
+
+	"github.com/pnathan/translations/internal/llm"
 
 	"github.com/pnathan/translations/internal/work"
 )
@@ -27,7 +30,15 @@ func main() {
 	if err != nil {
 		fail(err)
 	}
-	args := os.Args[3:]
+	var args []string
+	for i := 3; i < len(os.Args); i++ {
+		if os.Args[i] == "--alt" && i+1 < len(os.Args) {
+			llm.Variant = os.Args[i+1]
+			i++
+			continue
+		}
+		args = append(args, os.Args[i])
+	}
 	switch os.Args[1] {
 	case "fetch":
 		err = fetch(cfg, args)

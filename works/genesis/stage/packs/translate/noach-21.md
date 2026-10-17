@@ -17,6 +17,10 @@ Hebrew (MAM): וַֽיְחִי־פֶ֖לֶג שְׁלֹשִׁ֣ים שָׁנָ֑
 | 11:18.7 | רְעֽוּ׃ | רְעֽוּ | רְעוּ `bdb:t.dl.ai` | noun: proper name |  | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:11:18:1` Targum Onkelos on whole 11:18 (version; filed at 11:18): וַחֲיָא פֶלֶג תְּלָתִין שְׁנִין וְאוֹלִיד יָת רְעוּ:
+
 ## Genesis 11:19
 
 Hebrew (MAM): וַֽיְחִי־פֶ֗לֶג אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־רְע֔וּ תֵּ֥שַׁע שָׁנִ֖ים וּמָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
@@ -40,6 +44,10 @@ Paragraph mark after this verse: ס
 | 11:19.13 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:11:19:1` Targum Onkelos on whole 11:19 (version; filed at 11:19): וַחֲיָא פֶלֶג בָּתַר דְּאוֹלִיד יָת רְעוּ מָאתָן וּתְשַׁע שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
+
 ## Genesis 11:20
 
 Hebrew (MAM): וַיְחִ֣י רְע֔וּ שְׁתַּ֥יִם וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־שְׂרֽוּג׃
@@ -55,6 +63,10 @@ Hebrew (MAM): וַיְחִ֣י רְע֔וּ שְׁתַּ֥יִם וּשְׁלֹ�
 | 11:20.7 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
 | 11:20.8 | שְׂרֽוּג׃ | שְׂרֽוּג | שְׂרוּג `bdb:u.cb.ac` | noun: proper name |  | silluq (disjunctive) |
 
+
+### Commentary anchored to this verse
+
+- `onkelos:11:20:1` Targum Onkelos on whole 11:20 (version; filed at 11:20): וַחֲיָא רְעוּ תְּלָתִין וְתַרְתֵּין שְׁנִין וְאוֹלִיד יָת שְׂרוּג:
 
 ## Genesis 11:21
 
@@ -78,6 +90,10 @@ Paragraph mark after this verse: ס
 | 11:21.12 | בָּנִ֖ים | בָּנִ֖ים | בֵּן `bdb:b.ca.aa` | noun: common, masculine, plural, absolute |  | tipḥa (disjunctive) |
 | 11:21.13 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
 
+
+### Commentary anchored to this verse
+
+- `onkelos:11:21:1` Targum Onkelos on whole 11:21 (version; filed at 11:21): וַחֲיָא רְעוּ בָּתַר דְּאוֹלִיד יָת שְׂרוּג מָאתָן וּשְׁבַע שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
 
 ## Lexicon
 

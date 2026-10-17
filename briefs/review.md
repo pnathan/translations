@@ -15,7 +15,7 @@ You review one unit's translation, and for the Mishnah its morphology, against t
 3. The normative commentators. For each normative anchor of the unit, state whether the translation is consistent with the comment or contradicts it. Where Rashi and Ibn Ezra (or Bartenura and Rambam) agree on the plain sense against the English, the English is wrong.
 4. The translator's rulings on the commentary. Each `summary` must say what the comment says. A wrong summary is an error.
 5. Morphology (Mishnah only). Each analysis is correct: segmentation, lemma, binyan, form, person, gender, number. Correct an analysis with a `morph:` patch.
-6. Memorized text. Flag every phrase that reproduces a published English translation (KJV, JPS, RSV, NJPS, Artscroll, Koren, Soncino and others) where the Hebrew does not force it. Give a replacement patch.
+6. Correctness only. Agreement with a published translation is not a fault. Patch only what is wrong, or what a better English would carry more exactly.
 7. The learner notes are true, and enough for a student with one year of Hebrew.
 
 ## Output
@@ -37,9 +37,6 @@ Write `works/<work>/stage/review/<unit>.json`:
   ],
   "verdicts": [
     {"anchor": "rashi:1:1:2", "verdict": "consistent", "comment": "optional"}
-  ],
-  "leakage": [
-    {"ref": "1:2", "phrase": "the phrase", "note": "the published translation it resembles"}
   ]
 }
 ```

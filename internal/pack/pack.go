@@ -203,6 +203,7 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 	for _, d := range []string{"morph", "translate", "review"} {
 		os.MkdirAll(cfg.Path("stage", "packs", d), 0o755)
 	}
+	os.MkdirAll(filepath.Dir(llm.ReviewPackPath(cfg, "x")), 0o755)
 	counts := map[string]int{}
 	for _, u := range c.Units {
 		hasMorph := true
@@ -249,7 +250,7 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 			}
 		}
 		writeLexicon(&r, c, u.Refs, lexicon)
-		if err := writeAtomic(cfg.Path("stage", "packs", "review", u.ID+".md"), r.String()); err != nil {
+		if err := writeAtomic(llm.ReviewPackPath(cfg, u.ID), r.String()); err != nil {
 			return err
 		}
 		counts["review"]++

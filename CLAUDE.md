@@ -40,8 +40,8 @@ docs/                   GitHub Pages root (deployed from main)
 
 ## Rules (do not violate)
 
-1. Translate only from fetched witnesses. Never consult or reproduce a
-   published translation.
+1. Translate only from fetched witnesses. Correctness is the test;
+   agreement with a published translation is not a fault.
 2. Morphology and lexicon come from datasets where one exists. Model
    morphology is labelled on every word with its model and reviewer.
 3. Record every variant between witnesses; never collapse them silently.

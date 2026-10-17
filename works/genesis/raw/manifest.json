@@ -119,6 +119,125 @@
     "bytes": 14560
   },
   {
+    "name": "commentary/onkelos/01.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.1?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "4fab127140b7cba754cd9358c36151f593041bc664784fdfb1d40c29f9b293ed",
+    "bytes": 13802
+  },
+  {
+    "name": "commentary/onkelos/02.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.2?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "7c6d642f811c8bede3a643df39758696af06dff51aca47e1ef0382f62257702f",
+    "bytes": 12580
+  },
+  {
+    "name": "commentary/onkelos/03.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.3?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "9c92cd11afcfa06f2fd56013ced37f811fa9e69dd4953b4a99028c7b54474a21",
+    "bytes": 12215
+  },
+  {
+    "name": "commentary/onkelos/04.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.4?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "317f08d51a7e34ecc6311a43101da228d8b20df8e9e6b5e14a005a689f70679e",
+    "bytes": 12548
+  },
+  {
+    "name": "commentary/onkelos/05.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.5?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "39ad99396e6f07041857af5f4beefc5ea79f1aa5de36a84eaeec17fa5b61dc21",
+    "bytes": 11758
+  },
+  {
+    "name": "commentary/onkelos/06.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.6?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "bd17e5c45d102a22a4c49254e17141cffe3b6bfcaaa584482747ef24ef580f7f",
+    "bytes": 12292
+  },
+  {
+    "name": "commentary/onkelos/07.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.7?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "acc41d60b72c37f4d7b484c5ceb4436256031b0711de78a242744441d39e0a12",
+    "bytes": 12473
+  },
+  {
+    "name": "commentary/onkelos/08.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.8?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "d242d20ccf8e8f89ba3f24e38357071355643544f0642228b13e60020087e7ed",
+    "bytes": 12066
+  },
+  {
+    "name": "commentary/onkelos/09.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.9?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "9165507c30e42cb1bf97623dececf1cc5da1f2b3bbdd820389cb8bcfc8702aae",
+    "bytes": 12968
+  },
+  {
+    "name": "commentary/onkelos/10.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.10?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "0a0c0e84864908bec1b6bfed475adaec463a8b8d8b1f67f97d14b11e1a538193",
+    "bytes": 11936
+  },
+  {
+    "name": "commentary/onkelos/11.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.11?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "94fc8ecac6e04742ee3eef448cd764e53b6016c35cb4dcd1270485a56ef7d6b7",
+    "bytes": 13199
+  },
+  {
+    "name": "commentary/onkelos/12.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.12?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "c83aa360b59c7cafa29e9ac1177291ee1c3dd9a4e98ddd9236744fdd2a8059ae",
+    "bytes": 14236
+  },
+  {
+    "name": "commentary/onkelos/13.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.13?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "9f6610464f570706a373a00c99175c0da40988ebfe737d7e1e7e5d0bf02282fa",
+    "bytes": 12024
+  },
+  {
+    "name": "commentary/onkelos/14.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.14?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "4128f80b5725180b76029ca80c11158fc828cfcf898ba6b82e9304f18ab964ef",
+    "bytes": 14947
+  },
+  {
+    "name": "commentary/onkelos/15.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.15?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "1b2c342f4dc5a976d4728a859d0ab2759ae5c78ac1b556d79894b0306d1d41f9",
+    "bytes": 10488
+  },
+  {
+    "name": "commentary/onkelos/16.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.16?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "bee7bcfeaaa8baa3162b4a00890a348a1fbab6d6b093297de9c6a08377c11572",
+    "bytes": 9992
+  },
+  {
+    "name": "commentary/onkelos/17.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.17?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "bc6f87dc0d1d45968dbbbd3c00bede9ebb27f2b627b5593d7ddf0315bdce83c1",
+    "bytes": 12571
+  },
+  {
     "name": "commentary/radak/01.json",
     "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.1?version=hebrew%7CVocalized+Edition\u0026return_format=default",
     "fetched": "2026-10-17",

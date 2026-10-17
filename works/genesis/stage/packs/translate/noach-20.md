@@ -17,6 +17,10 @@ Hebrew (MAM): וְשֶׁ֥לַח חַ֖י שְׁלֹשִׁ֣ים שָׁנָ֑ה 
 | 11:14.7 | עֵֽבֶר׃ | עֵֽבֶר | עֵ֫בֶר `bdb:p.ah.ac` | noun: proper name |  | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:11:14:1` Targum Onkelos on whole 11:14 (version; filed at 11:14): וְשֶׁלַח חֲיָא תְּלָתִין שְׁנִין וְאוֹלִיד יָת עֵבֶר:
+
 ## Genesis 11:15
 
 Hebrew (MAM): וַֽיְחִי־שֶׁ֗לַח אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־עֵ֔בֶר שָׁלֹ֣שׁ שָׁנִ֔ים וְאַרְבַּ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
@@ -41,6 +45,10 @@ Paragraph mark after this verse: ס
 | 11:15.14 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:11:15:1` Targum Onkelos on whole 11:15 (version; filed at 11:15): וַחֲיָא שֶׁלַח בָּתַר דְּאוֹלִיד יָת עֵבֶר אַרְבַּע מְאָה וּתְלָת שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
+
 ## Genesis 11:16
 
 Hebrew (MAM): וַֽיְחִי־עֵ֕בֶר אַרְבַּ֥ע וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־פָּֽלֶג׃
@@ -56,6 +64,10 @@ Hebrew (MAM): וַֽיְחִי־עֵ֕בֶר אַרְבַּ֥ע וּשְׁלֹש
 | 11:16.7 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
 | 11:16.8 | פָּֽלֶג׃ | פָּֽלֶג | פֶּ֫לֶג `bdb:q.bl.ac` | noun: proper name |  | silluq (disjunctive) |
 
+
+### Commentary anchored to this verse
+
+- `onkelos:11:16:1` Targum Onkelos on whole 11:16 (version; filed at 11:16): וַחֲיָא עֵבֶר תְּלָתִין וְאַרְבַּע שְׁנִין וְאוֹלִיד יָת פָּלֶג:
 
 ## Genesis 11:17
 
@@ -80,6 +92,10 @@ Paragraph mark after this verse: ס
 | 11:17.13 | בָּנִ֖ים | בָּנִ֖ים | בֵּן `bdb:b.ca.aa` | noun: common, masculine, plural, absolute |  | tipḥa (disjunctive) |
 | 11:17.14 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
 
+
+### Commentary anchored to this verse
+
+- `onkelos:11:17:1` Targum Onkelos on whole 11:17 (version; filed at 11:17): וַחֲיָא עֵבֶר בָּתַר דְּאוֹלִיד יָת פֶּלֶג אַרְבַּע מְאָה וּתְלָתִין שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
 
 ## Lexicon
 

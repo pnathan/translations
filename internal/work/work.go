@@ -32,7 +32,8 @@ type Commentator struct {
 	He        string `json:"he"`      // "רש״י"
 	Sefaria   string `json:"sefaria"` // "Rashi_on_Genesis"
 	Version   string `json:"version"`
-	Normative bool   `json:"normative"` // the review must rule on every comment
+	Normative bool   `json:"normative"`    // the review must rule on every comment
+	Targum    bool   `json:"version_text"` // a translation (targum): one entry per verse, not quote-matched
 }
 
 type Section struct {

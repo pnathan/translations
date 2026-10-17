@@ -159,6 +159,15 @@ type Comments struct {
 
 // Build anchors one commentator's comments to the corpus.
 func Build(c *corpus.Corpus, key, name string, normative bool, chapters []Comments) []Anchor {
+	return build(c, key, name, normative, false, chapters)
+}
+
+// BuildVersion attaches a translation (a targum) verse by verse.
+func BuildVersion(c *corpus.Corpus, key, name string, chapters []Comments) []Anchor {
+	return build(c, key, name, false, true, chapters)
+}
+
+func build(c *corpus.Corpus, key, name string, normative, version bool, chapters []Comments) []Anchor {
 	var out []Anchor
 	for _, ch := range chapters {
 		for vi, comments := range ch.Verses {
@@ -168,6 +177,10 @@ func Build(c *corpus.Corpus, key, name string, normative bool, chapters []Commen
 			}
 			n := 0
 			cursor := map[string]int{}
+			if version {
+				out = append(out, Anchor{ID: fmt.Sprintf("%s:%s:1", key, filed), Commentator: name, Filed: filed, Ref: filed, Status: "version", Text: hebrew.StripHTML(strings.Join(comments, " "))})
+				continue
+			}
 			for _, h := range comments {
 				ps := pieces(h)
 				var cur *Anchor

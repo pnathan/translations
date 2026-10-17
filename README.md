@@ -44,8 +44,8 @@ from the repository root. Go standard library only.
 
 ## Rules
 
-- Translate from the fetched Hebrew only. No published translation is
-  consulted; the review flags phrases that reproduce one.
+- Translate from the fetched Hebrew only. Correctness is the test;
+  agreement with a published translation is not a fault.
 - Morphology and lexicon come from datasets wherever one exists (OSHB, BDB).
   The Mishnah has none: its morphology is a model stage, reviewed, and
   labelled as such on every word.

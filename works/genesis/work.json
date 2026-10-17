@@ -15,6 +15,7 @@
     {"key": "ibn-ezra", "name": "Ibn Ezra", "he": "אבן עזרא", "sefaria": "Ibn_Ezra_on_Genesis", "version": "Piotrkow, 1907-1911", "normative": true},
     {"key": "ramban", "name": "Ramban", "he": "רמב״ן", "sefaria": "Ramban_on_Genesis", "version": "Vocalized Edition"},
     {"key": "radak", "name": "Radak", "he": "רד״ק", "sefaria": "Radak_on_Genesis", "version": "Vocalized Edition"},
+    {"key": "onkelos", "name": "Targum Onkelos", "he": "תרגום אונקלוס", "sefaria": "Onkelos_Genesis", "version": "Sifsei Chachomim Chumash, Metsudah Publications, 2009", "version_text": true},
     {"key": "sforno", "name": "Sforno", "he": "ספורנו", "sefaria": "Sforno_on_Genesis", "version": "Vocalized Edition"}
   ],
   "sections": [

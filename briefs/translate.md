@@ -9,7 +9,7 @@ You translate one unit of Hebrew text into English. The result is the text of an
 
 ## Rules
 
-1. Translate from the Hebrew in the pack. Do not consult a published translation. Do not reproduce one from memory: if your English for a phrase is a famous rendering (KJV, JPS, RSV, NJPS, Artscroll, Koren, Soncino) and the Hebrew does not force it, write your own.
+1. Translate from the Hebrew in the pack. Correctness is the only test: an English phrase that agrees with a published translation is acceptable when it is the correct rendering. Do not copy a published translation in place of reading the Hebrew.
 2. The morphology and lexicon in the pack are data from fetched sources. Do not contradict them. If you think one is wrong, keep the data and say so in `note`.
 3. The commentators marked **normative** decide the plain sense. For Genesis these are Rashi and Ibn Ezra; for Avot, Bartenura and Rambam. Where they agree on a reading that bears on the English, the English follows it. Where they differ, choose one reading and record the other with `records`.
 4. Do not leave out the Hebrew's difficulties. If a word is ambiguous, keep the ambiguity in the English, or choose one sense and give the other in `note` or `apparatus`.

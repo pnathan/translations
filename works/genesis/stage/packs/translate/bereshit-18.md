@@ -17,6 +17,10 @@ Hebrew (MAM): וַיְחִ֥י קֵינָ֖ן שִׁבְעִ֣ים שָׁנָ֑�
 | 5:12.7 | מַֽהֲלַלְאֵֽל׃ | מַֽהֲלַלְאֵֽל | מַהֲלַלְאֵל `bdb:e.bp.ai` | noun: proper name |  | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:5:12:1` Targum Onkelos on whole 5:12 (version; filed at 5:12): וַחֲיָא קֵינָן שַׁבְעִין שְׁנִין וְאוֹלִיד יָת מַהֲלַלְאֵל:
+
 ## Genesis 5:13
 
 Hebrew (MAM): וַיְחִ֣י קֵינָ֗ן אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־מַֽהֲלַלְאֵ֔ל אַרְבָּעִ֣ים שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
@@ -39,6 +43,10 @@ Hebrew (MAM): וַיְחִ֣י קֵינָ֗ן אַחֲרֵי֙ הוֹלִיד֣�
 | 5:13.14 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:5:13:1` Targum Onkelos on whole 5:13 (version; filed at 5:13): וַחֲיָא קֵינָן בָּתַר דְּאוֹלִיד יָת מַהֲלַלְאֵל תַּמְנֵי מְאָה וְאַרְבְּעִין שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
+
 ## Genesis 5:14
 
 Hebrew (MAM): וַיִּֽהְיוּ֙ כׇּל־יְמֵ֣י קֵינָ֔ן עֶ֣שֶׂר שָׁנִ֔ים וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃
@@ -59,6 +67,10 @@ Paragraph mark after this verse: ס
 | 5:14.10 | וַיָּמֹֽת׃ | וַ + יָּמֹֽת | ו: and + מוּת `bdb:m.be.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | מות | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:5:14:1` Targum Onkelos on whole 5:14 (version; filed at 5:14): וַהֲווֹ כָּל יוֹמֵי קֵינָן תְּשַׁע מְאָה וַעֲשַׂר שְׁנִין וּמִית:
+
 ## Genesis 5:15
 
 Hebrew (MAM): וַיְחִ֣י מַֽהֲלַלְאֵ֔ל חָמֵ֥שׁ שָׁנִ֖ים וְשִׁשִּׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־יָֽרֶד׃
@@ -75,6 +87,10 @@ Hebrew (MAM): וַיְחִ֣י מַֽהֲלַלְאֵ֔ל חָמֵ֥שׁ שָׁ�
 | 5:15.8 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
 | 5:15.9 | יָֽרֶד׃ | יָֽרֶד | יֶ֫רֶד `bdb:j.dh.ab` | noun: proper name |  | silluq (disjunctive) |
 
+
+### Commentary anchored to this verse
+
+- `onkelos:5:15:1` Targum Onkelos on whole 5:15 (version; filed at 5:15): וַחֲיָא מַהֲלַלְאֵל שִׁתִּין וַחֲמֵשׁ שְׁנִין וְאוֹלִיד יָת יָרֶד:
 
 ## Genesis 5:16
 
@@ -98,6 +114,10 @@ Hebrew (MAM): וַיְחִ֣י מַֽהֲלַלְאֵ֗ל אַֽחֲרֵי֙ ה�
 | 5:16.14 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:5:16:1` Targum Onkelos on whole 5:16 (version; filed at 5:16): וַחֲיָא מַהֲלַלְאֵל בָּתַר דְּאוֹלִיד יָת יֶרֶד תַּמְנֵי מְאָה וּתְלָתִין שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
+
 ## Genesis 5:17
 
 Hebrew (MAM): וַיִּהְיוּ֙ כׇּל־יְמֵ֣י מַהֲלַלְאֵ֔ל חָמֵ֤שׁ וְתִשְׁעִים֙ שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃
@@ -118,6 +138,10 @@ Paragraph mark after this verse: ס
 | 5:17.10 | שָׁנָ֑ה | שָׁנָ֑ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | etnaḥta (disjunctive) |
 | 5:17.11 | וַיָּמֹֽת׃ | וַ + יָּמֹֽת | ו: and + מוּת `bdb:m.be.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | מות | silluq (disjunctive) |
 
+
+### Commentary anchored to this verse
+
+- `onkelos:5:17:1` Targum Onkelos on whole 5:17 (version; filed at 5:17): וַהֲווֹ כָּל יוֹמֵי מַהֲלַלְאֵל תַּמְנֵי מְאָה וְתִשְׁעִין וַחֲמֵשׁ שְׁנִין וּמִית:
 
 ## Lexicon
 

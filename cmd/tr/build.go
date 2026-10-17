@@ -125,7 +125,11 @@ func build(cfg *work.Config) error {
 		for i, ch := range g {
 			chs = append(chs, anchor.Comments{Chapter: i + 1, Verses: ch})
 		}
-		anchors = append(anchors, anchor.Build(c, cm.Key, cm.Name, cm.Normative, chs)...)
+		if cm.Targum {
+			anchors = append(anchors, anchor.BuildVersion(c, cm.Key, cm.Name, chs)...)
+		} else {
+			anchors = append(anchors, anchor.Build(c, cm.Key, cm.Name, cm.Normative, chs)...)
+		}
 	}
 	if err := corpus.WriteJSON(cfg.Path("stage", "corpus.json"), c); err != nil {
 		return err

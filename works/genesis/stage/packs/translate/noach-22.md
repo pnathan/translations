@@ -17,6 +17,10 @@ Hebrew (MAM): וַיְחִ֥י שְׂר֖וּג שְׁלֹשִׁ֣ים שָׁנ�
 | 11:22.7 | נָחֽוֹר׃ | נָחֽוֹר | נָחוֹר `bdb:n.ct.ad` | noun: proper name |  | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:11:22:1` Targum Onkelos on whole 11:22 (version; filed at 11:22): וַחֲיָא שְׂרוּג תְּלָתִין שְׁנִין וְאוֹלִיד יָת נָחוֹר:
+
 ## Genesis 11:23
 
 Hebrew (MAM): וַיְחִ֣י שְׂר֗וּג אַחֲרֵ֛י הוֹלִיד֥וֹ אֶת־נָח֖וֹר מָאתַ֣יִם שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
@@ -38,6 +42,10 @@ Paragraph mark after this verse: ס
 | 11:23.11 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
 
 
+### Commentary anchored to this verse
+
+- `onkelos:11:23:1` Targum Onkelos on whole 11:23 (version; filed at 11:23): וַחֲיָא שְׂרוּג בָּתַר דְּאוֹלִיד יָת נָחוֹר מָאתָן שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
+
 ## Genesis 11:24
 
 Hebrew (MAM): וַיְחִ֣י נָח֔וֹר תֵּ֥שַׁע וְעֶשְׂרִ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־תָּֽרַח׃
@@ -53,6 +61,10 @@ Hebrew (MAM): וַיְחִ֣י נָח֔וֹר תֵּ֥שַׁע וְעֶשְׂר�
 | 11:24.7 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
 | 11:24.8 | תָּֽרַח׃ | תָּֽרַח | תֶּ֫רַח `bdb:w.bq.ao` | noun: proper name |  | silluq (disjunctive) |
 
+
+### Commentary anchored to this verse
+
+- `onkelos:11:24:1` Targum Onkelos on whole 11:24 (version; filed at 11:24): וַחֲיָא נָחוֹר עֶשְׂרִין וּתְשַׁע שְׁנִין וְאוֹלִיד יָת תָּרַח:
 
 ## Genesis 11:25
 
@@ -77,6 +89,10 @@ Paragraph mark after this verse: ס
 | 11:25.13 | בָּנִ֖ים | בָּנִ֖ים | בֵּן `bdb:b.ca.aa` | noun: common, masculine, plural, absolute |  | tipḥa (disjunctive) |
 | 11:25.14 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
 
+
+### Commentary anchored to this verse
+
+- `onkelos:11:25:1` Targum Onkelos on whole 11:25 (version; filed at 11:25): וַחֲיָא נָחוֹר בָּתַר דְּאוֹלִיד יָת תֶּרַח מְאָה וּתְשַׁע עֲשַׂר שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
 
 ## Lexicon
 
