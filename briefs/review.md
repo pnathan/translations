@@ -11,7 +11,7 @@ You review one unit's translation, and for the Mishnah its morphology, against t
 ## What to check
 
 1. Fidelity. Every Hebrew word is accounted for. Person, number, gender, tense and aspect, and the binyan are carried over correctly. Nothing is added without a mark.
-2. The glosses and senses. Each gloss fits its context, and each `sense` names the right sense of the entry.
+2. The glosses and senses. Each gloss fits its context, and each `sense` names the right sense of the entry. Check every sense: a translator may have filled them mechanically (for example, the first sense of each entry). Where the entry is the wrong homograph, patch `token:<id>.lex` to the right one if the pack lists it, else remove the sense and say so in the token's note.
 3. The normative commentators. For each normative anchor of the unit, state whether the translation is consistent with the comment or contradicts it. Where Rashi and Ibn Ezra (or Bartenura and Rambam) agree on the plain sense against the English, the English is wrong.
 4. The translator's rulings on the commentary. Each `summary` must say what the comment says. A wrong summary is an error.
 5. Morphology (Mishnah only). Each analysis is correct: segmentation, lemma, binyan, form, person, gender, number. Correct an analysis with a `morph:` patch.
