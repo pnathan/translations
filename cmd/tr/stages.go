@@ -87,6 +87,12 @@ func check(cfg *work.Config, args []string) error {
 				}
 			}
 		}
+		if len(args) > 0 && !exists(llm.MorphPath(cfg, id)) && !exists(llm.TranslationPath(cfg, id)) && !exists(llm.ReviewPath(cfg, id)) {
+			errs = append(errs, "no model output for this unit")
+		}
+		if e.Corpus.Unit(id) == nil {
+			errs = append(errs, "no such unit")
+		}
 		if len(errs) > 0 {
 			bad++
 			fmt.Printf("%s: %d problems\n", id, len(errs))
