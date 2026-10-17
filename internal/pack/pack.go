@@ -220,7 +220,7 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 			for _, r := range u.Refs {
 				writeSegment(&b, cfg, c, c.Segment(r), nil, 0, false)
 			}
-			if err := os.WriteFile(cfg.Path("stage", "packs", "morph", u.ID+".md"), []byte(b.String()), 0o644); err != nil {
+			if err := writeAtomic(cfg.Path("stage", "packs", "morph", u.ID+".md"), b.String()); err != nil {
 				return err
 			}
 			counts["morph"]++
@@ -232,7 +232,7 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 			writeSegment(&b, cfg, c, c.Segment(r), anchors, secondaryLimit, true)
 		}
 		writeLexicon(&b, c, u.Refs, lexicon)
-		if err := os.WriteFile(cfg.Path("stage", "packs", "translate", u.ID+".md"), []byte(b.String()), 0o644); err != nil {
+		if err := writeAtomic(cfg.Path("stage", "packs", "translate", u.ID+".md"), b.String()); err != nil {
 			return err
 		}
 		counts["translate"]++
@@ -249,7 +249,7 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 			}
 		}
 		writeLexicon(&r, c, u.Refs, lexicon)
-		if err := os.WriteFile(cfg.Path("stage", "packs", "review", u.ID+".md"), []byte(r.String()), 0o644); err != nil {
+		if err := writeAtomic(cfg.Path("stage", "packs", "review", u.ID+".md"), r.String()); err != nil {
 			return err
 		}
 		counts["review"]++
@@ -287,3 +287,13 @@ func writeTranslation(b *strings.Builder, s *llm.SegmentTr) {
 }
 
 func skeleton(s string) string { return hebrew.Skeleton(s) }
+
+// writeAtomic replaces a file in one rename, so an agent that reads a pack
+// while the build runs never sees a partial file.
+func writeAtomic(path, content string) error {
+	tmp := path + ".tmp"
+	if err := os.WriteFile(tmp, []byte(content), 0o644); err != nil {
+		return err
+	}
+	return os.Rename(tmp, path)
+}
