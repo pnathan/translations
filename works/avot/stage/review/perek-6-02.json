@@ -1,0 +1,3136 @@
+{
+ "unit": "perek-6-02",
+ "model": "opus",
+ "summary": "The English of 6:7-6:11 is faithful and keeps the sayings and proof texts plain; its few faults are a plural for the singular קִנְיָנֶךָ (Ps 104:24), a feminine reading of the pausal masculine לָךְ (Prov 3:2), a wrong 'verbal noun' note on וַהֲקִיצוֹתָ and a wrong binyan for לְזַכּוֹת. The senses were filled mechanically: most are sense 1, often of the wrong homograph (proper names such as Rosh, Anak, Atarah, Jamin, Adam, Tob, Kanah, Shem for the common words; 'gnat' for כֵּן, 'menstruation' for עַד), or a label ('adj', 'n f', 'peh'), or the Qal sense for a Niphal; these are re-pointed to the right entry or removed with a note. The apparatus collapsed major Vilna variants (two missing proof texts in 6:7, a different attribution and verse order in 6:8, לפי in 6:9, the half-verse and אדני in 6:10). The model morphology needed fixes to state (suffixed nouns, צְבָאוֹת, שֶׁבַע, רֵאשִׁית, מִקְּדָשׁ), number (duals), segmentation (מִשּׁוּם, מֵאָז, כֻּלָּם), binyan (בָּרוּךְ is Qal passive), pausal 2ms suffixes, and several roots and lemmas.",
+ "patches": [
+  {
+   "ref": "6:7",
+   "path": "token:6:7.22.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.22.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.30.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.30.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.40.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.40.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.50.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.50.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.60.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.60.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.71.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.71.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.80.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.80.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.90.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.90.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.24.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.24.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.33.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.33.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.42.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.42.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.48.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.48.note",
+   "value": "שם is the abbreviation of שָׁם 'there' (= ibid.); the lexicon key bdbs:שֵׁם (the name Shem) is the wrong word, and the pack lists no entry for שָׁם, so no sense is given",
+   "severity": "error",
+   "reason": "The key bdbs:שֵׁם is the proper name Shem; sense 1 'Shem = name' does not fit the citation word שם 'ibid.' and no entry for שָׁם is in the pack."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.24.gloss",
+   "value": "ibid.",
+   "severity": "style",
+   "reason": "שם is 'ibid.' (the book named before, Proverbs); the gloss should give the word, as at every other שם in the unit."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.2.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה sense 1 is 'custom, manner, mode, law (of man)', which is not the Torah; jastrow:תּוֹרָה sense 1 'teaching, law, esp. the Law of Moses' is the sense here."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.71.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה sense 1 is 'custom, manner, mode, law (of man)', which is not the Torah; jastrow:תּוֹרָה sense 1 'teaching, law, esp. the Law of Moses' is the sense here."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.92.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה sense 1 is 'custom, manner, mode, law (of man)', which is not the Torah; jastrow:תּוֹרָה sense 1 'teaching, law, esp. the Law of Moses' is the sense here."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.135.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה sense 1 is 'custom, manner, mode, law (of man)', which is not the Torah; jastrow:תּוֹרָה sense 1 'teaching, law, esp. the Law of Moses' is the sense here."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.11.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה sense 1 is 'custom, manner, mode, law (of man)', which is not the Torah; jastrow:תּוֹרָה sense 1 'teaching, law, esp. the Law of Moses' is the sense here."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.28.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה sense 1 is 'custom, manner, mode, law (of man)', which is not the Torah; jastrow:תּוֹרָה sense 1 'teaching, law, esp. the Law of Moses' is the sense here."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.45.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה sense 1 is 'custom, manner, mode, law (of man)', which is not the Torah; jastrow:תּוֹרָה sense 1 'teaching, law, esp. the Law of Moses' is the sense here."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.55.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה sense 1 is 'custom, manner, mode, law (of man)', which is not the Torah; jastrow:תּוֹרָה sense 1 'teaching, law, esp. the Law of Moses' is the sense here."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.10.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father' (= אַבָּא); הַבָּא in הָעוֹלָם הַבָּא is jastrow:בָּא III 'coming, future, the world to come'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.121.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father' (= אַבָּא); הַבָּא in הָעוֹלָם הַבָּא is jastrow:בָּא III 'coming, future, the world to come'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.44.lex",
+   "value": "jastrow:חֵן",
+   "severity": "error",
+   "reason": "bdbs:חֵן is the proper name Hen; the common noun 'grace, favor' is jastrow:חֵן."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.55.lex",
+   "value": "jastrow:חֵן",
+   "severity": "error",
+   "reason": "bdbs:חֵן is the proper name Hen; the common noun 'grace, favor' is jastrow:חֵן."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.46.lex",
+   "value": "jastrow:רֹאשׁ",
+   "severity": "error",
+   "reason": "bdbs:רֹאשׁ is the proper name Rosh (a son of Benjamin); the noun 'head' is jastrow:רֹאשׁ."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.53.lex",
+   "value": "jastrow:רֹאשׁ",
+   "severity": "error",
+   "reason": "bdbs:רֹאשׁ is the proper name Rosh (a son of Benjamin); the noun 'head' is jastrow:רֹאשׁ."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.47.lex",
+   "value": "jastrow:עֲנָק II",
+   "severity": "error",
+   "reason": "bdbs:עָנָק is the proper name Anak; jastrow:עֲנָק II is '[neck,] necklace, chain' and cites this very verse (Prov 1:9)."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.56.lex",
+   "value": "jastrow:עֲטָרָה",
+   "severity": "error",
+   "reason": "bdbs:עֲטָרָה is the proper name Atarah; the noun 'crown' is jastrow:עֲטָרָה sense 2 'wreath, crown, decoration'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.56.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:עֲטָרָה is the proper name Atarah; the noun 'crown' is jastrow:עֲטָרָה sense 2 'wreath, crown, decoration'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.26.lex",
+   "value": "jastrow:עֲטָרָה",
+   "severity": "error",
+   "reason": "bdbs:עֲטָרָה is the proper name Atarah; the noun 'crown' is jastrow:עֲטָרָה sense 2 'wreath, crown, decoration'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.26.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:עֲטָרָה is the proper name Atarah; the noun 'crown' is jastrow:עֲטָרָה sense 2 'wreath, crown, decoration'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.44.lex",
+   "value": "jastrow:עֲטָרָה",
+   "severity": "error",
+   "reason": "bdbs:עֲטָרָה is the proper name Atarah; the noun 'crown' is jastrow:עֲטָרָה sense 2 'wreath, crown, decoration'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.44.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:עֲטָרָה is the proper name Atarah; the noun 'crown' is jastrow:עֲטָרָה sense 2 'wreath, crown, decoration'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.50.lex",
+   "value": "jastrow:עֲטָרָה",
+   "severity": "error",
+   "reason": "bdbs:עֲטָרָה is the proper name Atarah; the noun 'crown' is jastrow:עֲטָרָה sense 2 'wreath, crown, decoration'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.50.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:עֲטָרָה is the proper name Atarah; the noun 'crown' is jastrow:עֲטָרָה sense 2 'wreath, crown, decoration'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.28.lex",
+   "value": "jastrow:עֶצֶם",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place name Azem/Ezem; 'bone' is jastrow:עֶצֶם sense 2."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.28.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place name Azem/Ezem; 'bone' is jastrow:עֶצֶם sense 2."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.75.lex",
+   "value": "jastrow:יָמִין",
+   "severity": "error",
+   "reason": "bdbs:יָמִין is the proper name Jamin; 'right hand' is jastrow:יָמִין."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.148.lex",
+   "value": "jastrow:יָמִין",
+   "severity": "error",
+   "reason": "bdbs:יָמִין is the proper name Jamin; 'right hand' is jastrow:יָמִין."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.68.lex",
+   "value": "bdbs:שָׁנֶה",
+   "severity": "error",
+   "reason": "bdbs:שָׁנָה is the verb 'to repeat'; the noun 'year' is the entry bdbs:שָׁנֶה, whose sense 1.4 'a lifetime (of years of life)' is שְׁנוֹת חַיִּים."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.68.sense",
+   "value": "1.4",
+   "severity": "error",
+   "reason": "bdbs:שָׁנָה is the verb 'to repeat'; the noun 'year' is the entry bdbs:שָׁנֶה, whose sense 1.4 'a lifetime (of years of life)' is שְׁנוֹת חַיִּים."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.84.lex",
+   "value": "bdbs:שָׁנֶה",
+   "severity": "error",
+   "reason": "bdbs:שָׁנָה is the verb 'to repeat'; the noun 'year' is the entry bdbs:שָׁנֶה, whose sense 1.4 'a lifetime (of years of life)' is שְׁנוֹת חַיִּים."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.84.sense",
+   "value": "1.4",
+   "severity": "error",
+   "reason": "bdbs:שָׁנָה is the verb 'to repeat'; the noun 'year' is the entry bdbs:שָׁנֶה, whose sense 1.4 'a lifetime (of years of life)' is שְׁנוֹת חַיִּים."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.17.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the proper name Shem; 'name' is jastrow:שֵׁם II."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.77.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:עָשַׂר is 'to tithe' (with sin); sense 1 is a stub of that verb and does not name the noun עֹשֶׁר 'wealth'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.77.note",
+   "value": "עֹשֶׁר 'wealth' (root עשר with shin); the lexicon key jastrow:עָשַׂר is the verb 'to tithe', a different root, and the pack has no entry for עֹשֶׁר",
+   "severity": "error",
+   "reason": "jastrow:עָשַׂר is 'to tithe' (with sin); sense 1 is a stub of that verb and does not name the noun עֹשֶׁר 'wealth'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.13.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:עָשַׂר is 'to tithe' (with sin); sense 1 is a stub of that verb and does not name the noun עֹשֶׁר 'wealth'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.13.note",
+   "value": "עֹשֶׁר 'wealth' (root עשר with shin); the lexicon key jastrow:עָשַׂר is the verb 'to tithe', a different root, and the pack has no entry for עֹשֶׁר",
+   "severity": "error",
+   "reason": "jastrow:עָשַׂר is 'to tithe' (with sin); sense 1 is a stub of that verb and does not name the noun עֹשֶׁר 'wealth'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.46.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:עָשַׂר is 'to tithe' (with sin); sense 1 is a stub of that verb and does not name the noun עֹשֶׁר 'wealth'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.46.note",
+   "value": "עֹשֶׁר 'wealth' (root עשר with shin); the lexicon key jastrow:עָשַׂר is the verb 'to tithe', a different root, and the pack has no entry for עֹשֶׁר",
+   "severity": "error",
+   "reason": "jastrow:עָשַׂר is 'to tithe' (with sin); sense 1 is a stub of that verb and does not name the noun עֹשֶׁר 'wealth'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.43.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 1 of jastrow:לְוִיָּה is only the etymology '(לָוָה)'; none of its senses is 'wreath'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.43.note",
+   "value": "לִוְיַת חֵן 'a wreath of grace'; the entry jastrow:לְוִיָּה lists only 'consort' and 'the wailing woman's company', not 'wreath', so no sense is given",
+   "severity": "error",
+   "reason": "Sense 1 of jastrow:לְוִיָּה is only the etymology '(לָוָה)'; none of its senses is 'wreath'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.54.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 1 of jastrow:לְוִיָּה is only the etymology '(לָוָה)'; none of its senses is 'wreath'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.54.note",
+   "value": "לִוְיַת חֵן 'a wreath of grace'; the entry jastrow:לְוִיָּה lists only 'consort' and 'the wailing woman's company', not 'wreath', so no sense is given",
+   "severity": "error",
+   "reason": "Sense 1 of jastrow:לְוִיָּה is only the etymology '(לָוָה)'; none of its senses is 'wreath'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.38.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֲשֶׁר is the relative particle; sense 1 '(relative part.)' cannot be the sense of מְאֻשָּׁר 'happy'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.38.note",
+   "value": "Pual participle of אשר 'to be made happy'; the lexicon key bdbs:אֲשֶׁר is the relative particle, and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "bdbs:אֲשֶׁר is the relative particle; sense 1 '(relative part.)' cannot be the sense of מְאֻשָּׁר 'happy'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.11.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 of jastrow:נוֹי is only the etymology '(נָוָה, נָאָה)'; 'beauty, ornament' is sense 2."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.61.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Sense 1 of jastrow:לְבָנָה is only '(b. h.)'; 'moon' is sense 3."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.60.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חָפַר is 'to dig'; its sense 1 contradicts the gloss 'will be abashed' (the homograph חָפֵר), as the translator's own note says."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.60.note",
+   "value": "חפר \"to be ashamed, confounded\"; the pack's lemma is the homograph \"dig\"; the pack gives no entry for חָפֵר 'to be abashed', so no sense is given",
+   "severity": "error",
+   "reason": "bdbs:חָפַר is 'to dig'; its sense 1 contradicts the gloss 'will be abashed' (the homograph חָפֵר), as the translator's own note says."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.65.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:מֶלֶךְ is the noun 'king'; its sense 1 is not the sense of the verb מָלַךְ / יִמְלֹךְ."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.65.note",
+   "value": "perfect of the denominative verb מלך \"to reign\"; verb מָלַךְ 'to reign'; the lexicon key bdbs:מֶלֶךְ is the noun 'king', and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "bdbs:מֶלֶךְ is the noun 'king'; its sense 1 is not the sense of the verb מָלַךְ / יִמְלֹךְ."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.27.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:מֶלֶךְ is the noun 'king'; its sense 1 is not the sense of the verb מָלַךְ / יִמְלֹךְ."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.27.note",
+   "value": "verb מָלַךְ 'to reign'; the lexicon key bdbs:מֶלֶךְ is the noun 'king', and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "bdbs:מֶלֶךְ is the noun 'king'; its sense 1 is not the sense of the verb מָלַךְ / יִמְלֹךְ."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.81.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה is 'tribute' (another homograph); the word is jastrow:מִדָּה 'measure'. None of its listed senses is 'quality, trait', so the sense is left empty."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.81.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה is 'tribute' (another homograph); the word is jastrow:מִדָּה 'measure'. None of its listed senses is 'quality, trait', so the sense is left empty."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.81.note",
+   "value": "מִדָּה 'measure', here a trait or quality; the listed senses of jastrow:מִדָּה (measure, dealing, principle) do not give this use",
+   "severity": "error",
+   "reason": "Records why the sense is empty."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.82.lex",
+   "value": "jastrow:מָנָה II",
+   "severity": "error",
+   "reason": "bdbs:מָנָה is the noun 'part, portion'; the verb 'to count' is jastrow:מָנָה II."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.86.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:קְיָם is the noun 'decree, statute'; its sense does not name the verb נִתְקַיְּמוּ 'were fulfilled'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.86.note",
+   "value": "Nitpael perfect of קים, an Aramaic-type stem; Nitpael of קום/קים 'to be fulfilled'; the key bdbs:קְיָם is the noun 'decree', and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "bdbs:קְיָם is the noun 'decree, statute'; its sense does not name the verb נִתְקַיְּמוּ 'were fulfilled'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.1.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', not a sense; רַבִּי 'my master' is sense 4 'captain, chief'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.6.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', not a sense; רַבִּי 'my master' is sense 4 'captain, chief'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.74.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', not a sense; רַבִּי 'my master' is sense 4 'captain, chief'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.87.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', not a sense; רַבִּי 'my master' is sense 4 'captain, chief'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.2.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', not a sense; רַבִּי 'my master' is sense 4 'captain, chief'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.23.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', not a sense; רַבִּי 'my master' is sense 4 'captain, chief'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.38.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', not a sense; רַבִּי 'my master' is sense 4 'captain, chief'."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.30.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', not a sense; רַבִּי 'my master' is sense 4 'captain, chief'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.31.sense",
+   "value": "1.2.1",
+   "severity": "error",
+   "reason": "תִּמָּצֵא is Niphal; the Niphal sense of bdbs:מָצָא is 1.2.1 'to be found', not the Qal sense 1 'to find'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.11.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "נֶאֱמַר is Niphal; the Niphal sense of bdbs:אָמַר is 1.2 'to be told, to be said', not sense 1 'to say'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.23.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "נֶאֱמַר is Niphal; the Niphal sense of bdbs:אָמַר is 1.2 'to be told, to be said', not sense 1 'to say'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.96.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "נֶאֱמַר is Niphal; the Niphal sense of bdbs:אָמַר is 1.2 'to be told, to be said', not sense 1 'to say'."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.12.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "נֶאֱמַר is Niphal; the Niphal sense of bdbs:אָמַר is 1.2 'to be told, to be said', not sense 1 'to say'."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.47.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "נֶאֱמַר is Niphal; the Niphal sense of bdbs:אָמַר is 1.2 'to be told, to be said', not sense 1 'to say'."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.39.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Sense 1.1 'old (of humans)' names the old men of Prov 20:29 and 17:6 exactly."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.51.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Sense 1.1 'old (of humans)' names the old men of Prov 20:29 and 17:6 exactly."
+  },
+  {
+   "ref": "6:8",
+   "path": "token:6:8.72.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "זְקֵנָיו in Isa 24:23 are elders in authority: sense 1.2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.13.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם is the proper name Adam; the common noun 'man, person' is jastrow:אָדָם."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.78.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם is the proper name Adam; the common noun 'man, person' is jastrow:אָדָם."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.82.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם is the proper name Adam; the common noun 'man, person' is jastrow:אָדָם."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.29.lex",
+   "value": "jastrow:עִיר II",
+   "severity": "error",
+   "reason": "bdbs:עִיר is 'watcher, angel'; 'town, city' is jastrow:עִיר II."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.30.sense",
+   "value": "2.1",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:גָּדוֹל is the label 'adj'; a great city is sense 2.1 'large (in magnitude and extent)'."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.1.sense",
+   "value": "2.6",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:גָּדוֹל is the label 'adj'; 'great is the Torah' is greatness of importance, sense 2.6."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.40.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:דָּר is the noun 'generation'; its sense 1 is not the verb 'to dwell'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.40.note",
+   "value": "verb דּוּר 'to dwell'; the lexicon key bdbs:דָּר is the noun 'generation', and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "bdbs:דָּר is the noun 'generation'; its sense 1 is not the verb 'to dwell'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.68.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:דָּר is the noun 'generation'; its sense 1 is not the verb 'to dwell'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.68.note",
+   "value": "verb דּוּר 'to dwell'; the lexicon key bdbs:דָּר is the noun 'generation', and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "bdbs:דָּר is the noun 'generation'; its sense 1 is not the verb 'to dwell'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.46.lex",
+   "value": "jastrow:אֶלֶף",
+   "severity": "error",
+   "reason": "bdbs:אֶלֶף is the place name Eleph; the numeral is jastrow:אֶלֶף 'thousand'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.47.lex",
+   "value": "jastrow:אֶלֶף",
+   "severity": "error",
+   "reason": "bdbs:אֶלֶף is the place name Eleph; 'thousand' is jastrow:אֶלֶף."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.137.lex",
+   "value": "jastrow:אֶלֶף",
+   "severity": "error",
+   "reason": "bdbs:אֶלֶף is the place name Eleph; 'thousand' is jastrow:אֶלֶף."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.51.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.51.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.64.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.64.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.89.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.89.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.94.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.94.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.133.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.133.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.67.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is 'where?, whence?'; the negative אֵין / אֵינִי is jastrow:אֵין 'nothing, not'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.67.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is 'where?, whence?'; the negative אֵין / אֵינִי is jastrow:אֵין 'nothing, not'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.79.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is 'where?, whence?'; the negative אֵין / אֵינִי is jastrow:אֵין 'nothing, not'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.79.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is 'where?, whence?'; the negative אֵין / אֵינִי is jastrow:אֵין 'nothing, not'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.18.sense",
+   "value": "4.1",
+   "severity": "error",
+   "reason": "הֶחֱזַרְתִּי is Hifil; jastrow:חָזַר sense 1 'to go around (searching)' is wrong, and sense 4.1 'to restore, give back' even cites returning a greeting (המחזיר שלום)."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.9.sense",
+   "value": "1.2.1",
+   "severity": "style",
+   "reason": "מְהַלֵּךְ is Piel; the Piel sense of bdbs:הָלַךְ is 1.2.1 'to walk'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.99.sense",
+   "value": "1.3.2",
+   "severity": "style",
+   "reason": "בְּהִתְהַלֶּכְךָ is Hitpael; the Hitpael sense of bdbs:הָלַךְ is 1.3.2 'to walk about'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.108.sense",
+   "value": "1.3.2",
+   "severity": "style",
+   "reason": "בְּהִתְהַלֶּכְךָ is Hitpael; the Hitpael sense of bdbs:הָלַךְ is 1.3.2 'to walk about'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.105.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:קָץ sense 1 is 'Decreer of Falsehood, legendary name of one of the Sodomite judges', not 'to awake'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.117.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:קָץ sense 1 is 'Decreer of Falsehood, legendary name of one of the Sodomite judges', not 'to awake'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.117.note",
+   "value": "Hifil of קיץ 'to awake'; the lexicon key jastrow:קָץ is a legendary name, and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "jastrow:קָץ sense 1 is 'Decreer of Falsehood, legendary name of one of the Sodomite judges', not 'to awake'."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.105.note",
+   "value": "Hifil perfect 2nd masc. sing. of קיץ with ו (weqatal): 'and (when) you awake', parallel to the infinitives בְּהִתְהַלֶּכְךָ and בְּשָׁכְבְּךָ; the lexicon key jastrow:קָץ is a legendary name, and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "The note called הֲקִיצוֹתָ a 'verbal noun'; it is a finite verb, Hifil perfect 2ms with waw (the morphology says so too). The note also records why there is no sense."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.122.lex",
+   "value": "jastrow:כֵּן I",
+   "severity": "error",
+   "reason": "bdbs:כֵּן is 'gnat'; the adverb 'so, thus' is jastrow:כֵּן I."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.124.sense",
+   "value": "4.3",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:סֵפֶר is the label 'n f'; 'book, scroll' is sense 4.3."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.136.sense",
+   "value": "2.2",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:פֶּה is the letter name 'peh'; 'mouth (as organ of speech)' is sense 2.2."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.6.sense",
+   "value": "1.3.1",
+   "severity": "style",
+   "reason": "פַּעַם אַחַת 'once' is sense 1.3.1 'one time, once'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.3.lex",
+   "value": "jastrow:קָנָה",
+   "severity": "error",
+   "reason": "bdbs:קָנָה is the place name Kanah 'reed'; the verb 'to acquire' is jastrow:קָנָה (which refers on to קני II)."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.34.lex",
+   "value": "jastrow:קָנָה",
+   "severity": "error",
+   "reason": "bdbs:קָנָה is the place name Kanah 'reed'; the verb 'to acquire' is jastrow:קָנָה (which refers on to קני II)."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.92.lex",
+   "value": "jastrow:קָנָה",
+   "severity": "error",
+   "reason": "bdbs:קָנָה is the place name Kanah 'reed'; the verb 'to acquire' is jastrow:קָנָה (which refers on to קני II)."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.110.lex",
+   "value": "jastrow:קָנָה",
+   "severity": "error",
+   "reason": "bdbs:קָנָה is the place name Kanah 'reed'; the verb 'to acquire' is jastrow:קָנָה (which refers on to קני II)."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.147.lex",
+   "value": "jastrow:קָנָה",
+   "severity": "error",
+   "reason": "bdbs:קָנָה is the place name Kanah 'reed'; the verb 'to acquire' is jastrow:קָנָה (which refers on to קני II)."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.24.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; 'house' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.24.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; 'house' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.58.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; 'house' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.58.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; 'house' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.122.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; 'house' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.122.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; 'house' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.29.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.29.note",
+   "value": "מִנַּיִן: \"from where [is it derived]?\", the formula asking for a proof text; מִנַּיִן 'from where?' (from מִן + אַיִן); the lexicon key jastrow:מִנְיָן 'number, count' is another word, and the pack has no entry for מִנַּיִן",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.44.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.44.note",
+   "value": "מִנַּיִן 'from where?' (from מִן + אַיִן); the lexicon key jastrow:מִנְיָן 'number, count' is another word, and the pack has no entry for מִנַּיִן",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.82.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.82.note",
+   "value": "מִנַּיִן 'from where?' (from מִן + אַיִן); the lexicon key jastrow:מִנְיָן 'number, count' is another word, and the pack has no entry for מִנַּיִן",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.98.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.98.note",
+   "value": "מִנַּיִן 'from where?' (from מִן + אַיִן); the lexicon key jastrow:מִנְיָן 'number, count' is another word, and the pack has no entry for מִנַּיִן",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.126.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.126.note",
+   "value": "מִנַּיִן 'from where?' (from מִן + אַיִן); the lexicon key jastrow:מִנְיָן 'number, count' is another word, and the pack has no entry for מִנַּיִן",
+   "severity": "error",
+   "reason": "jastrow:מִנְיָן sense 1 is 'number, count; ballot', not 'from where?'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.90.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:אַל is 'no, not', which contradicts the gloss 'to God'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.90.note",
+   "value": "לְאֵל: \"to God\", the pack's lemma אַל \"not\" is the wrong homograph; the lexicon key bdbs:אַל 'no, not' is the wrong word, and the pack has no entry for the noun אֵל 'God', so no sense is given",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:אַל is 'no, not', which contradicts the gloss 'to God'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.142.lex",
+   "value": "bdbs:אֵל",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'not'; the preposition אֶל is bdbs:אֵל, sense 1 'to, toward (of motion)'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.142.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'not'; the preposition אֶל is bdbs:אֵל, sense 1 'to, toward (of motion)'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.76.lex",
+   "value": "jastrow:מָלֵא I",
+   "severity": "error",
+   "reason": "bdbs:מָלֵא is the adjective 'full'; the verb מָלְאָה 'is full' is jastrow:מָלֵא I '(b. h.) to be full'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.104.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:עִם is 'with', which contradicts the gloss 'people'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.104.note",
+   "value": "עַם 'people'; the lexicon key bdbs:עִם is the preposition 'with', and the pack has no entry for עַם",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:עִם is 'with', which contradicts the gloss 'people'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.108.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:עִם is 'with', which contradicts the gloss 'people'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.108.note",
+   "value": "עַם 'people'; the lexicon key bdbs:עִם is the preposition 'with', and the pack has no entry for עַם",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:עִם is 'with', which contradicts the gloss 'people'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.136.sense",
+   "value": "6.1",
+   "severity": "error",
+   "reason": "כּוֹנְנוּ is Polel 'to establish'; jastrow:כּוּן sense 1 'to stand, exist, be firm' is intransitive; sense 6.1 is 'to establish, base firmly'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.141.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father' (= אַבָּא); sense 1 cannot be the sense of וַיְבִיאֵם 'and He brought them'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.141.note",
+   "value": "Hifil of בוא 'to bring'; the lexicon key jastrow:בָּא I is 'father', and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father' (= אַבָּא); sense 1 cannot be the sense of וַיְבִיאֵם 'and He brought them'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.118.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "אַדִּירֵי is used as a noun, 'the majestic ones': sense 2 'great one, majestic one'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.86.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "וַיְבָרְכֵהוּ is Piel; the Piel sense of bdbs:בָרַךְ is 1.3 'to bless'."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.6.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "בָּרוּךְ is the Qal passive participle; the Qal sense 'to bless' is 1.1.2 (sense 1 also covers 'kneel')."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.88.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "בָּרוּךְ is the Qal passive participle; the Qal sense 'to bless' is 1.1.2 (sense 1 also covers 'kneel')."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.5.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "בָּרוּךְ is the Qal passive participle; the Qal sense 'to bless' is 1.1.2 (sense 1 also covers 'kneel')."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.37.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "בָּרוּךְ is the Qal passive participle; the Qal sense 'to bless' is 1.1.2 (sense 1 also covers 'kneel')."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.16.lex",
+   "value": "jastrow:קָרָא II",
+   "severity": "error",
+   "reason": "bdbs:קָרָא is the homograph 'to encounter, meet'; הַנִּקְרָא 'who is called' is jastrow:קָרָא II 'to call'."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.21.lex",
+   "value": "jastrow:אַף I",
+   "severity": "error",
+   "reason": "bdbs:אַף is 'nostril, nose'; the particle 'also, even' is jastrow:אַף I."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.29.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:עֵד is 'menstruation'; it is not the noun עַד 'ever'."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.29.note",
+   "value": "עַד 'perpetuity' in לְעֹלָם וָעֶד; the lexicon key bdbs:עֵד ('menstruation') is the wrong word, and the pack has no entry for עַד",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:עֵד is 'menstruation'; it is not the noun עַד 'ever'."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.51.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חֵפֶץ is the noun 'delight, pleasure'; the token is the verb חָפֵץ."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.51.note",
+   "value": "verb חָפֵץ 'to be pleased'; the lexicon key bdbs:חֵפֶץ is the noun 'delight', and the pack has no entry for the verb",
+   "severity": "error",
+   "reason": "bdbs:חֵפֶץ is the noun 'delight, pleasure'; the token is the verb חָפֵץ."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.54.sense",
+   "value": "2.2",
+   "severity": "error",
+   "reason": "יַגְדִּיל is transitive 'to magnify'; jastrow:גָּדַל I sense 1 'to be high, to grow' is intransitive; sense 2.2 is 'to raise to dignity, make famous; to praise'."
+  },
+  {
+   "ref": "6:11",
+   "path": "token:6:11.56.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:אָדַר sense 1 is 'to cut off, surround, isolate'; the sense of וְיַאְדִּיר 'make glorious' is sense 2 '(b. h.) to distinguish', whence אַדִּיר."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.8.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is 'lamb, sheep'; the demonstrative 'this' is jastrow:זֶה."
+  },
+  {
+   "ref": "6:9",
+   "path": "token:6:9.112.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is 'lamb, sheep'; the demonstrative 'this' is jastrow:זֶה."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.57.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is 'lamb, sheep'; the demonstrative 'this' is jastrow:זֶה."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.63.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is 'lamb, sheep'; the demonstrative 'this' is jastrow:זֶה."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.146.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is 'lamb, sheep'; the demonstrative 'this' is jastrow:זֶה."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.10.lex",
+   "value": "jastrow:הֵן",
+   "severity": "error",
+   "reason": "bdbs:הֵן is the interjection 'behold, if'; the pronoun 'they' is jastrow:הֵן."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.13.lex",
+   "value": "jastrow:אַרְבַּע",
+   "severity": "error",
+   "reason": "bdbs:אַרְבַּע is the proper name Arba; the numeral 'four' is jastrow:אַרְבַּע."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.51.lex",
+   "value": "jastrow:אַרְבַּע",
+   "severity": "error",
+   "reason": "bdbs:אַרְבַּע is the proper name Arba; the numeral 'four' is jastrow:אַרְבַּע."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.88.gloss",
+   "value": "to you",
+   "severity": "error",
+   "reason": "לָךְ in Prov 3:2 is the pausal form of לְךָ, 2nd person masculine (the father speaks to 'my son'), not feminine."
+  },
+  {
+   "ref": "6:7",
+   "path": "token:6:7.88.note",
+   "value": "pausal form of לְךָ, masculine",
+   "severity": "error",
+   "reason": "A learner needs to know why לָךְ is masculine here."
+  },
+  {
+   "ref": "6:10",
+   "path": "token:6:10.78.gloss",
+   "value": "Your possession",
+   "severity": "error",
+   "reason": "קִנְיָנֶךָ is singular (the plural would be קִנְיָנֶיךָ)."
+  },
+  {
+   "ref": "6:9",
+   "path": "english",
+   "value": "Rabbi Yose son of Kisma said: Once I was walking on the road and a certain man met me, and he greeted me, and I returned his greeting. He said to me: Rabbi, from what place are you? I said to him: I am from a great city of sages and of scribes. He said to me: Rabbi, is it your wish to dwell with us in our place? And I will give you a thousand thousand dinars of gold and precious stones and pearls. I said to him: My son, if you give me all the silver and gold and precious stones and pearls that are in the world, I dwell nowhere except in a place of Torah. And not only that, but at the hour of a person's departure nothing accompanies a person: neither silver nor gold nor precious stones or pearls, but only Torah and good deeds, as it is said: When you walk, it will lead you; when you lie down, it will watch over you; and when you awake, it will talk with you. When you walk, it will lead you in this world; when you lie down, it will watch over you in the grave; and when you awake, it will talk with you in the world to come. And so it is written in the Book of Psalms by the hand of David, king of Israel: The Torah of Your mouth is better to me than thousands of gold and silver. And it says: Mine is the silver and mine is the gold, says the LORD of hosts.",
+   "severity": "style",
+   "reason": "'as it is said' continued the sentence but began after a full stop in lower case; joined to the sentence it proves."
+  },
+  {
+   "ref": "6:10",
+   "path": "english",
+   "value": "Five possessions the Holy One, blessed be He, acquired for Himself in His world, and these are they: Torah, one possession; heaven and earth, one possession; Abraham, one possession; Israel, one possession; the Temple, one possession. Torah: from where do we know it? For it is written: The LORD acquired me as the beginning of His way, before His works of old. Heaven and earth, one possession: from where do we know it? For it is written: Thus says the LORD: The heavens are My throne and the earth is My footstool; what house is it that you would build for Me and what is the place of My rest? And it says: How many are Your works, O LORD; You made them all in wisdom; the earth is full of Your possession. Abraham, one possession: from where do we know it? For it is written: And he blessed him and said: Blessed be Abram to God Most High, possessor of heaven and earth. Israel, one possession: from where do we know it? For it is written: Until Your people pass over, O LORD, until the people You acquired pass over. And it says: As for the holy ones who are in the land, they, and the majestic ones, all my delight is in them. The Temple, one possession: from where do we know it? For it is written: The place for Your dwelling You made, O LORD; the sanctuary, O LORD, Your hands established. And it says: And He brought them to the border of His holiness, this mountain that His right hand acquired.",
+   "severity": "error",
+   "reason": "קִנְיָנֶךָ (Ps 104:24) is singular, and the mishnah cites it for one קִנְיָן: 'Your possession', not 'Your possessions'. Also: a colon before each quoted verse, and 'My throne' capitalized like 'My footstool'."
+  },
+  {
+   "ref": "6:10",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "6:10.1",
+      "6:10.2"
+     ],
+     "english": "Five possessions",
+     "literal": "five possessions"
+    },
+    {
+     "tokens": [
+      "6:10.3",
+      "6:10.4",
+      "6:10.5",
+      "6:10.6",
+      "6:10.7"
+     ],
+     "english": "the Holy One, blessed be He, acquired for Himself",
+     "literal": "acquired for-him the-Holy-One blessed He"
+    },
+    {
+     "tokens": [
+      "6:10.8"
+     ],
+     "english": "in His world,",
+     "literal": "in-his-world"
+    },
+    {
+     "tokens": [
+      "6:10.9",
+      "6:10.10"
+     ],
+     "english": "and these are they:",
+     "literal": "and-these they"
+    },
+    {
+     "tokens": [
+      "6:10.11"
+     ],
+     "english": "Torah,",
+     "literal": "Torah"
+    },
+    {
+     "tokens": [
+      "6:10.12",
+      "6:10.13"
+     ],
+     "english": "one possession;",
+     "literal": "possession one"
+    },
+    {
+     "tokens": [
+      "6:10.14",
+      "6:10.15"
+     ],
+     "english": "heaven and earth,",
+     "literal": "heavens and-earth"
+    },
+    {
+     "tokens": [
+      "6:10.16",
+      "6:10.17"
+     ],
+     "english": "one possession;",
+     "literal": "possession one"
+    },
+    {
+     "tokens": [
+      "6:10.18"
+     ],
+     "english": "Abraham,",
+     "literal": "Abraham"
+    },
+    {
+     "tokens": [
+      "6:10.19",
+      "6:10.20"
+     ],
+     "english": "one possession;",
+     "literal": "possession one"
+    },
+    {
+     "tokens": [
+      "6:10.21"
+     ],
+     "english": "Israel,",
+     "literal": "Israel"
+    },
+    {
+     "tokens": [
+      "6:10.22",
+      "6:10.23"
+     ],
+     "english": "one possession;",
+     "literal": "possession one"
+    },
+    {
+     "tokens": [
+      "6:10.24",
+      "6:10.25"
+     ],
+     "english": "the Temple,",
+     "literal": "house-of the-sanctuary"
+    },
+    {
+     "tokens": [
+      "6:10.26",
+      "6:10.27"
+     ],
+     "english": "one possession.",
+     "literal": "possession one"
+    },
+    {
+     "tokens": [
+      "6:10.28",
+      "6:10.29"
+     ],
+     "english": "Torah: from where do we know it?",
+     "literal": "Torah from-where"
+    },
+    {
+     "tokens": [
+      "6:10.30"
+     ],
+     "english": "For it is written",
+     "literal": "that-it-is-written"
+    },
+    {
+     "tokens": [
+      "6:10.31",
+      "6:10.32"
+     ],
+     "english": "-",
+     "literal": "(Proverbs 8)"
+    },
+    {
+     "tokens": [
+      "6:10.33",
+      "6:10.34"
+     ],
+     "english": "The LORD acquired me",
+     "literal": "the-LORD he-acquired-me"
+    },
+    {
+     "tokens": [
+      "6:10.35",
+      "6:10.36"
+     ],
+     "english": "as the beginning of His way,",
+     "literal": "beginning-of his-way"
+    },
+    {
+     "tokens": [
+      "6:10.37",
+      "6:10.38"
+     ],
+     "english": "before His works",
+     "literal": "before his-works"
+    },
+    {
+     "tokens": [
+      "6:10.39"
+     ],
+     "english": "of old.",
+     "literal": "from-of-old"
+    },
+    {
+     "tokens": [
+      "6:10.40",
+      "6:10.41"
+     ],
+     "english": "Heaven and earth,",
+     "literal": "heavens and-earth"
+    },
+    {
+     "tokens": [
+      "6:10.42",
+      "6:10.43"
+     ],
+     "english": "one possession:",
+     "literal": "possession one"
+    },
+    {
+     "tokens": [
+      "6:10.44"
+     ],
+     "english": "from where do we know it?",
+     "literal": "from-where"
+    },
+    {
+     "tokens": [
+      "6:10.45"
+     ],
+     "english": "For it is written",
+     "literal": "that-it-is-written"
+    },
+    {
+     "tokens": [
+      "6:10.46",
+      "6:10.47"
+     ],
+     "english": "-",
+     "literal": "(Isaiah 66)"
+    },
+    {
+     "tokens": [
+      "6:10.48",
+      "6:10.49",
+      "6:10.50"
+     ],
+     "english": "Thus says the LORD:",
+     "literal": "thus said the-LORD"
+    },
+    {
+     "tokens": [
+      "6:10.51",
+      "6:10.52"
+     ],
+     "english": "The heavens are my throne",
+     "literal": "the-heavens my-throne"
+    },
+    {
+     "tokens": [
+      "6:10.53",
+      "6:10.54",
+      "6:10.55"
+     ],
+     "english": "and the earth is My footstool;",
+     "literal": "and-the-earth footstool-of my-feet"
+    },
+    {
+     "tokens": [
+      "6:10.56",
+      "6:10.57",
+      "6:10.58"
+     ],
+     "english": "what house is it",
+     "literal": "which this house"
+    },
+    {
+     "tokens": [
+      "6:10.59",
+      "6:10.60",
+      "6:10.61"
+     ],
+     "english": "that you would build for Me",
+     "literal": "that you-will-build for-me"
+    },
+    {
+     "tokens": [
+      "6:10.62",
+      "6:10.63",
+      "6:10.64",
+      "6:10.65"
+     ],
+     "english": "and what is the place of My rest?",
+     "literal": "and-which this place my-rest"
+    },
+    {
+     "tokens": [
+      "6:10.66"
+     ],
+     "english": "And it says:",
+     "literal": "and-says"
+    },
+    {
+     "tokens": [
+      "6:10.67",
+      "6:10.68"
+     ],
+     "english": "-",
+     "literal": "(Psalms 104)"
+    },
+    {
+     "tokens": [
+      "6:10.69",
+      "6:10.70",
+      "6:10.71"
+     ],
+     "english": "How many are Your works,",
+     "literal": "how are-many your-works"
+    },
+    {
+     "tokens": [
+      "6:10.72"
+     ],
+     "english": "O LORD;",
+     "literal": "LORD"
+    },
+    {
+     "tokens": [
+      "6:10.73",
+      "6:10.74",
+      "6:10.75"
+     ],
+     "english": "You made them all in wisdom;",
+     "literal": "all-of-them in-wisdom you-made"
+    },
+    {
+     "tokens": [
+      "6:10.76",
+      "6:10.77",
+      "6:10.78"
+     ],
+     "english": "the earth is full of Your possession.",
+     "literal": "she-is-full the-earth your-possession"
+    },
+    {
+     "tokens": [
+      "6:10.79"
+     ],
+     "english": "Abraham,",
+     "literal": "Abraham"
+    },
+    {
+     "tokens": [
+      "6:10.80",
+      "6:10.81"
+     ],
+     "english": "one possession:",
+     "literal": "possession one"
+    },
+    {
+     "tokens": [
+      "6:10.82"
+     ],
+     "english": "from where do we know it?",
+     "literal": "from-where"
+    },
+    {
+     "tokens": [
+      "6:10.83"
+     ],
+     "english": "For it is written",
+     "literal": "that-it-is-written"
+    },
+    {
+     "tokens": [
+      "6:10.84",
+      "6:10.85"
+     ],
+     "english": "-",
+     "literal": "(Genesis 14)"
+    },
+    {
+     "tokens": [
+      "6:10.86"
+     ],
+     "english": "And he blessed him",
+     "literal": "and-he-blessed-him"
+    },
+    {
+     "tokens": [
+      "6:10.87"
+     ],
+     "english": "and said:",
+     "literal": "and-he-said"
+    },
+    {
+     "tokens": [
+      "6:10.88",
+      "6:10.89"
+     ],
+     "english": "Blessed be Abram",
+     "literal": "blessed Abram"
+    },
+    {
+     "tokens": [
+      "6:10.90",
+      "6:10.91"
+     ],
+     "english": "to God Most High,",
+     "literal": "to-God Most-High"
+    },
+    {
+     "tokens": [
+      "6:10.92",
+      "6:10.93",
+      "6:10.94"
+     ],
+     "english": "possessor of heaven and earth.",
+     "literal": "acquirer-of heavens and-earth"
+    },
+    {
+     "tokens": [
+      "6:10.95"
+     ],
+     "english": "Israel,",
+     "literal": "Israel"
+    },
+    {
+     "tokens": [
+      "6:10.96",
+      "6:10.97"
+     ],
+     "english": "one possession:",
+     "literal": "possession one"
+    },
+    {
+     "tokens": [
+      "6:10.98"
+     ],
+     "english": "from where do we know it?",
+     "literal": "from-where"
+    },
+    {
+     "tokens": [
+      "6:10.99"
+     ],
+     "english": "For it is written",
+     "literal": "that-it-is-written"
+    },
+    {
+     "tokens": [
+      "6:10.100",
+      "6:10.101"
+     ],
+     "english": "-",
+     "literal": "(Exodus 15)"
+    },
+    {
+     "tokens": [
+      "6:10.102",
+      "6:10.103",
+      "6:10.104",
+      "6:10.105"
+     ],
+     "english": "Until Your people pass over, O LORD,",
+     "literal": "until he-passes your-people LORD"
+    },
+    {
+     "tokens": [
+      "6:10.106",
+      "6:10.107",
+      "6:10.108",
+      "6:10.109",
+      "6:10.110"
+     ],
+     "english": "until the people You acquired pass over.",
+     "literal": "until he-passes people this you-acquired"
+    },
+    {
+     "tokens": [
+      "6:10.111"
+     ],
+     "english": "And it says:",
+     "literal": "and-says"
+    },
+    {
+     "tokens": [
+      "6:10.112",
+      "6:10.113"
+     ],
+     "english": "-",
+     "literal": "(Psalms 16)"
+    },
+    {
+     "tokens": [
+      "6:10.114"
+     ],
+     "english": "As for the holy ones",
+     "literal": "to-holy-ones"
+    },
+    {
+     "tokens": [
+      "6:10.115",
+      "6:10.116"
+     ],
+     "english": "who are in the land,",
+     "literal": "that in-the-land"
+    },
+    {
+     "tokens": [
+      "6:10.117"
+     ],
+     "english": "they,",
+     "literal": "they"
+    },
+    {
+     "tokens": [
+      "6:10.118",
+      "6:10.119",
+      "6:10.120",
+      "6:10.121"
+     ],
+     "english": "and the majestic ones, all my delight is in them.",
+     "literal": "and-majestic-of all my-delight in-them"
+    },
+    {
+     "tokens": [
+      "6:10.122",
+      "6:10.123"
+     ],
+     "english": "The Temple,",
+     "literal": "house-of the-sanctuary"
+    },
+    {
+     "tokens": [
+      "6:10.124",
+      "6:10.125"
+     ],
+     "english": "one possession:",
+     "literal": "possession one"
+    },
+    {
+     "tokens": [
+      "6:10.126"
+     ],
+     "english": "from where do we know it?",
+     "literal": "from-where"
+    },
+    {
+     "tokens": [
+      "6:10.127"
+     ],
+     "english": "For it is written",
+     "literal": "that-it-is-written"
+    },
+    {
+     "tokens": [
+      "6:10.128",
+      "6:10.129"
+     ],
+     "english": "-",
+     "literal": "(Exodus 15)"
+    },
+    {
+     "tokens": [
+      "6:10.130",
+      "6:10.131",
+      "6:10.132",
+      "6:10.133"
+     ],
+     "english": "The place for Your dwelling You made, O LORD;",
+     "literal": "foundation for-your-dwelling you-made LORD"
+    },
+    {
+     "tokens": [
+      "6:10.134",
+      "6:10.135"
+     ],
+     "english": "the sanctuary, O LORD,",
+     "literal": "sanctuary LORD"
+    },
+    {
+     "tokens": [
+      "6:10.136",
+      "6:10.137"
+     ],
+     "english": "Your hands established.",
+     "literal": "they-established your-hands"
+    },
+    {
+     "tokens": [
+      "6:10.138"
+     ],
+     "english": "And it says:",
+     "literal": "and-says"
+    },
+    {
+     "tokens": [
+      "6:10.139",
+      "6:10.140"
+     ],
+     "english": "-",
+     "literal": "(Psalms 78)"
+    },
+    {
+     "tokens": [
+      "6:10.141"
+     ],
+     "english": "And He brought them",
+     "literal": "and-he-brought-them"
+    },
+    {
+     "tokens": [
+      "6:10.142",
+      "6:10.143",
+      "6:10.144"
+     ],
+     "english": "to the border of His holiness,",
+     "literal": "to border-of his-holiness"
+    },
+    {
+     "tokens": [
+      "6:10.145",
+      "6:10.146"
+     ],
+     "english": "this mountain",
+     "literal": "mountain this"
+    },
+    {
+     "tokens": [
+      "6:10.147",
+      "6:10.148"
+     ],
+     "english": "that His right hand acquired.",
+     "literal": "she-acquired his-right-hand"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English changed 'Your possessions' to 'Your possession'; the phrase must quote it."
+  },
+  {
+   "ref": "6:11",
+   "path": "grammar",
+   "value": [
+    "כָּל מַה שֶּׁ- \"everything that\": כָּל plus the indefinite relative מַה, then the relative שֶׁ.",
+    "לֹא ... אֶלָּא \"not ... except\": \"He created it only for His glory\".",
+    "In Isaiah 43:7 three verbs in the perfect (בְּרָאתִיו, יְצַרְתִּיו, עֲשִׂיתִיו) with a pronoun suffix form a rising series: created, formed, made.",
+    "לְזַכּוֹת is the Piel infinitive construct of זכה (with ל), 'to make meritorious, to give merit to'.",
+    "In Isaiah 42:21 the imperfect יַגְדִּיל ... וְיַאְדִּיר is read as the purpose of חָפֵץ: \"to magnify ... and make glorious\"."
+   ],
+   "severity": "error",
+   "reason": "לְזַכּוֹת (doubled כ) is Piel, not Hifil, as the morphology also says; the note named the wrong binyan."
+  },
+  {
+   "ref": "6:7",
+   "path": "apparatus",
+   "value": [
+    "Proverbs 4:22 (כִּי חַיִּים הֵם ...)",
+    "Proverbs 3:8 (רִפְאוּת תְּהִי לְשָׁרֶךָ ...)",
+    "Proverbs 3:18 (עֵץ חַיִּים הִיא ...)",
+    "Proverbs 1:9 (כִּי לִוְיַת חֵן הֵם ...)",
+    "Proverbs 4:9 (תִּתֵּן לְרֹאשְׁךָ ...)",
+    "Proverbs 9:11 (כִּי בִי יִרְבּוּ יָמֶיךָ ...)",
+    "Proverbs 3:16 (אֹרֶךְ יָמִים בִּימִינָהּ ...)",
+    "Proverbs 3:2 (כִּי אֹרֶךְ יָמִים ...)",
+    "Proverbs 3:17 (דְּרָכֶיהָ דַּרְכֵי נֹעַם ...)",
+    "Vilna spells several words with vowel letters (plene): לעושיה, למוצאיהם, ותומכיה, מאושר, לגרגרותיך, תמגניך, אורך (twice), עושר.",
+    "Vilna omits the citations of book and chapter (משלי ד, שם ג, שם ג, שם א, שם ד, שם).",
+    "Vilna lacks the proof text Proverbs 9:11 (שם ט כִּי בִי יִרְבּוּ יָמֶיךָ וְיוֹסִיפוּ לְךָ שְׁנוֹת חַיִּים with the following וְאוֹמֵר שם ג): it passes from Proverbs 4:9 straight to Proverbs 3:16.",
+    "Vilna lacks the last proof text, Proverbs 3:17 (וְאוֹמֵר דְּרָכֶיהָ דַּרְכֵי נֹעַם וְכָל נְתִיבוֹתֶיהָ שָׁלוֹם)."
+   ],
+   "severity": "error",
+   "reason": "The apparatus said Vilna spells 'without vowel letters' (it spells with them) and only 'omits some citation tokens'; Vilna in fact lacks two whole proof texts (Prov 9:11 and 3:17). Every variant must be recorded."
+  },
+  {
+   "ref": "6:8",
+   "path": "apparatus",
+   "value": [
+    "Proverbs 16:31",
+    "Proverbs 20:29",
+    "Proverbs 14:24",
+    "Proverbs 17:6",
+    "Isaiah 24:23",
+    "Attribution: Vilna reads רבי שמעון בן מנסיא אומר משום רבי שמעון בן יוחאי, without the later אוֹמֵר: there the first saying is Rabbi Shimon son of Menasya's, in the name of Rabbi Shimon son of Yochai.",
+    "Vilna spells והעושר (plene).",
+    "Vilna omits the citations שם טז, שם יז, ישעיה כד.",
+    "Order of the verses: Vilna lacks Proverbs 20:29 (with שם כ and the following וְאוֹמֵר שם יד) after Proverbs 16:31, and gives it after Proverbs 17:6 (תפארת בחורים כחם והדר זקנים שיבה ואומר), before Isaiah 24:23.",
+    "Vilna reads שבעמדות as one word for שֶׁבַע מִדּוֹת, and ובניו 'and his sons' for וּבְבָנָיו 'and in his sons'."
+   ],
+   "severity": "error",
+   "reason": "The apparatus only said Vilna 'omits some citation tokens'; it left out Vilna's different attribution (Rabbi Shimon son of Menasya), the different order of the verses, and ובניו. Every variant must be recorded."
+  },
+  {
+   "ref": "6:9",
+   "path": "apparatus",
+   "value": [
+    "Proverbs 6:22",
+    "Psalms 119:72",
+    "Haggai 2:8",
+    "Vilna reads לפי 'because' for וְלֹא עוֹד אֶלָּא 'and not only that, but': 'because at the hour of a person's departure ...'.",
+    "Vilna spells קיסמא, אותך (twice), תשמור (twice), תילים.",
+    "Vilna omits the citations משלי ו, תהלים קיט, חגי ב."
+   ],
+   "severity": "error",
+   "reason": "The apparatus recorded only the omitted citations; Vilna's לפי for וְלֹא עוֹד אֶלָּא changes the sense and was not recorded, nor were the spellings."
+  },
+  {
+   "ref": "6:10",
+   "path": "apparatus",
+   "value": [
+    "Proverbs 8:22",
+    "Isaiah 66:1",
+    "Psalms 104:24",
+    "Genesis 14:19",
+    "Exodus 15:16",
+    "Psalms 16:3",
+    "Exodus 15:17",
+    "Psalms 78:54",
+    "Vilna lacks לוֹ 'for Himself' after קָנָה.",
+    "Vilna adds קנין אחד 'one possession' once where the base has none, between the list and the first proof (the alignment does not fix the place; most likely תורה קנין אחד מנין, as in the other four clauses).",
+    "Vilna reads שנאמר 'as it is said' for דִּכְתִיב before Isaiah 66:1 and before Exodus 15:17.",
+    "Exodus 15:17: Vilna lacks the first half of the verse (מָכוֹן לְשִׁבְתְּךָ פָּעַלְתָּ ה') and quotes only מקדש אדני כוננו ידיך, reading אדני 'the Lord' where the base has ה'.",
+    "Vilna writes איזה and ואיזה as one word for אֵי זֶה, וְאֵי זֶה, and spells הדום, כולם, קונה, יעבור (twice).",
+    "Vilna omits the citations משלי ח, ישעיה סו, תהלים קד, בראשית יד, שמות טו, תהלים טז, שמות טו, תהלים עח."
+   ],
+   "severity": "error",
+   "reason": "The apparatus recorded only Vilna's added קנין אחד; it left out Vilna's missing לוֹ, שנאמר for דִּכתיב, the missing first half of Exodus 15:17 and the reading אדני. Every variant must be recorded."
+  },
+  {
+   "ref": "6:11",
+   "path": "apparatus",
+   "value": [
+    "Isaiah 43:7",
+    "Exodus 15:18",
+    "Isaiah 42:21",
+    "Vilna reads ברא 'created' for בְרָאוֹ 'created it' (without the object suffix).",
+    "Vilna writes ה' for יְהֹוָה (Exodus 15:18) and spells ימלוך, לעולם.",
+    "Vilna reads אמר 'said' for אוֹמֵר 'says' in the attribution to Rabbi Hananya son of Akashya.",
+    "Vilna omits the citations ישעיה מג, שמות טו, ישעיה מב."
+   ],
+   "severity": "style",
+   "reason": "The apparatus said only that Vilna 'reads אמר where the base has no word'; it now says what the variants are (אמר for אומר, ברא for בראו, ה' for the full name, spellings)."
+  },
+  {
+   "ref": "6:7",
+   "path": "morph:6:7.26",
+   "value": {
+    "lang": "hbo",
+    "root": "שרר",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "שָׁרֶ",
+      "lemma": "שֹׁר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "ךָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:7",
+   "path": "morph:6:7.28",
+   "value": {
+    "lang": "hbo",
+    "root": "עצם",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "עַצְמוֹתֶי",
+      "lemma": "עֶצֶם",
+      "pos": "noun",
+      "parse": "common, feminine, plural, construct"
+     },
+     {
+      "form": "ךָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:7",
+   "path": "morph:6:7.46",
+   "value": {
+    "lang": "hbo",
+    "root": "ראש",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "רֹאשֶׁ",
+      "lemma": "רֹאשׁ",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "ךָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:7",
+   "path": "morph:6:7.48",
+   "value": {
+    "lang": "hbo",
+    "root": "גרגר",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "גַרְגְּרֹתֶי",
+      "lemma": "גַּרְגֶּרֶת",
+      "pos": "noun",
+      "parse": "common, feminine, plural, construct"
+     },
+     {
+      "form": "ךָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:7",
+   "path": "morph:6:7.75",
+   "value": {
+    "lang": "hbo",
+    "root": "ימן",
+    "morphemes": [
+     {
+      "form": "בִּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "ימִינָ",
+      "lemma": "יָמִין",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "הּ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, feminine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:7",
+   "path": "morph:6:7.76",
+   "value": {
+    "lang": "hbo",
+    "root": "שמאל",
+    "morphemes": [
+     {
+      "form": "בִּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "שְׂמֹאולָ",
+      "lemma": "שְׂמֹאל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "הּ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, feminine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit); the root of שְׂמֹאל is שמאל; the aleph is a radical"
+  },
+  {
+   "ref": "6:7",
+   "path": "morph:6:7.95",
+   "value": {
+    "lang": "hbo",
+    "root": "נתב",
+    "morphemes": [
+     {
+      "form": "נְתִיבוֹתֶי",
+      "lemma": "נָתִיב",
+      "pos": "noun",
+      "parse": "common, feminine, plural, construct"
+     },
+     {
+      "form": "הָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, feminine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:8",
+   "path": "morph:6:8.37",
+   "value": {
+    "lang": "hbo",
+    "root": "כוח",
+    "morphemes": [
+     {
+      "form": "כֹּחָ",
+      "lemma": "כֹּחַ",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "ם",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:8",
+   "path": "morph:6:8.46",
+   "value": {
+    "lang": "hbo",
+    "root": "עשר",
+    "morphemes": [
+     {
+      "form": "עָשְׁרָ",
+      "lemma": "עֹשֶׁר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "ם",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.38",
+   "value": {
+    "lang": "hbo",
+    "root": "פעל",
+    "morphemes": [
+     {
+      "form": "מִפְעָלָ",
+      "lemma": "מִפְעָל",
+      "pos": "noun",
+      "parse": "common, masculine, plural, construct"
+     },
+     {
+      "form": "יו",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.78",
+   "value": {
+    "lang": "hbo",
+    "root": "קנה",
+    "morphemes": [
+     {
+      "form": "קִנְיָנֶ",
+      "lemma": "קִנְיָן",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "ךָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.144",
+   "value": {
+    "lang": "hbo",
+    "root": "קדש",
+    "morphemes": [
+     {
+      "form": "קָדְשׁ",
+      "lemma": "קֹדֶשׁ",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "וֹ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.148",
+   "value": {
+    "lang": "hbo",
+    "root": "ימן",
+    "morphemes": [
+     {
+      "form": "יְמִינ",
+      "lemma": "יָמִין",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "וֹ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a noun with a pronominal suffix is in the construct state (the convention of the OSHB data in this edition, and of the other suffixed nouns in this unit)"
+  },
+  {
+   "ref": "6:7",
+   "path": "morph:6:7.88",
+   "value": {
+    "lang": "hbo",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "ךְ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "לָךְ in Prov 3:2 is the pausal form of 2nd masc. sing. לְךָ (addressed to 'my son')"
+  },
+  {
+   "ref": "6:9",
+   "path": "morph:6:9.101",
+   "value": {
+    "lang": "hbo",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "אֹתָ",
+      "lemma": "אֵת",
+      "pos": "particle",
+      "parse": "object marker"
+     },
+     {
+      "form": "ךְ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֹתָךְ in Prov 6:22 is the pausal form of 2nd masc. sing. אֹתְךָ (addressed to 'my son'; the neighbouring suffixes are masculine)"
+  },
+  {
+   "ref": "6:9",
+   "path": "morph:6:9.110",
+   "value": {
+    "lang": "hbo",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "אֹתָ",
+      "lemma": "אֵת",
+      "pos": "particle",
+      "parse": "object marker"
+     },
+     {
+      "form": "ךְ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֹתָךְ in Prov 6:22 is the pausal form of 2nd masc. sing. אֹתְךָ (addressed to 'my son'; the neighbouring suffixes are masculine)"
+  },
+  {
+   "ref": "6:8",
+   "path": "morph:6:8.5",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שום",
+    "morphemes": [
+     {
+      "form": "מִ",
+      "lemma": "מ: from, than",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "שּׁוּם",
+      "lemma": "שׁוּם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the prefix מ must be split off: מִ 'from' + שׁוּם 'account, name'"
+  },
+  {
+   "ref": "6:8",
+   "path": "morph:6:8.51",
+   "value": {
+    "lang": "hbo",
+    "root": "זקן",
+    "morphemes": [
+     {
+      "form": "זְקֵנִים",
+      "lemma": "זָקֵן",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "זְקֵנִים in עֲטֶרֶת זְקֵנִים is the absolute nomen rectum; the form זְקֵנִים is not construct (that would be זִקְנֵי)"
+  },
+  {
+   "ref": "6:8",
+   "path": "morph:6:8.67",
+   "value": {
+    "lang": "hbo",
+    "root": "צבא",
+    "morphemes": [
+     {
+      "form": "צְבָאוֹת",
+      "lemma": "צָבָא",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "צְבָאוֹת in ה' צְבָאוֹת is the absolute, governed word; nothing depends on it"
+  },
+  {
+   "ref": "6:9",
+   "path": "morph:6:9.149",
+   "value": {
+    "lang": "hbo",
+    "root": "צבא",
+    "morphemes": [
+     {
+      "form": "צְבָאוֹת",
+      "lemma": "צָבָא",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "צְבָאוֹת in ה' צְבָאוֹת is the absolute, governed word; nothing depends on it"
+  },
+  {
+   "ref": "6:8",
+   "path": "morph:6:8.80",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שבע",
+    "morphemes": [
+     {
+      "form": "שֶׁבַע",
+      "lemma": "שֶׁבַע",
+      "pos": "numeral",
+      "parse": "cardinal, seven, feminine, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "שֶׁבַע is the absolute form of the numeral (the construct is שְׁבַע)"
+  },
+  {
+   "ref": "6:8",
+   "path": "morph:6:8.81",
+   "value": {
+    "lang": "mishnaic",
+    "root": "מדד",
+    "morphemes": [
+     {
+      "form": "מִדּוֹת",
+      "lemma": "מִדָּה",
+      "pos": "noun",
+      "parse": "common, feminine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מִדּוֹת is absolute here: it is followed by a relative clause, not by a dependent noun"
+  },
+  {
+   "ref": "6:8",
+   "path": "morph:6:8.85",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "כֻּלָּ",
+      "lemma": "כֹּל",
+      "pos": "pronoun",
+      "parse": "quantifier, masculine, singular, construct"
+     },
+     {
+      "form": "ם",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the pronominal suffix ם must be split off: כֻּלָּ + ם 'all of them'"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.73",
+   "value": {
+    "lang": "hbo",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "כֻּלָּ",
+      "lemma": "כֹּל",
+      "pos": "pronoun",
+      "parse": "quantifier, masculine, singular, construct"
+     },
+     {
+      "form": "ם",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the pronominal suffix ם must be split off: כֻּלָּ + ם 'all of them'"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.6",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ברך",
+    "morphemes": [
+     {
+      "form": "בָּרוּךְ",
+      "lemma": "בָּרַךְ",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "בָּרוּךְ is the Qal passive participle; the Pual participle would be מְבֹרָךְ"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.88",
+   "value": {
+    "lang": "hbo",
+    "root": "ברך",
+    "morphemes": [
+     {
+      "form": "בָּרוּךְ",
+      "lemma": "בָּרַךְ",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "בָּרוּךְ is the Qal passive participle; the Pual participle would be מְבֹרָךְ"
+  },
+  {
+   "ref": "6:11",
+   "path": "morph:6:11.5",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ברך",
+    "morphemes": [
+     {
+      "form": "בָּרוּךְ",
+      "lemma": "בָּרַךְ",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "בָּרוּךְ is the Qal passive participle; the Pual participle would be מְבֹרָךְ"
+  },
+  {
+   "ref": "6:11",
+   "path": "morph:6:11.37",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ברך",
+    "morphemes": [
+     {
+      "form": "בָּרוּךְ",
+      "lemma": "בָּרַךְ",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "בָּרוּךְ is the Qal passive participle; the Pual participle would be מְבֹרָךְ"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.35",
+   "value": {
+    "lang": "hbo",
+    "root": "ראש",
+    "morphemes": [
+     {
+      "form": "רֵאשִׁית",
+      "lemma": "רֵאשִׁית",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רֵאשִׁית דַּרְכּוֹ is a construct chain, 'the beginning of His way'"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.39",
+   "value": {
+    "lang": "hbo",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "מֵ",
+      "lemma": "מ: from, than",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "אָז",
+      "lemma": "אָז",
+      "pos": "adverb",
+      "parse": "adverb of time"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the prefix מ must be split off: מֵ 'from' + אָז 'then'"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.55",
+   "value": {
+    "lang": "hbo",
+    "root": "רגל",
+    "morphemes": [
+     {
+      "form": "רַגְלָ",
+      "lemma": "רֶגֶל",
+      "pos": "noun",
+      "parse": "common, feminine, dual, construct"
+     },
+     {
+      "form": "י",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 1st person, common, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רַגְלַי is dual, 'my (two) feet'"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.137",
+   "value": {
+    "lang": "hbo",
+    "root": "יד",
+    "morphemes": [
+     {
+      "form": "יָדֶי",
+      "lemma": "יָד",
+      "pos": "noun",
+      "parse": "common, feminine, dual, construct"
+     },
+     {
+      "form": "ךָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "יָדֶיךָ is dual, 'Your (two) hands'; the root of יָד is יד (as at 6:9.127), not ידה"
+  },
+  {
+   "ref": "6:9",
+   "path": "morph:6:9.127",
+   "value": {
+    "lang": "mishnaic",
+    "root": "יד",
+    "morphemes": [
+     {
+      "form": "יְדֵי",
+      "lemma": "יָד",
+      "pos": "noun",
+      "parse": "common, feminine, dual, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "יְדֵי is the dual construct of יָד"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.70",
+   "value": {
+    "lang": "hbo",
+    "root": "רבב",
+    "morphemes": [
+     {
+      "form": "רַבּוּ",
+      "lemma": "רָבַב",
+      "pos": "verb",
+      "parse": "qal, perfect (qatal), 3rd person, common, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רַבּוּ (doubled ב) is the Qal perfect 3cp of the geminate רבב 'to be many'; רָבָה gives יִרְבּוּ"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.76",
+   "value": {
+    "lang": "hbo",
+    "root": "מלא",
+    "morphemes": [
+     {
+      "form": "מָלְאָה",
+      "lemma": "מָלֵא",
+      "pos": "verb",
+      "parse": "qal, perfect (qatal), 3rd person, feminine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the Qal perfect 3ms of the stative מלא is מָלֵא"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.117",
+   "value": {
+    "lang": "hbo",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "הֵמָּה",
+      "lemma": "הֵם",
+      "pos": "pronoun",
+      "parse": "personal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "הֵמָּה is the masculine plural pronoun"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.134",
+   "value": {
+    "lang": "hbo",
+    "root": "קדש",
+    "morphemes": [
+     {
+      "form": "מִקְּדָשׁ",
+      "lemma": "מִקְדָּשׁ",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מִקְּדָ֕שׁ carries a disjunctive accent (zaqef gadol) and ה' that follows is a vocative: the noun is absolute, as the English 'the sanctuary, O LORD' takes it"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.136",
+   "value": {
+    "lang": "hbo",
+    "root": "כון",
+    "morphemes": [
+     {
+      "form": "כּוֹנְנוּ",
+      "lemma": "כָּן",
+      "pos": "verb",
+      "parse": "piel, perfect (qatal), 3rd person, common, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the lemma of a hollow verb is its Qal perfect 3ms, כָּן (as דָּר, קָץ, שָׂח in this unit); כּוֹנְנוּ is Polel, entered as piel"
+  },
+  {
+   "ref": "6:11",
+   "path": "morph:6:11.17",
+   "value": {
+    "lang": "hbo",
+    "root": "שם",
+    "morphemes": [
+     {
+      "form": "בִ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "שְׁמִ",
+      "lemma": "שֵׁם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "י",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 1st person, common, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the root of שֵׁם is שם; שמם is the root of שָׁמַיִם / 'be desolate'"
+  },
+  {
+   "ref": "6:8",
+   "path": "morph:6:8.60",
+   "value": {
+    "lang": "hbo",
+    "root": "חפר",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "חָפְרָה",
+      "lemma": "חָפֵר",
+      "pos": "verb",
+      "parse": "qal, perfect (qatal), 3rd person, feminine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "וְחָפְרָה in Isa 24:23 is חָפֵר 'to be abashed', the stative homograph, not חָפַר 'to dig'"
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.30",
+   "value": {
+    "lang": "arc",
+    "root": "כתב",
+    "morphemes": [
+     {
+      "form": "דִּ",
+      "lemma": "ד: that, which",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "כְתִיב",
+      "lemma": "כָּתַב",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "question",
+   "reason": "דִּכְתִיב is Aramaic (the particle ד and the passive participle כְּתִיב); the brief asks for lang 'arc' on an Aramaic word. Proposed: lang arc, the analysis otherwise unchanged."
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.45",
+   "value": {
+    "lang": "arc",
+    "root": "כתב",
+    "morphemes": [
+     {
+      "form": "דִּ",
+      "lemma": "ד: that, which",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "כְתִיב",
+      "lemma": "כָּתַב",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "question",
+   "reason": "דִּכְתִיב is Aramaic (the particle ד and the passive participle כְּתִיב); the brief asks for lang 'arc' on an Aramaic word. Proposed: lang arc, the analysis otherwise unchanged."
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.83",
+   "value": {
+    "lang": "arc",
+    "root": "כתב",
+    "morphemes": [
+     {
+      "form": "דִּ",
+      "lemma": "ד: that, which",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "כְתִיב",
+      "lemma": "כָּתַב",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "question",
+   "reason": "דִּכְתִיב is Aramaic (the particle ד and the passive participle כְּתִיב); the brief asks for lang 'arc' on an Aramaic word. Proposed: lang arc, the analysis otherwise unchanged."
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.99",
+   "value": {
+    "lang": "arc",
+    "root": "כתב",
+    "morphemes": [
+     {
+      "form": "דִּ",
+      "lemma": "ד: that, which",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "כְתִיב",
+      "lemma": "כָּתַב",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "question",
+   "reason": "דִּכְתִיב is Aramaic (the particle ד and the passive participle כְּתִיב); the brief asks for lang 'arc' on an Aramaic word. Proposed: lang arc, the analysis otherwise unchanged."
+  },
+  {
+   "ref": "6:10",
+   "path": "morph:6:10.127",
+   "value": {
+    "lang": "arc",
+    "root": "כתב",
+    "morphemes": [
+     {
+      "form": "דִּ",
+      "lemma": "ד: that, which",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "כְתִיב",
+      "lemma": "כָּתַב",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "question",
+   "reason": "דִּכְתִיב is Aramaic (the particle ד and the passive participle כְּתִיב); the brief asks for lang 'arc' on an Aramaic word. Proposed: lang arc, the analysis otherwise unchanged."
+  }
+ ],
+ "verdicts": []
+}
