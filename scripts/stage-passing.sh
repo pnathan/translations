@@ -13,7 +13,7 @@ for w in works/*/; do
 		if ./bin/tr check "$work" "$unit" $alt >/dev/null 2>&1; then
 			git add "$f"
 		else
-			git reset -q -- "$f" 2>/dev/null || true
+			git rm -q --cached --ignore-unmatch -- "$f"
 		fi
 	done
 done

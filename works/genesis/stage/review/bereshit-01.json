@@ -1,1 +1,556 @@
-{"unit":"bereshit-01","model":"opus","summary":"test","patches":[{"ref":"1:1","path":"token:1:1.2.gloss","value":"created","severity":"style","reason":"x"}],"verdicts":[]}
+{
+ "unit": "bereshit-01",
+ "model": "opus",
+ "summary": "The translation is careful in its parsing and accounts for every word, but it misreads the normative commentators at three points that bear on the English: 'unformed' and 'the spirit of God' in 1:2, where Rashi and Ibn Ezra agree on desolation and on moving air (breath, wind), and 'fitting' in 1:4, where Rashi keeps 'good'. It also claims both Rashi and Ibn Ezra for its syntax, though Ibn Ezra makes 1:2 the main clause and Rashi 1:3; the English is patched to carry Rashi's sentence from 1:1 to 1:3, and several summaries (ibn-ezra:1:1:5, 1:2:1, 1:2:3, 1:5:3; ramban:1:5:2) are corrected. Token-level faults could not be patched, because the pipeline splits token:<id>.<field> at the first dot and every token id contains one: 1:2.3 sense should be 2, 1:2.9 gloss 'and the wind of' with sense 2, 1:4.6 gloss 'good' with sense 3, 1:5.12 gloss 'day' (not 'one day'), 1:1.2 gloss 'created'; the segment notes and grammar now carry the correct senses.",
+ "patches": [
+  {
+   "ref": "1:1",
+   "path": "english",
+   "value": "When God began to create the heavens and the earth —",
+   "severity": "error",
+   "reason": "The comma leaves the time clause without a main clause: 1:2 ends in a full stop and 1:3 opens a new sentence. On Rashi's reading, which the English follows, the sentence runs from 1:1 to 1:3 with 1:2 between; the dashes carry that."
+  },
+  {
+   "ref": "1:1",
+   "path": "grammar",
+   "value": [
+    "בְּרֵאשִׁית is a preposition plus a noun. The pack parses the noun as absolute, but Rashi and Ibn Ezra both read it as construct, joined to the clause after it ('the beginning of God's creating'). The English follows them. The parse stays as given, and the disagreement is recorded in the apparatus.",
+    "בָּרָא is a qatal (perfect) of the Qal, third person masculine singular. Ibn Ezra's parallel, 'the beginning of the LORD's speaking to Hosea' (Hos 1:2), shows a construct noun before a past-tense verb, which is the pattern the English uses.",
+    "אֱלֹהִים is plural in form and takes a singular verb. Ibn Ezra explains the plural as a plural of majesty. The English gives the singular 'God', following the divine-name decision.",
+    "Accents: the tipḥa on בְּרֵאשִׁית is disjunctive, and a noun in the construct state normally takes a conjunctive accent. The accents therefore treat the word as absolute, as the pack's parse and Radak's 'at first' do; the construct reading of Rashi and Ibn Ezra goes against them. The etnaḥta on אֱלֹהִים divides the subject and verb from the two objects; it does not close a clause."
+   ],
+   "severity": "error",
+   "reason": "Grammar note 4 is untrue: the first half of the verse is not a clause (its objects are in the second half), and the disjunctive tipḥa on בְּרֵאשִׁית tells against the construct reading rather than for it."
+  },
+  {
+   "ref": "1:1",
+   "path": "note",
+   "value": "The English reads the verse as a time clause, with Rashi and Ibn Ezra, who both take בְּרֵאשִׁית as construct. They differ on where the main clause falls. Rashi's paraphrase runs on to 1:3 (בראשית בריאת שמים וארץ, והארץ היתה תהו ובהו וחשך, ויאמר אלהים יהי אור), so 1:2 describes the state of the earth in between. Ibn Ezra takes the vav of וְהָאָרֶץ as an empty vav, like the Arabic fa, so 1:2 is the main clause. The English follows Rashi: 1:2 stands between dashes and 1:3 completes the sentence. Rashi argues that the verse does not teach that heaven and earth came first, which is why the English avoids 'first'. Radak's 'at first' is recorded, not adopted.",
+   "severity": "error",
+   "reason": "The note says the main clause is in 1:3 on the reading of both normative commentators. Ibn Ezra (1:2, and as Ramban and Radak report him) makes 1:2 the main clause; the two differ and the choice of Rashi has to be stated."
+  },
+  {
+   "ref": "1:1",
+   "path": "commentary:ibn-ezra:1:1:5.summary",
+   "value": "Ibn Ezra: the article in הַשָּׁמַיִם shows that the verse speaks of the visible heavens (על אלה הנראים); the word is always plural. He rejects the Gaon's view that heaven and earth were created at once, and holds that the heavens and the earth of this verse are the firmament and the dry land, because only one thing was made on each day: light on the first, the firmament on the second, plants on the third, and so on. The English keeps 'the heavens and the earth' and records this narrower identification.",
+   "severity": "error",
+   "reason": "The summary says 'nothing was made in one day'. Ibn Ezra says the opposite point: on each day only one thing was made (כי לא נברא ביום אחד, כי אם דבר אחד), and he lists them."
+  },
+  {
+   "ref": "1:1",
+   "path": "apparatus",
+   "value": [
+    "בְּרֵאשִׁית: the pack parses the noun as absolute, and the disjunctive tipḥa agrees. The English follows the construct reading on which Rashi and Ibn Ezra agree.",
+    "בְּרֵאשִׁית: Ibn Ezra reports the sages' view that the bet is an added letter (as in בָּרִאשׁוֹנָה, Gen 13:4). He rejects it.",
+    "בָּרָא: Ibn Ezra's sense 'to decree and fix a limit' sits beside 'create out of nothing'; the English keeps 'create'.",
+    "בְּרֵאשִׁית (Radak): 'at first', a main-clause reading. Recorded in the commentary."
+   ],
+   "severity": "style",
+   "reason": "Settles the open question left for review: the parse and the accents read the word as absolute; both normative commentators read it as construct, so the English stands."
+  },
+  {
+   "ref": "1:2",
+   "path": "english",
+   "value": "now the earth was desolate and empty, and darkness was over the face of the deep, and the wind of God was hovering over the face of the waters —",
+   "severity": "error",
+   "reason": "Three faults. (1) 'unformed' for תֹהוּ: Rashi (תֵּמַהּ וְשִׁמָּמוֹן, desolation) and Ibn Ezra (the waste of Deut 32:10, 'no substance' of 1 Sam 12:21) agree on desolation and lack, not on lack of form. (2) 'the spirit of God': Rashi reads the breath of God's mouth (בְּרוּחַ פִּיו), Ibn Ezra a wind sent to dry the waters; both take רוּחַ as moving air, against 'spirit'. The English follows Ibn Ezra's 'wind' (sense 2). (3) The participle מְרַחֶפֶת is a continuing state; 'was hovering' carries it, 'hovered' does not. The verse now stands between dashes, as Rashi reads it."
+  },
+  {
+   "ref": "1:2",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:2.1",
+      "1:2.2",
+      "1:2.3",
+      "1:2.4"
+     ],
+     "english": "now the earth was desolate and empty",
+     "literal": "and-the-earth was desolation and-emptiness; a state clause, the vav read as 'now' (Rashi's reading, with 1:3 as the main clause); Rashi and Ibn Ezra read the pair as desolation and emptiness"
+    },
+    {
+     "tokens": [
+      "1:2.5",
+      "1:2.6"
+     ],
+     "english": "and darkness was over",
+     "literal": "and-darkness over; the clause has no verb, so 'was' is supplied"
+    },
+    {
+     "tokens": [
+      "1:2.7",
+      "1:2.8"
+     ],
+     "english": "the face of the deep",
+     "literal": "face-of deep; the English supplies 'the' for the unarticulated noun"
+    },
+    {
+     "tokens": [
+      "1:2.9",
+      "1:2.10"
+     ],
+     "english": "and the wind of God",
+     "literal": "and-wind-of God; Ibn Ezra: a wind, God's messenger to dry the waters; Rashi: the breath of God's mouth"
+    },
+    {
+     "tokens": [
+      "1:2.11"
+     ],
+     "english": "was hovering",
+     "literal": "hovering; the Piel participle, a motion that goes on"
+    },
+    {
+     "tokens": [
+      "1:2.12",
+      "1:2.13"
+     ],
+     "english": "over the face of",
+     "literal": "over face-of"
+    },
+    {
+     "tokens": [
+      "1:2.14"
+     ],
+     "english": "the waters",
+     "literal": "the-waters"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changes the first, fourth and fifth phrases."
+  },
+  {
+   "ref": "1:2",
+   "path": "grammar",
+   "value": [
+    "The verse has no finite verb after its first clause. 'Darkness over the face of the deep' is verbless, and 'the wind of God hovering over the face of the waters' is a participle clause, which describes a motion that goes on. The English supplies 'was' and 'was hovering'.",
+    "The vav of וְהָאָרֶץ stands before a noun, not a verb, so it does not continue the narrative: it opens a description. Rashi reads 1:2 as the state of the earth between the time clause of 1:1 and the main clause of 1:3 ('Now'). Ibn Ezra instead takes the vav as empty, like the Arabic fa, so that 1:2 is itself the main clause. The English follows Rashi.",
+    "תֹהוּ and בֹהוּ are a rhyming pair. Rashi (desolation, emptiness) and Ibn Ezra (waste, a thing with no substance) both take the pair as waste and emptiness, not as lack of form; the English gives 'desolate and empty'. For תֹהוּ the matching lexicon sense is 2 ('empty, unreal'), not 1.",
+    "רוּחַ is feminine here: the participle מְרַחֶפֶת agrees with it. Its sense is 'wind' (lexicon sense 2), with Ibn Ezra.",
+    "תְּהוֹם has no article, as a name-like word. Radak notes that it is usually feminine but also masculine (Ps 42:8); the parse gives both genders.",
+    "Accents: revia on וְהָאָרֶץ, etnaḥta on תְהוֹם, zaqef qaton on אֱלֹהִים, silluq on הַמָּיִם. The etnaḥta divides the verse into the state of the earth (1:2.1 to 1:2.8) and the spirit clause (1:2.9 to 1:2.14)."
+   ],
+   "severity": "error",
+   "reason": "Note 2 says Ibn Ezra's Arabic-fa vav is the source of 'Now'; for Ibn Ezra that vav makes 1:2 the main clause, the opposite of the English. Notes 1 and 3 describe the old English ('hovered', 'formlessness'). Adds the learner points on the gender of רוּחַ and תְּהוֹם (the token note calls תְּהוֹם simply feminine)."
+  },
+  {
+   "ref": "1:2",
+   "path": "note",
+   "value": "The English follows Rashi's syntax: 1:2 describes the earth between the time clause of 1:1 and the main clause of 1:3. Ibn Ezra's reading, with 1:2 as the main clause, is recorded. For תֹהוּ וָבֹהוּ, Rashi and Ibn Ezra agree on desolation and emptiness, so the English is 'desolate and empty'. For רוּחַ אֱלֹהִים, both take the word as moving air: Rashi the breath of God's mouth, Ibn Ezra a wind sent to dry the waters. The English follows Ibn Ezra with 'wind' (lexicon sense 2) and records Rashi's breath and his Throne of Glory.",
+   "severity": "error",
+   "reason": "The note claims that 'unformed' follows the lack and that 'spirit' leaves open 'breath' and 'wind'. Both normative commentators agree against 'unformed' and against 'spirit'."
+  },
+  {
+   "ref": "1:2",
+   "path": "commentary:rashi:1:2:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: tohu is an expression of astonishment and desolation (לְשׁוֹן תֵּמַהּ וְשִׁמָּמוֹן): a person would be astonished and dazed at the emptiness (bohu) in it. The English 'desolate' follows the desolation."
+   },
+   "severity": "error",
+   "reason": "With the English corrected to 'desolate', the English follows Rashi; the old summary set his reading against 'unformed', which he does not support."
+  },
+  {
+   "ref": "1:2",
+   "path": "commentary:rashi:1:2:2.summary",
+   "value": "Rashi glosses tohu with the Old French estordison, 'stupor, bewilderment', the astonishment of rashi:1:2:1. The English 'desolate' takes the desolation, not the astonishment.",
+   "severity": "error",
+   "reason": "The summary refers to 'formlessness', which neither Rashi nor the corrected English has."
+  },
+  {
+   "ref": "1:2",
+   "path": "commentary:rashi:1:2:5.summary",
+   "value": "Rashi: the Throne of Glory stood in the air and hovered over the face of the waters by the breath of God's mouth (בְּרוּחַ פִּיו) and by his word, as a dove hovers over its nest. He takes רוּחַ as God's breath, not as a spirit. The English keeps moving air with Ibn Ezra's 'wind' and Rashi's 'hovering', and does not adopt the Throne or 'breath'.",
+   "severity": "error",
+   "reason": "The summary does not say that Rashi takes רוּחַ as the breath of God's mouth, which is what bears on the English."
+  },
+  {
+   "ref": "1:2",
+   "path": "commentary:ibn-ezra:1:2:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Ibn Ezra notes that the word is unusual in form: after the article the aleph of אֶרֶץ takes qamets everywhere, unlike הָאֶלֶף (Song 8:12) and וְהָאֶבֶן, where it keeps segol. A point of vocalization; it does not bear on the English."
+   },
+   "severity": "error",
+   "reason": "The summary attributes to this comment the Arabic-fa vav, which is in ibn-ezra:1:2:3. This comment is only about the qamets of הָאָרֶץ."
+  },
+  {
+   "ref": "1:2",
+   "path": "commentary:ibn-ezra:1:2:2.summary",
+   "value": "Ibn Ezra rejects the Gaon's derivation of tohu from tehom, since the mem of tehom is a root letter (as in הֲדֹם), and sets aside Sefer Yetsirah's 'green line'. The right sense is that of the Aramaic translator, as in 'in the tohu of a howling waste' (Deut 32:10) and 'after the tohu' (1 Sam 12:21), a thing with no substance (שאין בו ממש). The English 'desolate' follows him.",
+   "severity": "error",
+   "reason": "The summary says 'unformed' follows 'lacking substance'; it does not. Waste and no substance are desolation and emptiness, which the corrected English gives."
+  },
+  {
+   "ref": "1:2",
+   "path": "commentary:ibn-ezra:1:2:3",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: bohu is the brother of tohu, its vav standing for the he of the root. The vav of וְהָאָרֶץ is like the soft fa of Arabic, as in וְאֵד יַעֲלֶה (Gen 2:6): at the beginning of the creation of the firmament and the dry land there was no settlement on the earth, for it was covered with water. So for him 1:2 is the main clause of the time clause in 1:1. The English keeps the pair tohu and bohu but follows Rashi's syntax, with 1:3 as the main clause, and records this reading."
+   },
+   "severity": "error",
+   "reason": "The summary leaves out the comment's main point for the English, the Arabic-fa vav that makes 1:2 the main clause. The English does not adopt it, so the relation is records."
+  },
+  {
+   "ref": "1:2",
+   "path": "commentary:ibn-ezra:1:2:4",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: the wind is joined to the name of God because it was a messenger, by God's will, to dry the waters (שליח בחפץ השם לייבש המים). He takes רוּחַ as a wind; the English 'the wind of God' follows him."
+   },
+   "severity": "error",
+   "reason": "The English now follows his 'wind'."
+  },
+  {
+   "ref": "1:2",
+   "path": "apparatus",
+   "value": [
+    "וְהָאָרֶץ: Rashi reads 1:2 as a description between 1:1 and the main clause in 1:3; Ibn Ezra (as Ramban and Radak report him) takes the vav as empty, like the Arabic fa, and makes 1:2 the main clause: 'when God began to create the heavens and the earth, the earth was desolate and empty'. The English follows Rashi.",
+    "תֹהוּ: Rashi 'astonishment and desolation', Ibn Ezra 'waste, with no substance'. The English 'desolate' follows both; the lexicon's sense 1 'formlessness' is not taken.",
+    "רוּחַ אֱלֹהִים: Ibn Ezra 'wind' (sense 2) is chosen. Rashi reads the breath of God's mouth (sense 1). Sense 9 'spirit of God' is not taken.",
+    "תְהוֹם: Rashi identifies the deep with the waters on the earth. The English keeps the general 'deep'.",
+    "Radak (not normative) reads the first clause as a separate recital of the elements, not a state; the English does not follow him."
+   ],
+   "severity": "error",
+   "reason": "The apparatus records 'formlessness' and 'spirit' as the chosen senses and leaves out the main-clause disagreement between Rashi and Ibn Ezra."
+  },
+  {
+   "ref": "1:3",
+   "path": "english",
+   "value": "God said, Let light be, and light came to be.",
+   "severity": "error",
+   "reason": "On Rashi's syntax this is the main clause of the sentence begun in 1:1; 'And' after the time clause and the description of 1:2 is not English. The vav is rendered by nothing, as the decisions allow."
+  },
+  {
+   "ref": "1:3",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:3.1",
+      "1:3.2"
+     ],
+     "english": "God said",
+     "literal": "and-said God; the wayyiqtol, here the main clause of the sentence begun in 1:1 (Rashi)"
+    },
+    {
+     "tokens": [
+      "1:3.3",
+      "1:3.4"
+     ],
+     "english": "Let light be",
+     "literal": "let-be light; the jussive of existence, with the noun after it"
+    },
+    {
+     "tokens": [
+      "1:3.5",
+      "1:3.6"
+     ],
+     "english": "and light came to be",
+     "literal": "and-came-to-be light; the wayyiqtol of the same verb as the jussive, so the command and its result share a root"
+    }
+   ],
+   "severity": "error",
+   "reason": "The first phrase no longer occurs in the English."
+  },
+  {
+   "ref": "1:3",
+   "path": "grammar",
+   "value": [
+    "וַיֹּאמֶר is a wayyiqtol. On Rashi's reading it is the main clause of the sentence that begins in 1:1, after the description of 1:2; it introduces the first divine speech.",
+    "יְהִי is a jussive, third person masculine singular, of הָיָה; the form is the command. The wayyiqtol וַיְהִי in 1:3.5 gives its fulfilment in narrative form. The two forms share one root, and the English keeps that link with 'be' and 'came to be'.",
+    "Ramban (not normative) notes that the text says 'and there was light' and not 'and it was so', the formula used for the other days, because this light did not stay in this form. The English omits 'so', which records that difference.",
+    "Accents: merkha on וַיֹּאמֶר, tipḥa on אֱלֹהִים, munaḥ on יְהִי, etnaḥta on אוֹר (1:3.4), silluq on the final אוֹר. The etnaḥta divides the verse into the speech and its result."
+   ],
+   "severity": "error",
+   "reason": "Note 1 says the verb continues the narrative from 1:2; 1:2 is a description, not narrative, and the English makes this verb the main clause."
+  },
+  {
+   "ref": "1:4",
+   "path": "english",
+   "value": "And God saw the light, that it was good, and God separated between the light and the darkness.",
+   "severity": "error",
+   "reason": "'fitting' misreads Rashi. His plain sense keeps טוֹב as 'good' (רָאָהוּ כִּי טוֹב); 'not fitting' (אֵין נָאֶה) is said of light and darkness serving mixed together, and is the reason for the separation, not a gloss on טוֹב. Ibn Ezra has nothing against 'good'. The sense is 3, 'good'."
+  },
+  {
+   "ref": "1:4",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:4.1",
+      "1:4.2"
+     ],
+     "english": "And God saw",
+     "literal": "and-saw God; wayyiqtol with God as subject"
+    },
+    {
+     "tokens": [
+      "1:4.3"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "1:4.4"
+     ],
+     "english": "the light",
+     "literal": "the-light; object of the seeing"
+    },
+    {
+     "tokens": [
+      "1:4.5",
+      "1:4.6"
+     ],
+     "english": "that it was good",
+     "literal": "that good; the object 'the light' comes before the clause that says what God saw of it"
+    },
+    {
+     "tokens": [
+      "1:4.7",
+      "1:4.8"
+     ],
+     "english": "and God separated",
+     "literal": "and-separated God; Hiphil wayyiqtol with God as cause"
+    },
+    {
+     "tokens": [
+      "1:4.9",
+      "1:4.10"
+     ],
+     "english": "between the light",
+     "literal": "between the-light; the first half of the paired preposition"
+    },
+    {
+     "tokens": [
+      "1:4.11",
+      "1:4.12"
+     ],
+     "english": "and the darkness",
+     "literal": "and-between the-darkness; the second half of the pair, repeating the preposition"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase 'that it was fitting' no longer occurs in the English."
+  },
+  {
+   "ref": "1:4",
+   "path": "grammar",
+   "value": [
+    "וַיַּרְא is a wayyiqtol. Its object הָאוֹר comes before the כִּי clause that says what God saw of it: 'saw the light, that it was good'. The clause has no copula; the English supplies 'was'.",
+    "כִּי טוֹב has no article and no copula. טוֹב is the ordinary 'good' (lexicon sense 3). Rashi keeps it so; his 'it is not fitting' (אֵין נָאֶה) is said of light and darkness mixed together and gives the reason for the separation.",
+    "וַיַּבְדֵּל is a Hiphil wayyiqtol of בָּדַל. Ibn Ezra glosses it as separation by naming (בִּקְרִיאַת הַשֵּׁמוֹת), and Rashi as setting each its bounds, one for the light by day and one for the darkness by night. The English 'separated' is open between them.",
+    "Accents: darga on וַיַּרְא, tevir on אֱלֹהִים, tipḥa on הָאוֹר, etnaḥta on טוֹב (1:4.6). The etnaḥta divides the verse after 'good'."
+   ],
+   "severity": "error",
+   "reason": "Notes 1 and 2 say Rashi reads טוֹב as 'fitting'; he does not."
+  },
+  {
+   "ref": "1:4",
+   "path": "note",
+   "value": "טוֹב is 'good' (lexicon sense 3); the gloss 'fitting' (sense 5) rests on a misreading of Rashi, whose אֵין נָאֶה is said of light and darkness mixed together. 'Separated' is neutral between Ibn Ezra's naming and Rashi's boundaries.",
+   "severity": "error",
+   "reason": "The note gives 'fitting' as Rashi's sense of טוֹב."
+  },
+  {
+   "ref": "1:4",
+   "path": "commentary:rashi:1:4:1.summary",
+   "value": "Rashi first gives the aggadah: God saw that the light was not fit for the wicked to use and set it apart for the righteous in the world to come. On the plain sense: God saw that it was good, and it was not fitting (אֵין נָאֶה) for light and darkness to serve mixed together, so he fixed a bound for each, the day for one and the night for the other. 'Not fitting' explains the separation; it is not a gloss on טוֹב. The English 'good' and 'separated' follow the plain sense.",
+   "severity": "error",
+   "reason": "The summary ends by saying the English 'fitting' follows Rashi's plain sense, which keeps 'good'."
+  },
+  {
+   "ref": "1:4",
+   "path": "apparatus",
+   "value": [
+    "וַיַּרְא: Ibn Ezra reads 'in thought'. The English keeps the act of seeing, as Rashi does.",
+    "וַיַּבְדֵּל: Ibn Ezra reads 'by naming'; Rashi reads 'by setting boundaries'. The English 'separated' leaves both open.",
+    "טוֹב: 'good' (sense 3). Rashi's 'not fitting' (אֵין נָאֶה) concerns the mixing of light and darkness, not the word טוֹב.",
+    "הַחֹשֶׁךְ: Ramban holds that this darkness is the absence of light, not the fire of 1:2. The English gives both the same word."
+   ],
+   "severity": "error",
+   "reason": "The apparatus gives Rashi's 'fitting' as the chosen sense of טוֹב."
+  },
+  {
+   "ref": "1:5",
+   "path": "commentary:ibn-ezra:1:5:3.summary",
+   "value": "Ibn Ezra: 'one day' refers to the turning of the sphere, and the midrash of six thousand years holds a secret. Since the light was named 'day', the evening cannot also be called day; the words mean that there was an evening and there was a morning of one day. If evening and morning were themselves the one day, he asks, what would 'second day' mean? The English keeps 'one day' and records his 'of one day' and the turn of the sphere.",
+   "severity": "error",
+   "reason": "The summary leaves out his main point, 'the evening and the morning of one day', and garbles his question about 'second day' into a doubt about the need for a second day."
+  },
+  {
+   "ref": "1:5",
+   "path": "commentary:ramban:1:5:2.summary",
+   "value": "Ramban, with Ibn Ezra: there was an evening and there was a morning of one day; evening is so called because forms blend in it, morning because a person can tell them apart. On the plain sense Scripture could not say 'first day', since the second was not yet made: 'first' ranks one thing before a second, both existing, while 'one' implies no second. Some (the Guide) take it as a hint of the sphere's turning. The English 'one day' follows him.",
+   "severity": "error",
+   "reason": "'On the plain sense both evening and morning exist' misreads Ramban: 'both' are the first and the second of a count, which 'first' would require."
+  },
+  {
+   "ref": "1:5",
+   "path": "apparatus",
+   "value": [
+    "יוֹם אֶחָד: Ibn Ezra (and Ramban) read 'there was an evening and a morning of one day', and Ibn Ezra takes 'one day' as a single turn of the sphere. The English keeps 'one day' after a colon, with Rashi, and records this reading.",
+    "קָרָא: Ramban reads 'called' as the setting of limits (הַהַבְדָּלָה הַמֻּגְבֶּלֶת), not naming. The English keeps 'called'.",
+    "עֶרֶב and בֹּקֶר: Ibn Ezra's etymologies (mixing and examining) are not carried into the English."
+   ],
+   "severity": "error",
+   "reason": "The apparatus gives only the turn of the sphere and leaves out Ibn Ezra's 'of one day'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:1:1:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:1:1:2",
+   "verdict": "consistent",
+   "comment": "The time clause follows his construct reading; the patch to 1:1-1:3 completes it with the main clause in 1:3, as his paraphrase has it."
+  },
+  {
+   "anchor": "rashi:1:1:3",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:1:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:1:2",
+   "verdict": "consistent",
+   "comment": "'create' does not assert creation out of nothing, which he questions."
+  },
+  {
+   "anchor": "ibn-ezra:1:1:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:1:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:1:5",
+   "verdict": "consistent",
+   "comment": "'the heavens' with the article; his firmament and dry land are recorded."
+  },
+  {
+   "anchor": "rashi:1:2:1",
+   "verdict": "contradicts",
+   "comment": "'unformed' against his desolation; patched to 'desolate'."
+  },
+  {
+   "anchor": "rashi:1:2:2",
+   "verdict": "contradicts",
+   "comment": "Same point as rashi:1:2:1; patched."
+  },
+  {
+   "anchor": "rashi:1:2:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:2:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:2:5",
+   "verdict": "contradicts",
+   "comment": "'spirit' against his breath of God's mouth; patched to 'wind', with Ibn Ezra, the moving air on which both agree."
+  },
+  {
+   "anchor": "ibn-ezra:1:2:1",
+   "verdict": "not-applicable",
+   "comment": "A point of vocalization."
+  },
+  {
+   "anchor": "ibn-ezra:1:2:2",
+   "verdict": "contradicts",
+   "comment": "'unformed' against his waste and no substance; patched to 'desolate'."
+  },
+  {
+   "anchor": "ibn-ezra:1:2:3",
+   "verdict": "contradicts",
+   "comment": "His empty vav makes 1:2 the main clause. The English stands on that point because Rashi, the other normative commentator, makes 1:3 the main clause; the two differ, the English follows Rashi and the ruling is changed to records. His bohu is consistent."
+  },
+  {
+   "anchor": "ibn-ezra:1:2:4",
+   "verdict": "contradicts",
+   "comment": "'spirit' against his wind; patched."
+  },
+  {
+   "anchor": "ibn-ezra:1:2:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:2:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:3:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:1:4:1",
+   "verdict": "contradicts",
+   "comment": "'fitting' against his plain sense, which keeps 'good'; patched."
+  },
+  {
+   "anchor": "ibn-ezra:1:4:1",
+   "verdict": "consistent",
+   "comment": "'saw' covers seeing in thought."
+  },
+  {
+   "anchor": "ibn-ezra:1:4:2",
+   "verdict": "consistent",
+   "comment": "'separated' leaves his naming open."
+  },
+  {
+   "anchor": "rashi:1:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:5:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:1:5:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:1:5:3",
+   "verdict": "consistent",
+   "comment": "'one day' after a colon does not rule out his 'of one day'; recorded in the apparatus."
+  }
+ ],
+ "leakage": [
+  {
+   "ref": "1:1",
+   "phrase": "When God began to create the heavens and the earth",
+   "note": "NJPS and Alter, 'When God began to create heaven and earth'. A correct rendering of Rashi's construct reading; not patched, per review brief item 6."
+  },
+  {
+   "ref": "1:2",
+   "phrase": "darkness was over the face of the deep",
+   "note": "ESV, word for word; KJV/RSV 'upon the face of the deep'. Forced by the Hebrew; not patched."
+  },
+  {
+   "ref": "1:4",
+   "phrase": "And God saw the light, that it was",
+   "note": "KJV 'And God saw the light, that it was good'. The submitted 'fitting' kept KJV's frame and changed one word; the patched English restores the literal sense. Forced by the Hebrew word order."
+  },
+  {
+   "ref": "1:5",
+   "phrase": "God called the light day, and the darkness he called night",
+   "note": "KJV, word for word (also NRSV). Literal Hebrew order; not patched."
+  },
+  {
+   "ref": "1:5",
+   "phrase": "And there was evening, and there was morning: one day",
+   "note": "RSV 1952, 'And there was evening and there was morning, one day'. Literal; not patched."
+  }
+ ]
+}
