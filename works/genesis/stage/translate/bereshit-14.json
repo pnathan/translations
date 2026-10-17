@@ -1,0 +1,1187 @@
+{
+ "unit": "bereshit-14",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "4:14",
+   "english": "Look, you have driven me out today from the face of the ground, and from your presence I will be hidden. I will be restless and wandering on the earth, and whoever finds me will kill me.",
+   "literal": "behold you-have-driven-out me the-day from-upon face-of the-ground and-from-your-face I-will-be-hidden and-I-will-be wavering and-wandering in-the-earth and-it-will-be all-of finder-of-me he-will-kill-me",
+   "tokens": [
+    {
+     "id": "4:14.1",
+     "gloss": "behold, look",
+     "note": "הֵן draws attention, like הִנֵּה"
+    },
+    {
+     "id": "4:14.2",
+     "gloss": "you have driven out",
+     "sense": "Pi",
+     "note": "Piel perfect: a completed act, with a sense of expulsion"
+    },
+    {
+     "id": "4:14.3",
+     "gloss": "me"
+    },
+    {
+     "id": "4:14.4",
+     "gloss": "the day, today",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.5",
+     "gloss": "from upon",
+     "sense": "IV.2"
+    },
+    {
+     "id": "4:14.6",
+     "gloss": "the face of",
+     "sense": "I.5"
+    },
+    {
+     "id": "4:14.7",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.8",
+     "gloss": "and from your face, from your presence",
+     "sense": "I.2.a",
+     "note": "the plural noun 'face' with suffix; idiom for presence"
+    },
+    {
+     "id": "4:14.9",
+     "gloss": "I will be hidden",
+     "sense": "Niph 1",
+     "note": "Niphal with a passive or reflexive force: 'be hidden' or 'hide myself'"
+    },
+    {
+     "id": "4:14.10",
+     "gloss": "and I will be",
+     "sense": "Qal II.2",
+     "note": "weqatal continuing the future sense"
+    },
+    {
+     "id": "4:14.11",
+     "gloss": "wavering, restless",
+     "sense": "Qal 2",
+     "note": "participle describing a state"
+    },
+    {
+     "id": "4:14.12",
+     "gloss": "and wandering",
+     "sense": "Qal 1.a"
+    },
+    {
+     "id": "4:14.13",
+     "gloss": "in the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "4:14.14",
+     "gloss": "and it will be that",
+     "sense": "Qal I.2.b",
+     "note": "weqatal introducing a consequence"
+    },
+    {
+     "id": "4:14.15",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.16",
+     "gloss": "one who finds me",
+     "sense": "Qal 1",
+     "note": "participle in construct with suffix: 'finder of me'"
+    },
+    {
+     "id": "4:14.17",
+     "gloss": "he will kill me",
+     "sense": "Qal 1.a",
+     "note": "the suffix is the object; pausal form with silluq"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:14.1"
+     ],
+     "english": "Look",
+     "literal": "'behold'; the particle draws attention"
+    },
+    {
+     "tokens": [
+      "4:14.2",
+      "4:14.3"
+     ],
+     "english": "you have driven me out",
+     "literal": "'you-have-driven-out me'; the object marker with suffix"
+    },
+    {
+     "tokens": [
+      "4:14.4"
+     ],
+     "english": "today",
+     "literal": "'the-day'; the article has the sense 'this day'"
+    },
+    {
+     "tokens": [
+      "4:14.5",
+      "4:14.6",
+      "4:14.7"
+     ],
+     "english": "from the face of the ground",
+     "literal": "'from-upon face-of the-ground'; face = surface"
+    },
+    {
+     "tokens": [
+      "4:14.8"
+     ],
+     "english": "and from your presence",
+     "literal": "'and-from-your-face'; the same word 'face' as in the previous phrase, here of God's regard"
+    },
+    {
+     "tokens": [
+      "4:14.9"
+     ],
+     "english": "I will be hidden",
+     "literal": "'I-will-be-hidden'; Niphal"
+    },
+    {
+     "tokens": [
+      "4:14.10",
+      "4:14.11",
+      "4:14.12",
+      "4:14.13"
+     ],
+     "english": "I will be restless and wandering on the earth",
+     "literal": "'and-I-will-be wavering and-wandering in-the-earth'; two participles describing unsettled movement"
+    },
+    {
+     "tokens": [
+      "4:14.14",
+      "4:14.15",
+      "4:14.16",
+      "4:14.17"
+     ],
+     "english": "and whoever finds me will kill me",
+     "literal": "'and-it-will-be all-of finder-of-me he-will-kill-me'"
+    }
+   ],
+   "grammar": [
+    "הֵן is a particle of attention ('look!') opening Cain's complaint.",
+    "The word פָּנִים 'face' occurs twice: 'the face of the ground' (surface) and 'your face' (presence): a repetition that makes Cain's loss of ground also a loss of God's presence.",
+    "נָע וָנָד is a pair of participles of similar sound and sense: 'wavering and wandering'.",
+    "The three weqatal verbs (וְהָיִיתִי, וְהָיָה) continue a future or consequential sense after the yiqtol אֶסָּתֵר.",
+    "The etnaḥta falls on אֶסָּתֵר and divides the verse into two halves: the loss of the ground and presence, and the danger that follows."
+   ],
+   "note": "'And from your face I will be hidden' is kept close to the Hebrew; Ibn Ezra reads it as meaning that there is a place in which God's power is seen, though all is full of his glory, which means that Cain's hiding is not from God's presence everywhere but from the place of his manifest favour. נָע is rendered 'restless' (lit. 'wavering, tottering') and נָד 'wandering'.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:4:14:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'ומפניך אסתר' means that there is a place that receives power and in which the might of God is seen, even though everything is full of his glory; the English keeps 'from your presence' and does not say that God is absent everywhere."
+    },
+    {
+     "anchor": "radak:4:14:2",
+     "relation": "records",
+     "summary": "Radak: God was angry and hid his face and providence from Cain, leaving him to everyone; he cites Bereshit Rabbah, 'Yesterday you drove out my father and today me; shall I be hidden from you?'"
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders 'from before you it is not possible to hide', taking the verb as a question or an impossibility; the English follows the plain Hebrew assertion."
+   ]
+  },
+  {
+   "ref": "4:15",
+   "english": "Then the LORD said to him, \"Therefore whoever kills Cain, vengeance will be taken for seven generations.\" And the LORD set a sign for Cain, so that no one who found him would strike him down.",
+   "literal": "and-said to-him the-LORD therefore all-of killer-of Cain sevenfold it-will-be-avenged and-set the-LORD for-Cain a-sign so-that-not to-strike him all-of finder-of-him",
+   "tokens": [
+    {
+     "id": "4:15.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of narration"
+    },
+    {
+     "id": "4:15.2",
+     "gloss": "to him"
+    },
+    {
+     "id": "4:15.3",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "4:15.4",
+     "gloss": "therefore",
+     "note": "לָכֵן, 'to so'; the introduction of a decree"
+    },
+    {
+     "id": "4:15.5",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.6",
+     "gloss": "one who kills",
+     "sense": "Qal 1.a",
+     "note": "participle in construct: 'killer of'"
+    },
+    {
+     "id": "4:15.7",
+     "gloss": "Cain"
+    },
+    {
+     "id": "4:15.8",
+     "gloss": "sevenfold, seven generations",
+     "note": "dual form of 'seven', 'seven times'; the commentators take it as seven generations"
+    },
+    {
+     "id": "4:15.9",
+     "gloss": "will be avenged",
+     "sense": "Hoph",
+     "note": "Hophal imperfect, passive: 'it will be avenged'"
+    },
+    {
+     "id": "4:15.10",
+     "gloss": "and set",
+     "sense": "Qal 1.c",
+     "note": "wayyiqtol of narration"
+    },
+    {
+     "id": "4:15.11",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "4:15.12",
+     "gloss": "for Cain"
+    },
+    {
+     "id": "4:15.13",
+     "gloss": "a sign",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.14",
+     "gloss": "so that not",
+     "sense": "1",
+     "note": "לְבִלְתִּי with an infinitive: 'so as not to ...'"
+    },
+    {
+     "id": "4:15.15",
+     "gloss": "to strike",
+     "sense": "Hiph 1.a",
+     "note": "Hiphil infinitive construct; here 'strike down, kill'"
+    },
+    {
+     "id": "4:15.16",
+     "gloss": "him"
+    },
+    {
+     "id": "4:15.17",
+     "gloss": "anyone who",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.18",
+     "gloss": "finds him",
+     "sense": "Qal 1",
+     "note": "participle in construct with suffix: 'finder of him'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:15.1",
+      "4:15.2",
+      "4:15.3"
+     ],
+     "english": "Then the LORD said to him",
+     "literal": "'and-said to-him the-LORD'"
+    },
+    {
+     "tokens": [
+      "4:15.4",
+      "4:15.5",
+      "4:15.6",
+      "4:15.7"
+     ],
+     "english": "Therefore whoever kills Cain",
+     "literal": "'therefore all-of killer-of Cain'; the clause breaks off, as Rashi explains, into a threat without a stated penalty"
+    },
+    {
+     "tokens": [
+      "4:15.8",
+      "4:15.9"
+     ],
+     "english": "vengeance will be taken for seven generations",
+     "literal": "'sevenfold it-will-be-avenged'; the commentators read the dual 'sevenfold' as seven generations"
+    },
+    {
+     "tokens": [
+      "4:15.10",
+      "4:15.11",
+      "4:15.12",
+      "4:15.13"
+     ],
+     "english": "And the LORD set a sign for Cain",
+     "literal": "'and-set the-LORD for-Cain a-sign'"
+    },
+    {
+     "tokens": [
+      "4:15.14",
+      "4:15.15",
+      "4:15.16",
+      "4:15.17",
+      "4:15.18"
+     ],
+     "english": "so that no one who found him would strike him down",
+     "literal": "'so-that-not to-strike him all-of finder-of-him'"
+    }
+   ],
+   "grammar": [
+    "לָכֵן כָּל־הֹרֵג קַיִן is an incomplete threat: the speech states the condition and leaves the penalty to be understood (Rashi: an expression of rebuke).",
+    "שִׁבְעָתַיִם is a dual of 'seven': 'seven times over'; Ibn Ezra insists that it means seven generations and not fourteen or 343.",
+    "יֻקָּם is Hophal, passive: 'it will be avenged'; the subject is not stated, so who is avenged is not fixed by the grammar.",
+    "לְבִלְתִּי with the infinitive הַכּוֹת expresses purpose: 'so that [one] not strike'; כׇּל־מֹצְאוֹ is 'anyone who finds him' (lit. 'all of the finder of him').",
+    "The mark (אוֹת) is not described: Ibn Ezra says the text does not reveal it."
+   ],
+   "note": "The English follows Rashi and Ibn Ezra, who agree that שִׁבְעָתַיִם means seven generations (Rashi: God postpones his vengeance on Cain until the seventh generation, when Lamech kills him); the English leaves the vengeance impersonal, as the Hebrew does. The reading that the killer of Cain will suffer sevenfold vengeance is the common one and is kept here as the alternative, because the Hebrew grammar does not exclude it.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:15:1",
+     "relation": "follows",
+     "summary": "Rashi: this is one of the verses that is abbreviated and hints without explaining; 'לכן כל הורג קין' is an expression of rebuke, meaning 'thus shall be done to him', 'so and so is his punishment', and the punishment is not stated."
+    },
+    {
+     "anchor": "rashi:4:15:2",
+     "relation": "follows",
+     "summary": "Rashi: 'I do not wish to take vengeance on Cain now; at the end of seven generations I will take my vengeance from him', since Lamech, one of his descendants, will kill him; the first part of the verse is a rebuke so that no creature should harm him."
+    },
+    {
+     "anchor": "rashi:4:15:3",
+     "relation": "follows",
+     "summary": "Rashi: God engraved for him a letter of his name on his forehead; another reading: Cain feared beasts and animals, since there were no other people beside his parents."
+    },
+    {
+     "anchor": "ibn-ezra:4:15:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: שִׁבְעָתַיִם means 'until seven generations', since the word does not mean fourteen or 343; he cites 'and the light of the sun shall be sevenfold' (Isaiah 30:26) which the prophet explains as 'like the light of seven days'."
+    },
+    {
+     "anchor": "ibn-ezra:4:15:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יֻקָּם means that his vengeance will be taken; God was patient with Cain until seven generations; he gives alternatives about the sign (a horn, strength in his heart) and prefers that God made a sign until Cain believed, which the text does not reveal."
+    }
+   ],
+   "apparatus": [
+    "Rashi mentions a variant understanding (ס\"א) that 'whoever finds me' refers to animals.",
+    "The common alternative: whoever kills Cain will be avenged sevenfold (the killer suffers sevenfold vengeance)."
+   ]
+  },
+  {
+   "ref": "4:16",
+   "english": "Then Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden.",
+   "literal": "and-went-out Cain from-before the-LORD and-dwelt in-land-of Nod east-of Eden",
+   "tokens": [
+    {
+     "id": "4:16.1",
+     "gloss": "and went out",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of narration"
+    },
+    {
+     "id": "4:16.2",
+     "gloss": "Cain"
+    },
+    {
+     "id": "4:16.3",
+     "gloss": "from before",
+     "sense": "I.6",
+     "note": "מִלִּפְנֵי: 'from before, from the presence of'"
+    },
+    {
+     "id": "4:16.4",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "4:16.5",
+     "gloss": "and dwelt, settled",
+     "sense": "Qal 3",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "4:16.6",
+     "gloss": "in the land of",
+     "sense": "2",
+     "note": "construct"
+    },
+    {
+     "id": "4:16.7",
+     "gloss": "Nod",
+     "note": "נוֹד, 'wandering', echoing נָד in 4:14"
+    },
+    {
+     "id": "4:16.8",
+     "gloss": "east of",
+     "note": "קִדְמַת: 'east of', the feminine construct of קֶדֶם"
+    },
+    {
+     "id": "4:16.9",
+     "gloss": "Eden"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:16.1",
+      "4:16.2"
+     ],
+     "english": "Then Cain went out",
+     "literal": "'and-went-out Cain'"
+    },
+    {
+     "tokens": [
+      "4:16.3",
+      "4:16.4"
+     ],
+     "english": "from the presence of the LORD",
+     "literal": "'from-before the-LORD'"
+    },
+    {
+     "tokens": [
+      "4:16.5"
+     ],
+     "english": "and settled",
+     "literal": "'and-dwelt'"
+    },
+    {
+     "tokens": [
+      "4:16.6",
+      "4:16.7"
+     ],
+     "english": "in the land of Nod",
+     "literal": "'in-land-of Nod'; the name resembles נָד 'wandering'"
+    },
+    {
+     "tokens": [
+      "4:16.8",
+      "4:16.9"
+     ],
+     "english": "east of Eden",
+     "literal": "'east-of Eden'"
+    }
+   ],
+   "grammar": [
+    "נוֹד is a place name that sounds like נָד 'wandering', which Cain feared to be (4:14).",
+    "The wayyiqtol verbs וַיֵּצֵא and וַיֵּשֶׁב carry the narrative forward.",
+    "מִלִּפְנֵי combines two prepositions with 'face': 'from before the face of'.",
+    "קִדְמַת־עֵדֶן is a construct phrase meaning 'east of Eden'.",
+    "The etnaḥta on יְהוָה divides the departure from the settlement."
+   ],
+   "note": "Rashi and Ibn Ezra agree that Nod is named for Cain's wandering; the English keeps the name and puts the meaning in the notes.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:16:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: he went out in submission, like one who steals the knowledge of the Most High; this concerns the manner of his leaving, not the words."
+    },
+    {
+     "anchor": "rashi:4:16:2",
+     "relation": "follows",
+     "summary": "Rashi: 'in the land of Nod' is the land where all exiles wander; a further reading says the earth shook beneath him wherever he went."
+    },
+    {
+     "anchor": "rashi:4:16:3",
+     "relation": "follows",
+     "summary": "Rashi: קדמת עדן is east of Eden, where his father was exiled when driven from the garden, as 'he stationed east of the garden of Eden' (3:24) shows; the east wind receives murderers."
+    },
+    {
+     "anchor": "ibn-ezra:4:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: they called the land Nod because Cain was wandering (נע ונד)."
+    },
+    {
+     "anchor": "ibn-ezra:4:16:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: קדמת עדן is east of Eden, which is north of the garden."
+    }
+   ]
+  },
+  {
+   "ref": "4:17",
+   "english": "Cain knew his wife, and she conceived and bore Enoch. He was building a city, and he named the city after his son Enoch.",
+   "literal": "and-knew Cain [object-mark] his-wife and-conceived and-bore [object-mark] Enoch and-was building city and-called name-of the-city like-name-of his-son Enoch",
+   "tokens": [
+    {
+     "id": "4:17.1",
+     "gloss": "and knew",
+     "sense": "Qal 3",
+     "note": "'to know' as an idiom for sexual relations"
+    },
+    {
+     "id": "4:17.2",
+     "gloss": "Cain"
+    },
+    {
+     "id": "4:17.3",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "4:17.4",
+     "gloss": "his wife",
+     "sense": "2",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "4:17.5",
+     "gloss": "and she conceived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine"
+    },
+    {
+     "id": "4:17.6",
+     "gloss": "and she bore",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine"
+    },
+    {
+     "id": "4:17.7",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "4:17.8",
+     "gloss": "Enoch"
+    },
+    {
+     "id": "4:17.9",
+     "gloss": "and he was",
+     "sense": "Qal III",
+     "note": "wayyiqtol of הָיָה with a participle: a continuing action in the past"
+    },
+    {
+     "id": "4:17.10",
+     "gloss": "building",
+     "sense": "Qal",
+     "note": "participle"
+    },
+    {
+     "id": "4:17.11",
+     "gloss": "a city",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.12",
+     "gloss": "and he called",
+     "sense": "Qal 6",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "4:17.13",
+     "gloss": "the name of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "4:17.14",
+     "gloss": "the city",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.15",
+     "gloss": "like the name of",
+     "sense": "3",
+     "note": "כְּ 'like, after'"
+    },
+    {
+     "id": "4:17.16",
+     "gloss": "his son",
+     "sense": "1",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "4:17.17",
+     "gloss": "Enoch"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:17.1",
+      "4:17.2",
+      "4:17.3",
+      "4:17.4"
+     ],
+     "english": "Cain knew his wife",
+     "literal": "'and-knew Cain [obj] his-wife'; 'know' as an idiom"
+    },
+    {
+     "tokens": [
+      "4:17.5"
+     ],
+     "english": "and she conceived",
+     "literal": "'and-conceived'"
+    },
+    {
+     "tokens": [
+      "4:17.6",
+      "4:17.7",
+      "4:17.8"
+     ],
+     "english": "and bore Enoch",
+     "literal": "'and-bore [obj] Enoch'"
+    },
+    {
+     "tokens": [
+      "4:17.9",
+      "4:17.10",
+      "4:17.11"
+     ],
+     "english": "He was building a city",
+     "literal": "'and-was building city'; a participle after a wayyiqtol of 'be'"
+    },
+    {
+     "tokens": [
+      "4:17.12",
+      "4:17.13",
+      "4:17.14"
+     ],
+     "english": "and he named the city",
+     "literal": "'and-called name-of the-city'"
+    },
+    {
+     "tokens": [
+      "4:17.15",
+      "4:17.16",
+      "4:17.17"
+     ],
+     "english": "after his son Enoch",
+     "literal": "'like-name-of his-son Enoch'"
+    }
+   ],
+   "grammar": [
+    "וַיֵּדַע 'knew' is a standard idiom for marital relations; it is used in 4:1 of Adam and Eve.",
+    "The two feminine wayyiqtols וַתַּהַר וַתֵּלֶד narrate conception and birth in sequence.",
+    "וַיְהִי בֹּנֶה עִיר: 'he was building a city', a wayyiqtol of 'be' with a participle, giving a continuing action.",
+    "The subject of 'was building' and 'called' is Cain according to Rashi; Ibn Ezra takes the city's name as 'called Enoch'.",
+    "כְּשֵׁם בְּנוֹ is 'like the name of his son': the city was named for his son."
+   ],
+   "note": "The subject of בֹּנֶה is Cain (Rashi: the city was named in memory of his son Enoch); the Hebrew leaves open whether Cain or Enoch is the builder, and the English keeps 'He'. Ibn Ezra compares Samaria, named for Shemer.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:17:1",
+     "relation": "follows",
+     "summary": "Rashi: the city was named in memory of his son Enoch."
+    },
+    {
+     "anchor": "ibn-ezra:4:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the city's name was called Enoch, like Samaria after Shemer, and likewise Egypt; the name is from the son."
+    }
+   ]
+  },
+  {
+   "ref": "4:18",
+   "english": "To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.",
+   "literal": "and-was-born to-Enoch [object-mark] Irad and-Irad fathered [object-mark] Mehujael and-Mehujael fathered [object-mark] Methushael and-Methushael fathered [object-mark] Lamech",
+   "tokens": [
+    {
+     "id": "4:18.1",
+     "gloss": "and was born",
+     "sense": "Niph",
+     "note": "Niphal wayyiqtol: 'was born'"
+    },
+    {
+     "id": "4:18.2",
+     "gloss": "to Enoch"
+    },
+    {
+     "id": "4:18.3",
+     "gloss": "[object marker]",
+     "note": "the marker is used with the passive verb's subject, Irad"
+    },
+    {
+     "id": "4:18.4",
+     "gloss": "Irad"
+    },
+    {
+     "id": "4:18.5",
+     "gloss": "and Irad"
+    },
+    {
+     "id": "4:18.6",
+     "gloss": "fathered",
+     "sense": "Qal 2",
+     "note": "Qal perfect used of the father: 'begot'"
+    },
+    {
+     "id": "4:18.7",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "4:18.8",
+     "gloss": "Mehujael"
+    },
+    {
+     "id": "4:18.9",
+     "gloss": "and Mehujael",
+     "note": "the spelling מְחִיָּיאֵל is a variant of מְחוּיָאֵל"
+    },
+    {
+     "id": "4:18.10",
+     "gloss": "fathered",
+     "sense": "Qal 2"
+    },
+    {
+     "id": "4:18.11",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "4:18.12",
+     "gloss": "Methushael"
+    },
+    {
+     "id": "4:18.13",
+     "gloss": "and Methushael"
+    },
+    {
+     "id": "4:18.14",
+     "gloss": "fathered",
+     "sense": "Qal 2"
+    },
+    {
+     "id": "4:18.15",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "4:18.16",
+     "gloss": "Lamech"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:18.1",
+      "4:18.2",
+      "4:18.3",
+      "4:18.4"
+     ],
+     "english": "To Enoch was born Irad",
+     "literal": "'and-was-born to-Enoch [obj] Irad'"
+    },
+    {
+     "tokens": [
+      "4:18.5",
+      "4:18.6",
+      "4:18.7",
+      "4:18.8"
+     ],
+     "english": "and Irad fathered Mehujael",
+     "literal": "'and-Irad fathered [obj] Mehujael'"
+    },
+    {
+     "tokens": [
+      "4:18.9",
+      "4:18.10",
+      "4:18.11",
+      "4:18.12"
+     ],
+     "english": "and Mehujael fathered Methushael",
+     "literal": "'and-Mehujael fathered [obj] Methushael'"
+    },
+    {
+     "tokens": [
+      "4:18.13",
+      "4:18.14",
+      "4:18.15",
+      "4:18.16"
+     ],
+     "english": "and Methushael fathered Lamech",
+     "literal": "'and-Methushael fathered [obj] Lamech'"
+    }
+   ],
+   "grammar": [
+    "וַיִּוָּלֵד is Niphal ('was born'), unusual before the object marker אֶת, which marks Irad.",
+    "The following three births use the Qal יָלַד with the man as subject: 'he begot'.",
+    "The name is spelled מְחוּיָאֵל the first time and מְחִיָּיאֵל the second.",
+    "The sentence changes word order after the first member: the name comes before the verb (וְעִירָד יָלַד), which marks each as a new subject.",
+    "The line is a genealogy: Cain, Enoch, Irad, Mehujael, Methushael, Lamech."
+   ],
+   "note": "The ketiv/qere-like spelling variation of Mehujael is noted in the apparatus; the English gives one form.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:18:1",
+     "relation": "follows",
+     "summary": "Rashi: where the text says הוֹלִיד it speaks of the woman's bearing, and where it says יָלַד it speaks of the man's sowing of offspring; here 'Irad fathered' is the man's act."
+    },
+    {
+     "anchor": "ibn-ezra:4:18:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: Lamech is the sixth from Cain and the seventh from Adam; this concerns the count of generations."
+    }
+   ],
+   "apparatus": [
+    "מְחוּיָאֵל (first occurrence) and מְחִיָּיאֵל (second): a spelling variant of one name."
+   ]
+  },
+  {
+   "ref": "4:19",
+   "english": "Lamech took for himself two wives: the name of the first was Adah, and the name of the second Zillah.",
+   "literal": "and-took for-him Lamech two-of women name-of the-one Adah and-name-of the-second Zillah",
+   "tokens": [
+    {
+     "id": "4:19.1",
+     "gloss": "and took",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; maqqef joins it to לוֹ"
+    },
+    {
+     "id": "4:19.2",
+     "gloss": "for himself",
+     "note": "ethical dative"
+    },
+    {
+     "id": "4:19.3",
+     "gloss": "Lamech"
+    },
+    {
+     "id": "4:19.4",
+     "gloss": "two of",
+     "note": "feminine dual construct"
+    },
+    {
+     "id": "4:19.5",
+     "gloss": "women, wives",
+     "sense": "2"
+    },
+    {
+     "id": "4:19.6",
+     "gloss": "name of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "4:19.7",
+     "gloss": "the one, the first",
+     "sense": "1"
+    },
+    {
+     "id": "4:19.8",
+     "gloss": "Adah"
+    },
+    {
+     "id": "4:19.9",
+     "gloss": "and the name of",
+     "sense": "3"
+    },
+    {
+     "id": "4:19.10",
+     "gloss": "the second"
+    },
+    {
+     "id": "4:19.11",
+     "gloss": "Zillah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:19.1",
+      "4:19.2",
+      "4:19.3"
+     ],
+     "english": "Lamech took for himself",
+     "literal": "'and-took for-him Lamech'; the 'for himself' is an ethical dative"
+    },
+    {
+     "tokens": [
+      "4:19.4",
+      "4:19.5"
+     ],
+     "english": "two wives",
+     "literal": "'two-of women'"
+    },
+    {
+     "tokens": [
+      "4:19.6",
+      "4:19.7",
+      "4:19.8"
+     ],
+     "english": "the name of the first was Adah",
+     "literal": "'name-of the-one Adah'; no verb 'was' in the Hebrew"
+    },
+    {
+     "tokens": [
+      "4:19.9",
+      "4:19.10",
+      "4:19.11"
+     ],
+     "english": "and the name of the second Zillah",
+     "literal": "'and-name-of the-second Zillah'"
+    }
+   ],
+   "grammar": [
+    "The pronoun in לוֹ is an ethical dative, with the sense of 'for himself'.",
+    "שְׁתֵּי is the construct feminine dual of שְׁנַיִם ('two') and נָשִׁים is the plural of אִשָּׁה: 'two women/wives'.",
+    "The two names are given by nominal clauses without a verb: 'the name of the one: Adah'.",
+    "הָאַחַת and הַשֵּׁנִית: 'the one' and 'the second', an unusual way to say 'the first'.",
+    "The names are Adah and Zillah; Rashi connects them to 'turning aside' and 'shade', which are noted but not placed in the English."
+   ],
+   "note": "The names are transliterated. The explanations of the names are not part of the English line, following the decision on names. Rashi's midrash on the two wives and his comments on the names are not taken as the plain sense (Ibn Ezra warns against relying on the Gaon's etymologies).",
+   "commentary": [
+    {
+     "anchor": "rashi:4:19:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the text did not need to give all this, but teaches from the end of the story that God kept his promise that Cain would be avenged sevenfold, as Lamech in the seventh generation killed Cain."
+    },
+    {
+     "anchor": "rashi:4:19:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: the generation of the Flood took two wives, one for procreation and one for pleasure; a homiletic account."
+    },
+    {
+     "anchor": "rashi:4:19:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: Adah is the one for procreation, named for 'turning aside' (Aramaic סוּרָה) because she was removed from him; an etymology for the name."
+    },
+    {
+     "anchor": "rashi:4:19:4",
+     "relation": "not-applicable",
+     "summary": "Rashi: Zillah is the one for pleasure, named for sitting always in his shade; an aggadic etymology."
+    },
+    {
+     "anchor": "ibn-ezra:4:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: do not heed the Gaon's explanations of the names, because if we knew all the sacred language we could not know all the events that explain a name such as Moses or Issachar; the English leaves the names untranslated."
+    }
+   ]
+  },
+  {
+   "ref": "4:20",
+   "english": "Adah bore Jabal; he was the first of those who live in tents and have livestock.",
+   "literal": "and-bore Adah [object-mark] Jabal he was father-of dweller-of tent and-livestock",
+   "tokens": [
+    {
+     "id": "4:20.1",
+     "gloss": "and bore",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine"
+    },
+    {
+     "id": "4:20.2",
+     "gloss": "Adah"
+    },
+    {
+     "id": "4:20.3",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "4:20.4",
+     "gloss": "Jabal"
+    },
+    {
+     "id": "4:20.5",
+     "gloss": "he",
+     "sense": "1",
+     "note": "resumptive pronoun"
+    },
+    {
+     "id": "4:20.6",
+     "gloss": "was",
+     "sense": "Qal III"
+    },
+    {
+     "id": "4:20.7",
+     "gloss": "father of, first of",
+     "sense": "5",
+     "note": "אֲבִי: construct of אָב"
+    },
+    {
+     "id": "4:20.8",
+     "gloss": "dweller of",
+     "sense": "Qal 3",
+     "note": "participle in construct"
+    },
+    {
+     "id": "4:20.9",
+     "gloss": "tent",
+     "sense": "1"
+    },
+    {
+     "id": "4:20.10",
+     "gloss": "and livestock"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:20.1",
+      "4:20.2",
+      "4:20.3",
+      "4:20.4"
+     ],
+     "english": "Adah bore Jabal",
+     "literal": "'and-bore Adah [obj] Jabal'"
+    },
+    {
+     "tokens": [
+      "4:20.5",
+      "4:20.6"
+     ],
+     "english": "he was",
+     "literal": "'he was'; the pronoun gives emphasis"
+    },
+    {
+     "tokens": [
+      "4:20.7"
+     ],
+     "english": "the first",
+     "literal": "'father-of'; in the sense of the originator, Ibn Ezra: ראשון"
+    },
+    {
+     "tokens": [
+      "4:20.8",
+      "4:20.9",
+      "4:20.10"
+     ],
+     "english": "of those who live in tents and have livestock",
+     "literal": "'dweller-of tent and-livestock'; the head of a class"
+    }
+   ],
+   "grammar": [
+    "הוּא הָיָה ... אֲבִי: the independent pronoun repeats the subject for emphasis.",
+    "אֲבִי is the construct of אָב 'father' used for the originator of a way of life.",
+    "יֹשֵׁב אֹהֶל is a participle in construct: 'dweller of tent'; the singular 'tent' is collective.",
+    "מִקְנֶה means livestock (property in animals).",
+    "Jabal's sons are not mentioned, which the Hebrew treats as the origin of a type."
+   ],
+   "note": "אֲבִי is 'father of' in the sense of 'the first of' (Ibn Ezra: אבי = ראשון, like אב and אביב, and the construct is always in yod). Rashi explains that Jabal was the first of the herdsmen in the wilderness, moving his tent from place to place; a homiletic reading (builder of houses for idols) is not taken.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:20:1",
+     "relation": "follows",
+     "summary": "Rashi: he was the first of the herdsmen of animals in the deserts, a dweller of tents who moved his tent when the pasture ran out; a midrash reads 'builder of temples for idol worship', as 'the image of jealousy that provokes jealousy' (Ezekiel 8)."
+    },
+    {
+     "anchor": "ibn-ezra:4:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אבי means 'first', like אב and אביב; the word is bound only with yod, and 'his brother' is אחיו."
+    }
+   ]
+  },
+  {
+   "ref": "4:21",
+   "english": "His brother's name was Jubal; he was the first of all who handle the lyre and the pipe.",
+   "literal": "and-name-of his-brother Jubal he was father-of all-of handler-of lyre and-pipe",
+   "tokens": [
+    {
+     "id": "4:21.1",
+     "gloss": "and the name of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "4:21.2",
+     "gloss": "his brother",
+     "sense": "1",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "4:21.3",
+     "gloss": "Jubal"
+    },
+    {
+     "id": "4:21.4",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "4:21.5",
+     "gloss": "was",
+     "sense": "Qal III"
+    },
+    {
+     "id": "4:21.6",
+     "gloss": "father of, first of",
+     "sense": "5"
+    },
+    {
+     "id": "4:21.7",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "4:21.8",
+     "gloss": "one who handles",
+     "sense": "Qal 2",
+     "note": "participle in construct"
+    },
+    {
+     "id": "4:21.9",
+     "gloss": "lyre"
+    },
+    {
+     "id": "4:21.10",
+     "gloss": "and pipe",
+     "note": "an instrument of reed or breath"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:21.1",
+      "4:21.2",
+      "4:21.3"
+     ],
+     "english": "His brother's name was Jubal",
+     "literal": "'and-name-of his-brother Jubal'"
+    },
+    {
+     "tokens": [
+      "4:21.4",
+      "4:21.5"
+     ],
+     "english": "he was",
+     "literal": "'he was'"
+    },
+    {
+     "tokens": [
+      "4:21.6"
+     ],
+     "english": "the first",
+     "literal": "'father-of'"
+    },
+    {
+     "tokens": [
+      "4:21.7",
+      "4:21.8"
+     ],
+     "english": "of all who handle",
+     "literal": "'all-of handler-of'; those who play"
+    },
+    {
+     "tokens": [
+      "4:21.9",
+      "4:21.10"
+     ],
+     "english": "the lyre and the pipe",
+     "literal": "'lyre and-pipe'"
+    }
+   ],
+   "grammar": [
+    "The name יוּבָל resembles יָבָל, the name of his brother; the sound is close.",
+    "אֲבִי כָּל־תֹּפֵשׂ is 'father of all who handle': the originator of all players.",
+    "תֹּפֵשׂ is a participle in construct, here 'one who handles skilfully' (Qal 2).",
+    "כִּנּוֹר and עוּגָב are two instruments, a stringed lyre and a reed or wind pipe.",
+    "The etnaḥta-like pause is replaced by silluq on עוּגָב, closing the passage on the two arts."
+   ],
+   "note": "The instruments are rendered by their usual names 'lyre' and 'pipe'; Ibn Ezra says the verse refers to kinds of musical instruments and that this is a great skill.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:4:21:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: כנור ועוגב are kinds of musical instruments, and that is a great art."
+    }
+   ]
+  }
+ ]
+}

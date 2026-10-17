@@ -1,0 +1,1309 @@
+{
+ "unit": "bereshit-10",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "3:8",
+   "english": "They heard the sound of the LORD God walking about in the garden at the breeze of the day, and the human and his wife hid from the LORD God among the trees of the garden.",
+   "literal": "and-they-heard [object-marker] sound-of LORD God walking-about in-the-garden to-wind-of the-day and-hid the-human and-his-wife from-face-of LORD God in-midst-of tree-of the-garden",
+   "tokens": [
+    {
+     "id": "3:8.1",
+     "gloss": "and they heard",
+     "note": "wayyiqtol 3mp; the subject is the man and his wife (3:7). BDB lists no Qal sense for שָׁמַע in this pack."
+    },
+    {
+     "id": "3:8.2",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "3:8.3",
+     "gloss": "the sound of",
+     "note": "construct state"
+    },
+    {
+     "id": "3:8.4",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "3:8.5",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "3:8.6",
+     "gloss": "walking about",
+     "sense": "Hithp",
+     "note": "hitpael participle: habitual or continuous walking to and fro; the antecedent may be the sound or the LORD God"
+    },
+    {
+     "id": "3:8.7",
+     "gloss": "in the garden"
+    },
+    {
+     "id": "3:8.8",
+     "gloss": "at the breeze of",
+     "sense": "2",
+     "note": "construct; לְ here 'toward, at'"
+    },
+    {
+     "id": "3:8.9",
+     "gloss": "the day",
+     "sense": "1"
+    },
+    {
+     "id": "3:8.10",
+     "gloss": "and (he) hid himself",
+     "sense": "Hithp 1",
+     "note": "wayyiqtol with a singular verb before a compound subject"
+    },
+    {
+     "id": "3:8.11",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "3:8.12",
+     "gloss": "and his wife",
+     "sense": "2",
+     "note": "construct form אִשְׁתּ- with the suffix -וֹ"
+    },
+    {
+     "id": "3:8.13",
+     "gloss": "from before",
+     "sense": "I.6",
+     "note": "מִפְּנֵי, 'from the face of', idiom for 'away from, out of the sight of'"
+    },
+    {
+     "id": "3:8.14",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "3:8.15",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "3:8.16",
+     "gloss": "in the midst of",
+     "note": "construct"
+    },
+    {
+     "id": "3:8.17",
+     "gloss": "the trees of",
+     "sense": "1.b",
+     "note": "singular עֵץ used collectively (Radak: 'the trees of the garden')"
+    },
+    {
+     "id": "3:8.18",
+     "gloss": "the garden"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:8.1"
+     ],
+     "english": "They heard",
+     "literal": "'and-they-heard'; ו rendered by nothing, the narrative continuing from 3:7"
+    },
+    {
+     "tokens": [
+      "3:8.2",
+      "3:8.3",
+      "3:8.4",
+      "3:8.5"
+     ],
+     "english": "the sound of the LORD God",
+     "literal": "'[obj] sound-of LORD God'; קוֹל in construct; the marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "3:8.6",
+      "3:8.7"
+     ],
+     "english": "walking about in the garden",
+     "literal": "'walking-about in-the-garden'; hitpael participle"
+    },
+    {
+     "tokens": [
+      "3:8.8",
+      "3:8.9"
+     ],
+     "english": "at the breeze of the day",
+     "literal": "'to-wind-of the-day'; the phrase is left as the Hebrew has it, see note"
+    },
+    {
+     "tokens": [
+      "3:8.10",
+      "3:8.11",
+      "3:8.12"
+     ],
+     "english": "and the human and his wife hid",
+     "literal": "'and-hid the-human and-his-wife'"
+    },
+    {
+     "tokens": [
+      "3:8.13",
+      "3:8.14",
+      "3:8.15"
+     ],
+     "english": "from the LORD God",
+     "literal": "'from-face-of LORD God'"
+    },
+    {
+     "tokens": [
+      "3:8.16",
+      "3:8.17",
+      "3:8.18"
+     ],
+     "english": "among the trees of the garden",
+     "literal": "'in-midst-of tree-of the-garden'; collective singular"
+    }
+   ],
+   "grammar": [
+    "וַיִּשְׁמְעוּ: wayyiqtol 3mp of שׁמע. The gershayim (disjunctive) falls on the first word.",
+    "מִתְהַלֵּךְ is a hitpael participle, masculine singular. It agrees with קוֹל ('the sound ... walking') or with יְהוָה אֱלֹהִים; the Hebrew does not say which.",
+    "The etnaḥta on הַיּוֹם closes the first half: what they heard, and when. The second half, וַיִּתְחַבֵּא ..., is the reaction.",
+    "וַיִּתְחַבֵּא is singular, before a compound subject, the man first and his wife second.",
+    "בְּתוֹךְ עֵץ הַגָּן: singular עֵץ in a collective sense, 'among the trees'."
+   ],
+   "note": "לְרוּחַ הַיּוֹם is kept literal. Rashi takes רוּחַ as the direction (west, where the sun is toward evening); Ibn Ezra, Radak and Ramban take it as the wind or breeze of the day, that is, toward evening. 'Breeze of the day' leaves that open; the choice among them is recorded under Rashi's comment. מִתְהַלֵּךְ is also left open between the LORD God and his sound (Ibn Ezra and Ramban: the sound goes; Radak: or the man walks).",
+   "commentary": [
+    {
+     "anchor": "rashi:3:8:1",
+     "relation": "not-applicable",
+     "summary": "Rashi says that there are many aggadic midrashim, already arranged elsewhere, and that he comes only for the plain sense of the verse and for an aggadah that settles the words of the verse."
+    },
+    {
+     "anchor": "rashi:3:8:2",
+     "relation": "follows",
+     "summary": "Rashi: 'What did they hear? They heard the sound of the Holy One, blessed be He, who was walking in the garden.' The English keeps the sound as the thing heard."
+    },
+    {
+     "anchor": "rashi:3:8:3",
+     "relation": "records",
+     "summary": "Rashi: לְרוּחַ הַיּוֹם is 'toward that direction where the sun comes', the west, 'for toward evening the sun is in the west'. The English keeps the words 'breeze of the day' and does not choose the direction reading."
+    },
+    {
+     "anchor": "ibn-ezra:3:8:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the sound is the LORD's, and this was near evening 'when the wind of the day blows' (בעת התנופף רוח היום); the sound can 'walk' as in 'her sound goes like a serpent' (Jer 46:22). The English keeps 'the sound ... walking about'."
+    },
+    {
+     "anchor": "radak:3:8:5",
+     "relation": "records",
+     "summary": "Radak: at evening when the day's wind cools; they knew the sound was God coming to speak to them about their sin, and hid for shame among the trees."
+    }
+   ],
+   "apparatus": [
+    "Whether רוּחַ הַיּוֹם is 'wind/breeze of the day' (Ibn Ezra, Radak, Ramban) or 'the western direction' (Rashi).",
+    "Whether מִתְהַלֵּךְ qualifies קוֹל or יהוה אלהים (Ibn Ezra, Ramban); Radak records the view that it refers to the man.",
+    "The verb שׁמע (Qal) has no sense in the lexicon entry shown in the pack, which lists Niph and Pi only."
+   ]
+  },
+  {
+   "ref": "3:9",
+   "english": "The LORD God called to the human and said to him, \"Where are you?\"",
+   "literal": "and-called LORD God to the-human and-said to-him where-you",
+   "tokens": [
+    {
+     "id": "3:9.1",
+     "gloss": "and (he) called",
+     "sense": "Qal 2.a",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "3:9.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "3:9.3",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "3:9.4",
+     "gloss": "to"
+    },
+    {
+     "id": "3:9.5",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "3:9.6",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "3:9.7",
+     "gloss": "to him"
+    },
+    {
+     "id": "3:9.8",
+     "gloss": "where are you?",
+     "sense": "1",
+     "note": "אַיֶּכָּה is אַי 'where' with the 2ms suffix and a pausal ה; the copula is not written"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:9.1",
+      "3:9.2",
+      "3:9.3"
+     ],
+     "english": "The LORD God called",
+     "literal": "'and-called LORD God'; verb first, as usual in narrative"
+    },
+    {
+     "tokens": [
+      "3:9.4",
+      "3:9.5"
+     ],
+     "english": "to the human",
+     "literal": "'to the-human'"
+    },
+    {
+     "tokens": [
+      "3:9.6",
+      "3:9.7"
+     ],
+     "english": "and said to him",
+     "literal": "'and-said to-him'"
+    },
+    {
+     "tokens": [
+      "3:9.8"
+     ],
+     "english": "Where are you",
+     "literal": "'where-you'; an interrogative with a suffix and no verb"
+    }
+   ],
+   "grammar": [
+    "וַיִּקְרָא ... אֶל, 'call to', takes אֶל for the one called.",
+    "אַיֶּכָּה: אַי 'where?' with the suffix ־ךָ; the ה is a pausal spelling. The sentence has no verb: 'where-you?'.",
+    "The etnaḥta on הָאָדָם divides the verse: the call, then the question."
+   ],
+   "note": "The question is not a request for information; the commentators give its purpose (to open a conversation), recorded below.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:9:1",
+     "relation": "follows",
+     "summary": "Rashi: 'He knew where he was, but wished to enter into words with him, so that he would not be too startled to answer if He punished him suddenly', as with Cain ('Where is Abel your brother?'). The English asks the plain question."
+    },
+    {
+     "anchor": "ibn-ezra:3:9:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the sense of אַיֶּכָּה is an opening for conversation (פתחון הדברים), like 'Where is Abel your brother?' (4:9)."
+    },
+    {
+     "anchor": "radak:3:9:1",
+     "relation": "follows",
+     "summary": "Radak: said as an opening of words, like 'Where is Abel your brother?' and 'What is this in your hand?' (Ex 4:2)."
+    }
+   ],
+   "apparatus": [
+    "Sforno reads the question as 'you are not seen in the garden as before, why do you hide now?'; Onkelos translates 'where are you?' (אָן אָתְּ)."
+   ]
+  },
+  {
+   "ref": "3:10",
+   "english": "He said, \"I heard your sound in the garden, and I was afraid because I am naked, and I hid.\"",
+   "literal": "and-said [object-marker] sound-your I-heard in-the-garden and-I-was-afraid for naked I and-I-hid-myself",
+   "tokens": [
+    {
+     "id": "3:10.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "3:10.2",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "3:10.3",
+     "gloss": "your sound",
+     "note": "construct form קֹל- with the suffix -ךָ; the object is placed first, for emphasis"
+    },
+    {
+     "id": "3:10.4",
+     "gloss": "I heard"
+    },
+    {
+     "id": "3:10.5",
+     "gloss": "in the garden"
+    },
+    {
+     "id": "3:10.6",
+     "gloss": "and I was afraid",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 1cs"
+    },
+    {
+     "id": "3:10.7",
+     "gloss": "because",
+     "sense": "3"
+    },
+    {
+     "id": "3:10.8",
+     "gloss": "naked",
+     "note": "spelled with a yod: עֵירֹם (Radak)"
+    },
+    {
+     "id": "3:10.9",
+     "gloss": "I"
+    },
+    {
+     "id": "3:10.10",
+     "gloss": "and I hid myself",
+     "sense": "Niph",
+     "note": "niphal wayyiqtol 1cs; reflexive 'hid myself'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:10.1"
+     ],
+     "english": "He said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "3:10.2",
+      "3:10.3",
+      "3:10.4"
+     ],
+     "english": "I heard your sound",
+     "literal": "'[obj] sound-your I-heard'; the object is placed before the verb for emphasis"
+    },
+    {
+     "tokens": [
+      "3:10.5"
+     ],
+     "english": "in the garden",
+     "literal": "'in-the-garden'"
+    },
+    {
+     "tokens": [
+      "3:10.6"
+     ],
+     "english": "and I was afraid",
+     "literal": "'and-I-was-afraid'"
+    },
+    {
+     "tokens": [
+      "3:10.7",
+      "3:10.8",
+      "3:10.9"
+     ],
+     "english": "because I am naked",
+     "literal": "'for naked I'"
+    },
+    {
+     "tokens": [
+      "3:10.10"
+     ],
+     "english": "and I hid",
+     "literal": "'and-I-hid-myself'"
+    }
+   ],
+   "grammar": [
+    "אֶת־קֹלְךָ שָׁמַעְתִּי: the object is fronted before the verb, so that the sound is what is stressed.",
+    "קוֹל is rendered 'sound', not 'voice': Genesis 3:8 has the same word of the LORD God walking.",
+    "וָאִירָא and וָאֵחָבֵא are wayyiqtol forms in the first person, with ָ on the ו; the second verb is niphal (reflexive).",
+    "עֵירֹם, 'naked', is written with a yod (cf. 3:7, 3:11) and אָנֹכִי follows as a pronoun for the emphasis."
+   ],
+   "note": "'Your sound' is used to match 3:8; 'your voice' would be an equally good rendering of קוֹל. The man says nothing of the fruit.",
+   "commentary": [
+    {
+     "anchor": "radak:3:10:1",
+     "relation": "not-applicable",
+     "summary": "Radak: עֵירֹם is written with a yod, as in 'for you are naked' (3:7)."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "3:11",
+   "english": "He said, \"Who told you that you are naked? Have you eaten from the tree that I commanded you not to eat from?\"",
+   "literal": "and-said who told to-you that naked you [interrogative]-from-the-tree which I-commanded-you to-not eat from-it you-ate",
+   "tokens": [
+    {
+     "id": "3:11.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "3:11.2",
+     "gloss": "who"
+    },
+    {
+     "id": "3:11.3",
+     "gloss": "told",
+     "sense": "Hiph",
+     "note": "hifil perfect 3ms"
+    },
+    {
+     "id": "3:11.4",
+     "gloss": "to you"
+    },
+    {
+     "id": "3:11.5",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "3:11.6",
+     "gloss": "naked",
+     "note": "spelled with a yod"
+    },
+    {
+     "id": "3:11.7",
+     "gloss": "you"
+    },
+    {
+     "id": "3:11.8",
+     "gloss": "is it from",
+     "note": "הֲ introduces a question (Rashi: 'in astonishment'; Radak: like הֲרָצַחְתָּ), with מִן"
+    },
+    {
+     "id": "3:11.9",
+     "gloss": "the tree",
+     "sense": "1.a"
+    },
+    {
+     "id": "3:11.10",
+     "gloss": "that"
+    },
+    {
+     "id": "3:11.11",
+     "gloss": "I commanded you",
+     "note": "piel perfect 1cs with the suffix -ךָ"
+    },
+    {
+     "id": "3:11.12",
+     "gloss": "not to",
+     "note": "לְבִלְתִּי: 'not'; with לְ it gives the sense 'so as not' (Ibn Ezra)"
+    },
+    {
+     "id": "3:11.13",
+     "gloss": "eat",
+     "sense": "Qal 1",
+     "note": "infinitive construct אֲכָל (Ibn Ezra: 'name of the action')"
+    },
+    {
+     "id": "3:11.14",
+     "gloss": "from it"
+    },
+    {
+     "id": "3:11.15",
+     "gloss": "you ate",
+     "sense": "Qal 1",
+     "note": "perfect 2ms"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:11.1"
+     ],
+     "english": "He said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "3:11.2",
+      "3:11.3",
+      "3:11.4"
+     ],
+     "english": "Who told you",
+     "literal": "'who told to-you'"
+    },
+    {
+     "tokens": [
+      "3:11.5",
+      "3:11.6",
+      "3:11.7"
+     ],
+     "english": "that you are naked",
+     "literal": "'that naked you'"
+    },
+    {
+     "tokens": [
+      "3:11.8",
+      "3:11.9",
+      "3:11.10",
+      "3:11.11",
+      "3:11.12",
+      "3:11.13",
+      "3:11.14",
+      "3:11.15"
+     ],
+     "english": "Have you eaten from the tree that I commanded you not to eat from",
+     "literal": "'[question]-from-the-tree which I-commanded-you not to-eat from-it you-ate'; the question is introduced by הֲ at the front, and the verb comes last; Rashi 'in astonishment'"
+    }
+   ],
+   "grammar": [
+    "The etnaḥta on אָתָּה divides the verse: the first question (who told you), then the second (did you eat).",
+    "הֲמִן־הָעֵץ ... אָכָלְתָּ: the interrogative ה is attached to the fronted phrase, and the verb אָכָלְתָּ is last; the sentence is a yes-or-no question, and Rashi takes it as a question of astonishment (בתמיהה).",
+    "לְבִלְתִּי אֲכָל: לְבִלְתִּי with an infinitive construct, 'so as not to eat'; Ibn Ezra says that with the ל it means 'so that not' (שלא), without it 'only'.",
+    "אֲכָל is an infinitive construct, and Ibn Ezra calls it 'name of the action' (שם הפועל); compare לְבִלְתִּי שְׁמֹר (Dt 8:11).",
+    "הִגִּיד is a hifil of נגד, 'to tell, to make known'."
+   ],
+   "note": "The single phrase for the second question keeps the Hebrew's order of ideas in one English clause; English puts the verb before the object, so the phrase cannot be split by words.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:11:1",
+     "relation": "follows",
+     "summary": "Rashi: 'From where would you know what shame there is in standing naked?' The English asks who told him."
+    },
+    {
+     "anchor": "rashi:3:11:2",
+     "relation": "follows",
+     "summary": "Rashi: הֲמִן הָעֵץ is a question 'in astonishment' (בתמיהה). The English is a question."
+    },
+    {
+     "anchor": "ibn-ezra:3:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: with a ל, לבלתי has the sense of שלא ('so that not'); without a ל it has the sense of רק ('only'). The English 'not to eat' follows the first."
+    },
+    {
+     "anchor": "ibn-ezra:3:11:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אֲכָל is the name of the action (the infinitive), as in 'not to keep his commandments' (Dt 8:11). The English uses the infinitive."
+    },
+    {
+     "anchor": "radak:3:11:1",
+     "relation": "follows",
+     "summary": "Radak: the ה is the ה of הֲרָצַחְתָּ (1 Kings 21:19), and the question is asked to hear the answer, 'for the matter is known before God'."
+    }
+   ],
+   "apparatus": [
+    "Sforno reads מִי הִגִּיד לְךָ as 'who told you of the knowledge of good and evil?'."
+   ]
+  },
+  {
+   "ref": "3:12",
+   "english": "The human said, \"The woman whom you put with me, she gave me from the tree, and I ate.\"",
+   "literal": "and-said the-human the-woman whom you-gave beside-me she gave-to-me from-the-tree and-I-ate",
+   "tokens": [
+    {
+     "id": "3:12.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "3:12.2",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "3:12.3",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "3:12.4",
+     "gloss": "whom"
+    },
+    {
+     "id": "3:12.5",
+     "gloss": "you put",
+     "sense": "Qal 2",
+     "note": "perfect 2ms; the verb is 'give' in the sense 'set, place'"
+    },
+    {
+     "id": "3:12.6",
+     "gloss": "with me",
+     "note": "עִמָּדִי is an extended form of עִם + suffix; Ibn Ezra: 'with me, in the garden'"
+    },
+    {
+     "id": "3:12.7",
+     "gloss": "she",
+     "note": "independent pronoun placed first, for emphasis"
+    },
+    {
+     "id": "3:12.8",
+     "gloss": "gave",
+     "sense": "Qal 1",
+     "note": "perfect 3fs"
+    },
+    {
+     "id": "3:12.9",
+     "gloss": "to me"
+    },
+    {
+     "id": "3:12.10",
+     "gloss": "from"
+    },
+    {
+     "id": "3:12.11",
+     "gloss": "the tree",
+     "sense": "1.a"
+    },
+    {
+     "id": "3:12.12",
+     "gloss": "and I ate",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 1cs; the shape וָאֹכֵל is explained by Ibn Ezra"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:12.1",
+      "3:12.2"
+     ],
+     "english": "The human said",
+     "literal": "'and-said the-human'"
+    },
+    {
+     "tokens": [
+      "3:12.3",
+      "3:12.4",
+      "3:12.5",
+      "3:12.6"
+     ],
+     "english": "The woman whom you put with me",
+     "literal": "'the-woman whom you-gave beside-me'; נתן in the sense 'set'"
+    },
+    {
+     "tokens": [
+      "3:12.7",
+      "3:12.8",
+      "3:12.9"
+     ],
+     "english": "she gave me",
+     "literal": "'she gave to-me'"
+    },
+    {
+     "tokens": [
+      "3:12.10",
+      "3:12.11"
+     ],
+     "english": "from the tree",
+     "literal": "'from the-tree'"
+    },
+    {
+     "tokens": [
+      "3:12.12"
+     ],
+     "english": "and I ate",
+     "literal": "'and-I-ate'"
+    }
+   ],
+   "grammar": [
+    "הָאִשָּׁה אֲשֶׁר נָתַתָּה עִמָּדִי: the woman is placed first as a casus pendens, and הִוא resumes her after the break at the zaqef qaton and the tevir.",
+    "The independent pronoun הִוא is stressed: 'she, she gave me'.",
+    "עִמָּדִי: an extended form of עִם, 'beside me'.",
+    "וָאֹכֵל is a wayyiqtol 1cs; Ibn Ezra explains the א and the pausal vowel.",
+    "The man does not name the fruit: מִן־הָעֵץ, 'from the tree'."
+   ],
+   "note": "נָתַתָּה is written with a final ה, a 2ms perfect in its full form (Ibn Ezra reads the clause 'you who gave me the woman who is with me'). 'Put' for נתן follows BDB's 'set, put'. The line is the human's defence; Rashi and Ramban see in it the blame laid on God.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:12:1",
+     "relation": "not-applicable",
+     "summary": "Rashi (Avodah Zarah 5): 'Here he denied the favour', that is, the human blames God for the gift of the woman. The English keeps the words and does not add the charge."
+    },
+    {
+     "anchor": "ibn-ezra:3:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'you gave the one who gives to me'; עִמָּדִי is 'in the garden', the same as עִמִּי, but it is not found except in the speech of one person (לשון יחיד המדבר)."
+    },
+    {
+     "anchor": "ibn-ezra:3:12:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra explains the grammar of וָאֹכֵל: the א is the sign of the speaker, and the vowel under the ו is in pause."
+    },
+    {
+     "anchor": "ramban:3:12:2",
+     "relation": "records",
+     "summary": "Ramban: the human meant 'the woman whom you in your honour gave me as a help, she gave me from the tree'; the rabbis call it ingratitude."
+    }
+   ],
+   "apparatus": [
+    "Whether the man's words are a plea or an accusation of God (Rashi and the rabbis: ingratitude; Ramban: the woman as a presumed help)."
+   ]
+  },
+  {
+   "ref": "3:13",
+   "english": "The LORD God said to the woman, \"What is this you have done?\" The woman said, \"The serpent deceived me, and I ate.\"",
+   "literal": "and-said LORD God to-the-woman what this you-did and-said the-woman the-serpent deceived-me and-I-ate",
+   "tokens": [
+    {
+     "id": "3:13.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "3:13.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "3:13.3",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "3:13.4",
+     "gloss": "to the woman",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.5",
+     "gloss": "what",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.6",
+     "gloss": "this"
+    },
+    {
+     "id": "3:13.7",
+     "gloss": "you have done",
+     "sense": "Qal I.1",
+     "note": "perfect 2fs; the shape עָשִׂית, with the final ־ת and no vowel, is the old 2fs"
+    },
+    {
+     "id": "3:13.8",
+     "gloss": "and she said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 3fs"
+    },
+    {
+     "id": "3:13.9",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.10",
+     "gloss": "the serpent",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.11",
+     "gloss": "deceived me",
+     "sense": "Hiph",
+     "note": "hifil perfect 3ms with the suffix -נִי"
+    },
+    {
+     "id": "3:13.12",
+     "gloss": "and I ate",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 1cs"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:13.1",
+      "3:13.2",
+      "3:13.3"
+     ],
+     "english": "The LORD God said",
+     "literal": "'and-said LORD God'"
+    },
+    {
+     "tokens": [
+      "3:13.4"
+     ],
+     "english": "to the woman",
+     "literal": "'to-the-woman'"
+    },
+    {
+     "tokens": [
+      "3:13.5",
+      "3:13.6",
+      "3:13.7"
+     ],
+     "english": "What is this you have done",
+     "literal": "'what this you-did'; an exclamatory question"
+    },
+    {
+     "tokens": [
+      "3:13.8",
+      "3:13.9"
+     ],
+     "english": "The woman said",
+     "literal": "'and-said the-woman'"
+    },
+    {
+     "tokens": [
+      "3:13.10",
+      "3:13.11"
+     ],
+     "english": "The serpent deceived me",
+     "literal": "'the-serpent deceived-me'"
+    },
+    {
+     "tokens": [
+      "3:13.12"
+     ],
+     "english": "and I ate",
+     "literal": "'and-I-ate'"
+    }
+   ],
+   "grammar": [
+    "מַה־זֹּאת עָשִׂית: 'what is this that you did?'; the 2fs perfect ends in ־ית.",
+    "The wayyiqtol וַתֹּאמֶר carries two pashta accents, the doubled pashta of a word that has the stress on the last syllable.",
+    "הַנָּחָשׁ הִשִּׁיאַנִי: subject first and the verb after it, the order of an answer.",
+    "הִשִּׁיאַנִי is a hifil of נשׁא with the suffix; the sense is 'to deceive' (BDB 'beguile'), not the common 'lift'.",
+    "The woman repeats the man's וָאֹכֵל: 'and I ate'."
+   ],
+   "note": "הִשִּׁיאַנִי 'deceived me': Rashi 'led me astray' (הטעני) and Ibn Ezra 'enticed me' (פתני) agree on 'deceive', in the sense of deceit or persuasion. Ramban records that the woman, like the serpent, was punished for the eating and the counsel.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:13:1",
+     "relation": "follows",
+     "summary": "Rashi: הִשִּׁיאַנִי means הִטְעַנִי, 'misled me', as in 'Do not let Hezekiah deceive you' (2 Chr 32:15). The English follows with 'deceived'."
+    },
+    {
+     "anchor": "ibn-ezra:3:13:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הִשִּׁיאַנִי means פִּתַּנִי, 'enticed me'. The English 'deceived' is close to it."
+    },
+    {
+     "anchor": "radak:3:13:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the woman answers that if she led the man astray, the serpent led her astray, and God created the serpent."
+    }
+   ],
+   "apparatus": [
+    "The root is נשׁא II 'deceive'; it is not the נשׁא 'lift'."
+   ]
+  },
+  {
+   "ref": "3:14",
+   "english": "The LORD God said to the serpent, \"Because you have done this, cursed are you more than all the livestock and more than all the wild animals of the field. On your belly you shall go, and dust you shall eat all the days of your life.\"",
+   "literal": "and-said LORD God to-the-serpent because you-did this cursed you from-all-the-livestock and-from-all-living-thing-of the-field upon belly-your you-will-go and-dust you-will-eat all days-of lives-your",
+   "tokens": [
+    {
+     "id": "3:14.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; two telisha qetana accents mark the word"
+    },
+    {
+     "id": "3:14.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "3:14.3",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "3:14.4",
+     "gloss": "to"
+    },
+    {
+     "id": "3:14.5",
+     "gloss": "the serpent",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.6",
+     "gloss": "because",
+     "sense": "3"
+    },
+    {
+     "id": "3:14.7",
+     "gloss": "you have done",
+     "sense": "Qal I.1",
+     "note": "perfect 2ms"
+    },
+    {
+     "id": "3:14.8",
+     "gloss": "this"
+    },
+    {
+     "id": "3:14.9",
+     "gloss": "cursed",
+     "sense": "Qal",
+     "note": "passive participle of ארר, used as a formula of curse; no verb 'to be' is written"
+    },
+    {
+     "id": "3:14.10",
+     "gloss": "you"
+    },
+    {
+     "id": "3:14.11",
+     "gloss": "more than all",
+     "note": "מִן comparative or partitive: 'more than' or 'from among all'"
+    },
+    {
+     "id": "3:14.12",
+     "gloss": "the livestock",
+     "note": "BDB's only listed sense for בהמה in the pack is 'wild beasts'; here the word is set against חַיַּת הַשָּׂדֶה and means domestic animals"
+    },
+    {
+     "id": "3:14.13",
+     "gloss": "and more than all",
+     "note": "וּמִכֹּל; the second מִן"
+    },
+    {
+     "id": "3:14.14",
+     "gloss": "the wild animals of",
+     "sense": "1.b",
+     "note": "construct"
+    },
+    {
+     "id": "3:14.15",
+     "gloss": "the field",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.16",
+     "gloss": "on"
+    },
+    {
+     "id": "3:14.17",
+     "gloss": "your belly",
+     "note": "גָּחוֹן 'belly'; Ibn Ezra: 'chest', and doubts whether the נ is of the root"
+    },
+    {
+     "id": "3:14.18",
+     "gloss": "you shall go",
+     "sense": "Qal II.2",
+     "note": "yiqtol 2ms; the lemma is given as יָלַךְ, root הלך"
+    },
+    {
+     "id": "3:14.19",
+     "gloss": "and dust",
+     "note": "the object is placed first"
+    },
+    {
+     "id": "3:14.20",
+     "gloss": "you shall eat",
+     "sense": "Qal 1",
+     "note": "yiqtol 2ms"
+    },
+    {
+     "id": "3:14.21",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.22",
+     "gloss": "the days of",
+     "sense": "4",
+     "note": "construct plural"
+    },
+    {
+     "id": "3:14.23",
+     "gloss": "your life",
+     "sense": "1",
+     "note": "חַיֶּיךָ, plural noun in the construct, 'your lives'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:14.1",
+      "3:14.2",
+      "3:14.3"
+     ],
+     "english": "The LORD God said",
+     "literal": "'and-said LORD God'"
+    },
+    {
+     "tokens": [
+      "3:14.4",
+      "3:14.5"
+     ],
+     "english": "to the serpent",
+     "literal": "'to the-serpent'"
+    },
+    {
+     "tokens": [
+      "3:14.6",
+      "3:14.7",
+      "3:14.8"
+     ],
+     "english": "Because you have done this",
+     "literal": "'because you-did this'"
+    },
+    {
+     "tokens": [
+      "3:14.9",
+      "3:14.10"
+     ],
+     "english": "cursed are you",
+     "literal": "'cursed you'"
+    },
+    {
+     "tokens": [
+      "3:14.11",
+      "3:14.12"
+     ],
+     "english": "more than all the livestock",
+     "literal": "'from-all the-livestock'; מן as comparative, with Rashi and Radak"
+    },
+    {
+     "tokens": [
+      "3:14.13",
+      "3:14.14",
+      "3:14.15"
+     ],
+     "english": "and more than all the wild animals of the field",
+     "literal": "'and-from-all living-thing-of the-field'"
+    },
+    {
+     "tokens": [
+      "3:14.16",
+      "3:14.17",
+      "3:14.18"
+     ],
+     "english": "On your belly you shall go",
+     "literal": "'upon belly-your you-will-go'"
+    },
+    {
+     "tokens": [
+      "3:14.19",
+      "3:14.20"
+     ],
+     "english": "and dust you shall eat",
+     "literal": "'and-dust you-will-eat'; the object comes first"
+    },
+    {
+     "tokens": [
+      "3:14.21",
+      "3:14.22",
+      "3:14.23"
+     ],
+     "english": "all the days of your life",
+     "literal": "'all days-of lives-your'"
+    }
+   ],
+   "grammar": [
+    "The two telisha qetana accents on וַיֹּאמֶר and the zinor on הַנָּחָשׁ mark the introduction to the sentence; the serpent is not asked to answer.",
+    "אָרוּר אַתָּה: a passive participle with a pronoun, as a curse; no copula.",
+    "מִכָּל הַבְּהֵמָה: מִן can be comparative ('more than') or partitive ('from among'); the English takes the first.",
+    "עַל־גְּחֹנְךָ תֵלֵךְ: the phrase comes before the verb, which puts the stress on 'belly'; תֵלֵךְ is a yiqtol of הלך.",
+    "וְעָפָר תֹּאכַל: the object is fronted again, so that the two curses balance, 'on belly ... and dust ...'.",
+    "כָּל־יְמֵי חַיֶּיךָ: an idiom for 'as long as you live'; חַיִּים is a plural noun."
+   ],
+   "note": "'Cursed are you more than all the livestock' reads מִן as comparative. Rashi and Radak read it so; the other reading is 'cursed from among all the livestock', separated from them. The serpent's curse is expressed in the rabbis as the loss of legs and shortened life; the Hebrew says only that it goes on its belly.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:14:1",
+     "relation": "not-applicable",
+     "summary": "Rashi (Sanhedrin 29): from 'Because you did this' we learn that one does not argue for the seducer; if he had been asked 'why did you do this?', he could have answered 'the words of the master and the words of the pupil, whose should one obey?'."
+    },
+    {
+     "anchor": "rashi:3:14:2",
+     "relation": "follows",
+     "summary": "Rashi: if he was cursed from among the livestock, then from the wild animals all the more so; the rabbis based on this verse in Bekhorot 8 that the serpent's gestation is seven years. The English takes מִן as 'more than'."
+    },
+    {
+     "anchor": "rashi:3:14:3",
+     "relation": "follows",
+     "summary": "Rashi on עַל גְּחֹנְךָ תֵלֵךְ: 'It had legs, and they were cut off.'"
+    },
+    {
+     "anchor": "ibn-ezra:3:14:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: some say the curse is that the serpent's life would be short, 'but the right view is that it would be deficient in its going'. The English leaves the curse as the Hebrew has it."
+    },
+    {
+     "anchor": "ibn-ezra:3:14:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: גחון is 'the chest'; it is not known whether the נ is a root letter, as in אדון, or an addition, as in זדון; he rejects the derivation from גיחה 'emerge'. The English has 'belly'."
+    }
+   ],
+   "apparatus": [
+    "מִן in מִכָּל: comparative or partitive (Rashi and Radak read it as comparative).",
+    "גָּחוֹן: belly or chest (Ibn Ezra).",
+    "Radak records the midrash that the serpent once walked upright."
+   ]
+  },
+  {
+   "ref": "3:15",
+   "english": "I will put enmity between you and the woman, and between your offspring and her offspring. He will strike you on the head, and you will strike him on the heel.",
+   "literal": "and-enmity I-will-put between-you and-between the-woman and-between offspring-your and-between offspring-her he he-will-strike-you head and-you you-will-strike-him heel",
+   "tokens": [
+    {
+     "id": "3:15.1",
+     "gloss": "and enmity",
+     "note": "the object is placed first"
+    },
+    {
+     "id": "3:15.2",
+     "gloss": "I will put",
+     "sense": "Qal 1",
+     "note": "yiqtol 1cs; the lemma shape שִׁית 'set'"
+    },
+    {
+     "id": "3:15.3",
+     "gloss": "between you",
+     "note": "בֵּינְךָ, the form בֵּין with a suffix"
+    },
+    {
+     "id": "3:15.4",
+     "gloss": "and between"
+    },
+    {
+     "id": "3:15.5",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "3:15.6",
+     "gloss": "and between"
+    },
+    {
+     "id": "3:15.7",
+     "gloss": "your offspring",
+     "sense": "4",
+     "note": "זֶרַע, collective 'seed'"
+    },
+    {
+     "id": "3:15.8",
+     "gloss": "and between"
+    },
+    {
+     "id": "3:15.9",
+     "gloss": "her offspring",
+     "sense": "4",
+     "note": "collective 'seed' with the 3fs suffix"
+    },
+    {
+     "id": "3:15.10",
+     "gloss": "he",
+     "note": "independent pronoun, masculine singular, for emphasis; it refers to the collective 'offspring'"
+    },
+    {
+     "id": "3:15.11",
+     "gloss": "will strike you",
+     "note": "שׁוּף, the verb is the same as in the next clause; Rashi 'crush', BDB 'bruise'"
+    },
+    {
+     "id": "3:15.12",
+     "gloss": "on the head",
+     "sense": "1.a",
+     "note": "accusative of the part struck; Ibn Ezra supplies the preposition ב"
+    },
+    {
+     "id": "3:15.13",
+     "gloss": "and you"
+    },
+    {
+     "id": "3:15.14",
+     "gloss": "will strike him",
+     "note": "the same verb שׁוּף with the suffix -נּוּ"
+    },
+    {
+     "id": "3:15.15",
+     "gloss": "on the heel",
+     "note": "accusative of the part struck"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:15.1",
+      "3:15.2"
+     ],
+     "english": "I will put enmity",
+     "literal": "'and-enmity I-will-put'; the object comes first"
+    },
+    {
+     "tokens": [
+      "3:15.3",
+      "3:15.4",
+      "3:15.5"
+     ],
+     "english": "between you and the woman",
+     "literal": "'between-you and-between the-woman'"
+    },
+    {
+     "tokens": [
+      "3:15.6",
+      "3:15.7",
+      "3:15.8",
+      "3:15.9"
+     ],
+     "english": "and between your offspring and her offspring",
+     "literal": "'and-between offspring-your and-between offspring-her'"
+    },
+    {
+     "tokens": [
+      "3:15.10",
+      "3:15.11",
+      "3:15.12"
+     ],
+     "english": "He will strike you on the head",
+     "literal": "'he he-will-strike-you head'; Ibn Ezra supplies a ב before ראשׁ"
+    },
+    {
+     "tokens": [
+      "3:15.13",
+      "3:15.14",
+      "3:15.15"
+     ],
+     "english": "and you will strike him on the heel",
+     "literal": "'and-you you-will-strike-him heel'"
+    }
+   ],
+   "grammar": [
+    "וְאֵיבָה אָשִׁית: the object is fronted, so that 'enmity' is what God sets; בֵּין is repeated before each term.",
+    "בֵּין ... וּבֵין is repeated for each of the two pairs: you and the woman, your offspring and her offspring.",
+    "זֶרַע is a collective singular, 'offspring', and הוּא is masculine singular: the reading is 'he', a single descendant or each of them; the Hebrew does not say.",
+    "יְשׁוּפְךָ and תְּשׁוּפֶנּוּ use the same verb שׁוּף; the likeness of the words is deliberate, and the English uses 'strike' twice.",
+    "רֹאשׁ and עָקֵב are accusatives of the part affected, with no preposition."
+   ],
+   "note": "שׁוּף appears twice, with the same form, and 'strike' is used for both so that the echo is not lost; the lexicon gives 'bruise', Rashi 'crush' for the head and (by wordplay with נשף) 'bite' for the heel, Radak 'a blow and a crushing'. 'He' is kept for הוּא, for the collective offspring (cf. Sforno: it is not between Adam and Eve only). The paragraph break (ס) follows the verse.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:15:1",
+     "relation": "follows",
+     "summary": "Rashi: 'You intended only that Adam should die when he ate, and that you would take Eve ... therefore I will put enmity.' The English 'enmity' states what is set."
+    },
+    {
+     "anchor": "rashi:3:15:2",
+     "relation": "follows",
+     "summary": "Rashi: יְשׁוּפְךָ means 'will crush you', like 'and I crushed it' (Dt 9:21); Onkelos translates וְשָׁפִית יָתֵי. The English 'strike' covers a blow, and Rashi's 'crush' is recorded in the note."
+    },
+    {
+     "anchor": "rashi:3:15:3",
+     "relation": "follows",
+     "summary": "Rashi: you will have no stature and will bite him on his heel, and from there kill him; the word תְּשׁוּפֶנּוּ is from נָשַׁף ('he blew on them', Is 40:24): the serpent when it bites hisses, and as the language falls upon the language, the same form is written for both."
+    },
+    {
+     "anchor": "ibn-ezra:3:15:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'He will strike you on the head' means that her offspring will strike the head, as in 'who bruises me with a hair' (Job 9:17); the preposition is omitted, as in 'the house of the LORD' (2 Kings 12:17). The English supplies 'on'."
+    },
+    {
+     "anchor": "ibn-ezra:3:15:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: עָקֵב is the foot; if the head is first, this is last, as in 'and their heel in the water' (Josh 3:13). The English has 'heel'."
+    },
+    {
+     "anchor": "radak:3:15:1",
+     "relation": "follows",
+     "summary": "Radak: you showed that you loved her; I will turn love into enmity."
+    },
+    {
+     "anchor": "sforno:3:15:2",
+     "relation": "records",
+     "summary": "Sforno: the enmity will not be between Adam and Eve only."
+    }
+   ],
+   "apparatus": [
+    "הוּא: 'he' of a single descendant or of the offspring as a group (Sforno: not between Adam and Eve only).",
+    "שׁוּף: strike (Ibn Ezra, Radak), crush (Rashi on the head), bite (Rashi on the heel); Rashi derives the second from נשׁף 'blow, hiss'.",
+    "Radak ends the enmity in the days of the messiah (Is 11:8)."
+   ]
+  }
+ ]
+}

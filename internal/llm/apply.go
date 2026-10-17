@@ -60,10 +60,12 @@ func applyOne(seg *SegmentTr, p Patch) error {
 		return json.Unmarshal(p.Value, &seg.Apparatus)
 	}
 	if rest, ok := strings.CutPrefix(p.Path, "token:"); ok {
-		id, field, ok := strings.Cut(rest, ".")
-		if !ok {
+		// Token ids contain "." ("1:1.2"): the field follows the last one.
+		i := strings.LastIndex(rest, ".")
+		if i < 0 {
 			return fmt.Errorf("want token:<id>.<field>")
 		}
+		id, field := rest[:i], rest[i+1:]
 		var g *TokenGloss
 		for i := range seg.Tokens {
 			if seg.Tokens[i].ID == id {
