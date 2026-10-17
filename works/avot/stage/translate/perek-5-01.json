@@ -1,0 +1,2216 @@
+{
+ "unit": "perek-5-01",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "5:1",
+   "english": "By ten utterances the world was created. What does the text teach in saying so? Could it not have been created by a single utterance? Rather, it was to exact punishment from the wicked, who destroy the world that was created by ten utterances, and to give good reward to the righteous, who sustain the world that was created by ten utterances.",
+   "literal": "in-ten utterances was-created the-world; and-what teaching to-say; and-is-it-not by-utterance one able to-be-created; but to-exact-punishment from the-wicked who-destroy [object-marker] the-world that-was-created in-ten utterances; and-to-give reward good to-the-righteous who-sustain [object-marker] the-world that-was-created in-ten utterances",
+   "tokens": [
+    {
+     "id": "5:1.1",
+     "gloss": "with ten"
+    },
+    {
+     "id": "5:1.2",
+     "gloss": "utterances",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.3",
+     "gloss": "was created",
+     "sense": "1",
+     "note": "Nifal perfect, passive of the Qal 'create'."
+    },
+    {
+     "id": "5:1.4",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.5",
+     "gloss": "and what",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.6",
+     "gloss": "teaching",
+     "sense": "1",
+     "note": "Aramaic-influenced mishnaic idiom: 'what is the teaching (of Scripture) in saying...'"
+    },
+    {
+     "id": "5:1.7",
+     "gloss": "to say",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.8",
+     "gloss": "and is it not"
+    },
+    {
+     "id": "5:1.9",
+     "gloss": "by an utterance",
+     "sense": "1",
+     "note": "In ten utterances above, in one here: the contrast is the point."
+    },
+    {
+     "id": "5:1.10",
+     "gloss": "one"
+    },
+    {
+     "id": "5:1.11",
+     "gloss": "could",
+     "sense": "1",
+     "note": "Active participle used as a modal: 'is able'."
+    },
+    {
+     "id": "5:1.12",
+     "gloss": "to be created",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.13",
+     "gloss": "but"
+    },
+    {
+     "id": "5:1.14",
+     "gloss": "to exact punishment",
+     "sense": "1",
+     "note": "Nifal infinitive of פרע, 'to be paid back / to exact payment'."
+    },
+    {
+     "id": "5:1.15",
+     "gloss": "from"
+    },
+    {
+     "id": "5:1.16",
+     "gloss": "the wicked",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.17",
+     "gloss": "who destroy",
+     "sense": "1",
+     "note": "Piel participle; the ending -ין is mishnaic for -ים."
+    },
+    {
+     "id": "5:1.18",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:1.19",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.20",
+     "gloss": "that was created",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.21",
+     "gloss": "by ten"
+    },
+    {
+     "id": "5:1.22",
+     "gloss": "utterances",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.23",
+     "gloss": "and to give",
+     "sense": "1",
+     "note": "Infinitive לתן, from נתן with the נ assimilated."
+    },
+    {
+     "id": "5:1.24",
+     "gloss": "reward",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.25",
+     "gloss": "good",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.26",
+     "gloss": "to the righteous",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.27",
+     "gloss": "who sustain",
+     "sense": "1",
+     "note": "Piel participle, 'who establish, uphold'."
+    },
+    {
+     "id": "5:1.28",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:1.29",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.30",
+     "gloss": "that was created",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.31",
+     "gloss": "by ten"
+    },
+    {
+     "id": "5:1.32",
+     "gloss": "utterances",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:1.1",
+      "5:1.2"
+     ],
+     "english": "By ten utterances",
+     "literal": "'in-ten utterances'; the instrument of creation"
+    },
+    {
+     "tokens": [
+      "5:1.3",
+      "5:1.4"
+     ],
+     "english": "the world was created",
+     "literal": "'was-created the-world'; Nifal passive"
+    },
+    {
+     "tokens": [
+      "5:1.5",
+      "5:1.6",
+      "5:1.7"
+     ],
+     "english": "What does the text teach in saying so",
+     "literal": "'and-what teaching to-say': what lesson is in saying this"
+    },
+    {
+     "tokens": [
+      "5:1.8",
+      "5:1.9",
+      "5:1.10",
+      "5:1.11",
+      "5:1.12"
+     ],
+     "english": "Could it not have been created by a single utterance",
+     "literal": "'and-is-it-not by-utterance one able to-be-created': rhetorical question"
+    },
+    {
+     "tokens": [
+      "5:1.13"
+     ],
+     "english": "Rather",
+     "literal": "'but'"
+    },
+    {
+     "tokens": [
+      "5:1.14",
+      "5:1.15",
+      "5:1.16"
+     ],
+     "english": "to exact punishment from the wicked",
+     "literal": "'to-be-paid-back from the-wicked'"
+    },
+    {
+     "tokens": [
+      "5:1.17",
+      "5:1.18",
+      "5:1.19",
+      "5:1.20",
+      "5:1.21",
+      "5:1.22"
+     ],
+     "english": "who destroy the world that was created by ten utterances",
+     "literal": "'who-destroy the-world that-was-created in-ten utterances'"
+    },
+    {
+     "tokens": [
+      "5:1.23",
+      "5:1.24",
+      "5:1.25",
+      "5:1.26"
+     ],
+     "english": "and to give good reward to the righteous",
+     "literal": "'and-to-give reward good to-the-righteous'"
+    },
+    {
+     "tokens": [
+      "5:1.27",
+      "5:1.28",
+      "5:1.29",
+      "5:1.30",
+      "5:1.31",
+      "5:1.32"
+     ],
+     "english": "who sustain the world that was created by ten utterances",
+     "literal": "'who-sustain the-world that-was-created in-ten utterances'"
+    }
+   ],
+   "grammar": [
+    "The saying has the form of a question and answer: 'what is the teaching... could it not...? but...'. וַהֲלֹא introduces a rhetorical question expecting 'yes'.",
+    "שֶׁמְּאַבְּדִין and שֶׁמְּקַיְּמִין are Piel participles with the mishnaic plural ending -ין; they describe habitual action ('who destroy', 'who sustain').",
+    "Two parallel clauses, each ending with the same refrain שֶׁנִּבְרָא בַעֲשָׂרָה מַאֲמָרוֹת: the wicked destroy, the righteous sustain, the same world.",
+    "לְהִפָּרַע (Nifal) is passive in form but means 'to exact payment'; compare לִתֵּן שָׂכָר, 'to give reward', its counterpart."
+   ],
+   "note": "The Hebrew leaves the subject of 'What does the text teach' unstated; 'the text' (Genesis 1) is supplied because the question asks why Scripture says ten utterances. מַאֲמָרוֹת is rendered 'utterances' (the nine 'And God said' of Genesis 1 plus the opening word, per Bartenura and Rambam).",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:1:1",
+     "relation": "not-applicable",
+     "summary": "Bartenura counts nine times 'and He said' plus Bereshit itself, which is also an utterance, citing Psalm 33:6 'By the word of the LORD the heavens were made'. This identifies the ten but does not change the English."
+    },
+    {
+     "anchor": "bartenura:5:1:2",
+     "relation": "follows",
+     "summary": "Bartenura first gives the reading 'whoever destroys one soul destroys a whole world', then prefers his own: the wicked destroy the world literally, by tipping the whole world toward guilt, so that it is lost on their account. The English keeps 'destroy the world'."
+    },
+    {
+     "anchor": "bartenura:5:1:3",
+     "relation": "follows",
+     "summary": "Destroying a work that was made by ten utterances is not like destroying one made in a single day; this explains why the refrain is repeated and is why the English keeps it in both clauses."
+    },
+    {
+     "anchor": "rambam:5:1:1",
+     "relation": "follows",
+     "summary": "Rambam: nine times 'and He said' plus Bereshit make ten; one utterance could have sufficed, but the separate utterances show the greatness of existence and the goodness of its order, so that whoever ruins it ruins something great, namely his own soul, which he can perfect or destroy. The English follows the plain sense that one utterance would have been possible."
+    }
+   ],
+   "apparatus": [
+    "Variant spellings: 5:1.23 Vilna וליתן for וְלִתֵּן; 5:1.27 Vilna שמקיימין for שֶׁמְּקַיְּמִין.",
+    "Cross-reference: Psalm 33:6, cited by Bartenura and Rabbeinu Yonah to show that Bereshit is also an utterance."
+   ]
+  },
+  {
+   "ref": "5:2",
+   "english": "Ten generations from Adam to Noah, to make known how patient He is, for all the generations kept on provoking Him until He brought upon them the waters of the Flood. Ten generations from Noah to Abraham, to make known how patient He is, for all the generations kept on provoking Him until Abraham came and received upon himself the reward of them all.",
+   "literal": "ten generations from-Adam and-until Noah; to-make-known how length-of nostrils before-him; that-all the-generations were provoking and-coming until that-he-brought upon-them [object-marker] waters-of the-Flood. ten generations from-Noah and-until Abraham; to-make-known how length-of nostrils before-him; that-all the-generations were provoking and-coming until that-came Abraham and-received upon-him reward-of all-of-them",
+   "tokens": [
+    {
+     "id": "5:2.1",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:2.2",
+     "gloss": "generations",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.3",
+     "gloss": "from Adam",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.4",
+     "gloss": "and until"
+    },
+    {
+     "id": "5:2.5",
+     "gloss": "Noah"
+    },
+    {
+     "id": "5:2.6",
+     "gloss": "to make known",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.7",
+     "gloss": "how much",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.8",
+     "gloss": "length of",
+     "sense": "1",
+     "note": "Construct state. 'Length of nostrils' is a Hebrew idiom for patience (slowness to anger)."
+    },
+    {
+     "id": "5:2.9",
+     "gloss": "anger (lit. nostrils)",
+     "sense": "1",
+     "note": "Dual of אַף, 'nose'; the nostrils flare in anger, so אַפַּיִם means 'anger'."
+    },
+    {
+     "id": "5:2.10",
+     "gloss": "before him",
+     "sense": "1",
+     "note": "Idiom: 'in his regard, on his part'; לפניו is not spatial here."
+    },
+    {
+     "id": "5:2.11",
+     "gloss": "that all",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.12",
+     "gloss": "the generations",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.13",
+     "gloss": "were",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.14",
+     "gloss": "provoking",
+     "sense": "1",
+     "note": "Hifil participle of כעס: 'causing anger'."
+    },
+    {
+     "id": "5:2.15",
+     "gloss": "and coming",
+     "sense": "1",
+     "note": "Idiom: מכעיסין ובאין, 'provoking and going on', that is, continuing to provoke generation after generation."
+    },
+    {
+     "id": "5:2.16",
+     "gloss": "until"
+    },
+    {
+     "id": "5:2.17",
+     "gloss": "that he brought",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.18",
+     "gloss": "upon them"
+    },
+    {
+     "id": "5:2.19",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:2.20",
+     "gloss": "waters of",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.21",
+     "gloss": "the Flood",
+     "sense": "1",
+     "note": "מַבּוּל is used of Noah's Flood only."
+    },
+    {
+     "id": "5:2.22",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:2.23",
+     "gloss": "generations",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.24",
+     "gloss": "from Noah"
+    },
+    {
+     "id": "5:2.25",
+     "gloss": "and until"
+    },
+    {
+     "id": "5:2.26",
+     "gloss": "Abraham",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.27",
+     "gloss": "to make known",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.28",
+     "gloss": "how much",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.29",
+     "gloss": "length of",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.30",
+     "gloss": "anger (lit. nostrils)",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.31",
+     "gloss": "before him",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.32",
+     "gloss": "that all",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.33",
+     "gloss": "the generations",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.34",
+     "gloss": "were",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.35",
+     "gloss": "provoking",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.36",
+     "gloss": "and coming",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.37",
+     "gloss": "until"
+    },
+    {
+     "id": "5:2.38",
+     "gloss": "that came",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.39",
+     "gloss": "Abraham",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.40",
+     "gloss": "and received",
+     "sense": "1",
+     "note": "Piel of קבל, 'to take upon oneself'."
+    },
+    {
+     "id": "5:2.41",
+     "gloss": "upon himself"
+    },
+    {
+     "id": "5:2.42",
+     "gloss": "reward of",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.43",
+     "gloss": "all of them",
+     "sense": "1",
+     "note": "Suffix -ם: all the generations."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:2.1",
+      "5:2.2",
+      "5:2.3",
+      "5:2.4",
+      "5:2.5"
+     ],
+     "english": "Ten generations from Adam to Noah",
+     "literal": "'ten generations from-Adam and-until Noah'"
+    },
+    {
+     "tokens": [
+      "5:2.6",
+      "5:2.7",
+      "5:2.8",
+      "5:2.9",
+      "5:2.10"
+     ],
+     "english": "to make known how patient He is",
+     "literal": "'to-make-known how length-of nostrils before-him': patience, with the idiom 'length of anger'"
+    },
+    {
+     "tokens": [
+      "5:2.11",
+      "5:2.12",
+      "5:2.13",
+      "5:2.14",
+      "5:2.15"
+     ],
+     "english": "for all the generations kept on provoking Him",
+     "literal": "'that-all the-generations were provoking and-coming': a continuing action"
+    },
+    {
+     "tokens": [
+      "5:2.16",
+      "5:2.17",
+      "5:2.18",
+      "5:2.19",
+      "5:2.20",
+      "5:2.21"
+     ],
+     "english": "until He brought upon them the waters of the Flood",
+     "literal": "'until that-he-brought upon-them waters-of the-Flood'"
+    },
+    {
+     "tokens": [
+      "5:2.22",
+      "5:2.23",
+      "5:2.24",
+      "5:2.25",
+      "5:2.26"
+     ],
+     "english": "Ten generations from Noah to Abraham",
+     "literal": "'ten generations from-Noah and-until Abraham'"
+    },
+    {
+     "tokens": [
+      "5:2.27",
+      "5:2.28",
+      "5:2.29",
+      "5:2.30",
+      "5:2.31"
+     ],
+     "english": "to make known how patient He is",
+     "literal": "same idiom as above"
+    },
+    {
+     "tokens": [
+      "5:2.32",
+      "5:2.33",
+      "5:2.34",
+      "5:2.35",
+      "5:2.36"
+     ],
+     "english": "for all the generations kept on provoking Him",
+     "literal": "same clause as above"
+    },
+    {
+     "tokens": [
+      "5:2.37",
+      "5:2.38",
+      "5:2.39"
+     ],
+     "english": "until Abraham came",
+     "literal": "'until that-came Abraham'"
+    },
+    {
+     "tokens": [
+      "5:2.40",
+      "5:2.41",
+      "5:2.42",
+      "5:2.43"
+     ],
+     "english": "and received upon himself the reward of them all",
+     "literal": "'and-received upon-him reward-of all-of-them'"
+    }
+   ],
+   "grammar": [
+    "The mishnah is built on two parallel halves, each beginning with the number ten and each ending with a figure who changes the course: the Flood in the first, Abraham in the second.",
+    "מַכְעִיסִין וּבָאִין is a pair of participles: 'provoking and coming (on)', that is, they went on provoking.",
+    "אֶרֶךְ אַפַּיִם is the biblical idiom for patience (Exodus 34:6, 'slow to anger'); לְפָנָיו marks it as God's patience.",
+    "שֶׁהֵבִיא is a Hifil with the relative שֶׁ, 'that He brought'; עַד שֶׁ- 'until that' introduces the end of the long forbearance.",
+    "וְקִבֵּל עָלָיו: Piel of קבל; 'to receive upon oneself' means to take on as one's own, hence 'received the reward of them all'."
+   ],
+   "note": "The Hebrew שְׂכַר כֻּלָּם is 'the reward of all of them'. Bartenura explains it as the reward Abraham earned by doing good in the measure the whole generations should have done; the English leaves the compressed wording, and the explanation is in the commentary.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:2:1",
+     "relation": "follows",
+     "summary": "Bartenura: do not be surprised that He has been patient with the nations of the world through all the years they enslave His children, since He was more patient with the generations from Adam to Noah, and afterwards they were flooded. The English keeps 'how patient He is'."
+    },
+    {
+     "anchor": "bartenura:5:2:2",
+     "relation": "follows",
+     "summary": "Bartenura: Abraham did good deeds in the measure that all should have done, so all were saved by his merit; as he took the yoke of commandments in this world against them all, so he received in the world to come a reward against them all, for each person has two portions, in Eden and in Gehinnom (Chagigah 15b). The English follows 'received the reward of them all'."
+    },
+    {
+     "anchor": "rambam:5:2:1",
+     "relation": "not-applicable",
+     "summary": "Rambam: these generations are the lists in the Torah, so-and-so begat so-and-so, in order, and they are mentioned because of the ten utterances, which are told to a person to urge him and improve his soul in moral and intellectual excellence, which is the aim of this tractate. The comment is on the purpose of the passage, not its words."
+    }
+   ],
+   "apparatus": [
+    "Variants: 5:2.4 and 5:2.25 Vilna עד for וְעַד; 5:2.43 Vilna כולם for כֻּלָּם.",
+    "Cross-reference: Genesis 5 (Adam to Noah) and Genesis 11 (Noah to Abraham) give the ten generations; Exodus 34:6 for אֶרֶךְ אַפַּיִם."
+   ]
+  },
+  {
+   "ref": "5:3",
+   "english": "Abraham our father, peace be upon him, was tested with ten trials and stood firm in all of them, to make known how great was the love of Abraham our father, peace be upon him.",
+   "literal": "ten trials was-tried Abraham our-father upon-him the-peace and-stood in-all-of-them; to-make-known how his-love of Abraham our-father upon-him the-peace",
+   "tokens": [
+    {
+     "id": "5:3.1",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:3.2",
+     "gloss": "trials",
+     "sense": "1"
+    },
+    {
+     "id": "5:3.3",
+     "gloss": "was tested",
+     "note": "Nifal of נסה, 'to be tried, tested'; the passive agrees with 'trials' as the instrument."
+    },
+    {
+     "id": "5:3.4",
+     "gloss": "Abraham",
+     "sense": "1"
+    },
+    {
+     "id": "5:3.5",
+     "gloss": "our father",
+     "sense": "1"
+    },
+    {
+     "id": "5:3.6",
+     "gloss": "upon him"
+    },
+    {
+     "id": "5:3.7",
+     "gloss": "peace",
+     "sense": "1",
+     "note": "הַשָּׁלוֹם with the article: the formula עָלָיו הַשָּׁלוֹם, 'peace be upon him'."
+    },
+    {
+     "id": "5:3.8",
+     "gloss": "and he stood",
+     "sense": "1",
+     "note": "עמד 'to stand' here means to stand firm, to endure the test."
+    },
+    {
+     "id": "5:3.9",
+     "gloss": "in all of them",
+     "sense": "1"
+    },
+    {
+     "id": "5:3.10",
+     "gloss": "to make known",
+     "sense": "1"
+    },
+    {
+     "id": "5:3.11",
+     "gloss": "how much",
+     "sense": "1"
+    },
+    {
+     "id": "5:3.12",
+     "gloss": "his love",
+     "sense": "1",
+     "note": "חִבָּה: affection, endearment. Whether it is Abraham's love of God or God's regard for Abraham is left open; see the note."
+    },
+    {
+     "id": "5:3.13",
+     "gloss": "of"
+    },
+    {
+     "id": "5:3.14",
+     "gloss": "Abraham",
+     "sense": "1"
+    },
+    {
+     "id": "5:3.15",
+     "gloss": "our father",
+     "sense": "1"
+    },
+    {
+     "id": "5:3.16",
+     "gloss": "upon him"
+    },
+    {
+     "id": "5:3.17",
+     "gloss": "peace",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:3.1",
+      "5:3.2"
+     ],
+     "english": "with ten trials",
+     "literal": "'ten trials': the accusative of instrument"
+    },
+    {
+     "tokens": [
+      "5:3.3"
+     ],
+     "english": "was tested",
+     "literal": "'was-tried', Nifal"
+    },
+    {
+     "tokens": [
+      "5:3.4",
+      "5:3.5",
+      "5:3.6",
+      "5:3.7"
+     ],
+     "english": "Abraham our father, peace be upon him",
+     "literal": "'Abraham our-father upon-him the-peace': a formula of respect"
+    },
+    {
+     "tokens": [
+      "5:3.8",
+      "5:3.9"
+     ],
+     "english": "and stood firm in all of them",
+     "literal": "'and-stood in-all-of-them'"
+    },
+    {
+     "tokens": [
+      "5:3.10",
+      "5:3.11",
+      "5:3.12"
+     ],
+     "english": "to make known how great was the love",
+     "literal": "'to-make-known how his-love'"
+    },
+    {
+     "tokens": [
+      "5:3.13",
+      "5:3.14",
+      "5:3.15",
+      "5:3.16",
+      "5:3.17"
+     ],
+     "english": "of Abraham our father, peace be upon him",
+     "literal": "'of Abraham our-father upon-him the-peace': the possessive of the construction 'his love of Abraham'"
+    }
+   ],
+   "grammar": [
+    "נִסְיוֹנוֹת נִתְנַסָּה: the verb and its noun share a root (נסה): 'was tried with trials'.",
+    "עָלָיו הַשָּׁלוֹם is a formula of respect, 'peace be upon him', added after the name of Abraham in both halves of the mishnah.",
+    "חִבָּתוֹ שֶׁל אַבְרָהָם: the possessive is doubled, 'his love of Abraham', a mishnaic construction with שֶׁל instead of the construct state.",
+    "The Hebrew infinitive לְהוֹדִיעַ, 'to make known', has no stated subject; it is the purpose of the ten trials and of Abraham's standing firm."
+   ],
+   "note": "חִבָּה: 'love, affection'. Rabbeinu Yonah reads the trials as revealing to people that Abraham feared God and was whole in all his traits, so the 'love' shown is Abraham's own devotion; the English keeps the construction 'the love of Abraham', which allows both readings.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:3:1",
+     "relation": "not-applicable",
+     "summary": "Bartenura lists the ten trials: Ur of the Chaldees (thrown by Nimrod into the fiery furnace), 'Go forth from your land', the famine, Sarah taken to Pharaoh's house, the war of the kings, the covenant between the pieces, circumcision, Abimelech taking Sarah, the expulsion of Hagar and her son, and the binding of Isaac. This identifies the trials without bearing on the wording."
+    },
+    {
+     "anchor": "rambam:5:3:1",
+     "relation": "not-applicable",
+     "summary": "Rambam gives a different list of ten: the emigration, the famine, the seizure of Sarah by Pharaoh, the war with the four kings, taking Hagar as a wife, circumcision, the seizure of Sarah by the king of Gerar, the expulsion of Hagar, the distancing of Ishmael, and the binding of Isaac. The lists differ in places; neither alters the English."
+    }
+   ],
+   "apparatus": [
+    "Variant: 5:3.9 Vilna בכולם for בְּכֻלָּם.",
+    "Cross-reference: Genesis 12–22 for the trials; the number and contents of the ten differ between Bartenura and Rambam."
+   ]
+  },
+  {
+   "ref": "5:4",
+   "english": "Ten miracles were done for our fathers in Egypt, and ten at the sea. Ten plagues the Holy One, blessed be He, brought upon the Egyptians in Egypt, and ten at the sea. With ten trials our fathers tested the Omnipresent, blessed be He, in the wilderness, as it is said in Numbers 14, \"They have tested me these ten times, and have not listened to my voice.\"",
+   "literal": "ten miracles were-done for-our-fathers in-Egypt and-ten upon the-sea. ten plagues brought the-Holy-One blessed He upon the-Egyptians in-Egypt and-ten upon the-sea. ten trials tested our-fathers [object-marker] the-Place blessed He in-the-wilderness, that-it-is-said Numbers 14 and-they-tested me this ten times and-not they-listened in-my-voice",
+   "tokens": [
+    {
+     "id": "5:4.1",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:4.2",
+     "gloss": "miracles",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.3",
+     "gloss": "were done",
+     "sense": "1",
+     "note": "Nifal of עשה, 'were made, were performed'."
+    },
+    {
+     "id": "5:4.4",
+     "gloss": "for our fathers",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.5",
+     "gloss": "in Egypt",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.6",
+     "gloss": "and ten"
+    },
+    {
+     "id": "5:4.7",
+     "gloss": "at"
+    },
+    {
+     "id": "5:4.8",
+     "gloss": "the sea",
+     "sense": "1",
+     "note": "הַיָּם: the Sea of Reeds; the mishnah does not name it."
+    },
+    {
+     "id": "5:4.9",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:4.10",
+     "gloss": "plagues",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.11",
+     "gloss": "brought",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.12",
+     "gloss": "the Holy One",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.13",
+     "gloss": "blessed",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.14",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.15",
+     "gloss": "upon"
+    },
+    {
+     "id": "5:4.16",
+     "gloss": "the Egyptians",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.17",
+     "gloss": "in Egypt",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.18",
+     "gloss": "and ten"
+    },
+    {
+     "id": "5:4.19",
+     "gloss": "at"
+    },
+    {
+     "id": "5:4.20",
+     "gloss": "the sea",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.21",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:4.22",
+     "gloss": "trials",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.23",
+     "gloss": "tested",
+     "note": "Piel of נסה, 'to put to the test'; note the pun on נִסִּים (miracles) and נִסְיוֹנוֹת (trials), both from the roots נס / נסה."
+    },
+    {
+     "id": "5:4.24",
+     "gloss": "our fathers",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.25",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:4.26",
+     "gloss": "the Omnipresent",
+     "sense": "1",
+     "note": "הַמָּקוֹם, literally 'the Place', a name of God."
+    },
+    {
+     "id": "5:4.27",
+     "gloss": "blessed",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.28",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.29",
+     "gloss": "in the wilderness",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.30",
+     "gloss": "as it is said",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.31",
+     "gloss": "Numbers",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.32",
+     "gloss": "14"
+    },
+    {
+     "id": "5:4.33",
+     "gloss": "and they tested"
+    },
+    {
+     "id": "5:4.34",
+     "gloss": "me"
+    },
+    {
+     "id": "5:4.35",
+     "gloss": "these",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.36",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:4.37",
+     "gloss": "times",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.38",
+     "gloss": "and not"
+    },
+    {
+     "id": "5:4.39",
+     "gloss": "they listened",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.40",
+     "gloss": "to my voice",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:4.1",
+      "5:4.2",
+      "5:4.3",
+      "5:4.4",
+      "5:4.5"
+     ],
+     "english": "Ten miracles were done for our fathers in Egypt",
+     "literal": "'ten miracles were-done for-our-fathers in-Egypt'"
+    },
+    {
+     "tokens": [
+      "5:4.6",
+      "5:4.7",
+      "5:4.8"
+     ],
+     "english": "and ten at the sea",
+     "literal": "'and-ten upon the-sea': ten miracles are understood"
+    },
+    {
+     "tokens": [
+      "5:4.9",
+      "5:4.10"
+     ],
+     "english": "Ten plagues",
+     "literal": "'ten plagues'"
+    },
+    {
+     "tokens": [
+      "5:4.11"
+     ],
+     "english": "brought",
+     "literal": "'brought', Hifil"
+    },
+    {
+     "tokens": [
+      "5:4.12",
+      "5:4.13",
+      "5:4.14"
+     ],
+     "english": "the Holy One, blessed be He",
+     "literal": "'the-Holy-One blessed He'"
+    },
+    {
+     "tokens": [
+      "5:4.15",
+      "5:4.16",
+      "5:4.17"
+     ],
+     "english": "upon the Egyptians in Egypt",
+     "literal": "'upon the-Egyptians in-Egypt'"
+    },
+    {
+     "tokens": [
+      "5:4.18",
+      "5:4.19",
+      "5:4.20"
+     ],
+     "english": "and ten at the sea",
+     "literal": "'and-ten upon the-sea': ten plagues are understood"
+    },
+    {
+     "tokens": [
+      "5:4.21",
+      "5:4.22"
+     ],
+     "english": "With ten trials",
+     "literal": "'ten trials'"
+    },
+    {
+     "tokens": [
+      "5:4.23",
+      "5:4.24"
+     ],
+     "english": "our fathers tested",
+     "literal": "'tested our-fathers', verb before subject"
+    },
+    {
+     "tokens": [
+      "5:4.25",
+      "5:4.26",
+      "5:4.27",
+      "5:4.28"
+     ],
+     "english": "the Omnipresent, blessed be He",
+     "literal": "'[object-marker] the-Place blessed He'"
+    },
+    {
+     "tokens": [
+      "5:4.29"
+     ],
+     "english": "in the wilderness",
+     "literal": "'in-the-wilderness'"
+    },
+    {
+     "tokens": [
+      "5:4.30",
+      "5:4.31",
+      "5:4.32"
+     ],
+     "english": "as it is said in Numbers 14",
+     "literal": "'that-it-is-said Numbers 14': the mishnah cites chapter, not verse"
+    },
+    {
+     "tokens": [
+      "5:4.33",
+      "5:4.34",
+      "5:4.35",
+      "5:4.36",
+      "5:4.37"
+     ],
+     "english": "They have tested me these ten times",
+     "literal": "'and-they-tested me this ten times': the biblical verse, Numbers 14:22"
+    },
+    {
+     "tokens": [
+      "5:4.38",
+      "5:4.39",
+      "5:4.40"
+     ],
+     "english": "and have not listened to my voice",
+     "literal": "'and-not they-listened in-my-voice'"
+    }
+   ],
+   "grammar": [
+    "The mishnah has three parallel statements of ten: miracles in Egypt and at the sea, plagues in Egypt and at the sea, trials in the wilderness. The second sentence explains the first.",
+    "נִסִּים (miracles) and נִסְיוֹנוֹת (trials) are written with the same letters of the root, a deliberate contrast: God's miracles, the people's testing.",
+    "In the first two sentences the second 'ten' is elliptical: וַעֲשָׂרָה עַל הַיָּם, 'and ten at the sea', the noun is understood from the first half.",
+    "הֵבִיא ... עַל is the idiom 'to bring upon' (a plague); הַקָּדוֹשׁ בָּרוּךְ הוּא is the subject, separated from the verb.",
+    "The proof text is Numbers 14:22 וַיְנַסּוּ אֹתִי זֶה עֶשֶׂר פְּעָמִים; the mishnah quotes it from the Hebrew, with the chapter number given, not the verse."
+   ],
+   "note": "הַמָּקוֹם, of God, is rendered 'the Omnipresent', with the literal sense 'the Place' here recorded. The verse is quoted from the Hebrew of the mishnah, not from any translation. 'Plagues' renders מַכּוֹת, 'blows'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:4:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'miracles' means they were saved from the ten plagues, and all the plagues were upon the Egyptians and not upon Israel. The English follows by saying the miracles were done 'for our fathers in Egypt'."
+    },
+    {
+     "anchor": "bartenura:5:4:2",
+     "relation": "not-applicable",
+     "summary": "Bartenura lists ten miracles at the sea (the waters split, the sea became like a tent, the sea floor became dry, and so on). This is an enumeration that does not bear on the wording."
+    },
+    {
+     "anchor": "bartenura:5:4:3",
+     "relation": "not-applicable",
+     "summary": "Bartenura gives the mnemonic for the ten plagues (the first letters of the three groups: Detzakh Adash Be'achav). It is an aid to memory, not a reading."
+    },
+    {
+     "anchor": "bartenura:5:4:4",
+     "relation": "not-applicable",
+     "summary": "Bartenura: the ten at the sea correspond to the ten 'fallings' in the Song at the Sea ('He has thrown into the sea', 'sank in the Red Sea', and so on). It is an enumeration."
+    },
+    {
+     "anchor": "bartenura:5:4:5",
+     "relation": "not-applicable",
+     "summary": "Bartenura lists the ten wilderness trials: two at the sea, 'Were there no graves in Egypt', Marah, Rephidim, two over the manna, two over the quail, the calf, the complainers, and the spies, 'the tenth', where Numbers 14:22 is said. An enumeration."
+    },
+    {
+     "anchor": "rambam:5:4:1",
+     "relation": "follows",
+     "summary": "Rambam: the miracles in Egypt are their being saved from the ten plagues, each one reaching only Egypt and not Israel, which is unquestionably miraculous; for the lice the Torah does not say it, but the sages explain so. The ten at the sea are tradition. The English follows 'miracles done for our fathers in Egypt'."
+    }
+   ],
+   "apparatus": [
+    "Quotation: Numbers 14:22, וַיְנַסּוּ אֹתִי זֶה עֶשֶׂר פְּעָמִים וְלֹא שָׁמְעוּ בְּקוֹלִי, from the Hebrew of the mishnah.",
+    "Variants: 5:4.18 Vilna ועשרה for וְעֶשֶׂר; 5:4.21 Vilna עשר for עֲשָׂרָה; 5:4.34 Vilna אותי for אֹתִי."
+   ]
+  },
+  {
+   "ref": "5:5",
+   "english": "Ten miracles were done for our fathers in the Temple. No woman ever miscarried from the smell of the holy flesh; and the holy flesh never turned putrid; and no fly was seen in the slaughterhouse; and no emission befell the high priest on the Day of Atonement; and the rains did not extinguish the fire of the wood-pile; and the wind did not overcome the column of smoke; and no disqualification was found in the omer, the two loaves, or the showbread; they stood pressed together and bowed with room to spare; and no serpent or scorpion ever harmed anyone in Jerusalem; and no man ever said to his fellow, \"The place is too narrow for me to lodge in Jerusalem.\"",
+   "literal": "ten miracles were-done for-our-fathers in-house-of the-sanctuary. not caused-to-fall woman from-smell-of flesh-of the-holy; and-not made-putrid flesh-of the-holy from-ever; and-not was-seen fly in-house-of the-slaughterers; and-not befell emission to-priest great on-day-of the-Atonements; and-not extinguished rains fire of wood-of the-arrangement; and-not overcame the-wind [object-marker] column-of the-smoke; and-not was-found disqualification in-the-omer and-in-two-of the-bread and-in-bread-of the-faces; standing crowded and-bowing roomy; and-not harmed serpent and-scorpion in-Jerusalem from-ever; and-not said man to-his-fellow narrow to-me the-place that-I-lodge in-Jerusalem",
+   "tokens": [
+    {
+     "id": "5:5.1",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:5.2",
+     "gloss": "miracles",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.3",
+     "gloss": "were done",
+     "sense": "1",
+     "note": "Nifal of עשה."
+    },
+    {
+     "id": "5:5.4",
+     "gloss": "for our fathers",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.5",
+     "gloss": "in the house of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.6",
+     "gloss": "the Temple",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.7",
+     "gloss": "not",
+     "note": "The negative לֹא begins each of the ten items; the first is a list of nine more miracles after the heading."
+    },
+    {
+     "id": "5:5.8",
+     "gloss": "miscarried",
+     "sense": "1",
+     "note": "Hifil of נפל, literally 'caused to fall': 'cast her young, miscarried'."
+    },
+    {
+     "id": "5:5.9",
+     "gloss": "woman",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.10",
+     "gloss": "from the smell of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.11",
+     "gloss": "flesh of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.12",
+     "gloss": "the holy",
+     "sense": "1",
+     "note": "הַקֹּדֶשׁ: the sacred offerings; 'the holy flesh' is the flesh of the sacrifices."
+    },
+    {
+     "id": "5:5.13",
+     "gloss": "and not"
+    },
+    {
+     "id": "5:5.14",
+     "gloss": "turned putrid",
+     "sense": "1",
+     "note": "Hifil of סרח, 'became rotten, stank'."
+    },
+    {
+     "id": "5:5.15",
+     "gloss": "flesh of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.16",
+     "gloss": "the holy",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.17",
+     "gloss": "ever",
+     "sense": "1",
+     "note": "מֵעוֹלָם: 'from ever', 'at any time'."
+    },
+    {
+     "id": "5:5.18",
+     "gloss": "and not"
+    },
+    {
+     "id": "5:5.19",
+     "gloss": "was seen",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.20",
+     "gloss": "fly",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.21",
+     "gloss": "in the house of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.22",
+     "gloss": "the slaughterhouse",
+     "sense": "1",
+     "note": "הַמִּטְבָּחַיִם, dual: 'the slaughterers (place)', where the sacrifices were slaughtered."
+    },
+    {
+     "id": "5:5.23",
+     "gloss": "and not"
+    },
+    {
+     "id": "5:5.24",
+     "gloss": "befell",
+     "sense": "1",
+     "note": "אָרַע, 'to happen to, befall'."
+    },
+    {
+     "id": "5:5.25",
+     "gloss": "emission",
+     "sense": "1",
+     "note": "קֶרִי: a seminal emission, which would make the high priest unclean."
+    },
+    {
+     "id": "5:5.26",
+     "gloss": "to the priest",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.27",
+     "gloss": "great",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.28",
+     "gloss": "on the day of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.29",
+     "gloss": "the Atonement",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.30",
+     "gloss": "and not"
+    },
+    {
+     "id": "5:5.31",
+     "gloss": "extinguished",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.32",
+     "gloss": "rains",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.33",
+     "gloss": "fire",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.34",
+     "gloss": "of"
+    },
+    {
+     "id": "5:5.35",
+     "gloss": "wood of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.36",
+     "gloss": "the wood-pile",
+     "sense": "1",
+     "note": "הַמַּעֲרָכָה: 'the arrangement', the pile of wood laid on the altar."
+    },
+    {
+     "id": "5:5.37",
+     "gloss": "and not"
+    },
+    {
+     "id": "5:5.38",
+     "gloss": "overcame",
+     "sense": "1",
+     "note": "נָצַח: 'to conquer, defeat'; here the wind failed to bend the smoke."
+    },
+    {
+     "id": "5:5.39",
+     "gloss": "the wind",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.40",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:5.41",
+     "gloss": "column of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.42",
+     "gloss": "the smoke",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.43",
+     "gloss": "and not"
+    },
+    {
+     "id": "5:5.44",
+     "gloss": "was found",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.45",
+     "gloss": "disqualification",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.46",
+     "gloss": "in the omer",
+     "sense": "1",
+     "note": "הָעֹמֶר: the first sheaf of barley, offered at Passover."
+    },
+    {
+     "id": "5:5.47",
+     "gloss": "and in two of"
+    },
+    {
+     "id": "5:5.48",
+     "gloss": "the loaves",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.49",
+     "gloss": "and in bread of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.50",
+     "gloss": "the faces",
+     "sense": "1",
+     "note": "לֶחֶם הַפָּנִים: 'bread of the presence', the showbread."
+    },
+    {
+     "id": "5:5.51",
+     "gloss": "standing",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.52",
+     "gloss": "pressed together",
+     "note": "צְפוּפִים: 'crowded, packed'; Bartenura also derives it from צף, 'float'."
+    },
+    {
+     "id": "5:5.53",
+     "gloss": "and bowing",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.54",
+     "gloss": "with room to spare",
+     "sense": "1",
+     "note": "רְוָחִים: 'with space, roomily'."
+    },
+    {
+     "id": "5:5.55",
+     "gloss": "and not"
+    },
+    {
+     "id": "5:5.56",
+     "gloss": "harmed",
+     "sense": "1",
+     "note": "Hifil of נזק, 'to do damage'."
+    },
+    {
+     "id": "5:5.57",
+     "gloss": "serpent",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.58",
+     "gloss": "and scorpion",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.59",
+     "gloss": "in Jerusalem",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.60",
+     "gloss": "ever",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.61",
+     "gloss": "and not"
+    },
+    {
+     "id": "5:5.62",
+     "gloss": "said",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.63",
+     "gloss": "man",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.64",
+     "gloss": "to his fellow",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.65",
+     "gloss": "narrow",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.66",
+     "gloss": "to me"
+    },
+    {
+     "id": "5:5.67",
+     "gloss": "the place",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.68",
+     "gloss": "that I lodge"
+    },
+    {
+     "id": "5:5.69",
+     "gloss": "in Jerusalem",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:5.1",
+      "5:5.2",
+      "5:5.3",
+      "5:5.4",
+      "5:5.5",
+      "5:5.6"
+     ],
+     "english": "Ten miracles were done for our fathers in the Temple",
+     "literal": "'ten miracles were-done for-our-fathers in-house-of the-sanctuary'"
+    },
+    {
+     "tokens": [
+      "5:5.7",
+      "5:5.8",
+      "5:5.9",
+      "5:5.10",
+      "5:5.11",
+      "5:5.12"
+     ],
+     "english": "No woman ever miscarried from the smell of the holy flesh",
+     "literal": "'not caused-to-fall woman from-smell-of flesh-of the-holy'"
+    },
+    {
+     "tokens": [
+      "5:5.13",
+      "5:5.14",
+      "5:5.15",
+      "5:5.16",
+      "5:5.17"
+     ],
+     "english": "and the holy flesh never turned putrid",
+     "literal": "'and-not made-putrid flesh-of the-holy from-ever'"
+    },
+    {
+     "tokens": [
+      "5:5.18",
+      "5:5.19",
+      "5:5.20",
+      "5:5.21",
+      "5:5.22"
+     ],
+     "english": "and no fly was seen in the slaughterhouse",
+     "literal": "'and-not was-seen fly in-house-of the-slaughterers'"
+    },
+    {
+     "tokens": [
+      "5:5.23",
+      "5:5.24",
+      "5:5.25",
+      "5:5.26",
+      "5:5.27",
+      "5:5.28",
+      "5:5.29"
+     ],
+     "english": "and no emission befell the high priest on the Day of Atonement",
+     "literal": "'and-not befell emission to-priest great on-day-of the-Atonements'"
+    },
+    {
+     "tokens": [
+      "5:5.30",
+      "5:5.31",
+      "5:5.32",
+      "5:5.33",
+      "5:5.34",
+      "5:5.35",
+      "5:5.36"
+     ],
+     "english": "and the rains did not extinguish the fire of the wood-pile",
+     "literal": "'and-not extinguished rains fire of wood-of the-arrangement'"
+    },
+    {
+     "tokens": [
+      "5:5.37",
+      "5:5.38",
+      "5:5.39",
+      "5:5.40",
+      "5:5.41",
+      "5:5.42"
+     ],
+     "english": "and the wind did not overcome the column of smoke",
+     "literal": "'and-not overcame the-wind [obj] column-of the-smoke'"
+    },
+    {
+     "tokens": [
+      "5:5.43",
+      "5:5.44",
+      "5:5.45"
+     ],
+     "english": "and no disqualification was found",
+     "literal": "'and-not was-found disqualification'"
+    },
+    {
+     "tokens": [
+      "5:5.46"
+     ],
+     "english": "in the omer",
+     "literal": "'in-the-omer'"
+    },
+    {
+     "tokens": [
+      "5:5.47",
+      "5:5.48"
+     ],
+     "english": "the two loaves",
+     "literal": "'and-in-two-of the-bread'"
+    },
+    {
+     "tokens": [
+      "5:5.49",
+      "5:5.50"
+     ],
+     "english": "or the showbread",
+     "literal": "'and-in-bread-of the-faces'"
+    },
+    {
+     "tokens": [
+      "5:5.51",
+      "5:5.52"
+     ],
+     "english": "they stood pressed together",
+     "literal": "'standing crowded': the subject is the people in the courtyard"
+    },
+    {
+     "tokens": [
+      "5:5.53",
+      "5:5.54"
+     ],
+     "english": "and bowed with room to spare",
+     "literal": "'and-bowing roomy'"
+    },
+    {
+     "tokens": [
+      "5:5.55",
+      "5:5.56",
+      "5:5.57",
+      "5:5.58",
+      "5:5.59",
+      "5:5.60"
+     ],
+     "english": "and no serpent or scorpion ever harmed anyone in Jerusalem",
+     "literal": "'and-not harmed serpent and-scorpion in-Jerusalem from-ever'; no object is stated in Hebrew"
+    },
+    {
+     "tokens": [
+      "5:5.61",
+      "5:5.62",
+      "5:5.63",
+      "5:5.64"
+     ],
+     "english": "and no man ever said to his fellow",
+     "literal": "'and-not said man to-his-fellow'"
+    },
+    {
+     "tokens": [
+      "5:5.65",
+      "5:5.66",
+      "5:5.67",
+      "5:5.68",
+      "5:5.69"
+     ],
+     "english": "The place is too narrow for me to lodge in Jerusalem",
+     "literal": "'narrow to-me the-place that-I-lodge in-Jerusalem'; direct speech"
+    }
+   ],
+   "grammar": [
+    "The mishnah opens with the heading 'ten miracles' and then gives ten items, each introduced by וְלֹא, 'and not', except the last pair (standing pressed together and bowing with room), which is one miracle in two halves.",
+    "הִפִּילָה (Hifil of נפל) is literally 'caused to fall'; with אִשָּׁה as the subject the sense is miscarriage. The verb is feminine singular because the subject is.",
+    "קֶרִי is the legal term for a seminal emission; the high priest on the Day of Atonement could not be unclean.",
+    "עוֹמְדִים צְפוּפִים וּמִשְׁתַּחֲוִים רְוָחִים is a contrast of two participles with adverbial adjectives: the miracle is that they were crowded when standing and spacious when bowing.",
+    "The last item quotes direct speech: צַר לִי הַמָּקוֹם, 'the place is too narrow for me', an echo of Isaiah 49:20, where הַמָּקוֹם is not God but the physical place; here the same word is 'the place'.",
+    "שֶׁאָלִין is the relative with a first-person imperfect of לון, 'to spend the night, lodge'. Bartenura notes the variant בְּשֶׁאָלִין, 'when I lodge'."
+   ],
+   "note": "צְפוּפִים: the plain sense is 'crowded, pressed together' (Rambam: each stood beside his fellow). Bartenura derives it from צף 'floating' and says the crowd was so dense their feet were lifted from the ground; the English keeps the plain sense and records Bartenura's. רְוָחִים: Bartenura says each worshipper had four cubits of room, so as not to hear his fellow confessing; Rambam says they did not press upon each other at the prostration. The English says 'with room to spare', which agrees with both. The Hebrew of the last item has no object for הִזִּיק; 'anyone' is supplied. The subject of 'they stood pressed together' is the people in the Temple court.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:5:1",
+     "relation": "follows",
+     "summary": "Bartenura: because a seminal emission comes out of the high priest's own body, it would have been more shameful and repulsive than other kinds of uncleanness. The English renders קֶרִי as 'emission'."
+    },
+    {
+     "anchor": "bartenura:5:5:2",
+     "relation": "not-applicable",
+     "summary": "Bartenura: even though the altar stood in an open place. This tells why the miracle was remarkable and does not alter the words."
+    },
+    {
+     "anchor": "bartenura:5:5:3",
+     "relation": "follows",
+     "summary": "Bartenura: the smoke did not fail to rise straight up. The English keeps 'overcome', with the sense that the wind did not bend the column."
+    },
+    {
+     "anchor": "bartenura:5:5:4",
+     "relation": "not-applicable",
+     "summary": "Bartenura explains why a disqualification would have been serious: the omer is reaped at night, the two loaves are baked on the eve of the festival, and the showbread on the eve of the Sabbath, so no replacement was possible. It explains the point of the miracle, not the wording."
+    },
+    {
+     "anchor": "bartenura:5:5:5",
+     "relation": "records",
+     "summary": "Bartenura: 'צְפוּפִים' is from the root of 'floating on the water': from the great crowd they pressed on one another until their feet were lifted from the ground and they stood in the air. The English takes the plain sense 'pressed together' and records this derivation."
+    },
+    {
+     "anchor": "bartenura:5:5:6",
+     "relation": "follows",
+     "summary": "Bartenura: at the time of prostration a miracle was done, and each bowed with room, four cubits from his fellow, so that he should not hear his fellow confessing and mentioning his sins. The English follows 'with room to spare'; the four cubits is a further detail."
+    },
+    {
+     "anchor": "bartenura:5:5:7",
+     "relation": "follows",
+     "summary": "Bartenura: 'we read שֶׁאָלִין' (that I lodge), because the Place provided their livelihood and none of them had to leave and say his livelihood was straitened and he could not live in Jerusalem. Some books read כְּשֶׁאָלִין and it is said of the pilgrims, who were not cramped when they lodged in Jerusalem; compare Isaiah 49:20. The English follows 'that I lodge'."
+    },
+    {
+     "anchor": "rambam:5:5:1",
+     "relation": "follows",
+     "summary": "Rambam: the altar was in the middle of the court and open to the sky, yet the rains did not put out the altar fire nor did the wind scatter the smoke column from the offerings; at the offering the air was clear, they stood in the court side by side, and at the prostration they did not press each other, because of their awe and settled calm in that place. The English follows this."
+    }
+   ],
+   "apparatus": [
+    "Variants: 5:5.24 Vilna אירע for אֵרַע; 5:5.46 Vilna בעומר for בָּעֹמֶר; 5:5.54 Vilna רווחים for רְוָחִים.",
+    "Cross-reference: Isaiah 49:20, צַר לִי הַמָּקוֹם גְּשָׁה לִּי וְאֵשֵׁבָה, cited by Bartenura and Rabbeinu Yonah for the idiom.",
+    "Bartenura notes the variant reading בְּשֶׁאָלִין ('when I lodge') for שֶׁאָלִין in the last item."
+   ]
+  },
+  {
+   "ref": "5:6",
+   "english": "Ten things were created on the eve of the Sabbath at twilight, and these are they: the mouth of the earth, the mouth of the well, the mouth of the donkey, the rainbow, the manna, the staff, the shamir, the script, the inscription, and the tablets. And some say: also the demons, and the burial place of Moses, and the ram of Abraham our father. And some say: also tongs made with tongs.",
+   "literal": "ten things were-created on-eve-of Sabbath between the-suns, and-these they: mouth-of the-earth, and-mouth-of the-well, and-mouth-of the-donkey, and-the-bow, and-the-manna, and-the-staff, and-the-shamir, and-the-script, and-the-inscription, and-the-tablets. and-there-is saying also the-harmful-ones, and-burial-of Moses, and-ram-of Abraham our-father. and-there-is saying also tongs with-tongs made",
+   "tokens": [
+    {
+     "id": "5:6.1",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:6.2",
+     "gloss": "things",
+     "sense": "1",
+     "note": "דְּבָרִים: 'things'; the same word also means 'words', but here the created things."
+    },
+    {
+     "id": "5:6.3",
+     "gloss": "were created",
+     "sense": "1",
+     "note": "Nifal of ברא."
+    },
+    {
+     "id": "5:6.4",
+     "gloss": "on the eve of",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.5",
+     "gloss": "the Sabbath",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.6",
+     "gloss": "between",
+     "note": "בֵּין, 'between'."
+    },
+    {
+     "id": "5:6.7",
+     "gloss": "the suns",
+     "sense": "1",
+     "note": "הַשְּׁמָשׁוֹת: the idiom בֵּין הַשְּׁמָשׁוֹת, 'twilight', is literally 'between the suns'."
+    },
+    {
+     "id": "5:6.8",
+     "gloss": "and these",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.9",
+     "gloss": "they",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.10",
+     "gloss": "the mouth of",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.11",
+     "gloss": "the earth",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.12",
+     "gloss": "and the mouth of",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.13",
+     "gloss": "the well",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.14",
+     "gloss": "and the mouth of",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.15",
+     "gloss": "the donkey",
+     "note": "הָאָתוֹן: the donkey of Balaam."
+    },
+    {
+     "id": "5:6.16",
+     "gloss": "and the rainbow",
+     "sense": "1",
+     "note": "קֶשֶׁת: 'bow', here the rainbow."
+    },
+    {
+     "id": "5:6.17",
+     "gloss": "and the manna",
+     "sense": "1",
+     "note": "הַמָּן: the food in the wilderness; the entry in the pack is 'מִן'."
+    },
+    {
+     "id": "5:6.18",
+     "gloss": "and the staff",
+     "sense": "1",
+     "note": "הַמַּטֶּה: the staff of Moses."
+    },
+    {
+     "id": "5:6.19",
+     "gloss": "and the shamir",
+     "sense": "1",
+     "note": "הַשָּׁמִיר: the shamir, a creature or substance that cut stone."
+    },
+    {
+     "id": "5:6.20",
+     "gloss": "and the script",
+     "sense": "1",
+     "note": "הַכְּתָב: 'the script, the writing'; Bartenura: the form of the letters engraved on the tablets."
+    },
+    {
+     "id": "5:6.21",
+     "gloss": "and the inscription",
+     "sense": "1",
+     "note": "הַמִּכְתָּב: 'the inscription, thing written'."
+    },
+    {
+     "id": "5:6.22",
+     "gloss": "and the tablets",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.23",
+     "gloss": "and there are",
+     "note": "וְיֵשׁ: 'and there are (those)' with a participle: 'and some say'."
+    },
+    {
+     "id": "5:6.24",
+     "gloss": "saying",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.25",
+     "gloss": "also"
+    },
+    {
+     "id": "5:6.26",
+     "gloss": "the demons",
+     "sense": "1",
+     "note": "הַמַּזִּיקִין: 'the harmful ones'; Bartenura: the demons, the spirits without bodies."
+    },
+    {
+     "id": "5:6.27",
+     "gloss": "and the burial of",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.28",
+     "gloss": "of"
+    },
+    {
+     "id": "5:6.29",
+     "gloss": "Moses",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.30",
+     "gloss": "and his ram",
+     "sense": "1",
+     "note": "אֵילוֹ: 'his ram', the ram sacrificed in place of Isaac."
+    },
+    {
+     "id": "5:6.31",
+     "gloss": "of"
+    },
+    {
+     "id": "5:6.32",
+     "gloss": "Abraham",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.33",
+     "gloss": "our father",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.34",
+     "gloss": "and there are"
+    },
+    {
+     "id": "5:6.35",
+     "gloss": "saying",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.36",
+     "gloss": "also"
+    },
+    {
+     "id": "5:6.37",
+     "gloss": "tongs",
+     "sense": "1",
+     "note": "צְבָת: 'tongs', a smith's tool."
+    },
+    {
+     "id": "5:6.38",
+     "gloss": "with tongs",
+     "sense": "1"
+    },
+    {
+     "id": "5:6.39",
+     "gloss": "made",
+     "sense": "1",
+     "note": "עֲשׂוּיָה: passive participle feminine, 'made'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:6.1",
+      "5:6.2",
+      "5:6.3"
+     ],
+     "english": "Ten things were created",
+     "literal": "'ten things were-created'"
+    },
+    {
+     "tokens": [
+      "5:6.4",
+      "5:6.5"
+     ],
+     "english": "on the eve of the Sabbath",
+     "literal": "'on-eve-of Sabbath'"
+    },
+    {
+     "tokens": [
+      "5:6.6",
+      "5:6.7"
+     ],
+     "english": "at twilight",
+     "literal": "'between the-suns': the idiom for dusk"
+    },
+    {
+     "tokens": [
+      "5:6.8",
+      "5:6.9"
+     ],
+     "english": "and these are they",
+     "literal": "'and-these they': the list follows"
+    },
+    {
+     "tokens": [
+      "5:6.10",
+      "5:6.11"
+     ],
+     "english": "the mouth of the earth",
+     "literal": "'mouth-of the-earth': the earth that swallowed Korah"
+    },
+    {
+     "tokens": [
+      "5:6.12",
+      "5:6.13"
+     ],
+     "english": "the mouth of the well",
+     "literal": "'and-mouth-of the-well'"
+    },
+    {
+     "tokens": [
+      "5:6.14",
+      "5:6.15"
+     ],
+     "english": "the mouth of the donkey",
+     "literal": "'and-mouth-of the-donkey'"
+    },
+    {
+     "tokens": [
+      "5:6.16"
+     ],
+     "english": "the rainbow",
+     "literal": "'and-the-bow'"
+    },
+    {
+     "tokens": [
+      "5:6.17"
+     ],
+     "english": "the manna",
+     "literal": "'and-the-manna'"
+    },
+    {
+     "tokens": [
+      "5:6.18"
+     ],
+     "english": "the staff",
+     "literal": "'and-the-staff'"
+    },
+    {
+     "tokens": [
+      "5:6.19"
+     ],
+     "english": "the shamir",
+     "literal": "'and-the-shamir'"
+    },
+    {
+     "tokens": [
+      "5:6.20"
+     ],
+     "english": "the script",
+     "literal": "'and-the-script'"
+    },
+    {
+     "tokens": [
+      "5:6.21"
+     ],
+     "english": "the inscription",
+     "literal": "'and-the-inscription'"
+    },
+    {
+     "tokens": [
+      "5:6.22"
+     ],
+     "english": "and the tablets",
+     "literal": "'and-the-tablets'"
+    },
+    {
+     "tokens": [
+      "5:6.23",
+      "5:6.24"
+     ],
+     "english": "And some say",
+     "literal": "'and-there-is saying' (participle)"
+    },
+    {
+     "tokens": [
+      "5:6.25",
+      "5:6.26"
+     ],
+     "english": "also the demons",
+     "literal": "'also the-harmful-ones'"
+    },
+    {
+     "tokens": [
+      "5:6.27",
+      "5:6.28",
+      "5:6.29"
+     ],
+     "english": "and the burial place of Moses",
+     "literal": "'and-burial-of of Moses'; 'of Moses' is the possessive שֶׁל"
+    },
+    {
+     "tokens": [
+      "5:6.30",
+      "5:6.31",
+      "5:6.32",
+      "5:6.33"
+     ],
+     "english": "and the ram of Abraham our father",
+     "literal": "'and-his-ram of Abraham our-father'"
+    },
+    {
+     "tokens": [
+      "5:6.34",
+      "5:6.35"
+     ],
+     "english": "And some say",
+     "literal": "'and-there-is saying'"
+    },
+    {
+     "tokens": [
+      "5:6.36"
+     ],
+     "english": "also",
+     "literal": "'also'"
+    },
+    {
+     "tokens": [
+      "5:6.37",
+      "5:6.38",
+      "5:6.39"
+     ],
+     "english": "tongs made with tongs",
+     "literal": "'tongs with-tongs made'"
+    }
+   ],
+   "grammar": [
+    "The mishnah lists ten created things in an elliptical series of nouns, each with וְ-, after the heading 'and these are they'. No verb is repeated.",
+    "בֵּין הַשְּׁמָשׁוֹת, literally 'between the suns', is the idiom for twilight; the mishnah means twilight of the first Friday evening, at the close of creation.",
+    "וְיֵשׁ אוֹמְרִים, 'and there are those who say', is the mishnaic form for an anonymous alternative opinion; here it adds three further items, then another.",
+    "The Hebrew uses שֶׁל ('of') for possession in קְבוּרָתוֹ שֶׁל מֹשֶׁה and אֵילוֹ שֶׁל אַבְרָהָם: the suffix on the noun is doubled by the phrase with שֶׁל.",
+    "צְבָת בִּצְבָת עֲשׂוּיָה is a riddle: tongs are made with tongs, so the first tongs could not have been made by human hands."
+   ],
+   "note": "The ten are: the mouth of the earth, the mouth of the well, the mouth of the donkey, the bow, the manna, the staff, the shamir, the script, the inscription, the tablets; the other lists add the demons, the burial of Moses, Abraham's ram, and the tongs. The pack's lexicon links וְהַמָּן to מִן; the manna is meant. הַכְּתָב and הַמִּכְתָּב: Bartenura takes the script as the form of the letters engraved on the tablets and the inscription as the writing readable from all four sides; Rambam reads the script as the Torah written before God and the inscription as the writing on the tablets. The English 'script' and 'inscription' keeps both. הַמַּזִּיקִין is rendered 'the demons' after Bartenura (the Hebrew is literally 'the harmful ones').",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:6:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'twilight' is on the eve of the first Sabbath of creation, before creation was completed. The English reads 'between the suns' as twilight."
+    },
+    {
+     "anchor": "bartenura:5:6:2",
+     "relation": "follows",
+     "summary": "Bartenura: the mouth of the earth was to swallow Korah and his company. The English keeps 'the mouth of the earth'."
+    },
+    {
+     "anchor": "bartenura:5:6:3",
+     "relation": "follows",
+     "summary": "Bartenura: Miriam's well, which went with Israel in the wilderness on all their journeys; and some say it opened its mouth and sang, 'Spring up, O well' (Numbers 21:17). The English keeps 'the mouth of the well'."
+    },
+    {
+     "anchor": "bartenura:5:6:4",
+     "relation": "follows",
+     "summary": "Bartenura: at twilight it was decreed that the donkey would speak with Balaam. The English keeps 'the mouth of the donkey'."
+    },
+    {
+     "anchor": "bartenura:5:6:5",
+     "relation": "follows",
+     "summary": "Bartenura: the rainbow is the sign of the covenant that there will not again be a flood. The English renders קֶשֶׁת as 'rainbow'."
+    },
+    {
+     "anchor": "bartenura:5:6:6",
+     "relation": "follows",
+     "summary": "Bartenura: the manna that came down for Israel for forty years in the wilderness. The English renders הַמָּן as 'the manna'."
+    },
+    {
+     "anchor": "bartenura:5:6:7",
+     "relation": "follows",
+     "summary": "Bartenura: the staff with which the signs were done, which was of sapphire. The English keeps 'the staff'."
+    },
+    {
+     "anchor": "bartenura:5:6:8",
+     "relation": "follows",
+     "summary": "Bartenura: the shamir is like a worm, with the creation of a barleycorn; shown to stones marked with ink, they split of themselves; by it the stones of the ephod and breastplate were cut. The English keeps the name 'shamir'."
+    },
+    {
+     "anchor": "bartenura:5:6:9",
+     "relation": "records",
+     "summary": "Bartenura: the script is the form of the letters engraved on the tablets. Rambam takes it as the Torah written before God. The English keeps the neutral 'script' and records Rambam's reading."
+    },
+    {
+     "anchor": "bartenura:5:6:10",
+     "relation": "follows",
+     "summary": "Bartenura: the inscription could be read from all four sides. The English renders הַמִּכְתָּב as 'the inscription'."
+    },
+    {
+     "anchor": "bartenura:5:6:11",
+     "relation": "follows",
+     "summary": "Bartenura: the tablets were of sapphire, six handbreadths long, six wide and three thick, split from one block, rolled, and hewn from the sun's disc. The English keeps 'the tablets'."
+    },
+    {
+     "anchor": "bartenura:5:6:12",
+     "relation": "follows",
+     "summary": "Bartenura: the harmful ones are the demons: after God created Adam and Eve He was busy creating them, and when He created their spirits He had not time to create their bodies before the day was sanctified, so spirits were left without bodies. The English renders הַמַּזִּיקִין as 'the demons'."
+    },
+    {
+     "anchor": "bartenura:5:6:13",
+     "relation": "follows",
+     "summary": "Bartenura: it was decreed at twilight that the ram would be caught in the thicket by its horns at the time of the binding. The English keeps 'the ram of Abraham our father'."
+    },
+    {
+     "anchor": "bartenura:5:6:14",
+     "relation": "follows",
+     "summary": "Bartenura: tongs can only be made with other tongs, so who made the first; it must have been made by itself, by Heaven, and created at twilight. The Gemara (Pesachim 54) rejects this, since the first tongs could have been cast in a mould. The English keeps the riddle 'tongs made with tongs'."
+    },
+    {
+     "anchor": "rambam:5:6:1",
+     "relation": "follows",
+     "summary": "Rambam: 'who made the first tongs': he explains that at the beginning of things God set in nature all that would be done, whether as natural events or rare miracles, so on the sixth day He set in nature that the earth should swallow Korah, the water come out, the donkey speak, and so on; the script is the Torah written before Him, the inscription the writing on the tablets. The English follows the riddle; his reading of the script is recorded under 5:6:9."
+    }
+   ],
+   "apparatus": [
+    "Cross-references: Numbers 16:32 (Korah), Numbers 21:17-18 (the well), Numbers 22:28 (the donkey), Genesis 9:13 (the bow), Exodus 16 (the manna), Exodus 4:17 (the staff), Exodus 32:16 (the tablets and the inscription), Deuteronomy 34:6 (the burial of Moses), Genesis 22:13 (the ram).",
+    "Alternative opinions: the first list is ten; 'some say' adds the demons, Moses' burial place and Abraham's ram; a second 'some say' adds tongs, which are made with tongs.",
+    "Open question: whether the shamir, the script and the inscription are physical objects or the Torah's text is the difference between Bartenura and Rambam."
+   ]
+  }
+ ]
+}
