@@ -1,0 +1,313 @@
+{
+ "unit": "bereshit-14",
+ "model": "opus",
+ "summary": "The unit is mostly accurate in its English, senses and token analysis. The main fault is in 4:15: Rashi and Ibn Ezra agree that שִׁבְעָתַיִם יֻקָּם means the vengeance on Cain is put off until seven generations have passed, but the English said 'for seven generations' and ran Rashi's broken-off threat into the penalty. Several summaries misread the commentators: Rashi's רוּחַ מִזְרָחִית taken as 'east wind', גּוֹנֵב דַּעַת rendered literally, a דָּבָר אַחֵר assigned to the wrong comment, the languages reversed in Rashi on עֲדָה, and Ibn Ezra's וְאָחִיו אָח. Some learner notes are untrue: a 'pausal' form, 'three' weqatals, קִדְמַת as a form of קֶדֶם, אֶחָד as 'unusual', and an invented accent note in 4:21. The 4:18 apparatus left out the pack's WLC vowel variant.",
+ "patches": [
+  {
+   "ref": "4:14",
+   "path": "token:4:14.9.sense",
+   "value": "Niph 2",
+   "severity": "error",
+   "reason": "The gloss is passive, 'I will be hidden', which is BDB Niph 2 'be hid, concealed'; Niph 1 is the reflexive 'hide oneself'."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.17.note",
+   "value": "yiqtol with the 1st singular object suffix -ֵנִי: 'he will kill me'. The form is the ordinary one; the silluq does not change its vowels.",
+   "severity": "error",
+   "reason": "The note calls יַהַרְגֵנִי a pausal form. It is the normal suffixed yiqtol, with the same vowels it has out of pause."
+  },
+  {
+   "ref": "4:14",
+   "path": "grammar",
+   "value": [
+    "הֵן is a particle of attention ('look!') opening Cain's complaint.",
+    "The word פָּנִים 'face' occurs twice: 'the face of the ground' (surface) and 'your face' (presence): a repetition that makes Cain's loss of ground also a loss of God's presence.",
+    "נָע וָנָד is a pair of participles of similar sound and sense: 'wavering and wandering'.",
+    "The two weqatal verbs (וְהָיִיתִי, וְהָיָה) continue a future or consequential sense after the yiqtol אֶסָּתֵר.",
+    "The etnaḥta falls on אֶסָּתֵר and divides the verse into two halves: the loss of the ground and presence, and the danger that follows."
+   ],
+   "severity": "error",
+   "reason": "The note says 'three weqatal verbs' and lists two. The verse has two weqatal forms."
+  },
+  {
+   "ref": "4:14",
+   "path": "note",
+   "value": "'And from your face I will be hidden' is kept close to the Hebrew. Ibn Ezra explains it: there is a place that receives power and in which God's might is seen, though all is full of his glory. Cain is hidden from that place, not from God's presence everywhere. נָע is rendered 'restless' (lit. 'wavering, tottering') and נָד 'wandering'.",
+   "severity": "style",
+   "reason": "Ibn Ezra speaks of a place where God's might (גבורת השם) is seen, not of God's 'favour'."
+  },
+  {
+   "ref": "4:15",
+   "path": "english",
+   "value": "Then the LORD said to him, \"Therefore, whoever kills Cain—! After seven generations vengeance will be taken.\" And the LORD set a sign for Cain, so that no one who found him would strike him down.",
+   "severity": "error",
+   "reason": "Rashi (לְסוֹף שִׁבְעָה דוֹרוֹת אֲנִי נוֹקֵם נִקְמָתִי מִמֶּנּוּ) and Ibn Ezra (עד שבעה דורות; God was patient with Cain until seven generations) agree that the vengeance on Cain for Abel is put off until seven generations have passed. 'For seven generations' says the vengeance lasts seven generations, which neither says, and the run-on sentence makes it the killer's punishment. Rashi also reads the first clause as a threat that breaks off (לְשׁוֹן גְּעָרָה ... וְלֹא פֵּרֵשׁ עָנְשׁוֹ); the dash marks the break. The translator's own note gives Rashi's reading correctly."
+  },
+  {
+   "ref": "4:15",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "4:15.1",
+      "4:15.2",
+      "4:15.3"
+     ],
+     "english": "Then the LORD said to him",
+     "literal": "'and-said to-him the-LORD'"
+    },
+    {
+     "tokens": [
+      "4:15.4",
+      "4:15.5",
+      "4:15.6",
+      "4:15.7"
+     ],
+     "english": "Therefore, whoever kills Cain",
+     "literal": "'therefore all-of killer-of Cain'; the clause breaks off, as Rashi explains, into a threat without a stated penalty"
+    },
+    {
+     "tokens": [
+      "4:15.8",
+      "4:15.9"
+     ],
+     "english": "After seven generations vengeance will be taken",
+     "literal": "'sevenfold it-will-be-avenged'; Rashi and Ibn Ezra read the dual as seven generations, at whose end the vengeance for Abel is taken from Cain"
+    },
+    {
+     "tokens": [
+      "4:15.10",
+      "4:15.11",
+      "4:15.12",
+      "4:15.13"
+     ],
+     "english": "And the LORD set a sign for Cain",
+     "literal": "'and-set the-LORD for-Cain a-sign'"
+    },
+    {
+     "tokens": [
+      "4:15.14",
+      "4:15.15",
+      "4:15.16",
+      "4:15.17",
+      "4:15.18"
+     ],
+     "english": "so that no one who found him would strike him down",
+     "literal": "'so-that-not to-strike him all-of finder-of-him'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragment for שִׁבְעָתַיִם יֻקָּם."
+  },
+  {
+   "ref": "4:15",
+   "path": "commentary:rashi:4:15:3",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: God engraved a letter of His name on Cain's forehead. Another reading (ס\"א): 'whoever finds me will kill me' means the beasts, since there were no other people but his parents. Before, the animals feared him; now, because of his sin, they would not. The sign was that God restored Cain's fear upon the animals."
+   },
+   "severity": "error",
+   "reason": "The summary leaves out what the second reading says the sign was (הֶחֱזִיר אֶת מוֹרָאוֹ עַל הַחַיּוֹת). Also, 'a sign' in the English does not adopt either reading, so 'records' is the right relation, not 'follows'."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.8.note",
+   "value": "קִדְמַת: construct of the feminine noun קִדְמָה 'front, east' (root קדם): 'east of'.",
+   "severity": "error",
+   "reason": "The lexicon lemma is קִדְמָה, a noun of its own. It is not 'the feminine construct of קֶדֶם'."
+  },
+  {
+   "ref": "4:16",
+   "path": "commentary:rashi:4:16:1.summary",
+   "value": "Rashi: he went out with a show of humility, like one who deceives (גּוֹנֵב דַּעַת) the One Above.",
+   "severity": "error",
+   "reason": "גּוֹנֵב דַּעַת is an idiom for 'deceive'. 'Steals the knowledge of the Most High' misleads a learner."
+  },
+  {
+   "ref": "4:16",
+   "path": "commentary:rashi:4:16:2.summary",
+   "value": "Rashi: בְּאֶרֶץ נוֹד is the land where all exiles wander (נָדִים).",
+   "severity": "error",
+   "reason": "The earthquake reading is not in this comment. It is the דָּבָר אַחֵר at the end of rashi:4:16:3."
+  },
+  {
+   "ref": "4:16",
+   "path": "commentary:rashi:4:16:3.summary",
+   "value": "Rashi: קִדְמַת עֵדֶן is where his father went into exile when driven from the garden, since 3:24 (וַיַּשְׁכֵּן מִקֶּדֶם לְגַן עֵדֶן) shows that Adam was there. The east side (רוּחַ מִזְרָחִית) always receives murderers, as with the cities of refuge 'toward the sunrise' (Deut 4:41). Another reading of בְּאֶרֶץ נוֹד: wherever he went the earth shook under him, and people said, 'Keep away from him: this is the one who killed his brother.'",
+   "severity": "error",
+   "reason": "רוּחַ מִזְרָחִית here is the eastern side or direction, not the 'east wind'. The summary also leaves out the citation of Deut 4:41 and the דָּבָר אַחֵר on ארץ נוד."
+  },
+  {
+   "ref": "4:18",
+   "path": "apparatus",
+   "value": [
+    "מְחוּיָאֵל (first occurrence) and מְחִיָּיאֵל (second): two spellings of one name in the same verse. Radak: the first is written with vav and yod; in the second the first yod has qamets and dagesh and the second yod is not read.",
+    "4:18.9 vowels: WLC reads וּמְחִיּיָאֵל; the base text (MAM) reads וּמְחִיָּיאֵל."
+   ],
+   "severity": "error",
+   "reason": "The pack's variant for 4:18.9 (WLC against the base text) is not recorded. Witness variants must be recorded."
+  },
+  {
+   "ref": "4:18",
+   "path": "note",
+   "value": "The name is spelled two ways in this verse (מְחוּיָאֵל, מְחִיָּיאֵל). This is a spelling within the text, not a ketiv and qere. The English gives the one form Mehujael.",
+   "severity": "style",
+   "reason": "'Ketiv/qere-like' suggests a marginal reading. There is none here."
+  },
+  {
+   "ref": "4:19",
+   "path": "grammar",
+   "value": [
+    "The pronoun in לוֹ is an ethical dative, with the sense of 'for himself'.",
+    "שְׁתֵּי is the construct feminine dual of שְׁנַיִם ('two') and נָשִׁים is the plural of אִשָּׁה: 'two women/wives'.",
+    "The two names are given by nominal clauses without a verb: 'the name of the one: Adah'.",
+    "הָאַחַת ... הַשֵּׁנִית: 'the one ... the second'. The cardinal אֶחָד regularly stands for 'first' at the head of a count, as in יוֹם אֶחָד (1:5) and שֵׁם הָאֶחָד (2:11).",
+    "The names are Adah and Zillah; Rashi connects them to 'turning aside' and 'shade', which are noted but not placed in the English."
+   ],
+   "severity": "error",
+   "reason": "The note calls אֶחָד for 'the first' unusual. It is the regular usage, already seen in 1:5 and 2:11."
+  },
+  {
+   "ref": "4:19",
+   "path": "commentary:rashi:4:19:3.summary",
+   "value": "Rashi: Adah was the wife for procreation, so named because she was despised by him and kept away from him: עֲדָה is the Targum's (Aramaic) word for Hebrew סוּרָה 'removed, turned aside'. An aggadic etymology.",
+   "severity": "error",
+   "reason": "The summary reverses the languages. Rashi says עֲדָה is the Aramaic rendering of סוּרָה, not that סוּרָה is Aramaic. It also leaves out מְגֻנָּה עָלָיו."
+  },
+  {
+   "ref": "4:20",
+   "path": "grammar",
+   "value": [
+    "הוּא הָיָה ... אֲבִי: the independent pronoun repeats the subject for emphasis.",
+    "אֲבִי is the construct of אָב 'father' used for the originator of a way of life.",
+    "יֹשֵׁב אֹהֶל is a participle in construct: 'dweller of tent'; the singular 'tent' is collective.",
+    "מִקְנֶה means livestock (property in animals).",
+    "וּמִקְנֶה does not fit 'dweller of' directly. Radak reads it as an ellipsis, '[keeper of] livestock' (compare לֵץ הַיַּיִן, Prov 20:1), or takes the ו as 'with': 'dwelling in tents with livestock'."
+   ],
+   "severity": "error",
+   "reason": "The last note ('Jabal's sons are not mentioned, which the Hebrew treats as the origin of a type') has no basis in the Hebrew. It is replaced with the real difficulty of וּמִקְנֶה, which the English 'and have livestock' resolves."
+  },
+  {
+   "ref": "4:20",
+   "path": "commentary:ibn-ezra:4:20:1.summary",
+   "value": "Ibn Ezra: אֲבִי means 'first' (רִאשׁוֹן), and so does אָב, and also אָבִיב (the first ripening). In the construct the word always takes yod (אֲבִי), and its fellow in this is אָח (construct אֲחִי).",
+   "severity": "error",
+   "reason": "וְאָחִיו אָח means 'and its fellow [word] is אָח', which also takes yod in the construct. It does not mean ''his brother' is אחיו'."
+  },
+  {
+   "ref": "4:21",
+   "path": "grammar",
+   "value": [
+    "The name יוּבָל resembles יָבָל, the name of his brother; the sound is close.",
+    "אֲבִי כָּל־תֹּפֵשׂ is 'father of all who handle': the originator of all players.",
+    "תֹּפֵשׂ is a participle in construct, here 'one who handles skilfully' (Qal 2). Radak: the verb of grasping is used because the player grips the strings with the left hand.",
+    "כִּנּוֹר and עוּגָב are two instruments, a stringed lyre and a reed or wind pipe.",
+    "The etnaḥta on יוּבָל divides the name from what is said of him; the silluq on עוּגָב closes the verse."
+   ],
+   "severity": "error",
+   "reason": "The last note says the etnaḥta is 'replaced by silluq'. The verse has an etnaḥta on יוּבָל and a silluq on עוּגָב, as every verse does."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:4:14:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:15:1",
+   "verdict": "contradicts",
+   "comment": "The English ran the clause on into the penalty. The dash in the patched English marks Rashi's broken-off threat."
+  },
+  {
+   "anchor": "rashi:4:15:2",
+   "verdict": "contradicts",
+   "comment": "Rashi: vengeance on Cain at the end of seven generations. 'For seven generations' is fixed to 'After seven generations' by the patch."
+  },
+  {
+   "anchor": "rashi:4:15:3",
+   "verdict": "consistent",
+   "comment": "'A sign' leaves the nature of the sign open. The relation is patched to records."
+  },
+  {
+   "anchor": "ibn-ezra:4:15:1",
+   "verdict": "contradicts",
+   "comment": "עד שבעה דורות: fixed by the English patch."
+  },
+  {
+   "anchor": "ibn-ezra:4:15:2",
+   "verdict": "contradicts",
+   "comment": "God put off the vengeance on Cain until seven generations: fixed by the English patch."
+  },
+  {
+   "anchor": "rashi:4:16:1",
+   "verdict": "not-applicable",
+   "comment": "The manner of Cain's going out, not the words."
+  },
+  {
+   "anchor": "rashi:4:16:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:16:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:16:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:18:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:18:1",
+   "verdict": "not-applicable",
+   "comment": "The count of generations bears on 4:15, not on the words here."
+  },
+  {
+   "anchor": "rashi:4:19:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:4:19:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:4:19:3",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:4:19:4",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:4:19:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:20:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:20:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:21:1",
+   "verdict": "consistent"
+  }
+ ]
+}

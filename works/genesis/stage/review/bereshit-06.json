@@ -1,0 +1,352 @@
+{
+ "unit": "bereshit-06",
+ "model": "opus",
+ "summary": "The English of 2:1–2:8 is mostly sound and follows Rashi and Ibn Ezra. In 2:6 the habitual 'would rise ... and water' goes against Rashi, who reads one act preparing the dust for 2:7; it is changed to 'rose ... and watered', and the sense of וְהִשְׁקָה is moved to 'irrigate'. Several readings of the commentary are wrong: Ibn Ezra on 2:2 rejects the 'before' reading of the ב but is said to hold it; the 2:4 note turns Ibn Ezra's 'what they begot' into 'those that begot'; Rashi's טֶרֶם rule (2:5) and Ramban's preference for 'of old' (2:8) are misreported. Learner notes in 2:4, 2:7 and 2:8 are corrected.",
+ "patches": [
+  {
+   "ref": "2:2",
+   "path": "commentary:ibn-ezra:2:2:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra cites two views and rejects both: that the days were themselves created and the work was completed by the creation of the seventh day (\"וזה הפירוש תפל\"), and that the ב here means 'before', as in 'on the first day you shall remove leaven' (Ex 12:15). \"ולמה זאת הצרה\": the finishing of work is not work, as if it said he did no work on it; so too וַיְכַל and וַיִּשְׁבֹּת. The English keeps the plain 'on the seventh day'."
+   },
+   "severity": "error",
+   "reason": "The summary inverts the comment. Ibn Ezra reports the 'before' reading (וי\"א) and rejects it ('why this trouble?'), explaining instead that completing work is not doing work. His view agrees with the English 'on', so the relation is 'follows', not 'records'."
+  },
+  {
+   "ref": "2:2",
+   "path": "grammar",
+   "value": [
+    "The verse repeats 'on the seventh day' and 'his work that he made' in two clauses: he finished, and he rested.",
+    "The etnaḥta after עָשָׂה divides the verse into the finishing and the resting.",
+    "וַיִּשְׁבֹּת is the verb from which 'Sabbath' comes; its sense is 'cease, desist', not 'be weary'.",
+    "אֲשֶׁר עָשָׂה is a qatal inside a relative clause; the English pluperfect 'had made' shows that the work was done before.",
+    "The ב of בַּיּוֹם means 'on'. Some read it as 'before' (the work done before the seventh day); Ibn Ezra cites this view and rejects it: finishing a work is not doing work."
+   ],
+   "severity": "error",
+   "reason": "The last note says Ibn Ezra takes the ב as 'by' / 'before'; he cites that view and rejects it."
+  },
+  {
+   "ref": "2:2",
+   "path": "note",
+   "value": "The English keeps 'On the seventh day' (Rashi's reading and the plain Hebrew). The view that the ב means 'before' (the work was finished before the seventh day) is cited by Ibn Ezra and rejected, and is recorded in the apparatus. The verbs finished and rested are not the same: 'finished' is Piel of כלה, 'rested' is Qal of שבת.",
+   "severity": "error",
+   "reason": "The note attributes the 'before' reading to Ibn Ezra; he rejects it."
+  },
+  {
+   "ref": "2:2",
+   "path": "apparatus",
+   "value": [
+    "Rashi (R. Shimon): flesh and blood adds from the weekday to the holy day because he does not know his times; God does, so he finished exactly at the day's edge. Others, cited and rejected by Ibn Ezra: ב has the sense of 'before', as in Ex 12:15."
+   ],
+   "severity": "error",
+   "reason": "The apparatus gives the 'before' reading as Ibn Ezra's own; it is a view he cites and rejects."
+  },
+  {
+   "ref": "2:3",
+   "path": "commentary:ibn-ezra:2:3:2.summary",
+   "value": "Ibn Ezra: 'he made it holy' means that no work was done on it, as was done on its fellows, the other days.",
+   "severity": "style",
+   "reason": "'as in the other days' can be read as saying that no work was done on the other days either; כמו חבריו contrasts the seventh day with the six."
+  },
+  {
+   "ref": "2:4",
+   "path": "grammar",
+   "value": [
+    "אֵלֶּה points back: Rashi, 'those mentioned above'; Ibn Ezra, 'these are what they begot'. The verse sums up the account of 1:1–2:3 and leads into what follows. It is the first place where the divine name יְהוָה appears, joined to אֱלֹהִים.",
+    "The etnaḥta after בְּהִבָּרְאָם divides the verse: the heavens and earth when created, and the day of the LORD God's making.",
+    "בְּהִבָּרְאָם is a Niphal infinitive construct with a pronominal suffix; בְּיוֹם עֲשׂוֹת is a construct before an infinitive.",
+    "The order 'the heavens and the earth' becomes 'earth and heavens' in the last words: a chiasm.",
+    "תּוֹלְדוֹת normally means offspring or the account of descendants."
+   ],
+   "severity": "error",
+   "reason": "The first note says the verse begins a new account. Rashi (אלה: הָאֲמוּרִים לְמַעְלָה) and Ibn Ezra (אלה שהולידו) agree that אֵלֶּה refers to what has already been told; the note contradicts both normative commentators."
+  },
+  {
+   "ref": "2:4",
+   "path": "note",
+   "value": "'Generations' is kept literal (Ibn Ezra: these are what they begot). 'Made' renders עֲשׂוֹת; Ibn Ezra takes it as 'prepared, set in order', and the English 'made' leaves that room. The doubled name 'the LORD God' follows decisions.md.",
+   "severity": "error",
+   "reason": "'Those that begot' inverts Ibn Ezra: אלה שהולידו means 'these are the things they (the heavens and the earth) begot', the offspring, not the begetters."
+  },
+  {
+   "ref": "2:4",
+   "path": "commentary:ibn-ezra:2:4:1.summary",
+   "value": "Ibn Ezra: 'these are the generations' means these are what they (the heavens and the earth) begot.",
+   "severity": "style",
+   "reason": "The summary as written ('these (heavens and earth) begot') is garbled; אלה שהולידו means 'these are what they begot'."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.4.note",
+   "value": "טֶרֶם 'not yet'; Rashi: every טֶרֶם in Scripture means עַד לֹא 'not yet', never קֹדֶם 'before'",
+   "severity": "error",
+   "reason": "The note says Rashi takes טֶרֶם as 'before it had'. Rashi says the opposite: it is always 'not yet' (עד לא) and never 'before' (קודם)."
+  },
+  {
+   "ref": "2:6",
+   "path": "english",
+   "value": "But a mist rose from the earth and watered the whole surface of the ground.",
+   "severity": "error",
+   "reason": "Rashi (normative) reads one act: the deep was brought up and the clouds watered to soak the dust, as a kneader adds water and then kneads, and then 'and he formed' (2:7). Ibn Ezra's paraphrase is a past event too: עלה אד ... והשקה האדמה והצמיחה. Neither reads a repeated action, and the grammar note's 'not a single event' contradicts Rashi, whom the translation claims to follow. The habitual reading of the yiqtol and weqatal goes in the note."
+  },
+  {
+   "ref": "2:6",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:6.1",
+      "2:6.2",
+      "2:6.3",
+      "2:6.4"
+     ],
+     "english": "But a mist rose from the earth",
+     "literal": "'and-mist it-goes-up from-the-earth'; Rashi and Ibn Ezra read a past event"
+    },
+    {
+     "tokens": [
+      "2:6.5",
+      "2:6.6",
+      "2:6.7",
+      "2:6.8",
+      "2:6.9"
+     ],
+     "english": "and watered the whole surface of the ground",
+     "literal": "'and-he-watered [obj.] all-of face-of the-ground'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed both fragments."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.2.gloss",
+   "value": "rose",
+   "severity": "error",
+   "reason": "Follows the corrected English: a past event, as Rashi and Ibn Ezra read it."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.2.note",
+   "value": "yiqtol after the subject in a past setting; Rashi and Ibn Ezra paraphrase it as a past (הֶעֱלָה, עָלָה). It can also be read as repeated action, 'would go up'",
+   "severity": "error",
+   "reason": "The note gave only the habitual reading, which the normative commentators do not take."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.5.gloss",
+   "value": "and watered",
+   "severity": "error",
+   "reason": "Follows the corrected English."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.5.note",
+   "value": "weqatal (וְ + qatal) after the yiqtol; Rashi paraphrases it as the past וְהִשְׁקָה, preparing the dust for 2:7. On the habitual reading, 'and would water'",
+   "severity": "error",
+   "reason": "The note gave only the habitual reading."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.5.sense",
+   "value": "Hiph 1",
+   "severity": "error",
+   "reason": "The pack's entry gives Hiph 1 'water, irrigate' and Hiph 2 'water, give drink to'. The object here is the ground (פְּנֵי הָאֲדָמָה), so the sense is irrigate, Hiph 1."
+  },
+  {
+   "ref": "2:6",
+   "path": "grammar",
+   "value": [
+    "יַעֲלֶה is a yiqtol after its subject, in a past setting. Rashi and Ibn Ezra read it as a past event: one rising of the mist before the human was formed. A yiqtol with a following weqatal can also describe repeated action ('a mist would rise and water').",
+    "וְהִשְׁקָה is a weqatal: a perfect with waw that continues the yiqtol before it.",
+    "The etnaḥta after הָאָרֶץ separates the rising from the watering.",
+    "The subject of וְהִשְׁקָה is 'the mist' (it watered); some read God as the one who waters.",
+    "אֵד is rare; here 'mist' is the sense given by Onkelos (cloud) and Ibn Ezra (smoke-like vapour)."
+   ],
+   "severity": "error",
+   "reason": "The first two notes said the verse describes what regularly happened, 'not a single event'; Rashi reads a single act tied to 2:7."
+  },
+  {
+   "ref": "2:6",
+   "path": "note",
+   "value": "The opening waw is read as 'but' because it sets the mist against the negatives of 2:5. 'Rose ... and watered' follows Rashi, who reads one act preparing the dust for the forming of the human (2:7), and Ibn Ezra's past paraphrase; the yiqtol and weqatal also allow a repeated action ('would rise and water'), recorded here. Saadia's view (that the clause says 'no mist rose') is recorded in Ibn Ezra's comment and not adopted. The subject of 'watered' is the mist.",
+   "severity": "error",
+   "reason": "The note must match the corrected English and record the habitual reading."
+  },
+  {
+   "ref": "2:6",
+   "path": "commentary:rashi:2:6:1.summary",
+   "value": "Rashi: this concerns the creation of the human. He brought up the deep and watered the clouds to soak the dust, and the human was created, like a kneader who puts in water and then kneads the dough: so here, first 'and watered', then 'and formed' (2:7).",
+   "severity": "error",
+   "reason": "The summary makes the deep and the clouds the agents ('the deep sent up mist and clouds watered'). Rashi's verbs are transitive: הֶעֱלָה הַתְּהוֹם וְהִשְׁקָה עֲנָנִים, 'he brought up the deep and watered the clouds' to soak the dust."
+  },
+  {
+   "ref": "2:7",
+   "path": "grammar",
+   "value": [
+    "וַיִּיצֶר is a Qal wayyiqtol of a yod-initial verb; Rashi reads its two yods as two formings.",
+    "עָפָר מִן־הָאֲדָמָה: 'dust from the ground' may be in apposition to 'the human' or may be the material of forming.",
+    "בְּאַפָּיו is dual and means 'in his nostrils'; Ibn Ezra: through them a person lives.",
+    "וַיְהִי ... לְנֶפֶשׁ חַיָּה: 'became to a living being' uses ל to mark what he became.",
+    "A word-play: הָאָדָם 'the human' is made from הָאֲדָמָה 'the ground'.",
+    "The accents: the geresh on אֱלֹהִים closes the subject, the revia on הָאָדָם closes the object, the zaqef on הָאֲדָמָה ends the material; the etnaḥta after חַיִּים divides the forming and the breathing from the becoming."
+   ],
+   "severity": "error",
+   "reason": "The last note says the geresh and revia mark the object phrase. The geresh is on אֱלֹהִים, the subject; only the revia is on the object הָאָדָם."
+  },
+  {
+   "ref": "2:8",
+   "path": "commentary:ramban:2:8:1.summary",
+   "value": "Ramban: Rashi explains 'in the east of Eden'; Onkelos renders 'of old' (מִלְּקַדְמִין), as Genesis Rabbah says, \"וְהוּא הַנָּכוֹן\": that is the correct reading. 'Planted' does not mean the trees were brought from elsewhere; it marks them as the LORD's own planting, set out in order as a garden and lasting for ever.",
+   "severity": "error",
+   "reason": "The summary says Ramban holds both readings right. He prefers Onkelos's 'of old' against Rashi's 'east' (והוא הנכון)."
+  },
+  {
+   "ref": "2:8",
+   "path": "grammar",
+   "value": [
+    "וַיִּטַּע and וַיָּשֶׂם are two wayyiqtols, 'planted' and 'put', with the same subject.",
+    "מִקֶּדֶם: 'from the east' or 'from of old'. Rashi and Ibn Ezra read it as a place, 'in the east of Eden'; Onkelos (מִלְּקַדְמִין) and Ramban read it as time.",
+    "אֲשֶׁר יָצָר refers back to וַיִּיצֶר in 2:7.",
+    "The etnaḥta after מִקֶּדֶם divides the planting from the placing of the human.",
+    "גַּן־בְּעֵדֶן is bound by the maqqef: 'a garden-in-Eden'."
+   ],
+   "severity": "error",
+   "reason": "'The commentators read it as a place' is untrue: Onkelos and Ramban (and the Genesis Rabbah view Radak cites) read it as time."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:2:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:2:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra rejects the 'before' reading; the English 'on the seventh day' agrees with him. Only the summary, grammar note, note and apparatus were wrong, and are patched."
+  },
+  {
+   "anchor": "ibn-ezra:2:2:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:2:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:3:1",
+   "verdict": "consistent",
+   "comment": "Rashi explains how the day was blessed and made holy (the manna); the English does not contradict it."
+  },
+  {
+   "anchor": "rashi:2:3:2",
+   "verdict": "contradicts",
+   "comment": "Rashi (the work fit for the Sabbath, doubled on the sixth day) and Ibn Ezra (the roots given power to make their like) differ on לַעֲשׂוֹת. The English follows Ibn Ezra and records Rashi, as translate.md rule 3 allows."
+  },
+  {
+   "anchor": "ibn-ezra:2:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:3:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:3:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:4:1",
+   "verdict": "consistent",
+   "comment": "The English line is consistent; the grammar note that said the verse begins a new account is patched."
+  },
+  {
+   "anchor": "rashi:2:4:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:4:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:4:3",
+   "verdict": "consistent",
+   "comment": "'Made' is wide enough for Ibn Ezra's 'set in order'."
+  },
+  {
+   "anchor": "rashi:2:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:5:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:6:1",
+   "verdict": "contradicts",
+   "comment": "Rashi reads one act preparing the dust for 2:7; the English and grammar notes made it habitual. Patched to 'rose ... and watered'."
+  },
+  {
+   "anchor": "ibn-ezra:2:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:7:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:2:7:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:7:3",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:2:7:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:7:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:7:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:8:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra reads 'he had already planted'; the English simple past 'planted' allows this, and the token note records it."
+  },
+  {
+   "anchor": "ibn-ezra:2:8:2",
+   "verdict": "consistent"
+  }
+ ]
+}

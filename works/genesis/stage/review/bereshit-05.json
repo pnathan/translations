@@ -1,0 +1,688 @@
+{
+ "unit": "bereshit-05",
+ "model": "opus",
+ "summary": "A careful unit with sound English in most verses. Its main faults: the ruling on Ibn Ezra at 1:26 takes the Gaon's royal plural as Ibn Ezra's view, though he refutes it and reads God addressing the angels as Rashi does; 1:30 renders נֶפֶשׁ חַיָּה as 'a living creature' inside the creature where the sense is 'a living soul'; Ibn Ezra's סמוך at 1:31 is misread as 'next to'. Several senses were mechanical or on the wrong stem or entry (1:26.6, 1:28.7, 1:28.12, 1:28.19, 1:29.21, the וַיְהִי כֵן verbs), and some learner notes on accents and on 1:28's domains were wrong.",
+ "patches": [
+  {
+   "ref": "1:24",
+   "path": "token:1:24.13.sense",
+   "value": "Qal I.1.b",
+   "severity": "error",
+   "reason": "'And it was so' says the command came to pass (Radak: the earth brought them out as God decreed), BDB Qal I.1.b 'occur, come to pass'; Qal II is 'come into being, become', which does not fit with כֵּן."
+  },
+  {
+   "ref": "1:26",
+   "path": "english",
+   "value": "God said, \"Let us make humankind in our image, after our likeness, and let them rule over the fish of the sea and the birds of the sky and the livestock and all the earth and every crawling thing that crawls on the earth.\"",
+   "severity": "style",
+   "reason": "The כ of כִּדְמוּתֵנוּ is the kaf of resemblance (Radak: 'not our likeness itself'; Sforno: 'like our likeness, not our true likeness'). 'As our likeness' reads in English as 'being our likeness'; 'after our likeness' keeps 'like'."
+  },
+  {
+   "ref": "1:26",
+   "path": "token:1:26.6.gloss",
+   "value": "after our likeness",
+   "severity": "style",
+   "reason": "Matches the new English; see the patch to english."
+  },
+  {
+   "ref": "1:26",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:26.1",
+      "1:26.2"
+     ],
+     "english": "God said",
+     "literal": "'and-said God'"
+    },
+    {
+     "tokens": [
+      "1:26.3"
+     ],
+     "english": "Let us make",
+     "literal": "'let-us-make'"
+    },
+    {
+     "tokens": [
+      "1:26.4"
+     ],
+     "english": "humankind",
+     "literal": "'human', no article"
+    },
+    {
+     "tokens": [
+      "1:26.5"
+     ],
+     "english": "in our image",
+     "literal": "'in-image-of-us'"
+    },
+    {
+     "tokens": [
+      "1:26.6"
+     ],
+     "english": "after our likeness",
+     "literal": "'like-likeness-of-us'; the כ is the kaf of resemblance"
+    },
+    {
+     "tokens": [
+      "1:26.7"
+     ],
+     "english": "and let them rule over",
+     "literal": "'and-let-them-rule in'"
+    },
+    {
+     "tokens": [
+      "1:26.8",
+      "1:26.9"
+     ],
+     "english": "the fish of the sea",
+     "literal": "'fish-of the-sea'"
+    },
+    {
+     "tokens": [
+      "1:26.10",
+      "1:26.11"
+     ],
+     "english": "and the birds of the sky",
+     "literal": "'and-in-bird-of the-sky'"
+    },
+    {
+     "tokens": [
+      "1:26.12"
+     ],
+     "english": "and the livestock",
+     "literal": "'and-in-the-livestock'"
+    },
+    {
+     "tokens": [
+      "1:26.13",
+      "1:26.14"
+     ],
+     "english": "and all the earth",
+     "literal": "'and-in-all-of the-earth'"
+    },
+    {
+     "tokens": [
+      "1:26.15",
+      "1:26.16"
+     ],
+     "english": "and every crawling thing",
+     "literal": "'and-in-all-of the-crawler'"
+    },
+    {
+     "tokens": [
+      "1:26.17"
+     ],
+     "english": "that crawls",
+     "literal": "'the-crawling'"
+    },
+    {
+     "tokens": [
+      "1:26.18",
+      "1:26.19"
+     ],
+     "english": "on the earth",
+     "literal": "'on the-earth'"
+    }
+   ],
+   "severity": "style",
+   "reason": "The phrase for 1:26.6 follows the new English."
+  },
+  {
+   "ref": "1:26",
+   "path": "token:1:26.6.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "BDB sense 2 of דְּמוּת is the adverbial 'in likeness of, like as' (Isa 13:4, Ps 58:5); here the noun 'likeness' with a suffix, governed by כ, is sense 1, 'likeness, similitude'."
+  },
+  {
+   "ref": "1:26",
+   "path": "token:1:26.5.note",
+   "value": "in-image-of-us. Rashi: בִּדְפוּס שֶׁלָּנוּ, 'in our mold'.",
+   "severity": "error",
+   "reason": "The ruling on rashi:1:26:3 says the mold sense goes in the notes, but no note gives it."
+  },
+  {
+   "ref": "1:26",
+   "path": "token:1:26.14.note",
+   "value": "Radak: 'all the earth' means the beasts of the earth, the wild animals that live outside settled land; Ramban: rule over the earth itself, to uproot, dig and quarry.",
+   "severity": "error",
+   "reason": "Radak does not speak of a part for the whole: he takes 'the earth' to stand for the wild animals on it (בֶּהֱמַת הָאָרֶץ ... חַיַּת הָאָרֶץ). The old note reversed the figure."
+  },
+  {
+   "ref": "1:26",
+   "path": "commentary:ibn-ezra:1:26:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: some take נעשה as a Niphal participle (Neh 5:18) and 'in our image' as Moses' words; he calls this lacking sense. He reports the Gaon (image = rule; the plural is how kings speak, citing Gen 29:27, Dan 2:36, Num 22:6) and rejects those proof texts as 'false witnesses'. His own reading: God said to the angels, 'Let us make a human; we will busy ourselves with him, not the water and the earth'; the image is the human's upper soul, which does not die, and בְּצֶלֶם אֱלֹהִים means the image of an angel."
+   },
+   "severity": "error",
+   "reason": "The old summary stopped at the Gaon's royal plural and took it as Ibn Ezra's view. Ibn Ezra refutes the Gaon's proof texts and reads the plural as God addressing the angels, which agrees with Rashi; so the English 'us' follows him."
+  },
+  {
+   "ref": "1:26",
+   "path": "grammar",
+   "value": [
+    "נַעֲשֶׂה is 1st person plural: Rashi and Ibn Ezra both take it as God speaking with the angels (Rashi: his court); the royal plural, which Ibn Ezra reports from the Gaon, he rejects. The English keeps 'us'.",
+    "אָדָם has no article, so 'a human' or 'humankind', not yet a name; the article comes in 1:27.",
+    "בְּצַלְמֵנוּ and כִּדְמוּתֵנוּ stand side by side with no ו: 'in our image, like our likeness'.",
+    "וְיִרְדּוּ is a plural jussive, so the one אָדָם is collective. The root רדה sounds like ירד, 'go down' (Rashi).",
+    "Five domains of rule are listed: fish, birds, livestock, all the earth, and crawling things."
+   ],
+   "severity": "error",
+   "reason": "The first note gave the royal plural as Ibn Ezra's; he rejects it and reads God addressing the angels."
+  },
+  {
+   "ref": "1:26",
+   "path": "note",
+   "value": "The plural 'Let us make': Rashi takes it as God taking counsel with his heavenly court, to teach humility; Ibn Ezra rejects the Niphal reading and the Gaon's royal plural, and reads God speaking to the angels. The English keeps 'us'. 'Humankind' is used because אָדָם has no article and the following verb is plural; 1:27 then has הָאָדָם. 'All the earth' follows the Hebrew word for word; Radak reads it as the wild animals of the earth.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not give the royal plural; he refutes it."
+  },
+  {
+   "ref": "1:26",
+   "path": "apparatus",
+   "value": [
+    "Plural 'us': Rashi (God and his court) and Ibn Ezra (God and the angels) agree; the royal plural of the Gaon, reported and rejected by Ibn Ezra, is not adopted.",
+    "Radak reads 'all the earth' as 'the wild animals of the earth'; this is not adopted in the English."
+   ],
+   "severity": "error",
+   "reason": "The apparatus gave the royal plural as Ibn Ezra's reading."
+  },
+  {
+   "ref": "1:27",
+   "path": "grammar",
+   "value": [
+    "The verse has three lines: God created the human in his image; in the image of God he created him; male and female he created them.",
+    "הָאָדָם now has the article: it points back to the indefinite אָדָם of 1:26. It is not yet a proper name.",
+    "The object suffix changes from singular (אֹתוֹ) to plural (אֹתָם): one human, then male and female.",
+    "The first בָּרָא is a wayyiqtol; the next two are qatal and restate the act.",
+    "בְּצַלְמוֹ and בְּצֶלֶם אֱלֹהִים use the same noun: 'his image' and 'the image of God'."
+   ],
+   "severity": "style",
+   "reason": "'The human is named' can be taken by a learner to mean that הָאָדָם is a name; the decisions treat it as 'the human'."
+  },
+  {
+   "ref": "1:28",
+   "path": "token:1:28.7.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The pack parses פְּרוּ as Qal and its BDB extract lists only Hiphil senses; a Hiphil sense path for a Qal form names the wrong stem, so no sense is given."
+  },
+  {
+   "ref": "1:28",
+   "path": "token:1:28.7.note",
+   "value": "Qal imperative plural; the pack's BDB extract lists only Hiphil senses, so no sense is given.",
+   "severity": "error",
+   "reason": "Follows the removal of the sense."
+  },
+  {
+   "ref": "1:28",
+   "path": "note",
+   "value": "The pack parses פְּרוּ as Qal, while its BDB extract lists only Hiphil senses, so no sense is given; the translation is 'be fruitful' either way. Rashi's reading of the defective וְכִבְשֻׁהָ is a homily on the spelling.",
+   "severity": "error",
+   "reason": "Follows the removal of the sense of 1:28.7."
+  },
+  {
+   "ref": "1:28",
+   "path": "token:1:28.12.sense",
+   "value": "Qal 3",
+   "severity": "error",
+   "reason": "BDB Qal 2 'subdue, force' is the use of forcing a person (Esth 7:8); subduing the earth is Qal 3 'subdue, dominate'."
+  },
+  {
+   "ref": "1:28",
+   "path": "token:1:28.19.lex",
+   "value": "bdb:h.cd.ad",
+   "severity": "error",
+   "reason": "חַיָּה here is the noun 'living thing, animal' (the pack parses it as a noun; Radak: cattle, wild animals and crawling things). The entry חַי bdb:h.cd.ab is the adjective; the pack lists the noun חַיָּה as bdb:h.cd.ad."
+  },
+  {
+   "ref": "1:28",
+   "path": "token:1:28.19.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "With the noun entry bdb:h.cd.ad, sense 1 'animal, living thing'; 1.a of the adjective entry no longer applies."
+  },
+  {
+   "ref": "1:28",
+   "path": "grammar",
+   "value": [
+    "The blessing is stated first (וַיְבָרֶךְ אֹתָם), then the speech (וַיֹּאמֶר לָהֶם); the zinor and segol close the blessing sentence.",
+    "The imperatives are all plural: פְּרוּ, רְבוּ, מִלְאוּ, כִבְשֻׁהָ, רְדוּ.",
+    "וְכִבְשֻׁהָ is written without the second ו of the verb form; Rashi draws a lesson from the spelling.",
+    "After the etnaḥta on וְכִבְשֻׁהָ, the second half opens with וּרְדוּ: rule over three domains, fish, birds and every living thing that crawls, where 1:26 listed five.",
+    "חַיָּה הָרֹמֶשֶׂת has a feminine participle, where 1:26 had masculine הָרֹמֵשׂ."
+   ],
+   "severity": "error",
+   "reason": "1:26 lists five domains, not three; 1:28 names three."
+  },
+  {
+   "ref": "1:29",
+   "path": "english",
+   "value": "God said, \"See, I have given you every plant bearing seed that is on the surface of the whole earth, and every tree that has in it fruit of a tree bearing seed. It shall be yours for food.\"",
+   "severity": "style",
+   "reason": "אֲשֶׁר עַל־פְּנֵי כָל־הָאָרֶץ is a relative clause on the plant; the old English left אֲשֶׁר unrendered and let 'on the surface' attach to 'bears seed'."
+  },
+  {
+   "ref": "1:29",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:29.1",
+      "1:29.2"
+     ],
+     "english": "God said",
+     "literal": "'and-said God'"
+    },
+    {
+     "tokens": [
+      "1:29.3"
+     ],
+     "english": "See",
+     "literal": "'see'"
+    },
+    {
+     "tokens": [
+      "1:29.4",
+      "1:29.5"
+     ],
+     "english": "I have given you",
+     "literal": "'I-have-given to-you'"
+    },
+    {
+     "tokens": [
+      "1:29.6"
+     ],
+     "english": "-",
+     "literal": "object marker: no English word"
+    },
+    {
+     "tokens": [
+      "1:29.7",
+      "1:29.8",
+      "1:29.9",
+      "1:29.10"
+     ],
+     "english": "every plant bearing seed",
+     "literal": "'all-of herb sowing seed'"
+    },
+    {
+     "tokens": [
+      "1:29.11",
+      "1:29.12",
+      "1:29.13",
+      "1:29.14",
+      "1:29.15"
+     ],
+     "english": "that is on the surface of the whole earth",
+     "literal": "'which on face-of all-of the-earth'"
+    },
+    {
+     "tokens": [
+      "1:29.16",
+      "1:29.17",
+      "1:29.18"
+     ],
+     "english": "and every tree",
+     "literal": "'and-object-mark all-of the-tree'"
+    },
+    {
+     "tokens": [
+      "1:29.19",
+      "1:29.20",
+      "1:29.21"
+     ],
+     "english": "that has in it fruit",
+     "literal": "'which in-it fruit-of'; the relative clause is in the Hebrew order"
+    },
+    {
+     "tokens": [
+      "1:29.22"
+     ],
+     "english": "of a tree",
+     "literal": "'tree'"
+    },
+    {
+     "tokens": [
+      "1:29.23",
+      "1:29.24"
+     ],
+     "english": "bearing seed",
+     "literal": "'sowing seed'"
+    },
+    {
+     "tokens": [
+      "1:29.25",
+      "1:29.26"
+     ],
+     "english": "It shall be yours",
+     "literal": "'to-you it-shall-be'"
+    },
+    {
+     "tokens": [
+      "1:29.27"
+     ],
+     "english": "for food",
+     "literal": "'to-food'"
+    }
+   ],
+   "severity": "style",
+   "reason": "The phrases follow the new English."
+  },
+  {
+   "ref": "1:29",
+   "path": "token:1:29.9.gloss",
+   "value": "bearing",
+   "severity": "style",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "1:29",
+   "path": "token:1:29.23.gloss",
+   "value": "bearing",
+   "severity": "style",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "1:29",
+   "path": "token:1:29.11.gloss",
+   "value": "that is",
+   "severity": "style",
+   "reason": "אֲשֶׁר is now rendered."
+  },
+  {
+   "ref": "1:29",
+   "path": "token:1:29.21.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "BDB פְּרִי sense 1 is fruit of the ground and of trees (Gen 1:11, 29); sense 3 is the figurative fruit of actions."
+  },
+  {
+   "ref": "1:29",
+   "path": "grammar",
+   "value": [
+    "הִנֵּה with the qatal נָתַתִּי presents a gift already made: 'See, I have given'. Radak: as if 'I hereby give', or 'when I created them, I gave them to you'.",
+    "עֵשֶׂב זֹרֵעַ זֶרַע and פְּרִי־עֵץ זֹרֵעַ זָרַע are parallel, each a participle with its cognate noun: 'seed-sowing seed'.",
+    "The zaqef qaton on הָאָרֶץ divides the plants from the trees; the revia on זֶרַע sets off the relative clause אֲשֶׁר עַל־פְּנֵי כָל־הָאָרֶץ; the etnaḥta on זָרַע ends the gift.",
+    "יִהְיֶה is singular: 'it shall be', with the whole gift as one subject, not each plant.",
+    "לְאָכְלָה is 'for food'; the commentators note that this verse does not yet allow meat."
+   ],
+   "severity": "error",
+   "reason": "The old note gave the revia on זֶרַע as the divider between plants and trees; that is the zaqef qaton on הָאָרֶץ. Its wording ('the second revia') was also garbled."
+  },
+  {
+   "ref": "1:29",
+   "path": "commentary:rashi:1:29:1.summary",
+   "value": "Rashi: he put cattle and wild animals on a par with them in food, and did not allow the human and his wife to kill a creature and eat flesh; all of them together were to eat only green herbs. When the sons of Noah came, he permitted flesh to them (Gen 9:3). The English 'for food', with plants alone, follows this.",
+   "severity": "error",
+   "reason": "הִשְׁוָה לָהֶם בְּהֵמוֹת וְחַיּוֹת לְמַאֲכָל means the animals were given the same diet as the humans. 'Made beasts and animals equal to them as food' can be read as making the animals food, the opposite of Rashi's point."
+  },
+  {
+   "ref": "1:30",
+   "path": "english",
+   "value": "And to every wild animal of the earth and to every bird of the sky and to everything that crawls on the earth, in which there is a living soul, I have given every green plant for food. And so it was.",
+   "severity": "error",
+   "reason": "In אֲשֶׁר־בּוֹ נֶפֶשׁ חַיָּה the נֶפֶשׁ is the breathing life within the creature (BDB 1, 'that which breathes'); Radak: what has a living soul ranks above the plant, which has only a growing soul. 'In which there is a living creature' puts a creature inside the creature."
+  },
+  {
+   "ref": "1:30",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:30.1",
+      "1:30.2",
+      "1:30.3"
+     ],
+     "english": "And to every wild animal of the earth",
+     "literal": "'and-to-all-of animal-of the-earth'"
+    },
+    {
+     "tokens": [
+      "1:30.4",
+      "1:30.5",
+      "1:30.6"
+     ],
+     "english": "and to every bird of the sky",
+     "literal": "'and-to-all-of bird-of the-sky'"
+    },
+    {
+     "tokens": [
+      "1:30.7",
+      "1:30.8",
+      "1:30.9",
+      "1:30.10"
+     ],
+     "english": "and to everything that crawls on the earth",
+     "literal": "'and-to-all-of crawling on the-earth'"
+    },
+    {
+     "tokens": [
+      "1:30.11",
+      "1:30.12",
+      "1:30.13",
+      "1:30.14"
+     ],
+     "english": "in which there is a living soul",
+     "literal": "'which-in-it soul living': the breath of life within it"
+    },
+    {
+     "tokens": [
+      "1:30.15"
+     ],
+     "english": "I have given",
+     "literal": "object marker: the verb 'I have given' is carried over from 1:29, since the Hebrew has none here"
+    },
+    {
+     "tokens": [
+      "1:30.16",
+      "1:30.17",
+      "1:30.18"
+     ],
+     "english": "every green plant",
+     "literal": "'all-of green herb'"
+    },
+    {
+     "tokens": [
+      "1:30.19"
+     ],
+     "english": "for food",
+     "literal": "'to-food'"
+    },
+    {
+     "tokens": [
+      "1:30.20",
+      "1:30.21"
+     ],
+     "english": "And so it was",
+     "literal": "'and-was so'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase for 1:30.11–14 follows the new English."
+  },
+  {
+   "ref": "1:30",
+   "path": "literal",
+   "value": "and-to-all-of animal-of the-earth and-to-all-of bird-of the-sky and-to-all-of crawling on the-earth which-in-it soul living [object-mark] all-of green herb to-food and-was so",
+   "severity": "error",
+   "reason": "Follows the new gloss of נֶפֶשׁ."
+  },
+  {
+   "ref": "1:30",
+   "path": "token:1:30.13.gloss",
+   "value": "soul",
+   "severity": "error",
+   "reason": "נֶפֶשׁ here is the breathing life in the creature, not a creature."
+  },
+  {
+   "ref": "1:30",
+   "path": "token:1:30.13.note",
+   "value": "נֶפֶשׁ, the breathing life; with חַיָּה, 'a living soul'",
+   "severity": "error",
+   "reason": "Follows the new gloss."
+  },
+  {
+   "ref": "1:30",
+   "path": "token:1:30.20.sense",
+   "value": "Qal I.1.b",
+   "severity": "error",
+   "reason": "As at 1:24.13: 'and it was so' is 'it came to pass so', Qal I.1.b, not Qal II 'become'."
+  },
+  {
+   "ref": "1:30",
+   "path": "grammar",
+   "value": [
+    "The verse has no verb of giving; it takes נָתַתִּי from 1:29 and אֶת marks its object.",
+    "The three groups are the same as in 1:26 and 1:28: wild animals, birds, crawling things; here without fish.",
+    "אֲשֶׁר־בּוֹ נֶפֶשׁ חַיָּה, 'in which is a living soul', describes the animals as having the breath of life, which the plants they eat do not have (Radak).",
+    "The telisha gedola on הָאָרֶץ is a rare doubled accent mark.",
+    "The English adds 'I have given' where the Hebrew has an object marker and no verb."
+   ],
+   "severity": "error",
+   "reason": "Follows the new rendering of נֶפֶשׁ חַיָּה; the old note also stated as fact that the clause limits only the third group, which the note and apparatus treat as open."
+  },
+  {
+   "ref": "1:30",
+   "path": "note",
+   "value": "The Hebrew leaves out the verb 'I have given', so the English supplies it from 1:29 in the phrase that holds the object marker. The relative clause 'in which there is a living soul' stands after 'everything that crawls on the earth' and the English keeps it there; it can be read of all three groups.",
+   "severity": "error",
+   "reason": "Follows the new English. The old note also said the accents point to the nearer group; the revia on הָאָרֶץ, if anything, sets the clause off from it."
+  },
+  {
+   "ref": "1:30",
+   "path": "apparatus",
+   "value": [
+    "The relative clause 'in which is a living soul' could limit only the crawling things or the three groups together; the English keeps the Hebrew order."
+   ],
+   "severity": "error",
+   "reason": "Follows the new rendering."
+  },
+  {
+   "ref": "1:31",
+   "path": "commentary:ibn-ezra:1:31:1.summary",
+   "value": "Ibn Ezra: some say יוֹם in יוֹם הַשִּׁשִּׁי is in the construct state (סמוך) and the sense is 'the day of the sixth sphere'; this is not true. It means the day that is sixth from the first day, so also יוֹם הַשְּׁבִיעִי: a noun followed by an adjective with the article, as אִישׁ הַיִּשְׂרְאֵלִי (Lev 24:10), and רְקִיעַ הַשָּׁמַיִם (1:20), 'the firmament that is heaven'. The English 'the sixth day' follows this.",
+   "severity": "error",
+   "reason": "סמוך is the grammatical term for the construct state, not 'next to'. Ibn Ezra rejects a construct reading 'day of the sixth (sphere)'."
+  },
+  {
+   "ref": "1:31",
+   "path": "token:1:31.14.note",
+   "value": "the pack parses יוֹם as construct; Ibn Ezra rejects the construct reading ('day of the sixth sphere') and takes it as a noun with an ordinal that has the article: 'a day, the sixth', as אִישׁ הַיִּשְׂרְאֵלִי (Lev 24:10)",
+   "severity": "error",
+   "reason": "The old note gave only the construct reading, which the normative Ibn Ezra rejects."
+  },
+  {
+   "ref": "1:31",
+   "path": "grammar",
+   "value": [
+    "The refrain of the days is 'and there was evening and there was morning', here with 'the sixth day', which is the only day in this chapter with the article.",
+    "וְהִנֵּה־טוֹב מְאֹד adds 'very' and וְהִנֵּה to the refrain 'and God saw that it was good' of the earlier days.",
+    "The qatal עָשָׂה ('he had made') looks back over the whole of the six days.",
+    "In יוֹם הַשִּׁשִּׁי the ordinal has the article and יוֹם does not. The pack parses יוֹם as construct; Ibn Ezra reads 'the day that is sixth', a noun followed by an articled adjective, as in אִישׁ הַיִּשְׂרְאֵלִי (Lev 24:10).",
+    "The paragraph mark פ closes the account of the sixth day."
+   ],
+   "severity": "error",
+   "reason": "The old fourth note called this 'a regular pattern for ordinal days', which contradicts the first note (only this day has the article) and leaves out Ibn Ezra's reading."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:1:24:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:24:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:24:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:24:1",
+   "verdict": "consistent",
+   "comment": "נֶפֶשׁ חַיָּה as a general term for all living things agrees with 'living creatures' as a class."
+  },
+  {
+   "anchor": "ibn-ezra:1:24:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:24:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:24:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:25:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:26:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:26:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:26:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:26:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:26:5",
+   "verdict": "consistent",
+   "comment": "The English takes 'rule'; the sense 'go down' is a homily, kept in the notes."
+  },
+  {
+   "anchor": "ibn-ezra:1:26:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra reads God addressing the angels, as Rashi does; the English 'us' fits. The ruling is corrected to 'follows'."
+  },
+  {
+   "anchor": "rashi:1:27:1",
+   "verdict": "consistent",
+   "comment": "Rashi refers the suffix of בְּצַלְמוֹ to the human (a mold made for him); the English 'his' keeps that open."
+  },
+  {
+   "anchor": "rashi:1:27:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:27:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:28:1",
+   "verdict": "not-applicable",
+   "comment": "A homily on the defective spelling."
+  },
+  {
+   "anchor": "rashi:1:29:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:29:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:31:1",
+   "verdict": "not-applicable",
+   "comment": "A homily on the article."
+  },
+  {
+   "anchor": "ibn-ezra:1:31:1",
+   "verdict": "consistent"
+  }
+ ]
+}

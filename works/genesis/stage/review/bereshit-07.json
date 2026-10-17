@@ -1,0 +1,377 @@
+{
+ "unit": "bereshit-07",
+ "model": "opus",
+ "summary": "The English of 2:9–2:16 is accurate and in line with Rashi and Ibn Ezra throughout. The main fault in the text is 2:16, which closes God's speech even though it continues into 2:17. Several senses were filled mechanically: טוֹב 2:9, רָאשִׁים 2:10, זָהָב 2:12, שֵׁם 2:13, הָלַךְ 2:14 and לָקַח 2:15. Several commentary summaries misstate their sources: Ibn Ezra on הַדַּעַת and on Pishon, Ramban on Havilah, Rashi on Gihon, Radak on Perat/Kevar and Ibn Ezra on 2:15. Some learner notes are wrong: the yetiv accent, weqatal, the two Hiphils of נוח and Rashi's etymology of Gihon.",
+ "patches": [
+  {
+   "ref": "2:9",
+   "path": "token:2:9.10.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "BDB places טוֹב לְמַאֲכָל under sense 1, pleasant or agreeable to the senses (here the taste). Sense 2 is pleasantness to the higher nature, which does not fit food."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.16.note",
+   "value": "construct: 'and the tree of', bound to הַדַּעַת",
+   "severity": "error",
+   "reason": "The old note says the second noun lacks its own head, which is not Ibn Ezra's point. The difficulty is that הַדַּעַת carries the article, so it cannot itself be a construct governing טוֹב וָרָע. That belongs on 2:9.17."
+  },
+  {
+   "ref": "2:9",
+   "path": "token:2:9.17.note",
+   "value": "דַּעַת with the article. Because it is definite it cannot be a construct governing טוֹב וָרָע, so Ibn Ezra supplies a second דַּעַת: 'the knowledge, (the knowledge of) good and evil'.",
+   "severity": "style",
+   "reason": "A learner needs the reason the chain is elliptical, and the old note gave only the word."
+  },
+  {
+   "ref": "2:9",
+   "path": "commentary:ibn-ezra:2:9:2.summary",
+   "value": "Ibn Ezra: a second 'knowledge' has to be supplied, 'and the tree of the knowledge, the knowledge of good and evil'. How could הַדַּעַת be in construct when it is already made definite (by the article)? He compares הָאָרוֹן הַבְּרִית (Josh 3:14) and וְהַנְּבוּאָה עֹדֵד הַנָּבִיא (2 Chr 15:8).",
+   "severity": "error",
+   "reason": "כי איך יהיה סמוך, והוא נודע בתחלה means that הַדַּעַת itself is already definite, so it cannot stand in construct. The old summary said the noun 'cannot be bound to a word already known', which puts the definiteness on the wrong word."
+  },
+  {
+   "ref": "2:9",
+   "path": "commentary:ramban:2:9:1.summary",
+   "value": "Ramban: since the text says בְּתוֹךְ הַגָּן and not בַּגָּן, it means a known central place in the garden (so Onkelos, בִּמְצִיעוּת גִּנְּתָא), a broad central bed holding both trees. He rejects the view that the fruit of knowledge aroused sexual desire, and holds that it gave will and choice: to want a thing or its opposite, for good or for evil.",
+   "severity": "style",
+   "reason": "The old summary said Ramban was 'translating Onkelos', when he cites him. It also left out Ramban's own reading of the tree of knowledge, which is the point of the comment."
+  },
+  {
+   "ref": "2:10",
+   "path": "token:2:10.11.sense",
+   "value": "4.c",
+   "severity": "error",
+   "reason": "Sense 1.a is the bodily head. Here רָאשִׁים are the heads, the beginnings, of streams: Radak glosses them as parts, Onkelos has רֵישֵׁי נַהֲרִין, and the English says 'headwaters'. That is the river use of the entry, 4.c 'heads'."
+  },
+  {
+   "ref": "2:10",
+   "path": "grammar",
+   "value": [
+    "יֹצֵא is a participle with no auxiliary: the river is going out of Eden as a standing fact.",
+    "לְהַשְׁקוֹת is Hiphil: 'to cause to drink', hence 'to water'.",
+    "יִפָּרֵד is a Niphal yiqtol (it is divided, it splits). וְהָיָה is a weqatal, ו with the perfect, which continues the yiqtol with the same continuing sense: 'and becomes'.",
+    "רָאשִׁים is the plural of רֹאשׁ 'head'. The four 'heads' are named in the next verses.",
+    "The pashta on וּמִשָּׁם and the zaqef on יִפָּרֵד set 'from there it divides' as a unit."
+   ],
+   "severity": "error",
+   "reason": "The old third note called וְהָיָה 'a perfect with simple ו'. After a yiqtol, וְהָיָה is a consecutive perfect (weqatal) that continues it, and that is why the English has the present 'becomes'."
+  },
+  {
+   "ref": "2:11",
+   "path": "token:2:11.6.note",
+   "value": "the object marker. Its accent is yetiv, a prepositive disjunctive accent: it is written before the word and so does not mark the stressed syllable.",
+   "severity": "error",
+   "reason": "Yetiv is not a stress-marking accent. It is prepositive, and the pack lists it as disjunctive."
+  },
+  {
+   "ref": "2:11",
+   "path": "commentary:ibn-ezra:2:11:1.summary",
+   "value": "Ibn Ezra: the Gaon said Pishon is the river of Egypt (the Nile). Ibn Ezra sets out the geography: Gihon is near the land of Israel, the Euphrates and Tigris are eastern, the Nile rises far south of the equator, and Eden lies under the equator. Pishon would then have to run south-west and turn back north. There is no proof that Pishon is the Nile: the Gaon rendered Havilah as he needed, without a tradition. The gold is mentioned in honour of the river that comes out of the garden.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not say the geography fails. He works it out (פישון would go south-west and then return north) and objects only that the identification has no proof or tradition. 'So the English names none' is the translator's inference, not part of the comment."
+  },
+  {
+   "ref": "2:11",
+   "path": "commentary:ramban:2:11:1.summary",
+   "value": "Ramban: 'where the gold is' shows that this is not the Havilah of Egypt (25:18), for this one is in the farthest east. Bdellium and onyx are named in praise of the river, since such gold and gems are found in the sand of rivers. On the earlier view (Rashi, Saadia), Pishon is the Nile, which encircles this Havilah and then runs through Egypt to the sea at Alexandria.",
+   "severity": "error",
+   "reason": "The old summary reversed Ramban: it is this Havilah, not the Egyptian one, that lies in the east (כי זו מזרח המזרח)."
+  },
+  {
+   "ref": "2:12",
+   "path": "token:2:12.1.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The pack's only sense for זָהָב is 10 'golden oil', which does not fit gold. The translator's own note says so. A sense that does not fit cannot be cited, so it is removed. The note already records why."
+  },
+  {
+   "ref": "2:12",
+   "path": "grammar",
+   "value": [
+    "הַהִוא is the feminine 'that', agreeing with הָאָרֶץ. In the Torah the feminine pronoun is regularly written הִוא and read hi.",
+    "Both clauses are nominal: no 'is'. The etnaḥta falls after טוֹב.",
+    "שָׁם before the noun puts weight on the place: 'there is the bdellium'.",
+    "וְאֶבֶן הַשֹּׁהַם is a construct chain, 'the stone of the onyx', while בְּדֹלַח has no 'stone' (Radak: it is too small to work).",
+    "The articles on הַבְּדֹלַח and הַשֹּׁהַם present them as the known goods of that land."
+   ],
+   "severity": "style",
+   "reason": "The first note repeated 'feminine' and did not explain the spelling הִוא with ḥiriq, which a first-year student will stumble on."
+  },
+  {
+   "ref": "2:12",
+   "path": "commentary:ibn-ezra:2:12:1.summary",
+   "value": "Ibn Ezra: the Gaon said bdellium is the small round fine stones that come out of the water, and that the manna was likened to them. But Scripture compares only the manna's appearance (עֵינוֹ, Num 11:7). The Gaon says onyx is a precious white, clear stone. 'And we do not know.'",
+   "severity": "style",
+   "reason": "The comment's objection, that Num 11:7 compares only the manna's appearance, was missing, and the identifications are the Gaon's, reported by Ibn Ezra."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.1.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "The entry lists sense 3 'name', which the unit cites for the same word in 2:11.1 and 2:14.1. The note's claim that no sense is listed is false."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.1.note",
+   "value": "construct: 'and the name of'",
+   "severity": "error",
+   "reason": "The old note said no sense was listed for 'name', and the entry does list one (sense 3)."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.4.note",
+   "value": "Rashi: named for its loud roaring, like כִּי יִגַּח 'gores' (Ex 21:28, from נגח). Radak and the lexicon: from גיח 'burst forth'.",
+   "severity": "error",
+   "reason": "Rashi does not derive the name from גִּיחַ 'burst forth'. He compares יִגַּח 'gore', of נגח: it goes on goring and roaring. 'Bursting forth' is Radak's and BDB's derivation."
+  },
+  {
+   "ref": "2:13",
+   "path": "grammar",
+   "value": [
+    "The verse is a copy of 2:11 in form: name, number, 'he the encircling'.",
+    "הוּא הַסּוֹבֵב is pronoun plus article and participle, 'he who encircles'.",
+    "The etnaḥta on גִּיחוֹן divides the name from the description. The zaqef qaton on הַסּוֹבֵב marks the pause before the object, and the silluq on כּוּשׁ closes the verse.",
+    "Radak notes that the river does not go from one side to the others: the land itself is what is encircled.",
+    "Rashi explains גִּיחוֹן by its great roaring, comparing כִּי יִגַּח (Ex 21:28, 'gores'). Radak takes it from גיח 'burst forth' (Job 40:23), because it sends out many branches."
+   ],
+   "severity": "error",
+   "reason": "The old note 5 attributed the root גִּיחַ 'burst forth' to Rashi. Rashi's comparison is יִגַּח 'gore'. Note 3 put the zaqef 'after' הַסּוֹבֵב, but it stands on it."
+  },
+  {
+   "ref": "2:13",
+   "path": "commentary:rashi:2:13:1.summary",
+   "value": "Rashi: Gihon is so named because it goes on roaring, and its roaring is very great, like כִּי יִגַּח (Ex 21:28): it gores, goes on and roars.",
+   "severity": "error",
+   "reason": "Rashi compares יִגַּח 'gores' (נגח). The old summary had him derive the name 'from גִּיחַ', which he does not say."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.6.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Qal II.2 is 'live, walk', of a way of life. The entry in the pack has no Qal sense for the plain 'go, flow' of a river, so no sense is given."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.6.note",
+   "value": "participle with article: 'the one that goes'. Of a river, 'flows'. The entry's listed Qal senses (die; live, walk) do not fit, so none is cited.",
+   "severity": "error",
+   "reason": "The note now records why the sense was removed, as the brief requires."
+  },
+  {
+   "ref": "2:14",
+   "path": "commentary:radak:2:14:2.summary",
+   "value": "Radak cites the Rabbis (Genesis Rabbah 16): R. Yehudah says Perat is the same river as Kevar (Ezekiel's Chebar), named for its fruitful and increasing waters, and Rav Huna says Perat and Kevar are separate rivers. Perat is not tied to any land because it is known on the border of the land of Israel. The four rivers mark the four quarters, and the account shows that Moses wrote by the holy spirit.",
+   "severity": "error",
+   "reason": "הוּא כְּבָר הוּא פְרָת names the river Kevar (Chebar), and Rav Huna's view is that Perat and Kevar are separate. The old summary read כְּבָר as 'already'."
+  },
+  {
+   "ref": "2:14",
+   "path": "commentary:rashi:2:14:2.summary",
+   "value": "Rashi: Perat is so named because its waters are fruitful (פָּרִין) and multiply (רָבִין) and make people healthy (מַבְרִין). Cush and Asshur did not yet exist: Scripture writes by the future name.",
+   "severity": "style",
+   "reason": "מַבְרִין is 'make healthy, strengthen', of בָּרִיא. 'Make fat' is too narrow."
+  },
+  {
+   "ref": "2:15",
+   "path": "token:2:15.1.sense",
+   "value": "Qal 7",
+   "severity": "error",
+   "reason": "Sense Qal 1 'take in hand' does not fit taking a person from one place to another. Radak compares וָאֶקַּח אֶת אֲבִיכֶם (Josh 24:3) and says He took him from where he was made, near Eden, and Onkelos renders וּדְבַר 'and led'. That is Qal 7 'take, lead, conduct'."
+  },
+  {
+   "ref": "2:15",
+   "path": "token:2:15.6.note",
+   "value": "Hiphil wayyiqtol of נוח, the form with doubled נ (הִנִּיחַ 'set down, place, leave'), with the 3rd masculine singular suffix: 'and he set him'",
+   "severity": "error",
+   "reason": "The old note said 'he made him rest', which is the other Hiphil (הֵנִיחַ, Hiph A). The doubled נ marks the B forms, and the cited sense Hiph B.1 is correct."
+  },
+  {
+   "ref": "2:15",
+   "path": "grammar",
+   "value": [
+    "וַיַּנִּחֵהוּ is Hiphil of נוח with a pronominal suffix. The doubled נ marks the Hiphil הִנִּיחַ 'set down, place', not הֵנִיחַ 'give rest': 'and he set him'. It is a different verb from וַיָּשֶׂם in 2:8.",
+    "The feminine suffixes in לְעָבְדָהּ וּלְשָׁמְרָהּ point to the garden, since גַּן may be feminine (Ibn Ezra); Radak also allows that they point to the ground.",
+    "The tevir on וַיִּקַּח and the etnaḥta on הָאָדָם divide the verse into 'took the human' and 'put him in the garden'.",
+    "Two infinitives with ל state purpose: 'to work it and to guard it'.",
+    "The wayyiqtol chain: took, set. The first repeats the 'put' of 2:8, adding purpose (Radak)."
+   ],
+   "severity": "error",
+   "reason": "The old note 1 glossed the form as 'he put him to rest', the sense of the other Hiphil. The form here, with doubled נ, means 'place, set down'."
+  },
+  {
+   "ref": "2:15",
+   "path": "commentary:ibn-ezra:2:15:2.summary",
+   "value": "Ibn Ezra: 'to work it' means to water the garden, and 'to guard it' means to keep all the animals from entering and fouling it. He then reports that some take it as serving His commandment (the midrashic reading of positive and negative commandments).",
+   "severity": "error",
+   "reason": "The text וי\"א כי כן פי' לעבוד מצותו והמצוה... reports another opinion, and it states no rejection. The old summary had Ibn Ezra reject it 'since a commandment is not served', which the words do not say."
+  },
+  {
+   "ref": "2:16",
+   "path": "english",
+   "value": "The LORD God commanded the human, saying: \"You may eat freely from every tree of the garden.",
+   "severity": "error",
+   "reason": "God's speech continues in 2:17 ('But from the tree of the knowledge...'), so the quotation cannot close here. The translator's own grammar note says the sentence is only the first half of the command. The closing mark is removed. 2:17 must close the quotation."
+  },
+  {
+   "ref": "2:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:16.1",
+      "2:16.2",
+      "2:16.3"
+     ],
+     "english": "The LORD God commanded",
+     "literal": "'and-commanded the-LORD God'"
+    },
+    {
+     "tokens": [
+      "2:16.4",
+      "2:16.5"
+     ],
+     "english": "the human",
+     "literal": "'upon the-human'"
+    },
+    {
+     "tokens": [
+      "2:16.6"
+     ],
+     "english": "saying",
+     "literal": "'to-say': introduces speech"
+    },
+    {
+     "tokens": [
+      "2:16.7",
+      "2:16.8",
+      "2:16.9",
+      "2:16.10",
+      "2:16.11"
+     ],
+     "english": "\"You may eat freely from every tree of the garden.",
+     "literal": "'from-every-of tree-of the-garden eating you-will-eat'; the order is fronted for emphasis"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase follows the new English line: the quotation stays open."
+  },
+  {
+   "ref": "2:16",
+   "path": "note",
+   "value": "The imperfect with infinitive absolute is rendered as a permission with 'freely' (Radak: the infinitive strengthens the verb). Ibn Ezra reads צִוָּה עַל as introducing the prohibition of 2:17: although the fruit of the garden is allowed, the tree of knowledge is not. Radak asks whether the command refers to 'you shall not eat' or to both parts. The speech runs on into 2:17, so the quotation is left open here.",
+   "severity": "error",
+   "reason": "The old note said the verse closes the quotation. The Hebrew has no such close, and the speech continues in 2:17."
+  },
+  {
+   "ref": "2:16",
+   "path": "commentary:sforno:2:16:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Sforno: 'from every tree of the garden', each in its season as the seasons change with the aspects of the stars, as in לָחֳדָשָׁיו יְבַכֵּר (Ezek 47:12)."
+   },
+   "severity": "error",
+   "reason": "מַבָּטֵי הַכּוֹכָבִים are the astrological aspects of the stars, not 'as the stars look on'. The comment is about natural philosophy and does not bear on the plain sense, so 'records' becomes not-applicable."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:2:9:1",
+   "verdict": "consistent",
+   "comment": "The English keeps the verse's own words, and nothing in it extends the growth beyond the garden."
+  },
+  {
+   "anchor": "rashi:2:9:2",
+   "verdict": "consistent",
+   "comment": "'in the middle of' is Rashi's בָּאֶמְצַע."
+  },
+  {
+   "anchor": "ibn-ezra:2:9:1",
+   "verdict": "consistent",
+   "comment": "The English 'every tree ... and the tree of life ... and the tree of the knowledge' matches his 'and in addition two trees in its midst'."
+  },
+  {
+   "anchor": "ibn-ezra:2:9:2",
+   "verdict": "consistent",
+   "comment": "'the tree of the knowledge of good and evil' carries his supplied 'knowledge'."
+  },
+  {
+   "anchor": "ibn-ezra:2:10:1",
+   "verdict": "consistent",
+   "comment": "'A river flows out of Eden to water the garden' agrees."
+  },
+  {
+   "anchor": "ibn-ezra:2:10:2",
+   "verdict": "consistent",
+   "comment": "'headwaters' keeps 'head' as the sense of רָאשִׁים."
+  },
+  {
+   "anchor": "rashi:2:11:1",
+   "verdict": "consistent",
+   "comment": "The English gives the name without identifying it. Rashi's identification and etymology are kept in the notes."
+  },
+  {
+   "anchor": "ibn-ezra:2:11:1",
+   "verdict": "consistent",
+   "comment": "The English names no identification, which is in line with his doubt."
+  },
+  {
+   "anchor": "ibn-ezra:2:12:1",
+   "verdict": "consistent",
+   "comment": "'bdellium' and 'onyx stone' leave the identity open, as he does."
+  },
+  {
+   "anchor": "rashi:2:13:1",
+   "verdict": "consistent",
+   "comment": "The etymology stays in the notes, as the decisions require."
+  },
+  {
+   "anchor": "rashi:2:14:1",
+   "verdict": "consistent",
+   "comment": "The etymology stays in the notes."
+  },
+  {
+   "anchor": "rashi:2:14:2",
+   "verdict": "consistent",
+   "comment": "The etymology and the anachronism stay in the notes."
+  },
+  {
+   "anchor": "rashi:2:14:3",
+   "verdict": "consistent",
+   "comment": "'east of Assyria' is his לְמִזְרָחָהּ שֶׁל אַשּׁוּר."
+  },
+  {
+   "anchor": "rashi:2:14:4",
+   "verdict": "consistent",
+   "comment": "Nothing in the English contradicts it. The comment concerns the river's importance."
+  },
+  {
+   "anchor": "ibn-ezra:2:14:1",
+   "verdict": "consistent",
+   "comment": "'east of Assyria' is his 'to the east of Asshur'."
+  },
+  {
+   "anchor": "rashi:2:15:1",
+   "verdict": "consistent",
+   "comment": "A homiletic sense of 'took'. The plain 'took' does not contradict it."
+  },
+  {
+   "anchor": "ibn-ezra:2:15:1",
+   "verdict": "consistent",
+   "comment": "'it' refers to the garden, as he says."
+  },
+  {
+   "anchor": "ibn-ezra:2:15:2",
+   "verdict": "consistent",
+   "comment": "'work it and guard it' is consistent with his watering and guarding against animals."
+  },
+  {
+   "anchor": "ibn-ezra:2:16:1",
+   "verdict": "consistent",
+   "comment": "'commanded' introduces a command that 2:17 turns into the prohibition."
+  }
+ ]
+}

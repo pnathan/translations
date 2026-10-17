@@ -1,0 +1,479 @@
+{
+ "unit": "bereshit-08",
+ "model": "opus",
+ "summary": "The unit is sound in its main lines: the English is plain and close, and the rulings on the normative comments are mostly right. Its main faults: 2:20 left the subject of 'did not find' open, against Rashi and Ibn Ezra, who agree it is the human ('for himself'), and it dropped Ibn Ezra's 'all' for the birds. In 2:19 the glosses of נֶפֶשׁ and חַיָּה were swapped. The senses were partly filled mechanically: אָדָם took the collective sense throughout, בָּשָׂר, בּוֹא and עָזַב had the wrong sense, and בְּהֵמָה had a listed sense that contradicts its gloss. Several learner notes and summaries misstate the Hebrew or the commentator (the tipḥa called pausal, Ibn Ezra's 'heavy stem' called Hifil, a dagesh in לֻקְחָה, Ibn Ezra's 'equal to him' at 2:18).",
+ "patches": [
+  {
+   "ref": "2:17",
+   "path": "token:2:17.6.note",
+   "value": "imperfect with לֹא: a prohibition. תֹאכַל with pataḥ is the ordinary form in context; in pause it is תֹּאכֵל, as at the end of 2:16. The tipḥa is not a pausal accent.",
+   "severity": "error",
+   "reason": "The note calls tipḥa a pausal accent; it is not, and the form here is the contextual one."
+  },
+  {
+   "ref": "2:18",
+   "path": "token:2:18.7.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "הָאָדָם here is one individual (he is put to sleep, names the animals, speaks); BDB sense 1 'a man', a human being, fits; sense 2 is the collective 'man, mankind'."
+  },
+  {
+   "ref": "2:18",
+   "path": "note",
+   "value": "'Corresponding to him' keeps the meaning 'a match, what stands opposite him' (Sforno: as one equal to him; Radak: before him, always ready to help him). Rashi's reading, 'against him, to fight' if he is not worthy, is kept in the commentary entry.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not say 'equal to him': his comment on עֵזֶר is only 'two are better than one' (Eccl 4:9). Sforno says it; Radak says 'before him, to help him'."
+  },
+  {
+   "ref": "2:19",
+   "path": "token:2:19.13.sense",
+   "value": "Hiph 2",
+   "severity": "error",
+   "reason": "Here the animals are brought to a person ('cause to come, bring'), not brought into a place (Hiph 1 'bring in')."
+  },
+  {
+   "ref": "2:19",
+   "path": "token:2:19.15.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "הָאָדָם here is one individual (he is put to sleep, names the animals, speaks); BDB sense 1 'a man', a human being, fits; sense 2 is the collective 'man, mankind'."
+  },
+  {
+   "ref": "2:19",
+   "path": "token:2:19.24.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "הָאָדָם here is one individual (he is put to sleep, names the animals, speaks); BDB sense 1 'a man', a human being, fits; sense 2 is the collective 'man, mankind'."
+  },
+  {
+   "ref": "2:19",
+   "path": "token:2:19.25.gloss",
+   "value": "creature",
+   "severity": "error",
+   "reason": "נֶפֶשׁ is the noun 'breathing being, creature'; the gloss 'a living' belongs to the adjective חַיָּה. The two glosses were swapped."
+  },
+  {
+   "ref": "2:19",
+   "path": "token:2:19.25.note",
+   "value": "the noun: 'a breathing being'; the adjective חַיָּה follows it, so נֶפֶשׁ חַיָּה is 'living creature'",
+   "severity": "style",
+   "reason": "The note now explains the order noun + adjective that the corrected glosses show."
+  },
+  {
+   "ref": "2:19",
+   "path": "token:2:19.26.gloss",
+   "value": "living",
+   "severity": "error",
+   "reason": "חַיָּה here is the adjective 'living' agreeing with נֶפֶשׁ; the gloss 'being' belongs to the noun."
+  },
+  {
+   "ref": "2:19",
+   "path": "commentary:ibn-ezra:2:19:1.summary",
+   "value": "Ibn Ezra: the lamed of לוֹ serves itself and another word with it: read 'whatever the human would call it, to (each) living creature' (לנפש חיה), 'that is its name'. The extra לוֹ adds clarity, like 'she opened it and saw him, the child' (Ex 2:6).",
+   "severity": "error",
+   "reason": "Ibn Ezra carries the lamed over to נֶפֶשׁ חַיָּה, 'to the living creature', the one named. The summary's 'called it as a living being' gives the lamed the sense 'as', which is close to Ramban's different reading."
+  },
+  {
+   "ref": "2:20",
+   "path": "english",
+   "value": "The human gave names to all the livestock and the birds of the sky, and to every animal of the field; but for himself the human did not find a helper corresponding to him.",
+   "severity": "error",
+   "reason": "Rashi (he says 'I have no mate') and Ibn Ezra ('for himself he found none'; he calls the LORD as subject 'far') agree that the human is the one who does not find, and that וּלְאָדָם means 'for himself'. 'For the human he did not find' reads as someone else finding. Ibn Ezra also says the 'all' of לְכָל serves 'the birds' too, which 'all the livestock and the birds' now carries."
+  },
+  {
+   "ref": "2:20",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:20.1",
+      "2:20.2",
+      "2:20.3"
+     ],
+     "english": "The human gave names",
+     "literal": "'and-called the-human names'"
+    },
+    {
+     "tokens": [
+      "2:20.4",
+      "2:20.5"
+     ],
+     "english": "to all the livestock",
+     "literal": "'to-every-of the-livestock'"
+    },
+    {
+     "tokens": [
+      "2:20.6",
+      "2:20.7"
+     ],
+     "english": "and the birds of the sky",
+     "literal": "'and-to-bird-of the-heavens'; with Ibn Ezra, the 'all' of לְכָל also governs this noun"
+    },
+    {
+     "tokens": [
+      "2:20.8",
+      "2:20.9",
+      "2:20.10"
+     ],
+     "english": "and to every animal of the field",
+     "literal": "'and-to-every-of animal-of the-field'"
+    },
+    {
+     "tokens": [
+      "2:20.11",
+      "2:20.12",
+      "2:20.13"
+     ],
+     "english": "but for himself the human did not find",
+     "literal": "'and-for-human not he-found'; the ו is adversative; with Ibn Ezra, אָדָם stands for 'himself', and the human is the subject of מָצָא"
+    },
+    {
+     "tokens": [
+      "2:20.14",
+      "2:20.15"
+     ],
+     "english": "a helper corresponding to him",
+     "literal": "'help like-opposite-him'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed two fragments."
+  },
+  {
+   "ref": "2:20",
+   "path": "token:2:20.2.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "הָאָדָם here is one individual (he is put to sleep, names the animals, speaks); BDB sense 1 'a man', a human being, fits; sense 2 is the collective 'man, mankind'."
+  },
+  {
+   "ref": "2:20",
+   "path": "token:2:20.5.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The pack's only sense for בְּהֵמָה is 3 'wild beasts', which contradicts the gloss 'livestock': here the tame animals are set beside 'the animal of the field'. The right sense is not listed, so the sense is removed and the note says so."
+  },
+  {
+   "ref": "2:20",
+   "path": "token:2:20.5.note",
+   "value": "here the tame animals, set beside 'the animal of the field'. The pack's only listed sense for the entry, 'wild beasts' (3), does not fit, so no sense is given.",
+   "severity": "error",
+   "reason": "The old note credited Rashi with this reading; Rashi has no comment on the word in the pack."
+  },
+  {
+   "ref": "2:20",
+   "path": "token:2:20.11.gloss",
+   "value": "and for himself",
+   "severity": "error",
+   "reason": "With Ibn Ezra (normative), 'for Adam' means 'for himself'."
+  },
+  {
+   "ref": "2:20",
+   "path": "token:2:20.11.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "An individual, the human himself; not the collective 'mankind'."
+  },
+  {
+   "ref": "2:20",
+   "path": "token:2:20.11.note",
+   "value": "אָדָם without the article. Ibn Ezra: the noun stands for the pronoun, 'and for himself', as in 1 Sam 12:11. A proper-name reading 'for Adam' is kept in the apparatus.",
+   "severity": "style",
+   "reason": "The note now matches the gloss."
+  },
+  {
+   "ref": "2:20",
+   "path": "grammar",
+   "value": [
+    "לְכָל־הַבְּהֵמָה: Ibn Ezra says the word לְכָל 'draws itself and another with it': its 'all' also governs וּלְעוֹף הַשָּׁמַיִם, 'and to all the birds of the sky' (compare Deut 33:6, Prov 30:3).",
+    "Anarthrous וּלְאָדָם: Ibn Ezra reads 'and for himself', as the Hebrew idiom puts the name of a person for the person. Rashi has the human speak of himself.",
+    "The subject of לֹא־מָצָא is the human, not the LORD God (Ibn Ezra calls the reading with the LORD as subject 'far').",
+    "The zaqef gadol on וּלְאָדָם marks the turn from the naming to the lack."
+   ],
+   "severity": "error",
+   "reason": "The first note said the 'to' is carried over; וּלְעוֹף already has its own lamed. Ibn Ezra's point is that the word לְכָל, 'to all', serves the birds too."
+  },
+  {
+   "ref": "2:20",
+   "path": "note",
+   "value": "'For himself' follows Ibn Ezra: the noun אָדָם, without the article, stands for the pronoun, and the human is the subject of מָצָא. Rashi agrees on the subject: the human says 'I have no mate'. 'All' is given to the livestock and the birds together, as Ibn Ezra reads לְכָל. A proper-name reading 'for Adam' is kept in the apparatus.",
+   "severity": "error",
+   "reason": "The old note described the English 'for the human', which has been changed."
+  },
+  {
+   "ref": "2:20",
+   "path": "commentary:ibn-ezra:2:20:1.summary",
+   "value": "Ibn Ezra: the word לְכָל in לְכָל הַבְּהֵמָה also 'draws itself and another with it': the sense is 'and to all the birds of the sky'. Compare Deut 33:6 and Prov 30:3.",
+   "severity": "error",
+   "reason": "Ibn Ezra's point is that 'all' serves the birds too. The summary's 'and to the birds of the sky' leaves that out."
+  },
+  {
+   "ref": "2:20",
+   "path": "commentary:ramban:2:20:1.summary",
+   "value": "Ramban praises Rashi's reading (the naming is placed inside the account of the helper). His own view: the naming was itself the search for a helper. In naming, the human set apart the kinds that can breed with one another, and found none fit for himself. 'For Adam' means 'for the name of Adam', a helper to be called by his name.",
+   "severity": "style",
+   "reason": "The old summary did not say what Ramban says."
+  },
+  {
+   "ref": "2:21",
+   "path": "token:2:21.6.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "הָאָדָם here is one individual (he is put to sleep, names the animals, speaks); BDB sense 1 'a man', a human being, fits; sense 2 is the collective 'man, mankind'."
+  },
+  {
+   "ref": "2:21",
+   "path": "token:2:21.12.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The flesh of the body, closed over the place of the side: BDB sense 1 'of the body', not 2 'the body itself'."
+  },
+  {
+   "ref": "2:21",
+   "path": "commentary:rashi:2:21:2.summary",
+   "value": "Rashi: 'and he closed' means at the place of the cut: the flesh was closed over the spot from which the side was taken.",
+   "severity": "error",
+   "reason": "Rashi does not say the verb means 'the place of the cut'. He says where the closing was: at the place of the incision."
+  },
+  {
+   "ref": "2:22",
+   "path": "token:2:22.9.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "הָאָדָם here is one individual (he is put to sleep, names the animals, speaks); BDB sense 1 'a man', a human being, fits; sense 2 is the collective 'man, mankind'."
+  },
+  {
+   "ref": "2:22",
+   "path": "token:2:22.13.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "הָאָדָם here is one individual (he is put to sleep, names the animals, speaks); BDB sense 1 'a man', a human being, fits; sense 2 is the collective 'man, mankind'."
+  },
+  {
+   "ref": "2:22",
+   "path": "token:2:22.11.sense",
+   "value": "Hiph 2",
+   "severity": "error",
+   "reason": "She is brought to a person ('cause to come, bring'), not brought into a place (Hiph 1)."
+  },
+  {
+   "ref": "2:22",
+   "path": "token:2:22.11.note",
+   "value": "wayyiqtol Hifil with 3rd fem. sing. suffix; written defectively, without the yod of the full spelling וַיְבִיאֶהָ",
+   "severity": "error",
+   "reason": "The vowel is the same ḥireq. Only the yod (mater lectionis) is missing, so 'without the long vowel' is wrong."
+  },
+  {
+   "ref": "2:22",
+   "path": "grammar",
+   "value": [
+    "וַיִּבֶן is a shortened wayyiqtol of בנה in the Qal ('built'). Ibn Ezra says the form can be taken from the 'heavy' stem and also from the 'light' stem, like וַיִּפֶן and וַיִּקֶן. The verb takes the side as object.",
+    "לְאִשָּׁה: the preposition ל marks the result of the building, 'into a woman' (Rashi), not a purpose clause.",
+    "אֲשֶׁר־לָקַח is a perfect in a relative clause, a pluperfect in sense ('had taken').",
+    "From וַיִּבֶן the conjunctive accents (telisha qetana, qadma, darga) bind the verb to its subject. The paseq after אֱלֹהִים and the tevir on הַצֵּלָע make the first breaks, and the etnaḥta on לְאִשָּׁה divides the building from the bringing."
+   ],
+   "severity": "error",
+   "reason": "Ibn Ezra's term is הבנין הכבד, 'the heavy stem'; at 2:21 he marks the Hifil as הכבד הנוסף, so 'Hifil' here is not his term. Telisha qetana, qadma and darga are conjunctive and divide nothing."
+  },
+  {
+   "ref": "2:22",
+   "path": "commentary:ibn-ezra:2:22:1.summary",
+   "value": "Ibn Ezra: וַיִּבֶן may be taken from the 'heavy' stem and also from the 'light' stem (Qal), like וַיִּפֶן (Ex 7:23) and וַיִּקֶן (Gen 33:19).",
+   "severity": "error",
+   "reason": "He says הבנין הכבד, not the Hifil, which he calls הכבד הנוסף at 2:21."
+  },
+  {
+   "ref": "2:23",
+   "path": "token:2:23.2.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "הָאָדָם here is one individual (he is put to sleep, names the animals, speaks); BDB sense 1 'a man', a human being, fits; sense 2 is the collective 'man, mankind'."
+  },
+  {
+   "ref": "2:23",
+   "path": "token:2:23.5.note",
+   "value": "absolute; with the partitive מִן that follows, 'a bone from my bones', that is 'bone of my bones'",
+   "severity": "error",
+   "reason": "The pack parses עֶצֶם as absolute, and the following word has מִן; there is no construct."
+  },
+  {
+   "ref": "2:23",
+   "path": "token:2:23.7.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The flesh of his body, from which she was taken: sense 1 'of the body'."
+  },
+  {
+   "ref": "2:23",
+   "path": "token:2:23.8.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "As 2:23.7."
+  },
+  {
+   "ref": "2:23",
+   "path": "grammar",
+   "value": [
+    "זֹאת הַפַּעַם: 'this one, the time', hence 'this time'. The etnaḥta on מִבְּשָׂרִי divides the verse into the recognition and the naming. In the first half, the revia on הַפַּעַם and the zaqef on מֵעֲצָמַי set off 'this time', 'bone of my bones' and 'flesh of my flesh'.",
+    "עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי: two parallel lines, with a verbless clause: the first colon names bone, the second flesh.",
+    "אִשָּׁה and אִישׁ: a wordplay. Rashi: the Holy Tongue is the language of creation; Ibn Ezra explains the dagesh in שׁ as in place of the yod of אִישׁ.",
+    "יִקָּרֵא is a Nifal imperfect; לֻקְחָה is a Pual perfect (WLC vowels לֻקֳחָה). The qof has no dagesh (Radak: 'the qof is rafe')."
+   ],
+   "severity": "error",
+   "reason": "The main division is the etnaḥta, not 'revia and zaqef into two cola'. The note wrote לֻקְּחָה with a dagesh in the qof, which neither witness has."
+  },
+  {
+   "ref": "2:23",
+   "path": "commentary:ibn-ezra:2:23:2.summary",
+   "value": "Ibn Ezra: לְזֹאת means 'for this one, concerning this one' (בעבור זאת), as 'say of me, He is my brother' (Gen 20:13).",
+   "severity": "error",
+   "reason": "The summary misvocalized the word (וְלָזֹאת). Ibn Ezra's parallel ('say of me') gives the sense 'concerning this one', not a cause, 'because of'."
+  },
+  {
+   "ref": "2:24",
+   "path": "token:2:24.3.sense",
+   "value": "Qal 1",
+   "severity": "error",
+   "reason": "'Leave, depart from' the parents' house. Radak gives the plain sense: he leaves off dwelling with them, not that he forsakes them (Qal 2 'abandon, forsake')."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:2:17:1",
+   "verdict": "consistent",
+   "comment": "The English keeps the doubled 'from the tree ... from it'."
+  },
+  {
+   "anchor": "rashi:2:18:1",
+   "verdict": "consistent",
+   "comment": "A homiletic reason for 'not good'; the English keeps the plain words."
+  },
+  {
+   "anchor": "rashi:2:18:2",
+   "verdict": "consistent",
+   "comment": "A derash on כְּנֶגְדּוֹ ('against him' if unworthy); the neutral English stands and the reading is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:2:18:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:18:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:19:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:19:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:19:1",
+   "verdict": "consistent",
+   "comment": "The English matches; the summary was corrected."
+  },
+  {
+   "anchor": "rashi:2:20:1",
+   "verdict": "consistent",
+   "comment": "With the patched English, the human is the one who finds no mate."
+  },
+  {
+   "anchor": "ibn-ezra:2:20:1",
+   "verdict": "contradicts",
+   "comment": "The English gave 'all' only to the livestock; patched to 'to all the livestock and the birds of the sky'."
+  },
+  {
+   "anchor": "ibn-ezra:2:20:2",
+   "verdict": "contradicts",
+   "comment": "'For the human he did not find' reads as another subject; patched to 'for himself the human did not find'."
+  },
+  {
+   "anchor": "rashi:2:21:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:21:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:21:3",
+   "verdict": "not-applicable",
+   "comment": "The motive for the sleep; it does not bear on the words."
+  },
+  {
+   "anchor": "ibn-ezra:2:21:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:21:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:21:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:21:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:22:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:22:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:22:1",
+   "verdict": "consistent",
+   "comment": "A point of form only; the summary was corrected."
+  },
+  {
+   "anchor": "ibn-ezra:2:22:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:23:1",
+   "verdict": "not-applicable",
+   "comment": "Homily on 'this time'."
+  },
+  {
+   "anchor": "rashi:2:23:2",
+   "verdict": "consistent",
+   "comment": "'Woman ... man' keeps the wordplay."
+  },
+  {
+   "anchor": "ibn-ezra:2:23:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:23:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:23:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:23:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:2:24:1",
+   "verdict": "not-applicable",
+   "comment": "A legal derivation; it also places the verse outside Adam's speech, as the English does."
+  },
+  {
+   "anchor": "rashi:2:24:2",
+   "verdict": "consistent",
+   "comment": "Rashi's 'the child' differs from Ibn Ezra's 'as if one'; the English 'one flesh' carries both, and Rashi's reading is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:2:23:6",
+   "verdict": "consistent"
+  }
+ ]
+}

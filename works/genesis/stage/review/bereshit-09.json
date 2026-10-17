@@ -1,0 +1,275 @@
+{
+ "unit": "bereshit-09",
+ "model": "opus",
+ "summary": "A careful, accurate unit: the English of all eight verses is sound, the senses are well chosen, and the rulings on Rashi and Ibn Ezra are mostly right. The faults are in the rulings and the learner notes: Ibn Ezra and Radak on אַף כִּי (3:1) are marked 'follows' although the English follows Rashi's question against their a-fortiori reading; two commentary summaries misread the Hebrew (Ibn Ezra on the missing dagesh at 2:23, Radak's yod of prolongation at 3:7); and several notes on accents and syntax are false (the doubled pashta called a pair, a disjunctive zaqef said to join, an emphatic הֵם). The apparatus misattributes the fig to Radak and עֵירֻמִּים to the Targum.",
+ "patches": [
+  {
+   "ref": "2:25",
+   "path": "commentary:ibn-ezra:2:23:5.summary",
+   "value": "Filed at 2:23 and matched to וְלֹא only by its opening word: Ibn Ezra says the qof of לֻקֳחָה (2:23) is not given a dagesh (ולא נדגש), to ease the tongue, although the form is of the heavy binyan; the text breaks off. It does not bear on 2:25.",
+   "severity": "error",
+   "reason": "The comment says the qof is NOT doubled ('ולא נדגש') to ease pronunciation; the summary made it say the dagesh eases the tongue."
+  },
+  {
+   "ref": "3:1",
+   "path": "commentary:ibn-ezra:3:1:2.relation",
+   "value": "records",
+   "severity": "error",
+   "reason": "Ibn Ezra reads אף כי as the close of a longer speech ending in an a fortiori statement ('how much more, that He told you not to eat of any tree at all'), not a question. The English 'Is it really so that ...?' follows Rashi's question (שמא אמר לכם); Ibn Ezra's reading is a real alternative, recorded, not followed."
+  },
+  {
+   "ref": "3:1",
+   "path": "commentary:radak:3:1:8.relation",
+   "value": "records",
+   "severity": "error",
+   "reason": "Radak takes אף as 'all the more so' (כל שכן, 3:1:9) closing earlier words; the English is a question after Rashi, so Radak's reading is recorded, not followed."
+  },
+  {
+   "ref": "3:1",
+   "path": "commentary:ibn-ezra:3:1:1.summary",
+   "value": "Ibn Ezra rejects the views that the woman understood the speech of animals and the serpent spoke by hints, that the serpent was Satan, and Saadia's view that an angel spoke for it; he holds that the words are as they sound: the serpent spoke and walked upright. 'Shrewd' means wise, doing things with cunning, 'but not like the human'; ערום after ערומים is an elegance of language, as in Judges 15:16.",
+   "severity": "style",
+   "reason": "The first rejected view is speech by hints (ברמיזה) understood by the woman, not 'a sign'; 'sign' suggests a miracle, which is Radak's view, not one Ibn Ezra rejects here."
+  },
+  {
+   "ref": "3:1",
+   "path": "grammar",
+   "value": [
+    "וְהַנָּחָשׁ הָיָה עָרוּם is waw + subject + qatal: a background clause that introduces a new character, not a step in the narrative sequence.",
+    "עָרוּם 'shrewd' and עֲרוּמִּים 'naked' (2:25) sound alike; Ibn Ezra takes this as deliberate play on the two senses, as in Judges 15:16 and 10:4. Radak distinguishes them by vowels: shureq for wisdom, holem for 'naked'.",
+    "מִכֹּל after the adjective is the comparative min: 'shrewder than all'. Rashi sets it beside 'cursed above all' (3:14).",
+    "אַף כִּי has no interrogative particle: the question is carried by the elliptical אַף כִּי and by tone. The serpent says אֱלֹהִים and not יְהוָה אֱלֹהִים, the name used by the narrator (Ibn Ezra: they did not know the name).",
+    "The etnaḥta on אֱלֹהִים (3:1.10) ends the narrator's description. The pashta on וַיֹּאמֶר is written twice because the word is stressed on its first syllable: pashta stands on the last letter, and a second sign marks the stressed syllable."
+   ],
+   "severity": "error",
+   "reason": "The doubled pashta on וַיֹּאמֶר is one accent written twice to mark penultimate stress, not 'a pashta pair'."
+  },
+  {
+   "ref": "3:1",
+   "path": "apparatus",
+   "value": [
+    "Onkelos: חַכִּים 'wise' for עָרוּם, and בְּקוּשְׁטָא 'in truth' for אַף כִּי.",
+    "Sforno: the serpent is the evil inclination, which Scripture names after the creature it resembles; Ibn Ezra rejects the view that it was Satan. Radak records the midrash of the serpent ridden by Samael.",
+    "Radak (3:1:4) and Ibn Ezra differ on the nature of the serpent's wisdom: Radak says it was cunning of the imaginative faculty found in animals, as in the fox, not the intellect; Ibn Ezra says it was a real, if limited, wisdom.",
+    "Ibn Ezra and Radak read אַף כִּי as 'how much more, that God said ...', the end of a longer exchange, not a question; Rashi reads a question, 'perhaps He said ...'. The English follows Rashi."
+   ],
+   "severity": "error",
+   "reason": "The imaginative-faculty comment is Radak 3:1:4, not 3:1:3 (which is the vowel distinction); and the a-fortiori reading of Ibn Ezra and Radak, now marked 'records', belongs in the apparatus."
+  },
+  {
+   "ref": "3:5",
+   "path": "grammar",
+   "value": [
+    "Two כִּי clauses open the verse: the first gives the reason ('for'), the second the content of God's knowledge ('that').",
+    "בְּיוֹם אֲכָלְכֶם מִמֶּנּוּ is the infinitive construct with a suffix, 'on the day of your eating from it', and repeats the wording of 2:17.",
+    "וְנִפְקְחוּ and וִהְיִיתֶם are weqatal forms: the future consequences of the eating; נִפְקְחוּ is the Niphal of פקח, so 'will be opened' is passive. The sheva of וְ becomes hireq before the yod of וִהְיִיתֶם.",
+    "כֵּאלֹהִים: אֱלֹהִים is plural in form and has no article; with a plural participle 'knowers' it can be read as 'like gods' or 'like divine beings'. The zaqef on כֵּאלֹהִים is disjunctive: it divides כֵּאלֹהִים from יֹדְעֵי טוֹב וָרָע, which allows 'knowing good and evil' as a second predicate of 'you', but does not decide it.",
+    "The revia on the second כִּי sets off the content of God's knowledge; the etnaḥta falls after עֵינֵיכֶם."
+   ],
+   "severity": "error",
+   "reason": "A zaqef is a disjunctive accent: it separates כֵּאלֹהִים from יֹדְעֵי, it does not 'join' יֹדְעֵי with 'you'."
+  },
+  {
+   "ref": "3:5",
+   "path": "apparatus",
+   "value": [
+    "Onkelos: אֲרֵי גַּלֵּי קֳדָם יְיָ ... וּתְהוֹן כְּרַבְרְבִין חַכִּימִין 'for it is revealed before the LORD ... and you will be like great, wise ones': אֱלֹהִים as 'great ones' (BDB 1.a), 'knowing' as 'wise'.",
+    "Sforno: the serpent says God forbade the fruit because He knows you would gain added knowledge, not from fear of death.",
+    "Whether יֹדְעֵי goes with 'you' or with 'divine beings' is open; the zaqef on כֵּאלֹהִים separates the two words, which favours 'you' but does not decide."
+   ],
+   "severity": "error",
+   "reason": "Same fault as the grammar note: the accents do not join יֹדְעֵי with 'you'."
+  },
+  {
+   "ref": "3:6",
+   "path": "grammar",
+   "value": [
+    "Three clauses follow וַתֵּרֶא: good for eating, a delight to the eyes, desirable for gaining insight. The first two open with כִּי; the third has no כִּי of its own and uses a Niphal participle.",
+    "נֶחְמָד is a Niphal participle, 'to be desired'; לְהַשְׂכִּיל is the Hiphil infinitive of שׂכל, 'to have insight' or 'to make wise': Ibn Ezra and Rashi take it as gaining insight, 'knowing good and evil' (3:5).",
+    "תַאֲוָה־הוּא has the pronoun הוּא as copula: 'it is a delight'. The maqqef joins the two; the accent on הוּא is munaḥ.",
+    "The series of wayyiqtols is quick: she took, ate, gave, and he ate. The husband is the subject of the last verb only.",
+    "The woman is אִשָּׁה and her husband אִישׁ: the pair of 2:23 is used again, now as 'her husband'.",
+    "The accents: the pazer on הָאִשָּׁה, the geresh on לְמַאֲכָל, the darga on וְכִי, and the etnaḥta on וַתֹּאכַל; the tevir on לְאִישָׁהּ."
+   ],
+   "severity": "style",
+   "reason": "'Three כִּי clauses ... the third has no כִּי' contradicts itself."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.3.note",
+   "value": "כִּי introduces what she saw; it opens the first two of three object clauses",
+   "severity": "style",
+   "reason": "Only two of the three clauses have כִּי."
+  },
+  {
+   "ref": "3:6",
+   "path": "apparatus",
+   "value": [
+    "Onkelos: אַסֵּי הוּא לְעַיְנִין 'it is healing to the eyes' for תַאֲוָה־הוּא לָעֵינַיִם, and מְרַגֵּג אִילָנָא לְאִסְתַּכָּלָא בֵהּ 'the tree pleases to look at'; a different sense for לְהַשְׂכִּיל.",
+    "Radak (3:6:4): she ate twice, he once.",
+    "The identity of the tree is not given in the text: Rashi (3:7), a fig; Radak (3:7) cites the Rabbis' fig, wheat and citron and the view that it was never revealed, and says 'we do not know'; Ibn Ezra, one of two trees found only in the garden."
+   ],
+   "severity": "error",
+   "reason": "Radak does not name the tree a fig: he lists the rabbinic views and concludes ואנחנו לא ידענו."
+  },
+  {
+   "ref": "3:7",
+   "path": "grammar",
+   "value": [
+    "וַתִּפָּקַחְנָה is a wayyiqtol Niphal with the feminine plural ending -נָה, agreeing with the feminine dual עֵינֵי; it fulfils the serpent's וְנִפְקְחוּ (3:5), the same Niphal of פקח. The pashta is written twice because the word is stressed before its last syllable: pashta stands on the last letter, and a second sign marks the stressed syllable.",
+    "וַיֵּדְעוּ כִּי introduces the content of what they knew, as כִּי in 3:5 introduced what God knows.",
+    "עֵירֻמִּם הֵם is a nominal clause: the predicate עֵירֻמִּם stands first and the pronoun הֵם is its subject, 'that naked they (were)'. The word-play עֲרוּמִּים (2:25), עָרוּם (3:1), עֵירֻמִּם is a chain of near-homonyms.",
+    "The wayyiqtols וַיִּתְפְּרוּ and וַיַּעֲשׂוּ narrate their act quickly; the etnaḥta falls after הֵם.",
+    "חֲגֹרֹת is a plural noun from the root חגר 'to gird': what is bound around the waist."
+   ],
+   "severity": "error",
+   "reason": "The doubled pashta is the regular way of writing pashta on a word not stressed on its last syllable, not 'a rare pair'; וַתִּפָּקַחְנָה is not 'the passive of' וְנִפְקְחוּ, which is itself a Niphal; and הֵם is the required subject of the nominal clause, not an emphatic addition."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.7.note",
+   "value": "the subject of the nominal clause, after its predicate: 'that naked they (were)'",
+   "severity": "error",
+   "reason": "הֵם is the subject of the verbless clause, not an added emphatic pronoun."
+  },
+  {
+   "ref": "3:7",
+   "path": "commentary:radak:3:7:3.summary",
+   "value": "Radak: עֵירֻמִּים is written with a yod of prolongation (יו״ד המשך), the yod after the ʿayin that marks the long vowel ē; this sets it apart in spelling from עֲרוּמִּים of 2:25. A note on spelling.",
+   "severity": "error",
+   "reason": "The 'yod ha-meshekh' is the mater lectionis after the ʿayin (עֵי־), which the text has; the summary read it as the missing plural yod and said the text lacks it."
+  },
+  {
+   "ref": "3:7",
+   "path": "apparatus",
+   "value": [
+    "MAM writes עֵירֻמִּם (defective, without the yod of the plural ending) where Rashi and Radak quote the full plural עֵירֻמִּים; no change of sense.",
+    "Onkelos: טַרְפֵי תְאֵנִין 'fig leaves' and זְרָזִין 'belts' for חֲגֹרֹת; עַרְטִילָאִין 'naked'.",
+    "Radak: the Rabbis name the tree a fig, wheat or citron; Ibn Ezra (3:6) thinks the fig is not the tree of knowledge, because the verse would then say 'leaves of the tree of knowledge'."
+   ],
+   "severity": "error",
+   "reason": "The Targum is Aramaic and reads עַרְטִילָאִין; it does not 'use the plural עֵירֻמִּים'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:2:25:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:23:5",
+   "verdict": "not-applicable",
+   "comment": "Concerns לֻקֳחָה in 2:23; matched only by its opening word."
+  },
+  {
+   "anchor": "ibn-ezra:2:25:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:2:25:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:1:1",
+   "verdict": "not-applicable",
+   "comment": "A homily on why the verse stands here."
+  },
+  {
+   "anchor": "rashi:3:1:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:1:3",
+   "verdict": "consistent",
+   "comment": "The English question 'Is it really so that God said' follows Rashi's 'perhaps He said to you'."
+  },
+  {
+   "anchor": "ibn-ezra:3:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:1:2",
+   "verdict": "contradicts",
+   "comment": "Ibn Ezra reads אף כי as an a-fortiori statement, Rashi as a question; they differ, the English follows Rashi, and Ibn Ezra's reading is now marked 'records' and given in the apparatus."
+  },
+  {
+   "anchor": "rashi:3:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:4:1",
+   "verdict": "consistent",
+   "comment": "A midrash, but it takes the words as the serpent's flat denial, as the English does."
+  },
+  {
+   "anchor": "rashi:3:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:5:2",
+   "verdict": "consistent",
+   "comment": "Rashi ('makers of worlds', i.e. like God) and Ibn Ezra ('like angels') differ; 'divine beings' admits both."
+  },
+  {
+   "anchor": "ibn-ezra:3:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:6:2",
+   "verdict": "consistent",
+   "comment": "Rashi says what the tree's goodness consisted in; the words 'good for eating' stand."
+  },
+  {
+   "anchor": "rashi:3:6:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:6:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:6:5",
+   "verdict": "not-applicable",
+   "comment": "A homily on her motive."
+  },
+  {
+   "anchor": "rashi:3:6:6",
+   "verdict": "not-applicable",
+   "comment": "A homily on גַּם."
+  },
+  {
+   "anchor": "ibn-ezra:3:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:6:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:6:4",
+   "verdict": "not-applicable",
+   "comment": "On the tree of life and the meaning of לעולם; misfiled at 3:6."
+  },
+  {
+   "anchor": "rashi:3:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:7:2",
+   "verdict": "consistent",
+   "comment": "A midrash on 'they knew'; the plain words stand."
+  },
+  {
+   "anchor": "rashi:3:7:3",
+   "verdict": "consistent"
+  }
+ ]
+}
