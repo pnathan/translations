@@ -63,6 +63,7 @@ func check(cfg *work.Config, args []string) error {
 			}
 		}
 		var tu *llm.TranslationUnit
+		var terrs []string
 		if p := llm.TranslationPath(cfg, id); exists(p) {
 			tu = &llm.TranslationUnit{}
 			if err := corpus.ReadJSON(p, tu); err != nil {
@@ -70,7 +71,7 @@ func check(cfg *work.Config, args []string) error {
 				tu = nil
 			} else {
 				for _, x := range e.CheckTranslation(tu) {
-					errs = append(errs, "translate: "+x)
+					terrs = append(terrs, "translate: "+x)
 				}
 			}
 		}
@@ -82,11 +83,16 @@ func check(cfg *work.Config, args []string) error {
 			case tu == nil:
 				errs = append(errs, "review: no translation to review")
 			default:
+				// The review checks the translation after its patches. A
+				// morph patch can change a lemma and so invalidate a sense
+				// of the unpatched translation; the review corrects it.
+				terrs = nil
 				for _, x := range e.CheckReview(&ru, tu, mu) {
 					errs = append(errs, "review: "+x)
 				}
 			}
 		}
+		errs = append(errs, terrs...)
 		if len(args) > 0 && !exists(llm.MorphPath(cfg, id)) && !exists(llm.TranslationPath(cfg, id)) && !exists(llm.ReviewPath(cfg, id)) {
 			errs = append(errs, "no model output for this unit")
 		}

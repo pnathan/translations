@@ -1,0 +1,2541 @@
+{
+ "unit": "perek-5-02",
+ "model": "opus",
+ "summary": "The English of Avot 5:7–5:12 is sound and follows Bartenura and Rambam throughout; the faults are in the word data. Many tokens point to wrong homographs (proper names such as Shebah, Arba, Sacar, Helek, Moza, Mattanah; the verb שָׁנָה for 'year'; 'father' for בָּא; 'tribute' for מִדָּה) where the pack lists the right Jastrow or BDB entry, and several senses were chosen mechanically. In 5:7 the Rambam summary misstates his reading of נִבְהָל (not 'hasty' but 'not confounded'), which must be recorded, and Bartenura's student/teacher division of 'asks ... answers' is not what the English follows. In 5:8 בָּא is the participle, not a perfect, and the note on בָּאָה's agreement with רָעָב is wrong. The model morphology omits the assimilated article after ב/כ/ל throughout, does not split the suffix of אֵינוֹ/אֵינָן, mis-segments הַשְׁמָטַת, and has a few wrong genders and states.",
+ "patches": [
+  {
+   "ref": "5:7",
+   "path": "token:5:7.1.lex",
+   "value": "jastrow:שִׁבְעָה",
+   "severity": "error",
+   "reason": "bdbs:שִׁבְעָה is the place name Shebah, a wrong homograph; the pack lists Jastrow's שִׁבְעָה (the numeral, v. שֶׁבַע)"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.4.lex",
+   "value": "jastrow:שִׁבְעָה",
+   "severity": "error",
+   "reason": "bdbs:שִׁבְעָה is the place name Shebah, a wrong homograph; the pack lists Jastrow's שִׁבְעָה (the numeral, v. שֶׁבַע)"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.1.lex",
+   "value": "jastrow:שִׁבְעָה",
+   "severity": "error",
+   "reason": "bdbs:שִׁבְעָה is the place name Shebah, a wrong homograph; the pack lists Jastrow's שִׁבְעָה (the numeral, v. שֶׁבַע)"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.7.lex",
+   "value": "jastrow:שִׁבְעָה",
+   "severity": "error",
+   "reason": "bdbs:שִׁבְעָה is the place name Shebah, a wrong homograph; the pack lists Jastrow's שִׁבְעָה (the numeral, v. שֶׁבַע)"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.7.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?', a wrong homograph; the pack lists Jastrow's אֵין 'nothing, not', the negative used here"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.16.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?', a wrong homograph; the pack lists Jastrow's אֵין 'nothing, not', the negative used here"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.21.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?', a wrong homograph; the pack lists Jastrow's אֵין 'nothing, not', the negative used here"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.13.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?', a wrong homograph; the pack lists Jastrow's אֵין 'nothing, not', the negative used here"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.2.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "'things' (matters) is sense 1.4 'business, matter, something', not the head sense 'speech, word'"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.15.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "the entry jastrow:מִנְיָן lists sense 1 'number, count', which fits; the translate brief requires a sense for nouns with listed senses"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.17.sense",
+   "value": "5.1",
+   "severity": "style",
+   "reason": "נִכְנָס is Nifal; Jastrow sense 5.1 'Nif. to be brought in, to enter' is the matching sense, and none was given"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.22.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; Jastrow sense 1 'to hurry, be excited, anxious' is the matching one (no Nifal subsense is listed)"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.25.lex",
+   "value": "jastrow:עִנְיָן",
+   "severity": "error",
+   "reason": "bdbs:עִנְיָן offers only the Qohelet sense 'occupation, task, job', which does not fit; the pack lists Jastrow's עִנְיָן 'subject, affair', the Mishnaic word"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.25.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "sense 1 of jastrow:עִנְיָן: 'correspondence, relation; subject, object, affair' — the matter under discussion"
+  },
+  {
+   "ref": "5:7",
+   "path": "token:5:7.27.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "no sense was given; Jastrow's sense 2 'practice, adopted opinion, rule' matches 'according to the law (the settled rule)'"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.67.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "no sense was given; Jastrow's sense 2 'practice, adopted opinion, rule' matches 'according to the law'"
+  },
+  {
+   "ref": "5:7",
+   "path": "commentary:rambam:5:7:1.summary",
+   "value": "Rambam defines the four types (bor, am ha'aretz, golem, wise): the golem has both intellectual and ethical qualities, but incomplete and confused, like a vessel not yet finished. He splits the seven into four of character (not speaking before a greater, not interrupting, not claiming to have heard what he has not, admitting the truth even when he could argue it away) and three of intellect: וְאֵינוֹ נִבְהָל לְהָשִׁיב, which he reads as not being confounded when someone tries to mislead him but quickly seeing the error; asking what belongs to the subject and answering from the side the question asks (כהלכה); and ordering what should come first and last. On נִבְהָל the English follows Bartenura and Rabbeinu Yonah ('hasty'); Rambam's reading is recorded in the apparatus.",
+   "severity": "error",
+   "reason": "the summary said Rambam reads נִבְהָל as 'not hasty to answer'; he says לא יבהל וישאר מסופק — he is not confounded by a misleading argument — which differs from Bartenura and must be recorded"
+  },
+  {
+   "ref": "5:7",
+   "path": "apparatus",
+   "value": [
+    "Vilna reads בגולם (without niqqud) at 5:7.3 and 5:7.46, חבירו at 5:7.20; 5:7.15 וּבְמִנְיָן is absent in Vilna.",
+    "Numbers and nouns: the text is Mishnaic Hebrew; Torat Emet is the base.",
+    "Rambam reads וְאֵינוֹ נִבְהָל לְהָשִׁיב as 'is not confounded in answering': when someone tries to mislead him he is not left in doubt but quickly finds the error. The English 'is not hasty to answer' follows Bartenura (כְּדֵי שֶׁתְּהֵא תְּשׁוּבָתוֹ כַּהֲלָכָה) and Rabbeinu Yonah (אינו ממהר להשיב)."
+   ],
+   "severity": "error",
+   "reason": "the two normative commentators differ on נִבְהָל; the brief requires the reading not adopted to be recorded"
+  },
+  {
+   "ref": "5:7",
+   "path": "commentary:bartenura:5:7:5.relation",
+   "value": "records",
+   "severity": "error",
+   "reason": "Bartenura divides the clause between two people (הַתַּלְמִיד שׁוֹאֵל ... הָרַב מֵשִׁיב); the English makes the wise person the subject of both verbs, which is Rambam's reading (ואם יהיה הוא הנשאל ... יענה). The English does not adopt Bartenura's division, so his reading is recorded"
+  },
+  {
+   "ref": "5:7",
+   "path": "commentary:bartenura:5:7:5.summary",
+   "value": "Bartenura: this counts as one thing: the student asks about the very subject being studied, and then the teacher answers according to the law; an off-topic question can lead the teacher to answer wrongly. The English, with the wise person as subject of both 'asks' and 'answers', follows Rambam; Bartenura's division between student and teacher is kept here.",
+   "severity": "error",
+   "reason": "the summary claimed the English follows Bartenura; it follows Rambam on who answers"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.2.lex",
+   "value": "jastrow:מִין II",
+   "severity": "error",
+   "reason": "jastrow:מִין I is the preposition 'from', a wrong homograph; its sense 1 ('from') does not fit 'kinds'. Jastrow's מִין II 'kind, genus, species' (sense 1) is listed"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.4.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.4.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.18.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.18.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.31.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.31.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.39.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.39.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.41.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.41.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.55.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.55.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.3.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.3.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.12.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.12.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father', a wrong homograph; the pack lists jastrow:בָּא III '(part. of בוא) coming', which is this word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.8.lex",
+   "value": "jastrow:גּוּף II",
+   "severity": "error",
+   "reason": "jastrow:גּוּף I is the verb 'to squeeze, cork', a wrong homograph; the noun 'body' is jastrow:גּוּף II"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.8.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "sense 2 of jastrow:גּוּף II, 'essence, substance', is the sense of 'principal (transgressions)'"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.10.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; bdbs:קְצָת sense 1 'end, part' is the matching one ('a part of them')"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.12.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; bdbs:קְצָת sense 1 'end, part' is the matching one ('a part of them')"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.19.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; bdbs:קְצָת sense 1 'end, part' is the matching one ('a part of them')"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.21.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; bdbs:קְצָת sense 1 'end, part' is the matching one ('a part of them')"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.11.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:עָשַׂר sense 2 'to give one-tenth, separate tithes' is the matching one"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.14.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:עָשַׂר sense 2 'to give one-tenth, separate tithes' is the matching one"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.25.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:עָשַׂר sense 2 'to give one-tenth, separate tithes' is the matching one"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.20.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:רָעָב is the noun 'famine, hunger'; רְעֵבִים is the adjective 'hungry', so sense 1 of the noun does not name it. No adjective entry is in the pack; the sense is removed"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.20.note",
+   "value": "רְעֵבִים: plural of the adjective רָעֵב 'hungry'; the lexicon key offered (bdbs:רָעָב) is the noun 'famine', so no sense is given",
+   "severity": "error",
+   "reason": "say why the sense is removed"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.22.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:שָׂבֵעַ I sense 1 'sated, filled, satisfied' fits"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.23.lex",
+   "value": "jastrow:גָּמַר II",
+   "severity": "error",
+   "reason": "bdbs 1.1.2 'to bring to an end, complete' does not carry the gloss 'they resolved'; Jastrow's גָּמַר II has the Mishnaic sense"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.23.sense",
+   "value": "5",
+   "severity": "error",
+   "reason": "jastrow:גָּמַר II sense 5 'to conclude, determine, decide' is the sense of גָּמְרוּ here"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.33.lex",
+   "value": "jastrow:נָטַל",
+   "severity": "style",
+   "reason": "BDB's Qal sense 'to lift' is the biblical one; Jastrow's נָטַל sense 1 'to receive, take' matches the gloss 'to take'"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.33.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "sense 1 of jastrow:נָטַל, 'to move, carry off; to receive, take'"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.34.note",
+   "value": "אֶת, the object marker; the lexicon key offered (bdbs:אֵת 'ploughshare') is a wrong homograph, so no sense is given",
+   "severity": "error",
+   "reason": "the wrong homograph was not flagged on the token"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.35.lex",
+   "value": "jastrow:חַלָּה",
+   "severity": "error",
+   "reason": "bdbs:חַלָּה sense 1 is 'cake'; Jastrow's חַלָּה sense 2 is exactly 'Ḥallah, the priest's share of the dough', the word here"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.35.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:חַלָּה sense 2, the priest's share of the dough"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.35.note",
+   "value": "חַלָּה: the portion of dough set aside for the priest (Num 15:20)",
+   "severity": "error",
+   "reason": "the note referred to the 'cake' sense now replaced"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.18.note",
+   "value": "feminine participle; רָעָב is masculine, so the verb agrees with the nearer feminine noun בַּצֹּרֶת (agreement by attraction), as also in 5:8.31 and 5:8.39",
+   "severity": "error",
+   "reason": "the note said בָּאָה agrees with רָעָב; רָעָב is masculine and בָּאָה feminine"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.40.note",
+   "value": "דֶּבֶר 'pestilence'; the lexicon key offered (bdbs:דָּבָר 'word, thing') is a different word, so no sense is given",
+   "severity": "error",
+   "reason": "the wrong entry was not flagged on the token"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.41.note",
+   "value": "בָּא: the masculine singular participle, agreeing with דֶּבֶר, parallel to בָּאִין and בָּאָה; the same letters could be read as the perfect, but the parallel clauses favour the participle",
+   "severity": "error",
+   "reason": "the note called בָּא a perfect; in a list of participles (בָּאִין, בָּאָה) with the masculine subject דֶּבֶר it is the masculine participle, identical in form"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.44.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:מִיתָה sense 1 'death, penalty of death' fits"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.46.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה here offers only 'custom, manner, law (of man)', not the Torah; Jastrow's תּוֹרָה 'teaching, law, esp. the Law of Moses' is listed and is the word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.46.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה here offers only 'custom, manner, law (of man)', not the Torah; Jastrow's תּוֹרָה 'teaching, law, esp. the Law of Moses' is listed and is the word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.65.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה here offers only 'custom, manner, law (of man)', not the Torah; Jastrow's תּוֹרָה 'teaching, law, esp. the Law of Moses' is listed and is the word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.65.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה here offers only 'custom, manner, law (of man)', not the Torah; Jastrow's תּוֹרָה 'teaching, law, esp. the Law of Moses' is listed and is the word"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.48.sense",
+   "value": "3.1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:מָסַר sense 3.1 'Nif. to be delivered, transmitted' is the matching one"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.49.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; Jastrow's בַּיִת is listed"
+  },
+  {
+   "ref": "5:8",
+   "path": "token:5:8.49.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:בַּיִת sense 2 'house'; sense 1 of the bdbs entry was the place name"
+  },
+  {
+   "ref": "5:8",
+   "path": "grammar",
+   "value": [
+    "The mishnah is built on a refrain: 'X comes to the world for Y'. The verb is the participle throughout: בָּאִין (masculine plural), בָּאָה (feminine singular) and בָּא (5:8.41, masculine singular with דֶּבֶר). בָּא has the same letters as the perfect, but the parallel clauses show it is the participle.",
+    "שֶׁל is the genitive particle of Mishnaic Hebrew (רָעָב שֶׁל בַּצֹּרֶת 'a famine of drought'), where biblical Hebrew would use the construct state.",
+    "מִקְצָתָן ... וּמִקְצָתָן: 'some of them ... and some of them', a distributive pair; מִקְצָתָן is מִן + קֶצֶת + suffix.",
+    "The conditions of the first three famines are elliptical: 'some tithe and some do not', 'they resolved not to tithe', 'and not to take the dough-offering' (the verb of the earlier clause is carried over). The English fills in only what the verb requires.",
+    "הַמּוֹרִים is a Hifil participle of ירה, 'teach, direct' (the root of תּוֹרָה); the line plays on the word 'Torah'."
+   ],
+   "severity": "error",
+   "reason": "the note called בָּא (5:8.41) a perfect; with the masculine subject דֶּבֶר in a series of participles it is the masculine singular participle"
+  },
+  {
+   "ref": "5:8",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "5:8.1",
+      "5:8.2",
+      "5:8.3"
+     ],
+     "english": "Seven kinds of calamity",
+     "literal": "'seven kinds of calamities'"
+    },
+    {
+     "tokens": [
+      "5:8.4",
+      "5:8.5"
+     ],
+     "english": "come to the world",
+     "literal": "'coming to the world'"
+    },
+    {
+     "tokens": [
+      "5:8.6",
+      "5:8.7",
+      "5:8.8",
+      "5:8.9"
+     ],
+     "english": "for seven principal transgressions",
+     "literal": "'on seven bodies of transgression': the principal categories of sin"
+    },
+    {
+     "tokens": [
+      "5:8.10",
+      "5:8.11"
+     ],
+     "english": "When some of them tithe",
+     "literal": "'some of them tithing'; the conditional force comes from the structure"
+    },
+    {
+     "tokens": [
+      "5:8.12",
+      "5:8.13",
+      "5:8.14"
+     ],
+     "english": "and some do not tithe",
+     "literal": "'and some of them not tithing'"
+    },
+    {
+     "tokens": [
+      "5:8.15",
+      "5:8.16",
+      "5:8.17"
+     ],
+     "english": "a famine of drought",
+     "literal": "'famine of drought'"
+    },
+    {
+     "tokens": [
+      "5:8.18"
+     ],
+     "english": "comes",
+     "literal": "'coming'"
+    },
+    {
+     "tokens": [
+      "5:8.19",
+      "5:8.20"
+     ],
+     "english": "some go hungry",
+     "literal": "'some of them hungry'"
+    },
+    {
+     "tokens": [
+      "5:8.21",
+      "5:8.22"
+     ],
+     "english": "and some are sated",
+     "literal": "'and some of them sated'"
+    },
+    {
+     "tokens": [
+      "5:8.23",
+      "5:8.24",
+      "5:8.25"
+     ],
+     "english": "When they have resolved not to tithe",
+     "literal": "'they finished, that-not to tithe'; Rabbeinu Yonah: all together"
+    },
+    {
+     "tokens": [
+      "5:8.26",
+      "5:8.27",
+      "5:8.28"
+     ],
+     "english": "a famine of tumult",
+     "literal": "'famine of tumult'"
+    },
+    {
+     "tokens": [
+      "5:8.29",
+      "5:8.30"
+     ],
+     "english": "and of drought",
+     "literal": "'and of drought'"
+    },
+    {
+     "tokens": [
+      "5:8.31"
+     ],
+     "english": "comes",
+     "literal": "'coming'"
+    },
+    {
+     "tokens": [
+      "5:8.32",
+      "5:8.33"
+     ],
+     "english": "And for not taking",
+     "literal": "'and that-not to take'; the verb of the main clause is shared with the line before"
+    },
+    {
+     "tokens": [
+      "5:8.34"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "5:8.35"
+     ],
+     "english": "the dough-offering",
+     "literal": "'the cake' (the priest's portion of dough)"
+    },
+    {
+     "tokens": [
+      "5:8.36",
+      "5:8.37",
+      "5:8.38"
+     ],
+     "english": "a famine of annihilation",
+     "literal": "'famine of annihilation'"
+    },
+    {
+     "tokens": [
+      "5:8.39"
+     ],
+     "english": "comes",
+     "literal": "'coming'"
+    },
+    {
+     "tokens": [
+      "5:8.40"
+     ],
+     "english": "Pestilence",
+     "literal": "'pestilence'"
+    },
+    {
+     "tokens": [
+      "5:8.41",
+      "5:8.42"
+     ],
+     "english": "comes to the world",
+     "literal": "'comes to the world'; בָּא is the masculine participle, as in the parallel clauses"
+    },
+    {
+     "tokens": [
+      "5:8.43",
+      "5:8.44",
+      "5:8.45",
+      "5:8.46"
+     ],
+     "english": "for the death penalties stated in the Torah",
+     "literal": "'on deaths stated in the Torah'"
+    },
+    {
+     "tokens": [
+      "5:8.47",
+      "5:8.48",
+      "5:8.49",
+      "5:8.50"
+     ],
+     "english": "that were not delivered to the court",
+     "literal": "'that not were delivered to house of judgment'; Bartenura: no judgment of the Torah was carried out on them"
+    },
+    {
+     "tokens": [
+      "5:8.51",
+      "5:8.52",
+      "5:8.53"
+     ],
+     "english": "and for the produce of the seventh year",
+     "literal": "'and on fruits of the seventh year'; Bartenura: they trade in them and do not treat them as sacred"
+    },
+    {
+     "tokens": [
+      "5:8.54"
+     ],
+     "english": "Sword",
+     "literal": "'sword'"
+    },
+    {
+     "tokens": [
+      "5:8.55",
+      "5:8.56"
+     ],
+     "english": "comes to the world",
+     "literal": "'coming to the world'"
+    },
+    {
+     "tokens": [
+      "5:8.57",
+      "5:8.58",
+      "5:8.59"
+     ],
+     "english": "for the delaying of justice",
+     "literal": "'on delay of the judgment'; Rambam: delaying the verdict"
+    },
+    {
+     "tokens": [
+      "5:8.60",
+      "5:8.61",
+      "5:8.62"
+     ],
+     "english": "for the perverting of justice",
+     "literal": "'and on perversion of the judgment'; Bartenura: acquitting the guilty and convicting the innocent"
+    },
+    {
+     "tokens": [
+      "5:8.63",
+      "5:8.64"
+     ],
+     "english": "and for those who teach",
+     "literal": "'and on the teachers'"
+    },
+    {
+     "tokens": [
+      "5:8.65"
+     ],
+     "english": "the Torah",
+     "literal": "'in the Torah'"
+    },
+    {
+     "tokens": [
+      "5:8.66",
+      "5:8.67"
+     ],
+     "english": "not according to the law",
+     "literal": "'that not like the law'; Bartenura: forbidding what is permitted and permitting what is forbidden"
+    }
+   ],
+   "severity": "error",
+   "reason": "the literal of 5:8.41–42 read 'came', treating בָּא as a perfect; only that literal changes"
+  },
+  {
+   "ref": "5:8",
+   "path": "note",
+   "value": "פֻרְעָנוּת is 'calamity'; גּוּפֵי עֲבֵרָה is 'principal transgressions' (literally 'bodies of transgression'). The mishnah's list is elliptical; the English does not spell out a conditional for the dough-offering clause ('And for not taking the dough-offering'). The pack's first lexicon entry for בָּא is Jastrow 'בָּא I' (father), a wrong homograph; the tokens are assigned to Jastrow 'בָּא III' (the participle of בוא, 'coming'). The bdbs entries for בַּיִת (a place name), שִׁבְעָה (Shebah) and תּוֹרָה ('law of man') are likewise wrong; Jastrow's entries are used.",
+   "severity": "error",
+   "reason": "the note said no sense is given for בָּא; the review assigns the listed homograph jastrow:בָּא III and other Jastrow entries"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.1.note",
+   "value": "חַיָּה: 'living creature, wild animal'; the lexicon key offered (bdbs:חָיָה, the verb 'to live') is the wrong word, so no sense is given",
+   "severity": "error",
+   "reason": "the note began with a stray '|' and did not flag the wrong entry"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.2.sense",
+   "value": "2.8",
+   "severity": "error",
+   "reason": "2.10.1 is ethical evil 'of persons, of thoughts'; a wild beast is רָעָה in the sense 'hurtful', sense 2.8"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.7.sense",
+   "value": "1.1",
+   "severity": "error",
+   "reason": "Bartenura: שְׁבוּעַת שָׁוְא is לְבַטָּלָה, שֶׁלֹּא לְצֹרֶךְ, an oath for nothing — sense 1.1 'emptiness, nothingness, vanity', not 1.2 'emptiness of speech, lying'"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.10.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the proper name Shem; Jastrow's שֵׁם II 'name' is listed"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.10.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:שֵׁם II sense 1 'mark, name'"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.15.note",
+   "value": "עוֹבְדֵי: participle construct, 'servants of'; the lexicon key offered (bdbs:עֶבֶד, the name Ebed) is wrong for the verb עָבַד 'serve, worship', so no sense is given",
+   "severity": "error",
+   "reason": "the wrong entry was not flagged on the token"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.16.sense",
+   "value": "6",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:עֲבוֹדָה sense 6 is exactly ע׳ זָרָה 'idolatry'"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.22.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:שְׁפִיכוּת sense 1 (esp. ש׳ דמים) fits"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.25.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:הַשְׁמָטָה sense 1 'the return (release) of land' fits"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.28.note",
+   "value": "פְרָקִים: 'times, seasons'; the lexicon key offered (jastrow:פָּרַק) is the verb 'to break, separate', not the noun פֶּרֶק, so no sense is given",
+   "severity": "error",
+   "reason": "the wrong entry was not flagged on the token"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.29.note",
+   "value": "הַדֶּבֶר 'the pestilence'; the lexicon key offered (bdbs:דָּבָר 'word, thing') is a different word, so no sense is given",
+   "severity": "error",
+   "reason": "the wrong entry was not flagged on the token"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.33.lex",
+   "value": "jastrow:מוֹצָא III",
+   "severity": "error",
+   "reason": "bdbs:מוֹצָא is the personal name Moza; the pack lists jastrow:מוֹצָא III 'exit; מ׳ שבת the night following the Sabbath', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.33.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:מוֹצָא is the personal name Moza; the pack lists jastrow:מוֹצָא III 'exit; מ׳ שבת the night following the Sabbath', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.35.lex",
+   "value": "jastrow:מוֹצָא III",
+   "severity": "error",
+   "reason": "bdbs:מוֹצָא is the personal name Moza; the pack lists jastrow:מוֹצָא III 'exit; מ׳ שבת the night following the Sabbath', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.35.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:מוֹצָא is the personal name Moza; the pack lists jastrow:מוֹצָא III 'exit; מ׳ שבת the night following the Sabbath', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.50.lex",
+   "value": "jastrow:מוֹצָא III",
+   "severity": "error",
+   "reason": "bdbs:מוֹצָא is the personal name Moza; the pack lists jastrow:מוֹצָא III 'exit; מ׳ שבת the night following the Sabbath', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.50.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:מוֹצָא is the personal name Moza; the pack lists jastrow:מוֹצָא III 'exit; מ׳ שבת the night following the Sabbath', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.55.lex",
+   "value": "jastrow:מוֹצָא III",
+   "severity": "error",
+   "reason": "bdbs:מוֹצָא is the personal name Moza; the pack lists jastrow:מוֹצָא III 'exit; מ׳ שבת the night following the Sabbath', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.55.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:מוֹצָא is the personal name Moza; the pack lists jastrow:מוֹצָא III 'exit; מ׳ שבת the night following the Sabbath', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.38.lex",
+   "value": "bdbs:שָׁנֶה",
+   "severity": "error",
+   "reason": "bdbs:שָׁנָה is the verb 'to repeat, change'; sense 1 'to repeat' is wrong. The noun 'year' is bdbs:שָׁנֶה (n-f) in the pack"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.38.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שָׁנָה is the verb 'to repeat, change'; sense 1 'to repeat' is wrong. The noun 'year' is bdbs:שָׁנֶה (n-f) in the pack"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.58.lex",
+   "value": "bdbs:שָׁנֶה",
+   "severity": "error",
+   "reason": "bdbs:שָׁנָה is the verb 'to repeat, change'; sense 1 'to repeat' is wrong. The noun 'year' is bdbs:שָׁנֶה (n-f) in the pack"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.58.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שָׁנָה is the verb 'to repeat, change'; sense 1 'to repeat' is wrong. The noun 'year' is bdbs:שָׁנֶה (n-f) in the pack"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.39.lex",
+   "value": "bdbs:שָׁנֶה",
+   "severity": "style",
+   "reason": "the key offered is the verb שָׁנָה 'to repeat'; the noun 'year' is bdbs:שָׁנֶה, sense 1"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.39.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "the key offered is the verb שָׁנָה 'to repeat'; the noun 'year' is bdbs:שָׁנֶה, sense 1"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.59.lex",
+   "value": "bdbs:שָׁנֶה",
+   "severity": "style",
+   "reason": "the key offered is the verb שָׁנָה 'to repeat'; the noun 'year' is bdbs:שָׁנֶה, sense 1"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.59.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "the key offered is the verb שָׁנָה 'to repeat'; the noun 'year' is bdbs:שָׁנֶה, sense 1"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.41.sense",
+   "value": "1.7.1",
+   "severity": "style",
+   "reason": "מִפְּנֵי is the prepositional use of פָּנִים, sense 1.7.1 'with prep: ... from the presence of, from before', not 1.2 'presence, person'"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.46.sense",
+   "value": "1.7.1",
+   "severity": "style",
+   "reason": "מִפְּנֵי is the prepositional use of פָּנִים, sense 1.7.1 'with prep: ... from the presence of, from before', not 1.2 'presence, person'"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.52.sense",
+   "value": "1.7.1",
+   "severity": "style",
+   "reason": "מִפְּנֵי is the prepositional use of פָּנִים, sense 1.7.1 'with prep: ... from the presence of, from before', not 1.2 'presence, person'"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.60.sense",
+   "value": "1.7.1",
+   "severity": "style",
+   "reason": "מִפְּנֵי is the prepositional use of פָּנִים, sense 1.7.1 'with prep: ... from the presence of, from before', not 1.2 'presence, person'"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.62.lex",
+   "value": "jastrow:מַתָּנָה",
+   "severity": "error",
+   "reason": "bdbs:מַתָּנָה is the place name Mattanah; the pack lists Jastrow's מַתָּנָה 'gift, present', which is this word"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.62.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:מַתָּנָה sense 1 'gift, present, donation'"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.62.note",
+   "value": "מַתְּנוֹת: construct plural of מַתָּנָה 'gift'",
+   "severity": "error",
+   "reason": "the note's remark on the wrong homograph is resolved by the Jastrow entry"
+  },
+  {
+   "ref": "5:9",
+   "path": "note",
+   "value": "'The Name' (הַשֵּׁם) stands for God; no decision on this phrase, so the Hebrew word is kept in English capitalised. עֲרָיוֹת is rendered 'forbidden sexual relations' (literally 'nakednesses'). הַשְׁמָטַת הָאָרֶץ is 'the release of the land'; the English adds 'violating' following Bartenura (they plough and sow in the sabbatical year). The 'fourth' and 'seventh' are years of the seven-year sabbatical cycle, supplied from the explanation that follows (the poor man's tithe falls in the third and sixth years). The bdbs entries for מוֹצָא (Moza, a personal name), מַתָּנָה (Mattanah), שֵׁם (Shem) and שָׁנָה (the verb 'repeat') are wrong homographs; the tokens are assigned to Jastrow's מוֹצָא III, מַתָּנָה and שֵׁם II and to bdbs:שָׁנֶה 'year'.",
+   "severity": "error",
+   "reason": "the note is brought into line with the corrected lexicon keys"
+  },
+  {
+   "ref": "5:9",
+   "path": "token:5:9.27.lex",
+   "value": "jastrow:אַרְבַּע",
+   "severity": "error",
+   "reason": "bdbs:אַרְבַּע is the personal name Arba; the pack lists Jastrow's אַרְבַּע 'four'"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.1.lex",
+   "value": "jastrow:אַרְבַּע",
+   "severity": "error",
+   "reason": "bdbs:אַרְבַּע is the personal name Arba; the pack lists Jastrow's אַרְבַּע 'four'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.1.lex",
+   "value": "jastrow:אַרְבַּע",
+   "severity": "error",
+   "reason": "bdbs:אַרְבַּע is the personal name Arba; the pack lists Jastrow's אַרְבַּע 'four'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.1.lex",
+   "value": "jastrow:אַרְבַּע",
+   "severity": "error",
+   "reason": "bdbs:אַרְבַּע is the personal name Arba; the pack lists Jastrow's אַרְבַּע 'four'"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.2.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה offers only 'tribute' (the Aramaic word of Ezra); the Mishnaic מִדָּה 'measure' is jastrow:מִדָּה"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.2.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "sense 1 'tribute' is wrong; none of Jastrow's listed senses ('measure', 'dealing', 'principle') is 'disposition', so no sense is given"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.10.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה offers only 'tribute' (the Aramaic word of Ezra); the Mishnaic מִדָּה 'measure' is jastrow:מִדָּה"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.10.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "sense 1 'tribute' is wrong; none of Jastrow's listed senses ('measure', 'dealing', 'principle') is 'disposition', so no sense is given"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.15.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה offers only 'tribute' (the Aramaic word of Ezra); the Mishnaic מִדָּה 'measure' is jastrow:מִדָּה"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.15.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "sense 1 'tribute' is wrong; none of Jastrow's listed senses ('measure', 'dealing', 'principle') is 'disposition', so no sense is given"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.2.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה offers only 'tribute' (the Aramaic word of Ezra); the Mishnaic מִדָּה 'measure' is jastrow:מִדָּה"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.2.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "sense 1 'tribute' is wrong; none of Jastrow's listed senses ('measure', 'dealing', 'principle') is 'disposition', so no sense is given"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.2.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה offers only 'tribute' (the Aramaic word of Ezra); the Mishnaic מִדָּה 'measure' is jastrow:מִדָּה"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.2.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "sense 1 'tribute' is wrong; none of Jastrow's listed senses ('measure', 'dealing', 'principle') is 'disposition', so no sense is given"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.2.note",
+   "value": "מִדּוֹת: 'measures; character traits, dispositions'. Jastrow's listed senses ('measure', 'dealing', 'principle') do not include 'disposition', so no sense is given",
+   "severity": "error",
+   "reason": "the note is brought into line with the corrected entry"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.3.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם is the proper name Adam; sense 2 'first man' is wrong for 'people'. Jastrow's אָדָם 'man' is listed"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.3.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:אָדָם sense 1 'man'"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.11.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:בֵּינוֹנִי sense 1 'central, mean, average' fits"
+  },
+  {
+   "ref": "5:10",
+   "path": "token:5:10.21.note",
+   "value": "עַם: 'people'; with הָאָרֶץ it forms the term עַם הָאָרֶץ, literally 'people of the land'. The lexicon key offered (bdbs:עִם, the preposition 'with') is a wrong homograph, so no sense is given",
+   "severity": "error",
+   "reason": "the note began with a stray '|' and did not flag the wrong entry"
+  },
+  {
+   "ref": "5:10",
+   "path": "note",
+   "value": "עַם הָאָרֶץ is rendered 'an unlearned person', as decided; the literal sense is 'people of the land'. Bartenura connects the title with the settling of the land: he seeks the land's good order but has no wisdom to distinguish the proper ways. Rambam does not comment on the title here; at 5:7 he defines the am ha'aretz as one who has good conduct but no learning, fit for the settling of the land. מִדָּה is 'disposition', not 'trait', to allow 'a middling disposition' and 'the disposition of Sodom'. The bdbs entries for מִדָּה ('tribute') and אָדָם (the name Adam) are wrong homographs; the tokens are assigned to Jastrow's מִדָּה ('measure') and אָדָם ('man').",
+   "severity": "error",
+   "reason": "the note said both commentators connect the title with the land 'in this mishnah'; Rambam's comment here does not mention it. Also brought into line with the corrected keys"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.3.lex",
+   "value": "jastrow:דֵּעָה",
+   "severity": "style",
+   "reason": "bdbs:דֵּעָה is only 'knowledge (of God)'; Jastrow's דֵּעָה 'knowledge, understanding, reason; view' is the Mishnaic word"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.3.note",
+   "value": "בַּדֵּעוֹת: plural of דֵּעָה, 'minds, opinions, temperaments'; here the dispositions of a person's temper (Rambam on anger). None of the listed senses of the entry is 'temperament', so no sense is given",
+   "severity": "style",
+   "reason": "the note is brought into line with the Jastrow entry"
+  },
+  {
+   "ref": "5:11",
+   "path": "note",
+   "value": "יָצָא שְׂכָרוֹ בְהֶפְסֵדוֹ is rendered 'his gain is outweighed by his loss', following Bartenura's reading of which side is larger: in the first case the loss, in the second the gain. Bartenura notes that some read the opposite order (וְאִית דְּגַרְסֵי אִפְּכָא) and states that he prefers his reading; the English follows him. 'Temperaments' for דֵּעוֹת is chosen from the context: Rambam speaks of the quality of anger. The bdbs entries for דֵּעָה ('knowledge (of God)'), נוֹחַ (Jastrow's noun 'rest'), כַּעַס (the noun 'anger') and שָׂכָר (the name Sacar) are replaced by Jastrow's דֵּעָה, נוֹחַ II 'easy', the verb כָּעַס and שָׂכָר 'wages, reward'.",
+   "severity": "error",
+   "reason": "brought into line with the corrected lexicon keys"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.4.lex",
+   "value": "jastrow:נוֹחַ II",
+   "severity": "error",
+   "reason": "jastrow:נוֹחַ is the noun 'rest'; the adjective 'easy' is jastrow:נוֹחַ II, sense 3 'easy'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.4.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "jastrow:נוֹחַ is the noun 'rest'; the adjective 'easy' is jastrow:נוֹחַ II, sense 3 'easy'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.6.lex",
+   "value": "jastrow:נוֹחַ II",
+   "severity": "error",
+   "reason": "jastrow:נוֹחַ is the noun 'rest'; the adjective 'easy' is jastrow:נוֹחַ II, sense 3 'easy'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.6.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "jastrow:נוֹחַ is the noun 'rest'; the adjective 'easy' is jastrow:נוֹחַ II, sense 3 'easy'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.20.lex",
+   "value": "jastrow:נוֹחַ II",
+   "severity": "error",
+   "reason": "jastrow:נוֹחַ is the noun 'rest'; the adjective 'easy' is jastrow:נוֹחַ II, sense 3 'easy'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.20.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "jastrow:נוֹחַ is the noun 'rest'; the adjective 'easy' is jastrow:נוֹחַ II, sense 3 'easy'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.23.lex",
+   "value": "jastrow:נוֹחַ II",
+   "severity": "error",
+   "reason": "jastrow:נוֹחַ is the noun 'rest'; the adjective 'easy' is jastrow:נוֹחַ II, sense 3 'easy'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.23.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "jastrow:נוֹחַ is the noun 'rest'; the adjective 'easy' is jastrow:נוֹחַ II, sense 3 'easy'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.5.lex",
+   "value": "jastrow:כָּעַס",
+   "severity": "error",
+   "reason": "bdbs:כַּעַס is the noun 'anger'; לִכְעֹס is the verb, jastrow:כָּעַס sense 2 'to be angry, displeased'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.5.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:כַּעַס is the noun 'anger'; לִכְעֹס is the verb, jastrow:כָּעַס sense 2 'to be angry, displeased'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.12.lex",
+   "value": "jastrow:כָּעַס",
+   "severity": "error",
+   "reason": "bdbs:כַּעַס is the noun 'anger'; לִכְעֹס is the verb, jastrow:כָּעַס sense 2 'to be angry, displeased'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.12.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:כַּעַס is the noun 'anger'; לִכְעֹס is the verb, jastrow:כָּעַס sense 2 'to be angry, displeased'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.19.lex",
+   "value": "jastrow:כָּעַס",
+   "severity": "error",
+   "reason": "bdbs:כַּעַס is the noun 'anger'; לִכְעֹס is the verb, jastrow:כָּעַס sense 2 'to be angry, displeased'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.19.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:כַּעַס is the noun 'anger'; לִכְעֹס is the verb, jastrow:כָּעַס sense 2 'to be angry, displeased'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.24.lex",
+   "value": "jastrow:כָּעַס",
+   "severity": "error",
+   "reason": "bdbs:כַּעַס is the noun 'anger'; לִכְעֹס is the verb, jastrow:כָּעַס sense 2 'to be angry, displeased'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.24.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:כַּעַס is the noun 'anger'; לִכְעֹס is the verb, jastrow:כָּעַס sense 2 'to be angry, displeased'"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.9.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow's שָׂכָר 'wages, profit, reward' is listed"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.9.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow's שָׂכָר 'wages, profit, reward' is listed"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.17.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow's שָׂכָר 'wages, profit, reward' is listed"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.17.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow's שָׂכָר 'wages, profit, reward' is listed"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.9.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow's שָׂכָר 'wages, profit, reward' is listed"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.9.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow's שָׂכָר 'wages, profit, reward' is listed"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.17.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow's שָׂכָר 'wages, profit, reward' is listed"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.17.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow's שָׂכָר 'wages, profit, reward' is listed"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.10.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:הֶפְסֵד sense 1 'decrease, loss' fits"
+  },
+  {
+   "ref": "5:11",
+   "path": "token:5:11.16.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:הֶפְסֵד sense 1 'decrease, loss' fits"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.10.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:הֶפְסֵד sense 1 'decrease, loss' fits"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.16.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "no sense was given; jastrow:הֶפְסֵד sense 1 'decrease, loss' fits"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.7.lex",
+   "value": "jastrow:אָבַד",
+   "severity": "style",
+   "reason": "Jastrow's אָבַד sense 5.2 'Pi. to drop from memory, to forget. Aboth V, 12' cites this very mishnah and is more exact than BDB's 'cause to stray, lose'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.7.sense",
+   "value": "5.2",
+   "severity": "style",
+   "reason": "Jastrow's אָבַד sense 5.2 'Pi. to drop from memory, to forget. Aboth V, 12' cites this very mishnah and is more exact than BDB's 'cause to stray, lose'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.14.lex",
+   "value": "jastrow:אָבַד",
+   "severity": "style",
+   "reason": "Jastrow's אָבַד sense 5.2 'Pi. to drop from memory, to forget. Aboth V, 12' cites this very mishnah and is more exact than BDB's 'cause to stray, lose'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.14.sense",
+   "value": "5.2",
+   "severity": "style",
+   "reason": "Jastrow's אָבַד sense 5.2 'Pi. to drop from memory, to forget. Aboth V, 12' cites this very mishnah and is more exact than BDB's 'cause to stray, lose'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.21.lex",
+   "value": "jastrow:אָבַד",
+   "severity": "style",
+   "reason": "Jastrow's אָבַד sense 5.2 'Pi. to drop from memory, to forget. Aboth V, 12' cites this very mishnah and is more exact than BDB's 'cause to stray, lose'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.21.sense",
+   "value": "5.2",
+   "severity": "style",
+   "reason": "Jastrow's אָבַד sense 5.2 'Pi. to drop from memory, to forget. Aboth V, 12' cites this very mishnah and is more exact than BDB's 'cause to stray, lose'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.26.lex",
+   "value": "jastrow:אָבַד",
+   "severity": "style",
+   "reason": "Jastrow's אָבַד sense 5.2 'Pi. to drop from memory, to forget. Aboth V, 12' cites this very mishnah and is more exact than BDB's 'cause to stray, lose'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.26.sense",
+   "value": "5.2",
+   "severity": "style",
+   "reason": "Jastrow's אָבַד sense 5.2 'Pi. to drop from memory, to forget. Aboth V, 12' cites this very mishnah and is more exact than BDB's 'cause to stray, lose'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.22.lex",
+   "value": "jastrow:חָכָם",
+   "severity": "error",
+   "reason": "bdbs 1.6 is 'wise (ethically and religiously)'; Rambam says the חָכָם here is named for an intellectual virtue (מעלה שכלית), not an ethical one"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.22.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "jastrow:חָכָם sense 3 'wise man, scholar'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.27.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה offers 'lamb, sheep' (a typographical entry); the demonstrative is jastrow:זֶה 'this, that'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.27.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:זֶה sense 1 'this, that'"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.28.lex",
+   "value": "jastrow:חֵלֶק",
+   "severity": "error",
+   "reason": "bdbs:חֵלֶק is the personal name Helek; Jastrow's חֵלֶק 'portion' is listed"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.28.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:חֵלֶק sense 1 (lot, portion)"
+  },
+  {
+   "ref": "5:12",
+   "path": "token:5:12.28.note",
+   "value": "חֵלֶק: 'portion, lot'",
+   "severity": "error",
+   "reason": "the wrong-homograph remark is resolved by the Jastrow entry"
+  },
+  {
+   "ref": "5:12",
+   "path": "note",
+   "value": "לְאַבֵּד is rendered 'to forget' (literally 'to lose'), which is the Mishnaic sense of letting something go from memory. חֵלֶק רָע is 'a bad lot' (literally 'an evil portion'): Bartenura and Rambam both say the fault is not within a person's choice. The words חָסִיד and רָשָׁע are not used here for that reason. חָכָם here is 'a wise person', not the compound 'disciple of the sages'; Rambam names it an intellectual virtue. The bdbs entries for חֵלֶק (the name Helek), זֶה ('lamb') and שָׂכָר (the name Sacar) are wrong homographs; Jastrow's entries are used.",
+   "severity": "error",
+   "reason": "brought into line with the corrected lexicon keys"
+  },
+  {
+   "ref": "5:7",
+   "path": "morph:5:7.3",
+   "value": {
+    "lang": "mishnaic",
+    "root": "גלם",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "גֹּלֶם",
+      "lemma": "גֹּלֶם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:7",
+   "path": "morph:5:7.5",
+   "value": {
+    "lang": "mishnaic",
+    "root": "חכם",
+    "morphemes": [
+     {
+      "form": "בֶ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "חָכָם",
+      "lemma": "חָכָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:7",
+   "path": "morph:5:7.25",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ענה",
+    "morphemes": [
+     {
+      "form": "כָּ",
+      "lemma": "כ: like, as",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "עִנְיָן",
+      "lemma": "עִנְיָן",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:7",
+   "path": "morph:5:7.46",
+   "value": {
+    "lang": "mishnaic",
+    "root": "גלם",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "גֹּלֶם",
+      "lemma": "גֹּלֶם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.5",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עלם",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "עוֹלָם",
+      "lemma": "עוֹלָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.42",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עלם",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "עוֹלָם",
+      "lemma": "עוֹלָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.56",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עלם",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "עוֹלָם",
+      "lemma": "עוֹלָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.46",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירה",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "תּוֹרָה",
+      "lemma": "תּוֹרָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.65",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירה",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "תּוֹרָה",
+      "lemma": "תּוֹרָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.4",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עלם",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "עוֹלָם",
+      "lemma": "עוֹלָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.13",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עלם",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "עוֹלָם",
+      "lemma": "עוֹלָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.31",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רבע",
+    "morphemes": [
+     {
+      "form": "בָּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "רְבִיעִית",
+      "lemma": "רְבִיעִית",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.32",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שבע",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "בַ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "שְּׁבִיעִית",
+      "lemma": "שְׁבִיעִית",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.40",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רבע",
+    "morphemes": [
+     {
+      "form": "בָּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "רְבִיעִית",
+      "lemma": "רְבִיעִית",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.44",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שלש",
+    "morphemes": [
+     {
+      "form": "שֶׁ",
+      "lemma": "ש: who, which, that",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "שְּׁלִישִׁית",
+      "lemma": "שְׁלִישִׁית",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.45",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שבע",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "שְּׁבִיעִית",
+      "lemma": "שְׁבִיעִית",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.49",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שש",
+    "morphemes": [
+     {
+      "form": "שֶׁ",
+      "lemma": "ש: who, which, that",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "שִּׁשִּׁית",
+      "lemma": "שִׁשִּׁית",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:10",
+   "path": "morph:5:10.3",
+   "value": {
+    "lang": "mishnaic",
+    "root": "אדם",
+    "morphemes": [
+     {
+      "form": "בָּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "אָדָם",
+      "lemma": "אָדָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:11",
+   "path": "morph:5:11.3",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ידע",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "דֵּעוֹת",
+      "lemma": "דֵּעָה",
+      "pos": "noun",
+      "parse": "common, feminine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:12",
+   "path": "morph:5:12.3",
+   "value": {
+    "lang": "mishnaic",
+    "root": "למד",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "תַּלְמִידִים",
+      "lemma": "תַּלְמִיד",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the vowel of the prefix (pataḥ with dagesh, or qameṣ/segol before a guttural) is the assimilated article: the form is 'in/to/as the ...', and the analysis omits the article"
+  },
+  {
+   "ref": "5:7",
+   "path": "morph:5:7.7",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "אֵינ",
+      "lemma": "אֵין",
+      "pos": "particle",
+      "parse": "negative particle"
+     },
+     {
+      "form": "וֹ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֵינוֹ is אֵין with the 3rd person masculine singular suffix ('he is not'); the suffix must be split off"
+  },
+  {
+   "ref": "5:7",
+   "path": "morph:5:7.16",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "אֵינ",
+      "lemma": "אֵין",
+      "pos": "particle",
+      "parse": "negative particle"
+     },
+     {
+      "form": "וֹ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֵינוֹ is אֵין with the 3rd person masculine singular suffix ('he is not'); the suffix must be split off"
+  },
+  {
+   "ref": "5:7",
+   "path": "morph:5:7.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "אֵינ",
+      "lemma": "אֵין",
+      "pos": "particle",
+      "parse": "negative particle"
+     },
+     {
+      "form": "וֹ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֵינוֹ is אֵין with the 3rd person masculine singular suffix ('he is not'); the suffix must be split off"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.13",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "אֵינָ",
+      "lemma": "אֵין",
+      "pos": "particle",
+      "parse": "negative particle"
+     },
+     {
+      "form": "ן",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֵינָן is אֵין with the 3rd person plural suffix ('they are not'); the suffix must be split off"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.10",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קצת",
+    "morphemes": [
+     {
+      "form": "מִ",
+      "lemma": "מ: from, than",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "קְצָתָ",
+      "lemma": "קֶצֶת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     },
+     {
+      "form": "ן",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "קְצָת is a feminine noun (Jastrow: קְצָת f.); the analysis gives masculine"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.12",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קצת",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "מִ",
+      "lemma": "מ: from, than",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "קְצָתָ",
+      "lemma": "קֶצֶת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     },
+     {
+      "form": "ן",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "קְצָת is a feminine noun (Jastrow: קְצָת f.); the analysis gives masculine"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.19",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קצת",
+    "morphemes": [
+     {
+      "form": "מִ",
+      "lemma": "מ: from, than",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "קְצָתָ",
+      "lemma": "קֶצֶת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     },
+     {
+      "form": "ן",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "קְצָת is a feminine noun (Jastrow: קְצָת f.); the analysis gives masculine"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קצת",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "מִ",
+      "lemma": "מ: from, than",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "קְצָתָ",
+      "lemma": "קֶצֶת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     },
+     {
+      "form": "ן",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "קְצָת is a feminine noun (Jastrow: קְצָת f.); the analysis gives masculine"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.41",
+   "value": {
+    "lang": "mishnaic",
+    "root": "בוא",
+    "morphemes": [
+     {
+      "form": "בָּא",
+      "lemma": "בָּא",
+      "pos": "verb",
+      "parse": "qal, participle active, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "in a series of participles (בָּאִין, בָּאָה) with the masculine subject דֶּבֶר, בָּא is the masculine singular participle, not the perfect"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.44",
+   "value": {
+    "lang": "mishnaic",
+    "root": "מות",
+    "morphemes": [
+     {
+      "form": "מִיתוֹת",
+      "lemma": "מִיתָה",
+      "pos": "noun",
+      "parse": "common, feminine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מִיתוֹת is followed by the attributive participle with the article (הָאֲמוּרוֹת), so it is in the absolute state, not construct"
+  },
+  {
+   "ref": "5:8",
+   "path": "morph:5:8.52",
+   "value": {
+    "lang": "mishnaic",
+    "root": "פרה",
+    "morphemes": [
+     {
+      "form": "פֵּרוֹת",
+      "lemma": "פְּרִי",
+      "pos": "noun",
+      "parse": "common, masculine, plural, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "פֵּרוֹת is the Mishnaic plural of the masculine noun פְּרִי; the -וֹת ending does not make it feminine"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.53",
+   "value": {
+    "lang": "mishnaic",
+    "root": "פרה",
+    "morphemes": [
+     {
+      "form": "פֵרוֹת",
+      "lemma": "פְּרִי",
+      "pos": "noun",
+      "parse": "common, masculine, plural, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "פֵּרוֹת is the Mishnaic plural of the masculine noun פְּרִי; the -וֹת ending does not make it feminine"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.25",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שמט",
+    "morphemes": [
+     {
+      "form": "הַשְׁמָטַת",
+      "lemma": "הַשְׁמָטָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the ה of הַשְׁמָטַת is the prefix of the Hifil verbal noun (הַשְׁמָטָה), not the article; a construct noun cannot take the article"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.37",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "שֶׁ",
+      "lemma": "ש: who, which, that",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "בְּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "כָל",
+      "lemma": "כֹּל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֹּל is a noun (BDB n-m), here in construct with שָׁנָה, not an adjective"
+  },
+  {
+   "ref": "5:9",
+   "path": "morph:5:9.57",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "שֶׁ",
+      "lemma": "ש: who, which, that",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "בְּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "כָל",
+      "lemma": "כֹּל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֹּל is a noun (BDB n-m), here in construct with שָׁנָה, not an adjective"
+  },
+  {
+   "ref": "5:10",
+   "path": "morph:5:10.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עמם",
+    "morphemes": [
+     {
+      "form": "עַם",
+      "lemma": "עַם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עַם is bound to הָאָרֶץ in the term עַם הָאָרֶץ: construct state"
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:5:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:7:2",
+   "verdict": "not-applicable",
+   "comment": "an illustration from Elazar and Itamar"
+  },
+  {
+   "anchor": "bartenura:5:7:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:7:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:7:5",
+   "verdict": "contradicts",
+   "comment": "Bartenura gives the asking to the student and the answering to the teacher; the English makes the wise person do both, with Rambam. The English stands on Rambam's reading; Bartenura's is recorded (relation patched to records)"
+  },
+  {
+   "anchor": "bartenura:5:7:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:7:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:7:8",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:7:9",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:7:1",
+   "verdict": "consistent",
+   "comment": "except on נִבְהָל ('not confounded'), where the English follows Bartenura; Rambam's reading is added to the apparatus"
+  },
+  {
+   "anchor": "bartenura:5:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:8:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:8:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:8:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:8:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:8:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:8:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:8:8",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:8:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:9:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:9:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:9:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:9:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:10:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:10:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:10:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:10:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:11:1",
+   "verdict": "consistent",
+   "comment": "the English follows his reading (loss greater in the first case, gain in the second) and records the reverse reading he mentions"
+  },
+  {
+   "anchor": "rambam:5:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:12:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:12:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:12:1",
+   "verdict": "consistent",
+   "comment": "Rambam reads 'hear' as understanding (הנבון ... הקשה להבין); the English 'hear' with the token note 'to take in what is taught' is consistent"
+  }
+ ]
+}
