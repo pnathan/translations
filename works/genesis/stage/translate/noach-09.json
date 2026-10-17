@@ -1,0 +1,1111 @@
+{
+ "unit": "noach-09",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "9:1",
+   "english": "God blessed Noah and his sons, and said to them, \"Be fruitful and multiply and fill the earth.\"",
+   "literal": "and-blessed God [object-marker] Noah and-[object-marker] his-sons and-said to-them be-fruitful and-multiply and-fill [object-marker]-the-earth",
+   "tokens": [
+    {
+     "id": "9:1.1",
+     "gloss": "and blessed",
+     "sense": "Pi 2",
+     "note": "wayyiqtol, Piel"
+    },
+    {
+     "id": "9:1.2",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "9:1.3",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "9:1.4",
+     "gloss": "Noah"
+    },
+    {
+     "id": "9:1.5",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "9:1.6",
+     "gloss": "his sons",
+     "sense": "1",
+     "note": "construct form with suffix"
+    },
+    {
+     "id": "9:1.7",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "9:1.8",
+     "gloss": "to them"
+    },
+    {
+     "id": "9:1.9",
+     "gloss": "be fruitful",
+     "note": "Qal imperative, masculine plural, of פָּרָה; the pack lists only Hiphil senses for this entry, so no sense is given"
+    },
+    {
+     "id": "9:1.10",
+     "gloss": "and multiply",
+     "sense": "Qal 1",
+     "note": "imperative"
+    },
+    {
+     "id": "9:1.11",
+     "gloss": "and fill",
+     "sense": "Qal 2",
+     "note": "imperative"
+    },
+    {
+     "id": "9:1.12",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "9:1.13",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:1.1",
+      "9:1.2"
+     ],
+     "english": "God blessed",
+     "literal": "'and-blessed God'"
+    },
+    {
+     "tokens": [
+      "9:1.3"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "9:1.4"
+     ],
+     "english": "Noah",
+     "literal": "'Noah'"
+    },
+    {
+     "tokens": [
+      "9:1.5"
+     ],
+     "english": "and",
+     "literal": "'and [object marker]'; the marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "9:1.6"
+     ],
+     "english": "his sons",
+     "literal": "'his-sons'"
+    },
+    {
+     "tokens": [
+      "9:1.7",
+      "9:1.8"
+     ],
+     "english": "and said to them",
+     "literal": "'and-said to-them'"
+    },
+    {
+     "tokens": [
+      "9:1.9"
+     ],
+     "english": "Be fruitful",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "9:1.10"
+     ],
+     "english": "and multiply",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "9:1.11"
+     ],
+     "english": "and fill",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "9:1.12"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "9:1.13"
+     ],
+     "english": "the earth",
+     "literal": "'the-earth'"
+    }
+   ],
+   "grammar": [
+    "The blessing is three imperatives: פְּרוּ, וּרְבוּ, וּמִלְאוּ.",
+    "The etnaḥta on בָּנָיו divides the narration from the speech.",
+    "וַיְבָרֶךְ is a Piel wayyiqtol; the verb of blessing takes the object marker twice, for Noah and for his sons."
+   ],
+   "note": "The blessing repeats the language of 1:28 to the new beginning after the flood.",
+   "commentary": [
+    {
+     "anchor": "radak:9:1:1",
+     "relation": "not-applicable",
+     "summary": "Radak: though they were blessed at the creation, the world was now renewed after being tohu va-vohu under water; the blessing is 'be fruitful and multiply', and their fear and dread (9:2)."
+    },
+    {
+     "anchor": "radak:9:1:2",
+     "relation": "not-applicable",
+     "summary": "Radak: He spoke to the sons through Noah, or the sons were prophets too."
+    },
+    {
+     "anchor": "onkelos:9:1:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos renders 'and the LORD blessed Noah and his sons and said to them: be fruitful and multiply and fill the earth', following the Hebrew closely."
+    }
+   ]
+  },
+  {
+   "ref": "9:2",
+   "english": "The fear and dread of you shall be upon every animal of the earth and upon every bird of the sky, upon everything that crawls on the ground and upon all the fish of the sea; into your hand they are given.",
+   "literal": "and-fear-of-you and-dread-of-you shall-be upon every-living-thing-of the-earth and-upon every-bird-of the-sky in-all that crawls the-ground and-in-all-fish-of the-sea in-your-hand they-are-given",
+   "tokens": [
+    {
+     "id": "9:2.1",
+     "gloss": "and the fear of you",
+     "sense": "1",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "9:2.2",
+     "gloss": "and the dread of you",
+     "note": "חַת 'terror', construct with suffix; from the doubled root חתת"
+    },
+    {
+     "id": "9:2.3",
+     "gloss": "shall be",
+     "sense": "Qal III",
+     "note": "yiqtol"
+    },
+    {
+     "id": "9:2.4",
+     "gloss": "upon",
+     "sense": "II.1"
+    },
+    {
+     "id": "9:2.5",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "9:2.6",
+     "gloss": "animal of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "9:2.7",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "9:2.8",
+     "gloss": "and upon",
+     "sense": "II.1"
+    },
+    {
+     "id": "9:2.9",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "9:2.10",
+     "gloss": "bird of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "9:2.11",
+     "gloss": "the sky",
+     "sense": "1.a"
+    },
+    {
+     "id": "9:2.12",
+     "gloss": "in all",
+     "sense": "1",
+     "note": "בְּ, taken here as 'upon, among'"
+    },
+    {
+     "id": "9:2.13",
+     "gloss": "that"
+    },
+    {
+     "id": "9:2.14",
+     "gloss": "crawls",
+     "note": "feminine verb, fitting אֲדָמָה as its subject"
+    },
+    {
+     "id": "9:2.15",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "9:2.16",
+     "gloss": "and in all",
+     "sense": "1"
+    },
+    {
+     "id": "9:2.17",
+     "gloss": "fish of",
+     "note": "construct plural of דָּג"
+    },
+    {
+     "id": "9:2.18",
+     "gloss": "the sea"
+    },
+    {
+     "id": "9:2.19",
+     "gloss": "in your hand",
+     "sense": "1"
+    },
+    {
+     "id": "9:2.20",
+     "gloss": "are given",
+     "sense": "Niph 1",
+     "note": "Niphal perfect, plural"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:2.1",
+      "9:2.2"
+     ],
+     "english": "The fear and dread of you",
+     "literal": "'and-fear-of-you and-dread-of-you'"
+    },
+    {
+     "tokens": [
+      "9:2.3"
+     ],
+     "english": "shall be",
+     "literal": "'shall-be'"
+    },
+    {
+     "tokens": [
+      "9:2.4",
+      "9:2.5",
+      "9:2.6",
+      "9:2.7"
+     ],
+     "english": "upon every animal of the earth",
+     "literal": "'upon every-living-thing-of the-earth'"
+    },
+    {
+     "tokens": [
+      "9:2.8",
+      "9:2.9",
+      "9:2.10",
+      "9:2.11"
+     ],
+     "english": "and upon every bird of the sky",
+     "literal": "'and-upon every-bird-of the-sky'"
+    },
+    {
+     "tokens": [
+      "9:2.12",
+      "9:2.13",
+      "9:2.14",
+      "9:2.15"
+     ],
+     "english": "upon everything that crawls on the ground",
+     "literal": "'in-all that crawls the-ground'; the second sense of בְּ, see note"
+    },
+    {
+     "tokens": [
+      "9:2.16",
+      "9:2.17",
+      "9:2.18"
+     ],
+     "english": "and upon all the fish of the sea",
+     "literal": "'and-in-all-fish-of the-sea'"
+    },
+    {
+     "tokens": [
+      "9:2.19",
+      "9:2.20"
+     ],
+     "english": "into your hand they are given",
+     "literal": "'in-your-hand they-are-given'; the perfect states the grant as done"
+    }
+   ],
+   "grammar": [
+    "וּמוֹרַאֲכֶם וְחִתְּכֶם is a hendiadys of two near synonyms: fear and dread.",
+    "The mahpakh and pashta join the two nouns; the zaqef on יִהְיֶה closes the subject and verb.",
+    "בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה: the verb is feminine to agree with הָאֲדָמָה, so 'the ground' can be its subject or the place.",
+    "נִתָּנוּ is a Niphal perfect: the creatures have been given into human hands."
+   ],
+   "note": "בְּכֹל is rendered 'upon' in step with the preceding עַל. Ibn Ezra offers two ways to take הָאֲדָמָה (place, or acting subject) and prefers to join בְּכֹל to מוֹרַאֲכֶם; the English takes the place sense and keeps the ordinary clause order.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:2:1",
+     "relation": "follows",
+     "summary": "Rashi: וְחִתְּכֶם is 'your terror', like תִּרְאוּ חֲתַת (Job 6:21); the aggadah reads it as living, so the fear lasts only while you live."
+    },
+    {
+     "anchor": "ibn-ezra:9:2:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: a doubled-root form from the root of תִּרְאוּ חֲתַת, the same as חִתָּתְכֶם."
+    },
+    {
+     "anchor": "ibn-ezra:9:2:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the sense is 'on the ground', or else the ground is itself the acting subject; the English takes the first."
+    },
+    {
+     "anchor": "ibn-ezra:9:2:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the sense of בְּיֶדְכֶם is 'because in your hand'; the English keeps the plain 'into your hand they are given'."
+    },
+    {
+     "anchor": "ibn-ezra:9:2:4",
+     "relation": "records",
+     "summary": "Ibn Ezra: some say the bet of בְכֹל and בְכָל is a vav ('and'), but the nearer reading is that it joins with מוֹרַאֲכֶם; this construction is not adopted in the English."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: 'and the fear of you and the dread of you shall be upon all beasts of the earth ...' reads the verse closely."
+   ]
+  },
+  {
+   "ref": "9:3",
+   "english": "Every moving thing that is alive shall be food for you; as with the green plants, I have given you everything.",
+   "literal": "every-moving-thing that it living to-you shall-be for-food like-green-of plant I-gave to-you [object-marker] all",
+   "tokens": [
+    {
+     "id": "9:3.1",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "9:3.2",
+     "gloss": "moving thing",
+     "note": "absolute noun from רָמַשׂ"
+    },
+    {
+     "id": "9:3.3",
+     "gloss": "that"
+    },
+    {
+     "id": "9:3.4",
+     "gloss": "it",
+     "sense": "1"
+    },
+    {
+     "id": "9:3.5",
+     "gloss": "alive",
+     "sense": "1.c"
+    },
+    {
+     "id": "9:3.6",
+     "gloss": "to you"
+    },
+    {
+     "id": "9:3.7",
+     "gloss": "shall be",
+     "sense": "Qal II.2",
+     "note": "'become'"
+    },
+    {
+     "id": "9:3.8",
+     "gloss": "for food",
+     "sense": "2"
+    },
+    {
+     "id": "9:3.9",
+     "gloss": "like the green of",
+     "note": "כְּ + יֶרֶק; Ibn Ezra notes the segolate form"
+    },
+    {
+     "id": "9:3.10",
+     "gloss": "plants"
+    },
+    {
+     "id": "9:3.11",
+     "gloss": "I have given",
+     "sense": "Qal 1",
+     "note": "qatal, first person"
+    },
+    {
+     "id": "9:3.12",
+     "gloss": "to you"
+    },
+    {
+     "id": "9:3.13",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "9:3.14",
+     "gloss": "everything",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:3.1",
+      "9:3.2",
+      "9:3.3",
+      "9:3.4",
+      "9:3.5"
+     ],
+     "english": "Every moving thing that is alive",
+     "literal": "'every moving-thing that it living'"
+    },
+    {
+     "tokens": [
+      "9:3.6",
+      "9:3.7",
+      "9:3.8"
+     ],
+     "english": "shall be food for you",
+     "literal": "'to-you shall-be for-food'"
+    },
+    {
+     "tokens": [
+      "9:3.9",
+      "9:3.10"
+     ],
+     "english": "As with the green plants",
+     "literal": "'like-green-of plant'"
+    },
+    {
+     "tokens": [
+      "9:3.11",
+      "9:3.12"
+     ],
+     "english": "I have given you",
+     "literal": "'I-gave to-you'"
+    },
+    {
+     "tokens": [
+      "9:3.13"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "9:3.14"
+     ],
+     "english": "everything",
+     "literal": "'all'"
+    }
+   ],
+   "grammar": [
+    "The clause אֲשֶׁר הוּא חַי ('that it is alive') identifies the רֶמֶשׂ as living creatures.",
+    "The perfect נָתַתִּי is a performative-sounding perfect, 'I have given', set against the earlier grant of plants.",
+    "יֶרֶק עֵשֶׂב refers back to the plants given as food in 1:29–30."
+   ],
+   "note": "The English takes כְּיֶרֶק עֵשֶׂב as the standard of comparison, the plants already given, in line with Rashi.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:3:1",
+     "relation": "follows",
+     "summary": "Rashi: God had permitted the first human only green plants; 'for you', like the green plants that I left to the first human, I have now given everything."
+    },
+    {
+     "anchor": "ibn-ezra:9:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: רֶמֶשׂ is a general term for wild animals, domestic animals, birds and fish, and all of it is permitted for food."
+    },
+    {
+     "anchor": "ibn-ezra:9:3:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: כְּיֶרֶק follows two patterns, as in 'the furnace smoked' (Gen 15:17) with Exod 19:18; a point of form, not of sense."
+    }
+   ]
+  },
+  {
+   "ref": "9:4",
+   "english": "Only flesh with its life, its blood, you shall not eat.",
+   "literal": "only flesh in-its-life its-blood not you-shall-eat",
+   "tokens": [
+    {
+     "id": "9:4.1",
+     "gloss": "only",
+     "note": "restrictive particle"
+    },
+    {
+     "id": "9:4.2",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "9:4.3",
+     "gloss": "with its life",
+     "sense": "1",
+     "note": "בְּ of accompaniment"
+    },
+    {
+     "id": "9:4.4",
+     "gloss": "its blood",
+     "sense": "1",
+     "note": "construct form with suffix"
+    },
+    {
+     "id": "9:4.5",
+     "gloss": "not"
+    },
+    {
+     "id": "9:4.6",
+     "gloss": "you shall eat",
+     "sense": "Qal 1",
+     "note": "yiqtol, plural, prohibition"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:4.1",
+      "9:4.2"
+     ],
+     "english": "Only flesh",
+     "literal": "'only flesh'"
+    },
+    {
+     "tokens": [
+      "9:4.3",
+      "9:4.4"
+     ],
+     "english": "with its life, its blood",
+     "literal": "'in-its-life its-blood'; the second noun stands in apposition to the first, or the two are read as one clause"
+    },
+    {
+     "tokens": [
+      "9:4.5",
+      "9:4.6"
+     ],
+     "english": "you shall not eat",
+     "literal": "'not you-shall-eat'"
+    }
+   ],
+   "grammar": [
+    "אַךְ restricts the grant of v. 3 with a single exception.",
+    "בְּנַפְשׁוֹ דָמוֹ: the two nouns are bare in apposition, with no conjunction between them.",
+    "The negative with the yiqtol, לֹא תֹאכֵלוּ, is a prohibition."
+   ],
+   "note": "The English keeps the Hebrew order and the juxtaposition נַפְשׁוֹ דָמוֹ, which supports both of the commentators' readings.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:4:1",
+     "relation": "follows",
+     "summary": "Rashi: this forbids a limb from a living animal, that is, you shall not eat the flesh while its life is in it."
+    },
+    {
+     "anchor": "rashi:9:4:2",
+     "relation": "follows",
+     "summary": "Rashi: 'while its life is still in it'."
+    },
+    {
+     "anchor": "rashi:9:4:3",
+     "relation": "follows",
+     "summary": "Rashi: a limb of a living animal is forbidden, and blood from a living animal as well."
+    },
+    {
+     "anchor": "ibn-ezra:9:4:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: the sense is 'only flesh together with its life, which is its blood, you shall not eat', like Deut 12:23, since the life of all flesh is its blood; the English keeps both readings open with the apposition."
+    }
+   ]
+  },
+  {
+   "ref": "9:5",
+   "english": "But your blood, for your lives, I will demand; from every animal I will demand it, and from the human, from each man for his brother, I will demand the life of the human.",
+   "literal": "and-surely [object-marker] your-blood for-your-lives I-will-require from-hand-of every-living-thing I-will-require-it and-from-hand-of the-human from-hand-of man his-brother I-will-require [object-marker] life-of the-human",
+   "tokens": [
+    {
+     "id": "9:5.1",
+     "gloss": "and surely",
+     "note": "the vav is adversative"
+    },
+    {
+     "id": "9:5.2",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "9:5.3",
+     "gloss": "your blood",
+     "sense": "1"
+    },
+    {
+     "id": "9:5.4",
+     "gloss": "for your lives",
+     "sense": "1",
+     "note": "plural with suffix"
+    },
+    {
+     "id": "9:5.5",
+     "gloss": "I will demand",
+     "sense": "Qal 4.a",
+     "note": "yiqtol"
+    },
+    {
+     "id": "9:5.6",
+     "gloss": "from the hand of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "9:5.7",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "9:5.8",
+     "gloss": "animal",
+     "sense": "1"
+    },
+    {
+     "id": "9:5.9",
+     "gloss": "I will demand it",
+     "sense": "Qal 4.a",
+     "note": "yiqtol with 3rd masculine singular suffix, with nun energicum"
+    },
+    {
+     "id": "9:5.10",
+     "gloss": "and from the hand of",
+     "sense": "1"
+    },
+    {
+     "id": "9:5.11",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "9:5.12",
+     "gloss": "from the hand of",
+     "sense": "1"
+    },
+    {
+     "id": "9:5.13",
+     "gloss": "a man",
+     "note": "construct"
+    },
+    {
+     "id": "9:5.14",
+     "gloss": "his brother",
+     "sense": "1"
+    },
+    {
+     "id": "9:5.15",
+     "gloss": "I will demand",
+     "sense": "Qal 4.a"
+    },
+    {
+     "id": "9:5.16",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "9:5.17",
+     "gloss": "the life of",
+     "sense": "1"
+    },
+    {
+     "id": "9:5.18",
+     "gloss": "the human",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:5.1"
+     ],
+     "english": "But",
+     "literal": "'and-surely'"
+    },
+    {
+     "tokens": [
+      "9:5.2",
+      "9:5.3"
+     ],
+     "english": "your blood",
+     "literal": "'[object marker] your-blood'"
+    },
+    {
+     "tokens": [
+      "9:5.4"
+     ],
+     "english": "for your lives",
+     "literal": "'for-your-lives'"
+    },
+    {
+     "tokens": [
+      "9:5.5"
+     ],
+     "english": "I will demand",
+     "literal": "'I-will-require'"
+    },
+    {
+     "tokens": [
+      "9:5.6",
+      "9:5.7",
+      "9:5.8"
+     ],
+     "english": "from every animal",
+     "literal": "'from-hand-of every-living-thing'"
+    },
+    {
+     "tokens": [
+      "9:5.9"
+     ],
+     "english": "I will demand it",
+     "literal": "'I-will-require-it'"
+    },
+    {
+     "tokens": [
+      "9:5.10",
+      "9:5.11"
+     ],
+     "english": "and from the human",
+     "literal": "'and-from-hand-of the-human'"
+    },
+    {
+     "tokens": [
+      "9:5.12",
+      "9:5.13",
+      "9:5.14"
+     ],
+     "english": "from each man for his brother",
+     "literal": "'from-hand-of man his-brother'"
+    },
+    {
+     "tokens": [
+      "9:5.15"
+     ],
+     "english": "I will demand",
+     "literal": "'I-will-require'"
+    },
+    {
+     "tokens": [
+      "9:5.16"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "9:5.17",
+      "9:5.18"
+     ],
+     "english": "the life of the human",
+     "literal": "'life-of the-human'"
+    }
+   ],
+   "grammar": [
+    "The object, אֶת דִּמְכֶם, is fronted for emphasis and set against the earlier permission.",
+    "אֶדְרֹשׁ is repeated three times, with אֶדְרְשֶׁנּוּ in the middle, a cumulative structure.",
+    "The etnaḥta and zaqef divide the verse by the three sources of the demand: lives, animals, humans.",
+    "מִיַּד means 'from the hand of', an idiom for 'from, at the hands of'."
+   ],
+   "note": "The English keeps the sense Ibn Ezra gives (any blood of yours is not permitted; I will require it) rather than Rashi's limit to suicide. מִיַּד אִישׁ אָחִיו is rendered 'from each man for his brother', leaving 'brother' as a fellow human.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:5:1",
+     "relation": "records",
+     "summary": "Rashi: though I permitted the taking of an animal's life, I will require your blood from the one who sheds his own."
+    },
+    {
+     "anchor": "rashi:9:5:2",
+     "relation": "records",
+     "summary": "Rashi: this includes the one who strangles himself, even though no blood came out."
+    },
+    {
+     "anchor": "rashi:9:5:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: because the generation of the flood sinned and were left to wild beasts, it was needful to warn the animals about them (Psalm 49)."
+    },
+    {
+     "anchor": "rashi:9:5:4",
+     "relation": "follows",
+     "summary": "Rashi: from the one who kills deliberately where there are no witnesses, I will demand it."
+    },
+    {
+     "anchor": "rashi:9:5:5",
+     "relation": "records",
+     "summary": "Rashi: this speaks of a man who loved him as a brother and killed him by accident; I will demand an accounting if he does not confess and seek forgiveness, since even unintended killing needs atonement."
+    },
+    {
+     "anchor": "ibn-ezra:9:5:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: I have permitted you to shed the blood of every living creature except your own, as persons, which I have not permitted, but I will demand it; and he explains that this covers many killing one, or one killing one, and even animals commanded to kill. He finds Rashi's suicide reading forced."
+    }
+   ]
+  },
+  {
+   "ref": "9:6",
+   "english": "Whoever sheds the blood of the human, by the human his blood shall be shed; for in the image of God He made the human.",
+   "literal": "shedder-of blood-of the-human in-the-human his-blood it-shall-be-shed for in-image-of God he-made [object-marker] the-human",
+   "tokens": [
+    {
+     "id": "9:6.1",
+     "gloss": "the one who sheds",
+     "note": "Qal active participle, construct; the entry's listed senses are Niphal and Pual only"
+    },
+    {
+     "id": "9:6.2",
+     "gloss": "the blood of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "9:6.3",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "9:6.4",
+     "gloss": "by the human",
+     "sense": "2",
+     "note": "בְּ of agency or means"
+    },
+    {
+     "id": "9:6.5",
+     "gloss": "his blood",
+     "sense": "1"
+    },
+    {
+     "id": "9:6.6",
+     "gloss": "shall be shed",
+     "sense": "Niph",
+     "note": "Niphal yiqtol, a jussive-like passive of the same root"
+    },
+    {
+     "id": "9:6.7",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "9:6.8",
+     "gloss": "in the image of",
+     "sense": "2",
+     "note": "בְּ 'in'; construct"
+    },
+    {
+     "id": "9:6.9",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "9:6.10",
+     "gloss": "He made",
+     "sense": "Qal II.1"
+    },
+    {
+     "id": "9:6.11",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "9:6.12",
+     "gloss": "the human",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:6.1",
+      "9:6.2",
+      "9:6.3"
+     ],
+     "english": "Whoever sheds the blood of the human",
+     "literal": "'shedder-of blood-of the-human'"
+    },
+    {
+     "tokens": [
+      "9:6.4",
+      "9:6.5",
+      "9:6.6"
+     ],
+     "english": "by the human his blood shall be shed",
+     "literal": "'in-the-human his-blood it-shall-be-shed'"
+    },
+    {
+     "tokens": [
+      "9:6.7"
+     ],
+     "english": "for",
+     "literal": "'for'"
+    },
+    {
+     "tokens": [
+      "9:6.8",
+      "9:6.9"
+     ],
+     "english": "in the image of God",
+     "literal": "'in-image-of God'"
+    },
+    {
+     "tokens": [
+      "9:6.10"
+     ],
+     "english": "He made",
+     "literal": "'he-made'"
+    },
+    {
+     "tokens": [
+      "9:6.11"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "9:6.12"
+     ],
+     "english": "the human",
+     "literal": "'the-human'"
+    }
+   ],
+   "grammar": [
+    "The verse is poetic: a chiasm of shedder and shed, blood and human, with a sound-play on שֹׁפֵךְ and יִשָּׁפֵךְ.",
+    "The participle שֹׁפֵךְ opens a casus pendens, resumed by דָּמוֹ.",
+    "בָּאָדָם can mean 'by a human (agent)' or 'for the sake of the human'.",
+    "The noun clause כִּי בְּצֶלֶם אֱלֹהִים gives the ground for the penalty."
+   ],
+   "note": "The English follows decisions (the human, with the article). 'By the human' is the plain agent reading; the other readings are kept in the commentary entries.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:6:1",
+     "relation": "follows",
+     "summary": "Rashi: if there are witnesses, you put him to death; why? because in the image of God ..."
+    },
+    {
+     "anchor": "rashi:9:6:2",
+     "relation": "records",
+     "summary": "Rashi: this is an elliptical verse; it should read 'the Maker of the human' (הָעוֹשֶׂה); many verses are like this. The English reads the plain 'He made'."
+    },
+    {
+     "anchor": "ibn-ezra:9:6:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: בָּאָדָם means by witnesses, or before everyone's eyes, or for the sake of the human whose blood was shed; many such uses exist. The English takes 'by the human' with the first."
+    }
+   ]
+  },
+  {
+   "ref": "9:7",
+   "english": "As for you, be fruitful and multiply; swarm over the earth and multiply in it.",
+   "literal": "and-you be-fruitful and-multiply swarm in-the-earth and-multiply in-it",
+   "tokens": [
+    {
+     "id": "9:7.1",
+     "gloss": "and you",
+     "note": "vav of contrast"
+    },
+    {
+     "id": "9:7.2",
+     "gloss": "be fruitful",
+     "note": "Qal imperative of פָּרָה; the pack lists only Hiphil senses"
+    },
+    {
+     "id": "9:7.3",
+     "gloss": "and multiply",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "9:7.4",
+     "gloss": "swarm",
+     "note": "Qal imperative of שָׁרַץ"
+    },
+    {
+     "id": "9:7.5",
+     "gloss": "in the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "9:7.6",
+     "gloss": "and multiply",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "9:7.7",
+     "gloss": "in it",
+     "note": "feminine suffix referring to הָאָרֶץ"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:7.1"
+     ],
+     "english": "As for you",
+     "literal": "'and-you'"
+    },
+    {
+     "tokens": [
+      "9:7.2"
+     ],
+     "english": "be fruitful",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "9:7.3"
+     ],
+     "english": "and multiply",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "9:7.4",
+      "9:7.5"
+     ],
+     "english": "swarm over the earth",
+     "literal": "'swarm in-the-earth'"
+    },
+    {
+     "tokens": [
+      "9:7.6"
+     ],
+     "english": "and multiply",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "9:7.7"
+     ],
+     "english": "in it",
+     "literal": "'in-it'"
+    }
+   ],
+   "grammar": [
+    "The independent pronoun וְאַתֶּם sets the people over against the one who sheds blood in v. 6.",
+    "Four imperatives close the speech: פְּרוּ, רְבוּ, שִׁרְצוּ, רְבוּ.",
+    "The etnaḥta on וּרְבוּ divides the verse into the repeated blessing and the new commands.",
+    "שִׁרְצוּ is the verb used of swarming creatures in 1:20-21 and 8:17."
+   ],
+   "note": "Genesis 1:28 and 9:1 give the same words as a blessing; here they are in the form of a command.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:7:1",
+     "relation": "follows",
+     "summary": "Rashi: on the plain sense, the first (9:1) is a blessing and here a command; by midrash, the one who does not engage in procreation is likened to one who sheds blood (Yevamot 63b)."
+    }
+   ]
+  }
+ ]
+}
