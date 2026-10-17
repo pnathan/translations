@@ -1,0 +1,183 @@
+{
+ "unit": "lekh-lekha-05",
+ "model": "opus",
+ "summary": "The English of 13:13-18 is accurate and agrees with every normative comment: Rashi and Ibn Ezra on 13:13, Rashi on the timing of the speech (13:14), Rashi on the impossible count (13:16) and Rashi and Ibn Ezra on Mamre and Hebron (13:18). The faults are in the apparatus. At 13:13 the translator's note gave Rashi a distinction that is Ibn Ezra's, the Rashi summary misquoted בְּמָמוֹנָם as במלונם, and the grammar note on the etnaḥta contradicted the English. Several senses are wrong: עֵינֶיךָ (an idiom sense), הָאָרֶץ at 13:17 ('earth' for 'land'), and וַיֶּאֱהַל (a Piel sense on a Qal form). The summary of Radak on עַד עוֹלָם turned his point upside down, and 'oaks' at 13:18 departs from the lexicon and from the edition's 'terebinth of Moreh' (12:6).",
+ "patches": [
+  {
+   "ref": "13:13",
+   "path": "note",
+   "value": "The adjectives are kept apart, 'wicked' and 'sinners', because the normative commentators distinguish them: Rashi, wicked 'in their bodies' (בְּגוּפָם) and sinners 'in their wealth' (בְּמָמוֹנָם); Ibn Ezra, wicked 'toward people' (לִבְנֵי אָדָם). 'Against' renders ל as the context requires.",
+   "severity": "error",
+   "reason": "The note said Rashi distinguishes the words as 'toward people' and 'against the LORD'. That is Ibn Ezra's reading; Rashi's distinction is body and wealth."
+  },
+  {
+   "ref": "13:13",
+   "path": "grammar",
+   "value": [
+    "The verse is a verbless clause: subject אַנְשֵׁי סְדֹם, predicates רָעִים and חַטָּאִים.",
+    "The etnaḥta falls on וְחַטָּאִים, so the accents set לַיהוָה מְאֹד apart as a closing phrase. Radak takes it over both predicates ('all of it is sin to the LORD'). Ibn Ezra, who reads רָעִים as 'toward people', leaves it to חַטָּאִים, and the English follows him in joining 'against the LORD' to 'sinners'.",
+    "Rashi divides the two words: רָעִים in their bodies, חַטָּאִים in their wealth. Onkelos has the reverse.",
+    "מְאֹד is a noun used adverbially, 'exceedingly'."
+   ],
+   "severity": "error",
+   "reason": "The second note said that לַיהוָה מְאֹד intensifies both predicates, while the English and the translator's ruling on Ibn Ezra join 'against the LORD' to 'sinners' alone. The note now states the accents and the readings without contradicting the English."
+  },
+  {
+   "ref": "13:13",
+   "path": "commentary:rashi:13:13:2.summary",
+   "value": "Rashi: רָעִים בְּגוּפָם, wicked in their bodies, that is in sins of the person, as against חַטָּאִים 'in their wealth'. The English keeps 'wicked'; the translator's note records the sense.",
+   "severity": "error",
+   "reason": "The summary claimed that the note records Rashi's sense, but the note gave a different distinction (now corrected); 'in their persons' alone did not show the contrast Rashi draws."
+  },
+  {
+   "ref": "13:13",
+   "path": "commentary:rashi:13:13:3.summary",
+   "value": "Rashi: וְחַטָּאִים בְּמָמוֹנָם, sinners in their wealth (Sanhedrin 109a). This distinguishes the two terms; the English keeps them separate.",
+   "severity": "error",
+   "reason": "The quotation misread Rashi's בְּמָמוֹנָם 'in their money' as במלונם, which is not a word here."
+  },
+  {
+   "ref": "13:13",
+   "path": "commentary:ramban:13:13:2.summary",
+   "value": "Ramban: the verse faults Lot for not refraining from living among them, as Rashi says, and speaks in favour of the righteous Abram, whose lot did not fall where wickedness was. All the cities of the plain were exceedingly wicked, which is why they were overturned, though all the Canaanites practised abominations (Lev 18:27).",
+   "severity": "error",
+   "reason": "The old summary said the merit of the righteous is shown 'since the cities were destroyed'. Ramban's point is that Abram's portion did not fall in the wicked place; the destruction is explained by the cities' wickedness."
+  },
+  {
+   "ref": "13:14",
+   "path": "token:13:14.1.note",
+   "value": "the plain conjunction on a noun, not a wayyiqtol: the subject comes before the verb (a qatal), which marks a new start after Lot's departure. The vav has pataḥ because the name is read אֲדֹנָי.",
+   "severity": "error",
+   "reason": "The note called this 'a vav in sequence with the preceding narrative'. With a fronted noun and a qatal it is the disjunctive construction the grammar note itself describes, not narrative sequence."
+  },
+  {
+   "ref": "13:14",
+   "path": "token:13:14.11.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 5 is a group of idioms ('an eye for an eye', 'in the presence of', 'on the forehead'). Here עֵינֶיךָ is the bodily eye, for which the pack prints no sense, so no sense is given."
+  },
+  {
+   "ref": "13:14",
+   "path": "token:13:14.11.note",
+   "value": "dual construct with 2ms suffix. The entry in the pack prints no sense for the bodily eye (sense 5 holds idioms), so no sense is given.",
+   "severity": "error",
+   "reason": "Records the removal of the sense."
+  },
+  {
+   "ref": "13:14",
+   "path": "token:13:14.13.sense",
+   "value": "1.a",
+   "severity": "question",
+   "reason": "'Look from the place' gives the point from which he looks, the plain 'from' (1.a), not 1.b 'away from, far from', which marks distance. Proposed: 1.a."
+  },
+  {
+   "ref": "13:15",
+   "path": "grammar",
+   "value": [
+    "The object, כָּל־הָאָרֶץ, comes first, then the relative clause, then the verb, so the whole land is stressed.",
+    "אֶתְּנֶנָּה has a nun-energic suffix, a resumptive pronoun for the fronted object.",
+    "רֹאֶה is a participle: the land is what Abram is looking at.",
+    "The etnaḥta falls on אֶתְּנֶנָּה, so וּלְזַרְעֲךָ עַד־עוֹלָם stands apart: a second recipient and the term of the gift, added to the verb before the pause. It has no verb of its own."
+   ],
+   "severity": "error",
+   "reason": "The fourth note called וּלְזַרְעֲךָ עַד־עוֹלָם 'a second clause'. It has no verb; it is a phrase that continues the clause of אֶתְּנֶנָּה."
+  },
+  {
+   "ref": "13:15",
+   "path": "commentary:ibn-ezra:13:15:1.summary",
+   "value": "Ibn Ezra: לְךָ אֶתְּנֶנָּה is 'by speech': the giving is done by the spoken word, as in 'he shall put (וְנָתַן) them on the head of the goat' (Lev 16:21), where the sins are put on the goat by the spoken confession. So 'I will give' is a grant made in words, not yet a handing over.",
+   "severity": "style",
+   "reason": "The comparison with Lev 16:21 was cited without its point: there too נָתַן is done by words."
+  },
+  {
+   "ref": "13:15",
+   "path": "commentary:radak:13:15:3.summary",
+   "value": "Radak: עַד עוֹלָם holds even though they may be exiled from the land, for in the end they will return to it. The promise is perpetual despite exile.",
+   "severity": "error",
+   "reason": "The summary said Radak reads עַד עוֹלָם as 'in the end' rather than strict perpetuity. Radak says the reverse: the gift is forever, and exile does not cancel it, since they will return."
+  },
+  {
+   "ref": "13:17",
+   "path": "token:13:17.3.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "בָּאָרֶץ is the land Abram is to walk through and receive, BDB 2 'land', not 1.a 'earth'. The same word at 13:15 has sense 2."
+  },
+  {
+   "ref": "13:18",
+   "path": "english",
+   "value": "Abram moved his tent, came and settled at the terebinths of Mamre, which are in Hebron, and built there an altar to the LORD.",
+   "severity": "error",
+   "reason": "The lexicon gives אֵלוֹן as 'terebinth', and the edition has 'the terebinth of Moreh' at 12:6. 'Oaks' departs from both."
+  },
+  {
+   "ref": "13:18",
+   "path": "phrases",
+   "value": [
+    {"tokens": ["13:18.1", "13:18.2"], "english": "Abram moved his tent", "literal": "'and-pitched-tent Abram'"},
+    {"tokens": ["13:18.3", "13:18.4"], "english": "came and settled", "literal": "'and-came and-dwelt'"},
+    {"tokens": ["13:18.5", "13:18.6"], "english": "at the terebinths of Mamre", "literal": "'in-terebinths-of Mamre'"},
+    {"tokens": ["13:18.7", "13:18.8"], "english": "which are in Hebron", "literal": "'which in-Hebron'"},
+    {"tokens": ["13:18.9", "13:18.10", "13:18.11"], "english": "and built there an altar", "literal": "'and-built there altar'"},
+    {"tokens": ["13:18.12"], "english": "to the LORD", "literal": "'to-the-LORD'"}
+   ],
+   "severity": "error",
+   "reason": "The new English changed the phrase 'at the oaks of Mamre'."
+  },
+  {
+   "ref": "13:18",
+   "path": "literal",
+   "value": "and-pitched-tent Abram and-came and-dwelt in-terebinths-of Mamre which in-Hebron and-built there altar to-the-LORD",
+   "severity": "error",
+   "reason": "Follows the lexicon's 'terebinth'."
+  },
+  {
+   "ref": "13:18",
+   "path": "token:13:18.5.gloss",
+   "value": "at the terebinths of",
+   "severity": "error",
+   "reason": "BDB אֵלוֹן 'terebinth'; matches the English and 12:6."
+  },
+  {
+   "ref": "13:18",
+   "path": "token:13:18.5.note",
+   "value": "plural construct of אֵלוֹן 'terebinth', as at 12:6 (אֵלוֹן מוֹרֶה). Onkelos and Radak take the word as 'plains' (מֵישְׁרֵי, מִישׁוֹרִים).",
+   "severity": "error",
+   "reason": "The note offered 'oaks' as an equal rendering against the lexicon; it now gives the lexicon's sense and the commentators' alternative."
+  },
+  {
+   "ref": "13:18",
+   "path": "token:13:18.1.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The parse is Qal wayyiqtol; the only printed sense is 'Pi pitch one's tent', a different stem. The entry's headline 'move tent' is the Qal use, but the pack prints no Qal sense, so no sense is given."
+  },
+  {
+   "ref": "13:18",
+   "path": "token:13:18.1.note",
+   "value": "Qal wayyiqtol of the denominative verb אָהַל, from אֹהֶל 'tent': 'move one's tent' (the entry's headline gloss). The only printed sense is the Piel 'pitch one's tent', so no sense is given. The first root letter, the guttural א, takes ḥataf-segol, and the prefix vowel is segol: יֶּאֱהַל.",
+   "severity": "error",
+   "reason": "Records the removal of the sense and explains the form for a learner."
+  },
+  {
+   "ref": "13:18",
+   "path": "commentary:ibn-ezra:13:18:1.summary",
+   "value": "Ibn Ezra: here Scripture explains (פֵּרֵשׁ) that the terebinths of Mamre are in Hebron. The English reads אֲשֶׁר בְּחֶבְרוֹן as modifying the terebinths.",
+   "severity": "style",
+   "reason": "The subject of פי' is the verse, which here states where the place is, not Ibn Ezra; and 'oaks' follows the English."
+  }
+ ],
+ "verdicts": [
+  {"anchor": "rashi:13:13:1", "verdict": "not-applicable", "comment": "A comment on Lot's choice to live among them; it does not bear on the English."},
+  {"anchor": "rashi:13:13:2", "verdict": "consistent", "comment": "'wicked' carries רָעִים; Rashi's 'in their bodies' is now in the note."},
+  {"anchor": "rashi:13:13:3", "verdict": "consistent", "comment": "'sinners' is kept apart from 'wicked'."},
+  {"anchor": "rashi:13:13:4", "verdict": "consistent", "comment": "'sinners against the LORD, exceedingly' bears Rashi's deliberate rebellion."},
+  {"anchor": "ibn-ezra:13:13:1", "verdict": "consistent", "comment": "The English joins 'against the LORD' to 'sinners', leaving 'wicked' toward people."},
+  {"anchor": "rashi:13:14:1", "verdict": "consistent", "comment": "The English puts the speech after the separation."},
+  {"anchor": "ibn-ezra:13:15:1", "verdict": "consistent", "comment": "'I will give' stands as a grant made in words."},
+  {"anchor": "rashi:13:16:1", "verdict": "consistent", "comment": "The conditional is rendered as an impossibility: the dust cannot be counted, nor the offspring."},
+  {"anchor": "rashi:13:18:1", "verdict": "consistent", "comment": "Mamre is a personal name: 'the terebinths of Mamre'."},
+  {"anchor": "ibn-ezra:13:18:1", "verdict": "consistent", "comment": "'which are in Hebron' modifies the terebinths."}
+ ]
+}
