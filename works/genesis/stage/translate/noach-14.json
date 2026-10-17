@@ -1,0 +1,735 @@
+{
+ "unit": "noach-14",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "10:9",
+   "english": "He was a mighty hunter before the LORD; therefore it is said, Like Nimrod, a mighty hunter before the LORD.",
+   "literal": "he-was mighty-of hunting before the-LORD on-so it-is-said like-Nimrod mighty-of hunting before the-LORD",
+   "tokens": [
+    {
+     "id": "10:9.1",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "10:9.2",
+     "gloss": "was",
+     "sense": "Qal II.2",
+     "note": "perfect of היה; \"became\" or \"was\""
+    },
+    {
+     "id": "10:9.3",
+     "gloss": "mighty one of"
+    },
+    {
+     "id": "10:9.4",
+     "gloss": "hunting"
+    },
+    {
+     "id": "10:9.5",
+     "gloss": "before",
+     "sense": "I.6",
+     "note": "לִפְנֵי, literally \"to the face of\""
+    },
+    {
+     "id": "10:9.6",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "10:9.7",
+     "gloss": "on account of",
+     "sense": "II"
+    },
+    {
+     "id": "10:9.8",
+     "gloss": "so"
+    },
+    {
+     "id": "10:9.9",
+     "gloss": "it is said",
+     "sense": "Niph",
+     "note": "nifal imperfect: \"it will be said\", of a proverbial saying"
+    },
+    {
+     "id": "10:9.10",
+     "gloss": "like Nimrod"
+    },
+    {
+     "id": "10:9.11",
+     "gloss": "mighty one of"
+    },
+    {
+     "id": "10:9.12",
+     "gloss": "hunting"
+    },
+    {
+     "id": "10:9.13",
+     "gloss": "before",
+     "sense": "I.6"
+    },
+    {
+     "id": "10:9.14",
+     "gloss": "the LORD"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:9.1",
+      "10:9.2"
+     ],
+     "english": "He was",
+     "literal": "'he was'"
+    },
+    {
+     "tokens": [
+      "10:9.3",
+      "10:9.4"
+     ],
+     "english": "a mighty hunter",
+     "literal": "'mighty-of hunting': גִּבּוֹר is construct before צַיִד"
+    },
+    {
+     "tokens": [
+      "10:9.5",
+      "10:9.6"
+     ],
+     "english": "before the LORD",
+     "literal": "'to-the-face-of the LORD'; the English keeps the phrase open (Rashi: in defiance; Ibn Ezra: in worship; Radak and Sforno: intensifier)"
+    },
+    {
+     "tokens": [
+      "10:9.7",
+      "10:9.8",
+      "10:9.9"
+     ],
+     "english": "therefore it is said",
+     "literal": "'on so it-is-said'"
+    },
+    {
+     "tokens": [
+      "10:9.10"
+     ],
+     "english": "Like Nimrod",
+     "literal": "'like-Nimrod'"
+    },
+    {
+     "tokens": [
+      "10:9.11",
+      "10:9.12"
+     ],
+     "english": "a mighty hunter",
+     "literal": "'mighty-of hunting'"
+    },
+    {
+     "tokens": [
+      "10:9.13",
+      "10:9.14"
+     ],
+     "english": "before the LORD",
+     "literal": "'to-the-face-of the LORD'"
+    }
+   ],
+   "grammar": [
+    "גִּבֹּר־צַיִד is a construct chain: 'mighty one of hunting'.",
+    "יֵאָמַר is nifal imperfect: 'it will be said', a proverbial formula, here with the saying quoted after כְּ.",
+    "The etnaḥta on יְהוָה divides the verse into the statement about Nimrod and the proverb it explains.",
+    "The saying repeats the first half, with כְּנִמְרֹד replacing הוּא הָיָה."
+   ],
+   "note": "The Hebrew leaves the sense of לִפְנֵי יהוה open. The English keeps the words and does not choose. Rashi and Ramban read it as defiance (he hunted human minds and led them to rebel); Ibn Ezra reads it as building altars and offering game; Radak and Sforno read it as an intensifier ('exceedingly mighty'). Rashi and Ibn Ezra agree that 'it is said' introduces a proverb.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:9:1",
+     "relation": "records",
+     "summary": "Rashi: צָד דַּעְתָּן שֶׁל בְּרִיוֹת בְּפִיו, he trapped people's minds with his speech and led them to rebel against God; so the hunting is figurative. The English says only 'hunter'."
+    },
+    {
+     "anchor": "rashi:10:9:2",
+     "relation": "records",
+     "summary": "Rashi: מִתְכַּוֵן לְהַקְנִיטוֹ עַל פָּנָיו, he intended to provoke Him to His face. The English keeps 'before the LORD' without choosing this sense."
+    },
+    {
+     "anchor": "rashi:10:9:3",
+     "relation": "follows",
+     "summary": "Rashi: of any man who is brazenly wicked, knowing his Master and intending to rebel against Him, people will say 'like Nimrod, a mighty hunter'. The English follows him in taking the verb as a proverb formula."
+    },
+    {
+     "anchor": "ibn-ezra:10:9:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: לפני ד' means he built altars and offered the animals as burnt offerings there; this is the plain sense (דרך הפשט) and the midrash goes another way. Recorded as an alternative."
+    },
+    {
+     "anchor": "ibn-ezra:10:9:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: מָשָׁל הָיָה גַם בִּימֵי משה, it was a proverb even in Moses' time. The English follows in presenting the clause as a saying."
+    },
+    {
+     "anchor": "radak:10:9:2",
+     "relation": "records",
+     "summary": "Radak: לפני ה' magnifies the might, as in 'a great city to God' (Jonah 3:3); the English does not adopt this."
+    },
+    {
+     "anchor": "sforno:10:9:1",
+     "relation": "records",
+     "summary": "Sforno: 'very mighty', like עיר גדולה לאלהים; recorded as the intensifier reading."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders לִפְנֵי יְהוָה as קֳדָם יְיָ גִבַּר תַּקִּיף, 'mighty before the LORD'."
+   ]
+  },
+  {
+   "ref": "10:10",
+   "english": "The beginning of his kingdom was Babel, Erech, Akkad, and Calneh, in the land of Shinar.",
+   "literal": "and-was beginning-of his-kingdom Babel and-Erech and-Akkad and-Calneh in-land-of Shinar",
+   "tokens": [
+    {
+     "id": "10:10.1",
+     "gloss": "and was",
+     "sense": "Qal III",
+     "note": "wayyiqtol, feminine singular to agree with רֵאשִׁית"
+    },
+    {
+     "id": "10:10.2",
+     "gloss": "the beginning of",
+     "sense": "1.a",
+     "note": "construct state"
+    },
+    {
+     "id": "10:10.3",
+     "gloss": "his kingdom",
+     "sense": "1",
+     "note": "construct form with 3rd masculine suffix"
+    },
+    {
+     "id": "10:10.4",
+     "gloss": "Babel"
+    },
+    {
+     "id": "10:10.5",
+     "gloss": "and Erech"
+    },
+    {
+     "id": "10:10.6",
+     "gloss": "and Akkad"
+    },
+    {
+     "id": "10:10.7",
+     "gloss": "and Calneh"
+    },
+    {
+     "id": "10:10.8",
+     "gloss": "in the land of",
+     "sense": "2",
+     "note": "construct state"
+    },
+    {
+     "id": "10:10.9",
+     "gloss": "Shinar"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:10.1",
+      "10:10.2",
+      "10:10.3"
+     ],
+     "english": "The beginning of his kingdom was",
+     "literal": "'and-was beginning-of his-kingdom'; the wayyiqtol opens the verse as narrative"
+    },
+    {
+     "tokens": [
+      "10:10.4",
+      "10:10.5",
+      "10:10.6",
+      "10:10.7"
+     ],
+     "english": "Babel, Erech, Akkad, and Calneh",
+     "literal": "'Babel and-Erech and-Akkad and-Calneh'"
+    },
+    {
+     "tokens": [
+      "10:10.8",
+      "10:10.9"
+     ],
+     "english": "in the land of Shinar",
+     "literal": "'in-land-of Shinar'"
+    }
+   ],
+   "grammar": [
+    "וַתְּהִי is feminine because it agrees with the subject רֵאשִׁית, not with the predicate list.",
+    "The list is joined with ו before each name after the first; the English uses commas and a final 'and'.",
+    "The etnaḥta falls after כַּלְנֵה and sets בְּאֶרֶץ שִׁנְעָר apart as the location of all four."
+   ],
+   "note": "The pronominal suffix of מַמְלַכְתּוֹ refers to Nimrod, the subject of verses 8 to 9. No normative comment is anchored to this verse.",
+   "commentary": [],
+   "apparatus": []
+  },
+  {
+   "ref": "10:11",
+   "english": "From that land Asshur went out and built Nineveh, Rehoboth-Ir, and Calah,",
+   "literal": "from-the-land the-that went-out Asshur and-he-built (object-mark) Nineveh and (object-mark) Rehoboth Ir and (object-mark) Calah",
+   "tokens": [
+    {
+     "id": "10:11.1",
+     "gloss": "from",
+     "sense": "1.a"
+    },
+    {
+     "id": "10:11.2",
+     "gloss": "the land",
+     "sense": "2"
+    },
+    {
+     "id": "10:11.3",
+     "gloss": "that",
+     "sense": "6"
+    },
+    {
+     "id": "10:11.4",
+     "gloss": "went out",
+     "sense": "Qal 1",
+     "note": "perfect, fronted: the adverbial phrase comes first"
+    },
+    {
+     "id": "10:11.5",
+     "gloss": "Asshur"
+    },
+    {
+     "id": "10:11.6",
+     "gloss": "and built",
+     "sense": "Qal",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "10:11.7",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "10:11.8",
+     "gloss": "Nineveh"
+    },
+    {
+     "id": "10:11.9",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:11.10",
+     "gloss": "Rehoboth"
+    },
+    {
+     "id": "10:11.11",
+     "gloss": "Ir",
+     "sense": "1",
+     "note": "'city'; part of the name or a common noun"
+    },
+    {
+     "id": "10:11.12",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:11.13",
+     "gloss": "Calah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:11.1",
+      "10:11.2",
+      "10:11.3"
+     ],
+     "english": "From that land",
+     "literal": "'from-the-land the-that'"
+    },
+    {
+     "tokens": [
+      "10:11.4",
+      "10:11.5"
+     ],
+     "english": "Asshur went out",
+     "literal": "'went-out Asshur'; Rashi and Ibn Ezra take Asshur as a person"
+    },
+    {
+     "tokens": [
+      "10:11.6"
+     ],
+     "english": "and built",
+     "literal": "'and-he-built'"
+    },
+    {
+     "tokens": [
+      "10:11.7",
+      "10:11.8"
+     ],
+     "english": "Nineveh",
+     "literal": "'(object mark) Nineveh'"
+    },
+    {
+     "tokens": [
+      "10:11.9",
+      "10:11.10",
+      "10:11.11"
+     ],
+     "english": "Rehoboth-Ir",
+     "literal": "'and (object mark) Rehoboth Ir'; 'wide places of a city' or the name Rehoboth-Ir"
+    },
+    {
+     "tokens": [
+      "10:11.12",
+      "10:11.13"
+     ],
+     "english": "and Calah",
+     "literal": "'and (object mark) Calah'"
+    }
+   ],
+   "grammar": [
+    "מִן־הָאָרֶץ הַהִוא is placed before the verb, so the departure from Shinar is emphasised.",
+    "אַשּׁוּר is a personal name here (the subject of וַיִּבֶן), though it is also the name of the land.",
+    "Each city is marked with אֶת; the repeated אֶת־ divides the list.",
+    "The merkha on רְחֹבֹת and tipḥa on עִיר show the two words are read together."
+   ],
+   "note": "אַשּׁוּר may be read as the land (to Asshur he went out, i.e. 'he went out to Assyria', Ramban). The English takes it as the person who went out, as Rashi and Ibn Ezra do. Whether עִיר is part of the name Rehoboth-Ir or means 'the wide streets of the city' (that is, of Nineveh) is left open. The final comma leaves the list to continue into verse 12.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:11:1",
+     "relation": "follows",
+     "summary": "Rashi: when Asshur saw his sons obey Nimrod and rebel against God by building the tower, he left their midst. The English follows in taking Asshur as the subject who went out from that land."
+    },
+    {
+     "anchor": "ibn-ezra:10:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Asshur is a son of Japheth (sic, in the text as printed); this was after the division of the earth, and Nimrod was the first king over Babel. The English follows in taking Asshur as a person who left; Ramban's reading of the verb as 'Nimrod went out to Asshur' is not adopted."
+    }
+   ],
+   "apparatus": [
+    "Ramban takes Nimrod as the subject of 'went out' and Asshur as the destination, 'to Assyria'; the Hebrew form אַשּׁוּר without ה of direction makes this unlikely."
+   ]
+  },
+  {
+   "ref": "10:12",
+   "english": "and Resen, between Nineveh and Calah; that is the great city.",
+   "literal": "and (object-mark) Resen between Nineveh and-between Calah she the-city the-great",
+   "tokens": [
+    {
+     "id": "10:12.1",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:12.2",
+     "gloss": "Resen"
+    },
+    {
+     "id": "10:12.3",
+     "gloss": "between",
+     "sense": "1"
+    },
+    {
+     "id": "10:12.4",
+     "gloss": "Nineveh"
+    },
+    {
+     "id": "10:12.5",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "10:12.6",
+     "gloss": "Calah"
+    },
+    {
+     "id": "10:12.7",
+     "gloss": "she, that",
+     "sense": "1",
+     "note": "feminine pronoun, agrees with עִיר"
+    },
+    {
+     "id": "10:12.8",
+     "gloss": "the city",
+     "sense": "1"
+    },
+    {
+     "id": "10:12.9",
+     "gloss": "the great",
+     "sense": "10",
+     "note": "adjective with the article, in apposition to הָעִיר"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:12.1",
+      "10:12.2"
+     ],
+     "english": "and Resen",
+     "literal": "'and (object mark) Resen'"
+    },
+    {
+     "tokens": [
+      "10:12.3",
+      "10:12.4",
+      "10:12.5",
+      "10:12.6"
+     ],
+     "english": "between Nineveh and Calah",
+     "literal": "'between Nineveh and-between Calah'; בֵּין is repeated before each term"
+    },
+    {
+     "tokens": [
+      "10:12.7",
+      "10:12.8",
+      "10:12.9"
+     ],
+     "english": "that is the great city",
+     "literal": "'she the-city the-great'; the pronoun is the copula"
+    }
+   ],
+   "grammar": [
+    "בֵּין is repeated before each term, as normal in Hebrew.",
+    "הִוא הָעִיר הַגְּדֹלָה is a verbless clause; the feminine pronoun agrees with עִיר.",
+    "The etnaḥta after כָּלַח separates this clause from the preceding list.",
+    "Because of the etnaḥta, the pronoun's antecedent is not fixed: Resen, Nineveh or the whole group."
+   ],
+   "note": "The antecedent of הִוא is ambiguous: Rashi takes it as Nineveh, citing Jonah 3:3; Ibn Ezra prefers Nineveh and allows Resen or Calah. The English keeps the pronoun as 'that' and does not name the city. The commentators agree on Nineveh as the leading reading.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:12:1",
+     "relation": "follows",
+     "summary": "Rashi: הִיא נִינְוֵה, as it says 'Nineveh was an exceedingly great city to God' (Jonah 3:3). The English leaves the antecedent open in wording, though agreeing with this reading."
+    },
+    {
+     "anchor": "ibn-ezra:10:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it is closest to my view that it joins 'and he built Nineveh'; that it joins Resen or Calah is not far-fetched either. The English follows him by not committing to either."
+    }
+   ],
+   "apparatus": [
+    "Whether הִוא refers to Nineveh, Resen or the group Nineveh-Resen-Calah is disputed; Ibn Ezra allows Resen or Calah."
+   ]
+  },
+  {
+   "ref": "10:13",
+   "english": "And Egypt fathered the Ludim, the Anamim, the Lehabim, the Naphtuhim,",
+   "literal": "and-Egypt he-fathered (object-mark) Ludim and (object-mark) Anamim and (object-mark) Lehabim and (object-mark) Naphtuhim",
+   "tokens": [
+    {
+     "id": "10:13.1",
+     "gloss": "and Egypt",
+     "sense": "2.b",
+     "note": "the name Mizraim, in the dual form"
+    },
+    {
+     "id": "10:13.2",
+     "gloss": "fathered",
+     "sense": "Qal 2",
+     "note": "qal of ילד with a male subject: 'begot'"
+    },
+    {
+     "id": "10:13.3",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "10:13.4",
+     "gloss": "the Ludim"
+    },
+    {
+     "id": "10:13.5",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:13.6",
+     "gloss": "the Anamim"
+    },
+    {
+     "id": "10:13.7",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:13.8",
+     "gloss": "the Lehabim"
+    },
+    {
+     "id": "10:13.9",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:13.10",
+     "gloss": "the Naphtuhim"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:13.1",
+      "10:13.2"
+     ],
+     "english": "And Egypt fathered",
+     "literal": "'and-Egypt he-fathered'"
+    },
+    {
+     "tokens": [
+      "10:13.3",
+      "10:13.4"
+     ],
+     "english": "the Ludim",
+     "literal": "'(object mark) Ludim'"
+    },
+    {
+     "tokens": [
+      "10:13.5",
+      "10:13.6"
+     ],
+     "english": "the Anamim",
+     "literal": "'and (object mark) Anamim'"
+    },
+    {
+     "tokens": [
+      "10:13.7",
+      "10:13.8"
+     ],
+     "english": "the Lehabim",
+     "literal": "'and (object mark) Lehabim'"
+    },
+    {
+     "tokens": [
+      "10:13.9",
+      "10:13.10"
+     ],
+     "english": "the Naphtuhim",
+     "literal": "'and (object mark) Naphtuhim'"
+    }
+   ],
+   "grammar": [
+    "The subject מִצְרַיִם comes before the verb, which begins the genealogy of Ham's son.",
+    "All four names are plural gentilics in -ִים, so they name peoples, not single persons.",
+    "The darga on לוּדִים, tevir on עֲנָמִים and tipḥa on לְהָבִים each close a unit in the list.",
+    "The list continues in verse 14."
+   ],
+   "note": "Ibn Ezra's observation that these are all plural (names of regions, each region a family) means 'fathered' is used loosely of peoples. The English keeps 'fathered' and the plural names, with the Hebrew name Mizraim given as Egypt per decisions.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:13:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the Lehabim are so called because their faces are like a flame (לַהַב). A derivation of the name; it does not bear on the English."
+    },
+    {
+     "anchor": "ibn-ezra:10:13:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: these are names of countries, in each of which is a family, so all are plural; the proof is that the Philistines went out from there and שם refers to a place. The English follows by writing the names as plural peoples."
+    }
+   ],
+   "apparatus": [
+    "The BDB entry glosses נַפְתֻּחִים as 'the northern land' and כַּפְתֹּרִי as 'Cretans'; these are data from the lexicon, not decisions of the English."
+   ]
+  },
+  {
+   "ref": "10:14",
+   "english": "the Pathrusim, the Casluhim, from whom the Philistines came, and the Caphtorim.",
+   "literal": "and (object-mark) Pathrusim and (object-mark) Casluhim which went-out from-there Philistim and (object-mark) Caphtorim",
+   "tokens": [
+    {
+     "id": "10:14.1",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:14.2",
+     "gloss": "the Pathrusim"
+    },
+    {
+     "id": "10:14.3",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:14.4",
+     "gloss": "the Casluhim"
+    },
+    {
+     "id": "10:14.5",
+     "gloss": "from whom"
+    },
+    {
+     "id": "10:14.6",
+     "gloss": "came",
+     "sense": "Qal 1",
+     "note": "perfect, plural, with the Philistines as subject"
+    },
+    {
+     "id": "10:14.7",
+     "gloss": "from there"
+    },
+    {
+     "id": "10:14.8",
+     "gloss": "the Philistines"
+    },
+    {
+     "id": "10:14.9",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:14.10",
+     "gloss": "the Caphtorim"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:14.1",
+      "10:14.2"
+     ],
+     "english": "the Pathrusim",
+     "literal": "'and (object mark) Pathrusim'"
+    },
+    {
+     "tokens": [
+      "10:14.3",
+      "10:14.4"
+     ],
+     "english": "the Casluhim",
+     "literal": "'and (object mark) Casluhim'"
+    },
+    {
+     "tokens": [
+      "10:14.5",
+      "10:14.6",
+      "10:14.7",
+      "10:14.8"
+     ],
+     "english": "from whom the Philistines came",
+     "literal": "'which went-out from-there Philistim'; אֲשֶׁר ... מִשָּׁם is a relative with a resumptive adverb, so 'from there' becomes 'from whom'"
+    },
+    {
+     "tokens": [
+      "10:14.9",
+      "10:14.10"
+     ],
+     "english": "and the Caphtorim",
+     "literal": "'and (object mark) Caphtorim'"
+    }
+   ],
+   "grammar": [
+    "אֲשֶׁר ... מִשָּׁם is a relative clause with a resumptive adverb: 'which ... from there'.",
+    "The relative clause may attach to Pathrusim and Casluhim together or only to the second; the revia on כַּסְלֻחִים closes the pair.",
+    "The Philistines follow the verb as subject: 'went out from there, the Philistines'.",
+    "The verse ends the Mizraite list with Caphtorim, set after the parenthesis."
+   ],
+   "note": "The relative clause is ambiguous in attachment. Rashi takes it as 'from both', the Philistines coming from the Pathrusim and Casluhim together; the English leaves the antecedent as the pair. The Caphtorim stand after the parenthesis. Ibn Ezra says Caphtorim are also fathered by Egypt, and 'fathered' (ילד) is said even of a more remote descendant.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:14:1",
+     "relation": "follows",
+     "summary": "Rashi: מִשְּׁנֵיהֶם יָצְאוּ, the Philistines came from both, since the Pathrusim and Casluhim exchanged their wives' beds. The English follows on the antecedent (both) but not on the explanation."
+    },
+    {
+     "anchor": "ibn-ezra:10:14:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Egypt also fathered the Caphtorim, and because the son comes from the father's strength and likeness, one says 'fathered' of him. The English keeps 'and the Caphtorim' as a further object of fathered in verse 13."
+    }
+   ],
+   "apparatus": [
+    "The Philistines are named in the verse as coming from the Casluhim (Amos 9:7 and Jeremiah 47:4 say Caphtor), a known difficulty; the English does not harmonize."
+   ]
+  }
+ ]
+}

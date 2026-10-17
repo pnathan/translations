@@ -1,0 +1,665 @@
+{
+  "unit": "noach-19",
+  "model": "sonnet",
+  "segments": [
+    {
+      "ref": "11:9",
+      "english": "Therefore its name was called Babel, because there the LORD confused the language of all the earth; and from there the LORD scattered them over the face of all the earth.",
+      "literal": "upon-so called its-name Babel because-there confused the-LORD lip-of all-the-earth and-from-there scattered-them the-LORD upon-face-of all-the-earth",
+      "tokens": [
+        {
+          "id": "11:9.1",
+          "gloss": "upon"
+        },
+        {
+          "id": "11:9.2",
+          "gloss": "so",
+          "note": "עַל־כֵּן is an idiom: 'therefore'"
+        },
+        {
+          "id": "11:9.3",
+          "gloss": "called",
+          "sense": "Qal 6",
+          "note": "3rd masculine singular with no stated subject: 'one called'; rendered as a passive"
+        },
+        {
+          "id": "11:9.4",
+          "gloss": "its name",
+          "sense": "3",
+          "note": "construct state with 3rd feminine singular suffix; the antecedent is הָעִיר 'the city' (v. 8)"
+        },
+        {
+          "id": "11:9.5",
+          "gloss": "Babel"
+        },
+        {
+          "id": "11:9.6",
+          "gloss": "because",
+          "sense": "3"
+        },
+        {
+          "id": "11:9.7",
+          "gloss": "there"
+        },
+        {
+          "id": "11:9.8",
+          "gloss": "confused",
+          "sense": "Qal 1",
+          "note": "the verb is the explanation of the name בָּבֶל by wordplay"
+        },
+        {
+          "id": "11:9.9",
+          "gloss": "the LORD"
+        },
+        {
+          "id": "11:9.10",
+          "gloss": "the language of",
+          "sense": "2",
+          "note": "construct; 'lip' (שָׂפָה) here means 'language', as in v. 1"
+        },
+        {
+          "id": "11:9.11",
+          "gloss": "all of",
+          "sense": "1"
+        },
+        {
+          "id": "11:9.12",
+          "gloss": "the earth",
+          "sense": "1.a"
+        },
+        {
+          "id": "11:9.13",
+          "gloss": "and from there"
+        },
+        {
+          "id": "11:9.14",
+          "gloss": "scattered them",
+          "sense": "Hiph 1",
+          "note": "Hifil perfect with 3rd masculine plural suffix"
+        },
+        {
+          "id": "11:9.15",
+          "gloss": "the LORD"
+        },
+        {
+          "id": "11:9.16",
+          "gloss": "over"
+        },
+        {
+          "id": "11:9.17",
+          "gloss": "the face of",
+          "sense": "I.5",
+          "note": "construct plural; עַל־פְּנֵי is 'over the surface of'"
+        },
+        {
+          "id": "11:9.18",
+          "gloss": "all of",
+          "sense": "1"
+        },
+        {
+          "id": "11:9.19",
+          "gloss": "the earth",
+          "sense": "1.a"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "11:9.1",
+            "11:9.2"
+          ],
+          "english": "Therefore",
+          "literal": "'upon so'; an idiom for 'for this reason'"
+        },
+        {
+          "tokens": [
+            "11:9.3",
+            "11:9.4",
+            "11:9.5"
+          ],
+          "english": "its name was called Babel",
+          "literal": "'called its-name Babel'; active verb with indefinite subject, put in the passive in English"
+        },
+        {
+          "tokens": [
+            "11:9.6",
+            "11:9.7"
+          ],
+          "english": "because there",
+          "literal": "'because there'"
+        },
+        {
+          "tokens": [
+            "11:9.8",
+            "11:9.9"
+          ],
+          "english": "the LORD confused",
+          "literal": "'confused the-LORD'"
+        },
+        {
+          "tokens": [
+            "11:9.10",
+            "11:9.11",
+            "11:9.12"
+          ],
+          "english": "the language of all the earth",
+          "literal": "'lip-of all-the-earth'; 'lip' as 'speech'"
+        },
+        {
+          "tokens": [
+            "11:9.13"
+          ],
+          "english": "and from there",
+          "literal": "'and-from-there'"
+        },
+        {
+          "tokens": [
+            "11:9.14",
+            "11:9.15"
+          ],
+          "english": "the LORD scattered them",
+          "literal": "'scattered-them the-LORD'"
+        },
+        {
+          "tokens": [
+            "11:9.16",
+            "11:9.17",
+            "11:9.18",
+            "11:9.19"
+          ],
+          "english": "over the face of all the earth",
+          "literal": "'upon face-of all-the-earth'"
+        }
+      ],
+      "grammar": [
+        "עַל־כֵּן is a stock phrase introducing an explanation of a name or custom: 'therefore'.",
+        "קָרָא has no stated subject; the 3rd masculine singular is impersonal, so 'its name was called'. Ibn Ezra and Radak do not change this.",
+        "The etiology rests on wordplay: בָּבֶל (Babel) and בָּלַל (confuse). The verb בָּלַל is a Qal perfect, 'he confused'.",
+        "שְׂפַת כָּל־הָאָרֶץ: 'the lip of all the earth' means the one speech of 11:1, here 'the language of all the earth'.",
+        "The verse is two clauses beginning with the fronted adverbs שָׁם and מִשָּׁם, a pair: 'there ... and from there'. The etnaḥta on הָאָרֶץ divides them."
+      ],
+      "note": "שָׂפָה is rendered 'language' because 11:1 says the whole earth had one שָׂפָה and its דְּבָרִים, and Radak reads שְׂפַת as the tongues of the nations. 'Therefore its name was called' renders the impersonal active קָרָא.",
+      "commentary": [
+        {
+          "anchor": "rashi:11:9:1",
+          "relation": "not-applicable",
+          "summary": "Rashi: 'ומשם הפיצם' teaches that the generation of the dispersion has no share in the world to come. He asks which was worse, the flood or the dispersion, and answers that the flood generation were robbers who quarrelled and so perished, while these kept love and friendship, 'one language and one set of words'; hence 'the hatred of dissension is great and peace is great'. This is homily and does not bear on the English."
+        },
+        {
+          "anchor": "ibn-ezra:11:9:1",
+          "relation": "follows",
+          "summary": "Ibn Ezra: בָּבֶל is two words, with an aleph missing, like בָּגָד (Gen 30:11) and 'bamah'. The English keeps the plain sound-play with בָּלַל and does not rest on the compound derivation."
+        },
+        {
+          "anchor": "radak:11:9:3",
+          "relation": "records",
+          "summary": "Radak: the form is a compound of בָּא and בַּל, 'confusion came upon them from heaven', rather than a Pi'el from בָּלַל. The English follows the connection with בָּלַל given in the text."
+        },
+        {
+          "anchor": "radak:11:9:1",
+          "relation": "records",
+          "summary": "Radak: He scattered most of them, since they divided into seventy languages and the one original language remained there; because the confusion happened there, the city is named Babel."
+        }
+      ],
+      "apparatus": [
+        "Onkelos renders בָּלַל by בַּלְבֵּל and הֱפִיצָם by בַּדָּרִנּוּן; no variant in the Hebrew is recorded.",
+        "Paragraph mark פ follows the verse."
+      ]
+    },
+    {
+      "ref": "11:10",
+      "english": "These are the generations of Shem. Shem was one hundred years old when he fathered Arpachshad, two years after the flood.",
+      "literal": "these generations-of Shem Shem son-of hundred-of year and-fathered [object-mark] Arpachshad two-years after the-flood",
+      "tokens": [
+        {
+          "id": "11:10.1",
+          "gloss": "these",
+          "sense": "b"
+        },
+        {
+          "id": "11:10.2",
+          "gloss": "the generations of",
+          "note": "construct plural; the heading formula אֵלֶּה תּוֹלְדֹת"
+        },
+        {
+          "id": "11:10.3",
+          "gloss": "Shem"
+        },
+        {
+          "id": "11:10.4",
+          "gloss": "Shem"
+        },
+        {
+          "id": "11:10.5",
+          "gloss": "son of",
+          "sense": "1",
+          "note": "idiom: בֶּן־מְאַת שָׁנָה 'a son of a hundred years' means 'a hundred years old'"
+        },
+        {
+          "id": "11:10.6",
+          "gloss": "a hundred",
+          "sense": "3",
+          "note": "construct feminine singular"
+        },
+        {
+          "id": "11:10.7",
+          "gloss": "years"
+        },
+        {
+          "id": "11:10.8",
+          "gloss": "and he fathered",
+          "sense": "Hiph 1",
+          "note": "Hifil wayyiqtol; the Hifil of יָלַד means 'beget'"
+        },
+        {
+          "id": "11:10.9",
+          "gloss": "[object marker]"
+        },
+        {
+          "id": "11:10.10",
+          "gloss": "Arpachshad"
+        },
+        {
+          "id": "11:10.11",
+          "gloss": "two years"
+        },
+        {
+          "id": "11:10.12",
+          "gloss": "after",
+          "sense": "2.b"
+        },
+        {
+          "id": "11:10.13",
+          "gloss": "the flood"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "11:10.1",
+            "11:10.2",
+            "11:10.3"
+          ],
+          "english": "These are the generations of Shem",
+          "literal": "'these generations-of Shem'; heading formula"
+        },
+        {
+          "tokens": [
+            "11:10.4",
+            "11:10.5",
+            "11:10.6",
+            "11:10.7"
+          ],
+          "english": "Shem was one hundred years old",
+          "literal": "'Shem son-of hundred-of year'"
+        },
+        {
+          "tokens": [
+            "11:10.8",
+            "11:10.9",
+            "11:10.10"
+          ],
+          "english": "when he fathered Arpachshad",
+          "literal": "'and-fathered [obj] Arpachshad'; the wayyiqtol gives the age at the event"
+        },
+        {
+          "tokens": [
+            "11:10.11",
+            "11:10.12",
+            "11:10.13"
+          ],
+          "english": "two years after the flood",
+          "literal": "'two-years after the-flood'"
+        }
+      ],
+      "grammar": [
+        "אֵלֶּה תּוֹלְדֹת opens a new section of the book, here the line of Shem down to Abram.",
+        "The name שֵׁם is repeated: first as genitive of the heading, then as subject of a new nominal clause. The yetiv on both marks the start of each part.",
+        "בֶּן־מְאַת שָׁנָה: age is expressed as 'son of N years', with the number in the construct state.",
+        "וַיּוֹלֶד is Hifil wayyiqtol of יָלַד: the father is the subject, 'he fathered'. It continues the age clause: when he was a hundred, he fathered.",
+        "שְׁנָתַיִם is the dual of שָׁנָה, 'two years'."
+      ],
+      "note": "Rashi reads שֵׁם בֶּן־מְאַת שָׁנָה as the age at the time Arpachshad was born, which is two years after the flood; the English joins the age to the begetting with 'when'. Shem was a hundred when he fathered Arpachshad; Noah was 500 at Shem's birth and the flood came at 600 (5:32; 7:6) so this accords.",
+      "commentary": [
+        {
+          "anchor": "rashi:11:10:1",
+          "relation": "follows",
+          "summary": "Rashi: 'כשהוליד את ארפכשד שנתים אחר המבול': Shem was a hundred years old when he fathered Arpachshad, two years after the flood."
+        },
+        {
+          "anchor": "ibn-ezra:11:10:1",
+          "relation": "not-applicable",
+          "summary": "Ibn Ezra explains שְׁנָתַיִם with a long chronological discussion of Peleg's years and the seventy languages, and rejects the view that seventy builders corresponded to seventy languages. This does not alter the English."
+        },
+        {
+          "anchor": "radak:11:10:4",
+          "relation": "records",
+          "summary": "Radak: we would not know when Arpachshad was born, since Elam and Asshur were born first; the numbering gives the years from creation."
+        }
+      ],
+      "apparatus": [
+        "Paragraph break not marked after this verse."
+      ]
+    },
+    {
+      "ref": "11:11",
+      "english": "And Shem lived, after he fathered Arpachshad, five hundred years, and he fathered sons and daughters.",
+      "literal": "and-lived Shem after fathering-him [object-mark] Arpachshad five hundreds year and-fathered sons and-daughters",
+      "tokens": [
+        {
+          "id": "11:11.1",
+          "gloss": "and lived",
+          "sense": "Qal 1",
+          "note": "wayyiqtol of חָיָה, a final-he verb; the short form is וַיְחִי"
+        },
+        {
+          "id": "11:11.2",
+          "gloss": "Shem"
+        },
+        {
+          "id": "11:11.3",
+          "gloss": "after",
+          "sense": "2.b"
+        },
+        {
+          "id": "11:11.4",
+          "gloss": "his fathering",
+          "sense": "Hiph 1",
+          "note": "infinitive construct with 3rd masculine singular suffix, 'his fathering', here 'he fathered'"
+        },
+        {
+          "id": "11:11.5",
+          "gloss": "[object marker]"
+        },
+        {
+          "id": "11:11.6",
+          "gloss": "Arpachshad"
+        },
+        {
+          "id": "11:11.7",
+          "gloss": "five"
+        },
+        {
+          "id": "11:11.8",
+          "gloss": "hundreds",
+          "sense": "3",
+          "note": "plural of מֵאָה; 'five hundreds' means five hundred"
+        },
+        {
+          "id": "11:11.9",
+          "gloss": "year"
+        },
+        {
+          "id": "11:11.10",
+          "gloss": "and he fathered",
+          "sense": "Hiph 1"
+        },
+        {
+          "id": "11:11.11",
+          "gloss": "sons",
+          "sense": "2"
+        },
+        {
+          "id": "11:11.12",
+          "gloss": "and daughters",
+          "sense": "1"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "11:11.1",
+            "11:11.2"
+          ],
+          "english": "And Shem lived",
+          "literal": "'and-lived Shem'"
+        },
+        {
+          "tokens": [
+            "11:11.3",
+            "11:11.4",
+            "11:11.5",
+            "11:11.6"
+          ],
+          "english": "after he fathered Arpachshad",
+          "literal": "'after fathering-him [obj] Arpachshad'; infinitive with suffix"
+        },
+        {
+          "tokens": [
+            "11:11.7",
+            "11:11.8",
+            "11:11.9"
+          ],
+          "english": "five hundred years",
+          "literal": "'five hundreds year'"
+        },
+        {
+          "tokens": [
+            "11:11.10",
+            "11:11.11",
+            "11:11.12"
+          ],
+          "english": "and he fathered sons and daughters",
+          "literal": "'and-fathered sons and-daughters'"
+        }
+      ],
+      "grammar": [
+        "וַיְחִי־שֵׁם is the wayyiqtol of חָיָה, 'and Shem lived'.",
+        "אַחֲרֵי הוֹלִידוֹ is a preposition with an infinitive construct and a suffix whose referent is the subject: 'after his fathering', 'after he fathered'. The pashta and munaḥ keep the phrase together.",
+        "The number precedes the noun: חֲמֵשׁ מֵאוֹת שָׁנָה 'five hundreds of year', with a singular noun after the number, as in the genealogy formula.",
+        "The repeated וַיּוֹלֶד בָּנִים וּבָנוֹת closes each entry of the genealogy."
+      ],
+      "note": "The unit gives no death formula; Sforno remarks that the verb וַיָּמָת does not appear in these ten generations.",
+      "commentary": [
+        {
+          "anchor": "sforno:11:11:1",
+          "relation": "not-applicable",
+          "summary": "Sforno: unlike the ten generations from Adam to Noah, 'and he died' is not stated here, because all of these were alive when the account turned to Abraham's work of calling on the name of the LORD."
+        }
+      ],
+      "apparatus": [
+        "Paragraph mark ס follows the verse."
+      ]
+    },
+    {
+      "ref": "11:12",
+      "english": "Arpachshad lived thirty-five years and fathered Shelah.",
+      "literal": "and-Arpachshad lived five and-thirty year and-fathered [object-mark] Shelah",
+      "tokens": [
+        {
+          "id": "11:12.1",
+          "gloss": "and Arpachshad"
+        },
+        {
+          "id": "11:12.2",
+          "gloss": "lived",
+          "sense": "Qal 1",
+          "note": "perfect qatal, not wayyiqtol, after a fronted subject"
+        },
+        {
+          "id": "11:12.3",
+          "gloss": "five"
+        },
+        {
+          "id": "11:12.4",
+          "gloss": "and thirty"
+        },
+        {
+          "id": "11:12.5",
+          "gloss": "years"
+        },
+        {
+          "id": "11:12.6",
+          "gloss": "and he fathered",
+          "sense": "Hiph 1"
+        },
+        {
+          "id": "11:12.7",
+          "gloss": "[object marker]"
+        },
+        {
+          "id": "11:12.8",
+          "gloss": "Shelah"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "11:12.1",
+            "11:12.2"
+          ],
+          "english": "Arpachshad lived",
+          "literal": "'and-Arpachshad lived'; the subject comes first"
+        },
+        {
+          "tokens": [
+            "11:12.3",
+            "11:12.4",
+            "11:12.5"
+          ],
+          "english": "thirty-five years",
+          "literal": "'five and-thirty year'; the units come before the tens"
+        },
+        {
+          "tokens": [
+            "11:12.6",
+            "11:12.7",
+            "11:12.8"
+          ],
+          "english": "and fathered Shelah",
+          "literal": "'and-fathered [obj] Shelah'"
+        }
+      ],
+      "grammar": [
+        "The verb חַי is a qatal after a fronted subject, a change from the wayyiqtol of 11:11; it states the age at which he fathered Shelah.",
+        "The number חָמֵשׁ וּשְׁלֹשִׁים puts the units before the tens: 'five and thirty'.",
+        "The verse has no clause for the years after the birth; that comes in v. 13."
+      ],
+      "note": "The Hebrew says he lived 35 years and then fathered Shelah, so the English keeps both statements.",
+      "commentary": [],
+      "apparatus": []
+    },
+    {
+      "ref": "11:13",
+      "english": "Arpachshad lived, after he fathered Shelah, four hundred and three years, and he fathered sons and daughters.",
+      "literal": "and-lived Arpachshad after fathering-him [object-mark] Shelah three years and-four hundreds year and-fathered sons and-daughters",
+      "tokens": [
+        {
+          "id": "11:13.1",
+          "gloss": "and lived",
+          "sense": "Qal 1",
+          "note": "wayyiqtol"
+        },
+        {
+          "id": "11:13.2",
+          "gloss": "Arpachshad"
+        },
+        {
+          "id": "11:13.3",
+          "gloss": "after",
+          "sense": "2.b"
+        },
+        {
+          "id": "11:13.4",
+          "gloss": "his fathering",
+          "sense": "Hiph 1",
+          "note": "infinitive construct with 3rd masculine singular suffix"
+        },
+        {
+          "id": "11:13.5",
+          "gloss": "[object marker]"
+        },
+        {
+          "id": "11:13.6",
+          "gloss": "Shelah"
+        },
+        {
+          "id": "11:13.7",
+          "gloss": "three"
+        },
+        {
+          "id": "11:13.8",
+          "gloss": "years"
+        },
+        {
+          "id": "11:13.9",
+          "gloss": "and four"
+        },
+        {
+          "id": "11:13.10",
+          "gloss": "hundreds",
+          "sense": "3"
+        },
+        {
+          "id": "11:13.11",
+          "gloss": "year"
+        },
+        {
+          "id": "11:13.12",
+          "gloss": "and he fathered",
+          "sense": "Hiph 1"
+        },
+        {
+          "id": "11:13.13",
+          "gloss": "sons",
+          "sense": "2"
+        },
+        {
+          "id": "11:13.14",
+          "gloss": "and daughters",
+          "sense": "1"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "11:13.1",
+            "11:13.2"
+          ],
+          "english": "Arpachshad lived",
+          "literal": "'and-lived Arpachshad'"
+        },
+        {
+          "tokens": [
+            "11:13.3",
+            "11:13.4",
+            "11:13.5",
+            "11:13.6"
+          ],
+          "english": "after he fathered Shelah",
+          "literal": "'after fathering-him [obj] Shelah'"
+        },
+        {
+          "tokens": [
+            "11:13.7",
+            "11:13.8",
+            "11:13.9",
+            "11:13.10",
+            "11:13.11"
+          ],
+          "english": "four hundred and three years",
+          "literal": "'three years and-four hundreds year'; the smaller number is placed first"
+        },
+        {
+          "tokens": [
+            "11:13.12",
+            "11:13.13",
+            "11:13.14"
+          ],
+          "english": "and he fathered sons and daughters",
+          "literal": "'and-fathered sons and-daughters'"
+        }
+      ],
+      "grammar": [
+        "וַיְחִי with the infinitive אַחֲרֵי הוֹלִידוֹ repeats the pattern of v. 11.",
+        "שָׁלֹשׁ שָׁנִים וְאַרְבַּע מֵאוֹת שָׁנָה: the small number comes first, 'three years and four hundred years'; the first noun is plural and the second singular.",
+        "The munaḥ and zaqef qaton on שָׁלֹשׁ שָׁנִים mark it off from the hundreds."
+      ],
+      "note": "The total age is 438 (35 + 403); Ibn Ezra on 11:10 gives 438 for Arpachshad.",
+      "commentary": [],
+      "apparatus": [
+        "Paragraph mark ס follows the verse."
+      ]
+    }
+  ]
+}

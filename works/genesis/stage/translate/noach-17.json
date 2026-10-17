@@ -1,0 +1,146 @@
+{
+  "unit": "noach-17",
+  "model": "sonnet",
+  "segments": [
+    {
+      "ref": "10:29",
+      "english": "Ophir, Havilah, and Jobab: all these were the sons of Joktan.",
+      "literal": "and-[object-mark] Ophir and-[object-mark] Havilah and-[object-mark] Jobab all-of these sons-of Joktan",
+      "tokens": [
+        {"id": "10:29.1", "gloss": "and (object marker)", "note": "אֶת marks the object of the verb 'begot' in 10:26; the list continues from there"},
+        {"id": "10:29.2", "gloss": "Ophir"},
+        {"id": "10:29.3", "gloss": "and (object marker)"},
+        {"id": "10:29.4", "gloss": "Havilah"},
+        {"id": "10:29.5", "gloss": "and (object marker)"},
+        {"id": "10:29.6", "gloss": "Jobab"},
+        {"id": "10:29.7", "gloss": "all of", "sense": "1", "note": "construct state"},
+        {"id": "10:29.8", "gloss": "these", "sense": "b"},
+        {"id": "10:29.9", "gloss": "sons of", "sense": "1", "note": "construct state"},
+        {"id": "10:29.10", "gloss": "Joktan"}
+      ],
+      "phrases": [
+        {"tokens": ["10:29.1", "10:29.2"], "english": "Ophir", "literal": "'and-[object-mark] Ophir'; the object marker has no English counterpart"},
+        {"tokens": ["10:29.3", "10:29.4"], "english": "Havilah", "literal": "'and-[object-mark] Havilah'"},
+        {"tokens": ["10:29.5", "10:29.6"], "english": "and Jobab", "literal": "'and-[object-mark] Jobab'; the last member of the list takes 'and' in English"},
+        {"tokens": ["10:29.7", "10:29.8"], "english": "all these", "literal": "'all-of these'"},
+        {"tokens": ["10:29.9", "10:29.10"], "english": "were the sons of Joktan", "literal": "'sons-of Joktan'; the verb 'were' is supplied, as Hebrew has a verbless clause"}
+      ],
+      "grammar": [
+        "The list is introduced by וְאֶת־ three times: the object marker continues the objects of וְיׇקְטָן יָלַד (10:26), so the names are still the object of 'begot'.",
+        "כׇּל־אֵלֶּה בְּנֵי יׇקְטָן is a verbless clause; English supplies 'were'.",
+        "The etnaḥta on יוֹבָב divides the list of names from the summary."
+      ],
+      "note": "The list of Joktan's sons runs from 10:26 and closes here; the English keeps only the last three names with the summary.",
+      "commentary": [
+        {"anchor": "radak:10:29:1", "relation": "follows", "summary": "Radak: the text says 'all' because none of the other men listed had thirteen sons. This supports reading כׇּל־אֵלֶּה as the full count of Joktan's sons."},
+        {"anchor": "onkelos:10:29:1", "relation": "follows", "summary": "Onkelos renders the verse word for word, with no change of sense."}
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "10:30",
+      "english": "Their homeland stretched from Mesha, as you go toward Sephar, to the eastern mountain.",
+      "literal": "and-was their-dwelling from-Mesha as-you-come Sephar-ward mountain-of the-east",
+      "tokens": [
+        {"id": "10:30.1", "gloss": "and was", "sense": "Qal III.3", "note": "wayyiqtol of הָיָה; here 'be situated, extend'"},
+        {"id": "10:30.2", "gloss": "their dwelling place", "sense": "2.a", "note": "construct state with a 3rd person masculine plural suffix"},
+        {"id": "10:30.3", "gloss": "from Mesha"},
+        {"id": "10:30.4", "gloss": "as you come", "sense": "Qal 2", "note": "infinitive construct of בּוֹא with a 2nd person suffix, an idiom for 'in the direction of'"},
+        {"id": "10:30.5", "gloss": "to Sephar", "note": "the directional ה: 'toward Sephar'"},
+        {"id": "10:30.6", "gloss": "mountain of", "sense": "1", "note": "construct state"},
+        {"id": "10:30.7", "gloss": "the east", "sense": "1.b"}
+      ],
+      "phrases": [
+        {"tokens": ["10:30.1", "10:30.2"], "english": "Their homeland stretched", "literal": "'and-was their-dwelling'; 'was' is rendered 'stretched' because a place-name range follows"},
+        {"tokens": ["10:30.3"], "english": "from Mesha", "literal": "'from-Mesha'"},
+        {"tokens": ["10:30.4", "10:30.5"], "english": "as you go toward Sephar", "literal": "'as-you-come Sephar-ward'; the idiom marks the direction of the boundary"},
+        {"tokens": ["10:30.6", "10:30.7"], "english": "to the eastern mountain", "literal": "'mountain-of the-east'; the English adds 'to' to complete the range"}
+      ],
+      "grammar": [
+        "וַיְהִי is a wayyiqtol of הָיָה, here 'was situated' with the singular verb before the subject מוֹשָׁבָם.",
+        "בֹּאֲכָה is an infinitive construct with a 2nd person suffix: 'as you come'; with סְפָרָה (directional ה) the phrase means 'in the direction of Sephar'.",
+        "הַר הַקֶּדֶם is a construct chain: 'the mountain of the east'.",
+        "The etnaḥta on מִמֵּשָׁא divides the starting point from the boundary."
+      ],
+      "note": "Hebrew has no 'to' before הַר הַקֶּדֶם. It may stand in apposition to סְפָרָה ('Sephar, the eastern mountain'), or mark the second boundary. The English follows Radak and reads it as the end of the range.",
+      "commentary": [
+        {"anchor": "radak:10:30:1", "relation": "follows", "summary": "Radak: after the division they chose the land from Mesha to הַר הַקֶּדֶם, the eastern mountain, and settled there. Saadia identifies מֵשָׁא with Mecca, where the Ishmaelites go on pilgrimage."},
+        {"anchor": "onkelos:10:30:1", "relation": "follows", "summary": "Onkelos: 'and their dwelling was from Mesha, reaching to Sephar, the mountain of the east', and so he reads the range as continuing to the mountain."}
+      ],
+      "apparatus": ["The location of מֵשָׁא and סְפָר is uncertain; Saadia as quoted by Radak identifies מֵשָׁא with Mecca."]
+    },
+    {
+      "ref": "10:31",
+      "english": "These are the sons of Shem, by their clans, by their languages, in their lands, by their nations.",
+      "literal": "these sons-of Shem to-their-clans to-their-tongues in-their-lands to-their-nations",
+      "tokens": [
+        {"id": "10:31.1", "gloss": "these", "sense": "b"},
+        {"id": "10:31.2", "gloss": "sons of", "sense": "1", "note": "construct state"},
+        {"id": "10:31.3", "gloss": "Shem"},
+        {"id": "10:31.4", "gloss": "by their clans", "sense": "1", "note": "ל + construct plural + 3rd person masculine plural suffix"},
+        {"id": "10:31.5", "gloss": "by their languages", "sense": "2", "note": "לָשׁוֹן, 'tongue', here 'language'"},
+        {"id": "10:31.6", "gloss": "in their lands", "sense": "5"},
+        {"id": "10:31.7", "gloss": "by their nations"}
+      ],
+      "phrases": [
+        {"tokens": ["10:31.1", "10:31.2", "10:31.3"], "english": "These are the sons of Shem", "literal": "'these sons-of Shem'; verbless clause, 'are' supplied"},
+        {"tokens": ["10:31.4"], "english": "by their clans", "literal": "'to-their-clans'; ל marks the grouping"},
+        {"tokens": ["10:31.5"], "english": "by their languages", "literal": "'to-their-tongues'"},
+        {"tokens": ["10:31.6"], "english": "in their lands", "literal": "'in-their-lands'"},
+        {"tokens": ["10:31.7"], "english": "by their nations", "literal": "'to-their-nations'"}
+      ],
+      "grammar": [
+        "אֵלֶּה בְנֵי־שֵׁם is a verbless clause: 'these (are) the sons of Shem'.",
+        "Four phrases follow with the same pronominal suffix, each with a prefix: three with ל and one with ב.",
+        "The zaqef on שֵׁם sets off the statement; the tipḥa and etnaḥta then divide the four categories in pairs.",
+        "לָשׁוֹן, 'tongue', has the sense 'language', which looks back to the later story of Babel (11:1)."
+      ],
+      "note": "The same four-part formula closes Ham's line (10:20); here it closes Shem's.",
+      "commentary": [
+        {"anchor": "onkelos:10:31:1", "relation": "follows", "summary": "Onkelos translates מִשְׁפְּחֹתָם as 'their descendants' and גּוֹיֵהֶם as 'their peoples', with no change of sense."}
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "10:32",
+      "english": "These are the clans of the sons of Noah, by their lineages, in their nations; and from these the nations were divided on the earth after the flood.",
+      "literal": "these clans-of sons-of Noah to-their-generations in-their-nations and-from-these were-divided the-nations in-the-earth after the-flood",
+      "tokens": [
+        {"id": "10:32.1", "gloss": "these", "sense": "b"},
+        {"id": "10:32.2", "gloss": "clans of", "sense": "1", "note": "construct state"},
+        {"id": "10:32.3", "gloss": "sons of", "sense": "1", "note": "construct state"},
+        {"id": "10:32.4", "gloss": "Noah"},
+        {"id": "10:32.5", "gloss": "by their lineages", "note": "תּוֹלְדֹת, the word that heads each genealogical section of Genesis, with a suffix"},
+        {"id": "10:32.6", "gloss": "in their nations"},
+        {"id": "10:32.7", "gloss": "and from these", "sense": "b"},
+        {"id": "10:32.8", "gloss": "were divided", "sense": "Niph 2", "note": "nifal perfect, 3rd person plural"},
+        {"id": "10:32.9", "gloss": "the nations"},
+        {"id": "10:32.10", "gloss": "on the earth", "sense": "1.a"},
+        {"id": "10:32.11", "gloss": "after", "sense": "2.b"},
+        {"id": "10:32.12", "gloss": "the flood"}
+      ],
+      "phrases": [
+        {"tokens": ["10:32.1", "10:32.2", "10:32.3", "10:32.4"], "english": "These are the clans of the sons of Noah", "literal": "'these clans-of sons-of Noah'; verbless clause, 'are' supplied"},
+        {"tokens": ["10:32.5"], "english": "by their lineages", "literal": "'to-their-generations'; 'lineages' suits the genealogical use of תּוֹלְדֹת"},
+        {"tokens": ["10:32.6"], "english": "in their nations", "literal": "'in-their-nations'"},
+        {"tokens": ["10:32.7"], "english": "and from these", "literal": "'and-from-these'"},
+        {"tokens": ["10:32.8", "10:32.9"], "english": "the nations were divided", "literal": "'were-divided the-nations'; English puts the subject first"},
+        {"tokens": ["10:32.10"], "english": "on the earth", "literal": "'in-the-earth'"},
+        {"tokens": ["10:32.11", "10:32.12"], "english": "after the flood", "literal": "'after the-flood'"}
+      ],
+      "grammar": [
+        "Hebrew puts the verb before its subject: נִפְרְדוּ הַגּוֹיִם, 'were divided the nations'; the nifal gives a passive or reflexive sense.",
+        "The geresh on וּמֵאֵלֶּה and the tevir on הַגּוֹיִם mark the second half, which looks beyond the genealogy to the spread of nations.",
+        "הַמַּבּוּל, 'the flood', is the word used for the Flood of chapters 6 to 9 alone.",
+        "פ at the end is a paragraph break (petuḥa), which closes the whole table of nations."
+      ],
+      "note": "The English keeps 'after the flood' as stated. Radak notes that the division came only after the dispersal of Peleg's time (10:25), so 'after the flood' is read loosely.",
+      "commentary": [
+        {"anchor": "radak:10:32:1", "relation": "records", "summary": "Radak: they were not divided until after the Peleg division (הַפַּלָּגָה), and he goes on to give the verse's sense as such. The English keeps the plain 'after the flood' and records his timing here."},
+        {"anchor": "radak:10:32:2", "relation": "records", "summary": "Radak: those born after the flood spread out over the earth when they spread out, which was after the Peleg division."},
+        {"anchor": "onkelos:10:32:1", "relation": "follows", "summary": "Onkelos translates 'and from these the peoples were separated in the earth after the flood', in line with the English."}
+      ],
+      "apparatus": ["Radak reads the dispersal as later than the flood by the interval of the Peleg division (10:25)."]
+    }
+  ]
+}

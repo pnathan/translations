@@ -1,0 +1,402 @@
+{
+ "unit": "noach-22",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "11:22",
+   "english": "Serug lived thirty years, and he fathered Nahor.",
+   "literal": "and-lived Serug thirty year and-fathered [object-mark] Nahor",
+   "tokens": [
+    {
+     "id": "11:22.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative past; the verb of the chronology formula"
+    },
+    {
+     "id": "11:22.2",
+     "gloss": "Serug"
+    },
+    {
+     "id": "11:22.3",
+     "gloss": "thirty"
+    },
+    {
+     "id": "11:22.4",
+     "gloss": "years"
+    },
+    {
+     "id": "11:22.5",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol: 'begot'"
+    },
+    {
+     "id": "11:22.6",
+     "gloss": "-"
+    },
+    {
+     "id": "11:22.7",
+     "gloss": "Nahor"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:22.1",
+      "11:22.2",
+      "11:22.3",
+      "11:22.4"
+     ],
+     "english": "Serug lived thirty years",
+     "literal": "'and-lived Serug thirty year'; singular שָׁנָה after a decade number"
+    },
+    {
+     "tokens": [
+      "11:22.5",
+      "11:22.6",
+      "11:22.7"
+     ],
+     "english": "and he fathered Nahor",
+     "literal": "'and-fathered [object-mark] Nahor'"
+    }
+   ],
+   "grammar": [
+    "וַיְחִי and וַיּוֹלֶד are wayyiqtols that carry the genealogy forward.",
+    "The etnaḥta on שָׁנָה divides the verse: age, then the birth.",
+    "The noun שָׁנָה stays singular after שְׁלֹשִׁים, as after tens in general."
+   ],
+   "note": "Names follow decisions.md: Serug, Nahor. הוֹלִיד is rendered 'fathered'.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:22:1",
+     "relation": "follows",
+     "summary": "Onkelos renders the verse closely with וַחֲיָא ... וְאוֹלִיד, agreeing with the plain sense."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "11:23",
+   "english": "Serug lived, after he fathered Nahor, two hundred years, and he fathered sons and daughters.",
+   "literal": "and-lived Serug after his-fathering [object-mark] Nahor two-hundred year and-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "11:23.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative past; the verb of the chronology formula"
+    },
+    {
+     "id": "11:23.2",
+     "gloss": "Serug"
+    },
+    {
+     "id": "11:23.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "11:23.4",
+     "gloss": "his fathering",
+     "sense": "Hiph 1",
+     "note": "infinitive construct with 3ms suffix: 'his fathering'"
+    },
+    {
+     "id": "11:23.5",
+     "gloss": "-"
+    },
+    {
+     "id": "11:23.6",
+     "gloss": "Nahor"
+    },
+    {
+     "id": "11:23.7",
+     "gloss": "two hundred",
+     "sense": "3",
+     "note": "dual form מָאתַיִם: 'two hundred'; the lexicon lists only the sense 'hundredth' under מֵאָה"
+    },
+    {
+     "id": "11:23.8",
+     "gloss": "years"
+    },
+    {
+     "id": "11:23.9",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol"
+    },
+    {
+     "id": "11:23.10",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "11:23.11",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:23.1",
+      "11:23.2"
+     ],
+     "english": "Serug lived",
+     "literal": "'and-lived Serug'"
+    },
+    {
+     "tokens": [
+      "11:23.3",
+      "11:23.4",
+      "11:23.5",
+      "11:23.6"
+     ],
+     "english": "after he fathered Nahor",
+     "literal": "'after his-fathering [object-mark] Nahor'; English finite clause for the infinitive"
+    },
+    {
+     "tokens": [
+      "11:23.7",
+      "11:23.8"
+     ],
+     "english": "two hundred years",
+     "literal": "'two-hundred year'"
+    },
+    {
+     "tokens": [
+      "11:23.9",
+      "11:23.10",
+      "11:23.11"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-fathered sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "אַחֲרֵי הוֹלִידוֹ is a temporal phrase: preposition plus infinitive construct with suffix.",
+    "The English keeps the Hebrew order, with 'after he fathered Nahor' set inside the age statement.",
+    "מָאתַיִם is dual: 'two hundred'.",
+    "בָּנִים וּבָנוֹת, 'sons and daughters', is a formula closing each life."
+   ],
+   "note": "The English keeps Hebrew order so that the phrases stay in sequence; the sense is 'Serug lived two hundred years after he fathered Nahor'.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:23:1",
+     "relation": "follows",
+     "summary": "Onkelos has בָּתַר דְּאוֹלִיד, 'after he fathered', the same sense."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "11:24",
+   "english": "Nahor lived twenty-nine years, and he fathered Terah.",
+   "literal": "and-lived Nahor nine and-twenty year and-fathered [object-mark] Terah",
+   "tokens": [
+    {
+     "id": "11:24.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative past; the verb of the chronology formula"
+    },
+    {
+     "id": "11:24.2",
+     "gloss": "Nahor"
+    },
+    {
+     "id": "11:24.3",
+     "gloss": "nine"
+    },
+    {
+     "id": "11:24.4",
+     "gloss": "and twenty"
+    },
+    {
+     "id": "11:24.5",
+     "gloss": "years"
+    },
+    {
+     "id": "11:24.6",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol"
+    },
+    {
+     "id": "11:24.7",
+     "gloss": "-"
+    },
+    {
+     "id": "11:24.8",
+     "gloss": "Terah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:24.1",
+      "11:24.2",
+      "11:24.3",
+      "11:24.4",
+      "11:24.5"
+     ],
+     "english": "Nahor lived twenty-nine years",
+     "literal": "'and-lived Nahor nine and-twenty year'; units precede tens"
+    },
+    {
+     "tokens": [
+      "11:24.6",
+      "11:24.7",
+      "11:24.8"
+     ],
+     "english": "and he fathered Terah",
+     "literal": "'and-fathered [object-mark] Terah'"
+    }
+   ],
+   "grammar": [
+    "Hebrew puts the units first: תֵּשַׁע וְעֶשְׂרִים, 'nine and twenty'.",
+    "תֵּשַׁע is feminine to agree with שָׁנָה.",
+    "The zaqef qaton on נָחוֹר sets off the subject."
+   ],
+   "note": "Terah is the form fixed in decisions.md; the lexicon spells it Tarah.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:24:1",
+     "relation": "follows",
+     "summary": "Onkelos has עֶשְׂרִין וּתְשַׁע שְׁנִין, the same number."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "11:25",
+   "english": "Nahor lived, after he fathered Terah, one hundred nineteen years, and he fathered sons and daughters.",
+   "literal": "and-lived Nahor after his-fathering [object-mark] Terah nineteen year and-hundred-of year and-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "11:25.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative past; the verb of the chronology formula"
+    },
+    {
+     "id": "11:25.2",
+     "gloss": "Nahor"
+    },
+    {
+     "id": "11:25.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "11:25.4",
+     "gloss": "his fathering",
+     "sense": "Hiph 1",
+     "note": "infinitive construct with 3ms suffix"
+    },
+    {
+     "id": "11:25.5",
+     "gloss": "-"
+    },
+    {
+     "id": "11:25.6",
+     "gloss": "Terah"
+    },
+    {
+     "id": "11:25.7",
+     "gloss": "nine"
+    },
+    {
+     "id": "11:25.8",
+     "gloss": "teen"
+    },
+    {
+     "id": "11:25.9",
+     "gloss": "years"
+    },
+    {
+     "id": "11:25.10",
+     "gloss": "and a hundred",
+     "sense": "3",
+     "note": "construct מְאַת; the lexicon lists only the sense 'hundredth' under מֵאָה"
+    },
+    {
+     "id": "11:25.11",
+     "gloss": "years"
+    },
+    {
+     "id": "11:25.12",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol"
+    },
+    {
+     "id": "11:25.13",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "11:25.14",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:25.1",
+      "11:25.2"
+     ],
+     "english": "Nahor lived",
+     "literal": "'and-lived Nahor'"
+    },
+    {
+     "tokens": [
+      "11:25.3",
+      "11:25.4",
+      "11:25.5",
+      "11:25.6"
+     ],
+     "english": "after he fathered Terah",
+     "literal": "'after his-fathering [object-mark] Terah'"
+    },
+    {
+     "tokens": [
+      "11:25.7",
+      "11:25.8",
+      "11:25.9",
+      "11:25.10",
+      "11:25.11"
+     ],
+     "english": "one hundred nineteen years",
+     "literal": "'nineteen year and-hundred-of year'; Hebrew puts the smaller number first"
+    },
+    {
+     "tokens": [
+      "11:25.12",
+      "11:25.13",
+      "11:25.14"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-fathered sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "תְּשַׁע־עֶשְׂרֵה שָׁנָה וּמְאַת שָׁנָה is 'nineteen years and a hundred years', that is 119.",
+    "The maqqef joins תְּשַׁע to עֶשְׂרֵה as one number.",
+    "The English keeps Hebrew order; the sense is 'Nahor lived 119 years after he fathered Terah'.",
+    "Each verse of the genealogy ends in the formula 'sons and daughters'."
+   ],
+   "note": "Numbers are given in words per decisions.md.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:25:1",
+     "relation": "follows",
+     "summary": "Onkelos has מְאָה וּתְשַׁע עֲשַׂר שְׁנִין, the same number, 119."
+    }
+   ],
+   "apparatus": []
+  }
+ ]
+}

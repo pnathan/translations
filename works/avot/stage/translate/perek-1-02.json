@@ -1,0 +1,1346 @@
+{
+ "unit": "perek-1-02",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "1:7",
+   "english": "Nittai the Arbelite says: Keep far from a bad neighbor, and do not associate with a wicked person, and do not despair of retribution.",
+   "literal": "Nittai the-Arbelite says keep-far from-neighbor bad and-not associate-yourself to-the-wicked and-not despair from-the-retribution",
+   "tokens": [
+    {
+     "id": "1:7.1",
+     "gloss": "Nittai",
+     "note": "proper name"
+    },
+    {
+     "id": "1:7.2",
+     "gloss": "the Arbelite",
+     "sense": "1",
+     "note": "from Arbel; Jastrow: a native or resident of Arbel"
+    },
+    {
+     "id": "1:7.3",
+     "gloss": "says",
+     "sense": "1.1",
+     "note": "participle: 'is saying'; the formula introducing a saying"
+    },
+    {
+     "id": "1:7.4",
+     "gloss": "keep far",
+     "sense": "2.3.2",
+     "note": "Hifil imperative: 'cause yourself to be far', 'distance yourself'"
+    },
+    {
+     "id": "1:7.5",
+     "gloss": "from a neighbor",
+     "sense": "1.1.2",
+     "note": "the lemma given is the verb שָׁכַן; the word is the noun 'neighbor' (cf. bdbs:שָׁכֵן 1.2)"
+    },
+    {
+     "id": "1:7.6",
+     "gloss": "bad",
+     "sense": "2.10.1"
+    },
+    {
+     "id": "1:7.7",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "1:7.8",
+     "gloss": "associate yourself",
+     "sense": "4",
+     "note": "Hitpael: 'join oneself'; the lemma entry gives 'associate, companion'"
+    },
+    {
+     "id": "1:7.9",
+     "gloss": "to a wicked person",
+     "sense": "1.3"
+    },
+    {
+     "id": "1:7.10",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "1:7.11",
+     "gloss": "despair",
+     "sense": "3.3",
+     "note": "Hitpael with מן: 'give up hope of'"
+    },
+    {
+     "id": "1:7.12",
+     "gloss": "of"
+    },
+    {
+     "id": "1:7.13",
+     "gloss": "the retribution",
+     "note": "פֻּרְעָנוּת: calamity, punishment; no lexicon entry in the pack"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:7.1",
+      "1:7.2"
+     ],
+     "english": "Nittai the Arbelite",
+     "literal": "name and origin"
+    },
+    {
+     "tokens": [
+      "1:7.3"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:7.4",
+      "1:7.5",
+      "1:7.6"
+     ],
+     "english": "Keep far from a bad neighbor",
+     "literal": "'keep-far from-neighbor bad'; a bad neighbor, as Bartenura reads, so as not to learn from his deeds or share his downfall"
+    },
+    {
+     "tokens": [
+      "1:7.7",
+      "1:7.8",
+      "1:7.9"
+     ],
+     "english": "and do not associate with a wicked person",
+     "literal": "'and-not associate-yourself to-the-wicked'"
+    },
+    {
+     "tokens": [
+      "1:7.10",
+      "1:7.11",
+      "1:7.12",
+      "1:7.13"
+     ],
+     "english": "and do not despair of retribution",
+     "literal": "'and-not despair from-the-retribution'; do not lose hope that punishment will come"
+    }
+   ],
+   "grammar": [
+    "הַרְחֵק is a Hifil imperative: 'make yourself distant'.",
+    "Two prohibitions use אַל with the imperfect (Hitpael): אַל תִּתְחַבֵּר and אַל תִּתְיָאֵשׁ.",
+    "The three clauses are parallel and short; the saying moves from neighbor to companion to the wicked's fate.",
+    "הָאַרְבֵּלִי is a gentilic: 'the man of Arbel'."
+   ],
+   "note": "וְאַל תִּתְיָאֵשׁ מִן הַפֻּרְעָנוּת: Bartenura and Rambam both read 'do not give up hope that the wicked will be punished'; Rambam adds that punishment may come swiftly in this world.",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:7:1",
+     "relation": "follows",
+     "summary": "Bartenura: keep away so that you do not learn from his deeds, and so that you are not caught in his downfall: 'woe to the wicked, woe to his neighbor'."
+    },
+    {
+     "anchor": "bartenura:1:7:2",
+     "relation": "follows",
+     "summary": "Bartenura: whoever clings to the wicked receives a reward like theirs even if he does not act as they do, like one who enters a tanner's house and carries the bad smell out with him."
+    },
+    {
+     "anchor": "bartenura:1:7:3",
+     "relation": "follows",
+     "summary": "Bartenura: do not say 'this wicked man prospers, I will cling to him'; know that retribution will come quickly, 'for his calamity comes suddenly'."
+    },
+    {
+     "anchor": "rambam:1:7:1",
+     "relation": "follows",
+     "summary": "Rambam: this is a kind of love and fellowship, forbidden so that you not learn from his deeds; when a sinner is seen, do not trust that God will punish him only in the world to come, and do not despair of swift vengeance on him."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads הפורענות (full spelling) for base הַפֻּרְעָנוּת."
+   ]
+  },
+  {
+   "ref": "1:8",
+   "english": "Judah son of Tabbai and Shimon son of Shetach received from them. Judah son of Tabbai says: Do not make yourself like those who arrange the pleas before the judges. When litigants stand before you, let them be in your eyes like the wicked; and when they depart from before you, let them be in your eyes like the innocent, once they have accepted upon themselves the judgment.",
+   "literal": "Judah son-of Tabbai and-Shimon son-of Shetach received from-them Judah son-of Tabbai says not make self-your like-arrangers-of the-judges and-when-are masters-of judgment standing before-you let-be in-your-eyes like-wicked and-when-dismissed from-before-you let-be in-your-eyes like-innocent when-they-accepted upon-them [object-marker] the-judgment",
+   "tokens": [
+    {
+     "id": "1:8.1",
+     "gloss": "Judah",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:8.2",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:8.3",
+     "gloss": "Tabbai",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:8.4",
+     "gloss": "and Shimon",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:8.5",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:8.6",
+     "gloss": "Shetach",
+     "sense": "1",
+     "note": "name; the lemma given is שָׁטַח 'to spread'"
+    },
+    {
+     "id": "1:8.7",
+     "gloss": "received",
+     "sense": "2.1",
+     "note": "Piel perfect: 'received (the tradition)'"
+    },
+    {
+     "id": "1:8.8",
+     "gloss": "from them"
+    },
+    {
+     "id": "1:8.9",
+     "gloss": "Judah",
+     "sense": "1"
+    },
+    {
+     "id": "1:8.10",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:8.11",
+     "gloss": "Tabbai",
+     "sense": "1"
+    },
+    {
+     "id": "1:8.12",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:8.13",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "1:8.14",
+     "gloss": "make",
+     "sense": "1.1.1.4",
+     "note": "'make oneself into'"
+    },
+    {
+     "id": "1:8.15",
+     "gloss": "yourself",
+     "sense": "1",
+     "note": "עֶצֶם: 'self'; the lemma entry given is a place name, but the word is the noun 'self' (Jastrow עֶצֶם 3)"
+    },
+    {
+     "id": "1:8.16",
+     "gloss": "like those who arrange",
+     "sense": "1.1.1",
+     "note": "participle construct; 'arrangers'; see Bartenura and Rambam"
+    },
+    {
+     "id": "1:8.17",
+     "gloss": "the judges",
+     "sense": "1",
+     "note": "דַּיָּן: 'judge', from the root of דִּין"
+    },
+    {
+     "id": "1:8.18",
+     "gloss": "and when they are",
+     "sense": "1.1.3",
+     "note": "temporal ו + כ + שֶׁ + יִהְיוּ"
+    },
+    {
+     "id": "1:8.19",
+     "gloss": "litigants",
+     "sense": "1",
+     "note": "בַּעֲלֵי דִינִין: 'masters of judgment', i.e. parties to a suit; בַּעַל here is 'owner of, party to' (Jastrow בַּעַל 5)"
+    },
+    {
+     "id": "1:8.20",
+     "gloss": "of judgments",
+     "sense": "1",
+     "note": "Mishnaic plural in -in; Vilna reads דינים"
+    },
+    {
+     "id": "1:8.21",
+     "gloss": "standing",
+     "sense": "1"
+    },
+    {
+     "id": "1:8.22",
+     "gloss": "before you",
+     "sense": "1.7.1"
+    },
+    {
+     "id": "1:8.23",
+     "gloss": "let them be",
+     "sense": "1.1.3",
+     "note": "3rd person plural imperfect as jussive"
+    },
+    {
+     "id": "1:8.24",
+     "gloss": "in your eyes",
+     "sense": "1",
+     "note": "בעיניך: 'in your view'; the lemma entry given is a place name Ain, but the word is 'eye'"
+    },
+    {
+     "id": "1:8.25",
+     "gloss": "like the wicked",
+     "sense": "1.3"
+    },
+    {
+     "id": "1:8.26",
+     "gloss": "and when they depart",
+     "sense": "7.2",
+     "note": "Nifal participle: 'those who are dismissed, who take leave'"
+    },
+    {
+     "id": "1:8.27",
+     "gloss": "from before you",
+     "sense": "1.7.1"
+    },
+    {
+     "id": "1:8.28",
+     "gloss": "let them be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:8.29",
+     "gloss": "in your eyes",
+     "sense": "1"
+    },
+    {
+     "id": "1:8.30",
+     "gloss": "like the innocent",
+     "sense": "3",
+     "note": "'acquitted, not guilty' (Jastrow זַכַּאי I)"
+    },
+    {
+     "id": "1:8.31",
+     "gloss": "when they have accepted",
+     "sense": "2.1",
+     "note": "Piel perfect: 'taken upon themselves'"
+    },
+    {
+     "id": "1:8.32",
+     "gloss": "upon themselves"
+    },
+    {
+     "id": "1:8.33",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "1:8.34",
+     "gloss": "the judgment",
+     "sense": "1",
+     "note": "'verdict, the law of the case'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:8.1",
+      "1:8.2",
+      "1:8.3"
+     ],
+     "english": "Judah son of Tabbai",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:8.4",
+      "1:8.5",
+      "1:8.6"
+     ],
+     "english": "and Shimon son of Shetach",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:8.7",
+      "1:8.8"
+     ],
+     "english": "received from them",
+     "literal": "the tradition received from Shemaiah and Avtalyon's predecessors, the pair of 1:6"
+    },
+    {
+     "tokens": [
+      "1:8.9",
+      "1:8.10",
+      "1:8.11"
+     ],
+     "english": "Judah son of Tabbai",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:8.12"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:8.13",
+      "1:8.14",
+      "1:8.15",
+      "1:8.16",
+      "1:8.17"
+     ],
+     "english": "Do not make yourself like those who arrange the pleas before the judges",
+     "literal": "'not make self-your like-arrangers-of the-judges'; arrangers (עוֹרְכִים) of litigants' pleas before the judges, as Bartenura and Rambam read"
+    },
+    {
+     "tokens": [
+      "1:8.18",
+      "1:8.19",
+      "1:8.20",
+      "1:8.21",
+      "1:8.22"
+     ],
+     "english": "When litigants stand before you",
+     "literal": "'and-when-are masters-of judgment standing before-you'"
+    },
+    {
+     "tokens": [
+      "1:8.23",
+      "1:8.24",
+      "1:8.25"
+     ],
+     "english": "let them be in your eyes like the wicked",
+     "literal": "'let-be in-your-eyes like-wicked'"
+    },
+    {
+     "tokens": [
+      "1:8.26",
+      "1:8.27"
+     ],
+     "english": "and when they depart from before you",
+     "literal": "'and-when-dismissed from-before-you'"
+    },
+    {
+     "tokens": [
+      "1:8.28",
+      "1:8.29",
+      "1:8.30"
+     ],
+     "english": "let them be in your eyes like the innocent",
+     "literal": "'let-be in-your-eyes like-innocent'"
+    },
+    {
+     "tokens": [
+      "1:8.31",
+      "1:8.32"
+     ],
+     "english": "once they have accepted upon themselves",
+     "literal": "'when-they-accepted upon-them'"
+    },
+    {
+     "tokens": [
+      "1:8.33"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "1:8.34"
+     ],
+     "english": "the judgment",
+     "literal": "'the-judgment'"
+    }
+   ],
+   "grammar": [
+    "The saying has two parallel temporal clauses with וּכְשֶׁ: 'when they stand ... when they depart'.",
+    "יִהְיוּ ... כִרְשָׁעִים and כְזַכָּאִין compare in similes: before the verdict, treat each as a likely wrongdoer; afterwards, as innocent.",
+    "בַעֲלֵי דִינִין is an idiom: 'masters of judgment', that is, the parties to a case; a Mishnaic plural ending in -ין.",
+    "The first clause begins with אַל plus the imperfect, a prohibition; עַצְמְךָ is 'yourself' (lit. 'your bone, your self').",
+    "קִבְּלוּ מֵהֶם: Piel perfect, 'received from them', the standard formula of transmission in this chapter."
+   ],
+   "note": "כְעוֹרְכֵי הַדַּיָּנִין: Bartenura gives two readings, 'those who arrange the litigants' pleas before the judges' (so also Rambam: those who coach litigants) and 'the great ones of the judges'; the English follows the first. A third reading Bartenura heard: do not act as a senior judge to compel litigants to appear.",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:8:1",
+     "relation": "follows",
+     "summary": "Bartenura: like those who arrange and set out the pleas of the litigants before the judges, for it is forbidden to reveal the law to one litigant. His second reading, 'like the great judges', is recorded here as an alternative and is not adopted."
+    },
+    {
+     "anchor": "bartenura:1:8:2",
+     "relation": "follows",
+     "summary": "Bartenura: let your heart not incline to either party, saying 'so-and-so is a person of standing', and let him not plead a false plea; if you think so, you will not see his guilt."
+    },
+    {
+     "anchor": "bartenura:1:8:3",
+     "relation": "follows",
+     "summary": "Bartenura: do not suspect the one found liable of being a thief; say he perhaps erred. If one has sworn, do not say he swore falsely."
+    },
+    {
+     "anchor": "rambam:1:8:1",
+     "relation": "follows",
+     "summary": "Rambam: the 'arrangers of the judges' are people who learn pleas until they are expert, and compose questions and answers for litigants; the mishnah warns not to resemble them, i.e. not to teach a litigant a plea that will help him."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads הדיינין (full spelling) for base הַדַּיָּנִין.",
+    "Vilna reads דינים (standard plural) for base דִינִין."
+   ]
+  },
+  {
+   "ref": "1:9",
+   "english": "Shimon son of Shetach says: Be thorough in examining the witnesses, and be careful with your words, lest from them they learn to lie.",
+   "literal": "Shimon son-of Shetach says be increasing to-examine [object-marker] the-witnesses and-be careful in-your-words lest from-within-them they-learn to-lie",
+   "tokens": [
+    {
+     "id": "1:9.1",
+     "gloss": "Shimon",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:9.2",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:9.3",
+     "gloss": "Shetach",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:9.4",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:9.5",
+     "gloss": "be",
+     "sense": "1.1.3",
+     "note": "imperative of הָיָה, the contracted form הֱוֵי"
+    },
+    {
+     "id": "1:9.6",
+     "gloss": "thorough",
+     "sense": "1",
+     "note": "participle: 'one who multiplies'; הֱוֵי מַרְבֶּה = 'do much'"
+    },
+    {
+     "id": "1:9.7",
+     "gloss": "in examining",
+     "sense": "1",
+     "note": "Qal infinitive construct with ל; 'cross-examine'"
+    },
+    {
+     "id": "1:9.8",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "1:9.9",
+     "gloss": "the witnesses",
+     "sense": "1",
+     "note": "the lemma entry given in the pack is 'menstruation' (bdbs:עֵד), a different word; the word here is עֵד 'witness' (Jastrow עֵד)"
+    },
+    {
+     "id": "1:9.10",
+     "gloss": "and be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:9.11",
+     "gloss": "careful",
+     "sense": "1"
+    },
+    {
+     "id": "1:9.12",
+     "gloss": "with your words",
+     "sense": "1.3"
+    },
+    {
+     "id": "1:9.13",
+     "gloss": "lest",
+     "note": "שֶׁמָּא: 'lest, perhaps'"
+    },
+    {
+     "id": "1:9.14",
+     "gloss": "from them",
+     "note": "מִתּוֹכָם: 'out of them'; lit. 'from within them'; the antecedent is your words"
+    },
+    {
+     "id": "1:9.15",
+     "gloss": "they learn",
+     "sense": "1.1",
+     "note": "Qal imperfect"
+    },
+    {
+     "id": "1:9.16",
+     "gloss": "to lie",
+     "sense": "2.1",
+     "note": "Piel infinitive: 'to say what is false'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:9.1",
+      "1:9.2",
+      "1:9.3"
+     ],
+     "english": "Shimon son of Shetach",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:9.4"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:9.5",
+      "1:9.6",
+      "1:9.7"
+     ],
+     "english": "Be thorough in examining",
+     "literal": "'be increasing to-examine'; לחקור is the cross-examination of witnesses"
+    },
+    {
+     "tokens": [
+      "1:9.8"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "1:9.9"
+     ],
+     "english": "the witnesses",
+     "literal": "'the-witnesses'"
+    },
+    {
+     "tokens": [
+      "1:9.10",
+      "1:9.11",
+      "1:9.12"
+     ],
+     "english": "and be careful with your words",
+     "literal": "'and-be careful in-your-words'"
+    },
+    {
+     "tokens": [
+      "1:9.13"
+     ],
+     "english": "lest",
+     "literal": "'perhaps'"
+    },
+    {
+     "tokens": [
+      "1:9.14",
+      "1:9.15",
+      "1:9.16"
+     ],
+     "english": "from them they learn to lie",
+     "literal": "'from-within-them they-learn to-lie'; the witnesses or litigants learn from the words of the judge, as Bartenura reads"
+    }
+   ],
+   "grammar": [
+    "הֱוֵי and וֶהֱוֵי are the imperative of הָיָה in its Mishnaic contracted form.",
+    "הֱוֵי מַרְבֶּה plus infinitive: 'be one who does much of', an idiom for thoroughness.",
+    "שֶׁמָּא introduces the feared outcome ('lest'), here with the imperfect יִלְמְדוּ.",
+    "מִתּוֹכָם is ambiguous in its antecedent: your words, or the witnesses; the English keeps 'from them'."
+   ],
+   "note": "שֶׁמָּא מִתּוֹכָם יִלְמְדוּ לְשַׁקֵּר: Bartenura reads 'from the judge's words', a hint such as 'perhaps it happened so', from which a litigant or witness learns to say what did not happen; the English keeps the pronoun ambiguous.",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:9:1",
+     "relation": "follows",
+     "summary": "Bartenura: the judge should not say 'perhaps it happened thus', or 'if so, so-and-so is innocent', for from these words the litigant or the witnesses learn to say something that did not happen."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads לחקור (full spelling) for base לַחְקֹר."
+   ]
+  },
+  {
+   "ref": "1:10",
+   "english": "Shemaiah and Avtalyon received from them. Shemaiah says: Love work, hate lordship, and do not make yourself known to the ruling power.",
+   "literal": "Shemaiah and-Avtalyon received from-them Shemaiah says love [object-marker] the-work and-hate [object-marker] the-lordship and-not make-yourself-known to-the-ruling-power",
+   "tokens": [
+    {
+     "id": "1:10.1",
+     "gloss": "Shemaiah",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:10.2",
+     "gloss": "and Avtalyon",
+     "sense": "1",
+     "note": "name; Jastrow: a Chief Justice of the Sanhedrin"
+    },
+    {
+     "id": "1:10.3",
+     "gloss": "received",
+     "sense": "2.1"
+    },
+    {
+     "id": "1:10.4",
+     "gloss": "from them"
+    },
+    {
+     "id": "1:10.5",
+     "gloss": "Shemaiah",
+     "sense": "1"
+    },
+    {
+     "id": "1:10.6",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:10.7",
+     "gloss": "love",
+     "sense": "1",
+     "note": "Qal imperative; the vowel Hataf-segol in אֱהֹב; Vilna reads אהוב"
+    },
+    {
+     "id": "1:10.8",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "1:10.9",
+     "gloss": "work",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:10.10",
+     "gloss": "and hate",
+     "sense": "1.1.1",
+     "note": "Qal imperative"
+    },
+    {
+     "id": "1:10.11",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "1:10.12",
+     "gloss": "lordship",
+     "sense": "1",
+     "note": "רַבָּנוּת: 'mastery, rank of rabbi, authority'"
+    },
+    {
+     "id": "1:10.13",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "1:10.14",
+     "gloss": "make yourself known",
+     "sense": "1.1.1.1",
+     "note": "Hitpael imperfect: 'make yourself known to, become acquainted with'"
+    },
+    {
+     "id": "1:10.15",
+     "gloss": "to the ruling power",
+     "note": "רְשׁוּת: 'authority, power'; no lexicon entry in the pack"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:10.1",
+      "1:10.2"
+     ],
+     "english": "Shemaiah and Avtalyon",
+     "literal": "names"
+    },
+    {
+     "tokens": [
+      "1:10.3",
+      "1:10.4"
+     ],
+     "english": "received from them",
+     "literal": "the tradition passed on from Yehuda and Shimon"
+    },
+    {
+     "tokens": [
+      "1:10.5"
+     ],
+     "english": "Shemaiah",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:10.6"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:10.7"
+     ],
+     "english": "Love",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "1:10.8"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "1:10.9"
+     ],
+     "english": "work",
+     "literal": "'the-work'; the occupation, a trade"
+    },
+    {
+     "tokens": [
+      "1:10.10"
+     ],
+     "english": "hate",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "1:10.11"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "1:10.12"
+     ],
+     "english": "lordship",
+     "literal": "'the-mastery'; rabbinic or public office, as the commentators read"
+    },
+    {
+     "tokens": [
+      "1:10.13",
+      "1:10.14",
+      "1:10.15"
+     ],
+     "english": "and do not make yourself known to the ruling power",
+     "literal": "'and-not make-yourself-known to-the-ruling-power'"
+    }
+   ],
+   "grammar": [
+    "אֱהֹב and שְׂנָא are two imperatives (Qal) with the object marker אֶת: two commands in parallel, then a prohibition.",
+    "רַבָּנוּת is a Mishnaic abstract noun from רַב: 'mastery, rabbinate'.",
+    "The third clause is a prohibition: אַל with the Hitpael imperfect of יָדַע, 'do not make yourself known'.",
+    "לָרָשׁוּת: the definite 'the authority' is expressed by ה assimilated into ל."
+   ],
+   "note": "וּשְׂנָא אֶת הָרַבָּנוּת: Bartenura gives two readings: do not say 'I am a great man and it is beneath me to work', and 'keep away from lording it over the community, for authority buries its owner'. The English 'lordship' keeps both. לָרָשׁוּת: the commentators agree it means the ruling power (שררה, שלטנות).",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:10:1",
+     "relation": "not-applicable",
+     "summary": "Bartenura: they were righteous converts, descended from Sennacherib; Avtalyon was named 'father of the little ones' because he was head of a court. This concerns the names, not the sense of the saying."
+    },
+    {
+     "anchor": "bartenura:1:10:2",
+     "relation": "follows",
+     "summary": "Bartenura: even one who has a livelihood must engage in work, for idleness leads to boredom."
+    },
+    {
+     "anchor": "bartenura:1:10:3",
+     "relation": "follows",
+     "summary": "Bartenura: his second reading, to distance yourself from exercising authority over a community, is the sense kept in 'lordship'; his first reading, do not say 'I am too great to work', is recorded in the note."
+    },
+    {
+     "anchor": "bartenura:1:10:4",
+     "relation": "follows",
+     "summary": "Bartenura: do not make yourself known to the authority in order to gain rabbinic office through it, or lest they remove you from the will of your Maker, as happened to Doeg the Edomite; authority is called רשות because the power is in its hand to do as it wishes."
+    },
+    {
+     "anchor": "rambam:1:10:1",
+     "relation": "follows",
+     "summary": "Rambam: רשות is rulership; these three qualities protect faith and the world: without work one is driven to theft and sin; seeking office brings trials; nearness to power corrupts, as Doeg shows."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads אהוב for base אֱהֹב."
+   ]
+  },
+  {
+   "ref": "1:11",
+   "english": "Avtalyon says: Sages, be careful with your words, lest you incur the liability of exile and be exiled to a place of evil waters, and the disciples who come after you drink and die, and so it turns out that the name of Heaven is profaned.",
+   "literal": "Avtalyon says sages be-careful in-your-words lest you-incur liability-of exile and-you-be-exiled to-place-of waters the-evil and-drink the-disciples the-coming after-you and-die and-is-found name-of Heaven being-profaned",
+   "tokens": [
+    {
+     "id": "1:11.1",
+     "gloss": "Avtalyon",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:11.2",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:11.3",
+     "gloss": "Sages",
+     "sense": "1.4",
+     "note": "vocative plural"
+    },
+    {
+     "id": "1:11.4",
+     "gloss": "be careful",
+     "note": "Hitpael imperative of זהר; the pack gives no lexicon entry"
+    },
+    {
+     "id": "1:11.5",
+     "gloss": "with your words",
+     "sense": "1.3"
+    },
+    {
+     "id": "1:11.6",
+     "gloss": "lest",
+     "note": "שֶׁמָּא"
+    },
+    {
+     "id": "1:11.7",
+     "gloss": "you incur",
+     "sense": "1",
+     "note": "Qal imperfect of חוב 'to be guilty, owe'"
+    },
+    {
+     "id": "1:11.8",
+     "gloss": "the liability of",
+     "sense": "1",
+     "note": "the lemma entry given is a place name (Hobah); the word is חוֹבָה 'obligation, liability' (Jastrow חוֹבָה)"
+    },
+    {
+     "id": "1:11.9",
+     "gloss": "exile",
+     "sense": "1"
+    },
+    {
+     "id": "1:11.10",
+     "gloss": "and you be exiled",
+     "sense": "1.1.3",
+     "note": "Qal imperfect: 'go into exile'"
+    },
+    {
+     "id": "1:11.11",
+     "gloss": "to a place of",
+     "sense": "1.4"
+    },
+    {
+     "id": "1:11.12",
+     "gloss": "waters",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:11.13",
+     "gloss": "the evil",
+     "sense": "2.4",
+     "note": "'bad of its kind (water)'; figurative, see Rambam and Bartenura"
+    },
+    {
+     "id": "1:11.14",
+     "gloss": "and drink",
+     "sense": "1",
+     "note": "the lemma entry given is a different word (שָׁתָה 'foundation'); the word is the verb 'drink' (Qal imperfect)"
+    },
+    {
+     "id": "1:11.15",
+     "gloss": "the disciples",
+     "sense": "1"
+    },
+    {
+     "id": "1:11.16",
+     "gloss": "who come",
+     "sense": "1",
+     "note": "participle of בוא; the Jastrow entry given for בָּא I is the noun 'father'; the word is the participle 'coming'"
+    },
+    {
+     "id": "1:11.17",
+     "gloss": "after you",
+     "sense": "1"
+    },
+    {
+     "id": "1:11.18",
+     "gloss": "and die",
+     "sense": "1",
+     "note": "Qal imperfect"
+    },
+    {
+     "id": "1:11.19",
+     "gloss": "and it is found",
+     "sense": "1.2.1",
+     "note": "Nifal perfect: 'it turns out'"
+    },
+    {
+     "id": "1:11.20",
+     "gloss": "the name of",
+     "sense": "1",
+     "note": "the lemma entry given is the proper name Shem; the word is the noun 'name' (Jastrow שֵׁם II)"
+    },
+    {
+     "id": "1:11.21",
+     "gloss": "Heaven",
+     "sense": "1.2",
+     "note": "'Heaven' as the abode, hence the name, of God"
+    },
+    {
+     "id": "1:11.22",
+     "gloss": "profaned",
+     "sense": "1.1.2",
+     "note": "Hitpael participle: 'being profaned'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:11.1"
+     ],
+     "english": "Avtalyon",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:11.2"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:11.3"
+     ],
+     "english": "Sages",
+     "literal": "vocative"
+    },
+    {
+     "tokens": [
+      "1:11.4",
+      "1:11.5"
+     ],
+     "english": "be careful with your words",
+     "literal": "Hitpael imperative 'be on your guard'"
+    },
+    {
+     "tokens": [
+      "1:11.6",
+      "1:11.7",
+      "1:11.8",
+      "1:11.9"
+     ],
+     "english": "lest you incur the liability of exile",
+     "literal": "'lest you-incur liability-of exile'; חוֹבַת גָּלוּת, a liability to exile through guilt"
+    },
+    {
+     "tokens": [
+      "1:11.10",
+      "1:11.11",
+      "1:11.12",
+      "1:11.13"
+     ],
+     "english": "and be exiled to a place of evil waters",
+     "literal": "'and-you-be-exiled to-place-of waters the-evil'; the evil waters are a figure for heresy, as Rambam and Bartenura read"
+    },
+    {
+     "tokens": [
+      "1:11.14",
+      "1:11.15",
+      "1:11.16",
+      "1:11.17"
+     ],
+     "english": "and the disciples who come after you drink",
+     "literal": "'and-drink the-disciples the-coming after-you'"
+    },
+    {
+     "tokens": [
+      "1:11.18"
+     ],
+     "english": "and die",
+     "literal": "'and-die'"
+    },
+    {
+     "tokens": [
+      "1:11.19",
+      "1:11.20",
+      "1:11.21",
+      "1:11.22"
+     ],
+     "english": "and so it turns out that the name of Heaven is profaned",
+     "literal": "'and-is-found name-of Heaven being-profaned'; the profanation of God's name"
+    }
+   ],
+   "grammar": [
+    "Hebrew chains six verbs with וְ: תָחוּבוּ, תִגְלוּ, יִשְׁתּוּ, יָמוּתוּ, נִמְצָא, מִתְחַלֵּל: a sequence of consequences after שֶׁמָּא.",
+    "חֲכָמִים is a vocative: 'O sages'.",
+    "The Hebrew has a play of sound and meaning in חוֹבַת גָּלוּת, 'the liability of exile'.",
+    "נִמְצָא plus participle: 'it turns out that (the name of Heaven) is being profaned'.",
+    "מַיִם הָרָעִים: figurative: the evil waters are heretical teachings that the disciples would 'drink'."
+   ],
+   "note": "מַיִם הָרָעִים: the English keeps the metaphor and gives the sense in the note; Bartenura and Rambam both take the 'evil waters' as heresy (מִינוּת, אפיקורסות). Bartenura sees the exile as the way the sages' words fall among heretics, who mis-read them.",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:11:1",
+     "relation": "follows",
+     "summary": "Bartenura: do not leave room in your words for the heretics (מִינִים) to err."
+    },
+    {
+     "anchor": "bartenura:1:11:2",
+     "relation": "follows",
+     "summary": "Bartenura: even if no heretics are where you are, sin may bring exile to a place where people give the Torah a false appearance; those are the 'evil waters', and the disciples who come after drink these heretical words and die in their guilt."
+    },
+    {
+     "anchor": "bartenura:1:11:3",
+     "relation": "follows",
+     "summary": "Bartenura: those false opinions remain in the world, as happened with Antigonos of Socho and Zadok and Boethus, from whom the Sadducees and Boethusians arose."
+    },
+    {
+     "anchor": "rambam:1:11:1",
+     "relation": "follows",
+     "summary": "Rambam: 'evil waters' is a figure for heresy; be careful in your words among the crowd so that they cannot be read another way, for heretics would read them according to their own belief, the disciples would turn to heresy and the name of Heaven would be profaned, as happened with Antigonos, Zadok and Boethus."
+    }
+   ],
+   "apparatus": [
+    "The mishnah as printed here has no variant readings recorded in the pack."
+   ]
+  },
+  {
+   "ref": "1:12",
+   "english": "Hillel and Shammai received from them. Hillel says: Be of the disciples of Aaron, loving peace and pursuing peace, loving people and bringing them near to the Torah.",
+   "literal": "Hillel and-Shammai received from-them Hillel says be of-disciples-of of Aaron loving peace and-pursuing peace loving [object-marker] the-creatures and-bringing-them-near to-the-Torah",
+   "tokens": [
+    {
+     "id": "1:12.1",
+     "gloss": "Hillel",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:12.2",
+     "gloss": "and Shammai",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:12.3",
+     "gloss": "received",
+     "sense": "2.1"
+    },
+    {
+     "id": "1:12.4",
+     "gloss": "from them"
+    },
+    {
+     "id": "1:12.5",
+     "gloss": "Hillel",
+     "sense": "1"
+    },
+    {
+     "id": "1:12.6",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:12.7",
+     "gloss": "be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:12.8",
+     "gloss": "of the disciples of",
+     "sense": "1",
+     "note": "'from among the disciples of'"
+    },
+    {
+     "id": "1:12.9",
+     "gloss": "of",
+     "sense": "1",
+     "note": "שֶׁל: 'belonging to, of'; a Mishnaic genitive particle"
+    },
+    {
+     "id": "1:12.10",
+     "gloss": "Aaron",
+     "sense": "1",
+     "note": "name"
+    },
+    {
+     "id": "1:12.11",
+     "gloss": "loving",
+     "sense": "1",
+     "note": "Qal participle"
+    },
+    {
+     "id": "1:12.12",
+     "gloss": "peace",
+     "sense": "1.5"
+    },
+    {
+     "id": "1:12.13",
+     "gloss": "and pursuing",
+     "sense": "1.1.3",
+     "note": "Qal participle: 'running after, aiming at'"
+    },
+    {
+     "id": "1:12.14",
+     "gloss": "peace",
+     "sense": "1.5"
+    },
+    {
+     "id": "1:12.15",
+     "gloss": "loving",
+     "sense": "1"
+    },
+    {
+     "id": "1:12.16",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "1:12.17",
+     "gloss": "people",
+     "note": "הַבְּרִיּוֹת: 'the creatures', i.e. human beings; no lexicon entry in the pack"
+    },
+    {
+     "id": "1:12.18",
+     "gloss": "and bringing them near",
+     "sense": "1.3",
+     "note": "Piel participle with feminine plural pronoun suffix"
+    },
+    {
+     "id": "1:12.19",
+     "gloss": "to the Torah",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:12.1",
+      "1:12.2"
+     ],
+     "english": "Hillel and Shammai",
+     "literal": "names"
+    },
+    {
+     "tokens": [
+      "1:12.3",
+      "1:12.4"
+     ],
+     "english": "received from them",
+     "literal": "the tradition"
+    },
+    {
+     "tokens": [
+      "1:12.5"
+     ],
+     "english": "Hillel",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:12.6"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:12.7",
+      "1:12.8",
+      "1:12.9",
+      "1:12.10"
+     ],
+     "english": "Be of the disciples of Aaron",
+     "literal": "'be of-disciples-of of Aaron'; מ + תלמידיו שֶׁל אהרן"
+    },
+    {
+     "tokens": [
+      "1:12.11",
+      "1:12.12"
+     ],
+     "english": "loving peace",
+     "literal": "participle plus object"
+    },
+    {
+     "tokens": [
+      "1:12.13",
+      "1:12.14"
+     ],
+     "english": "and pursuing peace",
+     "literal": "'and-pursuing peace'"
+    },
+    {
+     "tokens": [
+      "1:12.15"
+     ],
+     "english": "loving",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:12.16"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "1:12.17"
+     ],
+     "english": "people",
+     "literal": "'the creatures'; all human beings"
+    },
+    {
+     "tokens": [
+      "1:12.18",
+      "1:12.19"
+     ],
+     "english": "and bringing them near to the Torah",
+     "literal": "'and-bringing-them-near to-the-Torah'"
+    }
+   ],
+   "grammar": [
+    "הֱוֵי מִתַּלְמִידָיו שֶׁל אַהֲרֹן: מִ means 'of, among', and the possessive uses שֶׁל, a Mishnaic form.",
+    "Four participles, אוֹהֵב, רוֹדֵף, אוֹהֵב, מְקָרְבָן, follow the imperative as a list of Aaron's qualities.",
+    "שָׁלוֹם is repeated: 'love peace and pursue peace': a pair of verbs of increasing effort.",
+    "הַבְּרִיּוֹת is 'creatures': here human beings generally, not only Israel; מְקָרְבָן has the feminine suffix -ן on 'them'."
+   ],
+   "note": "הַבְּרִיּוֹת: literally 'the creatures'; rendered 'people' because the context (bringing them to the Torah) is of human beings. מְקָרְבָן: the suffix ן is a feminine plural form on a collective noun (בְּרִיּוֹת is feminine plural).",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:12:1",
+     "relation": "follows",
+     "summary": "Bartenura (citing Avot de-Rabbi Natan): Aaron would go to each of two quarrelling people and say that the other regrets it, until they kissed; and he would befriend one who had sinned, who would feel shame and return to the good, as in Malachi 2:6."
+    },
+    {
+     "anchor": "rambam:1:12:1",
+     "relation": "follows",
+     "summary": "Rambam: Aaron would greet one who he knew had sinned, befriend him and speak much with him, until the man was ashamed and returned to good, and became one of his disciples; so the prophet says 'he walked with Me in peace and uprightness, and turned many from iniquity'."
+    }
+   ],
+   "apparatus": [
+    "Quotation of Malachi 2:6 (בְּשָׁלוֹם וּבְמִישׁוֹר הָלַךְ אִתִּי) appears in Bartenura, not in the mishnah.",
+    "No variant readings are recorded in the pack for this mishnah."
+   ]
+  }
+ ]
+}
