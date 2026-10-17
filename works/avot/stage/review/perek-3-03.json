@@ -1922,7 +1922,8 @@
    },
    "severity": "error",
    "reason": "הֵן here is the 3rd plural personal pronoun ('they'), doubled for emphasis and serving as the copula, not a demonstrative."
-  }
+  },
+  {"ref": "3:16", "path": "token:3:16.15.lex", "value": "jastrow:קוּף", "severity": "error", "reason": "editor: the sense was chosen against this entry, the default of the unpatched lemma; the morph patch changed the default entry. Pins the entry the sense refers to."}
  ],
  "verdicts": [
   {

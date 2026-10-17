@@ -17,7 +17,7 @@ Hebrew (Torat Emet): הוּא הָיָה אוֹמֵר, נָגֵד שְׁמָא, 
 | 1:13.7 | שְׁמֵהּ | שְׁמֵ + הּ | שֻׁם `bdbs:שֵׁם` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | שם |  |
 | 1:13.8 | וּדְלֹא | וּ + דְ + לֹא | ו: and + ד: that, who, which + לֹא `bdbs:לֹא` | conjunction: conjunction · particle: relative particle · particle: negative particle |  |  |
 | 1:13.9 | מוֹסִיף | מוֹסִיף | יָסַף `bdbs:יָסַף` | verb: hifil, participle active, masculine, singular, absolute | יסף |  |
-| 1:13.10 | יָסֵף | יָסֵף | סָף | verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | סוף |  |
+| 1:13.10 | יָסֵף | יָסֵף | סָף `jastrow:סַף` | verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | סוף |  |
 | 1:13.11 | וּדְלֹא | וּ + דְ + לֹא | ו: and + ד: that, who, which + לֹא `bdbs:לֹא` | conjunction: conjunction · particle: relative particle · particle: negative particle |  |  |
 | 1:13.12 | יָלֵיף | יָלֵיף | יָלַף `jastrow:יְלֵף` | verb: qal, participle active, masculine, singular, absolute | ילף |  |
 | 1:13.13 | קְטָלָא | קְטָלָא | קְטָלָא `jastrow:קְטָלָא` | noun: common, masculine, singular, absolute | קטל |  |
@@ -1219,6 +1219,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1` hope. Gen. R. s. 91 (ref. to Gen. XLII, 1) אל תהי קורא יש שבר אלא יש ס׳ … שסִבְרוֹ וכ׳ read not yesh sheber (there is corn) but yesh seber (there is hope) &c., v. אִסְפַּקְלַרְיָא. Sifra Aḥăré, Par. 9, ch. XIII ושמא תאמר אבד סִבְרִי ואבד סכויי … אני סִבְרְךָ ו…
 - `2` with פָּנִים, brightness, friendly expression; in gen. countenance. Ab. I, 15 הוי מקבל … בס׳ פ׳ יפות receive every man with a countenance of friendliness. Cant. R. to II, 5; a. fr.
 - `3` understanding, plain sense. Yalk. Sam. 158 כך הוא סִבְרוֹ של דבר this is the plain sense of the thing (the common opinion), opp. to עיקרו של דבר the root, the deeper cause; v. סְבָרָא.
+
+### `jastrow:סַף` סַף: part. a. perf. of סוּף.
+- `1` part. a. perf. of סוּף.
 
 ### `jastrow:סָלַק` סָלַק: to go up, go away.—[
 - `1` to go up, go away.—[

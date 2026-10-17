@@ -72,6 +72,12 @@ Avot morphology. The Haiku translations are kept in `stage/alt/haiku/`.
 - Avot: a model lemma is attached to the first Sefaria candidate entry,
   which is sometimes the wrong homograph; the review repoints `lex` where
   the pack lists the right one.
+- Avot: a reviewer chooses senses against the entry its pack shows, but
+  its own `morph:` patches can change the lemma and with it the default
+  entry. The build keeps every entry a translation or review names; seven
+  tokens carry an editor patch (reason "editor: ...") that pins the entry
+  the sense refers to. BDB Augmented Strong has 150 headwords shared by
+  homographs, and the key `bdbs:<headword>` holds only one of them.
 - Agents share one scratch directory unless told otherwise; prompts now
   give each agent its own.
 

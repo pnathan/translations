@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
@@ -174,7 +175,71 @@ func mishnahLexicon(cfg *work.Config, c *corpus.Corpus) map[string]*lex.Entry {
 			}
 		}
 	}
+	// A translation or a review can name an entry that no current lemma
+	// finds: a morph patch changes the lemma after the sense was chosen.
+	// Keep those entries.
+	for _, key := range namedLexKeys(cfg) {
+		if out[key] != nil {
+			continue
+		}
+		_, head, ok := strings.Cut(key, ":")
+		if !ok {
+			continue
+		}
+		head = lex.StripHomograph(head)
+		b, err := os.ReadFile(cfg.Path("raw", "lexicon", hebrew.Skeleton(head), hebrew.Unpointed(head)+".json"))
+		if err != nil {
+			continue
+		}
+		es, _ := lex.ParseWords(b, head)
+		for _, e := range es {
+			if e.Key == key {
+				out[key] = e
+			}
+		}
+	}
 	return out
+}
+
+// namedLexKeys returns the lexicon keys that the translations and the
+// reviews name explicitly.
+func namedLexKeys(cfg *work.Config) []string {
+	seen := map[string]bool{}
+	tf, _ := filepath.Glob(cfg.Path("stage", "translate", "*.json"))
+	at, _ := filepath.Glob(cfg.Path("stage", "alt", "*", "translate", "*.json"))
+	for _, f := range append(tf, at...) {
+		var tu llm.TranslationUnit
+		if corpus.ReadJSON(f, &tu) != nil {
+			continue
+		}
+		for _, s := range tu.Segments {
+			for _, g := range s.Tokens {
+				if g.Lex != "" {
+					seen[g.Lex] = true
+				}
+			}
+		}
+	}
+	rf, _ := filepath.Glob(cfg.Path("stage", "review", "*.json"))
+	ar, _ := filepath.Glob(cfg.Path("stage", "alt", "*", "review", "*.json"))
+	for _, f := range append(rf, ar...) {
+		var ru llm.ReviewUnit
+		if corpus.ReadJSON(f, &ru) != nil {
+			continue
+		}
+		for _, p := range ru.Patches {
+			var v string
+			if strings.HasSuffix(p.Path, ".lex") && json.Unmarshal(p.Value, &v) == nil && v != "" {
+				seen[v] = true
+			}
+		}
+	}
+	var keys []string
+	for k := range seen {
+		keys = append(keys, k)
+	}
+	sort.Strings(keys)
+	return keys
 }
 
 func report(c *corpus.Corpus, anchors []anchor.Anchor) {

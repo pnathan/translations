@@ -35,7 +35,7 @@ Hebrew (Torat Emet): בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכ
 | 4:1.25 | משלי | משלי | מִשְׁלֵי `jastrow:מִשְׁלֵי` | noun: proper name, book |  |  |
 | 4:1.26 | טז | טז | טז | numeral: numeral, 16, chapter number in citation |  |  |
 | 4:1.27 | טוֹב | טוֹב | טוֹב `bdbs:טוֹב` | adjective: adjective, masculine, singular, absolute | טוב |  |
-| 4:1.28 | אֶרֶךְ | אֶרֶךְ | אֹרֶךְ `bdbs:אֹרֶךְ` | noun: common, masculine, singular, construct | ארך |  |
+| 4:1.28 | אֶרֶךְ | אֶרֶךְ | אָרֵךְ `bdbs:אֹרֶךְ` | adjective: adjective, masculine, singular, construct | ארך |  |
 | 4:1.29 | אַפַּיִם | אַפַּיִם | אַף `bdbs:אַף` | noun: common, masculine, dual, absolute | אנף |  |
 | 4:1.30 | מִגִּבּוֹר | מִ + גִּבּוֹר | מ: from, than + גִּבּוֹר `bdbs:גִּבּוֹר` | preposition: preposition · noun: common, masculine, singular, absolute | גבר |  |
 | 4:1.31 | וּמשֵׁל | וּ + משֵׁל | ו: and + מָשַׁל `jastrow:מָשַׁל I` | conjunction: conjunction · verb: qal, participle active, masculine, singular, absolute | משל |  |
@@ -55,12 +55,12 @@ Hebrew (Torat Emet): בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכ
 | 4:1.45 | תֹאכֵל | תֹאכֵל | אָכַל `bdbs:אָכַל` | verb: qal, imperfect (yiqtol), 2nd person, masculine, singular | אכל |  |
 | 4:1.46 | אַשְׁרֶיךָ | אַשְׁרֶי + ךָ | אֹשֶׁר `bdbs:אֲשֶׁר` +  | noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | אשר |  |
 | 4:1.47 | וְטוֹב | וְ + טוֹב | ו: and + טוֹב `bdbs:טוֹב` | conjunction: conjunction · adjective: adjective, masculine, singular, absolute | טוב |  |
-| 4:1.48 | לָךְ | לָ + ךְ | ל: to, for +  | preposition: preposition · suffix: pronominal, 2nd person, feminine, singular |  |  |
+| 4:1.48 | לָךְ | לָ + ךְ | ל: to, for +  | preposition: preposition · suffix: pronominal, 2nd person, masculine, singular |  |  |
 | 4:1.49 | אַשְׁרֶיךָ | אַשְׁרֶי + ךָ | אֹשֶׁר `bdbs:אֲשֶׁר` +  | noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | אשר |  |
 | 4:1.50 | בָּעוֹלָם | בָּ + עוֹלָם | ב: in, with, by + עוֹלָם `bdbs:עוֹלָם` | preposition: preposition · noun: common, masculine, singular, absolute | עלם |  |
 | 4:1.51 | הַזֶּה | הַ + זֶּה | ה: the + זֶה `bdbs:זֶה` | article: definite article · pronoun: demonstrative pronoun, masculine, singular |  |  |
 | 4:1.52 | וְטוֹב | וְ + טוֹב | ו: and + טוֹב `bdbs:טוֹב` | conjunction: conjunction · adjective: adjective, masculine, singular, absolute | טוב |  |
-| 4:1.53 | לָךְ | לָ + ךְ | ל: to, for +  | preposition: preposition · suffix: pronominal, 2nd person, feminine, singular |  |  |
+| 4:1.53 | לָךְ | לָ + ךְ | ל: to, for +  | preposition: preposition · suffix: pronominal, 2nd person, masculine, singular |  |  |
 | 4:1.54 | לָעוֹלָם | לָ + עוֹלָם | ל: to, for + עוֹלָם `bdbs:עוֹלָם` | preposition: preposition · noun: common, masculine, singular, absolute | עלם |  |
 | 4:1.55 | הַבָּא | הַ + בָּא | ה: the + בָּא `jastrow:בָּא I` | article: definite article · verb: qal, participle active, masculine, singular, absolute | בוא |  |
 | 4:1.56 | אֵיזֶהוּ | אֵיזֶהוּ | אֵיזֶה `jastrow:אֵיזֶה` | pronoun: interrogative pronoun, which, masculine, singular |  |  |
@@ -375,7 +375,7 @@ Hebrew (Torat Emet): הוּא הָיָה אוֹמֵר, אַל תְּהִי בָ�
 | 4:3.3 | אוֹמֵר | אוֹמֵר | אָמַר `bdbs:אָמַר` | verb: qal, participle active, masculine, singular, absolute | אמר |  |
 | 4:3.4 | אַל | אַל | אַל `bdbs:אַל` | particle: negative particle, prohibition |  |  |
 | 4:3.5 | תְּהִי | תְּהִי | הָיָה `bdbs:הָיָה` | verb: qal, imperfect (yiqtol), 2nd person, masculine, singular | היה |  |
-| 4:3.6 | בָז | בָז | בָּז | adjective: adjective, masculine, singular, absolute | בזה |  |
+| 4:3.6 | בָז | בָז | בָּז | verb: qal, participle active, masculine, singular, absolute | בוז |  |
 | 4:3.7 | לְכָל | לְ + כָל | ל: to, for + כֹּל `bdbs:כֹּל` | preposition: preposition · noun: common, masculine, singular, construct | כלל |  |
 | 4:3.8 | אָדָם | אָדָם | אָדָם `bdbs:אָדָם` | noun: common, masculine, singular, absolute | אדם |  |
 | 4:3.9 | וְאַל | וְ + אַל | ו: and + אַל `bdbs:אַל` | conjunction: conjunction · particle: negative particle, prohibition |  |  |
@@ -639,7 +639,7 @@ Hebrew (Torat Emet): רַבִּי יִשְׁמָעֵאל בְּנוֹ אוֹמֵ
 | 4:5.38 | הִלֵּל | הִלֵּל | הִלֵּל `bdbs:הָלַל` | noun: proper name, person, masculine |  |  |
 | 4:5.39 | אוֹמֵר | אוֹמֵר | אָמַר `bdbs:אָמַר` | verb: qal, participle active, masculine, singular, absolute | אמר |  |
 | 4:5.40 | וּדְאִשְׁתַּמֵּשׁ | וּ + דְ + אִשְׁתַּמֵּשׁ | ו: and + ד: that, who (Aramaic relative) + שָׁמַשׁ `jastrow:שָׁמַשׁ` | conjunction: conjunction · particle: relative particle, Aramaic · verb: hitpael, perfect (qatal), 3rd person, masculine, singular | שמש |  |
-| 4:5.41 | בְּתָגָא | בְּ + תָגָא | ב: in, with, by + תָּגָא `jastrow:תָּגָא` | preposition: preposition · noun: common, masculine, singular, absolute | תגא |  |
+| 4:5.41 | בְּתָגָא | בְּ + תָגָא | ב: in, with, by + תָּגָא `jastrow:תָּגָא` | preposition: preposition · noun: common, masculine, singular, emphatic | תגא |  |
 | 4:5.42 | חָלָף | חָלָף | חָלַף `bdbs:חָלַף` | verb: qal, perfect (qatal), 3rd person, masculine, singular | חלף |  |
 | 4:5.43 | הָא | הָא | הָא `bdbs:הֵא` | interjection: interjection, behold |  |  |
 | 4:5.44 | לָמַדְתָּ | לָמַדְתָּ | לָמַד `bdbs:לָמַד` | verb: qal, perfect (qatal), 2nd person, masculine, singular | למד |  |

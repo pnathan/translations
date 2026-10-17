@@ -986,7 +986,8 @@
    },
    "severity": "error",
    "reason": "לֶ with segol before עָ is ל + the article: 'for the future'."
-  }
+  },
+  {"ref": "2:15", "path": "token:2:15.11.lex", "value": "jastrow:רָבָה", "severity": "error", "reason": "editor: the sense was chosen against this entry, the default of the unpatched lemma; the morph patch changed the default entry. Pins the entry the sense refers to."}
  ],
  "verdicts": [
   {

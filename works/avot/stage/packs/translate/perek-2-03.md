@@ -15,7 +15,7 @@ Hebrew (Torat Emet): רַבִּי שִׁמְעוֹן אוֹמֵר, הֱוֵי ז
 | 2:13.5 | זָהִיר | זָהִיר | זָהִיר `jastrow:זָהִיר` | adjective: adjective, masculine, singular, absolute | זהר |  |
 | 2:13.6 | בִּקְרִיאַת | בִּ + קְרִיאַת | ב: in, with, by + קְרִיאָה `jastrow:קְרִיאָה` | preposition: preposition · noun: common, feminine, singular, construct | קרא |  |
 | 2:13.7 | שְׁמַע | שְׁמַע | שְׁמַע `bdbs:שָׁמַע` | noun: common, masculine, singular, absolute | שמע |  |
-| 2:13.8 | וּבַתְּפִלָּה | וּ + בַּ + תְּפִלָּה | ו: and + ב: in, with, by + תְּפִלָּה `bdbs:תְּפִלָּה` | conjunction: conjunction · preposition: preposition · noun: common, feminine, singular, absolute | פלל |  |
+| 2:13.8 | וּבַתְּפִלָּה | וּ + בַּ + תְּפִלָּה | ו: and + ב: in, with, by + תְּפִלָּה `bdbs:תְּפִלָּה` | conjunction: conjunction · preposition: preposition, with the definite article · noun: common, feminine, singular, absolute | פלל |  |
 | 2:13.9 | וּכְשֶׁאַתָּה | וּ + כְּ + שֶׁ + אַתָּה | ו: and + כ: like, as + ש: who, which, that + אַתָּה `bdbs:אַתָּה` | conjunction: conjunction · preposition: preposition · pronoun: relative pronoun · pronoun: personal pronoun, 2nd person, masculine, singular |  |  |
 | 2:13.10 | מִתְפַּלֵּל | מִתְפַּלֵּל | פָּלַל `jastrow:פָּלַל` | verb: hitpael, participle active, masculine, singular, absolute | פלל |  |
 | 2:13.11 | אַל | אַל | אַל `bdbs:אַל` | particle: negative particle, prohibitive |  |  |
@@ -23,11 +23,11 @@ Hebrew (Torat Emet): רַבִּי שִׁמְעוֹן אוֹמֵר, הֱוֵי ז
 | 2:13.13 | תְּפִלָּתְךָ | תְּפִלָּתְ + ךָ | תְּפִלָּה `bdbs:תְּפִלָּה` +  | noun: common, feminine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | פלל |  |
 | 2:13.14 | קֶבַע | קֶבַע | קֶבַע `jastrow:קֶבַע` | noun: common, masculine, singular, absolute | קבע |  |
 | 2:13.15 | אֶלָּא | אֶלָּא | אֶלָּא | conjunction: conjunction, adversative |  |  |
-| 2:13.16 | רַחֲמִים | רַחֲמִים | רַחַם `bdbs:רַחַם` | noun: common, masculine, plural, absolute | רחם |  |
+| 2:13.16 | רַחֲמִים | רַחֲמִים | רַחֲמִים `jastrow:רַחֲמִים` | noun: common, masculine, plural, absolute (plural only: compassion, mercy) | רחם |  |
 | 2:13.17 | וְתַחֲנוּנִים | וְ + תַּחֲנוּנִים | ו: and + תַּחֲנוּן `jastrow:תַּחֲנוּן` | conjunction: conjunction · noun: common, masculine, plural, absolute | חנן |  |
 | 2:13.18 | לִפְנֵי | לִ + פְּנֵי | ל: to, for + פָּנִים `bdbs:פָּנִים` | preposition: preposition · noun: common, masculine, plural, construct | פנה |  |
 | 2:13.19 | הַמָּקוֹם | הַ + מָּקוֹם | ה: the + מָקוֹם `bdbs:מָקוֹם` | article: definite article · noun: common, masculine, singular, absolute | קום |  |
-| 2:13.20 | בָּרוּךְ | בָּרוּךְ | בָּרוּךְ `bdbs:בָּרוּךְ` | adjective: qal, participle passive, masculine, singular, absolute | ברך |  |
+| 2:13.20 | בָּרוּךְ | בָּרוּךְ | בָּרַךְ `bdbs:בָרַךְ` | verb: qal, participle passive, masculine, singular, absolute | ברך |  |
 | 2:13.21 | הוּא | הוּא | הוּא `bdbs:הוּא` | pronoun: personal pronoun, 3rd person, masculine, singular |  |  |
 | 2:13.22 | שֶׁנֶּאֱמַר | שֶׁ + נֶּאֱמַר | ש: who, which, that + אָמַר `bdbs:אָמַר` | pronoun: relative pronoun · verb: nifal, perfect (qatal), 3rd person, masculine, singular | אמר |  |
 | 2:13.23 | יואל | יואל | יוֹאֵל `bdbs:יוֹאֵל` | noun: proper name, person, masculine |  |  |
@@ -36,11 +36,11 @@ Hebrew (Torat Emet): רַבִּי שִׁמְעוֹן אוֹמֵר, הֱוֵי ז
 | 2:13.26 | חַנּוּן | חַנּוּן | חַנּוּן `bdbs:חַנּוּן` | adjective: adjective, masculine, singular, absolute | חנן |  |
 | 2:13.27 | וְרַחוּם | וְ + רַחוּם | ו: and + רַחוּם `bdbs:רַחוּם` | conjunction: conjunction · adjective: adjective, masculine, singular, absolute | רחם |  |
 | 2:13.28 | הוּא | הוּא | הוּא `bdbs:הוּא` | pronoun: personal pronoun, 3rd person, masculine, singular |  |  |
-| 2:13.29 | אֶרֶךְ | אֶרֶךְ | אֹרֶךְ `bdbs:אֹרֶךְ` | noun: common, masculine, singular, construct | ארך |  |
+| 2:13.29 | אֶרֶךְ | אֶרֶךְ | אָרֵךְ `bdbs:אֹרֶךְ` | adjective: adjective, masculine, singular, construct | ארך |  |
 | 2:13.30 | אַפַּיִם | אַפַּיִם | אַף `bdbs:אַף` | noun: common, masculine, dual, absolute | אנף |  |
 | 2:13.31 | וְרַב | וְ + רַב | ו: and + רַב `bdbs:רַב` | conjunction: conjunction · adjective: adjective, masculine, singular, construct | רבב |  |
 | 2:13.32 | חֶסֶד | חֶסֶד | חֶסֶד `bdbs:חֵסֵד` | noun: common, masculine, singular, absolute | חסד |  |
-| 2:13.33 | וְנִחָם | וְ + נִחָם | ו: and + נָחַם `jastrow:נָחַם` | conjunction: conjunction · verb: nifal, perfect (qatal), 3rd person, masculine, singular | נחם |  |
+| 2:13.33 | וְנִחָם | וְ + נִחָם | ו: and + נָחַם `jastrow:נָחַם` | conjunction: conjunction · verb: nifal, participle active, masculine, singular, absolute | נחם |  |
 | 2:13.34 | עַל | עַל | עַל `bdbs:עַל` | preposition: preposition |  |  |
 | 2:13.35 | הָרָעָה | הָ + רָעָה | ה: the + רָעָה `jastrow:רָעָה` | article: definite article · noun: common, feminine, singular, absolute | רעע |  |
 | 2:13.36 | וְאַל | וְ + אַל | ו: and + אַל `bdbs:אַל` | conjunction: conjunction · particle: negative particle, prohibitive |  |  |
@@ -81,7 +81,7 @@ Hebrew (Torat Emet): רַבִּי אֶלְעָזָר אוֹמֵר, הֱוֵי ש
 | 2:14.6 | לִלְמֹד | לִ + לְמֹד | ל: to, for + לָמַד `bdbs:לָמַד` | preposition: preposition · verb: qal, infinitive construct | למד |  |
 | 2:14.7 | תּוֹרָה | תּוֹרָה | תּוֹרָה `bdbs:תּוֹרָה` | noun: common, feminine, singular, absolute | ירה |  |
 | 2:14.8 | וְדַע | וְ + דַע | ו: and + יָדַע `bdbs:יָדַע` | conjunction: conjunction · verb: qal, imperative, masculine, singular | ידע |  |
-| 2:14.9 | מַה | מַה | מַה `bdbs:מָה` | pronoun: interrogative pronoun, what |  |  |
+| 2:14.9 | מַה | מַה | מַה `bdbs:מָה` | pronoun: indefinite pronoun, what, with the relative שֶׁ: 'that which' |  |  |
 | 2:14.10 | שֶּׁתָּשִׁיב | שֶּׁ + תָּשִׁיב | ש: who, which, that + שָׁב | pronoun: relative pronoun · verb: hifil, imperfect (yiqtol), 2nd person, masculine, singular | שוב |  |
 | 2:14.11 | לְאֶפִּיקוֹרוֹס | לְ + אֶפִּיקוֹרוֹס | ל: to, for + אֶפִּיקוֹרוֹס | preposition: preposition · noun: common, masculine, singular, absolute |  |  |
 | 2:14.12 | וְדַע | וְ + דַע | ו: and + יָדַע `bdbs:יָדַע` | conjunction: conjunction · verb: qal, imperative, masculine, singular | ידע |  |
@@ -96,7 +96,7 @@ Hebrew (Torat Emet): רַבִּי אֶלְעָזָר אוֹמֵר, הֱוֵי ש
 | 2:14.21 | שֶׁיְּשַׁלֶּם | שֶׁ + יְּשַׁלֶּם | ש: who, which, that + שָׁלַם `jastrow:שָׁלֵם` | pronoun: relative pronoun · verb: piel, imperfect (yiqtol), 3rd person, masculine, singular | שלם |  |
 | 2:14.22 | לָךְ | לָ + ךְ | ל: to, for +  | preposition: preposition · suffix: pronominal, 2nd person, masculine, singular |  |  |
 | 2:14.23 | שְׂכַר | שְׂכַר | שָׂכָר `bdbs:שָׂכָר` | noun: common, masculine, singular, construct | שכר |  |
-| 2:14.24 | פְּעֻלָּתֶךְ | פְּעֻלָּתֶ + ךָ | פְּעֻלָּה +  | noun: common, feminine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | פעל |  |
+| 2:14.24 | פְּעֻלָּתֶךְ | פְּעֻלָּתֶ + ךְ | פְּעֻלָּה +  | noun: common, feminine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | פעל |  |
 
 Variants:
 - 2:14.6 spelling: Vilna reads ללמוד; base לִלְמֹד
@@ -129,7 +129,7 @@ Hebrew (Torat Emet): רַבִּי טַרְפוֹן אוֹמֵר, הַיּוֹם 
 | 2:15.8 | וְהַפּוֹעֲלִים | וְ + הַ + פּוֹעֲלִים | ו: and + ה: the + פּוֹעֵל `jastrow:פּוֹעֵל` | conjunction: conjunction · article: definite article · noun: common, masculine, plural, absolute | פעל |  |
 | 2:15.9 | עֲצֵלִים | עֲצֵלִים | עָצֵל `bdbs:עָצֵל` | adjective: adjective, masculine, plural, absolute | עצל |  |
 | 2:15.10 | וְהַשָּׂכָר | וְ + הַ + שָּׂכָר | ו: and + ה: the + שָׂכָר `bdbs:שָׂכָר` | conjunction: conjunction · article: definite article · noun: common, masculine, singular, absolute | שכר |  |
-| 2:15.11 | הַרְבֵּה | הַרְבֵּה | רָבָה `jastrow:רָבָה` | verb: hifil, infinitive absolute | רבה |  |
+| 2:15.11 | הַרְבֵּה | הַרְבֵּה | הַרְבֵּה | adverb: adverb, much (a hifil infinitive absolute of רבה, fixed as an adverb) | רבה |  |
 | 2:15.12 | וּבַעַל | וּ + בַעַל | ו: and + בַּעַל `bdbs:בַּעַל` | conjunction: conjunction · noun: common, masculine, singular, construct | בעל |  |
 | 2:15.13 | הַבַּיִת | הַ + בַּיִת | ה: the + בַּיִת `bdbs:בַּיִת` | article: definite article · noun: common, masculine, singular, absolute | בית |  |
 | 2:15.14 | דּוֹחֵק | דּוֹחֵק | דָּחַק | verb: qal, participle active, masculine, singular, absolute | דחק |  |
@@ -164,17 +164,17 @@ Hebrew (Torat Emet): הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ ה�
 | 2:16.8 | וְלֹא | וְ + לֹא | ו: and + לֹא `bdbs:לֹא` | conjunction: conjunction · particle: negative particle |  |  |
 | 2:16.9 | אַתָּה | אַתָּה | אַתָּה `bdbs:אַתָּה` | pronoun: personal pronoun, 2nd person, masculine, singular |  |  |
 | 2:16.10 | בֶן | בֶן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
-| 2:16.11 | חוֹרִין | חוֹרִין | חוֹרִי `jastrow:חוֹרִי I` | noun: common, masculine, plural, absolute | חרר |  |
+| 2:16.11 | חוֹרִין | חוֹרִין | חוֹר `jastrow:חוֹר I` | noun: common, masculine, plural, absolute | חרר |  |
 | 2:16.12 | לִבָּטֵל | לִ + בָּטֵל | ל: to, for + בָּטַל `jastrow:בָּטֵל I` | preposition: preposition · verb: nifal, infinitive construct | בטל |  |
 | 2:16.13 | מִמֶּנָּה | מִמֶּנָּ + ה | מִן `bdbs:מִן` +  | preposition: preposition, from · suffix: pronominal, 3rd person, feminine, singular |  |  |
 | 2:16.14 | אִם | אִם | אִם | conjunction: conjunction, conditional |  |  |
 | 2:16.15 | לָמַדְתָּ | לָמַדְתָּ | לָמַד `bdbs:לָמַד` | verb: qal, perfect (qatal), 2nd person, masculine, singular | למד |  |
 | 2:16.16 | תוֹרָה | תוֹרָה | תּוֹרָה `bdbs:תּוֹרָה` | noun: common, feminine, singular, absolute | ירה |  |
-| 2:16.17 | הַרְבֵּה | הַרְבֵּה | רָבָה `jastrow:רָבָה` | verb: hifil, infinitive absolute | רבה |  |
+| 2:16.17 | הַרְבֵּה | הַרְבֵּה | הַרְבֵּה | adverb: adverb, much (a hifil infinitive absolute of רבה, fixed as an adverb) | רבה |  |
 | 2:16.18 | נוֹתְנִים | נוֹתְנִים | נָתַן `bdbs:נָתַן` | verb: qal, participle active, masculine, plural, absolute | נתן |  |
 | 2:16.19 | לְךָ | לְ + ךָ | ל: to, for +  | preposition: preposition · suffix: pronominal, 2nd person, masculine, singular |  |  |
 | 2:16.20 | שָׂכָר | שָׂכָר | שָׂכָר `bdbs:שָׂכָר` | noun: common, masculine, singular, absolute | שכר |  |
-| 2:16.21 | הַרְבֵּה | הַרְבֵּה | רָבָה `jastrow:רָבָה` | verb: hifil, infinitive absolute | רבה |  |
+| 2:16.21 | הַרְבֵּה | הַרְבֵּה | הַרְבֵּה | adverb: adverb, much (a hifil infinitive absolute of רבה, fixed as an adverb) | רבה |  |
 | 2:16.22 | וְנֶאֱמָן | וְ + נֶאֱמָן | ו: and + נֶאֱמָן `jastrow:נֶאֱמָן` | conjunction: conjunction · adjective: nifal, participle active, masculine, singular, absolute | אמן |  |
 | 2:16.23 | הוּא | הוּא | הוּא `bdbs:הוּא` | pronoun: personal pronoun, 3rd person, masculine, singular |  |  |
 | 2:16.24 | בַעַל | בַעַל | בַּעַל `bdbs:בַּעַל` | noun: common, masculine, singular, construct | בעל |  |
@@ -188,7 +188,7 @@ Hebrew (Torat Emet): הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ ה�
 | 2:16.32 | שְׂכָרָן | שְׂכָרָ + ן | שָׂכָר `bdbs:שָׂכָר` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, plural | שכר |  |
 | 2:16.33 | שֶׁל | שֶׁל | שֶׁל `jastrow:שֶׁל` | particle: genitive particle |  |  |
 | 2:16.34 | צַדִּיקִים | צַדִּיקִים | צַדִּיק `bdbs:צַדִּיק` | noun: common, masculine, plural, absolute | צדק |  |
-| 2:16.35 | לֶעָתִיד | לֶ + עָתִיד | ל: to, for + עָתִיד `bdbs:עָתִיד` | preposition: preposition · noun: common, masculine, singular, absolute | עתד |  |
+| 2:16.35 | לֶעָתִיד | לֶ + עָתִיד | ל: to, for + עָתִיד `bdbs:עָתִיד` | preposition: preposition, with the definite article · noun: common, masculine, singular, absolute | עתד |  |
 | 2:16.36 | לָבֹא | לָ + בֹא | ל: to, for + בָּא `jastrow:בָּא I` | preposition: preposition · verb: qal, infinitive construct | בוא |  |
 
 Variants:
@@ -275,12 +275,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `6` n pr loc
 - `7` a town of Simeon, probably identical to Baalath-beer
 
-### `bdbs:בָּרוּךְ` בָּרוּךְ (n-pr-m): Baruch = "blessed"
-- `1` Baruch = "blessed"
-- `2` friend, amanuensis, and faithful attendant of Jeremiah
-- `3` a priest, the son of Zabbai who assisted Nehemiah in rebuilding the walls of Jerusalem
-- `4` a priest, or family of priests, who signed the covenant with Nehemiah
-- `5` son of Col-hozeh, a descendant of Perez or Pharez, the son of Judah
+### `bdbs:בָרַךְ` בָרַךְ (v): to bless, kneel
+- `1` to bless, kneel
+- `1.1.1` Qal to kneel
+- `1.1.2` Qal to bless
+- `1.2` Niphal to be blessed, bless oneself
+- `1.3` Piel to bless
+- `1.4` Pual to be blessed, be adored
+- `1.5` Hiphil to cause to kneel
+- `1.6` Hithpael to bless oneself
+- `2` (TWOT) to praise, salute, curse
 
 ### `bdbs:גָּמַר` גָּמַר (v): to end, come to an end, complete, cease
 - `1` to end, come to an end, complete, cease
@@ -503,10 +507,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` n
 - `4` captain, chief
 
-### `bdbs:רַחַם` רַחַם (n-pr-m): Raham = "belly"
-- `1` Raham = "belly"
-- `2` a Judaite, son of Shema, father of Jorkoam, and of the descendants of Caleb
-
 ### `bdbs:רַחוּם` רַחוּם (a): compassionate
 - `1` compassionate
 - `1.1` always of God with one possible exception
@@ -569,9 +569,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `jastrow:*בָּא II` *בָּא II (m.): = בֵּיתָא, house. Targ. Is. V, 8 ed. Ven., oth. ed. בֵּיתָא.
 - `1` = בֵּיתָא, house. Targ. Is. V, 8 ed. Ven., oth. ed. בֵּיתָא.
-
-### `jastrow:*בָּרוּךְ` *בָּרוּךְ (m.): (ברך, v. בֵּי) the neck of an animal, so named from the benediction (בָּרוּךְ) which precedes the ritual slaughtering.
-- `1` (ברך, v. בֵּי) the neck of an animal, so named from the benediction (בָּרוּךְ) which precedes the ritual slaughtering.
 
 ### `jastrow:אֲמַר` אֲמַר: 1) as preced. 1). Targ. Gen. I, 3; a. v. fr.—א׳ מר above you quoted an authority, or, it has been stated. Ber. 2ᵃ; a. fr.—א׳ קרא the Scripture says. Ib. 13ᵃ; a. fr.—Y. Orl. III, end, 63ᵇ, a. fr. אמרונה בשם … (in Bab. heb. אֲמָרוּהָ) they said it in behalf of ……
 - `1` 1) as preced. 1). Targ. Gen. I, 3; a. v. fr.—א׳ מר above you quoted an authority, or, it has been stated. Ber. 2ᵃ; a. fr.—א׳ קרא the Scripture says. Ib. 13ᵃ; a. fr.—Y. Orl. III, end, 63ᵇ, a. fr. אמרונה בשם … (in Bab. heb. אֲמָרוּהָ) they said it in behalf of ……
@@ -678,6 +675,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` null, void; vain. Gitt. IV, 1 ב׳ הוא is void (revoked); v. בְּטֵל Ithpe.; a. fr.—Pl. בְּטֵלִים, בְּטֵלִין, בְּטֵי׳.—דברים ב׳ vanities, absurdities. Ab. Zar. 16ᵇ; a. fr.
 - `3` idle, unemployed, not needed. Snh. 21ᵃ one horse והוא ב׳ when not needed (for war). Koh. R. to VI, 8.—Pl. as supra. Y. Meg. I, 70ᵇ bot. עשרה בטילין … לביה"כ (where there are) ten men at leisure for attending Synagogue, v. בַּטְלָן. Ber. 16ᵃ והוא שב׳ ממלאכתן pr…
 
+### `jastrow:בָּרַךְ` בָּרַךְ: to cave out. Denom. בְּרֵכָה, בֶּרֶךְ; cmp. בּוּרְכָּא, בּוּרְכְּתָא.
+- `1` to cave out. Denom. בְּרֵכָה, בֶּרֶךְ; cmp. בּוּרְכָּא, בּוּרְכְּתָא.
+- `2` (cmp. ברר) to select, point out (cmp. esp. Gen. II, 3) whence to bless (Pi.).—Part. pass. בָּרוּךְ chosen, blessed, praised. הקדוש ב׳ הוא (abbr. הקב"ה) the Holy One, blessed be He. Pes. 118ᵃ; a. v. fr. Ib. 104ᵇ, a. fr. פותח בב׳ וכ׳ he (who prays) opens the ben…
+- `3.1` Pi. (b. h.)
+- `3.2` Pi. to praise, bless, esp. to recite the due benediction. Ber. VI, 1. Ib. 5 בי׳ על היין having recited the blessing over wine &c. Pes. X, 9 ב׳ ברכת הפסח having recited the blessing over the Paschal lamb. Ib. 5 אנחנו חייבים … לְבָרֵךְ we are bound to … praise &c.; …
+- `3.3` Pi. (cmp. נקב) to blaspheme. Snh. 56ᵃ עד שֶיְבָרֵךְ שם בשם until he blasphemes the Lord by His name. Ib. שבי׳ את השם בכינוי who blasphemed the Lord by an attribute.—Part. Pu. מְבוֹרָךְ blessed, praiseworthy. Ber. VII, 3; a. fr.
+- `3.4` Pi. *to cut through, to clear virgin ground or forest. Tosef. Shebi. III, 20 ed. Zuck. (Var. מגדר); Y. ib. IV, 35ᵇ bot. מבדין; Y. Sabb. VII, 10ᵃ top המברה, v. בהי h. [Tosef. Shebi. I, 6 מבורכות, v. infra.]
+- `4.1` Hithpa. , Nithpa. נִתְבָּרֵךְ to be blessed (praised); to be increased (v. בְּרָכָה). Y. Ber. IX, 14ᵃ top ויִתְבָּרַךְ and be blessed. Y. M. Kat. I, beg. 80ᵃ if the waters were scanty ונִתְבָּרְכוּ and grew plentiful. Yeb. 63ᵃ; a. fr.
+- `5.1` Hif. (denom. of בֶּרֶךְ or בְּרִיכָה) to form a knee, to engraft; esp. to bend a vine by drawing it into the ground and making it grow forth as an independent plant, to sink. Shebi. II, 6; R. Hash. 10ᵇ; a. fr.—Tosef. Shebi. I, 6 אם היו מוּבְרָכוֹת (incorr. מבורכ׳) …
+
 ### `jastrow:גָּמַר I` גָּמַר I: , Pi. גִּמֵּר (denom. of מוּגְמָר, v. גּוּמְרָא) to perfume (clothes) with burned spices. Bets. 22ᵇ לְגַמֵּר for the purpose of perfuming clothes. Ber. 53ᵃ
 - `1` , Pi. גִּמֵּר (denom. of מוּגְמָר, v. גּוּמְרָא) to perfume (clothes) with burned spices. Bets. 22ᵇ לְגַמֵּר for the purpose of perfuming clothes. Ber. 53ᵃ
 - `2.1` Hithpa. to be perfumed, soaked with perfume. Sabb. 18ᵃ you may put mugmar under the clothes on the eve of Sabbath, ומִתְגַּמְּרִין והולכין וכ׳ and the process of soaking is continued during the entire Sabbath day. Bets. l. c. הבית מִתְגַּמֵּר מאליו the room is perfume…
@@ -712,11 +719,13 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `jastrow:חַנּוּן` חַנּוּן (m.): merciful, gracious Sabb. 133ᵇ.
 - `1` merciful, gracious Sabb. 133ᵇ.
 
-### `jastrow:חוֹרִי I` חוֹרִי I (m.): = אֲחוֹרִי, another, second. Y. Peah VIII, 21ᵃ אתא חד סיעא ח׳ a second caravan came.—Pl. חוֹרְיֵי. Y. Ber. IX, 14ᵃ bot. אית לך ח׳ there are other cases for you to quote.—Fem. חוֹרִי, חוֹרַיְתָא, חוֹרַיְי׳ (noun) something else. Lev. R. s. 33 אמר ח׳ gave anothe…
-- `1` = אֲחוֹרִי, another, second. Y. Peah VIII, 21ᵃ אתא חד סיעא ח׳ a second caravan came.—Pl. חוֹרְיֵי. Y. Ber. IX, 14ᵃ bot. אית לך ח׳ there are other cases for you to quote.—Fem. חוֹרִי, חוֹרַיְתָא, חוֹרַיְי׳ (noun) something else. Lev. R. s. 33 אמר ח׳ gave anothe…
+### `jastrow:חוֹר I` חוֹר I (m.): preced. wds.)
+- `1` preced. wds.)
+- `2` hole, cavity. Pes. 8ᵃ ח׳ שבין אדם לחבירו a cave between two residences of neighbors.—Sabb. 52ᵇ מחט שניטל חוּרָהּ (Ms. M. חוּדְדָהּ, Ms. O. חֲרָרָהּ, some ed. חוּדָּהּ) a needle whose eye is broken off; ib. 123ᵃ חֲרָרָהּ (Ms. M. חוּדָּהּ); Kel. XIII, 5 חֲרִירָה…
+- `3` ant’s store, v. חוֹרָר. [Pesik. Shor p. 74ᵇ חורין דדהב, v. חַזּוּר.] [Y. Maasr. V, end, 52ᵃ חור אחד, v. זוּר II.]
 
-### `jastrow:חוֹרִי II` חוֹרִי II (f.): (b. h.) cakes, v. חֲרָרָה.
-- `1` (b. h.) cakes, v. חֲרָרָה.
+### `jastrow:חוֹר II` חוֹר II (m.): (b. h.), pl. חוֹרִין [white garments,] freedom; בֶּן ח׳, בַּת ח׳ free, freed, opp. to slave. Gitt. IV, 4 ועושה … בן ח׳ and he must declare him free. Ib. 5 חציו עבד וחציו בן ח׳ half a slave and half a freedman; a. fr.—Pl. בְּנֵי ח׳. B. Kam. I, 3 עדים ב׳ ח׳ וכ׳ …
+- `1` (b. h.), pl. חוֹרִין [white garments,] freedom; בֶּן ח׳, בַּת ח׳ free, freed, opp. to slave. Gitt. IV, 4 ועושה … בן ח׳ and he must declare him free. Ib. 5 חציו עבד וחציו בן ח׳ half a slave and half a freedman; a. fr.—Pl. בְּנֵי ח׳. B. Kam. I, 3 עדים ב׳ ח׳ וכ׳ …
 
 ### `jastrow:טַרְפוֹן` טַרְפוֹן (pr. n. m.): Tarfon, a Tannai (v. Fr. Darkhé Mish., p. 101 sq.). Pes. X, 6; a. v. fr.—V. טְרִיפוֹן.
 - `1` Tarfon, a Tannai (v. Fr. Darkhé Mish., p. 101 sq.). Pes. X, 6; a. v. fr.—V. טְרִיפוֹן.
@@ -869,15 +878,11 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `jastrow:רַבִּי` רַבִּי (m.): (v. רַב II) [my teacher, my master,] Rabbi, title of scholars, esp. of the Tannaim, and of the Palestinian Amoraim. B. Mets. 85ᵃ חכים … ור׳ קרו לך וכ׳ I shall make thee a ḥackim, and a gold-embroidered cloak they shall spread over thee, and Rabbi they shall ca…
 - `1` (v. רַב II) [my teacher, my master,] Rabbi, title of scholars, esp. of the Tannaim, and of the Palestinian Amoraim. B. Mets. 85ᵃ חכים … ור׳ קרו לך וכ׳ I shall make thee a ḥackim, and a gold-embroidered cloak they shall spread over thee, and Rabbi they shall ca…
 
+### `jastrow:רַחֲמִים` רַחֲמִים (m. pl.): love, mercy; (sub. בקשת) prayer. Ber. 7ᵃ שיכבשו רַחֲמַי את כעסי וכ׳ that my mercy may conquer my anger &c., v. גָּלַל. Ib. שיכבשו רַחֲמֶיךָ וכ׳ that thy mercy &c. Ib. 10ᵃ, sq. אל ימנע עצמו מן הר׳ must not despair of mercy (cease to pray), v. מָנַע. Ib. 55ᵃ שלש…
+- `1` love, mercy; (sub. בקשת) prayer. Ber. 7ᵃ שיכבשו רַחֲמַי את כעסי וכ׳ that my mercy may conquer my anger &c., v. גָּלַל. Ib. שיכבשו רַחֲמֶיךָ וכ׳ that thy mercy &c. Ib. 10ᵃ, sq. אל ימנע עצמו מן הר׳ must not despair of mercy (cease to pray), v. מָנַע. Ib. 55ᵃ שלש…
+
 ### `jastrow:רַחוּם` רַחוּם (m.): merciful. Sabb. 133ᵇ מה הוא חנון ור׳ וכ׳ as He is gracious and merciful, so be thou &c.; a. e.
 - `1` merciful. Sabb. 133ᵇ מה הוא חנון ור׳ וכ׳ as He is gracious and merciful, so be thou &c.; a. e.
-
-### `jastrow:רָבֶה` רָבֶה (f.): (= רָוָה) moist, saturated with liquid, opp. עבה thick and pulpy. Y. Pes. X, 37ᵈ top צריכה שתהא ר׳ וכ׳ (not צבריה) it (the חֲרוֹסֶת) must be saturated (with wine), which means that it is to remind of blood.—V. רוֹבֶה II.
-- `1` (= רָוָה) moist, saturated with liquid, opp. עבה thick and pulpy. Y. Pes. X, 37ᵈ top צריכה שתהא ר׳ וכ׳ (not צבריה) it (the חֲרוֹסֶת) must be saturated (with wine), which means that it is to remind of blood.—V. רוֹבֶה II.
-- `2` pers. of רָבָה, v. רבי
-
-### `jastrow:רָבָה` רָבָה: , v. רבי
-- `1` , v. רבי
 
 ### `jastrow:רָעָה` רָעָה (f.): evil, v. רַע.
 - `1` evil, v. רַע.

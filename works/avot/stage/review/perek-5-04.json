@@ -1467,7 +1467,8 @@
    },
    "severity": "question",
    "reason": "הֱוֵי is the Mishnaic imperative of the by-form הוה (Aramaic-influenced), not a form of היה; the root is הוה and the lemma הָוָה. Proposed."
-  }
+  },
+  {"ref": "5:20", "path": "token:5:20.5.lex", "value": "bdbs:הָיָה", "severity": "error", "reason": "editor: the sense was chosen against this entry, the default of the unpatched lemma; the morph patch changed the default entry. Pins the entry the sense refers to."}
  ],
  "verdicts": [
   {

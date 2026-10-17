@@ -9,7 +9,7 @@ Hebrew (Torat Emet): בַּעֲשָׂרָה מַאֲמָרוֹת נִבְרָא 
 | id | word | morphemes | lemmas | parse | root | accents |
 |---|---|---|---|---|---|---|
 | 5:1.1 | בַּעֲשָׂרָה | בַּ + עֲשָׂרָה | ב: in, with, by + עֶשֶׂר `jastrow:עָשַׂר` | preposition: preposition · numeral: cardinal numeral, ten | עשר |  |
-| 5:1.2 | מַאֲמָרוֹת | מַאֲמָרוֹת | מַאֲמָר `jastrow:מַאֲמָר` | noun: common, feminine, plural, absolute | אמר |  |
+| 5:1.2 | מַאֲמָרוֹת | מַאֲמָרוֹת | מַאֲמָר `jastrow:מַאֲמָר` | noun: common, masculine, plural, absolute | אמר |  |
 | 5:1.3 | נִבְרָא | נִבְרָא | בָּרָא `bdbs:בָּרָא` | verb: nifal, perfect (qatal), 3rd person, masculine, singular | ברא |  |
 | 5:1.4 | הָעוֹלָם | הָ + עוֹלָם | ה: the + עוֹלָם `bdbs:עוֹלָם` | article: article · noun: common, masculine, singular, absolute | עלם |  |
 | 5:1.5 | וּמַה | וּ + מַה | ו: and + מַה `bdbs:מָה` | conjunction: conjunction · pronoun: interrogative pronoun, what |  |  |
@@ -29,17 +29,17 @@ Hebrew (Torat Emet): בַּעֲשָׂרָה מַאֲמָרוֹת נִבְרָא 
 | 5:1.19 | הָעוֹלָם | הָ + עוֹלָם | ה: the + עוֹלָם `bdbs:עוֹלָם` | article: article · noun: common, masculine, singular, absolute | עלם |  |
 | 5:1.20 | שֶׁנִּבְרָא | שֶׁ + נִבְרָא | ש: who, which, that + בָּרָא `bdbs:בָּרָא` | particle: relative particle · verb: nifal, perfect (qatal), 3rd person, masculine, singular | ברא |  |
 | 5:1.21 | בַעֲשָׂרָה | בַ + עֲשָׂרָה | ב: in, with, by + עֶשֶׂר `jastrow:עָשַׂר` | preposition: preposition · numeral: cardinal numeral, ten | עשר |  |
-| 5:1.22 | מַאֲמָרוֹת | מַאֲמָרוֹת | מַאֲמָר `jastrow:מַאֲמָר` | noun: common, feminine, plural, absolute | אמר |  |
+| 5:1.22 | מַאֲמָרוֹת | מַאֲמָרוֹת | מַאֲמָר `jastrow:מַאֲמָר` | noun: common, masculine, plural, absolute | אמר |  |
 | 5:1.23 | וְלִתֵּן | וְ + לִ + תֵּן | ו: and + ל: to, for + נָתַן `bdbs:נָתַן` | conjunction: conjunction · preposition: preposition · verb: qal, infinitive construct | נתן |  |
 | 5:1.24 | שָׂכָר | שָׂכָר | שָׂכָר `bdbs:שָׂכָר` | noun: common, masculine, singular, absolute | שכר |  |
 | 5:1.25 | טוֹב | טוֹב | טוֹב `bdbs:טוֹב` | adjective: masculine, singular, absolute | טוב |  |
-| 5:1.26 | לַצַּדִּיקִים | לַ + צַדִּיקִים | ל: to, for + צַדִּיק `bdbs:צַדִּיק` | preposition: preposition · noun: common, masculine, plural, absolute | צדק |  |
+| 5:1.26 | לַצַּדִּיקִים | לַ + צַדִּיקִים | ל: to, for + צַדִּיק `bdbs:צַדִּיק` | preposition: preposition, with the definite article (its ה elided) · noun: common, masculine, plural, absolute | צדק |  |
 | 5:1.27 | שֶׁמְּקַיְּמִין | שֶׁ + מְקַיְּמִין | ש: who, which, that + קָיַם `bdbs:קְיָם` | particle: relative particle · verb: piel, participle active, masculine, plural, absolute | קים |  |
 | 5:1.28 | אֶת | אֶת | אֵת `bdbs:אֵת` | particle: object marker |  |  |
 | 5:1.29 | הָעוֹלָם | הָ + עוֹלָם | ה: the + עוֹלָם `bdbs:עוֹלָם` | article: article · noun: common, masculine, singular, absolute | עלם |  |
 | 5:1.30 | שֶׁנִּבְרָא | שֶׁ + נִבְרָא | ש: who, which, that + בָּרָא `bdbs:בָּרָא` | particle: relative particle · verb: nifal, perfect (qatal), 3rd person, masculine, singular | ברא |  |
 | 5:1.31 | בַעֲשָׂרָה | בַ + עֲשָׂרָה | ב: in, with, by + עֶשֶׂר `jastrow:עָשַׂר` | preposition: preposition · numeral: cardinal numeral, ten | עשר |  |
-| 5:1.32 | מַאֲמָרוֹת | מַאֲמָרוֹת | מַאֲמָר `jastrow:מַאֲמָר` | noun: common, feminine, plural, absolute | אמר |  |
+| 5:1.32 | מַאֲמָרוֹת | מַאֲמָרוֹת | מַאֲמָר `jastrow:מַאֲמָר` | noun: common, masculine, plural, absolute | אמר |  |
 
 Variants:
 - 5:1.23 spelling: Vilna reads וליתן; base וְלִתֵּן
@@ -65,7 +65,7 @@ Hebrew (Torat Emet): עֲשָׂרָה דוֹרוֹת מֵאָדָם וְעַד �
 | id | word | morphemes | lemmas | parse | root | accents |
 |---|---|---|---|---|---|---|
 | 5:2.1 | עֲשָׂרָה | עֲשָׂרָה | עֶשֶׂר `jastrow:עָשַׂר` | numeral: cardinal numeral, ten | עשר |  |
-| 5:2.2 | דוֹרוֹת | דוֹרוֹת | דּוֹר `bdbs:דּוֹר` | noun: common, feminine, plural, absolute | דור |  |
+| 5:2.2 | דוֹרוֹת | דוֹרוֹת | דּוֹר `bdbs:דּוֹר` | noun: common, masculine, plural, absolute | דור |  |
 | 5:2.3 | מֵאָדָם | מֵ + אָדָם | מ: from, than + אָדָם `bdbs:אָדָם` | preposition: preposition · noun: proper name, person, masculine |  |  |
 | 5:2.4 | וְעַד | וְ + עַד | ו: and + עַד `bdbs:עֵד` | conjunction: conjunction · preposition: preposition, until |  |  |
 | 5:2.5 | נֹחַ | נֹחַ | נֹחַ | noun: proper name, person, masculine |  |  |
@@ -75,7 +75,7 @@ Hebrew (Torat Emet): עֲשָׂרָה דוֹרוֹת מֵאָדָם וְעַד �
 | 5:2.9 | אַפַּיִם | אַפַּיִם | אַף `bdbs:אַף` | noun: common, masculine, dual, absolute | אנף |  |
 | 5:2.10 | לְפָנָיו | לְ + פָּנָי + ו | ל: to, for + פָּנִים `bdbs:פָּנִים` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 3rd person, masculine, singular | פנה |  |
 | 5:2.11 | שֶׁכָּל | שֶׁ + כָּל | ש: who, which, that + כֹּל `bdbs:כֹּל` | particle: relative particle · adjective: quantifier, all, masculine, singular, construct | כלל |  |
-| 5:2.12 | הַדּוֹרוֹת | הַ + דּוֹרוֹת | ה: the + דּוֹר `bdbs:דּוֹר` | article: article · noun: common, feminine, plural, absolute | דור |  |
+| 5:2.12 | הַדּוֹרוֹת | הַ + דּוֹרוֹת | ה: the + דּוֹר `bdbs:דּוֹר` | article: article · noun: common, masculine, plural, absolute | דור |  |
 | 5:2.13 | הָיוּ | הָיוּ | הָיָה `bdbs:הָיָה` | verb: qal, perfect (qatal), 3rd person, common, plural | היה |  |
 | 5:2.14 | מַכְעִיסִין | מַכְעִיסִין | כָּעַס `bdbs:כַּעַס` | verb: hifil, participle active, masculine, plural, absolute | כעס |  |
 | 5:2.15 | וּבָאִין | וּ + בָּאִין | ו: and + בָּא `jastrow:בָּא I` | conjunction: conjunction · verb: qal, participle active, masculine, plural, absolute | בוא |  |
@@ -86,7 +86,7 @@ Hebrew (Torat Emet): עֲשָׂרָה דוֹרוֹת מֵאָדָם וְעַד �
 | 5:2.20 | מֵי | מֵי | מַיִם `bdbs:מַיִם` | noun: common, masculine, plural, construct | מים |  |
 | 5:2.21 | הַמַּבּוּל | הַ + מַּבּוּל | ה: the + מַבּוּל `bdbs:מַבּוּל` | article: article · noun: common, masculine, singular, absolute | בול |  |
 | 5:2.22 | עֲשָׂרָה | עֲשָׂרָה | עֶשֶׂר `jastrow:עָשַׂר` | numeral: cardinal numeral, ten | עשר |  |
-| 5:2.23 | דוֹרוֹת | דוֹרוֹת | דּוֹר `bdbs:דּוֹר` | noun: common, feminine, plural, absolute | דור |  |
+| 5:2.23 | דוֹרוֹת | דוֹרוֹת | דּוֹר `bdbs:דּוֹר` | noun: common, masculine, plural, absolute | דור |  |
 | 5:2.24 | מִנֹּחַ | מִ + נֹּחַ | מ: from, than + נֹחַ | preposition: preposition · noun: proper name, person, masculine |  |  |
 | 5:2.25 | וְעַד | וְ + עַד | ו: and + עַד `bdbs:עֵד` | conjunction: conjunction · preposition: preposition, until |  |  |
 | 5:2.26 | אַבְרָהָם | אַבְרָהָם | אַבְרָהָם `bdbs:אַבְרָהָם` | noun: proper name, person, masculine |  |  |
@@ -96,7 +96,7 @@ Hebrew (Torat Emet): עֲשָׂרָה דוֹרוֹת מֵאָדָם וְעַד �
 | 5:2.30 | אַפַּיִם | אַפַּיִם | אַף `bdbs:אַף` | noun: common, masculine, dual, absolute | אנף |  |
 | 5:2.31 | לְפָנָיו | לְ + פָּנָי + ו | ל: to, for + פָּנִים `bdbs:פָּנִים` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 3rd person, masculine, singular | פנה |  |
 | 5:2.32 | שֶׁכָּל | שֶׁ + כָּל | ש: who, which, that + כֹּל `bdbs:כֹּל` | particle: relative particle · adjective: quantifier, all, masculine, singular, construct | כלל |  |
-| 5:2.33 | הַדּוֹרוֹת | הַ + דּוֹרוֹת | ה: the + דּוֹר `bdbs:דּוֹר` | article: article · noun: common, feminine, plural, absolute | דור |  |
+| 5:2.33 | הַדּוֹרוֹת | הַ + דּוֹרוֹת | ה: the + דּוֹר `bdbs:דּוֹר` | article: article · noun: common, masculine, plural, absolute | דור |  |
 | 5:2.34 | הָיוּ | הָיוּ | הָיָה `bdbs:הָיָה` | verb: qal, perfect (qatal), 3rd person, common, plural | היה |  |
 | 5:2.35 | מַכְעִיסִין | מַכְעִיסִין | כָּעַס `bdbs:כַּעַס` | verb: hifil, participle active, masculine, plural, absolute | כעס |  |
 | 5:2.36 | וּבָאִין | וּ + בָּאִין | ו: and + בָּא `jastrow:בָּא I` | conjunction: conjunction · verb: qal, participle active, masculine, plural, absolute | בוא |  |
@@ -106,7 +106,7 @@ Hebrew (Torat Emet): עֲשָׂרָה דוֹרוֹת מֵאָדָם וְעַד �
 | 5:2.40 | וְקִבֵּל | וְ + קִבֵּל | ו: and + קָבַל `jastrow:קָבַל I` | conjunction: conjunction · verb: piel, perfect (qatal), 3rd person, masculine, singular | קבל |  |
 | 5:2.41 | עָלָיו | עָלָ + יו | עַל `bdbs:עַל` +  | preposition: preposition, upon · suffix: pronominal, 3rd person, masculine, singular |  |  |
 | 5:2.42 | שְׂכַר | שְׂכַר | שָׂכָר `bdbs:שָׂכָר` | noun: common, masculine, singular, construct | שכר |  |
-| 5:2.43 | כֻּלָּם | כֻּלָּם | כֹּל `bdbs:כֹּל` | pronoun: quantifier, all, masculine, plural | כלל |  |
+| 5:2.43 | כֻּלָּם | כֻּלָּ + ם | כֹּל `bdbs:כֹּל` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, plural | כלל |  |
 
 Variants:
 - 5:2.4 word: Vilna reads עד; base וְעַד
@@ -131,14 +131,14 @@ Hebrew (Torat Emet): עֲשָׂרָה נִסְיוֹנוֹת נִתְנַסָּ�
 | id | word | morphemes | lemmas | parse | root | accents |
 |---|---|---|---|---|---|---|
 | 5:3.1 | עֲשָׂרָה | עֲשָׂרָה | עֶשֶׂר `jastrow:עָשַׂר` | numeral: cardinal numeral, ten | עשר |  |
-| 5:3.2 | נִסְיוֹנוֹת | נִסְיוֹנוֹת | נִסָּיוֹן `jastrow:נִסָּיוֹן` | noun: common, feminine, plural, absolute | נסה |  |
+| 5:3.2 | נִסְיוֹנוֹת | נִסְיוֹנוֹת | נִסָּיוֹן `jastrow:נִסָּיוֹן` | noun: common, masculine, plural, absolute | נסה |  |
 | 5:3.3 | נִתְנַסָּה | נִתְנַסָּה | נָסָה | verb: nitpael, perfect (qatal), 3rd person, masculine, singular | נסה |  |
 | 5:3.4 | אַבְרָהָם | אַבְרָהָם | אַבְרָהָם `bdbs:אַבְרָהָם` | noun: proper name, person, masculine |  |  |
 | 5:3.5 | אָבִינוּ | אָבִי + נוּ | אָב `bdbs:אָב` +  | noun: common, masculine, singular, construct · suffix: pronominal, 1st person, common, plural | אב |  |
 | 5:3.6 | עָלָיו | עָלָ + יו | עַל `bdbs:עַל` +  | preposition: preposition, upon · suffix: pronominal, 3rd person, masculine, singular |  |  |
 | 5:3.7 | הַשָּׁלוֹם | הַ + שָּׁלוֹם | ה: the + שָׁלוֹם `bdbs:שָׁלוֹם` | article: article · noun: common, masculine, singular, absolute | שלם |  |
 | 5:3.8 | וְעָמַד | וְ + עָמַד | ו: and + עָמַד `bdbs:עָמַד` | conjunction: conjunction · verb: qal, perfect (qatal), 3rd person, masculine, singular | עמד |  |
-| 5:3.9 | בְּכֻלָּם | בְּ + כֻּלָּם | ב: in, with, by + כֹּל `bdbs:כֹּל` | preposition: preposition · pronoun: quantifier, all, masculine, plural | כלל |  |
+| 5:3.9 | בְּכֻלָּם | בְּ + כֻּלָּ + ם | ב: in, with, by + כֹּל `bdbs:כֹּל` +  | preposition: preposition · noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, plural | כלל |  |
 | 5:3.10 | לְהוֹדִיעַ | לְ + הוֹדִיעַ | ל: to, for + יָדַע `bdbs:יָדַע` | preposition: preposition · verb: hifil, infinitive construct | ידע |  |
 | 5:3.11 | כַּמָּה | כַּמָּה | כַּמָּה `jastrow:כַּמֶּה` | pronoun: interrogative pronoun, how many |  |  |
 | 5:3.12 | חִבָּתוֹ | חִבָּת + וֹ | חִבָּה `jastrow:חִבָּה` +  | noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | חבב |  |
@@ -166,7 +166,7 @@ Hebrew (Torat Emet): עֲשָׂרָה נִסִּים נַעֲשׂוּ לַאֲב
 | id | word | morphemes | lemmas | parse | root | accents |
 |---|---|---|---|---|---|---|
 | 5:4.1 | עֲשָׂרָה | עֲשָׂרָה | עֶשֶׂר `jastrow:עָשַׂר` | numeral: cardinal numeral, ten | עשר |  |
-| 5:4.2 | נִסִּים | נִסִּים | נֵס `bdbs:נֵס` | noun: common, masculine, plural, absolute | נס |  |
+| 5:4.2 | נִסִּים | נִסִּים | נֵס `bdbs:נֵס` | noun: common, masculine, plural, absolute | נסס |  |
 | 5:4.3 | נַעֲשׂוּ | נַעֲשׂוּ | עָשָׂה `bdbs:עָשָׂה` | verb: nifal, perfect (qatal), 3rd person, common, plural | עשה |  |
 | 5:4.4 | לַאֲבוֹתֵינוּ | לַ + אֲבוֹתֵי + נוּ | ל: to, for + אָב `bdbs:אָב` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 1st person, common, plural | אב |  |
 | 5:4.5 | בְמִצְרַיִם | בְ + מִצְרַיִם | ב: in, with, by + מִצְרַיִם `bdbs:מִצְרַיִם` | preposition: preposition · noun: proper name, place |  |  |
@@ -177,7 +177,7 @@ Hebrew (Torat Emet): עֲשָׂרָה נִסִּים נַעֲשׂוּ לַאֲב
 | 5:4.10 | מַכּוֹת | מַכּוֹת | מַכָּה `bdbs:מַכָּה` | noun: common, feminine, plural, absolute | נכה |  |
 | 5:4.11 | הֵבִיא | הֵבִיא | בָּא `jastrow:בָּא I` | verb: hifil, perfect (qatal), 3rd person, masculine, singular | בוא |  |
 | 5:4.12 | הַקָּדוֹשׁ | הַ + קָּדוֹשׁ | ה: the + קָדוֹשׁ `bdbs:קָדוֹשׁ` | article: article · adjective: masculine, singular, absolute | קדש |  |
-| 5:4.13 | בָּרוּךְ | בָּרוּךְ | בָּרוּךְ `bdbs:בָּרוּךְ` | adjective: masculine, singular, absolute | ברך |  |
+| 5:4.13 | בָּרוּךְ | בָּרוּךְ | בָּרַךְ `bdbs:בָרַךְ` | verb: qal, participle passive, masculine, singular, absolute | ברך |  |
 | 5:4.14 | הוּא | הוּא | הוּא `bdbs:הוּא` | pronoun: independent personal pronoun, 3rd person, masculine, singular |  |  |
 | 5:4.15 | עַל | עַל | עַל `bdbs:עַל` | preposition: preposition, upon |  |  |
 | 5:4.16 | הַמִּצְרִיִּים | הַ + מִצְרִיִּים | ה: the + מִצְרִי `bdbs:מִצְרִי` | article: article · noun: common, masculine, plural, absolute |  |  |
@@ -186,18 +186,18 @@ Hebrew (Torat Emet): עֲשָׂרָה נִסִּים נַעֲשׂוּ לַאֲב
 | 5:4.19 | עַל | עַל | עַל `bdbs:עַל` | preposition: preposition, upon |  |  |
 | 5:4.20 | הַיָּם | הַ + יָּם | ה: the + יָם `bdbs:יָם` | article: article · noun: common, masculine, singular, absolute | ים |  |
 | 5:4.21 | עֲשָׂרָה | עֲשָׂרָה | עֶשֶׂר `jastrow:עָשַׂר` | numeral: cardinal numeral, ten | עשר |  |
-| 5:4.22 | נִסְיוֹנוֹת | נִסְיוֹנוֹת | נִסָּיוֹן `jastrow:נִסָּיוֹן` | noun: common, feminine, plural, absolute | נסה |  |
+| 5:4.22 | נִסְיוֹנוֹת | נִסְיוֹנוֹת | נִסָּיוֹן `jastrow:נִסָּיוֹן` | noun: common, masculine, plural, absolute | נסה |  |
 | 5:4.23 | נִסּוּ | נִסּוּ | נָסָה | verb: piel, perfect (qatal), 3rd person, common, plural | נסה |  |
 | 5:4.24 | אֲבוֹתֵינוּ | אֲבוֹתֵי + נוּ | אָב `bdbs:אָב` +  | noun: common, masculine, plural, construct · suffix: pronominal, 1st person, common, plural | אב |  |
 | 5:4.25 | אֶת | אֶת | אֵת `bdbs:אֵת` | particle: object marker |  |  |
 | 5:4.26 | הַמָּקוֹם | הַ + מָּקוֹם | ה: the + מָקוֹם `bdbs:מָקוֹם` | article: article · noun: common, masculine, singular, absolute | קום |  |
-| 5:4.27 | בָּרוּךְ | בָּרוּךְ | בָּרוּךְ `bdbs:בָּרוּךְ` | adjective: masculine, singular, absolute | ברך |  |
+| 5:4.27 | בָּרוּךְ | בָּרוּךְ | בָּרַךְ `bdbs:בָרַךְ` | verb: qal, participle passive, masculine, singular, absolute | ברך |  |
 | 5:4.28 | הוּא | הוּא | הוּא `bdbs:הוּא` | pronoun: independent personal pronoun, 3rd person, masculine, singular |  |  |
-| 5:4.29 | בַמִּדְבָּר | בַ + מִּדְבָּר | ב: in, with, by + מִדְבָּר `bdbs:מִדְבָּר` | preposition: preposition · noun: common, masculine, singular, absolute | דבר |  |
+| 5:4.29 | בַמִּדְבָּר | בַ + מִּדְבָּר | ב: in, with, by + מִדְבָּר `bdbs:מִדְבָּר` | preposition: preposition, with the definite article (its ה elided) · noun: common, masculine, singular, absolute | דבר |  |
 | 5:4.30 | שֶׁנֶּאֱמַר | שֶׁ + נֶּאֱמַר | ש: who, which, that + אָמַר `bdbs:אָמַר` | particle: relative particle · verb: nifal, perfect (qatal), 3rd person, masculine, singular | אמר |  |
 | 5:4.31 | במדבר | במדבר | במדבר `jastrow:בְּמִדְבַּר` | noun: proper name, book |  |  |
 | 5:4.32 | יד | יד | יד `bdbs:יָד` | numeral: cardinal numeral, fourteen, chapter reference |  |  |
-| 5:4.33 | וַיְנַסּוּ | וַ + יְנַסּוּ | ו: and + נָסָה | conjunction: conjunction · verb: piel, imperfect (yiqtol), 3rd person, common, plural | נסה |  |
+| 5:4.33 | וַיְנַסּוּ | וַ + יְנַסּוּ | ו: and + נָסָה | conjunction: conjunction, consecutive (wayyiqtol) · verb: piel, imperfect (yiqtol), 3rd person, masculine, plural | נסה |  |
 | 5:4.34 | אֹתִי | אֹתִ + י | אֵת `bdbs:אֵת` +  | particle: object marker, with suffix · suffix: pronominal, 1st person, common, singular |  |  |
 | 5:4.35 | זֶה | זֶה | זֶה `bdbs:זֶה` | pronoun: demonstrative pronoun, this, masculine, singular |  |  |
 | 5:4.36 | עֶשֶׂר | עֶשֶׂר | עֶשֶׂר `jastrow:עָשַׂר` | numeral: cardinal numeral, ten | עשר |  |
@@ -234,7 +234,7 @@ Hebrew (Torat Emet): עֲשָׂרָה נִסִּים נַעֲשׂוּ לַאֲב
 | id | word | morphemes | lemmas | parse | root | accents |
 |---|---|---|---|---|---|---|
 | 5:5.1 | עֲשָׂרָה | עֲשָׂרָה | עֶשֶׂר `jastrow:עָשַׂר` | numeral: cardinal numeral, ten | עשר |  |
-| 5:5.2 | נִסִּים | נִסִּים | נֵס `bdbs:נֵס` | noun: common, masculine, plural, absolute | נס |  |
+| 5:5.2 | נִסִּים | נִסִּים | נֵס `bdbs:נֵס` | noun: common, masculine, plural, absolute | נסס |  |
 | 5:5.3 | נַעֲשׂוּ | נַעֲשׂוּ | עָשָׂה `bdbs:עָשָׂה` | verb: nifal, perfect (qatal), 3rd person, common, plural | עשה |  |
 | 5:5.4 | לַאֲבוֹתֵינוּ | לַ + אֲבוֹתֵי + נוּ | ל: to, for + אָב `bdbs:אָב` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 1st person, common, plural | אב |  |
 | 5:5.5 | בְּבֵית | בְּ + בֵּית | ב: in, with, by + בַּיִת `bdbs:בַּיִת` | preposition: preposition · noun: common, masculine, singular, construct | בית |  |
@@ -243,11 +243,11 @@ Hebrew (Torat Emet): עֲשָׂרָה נִסִּים נַעֲשׂוּ לַאֲב
 | 5:5.8 | הִפִּילָה | הִפִּילָה | נָפַל `bdbs:נָפַל` | verb: hifil, perfect (qatal), 3rd person, feminine, singular | נפל |  |
 | 5:5.9 | אִשָּׁה | אִשָּׁה | אִשָּׁה `bdbs:אִשָּׁה` | noun: common, feminine, singular, absolute | אשה |  |
 | 5:5.10 | מֵרֵיחַ | מֵ + רֵיחַ | מ: from, than + רֵיחַ `bdbs:רֵיחַ` | preposition: preposition · noun: common, masculine, singular, construct | ריח |  |
-| 5:5.11 | בְּשַׂר | בְּ + שַׂר | ב: in, with, by + בָּשָׂר `bdbs:בָּשָׂר` | preposition: preposition · noun: common, masculine, singular, construct | בשר |  |
+| 5:5.11 | בְּשַׂר | בְּשַׂר | בָּשָׂר `bdbs:בָּשָׂר` | noun: common, masculine, singular, construct | בשר |  |
 | 5:5.12 | הַקֹּדֶשׁ | הַ + קֹּדֶשׁ | ה: the + קֹדֶשׁ `bdbs:קֹדֶשׁ` | article: article · noun: common, masculine, singular, absolute | קדש |  |
 | 5:5.13 | וְלֹא | וְ + לֹא | ו: and + לֹא `bdbs:לֹא` | conjunction: conjunction · particle: negative particle |  |  |
 | 5:5.14 | הִסְרִיחַ | הִסְרִיחַ | סָרַח `jastrow:סָרַח I` | verb: hifil, perfect (qatal), 3rd person, masculine, singular | סרח |  |
-| 5:5.15 | בְּשַׂר | בְּ + שַׂר | ב: in, with, by + בָּשָׂר `bdbs:בָּשָׂר` | preposition: preposition · noun: common, masculine, singular, construct | בשר |  |
+| 5:5.15 | בְּשַׂר | בְּשַׂר | בָּשָׂר `bdbs:בָּשָׂר` | noun: common, masculine, singular, construct | בשר |  |
 | 5:5.16 | הַקֹּדֶשׁ | הַ + קֹּדֶשׁ | ה: the + קֹדֶשׁ `bdbs:קֹדֶשׁ` | article: article · noun: common, masculine, singular, absolute | קדש |  |
 | 5:5.17 | מֵעוֹלָם | מֵ + עוֹלָם | מ: from, than + עוֹלָם `bdbs:עוֹלָם` | preposition: preposition · noun: common, masculine, singular, absolute | עלם |  |
 | 5:5.18 | וְלֹא | וְ + לֹא | ו: and + לֹא `bdbs:לֹא` | conjunction: conjunction · particle: negative particle |  |  |
@@ -256,7 +256,7 @@ Hebrew (Torat Emet): עֲשָׂרָה נִסִּים נַעֲשׂוּ לַאֲב
 | 5:5.21 | בְּבֵית | בְּ + בֵּית | ב: in, with, by + בַּיִת `bdbs:בַּיִת` | preposition: preposition · noun: common, masculine, singular, construct | בית |  |
 | 5:5.22 | הַמִּטְבָּחַיִם | הַ + מִּטְבָּחַיִם | ה: the + מִטְבָּחַיִם `jastrow:מִטְבָּחִים` | article: article · noun: common, masculine, dual, absolute | טבח |  |
 | 5:5.23 | וְלֹא | וְ + לֹא | ו: and + לֹא `bdbs:לֹא` | conjunction: conjunction · particle: negative particle |  |  |
-| 5:5.24 | אֵרַע | אֵרַע | אָרַע `jastrow:אָרַע` | verb: qal, perfect (qatal), 3rd person, masculine, singular | ארע |  |
+| 5:5.24 | אֵרַע | אֵרַע | אָרַע `jastrow:אָרַע` | verb: piel, perfect (qatal), 3rd person, masculine, singular | ארע |  |
 | 5:5.25 | קֶרִי | קֶרִי | קֶרִי `bdbs:קְרִי` | noun: common, masculine, singular, absolute | קרה |  |
 | 5:5.26 | לְכֹהֵן | לְ + כֹהֵן | ל: to, for + כֹּהֵן `bdbs:כֹּהֵן` | preposition: preposition · noun: common, masculine, singular, absolute | כהן |  |
 | 5:5.27 | גָּדוֹל | גָּדוֹל | גָּדוֹל `bdbs:גָּדוֹל` | adjective: masculine, singular, absolute | גדל |  |
@@ -277,11 +277,11 @@ Hebrew (Torat Emet): עֲשָׂרָה נִסִּים נַעֲשׂוּ לַאֲב
 | 5:5.42 | הֶעָשָׁן | הֶ + עָשָׁן | ה: the + עָשָׁן `bdbs:עָשָׁן` | article: article · noun: common, masculine, singular, absolute | עשן |  |
 | 5:5.43 | וְלֹא | וְ + לֹא | ו: and + לֹא `bdbs:לֹא` | conjunction: conjunction · particle: negative particle |  |  |
 | 5:5.44 | נִמְצָא | נִמְצָא | מָצָא `bdbs:מָצָא` | verb: nifal, perfect (qatal), 3rd person, masculine, singular | מצא |  |
-| 5:5.45 | פְסוּל | פְסוּל | פָּסוּל `jastrow:פָּסוּל` | adjective: masculine, singular, absolute | פסל |  |
-| 5:5.46 | בָּעֹמֶר | בָּ + עֹמֶר | ב: in, with, by + עֹמֶר `bdbs:עֹמֶר` | preposition: preposition · noun: common, masculine, singular, absolute | עמר |  |
-| 5:5.47 | וּבִשְׁתֵּי | וּ + בִּ + שְׁתֵּי | ו: and + ב: in, with, by + שְׁתַּיִם `jastrow:שְׁתַּיִם` | conjunction: conjunction · preposition: preposition · numeral: cardinal numeral, two, feminine, construct | שנ |  |
+| 5:5.45 | פְסוּל | פְסוּל | פְּסוּל `jastrow:פָּסוּל` | noun: common, masculine, singular, absolute | פסל |  |
+| 5:5.46 | בָּעֹמֶר | בָּ + עֹמֶר | ב: in, with, by + עֹמֶר `bdbs:עֹמֶר` | preposition: preposition, with the definite article (its ה elided) · noun: common, masculine, singular, absolute | עמר |  |
+| 5:5.47 | וּבִשְׁתֵּי | וּ + בִּ + שְׁתֵּי | ו: and + ב: in, with, by + שְׁתַּיִם `jastrow:שְׁתַּיִם` | conjunction: conjunction · preposition: preposition · numeral: cardinal numeral, two, feminine, construct | שנה |  |
 | 5:5.48 | הַלֶּחֶם | הַ + לֶּחֶם | ה: the + לֶחֶם `bdbs:לֶחֶם` | article: article · noun: common, masculine, singular, absolute | לחם |  |
-| 5:5.49 | וּבְלֶחֶם | וּ + בְּ + לֶחֶם | ו: and + ב: in, with, by + לֶחֶם `bdbs:לֶחֶם` | conjunction: conjunction · preposition: preposition · noun: common, masculine, singular, absolute | לחם |  |
+| 5:5.49 | וּבְלֶחֶם | וּ + בְּ + לֶחֶם | ו: and + ב: in, with, by + לֶחֶם `bdbs:לֶחֶם` | conjunction: conjunction · preposition: preposition · noun: common, masculine, singular, construct | לחם |  |
 | 5:5.50 | הַפָּנִים | הַ + פָּנִים | ה: the + פָּנִים `bdbs:פָּנִים` | article: article · noun: common, masculine, plural, absolute | פנה |  |
 | 5:5.51 | עוֹמְדִים | עוֹמְדִים | עָמַד `bdbs:עָמַד` | verb: qal, participle active, masculine, plural, absolute | עמד |  |
 | 5:5.52 | צְפוּפִים | צְפוּפִים | צָפוּף | adjective: masculine, plural, absolute | צפף |  |
@@ -300,7 +300,7 @@ Hebrew (Torat Emet): עֲשָׂרָה נִסִּים נַעֲשׂוּ לַאֲב
 | 5:5.65 | צַר | צַר | צַר `bdbs:צַר` | adjective: masculine, singular, absolute | צרר |  |
 | 5:5.66 | לִי | לִ + י | ל: to, for +  | preposition: preposition · suffix: pronominal, 1st person, common, singular |  |  |
 | 5:5.67 | הַמָּקוֹם | הַ + מָּקוֹם | ה: the + מָקוֹם `bdbs:מָקוֹם` | article: article · noun: common, masculine, singular, absolute | קום |  |
-| 5:5.68 | שֶׁאָלִין | שֶׁ + אָלִין | ש: who, which, that + לָן | particle: relative particle · verb: qal, imperfect (yiqtol), 1st person, common, plural | לין |  |
+| 5:5.68 | שֶׁאָלִין | שֶׁ + אָלִין | ש: who, which, that + לָן | particle: relative particle · verb: qal, imperfect (yiqtol), 1st person, common, singular | לין |  |
 | 5:5.69 | בִּירוּשָׁלַיִם | בִּ + ירוּשָׁלַיִם | ב: in, with, by + יְרוּשָׁלַיִם `jastrow:יְרוּשָׁלַיִם` | preposition: preposition · noun: proper name, place |  |  |
 
 Variants:
@@ -342,7 +342,7 @@ Hebrew (Torat Emet): עֲשָׂרָה דְבָרִים נִבְרְאוּ בְּ
 | 5:6.2 | דְבָרִים | דְבָרִים | דָּבָר `bdbs:דָּבָר` | noun: common, masculine, plural, absolute | דבר |  |
 | 5:6.3 | נִבְרְאוּ | נִבְרְאוּ | בָּרָא `bdbs:בָּרָא` | verb: nifal, perfect (qatal), 3rd person, common, plural | ברא |  |
 | 5:6.4 | בְּעֶרֶב | בְּ + עֶרֶב | ב: in, with, by + עֶרֶב `bdbs:עֶרֶב` | preposition: preposition · noun: common, masculine, singular, construct | ערב |  |
-| 5:6.5 | שַׁבָּת | שַׁבָּת | שַׁבָּת `bdbs:שַׁבָּת` | noun: common, feminine, singular, construct | שבת |  |
+| 5:6.5 | שַׁבָּת | שַׁבָּת | שַׁבָּת `bdbs:שַׁבָּת` | noun: common, feminine, singular, absolute | שבת |  |
 | 5:6.6 | בֵּין | בֵּין | בֵּין `bdbs:בֵּין` | preposition: preposition, between | בין |  |
 | 5:6.7 | הַשְּׁמָשׁוֹת | הַ + שְּׁמָשׁוֹת | ה: the + שֶׁמֶשׁ `jastrow:שָׁמַשׁ` | article: article · noun: common, feminine, plural, absolute | שמש |  |
 | 5:6.8 | וְאֵלּוּ | וְ + אֵלּוּ | ו: and + אֵלֶּה `bdbs:אֵלֶּה` | conjunction: conjunction · pronoun: demonstrative pronoun, these, common, plural |  |  |
@@ -350,16 +350,16 @@ Hebrew (Torat Emet): עֲשָׂרָה דְבָרִים נִבְרְאוּ בְּ
 | 5:6.10 | פִּי | פִּי | פֶּה `bdbs:פֶּה` | noun: common, masculine, singular, construct | פה |  |
 | 5:6.11 | הָאָרֶץ | הָ + אָרֶץ | ה: the + אֶרֶץ `bdbs:אֶרֶץ` | article: article · noun: common, feminine, singular, absolute | ארץ |  |
 | 5:6.12 | וּפִי | וּ + פִּי | ו: and + פֶּה `bdbs:פֶּה` | conjunction: conjunction · noun: common, masculine, singular, construct | פה |  |
-| 5:6.13 | הַבְּאֵר | הַ + בְּאֵר | ה: the + בְּאֵר `bdbs:בְּאֵר` | article: article · noun: common, masculine, singular, absolute | באר |  |
+| 5:6.13 | הַבְּאֵר | הַ + בְּאֵר | ה: the + בְּאֵר `bdbs:בְּאֵר` | article: article · noun: common, feminine, singular, absolute | באר |  |
 | 5:6.14 | וּפִי | וּ + פִּי | ו: and + פֶּה `bdbs:פֶּה` | conjunction: conjunction · noun: common, masculine, singular, construct | פה |  |
 | 5:6.15 | הָאָתוֹן | הָ + אָתוֹן | ה: the + אָתוֹן | article: article · noun: common, feminine, singular, absolute | אתן |  |
 | 5:6.16 | וְהַקֶּשֶׁת | וְ + הַ + קֶּשֶׁת | ו: and + ה: the + קֶשֶׁת `bdbs:קֶשֶׁת` | conjunction: conjunction · article: article · noun: common, feminine, singular, absolute | קשת |  |
 | 5:6.17 | וְהַמָּן | וְ + הַ + מָּן | ו: and + ה: the + מָן `bdbs:מִן` | conjunction: conjunction · article: article · noun: common, masculine, singular, absolute | מנן |  |
-| 5:6.18 | וְהַמַּטֶּה | וְ + הַ + מַּטֶּה | ו: and + ה: the + מַטֶּה `bdbs:מַטֶּה` | conjunction: conjunction · article: article · noun: common, masculine, singular, absolute | מטה |  |
+| 5:6.18 | וְהַמַּטֶּה | וְ + הַ + מַּטֶּה | ו: and + ה: the + מַטֶּה `bdbs:מַטֶּה` | conjunction: conjunction · article: article · noun: common, masculine, singular, absolute | נטה |  |
 | 5:6.19 | וְהַשָּׁמִיר | וְ + הַ + שָּׁמִיר | ו: and + ה: the + שָׁמִיר `bdbs:שָׁמִיר` | conjunction: conjunction · article: article · noun: common, masculine, singular, absolute | שמר |  |
 | 5:6.20 | וְהַכְּתָב | וְ + הַ + כְּתָב | ו: and + ה: the + כְּתָב `bdbs:כָּתַב` | conjunction: conjunction · article: article · noun: common, masculine, singular, absolute | כתב |  |
 | 5:6.21 | וְהַמִּכְתָּב | וְ + הַ + מִכְתָּב | ו: and + ה: the + מִכְתָּב `bdbs:מִכְתָּב` | conjunction: conjunction · article: article · noun: common, masculine, singular, absolute | כתב |  |
-| 5:6.22 | וְהַלּוּחוֹת | וְ + הַ + לּוּחוֹת | ו: and + ה: the + לוּחַ `bdbs:לוּחַ` | conjunction: conjunction · article: article · noun: common, feminine, plural, absolute | לוח |  |
+| 5:6.22 | וְהַלּוּחוֹת | וְ + הַ + לּוּחוֹת | ו: and + ה: the + לוּחַ `bdbs:לוּחַ` | conjunction: conjunction · article: article · noun: common, masculine, plural, absolute | לוח |  |
 | 5:6.23 | וְיֵשׁ | וְ + יֵשׁ | ו: and + יֵשׁ `bdbs:יֵשׁ` | conjunction: conjunction · particle: existential particle, there is |  |  |
 | 5:6.24 | אוֹמְרִים | אוֹמְרִים | אָמַר `bdbs:אָמַר` | verb: qal, participle active, masculine, plural, absolute | אמר |  |
 | 5:6.25 | אַף | אַף | אַף `bdbs:אַף` | particle: particle, also |  |  |
@@ -551,13 +551,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` to be fat
 - `2.1` Hiphil to make yourselves fat
 
-### `bdbs:בָּרוּךְ` בָּרוּךְ (n-pr-m): Baruch = "blessed"
-- `1` Baruch = "blessed"
-- `2` friend, amanuensis, and faithful attendant of Jeremiah
-- `3` a priest, the son of Zabbai who assisted Nehemiah in rebuilding the walls of Jerusalem
-- `4` a priest, or family of priests, who signed the covenant with Nehemiah
-- `5` son of Col-hozeh, a descendant of Perez or Pharez, the son of Judah
-
 ### `bdbs:בָּשָׂר` בָּשָׂר (n-m): flesh
 - `1` flesh
 - `1.1` of the body
@@ -570,6 +563,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.6` all living things
 - `1.7` animals
 - `1.8` mankind
+
+### `bdbs:בָרַךְ` בָרַךְ (v): to bless, kneel
+- `1` to bless, kneel
+- `1.1.1` Qal to kneel
+- `1.1.2` Qal to bless
+- `1.2` Niphal to be blessed, bless oneself
+- `1.3` Piel to bless
+- `1.4` Pual to be blessed, be adored
+- `1.5` Hiphil to cause to kneel
+- `1.6` Hithpael to bless oneself
+- `2` (TWOT) to praise, salute, curse
 
 ### `bdbs:גֶּשֶׁם` גֶּשֶׁם (n-m): body
 - `1` body
@@ -1134,9 +1138,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `jastrow:*בָּא II` *בָּא II (m.): = בֵּיתָא, house. Targ. Is. V, 8 ed. Ven., oth. ed. בֵּיתָא.
 - `1` = בֵּיתָא, house. Targ. Is. V, 8 ed. Ven., oth. ed. בֵּיתָא.
 
-### `jastrow:*בָּרוּךְ` *בָּרוּךְ (m.): (ברך, v. בֵּי) the neck of an animal, so named from the benediction (בָּרוּךְ) which precedes the ritual slaughtering.
-- `1` (ברך, v. בֵּי) the neck of an animal, so named from the benediction (בָּרוּךְ) which precedes the ritual slaughtering.
-
 ### `jastrow:*מִצְרִי I` *מִצְרִי I (m.): (v. מָצַר I) anything twisted of rushes, palm-twigs &c. חבל מ׳ a common rope (badge of disgrace worn by the Sotah, v. סוֹטָה). Sot. I, 6; a. fr.—[Y. ib. I, 17ᵃ top; Num. R. s. 9 take our w. to mean Egyptian, v. next w.].—Fem. מִצְרִית. Sot. II, 1, a. fr. כפיפה…
 - `1` (v. מָצַר I) anything twisted of rushes, palm-twigs &c. חבל מ׳ a common rope (badge of disgrace worn by the Sotah, v. סוֹטָה). Sot. I, 6; a. fr.—[Y. ib. I, 17ᵃ top; Num. R. s. 9 take our w. to mean Egyptian, v. next w.].—Fem. מִצְרִית. Sot. II, 1, a. fr. כפיפה…
 
@@ -1264,6 +1265,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `jastrow:בָּא III` בָּא III (m.): (part. of בֹּוא) coming, future. עולם הַבָּא (abbr. עו"הב) the world to come, futurity. Snh. X, 1; a. fr.—לְהַבָּא (Bab.), לַבָּא (Y.) in future. מכאן ול׳ (מיכן) from this date and further, opp. למפרע retrospectively, or מעיקרא in the past. Pes. 7ᵇ לה׳ משמע it…
 - `1` (part. of בֹּוא) coming, future. עולם הַבָּא (abbr. עו"הב) the world to come, futurity. Snh. X, 1; a. fr.—לְהַבָּא (Bab.), לַבָּא (Y.) in future. מכאן ול׳ (מיכן) from this date and further, opp. למפרע retrospectively, or מעיקרא in the past. Pes. 7ᵇ לה׳ משמע it…
+
+### `jastrow:בָּרַךְ` בָּרַךְ: to cave out. Denom. בְּרֵכָה, בֶּרֶךְ; cmp. בּוּרְכָּא, בּוּרְכְּתָא.
+- `1` to cave out. Denom. בְּרֵכָה, בֶּרֶךְ; cmp. בּוּרְכָּא, בּוּרְכְּתָא.
+- `2` (cmp. ברר) to select, point out (cmp. esp. Gen. II, 3) whence to bless (Pi.).—Part. pass. בָּרוּךְ chosen, blessed, praised. הקדוש ב׳ הוא (abbr. הקב"ה) the Holy One, blessed be He. Pes. 118ᵃ; a. v. fr. Ib. 104ᵇ, a. fr. פותח בב׳ וכ׳ he (who prays) opens the ben…
+- `3.1` Pi. (b. h.)
+- `3.2` Pi. to praise, bless, esp. to recite the due benediction. Ber. VI, 1. Ib. 5 בי׳ על היין having recited the blessing over wine &c. Pes. X, 9 ב׳ ברכת הפסח having recited the blessing over the Paschal lamb. Ib. 5 אנחנו חייבים … לְבָרֵךְ we are bound to … praise &c.; …
+- `3.3` Pi. (cmp. נקב) to blaspheme. Snh. 56ᵃ עד שֶיְבָרֵךְ שם בשם until he blasphemes the Lord by His name. Ib. שבי׳ את השם בכינוי who blasphemed the Lord by an attribute.—Part. Pu. מְבוֹרָךְ blessed, praiseworthy. Ber. VII, 3; a. fr.
+- `3.4` Pi. *to cut through, to clear virgin ground or forest. Tosef. Shebi. III, 20 ed. Zuck. (Var. מגדר); Y. ib. IV, 35ᵇ bot. מבדין; Y. Sabb. VII, 10ᵃ top המברה, v. בהי h. [Tosef. Shebi. I, 6 מבורכות, v. infra.]
+- `4.1` Hithpa. , Nithpa. נִתְבָּרֵךְ to be blessed (praised); to be increased (v. בְּרָכָה). Y. Ber. IX, 14ᵃ top ויִתְבָּרַךְ and be blessed. Y. M. Kat. I, beg. 80ᵃ if the waters were scanty ונִתְבָּרְכוּ and grew plentiful. Yeb. 63ᵃ; a. fr.
+- `5.1` Hif. (denom. of בֶּרֶךְ or בְּרִיכָה) to form a knee, to engraft; esp. to bend a vine by drawing it into the ground and making it grow forth as an independent plant, to sink. Shebi. II, 6; R. Hash. 10ᵇ; a. fr.—Tosef. Shebi. I, 6 אם היו מוּבְרָכוֹת (incorr. מבורכ׳) …
 
 ### `jastrow:בָּרָא I` בָּרָא I: outside, forest &c., v. בַּר I ch.
 - `1` outside, forest &c., v. בַּר I ch.

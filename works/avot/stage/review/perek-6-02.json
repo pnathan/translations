@@ -3130,7 +3130,8 @@
    },
    "severity": "question",
    "reason": "דִּכְתִיב is Aramaic (the particle ד and the passive participle כְּתִיב); the brief asks for lang 'arc' on an Aramaic word. Proposed: lang arc, the analysis otherwise unchanged."
-  }
+  },
+  {"ref": "6:10", "path": "token:6:10.136.lex", "value": "jastrow:כּוּן", "severity": "error", "reason": "editor: the sense was chosen against this entry, the default of the unpatched lemma; the morph patch changed the default entry. Pins the entry the sense refers to."}
  ],
  "verdicts": []
 }

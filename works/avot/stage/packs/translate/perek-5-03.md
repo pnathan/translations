@@ -18,7 +18,7 @@ Hebrew (Torat Emet): אַרְבַּע מִדּוֹת בְּנוֹתְנֵי צְ
 | 5:13.8 | יִתְּנוּ | יִתְּנוּ | נָתַן `bdbs:נָתַן` | verb: qal, imperfect (yiqtol), 3rd person, masculine, plural | נתן |  |
 | 5:13.9 | אֲחֵרִים | אֲחֵרִים | אַחֵר `bdbs:אַחַר` | adjective: common, masculine, plural, absolute | אחר |  |
 | 5:13.10 | עֵינוֹ | עֵינ + וֹ | עַיִן `bdbs:עַיִן` +  | noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | עין |  |
-| 5:13.11 | רָעָה | רָעָה | רָע `bdbs:רַע` | adjective: common, feminine, singular, absolute | רעע |  |
+| 5:13.11 | רָעָה | רָעָה | רַע `bdbs:רַע` | adjective: common, feminine, singular, absolute | רעע |  |
 | 5:13.12 | בְּשֶׁל | בְּ + שֶׁל | ב: in, with, by + שֶׁל `jastrow:שֶׁל` | preposition: preposition · particle: genitive particle, of |  |  |
 | 5:13.13 | אֲחֵרִים | אֲחֵרִים | אַחֵר `bdbs:אַחַר` | adjective: common, masculine, plural, absolute | אחר |  |
 | 5:13.14 | יִתְּנוּ | יִתְּנוּ | נָתַן `bdbs:נָתַן` | verb: qal, imperfect (yiqtol), 3rd person, masculine, plural | נתן |  |
@@ -27,7 +27,7 @@ Hebrew (Torat Emet): אַרְבַּע מִדּוֹת בְּנוֹתְנֵי צְ
 | 5:13.17 | לֹא | לֹא | לֹא `bdbs:לֹא` | particle: negative particle |  |  |
 | 5:13.18 | יִתֵּן | יִתֵּן | נָתַן `bdbs:נָתַן` | verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | נתן |  |
 | 5:13.19 | עֵינוֹ | עֵינ + וֹ | עַיִן `bdbs:עַיִן` +  | noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | עין |  |
-| 5:13.20 | רָעָה | רָעָה | רָע `bdbs:רַע` | adjective: common, feminine, singular, absolute | רעע |  |
+| 5:13.20 | רָעָה | רָעָה | רַע `bdbs:רַע` | adjective: common, feminine, singular, absolute | רעע |  |
 | 5:13.21 | בְשֶׁלּוֹ | בְ + שֶׁלּ + וֹ | ב: in, with, by + שֶׁל `jastrow:שֶׁל` +  | preposition: preposition · particle: genitive particle, of · suffix: pronominal, 3rd person, masculine, singular |  |  |
 | 5:13.22 | יִתֵּן | יִתֵּן | נָתַן `bdbs:נָתַן` | verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | נתן |  |
 | 5:13.23 | וְיִתְּנוּ | וְ + יִתְּנוּ | ו: and + נָתַן `bdbs:נָתַן` | conjunction: conjunction · verb: qal, imperfect (yiqtol), 3rd person, masculine, plural | נתן |  |
@@ -211,13 +211,13 @@ Hebrew (Torat Emet): כָּל מַחֲלֹקֶת שֶׁהִיא לְשֵׁם ש�
 | 5:17.4 | לְשֵׁם | לְ + שֵׁם | ל: to, for + שֵׁם `bdbs:שֵׁם` | preposition: preposition · noun: common, masculine, singular, construct | שם |  |
 | 5:17.5 | שָׁמַיִם | שָׁמַיִם | שָׁמַיִם `bdbs:שָׁמַיִם` | noun: common, masculine, plural, absolute | שמי |  |
 | 5:17.6 | סוֹפָהּ | סוֹף + ָהּ | סוֹף `bdbs:סוֹף` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, feminine, singular | סוף |  |
-| 5:17.7 | לְהִתְקַיֵּם | לְ + הִתְקַיֵּם | ל: to, for + קָיַם `bdbs:קְיָם` | preposition: preposition · verb: hitpael, infinitive construct | קיים |  |
+| 5:17.7 | לְהִתְקַיֵּם | לְ + הִתְקַיֵּם | ל: to, for + קוּם `bdbs:קוּם` | preposition: preposition · verb: hitpael, infinitive construct | קום |  |
 | 5:17.8 | וְשֶׁאֵינָהּ | וְ + שֶׁ + אֵינ + ָהּ | ו: and + ש: who, which, that + אֵין `bdbs:אַיִן` +  | conjunction: conjunction · particle: relative particle · particle: negative existential particle · suffix: pronominal, 3rd person, feminine, singular |  |  |
 | 5:17.9 | לְשֵׁם | לְ + שֵׁם | ל: to, for + שֵׁם `bdbs:שֵׁם` | preposition: preposition · noun: common, masculine, singular, construct | שם |  |
 | 5:17.10 | שָׁמַיִם | שָׁמַיִם | שָׁמַיִם `bdbs:שָׁמַיִם` | noun: common, masculine, plural, absolute | שמי |  |
 | 5:17.11 | אֵין | אֵין | אֵין `bdbs:אַיִן` | particle: negative existential particle |  |  |
 | 5:17.12 | סוֹפָהּ | סוֹף + ָהּ | סוֹף `bdbs:סוֹף` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, feminine, singular | סוף |  |
-| 5:17.13 | לְהִתְקַיֵּם | לְ + הִתְקַיֵּם | ל: to, for + קָיַם `bdbs:קְיָם` | preposition: preposition · verb: hitpael, infinitive construct | קיים |  |
+| 5:17.13 | לְהִתְקַיֵּם | לְ + הִתְקַיֵּם | ל: to, for + קוּם `bdbs:קוּם` | preposition: preposition · verb: hitpael, infinitive construct | קום |  |
 | 5:17.14 | אֵיזוֹ | אֵיזוֹ | אֵיזֶה `jastrow:אֵיזֶה` | pronoun: interrogative pronoun, feminine, singular |  |  |
 | 5:17.15 | הִיא | הִיא | הִיא `jastrow:הִיא` | pronoun: independent personal pronoun, 3rd person, feminine, singular |  |  |
 | 5:17.16 | מַחֲלֹקֶת | מַחֲלֹקֶת | מַחֲלֹקֶת `bdbs:מַחֲלֹקֶת` | noun: common, feminine, singular, absolute | חלק |  |
@@ -225,17 +225,17 @@ Hebrew (Torat Emet): כָּל מַחֲלֹקֶת שֶׁהִיא לְשֵׁם ש�
 | 5:17.18 | לְשֵׁם | לְ + שֵׁם | ל: to, for + שֵׁם `bdbs:שֵׁם` | preposition: preposition · noun: common, masculine, singular, construct | שם |  |
 | 5:17.19 | שָׁמַיִם | שָׁמַיִם | שָׁמַיִם `bdbs:שָׁמַיִם` | noun: common, masculine, plural, absolute | שמי |  |
 | 5:17.20 | זוֹ | זוֹ | זֶה `bdbs:זֶה` | pronoun: demonstrative pronoun, feminine, singular |  |  |
-| 5:17.21 | מַחֲלֹקֶת | מַחֲלֹקֶת | מַחֲלֹקֶת `bdbs:מַחֲלֹקֶת` | noun: common, feminine, singular, absolute | חלק |  |
+| 5:17.21 | מַחֲלֹקֶת | מַחֲלֹקֶת | מַחֲלֹקֶת `bdbs:מַחֲלֹקֶת` | noun: common, feminine, singular, construct | חלק |  |
 | 5:17.22 | הִלֵּל | הִלֵּל | הִלֵּל `bdbs:הָלַל` | noun: proper name, person, masculine |  |  |
 | 5:17.23 | וְשַׁמַּאי | וְ + שַׁמַּאי | ו: and + שַׁמַּאי `jastrow:שַׁמַּאי` | conjunction: conjunction · noun: proper name, person, masculine |  |  |
 | 5:17.24 | וְשֶׁאֵינָהּ | וְ + שֶׁ + אֵינ + ָהּ | ו: and + ש: who, which, that + אֵין `bdbs:אַיִן` +  | conjunction: conjunction · particle: relative particle · particle: negative existential particle · suffix: pronominal, 3rd person, feminine, singular |  |  |
 | 5:17.25 | לְשֵׁם | לְ + שֵׁם | ל: to, for + שֵׁם `bdbs:שֵׁם` | preposition: preposition · noun: common, masculine, singular, construct | שם |  |
 | 5:17.26 | שָׁמַיִם | שָׁמַיִם | שָׁמַיִם `bdbs:שָׁמַיִם` | noun: common, masculine, plural, absolute | שמי |  |
 | 5:17.27 | זוֹ | זוֹ | זֶה `bdbs:זֶה` | pronoun: demonstrative pronoun, feminine, singular |  |  |
-| 5:17.28 | מַחֲלֹקֶת | מַחֲלֹקֶת | מַחֲלֹקֶת `bdbs:מַחֲלֹקֶת` | noun: common, feminine, singular, absolute | חלק |  |
+| 5:17.28 | מַחֲלֹקֶת | מַחֲלֹקֶת | מַחֲלֹקֶת `bdbs:מַחֲלֹקֶת` | noun: common, feminine, singular, construct | חלק |  |
 | 5:17.29 | קֹרַח | קֹרַח | קֹרַח `bdbs:קֹרַח` | noun: proper name, person, masculine |  |  |
 | 5:17.30 | וְכָל | וְ + כָּל | ו: and + כֹּל `bdbs:כֹּל` | conjunction: conjunction · pronoun: quantifier, all, construct | כלל |  |
-| 5:17.31 | עֲדָתוֹ | עֲדָת + וֹ | עֵדָה `bdbs:עֵדָה` +  | noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | עדה |  |
+| 5:17.31 | עֲדָתוֹ | עֲדָת + וֹ | עֵדָה `bdbs:עֵדָה` +  | noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | יעד |  |
 
 Variants:
 - 5:17.2 spelling: Vilna reads מחלוקת; base מַחֲלֹקֶת
@@ -265,7 +265,7 @@ Hebrew (Torat Emet): כָּל הַמְזַכֶּה אֶת הָרַבִּים, א
 | 5:18.4 | הָרַבִּים | הָ + רַבִּים | ה: the + רַב `bdbs:רַב` | article: definite article · noun: common, masculine, plural, absolute | רבב |  |
 | 5:18.5 | אֵין | אֵין | אֵין `bdbs:אַיִן` | particle: negative existential particle |  |  |
 | 5:18.6 | חֵטְא | חֵטְא | חֵטְא `bdbs:חֵטְא` | noun: common, masculine, singular, absolute | חטא |  |
-| 5:18.7 | בָּא | בָּא | בָּא `jastrow:בָּא I` | verb: qal, perfect (qatal), 3rd person, masculine, singular | בוא |  |
+| 5:18.7 | בָּא | בָּא | בָּא `jastrow:בָּא I` | verb: qal, participle active, masculine, singular, absolute | בוא |  |
 | 5:18.8 | עַל | עַל | עַל `bdbs:עַל` | preposition: preposition |  |  |
 | 5:18.9 | יָדוֹ | יָד + וֹ | יָד `bdbs:יָד` +  | noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | יד |  |
 | 5:18.10 | וְכָל | וְ + כָּל | ו: and + כֹּל `bdbs:כֹּל` | conjunction: conjunction · pronoun: quantifier, all, construct | כלל |  |
@@ -300,7 +300,7 @@ Hebrew (Torat Emet): כָּל הַמְזַכֶּה אֶת הָרַבִּים, א
 | 5:18.39 | וְהֶחֱטִיא | וְ + הֶחֱטִיא | ו: and + חָטָא `bdbs:חֵטְא` | conjunction: conjunction · verb: hifil, perfect (qatal), 3rd person, masculine, singular | חטא |  |
 | 5:18.40 | אֶת | אֶת | אֵת `bdbs:אֵת` | particle: direct object marker |  |  |
 | 5:18.41 | הָרַבִּים | הָ + רַבִּים | ה: the + רַב `bdbs:רַב` | article: definite article · noun: common, masculine, plural, absolute | רבב |  |
-| 5:18.42 | חֵטְא | חֵטְא | חֵטְא `bdbs:חֵטְא` | noun: common, masculine, singular, absolute | חטא |  |
+| 5:18.42 | חֵטְא | חֵטְא | חֵטְא `bdbs:חֵטְא` | noun: common, masculine, singular, construct | חטא |  |
 | 5:18.43 | הָרַבִּים | הָ + רַבִּים | ה: the + רַב `bdbs:רַב` | article: definite article · noun: common, masculine, plural, absolute | רבב |  |
 | 5:18.44 | תָּלוּי | תָּלוּי | תָּלָה `bdbs:תָּלָה` | verb: qal, participle passive, masculine, singular, absolute | תלה |  |
 | 5:18.45 | בּוֹ | בּ + וֹ | ב: in, with, by +  | preposition: preposition · suffix: pronominal, 3rd person, masculine, singular |  |  |
@@ -708,9 +708,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.6.2` prosperity (of people)
 - `1.7` righteous acts
 
-### `bdbs:קְיָם` קְיָם (n-m): decree, statute
-- `1` decree, statute
-
 ### `bdbs:קֶמַח` קֶמַח (n-m): flour, meal, meal flour
 - `1` flour, meal, meal flour
 
@@ -720,6 +717,20 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` the 3rd son of Esau by Aholibamah and one of the dukes of Edom
 - `4` son of Eliphaz by Adah, duke of Edom, and nephew of 1
 - `5` one of the 'sons' of Hebron
+
+### `bdbs:קוּם` קוּם (v): to arise, stand
+- `1` to arise, stand
+- `1.1.1` P'al to arise from
+- `1.1.2` P'al to come on the scene (fig)
+- `1.1.3` P'al to arise (out of inaction)
+- `1.1.4` P'al to stand
+- `1.1.5` P'al to endure
+- `1.2` Pael to set up, establish
+- `1.3.1` Aphel to set up
+- `1.3.2` Aphel to lift up
+- `1.3.3` Aphel to establish
+- `1.3.4` Aphel to appoint
+- `1.4` Hophal to be made to stand
 
 ### `bdbs:רַב` רַב (a): adj
 - `1` adj
@@ -1167,9 +1178,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `jastrow:צְדָקָה ²` צְדָקָה ²: ch., v. צִדְקְתָא
 - `1` ch., v. צִדְקְתָא
 
-### `jastrow:קִים` קִים (m.): (קוּם) standing; (it is) established, certain; ק׳ ל־ to be certain, to know. Sabb. 136ᵃ ק׳ לי ביה וכ׳ I am certain that its (the infant’s) months were complete (that it was no abortion). Ab. Zar. 76ᵇ מר ק׳ לי בגוויה וכ׳ I am sure about this gentleman (that he …
-- `1` (קוּם) standing; (it is) established, certain; ק׳ ל־ to be certain, to know. Sabb. 136ᵃ ק׳ לי ביה וכ׳ I am certain that its (the infant’s) months were complete (that it was no abortion). Ab. Zar. 76ᵇ מר ק׳ לי בגוויה וכ׳ I am sure about this gentleman (that he …
-
 ### `jastrow:קֶמַח` קֶמַח: c. (b. h.; Assyr. Wœrterb. p. 5862)
 - `1` c. (b. h.; Assyr. Wœrterb. p. 5862)
 - `2` flour, first flour, contrad. fr. סֹלֶת. Y. Peah VII, 20ᵃ bot.; Keth. 112ᵃ, a. e., v. קִיבָר. Ḥall. I, 6, v. חֲלִיטָה II; a. fr.—Ab. III, 17 אם אין ק׳ אין … אין ק׳ without flour (sustenance) no learning, without learning no flour (enjoyment of life).—Pl. קְמָחִ…
@@ -1177,9 +1185,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `jastrow:קֶמַח ²` קֶמַח ²: , flour. Targ. O. Gen. XVIII, 6. Targ. Num. V, 15; a. e.—Keth. 62ᵇ קא נהלא ק׳ sifting flour. Bets. 29ᵇ, v. נְהַל; a. fr.—Pes. 84ᵃ; Yoma 46ᵃ, a. e. לקִימְחֵיה, v. חוּשׁ ch.; [Ar. quotes Var. לא חש לקַמֵּיה cares not what comes before him; v. Rabb. D. S. to Yoma…
 - `1` , flour. Targ. O. Gen. XVIII, 6. Targ. Num. V, 15; a. e.—Keth. 62ᵇ קא נהלא ק׳ sifting flour. Bets. 29ᵇ, v. נְהַל; a. fr.—Pes. 84ᵃ; Yoma 46ᵃ, a. e. לקִימְחֵיה, v. חוּשׁ ch.; [Ar. quotes Var. לא חש לקַמֵּיה cares not what comes before him; v. Rabb. D. S. to Yoma…
-
-### `jastrow:קַיָּם` קַיָּם: , v. sub קיי׳.
-- `1` , v. sub קיי׳.
 
 ### `jastrow:קָלַט` קָלַט: (b. h.) [to surround,]
 - `1` (b. h.) [to surround,]
@@ -1189,6 +1194,32 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `jastrow:קֹרַח` קֹרַח: (b. h.) pr. n. m. Korah, leader of a rebellion against Moses. Tosef. Snh. XIII, 9 ק׳ ועדתו וכ׳ Korah and his followers have no share in the world to come; Snh. 109ᵇ עדת ק׳ וכ׳ the followers of K. have &c. Ib. ק׳ שנעשה קרחה וכ׳ (Ms. M. שעשה) he is named Korah (…
 - `1` (b. h.) pr. n. m. Korah, leader of a rebellion against Moses. Tosef. Snh. XIII, 9 ק׳ ועדתו וכ׳ Korah and his followers have no share in the world to come; Snh. 109ᵇ עדת ק׳ וכ׳ the followers of K. have &c. Ib. ק׳ שנעשה קרחה וכ׳ (Ms. M. שעשה) he is named Korah (…
+
+### `jastrow:קוּם` קוּם: (b. h.) to stand up, rise; to stand, exist. Sifré Deut. 357 (ref. to Deut. XXXIV, 10) אבל באומות קָם וכ׳ but among the nations he (a prophet like Moses) has existed &c.; R. Hash. 21ᵇ בנביאים לא קם וכ׳ among the prophets never one arose like Moses, but among th…
+- `1` (b. h.) to stand up, rise; to stand, exist. Sifré Deut. 357 (ref. to Deut. XXXIV, 10) אבל באומות קָם וכ׳ but among the nations he (a prophet like Moses) has existed &c.; R. Hash. 21ᵇ בנביאים לא קם וכ׳ among the prophets never one arose like Moses, but among th…
+- `2.1` Pi. to establish; to attest, identify. Gitt. 2ᵇ אין עדים מצויין לקַיְּימוֹ no witnesses are likely to be found to attest it (identify the signatures). Ib. 6ᵃ כולי עלמא בעינן לקיימו all agree that identifiation by witnesses is required. B. Mets. 7ᵃ מודה בשטר … צריך…
+- `2.2` Pi. to fulfill, carry out, execute. Yoma 28ᵇ ק׳ אברהם וכ׳ Abraham fulfilled the whole Law. Macc. l. c. כל מצות … ק׳ וכ׳ in the case of a transgression of a prohibitive law for which reparation is commanded, if the transgressor fulfills the prescribed reparation, h…
+- `2.3` Pi. to sustain, preserve alive, save. Snh. IV, 5 כל המקיים … כאילו ק׳ וכ׳ he who saves one life … is considered … as if he had preserved the whole world; B. Bath. 11ᵃ. Ab. V, 1 צדיקים שמקיימין את העילם וכ׳ the righteous who sustain the world which was created &c. …
+- `4.1` Nithpa. to be established, identified. Gitt. I, 3 יִתְקַיֵּים בחותמיו let the genuineness of the document be established through its signers (the witnesses subscribed or through others identifying their signatures); a. fr.
+- `4.2` Nithpa. to be fulfilled, realized. Macc. 24ᵇ עד שלא נִתְקַיְּימָה … שלא תִתְקַיֵּים נבואתו וכ׳ as long as the prophecy of Uriah (Mic. III, 12) was not fulfilled, I was afraid lest Zechariah’s prophecy (Zech. VIII, 4) fail to come true; עכשיו שנתקיימה … מִתְקַיֶּימֶת n…
+- `4.3` Nithpa. to be preserved; to last, endure. Gitt. II, 3 בכל דבר שאינו מתקיים with any writing-ink which does not endure. Pes. 68ᵇ אילמלא … לא נתקיימו וכ׳ but for the Law, heaven and earth would not continue to exist. Taan. 7ᵃ מה … מִתְקַיְּימִין וכ׳ as these three liqui…
+- `4.4` Nithpa. to be maintained, be harmonised. Mekh. Mishp. s. 20 כיצד יִתְקַיְּימוּ שני מקראות הללו how can these two verses be harmonised?; a. fr.
+- `5.1` Hif. to put up, erect. Ex. R. s. 52 בואו שנָקִים וכ׳ come, for we will put up the Tabernacle. Ib. שרתה … והֵקִימוֹ the holy spirit came upon him, and he put it up. Tanḥ. P’ḳudé 11 אני כותב עליך שאתה הֲקִימֹתוֹ I will record about thee, that thou didst put it up; a.…
+- `5.2` Hif. to confirm (a woman’s vow). Ned. 67ᵇ אי ה׳ ה׳ if he (the father) has confirmed it, it stands confirmed (the betrothed cannot annul it). Ib. 69ᵃ יש שאלה בהָקֵם can a confirmation (by one of the two, the father or the husband) be reconsidered? (v. שְׁאֵלָה), v. …
+- `6.1` Hof. to be put up. Tanḥ. l. c. כיון שה׳ המשכן מיד וכ׳ as soon as the Tabernacle was erected, the Divine Presence came down &c. Tanḥ. Naso 23. Num. R. s. 12; a. fr.
+
+### `jastrow:קוּם ²` קוּם ²: same. Targ. Gen. XXII, 3. Targ. Lev. XXV, 30; a. v. fr.—Part. קָאֵים, apocop. קָאֵי (q. v.); קָיֵם, קָיֵים; f. קָיְימָא; pl. קָיְימִין; קָיְימָן, קָיְמ׳. Targ. Josh. IV, 10. Targ. O. Ex. XXVI, 15 (Y. קַיָּמִין); a. v. fr.—B. Mets. 19ᵃ (expl. דייתיקי) דא תהי למ…
+- `2` same. Targ. Gen. XXII, 3. Targ. Lev. XXV, 30; a. v. fr.—Part. קָאֵים, apocop. קָאֵי (q. v.); קָיֵם, קָיֵים; f. קָיְימָא; pl. קָיְימִין; קָיְימָן, קָיְמ׳. Targ. Josh. IV, 10. Targ. O. Ex. XXVI, 15 (Y. קַיָּמִין); a. v. fr.—B. Mets. 19ᵃ (expl. דייתיקי) דא תהי למ…
+- `3` (v. עָמַד) to curdle. Ab. Zar. 35ᵇ נישקול מיניה קלי ונֵיקוּם (prob. to be read ונוֹקִים) let one take a little of it and curdle it. Ib. קיימי, v. נַסְיוּבֵי.
+- `4` to cause to stand (v. קִים).—Inf. מִיקְמָא, מִיקְמָה, v. Af
+- `5.1` Af. , אוֹקֵי
+- `5.2` Af. to put up, erect; to appoint, place; to maintain. Targ. O. Ex. XL, 2 תָּקִים (ed. Berl. a. Y. תְּקִים). Ib. 18 ואָקֵים (ed. Berl. ואָקֵים a. ואֵקִים). Targ. O. Deut. XXV, 7 לאָקָמָא ed. Berl. (oth. ed. לַאֲקָ׳; Y. למִיקְמָא). Targ. Ps. LXXVIII, 13. Targ. Prov.…
+- `5.3` Af. (v. עָמַד) to make consistent, curdle. Ab. Zar. 35ᵃ [read:] כיון דאוֹקְמֵיה איסורא הוא דקא מוֹקִים ליה וכ׳ (v. Ms. M. in Rabb. D. S. a. l., a. note) since it had the effect of curdling the milk, it is the forbidden matter that gave it substance, and therefore …
+- `6.1` Ittaf. to put up; to be placed. Targ. Ex. XL, 17. Targ. Lev. XVI, 10; a. e.
+- `7.1` Polel. to put up, erect. Targ. Is. XLIV, 26; a. e.
+- `8.1` Pa. as preced. Pi., to establish, confirm, fulfill &c. Targ. O. Deut. XXXII, 8 (Y. Af.). Targ. Num. XXX, 14. Targ. Is. l. c. Targ. Ps. CXIX, 106; a. fr.—Ned. 70ᵃ דהא קַיְּימֵיה לנדריה היום (not קיימי, v. Rashi) for he has confirmed the vow to-day. Ib. (h. form) כי…
+- `8.2` Pa. (v. קְיָים) to swear, vow. Targ. Num. XXX, 3. Targ. Gen. XXVIII, 20. Targ. O. Lev. V, 4; a. e.
+- `9.1` Ithpa. as preced. Hithpa. Targ. Num. XIV, 38. Targ. Ez. XXXIII, 12; a. fr.—Y. Sabb. VI, end, 8ᵈ [read:] תִּתְקַיֵּים לכון נפשיכין בהדין יומכון היך דקַיַּימְתּוּן וכ׳ may your life be restored on that day of yours (when your time comes), as you have restored my life o…
 
 ### `jastrow:רַב` רַב: large, great, numerous; senior. Targ. Josh. XXII, 10. Targ. Y. Deut. I, 28. Targ. Gen. I, 16. Ib. X, 21 (Y. ed. Vien. רַבָּה); a. fr.—[In Talmudic literature mostly רַבָּה, q. v.]
 - `1` large, great, numerous; senior. Targ. Josh. XXII, 10. Targ. Y. Deut. I, 28. Targ. Gen. I, 16. Ib. X, 21 (Y. ed. Vien. רַבָּה); a. fr.—[In Talmudic literature mostly רַבָּה, q. v.]

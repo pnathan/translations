@@ -1,0 +1,1480 @@
+{
+ "unit": "perek-4-02",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "4:7",
+   "english": "Rabbi Ishmael his son says: One who holds himself back from judging removes from himself enmity, robbery, and a vain oath. But one who is overbold of heart in giving rulings is a fool, wicked, and haughty of spirit.",
+   "literal": "Rabbi Ishmael his-son saying: the-holding-back himself from-the-judgment, removing from-him enmity and-robbery and-oath-of vanity. And-the-coarse his-heart in-the-instruction, fool wicked and-coarse-of spirit.",
+   "tokens": [
+    {
+     "id": "4:7.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:7.2",
+     "gloss": "Ishmael",
+     "lex": "jastrow:יִשְׁמָעֵאל",
+     "sense": "6"
+    },
+    {
+     "id": "4:7.3",
+     "gloss": "his son",
+     "sense": "1"
+    },
+    {
+     "id": "4:7.4",
+     "gloss": "says",
+     "sense": "1.1",
+     "note": "participle: 'is saying'; the habitual present of a saying"
+    },
+    {
+     "id": "4:7.5",
+     "gloss": "the one who holds back",
+     "sense": "1.1.1",
+     "note": "a Qal participle with the article, 'the one who ...'; a subject clause"
+    },
+    {
+     "id": "4:7.6",
+     "gloss": "himself",
+     "lex": "jastrow:עֶצֶם",
+     "sense": "3",
+     "note": "עַצְמוֹ, literally 'his bone', that is 'his own self' (Jastrow עֶצֶם 3, 'self'); a reflexive object."
+    },
+    {
+     "id": "4:7.7",
+     "gloss": "from"
+    },
+    {
+     "id": "4:7.8",
+     "gloss": "judging",
+     "sense": "1",
+     "note": "הַדִּין, 'the judgment', here the work of sitting in judgment"
+    },
+    {
+     "id": "4:7.9",
+     "gloss": "removes",
+     "sense": "1",
+     "note": "פּוֹרֵק, literally 'unloads, takes off (a burden)'"
+    },
+    {
+     "id": "4:7.10",
+     "gloss": "from himself"
+    },
+    {
+     "id": "4:7.11",
+     "gloss": "enmity",
+     "sense": "1"
+    },
+    {
+     "id": "4:7.12",
+     "gloss": "and robbery",
+     "sense": "1"
+    },
+    {
+     "id": "4:7.13",
+     "gloss": "and an oath of",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:7.14",
+     "gloss": "vanity",
+     "sense": "1.1",
+     "note": "שְׁבוּעַת שָׁוְא, 'an oath of vanity': Bartenura reads either an oath the judge wrongly imposes on one not liable (Rabbeinu Yonah: 'a gratuitous oath'), or, as the tanna's name for it, a lying oath."
+    },
+    {
+     "id": "4:7.15",
+     "gloss": "and the one who is overbold",
+     "lex": "jastrow:גַּס III",
+     "sense": "1",
+     "note": "גַּס, literally 'coarse, thick, bulky' (Jastrow גַּס III); with the article, 'the one who is coarse'. Bartenura and Rambam give the sense: bold to rule without study or fear."
+    },
+    {
+     "id": "4:7.16",
+     "gloss": "of heart",
+     "sense": "1",
+     "note": "לִבּוֹ, 'his heart': the noun says in what he is coarse, 'coarse as to his heart'."
+    },
+    {
+     "id": "4:7.17",
+     "gloss": "in giving rulings",
+     "sense": "1",
+     "note": "בַהוֹרָאָה, 'in the giving of legal instruction'; the בַ carries the article. The pack has no usable lexicon text for הוֹרָאָה (Jastrow only refers to הוֹרָיָה)."
+    },
+    {
+     "id": "4:7.18",
+     "gloss": "a fool",
+     "sense": "1"
+    },
+    {
+     "id": "4:7.19",
+     "gloss": "wicked",
+     "sense": "1.3"
+    },
+    {
+     "id": "4:7.20",
+     "gloss": "and haughty of",
+     "lex": "jastrow:גַּס III",
+     "sense": "1"
+    },
+    {
+     "id": "4:7.21",
+     "gloss": "spirit",
+     "sense": "1.2.1",
+     "note": "גַּס רוּחַ is a fixed phrase for arrogance, coarseness of spirit"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:7.1",
+      "4:7.2",
+      "4:7.3",
+      "4:7.4"
+     ],
+     "english": "Rabbi Ishmael his son says",
+     "literal": "'Rabbi Ishmael his-son saying'; the son of the Rabbi Yose of the preceding mishnah, so Rabbeinu Yonah's heading"
+    },
+    {
+     "tokens": [
+      "4:7.5",
+      "4:7.6",
+      "4:7.7",
+      "4:7.8"
+     ],
+     "english": "One who holds himself back from judging",
+     "literal": "'the-holding-back himself from-the-judgment'; Bartenura: where there is one greater than he, or he tells the parties to compromise"
+    },
+    {
+     "tokens": [
+      "4:7.9",
+      "4:7.10",
+      "4:7.11",
+      "4:7.12",
+      "4:7.13",
+      "4:7.14"
+     ],
+     "english": "removes from himself enmity, robbery, and a vain oath",
+     "literal": "'removing from-him enmity and-robbery and-oath-of vanity'; Bartenura gives the reason for each of the three; 'vain oath' keeps both his readings, a needless oath and a lying one"
+    },
+    {
+     "tokens": [
+      "4:7.15",
+      "4:7.16",
+      "4:7.17"
+     ],
+     "english": "But one who is overbold of heart in giving rulings",
+     "literal": "'and-the-coarse his-heart in-the-instruction'; Bartenura: without study and deliberation; Rambam: without awe or fear"
+    },
+    {
+     "tokens": [
+      "4:7.18",
+      "4:7.19",
+      "4:7.20",
+      "4:7.21"
+     ],
+     "english": "is a fool, wicked, and haughty of spirit",
+     "literal": "'fool wicked and-coarse-of spirit'"
+    }
+   ],
+   "grammar": [
+    "הַחוֹשֵׂךְ and הַגַּס are articular participle and adjective used as subjects: 'the one who holds back', 'the one who is coarse'.",
+    "The first sentence gives a cause and its three results, enmity, robbery and a vain oath; the second sets the opposite case, with three damning terms.",
+    "גַּס לִבּוֹ is a subject-predicate phrase: 'coarse of heart'; גַּס רוּחַ is a construct chain: 'coarse of spirit'.",
+    "Rabbi Ishmael is called 'his son': the son of Rabbi Yose in 4:6."
+   ],
+   "note": "Rabbi Ishmael 'his son' is, by Rabbeinu Yonah's heading, the son of Rabbi Yose in 4:6. Bartenura and Rambam give the sense of גַּס לִבּוֹ בַהוֹרָאָה as giving rulings without study or fear, and the English 'overbold' follows that; the literal sense is 'coarse of heart'. שְׁבוּעַת שָׁוְא is 'a vain oath', which keeps both of Bartenura's readings. גַּס is Jastrow's גַּס III ('bulky, coarse') and עַצְמוֹ Jastrow's עֶצֶם ('self').",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:7:1",
+     "relation": "follows",
+     "summary": "Bartenura: one holds back where there is a greater person present, or tells the litigants to compromise."
+    },
+    {
+     "anchor": "bartenura:4:7:2",
+     "relation": "follows",
+     "summary": "Bartenura: whoever leaves the court as the losing party hates the judge, saying in his heart that the judge did not turn the case in his favor."
+    },
+    {
+     "anchor": "bartenura:4:7:3",
+     "relation": "follows",
+     "summary": "Bartenura: the judge might hold the innocent party liable, so that a robbery comes about through him."
+    },
+    {
+     "anchor": "bartenura:4:7:4",
+     "relation": "follows",
+     "summary": "Bartenura: the judge might impose an oath on one not liable to it and so bring about a false oath; or the tanna calls a lying oath 'an oath of falsehood'."
+    },
+    {
+     "anchor": "bartenura:4:7:5",
+     "relation": "follows",
+     "summary": "Bartenura: he rules 'without examination and without waiting', which gives 'overbold' for גַּס לִבּוֹ."
+    },
+    {
+     "anchor": "rambam:4:7:1",
+     "relation": "follows",
+     "summary": "Rambam: 'his heart is coarse in rulings, emboldened to give rulings without awe and fear'."
+    }
+   ],
+   "apparatus": [
+    "Rabbeinu Yonah's lemma reads 'Rabbi Ishmael son of Rabbi Yose'; the pack's base text has only 'his son'.",
+    "Rabbeinu Yonah cites Deut 16:18-20 and the duty to judge, answered by 'where there are no other judges'."
+   ]
+  },
+  {
+   "ref": "4:8",
+   "english": "He used to say: Do not judge alone, for none judges alone but One. And do not say, \"Accept my opinion,\" for they are permitted, and you are not.",
+   "literal": "He was saying: not be judging alone, for-not judging alone except one. And-not say: accept my-opinion, for-they permitted and-not you.",
+   "tokens": [
+    {
+     "id": "4:8.1",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "4:8.2",
+     "gloss": "used to be",
+     "sense": "1",
+     "note": "הָיָה with a participle gives the habitual past: 'he used to say'"
+    },
+    {
+     "id": "4:8.3",
+     "gloss": "saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:8.4",
+     "gloss": "do not"
+    },
+    {
+     "id": "4:8.5",
+     "gloss": "be",
+     "sense": "1",
+     "note": "תְּהִי, short jussive form of הָיָה"
+    },
+    {
+     "id": "4:8.6",
+     "gloss": "judging",
+     "lex": "jastrow:דִּין I",
+     "sense": "2",
+     "note": "the participle דָּן is from the hollow root דין, 'to hold court, pass sentence' (Jastrow דִּין I 2)."
+    },
+    {
+     "id": "4:8.7",
+     "gloss": "alone",
+     "sense": "2.2",
+     "note": "יְחִידִי, an adverbial use of the adjective 'solitary'"
+    },
+    {
+     "id": "4:8.8",
+     "gloss": "for there is not",
+     "lex": "jastrow:אֵין",
+     "note": "שֶׁאֵין, 'that there is not'"
+    },
+    {
+     "id": "4:8.9",
+     "gloss": "judging",
+     "lex": "jastrow:דִּין I",
+     "sense": "2"
+    },
+    {
+     "id": "4:8.10",
+     "gloss": "alone",
+     "sense": "2.2"
+    },
+    {
+     "id": "4:8.11",
+     "gloss": "except"
+    },
+    {
+     "id": "4:8.12",
+     "gloss": "One",
+     "sense": "1.1",
+     "note": "אֶחָד: 'One' read as the Holy One, blessed be He (Bartenura); a person would then not judge alone"
+    },
+    {
+     "id": "4:8.13",
+     "gloss": "and do not"
+    },
+    {
+     "id": "4:8.14",
+     "gloss": "say",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:8.15",
+     "gloss": "accept",
+     "sense": "2.1",
+     "note": "קַבְּלוּ, Piel imperative plural: the colleagues are addressed"
+    },
+    {
+     "id": "4:8.16",
+     "gloss": "my opinion",
+     "sense": "1.2",
+     "note": "דַעְתִּי, 'my view, my judgment'"
+    },
+    {
+     "id": "4:8.17",
+     "gloss": "for they",
+     "lex": "jastrow:הֵן",
+     "sense": "1",
+     "note": "שֶׁהֵן, 'that they'; הֵן is the feminine/common plural pronoun used here for the colleagues"
+    },
+    {
+     "id": "4:8.18",
+     "gloss": "are permitted",
+     "sense": "2",
+     "note": "רַשָּׁאִין, 'having authority, entitled'"
+    },
+    {
+     "id": "4:8.19",
+     "gloss": "and not"
+    },
+    {
+     "id": "4:8.20",
+     "gloss": "you",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:8.1",
+      "4:8.2",
+      "4:8.3"
+     ],
+     "english": "He used to say",
+     "literal": "הוּא הָיָה אוֹמֵר, the formula of the decisions"
+    },
+    {
+     "tokens": [
+      "4:8.4",
+      "4:8.5",
+      "4:8.6",
+      "4:8.7"
+     ],
+     "english": "Do not judge alone",
+     "literal": "'not be judging alone'; a prohibition with the jussive"
+    },
+    {
+     "tokens": [
+      "4:8.8",
+      "4:8.9",
+      "4:8.10",
+      "4:8.11",
+      "4:8.12"
+     ],
+     "english": "for none judges alone but One",
+     "literal": "'for-not judging alone except one'; One is the Holy One (Bartenura)"
+    },
+    {
+     "tokens": [
+      "4:8.13",
+      "4:8.14"
+     ],
+     "english": "And do not say",
+     "literal": "'and-not say'"
+    },
+    {
+     "tokens": [
+      "4:8.15",
+      "4:8.16"
+     ],
+     "english": "Accept my opinion",
+     "literal": "'accept my-opinion', the words of the proud judge to his colleagues"
+    },
+    {
+     "tokens": [
+      "4:8.17",
+      "4:8.18",
+      "4:8.19",
+      "4:8.20"
+     ],
+     "english": "for they are permitted, and you are not",
+     "literal": "'for-they permitted and-not you'"
+    }
+   ],
+   "grammar": [
+    "הוּא הָיָה אוֹמֵר is a past habitual: 'he used to say'.",
+    "אַל תְּהִי דָן is a prohibition made of אַל, the jussive of הָיָה and a participle.",
+    "שֶׁאֵין דָּן יְחִידִי אֶלָּא אֶחָד: 'there is none judging alone except One'; the play is on יְחִידִי and אֶחָד.",
+    "שֶׁהֵן רַשָּׁאִין: the word רַשַּׁאי is the Mishnaic adjective 'authorized'."
+   ],
+   "note": "'None judges alone but One': Bartenura reads אֶחָד as the Holy One; the English keeps 'One' with a capital so the ambiguity of 'one man' is not lost. דָּן is the participle of דין (Jastrow דִּין I), not the name Dan.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:8:1",
+     "relation": "follows",
+     "summary": "Bartenura: even an expert who may judge alone should not, as a way of piety, unless the parties have accepted him; then he may."
+    },
+    {
+     "anchor": "bartenura:4:8:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'One' is the Holy One, blessed be He, who is alone in His world."
+    },
+    {
+     "anchor": "bartenura:4:8:3",
+     "relation": "follows",
+     "summary": "Bartenura: 'do not say' to your colleagues who disagree with you."
+    },
+    {
+     "anchor": "bartenura:4:8:4",
+     "relation": "follows",
+     "summary": "Bartenura: 'accept my opinion' means 'I am an expert and could have judged without your joining'."
+    },
+    {
+     "anchor": "bartenura:4:8:5",
+     "relation": "follows",
+     "summary": "Bartenura: since you joined them with you, the ruling should be decided by the majority."
+    }
+   ],
+   "apparatus": [
+    "Rabbeinu Yonah brings a second explanation of 'except One': the expert (mumhe) alone may judge, but others should not count themselves experts.",
+    "Rambam on this mishnah (anchored at 4:9 in the pack): the Torah lets an expert judge alone; the warning is moral counsel, not a prohibition; colleagues who disagree may not be forced to accept your view, for it is not in your power to compel them."
+   ]
+  },
+  {
+   "ref": "4:9",
+   "english": "Rabbi Jonathan says: Whoever fulfills the Torah from poverty will in the end fulfill it from wealth. And whoever neglects the Torah from wealth will in the end neglect it from poverty.",
+   "literal": "Rabbi Jonathan saying: every the-fulfilling the-Torah from-poverty, his-end to-fulfill-it from-wealth. And-every the-neglecting the-Torah from-wealth, his-end to-neglect-it from-poverty.",
+   "tokens": [
+    {
+     "id": "4:9.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:9.2",
+     "gloss": "Jonathan",
+     "lex": "jastrow:יוֹנָתָן",
+     "sense": "5"
+    },
+    {
+     "id": "4:9.3",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:9.4",
+     "gloss": "whoever",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:9.5",
+     "gloss": "fulfills",
+     "note": "Piel participle with the article: 'the one who upholds, fulfills' (Piel of קום). No sense: the pack's entry קְיָם ('decree') is a different word, and it has no entry for the verb."
+    },
+    {
+     "id": "4:9.6",
+     "gloss": "-",
+     "note": "the object marker has no English counterpart"
+    },
+    {
+     "id": "4:9.7",
+     "gloss": "the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:9.8",
+     "gloss": "from poverty",
+     "note": "מֵעֹנִי, 'out of poverty', that is, while poor. No sense: עֹנִי is the noun 'poverty', and the pack's entry עָנִי is the adjective 'poor'."
+    },
+    {
+     "id": "4:9.9",
+     "gloss": "his end",
+     "sense": "1",
+     "note": "סוֹפוֹ, 'his end', that is 'in the end'"
+    },
+    {
+     "id": "4:9.10",
+     "gloss": "to fulfill it",
+     "note": "infinitive construct with a feminine suffix, 'to fulfill her'; Torah is feminine. No sense: the pack's entry קְיָם ('decree') is a different word."
+    },
+    {
+     "id": "4:9.11",
+     "gloss": "from wealth",
+     "note": "מֵעשֶׁר, 'out of wealth': the noun עֹשֶׁר. No sense: the pack's entry עָשַׂר is the verb 'to tithe', and it has no entry for the noun."
+    },
+    {
+     "id": "4:9.12",
+     "gloss": "and whoever",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:9.13",
+     "gloss": "neglects",
+     "sense": "5.1",
+     "note": "Piel participle: 'makes void, cancels, leaves idle'"
+    },
+    {
+     "id": "4:9.14",
+     "gloss": "-"
+    },
+    {
+     "id": "4:9.15",
+     "gloss": "the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:9.16",
+     "gloss": "from wealth",
+     "note": "מֵעשֶׁר, the noun עֹשֶׁר 'wealth'. No sense: the pack's entry עָשַׂר is the verb 'to tithe'."
+    },
+    {
+     "id": "4:9.17",
+     "gloss": "his end",
+     "sense": "1"
+    },
+    {
+     "id": "4:9.18",
+     "gloss": "to neglect it",
+     "sense": "5.1",
+     "note": "'to make her void'"
+    },
+    {
+     "id": "4:9.19",
+     "gloss": "from poverty",
+     "note": "מֵעֹנִי, 'out of poverty'. No sense: the pack's entry עָנִי is the adjective 'poor', not the noun עֹנִי."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:9.1",
+      "4:9.2",
+      "4:9.3"
+     ],
+     "english": "Rabbi Jonathan says",
+     "literal": "'Rabbi Jonathan saying'"
+    },
+    {
+     "tokens": [
+      "4:9.4",
+      "4:9.5",
+      "4:9.6",
+      "4:9.7",
+      "4:9.8"
+     ],
+     "english": "Whoever fulfills the Torah from poverty",
+     "literal": "'every the-fulfilling the-Torah from-poverty'"
+    },
+    {
+     "tokens": [
+      "4:9.9",
+      "4:9.10",
+      "4:9.11"
+     ],
+     "english": "will in the end fulfill it from wealth",
+     "literal": "'his-end to-fulfill-it from-wealth'"
+    },
+    {
+     "tokens": [
+      "4:9.12",
+      "4:9.13",
+      "4:9.14",
+      "4:9.15",
+      "4:9.16"
+     ],
+     "english": "And whoever neglects the Torah from wealth",
+     "literal": "'and-every the-neglecting the-Torah from-wealth'"
+    },
+    {
+     "tokens": [
+      "4:9.17",
+      "4:9.18",
+      "4:9.19"
+     ],
+     "english": "will in the end neglect it from poverty",
+     "literal": "'his-end to-neglect-it from-poverty'"
+    }
+   ],
+   "grammar": [
+    "The two halves are in chiastic parallel: fulfilling from poverty leads to fulfilling from wealth; neglecting from wealth leads to neglecting from poverty.",
+    "מֵעֹנִי and מֵעשֶׁר: the מִן is of the circumstance, 'out of'.",
+    "The suffix הָ on לְקַיְּמָהּ refers to the Torah, which is feminine.",
+    "סוֹפוֹ לְ + infinitive means 'his end is to ...', 'he will end by ...'."
+   ],
+   "note": "'Fulfills' and 'neglects' are chosen from Bartenura and Rambam: studying Torah under the pressure of need, as against leaving it for the preoccupation of wealth. The pack's lexicon entries for קְיָם ('decree') and עָשַׂר (tithing verb) do not fit קִיֵּם and עֹשֶׁר.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:9:1",
+     "relation": "follows",
+     "summary": "Bartenura: from poverty means he is pressed for food and leaves his work to engage in Torah."
+    },
+    {
+     "anchor": "bartenura:4:9:2",
+     "relation": "follows",
+     "summary": "Bartenura: from wealth means that for the abundance of money he must turn his heart one way and another and has no leisure for Torah."
+    },
+    {
+     "anchor": "rambam:4:8:1",
+     "relation": "not-applicable",
+     "summary": "Rambam (filed at 4:8): the Torah allowed an expert to judge alone; the mishnah warns only as a moral counsel; colleagues who disagree cannot be forced. It bears on 4:8, not on the words of 4:9."
+    },
+    {
+     "anchor": "rambam:4:9:1",
+     "relation": "follows",
+     "summary": "Rambam: one who studies Torah in poverty will in the end study it in wealth, free of distraction; one who neglects it for the sake of abundance will become poor, and his trouble to find bread will cause his neglect."
+    }
+   ],
+   "apparatus": [
+    "Variants: Vilna reads המקיים, מעוני, לקיימה, מעושר (twice) and מעוני; the base text has the short spellings. No difference of meaning.",
+    "Rabbeinu Yonah cites Prov 30:8, 'give me neither poverty nor riches'."
+   ]
+  },
+  {
+   "ref": "4:10",
+   "english": "Rabbi Meir says: Limit your business, and engage in the Torah. And be humble of spirit before every person. And if you neglect the Torah, you have many idle ones against you. And if you toil in the Torah, He has much reward to give you.",
+   "literal": "Rabbi Meir saying: be lessening in-business, and-occupy in-the-Torah. And-be low-of spirit before-every person. And-if you-neglected from-the-Torah, there-is to-you idle-ones many against-you. And-if you-toiled in-the-Torah, there-is to-him reward much to-give to-you.",
+   "tokens": [
+    {
+     "id": "4:10.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:10.2",
+     "gloss": "Meir",
+     "sense": "1"
+    },
+    {
+     "id": "4:10.3",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:10.4",
+     "gloss": "be",
+     "sense": "1",
+     "note": "הֱוֵי is the Mishnaic imperative of הָיָה"
+    },
+    {
+     "id": "4:10.5",
+     "gloss": "limiting",
+     "note": "Piel participle, 'one who lessens'; with הֱוֵי, 'be one who lessens'. No sense: the pack's entry מְעַט is the noun 'a little', not the verb."
+    },
+    {
+     "id": "4:10.6",
+     "gloss": "in business",
+     "note": "עֵסֶק, 'occupation, trade'. No sense: the pack's entry is the verb עָסַק, not the noun."
+    },
+    {
+     "id": "4:10.7",
+     "gloss": "and engage",
+     "sense": "1",
+     "note": "עֲסֹק, imperative of עסק, 'occupy yourself with'"
+    },
+    {
+     "id": "4:10.8",
+     "gloss": "in the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:10.9",
+     "gloss": "and be",
+     "sense": "1"
+    },
+    {
+     "id": "4:10.10",
+     "gloss": "humble of",
+     "sense": "1.2",
+     "note": "שְׁפַל, construct of the adjective 'low'"
+    },
+    {
+     "id": "4:10.11",
+     "gloss": "spirit",
+     "sense": "1.2.1"
+    },
+    {
+     "id": "4:10.12",
+     "gloss": "before",
+     "sense": "1.7.1",
+     "note": "בִּפְנֵי, literally 'in the face of'"
+    },
+    {
+     "id": "4:10.13",
+     "gloss": "every",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:10.14",
+     "gloss": "person",
+     "lex": "jastrow:אָדָם",
+     "sense": "1"
+    },
+    {
+     "id": "4:10.15",
+     "gloss": "and if"
+    },
+    {
+     "id": "4:10.16",
+     "gloss": "you neglect",
+     "sense": "3",
+     "note": "בָּטַלְתָּ, 'you have ceased, been idle'; the verb is used for stopping study"
+    },
+    {
+     "id": "4:10.17",
+     "gloss": "from"
+    },
+    {
+     "id": "4:10.18",
+     "gloss": "the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:10.19",
+     "gloss": "there is",
+     "note": "יֶשׁ, 'there is'; with לְךָ it expresses possession, 'you have'. The segol form also stands in Biblical Hebrew before a maqqef (יֶשׁ־)."
+    },
+    {
+     "id": "4:10.20",
+     "gloss": "to you"
+    },
+    {
+     "id": "4:10.21",
+     "gloss": "idle ones",
+     "lex": "jastrow:בָּטֵל II",
+     "sense": "3",
+     "note": "בְטֵלִים: the commentators differ on who they are, see the note"
+    },
+    {
+     "id": "4:10.22",
+     "gloss": "many"
+    },
+    {
+     "id": "4:10.23",
+     "gloss": "against you",
+     "note": "כְנֶגְדָּךְ, 'opposite you, set over against you'"
+    },
+    {
+     "id": "4:10.24",
+     "gloss": "and if"
+    },
+    {
+     "id": "4:10.25",
+     "gloss": "you toil",
+     "sense": "1.1",
+     "note": "עָמַלְתָּ, 'you have labored'"
+    },
+    {
+     "id": "4:10.26",
+     "gloss": "in the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:10.27",
+     "gloss": "there is"
+    },
+    {
+     "id": "4:10.28",
+     "gloss": "to Him",
+     "note": "יֶשׁ לוֹ, 'there is to him': the sentence turns from 'you' to the third person; the commentators read the subject as God"
+    },
+    {
+     "id": "4:10.29",
+     "gloss": "reward",
+     "lex": "jastrow:שָׂכָר",
+     "sense": "1"
+    },
+    {
+     "id": "4:10.30",
+     "gloss": "much"
+    },
+    {
+     "id": "4:10.31",
+     "gloss": "to give",
+     "sense": "1.1.1",
+     "note": "לִתֶּן, the infinitive construct of נתן with a dropped nun"
+    },
+    {
+     "id": "4:10.32",
+     "gloss": "to you"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:10.1",
+      "4:10.2",
+      "4:10.3"
+     ],
+     "english": "Rabbi Meir says",
+     "literal": "'Rabbi Meir saying'"
+    },
+    {
+     "tokens": [
+      "4:10.4",
+      "4:10.5",
+      "4:10.6"
+     ],
+     "english": "Limit your business",
+     "literal": "'be lessening in-business'; Bartenura: in trade and work"
+    },
+    {
+     "tokens": [
+      "4:10.7",
+      "4:10.8"
+     ],
+     "english": "and engage in the Torah",
+     "literal": "'and-occupy in-the-Torah'"
+    },
+    {
+     "tokens": [
+      "4:10.9",
+      "4:10.10",
+      "4:10.11",
+      "4:10.12",
+      "4:10.13",
+      "4:10.14"
+     ],
+     "english": "And be humble of spirit before every person",
+     "literal": "'and-be low-of spirit before-every person'"
+    },
+    {
+     "tokens": [
+      "4:10.15",
+      "4:10.16",
+      "4:10.17",
+      "4:10.18"
+     ],
+     "english": "And if you neglect the Torah",
+     "literal": "'and-if you-neglected from-the-Torah'"
+    },
+    {
+     "tokens": [
+      "4:10.19",
+      "4:10.20",
+      "4:10.21",
+      "4:10.22",
+      "4:10.23"
+     ],
+     "english": "you have many idle ones against you",
+     "literal": "'there-is to-you idle-ones many against-you'"
+    },
+    {
+     "tokens": [
+      "4:10.24",
+      "4:10.25",
+      "4:10.26"
+     ],
+     "english": "And if you toil in the Torah",
+     "literal": "'and-if you-toiled in-the-Torah'"
+    },
+    {
+     "tokens": [
+      "4:10.27",
+      "4:10.28",
+      "4:10.29",
+      "4:10.30",
+      "4:10.31",
+      "4:10.32"
+     ],
+     "english": "He has much reward to give you",
+     "literal": "'there-is to-him reward much to-give to-you'; the commentators supply God as subject"
+    }
+   ],
+   "grammar": [
+    "הֱוֵי and וֶהֱוֵי are the Mishnaic imperatives of הָיָה; וַעֲסֹק is an imperative of עסק.",
+    "The two conditions are parallel: if you neglect, if you toil; the first result is 'you have' (לְךָ), the second 'he has' (לוֹ), a shift to the third person.",
+    "בְטֵלִים הַרְבֵּה is 'many idle ones'; הַרְבֵּה is a Hifil infinitive absolute used as an adverb or adjective.",
+    "יֶשׁ לוֹ ... לִתֶּן is 'he has ... to give': a possessive idiom with an infinitive."
+   ],
+   "note": "בְטֵלִים is kept as 'idle ones': Bartenura offers two readings, those who help make you idle, and the wicked and beasts who are idle, by whom the Holy One brings punishment. Rabbeinu Yonah has the second. The English keeps the plain word. 'He has' keeps the Hebrew shift to the third person; Bartenura reads God as the subject.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:10:1",
+     "relation": "follows",
+     "summary": "Bartenura: reduce your trade and work, and let your main occupation be Torah."
+    },
+    {
+     "anchor": "bartenura:4:10:2",
+     "relation": "follows",
+     "summary": "Bartenura: be humble in order to learn even from one lesser than you in wisdom. Rambam reads it more widely, humble even with the great and the small."
+    },
+    {
+     "anchor": "bartenura:4:10:3",
+     "relation": "records",
+     "summary": "Bartenura gives two readings: those who help to make you idle, or the idle wicked and beasts through whom the Holy One brings punishment. The English keeps the plain 'idle ones'."
+    },
+    {
+     "anchor": "bartenura:4:10:4",
+     "relation": "follows",
+     "summary": "Bartenura: He Himself pays your reward, not through a messenger; thus the measure of good exceeds the measure of punishment."
+    },
+    {
+     "anchor": "rambam:4:10:1",
+     "relation": "follows",
+     "summary": "Rambam: reduce trade and persist in the Torah; be humble before every person, not only the great, speaking with anyone as if he were greater than you, to flee from pride. 'Many idle ones against you' means many things that cause idleness and demand attention: if you do not engage in the Torah, time will occupy you with one of them."
+    }
+   ],
+   "apparatus": [
+    "Variants: Vilna reads ועסוק and ליתן; base וַעֲסֹק, לִתֶּן.",
+    "Bartenura's second reading of בְטֵלִים, and Rabbeinu Yonah's 'bears and lions idle from work', both rest on the sense 'those who are idle'.",
+    "Rambam reads בְטֵלִים הַרְבֵּה as 'many things that make idle': affairs that demand attention and, if you leave the Torah, will occupy you.",
+    "Bartenura's lemma reads וְאִם עָסַקְתָּ בַתּוֹרָה, 'if you engaged in the Torah', for the base עָמַלְתָּ; Rabbeinu Yonah's lemma has עמלת. Rabbeinu Yonah's lemma also reads הרבה בטלין, with the word order reversed."
+   ]
+  },
+  {
+   "ref": "4:11",
+   "english": "Rabbi Eliezer son of Jacob says: One who performs one commandment acquires for himself one advocate. And one who commits one transgression acquires for himself one accuser. Repentance and good deeds are like a shield before punishment. Rabbi Johanan the Sandal-maker says: Every assembly that is for the sake of Heaven will in the end endure. And one that is not for the sake of Heaven will not in the end endure.",
+   "literal": "Rabbi Eliezer son-of Jacob saying: the-doing commandment one, acquiring for-him advocate one. And-the-passing transgression one, acquiring for-him accuser one. Repentance and-deeds good, like-shield before-the-retribution. Rabbi Johanan the-sandal-maker saying: every assembly that-it for-name-of Heaven, its-end to-be-established. And-that-not-it for-name-of Heaven, not its-end to-be-established.",
+   "tokens": [
+    {
+     "id": "4:11.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.2",
+     "gloss": "Eliezer",
+     "lex": "jastrow:אֱלִיעֶזֶר",
+     "sense": "2"
+    },
+    {
+     "id": "4:11.3",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.4",
+     "gloss": "Jacob",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.5",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:11.6",
+     "gloss": "the one who performs",
+     "sense": "1.1.1.1"
+    },
+    {
+     "id": "4:11.7",
+     "gloss": "commandment",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:11.8",
+     "gloss": "one",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:11.9",
+     "gloss": "acquires",
+     "lex": "jastrow:קָנָה",
+     "sense": "1",
+     "note": "קוֹנֶה, 'buys, gets for himself'. Jastrow's entry for the verb only refers to קני II, which the pack does not hold."
+    },
+    {
+     "id": "4:11.10",
+     "gloss": "for himself",
+     "note": "the 'ethic dative' לוֹ"
+    },
+    {
+     "id": "4:11.11",
+     "gloss": "advocate",
+     "sense": "1",
+     "note": "פְרַקְלִיט, from Greek paraklētos"
+    },
+    {
+     "id": "4:11.12",
+     "gloss": "one",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:11.13",
+     "gloss": "and the one who commits",
+     "lex": "jastrow:עָבַר",
+     "sense": "5",
+     "note": "הָעוֹבֵר, literally 'the one who crosses over'; עָבַר עֲבֵרָה, 'to commit a transgression', a cognate object."
+    },
+    {
+     "id": "4:11.14",
+     "gloss": "transgression",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.15",
+     "gloss": "one",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:11.16",
+     "gloss": "acquires",
+     "lex": "jastrow:קָנָה",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.17",
+     "gloss": "for himself"
+    },
+    {
+     "id": "4:11.18",
+     "gloss": "accuser",
+     "note": "קַטֵּגוֹר, from Greek katēgoros; the pack has no lexicon text for it"
+    },
+    {
+     "id": "4:11.19",
+     "gloss": "one",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:11.20",
+     "gloss": "repentance",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.21",
+     "gloss": "and deeds",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:11.22",
+     "gloss": "good",
+     "lex": "jastrow:טוֹב II",
+     "sense": "2"
+    },
+    {
+     "id": "4:11.23",
+     "gloss": "like a shield",
+     "note": "כִּתְרִיס, 'like a (large) shield'; the pack has no lexicon text"
+    },
+    {
+     "id": "4:11.24",
+     "gloss": "before",
+     "sense": "1.7.1"
+    },
+    {
+     "id": "4:11.25",
+     "gloss": "the punishment",
+     "note": "הַפֻּרְעָנוּת, 'the retribution, the calamity'; the pack has no lexicon text"
+    },
+    {
+     "id": "4:11.26",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.27",
+     "gloss": "Johanan",
+     "lex": "jastrow:יוֹחָנָן",
+     "sense": "4"
+    },
+    {
+     "id": "4:11.28",
+     "gloss": "the Sandal-maker",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.29",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:11.30",
+     "gloss": "every",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:11.31",
+     "gloss": "assembly",
+     "sense": "1",
+     "note": "כְּנֵסִיָּה, 'a gathering, an assembly'"
+    },
+    {
+     "id": "4:11.32",
+     "gloss": "that is",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.33",
+     "gloss": "for the sake of",
+     "lex": "jastrow:שֵׁם II",
+     "sense": "1",
+     "note": "literally 'for the name of'"
+    },
+    {
+     "id": "4:11.34",
+     "gloss": "Heaven",
+     "sense": "1.2",
+     "note": "'Heaven' stands for God"
+    },
+    {
+     "id": "4:11.35",
+     "gloss": "its end",
+     "sense": "1",
+     "note": "סוֹפָהּ, 'her end', since כְּנֵסִיָּה is feminine"
+    },
+    {
+     "id": "4:11.36",
+     "gloss": "to endure",
+     "note": "hitpael infinitive, 'to be established, to stand' (root קום). No sense: the pack's entry קְיָם ('decree') is a different word."
+    },
+    {
+     "id": "4:11.37",
+     "gloss": "and that is not",
+     "lex": "jastrow:אֵין",
+     "note": "וְשֶׁאֵינָהּ, 'and that she is not'"
+    },
+    {
+     "id": "4:11.38",
+     "gloss": "for the sake of",
+     "lex": "jastrow:שֵׁם II",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.39",
+     "gloss": "Heaven",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:11.40",
+     "gloss": "not",
+     "lex": "jastrow:אֵין"
+    },
+    {
+     "id": "4:11.41",
+     "gloss": "its end",
+     "sense": "1"
+    },
+    {
+     "id": "4:11.42",
+     "gloss": "to endure",
+     "note": "hitpael infinitive, 'to endure'. No sense: the pack's entry קְיָם ('decree') is a different word."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:11.1",
+      "4:11.2",
+      "4:11.3",
+      "4:11.4",
+      "4:11.5"
+     ],
+     "english": "Rabbi Eliezer son of Jacob says",
+     "literal": "'Rabbi Eliezer son-of Jacob saying'"
+    },
+    {
+     "tokens": [
+      "4:11.6",
+      "4:11.7",
+      "4:11.8"
+     ],
+     "english": "One who performs one commandment",
+     "literal": "'the-doing commandment one'"
+    },
+    {
+     "tokens": [
+      "4:11.9",
+      "4:11.10",
+      "4:11.11",
+      "4:11.12"
+     ],
+     "english": "acquires for himself one advocate",
+     "literal": "'acquiring for-him advocate one'"
+    },
+    {
+     "tokens": [
+      "4:11.13",
+      "4:11.14",
+      "4:11.15"
+     ],
+     "english": "And one who commits one transgression",
+     "literal": "'and-the-passing transgression one'"
+    },
+    {
+     "tokens": [
+      "4:11.16",
+      "4:11.17",
+      "4:11.18",
+      "4:11.19"
+     ],
+     "english": "acquires for himself one accuser",
+     "literal": "'acquiring for-him accuser one'"
+    },
+    {
+     "tokens": [
+      "4:11.20",
+      "4:11.21",
+      "4:11.22"
+     ],
+     "english": "Repentance and good deeds",
+     "literal": "'repentance and-deeds good'"
+    },
+    {
+     "tokens": [
+      "4:11.23",
+      "4:11.24",
+      "4:11.25"
+     ],
+     "english": "are like a shield before punishment",
+     "literal": "'like-shield before-the-retribution'"
+    },
+    {
+     "tokens": [
+      "4:11.26",
+      "4:11.27",
+      "4:11.28",
+      "4:11.29"
+     ],
+     "english": "Rabbi Johanan the Sandal-maker says",
+     "literal": "'Rabbi Johanan the-sandal-maker saying'"
+    },
+    {
+     "tokens": [
+      "4:11.30",
+      "4:11.31",
+      "4:11.32",
+      "4:11.33",
+      "4:11.34"
+     ],
+     "english": "Every assembly that is for the sake of Heaven",
+     "literal": "'every assembly that-it for-name-of Heaven'"
+    },
+    {
+     "tokens": [
+      "4:11.35",
+      "4:11.36"
+     ],
+     "english": "will in the end endure",
+     "literal": "'its-end to-be-established'"
+    },
+    {
+     "tokens": [
+      "4:11.37",
+      "4:11.38",
+      "4:11.39"
+     ],
+     "english": "And one that is not for the sake of Heaven",
+     "literal": "'and-that-not-it for-name-of Heaven'"
+    },
+    {
+     "tokens": [
+      "4:11.40",
+      "4:11.41",
+      "4:11.42"
+     ],
+     "english": "will not in the end endure",
+     "literal": "'not its-end to-be-established'"
+    }
+   ],
+   "grammar": [
+    "הָעוֹשֶׂה and הָעוֹבֵר are participles with the article used as subjects; קוֹנֶה לוֹ is the predicate.",
+    "פְרַקְלִיט and קַטֵּגוֹר are Greek loanwords (paraklētos, katēgoros); one speaks for, the other against.",
+    "תְּשׁוּבָה וּמַעֲשִׂים טוֹבִים is a short sentence without a verb: a nominal predicate with כ-.",
+    "With Rabbi Johanan the Sandal-maker the saying changes: the two halves differ by לְשֵׁם שָׁמַיִם and its negation."
+   ],
+   "note": "פְרַקְלִיט and קַטֵּגוֹר are rendered 'advocate' and 'accuser', following Bartenura's 'good intercessor' and 'evil intercessor' and Rambam's court setting before the ruler. פֻּרְעָנוּת is 'punishment'; Rambam says blows and diseases. טוֹב is Jastrow's טוֹב II and שֵׁם Jastrow's שֵׁם II; for קָנָה Jastrow only gives a cross-reference.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:11:1",
+     "relation": "follows",
+     "summary": "Bartenura: פְרַקְלִיט is an angel who intercedes for good."
+    },
+    {
+     "anchor": "bartenura:4:11:2",
+     "relation": "follows",
+     "summary": "Bartenura: קַטֵּגוֹר is an intercessor for evil; the word comes from 'calling a quarrel', and its opposite סַנֵּגוֹר means 'hating a quarrel'."
+    },
+    {
+     "anchor": "rambam:4:11:1",
+     "relation": "follows",
+     "summary": "Rambam: the פרקליט is the man who speaks well of a person to the ruler; the קטיגור is the opposite, who informs against him to the king and seeks his death. Repentance after evil deeds, or good deeds from the start, each of the two keeps blows and diseases from coming upon a man."
+    }
+   ],
+   "apparatus": [
+    "Variants: Vilna reads עבירה, קטיגור, הפורענות and להתקיים (twice); base spellings are the short forms.",
+    "Rabbeinu Yonah's lemma 4:13:4 is anchored here in error; it belongs to 4:13."
+   ]
+  },
+  {
+   "ref": "4:12",
+   "english": "Rabbi Eleazar son of Shammua says: Let the honor of your student be as dear to you as your own, and the honor of your colleague like the reverence for your teacher, and the reverence for your teacher like the reverence for Heaven.",
+   "literal": "Rabbi Eleazar son-of Shammua saying: let-be honor-of your-student dear on-you like-that-of-yours, and-honor-of your-colleague like-reverence-of your-teacher, and-reverence-of your-teacher like-reverence-of Heaven.",
+   "tokens": [
+    {
+     "id": "4:12.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:12.2",
+     "gloss": "Eleazar",
+     "lex": "jastrow:אֶלְעָזָר",
+     "sense": "3"
+    },
+    {
+     "id": "4:12.3",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "4:12.4",
+     "gloss": "Shammua",
+     "lex": "jastrow:שַׁמּוּעַ",
+     "sense": "1"
+    },
+    {
+     "id": "4:12.5",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:12.6",
+     "gloss": "let be",
+     "sense": "1",
+     "note": "יְהִי, jussive of הָיָה"
+    },
+    {
+     "id": "4:12.7",
+     "gloss": "the honor of",
+     "sense": "1.3",
+     "note": "כְבוֹד in the construct"
+    },
+    {
+     "id": "4:12.8",
+     "gloss": "your student",
+     "sense": "1"
+    },
+    {
+     "id": "4:12.9",
+     "gloss": "dear",
+     "sense": "1",
+     "note": "חָבִיב, 'beloved, precious'"
+    },
+    {
+     "id": "4:12.10",
+     "gloss": "to you"
+    },
+    {
+     "id": "4:12.11",
+     "gloss": "as your own",
+     "note": "כְּשֶׁלְּךָ, 'like that of yours': שֶׁל is the Mishnaic genitive particle"
+    },
+    {
+     "id": "4:12.12",
+     "gloss": "and the honor of",
+     "sense": "1.3"
+    },
+    {
+     "id": "4:12.13",
+     "gloss": "your colleague",
+     "sense": "4",
+     "note": "חָבֵר, 'companion, fellow student'"
+    },
+    {
+     "id": "4:12.14",
+     "gloss": "like the reverence for",
+     "sense": "1.2",
+     "note": "כְּמוֹרָא, 'like reverence of'"
+    },
+    {
+     "id": "4:12.15",
+     "gloss": "your teacher",
+     "lex": "jastrow:רַב II",
+     "sense": "3",
+     "note": "רַבְּךָ, 'your rabbi, your master'"
+    },
+    {
+     "id": "4:12.16",
+     "gloss": "and the reverence for",
+     "sense": "1.2",
+     "note": "מוֹרָא, 'fear, awe'"
+    },
+    {
+     "id": "4:12.17",
+     "gloss": "your teacher",
+     "lex": "jastrow:רַב II",
+     "sense": "3"
+    },
+    {
+     "id": "4:12.18",
+     "gloss": "like the reverence for",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:12.19",
+     "gloss": "Heaven",
+     "sense": "1.2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:12.1",
+      "4:12.2",
+      "4:12.3",
+      "4:12.4",
+      "4:12.5"
+     ],
+     "english": "Rabbi Eleazar son of Shammua says",
+     "literal": "'Rabbi Eleazar son-of Shammua saying'"
+    },
+    {
+     "tokens": [
+      "4:12.6",
+      "4:12.7",
+      "4:12.8",
+      "4:12.9",
+      "4:12.10",
+      "4:12.11"
+     ],
+     "english": "Let the honor of your student be as dear to you as your own",
+     "literal": "'let-be honor-of your-student dear on-you like-that-of-yours'"
+    },
+    {
+     "tokens": [
+      "4:12.12",
+      "4:12.13",
+      "4:12.14",
+      "4:12.15"
+     ],
+     "english": "and the honor of your colleague like the reverence for your teacher",
+     "literal": "'and-honor-of your-colleague like-reverence-of your-teacher'"
+    },
+    {
+     "tokens": [
+      "4:12.16",
+      "4:12.17",
+      "4:12.18",
+      "4:12.19"
+     ],
+     "english": "and the reverence for your teacher like the reverence for Heaven",
+     "literal": "'and-reverence-of your-teacher like-reverence-of Heaven'"
+    }
+   ],
+   "grammar": [
+    "יְהִי is the jussive of הָיָה: 'let ... be'.",
+    "The last two clauses form a chain: the 'reverence of your teacher' that ends the second clause begins the third; each clause sets one duty beside a higher one.",
+    "כְּשֶׁלְּךָ uses the Mishnaic particle שֶׁל: 'like that of yours'.",
+    "שָׁמָיִם, with qamets, is the pausal form of שָׁמַיִם at the end of the saying; the noun, plural in form, stands for God."
+   ],
+   "note": "The three comparisons increase in rank: student, colleague, teacher, Heaven. The decision on שָׁמַיִם, of God, is 'Heaven'. The commentators (Bartenura) bring a verse for each clause; see the apparatus.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:12:1",
+     "relation": "follows",
+     "summary": "Bartenura: Moses made Joshua his student equal to himself, saying 'choose us men'."
+    },
+    {
+     "anchor": "bartenura:4:12:2",
+     "relation": "follows",
+     "summary": "Bartenura: Aaron said to Moses 'Oh my lord', though Moses was his younger brother, and called him lord."
+    },
+    {
+     "anchor": "bartenura:4:12:3",
+     "relation": "follows",
+     "summary": "Bartenura: 'my lord Moses, destroy them': whoever rebels against your teacher rebels as if against the Holy One and deserves destruction."
+    }
+   ],
+   "apparatus": [
+    "Variant: Vilna reads חבירך for חֲבֵרְךָ.",
+    "Bartenura's verses: Exod 17:9 (Moses to Joshua, 'choose us men'); Num 12:11 (Aaron to Moses, 'Oh my lord'); Num 11:28 (Joshua, 'my lord Moses, destroy them')."
+   ]
+  }
+ ]
+}

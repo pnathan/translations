@@ -34,6 +34,9 @@ var keep = map[string]string{
 
 var reHomograph = regexp.MustCompile(`[\sIV²³¹]+$`)
 
+// StripHomograph removes a trailing homograph mark from a headword.
+func StripHomograph(h string) string { return strings.TrimSpace(reHomograph.ReplaceAllString(h, "")) }
+
 func truncate(s string, n int) string {
 	r := []rune(s)
 	if len(r) <= n {

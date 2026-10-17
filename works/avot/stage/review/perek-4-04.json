@@ -2017,7 +2017,9 @@
    },
    "severity": "error",
    "reason": "The noun is כֹּרַח (Jastrow), as the qamats qatan of כָּרְחֲךָ shows; כֶּרַח would give כִּרְחֲךָ."
-  }
+  },
+  {"ref": "4:19", "path": "token:4:19.17.lex", "value": "bdbs:רַע", "severity": "error", "reason": "editor: the sense was chosen against this entry, the default of the unpatched lemma; the morph patch changed the default entry. Pins the entry the sense refers to."},
+  {"ref": "4:22", "path": "token:4:22.4.lex", "value": "bdbs:יָלַד", "severity": "error", "reason": "editor: the sense was chosen against this entry, the default of the unpatched lemma; the morph patch changed the default entry. Pins the entry the sense refers to."}
  ],
  "verdicts": [
   {

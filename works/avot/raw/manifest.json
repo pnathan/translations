@@ -182,6 +182,13 @@
     "bytes": 8483
   },
   {
+    "name": "lexicon/אגר/אגר.json",
+    "url": "https://www.sefaria.org/api/words/%D7%90%D6%B2%D7%92%D6%B7%D7%A8?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "69b65718065f8e717b4fd056c24ff1a1e84e73cc774fd99c4b2a5685b8f0ed10",
+    "bytes": 8345
+  },
+  {
     "name": "lexicon/אגרא/אגרא.json",
     "url": "https://www.sefaria.org/api/words/%D7%90%D6%B7%D7%92%D6%B0%D7%A8%D6%B8%D7%90?never_split=1",
     "fetched": "2026-10-17",
@@ -1029,11 +1036,25 @@
     "bytes": 42518
   },
   {
+    "name": "lexicon/ברר/ברר.json",
+    "url": "https://www.sefaria.org/api/words/%D7%91%D6%B8%D6%BC%D7%A8%D6%B7%D7%A8?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "055222f507d203152c93a5e104fee7c530ec571ffa10133434196d32bbe209d5",
+    "bytes": 33668
+  },
+  {
     "name": "lexicon/ברתותא/ברתותא.json",
     "url": "https://www.sefaria.org/api/words/%D7%91%D6%B7%D6%BC%D7%A8%D6%B0%D7%AA%D6%BC%D7%95%D6%B9%D7%AA%D6%B8%D7%90?never_split=1",
     "fetched": "2026-10-17",
     "sha256": "8633ef9fedae6c6220ea3ffa904f9e1d840d5ae7c72e51116fe25f969a0a4aec",
     "bytes": 807
+  },
+  {
+    "name": "lexicon/בשל/בשל.json",
+    "url": "https://www.sefaria.org/api/words/%D7%91%D6%B8%D6%BC%D7%A9%D6%B5%D7%81%D7%9C?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "61a0bbf56481c9c8ba1dce6057897a09069fdf819828466e6d907a10660032d5",
+    "bytes": 16547
   },
   {
     "name": "lexicon/בשלה/בשלה.json",
@@ -1146,6 +1167,13 @@
     "fetched": "2026-10-17",
     "sha256": "cdea702851d4bc7f019c7be6df48da5c55bbb62a9296022940bfffa8d4583827",
     "bytes": 1803
+  },
+  {
+    "name": "lexicon/גוס/גוס.json",
+    "url": "https://www.sefaria.org/api/words/%D7%92%D6%BC%D7%95%D6%BC%D7%A1?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "3b5b737070dbbe4a7947052479d94f774e71e3b6118e18a2084e2bdf7fa13bd8",
+    "bytes": 15806
   },
   {
     "name": "lexicon/גופ/גוף.json",
@@ -1498,6 +1526,13 @@
     "bytes": 93422
   },
   {
+    "name": "lexicon/ה/ה: interrogative (is it not?).json",
+    "url": "https://www.sefaria.org/api/words/%D7%94:%20interrogative%20%28is%20it%20not%3F%29?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes": 2
+  },
+  {
     "name": "lexicon/הא/הא.json",
     "url": "https://www.sefaria.org/api/words/%D7%94%D6%B8%D7%90?never_split=1",
     "fetched": "2026-10-17",
@@ -1524,6 +1559,13 @@
     "fetched": "2026-10-17",
     "sha256": "e7f229205b271a12768b50e070f18b25cce1a38bc7fa20aec29a629da16e0818",
     "bytes": 79677
+  },
+  {
+    "name": "lexicon/הוה/הוה.json",
+    "url": "https://www.sefaria.org/api/words/%D7%94%D6%B8%D7%95%D6%B8%D7%94?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "10346f045aba602ce11ca3527f00dfc4ecbc91536a512b6fb6e1d883defb86e7",
+    "bytes": 22931
   },
   {
     "name": "lexicon/הוראה/הוראה.json",
@@ -1923,6 +1965,13 @@
     "fetched": "2026-10-17",
     "sha256": "2f57c24ede40c0d33fb782a34179ab8e3c63a9b1bb743ef20ef786c1ad760bcd",
     "bytes": 12582
+  },
+  {
+    "name": "lexicon/חור/חור.json",
+    "url": "https://www.sefaria.org/api/words/%D7%97%D7%95%D6%B9%D7%A8?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "f5ce3507fa5b4e0fb8a1805c01ebf87b57a1277384eadb7f1792789634ecc79d",
+    "bytes": 8225
   },
   {
     "name": "lexicon/חורב/חורב.json",
@@ -2611,6 +2660,13 @@
     "bytes": 95289
   },
   {
+    "name": "lexicon/ילוד/ילוד.json",
+    "url": "https://www.sefaria.org/api/words/%D7%99%D6%B4%D7%9C%D6%BC%D7%95%D6%B9%D7%93?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "83005ad7d707eec0afc530cd7884dcf283c6aa70ebcba6f5d93e864444e49209",
+    "bytes": 2196
+  },
+  {
     "name": "lexicon/ילפ/ילף.json",
     "url": "https://www.sefaria.org/api/words/%D7%99%D6%B8%D7%9C%D6%B7%D7%A3?never_split=1",
     "fetched": "2026-10-17",
@@ -3127,6 +3183,13 @@
     "fetched": "2026-10-17",
     "sha256": "b63fefdd0cea93bcf94cca7b42564165babbe54bed4c3785402525f2db7fe6e8",
     "bytes": 155790
+  },
+  {
+    "name": "lexicon/לבב/לבב.json",
+    "url": "https://www.sefaria.org/api/words/%D7%9C%D6%B5%D7%91%D6%B8%D7%91?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "ea474d138c3b740b43d16902d293cd0a5a51d5dcb099e6c77710cbac18d56fd5",
+    "bytes": 112279
   },
   {
     "name": "lexicon/לבד/לבד.json",
@@ -3857,6 +3920,13 @@
     "bytes": 9773
   },
   {
+    "name": "lexicon/משוא/משוא.json",
+    "url": "https://www.sefaria.org/api/words/%D7%9E%D6%B7%D7%A9%D6%BC%D7%82%D7%95%D6%B9%D7%90?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "cede7a2fdbc5a57c3efcda0287338d6a59d608c054a15c1a807c0ec0b292ef3b",
+    "bytes": 7445
+  },
+  {
     "name": "lexicon/משומ/משום.json",
     "url": "https://www.sefaria.org/api/words/%D7%9E%D6%B4%D7%A9%D6%BC%D7%81%D7%95%D6%BC%D7%9D?never_split=1",
     "fetched": "2026-10-17",
@@ -4312,6 +4382,13 @@
     "bytes": 19044
   },
   {
+    "name": "lexicon/סד/סד.json",
+    "url": "https://www.sefaria.org/api/words/%D7%A1%D6%B8%D7%93?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "ed38f50b415a8ae22ac900d0027cb0b1dac53d460649538e97090ab90af049d8",
+    "bytes": 2573
+  },
+  {
     "name": "lexicon/סדומ/סדום.json",
     "url": "https://www.sefaria.org/api/words/%D7%A1%D6%B0%D7%93%D7%95%D6%B9%D7%9D?never_split=1",
     "fetched": "2026-10-17",
@@ -4415,6 +4492,13 @@
     "fetched": "2026-10-17",
     "sha256": "81619abf3fb438dd583bf51da2bf7268e66bd876b6ed630633acb27a63e12d00",
     "bytes": 17718
+  },
+  {
+    "name": "lexicon/ספ/סף.json",
+    "url": "https://www.sefaria.org/api/words/%D7%A1%D6%B8%D7%A3?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "4ff556ece8eb7acc3313f9f1264fcaeb2ebc0992bcba0a3e49b82e12a23efc4d",
+    "bytes": 4921
   },
   {
     "name": "lexicon/ספג/ספג.json",
@@ -5306,6 +5390,13 @@
     "bytes": 890
   },
   {
+    "name": "lexicon/צפ/צף.json",
+    "url": "https://www.sefaria.org/api/words/%D7%A6%D6%B8%D7%A3?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "ec7c8189cfd63a14e7b2e8d74b9c672d67eecd17c8abce9bff5d8f1c87e025c9",
+    "bytes": 8838
+  },
+  {
     "name": "lexicon/צפה/צפה.json",
     "url": "https://www.sefaria.org/api/words/%D7%A6%D6%B8%D7%A4%D6%B8%D7%94?never_split=1",
     "fetched": "2026-10-17",
@@ -5423,6 +5514,13 @@
     "fetched": "2026-10-17",
     "sha256": "1f538f81b9733deac6d47e828ac0e4b27a899578a354efeefd379a32dc75bdbc",
     "bytes": 99456
+  },
+  {
+    "name": "lexicon/קומ/קום.json",
+    "url": "https://www.sefaria.org/api/words/%D7%A7%D7%95%D6%BC%D7%9D?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "ac7ef9eaea8d456e984d6ed8ca77813fdec1b963613052c13778874bf9519b4c",
+    "bytes": 199916
   },
   {
     "name": "lexicon/קופ/קוף.json",
@@ -5579,6 +5677,13 @@
     "bytes": 708
   },
   {
+    "name": "lexicon/קפ/קף.json",
+    "url": "https://www.sefaria.org/api/words/%D7%A7%D6%B8%D7%A3?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "bytes": 2
+  },
+  {
     "name": "lexicon/קפדנ/קפדן.json",
     "url": "https://www.sefaria.org/api/words/%D7%A7%D6%B7%D7%A4%D6%B0%D6%BC%D7%93%D6%B8%D7%9F?never_split=1",
     "fetched": "2026-10-17",
@@ -5712,6 +5817,13 @@
     "bytes": 147127
   },
   {
+    "name": "lexicon/רבב/רבב.json",
+    "url": "https://www.sefaria.org/api/words/%D7%A8%D6%B8%D7%91%D6%B7%D7%91?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "6bea85506ba0cf1cfbd5de05d691b0a2053a5e46dc20a5cac58ca06f968b1cc6",
+    "bytes": 19925
+  },
+  {
     "name": "lexicon/רבה/רבה.json",
     "url": "https://www.sefaria.org/api/words/%D7%A8%D6%B8%D7%91%D6%B8%D7%94?never_split=1",
     "fetched": "2026-10-17",
@@ -5775,6 +5887,13 @@
     "bytes": 9222
   },
   {
+    "name": "lexicon/רומ/רום.json",
+    "url": "https://www.sefaria.org/api/words/%D7%A8%D7%95%D6%BC%D7%9D?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "c86ad17968c7ffbf01a919a60fcabf946e516647902d906b8ac5cc71a8e9de92",
+    "bytes": 125363
+  },
+  {
     "name": "lexicon/רז/רז.json",
     "url": "https://www.sefaria.org/api/words/%D7%A8%D6%B8%D7%96?never_split=1",
     "fetched": "2026-10-17",
@@ -5801,6 +5920,13 @@
     "fetched": "2026-10-17",
     "sha256": "f645e4014475363bd6b57b5992a6e3430b0c2cb1dc858aa253cd45e9339cb4fa",
     "bytes": 18686
+  },
+  {
+    "name": "lexicon/רחמימ/רחמים.json",
+    "url": "https://www.sefaria.org/api/words/%D7%A8%D6%B7%D7%97%D6%B2%D7%9E%D6%B4%D7%99%D7%9D?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "4bbbfdd7d7829218449095a4d9b3c03ad4b94b8bcdc91daa3fb149fcf4dadcb2",
+    "bytes": 34015
   },
   {
     "name": "lexicon/רחק/רחק.json",
@@ -5857,6 +5983,13 @@
     "fetched": "2026-10-17",
     "sha256": "283cf5406455156e884979e0e6088c34f9e40289682be33b67477423d97752db",
     "bytes": 15089
+  },
+  {
+    "name": "lexicon/רעע/רעע.json",
+    "url": "https://www.sefaria.org/api/words/%D7%A8%D6%B8%D7%A2%D6%B7%D7%A2?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "4183dee72a0738c6b9788a9d38e3792568dc97d5eb3fc8377bbf7ef73a9aefe2",
+    "bytes": 45063
   },
   {
     "name": "lexicon/רפאות/רפאות.json",
@@ -6830,6 +6963,13 @@
     "fetched": "2026-10-17",
     "sha256": "e5ab2d782bef02f36c4ad93429b19ac3822f657e80547228b5f402df12d8cdbe",
     "bytes": 923
+  },
+  {
+    "name": "lexicon/תריס/תריס.json",
+    "url": "https://www.sefaria.org/api/words/%D7%AA%D6%B0%D6%BC%D7%A8%D6%B4%D7%99%D7%A1?never_split=1",
+    "fetched": "2026-10-17",
+    "sha256": "e344de7a21d313227cf0fe239a48dadfdf0ff68b1e2a3507ff2c28b7acf844c0",
+    "bytes": 3152
   },
   {
     "name": "lexicon/תשובה/תשובה.json",

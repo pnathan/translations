@@ -2445,36 +2445,6 @@
   ],
   "strong": "1254"
  },
- "bdbs:בָּרוּךְ": {
-  "key": "bdbs:בָּרוּךְ",
-  "source": "BDB Augmented Strong (Sefaria)",
-  "headword": "בָּרוּךְ",
-  "pos": "n-pr-m",
-  "gloss": "Baruch = \"blessed\"",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "Baruch = \"blessed\""
-   },
-   {
-    "path": "2",
-    "gloss": "friend, amanuensis, and faithful attendant of Jeremiah"
-   },
-   {
-    "path": "3",
-    "gloss": "a priest, the son of Zabbai who assisted Nehemiah in rebuilding the walls of Jerusalem"
-   },
-   {
-    "path": "4",
-    "gloss": "a priest, or family of priests, who signed the covenant with Nehemiah"
-   },
-   {
-    "path": "5",
-    "gloss": "son of Col-hozeh, a descendant of Perez or Pharez, the son of Judah"
-   }
-  ],
-  "strong": "1263"
- },
  "bdbs:בָּשָׂר": {
   "key": "bdbs:בָּשָׂר",
   "source": "BDB Augmented Strong (Sefaria)",
@@ -7991,6 +7961,60 @@
   ],
   "strong": "3821"
  },
+ "bdbs:לֵבָב": {
+  "key": "bdbs:לֵבָב",
+  "source": "BDB Augmented Strong (Sefaria)",
+  "headword": "לֵבָב",
+  "pos": "n-m",
+  "gloss": "inner man, mind, will, heart, soul, understanding",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "inner man, mind, will, heart, soul, understanding"
+   },
+   {
+    "path": "1.1",
+    "gloss": "inner part, midst"
+   },
+   {
+    "path": "1.1.1",
+    "gloss": "midst (of things)"
+   },
+   {
+    "path": "1.1.2",
+    "gloss": "heart (of man)"
+   },
+   {
+    "path": "1.1.3",
+    "gloss": "soul, heart (of man)"
+   },
+   {
+    "path": "1.1.4",
+    "gloss": "mind, knowledge, thinking, reflection, memory"
+   },
+   {
+    "path": "1.1.5",
+    "gloss": "inclination, resolution, determination (of will)"
+   },
+   {
+    "path": "1.1.6",
+    "gloss": "conscience"
+   },
+   {
+    "path": "1.1.7",
+    "gloss": "heart (of moral character)"
+   },
+   {
+    "path": "1.1.8",
+    "gloss": "as seat of appetites"
+   },
+   {
+    "path": "1.1.9",
+    "gloss": "as seat of emotions and passions 1a10) as seat of courage"
+   }
+  ],
+  "strong": "3824"
+ },
  "bdbs:לֵוִי": {
   "key": "bdbs:לֵוִי",
   "source": "BDB Augmented Strong (Sefaria)",
@@ -9250,28 +9274,6 @@
   ],
   "strong": "4832"
  },
- "bdbs:מַשָּׂא": {
-  "key": "bdbs:מַשָּׂא",
-  "source": "BDB Augmented Strong (Sefaria)",
-  "headword": "מַשָּׂא",
-  "pos": "n-pr-m",
-  "gloss": "Massa = \"burden\"",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "Massa = \"burden\""
-   },
-   {
-    "path": "2",
-    "gloss": "n pr m"
-   },
-   {
-    "path": "3",
-    "gloss": "a son of Ishmael"
-   }
-  ],
-  "strong": "4854"
- },
  "bdbs:מַתָּן": {
   "key": "bdbs:מַתָּן",
   "source": "BDB Augmented Strong (Sefaria)",
@@ -9888,32 +9890,6 @@
    }
   ],
   "strong": "5251"
- },
- "bdbs:נֵר": {
-  "key": "bdbs:נֵר",
-  "source": "BDB Augmented Strong (Sefaria)",
-  "headword": "נֵר",
-  "pos": "n-pr-m",
-  "gloss": "Ner = \"lamp\"",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "Ner = \"lamp\""
-   },
-   {
-    "path": "2",
-    "gloss": "son of Jehiel, father of Kish, and grandfather of king Saul"
-   },
-   {
-    "path": "3",
-    "gloss": "father of Abner, the uncle of Saul"
-   },
-   {
-    "path": "3.1",
-    "gloss": "perhaps the same as 1"
-   }
-  ],
-  "strong": "5369"
  },
  "bdbs:נֶגַע": {
   "key": "bdbs:נֶגַע",
@@ -10819,48 +10795,6 @@
    }
   ],
   "strong": "5560"
- },
- "bdbs:סוֹד": {
-  "key": "bdbs:סוֹד",
-  "source": "BDB Augmented Strong (Sefaria)",
-  "headword": "סוֹד",
-  "pos": "n-m",
-  "gloss": "council, counsel, assembly",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "council, counsel, assembly"
-   },
-   {
-    "path": "1.1",
-    "gloss": "council (of familiar conversation)"
-   },
-   {
-    "path": "1.1.1",
-    "gloss": "divan, circle (of familiar friends)"
-   },
-   {
-    "path": "1.1.2",
-    "gloss": "assembly, company"
-   },
-   {
-    "path": "1.2",
-    "gloss": "counsel"
-   },
-   {
-    "path": "1.2.1",
-    "gloss": "counsel (itself)"
-   },
-   {
-    "path": "1.2.2",
-    "gloss": "secret counsel"
-   },
-   {
-    "path": "1.2.3",
-    "gloss": "familiar converse, intimacy (with God)"
-   }
-  ],
-  "strong": "5475"
  },
  "bdbs:סוֹף": {
   "key": "bdbs:סוֹף",
@@ -12606,24 +12540,6 @@
   ],
   "strong": "6664"
  },
- "bdbs:צֶרֶת": {
-  "key": "bdbs:צֶרֶת",
-  "source": "BDB Augmented Strong (Sefaria)",
-  "headword": "צֶרֶת",
-  "pos": "n-pr-m",
-  "gloss": "Zereth = \"splendour\"",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "Zereth = \"splendour\""
-   },
-   {
-    "path": "2",
-    "gloss": "son of Ashur, the founder of Tekoa, by his wife Helah"
-   }
-  ],
-  "strong": "6889"
- },
  "bdbs:צַדִּיק": {
   "key": "bdbs:צַדִּיק",
   "source": "BDB Augmented Strong (Sefaria)",
@@ -13308,6 +13224,75 @@
   ],
   "strong": "6982"
  },
+ "bdbs:קוּם": {
+  "key": "bdbs:קוּם",
+  "source": "BDB Augmented Strong (Sefaria)",
+  "headword": "קוּם",
+  "pos": "v",
+  "gloss": "to arise, stand",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "to arise, stand"
+   },
+   {
+    "path": "1.1.1",
+    "stem": "P'al",
+    "gloss": "to arise from"
+   },
+   {
+    "path": "1.1.2",
+    "stem": "P'al",
+    "gloss": "to come on the scene (fig)"
+   },
+   {
+    "path": "1.1.3",
+    "stem": "P'al",
+    "gloss": "to arise (out of inaction)"
+   },
+   {
+    "path": "1.1.4",
+    "stem": "P'al",
+    "gloss": "to stand"
+   },
+   {
+    "path": "1.1.5",
+    "stem": "P'al",
+    "gloss": "to endure"
+   },
+   {
+    "path": "1.2",
+    "stem": "Pael",
+    "gloss": "to set up, establish"
+   },
+   {
+    "path": "1.3.1",
+    "stem": "Aphel",
+    "gloss": "to set up"
+   },
+   {
+    "path": "1.3.2",
+    "stem": "Aphel",
+    "gloss": "to lift up"
+   },
+   {
+    "path": "1.3.3",
+    "stem": "Aphel",
+    "gloss": "to establish"
+   },
+   {
+    "path": "1.3.4",
+    "stem": "Aphel",
+    "gloss": "to appoint"
+   },
+   {
+    "path": "1.4",
+    "stem": "Hophal",
+    "gloss": "to be made to stand"
+   }
+  ],
+  "strong": "6966"
+ },
  "bdbs:רִאשׁוֹן": {
   "key": "bdbs:רִאשׁוֹן",
   "source": "BDB Augmented Strong (Sefaria)",
@@ -13497,24 +13482,6 @@
    }
   ],
   "strong": "7229"
- },
- "bdbs:רַחַם": {
-  "key": "bdbs:רַחַם",
-  "source": "BDB Augmented Strong (Sefaria)",
-  "headword": "רַחַם",
-  "pos": "n-pr-m",
-  "gloss": "Raham = \"belly\"",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "Raham = \"belly\""
-   },
-   {
-    "path": "2",
-    "gloss": "a Judaite, son of Shema, father of Jorkoam, and of the descendants of Caleb"
-   }
-  ],
-  "strong": "7357"
  },
  "bdbs:רַחוּם": {
   "key": "bdbs:רַחוּם",
@@ -14059,6 +14026,20 @@
    }
   ],
   "strong": "7308"
+ },
+ "bdbs:רוּם": {
+  "key": "bdbs:רוּם",
+  "source": "BDB Augmented Strong (Sefaria)",
+  "headword": "רוּם",
+  "pos": "n-m",
+  "gloss": "height",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "height"
+   }
+  ],
+  "strong": "7314"
  },
  "bdbs:שְׁבוּעָה": {
   "key": "bdbs:שְׁבוּעָה",
@@ -16426,19 +16407,6 @@
    }
   ]
  },
- "jastrow:*בָּרוּךְ": {
-  "key": "jastrow:*בָּרוּךְ",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "*בָּרוּךְ",
-  "pos": "m.",
-  "gloss": "(ברך, v. בֵּי) the neck of an animal, so named from the benediction (בָּרוּךְ) which precedes the ritual slaughtering.",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "(ברך, v. בֵּי) the neck of an animal, so named from the benediction (בָּרוּךְ) which precedes the ritual slaughtering."
-   }
-  ]
- },
  "jastrow:*גְּבוּל II": {
   "key": "jastrow:*גְּבוּל II",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -16735,6 +16703,58 @@
    {
     "path": "1",
     "gloss": "Abuyah, known as the father of Elisha, v. אלישע. Y. Ḥag. II, 77ᵇ; a. fr."
+   }
+  ]
+ },
+ "jastrow:אֲגַר I": {
+  "key": "jastrow:אֲגַר I",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "אֲגַר I",
+  "gloss": "; Pa. אַגַּר to heap up. Targ. Y. Deut. I, 16 דמְאַגַּר וכ׳ (ed. Vien. מֶאֱגַר—) who heaps up litigations, v. foreg. [Targ. Ps. CIV, 7 למיגר Ms., v. נְגַד.]",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "; Pa. אַגַּר to heap up. Targ. Y. Deut. I, 16 דמְאַגַּר וכ׳ (ed. Vien. מֶאֱגַר—) who heaps up litigations, v. foreg. [Targ. Ps. CIV, 7 למיגר Ms., v. נְגַד.]"
+   }
+  ]
+ },
+ "jastrow:אֲגַר II": {
+  "key": "jastrow:אֲגַר II",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "אֲגַר II",
+  "gloss": "(אָגַר) (√אג, akin to חכר; v. foreg.) prop. to tie, whence to hire, employ, rent. Targ. Gen. XXX, 16; a. fr.—Koh. R. to IV, 6; Lev. R. s. 3 beg. (prov.) גינא וכ׳ דא׳ he who rents one garden will eat birds; him who rents gardens, the birds will eat. Git. 73ᵃ אג…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "(אָגַר) (√אג, akin to חכר; v. foreg.) prop. to tie, whence to hire, employ, rent. Targ. Gen. XXX, 16; a. fr.—Koh. R. to IV, 6; Lev. R. s. 3 beg. (prov.) גינא וכ׳ דא׳ he who rents one garden will eat birds; him who rents gardens, the birds will eat. Git. 73ᵃ אג…"
+   },
+   {
+    "path": "2.1",
+    "stem": "Af.",
+    "gloss": "same. Targ. Y. Deut. XXIII, 5 (4).—B. Mets. 77ᵃ (interch. with Pe.) (אגירי) אוגיר אגורי engages laborers."
+   },
+   {
+    "path": "2.2",
+    "stem": "Af.",
+    "gloss": "to rent out, lease. Erub. 63ᵇ אוֹגַר לן רשותך lease to us thy property. Y. Dem. VI, 25ᵇ top. Y. Taan. I, 64ᵇ bot. אוגרית חמרי I hired my ass out."
+   },
+   {
+    "path": "4.1",
+    "stem": "Ithpe.",
+    "gloss": "(contr. of איתאגר) to be hired, to work as a laborer. Targ. O. Deut. XXIII, 25; a. e.—Yoma 20ᵇ (prov.) אי תגרת וכ׳ (combine into one w.) when thou hast hired thyself out to one, comb his wool (shrink from no labor)."
+   }
+  ]
+ },
+ "jastrow:אֲגַר III": {
+  "key": "jastrow:אֲגַר III",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "אֲגַר III",
+  "pos": "m.",
+  "gloss": "(foreg.) rent, wages; reward, profit. Targ. Gen. XV, 1; a. fr.—B. Mets. 63ᵇ א׳ נטר ליה compensation for waiting (giving time for delivery), i.e. advancing the money to the seller. Ib. 68ᵇ פלגא בא׳ כ׳ half profit or loss. Ib. 69ᵇ א׳ ופגרא payment for carrying f…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "(foreg.) rent, wages; reward, profit. Targ. Gen. XV, 1; a. fr.—B. Mets. 63ᵇ א׳ נטר ליה compensation for waiting (giving time for delivery), i.e. advancing the money to the seller. Ib. 68ᵇ פלגא בא׳ כ׳ half profit or loss. Ib. 69ᵇ א׳ ופגרא payment for carrying f…"
    }
   ]
  },
@@ -17340,19 +17360,6 @@
    {
     "path": "1",
     "gloss": "Abba (father), a title of scholars (less than Rabbi), as Abba Saul, A. Yudan, etc.; cmp. foreg."
-   }
-  ]
- },
- "jastrow:אַגְרָא II": {
-  "key": "jastrow:אַגְרָא II",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "אַגְרָא II",
-  "pos": "pr. n. m.",
-  "gloss": "Agra, father-in-law of R. Abba; father of R. Y’hudah. Ḥull. 104ᵇ; 134ᵃ. Nidd. 53ᵃ",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "Agra, father-in-law of R. Abba; father of R. Y’hudah. Ḥull. 104ᵇ; 134ᵃ. Nidd. 53ᵃ"
    }
   ]
  },
@@ -18906,6 +18913,56 @@
    }
   ]
  },
+ "jastrow:בָּרַר": {
+  "key": "jastrow:בָּרַר",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "בָּרַר",
+  "gloss": "[to clear, clean; to place outside, whence]",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "[to clear, clean; to place outside, whence]"
+   },
+   {
+    "path": "2",
+    "gloss": "to make clear, prove, ascertain. Keth. 46ᵃ (interpret. Deut. XXII, 17) ובוֹרְרִין את הדבר וכ׳ and they make the fact as clear (bright) as a new garment.—Part. pass. בָּרוּר q. v."
+   },
+   {
+    "path": "3",
+    "gloss": "to single out, select, sift, assort. Maasr. II, 6 שאָבוֹר לי which I may select for me. Ib. בּוֹרֵר ואוכל he has a right to pick out and eat (one after the other). Kil. II, 1 יָבוֹר he must take it out entirely. Sabb. VII, 2 הבּוֹרֵר he who sifts (a labor forb…"
+   },
+   {
+    "path": "4.1",
+    "stem": "Pi.",
+    "gloss": "to prove, ascertain. Snh. 23ᵇ צריך לבָרֵר the claimant must offer clear evidence. Kerith. 24ᵃ לב׳ עוון to ascertain whether or not the woman was guilty; Num. R. s. 9, v. בָּעַר. Y. Kidd. III, 63ᵈ, v. סִימְפּוֹן. Lev. R. s. 11; v. Nithpa."
+   },
+   {
+    "path": "4.2",
+    "stem": "Pi.",
+    "gloss": "to sift, select. Y. Ber. IX, 13ᶜ top דש זרה ובי׳ he threshed, winnowed and sifted. Y. Ned. I, beg. 51ᵃ לשונות שביררו להן וכ׳ the terms (for oaths, vows \u0026c.) which the Mishnahs have selected (as substitutes for the real expressions of oaths \u0026c.); Bab. Ned. 10ᵇ …"
+   },
+   {
+    "path": "5.1",
+    "stem": "Hof.",
+    "gloss": "to be cleared up, to be decided (between two alternatives); v. בְּרֵירָה. Bets. 4ᵃ (a hen is bought either for consumption or for breeding) נשחטה הובְרָרָה וכ׳ by its being killed, it appears that it was originally intended for slaughtering; Ḥull. 14ᵃ"
+   },
+   {
+    "path": "6.1",
+    "stem": "Nif.",
+    "gloss": "to be selected. Tanḥ. Sh’laḥ. 4 נִבְרְרוּ צדיקים they were righteous at the time they were selected."
+   },
+   {
+    "path": "7.1",
+    "stem": "Nithpa.",
+    "gloss": "to desire clearness, to seek evidence, search for truth. Lev. R. s. 11 (ref. to II Sam. XXII, 26 sq.) בשעה שנ׳ על עסקיו הק\"בה בירר לו וכ׳ when he desired to be enlightened about his affairs (asking, ‘Whereby shall I know, Gen. XV, 8), the Lord enlightened him …"
+   },
+   {
+    "path": "7.2",
+    "stem": "Nithpa.",
+    "gloss": "to be confirmed, established. Tanḥ. T’tsavveh 9, end [read:] נִתְבָּרְרָה כהונה בידם through them the priesthood became established. Pesik. Dibré p. 115ᵇ [read as:] Yalk. Jer. 258 לא נ׳ … עד שעמד וכ׳ their prophecies were not fulfilled until Jer. arose."
+   }
+  ]
+ },
  "jastrow:בָּרָא I": {
   "key": "jastrow:בָּרָא I",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -18966,6 +19023,19 @@
    {
     "path": "1",
     "gloss": "morning star, v. בָּרַק a. בְּרַק. Y. Yoma III, beg. 40ᵇ; Y. R. Hash. I, beg. 57ᵈ"
+   }
+  ]
+ },
+ "jastrow:בָּשֵׁל": {
+  "key": "jastrow:בָּשֵׁל",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "בָּשֵׁל",
+  "pos": "f.",
+  "gloss": "preced.) ripe, boiled, done. זרוע בשלה the boiled shoulder due to the priest (Num. VI, 19). Ḥull. 98ᵃ bot. both derive it מז׳ ב׳ from the process prescribed for the priest’s gift \u0026c. Ib. 98ᵇ top אין ב׳ אלא שלמה when it says, ‘the shoulder boiled’ it means enti…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "preced.) ripe, boiled, done. זרוע בשלה the boiled shoulder due to the priest (Num. VI, 19). Ḥull. 98ᵃ bot. both derive it מז׳ ב׳ from the process prescribed for the priest’s gift \u0026c. Ib. 98ᵇ top אין ב׳ אלא שלמה when it says, ‘the shoulder boiled’ it means enti…"
    }
   ]
  },
@@ -19727,6 +19797,83 @@
    }
   ]
  },
+ "jastrow:גּוּס": {
+  "key": "jastrow:גּוּס",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "גּוּס",
+  "gloss": "Ber. 47ᵃ גָּס דעתיה Ms. M. he has become proud. Snh. 8ᵃ קא גָאִיס (ביה) (Ms. O. גָּיֵיס, v. Rabb. D. S. a. l. note) he was arrogant.",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Ber. 47ᵃ גָּס דעתיה Ms. M. he has become proud. Snh. 8ᵃ קא גָאִיס (ביה) (Ms. O. גָּיֵיס, v. Rabb. D. S. a. l. note) he was arrogant."
+   },
+   {
+    "path": "2.1",
+    "stem": "Af.",
+    "gloss": "as h. Hif.—Targ. Y. Deut. XVII, 20. Ib. Lev. IX, 7 א׳ מנדעך take courage. Ib. Ex. XXVIII, 39 מְגִיסֵי רעיוניהון the haughty (cmp. גסי רוח, s. v. גַּס)."
+   },
+   {
+    "path": "3.1",
+    "stem": "Ithpa.",
+    "gloss": "to become bold, haughty. Targ. II Chr. XXVI, 16 (h. text גבה). Targ. Koh. I, 12 (Var. אתגבה)."
+   }
+  ]
+ },
+ "jastrow:גּוּס I": {
+  "key": "jastrow:גּוּס I",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "גּוּס I",
+  "gloss": "(cmp. גאה) to swell, be bold (gen. with לב). Keth. 12ᵃ כדי שיהא לבו גָּס בה in order that he may become bold towards her (become intimate). Ib. 28ᵃ שאין לבו גס בה for he is not intimate enough with her (not having been married to her). Sot. I, 6 לבו גס בהן she…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "(cmp. גאה) to swell, be bold (gen. with לב). Keth. 12ᵃ כדי שיהא לבו גָּס בה in order that he may become bold towards her (become intimate). Ib. 28ᵃ שאין לבו גס בה for he is not intimate enough with her (not having been married to her). Sot. I, 6 לבו גס בהן she…"
+   },
+   {
+    "path": "2.1",
+    "stem": "Hif.",
+    "gloss": "(with לב or דעת) to embolden one’s heart; (reflexive) to become bold. Ex. R. s. 6 מי ה׳ את לבך who made thee so bold i.e. who has encouraged thee to take such liberties? Y. Maasr. II, beg. 49ᶜ להָגֵס את לבו שיאכל to encourage him to eat. Y. Snh. I, 18ᵃ bot. ה׳…"
+   }
+  ]
+ },
+ "jastrow:גּוּס II": {
+  "key": "jastrow:גּוּס II",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "גּוּס II",
+  "gloss": "to come in contact, touch, be connected. Denom. גַּיָּיס; גִּיס. [Ukts. II, 6 שיגוס, v. נָגַס.]",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "to come in contact, touch, be connected. Denom. גַּיָּיס; גִּיס. [Ukts. II, 6 שיגוס, v. נָגַס.]"
+   },
+   {
+    "path": "2.1",
+    "stem": "Hif.",
+    "gloss": "to stir (with a ladle \u0026c.). Makhsh. V, 11 מֵגִיסָה בקדרה she stirs the pot. Ab. Zar. 38ᵇ top ומֵגִיסָה and may stir it.—Sabb. 67ᵇ המגיס בפני אפרוחים (missing in Ms.) who stirs a dish before chickens (a superstitious practice). Meïl. 17ᵃ, a. e."
+   },
+   {
+    "path": "3.1",
+    "stem": "Pi.",
+    "gloss": ", v. s. v. גַּיָּיס."
+   }
+  ]
+ },
+ "jastrow:גּוּס ²": {
+  "key": "jastrow:גּוּס ²",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "גּוּס ²",
+  "gloss": "to come in contact, meet. Pes. 110ᵇ גָּס ביה וכ׳ an Arab met him. Gitt. 65ᵇ מֵיגַס גָּאֵיס בה (Ar. גָּיֵיס) he may meet him.—Adj. גָּיֵיס, גִּיס familiar, v. גִּיס.",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "to come in contact, meet. Pes. 110ᵇ גָּס ביה וכ׳ an Arab met him. Gitt. 65ᵇ מֵיגַס גָּאֵיס בה (Ar. גָּיֵיס) he may meet him.—Adj. גָּיֵיס, גִּיס familiar, v. גִּיס."
+   },
+   {
+    "path": "2",
+    "gloss": "to recline, dine, v. גְּסַס."
+   }
+  ]
+ },
  "jastrow:גּוּף": {
   "key": "jastrow:גּוּף",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -20450,42 +20597,6 @@
    }
   ]
  },
- "jastrow:הֵי I": {
-  "key": "jastrow:הֵי I",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "הֵי I",
-  "gloss": "pr. n. m., v. הֵא II",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "pr. n. m., v. הֵא II"
-   }
-  ]
- },
- "jastrow:הֵי II": {
-  "key": "jastrow:הֵי II",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "הֵי II",
-  "gloss": "interj. (b. h. interj. (b. h. הִא) behold, here is. Y. Succ. V, beg. 55ᵃ הי לך מצה here is unleavened bread for thee. Combined הֵילָךְ. Ib.—B. Mets. 4ᵃ I owe thee only fifty Zuz, וה׳ and here they are.—Hence (law) helakh, the instantaneous delivery of the amou…",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "interj. (b. h. interj. (b. h. הִא) behold, here is. Y. Succ. V, beg. 55ᵃ הי לך מצה here is unleavened bread for thee. Combined הֵילָךְ. Ib.—B. Mets. 4ᵃ I owe thee only fifty Zuz, וה׳ and here they are.—Hence (law) helakh, the instantaneous delivery of the amou…"
-   },
-   {
-    "path": "2",
-    "gloss": "(interrog.) which? Ḥull. 14ᵃ הי ר׳ יהודה which R. Judah, i.e. to which opinion of R. J. do you allude? Sabb. 9ᵇ הי סמוך וכ׳ which ‘near Minḥah’ is meant in the Mishnah?—Ḥull. 49ᵇ הי מינייהו which of them (eventually closes up a hole in the entrails); a. fr."
-   },
-   {
-    "path": "3",
-    "gloss": "where? Ber. 31ᵃ הי תורה וכ׳ where is the law, and where the good deeds to protect us?—Targ. Y. Deut. V, 23, v. דֵּן.—הי דינו, v. הַיְידְּנוּ."
-   },
-   {
-    "path": "4",
-    "gloss": "as, like. Targ. Y. I Deut. XXXII, 41 הֵיא ברק (not הִיא) as lightning. Mostly הי כ־; comb. היכ־. Targ. Y. Lev. XXV, 40, v. הֵיךְ."
-   }
-  ]
- },
  "jastrow:הֵם": {
   "key": "jastrow:הֵם",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -20644,6 +20755,18 @@
    {
     "path": "3",
     "gloss": "עֵץ הָדָר (b. h.) the tree Hadar. Ib.; a. fr."
+   }
+  ]
+ },
+ "jastrow:הָוָה": {
+  "key": "jastrow:הָוָה",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "הָוָה",
+  "gloss": ", v. הֲוִי",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": ", v. הֲוִי"
    }
   ]
  },
@@ -22519,29 +22642,37 @@
    }
   ]
  },
- "jastrow:חוֹרִי I": {
-  "key": "jastrow:חוֹרִי I",
+ "jastrow:חוֹר I": {
+  "key": "jastrow:חוֹר I",
   "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "חוֹרִי I",
+  "headword": "חוֹר I",
   "pos": "m.",
-  "gloss": "= אֲחוֹרִי, another, second. Y. Peah VIII, 21ᵃ אתא חד סיעא ח׳ a second caravan came.—Pl. חוֹרְיֵי. Y. Ber. IX, 14ᵃ bot. אית לך ח׳ there are other cases for you to quote.—Fem. חוֹרִי, חוֹרַיְתָא, חוֹרַיְי׳ (noun) something else. Lev. R. s. 33 אמר ח׳ gave anothe…",
+  "gloss": "preced. wds.)",
   "senses": [
    {
     "path": "1",
-    "gloss": "= אֲחוֹרִי, another, second. Y. Peah VIII, 21ᵃ אתא חד סיעא ח׳ a second caravan came.—Pl. חוֹרְיֵי. Y. Ber. IX, 14ᵃ bot. אית לך ח׳ there are other cases for you to quote.—Fem. חוֹרִי, חוֹרַיְתָא, חוֹרַיְי׳ (noun) something else. Lev. R. s. 33 אמר ח׳ gave anothe…"
+    "gloss": "preced. wds.)"
+   },
+   {
+    "path": "2",
+    "gloss": "hole, cavity. Pes. 8ᵃ ח׳ שבין אדם לחבירו a cave between two residences of neighbors.—Sabb. 52ᵇ מחט שניטל חוּרָהּ (Ms. M. חוּדְדָהּ, Ms. O. חֲרָרָהּ, some ed. חוּדָּהּ) a needle whose eye is broken off; ib. 123ᵃ חֲרָרָהּ (Ms. M. חוּדָּהּ); Kel. XIII, 5 חֲרִירָה…"
+   },
+   {
+    "path": "3",
+    "gloss": "ant’s store, v. חוֹרָר. [Pesik. Shor p. 74ᵇ חורין דדהב, v. חַזּוּר.] [Y. Maasr. V, end, 52ᵃ חור אחד, v. זוּר II.]"
    }
   ]
  },
- "jastrow:חוֹרִי II": {
-  "key": "jastrow:חוֹרִי II",
+ "jastrow:חוֹר II": {
+  "key": "jastrow:חוֹר II",
   "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "חוֹרִי II",
-  "pos": "f.",
-  "gloss": "(b. h.) cakes, v. חֲרָרָה.",
+  "headword": "חוֹר II",
+  "pos": "m.",
+  "gloss": "(b. h.), pl. חוֹרִין [white garments,] freedom; בֶּן ח׳, בַּת ח׳ free, freed, opp. to slave. Gitt. IV, 4 ועושה … בן ח׳ and he must declare him free. Ib. 5 חציו עבד וחציו בן ח׳ half a slave and half a freedman; a. fr.—Pl. בְּנֵי ח׳. B. Kam. I, 3 עדים ב׳ ח׳ וכ׳ …",
   "senses": [
    {
     "path": "1",
-    "gloss": "(b. h.) cakes, v. חֲרָרָה."
+    "gloss": "(b. h.), pl. חוֹרִין [white garments,] freedom; בֶּן ח׳, בַּת ח׳ free, freed, opp. to slave. Gitt. IV, 4 ועושה … בן ח׳ and he must declare him free. Ib. 5 חציו עבד וחציו בן ח׳ half a slave and half a freedman; a. fr.—Pl. בְּנֵי ח׳. B. Kam. I, 3 עדים ב׳ ח׳ וכ׳ …"
    }
   ]
  },
@@ -22642,26 +22773,6 @@
    {
     "path": "3",
     "gloss": "pureness, condition of levitical cleanness; purification. Sabb. 152ᵇ תנה לו כמו שנתנה לך מה הוא בט׳ אף אתה בט׳ Ms. M. (v. Rabb. D. S. a. l. note) give her (the soul) to Him as He has given her to thee, as He (has given her) in pureness, so give thou \u0026c. Snh. 6…"
-   }
-  ]
- },
- "jastrow:טָלַל": {
-  "key": "jastrow:טָלַל",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "טָלַל",
-  "gloss": "to hang over, (of liquids) to form drops; v. טַל.—Part. pass. טָלוּל, f. טְלוּלָה a) hanging. Y. Ab. Zar. IV, 44ᵃ bot. [read:] שלא היתה שם טיפה אחת ט׳ that there should not have been there (in the vat) one drop hanging (which drops down on being touched or sha…",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "to hang over, (of liquids) to form drops; v. טַל.—Part. pass. טָלוּל, f. טְלוּלָה a) hanging. Y. Ab. Zar. IV, 44ᵃ bot. [read:] שלא היתה שם טיפה אחת ט׳ that there should not have been there (in the vat) one drop hanging (which drops down on being touched or sha…"
-   },
-   {
-    "path": "2",
-    "gloss": "to be movable, v. טִלְטֵל."
-   },
-   {
-    "path": "3",
-    "gloss": "to cover, v. טַלִּית."
    }
   ]
  },
@@ -22888,6 +22999,19 @@
    {
     "path": "4",
     "gloss": "scholars’ session, council, academy; court. Yoma 28ᵇ זקן ויושב בי׳ an elder and member of council. Ib. לא פרשה י׳ מהם they (our early ancestors) were never without council (a representative body). Pes. 119ᵃ top המכיר … בי׳ who knows his colleague’s place in me…"
+   }
+  ]
+ },
+ "jastrow:יִלּוֹד": {
+  "key": "jastrow:יִלּוֹד",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "יִלּוֹד",
+  "pos": "m.",
+  "gloss": "preced. wds.) born, existing.—Pl. יִלּוֹדִים. Ned. III, 9; ib. 30ᵇ, v. יָלַד Nif.—Ab. IV, 22 הי׳ למות the living are destined to die.",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "preced. wds.) born, existing.—Pl. יִלּוֹדִים. Ned. III, 9; ib. 30ᵇ, v. יָלַד Nif.—Ab. IV, 22 הי׳ למות the living are destined to die."
    }
   ]
  },
@@ -25123,6 +25247,19 @@
    }
   ]
  },
+ "jastrow:לֵבָב": {
+  "key": "jastrow:לֵבָב",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "לֵבָב",
+  "pos": "m.",
+  "gloss": "(b. h.) = לֵב, heart; (in rabbinical homiletics) double heart, seat of two opposite inclinations (v. יֵצֶר). Ber. IX, 5 (ref. to Deut. VI, 5) בכל לְבָבְךָ בשני יצריך וכ׳ ‘with all thy heart’ means with both thy inclinations \u0026c. (i.e. break thy evil inclination…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "(b. h.) = לֵב, heart; (in rabbinical homiletics) double heart, seat of two opposite inclinations (v. יֵצֶר). Ber. IX, 5 (ref. to Deut. VI, 5) בכל לְבָבְךָ בשני יצריך וכ׳ ‘with all thy heart’ means with both thy inclinations \u0026c. (i.e. break thy evil inclination…"
+   }
+  ]
+ },
  "jastrow:לֵוִי": {
   "key": "jastrow:לֵוִי",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -26371,6 +26508,18 @@
    }
   ]
  },
+ "jastrow:מַשּׂוֹא": {
+  "key": "jastrow:מַשּׂוֹא",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "מַשּׂוֹא",
+  "gloss": ", מַשּׂוֹי, (מַסּוֹי) מַשְּׁאוֹי m.(b. h. burden, load. Y. Dem. II, 22ᵈ top אין כל א\"י עושה מ׳ וכ׳ (not עשוי) the whole of Palestine does not produce one load of raisins. Ib. [read:] ואין כל א\"י עושה מ׳ אחד של צימוקין אלא כן אמר לן אין מקום בא\"י עושה מסוי וכ׳ …",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": ", מַשּׂוֹי, (מַסּוֹי) מַשְּׁאוֹי m.(b. h. burden, load. Y. Dem. II, 22ᵈ top אין כל א\"י עושה מ׳ וכ׳ (not עשוי) the whole of Palestine does not produce one load of raisins. Ib. [read:] ואין כל א\"י עושה מ׳ אחד של צימוקין אלא כן אמר לן אין מקום בא\"י עושה מסוי וכ׳ …"
+   }
+  ]
+ },
  "jastrow:מַתְיָא": {
   "key": "jastrow:מַתְיָא",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -27085,18 +27234,6 @@
    {
     "path": "3",
     "gloss": "(cmp. אוֹת, מוֹפֵת) sign, wonder, providential event. Nidd. 31ᵃ אפי׳ בעל הנס אינו מכיר בנִסּוֹ even he to whom the providential sign happens, does not recognize it. Yoma 21ᵃ כרובים בנס וכ׳ the cherubs (above the ark in the Solomonic Temple) stood by a miracle.…"
-   }
-  ]
- },
- "jastrow:נֵר": {
-  "key": "jastrow:נֵר",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "נֵר",
-  "gloss": "c. (b. h.; v. נוּר) light. Sabb. 22ᵇ; Men. 86ᵇ נר מערבי שנותנין וכ׳ the westernmost light (on the candlestick in the Temple) into which as much oil was put as all the others together contained. Sabb. 22ᵃ מנר לנר מדליקין you may light one Ḥanuckah light on the …",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "c. (b. h.; v. נוּר) light. Sabb. 22ᵇ; Men. 86ᵇ נר מערבי שנותנין וכ׳ the westernmost light (on the candlestick in the Temple) into which as much oil was put as all the others together contained. Sabb. 22ᵃ מנר לנר מדליקין you may light one Ḥanuckah light on the …"
    }
   ]
  },
@@ -28059,6 +28196,18 @@
    }
   ]
  },
+ "jastrow:סַף": {
+  "key": "jastrow:סַף",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "סַף",
+  "gloss": "part. a. perf. of סוּף.",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "part. a. perf. of סוּף."
+   }
+  ]
+ },
  "jastrow:סָב": {
   "key": "jastrow:סָב",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -28363,31 +28512,6 @@
    {
     "path": "3",
     "gloss": "a dish made of fine flour, pudding. Ber. 37ᵃ (v. Rabb. D. S. a. l. note 20). Y. ib. VI, 10ᵇ; a. e."
-   }
-  ]
- },
- "jastrow:סוֹד": {
-  "key": "jastrow:סוֹד",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "סוֹד",
-  "pos": "m.",
-  "gloss": "foundation. Snh. 92ᵇ סוֹדוֹ (Tanḥ. Noah 10 יסודו), v. מָקַק.—Trnsf. principle. R. Hash. 20ᵇ ס׳ העיבור the Principle of Intercalation (title of a book). Ex. R. s. 15 ס׳ הלבנה the principle of the lunar calendar.",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "foundation. Snh. 92ᵇ סוֹדוֹ (Tanḥ. Noah 10 יסודו), v. מָקַק.—Trnsf. principle. R. Hash. 20ᵇ ס׳ העיבור the Principle of Intercalation (title of a book). Ex. R. s. 15 ס׳ הלבנה the principle of the lunar calendar."
-   },
-   {
-    "path": "2",
-    "gloss": "intimate union, circle, council. Y. R. Hash. II, 58ᵇ (ref. to Ez. XIII, 9) זהו ס׳ העיבור that means the council (of the Sanhedrin) for intercalation; Keth. 112ᵃ; Y. Snh. I, 18ᶜ bot. זה עיבור (corr. acc.)."
-   },
-   {
-    "path": "3",
-    "gloss": "deliberation, counsel. Erub. 65ᵃ (ref. to the numerical value of י̇י̇ן̇ and ס̇ו̇ד̇) נכנס יין יצא ס׳ where the wine enters, counsel leaves; Snh. 38ᵃ; Num. R. s. 10; s. 11. Ib. יצא יין נכנס ס׳ when the wine has left (where there is abstinence), deliberation ente…"
-   },
-   {
-    "path": "4",
-    "gloss": "secret. Ib. 49ᵇ אין מגלין להן ס׳ we must not entrust a secret to them. Ḥag. 14ᵃ הקב\"ה מגלה להם ס׳ וכ׳ the Lord shall reveal a secret (solve mysteries) to them in the hereafter. Yeb. 63ᵇ (fr. Ben Sira) גַּלֵּה ס׳ וכ׳ reveal a secret to one out of thousand; a. e…"
    }
   ]
  },
@@ -29706,23 +29830,6 @@
    }
   ]
  },
- "jastrow:עָתַד": {
-  "key": "jastrow:עָתַד",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "עָתַד",
-  "gloss": "(b. h.) to endure, stand, be ready.",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "(b. h.) to endure, stand, be ready."
-   },
-   {
-    "path": "2.1",
-    "stem": "Pi.",
-    "gloss": "to make ready, designate.—Part. pass. מְעוּתָּד, pl. מְעוּתָּדִים, מְעוּתָּדִין. Num. R. s. 18 (ref. to Job XV, 28) ולמי הן מע׳ וכ׳ and for whom were they (the treasures) designated? For those who were to emigrate (from Egypt) \u0026c. Yalk. Ex. 264; Mekh. B’shall.…"
-   }
-  ]
- },
  "jastrow:עֹמֶר": {
   "key": "jastrow:עֹמֶר",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -30936,6 +31043,27 @@
    }
   ]
  },
+ "jastrow:צָף": {
+  "key": "jastrow:צָף",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "צָף",
+  "pos": "f.",
+  "gloss": "(part. of צוּף q. v.)",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "(part. of צוּף q. v.)"
+   },
+   {
+    "path": "2",
+    "gloss": "floating, flat. Men. V, 8, a. e., v. מַחֲבַת."
+   },
+   {
+    "path": "3",
+    "gloss": "shining, conspicuous.—Pl. צָפִים, צָפִין. Yalk. Num. 759 (expl. יקרות וקפאון, Zech. XIV, 6, v. קָפָא) הדברים … צ׳ לכם כהדין בולוס the things which are covered up to you in this world, shall be as clear to you \u0026c., v. בּוּלָס; Yalk. Is. 316, a. Num. R. s. 19 צו…"
+   }
+  ]
+ },
  "jastrow:צָפָה": {
   "key": "jastrow:צָפָה",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -31688,18 +31816,6 @@
    }
   ]
  },
- "jastrow:קו\"ף": {
-  "key": "jastrow:קו\"ף",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "קו\"ף",
-  "gloss": "Ḳof, the nineteenth letter of the alphabet. Maas. Sh. IV, 11 המוצא כלי … ק׳ קרבן if you find a vessel on which Ḳof is written, it indicates that the contents are consecrated. Sabb. 104ᵃ (in children’s conversations) ק̇ ק̇דוש רי\"ש ר̇ Ḳof intimates the Holy One,…",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "Ḳof, the nineteenth letter of the alphabet. Maas. Sh. IV, 11 המוצא כלי … ק׳ קרבן if you find a vessel on which Ḳof is written, it indicates that the contents are consecrated. Sabb. 104ᵃ (in children’s conversations) ק̇ ק̇דוש רי\"ש ר̇ Ḳof intimates the Holy One,…"
-   }
-  ]
- },
  "jastrow:קוֹל": {
   "key": "jastrow:קוֹל",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -31710,31 +31826,6 @@
    {
     "path": "1",
     "gloss": "v. קהל) voice, call, sound. Ker. 6ᵃ; Pes. 26ᵃ ק׳ מראה וריח וכ׳ the enjoyment of sound, sight or smell does not come under the category of misuse of sacred property (מְעַילָה). Zeb. 88ᵇ יבא דבר שבק׳ ויכפר על ק׳ הרע let that which is accompanied by sound (the hi…"
-   }
-  ]
- },
- "jastrow:קוֹף": {
-  "key": "jastrow:קוֹף",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "קוֹף",
-  "gloss": "Ned. 50ᵇ. B. Kam. 101ᵃ וקאתי קוף וכ׳ and an ape came and dyed the (stolen) wool (with dye stolen from another person). Ib. כגון שצבע בהו קופא ed. he painted a (stolen) ape with the stolen paint (so that he improved nothing thereby); [oth. opin. קוִּפָּא basket…",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "Ned. 50ᵇ. B. Kam. 101ᵃ וקאתי קוף וכ׳ and an ape came and dyed the (stolen) wool (with dye stolen from another person). Ib. כגון שצבע בהו קופא ed. he painted a (stolen) ape with the stolen paint (so that he improved nothing thereby); [oth. opin. קוִּפָּא basket…"
-   }
-  ]
- },
- "jastrow:קוֹף II": {
-  "key": "jastrow:קוֹף II",
-  "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "קוֹף II",
-  "pos": "m.",
-  "gloss": "(b. h.) ape. Kil. VIII, 6. Bekh. 8ᵃ הפיל והק׳ והקיפוף וכ׳ the elephant, the ape, and the long-tailed ape (cercopithacos) give birth after three years of pregnancy. B. Bath. 58ᵃ כק׳ בפני אדם as inferior in looks as the ape is to man. Yoma 29ᵇ כמו שסדרו הק׳ as i…",
-  "senses": [
-   {
-    "path": "1",
-    "gloss": "(b. h.) ape. Kil. VIII, 6. Bekh. 8ᵃ הפיל והק׳ והקיפוף וכ׳ the elephant, the ape, and the long-tailed ape (cercopithacos) give birth after three years of pregnancy. B. Bath. 58ᵃ כק׳ בפני אדם as inferior in looks as the ape is to man. Yoma 29ᵇ כמו שסדרו הק׳ as i…"
    }
   ]
  },
@@ -31793,6 +31884,128 @@
    }
   ]
  },
+ "jastrow:קוּם": {
+  "key": "jastrow:קוּם",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "קוּם",
+  "gloss": "(b. h.) to stand up, rise; to stand, exist. Sifré Deut. 357 (ref. to Deut. XXXIV, 10) אבל באומות קָם וכ׳ but among the nations he (a prophet like Moses) has existed \u0026c.; R. Hash. 21ᵇ בנביאים לא קם וכ׳ among the prophets never one arose like Moses, but among th…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "(b. h.) to stand up, rise; to stand, exist. Sifré Deut. 357 (ref. to Deut. XXXIV, 10) אבל באומות קָם וכ׳ but among the nations he (a prophet like Moses) has existed \u0026c.; R. Hash. 21ᵇ בנביאים לא קם וכ׳ among the prophets never one arose like Moses, but among th…"
+   },
+   {
+    "path": "2.1",
+    "stem": "Pi.",
+    "gloss": "to establish; to attest, identify. Gitt. 2ᵇ אין עדים מצויין לקַיְּימוֹ no witnesses are likely to be found to attest it (identify the signatures). Ib. 6ᵃ כולי עלמא בעינן לקיימו all agree that identifiation by witnesses is required. B. Mets. 7ᵃ מודה בשטר … צריך…"
+   },
+   {
+    "path": "2.2",
+    "stem": "Pi.",
+    "gloss": "to fulfill, carry out, execute. Yoma 28ᵇ ק׳ אברהם וכ׳ Abraham fulfilled the whole Law. Macc. l. c. כל מצות … ק׳ וכ׳ in the case of a transgression of a prohibitive law for which reparation is commanded, if the transgressor fulfills the prescribed reparation, h…"
+   },
+   {
+    "path": "2.3",
+    "stem": "Pi.",
+    "gloss": "to sustain, preserve alive, save. Snh. IV, 5 כל המקיים … כאילו ק׳ וכ׳ he who saves one life … is considered … as if he had preserved the whole world; B. Bath. 11ᵃ. Ab. V, 1 צדיקים שמקיימין את העילם וכ׳ the righteous who sustain the world which was created \u0026c. …"
+   },
+   {
+    "path": "4.1",
+    "stem": "Nithpa.",
+    "gloss": "to be established, identified. Gitt. I, 3 יִתְקַיֵּים בחותמיו let the genuineness of the document be established through its signers (the witnesses subscribed or through others identifying their signatures); a. fr."
+   },
+   {
+    "path": "4.2",
+    "stem": "Nithpa.",
+    "gloss": "to be fulfilled, realized. Macc. 24ᵇ עד שלא נִתְקַיְּימָה … שלא תִתְקַיֵּים נבואתו וכ׳ as long as the prophecy of Uriah (Mic. III, 12) was not fulfilled, I was afraid lest Zechariah’s prophecy (Zech. VIII, 4) fail to come true; עכשיו שנתקיימה … מִתְקַיֶּימֶת n…"
+   },
+   {
+    "path": "4.3",
+    "stem": "Nithpa.",
+    "gloss": "to be preserved; to last, endure. Gitt. II, 3 בכל דבר שאינו מתקיים with any writing-ink which does not endure. Pes. 68ᵇ אילמלא … לא נתקיימו וכ׳ but for the Law, heaven and earth would not continue to exist. Taan. 7ᵃ מה … מִתְקַיְּימִין וכ׳ as these three liqui…"
+   },
+   {
+    "path": "4.4",
+    "stem": "Nithpa.",
+    "gloss": "to be maintained, be harmonised. Mekh. Mishp. s. 20 כיצד יִתְקַיְּימוּ שני מקראות הללו how can these two verses be harmonised?; a. fr."
+   },
+   {
+    "path": "5.1",
+    "stem": "Hif.",
+    "gloss": "to put up, erect. Ex. R. s. 52 בואו שנָקִים וכ׳ come, for we will put up the Tabernacle. Ib. שרתה … והֵקִימוֹ the holy spirit came upon him, and he put it up. Tanḥ. P’ḳudé 11 אני כותב עליך שאתה הֲקִימֹתוֹ I will record about thee, that thou didst put it up; a.…"
+   },
+   {
+    "path": "5.2",
+    "stem": "Hif.",
+    "gloss": "to confirm (a woman’s vow). Ned. 67ᵇ אי ה׳ ה׳ if he (the father) has confirmed it, it stands confirmed (the betrothed cannot annul it). Ib. 69ᵃ יש שאלה בהָקֵם can a confirmation (by one of the two, the father or the husband) be reconsidered? (v. שְׁאֵלָה), v. …"
+   },
+   {
+    "path": "6.1",
+    "stem": "Hof.",
+    "gloss": "to be put up. Tanḥ. l. c. כיון שה׳ המשכן מיד וכ׳ as soon as the Tabernacle was erected, the Divine Presence came down \u0026c. Tanḥ. Naso 23. Num. R. s. 12; a. fr."
+   }
+  ]
+ },
+ "jastrow:קוּם ²": {
+  "key": "jastrow:קוּם ²",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "קוּם ²",
+  "gloss": "same. Targ. Gen. XXII, 3. Targ. Lev. XXV, 30; a. v. fr.—Part. קָאֵים, apocop. קָאֵי (q. v.); קָיֵם, קָיֵים; f. קָיְימָא; pl. קָיְימִין; קָיְימָן, קָיְמ׳. Targ. Josh. IV, 10. Targ. O. Ex. XXVI, 15 (Y. קַיָּמִין); a. v. fr.—B. Mets. 19ᵃ (expl. דייתיקי) דא תהי למ…",
+  "senses": [
+   {
+    "path": "2",
+    "gloss": "same. Targ. Gen. XXII, 3. Targ. Lev. XXV, 30; a. v. fr.—Part. קָאֵים, apocop. קָאֵי (q. v.); קָיֵם, קָיֵים; f. קָיְימָא; pl. קָיְימִין; קָיְימָן, קָיְמ׳. Targ. Josh. IV, 10. Targ. O. Ex. XXVI, 15 (Y. קַיָּמִין); a. v. fr.—B. Mets. 19ᵃ (expl. דייתיקי) דא תהי למ…"
+   },
+   {
+    "path": "3",
+    "gloss": "(v. עָמַד) to curdle. Ab. Zar. 35ᵇ נישקול מיניה קלי ונֵיקוּם (prob. to be read ונוֹקִים) let one take a little of it and curdle it. Ib. קיימי, v. נַסְיוּבֵי."
+   },
+   {
+    "path": "4",
+    "gloss": "to cause to stand (v. קִים).—Inf. מִיקְמָא, מִיקְמָה, v. Af"
+   },
+   {
+    "path": "5.1",
+    "stem": "Af.",
+    "gloss": ", אוֹקֵי"
+   },
+   {
+    "path": "5.2",
+    "stem": "Af.",
+    "gloss": "to put up, erect; to appoint, place; to maintain. Targ. O. Ex. XL, 2 תָּקִים (ed. Berl. a. Y. תְּקִים). Ib. 18 ואָקֵים (ed. Berl. ואָקֵים a. ואֵקִים). Targ. O. Deut. XXV, 7 לאָקָמָא ed. Berl. (oth. ed. לַאֲקָ׳; Y. למִיקְמָא). Targ. Ps. LXXVIII, 13. Targ. Prov.…"
+   },
+   {
+    "path": "5.3",
+    "stem": "Af.",
+    "gloss": "(v. עָמַד) to make consistent, curdle. Ab. Zar. 35ᵃ [read:] כיון דאוֹקְמֵיה איסורא הוא דקא מוֹקִים ליה וכ׳ (v. Ms. M. in Rabb. D. S. a. l., a. note) since it had the effect of curdling the milk, it is the forbidden matter that gave it substance, and therefore …"
+   },
+   {
+    "path": "6.1",
+    "stem": "Ittaf.",
+    "gloss": "to put up; to be placed. Targ. Ex. XL, 17. Targ. Lev. XVI, 10; a. e."
+   },
+   {
+    "path": "7.1",
+    "stem": "Polel.",
+    "gloss": "to put up, erect. Targ. Is. XLIV, 26; a. e."
+   },
+   {
+    "path": "8.1",
+    "stem": "Pa.",
+    "gloss": "as preced. Pi., to establish, confirm, fulfill \u0026c. Targ. O. Deut. XXXII, 8 (Y. Af.). Targ. Num. XXX, 14. Targ. Is. l. c. Targ. Ps. CXIX, 106; a. fr.—Ned. 70ᵃ דהא קַיְּימֵיה לנדריה היום (not קיימי, v. Rashi) for he has confirmed the vow to-day. Ib. (h. form) כי…"
+   },
+   {
+    "path": "8.2",
+    "stem": "Pa.",
+    "gloss": "(v. קְיָים) to swear, vow. Targ. Num. XXX, 3. Targ. Gen. XXVIII, 20. Targ. O. Lev. V, 4; a. e."
+   },
+   {
+    "path": "9.1",
+    "stem": "Ithpa.",
+    "gloss": "as preced. Hithpa. Targ. Num. XIV, 38. Targ. Ez. XXXIII, 12; a. fr.—Y. Sabb. VI, end, 8ᵈ [read:] תִּתְקַיֵּים לכון נפשיכין בהדין יומכון היך דקַיַּימְתּוּן וכ׳ may your life be restored on that day of yours (when your time comes), as you have restored my life o…"
+   }
+  ]
+ },
  "jastrow:קוּף": {
   "key": "jastrow:קוּף",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -31815,6 +32028,38 @@
    {
     "path": "2",
     "gloss": "same. Kel. XVI, 7 (v. Maim. a. l.).—2) fem. of רְבִיעִי q. v.—3) square block. Tam. III, 5, v. רָבִיעַ."
+   }
+  ]
+ },
+ "jastrow:רְעַע": {
+  "key": "jastrow:רְעַע",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "רְעַע",
+  "gloss": ", to shatter, break. Targ. Jud. IX, 53 ורָעַת (Levita ורְעִיעַת; some ed. ורעתת, corr. acc.). Targ. Y. II, Ex. XV, 6 רָעָא (some ed. רעע, corr. acc.). Targ. Job XX, 19 (ed. Wil. רָעַע Pa.); a. e.—Part. pass. רְעִיעַ, רְעִיעָא; f. רְעִיעָא, רְעִיעֲתָא. Targ. Is…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": ", to shatter, break. Targ. Jud. IX, 53 ורָעַת (Levita ורְעִיעַת; some ed. ורעתת, corr. acc.). Targ. Y. II, Ex. XV, 6 רָעָא (some ed. רעע, corr. acc.). Targ. Job XX, 19 (ed. Wil. רָעַע Pa.); a. e.—Part. pass. רְעִיעַ, רְעִיעָא; f. רְעִיעָא, רְעִיעֲתָא. Targ. Is…"
+   },
+   {
+    "path": "2.1",
+    "stem": "Pa.",
+    "gloss": "same. Targ. Job XX, 10. Ib. 19, v. supra; a. e."
+   },
+   {
+    "path": "3.1",
+    "stem": "Af.",
+    "gloss": "to do harm. Ib. XXIV, 21 מֵרַע (Ms. מְיָירַע; h. text רֹעֶה)."
+   },
+   {
+    "path": "4.1",
+    "stem": "Ithpe.",
+    "gloss": "to be shaken, broken; be afraid. Targ. Y. Deut. XX, 3 (Var. תִּתְיָרְע׳)."
+   },
+   {
+    "path": "4.2",
+    "stem": "Ithpe.",
+    "gloss": "to be shaken, impaired. Hor. 12ᵃ ומִיתְרַע מזליה and his luck may be shaken, v. רִיעַ II. B. Bath. 59ᵃ דתִיתְרַע וכ׳, v. אֲשִׁיתָא. Ḥull. 10ᵃ סכין אִיתְרְעָאִי וכ׳ the status of the knife has been impaired (the knife having been found notched after slaughterin…"
    }
   ]
  },
@@ -32048,6 +32293,19 @@
    }
   ]
  },
+ "jastrow:רַחֲמִים": {
+  "key": "jastrow:רַחֲמִים",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "רַחֲמִים",
+  "pos": "m. pl.",
+  "gloss": "love, mercy; (sub. בקשת) prayer. Ber. 7ᵃ שיכבשו רַחֲמַי את כעסי וכ׳ that my mercy may conquer my anger \u0026c., v. גָּלַל. Ib. שיכבשו רַחֲמֶיךָ וכ׳ that thy mercy \u0026c. Ib. 10ᵃ, sq. אל ימנע עצמו מן הר׳ must not despair of mercy (cease to pray), v. מָנַע. Ib. 55ᵃ שלש…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "love, mercy; (sub. בקשת) prayer. Ber. 7ᵃ שיכבשו רַחֲמַי את כעסי וכ׳ that my mercy may conquer my anger \u0026c., v. גָּלַל. Ib. שיכבשו רַחֲמֶיךָ וכ׳ that thy mercy \u0026c. Ib. 10ᵃ, sq. אל ימנע עצמו מן הר׳ must not despair of mercy (cease to pray), v. מָנַע. Ib. 55ᵃ שלש…"
+   }
+  ]
+ },
  "jastrow:רַחוּם": {
   "key": "jastrow:רַחוּם",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -32173,6 +32431,31 @@
    }
   ]
  },
+ "jastrow:רָבַב": {
+  "key": "jastrow:רָבַב",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "רָבַב",
+  "gloss": "(b. h.)",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "(b. h.)"
+   },
+   {
+    "path": "2",
+    "gloss": "to be great, numerous. M. Kat. 28ᵇ רַבּוּ עונותיו many are his sins. Gen. R. s. 27 (expl. רבה, Gen. VI, 5) רַבָּה והולכת was growing more and more; a. e.—Denom. רַב."
+   },
+   {
+    "path": "3",
+    "gloss": "to line, v. infra."
+   },
+   {
+    "path": "4.1",
+    "stem": "Pi.",
+    "gloss": "[to make strong, thick,] to line. Pesik. Zuṭr. Haăz., ed. Bub. p. 110 שמְרַבֶּבֶת, v. רָבִיב.—Esp. to line a skin with pitch (v. חֵמֶת). Ab. Zar. 33ᵃ נכרי רִיבְּבָן … וישראל נותן וכ׳ if a gentile pitched them and tanned them, and an Israelite puts wine into th…"
+   }
+  ]
+ },
  "jastrow:רָבָה": {
   "key": "jastrow:רָבָה",
   "source": "Jastrow Dictionary (Sefaria)",
@@ -32292,15 +32575,53 @@
    }
   ]
  },
- "jastrow:רָמַם": {
-  "key": "jastrow:רָמַם",
+ "jastrow:רָעַע": {
+  "key": "jastrow:רָעַע",
   "source": "Jastrow Dictionary (Sefaria)",
-  "headword": "רָמַם",
-  "gloss": ", Pi. רִימֵּם, v. רוּם h.",
+  "headword": "רָעַע",
+  "gloss": "(b. h.) [to bring in close contact, v. רֵיעַ,]",
   "senses": [
    {
     "path": "1",
-    "gloss": ", Pi. רִימֵּם, v. רוּם h."
+    "gloss": "(b. h.) [to bring in close contact, v. רֵיעַ,]"
+   },
+   {
+    "path": "2",
+    "gloss": "to strike against, shatter, impair. —Part. pass. רָעוּעַ; f. רְעוּעָה; pl. רְעוּעִים, רְעוּעִין; רְעוּעוֹת impaired, defective; in a ruinous state, threatening, opp. בריא sound. Kidd. 39ᵇ סולם ר׳ a broken ladder. Kel. III, 5 הר׳ a cracked vessel. Taan. 20ᵇ מפו…"
+   },
+   {
+    "path": "3",
+    "gloss": "(neut. verb) רַע, imperf. יֵרַע to be injurious, evil; רע ל־ to grieve, displease. B. Mets. 84ᵇ בני אל ירע לך my son, let it not grieve thee; a. e."
+   },
+   {
+    "path": "4.1",
+    "stem": "Pi.",
+    "gloss": "to shatter, break.—Part. pass. מְרוֹעָע; f. מְרוֹעַעַת; pl. מְרוֹעָעִים, מְרוֹעָעִין; מְרוֹעָעוֹת. Koh. R. to III, 2 השרוי בבית המר׳ he who dwells in a threatening house; Y. Sabb. II, 5ᵇ top מְרוֹעֲרַע (fr. רִעְרֵעַ). Gen. R. s. 32 קנקנים מר׳, v. קַנְקָן I. Y.…"
+   },
+   {
+    "path": "6.1",
+    "stem": "Nithpa.",
+    "gloss": ", Hithpol. הִתְרוֹעֵעַ, Nithpol. נִתְרוֹעֵעַ to be shaken, cracked, become defective. Men. 53ᵇ (ref. to Jer. XI, 16) מקול מיליהן … נִיתְרָעֲעוּ דליותיהן וכ׳ from the sound of the words of the spies were the branches (young men) of Israel broken; Yalk. Jer. 289…"
+   },
+   {
+    "path": "7.1",
+    "stem": "Hif.",
+    "gloss": "to shake, impair. Y. Shebi. X, 39ᵈ top מֵירַע כוחן it impairs their prerogatives; ib. מוֹרַע (fr. יָרַע). Y. Pes. VII, 34ᵈ top שהוֹרַעְתָּ כחו וכ׳ whose standing thou declarest impaired in the case of an ascertained uncleanness. Ex. R. s. 8 הֵרֵעוּ לנפשם they …"
+   },
+   {
+    "path": "7.2",
+    "stem": "Hif.",
+    "gloss": "to be evil; ה׳ ל־ to displease. Tanḥ. Sh’laḥ 5; Num. R. s. 167 וה׳ לאביו and it displeased his father; a. e.—["
+   },
+   {
+    "path": "7.3",
+    "stem": "Hif.",
+    "gloss": "to join, combine, v. רָעָהPi.]"
+   },
+   {
+    "path": "8.1",
+    "stem": "Hof.",
+    "gloss": ", or הוֹרַע (fr. יָרַע) to be shaken, impaired. Kidd. 20ᵇ, sq. ה׳ כחו his prerogative is impaired, v. יָפֶה. B. Kam. 44ᵃ; a. fr."
    }
   ]
  },
@@ -32439,6 +32760,139 @@
    {
     "path": "4",
     "gloss": "(evil) spirit, demon. Pes. 112ᵃ ר׳ רעה (סכנת) the danger threatening from an evil spirit; a. fr.—ר׳ צרדה, ר׳ צרעת, ר׳ תזזית \u0026c., v. respective determinants.—Pl. רוּחוֹת, רוּחִין. Gen. R. s. 20 ר׳ הזכרים male demons; ר׳ נקבות female demons. Erub. 18ᵇ הוליד ר׳ ו…"
+   }
+  ]
+ },
+ "jastrow:רוּם": {
+  "key": "jastrow:רוּם",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "רוּם",
+  "gloss": "(b. h.) [to swing,] to be high, lifted up; to rise. Ab. Zar. 24ᵇ רוֹמִי רומי השיטה Ar. (ed. רוני) rise, rise, acacia (holy ark)!; Gen. R. s. 54 רומי השטה.",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "(b. h.) [to swing,] to be high, lifted up; to rise. Ab. Zar. 24ᵇ רוֹמִי רומי השיטה Ar. (ed. רוני) rise, rise, acacia (holy ark)!; Gen. R. s. 54 רומי השטה."
+   },
+   {
+    "path": "2.1",
+    "stem": "Hif.",
+    "gloss": "to lift up, raise. Cant. R. to III, 4 (ref. to Ps. LXXV, 8) ישפיל … ויָרִים לכרש וכ׳ he shall lower Belshazzar, and lift up Cyrus and Darius; Yalk. Ps. 812 אני הוא משפיל ומֵרִים I lower and raise; מלכות … מרים he lays low one empire and raises another empire \u0026…"
+   },
+   {
+    "path": "2.2",
+    "stem": "Hif.",
+    "gloss": "to take off, remove. Ruth R. to I, 17 (ref. to Ez. XXI, 31) הסר … והָרִים העטרה וכ׳ remove the bonnet from our teachers, and take the crown off the nations; a. e."
+   },
+   {
+    "path": "3.1",
+    "stem": "Hof.",
+    "gloss": "to be taken off, esp. to be separated as an offering, priest’s share \u0026c.; to be consecrated. Ḥall. II, 8 שלא הוּרְמָה חלתה (not הורם), v. חַלָּה. Sifré Num. 110 (ref. to Num. IV, 20) את שמוּרָם קודש וכ׳ that which is separated is to be sacred, and the remainde…"
+   },
+   {
+    "path": "4.1",
+    "stem": "Polel.",
+    "gloss": "to lift up, elevate. Tanḥ. Matt. 6; Num. R. s. 22, end (ref. to Num. XXXI, 9 and XXXII, 1) הא שהשפיל … ור׳ וכ׳ here you see that the Lord lowered the Midianites, and raised the Israelites. Ib. (ref. to I Sam. II, 7) אף … מְרוֹמֵם את זה in the anger which he br…"
+   },
+   {
+    "path": "5.1",
+    "stem": "Hithpol.",
+    "gloss": ", Nithpol. נִתְרוֹמֵם to be lifted up; to pride one’s self. Y. Ber. IX, 14ᵃ top יתגדל … ויתברך ויִתְרוֹמַם שמך וכ׳ thy Name be magnified … and blessed and lifted up (praised) for \u0026c.; Y. Taan. I, 64ᵃ top; Gen. R. s. 13. Meg. 17ᵇ כיון … מִתְרוֹמֶמֶת קרן וכ׳ whe…"
+   }
+  ]
+ },
+ "jastrow:רוּם II": {
+  "key": "jastrow:רוּם II",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "רוּם II",
+  "pos": "m.",
+  "gloss": "preced.) height. Ber. 6ᵇ (ref. to כרם זלות, Ps. XII, 9) אלו דברים … ברוֹמוֹ וכ׳ this means the things which stand on the height of the world (sublime things like prayer \u0026c.) and which men treat lightly. Meg. 14ᵃ בני אדם שעומדין ברומו וכ׳ men that stood very hi…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "preced.) height. Ber. 6ᵇ (ref. to כרם זלות, Ps. XII, 9) אלו דברים … ברוֹמוֹ וכ׳ this means the things which stand on the height of the world (sublime things like prayer \u0026c.) and which men treat lightly. Meg. 14ᵃ בני אדם שעומדין ברומו וכ׳ men that stood very hi…"
+   }
+  ]
+ },
+ "jastrow:רוּם ²": {
+  "key": "jastrow:רוּם ²",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "רוּם ²",
+  "gloss": ", to be high. Targ. Ps. LXXXIX, 14. Targ. O. Deut. VIII, 14 וִירַם ed. Berl. (oth. ed. וִירִים, וְרִים); a. fr.—2) to lift; to remove. Targ. Ps. LXXXIX, 18 תְּרִים.—Y. Bets. I, 60ᶜ bot. ורִימוּנָהּ and they lifted it. Y. Snh. X, 29ᵃ bot. כיון דרִימֵיה when he …",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": ", to be high. Targ. Ps. LXXXIX, 14. Targ. O. Deut. VIII, 14 וִירַם ed. Berl. (oth. ed. וִירִים, וְרִים); a. fr.—2) to lift; to remove. Targ. Ps. LXXXIX, 18 תְּרִים.—Y. Bets. I, 60ᶜ bot. ורִימוּנָהּ and they lifted it. Y. Snh. X, 29ᵃ bot. כיון דרִימֵיה when he …"
+   },
+   {
+    "path": "2.1",
+    "stem": "Af.",
+    "gloss": "to swing; to wave an offering; to uplift. Targ. Ex. VII, 20. Targ. O. ib. XVII, 11 מַרִים ed. Berl. (ed. Vien. יְרִים). Targ. Is. XXX, 28 (h. text להנפה). Targ. Lev. XXIII, 11 (h. text והניף); a. fr.—Part. pass. מְרִים; f. pl. מְרִימָן. Targ. Is. III, 16 (h. t…"
+   },
+   {
+    "path": "2.2",
+    "stem": "Af.",
+    "gloss": "to lift take off, remove. Lam. R. to V, 5 אֲרִימוּן ראשיה מיניה cut his head off. Y. Ab. Zar. l. c. בחייך דאת מֵרִים אילין וכ׳ by thy life! thou must remove these stones; a. e."
+   },
+   {
+    "path": "4.1",
+    "stem": "Ithpe.",
+    "gloss": "to be uplifted, rise. Targ. Gen. VII, 17; a. e."
+   },
+   {
+    "path": "4.2",
+    "stem": "Ithpe.",
+    "gloss": "to be swung, waved (as an offering). Targ. Ex. XXIX, 27 (h. text הונף); a. e."
+   },
+   {
+    "path": "4.3",
+    "stem": "Ithpe.",
+    "gloss": "to be taken off, removed. Lam. R. to V, 16 והא ניחא ליה דאיתרים רישיה וכ׳ it would have been better for him that his head be cut off rather than do this; Koh. R. to X, 5 נייח הוה דיִיתְּרִים וכ׳; Y. Sot. IX, 24ᵇ sq. נייח ליה אילו איתרים וכ׳."
+   },
+   {
+    "path": "5.1",
+    "stem": "Polel.",
+    "gloss": "to elevate, extol. Targ. Ps. XXXVII, 34. Ib. CXLV, 1. Targ. Y. I Deut. XXXII, 3; a. e.—Part. pass. מְרוֹמַם. Targ. Ps. XVIII, 47 (not מרומֵם); Targ. II Sam. XXII, 47; a. e.—V. מְרָמַם."
+   },
+   {
+    "path": "6.1",
+    "stem": "Ithpol.",
+    "gloss": "to be lifted up; to be extolled. Targ. Ps. CVII, 25. Ib. LXXV, 11. Ib. CVIII, 6; a. e.—Y. Maas. Sh. IV, end, 55ᶜ את מִתְרוֹמְמָא, v. הֲדָרָא."
+   },
+   {
+    "path": "7.1",
+    "stem": "Palp.",
+    "gloss": ", contr. רוֹרֵם, רָרֵם to elevate. Targ. Ps. IX, 14 מְרוֹרֵם Ms. (ed. מְרוֹמֵם). Ib. XXVII, 5. Targ. Prov. XVII, 19 מְרָרֵים Ms. (ed. מרים, מורים). Ib. XIV, 34."
+   },
+   {
+    "path": "8.1",
+    "stem": "Ithpalp.",
+    "gloss": ", contr. אִתְרוֹרַם, אִתְרָרַם"
+   },
+   {
+    "path": "8.2",
+    "stem": "Ithpalp.",
+    "gloss": "to be elevated, rise. Targ. Ps. LVII, 6; 12. Targ. Prov. XI, 11; a. e."
+   },
+   {
+    "path": "8.3",
+    "stem": "Ithpalp.",
+    "gloss": "to be haughty, proud. Ib. XVIII, 12.—Apocopated form: אִתְרַמַּר. Ib. VI, 30 לא למִתְרַמָרוּ וכ׳ ed. (h. text יבוזו) let them not look haughtily down on the thief \u0026c.; v. דְּמַר."
+   }
+  ]
+ },
+ "jastrow:רוּם ³": {
+  "key": "jastrow:רוּם ³",
+  "source": "Jastrow Dictionary (Sefaria)",
+  "headword": "רוּם ³",
+  "gloss": "height. Targ. Y. Deut. XI, 18 על ר׳ ידכון on the highest point of your arm (v. גּוֹבַהּ). Targ. Is. XIV, 12, sq. Targ. O. Num. XXIII, 22; a. fr.—Y. Snh. X, 29ᵃ הוה ארונא … לר׳ וכ׳ the ark carried the priests high up and cast them down to the ground. B. Bath. I…",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "height. Targ. Y. Deut. XI, 18 על ר׳ ידכון on the highest point of your arm (v. גּוֹבַהּ). Targ. Is. XIV, 12, sq. Targ. O. Num. XXIII, 22; a. fr.—Y. Snh. X, 29ᵃ הוה ארונא … לר׳ וכ׳ the ark carried the priests high up and cast them down to the ground. B. Bath. I…"
+   },
+   {
+    "path": "2",
+    "gloss": "haughtiness. Targ. Ps. LXXIII, 8.—V. רָמוּתָא."
    }
   ]
  },

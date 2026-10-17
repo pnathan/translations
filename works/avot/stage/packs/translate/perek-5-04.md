@@ -8,7 +8,7 @@ Hebrew (Torat Emet): כָּל מִי שֶׁיֵּשׁ בְּיָדוֹ שְׁל�
 
 | id | word | morphemes | lemmas | parse | root | accents |
 |---|---|---|---|---|---|---|
-| 5:19.1 | כָּל | כָּל | כֹּל `bdbs:כֹּל` | adjective: quantifier, all, every, common, masculine, singular, construct | כלל |  |
+| 5:19.1 | כָּל | כָּל | כֹּל `bdbs:כֹּל` | noun: common, masculine, singular, construct | כלל |  |
 | 5:19.2 | מִי | מִי | מִי `bdbs:מִי` | pronoun: indefinite pronoun, who, common, singular |  |  |
 | 5:19.3 | שֶׁיֵּשׁ | שֶׁ + יֵּשׁ | ש: who, which, that + יֵשׁ `bdbs:יֵשׁ` | particle: relative particle · particle: existential particle, there is |  |  |
 | 5:19.4 | בְּיָדוֹ | בְּ + יָד + וֹ | ב: in, with, by + יָד `bdbs:יָד` +  | preposition: preposition · noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | יד |  |
@@ -83,7 +83,7 @@ Hebrew (Torat Emet): כָּל מִי שֶׁיֵּשׁ בְּיָדוֹ שְׁל�
 | 5:19.73 | גֵּיהִנֹּם | גֵּיהִנֹּם | גֵּיהִנֹּם | noun: proper name, place |  |  |
 | 5:19.74 | וְיוֹרְדִין | וְ + יוֹרְדִין | ו: and + יָרַד `bdbs:יָרַד` | conjunction: conjunction · verb: qal, participle active, masculine, plural, absolute | ירד |  |
 | 5:19.75 | לִבְאֵר | לִ + בְאֵר | ל: to, for + בְּאֵר `bdbs:בְּאֵר` | preposition: preposition · noun: common, feminine, singular, construct | באר |  |
-| 5:19.76 | שַׁחַת | שַׁחַת | שַׁחַת `bdbs:שַׁחַת` | noun: common, masculine, singular, absolute | שחת |  |
+| 5:19.76 | שַׁחַת | שַׁחַת | שַׁחַת `bdbs:שַׁחַת` | noun: common, feminine, singular, absolute | שחת |  |
 | 5:19.77 | שֶׁנֶּאֱמַר | שֶׁ + נֶּאֱמַר | ש: who, which, that + אָמַר `bdbs:אָמַר` | particle: relative particle · verb: nifal, perfect (qatal), 3rd person, masculine, singular | אמר |  |
 | 5:19.78 | תהלים | תהלים | תְּהִלִּים | noun: proper name, book, Psalms |  |  |
 | 5:19.79 | נה | נה | נה `bdbs:נֹהַּ` | numeral: letter-number, fifty-five, chapter reference |  |  |
@@ -91,7 +91,7 @@ Hebrew (Torat Emet): כָּל מִי שֶׁיֵּשׁ בְּיָדוֹ שְׁל�
 | 5:19.81 | אֱלֹהִים | אֱלֹהִים | אֱלוֹהַּ `bdbs:אֱלוֹהַּ` | noun: common, masculine, plural, absolute | אלה |  |
 | 5:19.82 | תּוֹרִידֵם | תּוֹרִיד + ֵם | יָרַד `bdbs:יָרַד` +  | verb: hifil, imperfect (yiqtol), 2nd person, masculine, singular · suffix: pronominal, 3rd person, masculine, plural | ירד |  |
 | 5:19.83 | לִבְאֵר | לִ + בְאֵר | ל: to, for + בְּאֵר `bdbs:בְּאֵר` | preposition: preposition · noun: common, feminine, singular, construct | באר |  |
-| 5:19.84 | שַׁחַת | שַׁחַת | שַׁחַת `bdbs:שַׁחַת` | noun: common, masculine, singular, absolute | שחת |  |
+| 5:19.84 | שַׁחַת | שַׁחַת | שַׁחַת `bdbs:שַׁחַת` | noun: common, feminine, singular, absolute | שחת |  |
 | 5:19.85 | אַנְשֵׁי | אַנְשֵׁי | אִישׁ `bdbs:אִישׁ` | noun: common, masculine, plural, construct | איש |  |
 | 5:19.86 | דָמִים | דָמִים | דָּם `bdbs:דָּם` | noun: common, masculine, plural, absolute | דם |  |
 | 5:19.87 | וּמִרְמָה | וּ + מִרְמָה | ו: and + מִרְמָה `bdbs:מִרְמָה` | conjunction: conjunction · noun: common, feminine, singular, absolute | רמה |  |
@@ -136,7 +136,7 @@ Hebrew (Torat Emet): יְהוּדָה בֶן תֵּימָא אוֹמֵר, הֱו
 | 5:20.2 | בֶן | בֶן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
 | 5:20.3 | תֵּימָא | תֵּימָא | תֵּימָא `bdbs:תֵּימָא` | noun: proper name, person, masculine |  |  |
 | 5:20.4 | אוֹמֵר | אוֹמֵר | אָמַר `bdbs:אָמַר` | verb: qal, participle active, masculine, singular, absolute | אמר |  |
-| 5:20.5 | הֱוֵי | הֱוֵי | הָיָה `bdbs:הָיָה` | verb: qal, imperative, 2nd person, masculine, singular | היה |  |
+| 5:20.5 | הֱוֵי | הֱוֵי | הָוָה `jastrow:הָוָה` | verb: qal, imperative, 2nd person, masculine, singular | הוה |  |
 | 5:20.6 | עַז | עַז | עַז `bdbs:עַז` | adjective: common, masculine, singular, absolute | עזז |  |
 | 5:20.7 | כַּנָּמֵר | כַּ + נָּמֵר | כ: like, as + נָמֵר `bdbs:נָמֵר` | preposition: preposition · noun: common, masculine, singular, absolute | נמר |  |
 | 5:20.8 | וְקַל | וְ + קַל | ו: and + קַל `bdbs:קַל` | conjunction: conjunction · adjective: common, masculine, singular, absolute | קלל |  |
@@ -152,12 +152,12 @@ Hebrew (Torat Emet): יְהוּדָה בֶן תֵּימָא אוֹמֵר, הֱו
 | 5:20.18 | הוּא | הוּא | הוּא `bdbs:הוּא` | pronoun: personal pronoun, 3rd person, masculine, singular |  |  |
 | 5:20.19 | הָיָה | הָיָה | הָיָה `bdbs:הָיָה` | verb: qal, perfect (qatal), 3rd person, masculine, singular | היה |  |
 | 5:20.20 | אוֹמֵר | אוֹמֵר | אָמַר `bdbs:אָמַר` | verb: qal, participle active, masculine, singular, absolute | אמר |  |
-| 5:20.21 | עַז | עַז | עַז `bdbs:עַז` | adjective: common, masculine, singular, absolute | עזז |  |
+| 5:20.21 | עַז | עַז | עַז `bdbs:עַז` | adjective: common, masculine, singular, construct | עזז |  |
 | 5:20.22 | פָּנִים | פָּנִים | פָּנִים `bdbs:פָּנִים` | noun: common, masculine, plural, absolute | פנה |  |
 | 5:20.23 | לְגֵיהִנֹּם | לְ + גֵיהִנֹּם | ל: to, for + גֵּיהִנֹּם | preposition: preposition · noun: proper name, place |  |  |
-| 5:20.24 | וּבֹשֶׁת | וּ + בֹשֶׁת | ו: and + בּוֹשֶׁת `jastrow:בּוֹשֶׁת` | conjunction: conjunction · noun: common, feminine, singular, absolute | בוש |  |
+| 5:20.24 | וּבֹשֶׁת | וּ + בֹשֶׁת | ו: and + בּוֹשֶׁת `jastrow:בּוֹשֶׁת` | conjunction: conjunction · noun: common, feminine, singular, construct | בוש |  |
 | 5:20.25 | פָּנִים | פָּנִים | פָּנִים `bdbs:פָּנִים` | noun: common, masculine, plural, absolute | פנה |  |
-| 5:20.26 | לְגַן | לְ + גַן | ל: to, for + גַּן `bdbs:גַּן` | preposition: preposition · noun: common, masculine, singular, absolute | גנן |  |
+| 5:20.26 | לְגַן | לְ + גַן | ל: to, for + גַּן `bdbs:גַּן` | preposition: preposition · noun: common, masculine, singular, construct | גנן |  |
 | 5:20.27 | עֵדֶן | עֵדֶן | עֵדֶן `bdbs:עֵדֶן` | noun: proper name, place |  |  |
 | 5:20.28 | יְהִי | יְהִי | הָיָה `bdbs:הָיָה` | verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | היה |  |
 | 5:20.29 | רָצוֹן | רָצוֹן | רָצוֹן `bdbs:רָצוֹן` | noun: common, masculine, singular, absolute | רצה |  |
@@ -166,7 +166,7 @@ Hebrew (Torat Emet): יְהוּדָה בֶן תֵּימָא אוֹמֵר, הֱו
 | 5:20.32 | אֱלֹהֵינוּ | אֱלֹהֵי + נוּ | אֱלוֹהַּ `bdbs:אֱלוֹהַּ` +  | noun: common, masculine, plural, construct · suffix: pronominal, 1st person, plural | אלה |  |
 | 5:20.33 | שֶׁתִּבְנֶה | שֶׁ + תִּבְנֶה | ש: who, which, that + בָּנָה `bdbs:בָּנָה` | particle: relative particle · verb: qal, imperfect (yiqtol), 2nd person, masculine, singular | בנה |  |
 | 5:20.34 | עִירְךָ | עִיר + ךָ | עִיר `bdbs:עִיר` +  | noun: common, feminine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | עיר |  |
-| 5:20.35 | בִּמְהֵרָה | בִּ + מְהֵרָה | ב: in, with, by + מְהֵרָה `bdbs:מְהֵרָה` | preposition: preposition · adverb: adverb, quickly, feminine, singular | מהר |  |
+| 5:20.35 | בִּמְהֵרָה | בִּ + מְהֵרָה | ב: in, with, by + מְהֵרָה `bdbs:מְהֵרָה` | preposition: preposition · noun: common, feminine, singular, absolute | מהר |  |
 | 5:20.36 | בְיָמֵינוּ | בְ + יָמֵי + נוּ | ב: in, with, by + יוֹם `bdbs:יוֹם` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 1st person, plural | יום |  |
 | 5:20.37 | וְתֵן | וְ + תֵן | ו: and + נָתַן `bdbs:נָתַן` | conjunction: conjunction · verb: qal, imperative, 2nd person, masculine, singular | נתן |  |
 | 5:20.38 | חֶלְקֵנוּ | חֶלְקֵ + נוּ | חֵלֶק `bdbs:חֵלֶק` +  | noun: common, masculine, singular, construct · suffix: pronominal, 1st person, plural | חלק |  |
@@ -202,11 +202,11 @@ Hebrew (Torat Emet): הוּא הָיָה אוֹמֵר, בֶּן חָמֵשׁ ש�
 | 5:21.2 | הָיָה | הָיָה | הָיָה `bdbs:הָיָה` | verb: qal, perfect (qatal), 3rd person, masculine, singular | היה |  |
 | 5:21.3 | אוֹמֵר | אוֹמֵר | אָמַר `bdbs:אָמַר` | verb: qal, participle active, masculine, singular, absolute | אמר |  |
 | 5:21.4 | בֶּן | בֶּן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
-| 5:21.5 | חָמֵשׁ | חָמֵשׁ | חָמֵשׁ `bdbs:חָמֵשׁ` | numeral: cardinal, masculine, five, construct | חמש |  |
+| 5:21.5 | חָמֵשׁ | חָמֵשׁ | חָמֵשׁ `bdbs:חָמֵשׁ` | numeral: cardinal, feminine, five, absolute | חמש |  |
 | 5:21.6 | שָׁנִים | שָׁנִים | שָׁנָה `bdbs:שָׁנָה` | noun: common, feminine, plural, absolute | שנה |  |
 | 5:21.7 | לַמִּקְרָא | לַ + מִּקְרָא | ל: to, for + מִקְרָא `bdbs:מִקְרָא` | preposition: preposition · noun: common, masculine, singular, absolute | קרא |  |
 | 5:21.8 | בֶּן | בֶּן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
-| 5:21.9 | עֶשֶׂר | עֶשֶׂר | עֶשֶׂר `jastrow:עָשַׂר` | numeral: cardinal, masculine, ten, construct | עשר |  |
+| 5:21.9 | עֶשֶׂר | עֶשֶׂר | עֶשֶׂר `jastrow:עָשַׂר` | numeral: cardinal, feminine, ten, absolute | עשר |  |
 | 5:21.10 | לַמִּשְׁנָה | לַ + מִּשְׁנָה | ל: to, for + מִשְׁנָה `jastrow:מִשְׁנָה` | preposition: preposition · noun: common, feminine, singular, absolute | שנה |  |
 | 5:21.11 | בֶּן | בֶּן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
 | 5:21.12 | שְׁלשׁ | שְׁלשׁ | שָׁלֹשׁ | numeral: cardinal, feminine, three, construct | שלש |  |
@@ -217,7 +217,7 @@ Hebrew (Torat Emet): הוּא הָיָה אוֹמֵר, בֶּן חָמֵשׁ ש�
 | 5:21.17 | עֶשְׂרֵה | עֶשְׂרֵה | עֶשְׂרֵה `jastrow:עֲשָׂרָה` | numeral: cardinal, feminine, ten, absolute | עשר |  |
 | 5:21.18 | לַתַּלְמוּד | לַ + תַּלְמוּד | ל: to, for + תַּלְמוּד `jastrow:תַּלְמוּד` | preposition: preposition · noun: common, masculine, singular, absolute | למד |  |
 | 5:21.19 | בֶּן | בֶּן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
-| 5:21.20 | שְׁמֹנֶה | שְׁמֹנֶה | שְׁמוֹנֶה `jastrow:שְׁמוֹנֶה` | numeral: cardinal, feminine, eight, construct | שמנ |  |
+| 5:21.20 | שְׁמֹנֶה | שְׁמֹנֶה | שְׁמוֹנֶה `jastrow:שְׁמוֹנֶה` | numeral: cardinal, feminine, eight, construct | שמן |  |
 | 5:21.21 | עֶשְׂרֵה | עֶשְׂרֵה | עֶשְׂרֵה `jastrow:עֲשָׂרָה` | numeral: cardinal, feminine, ten, absolute | עשר |  |
 | 5:21.22 | לַחֻפָּה | לַ + חֻפָּה | ל: to, for + חֻפָּה `bdbs:חֻפָּה` | preposition: preposition · noun: common, feminine, singular, absolute | חפה |  |
 | 5:21.23 | בֶּן | בֶּן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
@@ -239,11 +239,11 @@ Hebrew (Torat Emet): הוּא הָיָה אוֹמֵר, בֶּן חָמֵשׁ ש�
 | 5:21.39 | שִׁבְעִים | שִׁבְעִים | שִׁבְעִים `bdbs:שִׁבְעִים` | numeral: cardinal, masculine, seventy, absolute | שבע |  |
 | 5:21.40 | לַשֵּׂיבָה | לַ + שֵּׂיבָה | ל: to, for + שֵׂיבָה `bdbs:שֵׂיבָה` | preposition: preposition · noun: common, feminine, singular, absolute | שיב |  |
 | 5:21.41 | בֶּן | בֶּן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
-| 5:21.42 | שְׁמֹנִים | שְׁמֹנִים | שְׁמֹנִים `bdbs:שְׁמֹנִים` | numeral: cardinal, masculine, eighty, absolute | שמנ |  |
+| 5:21.42 | שְׁמֹנִים | שְׁמֹנִים | שְׁמֹנִים `bdbs:שְׁמֹנִים` | numeral: cardinal, masculine, eighty, absolute | שמן |  |
 | 5:21.43 | לַגְּבוּרָה | לַ + גְּבוּרָה | ל: to, for + גְּבוּרָה `bdbs:גְּבוּרָה` | preposition: preposition · noun: common, feminine, singular, absolute | גבר |  |
 | 5:21.44 | בֶּן | בֶּן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
 | 5:21.45 | תִּשְׁעִים | תִּשְׁעִים | תִּשְׁעִים `bdbs:תִּשְׁעִים` | numeral: cardinal, masculine, ninety, absolute | תשע |  |
-| 5:21.46 | לָשׁוּחַ | לָ + שׁוּחַ | ל: to, for + שָׁחָה `jastrow:שָׁחָה` | preposition: preposition · verb: qal, infinitive construct | שוח |  |
+| 5:21.46 | לָשׁוּחַ | לָ + שׁוּחַ | ל: to, for + שָׁח | preposition: preposition · verb: qal, infinitive construct | שוח |  |
 | 5:21.47 | בֶּן | בֶּן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
 | 5:21.48 | מֵאָה | מֵאָה | מֵאָה `bdbs:מֵאָה` | numeral: cardinal, feminine, hundred, absolute | מאה |  |
 | 5:21.49 | כְּאִלּוּ | כְּ + אִלּוּ | כ: like, as + אִלּוּ | preposition: preposition · conjunction: particle of comparison, as if |  |  |
@@ -292,16 +292,16 @@ Hebrew (Torat Emet): בֶּן בַּג בַּג אוֹמֵר, הֲפֹךְ בּ�
 | 5:22.6 | בָּהּ | בָּ + הּ | ב: in, with, by +  | preposition: preposition · suffix: pronominal, 3rd person, feminine, singular |  |  |
 | 5:22.7 | וַהֲפֹךְ | וַ + הֲפֹךְ | ו: and + הָפַךְ `bdbs:הָפַךְ` | conjunction: conjunction · verb: qal, imperative, 2nd person, masculine, singular | הפך |  |
 | 5:22.8 | בָּהּ | בָּ + הּ | ב: in, with, by +  | preposition: preposition · suffix: pronominal, 3rd person, feminine, singular |  |  |
-| 5:22.9 | דְּכֹלָּא | דְּ + כֹלָּא | ד: that, which + כֹּל `bdbs:כֹּל` | particle: relative particle · pronoun: quantifier, all, Aramaic, absolute | כלל |  |
+| 5:22.9 | דְּכֹלָּא | דְּ + כֹלָּא | ד: that, which + כֹּל `bdbs:כֹּל` | particle: relative particle · noun: common, masculine, singular, emphatic | כלל |  |
 | 5:22.10 | בָהּ | בָ + הּ | ב: in, with, by +  | preposition: preposition · suffix: pronominal, 3rd person, feminine, singular |  |  |
 | 5:22.11 | וּבָהּ | וּ + בָ + הּ | ו: and + ב: in, with, by +  | conjunction: conjunction · preposition: preposition · suffix: pronominal, 3rd person, feminine, singular |  |  |
 | 5:22.12 | תֶּחֱזֵי | תֶּחֱזֵי | חָזָא `jastrow:חֲזָא` | verb: qal, imperfect (yiqtol), 2nd person, masculine, singular | חזי |  |
 | 5:22.13 | וְסִיב | וְ + סִיב | ו: and + סָב `jastrow:סָב` | conjunction: conjunction · verb: qal, imperative, 2nd person, masculine, singular | סיב |  |
 | 5:22.14 | וּבְלֵה | וּ + בְלֵה | ו: and + בָּלָה `jastrow:בָּלָה` | conjunction: conjunction · verb: qal, imperative, 2nd person, masculine, singular | בלה |  |
 | 5:22.15 | בָהּ | בָ + הּ | ב: in, with, by +  | preposition: preposition · suffix: pronominal, 3rd person, feminine, singular |  |  |
-| 5:22.16 | וּמִנַּהּ | וּ + מִנַּ + הּ | ו: and + מִן `bdbs:מִן` +  | conjunction: conjunction · preposition: preposition, from · suffix: pronominal, 3rd person, feminine, singular | מנה |  |
+| 5:22.16 | וּמִנַּהּ | וּ + מִנַּ + הּ | ו: and + מִן `bdbs:מִן` +  | conjunction: conjunction · preposition: preposition, from · suffix: pronominal, 3rd person, feminine, singular |  |  |
 | 5:22.17 | לֹא | לֹא | לֹא `bdbs:לֹא` | particle: negative particle, not |  |  |
-| 5:22.18 | תָזוּעַ | תָזוּעַ | זָעַ `jastrow:זָע` | verb: qal, imperfect (yiqtol), 2nd person, masculine, singular | זוע |  |
+| 5:22.18 | תָזוּעַ | תָזוּעַ | זָע `jastrow:זָע` | verb: qal, imperfect (yiqtol), 2nd person, masculine, singular | זוע |  |
 | 5:22.19 | שֶׁאֵין | שֶׁ + אֵין | ש: who, which, that + אֵין `bdbs:אַיִן` | particle: relative particle · particle: negative existential particle, there is not |  |  |
 | 5:22.20 | לְךָ | לְ + ךָ | ל: to, for +  | preposition: preposition · suffix: pronominal, 2nd person, masculine, singular |  |  |
 | 5:22.21 | מִדָּה | מִדָּה | מִדָּה `bdbs:מִדָּה` | noun: common, feminine, singular, absolute | מדד |  |
@@ -335,9 +335,9 @@ Hebrew (Torat Emet): בֶּן הֵא הֵא אוֹמֵר, לְפוּם צַעֲ�
 | 5:23.2 | הֵא | הֵא | הֵא `bdbs:הֵא` | noun: proper name, person, masculine |  |  |
 | 5:23.3 | הֵא | הֵא | הֵא `bdbs:הֵא` | noun: proper name, person, masculine |  |  |
 | 5:23.4 | אוֹמֵר | אוֹמֵר | אָמַר `bdbs:אָמַר` | verb: qal, participle active, masculine, singular, absolute | אמר |  |
-| 5:23.5 | לְפוּם | לְ + פוּם | ל: to, for + פּוּם `jastrow:פּוּם` | preposition: preposition · noun: common, masculine, singular, absolute | פום |  |
-| 5:23.6 | צַעֲרָא | צַעֲרָא | צַעֲרָא | noun: common, masculine, singular, absolute | צער |  |
-| 5:23.7 | אַגְרָא | אַגְרָא | אַגְרָא `jastrow:אַגְרָא II` | noun: common, masculine, singular, absolute | אגר |  |
+| 5:23.5 | לְפוּם | לְ + פוּם | ל: to, for + פּוּם `jastrow:פּוּם` | preposition: preposition · noun: common, masculine, singular, construct | פום |  |
+| 5:23.6 | צַעֲרָא | צַעֲרָא | צַעַר `jastrow:צַעַר` | noun: common, masculine, singular, emphatic | צער |  |
+| 5:23.7 | אַגְרָא | אַגְרָא | אֲגַר `jastrow:אֲגַר I` | noun: common, masculine, singular, emphatic | אגר |  |
 
 
 ### Commentary anchored to this verse
@@ -997,6 +997,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` deities, powers. Y. Ber. IX, beg. 12ᵈ. Lev. R. s. 4.
 - `3` biblical verses containing the word El, Elohim &c. Y. R. Hash. IV, 59ᶜ.
 
+### `jastrow:אֲגַר I` אֲגַר I: ; Pa. אַגַּר to heap up. Targ. Y. Deut. I, 16 דמְאַגַּר וכ׳ (ed. Vien. מֶאֱגַר—) who heaps up litigations, v. foreg. [Targ. Ps. CIV, 7 למיגר Ms., v. נְגַד.]
+- `1` ; Pa. אַגַּר to heap up. Targ. Y. Deut. I, 16 דמְאַגַּר וכ׳ (ed. Vien. מֶאֱגַר—) who heaps up litigations, v. foreg. [Targ. Ps. CIV, 7 למיגר Ms., v. נְגַד.]
+
+### `jastrow:אֲגַר II` אֲגַר II: (אָגַר) (√אג, akin to חכר; v. foreg.) prop. to tie, whence to hire, employ, rent. Targ. Gen. XXX, 16; a. fr.—Koh. R. to IV, 6; Lev. R. s. 3 beg. (prov.) גינא וכ׳ דא׳ he who rents one garden will eat birds; him who rents gardens, the birds will eat. Git. 73ᵃ אג…
+- `1` (אָגַר) (√אג, akin to חכר; v. foreg.) prop. to tie, whence to hire, employ, rent. Targ. Gen. XXX, 16; a. fr.—Koh. R. to IV, 6; Lev. R. s. 3 beg. (prov.) גינא וכ׳ דא׳ he who rents one garden will eat birds; him who rents gardens, the birds will eat. Git. 73ᵃ אג…
+- `2.1` Af. same. Targ. Y. Deut. XXIII, 5 (4).—B. Mets. 77ᵃ (interch. with Pe.) (אגירי) אוגיר אגורי engages laborers.
+- `2.2` Af. to rent out, lease. Erub. 63ᵇ אוֹגַר לן רשותך lease to us thy property. Y. Dem. VI, 25ᵇ top. Y. Taan. I, 64ᵇ bot. אוגרית חמרי I hired my ass out.
+- `4.1` Ithpe. (contr. of איתאגר) to be hired, to work as a laborer. Targ. O. Deut. XXIII, 25; a. e.—Yoma 20ᵇ (prov.) אי תגרת וכ׳ (combine into one w.) when thou hast hired thyself out to one, comb his wool (shrink from no labor).
+
+### `jastrow:אֲגַר III` אֲגַר III (m.): (foreg.) rent, wages; reward, profit. Targ. Gen. XV, 1; a. fr.—B. Mets. 63ᵇ א׳ נטר ליה compensation for waiting (giving time for delivery), i.e. advancing the money to the seller. Ib. 68ᵇ פלגא בא׳ כ׳ half profit or loss. Ib. 69ᵇ א׳ ופגרא payment for carrying f…
+- `1` (foreg.) rent, wages; reward, profit. Targ. Gen. XV, 1; a. fr.—B. Mets. 63ᵇ א׳ נטר ליה compensation for waiting (giving time for delivery), i.e. advancing the money to the seller. Ib. 68ᵇ פלגא בא׳ כ׳ half profit or loss. Ib. 69ᵇ א׳ ופגרא payment for carrying f…
+
 ### `jastrow:אֲכַל` אֲכַל: same.—Inf. מֵיכַל, מֵיכוּל. Targ. Gen. II, 16; a. fr.—Y. Ter. VIII, 46ᵃ כד אתון יֵיכלון when they came and were about eating; ib. (more corr.) אתון מיכל; a. fr.
 - `2` same.—Inf. מֵיכַל, מֵיכוּל. Targ. Gen. II, 16; a. fr.—Y. Ter. VIII, 46ᵃ כד אתון יֵיכלון when they came and were about eating; ib. (more corr.) אתון מיכל; a. fr.
 - `3` with קרצי prop. to eat (the bread of) destruction, eat the informer’s bread, hence to inform against. Dan. III, 8; VI, 25.—Targ. Ps. XV, 3; a. fr.—Gitt. 56ᵃ איכול בהו קו׳; Lam. R. to IV, 2 איכול קרצהון I will inform against them.
@@ -1037,9 +1049,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1` c. pl. (b. h. , q. v.)
 - `2` these, the following. B. Mets. II, 1; a. v. fr.—א׳ וא׳ both. Zeb. V, 2; a. v. fr. *[
 - `3` (interrog.) which? Pesik. R. s. 29 (—30, ed. Friedm. p. 138ᵇ) לאילו נאמין in which of them shall we trust? Pesik. Naḥămu p. 127ᵇ sq.; Yalk. Is. 307 לאי זה, לאיזו.]
-
-### `jastrow:אַגְרָא II` אַגְרָא II (pr. n. m.): Agra, father-in-law of R. Abba; father of R. Y’hudah. Ḥull. 104ᵇ; 134ᵃ. Nidd. 53ᵃ
-- `1` Agra, father-in-law of R. Abba; father of R. Y’hudah. Ḥull. 104ᵇ; 134ᵃ. Nidd. 53ᵃ
 
 ### `jastrow:אַחַר` אַחַר: v. foreg.), pl. constr. אַחֲרֵי after, behind. Gen. R. s. 44 wherever the Bible uses the preposition aḥaré סמוך, it means in connection with, אחר מופלג while aḥar means without connection (later on). Yoma 6ᵃ אחר א׳ after ‘after’, i.e. some time after the act, …
 - `1` v. foreg.), pl. constr. אַחֲרֵי after, behind. Gen. R. s. 44 wherever the Bible uses the preposition aḥaré סמוך, it means in connection with, אחר מופלג while aḥar means without connection (later on). Yoma 6ᵃ אחר א׳ after ‘after’, i.e. some time after the act, …
@@ -1188,6 +1197,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` (cmp. הָ־) Oh! Targ. Jer. IV, 30 (not והא). —Ned. II, 2 (15ᵇ) הא קרבן שאוכל לך (Mish. a. Y. ed. קרבן) Oh, the sacrifice, that I will (not) eat this which belongs to thee!. Ib. 16ᵃ לא שני ליה קרבן … הקרבן draws no distinction between korban and ha-korban (v. ma…
 - `3` behold(h. . Dan. III, 25.—Targ. Gen. III, 22. Ib. XX, 15; a. fr.—Dan. II, 43 הֵא־כְדִי as if.—Targ. Ps. CXXIII, 2 הָא כמא as, … הא כדין Ms. (ed. הֵכְדֵין) so
 - `4` introducing a question, is it that? Targ. Job XV, 7; a. e.—Ib. XXXVIII, 19 הא דין Ms. (ed. אֵידֵין) where?
+
+### `jastrow:הָוָה` הָוָה: , v. הֲוִי
+- `1` , v. הֲוִי
 
 ### `jastrow:הָפַךְ` הָפַךְ: (b. h.)
 - `1` (b. h.)
@@ -1489,6 +1501,13 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `jastrow:צְבִי ²` צְבִי ²: desire, v. צְבוּ.
 - `1` desire, v. צְבוּ.
 
+### `jastrow:צַעַר` צַעַר (m.): (preced.) pain, grief, trouble. B. Kam. VIII, 1, v. נֵזֶק. Ib. 84ᵃ; 26ᵇ (ref. to Ex. XXI, 25) ליתן צ׳ במקום נזק this intimates that you must decree indemnity for pain even where injury has been inflicted (in addition to damages for mayhem). Snh. 19ᵇ, a. e. צ׳ …
+- `1` (preced.) pain, grief, trouble. B. Kam. VIII, 1, v. נֵזֶק. Ib. 84ᵃ; 26ᵇ (ref. to Ex. XXI, 25) ליתן צ׳ במקום נזק this intimates that you must decree indemnity for pain even where injury has been inflicted (in addition to damages for mayhem). Snh. 19ᵇ, a. e. צ׳ …
+
+### `jastrow:צַעַר ²` צַעַר ²: (v. צְעֵר) degradation, disregard, shame. Targ. Prov. III, 35 (h. text קלון); a. fr.—Ib. XIV, 3 זקתא דצ׳ rod of humiliation (h. text חטר גאוה).—Pl. צַעֲרֵי. Ib. VI 33.
+- `1` (v. צְעֵר) degradation, disregard, shame. Targ. Prov. III, 35 (h. text קלון); a. fr.—Ib. XIV, 3 זקתא דצ׳ rod of humiliation (h. text חטר גאוה).—Pl. צַעֲרֵי. Ib. VI 33.
+- `2` pain, grief, privation. Targ. Gen. III, 16. Targ. I Chr. IV, 9; a. fr.—Gen. R. s. 82 (transl. בן אוני, Gen. XXXV, 18) בר צַעֲרִי child of my pain. Ber. 28ᵃ מאי משמע דהאי נוגי לישנא דצ׳ הוא what evidence is there that nugé (Zeph. III, 18) has the meaning of gri…
+
 ### `jastrow:קַל I` קַל I: to be light, v. קָלַל.
 - `1` to be light, v. קָלַל.
 
@@ -1550,9 +1569,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `jastrow:שַׁחַת II` שַׁחַת II (f.): (preced.) low growth, corn in its earliest stage used instead of grass. Peah II, 1 הקוצר לש׳ he who cuts young corn to be used as fodder; Tosef. ib. I, 8. Men. X, 8 (71ᵃ) קוצר לש׳ ומאכיל לבהמה (Bab. ed. מאכל, corr. acc.) one may cut barley as shaḥath and give …
 - `1` (preced.) low growth, corn in its earliest stage used instead of grass. Peah II, 1 הקוצר לש׳ he who cuts young corn to be used as fodder; Tosef. ib. I, 8. Men. X, 8 (71ᵃ) קוצר לש׳ ומאכיל לבהמה (Bab. ed. מאכל, corr. acc.) one may cut barley as shaḥath and give …
-
-### `jastrow:שָׁחָה` שָׁחָה: , v. שחי
-- `1` , v. שחי
 
 ### `jastrow:שָׁמַיִם` שָׁמַיִם (m.): du. m. du. (b. h.)
 - `1` du. m. du. (b. h.)

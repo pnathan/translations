@@ -30,8 +30,8 @@ Hebrew (Torat Emet): רַבִּי אֶלְעָזָר אִישׁ בַּרְתּו
 | 3:7.20 | כִּי | כִּי | כִּי | conjunction: conjunction |  |  |
 | 3:7.21 | מִמְּךָ | מִמְּ + ךָ | מִן `bdbs:מִן` +  | preposition: preposition, from · suffix: pronominal, 2nd person, masculine, singular |  |  |
 | 3:7.22 | הַכֹּל | הַ + כֹּל | ה: the + כֹּל `bdbs:כֹּל` | article: definite article · pronoun: indefinite pronoun, all | כלל |  |
-| 3:7.23 | וּמִיָּדְךָ | וּ + מִ + יָּדְ + ךָ | ו: and + מ: from, than + יָד `bdbs:יָד` +  | conjunction: conjunction · preposition: preposition · noun: common, feminine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | ידה |  |
-| 3:7.24 | נָתַנּוּ | נָתַנּוּ | נָתַן `bdbs:נָתַן` | verb: qal, perfect (qatal), 3rd person, masculine, plural | נתן |  |
+| 3:7.23 | וּמִיָּדְךָ | וּ + מִ + יָּדְ + ךָ | ו: and + מ: from, than + יָד `bdbs:יָד` +  | conjunction: conjunction · preposition: preposition · noun: common, feminine, singular, construct · suffix: pronominal, 2nd person, masculine, singular |  |  |
+| 3:7.24 | נָתַנּוּ | נָתַנּוּ | נָתַן `bdbs:נָתַן` | verb: qal, perfect (qatal), 1st person, common, plural | נתן |  |
 | 3:7.25 | לָךְ | לָ + ךְ | ל: to, for +  | preposition: preposition · suffix: pronominal, 2nd person, masculine, singular |  |  |
 | 3:7.26 | רַבִּי | רַבִּ + י | רַב `bdbs:רַב` +  | noun: common, masculine, singular, construct · suffix: pronominal, 1st person, singular | רבב |  |
 | 3:7.27 | שִׁמְעוֹן | שִׁמְעוֹן | שִׁמְעוֹן `bdbs:שִׁמְעוֹן` | noun: proper name, person, masculine |  |  |
@@ -48,7 +48,7 @@ Hebrew (Torat Emet): רַבִּי אֶלְעָזָר אִישׁ בַּרְתּו
 | 3:7.38 | זֶה | זֶה | זֶה `bdbs:זֶה` | pronoun: demonstrative pronoun, masculine, singular |  |  |
 | 3:7.39 | וּמַה | וּ + מַה | ו: and + מַה `bdbs:מָה` | conjunction: conjunction · pronoun: interrogative pronoun, what |  |  |
 | 3:7.40 | נָּאֶה | נָּאֶה | נָאֶה `jastrow:נָאֶה` | adjective: adjective, masculine, singular, absolute | נאה |  |
-| 3:7.41 | נִיר | נִיר | נֵר `bdbs:נֵר` | noun: common, masculine, singular, absolute | נור |  |
+| 3:7.41 | נִיר | נִיר | נִיר | noun: common, masculine, singular, absolute | ניר |  |
 | 3:7.42 | זֶה | זֶה | זֶה `bdbs:זֶה` | pronoun: demonstrative pronoun, masculine, singular |  |  |
 | 3:7.43 | מַעֲלֶה | מַעֲלֶה | עָלָה `bdbs:עָלָה` | verb: hifil, participle active, masculine, singular, absolute | עלה |  |
 | 3:7.44 | עָלָיו | עָלָ + יו | עַל `bdbs:עַל` +  | preposition: preposition · suffix: pronominal, 3rd person, masculine, singular |  |  |
@@ -174,7 +174,7 @@ Hebrew (Torat Emet): רַבִּי דּוֹסְתַּאי בְּרַבִּי יַ
 |---|---|---|---|---|---|---|
 | 3:8.1 | רַבִּי | רַבִּ + י | רַב `bdbs:רַב` +  | noun: common, masculine, singular, construct · suffix: pronominal, 1st person, singular | רבב |  |
 | 3:8.2 | דּוֹסְתַּאי | דּוֹסְתַּאי | דּוֹסְתַּאי `jastrow:דּוֹסְתַּאי` | noun: proper name, person, masculine |  |  |
-| 3:8.3 | בְּרַבִּי | בְּ + רַבִּ + י | בֵּן `bdbs:בֵּן` + רַב `bdbs:רַב` +  | noun: common, masculine, singular, construct · noun: common, masculine, singular, construct · suffix: pronominal, 1st person, singular | בנה |  |
+| 3:8.3 | בְּרַבִּי | בְּ + רַבִּ + י | בַּר `bdbs:בַּר` + רַב `bdbs:רַב` +  | noun: common, masculine, singular, construct (Aramaic בַּר 'son', contracted before רַבִּי) · noun: common, masculine, singular, construct · suffix: pronominal, 1st person, singular |  |  |
 | 3:8.4 | יַנַּאי | יַנַּאי | יַנַּאי `jastrow:יַנַּאי` | noun: proper name, person, masculine |  |  |
 | 3:8.5 | מִשּׁוּם | מִ + שּׁוּם | מ: from, than + שׁוּם `jastrow:שׁוּם I` | preposition: preposition · noun: common, masculine, singular, absolute | שום |  |
 | 3:8.6 | רַבִּי | רַבִּ + י | רַב `bdbs:רַב` +  | noun: common, masculine, singular, construct · suffix: pronominal, 1st person, singular | רבב |  |
@@ -217,12 +217,12 @@ Hebrew (Torat Emet): רַבִּי דּוֹסְתַּאי בְּרַבִּי יַ
 | 3:8.43 | שם | שם | שָׁם `bdbs:שֵׁם` | adverb: adverb, there (citation: ibid.) |  |  |
 | 3:8.44 | וּפֶן | וּ + פֶן | ו: and + פֶּן | conjunction: conjunction · conjunction: conjunction, lest |  |  |
 | 3:8.45 | יָסוּרוּ | יָסוּרוּ | סָר `jastrow:סָר` | verb: qal, imperfect (yiqtol), 3rd person, masculine, plural | סור |  |
-| 3:8.46 | מִלְּבָבְךָ | מִ + לְּבָבְ + ךָ | מ: from, than + לֵב `bdbs:לֵב` +  | preposition: preposition · noun: common, masculine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | לבב |  |
+| 3:8.46 | מִלְּבָבְךָ | מִ + לְּבָבְ + ךָ | מ: from, than + לֵבָב `bdbs:לֵבָב` +  | preposition: preposition · noun: common, masculine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | לבב |  |
 | 3:8.47 | כֹּל | כֹּל | כֹּל `bdbs:כֹּל` | adjective: quantifier, all, construct | כלל |  |
 | 3:8.48 | יְמֵי | יְמֵי | יוֹם `bdbs:יוֹם` | noun: common, masculine, plural, construct | יום |  |
 | 3:8.49 | חַיֶּיךָ | חַיֶּי + ךָ | חַיִּים `jastrow:חַיִּים` +  | noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | חיה |  |
 | 3:8.50 | הָא | הָא | הָא `bdbs:הֵא` | particle: deictic particle, this implies |  |  |
-| 3:8.51 | אֵינוֹ | אֵינוֹ | אֵין `bdbs:אַיִן` | particle: negative existential particle, is not |  |  |
+| 3:8.51 | אֵינוֹ | אֵינ + וֹ | אֵין `bdbs:אַיִן` +  | particle: negative existential particle, is not · suffix: pronominal, 3rd person, masculine, singular |  |  |
 | 3:8.52 | מִתְחַיֵּב | מִתְחַיֵּב | חָיַב `jastrow:חַיָּב` | verb: hitpael, participle active, masculine, singular, absolute | חיב |  |
 | 3:8.53 | בְּנַפְשׁוֹ | בְּ + נַפְשׁ + וֹ | ב: in, with, by + נֶפֶשׁ `bdbs:נֶפֶשׁ` +  | preposition: preposition · noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | נפש |  |
 | 3:8.54 | עַד | עַד | עַד | conjunction: conjunction, until |  |  |
@@ -517,22 +517,22 @@ Hebrew (Torat Emet): הוּא הָיָה אוֹמֵר, כָּל שֶׁרוּחַ
 | 3:10.5 | שֶׁרוּחַ | שֶׁ + רוּחַ | ש: who, which, that + רוּחַ `bdbs:רוּחַ` | particle: relative particle · noun: common, feminine, singular, construct | רוח |  |
 | 3:10.6 | הַבְּרִיּוֹת | הַ + בְּרִיּוֹת | ה: the + בְּרִיָּה | article: definite article · noun: common, feminine, plural, absolute | ברא |  |
 | 3:10.7 | נוֹחָה | נוֹחָה | נָח | verb: qal, participle active, feminine, singular, absolute | נוח |  |
-| 3:10.8 | הֵימֶנּוּ | הֵי + מֶ + נּוּ | הֵי `jastrow:הֵי I` + מִן `bdbs:מִן` +  | particle: fixed element of the form הֵימֶנּוּ · preposition: preposition, from · suffix: pronominal, 3rd person, masculine, singular |  |  |
+| 3:10.8 | הֵימֶנּוּ | הֵימֶ + נּוּ | מִן `bdbs:מִן` +  | preposition: preposition, from (Mishnaic form הֵימֶן- before suffixes) · suffix: pronominal, 3rd person, masculine, singular |  |  |
 | 3:10.9 | רוּחַ | רוּחַ | רוּחַ `bdbs:רוּחַ` | noun: common, feminine, singular, construct | רוח |  |
 | 3:10.10 | הַמָּקוֹם | הַ + מָּקוֹם | ה: the + מָקוֹם `bdbs:מָקוֹם` | article: definite article · noun: common, masculine, singular, absolute | קום |  |
 | 3:10.11 | נוֹחָה | נוֹחָה | נָח | verb: qal, participle active, feminine, singular, absolute | נוח |  |
-| 3:10.12 | הֵימֶנּוּ | הֵי + מֶ + נּוּ | הֵי `jastrow:הֵי I` + מִן `bdbs:מִן` +  | particle: fixed element of the form הֵימֶנּוּ · preposition: preposition, from · suffix: pronominal, 3rd person, masculine, singular |  |  |
+| 3:10.12 | הֵימֶנּוּ | הֵימֶ + נּוּ | מִן `bdbs:מִן` +  | preposition: preposition, from (Mishnaic form הֵימֶן- before suffixes) · suffix: pronominal, 3rd person, masculine, singular |  |  |
 | 3:10.13 | וְכָל | וְ + כָל | ו: and + כֹּל `bdbs:כֹּל` | conjunction: conjunction · adjective: quantifier, all, construct | כלל |  |
 | 3:10.14 | שֶׁאֵין | שֶׁ + אֵין | ש: who, which, that + אֵין `bdbs:אַיִן` | particle: relative particle · particle: negative existential particle |  |  |
 | 3:10.15 | רוּחַ | רוּחַ | רוּחַ `bdbs:רוּחַ` | noun: common, feminine, singular, construct | רוח |  |
 | 3:10.16 | הַבְּרִיּוֹת | הַ + בְּרִיּוֹת | ה: the + בְּרִיָּה | article: definite article · noun: common, feminine, plural, absolute | ברא |  |
 | 3:10.17 | נוֹחָה | נוֹחָה | נָח | verb: qal, participle active, feminine, singular, absolute | נוח |  |
-| 3:10.18 | הֵימֶנּוּ | הֵי + מֶ + נּוּ | הֵי `jastrow:הֵי I` + מִן `bdbs:מִן` +  | particle: fixed element of the form הֵימֶנּוּ · preposition: preposition, from · suffix: pronominal, 3rd person, masculine, singular |  |  |
+| 3:10.18 | הֵימֶנּוּ | הֵימֶ + נּוּ | מִן `bdbs:מִן` +  | preposition: preposition, from (Mishnaic form הֵימֶן- before suffixes) · suffix: pronominal, 3rd person, masculine, singular |  |  |
 | 3:10.19 | אֵין | אֵין | אֵין `bdbs:אַיִן` | particle: negative existential particle |  |  |
 | 3:10.20 | רוּחַ | רוּחַ | רוּחַ `bdbs:רוּחַ` | noun: common, feminine, singular, construct | רוח |  |
 | 3:10.21 | הַמָּקוֹם | הַ + מָּקוֹם | ה: the + מָקוֹם `bdbs:מָקוֹם` | article: definite article · noun: common, masculine, singular, absolute | קום |  |
 | 3:10.22 | נוֹחָה | נוֹחָה | נָח | verb: qal, participle active, feminine, singular, absolute | נוח |  |
-| 3:10.23 | הֵימֶנּוּ | הֵי + מֶ + נּוּ | הֵי `jastrow:הֵי I` + מִן `bdbs:מִן` +  | particle: fixed element of the form הֵימֶנּוּ · preposition: preposition, from · suffix: pronominal, 3rd person, masculine, singular |  |  |
+| 3:10.23 | הֵימֶנּוּ | הֵימֶ + נּוּ | מִן `bdbs:מִן` +  | preposition: preposition, from (Mishnaic form הֵימֶן- before suffixes) · suffix: pronominal, 3rd person, masculine, singular |  |  |
 | 3:10.24 | רַבִּי | רַבִּ + י | רַב `bdbs:רַב` +  | noun: common, masculine, singular, construct · suffix: pronominal, 1st person, singular | רבב |  |
 | 3:10.25 | דוֹסָא | דוֹסָא | דּוֹסָא `jastrow:דּוֹסָא` | noun: proper name, person, masculine |  |  |
 | 3:10.26 | בֶן | בֶן | בֵּן `bdbs:בֵּן` | noun: common, masculine, singular, construct | בנה |  |
@@ -712,7 +712,7 @@ Hebrew (Torat Emet): רַבִּי אֶלְעָזָר הַמּוֹדָעִי או
 | 3:11.28 | עַל | עַל | עַל `bdbs:עַל` | preposition: preposition |  |  |
 | 3:11.29 | פִּי | פִּי | פֶּה `bdbs:פֶּה` | noun: common, masculine, singular, construct | פה |  |
 | 3:11.30 | שֶׁיֵּשׁ | שֶׁ + יֵּשׁ | ש: who, which, that + יֵשׁ `bdbs:יֵשׁ` | particle: relative particle · particle: existential particle, there is |  |  |
-| 3:11.31 | בְּיָדוֹ | בְּ + יָד + וֹ | ב: in, with, by + יָד `bdbs:יָד` +  | preposition: preposition · noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | ידה |  |
+| 3:11.31 | בְּיָדוֹ | בְּ + יָד + וֹ | ב: in, with, by + יָד `bdbs:יָד` +  | preposition: preposition · noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular |  |  |
 | 3:11.32 | תוֹרָה | תוֹרָה | תּוֹרָה `bdbs:תּוֹרָה` | noun: common, feminine, singular, absolute | ירה |  |
 | 3:11.33 | וּמַעֲשִׂים | וּ + מַעֲשִׂים | ו: and + מַעֲשֶׂה `bdbs:מַעֲשֶׂה` | conjunction: conjunction · noun: common, masculine, plural, absolute | עשה |  |
 | 3:11.34 | טוֹבִים | טוֹבִים | טוֹב `bdbs:טוֹב` | adjective: adjective, masculine, plural, absolute | טוב |  |
@@ -1047,6 +1047,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1` Bajith = "house"
 - `2` a place in Palestine
 
+### `bdbs:בַּר` בַּר (n-m): field
+- `1` field
+
 ### `bdbs:בָּזָה` בָּזָה (v): to despise, hold in contempt, disdain
 - `1` to despise, hold in contempt, disdain
 - `1.1` Qal to despise, regard with contempt
@@ -1054,6 +1057,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.2.2` Niphal to be despicable
 - `1.2.3` Niphal to be vile, worthless
 - `1.3` Hiphil to cause to despise
+
+### `bdbs:בָּר` בָּר (n-m): corn, grain
+- `1` corn, grain
 
 ### `bdbs:גָּלָה` גָּלָה (v): to uncover, remove
 - `1` to uncover, remove
@@ -1289,6 +1295,19 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdbs:לֵב` לֵב (n-m): heart, mind
 - `1` heart, mind
 
+### `bdbs:לֵבָב` לֵבָב (n-m): inner man, mind, will, heart, soul, understanding
+- `1` inner man, mind, will, heart, soul, understanding
+- `1.1` inner part, midst
+- `1.1.1` midst (of things)
+- `1.1.2` heart (of man)
+- `1.1.3` soul, heart (of man)
+- `1.1.4` mind, knowledge, thinking, reflection, memory
+- `1.1.5` inclination, resolution, determination (of will)
+- `1.1.6` conscience
+- `1.1.7` heart (of moral character)
+- `1.1.8` as seat of appetites
+- `1.1.9` as seat of emotions and passions 1a10) as seat of courage
+
 ### `bdbs:לֹא` לֹא (adv): not, no
 - `1` not, no
 - `1.1` not (with verb-absolute prohibition)
@@ -1354,12 +1373,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.3` appointed place
 - `1.4` appointed sign or signal
 - `1.5` tent of meeting
-
-### `bdbs:נֵר` נֵר (n-pr-m): Ner = "lamp"
-- `1` Ner = "lamp"
-- `2` son of Jehiel, father of Kish, and grandfather of king Saul
-- `3` father of Abner, the uncle of Saul
-- `3.1` perhaps the same as 1
 
 ### `bdbs:נֶפֶשׁ` נֶפֶשׁ (n-f): soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion
 - `1` soul, self, life, creature, person, appetite, mind, living being, desire, emotion, passion
@@ -1681,6 +1694,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `13.3` Chief compounds:. priest’s division. Taan. II, 6; a. fr.; v. אֱנוֹשׁ pl.
 - `13.4` Chief compounds:. origin of a law, rule &c.; cmp. אָב II. Cant. R. to II, 4 ב׳ א׳ של הלכה the origin (principle) of a legal rule. Midr. Till. to Ps. CIV, 29 wherever the root רעש is used, it means cessation of government, ואיזהו ב׳ א׳ שלהם וכ׳ and where is the origin (determini…
 
+### `jastrow:בַּר IV` בַּר IV (m.): v. בָּרַר) [sifted] grain. Ber. 55ᵃ כשם שא"א לבר בלא וכ׳ as there can be no grain without straw, so there is no dream without idle things; Ned. 8ᵃ
+- `1` v. בָּרַר) [sifted] grain. Ber. 55ᵃ כשם שא"א לבר בלא וכ׳ as there can be no grain without straw, so there is no dream without idle things; Ned. 8ᵃ
+
 ### `jastrow:בַּרְתּוֹתָא` בַּרְתּוֹתָא (pr. n. pl.): Bartotha, in Upper Galilee. Ab. III, 7; Orl. I, 4; a. fr.
 - `1` Bartotha, in Upper Galilee. Ab. III, 7; Orl. I, 4; a. fr.
 
@@ -1720,15 +1736,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` (cmp. מִנְהָג) practice, adopted opinion, rule.—ה׳ כ־ in practice, the opinion of … is the rule. Keth. 77ᵃ ה׳ כמותו; a. v. fr.—ה׳ למשה מסיני a usage dating from Moses as delivered from Sinai, i.e. a traditional law or a traditional interpretation of a written …
 - `3` in gen. traditional law, tradition, custom. Orl. III, 9 הערלה ה׳ the application of the laws of Orlah (v. עָרְלָה) outside of Palestine is traditional or a custom (הילכות מדינה, v. Kidd. 38ᵇ).—Y. Bets. II, 61ᵇ top לה׳ as a traditional opinion (of a teacher), o…
 - `4` law, contrad. to אֲגָדָה. Ber. 31ᵃ מתוך דבר ה׳ from discussion about a law, opp. ה׳ פסוקה a decision arrived at after discussion. Ib. 47ᵇ המחדדין … בה׳ who whet each other’s wits in legal discussion. Snh. 82ᵃ נתעלמה ממנו ה׳ the law had escaped his memory. Ib. …
-
-### `jastrow:הֵי I` הֵי I: pr. n. m., v. הֵא II
-- `1` pr. n. m., v. הֵא II
-
-### `jastrow:הֵי II` הֵי II: interj. (b. h. interj. (b. h. הִא) behold, here is. Y. Succ. V, beg. 55ᵃ הי לך מצה here is unleavened bread for thee. Combined הֵילָךְ. Ib.—B. Mets. 4ᵃ I owe thee only fifty Zuz, וה׳ and here they are.—Hence (law) helakh, the instantaneous delivery of the amou…
-- `1` interj. (b. h. interj. (b. h. הִא) behold, here is. Y. Succ. V, beg. 55ᵃ הי לך מצה here is unleavened bread for thee. Combined הֵילָךְ. Ib.—B. Mets. 4ᵃ I owe thee only fifty Zuz, וה׳ and here they are.—Hence (law) helakh, the instantaneous delivery of the amou…
-- `2` (interrog.) which? Ḥull. 14ᵃ הי ר׳ יהודה which R. Judah, i.e. to which opinion of R. J. do you allude? Sabb. 9ᵇ הי סמוך וכ׳ which ‘near Minḥah’ is meant in the Mishnah?—Ḥull. 49ᵇ הי מינייהו which of them (eventually closes up a hole in the entrails); a. fr.
-- `3` where? Ber. 31ᵃ הי תורה וכ׳ where is the law, and where the good deeds to protect us?—Targ. Y. Deut. V, 23, v. דֵּן.—הי דינו, v. הַיְידְּנוּ.
-- `4` as, like. Targ. Y. I Deut. XXXII, 41 הֵיא ברק (not הִיא) as lightning. Mostly הי כ־; comb. היכ־. Targ. Y. Lev. XXV, 40, v. הֵיךְ.
 
 ### `jastrow:הַרְכִּינָס` הַרְכִּינָס (pr. n. m.): (Ἀρχῖνος) Harkinas, father of R. Dosa. R. Hash. II, 8 (25ᵃ) הר׳ Mish. a. Ms. M. (ed. הוֹרְ׳); Mish. Pes. a. Y. ed. ארכינס, v. Rabb. D. S. a. l. note). Tosef. Neg. I, 6 הרכ׳; (ib. Kel. B. Bath. IV, 14 הורקינס). Yeb. 16ᵃ; a. fr.
 - `1` (Ἀρχῖνος) Harkinas, father of R. Dosa. R. Hash. II, 8 (25ᵃ) הר׳ Mish. a. Ms. M. (ed. הוֹרְ׳); Mish. Pes. a. Y. ed. ארכינס, v. Rabb. D. S. a. l. note). Tosef. Neg. I, 6 הרכ׳; (ib. Kel. B. Bath. IV, 14 הורקינס). Yeb. 16ᵃ; a. fr.
@@ -1925,6 +1932,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `jastrow:לֵב ²` לֵב ²: Targ. Gen. VI, 5. Targ. I Chr. XII, 38; a. fr.—Ab. Zar. 55ᵃ לִבִּי ולִבָּךְ ידע myself and thyself are convinced &c. Midr. Till. to Ps. VII (ref. to תשמרם, ib. XII, 8) נטר אורייתא בלִבְּהוֹן וכ׳ guard the Law in their hearts. Midr. Till. to Ps. XXVIII, end (re…
 - `1` Targ. Gen. VI, 5. Targ. I Chr. XII, 38; a. fr.—Ab. Zar. 55ᵃ לִבִּי ולִבָּךְ ידע myself and thyself are convinced &c. Midr. Till. to Ps. VII (ref. to תשמרם, ib. XII, 8) נטר אורייתא בלִבְּהוֹן וכ׳ guard the Law in their hearts. Midr. Till. to Ps. XXVIII, end (re…
 
+### `jastrow:לֵבָב` לֵבָב (m.): (b. h.) = לֵב, heart; (in rabbinical homiletics) double heart, seat of two opposite inclinations (v. יֵצֶר). Ber. IX, 5 (ref. to Deut. VI, 5) בכל לְבָבְךָ בשני יצריך וכ׳ ‘with all thy heart’ means with both thy inclinations &c. (i.e. break thy evil inclination…
+- `1` (b. h.) = לֵב, heart; (in rabbinical homiletics) double heart, seat of two opposite inclinations (v. יֵצֶר). Ber. IX, 5 (ref. to Deut. VI, 5) בכל לְבָבְךָ בשני יצריך וכ׳ ‘with all thy heart’ means with both thy inclinations &c. (i.e. break thy evil inclination…
+
 ### `jastrow:לָבַן I` לָבַן I: to make or pile bricks. B. Mets. X, 5 (118ᵇ) ואין לוֹבְנִין לבנים but you are not permitted to pile up bricks (on the public road). Ib. גובלין טיט … אבל לא לובנין Ms. M. (v. Rabb. D. S. a. l. note; ed. לבנים; Y. ed. ללבינים) you may knead clay on the public ro…
 - `1` to make or pile bricks. B. Mets. X, 5 (118ᵇ) ואין לוֹבְנִין לבנים but you are not permitted to pile up bricks (on the public road). Ib. גובלין טיט … אבל לא לובנין Ms. M. (v. Rabb. D. S. a. l. note; ed. לבנים; Y. ed. ללבינים) you may knead clay on the public ro…
 
@@ -1979,9 +1989,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `jastrow:מוֹעֵד ²` מוֹעֵד ²: Targ. I Sam. I, 3; 4.—M. Kat. 18ᵇ חולא דמ׳ = חוֹל הַמּוֹעֵד, v. preced. Y. Ab. Zar. I, 39ᵇ bot. בריה דמ׳ the day or days after a (gentile) festival.—Pl. מוֹעֲדִין, מוֹעֲדַיָּא. Targ. Lev. XXIII, 2. Targ. Hos. II, 13; a. fr.
 - `1` Targ. I Sam. I, 3; 4.—M. Kat. 18ᵇ חולא דמ׳ = חוֹל הַמּוֹעֵד, v. preced. Y. Ab. Zar. I, 39ᵇ bot. בריה דמ׳ the day or days after a (gentile) festival.—Pl. מוֹעֲדִין, מוֹעֲדַיָּא. Targ. Lev. XXIII, 2. Targ. Hos. II, 13; a. fr.
-
-### `jastrow:נֵר` נֵר: c. (b. h.; v. נוּר) light. Sabb. 22ᵇ; Men. 86ᵇ נר מערבי שנותנין וכ׳ the westernmost light (on the candlestick in the Temple) into which as much oil was put as all the others together contained. Sabb. 22ᵃ מנר לנר מדליקין you may light one Ḥanuckah light on the …
-- `1` c. (b. h.; v. נוּר) light. Sabb. 22ᵇ; Men. 86ᵇ נר מערבי שנותנין וכ׳ the westernmost light (on the candlestick in the Temple) into which as much oil was put as all the others together contained. Sabb. 22ᵃ מנר לנר מדליקין you may light one Ḥanuckah light on the …
 
 ### `jastrow:נֶפֶשׁ` נֶפֶשׁ (f.): preced. wds.)
 - `1` preced. wds.)
