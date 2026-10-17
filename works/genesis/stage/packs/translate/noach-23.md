@@ -1,6 +1,6 @@
 # Translation pack: genesis noach-23 (Genesis 11:26–11:32)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/noach-23.json`. Check: `go run ./cmd/tr check genesis noach-23`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/noach-23.json`. Check: `go run ./cmd/tr check genesis noach-23`.
 
 ## Genesis 11:26
 

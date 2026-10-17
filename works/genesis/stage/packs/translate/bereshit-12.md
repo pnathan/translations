@@ -1,6 +1,6 @@
 # Translation pack: genesis bereshit-12 (Genesis 3:22–4:5)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/bereshit-12.json`. Check: `go run ./cmd/tr check genesis bereshit-12`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/bereshit-12.json`. Check: `go run ./cmd/tr check genesis bereshit-12`.
 
 ## Genesis 3:22
 

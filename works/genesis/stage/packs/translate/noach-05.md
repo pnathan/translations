@@ -1,6 +1,6 @@
 # Translation pack: genesis noach-05 (Genesis 7:15–7:22)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/noach-05.json`. Check: `go run ./cmd/tr check genesis noach-05`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/noach-05.json`. Check: `go run ./cmd/tr check genesis noach-05`.
 
 ## Genesis 7:15
 

@@ -1,6 +1,6 @@
 # Translation pack: genesis bereshit-14 (Genesis 4:14–4:21)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/bereshit-14.json`. Check: `go run ./cmd/tr check genesis bereshit-14`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/bereshit-14.json`. Check: `go run ./cmd/tr check genesis bereshit-14`.
 
 ## Genesis 4:14
 

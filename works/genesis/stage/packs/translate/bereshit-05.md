@@ -1,6 +1,6 @@
 # Translation pack: genesis bereshit-05 (Genesis 1:24–1:31)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/bereshit-05.json`. Check: `go run ./cmd/tr check genesis bereshit-05`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/bereshit-05.json`. Check: `go run ./cmd/tr check genesis bereshit-05`.
 
 ## Genesis 1:24
 

@@ -1,6 +1,6 @@
 # Translation pack: genesis lekh-lekha-05 (Genesis 13:13–13:18)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/lekh-lekha-05.json`. Check: `go run ./cmd/tr check genesis lekh-lekha-05`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/lekh-lekha-05.json`. Check: `go run ./cmd/tr check genesis lekh-lekha-05`.
 
 ## Genesis 13:13
 

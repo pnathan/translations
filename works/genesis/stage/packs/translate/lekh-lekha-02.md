@@ -1,6 +1,6 @@
 # Translation pack: genesis lekh-lekha-02 (Genesis 12:9–12:16)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/lekh-lekha-02.json`. Check: `go run ./cmd/tr check genesis lekh-lekha-02`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/lekh-lekha-02.json`. Check: `go run ./cmd/tr check genesis lekh-lekha-02`.
 
 ## Genesis 12:9
 

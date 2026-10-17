@@ -1,6 +1,6 @@
 # Translation pack: genesis bereshit-17 (Genesis 5:6–5:11)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/bereshit-17.json`. Check: `go run ./cmd/tr check genesis bereshit-17`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/bereshit-17.json`. Check: `go run ./cmd/tr check genesis bereshit-17`.
 
 ## Genesis 5:6
 

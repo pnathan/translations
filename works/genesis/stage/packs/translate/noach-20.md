@@ -1,6 +1,6 @@
 # Translation pack: genesis noach-20 (Genesis 11:14–11:17)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/noach-20.json`. Check: `go run ./cmd/tr check genesis noach-20`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/noach-20.json`. Check: `go run ./cmd/tr check genesis noach-20`.
 
 ## Genesis 11:14
 

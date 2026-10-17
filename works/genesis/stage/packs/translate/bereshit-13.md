@@ -1,6 +1,6 @@
 # Translation pack: genesis bereshit-13 (Genesis 4:6–4:13)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/bereshit-13.json`. Check: `go run ./cmd/tr check genesis bereshit-13`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/bereshit-13.json`. Check: `go run ./cmd/tr check genesis bereshit-13`.
 
 ## Genesis 4:6
 

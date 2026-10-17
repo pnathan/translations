@@ -1,6 +1,6 @@
 # Translation pack: genesis noach-07 (Genesis 8:7–8:14)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/noach-07.json`. Check: `go run ./cmd/tr check genesis noach-07`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/noach-07.json`. Check: `go run ./cmd/tr check genesis noach-07`.
 
 ## Genesis 8:7
 
