@@ -109,12 +109,12 @@ Hebrew (Torat Emet): יְהוּדָה בֶן טַבַּאי וְשִׁמְעוֹ
 | 1:8.21 | עוֹמְדִים | עוֹמְדִים | עָמַד `bdbs:עָמַד` | verb: qal, participle active, masculine, plural, absolute | עמד |  |
 | 1:8.22 | לְפָנֶיךָ | לְ + פָנֶי + ךָ | ל: to, for + פָּנִים `bdbs:פָּנִים` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | פנה |  |
 | 1:8.23 | יִהְיוּ | יִהְיוּ | הָיָה `bdbs:הָיָה` | verb: qal, imperfect (yiqtol), 3rd person, masculine, plural | היה |  |
-| 1:8.24 | בְעֵינֶיךָ | בְ + עֵינֶי + ךָ | ב: in, with, by + עַיִן `bdbs:עַיִן` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | עין |  |
+| 1:8.24 | בְעֵינֶיךָ | בְ + עֵינֶי + ךָ | ב: in, with, by + עַיִן `bdbs:עַיִן` +  | preposition: preposition · noun: common, feminine, dual, construct · suffix: pronominal, 2nd person, masculine, singular | עין |  |
 | 1:8.25 | כִרְשָׁעִים | כִ + רְשָׁעִים | כ: like, as + רָשָׁע `bdbs:רָשָׁע` | preposition: preposition · noun: common, masculine, plural, absolute | רשע |  |
-| 1:8.26 | וּכְשֶׁנִּפְטָרִים | וּ + כְּ + שֶׁ + נִּפְטָרִים | ו: and + כ: like, as + ש: who, which, that + פָּטַר `jastrow:פָּטַר` | conjunction: conjunction · conjunction: temporal conjunction, when · conjunction: subordinating particle (relative) · verb: nifal, participle passive, masculine, plural, absolute | פטר |  |
+| 1:8.26 | וּכְשֶׁנִּפְטָרִים | וּ + כְּ + שֶׁ + נִּפְטָרִים | ו: and + כ: like, as + ש: who, which, that + פָּטַר `jastrow:פָּטַר` | conjunction: conjunction · conjunction: temporal conjunction, when · conjunction: subordinating particle (relative) · verb: nifal, participle active, masculine, plural, absolute | פטר |  |
 | 1:8.27 | מִלְּפָנֶיךָ | מִ + לְּ + פָנֶי + ךָ | מ: from, than + ל: to, for + פָּנִים `bdbs:פָּנִים` +  | preposition: preposition · preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | פנה |  |
 | 1:8.28 | יִהְיוּ | יִהְיוּ | הָיָה `bdbs:הָיָה` | verb: qal, imperfect (yiqtol), 3rd person, masculine, plural | היה |  |
-| 1:8.29 | בְעֵינֶיךָ | בְ + עֵינֶי + ךָ | ב: in, with, by + עַיִן `bdbs:עַיִן` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | עין |  |
+| 1:8.29 | בְעֵינֶיךָ | בְ + עֵינֶי + ךָ | ב: in, with, by + עַיִן `bdbs:עַיִן` +  | preposition: preposition · noun: common, feminine, dual, construct · suffix: pronominal, 2nd person, masculine, singular | עין |  |
 | 1:8.30 | כְזַכָּאִין | כְ + זַכָּאִין | כ: like, as + זַכַּאי `jastrow:זַכַּאי I` | preposition: preposition · adjective: common, masculine, plural, absolute | זכא |  |
 | 1:8.31 | כְּשֶׁקִּבְּלוּ | כְּ + שֶׁ + קִבְּלוּ | כ: like, as + ש: who, which, that + קָבַל `jastrow:קָבַל I` | conjunction: temporal conjunction, when · conjunction: subordinating particle (relative) · verb: piel, perfect (qatal), 3rd person, masculine, plural | קבל |  |
 | 1:8.32 | עֲלֵיהֶם | עֲלֵי + הֶם | עַל `bdbs:עַל` +  | preposition: preposition · suffix: pronominal, 3rd person, masculine, plural | על |  |
@@ -310,7 +310,7 @@ Hebrew (Torat Emet): שְׁמַעְיָה וְאַבְטַלְיוֹן קִבּ�
 | 1:10.9 | הַמְּלָאכָה | הַ + מְּלָאכָה | ה: the + מְלָאכָה `bdbs:מְלָאכָה` | article: article · noun: common, feminine, singular, absolute | לאך |  |
 | 1:10.10 | וּשְׂנָא | וּ + שְׂנָא | ו: and + שָׂנֵא `bdbs:שָׂנֵא` | conjunction: conjunction · verb: qal, imperative, 2nd person, masculine, singular | שנא |  |
 | 1:10.11 | אֶת | אֶת | אֵת `bdbs:אֵת` | particle: direct object marker |  |  |
-| 1:10.12 | הָרַבָּנוּת | הָ + רַבָּנוּת | ה: the + רַבָּנוּת `jastrow:רַבָּנוּת` | article: article · noun: common, feminine, singular, absolute | רבן |  |
+| 1:10.12 | הָרַבָּנוּת | הָ + רַבָּנוּת | ה: the + רַבָּנוּת `jastrow:רַבָּנוּת` | article: article · noun: common, feminine, singular, absolute | רבב |  |
 | 1:10.13 | וְאַל | וְ + אַל | ו: and + אַל `bdbs:אַל` | conjunction: conjunction · particle: negative particle |  |  |
 | 1:10.14 | תִּתְוַדַּע | תִּתְוַדַּע | יָדַע `bdbs:יָדַע` | verb: hitpael, imperfect (yiqtol), 2nd person, masculine, singular | ידע |  |
 | 1:10.15 | לָרָשׁוּת | לָ + רָשׁוּת | ל: to, for + רְשׁוּת | preposition: preposition · noun: common, feminine, singular, absolute | רשה |  |
@@ -392,7 +392,7 @@ Hebrew (Torat Emet): אַבְטַלְיוֹן אוֹמֵר, חֲכָמִים, ה
 | 1:11.1 | אַבְטַלְיוֹן | אַבְטַלְיוֹן | אַבְטַלְיוֹן `jastrow:אַבְטַלְיוֹן` | noun: proper name, person, masculine |  |  |
 | 1:11.2 | אוֹמֵר | אוֹמֵר | אָמַר `bdbs:אָמַר` | verb: qal, participle active, masculine, singular, absolute | אמר |  |
 | 1:11.3 | חֲכָמִים | חֲכָמִים | חָכָם `bdbs:חָכָם` | noun: common, masculine, plural, absolute | חכם |  |
-| 1:11.4 | הִזָּהֲרוּ | הִזָּהֲרוּ | זָהַר | verb: hitpael, imperative, 2nd person, masculine, plural | זהר |  |
+| 1:11.4 | הִזָּהֲרוּ | הִזָּהֲרוּ | זָהַר | verb: nifal, imperative, 2nd person, masculine, plural | זהר |  |
 | 1:11.5 | בְדִבְרֵיכֶם | בְ + דִבְרֵי + כֶם | ב: in, with, by + דָּבָר `bdbs:דָּבָר` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, plural | דבר |  |
 | 1:11.6 | שֶׁמָּא | שֶׁמָּא | שֶׁמָּא | conjunction: conjunction (lest) |  |  |
 | 1:11.7 | תָחוּבוּ | תָחוּבוּ | חָב `jastrow:חָב` | verb: qal, imperfect (yiqtol), 2nd person, masculine, plural | חוב |  |
@@ -408,7 +408,7 @@ Hebrew (Torat Emet): אַבְטַלְיוֹן אוֹמֵר, חֲכָמִים, ה
 | 1:11.17 | אַחֲרֵיכֶם | אַחֲרֵי + כֶם | אַחַר `bdbs:אַחַר` +  | preposition: preposition · suffix: pronominal, 2nd person, masculine, plural | אחר |  |
 | 1:11.18 | וְיָמוּתוּ | וְ + יָמוּתוּ | ו: and + מֵת `jastrow:מֵת` | conjunction: conjunction · verb: qal, imperfect (yiqtol), 3rd person, masculine, plural | מות |  |
 | 1:11.19 | וְנִמְצָא | וְ + נִמְצָא | ו: and + מָצָא `bdbs:מָצָא` | conjunction: conjunction · verb: nifal, perfect (qatal), 3rd person, masculine, singular | מצא |  |
-| 1:11.20 | שֵׁם | שֵׁם | שֵׁם `bdbs:שֵׁם` | noun: common, masculine, singular, construct | שמם |  |
+| 1:11.20 | שֵׁם | שֵׁם | שֵׁם `bdbs:שֵׁם` | noun: common, masculine, singular, construct | שום |  |
 | 1:11.21 | שָׁמַיִם | שָׁמַיִם | שָׁמַיִם `bdbs:שָׁמַיִם` | noun: common, masculine, plural, absolute | שמי |  |
 | 1:11.22 | מִתְחַלֵּל | מִתְחַלֵּל | חָלַל `bdbs:חָלַל` | verb: hitpael, participle active, masculine, singular, absolute | חלל |  |
 

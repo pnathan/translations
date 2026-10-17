@@ -11,18 +11,18 @@ Hebrew (Torat Emet): הוּא הָיָה אוֹמֵר, נָגֵד שְׁמָא, 
 | 1:13.1 | הוּא | הוּא | הוּא `bdbs:הוּא` | pronoun: personal pronoun, 3rd person, masculine, singular |  |  |
 | 1:13.2 | הָיָה | הָיָה | הָיָה `bdbs:הָיָה` | verb: qal, perfect (qatal), 3rd person, masculine, singular | היה |  |
 | 1:13.3 | אוֹמֵר | אוֹמֵר | אָמַר `bdbs:אָמַר` | verb: qal, participle active, masculine, singular, absolute | אמר |  |
-| 1:13.4 | נָגֵד | נָגֵד | נָגַד `jastrow:נָגַד` | verb: qal, participle active, masculine, singular, absolute | נגד |  |
-| 1:13.5 | שְׁמָא | שְׁמָא | שְׁמָא | noun: common, masculine, singular, absolute | שם |  |
+| 1:13.4 | נָגֵד | נָגֵד | נְגַד `jastrow:נָגַד` | verb: qal, participle active, masculine, singular, absolute | נגד |  |
+| 1:13.5 | שְׁמָא | שְׁמָא | שֻׁם `bdbs:שֵׁם` | noun: common, masculine, singular, absolute | שם |  |
 | 1:13.6 | אָבֵד | אָבֵד | אָבַד `bdbs:אָבַד` | verb: qal, participle active, masculine, singular, absolute | אבד |  |
-| 1:13.7 | שְׁמֵהּ | שְׁמֵ + הּ | שְׁמָא +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | שם |  |
+| 1:13.7 | שְׁמֵהּ | שְׁמֵ + הּ | שֻׁם `bdbs:שֵׁם` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | שם |  |
 | 1:13.8 | וּדְלֹא | וּ + דְ + לֹא | ו: and + ד: that, who, which + לֹא `bdbs:לֹא` | conjunction: conjunction · particle: relative particle · particle: negative particle |  |  |
 | 1:13.9 | מוֹסִיף | מוֹסִיף | יָסַף `bdbs:יָסַף` | verb: hifil, participle active, masculine, singular, absolute | יסף |  |
-| 1:13.10 | יָסֵף | יָסֵף | יָסַף `bdbs:יָסַף` | verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | יסף |  |
+| 1:13.10 | יָסֵף | יָסֵף | סָף | verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | סוף |  |
 | 1:13.11 | וּדְלֹא | וּ + דְ + לֹא | ו: and + ד: that, who, which + לֹא `bdbs:לֹא` | conjunction: conjunction · particle: relative particle · particle: negative particle |  |  |
 | 1:13.12 | יָלֵיף | יָלֵיף | יָלַף `jastrow:יְלֵף` | verb: qal, participle active, masculine, singular, absolute | ילף |  |
-| 1:13.13 | קְטָלָא | קְטָלָא | קְטָלָא `jastrow:קְטָלָא` | noun: common, feminine, singular, absolute | קטל |  |
+| 1:13.13 | קְטָלָא | קְטָלָא | קְטָלָא `jastrow:קְטָלָא` | noun: common, masculine, singular, absolute | קטל |  |
 | 1:13.14 | חַיָּב | חַיָּב | חַיָּב `jastrow:חַיָּב` | adjective: masculine, singular, absolute | חיב |  |
-| 1:13.15 | וּדְאִשְׁתַּמֵּשׁ | וּ + דְ + אִשְׁתַּמֵּשׁ | ו: and + ד: that, who, which + שָׁמַשׁ `jastrow:שָׁמַשׁ` | conjunction: conjunction · particle: relative particle · verb: hitpael, participle active, masculine, singular, absolute | שמש |  |
+| 1:13.15 | וּדְאִשְׁתַּמֵּשׁ | וּ + דְ + אִשְׁתַּמֵּשׁ | ו: and + ד: that, who, which + שָׁמַשׁ `jastrow:שָׁמַשׁ` | conjunction: conjunction · particle: relative particle · verb: hitpael, perfect (qatal), 3rd person, masculine, singular | שמש |  |
 | 1:13.16 | בְּתָגָא | בְּ + תָגָא | ב: in, with, by + תָּגָא `jastrow:תָּגָא` | preposition: preposition · noun: common, masculine, singular, absolute | תגא |  |
 | 1:13.17 | חָלֵף | חָלֵף | חָלַף `bdbs:חָלַף` | verb: qal, participle active, masculine, singular, absolute | חלף |  |
 
@@ -297,7 +297,7 @@ Hebrew (Torat Emet): רַבָּן גַּמְלִיאֵל הָיָה אוֹמֵר
 | 1:16.11 | וְאַל | וְ + אַל | ו: and + אַל `bdbs:אַל` | conjunction: conjunction · particle: prohibitive particle |  |  |
 | 1:16.12 | תַּרְבֶּה | תַּרְבֶּה | רָבָה `jastrow:רָבָה` | verb: hifil, imperfect (yiqtol), 2nd person, masculine, singular | רבה |  |
 | 1:16.13 | לְעַשֵּׂר | לְ + עַשֵּׂר | ל: to, for + עָשַׂר `jastrow:עָשַׂר` | preposition: preposition · verb: piel, infinitive construct | עשר |  |
-| 1:16.14 | אֹמָדוֹת | אֹמָדוֹת | אֹמֶד | noun: common, feminine, plural, absolute | אמד |  |
+| 1:16.14 | אֹמָדוֹת | אֹמָדוֹת | אֹמֶד | noun: common, masculine, plural, absolute | אמד |  |
 
 Variants:
 - 1:16.3 word: Vilna reads —; base הָיָה
@@ -507,7 +507,7 @@ Hebrew (Torat Emet): רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיא
 | 1:18.18 | זכריה | זכריה | זְכַרְיָה `bdbs:זְכַרְיָה` | noun: proper name, person, masculine |  |  |
 | 1:18.19 | ח | ח | שְׁמוֹנֶה `jastrow:שְׁמוֹנֶה` | numeral: cardinal, eight (chapter number) |  |  |
 | 1:18.20 | אֱמֶת | אֱמֶת | אֱמֶת `bdbs:אֶמֶת` | noun: common, feminine, singular, absolute | אמת |  |
-| 1:18.21 | וּמִשְׁפַּט | וּ + מִשְׁפַּט | ו: and + מִשְׁפָּט `bdbs:מִשְׁפָּט` | conjunction: conjunction · noun: common, masculine, singular, absolute | שפט |  |
+| 1:18.21 | וּמִשְׁפַּט | וּ + מִשְׁפַּט | ו: and + מִשְׁפָּט `bdbs:מִשְׁפָּט` | conjunction: conjunction · noun: common, masculine, singular, construct | שפט |  |
 | 1:18.22 | שָׁלוֹם | שָׁלוֹם | שָׁלוֹם `bdbs:שָׁלוֹם` | noun: common, masculine, singular, absolute | שלם |  |
 | 1:18.23 | שִׁפְטוּ | שִׁפְטוּ | שָׁפַט `bdbs:שָׁפַט` | verb: qal, imperative, 2nd person, masculine, plural | שפט |  |
 | 1:18.24 | בְּשַׁעֲרֵיכֶם | בְּ + שַׁעֲרֵי + כֶם | ב: in, with, by + שַׁעַר `bdbs:שַׁעַר` +  | preposition: preposition · noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, plural | שער |  |
@@ -913,6 +913,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1` Simeon or Shimeon = "heard"
 - `2` the 2nd son of Jacob by his wife Leah and progenitor of the tribe of Simeon
 - `3` an Israelite of the sons of Bani who had a foreign wife in the time of Ezra
+
+### `bdbs:שֵׁם` שֵׁם (n-pr-m): Shem = "name"
+- `1` Shem = "name"
+- `2` the eldest son of Noah and progenitor of the Semitic tribes
 
 ### `bdbs:שַׁעַר` שַׁעַר (n-m): a unit of measure
 - `1` a unit of measure
@@ -1321,6 +1325,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` ש׳ הצדיק Simon the Just, a high priest. Yoma 69ᵃ כיון שראה לש׳ הצ׳ וכ׳ when he (Alexander the Great) saw Simon the Just, he alighted from his chariot &c. Ab. I, 2 ש׳ הצ׳ היה וכ׳ Simon the Just was one of the last members of the Great Assembly; a. fr.
 - `4` name of several Tannaim, esp. a) S. son of Hillel. Sabb. 15ᵃ.—b) R. S. son of the Sagan. Shek. VIII, 5. Keth. II, 8; a. e.—c) S. ben Sheṭaḥ, chief of the Pharisees under Alexander Jannai. Ḥag. II, 2. Tosef. Keth. XII, 1. Kidd. 66ᵃ; a. fr.—d) R. S. ben Gamliel …
 - `5` name of several Amoraim, esp. a) R. S. bar Abba (Ba, Va), in Babli שִׁמָּן. Y. Sabb. VII, 8ᵃ bot.; Bab. Sabb. 61ᵃ. Y. Ber. V, 9ᵇ bot.; Bab. Ber. 33ᵃ; a. fr.—b) R. S. b. Laḳish (abbrev. רשב"ל, a. ריש לקיש, ר"ל). Keth. 54ᵇ. Gitt. 47ᵃ. Y. Yeb. VIII, 9ᵈ bot.; a. v…
+
+### `jastrow:שֵׁם` שֵׁם: Targ. Y. II, Ex. XXXI, 2. Targ. Ps. CXLVII, 4. Targ. O. Gen. VI, 4; a. fr.—Sot. 49ᵃ יהא שְׁמֵיה רבא (abbrev. יה"ש"ר), v. אֲגַדְתָּא. Ab. I, 13, v. נְגַד. Yoma 83ᵇ, v. דּוּק. Ber. 7ᵇ, v. גְּרַם I. Sabb. 8ᵇ (in Hebr. dict.) שמיה הילוך comes under the category of…
+- `1` Targ. Y. II, Ex. XXXI, 2. Targ. Ps. CXLVII, 4. Targ. O. Gen. VI, 4; a. fr.—Sot. 49ᵃ יהא שְׁמֵיה רבא (abbrev. יה"ש"ר), v. אֲגַדְתָּא. Ab. I, 13, v. נְגַד. Yoma 83ᵇ, v. דּוּק. Ber. 7ᵇ, v. גְּרַם I. Sabb. 8ᵇ (in Hebr. dict.) שמיה הילוך comes under the category of…
+
+### `jastrow:שֵׁם I` שֵׁם I: (b. h.) pr. n. m. Shem, son of Noah. Meg. 9ᵇ (ref. to Gen. IX, 27) דבריו … באהלי שם let the speech of Japheth (Greek) dwell in the tents of Shem; v. יָפְיוּת. Gen. R. s. 63, v. עֵבֶר I. Snh. 69ᵇ. Ex. R. s. 18 the Lord said, חייב אני לשם אביהם וכ׳ I am indebted…
+- `1` (b. h.) pr. n. m. Shem, son of Noah. Meg. 9ᵇ (ref. to Gen. IX, 27) דבריו … באהלי שם let the speech of Japheth (Greek) dwell in the tents of Shem; v. יָפְיוּת. Gen. R. s. 63, v. עֵבֶר I. Snh. 69ᵇ. Ex. R. s. 18 the Lord said, חייב אני לשם אביהם וכ׳ I am indebted…
+
+### `jastrow:שֵׁם II` שֵׁם II (m.): v. שׁוּם a. mark, name, title, nature, denomination. Pes. III, 3 לא תקרא לה שם וכ׳ she must not name it (declare it to be Ḥallah) until it is baked. Ter. III, 5 האומר … קרא שם if one says, the priest’s portion of this pile is in it …, he has named it (designat…
+- `1` v. שׁוּם a. mark, name, title, nature, denomination. Pes. III, 3 לא תקרא לה שם וכ׳ she must not name it (declare it to be Ḥallah) until it is baked. Ter. III, 5 האומר … קרא שם if one says, the priest’s portion of this pile is in it …, he has named it (designat…
 
 ### `jastrow:שַׁמַּאי` שַׁמַּאי (pr. n. m.): Shammai (abbrev. of שמעיה),
 - `1` Shammai (abbrev. of שמעיה),
