@@ -97,7 +97,7 @@ Hebrew (MAM): וְעֵ֣מֶק הַשִּׂדִּ֗ים בֶּֽאֱרֹ֤ת ב�
 | 14:10.9 | וַעֲמֹרָ֖ה | וַ + עֲמֹרָ֖ה | ו: and + עֲמֹרָה `bdb:p.do.ab` | conjunction · noun: proper name |  | tipḥa (disjunctive) |
 | 14:10.10 | וַיִּפְּלוּ־ | וַ + יִּפְּלוּ | ו: and + נָפַל `bdb:n.ek.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | נפל |  |
 | 14:10.11 | שָׁ֑מָּה | שָׁ֑מָּ + ה | שָׁם `bdb:v.dv.aa` +  | adverb · suffix: directional he |  | etnaḥta (disjunctive) |
-| 14:10.12 | וְהַנִּשְׁאָרִ֖ים | וְ + הַ + נִּשְׁאָרִ֖ים | ו: and + ה: the + שָׁאַר `bdb:v.ak.aa` | conjunction · particle: definite article · verb: nifal, participle active, masculine, plural, absolute | שׁאר | tipḥa (disjunctive) |
+| 14:10.12 | וְהַנִּשְׁאָרִ֖ים | וְ + הַ + נִּשְׁאָרִ֖ים | ו: and + ה: the + שָׁאַר `bdb:v.ak.aa` | conjunction · particle: definite article · verb: nifal, participle, masculine, plural, absolute | שׁאר | tipḥa (disjunctive) |
 | 14:10.13 | הֶ֥רָה | הֶ֥רָ + ה | הַר `bdb:e.cf.ab` +  | noun: common, masculine, singular, absolute · suffix: directional he | הרר | merkha |
 | 14:10.14 | נָּֽסוּ׃ | נָּֽסוּ | נוּס `bdb:n.cc.aa` | verb: qal, perfect (qatal), 3rd person, common, plural | נוס | silluq (disjunctive) |
 

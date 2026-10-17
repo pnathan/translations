@@ -75,7 +75,7 @@ Hebrew (MAM): וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֙הוּ֙ וָבֹ֔ה�
 | 1:2.8 | תְה֑וֹם | תְה֑וֹם | תְּהוֹם `bdb:w.ah.ab` | noun: common, both genders, singular, absolute | תהם | etnaḥta (disjunctive) |
 | 1:2.9 | וְר֣וּחַ | וְ + ר֣וּחַ | ו: and + רוּחַ `bdb:t.bk.ab` | conjunction · noun: common, both genders, singular, construct | רוח | munaḥ |
 | 1:2.10 | אֱלֹהִ֔ים | אֱלֹהִ֔ים | אֱלֹהִים `bdb:a.dl.ad` | noun: common, masculine, plural, absolute | אלה | zaqef qaton (disjunctive) |
-| 1:2.11 | מְרַחֶ֖פֶת | מְרַחֶ֖פֶת | רָחַף `bdb:t.cd.aa` | verb: piel, participle active, feminine, singular, absolute | רחף | tipḥa (disjunctive) |
+| 1:2.11 | מְרַחֶ֖פֶת | מְרַחֶ֖פֶת | רָחַף `bdb:t.cd.aa` | verb: piel, participle, feminine, singular, absolute | רחף | tipḥa (disjunctive) |
 | 1:2.12 | עַל־ | עַל | עַל `bdb:p.cs.ar` | preposition | עלה |  |
 | 1:2.13 | פְּנֵ֥י | פְּנֵ֥י | פָּנֶה `bdb:q.bu.ab` | noun: common, both genders, plural, construct | פנה | merkha |
 | 1:2.14 | הַמָּֽיִם׃ | הַ + מָּֽיִם | ה: the + מַי `bdb:m.bt.aa` | particle: definite article · noun: common, masculine, plural, absolute |  | silluq (disjunctive) |

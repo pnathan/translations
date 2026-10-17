@@ -1264,7 +1264,7 @@
        "lemma": "רָחַף",
        "lex": "bdb:t.cd.aa",
        "pos": "verb",
-       "parse": "piel, participle active, feminine, singular, absolute",
+       "parse": "piel, participle, feminine, singular, absolute",
        "code": "Vprfsa"
       }
      ],
@@ -2339,7 +2339,7 @@
        "lemma": "בָּדַל",
        "lex": "bdb:b.ah.aa",
        "pos": "verb",
-       "parse": "hifil, participle active, masculine, singular, absolute",
+       "parse": "hifil, participle, masculine, singular, absolute",
        "code": "Vhrmsa"
       }
      ],
@@ -3946,7 +3946,7 @@
        "lemma": "זָרַע",
        "lex": "bdb:g.cl.aa",
        "pos": "verb",
-       "parse": "hifil, participle active, masculine, singular, absolute",
+       "parse": "hifil, participle, masculine, singular, absolute",
        "code": "Vhrmsa"
       }
      ],
@@ -4396,7 +4396,7 @@
        "lemma": "זָרַע",
        "lex": "bdb:g.cl.aa",
        "pos": "verb",
-       "parse": "hifil, participle active, masculine, singular, absolute",
+       "parse": "hifil, participle, masculine, singular, absolute",
        "code": "Vhrmsa"
       }
      ],
@@ -15166,7 +15166,7 @@
        "lemma": "חָמַד",
        "lex": "bdb:h.de.aa",
        "pos": "verb",
-       "parse": "nifal, participle active, masculine, singular, absolute",
+       "parse": "nifal, participle, masculine, singular, absolute",
        "code": "VNrmsa"
       }
      ],
@@ -22900,7 +22900,7 @@
        "lemma": "חָמַד",
        "lex": "bdb:h.de.aa",
        "pos": "verb",
-       "parse": "nifal, participle active, masculine, singular, absolute",
+       "parse": "nifal, participle, masculine, singular, absolute",
        "code": "VNrmsa"
       }
      ],
@@ -23669,7 +23669,7 @@
        "lemma": "הָלַךְ",
        "lex": "bdb:e.bn.aa",
        "pos": "verb",
-       "parse": "hitpael, participle active, masculine, singular, absolute",
+       "parse": "hitpael, participle, masculine, singular, absolute",
        "code": "Vtrmsa"
       }
      ],
@@ -29851,7 +29851,7 @@
        "lemma": "הָפַךְ",
        "lex": "bdb:e.cb.aa",
        "pos": "verb",
-       "parse": "hitpael, participle active, feminine, singular, absolute",
+       "parse": "hitpael, participle, feminine, singular, absolute",
        "code": "Vtrfsa"
       }
      ],
@@ -52208,7 +52208,7 @@
        "lemma": "שָׁחַת",
        "lex": "bdb:v.cq.aa",
        "pos": "verb",
-       "parse": "hifil, participle active, masculine, singular, construct",
+       "parse": "hifil, participle, masculine, singular, construct",
        "code": "Vhrmsc"
       },
       {
@@ -53517,7 +53517,7 @@
        "lemma": "בּוֹא",
        "lex": "bdb:b.ap.aa",
        "pos": "verb",
-       "parse": "hifil, participle active, masculine, singular, absolute",
+       "parse": "hifil, participle, masculine, singular, absolute",
        "code": "Vhrmsa"
       }
      ],
@@ -57017,7 +57017,7 @@
        "lemma": "מָטַר",
        "lex": "bdb:m.bs.ab",
        "pos": "verb",
-       "parse": "hifil, participle active, masculine, singular, absolute",
+       "parse": "hifil, participle, masculine, singular, absolute",
        "code": "Vhrmsa"
       }
      ],
@@ -75161,7 +75161,7 @@
        "lemma": "קוּם",
        "lex": "bdb:s.av.aa",
        "pos": "verb",
-       "parse": "hifil, participle active, masculine, singular, absolute",
+       "parse": "hifil, participle, masculine, singular, absolute",
        "code": "Vhrmsa"
       }
      ],
@@ -99663,7 +99663,7 @@
        "lemma": "בָּרַךְ",
        "lex": "bdb:b.dd.aa",
        "pos": "verb",
-       "parse": "piel, participle active, masculine, plural, construct",
+       "parse": "piel, participle, masculine, plural, construct",
        "code": "Vprmpc"
       },
       {
@@ -99699,7 +99699,7 @@
        "lemma": "קָלַל",
        "lex": "bdb:s.br.aa",
        "pos": "verb",
-       "parse": "piel, participle active, masculine, singular, construct",
+       "parse": "piel, participle, masculine, singular, construct",
        "code": "Vprmsc"
       },
       {
@@ -101671,7 +101671,7 @@
        "lemma": "רָאָה",
        "lex": "bdb:t.ab.aa",
        "pos": "verb",
-       "parse": "nifal, participle active, masculine, singular, absolute",
+       "parse": "nifal, participle, masculine, singular, absolute",
        "code": "VNrmsa"
       }
      ],
@@ -116029,7 +116029,7 @@
        "lemma": "שָׁאַר",
        "lex": "bdb:v.ak.aa",
        "pos": "verb",
-       "parse": "nifal, participle active, masculine, plural, absolute",
+       "parse": "nifal, participle, masculine, plural, absolute",
        "code": "VNrmpa"
       }
      ],

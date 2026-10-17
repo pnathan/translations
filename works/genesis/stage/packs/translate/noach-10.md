@@ -35,7 +35,7 @@ Hebrew (MAM): וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־בְּר�
 |---|---|---|---|---|---|---|
 | 9:9.1 | וַאֲנִ֕י | וַ + אֲנִ֕י | ו: and + אֲנִי `bdb:a.eg.aa` | conjunction · pronoun: personal, 1st person, common, singular |  | zaqef gadol (disjunctive) |
 | 9:9.2 | הִנְנִ֥י | הִנְנִ֥ + י | הֵן `bdb:e.bz.aa` +  | particle: interjection · suffix: pronominal, 1st person, common, singular |  | merkha |
-| 9:9.3 | מֵקִ֛ים | מֵקִ֛ים | קוּם `bdb:s.av.aa` | verb: hifil, participle active, masculine, singular, absolute | קום | tevir (disjunctive) |
+| 9:9.3 | מֵקִ֛ים | מֵקִ֛ים | קוּם `bdb:s.av.aa` | verb: hifil, participle, masculine, singular, absolute | קום | tevir (disjunctive) |
 | 9:9.4 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
 | 9:9.5 | בְּרִיתִ֖י | בְּרִיתִ֖ + י | בְּרִית `bdb:b.da.ab` +  | noun: common, feminine, singular, construct · suffix: pronominal, 1st person, common, singular | ברה | tipḥa (disjunctive) |
 | 9:9.6 | אִתְּכֶ֑ם | אִתְּ + כֶ֑ם | אֵת `bdb:a.gn.aa` +  | preposition · suffix: pronominal, 2nd person, masculine, plural |  | etnaḥta (disjunctive) |

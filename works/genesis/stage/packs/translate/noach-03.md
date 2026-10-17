@@ -168,7 +168,7 @@ Hebrew (MAM): כִּי֩ לְיָמִ֨ים ע֜וֹד שִׁבְעָ֗ה אָֽ
 | 7:4.3 | ע֜וֹד | ע֜וֹד | עוֹד `bdb:p.bc.ab` | adverb | עוד | geresh (disjunctive) |
 | 7:4.4 | שִׁבְעָ֗ה | שִׁבְעָ֗ה | שֶׁ֫בַע `bdb:v.av.aa` | adjective: cardinal number, masculine, singular, absolute | שׁבע | revia (disjunctive) |
 | 7:4.5 | אָֽנֹכִי֙ | אָֽנֹכִי֙ | אָֽנֹכִ֫י `bdb:a.ei.aa` | pronoun: personal, 1st person, common, singular |  | pashta (disjunctive) |
-| 7:4.6 | מַמְטִ֣יר | מַמְטִ֣יר | מָטַר `bdb:m.bs.ab` | verb: hifil, participle active, masculine, singular, absolute | מטר | munaḥ |
+| 7:4.6 | מַמְטִ֣יר | מַמְטִ֣יר | מָטַר `bdb:m.bs.ab` | verb: hifil, participle, masculine, singular, absolute | מטר | munaḥ |
 | 7:4.7 | עַל־ | עַל | עַל `bdb:p.cs.ar` | preposition | עלה |  |
 | 7:4.8 | הָאָ֔רֶץ | הָ + אָ֔רֶץ | ה: the + אֶ֫רֶץ `bdb:a.fx.aa` | particle: definite article · noun: common, both genders, singular, absolute | ארץ | zaqef qaton (disjunctive) |
 | 7:4.9 | אַרְבָּעִ֣ים | אַרְבָּעִ֣ים | אַרְבָּעִים `bdb:t.al.ad` | adjective: cardinal number, both genders, plural, absolute | רבע | munaḥ |

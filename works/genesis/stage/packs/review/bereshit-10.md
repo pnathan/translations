@@ -13,7 +13,7 @@ Hebrew (MAM): וַֽיִּשְׁמְע֞וּ אֶת־ק֨וֹל יְהֹוָ֧ה
 | 3:8.3 | ק֨וֹל | ק֨וֹל | קוֹל `bdb:s.au.ab` | noun: common, masculine, singular, construct | קול | qadma |
 | 3:8.4 | יְהֹוָ֧ה | יְהוָ֧ה | יהוה `bdb:e.az.ae` | noun: proper name | הוה | darga |
 | 3:8.5 | אֱלֹהִ֛ים | אֱלֹהִ֛ים | אֱלֹהִים `bdb:a.dl.ad` | noun: common, masculine, plural, absolute | אלה | tevir (disjunctive) |
-| 3:8.6 | מִתְהַלֵּ֥ךְ | מִתְהַלֵּ֥ךְ | הָלַךְ `bdb:e.bn.aa` | verb: hitpael, participle active, masculine, singular, absolute | הלך | merkha |
+| 3:8.6 | מִתְהַלֵּ֥ךְ | מִתְהַלֵּ֥ךְ | הָלַךְ `bdb:e.bn.aa` | verb: hitpael, participle, masculine, singular, absolute | הלך | merkha |
 | 3:8.7 | בַּגָּ֖ן | בַּ + גָּ֖ן | ב: in, with, by + גַּן `bdb:c.cp.ab` | preposition: with definite article · noun: common, both genders, singular, absolute | גנן | tipḥa (disjunctive) |
 | 3:8.8 | לְר֣וּחַ | לְ + ר֣וּחַ | ל: to, for + רוּחַ `bdb:t.bk.ab` | preposition · noun: common, both genders, singular, construct | רוח | munaḥ |
 | 3:8.9 | הַיּ֑וֹם | הַ + יּ֑וֹם | ה: the + יוֹם `bdb:j.ay.aa` | particle: definite article · noun: common, masculine, singular, absolute |  | etnaḥta (disjunctive) |

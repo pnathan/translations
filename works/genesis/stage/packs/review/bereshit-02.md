@@ -15,7 +15,7 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖י�
 | 1:6.5 | בְּת֣וֹךְ | בְּ + ת֣וֹךְ | ב: in, with, by + תָּ֫וֶךְ `bdb:w.aj.ae` | preposition · noun: common, masculine, singular, construct |  | munaḥ |
 | 1:6.6 | הַמָּ֑יִם | הַ + מָּ֑יִם | ה: the + מַי `bdb:m.bt.aa` | particle: definite article · noun: common, masculine, plural, absolute |  | etnaḥta (disjunctive) |
 | 1:6.7 | וִיהִ֣י | וִ + יהִ֣י | ו: and + הָיָה `bdb:e.bf.aa` | conjunction · verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | היה | munaḥ |
-| 1:6.8 | מַבְדִּ֔יל | מַבְדִּ֔יל | בָּדַל `bdb:b.ah.aa` | verb: hifil, participle active, masculine, singular, absolute | בדל | zaqef qaton (disjunctive) |
+| 1:6.8 | מַבְדִּ֔יל | מַבְדִּ֔יל | בָּדַל `bdb:b.ah.aa` | verb: hifil, participle, masculine, singular, absolute | בדל | zaqef qaton (disjunctive) |
 | 1:6.9 | בֵּ֥ין | בֵּ֥ין | בֵּין `bdb:b.bo.ac` | preposition | בין | merkha |
 | 1:6.10 | מַ֖יִם | מַ֖יִם | מַי `bdb:m.bt.aa` | noun: common, masculine, plural, absolute |  | tipḥa (disjunctive) |
 | 1:6.11 | לָמָֽיִם׃ | לָ + מָֽיִם | ל: to, for + מַי `bdb:m.bt.aa` | preposition · noun: common, masculine, plural, absolute |  | silluq (disjunctive) |
@@ -394,7 +394,7 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א ה�
 | 1:11.4 | הָאָ֙רֶץ֙ | הָ + אָ֨רֶץ֙ | ה: the + אֶ֫רֶץ `bdb:a.fx.aa` | particle: definite article · noun: common, both genders, singular, absolute | ארץ | pashta, pashta (disjunctive) |
 | 1:11.5 | דֶּ֗שֶׁא | דֶּ֔שֶׁא | דֶּ֫שֶׁא `bdb:d.cn.ab` | noun: common, masculine, singular, absolute | דשׁא | revia (disjunctive) |
 | 1:11.6 | עֵ֚שֶׂב | עֵ֚שֶׂב | עֵ֫שֶׂב `bdb:p.fx.ab` | noun: common, masculine, singular, absolute | עשׂב | yetiv (disjunctive) |
-| 1:11.7 | מַזְרִ֣יעַ | מַזְרִ֣יעַ | זָרַע `bdb:g.cl.aa` | verb: hifil, participle active, masculine, singular, absolute | זרע | munaḥ |
+| 1:11.7 | מַזְרִ֣יעַ | מַזְרִ֣יעַ | זָרַע `bdb:g.cl.aa` | verb: hifil, participle, masculine, singular, absolute | זרע | munaḥ |
 | 1:11.8 | זֶ֔רַע | זֶ֔רַע | זֶ֫רַע `bdb:g.cl.ab` | noun: common, masculine, singular, absolute | זרע | zaqef qaton (disjunctive) |
 | 1:11.9 | עֵ֣ץ | עֵ֣ץ | עֵץ `bdb:p.em.ab` | noun: common, masculine, singular, construct | עצה | munaḥ |
 | 1:11.10 | פְּרִ֞י | פְּרִ֞י | פְּרִי `bdb:q.cv.ab` | noun: common, masculine, singular, absolute | פרה | gershayim (disjunctive) |
@@ -511,7 +511,7 @@ Hebrew (MAM): וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שׂ�
 | 1:12.2 | הָאָ֜רֶץ | הָ + אָ֜רֶץ | ה: the + אֶ֫רֶץ `bdb:a.fx.aa` | particle: definite article · noun: common, both genders, singular, absolute | ארץ | geresh (disjunctive) |
 | 1:12.3 | דֶּ֠שֶׁא | דֶּ֠שֶׁא | דֶּ֫שֶׁא `bdb:d.cn.ab` | noun: common, masculine, singular, absolute | דשׁא | telisha gedola (disjunctive) |
 | 1:12.4 | עֵ֣שֶׂב | עֵ֣שֶׂב | עֵ֫שֶׂב `bdb:p.fx.ab` | noun: common, masculine, singular, absolute | עשׂב | munaḥ |
-| 1:12.5 | מַזְרִ֤יעַ | מַזְרִ֤יעַ | זָרַע `bdb:g.cl.aa` | verb: hifil, participle active, masculine, singular, absolute | זרע | mahpakh |
+| 1:12.5 | מַזְרִ֤יעַ | מַזְרִ֤יעַ | זָרַע `bdb:g.cl.aa` | verb: hifil, participle, masculine, singular, absolute | זרע | mahpakh |
 | 1:12.6 | זֶ֙רַע֙ | זֶ֨רַע֙ | זֶ֫רַע `bdb:g.cl.ab` | noun: common, masculine, singular, absolute | זרע | pashta, pashta (disjunctive) |
 | 1:12.7 | לְמִינֵ֔הוּ | לְ + מִינֵ֔ + הוּ | ל: to, for + מִין `bdb:m.bv.ab` +  | preposition · noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | מין | zaqef qaton (disjunctive) |
 | 1:12.8 | וְעֵ֧ץ | וְ + עֵ֧ץ | ו: and + עֵץ `bdb:p.em.ab` | conjunction · noun: common, masculine, singular, absolute | עצה | darga |

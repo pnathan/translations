@@ -15,7 +15,7 @@ Hebrew (MAM): וַיַּצְמַ֞ח יְהֹוָ֤ה אֱלֹהִים֙ מִן�
 | 2:9.5 | הָ֣אֲדָמָ֔ה | הָ֣ + אֲדָמָ֔ה | ה: the + אֲדָמָה `bdb:a.bc.ac` | particle: definite article · noun: common, feminine, singular, absolute | אדם | munaḥ, zaqef qaton (disjunctive) |
 | 2:9.6 | כׇּל־ | כָּל | כֹּל `bdb:k.bn.ab` | noun: common, masculine, singular, construct | כלל |  |
 | 2:9.7 | עֵ֛ץ | עֵ֛ץ | עֵץ `bdb:p.em.ab` | noun: common, masculine, singular, absolute | עצה | tevir (disjunctive) |
-| 2:9.8 | נֶחְמָ֥ד | נֶחְמָ֥ד | חָמַד `bdb:h.de.aa` | verb: nifal, participle active, masculine, singular, absolute | חמד | merkha |
+| 2:9.8 | נֶחְמָ֥ד | נֶחְמָ֥ד | חָמַד `bdb:h.de.aa` | verb: nifal, participle, masculine, singular, absolute | חמד | merkha |
 | 2:9.9 | לְמַרְאֶ֖ה | לְ + מַרְאֶ֖ה | ל: to, for + מַרְאֶה `bdb:t.ab.am` | preposition · noun: common, masculine, singular, absolute | ראה | tipḥa (disjunctive) |
 | 2:9.10 | וְט֣וֹב | וְ + ט֣וֹב | ו: and + טוֹב `bdb:i.ai.ab` | conjunction · adjective: adjective, masculine, singular, absolute | טוב | munaḥ |
 | 2:9.11 | לְמַאֲכָ֑ל | לְ + מַאֲכָ֑ל | ל: to, for + מַאֲכָל `bdb:a.dc.af` | preposition · noun: common, masculine, singular, absolute | אכל | etnaḥta (disjunctive) |

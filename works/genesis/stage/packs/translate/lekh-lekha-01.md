@@ -81,8 +81,8 @@ Hebrew (MAM): וַאֲבָֽרְכָה֙ מְבָ֣רְכֶ֔יךָ וּמְקַ
 | id | word | morphemes | lemmas | parse | root | accents |
 |---|---|---|---|---|---|---|
 | 12:3.1 | וַאֲבָֽרְכָה֙ | וַ + אֲבָֽרֲכָה֙ | ו: and + בָּרַךְ `bdb:b.dd.aa` | conjunction · verb: piel, imperfect (yiqtol), 1st person, common, singular | ברך | pashta (disjunctive) |
-| 12:3.2 | מְבָ֣רְכֶ֔יךָ | מְבָ֣רְכֶ֔י + ךָ | בָּרַךְ `bdb:b.dd.aa` +  | verb: piel, participle active, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | ברך | munaḥ, zaqef qaton (disjunctive) |
-| 12:3.3 | וּמְקַלֶּלְךָ֖ | וּ + מְקַלֶּלְ + ךָ֖ | ו: and + קָלַל `bdb:s.br.aa` +  | conjunction · verb: piel, participle active, masculine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | קלל | tipḥa (disjunctive) |
+| 12:3.2 | מְבָ֣רְכֶ֔יךָ | מְבָ֣רְכֶ֔י + ךָ | בָּרַךְ `bdb:b.dd.aa` +  | verb: piel, participle, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | ברך | munaḥ, zaqef qaton (disjunctive) |
+| 12:3.3 | וּמְקַלֶּלְךָ֖ | וּ + מְקַלֶּלְ + ךָ֖ | ו: and + קָלַל `bdb:s.br.aa` +  | conjunction · verb: piel, participle, masculine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | קלל | tipḥa (disjunctive) |
 | 12:3.4 | אָאֹ֑ר | אָאֹ֑ר | אָרַר `bdb:a.fy.aa` | verb: qal, imperfect (yiqtol), 1st person, common, singular | ארר | etnaḥta (disjunctive) |
 | 12:3.5 | וְנִבְרְכ֣וּ | וְ + נִבְרְכ֣וּ | ו: and + בָּרַךְ `bdb:b.dd.aa` | conjunction · verb: nifal, perfect (qatal), 3rd person, common, plural | ברך | munaḥ |
 | 12:3.6 | בְךָ֔ | בְ + ךָ֔ | ב: in, with, by +  | preposition · suffix: pronominal, 2nd person, masculine, singular |  | zaqef qaton (disjunctive) |
@@ -254,7 +254,7 @@ Hebrew (MAM): וַיֵּרָ֤א יְהֹוָה֙ אֶל־אַבְרָ֔ם וַ�
 | 12:7.12 | שָׁם֙ | שָׁם֙ | שָׁם `bdb:v.dv.aa` | adverb |  | pashta (disjunctive) |
 | 12:7.13 | מִזְבֵּ֔חַ | מִזְבֵּ֔חַ | מִזְבֵּחַ `bdb:g.ae.ad` | noun: common, masculine, singular, absolute | זבח | zaqef qaton (disjunctive) |
 | 12:7.14 | לַיהֹוָ֖ה | לַ + יהוָ֖ה | ל: to, for + יהוה `bdb:e.az.ae` | preposition · noun: proper name | הוה | tipḥa (disjunctive) |
-| 12:7.15 | הַנִּרְאֶ֥ה | הַ + נִּרְאֶ֥ה | ה: the + רָאָה `bdb:t.ab.aa` | particle: definite article · verb: nifal, participle active, masculine, singular, absolute | ראה | merkha |
+| 12:7.15 | הַנִּרְאֶ֥ה | הַ + נִּרְאֶ֥ה | ה: the + רָאָה `bdb:t.ab.aa` | particle: definite article · verb: nifal, participle, masculine, singular, absolute | ראה | merkha |
 | 12:7.16 | אֵלָֽיו׃ | אֵלָֽי + ו | אֶל `bdb:a.di.aa` +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | silluq (disjunctive) |
 
 Variants:

@@ -14,8 +14,12 @@ func TestDecode(t *testing.T) {
 		t.Errorf("morpheme 2: %q, want %q", ms[1].Parse, want)
 	}
 	_, ms = Decode("HVprfsa")
-	if want := "piel, participle active, feminine, singular, absolute"; ms[0].Parse != want {
+	if want := "piel, participle, feminine, singular, absolute"; ms[0].Parse != want {
 		t.Errorf("participle: %q, want %q", ms[0].Parse, want)
+	}
+	_, ms = Decode("HVqrmsa")
+	if want := "qal, participle active, masculine, singular, absolute"; ms[0].Parse != want {
+		t.Errorf("qal participle: %q, want %q", ms[0].Parse, want)
 	}
 	_, ms = Decode("HR/Sp2fs")
 	if ms[1].POS != "suffix" || ms[1].Parse != "pronominal, 2nd person, feminine, singular" {

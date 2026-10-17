@@ -94,7 +94,13 @@ func decodeOne(c string, stems map[byte]string) Morpheme {
 	switch c[0] {
 	case 'V':
 		at(0, stems)
-		at(1, conj)
+		// Active and passive participle differ only in the qal (and the
+		// Aramaic peal); in the other stems "r" is the participle.
+		if len(rest) > 1 && rest[1] == 'r' && rest[0] != 'q' {
+			parts = append(parts, "participle")
+		} else {
+			at(1, conj)
+		}
 		if len(rest) > 1 && (rest[1] == 'r' || rest[1] == 's') {
 			at(2, gender)
 			at(3, number)

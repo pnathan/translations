@@ -471,7 +471,7 @@ Hebrew (MAM): וַתֵּ֣רֶא הָֽאִשָּׁ֡ה כִּ֣י טוֹב֩ ה
 | 3:6.8 | תַֽאֲוָה־ | תַֽאֲוָה | תַּאֲוָה `bdb:a.bs.af` | noun: common, feminine, singular, absolute | אוה |  |
 | 3:6.9 | ה֣וּא | ה֣וּא | הוּא `bdb:e.aw.aa` | pronoun: personal, 3rd person, masculine, singular |  | munaḥ |
 | 3:6.10 | לָעֵינַ֗יִם | לָ + עֵינַ֗יִם | ל: to, for + עַ֫יִן `bdb:p.ck.aa` | preposition: with definite article · noun: common, both genders, dual, absolute | עין | revia (disjunctive) |
-| 3:6.11 | וְנֶחְמָ֤ד | וְ + נֶחְמָ֤ד | ו: and + חָמַד `bdb:h.de.aa` | conjunction · verb: nifal, participle active, masculine, singular, absolute | חמד | mahpakh |
+| 3:6.11 | וְנֶחְמָ֤ד | וְ + נֶחְמָ֤ד | ו: and + חָמַד `bdb:h.de.aa` | conjunction · verb: nifal, participle, masculine, singular, absolute | חמד | mahpakh |
 | 3:6.12 | הָעֵץ֙ | הָ + עֵץ֙ | ה: the + עֵץ `bdb:p.em.ab` | particle: definite article · noun: common, masculine, singular, absolute | עצה | pashta (disjunctive) |
 | 3:6.13 | לְהַשְׂכִּ֔יל | לְ + הַשְׂכִּ֔יל | ל: to, for + שָׂכַל `bdb:u.bi.aa` | preposition · verb: hifil, infinitive construct | שׂכל | zaqef qaton (disjunctive) |
 | 3:6.14 | וַתִּקַּ֥ח | וַ + תִּקַּ֥ח | ו: and + לָקַח `bdb:l.bx.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular | לקח | merkha |

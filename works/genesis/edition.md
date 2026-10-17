@@ -120,7 +120,7 @@ Literal: and-the-earth was desolation and-emptiness and-darkness over face-of de
 | תְה֑וֹם | the deep — תְהוֹם is a noun with no article; it is used for the primeval ocean and is a poetic word, mostly without the article. | תְּהוֹם | תהם | noun (common, both genders, singular, absolute) | 3 |
 | וְר֣וּחַ | and the wind of — רוּחַ is construct here. 'Wind' is chosen; the alternatives 'spirit' and 'breath' are recorded. | ו: and + רוּחַ | רוח | conjunction + noun (common, both genders, singular, construct) | 2 |
 | אֱלֹהִ֔ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
-| מְרַחֶ֖פֶת | hovering — Piel feminine singular participle, agreeing with רוּחַ, which is feminine. The verb is used of an eagle over its young in Deut 32:11. | רָחַף | רחף | verb (piel, participle active, feminine, singular, absolute) | Pi |
+| מְרַחֶ֖פֶת | hovering — Piel feminine singular participle, agreeing with רוּחַ, which is feminine. The verb is used of an eagle over its young in Deut 32:11. | רָחַף | רחף | verb (piel, participle, feminine, singular, absolute) | Pi |
 | עַל | over | עַל | עלה | preposition | II.1 |
 | פְּנֵ֥י | the face of | פָּנֶה | פנה | noun (common, both genders, plural, construct) | I.5 |
 | הַמָּֽיִם׃ | the waters — מַיִם is plural in form only and always takes plural agreement; the pack lists no senses. | ה: the + מַי |  | particle (definite article) + noun (common, masculine, plural, absolute) |  |
@@ -298,7 +298,7 @@ Literal: and-said God let-be expanse in-midst-of the-waters and-let-be dividing 
 | בְּת֣וֹךְ | in the midst of — construct: בְּ + תּוֹךְ | ב: in, with, by + תָּ֫וֶךְ |  | preposition + noun (common, masculine, singular, construct) |  |
 | הַמָּ֑יִם | the waters — plural noun, no singular | ה: the + מַי |  | particle (definite article) + noun (common, masculine, plural, absolute) |  |
 | וִיהִ֣י | and let it be — yiqtol after a jussive carries the jussive force | ו: and + הָיָה | היה | conjunction + verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal III |
-| מַבְדִּ֔יל | dividing — participle: a continuing function | בָּדַל | בדל | verb (hifil, participle active, masculine, singular, absolute) | Hiph 1 |
+| מַבְדִּ֔יל | dividing — participle: a continuing function | בָּדַל | בדל | verb (hifil, participle, masculine, singular, absolute) | Hiph 1 |
 | בֵּ֥ין | between | בֵּין | בין | preposition | 1 |
 | מַ֖יִם | water | מַי |  | noun (common, masculine, plural, absolute) |  |
 | לָמָֽיִם׃ | to water — בֵּין ... לְ idiom: 'between X and Y' | ל: to, for + מַי |  | preposition + noun (common, masculine, plural, absolute) |  |
@@ -505,7 +505,7 @@ Literal: and-said God let-sprout the-earth sprouting herb yielding seed tree-of 
 | הָאָ֙רֶץ֙ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
 | דֶּ֗שֶׁא | green growth — דֶּשֶׁא: a cognate accusative of תַּדְשֵׁא | דֶּ֫שֶׁא | דשׁא | noun (common, masculine, singular, absolute) |  |
 | עֵ֚שֶׂב | plants — עֵשֶׂב: herbage in separate kinds | עֵ֫שֶׂב | עשׂב | noun (common, masculine, singular, absolute) |  |
-| מַזְרִ֣יעַ | yielding — Hifil participle | זָרַע | זרע | verb (hifil, participle active, masculine, singular, absolute) | Hiph 1 |
+| מַזְרִ֣יעַ | yielding — Hifil participle | זָרַע | זרע | verb (hifil, participle, masculine, singular, absolute) | Hiph 1 |
 | זֶ֔רַע | seed | זֶ֫רַע | זרע | noun (common, masculine, singular, absolute) | 2 |
 | עֵ֣ץ | tree of — construct | עֵץ | עצה | noun (common, masculine, singular, construct) | 1.a |
 | פְּרִ֞י | fruit | פְּרִי | פרה | noun (common, masculine, singular, absolute) | 1 |
@@ -554,7 +554,7 @@ Literal: and-brought-forth the-earth sprouting herb yielding seed to-its-kind an
 | הָאָ֜רֶץ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
 | דֶּ֠שֶׁא | green growth | דֶּ֫שֶׁא | דשׁא | noun (common, masculine, singular, absolute) |  |
 | עֵ֣שֶׂב | plants | עֵ֫שֶׂב | עשׂב | noun (common, masculine, singular, absolute) |  |
-| מַזְרִ֤יעַ | yielding | זָרַע | זרע | verb (hifil, participle active, masculine, singular, absolute) | Hiph 1 |
+| מַזְרִ֤יעַ | yielding | זָרַע | זרע | verb (hifil, participle, masculine, singular, absolute) | Hiph 1 |
 | זֶ֙רַע֙ | seed | זֶ֫רַע | זרע | noun (common, masculine, singular, absolute) | 2 |
 | לְמִינֵ֔הוּ | to its kind — form לְמִינֵהוּ, a longer suffix than in 1:11 | ל: to, for + מִין | מין | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
 | וְעֵ֧ץ | and tree | ו: and + עֵץ | עצה | conjunction + noun (common, masculine, singular, absolute) | 1.a |
@@ -1810,7 +1810,7 @@ Literal: and-made-grow the-LORD God from-the-ground every-of tree desirable for-
 | הָ֣אֲדָמָ֔ה | the ground — אֲדָמָה, the soil from which the human was formed (2:7) | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
 | כׇּל | every — construct; כָּל־ binds to the next word | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
 | עֵ֛ץ | tree — collective-singular use: 'every tree' | עֵץ | עצה | noun (common, masculine, singular, absolute) | 1.a |
-| נֶחְמָ֥ד | desirable — Niphal participle of חמד: 'to be desired' | חָמַד | חמד | verb (nifal, participle active, masculine, singular, absolute) | Niph |
+| נֶחְמָ֥ד | desirable — Niphal participle of חמד: 'to be desired' | חָמַד | חמד | verb (nifal, participle, masculine, singular, absolute) | Niph |
 | לְמַרְאֶ֖ה | to look at — לְ + מַרְאֶה: literally 'for sight' | ל: to, for + מַרְאֶה | ראה | preposition + noun (common, masculine, singular, absolute) | 1.b |
 | וְט֣וֹב | and good | ו: and + טוֹב | טוב | conjunction + adjective (adjective, masculine, singular, absolute) | 1 |
 | לְמַאֲכָ֑ל | for food — מַאֲכָל, 'something to eat' | ל: to, for + מַאֲכָל | אכל | preposition + noun (common, masculine, singular, absolute) |  |
@@ -2788,7 +2788,7 @@ Literal: and-saw the-woman that good the-tree for-food and-that desire it to-the
 | תַֽאֲוָה | a delight — תַאֲוָה 'desire, a thing desired'; with maqqef to הוּא | תַּאֲוָה | אוה | noun (common, feminine, singular, absolute) | 2 |
 | ה֣וּא | it — the pronoun הוּא works as the copula: 'it is' | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
 | לָעֵינַ֗יִם | to the eyes — dual of עַיִן with the article and ל: 'to the eyes' | ל: to, for + עַ֫יִן | עין | preposition (with definite article) + noun (common, both genders, dual, absolute) |  |
-| וְנֶחְמָ֤ד | and desirable — Niphal participle of חמד: 'to be desired' | ו: and + חָמַד | חמד | conjunction + verb (nifal, participle active, masculine, singular, absolute) | Niph |
+| וְנֶחְמָ֤ד | and desirable — Niphal participle of חמד: 'to be desired' | ו: and + חָמַד | חמד | conjunction + verb (nifal, participle, masculine, singular, absolute) | Niph |
 | הָעֵץ֙ | the tree | ה: the + עֵץ | עצה | particle (definite article) + noun (common, masculine, singular, absolute) | 1.a |
 | לְהַשְׂכִּ֔יל | for gaining insight — Hiphil infinitive construct of שׂכל: 'to have insight' (intransitive) or 'to make wise' (transitive) | ל: to, for + שָׂכַל | שׂכל | preposition + verb (hifil, infinitive construct) | Hiph 3 |
 | וַתִּקַּ֥ח | and she took — wayyiqtol of לקח | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
@@ -2898,7 +2898,7 @@ Literal: and-they-heard [object-marker] sound-of LORD God walking-about in-the-g
 | ק֨וֹל | the sound of — construct state | קוֹל | קול | noun (common, masculine, singular, construct) |  |
 | יְהֹוָ֧ה | the LORD | יהוה | הוה | noun (proper name) |  |
 | אֱלֹהִ֛ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
-| מִתְהַלֵּ֥ךְ | walking about — hitpael participle: habitual or continuous walking to and fro; the antecedent may be the sound or the LORD God | הָלַךְ | הלך | verb (hitpael, participle active, masculine, singular, absolute) | Hithp |
+| מִתְהַלֵּ֥ךְ | walking about — hitpael participle: habitual or continuous walking to and fro; the antecedent may be the sound or the LORD God | הָלַךְ | הלך | verb (hitpael, participle, masculine, singular, absolute) | Hithp |
 | בַּגָּ֖ן | in the garden | ב: in, with, by + גַּן | גנן | preposition (with definite article) + noun (common, both genders, singular, absolute) |  |
 | לְר֣וּחַ | at the breeze of — construct; לְ here 'toward, at' | ל: to, for + רוּחַ | רוח | preposition + noun (common, both genders, singular, construct) | 2 |
 | הַיּ֑וֹם | the day | ה: the + יוֹם |  | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
@@ -3662,7 +3662,7 @@ Literal: and-drove-out [obj] the-human and-stationed from-east to-garden-of Eden
 | וְאֵ֨ת | and (object marker) — the object marker is repeated for the second object | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
 | לַ֤הַט | the flame of — construct | לַ֫הַט | להט | noun (common, masculine, singular, construct) |  |
 | הַחֶ֙רֶב֙ | the sword — feminine noun; the participle that follows agrees | ה: the + חֶ֫רֶב | חרב | particle (definite article) + noun (common, feminine, singular, absolute) |  |
-| הַמִּתְהַפֶּ֔כֶת | the turning — Hithpael participle, feminine singular, agreeing with חֶרֶב: 'turning itself'. Ibn Ezra: it has two edges; Radak: it turns to and fro to frighten. | ה: the + הָפַךְ | הפך | particle (definite article) + verb (hitpael, participle active, feminine, singular, absolute) | Hithp 1 |
+| הַמִּתְהַפֶּ֔כֶת | the turning — Hithpael participle, feminine singular, agreeing with חֶרֶב: 'turning itself'. Ibn Ezra: it has two edges; Radak: it turns to and fro to frighten. | ה: the + הָפַךְ | הפך | particle (definite article) + verb (hitpael, participle, feminine, singular, absolute) | Hithp 1 |
 | לִשְׁמֹ֕ר | to guard — infinitive construct with ל; purpose | ל: to, for + שָׁמַר | שׁמר | preposition + verb (qal, infinitive construct) | Qal 1.b |
 | אֶת | - — direct object marker | אֵת | אות | particle (direct object marker) |  |
 | דֶּ֖רֶךְ | the way of — construct | דֶּ֫רֶךְ | דרך | noun (common, both genders, singular, construct) | 1 |
@@ -6653,7 +6653,7 @@ Literal: and-said God to-Noah end-of all-of flesh has-come to-before-me for has-
 | חָמָ֖ס | violence | חָמָס | חמס | noun (common, masculine, singular, absolute) |  |
 | מִפְּנֵיהֶ֑ם | because of them — literally 'from before them' | מ: from, than + פָּנֶה | פנה | preposition + noun (common, both genders, plural, construct) + suffix (pronominal, 3rd person, masculine, plural) | I.6 |
 | וְהִנְנִ֥י | and now I am — וְהִנְנִי: 'and behold I', the participle that follows expresses what is about to happen | ו: and + הֵן |  | conjunction + particle (interjection) + suffix (pronominal, 1st person, common, singular) |  |
-| מַשְׁחִיתָ֖ם | about to destroy them — participle with suffix: imminent action | שָׁחַת | שׁחת | verb (hifil, participle active, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, plural) | Hiph 1 |
+| מַשְׁחִיתָ֖ם | about to destroy them — participle with suffix: imminent action | שָׁחַת | שׁחת | verb (hifil, participle, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, plural) | Hiph 1 |
 | אֶת | with — אֶת here is read as 'with' (or 'from'); see note | אֵת |  | preposition | 1 |
 | הָאָֽרֶץ׃ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
 
@@ -6844,7 +6844,7 @@ Literal: and-I behold-I bringing [obj]-the-flood waters upon the-earth to-destro
 |---|---|---|---|---|---|
 | וַאֲנִ֗י | and as for me — וַאֲנִי: emphatic pronoun, 'and I, for my part' | ו: and + אֲנִי |  | conjunction + pronoun (personal, 1st person, common, singular) |  |
 | הִנְנִי֩ | behold, I am — הִנְנִי with a participle: imminent action | הִנֵּה |  | particle (demonstrative) + suffix (pronominal, 1st person, common, singular) |  |
-| מֵבִ֨יא | bringing — participle | בּוֹא | בוא | verb (hifil, participle active, masculine, singular, absolute) | Hiph 2 |
+| מֵבִ֨יא | bringing — participle | בּוֹא | בוא | verb (hifil, participle, masculine, singular, absolute) | Hiph 2 |
 | אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
 | הַמַּבּ֥וּל | the flood — הַמַּבּוּל: the flood, used only of this event in Genesis | ה: the + מַבּוּל |  | particle (definite article) + noun (common, masculine, singular, absolute) |  |
 | מַ֙יִם֙ | waters — מַיִם: in apposition to the flood, or 'flood of waters' | מַי |  | noun (common, masculine, plural, absolute) |  |
@@ -7253,7 +7253,7 @@ Literal: for to-days still seven I causing-rain upon the-earth forty day and-for
 | ע֜וֹד | still, more | עוֹד | עוד | adverb |  |
 | שִׁבְעָ֗ה | seven | שֶׁ֫בַע | שׁבע | adjective (cardinal number, masculine, singular, absolute) |  |
 | אָֽנֹכִי֙ | I | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
-| מַמְטִ֣יר | am about to make it rain — Hiphil participle: imminent future | מָטַר | מטר | verb (hifil, participle active, masculine, singular, absolute) | Hiph |
+| מַמְטִ֣יר | am about to make it rain — Hiphil participle: imminent future | מָטַר | מטר | verb (hifil, participle, masculine, singular, absolute) | Hiph |
 | עַל | on | עַל | עלה | preposition |  |
 | הָאָ֔רֶץ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
 | אַרְבָּעִ֣ים | forty | אַרְבָּעִים | רבע | adjective (cardinal number, both genders, plural, absolute) |  |
@@ -9377,7 +9377,7 @@ Literal: and-I behold-me establishing [object-marker] covenant-of-me with-you an
 |---|---|---|---|---|---|
 | וַאֲנִ֕י | and I — וַאֲנִי: emphatic independent pronoun with ו | ו: and + אֲנִי |  | conjunction + pronoun (personal, 1st person, common, singular) |  |
 | הִנְנִ֥י | here I am — הִנְנִי = הִנֵּה + I; with the participle, an imminent or present act | הֵן |  | particle (interjection) + suffix (pronominal, 1st person, common, singular) |  |
-| מֵקִ֛ים | establishing — hifil participle of קום: 'cause to stand', i.e. confirm | קוּם | קום | verb (hifil, participle active, masculine, singular, absolute) | Hiph 6 |
+| מֵקִ֛ים | establishing — hifil participle of קום: 'cause to stand', i.e. confirm | קוּם | קום | verb (hifil, participle, masculine, singular, absolute) | Hiph 6 |
 | אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
 | בְּרִיתִ֖י | my covenant | בְּרִית | ברה | noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) | II.2 |
 | אִתְּכֶ֑ם | with you — אִתְּכֶם, plural | אֵת |  | preposition + suffix (pronominal, 2nd person, masculine, plural) | 1 |
@@ -12742,8 +12742,8 @@ Literal: and-I-will-bless those-who-bless-you and-the-one-who-curses-you I-will-
 | word | gloss | lemma | root | parse | sense |
 |---|---|---|---|---|---|
 | וַאֲבָֽרְכָה֙ | and I will bless — Piel imperfect, 1st person, with the vav of continuation; the pack's base vocalisation וַאֲבָֽרְכָה is noted in the variants (WLC: וַאֲבָֽרֲכָה) | ו: and + בָּרַךְ | ברך | conjunction + verb (piel, imperfect (yiqtol), 1st person, common, singular) | Pi 2 |
-| מְבָ֣רְכֶ֔יךָ | those who bless you — Piel active participle, masculine PLURAL, construct with a suffix: 'blessers of you'. Ibn Ezra notes that it is plural. | בָּרַךְ | ברך | verb (piel, participle active, masculine, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | Pi 3 |
-| וּמְקַלֶּלְךָ֖ | and the one who curses you — Piel participle, masculine SINGULAR, construct with a suffix; Ibn Ezra and Radak note that it is singular, because those who curse him will be few | ו: and + קָלַל | קלל | conjunction + verb (piel, participle active, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | Pi |
+| מְבָ֣רְכֶ֔יךָ | those who bless you — Piel active participle, masculine PLURAL, construct with a suffix: 'blessers of you'. Ibn Ezra notes that it is plural. | בָּרַךְ | ברך | verb (piel, participle, masculine, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | Pi 3 |
+| וּמְקַלֶּלְךָ֖ | and the one who curses you — Piel participle, masculine SINGULAR, construct with a suffix; Ibn Ezra and Radak note that it is singular, because those who curse him will be few | ו: and + קָלַל | קלל | conjunction + verb (piel, participle, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | Pi |
 | אָאֹ֑ר | I will curse — Qal imperfect 1st person singular of the geminate (doubled-letter) root ארר. The preformative א has qamets, as in geminate verbs (compare יָסֹב), and is followed by the root's first letter א with ḥolem; the doubled ר is written once. אָרַר is a different and stronger verb than קלל; the English has 'curse' for both. | אָרַר | ארר | verb (qal, imperfect (yiqtol), 1st person, common, singular) | Qal |
 | וְנִבְרְכ֣וּ | and will bless themselves — Niphal perfect with vav (a weqatal continuing the promise): reflexive 'bless oneself', in the pack's Niph sense; some read it as passive, 'be blessed' | ו: and + בָּרַךְ | ברך | conjunction + verb (nifal, perfect (qatal), 3rd person, common, plural) | Niph |
 | בְךָ֔ | by you — בְּ + suffix: 'by you', 'in you'; the preposition marks the person whose name will be used as the blessing | ב: in, with, by |  | preposition + suffix (pronominal, 2nd person, masculine, singular) |  |
@@ -12957,7 +12957,7 @@ Literal: and-appeared the-LORD to-Abram and-said to-seed-of-you I-will-give acc.
 | שָׁם֙ | there | שָׁם |  | adverb |  |
 | מִזְבֵּ֔חַ | an altar | מִזְבֵּחַ | זבח | noun (common, masculine, singular, absolute) |  |
 | לַיהֹוָ֖ה | to the LORD | ל: to, for + יהוה | הוה | preposition + noun (proper name) |  |
-| הַנִּרְאֶ֥ה | who had appeared — Niphal participle with the article, used as a relative clause 'the one who appeared'; Ibn Ezra compares 'what was being made' (Neh. 5:18) | ה: the + רָאָה | ראה | particle (definite article) + verb (nifal, participle active, masculine, singular, absolute) | Niph 1 |
+| הַנִּרְאֶ֥ה | who had appeared — Niphal participle with the article, used as a relative clause 'the one who appeared'; Ibn Ezra compares 'what was being made' (Neh. 5:18) | ה: the + רָאָה | ראה | particle (definite article) + verb (nifal, participle, masculine, singular, absolute) | Niph 1 |
 | אֵלָֽיו׃ | to him | אֶל |  | preposition + suffix (pronominal, 3rd person, masculine, singular) | 1 |
 
 Grammar:
@@ -14801,7 +14801,7 @@ Literal: and-valley-of the-Siddim pits-of pits-of bitumen and-fled king-of Sodom
 | וַעֲמֹרָ֖ה | and Gomorrah | ו: and + עֲמֹרָה |  | conjunction + noun (proper name) |  |
 | וַיִּפְּלוּ | and fell — wayyiqtol plural | ו: and + נָפַל | נפל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
 | שָׁ֑מָּה | there — שָׁמָּה: שָׁם with the directional he, 'thither', here equal to 'there' | שָׁם |  | adverb + suffix (directional he) |  |
-| וְהַנִּשְׁאָרִ֖ים | and the survivors — Niphal participle with article | ו: and + ה: the + שָׁאַר | שׁאר | conjunction + particle (definite article) + verb (nifal, participle active, masculine, plural, absolute) | Niph 1 |
+| וְהַנִּשְׁאָרִ֖ים | and the survivors — Niphal participle with article | ו: and + ה: the + שָׁאַר | שׁאר | conjunction + particle (definite article) + verb (nifal, participle, masculine, plural, absolute) | Niph 1 |
 | הֶ֥רָה | to the hills — הֶרָה: הַר with directional he, without the article | הַר | הרר | noun (common, masculine, singular, absolute) + suffix (directional he) | 1 |
 | נָּֽסוּ׃ | fled — perfect, after a fronted subject | נוּס | נוס | verb (qal, perfect (qatal), 3rd person, common, plural) | Qal 1 |
 

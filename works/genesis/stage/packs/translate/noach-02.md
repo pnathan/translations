@@ -22,7 +22,7 @@ Hebrew (MAM): וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כ
 | 6:13.12 | חָמָ֖ס | חָמָ֖ס | חָמָס `bdb:h.dj.ab` | noun: common, masculine, singular, absolute | חמס | tipḥa (disjunctive) |
 | 6:13.13 | מִפְּנֵיהֶ֑ם | מִ + פְּנֵי + הֶ֑ם | מ: from, than + פָּנֶה `bdb:q.bu.ab` +  | preposition · noun: common, both genders, plural, construct · suffix: pronominal, 3rd person, masculine, plural | פנה | etnaḥta (disjunctive) |
 | 6:13.14 | וְהִנְנִ֥י | וְ + הִנְ + נִ֥י | ו: and + הֵן `bdb:e.bz.aa` +  | conjunction · particle: interjection · suffix: pronominal, 1st person, common, singular |  | merkha |
-| 6:13.15 | מַשְׁחִיתָ֖ם | מַשְׁחִיתָ֖ + ם | שָׁחַת `bdb:v.cq.aa` +  | verb: hifil, participle active, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, plural | שׁחת | tipḥa (disjunctive) |
+| 6:13.15 | מַשְׁחִיתָ֖ם | מַשְׁחִיתָ֖ + ם | שָׁחַת `bdb:v.cq.aa` +  | verb: hifil, participle, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, plural | שׁחת | tipḥa (disjunctive) |
 | 6:13.16 | אֶת־ | אֶת | אֵת `bdb:a.gn.aa` | preposition |  |  |
 | 6:13.17 | הָאָֽרֶץ׃ | הָ + אָֽרֶץ | ה: the + אֶ֫רֶץ `bdb:a.fx.aa` | particle: definite article · noun: common, both genders, singular, absolute | ארץ | silluq (disjunctive) |
 
@@ -174,7 +174,7 @@ Hebrew (MAM): וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת־הַמּ�
 |---|---|---|---|---|---|---|
 | 6:17.1 | וַאֲנִ֗י | וַ + אֲנִ֗י | ו: and + אֲנִי `bdb:a.eg.aa` | conjunction · pronoun: personal, 1st person, common, singular |  | revia (disjunctive) |
 | 6:17.2 | הִנְנִי֩ | הִנְ + נִי֩ | הִנֵּה `bdb:e.bz.ab` +  | particle: demonstrative · suffix: pronominal, 1st person, common, singular |  | telisha qetana |
-| 6:17.3 | מֵבִ֨יא | מֵבִ֨יא | בּוֹא `bdb:b.ap.aa` | verb: hifil, participle active, masculine, singular, absolute | בוא | qadma |
+| 6:17.3 | מֵבִ֨יא | מֵבִ֨יא | בּוֹא `bdb:b.ap.aa` | verb: hifil, participle, masculine, singular, absolute | בוא | qadma |
 | 6:17.4 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
 | 6:17.5 | הַמַּבּ֥וּל | הַ + מַּבּ֥וּל | ה: the + מַבּוּל `bdb:m.ai.ag` | particle: definite article · noun: common, masculine, singular, absolute |  | merkha |
 | 6:17.6 | מַ֙יִם֙ | מַ֨יִם֙ | מַי `bdb:m.bt.aa` | noun: common, masculine, plural, absolute |  | pashta, pashta (disjunctive) |

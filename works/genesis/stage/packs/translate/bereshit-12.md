@@ -102,7 +102,7 @@ Paragraph mark after this verse: ס
 | 3:24.10 | וְאֵ֨ת | וְ + אֵ֨ת | ו: and + אֵת `bdb:a.gm.aa` | conjunction · particle: direct object marker | אות | qadma |
 | 3:24.11 | לַ֤הַט | לַ֤הַט | לַ֫הַט `bdb:l.ap.ab` | noun: common, masculine, singular, construct | להט | mahpakh |
 | 3:24.12 | הַחֶ֙רֶב֙ | הַ + חֶ֨רֶב֙ | ה: the + חֶ֫רֶב `bdb:h.fk.ab` | particle: definite article · noun: common, feminine, singular, absolute | חרב | pashta, pashta (disjunctive) |
-| 3:24.13 | הַמִּתְהַפֶּ֔כֶת | הַ + מִּתְהַפֶּ֔כֶת | ה: the + הָפַךְ `bdb:e.cb.aa` | particle: definite article · verb: hitpael, participle active, feminine, singular, absolute | הפך | zaqef qaton (disjunctive) |
+| 3:24.13 | הַמִּתְהַפֶּ֔כֶת | הַ + מִּתְהַפֶּ֔כֶת | ה: the + הָפַךְ `bdb:e.cb.aa` | particle: definite article · verb: hitpael, participle, feminine, singular, absolute | הפך | zaqef qaton (disjunctive) |
 | 3:24.14 | לִשְׁמֹ֕ר | לִ + שְׁמֹ֕ר | ל: to, for + שָׁמַר `bdb:v.ef.aa` | preposition · verb: qal, infinitive construct | שׁמר | zaqef gadol (disjunctive) |
 | 3:24.15 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
 | 3:24.16 | דֶּ֖רֶךְ | דֶּ֖רֶךְ | דֶּ֫רֶךְ `bdb:d.ci.ab` | noun: common, both genders, singular, construct | דרך | tipḥa (disjunctive) |
