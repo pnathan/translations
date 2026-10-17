@@ -1,6 +1,6 @@
 # Translation pack: genesis bereshit-04 (Genesis 1:20–1:23)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/bereshit-04.json`. Check: `go run ./cmd/tr check genesis bereshit-04`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/bereshit-04.json`. Check: `go run ./cmd/tr check genesis bereshit-04`.
 
 ## Genesis 1:20
 

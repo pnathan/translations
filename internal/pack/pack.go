@@ -228,7 +228,11 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 			continue
 		}
 		var b strings.Builder
+		// The translation pack names the edition's path, whatever the variant.
+		v := llm.Variant
+		llm.Variant = ""
 		header(&b, cfg, u, "Translation", "briefs/translate.md", rel(llm.TranslationPath(cfg, u.ID)))
+		llm.Variant = v
 		for _, r := range u.Refs {
 			writeSegment(&b, cfg, c, c.Segment(r), anchors, secondaryLimit, true)
 		}

@@ -1,6 +1,6 @@
 # Translation pack: genesis noach-12 (Genesis 9:24–9:29)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/noach-12.json`. Check: `go run ./cmd/tr check genesis noach-12`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/noach-12.json`. Check: `go run ./cmd/tr check genesis noach-12`.
 
 ## Genesis 9:24
 

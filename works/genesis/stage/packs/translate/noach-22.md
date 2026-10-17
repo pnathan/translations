@@ -1,6 +1,6 @@
 # Translation pack: genesis noach-22 (Genesis 11:22–11:25)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/noach-22.json`. Check: `go run ./cmd/tr check genesis noach-22`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/noach-22.json`. Check: `go run ./cmd/tr check genesis noach-22`.
 
 ## Genesis 11:22
 

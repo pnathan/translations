@@ -1,6 +1,6 @@
 # Translation pack: genesis noach-02 (Genesis 6:13–6:20)
 
-Brief: `briefs/translate.md`. Write: `works/genesis/stage/alt/sonnet/translate/noach-02.json`. Check: `go run ./cmd/tr check genesis noach-02`.
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/noach-02.json`. Check: `go run ./cmd/tr check genesis noach-02`.
 
 ## Genesis 6:13
 

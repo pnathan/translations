@@ -1,7 +1,7 @@
 {
  "unit": "bereshit-01",
  "model": "opus",
- "summary": "The translation is careful in its parsing and accounts for every word, but it misreads the normative commentators at three points that bear on the English: 'unformed' and 'the spirit of God' in 1:2, where Rashi and Ibn Ezra agree on desolation and on moving air (breath, wind), and 'fitting' in 1:4, where Rashi keeps 'good'. It also claims both Rashi and Ibn Ezra for its syntax, though Ibn Ezra makes 1:2 the main clause and Rashi 1:3; the English is patched to carry Rashi's sentence from 1:1 to 1:3, and several summaries (ibn-ezra:1:1:5, 1:2:1, 1:2:3, 1:5:3; ramban:1:5:2) are corrected. Token-level faults could not be patched, because the pipeline splits token:<id>.<field> at the first dot and every token id contains one: 1:2.3 sense should be 2, 1:2.9 gloss 'and the wind of' with sense 2, 1:4.6 gloss 'good' with sense 3, 1:5.12 gloss 'day' (not 'one day'), 1:1.2 gloss 'created'; the segment notes and grammar now carry the correct senses.",
+ "summary": "The translation is careful in its parsing and accounts for every word, but it misreads the normative commentators at three points that bear on the English: 'unformed' and 'the spirit of God' in 1:2, where Rashi and Ibn Ezra agree on desolation and on moving air (breath, wind), and 'fitting' in 1:4, where Rashi keeps 'good'. It also claims both Rashi and Ibn Ezra for its syntax, though Ibn Ezra makes 1:2 the main clause and Rashi 1:3; the English is patched to carry Rashi's sentence from 1:1 to 1:3. Several commentary summaries (ibn-ezra:1:1:5, 1:2:1, 1:2:3, 1:5:3; ramban:1:5:2), the accent note on 1:1 and the token senses for תֹהוּ, רוּחַ and טוֹב are corrected.",
  "patches": [
   {
    "ref": "1:1",
@@ -396,6 +396,97 @@
    ],
    "severity": "error",
    "reason": "The apparatus gives only the turn of the sphere and leaves out Ibn Ezra's 'of one day'."
+  },
+  {
+   "ref": "1:1",
+   "path": "token:1:1.2.gloss",
+   "value": "created",
+   "severity": "style",
+   "reason": "The verb is a qatal; the literal line has 'created'. Rashi reads it as if an infinitive (כמו בראשית ברא), which the note gives."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.3.gloss",
+   "value": "desolation",
+   "severity": "error",
+   "reason": "Rashi (שִׁמָּמוֹן) and Ibn Ezra (waste, no substance) agree against 'formlessness'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.3.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 2 'empty, unreal' is the sense both normative commentators give; sense 1 'formlessness' is not."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.3.note",
+   "value": "Nominal predicate. Rashi: desolation and astonishment; Ibn Ezra: waste, a thing with no substance (commentary).",
+   "severity": "error",
+   "reason": "The note sets Rashi against the gloss; with the corrected gloss both commentators agree."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.8.note",
+   "value": "No article, as a name-like word. Usually feminine, also masculine (Radak). Rashi identifies the deep with the waters on the earth; the English keeps 'the deep'.",
+   "severity": "error",
+   "reason": "'Feminine noun' is too narrow: the parse gives both genders, and Radak cites the masculine at Ps 42:8."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.9.gloss",
+   "value": "and the wind of",
+   "severity": "error",
+   "reason": "Rashi (breath of God's mouth) and Ibn Ezra (wind) agree on moving air against 'spirit'."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.9.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 2 'wind', with Ibn Ezra; sense 9 'spirit of God' is against both normative commentators."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.9.note",
+   "value": "Construct: 'wind of' + God. Ibn Ezra: a wind, God's messenger; Rashi: the breath of God's mouth (apparatus).",
+   "severity": "error",
+   "reason": "Follows the corrected gloss."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.6.gloss",
+   "value": "good",
+   "severity": "error",
+   "reason": "Rashi's plain sense keeps 'good'; 'fitting' misreads his אֵין נָאֶה."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.6.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Sense 3 'good, excellent' is the ordinary sense Rashi keeps; sense 5 rests on the misreading."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.6.note",
+   "value": "The adjective טוֹב, predicate of the כִּי clause. Rashi keeps 'good'; his אֵין נָאֶה ('not fitting') is said of light and darkness mixed together.",
+   "severity": "error",
+   "reason": "The note gives 'fitting' as Rashi's reading of טוֹב."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.5.note",
+   "value": "Introduces the clause that says what God saw of the light: 'that it was good'. No copula is written.",
+   "severity": "error",
+   "reason": "The note quotes the old English 'that it was fitting'."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.12.gloss",
+   "value": "day",
+   "severity": "error",
+   "reason": "The gloss 'one day' doubles the next token; יוֹם alone is 'day', and 1:5.13 has 'one'."
   }
  ],
  "verdicts": [

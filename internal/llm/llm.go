@@ -132,7 +132,9 @@ func LoadMorph(cfg *work.Config) (map[string]corpus.Analysis, map[string]string,
 	for _, f := range files {
 		var mu MorphUnit
 		if err := corpus.ReadJSON(f, &mu); err != nil {
-			return nil, nil, err
+			// A file an agent is still writing: leave the unit without morphology.
+			fmt.Fprintf(os.Stderr, "skip %s: %v\n", f, err)
+			continue
 		}
 		for _, a := range mu.Tokens {
 			out[a.ID] = a

@@ -1,0 +1,1379 @@
+{
+ "unit": "bereshit-12",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "3:22",
+   "english": "The LORD God said, \"Look, the human has become like one of us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever.\"",
+   "literal": "and-said the-LORD God lo the-human has-become like-one-of from-us to-know good and-evil and-now lest he-sends his-hand and-takes also from-tree-of the-life and-eats and-lives for-ever",
+   "tokens": [
+    {
+     "id": "3:22.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "3:22.2",
+     "gloss": "the LORD",
+     "note": "יְהוָה, written יְהֹוָה in the text; rendered 'the LORD' by the edition's decision"
+    },
+    {
+     "id": "3:22.3",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "3:22.4",
+     "gloss": "look",
+     "note": "הֵן draws attention to what follows"
+    },
+    {
+     "id": "3:22.5",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "with the article: the human, not the proper name"
+    },
+    {
+     "id": "3:22.6",
+     "gloss": "has become",
+     "sense": "Qal II.2",
+     "note": "qatal of הָיָה, 'has become', a state now reached"
+    },
+    {
+     "id": "3:22.7",
+     "gloss": "like one of",
+     "sense": "1",
+     "note": "כְּאַחַד: the pataḥ form is construct (Ibn Ezra)"
+    },
+    {
+     "id": "3:22.8",
+     "gloss": "of us",
+     "sense": "1.a",
+     "note": "partitive מִן with 1st plural suffix; the nun is doubled (Ibn Ezra)"
+    },
+    {
+     "id": "3:22.9",
+     "gloss": "to know",
+     "sense": "Qal 1.a",
+     "note": "infinitive construct with ל: 'in knowing', 'knowing'"
+    },
+    {
+     "id": "3:22.10",
+     "gloss": "good",
+     "sense": "4"
+    },
+    {
+     "id": "3:22.11",
+     "gloss": "and evil",
+     "sense": "3"
+    },
+    {
+     "id": "3:22.12",
+     "gloss": "and now"
+    },
+    {
+     "id": "3:22.13",
+     "gloss": "lest",
+     "note": "פֶּן introduces a feared outcome; here no main clause follows"
+    },
+    {
+     "id": "3:22.14",
+     "gloss": "he reach out",
+     "sense": "Qal 3",
+     "note": "'stretch out' with the object יָד"
+    },
+    {
+     "id": "3:22.15",
+     "gloss": "his hand",
+     "sense": "1"
+    },
+    {
+     "id": "3:22.16",
+     "gloss": "and take",
+     "sense": "Qal 1",
+     "note": "weqatal continuing the feared sequence"
+    },
+    {
+     "id": "3:22.17",
+     "gloss": "also"
+    },
+    {
+     "id": "3:22.18",
+     "gloss": "from the tree of",
+     "sense": "1.a",
+     "note": "construct"
+    },
+    {
+     "id": "3:22.19",
+     "gloss": "life",
+     "sense": "1",
+     "note": "חַיִּים is plural in form, singular in sense"
+    },
+    {
+     "id": "3:22.20",
+     "gloss": "and eat",
+     "sense": "Qal 1",
+     "note": "weqatal"
+    },
+    {
+     "id": "3:22.21",
+     "gloss": "and live",
+     "sense": "Qal 1",
+     "note": "weqatal; lemma חָיַי is a by-form of חָיָה"
+    },
+    {
+     "id": "3:22.22",
+     "gloss": "forever",
+     "note": "לְעוֹלָם"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:22.1",
+      "3:22.2",
+      "3:22.3"
+     ],
+     "english": "The LORD God said",
+     "literal": "'and-said the-LORD God'"
+    },
+    {
+     "tokens": [
+      "3:22.4"
+     ],
+     "english": "Look",
+     "literal": "lo"
+    },
+    {
+     "tokens": [
+      "3:22.5",
+      "3:22.6"
+     ],
+     "english": "the human has become",
+     "literal": "'the-human has-been'; perfect in the sense of a state reached"
+    },
+    {
+     "tokens": [
+      "3:22.7",
+      "3:22.8"
+     ],
+     "english": "like one of us",
+     "literal": "'like-one from-us'; mimmennu is partitive, 'one of us'"
+    },
+    {
+     "tokens": [
+      "3:22.9",
+      "3:22.10",
+      "3:22.11"
+     ],
+     "english": "knowing good and evil",
+     "literal": "'to-know good and-evil'; the infinitive gives the respect in which he is like one of us"
+    },
+    {
+     "tokens": [
+      "3:22.12",
+      "3:22.13"
+     ],
+     "english": "And now, lest",
+     "literal": "'and-now lest'"
+    },
+    {
+     "tokens": [
+      "3:22.14",
+      "3:22.15"
+     ],
+     "english": "he reach out his hand",
+     "literal": "'he-sends his-hand'; shalaḥ yad is 'stretch out the hand'"
+    },
+    {
+     "tokens": [
+      "3:22.16",
+      "3:22.17",
+      "3:22.18",
+      "3:22.19"
+     ],
+     "english": "and take also from the tree of life",
+     "literal": "'and-takes also from-tree-of the-life'"
+    },
+    {
+     "tokens": [
+      "3:22.20"
+     ],
+     "english": "and eat",
+     "literal": "'and-eats'"
+    },
+    {
+     "tokens": [
+      "3:22.21"
+     ],
+     "english": "and live",
+     "literal": "'and-lives'"
+    },
+    {
+     "tokens": [
+      "3:22.22"
+     ],
+     "english": "forever",
+     "literal": "'for-ever'"
+    }
+   ],
+   "grammar": [
+    "הֵן הָאָדָם הָיָה: הֵן 'look' introduces a statement of fact; הָיָה is a perfect, 'has become'.",
+    "כְּאַחַד מִמֶּנּוּ: כְּאַחַד is the construct form (pataḥ), so 'like one of ...'; מִמֶּנּוּ is plural, 'from us'.",
+    "וְעַתָּה פֶּן־יִשְׁלַח ... וְלָקַח ... וְאָכַל וָחַי: the clause after פֶּן is never completed; the weqatal verbs continue the feared sequence 'lest he stretch out ... and take ... and eat ... and live'.",
+    "The accents divide the speech: zaqef on מִמֶּנּוּ, etnaḥta on וָרָע ends the first sentence; revia on יָדוֹ.",
+    "וָחַי is from חיי, a by-form of חיה;."
+   ],
+   "note": "The verse breaks off after 'lest': the English leaves the sentence unfinished as the Hebrew does. 'Look' renders הֵן. 'Us' follows Ibn Ezra: God speaks with the angels.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:22:1",
+     "relation": "records",
+     "summary": "Rashi: 'He is unique among the lower beings as I am unique among the upper; and what is his uniqueness? To know good and evil, which is not so of beast or animal.' The English 'like one of us' does not state this, which Ibn Ezra rules out on grammatical grounds."
+    },
+    {
+     "anchor": "rashi:3:22:2",
+     "relation": "follows",
+     "summary": "Rashi: once he lives forever he is near to leading creatures astray after him, to say that he too is divine; midrashic explanations exist but do not settle on the plain sense. The English keeps the feared outcome as the reason for the removal."
+    },
+    {
+     "anchor": "ibn-ezra:3:22:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: כְּאַחַד with pataḥ is the construct form (as in כְּאַחַד שבטי ישראל, 49:16), so it cannot mean 'like the unique one'; it means 'like one of ...'. He also remarks on the accents, which separate מִמֶּנּוּ from לָדַעַת (the pack's text is cut here)."
+    },
+    {
+     "anchor": "ibn-ezra:3:22:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: מִמֶּנּוּ is plural, like אִישׁ מִמֶּנּוּ (23:6); the sense is like 'you shall be as gods, knowing good and evil', or it refers to God's own thought; compare 'Let us make man' and 'Come, let us go down'. This is God speaking with the angels."
+    },
+    {
+     "anchor": "radak:3:22:1",
+     "relation": "records",
+     "summary": "Radak: God includes himself with the angels, as in 'in our image' (1:26)."
+    },
+    {
+     "anchor": "onkelos:3:22:1",
+     "relation": "records",
+     "summary": "Onkelos: 'the human was unique in the world, from him, to know good and evil'. This is the 'unique' reading, which the English does not adopt."
+    }
+   ],
+   "apparatus": [
+    "Onkelos reads הֲוָה יְחִידַי בְּעַלְמָא 'was unique in the world' for כְּאַחַד מִמֶּנּוּ; the English follows Ibn Ezra's grammar instead.",
+    "MAM has a paseq after וַיֹּאמֶר and after וְעַתָּה."
+   ]
+  },
+  {
+   "ref": "3:23",
+   "english": "So the LORD God expelled him from the garden of Eden to work the ground from which he was taken.",
+   "literal": "and-sent-him the-LORD God from-garden-of Eden to-work [object-marker] the-ground which was-taken from-there",
+   "tokens": [
+    {
+     "id": "3:23.1",
+     "gloss": "and expelled him",
+     "sense": "Pi 2.c",
+     "note": "Piel wayyiqtol with a 3rd masculine singular suffix: 'and he sent him out'; with מִן this is expulsion (Ibn Ezra)"
+    },
+    {
+     "id": "3:23.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "3:23.3",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "3:23.4",
+     "gloss": "from the garden of",
+     "note": "construct"
+    },
+    {
+     "id": "3:23.5",
+     "gloss": "Eden"
+    },
+    {
+     "id": "3:23.6",
+     "gloss": "to work",
+     "sense": "Qal 1",
+     "note": "infinitive construct with ל; purpose"
+    },
+    {
+     "id": "3:23.7",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "3:23.8",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "3:23.9",
+     "gloss": "which"
+    },
+    {
+     "id": "3:23.10",
+     "gloss": "was taken",
+     "sense": "Pu 1",
+     "note": "Pual perfect: passive, 'was taken'"
+    },
+    {
+     "id": "3:23.11",
+     "gloss": "from there",
+     "note": "מִשָּׁם"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:23.1",
+      "3:23.2",
+      "3:23.3"
+     ],
+     "english": "So the LORD God expelled him",
+     "literal": "'and-sent-him the-LORD God'"
+    },
+    {
+     "tokens": [
+      "3:23.4",
+      "3:23.5"
+     ],
+     "english": "from the garden of Eden",
+     "literal": "'from-garden-of Eden'"
+    },
+    {
+     "tokens": [
+      "3:23.6",
+      "3:23.7",
+      "3:23.8"
+     ],
+     "english": "to work the ground",
+     "literal": "'to-work [obj] the-ground'; לַעֲבֹד states the purpose"
+    },
+    {
+     "tokens": [
+      "3:23.9",
+      "3:23.10",
+      "3:23.11"
+     ],
+     "english": "from which he was taken",
+     "literal": "'which was-taken from-there'; the antecedent of the 'he' is the human, who was taken from the ground"
+    }
+   ],
+   "grammar": [
+    "וַיְשַׁלְּחֵהוּ is Piel with a suffix; with מִן it means to send away, to expel.",
+    "לַעֲבֹד אֶת־הָאֲדָמָה: the infinitive with ל gives the purpose; the human is sent out to the same work he had in the garden (2:5, 2:15), now under the curse.",
+    "לֻקַּח is Pual perfect: 'was taken'; the 'he' is the human, taken from the ground (2:7).",
+    "Wordplay: הָאָדָם / הָאֲדָמָה."
+   ],
+   "note": "'Expelled' follows Ibn Ezra, who reads שלוח followed by מ as expulsion, like גרוש, not as an honorable sending off. The next verse repeats the sense with וַיְגָרֶשׁ.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:3:23:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: every שלוח followed by מ is like גרוש and is pejorative (Jer 15:1 'send them from before me'); it is not honorable, as a Spanish sage said, comparing 'to send them off' (18:16)."
+    },
+    {
+     "anchor": "ibn-ezra:3:23:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra on the cherubim: they are the known angels and hold a flaming sword; this belongs to 3:24, not to this verse's words."
+    },
+    {
+     "anchor": "radak:3:23:1",
+     "relation": "follows",
+     "summary": "Radak: this is a sending of expulsion, as in 'send them from before me'."
+    },
+    {
+     "anchor": "sforno:3:23:1",
+     "relation": "records",
+     "summary": "Sforno: God ordered him to go from there, as in 'to send them out of the land' (Ex 12:33)."
+    }
+   ]
+  },
+  {
+   "ref": "3:24",
+   "english": "He drove out the human, and east of the garden of Eden he stationed the cherubim and the flame of the whirling sword, to guard the way to the tree of life.",
+   "literal": "and-drove-out [obj] the-human and-stationed from-east to-garden-of Eden [obj] the-cherubim and-[obj] flame-of the-sword the-turning-itself to-guard [obj] way-of tree-of the-life",
+   "tokens": [
+    {
+     "id": "3:24.1",
+     "gloss": "and drove out",
+     "sense": "Pi",
+     "note": "Piel wayyiqtol"
+    },
+    {
+     "id": "3:24.2",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "3:24.3",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "3:24.4",
+     "gloss": "and stationed",
+     "sense": "Hiph 2",
+     "note": "Hiphil wayyiqtol, 'caused to dwell'; the English says 'stationed'"
+    },
+    {
+     "id": "3:24.5",
+     "gloss": "from the east of",
+     "sense": "1.b",
+     "note": "מִקֶּדֶם: 'from the east', east of the garden (Rashi, Ibn Ezra)"
+    },
+    {
+     "id": "3:24.6",
+     "gloss": "to the garden of",
+     "note": "construct"
+    },
+    {
+     "id": "3:24.7",
+     "gloss": "Eden"
+    },
+    {
+     "id": "3:24.8",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "3:24.9",
+     "gloss": "the cherubim",
+     "note": "the plural of כְּרוּב"
+    },
+    {
+     "id": "3:24.10",
+     "gloss": "and (object marker)",
+     "note": "the object marker is repeated for the second object"
+    },
+    {
+     "id": "3:24.11",
+     "gloss": "the flame of",
+     "note": "construct"
+    },
+    {
+     "id": "3:24.12",
+     "gloss": "the sword",
+     "note": "feminine noun; the participle that follows agrees"
+    },
+    {
+     "id": "3:24.13",
+     "gloss": "the whirling",
+     "sense": "Hithp 1",
+     "note": "Hithpael participle, feminine singular: 'turning this way and that'"
+    },
+    {
+     "id": "3:24.14",
+     "gloss": "to guard",
+     "sense": "Qal 1.b",
+     "note": "infinitive construct with ל; purpose"
+    },
+    {
+     "id": "3:24.15",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "3:24.16",
+     "gloss": "the way of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "3:24.17",
+     "gloss": "the tree of",
+     "sense": "1.a",
+     "note": "construct"
+    },
+    {
+     "id": "3:24.18",
+     "gloss": "life",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:24.1",
+      "3:24.2",
+      "3:24.3"
+     ],
+     "english": "He drove out the human",
+     "literal": "'and-drove-out [obj] the-human'"
+    },
+    {
+     "tokens": [
+      "3:24.4",
+      "3:24.5",
+      "3:24.6",
+      "3:24.7"
+     ],
+     "english": "and east of the garden of Eden he stationed",
+     "literal": "'and-stationed from-east to-garden-of Eden'; the Hebrew puts the verb first and the place after it"
+    },
+    {
+     "tokens": [
+      "3:24.8",
+      "3:24.9"
+     ],
+     "english": "the cherubim",
+     "literal": "'[obj] the-cherubim'"
+    },
+    {
+     "tokens": [
+      "3:24.10",
+      "3:24.11",
+      "3:24.12",
+      "3:24.13"
+     ],
+     "english": "and the flame of the whirling sword",
+     "literal": "'and-[obj] flame-of the-sword the-turning-itself'"
+    },
+    {
+     "tokens": [
+      "3:24.14"
+     ],
+     "english": "to guard",
+     "literal": "'to-guard'; purpose"
+    },
+    {
+     "tokens": [
+      "3:24.15",
+      "3:24.16",
+      "3:24.17",
+      "3:24.18"
+     ],
+     "english": "the way to the tree of life",
+     "literal": "'[obj] way-of tree-of the-life'; a construct chain"
+    }
+   ],
+   "grammar": [
+    "וַיְגָרֶשׁ is Piel: 'drove out'; the stem is intensive and repeats the sense of וַיְשַׁלְּחֵהוּ.",
+    "The verb וַיַּשְׁכֵּן (Hiphil of שכן, 'cause to dwell') comes before the place; מִקֶּדֶם is 'from the east', here 'on the east side'.",
+    "The second object is marked with וְאֵת: 'and the flame of the sword'. הַמִּתְהַפֶּכֶת is a feminine participle agreeing with חֶרֶב.",
+    "לִשְׁמֹר is an infinitive of purpose, 'to guard'; the accent zaqef gadol sets it off from what precedes.",
+    "The paragraph mark ס closes the section after this verse."
+   ],
+   "note": "'Whirling' renders the Hithpael, 'turning itself this way and that'. Rashi takes לַהַט as the flame the sword has, to frighten; the English follows.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:24:1",
+     "relation": "follows",
+     "summary": "Rashi: 'in the east of the garden of Eden, outside the garden'."
+    },
+    {
+     "anchor": "rashi:3:24:2",
+     "relation": "follows",
+     "summary": "Rashi: the cherubim are 'angels of destruction' (מַלְאֲכֵי חַבָּלָה). The English keeps the name 'cherubim' and does not translate it."
+    },
+    {
+     "anchor": "rashi:3:24:3",
+     "relation": "follows",
+     "summary": "Rashi: the sword has a flame to threaten him from entering the garden again; the Targum renders לַהַט by שְׁנַן ('blade'); Rashi says he comes only to the plain sense, aggadic explanations aside."
+    },
+    {
+     "anchor": "ibn-ezra:3:24:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: מִקֶּדֶם means 'from the east'. The rest of his comment on the secret of the garden is not about the words of the verse."
+    },
+    {
+     "anchor": "radak:3:24:3",
+     "relation": "records",
+     "summary": "Radak: the flame is a sight, not a body, meant to frighten; the English does not say this."
+    }
+   ]
+  },
+  {
+   "ref": "4:1",
+   "english": "Now the human had known Eve his wife, and she had conceived and borne Cain, and she said, \"I have acquired a man with the LORD.\"",
+   "literal": "and-the-human knew [obj] Eve his-wife and-conceived and-bore [obj] Cain and-said I-have-acquired man [with] the-LORD",
+   "tokens": [
+    {
+     "id": "4:1.1",
+     "gloss": "Now the human",
+     "sense": "2",
+     "note": "the article gives 'the human', as in 3:22; ו is 'now' and the verb is a pluperfect in English (Rashi)"
+    },
+    {
+     "id": "4:1.2",
+     "gloss": "had known",
+     "sense": "Qal 3",
+     "note": "'know' of a man and woman; qatal after a noun subject, backgrounding clause"
+    },
+    {
+     "id": "4:1.3",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "4:1.4",
+     "gloss": "Eve",
+     "note": "חַוָּה, from the root חיה, 'life' (see 3:20); the meaning is not in the English"
+    },
+    {
+     "id": "4:1.5",
+     "gloss": "his wife",
+     "sense": "2",
+     "note": "construct with a 3rd masculine singular suffix"
+    },
+    {
+     "id": "4:1.6",
+     "gloss": "and she had conceived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine singular"
+    },
+    {
+     "id": "4:1.7",
+     "gloss": "and borne",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine singular"
+    },
+    {
+     "id": "4:1.8",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "4:1.9",
+     "gloss": "Cain",
+     "note": "קַיִן; the name is explained by קָנִיתִי (Rashi: 'after the words קָנִיתִי')"
+    },
+    {
+     "id": "4:1.10",
+     "gloss": "and she said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine singular"
+    },
+    {
+     "id": "4:1.11",
+     "gloss": "I have acquired",
+     "sense": "Qal 1",
+     "note": "qatal, 1st singular; wordplay with קַיִן"
+    },
+    {
+     "id": "4:1.12",
+     "gloss": "a man",
+     "note": "אִישׁ"
+    },
+    {
+     "id": "4:1.13",
+     "gloss": "with",
+     "sense": "1",
+     "note": "אֵת here is the preposition, 'with' (Rashi); the lexicon entry is the preposition אֵת"
+    },
+    {
+     "id": "4:1.14",
+     "gloss": "the LORD"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:1.1",
+      "4:1.2"
+     ],
+     "english": "Now the human had known",
+     "literal": "'and-the-human knew'"
+    },
+    {
+     "tokens": [
+      "4:1.3",
+      "4:1.4",
+      "4:1.5"
+     ],
+     "english": "Eve his wife",
+     "literal": "'[obj] Eve his-wife'"
+    },
+    {
+     "tokens": [
+      "4:1.6"
+     ],
+     "english": "and she had conceived",
+     "literal": "'and-conceived'"
+    },
+    {
+     "tokens": [
+      "4:1.7",
+      "4:1.8",
+      "4:1.9"
+     ],
+     "english": "and borne Cain",
+     "literal": "'and-bore [obj] Cain'"
+    },
+    {
+     "tokens": [
+      "4:1.10"
+     ],
+     "english": "and she said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "4:1.11"
+     ],
+     "english": "I have acquired",
+     "literal": "'I-have-acquired'; wordplay with Cain"
+    },
+    {
+     "tokens": [
+      "4:1.12"
+     ],
+     "english": "a man",
+     "literal": "man"
+    },
+    {
+     "tokens": [
+      "4:1.13",
+      "4:1.14"
+     ],
+     "english": "with the LORD",
+     "literal": "'with the-LORD'; Rashi reads אֶת as 'with', the sense of partnership"
+    }
+   ],
+   "grammar": [
+    "וְהָאָדָם יָדַע: the noun subject comes first and the verb is a perfect, so the clause is not in the line of narrative; Rashi reads it as a pluperfect: the knowing, the conception and the birth happened before the sin and the expulsion.",
+    "יָדַע means 'know' of a husband and wife.",
+    "קָנִיתִי אִישׁ אֶת־יְהוָה: Eve's words explain the name קַיִן, with wordplay on קָנִיתִי.",
+    "אֶת־ before יְהוָה is not the object marker here; it is the preposition 'with' (the lexicon lists אֵת as a preposition).",
+    "The accents: etnaḥta on אִשְׁתּוֹ ends the first half; zaqef qaton on קַיִן; zaqef gadol on וַתֹּאמֶר."
+   ],
+   "note": "The pluperfect 'had known' and 'had conceived' follows Rashi. The meaning of Eve and Cain goes in the notes, not in the line.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:1:1",
+     "relation": "follows",
+     "summary": "Rashi: this happened before the matters above, before he sinned and was driven out of the garden; so also the conception and the birth. If it had said וַיֵּדַע אָדָם we would understand that children were born after the expulsion."
+    },
+    {
+     "anchor": "rashi:4:1:2",
+     "relation": "follows",
+     "summary": "Rashi: Cain is named after קָנִיתִי; the name goes in the note and grammar."
+    },
+    {
+     "anchor": "rashi:4:1:3",
+     "relation": "follows",
+     "summary": "Rashi: אֶת־יְהוָה is 'with the LORD': when God made me and my husband he alone made us, but in this one we are partners with him (b. Nid. 31)."
+    },
+    {
+     "anchor": "rashi:4:1:4",
+     "relation": "not-applicable",
+     "summary": "Rashi: three 'et' marks (4:1, 4:2) are inclusive; a twin sister was born with Cain and two with Abel. This is midrash and does not bear on the plain sense."
+    },
+    {
+     "anchor": "ibn-ezra:4:1:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: when he saw that his body would not last forever, he had to preserve the species; the name of God is not mentioned (אֱלֹהִים) because 'good' is general."
+    },
+    {
+     "anchor": "ramban:4:1:1",
+     "relation": "records",
+     "summary": "Ramban: against Rashi, he prefers 'this son will be my possession for the LORD', so that when we die he will serve his Maker in our place; he also allows 'with the LORD' as in 'Enoch walked with God'."
+    },
+    {
+     "anchor": "onkelos:4:1:1",
+     "relation": "records",
+     "summary": "Onkelos: 'I have acquired a man from before the LORD' (מִן קֳדָם יְיָ), which is a different reading of the preposition."
+    }
+   ],
+   "apparatus": [
+    "Onkelos reads קֳדָם יְיָ, 'before the LORD', Ramban 'for the LORD'; the English keeps Rashi's 'with'."
+   ]
+  },
+  {
+   "ref": "4:2",
+   "english": "She went on to bear his brother, Abel. Abel was a herder of flocks, and Cain was a worker of the ground.",
+   "literal": "and-added to-bear [obj] his-brother [obj] Abel and-was Abel herder-of flock and-Cain was worker-of ground",
+   "tokens": [
+    {
+     "id": "4:2.1",
+     "gloss": "and she added",
+     "sense": "Hiph 2.a",
+     "note": "Hiphil wayyiqtol, 3rd feminine singular; with an infinitive, 'she did again'"
+    },
+    {
+     "id": "4:2.2",
+     "gloss": "to bear",
+     "sense": "Qal 1",
+     "note": "infinitive construct with ל"
+    },
+    {
+     "id": "4:2.3",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "4:2.4",
+     "gloss": "his brother",
+     "sense": "1",
+     "note": "construct with a 3rd masculine singular suffix"
+    },
+    {
+     "id": "4:2.5",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "4:2.6",
+     "gloss": "Abel",
+     "note": "הֶבֶל, 'breath, vapor'; the meaning is not in the English"
+    },
+    {
+     "id": "4:2.7",
+     "gloss": "and was",
+     "sense": "Qal III",
+     "note": "wayyiqtol with a predicate"
+    },
+    {
+     "id": "4:2.8",
+     "gloss": "Abel"
+    },
+    {
+     "id": "4:2.9",
+     "gloss": "a herder of",
+     "note": "participle in the construct state: 'one who herds'"
+    },
+    {
+     "id": "4:2.10",
+     "gloss": "flocks",
+     "note": "collective: sheep and goats"
+    },
+    {
+     "id": "4:2.11",
+     "gloss": "and Cain"
+    },
+    {
+     "id": "4:2.12",
+     "gloss": "was",
+     "sense": "Qal III",
+     "note": "qatal; the noun comes first, giving a contrast"
+    },
+    {
+     "id": "4:2.13",
+     "gloss": "a worker of",
+     "sense": "Qal 1",
+     "note": "participle in the construct state: 'one who works'"
+    },
+    {
+     "id": "4:2.14",
+     "gloss": "the ground",
+     "sense": "1",
+     "note": "no article: 'ground'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:2.1",
+      "4:2.2"
+     ],
+     "english": "She went on to bear",
+     "literal": "'and-added to-bear'; the idiom means she bore again"
+    },
+    {
+     "tokens": [
+      "4:2.3",
+      "4:2.4"
+     ],
+     "english": "his brother",
+     "literal": "'[obj] his-brother'"
+    },
+    {
+     "tokens": [
+      "4:2.5",
+      "4:2.6"
+     ],
+     "english": "Abel",
+     "literal": "'[obj] Abel'"
+    },
+    {
+     "tokens": [
+      "4:2.7",
+      "4:2.8"
+     ],
+     "english": "Abel was",
+     "literal": "'and-was Abel'"
+    },
+    {
+     "tokens": [
+      "4:2.9",
+      "4:2.10"
+     ],
+     "english": "a herder of flocks",
+     "literal": "'herder-of flock'"
+    },
+    {
+     "tokens": [
+      "4:2.11",
+      "4:2.12"
+     ],
+     "english": "and Cain was",
+     "literal": "'and-Cain was'; the noun first gives a contrast"
+    },
+    {
+     "tokens": [
+      "4:2.13",
+      "4:2.14"
+     ],
+     "english": "a worker of the ground",
+     "literal": "'worker-of ground'"
+    }
+   ],
+   "grammar": [
+    "וַתֹּסֶף לָלֶדֶת: a Hiphil of יסף followed by an infinitive is an idiom, 'she did again to bear'.",
+    "The sentence says that she added to the bearing, not that she conceived again; Radak and the Midrash take this to mean twins.",
+    "רֹעֵה צֹאן and עֹבֵד אֲדָמָה are participles in the construct state, naming occupations; the contrast is marked by the order וְקַיִן הָיָה.",
+    "Wordplay: אֲדָמָה recalls הָאָדָם (see 3:23)."
+   ],
+   "note": "'Went on to bear' keeps the idiom without saying whether the second birth was a separate pregnancy. Rashi: Abel became a herder because the ground had been cursed.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:2:1",
+     "relation": "follows",
+     "summary": "Rashi: because the ground had been cursed, Abel turned away from working it; this is why he took to herding."
+    },
+    {
+     "anchor": "radak:4:2:1",
+     "relation": "records",
+     "summary": "Radak: since it says 'she added to bear' and not 'she conceived again', Cain and Abel were twins, as the rabbis said; the English does not say."
+    },
+    {
+     "anchor": "radak:4:2:3",
+     "relation": "records",
+     "summary": "Radak: when they grew up they divided their work; one herded for milk and wool, the other worked the ground."
+    },
+    {
+     "anchor": "onkelos:4:2:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos: 'Abel was a herder of sheep, and Cain was a tiller of the ground'."
+    }
+   ]
+  },
+  {
+   "ref": "4:3",
+   "english": "After some time, Cain brought an offering of the fruit of the ground to the LORD.",
+   "literal": "and-it-was at-end-of days and-brought Cain from-fruit-of the-ground offering to-the-LORD",
+   "tokens": [
+    {
+     "id": "4:3.1",
+     "gloss": "and it was",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol; the narrative formula 'and it came to pass'"
+    },
+    {
+     "id": "4:3.2",
+     "gloss": "at the end of",
+     "sense": "1",
+     "note": "מִקֵּץ: 'at the end of'; construct"
+    },
+    {
+     "id": "4:3.3",
+     "gloss": "days",
+     "sense": "4",
+     "note": "'a period of time', possibly a year (Radak)"
+    },
+    {
+     "id": "4:3.4",
+     "gloss": "and brought",
+     "sense": "Hiph 2",
+     "note": "Hiphil wayyiqtol: 'caused to come', 'brought'"
+    },
+    {
+     "id": "4:3.5",
+     "gloss": "Cain"
+    },
+    {
+     "id": "4:3.6",
+     "gloss": "from the fruit of",
+     "sense": "1",
+     "note": "construct; מִן is partitive, 'some of'"
+    },
+    {
+     "id": "4:3.7",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "4:3.8",
+     "gloss": "an offering",
+     "sense": "3",
+     "note": "מִנְחָה is a gift, here a gift to God; the later grain-offering sense does not apply"
+    },
+    {
+     "id": "4:3.9",
+     "gloss": "to the LORD",
+     "note": "לַיהוָה"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:3.1",
+      "4:3.2",
+      "4:3.3"
+     ],
+     "english": "After some time",
+     "literal": "'and-it-was at-end-of days'; ויהי is the narrative formula"
+    },
+    {
+     "tokens": [
+      "4:3.4",
+      "4:3.5"
+     ],
+     "english": "Cain brought",
+     "literal": "'and-brought Cain'"
+    },
+    {
+     "tokens": [
+      "4:3.6",
+      "4:3.7",
+      "4:3.8"
+     ],
+     "english": "an offering of the fruit of the ground",
+     "literal": "'from-fruit-of the-ground offering'; מִן is partitive"
+    },
+    {
+     "tokens": [
+      "4:3.9"
+     ],
+     "english": "to the LORD",
+     "literal": "'to-the-LORD'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי מִקֵּץ יָמִים: 'and it was at the end of days': a narrative formula for an unspecified time; 'days' can mean a year (Radak, Ibn Ezra).",
+    "מִפְּרִי הָאֲדָמָה: מִן is partitive, 'some of the fruit of the ground'; the noun מִנְחָה stands after it.",
+    "Accents: etnaḥta on יָמִים, tevir on הָאֲדָמָה; geresh on קַיִן.",
+    "The wayyiqtol וַיָּבֵא is Hiphil of בוא."
+   ],
+   "note": "'Offering' covers מִנְחָה, a gift to God; the word does not specify a grain offering. Rashi's 'from the inferior' is recorded, not adopted.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:3:1",
+     "relation": "records",
+     "summary": "Rashi: 'from the inferior'; one aggadah says it was flax seed. The Hebrew does not say; the English has 'of the fruit of the ground'."
+    },
+    {
+     "anchor": "ibn-ezra:4:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: after Cain worked the ground he brought the offering to the place he had set for his prayer; he rejects the view that it was brought to his father; since Abel's offering is 'of the firstlings of his flock', it implies that Cain did not bring of the firstfruits."
+    },
+    {
+     "anchor": "ramban:4:3:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: these men understood a great secret of the sacrifices and offerings."
+    },
+    {
+     "anchor": "radak:4:3:1",
+     "relation": "records",
+     "summary": "Radak: 'days' may mean a year, as in 'for days (a year) it shall be his redemption' (Lev 25:29)."
+    },
+    {
+     "anchor": "radak:4:3:2",
+     "relation": "records",
+     "summary": "Radak: the verse does not say which fruit; it seems to have been from the lesser, or the leftover after he ate; he did not bring from the firstfruits."
+    }
+   ],
+   "apparatus": [
+    "WLC reads לַֽיהוָֽה; the base text (MAM) reads לַֽיהֹוָֽה׃ (4:3.9 vowels).",
+    "Onkelos has מֵאִבָּא דְאַרְעָא 'of the fruit of the ground'."
+   ]
+  },
+  {
+   "ref": "4:4",
+   "english": "And Abel brought, he too, some of the firstlings of his flock and of their fat portions. And the LORD turned to Abel and to his offering,",
+   "literal": "and-Abel brought also he from-firstlings-of his-flock and-from-fat-portions-of-them and-turned the-LORD to Abel and-to his-offering",
+   "tokens": [
+    {
+     "id": "4:4.1",
+     "gloss": "and Abel"
+    },
+    {
+     "id": "4:4.2",
+     "gloss": "brought",
+     "sense": "Hiph 2",
+     "note": "Hiphil perfect; the noun subject first, backgrounding clause"
+    },
+    {
+     "id": "4:4.3",
+     "gloss": "also"
+    },
+    {
+     "id": "4:4.4",
+     "gloss": "he",
+     "sense": "1",
+     "note": "גַּם־הוּא: 'he also'"
+    },
+    {
+     "id": "4:4.5",
+     "gloss": "from the firstlings of",
+     "note": "בְּכֹרוֹת: feminine plural 'firstborn'; מִן is partitive"
+    },
+    {
+     "id": "4:4.6",
+     "gloss": "his flock",
+     "note": "collective with a 3rd masculine singular suffix"
+    },
+    {
+     "id": "4:4.7",
+     "gloss": "and from their fat portions",
+     "sense": "3",
+     "note": "חֶלְבֵהֶן: the suffix is 3rd feminine plural, referring to the flock; 'fat' also means the best part"
+    },
+    {
+     "id": "4:4.8",
+     "gloss": "and turned",
+     "sense": "Qal",
+     "note": "wayyiqtol: 'gazed, turned'; the LORD turned toward (Rashi, וַיִּפֶן); Ibn Ezra 'received'"
+    },
+    {
+     "id": "4:4.9",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "4:4.10",
+     "gloss": "to",
+     "sense": "1",
+     "note": "אֶל: 'toward'"
+    },
+    {
+     "id": "4:4.11",
+     "gloss": "Abel"
+    },
+    {
+     "id": "4:4.12",
+     "gloss": "and to",
+     "sense": "1"
+    },
+    {
+     "id": "4:4.13",
+     "gloss": "his offering",
+     "sense": "3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:4.1",
+      "4:4.2"
+     ],
+     "english": "And Abel brought",
+     "literal": "'and-Abel brought'"
+    },
+    {
+     "tokens": [
+      "4:4.3",
+      "4:4.4"
+     ],
+     "english": "he too",
+     "literal": "'also he'"
+    },
+    {
+     "tokens": [
+      "4:4.5",
+      "4:4.6"
+     ],
+     "english": "some of the firstlings of his flock",
+     "literal": "'from-firstlings-of his-flock'; מִן is partitive"
+    },
+    {
+     "tokens": [
+      "4:4.7"
+     ],
+     "english": "and of their fat portions",
+     "literal": "'and-from-fat-of-them'"
+    },
+    {
+     "tokens": [
+      "4:4.8",
+      "4:4.9"
+     ],
+     "english": "And the LORD turned",
+     "literal": "'and-turned the-LORD'"
+    },
+    {
+     "tokens": [
+      "4:4.10",
+      "4:4.11"
+     ],
+     "english": "to Abel",
+     "literal": "'to Abel'"
+    },
+    {
+     "tokens": [
+      "4:4.12",
+      "4:4.13"
+     ],
+     "english": "and to his offering",
+     "literal": "'and-to his-offering'"
+    }
+   ],
+   "grammar": [
+    "גַּם־הוּא 'he also' sets Abel's offering beside Cain's, and the order (verb before 'he also') makes the pairing clear.",
+    "מִבְּכֹרוֹת צֹאנוֹ וּמֵחֶלְבֵהֶן: two partitive phrases; the suffix on חֶלְבֵהֶן is feminine plural, referring to the flock.",
+    "וַיִּשַׁע: wayyiqtol of שׁעה, 'turn toward'; the next verse has the negative.",
+    "אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ: the repeated אֶל sets the person and the gift side by side."
+   ],
+   "note": "'Turned to' keeps Rashi's וַיִּפֶן; it does not say what the sign of acceptance was.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:4:1",
+     "relation": "follows",
+     "summary": "Rashi: וַיִּשַׁע is 'turned' (וַיִּפֶן); so 'to his offering he did not turn' (4:5); so 'he will not turn' (Isa 17:8); 'turn away from him' (Job 14:6)."
+    },
+    {
+     "anchor": "rashi:4:4:2",
+     "relation": "records",
+     "summary": "Rashi: fire came down and licked up his offering. The English does not say."
+    },
+    {
+     "anchor": "ibn-ezra:4:4:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיִּשַׁע has the form of וַיִּחַר לְקַיִן and means 'received', close to שְׁעוּ מִנִּי; it may be that fire came down and consumed Abel's offering and not Cain's. He adds that 'days' can mean a year."
+    },
+    {
+     "anchor": "radak:4:4:3",
+     "relation": "follows",
+     "summary": "Radak: God was pleased with Abel because he saw his intention was good, and with his offering, which was honorable."
+    },
+    {
+     "anchor": "sforno:4:4:1",
+     "relation": "follows",
+     "summary": "Sforno: Abel the offerer was acceptable and his offering also."
+    }
+   ],
+   "apparatus": [
+    "Ibn Ezra: וַיִּשַׁע means 'received'; Rashi: 'turned'. The English keeps 'turned to'.",
+    "Radak: the suffix of חֶלְבֵהֶן is written without the yod of the plural."
+   ]
+  },
+  {
+   "ref": "4:5",
+   "english": "but to Cain and to his offering he did not turn. And Cain was very angry, and his face fell.",
+   "literal": "and-to Cain and-to his-offering not turned and-burned to-Cain greatly and-fell his-face",
+   "tokens": [
+    {
+     "id": "4:5.1",
+     "gloss": "but to",
+     "sense": "1",
+     "note": "ו here is adversative"
+    },
+    {
+     "id": "4:5.2",
+     "gloss": "Cain"
+    },
+    {
+     "id": "4:5.3",
+     "gloss": "and to",
+     "sense": "1"
+    },
+    {
+     "id": "4:5.4",
+     "gloss": "his offering",
+     "sense": "3"
+    },
+    {
+     "id": "4:5.5",
+     "gloss": "not"
+    },
+    {
+     "id": "4:5.6",
+     "gloss": "he turned",
+     "sense": "Qal",
+     "note": "qatal, 3rd masculine singular, pausal (etnaḥta)"
+    },
+    {
+     "id": "4:5.7",
+     "gloss": "and was angry",
+     "note": "wayyiqtol of חרה, 'it burned'; the lexicon lists no Qal sense"
+    },
+    {
+     "id": "4:5.8",
+     "gloss": "to Cain",
+     "note": "impersonal: 'it burned to Cain', 'Cain was angry'"
+    },
+    {
+     "id": "4:5.9",
+     "gloss": "very",
+     "sense": "2",
+     "note": "adverb"
+    },
+    {
+     "id": "4:5.10",
+     "gloss": "and fell",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd masculine plural, agreeing with פָּנָיו"
+    },
+    {
+     "id": "4:5.11",
+     "gloss": "his face",
+     "sense": "I.1",
+     "note": "plural in form: 'face'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:5.1",
+      "4:5.2"
+     ],
+     "english": "but to Cain",
+     "literal": "'and-to Cain'"
+    },
+    {
+     "tokens": [
+      "4:5.3",
+      "4:5.4"
+     ],
+     "english": "and to his offering",
+     "literal": "'and-to his-offering'"
+    },
+    {
+     "tokens": [
+      "4:5.5",
+      "4:5.6"
+     ],
+     "english": "he did not turn",
+     "literal": "'not turned'"
+    },
+    {
+     "tokens": [
+      "4:5.7",
+      "4:5.8",
+      "4:5.9"
+     ],
+     "english": "And Cain was very angry",
+     "literal": "'and-burned to-Cain greatly'; impersonal 'it burned to Cain'"
+    },
+    {
+     "tokens": [
+      "4:5.10",
+      "4:5.11"
+     ],
+     "english": "and his face fell",
+     "literal": "'and-fell his-face'; the plural noun פָּנִים takes a plural verb"
+    }
+   ],
+   "grammar": [
+    "וַיִּחַר לְקַיִן: the verb is impersonal: 'it burned to Cain'.",
+    "וַיִּפְּלוּ פָּנָיו: פָּנִים is plural in form and the verb is plural; 'his face fell'.",
+    "לֹא שָׁעָה is the negative of וַיִּשַׁע in 4:4; the symmetry is exact.",
+    "Accents: etnaḥta on שָׁעָה; zaqef qaton on מְאֹד."
+   ],
+   "note": "'Turned' is kept from 4:4 so that the contrast is clear.",
+   "commentary": [
+    {
+     "anchor": "radak:4:5:1",
+     "relation": "records",
+     "summary": "Radak: God was not pleased with Cain because his intention was not good, and not with his offering, which was despised."
+    },
+    {
+     "anchor": "sforno:4:5:3",
+     "relation": "records",
+     "summary": "Sforno: 'his face fell' in shame, since God had shamed him and not accepted him."
+    }
+   ]
+  }
+ ]
+}
