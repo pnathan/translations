@@ -1,0 +1,1041 @@
+{
+ "unit": "bereshit-11",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "3:16",
+   "english": "To the woman he said, “I will greatly multiply your pain and your pregnancy; in pain you will bear children. Your desire is for your husband, and he will rule over you.”",
+   "literal": "to-the-woman he-said multiplying I-will-multiply your-pain and-your-pregnancy in-pain you-will-bear sons and-to your-husband your-desire and-he he-will-rule over-you",
+   "tokens": [
+    {
+     "id": "3:16.1",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "3:16.2",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "3:16.3",
+     "gloss": "he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "3:16.4",
+     "gloss": "greatly",
+     "sense": "Hiph 1",
+     "note": "Hiphil infinitive absolute placed before the finite verb of the same root: it intensifies the verb ('multiply greatly')."
+    },
+    {
+     "id": "3:16.5",
+     "gloss": "I will multiply",
+     "sense": "Hiph 1",
+     "note": "Hiphil imperfect, 1st person singular, of רבה: 'I will make many, increase'; with the infinitive absolute before it, 'I will greatly multiply'."
+    },
+    {
+     "id": "3:16.6",
+     "gloss": "your pain",
+     "note": "construct state with a 2nd feminine singular suffix (-ēk). The pack's entry gives 'pain, toil' and lists no numbered senses."
+    },
+    {
+     "id": "3:16.7",
+     "gloss": "and your pregnancy",
+     "note": "הֵרוֹן is a form of הֵרָיוֹן with the final nun taken by Ibn Ezra as an added letter; the suffix is feminine singular."
+    },
+    {
+     "id": "3:16.8",
+     "gloss": "in pain",
+     "note": "עֶצֶב, a different noun from עִצָּבוֹן but of the same root; here with the preposition ב of attendant circumstance."
+    },
+    {
+     "id": "3:16.9",
+     "gloss": "you will bear",
+     "sense": "Qal 1",
+     "note": "2nd feminine singular imperfect; the ending -י marks the feminine."
+    },
+    {
+     "id": "3:16.10",
+     "gloss": "children",
+     "sense": "2"
+    },
+    {
+     "id": "3:16.11",
+     "gloss": "and toward",
+     "sense": "3",
+     "note": "אֶל here marks direction or orientation: 'toward, to'."
+    },
+    {
+     "id": "3:16.12",
+     "gloss": "your husband",
+     "note": "אִישׁ with the 2nd feminine singular suffix; 'man' in the sense of 'husband'."
+    },
+    {
+     "id": "3:16.13",
+     "gloss": "your desire",
+     "note": "construct state of תְּשׁוּקָה with the 2nd feminine singular suffix; the clause has no verb ('is' is supplied)."
+    },
+    {
+     "id": "3:16.14",
+     "gloss": "and he",
+     "sense": "1",
+     "note": "the independent pronoun placed before the verb sets the husband against the wife."
+    },
+    {
+     "id": "3:16.15",
+     "gloss": "will rule",
+     "sense": "Qal 1",
+     "note": "imperfect; it may be read as a prediction ('will rule') or as a state of affairs."
+    },
+    {
+     "id": "3:16.16",
+     "gloss": "over you",
+     "note": "בְּ + 2nd feminine suffix; מָשַׁל takes ב for the one ruled."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:16.1",
+      "3:16.2",
+      "3:16.3"
+     ],
+     "english": "To the woman he said",
+     "literal": "'to the-woman he-said'; the object is placed first, so the woman is addressed directly."
+    },
+    {
+     "tokens": [
+      "3:16.4",
+      "3:16.5"
+     ],
+     "english": "I will greatly multiply",
+     "literal": "'multiplying I-will-multiply'; infinitive absolute with finite verb, rendered by 'greatly'."
+    },
+    {
+     "tokens": [
+      "3:16.6",
+      "3:16.7"
+     ],
+     "english": "your pain and your pregnancy",
+     "literal": "'your-pain and-your-pregnancy'; the two nouns may be a pair or one idea (Rashi and Ibn Ezra take them as two)."
+    },
+    {
+     "tokens": [
+      "3:16.8",
+      "3:16.9",
+      "3:16.10"
+     ],
+     "english": "in pain you will bear children",
+     "literal": "'in-pain you-will-bear sons'; בָּנִים is 'children'. Rashi: this is the pain of giving birth (he puts the pain of raising children on עִצְּבוֹנֵךְ); Radak cites the raising of children on בָנִים."
+    },
+    {
+     "tokens": [
+      "3:16.11",
+      "3:16.12",
+      "3:16.13"
+     ],
+     "english": "Your desire is for your husband",
+     "literal": "'and-toward your-husband your-desire'; a verbless clause, the English supplies 'is'."
+    },
+    {
+     "tokens": [
+      "3:16.14",
+      "3:16.15",
+      "3:16.16"
+     ],
+     "english": "and he will rule over you",
+     "literal": "'and-he he-will-rule over-you'."
+    }
+   ],
+   "grammar": [
+    "הַרְבָּה אַרְבֶּה: the infinitive absolute before a finite verb of the same root strengthens it (Ibn Ezra: שם הפועל, the infinitive; Radak: it enlarges the matter).",
+    "עִצְּבוֹנֵךְ וְהֵרֹנֵךְ: two nouns with the same 2nd feminine singular suffix; the second has the conjunction and (Ibn Ezra) an added final nun.",
+    "The etnaḥta falls on בָנִים and divides the verse: the first half concerns childbearing, the second the relation to the husband.",
+    "The second half has two clauses: a verbless one (וְאֶל אִישֵׁךְ תְּשׁוּקָתֵךְ, the English supplies 'is') and a verbal one with the imperfect יִמְשָׁל; the pronoun וְהוּא, placed before the verb, sets the husband against the wife.",
+    "Wordplay: עִצָּבוֹן, עֶצֶב and later בְּעִצָּבוֹן (3:17) share one root, binding the woman's sentence to the man's."
+   ],
+   "note": "תְּשׁוּקָה is kept as 'desire' because the commentators differ on its sense. Rashi reads it as sexual desire which she cannot ask for openly; Ibn Ezra as obedience (משמעתך). The English keeps the plain 'desire for your husband'. עִצְּבוֹנֵךְ is 'pain', the broad sense, with Rashi's 'pain of raising children' and Ibn Ezra's 'the time of affliction, when the virginal blood comes out' recorded rather than adopted.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:16:1",
+     "relation": "records",
+     "summary": "Rashi: עִצְּבוֹנֵךְ is 'זה צער גידול בנים', the pain of raising children. The English keeps the broader 'pain' and does not limit it."
+    },
+    {
+     "anchor": "rashi:3:16:2",
+     "relation": "follows",
+     "summary": "Rashi: וְהֵרֹנֵךְ is 'זה צער העיבור', the distress of pregnancy; the English 'your pregnancy' with the word 'pain' carried over from the first noun."
+    },
+    {
+     "anchor": "rashi:3:16:3",
+     "relation": "follows",
+     "summary": "Rashi: בְּעֶצֶב תֵּלְדִי בָנִים is 'זה צער הלידה', the pain of giving birth."
+    },
+    {
+     "anchor": "rashi:3:16:4",
+     "relation": "follows",
+     "summary": "Rashi: the woman's desire is for intercourse (לתשמיש), yet she has not the boldness to demand it with her mouth; he rules, 'everything from him and not from you'. The English keeps 'desire' and 'rule'."
+    },
+    {
+     "anchor": "rashi:3:16:5",
+     "relation": "follows",
+     "summary": "Rashi: תְּשׁוּקָתֵךְ means תַּאֲוָתֵךְ, as in נֶפֶשׁ שׁוֹקֵקָה (Isaiah 29:8): longing, craving."
+    },
+    {
+     "anchor": "ibn-ezra:3:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הַרְבָּה is the infinitive (שם הפועל)."
+    },
+    {
+     "anchor": "ibn-ezra:3:16:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: עִצְּבוֹנֵךְ is the time of distress, at the flow of virginal blood. This is a real alternative reading that the English does not adopt."
+    },
+    {
+     "anchor": "ibn-ezra:3:16:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the nun of הֵרֹנֵךְ is an added letter (the noun is from הרה); pregnancy is heavy on a woman, and so is giving birth. The English reads 'pregnancy'."
+    },
+    {
+     "anchor": "ibn-ezra:3:16:4",
+     "relation": "records",
+     "summary": "Ibn Ezra: תְּשׁוּקָתֵךְ means 'your obedience' (משמעתך): she will obey whatever he commands. Rashi's and Radak's 'desire' is preferred in the English; the reading is kept here."
+    },
+    {
+     "anchor": "ramban:3:16:1",
+     "relation": "records",
+     "summary": "Ramban rejects Rashi's reading because not asking openly is a praiseworthy trait in a woman (Eruvin 100b), so it cannot be part of the curse; he rejects Ibn Ezra's 'obedience' because תְּשׁוּקָה only ever means longing and desire. His own reading: she will long greatly for her husband without regard to the pain of pregnancy and birth, and he will hold her like a maidservant, measure for measure, since she had commanded him to eat."
+    },
+    {
+     "anchor": "radak:3:16:9",
+     "relation": "follows",
+     "summary": "Radak: even though she bears in pain she will long still to lie with him."
+    }
+   ],
+   "apparatus": [
+    "עִצָּבוֹן vs. עֶצֶב: the pack gives two lemmas of one root with no numbered senses; both are rendered 'pain'.",
+    "Onkelos renders צַעֲרַיְכִי וְעִדּוּיַיְכִי 'your pains and your pregnancies' and תִּאוּבְתִּיךְ 'your desire'; it agrees with the English."
+   ]
+  },
+  {
+   "ref": "3:17",
+   "english": "And to Adam he said, “Because you listened to the voice of your wife and ate from the tree about which I commanded you, saying, ‘You will not eat from it,’ cursed is the ground because of you; in toil you will eat of it all the days of your life.",
+   "literal": "and-to-Adam he-said because you-listened to-voice-of your-wife and-you-ate from-the-tree which I-commanded-you saying not you-will-eat from-it cursed the-ground on-account-of-you in-toil you-will-eat-it all days-of your-life",
+   "tokens": [
+    {
+     "id": "3:17.1",
+     "gloss": "and to Adam",
+     "sense": "3",
+     "note": "אָדָם without the article. The pack parses it as a proper name; 'the man' is possible (see note)."
+    },
+    {
+     "id": "3:17.2",
+     "gloss": "he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "3:17.3",
+     "gloss": "because",
+     "sense": "3"
+    },
+    {
+     "id": "3:17.4",
+     "gloss": "you listened",
+     "note": "Qal perfect, 2nd masculine singular; שָׁמַע לְקוֹל means 'obey' as well as 'hear'. The pack's entry lists only Niphal and Piel senses, so no sense path is given."
+    },
+    {
+     "id": "3:17.5",
+     "gloss": "to the voice of",
+     "note": "לְ + construct of קוֹל; the idiom שָׁמַע לְקוֹל is 'obey'."
+    },
+    {
+     "id": "3:17.6",
+     "gloss": "your wife",
+     "sense": "2",
+     "note": "construct state with 2nd masculine suffix (-ֶךָ)."
+    },
+    {
+     "id": "3:17.7",
+     "gloss": "and you ate",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: the eating follows from the listening; it continues the 'because' clause."
+    },
+    {
+     "id": "3:17.8",
+     "gloss": "from",
+     "sense": "1.a"
+    },
+    {
+     "id": "3:17.9",
+     "gloss": "the tree",
+     "sense": "1.a"
+    },
+    {
+     "id": "3:17.10",
+     "gloss": "which"
+    },
+    {
+     "id": "3:17.11",
+     "gloss": "I commanded you",
+     "note": "Piel perfect 1st singular with 2nd masculine object suffix; צִוָּה takes a direct object."
+    },
+    {
+     "id": "3:17.12",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "לֵאמֹר, the infinitive construct of אָמַר with ל, introduces direct speech."
+    },
+    {
+     "id": "3:17.13",
+     "gloss": "not"
+    },
+    {
+     "id": "3:17.14",
+     "gloss": "you will eat",
+     "sense": "Qal 1",
+     "note": "imperfect with לֹא: the prohibition (cf. 2:17)."
+    },
+    {
+     "id": "3:17.15",
+     "gloss": "from it",
+     "sense": "1.a",
+     "note": "מִן in its doubled form מִמֶּ- with the 3rd masculine singular suffix: 'from it', the tree. The pack parses the suffix as 1st common plural ('from us'), which is the same written form; the context requires the 3rd masculine singular."
+    },
+    {
+     "id": "3:17.16",
+     "gloss": "cursed",
+     "sense": "Qal",
+     "note": "passive participle, feminine singular, in a verbless clause."
+    },
+    {
+     "id": "3:17.17",
+     "gloss": "the ground",
+     "sense": "1",
+     "note": "הָאֲדָמָה recalls האדם: the human and the ground are bound by sound."
+    },
+    {
+     "id": "3:17.18",
+     "gloss": "because of you",
+     "note": "בַּעֲבוּרֶךָ, 'on your account'."
+    },
+    {
+     "id": "3:17.19",
+     "gloss": "in toil",
+     "note": "בְּעִצָּבוֹן: ב of attendant circumstance."
+    },
+    {
+     "id": "3:17.20",
+     "gloss": "you will eat of it",
+     "sense": "Qal 1",
+     "note": "imperfect with a 3rd feminine object suffix; the suffix refers to הָאֲדָמָה and, by metonymy, to its produce (Ibn Ezra, Radak)."
+    },
+    {
+     "id": "3:17.21",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.22",
+     "gloss": "the days of",
+     "sense": "4",
+     "note": "construct plural of יוֹם, 'days'."
+    },
+    {
+     "id": "3:17.23",
+     "gloss": "your life",
+     "sense": "1",
+     "note": "plural form חַיִּים with a 2nd masculine suffix."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:17.1",
+      "3:17.2"
+     ],
+     "english": "And to Adam he said",
+     "literal": "'and-to-Adam he-said'."
+    },
+    {
+     "tokens": [
+      "3:17.3",
+      "3:17.4",
+      "3:17.5",
+      "3:17.6"
+     ],
+     "english": "Because you listened to the voice of your wife",
+     "literal": "'because you-listened to-voice-of your-wife'; 'listened to the voice' is the idiom for obeying."
+    },
+    {
+     "tokens": [
+      "3:17.7",
+      "3:17.8",
+      "3:17.9"
+     ],
+     "english": "and ate from the tree",
+     "literal": "'and-you-ate from-the-tree'; Radak: from the tree's fruit."
+    },
+    {
+     "tokens": [
+      "3:17.10",
+      "3:17.11",
+      "3:17.12"
+     ],
+     "english": "about which I commanded you, saying",
+     "literal": "'which I-commanded-you saying'; the relative is rendered 'about which'."
+    },
+    {
+     "tokens": [
+      "3:17.13",
+      "3:17.14",
+      "3:17.15"
+     ],
+     "english": "You will not eat from it",
+     "literal": "'not you-will-eat from-it'; the quoted command."
+    },
+    {
+     "tokens": [
+      "3:17.16",
+      "3:17.17",
+      "3:17.18"
+     ],
+     "english": "cursed is the ground because of you",
+     "literal": "'cursed the-ground on-account-of-you'."
+    },
+    {
+     "tokens": [
+      "3:17.19",
+      "3:17.20"
+     ],
+     "english": "in toil you will eat of it",
+     "literal": "'in-toil you-will-eat-it'; Ibn Ezra: the produce of the ground."
+    },
+    {
+     "tokens": [
+      "3:17.21",
+      "3:17.22",
+      "3:17.23"
+     ],
+     "english": "all the days of your life",
+     "literal": "'all days-of your-life'."
+    }
+   ],
+   "grammar": [
+    "The speech opens with a long כִּי clause giving the reason (you listened and ate); the verdict comes only at אֲרוּרָה, the first word after the etnaḥta, in a verbless clause with a passive participle.",
+    "The verdict mirrors 3:14: the serpent was told אָרוּר אַתָּה, but here ארור is said of the ground, not of the man himself.",
+    "שָׁמַעְתָּ לְקוֹל is 'obey': the man's fault is that he obeyed his wife rather than the command.",
+    "בְּעִצָּבוֹן תֹּאכְלֶנָּה: the suffix on the verb refers to the ground; by metonymy it means its produce (Ibn Ezra: תאכל תבואתה).",
+    "הָאֲדָמָה echoes אָדָם: the ground from which the man was taken is cursed for his sake."
+   ],
+   "note": "אָדָם without the article is rendered 'Adam' because the pack parses it as a proper name; the possible reading 'the man' (a common noun with ל) is not otherwise supported here, since the speaker has addressed 'the woman' in the previous verse with the article. בַּעֲבוּרֶךָ is 'because of you': the ground suffers on the man's account, so Rashi's view that it brings up cursed things, and Ibn Ezra's that it yields little, both fit. The English does not choose between them.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:17:1",
+     "relation": "records",
+     "summary": "Rashi: the ground will bring up cursed things (flies, fleas, ants), like a son who goes out into bad culture so that people curse the breasts he suckled. The English keeps only the bare 'cursed is the ground'."
+    },
+    {
+     "anchor": "ibn-ezra:3:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'cursed is the ground' means that it will not bring forth abundant produce (שלא תוציא תבואה רבה)."
+    },
+    {
+     "anchor": "ibn-ezra:3:17:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: תֹּאכְלֶנָּה means 'you will eat its produce', a short way of saying it, as in 1 Kings 2:7 'those who eat at your table'. The English 'eat of it' keeps the metonymy."
+    },
+    {
+     "anchor": "ibn-ezra:3:18:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בְּעִצָּבוֹן means in the toil of ploughing, harrowing and sowing, and a further evil is that thorns will grow in the grain. The English 'in toil' is general."
+    },
+    {
+     "anchor": "radak:3:17:4",
+     "relation": "follows",
+     "summary": "Radak: you will have to work the ground until you eat its produce; until now you ate the fruit of the garden's trees without toil."
+    },
+    {
+     "anchor": "radak:3:17:1",
+     "relation": "follows",
+     "summary": "Radak: מִן הָעֵץ means 'from the fruit of the tree', for the fruit comes from the tree. The English 'ate from the tree' keeps the same compression."
+    },
+    {
+     "anchor": "sforno:3:17:3",
+     "relation": "records",
+     "summary": "Sforno: שָׁמַעְתָּ means 'you accepted her opinion that He is mistaken'; the English keeps the plain 'listened to the voice'."
+    }
+   ],
+   "apparatus": [
+    "3:17.20 vowels: WLC reads תֹּאכֲלֶנָּה; the base text (MAM) has תֹּאכְלֶנָּה; the English is the same.",
+    "3:17.4: WLC note c records an accent reading differing from BHS; the English is not affected.",
+    "Onkelos: אֲרֵי קַבֵּילְתָּ לְמֵימַר אִתְּתָךְ 'because you accepted the word of your wife' (obey)."
+   ]
+  },
+  {
+   "ref": "3:18",
+   "english": "It will sprout thorns and thistles for you, and you will eat the plants of the field.",
+   "literal": "and-thorn and-thistle it-will-cause-to-sprout for-you and-you-will-eat [object-marker] plant-of the-field",
+   "tokens": [
+    {
+     "id": "3:18.1",
+     "gloss": "and thorn",
+     "note": "קוֹץ: collective singular, 'thorns'."
+    },
+    {
+     "id": "3:18.2",
+     "gloss": "and thistle",
+     "note": "דַּרְדַּר: Ibn Ezra takes it as the smaller of the two."
+    },
+    {
+     "id": "3:18.3",
+     "gloss": "it will sprout",
+     "sense": "Hiph 2",
+     "note": "Hiphil imperfect, 3rd feminine singular; the subject is the ground (feminine). 'It causes to sprout', so thorns and thistles are the object, placed first."
+    },
+    {
+     "id": "3:18.4",
+     "gloss": "for you",
+     "note": "לָךְ is the pausal form of לְךָ, 'for you' (masculine singular), under the etnaḥta: the man is addressed. The pack parses the suffix as 2nd feminine singular; in pause the two are written alike, and the context requires the masculine. 'For you' is to the man's disadvantage."
+    },
+    {
+     "id": "3:18.5",
+     "gloss": "and you will eat",
+     "sense": "Qal 1",
+     "note": "weqatal after an imperfect continues the future sequence."
+    },
+    {
+     "id": "3:18.6",
+     "gloss": "-"
+    },
+    {
+     "id": "3:18.7",
+     "gloss": "the plants of",
+     "note": "construct state of עֵשֶׂב."
+    },
+    {
+     "id": "3:18.8",
+     "gloss": "the field",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:18.1",
+      "3:18.2",
+      "3:18.3",
+      "3:18.4"
+     ],
+     "english": "It will sprout thorns and thistles for you",
+     "literal": "'thorn and-thistle it-will-sprout for-you'; the object stands first for emphasis, which English cannot show."
+    },
+    {
+     "tokens": [
+      "3:18.5",
+      "3:18.6",
+      "3:18.7",
+      "3:18.8"
+     ],
+     "english": "and you will eat the plants of the field",
+     "literal": "'and-you-will-eat [object-marker] plant-of the-field'; the object marker אֶת has no English counterpart."
+    }
+   ],
+   "grammar": [
+    "The object (קוֹץ וְדַרְדַּר) is fronted before the verb, and the subject (the ground) is not named; it is the feminine of תַּצְמִיחַ.",
+    "תַּצְמִיחַ, Hiphil imperfect of צמח: the main accent (munaḥ) is on מִי, the final syllable, since the furtive pataḥ under ח makes no syllable; the gaʿya (meteg) on the ח is a secondary mark, not the word's stress.",
+    "The etnaḥta on לָךְ divides the verse: the curse (thorns) and then the resulting food (plants of the field). לָךְ is the pausal form of לְךָ.",
+    "וְאָכַלְתָּ is a weqatal: a future continuing the preceding imperfect.",
+    "עֵשֶׂב in the construct state is followed by הַשָּׂדֶה: 'plants of the field', contrasted with the fruit of the garden trees."
+   ],
+   "note": "Rashi and Ibn Ezra differ on what עֵשֶׂב הַשָּׂדֶה is. Rashi: the plants that grow among the sown crops, which the man must eat of necessity; Ibn Ezra: it is the bread, since in the garden he lived on the fruit of the trees. The English 'plants of the field' keeps both open.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:18:1",
+     "relation": "follows",
+     "summary": "Rashi: when you sow seeds of various kinds, the earth will sprout thorn and thistle, that is artichoke (קֻנְדָּס) and cardoon (עַכָּבִיּוֹת), which are eaten once prepared."
+    },
+    {
+     "anchor": "rashi:3:18:2",
+     "relation": "follows",
+     "summary": "Rashi: this is a curse because after the toil of sowing legumes or garden vegetables the ground sprouts thorns and thistles and other plants of the field, which you must eat of necessity (על כרחך)."
+    },
+    {
+     "anchor": "ibn-ezra:3:18:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: קוֹץ is the larger; דַּרְדַּר is smaller and grows alone."
+    },
+    {
+     "anchor": "ibn-ezra:3:18:3",
+     "relation": "records",
+     "summary": "Ibn Ezra: עֵשֶׂב הַשָּׂדֶה is the bread, since in the garden his life was from the fruit of the tree. A real alternative which the English keeps open."
+    },
+    {
+     "anchor": "radak:3:18:1",
+     "relation": "follows",
+     "summary": "Radak: in place of the seed there will come up thorns and thistles which damage the grain growing beside them."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: וְכוּבִין וְאַטְדִּין תַּצְמַח לָךְ 'thorns and briars it will sprout for you'; יָת עִסְבָּא דְחַקְלָא 'the grass of the field'."
+   ]
+  },
+  {
+   "ref": "3:19",
+   "english": "By the sweat of your face you will eat bread until you return to the ground, for from it you were taken; for you are dust, and to dust you will return.",
+   "literal": "in-sweat-of your-face you-will-eat bread until your-returning to the-ground for from-it you-were-taken for dust you and-to-dust you-will-return",
+   "tokens": [
+    {
+     "id": "3:19.1",
+     "gloss": "by the sweat of",
+     "note": "בְּזֵעַת, construct of זֵעָה (root יזע); the ב is instrumental or circumstantial."
+    },
+    {
+     "id": "3:19.2",
+     "gloss": "your face",
+     "sense": "2",
+     "note": "אַפַּיִם is a dual ('nostrils') and then 'face'; here the face, where sweat shows (Radak)."
+    },
+    {
+     "id": "3:19.3",
+     "gloss": "you will eat",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "3:19.4",
+     "gloss": "bread",
+     "note": "לֶחֶם, 'bread', also 'food' in general."
+    },
+    {
+     "id": "3:19.5",
+     "gloss": "until",
+     "sense": "II.1"
+    },
+    {
+     "id": "3:19.6",
+     "gloss": "your returning",
+     "sense": "Qal 2",
+     "note": "infinitive construct with a suffix, 'your returning'; the sentence 'until you return'."
+    },
+    {
+     "id": "3:19.7",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "3:19.8",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "3:19.9",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "3:19.10",
+     "gloss": "from it",
+     "sense": "1.a",
+     "note": "מִן with a 3rd feminine suffix, with a dagesh: it refers to הָאֲדָמָה."
+    },
+    {
+     "id": "3:19.11",
+     "gloss": "you were taken",
+     "sense": "Pu 1",
+     "note": "Pual perfect: the passive of לָקַח, 'you were taken'."
+    },
+    {
+     "id": "3:19.12",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "3:19.13",
+     "gloss": "dust",
+     "note": "עָפָר, 'dry earth, dust'."
+    },
+    {
+     "id": "3:19.14",
+     "gloss": "you"
+    },
+    {
+     "id": "3:19.15",
+     "gloss": "and to",
+     "sense": "1"
+    },
+    {
+     "id": "3:19.16",
+     "gloss": "dust"
+    },
+    {
+     "id": "3:19.17",
+     "gloss": "you will return",
+     "sense": "Qal 2",
+     "note": "Qal imperfect, 2nd masculine singular, of שׁוּב, under the silluq (the form is the same out of pause); the same verb as שׁוּבְךָ earlier in the verse, so the verse ends where it began, with the return to the earth."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:19.1",
+      "3:19.2"
+     ],
+     "english": "By the sweat of your face",
+     "literal": "'in-sweat-of your-face'."
+    },
+    {
+     "tokens": [
+      "3:19.3",
+      "3:19.4"
+     ],
+     "english": "you will eat bread",
+     "literal": "'you-will-eat bread'."
+    },
+    {
+     "tokens": [
+      "3:19.5",
+      "3:19.6",
+      "3:19.7",
+      "3:19.8"
+     ],
+     "english": "until you return to the ground",
+     "literal": "'until your-returning to the-ground'."
+    },
+    {
+     "tokens": [
+      "3:19.9",
+      "3:19.10",
+      "3:19.11"
+     ],
+     "english": "for from it you were taken",
+     "literal": "'for from-it you-were-taken'; the ground, the source of the man, is the antecedent."
+    },
+    {
+     "tokens": [
+      "3:19.12",
+      "3:19.13",
+      "3:19.14"
+     ],
+     "english": "for you are dust",
+     "literal": "'for dust you'; the verbless clause puts עָפָר first."
+    },
+    {
+     "tokens": [
+      "3:19.15",
+      "3:19.16",
+      "3:19.17"
+     ],
+     "english": "and to dust you will return",
+     "literal": "'and-to-dust you-will-return'."
+    }
+   ],
+   "grammar": [
+    "בְּזֵעַת אַפֶּיךָ: the noun זֵעָה (root יזע) is in the construct; Ibn Ezra notes the pattern is like שֵׁנָה and compares יֶזַע in Ezekiel 44:18.",
+    "The disjunctive zaqef qaton on לֶחֶם marks the end of the first clause: the toil and the bread are one unit.",
+    "עַד שׁוּבְךָ: an infinitive construct with a suffix gives a time clause: 'until your returning'.",
+    "כִּי עָפָר אַתָּה: the predicate comes first in a verbless clause, giving emphasis (dust you are).",
+    "The ending is a pair of balanced clauses: מִמֶּנָּה לֻקָּחְתָּ and אֶל עָפָר תָּשׁוּב; the verb of return (שׁוּב) is played against the origin."
+   ],
+   "note": "אַפֶּיךָ is literally 'your nostrils' (a dual); it stands for the face, since sweat shows there, so the English says 'face', not 'brow'.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:19:1",
+     "relation": "follows",
+     "summary": "Rashi: בְּזֵעַת אַפֶּיךָ means 'after you have toiled at it greatly'."
+    },
+    {
+     "anchor": "ibn-ezra:3:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the sweat means he must toil to winnow, grind, knead and cook, unlike the food of animals; the noun is from the root יזע, as in Ezekiel 44:18. He also explains that bones come from the earth."
+    },
+    {
+     "anchor": "radak:3:19:1",
+     "relation": "follows",
+     "summary": "Radak: if you want to eat bread you will eat it with strong toil until sweat goes out of your face; the face is named because the sweat is seen there."
+    },
+    {
+     "anchor": "radak:3:19:2",
+     "relation": "not-applicable",
+     "summary": "Radak: because you were drawn to the element of earth and not to the upper element, your form will leave no upper element behind you. A philosophical comment, not bearing on the English words."
+    },
+    {
+     "anchor": "sforno:3:19:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: as I warned you at 2:17, 'dying you shall die', that you would be prepared for death at the end."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: בְּזִעֲתָא דְאַפָּךְ תֵּיכוּל לַחְמָא 'in the sweat of your face you will eat bread'; the same."
+   ]
+  },
+  {
+   "ref": "3:20",
+   "english": "The human called his wife's name Eve, because she was the mother of all the living.",
+   "literal": "and-called the-human name-of his-wife Eve for she she-was mother-of all living",
+   "tokens": [
+    {
+     "id": "3:20.1",
+     "gloss": "and called",
+     "sense": "Qal 6",
+     "note": "wayyiqtol: it narrates; 'and he called'."
+    },
+    {
+     "id": "3:20.2",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "הָאָדָם with the article: 'the human', as in decisions."
+    },
+    {
+     "id": "3:20.3",
+     "gloss": "the name of",
+     "sense": "3",
+     "note": "construct state of שֵׁם."
+    },
+    {
+     "id": "3:20.4",
+     "gloss": "his wife",
+     "sense": "2",
+     "note": "construct with the 3rd masculine suffix; אִשְׁתּוֹ."
+    },
+    {
+     "id": "3:20.5",
+     "gloss": "Eve",
+     "note": "חַוָּה, 'Eve', a name with a pun on the root of 'life' (חיה); the pack's entry gives 'life'. Rashi: it resembles חַיָּה, 'she gives life to her offspring'."
+    },
+    {
+     "id": "3:20.6",
+     "gloss": "because",
+     "sense": "3"
+    },
+    {
+     "id": "3:20.7",
+     "gloss": "she",
+     "sense": "1",
+     "note": "the independent pronoun 'she'. In the Torah the feminine pronoun is usually written with the letters of 'he' (הוא) and pointed הִוא to be read hi; MAM prints it so here."
+    },
+    {
+     "id": "3:20.8",
+     "gloss": "was",
+     "sense": "Qal III",
+     "note": "perfect 3rd feminine singular with the accent on the final syllable."
+    },
+    {
+     "id": "3:20.9",
+     "gloss": "mother of",
+     "sense": "1",
+     "note": "construct state of אֵם."
+    },
+    {
+     "id": "3:20.10",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "3:20.11",
+     "gloss": "the living",
+     "sense": "1.a",
+     "note": "חַי used as a noun, 'living one'; Ibn Ezra and Radak: human beings only."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:20.1",
+      "3:20.2",
+      "3:20.3",
+      "3:20.4"
+     ],
+     "english": "The human called his wife's name",
+     "literal": "'and-called the-human name-of his-wife'."
+    },
+    {
+     "tokens": [
+      "3:20.5"
+     ],
+     "english": "Eve",
+     "literal": "'Eve'; the name means 'life-giver' in the sense given by the explanation that follows."
+    },
+    {
+     "tokens": [
+      "3:20.6",
+      "3:20.7",
+      "3:20.8"
+     ],
+     "english": "because she was",
+     "literal": "'for she she-was'; the pronoun is explicit, so the clause stresses her."
+    },
+    {
+     "tokens": [
+      "3:20.9",
+      "3:20.10",
+      "3:20.11"
+     ],
+     "english": "the mother of all the living",
+     "literal": "'mother-of all living'; חַי is 'living', in the collective sense."
+    }
+   ],
+   "grammar": [
+    "The verse connects the name חַוָּה with the root חיה: she was אֵם כָּל חָי. The meaning is given in the verse and not in the English line.",
+    "Ibn Ezra: ו and י interchange (as in הוֹיָה, Exodus 9:3, and הֹוֶה, Nehemiah 6:6), so the name is a form of חַיָּה; it is not written with י, for then there would be no difference between her name and the name of the animals.",
+    "The tevir on הָאָדָם marks a pause after the subject, the darga on וַיִּקְרָא preparing it; the etnaḥta on חַוָּה separates the name from the reason.",
+    "The pronoun הִוא with the perfect הָיְתָה states the reason with emphasis: 'she, she was'.",
+    "חָי as a collective noun without the article."
+   ],
+   "note": "הָאָדָם has the article, so 'the human'; this is the pack's reading, as decisions.md directs. 'The living' is general, though Ibn Ezra and Radak limit it to human beings; the English does not add 'human'.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:20:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: Scripture returns to the earlier matter of naming (2:19–20); it was interrupted to teach that through the naming Eve was joined to him, and he gives a homily on the serpent's desire. It does not bear on the plain words."
+    },
+    {
+     "anchor": "rashi:3:20:2",
+     "relation": "follows",
+     "summary": "Rashi: חַוָּה falls on the sense of חַיָּה, 'she gives life to her offspring', like הֹוֶה in Ecclesiastes 2:22 (from the root הָיָה). The name's meaning stays in the note."
+    },
+    {
+     "anchor": "ibn-ezra:3:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: ו and י interchange, as in הוֹיָה (Exodus 9:3) and הֹוֶה (Nehemiah 6:6). The name was not written with י, for then there would be no difference between her name and the name of the animals (חַיּוֹת)."
+    },
+    {
+     "anchor": "ibn-ezra:3:20:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אֵם כָּל חָי means 'of human beings'. The English 'the living' is left general with this in the note."
+    },
+    {
+     "anchor": "radak:3:20:3",
+     "relation": "follows",
+     "summary": "Radak: חָי means 'speaking' (מְדַבֵּר), as כָּל בָּשָׂר in Psalm 145:21 and Isaiah 66:23 means people only."
+    },
+    {
+     "anchor": "sforno:3:20:2",
+     "relation": "records",
+     "summary": "Sforno: although this will happen to other women also, she alone has this name because she was the first of all of them."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: אֲרֵי הִיא הֲוַת אִמָּא דְכָל בְּנֵי אֱנָשָׁא 'for she was the mother of all the children of men' (a human reading)."
+   ]
+  },
+  {
+   "ref": "3:21",
+   "english": "The LORD God made tunics of skin for Adam and for his wife, and clothed them.",
+   "literal": "and-made the-LORD God for-Adam and-for-his-wife tunics-of skin and-clothed-them",
+   "tokens": [
+    {
+     "id": "3:21.1",
+     "gloss": "and made",
+     "sense": "Qal II.1",
+     "note": "wayyiqtol; a narrative past."
+    },
+    {
+     "id": "3:21.2",
+     "gloss": "the LORD",
+     "note": "the divine name, rendered 'the LORD' (decisions.md)."
+    },
+    {
+     "id": "3:21.3",
+     "gloss": "God",
+     "sense": "4",
+     "note": "יְהוָה אֱלֹהִים together are 'the LORD God' (decisions.md)."
+    },
+    {
+     "id": "3:21.4",
+     "gloss": "for Adam",
+     "sense": "3",
+     "note": "לְאָדָם without the article. The pack parses אָדָם here as a common noun, not a proper name; the English gives 'Adam' as in 3:17, following decisions.md for the unarticled form, and the common-noun reading 'for the man' is possible."
+    },
+    {
+     "id": "3:21.5",
+     "gloss": "and for his wife",
+     "sense": "2",
+     "note": "construct state with a 3rd masculine suffix."
+    },
+    {
+     "id": "3:21.6",
+     "gloss": "tunics of",
+     "note": "construct plural of כֻּתֹּנֶת, 'tunic'."
+    },
+    {
+     "id": "3:21.7",
+     "gloss": "skin",
+     "sense": "2",
+     "note": "עוֹר is 'skin' or 'hide'."
+    },
+    {
+     "id": "3:21.8",
+     "gloss": "and clothed them",
+     "sense": "Hiph",
+     "note": "Hiphil wayyiqtol: the object suffix is 3rd masculine plural (them); 'and he clothed them'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:21.1",
+      "3:21.2",
+      "3:21.3"
+     ],
+     "english": "The LORD God made",
+     "literal": "'and-made the-LORD God'."
+    },
+    {
+     "tokens": [
+      "3:21.4",
+      "3:21.5"
+     ],
+     "english": "for Adam and for his wife",
+     "literal": "'for-Adam and-for-his-wife'."
+    },
+    {
+     "tokens": [
+      "3:21.6",
+      "3:21.7"
+     ],
+     "english": "tunics of skin",
+     "literal": "'tunics-of skin'; Rashi and Ibn Ezra differ on what these were."
+    },
+    {
+     "tokens": [
+      "3:21.8"
+     ],
+     "english": "and clothed them",
+     "literal": "'and-clothed-them'."
+    }
+   ],
+   "grammar": [
+    "וַיַּעַשׂ: a wayyiqtol of עשׂה with two telisha accents; the shortened form of the Qal.",
+    "The word order is verb, subject, indirect objects, direct object, and then a second verb with a suffix.",
+    "כָּתְנוֹת עוֹר: a construct chain, 'tunics of skin'; whether the tunics were of skin or for the skin (כתנות לעורם) is the question the commentators take up.",
+    "The silluq closes the verse with a Hiphil wayyiqtol: 'he made them wear', the causative of לָבַשׁ."
+   ],
+   "note": "כָּתְנוֹת עוֹר is rendered 'tunics of skin'; Rashi's alternative, something that comes from the skin (soft, warm hare's wool), is recorded, and the English does not choose between them. Ibn Ezra's own conclusion is that we need only believe that God made them.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:21:1",
+     "relation": "records",
+     "summary": "Rashi: some aggadic sources say the tunics were smooth like a fingernail, stuck to the skin; others say something from the skin, like soft, warm hare's wool, from which He made tunics. The English keeps the plain 'garments of skin'."
+    },
+    {
+     "anchor": "ibn-ezra:3:21:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra lists several views (skin over bone and flesh; tunics for their skin; an animal like a man whose skin was flayed), and concludes that we need only believe that God made garments of skin for the man and his wife. The English keeps the plain sense."
+    },
+    {
+     "anchor": "radak:3:21:1",
+     "relation": "follows",
+     "summary": "Radak: one need not ask how God made these garments, for it is no greater wonder than the rest of creation; God commanded and they were made."
+    },
+    {
+     "anchor": "sforno:3:21:2",
+     "relation": "not-applicable",
+     "summary": "Sforno: He clothed them so that He would not drive them out naked, so that they would not later think they had added a merit by clothing themselves."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: לְבוּשִׁין דִּיקָר עַל מְשַׁךְ בִּשְׂרֵיהוֹן 'garments of glory upon the skin of their flesh'; this paraphrase reads עוֹר as the skin they already had."
+   ]
+  }
+ ]
+}

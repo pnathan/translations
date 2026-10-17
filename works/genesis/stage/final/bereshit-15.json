@@ -1,0 +1,931 @@
+{
+ "unit": "bereshit-15",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "4:22",
+   "english": "Zillah too bore Tubal-cain, who sharpened every tool of the craft in bronze and iron; and Tubal-cain's sister was Naamah.",
+   "literal": "and-Zillah also-she bore ACC Tubal Cain sharpener-of every cutter-of bronze and-iron and-sister-of Tubal-Cain Naamah",
+   "tokens": [
+    {
+     "id": "4:22.1",
+     "gloss": "and Zillah"
+    },
+    {
+     "id": "4:22.2",
+     "gloss": "also"
+    },
+    {
+     "id": "4:22.3",
+     "gloss": "she"
+    },
+    {
+     "id": "4:22.4",
+     "gloss": "bore",
+     "sense": "Qal 1",
+     "note": "qatal 3fs; 'Zillah, she too, bore' marks Zillah as parallel to Adah (vv. 19-21)"
+    },
+    {
+     "id": "4:22.5",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "4:22.6",
+     "gloss": "Tubal"
+    },
+    {
+     "id": "4:22.7",
+     "gloss": "Cain"
+    },
+    {
+     "id": "4:22.8",
+     "gloss": "sharpener of",
+     "sense": "Qal 2",
+     "note": "participle construct; Ibn Ezra: 'like sharpening'; Rashi cites Job 16:9 for the verb"
+    },
+    {
+     "id": "4:22.9",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "4:22.10",
+     "gloss": "cutter of / worker of",
+     "sense": "Qal 1",
+     "note": "participle (construct); Rashi: חוֹרֵשׁ is not a finite verb (פָּעַל, 'he ploughed') but a participle, an agent word (פּוֹעֵל), since it is pointed with tsere (his 'small qamets') and accented on the last syllable (טַעְמוֹ לְמַטָּה); he takes it of every implement of the craft"
+    },
+    {
+     "id": "4:22.11",
+     "gloss": "bronze",
+     "sense": "1"
+    },
+    {
+     "id": "4:22.12",
+     "gloss": "and iron",
+     "sense": "1"
+    },
+    {
+     "id": "4:22.13",
+     "gloss": "and sister of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "4:22.14",
+     "gloss": "Tubal"
+    },
+    {
+     "id": "4:22.15",
+     "gloss": "Cain"
+    },
+    {
+     "id": "4:22.16",
+     "gloss": "Naamah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:22.1",
+      "4:22.2",
+      "4:22.3"
+     ],
+     "english": "Zillah too",
+     "literal": "'and-Zillah also-she'; the pronoun is emphatic: she too, like Adah"
+    },
+    {
+     "tokens": [
+      "4:22.4"
+     ],
+     "english": "bore",
+     "literal": "'she bore'"
+    },
+    {
+     "tokens": [
+      "4:22.5"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "4:22.6",
+      "4:22.7"
+     ],
+     "english": "Tubal-cain",
+     "literal": "a double name; Rashi takes Tubal from tavlin 'seasoning', Tubal-cain as the craft of Cain"
+    },
+    {
+     "tokens": [
+      "4:22.8"
+     ],
+     "english": "who sharpened",
+     "literal": "'sharpener-of'; the participle is rendered as a relative clause"
+    },
+    {
+     "tokens": [
+      "4:22.9",
+      "4:22.10",
+      "4:22.11",
+      "4:22.12"
+     ],
+     "english": "every tool of the craft in bronze and iron",
+     "literal": "'every cutter-of bronze and-iron'; Rashi: every implement of the bronze and iron craft"
+    },
+    {
+     "tokens": [
+      "4:22.13",
+      "4:22.14",
+      "4:22.15"
+     ],
+     "english": "and Tubal-cain's sister",
+     "literal": "'and-sister-of Tubal-Cain'"
+    },
+    {
+     "tokens": [
+      "4:22.16"
+     ],
+     "english": "was Naamah",
+     "literal": "verbless clause: 'Naamah'"
+    }
+   ],
+   "grammar": [
+    "וְצִלָּה גַם־הִוא: the independent pronoun after the subject stresses it: Zillah, she too, bore, matching Adah's sons in vv. 20-21.",
+    "The etnaḥta on וּבַרְזֶל divides the verse: Tubal-cain and his craft, then Naamah. Within the first half the zaqef gadol on לֹטֵשׁ is a lesser pause.",
+    "לֹטֵשׁ is a participle in construct with the phrase כָּל־חֹרֵשׁ, which in turn governs נְחֹשֶׁת; the phrase can be read 'sharpener of every worker in bronze and iron' or, with Rashi, 'sharpener of every craft-tool of bronze and iron'.",
+    "וַאֲחוֹת: a verbless clause with no verb 'was' in Hebrew; the sister is introduced as a name only."
+   ],
+   "note": "חֹרֵשׁ is the hard word. Rashi takes it as a noun (worker, tool of the craft) and has Tubal-cain sharpening and polishing all such implements; Ibn Ezra glosses לֹטֵשׁ as 'sharpen'. The English follows both on לֹטֵשׁ and takes Rashi's sense of the object. Tubal-cain is not said to be the 'father' of the craft here, unlike 4:20-21 (Ramban notes Onkelos adds 'father of'). BDB lists only Qal 1-3 for the participle; Qal 1 (cut in) is the closest to 'forge, cut'.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:22:1",
+     "relation": "records",
+     "summary": "Rashi: Tubal is from tavlin 'spice': Tubal-cain refined and prepared Cain's craft, making weapons for murderers. The English gives the name without this etymology."
+    },
+    {
+     "anchor": "rashi:4:22:2",
+     "relation": "follows",
+     "summary": "Rashi: לֹטֵשׁ means sharpening, as in 'he sharpens his eyes at me' (Job 16:9). חוֹרֵשׁ is not a finite verb ('he ploughed') but a participle, an agent word (לְשׁוֹן פּוֹעֵל), since it has tsere and final stress; so: he sharpened and polished every implement of the bronze and iron craft."
+    },
+    {
+     "anchor": "rashi:4:22:3",
+     "relation": "records",
+     "summary": "Rashi: Naamah is Noah's wife. The text itself names her only as Tubal-cain's sister."
+    },
+    {
+     "anchor": "ibn-ezra:4:22:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: לוטש is 'sharpening', and compares 1 Sam 13:20, 'to sharpen each his ploughshare'."
+    },
+    {
+     "anchor": "ramban:4:22:1",
+     "relation": "records",
+     "summary": "Ramban: the sense is that he sharpened and worked all bronze and iron; Onkelos reads 'father of every sharpener of bronze and iron'."
+    },
+    {
+     "anchor": "ramban:4:22:2",
+     "relation": "records",
+     "summary": "Ramban on the sister: the verse says 'a sister was born to him, named Naamah'; midrashim identify her with Noah's wife or the seductress of 6:2."
+    }
+   ],
+   "apparatus": [
+    "The Hebrew has no verb in the last clause: 'sister of Tubal-cain, Naamah'.",
+    "Onkelos: 'father of' is added to the participle (Ramban 4:22:1)."
+   ]
+  },
+  {
+   "ref": "4:23",
+   "english": "Lamech said to his wives, \"Adah and Zillah, hear my voice; wives of Lamech, listen to my speech: have I killed a man by my wounding, a boy by my bruising?\"",
+   "literal": "and-said Lamech to-wives-his Adah and-Zillah hear-(f.pl.) voice-my wives-of Lamech give-ear-(f.pl.) speech-my for man I-killed to-wound-my and-boy to-bruise-my",
+   "tokens": [
+    {
+     "id": "4:23.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; ו rendered by the narrative sequence"
+    },
+    {
+     "id": "4:23.2",
+     "gloss": "Lamech"
+    },
+    {
+     "id": "4:23.3",
+     "gloss": "to his wives",
+     "sense": "2",
+     "note": "ל + construct plural of אִשָּׁה (irregular plural נשים) + 3ms suffix"
+    },
+    {
+     "id": "4:23.4",
+     "gloss": "Adah"
+    },
+    {
+     "id": "4:23.5",
+     "gloss": "and Zillah"
+    },
+    {
+     "id": "4:23.6",
+     "gloss": "hear (you women)",
+     "note": "feminine plural imperative in -nah; BDB lists only Niph and Pi senses for this entry, so no sense path is given"
+    },
+    {
+     "id": "4:23.7",
+     "gloss": "my voice"
+    },
+    {
+     "id": "4:23.8",
+     "gloss": "wives of",
+     "sense": "2"
+    },
+    {
+     "id": "4:23.9",
+     "gloss": "Lamech"
+    },
+    {
+     "id": "4:23.10",
+     "gloss": "listen (you women)",
+     "sense": "1",
+     "note": "Hifil denominative of אֹזֶן 'ear': 'give ear'; feminine plural imperative"
+    },
+    {
+     "id": "4:23.11",
+     "gloss": "my speech",
+     "note": "construct with 1cs suffix"
+    },
+    {
+     "id": "4:23.12",
+     "gloss": "(that) / for",
+     "note": "kî: causal 'for', or introducing the clause; Rashi reads the following as a rhetorical question"
+    },
+    {
+     "id": "4:23.13",
+     "gloss": "a man"
+    },
+    {
+     "id": "4:23.14",
+     "gloss": "I have killed",
+     "sense": "Qal 1.a",
+     "note": "qatal 1cs; Ibn Ezra takes it as future ('I would kill'), as in Gen 23:13; Rashi reads it with the question"
+    },
+    {
+     "id": "4:23.15",
+     "gloss": "by my wounding",
+     "note": "ל + פֶּצַע + 1cs suffix; Rashi: by a wound I gave (did I wound him wilfully?); Ibn Ezra: for a wound given me"
+    },
+    {
+     "id": "4:23.16",
+     "gloss": "and a boy"
+    },
+    {
+     "id": "4:23.17",
+     "gloss": "by my bruising"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:23.1",
+      "4:23.2"
+     ],
+     "english": "Lamech said",
+     "literal": "'and-said Lamech'"
+    },
+    {
+     "tokens": [
+      "4:23.3"
+     ],
+     "english": "to his wives",
+     "literal": "'to-wives-his'"
+    },
+    {
+     "tokens": [
+      "4:23.4",
+      "4:23.5"
+     ],
+     "english": "Adah and Zillah",
+     "literal": "'Adah and-Zillah'"
+    },
+    {
+     "tokens": [
+      "4:23.6",
+      "4:23.7"
+     ],
+     "english": "hear my voice",
+     "literal": "'hear-f.pl. voice-my'"
+    },
+    {
+     "tokens": [
+      "4:23.8",
+      "4:23.9"
+     ],
+     "english": "wives of Lamech",
+     "literal": "'wives-of Lamech'"
+    },
+    {
+     "tokens": [
+      "4:23.10",
+      "4:23.11"
+     ],
+     "english": "listen to my speech",
+     "literal": "'give-ear-f.pl. speech-my'"
+    },
+    {
+     "tokens": [
+      "4:23.12",
+      "4:23.13",
+      "4:23.14"
+     ],
+     "english": "have I killed a man",
+     "literal": "'for/that man I-killed'; the כִּי is taken as the opening of a rhetorical question, after Rashi"
+    },
+    {
+     "tokens": [
+      "4:23.15"
+     ],
+     "english": "by my wounding",
+     "literal": "'to-wound-my': with Rashi, by means of a wound I gave (עַל יְדֵי)"
+    },
+    {
+     "tokens": [
+      "4:23.16"
+     ],
+     "english": "a boy",
+     "literal": "'and-boy'"
+    },
+    {
+     "tokens": [
+      "4:23.17"
+     ],
+     "english": "by my bruising",
+     "literal": "'to-bruise-my': with Rashi, by means of a blow I gave"
+    }
+   ],
+   "grammar": [
+    "The two imperatives in the feminine plural, שְׁמַעַן and הַאְזֵנָּה, are in parallel lines: this short poem has the parallelism of Hebrew verse (voice/speech, man/boy, wound/bruise).",
+    "There is no ה of question, but Rashi reads the lines as questions 'in astonishment' (בִּתְמִיהָ): is the man I killed killed by my wounding? The reading is possible but not forced; the plain statement 'I have killed a man for my wound' is also grammatical.",
+    "הָרַגְתִּי is a qatal; Ibn Ezra takes it as standing for the imperfect אהרוג, 'I will kill', like נָתַתִּי in Gen 23:13.",
+    "The ל in לְפִצְעִי and לְחַבֻּרָתִי is read two ways: 'by', by means of a wound I gave (Rashi: עַל יְדֵי חַבֻּרָתִי), or 'for', in return for a wound given me (Ibn Ezra: if a man wounds me).",
+    "פֶּצַע and חַבּוּרָה are both words for injury, a cut and a welt; Rashi glosses פֶּצַע as a blow of sword or arrow."
+   ],
+   "note": "The poem is one of the hardest in Genesis. The English follows Rashi's rhetorical-question reading (4:23:2): the ל is 'by', the wound is one Lamech gave, and he denies he gave it wilfully; this makes the sequel in v. 24 an argument from the lesser to the greater. Ibn Ezra reads a threat instead: if any adult or child wounds me, I will kill him (the ל 'for', הָרַגְתִּי for אֶהֱרֹג); that reading is recorded. The Hebrew allows a flat confession too ('I have killed a man for wounding me'). The readings differ in the tense and mood of the verb and in the sense of the ל.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:23:1",
+     "relation": "records",
+     "summary": "Rashi (midrash): the wives had withdrawn from him because he killed Cain and his son Tubal-cain; the blind Lamech, led by Tubal-cain, shot at Cain, thinking him an animal, then clapped his hands and killed his son. This story is not in the Hebrew words."
+    },
+    {
+     "anchor": "rashi:4:23:2",
+     "relation": "follows",
+     "summary": "Rashi: the verses are questions in astonishment: is a man killed because of my wound? did I wound him deliberately? Was a boy killed by my bruise? I acted in error, not wilfully."
+    },
+    {
+     "anchor": "rashi:4:23:3",
+     "relation": "follows",
+     "summary": "Rashi: פֶּצַע is a blow by sword or arrow (old French mecaldure); the English has 'wound'."
+    },
+    {
+     "anchor": "ibn-ezra:4:23:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: the story is out of order; Adah and Zillah feared to bear sons who would be killed as seventh from Cain; Lamech answers that if anyone, man or boy, wounds him he will kill; הרגתי stands for אהרוג, as נתתי in Gen 23:13."
+    },
+    {
+     "anchor": "ibn-ezra:4:23:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: Lamech tells his wives the decree against Cain is annulled; he killed deliberately but I did not; Lamech's sons died in the Flood and Cain kept no name from his brother's murder."
+    }
+   ],
+   "apparatus": [
+    "Possible readings of הָרַגְתִּי: 'I have killed' (confession), 'have I killed?' (Rashi), 'I would kill' (Ibn Ezra).",
+    "Targum and midrash tradition identify the boy and man with Tubal-cain and Cain (Rashi 4:23:1)."
+   ]
+  },
+  {
+   "ref": "4:24",
+   "english": "For if vengeance is taken on Cain sevenfold, then on Lamech seventy-seven.",
+   "literal": "for sevenfold is-avenged Cain and-Lamech seventy and-seven",
+   "tokens": [
+    {
+     "id": "4:24.1",
+     "gloss": "for / if",
+     "note": "kî: Rashi reads a conditional a fortiori: if Cain..., then Lamech all the more"
+    },
+    {
+     "id": "4:24.2",
+     "gloss": "sevenfold"
+    },
+    {
+     "id": "4:24.3",
+     "gloss": "vengeance is taken (on)",
+     "sense": "Hoph",
+     "note": "Hofal imperfect 3ms, passive of נָקַם: 'vengeance is taken'; compare Gen 4:15 (yuqam)"
+    },
+    {
+     "id": "4:24.4",
+     "gloss": "Cain"
+    },
+    {
+     "id": "4:24.5",
+     "gloss": "and Lamech"
+    },
+    {
+     "id": "4:24.6",
+     "gloss": "seventy"
+    },
+    {
+     "id": "4:24.7",
+     "gloss": "and seven"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:24.1"
+     ],
+     "english": "For if",
+     "literal": "'for/that'"
+    },
+    {
+     "tokens": [
+      "4:24.2",
+      "4:24.3",
+      "4:24.4"
+     ],
+     "english": "vengeance is taken on Cain sevenfold",
+     "literal": "'sevenfold is-avenged Cain'; the Hofal: vengeance is taken on him; the Hebrew puts the number first, for emphasis"
+    },
+    {
+     "tokens": [
+      "4:24.5"
+     ],
+     "english": "then on Lamech",
+     "literal": "'and-Lamech': the waw of apodosis, not simple addition"
+    },
+    {
+     "tokens": [
+      "4:24.6",
+      "4:24.7"
+     ],
+     "english": "seventy-seven",
+     "literal": "'seventy and-seven'; no verb is repeated"
+    }
+   ],
+   "grammar": [
+    "שִׁבְעָתַיִם is a dual form of 'seven', 'sevenfold, seven times'; the Hoph'al of נקם is passive, 'vengeance is taken' (on Cain, with Rashi; compare 4:15).",
+    "Lamech's clause has no verb: it takes יֻקַּם from the first half, an ellipsis in parallelism.",
+    "The etnaḥta falls on קָיִן and divides the two halves: Cain's sevenfold, then Lamech's seventy-seven.",
+    "The number is in words in the English line: 'sevenfold', 'seventy-seven' (Hebrew: seventy and seven)."
+   ],
+   "note": "The English follows Rashi's first reading: an a fortiori argument (Cain, a deliberate killer, had his punishment delayed seven generations, so Lamech, who killed in error, should have more). Rashi also records the midrashic view that Lamech killed no one and his wives withdrew from him, and calls the logic 'an a fortiori of foolishness'. The Hofal leaves the avenger unnamed; with Rashi, and as in 4:15, the vengeance is taken on Cain, not on his behalf.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:24:1",
+     "relation": "follows",
+     "summary": "Rashi: Cain, who killed deliberately, was given a delay of seven generations; I who killed in error should be given sevens upon sevens."
+    },
+    {
+     "anchor": "rashi:4:24:2",
+     "relation": "follows",
+     "summary": "Rashi: 'seventy-seven' is an expression of many sevens (Tanhuma); Genesis Rabbah has Lamech killing no one, the wives abstaining because Cain's line was to end after seven generations, and Lamech arguing a fortiori, which Rashi calls a foolish argument."
+    }
+   ],
+   "apparatus": [
+    "The verb is absent from the second clause: 'and Lamech seventy and seven' (understood: vengeance is taken)."
+   ]
+  },
+  {
+   "ref": "4:25",
+   "english": "Adam was intimate once more with his wife, and she bore a son and named him Seth, \"for God has appointed me another offspring in place of Abel, because Cain killed him.\"",
+   "literal": "and-knew Adam again ACC wife-his and-she bore son and-she called ACC name-his Seth for set to-me God seed another instead-of Abel for killed-him Cain",
+   "tokens": [
+    {
+     "id": "4:25.1",
+     "gloss": "and knew",
+     "sense": "Qal 3",
+     "note": "wayyiqtol; 'know' of intimate relations"
+    },
+    {
+     "id": "4:25.2",
+     "gloss": "Adam",
+     "sense": "3",
+     "note": "no article: proper name, as in decisions"
+    },
+    {
+     "id": "4:25.3",
+     "gloss": "again / once more"
+    },
+    {
+     "id": "4:25.4",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "4:25.5",
+     "gloss": "his wife",
+     "sense": "2",
+     "note": "construct + 3ms suffix"
+    },
+    {
+     "id": "4:25.6",
+     "gloss": "and she bore",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 3fs"
+    },
+    {
+     "id": "4:25.7",
+     "gloss": "a son",
+     "sense": "1"
+    },
+    {
+     "id": "4:25.8",
+     "gloss": "and she called",
+     "sense": "Qal 6",
+     "note": "wayyiqtol 3fs; the woman names the child"
+    },
+    {
+     "id": "4:25.9",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "4:25.10",
+     "gloss": "his name",
+     "sense": "3"
+    },
+    {
+     "id": "4:25.11",
+     "gloss": "Seth",
+     "note": "wordplay: שֵׁת and שָׁת, 'set, appointed'"
+    },
+    {
+     "id": "4:25.12",
+     "gloss": "for / because"
+    },
+    {
+     "id": "4:25.13",
+     "gloss": "has set / appointed",
+     "sense": "Qal 3",
+     "note": "qatal 3ms of שִׁית; pausal-free, with maqqef; plays on the name Seth"
+    },
+    {
+     "id": "4:25.14",
+     "gloss": "for me / to me",
+     "note": "ל + 1cs suffix"
+    },
+    {
+     "id": "4:25.15",
+     "gloss": "God",
+     "sense": "4",
+     "note": "plural form with singular verb: the God of Israel"
+    },
+    {
+     "id": "4:25.16",
+     "gloss": "offspring",
+     "sense": "4"
+    },
+    {
+     "id": "4:25.17",
+     "gloss": "another"
+    },
+    {
+     "id": "4:25.18",
+     "gloss": "in place of"
+    },
+    {
+     "id": "4:25.19",
+     "gloss": "Abel"
+    },
+    {
+     "id": "4:25.20",
+     "gloss": "because"
+    },
+    {
+     "id": "4:25.21",
+     "gloss": "killed him",
+     "sense": "Qal 1.a",
+     "note": "qatal 3ms + 3ms object suffix"
+    },
+    {
+     "id": "4:25.22",
+     "gloss": "Cain"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:25.1",
+      "4:25.2"
+     ],
+     "english": "Adam was intimate",
+     "literal": "'and-knew Adam'; 'know' as intimacy"
+    },
+    {
+     "tokens": [
+      "4:25.3"
+     ],
+     "english": "once more",
+     "literal": "'again'; Rashi: his desire was added to his desire"
+    },
+    {
+     "tokens": [
+      "4:25.4"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "4:25.5"
+     ],
+     "english": "with his wife",
+     "literal": "'wife-his'"
+    },
+    {
+     "tokens": [
+      "4:25.6"
+     ],
+     "english": "and she bore",
+     "literal": "'and-she bore'"
+    },
+    {
+     "tokens": [
+      "4:25.7"
+     ],
+     "english": "a son",
+     "literal": "'son'"
+    },
+    {
+     "tokens": [
+      "4:25.8"
+     ],
+     "english": "and named",
+     "literal": "'and-she called'"
+    },
+    {
+     "tokens": [
+      "4:25.9"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "4:25.10"
+     ],
+     "english": "him",
+     "literal": "'name-his': the name is the object, rendered 'named him'"
+    },
+    {
+     "tokens": [
+      "4:25.11"
+     ],
+     "english": "Seth",
+     "literal": "'Seth'"
+    },
+    {
+     "tokens": [
+      "4:25.12"
+     ],
+     "english": "for",
+     "literal": "'for'"
+    },
+    {
+     "tokens": [
+      "4:25.13",
+      "4:25.14",
+      "4:25.15"
+     ],
+     "english": "God has appointed me",
+     "literal": "'set to-me God'"
+    },
+    {
+     "tokens": [
+      "4:25.16",
+      "4:25.17"
+     ],
+     "english": "another offspring",
+     "literal": "'seed another'"
+    },
+    {
+     "tokens": [
+      "4:25.18",
+      "4:25.19"
+     ],
+     "english": "in place of Abel",
+     "literal": "'instead-of Abel'"
+    },
+    {
+     "tokens": [
+      "4:25.20",
+      "4:25.21",
+      "4:25.22"
+     ],
+     "english": "because Cain killed him",
+     "literal": "'for killed-him Cain'"
+    }
+   ],
+   "grammar": [
+    "וַיֵּדַע ... אֶת־אִשְׁתּוֹ: 'know' used of intimacy, with עוֹד 'again', recalling 4:1.",
+    "The subject of וַתִּקְרָא is the woman, who names her child, as in 4:1.",
+    "שֵׁת / שָׁת: the name and the verb שִׁית 'put, set' sound alike, the sense of the name being 'he has set (another for me)'.",
+    "The זֶרַע אַחֵר, 'another offspring', replaces Abel; תַּחַת הֶבֶל is 'in place of Abel' (Ibn Ezra: במקומו).",
+    "The two כִּי clauses: the first explains the name, the second explains why a replacement was needed."
+   ],
+   "note": "אָדָם without the article is the proper name Adam, per the decisions. The English uses 'was intimate' for וַיֵּדַע, which is plain modern English for the Hebrew idiom; the literal line keeps 'knew'. Rashi's remark that Lamech came to Adam is a midrash and is not in the text.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:25:1",
+     "relation": "not-applicable",
+     "summary": "Rashi (Genesis Rabbah): Lamech complained to Adam about his wives; they told Adam to look after himself, having separated for 130 years; at once Adam knew his wife; 'again' means his desire was added to his desire. A homily."
+    },
+    {
+     "anchor": "ibn-ezra:4:25:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: תחת הבל means 'in his place'."
+    }
+   ],
+   "apparatus": [
+    "The name שֵׁת is explained by the text itself: כִּי שָׁת־לִי אֱלֹהִים, 'for God has set (appointed) for me', with the verb שִׁית 'put, set'."
+   ]
+  },
+  {
+   "ref": "4:26",
+   "english": "To Seth, too, a son was born, and he named him Enosh. Then people began to call on the name of the LORD.",
+   "literal": "and-to-Seth also he was-born son and-he called ACC name-his Enosh then was-begun to-call in-name-of the-LORD",
+   "tokens": [
+    {
+     "id": "4:26.1",
+     "gloss": "and to Seth",
+     "note": "ו + ל + name"
+    },
+    {
+     "id": "4:26.2",
+     "gloss": "also"
+    },
+    {
+     "id": "4:26.3",
+     "gloss": "he / him"
+    },
+    {
+     "id": "4:26.4",
+     "gloss": "was born",
+     "sense": "Pu",
+     "note": "Pual perfect 3ms: 'was born'"
+    },
+    {
+     "id": "4:26.5",
+     "gloss": "a son",
+     "sense": "1"
+    },
+    {
+     "id": "4:26.6",
+     "gloss": "and he called",
+     "sense": "Qal 6",
+     "note": "wayyiqtol 3ms"
+    },
+    {
+     "id": "4:26.7",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "4:26.8",
+     "gloss": "his name",
+     "sense": "3"
+    },
+    {
+     "id": "4:26.9",
+     "gloss": "Enosh"
+    },
+    {
+     "id": "4:26.10",
+     "gloss": "then"
+    },
+    {
+     "id": "4:26.11",
+     "gloss": "it was begun",
+     "sense": "Hoph",
+     "note": "Hofal perfect 3ms of חלל; impersonal passive; Ibn Ezra: from the doubled root, 'begin', with the ח a guttural so no dagesh; Rashi reads it from חלל 'profane'"
+    },
+    {
+     "id": "4:26.12",
+     "gloss": "to call",
+     "sense": "Qal 2.a",
+     "note": "infinitive construct with ל"
+    },
+    {
+     "id": "4:26.13",
+     "gloss": "in the name of",
+     "sense": "3",
+     "note": "construct; 'call on the name of'"
+    },
+    {
+     "id": "4:26.14",
+     "gloss": "the LORD"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:26.1"
+     ],
+     "english": "To Seth",
+     "literal": "'and-to-Seth'"
+    },
+    {
+     "tokens": [
+      "4:26.2",
+      "4:26.3"
+     ],
+     "english": "too",
+     "literal": "'also he': emphatic, as in 4:22"
+    },
+    {
+     "tokens": [
+      "4:26.4",
+      "4:26.5"
+     ],
+     "english": "a son was born",
+     "literal": "'was-born son'"
+    },
+    {
+     "tokens": [
+      "4:26.6"
+     ],
+     "english": "and he named",
+     "literal": "'and-he called'"
+    },
+    {
+     "tokens": [
+      "4:26.7"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "4:26.8"
+     ],
+     "english": "him",
+     "literal": "'name-his'"
+    },
+    {
+     "tokens": [
+      "4:26.9"
+     ],
+     "english": "Enosh",
+     "literal": "'Enosh'"
+    },
+    {
+     "tokens": [
+      "4:26.10"
+     ],
+     "english": "Then",
+     "literal": "'then'"
+    },
+    {
+     "tokens": [
+      "4:26.11"
+     ],
+     "english": "people began",
+     "literal": "'was-begun': impersonal passive, supplied subject"
+    },
+    {
+     "tokens": [
+      "4:26.12"
+     ],
+     "english": "to call",
+     "literal": "'to-call'"
+    },
+    {
+     "tokens": [
+      "4:26.13",
+      "4:26.14"
+     ],
+     "english": "on the name of the LORD",
+     "literal": "'in-name-of the-LORD'"
+    }
+   ],
+   "grammar": [
+    "וּלְשֵׁת גַּם־הוּא: the ל of possession is put first with a resumptive pronoun, matching 4:22 (וְצִלָּה גַם־הִוא).",
+    "יֻלַּד is Pual; the father named the child, since the verb וַיִּקְרָא is masculine singular.",
+    "הוּחַל is Hofal of חלל, which BDB lists as one entry with two senses: 'begin' (as Ibn Ezra and the English) or 'profane' (as Rashi).",
+    "לִקְרֹא בְּשֵׁם יְהוָה: 'call on the name of the LORD', worship or prayer by name.",
+    "The disjunctive zaqef on הוּחַל divides the sentence: 'then it was begun | to call on the name of the LORD'."
+   ],
+   "note": "The English follows Ibn Ezra: הוּחַל is from 'begin' (תְּחִלָּה), and the meaning is that people began to pray. Rashi reads it as 'profane' (חֻלִּין): calling by the Name was profaned, as men and idols were called by the Name of God and made gods. Ibn Ezra's grammar argument is that if it were from 'profane' the Name would have been joined directly to the verb. The subject is not named in Hebrew (impersonal Hofal); 'people' is supplied. The name is rendered 'the LORD' per the decisions.",
+   "commentary": [
+    {
+     "anchor": "rashi:4:26:1",
+     "relation": "records",
+     "summary": "Rashi: הוּחַל is from חֻלִּין, 'profane, common': then calling by the name of the Holy One was profaned, as men and idols were called by His name, making them objects of worship and calling them gods."
+    },
+    {
+     "anchor": "ibn-ezra:4:26:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הוּחַל is a geminate verb, which would have a dagesh but for the guttural ח; it is from תְּחִלָּה 'beginning', meaning that they began to pray. Were it from 'profaning' (חִלּוּל), the Name would have been joined directly to the verb (הוּחַל שֵׁם)."
+    }
+   ],
+   "apparatus": [
+    "הוּחַל: 'began' (Ibn Ezra) or 'was profaned' (Rashi).",
+    "The subject of the Hofal is not stated; 'people' is an addition."
+   ]
+  }
+ ]
+}

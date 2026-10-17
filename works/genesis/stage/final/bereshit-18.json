@@ -1,0 +1,638 @@
+{
+ "unit": "bereshit-18",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "5:12",
+   "english": "Kenan lived seventy years, and he fathered Mahalalel.",
+   "literal": "and-lived Kenan seventy year and-fathered [obj] Mahalalel",
+   "tokens": [
+    {
+     "id": "5:12.1",
+     "gloss": "lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה: narrative sequence, 'and he lived'"
+    },
+    {
+     "id": "5:12.2",
+     "gloss": "Kenan"
+    },
+    {
+     "id": "5:12.3",
+     "gloss": "seventy"
+    },
+    {
+     "id": "5:12.4",
+     "gloss": "years",
+     "note": "singular שָׁנָה after the tens is idiomatic; here the plural-sense 'years'"
+    },
+    {
+     "id": "5:12.5",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol Hifil of ילד: of a father, 'beget'"
+    },
+    {
+     "id": "5:12.6",
+     "gloss": "object marker, untranslated"
+    },
+    {
+     "id": "5:12.7",
+     "gloss": "Mahalalel",
+     "note": "name: 'praise of God'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:12.1",
+      "5:12.2"
+     ],
+     "english": "Kenan lived",
+     "literal": "'and-lived Kenan'; verb before subject in narrative"
+    },
+    {
+     "tokens": [
+      "5:12.3",
+      "5:12.4"
+     ],
+     "english": "seventy years",
+     "literal": "'seventy year'"
+    },
+    {
+     "tokens": [
+      "5:12.5",
+      "5:12.6",
+      "5:12.7"
+     ],
+     "english": "and he fathered Mahalalel",
+     "literal": "'and-fathered [obj] Mahalalel'"
+    }
+   ],
+   "grammar": [
+    "וַיְחִי is a wayyiqtol: the verb opens the sentence and the subject follows.",
+    "The etnaḥta on שָׁנָה divides the verse after the age.",
+    "הוֹלִיד is Hifil of ילד, used of the father: 'beget'."
+   ],
+   "note": "Standard genealogical formula of Genesis 5; the second clause names the son by the Hifil of ילד.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:12:1",
+     "relation": "follows",
+     "summary": "Onkelos renders the verse closely, with the Aramaic וַחֲיָא for וַיְחִי and וְאוֹלִיד for וַיּוֹלֶד; no difference in sense."
+    }
+   ]
+  },
+  {
+   "ref": "5:13",
+   "english": "After he fathered Mahalalel, Kenan lived eight hundred and forty years, and he fathered sons and daughters.",
+   "literal": "and-lived Kenan after fathering-him [obj] Mahalalel forty year and-eight hundreds year and-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "5:13.1",
+     "gloss": "lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה: narrative sequence, 'and he lived'"
+    },
+    {
+     "id": "5:13.2",
+     "gloss": "Kenan"
+    },
+    {
+     "id": "5:13.3",
+     "gloss": "after",
+     "sense": "2.b",
+     "note": "preposition governing the infinitive construct"
+    },
+    {
+     "id": "5:13.4",
+     "gloss": "his fathering",
+     "sense": "Hiph 1",
+     "note": "infinitive construct Hifil with 3ms suffix: 'his begetting'; rendered 'he fathered'"
+    },
+    {
+     "id": "5:13.5",
+     "gloss": "object marker, untranslated"
+    },
+    {
+     "id": "5:13.6",
+     "gloss": "Mahalalel"
+    },
+    {
+     "id": "5:13.7",
+     "gloss": "forty"
+    },
+    {
+     "id": "5:13.8",
+     "gloss": "years"
+    },
+    {
+     "id": "5:13.9",
+     "gloss": "and eight"
+    },
+    {
+     "id": "5:13.10",
+     "gloss": "hundred",
+     "note": "מֵאוֹת, plural of מֵאָה, used with a unit: שְׁמֹנֶה מֵאוֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit this cardinal use, so no sense is given."
+    },
+    {
+     "id": "5:13.11",
+     "gloss": "years"
+    },
+    {
+     "id": "5:13.12",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol Hifil"
+    },
+    {
+     "id": "5:13.13",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.14",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:13.1",
+      "5:13.2"
+     ],
+     "english": "Kenan lived",
+     "literal": "'and-lived Kenan'"
+    },
+    {
+     "tokens": [
+      "5:13.3",
+      "5:13.4",
+      "5:13.5",
+      "5:13.6"
+     ],
+     "english": "After he fathered Mahalalel",
+     "literal": "'after fathering-him [obj] Mahalalel'; infinitive construct with suffix as temporal clause"
+    },
+    {
+     "tokens": [
+      "5:13.7",
+      "5:13.8",
+      "5:13.9",
+      "5:13.10",
+      "5:13.11"
+     ],
+     "english": "eight hundred and forty years",
+     "literal": "'forty year and-eight hundreds year'; the Hebrew states the tens first"
+    },
+    {
+     "tokens": [
+      "5:13.12",
+      "5:13.13",
+      "5:13.14"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-fathered sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "אַחֲרֵי הוֹלִידוֹ is a preposition with an infinitive construct and subject suffix: 'after his begetting'.",
+    "The number is given in the order forty, then eight hundred; the English reorders to eight hundred and forty.",
+    "The revia on קֵינָן sets off the subject. The zaqef qaton on מַהֲלַלְאֵל closes the temporal clause. The pashta on אַחֲרֵי is only a minor pause inside that clause.",
+    "בָּנִים וּבָנוֹת: sons and daughters, unnumbered."
+   ],
+   "note": "The clause 'after he fathered' was moved to the front in English as a natural time clause.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:13:1",
+     "relation": "follows",
+     "summary": "Onkelos gives בָּתַר דְּאוֹלִיד and the number as eight hundred and forty, with בְּנִין וּבְנָן for sons and daughters; it agrees with the plain sense."
+    }
+   ]
+  },
+  {
+   "ref": "5:14",
+   "english": "All the days of Kenan were nine hundred and ten years, and he died.",
+   "literal": "and-were all-of days-of Kenan ten years and-nine hundred year and-died",
+   "tokens": [
+    {
+     "id": "5:14.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol plural of היה; 'were' in the sense of totalling"
+    },
+    {
+     "id": "5:14.2",
+     "gloss": "all",
+     "sense": "1",
+     "note": "construct, כָּל־"
+    },
+    {
+     "id": "5:14.3",
+     "gloss": "the days of",
+     "sense": "4",
+     "note": "construct plural of יוֹם"
+    },
+    {
+     "id": "5:14.4",
+     "gloss": "Kenan"
+    },
+    {
+     "id": "5:14.5",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:14.6",
+     "gloss": "years"
+    },
+    {
+     "id": "5:14.7",
+     "gloss": "and nine"
+    },
+    {
+     "id": "5:14.8",
+     "gloss": "hundred",
+     "note": "מֵאוֹת, plural of מֵאָה: תְשַׁע מֵאוֹת 'nine hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given."
+    },
+    {
+     "id": "5:14.9",
+     "gloss": "years"
+    },
+    {
+     "id": "5:14.10",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of מות"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:14.1",
+      "5:14.2",
+      "5:14.3",
+      "5:14.4"
+     ],
+     "english": "All the days of Kenan were",
+     "literal": "'and-were all-of days-of Kenan'"
+    },
+    {
+     "tokens": [
+      "5:14.5",
+      "5:14.6",
+      "5:14.7",
+      "5:14.8",
+      "5:14.9"
+     ],
+     "english": "nine hundred and ten years",
+     "literal": "'ten years and-nine hundred year'; tens before hundreds"
+    },
+    {
+     "tokens": [
+      "5:14.10"
+     ],
+     "english": "and he died",
+     "literal": "'and-died'"
+    }
+   ],
+   "grammar": [
+    "כָּל־יְמֵי קֵינָן is a construct chain: 'all the days of Kenan'.",
+    "עֶשֶׂר שָׁנִים: ten, with plural 'years'; the larger number follows with singular שָׁנָה.",
+    "וַיִּהְיוּ is plural because its subject is the plural יְמֵי, 'days', not כָּל.",
+    "וַיָּמֹת is the wayyiqtol of מות in pause (silluq). The usual form is וַיָּמָת, the short form with the stress drawn back; in pause the stress stays on the last syllable and the ḥolem returns.",
+    "The paragraph mark ס closes the entry for Kenan."
+   ],
+   "note": "The total 910 is the sum of 70, 840 (the 70 before the son plus 840 after).",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:14:1",
+     "relation": "follows",
+     "summary": "Onkelos has nine hundred and ten years and וּמִית 'and he died'; same sense."
+    }
+   ]
+  },
+  {
+   "ref": "5:15",
+   "english": "Mahalalel lived sixty-five years, and he fathered Jared.",
+   "literal": "and-lived Mahalalel five years and-sixty year and-fathered [obj] Jared",
+   "tokens": [
+    {
+     "id": "5:15.1",
+     "gloss": "lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה: narrative sequence, 'and he lived'"
+    },
+    {
+     "id": "5:15.2",
+     "gloss": "Mahalalel"
+    },
+    {
+     "id": "5:15.3",
+     "gloss": "five"
+    },
+    {
+     "id": "5:15.4",
+     "gloss": "years"
+    },
+    {
+     "id": "5:15.5",
+     "gloss": "and sixty"
+    },
+    {
+     "id": "5:15.6",
+     "gloss": "years"
+    },
+    {
+     "id": "5:15.7",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol Hifil"
+    },
+    {
+     "id": "5:15.8",
+     "gloss": "object marker, untranslated"
+    },
+    {
+     "id": "5:15.9",
+     "gloss": "Jared",
+     "note": "Name. יָרֶד with qameṣ is the pausal form, under silluq, of יֶרֶד (as in 5:16)."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:15.1",
+      "5:15.2"
+     ],
+     "english": "Mahalalel lived",
+     "literal": "'and-lived Mahalalel'"
+    },
+    {
+     "tokens": [
+      "5:15.3",
+      "5:15.4",
+      "5:15.5",
+      "5:15.6"
+     ],
+     "english": "sixty-five years",
+     "literal": "'five years and-sixty year'; units before tens"
+    },
+    {
+     "tokens": [
+      "5:15.7",
+      "5:15.8",
+      "5:15.9"
+     ],
+     "english": "and he fathered Jared",
+     "literal": "'and-fathered [obj] Jared'"
+    }
+   ],
+   "grammar": [
+    "The units precede the tens: חָמֵשׁ שָׁנִים וְשִׁשִּׁים שָׁנָה, 'five years and sixty years'.",
+    "וַיּוֹלֶד is a Hifil wayyiqtol.",
+    "The etnaḥta on שָׁנָה ends the age clause."
+   ],
+   "note": "Same formula as 5:12.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:15:1",
+     "relation": "follows",
+     "summary": "Onkelos has sixty-five years and יָרֶד; no difference."
+    }
+   ]
+  },
+  {
+   "ref": "5:16",
+   "english": "After he fathered Jared, Mahalalel lived eight hundred and thirty years, and he fathered sons and daughters.",
+   "literal": "and-lived Mahalalel after fathering-him [obj] Jared thirty year and-eight hundreds year and-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "5:16.1",
+     "gloss": "lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה: narrative sequence, 'and he lived'"
+    },
+    {
+     "id": "5:16.2",
+     "gloss": "Mahalalel"
+    },
+    {
+     "id": "5:16.3",
+     "gloss": "after",
+     "sense": "2.b",
+     "note": "preposition governing the infinitive construct"
+    },
+    {
+     "id": "5:16.4",
+     "gloss": "his fathering",
+     "sense": "Hiph 1",
+     "note": "infinitive construct Hifil with 3ms suffix"
+    },
+    {
+     "id": "5:16.5",
+     "gloss": "object marker, untranslated"
+    },
+    {
+     "id": "5:16.6",
+     "gloss": "Jared"
+    },
+    {
+     "id": "5:16.7",
+     "gloss": "thirty"
+    },
+    {
+     "id": "5:16.8",
+     "gloss": "years"
+    },
+    {
+     "id": "5:16.9",
+     "gloss": "and eight"
+    },
+    {
+     "id": "5:16.10",
+     "gloss": "hundred",
+     "note": "מֵאוֹת, plural of מֵאָה: שְׁמֹנֶה מֵאוֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given."
+    },
+    {
+     "id": "5:16.11",
+     "gloss": "years"
+    },
+    {
+     "id": "5:16.12",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol Hifil"
+    },
+    {
+     "id": "5:16.13",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.14",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:16.1",
+      "5:16.2"
+     ],
+     "english": "Mahalalel lived",
+     "literal": "'and-lived Mahalalel'"
+    },
+    {
+     "tokens": [
+      "5:16.3",
+      "5:16.4",
+      "5:16.5",
+      "5:16.6"
+     ],
+     "english": "After he fathered Jared",
+     "literal": "'after fathering-him [obj] Jared'"
+    },
+    {
+     "tokens": [
+      "5:16.7",
+      "5:16.8",
+      "5:16.9",
+      "5:16.10",
+      "5:16.11"
+     ],
+     "english": "eight hundred and thirty years",
+     "literal": "'thirty year and-eight hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:16.12",
+      "5:16.13",
+      "5:16.14"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-fathered sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "אַחֲרֵי הוֹלִידוֹ: preposition plus infinitive construct with suffix, 'after his begetting'.",
+    "The number order is tens, then hundreds; the English reorders.",
+    "The revia on מַהֲלַלְאֵל separates subject from the time clause."
+   ],
+   "note": "Same formula as 5:13.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:16:1",
+     "relation": "follows",
+     "summary": "Onkelos has eight hundred and thirty years and sons and daughters; agrees."
+    }
+   ]
+  },
+  {
+   "ref": "5:17",
+   "english": "All the days of Mahalalel were eight hundred and ninety-five years, and he died.",
+   "literal": "and-were all-of days-of Mahalalel five and-ninety year and-eight hundreds year and-died",
+   "tokens": [
+    {
+     "id": "5:17.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol plural of היה"
+    },
+    {
+     "id": "5:17.2",
+     "gloss": "all",
+     "sense": "1",
+     "note": "construct, כָּל־"
+    },
+    {
+     "id": "5:17.3",
+     "gloss": "the days of",
+     "sense": "4",
+     "note": "construct plural of יוֹם"
+    },
+    {
+     "id": "5:17.4",
+     "gloss": "Mahalalel"
+    },
+    {
+     "id": "5:17.5",
+     "gloss": "five"
+    },
+    {
+     "id": "5:17.6",
+     "gloss": "and ninety"
+    },
+    {
+     "id": "5:17.7",
+     "gloss": "years"
+    },
+    {
+     "id": "5:17.8",
+     "gloss": "and eight"
+    },
+    {
+     "id": "5:17.9",
+     "gloss": "hundred",
+     "note": "מֵאוֹת, plural of מֵאָה: שְׁמֹנֶה מֵאוֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given."
+    },
+    {
+     "id": "5:17.10",
+     "gloss": "years"
+    },
+    {
+     "id": "5:17.11",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of מות in pause (silluq); the usual form is וַיָּמָת"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:17.1",
+      "5:17.2",
+      "5:17.3",
+      "5:17.4"
+     ],
+     "english": "All the days of Mahalalel were",
+     "literal": "'and-were all-of days-of Mahalalel'"
+    },
+    {
+     "tokens": [
+      "5:17.5",
+      "5:17.6",
+      "5:17.7",
+      "5:17.8",
+      "5:17.9",
+      "5:17.10"
+     ],
+     "english": "eight hundred and ninety-five years",
+     "literal": "'five and-ninety year and-eight hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:17.11"
+     ],
+     "english": "and he died",
+     "literal": "'and-died'"
+    }
+   ],
+   "grammar": [
+    "כָּל־יְמֵי מַהֲלַלְאֵל is a construct chain.",
+    "The age is written units, tens, hundreds: five and ninety, and eight hundred.",
+    "The mahpakh on חָמֵשׁ is a conjunctive accent: it joins חָמֵשׁ to וְתִשְׁעִים. The pashta on וְתִשְׁעִים is the disjunctive that sets the number off from שָׁנָה, which has the zaqef qaton.",
+    "The paragraph mark ס closes the entry for Mahalalel."
+   ],
+   "note": "The total 895 is 65 plus 830.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:17:1",
+     "relation": "follows",
+     "summary": "Onkelos has eight hundred and ninety-five years and וּמִית; agrees."
+    }
+   ]
+  }
+ ]
+}

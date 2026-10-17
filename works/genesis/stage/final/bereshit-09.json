@@ -1,0 +1,1316 @@
+{
+ "unit": "bereshit-09",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "2:25",
+   "english": "The two of them were naked, the human and his wife, and they were not ashamed.",
+   "literal": "and-were two-of-them naked the-human and-his-wife and-not they-were-ashamed",
+   "tokens": [
+    {
+     "id": "2:25.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol of הָיָה with a plural subject: 'and they were'"
+    },
+    {
+     "id": "2:25.2",
+     "gloss": "the two of them",
+     "note": "dual construct of שְׁנַיִם with a 3rd masculine plural suffix: 'the two of them', both together"
+    },
+    {
+     "id": "2:25.3",
+     "gloss": "naked",
+     "note": "plural of עָרוֹם 'naked', with a doubled מ; a different word from עָרוּם 'shrewd' in 3:1"
+    },
+    {
+     "id": "2:25.4",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "with the article: 'the human' (not the proper name Adam)"
+    },
+    {
+     "id": "2:25.5",
+     "gloss": "and his wife",
+     "sense": "2",
+     "note": "אִשְׁתּוֹ is the construct form of אִשָּׁה with the suffix 'his'"
+    },
+    {
+     "id": "2:25.6",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:25.7",
+     "gloss": "they were ashamed",
+     "sense": "Hithp",
+     "note": "hitpolel of בוש; the imperfect after wayyiqtol gives a continuing state; pausal qamets at the silluq"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:25.1",
+      "2:25.2",
+      "2:25.3"
+     ],
+     "english": "The two of them were naked",
+     "literal": "'and-were two-of-them naked'; both of them, together, in one state"
+    },
+    {
+     "tokens": [
+      "2:25.4",
+      "2:25.5"
+     ],
+     "english": "the human and his wife",
+     "literal": "'the-human and-his-wife'; names the two in apposition"
+    },
+    {
+     "tokens": [
+      "2:25.6",
+      "2:25.7"
+     ],
+     "english": "and they were not ashamed",
+     "literal": "'and-not they-were-ashamed'; Rashi: they did not yet know the way of modesty"
+    }
+   ],
+   "grammar": [
+    "שְׁנֵיהֶם is the dual construct of שְׁנַיִם with a suffix, 'the two of them'; הָאָדָם וְאִשְׁתּוֹ then names the two in apposition.",
+    "עֲרוּמִּים 'naked' (the מ is doubled) is a different word from עָרוּם 'shrewd' in 3:1. The sound-play joins the two scenes; Ibn Ezra notes the pair at 3:1.",
+    "וְלֹא יִתְבֹּשָׁשׁוּ is a yiqtol after a wayyiqtol: it describes a continuing state, 'and they were not ashamed', not a single event. The verb is a hitpolel (reflexive or reciprocal) of בוש; Ibn Ezra: from a root with a hidden quiet letter, the last letter doubled, as in יִתְבּוֹנָן (Job 11:11).",
+    "The etnaḥta on וְאִשְׁתּוֹ divides the verse after the naming of the two; the qamets of יִתְבֹּשָׁשׁוּ is pausal, because the word ends the verse (Ibn Ezra)."
+   ],
+   "note": "'Ashamed' renders the hitpolel; the Hebrew does not say before whom (BDB: ashamed before one another). Rashi and Radak differ on the reason for the absence of shame (no knowledge of modesty and the evil inclination; no sexual desire yet); the English gives the fact, not the reason.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:25:1",
+     "relation": "follows",
+     "summary": "Rashi: they did not know the way of modesty, to tell good from evil; knowledge had been given to the human to name the animals, but the evil inclination was not given until he ate from the tree. The English states the plain fact of no shame."
+    },
+    {
+     "anchor": "ibn-ezra:2:23:5",
+     "relation": "not-applicable",
+     "summary": "Filed at 2:23 and matched to וְלֹא only by its opening word: Ibn Ezra says the qof of לֻקֳחָה (2:23) is not given a dagesh (ולא נדגש), to ease the tongue, although the form is of the heavy binyan; the text breaks off. It does not bear on 2:25."
+    },
+    {
+     "anchor": "ibn-ezra:2:25:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: עֲרוּמִּים is an adjective, as in 'and you strip the clothes of the naked' (Job 22:6). He adds that some take 'ערום ראה רעה' (Prov. 22:3) the same way; the end of the comment is obscure."
+    },
+    {
+     "anchor": "ibn-ezra:2:25:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יִתְבֹּשָׁשׁוּ comes from בושת (shame), from the roots with a hidden quiet letter between the two; the last letter is doubled as in יִתְבּוֹנָן. The shin takes qamets because it is the end of the verse."
+    },
+    {
+     "anchor": "radak:2:25:2",
+     "relation": "not-applicable",
+     "summary": "Radak: the verse tells that they had not eaten from the tree of knowledge and had no shame at their uncovered nakedness, since they had not yet had sexual desire. This gives the reason, not a reading of the words."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: עַרְטִילָאִין 'naked' and לָא מִתְכַּלְמִין 'not ashamed'; the same sense as the Hebrew.",
+    "Sforno: their organs served God's will alone, so the act of union was like eating and drinking; this explains the absence of shame and does not change the words."
+   ]
+  },
+  {
+   "ref": "3:1",
+   "english": "Now the serpent was shrewder than every wild animal that the LORD God had made. It said to the woman, “Is it really so that God said, ‘You must not eat from any tree of the garden’?”",
+   "literal": "and-the-serpent was shrewd than-all-of living-thing-of the-field which made the-LORD God and-said to-the-woman also that said God not you-eat from-all-of tree-of the-garden",
+   "tokens": [
+    {
+     "id": "3:1.1",
+     "gloss": "and the serpent",
+     "sense": "1",
+     "note": "waw + subject + qatal opens a new scene and introduces a new character"
+    },
+    {
+     "id": "3:1.2",
+     "gloss": "was",
+     "sense": "Qal III"
+    },
+    {
+     "id": "3:1.3",
+     "gloss": "shrewd",
+     "note": "עָרוּם (with shureq) 'shrewd, crafty'; not the עֲרוּמִּים 'naked' of 2:25"
+    },
+    {
+     "id": "3:1.4",
+     "gloss": "than every",
+     "sense": "1",
+     "note": "מִן is comparative: 'shrewder than all'"
+    },
+    {
+     "id": "3:1.5",
+     "gloss": "wild animal of",
+     "sense": "1.b",
+     "note": "construct state: 'living thing of'"
+    },
+    {
+     "id": "3:1.6",
+     "gloss": "the field",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.7",
+     "gloss": "that"
+    },
+    {
+     "id": "3:1.8",
+     "gloss": "made",
+     "sense": "Qal II.1",
+     "note": "qatal in a relative clause, pluperfect in sense: 'had made'"
+    },
+    {
+     "id": "3:1.9",
+     "gloss": "the LORD",
+     "note": "the divine name; MAM writes it with ֹ, the pack reads it as יְהוָה"
+    },
+    {
+     "id": "3:1.10",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "3:1.11",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; the subject is the serpent"
+    },
+    {
+     "id": "3:1.12",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.13",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.14",
+     "gloss": "even, also",
+     "note": "אַף 'also, even'; elliptical here, with כִּי it opens the question"
+    },
+    {
+     "id": "3:1.15",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.16",
+     "gloss": "said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "3:1.17",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "3:1.18",
+     "gloss": "not"
+    },
+    {
+     "id": "3:1.19",
+     "gloss": "you (plural) may eat",
+     "sense": "Qal 1",
+     "note": "2nd masculine plural yiqtol with לֹא: a prohibition, 'you must not eat'"
+    },
+    {
+     "id": "3:1.20",
+     "gloss": "from any",
+     "sense": "1",
+     "note": "'from all of': 'from any' or 'from every'"
+    },
+    {
+     "id": "3:1.21",
+     "gloss": "tree of",
+     "sense": "1.a",
+     "note": "construct state; a collective: 'tree' or 'trees'"
+    },
+    {
+     "id": "3:1.22",
+     "gloss": "the garden"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:1.1",
+      "3:1.2",
+      "3:1.3"
+     ],
+     "english": "Now the serpent was shrewder",
+     "literal": "'and-the-serpent was shrewd'; the waw marks a new scene, 'now'"
+    },
+    {
+     "tokens": [
+      "3:1.4",
+      "3:1.5",
+      "3:1.6"
+     ],
+     "english": "than every wild animal",
+     "literal": "'than-all-of living-thing-of the-field'; מן as comparative"
+    },
+    {
+     "tokens": [
+      "3:1.7",
+      "3:1.8",
+      "3:1.9",
+      "3:1.10"
+     ],
+     "english": "that the LORD God had made",
+     "literal": "'which made the-LORD God'; relative clause, pluperfect in sense"
+    },
+    {
+     "tokens": [
+      "3:1.11",
+      "3:1.12",
+      "3:1.13"
+     ],
+     "english": "It said to the woman",
+     "literal": "'and-said to-the-woman'; the serpent is the subject"
+    },
+    {
+     "tokens": [
+      "3:1.14",
+      "3:1.15"
+     ],
+     "english": "Is it really so that",
+     "literal": "'also that'; elliptical; Ibn Ezra: it shows other words came before and ends in a kal va-ḥomer; Rashi: 'perhaps He said'"
+    },
+    {
+     "tokens": [
+      "3:1.16",
+      "3:1.17"
+     ],
+     "english": "God said",
+     "literal": "'said God'"
+    },
+    {
+     "tokens": [
+      "3:1.18",
+      "3:1.19"
+     ],
+     "english": "You must not eat",
+     "literal": "'not you-eat'; prohibition"
+    },
+    {
+     "tokens": [
+      "3:1.20",
+      "3:1.21",
+      "3:1.22"
+     ],
+     "english": "from any tree of the garden",
+     "literal": "'from-all-of tree-of the-garden'; the serpent states the prohibition in the widest form"
+    }
+   ],
+   "grammar": [
+    "וְהַנָּחָשׁ הָיָה עָרוּם is waw + subject + qatal: a background clause that introduces a new character, not a step in the narrative sequence.",
+    "עָרוּם 'shrewd' and עֲרוּמִּים 'naked' (2:25) sound alike; Ibn Ezra takes this as deliberate play on the two senses, as in Judges 15:16 and 10:4. Radak distinguishes them by vowels: shureq for wisdom, holem for 'naked'.",
+    "מִכֹּל after the adjective is the comparative min: 'shrewder than all'. Rashi sets it beside 'cursed above all' (3:14).",
+    "אַף כִּי has no interrogative particle: the question is carried by the elliptical אַף כִּי and by tone. The serpent says אֱלֹהִים and not יְהוָה אֱלֹהִים, the name used by the narrator (Ibn Ezra: they did not know the name).",
+    "The etnaḥta on אֱלֹהִים (3:1.10) ends the narrator's description. The pashta on וַיֹּאמֶר is written twice because the word is stressed on its first syllable: pashta stands on the last letter, and a second sign marks the stressed syllable."
+   ],
+   "note": "אַף כִּי is difficult. Ibn Ezra reads it as showing that other words came first and ending in an a fortiori ('how much more, that He said you may not eat from any tree'); Rashi reads 'perhaps He said you may not eat from any of them', an exaggeration meant to draw her answer. The English 'Is it really so that' keeps the question and the overstatement and drops 'even/also'. מִכֹּל עֵץ can mean 'from any tree at all' or 'from every tree'; the English keeps 'any'. The serpent is read as a real serpent that speaks (Ibn Ezra, Radak), not as a figure; Sforno's reading of it as the evil inclination is recorded in the apparatus.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:1:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: why is this here? It should follow with 'And He made garments of skin' (3:21); it teaches by what counsel the serpent leapt at them: he saw them naked and engaged in intercourse in public, and desired her. A homily on the link to 2:25; the English keeps the link with 'Now'."
+    },
+    {
+     "anchor": "rashi:3:1:2",
+     "relation": "follows",
+     "summary": "Rashi: 'by his shrewdness and greatness was his downfall; shrewd above all, cursed above all' (Gen. Rabbah). ערום is 'shrewd', and מכל is paired with the 'above all' of the curse; the English 'than every'."
+    },
+    {
+     "anchor": "rashi:3:1:3",
+     "relation": "follows",
+     "summary": "Rashi: 'perhaps He told you not to eat from any'; although the serpent had seen them eating other fruit, he overstated so that she would answer him and speak of that tree. The English keeps the question and the overstatement ('any tree')."
+    },
+    {
+     "anchor": "ibn-ezra:3:1:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra rejects the views that the woman understood the speech of animals and the serpent spoke by hints, that the serpent was Satan, and Saadia's view that an angel spoke for it; he holds that the words are as they sound: the serpent spoke and walked upright. 'Shrewd' means wise, doing things with cunning, 'but not like the human'; ערום after ערומים is an elegance of language, as in Judges 15:16."
+    },
+    {
+     "anchor": "ibn-ezra:3:1:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: אף כי shows that he said other words first and ended with an a fortiori: He said not to eat of any tree at all. The serpent did not use the divine name because they did not know it; the woman later added 'and you shall not touch it'."
+    },
+    {
+     "anchor": "radak:3:1:8",
+     "relation": "records",
+     "summary": "Radak: 'אף' means 'in addition': other words passed between the woman and the serpent, and Scripture gives only the end of the talk, as with 'כי' in Joshua 2:24."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: חַכִּים 'wise' for עָרוּם, and בְּקוּשְׁטָא 'in truth' for אַף כִּי.",
+    "Sforno: the serpent is the evil inclination, which Scripture names after the creature it resembles; Ibn Ezra rejects the view that it was Satan. Radak records the midrash of the serpent ridden by Samael.",
+    "Radak (3:1:4) and Ibn Ezra differ on the nature of the serpent's wisdom: Radak says it was cunning of the imaginative faculty found in animals, as in the fox, not the intellect; Ibn Ezra says it was a real, if limited, wisdom.",
+    "Ibn Ezra and Radak read אַף כִּי as 'how much more, that God said ...', the end of a longer exchange, not a question; Rashi reads a question, 'perhaps He said ...'. The English follows Rashi."
+   ]
+  },
+  {
+   "ref": "3:2",
+   "english": "The woman said to the serpent, “We may eat from the fruit of the trees of the garden.”",
+   "literal": "and-said the-woman to the-serpent from-fruit-of tree-of the-garden we-eat",
+   "tokens": [
+    {
+     "id": "3:2.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine singular"
+    },
+    {
+     "id": "3:2.2",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.4",
+     "gloss": "the serpent",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.5",
+     "gloss": "from the fruit of",
+     "sense": "3",
+     "note": "מִן is partitive: 'some of the fruit'; construct state"
+    },
+    {
+     "id": "3:2.6",
+     "gloss": "the trees of",
+     "sense": "1.b",
+     "note": "singular עֵץ as a collective: 'trees'; construct state with maqqef"
+    },
+    {
+     "id": "3:2.7",
+     "gloss": "the garden"
+    },
+    {
+     "id": "3:2.8",
+     "gloss": "we may eat",
+     "sense": "Qal 1",
+     "note": "1st plural yiqtol: 'we eat' or 'we may eat'; pausal tsere at the silluq"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:2.1",
+      "3:2.2",
+      "3:2.3",
+      "3:2.4"
+     ],
+     "english": "The woman said to the serpent",
+     "literal": "'and-said the-woman to-the-serpent'"
+    },
+    {
+     "tokens": [
+      "3:2.5",
+      "3:2.6",
+      "3:2.7",
+      "3:2.8"
+     ],
+     "english": "We may eat from the fruit of the trees of the garden",
+     "literal": "'from-fruit-of tree-of the-garden we-eat'; the object is put first in the Hebrew, for contrast with the one tree of the next verse"
+    }
+   ],
+   "grammar": [
+    "מִפְּרִי עֵץ־הַגָּן stands before the verb for contrast: of these we eat (the next verse gives the one tree not eaten from).",
+    "עֵץ־ is singular in form and collective in sense, 'the trees of the garden', as in 3:1; the maqqef joins it to הַגָּן in a construct chain.",
+    "נֹאכֵל has tsere for the usual patah: a pausal form, because it carries the silluq at the end of the verse.",
+    "The yiqtol states what is allowed or habitual: 'we eat' and 'we may eat' are both possible; the English chooses 'may' because she answers a question about what is forbidden."
+   ],
+   "note": "Her answer is brief and corrects the serpent's overstatement by naming what is permitted (Radak): not every tree was forbidden, only one.",
+   "commentary": [
+    {
+     "anchor": "radak:3:2:1",
+     "relation": "follows",
+     "summary": "Radak: it is not as you say; He did not forbid every tree of the garden, only one, in the middle of the garden. He forbade it for our good, perhaps because its fruit is deadly by nature."
+    },
+    {
+     "anchor": "onkelos:3:2:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'of the fruits of the trees of the garden we eat', with אִילַן 'tree' as a collective, as the English reads it."
+    }
+   ],
+   "apparatus": [
+    "Sforno: the woman is dragged into the risk by imagination and her weak mind, and imputes jealousy to God; a reading of her motive, not of the words."
+   ]
+  },
+  {
+   "ref": "3:3",
+   "english": "As for the fruit of the tree in the middle of the garden, God said, “You must not eat from it, and you must not touch it, or you might die.”",
+   "literal": "and-from-fruit-of the-tree which in-midst-of the-garden said God not you-eat from-it and-not you-touch in-it lest you-die",
+   "tokens": [
+    {
+     "id": "3:3.1",
+     "gloss": "and as for the fruit of",
+     "sense": "3",
+     "note": "'and from the fruit of': the phrase is put first, contrasting with 3:2"
+    },
+    {
+     "id": "3:3.2",
+     "gloss": "the tree",
+     "sense": "1.a"
+    },
+    {
+     "id": "3:3.3",
+     "gloss": "that"
+    },
+    {
+     "id": "3:3.4",
+     "gloss": "in the middle of",
+     "note": "בְּתוֹךְ־ 'in the midst of', construct state with maqqef"
+    },
+    {
+     "id": "3:3.5",
+     "gloss": "the garden"
+    },
+    {
+     "id": "3:3.6",
+     "gloss": "said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "3:3.7",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "3:3.8",
+     "gloss": "not"
+    },
+    {
+     "id": "3:3.9",
+     "gloss": "you (plural) may eat",
+     "sense": "Qal 1",
+     "note": "2nd masculine plural yiqtol with לֹא: 'you must not eat'"
+    },
+    {
+     "id": "3:3.10",
+     "gloss": "from it",
+     "sense": "1.a",
+     "note": "the pack parses the suffix as 1st person common plural ('from us'); the form מִמֶּנּוּ is the same as 3rd masculine singular, and the context requires 'from it'"
+    },
+    {
+     "id": "3:3.11",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:3.12",
+     "gloss": "you (plural) may touch",
+     "sense": "Qal 1.a",
+     "note": "נָגַע takes ב: 'touch at, touch'"
+    },
+    {
+     "id": "3:3.13",
+     "gloss": "it",
+     "note": "'in it', with the ב that נָגַע takes"
+    },
+    {
+     "id": "3:3.14",
+     "gloss": "lest",
+     "note": "פֶּן־ introduces a fear or purpose clause: 'lest', 'so that not', 'perhaps'"
+    },
+    {
+     "id": "3:3.15",
+     "gloss": "you (plural) die",
+     "sense": "Qal 1",
+     "note": "2nd masculine plural yiqtol with paragogic nun; the full pausal form at the silluq"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:3.1",
+      "3:3.2",
+      "3:3.3",
+      "3:3.4",
+      "3:3.5"
+     ],
+     "english": "As for the fruit of the tree in the middle of the garden",
+     "literal": "'and-from-fruit-of the-tree which in-midst-of the-garden'; fronted, with 'and' in contrast to 3:2"
+    },
+    {
+     "tokens": [
+      "3:3.6",
+      "3:3.7"
+     ],
+     "english": "God said",
+     "literal": "'said God'"
+    },
+    {
+     "tokens": [
+      "3:3.8",
+      "3:3.9",
+      "3:3.10"
+     ],
+     "english": "You must not eat from it",
+     "literal": "'not you-eat from-it'"
+    },
+    {
+     "tokens": [
+      "3:3.11",
+      "3:3.12",
+      "3:3.13"
+     ],
+     "english": "and you must not touch it",
+     "literal": "'and-not you-touch in-it'; not in the command of 2:17; Rashi: she added it"
+    },
+    {
+     "tokens": [
+      "3:3.14",
+      "3:3.15"
+     ],
+     "english": "or you might die",
+     "literal": "'lest you-die'; Radak: 'perhaps' or 'that not'"
+    }
+   ],
+   "grammar": [
+    "וּמִפְּרִי הָעֵץ אֲשֶׁר בְּתוֹךְ־הַגָּן is a fronted phrase with a relative clause, set against מִפְּרִי עֵץ־הַגָּן of the previous verse: all these, but of this one.",
+    "The revia on אֱלֹהִים divides the introduction from the speech; the zinor and segol on הָעֵץ and הַגָּן mark the relative clause as a unit.",
+    "לֹא תֹאכְלוּ and וְלֹא תִגְּעוּ are two prohibitions in the yiqtol; the second is not in the commandment of 2:17.",
+    "פֶּן with the yiqtol states what is feared; תְּמֻתוּן has the paragogic nun and the full pausal ending.",
+    "The pack parses מִמֶּנּוּ as 1st plural; the same form is 3rd masculine singular, and the context gives 'from it'."
+   ],
+   "note": "The woman does not name the tree and she speaks of God's word without the name יְהוָה. She quotes the prohibition with 'touch', which is not in 2:16–17; Rashi counts this as an addition to the command. פֶּן is rendered 'or you might die' to keep the ambiguity: 'lest' (a fear of what follows), or 'perhaps' (Radak records the second as an alternative).",
+   "commentary": [
+    {
+     "anchor": "rashi:3:3:1",
+     "relation": "follows",
+     "summary": "Rashi: she added to the command, and so came to loss, as it says, 'Do not add to His words' (Prov. 30:6). The English gives her words as spoken, with 'touch' as hers."
+    },
+    {
+     "anchor": "radak:3:2:2",
+     "relation": "records",
+     "summary": "Radak: פֶּן means 'perhaps'; God had said she would surely die, but for the added 'touch' she says 'lest', because she herself added it; or the sense is 'that you not die', as in 'lest you take my son back there' (24:6). The English 'might' leaves both open."
+    },
+    {
+     "anchor": "onkelos:3:3:1",
+     "relation": "records",
+     "summary": "Onkelos: 'do not come near it' for לֹא תִגְּעוּ בּוֹ, and דִּילְמָא 'perhaps' for פֶּן."
+    }
+   ],
+   "apparatus": [
+    "Onkelos reads בִמְצִיעוּת גִּינְתָא 'in the middle of the garden', as the Hebrew.",
+    "Sforno: the woman's weak mind sets down the doubt that the serpent (the imagination) has begun to put."
+   ]
+  },
+  {
+   "ref": "3:4",
+   "english": "The serpent said to the woman, “You will certainly not die.”",
+   "literal": "and-said the-serpent to the-woman not dying you-will-die",
+   "tokens": [
+    {
+     "id": "3:4.1",
+     "gloss": "and said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "3:4.2",
+     "gloss": "the serpent",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.4",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.5",
+     "gloss": "not"
+    },
+    {
+     "id": "3:4.6",
+     "gloss": "certainly",
+     "sense": "Qal 1",
+     "note": "infinitive absolute of מוּת before the finite verb: emphasis, 'surely'; the negative stands before it"
+    },
+    {
+     "id": "3:4.7",
+     "gloss": "you (plural) will die",
+     "sense": "Qal 1",
+     "note": "2nd masculine plural yiqtol with paragogic nun, pausal"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:4.1",
+      "3:4.2",
+      "3:4.3",
+      "3:4.4"
+     ],
+     "english": "The serpent said to the woman",
+     "literal": "'and-said the-serpent to-the-woman'"
+    },
+    {
+     "tokens": [
+      "3:4.5",
+      "3:4.6",
+      "3:4.7"
+     ],
+     "english": "You will certainly not die",
+     "literal": "'not dying you-will-die'; a flat contradiction of the warning of 2:17 (מוֹת תָּמוּת)"
+    }
+   ],
+   "grammar": [
+    "The infinitive absolute מוֹת before תְּמֻתוּן is emphatic; the negative before it makes the denial total, 'not at all'.",
+    "The serpent repeats the words of 2:17, מוֹת תָּמוּת, and puts לֹא before them: he answers God's warning by denying it.",
+    "The woman said פֶּן 'lest' (3:3); the serpent answers with an unqualified statement.",
+    "The etnaḥta on הָאִשָּׁה divides the introduction from the speech; תְּמֻתוּן has the paragogic nun and is pausal."
+   ],
+   "note": "The English keeps the emphasis of the infinitive absolute in 'certainly' and leaves the negative before it. Rashi and Radak read the speech as a lie, a push from the woman's 'lest' to a denial.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:4:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: he pushed her until she touched it, and said, 'just as there is no death in touching, so there is none in eating' (Gen. Rabbah). A homily about the scene and not a reading of the words."
+    },
+    {
+     "anchor": "radak:3:4:2",
+     "relation": "follows",
+     "summary": "Radak: not as you say, that He kept it from you out of love so you would not die; you will not die. He frightened you with death so that you would be more careful; but He kept it from you because He does not want you to have more standing than He gave you."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: לָא מוּת תְּמוּתוּן, the same construction.",
+    "Sforno: the speech continues into v. 5; God did not forbid the fruit from fear of death, but because He knows you would gain added knowledge from it."
+   ]
+  },
+  {
+   "ref": "3:5",
+   "english": "For God knows that on the day you eat from it your eyes will be opened, and you will be like divine beings, knowing good and evil.",
+   "literal": "for knowing God that in-day-of your-eating from-it and-will-be-opened eyes-of-you and-you-will-be like-God knowers-of good and-evil",
+   "tokens": [
+    {
+     "id": "3:5.1",
+     "gloss": "for",
+     "sense": "3",
+     "note": "כִּי 'for, because': it gives the reason for the denial"
+    },
+    {
+     "id": "3:5.2",
+     "gloss": "knows",
+     "sense": "Qal 1.a",
+     "note": "active participle: a continuing state, 'is knowing'"
+    },
+    {
+     "id": "3:5.3",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "3:5.4",
+     "gloss": "that",
+     "sense": "1",
+     "note": "the second כִּי introduces what God knows"
+    },
+    {
+     "id": "3:5.5",
+     "gloss": "on the day of",
+     "sense": "1",
+     "note": "construct state before an infinitive: 'on the day of your eating'"
+    },
+    {
+     "id": "3:5.6",
+     "gloss": "you (plural) eat",
+     "sense": "Qal 1",
+     "note": "infinitive construct with a 2nd masculine plural suffix as subject: 'your eating'"
+    },
+    {
+     "id": "3:5.7",
+     "gloss": "from it",
+     "sense": "1.a"
+    },
+    {
+     "id": "3:5.8",
+     "gloss": "and will be opened",
+     "sense": "Niph",
+     "note": "weqatal, Niphal: passive, 'they will be opened'"
+    },
+    {
+     "id": "3:5.9",
+     "gloss": "your eyes",
+     "note": "dual construct of עַיִן with a 2nd masculine plural suffix"
+    },
+    {
+     "id": "3:5.10",
+     "gloss": "and you will be",
+     "sense": "Qal II.2.c",
+     "note": "weqatal, 2nd masculine plural; the sheva of the וְ becomes hireq before yod"
+    },
+    {
+     "id": "3:5.11",
+     "gloss": "like divine beings",
+     "sense": "1.b",
+     "note": "כְּ 'like' with אֱלֹהִים, plural in form: 'like God', 'like gods' or 'like angels'"
+    },
+    {
+     "id": "3:5.12",
+     "gloss": "knowing",
+     "sense": "Qal 1.a",
+     "note": "active participle, plural construct: 'knowers of'"
+    },
+    {
+     "id": "3:5.13",
+     "gloss": "good",
+     "sense": "4",
+     "note": "טוֹב as a noun: 'good', as in 'good and evil'"
+    },
+    {
+     "id": "3:5.14",
+     "gloss": "and evil",
+     "sense": "3",
+     "note": "רַע, 'evil, bad'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:5.1",
+      "3:5.2",
+      "3:5.3"
+     ],
+     "english": "For God knows",
+     "literal": "'for knowing God'; Rashi: a craftsman hates those of his craft"
+    },
+    {
+     "tokens": [
+      "3:5.4",
+      "3:5.5",
+      "3:5.6",
+      "3:5.7"
+     ],
+     "english": "that on the day you eat from it",
+     "literal": "'that in-day-of your-eating from-it'; the words of 2:17 (בְּיוֹם אֲכָלְךָ מִמֶּנּוּ) in the plural"
+    },
+    {
+     "tokens": [
+      "3:5.8",
+      "3:5.9"
+     ],
+     "english": "your eyes will be opened",
+     "literal": "'and-will-be-opened eyes-of-you'; Radak: the eyes of your heart"
+    },
+    {
+     "tokens": [
+      "3:5.10",
+      "3:5.11"
+     ],
+     "english": "and you will be like divine beings",
+     "literal": "'and-you-will-be like-God'; Ibn Ezra and Radak: like angels; Rashi: makers of worlds"
+    },
+    {
+     "tokens": [
+      "3:5.12",
+      "3:5.13",
+      "3:5.14"
+     ],
+     "english": "knowing good and evil",
+     "literal": "'knowers-of good and-evil'"
+    }
+   ],
+   "grammar": [
+    "Two כִּי clauses open the verse: the first gives the reason ('for'), the second the content of God's knowledge ('that').",
+    "בְּיוֹם אֲכָלְכֶם מִמֶּנּוּ is the infinitive construct with a suffix, 'on the day of your eating from it', and repeats the wording of 2:17.",
+    "וְנִפְקְחוּ and וִהְיִיתֶם are weqatal forms: the future consequences of the eating; נִפְקְחוּ is the Niphal of פקח, so 'will be opened' is passive. The sheva of וְ becomes hireq before the yod of וִהְיִיתֶם.",
+    "כֵּאלֹהִים: אֱלֹהִים is plural in form and has no article; with a plural participle 'knowers' it can be read as 'like gods' or 'like divine beings'. The zaqef on כֵּאלֹהִים is disjunctive: it divides כֵּאלֹהִים from יֹדְעֵי טוֹב וָרָע, which allows 'knowing good and evil' as a second predicate of 'you', but does not decide it.",
+    "The revia on the second כִּי sets off the content of God's knowledge; the etnaḥta falls after עֵינֵיכֶם."
+   ],
+   "note": "אֱלֹהִים after the preposition כְּ is not decisive: Ibn Ezra and Radak read 'like angels' and Rashi 'creators of worlds'; the English 'divine beings' covers both and leaves out the singular 'God'. 'Eyes will be opened' is an idiom for gaining knowledge; Radak: the eyes of the heart. 'Good and evil' translates טוֹב וָרָע as the moral pair (BDB sense 4 for טוֹב).",
+   "commentary": [
+    {
+     "anchor": "rashi:3:5:1",
+     "relation": "records",
+     "summary": "Rashi: 'every craftsman hates those of his own craft': He ate from the tree and created the world (Gen. Rabbah). It makes God's knowing a motive of jealousy; the English leaves the motive open."
+    },
+    {
+     "anchor": "rashi:3:5:2",
+     "relation": "records",
+     "summary": "Rashi: 'makers of worlds' (Gen. Rabbah). He takes אֱלֹהִים as gods who create; the English 'divine beings' allows it."
+    },
+    {
+     "anchor": "ibn-ezra:3:5:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'like angels'. The English 'divine beings' is a wider term that includes angels (BDB 1.c, 1.b)."
+    },
+    {
+     "anchor": "radak:3:5:1",
+     "relation": "follows",
+     "summary": "Radak: 'the eyes of your heart' — the opening of the eyes is knowledge, not sight; the English keeps the idiom."
+    },
+    {
+     "anchor": "radak:3:5:2",
+     "relation": "follows",
+     "summary": "Radak: 'like angels', as Ibn Ezra."
+    },
+    {
+     "anchor": "radak:3:5:3",
+     "relation": "not-applicable",
+     "summary": "Radak: the serpent took this phrase 'good and evil' from the woman's earlier words, and it is explained at 2:17."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: אֲרֵי גַּלֵּי קֳדָם יְיָ ... וּתְהוֹן כְּרַבְרְבִין חַכִּימִין 'for it is revealed before the LORD ... and you will be like great, wise ones': אֱלֹהִים as 'great ones' (BDB 1.a), 'knowing' as 'wise'.",
+    "Sforno: the serpent says God forbade the fruit because He knows you would gain added knowledge, not from fear of death.",
+    "Whether יֹדְעֵי goes with 'you' or with 'divine beings' is open; the zaqef on כֵּאלֹהִים separates the two words, which favours 'you' but does not decide."
+   ]
+  },
+  {
+   "ref": "3:6",
+   "english": "The woman saw that the tree was good for eating, and that it was a delight to the eyes, and that the tree was desirable for gaining insight. She took some of its fruit and ate, and she also gave some to her husband with her, and he ate.",
+   "literal": "and-saw the-woman that good the-tree for-food and-that desire it to-the-eyes and-desirable the-tree to-make-wise and-took from-its-fruit and-ate and-gave also to-her-husband with-her and-ate",
+   "tokens": [
+    {
+     "id": "3:6.1",
+     "gloss": "and saw",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol: 'saw', 'perceived'; the commentators read it as seeing in her mind"
+    },
+    {
+     "id": "3:6.2",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.3",
+     "gloss": "that",
+     "sense": "1",
+     "note": "כִּי introduces what she saw; it opens the first two of three object clauses"
+    },
+    {
+     "id": "3:6.4",
+     "gloss": "good",
+     "sense": "3"
+    },
+    {
+     "id": "3:6.5",
+     "gloss": "the tree",
+     "sense": "1.a"
+    },
+    {
+     "id": "3:6.6",
+     "gloss": "for eating",
+     "note": "מַאֲכָל 'food': 'for food', 'for eating'"
+    },
+    {
+     "id": "3:6.7",
+     "gloss": "and that",
+     "sense": "1",
+     "note": "וְכִי: the second 'that' clause"
+    },
+    {
+     "id": "3:6.8",
+     "gloss": "a delight",
+     "sense": "2",
+     "note": "תַאֲוָה 'desire, a thing desired'; with maqqef to הוּא"
+    },
+    {
+     "id": "3:6.9",
+     "gloss": "it",
+     "sense": "1",
+     "note": "the pronoun הוּא works as the copula: 'it is'"
+    },
+    {
+     "id": "3:6.10",
+     "gloss": "to the eyes",
+     "note": "dual of עַיִן with the article and ל: 'to the eyes'"
+    },
+    {
+     "id": "3:6.11",
+     "gloss": "and desirable",
+     "sense": "Niph",
+     "note": "Niphal participle of חמד: 'to be desired'"
+    },
+    {
+     "id": "3:6.12",
+     "gloss": "the tree",
+     "sense": "1.a"
+    },
+    {
+     "id": "3:6.13",
+     "gloss": "for gaining insight",
+     "sense": "Hiph 3",
+     "note": "Hiphil infinitive construct of שׂכל: 'to have insight' (intransitive) or 'to make wise' (transitive)"
+    },
+    {
+     "id": "3:6.14",
+     "gloss": "and she took",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of לקח"
+    },
+    {
+     "id": "3:6.15",
+     "gloss": "from its fruit",
+     "sense": "3",
+     "note": "מִן is partitive: 'some of its fruit'"
+    },
+    {
+     "id": "3:6.16",
+     "gloss": "and ate",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 3rd feminine singular"
+    },
+    {
+     "id": "3:6.17",
+     "gloss": "and she gave",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of נתן; the object (fruit) is not stated"
+    },
+    {
+     "id": "3:6.18",
+     "gloss": "also"
+    },
+    {
+     "id": "3:6.19",
+     "gloss": "to her husband",
+     "note": "אִישׁ 'man' with a 3rd feminine suffix and ל: 'to her husband'"
+    },
+    {
+     "id": "3:6.20",
+     "gloss": "with her",
+     "sense": "1.b",
+     "note": "'with her': either with the giving or with the husband"
+    },
+    {
+     "id": "3:6.21",
+     "gloss": "and he ate",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 3rd masculine singular"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:6.1",
+      "3:6.2"
+     ],
+     "english": "The woman saw",
+     "literal": "'and-saw the-woman'; Rashi: she saw his words and they pleased her; Ibn Ezra: in her heart"
+    },
+    {
+     "tokens": [
+      "3:6.3",
+      "3:6.4",
+      "3:6.5",
+      "3:6.6"
+     ],
+     "english": "that the tree was good for eating",
+     "literal": "'that good the-tree for-food'"
+    },
+    {
+     "tokens": [
+      "3:6.7",
+      "3:6.8",
+      "3:6.9",
+      "3:6.10"
+     ],
+     "english": "and that it was a delight to the eyes",
+     "literal": "'and-that desire it to-the-eyes'"
+    },
+    {
+     "tokens": [
+      "3:6.11",
+      "3:6.12",
+      "3:6.13"
+     ],
+     "english": "and that the tree was desirable for gaining insight",
+     "literal": "'and-desirable the-tree to-make-wise'; Ibn Ezra: so that she would have insight and her eyes be opened"
+    },
+    {
+     "tokens": [
+      "3:6.14",
+      "3:6.15"
+     ],
+     "english": "She took some of its fruit",
+     "literal": "'and-took from-its-fruit'"
+    },
+    {
+     "tokens": [
+      "3:6.16"
+     ],
+     "english": "and ate",
+     "literal": "'and-ate'"
+    },
+    {
+     "tokens": [
+      "3:6.17",
+      "3:6.18",
+      "3:6.19",
+      "3:6.20"
+     ],
+     "english": "and she also gave some to her husband with her",
+     "literal": "'and-gave also to-her-husband with-her'; Ibn Ezra: they ate it together"
+    },
+    {
+     "tokens": [
+      "3:6.21"
+     ],
+     "english": "and he ate",
+     "literal": "'and-ate'; the husband has one verb and no speech"
+    }
+   ],
+   "grammar": [
+    "Three clauses follow וַתֵּרֶא: good for eating, a delight to the eyes, desirable for gaining insight. The first two open with כִּי; the third has no כִּי of its own and uses a Niphal participle.",
+    "נֶחְמָד is a Niphal participle, 'to be desired'; לְהַשְׂכִּיל is the Hiphil infinitive of שׂכל, 'to have insight' or 'to make wise': Ibn Ezra and Rashi take it as gaining insight, 'knowing good and evil' (3:5).",
+    "תַאֲוָה־הוּא has the pronoun הוּא as copula: 'it is a delight'. The maqqef joins the two; the accent on הוּא is munaḥ.",
+    "The series of wayyiqtols is quick: she took, ate, gave, and he ate. The husband is the subject of the last verb only.",
+    "The woman is אִשָּׁה and her husband אִישׁ: the pair of 2:23 is used again, now as 'her husband'.",
+    "The accents: the pazer on הָאִשָּׁה, the geresh on לְמַאֲכָל, the darga on וְכִי, and the etnaḥta on וַתֹּאכַל; the tevir on לְאִישָׁהּ."
+   ],
+   "note": "'Saw' is kept: the commentators take the seeing as inner, 'in her heart' (Ibn Ezra, Radak), and Rashi as seeing his words; they do not call for another verb in the English. 'Delight' renders תַאֲוָה, a thing desired; the Hebrew has no preposition for 'the eyes' beyond ל. 'To the eyes' is kept, with Ramban's 'he desires with his eyes' in mind. עִמָּהּ can go with the giving ('together with her') or with the husband ('who was with her', Sforno); the English 'with her' keeps both.",
+   "commentary": [
+    {
+     "anchor": "rashi:3:6:1",
+     "relation": "records",
+     "summary": "Rashi: she saw the serpent's words, and they pleased her, and she believed him. The 'seeing' is taken as inner perception; the English 'saw' leaves this open."
+    },
+    {
+     "anchor": "rashi:3:6:2",
+     "relation": "records",
+     "summary": "Rashi: 'good' for being like God. The English keeps 'good for eating', the plain sense of לְמַאֲכָל."
+    },
+    {
+     "anchor": "rashi:3:6:3",
+     "relation": "records",
+     "summary": "Rashi: 'a desire to the eyes' as he said to her, 'your eyes will be opened'. The English keeps 'a delight to the eyes'."
+    },
+    {
+     "anchor": "rashi:3:6:4",
+     "relation": "follows",
+     "summary": "Rashi: 'desirable for gaining insight' as he said to her, 'knowing good and evil'. The English 'for gaining insight' keeps the link with 3:5."
+    },
+    {
+     "anchor": "rashi:3:6:5",
+     "relation": "not-applicable",
+     "summary": "Rashi: she gave also to her husband so that she not die and he live and marry another. A homily on her motive."
+    },
+    {
+     "anchor": "rashi:3:6:6",
+     "relation": "not-applicable",
+     "summary": "Rashi: גַּם comes to include the animals and wild creatures. A homily; the English gives 'also' in its plain sense."
+    },
+    {
+     "anchor": "ibn-ezra:3:6:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: 'in her heart'. A real alternative: the seeing is inner. The English 'saw' does not decide."
+    },
+    {
+     "anchor": "ibn-ezra:3:6:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: desirable 'so that she would gain insight and her eyes would be opened'. The English 'for gaining insight'."
+    },
+    {
+     "anchor": "ibn-ezra:3:6:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: עִמָּהּ means they ate it together, and she told him the serpent's secret; he was not deceived, and so was punished. He also holds that the tree was not a fig and that 'knowing' is a euphemism for union; the English 'with her' keeps the first."
+    },
+    {
+     "anchor": "ibn-ezra:3:6:4",
+     "relation": "not-applicable",
+     "summary": "Filed at the end of the verse, but the comment is on 'tree of life' (3:22) and the question of death: 'לעולם' does not mean forever. It does not bear on 3:6."
+    },
+    {
+     "anchor": "ramban:3:6:2",
+     "relation": "follows",
+     "summary": "Ramban: 'desire to the eyes': he desires with, and goes after, his eyes. The English 'a delight to the eyes'."
+    },
+    {
+     "anchor": "sforno:3:6:3",
+     "relation": "records",
+     "summary": "Sforno: he was drawn by her words because he was her husband and because he was with her. The English 'with her' keeps this as a possible reading of עִמָּהּ."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: אַסֵּי הוּא לְעַיְנִין 'it is healing to the eyes' for תַאֲוָה־הוּא לָעֵינַיִם, and מְרַגֵּג אִילָנָא לְאִסְתַּכָּלָא בֵהּ 'the tree pleases to look at'; a different sense for לְהַשְׂכִּיל.",
+    "Radak (3:6:4): she ate twice, he once.",
+    "The identity of the tree is not given in the text: Rashi (3:7), a fig; Radak (3:7) cites the Rabbis' fig, wheat and citron and the view that it was never revealed, and says 'we do not know'; Ibn Ezra, one of two trees found only in the garden."
+   ]
+  },
+  {
+   "ref": "3:7",
+   "english": "Then the eyes of the two of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loincloths.",
+   "literal": "and-were-opened eyes-of two-of-them and-knew that naked they and-sewed leaf-of fig and-made for-themselves loincloths",
+   "tokens": [
+    {
+     "id": "3:7.1",
+     "gloss": "and were opened",
+     "sense": "Niph",
+     "note": "wayyiqtol Niphal with the 3rd feminine plural ending -נָה, to agree with the feminine עֵינֵי; the serpent's וְנִפְקְחוּ (3:5) fulfilled"
+    },
+    {
+     "id": "3:7.2",
+     "gloss": "the eyes of",
+     "note": "dual construct of עַיִן, feminine"
+    },
+    {
+     "id": "3:7.3",
+     "gloss": "the two of them",
+     "note": "dual construct of שְׁנַיִם with a 3rd masculine plural suffix"
+    },
+    {
+     "id": "3:7.4",
+     "gloss": "and they knew",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol of ידע"
+    },
+    {
+     "id": "3:7.5",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "3:7.6",
+     "gloss": "naked",
+     "note": "עֵירֹם, plural, here written without the second yod; a different word from עָרוֹם (2:25) and עָרוּם (3:1)"
+    },
+    {
+     "id": "3:7.7",
+     "gloss": "they",
+     "note": "the subject of the nominal clause, after its predicate: 'that naked they (were)'"
+    },
+    {
+     "id": "3:7.8",
+     "gloss": "and they sewed",
+     "sense": "Qal",
+     "note": "wayyiqtol of תפר, 'sew together'"
+    },
+    {
+     "id": "3:7.9",
+     "gloss": "leaves of",
+     "note": "construct state of עָלֶה 'leaf'; a collective"
+    },
+    {
+     "id": "3:7.10",
+     "gloss": "fig",
+     "note": "'leaf of fig': 'fig leaves'"
+    },
+    {
+     "id": "3:7.11",
+     "gloss": "and they made",
+     "sense": "Qal II.1",
+     "note": "wayyiqtol of עשׂה"
+    },
+    {
+     "id": "3:7.12",
+     "gloss": "for themselves",
+     "note": "ל with a 3rd masculine plural suffix: reflexive dative"
+    },
+    {
+     "id": "3:7.13",
+     "gloss": "loincloths",
+     "note": "חֲגוֹרָה 'girdle, loin-covering, belt', from the root חגר 'gird'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:7.1",
+      "3:7.2",
+      "3:7.3"
+     ],
+     "english": "Then the eyes of the two of them were opened",
+     "literal": "'and-were-opened eyes-of two-of-them'; Rashi and Ramban: of insight, not of sight"
+    },
+    {
+     "tokens": [
+      "3:7.4",
+      "3:7.5",
+      "3:7.6",
+      "3:7.7"
+     ],
+     "english": "and they knew that they were naked",
+     "literal": "'and-knew that naked they'; Rashi: even a blind man knows he is naked"
+    },
+    {
+     "tokens": [
+      "3:7.8",
+      "3:7.9",
+      "3:7.10"
+     ],
+     "english": "and they sewed fig leaves together",
+     "literal": "'and-sewed leaf-of fig'; leaves sewn to one another (Radak)"
+    },
+    {
+     "tokens": [
+      "3:7.11",
+      "3:7.12",
+      "3:7.13"
+     ],
+     "english": "and made themselves loincloths",
+     "literal": "'and-made for-themselves loincloths'"
+    }
+   ],
+   "grammar": [
+    "וַתִּפָּקַחְנָה is a wayyiqtol Niphal with the feminine plural ending -נָה, agreeing with the feminine dual עֵינֵי; it fulfils the serpent's וְנִפְקְחוּ (3:5), the same Niphal of פקח. The pashta is written twice because the word is stressed before its last syllable: pashta stands on the last letter, and a second sign marks the stressed syllable.",
+    "וַיֵּדְעוּ כִּי introduces the content of what they knew, as כִּי in 3:5 introduced what God knows.",
+    "עֵירֻמִּם הֵם is a nominal clause: the predicate עֵירֻמִּם stands first and the pronoun הֵם is its subject, 'that naked they (were)'. The word-play עֲרוּמִּים (2:25), עָרוּם (3:1), עֵירֻמִּם is a chain of near-homonyms.",
+    "The wayyiqtols וַיִּתְפְּרוּ and וַיַּעֲשׂוּ narrate their act quickly; the etnaḥta falls after הֵם.",
+    "חֲגֹרֹת is a plural noun from the root חגר 'to gird': what is bound around the waist."
+   ],
+   "note": "The text writes עֵירֻמִּם without the second yod, the plural עֵירֻמִּים; Rashi and Radak quote it in the full spelling and the sense is the same. 'Eyes were opened' is kept as the idiom of 3:5; Rashi and Ramban say it speaks of insight, not of actual sight, and the end of the verse ('they knew') shows it. 'Fig leaves' is a collective, 'leaf of fig'. חֲגֹרֹת is rendered 'loincloths' (BDB: girdle, loin-covering, belt).",
+   "commentary": [
+    {
+     "anchor": "rashi:3:7:1",
+     "relation": "follows",
+     "summary": "Rashi: the verse speaks of insight and not of actual sight, and the end of the verse proves it. The English keeps 'eyes were opened' with 'they knew'."
+    },
+    {
+     "anchor": "rashi:3:7:2",
+     "relation": "records",
+     "summary": "Rashi: even a blind man knows he is naked; so what is 'they knew that they were naked'? They had one commandment in their hand and were stripped of it (Gen. Rabbah). The English gives the plain 'knew that they were naked' and leaves this as a reading."
+    },
+    {
+     "anchor": "rashi:3:7:3",
+     "relation": "records",
+     "summary": "Rashi: the fig is the tree they ate from, so they were put right with what ruined them; the other trees kept them from taking leaves. The identity of the tree is not in the English, which says 'fig leaves'."
+    },
+    {
+     "anchor": "ramban:3:7:1",
+     "relation": "follows",
+     "summary": "Ramban, after Rashi: the Scripture speaks of knowledge and not of actual sight; its end proves it, 'and they knew that they were naked', as in 'open my eyes that I may behold wonders' (Ps. 119:18)."
+    },
+    {
+     "anchor": "radak:3:7:2",
+     "relation": "records",
+     "summary": "Radak: it says 'they knew' and not 'they saw', since what they now saw was what they had seen before; after eating, desire arose in them and the organ was stirred, so they were ashamed. A reading of what the knowing was."
+    },
+    {
+     "anchor": "radak:3:7:3",
+     "relation": "not-applicable",
+     "summary": "Radak: עֵירֻמִּים is written with a yod of prolongation (יו״ד המשך), the yod after the ʿayin that marks the long vowel ē; this sets it apart in spelling from עֲרוּמִּים of 2:25. A note on spelling."
+    },
+    {
+     "anchor": "radak:3:7:4",
+     "relation": "follows",
+     "summary": "Radak: fig leaves are broad, so they sewed them to one another and made belts to cover their nakedness. This agrees with 'sewed together' and 'loincloths'."
+    },
+    {
+     "anchor": "sforno:3:7:2",
+     "relation": "records",
+     "summary": "Sforno: they knew that the place of nakedness should be covered, since their acts were now aimed at pleasure that is loathsome and harmful. A reading of what they knew."
+    }
+   ],
+   "apparatus": [
+    "MAM writes עֵירֻמִּם (defective, without the yod of the plural ending) where Rashi and Radak quote the full plural עֵירֻמִּים; no change of sense.",
+    "Onkelos: טַרְפֵי תְאֵנִין 'fig leaves' and זְרָזִין 'belts' for חֲגֹרֹת; עַרְטִילָאִין 'naked'.",
+    "Radak: the Rabbis name the tree a fig, wheat or citron; Ibn Ezra (3:6) thinks the fig is not the tree of knowledge, because the verse would then say 'leaves of the tree of knowledge'."
+   ]
+  }
+ ]
+}

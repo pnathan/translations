@@ -1,0 +1,1127 @@
+{
+ "unit": "bereshit-07",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "2:9",
+   "english": "The LORD God made grow from the ground every tree desirable to look at and good for food, and the tree of life in the middle of the garden, and the tree of the knowledge of good and evil.",
+   "literal": "and-made-grow the-LORD God from-the-ground every-of tree desirable for-sight and-good for-food and-tree-of the-life in-midst-of the-garden and-tree-of the-knowledge good and-evil",
+   "tokens": [
+    {
+     "id": "2:9.1",
+     "gloss": "and (he) caused to grow",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol, Hiphil of צמח: 'he made sprout'; the narrative sequence continues from 2:8"
+    },
+    {
+     "id": "2:9.2",
+     "gloss": "the LORD",
+     "note": "the divine name, read 'the LORD'"
+    },
+    {
+     "id": "2:9.3",
+     "gloss": "God",
+     "sense": "4"
+    },
+    {
+     "id": "2:9.4",
+     "gloss": "from",
+     "sense": "2"
+    },
+    {
+     "id": "2:9.5",
+     "gloss": "the ground",
+     "sense": "1",
+     "note": "אֲדָמָה, the soil from which the human was formed (2:7)"
+    },
+    {
+     "id": "2:9.6",
+     "gloss": "every",
+     "sense": "1",
+     "note": "construct; כָּל־ binds to the next word"
+    },
+    {
+     "id": "2:9.7",
+     "gloss": "tree",
+     "sense": "1.a",
+     "note": "collective-singular use: 'every tree'"
+    },
+    {
+     "id": "2:9.8",
+     "gloss": "desirable",
+     "sense": "Niph",
+     "note": "Niphal participle of חמד: 'to be desired'"
+    },
+    {
+     "id": "2:9.9",
+     "gloss": "to look at",
+     "sense": "1.b",
+     "note": "לְ + מַרְאֶה: literally 'for sight'"
+    },
+    {
+     "id": "2:9.10",
+     "gloss": "and good",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.11",
+     "gloss": "for food",
+     "note": "מַאֲכָל, 'something to eat'"
+    },
+    {
+     "id": "2:9.12",
+     "gloss": "and the tree of",
+     "sense": "1.a",
+     "note": "construct state"
+    },
+    {
+     "id": "2:9.13",
+     "gloss": "life",
+     "sense": "1",
+     "note": "חַיִּים, plural in form, singular in sense; the article marks 'the tree of life'"
+    },
+    {
+     "id": "2:9.14",
+     "gloss": "in the middle of",
+     "note": "construct; Rashi: בָּאֶמְצַע"
+    },
+    {
+     "id": "2:9.15",
+     "gloss": "the garden"
+    },
+    {
+     "id": "2:9.16",
+     "gloss": "and the tree of",
+     "sense": "1.a",
+     "note": "construct: 'and the tree of', bound to הַדַּעַת"
+    },
+    {
+     "id": "2:9.17",
+     "gloss": "the knowledge",
+     "sense": "1.a",
+     "note": "דַּעַת with the article. Because it is definite it cannot be a construct governing טוֹב וָרָע, so Ibn Ezra supplies a second דַּעַת: 'the knowledge, (the knowledge of) good and evil'."
+    },
+    {
+     "id": "2:9.18",
+     "gloss": "of good",
+     "sense": "4",
+     "note": "טוֹב as a noun, 'the good'"
+    },
+    {
+     "id": "2:9.19",
+     "gloss": "and evil",
+     "sense": "3",
+     "note": "רָע, with pausal qamets under silluq"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:9.1",
+      "2:9.2",
+      "2:9.3"
+     ],
+     "english": "The LORD God made grow",
+     "literal": "'and-made-grow the-LORD God'; wayyiqtol Hiphil, causative of 'sprout'"
+    },
+    {
+     "tokens": [
+      "2:9.4",
+      "2:9.5"
+     ],
+     "english": "from the ground",
+     "literal": "'from-the-ground'"
+    },
+    {
+     "tokens": [
+      "2:9.6",
+      "2:9.7"
+     ],
+     "english": "every tree",
+     "literal": "'every-of tree'"
+    },
+    {
+     "tokens": [
+      "2:9.8",
+      "2:9.9",
+      "2:9.10",
+      "2:9.11"
+     ],
+     "english": "desirable to look at and good for food",
+     "literal": "'desirable for-sight and-good for-food'; two predicates sharing 'tree'"
+    },
+    {
+     "tokens": [
+      "2:9.12",
+      "2:9.13",
+      "2:9.14",
+      "2:9.15"
+     ],
+     "english": "and the tree of life in the middle of the garden",
+     "literal": "'and-tree-of the-life in-midst-of the-garden'"
+    },
+    {
+     "tokens": [
+      "2:9.16",
+      "2:9.17",
+      "2:9.18",
+      "2:9.19"
+     ],
+     "english": "and the tree of the knowledge of good and evil",
+     "literal": "'and-tree-of the-knowledge good and-evil'; 'knowledge' read as the head of the construct, with 'good and evil' as its content, following Ibn Ezra"
+    }
+   ],
+   "grammar": [
+    "וַיַּצְמַח is a wayyiqtol Hiphil: the LORD God is the cause of the growth.",
+    "נֶחְמָד is a Niphal participle: 'desirable' (literally 'being desired'); it and טוֹב are both adjectival predicates of עֵץ.",
+    "The etnaḥta on לְמַאֲכָל ends the first half: all trees; the second half names the two special trees.",
+    "עֵץ הַדַּעַת טוֹב וָרָע: the Hebrew has no word between הַדַּעַת and טוֹב. The construct chain is elliptical, 'tree of the knowledge (of) good and evil'.",
+    "Ibn Ezra's reading: the text means 'the tree of the knowledge, the knowledge of good and evil' (he compares הָאָרוֹן הַבְּרִית), which is how the English line is built."
+   ],
+   "note": "בְּתוֹךְ is rendered 'in the middle of' with Rashi and Radak (Targum Onkelos: בִּמְצִיעוּת גִּנְּתָא). Whether both trees stand at the one point or the middle is a broad area (Ramban) is left open by the Hebrew. 'Knowledge' stays a bare noun, 'of good and evil' being its content, following Ibn Ezra's supplied 'knowledge'.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:9:1",
+     "relation": "follows",
+     "summary": "Rashi: the verse speaks of the garden; the growth is that of the trees in Eden, not of the earth at large."
+    },
+    {
+     "anchor": "rashi:2:9:2",
+     "relation": "follows",
+     "summary": "Rashi glosses בְּתוֹךְ as בָּאֶמְצַע, 'in the middle'."
+    },
+    {
+     "anchor": "ibn-ezra:2:9:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: when He caused every tree to sprout from the ground, so it grew in the garden, and in addition two trees in its midst."
+    },
+    {
+     "anchor": "ibn-ezra:2:9:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: a second 'knowledge' has to be supplied, 'and the tree of the knowledge, the knowledge of good and evil'. How could הַדַּעַת be in construct when it is already made definite (by the article)? He compares הָאָרוֹן הַבְּרִית (Josh 3:14) and וְהַנְּבוּאָה עֹדֵד הַנָּבִיא (2 Chr 15:8)."
+    },
+    {
+     "anchor": "ramban:2:9:1",
+     "relation": "records",
+     "summary": "Ramban: since the text says בְּתוֹךְ הַגָּן and not בַּגָּן, it means a known central place in the garden (so Onkelos, בִּמְצִיעוּת גִּנְּתָא), a broad central bed holding both trees. He rejects the view that the fruit of knowledge aroused sexual desire, and holds that it gave will and choice: to want a thing or its opposite, for good or for evil."
+    },
+    {
+     "anchor": "radak:2:9:2",
+     "relation": "records",
+     "summary": "Radak: the trees were lovely in height, leaves and species, and their fruit good to eat; the garden is reserved for the messianic age."
+    }
+   ],
+   "apparatus": [
+    "No textual variant in this verse; the pack reports none."
+   ]
+  },
+  {
+   "ref": "2:10",
+   "english": "A river flows out of Eden to water the garden, and from there it divides and becomes four headwaters.",
+   "literal": "and-river going-out from-Eden to-water ACC the-garden and-from-there it-divides and-became into-four heads",
+   "tokens": [
+    {
+     "id": "2:10.1",
+     "gloss": "and a river",
+     "note": "ו introduces a new scene; no verb 'was' is needed"
+    },
+    {
+     "id": "2:10.2",
+     "gloss": "flowing out",
+     "sense": "Qal 1",
+     "note": "participle: continuing action, 'a river is going out'"
+    },
+    {
+     "id": "2:10.3",
+     "gloss": "from Eden"
+    },
+    {
+     "id": "2:10.4",
+     "gloss": "to water",
+     "sense": "Hiph 1",
+     "note": "Hiphil infinitive construct of שקה, 'to give drink to', with ל of purpose"
+    },
+    {
+     "id": "2:10.5",
+     "gloss": "(object marker)",
+     "note": "marks the garden as direct object"
+    },
+    {
+     "id": "2:10.6",
+     "gloss": "the garden"
+    },
+    {
+     "id": "2:10.7",
+     "gloss": "and from there"
+    },
+    {
+     "id": "2:10.8",
+     "gloss": "it divides",
+     "sense": "Niph 2",
+     "note": "Niphal imperfect of פרד: 'it separates itself'"
+    },
+    {
+     "id": "2:10.9",
+     "gloss": "and it becomes",
+     "sense": "Qal II.2",
+     "note": "perfect with ו: the sequence continues after the yiqtol"
+    },
+    {
+     "id": "2:10.10",
+     "gloss": "into four",
+     "note": "לְ + number: 'become four'"
+    },
+    {
+     "id": "2:10.11",
+     "gloss": "heads",
+     "sense": "4.c",
+     "note": "literally 'heads': heads of the four streams that begin there"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:10.1",
+      "2:10.2",
+      "2:10.3"
+     ],
+     "english": "A river flows out of Eden",
+     "literal": "'and-river going-out from-Eden'"
+    },
+    {
+     "tokens": [
+      "2:10.4",
+      "2:10.5",
+      "2:10.6"
+     ],
+     "english": "to water the garden",
+     "literal": "'to-water ACC the-garden'"
+    },
+    {
+     "tokens": [
+      "2:10.7",
+      "2:10.8"
+     ],
+     "english": "and from there it divides",
+     "literal": "'and-from-there it-divides'"
+    },
+    {
+     "tokens": [
+      "2:10.9",
+      "2:10.10",
+      "2:10.11"
+     ],
+     "english": "and becomes four headwaters",
+     "literal": "'and-became into-four heads'; 'heads' as the starting points of the four rivers, per Radak"
+    }
+   ],
+   "grammar": [
+    "יֹצֵא is a participle with no auxiliary: the river is going out of Eden as a standing fact.",
+    "לְהַשְׁקוֹת is Hiphil: 'to cause to drink', hence 'to water'.",
+    "יִפָּרֵד is a Niphal yiqtol (it is divided, it splits). וְהָיָה is a weqatal, ו with the perfect, which continues the yiqtol with the same continuing sense: 'and becomes'.",
+    "רָאשִׁים is the plural of רֹאשׁ 'head'. The four 'heads' are named in the next verses.",
+    "The pashta on וּמִשָּׁם and the zaqef on יִפָּרֵד set 'from there it divides' as a unit."
+   ],
+   "note": "רָאשִׁים is rendered 'headwaters': the 'heads' are the four beginnings of rivers (Radak: 'parts, since each part is the head of what comes out of it'). Whether the river first enters the garden and divides after leaving it (Radak) is not stated by the Hebrew. WLC vowels the first word with a dagesh in the resh; the base text here does not (see apparatus).",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:2:10:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: even before the human was created the river was watering the garden on every side."
+    },
+    {
+     "anchor": "ibn-ezra:2:10:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the alef of רָאשִׁים is a root letter, as in מַרְאֲשׁוֹתֵיכֶם; the word is 'head'."
+    },
+    {
+     "anchor": "radak:2:10:2",
+     "relation": "follows",
+     "summary": "Radak: after it has watered the garden it leaves and is divided into four parts, each called a river."
+    },
+    {
+     "anchor": "radak:2:10:3",
+     "relation": "follows",
+     "summary": "Radak: רָאשִׁים means parts, because each part is the head of the stream that goes out from it."
+    },
+    {
+     "anchor": "sforno:2:10:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: the river irrigated without rain or human labour; a comment on the garden's ease, not on the wording."
+    }
+   ],
+   "apparatus": [
+    "2:10.1 vowels: WLC reads וְנָהָרּ֙ (with dagesh); the base text וְנָהָר֙ is followed.",
+    "WLC note p: punctuation in L is read differently from BHS."
+   ]
+  },
+  {
+   "ref": "2:11",
+   "english": "The name of the first is Pishon; it is the one that encircles the whole land of Havilah, where the gold is.",
+   "literal": "name-of the-one Pishon he the-encircling ACC all-of land-of the-Havilah which-there the-gold",
+   "tokens": [
+    {
+     "id": "2:11.1",
+     "gloss": "the name of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "2:11.2",
+     "gloss": "the first",
+     "sense": "7",
+     "note": "הָאֶחָד, 'the one', used for 'the first'"
+    },
+    {
+     "id": "2:11.3",
+     "gloss": "Pishon",
+     "note": "a river name"
+    },
+    {
+     "id": "2:11.4",
+     "gloss": "it",
+     "sense": "1",
+     "note": "הוּא as copula: 'it is'"
+    },
+    {
+     "id": "2:11.5",
+     "gloss": "the one encircling",
+     "sense": "Qal 2.d",
+     "note": "article plus participle: 'the one that goes around'"
+    },
+    {
+     "id": "2:11.6",
+     "gloss": "(object marker)",
+     "note": "the object marker. Its accent is yetiv, a prepositive disjunctive accent: it is written before the word and so does not mark the stressed syllable."
+    },
+    {
+     "id": "2:11.7",
+     "gloss": "the whole of",
+     "sense": "1"
+    },
+    {
+     "id": "2:11.8",
+     "gloss": "land of",
+     "sense": "2",
+     "note": "construct"
+    },
+    {
+     "id": "2:11.9",
+     "gloss": "the Havilah",
+     "note": "a land; the article is idiomatic with the name"
+    },
+    {
+     "id": "2:11.10",
+     "gloss": "where",
+     "note": "אֲשֶׁר + שָׁם = 'where'"
+    },
+    {
+     "id": "2:11.11",
+     "gloss": "there"
+    },
+    {
+     "id": "2:11.12",
+     "gloss": "the gold",
+     "note": "with the article, 'the gold' known of that land"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:11.1",
+      "2:11.2",
+      "2:11.3"
+     ],
+     "english": "The name of the first is Pishon",
+     "literal": "'name-of the-one Pishon'"
+    },
+    {
+     "tokens": [
+      "2:11.4",
+      "2:11.5",
+      "2:11.6"
+     ],
+     "english": "it is the one that encircles",
+     "literal": "'he the-encircling ACC'; הוּא as pronoun-copula"
+    },
+    {
+     "tokens": [
+      "2:11.7",
+      "2:11.8",
+      "2:11.9"
+     ],
+     "english": "the whole land of Havilah",
+     "literal": "'all-of land-of the-Havilah'"
+    },
+    {
+     "tokens": [
+      "2:11.10",
+      "2:11.11",
+      "2:11.12"
+     ],
+     "english": "where the gold is",
+     "literal": "'which-there the-gold'; the Hebrew has no verb"
+    }
+   ],
+   "grammar": [
+    "שֵׁם הָאֶחָד has no 'is': the verse is a nominal clause, 'the name of the first (river): Pishon'.",
+    "הוּא הַסֹּבֵב is a pronoun with an article-plus-participle: 'he, the encircler'.",
+    "אֲשֶׁר־שָׁם 'which-there' is the idiom for 'where'.",
+    "The revia on הַסֹּבֵב marks a pause before the object, and the zaqef on הַחֲוִילָה before the relative clause.",
+    "Each of the four names is introduced by שֵׁם and a number; the pattern runs from 2:11 to 2:14."
+   ],
+   "note": "The English does not identify the river. Rashi says Pishon is the Nile of Egypt, named from its rising waters or from flax (פִּשְׁתָּן); Ibn Ezra reports the Gaon's identification as the Nile, doubts it from the geography, and says it is unproved. The Hebrew gives only name, circuit and the gold of Havilah. 'Encircle' for סבב fits Qal 2.d 'surround, encompass'.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:11:1",
+     "relation": "records",
+     "summary": "Rashi: Pishon is the Nile, named for its waters rising and irrigating the land (cf. וּפָשׁוּ פָרָשָׁיו) or for flax (cf. עֹבְדֵי פִשְׁתִּים of Egypt); the identification and etymology are kept here, not in the English line."
+    },
+    {
+     "anchor": "ibn-ezra:2:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the Gaon said Pishon is the river of Egypt (the Nile). Ibn Ezra sets out the geography: Gihon is near the land of Israel, the Euphrates and Tigris are eastern, the Nile rises far south of the equator, and Eden lies under the equator. Pishon would then have to run south-west and turn back north. There is no proof that Pishon is the Nile: the Gaon rendered Havilah as he needed, without a tradition. The gold is mentioned in honour of the river that comes out of the garden."
+    },
+    {
+     "anchor": "ramban:2:11:1",
+     "relation": "records",
+     "summary": "Ramban: 'where the gold is' shows that this is not the Havilah of Egypt (25:18), for this one is in the farthest east. Bdellium and onyx are named in praise of the river, since such gold and gems are found in the sand of rivers. On the earlier view (Rashi, Saadia), Pishon is the Nile, which encircles this Havilah and then runs through Egypt to the sea at Alexandria."
+    },
+    {
+     "anchor": "radak:2:11:1",
+     "relation": "records",
+     "summary": "Radak: Havilah lies near Eden and is praised for what it yields, as the garden is praised for trees and fruit."
+    },
+    {
+     "anchor": "radak:2:11:3",
+     "relation": "follows",
+     "summary": "Radak: the article on הַזָּהָב is because gold is found elsewhere too, but here it is plentiful and good."
+    },
+    {
+     "anchor": "sforno:2:11:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: the verse praises the river that waters the garden by naming its branches known to us; a comment on purpose."
+    }
+   ]
+  },
+  {
+   "ref": "2:12",
+   "english": "The gold of that land is good; bdellium is there, and onyx stone.",
+   "literal": "and-gold-of the-land the-that good there the-bdellium and-stone-of the-onyx",
+   "tokens": [
+    {
+     "id": "2:12.1",
+     "gloss": "and the gold of",
+     "note": "construct; the lexicon lists only 'golden oil' for this entry, which does not fit; plain 'gold'"
+    },
+    {
+     "id": "2:12.2",
+     "gloss": "the land",
+     "sense": "2"
+    },
+    {
+     "id": "2:12.3",
+     "gloss": "that",
+     "sense": "1",
+     "note": "הַהִוא, feminine, agreeing with הָאָרֶץ"
+    },
+    {
+     "id": "2:12.4",
+     "gloss": "good",
+     "sense": "3"
+    },
+    {
+     "id": "2:12.5",
+     "gloss": "there"
+    },
+    {
+     "id": "2:12.6",
+     "gloss": "the bdellium",
+     "note": "a resin or a small round stone: Ibn Ezra reports the Gaon's 'small round stones'"
+    },
+    {
+     "id": "2:12.7",
+     "gloss": "and the stone of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "2:12.8",
+     "gloss": "the onyx",
+     "note": "שֹׁהַם: a precious stone, white and clear according to Ibn Ezra and Radak; identity uncertain"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:12.1",
+      "2:12.2",
+      "2:12.3",
+      "2:12.4"
+     ],
+     "english": "The gold of that land is good",
+     "literal": "'and-gold-of the-land the-that good'; nominal clause"
+    },
+    {
+     "tokens": [
+      "2:12.5",
+      "2:12.6"
+     ],
+     "english": "bdellium is there",
+     "literal": "'there the-bdellium'; the Hebrew has the adverb before the noun"
+    },
+    {
+     "tokens": [
+      "2:12.7",
+      "2:12.8"
+     ],
+     "english": "and onyx stone",
+     "literal": "'and-stone-of the-onyx'"
+    }
+   ],
+   "grammar": [
+    "הַהִוא is the feminine 'that', agreeing with הָאָרֶץ. In the Torah the feminine pronoun is regularly written הִוא and read hi.",
+    "Both clauses are nominal: no 'is'. The etnaḥta falls after טוֹב.",
+    "שָׁם before the noun puts weight on the place: 'there is the bdellium'.",
+    "וְאֶבֶן הַשֹּׁהַם is a construct chain, 'the stone of the onyx', while בְּדֹלַח has no 'stone' (Radak: it is too small to work).",
+    "The articles on הַבְּדֹלַח and הַשֹּׁהַם present them as the known goods of that land."
+   ],
+   "note": "בְּדֹלַח and שֹׁהַם are of uncertain identity. Ibn Ezra and Radak take bdellium as a small round white stone (Num 11:7) and onyx as a fine white stone; the conventional 'bdellium' and 'onyx' are kept, and the other identifications are recorded here. The BDB entry for זָהָב offers only sense 10, which does not fit; the plain sense 'gold' is used. WLC vowels the first word with a hataf patah; the base text has a shewa.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:2:12:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: the Gaon said bdellium is the small round fine stones that come out of the water, and that the manna was likened to them. But Scripture compares only the manna's appearance (עֵינוֹ, Num 11:7). The Gaon says onyx is a precious white, clear stone. 'And we do not know.'"
+    },
+    {
+     "anchor": "radak:2:12:1",
+     "relation": "records",
+     "summary": "Radak: bdellium is a small white round stone, said to form from dew drops; it is strung on a thread, so the text does not say 'stone of bdellium'."
+    },
+    {
+     "anchor": "radak:2:12:2",
+     "relation": "records",
+     "summary": "Radak: onyx is a large white pure stone used for kings' vessels; the names of Israel's sons were engraved on it."
+    }
+   ],
+   "apparatus": [
+    "2:12.1 vowels: WLC reads וּֽזֲהַ֛ב (hataf patah); the base text וּֽזְהַ֛ב is followed."
+   ]
+  },
+  {
+   "ref": "2:13",
+   "english": "The name of the second river is Gihon; it is the one that encircles the whole land of Cush.",
+   "literal": "and-name-of the-river the-second Gihon he the-encircling ACC all-of land-of Cush",
+   "tokens": [
+    {
+     "id": "2:13.1",
+     "gloss": "and the name of",
+     "sense": "3",
+     "note": "construct: 'and the name of'"
+    },
+    {
+     "id": "2:13.2",
+     "gloss": "the river"
+    },
+    {
+     "id": "2:13.3",
+     "gloss": "the second"
+    },
+    {
+     "id": "2:13.4",
+     "gloss": "Gihon",
+     "note": "Rashi: named for its loud roaring, like כִּי יִגַּח 'gores' (Ex 21:28, from נגח). Radak and the lexicon: from גיח 'burst forth'."
+    },
+    {
+     "id": "2:13.5",
+     "gloss": "it",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.6",
+     "gloss": "the one encircling",
+     "sense": "Qal 2.d"
+    },
+    {
+     "id": "2:13.7",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:13.8",
+     "gloss": "the whole of",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.9",
+     "gloss": "land of",
+     "sense": "2"
+    },
+    {
+     "id": "2:13.10",
+     "gloss": "Cush",
+     "note": "a land and people, usually south of Egypt; Rashi: written by the name it later bore"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:13.1",
+      "2:13.2",
+      "2:13.3",
+      "2:13.4"
+     ],
+     "english": "The name of the second river is Gihon",
+     "literal": "'and-name-of the-river the-second Gihon'"
+    },
+    {
+     "tokens": [
+      "2:13.5",
+      "2:13.6",
+      "2:13.7",
+      "2:13.8",
+      "2:13.9",
+      "2:13.10"
+     ],
+     "english": "it is the one that encircles the whole land of Cush",
+     "literal": "'he the-encircling ACC all-of land-of Cush'"
+    }
+   ],
+   "grammar": [
+    "The verse is a copy of 2:11 in form: name, number, 'he the encircling'.",
+    "הוּא הַסּוֹבֵב is pronoun plus article and participle, 'he who encircles'.",
+    "The etnaḥta on גִּיחוֹן divides the name from the description. The zaqef qaton on הַסּוֹבֵב marks the pause before the object, and the silluq on כּוּשׁ closes the verse.",
+    "Radak notes that the river does not go from one side to the others: the land itself is what is encircled.",
+    "Rashi explains גִּיחוֹן by its great roaring, comparing כִּי יִגַּח (Ex 21:28, 'gores'). Radak takes it from גיח 'burst forth' (Job 40:23), because it sends out many branches."
+   ],
+   "note": "The name receives its meaning in Rashi (surging, roaring, from גִּיחַ) and in Radak (a river that sends out many branches); neither belongs in the English line. 'Cush' is kept as a plain transliteration. The text does not say where Cush lies; Radak puts it in the south.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:13:1",
+     "relation": "records",
+     "summary": "Rashi: Gihon is so named because it goes on roaring, and its roaring is very great, like כִּי יִגַּח (Ex 21:28): it gores, goes on and roars."
+    },
+    {
+     "anchor": "radak:2:13:3",
+     "relation": "records",
+     "summary": "Radak: Gihon is from the sense of going forth, since it divides into many branches in the land of Cush."
+    },
+    {
+     "anchor": "radak:2:13:2",
+     "relation": "follows",
+     "summary": "Radak: the river does not go from one quarter to another; it is the land itself that is encircled."
+    }
+   ]
+  },
+  {
+   "ref": "2:14",
+   "english": "The name of the third river is the Tigris; it is the one that flows east of Assyria. And the fourth river is the Euphrates.",
+   "literal": "and-name-of the-river the-third Hiddekel he the-going east-of Asshur and-the-river the-fourth he Perat",
+   "tokens": [
+    {
+     "id": "2:14.1",
+     "gloss": "and the name of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "2:14.2",
+     "gloss": "the river"
+    },
+    {
+     "id": "2:14.3",
+     "gloss": "the third"
+    },
+    {
+     "id": "2:14.4",
+     "gloss": "the Tigris",
+     "note": "the Hebrew חִדֶּקֶל, Hiddekel; Rashi: from חַדִּין וְקַלִּין, 'sharp and swift'"
+    },
+    {
+     "id": "2:14.5",
+     "gloss": "it",
+     "sense": "1"
+    },
+    {
+     "id": "2:14.6",
+     "gloss": "the one flowing",
+     "note": "participle with article: 'the one that goes'. Of a river, 'flows'. The entry's listed Qal senses (die; live, walk) do not fit, so none is cited."
+    },
+    {
+     "id": "2:14.7",
+     "gloss": "east of",
+     "note": "קִדְמַת: the ת of the construct stands for the directive ה (Ibn Ezra)"
+    },
+    {
+     "id": "2:14.8",
+     "gloss": "Assyria",
+     "note": "אַשּׁוּר, Asshur; Rashi: not yet existing, written by its future name"
+    },
+    {
+     "id": "2:14.9",
+     "gloss": "and the river"
+    },
+    {
+     "id": "2:14.10",
+     "gloss": "the fourth"
+    },
+    {
+     "id": "2:14.11",
+     "gloss": "it",
+     "sense": "1",
+     "note": "pronoun as copula: 'is'"
+    },
+    {
+     "id": "2:14.12",
+     "gloss": "the Euphrates",
+     "note": "פְּרָת; Rashi: from פָּרִין וְרָבִין 'fruitful and many'; the article is lacking"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:14.1",
+      "2:14.2",
+      "2:14.3",
+      "2:14.4"
+     ],
+     "english": "The name of the third river is the Tigris",
+     "literal": "'and-name-of the-river the-third Hiddekel'"
+    },
+    {
+     "tokens": [
+      "2:14.5",
+      "2:14.6",
+      "2:14.7",
+      "2:14.8"
+     ],
+     "english": "it is the one that flows east of Assyria",
+     "literal": "'he the-going east-of Asshur'"
+    },
+    {
+     "tokens": [
+      "2:14.9",
+      "2:14.10"
+     ],
+     "english": "And the fourth river",
+     "literal": "'and-the-river the-fourth'"
+    },
+    {
+     "tokens": [
+      "2:14.11",
+      "2:14.12"
+     ],
+     "english": "is the Euphrates",
+     "literal": "'he Perat'"
+    }
+   ],
+   "grammar": [
+    "The third river has the same frame as 2:11 and 2:13; the fourth has no 'name of', only 'the fourth river, it is Perat'.",
+    "קִדְמַת is the construct of קִדְמָה, 'east'; Ibn Ezra reads the ת as the sign of a construct standing for the directive ה, 'to the east of Asshur'.",
+    "הַהֹלֵךְ is a participle with article: 'the one that goes'.",
+    "פְרָת has no 'name of' and no gloss because the river was well known, nearest to the land of Israel (Radak).",
+    "Rashi says Cush and Asshur 'did not yet exist': the text writes by the names of the future."
+   ],
+   "note": "'Tigris' is the familiar English form of חִדֶּקֶל (Hiddekel); 'Euphrates' of פְּרָת (Perat); 'Assyria' of אַשּׁוּר. The meaning of each name goes in the notes, not in the English line (per decisions). The simple clause 'east of Assyria' follows Rashi and Ibn Ezra: toward the east of it, not 'in front of'.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:14:1",
+     "relation": "records",
+     "summary": "Rashi: Hiddekel is so named because its waters are sharp (חַדִּין) and swift (קַלִּין); the etymology is kept in the notes."
+    },
+    {
+     "anchor": "rashi:2:14:2",
+     "relation": "records",
+     "summary": "Rashi: Perat is so named because its waters are fruitful (פָּרִין) and multiply (רָבִין) and make people healthy (מַבְרִין). Cush and Asshur did not yet exist: Scripture writes by the future name."
+    },
+    {
+     "anchor": "rashi:2:14:3",
+     "relation": "follows",
+     "summary": "Rashi: קִדְמַת אַשּׁוּר means toward the east of Assyria."
+    },
+    {
+     "anchor": "rashi:2:14:4",
+     "relation": "records",
+     "summary": "Rashi: the Euphrates is the most important of them all, mentioned by the name of the land of Israel."
+    },
+    {
+     "anchor": "ibn-ezra:2:14:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the ת of קִדְמַת stands in place of ה, as in וַיֵּרֶד אַבְרָם מִצְרַיְמָה: 'toward the east of Asshur'."
+    },
+    {
+     "anchor": "radak:2:14:1",
+     "relation": "follows",
+     "summary": "Radak: it goes and extends to the east of the land of Assyria and does not encircle it; it is called Hiddekel from its waters being sharp and swift."
+    },
+    {
+     "anchor": "radak:2:14:2",
+     "relation": "records",
+     "summary": "Radak cites the Rabbis (Genesis Rabbah 16): R. Yehudah says Perat is the same river as Kevar (Ezekiel's Chebar), named for its fruitful and increasing waters, and Rav Huna says Perat and Kevar are separate rivers. Perat is not tied to any land because it is known on the border of the land of Israel. The four rivers mark the four quarters, and the account shows that Moses wrote by the holy spirit."
+    }
+   ]
+  },
+  {
+   "ref": "2:15",
+   "english": "The LORD God took the human and set him in the garden of Eden to work it and guard it.",
+   "literal": "and-took the-LORD God ACC the-human and-set-him in-garden-of Eden to-work-it and-to-guard-it",
+   "tokens": [
+    {
+     "id": "2:15.1",
+     "gloss": "and (he) took",
+     "sense": "Qal 7",
+     "note": "wayyiqtol Qal of לקח; the narrative resumes from 2:8"
+    },
+    {
+     "id": "2:15.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:15.3",
+     "gloss": "God",
+     "sense": "4"
+    },
+    {
+     "id": "2:15.4",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:15.5",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "הָאָדָם with the article: 'the human'"
+    },
+    {
+     "id": "2:15.6",
+     "gloss": "and (he) set him",
+     "sense": "Hiph B.1",
+     "note": "Hiphil wayyiqtol of נוח, the form with doubled נ (הִנִּיחַ 'set down, place, leave'), with the 3rd masculine singular suffix: 'and he set him'"
+    },
+    {
+     "id": "2:15.7",
+     "gloss": "in the garden of",
+     "note": "construct; גַּן is of either gender, which explains the feminine suffixes after (Ibn Ezra)"
+    },
+    {
+     "id": "2:15.8",
+     "gloss": "Eden"
+    },
+    {
+     "id": "2:15.9",
+     "gloss": "to work it",
+     "sense": "Qal 1",
+     "note": "infinitive construct with ל and feminine suffix 'it': the garden"
+    },
+    {
+     "id": "2:15.10",
+     "gloss": "and to guard it",
+     "sense": "Qal 1.b",
+     "note": "infinitive construct with ל and feminine suffix"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:15.1",
+      "2:15.2",
+      "2:15.3"
+     ],
+     "english": "The LORD God took",
+     "literal": "'and-took the-LORD God'"
+    },
+    {
+     "tokens": [
+      "2:15.4",
+      "2:15.5"
+     ],
+     "english": "the human",
+     "literal": "'ACC the-human'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "2:15.6",
+      "2:15.7",
+      "2:15.8"
+     ],
+     "english": "and set him in the garden of Eden",
+     "literal": "'and-set-him in-garden-of Eden'"
+    },
+    {
+     "tokens": [
+      "2:15.9",
+      "2:15.10"
+     ],
+     "english": "to work it and guard it",
+     "literal": "'to-work-it and-to-guard-it'"
+    }
+   ],
+   "grammar": [
+    "וַיַּנִּחֵהוּ is Hiphil of נוח with a pronominal suffix. The doubled נ marks the Hiphil הִנִּיחַ 'set down, place', not הֵנִיחַ 'give rest': 'and he set him'. It is a different verb from וַיָּשֶׂם in 2:8.",
+    "The feminine suffixes in לְעָבְדָהּ וּלְשָׁמְרָהּ point to the garden, since גַּן may be feminine (Ibn Ezra); Radak also allows that they point to the ground.",
+    "The tevir on וַיִּקַּח and the etnaḥta on הָאָדָם divide the verse into 'took the human' and 'put him in the garden'.",
+    "Two infinitives with ל state purpose: 'to work it and to guard it'.",
+    "The wayyiqtol chain: took, set. The first repeats the 'put' of 2:8, adding purpose (Radak)."
+   ],
+   "note": "The suffix of לְעָבְדָהּ וּלְשָׁמְרָהּ is feminine; Ibn Ezra takes it to refer to the garden (גַּן being of either gender), against those who refer it to הָאֲדָמָה (the ground), and so the English says 'it'. Ibn Ezra reads 'work' as watering the garden and 'guard' as keeping animals out; the English keeps the wider verbs 'work' and 'guard'. Rashi's 'took him with pleasant words' is a homiletic reading.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:15:1",
+     "relation": "records",
+     "summary": "Rashi (Genesis Rabbah): He took him with pleasant words and persuaded him to enter; a homiletic sense of 'took', not adopted in the English."
+    },
+    {
+     "anchor": "ibn-ezra:2:15:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: גַּן is masculine and feminine (plural גַּנִּים and גַּנּוֹת); the suffix in לְעָבְדָהּ is the garden, not the ground: one cannot work a larger place from a smaller one."
+    },
+    {
+     "anchor": "ibn-ezra:2:15:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'to work it' means to water the garden, and 'to guard it' means to keep all the animals from entering and fouling it. He then reports that some take it as serving His commandment (the midrashic reading of positive and negative commandments)."
+    },
+    {
+     "anchor": "radak:2:15:5",
+     "relation": "records",
+     "summary": "Radak: the feminine suffix can refer to the ground the garden is planted in, or to the garden; the Rabbis read 'work it' as study and 'guard it' as commandments."
+    },
+    {
+     "anchor": "onkelos:2:15:1",
+     "relation": "follows",
+     "summary": "Onkelos: וְאַשְׁרֵיהּ בְּגִינְתָא דְעֵדֶן לְמִפְלְחַהּ וּלְמִטְרַהּ: 'and settled him in the garden of Eden to serve it and guard it'."
+    }
+   ]
+  },
+  {
+   "ref": "2:16",
+   "english": "The LORD God commanded the human, saying: \"You may eat freely from every tree of the garden.",
+   "literal": "and-commanded the-LORD God upon the-human to-say from-every-of tree-of the-garden eating you-will-eat",
+   "tokens": [
+    {
+     "id": "2:16.1",
+     "gloss": "and (he) commanded",
+     "note": "wayyiqtol Piel of צוה; with עַל it introduces a prohibition, as Ibn Ezra notes"
+    },
+    {
+     "id": "2:16.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:16.3",
+     "gloss": "God",
+     "sense": "4"
+    },
+    {
+     "id": "2:16.4",
+     "gloss": "on",
+     "sense": "II",
+     "note": "עַל after צוה: 'give command upon'"
+    },
+    {
+     "id": "2:16.5",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "2:16.6",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "לֵאמֹר, introduces direct speech"
+    },
+    {
+     "id": "2:16.7",
+     "gloss": "from every",
+     "sense": "1",
+     "note": "partitive מִן: 'from any of'"
+    },
+    {
+     "id": "2:16.8",
+     "gloss": "tree of",
+     "sense": "1.a",
+     "note": "construct"
+    },
+    {
+     "id": "2:16.9",
+     "gloss": "the garden"
+    },
+    {
+     "id": "2:16.10",
+     "gloss": "eating",
+     "sense": "Qal 1",
+     "note": "infinitive absolute: intensifies the finite verb after it"
+    },
+    {
+     "id": "2:16.11",
+     "gloss": "you may eat",
+     "sense": "Qal 1",
+     "note": "imperfect, 2nd person masculine singular, permissive"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:16.1",
+      "2:16.2",
+      "2:16.3"
+     ],
+     "english": "The LORD God commanded",
+     "literal": "'and-commanded the-LORD God'"
+    },
+    {
+     "tokens": [
+      "2:16.4",
+      "2:16.5"
+     ],
+     "english": "the human",
+     "literal": "'upon the-human'"
+    },
+    {
+     "tokens": [
+      "2:16.6"
+     ],
+     "english": "saying",
+     "literal": "'to-say': introduces speech"
+    },
+    {
+     "tokens": [
+      "2:16.7",
+      "2:16.8",
+      "2:16.9",
+      "2:16.10",
+      "2:16.11"
+     ],
+     "english": "\"You may eat freely from every tree of the garden.",
+     "literal": "'from-every-of tree-of the-garden eating you-will-eat'; the order is fronted for emphasis"
+    }
+   ],
+   "grammar": [
+    "The infinitive absolute אָכֹל before the finite תֹּאכֵל strengthens it: 'you may eat freely'; Radak compares שָׁמוֹעַ תִּשְׁמְעוּן.",
+    "וַיְצַו עַל takes עַל before the person: the idiom opens a command, here a restriction (Ibn Ezra).",
+    "The object מִכֹּל עֵץ הַגָּן is fronted, putting the permission first. The imperfect is permissive: 'you may'.",
+    "The etnaḥta on לֵאמֹר separates the narrative from the speech.",
+    "Because the speech continues in 2:17, the sentence is only the first half of the command."
+   ],
+   "note": "The imperfect with infinitive absolute is rendered as a permission with 'freely' (Radak: the infinitive strengthens the verb). Ibn Ezra reads צִוָּה עַל as introducing the prohibition of 2:17: although the fruit of the garden is allowed, the tree of knowledge is not. Radak asks whether the command refers to 'you shall not eat' or to both parts. The speech runs on into 2:17, so the quotation is left open here.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:2:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: צִוָּה with עַל means a prohibition, as in עַל הָעָבִים אֲצַוֶּה (Is 5:6); although I have allowed you the fruit of every garden tree, you shall not eat of the fruit of the tree of knowledge."
+    },
+    {
+     "anchor": "radak:2:16:1",
+     "relation": "records",
+     "summary": "Radak: the command is either about 'do not eat of it' or both parts, since feeding oneself on what is permitted is itself a command."
+    },
+    {
+     "anchor": "radak:2:16:2",
+     "relation": "follows",
+     "summary": "Radak: the infinitive absolute with the finite verb strengthens the thing, like שָׁמוֹעַ תִּשְׁמְעוּ."
+    },
+    {
+     "anchor": "sforno:2:16:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: 'from every tree of the garden', each in its season as the seasons change with the aspects of the stars, as in לָחֳדָשָׁיו יְבַכֵּר (Ezek 47:12)."
+    }
+   ]
+  }
+ ]
+}

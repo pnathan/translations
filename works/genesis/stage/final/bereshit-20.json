@@ -1,0 +1,868 @@
+{
+ "unit": "bereshit-20",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "5:25",
+   "english": "Methuselah lived one hundred eighty-seven years, and he fathered Lamech.",
+   "literal": "and-lived Methuselah seven and-eighty year and-hundred-of year and-he-fathered [object-marker] Lamech",
+   "tokens": [
+    {
+     "id": "5:25.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה"
+    },
+    {
+     "id": "5:25.2",
+     "gloss": "Methuselah"
+    },
+    {
+     "id": "5:25.3",
+     "gloss": "seven"
+    },
+    {
+     "id": "5:25.4",
+     "gloss": "and eighty"
+    },
+    {
+     "id": "5:25.5",
+     "gloss": "year",
+     "note": "singular noun after a numeral"
+    },
+    {
+     "id": "5:25.6",
+     "gloss": "and hundred of",
+     "note": "construct state of מֵאָה, 'hundred of'"
+    },
+    {
+     "id": "5:25.7",
+     "gloss": "year"
+    },
+    {
+     "id": "5:25.8",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol of ילד: 'caused to bear', 'begot'"
+    },
+    {
+     "id": "5:25.9",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:25.10",
+     "gloss": "Lamech"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:25.1",
+      "5:25.2"
+     ],
+     "english": "Methuselah lived",
+     "literal": "'and-lived Methuselah'; the English puts the subject first"
+    },
+    {
+     "tokens": [
+      "5:25.3",
+      "5:25.4",
+      "5:25.5",
+      "5:25.6",
+      "5:25.7"
+     ],
+     "english": "one hundred eighty-seven years",
+     "literal": "'seven and-eighty year and-hundred year': the Hebrew gives units, tens, then hundreds"
+    },
+    {
+     "tokens": [
+      "5:25.8"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-he-begot'"
+    },
+    {
+     "tokens": [
+      "5:25.9"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "5:25.10"
+     ],
+     "english": "Lamech",
+     "literal": "proper name"
+    }
+   ],
+   "grammar": [
+    "The age is given units first: 'seven and eighty year and hundred year'; English reverses it to 'one hundred eighty-seven'.",
+    "וַיְחִי and וַיּוֹלֶד are wayyiqtols: the narrative chain of the genealogy.",
+    "The tevir on וּשְׁמֹנִים and tipḥa on שָׁנָה mark off the units and tens; the etnaḥta on the second שָׁנָה ends the first half of the verse."
+   ],
+   "note": "Fixed genealogical formula; the 'year' is repeated after the tens and after the hundreds.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:25:1",
+     "relation": "follows",
+     "summary": "Onkelos renders the verse closely: Methuselah lived one hundred eighty-seven years and begot Lamech; he reverses the order of the numbers as the English does."
+    }
+   ]
+  },
+  {
+   "ref": "5:26",
+   "english": "Methuselah lived, after he fathered Lamech, seven hundred eighty-two years, and he fathered sons and daughters.",
+   "literal": "and-lived Methuselah after fathering-him [object-marker] Lamech two and-eighty year and-seven hundreds year and-he-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "5:26.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה"
+    },
+    {
+     "id": "5:26.2",
+     "gloss": "Methuselah"
+    },
+    {
+     "id": "5:26.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "5:26.4",
+     "gloss": "his fathering",
+     "note": "Hifil infinitive construct with 3rd masculine singular suffix: 'his begetting'"
+    },
+    {
+     "id": "5:26.5",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:26.6",
+     "gloss": "Lamech"
+    },
+    {
+     "id": "5:26.7",
+     "gloss": "two",
+     "note": "feminine of שְׁנַיִם (dual in form, absolute state), agreeing with the feminine שָׁנָה; the construct would be שְׁתֵּי"
+    },
+    {
+     "id": "5:26.8",
+     "gloss": "and eighty"
+    },
+    {
+     "id": "5:26.9",
+     "gloss": "year"
+    },
+    {
+     "id": "5:26.10",
+     "gloss": "and seven"
+    },
+    {
+     "id": "5:26.11",
+     "gloss": "hundreds"
+    },
+    {
+     "id": "5:26.12",
+     "gloss": "year"
+    },
+    {
+     "id": "5:26.13",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol of ילד"
+    },
+    {
+     "id": "5:26.14",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "5:26.15",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:26.1",
+      "5:26.2"
+     ],
+     "english": "Methuselah lived",
+     "literal": "'and-lived Methuselah'"
+    },
+    {
+     "tokens": [
+      "5:26.3",
+      "5:26.4",
+      "5:26.5",
+      "5:26.6"
+     ],
+     "english": "after he fathered Lamech",
+     "literal": "'after fathering-him Lamech': infinitive construct with suffix is a temporal clause"
+    },
+    {
+     "tokens": [
+      "5:26.7",
+      "5:26.8",
+      "5:26.9",
+      "5:26.10",
+      "5:26.11",
+      "5:26.12"
+     ],
+     "english": "seven hundred eighty-two years",
+     "literal": "'two and-eighty year and-seven hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:26.13"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-he-begot'"
+    },
+    {
+     "tokens": [
+      "5:26.14",
+      "5:26.15"
+     ],
+     "english": "sons and daughters",
+     "literal": "'sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "אַחֲרֵי הוֹלִידוֹ is a preposition plus infinitive construct with suffix: 'after his begetting', rendered as a clause.",
+    "The accents (pashta on אַחֲרֵי, zaqef on לֶמֶךְ) set the 'after' clause apart before the number of years.",
+    "שְׁתַּיִם is the feminine form of 'two' before the feminine שָׁנָה.",
+    "בָּנִים וּבָנוֹת is a merism: all further children, unnamed."
+   ],
+   "note": "Here the number is 'two and eighty' then 'seven hundreds'.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:26:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'after he begot Lamech seven hundred eighty-two years and begot sons and daughters', matching the English."
+    }
+   ]
+  },
+  {
+   "ref": "5:27",
+   "english": "All the days of Methuselah were nine hundred sixty-nine years, and he died.",
+   "literal": "and-were all-of days-of Methuselah nine and-sixty year and-nine hundreds year and-he-died",
+   "tokens": [
+    {
+     "id": "5:27.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol plural of היה"
+    },
+    {
+     "id": "5:27.2",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "5:27.3",
+     "gloss": "days of",
+     "sense": "1",
+     "note": "construct plural of יוֹם"
+    },
+    {
+     "id": "5:27.4",
+     "gloss": "Methuselah"
+    },
+    {
+     "id": "5:27.5",
+     "gloss": "nine"
+    },
+    {
+     "id": "5:27.6",
+     "gloss": "and sixty"
+    },
+    {
+     "id": "5:27.7",
+     "gloss": "year"
+    },
+    {
+     "id": "5:27.8",
+     "gloss": "and nine"
+    },
+    {
+     "id": "5:27.9",
+     "gloss": "hundreds"
+    },
+    {
+     "id": "5:27.10",
+     "gloss": "year"
+    },
+    {
+     "id": "5:27.11",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of the hollow root מות, in the short form; וַיָּמֹת is the pausal form under silluq (out of pause וַיָּמָת)"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:27.1",
+      "5:27.2",
+      "5:27.3",
+      "5:27.4"
+     ],
+     "english": "All the days of Methuselah were",
+     "literal": "'and-were all-of days-of Methuselah': a chain of constructs"
+    },
+    {
+     "tokens": [
+      "5:27.5",
+      "5:27.6",
+      "5:27.7",
+      "5:27.8",
+      "5:27.9",
+      "5:27.10"
+     ],
+     "english": "nine hundred sixty-nine years",
+     "literal": "'nine and-sixty year and-nine hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:27.11"
+     ],
+     "english": "and he died",
+     "literal": "'and-he-died'"
+    }
+   ],
+   "grammar": [
+    "כָּל־יְמֵי מְתוּשֶׁלַח is a construct chain: 'all the days of Methuselah'.",
+    "The verb וַיִּהְיוּ is plural although the sum of years is one figure: it agrees with 'days'.",
+    "וַיָּמֹת closes the entry with the formula of death; the silluq ends the verse and the ס marks a paragraph break."
+   ],
+   "note": "The total is the sum of 187 + 782 = 969 years.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:27:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'all the days of Methuselah were nine hundred sixty-nine years, and he died', the same as the English."
+    }
+   ]
+  },
+  {
+   "ref": "5:28",
+   "english": "Lamech lived one hundred eighty-two years, and he fathered a son.",
+   "literal": "and-lived-Lamech two and-eighty year and-hundred-of year and-he-fathered son",
+   "tokens": [
+    {
+     "id": "5:28.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה; joined by maqqef to the subject"
+    },
+    {
+     "id": "5:28.2",
+     "gloss": "Lamech"
+    },
+    {
+     "id": "5:28.3",
+     "gloss": "two"
+    },
+    {
+     "id": "5:28.4",
+     "gloss": "and eighty"
+    },
+    {
+     "id": "5:28.5",
+     "gloss": "year"
+    },
+    {
+     "id": "5:28.6",
+     "gloss": "and hundred of",
+     "note": "construct state of מֵאָה"
+    },
+    {
+     "id": "5:28.7",
+     "gloss": "year"
+    },
+    {
+     "id": "5:28.8",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol of ילד"
+    },
+    {
+     "id": "5:28.9",
+     "gloss": "a son",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:28.1",
+      "5:28.2"
+     ],
+     "english": "Lamech lived",
+     "literal": "'and-lived Lamech'"
+    },
+    {
+     "tokens": [
+      "5:28.3",
+      "5:28.4",
+      "5:28.5",
+      "5:28.6",
+      "5:28.7"
+     ],
+     "english": "one hundred eighty-two years",
+     "literal": "'two and-eighty year and-hundred year'"
+    },
+    {
+     "tokens": [
+      "5:28.8"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-he-begot'"
+    },
+    {
+     "tokens": [
+      "5:28.9"
+     ],
+     "english": "a son",
+     "literal": "'son', indefinite"
+    }
+   ],
+   "grammar": [
+    "The pattern repeats from verse 25, with 'two' in place of 'seven'.",
+    "The zaqef gadol on לֶמֶךְ separates the subject from the figures.",
+    "בֵּן is indefinite: the unnamed son is named in the next verse."
+   ],
+   "note": "Rashi's midrashic remark on 'a son' is a homily, not a reading of the words.",
+   "commentary": [
+    {
+     "anchor": "rashi:5:28:1",
+     "relation": "not-applicable",
+     "summary": "Rashi, from Bereshit Rabbah: שֶׁמִּמֶּנּוּ נִבְנָה הָעוֹלָם, 'from him the world was built', a play on בֵּן and בנה. It is a homily and does not alter the plain sense."
+    },
+    {
+     "anchor": "onkelos:5:28:1",
+     "relation": "follows",
+     "summary": "Onkelos: Lamech lived one hundred eighty-two years and begot a son, as in the English."
+    }
+   ]
+  },
+  {
+   "ref": "5:29",
+   "english": "He named him Noah, saying, \"This one will bring us relief from our work and from the toil of our hands, from the ground that the LORD has cursed.\"",
+   "literal": "and-he-called [object-marker] name-his Noah saying this he-will-comfort-us from-work-our and-from-toil-of hands-our from-the-ground which cursed-it the-LORD",
+   "tokens": [
+    {
+     "id": "5:29.1",
+     "gloss": "and he called",
+     "sense": "Qal 6",
+     "note": "wayyiqtol of קרא; with 'name' it means 'to name'"
+    },
+    {
+     "id": "5:29.2",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:29.3",
+     "gloss": "his name",
+     "sense": "3",
+     "note": "construct with 3rd masculine suffix"
+    },
+    {
+     "id": "5:29.4",
+     "gloss": "Noah ('rest')",
+     "note": "נֹחַ; the explanation of the name is in the quoted words (root נוח 'rest', and נחם 'comfort')"
+    },
+    {
+     "id": "5:29.5",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "לֵאמֹר, preposition ל with infinitive construct: introduces speech"
+    },
+    {
+     "id": "5:29.6",
+     "gloss": "this one"
+    },
+    {
+     "id": "5:29.7",
+     "gloss": "he will bring relief to us",
+     "sense": "Piel",
+     "note": "Piel imperfect with 1st plural suffix; Piel of נחם: 'comfort', here 'give relief'"
+    },
+    {
+     "id": "5:29.8",
+     "gloss": "from our work",
+     "note": "preposition מן + מַעֲשֶׂה + suffix 'our'"
+    },
+    {
+     "id": "5:29.9",
+     "gloss": "and from the toil of",
+     "note": "construct of עִצָּבוֹן"
+    },
+    {
+     "id": "5:29.10",
+     "gloss": "our hands",
+     "sense": "1",
+     "note": "dual construct with suffix"
+    },
+    {
+     "id": "5:29.11",
+     "gloss": "from",
+     "sense": "1.a"
+    },
+    {
+     "id": "5:29.12",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "5:29.13",
+     "gloss": "that"
+    },
+    {
+     "id": "5:29.14",
+     "gloss": "he cursed it",
+     "sense": "Pi",
+     "note": "Piel perfect with 3rd feminine singular suffix"
+    },
+    {
+     "id": "5:29.15",
+     "gloss": "the LORD",
+     "note": "written יְהֹוָה"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:29.1",
+      "5:29.2",
+      "5:29.3",
+      "5:29.4"
+     ],
+     "english": "He named him Noah",
+     "literal": "'and-he-called his-name Noah'"
+    },
+    {
+     "tokens": [
+      "5:29.5"
+     ],
+     "english": "saying",
+     "literal": "'to-say': introduces the quotation"
+    },
+    {
+     "tokens": [
+      "5:29.6",
+      "5:29.7"
+     ],
+     "english": "This one will bring us relief",
+     "literal": "'this he-will-comfort-us': נחם 'comfort' taken in the sense of rest and relief following Rashi and Ibn Ezra"
+    },
+    {
+     "tokens": [
+      "5:29.8",
+      "5:29.9",
+      "5:29.10"
+     ],
+     "english": "from our work and from the toil of our hands",
+     "literal": "'from-our-work and-from-toil-of our-hands'"
+    },
+    {
+     "tokens": [
+      "5:29.11",
+      "5:29.12"
+     ],
+     "english": "from the ground",
+     "literal": "'from the-ground'"
+    },
+    {
+     "tokens": [
+      "5:29.13",
+      "5:29.14",
+      "5:29.15"
+     ],
+     "english": "that the LORD has cursed",
+     "literal": "'which cursed-it the-LORD'"
+    }
+   ],
+   "grammar": [
+    "The name נֹחַ is explained by wordplay with יְנַחֲמֵנוּ: the sounds נ-ח (root נוח 'rest', root נחם 'comfort') are close but not identical.",
+    "יְנַחֲמֵנוּ is Piel imperfect with the 1st plural suffix: 'he will comfort us'.",
+    "The gershayim and telisha gedola on זֶה mark a rare accent and give it weight at the opening of the quotation.",
+    "אֵרְרָהּ is a Piel perfect with a feminine suffix referring to הָאֲדָמָה; the antecedent is the ground, cursed in 3:17.",
+    "'The LORD' stands last in the verse, after the verb, with the silluq."
+   ],
+   "note": "The saying explains the name; the pun is only approximate. The English 'bring us relief' follows Rashi (יָנַח מִמֶּנּוּ, 'he will ease from us') and Ibn Ezra ('this one will comfort us, and we will rest from the toil of our hands'; נֶחָמָה is rest from grief), who both read the word through נוח; the usual Piel sense 'comfort' (BDB) is kept in the literal line and the grammar notes. The meaning of the name is kept out of the English line.",
+   "commentary": [
+    {
+     "anchor": "rashi:5:29:1",
+     "relation": "follows",
+     "summary": "Rashi: זֶה יְנַחֲמֵנוּ means יָנַח מִמֶּנּוּ אֶת עִצְּבוֹן יָדֵינוּ, 'he will ease from us the toil of our hands'. Before Noah they had no ploughing tools and he made them; the ground, under the first Adam's curse, put out thorns and thistles when wheat was sown, and in Noah's days it rested. Read otherwise, the sense does not fit the name, and he would have had to be called מְנַחֵם."
+    },
+    {
+     "anchor": "ibn-ezra:5:29:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Lamech knew through Adam, being a prophet, or saw by wisdom, that through this child the ground would revive; and so it was, for through him the world endured, and he was a man of the ground. Or he was named Noah afterwards, as Jerubbaal was, once he had worked the ground and it prospered. The sense is 'this one will comfort us, and we will rest (וְנָנוּחַ) from the toil of our hands'; comfort is rest from grief of heart (עִצְּבוֹן הַלֵּב), for Hebrew keeps the sense and not the exact word, as יְרֻבַּעַל and יְרֻבֶּשֶׁת show."
+    },
+    {
+     "anchor": "radak:5:29:3",
+     "relation": "follows",
+     "summary": "Radak: מִמַּעֲשֵׂנוּ means work of the ground, as in 'from his work from the field' (Judges 19:16)."
+    },
+    {
+     "anchor": "sforno:5:29:1",
+     "relation": "records",
+     "summary": "Sforno: Lamech prayed that this child would comfort them by bringing them rest from their work, for the name נֹחַ means rest, as in וְנוֹחַ מֵאֹיְבֵיהֶם (Esther 9:16). The English takes the sense of rest but not the reading as a prayer; it is kept as a real alternative, as with Radak."
+    },
+    {
+     "anchor": "radak:5:29:6",
+     "relation": "records",
+     "summary": "Radak: Lamech did not speak by prophecy but gave the name as a sign, in blessing and prayer, as Rachel named Joseph; the English leaves it open as a statement of hope."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders the verb with 'comfort' (יְנַחֲמִנָּנָא), מִמַּעֲשֵׂנוּ with מֵעוֹבָדָנָא 'from our work', and עִצְּבוֹן יָדֵינוּ with מִלֵּאוּת יְדָנָא 'from the weariness of our hands'."
+   ]
+  },
+  {
+   "ref": "5:30",
+   "english": "Lamech lived, after he fathered Noah, five hundred ninety-five years, and he fathered sons and daughters.",
+   "literal": "and-lived-Lamech after fathering-him [object-marker] Noah five and-ninety year and-five hundreds year and-he-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "5:30.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה"
+    },
+    {
+     "id": "5:30.2",
+     "gloss": "Lamech"
+    },
+    {
+     "id": "5:30.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "5:30.4",
+     "gloss": "his fathering",
+     "note": "Hifil infinitive construct with suffix"
+    },
+    {
+     "id": "5:30.5",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:30.6",
+     "gloss": "Noah"
+    },
+    {
+     "id": "5:30.7",
+     "gloss": "five"
+    },
+    {
+     "id": "5:30.8",
+     "gloss": "and ninety"
+    },
+    {
+     "id": "5:30.9",
+     "gloss": "year"
+    },
+    {
+     "id": "5:30.10",
+     "gloss": "and five"
+    },
+    {
+     "id": "5:30.11",
+     "gloss": "hundreds"
+    },
+    {
+     "id": "5:30.12",
+     "gloss": "year"
+    },
+    {
+     "id": "5:30.13",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol of ילד"
+    },
+    {
+     "id": "5:30.14",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "5:30.15",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:30.1",
+      "5:30.2"
+     ],
+     "english": "Lamech lived",
+     "literal": "'and-lived Lamech'"
+    },
+    {
+     "tokens": [
+      "5:30.3",
+      "5:30.4",
+      "5:30.5",
+      "5:30.6"
+     ],
+     "english": "after he fathered Noah",
+     "literal": "'after fathering-him Noah'"
+    },
+    {
+     "tokens": [
+      "5:30.7",
+      "5:30.8",
+      "5:30.9",
+      "5:30.10",
+      "5:30.11",
+      "5:30.12"
+     ],
+     "english": "five hundred ninety-five years",
+     "literal": "'five and-ninety year and-five hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:30.13"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-he-begot'"
+    },
+    {
+     "tokens": [
+      "5:30.14",
+      "5:30.15"
+     ],
+     "english": "sons and daughters",
+     "literal": "'sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "The structure is the same as verse 26, with Noah in place of Lamech.",
+    "חָמֵשׁ is the feminine form of 'five' with שָׁנָה; מֵאֹת is the plural of מֵאָה spelled defectively, without the vav (elsewhere מֵאוֹת); the vowel is the same ḥolem.",
+    "The munaḥ on הוֹלִידוֹ joins it to אֶת־נֹחַ, and the zaqef qaton on נֹחַ closes the temporal clause before the number of years.",
+    "The revia on לֶמֶךְ marks the subject before the temporal clause."
+   ],
+   "commentary": [
+    {
+     "anchor": "onkelos:5:30:1",
+     "relation": "follows",
+     "summary": "Onkelos: Lamech lived after he begot Noah five hundred ninety-five years and begot sons and daughters."
+    }
+   ]
+  },
+  {
+   "ref": "5:31",
+   "english": "All the days of Lamech were seven hundred seventy-seven years, and he died.",
+   "literal": "and-were all-of days-of Lamech seven and-seventy year and-seven hundreds year and-he-died",
+   "tokens": [
+    {
+     "id": "5:31.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol of היה"
+    },
+    {
+     "id": "5:31.2",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "5:31.3",
+     "gloss": "days of",
+     "sense": "1"
+    },
+    {
+     "id": "5:31.4",
+     "gloss": "Lamech"
+    },
+    {
+     "id": "5:31.5",
+     "gloss": "seven"
+    },
+    {
+     "id": "5:31.6",
+     "gloss": "and seventy"
+    },
+    {
+     "id": "5:31.7",
+     "gloss": "year"
+    },
+    {
+     "id": "5:31.8",
+     "gloss": "and seven"
+    },
+    {
+     "id": "5:31.9",
+     "gloss": "hundreds"
+    },
+    {
+     "id": "5:31.10",
+     "gloss": "year"
+    },
+    {
+     "id": "5:31.11",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of מות"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:31.1",
+      "5:31.2",
+      "5:31.3",
+      "5:31.4"
+     ],
+     "english": "All the days of Lamech were",
+     "literal": "'and-were all-of days-of Lamech'"
+    },
+    {
+     "tokens": [
+      "5:31.5",
+      "5:31.6",
+      "5:31.7",
+      "5:31.8",
+      "5:31.9",
+      "5:31.10"
+     ],
+     "english": "seven hundred seventy-seven years",
+     "literal": "'seven and-seventy year and-seven hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:31.11"
+     ],
+     "english": "and he died",
+     "literal": "'and-he-died'"
+    }
+   ],
+   "grammar": [
+    "The verse repeats the formula of 5:27 for Lamech.",
+    "The singular verb וַיְהִי (here) agrees with the sum as a whole, unlike the plural וַיִּהְיוּ in 5:27.",
+    "The total is 595 + 182 = 777 years.",
+    "The ס after the verse marks a paragraph break."
+   ],
+   "commentary": [
+    {
+     "anchor": "onkelos:5:31:1",
+     "relation": "follows",
+     "summary": "Onkelos: all the days of Lamech were seven hundred seventy-seven years, and he died."
+    }
+   ]
+  }
+ ]
+}

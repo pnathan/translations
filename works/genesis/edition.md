@@ -2,8 +2,6 @@
 
 Translated from the Hebrew (MAM) by a model pipeline; every unit reviewed. Provenance at the end.
 
-Units without a reviewed translation: bereshit-05, bereshit-06, bereshit-07, bereshit-08, bereshit-09, bereshit-10, bereshit-11, bereshit-12, bereshit-13, bereshit-14, bereshit-15, bereshit-16, bereshit-18, bereshit-19, bereshit-20, bereshit-21, bereshit-22.
-
 ## Bereshit — בְּרֵאשִׁית (Genesis 1:1–6:8)
 
 ### Reading text
@@ -18,9 +16,43 @@ Units without a reviewed translation: bereshit-05, bereshit-06, bereshit-07, ber
 
 <sup>1:20</sup> And God said, "Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the sky." <sup>1:21</sup> And God created the great sea creatures and every living creature that moves, with which the waters swarmed, according to their kinds, and every winged bird according to its kind. And God saw that it was good. <sup>1:22</sup> And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, and let the birds multiply on the land." <sup>1:23</sup> And there was evening and there was morning, a fifth day.
 
+<sup>1:24</sup> God said, "Let the earth bring forth living creatures, each according to its kind: livestock and crawling things and the wild animals of the earth, each according to its kind." And so it was. <sup>1:25</sup> God made the wild animals of the earth, each according to its kind, and the livestock according to its kind, and every crawling thing of the ground according to its kind. And God saw that it was good. <sup>1:26</sup> God said, "Let us make humankind in our image, after our likeness, and let them rule over the fish of the sea and the birds of the sky and the livestock and all the earth and every crawling thing that crawls on the earth." <sup>1:27</sup> God created the human in his image; in the image of God he created him; male and female he created them. <sup>1:28</sup> God blessed them, and God said to them, "Be fruitful and multiply and fill the earth and subdue it, and rule over the fish of the sea and the birds of the sky and every living thing that crawls on the earth." <sup>1:29</sup> God said, "See, I have given you every plant bearing seed that is on the surface of the whole earth, and every tree that has in it fruit of a tree bearing seed. It shall be yours for food." <sup>1:30</sup> And to every wild animal of the earth and to every bird of the sky and to everything that crawls on the earth, in which there is a living soul, I have given every green plant for food. And so it was. <sup>1:31</sup> God saw everything that he had made, and indeed it was very good. And there was evening and there was morning, the sixth day.
+
+<sup>2:1</sup> So the heavens and the earth were completed, and all their host. <sup>2:2</sup> On the seventh day God finished his work that he had made, and on the seventh day he rested from all his work that he had made. <sup>2:3</sup> God blessed the seventh day and made it holy, because on it he rested from all his work that God created in order to make.
+
+<sup>2:4</sup> These are the generations of the heavens and the earth when they were created, on the day the LORD God made earth and heavens. <sup>2:5</sup> No tree of the field was yet on the earth, and no plant of the field had yet sprung up, for the LORD God had not sent rain on the earth, and there was no human to work the ground. <sup>2:6</sup> But a mist rose from the earth and watered the whole surface of the ground. <sup>2:7</sup> Then the LORD God formed the human out of dust from the ground, and blew into his nostrils the breath of life, and the human became a living being. <sup>2:8</sup> The LORD God planted a garden in Eden, in the east, and put there the human whom he had formed. <sup>2:9</sup> The LORD God made grow from the ground every tree desirable to look at and good for food, and the tree of life in the middle of the garden, and the tree of the knowledge of good and evil. <sup>2:10</sup> A river flows out of Eden to water the garden, and from there it divides and becomes four headwaters. <sup>2:11</sup> The name of the first is Pishon; it is the one that encircles the whole land of Havilah, where the gold is. <sup>2:12</sup> The gold of that land is good; bdellium is there, and onyx stone. <sup>2:13</sup> The name of the second river is Gihon; it is the one that encircles the whole land of Cush. <sup>2:14</sup> The name of the third river is the Tigris; it is the one that flows east of Assyria. And the fourth river is the Euphrates. <sup>2:15</sup> The LORD God took the human and set him in the garden of Eden to work it and guard it. <sup>2:16</sup> The LORD God commanded the human, saying: "You may eat freely from every tree of the garden. <sup>2:17</sup> But from the tree of the knowledge of good and evil you must not eat from it, for on the day you eat from it you will surely die. <sup>2:18</sup> The LORD God said, "It is not good for the human to be alone; I will make for him a helper corresponding to him." <sup>2:19</sup> The LORD God formed from the ground every animal of the field and every bird of the sky, and brought them to the human to see what he would call it. Whatever the human called each living creature, that was its name. <sup>2:20</sup> The human gave names to all the livestock and the birds of the sky, and to every animal of the field; but for himself the human did not find a helper corresponding to him. <sup>2:21</sup> Then the LORD God cast a deep sleep upon the human, and he slept; and he took one of his sides and closed up flesh in its place. <sup>2:22</sup> The LORD God built the side that he had taken from the human into a woman, and brought her to the human. <sup>2:23</sup> Then the human said, "This one, this time, is bone of my bones and flesh of my flesh. This one shall be called woman, for from man this one was taken." <sup>2:24</sup> Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh. <sup>2:25</sup> The two of them were naked, the human and his wife, and they were not ashamed. <sup>3:1</sup> Now the serpent was shrewder than every wild animal that the LORD God had made. It said to the woman, “Is it really so that God said, ‘You must not eat from any tree of the garden’?” <sup>3:2</sup> The woman said to the serpent, “We may eat from the fruit of the trees of the garden.” <sup>3:3</sup> As for the fruit of the tree in the middle of the garden, God said, “You must not eat from it, and you must not touch it, or you might die.” <sup>3:4</sup> The serpent said to the woman, “You will certainly not die.” <sup>3:5</sup> For God knows that on the day you eat from it your eyes will be opened, and you will be like divine beings, knowing good and evil. <sup>3:6</sup> The woman saw that the tree was good for eating, and that it was a delight to the eyes, and that the tree was desirable for gaining insight. She took some of its fruit and ate, and she also gave some to her husband with her, and he ate. <sup>3:7</sup> Then the eyes of the two of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loincloths. <sup>3:8</sup> They heard the sound of the LORD God walking about in the garden at the breeze of the day, and the human and his wife hid from the LORD God among the trees of the garden. <sup>3:9</sup> The LORD God called to the human and said to him, "Where are you?" <sup>3:10</sup> He said, "I heard your sound in the garden, and I was afraid because I am naked, and I hid." <sup>3:11</sup> He said, "Who told you that you are naked? Have you eaten from the tree that I commanded you not to eat from?" <sup>3:12</sup> The human said, "The woman whom you put with me, she gave me from the tree, and I ate." <sup>3:13</sup> The LORD God said to the woman, "What is this you have done?" The woman said, "The serpent deceived me, and I ate." <sup>3:14</sup> The LORD God said to the serpent, "Because you have done this, cursed are you more than all the livestock and more than all the wild animals of the field. On your belly you shall go, and dust you shall eat all the days of your life." <sup>3:15</sup> I will put enmity between you and the woman, and between your offspring and her offspring. He will strike you on the head, and you will strike him on the heel.
+
+<sup>3:16</sup> To the woman he said, “I will greatly multiply your pain and your pregnancy; in pain you will bear children. Your desire is for your husband, and he will rule over you.”
+
+<sup>3:17</sup> And to Adam he said, “Because you listened to the voice of your wife and ate from the tree about which I commanded you, saying, ‘You will not eat from it,’ cursed is the ground because of you; in toil you will eat of it all the days of your life. <sup>3:18</sup> It will sprout thorns and thistles for you, and you will eat the plants of the field. <sup>3:19</sup> By the sweat of your face you will eat bread until you return to the ground, for from it you were taken; for you are dust, and to dust you will return. <sup>3:20</sup> The human called his wife's name Eve, because she was the mother of all the living. <sup>3:21</sup> The LORD God made tunics of skin for Adam and for his wife, and clothed them.
+
+<sup>3:22</sup> The LORD God said, "Look, the human has become like one of us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever." <sup>3:23</sup> So the LORD God expelled him from the garden of Eden to work the ground from which he was taken. <sup>3:24</sup> He drove out the human, and east of the garden of Eden he stationed the cherubim and the flame of the turning sword, to guard the way to the tree of life.
+
+<sup>4:1</sup> Now the human had known Eve his wife, and she had conceived and borne Cain, and she said, "I have acquired a man with the LORD." <sup>4:2</sup> She went on to bear his brother, Abel. Abel was a herder of flocks, and Cain was a worker of the ground. <sup>4:3</sup> At the end of a year, Cain brought an offering of the fruit of the ground to the LORD. <sup>4:4</sup> And Abel brought, he too, some of the firstlings of his flock and of their fat portions. And the LORD turned to Abel and to his offering, <sup>4:5</sup> but to Cain and to his offering he did not turn. And Cain was very angry, and his face fell. <sup>4:6</sup> The LORD said to Cain, "Why are you angry, and why has your face fallen?" <sup>4:7</sup> Is it not so that if you do well, there is forgiveness, and if you do not do well, at the door sin crouches? Its desire is for you, but you can rule over it. <sup>4:8</sup> Cain spoke to Abel his brother. And when they were in the field, Cain rose up against Abel his brother and killed him. <sup>4:9</sup> The LORD said to Cain, "Where is Abel your brother?" He said, "I do not know. Am I my brother's keeper?" <sup>4:10</sup> He said, "What have you done? Listen: the blood of your brother is crying out to me from the ground." <sup>4:11</sup> And now you are cursed from the ground, which opened its mouth to take your brother's blood from your hand. <sup>4:12</sup> When you work the ground, it will no longer give you its strength. You shall be a restless wanderer on the earth. <sup>4:13</sup> Cain said to the LORD, "My punishment is too great to bear." <sup>4:14</sup> Look, you have driven me out today from the face of the ground, and from your presence I will be hidden. I will be restless and wandering on the earth, and whoever finds me will kill me. <sup>4:15</sup> Then the LORD said to him, "Therefore, whoever kills Cain—! After seven generations vengeance will be taken." And the LORD set a sign for Cain, so that no one who found him would strike him down. <sup>4:16</sup> Then Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden. <sup>4:17</sup> Cain knew his wife, and she conceived and bore Enoch. He was building a city, and he named the city after his son Enoch. <sup>4:18</sup> To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech. <sup>4:19</sup> Lamech took for himself two wives: the name of the first was Adah, and the name of the second Zillah. <sup>4:20</sup> Adah bore Jabal; he was the first of those who live in tents and have livestock. <sup>4:21</sup> His brother's name was Jubal; he was the first of all who handle the lyre and the pipe. <sup>4:22</sup> Zillah too bore Tubal-cain, who sharpened every tool of the craft in bronze and iron; and Tubal-cain's sister was Naamah. <sup>4:23</sup> Lamech said to his wives, "Adah and Zillah, hear my voice; wives of Lamech, listen to my speech: have I killed a man by my wounding, a boy by my bruising?" <sup>4:24</sup> For if vengeance is taken on Cain sevenfold, then on Lamech seventy-seven. <sup>4:25</sup> Adam was intimate once more with his wife, and she bore a son and named him Seth, "for God has appointed me another offspring in place of Abel, because Cain killed him." <sup>4:26</sup> To Seth, too, a son was born, and he named him Enosh. Then people began to call on the name of the LORD.
+
+<sup>5:1</sup> This is the record of the descendants of Adam. When God created Adam, he made him in the likeness of God. <sup>5:2</sup> Male and female he created them, and he blessed them and called their name Adam, on the day they were created.
+
+<sup>5:3</sup> Adam lived one hundred thirty years, and he fathered a son in his likeness, according to his image, and named him Seth. <sup>5:4</sup> The days of Adam after he fathered Seth were eight hundred years, and he fathered sons and daughters. <sup>5:5</sup> So all the days of Adam that he lived were nine hundred thirty years, and he died.
+
 <sup>5:6</sup> Seth lived one hundred and five years, and he fathered Enosh. <sup>5:7</sup> After he fathered Enosh, Seth lived eight hundred and seven years, and he fathered sons and daughters. <sup>5:8</sup> All the days of Seth were nine hundred and twelve years, and he died.
 
 <sup>5:9</sup> Enosh lived ninety years, and he fathered Kenan. <sup>5:10</sup> After he fathered Kenan, Enosh lived eight hundred and fifteen years, and he fathered sons and daughters. <sup>5:11</sup> All the days of Enosh were nine hundred and five years, and he died.
+
+<sup>5:12</sup> Kenan lived seventy years, and he fathered Mahalalel. <sup>5:13</sup> After he fathered Mahalalel, Kenan lived eight hundred and forty years, and he fathered sons and daughters. <sup>5:14</sup> All the days of Kenan were nine hundred and ten years, and he died.
+
+<sup>5:15</sup> Mahalalel lived sixty-five years, and he fathered Jared. <sup>5:16</sup> After he fathered Jared, Mahalalel lived eight hundred and thirty years, and he fathered sons and daughters. <sup>5:17</sup> All the days of Mahalalel were eight hundred and ninety-five years, and he died.
+
+<sup>5:18</sup> Jared lived one hundred and sixty-two years, and fathered Enoch. <sup>5:19</sup> Jared lived, after he fathered Enoch, for eight hundred years, and he fathered sons and daughters. <sup>5:20</sup> All the days of Jared were nine hundred and sixty-two years, and he died.
+
+<sup>5:21</sup> Enoch lived sixty-five years, and fathered Methuselah. <sup>5:22</sup> Enoch walked with God, after he fathered Methuselah, for three hundred years, and he fathered sons and daughters. <sup>5:23</sup> All the days of Enoch were three hundred and sixty-five years. <sup>5:24</sup> Enoch walked with God, and he was no more, for God took him.
+
+<sup>5:25</sup> Methuselah lived one hundred eighty-seven years, and he fathered Lamech. <sup>5:26</sup> Methuselah lived, after he fathered Lamech, seven hundred eighty-two years, and he fathered sons and daughters. <sup>5:27</sup> All the days of Methuselah were nine hundred sixty-nine years, and he died.
+
+<sup>5:28</sup> Lamech lived one hundred eighty-two years, and he fathered a son. <sup>5:29</sup> He named him Noah, saying, "This one will bring us relief from our work and from the toil of our hands, from the ground that the LORD has cursed." <sup>5:30</sup> Lamech lived, after he fathered Noah, five hundred ninety-five years, and he fathered sons and daughters. <sup>5:31</sup> All the days of Lamech were seven hundred seventy-seven years, and he died.
+
+<sup>5:32</sup> When Noah was five hundred years old, Noah fathered Shem, Ham, and Japheth. <sup>6:1</sup> When humankind began to multiply over the surface of the ground and daughters were born to them, <sup>6:2</sup> The sons of the rulers saw that the daughters of humankind were beautiful, and they took wives for themselves from all whom they chose. <sup>6:3</sup> Then the LORD said, "My spirit will not contend over humankind for long, since they are also flesh; their days will be one hundred and twenty years." <sup>6:4</sup> The giants were on the earth in those days, and also afterward, whenever the sons of the rulers came to the daughters of humankind and they bore children to them. They were the warriors of old, the men of renown.
+
+<sup>6:5</sup> The LORD saw that the evil of the human was great on the earth, and every inclination of the thoughts of his heart was only evil all day long. <sup>6:6</sup> The LORD regretted that he had made the human on the earth, and was grieved in his heart. <sup>6:7</sup> The LORD said, "I will wipe out the human whom I created from the face of the ground, from human to beast, to creeping thing, and to the birds of the sky, for I regret that I made them." <sup>6:8</sup> But Noah found favor in the eyes of the LORD.
 
 ### Bereshit by verse
 
@@ -1014,529 +1046,4009 @@ Note: The phrase is rendered 'a fifth day' to keep the lack of the article.
 
 > וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־כֵֽן׃
 
-_Not yet translated._
+**God said, "Let the earth bring forth living creatures, each according to its kind: livestock and crawling things and the wild animals of the earth, each according to its kind." And so it was.**
+
+Literal: and-said God let-bring-forth the-earth creature-of living to-its-kind livestock and-crawler and-animal-of-earth to-its-kind and-was so
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֣אמֶר | and said — wayyiqtol: narrative past | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֱלֹהִ֗ים | God — plural form with singular sense; the verb is singular | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| תּוֹצֵ֨א | let bring forth — Hifil jussive, 3rd feminine singular, with the earth as subject: a command in the third person | יָצָא | יצא | verb (hifil, jussive, 3rd person, feminine, singular) | Hiph 5 |
+| הָאָ֜רֶץ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| נֶ֤פֶשׁ | creature of — נֶפֶשׁ is a living being; it stands in apposition to חַיָּה | נֶ֫פֶשׁ | נפשׁ | noun (common, both genders, singular, absolute) | 1 |
+| חַיָּה֙ | living — feminine, agreeing with נֶפֶשׁ | חַי | חיה | adjective (adjective, feminine, singular, absolute) | 1.c |
+| לְמִינָ֔הּ | to its kind — the suffix is feminine singular and looks back to נֶפֶשׁ חַיָּה | ל: to, for + מִין | מין | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| בְּהֵמָ֥ה | livestock — BDB lists only sense 3, wild beasts, which does not fit; Ibn Ezra takes בְּהֵמָה as the animals that live with people, so no listed sense is given | בְּהֵמָה | בהם | noun (common, feminine, singular, absolute) |  |
+| וָרֶ֛מֶשׂ | and crawling things — Rashi: low creatures that move along the ground; the pack's entry lists no senses | ו: and + רֶ֫מֶשׂ | רמשׂ | conjunction + noun (common, masculine, singular, absolute) |  |
+| וְחַֽיְתוֹ | and wild animal of — construct, with an old ending ־וֹ that is not a separate word | ו: and + חַיָּה | חיה | conjunction + noun (common, feminine, singular, construct) | 1.b |
+| אֶ֖רֶץ | earth | אֶ֫רֶץ | ארץ | noun (common, both genders, singular, absolute) | 1.a |
+| לְמִינָ֑הּ | to its kind — the second kind-formula closes the list | ל: to, for + מִין | מין | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| וַֽיְהִי | and it was — wayyiqtol of הָיָה; with כֵּן, the idiom 'and it was so' | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.1.b |
+| כֵֽן׃ | so — adverb | כֵּן |  | adverb |  |
+
+Grammar:
+
+- תּוֹצֵא is a Hifil jussive: the earth is addressed in the third person, 'let the earth cause to come out'.
+- The list has three kinds, בְּהֵמָה, רֶמֶשׂ and חַיְתוֹ־אֶרֶץ, joined by ו except for the first.
+- חַיְתוֹ is the construct of חַיָּה with an extra final ו; Ibn Ezra and Radak compare בְּנוֹ בְעֹר (Num 24:3).
+- The etnaḥta on the second לְמִינָהּ divides the command from וַיְהִי־כֵן.
+- The suffix of לְמִינָהּ is feminine singular, agreeing with נֶפֶשׁ: one 'living being' brought out kind by kind.
+
+Note: Rashi says the earth needed only to bring out what was created on the first day, so the English says 'bring forth', not 'create'. The three kinds follow Ibn Ezra and Rashi: livestock live with people; crawling things are small and low; wild animals live where no one settles. 'Each according to its kind' is repeated because the Hebrew repeats it.
+
+Commentary:
+
+- Rashi (follows): Rashi: as I explained, everything was created on the first day, and the earth only needed to bring them out. The English 'bring forth' renders the Hifil without 'create'.
+- Rashi (follows): Rashi: נֶפֶשׁ חַיָּה means that it has life. The English 'living creatures' keeps this.
+- Rashi (follows): Rashi: רֶמֶשׂ are swarmers, low creatures that creep on the earth and seem dragged along, since their going is not noticeable. The English 'crawling things' adopts this.
+- Ibn Ezra (not-applicable): Ibn Ezra: the clause is a general term for what fire, water and earth bring forth, the human included. It bears on the structure of the chapter, not on the English wording.
+- Ibn Ezra (follows): Ibn Ezra: בְּהֵמָה are those that are with people, for riding and eating. The English 'livestock' follows.
+- Ibn Ezra (follows): Ibn Ezra: רֶמֶשׂ are the small ones that go on the earth.
+- Ibn Ezra (follows): Ibn Ezra: wild animals are those in the open country where no one settles, and the last ו of וחיתו is an added letter, as in בנו בעור. The English 'wild animals of the earth' follows.
+- Ramban (records): Ramban: בְּהֵמָה are the grazing kinds, tame or wild. The English keeps Ibn Ezra's 'livestock'; Ramban's wider sense is recorded.
+
+Apparatus:
+
+- Ramban reads בְּהֵמָה as all grazers and חַיָּה as meat-eaters, tame or wild; the English takes Ibn Ezra's sense.
 
 #### Genesis 1:25
 
 > וַיַּ֣עַשׂ אֱלֹהִים֩ אֶת־חַיַּ֨ת הָאָ֜רֶץ לְמִינָ֗הּ וְאֶת־הַבְּהֵמָה֙ לְמִינָ֔הּ וְאֵ֛ת כׇּל־רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
 
-_Not yet translated._
+**God made the wild animals of the earth, each according to its kind, and the livestock according to its kind, and every crawling thing of the ground according to its kind. And God saw that it was good.**
+
+Literal: and-made God [object-mark] animal-of the-earth to-its-kind and-[object-mark] the-livestock to-its-kind and-[object-mark] all-of crawler-of the-ground to-its-kind and-saw God that-good
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיַּ֣עַשׂ | and made — wayyiqtol | ו: and + עָשָׂה | עשׂה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal II.1 |
+| אֱלֹהִים֩ | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| אֶת | (object marker) — marks the definite object | אֵת | אות | particle (direct object marker) |  |
+| חַיַּ֨ת | animal of — construct | חַיָּה | חיה | noun (common, feminine, singular, construct) | 1.b |
+| הָאָ֜רֶץ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| לְמִינָ֗הּ | to its kind — feminine suffix, agreeing with חַיָּה | ל: to, for + מִין | מין | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| וְאֶת | and (object marker) | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| הַבְּהֵמָה֙ | the livestock — BDB lists only sense 3, wild beasts, which does not fit; see 1:24.8 | ה: the + בְּהֵמָה | בהם | particle (definite article) + noun (common, feminine, singular, absolute) |  |
+| לְמִינָ֔הּ | to its kind — feminine suffix, agreeing with בְּהֵמָה | ל: to, for + מִין | מין | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| וְאֵ֛ת | and (object marker) | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| כׇּל | every — construct: 'all of' | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| רֶ֥מֶשׂ | crawling thing of — construct; the pack's entry lists no senses | רֶ֫מֶשׂ | רמשׂ | noun (common, masculine, singular, construct) |  |
+| הָֽאֲדָמָ֖ה | the ground — אֲדָמָה here, where 1:24 had אֶרֶץ | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| לְמִינֵ֑הוּ | to its kind — the suffix is masculine here (־הוּ), agreeing with the masculine רֶמֶשׂ | ל: to, for + מִין | מין | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| וַיַּ֥רְא | and saw — wayyiqtol | ו: and + רָאָה | ראה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1.a |
+| אֱלֹהִ֖ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| כִּי | that — כִּי introducing what God saw | כִּי |  | conjunction | 1 |
+| טֽוֹב׃ | good — predicate; Hebrew has no verb | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 3 |
+
+Grammar:
+
+- Each of the three objects is introduced by אֵת and followed by לְמִינָהּ (לְמִינֵהוּ for the masculine רֶמֶשׂ).
+- Verse 24 asked the earth to 'bring forth'; this verse says וַיַּעַשׂ, 'and God made'. Radak explains why the making follows וַיְהִי־כֵן.
+- רֶמֶשׂ הָאֲדָמָה uses 'ground' where verse 24 used 'earth'.
+- כִּי־טוֹב has no verb; the English adds 'it was'.
+- The etnaḥta on לְמִינֵהוּ divides the making from the verdict.
+
+Note: Rashi takes וַיַּעַשׂ as 'he set them right in their beauty and stature'; the English keeps the plain 'made', which allows that sense.
+
+Commentary:
+
+- Rashi (follows): Rashi: וַיַּעַשׂ means he fixed them in their beauty and in their stature. The English keeps 'made' and takes it as God fitting each kind, not only producing it.
 
 #### Genesis 1:26
 
 > וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכׇל־הָאָ֔רֶץ וּבְכׇל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃
 
-_Not yet translated._
+**God said, "Let us make humankind in our image, after our likeness, and let them rule over the fish of the sea and the birds of the sky and the livestock and all the earth and every crawling thing that crawls on the earth."**
+
+Literal: and-said God let-us-make human in-our-image like-our-likeness and-let-them-rule in-fish-of the-sea and-in-bird-of the-sky and-in-the-livestock and-in-all-of the-earth and-in-all-of the-crawler the-crawling on the-earth
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֣אמֶר | and said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֱלֹהִ֔ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| נַֽעֲשֶׂ֥ה | let us make — 1st person plural; see the note on the plural | עָשָׂה | עשׂה | verb (qal, imperfect (yiqtol), 1st person, common, plural) | Qal II.1 |
+| אָדָ֛ם | humankind — no article: 'a human', here a class; the plural 'them' follows | אָדָם | אדם | noun (common, masculine, singular, absolute) | 2 |
+| בְּצַלְמֵ֖נוּ | in our image — in-image-of-us. Rashi: בִּדְפוּס שֶׁלָּנוּ, 'in our mold'. | ב: in, with, by + צֶ֫לֶם | צלם | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, plural) | 2 |
+| כִּדְמוּתֵ֑נוּ | after our likeness — like-likeness-of-us; the prefix כ means 'like' | כ: like, as + דְּמוּת | דמה | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, plural) | 1 |
+| וְיִרְדּוּ֩ | and let them rule — jussive plural; Rashi hears here both רדה 'rule' and ירד 'go down' | ו: and + רָדָה | רדה | conjunction + verb (qal, jussive, 3rd person, masculine, plural) | Qal |
+| בִדְגַ֨ת | over the fish of — בְּ with 'rule' means 'over' | ב: in, with, by + דָּגָה | דגה | preposition + noun (common, feminine, singular, construct) |  |
+| הַיָּ֜ם | the sea | ה: the + יָם | ימם | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| וּבְע֣וֹף | and over the birds of — construct | ו: and + ב: in, with, by + עוֹף | עוף | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| הַשָּׁמַ֗יִם | the sky | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| וּבַבְּהֵמָה֙ | and over the livestock — BDB sense 3, wild beasts, does not fit here | ו: and + ב: in, with, by + בְּהֵמָה | בהם | conjunction + preposition (with definite article) + noun (common, feminine, singular, absolute) |  |
+| וּבְכׇל | and over all of — construct | ו: and + ב: in, with, by + כֹּל | כלל | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| הָאָ֔רֶץ | the earth — Radak: 'all the earth' means the beasts of the earth, the wild animals that live outside settled land; Ramban: rule over the earth itself, to uproot, dig and quarry. | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וּבְכׇל | and over all of — construct | ו: and + ב: in, with, by + כֹּל | כלל | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| הָרֶ֖מֶשׂ | the crawling thing | ה: the + רֶ֫מֶשׂ | רמשׂ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| הָֽרֹמֵ֥שׂ | that crawls — participle used as an attribute: 'the one that crawls' | ה: the + רָמַשׂ | רמשׂ | particle (definite article) + verb (qal, participle active, masculine, singular, absolute) |  |
+| עַל | on | עַל | עלה | preposition | II.1.c |
+| הָאָֽרֶץ׃ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+
+Grammar:
+
+- נַעֲשֶׂה is 1st person plural: Rashi and Ibn Ezra both take it as God speaking with the angels (Rashi: his court); the royal plural, which Ibn Ezra reports from the Gaon, he rejects. The English keeps 'us'.
+- אָדָם has no article, so 'a human' or 'humankind', not yet a name; the article comes in 1:27.
+- בְּצַלְמֵנוּ and כִּדְמוּתֵנוּ stand side by side with no ו: 'in our image, like our likeness'.
+- וְיִרְדּוּ is a plural jussive, so the one אָדָם is collective. The root רדה sounds like ירד, 'go down' (Rashi).
+- Five domains of rule are listed: fish, birds, livestock, all the earth, and crawling things.
+
+Note: The plural 'Let us make': Rashi takes it as God taking counsel with his heavenly court, to teach humility; Ibn Ezra rejects the Niphal reading and the Gaon's royal plural, and reads God speaking to the angels. The English keeps 'us'. 'Humankind' is used because אָדָם has no article and the following verb is plural; 1:27 then has הָאָדָם. 'All the earth' follows the Hebrew word for word; Radak reads it as the wild animals of the earth.
+
+Commentary:
+
+- Rashi (follows): Rashi: we learn God's humility here. Since the human is in the likeness of the angels and they would be jealous, God consulted them; a king deciding a case consults his court, as in Micaiah's vision before Ahab. The English keeps 'us' as a true plural.
+- Rashi (follows): Rashi: although they did not help in forming the human, Scripture teaches courtesy and humility, that the great consults and takes leave of the small. Had it said 'I will make', we would not learn this; the answer to the heretics is written beside it: 'and God created' (singular).
+- Rashi (follows): Rashi: בְּצַלְמֵנוּ means in our mold (בדפוס שלנו). The English 'image' renders צֶלֶם and this sense goes in the notes.
+- Rashi (follows): Rashi: כִּדְמוּתֵנוּ means to understand and to discern. The English 'likeness' keeps דְּמוּת.
+- Rashi (follows): Rashi: the word carries both rule and descent: if he is worthy, he rules over the animals; if not, he goes down before them and the animal rules over him. The English takes 'rule', as the context requires, and the second sense is kept here.
+- Ibn Ezra (follows): Ibn Ezra: some take נעשה as a Niphal participle (Neh 5:18) and 'in our image' as Moses' words; he calls this lacking sense. He reports the Gaon (image = rule; the plural is how kings speak, citing Gen 29:27, Dan 2:36, Num 22:6) and rejects those proof texts as 'false witnesses'. His own reading: God said to the angels, 'Let us make a human; we will busy ourselves with him, not the water and the earth'; the image is the human's upper soul, which does not die, and בְּצֶלֶם אֱלֹהִים means the image of an angel.
+- Ramban (records): Ramban: because the human is male and female, he says 'let them rule'.
+- Radak (records): Radak: 'all the earth' means the animals of the earth, the wild animals not in settled land, as it is called חַיַּת הָאָרֶץ.
+
+Apparatus:
+
+- Plural 'us': Rashi (God and his court) and Ibn Ezra (God and the angels) agree; the royal plural of the Gaon, reported and rejected by Ibn Ezra, is not adopted.
+- Radak reads 'all the earth' as 'the wild animals of the earth'; this is not adopted in the English.
 
 #### Genesis 1:27
 
 > וַיִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם׃
 
-_Not yet translated._
+**God created the human in his image; in the image of God he created him; male and female he created them.**
+
+Literal: and-created God [object-mark] the-human in-his-image in-image-of God created him male and-female created them
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּבְרָ֨א | and created — wayyiqtol; בָּרָא has God alone as its subject | ו: and + בָּרָא | ברא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal |
+| אֱלֹהִ֤ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| הָֽאָדָם֙ | the human — with the article: the human of 1:26 | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| בְּצַלְמ֔וֹ | in his image — in-image-of-him | ב: in, with, by + צֶ֫לֶם | צלם | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| בְּצֶ֥לֶם | in the image of — construct | ב: in, with, by + צֶ֫לֶם | צלם | preposition + noun (common, masculine, singular, construct) | 2 |
+| אֱלֹהִ֖ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| בָּרָ֣א | created — qatal after the wayyiqtol: the same act restated | בָּרָא | ברא | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal |
+| אֹת֑וֹ | him — object marker with a masculine singular suffix | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| זָכָ֥ר | male — adjective used as a noun | זָכָר | זכר | adjective (adjective, masculine, singular, absolute) | I |
+| וּנְקֵבָ֖ה | and female | ו: and + נְקֵבָה | נקב | conjunction + noun (common, feminine, singular, absolute) |  |
+| בָּרָ֥א | created — qatal | בָּרָא | ברא | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal |
+| אֹתָֽם׃ | them — object marker with a masculine plural suffix | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, masculine, plural) |  |
+
+Grammar:
+
+- The verse has three lines: God created the human in his image; in the image of God he created him; male and female he created them.
+- הָאָדָם now has the article: it points back to the indefinite אָדָם of 1:26. It is not yet a proper name.
+- The object suffix changes from singular (אֹתוֹ) to plural (אֹתָם): one human, then male and female.
+- The first בָּרָא is a wayyiqtol; the next two are qatal and restate the act.
+- בְּצַלְמוֹ and בְּצֶלֶם אֱלֹהִים use the same noun: 'his image' and 'the image of God'.
+
+Note: The suffix of 'in his image' could refer to God or to the human; Rashi takes the image as a mold made for the human, and says that mold is the likeness of his maker. The English keeps 'his', as the Hebrew does. 'Male and female' is read as the plain sense that both were created on the sixth day.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'in a mold made for him'; everything was created by word, but the human by hands (Ps 139:5); he was made with a seal, like a coin struck with a die. The English keeps 'in his image'; the mold sense goes in the notes.
+- Rashi (follows): Rashi: Scripture explains that the image prepared for him is the image of the likeness of his maker. The English 'in the image of God' follows.
+- Rashi (follows): Rashi: the plain meaning is that here we are told both were created on the sixth day, with how explained elsewhere; the midrash says he was made with two faces and then divided. The English 'male and female' follows the plain meaning.
+
+Apparatus:
+
+- The suffix of בְּצַלְמוֹ ('in his image') is not fixed by the Hebrew: God or the human. The next clause names God.
 
 #### Genesis 1:28
 
 > וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת־הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכׇל־חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל־הָאָֽרֶץ׃
 
-_Not yet translated._
+**God blessed them, and God said to them, "Be fruitful and multiply and fill the earth and subdue it, and rule over the fish of the sea and the birds of the sky and every living thing that crawls on the earth."**
+
+Literal: and-blessed [object-mark]-them God and-said to-them God be-fruitful and-multiply and-fill [object-mark] the-earth and-subdue-it and-rule in-fish-of the-sea and-in-bird-of the-sky and-in-all-of living the-crawling on the-earth
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְבָ֣רֶךְ | and blessed — Piel wayyiqtol: God blesses | ו: and + בָּרַךְ | ברך | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Pi 2 |
+| אֹתָם֮ | them — object marker with a masculine plural suffix | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, masculine, plural) |  |
+| אֱלֹהִים֒ | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| וַיֹּ֨אמֶר | and said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| לָהֶ֜ם | to them | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, plural) |  |
+| אֱלֹהִ֗ים | God — the subject is named a second time | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| פְּר֥וּ | be fruitful — Qal imperative plural; the pack's BDB extract lists only Hiphil senses, so no sense is given. | פָּרָה | פרה | verb (qal, imperative, 2nd person, masculine, plural) |  |
+| וּרְב֛וּ | and multiply — imperative plural | ו: and + רָבָה | רבה | conjunction + verb (qal, imperative, 2nd person, masculine, plural) | Qal 1 |
+| וּמִלְא֥וּ | and fill — imperative plural | ו: and + מָלֵא | מלא | conjunction + verb (qal, imperative, 2nd person, masculine, plural) | Qal 2 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| הָאָ֖רֶץ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וְכִבְשֻׁ֑הָ | and subdue it — imperative with a feminine singular suffix; written without the ו of the verb (Rashi) | ו: and + כָּבַשׁ | כבשׁ | conjunction + verb (qal, imperative, 2nd person, masculine, plural) + suffix (pronominal, 3rd person, feminine, singular) | Qal 3 |
+| וּרְד֞וּ | and rule — imperative plural | ו: and + רָדָה | רדה | conjunction + verb (qal, imperative, 2nd person, masculine, plural) | Qal |
+| בִּדְגַ֤ת | over the fish of — בְּ with 'rule' means 'over' | ב: in, with, by + דָּגָה | דגה | preposition + noun (common, feminine, singular, construct) |  |
+| הַיָּם֙ | the sea | ה: the + יָם | ימם | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| וּבְע֣וֹף | and over the birds of — construct | ו: and + ב: in, with, by + עוֹף | עוף | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| הַשָּׁמַ֔יִם | the sky | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| וּבְכׇל | and over every — construct | ו: and + ב: in, with, by + כֹּל | כלל | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| חַיָּ֖ה | living thing — here a noun, 'living thing' | חַי | חיה | noun (common, both genders, singular, absolute) | 1 |
+| הָֽרֹמֶ֥שֶׂת | that crawls — feminine participle with the article, agreeing with חַיָּה | ה: the + רָמַשׂ | רמשׂ | particle (definite article) + verb (qal, participle active, feminine, singular, absolute) |  |
+| עַל | on | עַל | עלה | preposition | II.1.c |
+| הָאָֽרֶץ׃ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+
+Grammar:
+
+- The blessing is stated first (וַיְבָרֶךְ אֹתָם), then the speech (וַיֹּאמֶר לָהֶם); the zinor and segol close the blessing sentence.
+- The imperatives are all plural: פְּרוּ, רְבוּ, מִלְאוּ, כִבְשֻׁהָ, רְדוּ.
+- וְכִבְשֻׁהָ is written without the second ו of the verb form; Rashi draws a lesson from the spelling.
+- After the etnaḥta on וְכִבְשֻׁהָ, the second half opens with וּרְדוּ: rule over three domains, fish, birds and every living thing that crawls, where 1:26 listed five.
+- חַיָּה הָרֹמֶשֶׂת has a feminine participle, where 1:26 had masculine הָרֹמֵשׂ.
+
+Note: The pack parses פְּרוּ as Qal, while its BDB extract lists only Hiphil senses, so no sense is given; the translation is 'be fruitful' either way. Rashi's reading of the defective וְכִבְשֻׁהָ is a homily on the spelling.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: וכבשה lacks a ו to teach that the male subdues the female so that she will not be a gadabout, and that the man, who is used to subduing, is commanded to be fruitful and multiply, not the woman. This is drawn from the spelling and does not change the English 'subdue it'.
 
 #### Genesis 1:29
 
 > וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת־כׇּל־עֵ֣שֶׂב ׀ זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל־פְּנֵ֣י כׇל־הָאָ֔רֶץ וְאֶת־כׇּל־הָעֵ֛ץ אֲשֶׁר־בּ֥וֹ פְרִי־עֵ֖ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאׇכְלָֽה׃
 
-_Not yet translated._
+**God said, "See, I have given you every plant bearing seed that is on the surface of the whole earth, and every tree that has in it fruit of a tree bearing seed. It shall be yours for food."**
+
+Literal: and-said God see I-have-given to-you [object-mark] all-of herb sowing seed which on face-of all-of the-earth and-[object-mark] all-of the-tree which-in-it fruit-of tree sowing seed to-you it-shall-be for-food
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֣אמֶר | and said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֱלֹהִ֗ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| הִנֵּה֩ | see — הִנֵּה, a particle that draws attention; the English 'see' does the job without filler | הִנֵּה |  | particle (demonstrative) |  |
+| נָתַ֨תִּי | I have given — qatal, 1st person: a completed gift | נָתַן | נתן | verb (qal, perfect (qatal), 1st person, common, singular) | Qal 1 |
+| לָכֶ֜ם | to you — masculine plural: the humans of 1:28 | ל: to, for |  | preposition + suffix (pronominal, 2nd person, masculine, plural) |  |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| כׇּל | every — construct | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| עֵ֣שֶׂב | plant — עֵשֶׂב, herbage; the pack's entry lists no senses | עֵ֫שֶׂב | עשׂב | noun (common, masculine, singular, absolute) |  |
+| זֹרֵ֣עַ | bearing — participle 'sowing' | זָרַע | זרע | verb (qal, participle active, masculine, singular, absolute) | Qal 2 |
+| זֶ֗רַע | seed — זֶרַע | זֶ֫רַע | זרע | noun (common, masculine, singular, absolute) | 2 |
+| אֲשֶׁר֙ | that is | אֲשֶׁר | אשׁר | particle (relative) |  |
+| עַל | on | עַל | עלה | preposition | II.1.c |
+| פְּנֵ֣י | the surface of — 'face of'; פָּנִים is plural in form | פָּנֶה | פנה | noun (common, both genders, plural, construct) | I.5 |
+| כׇל | the whole — construct | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| הָאָ֔רֶץ | earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וְאֶת | and (object marker) | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| כׇּל | every — construct | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| הָעֵ֛ץ | tree | ה: the + עֵץ | עצה | particle (definite article) + noun (common, masculine, singular, absolute) | 1.a |
+| אֲשֶׁר | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| בּ֥וֹ | in it | ב: in, with, by |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| פְרִי | fruit of — construct | פְּרִי | פרה | noun (common, masculine, singular, construct) | 1 |
+| עֵ֖ץ | tree | עֵץ | עצה | noun (common, masculine, singular, absolute) | 1.a |
+| זֹרֵ֣עַ | bearing — participle | זָרַע | זרע | verb (qal, participle active, masculine, singular, absolute) | Qal 2 |
+| זָ֑רַע | seed | זֶ֫רַע | זרע | noun (common, masculine, singular, absolute) | 2 |
+| לָכֶ֥ם | to you | ל: to, for |  | preposition + suffix (pronominal, 2nd person, masculine, plural) |  |
+| יִֽהְיֶ֖ה | shall be — yiqtol, 3rd masculine singular; the subject is the whole gift | הָיָה | היה | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal III |
+| לְאׇכְלָֽה׃ | for food — לְ + אָכְלָה, 'to eating'; BDB lists only 'devouring' and 'consuming', which do not suit, so no listed sense is given | ל: to, for + אׇכְלָה | אכל | preposition + noun (common, feminine, singular, absolute) |  |
+
+Grammar:
+
+- הִנֵּה with the qatal נָתַתִּי presents a gift already made: 'See, I have given'. Radak: as if 'I hereby give', or 'when I created them, I gave them to you'.
+- עֵשֶׂב זֹרֵעַ זֶרַע and פְּרִי־עֵץ זֹרֵעַ זָרַע are parallel, each a participle with its cognate noun: 'seed-sowing seed'.
+- The zaqef qaton on הָאָרֶץ divides the plants from the trees; the revia on זֶרַע sets off the relative clause אֲשֶׁר עַל־פְּנֵי כָל־הָאָרֶץ; the etnaḥta on זָרַע ends the gift.
+- יִהְיֶה is singular: 'it shall be', with the whole gift as one subject, not each plant.
+- לְאָכְלָה is 'for food'; the commentators note that this verse does not yet allow meat.
+
+Note: The verb זֹרֵעַ is 'sowing' and the English 'bears seed' renders the sense; the cognate noun is in English 'seed'. The commentators agree that the gift is plants only; the English says nothing about meat, which is not in the Hebrew.
+
+Commentary:
+
+- Rashi (follows): Rashi: he put cattle and wild animals on a par with them in food, and did not allow the human and his wife to kill a creature and eat flesh; all of them together were to eat only green herbs. When the sons of Noah came, he permitted flesh to them (Gen 9:3). The English 'for food', with plants alone, follows this.
+- Ibn Ezra (follows): Ibn Ezra: he permitted people, and everything with a living soul, to eat every herb; every tree fruit is permitted to people; the green herb is for the animals and for everything that crawls; meat was not permitted until after the flood. The English follows: the human has the plants and the fruit.
 
 #### Genesis 1:30
 
 > וּֽלְכׇל־חַיַּ֣ת הָ֠אָ֠רֶץ וּלְכׇל־ע֨וֹף הַשָּׁמַ֜יִם וּלְכֹ֣ל ׀ רוֹמֵ֣שׂ עַל־הָאָ֗רֶץ אֲשֶׁר־בּוֹ֙ נֶ֣פֶשׁ חַיָּ֔ה אֶת־כׇּל־יֶ֥רֶק עֵ֖שֶׂב לְאׇכְלָ֑ה וַֽיְהִי־כֵֽן׃
 
-_Not yet translated._
+**And to every wild animal of the earth and to every bird of the sky and to everything that crawls on the earth, in which there is a living soul, I have given every green plant for food. And so it was.**
+
+Literal: and-to-all-of animal-of the-earth and-to-all-of bird-of the-sky and-to-all-of crawling on the-earth which-in-it soul living [object-mark] all-of green herb to-food and-was so
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וּֽלְכׇל | and to every — construct, with the prefix לְ: 'to all of' | ו: and + ל: to, for + כֹּל | כלל | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| חַיַּ֣ת | wild animal of — construct | חַיָּה | חיה | noun (common, feminine, singular, construct) | 1.b |
+| הָ֠אָ֠רֶץ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וּלְכׇל | and to every — construct | ו: and + ל: to, for + כֹּל | כלל | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| ע֨וֹף | bird of — construct | עוֹף | עוף | noun (common, masculine, singular, construct) | 1 |
+| הַשָּׁמַ֜יִם | the sky | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| וּלְכֹ֣ל | and to everything — construct, 'to all of' | ו: and + ל: to, for + כֹּל | כלל | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| רוֹמֵ֣שׂ | that crawls — participle, 'the crawling one' | רָמַשׂ | רמשׂ | verb (qal, participle active, masculine, singular, absolute) |  |
+| עַל | on | עַל | עלה | preposition | II.1.c |
+| הָאָ֗רֶץ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| אֲשֶׁר | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| בּוֹ֙ | in it | ב: in, with, by |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| נֶ֣פֶשׁ | soul — נֶפֶשׁ, the breathing life; with חַיָּה, 'a living soul' | נֶ֫פֶשׁ | נפשׁ | noun (common, both genders, singular, absolute) | 1 |
+| חַיָּ֔ה | living — feminine, agreeing with נֶפֶשׁ | חַי | חיה | adjective (adjective, feminine, singular, absolute) | 1.c |
+| אֶת | (object marker) — marks the object of a verb not repeated from 1:29 | אֵת | אות | particle (direct object marker) |  |
+| כׇּל | every — construct | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יֶ֥רֶק | green — יֶרֶק, greenness; no senses in the pack | יֶ֫רֶק | ירק | noun (common, masculine, singular, absolute) |  |
+| עֵ֖שֶׂב | plant — עֵשֶׂב | עֵ֫שֶׂב | עשׂב | noun (common, masculine, singular, absolute) |  |
+| לְאׇכְלָ֑ה | for food — לְ + אָכְלָה; see 1:29.27 | ל: to, for + אׇכְלָה | אכל | preposition + noun (common, feminine, singular, absolute) |  |
+| וַֽיְהִי | and it was — wayyiqtol of הָיָה | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.1.b |
+| כֵֽן׃ | so | כֵּן |  | adverb |  |
+
+Grammar:
+
+- The verse has no verb of giving; it takes נָתַתִּי from 1:29 and אֶת marks its object.
+- The three groups are the same as in 1:26 and 1:28: wild animals, birds, crawling things; here without fish.
+- אֲשֶׁר־בּוֹ נֶפֶשׁ חַיָּה, 'in which is a living soul', describes the animals as having the breath of life, which the plants they eat do not have (Radak).
+- The telisha gedola on הָאָרֶץ is a rare doubled accent mark.
+- The English adds 'I have given' where the Hebrew has an object marker and no verb.
+
+Note: The Hebrew leaves out the verb 'I have given', so the English supplies it from 1:29 in the phrase that holds the object marker. The relative clause 'in which there is a living soul' stands after 'everything that crawls on the earth' and the English keeps it there; it can be read of all three groups.
+
+Apparatus:
+
+- The relative clause 'in which is a living soul' could limit only the crawling things or the three groups together; the English keeps the Hebrew order.
 
 #### Genesis 1:31
 
 > וַיַּ֤רְא אֱלֹהִים֙ אֶת־כׇּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי׃
 
-_Not yet translated._
+**God saw everything that he had made, and indeed it was very good. And there was evening and there was morning, the sixth day.**
+
+Literal: and-saw God [object-mark] all-of which he-made and-behold-good very and-was evening and-was morning day-of the-sixth
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיַּ֤רְא | and saw — wayyiqtol | ו: and + רָאָה | ראה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1.a |
+| אֱלֹהִים֙ | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| כׇּל | every — construct: 'all of' | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| אֲשֶׁ֣ר | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| עָשָׂ֔ה | he had made — qatal, a completed act before the seeing; 'he had made' | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal II.1 |
+| וְהִנֵּה | and indeed — וְהִנֵּה, 'and behold', marks what God found | ו: and + הִנֵּה |  | conjunction + particle (demonstrative) |  |
+| ט֖וֹב | good — predicate; no verb in Hebrew | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 3 |
+| מְאֹ֑ד | very — מְאֹד, 'exceedingly' | מְאֹד | מאד | adverb | 2 |
+| וַֽיְהִי | and there was — wayyiqtol, 'and it was' | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal II |
+| עֶ֥רֶב | evening | עֶ֫רֶב | ערב | noun (common, masculine, singular, absolute) | 1.a |
+| וַֽיְהִי | and there was — wayyiqtol | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal II |
+| בֹ֖קֶר | morning | בֹּ֫קֶר | בקר | noun (common, masculine, singular, absolute) | 1 |
+| י֥וֹם | day of — the pack parses יוֹם as construct; Ibn Ezra rejects the construct reading ('day of the sixth sphere') and takes it as a noun with an ordinal that has the article: 'a day, the sixth', as אִישׁ הַיִּשְׂרְאֵלִי (Lev 24:10) | יוֹם |  | noun (common, masculine, singular, construct) | 1 |
+| הַשִּׁשִּֽׁי׃ | the sixth — article on the ordinal after an indefinite noun: 'the sixth day' | ה: the + שִׁשִּׁי | שׁדשׁ | particle (definite article) + adjective (ordinal number, masculine, singular, absolute) |  |
+
+Grammar:
+
+- The refrain of the days is 'and there was evening and there was morning', here with 'the sixth day', which is the only day in this chapter with the article.
+- וְהִנֵּה־טוֹב מְאֹד adds 'very' and וְהִנֵּה to the refrain 'and God saw that it was good' of the earlier days.
+- The qatal עָשָׂה ('he had made') looks back over the whole of the six days.
+- In יוֹם הַשִּׁשִּׁי the ordinal has the article and יוֹם does not. The pack parses יוֹם as construct; Ibn Ezra reads 'the day that is sixth', a noun followed by an articled adjective, as in אִישׁ הַיִּשְׂרְאֵלִי (Lev 24:10).
+- The paragraph mark פ closes the account of the sixth day.
+
+Note: The article on 'the sixth' day is the Hebrew's, and the English follows it with 'the sixth day'. Rashi's homily on the added ה (the sixth day of Sivan, the giving of the Torah) does not bear on the plain sense.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: the added ה on יוֹם הַשִּׁשִּׁי means God made a condition with creation that Israel would accept the five books of the Torah; or: everything hangs until the sixth of Sivan. This is homily and does not bear on the English.
+- Ibn Ezra (follows): Ibn Ezra: some say יוֹם in יוֹם הַשִּׁשִּׁי is in the construct state (סמוך) and the sense is 'the day of the sixth sphere'; this is not true. It means the day that is sixth from the first day, so also יוֹם הַשְּׁבִיעִי: a noun followed by an adjective with the article, as אִישׁ הַיִּשְׂרְאֵלִי (Lev 24:10), and רְקִיעַ הַשָּׁמַיִם (1:20), 'the firmament that is heaven'. The English 'the sixth day' follows this.
+
+Apparatus:
+
+- The paragraph mark פ follows this verse.
 
 #### Genesis 2:1
 
 > וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכׇל־צְבָאָֽם׃
 
-_Not yet translated._
+**So the heavens and the earth were completed, and all their host.**
+
+Literal: and-were-completed the-heavens and-the-earth and-all-of host-their
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְכֻלּ֛וּ | and were completed — Pual wayyiqtol, 3rd masculine plural: passive of the Piel 'complete'; the lexicon lists only Qal and Piel, so the Piel sense is the nearest. | ו: and + כָּלָה | כלה | conjunction + verb (pual, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Pi 1.b |
+| הַשָּׁמַ֥יִם | the heavens | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| וְהָאָ֖רֶץ | and the earth | ו: and + ה: the + אֶ֫רֶץ | ארץ | conjunction + particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וְכׇל | and all of — construct, bound by the maqqef to the next word | ו: and + כֹּל | כלל | conjunction + noun (common, masculine, singular, construct) | 1 |
+| צְבָאָֽם׃ | their host — construct form with the suffix -ām; 'host' is the whole array of what fills heaven and earth | צָבָא | צבא | noun (common, both genders, singular, construct) + suffix (pronominal, 3rd person, masculine, plural) | 1 |
+
+Grammar:
+
+- וַיְכֻלּוּ is Pual (passive): the heavens and earth 'were completed', with no agent named.
+- The wayyiqtol וַ + יְכֻלּוּ continues the narrative of chapter 1 and closes it.
+- The tevir on וַיְכֻלּוּ and the tipḥa on וְהָאָרֶץ divide the verse; the silluq ends it.
+- צְבָאָם ('their host') is normally an army or the stars; here it covers everything that fills heaven and earth.
+
+Note: 'So' renders the narrative waw. 'Host' is kept literal, because the commentators differ on what it contains (living things, luminaries, angels).
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: the form is passive, the agent not named; the sense is 'were finished'. The sea is included in 'earth', since sea and land are as one bundle.
+- Ramban (records): Ramban: the host of earth is the creatures and plants and humans; the host of heaven is the luminaries and stars, and may also include the separate intellects (angels). The English keeps 'host' and does not decide this.
+- Radak (records): Radak: the host are the offspring of heaven and earth, all finished on the sixth day; after that nothing new is made except by miracle.
+- Targum Onkelos (follows): Onkelos renders the passive 'were completed' (אשתכללו) and 'their hosts'.
+- Sforno (follows): Sforno: the verb means that the purpose of existence was attained, in its entirety.
 
 #### Genesis 2:2
 
 > וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מִכׇּל־מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה׃
 
-_Not yet translated._
+**On the seventh day God finished his work that he had made, and on the seventh day he rested from all his work that he had made.**
+
+Literal: and-finished God on-the-day the-seventh work-his which he-made and-rested on-the-day the-seventh from-all-of work-his which he-made
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְכַ֤ל | and finished — Piel wayyiqtol: 'completed, brought to an end' | ו: and + כָּלָה | כלה | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Pi 1.a |
+| אֱלֹהִים֙ | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| בַּיּ֣וֹם | on the day | ב: in, with, by + יוֹם |  | preposition (with definite article) + noun (common, masculine, singular, absolute) | 1 |
+| הַשְּׁבִיעִ֔י | the seventh | ה: the + שְׁבִיעִי | שׁבע | particle (definite article) + adjective (ordinal number, masculine, singular, absolute) |  |
+| מְלַאכְתּ֖וֹ | his work — construct with suffix | מְלָאכָה | לאך | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| אֲשֶׁ֣ר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| עָשָׂ֑ה | he had made — qatal in a relative clause, read as a past before the main verb: 'had made' | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal II.1 |
+| וַיִּשְׁבֹּת֙ | and rested — wayyiqtol of שָׁבַת; the verb is the root of 'Sabbath' | ו: and + שָׁבַת | שׁבת | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 2 |
+| בַּיּ֣וֹם | on the day | ב: in, with, by + יוֹם |  | preposition (with definite article) + noun (common, masculine, singular, absolute) | 1 |
+| הַשְּׁבִיעִ֔י | the seventh | ה: the + שְׁבִיעִי | שׁבע | particle (definite article) + adjective (ordinal number, masculine, singular, absolute) |  |
+| מִכׇּל | from all of — מִן 'from' joined to כָּל; the maqqef binds them | מ: from, than + כֹּל | כלל | preposition + noun (common, masculine, singular, construct) | 1 |
+| מְלַאכְתּ֖וֹ | his work | מְלָאכָה | לאך | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| אֲשֶׁ֥ר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| עָשָֽׂה׃ | he had made | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal II.1 |
+
+Grammar:
+
+- The verse repeats 'on the seventh day' and 'his work that he made' in two clauses: he finished, and he rested.
+- The etnaḥta after עָשָׂה divides the verse into the finishing and the resting.
+- וַיִּשְׁבֹּת is the verb from which 'Sabbath' comes; its sense is 'cease, desist', not 'be weary'.
+- אֲשֶׁר עָשָׂה is a qatal inside a relative clause; the English pluperfect 'had made' shows that the work was done before.
+- The ב of בַּיּוֹם means 'on'. Some read it as 'before' (the work done before the seventh day); Ibn Ezra cites this view and rejects it: finishing a work is not doing work.
+
+Note: The English keeps 'On the seventh day' (Rashi's reading and the plain Hebrew). The view that the ב means 'before' (the work was finished before the seventh day) is cited by Ibn Ezra and rejected, and is recorded in the apparatus. The verbs finished and rested are not the same: 'finished' is Piel of כלה, 'rested' is Qal of שבת.
+
+Commentary:
+
+- Rashi (follows): Rashi: God knows his times and moments exactly, so he entered the seventh day by a hair's breadth and it looked as though he finished in it; another reading: what was the world lacking? Rest; when Sabbath came, rest came, and the work was finished.
+- Ibn Ezra (follows): Ibn Ezra cites two views and rejects both: that the days were themselves created and the work was completed by the creation of the seventh day ("וזה הפירוש תפל"), and that the ב here means 'before', as in 'on the first day you shall remove leaven' (Ex 12:15). "ולמה זאת הצרה": the finishing of work is not work, as if it said he did no work on it; so too וַיְכַל and וַיִּשְׁבֹּת. The English keeps the plain 'on the seventh day'.
+- Ibn Ezra (follows): Ibn Ezra: 'his work that he made' means the work he made on the sixth day, before the Sabbath. The English 'had made' fits.
+- Ibn Ezra (follows): Ibn Ezra: 'rested on the seventh day from all his work' means from all the creations that he created.
+- Radak (records): Radak: when the seventh day came the work was complete and nothing was left to make on it; so on the seventh day he finished, in the sense that it was a finished work.
+- Radak (records): Radak: nothing was created after the sixth day; the Torah speaks in human language, since he does not tire; or 'rested' means 'ceased'.
+- Targum Onkelos (follows): Onkelos: 'and the LORD finished on the seventh day his work' and 'rested' (נח).
+- Sforno (records): Sforno: at the beginning of the seventh day, the indivisible instant that begins the future time, as Genesis Rabbah has it, 'like a hair's breadth'.
+
+Apparatus:
+
+- Rashi (R. Shimon): flesh and blood adds from the weekday to the holy day because he does not know his times; God does, so he finished exactly at the day's edge. Others, cited and rejected by Ibn Ezra: ב has the sense of 'before', as in Ex 12:15.
 
 #### Genesis 2:3
 
 > וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת־י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכׇּל־מְלַאכְתּ֔וֹ אֲשֶׁר־בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת׃
 
-_Not yet translated._
+**God blessed the seventh day and made it holy, because on it he rested from all his work that God created in order to make.**
+
+Literal: and-blessed God [object-marker] day-of the-seventh and-made-holy it because in-it he-rested from-all-of work-his which created God to-make
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְבָ֤רֶךְ | and blessed — Piel wayyiqtol: 'God blesses' | ו: and + בָּרַךְ | ברך | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Pi 2 |
+| אֱלֹהִים֙ | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| י֣וֹם | day of — construct state, bound to 'the seventh' | יוֹם |  | noun (common, masculine, singular, construct) | 1 |
+| הַשְּׁבִיעִ֔י | the seventh | ה: the + שְׁבִיעִי | שׁבע | particle (definite article) + adjective (ordinal number, masculine, singular, absolute) |  |
+| וַיְקַדֵּ֖שׁ | and made holy — Piel wayyiqtol: 'set apart as sacred' | ו: and + קָדַשׁ | קדשׁ | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Pi 1 |
+| אֹת֑וֹ | it — אֹתוֹ is the object marker with the suffix 'it' | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| כִּ֣י | because | כִּי |  | conjunction | 3 |
+| ב֤וֹ | on it | ב: in, with, by |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| שָׁבַת֙ | he rested — qatal; 'rest, cease', from the root of Sabbath | שָׁבַת | שׁבת | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+| מִכׇּל | from all of | מ: from, than + כֹּל | כלל | preposition + noun (common, masculine, singular, construct) | 1 |
+| מְלַאכְתּ֔וֹ | his work | מְלָאכָה | לאך | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| אֲשֶׁר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| בָּרָ֥א | created — qatal in a relative clause | בָּרָא | ברא | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal |
+| אֱלֹהִ֖ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| לַעֲשֽׂוֹת׃ | to make — infinitive construct; the final clause is difficult | ל: to, for + עָשָׂה | עשׂה | preposition + verb (qal, infinitive construct) | Qal II.1 |
+
+Grammar:
+
+- וַיְבָרֶךְ and וַיְקַדֵּשׁ are two Piel wayyiqtols with the same subject; the second has the object marker with a suffix.
+- The etnaḥta on אֹתוֹ divides the verse before כִּי: the blessing and sanctifying, then the reason.
+- בּוֹ ('on it') is put before the verb for emphasis: on it, and not on another.
+- אֲשֶׁר־בָּרָא אֱלֹהִים לַעֲשׂוֹת: 'created ... to make' is hard; the infinitive may be final or may continue the verb 'created'.
+- The paragraph break (פ) after the verse closes the creation account's section on the seventh day.
+
+Note: The last clause is hard: the Hebrew has 'created to make'. The English keeps both verbs and the infinitive. Ibn Ezra takes it as creatures made with power to make their like; Rashi reads the 'making' as work that should have been done on the Sabbath and was doubled on the sixth day. The English follows Ibn Ezra's plain-sense reading and records Rashi's.
+
+Commentary:
+
+- Rashi (records): Rashi: he blessed it in the manna (a double portion on the sixth day) and made it holy in the manna (none fell on the Sabbath); the verse is written about the future. The English does not adopt this.
+- Rashi (records): Rashi: the work that was fit to be done on the Sabbath he doubled and did on the sixth day, as Genesis Rabbah explains. A midrashic reading of לַעֲשׂוֹת; not adopted.
+- Ibn Ezra (follows): Ibn Ezra: 'blessing' is an addition of good; on this day bodies renew a power for procreation, and souls power of recognition and intellect.
+- Ibn Ezra (follows): Ibn Ezra: 'he made it holy' means that no work was done on it, as was done on its fellows, the other days.
+- Ibn Ezra (follows): Ibn Ezra: 'which God created to make' means the roots in all kinds, in which he gave power to make their likeness. He rejects the reading that puts 'to make' in place of 'made', or 'made' in place of 'created'; Saadia: the blessing and holiness refer to those who keep it.
+- Ramban (records): Ramban cites Rashi's reading and Ibn Ezra's, and adds that 'to make' may attach upward: he rested from all his work of creating, from doing it, like 'for he ceased to count' (Gen 41:49).
+- Radak (follows): Radak: 'to make' from here on: he created them in the six days so that each kind would go on making its offspring.
+- Targum Onkelos (follows): Onkelos: 'blessed ... and made it holy ... for on it he rested from all his work which the LORD created to do' (למעבד).
 
 #### Genesis 2:4
 
 > אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּהִבָּֽרְאָ֑ם בְּי֗וֹם עֲשׂ֛וֹת יְהֹוָ֥ה אֱלֹהִ֖ים אֶ֥רֶץ וְשָׁמָֽיִם׃
 
-_Not yet translated._
+**These are the generations of the heavens and the earth when they were created, on the day the LORD God made earth and heavens.**
+
+Literal: these generations-of the-heavens and-the-earth in-their-being-created in-day-of making LORD God earth and-heavens
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| אֵ֣לֶּה | these | אֵ֫לֶּה | אלה | pronoun (demonstrative, common, plural) | b |
+| תוֹלְד֧וֹת | generations of — תּוֹלְדוֹת is a feminine plural construct; 'generations' here is what the heavens and earth brought forth, the account of their origin | תּוֹלֵדוֹת | ילד | noun (common, feminine, plural, construct) |  |
+| הַשָּׁמַ֛יִם | the heavens | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| וְהָאָ֖רֶץ | and the earth | ו: and + ה: the + אֶ֫רֶץ | ארץ | conjunction + particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| בְּהִבָּֽרְאָ֑ם | in their being created — Niphal infinitive construct with ב and the suffix -ām: 'when they were created' | ב: in, with, by + בָּרָא | ברא | preposition + verb (nifal, infinitive construct) + suffix (pronominal, 3rd person, masculine, plural) | Niph 1 |
+| בְּי֗וֹם | in the day of — construct state before an infinitive, 'on the day of making' | ב: in, with, by + יוֹם |  | preposition + noun (common, masculine, singular, construct) | 1 |
+| עֲשׂ֛וֹת | making — infinitive construct; Ibn Ezra reads it as 'setting in order' | עָשָׂה | עשׂה | verb (qal, infinitive construct) | Qal II.1 |
+| יְהֹוָ֥ה | the LORD — יְהוָה, here and below 'the LORD' (the text is pointed יְהֹוָה) | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֖ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| אֶ֥רֶץ | earth | אֶ֫רֶץ | ארץ | noun (common, both genders, singular, absolute) | 1.a |
+| וְשָׁמָֽיִם׃ | and heavens — the order earth-heavens reverses the order of the first clause | ו: and + שָׁמַיִם | שׁמה | conjunction + noun (common, masculine, plural, absolute) | 1.a |
+
+Grammar:
+
+- אֵלֶּה points back: Rashi, 'those mentioned above'; Ibn Ezra, 'these are what they begot'. The verse sums up the account of 1:1–2:3 and leads into what follows. It is the first place where the divine name יְהוָה appears, joined to אֱלֹהִים.
+- The etnaḥta after בְּהִבָּרְאָם divides the verse: the heavens and earth when created, and the day of the LORD God's making.
+- בְּהִבָּרְאָם is a Niphal infinitive construct with a pronominal suffix; בְּיוֹם עֲשׂוֹת is a construct before an infinitive.
+- The order 'the heavens and the earth' becomes 'earth and heavens' in the last words: a chiasm.
+- תּוֹלְדוֹת normally means offspring or the account of descendants.
+
+Note: 'Generations' is kept literal (Ibn Ezra: these are what they begot). 'Made' renders עֲשׂוֹת; Ibn Ezra takes it as 'prepared, set in order', and the English 'made' leaves that room. The doubled name 'the LORD God' follows decisions.md.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'these' refers to the things mentioned above.
+- Rashi (not-applicable): Rashi: this teaches that all were created on the first day; and a midrash: they were created with ה (בהבראם read as ב-ה), the world with the letter he. A homily on the spelling that does not change the plain sense.
+- Ibn Ezra (follows): Ibn Ezra: 'these are the generations' means these are what they (the heavens and the earth) begot.
+- Ibn Ezra (records): Ibn Ezra: בְּהִבָּרְאָם means when the firmament was and the earth appeared; the English keeps the plain 'when they were created'.
+- Ibn Ezra (follows): Ibn Ezra: the word 'making' here is a preparing or setting in order, as in 'he hurried to make it' (Gen 18:7); he first created it, then formed it, then made it.
+- Ramban (records): Ramban: the account of the generations of heaven and earth by rain and growth, once they were created and made in order; he finds in בְּהִבָּרְאָם a hint that the world was created with ה.
+- Radak (records): Radak: 'these' are what was mentioned in the account of creation; they are the offspring of the heavens and the earth, since God made all through intermediaries.
+- Targum Onkelos (follows): Onkelos: 'these are the generations of the heavens and the earth when they were created, on the day the LORD God made earth and heavens'.
+- Sforno (records): Sforno: these plants and animals were the offspring of heaven and earth through the power in them from the time they were created, though they came out into act later.
 
 #### Genesis 2:5
 
 > וְכֹ֣ל ׀ שִׂ֣יחַ הַשָּׂדֶ֗ה טֶ֚רֶם יִֽהְיֶ֣ה בָאָ֔רֶץ וְכׇל־עֵ֥שֶׂב הַשָּׂדֶ֖ה טֶ֣רֶם יִצְמָ֑ח כִּי֩ לֹ֨א הִמְטִ֜יר יְהֹוָ֤ה אֱלֹהִים֙ עַל־הָאָ֔רֶץ וְאָדָ֣ם אַ֔יִן לַֽעֲבֹ֖ד אֶת־הָֽאֲדָמָֽה׃
 
-_Not yet translated._
+**No tree of the field was yet on the earth, and no plant of the field had yet sprung up, for the LORD God had not sent rain on the earth, and there was no human to work the ground.**
+
+Literal: and-all-of shrub-of the-field not-yet it-was in-the-earth and-all-of plant-of the-field not-yet it-sprouted for not he-sent-rain LORD God on the-earth and-human there-is-not to-work [object-marker] the-ground
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְכֹ֣ל | and all of — construct; with the negation of the following clause 'not any' | ו: and + כֹּל | כלל | conjunction + noun (common, masculine, singular, construct) | 1 |
+| שִׂ֣יחַ | tree of — שִׂיחַ: bush, shrub; Ibn Ezra takes it as a (fruit) tree | שִׂיחַ | שׂיח | noun (common, masculine, singular, construct) |  |
+| הַשָּׂדֶ֗ה | the field | ה: the + שָׂדֶה | שׂדה | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| טֶ֚רֶם | not yet — טֶרֶם 'not yet'; Rashi: every טֶרֶם in Scripture means עַד לֹא 'not yet', never קֹדֶם 'before' | טֶ֫רֶם | טרם | adverb |  |
+| יִֽהְיֶ֣ה | was — imperfect after טֶרֶם: 'was yet' | הָיָה | היה | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal III.3 |
+| בָאָ֔רֶץ | on the earth | ב: in, with, by + אֶ֫רֶץ | ארץ | preposition (with definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וְכׇל | and all of | ו: and + כֹּל | כלל | conjunction + noun (common, masculine, singular, construct) | 1 |
+| עֵ֥שֶׂב | plant of — עֵשֶׂב is a construct; herbage that is sown and eaten | עֵ֫שֶׂב | עשׂב | noun (common, masculine, singular, construct) |  |
+| הַשָּׂדֶ֖ה | the field | ה: the + שָׂדֶה | שׂדה | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| טֶ֣רֶם | not yet | טֶ֫רֶם | טרם | adverb |  |
+| יִצְמָ֑ח | had sprung up — imperfect after טֶרֶם: 'had not yet sprung up' | צָמַח | צמח | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal |
+| כִּי֩ | for | כִּי |  | conjunction | 3 |
+| לֹ֨א | not | לֹא |  | particle (negative) |  |
+| הִמְטִ֜יר | sent rain — Hiphil qatal of מָטַר, denominative from 'rain'; 'had not sent rain' | מָטַר | מטר | verb (hifil, perfect (qatal), 3rd person, masculine, singular) | Hiph |
+| יְהֹוָ֤ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִים֙ | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| עַל | on | עַל | עלה | preposition |  |
+| הָאָ֔רֶץ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וְאָדָ֣ם | and a human — אָדָם without the article; 'a human' (compare 2:7 with the article) | ו: and + אָדָם | אדם | conjunction + noun (common, masculine, singular, absolute) | 2 |
+| אַ֔יִן | there is not — אַיִן: 'there is none' with ל 'to work' | אַ֫יִן | אין | particle (negative) | 3 |
+| לַֽעֲבֹ֖ד | to work — infinitive construct with ל | ל: to, for + עָבַד | עבד | preposition + verb (qal, infinitive construct) | Qal 1 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| הָֽאֲדָמָֽה׃ | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+
+Grammar:
+
+- The verse is a series of negatives: no tree, no plant, no rain, no human.
+- טֶרֶם with the imperfect means 'not yet'; the English past perfect 'had yet sprung up' gives the sense.
+- The first pair uses יִהְיֶה and יִצְמָח, the reason clause uses a qatal (הִמְטִיר) in the Hiphil.
+- וְאָדָם אַיִן is a verbless clause, with אַיִן 'there is not' and the infinitive לַעֲבֹד 'to work'.
+- The etnaḥta after יִצְמָח separates the two statements from the reasons.
+- הָאֲדָמָה is the cultivated ground, and אָדָם is the one made from it: a pun that the English cannot keep.
+
+Note: 'Tree' follows Ibn Ezra (and the Aramaic אילני); 'bush' or 'shrub' is the lexicon sense and is recorded. Rashi: 'not yet' (עד לא) is the meaning of טרם. The 'for' clause (no rain because no human to work the ground) is kept as the Hebrew has it; Rashi's explanation of why is recorded.
+
+Commentary:
+
+- Rashi (follows): Rashi: every טֶרֶם in Scripture means 'not yet', and is not 'before'; the trees and herbs had not yet come or sprung up, but stood at the opening of the soil until the sixth day.
+- Rashi (follows): Rashi: why had he not sent rain? Because there was no human to work the ground and no one to recognise the good of rain; when the human came and knew it was a need, he prayed and rain fell and the plants sprouted.
+- Rashi (follows): Rashi: the LORD is his name; God is the ruler and judge of all; so the pair means 'the LORD, who is God'.
+- Ibn Ezra (follows): Ibn Ezra: שִׂיחַ is a tree, as 'among the bushes they bray' (Job 30:7); in his view a fruit tree, since a human is compared to a tree.
+- Ramban (records): Ramban: on the plain sense, the earth brought out plants on day three but they would not sprout until the mist rose; 'field' means the cultivated place.
+- Radak (records): Radak: שִׂיחַ means a tree; the earth did not at once bring out its plants because there was no rain and no worker, and the mist came by the power of the luminaries.
+- Targum Onkelos (follows): Onkelos: 'all the trees of the field before they were in the earth ... for the LORD God had not sent rain, and there was no man to work the ground'.
 
 #### Genesis 2:6
 
 > וְאֵ֖ד יַֽעֲלֶ֣ה מִן־הָאָ֑רֶץ וְהִשְׁקָ֖ה אֶֽת־כׇּל־פְּנֵ֥י הָֽאֲדָמָֽה׃
 
-_Not yet translated._
+**But a mist rose from the earth and watered the whole surface of the ground.**
+
+Literal: and-mist it-goes-up from-the-earth and-he-watered [object-marker] all-of face-of the-ground
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאֵ֖ד | and a mist — אֵד 'mist, vapour' | ו: and + אֵד | אוד | conjunction + noun (common, masculine, singular, absolute) |  |
+| יַֽעֲלֶ֣ה | rose — yiqtol after the subject in a past setting; Rashi and Ibn Ezra paraphrase it as a past (הֶעֱלָה, עָלָה). It can also be read as repeated action, 'would go up' | עָלָה | עלה | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 1 |
+| מִן | from | מִן־ |  | preposition |  |
+| הָאָ֑רֶץ | the earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וְהִשְׁקָ֖ה | and watered — weqatal (וְ + qatal) after the yiqtol; Rashi paraphrases it as the past וְהִשְׁקָה, preparing the dust for 2:7. On the habitual reading, 'and would water' | ו: and + שָׁקָה | שׁקה | conjunction + verb (hifil, sequential perfect (weqatal), 3rd person, masculine, singular) | Hiph 1 |
+| אֶֽת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| כׇּל | the whole of | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| פְּנֵ֥י | surface of — פָּנִים 'face', construct plural: 'the surface' | פָּנֶה | פנה | noun (common, both genders, plural, construct) | I.5 |
+| הָֽאֲדָמָֽה׃ | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+
+Grammar:
+
+- יַעֲלֶה is a yiqtol after its subject, in a past setting. Rashi and Ibn Ezra read it as a past event: one rising of the mist before the human was formed. A yiqtol with a following weqatal can also describe repeated action ('a mist would rise and water').
+- וְהִשְׁקָה is a weqatal: a perfect with waw that continues the yiqtol before it.
+- The etnaḥta after הָאָרֶץ separates the rising from the watering.
+- The subject of וְהִשְׁקָה is 'the mist' (it watered); some read God as the one who waters.
+- אֵד is rare; here 'mist' is the sense given by Onkelos (cloud) and Ibn Ezra (smoke-like vapour).
+
+Note: The opening waw is read as 'but' because it sets the mist against the negatives of 2:5. 'Rose ... and watered' follows Rashi, who reads one act preparing the dust for the forming of the human (2:7), and Ibn Ezra's past paraphrase; the yiqtol and weqatal also allow a repeated action ('would rise and water'), recorded here. Saadia's view (that the clause says 'no mist rose') is recorded in Ibn Ezra's comment and not adopted. The subject of 'watered' is the mist.
+
+Commentary:
+
+- Rashi (follows): Rashi: this concerns the creation of the human. He brought up the deep and watered the clouds to soak the dust, and the human was created, like a kneader who puts in water and then kneads the dough: so here, first 'and watered', then 'and formed' (2:7).
+- Ibn Ezra (follows): Ibn Ezra: אֵד is like smoke (a cloud; 'day of their calamity' is a dark day); the mist rose by the power of the luminaries, watered the ground and made it grow; Saadia: 'and no mist rose', which the English does not adopt.
+- Targum Onkelos (follows): Onkelos: 'a cloud was rising from the earth and watered the whole face of the ground'.
+- Sforno (records): Sforno: when God ordered the days, a mist rose from the earth, a dew of blessing, which watered and made it grow without rain and without work.
 
 #### Genesis 2:7
 
 > וַיִּ֩יצֶר֩ יְהֹוָ֨ה אֱלֹהִ֜ים אֶת־הָֽאָדָ֗ם עָפָר֙ מִן־הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה׃
 
-_Not yet translated._
+**Then the LORD God formed the human out of dust from the ground, and blew into his nostrils the breath of life, and the human became a living being.**
+
+Literal: and-formed LORD God [object-marker] the-human dust from-the-ground and-blew in-his-nostrils breath-of life and-became the-human to-a-being living
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּ֩יצֶר֩ | and formed — wayyiqtol of a yod-initial root with the telisha accents; divine activity 'form, fashion' | ו: and + יָצַר | יצר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 2 |
+| יְהֹוָ֨ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֜ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| הָֽאָדָ֗ם | the human — הָאָדָם with the article: the human, the one taken from the ground (אֲדָמָה) | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| עָפָר֙ | dust — apposition to the object, or the material: 'dust' | עָפָר | עפר | noun (common, masculine, singular, absolute) |  |
+| מִן | from | מִן־ |  | preposition |  |
+| הָ֣אֲדָמָ֔ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| וַיִּפַּ֥ח | and blew — wayyiqtol: 'breathe, blow' | ו: and + נָפַח | נפח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal |
+| בְּאַפָּ֖יו | into his nostrils — dual אַפַּיִם 'nostrils' with suffix 'his' | ב: in, with, by + אַף | אנף | preposition + noun (common, masculine, dual, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| נִשְׁמַ֣ת | the breath of — נְשָׁמָה: breath; construct state | נְשָׁמָה | נשׁם | noun (common, feminine, singular, construct) |  |
+| חַיִּ֑ים | life — חַיִּים: plural of intensity, 'life' | חַיִּים | חיה | noun (common, masculine, plural, absolute) | 1 |
+| וַיְהִ֥י | and became — wayyiqtol, 'and it came to be' | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal II.2 |
+| הָֽאָדָ֖ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| לְנֶ֥פֶשׁ | a being — נֶפֶשׁ: 'that which breathes', 'living being'; ל 'to' marks the predicate: 'became to a living being' | ל: to, for + נֶ֫פֶשׁ | נפשׁ | preposition + noun (common, both genders, singular, absolute) | 1 |
+| חַיָּֽה׃ | living — feminine adjective agreeing with נֶפֶשׁ | חַי | חיה | adjective (adjective, feminine, singular, absolute) | 1.c |
+
+Grammar:
+
+- וַיִּיצֶר is a Qal wayyiqtol of a yod-initial verb; Rashi reads its two yods as two formings.
+- עָפָר מִן־הָאֲדָמָה: 'dust from the ground' may be in apposition to 'the human' or may be the material of forming.
+- בְּאַפָּיו is dual and means 'in his nostrils'; Ibn Ezra: through them a person lives.
+- וַיְהִי ... לְנֶפֶשׁ חַיָּה: 'became to a living being' uses ל to mark what he became.
+- A word-play: הָאָדָם 'the human' is made from הָאֲדָמָה 'the ground'.
+- The accents: the geresh on אֱלֹהִים closes the subject, the revia on הָאָדָם closes the object, the zaqef on הָאֲדָמָה ends the material; the etnaḥta after חַיִּים divides the forming and the breathing from the becoming.
+
+Note: 'The human' with the article follows decisions.md. 'Living being' is the lexicon sense of נֶפֶשׁ חַיָּה; Rashi notes that animals are also called this, and that the human's is the liveliest, because he has knowledge and speech. Ibn Ezra adds that he could walk at once, like animals, not like infants.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: two formings (two yods): one for this world and one for the resurrection; an animal, which is not subject to judgement, has no double yod. A homily on the spelling.
+- Rashi (records): Rashi: he gathered his dust from the whole ground, from the four directions, so that wherever he dies the earth will receive him; or from the altar place. Not adopted for the English line.
+- Rashi (not-applicable): Rashi: he made him of the lower and upper beings: body of the lower, soul of the upper; a homily on the days of creation.
+- Rashi (follows): Rashi: even beast and animal are called 'living being', but the human is the most alive of them, since knowledge and speech are added.
+- Ibn Ezra (records): Ibn Ezra: he formed him by the power of the luminaries; a form like 'and Noah awoke' (Gen 9:24), a yod-initial verb of the light stem.
+- Ibn Ezra (follows): Ibn Ezra: 'in his nostrils' because by them a human lives: they send out the warm air from the heat of the heart and bring in other air.
+- Ibn Ezra (follows): Ibn Ezra: 'a living being' means he walked at once like the animals, and not like infants.
+- Radak (follows): Radak: נִשְׁמַת חַיִּים is a breath of life breathed in from the higher spirits; נְשָׁמָה is the special name for the human soul.
+- Targum Onkelos (records): Onkelos: 'and it became in man a speaking spirit' (רוח ממללא), reading נפש חיה as the faculty of speech.
+- Sforno (records): Sforno: with all this he was only a living being, not yet speaking, until he was made in the image and likeness.
 
 #### Genesis 2:8
 
 > וַיִּטַּ֞ע יְהֹוָ֧ה אֱלֹהִ֛ים גַּן־בְּעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם אֶת־הָֽאָדָ֖ם אֲשֶׁ֥ר יָצָֽר׃
 
-_Not yet translated._
+**The LORD God planted a garden in Eden, in the east, and put there the human whom he had formed.**
+
+Literal: and-planted LORD God garden in-Eden from-east and-put there [object-marker] the-human whom he-formed
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּטַּ֞ע | and planted — wayyiqtol; the garden was planted already, now the human is put in it (Ibn Ezra) | ו: and + נָטַע | נטע | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יְהֹוָ֧ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֛ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| גַּן | a garden — גַּן: enclosure, garden; bound by the maqqef to בְּעֵדֶן | גַּן | גנן | noun (common, both genders, singular, absolute) |  |
+| בְּעֵ֖דֶן | in Eden — עֵדֶן: a place name; 'Eden' | ב: in, with, by + עֵ֫דֶן | עדן | preposition + noun (proper name) |  |
+| מִקֶּ֑דֶם | in the east — מִקֶּדֶם: 'from the front, east'; Rashi, Radak: 'in the east of Eden'; Onkelos 'anciently' is the other sense | מ: from, than + קֶ֫דֶם | קדם | preposition + noun (common, masculine, singular, absolute) | 1.b |
+| וַיָּ֣שֶׂם | and put — wayyiqtol | ו: and + שׂוּם | שׂום | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1.a |
+| שָׁ֔ם | there | שָׁם |  | adverb |  |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| הָֽאָדָ֖ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| אֲשֶׁ֥ר | whom | אֲשֶׁר | אשׁר | particle (relative) |  |
+| יָצָֽר׃ | he had formed — qatal in a relative clause, with 'had' to place it before 'put' | יָצַר | יצר | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+
+Grammar:
+
+- וַיִּטַּע and וַיָּשֶׂם are two wayyiqtols, 'planted' and 'put', with the same subject.
+- מִקֶּדֶם: 'from the east' or 'from of old'. Rashi and Ibn Ezra read it as a place, 'in the east of Eden'; Onkelos (מִלְּקַדְמִין) and Ramban read it as time.
+- אֲשֶׁר יָצָר refers back to וַיִּיצֶר in 2:7.
+- The etnaḥta after מִקֶּדֶם divides the planting from the placing of the human.
+- גַּן־בְּעֵדֶן is bound by the maqqef: 'a garden-in-Eden'.
+
+Note: 'In the east' follows Rashi and Radak; Onkelos and Genesis Rabbah read 'of old', and this is recorded. The relative clause 'whom he had formed' looks back to 2:7. The article on הָאָדָם is kept ('the human'); Ibn Ezra says it holds a secret.
+
+Commentary:
+
+- Rashi (follows): Rashi: in the east of Eden he planted the garden. The general-then-particular rule (Rabbi Eliezer son of Yose the Galilean): 'he created the human' is the general; 'and the LORD God formed' ... is the particular of the first.
+- Ibn Ezra (follows): Ibn Ezra: he had already planted a garden in a place called Eden, on the east side, and now put the human in it; the ב of 'in Eden' serves itself and another: 'in Eden, in the garden of God'.
+- Ibn Ezra (records): Ibn Ezra: the ה of הָאָדָם has a secret; also found in 'the Manasseh tribe', 'the Araunah, the Jebusite'; or it may be because the word is both a proper name and a description.
+- Ramban (records): Ramban: Rashi explains 'in the east of Eden'; Onkelos renders 'of old' (מִלְּקַדְמִין), as Genesis Rabbah says, "וְהוּא הַנָּכוֹן": that is the correct reading. 'Planted' does not mean the trees were brought from elsewhere; it marks them as the LORD's own planting, set out in order as a garden and lasting for ever.
+- Radak (follows): Radak: וַיִּטַּע means he brought it into existence there on the third day.
+- Radak (follows): Radak: מִקֶּדֶם means on the east side.
+- Radak (follows): Radak: 'and put there' means he was not formed there; perhaps near the garden, and told to dwell in it.
+- Targum Onkelos (records): Onkelos: 'a garden in Eden anciently (מלקדמין)', reading מקדם as time.
+- Sforno (records): Sforno: having formed him as described, he left him there in a place ready to receive the image of God.
+
+Apparatus:
+
+- בְּעֵ֖דֶן: WLC reads בְעֵ֖דֶן (vowels)
 
 #### Genesis 2:9
 
 > וַיַּצְמַ֞ח יְהֹוָ֤ה אֱלֹהִים֙ מִן־הָ֣אֲדָמָ֔ה כׇּל־עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע׃
 
-_Not yet translated._
+**The LORD God made grow from the ground every tree desirable to look at and good for food, and the tree of life in the middle of the garden, and the tree of the knowledge of good and evil.**
+
+Literal: and-made-grow the-LORD God from-the-ground every-of tree desirable for-sight and-good for-food and-tree-of the-life in-midst-of the-garden and-tree-of the-knowledge good and-evil
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיַּצְמַ֞ח | and (he) caused to grow — wayyiqtol, Hiphil of צמח: 'he made sprout'; the narrative sequence continues from 2:8 | ו: and + צָמַח | צמח | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| יְהֹוָ֤ה | the LORD — the divine name, read 'the LORD' | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִים֙ | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| מִן | from | מִן־ |  | preposition | 2 |
+| הָ֣אֲדָמָ֔ה | the ground — אֲדָמָה, the soil from which the human was formed (2:7) | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| כׇּל | every — construct; כָּל־ binds to the next word | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| עֵ֛ץ | tree — collective-singular use: 'every tree' | עֵץ | עצה | noun (common, masculine, singular, absolute) | 1.a |
+| נֶחְמָ֥ד | desirable — Niphal participle of חמד: 'to be desired' | חָמַד | חמד | verb (nifal, participle active, masculine, singular, absolute) | Niph |
+| לְמַרְאֶ֖ה | to look at — לְ + מַרְאֶה: literally 'for sight' | ל: to, for + מַרְאֶה | ראה | preposition + noun (common, masculine, singular, absolute) | 1.b |
+| וְט֣וֹב | and good | ו: and + טוֹב | טוב | conjunction + adjective (adjective, masculine, singular, absolute) | 1 |
+| לְמַאֲכָ֑ל | for food — מַאֲכָל, 'something to eat' | ל: to, for + מַאֲכָל | אכל | preposition + noun (common, masculine, singular, absolute) |  |
+| וְעֵ֤ץ | and the tree of — construct state | ו: and + עֵץ | עצה | conjunction + noun (common, masculine, singular, construct) | 1.a |
+| הַֽחַיִּים֙ | life — חַיִּים, plural in form, singular in sense; the article marks 'the tree of life' | ה: the + חַיִּים | חיה | particle (definite article) + noun (common, masculine, plural, absolute) | 1 |
+| בְּת֣וֹךְ | in the middle of — construct; Rashi: בָּאֶמְצַע | ב: in, with, by + תָּ֫וֶךְ |  | preposition + noun (common, masculine, singular, construct) |  |
+| הַגָּ֔ן | the garden | ה: the + גַּן | גנן | particle (definite article) + noun (common, both genders, singular, absolute) |  |
+| וְעֵ֕ץ | and the tree of — construct: 'and the tree of', bound to הַדַּעַת | ו: and + עֵץ | עצה | conjunction + noun (common, masculine, singular, construct) | 1.a |
+| הַדַּ֖עַת | the knowledge — דַּעַת with the article. Because it is definite it cannot be a construct governing טוֹב וָרָע, so Ibn Ezra supplies a second דַּעַת: 'the knowledge, (the knowledge of) good and evil'. | ה: the + דַּ֫עַת | ידע | particle (definite article) + noun (common, feminine, singular, absolute) | 1.a |
+| ט֥וֹב | of good — טוֹב as a noun, 'the good' | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 4 |
+| וָרָֽע׃ | and evil — רָע, with pausal qamets under silluq | ו: and + רַע | רעע | conjunction + adjective (adjective, masculine, singular, absolute) | 3 |
+
+Grammar:
+
+- וַיַּצְמַח is a wayyiqtol Hiphil: the LORD God is the cause of the growth.
+- נֶחְמָד is a Niphal participle: 'desirable' (literally 'being desired'); it and טוֹב are both adjectival predicates of עֵץ.
+- The etnaḥta on לְמַאֲכָל ends the first half: all trees; the second half names the two special trees.
+- עֵץ הַדַּעַת טוֹב וָרָע: the Hebrew has no word between הַדַּעַת and טוֹב. The construct chain is elliptical, 'tree of the knowledge (of) good and evil'.
+- Ibn Ezra's reading: the text means 'the tree of the knowledge, the knowledge of good and evil' (he compares הָאָרוֹן הַבְּרִית), which is how the English line is built.
+
+Note: בְּתוֹךְ is rendered 'in the middle of' with Rashi and Radak (Targum Onkelos: בִּמְצִיעוּת גִּנְּתָא). Whether both trees stand at the one point or the middle is a broad area (Ramban) is left open by the Hebrew. 'Knowledge' stays a bare noun, 'of good and evil' being its content, following Ibn Ezra's supplied 'knowledge'.
+
+Commentary:
+
+- Rashi (follows): Rashi: the verse speaks of the garden; the growth is that of the trees in Eden, not of the earth at large.
+- Rashi (follows): Rashi glosses בְּתוֹךְ as בָּאֶמְצַע, 'in the middle'.
+- Ibn Ezra (follows): Ibn Ezra: when He caused every tree to sprout from the ground, so it grew in the garden, and in addition two trees in its midst.
+- Ibn Ezra (follows): Ibn Ezra: a second 'knowledge' has to be supplied, 'and the tree of the knowledge, the knowledge of good and evil'. How could הַדַּעַת be in construct when it is already made definite (by the article)? He compares הָאָרוֹן הַבְּרִית (Josh 3:14) and וְהַנְּבוּאָה עֹדֵד הַנָּבִיא (2 Chr 15:8).
+- Ramban (records): Ramban: since the text says בְּתוֹךְ הַגָּן and not בַּגָּן, it means a known central place in the garden (so Onkelos, בִּמְצִיעוּת גִּנְּתָא), a broad central bed holding both trees. He rejects the view that the fruit of knowledge aroused sexual desire, and holds that it gave will and choice: to want a thing or its opposite, for good or for evil.
+- Radak (records): Radak: the trees were lovely in height, leaves and species, and their fruit good to eat; the garden is reserved for the messianic age.
+
+Apparatus:
+
+- No textual variant in this verse; the pack reports none.
 
 #### Genesis 2:10
 
 > וְנָהָר֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת־הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה רָאשִֽׁים׃
 
-_Not yet translated._
+**A river flows out of Eden to water the garden, and from there it divides and becomes four headwaters.**
+
+Literal: and-river going-out from-Eden to-water ACC the-garden and-from-there it-divides and-became into-four heads
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְנָהָר֙ | and a river — ו introduces a new scene; no verb 'was' is needed | ו: and + נָהָר | נהר | conjunction + noun (common, masculine, singular, absolute) |  |
+| יֹצֵ֣א | flowing out — participle: continuing action, 'a river is going out' | יָצָא | יצא | verb (qal, participle active, masculine, singular, absolute) | Qal 1 |
+| מֵעֵ֔דֶן | from Eden | מ: from, than + עֵ֫דֶן | עדן | preposition + noun (proper name) |  |
+| לְהַשְׁק֖וֹת | to water — Hiphil infinitive construct of שקה, 'to give drink to', with ל of purpose | ל: to, for + שָׁקָה | שׁקה | preposition + verb (hifil, infinitive construct) | Hiph 1 |
+| אֶת | (object marker) — marks the garden as direct object | אֵת | אות | particle (direct object marker) |  |
+| הַגָּ֑ן | the garden | ה: the + גַּן | גנן | particle (definite article) + noun (common, both genders, singular, absolute) |  |
+| וּמִשָּׁם֙ | and from there | ו: and + מ: from, than + שָׁם |  | conjunction + preposition + adverb |  |
+| יִפָּרֵ֔ד | it divides — Niphal imperfect of פרד: 'it separates itself' | פָּרַד | פרד | verb (nifal, imperfect (yiqtol), 3rd person, masculine, singular) | Niph 2 |
+| וְהָיָ֖ה | and it becomes — perfect with ו: the sequence continues after the yiqtol | ו: and + הָיָה | היה | conjunction + verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal II.2 |
+| לְאַרְבָּעָ֥ה | into four — לְ + number: 'become four' | ל: to, for + אַרְבַּע | רבע | preposition + adjective (cardinal number, masculine, singular, absolute) |  |
+| רָאשִֽׁים׃ | heads — literally 'heads': heads of the four streams that begin there | רֹאשׁ | ראשׁ | noun (common, masculine, plural, absolute) | 4.c |
+
+Grammar:
+
+- יֹצֵא is a participle with no auxiliary: the river is going out of Eden as a standing fact.
+- לְהַשְׁקוֹת is Hiphil: 'to cause to drink', hence 'to water'.
+- יִפָּרֵד is a Niphal yiqtol (it is divided, it splits). וְהָיָה is a weqatal, ו with the perfect, which continues the yiqtol with the same continuing sense: 'and becomes'.
+- רָאשִׁים is the plural of רֹאשׁ 'head'. The four 'heads' are named in the next verses.
+- The pashta on וּמִשָּׁם and the zaqef on יִפָּרֵד set 'from there it divides' as a unit.
+
+Note: רָאשִׁים is rendered 'headwaters': the 'heads' are the four beginnings of rivers (Radak: 'parts, since each part is the head of what comes out of it'). Whether the river first enters the garden and divides after leaving it (Radak) is not stated by the Hebrew. WLC vowels the first word with a dagesh in the resh; the base text here does not (see apparatus).
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: even before the human was created the river was watering the garden on every side.
+- Ibn Ezra (follows): Ibn Ezra: the alef of רָאשִׁים is a root letter, as in מַרְאֲשׁוֹתֵיכֶם; the word is 'head'.
+- Radak (follows): Radak: after it has watered the garden it leaves and is divided into four parts, each called a river.
+- Radak (follows): Radak: רָאשִׁים means parts, because each part is the head of the stream that goes out from it.
+- Sforno (not-applicable): Sforno: the river irrigated without rain or human labour; a comment on the garden's ease, not on the wording.
+
+Apparatus:
+
+- 2:10.1 vowels: WLC reads וְנָהָרּ֙ (with dagesh); the base text וְנָהָר֙ is followed.
+- WLC note p: punctuation in L is read differently from BHS.
+- וְנָהָר֙: WLC reads וְנָהָרּ֙ (vowels)
 
 #### Genesis 2:11
 
 > שֵׁ֥ם הָֽאֶחָ֖ד פִּישׁ֑וֹן ה֣וּא הַסֹּבֵ֗ב אֵ֚ת כׇּל־אֶ֣רֶץ הַֽחֲוִילָ֔ה אֲשֶׁר־שָׁ֖ם הַזָּהָֽב׃
 
-_Not yet translated._
+**The name of the first is Pishon; it is the one that encircles the whole land of Havilah, where the gold is.**
+
+Literal: name-of the-one Pishon he the-encircling ACC all-of land-of the-Havilah which-there the-gold
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| שֵׁ֥ם | the name of — construct | שֵׁם |  | noun (common, masculine, singular, construct) | 3 |
+| הָֽאֶחָ֖ד | the first — הָאֶחָד, 'the one', used for 'the first' | ה: the + אֶחָד | אחד | particle (definite article) + adjective (cardinal number, masculine, singular, absolute) | 7 |
+| פִּישׁ֑וֹן | Pishon — a river name | פִּישׁוֹן |  | noun (proper name) |  |
+| ה֣וּא | it — הוּא as copula: 'it is' | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| הַסֹּבֵ֗ב | the one encircling — article plus participle: 'the one that goes around' | ה: the + סָבַב | סבב | particle (definite article) + verb (qal, participle active, masculine, singular, absolute) | Qal 2.d |
+| אֵ֚ת | (object marker) — the object marker. Its accent is yetiv, a prepositive disjunctive accent: it is written before the word and so does not mark the stressed syllable. | אֵת | אות | particle (direct object marker) |  |
+| כׇּל | the whole of | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| אֶ֣רֶץ | land of — construct | אֶ֫רֶץ | ארץ | noun (common, both genders, singular, construct) | 2 |
+| הַֽחֲוִילָ֔ה | the Havilah — a land; the article is idiomatic with the name | ה: the + חֲוִילָה |  | particle (definite article) + noun (proper name) |  |
+| אֲשֶׁר | where — אֲשֶׁר + שָׁם = 'where' | אֲשֶׁר | אשׁר | particle (relative) |  |
+| שָׁ֖ם | there | שָׁם |  | adverb |  |
+| הַזָּהָֽב׃ | the gold — with the article, 'the gold' known of that land | ה: the + זָהָב | זהב | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+
+Grammar:
+
+- שֵׁם הָאֶחָד has no 'is': the verse is a nominal clause, 'the name of the first (river): Pishon'.
+- הוּא הַסֹּבֵב is a pronoun with an article-plus-participle: 'he, the encircler'.
+- אֲשֶׁר־שָׁם 'which-there' is the idiom for 'where'.
+- The revia on הַסֹּבֵב marks a pause before the object, and the zaqef on הַחֲוִילָה before the relative clause.
+- Each of the four names is introduced by שֵׁם and a number; the pattern runs from 2:11 to 2:14.
+
+Note: The English does not identify the river. Rashi says Pishon is the Nile of Egypt, named from its rising waters or from flax (פִּשְׁתָּן); Ibn Ezra reports the Gaon's identification as the Nile, doubts it from the geography, and says it is unproved. The Hebrew gives only name, circuit and the gold of Havilah. 'Encircle' for סבב fits Qal 2.d 'surround, encompass'.
+
+Commentary:
+
+- Rashi (records): Rashi: Pishon is the Nile, named for its waters rising and irrigating the land (cf. וּפָשׁוּ פָרָשָׁיו) or for flax (cf. עֹבְדֵי פִשְׁתִּים of Egypt); the identification and etymology are kept here, not in the English line.
+- Ibn Ezra (follows): Ibn Ezra: the Gaon said Pishon is the river of Egypt (the Nile). Ibn Ezra sets out the geography: Gihon is near the land of Israel, the Euphrates and Tigris are eastern, the Nile rises far south of the equator, and Eden lies under the equator. Pishon would then have to run south-west and turn back north. There is no proof that Pishon is the Nile: the Gaon rendered Havilah as he needed, without a tradition. The gold is mentioned in honour of the river that comes out of the garden.
+- Ramban (records): Ramban: 'where the gold is' shows that this is not the Havilah of Egypt (25:18), for this one is in the farthest east. Bdellium and onyx are named in praise of the river, since such gold and gems are found in the sand of rivers. On the earlier view (Rashi, Saadia), Pishon is the Nile, which encircles this Havilah and then runs through Egypt to the sea at Alexandria.
+- Radak (records): Radak: Havilah lies near Eden and is praised for what it yields, as the garden is praised for trees and fruit.
+- Radak (follows): Radak: the article on הַזָּהָב is because gold is found elsewhere too, but here it is plentiful and good.
+- Sforno (not-applicable): Sforno: the verse praises the river that waters the garden by naming its branches known to us; a comment on purpose.
 
 #### Genesis 2:12
 
 > וּֽזְהַ֛ב הָאָ֥רֶץ הַהִ֖וא ט֑וֹב שָׁ֥ם הַבְּדֹ֖לַח וְאֶ֥בֶן הַשֹּֽׁהַם׃
 
-_Not yet translated._
+**The gold of that land is good; bdellium is there, and onyx stone.**
+
+Literal: and-gold-of the-land the-that good there the-bdellium and-stone-of the-onyx
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וּֽזְהַ֛ב | and the gold of — construct; the lexicon lists only 'golden oil' for this entry, which does not fit; plain 'gold' | ו: and + זָהָב | זהב | conjunction + noun (common, masculine, singular, construct) |  |
+| הָאָ֥רֶץ | the land | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 2 |
+| הַהִ֖וא | that — הַהִוא, feminine, agreeing with הָאָרֶץ | ה: the + הוּא |  | particle (definite article) + pronoun (personal, 3rd person, feminine, singular) | 1 |
+| ט֑וֹב | good | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 3 |
+| שָׁ֥ם | there | שָׁם |  | adverb |  |
+| הַבְּדֹ֖לַח | the bdellium — a resin or a small round stone: Ibn Ezra reports the Gaon's 'small round stones' | ה: the + בְּדֹ֫לַח | בדל | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| וְאֶ֥בֶן | and the stone of — construct | ו: and + אֶ֫בֶן | אבן | conjunction + noun (common, feminine, singular, construct) | 3 |
+| הַשֹּֽׁהַם׃ | the onyx — שֹׁהַם: a precious stone, white and clear according to Ibn Ezra and Radak; identity uncertain | ה: the + שֹׁ֫הַם |  | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+
+Grammar:
+
+- הַהִוא is the feminine 'that', agreeing with הָאָרֶץ. In the Torah the feminine pronoun is regularly written הִוא and read hi.
+- Both clauses are nominal: no 'is'. The etnaḥta falls after טוֹב.
+- שָׁם before the noun puts weight on the place: 'there is the bdellium'.
+- וְאֶבֶן הַשֹּׁהַם is a construct chain, 'the stone of the onyx', while בְּדֹלַח has no 'stone' (Radak: it is too small to work).
+- The articles on הַבְּדֹלַח and הַשֹּׁהַם present them as the known goods of that land.
+
+Note: בְּדֹלַח and שֹׁהַם are of uncertain identity. Ibn Ezra and Radak take bdellium as a small round white stone (Num 11:7) and onyx as a fine white stone; the conventional 'bdellium' and 'onyx' are kept, and the other identifications are recorded here. The BDB entry for זָהָב offers only sense 10, which does not fit; the plain sense 'gold' is used. WLC vowels the first word with a hataf patah; the base text has a shewa.
+
+Commentary:
+
+- Ibn Ezra (records): Ibn Ezra: the Gaon said bdellium is the small round fine stones that come out of the water, and that the manna was likened to them. But Scripture compares only the manna's appearance (עֵינוֹ, Num 11:7). The Gaon says onyx is a precious white, clear stone. 'And we do not know.'
+- Radak (records): Radak: bdellium is a small white round stone, said to form from dew drops; it is strung on a thread, so the text does not say 'stone of bdellium'.
+- Radak (records): Radak: onyx is a large white pure stone used for kings' vessels; the names of Israel's sons were engraved on it.
+
+Apparatus:
+
+- 2:12.1 vowels: WLC reads וּֽזֲהַ֛ב (hataf patah); the base text וּֽזְהַ֛ב is followed.
+- וּֽזְהַ֛ב: WLC reads וּֽזֲהַ֛ב (vowels)
 
 #### Genesis 2:13
 
 > וְשֵֽׁם־הַנָּהָ֥ר הַשֵּׁנִ֖י גִּיח֑וֹן ה֣וּא הַסּוֹבֵ֔ב אֵ֖ת כׇּל־אֶ֥רֶץ כּֽוּשׁ׃
 
-_Not yet translated._
+**The name of the second river is Gihon; it is the one that encircles the whole land of Cush.**
+
+Literal: and-name-of the-river the-second Gihon he the-encircling ACC all-of land-of Cush
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְשֵֽׁם | and the name of — construct: 'and the name of' | ו: and + שֵׁם |  | conjunction + noun (common, masculine, singular, construct) | 3 |
+| הַנָּהָ֥ר | the river | ה: the + נָהָר | נהר | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| הַשֵּׁנִ֖י | the second | ה: the + שֵׁנִי | שׁנה | particle (definite article) + adjective (ordinal number, masculine, singular, absolute) |  |
+| גִּיח֑וֹן | Gihon — Rashi: named for its loud roaring, like כִּי יִגַּח 'gores' (Ex 21:28, from נגח). Radak and the lexicon: from גיח 'burst forth'. | גִּיחוֹן | גיח | noun (proper name) |  |
+| ה֣וּא | it | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| הַסּוֹבֵ֔ב | the one encircling | ה: the + סָבַב | סבב | particle (definite article) + verb (qal, participle active, masculine, singular, absolute) | Qal 2.d |
+| אֵ֖ת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| כׇּל | the whole of | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| אֶ֥רֶץ | land of | אֶ֫רֶץ | ארץ | noun (common, both genders, singular, construct) | 2 |
+| כּֽוּשׁ׃ | Cush — a land and people, usually south of Egypt; Rashi: written by the name it later bore | כּוּשׁ | כושׁ | noun (proper name) |  |
+
+Grammar:
+
+- The verse is a copy of 2:11 in form: name, number, 'he the encircling'.
+- הוּא הַסּוֹבֵב is pronoun plus article and participle, 'he who encircles'.
+- The etnaḥta on גִּיחוֹן divides the name from the description. The zaqef qaton on הַסּוֹבֵב marks the pause before the object, and the silluq on כּוּשׁ closes the verse.
+- Radak notes that the river does not go from one side to the others: the land itself is what is encircled.
+- Rashi explains גִּיחוֹן by its great roaring, comparing כִּי יִגַּח (Ex 21:28, 'gores'). Radak takes it from גיח 'burst forth' (Job 40:23), because it sends out many branches.
+
+Note: The name receives its meaning in Rashi (surging, roaring, from גִּיחַ) and in Radak (a river that sends out many branches); neither belongs in the English line. 'Cush' is kept as a plain transliteration. The text does not say where Cush lies; Radak puts it in the south.
+
+Commentary:
+
+- Rashi (records): Rashi: Gihon is so named because it goes on roaring, and its roaring is very great, like כִּי יִגַּח (Ex 21:28): it gores, goes on and roars.
+- Radak (follows): Radak: the river does not go from one quarter to another; it is the land itself that is encircled.
+- Radak (records): Radak: Gihon is from the sense of going forth, since it divides into many branches in the land of Cush.
 
 #### Genesis 2:14
 
 > וְשֵׁ֨ם הַנָּהָ֤ר הַשְּׁלִישִׁי֙ חִדֶּ֔קֶל ה֥וּא הַֽהֹלֵ֖ךְ קִדְמַ֣ת אַשּׁ֑וּר וְהַנָּהָ֥ר הָֽרְבִיעִ֖י ה֥וּא פְרָֽת׃
 
-_Not yet translated._
+**The name of the third river is the Tigris; it is the one that flows east of Assyria. And the fourth river is the Euphrates.**
+
+Literal: and-name-of the-river the-third Hiddekel he the-going east-of Asshur and-the-river the-fourth he Perat
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְשֵׁ֨ם | and the name of — construct | ו: and + שֵׁם |  | conjunction + noun (common, masculine, singular, construct) | 3 |
+| הַנָּהָ֤ר | the river | ה: the + נָהָר | נהר | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| הַשְּׁלִישִׁי֙ | the third | ה: the + שְׁלִישִׁי | שׁלשׁ | particle (definite article) + adjective (ordinal number, masculine, singular, absolute) |  |
+| חִדֶּ֔קֶל | the Tigris — the Hebrew חִדֶּקֶל, Hiddekel; Rashi: from חַדִּין וְקַלִּין, 'sharp and swift' | חִדֶּ֫קֶל |  | noun (proper name) |  |
+| ה֥וּא | it | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| הַֽהֹלֵ֖ךְ | the one flowing — participle with article: 'the one that goes'. Of a river, 'flows'. The entry's listed Qal senses (die; live, walk) do not fit, so none is cited. | ה: the + הָלַךְ | הלך | particle (definite article) + verb (qal, participle active, masculine, singular, absolute) |  |
+| קִדְמַ֣ת | east of — קִדְמַת: the ת of the construct stands for the directive ה (Ibn Ezra) | קִדְמָה | קדם | noun (common, feminine, singular, construct) |  |
+| אַשּׁ֑וּר | Assyria — אַשּׁוּר, Asshur; Rashi: not yet existing, written by its future name | אַשּׁוּר |  | noun (proper name) |  |
+| וְהַנָּהָ֥ר | and the river | ו: and + ה: the + נָהָר | נהר | conjunction + particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| הָֽרְבִיעִ֖י | the fourth | ה: the + רְבִיעִי | רבע | particle (definite article) + adjective (ordinal number, masculine, singular, absolute) |  |
+| ה֥וּא | it — pronoun as copula: 'is' | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| פְרָֽת׃ | the Euphrates — פְּרָת; Rashi: from פָּרִין וְרָבִין 'fruitful and many'; the article is lacking | פְּרָת |  | noun (proper name) |  |
+
+Grammar:
+
+- The third river has the same frame as 2:11 and 2:13; the fourth has no 'name of', only 'the fourth river, it is Perat'.
+- קִדְמַת is the construct of קִדְמָה, 'east'; Ibn Ezra reads the ת as the sign of a construct standing for the directive ה, 'to the east of Asshur'.
+- הַהֹלֵךְ is a participle with article: 'the one that goes'.
+- פְרָת has no 'name of' and no gloss because the river was well known, nearest to the land of Israel (Radak).
+- Rashi says Cush and Asshur 'did not yet exist': the text writes by the names of the future.
+
+Note: 'Tigris' is the familiar English form of חִדֶּקֶל (Hiddekel); 'Euphrates' of פְּרָת (Perat); 'Assyria' of אַשּׁוּר. The meaning of each name goes in the notes, not in the English line (per decisions). The simple clause 'east of Assyria' follows Rashi and Ibn Ezra: toward the east of it, not 'in front of'.
+
+Commentary:
+
+- Rashi (records): Rashi: Hiddekel is so named because its waters are sharp (חַדִּין) and swift (קַלִּין); the etymology is kept in the notes.
+- Rashi (records): Rashi: Perat is so named because its waters are fruitful (פָּרִין) and multiply (רָבִין) and make people healthy (מַבְרִין). Cush and Asshur did not yet exist: Scripture writes by the future name.
+- Rashi (follows): Rashi: קִדְמַת אַשּׁוּר means toward the east of Assyria.
+- Rashi (records): Rashi: the Euphrates is the most important of them all, mentioned by the name of the land of Israel.
+- Ibn Ezra (follows): Ibn Ezra: the ת of קִדְמַת stands in place of ה, as in וַיֵּרֶד אַבְרָם מִצְרַיְמָה: 'toward the east of Asshur'.
+- Radak (follows): Radak: it goes and extends to the east of the land of Assyria and does not encircle it; it is called Hiddekel from its waters being sharp and swift.
+- Radak (records): Radak cites the Rabbis (Genesis Rabbah 16): R. Yehudah says Perat is the same river as Kevar (Ezekiel's Chebar), named for its fruitful and increasing waters, and Rav Huna says Perat and Kevar are separate rivers. Perat is not tied to any land because it is known on the border of the land of Israel. The four rivers mark the four quarters, and the account shows that Moses wrote by the holy spirit.
 
 #### Genesis 2:15
 
 > וַיִּקַּ֛ח יְהֹוָ֥ה אֱלֹהִ֖ים אֶת־הָֽאָדָ֑ם וַיַּנִּחֵ֣הוּ בְגַן־עֵ֔דֶן לְעׇבְדָ֖הּ וּלְשׇׁמְרָֽהּ׃
 
-_Not yet translated._
+**The LORD God took the human and set him in the garden of Eden to work it and guard it.**
+
+Literal: and-took the-LORD God ACC the-human and-set-him in-garden-of Eden to-work-it and-to-guard-it
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּקַּ֛ח | and (he) took — wayyiqtol Qal of לקח; the narrative resumes from 2:8 | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 7 |
+| יְהֹוָ֥ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֖ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| הָֽאָדָ֑ם | the human — הָאָדָם with the article: 'the human' | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| וַיַּנִּחֵ֣הוּ | and (he) set him — Hiphil wayyiqtol of נוח, the form with doubled נ (הִנִּיחַ 'set down, place, leave'), with the 3rd masculine singular suffix: 'and he set him' | ו: and + יָנַח | נוח | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, masculine, singular) | Hiph B.1 |
+| בְגַן | in the garden of — construct; גַּן is of either gender, which explains the feminine suffixes after (Ibn Ezra) | ב: in, with, by + גַּן | גנן | preposition + noun (common, both genders, singular, construct) |  |
+| עֵ֔דֶן | Eden | עֵ֫דֶן | עדן | noun (proper name) |  |
+| לְעׇבְדָ֖הּ | to work it — infinitive construct with ל and feminine suffix 'it': the garden | ל: to, for + עָבַד | עבד | preposition + verb (qal, infinitive construct) + suffix (pronominal, 3rd person, feminine, singular) | Qal 1 |
+| וּלְשׇׁמְרָֽהּ׃ | and to guard it — infinitive construct with ל and feminine suffix | ו: and + ל: to, for + שָׁמַר | שׁמר | conjunction + preposition + verb (qal, infinitive construct) + suffix (pronominal, 3rd person, feminine, singular) | Qal 1.b |
+
+Grammar:
+
+- וַיַּנִּחֵהוּ is Hiphil of נוח with a pronominal suffix. The doubled נ marks the Hiphil הִנִּיחַ 'set down, place', not הֵנִיחַ 'give rest': 'and he set him'. It is a different verb from וַיָּשֶׂם in 2:8.
+- The feminine suffixes in לְעָבְדָהּ וּלְשָׁמְרָהּ point to the garden, since גַּן may be feminine (Ibn Ezra); Radak also allows that they point to the ground.
+- The tevir on וַיִּקַּח and the etnaḥta on הָאָדָם divide the verse into 'took the human' and 'put him in the garden'.
+- Two infinitives with ל state purpose: 'to work it and to guard it'.
+- The wayyiqtol chain: took, set. The first repeats the 'put' of 2:8, adding purpose (Radak).
+
+Note: The suffix of לְעָבְדָהּ וּלְשָׁמְרָהּ is feminine; Ibn Ezra takes it to refer to the garden (גַּן being of either gender), against those who refer it to הָאֲדָמָה (the ground), and so the English says 'it'. Ibn Ezra reads 'work' as watering the garden and 'guard' as keeping animals out; the English keeps the wider verbs 'work' and 'guard'. Rashi's 'took him with pleasant words' is a homiletic reading.
+
+Commentary:
+
+- Rashi (records): Rashi (Genesis Rabbah): He took him with pleasant words and persuaded him to enter; a homiletic sense of 'took', not adopted in the English.
+- Ibn Ezra (follows): Ibn Ezra: גַּן is masculine and feminine (plural גַּנִּים and גַּנּוֹת); the suffix in לְעָבְדָהּ is the garden, not the ground: one cannot work a larger place from a smaller one.
+- Ibn Ezra (follows): Ibn Ezra: 'to work it' means to water the garden, and 'to guard it' means to keep all the animals from entering and fouling it. He then reports that some take it as serving His commandment (the midrashic reading of positive and negative commandments).
+- Radak (records): Radak: the feminine suffix can refer to the ground the garden is planted in, or to the garden; the Rabbis read 'work it' as study and 'guard it' as commandments.
+- Targum Onkelos (follows): Onkelos: וְאַשְׁרֵיהּ בְּגִינְתָא דְעֵדֶן לְמִפְלְחַהּ וּלְמִטְרַהּ: 'and settled him in the garden of Eden to serve it and guard it'.
 
 #### Genesis 2:16
 
 > וַיְצַו֙ יְהֹוָ֣ה אֱלֹהִ֔ים עַל־הָֽאָדָ֖ם לֵאמֹ֑ר מִכֹּ֥ל עֵֽץ־הַגָּ֖ן אָכֹ֥ל תֹּאכֵֽל׃
 
-_Not yet translated._
+**The LORD God commanded the human, saying: "You may eat freely from every tree of the garden.**
+
+Literal: and-commanded the-LORD God upon the-human to-say from-every-of tree-of the-garden eating you-will-eat
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְצַו֙ | and (he) commanded — wayyiqtol Piel of צוה; with עַל it introduces a prohibition, as Ibn Ezra notes | ו: and + צָוָה | צוה | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) |  |
+| יְהֹוָ֣ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֔ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| עַל | on — עַל after צוה: 'give command upon' | עַל | עלה | preposition | II |
+| הָֽאָדָ֖ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| לֵאמֹ֑ר | saying — לֵאמֹר, introduces direct speech | ל: to, for + אָמַר | אמר | preposition + verb (qal, infinitive construct) | Qal 1 |
+| מִכֹּ֥ל | from every — partitive מִן: 'from any of' | מ: from, than + כֹּל | כלל | preposition + noun (common, masculine, singular, construct) | 1 |
+| עֵֽץ | tree of — construct | עֵץ | עצה | noun (common, masculine, singular, construct) | 1.a |
+| הַגָּ֖ן | the garden | ה: the + גַּן | גנן | particle (definite article) + noun (common, both genders, singular, absolute) |  |
+| אָכֹ֥ל | eating — infinitive absolute: intensifies the finite verb after it | אָכַל | אכל | verb (qal, infinitive absolute) | Qal 1 |
+| תֹּאכֵֽל׃ | you may eat — imperfect, 2nd person masculine singular, permissive | אָכַל | אכל | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- The infinitive absolute אָכֹל before the finite תֹּאכֵל strengthens it: 'you may eat freely'; Radak compares שָׁמוֹעַ תִּשְׁמְעוּן.
+- וַיְצַו עַל takes עַל before the person: the idiom opens a command, here a restriction (Ibn Ezra).
+- The object מִכֹּל עֵץ הַגָּן is fronted, putting the permission first. The imperfect is permissive: 'you may'.
+- The etnaḥta on לֵאמֹר separates the narrative from the speech.
+- Because the speech continues in 2:17, the sentence is only the first half of the command.
+
+Note: The imperfect with infinitive absolute is rendered as a permission with 'freely' (Radak: the infinitive strengthens the verb). Ibn Ezra reads צִוָּה עַל as introducing the prohibition of 2:17: although the fruit of the garden is allowed, the tree of knowledge is not. Radak asks whether the command refers to 'you shall not eat' or to both parts. The speech runs on into 2:17, so the quotation is left open here.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: צִוָּה with עַל means a prohibition, as in עַל הָעָבִים אֲצַוֶּה (Is 5:6); although I have allowed you the fruit of every garden tree, you shall not eat of the fruit of the tree of knowledge.
+- Radak (records): Radak: the command is either about 'do not eat of it' or both parts, since feeding oneself on what is permitted is itself a command.
+- Radak (follows): Radak: the infinitive absolute with the finite verb strengthens the thing, like שָׁמוֹעַ תִּשְׁמְעוּ.
+- Sforno (not-applicable): Sforno: 'from every tree of the garden', each in its season as the seasons change with the aspects of the stars, as in לָחֳדָשָׁיו יְבַכֵּר (Ezek 47:12).
 
 #### Genesis 2:17
 
 > וּמֵעֵ֗ץ הַדַּ֙עַת֙ ט֣וֹב וָרָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ כִּ֗י בְּי֛וֹם אֲכׇלְךָ֥ מִמֶּ֖נּוּ מ֥וֹת תָּמֽוּת׃
 
-_Not yet translated._
+**But from the tree of the knowledge of good and evil you must not eat from it, for on the day you eat from it you will surely die.**
+
+Literal: and-from-tree-of the-knowledge-of good and-evil not you-will-eat from-it for in-day-of your-eating from-it die-INFABS you-will-die
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וּמֵעֵ֗ץ | and from the tree of — construct state; ו is rendered 'but' because the clause sets a prohibition against the permission just given | ו: and + מ: from, than + עֵץ | עצה | conjunction + preposition + noun (common, masculine, singular, construct) | 1.a |
+| הַדַּ֙עַת֙ | the knowledge of — construct before the pair 'good and evil' | ה: the + דַּ֫עַת | ידע | particle (definite article) + noun (common, feminine, singular, absolute) | 1.a |
+| ט֣וֹב | good | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 4 |
+| וָרָ֔ע | and evil | ו: and + רַע | רעע | conjunction + adjective (adjective, masculine, singular, absolute) | 3 |
+| לֹ֥א | not | לֹא |  | particle (negative) |  |
+| תֹאכַ֖ל | you shall eat — imperfect with לֹא: a prohibition. תֹאכַל with pataḥ is the ordinary form in context; in pause it is תֹּאכֵל, as at the end of 2:16. The tipḥa is not a pausal accent. | אָכַל | אכל | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1 |
+| מִמֶּ֑נּוּ | from it — the pack parses the suffix as 1st common plural, kept as given; the sense, with Radak and Ramban, is 'from it', the tree or its fruit | מִן־ |  | preposition + suffix (pronominal, 1st person, common, plural) |  |
+| כִּ֗י | for | כִּי |  | conjunction |  |
+| בְּי֛וֹם | on the day of — construct before an infinitive: 'on the day of your eating' | ב: in, with, by + יוֹם |  | preposition + noun (common, masculine, singular, construct) | 1 |
+| אֲכׇלְךָ֥ | your eating — infinitive construct with 2nd masc. sing. suffix, serving as a temporal clause | אָכַל | אכל | verb (qal, infinitive construct) + suffix (pronominal, 2nd person, masculine, singular) | Qal 1 |
+| מִמֶּ֖נּוּ | from it | מִן־ |  | preposition + suffix (pronominal, 1st person, common, plural) |  |
+| מ֥וֹת | dying — infinitive absolute, intensifying the finite verb | מוּת | מות | verb (qal, infinitive absolute) | Qal 1 |
+| תָּמֽוּת׃ | you will die — imperfect; with the infinitive absolute: 'you will surely die' | מוּת | מות | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- The object is fronted: 'and from the tree ... not you shall eat from it'. The same tree is named with a repeated pronoun, וּמֵעֵץ ... מִמֶּנּוּ.
+- לֹא תֹאכַל is an imperfect with 'not', a prohibition (compare 'you must not'), in contrast to the permission of 2:16.
+- בְּיוֹם אֲכׇלְךָ is a temporal clause built on a construct noun and an infinitive construct with a suffix.
+- מוֹת תָּמוּת joins the infinitive absolute to the finite verb for certainty ('you will surely die'). The etnaḥta falls on מִמֶּנּוּ and divides prohibition from reason; silluq closes the verse.
+
+Note: The English keeps the order 'from the tree ... you must not eat from it', as the Hebrew fronts the object. 'Evil' is chosen for רָע (it is the noun here, paired with good). The sense of מוֹת תָּמוּת is left as 'surely die', without saying when death comes; Ramban and Radak read the day as the time at which one becomes liable to death.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: after saying 'from the tree' the word מִמֶּנּוּ is added to make it clear, like 'she opened it and saw him, the child' (Ex 2:6); or it means 'not even a little of it'. The man was full of knowledge, since he named the animals; only the knowledge of good and evil in one matter he lacked. The English keeps the double 'from the tree ... from it'.
+- Ramban (records): Ramban: the prohibition is of the fruit, since the tree itself is not eaten; compare 3:3 'from the fruit of the tree'.
+- Ramban (records): Ramban: 'on the day you eat' means the time when one becomes liable to death, as in 1 Kings 2:42; it does not mean he dies within the day.
+
+Apparatus:
+
+- The pack parses the suffix of מִמֶּנּוּ as 1st person plural; the form is the usual 3rd masc. sing. 'from it' with a doubled nun, and the English follows the sense.
 
 #### Genesis 2:18
 
 > וַיֹּ֙אמֶר֙ יְהֹוָ֣ה אֱלֹהִ֔ים לֹא־ט֛וֹב הֱי֥וֹת הָֽאָדָ֖ם לְבַדּ֑וֹ אֶֽעֱשֶׂה־לּ֥וֹ עֵ֖זֶר כְּנֶגְדּֽוֹ׃
 
-_Not yet translated._
+**The LORD God said, "It is not good for the human to be alone; I will make for him a helper corresponding to him."**
+
+Literal: and-said the-LORD God not good to-be the-human by-himself I-will-make for-him help like-opposite-him
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֙אמֶר֙ | and said — wayyiqtol of אמר; the ו is dropped from the English line | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יְהֹוָ֣ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֔ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| לֹא | not | לֹא |  | particle (negative) |  |
+| ט֛וֹב | good — predicate adjective: 'not good', 'not fitting' | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 5 |
+| הֱי֥וֹת | to be — infinitive construct: 'the being of the human' | הָיָה | היה | verb (qal, infinitive construct) | Qal III |
+| הָֽאָדָ֖ם | the human — with the article: the human, not the proper name Adam | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| לְבַדּ֑וֹ | by himself — לְבַדּוֹ: 'to his separateness', that is 'alone' | ל: to, for + בַּד | בדד | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| אֶֽעֱשֶׂה | I will make — imperfect, 1st sing., cohortative sense of resolve | עָשָׂה | עשׂה | verb (qal, imperfect (yiqtol), 1st person, common, singular) | Qal II.1 |
+| לּ֥וֹ | for him | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| עֵ֖זֶר | a helper | עֵ֫זֶר | עזר | noun (common, masculine, singular, absolute) | 2 |
+| כְּנֶגְדּֽוֹ׃ | corresponding to him — 'like his opposite': כְּ + נֶגֶד + suffix, 'what faces him, matches him' | כ: like, as + נֶ֫גֶד | נגד | preposition + preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+
+Grammar:
+
+- לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ: an infinitive construct with its own subject, הָאָדָם, after a predicate adjective.
+- אֶעֱשֶׂה־לּוֹ is a 1st person imperfect, here a resolve of the speaker ('I will make').
+- עֵזֶר כְּנֶגְדּוֹ is two words: 'a help' and 'like his counterpart'; כְּנֶגְדּוֹ is not a verb but a prepositional phrase.
+- The etnaḥta falls on לְבַדּוֹ and divides the statement from the resolve.
+
+Note: 'Corresponding to him' keeps the meaning 'a match, what stands opposite him' (Sforno: as one equal to him; Radak: before him, always ready to help him). Rashi's reading, 'against him, to fight' if he is not worthy, is kept in the commentary entry.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'not good' so that people would not say there are two powers, the Holy One alone above with no partner, and this one alone below with no partner. The English keeps the plain 'not good for the human to be alone'.
+- Rashi (records): Rashi: if he is worthy, a help; if not, 'against him', to fight. The English keeps the neutral 'corresponding to him' and records the second reading.
+- Ibn Ezra (follows): Ibn Ezra: the meaning of 'not good' is said of the human; it is not good for him.
+- Ibn Ezra (follows): Ibn Ezra: 'help' has the sense of 'two are better than one' (Eccl 4:9); a helper in company.
+- Radak (records): Radak repeats the reading 'if worthy, a help; if not, against him' (Gen. Rabbah 17).
+
+Apparatus:
+
+- WLC reads אֶעֱשֶׂהּ for MAM אֶעֱשֶׂה (2:18.9, vowels); the sense is unchanged.
+- אֶֽעֱשֶׂה: WLC reads אֶֽעֱשֶׂהּ (vowels)
 
 #### Genesis 2:19
 
 > וַיִּ֩צֶר֩ יְהֹוָ֨ה אֱלֹהִ֜ים מִן־הָֽאֲדָמָ֗ה כׇּל־חַיַּ֤ת הַשָּׂדֶה֙ וְאֵת֙ כׇּל־ע֣וֹף הַשָּׁמַ֔יִם וַיָּבֵא֙ אֶל־הָ֣אָדָ֔ם לִרְא֖וֹת מַה־יִּקְרָא־ל֑וֹ וְכֹל֩ אֲשֶׁ֨ר יִקְרָא־ל֧וֹ הָֽאָדָ֛ם נֶ֥פֶשׁ חַיָּ֖ה ה֥וּא שְׁמֽוֹ׃
 
-_Not yet translated._
+**The LORD God formed from the ground every animal of the field and every bird of the sky, and brought them to the human to see what he would call it. Whatever the human called each living creature, that was its name.**
+
+Literal: and-formed the-LORD God from-the-ground every-of animal-of the-field and-OBJ every-of bird-of the-heavens and-brought to-the-human to-see what he-would-call to-him and-every which he-would-call to-him the-human living soul that his-name
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּ֩צֶר֩ | and formed — wayyiqtol; Radak reads it as a pluperfect ('had formed'), Rashi equates it with the 'making' of 1:25 | ו: and + יָצַר | יצר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 2 |
+| יְהֹוָ֨ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֜ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| מִן | from | מִן־ |  | preposition |  |
+| הָֽאֲדָמָ֗ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| כׇּל | every — construct: 'every of' | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| חַיַּ֤ת | animal of — construct | חַיָּה | חיה | noun (common, feminine, singular, construct) | 1.b |
+| הַשָּׂדֶה֙ | the field | ה: the + שָׂדֶה | שׂדה | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| וְאֵת֙ | and — object marker, no counterpart in English | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| כׇּל | every | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| ע֣וֹף | bird of — construct; collective, 'birds' | עוֹף | עוף | noun (common, masculine, singular, construct) | 1 |
+| הַשָּׁמַ֔יִם | the sky | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| וַיָּבֵא֙ | and brought — wayyiqtol Hifil of בוא; 'them' is implicit | ו: and + בּוֹא | בוא | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 2 |
+| אֶל | to | אֶל |  | preposition |  |
+| הָ֣אָדָ֔ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| לִרְא֖וֹת | to see — לִ + infinitive construct, purpose | ל: to, for + רָאָה | ראה | preposition + verb (qal, infinitive construct) | Qal 1.a |
+| מַה | what | מָה |  | particle (interrogative) | 1 |
+| יִּקְרָא | he would call — imperfect 3rd masc. sing.; the subject is the human | קָרָא | קרא | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 6 |
+| ל֑וֹ | to it | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| וְכֹל֩ | and everything | ו: and + כֹּל | כלל | conjunction + noun (common, masculine, singular, absolute) | 2.a |
+| אֲשֶׁ֨ר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| יִקְרָא | he called — imperfect, general or repeated: 'whatever he called' | קָרָא | קרא | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 6 |
+| ל֧וֹ | it | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| הָֽאָדָ֛ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| נֶ֥פֶשׁ | creature — the noun: 'a breathing being'; the adjective חַיָּה follows it, so נֶפֶשׁ חַיָּה is 'living creature' | נֶ֫פֶשׁ | נפשׁ | noun (common, both genders, singular, absolute) | 1 |
+| חַיָּ֖ה | living — the pack lists 'alive, living' for חַיָּה's adjective sense; here the phrase נֶפֶשׁ חַיָּה is 'living being' | חַי | חיה | adjective (adjective, feminine, singular, absolute) | 1.c |
+| ה֥וּא | that | הוּא |  | pronoun (personal, 3rd person, masculine, singular) |  |
+| שְׁמֽוֹ׃ | its name | שֵׁם |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+
+Grammar:
+
+- וַיִּצֶר is a wayyiqtol of יצר (the yod of the root is dropped in writing, as Radak notes); the sequence continues the narrative but does not fix a new moment (compare 'had formed').
+- לִרְאוֹת מַה־יִּקְרָא־לוֹ: purpose, with an indirect question, 'to see what he would call it'.
+- וְכֹל אֲשֶׁר יִקְרָא־לוֹ הָאָדָם נֶפֶשׁ חַיָּה הוּא שְׁמוֹ is a hard construction: 'and all which the human would call to it, a living being, that is its name'. Rashi and Ibn Ezra both read נֶפֶשׁ חַיָּה as the thing named.
+- Wordplay: אֲדָמָה (ground), אָדָם (human).
+
+Note: For the last clause the English follows the agreed reading of Rashi and Ibn Ezra: 'each living creature the human called, that was its name'. Ramban gives a different reading (the human calls each kind 'a living being' like himself, and so finds none a help); it is kept in the commentary.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'formed' is the same act as the 'making' of the beasts above; Scripture adds that birds were made from the ground (the swamp), and that they were brought to the human the same day to be named. In aggadah, 'form' means 'subdue'.
+- Rashi (follows): Rashi: rearrange it and explain: every living being that the human would call by a name, that is its name for ever.
+- Ibn Ezra (follows): Ibn Ezra: the lamed of לוֹ serves itself and another word with it: read 'whatever the human would call it, to (each) living creature' (לנפש חיה), 'that is its name'. The extra לוֹ adds clarity, like 'she opened it and saw him, the child' (Ex 2:6).
+- Ramban (records): Ramban offers a reading connecting the clause with the search for a helper: whichever kind the human calls 'living being' like himself would be the helper; he found none.
 
 #### Genesis 2:20
 
 > וַיִּקְרָ֨א הָֽאָדָ֜ם שֵׁמ֗וֹת לְכׇל־הַבְּהֵמָה֙ וּלְע֣וֹף הַשָּׁמַ֔יִם וּלְכֹ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה וּלְאָדָ֕ם לֹֽא־מָצָ֥א עֵ֖זֶר כְּנֶגְדּֽוֹ׃
 
-_Not yet translated._
+**The human gave names to all the livestock and the birds of the sky, and to every animal of the field; but for himself the human did not find a helper corresponding to him.**
+
+Literal: and-called the-human names to-every-of the-livestock and-to-bird-of the-heavens and-to-every-of animal-of the-field and-for-human not he-found help like-opposite-him
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּקְרָ֨א | and called — wayyiqtol; with 'names' it means 'gave names to' | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 6 |
+| הָֽאָדָ֜ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| שֵׁמ֗וֹת | names — plural of שֵׁם | שֵׁם |  | noun (common, masculine, plural, absolute) | 3 |
+| לְכׇל | to all — construct | ל: to, for + כֹּל | כלל | preposition + noun (common, masculine, singular, construct) | 1 |
+| הַבְּהֵמָה֙ | the livestock — here the tame animals, set beside 'the animal of the field'. The pack's only listed sense for the entry, 'wild beasts' (3), does not fit, so no sense is given. | ה: the + בְּהֵמָה | בהם | particle (definite article) + noun (common, feminine, singular, absolute) |  |
+| וּלְע֣וֹף | and to the birds of — construct, collective | ו: and + ל: to, for + עוֹף | עוף | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| הַשָּׁמַ֔יִם | the sky | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| וּלְכֹ֖ל | and to every | ו: and + ל: to, for + כֹּל | כלל | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| חַיַּ֣ת | animal of | חַיָּה | חיה | noun (common, feminine, singular, construct) | 1.b |
+| הַשָּׂדֶ֑ה | the field | ה: the + שָׂדֶה | שׂדה | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| וּלְאָדָ֕ם | and for himself — אָדָם without the article. Ibn Ezra: the noun stands for the pronoun, 'and for himself', as in 1 Sam 12:11. A proper-name reading 'for Adam' is kept in the apparatus. | ו: and + ל: to, for + אָדָם | אדם | conjunction + preposition + noun (common, masculine, singular, absolute) | 1 |
+| לֹֽא | not | לֹא |  | particle (negative) |  |
+| מָצָ֥א | he found — perfect of מצא, subject the human | מָצָא | מצא | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| עֵ֖זֶר | a helper | עֵ֫זֶר | עזר | noun (common, masculine, singular, absolute) | 2 |
+| כְּנֶגְדּֽוֹ׃ | corresponding to him | כ: like, as + נֶ֫גֶד | נגד | preposition + preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+
+Grammar:
+
+- לְכָל־הַבְּהֵמָה: Ibn Ezra says the word לְכָל 'draws itself and another with it': its 'all' also governs וּלְעוֹף הַשָּׁמַיִם, 'and to all the birds of the sky' (compare Deut 33:6, Prov 30:3).
+- Anarthrous וּלְאָדָם: Ibn Ezra reads 'and for himself', as the Hebrew idiom puts the name of a person for the person. Rashi has the human speak of himself.
+- The subject of לֹא־מָצָא is the human, not the LORD God (Ibn Ezra calls the reading with the LORD as subject 'far').
+- The zaqef gadol on וּלְאָדָם marks the turn from the naming to the lack.
+
+Note: 'For himself' follows Ibn Ezra: the noun אָדָם, without the article, stands for the pronoun, and the human is the subject of מָצָא. Rashi agrees on the subject: the human says 'I have no mate'. 'All' is given to the livestock and the birds together, as Ibn Ezra reads לְכָל. A proper-name reading 'for Adam' is kept in the apparatus.
+
+Commentary:
+
+- Rashi (follows): Rashi: when each kind was brought, male and female, he said: all have a mate and I have none; at once, 'And the LORD God cast a deep sleep'.
+- Ibn Ezra (follows): Ibn Ezra: the word לְכָל in לְכָל הַבְּהֵמָה also 'draws itself and another with it': the sense is 'and to all the birds of the sky'. Compare Deut 33:6 and Prov 30:3.
+- Ibn Ezra (follows): Ibn Ezra: 'and for the human he found none' means 'for himself he found none', as Hebrew idiom has it (1 Sam 12:11); he rejects the reading in which the LORD is the subject. Here he adds that the birds were formed from the ground, and above from the waters, since from both.
+- Ramban (records): Ramban praises Rashi's reading (the naming is placed inside the account of the helper). His own view: the naming was itself the search for a helper. In naming, the human set apart the kinds that can breed with one another, and found none fit for himself. 'For Adam' means 'for the name of Adam', a helper to be called by his name.
+
+Apparatus:
+
+- Anarthrous אָדָם (2:20.11): Ibn Ezra 'for himself'; as a name 'for Adam' is possible (decision: 'the human' where doubtful; not 'Adam' before 4:25).
 
 #### Genesis 2:21
 
 > וַיַּפֵּל֩ יְהֹוָ֨ה אֱלֹהִ֧ים ׀ תַּרְדֵּמָ֛ה עַל־הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה׃
 
-_Not yet translated._
+**Then the LORD God cast a deep sleep upon the human, and he slept; and he took one of his sides and closed up flesh in its place.**
+
+Literal: and-caused-to-fall the-LORD God deep-sleep upon the-human and-he-slept and-took one from-his-sides and-closed flesh under-it
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיַּפֵּל֩ | and cast — wayyiqtol Hifil of נפל: 'made fall'; Ibn Ezra: the heavy (hif'il) stem | ו: and + נָפַל | נפל | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| יְהֹוָ֨ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֧ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| תַּרְדֵּמָ֛ה | a deep sleep — deeper than sleep (Ibn Ezra); the ת is prefixed | תַּרְדֵּמָה | רדם | noun (common, feminine, singular, absolute) |  |
+| עַל | upon | עַל | עלה | preposition |  |
+| הָאָדָ֖ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| וַיִּישָׁ֑ן | and he slept — wayyiqtol; the stem has one sense: 'sleep' | ו: and + יָשֵׁן | ישׁן | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal |
+| וַיִּקַּ֗ח | and he took — wayyiqtol | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אַחַת֙ | one — feminine, to agree with צלע | אֶחָד | אחד | adjective (cardinal number, feminine, singular, absolute) | 1 |
+| מִצַּלְעֹתָ֔יו | from his sides — plural with suffix; the word means 'side' as in 'the side of the tabernacle', and may mean 'rib' | מ: from, than + צֵלָע | צלע | preposition + noun (common, both genders, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| וַיִּסְגֹּ֥ר | and closed up — wayyiqtol | ו: and + סָגַר | סגר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 2.b |
+| בָּשָׂ֖ר | flesh | בָּשָׂר | בשׂר | noun (common, masculine, singular, absolute) | 1 |
+| תַּחְתֶּֽנָּה׃ | in its place — תחת + feminine suffix -נָּה: 'in its place' | תַּחַת | תחת | preposition + suffix (pronominal, 3rd person, feminine, singular) |  |
+
+Grammar:
+
+- הִפִּיל תַּרְדֵּמָה is a Hifil of נפל with an object: 'made a deep sleep fall' on the human; Ibn Ezra notes the 'heavy' stem.
+- וַיִּישַׁן, וַיִּקַּח, וַיִּסְגֹּר: a run of wayyiqtols narrates the operation.
+- אַחַת מִצַּלְעֹתָיו: the numeral is feminine to agree with צֵלָע; the partitive מִ gives 'one of his sides'.
+- תַּחְתֶּנָּה has a nun added to the feminine suffix (Radak, Ibn Ezra), as תַּחְתֶּיהָ.
+
+Note: Rashi and Ibn Ezra agree that צֵלָע is 'side' here (Rashi: 'his sides', as in 'the side of the tabernacle'; Ibn Ezra: 'side'). The English follows: 'one of his sides'. 'Rib' (Targum Onkelos עלעא, Radak's second view) is kept in the apparatus.
+
+Commentary:
+
+- Rashi (follows): Rashi: מִצַּלְעֹתָיו means 'from his sides', as 'the side of the tabernacle' (Ex 26); this is the saying 'two faces were created'.
+- Rashi (follows): Rashi: 'and he closed' means at the place of the cut: the flesh was closed over the spot from which the side was taken.
+- Rashi (not-applicable): Rashi: he slept and then took, so that he would not see the piece of flesh from which she was made and be repelled; it bears on motive, not on the words.
+- Ibn Ezra (follows): Ibn Ezra: וַיַּפֵּל is from the heavy (Hifil) stem.
+- Ibn Ezra (follows): Ibn Ezra: תַּרְדֵּמָה is more than sleep, and sleep more than slumber; the ת is added.
+- Ibn Ezra (follows): Ibn Ezra: there were two 'sides', as 'the second side of the tabernacle' (Ex 26:20); the word is feminine; the sense is 'side'.
+- Ibn Ezra (follows): Ibn Ezra: תַּחְתֶּנָּה is 'its place', a singular with a nun added.
+- Radak (records): Radak: some say two faces joined back to back, with 'rib' as 'side'; some say literally 'rib' (as Onkelos עַלְעָא).
+
+Apparatus:
+
+- 'Rib' (Onkelos, Radak's second view) is the common rendering of צֵלָע; the English follows Rashi and Ibn Ezra's 'side'.
 
 #### Genesis 2:22
 
 > וַיִּ֩בֶן֩ יְהֹוָ֨ה אֱלֹהִ֧ים ׀ אֶֽת־הַצֵּלָ֛ע אֲשֶׁר־לָקַ֥ח מִן־הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ אֶל־הָֽאָדָֽם׃
 
-_Not yet translated._
+**The LORD God built the side that he had taken from the human into a woman, and brought her to the human.**
+
+Literal: and-built the-LORD God OBJ-the-side which he-took from-the-human to-woman and-brought-her to-the-human
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּ֩בֶן֩ | and built — wayyiqtol of בנה | ו: and + בָּנָה | בנה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal |
+| יְהֹוָ֨ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֧ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| אֶֽת | (object marker) — object marker; no English counterpart | אֵת | אות | particle (direct object marker) |  |
+| הַצֵּלָ֛ע | the side — the same word as 2:21's 'sides', in the singular | ה: the + צֵלָע | צלע | particle (definite article) + noun (common, both genders, singular, absolute) |  |
+| אֲשֶׁר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| לָקַ֥ח | he had taken — perfect, rendered as a past perfect because it refers to 2:21 | לָקַח | לקח | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| מִן | from | מִן־ |  | preposition |  |
+| הָֽאָדָ֖ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| לְאִשָּׁ֑ה | into a woman — לְ + noun: 'to become a woman' (Rashi), 'for woman' | ל: to, for + אִשָּׁה | אנשׁ | preposition + noun (common, feminine, singular, absolute) | 1 |
+| וַיְבִאֶ֖הָ | and brought her — wayyiqtol Hifil with 3rd fem. sing. suffix; written defectively, without the yod of the full spelling וַיְבִיאֶהָ | ו: and + בּוֹא | בוא | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, feminine, singular) | Hiph 2 |
+| אֶל | to | אֶל |  | preposition |  |
+| הָֽאָדָֽם׃ | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+
+Grammar:
+
+- וַיִּבֶן is a shortened wayyiqtol of בנה in the Qal ('built'). Ibn Ezra says the form can be taken from the 'heavy' stem and also from the 'light' stem, like וַיִּפֶן and וַיִּקֶן. The verb takes the side as object.
+- לְאִשָּׁה: the preposition ל marks the result of the building, 'into a woman' (Rashi), not a purpose clause.
+- אֲשֶׁר־לָקַח is a perfect in a relative clause, a pluperfect in sense ('had taken').
+- From וַיִּבֶן the conjunctive accents (telisha qetana, qadma, darga) bind the verb to its subject. The paseq after אֱלֹהִים and the tevir on הַצֵּלָע make the first breaks, and the etnaḥta on לְאִשָּׁה divides the building from the bringing.
+
+Note: Rashi's 'built' as 'in the form of a building, wide below and narrow above' bears on the picture of the verb and is kept in the commentary entry; the English uses 'built' as the plain word.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'built' as a building, wide below and narrow above, to receive the child, as a granary for wheat is wide below and narrow above.
+- Rashi (follows): Rashi: לְאִשָּׁה means 'to be a woman', as 'Gideon made it into an ephod'.
+- Ibn Ezra (follows): Ibn Ezra: וַיִּבֶן may be taken from the 'heavy' stem and also from the 'light' stem (Qal), like וַיִּפֶן (Ex 7:23) and וַיִּקֶן (Gen 33:19).
+- Ibn Ezra (records): Ibn Ezra: either he thought, on waking and seeing her, that she was brought as the animals were, and Scripture speaks of his thought; or she was built outside the garden and then brought; when he looked he knew she had been cut from him.
 
 #### Genesis 2:23
 
 > וַיֹּ֘אמֶר֮ הָֽאָדָם֒ זֹ֣את הַפַּ֗עַם עֶ֚צֶם מֵֽעֲצָמַ֔י וּבָשָׂ֖ר מִבְּשָׂרִ֑י לְזֹאת֙ יִקָּרֵ֣א אִשָּׁ֔ה כִּ֥י מֵאִ֖ישׁ לֻֽקְחָה־זֹּֽאת׃
 
-_Not yet translated._
+**Then the human said, "This one, this time, is bone of my bones and flesh of my flesh. This one shall be called woman, for from man this one was taken."**
+
+Literal: and-said the-human this the-time bone from-my-bones and-flesh from-my-flesh to-this-one it-will-be-called woman for from-man was-taken this-one
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֘אמֶר֮ | and said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| הָֽאָדָם֒ | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| זֹ֣את | this one — feminine demonstrative | זֹאת |  | pronoun (demonstrative, feminine, singular) |  |
+| הַפַּ֗עַם | the time — 'the time, the occasion': 'this time'; Radak: the earlier presentation of animals found none | ה: the + פַּ֫עַם | פעם | particle (definite article) + noun (common, feminine, singular, absolute) |  |
+| עֶ֚צֶם | bone — absolute; with the partitive מִן that follows, 'a bone from my bones', that is 'bone of my bones' | עֶ֫צֶם | עצם | noun (common, feminine, singular, absolute) |  |
+| מֵֽעֲצָמַ֔י | from my bones — min with the plural: 'of my bones'; the ‘bone of my bones’ idiom | מ: from, than + עֶ֫צֶם | עצם | preposition + noun (common, feminine, plural, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| וּבָשָׂ֖ר | and flesh | ו: and + בָּשָׂר | בשׂר | conjunction + noun (common, masculine, singular, absolute) | 1 |
+| מִבְּשָׂרִ֑י | from my flesh | מ: from, than + בָּשָׂר | בשׂר | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| לְזֹאת֙ | to this one — לְ: 'for this one' (Ibn Ezra: בעבור זאת); compare 'about me' in Gen 20:13 | ל: to, for + זֹאת |  | preposition + pronoun (demonstrative, feminine, singular) |  |
+| יִקָּרֵ֣א | it will be called — Nifal imperfect, impersonal 'it is called'; Ibn Ezra: 'on a name' | קָרָא | קרא | verb (nifal, imperfect (yiqtol), 3rd person, masculine, singular) | Niph 2 |
+| אִשָּׁ֔ה | woman — אִשָּׁה with dagesh in the shin, in place of the yod of אִישׁ; Rashi: a wordplay | אִשָּׁה | אנשׁ | noun (common, feminine, singular, absolute) | 1 |
+| כִּ֥י | for | כִּי |  | conjunction |  |
+| מֵאִ֖ישׁ | from man — 'from a man', 'from the man' | מ: from, than + אִישׁ | אישׁ | preposition + noun (common, masculine, singular, absolute) |  |
+| לֻֽקְחָה | was taken — perfect passive | לָקַח | לקח | verb (pual, perfect (qatal), 3rd person, feminine, singular) | Pu 1 |
+| זֹּֽאת׃ | this one — feminine; the subject, placed last for emphasis | זֹאת |  | pronoun (demonstrative, feminine, singular) |  |
+
+Grammar:
+
+- זֹאת הַפַּעַם: 'this one, the time', hence 'this time'. The etnaḥta on מִבְּשָׂרִי divides the verse into the recognition and the naming. In the first half, the revia on הַפַּעַם and the zaqef on מֵעֲצָמַי set off 'this time', 'bone of my bones' and 'flesh of my flesh'.
+- עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי: two parallel lines, with a verbless clause: the first colon names bone, the second flesh.
+- אִשָּׁה and אִישׁ: a wordplay. Rashi: the Holy Tongue is the language of creation; Ibn Ezra explains the dagesh in שׁ as in place of the yod of אִישׁ.
+- יִקָּרֵא is a Nifal imperfect; לֻקְחָה is a Pual perfect (WLC vowels לֻקֳחָה). The qof has no dagesh (Radak: 'the qof is rafe').
+
+Note: 'This time' is the plain sense; Rashi's homily (the human had come on every beast and was not satisfied) is not adopted. Radak: this time (not the first, when the animals were brought).
+
+Commentary:
+
+- Rashi (not-applicable): Rashi (Yevamot 63a): this teaches that the human came upon every beast and animal and was not satisfied; a homily, not the plain sense.
+- Rashi (not-applicable): Rashi: a play on words (אִישׁ, אִשָּׁה): from here the world was created in the Holy Tongue.
+- Ibn Ezra (follows): Ibn Ezra: then he said: this time I have found a help corresponding to me, like me, since from me she was; and the Lilith story is homily.
+- Ibn Ezra (follows): Ibn Ezra: לְזֹאת means 'for this one, concerning this one' (בעבור זאת), as 'say of me, He is my brother' (Gen 20:13).
+- Ibn Ezra (not-applicable): Ibn Ezra: the dagesh in the שׁ of אִשָּׁה replaces the silent yod of אִישׁ, and perhaps it is dagesh so as not to be mixed with אִישָׁהּ, 'her husband'; compare נשים from אנוש.
+- Ibn Ezra (follows): Ibn Ezra: יִקָּרֵא means 'on a name', that is 'be called by name'.
+
+Apparatus:
+
+- WLC reads לֻקֳחָה for MAM לֻקְחָה (vowels, 2:23.14); the same word.
+- לֻֽקְחָה: WLC reads לֻֽקֳחָה (vowels)
 
 #### Genesis 2:24
 
 > עַל־כֵּן֙ יַֽעֲזׇב־אִ֔ישׁ אֶת־אָבִ֖יו וְאֶת־אִמּ֑וֹ וְדָבַ֣ק בְּאִשְׁתּ֔וֹ וְהָי֖וּ לְבָשָׂ֥ר אֶחָֽד׃
 
-_Not yet translated._
+**Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh.**
+
+Literal: upon-so he-leaves man OBJ his-father and-OBJ his-mother and-clings to-his-wife and-they-become to-flesh one
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| עַל | on | עַל | עלה | preposition |  |
+| כֵּן֙ | so — עַל־כֵּן, a fixed phrase: 'therefore' | כֵּן |  | particle (demonstrative) |  |
+| יַֽעֲזׇב | leaves — imperfect, 3rd masc. sing., describing a custom | עָזַב | עזב | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אִ֔ישׁ | a man — אִישׁ | אִישׁ | אישׁ | noun (common, masculine, singular, absolute) |  |
+| אֶת | (object marker) — object marker; no English counterpart | אֵת | אות | particle (direct object marker) |  |
+| אָבִ֖יו | his father — construct with suffix | אָב | אבה | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וְאֶת | and — conjunction + object marker | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| אִמּ֑וֹ | his mother — construct with suffix | אֵם | אמם | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וְדָבַ֣ק | and clings — weqatal, in sequence after a yiqtol: the habitual future or present | ו: and + דָּבַק | דבק | conjunction + verb (qal, sequential perfect (weqatal), 3rd person, masculine, singular) | Qal 1 |
+| בְּאִשְׁתּ֔וֹ | to his wife — בְּ after דבק: 'cling to' | ב: in, with, by + אִשָּׁה | אנשׁ | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| וְהָי֖וּ | and they become — weqatal, 3rd common plural; the subject is the man and his wife | ו: and + הָיָה | היה | conjunction + verb (qal, sequential perfect (weqatal), 3rd person, common, plural) | Qal II.2 |
+| לְבָשָׂ֥ר | into flesh — לְ marks the result: 'become into one flesh' | ל: to, for + בָּשָׂר | בשׂר | preposition + noun (common, masculine, singular, absolute) | 2 |
+| אֶחָֽד׃ | one | אֶחָד | אחד | adjective (cardinal number, masculine, singular, absolute) | 1 |
+
+Grammar:
+
+- עַל־כֵּן יַעֲזָב־אִישׁ: an imperfect after 'therefore' states a general rule, hence the present tense of the English.
+- וְדָבַק and וְהָיוּ are weqatal forms that continue the imperfect; the subject changes from 'a man' to 'they' (the man and his wife).
+- לְבָשָׂר אֶחָד: 'into one flesh', ל marking the result; compare Rashi and Ibn Ezra on the sense of unity.
+- The pashta on כֵּן and the zaqef on אִישׁ divide the verse; the etnaḥta falls on אִמּוֹ.
+
+Note: The tense is present because the verse states a rule that follows from what was just done. Rashi's homily about the prohibition of incest is a legal derivation and does not bear on the English. 'One flesh' is read, as Ibn Ezra reads it, as 'as if they were one'; Rashi's 'the child' and the sense of procreation are kept in the commentary entry.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi (Sanhedrin 57b): the holy spirit says this to forbid incest to the sons of Noah; a derived law, not the plain sense.
+- Rashi (records): Rashi (Sanhedrin 58a): the child is formed from both of them, and there their flesh becomes one; this is an alternative sense of 'one flesh', not adopted here.
+- Ibn Ezra (follows): Ibn Ezra: 'they become one flesh' as if they were one, or that they would be like one as they were; those who say they beget one are far from the plain sense. The English follows the first reading.
+- Ramban (records): Ramban rejects Rashi's reading (animals too become one flesh in their young) and takes 'one flesh' to mean the clinging of man to wife as to his own flesh.
 
 #### Genesis 2:25
 
 > וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔ים הָֽאָדָ֖ם וְאִשְׁתּ֑וֹ וְלֹ֖א יִתְבֹּשָֽׁשׁוּ׃
 
-_Not yet translated._
+**The two of them were naked, the human and his wife, and they were not ashamed.**
+
+Literal: and-were two-of-them naked the-human and-his-wife and-not they-were-ashamed
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּֽהְי֤וּ | and were — wayyiqtol of הָיָה with a plural subject: 'and they were' | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal III |
+| שְׁנֵיהֶם֙ | the two of them — dual construct of שְׁנַיִם with a 3rd masculine plural suffix: 'the two of them', both together | שְׁנַ֫יִם | שׁנה | adjective (cardinal number, masculine, dual, construct) + suffix (pronominal, 3rd person, masculine, plural) |  |
+| עֲרוּמִּ֔ים | naked — plural of עָרוֹם 'naked', with a doubled מ; a different word from עָרוּם 'shrewd' in 3:1 | עָרוֹם | עור | adjective (adjective, masculine, plural, absolute) |  |
+| הָֽאָדָ֖ם | the human — with the article: 'the human' (not the proper name Adam) | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| וְאִשְׁתּ֑וֹ | and his wife — אִשְׁתּוֹ is the construct form of אִשָּׁה with the suffix 'his' | ו: and + אִשָּׁה | אנשׁ | conjunction + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| וְלֹ֖א | and not | ו: and + לֹא |  | conjunction + particle (negative) |  |
+| יִתְבֹּשָֽׁשׁוּ׃ | they were ashamed — hitpolel of בוש; the imperfect after wayyiqtol gives a continuing state; pausal qamets at the silluq | בּוֹשׁ | בושׁ | verb (hitpolel, imperfect (yiqtol), 3rd person, masculine, plural) | Hithp |
+
+Grammar:
+
+- שְׁנֵיהֶם is the dual construct of שְׁנַיִם with a suffix, 'the two of them'; הָאָדָם וְאִשְׁתּוֹ then names the two in apposition.
+- עֲרוּמִּים 'naked' (the מ is doubled) is a different word from עָרוּם 'shrewd' in 3:1. The sound-play joins the two scenes; Ibn Ezra notes the pair at 3:1.
+- וְלֹא יִתְבֹּשָׁשׁוּ is a yiqtol after a wayyiqtol: it describes a continuing state, 'and they were not ashamed', not a single event. The verb is a hitpolel (reflexive or reciprocal) of בוש; Ibn Ezra: from a root with a hidden quiet letter, the last letter doubled, as in יִתְבּוֹנָן (Job 11:11).
+- The etnaḥta on וְאִשְׁתּוֹ divides the verse after the naming of the two; the qamets of יִתְבֹּשָׁשׁוּ is pausal, because the word ends the verse (Ibn Ezra).
+
+Note: 'Ashamed' renders the hitpolel; the Hebrew does not say before whom (BDB: ashamed before one another). Rashi and Radak differ on the reason for the absence of shame (no knowledge of modesty and the evil inclination; no sexual desire yet); the English gives the fact, not the reason.
+
+Commentary:
+
+- Rashi (follows): Rashi: they did not know the way of modesty, to tell good from evil; knowledge had been given to the human to name the animals, but the evil inclination was not given until he ate from the tree. The English states the plain fact of no shame.
+- Ibn Ezra (not-applicable): Filed at 2:23 and matched to וְלֹא only by its opening word: Ibn Ezra says the qof of לֻקֳחָה (2:23) is not given a dagesh (ולא נדגש), to ease the tongue, although the form is of the heavy binyan; the text breaks off. It does not bear on 2:25.
+- Ibn Ezra (follows): Ibn Ezra: עֲרוּמִּים is an adjective, as in 'and you strip the clothes of the naked' (Job 22:6). He adds that some take 'ערום ראה רעה' (Prov. 22:3) the same way; the end of the comment is obscure.
+- Ibn Ezra (follows): Ibn Ezra: יִתְבֹּשָׁשׁוּ comes from בושת (shame), from the roots with a hidden quiet letter between the two; the last letter is doubled as in יִתְבּוֹנָן. The shin takes qamets because it is the end of the verse.
+- Radak (not-applicable): Radak: the verse tells that they had not eaten from the tree of knowledge and had no shame at their uncovered nakedness, since they had not yet had sexual desire. This gives the reason, not a reading of the words.
+
+Apparatus:
+
+- Onkelos: עַרְטִילָאִין 'naked' and לָא מִתְכַּלְמִין 'not ashamed'; the same sense as the Hebrew.
+- Sforno: their organs served God's will alone, so the act of union was like eating and drinking; this explains the absence of shame and does not change the words.
 
 #### Genesis 3:1
 
 > וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה אֲשֶׁ֥ר עָשָׂ֖ה יְהֹוָ֣ה אֱלֹהִ֑ים וַיֹּ֙אמֶר֙ אֶל־הָ֣אִשָּׁ֔ה אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים לֹ֣א תֹֽאכְל֔וּ מִכֹּ֖ל עֵ֥ץ הַגָּֽן׃
 
-_Not yet translated._
+**Now the serpent was shrewder than every wild animal that the LORD God had made. It said to the woman, “Is it really so that God said, ‘You must not eat from any tree of the garden’?”**
+
+Literal: and-the-serpent was shrewd than-all-of living-thing-of the-field which made the-LORD God and-said to-the-woman also that said God not you-eat from-all-of tree-of the-garden
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְהַנָּחָשׁ֙ | and the serpent — waw + subject + qatal opens a new scene and introduces a new character | ו: and + ה: the + נָחָשׁ | נחשׁ | conjunction + particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| הָיָ֣ה | was | הָיָה | היה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal III |
+| עָר֔וּם | shrewd — עָרוּם (with shureq) 'shrewd, crafty'; not the עֲרוּמִּים 'naked' of 2:25 | עָרוּם | ערם | adjective (adjective, masculine, singular, absolute) |  |
+| מִכֹּל֙ | than every — מִן is comparative: 'shrewder than all' | מ: from, than + כֹּל | כלל | preposition + noun (common, masculine, singular, construct) | 1 |
+| חַיַּ֣ת | wild animal of — construct state: 'living thing of' | חַיָּה | חיה | noun (common, feminine, singular, construct) | 1.b |
+| הַשָּׂדֶ֔ה | the field | ה: the + שָׂדֶה | שׂדה | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| אֲשֶׁ֥ר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| עָשָׂ֖ה | made — qatal in a relative clause, pluperfect in sense: 'had made' | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal II.1 |
+| יְהֹוָ֣ה | the LORD — the divine name; MAM writes it with ֹ, the pack reads it as יְהוָה | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֑ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| וַיֹּ֙אמֶר֙ | and said — wayyiqtol; the subject is the serpent | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָ֣אִשָּׁ֔ה | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אַ֚ף | even, also — אַף 'also, even'; elliptical here, with כִּי it opens the question | אַף |  | particle (affirmation) |  |
+| כִּֽי | that | כִּי |  | conjunction | 1 |
+| אָמַ֣ר | said | אָמַר | אמר | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| אֱלֹהִ֔ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| לֹ֣א | not | לֹא |  | particle (negative) |  |
+| תֹֽאכְל֔וּ | you (plural) may eat — 2nd masculine plural yiqtol with לֹא: a prohibition, 'you must not eat' | אָכַל | אכל | verb (qal, imperfect (yiqtol), 2nd person, masculine, plural) | Qal 1 |
+| מִכֹּ֖ל | from any — 'from all of': 'from any' or 'from every' | מ: from, than + כֹּל | כלל | preposition + noun (common, masculine, singular, construct) | 1 |
+| עֵ֥ץ | tree of — construct state; a collective: 'tree' or 'trees' | עֵץ | עצה | noun (common, masculine, singular, construct) | 1.a |
+| הַגָּֽן׃ | the garden | ה: the + גַּן | גנן | particle (definite article) + noun (common, both genders, singular, absolute) |  |
+
+Grammar:
+
+- וְהַנָּחָשׁ הָיָה עָרוּם is waw + subject + qatal: a background clause that introduces a new character, not a step in the narrative sequence.
+- עָרוּם 'shrewd' and עֲרוּמִּים 'naked' (2:25) sound alike; Ibn Ezra takes this as deliberate play on the two senses, as in Judges 15:16 and 10:4. Radak distinguishes them by vowels: shureq for wisdom, holem for 'naked'.
+- מִכֹּל after the adjective is the comparative min: 'shrewder than all'. Rashi sets it beside 'cursed above all' (3:14).
+- אַף כִּי has no interrogative particle: the question is carried by the elliptical אַף כִּי and by tone. The serpent says אֱלֹהִים and not יְהוָה אֱלֹהִים, the name used by the narrator (Ibn Ezra: they did not know the name).
+- The etnaḥta on אֱלֹהִים (3:1.10) ends the narrator's description. The pashta on וַיֹּאמֶר is written twice because the word is stressed on its first syllable: pashta stands on the last letter, and a second sign marks the stressed syllable.
+
+Note: אַף כִּי is difficult. Ibn Ezra reads it as showing that other words came first and ending in an a fortiori ('how much more, that He said you may not eat from any tree'); Rashi reads 'perhaps He said you may not eat from any of them', an exaggeration meant to draw her answer. The English 'Is it really so that' keeps the question and the overstatement and drops 'even/also'. מִכֹּל עֵץ can mean 'from any tree at all' or 'from every tree'; the English keeps 'any'. The serpent is read as a real serpent that speaks (Ibn Ezra, Radak), not as a figure; Sforno's reading of it as the evil inclination is recorded in the apparatus.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: why is this here? It should follow with 'And He made garments of skin' (3:21); it teaches by what counsel the serpent leapt at them: he saw them naked and engaged in intercourse in public, and desired her. A homily on the link to 2:25; the English keeps the link with 'Now'.
+- Rashi (follows): Rashi: 'by his shrewdness and greatness was his downfall; shrewd above all, cursed above all' (Gen. Rabbah). ערום is 'shrewd', and מכל is paired with the 'above all' of the curse; the English 'than every'.
+- Rashi (follows): Rashi: 'perhaps He told you not to eat from any'; although the serpent had seen them eating other fruit, he overstated so that she would answer him and speak of that tree. The English keeps the question and the overstatement ('any tree').
+- Ibn Ezra (follows): Ibn Ezra rejects the views that the woman understood the speech of animals and the serpent spoke by hints, that the serpent was Satan, and Saadia's view that an angel spoke for it; he holds that the words are as they sound: the serpent spoke and walked upright. 'Shrewd' means wise, doing things with cunning, 'but not like the human'; ערום after ערומים is an elegance of language, as in Judges 15:16.
+- Ibn Ezra (records): Ibn Ezra: אף כי shows that he said other words first and ended with an a fortiori: He said not to eat of any tree at all. The serpent did not use the divine name because they did not know it; the woman later added 'and you shall not touch it'.
+- Radak (records): Radak: 'אף' means 'in addition': other words passed between the woman and the serpent, and Scripture gives only the end of the talk, as with 'כי' in Joshua 2:24.
+
+Apparatus:
+
+- Onkelos: חַכִּים 'wise' for עָרוּם, and בְּקוּשְׁטָא 'in truth' for אַף כִּי.
+- Sforno: the serpent is the evil inclination, which Scripture names after the creature it resembles; Ibn Ezra rejects the view that it was Satan. Radak records the midrash of the serpent ridden by Samael.
+- Radak (3:1:4) and Ibn Ezra differ on the nature of the serpent's wisdom: Radak says it was cunning of the imaginative faculty found in animals, as in the fox, not the intellect; Ibn Ezra says it was a real, if limited, wisdom.
+- Ibn Ezra and Radak read אַף כִּי as 'how much more, that God said ...', the end of a longer exchange, not a question; Rashi reads a question, 'perhaps He said ...'. The English follows Rashi.
 
 #### Genesis 3:2
 
 > וַתֹּ֥אמֶר הָֽאִשָּׁ֖ה אֶל־הַנָּחָ֑שׁ מִפְּרִ֥י עֵֽץ־הַגָּ֖ן נֹאכֵֽל׃
 
-_Not yet translated._
+**The woman said to the serpent, “We may eat from the fruit of the trees of the garden.”**
+
+Literal: and-said the-woman to the-serpent from-fruit-of tree-of the-garden we-eat
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֹּ֥אמֶר | and said — wayyiqtol, 3rd feminine singular | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| הָֽאִשָּׁ֖ה | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הַנָּחָ֑שׁ | the serpent | ה: the + נָחָשׁ | נחשׁ | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| מִפְּרִ֥י | from the fruit of — מִן is partitive: 'some of the fruit'; construct state | מ: from, than + פְּרִי | פרה | preposition + noun (common, masculine, singular, construct) | 3 |
+| עֵֽץ | the trees of — singular עֵץ as a collective: 'trees'; construct state with maqqef | עֵץ | עצה | noun (common, masculine, singular, construct) | 1.b |
+| הַגָּ֖ן | the garden | ה: the + גַּן | גנן | particle (definite article) + noun (common, both genders, singular, absolute) |  |
+| נֹאכֵֽל׃ | we may eat — 1st plural yiqtol: 'we eat' or 'we may eat'; pausal tsere at the silluq | אָכַל | אכל | verb (qal, imperfect (yiqtol), 1st person, common, plural) | Qal 1 |
+
+Grammar:
+
+- מִפְּרִי עֵץ־הַגָּן stands before the verb for contrast: of these we eat (the next verse gives the one tree not eaten from).
+- עֵץ־ is singular in form and collective in sense, 'the trees of the garden', as in 3:1; the maqqef joins it to הַגָּן in a construct chain.
+- נֹאכֵל has tsere for the usual patah: a pausal form, because it carries the silluq at the end of the verse.
+- The yiqtol states what is allowed or habitual: 'we eat' and 'we may eat' are both possible; the English chooses 'may' because she answers a question about what is forbidden.
+
+Note: Her answer is brief and corrects the serpent's overstatement by naming what is permitted (Radak): not every tree was forbidden, only one.
+
+Commentary:
+
+- Radak (follows): Radak: it is not as you say; He did not forbid every tree of the garden, only one, in the middle of the garden. He forbade it for our good, perhaps because its fruit is deadly by nature.
+- Targum Onkelos (follows): Onkelos: 'of the fruits of the trees of the garden we eat', with אִילַן 'tree' as a collective, as the English reads it.
+
+Apparatus:
+
+- Sforno: the woman is dragged into the risk by imagination and her weak mind, and imputes jealousy to God; a reading of her motive, not of the words.
 
 #### Genesis 3:3
 
 > וּמִפְּרִ֣י הָעֵץ֮ אֲשֶׁ֣ר בְּתוֹךְ־הַגָּן֒ אָמַ֣ר אֱלֹהִ֗ים לֹ֤א תֹֽאכְלוּ֙ מִמֶּ֔נּוּ וְלֹ֥א תִגְּע֖וּ בּ֑וֹ פֶּן־תְּמֻתֽוּן׃
 
-_Not yet translated._
+**As for the fruit of the tree in the middle of the garden, God said, “You must not eat from it, and you must not touch it, or you might die.”**
+
+Literal: and-from-fruit-of the-tree which in-midst-of the-garden said God not you-eat from-it and-not you-touch in-it lest you-die
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וּמִפְּרִ֣י | and as for the fruit of — 'and from the fruit of': the phrase is put first, contrasting with 3:2 | ו: and + מ: from, than + פְּרִי | פרה | conjunction + preposition + noun (common, masculine, singular, construct) | 3 |
+| הָעֵץ֮ | the tree | ה: the + עֵץ | עצה | particle (definite article) + noun (common, masculine, singular, absolute) | 1.a |
+| אֲשֶׁ֣ר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| בְּתוֹךְ | in the middle of — בְּתוֹךְ־ 'in the midst of', construct state with maqqef | ב: in, with, by + תָּ֫וֶךְ |  | preposition + noun (common, masculine, singular, construct) |  |
+| הַגָּן֒ | the garden | ה: the + גַּן | גנן | particle (definite article) + noun (common, both genders, singular, absolute) |  |
+| אָמַ֣ר | said | אָמַר | אמר | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| אֱלֹהִ֗ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| לֹ֤א | not | לֹא |  | particle (negative) |  |
+| תֹֽאכְלוּ֙ | you (plural) may eat — 2nd masculine plural yiqtol with לֹא: 'you must not eat' | אָכַל | אכל | verb (qal, imperfect (yiqtol), 2nd person, masculine, plural) | Qal 1 |
+| מִמֶּ֔נּוּ | from it — the pack parses the suffix as 1st person common plural ('from us'); the form מִמֶּנּוּ is the same as 3rd masculine singular, and the context requires 'from it' | מִן־ |  | preposition + suffix (pronominal, 1st person, common, plural) | 1.a |
+| וְלֹ֥א | and not | ו: and + לֹא |  | conjunction + particle (negative) |  |
+| תִגְּע֖וּ | you (plural) may touch — נָגַע takes ב: 'touch at, touch' | נָגַע | נגע | verb (qal, imperfect (yiqtol), 2nd person, masculine, plural) | Qal 1.a |
+| בּ֑וֹ | it — 'in it', with the ב that נָגַע takes | ב: in, with, by |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| פֶּן | lest — פֶּן־ introduces a fear or purpose clause: 'lest', 'so that not', 'perhaps' | פֶּן־ |  | conjunction |  |
+| תְּמֻתֽוּן׃ | you (plural) die — 2nd masculine plural yiqtol with paragogic nun; the full pausal form at the silluq | מוּת | מות | verb (qal, imperfect (yiqtol), 2nd person, masculine, plural) + suffix (paragogic nun) | Qal 1 |
+
+Grammar:
+
+- וּמִפְּרִי הָעֵץ אֲשֶׁר בְּתוֹךְ־הַגָּן is a fronted phrase with a relative clause, set against מִפְּרִי עֵץ־הַגָּן of the previous verse: all these, but of this one.
+- The revia on אֱלֹהִים divides the introduction from the speech; the zinor and segol on הָעֵץ and הַגָּן mark the relative clause as a unit.
+- לֹא תֹאכְלוּ and וְלֹא תִגְּעוּ are two prohibitions in the yiqtol; the second is not in the commandment of 2:17.
+- פֶּן with the yiqtol states what is feared; תְּמֻתוּן has the paragogic nun and the full pausal ending.
+- The pack parses מִמֶּנּוּ as 1st plural; the same form is 3rd masculine singular, and the context gives 'from it'.
+
+Note: The woman does not name the tree and she speaks of God's word without the name יְהוָה. She quotes the prohibition with 'touch', which is not in 2:16–17; Rashi counts this as an addition to the command. פֶּן is rendered 'or you might die' to keep the ambiguity: 'lest' (a fear of what follows), or 'perhaps' (Radak records the second as an alternative).
+
+Commentary:
+
+- Rashi (follows): Rashi: she added to the command, and so came to loss, as it says, 'Do not add to His words' (Prov. 30:6). The English gives her words as spoken, with 'touch' as hers.
+- Radak (records): Radak: פֶּן means 'perhaps'; God had said she would surely die, but for the added 'touch' she says 'lest', because she herself added it; or the sense is 'that you not die', as in 'lest you take my son back there' (24:6). The English 'might' leaves both open.
+- Targum Onkelos (records): Onkelos: 'do not come near it' for לֹא תִגְּעוּ בּוֹ, and דִּילְמָא 'perhaps' for פֶּן.
+
+Apparatus:
+
+- Onkelos reads בִמְצִיעוּת גִּינְתָא 'in the middle of the garden', as the Hebrew.
+- Sforno: the woman's weak mind sets down the doubt that the serpent (the imagination) has begun to put.
 
 #### Genesis 3:4
 
 > וַיֹּ֥אמֶר הַנָּחָ֖שׁ אֶל־הָֽאִשָּׁ֑ה לֹֽא־מ֖וֹת תְּמֻתֽוּן׃
 
-_Not yet translated._
+**The serpent said to the woman, “You will certainly not die.”**
+
+Literal: and-said the-serpent to the-woman not dying you-will-die
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֥אמֶר | and said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| הַנָּחָ֖שׁ | the serpent | ה: the + נָחָשׁ | נחשׁ | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָֽאִשָּׁ֑ה | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| לֹֽא | not | לֹא |  | particle (negative) |  |
+| מ֖וֹת | certainly — infinitive absolute of מוּת before the finite verb: emphasis, 'surely'; the negative stands before it | מוּת | מות | verb (qal, infinitive absolute) | Qal 1 |
+| תְּמֻתֽוּן׃ | you (plural) will die — 2nd masculine plural yiqtol with paragogic nun, pausal | מוּת | מות | verb (qal, imperfect (yiqtol), 2nd person, masculine, plural) + suffix (paragogic nun) | Qal 1 |
+
+Grammar:
+
+- The infinitive absolute מוֹת before תְּמֻתוּן is emphatic; the negative before it makes the denial total, 'not at all'.
+- The serpent repeats the words of 2:17, מוֹת תָּמוּת, and puts לֹא before them: he answers God's warning by denying it.
+- The woman said פֶּן 'lest' (3:3); the serpent answers with an unqualified statement.
+- The etnaḥta on הָאִשָּׁה divides the introduction from the speech; תְּמֻתוּן has the paragogic nun and is pausal.
+
+Note: The English keeps the emphasis of the infinitive absolute in 'certainly' and leaves the negative before it. Rashi and Radak read the speech as a lie, a push from the woman's 'lest' to a denial.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: he pushed her until she touched it, and said, 'just as there is no death in touching, so there is none in eating' (Gen. Rabbah). A homily about the scene and not a reading of the words.
+- Radak (follows): Radak: not as you say, that He kept it from you out of love so you would not die; you will not die. He frightened you with death so that you would be more careful; but He kept it from you because He does not want you to have more standing than He gave you.
+
+Apparatus:
+
+- Onkelos: לָא מוּת תְּמוּתוּן, the same construction.
+- Sforno: the speech continues into v. 5; God did not forbid the fruit from fear of death, but because He knows you would gain added knowledge from it.
 
 #### Genesis 3:5
 
 > כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים כִּ֗י בְּיוֹם֙ אֲכׇלְכֶ֣ם מִמֶּ֔נּוּ וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם וִהְיִיתֶם֙ כֵּֽאלֹהִ֔ים יֹדְעֵ֖י ט֥וֹב וָרָֽע׃
 
-_Not yet translated._
+**For God knows that on the day you eat from it your eyes will be opened, and you will be like divine beings, knowing good and evil.**
+
+Literal: for knowing God that in-day-of your-eating from-it and-will-be-opened eyes-of-you and-you-will-be like-God knowers-of good and-evil
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| כִּ֚י | for — כִּי 'for, because': it gives the reason for the denial | כִּי |  | conjunction | 3 |
+| יֹדֵ֣עַ | knows — active participle: a continuing state, 'is knowing' | יָדַע | ידע | verb (qal, participle active, masculine, singular, absolute) | Qal 1.a |
+| אֱלֹהִ֔ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| כִּ֗י | that — the second כִּי introduces what God knows | כִּי |  | conjunction | 1 |
+| בְּיוֹם֙ | on the day of — construct state before an infinitive: 'on the day of your eating' | ב: in, with, by + יוֹם |  | preposition + noun (common, masculine, singular, construct) | 1 |
+| אֲכׇלְכֶ֣ם | you (plural) eat — infinitive construct with a 2nd masculine plural suffix as subject: 'your eating' | אָכַל | אכל | verb (qal, infinitive construct) + suffix (pronominal, 2nd person, masculine, plural) | Qal 1 |
+| מִמֶּ֔נּוּ | from it | מִן־ |  | preposition + suffix (pronominal, 3rd person, masculine, singular) | 1.a |
+| וְנִפְקְח֖וּ | and will be opened — weqatal, Niphal: passive, 'they will be opened' | ו: and + פָּקַח | פקח | conjunction + verb (nifal, sequential perfect (weqatal), 3rd person, common, plural) | Niph |
+| עֵֽינֵיכֶ֑ם | your eyes — dual construct of עַיִן with a 2nd masculine plural suffix | עַ֫יִן | עין | noun (common, both genders, dual, construct) + suffix (pronominal, 2nd person, masculine, plural) |  |
+| וִהְיִיתֶם֙ | and you will be — weqatal, 2nd masculine plural; the sheva of the וְ becomes hireq before yod | ו: and + הָיָה | היה | conjunction + verb (qal, sequential perfect (weqatal), 2nd person, masculine, plural) | Qal II.2.c |
+| כֵּֽאלֹהִ֔ים | like divine beings — כְּ 'like' with אֱלֹהִים, plural in form: 'like God', 'like gods' or 'like angels' | כ: like, as + אֱלֹהִים | אלה | preposition + noun (common, masculine, plural, absolute) | 1.b |
+| יֹדְעֵ֖י | knowing — active participle, plural construct: 'knowers of' | יָדַע | ידע | verb (qal, participle active, masculine, plural, construct) | Qal 1.a |
+| ט֥וֹב | good — טוֹב as a noun: 'good', as in 'good and evil' | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 4 |
+| וָרָֽע׃ | and evil — רַע, 'evil, bad' | ו: and + רַע | רעע | conjunction + adjective (adjective, masculine, singular, absolute) | 3 |
+
+Grammar:
+
+- Two כִּי clauses open the verse: the first gives the reason ('for'), the second the content of God's knowledge ('that').
+- בְּיוֹם אֲכָלְכֶם מִמֶּנּוּ is the infinitive construct with a suffix, 'on the day of your eating from it', and repeats the wording of 2:17.
+- וְנִפְקְחוּ and וִהְיִיתֶם are weqatal forms: the future consequences of the eating; נִפְקְחוּ is the Niphal of פקח, so 'will be opened' is passive. The sheva of וְ becomes hireq before the yod of וִהְיִיתֶם.
+- כֵּאלֹהִים: אֱלֹהִים is plural in form and has no article; with a plural participle 'knowers' it can be read as 'like gods' or 'like divine beings'. The zaqef on כֵּאלֹהִים is disjunctive: it divides כֵּאלֹהִים from יֹדְעֵי טוֹב וָרָע, which allows 'knowing good and evil' as a second predicate of 'you', but does not decide it.
+- The revia on the second כִּי sets off the content of God's knowledge; the etnaḥta falls after עֵינֵיכֶם.
+
+Note: אֱלֹהִים after the preposition כְּ is not decisive: Ibn Ezra and Radak read 'like angels' and Rashi 'creators of worlds'; the English 'divine beings' covers both and leaves out the singular 'God'. 'Eyes will be opened' is an idiom for gaining knowledge; Radak: the eyes of the heart. 'Good and evil' translates טוֹב וָרָע as the moral pair (BDB sense 4 for טוֹב).
+
+Commentary:
+
+- Rashi (records): Rashi: 'every craftsman hates those of his own craft': He ate from the tree and created the world (Gen. Rabbah). It makes God's knowing a motive of jealousy; the English leaves the motive open.
+- Rashi (records): Rashi: 'makers of worlds' (Gen. Rabbah). He takes אֱלֹהִים as gods who create; the English 'divine beings' allows it.
+- Ibn Ezra (follows): Ibn Ezra: 'like angels'. The English 'divine beings' is a wider term that includes angels (BDB 1.c, 1.b).
+- Radak (follows): Radak: 'the eyes of your heart' — the opening of the eyes is knowledge, not sight; the English keeps the idiom.
+- Radak (follows): Radak: 'like angels', as Ibn Ezra.
+- Radak (not-applicable): Radak: the serpent took this phrase 'good and evil' from the woman's earlier words, and it is explained at 2:17.
+
+Apparatus:
+
+- Onkelos: אֲרֵי גַּלֵּי קֳדָם יְיָ ... וּתְהוֹן כְּרַבְרְבִין חַכִּימִין 'for it is revealed before the LORD ... and you will be like great, wise ones': אֱלֹהִים as 'great ones' (BDB 1.a), 'knowing' as 'wise'.
+- Sforno: the serpent says God forbade the fruit because He knows you would gain added knowledge, not from fear of death.
+- Whether יֹדְעֵי goes with 'you' or with 'divine beings' is open; the zaqef on כֵּאלֹהִים separates the two words, which favours 'you' but does not decide.
 
 #### Genesis 3:6
 
 > וַתֵּ֣רֶא הָֽאִשָּׁ֡ה כִּ֣י טוֹב֩ הָעֵ֨ץ לְמַאֲכָ֜ל וְכִ֧י תַֽאֲוָה־ה֣וּא לָעֵינַ֗יִם וְנֶחְמָ֤ד הָעֵץ֙ לְהַשְׂכִּ֔יל וַתִּקַּ֥ח מִפִּרְי֖וֹ וַתֹּאכַ֑ל וַתִּתֵּ֧ן גַּם־לְאִישָׁ֛הּ עִמָּ֖הּ וַיֹּאכַֽל׃
 
-_Not yet translated._
+**The woman saw that the tree was good for eating, and that it was a delight to the eyes, and that the tree was desirable for gaining insight. She took some of its fruit and ate, and she also gave some to her husband with her, and he ate.**
+
+Literal: and-saw the-woman that good the-tree for-food and-that desire it to-the-eyes and-desirable the-tree to-make-wise and-took from-its-fruit and-ate and-gave also to-her-husband with-her and-ate
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֵּ֣רֶא | and saw — wayyiqtol: 'saw', 'perceived'; the commentators read it as seeing in her mind | ו: and + רָאָה | ראה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1.a |
+| הָֽאִשָּׁ֡ה | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| כִּ֣י | that — כִּי introduces what she saw; it opens the first two of three object clauses | כִּי |  | conjunction | 1 |
+| טוֹב֩ | good | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 3 |
+| הָעֵ֨ץ | the tree | ה: the + עֵץ | עצה | particle (definite article) + noun (common, masculine, singular, absolute) | 1.a |
+| לְמַאֲכָ֜ל | for eating — מַאֲכָל 'food': 'for food', 'for eating' | ל: to, for + מַאֲכָל | אכל | preposition + noun (common, masculine, singular, absolute) |  |
+| וְכִ֧י | and that — וְכִי: the second 'that' clause | ו: and + כִּי |  | conjunction + conjunction | 1 |
+| תַֽאֲוָה | a delight — תַאֲוָה 'desire, a thing desired'; with maqqef to הוּא | תַּאֲוָה | אוה | noun (common, feminine, singular, absolute) | 2 |
+| ה֣וּא | it — the pronoun הוּא works as the copula: 'it is' | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| לָעֵינַ֗יִם | to the eyes — dual of עַיִן with the article and ל: 'to the eyes' | ל: to, for + עַ֫יִן | עין | preposition (with definite article) + noun (common, both genders, dual, absolute) |  |
+| וְנֶחְמָ֤ד | and desirable — Niphal participle of חמד: 'to be desired' | ו: and + חָמַד | חמד | conjunction + verb (nifal, participle active, masculine, singular, absolute) | Niph |
+| הָעֵץ֙ | the tree | ה: the + עֵץ | עצה | particle (definite article) + noun (common, masculine, singular, absolute) | 1.a |
+| לְהַשְׂכִּ֔יל | for gaining insight — Hiphil infinitive construct of שׂכל: 'to have insight' (intransitive) or 'to make wise' (transitive) | ל: to, for + שָׂכַל | שׂכל | preposition + verb (hifil, infinitive construct) | Hiph 3 |
+| וַתִּקַּ֥ח | and she took — wayyiqtol of לקח | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| מִפִּרְי֖וֹ | from its fruit — מִן is partitive: 'some of its fruit' | מ: from, than + פְּרִי | פרה | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| וַתֹּאכַ֑ל | and ate — wayyiqtol 3rd feminine singular | ו: and + אָכַל | אכל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| וַתִּתֵּ֧ן | and she gave — wayyiqtol of נתן; the object (fruit) is not stated | ו: and + נָתַן | נתן | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| גַּם | also | גַּם | גמם | particle (affirmation) |  |
+| לְאִישָׁ֛הּ | to her husband — אִישׁ 'man' with a 3rd feminine suffix and ל: 'to her husband' | ל: to, for + אִישׁ | אישׁ | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| עִמָּ֖הּ | with her — 'with her': either with the giving or with the husband | עִם |  | preposition + suffix (pronominal, 3rd person, feminine, singular) | 1.b |
+| וַיֹּאכַֽל׃ | and he ate — wayyiqtol 3rd masculine singular | ו: and + אָכַל | אכל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- Three clauses follow וַתֵּרֶא: good for eating, a delight to the eyes, desirable for gaining insight. The first two open with כִּי; the third has no כִּי of its own and uses a Niphal participle.
+- נֶחְמָד is a Niphal participle, 'to be desired'; לְהַשְׂכִּיל is the Hiphil infinitive of שׂכל, 'to have insight' or 'to make wise': Ibn Ezra and Rashi take it as gaining insight, 'knowing good and evil' (3:5).
+- תַאֲוָה־הוּא has the pronoun הוּא as copula: 'it is a delight'. The maqqef joins the two; the accent on הוּא is munaḥ.
+- The series of wayyiqtols is quick: she took, ate, gave, and he ate. The husband is the subject of the last verb only.
+- The woman is אִשָּׁה and her husband אִישׁ: the pair of 2:23 is used again, now as 'her husband'.
+- The accents: the pazer on הָאִשָּׁה, the geresh on לְמַאֲכָל, the darga on וְכִי, and the etnaḥta on וַתֹּאכַל; the tevir on לְאִישָׁהּ.
+
+Note: 'Saw' is kept: the commentators take the seeing as inner, 'in her heart' (Ibn Ezra, Radak), and Rashi as seeing his words; they do not call for another verb in the English. 'Delight' renders תַאֲוָה, a thing desired; the Hebrew has no preposition for 'the eyes' beyond ל. 'To the eyes' is kept, with Ramban's 'he desires with his eyes' in mind. עִמָּהּ can go with the giving ('together with her') or with the husband ('who was with her', Sforno); the English 'with her' keeps both.
+
+Commentary:
+
+- Rashi (records): Rashi: she saw the serpent's words, and they pleased her, and she believed him. The 'seeing' is taken as inner perception; the English 'saw' leaves this open.
+- Rashi (records): Rashi: 'good' for being like God. The English keeps 'good for eating', the plain sense of לְמַאֲכָל.
+- Rashi (records): Rashi: 'a desire to the eyes' as he said to her, 'your eyes will be opened'. The English keeps 'a delight to the eyes'.
+- Rashi (follows): Rashi: 'desirable for gaining insight' as he said to her, 'knowing good and evil'. The English 'for gaining insight' keeps the link with 3:5.
+- Rashi (not-applicable): Rashi: she gave also to her husband so that she not die and he live and marry another. A homily on her motive.
+- Rashi (not-applicable): Rashi: גַּם comes to include the animals and wild creatures. A homily; the English gives 'also' in its plain sense.
+- Ibn Ezra (records): Ibn Ezra: 'in her heart'. A real alternative: the seeing is inner. The English 'saw' does not decide.
+- Ibn Ezra (follows): Ibn Ezra: desirable 'so that she would gain insight and her eyes would be opened'. The English 'for gaining insight'.
+- Ibn Ezra (follows): Ibn Ezra: עִמָּהּ means they ate it together, and she told him the serpent's secret; he was not deceived, and so was punished. He also holds that the tree was not a fig and that 'knowing' is a euphemism for union; the English 'with her' keeps the first.
+- Ibn Ezra (not-applicable): Filed at the end of the verse, but the comment is on 'tree of life' (3:22) and the question of death: 'לעולם' does not mean forever. It does not bear on 3:6.
+- Ramban (follows): Ramban: 'desire to the eyes': he desires with, and goes after, his eyes. The English 'a delight to the eyes'.
+- Sforno (records): Sforno: he was drawn by her words because he was her husband and because he was with her. The English 'with her' keeps this as a possible reading of עִמָּהּ.
+
+Apparatus:
+
+- Onkelos: אַסֵּי הוּא לְעַיְנִין 'it is healing to the eyes' for תַאֲוָה־הוּא לָעֵינַיִם, and מְרַגֵּג אִילָנָא לְאִסְתַּכָּלָא בֵהּ 'the tree pleases to look at'; a different sense for לְהַשְׂכִּיל.
+- Radak (3:6:4): she ate twice, he once.
+- The identity of the tree is not given in the text: Rashi (3:7), a fig; Radak (3:7) cites the Rabbis' fig, wheat and citron and the view that it was never revealed, and says 'we do not know'; Ibn Ezra, one of two trees found only in the garden.
 
 #### Genesis 3:7
 
 > וַתִּפָּקַ֙חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם וַֽיִּתְפְּרוּ֙ עֲלֵ֣ה תְאֵנָ֔ה וַיַּעֲשׂ֥וּ לָהֶ֖ם חֲגֹרֹֽת׃
 
-_Not yet translated._
+**Then the eyes of the two of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves loincloths.**
+
+Literal: and-were-opened eyes-of two-of-them and-knew that naked they and-sewed leaf-of fig and-made for-themselves loincloths
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתִּפָּקַ֙חְנָה֙ | and were opened — wayyiqtol Niphal with the 3rd feminine plural ending -נָה, to agree with the feminine עֵינֵי; the serpent's וְנִפְקְחוּ (3:5) fulfilled | ו: and + פָּקַח | פקח | conjunction + verb (nifal, sequential imperfect (wayyiqtol), 3rd person, feminine, plural) | Niph |
+| עֵינֵ֣י | the eyes of — dual construct of עַיִן, feminine | עַ֫יִן | עין | noun (common, both genders, dual, construct) |  |
+| שְׁנֵיהֶ֔ם | the two of them — dual construct of שְׁנַיִם with a 3rd masculine plural suffix | שְׁנַ֫יִם | שׁנה | adjective (cardinal number, masculine, dual, construct) + suffix (pronominal, 3rd person, masculine, plural) |  |
+| וַיֵּ֣דְע֔וּ | and they knew — wayyiqtol of ידע | ו: and + יָדַע | ידע | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1.a |
+| כִּ֥י | that | כִּי |  | conjunction | 1 |
+| עֵֽירֻמִּ֖ם | naked — עֵירֹם, plural, here written without the second yod; a different word from עָרוֹם (2:25) and עָרוּם (3:1) | עֵירֹם | עור | adjective (adjective, masculine, plural, absolute) |  |
+| הֵ֑ם | they — the subject of the nominal clause, after its predicate: 'that naked they (were)' | הֵ֫מָּה |  | pronoun (personal, 3rd person, masculine, plural) |  |
+| וַֽיִּתְפְּרוּ֙ | and they sewed — wayyiqtol of תפר, 'sew together' | ו: and + תָּפַר | תפר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal |
+| עֲלֵ֣ה | leaves of — construct state of עָלֶה 'leaf'; a collective | עָלֶה | עלה | noun (common, masculine, singular, construct) |  |
+| תְאֵנָ֔ה | fig — 'leaf of fig': 'fig leaves' | תְּאֵנָה |  | noun (common, feminine, singular, absolute) |  |
+| וַיַּעֲשׂ֥וּ | and they made — wayyiqtol of עשׂה | ו: and + עָשָׂה | עשׂה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal II.1 |
+| לָהֶ֖ם | for themselves — ל with a 3rd masculine plural suffix: reflexive dative | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, plural) |  |
+| חֲגֹרֹֽת׃ | loincloths — חֲגוֹרָה 'girdle, loin-covering, belt', from the root חגר 'gird' | חֲגוֹרָה | חגר | noun (common, feminine, plural, absolute) |  |
+
+Grammar:
+
+- וַתִּפָּקַחְנָה is a wayyiqtol Niphal with the feminine plural ending -נָה, agreeing with the feminine dual עֵינֵי; it fulfils the serpent's וְנִפְקְחוּ (3:5), the same Niphal of פקח. The pashta is written twice because the word is stressed before its last syllable: pashta stands on the last letter, and a second sign marks the stressed syllable.
+- וַיֵּדְעוּ כִּי introduces the content of what they knew, as כִּי in 3:5 introduced what God knows.
+- עֵירֻמִּם הֵם is a nominal clause: the predicate עֵירֻמִּם stands first and the pronoun הֵם is its subject, 'that naked they (were)'. The word-play עֲרוּמִּים (2:25), עָרוּם (3:1), עֵירֻמִּם is a chain of near-homonyms.
+- The wayyiqtols וַיִּתְפְּרוּ and וַיַּעֲשׂוּ narrate their act quickly; the etnaḥta falls after הֵם.
+- חֲגֹרֹת is a plural noun from the root חגר 'to gird': what is bound around the waist.
+
+Note: The text writes עֵירֻמִּם without the second yod, the plural עֵירֻמִּים; Rashi and Radak quote it in the full spelling and the sense is the same. 'Eyes were opened' is kept as the idiom of 3:5; Rashi and Ramban say it speaks of insight, not of actual sight, and the end of the verse ('they knew') shows it. 'Fig leaves' is a collective, 'leaf of fig'. חֲגֹרֹת is rendered 'loincloths' (BDB: girdle, loin-covering, belt).
+
+Commentary:
+
+- Rashi (follows): Rashi: the verse speaks of insight and not of actual sight, and the end of the verse proves it. The English keeps 'eyes were opened' with 'they knew'.
+- Rashi (records): Rashi: even a blind man knows he is naked; so what is 'they knew that they were naked'? They had one commandment in their hand and were stripped of it (Gen. Rabbah). The English gives the plain 'knew that they were naked' and leaves this as a reading.
+- Rashi (records): Rashi: the fig is the tree they ate from, so they were put right with what ruined them; the other trees kept them from taking leaves. The identity of the tree is not in the English, which says 'fig leaves'.
+- Ramban (follows): Ramban, after Rashi: the Scripture speaks of knowledge and not of actual sight; its end proves it, 'and they knew that they were naked', as in 'open my eyes that I may behold wonders' (Ps. 119:18).
+- Radak (records): Radak: it says 'they knew' and not 'they saw', since what they now saw was what they had seen before; after eating, desire arose in them and the organ was stirred, so they were ashamed. A reading of what the knowing was.
+- Radak (not-applicable): Radak: עֵירֻמִּים is written with a yod of prolongation (יו״ד המשך), the yod after the ʿayin that marks the long vowel ē; this sets it apart in spelling from עֲרוּמִּים of 2:25. A note on spelling.
+- Radak (follows): Radak: fig leaves are broad, so they sewed them to one another and made belts to cover their nakedness. This agrees with 'sewed together' and 'loincloths'.
+- Sforno (records): Sforno: they knew that the place of nakedness should be covered, since their acts were now aimed at pleasure that is loathsome and harmful. A reading of what they knew.
+
+Apparatus:
+
+- MAM writes עֵירֻמִּם (defective, without the yod of the plural ending) where Rashi and Radak quote the full plural עֵירֻמִּים; no change of sense.
+- Onkelos: טַרְפֵי תְאֵנִין 'fig leaves' and זְרָזִין 'belts' for חֲגֹרֹת; עַרְטִילָאִין 'naked'.
+- Radak: the Rabbis name the tree a fig, wheat or citron; Ibn Ezra (3:6) thinks the fig is not the tree of knowledge, because the verse would then say 'leaves of the tree of knowledge'.
 
 #### Genesis 3:8
 
 > וַֽיִּשְׁמְע֞וּ אֶת־ק֨וֹל יְהֹוָ֧ה אֱלֹהִ֛ים מִתְהַלֵּ֥ךְ בַּגָּ֖ן לְר֣וּחַ הַיּ֑וֹם וַיִּתְחַבֵּ֨א הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהֹוָ֣ה אֱלֹהִ֔ים בְּת֖וֹךְ עֵ֥ץ הַגָּֽן׃
 
-_Not yet translated._
+**They heard the sound of the LORD God walking about in the garden at the breeze of the day, and the human and his wife hid from the LORD God among the trees of the garden.**
+
+Literal: and-they-heard [object-marker] sound-of LORD God walking-about in-the-garden to-wind-of the-day and-hid the-human and-his-wife from-face-of LORD God in-midst-of tree-of the-garden
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיִּשְׁמְע֞וּ | and they heard — wayyiqtol 3mp; the subject is the man and his wife (3:7). BDB lists no Qal sense for שָׁמַע in this pack. | ו: and + שָׁמַע | שׁמע | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) |  |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| ק֨וֹל | the sound of — construct state | קוֹל | קול | noun (common, masculine, singular, construct) |  |
+| יְהֹוָ֧ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֛ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| מִתְהַלֵּ֥ךְ | walking about — hitpael participle: habitual or continuous walking to and fro; the antecedent may be the sound or the LORD God | הָלַךְ | הלך | verb (hitpael, participle active, masculine, singular, absolute) | Hithp |
+| בַּגָּ֖ן | in the garden | ב: in, with, by + גַּן | גנן | preposition (with definite article) + noun (common, both genders, singular, absolute) |  |
+| לְר֣וּחַ | at the breeze of — construct; לְ here 'toward, at' | ל: to, for + רוּחַ | רוח | preposition + noun (common, both genders, singular, construct) | 2 |
+| הַיּ֑וֹם | the day | ה: the + יוֹם |  | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| וַיִּתְחַבֵּ֨א | and (he) hid himself — wayyiqtol with a singular verb before a compound subject | ו: and + חָבָא | חבא | conjunction + verb (hitpael, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hithp 1 |
+| הָֽאָדָ֜ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| וְאִשְׁתּ֗וֹ | and his wife — construct form אִשְׁתּ- with the suffix -וֹ | ו: and + אִשָּׁה | אנשׁ | conjunction + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| מִפְּנֵי֙ | from before — מִפְּנֵי, 'from the face of', idiom for 'away from, out of the sight of' | מ: from, than + פָּנֶה | פנה | preposition + noun (common, both genders, plural, construct) | I.6 |
+| יְהֹוָ֣ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֔ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| בְּת֖וֹךְ | in the midst of — construct | ב: in, with, by + תָּ֫וֶךְ |  | preposition + noun (common, masculine, singular, construct) |  |
+| עֵ֥ץ | the trees of — singular עֵץ used collectively (Radak: 'the trees of the garden') | עֵץ | עצה | noun (common, masculine, singular, construct) | 1.b |
+| הַגָּֽן׃ | the garden | ה: the + גַּן | גנן | particle (definite article) + noun (common, both genders, singular, absolute) |  |
+
+Grammar:
+
+- וַיִּשְׁמְעוּ: wayyiqtol 3mp of שׁמע. The gershayim (disjunctive) falls on the first word.
+- מִתְהַלֵּךְ is a hitpael participle, masculine singular. It agrees with קוֹל ('the sound ... walking') or with יְהוָה אֱלֹהִים; the Hebrew does not say which.
+- The etnaḥta on הַיּוֹם closes the first half: what they heard, and when. The second half, וַיִּתְחַבֵּא ..., is the reaction.
+- וַיִּתְחַבֵּא is singular, before a compound subject, the man first and his wife second.
+- בְּתוֹךְ עֵץ הַגָּן: singular עֵץ in a collective sense, 'among the trees'.
+
+Note: לְרוּחַ הַיּוֹם is kept literal. Rashi takes רוּחַ as the direction (west, where the sun is toward evening); Ibn Ezra, Radak and Ramban take it as the wind or breeze of the day, that is, toward evening. 'Breeze of the day' leaves that open; the choice among them is recorded under Rashi's comment. מִתְהַלֵּךְ is also left open between the LORD God and his sound (Ibn Ezra and Ramban: the sound goes; Radak: or the man walks).
+
+Commentary:
+
+- Rashi (not-applicable): Rashi says that there are many aggadic midrashim, already arranged elsewhere, and that he comes only for the plain sense of the verse and for an aggadah that settles the words of the verse.
+- Rashi (follows): Rashi: 'What did they hear? They heard the sound of the Holy One, blessed be He, who was walking in the garden.' The English keeps the sound as the thing heard.
+- Rashi (records): Rashi: לְרוּחַ הַיּוֹם is 'toward that direction where the sun comes', the west, 'for toward evening the sun is in the west'. The English keeps the words 'breeze of the day' and does not choose the direction reading.
+- Ibn Ezra (follows): Ibn Ezra: the sound is the LORD's, and this was near evening 'when the wind of the day blows' (בעת התנופף רוח היום); the sound can 'walk' as in 'her sound goes like a serpent' (Jer 46:22). The English keeps 'the sound ... walking about'.
+- Radak (records): Radak: at evening when the day's wind cools; they knew the sound was God coming to speak to them about their sin, and hid for shame among the trees.
+
+Apparatus:
+
+- Whether רוּחַ הַיּוֹם is 'wind/breeze of the day' (Ibn Ezra, Radak, Ramban) or 'the western direction' (Rashi).
+- Whether מִתְהַלֵּךְ qualifies קוֹל or יהוה אלהים (Ibn Ezra, Ramban); Radak records the view that it refers to the man.
+- The verb שׁמע (Qal) has no sense in the lexicon entry shown in the pack, which lists Niph and Pi only.
 
 #### Genesis 3:9
 
 > וַיִּקְרָ֛א יְהֹוָ֥ה אֱלֹהִ֖ים אֶל־הָֽאָדָ֑ם וַיֹּ֥אמֶר ל֖וֹ אַיֶּֽכָּה׃
 
-_Not yet translated._
+**The LORD God called to the human and said to him, "Where are you?"**
+
+Literal: and-called LORD God to the-human and-said to-him where-you
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּקְרָ֛א | and (he) called — wayyiqtol | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 2.a |
+| יְהֹוָ֥ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֖ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| אֶל | to | אֶל |  | preposition |  |
+| הָֽאָדָ֑ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| וַיֹּ֥אמֶר | and he said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| ל֖וֹ | to him | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| אַיֶּֽכָּה׃ | where are you? — אַיֶּכָּה is אַי 'where' with the 2ms suffix in its full spelling ־כָה (= ־ךָ); the copula is not written | אַי |  | particle (interrogative) + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+
+Grammar:
+
+- וַיִּקְרָא ... אֶל, 'call to', takes אֶל for the one called.
+- אַיֶּכָּה: אַי 'where?' with the 2ms suffix written in full, ־כָה for ־ךָ; the ה is a spelling of the suffix, not a pausal change. The sentence has no verb: 'where-you?'.
+- The etnaḥta on הָאָדָם divides the verse: the call, then the question.
+
+Note: The question is not a request for information; the commentators give its purpose (to open a conversation), recorded below.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'He knew where he was, but wished to enter into words with him, so that he would not be too startled to answer if He punished him suddenly', as with Cain ('Where is Abel your brother?'). The English asks the plain question.
+- Ibn Ezra (follows): Ibn Ezra: the sense of אַיֶּכָּה is an opening for conversation (פתחון הדברים), like 'Where is Abel your brother?' (4:9).
+- Radak (follows): Radak: said as an opening of words, like 'Where is Abel your brother?' and 'What is this in your hand?' (Ex 4:2).
+
+Apparatus:
+
+- Sforno reads the question as 'you are not seen in the garden as before, why do you hide now?'; Onkelos translates 'where are you?' (אָן אָתְּ).
 
 #### Genesis 3:10
 
 > וַיֹּ֕אמֶר אֶת־קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן וָאִירָ֛א כִּֽי־עֵירֹ֥ם אָנֹ֖כִי וָאֵחָבֵֽא׃
 
-_Not yet translated._
+**He said, "I heard your sound in the garden, and I was afraid because I am naked, and I hid."**
+
+Literal: and-said [object-marker] sound-your I-heard in-the-garden and-I-was-afraid for naked I and-I-hid-myself
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֕אמֶר | and he said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| קֹלְךָ֥ | your sound — construct form קֹל- with the suffix -ךָ; the object is placed first, for emphasis | קוֹל | קול | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) |  |
+| שָׁמַ֖עְתִּי | I heard | שָׁמַע | שׁמע | verb (qal, perfect (qatal), 1st person, common, singular) |  |
+| בַּגָּ֑ן | in the garden | ב: in, with, by + גַּן | גנן | preposition (with definite article) + noun (common, both genders, singular, absolute) |  |
+| וָאִירָ֛א | and I was afraid — wayyiqtol 1cs | ו: and + יָרֵא | ירא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 1 |
+| כִּֽי | because | כִּי |  | conjunction | 3 |
+| עֵירֹ֥ם | naked — spelled with a yod: עֵירֹם (Radak) | עֵירֹם | עור | adjective (adjective, masculine, singular, absolute) |  |
+| אָנֹ֖כִי | I | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
+| וָאֵחָבֵֽא׃ | and I hid myself — niphal wayyiqtol 1cs; reflexive 'hid myself' | ו: and + חָבָא | חבא | conjunction + verb (nifal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Niph |
+
+Grammar:
+
+- אֶת־קֹלְךָ שָׁמַעְתִּי: the object is fronted before the verb, so that the sound is what is stressed.
+- קוֹל is rendered 'sound', not 'voice': Genesis 3:8 has the same word of the LORD God walking.
+- וָאִירָא and וָאֵחָבֵא are wayyiqtol forms in the first person, with ָ on the ו; the second verb is niphal (reflexive).
+- עֵירֹם, 'naked', is written with a yod (cf. 3:11). עֵירֹם אָנֹכִי is a verbless clause: the predicate comes first and the pronoun אָנֹכִי is its subject, 'I am naked'.
+
+Note: 'Your sound' is used to match 3:8; 'your voice' would be an equally good rendering of קוֹל. The man says nothing of the fruit.
+
+Commentary:
+
+- Radak (not-applicable): Radak: עֵירֹם is written with a yod, as in 'for you are naked' (3:7).
 
 #### Genesis 3:11
 
 > וַיֹּ֕אמֶר מִ֚י הִגִּ֣יד לְךָ֔ כִּ֥י עֵירֹ֖ם אָ֑תָּה הֲמִן־הָעֵ֗ץ אֲשֶׁ֧ר צִוִּיתִ֛יךָ לְבִלְתִּ֥י אֲכׇל־מִמֶּ֖נּוּ אָכָֽלְתָּ׃
 
-_Not yet translated._
+**He said, "Who told you that you are naked? Have you eaten from the tree that I commanded you not to eat from?"**
+
+Literal: and-said who told to-you that naked you [interrogative]-from-the-tree which I-commanded-you to-not eat from-it you-ate
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֕אמֶר | and he said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| מִ֚י | who | מִי |  | particle (interrogative) |  |
+| הִגִּ֣יד | told — hifil perfect 3ms | נָגַד | נגד | verb (hifil, perfect (qatal), 3rd person, masculine, singular) | Hiph |
+| לְךָ֔ | to you | ל: to, for |  | preposition + suffix (pronominal, 2nd person, masculine, singular) |  |
+| כִּ֥י | that | כִּי |  | conjunction | 1 |
+| עֵירֹ֖ם | naked — spelled with a yod | עֵירֹם | עור | adjective (adjective, masculine, singular, absolute) |  |
+| אָ֑תָּה | you | אַתָּ֫ה | אנת | pronoun (personal, 2nd person, masculine, singular) |  |
+| הֲמִן | is it from — הֲ introduces a question (Rashi: 'in astonishment'; Radak: like הֲרָצַחְתָּ), with מִן | ה: interrogative + מִן־ |  | particle (interrogative) + preposition |  |
+| הָעֵ֗ץ | the tree | ה: the + עֵץ | עצה | particle (definite article) + noun (common, masculine, singular, absolute) | 1.a |
+| אֲשֶׁ֧ר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| צִוִּיתִ֛יךָ | I commanded you — piel perfect 1cs with the suffix -ךָ | צָוָה | צוה | verb (piel, perfect (qatal), 1st person, common, singular) + suffix (pronominal, 2nd person, masculine, singular) |  |
+| לְבִלְתִּ֥י | not to — לְבִלְתִּי: 'not'; with לְ it gives the sense 'so as not' (Ibn Ezra) | ל: to, for + בִּלְתִּי | בלה | preposition + conjunction |  |
+| אֲכׇל | eat — infinitive construct אֲכָל (Ibn Ezra: 'name of the action') | אָכַל | אכל | verb (qal, infinitive construct) | Qal 1 |
+| מִמֶּ֖נּוּ | from it — מִמֶּנּוּ 'from it', that is, from the tree; the pack's data parse the suffix as 1st person plural ('from us'), a form identical to the 3ms, but the antecedent הָעֵץ requires the 3ms | מִן־ |  | preposition + suffix (pronominal, 1st person, common, plural) |  |
+| אָכָֽלְתָּ׃ | you ate — perfect 2ms | אָכַל | אכל | verb (qal, perfect (qatal), 2nd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- The etnaḥta on אָתָּה divides the verse: the first question (who told you), then the second (did you eat).
+- הֲמִן־הָעֵץ ... אָכָלְתָּ: the interrogative ה is attached to the fronted phrase, and the verb אָכָלְתָּ is last; the sentence is a yes-or-no question, and Rashi takes it as a question of astonishment (בתמיהה).
+- לְבִלְתִּי אֲכָל: לְבִלְתִּי with an infinitive construct, 'so as not to eat'; Ibn Ezra says that with the ל it means 'so that not' (שלא), without it 'only'.
+- אֲכָל is an infinitive construct, and Ibn Ezra calls it 'name of the action' (שם הפועל); compare לְבִלְתִּי שְׁמֹר (Dt 8:11).
+- הִגִּיד is a hifil of נגד, 'to tell, to make known'.
+
+Note: The single phrase for the second question keeps the Hebrew's order of ideas in one English clause; English puts the verb before the object, so the phrase cannot be split by words.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'From where would you know what shame there is in standing naked?' The English asks who told him.
+- Rashi (follows): Rashi: הֲמִן הָעֵץ is a question 'in astonishment' (בתמיהה). The English is a question.
+- Ibn Ezra (follows): Ibn Ezra: with a ל, לבלתי has the sense of שלא ('so that not'); without a ל it has the sense of רק ('only'). The English 'not to eat' follows the first.
+- Ibn Ezra (follows): Ibn Ezra: אֲכָל is the name of the action (the infinitive), as in 'not to keep his commandments' (Dt 8:11). The English uses the infinitive.
+- Radak (follows): Radak: the ה is the ה of הֲרָצַחְתָּ (1 Kings 21:19), and the question is asked to hear the answer, 'for the matter is known before God'.
+
+Apparatus:
+
+- Sforno reads מִי הִגִּיד לְךָ as 'who told you of the knowledge of good and evil?'.
 
 #### Genesis 3:12
 
 > וַיֹּ֖אמֶר הָֽאָדָ֑ם הָֽאִשָּׁה֙ אֲשֶׁ֣ר נָתַ֣תָּה עִמָּדִ֔י הִ֛וא נָֽתְנָה־לִּ֥י מִן־הָעֵ֖ץ וָאֹכֵֽל׃
 
-_Not yet translated._
+**The human said, "The woman whom you put with me, she gave me from the tree, and I ate."**
+
+Literal: and-said the-human the-woman whom you-gave beside-me she gave-to-me from-the-tree and-I-ate
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֖אמֶר | and he said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| הָֽאָדָ֑ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| הָֽאִשָּׁה֙ | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אֲשֶׁ֣ר | whom | אֲשֶׁר | אשׁר | particle (relative) |  |
+| נָתַ֣תָּה | you put — perfect 2ms; the verb is 'give' in the sense 'set, place' | נָתַן | נתן | verb (qal, perfect (qatal), 2nd person, masculine, singular) | Qal 2 |
+| עִמָּדִ֔י | with me — עִמָּדִי is an extended form of עִם + suffix; Ibn Ezra: 'with me, in the garden' | עִמָּד |  | preposition + suffix (pronominal, 1st person, common, singular) |  |
+| הִ֛וא | she — independent pronoun resuming 'the woman' after the casus pendens; written הוא in the Torah and pointed הִוא, it is read as the feminine 'she' (the Pentateuch's regular spelling of the 3fs pronoun) | הוּא |  | pronoun (personal, 3rd person, feminine, singular) |  |
+| נָֽתְנָה | gave — perfect 3fs | נָתַן | נתן | verb (qal, perfect (qatal), 3rd person, feminine, singular) | Qal 1 |
+| לִּ֥י | to me | ל: to, for |  | preposition + suffix (pronominal, 1st person, common, singular) |  |
+| מִן | from | מִן־ |  | preposition |  |
+| הָעֵ֖ץ | the tree | ה: the + עֵץ | עצה | particle (definite article) + noun (common, masculine, singular, absolute) | 1.a |
+| וָאֹכֵֽל׃ | and I ate — wayyiqtol 1cs, in pause: tsere in אֹכֵל for the patah of the usual וָאֹכַל; Ibn Ezra explains the form | ו: and + אָכַל | אכל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 1 |
+
+Grammar:
+
+- הָאִשָּׁה אֲשֶׁר נָתַתָּה עִמָּדִי: the woman is placed first as a casus pendens, and הִוא resumes her after the break at the zaqef qaton and the tevir.
+- The independent pronoun הִוא is stressed: 'she, she gave me'.
+- עִמָּדִי: an extended form of עִם, 'beside me'.
+- וָאֹכֵל is a wayyiqtol 1cs; Ibn Ezra explains the א and the pausal vowel.
+- The man does not name the fruit: מִן־הָעֵץ, 'from the tree'.
+
+Note: נָתַתָּה is written with a final ה, a 2ms perfect in its full spelling. Ibn Ezra glosses the clause 'you gave (me) the one who gave to me'. 'Put' for נתן follows BDB's 'put, set'. Rashi (with the rabbis, Avodah Zarah 5) hears ingratitude in the line, as if the man blamed God for the gift. Ramban reads it as the man's plea: he took the woman God had given as a help, and thought her counsel would help him. Ramban then records the rabbis' reading.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi (Avodah Zarah 5): 'Here he denied the favour', that is, the human blames God for the gift of the woman. The English keeps the words and does not add the charge.
+- Ibn Ezra (follows): Ibn Ezra: 'you gave the one who gave to me' (אתה נתת הנותנת לי). עִמָּדִי means 'with me in the garden' and is the same as עִמִּי, but the form is found only with the first-person singular suffix (לשון יחיד המדבר).
+- Ibn Ezra (not-applicable): Ibn Ezra on וָאֹכֵל: the א is the sign of the first person, and the quiescent letter after it stands for the root's א. The last syllable has 'small qamets' (tsere: אֹכֵל, not אֹכַל) because the word ends the verse. He adds that a ו with qamets does not otherwise come with the verb, 'for it is always with sheva'.
+- Ramban (records): Ramban: the human meant 'the woman whom you in your honour gave me as a help, she gave me from the tree'; the rabbis call it ingratitude.
+
+Apparatus:
+
+- Whether the man's words are a plea or an accusation of God (Rashi and the rabbis: ingratitude; Ramban: the woman as a presumed help).
 
 #### Genesis 3:13
 
 > וַיֹּ֨אמֶר יְהֹוָ֧ה אֱלֹהִ֛ים לָאִשָּׁ֖ה מַה־זֹּ֣את עָשִׂ֑ית וַתֹּ֙אמֶר֙ הָֽאִשָּׁ֔ה הַנָּחָ֥שׁ הִשִּׁיאַ֖נִי וָאֹכֵֽל׃
 
-_Not yet translated._
+**The LORD God said to the woman, "What is this you have done?" The woman said, "The serpent deceived me, and I ate."**
+
+Literal: and-said LORD God to-the-woman what this you-did and-said the-woman the-serpent deceived-me and-I-ate
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֨אמֶר | and he said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יְהֹוָ֧ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֛ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| לָאִשָּׁ֖ה | to the woman | ל: to, for + אִשָּׁה | אנשׁ | preposition (with definite article) + noun (common, feminine, singular, absolute) | 1 |
+| מַה | what | מָה |  | particle (interrogative) | 1 |
+| זֹּ֣את | this | זֹאת |  | pronoun (demonstrative, feminine, singular) |  |
+| עָשִׂ֑ית | you have done — perfect 2fs; in a III-ה verb the 2fs ends in ־ִית (עָשִׂית), against the 2ms עָשִׂיתָ of 3:14 | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 2nd person, feminine, singular) | Qal I.1 |
+| וַתֹּ֙אמֶר֙ | and she said — wayyiqtol 3fs | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| הָֽאִשָּׁ֔ה | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| הַנָּחָ֥שׁ | the serpent | ה: the + נָחָשׁ | נחשׁ | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| הִשִּׁיאַ֖נִי | deceived me — hifil perfect 3ms with the suffix -נִי | נָשָׁא | נשׁא | verb (hifil, perfect (qatal), 3rd person, masculine, singular) + suffix (pronominal, 1st person, common, singular) | Hiph |
+| וָאֹכֵֽל׃ | and I ate — wayyiqtol 1cs, in pause (tsere for the usual patah), as in 3:12 | ו: and + אָכַל | אכל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 1 |
+
+Grammar:
+
+- מַה־זֹּאת עָשִׂית: 'what is this that you did?'; the 2fs perfect of a III-ה verb ends in ־ית.
+- The wayyiqtol וַתֹּאמֶר carries pashta twice. Pashta is written on the last letter, so a word stressed before its last syllable repeats it on the stressed syllable: וַתֹּ֙אמֶר֙, stress on תֹּ.
+- הַנָּחָשׁ הִשִּׁיאַנִי: subject first and the verb after it, the order of an answer.
+- הִשִּׁיאַנִי is a hifil of נשׁא with the suffix; the sense is 'to deceive' (BDB 'beguile'), not the common 'lift'.
+- The woman repeats the man's וָאֹכֵל: 'and I ate'.
+
+Note: הִשִּׁיאַנִי 'deceived me': Rashi 'led me astray' (הטעני) and Ibn Ezra 'enticed me' (פתני) agree on 'deceive', in the sense of deceit or persuasion. Ramban records that the woman, like the serpent, was punished for the eating and the counsel.
+
+Commentary:
+
+- Rashi (follows): Rashi: הִשִּׁיאַנִי means הִטְעַנִי, 'misled me', as in 'Do not let Hezekiah deceive you' (2 Chr 32:15). The English follows with 'deceived'.
+- Ibn Ezra (follows): Ibn Ezra: הִשִּׁיאַנִי means פִּתַּנִי, 'enticed me'. The English 'deceived' is close to it.
+- Radak (not-applicable): Radak: the woman answers that if she led the man astray, the serpent led her astray, and God created the serpent.
+
+Apparatus:
+
+- The root is נשׁא II 'deceive'; it is not the נשׁא 'lift'.
 
 #### Genesis 3:14
 
 > וַיֹּ֩אמֶר֩ יְהֹוָ֨ה אֱלֹהִ֥ים ׀ אֶֽל־הַנָּחָשׁ֮ כִּ֣י עָשִׂ֣יתָ זֹּאת֒ אָר֤וּר אַתָּה֙ מִכׇּל־הַבְּהֵמָ֔ה וּמִכֹּ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה עַל־גְּחֹנְךָ֣ תֵלֵ֔ךְ וְעָפָ֥ר תֹּאכַ֖ל כׇּל־יְמֵ֥י חַיֶּֽיךָ׃
 
-_Not yet translated._
+**The LORD God said to the serpent, "Because you have done this, cursed are you more than all the livestock and more than all the wild animals of the field. On your belly you shall go, and dust you shall eat all the days of your life."**
+
+Literal: and-said LORD God to-the-serpent because you-did this cursed you from-all-the-livestock and-from-all-living-thing-of the-field upon belly-your you-will-go and-dust you-will-eat all days-of lives-your
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֩אמֶר֩ | and he said — wayyiqtol; two telisha qetana accents mark the word | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יְהֹוָ֨ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֥ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 2.d |
+| אֶֽל | to | אֶל |  | preposition |  |
+| הַנָּחָשׁ֮ | the serpent | ה: the + נָחָשׁ | נחשׁ | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| כִּ֣י | because | כִּי |  | conjunction | 3 |
+| עָשִׂ֣יתָ | you have done — perfect 2ms | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 2nd person, masculine, singular) | Qal I.1 |
+| זֹּאת֒ | this | זֹאת |  | pronoun (demonstrative, feminine, singular) |  |
+| אָר֤וּר | cursed — passive participle of ארר, used as a formula of curse; no verb 'to be' is written | אָרַר | ארר | verb (qal, participle passive, masculine, singular, absolute) | Qal |
+| אַתָּה֙ | you | אַתָּ֫ה | אנת | pronoun (personal, 2nd person, masculine, singular) |  |
+| מִכׇּל | more than all — מִן comparative or partitive: 'more than' or 'from among all' | מ: from, than + כֹּל | כלל | preposition + noun (common, masculine, singular, construct) | 1 |
+| הַבְּהֵמָ֔ה | the livestock — BDB's only listed sense for בהמה in the pack is 'wild beasts'; here the word is set against חַיַּת הַשָּׂדֶה and means domestic animals | ה: the + בְּהֵמָה | בהם | particle (definite article) + noun (common, feminine, singular, absolute) |  |
+| וּמִכֹּ֖ל | and more than all — וּמִכֹּל; the second מִן | ו: and + מ: from, than + כֹּל | כלל | conjunction + preposition + noun (common, masculine, singular, construct) | 1 |
+| חַיַּ֣ת | the wild animals of — construct | חַיָּה | חיה | noun (common, feminine, singular, construct) | 1.b |
+| הַשָּׂדֶ֑ה | the field | ה: the + שָׂדֶה | שׂדה | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| עַל | on | עַל | עלה | preposition |  |
+| גְּחֹנְךָ֣ | your belly — גָּחוֹן 'belly'; Ibn Ezra: 'chest', and doubts whether the נ is of the root | גָּחוֹן | גחן | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) |  |
+| תֵלֵ֔ךְ | you shall go — yiqtol 2ms of הלך, formed as from ילך (the lemma is given as יָלַךְ); the entry in the pack lists no literal Qal sense 'go, walk', only the figurative 'die' and 'live', so no sense is cited | יָלַךְ | הלך | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) |  |
+| וְעָפָ֥ר | and dust — the object is placed first | ו: and + עָפָר | עפר | conjunction + noun (common, masculine, singular, absolute) |  |
+| תֹּאכַ֖ל | you shall eat — yiqtol 2ms | אָכַל | אכל | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1 |
+| כׇּל | all | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יְמֵ֥י | the days of — construct plural | יוֹם |  | noun (common, masculine, plural, construct) | 4 |
+| חַיֶּֽיךָ׃ | your life — חַיֶּיךָ, plural noun in the construct, 'your lives' | חַיִּים | חיה | noun (common, masculine, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+
+Grammar:
+
+- The segolta on זֹּאת closes the first part of the half-verse before the etnaḥta: 'The LORD God said to the serpent, because you have done this'. Unlike the man and the woman, the serpent is not questioned (Rashi, Radak).
+- אָרוּר אַתָּה: a passive participle with a pronoun, as a curse; no copula.
+- מִכָּל הַבְּהֵמָה: מִן can be comparative ('more than') or partitive ('from among'); the English takes the first.
+- עַל־גְּחֹנְךָ תֵלֵךְ: the phrase comes before the verb, which puts the stress on 'belly'; תֵלֵךְ is a yiqtol of הלך.
+- וְעָפָר תֹּאכַל: the object is fronted again, so that the two curses balance, 'on belly ... and dust ...'.
+- כָּל־יְמֵי חַיֶּיךָ: an idiom for 'as long as you live'; חַיִּים is a plural noun.
+
+Note: 'Cursed are you more than all the livestock' reads מִן as comparative. Rashi and Radak read it so; the other reading is 'cursed from among all the livestock', separated from them. The serpent's curse is expressed in the rabbis as the loss of legs and shortened life; the Hebrew says only that it goes on its belly.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi (Sanhedrin 29): from 'Because you did this' we learn that one does not argue for the seducer; if he had been asked 'why did you do this?', he could have answered 'the words of the master and the words of the pupil, whose should one obey?'.
+- Rashi (follows): Rashi: if it was cursed more than the livestock, then all the more so more than the wild animals. The rabbis (Bekhorot 8) used the verse to teach that the serpent's gestation is seven years. The English takes מִן as 'more than'.
+- Rashi (follows): Rashi on עַל גְּחֹנְךָ תֵלֵךְ: 'It had legs, and they were cut off.'
+- Ibn Ezra (records): Ibn Ezra: some say the curse is that the serpent's life would be short, 'but the right view is that it would be deficient in its going'. The English leaves the curse as the Hebrew has it.
+- Ibn Ezra (records): Ibn Ezra: גחון is 'the chest'; it is not known whether the נ is a root letter, as in אדון, or an addition, as in זדון; he rejects the derivation from גיחה 'emerge'. The English has 'belly'.
+
+Apparatus:
+
+- מִן in מִכָּל: comparative or partitive (Rashi and Radak read it as comparative).
+- גָּחוֹן: belly or chest (Ibn Ezra).
+- Radak records the midrash that the serpent once walked upright.
 
 #### Genesis 3:15
 
 > וְאֵיבָ֣ה ׀ אָשִׁ֗ית בֵּֽינְךָ֙ וּבֵ֣ין הָֽאִשָּׁ֔ה וּבֵ֥ין זַרְעֲךָ֖ וּבֵ֣ין זַרְעָ֑הּ ה֚וּא יְשׁוּפְךָ֣ רֹ֔אשׁ וְאַתָּ֖ה תְּשׁוּפֶ֥נּוּ עָקֵֽב׃
 
-_Not yet translated._
+**I will put enmity between you and the woman, and between your offspring and her offspring. He will strike you on the head, and you will strike him on the heel.**
+
+Literal: and-enmity I-will-put between-you and-between the-woman and-between offspring-your and-between offspring-her he he-will-strike-you head and-you you-will-strike-him heel
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאֵיבָ֣ה | and enmity — the object is placed first | ו: and + אֵיבָה | איב | conjunction + noun (common, feminine, singular, absolute) |  |
+| אָשִׁ֗ית | I will put — yiqtol 1cs; the lemma shape שִׁית 'set' | שִׁית | שׁית | verb (qal, imperfect (yiqtol), 1st person, common, singular) | Qal 1 |
+| בֵּֽינְךָ֙ | between you — בֵּינְךָ, the form בֵּין with a suffix | בֵּין | בין | preposition + suffix (pronominal, 2nd person, masculine, singular) |  |
+| וּבֵ֣ין | and between | ו: and + בֵּין | בין | conjunction + preposition |  |
+| הָֽאִשָּׁ֔ה | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| וּבֵ֥ין | and between | ו: and + בֵּין | בין | conjunction + preposition |  |
+| זַרְעֲךָ֖ | your offspring — זֶרַע, collective 'seed' | זֶ֫רַע | זרע | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 4 |
+| וּבֵ֣ין | and between | ו: and + בֵּין | בין | conjunction + preposition |  |
+| זַרְעָ֑הּ | her offspring — collective 'seed' with the 3fs suffix | זֶ֫רַע | זרע | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 4 |
+| ה֚וּא | he — independent pronoun, masculine singular, for emphasis; it refers to the collective 'offspring' | הוּא |  | pronoun (personal, 3rd person, masculine, singular) |  |
+| יְשׁוּפְךָ֣ | will strike you — שׁוּף, the verb is the same as in the next clause; Rashi 'crush', BDB 'bruise' | שׁוּף | שׁוף | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) + suffix (pronominal, 2nd person, masculine, singular) |  |
+| רֹ֔אשׁ | on the head — accusative of the part struck; Ibn Ezra supplies the preposition ב | רֹאשׁ | ראשׁ | noun (common, masculine, singular, absolute) | 1.a |
+| וְאַתָּ֖ה | and you | ו: and + אַתָּ֫ה | אנת | conjunction + pronoun (personal, 2nd person, masculine, singular) |  |
+| תְּשׁוּפֶ֥נּוּ | will strike him — the same verb שׁוּף with the suffix -נּוּ | שׁוּף | שׁוף | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| עָקֵֽב׃ | on the heel — accusative of the part struck | עָקֵב | עקב | noun (common, masculine, singular, absolute) |  |
+
+Grammar:
+
+- וְאֵיבָה אָשִׁית: the object is fronted, so that 'enmity' is what God sets; בֵּין is repeated before each term.
+- בֵּין ... וּבֵין is repeated for each of the two pairs: you and the woman, your offspring and her offspring.
+- זֶרַע is a collective singular, 'offspring', and הוּא is masculine singular: the reading is 'he', a single descendant or each of them; the Hebrew does not say.
+- יְשׁוּפְךָ and תְּשׁוּפֶנּוּ use the same verb שׁוּף; the likeness of the words is deliberate, and the English uses 'strike' twice.
+- רֹאשׁ and עָקֵב are accusatives of the part affected, with no preposition.
+
+Note: שׁוּף appears twice, with the same form, and 'strike' is used for both so that the echo is not lost; the lexicon gives 'bruise', Rashi 'crush' for the head and (by wordplay with נשף) 'bite' for the heel, Radak 'a blow and a crushing'. 'He' is kept for הוּא, for the collective offspring (cf. Sforno: it is not between Adam and Eve only). The paragraph break (ס) follows the verse.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'You intended only that Adam should die when he ate, and that you would take Eve ... therefore I will put enmity.' The English 'enmity' states what is set.
+- Rashi (records): Rashi: יְשׁוּפְךָ means 'will crush you', like 'and I crushed it' (Dt 9:21); Onkelos translates וְשָׁפִית יָתֵי. The English 'strike' covers a blow, and Rashi's 'crush' is recorded in the note.
+- Rashi (follows): Rashi: you will have no stature and will bite him on his heel, and from there kill him; the word תְּשׁוּפֶנּוּ is from נָשַׁף ('he blew on them', Is 40:24): the serpent when it bites hisses, and as the language falls upon the language, the same form is written for both.
+- Ibn Ezra (follows): Ibn Ezra: 'He will strike you on the head' means that her offspring will strike the head, as in 'who bruises me with a hair' (Job 9:17); the preposition is omitted, as in 'the house of the LORD' (2 Kings 12:17). The English supplies 'on'.
+- Ibn Ezra (follows): Ibn Ezra: עָקֵב is the foot; if the head is first, this is last, as in 'and their heel in the water' (Josh 3:13). The English has 'heel'.
+- Radak (follows): Radak: you showed that you loved her; I will turn love into enmity.
+- Sforno (records): Sforno: the enmity will not be between Adam and Eve only.
+
+Apparatus:
+
+- הוּא: 'he' of a single descendant or of the offspring as a group (Sforno: not between Adam and Eve only).
+- שׁוּף: strike (Ibn Ezra, Radak), crush (Rashi on the head), bite (Rashi on the heel); Rashi derives the second from נשׁף 'blow, hiss'.
+- Radak ends the enmity in the days of the messiah (Is 11:8).
 
 #### Genesis 3:16
 
 > אֶֽל־הָאִשָּׁ֣ה אָמַ֗ר הַרְבָּ֤ה אַרְבֶּה֙ עִצְּבוֹנֵ֣ךְ וְהֵֽרֹנֵ֔ךְ בְּעֶ֖צֶב תֵּֽלְדִ֣י בָנִ֑ים וְאֶל־אִישֵׁךְ֙ תְּשׁ֣וּקָתֵ֔ךְ וְה֖וּא יִמְשׇׁל־בָּֽךְ׃
 
-_Not yet translated._
+**To the woman he said, “I will greatly multiply your pain and your pregnancy; in pain you will bear children. Your desire is for your husband, and he will rule over you.”**
+
+Literal: to-the-woman he-said multiplying I-will-multiply your-pain and-your-pregnancy in-pain you-will-bear sons and-to your-husband your-desire and-he he-will-rule over-you
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| אֶֽל | to | אֶל |  | preposition | 1 |
+| הָאִשָּׁ֣ה | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אָמַ֗ר | he said | אָמַר | אמר | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| הַרְבָּ֤ה | greatly — Hiphil infinitive absolute placed before the finite verb of the same root: it intensifies the verb ('multiply greatly'). | רָבָה | רבה | verb (hifil, infinitive absolute) | Hiph 1 |
+| אַרְבֶּה֙ | I will multiply — Hiphil imperfect, 1st person singular, of רבה: 'I will make many, increase'; with the infinitive absolute before it, 'I will greatly multiply'. | רָבָה | רבה | verb (hifil, imperfect (yiqtol), 1st person, common, singular) | Hiph 1 |
+| עִצְּבוֹנֵ֣ךְ | your pain — construct state with a 2nd feminine singular suffix (-ēk). The pack's entry gives 'pain, toil' and lists no numbered senses. | עִצָּבוֹן | עצב | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, feminine, singular) |  |
+| וְהֵֽרֹנֵ֔ךְ | and your pregnancy — הֵרוֹן is a form of הֵרָיוֹן with the final nun taken by Ibn Ezra as an added letter; the suffix is feminine singular. | ו: and + הֵרָיוֹן | הרה | conjunction + noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, feminine, singular) |  |
+| בְּעֶ֖צֶב | in pain — עֶצֶב, a different noun from עִצָּבוֹן but of the same root; here with the preposition ב of attendant circumstance. | ב: in, with, by + עֶ֫צֶב | עצב | preposition + noun (common, masculine, singular, absolute) |  |
+| תֵּֽלְדִ֣י | you will bear — 2nd feminine singular imperfect; the ending -י marks the feminine. | יָלַד | ילד | verb (qal, imperfect (yiqtol), 2nd person, feminine, singular) | Qal 1 |
+| בָנִ֑ים | children | בֵּן |  | noun (common, masculine, plural, absolute) | 2 |
+| וְאֶל | and toward — אֶל here marks direction or orientation: 'toward, to'. | ו: and + אֶל |  | conjunction + preposition | 3 |
+| אִישֵׁךְ֙ | your husband — אִישׁ with the 2nd feminine singular suffix; 'man' in the sense of 'husband'. | אִישׁ | אישׁ | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, feminine, singular) |  |
+| תְּשׁ֣וּקָתֵ֔ךְ | your desire — construct state of תְּשׁוּקָה with the 2nd feminine singular suffix; the clause has no verb ('is' is supplied). | תְּשׁוּקָה | שׁוק | noun (common, feminine, singular, construct) + suffix (pronominal, 2nd person, feminine, singular) |  |
+| וְה֖וּא | and he — the independent pronoun placed before the verb sets the husband against the wife. | ו: and + הוּא |  | conjunction + pronoun (personal, 3rd person, masculine, singular) | 1 |
+| יִמְשׇׁל | will rule — imperfect; it may be read as a prediction ('will rule') or as a state of affairs. | מָשַׁל | משׁל | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 1 |
+| בָּֽךְ׃ | over you — בְּ + 2nd feminine suffix; מָשַׁל takes ב for the one ruled. | ב: in, with, by |  | preposition + suffix (pronominal, 2nd person, feminine, singular) |  |
+
+Grammar:
+
+- הַרְבָּה אַרְבֶּה: the infinitive absolute before a finite verb of the same root strengthens it (Ibn Ezra: שם הפועל, the infinitive; Radak: it enlarges the matter).
+- עִצְּבוֹנֵךְ וְהֵרֹנֵךְ: two nouns with the same 2nd feminine singular suffix; the second has the conjunction and (Ibn Ezra) an added final nun.
+- The etnaḥta falls on בָנִים and divides the verse: the first half concerns childbearing, the second the relation to the husband.
+- The second half has two clauses: a verbless one (וְאֶל אִישֵׁךְ תְּשׁוּקָתֵךְ, the English supplies 'is') and a verbal one with the imperfect יִמְשָׁל; the pronoun וְהוּא, placed before the verb, sets the husband against the wife.
+- Wordplay: עִצָּבוֹן, עֶצֶב and later בְּעִצָּבוֹן (3:17) share one root, binding the woman's sentence to the man's.
+
+Note: תְּשׁוּקָה is kept as 'desire' because the commentators differ on its sense. Rashi reads it as sexual desire which she cannot ask for openly; Ibn Ezra as obedience (משמעתך). The English keeps the plain 'desire for your husband'. עִצְּבוֹנֵךְ is 'pain', the broad sense, with Rashi's 'pain of raising children' and Ibn Ezra's 'the time of affliction, when the virginal blood comes out' recorded rather than adopted.
+
+Commentary:
+
+- Rashi (records): Rashi: עִצְּבוֹנֵךְ is 'זה צער גידול בנים', the pain of raising children. The English keeps the broader 'pain' and does not limit it.
+- Rashi (follows): Rashi: וְהֵרֹנֵךְ is 'זה צער העיבור', the distress of pregnancy; the English 'your pregnancy' with the word 'pain' carried over from the first noun.
+- Rashi (follows): Rashi: בְּעֶצֶב תֵּלְדִי בָנִים is 'זה צער הלידה', the pain of giving birth.
+- Rashi (follows): Rashi: the woman's desire is for intercourse (לתשמיש), yet she has not the boldness to demand it with her mouth; he rules, 'everything from him and not from you'. The English keeps 'desire' and 'rule'.
+- Rashi (follows): Rashi: תְּשׁוּקָתֵךְ means תַּאֲוָתֵךְ, as in נֶפֶשׁ שׁוֹקֵקָה (Isaiah 29:8): longing, craving.
+- Ibn Ezra (follows): Ibn Ezra: הַרְבָּה is the infinitive (שם הפועל).
+- Ibn Ezra (records): Ibn Ezra: עִצְּבוֹנֵךְ is the time of distress, at the flow of virginal blood. This is a real alternative reading that the English does not adopt.
+- Ibn Ezra (follows): Ibn Ezra: the nun of הֵרֹנֵךְ is an added letter (the noun is from הרה); pregnancy is heavy on a woman, and so is giving birth. The English reads 'pregnancy'.
+- Ibn Ezra (records): Ibn Ezra: תְּשׁוּקָתֵךְ means 'your obedience' (משמעתך): she will obey whatever he commands. Rashi's and Radak's 'desire' is preferred in the English; the reading is kept here.
+- Ramban (records): Ramban rejects Rashi's reading because not asking openly is a praiseworthy trait in a woman (Eruvin 100b), so it cannot be part of the curse; he rejects Ibn Ezra's 'obedience' because תְּשׁוּקָה only ever means longing and desire. His own reading: she will long greatly for her husband without regard to the pain of pregnancy and birth, and he will hold her like a maidservant, measure for measure, since she had commanded him to eat.
+- Radak (follows): Radak: even though she bears in pain she will long still to lie with him.
+
+Apparatus:
+
+- עִצָּבוֹן vs. עֶצֶב: the pack gives two lemmas of one root with no numbered senses; both are rendered 'pain'.
+- Onkelos renders צַעֲרַיְכִי וְעִדּוּיַיְכִי 'your pains and your pregnancies' and תִּאוּבְתִּיךְ 'your desire'; it agrees with the English.
 
 #### Genesis 3:17
 
 > וּלְאָדָ֣ם אָמַ֗ר כִּֽי־שָׁמַ֘עְתָּ֮ לְק֣וֹל אִשְׁתֶּ֒ךָ֒ וַתֹּ֙אכַל֙ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֙יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ אֲרוּרָ֤ה הָֽאֲדָמָה֙ בַּֽעֲבוּרֶ֔ךָ בְּעִצָּבוֹן֙ תֹּֽאכְלֶ֔נָּה כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃
 
-_Not yet translated._
+**And to Adam he said, “Because you listened to the voice of your wife and ate from the tree about which I commanded you, saying, ‘You will not eat from it,’ cursed is the ground because of you; in toil you will eat of it all the days of your life.**
+
+Literal: and-to-Adam he-said because you-listened to-voice-of your-wife and-you-ate from-the-tree which I-commanded-you saying not you-will-eat from-it cursed the-ground on-account-of-you in-toil you-will-eat-it all days-of your-life
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וּלְאָדָ֣ם | and to Adam — אָדָם without the article. The pack parses it as a proper name; 'the man' is possible (see note). | ו: and + ל: to, for + אָדָם | אדם | conjunction + preposition + noun (proper name) | 3 |
+| אָמַ֗ר | he said | אָמַר | אמר | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| כִּֽי | because | כִּי |  | conjunction | 3 |
+| שָׁמַ֘עְתָּ֮ | you listened — Qal perfect, 2nd masculine singular; שָׁמַע לְקוֹל means 'obey' as well as 'hear'. The pack's entry lists only Niphal and Piel senses, so no sense path is given. | שָׁמַע | שׁמע | verb (qal, perfect (qatal), 2nd person, masculine, singular) |  |
+| לְק֣וֹל | to the voice of — לְ + construct of קוֹל; the idiom שָׁמַע לְקוֹל is 'obey'. | ל: to, for + קוֹל | קול | preposition + noun (common, masculine, singular, construct) |  |
+| אִשְׁתֶּ֒ךָ֒ | your wife — construct state with 2nd masculine suffix (-ֶךָ). | אִשָּׁה | אנשׁ | noun (common, feminine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 2 |
+| וַתֹּ֙אכַל֙ | and you ate — wayyiqtol: the eating follows from the listening; it continues the 'because' clause. | ו: and + אָכַל | אכל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 2nd person, masculine, singular) | Qal 1 |
+| מִן | from | מִן־ |  | preposition | 1.a |
+| הָעֵ֔ץ | the tree | ה: the + עֵץ | עצה | particle (definite article) + noun (common, masculine, singular, absolute) | 1.a |
+| אֲשֶׁ֤ר | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| צִוִּיתִ֙יךָ֙ | I commanded you — Piel perfect 1st singular with 2nd masculine object suffix; צִוָּה takes a direct object. | צָוָה | צוה | verb (piel, perfect (qatal), 1st person, common, singular) + suffix (pronominal, 2nd person, masculine, singular) |  |
+| לֵאמֹ֔ר | saying — לֵאמֹר, the infinitive construct of אָמַר with ל, introduces direct speech. | ל: to, for + אָמַר | אמר | preposition + verb (qal, infinitive construct) | Qal 1 |
+| לֹ֥א | not | לֹא |  | particle (negative) |  |
+| תֹאכַ֖ל | you will eat — imperfect with לֹא: the prohibition (cf. 2:17). | אָכַל | אכל | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1 |
+| מִמֶּ֑נּוּ | from it — מִן in its doubled form מִמֶּ- with the 3rd masculine singular suffix: 'from it', the tree. The pack parses the suffix as 1st common plural ('from us'), which is the same written form; the context requires the 3rd masculine singular. | מִן־ |  | preposition + suffix (pronominal, 1st person, common, plural) | 1.a |
+| אֲרוּרָ֤ה | cursed — passive participle, feminine singular, in a verbless clause. | אָרַר | ארר | verb (qal, participle passive, feminine, singular, absolute) | Qal |
+| הָֽאֲדָמָה֙ | the ground — הָאֲדָמָה recalls האדם: the human and the ground are bound by sound. | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| בַּֽעֲבוּרֶ֔ךָ | because of you — בַּעֲבוּרֶךָ, 'on your account'. | ב: in, with, by + עָבוּר | עבר | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) |  |
+| בְּעִצָּבוֹן֙ | in toil — בְּעִצָּבוֹן: ב of attendant circumstance. | ב: in, with, by + עִצָּבוֹן | עצב | preposition + noun (common, masculine, singular, absolute) |  |
+| תֹּֽאכְלֶ֔נָּה | you will eat of it — imperfect with a 3rd feminine object suffix; the suffix refers to הָאֲדָמָה and, by metonymy, to its produce (Ibn Ezra, Radak). | אָכַל | אכל | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) + suffix (pronominal, 3rd person, feminine, singular) | Qal 1 |
+| כֹּ֖ל | all | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יְמֵ֥י | the days of — construct plural of יוֹם, 'days'. | יוֹם |  | noun (common, masculine, plural, construct) | 4 |
+| חַיֶּֽיךָ׃ | your life — plural form חַיִּים with a 2nd masculine suffix. | חַיִּים | חיה | noun (common, masculine, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+
+Grammar:
+
+- The speech opens with a long כִּי clause giving the reason (you listened and ate); the verdict comes only at אֲרוּרָה, the first word after the etnaḥta, in a verbless clause with a passive participle.
+- The verdict mirrors 3:14: the serpent was told אָרוּר אַתָּה, but here ארור is said of the ground, not of the man himself.
+- שָׁמַעְתָּ לְקוֹל is 'obey': the man's fault is that he obeyed his wife rather than the command.
+- בְּעִצָּבוֹן תֹּאכְלֶנָּה: the suffix on the verb refers to the ground; by metonymy it means its produce (Ibn Ezra: תאכל תבואתה).
+- הָאֲדָמָה echoes אָדָם: the ground from which the man was taken is cursed for his sake.
+
+Note: אָדָם without the article is rendered 'Adam' because the pack parses it as a proper name; the possible reading 'the man' (a common noun with ל) is not otherwise supported here, since the speaker has addressed 'the woman' in the previous verse with the article. בַּעֲבוּרֶךָ is 'because of you': the ground suffers on the man's account, so Rashi's view that it brings up cursed things, and Ibn Ezra's that it yields little, both fit. The English does not choose between them.
+
+Commentary:
+
+- Rashi (records): Rashi: the ground will bring up cursed things (flies, fleas, ants), like a son who goes out into bad culture so that people curse the breasts he suckled. The English keeps only the bare 'cursed is the ground'.
+- Ibn Ezra (follows): Ibn Ezra: 'cursed is the ground' means that it will not bring forth abundant produce (שלא תוציא תבואה רבה).
+- Ibn Ezra (follows): Ibn Ezra: תֹּאכְלֶנָּה means 'you will eat its produce', a short way of saying it, as in 1 Kings 2:7 'those who eat at your table'. The English 'eat of it' keeps the metonymy.
+- Ibn Ezra (follows): Ibn Ezra: בְּעִצָּבוֹן means in the toil of ploughing, harrowing and sowing, and a further evil is that thorns will grow in the grain. The English 'in toil' is general.
+- Radak (follows): Radak: מִן הָעֵץ means 'from the fruit of the tree', for the fruit comes from the tree. The English 'ate from the tree' keeps the same compression.
+- Radak (follows): Radak: you will have to work the ground until you eat its produce; until now you ate the fruit of the garden's trees without toil.
+- Sforno (records): Sforno: שָׁמַעְתָּ means 'you accepted her opinion that He is mistaken'; the English keeps the plain 'listened to the voice'.
+
+Apparatus:
+
+- 3:17.20 vowels: WLC reads תֹּאכֲלֶנָּה; the base text (MAM) has תֹּאכְלֶנָּה; the English is the same.
+- 3:17.4: WLC note c records an accent reading differing from BHS; the English is not affected.
+- Onkelos: אֲרֵי קַבֵּילְתָּ לְמֵימַר אִתְּתָךְ 'because you accepted the word of your wife' (obey).
+- תֹּֽאכְלֶ֔נָּה: WLC reads תֹּֽאכֲלֶ֔נָּה (vowels)
 
 #### Genesis 3:18
 
 > וְק֥וֹץ וְדַרְדַּ֖ר תַּצְמִ֣יחַֽ לָ֑ךְ וְאָכַלְתָּ֖ אֶת־עֵ֥שֶׂב הַשָּׂדֶֽה׃
 
-_Not yet translated._
+**It will sprout thorns and thistles for you, and you will eat the plants of the field.**
+
+Literal: and-thorn and-thistle it-will-cause-to-sprout for-you and-you-will-eat [object-marker] plant-of the-field
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְק֥וֹץ | and thorn — קוֹץ: collective singular, 'thorns'. | ו: and + קוֹץ | קוץ | conjunction + noun (common, masculine, singular, absolute) |  |
+| וְדַרְדַּ֖ר | and thistle — דַּרְדַּר: Ibn Ezra takes it as the smaller of the two. | ו: and + דַּרְדַּר | דרר | conjunction + noun (common, masculine, singular, absolute) |  |
+| תַּצְמִ֣יחַֽ | it will sprout — Hiphil imperfect, 3rd feminine singular; the subject is the ground (feminine). 'It causes to sprout', so thorns and thistles are the object, placed first. | צָמַח | צמח | verb (hifil, imperfect (yiqtol), 3rd person, feminine, singular) | Hiph 2 |
+| לָ֑ךְ | for you — לָךְ is the pausal form of לְךָ, 'for you' (masculine singular), under the etnaḥta: the man is addressed. The pack parses the suffix as 2nd feminine singular; in pause the two are written alike, and the context requires the masculine. 'For you' is to the man's disadvantage. | ל: to, for |  | preposition + suffix (pronominal, 2nd person, feminine, singular) |  |
+| וְאָכַלְתָּ֖ | and you will eat — weqatal after an imperfect continues the future sequence. | ו: and + אָכַל | אכל | conjunction + verb (qal, sequential perfect (weqatal), 2nd person, masculine, singular) | Qal 1 |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| עֵ֥שֶׂב | the plants of — construct state of עֵשֶׂב. | עֵ֫שֶׂב | עשׂב | noun (common, masculine, singular, construct) |  |
+| הַשָּׂדֶֽה׃ | the field | ה: the + שָׂדֶה | שׂדה | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+
+Grammar:
+
+- The object (קוֹץ וְדַרְדַּר) is fronted before the verb, and the subject (the ground) is not named; it is the feminine of תַּצְמִיחַ.
+- תַּצְמִיחַ, Hiphil imperfect of צמח: the main accent (munaḥ) is on מִי, the final syllable, since the furtive pataḥ under ח makes no syllable; the gaʿya (meteg) on the ח is a secondary mark, not the word's stress.
+- The etnaḥta on לָךְ divides the verse: the curse (thorns) and then the resulting food (plants of the field). לָךְ is the pausal form of לְךָ.
+- וְאָכַלְתָּ is a weqatal: a future continuing the preceding imperfect.
+- עֵשֶׂב in the construct state is followed by הַשָּׂדֶה: 'plants of the field', contrasted with the fruit of the garden trees.
+
+Note: Rashi and Ibn Ezra differ on what עֵשֶׂב הַשָּׂדֶה is. Rashi: the plants that grow among the sown crops, which the man must eat of necessity; Ibn Ezra: it is the bread, since in the garden he lived on the fruit of the trees. The English 'plants of the field' keeps both open.
+
+Commentary:
+
+- Rashi (follows): Rashi: when you sow seeds of various kinds, the earth will sprout thorn and thistle, that is artichoke (קֻנְדָּס) and cardoon (עַכָּבִיּוֹת), which are eaten once prepared.
+- Rashi (follows): Rashi: this is a curse because after the toil of sowing legumes or garden vegetables the ground sprouts thorns and thistles and other plants of the field, which you must eat of necessity (על כרחך).
+- Ibn Ezra (follows): Ibn Ezra: קוֹץ is the larger; דַּרְדַּר is smaller and grows alone.
+- Ibn Ezra (records): Ibn Ezra: עֵשֶׂב הַשָּׂדֶה is the bread, since in the garden his life was from the fruit of the tree. A real alternative which the English keeps open.
+- Radak (follows): Radak: in place of the seed there will come up thorns and thistles which damage the grain growing beside them.
+
+Apparatus:
+
+- Onkelos: וְכוּבִין וְאַטְדִּין תַּצְמַח לָךְ 'thorns and briars it will sprout for you'; יָת עִסְבָּא דְחַקְלָא 'the grass of the field'.
 
 #### Genesis 3:19
 
 > בְּזֵעַ֤ת אַפֶּ֙יךָ֙ תֹּ֣אכַל לֶ֔חֶם עַ֤ד שֽׁוּבְךָ֙ אֶל־הָ֣אֲדָמָ֔ה כִּ֥י מִמֶּ֖נָּה לֻקָּ֑חְתָּ כִּֽי־עָפָ֣ר אַ֔תָּה וְאֶל־עָפָ֖ר תָּשֽׁוּב׃
 
-_Not yet translated._
+**By the sweat of your face you will eat bread until you return to the ground, for from it you were taken; for you are dust, and to dust you will return.**
+
+Literal: in-sweat-of your-face you-will-eat bread until your-returning to the-ground for from-it you-were-taken for dust you and-to-dust you-will-return
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| בְּזֵעַ֤ת | by the sweat of — בְּזֵעַת, construct of זֵעָה (root יזע); the ב is instrumental or circumstantial. | ב: in, with, by + זֵעָה | יזע | preposition + noun (common, feminine, singular, construct) |  |
+| אַפֶּ֙יךָ֙ | your face — אַפַּיִם is a dual ('nostrils') and then 'face'; here the face, where sweat shows (Radak). | אַף | אנף | noun (common, masculine, dual, construct) + suffix (pronominal, 2nd person, masculine, singular) | 2 |
+| תֹּ֣אכַל | you will eat | אָכַל | אכל | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1 |
+| לֶ֔חֶם | bread — לֶחֶם, 'bread', also 'food' in general. | לֶ֫חֶם | לחם | noun (common, both genders, singular, absolute) |  |
+| עַ֤ד | until | עַד | עדה | preposition | II.1 |
+| שֽׁוּבְךָ֙ | your returning — infinitive construct with a suffix, 'your returning'; the sentence 'until you return'. | שׁוּב | שׁוב | verb (qal, infinitive construct) + suffix (pronominal, 2nd person, masculine, singular) | Qal 2 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָ֣אֲדָמָ֔ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| כִּ֥י | for | כִּי |  | conjunction | 3 |
+| מִמֶּ֖נָּה | from it — מִן with a 3rd feminine suffix, with a dagesh: it refers to הָאֲדָמָה. | מִן־ |  | preposition + suffix (pronominal, 3rd person, feminine, singular) | 1.a |
+| לֻקָּ֑חְתָּ | you were taken — Pual perfect: the passive of לָקַח, 'you were taken'. | לָקַח | לקח | verb (pual, perfect (qatal), 2nd person, masculine, singular) | Pu 1 |
+| כִּֽי | for | כִּי |  | conjunction | 3 |
+| עָפָ֣ר | dust — עָפָר, 'dry earth, dust'. | עָפָר | עפר | noun (common, masculine, singular, absolute) |  |
+| אַ֔תָּה | you | אַתָּ֫ה | אנת | pronoun (personal, 2nd person, masculine, singular) |  |
+| וְאֶל | and to | ו: and + אֶל |  | conjunction + preposition | 1 |
+| עָפָ֖ר | dust | עָפָר | עפר | noun (common, masculine, singular, absolute) |  |
+| תָּשֽׁוּב׃ | you will return — Qal imperfect, 2nd masculine singular, of שׁוּב, under the silluq (the form is the same out of pause); the same verb as שׁוּבְךָ earlier in the verse, so the verse ends where it began, with the return to the earth. | שׁוּב | שׁוב | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 2 |
+
+Grammar:
+
+- בְּזֵעַת אַפֶּיךָ: the noun זֵעָה (root יזע) is in the construct; Ibn Ezra notes the pattern is like שֵׁנָה and compares יֶזַע in Ezekiel 44:18.
+- The disjunctive zaqef qaton on לֶחֶם marks the end of the first clause: the toil and the bread are one unit.
+- עַד שׁוּבְךָ: an infinitive construct with a suffix gives a time clause: 'until your returning'.
+- כִּי עָפָר אַתָּה: the predicate comes first in a verbless clause, giving emphasis (dust you are).
+- The ending is a pair of balanced clauses: מִמֶּנָּה לֻקָּחְתָּ and אֶל עָפָר תָּשׁוּב; the verb of return (שׁוּב) is played against the origin.
+
+Note: אַפֶּיךָ is literally 'your nostrils' (a dual); it stands for the face, since sweat shows there, so the English says 'face', not 'brow'.
+
+Commentary:
+
+- Rashi (follows): Rashi: בְּזֵעַת אַפֶּיךָ means 'after you have toiled at it greatly'.
+- Ibn Ezra (follows): Ibn Ezra: the sweat means he must toil to winnow, grind, knead and cook, unlike the food of animals; the noun is from the root יזע, as in Ezekiel 44:18. He also explains that bones come from the earth.
+- Radak (follows): Radak: if you want to eat bread you will eat it with strong toil until sweat goes out of your face; the face is named because the sweat is seen there.
+- Radak (not-applicable): Radak: because you were drawn to the element of earth and not to the upper element, your form will leave no upper element behind you. A philosophical comment, not bearing on the English words.
+- Sforno (not-applicable): Sforno: as I warned you at 2:17, 'dying you shall die', that you would be prepared for death at the end.
+
+Apparatus:
+
+- Onkelos: בְּזִעֲתָא דְאַפָּךְ תֵּיכוּל לַחְמָא 'in the sweat of your face you will eat bread'; the same.
 
 #### Genesis 3:20
 
 > וַיִּקְרָ֧א הָֽאָדָ֛ם שֵׁ֥ם אִשְׁתּ֖וֹ חַוָּ֑ה כִּ֛י הִ֥וא הָֽיְתָ֖ה אֵ֥ם כׇּל־חָֽי׃
 
-_Not yet translated._
+**The human called his wife's name Eve, because she was the mother of all the living.**
+
+Literal: and-called the-human name-of his-wife Eve for she she-was mother-of all living
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּקְרָ֧א | and called — wayyiqtol: it narrates; 'and he called'. | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 6 |
+| הָֽאָדָ֛ם | the human — הָאָדָם with the article: 'the human', as in decisions. | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| שֵׁ֥ם | the name of — construct state of שֵׁם. | שֵׁם |  | noun (common, masculine, singular, construct) | 3 |
+| אִשְׁתּ֖וֹ | his wife — construct with the 3rd masculine suffix; אִשְׁתּוֹ. | אִשָּׁה | אנשׁ | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| חַוָּ֑ה | Eve — חַוָּה, 'Eve', a name with a pun on the root of 'life' (חיה); the pack's entry gives 'life'. Rashi: it resembles חַיָּה, 'she gives life to her offspring'. | חַוָּה |  | noun (proper name) |  |
+| כִּ֛י | because | כִּי |  | conjunction | 3 |
+| הִ֥וא | she — the independent pronoun 'she'. In the Torah the feminine pronoun is usually written with the letters of 'he' (הוא) and pointed הִוא to be read hi; MAM prints it so here. | הוּא |  | pronoun (personal, 3rd person, feminine, singular) | 1 |
+| הָֽיְתָ֖ה | was — perfect 3rd feminine singular with the accent on the final syllable. | הָיָה | היה | verb (qal, perfect (qatal), 3rd person, feminine, singular) | Qal III |
+| אֵ֥ם | mother of — construct state of אֵם. | אֵם | אמם | noun (common, feminine, singular, construct) | 1 |
+| כׇּל | all | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| חָֽי׃ | the living — חַי used as a noun, 'living one'; Ibn Ezra and Radak: human beings only. | חַי | חיה | adjective (adjective, masculine, singular, absolute) | 1.a |
+
+Grammar:
+
+- The verse connects the name חַוָּה with the root חיה: she was אֵם כָּל חָי. The meaning is given in the verse and not in the English line.
+- Ibn Ezra: ו and י interchange (as in הוֹיָה, Exodus 9:3, and הֹוֶה, Nehemiah 6:6), so the name is a form of חַיָּה; it is not written with י, for then there would be no difference between her name and the name of the animals.
+- The tevir on הָאָדָם marks a pause after the subject, the darga on וַיִּקְרָא preparing it; the etnaḥta on חַוָּה separates the name from the reason.
+- The pronoun הִוא with the perfect הָיְתָה states the reason with emphasis: 'she, she was'.
+- חָי as a collective noun without the article.
+
+Note: הָאָדָם has the article, so 'the human'; this is the pack's reading, as decisions.md directs. 'The living' is general, though Ibn Ezra and Radak limit it to human beings; the English does not add 'human'.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: Scripture returns to the earlier matter of naming (2:19–20); it was interrupted to teach that through the naming Eve was joined to him, and he gives a homily on the serpent's desire. It does not bear on the plain words.
+- Rashi (follows): Rashi: חַוָּה falls on the sense of חַיָּה, 'she gives life to her offspring', like הֹוֶה in Ecclesiastes 2:22 (from the root הָיָה). The name's meaning stays in the note.
+- Ibn Ezra (follows): Ibn Ezra: ו and י interchange, as in הוֹיָה (Exodus 9:3) and הֹוֶה (Nehemiah 6:6). The name was not written with י, for then there would be no difference between her name and the name of the animals (חַיּוֹת).
+- Ibn Ezra (follows): Ibn Ezra: אֵם כָּל חָי means 'of human beings'. The English 'the living' is left general with this in the note.
+- Radak (follows): Radak: חָי means 'speaking' (מְדַבֵּר), as כָּל בָּשָׂר in Psalm 145:21 and Isaiah 66:23 means people only.
+- Sforno (records): Sforno: although this will happen to other women also, she alone has this name because she was the first of all of them.
+
+Apparatus:
+
+- Onkelos: אֲרֵי הִיא הֲוַת אִמָּא דְכָל בְּנֵי אֱנָשָׁא 'for she was the mother of all the children of men' (a human reading).
 
 #### Genesis 3:21
 
 > וַיַּ֩עַשׂ֩ יְהֹוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כׇּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם׃
 
-_Not yet translated._
+**The LORD God made tunics of skin for Adam and for his wife, and clothed them.**
+
+Literal: and-made the-LORD God for-Adam and-for-his-wife tunics-of skin and-clothed-them
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיַּ֩עַשׂ֩ | and made — wayyiqtol; a narrative past. | ו: and + עָשָׂה | עשׂה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal II.1 |
+| יְהֹוָ֨ה | the LORD — the divine name, rendered 'the LORD' (decisions.md). | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֜ים | God — יְהוָה אֱלֹהִים together are 'the LORD God' (decisions.md). | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| לְאָדָ֧ם | for Adam — לְאָדָם without the article. The pack parses אָדָם here as a common noun, not a proper name; the English gives 'Adam' as in 3:17, following decisions.md for the unarticled form, and the common-noun reading 'for the man' is possible. | ל: to, for + אָדָם | אדם | preposition + noun (common, masculine, singular, absolute) | 3 |
+| וּלְאִשְׁתּ֛וֹ | and for his wife — construct state with a 3rd masculine suffix. | ו: and + ל: to, for + אִשָּׁה | אנשׁ | conjunction + preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| כׇּתְנ֥וֹת | tunics of — construct plural of כֻּתֹּנֶת, 'tunic'. | כֻּתֹּ֫נֶת | כתן | noun (common, feminine, plural, construct) |  |
+| ע֖וֹר | skin — עוֹר is 'skin' or 'hide'. | עוֹר | עור | noun (common, masculine, singular, absolute) | 2 |
+| וַיַּלְבִּשֵֽׁם׃ | and clothed them — Hiphil wayyiqtol: the object suffix is 3rd masculine plural (them); 'and he clothed them'. | ו: and + לָבֵשׁ | לבשׁ | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, masculine, plural) | Hiph |
+
+Grammar:
+
+- וַיַּעַשׂ: a wayyiqtol of עשׂה with two telisha accents; the shortened form of the Qal.
+- The word order is verb, subject, indirect objects, direct object, and then a second verb with a suffix.
+- כָּתְנוֹת עוֹר: a construct chain, 'tunics of skin'; whether the tunics were of skin or for the skin (כתנות לעורם) is the question the commentators take up.
+- The silluq closes the verse with a Hiphil wayyiqtol: 'he made them wear', the causative of לָבַשׁ.
+
+Note: כָּתְנוֹת עוֹר is rendered 'tunics of skin'; Rashi's alternative, something that comes from the skin (soft, warm hare's wool), is recorded, and the English does not choose between them. Ibn Ezra's own conclusion is that we need only believe that God made them.
+
+Commentary:
+
+- Rashi (records): Rashi: some aggadic sources say the tunics were smooth like a fingernail, stuck to the skin; others say something from the skin, like soft, warm hare's wool, from which He made tunics. The English keeps the plain 'garments of skin'.
+- Ibn Ezra (follows): Ibn Ezra lists several views (skin over bone and flesh; tunics for their skin; an animal like a man whose skin was flayed), and concludes that we need only believe that God made garments of skin for the man and his wife. The English keeps the plain sense.
+- Radak (follows): Radak: one need not ask how God made these garments, for it is no greater wonder than the rest of creation; God commanded and they were made.
+- Sforno (not-applicable): Sforno: He clothed them so that He would not drive them out naked, so that they would not later think they had added a merit by clothing themselves.
+
+Apparatus:
+
+- Onkelos: לְבוּשִׁין דִּיקָר עַל מְשַׁךְ בִּשְׂרֵיהוֹן 'garments of glory upon the skin of their flesh'; this paraphrase reads עוֹר as the skin they already had.
 
 #### Genesis 3:22
 
 > וַיֹּ֣אמֶר ׀ יְהֹוָ֣ה אֱלֹהִ֗ים הֵ֤ן הָֽאָדָם֙ הָיָה֙ כְּאַחַ֣ד מִמֶּ֔נּוּ לָדַ֖עַת ט֣וֹב וָרָ֑ע וְעַתָּ֣ה ׀ פֶּן־יִשְׁלַ֣ח יָד֗וֹ וְלָקַח֙ גַּ֚ם מֵעֵ֣ץ הַֽחַיִּ֔ים וְאָכַ֖ל וָחַ֥י לְעֹלָֽם׃
 
-_Not yet translated._
+**The LORD God said, "Look, the human has become like one of us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever."**
+
+Literal: and-said the-LORD God lo the-human has-become like-one-of from-us to-know good and-evil and-now lest he-sends his-hand and-takes also from-tree-of the-life and-eats and-lives for-ever
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֣אמֶר | and said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יְהֹוָ֣ה | the LORD — יְהוָה, written יְהֹוָה in the text; rendered 'the LORD' by the edition's decision | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֗ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| הֵ֤ן | look — הֵן draws attention to what follows | הֵן |  | particle (demonstrative) |  |
+| הָֽאָדָם֙ | the human — with the article: the human, not the proper name | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| הָיָה֙ | has become — qatal of הָיָה, 'has become', a state now reached | הָיָה | היה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal II.2.c |
+| כְּאַחַ֣ד | like one of — כְּאַחַד: the pataḥ form is construct (Ibn Ezra) | כ: like, as + אֶחָד | אחד | preposition + adjective (cardinal number, masculine, singular, construct) | 1 |
+| מִמֶּ֔נּוּ | of us — partitive מִן with 1st plural suffix; the nun is doubled (Ibn Ezra) | מִן־ |  | preposition + suffix (pronominal, 1st person, common, plural) | 1.a |
+| לָדַ֖עַת | to know — infinitive construct with ל: 'in knowing', 'knowing' | ל: to, for + יָדַע | ידע | preposition + verb (qal, infinitive construct) | Qal 1.a |
+| ט֣וֹב | good | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 4 |
+| וָרָ֑ע | and evil | ו: and + רַע | רעע | conjunction + adjective (adjective, masculine, singular, absolute) | 3 |
+| וְעַתָּ֣ה | and now | ו: and + עַתָּ֫ה | ענה | conjunction + adverb |  |
+| פֶּן | lest — פֶּן introduces a feared outcome; here no main clause follows | פֶּן־ |  | conjunction |  |
+| יִשְׁלַ֣ח | he reach out — 'stretch out' with the object יָד | שָׁלַח | שׁלח | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 3 |
+| יָד֗וֹ | his hand | יָד |  | noun (common, both genders, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וְלָקַח֙ | and take — weqatal continuing the feared sequence | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential perfect (weqatal), 3rd person, masculine, singular) | Qal 1 |
+| גַּ֚ם | also | גַּם | גמם | particle (affirmation) |  |
+| מֵעֵ֣ץ | from the tree of — construct | מ: from, than + עֵץ | עצה | preposition + noun (common, masculine, singular, construct) | 1.a |
+| הַֽחַיִּ֔ים | life — חַיִּים is plural in form, singular in sense | ה: the + חַיִּים | חיה | particle (definite article) + noun (common, masculine, plural, absolute) | 1 |
+| וְאָכַ֖ל | and eat — weqatal | ו: and + אָכַל | אכל | conjunction + verb (qal, sequential perfect (weqatal), 3rd person, masculine, singular) | Qal 1 |
+| וָחַ֥י | and live — weqatal; lemma חָיַי is a by-form of חָיָה | ו: and + חָיַי | חיה | conjunction + verb (qal, sequential perfect (weqatal), 3rd person, masculine, singular) | Qal 1 |
+| לְעֹלָֽם׃ | forever — לְעוֹלָם | ל: to, for + עוֹלָם | עלם | preposition + noun (common, masculine, singular, absolute) |  |
+
+Grammar:
+
+- הֵן הָאָדָם הָיָה: הֵן 'look' introduces a statement of fact; הָיָה is a perfect, 'has become'.
+- כְּאַחַד מִמֶּנּוּ: כְּאַחַד is the construct form (pataḥ), so 'like one of ...'; מִמֶּנּוּ is plural, 'from us'.
+- וְעַתָּה פֶּן־יִשְׁלַח ... וְלָקַח ... וְאָכַל וָחַי: the clause after פֶּן is never completed; the weqatal verbs continue the feared sequence 'lest he stretch out ... and take ... and eat ... and live'.
+- The accents divide the speech: zaqef on מִמֶּנּוּ, etnaḥta on וָרָע ends the first sentence; revia on יָדוֹ.
+- וָחַי is a weqatal of חיי, a by-form of חיה 'live'.
+
+Note: The verse breaks off after 'lest': the English leaves the sentence unfinished as the Hebrew does. 'Look' renders הֵן. 'Us' follows Ibn Ezra: God speaks with the angels.
+
+Commentary:
+
+- Rashi (records): Rashi: 'He is unique among the lower beings as I am unique among the upper; and what is his uniqueness? To know good and evil, which is not so of beast or animal.' The English 'like one of us' does not state this, which Ibn Ezra rules out on grammatical grounds.
+- Rashi (follows): Rashi: once he lives forever he is near to leading creatures astray after him, to say that he too is divine; midrashic explanations exist but do not settle on the plain sense. The English keeps the feared outcome as the reason for the removal.
+- Ibn Ezra (follows): Ibn Ezra: כְּאַחַד with pataḥ is the construct form (as in כְּאַחַד שבטי ישראל, 49:16), so it cannot mean 'like the unique one'; it means 'like one of ...'. He also remarks on the accents, which separate מִמֶּנּוּ from לָדַעַת (the pack's text is cut here).
+- Ibn Ezra (follows): Ibn Ezra: מִמֶּנּוּ is plural, like אִישׁ מִמֶּנּוּ (23:6), with the nun doubled for the plural. The sense of the verse is like 'you will be like God, knowing good and evil' (3:5), or else it is said according to the human's own thought (עַל מַחֲשַׁבְתּוֹ). The plural 'us' is like 'Let us make man in our image' (1:26) and 'Come, let us go down' (11:7): God speaking with the angels.
+- Radak (records): Radak: God includes himself with the angels, as in 'in our image' (1:26).
+- Targum Onkelos (records): Onkelos: 'the human was unique in the world, from him, to know good and evil'. This is the 'unique' reading, which the English does not adopt.
+
+Apparatus:
+
+- Onkelos reads הֲוָה יְחִידַי בְּעַלְמָא 'was unique in the world' for כְּאַחַד מִמֶּנּוּ; the English follows Ibn Ezra's grammar instead.
+- MAM has a paseq after וַיֹּאמֶר and after וְעַתָּה.
 
 #### Genesis 3:23
 
 > וַֽיְשַׁלְּחֵ֛הוּ יְהֹוָ֥ה אֱלֹהִ֖ים מִגַּן־עֵ֑דֶן לַֽעֲבֹד֙ אֶת־הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר לֻקַּ֖ח מִשָּֽׁם׃
 
-_Not yet translated._
+**So the LORD God expelled him from the garden of Eden to work the ground from which he was taken.**
+
+Literal: and-sent-him the-LORD God from-garden-of Eden to-work [object-marker] the-ground which was-taken from-there
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְשַׁלְּחֵ֛הוּ | and expelled him — Piel wayyiqtol with a 3rd masculine singular suffix: 'and he sent him out'; with מִן this is expulsion (Ibn Ezra) | ו: and + שָׁלַח | שׁלח | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, masculine, singular) | Pi 2.c |
+| יְהֹוָ֥ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֱלֹהִ֖ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 3 |
+| מִגַּן | from the garden of — construct | מ: from, than + גַּן | גנן | preposition + noun (common, both genders, singular, construct) |  |
+| עֵ֑דֶן | Eden | עֵ֫דֶן | עדן | noun (proper name) |  |
+| לַֽעֲבֹד֙ | to work — infinitive construct with ל; purpose | ל: to, for + עָבַד | עבד | preposition + verb (qal, infinitive construct) | Qal 1 |
+| אֶת | - — direct object marker | אֵת | אות | particle (direct object marker) |  |
+| הָ֣אֲדָמָ֔ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אֲשֶׁ֥ר | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| לֻקַּ֖ח | was taken — Pual perfect: passive, 'was taken' | לָקַח | לקח | verb (pual, perfect (qatal), 3rd person, masculine, singular) | Pu 1 |
+| מִשָּֽׁם׃ | from there — מִשָּׁם | מ: from, than + שָׁם |  | preposition + adverb |  |
+
+Grammar:
+
+- וַיְשַׁלְּחֵהוּ is Piel with a suffix; with מִן it means to send away, to expel.
+- לַעֲבֹד אֶת־הָאֲדָמָה: the infinitive with ל gives the purpose; the human is sent out to the same work he had in the garden (2:5, 2:15), now under the curse.
+- לֻקַּח is Pual perfect: 'was taken'; the 'he' is the human, taken from the ground (2:7).
+- Wordplay: הָאָדָם / הָאֲדָמָה.
+
+Note: 'Expelled' follows Ibn Ezra, who reads שלוח followed by מ as expulsion, like גרוש, not as an honorable sending off. The next verse repeats the sense with וַיְגָרֶשׁ.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: every שלוח followed by מ is like גרוש and is pejorative (Jer 15:1 'send them from before me'); it is not honorable, as a Spanish sage said, comparing 'to send them off' (18:16).
+- Ibn Ezra (not-applicable): Ibn Ezra on כְּרֻבִים (3:24): some say 'like youths' (Aramaic כרביא); in his view the word names all kinds of figures, as Ezekiel shows. Here the cherubim are the known angels, and in their hand is a sword that has a flame (לַהַט) and two edges (שְׁתֵּי פִיּוֹת), 'and this is the meaning of הַמִּתְהַפֶּכֶת'; those who refer it to the sun are wrong. The comment bears on 3:24, not on the words of this verse.
+- Radak (follows): Radak: this is a sending of expulsion, as in 'send them from before me'.
+- Sforno (records): Sforno: God ordered him to go from there, as in 'to send them out of the land' (Ex 12:33).
 
 #### Genesis 3:24
 
 > וַיְגָ֖רֶשׁ אֶת־הָֽאָדָ֑ם וַיַּשְׁכֵּן֩ מִקֶּ֨דֶם לְגַן־עֵ֜דֶן אֶת־הַכְּרֻבִ֗ים וְאֵ֨ת לַ֤הַט הַחֶ֙רֶב֙ הַמִּתְהַפֶּ֔כֶת לִשְׁמֹ֕ר אֶת־דֶּ֖רֶךְ עֵ֥ץ הַֽחַיִּֽים׃
 
-_Not yet translated._
+**He drove out the human, and east of the garden of Eden he stationed the cherubim and the flame of the turning sword, to guard the way to the tree of life.**
+
+Literal: and-drove-out [obj] the-human and-stationed from-east to-garden-of Eden [obj] the-cherubim and-[obj] flame-of the-sword the-turning-itself to-guard [obj] way-of tree-of the-life
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְגָ֖רֶשׁ | and drove out — Piel wayyiqtol | ו: and + גָּרַשׁ | גרשׁ | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Pi |
+| אֶת | - — direct object marker | אֵת | אות | particle (direct object marker) |  |
+| הָֽאָדָ֑ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| וַיַּשְׁכֵּן֩ | and stationed — Hiphil wayyiqtol, 'caused to dwell'; the English says 'stationed' | ו: and + שָׁכַן | שׁכן | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 2 |
+| מִקֶּ֨דֶם | from the east of — מִקֶּדֶם: 'from the east', east of the garden (Rashi, Ibn Ezra) | מ: from, than + קֶ֫דֶם | קדם | preposition + noun (common, masculine, singular, absolute) | 1.b |
+| לְגַן | to the garden of — construct | ל: to, for + גַּן | גנן | preposition + noun (common, both genders, singular, construct) |  |
+| עֵ֜דֶן | Eden | עֵ֫דֶן | עדן | noun (proper name) |  |
+| אֶת | - — direct object marker | אֵת | אות | particle (direct object marker) |  |
+| הַכְּרֻבִ֗ים | the cherubim — the plural of כְּרוּב | ה: the + כְּרוּב |  | particle (definite article) + noun (common, masculine, plural, absolute) |  |
+| וְאֵ֨ת | and (object marker) — the object marker is repeated for the second object | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| לַ֤הַט | the flame of — construct | לַ֫הַט | להט | noun (common, masculine, singular, construct) |  |
+| הַחֶ֙רֶב֙ | the sword — feminine noun; the participle that follows agrees | ה: the + חֶ֫רֶב | חרב | particle (definite article) + noun (common, feminine, singular, absolute) |  |
+| הַמִּתְהַפֶּ֔כֶת | the turning — Hithpael participle, feminine singular, agreeing with חֶרֶב: 'turning itself'. Ibn Ezra: it has two edges; Radak: it turns to and fro to frighten. | ה: the + הָפַךְ | הפך | particle (definite article) + verb (hitpael, participle active, feminine, singular, absolute) | Hithp 1 |
+| לִשְׁמֹ֕ר | to guard — infinitive construct with ל; purpose | ל: to, for + שָׁמַר | שׁמר | preposition + verb (qal, infinitive construct) | Qal 1.b |
+| אֶת | - — direct object marker | אֵת | אות | particle (direct object marker) |  |
+| דֶּ֖רֶךְ | the way of — construct | דֶּ֫רֶךְ | דרך | noun (common, both genders, singular, construct) | 1 |
+| עֵ֥ץ | the tree of — construct | עֵץ | עצה | noun (common, masculine, singular, construct) | 1.a |
+| הַֽחַיִּֽים׃ | life | ה: the + חַיִּים | חיה | particle (definite article) + noun (common, masculine, plural, absolute) | 1 |
+
+Grammar:
+
+- וַיְגָרֶשׁ is Piel: 'drove out'; the stem is intensive and repeats the sense of וַיְשַׁלְּחֵהוּ.
+- The verb וַיַּשְׁכֵּן (Hiphil of שכן, 'cause to dwell') comes before the place; מִקֶּדֶם is 'from the east', here 'on the east side'.
+- The second object is marked with וְאֵת: 'and the flame of the sword'. הַמִּתְהַפֶּכֶת is a feminine participle agreeing with חֶרֶב.
+- לִשְׁמֹר is an infinitive of purpose, 'to guard'; the accent zaqef gadol sets it off from what precedes.
+- The paragraph mark ס closes the section after this verse.
+
+Note: 'Turning' renders the Hithpael participle הַמִּתְהַפֶּכֶת, 'turning itself'; Ibn Ezra explains it as a sword with two edges, Radak as one that turns to and fro. 'Flame' gives לַהַט as the lexicon does, with Radak; Rashi glosses לַהַט by the Targum's שְׁנַן and the Old French lame, 'blade'.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'in the east of the garden of Eden, outside the garden'.
+- Rashi (follows): Rashi: the cherubim are 'angels of destruction' (מַלְאֲכֵי חַבָּלָה). The English keeps the name 'cherubim' and does not translate it.
+- Rashi (records): Rashi on הַחֶרֶב הַמִּתְהַפֶּכֶת: it has a לַהַט, to threaten him from entering the garden again; the Targum renders לַהַט by שְׁנַן, as in שְׁלַף שְׁנָנָא 'drew the blade', in Old French lame, 'blade'. There are aggadic explanations, but he comes only for the plain sense. On his reading לַהַט is the blade of the sword; the English keeps 'flame' with the lexicon and Radak.
+- Ibn Ezra (follows): Ibn Ezra: מִקֶּדֶם means 'from the east'. The rest of his comment on the secret of the garden is not about the words of the verse.
+- Radak (records): Radak: the flame is a sight, not a body, meant to frighten; the English does not say this.
+
+Apparatus:
+
+- לַהַט: Rashi, with Onkelos (שְׁנַן חַרְבָּא), takes it as 'the blade'; the lexicon and Radak (a frightening sight, Ps 104:4 אֵשׁ לֹהֵט) as 'the flame'. The English keeps 'flame'.
+- הַמִּתְהַפֶּכֶת: Ibn Ezra (comment filed at 3:23) explains it as a sword with two edges; Radak as a sword turning to and fro; the English 'turning' leaves both open.
 
 #### Genesis 4:1
 
 > וְהָ֣אָדָ֔ם יָדַ֖ע אֶת־חַוָּ֣ה אִשְׁתּ֑וֹ וַתַּ֙הַר֙ וַתֵּ֣לֶד אֶת־קַ֔יִן וַתֹּ֕אמֶר קָנִ֥יתִי אִ֖ישׁ אֶת־יְהֹוָֽה׃
 
-_Not yet translated._
+**Now the human had known Eve his wife, and she had conceived and borne Cain, and she said, "I have acquired a man with the LORD."**
+
+Literal: and-the-human knew [obj] Eve his-wife and-conceived and-bore [obj] Cain and-said I-have-acquired man [with] the-LORD
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְהָ֣אָדָ֔ם | Now the human — the article gives 'the human', as in 3:22; ו is 'now' and the verb is a pluperfect in English (Rashi) | ו: and + ה: the + אָדָם | אדם | conjunction + particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| יָדַ֖ע | had known — 'know' of a man and woman; qatal after a noun subject, backgrounding clause | יָדַע | ידע | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 3 |
+| אֶת | - — direct object marker | אֵת | אות | particle (direct object marker) |  |
+| חַוָּ֣ה | Eve — חַוָּה, from the root חיה, 'life' (see 3:20); the meaning is not in the English | חַוָּה |  | noun (proper name) |  |
+| אִשְׁתּ֑וֹ | his wife — construct with a 3rd masculine singular suffix | אִשָּׁה | אנשׁ | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| וַתַּ֙הַר֙ | and she had conceived — wayyiqtol, 3rd feminine singular | ו: and + הָרָה | הרה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| וַתֵּ֣לֶד | and borne — wayyiqtol, 3rd feminine singular | ו: and + יָלַד | ילד | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| אֶת | - — direct object marker | אֵת | אות | particle (direct object marker) |  |
+| קַ֔יִן | Cain — קַיִן; the name is explained by קָנִיתִי (Rashi: 'after the words קָנִיתִי') | קַ֫יִן |  | noun (proper name) |  |
+| וַתֹּ֕אמֶר | and she said — wayyiqtol, 3rd feminine singular | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| קָנִ֥יתִי | I have acquired — qatal, 1st singular; wordplay with קַיִן | קָנָה | קנה | verb (qal, perfect (qatal), 1st person, common, singular) | Qal 1 |
+| אִ֖ישׁ | a man — אִישׁ | אִישׁ | אישׁ | noun (common, masculine, singular, absolute) |  |
+| אֶת | with — אֵת here is the preposition, 'with' (Rashi); the lexicon entry is the preposition אֵת | אֵת |  | preposition | 1 |
+| יְהֹוָֽה׃ | the LORD | יהוה | הוה | noun (proper name) |  |
+
+Grammar:
+
+- וְהָאָדָם יָדַע: the noun subject comes first and the verb is a perfect, so the clause is not in the line of narrative; Rashi reads it as a pluperfect: the knowing, the conception and the birth happened before the sin and the expulsion.
+- יָדַע means 'know' of a husband and wife.
+- קָנִיתִי אִישׁ אֶת־יְהוָה: Eve's words explain the name קַיִן, with wordplay on קָנִיתִי.
+- אֶת־ before יְהוָה is not the object marker here; it is the preposition 'with' (the lexicon lists אֵת as a preposition).
+- The accents: etnaḥta on אִשְׁתּוֹ ends the first half; zaqef qaton on קַיִן; zaqef gadol on וַתֹּאמֶר.
+
+Note: The pluperfect 'had known' and 'had conceived' follows Rashi. The meaning of Eve and Cain goes in the notes, not in the line.
+
+Commentary:
+
+- Rashi (follows): Rashi: this happened before the matters above, before he sinned and was driven out of the garden; so also the conception and the birth. If it had said וַיֵּדַע אָדָם we would understand that children were born after the expulsion.
+- Rashi (follows): Rashi: Cain is named after קָנִיתִי; the name goes in the note and grammar.
+- Rashi (follows): Rashi: אֶת־יְהוָה is 'with the LORD': when God made me and my husband he alone made us, but in this one we are partners with him (b. Nid. 31).
+- Rashi (not-applicable): Rashi: three 'et' marks (4:1, 4:2) are inclusive; a twin sister was born with Cain and two with Abel. This is midrash and does not bear on the plain sense.
+- Ibn Ezra (records): Ibn Ezra: when the human saw that he himself would not endure forever in his body, he had to keep the species alive; so she said 'I have acquired a man with the LORD'. The name אֱלֹהִים is not mentioned, because lasting existence is found on earth in the species as it is above in individual beings. (He adds that 'good' is general and 'evil' partial.) On his reading the union came after the sentence of death, against Rashi's pluperfect, which the English follows.
+- Ramban (records): Ramban: against Rashi, he prefers 'this son will be my possession for the LORD', so that when we die he will serve his Maker in our place; he also allows 'with the LORD' as in 'Enoch walked with God'.
+- Targum Onkelos (records): Onkelos: 'I have acquired a man from before the LORD' (מִן קֳדָם יְיָ), which is a different reading of the preposition.
+
+Apparatus:
+
+- Onkelos reads קֳדָם יְיָ, 'before the LORD', Ramban 'for the LORD'; the English keeps Rashi's 'with'.
+- Ibn Ezra implies that the union followed the sentence of death; the English 'had known' follows Rashi's pluperfect (before the sin).
 
 #### Genesis 4:2
 
 > וַתֹּ֣סֶף לָלֶ֔דֶת אֶת־אָחִ֖יו אֶת־הָ֑בֶל וַֽיְהִי־הֶ֙בֶל֙ רֹ֣עֵה צֹ֔אן וְקַ֕יִן הָיָ֖ה עֹבֵ֥ד אֲדָמָֽה׃
 
-_Not yet translated._
+**She went on to bear his brother, Abel. Abel was a herder of flocks, and Cain was a worker of the ground.**
+
+Literal: and-added to-bear [obj] his-brother [obj] Abel and-was Abel herder-of flock and-Cain was worker-of ground
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֹּ֣סֶף | and she added — Hiphil wayyiqtol, 3rd feminine singular; with an infinitive, 'she did again' | ו: and + יָסַף | יסף | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Hiph 2.a |
+| לָלֶ֔דֶת | to bear — infinitive construct with ל | ל: to, for + יָלַד | ילד | preposition + verb (qal, infinitive construct) | Qal 1 |
+| אֶת | - — direct object marker | אֵת | אות | particle (direct object marker) |  |
+| אָחִ֖יו | his brother — construct with a 3rd masculine singular suffix | אָח | אחה | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| אֶת | - — direct object marker | אֵת | אות | particle (direct object marker) |  |
+| הָ֑בֶל | Abel — הֶבֶל, 'breath, vapor'; the meaning is not in the English | הֶ֫בֶל | הבל | noun (proper name) |  |
+| וַֽיְהִי | and was — wayyiqtol with a predicate | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal III |
+| הֶ֙בֶל֙ | Abel | הֶ֫בֶל | הבל | noun (proper name) |  |
+| רֹ֣עֵה | a herder of — participle in the construct state: 'one who herds' | רָעָה | רעה | verb (qal, participle active, masculine, singular, construct) |  |
+| צֹ֔אן | flocks — collective: sheep and goats | צֹאן | צאן | noun (common, both genders, singular, absolute) |  |
+| וְקַ֕יִן | and Cain | ו: and + קַ֫יִן |  | conjunction + noun (proper name) |  |
+| הָיָ֖ה | was — qatal; the noun comes first, giving a contrast | הָיָה | היה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal III |
+| עֹבֵ֥ד | a worker of — participle in the construct state: 'one who works' | עָבַד | עבד | verb (qal, participle active, masculine, singular, construct) | Qal 1 |
+| אֲדָמָֽה׃ | the ground — no article: 'ground' | אֲדָמָה | אדם | noun (common, feminine, singular, absolute) | 1 |
+
+Grammar:
+
+- וַתֹּסֶף לָלֶדֶת: a Hiphil of יסף followed by an infinitive is an idiom, 'she did again to bear'.
+- The sentence says that she added to the bearing, not that she conceived again; Radak and the Midrash take this to mean twins.
+- רֹעֵה צֹאן and עֹבֵד אֲדָמָה are participles in the construct state, naming occupations; the contrast is marked by the order וְקַיִן הָיָה.
+- Wordplay: אֲדָמָה recalls הָאָדָם (see 3:23).
+
+Note: 'Went on to bear' keeps the idiom without saying whether the second birth was a separate pregnancy. Rashi: Abel became a herder because the ground had been cursed.
+
+Commentary:
+
+- Rashi (follows): Rashi: because the ground had been cursed, Abel turned away from working it; this is why he took to herding.
+- Radak (records): Radak: since it says 'she added to bear' and not 'she conceived again', Cain and Abel were twins, as the rabbis said; the English does not say.
+- Radak (records): Radak: when they grew up they divided their work; one herded for milk and wool, the other worked the ground.
+- Targum Onkelos (not-applicable): Onkelos: 'Abel was a herder of sheep, and Cain was a tiller of the ground'.
 
 #### Genesis 4:3
 
 > וַֽיְהִ֖י מִקֵּ֣ץ יָמִ֑ים וַיָּבֵ֨א קַ֜יִן מִפְּרִ֧י הָֽאֲדָמָ֛ה מִנְחָ֖ה לַֽיהֹוָֽה׃
 
-_Not yet translated._
+**At the end of a year, Cain brought an offering of the fruit of the ground to the LORD.**
+
+Literal: and-it-was at-end-of days and-brought Cain from-fruit-of the-ground offering to-the-LORD
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְהִ֖י | and it was — wayyiqtol; the narrative formula 'and it came to pass' | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.2.a.(1) |
+| מִקֵּ֣ץ | at the end of — מִקֵּץ: 'at the end of'; construct | מ: from, than + קֵץ | קצץ | preposition + noun (common, masculine, singular, construct) | 1 |
+| יָמִ֑ים | days (a year) — יָמִים 'days'; Ibn Ezra: a full year is called יָמִים (Lev 25:29), and Radak allows it. | יוֹם |  | noun (common, masculine, plural, absolute) | 4 |
+| וַיָּבֵ֨א | and brought — Hiphil wayyiqtol: 'caused to come', 'brought' | ו: and + בּוֹא | בוא | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 2 |
+| קַ֜יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| מִפְּרִ֧י | from the fruit of — construct; מִן is partitive, 'some of' | מ: from, than + פְּרִי | פרה | preposition + noun (common, masculine, singular, construct) | 1 |
+| הָֽאֲדָמָ֛ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| מִנְחָ֖ה | an offering — מִנְחָה is a gift, here a gift to God; the later grain-offering sense does not apply | מִנְחָה | מנח | noun (common, feminine, singular, absolute) | 3 |
+| לַֽיהֹוָֽה׃ | to the LORD — לַיהוָה | ל: to, for + יהוה | הוה | preposition + noun (proper name) |  |
+
+Grammar:
+
+- וַיְהִי מִקֵּץ יָמִים: 'and it was at the end of days', a narrative formula; Ibn Ezra holds that יָמִים here is a full year (as in Lev 25:29), and Radak allows it.
+- מִפְּרִי הָאֲדָמָה: מִן is partitive, 'some of the fruit of the ground'; the noun מִנְחָה stands after it.
+- Accents: etnaḥta on יָמִים, tevir on הָאֲדָמָה; geresh on קַיִן.
+- The wayyiqtol וַיָּבֵא is Hiphil of בוא.
+
+Note: 'Offering' covers מִנְחָה, a gift to God; the word does not specify a grain offering. Rashi's 'from the inferior' is recorded, not adopted.
+
+Commentary:
+
+- Rashi (records): Rashi: 'from the inferior'; one aggadah says it was flax seed. The Hebrew does not say; the English has 'of the fruit of the ground'.
+- Ibn Ezra (follows): Ibn Ezra: after Cain worked the ground he brought the offering to the place he had set for his prayer; he rejects the view that it was brought to his father; since Abel's offering is 'of the firstlings of his flock', it implies that Cain did not bring of the firstfruits.
+- Ramban (not-applicable): Ramban: these men understood a great secret of the sacrifices and offerings.
+- Radak (records): Radak: 'days' may mean a year, as in 'for days (a year) it shall be his redemption' (Lev 25:29).
+- Radak (records): Radak: the verse does not say which fruit; it seems to have been from the lesser, or the leftover after he ate; he did not bring from the firstfruits.
+
+Apparatus:
+
+- WLC reads לַֽיהוָֽה; the base text (MAM) reads לַֽיהֹוָֽה׃ (4:3.9 vowels).
+- Onkelos has מֵאִבָּא דְאַרְעָא 'of the fruit of the ground'.
+- לַֽיהֹוָֽה׃: WLC reads לַֽיהוָֽה (vowels)
 
 #### Genesis 4:4
 
 > וְהֶ֨בֶל הֵבִ֥יא גַם־ה֛וּא מִבְּכֹר֥וֹת צֹאנ֖וֹ וּמֵֽחֶלְבֵהֶ֑ן וַיִּ֣שַׁע יְהֹוָ֔ה אֶל־הֶ֖בֶל וְאֶל־מִנְחָתֽוֹ׃
 
-_Not yet translated._
+**And Abel brought, he too, some of the firstlings of his flock and of their fat portions. And the LORD turned to Abel and to his offering,**
+
+Literal: and-Abel brought also he from-firstlings-of his-flock and-from-fat-portions-of-them and-turned the-LORD to Abel and-to his-offering
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְהֶ֨בֶל | and Abel | ו: and + הֶ֫בֶל | הבל | conjunction + noun (proper name) |  |
+| הֵבִ֥יא | brought — Hiphil perfect; the noun subject first, backgrounding clause | בּוֹא | בוא | verb (hifil, perfect (qatal), 3rd person, masculine, singular) | Hiph 2 |
+| גַם | also | גַּם | גמם | adverb |  |
+| ה֛וּא | he — גַּם־הוּא: 'he also' | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| מִבְּכֹר֥וֹת | from the firstlings of — בְּכֹרוֹת: feminine plural, 'firstlings'; מִן is partitive. The lexicon entry cited (בְּכֹרָה, 'right of first-born') is the birthright sense and does not fit here; no sense is given. | מ: from, than + בְּכֹרָה | בכר | preposition + noun (common, both genders, plural, construct) |  |
+| צֹאנ֖וֹ | his flock — collective with a 3rd masculine singular suffix | צֹאן | צאן | noun (common, both genders, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| וּמֵֽחֶלְבֵהֶ֑ן | and from their fat portions — חֶלְבֵהֶן: the suffix -הֶן is 3rd feminine plural and refers to the firstlings (בְּכֹרוֹת, feminine plural): 'their fat'. Radak gives both 'their fat parts' and, with the Targum, 'the fattest of them'. | ו: and + מ: from, than + חֵ֫לֶב | חלב | conjunction + preposition + noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, feminine, plural) | 1 |
+| וַיִּ֣שַׁע | and turned — short (apocopated) wayyiqtol of the III-ה verb שָׁעָה, full form יִשְׁעֶה: 'gazed, turned'; Rashi: וַיִּפֶן 'turned'; Ibn Ezra: 'accepted'. | ו: and + שָׁעָה | שׁעה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal |
+| יְהֹוָ֔ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֶל | to — אֶל: 'toward' | אֶל |  | preposition | 1 |
+| הֶ֖בֶל | Abel | הֶ֫בֶל | הבל | noun (proper name) |  |
+| וְאֶל | and to | ו: and + אֶל |  | conjunction + preposition | 1 |
+| מִנְחָתֽוֹ׃ | his offering | מִנְחָה | מנח | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+
+Grammar:
+
+- גַּם־הוּא 'he also' sets Abel's offering beside Cain's, and the order (verb before 'he also') makes the pairing clear.
+- מִבְּכֹרוֹת צֹאנוֹ וּמֵחֶלְבֵהֶן: two partitive phrases; the feminine plural suffix on חֶלְבֵהֶן refers to the firstlings, בְּכֹרוֹת.
+- וַיִּשַׁע: wayyiqtol of שׁעה, 'turn toward'; the next verse has the negative.
+- אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ: the repeated אֶל sets the person and the gift side by side.
+
+Note: 'Turned to' keeps Rashi's וַיִּפֶן; it does not say what the sign of acceptance was.
+
+Commentary:
+
+- Rashi (follows): Rashi: וַיִּשַׁע is 'turned' (וַיִּפֶן); so 'to his offering he did not turn' (4:5); so 'he will not turn' (Isa 17:8); 'turn away from him' (Job 14:6).
+- Rashi (records): Rashi: fire came down and licked up his offering. The English does not say.
+- Ibn Ezra (records): Ibn Ezra: וַיִּשַׁע has the pattern of וַיִּחַר לְקַיִן and means 'accepted' (קִבֵּל); close to it is שְׁעוּ מִנִּי (Isa 22:4), in the way of the secret of the offering. It may be that fire came down and turned Abel's offering to ash, and not Cain's. In his view a full year is called יָמִים (Lev 25:29), as in 'two years of days' (41:1).
+- Radak (follows): Radak: God was pleased with Abel because he saw his intention was good, and with his offering, which was honorable.
+- Sforno (follows): Sforno: Abel the offerer was acceptable and his offering also.
+
+Apparatus:
+
+- Ibn Ezra: וַיִּשַׁע means 'received'; Rashi: 'turned'. The English keeps 'turned to'.
+- Radak: the suffix of חֶלְבֵהֶן is written without the yod of the plural.
 
 #### Genesis 4:5
 
 > וְאֶל־קַ֥יִן וְאֶל־מִנְחָת֖וֹ לֹ֣א שָׁעָ֑ה וַיִּ֤חַר לְקַ֙יִן֙ מְאֹ֔ד וַֽיִּפְּל֖וּ פָּנָֽיו׃
 
-_Not yet translated._
+**but to Cain and to his offering he did not turn. And Cain was very angry, and his face fell.**
+
+Literal: and-to Cain and-to his-offering not turned and-burned to-Cain greatly and-fell his-face
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאֶל | but to — ו here is adversative | ו: and + אֶל |  | conjunction + preposition | 1 |
+| קַ֥יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| וְאֶל | and to | ו: and + אֶל |  | conjunction + preposition | 1 |
+| מִנְחָת֖וֹ | his offering | מִנְחָה | מנח | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| לֹ֣א | not | לֹא |  | particle (negative) |  |
+| שָׁעָ֑ה | he turned — qatal, 3rd masculine singular, pausal (etnaḥta) | שָׁעָה | שׁעה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal |
+| וַיִּ֤חַר | and was angry — wayyiqtol of חרה, 'it burned'; the lexicon lists no Qal sense | ו: and + חָרָה | חרה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) |  |
+| לְקַ֙יִן֙ | to Cain — impersonal: 'it burned to Cain', 'Cain was angry' | ל: to, for + קַ֫יִן |  | preposition + noun (proper name) |  |
+| מְאֹ֔ד | very — adverb | מְאֹד | מאד | adverb | 2 |
+| וַֽיִּפְּל֖וּ | and fell — wayyiqtol, 3rd masculine plural, agreeing with פָּנָיו | ו: and + נָפַל | נפל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
+| פָּנָֽיו׃ | his face — plural in form: 'face' | פָּנֶה | פנה | noun (common, both genders, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) | I.1 |
+
+Grammar:
+
+- וַיִּחַר לְקַיִן: the verb is impersonal: 'it burned to Cain'.
+- וַיִּפְּלוּ פָּנָיו: פָּנִים is plural in form and the verb is plural; 'his face fell'.
+- לֹא שָׁעָה is the negative of וַיִּשַׁע in 4:4, in reverse order (a chiasm): the objects come first, so the verb is a qatal with לֹא, not a wayyiqtol.
+- Accents: etnaḥta on שָׁעָה; zaqef qaton on מְאֹד.
+
+Note: 'Turned' is kept from 4:4 so that the contrast is clear.
+
+Commentary:
+
+- Radak (records): Radak: God was not pleased with Cain because his intention was not good, and not with his offering, which was despised.
+- Sforno (records): Sforno: 'his face fell' in shame, since God had shamed him and not accepted him.
 
 #### Genesis 4:6
 
 > וַיֹּ֥אמֶר יְהֹוָ֖ה אֶל־קָ֑יִן לָ֚מָּה חָ֣רָה לָ֔ךְ וְלָ֖מָּה נָפְל֥וּ פָנֶֽיךָ׃
 
-_Not yet translated._
+**The LORD said to Cain, "Why are you angry, and why has your face fallen?"**
+
+Literal: and-said the-LORD to-Cain why burned to-you and-why fell faces-your
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֥אמֶר | and said — wayyiqtol: narrative sequence | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יְהֹוָ֖ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֶל | to | אֶל |  | preposition | 1 |
+| קָ֑יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| לָ֚מָּה | why — לָמָּה: ל + מָה, 'for what?'; the ל takes qamets and the מ of מָה is doubled (dagesh forte), the usual form of this word before a non-guttural. | ל: to, for + מָה |  | preposition + particle (interrogative) | 1 |
+| חָ֣רָה | is angry — idiom: the verb is 'burn', so 'has it burned for you'; the pack's BDB entry lists no Qal sense, so none is given | חָרָה | חרה | verb (qal, perfect (qatal), 3rd person, masculine, singular) |  |
+| לָ֔ךְ | to you — The pack parses the suffix as 2nd feminine singular. Here לָךְ is the pausal form of the masculine לְךָ (it stands on a zaqef qaton), identical in spelling to the feminine; Cain is male. The data is kept. | ל: to, for |  | preposition + suffix (pronominal, 2nd person, feminine, singular) |  |
+| וְלָ֖מָּה | and why | ו: and + ל: to, for + מָה |  | conjunction + preposition + particle (interrogative) | 1 |
+| נָפְל֥וּ | have fallen — 3rd plural because פָּנִים is a plural noun | נָפַל | נפל | verb (qal, perfect (qatal), 3rd person, common, plural) | Qal 1 |
+| פָנֶֽיךָ׃ | your face — פָּנִים is plural in form and singular in sense: 'face'; construct form before the suffix | פָּנֶה | פנה | noun (common, both genders, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | I.1 |
+
+Grammar:
+
+- חָרָה לְ is an idiom: literally 'it burned to X', meaning X became angry; the subject (anger, אַף) is not stated.
+- The two questions are parallel, each with לָמָּה, the first divided from the second by the zaqef qaton on לָךְ.
+- נָפְלוּ is plural because פָּנִים is a plural noun; English uses the singular 'face'.
+- The etnaḥta on קַיִן divides the verse: the narrative frame in the first half, the speech in the second.
+
+Note: The English keeps the idiom 'fallen face' as a plain statement of a downcast look. Ibn Ezra (on 4:7) connects it to shame.
+
+Commentary:
+
+- Radak (not-applicable): Radak: the word came to him to rebuke him and bring him back to the good, and to teach the way of repentance to him and to later generations.
+- Sforno (not-applicable): Sforno: why are you jealous of your brother, troubled that I accepted his offering with favour? That favour was neither arbitrary nor unjust.
 
 #### Genesis 4:7
 
 > הֲל֤וֹא אִם־תֵּיטִיב֙ שְׂאֵ֔ת וְאִם֙ לֹ֣א תֵיטִ֔יב לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ וְאֵלֶ֙יךָ֙ תְּשׁ֣וּקָת֔וֹ וְאַתָּ֖ה תִּמְשׇׁל־בּֽוֹ׃
 
-_Not yet translated._
+**Is it not so that if you do well, there is forgiveness, and if you do not do well, at the door sin crouches? Its desire is for you, but you can rule over it.**
+
+Literal: is-not if you-do-good lifting and-if not you-do-good at-the-door sin crouching and-to-you desire-of-it and-you you-will-rule in-it
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| הֲל֤וֹא | is it not so that — הֲלֹא: the interrogative ה plus לֹא, an emphatic question expecting 'yes' | ה: interrogative + לֹא |  | particle (interrogative) + particle (negative) |  |
+| אִם | if | אִם |  | conjunction | 1 |
+| תֵּיטִיב֙ | you do well — Hifil of יטב, 'do well, act rightly'; the pack's lexicon labels the Hifil senses 'Hithp'. The accent is a pashta. | יָטַב | יטב | verb (hifil, imperfect (yiqtol), 2nd person, masculine, singular) | Hithp 5 |
+| שְׂאֵ֔ת | forgiveness — שְׂאֵת from נשׂא 'lift'; BDB glosses 'exaltation, dignity, swelling, uprising'. The English takes the sense 'lifting up (of guilt)' = forgiveness, after Rashi's reference to the Targum. See apparatus. | שְׂאֵת | נשׂא | noun (common, feminine, singular, absolute) |  |
+| וְאִם֙ | and if | ו: and + אִם |  | conjunction + conjunction | 1 |
+| לֹ֣א | not | לֹא |  | particle (negative) |  |
+| תֵיטִ֔יב | you do well — Hifil, as in 4:7.3; negated | יָטַב | יטב | verb (hifil, imperfect (yiqtol), 2nd person, masculine, singular) | Hithp 5 |
+| לַפֶּ֖תַח | at the door — לַפֶּתַח: ל with the article, 'to/at the opening' | ל: to, for + פֶּ֫תַח | פתח | preposition (with definite article) + noun (common, masculine, singular, absolute) |  |
+| חַטָּ֣את | sin — חַטָּאת is a feminine noun; the participle that follows is masculine | חַטָּאת | חטא | noun (common, feminine, singular, absolute) | 1 |
+| רֹבֵ֑ץ | crouches — participle; masculine, although חַטָּאת is feminine (see grammar) | רָבַץ | רבץ | verb (qal, participle active, masculine, singular, absolute) | Qal |
+| וְאֵלֶ֙יךָ֙ | and to you — וְאֵלֶיךָ: the pashta is postpositive (written on the last letter); the second pashta marks the stressed syllable לֶ, which is not final. | ו: and + אֶל |  | conjunction + preposition + suffix (pronominal, 2nd person, masculine, singular) |  |
+| תְּשׁ֣וּקָת֔וֹ | its desire — תְּשׁוּקָה, 'longing, desire'; construct state with the suffix 'its' | תְּשׁוּקָה | שׁוק | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| וְאַתָּ֖ה | and you | ו: and + אַתָּ֫ה | אנת | conjunction + pronoun (personal, 2nd person, masculine, singular) |  |
+| תִּמְשׇׁל | you can rule — imperfect: here 'you can / are able to / may rule'; Rashi reads 'if you wish, you can prevail over it' | מָשַׁל | משׁל | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1 |
+| בּֽוֹ׃ | over it — בְּ after מָשַׁל means 'over' | ב: in, with, by |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+
+Grammar:
+
+- The verse is a conditional pair, אִם תֵּיטִיב ... וְאִם לֹא תֵיטִיב; the apodosis of the first is only the single word שְׂאֵת, so a verb must be supplied in English.
+- חַטָּאת is feminine but רֹבֵץ is a masculine participle; Radak and Ibn Ezra take the participle to agree with the (masculine) evil impulse, the thing that causes the sin; Radak cites Genesis Rabbah: it is not רֹבֶצֶת but רֹבֵץ.
+- The same suffix appears in תְּשׁוּקָתוֹ and בּוֹ: a masculine 'it', which the English renders 'it'. Its antecedent is the evil impulse, after Rashi and Ibn Ezra.
+- The pair אֵלֶיךָ תְּשׁוּקָתוֹ ... וְאַתָּה תִּמְשָׁל־בּוֹ echoes 3:16 (אֶל־אִישֵׁךְ תְּשׁוּקָתֵךְ וְהוּא יִמְשָׁל־בָּךְ), with the roles reversed.
+- The etnaḥta falls on רֹבֵץ: the first two clauses (the choice and its consequence) are separated from the two clauses about the desire and the rule.
+
+Note: This is among the hardest verses of Genesis. The English chooses (1) שְׂאֵת as 'forgiveness', following Rashi's 'as its Targum' (Onkelos: it will be forgiven you); (2) חַטָּאת as the subject, 'sin', that crouches at the door; (3) the desire and rule as those of sin or the evil impulse over Cain, after Rashi: the impulse is always longing to make you stumble, and 'if you wish, you can prevail over it'. Ibn Ezra's alternative of 'lifting the face' (in contrast with the fallen faces of 4:6) is recorded; his construct reading 'sin-impulse' is recorded; so is the reading, named by Ibn Ezra among others' views, that the desire is Abel's, subject to Cain.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'as its Targum, its explanation' — the Targum takes שְׂאֵת as forgiveness: if you do good, your sin will be forgiven.
+- Rashi (records): Rashi: 'לְפֶתַח קִבְרְךָ חֶטְאֲךָ שָׁמוּר' — at the door of your grave your sin is kept. The English keeps 'at the door' without the grave, and records this reading.
+- Rashi (follows): Rashi: the desire is that of the sin, the evil impulse, 'always longing and craving to make you stumble'. The English renders 'its desire is for you' with sin/the impulse as antecedent.
+- Rashi (follows): Rashi: 'אִם תִּרְצֶה תִּתְגַּבֵּר עָלָיו' — if you wish, you can overcome it. The English 'you may rule over it' gives the sense of possibility.
+- Ibn Ezra (records): Ibn Ezra: many commentators take שְׂאֵת as 'bearing (forgiving) your iniquity'; in his view it is 'lifting of the face', answering 'his face fell' (4:5), since a fallen face is the way of shame, as in 'then you will lift your face without blemish' (Job 11:15). The English follows Rashi and the Targum; this reading is recorded.
+- Ibn Ezra (records): Ibn Ezra lists readings of חַטָּאת רֹבֵץ: חַטָּאת for עָוֺן; at the door of the grave your sin will lie on the day of judgment (with the desire taken as Abel's); at the door of your house your sin lies and goes with you; the door of the mouth (Mic 7:5). He prefers that חַטָּאת is in the construct state: the impulse of the human heart is what crouches with him. The English keeps חַטָּאת as the absolute subject, as the pack parses it, and records this reading.
+- Ibn Ezra (follows): Ibn Ezra: the impulse will return to your control by your will, and you have the power to rule it. The English 'its desire is for you, but you may rule over it' follows this.
+- Ramban (records): Ramban lists the readings of שְׂאֵת: the bearing of your iniquity, forgiveness (Onkelos, Rashi, Radak); the lifting of the face (Ibn Ezra); and gives his own: 'you will have extra eminence over your brother, since you are the firstborn'; if not, at the door of your house your sin crouches to make you stumble in all your ways.
+- Radak (follows): Radak: if you improve your heart and deeds there will be שְׂאֵת, meaning atonement and forgiveness, as in 'bearing iniquity' (Exod 34:7).
+
+Apparatus:
+
+- שְׂאֵת: (a) forgiveness, the bearing away of guilt (Onkelos, Rashi, Radak, adopted); (b) lifting of the face (Ibn Ezra); (c) eminence or rank above the brother (Ramban), elevation of rank (Sforno); (d) 'blessing' in a midrash cited by Radak (Genesis Rabbah 22:6), with 'curse' for the second שְׂאֵת.
+- חַטָּאת רֹבֵץ: feminine noun with masculine participle; (a) sin crouches at the door (adopted); (b) at the door of your grave your sin is kept (Rashi); (c) the construct reading 'the impulse of sin' (Ibn Ezra's own view); Ibn Ezra also reports the door of the house and the door of the mouth.
+- וְאֵלֶיךָ תְּשׁוּקָתוֹ: the 'its' is (a) the evil impulse (Rashi, Ibn Ezra, Radak, Sforno, adopted); (b) Abel, who is subject to Cain (other commentators, named by Ibn Ezra).
 
 #### Genesis 4:8
 
 > וַיֹּ֥אמֶר קַ֖יִן אֶל־הֶ֣בֶל אָחִ֑יו וַֽיְהִי֙ בִּהְיוֹתָ֣ם בַּשָּׂדֶ֔ה וַיָּ֥קׇם קַ֛יִן אֶל־הֶ֥בֶל אָחִ֖יו וַיַּהַרְגֵֽהוּ׃
 
-_Not yet translated._
+**Cain spoke to Abel his brother. And when they were in the field, Cain rose up against Abel his brother and killed him.**
+
+Literal: and-said Cain to-Abel brother-of-him and-it-was when-being-they in-the-field and-rose Cain against-Abel brother-of-him and-killed-him
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֥אמֶר | and said — wayyiqtol; with no quoted speech after it. See apparatus. | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| קַ֖יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הֶ֣בֶל | Abel | הֶ֫בֶל | הבל | noun (proper name) |  |
+| אָחִ֑יו | his brother — construct state with suffix | אָח | אחה | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וַֽיְהִי֙ | and it happened — וַיְהִי: the narrative formula 'and it came to pass', introducing a time clause | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.2.a.(1) |
+| בִּהְיוֹתָ֣ם | when they were — infinitive construct with ב and a pronominal suffix: 'in their being', 'when they were' | ב: in, with, by + הָיָה | היה | preposition + verb (qal, infinitive construct) + suffix (pronominal, 3rd person, masculine, plural) | Qal III.3 |
+| בַּשָּׂדֶ֔ה | in the field | ב: in, with, by + שָׂדֶה | שׂדה | preposition (with definite article) + noun (common, masculine, singular, absolute) | 1 |
+| וַיָּ֥קׇם | and rose — wayyiqtol; 'rose up' as a hostile act | ו: and + קוּם | קום | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| קַ֛יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| אֶל | against — אֶל here in hostile sense 'against'; Radak: אֶל means עַל | אֶל |  | preposition | 4 |
+| הֶ֥בֶל | Abel | הֶ֫בֶל | הבל | noun (proper name) |  |
+| אָחִ֖יו | his brother | אָח | אחה | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וַיַּהַרְגֵֽהוּ׃ | and killed him — wayyiqtol with a 3rd masculine singular object suffix | ו: and + הָרַג | הרג | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, masculine, singular) | Qal 1.a |
+
+Grammar:
+
+- וַיֹּאמֶר קַיִן אֶל־הֶבֶל אָחִיו has no speech after it in the Masoretic text; the verb is rendered 'spoke' so that the English does not invent words.
+- וַיְהִי בִּהְיוֹתָם is a time clause (וַיְהִי plus ב and an infinitive construct with suffix): 'and it happened, when they were'.
+- The two wayyiqtols וַיָּקָם ... וַיַּהַרְגֵהוּ narrate the action in sequence; the tevir on קַיִן sets off the subject.
+- The text repeats 'his brother' (אָחִיו) with each name: the key word of the story.
+
+Note: Rashi takes the 'said' to mean that Cain entered into words of quarrel to pick a fight; Ibn Ezra takes it to mean that Cain repeated all the rebukes God had given him. The English 'spoke' covers both. Ramban's view is that the speech was an invitation to the field, joined to the next clause.
+
+Commentary:
+
+- Rashi (follows): Rashi: he entered into a quarrel with him to provoke and kill him; there are aggadic midrashim, but this is the plain sense. The English 'spoke' is neutral on the content of the talk but follows Rashi that it was hostile talk.
+- Ibn Ezra (records): Ibn Ezra: most likely Cain told Abel all the rebukes the LORD had given him. He dismisses the question how he killed him with no sword: he could strangle him with his hand, or use one of a thousand pieces of wood or stone. Recorded as an alternative reading of the 'said'.
+- Ramban (records): Ramban cites Rashi and Ibn Ezra and gives his own view that the 'said' is joined with the next clause: Cain said 'let us go out to the field' and killed him there in secret.
+- Radak (records): Radak cites Genesis Rabbah on the quarrel's cause (the first Eve, or a twin sister) and Targum Yerushalmi, which supplies the speech 'come, let us go out to the field' and a theological quarrel.
+
+Apparatus:
+
+- Missing speech: the Masoretic text has no words after וַיֹּאמֶר קַיִן אֶל־הֶבֶל אָחִיו. Targum Yerushalmi, as cited by Radak (4:8:7), supplies 'come, let us go out to the field' and an argument about divine justice. Ramban reads the missing speech as the invitation to the field.
+- אֶל־הֶבֶל in 4:8.11: Radak (4:8:5): אֶל means עַל, 'against'.
 
 #### Genesis 4:9
 
 > וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־קַ֔יִן אֵ֖י הֶ֣בֶל אָחִ֑יךָ וַיֹּ֙אמֶר֙ לֹ֣א יָדַ֔עְתִּי הֲשֹׁמֵ֥ר אָחִ֖י אָנֹֽכִי׃
 
-_Not yet translated._
+**The LORD said to Cain, "Where is Abel your brother?" He said, "I do not know. Am I my brother's keeper?"**
+
+Literal: and-said the-LORD to-Cain where Abel brother-of-you and-he-said not I-know ?-keeper brother-of-me I
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֤אמֶר | and said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יְהֹוָה֙ | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֶל | to | אֶל |  | preposition | 1 |
+| קַ֔יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| אֵ֖י | where — אֵי is the short form of אַיֵּה; Ibn Ezra: אֵי = אַיֵּה, and אֵיפֹה is a compound of two words | אַי |  | particle (interrogative) | 1 |
+| הֶ֣בֶל | Abel | הֶ֫בֶל | הבל | noun (proper name) |  |
+| אָחִ֑יךָ | your brother — construct state with 2nd masculine singular suffix | אָח | אחה | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+| וַיֹּ֙אמֶר֙ | and he said — wayyiqtol; the subject, Cain, is not repeated | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| לֹ֣א | not | לֹא |  | particle (negative) |  |
+| יָדַ֔עְתִּי | I know — perfect (qatal) in a present sense: 'I do not know' (stative, a present state of knowing) | יָדַע | ידע | verb (qal, perfect (qatal), 1st person, common, singular) | Qal 1.a |
+| הֲשֹׁמֵ֥ר | am I the keeper — ה with hataf-patah marks an astonished or rhetorical question (Rashi, 4:9:3); the participle is 'one who keeps' | ה: interrogative + שָׁמַר | שׁמר | particle (interrogative) + verb (qal, participle active, masculine, singular, absolute) | Qal 1.b |
+| אָחִ֖י | of my brother — construct state with 1st singular suffix | אָח | אחה | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| אָנֹֽכִי׃ | I — the emphatic independent pronoun אָנֹכִי | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
+
+Grammar:
+
+- The verbless question אֵי הֶבֶל אָחִיךָ: אֵי is the interrogative 'where', as in the longer אַיֵּה.
+- לֹא יָדַעְתִּי: the qatal of יָדַע is used for a present state, 'I do not know'.
+- The question הֲשֹׁמֵר אָחִי אָנֹכִי has the interrogative ה pointed with hataf-patah, its usual pointing before a non-guttural (ש); Rashi says this ה always marks astonishment.
+- Cain's reply joins the denial and the counter-question with no 'and'. The doubled pashta on וַיֹּאמֶר only marks its stress (the sign is postpositive).
+
+Note: The English reads 'I do not know' as a denial, a lie, following Rashi ('he acted like one who would deceive the One above'). Radak and Sforno give the motive: Cain still doubted, or thought, that God did not know the particulars of human affairs. שֹׁמֵר 'keeper' picks up the shepherd's trade of Abel and Cain's own relation to him.
+
+Commentary:
+
+- Rashi (follows): Rashi: the question 'where is Abel' is to enter into conversation with him gently, so that perhaps he will repent and say 'I killed him and sinned against you'.
+- Rashi (follows): Rashi: 'נַעֲשָׂה כְּגוֹנֵב דַּעַת הָעֶלְיוֹנָה' — he acted like one who would deceive the One above; that is, he lied and denied. The English renders a flat denial.
+- Rashi (follows): Rashi: הֲשֹׁמֵר is an expression of astonishment, as is every ה pointed with hataf-patah. The English renders it as a rhetorical question.
+- Ibn Ezra (follows): Ibn Ezra: אֵי has the sense of אַיֵּה, and אֵיפֹה is compounded from two words. The English 'where' follows this.
+- Radak (records): Radak: Cain's reply means that each went to his own work, and 'am I to guard him wherever he goes with his flock'; Adam, by contrast, did not lie when the LORD asked 'where are you'.
+
+Apparatus:
+
+- לֹא יָדַעְתִּי: a lie and denial, as if to deceive the One above (Rashi, adopted); Radak and Sforno add that Cain thought, or still doubted, that God knew the particulars of human affairs.
+- The LXX and other witnesses are not in the pack for this unit.
 
 #### Genesis 4:10
 
 > וַיֹּ֖אמֶר מֶ֣ה עָשִׂ֑יתָ ק֚וֹל דְּמֵ֣י אָחִ֔יךָ צֹעֲקִ֥ים אֵלַ֖י מִן־הָֽאֲדָמָֽה׃
 
-_Not yet translated._
+**He said, "What have you done? Listen: the blood of your brother is crying out to me from the ground."**
+
+Literal: and-he-said what you-did voice-of bloods-of brother-of-you crying to-me from-the-ground
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֖אמֶר | and he said — wayyiqtol; the LORD is the subject, understood from 4:9 | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| מֶ֣ה | what | מָה |  | particle (interrogative) | 1 |
+| עָשִׂ֑יתָ | you have done — perfect (qatal), 2nd masculine singular; the etnaḥta ends the first half of the verse | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 2nd person, masculine, singular) | Qal I.1 |
+| ק֚וֹל | voice of — קוֹל is in the construct state: 'the voice of'. It is an exclamation: 'a voice!', 'hark!' (see grammar) | קוֹל | קול | noun (common, masculine, singular, construct) |  |
+| דְּמֵ֣י | bloods of — דָּם 'blood' has a plural form דָּמִים, used for blood shed (blood-guilt); construct state | דָּם |  | noun (common, masculine, plural, construct) | 1 |
+| אָחִ֔יךָ | your brother — construct state with 2nd masculine singular suffix | אָח | אחה | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+| צֹעֲקִ֥ים | are crying out — participle, masculine plural, agreeing with the plural דְּמֵי | צָעַק | צעק | verb (qal, participle active, masculine, plural, absolute) | Qal 1 |
+| אֵלַ֖י | to me — אֵלַי: preposition אֶל with the 1st singular suffix | אֶל |  | preposition + suffix (pronominal, 1st person, common, singular) | 1 |
+| מִן | from | מִן־ |  | preposition | 1.a |
+| הָֽאֲדָמָֽה׃ | the ground — הָאֲדָמָה: the ground out of which Adam was formed (2:7) and which received the blood | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+
+Grammar:
+
+- קוֹל דְּמֵי אָחִיךָ צֹעֲקִים: the participle is plural, agreeing with דְּמֵי, not with the singular קוֹל; so the קוֹל is an independent exclamation ('Listen!'), as Ibn Ezra argues with the parallel קוֹל דּוֹדִי הִנֵּה־זֶה בָּא.
+- דָּמִים is the plural of דָּם, used of blood that has been shed; Radak says it is plural in meaning also because the four humours are mixed in it.
+- The yetiv on קוֹל marks the break after the exclamation.
+- מִן־הָאֲדָמָה modifies the participle: the cry comes from the ground that received the blood.
+
+Note: The English 'Listen:' follows Ibn Ezra that צֹעֲקִים does not depend on קוֹל. The plural 'bloods' is rendered 'blood' in English; Rashi and the Targum read the plural as 'his blood and the blood of his future offspring' (see commentary).
+
+Commentary:
+
+- Rashi (records): Rashi: 'his blood and the blood of his descendants'; alternatively, he made many wounds in him, since he did not know from where the soul would depart (Sanhedrin 37). The English keeps 'blood' without the plural sense; both readings are recorded.
+- Ibn Ezra (follows): Ibn Ezra: 'צועקים אלי' is not bound to קוֹל, as with 'the voice of my beloved, here he comes' (Song 2:8). The meaning: he heard the outcry of the blood poured out onto the ground; the Targum took the plural to refer to the sons whom Abel would have fathered. The English 'Listen:' separates the exclamation from the cry.
+- Radak (not-applicable): Radak: the blood cries out to God as a figure of speech, 'from the ground' where the blood was poured; he explains the plural and cites the Targum on future descendants.
+
+Apparatus:
+
+- דְּמֵי: plural of דָּם; (a) the blood of Abel, plural for shed blood (adopted); (b) the blood of Abel and of his unborn descendants (Targum Onkelos as cited by Radak, Rashi); (c) many wounds (Rashi, alternative).
+- קוֹל: (a) an independent exclamation (Ibn Ezra, adopted); (b) the construct head of 'blood', 'the voice of the blood'.
 
 #### Genesis 4:11
 
 > וְעַתָּ֖ה אָר֣וּר אָ֑תָּה מִן־הָֽאֲדָמָה֙ אֲשֶׁ֣ר פָּצְתָ֣ה אֶת־פִּ֔יהָ לָקַ֛חַת אֶת־דְּמֵ֥י אָחִ֖יךָ מִיָּדֶֽךָ׃
 
-_Not yet translated._
+**And now you are cursed from the ground, which opened its mouth to take your brother's blood from your hand.**
+
+Literal: and-now cursed you from-the-ground which opened mouth-of-her to-take blood-of brother-of-you from-hand-of-you
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְעַתָּ֖ה | and now — וְעַתָּה: 'and now', marking a turn from accusation to sentence | ו: and + עַתָּ֫ה | ענה | conjunction + adverb |  |
+| אָר֣וּר | cursed — passive participle: 'accursed' | אָרַר | ארר | verb (qal, participle passive, masculine, singular, absolute) | Qal |
+| אָ֑תָּה | you — the independent pronoun, placed after the participle for emphasis | אַתָּ֫ה | אנת | pronoun (personal, 2nd person, masculine, singular) |  |
+| מִן | from | מִן־ |  | preposition | 1.a |
+| הָֽאֲדָמָה֙ | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אֲשֶׁ֣ר | which — relative particle; its antecedent is the ground | אֲשֶׁר | אשׁר | particle (relative) |  |
+| פָּצְתָ֣ה | opened — perfect, 3rd feminine singular; the ground (feminine) is the subject. Ibn Ezra: פָּצְתָה = פָּתְחָה, as in 'Job opens his mouth in vanity' | פָּצָה | פצה | verb (qal, perfect (qatal), 3rd person, feminine, singular) | 1 |
+| אֶת | - — the object marker אֵת | אֵת | אות | particle (direct object marker) |  |
+| פִּ֔יהָ | its mouth — פֶּה 'mouth' in the construct state with a 3rd feminine singular suffix | פֶּה |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1.a |
+| לָקַ֛חַת | to take — infinitive construct with ל: purpose | ל: to, for + לָקַח | לקח | preposition + verb (qal, infinitive construct) | Qal 3.a |
+| אֶת | - — the object marker | אֵת | אות | particle (direct object marker) |  |
+| דְּמֵ֥י | the blood of — plural construct, as in 4:10 | דָּם |  | noun (common, masculine, plural, construct) | 1 |
+| אָחִ֖יךָ | your brother — construct with 2nd masculine singular suffix | אָח | אחה | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+| מִיָּדֶֽךָ׃ | from your hand — מִיָּדֶךָ: the preposition מִן (assimilated as מִ with dagesh in the י) with 'hand' and the 2nd masculine singular suffix: 'from your hand', the hand that shed the blood. | מ: from, than + יָד |  | preposition + noun (common, both genders, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+
+Grammar:
+
+- אָרוּר אָתָּה is a passive participle with the pronoun after it: 'cursed are you'. The same participle begins the curses of 3:14, 3:17.
+- מִן־הָאֲדָמָה is ambiguous: 'cursed from (away from) the ground' (Ibn Ezra: a deficiency that comes from the ground), 'cursed more than the ground' (Rashi), or 'cursed by the ground'. The English keeps the preposition ambiguous.
+- פָּצְתָה אֶת־פִּיהָ is personification of the ground (feminine) as having a mouth; the infinitive לָקַחַת states the purpose.
+- מִיָּדֶךָ: 'from your hand', the hand that shed the blood.
+- The pashta on הָאֲדָמָה separates the pronouncing of the curse from the relative clause describing the ground.
+
+Note: Rashi reads מִן־הָאֲדָמָה as 'more than the ground was already cursed' (it is cursed further 'with you'); Ramban rejects this and reads 'cursed from it': you are driven from its yield. Ibn Ezra reads it as a loss that comes from the ground, as Cain farmed the soil. The English 'cursed from the ground' leaves the three possible senses open.
+
+Commentary:
+
+- Rashi (records): Rashi: you are cursed more than the ground, which had already been cursed for its own sin; and in this it sinned again, by opening its mouth to take the blood. Ramban rejects this reading; recorded as an alternative to the English.
+- Rashi (records): Rashi: 'וְהִנְּנִי מוֹסִיף לָהּ קְלָלָה אֶצְלְךָ, לֹא תֹסֵף תֵּת כֹּחָהּ' — I add a curse for it with you: it will not again give its strength. The English keeps the clause without this connection to 4:12.
+- Ibn Ezra (follows): Ibn Ezra: 'cursed from the ground' means a loss that comes from the ground, since he was a tiller and the ground would give no more harvest; he would need to go to a distant land far from his father's place near the garden and would not rest. The English 'cursed from the ground' leaves room for this.
+- Ibn Ezra (follows): Ibn Ezra: פָּצְתָה means 'opened', as in 'Job opens his mouth in vain' (Job 35:16). The English 'opened its mouth' follows.
+- Ramban (records): Ramban rejects Rashi's reading: here the ground is not cursed on his account as it was on Adam's; he is cursed from it, and the curse is that it will not again give him its strength (a loss for a farmer), and that he will wander.
+- Radak (not-applicable): Radak: the blood was absorbed in the soil; he cites Job 16:18 'earth, do not cover my blood'.
+
+Apparatus:
+
+- מִן־הָאֲדָמָה: (a) cursed away from the ground, deprived of its yield (Ibn Ezra, Ramban); (b) cursed more than the ground (Rashi); (c) cursed by the ground.
+- The relative אֲשֶׁר has the ground as its antecedent; the pack lists no variant.
 
 #### Genesis 4:12
 
 > כִּ֤י תַֽעֲבֹד֙ אֶת־הָ֣אֲדָמָ֔ה לֹֽא־תֹסֵ֥ף תֵּת־כֹּחָ֖הּ לָ֑ךְ נָ֥ע וָנָ֖ד תִּֽהְיֶ֥ה בָאָֽרֶץ׃
 
-_Not yet translated._
+**When you work the ground, it will no longer give you its strength. You shall be a restless wanderer on the earth.**
+
+Literal: when you-work [object-mark] the-ground not it-will-add to-give strength-of-her to-you restless and-wandering you-will-be in-the-earth
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| כִּ֤י | when | כִּי |  | conjunction | 2.a |
+| תַֽעֲבֹד֙ | you work — imperfect, 2nd masculine singular; Cain was 'a worker of the ground' (4:2) | עָבַד | עבד | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1 |
+| אֶת | - — the object marker | אֵת | אות | particle (direct object marker) |  |
+| הָ֣אֲדָמָ֔ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| לֹֽא | not | לֹא |  | particle (negative) |  |
+| תֹסֵ֥ף | it will again — הוֹסִיף 'add' plus an infinitive means 'do again, do more'. תֹסֵף is the short (jussive) form; the long imperfect is תּוֹסִיף. After לֹא the short form here has the force of a future: 'it will not again'. The subject is the ground. | יָסַף | יסף | verb (hifil, jussive, 3rd person, feminine, singular) | Hiph 2.a |
+| תֵּת | give — infinitive construct complementing the verb of 'adding' | נָתַן | נתן | verb (qal, infinitive construct) | Qal 1 |
+| כֹּחָ֖הּ | its strength — כֹּחַ 'strength', here the yield or produce of the ground; construct with a 3rd feminine singular suffix | כֹּחַ | כחח | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| לָ֑ךְ | to you — pausal form of לְךָ before the etnaḥta | ל: to, for |  | preposition + suffix (pronominal, 2nd person, feminine, singular) |  |
+| נָ֥ע | restless — participle: 'wavering, staggering'; Rashi: you have no right to dwell in one place | נוּעַ | נוע | verb (qal, participle active, masculine, singular, absolute) | Qal 2 |
+| וָנָ֖ד | and wandering — participle of נוּד 'wander'; the pair נָע וָנָד is an alliterating hendiadys. Ibn Ezra: נָד means the same as נָע | ו: and + נוּד | נוד | conjunction + verb (qal, participle active, masculine, singular, absolute) | Qal 1.a |
+| תִּֽהְיֶ֥ה | you shall be — imperfect; the participles are predicates | הָיָה | היה | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal III |
+| בָאָֽרֶץ׃ | on the earth — בָּאָרֶץ: ב with the article; 'in the land' or 'on the earth' | ב: in, with, by + אֶ֫רֶץ | ארץ | preposition (with definite article) + noun (common, both genders, singular, absolute) | 1.a |
+
+Grammar:
+
+- כִּי תַעֲבֹד אֶת־הָאֲדָמָה is a temporal or conditional clause: 'when/if you work the ground'.
+- לֹא־תֹסֵף תֵּת: a form of 'add' followed by an infinitive means 'do again'; negated, 'will not again give'.
+- נָע וָנָד: two participles, assonant, as a hendiadys 'restless and wandering'; Ibn Ezra: נָד has the same sense as נָע.
+- The etnaḥta falls on לָךְ, dividing the loss of the soil's strength from the sentence of wandering.
+- The subject of תֹסֵף is the ground (feminine), whose כֹּחַ is its produce.
+
+Note: The two curses are the loss of the ground's yield to the farmer and wandering. Radak says the curse was for Cain alone, and that it is a deprivation of what the ground used to produce even after the curse on Adam. The English renders נָע וָנָד as one phrase.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'אֵין לְךָ רְשׁוּת לָדוּר בְּמָקוֹם אֶחָד' — you have no permission to dwell in one place. The English 'restless wanderer' follows this sense of נָע וָנָד.
+- Ibn Ezra (follows): Ibn Ezra: some say וָנָד is a mourning (as in 'to console him', Job 2:11); in his view נָד is of the same sense as נָע, as in 'I would flee far away' (Ps 55:8). The English uses the pair as synonyms.
+- Radak (follows): Radak: although the ground was cursed from the time Adam sinned, now it adds to the curse because of Cain: even the little it was used to give it will no longer give, or give less than it was used to.
+- Radak (follows): Radak: 'נָע וָנָד' is a second curse that is Cain's alone: he could not stay in one place; the doubled terms strengthen the sense.
+
+Apparatus:
+
+- תֹסֵף: the pack parses the form as jussive; the English renders it as a future negative, 'it will no longer'.
+- כֹּחָהּ: 'its strength' = the yield of the soil (Radak, Ramban, Ibn Ezra); the Midrash cited by Radak asks whether the ground gives to others but not to Cain (Rabbi Yose bar Hanina: neither to you nor to others).
+- בָּאָרֶץ: 'in the land / on the earth'; 'earth' is chosen as the parallel of 'the ground' in the verse.
 
 #### Genesis 4:13
 
 > וַיֹּ֥אמֶר קַ֖יִן אֶל־יְהֹוָ֑ה גָּד֥וֹל עֲוֺנִ֖י מִנְּשֹֽׂא׃
 
-_Not yet translated._
+**Cain said to the LORD, "My punishment is too great to bear."**
+
+Literal: and-said Cain to-the-LORD great iniquity-of-me from-bearing
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֥אמֶר | and said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| קַ֖יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| אֶל | to | אֶל |  | preposition | 1 |
+| יְהֹוָ֑ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| גָּד֥וֹל | great — גָּדוֹל: 'great'; the pack's lexicon lists no sense that fits (senses 4, 9, 10 are 'loud', 'do great things', 'greatness'), so none is given | גָּדוֹל | גדל | adjective (adjective, masculine, singular, absolute) |  |
+| עֲוֺנִ֖י | my iniquity — עָוֺן: 'iniquity' and, by metonymy, the guilt or the punishment for it. The English takes the sense 'punishment'. See the note. | עָוֺן | עוה | noun (common, both genders, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| מִנְּשֹֽׂא׃ | than to bear — מִן with the infinitive construct: 'too great to bear'; the comparative sense of the מִן; the verb is 'carry, bear'. The commentators reported by Ibn Ezra (and Ramban, Onkelos) read it as 'forgive'; Ibn Ezra himself reads 'bear, endure'. | מ: from, than + נָשָׂא | נשׂא | preposition + verb (qal, infinitive construct) | Qal 2 |
+
+Grammar:
+
+- גָּדוֹל עֲוֺנִי is a verbless clause with the predicate first: 'great is my iniquity'.
+- מִנְּשֹׂא is מִן plus the infinitive construct of נָשָׂא; the מִן is comparative: 'too great for bearing'.
+- נָשָׂא means 'lift, carry, bear', and with עָוֺן it also means 'forgive' (Exod 34:7): hence the ambiguity of the whole phrase.
+- The etnaḥta on יְהוָה divides Cain's address from the content of his speech; the merkha and tipḥa give the clause a short rhythm.
+
+Note: The one clause has at least three readings. (1) Ibn Ezra's own view, which the English follows, and Radak's: עָוֺן here is the penalty that comes on account of the sin, as in 'for the iniquity of the Amorite is not yet complete' (15:16): 'my punishment is too great to bear'; Radak adds that this is no repentance but a plea to lighten the punishment. (2) All commentators (according to Ibn Ezra), and Ramban: 'my sin is too great to be forgiven', a confession; the English loses 'sin' and 'guilt' in favour of the penalty. (3) Rashi: a rhetorical question: 'You carry the upper and lower worlds, and my sin you cannot carry?'; Radak takes Onkelos in this way too.
+
+Commentary:
+
+- Rashi (records): Rashi, citing Genesis Rabbah: 'בִּתְמִיהָ' — a question of astonishment: 'You bear the upper and the lower beings, and my sin you cannot bear?' The English does not adopt the reading as a question; it is recorded.
+- Ibn Ezra (follows): Ibn Ezra: all commentators say Cain confessed his sin, taking נְשׂוֹא as 'forgive', as in 'bearing iniquity' (Exod 34:7). In his view the Hebrews call the good consequence 'reward' and the evil punishment that comes because of the iniquity by the name of the sin (cf. 15:16, 1 Sam 28:10, Lam 4:6): so 'this punishment is great, I cannot bear it'. The next verse confirms this reading. The English follows his own view.
+- Ramban (records): Ramban cites Rashi's question and gives the plain sense as a confession: my sin is too great to be forgiven, and 'you are righteous, LORD'.
+- Radak (follows): Radak: 'my punishment is too great to suffer'; this is no sign of repentance and regret over his sin, but a plea to God to lighten the punishment. Onkelos translates 'my guilt is too great to forgive', and Radak says he takes it as a question.
+- Sforno (records): Sforno: Cain says that his sin has no hope of an atoning repentance and no defence against the punishment, comparing Saul's 'I have sinned' to Samuel.
+
+Apparatus:
+
+- עֲוֺנִי: (a) 'my punishment' (Ibn Ezra's own view, Radak, adopted); (b) 'my sin / guilt' with 'bear' meaning 'forgive' (the commentators reported by Ibn Ezra; Ramban; Onkelos 'סַגִּי חוֹבִי מִלְּמִשְׁבָּק'); the English loses the sense 'guilt'.
+- מִנְּשֹׂא: (a) 'too great to bear' (adopted); (b) 'too great to be forgiven' (Targum, Ibn Ezra on others, Ramban); (c) a rhetorical question, 'is my sin too great to bear?' (Rashi, from Genesis Rabbah; Onkelos as Radak reads him).
+- The pack's lexicon lists no entry-sense for גָּדוֹל that fits, so none is given.
 
 #### Genesis 4:14
 
 > הֵן֩ גֵּרַ֨שְׁתָּ אֹתִ֜י הַיּ֗וֹם מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה וּמִפָּנֶ֖יךָ אֶסָּתֵ֑ר וְהָיִ֜יתִי נָ֤ע וָנָד֙ בָּאָ֔רֶץ וְהָיָ֥ה כׇל־מֹצְאִ֖י יַֽהַרְגֵֽנִי׃
 
-_Not yet translated._
+**Look, you have driven me out today from the face of the ground, and from your presence I will be hidden. I will be restless and wandering on the earth, and whoever finds me will kill me.**
+
+Literal: behold you-have-driven-out me the-day from-upon face-of the-ground and-from-your-face I-will-be-hidden and-I-will-be wavering and-wandering in-the-earth and-it-will-be all-of finder-of-me he-will-kill-me
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| הֵן֩ | behold, look — הֵן draws attention, like הִנֵּה | הֵן |  | particle (demonstrative) |  |
+| גֵּרַ֨שְׁתָּ | you have driven out — Piel perfect: a completed act, with a sense of expulsion | גָּרַשׁ | גרשׁ | verb (piel, perfect (qatal), 2nd person, masculine, singular) | Pi |
+| אֹתִ֜י | me | אֵת | אות | particle (direct object marker) + suffix (pronominal, 1st person, common, singular) |  |
+| הַיּ֗וֹם | the day, today | ה: the + יוֹם |  | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| מֵעַל֙ | from upon | מ: from, than + עַל | עלה | preposition + preposition | IV.2 |
+| פְּנֵ֣י | the face of | פָּנֶה | פנה | noun (common, both genders, plural, construct) | I.5 |
+| הָֽאֲדָמָ֔ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| וּמִפָּנֶ֖יךָ | and from your face, from your presence — the plural noun 'face' with suffix; idiom for presence | ו: and + מ: from, than + פָּנֶה | פנה | conjunction + preposition + noun (common, both genders, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | I.2.a |
+| אֶסָּתֵ֑ר | I will be hidden — Niphal with a passive or reflexive force: 'be hidden' or 'hide myself' | סָתַר | סתר | verb (nifal, imperfect (yiqtol), 1st person, common, singular) | Niph 2 |
+| וְהָיִ֜יתִי | and I will be — weqatal continuing the future sense | ו: and + הָיָה | היה | conjunction + verb (qal, sequential perfect (weqatal), 1st person, common, singular) | Qal II.2 |
+| נָ֤ע | wavering, restless — participle describing a state | נוּעַ | נוע | verb (qal, participle active, masculine, singular, absolute) | Qal 2 |
+| וָנָד֙ | and wandering | ו: and + נוּד | נוד | conjunction + verb (qal, participle active, masculine, singular, absolute) | Qal 1.a |
+| בָּאָ֔רֶץ | in the earth | ב: in, with, by + אֶ֫רֶץ | ארץ | preposition (with definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וְהָיָ֥ה | and it will be that — weqatal introducing a consequence | ו: and + הָיָה | היה | conjunction + verb (qal, sequential perfect (weqatal), 3rd person, masculine, singular) | Qal I.2.b |
+| כׇל | all of | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| מֹצְאִ֖י | one who finds me — participle in construct with suffix: 'finder of me' | מָצָא | מצא | verb (qal, participle active, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | Qal 1 |
+| יַֽהַרְגֵֽנִי׃ | he will kill me — yiqtol with the 1st singular object suffix -ֵנִי: 'he will kill me'. The form is the ordinary one; the silluq does not change its vowels. | הָרַג | הרג | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) + suffix (pronominal, 1st person, common, singular) | Qal 1.a |
+
+Grammar:
+
+- הֵן is a particle of attention ('look!') opening Cain's complaint.
+- The word פָּנִים 'face' occurs twice: 'the face of the ground' (surface) and 'your face' (presence): a repetition that makes Cain's loss of ground also a loss of God's presence.
+- נָע וָנָד is a pair of participles of similar sound and sense: 'wavering and wandering'.
+- The two weqatal verbs (וְהָיִיתִי, וְהָיָה) continue a future or consequential sense after the yiqtol אֶסָּתֵר.
+- The etnaḥta falls on אֶסָּתֵר and divides the verse into two halves: the loss of the ground and presence, and the danger that follows.
+
+Note: 'And from your face I will be hidden' is kept close to the Hebrew. Ibn Ezra explains it: there is a place that receives power and in which God's might is seen, though all is full of his glory. Cain is hidden from that place, not from God's presence everywhere. נָע is rendered 'restless' (lit. 'wavering, tottering') and נָד 'wandering'.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: 'ומפניך אסתר' means that there is a place that receives power and in which the might of God is seen, even though everything is full of his glory; the English keeps 'from your presence' and does not say that God is absent everywhere.
+- Radak (records): Radak: God was angry and hid his face and providence from Cain, leaving him to everyone; he cites Bereshit Rabbah, 'Yesterday you drove out my father and today me; shall I be hidden from you?'
+
+Apparatus:
+
+- Onkelos renders 'from before you it is not possible to hide', taking the verb as a question or an impossibility; the English follows the plain Hebrew assertion.
 
 #### Genesis 4:15
 
 > וַיֹּ֧אמֶר ל֣וֹ יְהֹוָ֗ה לָכֵן֙ כׇּל־הֹרֵ֣ג קַ֔יִן שִׁבְעָתַ֖יִם יֻקָּ֑ם וַיָּ֨שֶׂם יְהֹוָ֤ה לְקַ֙יִן֙ א֔וֹת לְבִלְתִּ֥י הַכּוֹת־אֹת֖וֹ כׇּל־מֹצְאֽוֹ׃
 
-_Not yet translated._
+**Then the LORD said to him, "Therefore, whoever kills Cain—! After seven generations vengeance will be taken." And the LORD set a sign for Cain, so that no one who found him would strike him down.**
+
+Literal: and-said to-him the-LORD therefore all-of killer-of Cain sevenfold it-will-be-avenged and-set the-LORD for-Cain a-sign so-that-not to-strike him all-of finder-of-him
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֧אמֶר | and said — wayyiqtol of narration | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| ל֣וֹ | to him | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| יְהֹוָ֗ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| לָכֵן֙ | therefore — לָכֵן, 'to so'; the introduction of a decree | ל: to, for + כֵּן |  | preposition + adverb |  |
+| כׇּל | all of | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| הֹרֵ֣ג | one who kills — participle in construct: 'killer of' | הָרַג | הרג | verb (qal, participle active, masculine, singular, construct) | Qal 1.a |
+| קַ֔יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| שִׁבְעָתַ֖יִם | sevenfold, seven generations — dual form of 'seven', 'seven times'; the commentators take it as seven generations | שִׁבְעָתַיִם | שׁבע | noun (common, feminine, dual, absolute) |  |
+| יֻקָּ֑ם | will be avenged — Hophal imperfect, passive: 'it will be avenged' | נָקַם | נקם | verb (hofal, imperfect (yiqtol), 3rd person, masculine, singular) | Hoph |
+| וַיָּ֨שֶׂם | and set — wayyiqtol of narration | ו: and + שׂוּם | שׂום | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1.c |
+| יְהֹוָ֤ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| לְקַ֙יִן֙ | for Cain | ל: to, for + קַ֫יִן |  | preposition + noun (proper name) |  |
+| א֔וֹת | a sign | אוֹת | אוה | noun (common, both genders, singular, absolute) | 1 |
+| לְבִלְתִּ֥י | so that not — לְבִלְתִּי with an infinitive: 'so as not to ...' | ל: to, for + בִּלְתִּי | בלה | preposition + conjunction | 1 |
+| הַכּוֹת | to strike — Hiphil infinitive construct; here 'strike down, kill' | נָכָה | נכה | verb (hifil, infinitive construct) | Hiph 1.a |
+| אֹת֖וֹ | him | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| כׇּל | anyone who | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| מֹצְאֽוֹ׃ | finds him — participle in construct with suffix: 'finder of him' | מָצָא | מצא | verb (qal, participle active, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- לָכֵן כָּל־הֹרֵג קַיִן is an incomplete threat: the speech states the condition and leaves the penalty to be understood (Rashi: an expression of rebuke).
+- שִׁבְעָתַיִם is a dual of 'seven': 'seven times over'; Ibn Ezra insists that it means seven generations and not fourteen or 343.
+- יֻקָּם is Hophal, passive: 'it will be avenged'; the subject is not stated, so who is avenged is not fixed by the grammar.
+- לְבִלְתִּי with the infinitive הַכּוֹת expresses purpose: 'so that [one] not strike'; כׇּל־מֹצְאוֹ is 'anyone who finds him' (lit. 'all of the finder of him').
+- The mark (אוֹת) is not described: Ibn Ezra says the text does not reveal it.
+
+Note: The English follows Rashi and Ibn Ezra, who agree that שִׁבְעָתַיִם means seven generations (Rashi: God postpones his vengeance on Cain until the seventh generation, when Lamech kills him); the English leaves the vengeance impersonal, as the Hebrew does. The reading that the killer of Cain will suffer sevenfold vengeance is the common one and is kept here as the alternative, because the Hebrew grammar does not exclude it.
+
+Commentary:
+
+- Rashi (follows): Rashi: this is one of the verses that is abbreviated and hints without explaining; 'לכן כל הורג קין' is an expression of rebuke, meaning 'thus shall be done to him', 'so and so is his punishment', and the punishment is not stated.
+- Rashi (follows): Rashi: 'I do not wish to take vengeance on Cain now; at the end of seven generations I will take my vengeance from him', since Lamech, one of his descendants, will kill him; the first part of the verse is a rebuke so that no creature should harm him.
+- Rashi (records): Rashi: God engraved a letter of His name on Cain's forehead. Another reading (ס"א): 'whoever finds me will kill me' means the beasts, since there were no other people but his parents. Before, the animals feared him; now, because of his sin, they would not. The sign was that God restored Cain's fear upon the animals.
+- Ibn Ezra (follows): Ibn Ezra: שִׁבְעָתַיִם means 'until seven generations', since the word does not mean fourteen or 343; he cites 'and the light of the sun shall be sevenfold' (Isaiah 30:26) which the prophet explains as 'like the light of seven days'.
+- Ibn Ezra (follows): Ibn Ezra: יֻקָּם means that his vengeance will be taken; God was patient with Cain until seven generations; he gives alternatives about the sign (a horn, strength in his heart) and prefers that God made a sign until Cain believed, which the text does not reveal.
+
+Apparatus:
+
+- Rashi mentions a variant understanding (ס"א) that 'whoever finds me' refers to animals.
+- The common alternative: whoever kills Cain will be avenged sevenfold (the killer suffers sevenfold vengeance).
 
 #### Genesis 4:16
 
 > וַיֵּ֥צֵא קַ֖יִן מִלִּפְנֵ֣י יְהֹוָ֑ה וַיֵּ֥שֶׁב בְּאֶֽרֶץ־נ֖וֹד קִדְמַת־עֵֽדֶן׃
 
-_Not yet translated._
+**Then Cain went out from the presence of the LORD and settled in the land of Nod, east of Eden.**
+
+Literal: and-went-out Cain from-before the-LORD and-dwelt in-land-of Nod east-of Eden
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֵּ֥צֵא | and went out — wayyiqtol of narration | ו: and + יָצָא | יצא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| קַ֖יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| מִלִּפְנֵ֣י | from before — מִלִּפְנֵי: 'from before, from the presence of' | מ: from, than + ל: to, for + פָּנֶה | פנה | preposition + preposition + noun (common, both genders, plural, construct) | I.6 |
+| יְהֹוָ֑ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| וַיֵּ֥שֶׁב | and dwelt, settled — wayyiqtol | ו: and + יָשַׁב | ישׁב | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 3 |
+| בְּאֶֽרֶץ | in the land of — construct | ב: in, with, by + אֶ֫רֶץ | ארץ | preposition + noun (common, both genders, singular, construct) | 2 |
+| נ֖וֹד | Nod — נוֹד, 'wandering', echoing נָד in 4:14 | נוֹד |  | noun (proper name) |  |
+| קִדְמַת | east of — קִדְמַת: construct of the feminine noun קִדְמָה 'front, east' (root קדם): 'east of'. | קִדְמָה | קדם | noun (common, feminine, singular, construct) |  |
+| עֵֽדֶן׃ | Eden | עֵ֫דֶן | עדן | noun (proper name) |  |
+
+Grammar:
+
+- נוֹד is a place name that sounds like נָד 'wandering', which Cain feared to be (4:14).
+- The wayyiqtol verbs וַיֵּצֵא and וַיֵּשֶׁב carry the narrative forward.
+- מִלִּפְנֵי combines two prepositions with 'face': 'from before the face of'.
+- קִדְמַת־עֵדֶן is a construct phrase meaning 'east of Eden'.
+- The etnaḥta on יְהוָה divides the departure from the settlement.
+
+Note: Rashi and Ibn Ezra agree that Nod is named for Cain's wandering; the English keeps the name and puts the meaning in the notes.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: he went out with a show of humility, like one who deceives (גּוֹנֵב דַּעַת) the One Above.
+- Rashi (follows): Rashi: בְּאֶרֶץ נוֹד is the land where all exiles wander (נָדִים).
+- Rashi (follows): Rashi: קִדְמַת עֵדֶן is where his father went into exile when driven from the garden, since 3:24 (וַיַּשְׁכֵּן מִקֶּדֶם לְגַן עֵדֶן) shows that Adam was there. The east side (רוּחַ מִזְרָחִית) always receives murderers, as with the cities of refuge 'toward the sunrise' (Deut 4:41). Another reading of בְּאֶרֶץ נוֹד: wherever he went the earth shook under him, and people said, 'Keep away from him: this is the one who killed his brother.'
+- Ibn Ezra (follows): Ibn Ezra: they called the land Nod because Cain was wandering (נע ונד).
+- Ibn Ezra (follows): Ibn Ezra: קדמת עדן is east of Eden, which is north of the garden.
 
 #### Genesis 4:17
 
 > וַיֵּ֤דַע קַ֙יִן֙ אֶת־אִשְׁתּ֔וֹ וַתַּ֖הַר וַתֵּ֣לֶד אֶת־חֲנ֑וֹךְ וַֽיְהִי֙ בֹּ֣נֶה עִ֔יר וַיִּקְרָא֙ שֵׁ֣ם הָעִ֔יר כְּשֵׁ֖ם בְּנ֥וֹ חֲנֽוֹךְ׃
 
-_Not yet translated._
+**Cain knew his wife, and she conceived and bore Enoch. He was building a city, and he named the city after his son Enoch.**
+
+Literal: and-knew Cain [object-mark] his-wife and-conceived and-bore [object-mark] Enoch and-was building city and-called name-of the-city like-name-of his-son Enoch
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֵּ֤דַע | and knew — 'to know' as an idiom for sexual relations | ו: and + יָדַע | ידע | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 3 |
+| קַ֙יִן֙ | Cain | קַ֫יִן |  | noun (proper name) |  |
+| אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
+| אִשְׁתּ֔וֹ | his wife — construct with suffix | אִשָּׁה | אנשׁ | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| וַתַּ֖הַר | and she conceived — wayyiqtol, 3rd feminine | ו: and + הָרָה | הרה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| וַתֵּ֣לֶד | and she bore — wayyiqtol, 3rd feminine | ו: and + יָלַד | ילד | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
+| חֲנ֑וֹךְ | Enoch | חֲנוֹךְ |  | noun (proper name) |  |
+| וַֽיְהִי֙ | and he was — wayyiqtol of הָיָה with a participle: a continuing action in the past | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal III |
+| בֹּ֣נֶה | building — participle | בָּנָה | בנה | verb (qal, participle active, masculine, singular, absolute) | Qal |
+| עִ֔יר | a city | עִיר |  | noun (common, feminine, singular, absolute) | 1 |
+| וַיִּקְרָא֙ | and he called — wayyiqtol | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 6 |
+| שֵׁ֣ם | the name of — construct | שֵׁם |  | noun (common, masculine, singular, construct) | 3 |
+| הָעִ֔יר | the city | ה: the + עִיר |  | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| כְּשֵׁ֖ם | like the name of — כְּ 'like, after' | כ: like, as + שֵׁם |  | preposition + noun (common, masculine, singular, construct) | 3 |
+| בְּנ֥וֹ | his son — construct with suffix | בֵּן |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| חֲנֽוֹךְ׃ | Enoch | חֲנוֹךְ |  | noun (proper name) |  |
+
+Grammar:
+
+- וַיֵּדַע 'knew' is a standard idiom for marital relations; it is used in 4:1 of Adam and Eve.
+- The two feminine wayyiqtols וַתַּהַר וַתֵּלֶד narrate conception and birth in sequence.
+- וַיְהִי בֹּנֶה עִיר: 'he was building a city', a wayyiqtol of 'be' with a participle, giving a continuing action.
+- The subject of 'was building' and 'called' is Cain according to Rashi; Ibn Ezra takes the city's name as 'called Enoch'.
+- כְּשֵׁם בְּנוֹ is 'like the name of his son': the city was named for his son.
+
+Note: The subject of בֹּנֶה is Cain (Rashi: the city was named in memory of his son Enoch); the Hebrew leaves open whether Cain or Enoch is the builder, and the English keeps 'He'. Ibn Ezra compares Samaria, named for Shemer.
+
+Commentary:
+
+- Rashi (follows): Rashi: the city was named in memory of his son Enoch.
+- Ibn Ezra (follows): Ibn Ezra: the city's name was called Enoch, like Samaria after Shemer, and likewise Egypt; the name is from the son.
 
 #### Genesis 4:18
 
 > וַיִּוָּלֵ֤ד לַֽחֲנוֹךְ֙ אֶת־עִירָ֔ד וְעִירָ֕ד יָלַ֖ד אֶת־מְחֽוּיָאֵ֑ל וּמְחִיָּיאֵ֗ל יָלַד֙ אֶת־מְת֣וּשָׁאֵ֔ל וּמְתוּשָׁאֵ֖ל יָלַ֥ד אֶת־לָֽמֶךְ׃
 
-_Not yet translated._
+**To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.**
+
+Literal: and-was-born to-Enoch [object-mark] Irad and-Irad fathered [object-mark] Mehujael and-Mehujael fathered [object-mark] Methushael and-Methushael fathered [object-mark] Lamech
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּוָּלֵ֤ד | and was born — Niphal wayyiqtol: 'was born' | ו: and + יָלַד | ילד | conjunction + verb (nifal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Niph |
+| לַֽחֲנוֹךְ֙ | to Enoch | ל: to, for + חֲנוֹךְ |  | preposition + noun (proper name) |  |
+| אֶת | [object marker] — the marker is used with the passive verb's subject, Irad | אֵת | אות | particle (direct object marker) |  |
+| עִירָ֔ד | Irad | עִירָד |  | noun (proper name) |  |
+| וְעִירָ֕ד | and Irad | ו: and + עִירָד |  | conjunction + noun (proper name) |  |
+| יָלַ֖ד | fathered — Qal perfect used of the father: 'begot' | יָלַד | ילד | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+| אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
+| מְחֽוּיָאֵ֑ל | Mehujael | מְחוּיָאֵל |  | noun (proper name) |  |
+| וּמְחִיָּיאֵ֗ל | and Mehujael — the spelling מְחִיָּיאֵל is a variant of מְחוּיָאֵל | ו: and + מְחוּיָאֵל |  | conjunction + noun (proper name) |  |
+| יָלַד֙ | fathered | יָלַד | ילד | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+| אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
+| מְת֣וּשָׁאֵ֔ל | Methushael | מְתוּשָׁאֵל |  | noun (proper name) |  |
+| וּמְתוּשָׁאֵ֖ל | and Methushael | ו: and + מְתוּשָׁאֵל |  | conjunction + noun (proper name) |  |
+| יָלַ֥ד | fathered | יָלַד | ילד | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+| אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
+| לָֽמֶךְ׃ | Lamech | לֶ֫מֶךְ |  | noun (proper name) |  |
+
+Grammar:
+
+- וַיִּוָּלֵד is Niphal ('was born'), unusual before the object marker אֶת, which marks Irad.
+- The following three births use the Qal יָלַד with the man as subject: 'he begot'.
+- The name is spelled מְחוּיָאֵל the first time and מְחִיָּיאֵל the second.
+- The sentence changes word order after the first member: the name comes before the verb (וְעִירָד יָלַד), which marks each as a new subject.
+- The line is a genealogy: Cain, Enoch, Irad, Mehujael, Methushael, Lamech.
+
+Note: The name is spelled two ways in this verse (מְחוּיָאֵל, מְחִיָּיאֵל). This is a spelling within the text, not a ketiv and qere. The English gives the one form Mehujael.
+
+Commentary:
+
+- Rashi (follows): Rashi: where the text says הוֹלִיד it speaks of the woman's bearing, and where it says יָלַד it speaks of the man's sowing of offspring; here 'Irad fathered' is the man's act.
+- Ibn Ezra (not-applicable): Ibn Ezra: Lamech is the sixth from Cain and the seventh from Adam; this concerns the count of generations.
+
+Apparatus:
+
+- מְחוּיָאֵל (first occurrence) and מְחִיָּיאֵל (second): two spellings of one name in the same verse. Radak: the first is written with vav and yod; in the second the first yod has qamets and dagesh and the second yod is not read.
+- 4:18.9 vowels: WLC reads וּמְחִיּיָאֵל; the base text (MAM) reads וּמְחִיָּיאֵל.
+- וּמְחִיָּיאֵ֗ל: WLC reads וּמְחִיּיָאֵ֗ל (vowels)
 
 #### Genesis 4:19
 
 > וַיִּֽקַּֽח־ל֥וֹ לֶ֖מֶךְ שְׁתֵּ֣י נָשִׁ֑ים שֵׁ֤ם הָֽאַחַת֙ עָדָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית צִלָּֽה׃
 
-_Not yet translated._
+**Lamech took for himself two wives: the name of the first was Adah, and the name of the second Zillah.**
+
+Literal: and-took for-him Lamech two-of women name-of the-one Adah and-name-of the-second Zillah
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּֽקַּֽח | and took — wayyiqtol; maqqef joins it to לוֹ | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| ל֥וֹ | for himself — ethical dative | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| לֶ֖מֶךְ | Lamech | לֶ֫מֶךְ |  | noun (proper name) |  |
+| שְׁתֵּ֣י | two of — feminine dual construct | שְׁנַ֫יִם | שׁנה | adjective (cardinal number, feminine, dual, construct) |  |
+| נָשִׁ֑ים | women, wives | אִשָּׁה | אנשׁ | noun (common, feminine, plural, absolute) | 2 |
+| שֵׁ֤ם | name of — construct | שֵׁם |  | noun (common, masculine, singular, construct) | 3 |
+| הָֽאַחַת֙ | the one, the first | ה: the + אֶחָד | אחד | particle (definite article) + adjective (cardinal number, feminine, singular, absolute) | 1 |
+| עָדָ֔ה | Adah | עָדָה |  | noun (proper name) |  |
+| וְשֵׁ֥ם | and the name of | ו: and + שֵׁם |  | conjunction + noun (common, masculine, singular, construct) | 3 |
+| הַשֵּׁנִ֖ית | the second | ה: the + שֵׁנִי | שׁנה | particle (definite article) + adjective (ordinal number, feminine, singular, absolute) |  |
+| צִלָּֽה׃ | Zillah | צִלָּה |  | noun (proper name) |  |
+
+Grammar:
+
+- The pronoun in לוֹ is an ethical dative, with the sense of 'for himself'.
+- שְׁתֵּי is the construct feminine dual of שְׁנַיִם ('two') and נָשִׁים is the plural of אִשָּׁה: 'two women/wives'.
+- The two names are given by nominal clauses without a verb: 'the name of the one: Adah'.
+- הָאַחַת ... הַשֵּׁנִית: 'the one ... the second'. The cardinal אֶחָד regularly stands for 'first' at the head of a count, as in יוֹם אֶחָד (1:5) and שֵׁם הָאֶחָד (2:11).
+- The names are Adah and Zillah; Rashi connects them to 'turning aside' and 'shade', which are noted but not placed in the English.
+
+Note: The names are transliterated. The explanations of the names are not part of the English line, following the decision on names. Rashi's midrash on the two wives and his comments on the names are not taken as the plain sense (Ibn Ezra warns against relying on the Gaon's etymologies).
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: the text did not need to give all this, but teaches from the end of the story that God kept his promise that Cain would be avenged sevenfold, as Lamech in the seventh generation killed Cain.
+- Rashi (not-applicable): Rashi: the generation of the Flood took two wives, one for procreation and one for pleasure; a homiletic account.
+- Rashi (not-applicable): Rashi: Adah was the wife for procreation, so named because she was despised by him and kept away from him: עֲדָה is the Targum's (Aramaic) word for Hebrew סוּרָה 'removed, turned aside'. An aggadic etymology.
+- Rashi (not-applicable): Rashi: Zillah is the one for pleasure, named for sitting always in his shade; an aggadic etymology.
+- Ibn Ezra (follows): Ibn Ezra: do not heed the Gaon's explanations of the names, because if we knew all the sacred language we could not know all the events that explain a name such as Moses or Issachar; the English leaves the names untranslated.
 
 #### Genesis 4:20
 
 > וַתֵּ֥לֶד עָדָ֖ה אֶת־יָבָ֑ל ה֣וּא הָיָ֔ה אֲבִ֕י יֹשֵׁ֥ב אֹ֖הֶל וּמִקְנֶֽה׃
 
-_Not yet translated._
+**Adah bore Jabal; he was the first of those who live in tents and have livestock.**
+
+Literal: and-bore Adah [object-mark] Jabal he was father-of dweller-of tent and-livestock
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֵּ֥לֶד | and bore — wayyiqtol, 3rd feminine | ו: and + יָלַד | ילד | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| עָדָ֖ה | Adah | עָדָה |  | noun (proper name) |  |
+| אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
+| יָבָ֑ל | Jabal | יָבָל |  | noun (proper name) |  |
+| ה֣וּא | he — resumptive pronoun | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| הָיָ֔ה | was | הָיָה | היה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal III |
+| אֲבִ֕י | father of, first of — אֲבִי: construct of אָב | אָב | אבה | noun (common, masculine, singular, construct) | 5 |
+| יֹשֵׁ֥ב | dweller of — participle in construct | יָשַׁב | ישׁב | verb (qal, participle active, masculine, singular, construct) | Qal 3 |
+| אֹ֖הֶל | tent | אֹ֫הֶל | אהל | noun (common, masculine, singular, absolute) | 1 |
+| וּמִקְנֶֽה׃ | and livestock | ו: and + מִקְנֶה | קנה | conjunction + noun (common, masculine, singular, absolute) |  |
+
+Grammar:
+
+- הוּא הָיָה ... אֲבִי: the independent pronoun repeats the subject for emphasis.
+- אֲבִי is the construct of אָב 'father' used for the originator of a way of life.
+- יֹשֵׁב אֹהֶל is a participle in construct: 'dweller of tent'; the singular 'tent' is collective.
+- מִקְנֶה means livestock (property in animals).
+- וּמִקְנֶה does not fit 'dweller of' directly. Radak reads it as an ellipsis, '[keeper of] livestock' (compare לֵץ הַיַּיִן, Prov 20:1), or takes the ו as 'with': 'dwelling in tents with livestock'.
+
+Note: אֲבִי is 'father of' in the sense of 'the first of' (Ibn Ezra: אבי = ראשון, like אב and אביב, and the construct is always in yod). Rashi explains that Jabal was the first of the herdsmen in the wilderness, moving his tent from place to place; a homiletic reading (builder of houses for idols) is not taken.
+
+Commentary:
+
+- Rashi (follows): Rashi: he was the first of the herdsmen of animals in the deserts, a dweller of tents who moved his tent when the pasture ran out; a midrash reads 'builder of temples for idol worship', as 'the image of jealousy that provokes jealousy' (Ezekiel 8).
+- Ibn Ezra (follows): Ibn Ezra: אֲבִי means 'first' (רִאשׁוֹן), and so does אָב, and also אָבִיב (the first ripening). In the construct the word always takes yod (אֲבִי), and its fellow in this is אָח (construct אֲחִי).
 
 #### Genesis 4:21
 
 > וְשֵׁ֥ם אָחִ֖יו יוּבָ֑ל ה֣וּא הָיָ֔ה אֲבִ֕י כׇּל־תֹּפֵ֥שׂ כִּנּ֖וֹר וְעוּגָֽב׃
 
-_Not yet translated._
+**His brother's name was Jubal; he was the first of all who handle the lyre and the pipe.**
+
+Literal: and-name-of his-brother Jubal he was father-of all-of handler-of lyre and-pipe
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְשֵׁ֥ם | and the name of — construct | ו: and + שֵׁם |  | conjunction + noun (common, masculine, singular, construct) | 3 |
+| אָחִ֖יו | his brother — construct with suffix | אָח | אחה | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| יוּבָ֑ל | Jubal | יוּבָ֑ל |  | noun (proper name) |  |
+| ה֣וּא | he | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| הָיָ֔ה | was | הָיָה | היה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal III |
+| אֲבִ֕י | father of, first of | אָב | אבה | noun (common, masculine, singular, construct) | 5 |
+| כׇּל | all of | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| תֹּפֵ֥שׂ | one who handles — participle in construct | תָּפַשׂ | תפשׂ | verb (qal, participle active, masculine, singular, construct) | Qal 2 |
+| כִּנּ֖וֹר | lyre | כִּנּוֹר | כנר | noun (common, masculine, singular, absolute) |  |
+| וְעוּגָֽב׃ | and pipe — an instrument of reed or breath | ו: and + עוּגָב | עגב | conjunction + noun (common, masculine, singular, absolute) |  |
+
+Grammar:
+
+- The name יוּבָל resembles יָבָל, the name of his brother; the sound is close.
+- אֲבִי כָּל־תֹּפֵשׂ is 'father of all who handle': the originator of all players.
+- תֹּפֵשׂ is a participle in construct, here 'one who handles skilfully' (Qal 2). Radak: the verb of grasping is used because the player grips the strings with the left hand.
+- כִּנּוֹר and עוּגָב are two instruments, a stringed lyre and a reed or wind pipe.
+- The etnaḥta on יוּבָל divides the name from what is said of him; the silluq on עוּגָב closes the verse.
+
+Note: The instruments are rendered by their usual names 'lyre' and 'pipe'; Ibn Ezra says the verse refers to kinds of musical instruments and that this is a great skill.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: כנור ועוגב are kinds of musical instruments, and that is a great art.
 
 #### Genesis 4:22
 
 > וְצִלָּ֣ה גַם־הִ֗וא יָֽלְדָה֙ אֶת־תּ֣וּבַל קַ֔יִן לֹטֵ֕שׁ כׇּל־חֹרֵ֥שׁ נְחֹ֖שֶׁת וּבַרְזֶ֑ל וַֽאֲח֥וֹת תּֽוּבַל־קַ֖יִן נַֽעֲמָֽה׃
 
-_Not yet translated._
+**Zillah too bore Tubal-cain, who sharpened every tool of the craft in bronze and iron; and Tubal-cain's sister was Naamah.**
+
+Literal: and-Zillah also-she bore ACC Tubal Cain sharpener-of every cutter-of bronze and-iron and-sister-of Tubal-Cain Naamah
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְצִלָּ֣ה | and Zillah | ו: and + צִלָּה |  | conjunction + noun (proper name) |  |
+| גַם | also | גַּם | גמם | adverb |  |
+| הִ֗וא | she | הוּא |  | pronoun (personal, 3rd person, feminine, singular) |  |
+| יָֽלְדָה֙ | bore — qatal 3fs; 'Zillah, she too, bore' marks Zillah as parallel to Adah (vv. 19-21) | יָלַד | ילד | verb (qal, perfect (qatal), 3rd person, feminine, singular) | Qal 1 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| תּ֣וּבַל | Tubal | תּוּבַל־קַ֫יִן |  | noun (proper name) |  |
+| קַ֔יִן | Cain | תּוּבַל־קַ֫יִן |  | noun (proper name) |  |
+| לֹטֵ֕שׁ | sharpener of — participle construct; Ibn Ezra: 'like sharpening'; Rashi cites Job 16:9 for the verb | לָטַשׁ | לטשׁ | verb (qal, participle active, masculine, singular, construct) | Qal 2 |
+| כׇּל | every | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| חֹרֵ֥שׁ | cutter of / worker of — participle (construct); Rashi: חוֹרֵשׁ is not a finite verb (פָּעַל, 'he ploughed') but a participle, an agent word (פּוֹעֵל), since it is pointed with tsere (his 'small qamets') and accented on the last syllable (טַעְמוֹ לְמַטָּה); he takes it of every implement of the craft | חֹרֵשׁ | חרשׁ | verb (qal, participle active, masculine, singular, construct) | Qal 1 |
+| נְחֹ֖שֶׁת | bronze | נְחֹ֫שֶׁת | נחשׁ | noun (common, feminine, singular, absolute) | 1 |
+| וּבַרְזֶ֑ל | and iron | ו: and + בַּרְזֶל | ברז | conjunction + noun (common, masculine, singular, absolute) | 1 |
+| וַֽאֲח֥וֹת | and sister of — construct state | ו: and + אָחוֹת | אחה | conjunction + noun (common, feminine, singular, construct) | 1 |
+| תּֽוּבַל | Tubal | תּוּבַל־קַ֫יִן |  | noun (proper name) |  |
+| קַ֖יִן | Cain | תּוּבַל־קַ֫יִן |  | noun (proper name) |  |
+| נַֽעֲמָֽה׃ | Naamah | נַעֲמָה |  | noun (proper name) |  |
+
+Grammar:
+
+- וְצִלָּה גַם־הִוא: the independent pronoun after the subject stresses it: Zillah, she too, bore, matching Adah's sons in vv. 20-21.
+- The etnaḥta on וּבַרְזֶל divides the verse: Tubal-cain and his craft, then Naamah. Within the first half the zaqef gadol on לֹטֵשׁ is a lesser pause.
+- לֹטֵשׁ is a participle in construct with the phrase כָּל־חֹרֵשׁ, which in turn governs נְחֹשֶׁת; the phrase can be read 'sharpener of every worker in bronze and iron' or, with Rashi, 'sharpener of every craft-tool of bronze and iron'.
+- וַאֲחוֹת: a verbless clause with no verb 'was' in Hebrew; the sister is introduced as a name only.
+
+Note: חֹרֵשׁ is the hard word. Rashi takes it as a noun (worker, tool of the craft) and has Tubal-cain sharpening and polishing all such implements; Ibn Ezra glosses לֹטֵשׁ as 'sharpen'. The English follows both on לֹטֵשׁ and takes Rashi's sense of the object. Tubal-cain is not said to be the 'father' of the craft here, unlike 4:20-21 (Ramban notes Onkelos adds 'father of'). BDB lists only Qal 1-3 for the participle; Qal 1 (cut in) is the closest to 'forge, cut'.
+
+Commentary:
+
+- Rashi (records): Rashi: Tubal is from tavlin 'spice': Tubal-cain refined and prepared Cain's craft, making weapons for murderers. The English gives the name without this etymology.
+- Rashi (follows): Rashi: לֹטֵשׁ means sharpening, as in 'he sharpens his eyes at me' (Job 16:9). חוֹרֵשׁ is not a finite verb ('he ploughed') but a participle, an agent word (לְשׁוֹן פּוֹעֵל), since it has tsere and final stress; so: he sharpened and polished every implement of the bronze and iron craft.
+- Rashi (records): Rashi: Naamah is Noah's wife. The text itself names her only as Tubal-cain's sister.
+- Ibn Ezra (follows): Ibn Ezra: לוטש is 'sharpening', and compares 1 Sam 13:20, 'to sharpen each his ploughshare'.
+- Ramban (records): Ramban: the sense is that he sharpened and worked all bronze and iron; Onkelos reads 'father of every sharpener of bronze and iron'.
+- Ramban (records): Ramban on the sister: the verse says 'a sister was born to him, named Naamah'; midrashim identify her with Noah's wife or the seductress of 6:2.
+
+Apparatus:
+
+- The Hebrew has no verb in the last clause: 'sister of Tubal-cain, Naamah'.
+- Onkelos: 'father of' is added to the participle (Ramban 4:22:1).
 
 #### Genesis 4:23
 
 > וַיֹּ֨אמֶר לֶ֜מֶךְ לְנָשָׁ֗יו עָדָ֤ה וְצִלָּה֙ שְׁמַ֣עַן קוֹלִ֔י נְשֵׁ֣י לֶ֔מֶךְ הַאְזֵ֖נָּה אִמְרָתִ֑י כִּ֣י אִ֤ישׁ הָרַ֙גְתִּי֙ לְפִצְעִ֔י וְיֶ֖לֶד לְחַבֻּרָתִֽי׃
 
-_Not yet translated._
+**Lamech said to his wives, "Adah and Zillah, hear my voice; wives of Lamech, listen to my speech: have I killed a man by my wounding, a boy by my bruising?"**
+
+Literal: and-said Lamech to-wives-his Adah and-Zillah hear-(f.pl.) voice-my wives-of Lamech give-ear-(f.pl.) speech-my for man I-killed to-wound-my and-boy to-bruise-my
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֨אמֶר | and said — wayyiqtol; ו rendered by the narrative sequence | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| לֶ֜מֶךְ | Lamech | לֶ֫מֶךְ |  | noun (proper name) |  |
+| לְנָשָׁ֗יו | to his wives — ל + construct plural of אִשָּׁה (irregular plural נשים) + 3ms suffix | ל: to, for + אִשָּׁה | אנשׁ | preposition + noun (common, feminine, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| עָדָ֤ה | Adah | עָדָה |  | noun (proper name) |  |
+| וְצִלָּה֙ | and Zillah | ו: and + צִלָּה |  | conjunction + noun (proper name) |  |
+| שְׁמַ֣עַן | hear (you women) — feminine plural imperative in -nah; BDB lists only Niph and Pi senses for this entry, so no sense path is given | שָׁמַע | שׁמע | verb (qal, imperative, 2nd person, feminine, plural) |  |
+| קוֹלִ֔י | my voice | קוֹל | קול | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| נְשֵׁ֣י | wives of | אִשָּׁה | אנשׁ | noun (common, feminine, plural, construct) | 2 |
+| לֶ֔מֶךְ | Lamech | לֶ֫מֶךְ |  | noun (proper name) |  |
+| הַאְזֵ֖נָּה | listen (you women) — Hifil denominative of אֹזֶן 'ear': 'give ear'; feminine plural imperative | אָזַן | אזן | verb (hifil, imperative, 2nd person, feminine, plural) | 1 |
+| אִמְרָתִ֑י | my speech — construct with 1cs suffix | אִמְרָה | אמר | noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| כִּ֣י | (that) / for — kî: causal 'for', or introducing the clause; Rashi reads the following as a rhetorical question | כִּי |  | conjunction |  |
+| אִ֤ישׁ | a man | אִישׁ | אישׁ | noun (common, masculine, singular, absolute) |  |
+| הָרַ֙גְתִּי֙ | I have killed — qatal 1cs; Ibn Ezra takes it as future ('I would kill'), as in Gen 23:13; Rashi reads it with the question | הָרַג | הרג | verb (qal, perfect (qatal), 1st person, common, singular) | Qal 1.a |
+| לְפִצְעִ֔י | by my wounding — ל + פֶּצַע + 1cs suffix; Rashi: by a wound I gave (did I wound him wilfully?); Ibn Ezra: for a wound given me | ל: to, for + פֶּ֫צַע | פצע | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| וְיֶ֖לֶד | and a boy | ו: and + יֶ֫לֶד | ילד | conjunction + noun (common, masculine, singular, absolute) |  |
+| לְחַבֻּרָתִֽי׃ | by my bruising | ל: to, for + חַבּוּרָה | חבר | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+
+Grammar:
+
+- The two imperatives in the feminine plural, שְׁמַעַן and הַאְזֵנָּה, are in parallel lines: this short poem has the parallelism of Hebrew verse (voice/speech, man/boy, wound/bruise).
+- There is no ה of question, but Rashi reads the lines as questions 'in astonishment' (בִּתְמִיהָ): is the man I killed killed by my wounding? The reading is possible but not forced; the plain statement 'I have killed a man for my wound' is also grammatical.
+- הָרַגְתִּי is a qatal; Ibn Ezra takes it as standing for the imperfect אהרוג, 'I will kill', like נָתַתִּי in Gen 23:13.
+- The ל in לְפִצְעִי and לְחַבֻּרָתִי is read two ways: 'by', by means of a wound I gave (Rashi: עַל יְדֵי חַבֻּרָתִי), or 'for', in return for a wound given me (Ibn Ezra: if a man wounds me).
+- פֶּצַע and חַבּוּרָה are both words for injury, a cut and a welt; Rashi glosses פֶּצַע as a blow of sword or arrow.
+
+Note: The poem is one of the hardest in Genesis. The English follows Rashi's rhetorical-question reading (4:23:2): the ל is 'by', the wound is one Lamech gave, and he denies he gave it wilfully; this makes the sequel in v. 24 an argument from the lesser to the greater. Ibn Ezra reads a threat instead: if any adult or child wounds me, I will kill him (the ל 'for', הָרַגְתִּי for אֶהֱרֹג); that reading is recorded. The Hebrew allows a flat confession too ('I have killed a man for wounding me'). The readings differ in the tense and mood of the verb and in the sense of the ל.
+
+Commentary:
+
+- Rashi (records): Rashi (midrash): the wives had withdrawn from him because he killed Cain and his son Tubal-cain; the blind Lamech, led by Tubal-cain, shot at Cain, thinking him an animal, then clapped his hands and killed his son. This story is not in the Hebrew words.
+- Rashi (follows): Rashi: the verses are questions in astonishment: is a man killed because of my wound? did I wound him deliberately? Was a boy killed by my bruise? I acted in error, not wilfully.
+- Rashi (follows): Rashi: פֶּצַע is a blow by sword or arrow (old French mecaldure); the English has 'wound'.
+- Ibn Ezra (records): Ibn Ezra: the story is out of order; Adah and Zillah feared to bear sons who would be killed as seventh from Cain; Lamech answers that if anyone, man or boy, wounds him he will kill; הרגתי stands for אהרוג, as נתתי in Gen 23:13.
+- Ibn Ezra (records): Ibn Ezra: Lamech tells his wives the decree against Cain is annulled; he killed deliberately but I did not; Lamech's sons died in the Flood and Cain kept no name from his brother's murder.
+
+Apparatus:
+
+- Possible readings of הָרַגְתִּי: 'I have killed' (confession), 'have I killed?' (Rashi), 'I would kill' (Ibn Ezra).
+- Targum and midrash tradition identify the boy and man with Tubal-cain and Cain (Rashi 4:23:1).
 
 #### Genesis 4:24
 
 > כִּ֥י שִׁבְעָתַ֖יִם יֻקַּם־קָ֑יִן וְלֶ֖מֶךְ שִׁבְעִ֥ים וְשִׁבְעָֽה׃
 
-_Not yet translated._
+**For if vengeance is taken on Cain sevenfold, then on Lamech seventy-seven.**
+
+Literal: for sevenfold is-avenged Cain and-Lamech seventy and-seven
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| כִּ֥י | for / if — kî: Rashi reads a conditional a fortiori: if Cain..., then Lamech all the more | כִּי |  | conjunction |  |
+| שִׁבְעָתַ֖יִם | sevenfold | שִׁבְעָתַיִם | שׁבע | noun (common, feminine, dual, absolute) |  |
+| יֻקַּם | vengeance is taken (on) — Hofal imperfect 3ms, passive of נָקַם: 'vengeance is taken'; compare Gen 4:15 (yuqam) | נָקַם | נקם | verb (hofal, imperfect (yiqtol), 3rd person, masculine, singular) | Hoph |
+| קָ֑יִן | Cain | קַ֫יִן |  | noun (proper name) |  |
+| וְלֶ֖מֶךְ | and Lamech | ו: and + לֶ֫מֶךְ |  | conjunction + noun (proper name) |  |
+| שִׁבְעִ֥ים | seventy | שִׁבְעִים | שׁבע | adjective (cardinal number, both genders, plural, absolute) |  |
+| וְשִׁבְעָֽה׃ | and seven | ו: and + שֶׁ֫בַע | שׁבע | conjunction + adjective (cardinal number, masculine, singular, absolute) |  |
+
+Grammar:
+
+- שִׁבְעָתַיִם is a dual form of 'seven', 'sevenfold, seven times'; the Hoph'al of נקם is passive, 'vengeance is taken' (on Cain, with Rashi; compare 4:15).
+- Lamech's clause has no verb: it takes יֻקַּם from the first half, an ellipsis in parallelism.
+- The etnaḥta falls on קָיִן and divides the two halves: Cain's sevenfold, then Lamech's seventy-seven.
+- The number is in words in the English line: 'sevenfold', 'seventy-seven' (Hebrew: seventy and seven).
+
+Note: The English follows Rashi's first reading: an a fortiori argument (Cain, a deliberate killer, had his punishment delayed seven generations, so Lamech, who killed in error, should have more). Rashi also records the midrashic view that Lamech killed no one and his wives withdrew from him, and calls the logic 'an a fortiori of foolishness'. The Hofal leaves the avenger unnamed; with Rashi, and as in 4:15, the vengeance is taken on Cain, not on his behalf.
+
+Commentary:
+
+- Rashi (follows): Rashi: Cain, who killed deliberately, was given a delay of seven generations; I who killed in error should be given sevens upon sevens.
+- Rashi (follows): Rashi: 'seventy-seven' is an expression of many sevens (Tanhuma); Genesis Rabbah has Lamech killing no one, the wives abstaining because Cain's line was to end after seven generations, and Lamech arguing a fortiori, which Rashi calls a foolish argument.
+
+Apparatus:
+
+- The verb is absent from the second clause: 'and Lamech seventy and seven' (understood: vengeance is taken).
 
 #### Genesis 4:25
 
 > וַיֵּ֨דַע אָדָ֥ם עוֹד֙ אֶת־אִשְׁתּ֔וֹ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א אֶת־שְׁמ֖וֹ שֵׁ֑ת כִּ֣י שָֽׁת־לִ֤י אֱלֹהִים֙ זֶ֣רַע אַחֵ֔ר תַּ֣חַת הֶ֔בֶל כִּ֥י הֲרָג֖וֹ קָֽיִן׃
 
-_Not yet translated._
+**Adam was intimate once more with his wife, and she bore a son and named him Seth, "for God has appointed me another offspring in place of Abel, because Cain killed him."**
+
+Literal: and-knew Adam again ACC wife-his and-she bore son and-she called ACC name-his Seth for set to-me God seed another instead-of Abel for killed-him Cain
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֵּ֨דַע | and knew — wayyiqtol; 'know' of intimate relations | ו: and + יָדַע | ידע | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 3 |
+| אָדָ֥ם | Adam — no article: proper name, as in decisions | אָדָם | אדם | noun (proper name) | 3 |
+| עוֹד֙ | again / once more | עוֹד | עוד | adverb |  |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| אִשְׁתּ֔וֹ | his wife — construct + 3ms suffix | אִשָּׁה | אנשׁ | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| וַתֵּ֣לֶד | and she bore — wayyiqtol 3fs | ו: and + יָלַד | ילד | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| בֵּ֔ן | a son | בֵּן |  | noun (common, masculine, singular, absolute) | 1 |
+| וַתִּקְרָ֥א | and she called — wayyiqtol 3fs; the woman names the child | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 6 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| שְׁמ֖וֹ | his name | שֵׁם |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| שֵׁ֑ת | Seth — wordplay: שֵׁת and שָׁת, 'set, appointed' | שֵׁת |  | noun (proper name) |  |
+| כִּ֣י | for / because | כִּי |  | conjunction |  |
+| שָֽׁת | has set / appointed — qatal 3ms of שִׁית; pausal-free, with maqqef; plays on the name Seth | שִׁית | שׁית | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 3 |
+| לִ֤י | for me / to me — ל + 1cs suffix | ל: to, for |  | preposition + suffix (pronominal, 1st person, common, singular) |  |
+| אֱלֹהִים֙ | God — plural form with singular verb: the God of Israel | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| זֶ֣רַע | offspring | זֶ֫רַע | זרע | noun (common, masculine, singular, absolute) | 4 |
+| אַחֵ֔ר | another | אַחֵר | אחר | adjective (adjective, masculine, singular, absolute) |  |
+| תַּ֣חַת | in place of | תַּחַת | תחת | preposition |  |
+| הֶ֔בֶל | Abel | הֶ֫בֶל | הבל | noun (proper name) |  |
+| כִּ֥י | because | כִּי |  | conjunction |  |
+| הֲרָג֖וֹ | killed him — qatal 3ms + 3ms object suffix | הָרַג | הרג | verb (qal, perfect (qatal), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, masculine, singular) | Qal 1.a |
+| קָֽיִן׃ | Cain | קַ֫יִן |  | noun (proper name) |  |
+
+Grammar:
+
+- וַיֵּדַע ... אֶת־אִשְׁתּוֹ: 'know' used of intimacy, with עוֹד 'again', recalling 4:1.
+- The subject of וַתִּקְרָא is the woman, who names her child, as in 4:1.
+- שֵׁת / שָׁת: the name and the verb שִׁית 'put, set' sound alike, the sense of the name being 'he has set (another for me)'.
+- The זֶרַע אַחֵר, 'another offspring', replaces Abel; תַּחַת הֶבֶל is 'in place of Abel' (Ibn Ezra: במקומו).
+- The two כִּי clauses: the first explains the name, the second explains why a replacement was needed.
+
+Note: אָדָם without the article is the proper name Adam, per the decisions. The English uses 'was intimate' for וַיֵּדַע, which is plain modern English for the Hebrew idiom; the literal line keeps 'knew'. Rashi's remark that Lamech came to Adam is a midrash and is not in the text.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi (Genesis Rabbah): Lamech complained to Adam about his wives; they told Adam to look after himself, having separated for 130 years; at once Adam knew his wife; 'again' means his desire was added to his desire. A homily.
+- Ibn Ezra (follows): Ibn Ezra: תחת הבל means 'in his place'.
+
+Apparatus:
+
+- The name שֵׁת is explained by the text itself: כִּי שָׁת־לִי אֱלֹהִים, 'for God has set (appointed) for me', with the verb שִׁית 'put, set'.
 
 #### Genesis 4:26
 
 > וּלְשֵׁ֤ת גַּם־הוּא֙ יֻלַּד־בֵּ֔ן וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ אֱנ֑וֹשׁ אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם יְהֹוָֽה׃
 
-_Not yet translated._
+**To Seth, too, a son was born, and he named him Enosh. Then people began to call on the name of the LORD.**
+
+Literal: and-to-Seth also he was-born son and-he called ACC name-his Enosh then was-begun to-call in-name-of the-LORD
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וּלְשֵׁ֤ת | and to Seth — ו + ל + name | ו: and + ל: to, for + שֵׁת |  | conjunction + preposition + noun (proper name) |  |
+| גַּם | also | גַּם | גמם | particle (affirmation) |  |
+| הוּא֙ | he / him | הוּא |  | pronoun (personal, 3rd person, masculine, singular) |  |
+| יֻלַּד | was born — Pual perfect 3ms: 'was born' | יָלַד | ילד | verb (pual, perfect (qatal), 3rd person, masculine, singular) | Pu |
+| בֵּ֔ן | a son | בֵּן |  | noun (common, masculine, singular, absolute) | 1 |
+| וַיִּקְרָ֥א | and he called — wayyiqtol 3ms | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 6 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| שְׁמ֖וֹ | his name | שֵׁם |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| אֱנ֑וֹשׁ | Enosh | אֱנוֹשׁ |  | noun (proper name) |  |
+| אָ֣ז | then | אָז |  | adverb |  |
+| הוּחַ֔ל | it was begun — Hofal perfect 3ms of חלל; impersonal passive; Ibn Ezra: from the doubled root, 'begin', with the ח a guttural so no dagesh; Rashi reads it from חלל 'profane' | חָלַל | חלל | verb (hofal, perfect (qatal), 3rd person, masculine, singular) | Hoph |
+| לִקְרֹ֖א | to call — infinitive construct with ל | ל: to, for + קָרָא | קרא | preposition + verb (qal, infinitive construct) | Qal 2.a |
+| בְּשֵׁ֥ם | in the name of — construct; 'call on the name of' | ב: in, with, by + שֵׁם |  | preposition + noun (common, masculine, singular, construct) | 3 |
+| יְהֹוָֽה׃ | the LORD | יהוה | הוה | noun (proper name) |  |
+
+Grammar:
+
+- וּלְשֵׁת גַּם־הוּא: the ל of possession is put first with a resumptive pronoun, matching 4:22 (וְצִלָּה גַם־הִוא).
+- יֻלַּד is Pual; the father named the child, since the verb וַיִּקְרָא is masculine singular.
+- הוּחַל is Hofal of חלל, which BDB lists as one entry with two senses: 'begin' (as Ibn Ezra and the English) or 'profane' (as Rashi).
+- לִקְרֹא בְּשֵׁם יְהוָה: 'call on the name of the LORD', worship or prayer by name.
+- The disjunctive zaqef on הוּחַל divides the sentence: 'then it was begun | to call on the name of the LORD'.
+
+Note: The English follows Ibn Ezra: הוּחַל is from 'begin' (תְּחִלָּה), and the meaning is that people began to pray. Rashi reads it as 'profane' (חֻלִּין): calling by the Name was profaned, as men and idols were called by the Name of God and made gods. Ibn Ezra's grammar argument is that if it were from 'profane' the Name would have been joined directly to the verb. The subject is not named in Hebrew (impersonal Hofal); 'people' is supplied. The name is rendered 'the LORD' per the decisions.
+
+Commentary:
+
+- Rashi (records): Rashi: הוּחַל is from חֻלִּין, 'profane, common': then calling by the name of the Holy One was profaned, as men and idols were called by His name, making them objects of worship and calling them gods.
+- Ibn Ezra (follows): Ibn Ezra: הוּחַל is a geminate verb, which would have a dagesh but for the guttural ח; it is from תְּחִלָּה 'beginning', meaning that they began to pray. Were it from 'profaning' (חִלּוּל), the Name would have been joined directly to the verb (הוּחַל שֵׁם).
+
+Apparatus:
+
+- הוּחַל: 'began' (Ibn Ezra) or 'was profaned' (Rashi).
+- The subject of the Hofal is not stated; 'people' is an addition.
 
 #### Genesis 5:1
 
 > זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֽוֹ׃
 
-_Not yet translated._
+**This is the record of the descendants of Adam. When God created Adam, he made him in the likeness of God.**
+
+Literal: this book-of generations-of Adam in-day-of creating God Adam in-likeness-of God made ACC-him
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| זֶ֣ה | this | זֶה |  | pronoun (demonstrative, masculine, singular) |  |
+| סֵ֔פֶר | record of — construct state; a written account, here a list of generations | סֵ֫פֶר | ספר | noun (common, masculine, singular, construct) | 3 |
+| תּוֹלְדֹ֖ת | the descendants of | תּוֹלֵדוֹת | ילד | noun (common, feminine, plural, construct) |  |
+| אָדָ֑ם | Adam — proper name here; the same word is a generic noun at 5:1.8 | אָדָם | אדם | noun (proper name) | 3 |
+| בְּי֗וֹם | when (in the day of) — construct state before an infinitive: 'in the day of God's creating' | ב: in, with, by + יוֹם |  | preposition + noun (common, masculine, singular, construct) | 1 |
+| בְּרֹ֤א | created — infinitive construct, 'creating', with the subject God following | בָּרָא | ברא | verb (qal, infinitive construct) | Qal |
+| אֱלֹהִים֙ | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| אָדָ֔ם | Adam — no article; the pack parses it as a common noun, but it is read as the name Adam, the man whose line follows (decisions, 5:1–5). Ramban speaks here of 'this Adam who is mentioned' (הָאָדָם הַזֶּה הַנִּזְכָּר); his remark that the name covers all human kind is on 5:2. | אָדָם | אדם | noun (common, masculine, singular, absolute) | 3 |
+| בִּדְמ֥וּת | in the likeness of | ב: in, with, by + דְּמוּת | דמה | preposition + noun (common, feminine, singular, construct) | 1 |
+| אֱלֹהִ֖ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| עָשָׂ֥ה | he made | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal II.1 |
+| אֹתֽוֹ׃ | him — object marker with 3ms suffix | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, masculine, singular) |  |
+
+Grammar:
+
+- סֵפֶר תּוֹלְדֹת אָדָם is a construct chain: 'the book of the generations of Adam'. The etnaḥta on אָדָם closes the first half of the verse; within it the zaqef on סֵפֶר sets זֶה סֵפֶר apart from תּוֹלְדֹת אָדָם.
+- בְּיוֹם בְּרֹא is a temporal construct: the noun יוֹם stands bound to the infinitive בְּרֹא, with אֱלֹהִים as its subject and אָדָם as its object.
+- In the second half the zaqef on אָדָם divides the creating (בְּיוֹם בְּרֹא אֱלֹהִים אָדָם) from the making (בִּדְמוּת אֱלֹהִים עָשָׂה אֹתוֹ); the revia on בְּיוֹם and the pashta on אֱלֹהִים are lesser divisions within the first part.
+- בִּדְמוּת אֱלֹהִים is placed before the verb עָשָׂה for emphasis. The silluq falls on אֹתוֹ.
+- בָּרָא (create) in the first clause and עָשָׂה (make) in the second are two verbs for one act.
+
+Note: אָדָם at 5:1.8 has no article; the sense 'the human' of Genesis 1 and 2 is possible, but the verse then names the person whose descendants follow, so 'Adam' is given and the doubt recorded.
+
+Commentary:
+
+- Rashi (follows): Rashi: זוֹ הִיא סְפִירַת תּוֹלְדוֹת אָדָם, 'this is the enumeration of the generations of Adam': סֵפֶר is a reckoning, a counted list, not a book; and there are many aggadic midrashim on the verse. The English 'record' follows the plain reading; the midrashim do not bear on it.
+- Rashi (not-applicable): Rashi: the verse teaches that on the very day he was created he fathered. This is a midrashic reading of בְּיוֹם; the English keeps the plain temporal clause 'when God created Adam'.
+- Ibn Ezra (follows): Ibn Ezra: the sons and grandsons he fathered; but he himself was not fathered by father and mother, rather made in the likeness of God (בדמות אלהים נעשה). The English reads the first clause as the record of Adam's descendants and keeps 'he made him'.
+- Ramban (records): Ramban: the 'book' may hint at the whole Torah as the book of the generations of Adam; the clause 'when God created Adam' goes back to Adam himself, created from nothing. Recorded as an alternative reading of סֵפֶר.
+- Radak (records): Radak: on the day He created him He created him in the likeness of an angel (בִּדְמוּת מַלְאָךְ), by the upper soul He put in him, though he afterwards left His commandments, for He created them male and female and the female enticed him as the serpent had enticed her. He takes אֱלֹהִים in בִּדְמוּת אֱלֹהִים of heavenly beings; the English keeps the plain 'God'.
+- Sforno (not-applicable): Sforno: made with free choice, so that his generations were punished when they angered God.
+
+Apparatus:
+
+- Onkelos renders אֱלֹהִים, the subject of בְּרֹא, by the divine name יְיָ ('the LORD'), but keeps אֱלֹהִים in בִּדְמוּת אֱלֹהִים; the Hebrew reads אֱלֹהִים in both places.
 
 #### Genesis 5:2
 
 > זָכָ֥ר וּנְקֵבָ֖ה בְּרָאָ֑ם וַיְבָ֣רֶךְ אֹתָ֗ם וַיִּקְרָ֤א אֶת־שְׁמָם֙ אָדָ֔ם בְּי֖וֹם הִבָּֽרְאָֽם׃
 
-_Not yet translated._
+**Male and female he created them, and he blessed them and called their name Adam, on the day they were created.**
+
+Literal: male and-female created-them and-blessed ACC-them and-called ACC-name-their Adam in-day-of be-created-they
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| זָכָ֥ר | male | זָכָר | זכר | adjective (adjective, masculine, singular, absolute) | I |
+| וּנְקֵבָ֖ה | and female | ו: and + נְקֵבָה | נקב | conjunction + noun (common, feminine, singular, absolute) |  |
+| בְּרָאָ֑ם | he created them — qatal with 3mp suffix; the subject, God, is carried over from the previous verse | בָּרָא | ברא | verb (qal, perfect (qatal), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, masculine, plural) | Qal |
+| וַיְבָ֣רֶךְ | and he blessed — wayyiqtol, Piel; God blesses | ו: and + בָּרַךְ | ברך | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Pi 2 |
+| אֹתָ֗ם | them — object marker with 3mp suffix | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, masculine, plural) |  |
+| וַיִּקְרָ֤א | and he called — wayyiqtol; with a name as object, 'named' | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 6 |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| שְׁמָם֙ | their name | שֵׁם |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, plural) | 3 |
+| אָדָ֔ם | Adam — parsed in the pack as the common noun אָדָם, 'human', here given as a name to the pair: Ramban, the name covers the whole human kind, all of whom were in the first pair in potential; Radak, the woman too is called אָדָם, since 'let us make אָדָם' (1:26) was said of both. | אָדָם | אדם | noun (common, masculine, singular, absolute) | 3 |
+| בְּי֖וֹם | on the day | ב: in, with, by + יוֹם |  | preposition + noun (common, masculine, singular, construct) | 1 |
+| הִבָּֽרְאָֽם׃ | they were created — Niphal infinitive construct with 3mp suffix; the suffix is the subject | בָּרָא | ברא | verb (nifal, infinitive construct) + suffix (pronominal, 3rd person, masculine, plural) | Niph 1 |
+
+Grammar:
+
+- זָכָר וּנְקֵבָה stands first, before the verb, as the object of בְּרָאָם; the etnaḥta on בְּרָאָם closes the first half.
+- וַיְבָרֶךְ and וַיִּקְרָא are wayyiqtols, a sequence of narrated acts, both with God as the unstated subject.
+- The masculine plural suffixes on בְּרָאָם, אֹתָם, שְׁמָם and הִבָּרְאָם refer to the pair, male and female; the pair together is called אָדָם.
+- בְּיוֹם הִבָּרְאָם is a temporal construct with a Niphal infinitive and a suffix (compare בְּיוֹם בְּרֹא in 5:1).
+
+Note: אָדָם here names both the man and the woman; Radak and Ramban take it as a name for the whole human kind, which the English keeps by leaving the name as 'Adam'.
+
+Commentary:
+
+- Ramban (not-applicable): Ramban: God gave them the power of begetting, so that they would be blessed with many sons and daughters; they were not born but created from nothing.
+- Ramban (follows): Ramban: since the name Adam covers the whole human kind, the verse says that God gave the first pair this name, for all of mankind was in them in potential.
+- Radak (not-applicable): Radak: the blessing is the one of Genesis 1:28, 'be fruitful and multiply'.
+- Radak (follows): Radak: on the day they were created he called them Adam; the woman is called Adam because 'let us make Adam' was said of both.
+
+Apparatus:
+
+- Onkelos: דְּכַר וְנוּקְבָא בְּרָאנוּן; the Aramaic agrees with the Hebrew in the order male-female.
 
 #### Genesis 5:3
 
 > וַיְחִ֣י אָדָ֗ם שְׁלֹשִׁ֤ים וּמְאַת֙ שָׁנָ֔ה וַיּ֥וֹלֶד בִּדְמוּת֖וֹ כְּצַלְמ֑וֹ וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ שֵֽׁת׃
 
-_Not yet translated._
+**Adam lived one hundred thirty years, and he fathered a son in his likeness, according to his image, and named him Seth.**
+
+Literal: and-lived Adam thirty and-hundred year and-begot in-likeness-his like-image-his and-called ACC-name-his Seth
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְחִ֣י | and he lived — wayyiqtol of the III-ה verb חָיָה; the final syllable drops in the short form, so וַיְחִי stands for the long יִחְיֶה | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אָדָ֗ם | Adam | אָדָם | אדם | noun (proper name) | 3 |
+| שְׁלֹשִׁ֤ים | thirty | שְׁלֹשִׁים | שׁלשׁ | adjective (cardinal number, both genders, plural, absolute) |  |
+| וּמְאַת֙ | and a hundred — construct singular מְאַת before שָׁנָה; the number is stated 'thirty and a hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit this cardinal use, so no sense is given. | ו: and + מֵאָה | מאה | conjunction + adjective (cardinal number, both genders, singular, construct) |  |
+| שָׁנָ֔ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֥וֹלֶד | and he fathered — Hiphil wayyiqtol; the verb of begetting is used of the father | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| בִּדְמוּת֖וֹ | in his likeness | ב: in, with, by + דְּמוּת | דמה | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| כְּצַלְמ֑וֹ | according to his image | כ: like, as + צֶ֫לֶם | צלם | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| וַיִּקְרָ֥א | and he called | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 6 |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| שְׁמ֖וֹ | his name | שֵׁם |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| שֵֽׁת׃ | Seth | שֵׁת |  | noun (proper name) |  |
+
+Grammar:
+
+- וַיְחִי and וַיּוֹלֶד are wayyiqtols; the first has a shortened form because the root is final-ה, the second is Hiphil of ילד, 'begot'.
+- שְׁלֹשִׁים וּמְאַת שָׁנָה: the smaller number comes first, then the hundred, then the noun in the singular, the usual form for ages.
+- בִּדְמוּתוֹ כְּצַלְמוֹ reverses the words of 1:26 (בְּצַלְמֵנוּ כִּדְמוּתֵנוּ) and echoes 5:1: Adam was made in the likeness of God and Seth is begotten in the likeness of Adam.
+- The etnaḥta on כְּצַלְמוֹ divides the begetting from the naming.
+
+Note: The verb וַיּוֹלֶד has no direct object; the English supplies 'a son', which the next clause confirms through the name Seth. The meaning of the name, as with the other names the text does not explain here, is not given.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: up to this point, the hundred and thirty years, Adam had kept apart from his wife (עַד כָּאן פָּרַשׁ מִן הָאִשָּׁה; Bereshit Rabbah). A midrash on the number of years; it does not bear on the plain sense.
+- Ibn Ezra (follows): Ibn Ezra: 'he fathered in his likeness, after his image' is said because God gave Adam the power of begetting to bring forth his own likeness, so that his work would resemble that of the One above. It is not said of Cain and Abel, nor are Cain's years or his age at Enoch's birth given, because Abel's name was blotted out, and Cain's too in the flood; Cain's killing is told to show God's justice, who is slow to anger yet punishes in the end (Exod 34:7).
+- Ramban (follows): Ramban: all children resemble their parents, but because Adam was raised up in his likeness and image, the verse says that his descendants too were in that same elevated likeness.
+- Radak (follows): Radak on בִּדְמוּתוֹ: the child resembled Adam in shape (בצורתו).
+- Radak (records): Radak on כְּצַלְמוֹ: in his knowledge and intellect; he also quotes the midrash that Adam, while excommunicated, fathered spirits and demons. Recorded, not adopted.
+- Sforno (not-applicable): Sforno: 'in his likeness, after his image' means that Seth was more righteous than the first sons (מִן הָרִאשׁוֹנִים is comparative), for even Abel did not bring an offering until Cain had done so before him.
+
+Apparatus:
+
+- Onkelos: וְאוֹלִיד בִּדְמוּתֵהּ דְּדָמֵי לֵהּ, 'he fathered in his likeness, who resembled him': כְּצַלְמוֹ is rendered by the clause דְּדָמֵי לֵהּ, with no word for 'image'. The Targum also puts the hundred first, מְאָה וּתְלָתִין שְׁנִין.
 
 #### Genesis 5:4
 
 > וַיִּֽהְי֣וּ יְמֵי־אָדָ֗ם אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־שֵׁ֔ת שְׁמֹנֶ֥ה מֵאֹ֖ת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
 
-_Not yet translated._
+**The days of Adam after he fathered Seth were eight hundred years, and he fathered sons and daughters.**
+
+Literal: and-were days-of Adam after fathered-he ACC-Seth eight hundreds year and-begot sons and-daughters
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּֽהְי֣וּ | and were — wayyiqtol plural; the subject is 'days', hence a plural verb | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal III |
+| יְמֵי | the days of — construct plural; the plural of יוֹם is irregular | יוֹם |  | noun (common, masculine, plural, construct) | 4 |
+| אָדָ֗ם | Adam | אָדָם | אדם | noun (proper name) | 3 |
+| אַֽחֲרֵי֙ | after | אַחַר | אחר | preposition | 2.b |
+| הוֹלִיד֣וֹ | he fathered — Hiphil infinitive construct with 3ms suffix; the suffix is the subject | יָלַד | ילד | verb (hifil, infinitive construct) + suffix (pronominal, 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| שֵׁ֔ת | Seth | שֵׁת |  | noun (proper name) |  |
+| שְׁמֹנֶ֥ה | eight | שְׁמֹנֶה | שׁמן | adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵאֹ֖ת | hundred — מֵאֹת, plural of מֵאָה: שְׁמֹנֶה מֵאֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given. | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֥וֹלֶד | and he fathered | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| בָּנִ֖ים | sons | בֵּן |  | noun (common, masculine, plural, absolute) | 1 |
+| וּבָנֽוֹת׃ | and daughters | ו: and + בַּת |  | conjunction + noun (common, feminine, plural, absolute) | 1 |
+
+Grammar:
+
+- וַיִּהְיוּ יְמֵי־אָדָם is the formula that sums the years after the birth of the named son; יָמִים is the subject of a plural verb.
+- אַחֲרֵי הוֹלִידוֹ אֶת־שֵׁת: a preposition before an infinitive construct with a pronominal suffix as the subject, 'after his begetting Seth'.
+- שְׁמֹנֶה מֵאֹת שָׁנָה: the number is feminine singular before the plural 'hundreds'; the noun 'year' stays singular.
+- וַיּוֹלֶד בָּנִים וּבָנוֹת closes the verse; the silluq is on וּבָנוֹת, and the etnaḥta on שָׁנָה marks the end of the first part.
+
+Note: The text says 'days of Adam' after Seth's birth, a remainder of life and not a total; the total is given in the next verse.
+
+Commentary:
+
+- Ramban (not-applicable): Ramban: because these first men lived so long, the text gives their years before and after begetting and then the total; he explains the long lives by their natural strength and the later decline by the change in the air.
+- Radak (not-applicable): Radak: those named were the ones born in the image and likeness; the other sons and daughters were not, and were blotted out in the flood. He also records Maimonides' view on the long ages.
 
 #### Genesis 5:5
 
 > וַיִּֽהְי֞וּ כׇּל־יְמֵ֤י אָדָם֙ אֲשֶׁר־חַ֔י תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיָּמֹֽת׃
 
-_Not yet translated._
+**So all the days of Adam that he lived were nine hundred thirty years, and he died.**
+
+Literal: and-were all-of days-of Adam which lived nine hundreds year and-thirty year and-died
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּֽהְי֞וּ | and were | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal III |
+| כׇּל | all of | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יְמֵ֤י | the days of | יוֹם |  | noun (common, masculine, plural, construct) | 4 |
+| אָדָם֙ | Adam | אָדָם | אדם | noun (proper name) | 3 |
+| אֲשֶׁר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| חַ֔י | he lived — qatal 3ms; the form is written חַי, the short form of the verb | חָיַי | חיה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| תְּשַׁ֤ע | nine | תֵּ֫שַׁע |  | adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵאוֹת֙ | hundred — מֵאוֹת, plural of מֵאָה: תְּשַׁע מֵאוֹת 'nine hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given. | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּשְׁלֹשִׁ֖ים | and thirty | ו: and + שְׁלֹשִׁים | שׁלשׁ | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיָּמֹֽת׃ | and he died — wayyiqtol of the hollow root מות. The short form in context is וַיָּמָת, with the stress drawn back; here, under the silluq, the pausal form וַיָּמֹת keeps the long ō. | ו: and + מוּת | מות | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- כָּל־יְמֵי אָדָם אֲשֶׁר־חַי is the sum of the lifetime; the relative clause אֲשֶׁר חַי is a short verbal clause.
+- תְּשַׁע מֵאוֹת שָׁנָה וּשְׁלֹשִׁים שָׁנָה puts the hundreds first and repeats שָׁנָה after each number.
+- וַיָּמֹת is a short, bare ending; the silluq closes the verse and the formula, with the paragraph mark after it, sets this off as a unit.
+
+Note: In the pack, חַי is parsed as a qatal; it is the stative-shaped form 'he lived'. The data are kept.
+
+Commentary:
+
+- Radak (not-applicable): Radak: the total is added after the detail so that the scribe will not err; the detail and the sum confirm each other, as in the censuses of Israel.
+
+Apparatus:
+
+- Onkelos: וַהֲווֹ כָּל יוֹמֵי אָדָם דַחֲיָא תְּשַׁע מְאָה וּתְלָתִין שְׁנִין וּמִית; the Aramaic has the same sum and order.
 
 #### Genesis 5:6
 
@@ -1747,175 +5259,1149 @@ Commentary:
 
 > וַיְחִ֥י קֵינָ֖ן שִׁבְעִ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־מַֽהֲלַלְאֵֽל׃
 
-_Not yet translated._
+**Kenan lived seventy years, and he fathered Mahalalel.**
+
+Literal: and-lived Kenan seventy year and-fathered [obj] Mahalalel
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְחִ֥י | lived — wayyiqtol of חיה: narrative sequence, 'and he lived' | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| קֵינָ֖ן | Kenan | קֵינָן |  | noun (proper name) |  |
+| שִׁבְעִ֣ים | seventy | שִׁבְעִים | שׁבע | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years — singular שָׁנָה after the tens is idiomatic; here the plural-sense 'years' | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֖וֹלֶד | and he fathered — wayyiqtol Hifil of ילד: of a father, 'beget' | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | object marker, untranslated | אֵת | אות | particle (direct object marker) |  |
+| מַֽהֲלַלְאֵֽל׃ | Mahalalel — name: 'praise of God' | מַהֲלַלְאֵל |  | noun (proper name) |  |
+
+Grammar:
+
+- וַיְחִי is a wayyiqtol: the verb opens the sentence and the subject follows.
+- The etnaḥta on שָׁנָה divides the verse after the age.
+- הוֹלִיד is Hifil of ילד, used of the father: 'beget'.
+
+Note: Standard genealogical formula of Genesis 5; the second clause names the son by the Hifil of ילד.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos renders the verse closely, with the Aramaic וַחֲיָא for וַיְחִי and וְאוֹלִיד for וַיּוֹלֶד; no difference in sense.
 
 #### Genesis 5:13
 
 > וַיְחִ֣י קֵינָ֗ן אַחֲרֵי֙ הוֹלִיד֣וֹ אֶת־מַֽהֲלַלְאֵ֔ל אַרְבָּעִ֣ים שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
 
-_Not yet translated._
+**After he fathered Mahalalel, Kenan lived eight hundred and forty years, and he fathered sons and daughters.**
+
+Literal: and-lived Kenan after fathering-him [obj] Mahalalel forty year and-eight hundreds year and-fathered sons and-daughters
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְחִ֣י | lived — wayyiqtol of חיה: narrative sequence, 'and he lived' | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| קֵינָ֗ן | Kenan | קֵינָן |  | noun (proper name) |  |
+| אַחֲרֵי֙ | after — preposition governing the infinitive construct | אַחַר | אחר | preposition | 2.b |
+| הוֹלִיד֣וֹ | his fathering — infinitive construct Hifil with 3ms suffix: 'his begetting'; rendered 'he fathered' | יָלַד | ילד | verb (hifil, infinitive construct) + suffix (pronominal, 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | object marker, untranslated | אֵת | אות | particle (direct object marker) |  |
+| מַֽהֲלַלְאֵ֔ל | Mahalalel | מַהֲלַלְאֵל |  | noun (proper name) |  |
+| אַרְבָּעִ֣ים | forty | אַרְבָּעִים | רבע | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּשְׁמֹנֶ֥ה | and eight | ו: and + שְׁמֹנֶה | שׁמן | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundred — מֵאוֹת, plural of מֵאָה, used with a unit: שְׁמֹנֶה מֵאוֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit this cardinal use, so no sense is given. | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֥וֹלֶד | and he fathered — wayyiqtol Hifil | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| בָּנִ֖ים | sons | בֵּן |  | noun (common, masculine, plural, absolute) | 1 |
+| וּבָנֽוֹת׃ | and daughters | ו: and + בַּת |  | conjunction + noun (common, feminine, plural, absolute) | 1 |
+
+Grammar:
+
+- אַחֲרֵי הוֹלִידוֹ is a preposition with an infinitive construct and subject suffix: 'after his begetting'.
+- The number is given in the order forty, then eight hundred; the English reorders to eight hundred and forty.
+- The revia on קֵינָן sets off the subject. The zaqef qaton on מַהֲלַלְאֵל closes the temporal clause. The pashta on אַחֲרֵי is only a minor pause inside that clause.
+- בָּנִים וּבָנוֹת: sons and daughters, unnumbered.
+
+Note: The clause 'after he fathered' was moved to the front in English as a natural time clause.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos gives בָּתַר דְּאוֹלִיד and the number as eight hundred and forty, with בְּנִין וּבְנָן for sons and daughters; it agrees with the plain sense.
 
 #### Genesis 5:14
 
 > וַיִּֽהְיוּ֙ כׇּל־יְמֵ֣י קֵינָ֔ן עֶ֣שֶׂר שָׁנִ֔ים וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃
 
-_Not yet translated._
+**All the days of Kenan were nine hundred and ten years, and he died.**
+
+Literal: and-were all-of days-of Kenan ten years and-nine hundred year and-died
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּֽהְיוּ֙ | and were — wayyiqtol plural of היה; 'were' in the sense of totalling | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal III |
+| כׇּל | all — construct, כָּל־ | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יְמֵ֣י | the days of — construct plural of יוֹם | יוֹם |  | noun (common, masculine, plural, construct) | 4 |
+| קֵינָ֔ן | Kenan | קֵינָן |  | noun (proper name) |  |
+| עֶ֣שֶׂר | ten | עֶשֶׂר | עשׂר | adjective (cardinal number, feminine, singular, absolute) |  |
+| שָׁנִ֔ים | years | שָׁנָה | שׁנה | noun (common, feminine, plural, absolute) |  |
+| וּתְשַׁ֥ע | and nine | ו: and + תֵּ֫שַׁע |  | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundred — מֵאוֹת, plural of מֵאָה: תְשַׁע מֵאוֹת 'nine hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given. | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיָּמֹֽת׃ | and he died — wayyiqtol of מות | ו: and + מוּת | מות | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- כָּל־יְמֵי קֵינָן is a construct chain: 'all the days of Kenan'.
+- עֶשֶׂר שָׁנִים: ten, with plural 'years'; the larger number follows with singular שָׁנָה.
+- וַיִּהְיוּ is plural because its subject is the plural יְמֵי, 'days', not כָּל.
+- וַיָּמֹת is the wayyiqtol of מות in pause (silluq). The usual form is וַיָּמָת, the short form with the stress drawn back; in pause the stress stays on the last syllable and the ḥolem returns.
+- The paragraph mark ס closes the entry for Kenan.
+
+Note: The total 910 is the sum of 70, 840 (the 70 before the son plus 840 after).
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos has nine hundred and ten years and וּמִית 'and he died'; same sense.
 
 #### Genesis 5:15
 
 > וַיְחִ֣י מַֽהֲלַלְאֵ֔ל חָמֵ֥שׁ שָׁנִ֖ים וְשִׁשִּׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־יָֽרֶד׃
 
-_Not yet translated._
+**Mahalalel lived sixty-five years, and he fathered Jared.**
+
+Literal: and-lived Mahalalel five years and-sixty year and-fathered [obj] Jared
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְחִ֣י | lived — wayyiqtol of חיה: narrative sequence, 'and he lived' | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| מַֽהֲלַלְאֵ֔ל | Mahalalel | מַהֲלַלְאֵל |  | noun (proper name) |  |
+| חָמֵ֥שׁ | five | חָמֵשׁ | חמשׁ | adjective (cardinal number, feminine, singular, absolute) |  |
+| שָׁנִ֖ים | years | שָׁנָה | שׁנה | noun (common, feminine, plural, absolute) |  |
+| וְשִׁשִּׁ֣ים | and sixty | ו: and + שִׁשִּׁים | שׁדשׁ | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֖וֹלֶד | and he fathered — wayyiqtol Hifil | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | object marker, untranslated | אֵת | אות | particle (direct object marker) |  |
+| יָֽרֶד׃ | Jared — Name. יָרֶד with qameṣ is the pausal form, under silluq, of יֶרֶד (as in 5:16). | יֶ֫רֶד |  | noun (proper name) |  |
+
+Grammar:
+
+- The units precede the tens: חָמֵשׁ שָׁנִים וְשִׁשִּׁים שָׁנָה, 'five years and sixty years'.
+- וַיּוֹלֶד is a Hifil wayyiqtol.
+- The etnaḥta on שָׁנָה ends the age clause.
+
+Note: Same formula as 5:12.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos has sixty-five years and יָרֶד; no difference.
 
 #### Genesis 5:16
 
 > וַיְחִ֣י מַֽהֲלַלְאֵ֗ל אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־יֶ֔רֶד שְׁלֹשִׁ֣ים שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
 
-_Not yet translated._
+**After he fathered Jared, Mahalalel lived eight hundred and thirty years, and he fathered sons and daughters.**
+
+Literal: and-lived Mahalalel after fathering-him [obj] Jared thirty year and-eight hundreds year and-fathered sons and-daughters
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְחִ֣י | lived — wayyiqtol of חיה: narrative sequence, 'and he lived' | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| מַֽהֲלַלְאֵ֗ל | Mahalalel | מַהֲלַלְאֵל |  | noun (proper name) |  |
+| אַֽחֲרֵי֙ | after — preposition governing the infinitive construct | אַחַר | אחר | preposition | 2.b |
+| הוֹלִיד֣וֹ | his fathering — infinitive construct Hifil with 3ms suffix | יָלַד | ילד | verb (hifil, infinitive construct) + suffix (pronominal, 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | object marker, untranslated | אֵת | אות | particle (direct object marker) |  |
+| יֶ֔רֶד | Jared | יֶ֫רֶד |  | noun (proper name) |  |
+| שְׁלֹשִׁ֣ים | thirty | שְׁלֹשִׁים | שׁלשׁ | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּשְׁמֹנֶ֥ה | and eight | ו: and + שְׁמֹנֶה | שׁמן | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundred — מֵאוֹת, plural of מֵאָה: שְׁמֹנֶה מֵאוֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given. | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֥וֹלֶד | and he fathered — wayyiqtol Hifil | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| בָּנִ֖ים | sons | בֵּן |  | noun (common, masculine, plural, absolute) | 1 |
+| וּבָנֽוֹת׃ | and daughters | ו: and + בַּת |  | conjunction + noun (common, feminine, plural, absolute) | 1 |
+
+Grammar:
+
+- אַחֲרֵי הוֹלִידוֹ: preposition plus infinitive construct with suffix, 'after his begetting'.
+- The number order is tens, then hundreds; the English reorders.
+- The revia on מַהֲלַלְאֵל separates subject from the time clause.
+
+Note: Same formula as 5:13.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos has eight hundred and thirty years and sons and daughters; agrees.
 
 #### Genesis 5:17
 
 > וַיִּהְיוּ֙ כׇּל־יְמֵ֣י מַהֲלַלְאֵ֔ל חָמֵ֤שׁ וְתִשְׁעִים֙ שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃
 
-_Not yet translated._
+**All the days of Mahalalel were eight hundred and ninety-five years, and he died.**
+
+Literal: and-were all-of days-of Mahalalel five and-ninety year and-eight hundreds year and-died
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּהְיוּ֙ | and were — wayyiqtol plural of היה | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal III |
+| כׇּל | all — construct, כָּל־ | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יְמֵ֣י | the days of — construct plural of יוֹם | יוֹם |  | noun (common, masculine, plural, construct) | 4 |
+| מַהֲלַלְאֵ֔ל | Mahalalel | מַהֲלַלְאֵל |  | noun (proper name) |  |
+| חָמֵ֤שׁ | five | חָמֵשׁ | חמשׁ | adjective (cardinal number, feminine, singular, absolute) |  |
+| וְתִשְׁעִים֙ | and ninety | ו: and + תִּשְׁעִים |  | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּשְׁמֹנֶ֥ה | and eight | ו: and + שְׁמֹנֶה | שׁמן | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundred — מֵאוֹת, plural of מֵאָה: שְׁמֹנֶה מֵאוֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given. | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיָּמֹֽת׃ | and he died — wayyiqtol of מות in pause (silluq); the usual form is וַיָּמָת | ו: and + מוּת | מות | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- כָּל־יְמֵי מַהֲלַלְאֵל is a construct chain.
+- The age is written units, tens, hundreds: five and ninety, and eight hundred.
+- The mahpakh on חָמֵשׁ is a conjunctive accent: it joins חָמֵשׁ to וְתִשְׁעִים. The pashta on וְתִשְׁעִים is the disjunctive that sets the number off from שָׁנָה, which has the zaqef qaton.
+- The paragraph mark ס closes the entry for Mahalalel.
+
+Note: The total 895 is 65 plus 830.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos has eight hundred and ninety-five years and וּמִית; agrees.
 
 #### Genesis 5:18
 
 > וַֽיְחִי־יֶ֕רֶד שְׁתַּ֧יִם וְשִׁשִּׁ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־חֲנֽוֹךְ׃
 
-_Not yet translated._
+**Jared lived one hundred and sixty-two years, and fathered Enoch.**
+
+Literal: and-lived Jared two and-sixty year and-hundred-of year and-begot [object-marker] Enoch
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְחִי | and lived — wayyiqtol: the sequential past of narrative | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יֶ֕רֶד | Jared | יֶ֫רֶד |  | noun (proper name) |  |
+| שְׁתַּ֧יִם | two | שְׁנַ֫יִם | שׁנה | adjective (cardinal number, feminine, dual, absolute) |  |
+| וְשִׁשִּׁ֛ים | and sixty | ו: and + שִׁשִּׁים | שׁדשׁ | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֖ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּמְאַ֣ת | and a hundred — construct state of מֵאָה, 'hundred of' | ו: and + מֵאָה | מאה | conjunction + adjective (cardinal number, both genders, singular, construct) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֖וֹלֶד | and fathered — Hifil of ילד: the man 'causes to bear', i.e. begets | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | - — object marker, no English counterpart | אֵת | אות | particle (direct object marker) |  |
+| חֲנֽוֹךְ׃ | Enoch | חֲנוֹךְ |  | noun (proper name) |  |
+
+Grammar:
+
+- The numeral is built units first: שְׁתַּיִם וְשִׁשִּׁים שָׁנָה וּמְאַת שָׁנָה, 'two and sixty years and a hundred years'.
+- וַיּוֹלֶד is Hifil wayyiqtol of ילד; the Hifil is the regular verb for a father's begetting.
+- The etnaḥta on שָׁנָה (second) divides the verse between the age and the birth.
+
+Note: Standard formulaic verse of the Adam genealogy; the age is the age at the birth of the named son.
+
+Commentary:
+
+- Targum Onkelos (not-applicable): Targum Onkelos renders the verse in Aramaic with the same figures (מְאָה וְשִׁתִּין וְתַרְתֵּין) and no interpretation.
 
 #### Genesis 5:19
 
 > וַֽיְחִי־יֶ֗רֶד אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־חֲנ֔וֹךְ שְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
 
-_Not yet translated._
+**Jared lived, after he fathered Enoch, for eight hundred years, and he fathered sons and daughters.**
+
+Literal: and-lived Jared after begetting-him [object-marker] Enoch eight hundreds year and-begot sons and-daughters
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְחִי | and lived — wayyiqtol: the sequential past of narrative | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יֶ֗רֶד | Jared | יֶ֫רֶד |  | noun (proper name) |  |
+| אַֽחֲרֵי֙ | after | אַחַר | אחר | preposition | 2.b |
+| הוֹלִיד֣וֹ | he fathered — infinitive construct with 3rd masculine singular suffix: 'his begetting', i.e. 'when he fathered' | יָלַד | ילד | verb (hifil, infinitive construct) + suffix (pronominal, 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | - — object marker | אֵת | אות | particle (direct object marker) |  |
+| חֲנ֔וֹךְ | Enoch | חֲנוֹךְ |  | noun (proper name) |  |
+| שְׁמֹנֶ֥ה | eight | שְׁמֹנֶה | שׁמן | adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundred | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֥וֹלֶד | and he fathered — wayyiqtol: the sequential past of narrative | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| בָּנִ֖ים | sons | בֵּן |  | noun (common, masculine, plural, absolute) | 1 |
+| וּבָנֽוֹת׃ | and daughters | ו: and + בַּת |  | conjunction + noun (common, feminine, plural, absolute) | 1 |
+
+Grammar:
+
+- אַחֲרֵי הוֹלִידוֹ is a preposition plus infinitive construct with suffix: 'after his fathering'.
+- שְׁמֹנֶה מֵאוֹת: 'eight hundreds', the feminine numeral with the plural of מֵאָה.
+- The revia on יֶרֶד and the zaqef qaton on חֲנוֹךְ mark off the time clause אַחֲרֵי הוֹלִידוֹ אֶת־חֲנוֹךְ (the pashta on אַחֲרֵי is a minor division inside it); the etnaḥta on שָׁנָה closes the first half.
+
+Note: The English keeps the Hebrew order of clauses by setting the time clause between commas.
+
+Commentary:
+
+- Targum Onkelos (not-applicable): Onkelos renders literally (תַּמְנֵי מְאָה שְׁנִין, בְּנִין וּבְנָן).
 
 #### Genesis 5:20
 
 > וַיִּֽהְיוּ֙ כׇּל־יְמֵי־יֶ֔רֶד שְׁתַּ֤יִם וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃
 
-_Not yet translated._
+**All the days of Jared were nine hundred and sixty-two years, and he died.**
+
+Literal: and-were all-of days-of Jared two and-sixty year and-nine hundreds year and-died
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּֽהְיוּ֙ | and were — wayyiqtol: the sequential past of narrative of היה | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal III |
+| כׇּל | all of — construct state | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יְמֵי | days of — construct plural of יוֹם | יוֹם |  | noun (common, masculine, plural, construct) | 4 |
+| יֶ֔רֶד | Jared | יֶ֫רֶד |  | noun (proper name) |  |
+| שְׁתַּ֤יִם | two | שְׁנַ֫יִם | שׁנה | adjective (cardinal number, feminine, dual, absolute) |  |
+| וְשִׁשִּׁים֙ | and sixty | ו: and + שִׁשִּׁים | שׁדשׁ | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּתְשַׁ֥ע | and nine | ו: and + תֵּ֫שַׁע |  | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundred | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיָּמֹֽת׃ | and he died — wayyiqtol: the sequential past of narrative; short form וַיָּמֹת | ו: and + מוּת | מות | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- כָּל־יְמֵי־יֶרֶד is a construct chain: 'all the days of Jared', joined by maqqef.
+- וַיִּהְיוּ is plural because the subject is 'days'.
+- וַיָּמֹת is the jussive-shaped wayyiqtol of מות; the paragraph mark (ס) closes the entry.
+
+Note: The lifespan is 962; the figures are given as 'two and sixty ... and nine hundreds'.
+
+Commentary:
+
+- Targum Onkelos (not-applicable): Onkelos reproduces the figures (תְּשַׁע מְאָה וְשִׁתִּין וְתַרְתֵּין) and וּמִית.
 
 #### Genesis 5:21
 
 > וַיְחִ֣י חֲנ֔וֹךְ חָמֵ֥שׁ וְשִׁשִּׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־מְתוּשָֽׁלַח׃
 
-_Not yet translated._
+**Enoch lived sixty-five years, and fathered Methuselah.**
+
+Literal: and-lived Enoch five and-sixty year and-begot [object-marker] Methuselah
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְחִ֣י | and lived — wayyiqtol: the sequential past of narrative | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| חֲנ֔וֹךְ | Enoch | חֲנוֹךְ |  | noun (proper name) |  |
+| חָמֵ֥שׁ | five | חָמֵשׁ | חמשׁ | adjective (cardinal number, feminine, singular, absolute) |  |
+| וְשִׁשִּׁ֖ים | and sixty | ו: and + שִׁשִּׁים | שׁדשׁ | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֖וֹלֶד | and fathered — wayyiqtol: the sequential past of narrative | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | - — object marker | אֵת | אות | particle (direct object marker) |  |
+| מְתוּשָֽׁלַח׃ | Methuselah — pausal form under silluq: qamets in מְתוּשָׁלַח where 5:22 has segol (מְתוּשֶׁלַח); the lexicon glosses the name 'man of the dart' | מְתוּשֶׁ֫לַח |  | noun (proper name) |  |
+
+Grammar:
+
+- The number sixty-five is given units first: חָמֵשׁ וְשִׁשִּׁים.
+- Enoch's entry starts like the others but is followed in 5:22 by a break in the formula.
+- The etnaḥta on שָׁנָה divides age from birth.
+
+Note: Enoch fathers his son at sixty-five, the youngest age in the chapter, shared with Mahalalel (5:15); see the commentary at 5:22 and 5:24.
 
 #### Genesis 5:22
 
 > וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת־הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
 
-_Not yet translated._
+**Enoch walked with God, after he fathered Methuselah, for three hundred years, and he fathered sons and daughters.**
+
+Literal: and-walked Enoch with the-God after begetting-him [object-marker] Methuselah three hundreds year and-begot sons and-daughters
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּתְהַלֵּ֨ךְ | and walked — Hitpael wayyiqtol: habitual, continuing walking; the formula 'lived' is replaced | ו: and + הָלַךְ | הלך | conjunction + verb (hitpael, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hithp |
+| חֲנ֜וֹךְ | Enoch | חֲנוֹךְ |  | noun (proper name) |  |
+| אֶת | with — the preposition אֵת 'with', not the object marker; same spelling | אֵת |  | preposition | 1 |
+| הָֽאֱלֹהִ֗ים | God — with the article: הָאֱלֹהִים, 'the God'; plural form with singular sense | ה: the + אֱלֹהִים | אלה | particle (definite article) + noun (common, masculine, plural, absolute) | 3 |
+| אַֽחֲרֵי֙ | after | אַחַר | אחר | preposition | 2.b |
+| הוֹלִיד֣וֹ | he fathered — infinitive construct with suffix | יָלַד | ילד | verb (hifil, infinitive construct) + suffix (pronominal, 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | - — object marker | אֵת | אות | particle (direct object marker) |  |
+| מְתוּשֶׁ֔לַח | Methuselah | מְתוּשֶׁ֫לַח |  | noun (proper name) |  |
+| שְׁלֹ֥שׁ | three | שָׁלֹשׁ | שׁלשׁ | adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundred | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֥וֹלֶד | and he fathered — wayyiqtol: the sequential past of narrative | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| בָּנִ֖ים | sons | בֵּן |  | noun (common, masculine, plural, absolute) | 1 |
+| וּבָנֽוֹת׃ | and daughters | ו: and + בַּת |  | conjunction + noun (common, feminine, plural, absolute) | 1 |
+
+Grammar:
+
+- וַיִּתְהַלֵּךְ is Hitpael: 'walked about, walked habitually', here of a way of life.
+- אֶת־הָאֱלֹהִים: אֶת here is the preposition 'with', so 'walked with God', not an object marker.
+- The formula 'and he lived' is replaced by 'and he walked with God': the change marks Enoch.
+- The three hundred years run from the birth of Methuselah, not from Enoch's birth.
+
+Note: Ibn Ezra reads the walking as following God, like 'you shall walk after the LORD your God' (Deut 13:5); 'with God' keeps the preposition's plain sense. Radak, who is not normative, dates the beginning of Enoch's devotion to the sixty-fifth year.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra says 'he walked with God' has the sense of 'after the LORD your God you shall walk' (Deut 13:5), and compares Noah, 'with God Noah walked' (6:9), noting that some take 'Noah walked' as 'was accustomed'. The English 'walked with God' takes it as a way of life.
+- Targum Onkelos (records): Onkelos: 'Enoch walked in the fear of the LORD' (וְהַלִּיךְ חֲנוֹךְ בְּדַחַלְתָּא דַּיְיָ); a paraphrase that the English does not adopt but that agrees in sense.
+- Sforno (records): Sforno: he walked in God's ways, doing good to others by righteousness and by reproof; a further specification not in the text.
 
 #### Genesis 5:23
 
 > וַיְהִ֖י כׇּל־יְמֵ֣י חֲנ֑וֹךְ חָמֵ֤שׁ וְשִׁשִּׁים֙ שָׁנָ֔ה וּשְׁלֹ֥שׁ מֵא֖וֹת שָׁנָֽה׃
 
-_Not yet translated._
+**All the days of Enoch were three hundred and sixty-five years.**
+
+Literal: and-were all-of days-of Enoch five and-sixty year and-three hundreds year
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְהִ֖י | and were — wayyiqtol: the sequential past of narrative of היה, singular though its subject 'days' is plural | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal III |
+| כׇּל | all of — construct state | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יְמֵ֣י | days of | יוֹם |  | noun (common, masculine, plural, construct) | 4 |
+| חֲנ֑וֹךְ | Enoch | חֲנוֹךְ |  | noun (proper name) |  |
+| חָמֵ֤שׁ | five | חָמֵשׁ | חמשׁ | adjective (cardinal number, feminine, singular, absolute) |  |
+| וְשִׁשִּׁים֙ | and sixty | ו: and + שִׁשִּׁים | שׁדשׁ | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּשְׁלֹ֥שׁ | and three | ו: and + שָׁלֹשׁ | שׁלשׁ | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundred | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָֽה׃ | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+
+Grammar:
+
+- כָּל־יְמֵי חֲנוֹךְ is a construct chain. The verb וַיְהִי is singular before a plural subject (the verb precedes and agrees with the whole sum).
+- Unlike the other entries there is no וַיָּמֹת: the expected 'and he died' is missing.
+- The sum, 365, is the shortest in the chapter.
+
+Note: The omission of 'and he died' is stated in the notes at 5:24.
+
+Commentary:
+
+- Targum Onkelos (not-applicable): Onkelos reproduces the figures (תְּלַת מְאָה וְשִׁתִּין וַחֲמֵשׁ).
 
 #### Genesis 5:24
 
 > וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת־הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃
 
-_Not yet translated._
+**Enoch walked with God, and he was no more, for God took him.**
+
+Literal: and-walked Enoch with the-God and-not-he for took [object-marker]-him God
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּתְהַלֵּ֥ךְ | and walked — wayyiqtol: the sequential past of narrative | ו: and + הָלַךְ | הלך | conjunction + verb (hitpael, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hithp |
+| חֲנ֖וֹךְ | Enoch | חֲנוֹךְ |  | noun (proper name) |  |
+| אֶת | with — preposition 'with' | אֵת |  | preposition | 1 |
+| הָֽאֱלֹהִ֑ים | God — with the article | ה: the + אֱלֹהִים | אלה | particle (definite article) + noun (common, masculine, plural, absolute) | 3 |
+| וְאֵינֶ֕נּוּ | and he was no more — וְאֵינֶנּוּ: אַיִן with a 3rd person masculine suffix, 'and he is not'; here 'he was no more' | ו: and + אַ֫יִן | אין | conjunction + particle (negative) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| כִּֽי | for | כִּי |  | conjunction | 3 |
+| לָקַ֥ח | took — Qal perfect | לָקַח | לקח | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 3.b |
+| אֹת֖וֹ | him — object marker אֹת with suffix | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| אֱלֹהִֽים׃ | God — without the article | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+
+Grammar:
+
+- וְאֵינֶנּוּ is the particle אֵין with a suffix: 'and he was not'. It is a verbless clause.
+- לָקַח אֹתוֹ אֱלֹהִים: verb, pronoun object, then noun subject. A pronoun object regularly comes before a noun subject, so the order is the ordinary one and gives no special stress.
+- The etnaḥta on הָאֱלֹהִים closes the first half; the zaqef gadol on וְאֵינֶנּוּ separates the disappearance from its reason.
+- The first אֱלֹהִים has the article (the true God); the second does not, and is the subject.
+
+Note: Rashi and Ibn Ezra agree that וְאֵינֶנּוּ ... לָקַח means that Enoch died, and the English 'he was no more, for God took him' carries that reading. They differ on its character: for Rashi a death before his time, for Ibn Ezra a death without plague or 'and he died', a taking 'with glory' (Ps 73:24). Radak records the view of the Targum and some sages that Enoch entered Eden alive; it is not the plain sense.
+
+Commentary:
+
+- Rashi (follows): Rashi (from Genesis Rabbah): Enoch was righteous but easily moved to turn to wickedness (קַל בְּדַעְתּוֹ לָשׁוּב לְהַרְשִׁיעַ), so God hastened to remove him and made him die before his time. That is why the text writes his death differently, וְאֵינֶנּוּ: he was not in the world to fill out his years (וְאֵינֶנּוּ בָּעוֹלָם לְמַלְּאוֹת שְׁנוֹתָיו).
+- Rashi (follows): Rashi: 'he took him' means before his time, as in 'I am taking from you the desire of your eyes' (Ezek 24:16). The English 'took him' keeps the sense of removal.
+- Ibn Ezra (follows): Ibn Ezra: וְאֵינֶנּוּ means he died, like 'take my life' (Jonah 4:3) and 'I am taking from you the desire of your eyes' (Ezek 24:16); but here there is no mention of a plague or of 'and he died', and the sense is that of 'afterward you will take me with honor' (Ps 73:24) and 'God will redeem my soul ... for he will take me' (Ps 49:16). The English 'he was no more, for God took him' leaves the manner open.
+- Radak (records): Radak: God took his soul and raised it to the upper beings, as in Ps 73:24 and 49:16; but the Targum and some sages say that Enoch and Elijah entered the garden of Eden alive in body and soul. The English does not choose.
+- Targum Onkelos (records): Onkelos: 'Enoch walked in the fear of the LORD, and he was not, for the LORD caused him to die' (אֲמֵית יָתֵהּ יְיָ). The fetched text brackets a לָא, the reading of other editions: 'for the LORD did not cause him to die'.
+
+Apparatus:
+
+- Enoch's departure is described by the verb לָקַח, 'take'; the verse does not say 'and he died'.
 
 #### Genesis 5:25
 
 > וַיְחִ֣י מְתוּשֶׁ֔לַח שֶׁ֧בַע וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־לָֽמֶךְ׃
 
-_Not yet translated._
+**Methuselah lived one hundred eighty-seven years, and he fathered Lamech.**
+
+Literal: and-lived Methuselah seven and-eighty year and-hundred-of year and-he-fathered [object-marker] Lamech
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְחִ֣י | and lived — wayyiqtol of חיה | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| מְתוּשֶׁ֔לַח | Methuselah | מְתוּשֶׁ֫לַח |  | noun (proper name) |  |
+| שֶׁ֧בַע | seven | שֶׁ֫בַע | שׁבע | adjective (cardinal number, feminine, singular, absolute) |  |
+| וּשְׁמֹנִ֛ים | and eighty | ו: and + שְׁמֹנִים | שׁמן | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֖ה | year — singular noun after a numeral | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּמְאַ֣ת | and hundred of — construct state of מֵאָה, 'hundred of' | ו: and + מֵאָה | מאה | conjunction + adjective (cardinal number, both genders, singular, construct) |  |
+| שָׁנָ֑ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֖וֹלֶד | and he fathered — Hifil wayyiqtol of ילד: 'caused to bear', 'begot' | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| לָֽמֶךְ׃ | Lamech | לֶ֫מֶךְ |  | noun (proper name) |  |
+
+Grammar:
+
+- The age is given units first: 'seven and eighty year and hundred year'; English reverses it to 'one hundred eighty-seven'.
+- וַיְחִי and וַיּוֹלֶד are wayyiqtols: the narrative chain of the genealogy.
+- The tevir on וּשְׁמֹנִים and tipḥa on שָׁנָה mark off the units and tens; the etnaḥta on the second שָׁנָה ends the first half of the verse.
+
+Note: Fixed genealogical formula; the 'year' is repeated after the tens and after the hundreds.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos renders the verse closely: Methuselah lived one hundred eighty-seven years and begot Lamech; he reverses the order of the numbers as the English does.
 
 #### Genesis 5:26
 
 > וַיְחִ֣י מְתוּשֶׁ֗לַח אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־לֶ֔מֶךְ שְׁתַּ֤יִם וּשְׁמוֹנִים֙ שָׁנָ֔ה וּשְׁבַ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
 
-_Not yet translated._
+**Methuselah lived, after he fathered Lamech, seven hundred eighty-two years, and he fathered sons and daughters.**
+
+Literal: and-lived Methuselah after fathering-him [object-marker] Lamech two and-eighty year and-seven hundreds year and-he-fathered sons and-daughters
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְחִ֣י | and lived — wayyiqtol of חיה | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| מְתוּשֶׁ֗לַח | Methuselah | מְתוּשֶׁ֫לַח |  | noun (proper name) |  |
+| אַֽחֲרֵי֙ | after | אַחַר | אחר | preposition | 2.b |
+| הוֹלִיד֣וֹ | his fathering — Hifil infinitive construct with 3rd masculine singular suffix: 'his begetting' | יָלַד | ילד | verb (hifil, infinitive construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| לֶ֔מֶךְ | Lamech | לֶ֫מֶךְ |  | noun (proper name) |  |
+| שְׁתַּ֤יִם | two — feminine of שְׁנַיִם (dual in form, absolute state), agreeing with the feminine שָׁנָה; the construct would be שְׁתֵּי | שְׁנַ֫יִם | שׁנה | adjective (cardinal number, feminine, dual, absolute) |  |
+| וּשְׁמוֹנִים֙ | and eighty | ו: and + שְׁמֹנִים | שׁמן | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּשְׁבַ֥ע | and seven | ו: and + שֶׁ֫בַע | שׁבע | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundreds | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֥וֹלֶד | and he fathered — Hifil wayyiqtol of ילד | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| בָּנִ֖ים | sons | בֵּן |  | noun (common, masculine, plural, absolute) | 1 |
+| וּבָנֽוֹת׃ | and daughters | ו: and + בַּת |  | conjunction + noun (common, feminine, plural, absolute) | 1 |
+
+Grammar:
+
+- אַחֲרֵי הוֹלִידוֹ is a preposition plus infinitive construct with suffix: 'after his begetting', rendered as a clause.
+- The accents (pashta on אַחֲרֵי, zaqef on לֶמֶךְ) set the 'after' clause apart before the number of years.
+- שְׁתַּיִם is the feminine form of 'two' before the feminine שָׁנָה.
+- בָּנִים וּבָנוֹת is a merism: all further children, unnamed.
+
+Note: Here the number is 'two and eighty' then 'seven hundreds'.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos: 'after he begot Lamech seven hundred eighty-two years and begot sons and daughters', matching the English.
 
 #### Genesis 5:27
 
 > וַיִּהְיוּ֙ כׇּל־יְמֵ֣י מְתוּשֶׁ֔לַח תֵּ֤שַׁע וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃
 
-_Not yet translated._
+**All the days of Methuselah were nine hundred sixty-nine years, and he died.**
+
+Literal: and-were all-of days-of Methuselah nine and-sixty year and-nine hundreds year and-he-died
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּהְיוּ֙ | and were — wayyiqtol plural of היה | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal III |
+| כׇּל | all of — construct state | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יְמֵ֣י | days of — construct plural of יוֹם | יוֹם |  | noun (common, masculine, plural, construct) | 1 |
+| מְתוּשֶׁ֔לַח | Methuselah | מְתוּשֶׁ֫לַח |  | noun (proper name) |  |
+| תֵּ֤שַׁע | nine | תֵּ֫שַׁע |  | adjective (cardinal number, feminine, singular, absolute) |  |
+| וְשִׁשִּׁים֙ | and sixty | ו: and + שִׁשִּׁים | שׁדשׁ | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּתְשַׁ֥ע | and nine | ו: and + תֵּ֫שַׁע |  | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundreds | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיָּמֹֽת׃ | and he died — wayyiqtol of the hollow root מות, in the short form; וַיָּמֹת is the pausal form under silluq (out of pause וַיָּמָת) | ו: and + מוּת | מות | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- כָּל־יְמֵי מְתוּשֶׁלַח is a construct chain: 'all the days of Methuselah'.
+- The verb וַיִּהְיוּ is plural although the sum of years is one figure: it agrees with 'days'.
+- וַיָּמֹת closes the entry with the formula of death; the silluq ends the verse and the ס marks a paragraph break.
+
+Note: The total is the sum of 187 + 782 = 969 years.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos: 'all the days of Methuselah were nine hundred sixty-nine years, and he died', the same as the English.
 
 #### Genesis 5:28
 
 > וַֽיְחִי־לֶ֕מֶךְ שְׁתַּ֧יִם וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד בֵּֽן׃
 
-_Not yet translated._
+**Lamech lived one hundred eighty-two years, and he fathered a son.**
+
+Literal: and-lived-Lamech two and-eighty year and-hundred-of year and-he-fathered son
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְחִי | and lived — wayyiqtol of חיה; joined by maqqef to the subject | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| לֶ֕מֶךְ | Lamech | לֶ֫מֶךְ |  | noun (proper name) |  |
+| שְׁתַּ֧יִם | two | שְׁנַ֫יִם | שׁנה | adjective (cardinal number, feminine, dual, absolute) |  |
+| וּשְׁמֹנִ֛ים | and eighty | ו: and + שְׁמֹנִים | שׁמן | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֖ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּמְאַ֣ת | and hundred of — construct state of מֵאָה | ו: and + מֵאָה | מאה | conjunction + adjective (cardinal number, both genders, singular, construct) |  |
+| שָׁנָ֑ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֖וֹלֶד | and he fathered — Hifil wayyiqtol of ילד | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| בֵּֽן׃ | a son | בֵּן |  | noun (common, masculine, singular, absolute) | 1 |
+
+Grammar:
+
+- The pattern repeats from verse 25, with 'two' in place of 'seven'.
+- The zaqef gadol on לֶמֶךְ separates the subject from the figures.
+- בֵּן is indefinite: the unnamed son is named in the next verse.
+
+Note: Rashi's midrashic remark on 'a son' is a homily, not a reading of the words.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi, from Bereshit Rabbah: שֶׁמִּמֶּנּוּ נִבְנָה הָעוֹלָם, 'from him the world was built', a play on בֵּן and בנה. It is a homily and does not alter the plain sense.
+- Targum Onkelos (follows): Onkelos: Lamech lived one hundred eighty-two years and begot a son, as in the English.
 
 #### Genesis 5:29
 
 > וַיִּקְרָ֧א אֶת־שְׁמ֛וֹ נֹ֖חַ לֵאמֹ֑ר זֶ֞֠ה יְנַחֲמֵ֤נוּ מִֽמַּעֲשֵׂ֙נוּ֙ וּמֵעִצְּב֣וֹן יָדֵ֔ינוּ מִן־הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר אֵֽרְרָ֖הּ יְהֹוָֽה׃
 
-_Not yet translated._
+**He named him Noah, saying, "This one will bring us relief from our work and from the toil of our hands, from the ground that the LORD has cursed."**
+
+Literal: and-he-called [object-marker] name-his Noah saying this he-will-comfort-us from-work-our and-from-toil-of hands-our from-the-ground which cursed-it the-LORD
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּקְרָ֧א | and he called — wayyiqtol of קרא; with 'name' it means 'to name' | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 6 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| שְׁמ֛וֹ | his name — construct with 3rd masculine suffix | שֵׁם |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| נֹ֖חַ | Noah ('rest') — נֹחַ; the explanation of the name is in the quoted words (root נוח 'rest', and נחם 'comfort') | נֹחַ | נוח | noun (proper name) |  |
+| לֵאמֹ֑ר | saying — לֵאמֹר, preposition ל with infinitive construct: introduces speech | ל: to, for + אָמַר | אמר | preposition + verb (qal, infinitive construct) | Qal 1 |
+| זֶ֞֠ה | this one | זֶה |  | pronoun (demonstrative, masculine, singular) |  |
+| יְנַחֲמֵ֤נוּ | he will bring relief to us — Piel imperfect with 1st plural suffix; Piel of נחם: 'comfort', here 'give relief' | נָחַם | נחם | verb (piel, imperfect (yiqtol), 3rd person, masculine, singular) + suffix (pronominal, 1st person, common, plural) | Piel |
+| מִֽמַּעֲשֵׂ֙נוּ֙ | from our work — preposition מן + מַעֲשֶׂה + suffix 'our' | מ: from, than + מַעֲשֶׂה | עשׂה | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, plural) |  |
+| וּמֵעִצְּב֣וֹן | and from the toil of — construct of עִצָּבוֹן | ו: and + מ: from, than + עִצָּבוֹן | עצב | conjunction + preposition + noun (common, masculine, singular, construct) |  |
+| יָדֵ֔ינוּ | our hands — dual construct with suffix | יָד |  | noun (common, both genders, dual, construct) + suffix (pronominal, 1st person, common, plural) | 1 |
+| מִן | from | מִן־ |  | preposition | 1.a |
+| הָ֣אֲדָמָ֔ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אֲשֶׁ֥ר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| אֵֽרְרָ֖הּ | he cursed it — Piel perfect with 3rd feminine singular suffix | אָרַר | ארר | verb (piel, perfect (qatal), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, feminine, singular) | Pi |
+| יְהֹוָֽה׃ | the LORD — written יְהֹוָה | יהוה | הוה | noun (proper name) |  |
+
+Grammar:
+
+- The name נֹחַ is explained by wordplay with יְנַחֲמֵנוּ: the sounds נ-ח (root נוח 'rest', root נחם 'comfort') are close but not identical.
+- יְנַחֲמֵנוּ is Piel imperfect with the 1st plural suffix: 'he will comfort us'.
+- The gershayim and telisha gedola on זֶה mark a rare accent and give it weight at the opening of the quotation.
+- אֵרְרָהּ is a Piel perfect with a feminine suffix referring to הָאֲדָמָה; the antecedent is the ground, cursed in 3:17.
+- 'The LORD' stands last in the verse, after the verb, with the silluq.
+
+Note: The saying explains the name; the pun is only approximate. The English 'bring us relief' follows Rashi (יָנַח מִמֶּנּוּ, 'he will ease from us') and Ibn Ezra ('this one will comfort us, and we will rest from the toil of our hands'; נֶחָמָה is rest from grief), who both read the word through נוח; the usual Piel sense 'comfort' (BDB) is kept in the literal line and the grammar notes. The meaning of the name is kept out of the English line.
+
+Commentary:
+
+- Rashi (follows): Rashi: זֶה יְנַחֲמֵנוּ means יָנַח מִמֶּנּוּ אֶת עִצְּבוֹן יָדֵינוּ, 'he will ease from us the toil of our hands'. Before Noah they had no ploughing tools and he made them; the ground, under the first Adam's curse, put out thorns and thistles when wheat was sown, and in Noah's days it rested. Read otherwise, the sense does not fit the name, and he would have had to be called מְנַחֵם.
+- Ibn Ezra (follows): Ibn Ezra: Lamech knew through Adam, being a prophet, or saw by wisdom, that through this child the ground would revive; and so it was, for through him the world endured, and he was a man of the ground. Or he was named Noah afterwards, as Jerubbaal was, once he had worked the ground and it prospered. The sense is 'this one will comfort us, and we will rest (וְנָנוּחַ) from the toil of our hands'; comfort is rest from grief of heart (עִצְּבוֹן הַלֵּב), for Hebrew keeps the sense and not the exact word, as יְרֻבַּעַל and יְרֻבֶּשֶׁת show.
+- Radak (follows): Radak: מִמַּעֲשֵׂנוּ means work of the ground, as in 'from his work from the field' (Judges 19:16).
+- Radak (records): Radak: Lamech did not speak by prophecy but gave the name as a sign, in blessing and prayer, as Rachel named Joseph; the English leaves it open as a statement of hope.
+- Sforno (records): Sforno: Lamech prayed that this child would comfort them by bringing them rest from their work, for the name נֹחַ means rest, as in וְנוֹחַ מֵאֹיְבֵיהֶם (Esther 9:16). The English takes the sense of rest but not the reading as a prayer; it is kept as a real alternative, as with Radak.
+
+Apparatus:
+
+- Onkelos renders the verb with 'comfort' (יְנַחֲמִנָּנָא), מִמַּעֲשֵׂנוּ with מֵעוֹבָדָנָא 'from our work', and עִצְּבוֹן יָדֵינוּ with מִלֵּאוּת יְדָנָא 'from the weariness of our hands'.
 
 #### Genesis 5:30
 
 > וַֽיְחִי־לֶ֗מֶךְ אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־נֹ֔חַ חָמֵ֤שׁ וְתִשְׁעִים֙ שָׁנָ֔ה וַחֲמֵ֥שׁ מֵאֹ֖ת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
 
-_Not yet translated._
+**Lamech lived, after he fathered Noah, five hundred ninety-five years, and he fathered sons and daughters.**
+
+Literal: and-lived-Lamech after fathering-him [object-marker] Noah five and-ninety year and-five hundreds year and-he-fathered sons and-daughters
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְחִי | and lived — wayyiqtol of חיה | ו: and + חָיָה | חיה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| לֶ֗מֶךְ | Lamech | לֶ֫מֶךְ |  | noun (proper name) |  |
+| אַֽחֲרֵי֙ | after | אַחַר | אחר | preposition | 2.b |
+| הוֹלִיד֣וֹ | his fathering — Hifil infinitive construct with suffix | יָלַד | ילד | verb (hifil, infinitive construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| נֹ֔חַ | Noah | נֹחַ | נוח | noun (proper name) |  |
+| חָמֵ֤שׁ | five | חָמֵשׁ | חמשׁ | adjective (cardinal number, feminine, singular, absolute) |  |
+| וְתִשְׁעִים֙ | and ninety | ו: and + תִּשְׁעִים |  | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַחֲמֵ֥שׁ | and five | ו: and + חָמֵשׁ | חמשׁ | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵאֹ֖ת | hundreds | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֥וֹלֶד | and he fathered — Hifil wayyiqtol of ילד | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| בָּנִ֖ים | sons | בֵּן |  | noun (common, masculine, plural, absolute) | 1 |
+| וּבָנֽוֹת׃ | and daughters | ו: and + בַּת |  | conjunction + noun (common, feminine, plural, absolute) | 1 |
+
+Grammar:
+
+- The structure is the same as verse 26, with Noah in place of Lamech.
+- חָמֵשׁ is the feminine form of 'five' with שָׁנָה; מֵאֹת is the plural of מֵאָה spelled defectively, without the vav (elsewhere מֵאוֹת); the vowel is the same ḥolem.
+- The munaḥ on הוֹלִידוֹ joins it to אֶת־נֹחַ, and the zaqef qaton on נֹחַ closes the temporal clause before the number of years.
+- The revia on לֶמֶךְ marks the subject before the temporal clause.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos: Lamech lived after he begot Noah five hundred ninety-five years and begot sons and daughters.
 
 #### Genesis 5:31
 
 > וַֽיְהִי֙ כׇּל־יְמֵי־לֶ֔מֶךְ שֶׁ֤בַע וְשִׁבְעִים֙ שָׁנָ֔ה וּשְׁבַ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃
 
-_Not yet translated._
+**All the days of Lamech were seven hundred seventy-seven years, and he died.**
+
+Literal: and-were all-of days-of Lamech seven and-seventy year and-seven hundreds year and-he-died
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְהִי֙ | and were — wayyiqtol of היה | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal III |
+| כׇּל | all of | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| יְמֵי | days of | יוֹם |  | noun (common, masculine, plural, construct) | 1 |
+| לֶ֔מֶךְ | Lamech | לֶ֫מֶךְ |  | noun (proper name) |  |
+| שֶׁ֤בַע | seven | שֶׁ֫בַע | שׁבע | adjective (cardinal number, feminine, singular, absolute) |  |
+| וְשִׁבְעִים֙ | and seventy | ו: and + שִׁבְעִים | שׁבע | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֔ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּשְׁבַ֥ע | and seven | ו: and + שֶׁ֫בַע | שׁבע | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundreds | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיָּמֹֽת׃ | and he died — wayyiqtol of מות | ו: and + מוּת | מות | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- The verse repeats the formula of 5:27 for Lamech.
+- The singular verb וַיְהִי (here) agrees with the sum as a whole, unlike the plural וַיִּהְיוּ in 5:27.
+- The total is 595 + 182 = 777 years.
+- The ס after the verse marks a paragraph break.
+
+Commentary:
+
+- Targum Onkelos (follows): Onkelos: all the days of Lamech were seven hundred seventy-seven years, and he died.
 
 #### Genesis 5:32
 
 > וַֽיְהִי־נֹ֕חַ בֶּן־חֲמֵ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֣וֹלֶד נֹ֔חַ אֶת־שֵׁ֖ם אֶת־חָ֥ם וְאֶת־יָֽפֶת׃
 
-_Not yet translated._
+**When Noah was five hundred years old, Noah fathered Shem, Ham, and Japheth.**
+
+Literal: and-was Noah son-of five hundreds year and-fathered Noah [object-marker] Shem [object-marker] Ham and-[object-marker] Japheth
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְהִי | and was — wayyiqtol of היה introducing the age formula | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal III |
+| נֹ֕חַ | Noah | נֹחַ | נוח | noun (proper name) |  |
+| בֶּן | son of — construct state; 'son of N years' is the idiom for 'N years old' | בֵּן |  | noun (common, masculine, singular, construct) | 1 |
+| חֲמֵ֥שׁ | five — the form without final ה, used with feminine nouns; it counts the feminine מֵאוֹת ('five hundreds'), not שָׁנָה | חָמֵשׁ | חמשׁ | adjective (cardinal number, feminine, singular, absolute) |  |
+| מֵא֖וֹת | hundreds | מֵאָה | מאה | adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֑ה | year — singular noun after a number, as is usual for שנה | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וַיּ֣וֹלֶד | and fathered — Hifil of ילד: 'beget', said of the father | ו: and + יָלַד | ילד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 1 |
+| נֹ֔חַ | Noah | נֹחַ | נוח | noun (proper name) |  |
+| אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
+| שֵׁ֖ם | Shem | שֵׁם |  | noun (proper name) |  |
+| אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
+| חָ֥ם | Ham | חָם |  | noun (proper name) | 1 |
+| וְאֶת | and [object marker] | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| יָֽפֶת׃ | Japheth | יֶ֫פֶת |  | noun (proper name) |  |
+
+Grammar:
+
+- בֶּן־חֲמֵשׁ מֵאוֹת שָׁנָה is the age formula: 'son of five hundred years'.
+- The etnaḥta on שָׁנָה divides the verse: Noah's age, then the births.
+- וַיּוֹלֶד is Hifil wayyiqtol of ילד, 'he fathered'.
+- The three sons are each marked by אֶת; the list is joined by ו only before the last.
+
+Note: The order Shem, Ham, Japheth is the order of the text; Rashi and Radak (following Bereshit Rabbah) discuss which son was eldest, which does not change the English.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi (from Bereshit Rabbah): every earlier generation begot at about a hundred, but Noah at five hundred. God said: if his sons are wicked they will perish in the water, and that is hard for this righteous man; if they are righteous I would burden him with building many arks. So God restrained his fountain (כָּבַשׁ אֶת מַעְיָנוֹ) until five hundred, so that Japheth, the eldest, would not reach a hundred, the age of liability to punishment, before the Flood. A homily on the age, not on the words' sense.
+- Rashi (not-applicable): Rashi: was not Japheth the eldest? The order of names is a derash on the righteous one being born circumcised and Abraham descending from him; it does not bear on the English.
+- Radak (not-applicable): Radak offers reasons why Noah waited until five hundred to beget; this is explanation, not wording.
+- Radak (not-applicable): Radak discusses whether Japheth or Shem was eldest from the chronology of 11:10; this does not affect the translation.
+
+Apparatus:
+
+- Onkelos: וַהֲוָה נֹחַ בַּר חֲמֵשׁ מְאָה שְׁנִין וְאוֹלִיד נֹחַ, the same sense.
 
 #### Genesis 6:1
 
 > וַֽיְהִי֙ כִּֽי־הֵחֵ֣ל הָֽאָדָ֔ם לָרֹ֖ב עַל־פְּנֵ֣י הָֽאֲדָמָ֑ה וּבָנ֖וֹת יֻלְּד֥וּ לָהֶֽם׃
 
-_Not yet translated._
+**When humankind began to multiply over the surface of the ground and daughters were born to them,**
+
+Literal: and-it-was when began the-human to-multiply upon face-of the-ground and-daughters were-born to-them
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְהִי֙ | and it was — wayyiqtol of היה, the 'and it came to pass' that introduces a time clause | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.2.a.(1) |
+| כִּֽי | when | כִּי |  | conjunction | 2.a |
+| הֵחֵ֣ל | began — Hifil of חלל 'begin' (not 'profane'); Ibn Ezra: from בנין הפעיל, meaning מתחילה | חָלַל | חלל | verb (hifil, perfect (qatal), 3rd person, masculine, singular) | Hiph 2 |
+| הָֽאָדָ֔ם | the human — with the article; collective 'humankind' | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| לָרֹ֖ב | to multiply — infinitive construct of רבב; Ibn Ezra: לרב is שם הפועל, the verbal noun | ל: to, for + רָבַב | רבב | preposition + verb (qal, infinitive construct) |  |
+| עַל | over | עַל | עלה | preposition | II.1 |
+| פְּנֵ֣י | face of — construct; 'surface' | פָּנֶה | פנה | noun (common, both genders, plural, construct) | I.5 |
+| הָֽאֲדָמָ֑ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| וּבָנ֖וֹת | and daughters | ו: and + בַּת |  | conjunction + noun (common, feminine, plural, absolute) | 1 |
+| יֻלְּד֥וּ | were born — Pual perfect, passive of ילד | יָלַד | ילד | verb (pual, perfect (qatal), 3rd person, common, plural) | Pu |
+| לָהֶֽם׃ | to them | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, plural) |  |
+
+Grammar:
+
+- וַיְהִי כִּי introduces a temporal clause: 'and it was when'.
+- הֵחֵל is Hifil perfect of חלל, 'begin' (a different verb from חלל 'profane').
+- לָרֹב is an infinitive construct, 'to multiply'.
+- יֻלְּדוּ is Pual: 'were born', with an indefinite plural subject.
+
+Note: הָאָדָם with the article is normally 'the human' (decisions); here the sense is collective (Radak: מִין הָאָדָם, the species), so 'humankind' is used. The 'daughters' are those of the human race generally.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: הֵחֵל is from the Hifil, meaning 'began'. The English follows.
+- Ibn Ezra (follows): Ibn Ezra: לָרֹב is the infinitive (שם הפועל), 'to multiply'.
+- Ramban (not-applicable): Ramban: as soon as people began to multiply they began to sin; a reading of the context, not of the words.
+- Radak (follows): Radak: הָאָדָם means the human species.
+- Radak (not-applicable): Radak: there was no need to say that daughters were born, since the world cannot exist without males and females; the text tells of the daughters because men strayed after them and they caused the corruption of the earth told below.
+
+Apparatus:
+
+- Onkelos: כַּד שְׁרִיאוּ בְנֵי אֱנָשָׁא לְמִסְגֵּי, 'when the children of men began to increase'.
 
 #### Genesis 6:2
 
 > וַיִּרְא֤וּ בְנֵי־הָֽאֱלֹהִים֙ אֶת־בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙ נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ׃
 
-_Not yet translated._
+**The sons of the rulers saw that the daughters of humankind were beautiful, and they took wives for themselves from all whom they chose.**
+
+Literal: and-saw sons-of the-gods [object-marker] daughters-of the-human that good they and-took for-them women from-all that they-chose
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּרְא֤וּ | and saw — wayyiqtol of ראה | ו: and + רָאָה | ראה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1.a |
+| בְנֵי | sons of — construct | בֵּן |  | noun (common, masculine, plural, construct) | 1 |
+| הָֽאֱלֹהִים֙ | the rulers — אֱלֹהִים is plural in form; 'rulers, judges' is Rashi's first reading, with Onkelos (בני רברביא), Ramban and Radak, and the first reading Ibn Ezra lists; other readings, among them Ibn Ezra's own preference, are in the apparatus | ה: the + אֱלֹהִים | אלה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| אֶת | [object marker] | אֵת | אות | particle (direct object marker) |  |
+| בְּנ֣וֹת | daughters of — construct | בַּת |  | noun (common, feminine, plural, construct) | 1 |
+| הָֽאָדָ֔ם | the human — collective | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| כִּ֥י | that | כִּי |  | conjunction | 1 |
+| טֹבֹ֖ת | good, beautiful — feminine plural adjective; 'good' here is 'pleasing, beautiful' | טוֹב | טוב | adjective (adjective, feminine, plural, absolute) | 1 |
+| הֵ֑נָּה | they — feminine plural pronoun הֵנָּה, subject of a verbless clause | הֵנָּה |  | pronoun (personal, 3rd person, feminine, plural) |  |
+| וַיִּקְח֤וּ | and took | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
+| לָהֶם֙ | for themselves | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, plural) |  |
+| נָשִׁ֔ים | wives — 'wives' with לקח | אִשָּׁה | אנשׁ | noun (common, feminine, plural, absolute) | 2 |
+| מִכֹּ֖ל | from all | מ: from, than + כֹּל | כלל | preposition + noun (common, masculine, singular, absolute) | 1 |
+| אֲשֶׁ֥ר | whom | אֲשֶׁר | אשׁר | particle (relative) |  |
+| בָּחָֽרוּ׃ | they chose — man's choice | בָּחַר | בחר | verb (qal, perfect (qatal), 3rd person, common, plural) | Qal 1.b |
+
+Grammar:
+
+- בְנֵי־הָאֱלֹהִים is a construct chain with a plural noun in the absolute and the article; the sense of אֱלֹהִים is the main difficulty.
+- כִּי טֹבֹת הֵנָּה is a verbless clause: 'that they were good'. The feminine pronoun הֵנָּה refers to the daughters.
+- וַיִּקְחוּ לָהֶם נָשִׁים: 'took for themselves women', the idiom for marrying.
+- מִכֹּל אֲשֶׁר בָּחָרוּ is 'from all whom they chose' (all that they chose); Rashi and Radak read it as including women already married.
+
+Note: Per decisions, אֱלֹהִים of beings other than the God of Israel takes the sense of the normative commentators. Here they differ. Rashi's first reading, with Onkelos (בני רברביא), Ramban and Radak, is 'the sons of the princes and judges' (Rashi: every אֱלֹהִים in Scripture is an expression of authority), and Ibn Ezra lists it first; the English follows Rashi. Rashi's other reading (the angelic princes who go on God's errands) and Ibn Ezra's others (the holy ones; the sons of Seth; and his own preference, those who knew the knowledge of the Most High and chose their wives by the order of the heavens) are recorded below. The Hebrew טֹבֹת is spelled defectively; Rashi's homily from the spelling is not an issue for the plain sense.
+
+Commentary:
+
+- Rashi (follows): Rashi: בְּנֵי הָאֱלֹהִים are the sons of the princes and judges; every אֱלֹהִים in Scripture is an expression of authority (cf. Ex 4:16, 7:1). His second reading, the officers who go on God's mission mingling with them, is recorded.
+- Rashi (records): Rashi (Bereshit Rabbah): טבת is written, 'they made her good': they adorned the bride for the wedding canopy and the great one went in first. A homily on the spelling; the English keeps the plain 'beautiful'.
+- Rashi (records): Rashi: 'from all whom they chose' includes even a married woman, even male and beast. The English leaves the extent as in the Hebrew.
+- Ibn Ezra (records): Ibn Ezra lists readings of בני האלהים: the sons of the judges, who did God's justice on earth; some say that אלהים here means 'holy' and the sons are the holy ones, as in 'you are children' (Dt 14:1); some say the sons of Seth, the daughters being of Cain's family. 'The right in my eyes' (והישר בעיני) is that they were those who knew the knowledge of the Most High and chose wives whose configuration of the heavens matched each man, so that their offspring were like the begetting, and mighty men came from them; they may also have taken the women by force. The English follows Rashi's 'rulers', the first reading Ibn Ezra lists, not his preference.
+- Ramban (follows): Ramban: the sons of princes and judges; they did violence openly with no one to restrain them.
+- Ramban (records): Ramban: 'כי טובות הנה' means that wherever they were good they took them by force.
+- Radak (follows): Radak: the sons of the judges and the great, who are called אֱלֹהִים (Ex 22:27); so Onkelos, בני רברביא. The Midrash on Azza and Azael is far off.
+- Radak (not-applicable): Radak (Bereshit Rabbah): comments on the long lives of these generations.
+- Radak (records): Radak: בנות האדם are the daughters of the common, weak people, who could not resist; he cites Ibn Ezra's different reading.
+- Radak (records): Radak (quoting Ibn Ezra): the sons of God were those who knew the Most High and chose by the order of the heavens.
+- Radak (records): Radak: the Bereshit Rabbah homily on טבת, 'these are the virgins'.
+- Radak (records): Radak: 'took wives' means married women.
+- Radak (records): Radak: 'all that they chose' includes male and beast.
+
+Apparatus:
+
+- אֱלֹהִים here: rulers or judges (Rashi's first reading, the first Ibn Ezra lists, Ramban, Radak, Onkelos בני רברביא); the angelic princes who go on God's errands (Rashi's other reading; Radak calls the midrash of Azza and Azael far-fetched); 'the holy ones' (reported by Ibn Ezra); the sons of Seth, with the daughters of Cain's line (reported by Ibn Ezra); those who knew the knowledge of the Most High and chose their wives by the order of the heavens (Ibn Ezra's own preference, quoted by Radak).
+- Onkelos renders טֹבֹת with שַׁפִּירָן, 'beautiful'.
+- בָּחָרוּ: Onkelos has דִּי אִתְרְעִיאוּ, 'whom they desired'.
 
 #### Genesis 6:3
 
 > וַיֹּ֣אמֶר יְהֹוָ֗ה לֹֽא־יָד֨וֹן רוּחִ֤י בָֽאָדָם֙ לְעֹלָ֔ם בְּשַׁגַּ֖ם ה֣וּא בָשָׂ֑ר וְהָי֣וּ יָמָ֔יו מֵאָ֥ה וְעֶשְׂרִ֖ים שָׁנָֽה׃
 
-_Not yet translated._
+**Then the LORD said, "My spirit will not contend over humankind for long, since they are also flesh; their days will be one hundred and twenty years."**
+
+Literal: and-said the-LORD not will-contend my-spirit in-the-human for-ever in-since-also he flesh and-will-be his-days hundred and-twenty year
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֣אמֶר | and said — wayyiqtol of אמר | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יְהֹוָ֗ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| לֹֽא | not | לֹא |  | particle (negative) |  |
+| יָד֨וֹן | will contend — יָדוֹן: a difficult form; Rashi reads it as 'contend, quarrel' (יתרעם ויריב); Ibn Ezra lists 'sheath' (נדן) and 'judge' (דין); the pack's lexicon lists it under דין | דִּין | דין | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 6 |
+| רוּחִ֤י | my spirit — construct with first person suffix; 'the spirit of God' | רוּחַ | רוח | noun (common, both genders, singular, construct) + suffix (pronominal, 1st person, common, singular) | 9 |
+| בָֽאָדָם֙ | in the human — preposition ב with the article | ב: in, with, by + אָדָם | אדם | preposition (with definite article) + noun (common, masculine, singular, absolute) | 2 |
+| לְעֹלָ֔ם | for long — לְעֹלָם is usually 'for ever'; Rashi glosses it לְאֹרֶךְ יָמִים, 'for a long time' | ל: to, for + עוֹלָם | עלם | preposition + noun (common, masculine, singular, absolute) |  |
+| בְּשַׁגַּ֖ם | since also — בְּשַׁגַּם: compound of בְּ + שֶׁ + גַּם; Rashi: like בְּשֶׁגַּם; Ibn Ezra: the שׁ is like שֶׁכָּכָה | ב: in, with, by + ש: who, which + גַּם | גמם | preposition + particle (relative) + adverb |  |
+| ה֣וּא | he | הוּא |  | pronoun (personal, 3rd person, masculine, singular) |  |
+| בָשָׂ֑ר | flesh — 'flesh' as frail humanity | בָּשָׂר | בשׂר | noun (common, masculine, singular, absolute) | 5 |
+| וְהָי֣וּ | and will be — weqatal | ו: and + הָיָה | היה | conjunction + verb (qal, sequential perfect (weqatal), 3rd person, common, plural) | Qal III |
+| יָמָ֔יו | his days — construct with suffix; 'his' is collective humankind, hence English 'their' | יוֹם |  | noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) | 4 |
+| מֵאָ֥ה | hundred | מֵאָה | מאה | adjective (cardinal number, both genders, singular, absolute) |  |
+| וְעֶשְׂרִ֖ים | and twenty | ו: and + עֶשְׂרִים | עשׂר | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָֽה׃ | year | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+
+Grammar:
+
+- יָדוֹן is a rare and disputed form. Rashi: it means 'quarrel, contend' (he speaks of a מָדוֹן, a strife, in God's spirit). Ibn Ezra reports two views: 'sheath' (as נָדָן, 1 Chr 21:27, the body being the spirit's sheath), with ידון then from another, hollow root; or from דין, 'judge'. His own sense is 'will not abide' (לֹא יַעֲמֹד). Radak explains the 'sheath' form as a lost nun.
+- בְּשַׁגַּם: Rashi and Ibn Ezra take the שַׁ as the relative שֶׁ, with the vowel changed: 'since also'.
+- וְהָיוּ is a weqatal: the days 'will be' 120 years, a grant of time.
+- The etnaḥta after בָשָׂר divides the verse into the sentence of decision and the term granted.
+
+Note: The English follows Rashi on ידון (contend, quarrel) and לעלם (for a long time), and Rashi and Ibn Ezra on בשגם (since also). The 120 years is read as a respite (Rashi, Sforno, Onkelos), not as the future length of a human life, which Ibn Ezra rejects as untrue. 'My spirit' is God's. The reading 'sheath' and the reading 'judge' are recorded. The lexicon lists a sense under דין for this form; the Qal 6 'contend' is the closest in the list.
+
+Commentary:
+
+- Rashi (follows): Rashi: 'will not quarrel and contend' (יתרעם ויריב): my spirit will not argue with me on account of man.
+- Rashi (follows): Rashi: לעלם means 'for a long time': my spirit is debating whether to destroy or to have mercy, and this dispute will not last in me for long.
+- Rashi (follows): Rashi: בְּשַׁגַּם is as בְּשֶׁגַּם: 'because this too is in him, that he is flesh, and even so he does not submit before me; what then if he were fire or something hard?' The שַׁ is the relative שֶׁ, as in שַׁקַּמְתִּי (Jgs 5:7) and שָׁאַתָּה (Jgs 6:17).
+- Rashi (follows): Rashi: 'until 120 years I will be patient with them; if they do not repent I will bring a flood.' The decree was given twenty years before Noah fathered (the Torah has no earlier and later).
+- Ibn Ezra (records): Ibn Ezra: some say ידון is like נדן 'sheath', the body being the spirit's sheath (cf. Dan 7:15), and the root is another; others that it is from דין, since the spirit is the body's judge. The English keeps 'contend' from Rashi.
+- Ibn Ezra (follows): Ibn Ezra: the שׁ is like שֶׁכָּכָה, so 'since also he is flesh': my spirit will not remain, because of the violence, and because man is flesh and reaches his term and fails.
+- Ibn Ezra (follows): Ibn Ezra rejects the view that 120 years is the span of all human life: Shem lived six hundred. He follows the Aramaic translator: God set an end for humankind, as in 'forty days' (Jon 3:4); if they repent they escape. He adds that Scripture has no strict order of events.
+- Ramban (records): Ramban rejects Rashi's reading of בשגם and Ibn Ezra's, and takes 'since man is flesh like all flesh, he is not fit to have the spirit of God within him'.
+- Radak (records): Radak: ידון is from 'מדון' (strife) by his father, or from 'sheath'; God will extend 120 years if they repent, else destroy.
+- Radak (follows): Radak: the שׁ is open like שַׁקַּמְתִּי; 'since he too is flesh'.
+- Radak (follows): Radak: the days that I will grant him.
+- Radak (not-applicable): Radak: we know only that this was the Creator's will.
+- Sforno (follows): Sforno: there will be a time for repentance.
+- Sforno (follows): Sforno: in the meantime Noah was building the ark and warning them.
+
+Apparatus:
+
+- Onkelos: לָא יִתְקַיַם דָרָא בִישָׁא הָדֵין קֳדָמַי לְעַלָם ... אַרְכָא יְהִיבַת לְהוֹן מְאָה וְעַשְׂרִין שְׁנִין אִם יְתוּבוּן, 'this evil generation will not stand before me for ever ... a respite of 120 years is given them if they repent'.
+- יָדוֹן: 'contend' (Rashi), 'abide', as in a sheath (Ibn Ezra's first), or 'judge' (Ibn Ezra's second); the written form is not otherwise attested.
+- The pointing of the divine name is יְהֹוָה (MAM) and is read as 'the LORD'.
 
 #### Genesis 6:4
 
 > הַנְּפִלִ֞ים הָי֣וּ בָאָ֘רֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי־כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י הָֽאֱלֹהִים֙ אֶל־בְּנ֣וֹת הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעוֹלָ֖ם אַנְשֵׁ֥י הַשֵּֽׁם׃
 
-_Not yet translated._
+**The giants were on the earth in those days, and also afterward, whenever the sons of the rulers came to the daughters of humankind and they bore children to them. They were the warriors of old, the men of renown.**
+
+Literal: the-Nephilim were in-the-earth in-the-days the-those and-also after-so that will-come sons-of the-gods to daughters-of the-human and-bore to-them they the-warriors that from-ever men-of the-name
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| הַנְּפִלִ֞ים | the giants — often transliterated 'Nephilim'; Rashi: named for falling and making the world fall, and in Hebrew the word for giants; Ibn Ezra and Radak: the heart of one who sees them falls, astonished at their height | ה: the + נְפִלִים |  | particle (definite article) + noun (common, masculine, plural, absolute) |  |
+| הָי֣וּ | were — perfect plural of היה | הָיָה | היה | verb (qal, perfect (qatal), 3rd person, common, plural) | Qal III |
+| בָאָ֘רֶץ֮ | in the earth | ב: in, with, by + אֶ֫רֶץ | ארץ | preposition (with definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| בַּיָּמִ֣ים | in the days | ב: in, with, by + יוֹם |  | preposition (with definite article) + noun (common, masculine, plural, absolute) | 4 |
+| הָהֵם֒ | those | ה: the + הֵ֫מָּה |  | particle (definite article) + pronoun (personal, 3rd person, masculine, plural) |  |
+| וְגַ֣ם | and also | ו: and + גַּם | גמם | conjunction + particle (affirmation) |  |
+| אַֽחֲרֵי | after | אַחַר | אחר | preposition | 1.b |
+| כֵ֗ן | so — adverb; אַחֲרֵי־כֵן is 'afterward' | כֵּן |  | adverb |  |
+| אֲשֶׁ֨ר | that, when | אֲשֶׁר | אשׁר | particle (relative) |  |
+| יָבֹ֜אוּ | they come — yiqtol, here iterative: 'whenever they came' | בּוֹא | בוא | verb (qal, imperfect (yiqtol), 3rd person, masculine, plural) | Qal 1 |
+| בְּנֵ֤י | sons of | בֵּן |  | noun (common, masculine, plural, construct) | 1 |
+| הָֽאֱלֹהִים֙ | the rulers | ה: the + אֱלֹהִים | אלה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| אֶל | to | אֶל |  | preposition | 1 |
+| בְּנ֣וֹת | daughters of | בַּת |  | noun (common, feminine, plural, construct) | 1 |
+| הָֽאָדָ֔ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| וְיָלְד֖וּ | and they bore — weqatal continuing the iterative yiqtol | ו: and + יָלַד | ילד | conjunction + verb (qal, sequential perfect (weqatal), 3rd person, common, plural) | Qal 1 |
+| לָהֶ֑ם | to them | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, plural) |  |
+| הֵ֧מָּה | they | הֵ֫מָּה |  | pronoun (personal, 3rd person, masculine, plural) |  |
+| הַגִּבֹּרִ֛ים | the warriors | ה: the + גִּבּוֹר | גבר | particle (definite article) + adjective (adjective, masculine, plural, absolute) |  |
+| אֲשֶׁ֥ר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| מֵעוֹלָ֖ם | from of old | מ: from, than + עוֹלָם | עלם | preposition + noun (common, masculine, singular, absolute) |  |
+| אַנְשֵׁ֥י | men of | אִישׁ | אישׁ | noun (common, masculine, plural, construct) |  |
+| הַשֵּֽׁם׃ | the name | ה: the + שֵׁם |  | particle (definite article) + noun (common, masculine, singular, absolute) | 2.b |
+
+Grammar:
+
+- הַנְּפִלִים: Rashi says that in Hebrew the word means 'giants' (עֲנָקִים), and gives a reason for the name: they fell and made the world fall. Ibn Ezra and Radak: the heart of one who sees them falls, astonished at their height.
+- יָבֹאוּ is a yiqtol after אֲשֶׁר that, with the weqatal וְיָלְדוּ, expresses repeated action: 'whenever they came ... and bore'.
+- הֵמָּה הַגִּבֹּרִים is a verbless clause: the pronoun הֵמָּה ('they') is the subject and הַגִּבֹּרִים the predicate. The darga on הֵמָּה is conjunctive and binds it to the next word; the tevir on הַגִּבֹּרִים is disjunctive.
+- מֵעוֹלָם: 'from of old', from long ago; אַנְשֵׁי הַשֵּׁם: 'men of the name', men of fame.
+
+Note: הַנְּפִלִים is rendered 'giants': Rashi says this is the word's meaning in Hebrew (לְשׁוֹן עֲנָקִים), Ibn Ezra and Radak explain the name by their height, and the lexicon gives 'giants'; the transliteration 'Nephilim' is given in the token note. וְגַם אַחֲרֵי כֵן: Rashi 'afterward', even though they had seen the destruction of the generation of Enosh; Ibn Ezra 'after the Flood'. The English 'and also afterward' keeps both. הַגִּבֹּרִים are 'warriors' (mighty men); Rashi adds 'to rebel against God'. אַנְשֵׁי הַשֵּׁם: Rashi gives two midrashic readings: the men designated by names that speak of destruction (Irad, Mehujael, Methushael), and 'men of desolation' (שִׁמָּמוֹן). The English 'men of renown' follows Radak (they had a name in the mouths of later generations) and Onkelos (אֱנָשִׁין דִּשְׁמָא); Rashi's readings are recorded. The lexicon lists a single sense for the Nephilim entry, which is not a path; the sense is therefore omitted below.
+
+Commentary:
+
+- Rashi (follows): Rashi: they are called נְפִלִים because they fell and made the world fall; in Hebrew the word means giants (עֲנָקִים). The English follows.
+- Rashi (records): Rashi: 'in those days' means the days of the generation of Enosh and the sons of Cain.
+- Rashi (follows): Rashi: even though they saw the destruction of the generation of Enosh (the ocean rose and flooded a third of the world), the Flood generation did not learn. The English 'and also afterward' leaves open the event.
+- Rashi (follows): Rashi: they bore giants like themselves.
+- Rashi (records): Rashi: הגבורים 'to rebel against the Almighty'. The English keeps the neutral 'warriors'.
+- Rashi (records): Rashi: אנשי השם are those designated by names that speak of destruction, Irad, Mehujael, Methushael, for they were blotted out (נִמֹּחוּ) and uprooted (הֻתְּשׁוּ); another reading: אַנְשֵׁי שִׁמָּמוֹן, 'men of desolation', who laid the world waste. The English 'men of renown' follows Radak and Onkelos, not Rashi.
+- Ibn Ezra (follows): Ibn Ezra: נְפִילִים means that the heart of one who sees them falls, in wonder at their height. The English 'giants' follows.
+- Ibn Ezra (records): Ibn Ezra: אחרי כן means after the Flood; the sons of Anak were from the family of the sons of God.
+- Ramban (records): Ramban: Rashi's reason for the name, and the grammarians' (Ibn Ezra, Radak) 'because man's heart falls from fear', cf. האימים (Gn 14:5).
+- Ramban (records): Ramban cites Rashi on 'those days', and Ibn Ezra on 'after the Flood', and proposes his own view that the sons of God are Adam, Seth and Enosh and their descendants.
+- Radak (not-applicable): Radak: the verse is connected with 'from all that they chose' above.
+- Radak (follows): Radak: the Nephilim are the giants, very tall; the name means the viewer falls from astonishment.
+- Radak (records): Radak: the Nephilim were sons of the great, and the children begotten by such were like them in quality and quantity.
+- Radak (follows): Radak: 'who were of old' means they were spoken of by later generations.
+- Radak (follows): Radak: 'men of the name' means they had a name in the mouths of later generations.
+
+Apparatus:
+
+- Onkelos: גִּבָּרַיָּא הֲווֹ בְאַרְעָא בְּיוֹמַיָּא הָאִנּוּן, 'the mighty ones were in the land in those days', rendering נפלים as גבריא; and 'sons of the nobles' for בני האלהים.
+- אַחֲרֵי כֵן: after the destruction of Enosh's generation (Rashi) or after the Flood (Ibn Ezra, Ramban's report); kept open.
+- The paragraph mark פ follows this verse.
 
 #### Genesis 6:5
 
 > וַיַּ֣רְא יְהֹוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכׇל־יֵ֙צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ רַ֥ק רַ֖ע כׇּל־הַיּֽוֹם׃
 
-_Not yet translated._
+**The LORD saw that the evil of the human was great on the earth, and every inclination of the thoughts of his heart was only evil all day long.**
+
+Literal: and-saw the-LORD that great evil-of the-human in-the-earth and-every formation-of thoughts-of his-heart only evil all-the-day
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיַּ֣רְא | and saw — wayyiqtol: narrative past, 'and he saw' | ו: and + רָאָה | ראה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1.a |
+| יְהֹוָ֔ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| כִּ֥י | that — introduces what was seen | כִּי |  | conjunction | 1 |
+| רַבָּ֛ה | great — feminine to agree with רָעָה | רַב | רבב | adjective (adjective, feminine, singular, absolute) | 2 |
+| רָעַ֥ת | evil of — construct state: 'the evil of' | רָעָה | רעע | noun (common, feminine, singular, construct) | 3 |
+| הָאָדָ֖ם | the human — with the article: 'the human', as in decisions | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| בָּאָ֑רֶץ | in the earth | ב: in, with, by + אֶ֫רֶץ | ארץ | preposition (with definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וְכׇל | and every | ו: and + כֹּל | כלל | conjunction + noun (common, masculine, singular, construct) | 1 |
+| יֵ֙צֶר֙ | inclination of — from יצר 'to form, shape': here the shaping of the mind, 'inclination, purpose'; construct state. The entry lists only the sense 'pottery', which does not fit, so no sense is given. | יֵ֫צֶר | יצר | noun (common, masculine, singular, construct) |  |
+| מַחְשְׁבֹ֣ת | thoughts of — construct plural: 'thoughts of' | מַחֲשָׁבָה | חשׁב | noun (common, feminine, plural, construct) | 1 |
+| לִבּ֔וֹ | his heart — heart as the seat of will and inclination | לֵב | לבב | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | II.4 |
+| רַ֥ק | only | רַק | רקק | particle (affirmation) | 2 |
+| רַ֖ע | evil — predicate adjective | רַע | רעע | adjective (adjective, masculine, singular, absolute) | 10 |
+| כׇּל | all of | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| הַיּֽוֹם׃ | the day — 'all the day' means all day long, continually | ה: the + יוֹם |  | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+
+Grammar:
+
+- וַיַּרְא is a wayyiqtol; כִּי introduces the object clause: what the LORD saw.
+- רַבָּה רָעַת הָאָדָם: the predicate adjective comes first, and the verb 'to be' is not written. רָעַת is the construct of רָעָה.
+- וְכׇל־יֵצֶר מַחְשְׁבֹת לִבּוֹ is a chain of constructs (every / inclination / of thoughts / of his heart) with no verb; רַק רַע is its predicate.
+- The etnaḥta on בָּאָרֶץ divides the verse: the evil on the earth, and then the inward cause.
+
+Note: יֵצֶר is from יצר 'to form, shape'; Radak takes it as the desire of the heart's thinking, which forms and works out matters within the heart. The English 'inclination' follows that. הָאָדָם is 'the human', mankind generally (a collective), per decisions.
+
+Commentary:
+
+- Radak (follows): Radak: of the two inclinations in a person's heart, one good and one bad, here all was bad; the desire of the heart's thought is called יֵצֶר because the heart forms and works things out within itself.
+- Sforno (not-applicable): Sforno: כִּי רַבָּה רָעַת הָאָדָם refers to the past (לְשֶׁעָבַר), and the next clause to the future; this bears on tense reading, not on the English words.
+
+Apparatus:
+
+- Onkelos renders the verse closely: 'and every inclination of the thoughts of his heart was only evil all day' (יִצְרָא מַחְשְׁבַת לִבֵּהּ לְחוֹד בִּישׁ כָּל יוֹמָא).
 
 #### Genesis 6:6
 
 > וַיִּנָּ֣חֶם יְהֹוָ֔ה כִּֽי־עָשָׂ֥ה אֶת־הָֽאָדָ֖ם בָּאָ֑רֶץ וַיִּתְעַצֵּ֖ב אֶל־לִבּֽוֹ׃
 
-_Not yet translated._
+**The LORD regretted that he had made the human on the earth, and was grieved in his heart.**
+
+Literal: and-regretted the-LORD that-made [object-mark] the-human in-the-earth and-grieved-himself to his-heart
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּנָּ֣חֶם | and regretted — Niphal wayyiqtol of נחם: 'be sorry, rue' | ו: and + נָחַם | נחם | conjunction + verb (nifal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Niph 2 |
+| יְהֹוָ֔ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| כִּֽי | that | כִּי |  | conjunction | 1 |
+| עָשָׂ֥ה | he made — perfect, anterior to the regret: 'he had made' | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal II.1 |
+| אֶת | [object marker] — marks the definite direct object | אֵת | אות | particle (direct object marker) |  |
+| הָֽאָדָ֖ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| בָּאָ֑רֶץ | on the earth | ב: in, with, by + אֶ֫רֶץ | ארץ | preposition (with definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| וַיִּתְעַצֵּ֖ב | and was grieved — Hithpael wayyiqtol: 'was pained'; the lexicon has only a single Hithp sense | ו: and + עָצַב | עצב | conjunction + verb (hitpael, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hithp |
+| אֶל | to | אֶל |  | preposition | 1 |
+| לִבּֽוֹ׃ | his heart — construct form with 3rd masculine singular suffix; אֶל־לִבּוֹ 'to/in his heart' | לֵב | לבב | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | II.9 |
+
+Grammar:
+
+- וַיִּנָּחֶם is a Niphal wayyiqtol; the stem is reflexive-passive, 'he let himself be sorry'.
+- וַיִּתְעַצֵּב is a Hithpael wayyiqtol, 'he pained himself'; it is the counterpart of the Niphal verb before it.
+- אֶל־לִבּוֹ: the phrase is literally 'to his heart', the inward place of thought and feeling.
+- The etnaḥta on בָּאָרֶץ divides the verse: the regret over the making, and then the grief.
+
+Note: The two verbs speak of God in human terms. Ibn Ezra, Radak and Ramban all say the Torah speaks in human language, so the English keeps the verbs plain ('regretted', 'was grieved'). Rashi reads otherwise: first, וַיִּנָּחֶם as consolation (it comforted God that man was made among the lower beings); then, as a change of thought from mercy to judgment, 'he considered what to do'. Both Rashi readings are recorded. בָּאָרֶץ (on the earth) modifies the making: Radak reads it as made of earth.
+
+Commentary:
+
+- Rashi (records): Rashi: נֶחָמָה here is consolation: it was a comfort before God that he had created man among the lower beings, for had he been one of the upper beings he would have led them to rebel. On this reading וַיִּנָּחֶם means 'was consoled', not 'regretted'; the English follows Ibn Ezra's 'regretted' (in human language) and keeps this reading here.
+- Rashi (records): Rashi, after Onkelos: 'it arose in the thought of the Place to grieve him' (the object is the human), and another reading: his thought turned from mercy to judgment, as every נִחוּם in Scripture means 'he took counsel what to do'. The English keeps 'regretted' and 'was grieved'; this alternative is kept here.
+- Rashi (follows): Rashi: he mourned the loss of the work of his hands, as in 'the king was grieved (נֶעֱצַב) over his son'; the narrative of R. Joshua ben Korha shows that God's foreknowledge does not remove the grief.
+- Ibn Ezra (follows): Ibn Ezra: it is known that God is not a man that he should regret (1 Sam 15:29); the Torah speaks in human language, for one who destroys what he has made appears to feel both (regret and grief).
+- Ibn Ezra (follows): Ibn Ezra: וַיִּתְעַצֵּב אֶל לִבּוֹ is the opposite of 'the LORD rejoices in his works' (Ps 104:31); he also rejects the view that 'his heart' means the prophet, for then the text would not say אֶל after the verb.
+- Radak (records): Radak: בָּאָרֶץ means man mixed with the products of the earth, whose body is all earthly, unlike the heavenly image of God; this is why God did not regret making Noah.
+
+Apparatus:
+
+- Onkelos: 'the LORD turned in his Memra because he made man on the earth, and said in his Memra to break their strength as his will' (a paraphrase that avoids saying God regretted).
 
 #### Genesis 6:7
 
 > וַיֹּ֣אמֶר יְהֹוָ֗ה אֶמְחֶ֨ה אֶת־הָאָדָ֤ם אֲשֶׁר־בָּרָ֙אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙ עַד־בְּהֵמָ֔ה עַד־רֶ֖מֶשׂ וְעַד־ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם׃
 
-_Not yet translated._
+**The LORD said, "I will wipe out the human whom I created from the face of the ground, from human to beast, to creeping thing, and to the birds of the sky, for I regret that I made them."**
+
+Literal: and-said the-LORD I-will-wipe-out [object-mark] the-human whom I-created from-upon faces-of the-ground from-human until beast until creeping-thing and-until bird-of the-heavens that I-regret that I-made-them
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֣אמֶר | and said — wayyiqtol; Ibn Ezra asks to whom: 'to his heart', to angels, or to Noah | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| יְהֹוָ֗ה | the LORD | יהוה | הוה | noun (proper name) |  |
+| אֶמְחֶ֨ה | I will wipe out — imperfect, 1st person; Rashi: from the 'wiping' of dust, 'blot out' | מָחָה | מחה | verb (qal, imperfect (yiqtol), 1st person, common, singular) | Qal 3 |
+| אֶת | [object marker] — marks the definite direct object | אֵת | אות | particle (direct object marker) |  |
+| הָאָדָ֤ם | the human | ה: the + אָדָם | אדם | particle (definite article) + noun (common, masculine, singular, absolute) | 2 |
+| אֲשֶׁר | whom | אֲשֶׁר | אשׁר | particle (relative) |  |
+| בָּרָ֙אתִי֙ | I created — perfect | בָּרָא | ברא | verb (qal, perfect (qatal), 1st person, common, singular) | Qal |
+| מֵעַל֙ | from upon — compound preposition מֵעַל, 'from on top of' | מ: from, than + עַל | עלה | preposition + preposition | IV.2 |
+| פְּנֵ֣י | the face of — construct plural, 'surface of' | פָּנֶה | פנה | noun (common, both genders, plural, construct) | I.5 |
+| הָֽאֲדָמָ֔ה | the ground | ה: the + אֲדָמָה | אדם | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| מֵֽאָדָם֙ | from human — here without the article; 'from human to beast' | מ: from, than + אָדָם | אדם | preposition + noun (common, masculine, singular, absolute) | 2 |
+| עַד | to — עַד marks the limit: 'up to' | עַד | עדה | preposition | II.3 |
+| בְּהֵמָ֔ה | beast — 'animal, livestock' | בְּהֵמָה | בהם | noun (common, feminine, singular, absolute) | 3 |
+| עַד | to | עַד | עדה | preposition | II.3 |
+| רֶ֖מֶשׂ | creeping thing — the sort of small animal that moves along the ground | רֶ֫מֶשׂ | רמשׂ | noun (common, masculine, singular, absolute) |  |
+| וְעַד | and to | ו: and + עַד | עדה | conjunction + preposition | II.3 |
+| ע֣וֹף | birds of — construct state | עוֹף | עוף | noun (common, masculine, singular, construct) | 1 |
+| הַשָּׁמָ֑יִם | the sky — plural-form noun, 'the heavens' | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| כִּ֥י | for | כִּי |  | conjunction | 3 |
+| נִחַ֖מְתִּי | I regret — Niphal perfect, 1st singular | נָחַם | נחם | verb (nifal, perfect (qatal), 1st person, common, singular) | Niph 2 |
+| כִּ֥י | that | כִּי |  | conjunction | 1 |
+| עֲשִׂיתִֽם׃ | I made them — perfect with 3rd masculine plural suffix; the object is the human, collectively | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 1st person, common, singular) + suffix (pronominal, 3rd person, masculine, plural) | Qal II.1 |
+
+Grammar:
+
+- אֶמְחֶה is a first-person imperfect of מחה, 'wipe', and states a resolve; Rashi reads the verb as fitting dust, which water wipes out.
+- The list מֵאָדָם עַד־בְּהֵמָה עַד־רֶמֶשׂ וְעַד־עוֹף הַשָּׁמָיִם uses עַד for the limits of what is destroyed; the last item takes וְ.
+- The two clauses with כִּי form a pair: כִּי נִחַמְתִּי (Niphal) and כִּי עֲשִׂיתִם (Qal), so the regret is tied to the making.
+- The etnaḥta on הַשָּׁמָיִם divides the verse: the decree, and then the reason.
+
+Note: The speech is addressed to no one stated. Ibn Ezra's own view is that it is joined to 'his heart' of verse 6 (the speech is inward), and Radak allows 'to Noah'; the English gives the bare 'said'. אֶת־הָאָדָם is 'the human' (mankind), per decisions. 'Whom I created' uses בָּרָא, the verb of Genesis 1, which the lexicon lists as Qal.
+
+Commentary:
+
+- Rashi (follows): Rashi: man is dust and God will bring water on him and wipe him out; this is why the verb is of 'wiping' (מִחוּי), which suits that image.
+- Rashi (records): Rashi: the animals also corrupted their ways (Genesis Rabbah); another reading: everything was made for man, and with him gone what need is there for them. The English gives the plain list and records both reasons.
+- Rashi (records): Rashi: כִּי נִחַמְתִּי means 'I have thought what to do about what I made', i.e. נִחוּם as a change of thought. The English keeps the plainer 'I regret'.
+- Ibn Ezra (follows): Ibn Ezra: וַיֹּאמֶר is said 'to his heart', or to the angels; some say to Noah; the correct view in his eyes is that it is joined to 'his heart' written above. The English leaves the addressee unstated.
+- Radak (not-applicable): Radak: 'the human' and not every person, since Noah and his sons remained; Genesis Rabbah on why water: the human was made only from dust, and only water wipes dust out.
+
+Apparatus:
+
+- Onkelos: אֲרֵי תָבִית בְּמֵימְרִי 'for I have turned in my Memra' replaces 'I regret'.
 
 #### Genesis 6:8
 
 > וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהֹוָֽה׃
 
-_Not yet translated._
+**But Noah found favor in the eyes of the LORD.**
+
+Literal: and-Noah found favor in-eyes-of the-LORD
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְנֹ֕חַ | and Noah — the vav contrasts Noah with the human of the previous verse | ו: and + נֹחַ | נוח | conjunction + noun (proper name) |  |
+| מָ֥צָא | found — perfect, 3rd masculine singular, in a clause that begins with the subject | מָצָא | מצא | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| חֵ֖ן | favor — 'favor, acceptance' | חֵן | חנן | noun (common, masculine, singular, absolute) | 2 |
+| בְּעֵינֵ֥י | in the eyes of — idiom: 'in the eyes of' means 'in the opinion of' | ב: in, with, by + עַ֫יִן | עין | preposition + noun (common, both genders, dual, construct) | 5 |
+| יְהֹוָֽה׃ | the LORD | יהוה | הוה | noun (proper name) |  |
+
+Grammar:
+
+- וְנֹחַ מָצָא: the subject comes before the verb, so the clause is a contrast with the preceding judgment; hence 'But'.
+- מָצָא חֵן בְּעֵינֵי is an idiom for 'was acceptable to', literally 'found favor in the eyes of'.
+- The zaqef gadol on נֹחַ marks Noah as the subject standing apart, and the silluq closes the paragraph (פ).
+
+Note: The vav is rendered 'But', following the contrast. The lexicon's עַיִן senses list 5 for 'in the presence of', which is the idiom's sense; the sense 2.b etc. are for other uses.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: חֵן is from the root of 'mercy', and so תַּחֲנָה; the sense of 'finding favor' is like 'no eye had pity on you' (Ezekiel 16:5).
+- Ramban (not-applicable): Ramban: all his deeds were pleasing before God, and this is set against the generation whose deeds caused grief; the next verse then says why.
+- Sforno (not-applicable): Sforno: Noah's children were saved by favor, not desert, since he did not teach his generation to know God.
 
 ## Noach — נֹחַ (Genesis 6:9–11:32)
 
@@ -13662,5 +18148,5 @@ Apparatus:
 - Commentary: Radak, Sefaria version “Vocalized Edition”.
 - Commentary: Targum Onkelos, Sefaria version “Sifsei Chachomim Chumash, Metsudah Publications, 2009”.
 - Commentary: Sforno, Sefaria version “Vocalized Edition”.
-- Translation: sonnet, reviewed by opus — 45 units.
+- Translation: sonnet, reviewed by opus — 62 units.
 - Fetched sources, with dates and SHA-256: `works/genesis/raw/manifest.json`.
