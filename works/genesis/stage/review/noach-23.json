@@ -1,0 +1,257 @@
+{
+ "unit": "noach-23",
+ "model": "opus",
+ "summary": "The English of all seven verses is accurate, and it agrees with Rashi on עַל־פְּנֵי (11:28), on וַיֵּצְאוּ אִתָּם (11:31) and on the chronology of 11:32. The faults are in the analysis and the rulings. Several senses were filled mechanically or wrongly: לקח 'take in hand' for taking wives, הָיָה 'become' for 'was', הָלַךְ 'live, walk' for 'to go', temporal עַד for spatial, and מֵאָה 'hundredth' for מָאתַיִם; one required sense was missing. Six commentary summaries misstate the comment: Ibn Ezra at 11:26 and 11:29, Ramban on Haran's birthplace, Radak on the name Ur and on the 'wrapped' nun, and Rashi's 'she saw by the holy spirit'. Ibn Ezra's 'in his father's sight' was wrongly marked as followed. Three learner notes were wrong: stress retraction in וַיְחִי, the word order of 11:28, and a false ambiguity in 11:29.",
+ "patches": [
+  {
+   "ref": "11:26",
+   "path": "grammar",
+   "value": [
+    "The wayyiqtol וַיְחִי־ is the short form of יִחְיֶה: the III-he verb drops its final ־ֶה after the wayyiqtol prefix. It carries the narrative on from the preceding genealogy.",
+    "שִׁבְעִים שָׁנָה: seventy takes a singular noun; the etnaḥta on שָׁנָה ends the first half of the verse.",
+    "וַיּוֹלֶד is the Hifil wayyiqtol of ילד, 'he caused to bear', that is, 'he fathered'.",
+    "The three sons are listed with אֶת־ before each; the order does not say who was eldest, and the verse does not date the births of Nahor and Haran."
+   ],
+   "severity": "error",
+   "reason": "The first note said וַיְחִי has 'the stress drawn back'. It does not: the short form יְחִי (from יִחְיֶה) loses its final ־ֶה and keeps the stress on its last syllable. Retraction of stress belongs to forms like וַיָּמׇת (11:28). Other notes unchanged."
+  },
+  {
+   "ref": "11:26",
+   "path": "commentary:ibn-ezra:11:26:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Ibn Ezra: Abram was born in the place called Ur Kasdim (compare בָּאֻרִים, Isaiah 24:15). Most likely the place had another name then, since the Chaldeans (כַּשְׂדִּים) descend from Nahor, Abram's brother; Moses wrote the name known in his own day. The proof that Abram was born there is that Haran his brother died there, in 'the land of his birth'. Or Ur may be a fire (אוּר) the Chaldeans made at that place, as in 'whose fire is in Zion' (Isaiah 31:9)."
+   },
+   "severity": "error",
+   "reason": "The summary made the Chaldeans' descent from Nahor the reason Abram was born in Ur; Ibn Ezra gives it as the reason the place probably had another name in Abram's time. It also left out his second reading of אוּר as 'fire'. The comment concerns Abram's birthplace and the name Ur, which 11:26 does not mention, so the relation is not-applicable rather than follows."
+  },
+  {
+   "ref": "11:28",
+   "path": "grammar",
+   "value": [
+    "עַל־פְּנֵי is an idiom: 'in the presence of', so 'during his life'; cf. Numbers 3:4 where Nadab and Abihu die עַל־פְּנֵי אַהֲרֹן.",
+    "The etnaḥta on אָבִיו marks the main division: the death and its time are set apart from the place.",
+    "מוֹלַדְתּוֹ is a noun with a suffix, 'his kindred' or 'his birth'; it names the place of birth, 'the land of his birth'.",
+    "The verb comes first, as in every wayyiqtol clause (וַיָּמׇת הָרָן, 'and-died Haran'); the English puts the subject first. וַיָּמׇת is the short Qal wayyiqtol of the hollow root מות: the stress moves back to the prefix (the munaḥ on יָּ) and the last vowel shortens to qamets ḥatuf, against the long form יָמוּת."
+   ],
+   "severity": "error",
+   "reason": "The last note said the English places Haran first 'as the Hebrew does'. The Hebrew has the verb first (וַיָּמׇת הָרָן). The note now states the word order correctly and explains the short wayyiqtol form."
+  },
+  {
+   "ref": "11:28",
+   "path": "note",
+   "value": "The English follows Rashi, who takes עַל־פְּנֵי as 'in the lifetime of' his father (so Radak, citing Numbers 3:4). Ibn Ezra reads 'before his father', who saw him die; that reading is recorded. The midrash that Haran died by his father's doing (Rashi) is recorded, not adopted. 'Ur' is a proper name here; Menahem's reading 'valley' and the midrash's 'fire' are recorded in the commentary.",
+   "severity": "error",
+   "reason": "The note said Ibn Ezra takes עַל־פְּנֵי as 'in the lifetime of'. He says 'before his father, who watched him die' (לפני אביו שמת ואביו רואה). That is a different nuance, which the English does not carry."
+  },
+  {
+   "ref": "11:28",
+   "path": "commentary:ibn-ezra:11:28:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: עַל פְּנֵי means 'before (לִפְנֵי) his father': Haran died while his father looked on, as in Numbers 3:4, עַל פְּנֵי אַהֲרֹן אֲבִיהֶם. The English 'in the lifetime of' follows Rashi; Ibn Ezra's 'in his father's sight' is recorded."
+   },
+   "severity": "error",
+   "reason": "The ruling said the English follows Ibn Ezra. The English 'in the lifetime of' is Rashi's בְּחַיֵּי אָבִיו. Ibn Ezra's reading is that the father saw the death. The two are compatible, but the English adopts Rashi's, so Ibn Ezra's is recorded."
+  },
+  {
+   "ref": "11:28",
+   "path": "commentary:ramban:11:28:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ramban: he cites Rashi's midrash of the furnace and holds the tradition true, with אוּר as 'fire'. But Abraham was not born in Chaldea. Terah's family was from Aram, across the River (Joshua 24:2-3), where Abram and Nahor were born; Terah then went to Chaldea, where his youngest son Haran was born. So 'the land of his birth, Ur of the Chaldeans' is Haran's birthplace alone. In Ur, Abram was saved by a miracle, either hidden or open (the furnace); 15:7 'who brought you out of Ur' implies it."
+   },
+   "severity": "error",
+   "reason": "The summary said Ramban takes 'the land of his birth' as Aram, not Ur. Ramban says the opposite for this verse: Ur of the Chaldeans was Haran's birthplace, and only Abram and Nahor were born in Aram. It also left out that Ramban accepts the rabbis' tradition."
+  },
+  {
+   "ref": "11:28",
+   "path": "commentary:radak:11:28:4",
+   "value": {
+    "relation": "records",
+    "summary": "Radak: the place is called Ur of the Chaldeans by the name it bears 'today', in the writer's time. In Haran's time Kesed, whose sons were called Chaldeans, had not yet been born."
+   },
+   "severity": "error",
+   "reason": "'Called Ur of the Chaldeans in his own day' implied that the name was in use in Haran's day. Radak says the opposite (שֶׁהַיּוֹם נִקְרָא): the name is the later one, because Kesed was not yet born."
+  },
+  {
+   "ref": "11:29",
+   "path": "token:11:29.1.sense",
+   "value": "Qal 4",
+   "severity": "error",
+   "reason": "Qal 1 is 'take in hand'. Taking a wife belongs to BDB's Qal 4 ('take to or for a person ... take in marriage'), the sense here with לָהֶם נָשִׁים."
+  },
+  {
+   "ref": "11:29",
+   "path": "grammar",
+   "value": [
+    "The verb וַיִּקַּח is singular though it has two subjects, because it agrees with the nearer one, Abram; Radak compares Exodus 7:10.",
+    "נָשִׁים is the irregular plural of אִשָּׁה; the root listed is אנש.",
+    "שֵׁם אֵשֶׁת־אַבְרָם שָׂרָי: the construct chain 'the name of the wife of Abram' is followed by the name in apposition.",
+    "בַּת־הָרָן אֲבִי־מִלְכָּה וַאֲבִי יִסְכָּה: 'father of Milcah and father of Iscah' stands in apposition to הָרָן, bound to it by the conjunctive merkha on הָרָן; the English opens it with 'who was'. Radak explains why 'father of' follows 'daughter of': 11:27 named only Lot as Haran's child, so the verse adds that Haran also fathered Milcah and Iscah."
+   ],
+   "severity": "error",
+   "reason": "The last note said the Hebrew leaves open whether Milcah or Haran is the subject of a 'relative clause'. The Hebrew has no relative clause, and there is no such ambiguity: 'father of Milcah' can only describe Haran. The words are in apposition to הָרָן, and the conjunctive merkha joins them to it."
+  },
+  {
+   "ref": "11:29",
+   "path": "commentary:rashi:11:29:1",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: Iscah is Sarah, so called because she saw (סוֹכָה) by the holy spirit and because all gazed (סוֹכִין) at her beauty; also יִסְכָּה speaks of princeliness (נְסִיכוּת), as שָׂרָה speaks of rule (שְׂרָרָה). The English keeps the name Iscah and records the identification."
+   },
+   "severity": "error",
+   "reason": "שֶׁסּוֹכָה בְּרוּחַ הַקֹּדֶשׁ is active: she saw, foresaw, by the holy spirit. The summary had 'she was seen by the holy spirit'."
+  },
+  {
+   "ref": "11:29",
+   "path": "commentary:ibn-ezra:11:29:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: Nahor's wife is named to give the descent of Rebecca, Rachel and Leah. The ancients said Iscah is Sarah; if that is a tradition, we accept it. Those who say Abraham, not Sarah, was barren contradict the text (Ishmael, Keturah's sons). He rejects the view that Sarah was Abram's sister. He also doubts she was Lot's sister, for then 11:31 would call her Terah's daughter, or his son's daughter as it does Lot. His own view is that the call of 12:1 came before 'Terah took' (11:31), since the Torah is not always in chronological order; so Terah set out 'to go to the land of Canaan', then liked Haran, settled there and died. The English leaves the identification open."
+   },
+   "severity": "error",
+   "reason": "The summary left out two of Ibn Ezra's points. He argues against Sarai being Haran's daughter (Lot's sister), which is the identification Iscah = Sarah. His main ruling on the plain sense is that 12:1 precedes 11:31 in time."
+  },
+  {
+   "ref": "11:30",
+   "path": "token:11:30.1.sense",
+   "value": "Qal III",
+   "severity": "error",
+   "reason": "The gloss and the English are 'was' (barren). Qal II.2 is 'become'. Sarai's barrenness is a state (Radak: she was barren by nature), so the sense is Qal III, 'be'."
+  },
+  {
+   "ref": "11:30",
+   "path": "token:11:30.6.note",
+   "value": "the ו of וָלָד is a root letter, the original first radical of ילד (*wld), not the conjunction 'and'",
+   "severity": "style",
+   "reason": "A learner will take the initial ו for the conjunction. It is the original first radical of the root."
+  },
+  {
+   "ref": "11:31",
+   "path": "literal",
+   "value": "and-took Terah [obj]-Abram his-son and-[obj]-Lot son-of Haran son-of his-son and-[obj]-Sarai his-daughter-in-law wife-of Abram his-son and-went-out with-them from-Ur Chaldeans to-go land-ward Canaan and-came as-far-as Haran and-settled there",
+   "severity": "error",
+   "reason": "The literal line dropped a word: בֶּן־בְּנוֹ was given as 'son-of-his' instead of 'son-of his-son'. It also rendered אַרְצָה as 'toward' without 'land', and hyphenated 'up-to-Haran' as if עַד and חָרָן were one word."
+  },
+  {
+   "ref": "11:31",
+   "path": "token:11:31.22.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Qal II.2 is 'live, walk' (manner of life). לָלֶכֶת here is 'to go' toward Canaan. The pack's entry lists no Qal sense 'go', so the sense is removed."
+  },
+  {
+   "ref": "11:31",
+   "path": "token:11:31.22.note",
+   "value": "infinitive construct of הלך with ל, 'to go'; it is formed like a I-yod verb (לֶכֶת, like שֶׁבֶת from ישב), though the root is הלך. The pack's entry lists no Qal sense 'go', so no sense is given.",
+   "severity": "error",
+   "reason": "The note said the word is 'from the root ילך', which contradicts the pack's root הלך. Only the form follows the I-yod pattern. The note also explains the removed sense."
+  },
+  {
+   "ref": "11:31",
+   "path": "token:11:31.23.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "אֶרֶץ is a noun whose entry lists senses, and the brief requires one. Here it is 'land' (of Canaan): sense 2."
+  },
+  {
+   "ref": "11:31",
+   "path": "token:11:31.26.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "II.1 is temporal 'until'. עַד־חָרָן is spatial, 'as far as Haran'. The pack lists only the temporal senses of the entry, so the sense is removed."
+  },
+  {
+   "ref": "11:31",
+   "path": "token:11:31.26.note",
+   "value": "spatial עַד, 'as far as'. The pack lists only the temporal senses of the entry (II, 'until', 'while'), so no sense is given.",
+   "severity": "error",
+   "reason": "Explains the removed sense, as the brief requires."
+  },
+  {
+   "ref": "11:31",
+   "path": "token:11:31.27.note",
+   "value": "the city Haran, spelled with ח; not the man הָרָן (with ה) of 11:26-29, though English writes both 'Haran'",
+   "severity": "style",
+   "reason": "English writes both names 'Haran'. A learner needs to know they are different words."
+  },
+  {
+   "ref": "11:31",
+   "path": "note",
+   "value": "Rashi reads וַיֵּצְאוּ אִתָּם as 'Terah and Abram went out with Lot and Sarai'; the English follows, with 'they' for the group and 'with them' kept in the line. 'Settled' follows Qal 3 of יָשַׁב. The pack's entry for הָלַךְ lists no Qal sense 'go', and the entry for עַד lists only its temporal senses, so no sense is given for לָלֶכֶת or for the spatial עַד.",
+   "severity": "error",
+   "reason": "The note said the nearest listed sense was given for לָלֶכֶת. That sense ('live, walk') was wrong and has been removed; the note now says so."
+  },
+  {
+   "ref": "11:32",
+   "path": "token:11:32.6.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 3 is 'hundredth', an ordinal. מָאתַיִם is the dual, 'two hundred'. No listed sense fits, so the sense is removed."
+  },
+  {
+   "ref": "11:32",
+   "path": "token:11:32.6.note",
+   "value": "dual of מֵאָה, 'two hundred'. The pack's entry lists only the sense 'hundredth', which does not fit, so no sense is given.",
+   "severity": "error",
+   "reason": "Explains the removed sense."
+  },
+  {
+   "ref": "11:32",
+   "path": "commentary:radak:11:32:3",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Radak (continuing his previous comment, which ends 'and the nun of'): the nun of חָרָן is written 'wrapped' (מְלֻפֶּפֶת), that is, inverted. The sages drew from it that God killed Terah in wrath (חֲרוֹן אַף) because he did not repent; another midrash says he did repent, from 15:15 'you shall come to your fathers in peace'."
+   },
+   "severity": "error",
+   "reason": "The anchoring split one sentence across 11:32:2 and 11:32:3: וְנוּ״ן מֵ|חָרָן מְלֻפֶּפֶת, 'the nun of Haran is wrapped'. Radak speaks of the shape of the letter. He does not say the name חָרָן means 'wrapped'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:11:26:1",
+   "verdict": "not-applicable",
+   "comment": "Concerns Abram's birthplace and the name Ur, which 11:26 does not mention."
+  },
+  {
+   "anchor": "rashi:11:28:1",
+   "verdict": "consistent",
+   "comment": "'in the lifetime of his father' is Rashi's בְּחַיֵּי אָבִיו."
+  },
+  {
+   "anchor": "ibn-ezra:11:28:1",
+   "verdict": "consistent",
+   "comment": "'In his father's sight' is compatible with 'in the lifetime of'; it is recorded."
+  },
+  {
+   "anchor": "rashi:11:29:1",
+   "verdict": "consistent",
+   "comment": "The identification Iscah = Sarah does not change the English list of names."
+  },
+  {
+   "anchor": "ibn-ezra:11:29:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:31:1",
+   "verdict": "consistent",
+   "comment": "'they went out with them' keeps Rashi's Terah and Abram with Lot and Sarai."
+  },
+  {
+   "anchor": "rashi:11:32:1",
+   "verdict": "consistent",
+   "comment": "The English keeps the verse's order and records the chronology."
+  },
+  {
+   "anchor": "rashi:11:32:2",
+   "verdict": "not-applicable",
+   "comment": "An opening parenthesis only."
+  },
+  {
+   "anchor": "rashi:11:32:3",
+   "verdict": "not-applicable",
+   "comment": "The inverted nun; a homily, not the plain sense."
+  }
+ ]
+}

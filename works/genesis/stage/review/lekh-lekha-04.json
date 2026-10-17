@@ -1,0 +1,370 @@
+{
+ "unit": "lekh-lekha-04",
+ "model": "opus",
+ "summary": "The English of all eight verses is accurate and follows Rashi and Ibn Ezra; no English line needed a patch. The faults are in the apparatus: several senses were filled mechanically (13:7.1, 13:10.4, 13:10.24, 13:12.9, 13:12.10) and two were missing (13:9.4, 13:11.14); one gloss swallowed the next token (13:10.14). Several notes misstate the commentators or the accents: Ibn Ezra and Radak on אֹהָלִים, Radak's proof text at 13:6, Ibn Ezra on יַחְדָּו and on כִּכָּר, Rashi on אֵימִנָה and on 13:10, Sforno on מִקֶּדֶם, and an invented Ramban comment on בֹּאֲכָה.",
+ "patches": [
+  {
+   "ref": "13:5",
+   "path": "commentary:ibn-ezra:13:5:1.summary",
+   "value": "Ibn Ezra: the singular is of the קֹדֶשׁ pattern (אֹהֶל), whose plural would be בָּאֳהָלִים (Jer 35:7), like בַּקֳּדָשִׁים (Lev 22:4); אֹהָלִים, with ḥolem between aleph and he, is the plural of a singular of the גּוֹרָל pattern, even though that singular is not found. The point is the form only; the sense is 'tents'.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not take אֹהָלִים 'as a singular like גּוֹרָל': he says the ḥolem form presupposes a singular of the גּוֹרָל pattern (unattested), while the קֹדֶשׁ-pattern singular would give the plural בָּאֳהָלִים."
+  },
+  {
+   "ref": "13:5",
+   "path": "grammar",
+   "value": [
+    "הָיָה with לְ expresses possession; the singular verb agrees with the first of the things possessed, צֹאן.",
+    "הַהֹלֵךְ אֶת־אַבְרָם: participle with the article as a relative clause; אֶת here is the preposition 'with' (not the object marker).",
+    "The etnaḥta on אַבְרָם divides the verse: the description of Lot, then what he had.",
+    "אֹהָלִים has ḥolem on the aleph. Ibn Ezra: אֹהֶל is of the קֹדֶשׁ pattern, whose plural is בָּאֳהָלִים (Jer 35:7), with ḥaṭef qameṣ; the ḥolem of אֹהָלִים points to a singular of the גּוֹרָל pattern, which is not attested."
+   ],
+   "severity": "error",
+   "reason": "The fourth note misstated Ibn Ezra's analysis of אֹהָלִים (see his summary)."
+  },
+  {
+   "ref": "13:5",
+   "path": "commentary:radak:13:5:3.summary",
+   "value": "Radak: the tents show that Lot had many goods and a large household and needed many tents; the aleph of אֹהָלִים has ḥolem (as in 1 Sam 4:10, Deut 33:18), where the pattern of אֹהֶל would give ḥaṭef qameṣ, as in בָּאֳהָלִים (Jer 35:7); perhaps it is of the pattern of גּוֹזָל, תּוֹלָע.",
+   "severity": "error",
+   "reason": "Radak speaks of Lot (the subject of the verse, 'to inform that he had'), not of Abram."
+  },
+  {
+   "ref": "13:6",
+   "path": "grammar",
+   "value": [
+    "נָשָׂא takes אֶרֶץ as a masculine subject (Radak compares נֶעְתַּם אָרֶץ in Isa 9:18); Rashi reads it as a short expression, 'the land did not bear them (its pasture)', so the verb is masculine to agree with the unexpressed מִרְעֶה.",
+    "יַחְדָּו is repeated at both ends of the verse, framing the problem.",
+    "The etnaḥta on יַחְדָּו ends the first clause; the pashta on רְכוּשָׁם and the zaqef on רָב set off the reason.",
+    "The reason (כִּי) comes between the two statements, so the second 'could not' is the result of the great property."
+   ],
+   "severity": "error",
+   "reason": "Radak's proof text is נֶעְתַּם אָרֶץ (Isa 9:18), not נָעַם אָרֶץ; and the verse has no revia': רְכוּשָׁם carries pashta."
+  },
+  {
+   "ref": "13:6",
+   "path": "commentary:radak:13:6:1.summary",
+   "value": "Radak: אֶרֶץ is construed here as masculine, as in נֶעְתַּם אָרֶץ (Isa 9:18).",
+   "severity": "error",
+   "reason": "The quoted proof text was miscopied as נָעַם אָרֶץ; Radak cites נָעֲתָם (MT נֶעְתַּם) אָרֶץ."
+  },
+  {
+   "ref": "13:6",
+   "path": "commentary:ibn-ezra:13:6:1.summary",
+   "value": "Ibn Ezra: יַחְדָּו is said of two and of many ('all the people answered יַחְדָּו', Exod 19:8); it is a rare form, and it does not mean the same as יַחַד but is like יָחִיד, 'as one'. The English 'together' is consistent with this.",
+   "severity": "error",
+   "reason": "לשון שנים ורבים means 'used of two and of many', not 'of both singular and plural sense'."
+  },
+  {
+   "ref": "13:7",
+   "path": "token:13:7.1.sense",
+   "value": "Qal I.1.b",
+   "severity": "error",
+   "reason": "Qal I.2.a.(1) is the formula 'and it came to pass' introducing a clause; here וַיְהִי has its own subject, רִיב: 'a quarrel occurred'."
+  },
+  {
+   "ref": "13:7",
+   "path": "grammar",
+   "value": [
+    "בֵּין ... וּבֵין: 'between ... and between', the preposition repeated before each party.",
+    "הַכְּנַעֲנִי וְהַפְּרִזִּי are collective singulars; the singular participle יֹשֵׁב follows.",
+    "The clause וְהַכְּנַעֲנִי ... is a circumstantial clause with a noun first.",
+    "אָז is 'at that time'. Rashi reads the whole clause, 'the Canaanite and the Perizzite were then in the land', as the verse's answer to Lot's herders: Abram had not yet come into possession of the land."
+   ],
+   "severity": "error",
+   "reason": "Rashi does not give אָז the sense 'not yet won by Abram'; he draws that from the whole clause, which the verse sets against the herders' claim."
+  },
+  {
+   "ref": "13:8",
+   "path": "grammar",
+   "value": [
+    "אַל + jussive (תְהִי) is a mild prohibition; נָא softens it.",
+    "The repeated בֵּין is distributive: me and you, my herders and your herders.",
+    "אֲנָשִׁים אַחִים is literally 'men, brothers', an idiom for close kin (Rashi: קרובים; the midrash: alike in appearance).",
+    "The zaqef on וּבֵינֶךָ divides the masters from the herders; the etnaḥta on רֹעֶיךָ ends the plea before the reason, כִּי."
+   ],
+   "severity": "error",
+   "reason": "The munaḥ is conjunctive and divides nothing, and the verse moves from the masters to the herders, not the reverse."
+  },
+  {
+   "ref": "13:9",
+   "path": "token:13:9.4.sense",
+   "value": "I.6",
+   "severity": "error",
+   "reason": "פָּנֶה is a noun whose entry lists senses; לְפָנֶיךָ is sense I.6 'before' (the same sense cited for לִפְנֵי in 13:10)."
+  },
+  {
+   "ref": "13:9",
+   "path": "grammar",
+   "value": [
+    "אֵימִנָה and אַשְׂמְאִילָה are denominative Hiphil verbs from יָמִין and שְׂמֹאל, 'to take the right / the left'; both cohortatives.",
+    "The first form is pointed with ṣere under the aleph, אֵימִנָה, where one would expect אַיְמִינָה; Rashi compares לְהֵמִין (2 Sam 14:19), pointed thus and not לְהַיְמִין.",
+    "The conditional clauses are elliptical: 'if (you take) the left, then I (will take) the right'.",
+    "Radak reads שְׂמֹאל as north and יָמִין as south, since a person faces east; the English keeps 'left' and 'right' as in the Hebrew."
+   ],
+   "severity": "error",
+   "reason": "Rashi's point is the vowel of the prefix (ṣere for pataḥ + consonantal yod), not a missing yod: אֵימִנָה has a yod after the aleph."
+  },
+  {
+   "ref": "13:10",
+   "path": "token:13:10.4.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 5 is the idioms 'eye for an eye, in the presence of'; the literal 'eyes' lifted is not among the senses the pack lists, so no sense is cited."
+  },
+  {
+   "ref": "13:10",
+   "path": "token:13:10.4.note",
+   "value": "dual construct with suffix; the pack's entry for עַיִן lists no plain sense 'eye', so no sense is cited",
+   "severity": "error",
+   "reason": "The note justified the wrong sense 5."
+  },
+  {
+   "ref": "13:10",
+   "path": "token:13:10.14.gloss",
+   "value": "destroyed",
+   "severity": "error",
+   "reason": "The gloss included 'the LORD', which is the next token (13:10.15) and has its own gloss."
+  },
+  {
+   "ref": "13:10",
+   "path": "token:13:10.24.sense",
+   "value": "Qal 2",
+   "severity": "error",
+   "reason": "בֹּאֲכָה צֹעַר is 'your coming to Zoar': Qal 2 'come', which the gloss 'as you come' renders; Qal 4 is 'go'."
+  },
+  {
+   "ref": "13:10",
+   "path": "grammar",
+   "value": [
+    "כִּי introduces what Lot saw: that all of it was irrigated.",
+    "לִפְנֵי שַׁחֵת יְהֹוָה: a time phrase with a Piel infinitive; the subject, the LORD, follows the verbal noun (Ibn Ezra: 'before he destroys', infinitive of the intensive stem).",
+    "כְּגַן יְהֹוָה and כְּאֶרֶץ מִצְרַיִם are two similes; the first echoes Eden (2:10), the second Egypt's irrigated fields.",
+    "בֹּאֲכָה צֹעַר: 'as you come to Zoar', with a 2ms suffix that the plain sense treats as a general address (Radak: the speaker addresses the reader who knows the place); Rashi: 'as far as Zoar'."
+   ],
+   "severity": "style",
+   "reason": "The English and the gloss take כִּי as 'that' (the content of what Lot saw), not as a reason."
+  },
+  {
+   "ref": "13:10",
+   "path": "note",
+   "value": "Ibn Ezra explains כִּכָּר as a place of vegetation; Rashi (at 13:11) and the Targum as a plain. The English 'plain' follows Rashi and the Targum. Rashi takes 'garden of the LORD' as trees and 'land of Egypt' as crops; the English leaves both similes as written. The clause 'before the LORD destroyed Sodom and Gomorrah' is the narrator's aside and is kept in place. Rashi and Radak take בֹּאֲכָה צֹעַר as 'as far as Zoar'; Rashi records an aggadic reading against Lot. The English 'as you come to Zoar' keeps the Hebrew's form and the sense 'up to'.",
+   "severity": "error",
+   "reason": "Ramban does not comment on בֹּאֲכָה; the other reading is the aggada in Rashi himself. Rashi's gloss of כִּכָּר is at 13:11, and Ibn Ezra's 'place of vegetation' is not the same as 'plain'."
+  },
+  {
+   "ref": "13:10",
+   "path": "commentary:rashi:13:10:2.summary",
+   "value": "Rashi: 'before the LORD destroyed Sodom and Gomorrah' — that plain was so (well watered, like the garden of the LORD); the description holds for the time before the destruction.",
+   "severity": "error",
+   "reason": "הָיָה אוֹתוֹ מִישׁוֹר says that the plain was in that state before the destruction; it does not say that it was 'level land'."
+  },
+  {
+   "ref": "13:10",
+   "path": "commentary:ibn-ezra:13:10:1.summary",
+   "value": "Ibn Ezra: כִּכָּר is a place of vegetation, from כַּר 'pasture' (כַּר נִרְחָב, Isa 30:23), the kaf being either doubled here or missing there; compare בַּת עַיִן from בְּבָבַת עֵינוֹ (Zech 2:12). The English 'plain' is consistent with this.",
+   "severity": "error",
+   "reason": "Ibn Ezra's proof text is כַּר נִרְחָב (Isa 30:23), 'a broad pasture' (מִכַּר = from כַּר), not a word מֶכֶר."
+  },
+  {
+   "ref": "13:11",
+   "path": "token:13:11.8.sense",
+   "value": "Qal 2.a",
+   "severity": "style",
+   "reason": "The gloss 'set out' is Qal 2.a; 2.b is 'depart'."
+  },
+  {
+   "ref": "13:11",
+   "path": "token:13:11.14.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "In אִישׁ ... אָחִיו the noun is part of the idiom 'one … another', sense 4; the sense was missing."
+  },
+  {
+   "ref": "13:11",
+   "path": "token:13:11.14.note",
+   "value": "with אִישׁ, 'one ... his brother' is the idiom 'one from the other'",
+   "severity": "error",
+   "reason": "The note was an empty pair of quotes."
+  },
+  {
+   "ref": "13:11",
+   "path": "grammar",
+   "value": [
+    "לוֹ after the verb is a reflexive dative: 'for himself'.",
+    "מִקֶּדֶם: 'from the east' or 'from of old'; Rashi and Ibn Ezra read it of direction (Sodom is west of Bethel); the aggada in Rashi reads it as 'from the Ancient One (קַדְמוֹנוֹ) of the world'.",
+    "אִישׁ מֵעַל אָחִיו is the idiom for 'each from the other'; the Niphal plural is reciprocal.",
+    "The etnaḥta on מִקֶּדֶם divides Lot's journey from the separation."
+   ],
+   "severity": "error",
+   "reason": "The midrash in Rashi does not read 'from of old' but 'from the Ancient One of the world'."
+  },
+  {
+   "ref": "13:11",
+   "path": "note",
+   "value": "The English follows Rashi (plain sense) and Ibn Ezra: Lot set out from the east, travelling westward, because Sodom lies west of Bethel. Sforno agrees (from east to west, away from Abram near Ai). Radak takes it differently: toward the east, since the Jordan is east of Canaan. The midrash 'from the Ancient One of the world' is recorded in the commentary.",
+   "severity": "error",
+   "reason": "Sforno reads 'from the east to the west', with Rashi, not 'eastward'."
+  },
+  {
+   "ref": "13:11",
+   "path": "commentary:onkelos:13:11:1",
+   "value": {
+    "relation": "records",
+    "summary": "Onkelos: 'Lot chose for himself all the plain of the Jordan, and Lot journeyed מִלְּקַדְמִין, and they parted, a man from his brother'. מִלְּקַדְמִין is the word Onkelos uses for מִקֶּדֶם at 2:8, where it means 'from before, of old'; it need not mean 'from the east'."
+   },
+   "severity": "question",
+   "reason": "Onkelos's מִלְּקַדְמִין is ambiguous between 'from the east' and 'beforehand/of old'; the summary rendered it 'from the east' without remark, so 'follows' is not secure."
+  },
+  {
+   "ref": "13:12",
+   "path": "token:13:12.9.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The pack parses וַיֶּאֱהַל as Qal, and the form is Qal; the only sense the pack lists is Pi (a different stem), so it cannot be cited for this form."
+  },
+  {
+   "ref": "13:12",
+   "path": "token:13:12.9.note",
+   "value": "denominative from אֹהֶל, Qal wayyiqtol (the pack's parse); the pack's entry lists only a Piel sense, so no sense is cited",
+   "severity": "error",
+   "reason": "The note justified citing the Piel sense for a Qal form."
+  },
+  {
+   "ref": "13:12",
+   "path": "token:13:12.10.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "II.1 is temporal 'until'; here עַד is spatial 'as far as', which the entry's heading gives but its listed senses do not."
+  },
+  {
+   "ref": "13:12",
+   "path": "token:13:12.10.note",
+   "value": "spatial 'as far as'; the pack's senses for עַד are all temporal or consecutive, so none is cited",
+   "severity": "error",
+   "reason": "Explains the removed sense."
+  },
+  {
+   "ref": "13:12",
+   "path": "grammar",
+   "value": [
+    "Both main clauses open with the subject, setting Abram and Lot in contrast.",
+    "וַיֶּאֱהַל is a denominative wayyiqtol from אֹהֶל, 'he pitched his tent' (Ibn Ezra: נטה אהליו).",
+    "עַד־סְדֹם: up to Sodom, not into it; the narrative prepares for 13:13 and 14:12.",
+    "The pack parses וַיֶּאֱהַל as Qal, which the form bears out (prefix vowel segol before the guttural); the lexicon lists only a Piel, so no sense of the entry is cited."
+   ],
+   "severity": "error",
+   "reason": "The note said the Piel sense was cited although the parse is Qal; the sense is now removed."
+  },
+  {
+   "ref": "13:12",
+   "path": "note",
+   "value": "The pack parses וַיֶּאֱהַל as qal but the lexicon entry lists only a Pi sense; since that sense belongs to another stem, none is cited. Ramban records that Abram moved through the whole land of Canaan while Lot settled in one part.",
+   "severity": "error",
+   "reason": "Brought in line with the removed sense."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:13:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:5:1",
+   "verdict": "consistent",
+   "comment": "a point of form only"
+  },
+  {
+   "anchor": "rashi:13:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:7:1",
+   "verdict": "consistent",
+   "comment": "Rashi gives the cause of the quarrel; the English states the quarrel and does not exclude it"
+  },
+  {
+   "anchor": "ibn-ezra:13:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:9:1",
+   "verdict": "consistent",
+   "comment": "Rashi's sense (Abram will stay near Lot) is compatible with the English offer"
+  },
+  {
+   "anchor": "rashi:13:9:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:9:2",
+   "verdict": "consistent",
+   "comment": "a point of the root only"
+  },
+  {
+   "anchor": "rashi:13:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:10:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:10:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:10:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:10:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:10:2",
+   "verdict": "consistent",
+   "comment": "a point of gender agreement only"
+  },
+  {
+   "anchor": "ibn-ezra:13:10:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:12:1",
+   "verdict": "consistent"
+  }
+ ]
+}
