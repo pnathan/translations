@@ -1,0 +1,193 @@
+{
+ "unit": "noach-14",
+ "model": "opus",
+ "summary": "The unit is accurate in its English lines, which render the Hebrew closely and keep the ambiguities of 10:9, 10:12 and 10:14 open, consistent with the normative commentators. The faults are in the notes and the apparatus: Ramban's own reading in 10:9 is misreported, Onkelos is misattributed, Ibn Ezra's לשם is read as 'there', and Ibn Ezra's comments on 10:12 and 10:14 are misstated. The 10:11 apparatus dismisses Ramban with an argument he answers. Two senses are wrong (10:9.2 'become' for 'was', 10:12.9 'greatness'), and a grammar note calls the conjunctive darga a divider.",
+ "patches": [
+  {
+   "ref": "10:9",
+   "path": "token:10:9.2.sense",
+   "value": "Qal III",
+   "severity": "error",
+   "reason": "The gloss is 'was', but sense Qal II.2 is 'become'. For the gloss 'was' the matching sense is Qal III 'Be'."
+  },
+  {
+   "ref": "10:9",
+   "path": "note",
+   "value": "The Hebrew leaves the sense of לִפְנֵי יהוה open. The English keeps the words and does not choose. Rashi reads it as defiance: Nimrod trapped people's minds with his words and led them to rebel, and 'before the LORD' means he meant to provoke Him to His face. Ibn Ezra, calling his reading the plain sense, takes it that he built altars and offered the game as burnt offerings to God. Radak and Sforno read it as an intensifier ('exceedingly mighty'). Ramban quotes Rashi and the Sages and rejects Ibn Ezra, but his own reading is that Nimrod was the first to rule over men by force, a hunter of beasts as well, with 'before the LORD' as hyperbole: none under heaven was his equal in might. Rashi and Ibn Ezra agree that 'it is said' introduces a proverb.",
+   "severity": "error",
+   "reason": "The note said Ramban reads the phrase as defiance. Ramban only quotes Rashi and the Sages against Ibn Ezra; his own reading (והנכון בעיני) is that Nimrod was the first to rule by force, and in his comment filed at 10:11 he reads גבור ציד of hunting beasts and לפני ה' as hyperbole (להפליג כי אין תחת כל השמים כמוהו בגבורה)."
+  },
+  {
+   "ref": "10:9",
+   "path": "commentary:ibn-ezra:10:9:1.summary",
+   "value": "Ibn Ezra: the sense of לפני ד' is that he built altars and offered the animals up as burnt offerings to God (עולה לשם, 'to the Name'); this is the way of the plain sense (דרך הפשט), and the midrash goes another way. Recorded as an alternative.",
+   "severity": "error",
+   "reason": "לשם here is 'to the Name', that is, to God, not 'there': Ramban paraphrases it as לְעוֹלָה לִפְנֵי הַשֵּׁם and Radak as מַקְרִיבָם לִפְנֵי ה׳."
+  },
+  {
+   "ref": "10:9",
+   "path": "apparatus",
+   "value": [
+    "Onkelos renders גִּבֹּר צַיִד as גִּבַּר תַּקִּיף, 'a mighty man', with no word for hunting, and לִפְנֵי יְהוָה as קֳדָם יְיָ, 'before the LORD'. Radak takes this rendering as support for his reading of the verse as praise of Nimrod's might."
+   ],
+   "severity": "error",
+   "reason": "The apparatus gave גִבַּר תַּקִּיף as Onkelos's rendering of לִפְנֵי יְהוָה. In Onkelos קֳדָם יְיָ renders לִפְנֵי יְהוָה and גִּבַּר תַּקִּיף renders גִּבֹּר צַיִד; Radak cites it for that reason (שתרגם גבר תקיף)."
+  },
+  {
+   "ref": "10:11",
+   "path": "token:10:11.4.note",
+   "value": "qatal, not wayyiqtol, because the phrase מִן־הָאָרֶץ הַהִוא stands before the verb",
+   "severity": "style",
+   "reason": "The note read as if the verb were fronted; it is the adverbial phrase that is fronted, and that is why the verb is a perfect."
+  },
+  {
+   "ref": "10:11",
+   "path": "token:10:11.6.note",
+   "value": "wayyiqtol of בנה, a root with final ה: the short form וַיִּבֶן stands for the long form יִבְנֶה",
+   "severity": "style",
+   "reason": "A learner needs the weak root to recognise the apocopated form."
+  },
+  {
+   "ref": "10:11",
+   "path": "apparatus",
+   "value": [
+    "Ramban takes Nimrod as the subject of 'went out' and אַשּׁוּר as his destination, 'he went out to Asshur', since Asshur was of the sons of Shem (10:22). He cites verbs of motion with a bare accusative of the goal, without ה of direction (Num 34:4; Deut 3:1), and Micah 5:5, which calls Assyria 'the land of Nimrod'. Radak takes Asshur as the subject, of Ham or of Shem."
+   ],
+   "severity": "error",
+   "reason": "The apparatus said the form without ה of direction makes Ramban's reading unlikely. Ramban answers exactly that with parallels of a bare accusative of goal (וְיָצָא חֲצַר אַדָּר, Num 34:4; וַיֵּצֵא עוֹג ... אֶדְרֶעִי, Deut 3:1), so the claim misstates the question."
+  },
+  {
+   "ref": "10:12",
+   "path": "token:10:12.9.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 10 'greatness' is the noun use. The entry lists only 4 'loud', 9 'do great things' and 10 'greatness'; none is the plain adjective 'great' of size, so no sense applies. The token note says so."
+  },
+  {
+   "ref": "10:12",
+   "path": "token:10:12.9.note",
+   "value": "attributive adjective: it follows הָעִיר and agrees with it in gender (feminine), number and the article. None of the senses listed in the entry is 'great' in size, so no sense is given.",
+   "severity": "error",
+   "reason": "The adjective is attributive, not in apposition; and the removal of the sense needs a word in the note."
+  },
+  {
+   "ref": "10:12",
+   "path": "commentary:ibn-ezra:10:12:1.summary",
+   "value": "Ibn Ezra: the reading closest to his view is that the clause joins 'and he built Nineveh', so the great city is Nineveh; to join it to Resen or to Calah is not far-fetched either. The English leaves the pronoun open in its wording and allows his preferred reading.",
+   "severity": "error",
+   "reason": "The summary said Ibn Ezra does not commit to either reading. He does: הקרוב אלי, Nineveh is the reading he prefers, and he only allows the others."
+  },
+  {
+   "ref": "10:12",
+   "path": "grammar",
+   "value": [
+    "בֵּין is repeated before each term, as normal in Hebrew.",
+    "הִוא הָעִיר הַגְּדֹלָה is a verbless clause; the feminine pronoun agrees with עִיר.",
+    "The etnaḥta after כָּלַח separates this clause from the preceding list.",
+    "The grammar does not fix the pronoun's antecedent: Rashi and Ibn Ezra take it as Nineveh, the first city built (10:11); Ibn Ezra allows Resen or Calah; Radak takes it as Resen, the city the verse is speaking of."
+   ],
+   "severity": "error",
+   "reason": "The fourth note made the etnaḥta the cause of the ambiguity and offered 'the whole group', which no commentator in the pack proposes, while leaving out Calah, which Ibn Ezra allows."
+  },
+  {
+   "ref": "10:12",
+   "path": "note",
+   "value": "The antecedent of הִוא is ambiguous. Rashi takes it as Nineveh, citing Jonah 3:3; Ibn Ezra prefers Nineveh and allows Resen or Calah. Radak, against 'most commentators', takes it as Resen. The English keeps the pronoun as 'that' and does not name the city; the reading of the normative commentators, Nineveh, is the one the edition takes.",
+   "severity": "error",
+   "reason": "The note said the commentators agree on Nineveh. Rashi and Ibn Ezra do, but Radak expressly takes it as Resen (וְהַנָּכוֹן כִּי עַל רֶסֶן אָמַר)."
+  },
+  {
+   "ref": "10:13",
+   "path": "grammar",
+   "value": [
+    "The subject מִצְרַיִם comes before the verb, which begins the genealogy of Ham's son.",
+    "All four names are plural gentilics in -ִים, so they name peoples, not single persons.",
+    "The pazer on מִצְרַיִם and the gershayim on יָלַד are disjunctive. In the list the tevir on עֲנָמִים and the tipḥa on לְהָבִים divide the names; the darga on לוּדִים is conjunctive and binds it to the next word.",
+    "The list continues in verse 14."
+   ],
+   "severity": "error",
+   "reason": "The note said the darga on לוּדִים closes a unit; the darga is a conjunctive accent (the pack does not mark it disjunctive)."
+  },
+  {
+   "ref": "10:14",
+   "path": "note",
+   "value": "The relative clause is ambiguous in attachment. Rashi takes it as 'from both', the Philistines coming from the Pathrusim and Casluhim together; the English leaves the antecedent as the pair. The Caphtorim stand after the parenthesis. Ibn Ezra says that Mizraim fathered the Caphtorim too, and explains why ילד is said of a father: the son comes from the father's vigour and strength, in his image and likeness.",
+   "severity": "error",
+   "reason": "The note said Ibn Ezra uses ילד 'even of a more remote descendant'. He says nothing of remote descent: he explains that ילד is said of the father because the son is מאון האב ומכחו בצלמו בדמותו."
+  },
+  {
+   "ref": "10:14",
+   "path": "token:10:14.5.gloss",
+   "value": "which",
+   "severity": "style",
+   "reason": "אֲשֶׁר alone is 'which'; 'from' belongs to מִשָּׁם (10:14.7, 'from there'). The phrase carries 'from whom'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:10:9:1",
+   "verdict": "consistent",
+   "comment": "Recorded: 'hunter' keeps the word, and Rashi's figurative hunting of minds is given in the summary; Ibn Ezra reads the hunting literally, so the English stays with the word."
+  },
+  {
+   "anchor": "rashi:10:9:2",
+   "verdict": "consistent",
+   "comment": "Recorded: 'before the LORD' can bear 'to His face'; Ibn Ezra differs, so the English keeps the phrase open."
+  },
+  {
+   "anchor": "rashi:10:9:3",
+   "verdict": "consistent",
+   "comment": "'therefore it is said' introduces the proverb."
+  },
+  {
+   "anchor": "ibn-ezra:10:9:1",
+   "verdict": "consistent",
+   "comment": "Recorded; 'before the LORD' bears his reading of offerings before God."
+  },
+  {
+   "anchor": "ibn-ezra:10:9:2",
+   "verdict": "consistent",
+   "comment": "The clause is given as a saying."
+  },
+  {
+   "anchor": "rashi:10:11:1",
+   "verdict": "consistent",
+   "comment": "Asshur is the subject who went out."
+  },
+  {
+   "anchor": "ibn-ezra:10:11:1",
+   "verdict": "consistent",
+   "comment": "Asshur is a person who went out from Shinar."
+  },
+  {
+   "anchor": "rashi:10:12:1",
+   "verdict": "consistent",
+   "comment": "'that is the great city' allows Nineveh; the patched notes name it as the edition's reading."
+  },
+  {
+   "anchor": "ibn-ezra:10:12:1",
+   "verdict": "consistent",
+   "comment": "As for Rashi; his summary is corrected."
+  },
+  {
+   "anchor": "rashi:10:13:1",
+   "verdict": "not-applicable",
+   "comment": "A derivation of the name Lehabim."
+  },
+  {
+   "anchor": "ibn-ezra:10:13:1",
+   "verdict": "consistent",
+   "comment": "The names are kept as plurals."
+  },
+  {
+   "anchor": "rashi:10:14:1",
+   "verdict": "consistent",
+   "comment": "The relative clause after the pair can refer to both."
+  },
+  {
+   "anchor": "ibn-ezra:10:14:1",
+   "verdict": "consistent",
+   "comment": "The Caphtorim stay an object of 'fathered'."
+  }
+ ]
+}

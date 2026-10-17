@@ -1,0 +1,4364 @@
+{
+ "unit": "perek-6-01",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "6:1",
+   "english": "The sages taught in the language of the Mishnah; blessed is He who chose them and their teaching. Rabbi Meir says: Whoever engages in Torah for its own sake merits many things. Not only that, but the entire world is worth it to him. He is called friend, beloved, one who loves the Omnipresent, one who loves creatures, one who gladdens the Omnipresent, one who gladdens creatures. It clothes him in humility and awe, it fits him to be righteous, devout, upright and faithful, it keeps him far from sin and draws him near to merit. People benefit from him with counsel and sound wisdom, understanding and strength, as it is said (Proverbs 8): \"Mine are counsel and sound wisdom; I am understanding; mine is strength.\" It gives him kingship and dominion and the probing of judgment; the secrets of Torah are revealed to him; he becomes like a spring that grows ever stronger and like a river that never ceases; he is modest and patient, and he forgives insult done to him; it makes him great and raises him above all the works.",
+   "literal": "taught sages in-language-of the-Mishnah blessed who-chose in-them and-in-their-teaching Rabbi Meir saying all the-one-engaging in-Torah for-its-name merits to-things many and-not more but that-all the-world all-of-it like-enough it to-him is-called friend beloved loving [object-mark] the-Place loving [object-mark] the-creatures gladdening [object-mark] the-Place gladdening [object-mark] the-creatures and-clothing-him humility and-awe and-making-him-fit to-be righteous and-devout and-upright and-faithful and-distancing-him from the-sin and-bringing-him-near to-hands-of merit and-benefit from-him counsel and-sound-wisdom understanding and-strength that-it-is-said Proverbs 8 to-me counsel and-sound-wisdom I understanding to-me strength and-giving to-him kingship and-dominion and-probing-of judgment and-revealing to-him secrets-of Torah and-becomes like-a-spring the-growing-strong and-like-a-river that-not-ceasing and-be modest and-long-of spirit and-forgiving over his-insult and-making-him-great and-exalting-him over all the-works",
+   "tokens": [
+    {
+     "id": "6:1.1",
+     "gloss": "taught",
+     "sense": "1.1",
+     "note": "Qal perfect 3rd plural of שנה, 'repeat, teach by repetition', the verb that gives 'Mishnah'"
+    },
+    {
+     "id": "6:1.2",
+     "gloss": "sages",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.3",
+     "gloss": "in the language of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "6:1.4",
+     "gloss": "the Mishnah",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.5",
+     "gloss": "blessed",
+     "sense": "1",
+     "note": "Pual participle used as a doxology 'blessed (is He)'"
+    },
+    {
+     "id": "6:1.6",
+     "gloss": "who chose",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:1.7",
+     "gloss": "in them",
+     "note": "בחר takes the preposition ב־: 'chose them'"
+    },
+    {
+     "id": "6:1.8",
+     "gloss": "and in their teaching",
+     "sense": "1",
+     "note": "מִשְׁנָה as 'teaching'; the same noun as in 'the Mishnah'"
+    },
+    {
+     "id": "6:1.9",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.10",
+     "gloss": "Meir",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.11",
+     "gloss": "says",
+     "sense": "1.1",
+     "note": "participle, 'he says', the usual formula introducing a saying"
+    },
+    {
+     "id": "6:1.12",
+     "gloss": "whoever",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.13",
+     "gloss": "one who engages",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.14",
+     "gloss": "in Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.15",
+     "gloss": "for its own sake",
+     "sense": "1",
+     "note": "idiom: lit. 'for her name'; the feminine suffix refers to תּוֹרָה"
+    },
+    {
+     "id": "6:1.16",
+     "gloss": "merits",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.17",
+     "gloss": "to things",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.18",
+     "gloss": "many",
+     "sense": "1",
+     "note": "הַרְבֵּה used as an adjective 'many'"
+    },
+    {
+     "id": "6:1.19",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.20",
+     "gloss": "more",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.21",
+     "gloss": "but"
+    },
+    {
+     "id": "6:1.22",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.23",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.24",
+     "gloss": "all of it",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.25",
+     "gloss": "worth",
+     "sense": "1",
+     "note": "כְּדַי, 'enough, sufficient'; here 'worth it'"
+    },
+    {
+     "id": "6:1.26",
+     "gloss": "is it",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.27",
+     "gloss": "to him"
+    },
+    {
+     "id": "6:1.28",
+     "gloss": "is called",
+     "sense": "1.2",
+     "note": "Nifal 3rd masculine singular, 'is called'"
+    },
+    {
+     "id": "6:1.29",
+     "gloss": "friend",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.30",
+     "gloss": "beloved",
+     "sense": "1.1.1",
+     "note": "passive participle of אהב"
+    },
+    {
+     "id": "6:1.31",
+     "gloss": "one who loves",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:1.32",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.33",
+     "gloss": "the Omnipresent",
+     "sense": "1",
+     "note": "lit. 'the Place', a name of God"
+    },
+    {
+     "id": "6:1.34",
+     "gloss": "one who loves",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:1.35",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.36",
+     "gloss": "creatures",
+     "note": "הַבְּרִיּוֹת, created beings, people"
+    },
+    {
+     "id": "6:1.37",
+     "gloss": "one who gladdens",
+     "sense": "1.2",
+     "note": "Piel participle, 'causes joy'"
+    },
+    {
+     "id": "6:1.38",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.39",
+     "gloss": "the Omnipresent",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.40",
+     "gloss": "one who gladdens",
+     "sense": "1.2"
+    },
+    {
+     "id": "6:1.41",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.42",
+     "gloss": "creatures"
+    },
+    {
+     "id": "6:1.43",
+     "gloss": "and it clothes him",
+     "sense": "1",
+     "note": "Piel feminine participle with suffix; the subject is Torah (feminine)"
+    },
+    {
+     "id": "6:1.44",
+     "gloss": "humility",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.45",
+     "gloss": "and awe",
+     "sense": "1",
+     "note": "יִרְאָה, 'reverence, fear (of God)'"
+    },
+    {
+     "id": "6:1.46",
+     "gloss": "and makes him fit",
+     "sense": "1",
+     "note": "Piel participle of כשר"
+    },
+    {
+     "id": "6:1.47",
+     "gloss": "to be",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:1.48",
+     "gloss": "righteous",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.49",
+     "gloss": "and devout",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.50",
+     "gloss": "and upright",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.51",
+     "gloss": "and faithful",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.52",
+     "gloss": "and keeps him far",
+     "sense": "2.2",
+     "note": "Piel participle of רחק"
+    },
+    {
+     "id": "6:1.53",
+     "gloss": "from",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.54",
+     "gloss": "sin",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.55",
+     "gloss": "and draws him near",
+     "sense": "1.3",
+     "note": "Piel participle of קרב"
+    },
+    {
+     "id": "6:1.56",
+     "gloss": "to (the hands of)",
+     "sense": "1",
+     "note": "idiom לִידֵי, 'to the point of, to'"
+    },
+    {
+     "id": "6:1.57",
+     "gloss": "merit",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.58",
+     "gloss": "and benefit",
+     "sense": "1",
+     "note": "Nifal plural participle, impersonal: 'people derive benefit'"
+    },
+    {
+     "id": "6:1.59",
+     "gloss": "from him",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.60",
+     "gloss": "counsel",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.61",
+     "gloss": "and sound wisdom",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.62",
+     "gloss": "understanding",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.63",
+     "gloss": "and strength",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.64",
+     "gloss": "as it is said",
+     "sense": "1.2",
+     "note": "Nifal perfect, the formula introducing a verse"
+    },
+    {
+     "id": "6:1.65",
+     "gloss": "Proverbs",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.66",
+     "gloss": "8",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.67",
+     "gloss": "to me",
+     "note": "'mine'"
+    },
+    {
+     "id": "6:1.68",
+     "gloss": "counsel",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.69",
+     "gloss": "and sound wisdom",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.70",
+     "gloss": "I",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.71",
+     "gloss": "understanding",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.72",
+     "gloss": "to me",
+     "note": "'mine'"
+    },
+    {
+     "id": "6:1.73",
+     "gloss": "strength",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.74",
+     "gloss": "and gives",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:1.75",
+     "gloss": "to him"
+    },
+    {
+     "id": "6:1.76",
+     "gloss": "kingship",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.77",
+     "gloss": "and dominion",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.78",
+     "gloss": "and probing",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.79",
+     "gloss": "of judgment",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.80",
+     "gloss": "and (they) reveal",
+     "sense": "1.3.1",
+     "note": "Piel masculine plural participle, impersonal: 'are revealed'"
+    },
+    {
+     "id": "6:1.81",
+     "gloss": "to him"
+    },
+    {
+     "id": "6:1.82",
+     "gloss": "secrets of",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.83",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.84",
+     "gloss": "and becomes",
+     "sense": "1",
+     "note": "Nifal imperfect, 'he is made, becomes'"
+    },
+    {
+     "id": "6:1.85",
+     "gloss": "like a spring",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.86",
+     "gloss": "that grows ever stronger",
+     "sense": "1.4.1",
+     "note": "Hitpael participle with article, 'the one gaining strength, overflowing'"
+    },
+    {
+     "id": "6:1.87",
+     "gloss": "and like a river",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.88",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.89",
+     "gloss": "is not ceasing",
+     "sense": "1",
+     "note": "שֶׁאֵינוֹ with participle פוֹסֵק = 'that does not cease'"
+    },
+    {
+     "id": "6:1.90",
+     "gloss": "and be",
+     "sense": "1.1.1",
+     "note": "imperative 2nd masculine singular of היה, an abrupt change from the third person; see note"
+    },
+    {
+     "id": "6:1.91",
+     "gloss": "modest",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.92",
+     "gloss": "and long of",
+     "sense": "1",
+     "note": "אֶרֶךְ 'length' in the idiom 'long of spirit'"
+    },
+    {
+     "id": "6:1.93",
+     "gloss": "spirit",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.94",
+     "gloss": "and forgives",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.95",
+     "gloss": "over",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.96",
+     "gloss": "his insult",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.97",
+     "gloss": "and makes him great",
+     "sense": "1",
+     "note": "Piel participle of גדל"
+    },
+    {
+     "id": "6:1.98",
+     "gloss": "and exalts him",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.99",
+     "gloss": "above",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.100",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.101",
+     "gloss": "the works",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:1.1",
+      "6:1.2",
+      "6:1.3",
+      "6:1.4"
+     ],
+     "english": "The sages taught in the language of the Mishnah",
+     "literal": "taught sages in-language-of the-Mishnah :: שָׁנוּ is \"repeated/taught (orally)\", the root of Mishnah"
+    },
+    {
+     "tokens": [
+      "6:1.5",
+      "6:1.6",
+      "6:1.7",
+      "6:1.8"
+     ],
+     "english": "blessed is He who chose them and their teaching",
+     "literal": "blessed who-chose in-them and-in-their-teaching :: בחר ב־ 'choose'"
+    },
+    {
+     "tokens": [
+      "6:1.9",
+      "6:1.10",
+      "6:1.11"
+     ],
+     "english": "Rabbi Meir says",
+     "literal": "Rabbi Meir saying"
+    },
+    {
+     "tokens": [
+      "6:1.12",
+      "6:1.13",
+      "6:1.14",
+      "6:1.15"
+     ],
+     "english": "Whoever engages in Torah for its own sake",
+     "literal": "all the-one-engaging in-Torah for-its-name :: לִשְׁמָהּ 'for its own sake'"
+    },
+    {
+     "tokens": [
+      "6:1.16",
+      "6:1.17",
+      "6:1.18"
+     ],
+     "english": "merits many things",
+     "literal": "merits to-things many"
+    },
+    {
+     "tokens": [
+      "6:1.19",
+      "6:1.20",
+      "6:1.21"
+     ],
+     "english": "Not only that, but",
+     "literal": "and-not more but :: ולא עוד אלא"
+    },
+    {
+     "tokens": [
+      "6:1.22",
+      "6:1.23",
+      "6:1.24",
+      "6:1.25",
+      "6:1.26",
+      "6:1.27"
+     ],
+     "english": "the entire world is worth it to him",
+     "literal": "that-all the-world all-of-it like-enough it to-him :: כְדַי 'enough, worth'"
+    },
+    {
+     "tokens": [
+      "6:1.28",
+      "6:1.29",
+      "6:1.30"
+     ],
+     "english": "He is called friend, beloved",
+     "literal": "is-called friend beloved"
+    },
+    {
+     "tokens": [
+      "6:1.31",
+      "6:1.32",
+      "6:1.33"
+     ],
+     "english": "one who loves the Omnipresent",
+     "literal": "loving [object-mark] the-Place :: God"
+    },
+    {
+     "tokens": [
+      "6:1.34",
+      "6:1.35",
+      "6:1.36"
+     ],
+     "english": "one who loves creatures",
+     "literal": "loving [object-mark] the-creatures"
+    },
+    {
+     "tokens": [
+      "6:1.37",
+      "6:1.38",
+      "6:1.39"
+     ],
+     "english": "one who gladdens the Omnipresent",
+     "literal": "gladdening [object-mark] the-Place"
+    },
+    {
+     "tokens": [
+      "6:1.40",
+      "6:1.41",
+      "6:1.42"
+     ],
+     "english": "one who gladdens creatures",
+     "literal": "gladdening [object-mark] the-creatures"
+    },
+    {
+     "tokens": [
+      "6:1.43",
+      "6:1.44",
+      "6:1.45"
+     ],
+     "english": "It clothes him in humility and awe",
+     "literal": "and-clothing-him humility and-awe :: the Torah is the unstated feminine subject"
+    },
+    {
+     "tokens": [
+      "6:1.46",
+      "6:1.47",
+      "6:1.48",
+      "6:1.49",
+      "6:1.50",
+      "6:1.51"
+     ],
+     "english": "it fits him to be righteous, devout, upright and faithful",
+     "literal": "and-making-him-fit to-be righteous and-devout and-upright and-faithful"
+    },
+    {
+     "tokens": [
+      "6:1.52",
+      "6:1.53",
+      "6:1.54"
+     ],
+     "english": "it keeps him far from sin",
+     "literal": "and-distancing-him from the-sin"
+    },
+    {
+     "tokens": [
+      "6:1.55",
+      "6:1.56",
+      "6:1.57"
+     ],
+     "english": "draws him near to merit",
+     "literal": "and-bringing-him-near to-hands-of merit :: לִידֵי 'to the hands of' = 'to'"
+    },
+    {
+     "tokens": [
+      "6:1.58",
+      "6:1.59",
+      "6:1.60",
+      "6:1.61",
+      "6:1.62",
+      "6:1.63"
+     ],
+     "english": "People benefit from him with counsel and sound wisdom, understanding and strength",
+     "literal": "and-benefit from-him counsel and-sound-wisdom understanding and-strength :: נֶהֱנִין impersonal"
+    },
+    {
+     "tokens": [
+      "6:1.64",
+      "6:1.65",
+      "6:1.66"
+     ],
+     "english": "as it is said (Proverbs 8)",
+     "literal": "that-it-is-said Proverbs 8"
+    },
+    {
+     "tokens": [
+      "6:1.67",
+      "6:1.68",
+      "6:1.69",
+      "6:1.70",
+      "6:1.71",
+      "6:1.72",
+      "6:1.73"
+     ],
+     "english": "Mine are counsel and sound wisdom; I am understanding; mine is strength",
+     "literal": "to-me counsel and-sound-wisdom I understanding to-me strength :: Proverbs 8:14"
+    },
+    {
+     "tokens": [
+      "6:1.74",
+      "6:1.75",
+      "6:1.76",
+      "6:1.77",
+      "6:1.78",
+      "6:1.79"
+     ],
+     "english": "It gives him kingship and dominion and the probing of judgment",
+     "literal": "and-giving to-him kingship and-dominion and-probing-of judgment :: חִקּוּר דִּין 'investigation of law, judgment'"
+    },
+    {
+     "tokens": [
+      "6:1.80",
+      "6:1.81",
+      "6:1.82",
+      "6:1.83"
+     ],
+     "english": "the secrets of Torah are revealed to him",
+     "literal": "and-revealing to-him secrets-of Torah :: impersonal plural participle"
+    },
+    {
+     "tokens": [
+      "6:1.84",
+      "6:1.85",
+      "6:1.86"
+     ],
+     "english": "he becomes like a spring that grows ever stronger",
+     "literal": "and-becomes like-a-spring the-growing-strong"
+    },
+    {
+     "tokens": [
+      "6:1.87",
+      "6:1.88",
+      "6:1.89"
+     ],
+     "english": "like a river that never ceases",
+     "literal": "and-like-a-river that-not-ceasing"
+    },
+    {
+     "tokens": [
+      "6:1.90",
+      "6:1.91",
+      "6:1.92",
+      "6:1.93"
+     ],
+     "english": "he is modest and patient",
+     "literal": "and-be modest and-long-of spirit :: וֶהֱוֵי is an imperative; אֶרֶךְ רוּחַ is 'patience'"
+    },
+    {
+     "tokens": [
+      "6:1.94",
+      "6:1.95",
+      "6:1.96"
+     ],
+     "english": "he forgives insult done to him",
+     "literal": "and-forgiving over his-insult"
+    },
+    {
+     "tokens": [
+      "6:1.97",
+      "6:1.98",
+      "6:1.99",
+      "6:1.100",
+      "6:1.101"
+     ],
+     "english": "it makes him great and raises him above all the works",
+     "literal": "and-making-him-great and-exalting-him over all the-works"
+    }
+   ],
+   "grammar": [
+    "This opening sentence is the standard introduction to the \"baraita of the Sages of the Mishnah\" (the Kinyan Torah): the phrase בִּלְשׁוֹן הַמִּשְׁנָה marks what follows as Mishnaic (Tannaitic) teaching, and בָּרוּךְ שֶׁבָּחַר is a short doxology.",
+    "The long run of participles in the third clause (אוֹהֵב, מְשַׂמֵּחַ ...) is a list of descriptive titles after נִקְרָא; מְשַׂמֵּחַ is a Piel participle, \"one who causes gladness\".",
+    "From וּמַלְבַּשְׁתּוֹ to וּמְרוֹמַמְתּוֹ the feminine singular participles (מַלְבֶּשֶׁת, מַכְשֶׁרֶת, מְרַחֶקֶת, מְקָרֶבֶת, נוֹתֶנֶת ...) have the feminine noun תוֹרָה as their unstated subject, with the masculine suffix -ו referring to the one who engages in Torah.",
+    "נֶהֱנִין and מְגַלִּין are masculine plural participles with no expressed subject, i.e. impersonal (\"people benefit\", \"they reveal\" = \"are revealed\").",
+    "Mishnaic Hebrew uses שֶׁ- for \"that\", \"who\", \"for\"; so שֶׁכָּל הָעוֹלָם כֻּלּוֹ ... is \"that the whole world ...\" after אֶלָּא \"but\"."
+   ],
+   "note": "כְדַי הוּא לוֹ means roughly \"it is enough, it is worth it, for him\": the whole world is (worth the) trouble or existence for his sake; the Hebrew does not say who benefits. The subject of the feminine participles is the Torah (see grammar). וֶהֱוֵי is an imperative (\"be!\") standing in a run of third-person descriptions; the English follows the sense (\"he is modest and patient\") and the imperative is recorded in the apparatus. הַמַּעֲשִׂים, \"the works\", can mean God's creations or deeds; the English keeps the literal \"works\".",
+   "commentary": [],
+   "apparatus": [
+    "Proverbs 8:14 is quoted (לִי עֵצָה וְתוּשִׁיָּה אֲנִי בִינָה לִי גְבוּרָה), translated here from the Hebrew of the mishnah.",
+    "Alternative for 6:1.90: \"And be modest and patient\" read as a direct address (imperative), as the form וֶהֱוֵי literally is.",
+    "Vilna variants: 6:1.2 החכמים (with article), 6:1.29 ריע for רֵעַ, 6:1.59 ממנה for מִמֶּנּוּ; Vilna lacks the verse citation labels (משלי ח)."
+   ]
+  },
+  {
+   "ref": "6:2",
+   "english": "Rabbi Joshua son of Levi said: Every single day a heavenly voice goes out from Mount Horeb, proclaiming and saying: Woe to the creatures for the insult done to the Torah! For whoever does not engage in Torah is called rebuked, as it is said (Proverbs 11): \"A gold ring in a pig's snout: a beautiful woman who has turned from discretion.\" And it says (Exodus 32): \"The tablets were the work of God, and the writing was the writing of God, engraved on the tablets.\" Do not read ḥarut (engraved) but ḥerut (freedom), for you have no free person except one who engages in the study of Torah. And whoever engages in the study of Torah, such a person is exalted, as it is said (Numbers 21): \"And from Mattanah to Nahaliel, and from Nahaliel to Bamoth.\"",
+   "literal": "said Rabbi Joshua son-of Levi in-every day and-day daughter-of voice going-out from-mount-of Horeb and-proclaiming and-saying woe to-them to-the-creatures from-her-insult of Torah that-all who that-not engaging in-Torah is-called rebuked that-it-is-said Proverbs 11 ring gold in-snout-of pig woman beautiful and-turned-aside taste and-saying Exodus 32 and-the-tablets work-of God they and-the-writing writing-of God it engraved on the-tablets not read engraved but freedom that-there-is-not to-you son-of freedmen except who that-engaging in-study-of Torah and-all who that-engaging in-study-of Torah behold this raising-himself that-it-is-said Numbers 21 and-from-Mattanah Nahaliel and-from-Nahaliel Bamoth",
+   "tokens": [
+    {
+     "id": "6:2.1",
+     "gloss": "said",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:2.2",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.3",
+     "gloss": "Joshua"
+    },
+    {
+     "id": "6:2.4",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.5",
+     "gloss": "Levi",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.6",
+     "gloss": "in every",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.7",
+     "gloss": "day",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.8",
+     "gloss": "and day",
+     "sense": "1",
+     "note": "repetition for emphasis: 'every single day'"
+    },
+    {
+     "id": "6:2.9",
+     "gloss": "daughter of",
+     "sense": "1",
+     "note": "בַּת, here 'daughter of' in the technical term בַּת קוֹל"
+    },
+    {
+     "id": "6:2.10",
+     "gloss": "voice",
+     "sense": "1",
+     "note": "sense 1"
+    },
+    {
+     "id": "6:2.11",
+     "gloss": "going out",
+     "sense": "1.1.1",
+     "note": "feminine participle agreeing with בת קול"
+    },
+    {
+     "id": "6:2.12",
+     "gloss": "from the mountain of",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.13",
+     "gloss": "Horeb",
+     "note": "Horeb, another name for Sinai"
+    },
+    {
+     "id": "6:2.14",
+     "gloss": "and proclaiming",
+     "sense": "1",
+     "note": "Piel participle, 'announces publicly'"
+    },
+    {
+     "id": "6:2.15",
+     "gloss": "and saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:2.16",
+     "gloss": "woe",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.17",
+     "gloss": "to them",
+     "note": "pleonastic pronoun anticipating the noun"
+    },
+    {
+     "id": "6:2.18",
+     "gloss": "to the creatures"
+    },
+    {
+     "id": "6:2.19",
+     "gloss": "from her insult",
+     "sense": "1",
+     "note": "מִן 'from, because of'; suffix anticipates תורה"
+    },
+    {
+     "id": "6:2.20",
+     "gloss": "of",
+     "sense": "1",
+     "note": "genitive particle שֶׁל"
+    },
+    {
+     "id": "6:2.21",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.22",
+     "gloss": "that all",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.23",
+     "gloss": "who",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.24",
+     "gloss": "that is not",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.25",
+     "gloss": "engaging",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.26",
+     "gloss": "in Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.27",
+     "gloss": "is called",
+     "sense": "1.2"
+    },
+    {
+     "id": "6:2.28",
+     "gloss": "rebuked",
+     "sense": "1",
+     "note": "passive participle of נזף"
+    },
+    {
+     "id": "6:2.29",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "6:2.30",
+     "gloss": "Proverbs",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.31",
+     "gloss": "11"
+    },
+    {
+     "id": "6:2.32",
+     "gloss": "ring",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.33",
+     "gloss": "gold",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.34",
+     "gloss": "in the nose of",
+     "sense": "1",
+     "note": "אַף 'nostril, nose'"
+    },
+    {
+     "id": "6:2.35",
+     "gloss": "pig",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.36",
+     "gloss": "woman",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.37",
+     "gloss": "beautiful",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.38",
+     "gloss": "and has turned aside",
+     "sense": "1",
+     "note": "qal perfect 3rd feminine singular of סור"
+    },
+    {
+     "id": "6:2.39",
+     "gloss": "discretion",
+     "sense": "1",
+     "note": "טַעַם, 'taste', hence 'good sense, discretion'"
+    },
+    {
+     "id": "6:2.40",
+     "gloss": "and says",
+     "sense": "1.1",
+     "note": "participle with the verse as subject understood: 'and it says'"
+    },
+    {
+     "id": "6:2.41",
+     "gloss": "Exodus"
+    },
+    {
+     "id": "6:2.42",
+     "gloss": "32"
+    },
+    {
+     "id": "6:2.43",
+     "gloss": "and the tablets",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.44",
+     "gloss": "work of",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.45",
+     "gloss": "God",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.46",
+     "gloss": "they",
+     "note": "resumptive pronoun"
+    },
+    {
+     "id": "6:2.47",
+     "gloss": "and the writing",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.48",
+     "gloss": "writing of",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.49",
+     "gloss": "God",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.50",
+     "gloss": "it",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.51",
+     "gloss": "engraved",
+     "note": "passive participle of חרת"
+    },
+    {
+     "id": "6:2.52",
+     "gloss": "on",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.53",
+     "gloss": "the tablets",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.54",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.55",
+     "gloss": "read",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:2.56",
+     "gloss": "engraved"
+    },
+    {
+     "id": "6:2.57",
+     "gloss": "but"
+    },
+    {
+     "id": "6:2.58",
+     "gloss": "freedom",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.59",
+     "gloss": "that there is not",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.60",
+     "gloss": "to you"
+    },
+    {
+     "id": "6:2.61",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "בֶּן חוֹרִין is a fixed phrase 'free person'"
+    },
+    {
+     "id": "6:2.62",
+     "gloss": "freedmen",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.63",
+     "gloss": "except"
+    },
+    {
+     "id": "6:2.64",
+     "gloss": "who",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.65",
+     "gloss": "that engages",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.66",
+     "gloss": "in the study of",
+     "sense": "1",
+     "note": "תַּלְמוּד, 'study, learning'"
+    },
+    {
+     "id": "6:2.67",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.68",
+     "gloss": "and all",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.69",
+     "gloss": "who",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.70",
+     "gloss": "that engages",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.71",
+     "gloss": "in the study of",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.72",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.73",
+     "gloss": "behold",
+     "sense": "1",
+     "note": "presentative הֲרֵי"
+    },
+    {
+     "id": "6:2.74",
+     "gloss": "this one",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.75",
+     "gloss": "is exalted",
+     "sense": "1",
+     "note": "Hitpael participle, 'raises himself, is elevated'"
+    },
+    {
+     "id": "6:2.76",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "6:2.77",
+     "gloss": "Numbers",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.78",
+     "gloss": "21"
+    },
+    {
+     "id": "6:2.79",
+     "gloss": "and from Mattanah",
+     "sense": "1",
+     "note": "place name; also 'gift'"
+    },
+    {
+     "id": "6:2.80",
+     "gloss": "Nahaliel",
+     "sense": "1",
+     "note": "place name; 'inheritance (or valley) of God'"
+    },
+    {
+     "id": "6:2.81",
+     "gloss": "and from Nahaliel",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.82",
+     "gloss": "Bamoth",
+     "note": "place name; also 'high places, heights'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:2.1",
+      "6:2.2",
+      "6:2.3",
+      "6:2.4",
+      "6:2.5"
+     ],
+     "english": "Rabbi Joshua son of Levi said",
+     "literal": "said Rabbi Joshua son-of Levi"
+    },
+    {
+     "tokens": [
+      "6:2.6",
+      "6:2.7",
+      "6:2.8"
+     ],
+     "english": "Every single day",
+     "literal": "in-every day and-day :: וָיוֹם emphatic"
+    },
+    {
+     "tokens": [
+      "6:2.9",
+      "6:2.10"
+     ],
+     "english": "a heavenly voice",
+     "literal": "daughter-of voice :: בת קול"
+    },
+    {
+     "tokens": [
+      "6:2.11",
+      "6:2.12",
+      "6:2.13"
+     ],
+     "english": "goes out from Mount Horeb",
+     "literal": "going-out from-mount-of Horeb"
+    },
+    {
+     "tokens": [
+      "6:2.14",
+      "6:2.15"
+     ],
+     "english": "proclaiming and saying",
+     "literal": "and-proclaiming and-saying"
+    },
+    {
+     "tokens": [
+      "6:2.16",
+      "6:2.17",
+      "6:2.18"
+     ],
+     "english": "Woe to the creatures",
+     "literal": "woe to-them to-the-creatures"
+    },
+    {
+     "tokens": [
+      "6:2.19",
+      "6:2.20",
+      "6:2.21"
+     ],
+     "english": "for the insult done to the Torah",
+     "literal": "from-her-insult of Torah"
+    },
+    {
+     "tokens": [
+      "6:2.22",
+      "6:2.23",
+      "6:2.24",
+      "6:2.25",
+      "6:2.26"
+     ],
+     "english": "for whoever does not engage in Torah",
+     "literal": "that-all who that-not engaging in-Torah"
+    },
+    {
+     "tokens": [
+      "6:2.27",
+      "6:2.28"
+     ],
+     "english": "is called rebuked",
+     "literal": "is-called rebuked"
+    },
+    {
+     "tokens": [
+      "6:2.29",
+      "6:2.30",
+      "6:2.31"
+     ],
+     "english": "as it is said (Proverbs 11)",
+     "literal": "that-it-is-said Proverbs 11"
+    },
+    {
+     "tokens": [
+      "6:2.32",
+      "6:2.33",
+      "6:2.34",
+      "6:2.35"
+     ],
+     "english": "A gold ring in a pig's snout",
+     "literal": "ring gold in-snout-of pig :: Proverbs 11:22"
+    },
+    {
+     "tokens": [
+      "6:2.36",
+      "6:2.37",
+      "6:2.38",
+      "6:2.39"
+     ],
+     "english": "a beautiful woman who has turned from discretion",
+     "literal": "woman beautiful and-turned-aside taste"
+    },
+    {
+     "tokens": [
+      "6:2.40",
+      "6:2.41",
+      "6:2.42"
+     ],
+     "english": "And it says (Exodus 32)",
+     "literal": "and-saying Exodus 32 :: 'And (Scripture) says' introducing a second verse"
+    },
+    {
+     "tokens": [
+      "6:2.43",
+      "6:2.44",
+      "6:2.45",
+      "6:2.46"
+     ],
+     "english": "The tablets were the work of God",
+     "literal": "and-the-tablets work-of God they"
+    },
+    {
+     "tokens": [
+      "6:2.47",
+      "6:2.48",
+      "6:2.49",
+      "6:2.50"
+     ],
+     "english": "and the writing was the writing of God",
+     "literal": "and-the-writing writing-of God it"
+    },
+    {
+     "tokens": [
+      "6:2.51",
+      "6:2.52",
+      "6:2.53"
+     ],
+     "english": "engraved on the tablets",
+     "literal": "engraved on the-tablets"
+    },
+    {
+     "tokens": [
+      "6:2.54",
+      "6:2.55",
+      "6:2.56"
+     ],
+     "english": "Do not read ḥarut (engraved)",
+     "literal": "not read engraved"
+    },
+    {
+     "tokens": [
+      "6:2.57",
+      "6:2.58"
+     ],
+     "english": "but ḥerut (freedom)",
+     "literal": "but freedom"
+    },
+    {
+     "tokens": [
+      "6:2.59",
+      "6:2.60",
+      "6:2.61",
+      "6:2.62"
+     ],
+     "english": "for you have no free person",
+     "literal": "that-there-is-not to-you son-of freedmen"
+    },
+    {
+     "tokens": [
+      "6:2.63",
+      "6:2.64",
+      "6:2.65",
+      "6:2.66",
+      "6:2.67"
+     ],
+     "english": "except one who engages in the study of Torah",
+     "literal": "except who that-engaging in-study-of Torah"
+    },
+    {
+     "tokens": [
+      "6:2.68",
+      "6:2.69",
+      "6:2.70",
+      "6:2.71",
+      "6:2.72"
+     ],
+     "english": "And whoever engages in the study of Torah",
+     "literal": "and-all who that-engaging in-study-of Torah"
+    },
+    {
+     "tokens": [
+      "6:2.73",
+      "6:2.74",
+      "6:2.75"
+     ],
+     "english": "such a person is exalted",
+     "literal": "behold this raising-himself :: הֲרֵי זֶה"
+    },
+    {
+     "tokens": [
+      "6:2.76",
+      "6:2.77",
+      "6:2.78"
+     ],
+     "english": "as it is said (Numbers 21)",
+     "literal": "that-it-is-said Numbers 21"
+    },
+    {
+     "tokens": [
+      "6:2.79",
+      "6:2.80"
+     ],
+     "english": "And from Mattanah to Nahaliel",
+     "literal": "and-from-Mattanah Nahaliel"
+    },
+    {
+     "tokens": [
+      "6:2.81",
+      "6:2.82"
+     ],
+     "english": "and from Nahaliel to Bamoth",
+     "literal": "and-from-Nahaliel Bamoth"
+    }
+   ],
+   "grammar": [
+    "בַּת קוֹל, literally \"daughter of a voice\", is a technical term for a heavenly voice that makes God's will known after prophecy has ceased; it is in the construct state, and יוֹצֵאת, מַכְרֶזֶת and אוֹמֶרֶת are feminine participles agreeing with it.",
+    "וָיוֹם repeats יוֹם with a conjunction for emphasis: \"day and day\", i.e. every single day.",
+    "מֵעֶלְבּוֹנָהּ שֶׁל תּוֹרָה uses the Mishnaic genitive particle שֶׁל; the feminine suffix -הּ anticipates תּוֹרָה (a \"split construct\"): \"from her insult, of Torah\". The insult is the one Torah suffers, when people neglect her.",
+    "The citation אֵין לְךָ ... אֶלָּא מִי שֶׁ- is the Mishnaic idiom \"you have no X except one who ...\"; אַל תִּקְרָא ... אֶלָּא is a formula of reading-variation (a midrashic re-vocalization), here exploiting the two readings חָרוּת / חֵרוּת of the same consonants חרות.",
+    "Numbers 21:19 is a list of stopping-places; the mishnah relies on the meanings of the names, mattanah \"gift\", naḥaliel \"inheritance (or portion) of God\", bamot \"heights\", to describe a rise by stages. The English translates the verse as place names, as the Hebrew has them."
+   ],
+   "note": "Vilna's text differs at 6:2.71-72 (בתורה תדיר, \"constantly in Torah\"). נָזוּף is the passive participle of נזף, \"rebuked, censured\". סָרַת טָעַם: טַעַם is \"taste, discernment, good sense\"; the verse says the woman has turned aside from it. The English for בַּת קוֹל gives the meaning \"heavenly voice\" and the literal sense is in the phrase literal. הֲרֵי זֶה (lit. \"behold this one\") is rendered \"such a person\".",
+   "commentary": [],
+   "apparatus": [
+    "Proverbs 11:22; Exodus 32:16; Numbers 21:19; all quoted from the Hebrew of the mishnah.",
+    "Vilna variants: 6:2.43 and 6:2.53 spell הלוחות (full spelling); 6:2.58 spells חירות; 6:2.71-72 reads בתורה תדיר for בְּתַלְמוּד תּוֹרָה."
+   ]
+  },
+  {
+   "ref": "6:3",
+   "english": "One who learns from his fellow a single chapter, or a single halakhah, or a single verse, or a single saying, or even a single letter, must treat him with honor. For so we find with David, king of Israel, who learned from Ahithophel only two things, yet called him his teacher, his companion and his familiar, as it is said (Psalms 55): \"And you, a man of my own rank, my companion and my familiar.\" Is this not an argument from the lesser to the greater? If David, king of Israel, who learned from Ahithophel only two things, called him his teacher, his companion and his familiar, then one who learns from his fellow a single chapter, or a single halakhah, or a single verse, or a single saying, or even a single letter, how much more so must he treat him with honor. And there is no honor but Torah, as it is said (Proverbs 3): \"The wise shall inherit honor,\" and (Proverbs 28): \"and the blameless shall inherit good\"; and there is no good but Torah, as it is said (Proverbs 4): \"For I have given you good teaching; do not forsake my Torah.\"",
+   "literal": "the-one-learning from-his-fellow chapter one or halakhah one or verse one or saying one or even letter one needing to-conduct with-him honor for-so we-found in-David king-of Israel that-not learned from-Ahithophel except two-of things only called-him his-teacher his-companion and-his-familiar that-it-is-said Psalms 55 and-you man like-my-rank my-companion and-my-familiar and-is-not things light and-heavy and-if David king-of Israel that-not learned from-Ahithophel except two-of things only called-him his-teacher his-companion and-his-familiar the-one-learning from-his-fellow chapter one or halakhah one or verse one or saying one or even letter one on one how-much and-how-much that-needing to-conduct with-him honor and-there-is-not honor except Torah that-it-is-said Proverbs 3 honor wise-ones they-shall-inherit Proverbs 28 and-blameless they-shall-inherit good and-there-is-not good except Torah that-it-is-said Proverbs 4 for teaching good I-gave to-you my-Torah not you-forsake",
+   "tokens": [
+    {
+     "id": "6:3.1",
+     "gloss": "the one who learns",
+     "sense": "1.1",
+     "note": "participle with article used as a noun"
+    },
+    {
+     "id": "6:3.2",
+     "gloss": "from his fellow",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.3",
+     "gloss": "chapter",
+     "sense": "1",
+     "note": "here a section of the Mishnah or Torah"
+    },
+    {
+     "id": "6:3.4",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.5",
+     "gloss": "or"
+    },
+    {
+     "id": "6:3.6",
+     "gloss": "halakhah",
+     "sense": "1",
+     "note": "a rule of law"
+    },
+    {
+     "id": "6:3.7",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.8",
+     "gloss": "or"
+    },
+    {
+     "id": "6:3.9",
+     "gloss": "verse",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.10",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.11",
+     "gloss": "or"
+    },
+    {
+     "id": "6:3.12",
+     "gloss": "saying"
+    },
+    {
+     "id": "6:3.13",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.14",
+     "gloss": "or"
+    },
+    {
+     "id": "6:3.15",
+     "gloss": "even"
+    },
+    {
+     "id": "6:3.16",
+     "gloss": "letter",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.17",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.18",
+     "gloss": "needs",
+     "sense": "1",
+     "note": "adjective צָרִיךְ 'necessary'; here 'is obliged'"
+    },
+    {
+     "id": "6:3.19",
+     "gloss": "to conduct",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:3.20",
+     "gloss": "with him"
+    },
+    {
+     "id": "6:3.21",
+     "gloss": "honor",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.22",
+     "gloss": "because so"
+    },
+    {
+     "id": "6:3.23",
+     "gloss": "we found",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:3.24",
+     "gloss": "in David",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.25",
+     "gloss": "king of",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.26",
+     "gloss": "Israel",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.27",
+     "gloss": "that not",
+     "sense": "1",
+     "note": "שֶׁלֹּא with אֶלָּא means 'who ... only'"
+    },
+    {
+     "id": "6:3.28",
+     "gloss": "learned",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:3.29",
+     "gloss": "from Ahithophel"
+    },
+    {
+     "id": "6:3.30",
+     "gloss": "except"
+    },
+    {
+     "id": "6:3.31",
+     "gloss": "two",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.32",
+     "gloss": "things",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.33",
+     "gloss": "only"
+    },
+    {
+     "id": "6:3.34",
+     "gloss": "called him",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:3.35",
+     "gloss": "his teacher",
+     "sense": "1",
+     "note": "רַב, 'master, teacher'"
+    },
+    {
+     "id": "6:3.36",
+     "gloss": "his companion",
+     "sense": "1",
+     "note": "אַלּוּף 'friend, intimate'; also 'chief'"
+    },
+    {
+     "id": "6:3.37",
+     "gloss": "and his familiar",
+     "sense": "1",
+     "note": "Pual participle of ידע, 'known (to him), an intimate'"
+    },
+    {
+     "id": "6:3.38",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "6:3.39",
+     "gloss": "Psalms"
+    },
+    {
+     "id": "6:3.40",
+     "gloss": "55"
+    },
+    {
+     "id": "6:3.41",
+     "gloss": "and you",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.42",
+     "gloss": "man",
+     "sense": "1",
+     "note": "אֱנוֹשׁ 'man, mortal'"
+    },
+    {
+     "id": "6:3.43",
+     "gloss": "like my rank",
+     "sense": "1",
+     "note": "ערך 'estimate, rank, equal'"
+    },
+    {
+     "id": "6:3.44",
+     "gloss": "my companion",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.45",
+     "gloss": "and my familiar",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.46",
+     "gloss": "and is it not"
+    },
+    {
+     "id": "6:3.47",
+     "gloss": "things",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.48",
+     "gloss": "light",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.49",
+     "gloss": "and heavy",
+     "sense": "1",
+     "note": "the a fortiori argument, 'light and heavy'"
+    },
+    {
+     "id": "6:3.50",
+     "gloss": "and if",
+     "sense": "1",
+     "note": "וּמָה 'and what, if'"
+    },
+    {
+     "id": "6:3.51",
+     "gloss": "David",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.52",
+     "gloss": "king of",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.53",
+     "gloss": "Israel",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.54",
+     "gloss": "that not",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.55",
+     "gloss": "learned",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:3.56",
+     "gloss": "from Ahithophel"
+    },
+    {
+     "id": "6:3.57",
+     "gloss": "except"
+    },
+    {
+     "id": "6:3.58",
+     "gloss": "two",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.59",
+     "gloss": "things",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.60",
+     "gloss": "only"
+    },
+    {
+     "id": "6:3.61",
+     "gloss": "called him",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:3.62",
+     "gloss": "his teacher",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.63",
+     "gloss": "his companion",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.64",
+     "gloss": "and his familiar",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.65",
+     "gloss": "the one who learns",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:3.66",
+     "gloss": "from his fellow",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.67",
+     "gloss": "chapter",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.68",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.69",
+     "gloss": "or"
+    },
+    {
+     "id": "6:3.70",
+     "gloss": "halakhah",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.71",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.72",
+     "gloss": "or"
+    },
+    {
+     "id": "6:3.73",
+     "gloss": "verse",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.74",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.75",
+     "gloss": "or"
+    },
+    {
+     "id": "6:3.76",
+     "gloss": "saying"
+    },
+    {
+     "id": "6:3.77",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.78",
+     "gloss": "or"
+    },
+    {
+     "id": "6:3.79",
+     "gloss": "even"
+    },
+    {
+     "id": "6:3.80",
+     "gloss": "letter",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.81",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.82",
+     "gloss": "on",
+     "sense": "1",
+     "note": "'on, upon'"
+    },
+    {
+     "id": "6:3.83",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.84",
+     "gloss": "how much",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.85",
+     "gloss": "and how much",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.86",
+     "gloss": "that needs",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.87",
+     "gloss": "to conduct",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:3.88",
+     "gloss": "with him"
+    },
+    {
+     "id": "6:3.89",
+     "gloss": "honor",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.90",
+     "gloss": "and there is not",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.91",
+     "gloss": "honor",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.92",
+     "gloss": "except"
+    },
+    {
+     "id": "6:3.93",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.94",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "6:3.95",
+     "gloss": "Proverbs",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.96",
+     "gloss": "3"
+    },
+    {
+     "id": "6:3.97",
+     "gloss": "honor",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.98",
+     "gloss": "the wise",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.99",
+     "gloss": "they shall inherit",
+     "sense": "1",
+     "note": "imperfect 3rd plural"
+    },
+    {
+     "id": "6:3.100",
+     "gloss": "Proverbs",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.101",
+     "gloss": "28"
+    },
+    {
+     "id": "6:3.102",
+     "gloss": "and the blameless",
+     "sense": "1",
+     "note": "תָּמִים 'whole, blameless'"
+    },
+    {
+     "id": "6:3.103",
+     "gloss": "they shall inherit",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.104",
+     "gloss": "good",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.105",
+     "gloss": "and there is not",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.106",
+     "gloss": "good",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.107",
+     "gloss": "except"
+    },
+    {
+     "id": "6:3.108",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.109",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "6:3.110",
+     "gloss": "Proverbs",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.111",
+     "gloss": "4",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.112",
+     "gloss": "for"
+    },
+    {
+     "id": "6:3.113",
+     "gloss": "teaching",
+     "sense": "1",
+     "note": "לֶקַח 'teaching, learning'"
+    },
+    {
+     "id": "6:3.114",
+     "gloss": "good",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.115",
+     "gloss": "I gave",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:3.116",
+     "gloss": "to you"
+    },
+    {
+     "id": "6:3.117",
+     "gloss": "my Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.118",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "6:3.119",
+     "gloss": "you (plural) shall forsake",
+     "sense": "1.1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:3.1",
+      "6:3.2"
+     ],
+     "english": "One who learns from his fellow",
+     "literal": "the-one-learning from-his-fellow"
+    },
+    {
+     "tokens": [
+      "6:3.3",
+      "6:3.4"
+     ],
+     "english": "a single chapter",
+     "literal": "chapter one"
+    },
+    {
+     "tokens": [
+      "6:3.5",
+      "6:3.6",
+      "6:3.7"
+     ],
+     "english": "or a single halakhah",
+     "literal": "or halakhah one"
+    },
+    {
+     "tokens": [
+      "6:3.8",
+      "6:3.9",
+      "6:3.10"
+     ],
+     "english": "or a single verse",
+     "literal": "or verse one"
+    },
+    {
+     "tokens": [
+      "6:3.11",
+      "6:3.12",
+      "6:3.13"
+     ],
+     "english": "or a single saying",
+     "literal": "or saying one"
+    },
+    {
+     "tokens": [
+      "6:3.14",
+      "6:3.15",
+      "6:3.16",
+      "6:3.17"
+     ],
+     "english": "or even a single letter",
+     "literal": "or even letter one"
+    },
+    {
+     "tokens": [
+      "6:3.18",
+      "6:3.19",
+      "6:3.20",
+      "6:3.21"
+     ],
+     "english": "must treat him with honor",
+     "literal": "needing to-conduct with-him honor :: נָהַג בְּ- 'treat'"
+    },
+    {
+     "tokens": [
+      "6:3.22",
+      "6:3.23"
+     ],
+     "english": "for so we find",
+     "literal": "for-so we-found"
+    },
+    {
+     "tokens": [
+      "6:3.24",
+      "6:3.25",
+      "6:3.26"
+     ],
+     "english": "with David, king of Israel",
+     "literal": "in-David king-of Israel"
+    },
+    {
+     "tokens": [
+      "6:3.27",
+      "6:3.28",
+      "6:3.29",
+      "6:3.30",
+      "6:3.31",
+      "6:3.32",
+      "6:3.33"
+     ],
+     "english": "who learned from Ahithophel only two things",
+     "literal": "that-not learned from-Ahithophel except two-of things only"
+    },
+    {
+     "tokens": [
+      "6:3.34",
+      "6:3.35",
+      "6:3.36",
+      "6:3.37"
+     ],
+     "english": "yet called him his teacher, his companion and his familiar",
+     "literal": "called-him his-teacher his-companion and-his-familiar"
+    },
+    {
+     "tokens": [
+      "6:3.38",
+      "6:3.39",
+      "6:3.40"
+     ],
+     "english": "as it is said (Psalms 55)",
+     "literal": "that-it-is-said Psalms 55"
+    },
+    {
+     "tokens": [
+      "6:3.41",
+      "6:3.42",
+      "6:3.43"
+     ],
+     "english": "And you, a man of my own rank",
+     "literal": "and-you man like-my-rank"
+    },
+    {
+     "tokens": [
+      "6:3.44",
+      "6:3.45"
+     ],
+     "english": "my companion and my familiar",
+     "literal": "my-companion and-my-familiar"
+    },
+    {
+     "tokens": [
+      "6:3.46",
+      "6:3.47",
+      "6:3.48",
+      "6:3.49"
+     ],
+     "english": "Is this not an argument from the lesser to the greater",
+     "literal": "and-is-not things light and-heavy :: קל וחומר"
+    },
+    {
+     "tokens": [
+      "6:3.50",
+      "6:3.51",
+      "6:3.52",
+      "6:3.53"
+     ],
+     "english": "If David, king of Israel",
+     "literal": "and-if David king-of Israel"
+    },
+    {
+     "tokens": [
+      "6:3.54",
+      "6:3.55",
+      "6:3.56",
+      "6:3.57",
+      "6:3.58",
+      "6:3.59",
+      "6:3.60"
+     ],
+     "english": "who learned from Ahithophel only two things",
+     "literal": "that-not learned from-Ahithophel except two-of things only"
+    },
+    {
+     "tokens": [
+      "6:3.61",
+      "6:3.62",
+      "6:3.63",
+      "6:3.64"
+     ],
+     "english": "called him his teacher, his companion and his familiar",
+     "literal": "called-him his-teacher his-companion and-his-familiar"
+    },
+    {
+     "tokens": [
+      "6:3.65",
+      "6:3.66"
+     ],
+     "english": "one who learns from his fellow",
+     "literal": "the-one-learning from-his-fellow"
+    },
+    {
+     "tokens": [
+      "6:3.67",
+      "6:3.68"
+     ],
+     "english": "a single chapter",
+     "literal": "chapter one"
+    },
+    {
+     "tokens": [
+      "6:3.69",
+      "6:3.70",
+      "6:3.71"
+     ],
+     "english": "or a single halakhah",
+     "literal": "or halakhah one"
+    },
+    {
+     "tokens": [
+      "6:3.72",
+      "6:3.73",
+      "6:3.74"
+     ],
+     "english": "or a single verse",
+     "literal": "or verse one"
+    },
+    {
+     "tokens": [
+      "6:3.75",
+      "6:3.76",
+      "6:3.77"
+     ],
+     "english": "or a single saying",
+     "literal": "or saying one"
+    },
+    {
+     "tokens": [
+      "6:3.78",
+      "6:3.79",
+      "6:3.80",
+      "6:3.81"
+     ],
+     "english": "or even a single letter",
+     "literal": "or even letter one"
+    },
+    {
+     "tokens": [
+      "6:3.82",
+      "6:3.83",
+      "6:3.84",
+      "6:3.85"
+     ],
+     "english": "how much more so",
+     "literal": "on one how-much and-how-much :: עַל אַחַת כַּמָּה וְכַמָּה"
+    },
+    {
+     "tokens": [
+      "6:3.86",
+      "6:3.87",
+      "6:3.88",
+      "6:3.89"
+     ],
+     "english": "must he treat him with honor",
+     "literal": "that-needing to-conduct with-him honor"
+    },
+    {
+     "tokens": [
+      "6:3.90",
+      "6:3.91",
+      "6:3.92",
+      "6:3.93"
+     ],
+     "english": "And there is no honor but Torah",
+     "literal": "and-there-is-not honor except Torah"
+    },
+    {
+     "tokens": [
+      "6:3.94",
+      "6:3.95",
+      "6:3.96"
+     ],
+     "english": "as it is said (Proverbs 3)",
+     "literal": "that-it-is-said Proverbs 3"
+    },
+    {
+     "tokens": [
+      "6:3.97",
+      "6:3.98",
+      "6:3.99"
+     ],
+     "english": "The wise shall inherit honor",
+     "literal": "honor wise-ones they-shall-inherit :: Proverbs 3:35"
+    },
+    {
+     "tokens": [
+      "6:3.100",
+      "6:3.101"
+     ],
+     "english": "Proverbs 28",
+     "literal": "Proverbs 28"
+    },
+    {
+     "tokens": [
+      "6:3.102",
+      "6:3.103",
+      "6:3.104"
+     ],
+     "english": "and the blameless shall inherit good",
+     "literal": "and-blameless they-shall-inherit good :: Proverbs 28:10"
+    },
+    {
+     "tokens": [
+      "6:3.105",
+      "6:3.106",
+      "6:3.107",
+      "6:3.108"
+     ],
+     "english": "and there is no good but Torah",
+     "literal": "and-there-is-not good except Torah"
+    },
+    {
+     "tokens": [
+      "6:3.109",
+      "6:3.110",
+      "6:3.111"
+     ],
+     "english": "as it is said (Proverbs 4)",
+     "literal": "that-it-is-said Proverbs 4"
+    },
+    {
+     "tokens": [
+      "6:3.112",
+      "6:3.113",
+      "6:3.114",
+      "6:3.115",
+      "6:3.116"
+     ],
+     "english": "For I have given you good teaching",
+     "literal": "for teaching good I-gave to-you :: Proverbs 4:2"
+    },
+    {
+     "tokens": [
+      "6:3.117",
+      "6:3.118",
+      "6:3.119"
+     ],
+     "english": "do not forsake my Torah",
+     "literal": "my-Torah not you-forsake"
+    }
+   ],
+   "grammar": [
+    "הַלּוֹמֵד is a participle with the article used as a noun, \"the one who learns\", the subject of the whole sentence; צָרִיךְ לִנְהוֹג בּוֹ כָבוֹד is \"must conduct honor toward him\" (נָהַג + בְּ-).",
+    "שֶׁכֵּן מָצִינוּ (\"for so we found\") is a formula introducing a proof from precedent; שֶׁלֹּא ... אֶלָּא means \"who ... only\".",
+    "וַהֲלֹא דְבָרִים קַל וָחֹמֶר is the formula of the a fortiori argument, \"light and heavy\": what holds in the lighter case (two things learned) holds all the more in the weightier (a chapter, a law ...); the second half is closed by עַל אַחַת כַּמָּה וְכַמָּה, \"how much more so\".",
+    "אֵין ... אֶלָּא (\"there is no X but Y\") is a definitional formula: \"honor\" in the verse means Torah, \"good\" in the verse means Torah, which links the three verses.",
+    "The citations are all verses with direct speech: Psalms 55:14 is addressed to a friend (2nd person), Proverbs 3:35 and 28:10 are third-person statements, and Proverbs 4:2 is God's address (1st person) to the people."
+   ],
+   "note": "אַלּוּף is \"tame; friend, intimate; chief\"; the English \"companion\" follows the sense of Psalm 55 and the sequence rabbo-alufo-meyudda'o (teacher, companion, familiar), but \"chief, guide\" is possible (see lexicon sense 3). כְּעֶרְכִּי is \"according to my rank/estimate\", i.e. \"my equal\". The English \"halakhah\" keeps the technical term for a received rule of law. בִּלְבַד \"only\". תּוֹרָתִי in the quoted verse is \"my teaching\", a gloss of \"my Torah\"; the English keeps \"Torah\" as the decisions require.",
+   "commentary": [],
+   "apparatus": [
+    "Psalms 55:14; Proverbs 3:35; Proverbs 28:10; Proverbs 4:2; all quoted from the Hebrew of the mishnah.",
+    "Vilna variants: 6:3.2 and 6:3.66 מחבירו; 6:3.15 and 6:3.79 אפילו; 6:3.29 and 6:3.56 מאחיתופל; 6:3.34 וקראו; 6:3.37, 6:3.45, 6:3.64 with ו in מיודע-; 6:3.49 וחומר; 6:3.119 תעזובו; Vilna lacks the third \"או\" at 6:3.14 and 6:3.78 (reading \"or a single saying, even a single letter\")."
+   ]
+  },
+  {
+   "ref": "6:4",
+   "english": "This is the way of Torah: you shall eat bread with salt, and drink water by measure, and sleep on the ground, and live a life of hardship, and toil in Torah. If you do this, (Psalms 128) \"Happy are you, and it shall be well with you\": happy are you in this world, and it shall be well with you in the world to come.",
+   "literal": "so it way-of-her of Torah bread with-salt you-eat and-water by-measure you-drink and-on the-ground you-sleep and-life-of hardship you-live and-in-Torah you toiling if you doing so Psalms 128 happy-are-you and-good to-you happy-are-you in-the-world the-this and-good to-you to-the-world the-coming",
+   "tokens": [
+    {
+     "id": "6:4.1",
+     "gloss": "thus",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.2",
+     "gloss": "it",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.3",
+     "gloss": "her way",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.4",
+     "gloss": "of",
+     "sense": "1",
+     "note": "genitive particle שֶׁל"
+    },
+    {
+     "id": "6:4.5",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.6",
+     "gloss": "bread",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.7",
+     "gloss": "with salt",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.8",
+     "gloss": "you shall eat",
+     "sense": "1.1.1",
+     "note": "imperfect 2nd masculine singular"
+    },
+    {
+     "id": "6:4.9",
+     "gloss": "and water",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.10",
+     "gloss": "by measure",
+     "sense": "1",
+     "note": "מְשׂוּרָה 'a small measure'"
+    },
+    {
+     "id": "6:4.11",
+     "gloss": "you shall drink",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.12",
+     "gloss": "and on",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.13",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.14",
+     "gloss": "you shall sleep",
+     "sense": "1",
+     "note": "qal imperfect of ישן, 'sleep'"
+    },
+    {
+     "id": "6:4.15",
+     "gloss": "and the life of",
+     "sense": "1",
+     "note": "חַיִּים plural construct"
+    },
+    {
+     "id": "6:4.16",
+     "gloss": "hardship",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.17",
+     "gloss": "you shall live",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:4.18",
+     "gloss": "and in Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.19",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.20",
+     "gloss": "toiling",
+     "sense": "1.1",
+     "note": "participle, 'laboring, exerting yourself'"
+    },
+    {
+     "id": "6:4.21",
+     "gloss": "if"
+    },
+    {
+     "id": "6:4.22",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.23",
+     "gloss": "doing",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:4.24",
+     "gloss": "so",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.25",
+     "gloss": "Psalms"
+    },
+    {
+     "id": "6:4.26",
+     "gloss": "128"
+    },
+    {
+     "id": "6:4.27",
+     "gloss": "happy are you",
+     "sense": "1",
+     "note": "אַשְׁרֵי, plural construct 'blessedness of' + suffix 'you'"
+    },
+    {
+     "id": "6:4.28",
+     "gloss": "and good",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.29",
+     "gloss": "to you"
+    },
+    {
+     "id": "6:4.30",
+     "gloss": "happy are you",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.31",
+     "gloss": "in the world",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.32",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.33",
+     "gloss": "and good",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.34",
+     "gloss": "to you"
+    },
+    {
+     "id": "6:4.35",
+     "gloss": "to the world",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.36",
+     "gloss": "the coming",
+     "sense": "1",
+     "note": "participle of בוא 'coming', with עוֹלָם the idiom for 'the world to come'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:4.1",
+      "6:4.2",
+      "6:4.3",
+      "6:4.4",
+      "6:4.5"
+     ],
+     "english": "This is the way of Torah",
+     "literal": "so it way-of-her of Torah :: כך היא דרכה של תורה"
+    },
+    {
+     "tokens": [
+      "6:4.6",
+      "6:4.7",
+      "6:4.8"
+     ],
+     "english": "you shall eat bread with salt",
+     "literal": "bread with-salt you-eat"
+    },
+    {
+     "tokens": [
+      "6:4.9",
+      "6:4.10",
+      "6:4.11"
+     ],
+     "english": "and drink water by measure",
+     "literal": "and-water by-measure you-drink"
+    },
+    {
+     "tokens": [
+      "6:4.12",
+      "6:4.13",
+      "6:4.14"
+     ],
+     "english": "sleep on the ground",
+     "literal": "and-on the-ground you-sleep"
+    },
+    {
+     "tokens": [
+      "6:4.15",
+      "6:4.16",
+      "6:4.17"
+     ],
+     "english": "and live a life of hardship",
+     "literal": "and-life-of hardship you-live"
+    },
+    {
+     "tokens": [
+      "6:4.18",
+      "6:4.19",
+      "6:4.20"
+     ],
+     "english": "and toil in Torah",
+     "literal": "and-in-Torah you toiling"
+    },
+    {
+     "tokens": [
+      "6:4.21",
+      "6:4.22",
+      "6:4.23",
+      "6:4.24"
+     ],
+     "english": "If you do this",
+     "literal": "if you doing so"
+    },
+    {
+     "tokens": [
+      "6:4.25",
+      "6:4.26"
+     ],
+     "english": "Psalms 128",
+     "literal": "Psalms 128"
+    },
+    {
+     "tokens": [
+      "6:4.27",
+      "6:4.28",
+      "6:4.29"
+     ],
+     "english": "Happy are you, and it shall be well with you",
+     "literal": "happy-are-you and-good to-you :: Psalms 128:2"
+    },
+    {
+     "tokens": [
+      "6:4.30",
+      "6:4.31",
+      "6:4.32"
+     ],
+     "english": "happy are you in this world",
+     "literal": "happy-are-you in-the-world the-this"
+    },
+    {
+     "tokens": [
+      "6:4.33",
+      "6:4.34",
+      "6:4.35",
+      "6:4.36"
+     ],
+     "english": "and it shall be well with you in the world to come",
+     "literal": "and-good to-you to-the-world the-coming"
+    }
+   ],
+   "grammar": [
+    "כַּךְ הִיא דַּרְכָּהּ שֶׁל תּוֹרָה: the feminine suffix -הּ again anticipates תּוֹרָה (שֶׁל construction); כַּךְ is \"so, thus\", and the sentence reads \"so is the way of Torah\".",
+    "The imperfects תֹּאכַל, תִשְׁתֶּה, תִּישַׁן, תִּחְיֶה are 2nd masculine singular with a force between a command and a description (\"you shall\"); חַיֵּי צַעַר תִּחְיֶה is a cognate accusative, \"live a life of hardship\".",
+    "בִּמְשׂוּרָה is \"by measure\": a small measured quantity; the phrase pairs with בְּמֶלַח to describe a bare diet.",
+    "The verse Psalms 128:2 has אַשְׁרֶיךָ וְטוֹב לָךְ; the mishnah then splits the pair between this world and the world to come, repeating אַשְׁרֶיךָ."
+   ],
+   "note": "וּבַתּוֹרָה אַתָּה עָמֵל puts the object of effort first for emphasis (\"and in Torah you toil\"); the explicit pronoun אַתָּה with a participle is the Mishnaic present. The verse is read as describing the reward, \"happy are you\" (אַשְׁרֶיךָ) being the Hebrew exclamation of blessedness.",
+   "commentary": [],
+   "apparatus": [
+    "Psalms 128:2, quoted from the Hebrew of the mishnah.",
+    "Vilna variants: 6:4.21 reads ואם; 6:4.23 reads עושה; Vilna lacks the citation label (תהלים קכח)."
+   ]
+  },
+  {
+   "ref": "6:5",
+   "english": "Do not seek greatness for yourself, and do not covet honor; do more than you learn. Do not crave the table of kings, for your table is greater than their table, and your crown is greater than their crown, and the master of your work is faithful to pay you the reward of your labor.",
+   "literal": "not seek greatness for-yourself and-not covet honor more than-your-learning do and-not crave to-their-table of kings that-your-table great than-their-table and-your-crown great than-their-crown and-faithful he master-of your-work that-he-will-pay to-you reward-of your-labor",
+   "tokens": [
+    {
+     "id": "6:5.1",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.2",
+     "gloss": "seek",
+     "sense": "1",
+     "note": "Piel imperfect 2nd masculine singular"
+    },
+    {
+     "id": "6:5.3",
+     "gloss": "greatness"
+    },
+    {
+     "id": "6:5.4",
+     "gloss": "for yourself",
+     "sense": "1",
+     "note": "עֶצֶם 'bone, self' with suffix: 'your own self'"
+    },
+    {
+     "id": "6:5.5",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.6",
+     "gloss": "covet",
+     "sense": "2.1"
+    },
+    {
+     "id": "6:5.7",
+     "gloss": "honor",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.8",
+     "gloss": "more",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.9",
+     "gloss": "than your learning",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.10",
+     "gloss": "do",
+     "sense": "1.1.1",
+     "note": "imperative"
+    },
+    {
+     "id": "6:5.11",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.12",
+     "gloss": "crave",
+     "sense": "1",
+     "note": "Hitpael imperfect of אוה, 'desire, long for'"
+    },
+    {
+     "id": "6:5.13",
+     "gloss": "for their table",
+     "sense": "1",
+     "note": "the suffix anticipates מלכים"
+    },
+    {
+     "id": "6:5.14",
+     "gloss": "of",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.15",
+     "gloss": "kings",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.16",
+     "gloss": "that your table",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.17",
+     "gloss": "great",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.18",
+     "gloss": "than their table",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.19",
+     "gloss": "and your crown",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.20",
+     "gloss": "great",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.21",
+     "gloss": "than their crown",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.22",
+     "gloss": "and faithful",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.23",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.24",
+     "gloss": "master of",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.25",
+     "gloss": "your work",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.26",
+     "gloss": "that he will pay",
+     "sense": "1",
+     "note": "Piel imperfect 3rd masculine singular"
+    },
+    {
+     "id": "6:5.27",
+     "gloss": "to you"
+    },
+    {
+     "id": "6:5.28",
+     "gloss": "the reward of",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.29",
+     "gloss": "your labor",
+     "note": "פְּעֻלָּה, 'work, deed, labor'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:5.1",
+      "6:5.2",
+      "6:5.3",
+      "6:5.4"
+     ],
+     "english": "Do not seek greatness for yourself",
+     "literal": "not seek greatness for-yourself"
+    },
+    {
+     "tokens": [
+      "6:5.5",
+      "6:5.6",
+      "6:5.7"
+     ],
+     "english": "and do not covet honor",
+     "literal": "and-not covet honor"
+    },
+    {
+     "tokens": [
+      "6:5.8",
+      "6:5.9",
+      "6:5.10"
+     ],
+     "english": "do more than you learn",
+     "literal": "more than-your-learning do"
+    },
+    {
+     "tokens": [
+      "6:5.11",
+      "6:5.12",
+      "6:5.13",
+      "6:5.14",
+      "6:5.15"
+     ],
+     "english": "Do not crave the table of kings",
+     "literal": "and-not crave to-their-table of kings"
+    },
+    {
+     "tokens": [
+      "6:5.16",
+      "6:5.17",
+      "6:5.18"
+     ],
+     "english": "for your table is greater than their table",
+     "literal": "that-your-table great than-their-table"
+    },
+    {
+     "tokens": [
+      "6:5.19",
+      "6:5.20",
+      "6:5.21"
+     ],
+     "english": "and your crown is greater than their crown",
+     "literal": "and-your-crown great than-their-crown"
+    },
+    {
+     "tokens": [
+      "6:5.22",
+      "6:5.23",
+      "6:5.24",
+      "6:5.25"
+     ],
+     "english": "and the master of your work is faithful",
+     "literal": "and-faithful he master-of your-work"
+    },
+    {
+     "tokens": [
+      "6:5.26",
+      "6:5.27",
+      "6:5.28",
+      "6:5.29"
+     ],
+     "english": "to pay you the reward of your labor",
+     "literal": "that-he-will-pay to-you reward-of your-labor"
+    }
+   ],
+   "grammar": [
+    "אַל + imperfect (תְּבַקֵּשׁ, תַּחְמֹד, תִּתְאַוֶּה) is the negative command, \"do not ...\"; the one positive command is the bare imperative עֲשֵׂה.",
+    "יוֹתֵר מִלִּמּוּדְךָ עֲשֵׂה has the comparative phrase before the verb: \"more than your learning, do\".",
+    "לְשֻׁלְחָנָם שֶׁל מְלָכִים has a pleonastic suffix (\"their table, of kings\") with the genitive particle שֶׁל, as in 6:2 and 6:4.",
+    "The two comparisons שֶׁשֻּׁלְחָנְךָ גָדוֹל מִשֻּׁלְחָנָם and וְכִתְרְךָ גָדוֹל מִכִּתְרָם use מִן with an adjective for \"greater than\"; the \"table\" and \"crown\" are those of Torah (the scholar's own)."
+   ],
+   "note": "יוֹתֵר מִלִּמּוּדְךָ עֲשֵׂה is ambiguous: \"act more than you study\" (let practice exceed learning), or \"do more than your learning requires\". The English \"do more than you learn\" keeps the compression. בַּעַל מְלַאכְתְּךָ is \"the master (employer) of your work\"; by context it is God, and the English leaves it literal. שֶׁיְּשַׁלֵּם after נֶאֱמָן is \"faithful ... to pay\".",
+   "commentary": [],
+   "apparatus": [
+    "Vilna variants: 6:5.1-2 (אַל תְּבַקֵּשׁ) are absent in Vilna; 6:5.3 spells גדולה; at 6:5.4-7 Vilna reads only תורה where the base has לְעַצְמְךָ וְאַל תַּחְמֹד כָּבוֹד; and from 6:5.9 to the end Vilna reads a different text, beginning מן הכהונה ומן המלכות, that is the material the base numbers 6:6. The sayings about the table of kings and the master of your work are thus not in Vilna's reading at this place."
+   ]
+  },
+  {
+   "ref": "6:6",
+   "english": "Torah is greater than the priesthood and than kingship, for kingship is acquired by thirty degrees, and the priesthood by twenty-four, but the Torah is acquired by forty-eight things. And these are they: by study, by hearing with the ear, by ordering the lips, by understanding of the heart, by discernment of the heart, by awe, by reverence, by humility, by joy, by purity, by serving the sages, by exact discussion with colleagues, and by the sharp debate of the students; by composure, by Scripture, by Mishnah; by little business, by little worldly occupation, by little pleasure, by little sleep, by little talk, by little laughter; by patience, by a good heart, by faith in the sages, and by accepting sufferings. One who knows his place, and who is glad in his portion, and who makes a fence around his words, and does not claim credit for himself; beloved, a lover of the Omnipresent, a lover of creatures, a lover of acts of righteousness, a lover of upright dealings, a lover of reproofs; who keeps far from honor, and does not puff up his heart over his learning, and does not take pleasure in giving rulings; who bears the yoke with his fellow, tips him toward the scale of merit, sets him on the truth, and sets him on peace; whose heart is settled in his study; who asks and answers, hears and adds; who learns in order to teach and who learns in order to practice; who makes his teacher wiser, and who sets what he has heard exactly right, and who says a thing in the name of the one who said it. Thus you have learned that whoever says a thing in the name of the one who said it brings redemption to the world, as it is said (Esther 2): \"And Esther said to the king in the name of Mordecai.\"",
+   "literal": "great Torah more than the-priesthood and-than the-kingship that-the-kingship is-acquired in-thirty degrees and-the-priesthood in-twenty and-four and-the-Torah is-acquired in-forty and-eight things and-these they in-study in-hearing-of the-ear in-arranging-of lips in-understanding-of the-heart in-intellect-of the-heart in-awe in-reverence in-humility in-joy in-purity in-service-of sages in-precision-of colleagues and-in-dialectic-of the-students in-settledness in-Scripture in-Mishnah in-littleness trade in-littleness way-of land in-littleness pleasure in-littleness sleep in-littleness talk in-littleness laughter in-length-of nostrils in-heart good in-faith-of sages and-in-acceptance-of the-sufferings the-recognizing [object-mark] his-place and-the-rejoicing in-his-portion and-the-making fence to-his-words and-not holding goodness to-himself beloved loving [object-mark] the-Place loving [object-mark] the-creatures loving [object-mark] the-righteous-acts loving [object-mark] the-upright-things loving [object-mark] the-reproofs distancing-himself from the-honor and-not making-proud his-heart in-his-study and-not rejoicing in-instruction bearing in-yoke with his-fellow tipping-him to-pan-of merit establishing-him on the-truth and-establishing-him on the-peace settling his-heart in-his-study asking and-answering hearing and-adding the-learning on condition-of to-teach and-the-learning on condition-of to-do the-making-wise [object-mark] his-teacher and-the-directing [object-mark] his-tradition and-the-saying thing in-name-of his-sayer behold you-learned that-all the-saying thing in-name-of his-sayer bringing redemption to-the-world that-it-is-said Esther 2 and-said Esther to-the-king in-name-of Mordecai",
+   "tokens": [
+    {
+     "id": "6:6.1",
+     "gloss": "great",
+     "sense": "1",
+     "note": "feminine singular, agreeing with תורה"
+    },
+    {
+     "id": "6:6.2",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.3",
+     "gloss": "more",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.4",
+     "gloss": "than",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.5",
+     "gloss": "the priesthood",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.6",
+     "gloss": "and than",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.7",
+     "gloss": "the kingship",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.8",
+     "gloss": "that the kingship",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.9",
+     "gloss": "is acquired",
+     "sense": "1",
+     "note": "Nifal participle of קנה, 'is acquired, bought'"
+    },
+    {
+     "id": "6:6.10",
+     "gloss": "by thirty"
+    },
+    {
+     "id": "6:6.11",
+     "gloss": "degrees",
+     "note": "מַעֲלָה 'step, degree, quality'"
+    },
+    {
+     "id": "6:6.12",
+     "gloss": "and the priesthood",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.13",
+     "gloss": "by twenty",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.14",
+     "gloss": "and four",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.15",
+     "gloss": "and the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.16",
+     "gloss": "is acquired",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.17",
+     "gloss": "by forty",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.18",
+     "gloss": "and eight",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.19",
+     "gloss": "things",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.20",
+     "gloss": "and these",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.21",
+     "gloss": "they",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.22",
+     "gloss": "by study",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.23",
+     "gloss": "by hearing of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.24",
+     "gloss": "the ear",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.25",
+     "gloss": "by the ordering of",
+     "sense": "1",
+     "note": "עֲרִיכָה 'arrangement'; fluent, precise speech"
+    },
+    {
+     "id": "6:6.26",
+     "gloss": "lips",
+     "sense": "1",
+     "note": "dual"
+    },
+    {
+     "id": "6:6.27",
+     "gloss": "by the understanding of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.28",
+     "gloss": "the heart",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.29",
+     "gloss": "by the discernment of",
+     "note": "שִׂכְלוּת 'intelligence'"
+    },
+    {
+     "id": "6:6.30",
+     "gloss": "the heart",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.31",
+     "gloss": "by awe",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.32",
+     "gloss": "by reverence",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.33",
+     "gloss": "by humility",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.34",
+     "gloss": "by joy",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.35",
+     "gloss": "by purity",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.36",
+     "gloss": "by the service of",
+     "sense": "1",
+     "note": "שִׁמּוּשׁ, 'attendance on, service'"
+    },
+    {
+     "id": "6:6.37",
+     "gloss": "sages",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.38",
+     "gloss": "by the precision of",
+     "sense": "1",
+     "note": "דִּקְדּוּק, 'exactness, close examination'"
+    },
+    {
+     "id": "6:6.39",
+     "gloss": "colleagues",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.40",
+     "gloss": "and by the dialectic of",
+     "sense": "1",
+     "note": "פִּלְפּוּל 'sharp argument'"
+    },
+    {
+     "id": "6:6.41",
+     "gloss": "the students",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.42",
+     "gloss": "by composure",
+     "sense": "1",
+     "note": "יִשּׁוּב 'settling, composure, calm deliberation'"
+    },
+    {
+     "id": "6:6.43",
+     "gloss": "by Scripture",
+     "sense": "1",
+     "note": "מִקְרָא 'reading; Scripture'"
+    },
+    {
+     "id": "6:6.44",
+     "gloss": "by Mishnah",
+     "sense": "1",
+     "note": "מִשְׁנָה 'repetition, oral teaching'"
+    },
+    {
+     "id": "6:6.45",
+     "gloss": "by littleness of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.46",
+     "gloss": "business",
+     "sense": "1",
+     "note": "סְחוֹרָה 'trade, merchandise'"
+    },
+    {
+     "id": "6:6.47",
+     "gloss": "by littleness of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.48",
+     "gloss": "way of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.49",
+     "gloss": "the land",
+     "sense": "1",
+     "note": "דֶּרֶךְ אֶרֶץ, an idiom, 'worldly occupation'"
+    },
+    {
+     "id": "6:6.50",
+     "gloss": "by littleness of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.51",
+     "gloss": "pleasure",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.52",
+     "gloss": "by littleness of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.53",
+     "gloss": "sleep",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.54",
+     "gloss": "by littleness of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.55",
+     "gloss": "talk",
+     "sense": "1",
+     "note": "שִׂיחָה 'conversation, idle talk'"
+    },
+    {
+     "id": "6:6.56",
+     "gloss": "by littleness of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.57",
+     "gloss": "laughter",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.58",
+     "gloss": "by length of",
+     "sense": "1",
+     "note": "אֹרֶךְ construct"
+    },
+    {
+     "id": "6:6.59",
+     "gloss": "noses",
+     "sense": "1",
+     "note": "אַפַּיִם dual 'nostrils, face; anger' in the idiom 'long of anger = patience'"
+    },
+    {
+     "id": "6:6.60",
+     "gloss": "by the heart",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.61",
+     "gloss": "good",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.62",
+     "gloss": "by the faith of",
+     "sense": "1",
+     "note": "אֱמוּנָה, 'trust, faith'"
+    },
+    {
+     "id": "6:6.63",
+     "gloss": "sages",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.64",
+     "gloss": "and by the acceptance of",
+     "sense": "1",
+     "note": "קַבָּלָה I, 'receiving'"
+    },
+    {
+     "id": "6:6.65",
+     "gloss": "the sufferings",
+     "sense": "1",
+     "note": "plural of יִסּוּר 'chastisement, suffering'"
+    },
+    {
+     "id": "6:6.66",
+     "gloss": "the one who knows",
+     "sense": "1",
+     "note": "Hifil participle of נכר, 'recognizes'"
+    },
+    {
+     "id": "6:6.67",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.68",
+     "gloss": "his place",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.69",
+     "gloss": "and the one who is glad",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.70",
+     "gloss": "in his portion",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.71",
+     "gloss": "and the one who makes",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.72",
+     "gloss": "fence",
+     "sense": "1",
+     "note": "סְיָג, a protective boundary"
+    },
+    {
+     "id": "6:6.73",
+     "gloss": "for his words",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.74",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.75",
+     "gloss": "holding",
+     "sense": "1.3.1",
+     "note": "Hifil participle of חזק"
+    },
+    {
+     "id": "6:6.76",
+     "gloss": "goodness",
+     "sense": "1",
+     "note": "טוֹבָה 'favor, credit'"
+    },
+    {
+     "id": "6:6.77",
+     "gloss": "for himself",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.78",
+     "gloss": "beloved",
+     "sense": "1.1.1",
+     "note": "passive participle of אהב"
+    },
+    {
+     "id": "6:6.79",
+     "gloss": "loving",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.80",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.81",
+     "gloss": "the Omnipresent",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.82",
+     "gloss": "loving",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.83",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.84",
+     "gloss": "creatures"
+    },
+    {
+     "id": "6:6.85",
+     "gloss": "loving",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.86",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.87",
+     "gloss": "the acts of righteousness",
+     "sense": "1",
+     "note": "plural of צְדָקָה"
+    },
+    {
+     "id": "6:6.88",
+     "gloss": "loving",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.89",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.90",
+     "gloss": "the upright dealings",
+     "note": "מֵישָׁר 'straightness'; plural 'upright things'"
+    },
+    {
+     "id": "6:6.91",
+     "gloss": "loving",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.92",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.93",
+     "gloss": "the reproofs",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.94",
+     "gloss": "distances himself",
+     "sense": "1",
+     "note": "Hitpael participle of רחק"
+    },
+    {
+     "id": "6:6.95",
+     "gloss": "from",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.96",
+     "gloss": "honor",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.97",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.98",
+     "gloss": "makes proud",
+     "note": "Hifil participle, 'puffs up, makes arrogant'"
+    },
+    {
+     "id": "6:6.99",
+     "gloss": "his heart",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.100",
+     "gloss": "in his learning",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.101",
+     "gloss": "and is not",
+     "sense": "1",
+     "note": "אֵינוֹ"
+    },
+    {
+     "id": "6:6.102",
+     "gloss": "glad",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.103",
+     "gloss": "in giving rulings",
+     "sense": "1",
+     "note": "הוֹרָאָה 'teaching, legal decision'"
+    },
+    {
+     "id": "6:6.104",
+     "gloss": "bearing",
+     "sense": "1.1.1",
+     "note": "'carrying'"
+    },
+    {
+     "id": "6:6.105",
+     "gloss": "in the yoke",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.106",
+     "gloss": "with",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.107",
+     "gloss": "his fellow",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.108",
+     "gloss": "tips him",
+     "sense": "1.2",
+     "note": "Hifil participle of כרע, 'causes to bow, tips the scale'"
+    },
+    {
+     "id": "6:6.109",
+     "gloss": "to the pan of",
+     "sense": "1",
+     "note": "כַּף 'palm, pan of a scale'"
+    },
+    {
+     "id": "6:6.110",
+     "gloss": "merit",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.111",
+     "gloss": "sets him up",
+     "sense": "1",
+     "note": "Hifil participle of עמד"
+    },
+    {
+     "id": "6:6.112",
+     "gloss": "on",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.113",
+     "gloss": "the truth",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.114",
+     "gloss": "and sets him up",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.115",
+     "gloss": "on",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.116",
+     "gloss": "peace",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.117",
+     "gloss": "settled",
+     "sense": "1",
+     "note": "Hitpael participle of ישב, 'sits settled, is composed'"
+    },
+    {
+     "id": "6:6.118",
+     "gloss": "his heart",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.119",
+     "gloss": "in his study",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.120",
+     "gloss": "asking",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.121",
+     "gloss": "and answering",
+     "sense": "1",
+     "note": "Hifil participle of שוב"
+    },
+    {
+     "id": "6:6.122",
+     "gloss": "hearing",
+     "sense": "2.1.1"
+    },
+    {
+     "id": "6:6.123",
+     "gloss": "and adding",
+     "sense": "1.3.1",
+     "note": "Hifil participle of יסף"
+    },
+    {
+     "id": "6:6.124",
+     "gloss": "the one who learns",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:6.125",
+     "gloss": "on",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.126",
+     "gloss": "condition of",
+     "sense": "1",
+     "note": "מָנָה, here in עַל מְנָת 'on condition that, in order to'"
+    },
+    {
+     "id": "6:6.127",
+     "gloss": "to teach",
+     "sense": "1.2",
+     "note": "Piel infinitive"
+    },
+    {
+     "id": "6:6.128",
+     "gloss": "and the one who learns",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:6.129",
+     "gloss": "on",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.130",
+     "gloss": "condition of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.131",
+     "gloss": "to do",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "6:6.132",
+     "gloss": "the one who makes wise",
+     "sense": "1",
+     "note": "Hifil participle of חכם"
+    },
+    {
+     "id": "6:6.133",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.134",
+     "gloss": "his teacher",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.135",
+     "gloss": "and the one who directs",
+     "sense": "1",
+     "note": "Piel participle of כון, 'aims, sets straight'"
+    },
+    {
+     "id": "6:6.136",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.137",
+     "gloss": "what he has heard",
+     "sense": "1",
+     "note": "שְׁמוּעָה 'something heard, a received tradition'"
+    },
+    {
+     "id": "6:6.138",
+     "gloss": "and the one who says",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:6.139",
+     "gloss": "a thing",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.140",
+     "gloss": "in the name of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.141",
+     "gloss": "the one who said it",
+     "sense": "1.1",
+     "note": "'his sayer', participle construct"
+    },
+    {
+     "id": "6:6.142",
+     "gloss": "behold",
+     "sense": "1",
+     "note": "presentative הָא"
+    },
+    {
+     "id": "6:6.143",
+     "gloss": "you learned",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:6.144",
+     "gloss": "that all",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.145",
+     "gloss": "the one who says",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:6.146",
+     "gloss": "a thing",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.147",
+     "gloss": "in the name of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.148",
+     "gloss": "the one who said it",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:6.149",
+     "gloss": "brings",
+     "sense": "1",
+     "note": "Hifil participle of בוא"
+    },
+    {
+     "id": "6:6.150",
+     "gloss": "redemption",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.151",
+     "gloss": "to the world",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.152",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "6:6.153",
+     "gloss": "Esther",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.154",
+     "gloss": "2",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.155",
+     "gloss": "and said",
+     "sense": "1.1"
+    },
+    {
+     "id": "6:6.156",
+     "gloss": "Esther",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.157",
+     "gloss": "to the king",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.158",
+     "gloss": "in the name of",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.159",
+     "gloss": "Mordecai",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:6.1",
+      "6:6.2"
+     ],
+     "english": "Torah is greater",
+     "literal": "great Torah"
+    },
+    {
+     "tokens": [
+      "6:6.3",
+      "6:6.4",
+      "6:6.5",
+      "6:6.6",
+      "6:6.7"
+     ],
+     "english": "than the priesthood and than kingship",
+     "literal": "more than the-priesthood and-than the-kingship"
+    },
+    {
+     "tokens": [
+      "6:6.8",
+      "6:6.9",
+      "6:6.10",
+      "6:6.11"
+     ],
+     "english": "for kingship is acquired by thirty degrees",
+     "literal": "that-the-kingship is-acquired in-thirty degrees"
+    },
+    {
+     "tokens": [
+      "6:6.12",
+      "6:6.13",
+      "6:6.14"
+     ],
+     "english": "and the priesthood by twenty-four",
+     "literal": "and-the-priesthood in-twenty and-four :: 'degrees' understood"
+    },
+    {
+     "tokens": [
+      "6:6.15",
+      "6:6.16",
+      "6:6.17",
+      "6:6.18",
+      "6:6.19"
+     ],
+     "english": "but the Torah is acquired by forty-eight things",
+     "literal": "and-the-Torah is-acquired in-forty and-eight things"
+    },
+    {
+     "tokens": [
+      "6:6.20",
+      "6:6.21"
+     ],
+     "english": "And these are they",
+     "literal": "and-these they"
+    },
+    {
+     "tokens": [
+      "6:6.22"
+     ],
+     "english": "by study",
+     "literal": "in-study :: תלמוד"
+    },
+    {
+     "tokens": [
+      "6:6.23",
+      "6:6.24"
+     ],
+     "english": "by hearing with the ear",
+     "literal": "in-hearing-of the-ear"
+    },
+    {
+     "tokens": [
+      "6:6.25",
+      "6:6.26"
+     ],
+     "english": "by ordering the lips",
+     "literal": "in-arranging-of lips"
+    },
+    {
+     "tokens": [
+      "6:6.27",
+      "6:6.28"
+     ],
+     "english": "by understanding of the heart",
+     "literal": "in-understanding-of the-heart"
+    },
+    {
+     "tokens": [
+      "6:6.29",
+      "6:6.30"
+     ],
+     "english": "by discernment of the heart",
+     "literal": "in-intellect-of the-heart"
+    },
+    {
+     "tokens": [
+      "6:6.31"
+     ],
+     "english": "by awe",
+     "literal": "in-awe"
+    },
+    {
+     "tokens": [
+      "6:6.32"
+     ],
+     "english": "by reverence",
+     "literal": "in-reverence"
+    },
+    {
+     "tokens": [
+      "6:6.33"
+     ],
+     "english": "by humility",
+     "literal": "in-humility"
+    },
+    {
+     "tokens": [
+      "6:6.34"
+     ],
+     "english": "by joy",
+     "literal": "in-joy"
+    },
+    {
+     "tokens": [
+      "6:6.35"
+     ],
+     "english": "by purity",
+     "literal": "in-purity"
+    },
+    {
+     "tokens": [
+      "6:6.36",
+      "6:6.37"
+     ],
+     "english": "by serving the sages",
+     "literal": "in-service-of sages"
+    },
+    {
+     "tokens": [
+      "6:6.38",
+      "6:6.39"
+     ],
+     "english": "by exact discussion with colleagues",
+     "literal": "in-precision-of colleagues"
+    },
+    {
+     "tokens": [
+      "6:6.40",
+      "6:6.41"
+     ],
+     "english": "and by the sharp debate of the students",
+     "literal": "and-in-dialectic-of the-students"
+    },
+    {
+     "tokens": [
+      "6:6.42"
+     ],
+     "english": "by composure",
+     "literal": "in-settledness :: ישוב"
+    },
+    {
+     "tokens": [
+      "6:6.43"
+     ],
+     "english": "by Scripture",
+     "literal": "in-Scripture"
+    },
+    {
+     "tokens": [
+      "6:6.44"
+     ],
+     "english": "by Mishnah",
+     "literal": "in-Mishnah"
+    },
+    {
+     "tokens": [
+      "6:6.45",
+      "6:6.46"
+     ],
+     "english": "by little business",
+     "literal": "in-littleness trade"
+    },
+    {
+     "tokens": [
+      "6:6.47",
+      "6:6.48",
+      "6:6.49"
+     ],
+     "english": "by little worldly occupation",
+     "literal": "in-littleness way-of land"
+    },
+    {
+     "tokens": [
+      "6:6.50",
+      "6:6.51"
+     ],
+     "english": "by little pleasure",
+     "literal": "in-littleness pleasure"
+    },
+    {
+     "tokens": [
+      "6:6.52",
+      "6:6.53"
+     ],
+     "english": "by little sleep",
+     "literal": "in-littleness sleep"
+    },
+    {
+     "tokens": [
+      "6:6.54",
+      "6:6.55"
+     ],
+     "english": "by little talk",
+     "literal": "in-littleness talk"
+    },
+    {
+     "tokens": [
+      "6:6.56",
+      "6:6.57"
+     ],
+     "english": "by little laughter",
+     "literal": "in-littleness laughter"
+    },
+    {
+     "tokens": [
+      "6:6.58",
+      "6:6.59"
+     ],
+     "english": "by patience",
+     "literal": "in-length-of nostrils :: ארך אפים 'slowness to anger'"
+    },
+    {
+     "tokens": [
+      "6:6.60",
+      "6:6.61"
+     ],
+     "english": "by a good heart",
+     "literal": "in-heart good"
+    },
+    {
+     "tokens": [
+      "6:6.62",
+      "6:6.63"
+     ],
+     "english": "by faith in the sages",
+     "literal": "in-faith-of sages"
+    },
+    {
+     "tokens": [
+      "6:6.64",
+      "6:6.65"
+     ],
+     "english": "and by accepting sufferings",
+     "literal": "and-in-acceptance-of the-sufferings"
+    },
+    {
+     "tokens": [
+      "6:6.66",
+      "6:6.67",
+      "6:6.68"
+     ],
+     "english": "One who knows his place",
+     "literal": "the-recognizing [object-mark] his-place"
+    },
+    {
+     "tokens": [
+      "6:6.69",
+      "6:6.70"
+     ],
+     "english": "and who is glad in his portion",
+     "literal": "and-the-rejoicing in-his-portion"
+    },
+    {
+     "tokens": [
+      "6:6.71",
+      "6:6.72",
+      "6:6.73"
+     ],
+     "english": "and who makes a fence around his words",
+     "literal": "and-the-making fence to-his-words"
+    },
+    {
+     "tokens": [
+      "6:6.74",
+      "6:6.75",
+      "6:6.76",
+      "6:6.77"
+     ],
+     "english": "and does not claim credit for himself",
+     "literal": "and-not holding goodness to-himself :: מחזיק טובה 'claims credit'"
+    },
+    {
+     "tokens": [
+      "6:6.78"
+     ],
+     "english": "beloved",
+     "literal": "beloved"
+    },
+    {
+     "tokens": [
+      "6:6.79",
+      "6:6.80",
+      "6:6.81"
+     ],
+     "english": "a lover of the Omnipresent",
+     "literal": "loving [object-mark] the-Place"
+    },
+    {
+     "tokens": [
+      "6:6.82",
+      "6:6.83",
+      "6:6.84"
+     ],
+     "english": "a lover of creatures",
+     "literal": "loving [object-mark] the-creatures"
+    },
+    {
+     "tokens": [
+      "6:6.85",
+      "6:6.86",
+      "6:6.87"
+     ],
+     "english": "a lover of acts of righteousness",
+     "literal": "loving [object-mark] the-righteous-acts"
+    },
+    {
+     "tokens": [
+      "6:6.88",
+      "6:6.89",
+      "6:6.90"
+     ],
+     "english": "a lover of upright dealings",
+     "literal": "loving [object-mark] the-upright-things"
+    },
+    {
+     "tokens": [
+      "6:6.91",
+      "6:6.92",
+      "6:6.93"
+     ],
+     "english": "a lover of reproofs",
+     "literal": "loving [object-mark] the-reproofs"
+    },
+    {
+     "tokens": [
+      "6:6.94",
+      "6:6.95",
+      "6:6.96"
+     ],
+     "english": "who keeps far from honor",
+     "literal": "distancing-himself from the-honor"
+    },
+    {
+     "tokens": [
+      "6:6.97",
+      "6:6.98",
+      "6:6.99",
+      "6:6.100"
+     ],
+     "english": "and does not puff up his heart over his learning",
+     "literal": "and-not making-proud his-heart in-his-study"
+    },
+    {
+     "tokens": [
+      "6:6.101",
+      "6:6.102",
+      "6:6.103"
+     ],
+     "english": "and does not take pleasure in giving rulings",
+     "literal": "and-not rejoicing in-instruction"
+    },
+    {
+     "tokens": [
+      "6:6.104",
+      "6:6.105",
+      "6:6.106",
+      "6:6.107"
+     ],
+     "english": "who bears the yoke with his fellow",
+     "literal": "bearing in-yoke with his-fellow"
+    },
+    {
+     "tokens": [
+      "6:6.108",
+      "6:6.109",
+      "6:6.110"
+     ],
+     "english": "tips him toward the scale of merit",
+     "literal": "tipping-him to-pan-of merit :: judges him favorably"
+    },
+    {
+     "tokens": [
+      "6:6.111",
+      "6:6.112",
+      "6:6.113"
+     ],
+     "english": "sets him on the truth",
+     "literal": "establishing-him on the-truth"
+    },
+    {
+     "tokens": [
+      "6:6.114",
+      "6:6.115",
+      "6:6.116"
+     ],
+     "english": "and sets him on peace",
+     "literal": "and-establishing-him on the-peace"
+    },
+    {
+     "tokens": [
+      "6:6.117",
+      "6:6.118",
+      "6:6.119"
+     ],
+     "english": "whose heart is settled in his study",
+     "literal": "settling his-heart in-his-study"
+    },
+    {
+     "tokens": [
+      "6:6.120",
+      "6:6.121"
+     ],
+     "english": "who asks and answers",
+     "literal": "asking and-answering"
+    },
+    {
+     "tokens": [
+      "6:6.122",
+      "6:6.123"
+     ],
+     "english": "hears and adds",
+     "literal": "hearing and-adding"
+    },
+    {
+     "tokens": [
+      "6:6.124",
+      "6:6.125",
+      "6:6.126",
+      "6:6.127"
+     ],
+     "english": "who learns in order to teach",
+     "literal": "the-learning on condition-of to-teach :: עַל מְנָת 'in order to'"
+    },
+    {
+     "tokens": [
+      "6:6.128",
+      "6:6.129",
+      "6:6.130",
+      "6:6.131"
+     ],
+     "english": "and who learns in order to practice",
+     "literal": "and-the-learning on condition-of to-do"
+    },
+    {
+     "tokens": [
+      "6:6.132",
+      "6:6.133",
+      "6:6.134"
+     ],
+     "english": "who makes his teacher wiser",
+     "literal": "the-making-wise [object-mark] his-teacher"
+    },
+    {
+     "tokens": [
+      "6:6.135",
+      "6:6.136",
+      "6:6.137"
+     ],
+     "english": "and who sets what he has heard exactly right",
+     "literal": "and-the-directing [object-mark] his-tradition"
+    },
+    {
+     "tokens": [
+      "6:6.138",
+      "6:6.139",
+      "6:6.140",
+      "6:6.141"
+     ],
+     "english": "and who says a thing in the name of the one who said it",
+     "literal": "and-the-saying thing in-name-of his-sayer"
+    },
+    {
+     "tokens": [
+      "6:6.142",
+      "6:6.143"
+     ],
+     "english": "Thus you have learned",
+     "literal": "behold you-learned"
+    },
+    {
+     "tokens": [
+      "6:6.144",
+      "6:6.145",
+      "6:6.146",
+      "6:6.147",
+      "6:6.148"
+     ],
+     "english": "that whoever says a thing in the name of the one who said it",
+     "literal": "that-all the-saying thing in-name-of his-sayer"
+    },
+    {
+     "tokens": [
+      "6:6.149",
+      "6:6.150",
+      "6:6.151"
+     ],
+     "english": "brings redemption to the world",
+     "literal": "bringing redemption to-the-world"
+    },
+    {
+     "tokens": [
+      "6:6.152",
+      "6:6.153",
+      "6:6.154"
+     ],
+     "english": "as it is said (Esther 2)",
+     "literal": "that-it-is-said Esther 2"
+    },
+    {
+     "tokens": [
+      "6:6.155",
+      "6:6.156",
+      "6:6.157"
+     ],
+     "english": "And Esther said to the king",
+     "literal": "and-said Esther to-the-king"
+    },
+    {
+     "tokens": [
+      "6:6.158",
+      "6:6.159"
+     ],
+     "english": "in the name of Mordecai",
+     "literal": "in-name-of Mordecai"
+    }
+   ],
+   "grammar": [
+    "נִקְנֵית is a Nifal passive participle, \"is acquired (bought)\"; the three acquisitions, kingship, priesthood and Torah, are measured by a number of מַעֲלוֹת \"degrees\" (kingship 30, priesthood 24, with מַעֲלוֹת understood in the second clause) and דְבָרִים \"things\" (Torah 48).",
+    "The long list is a series of nouns, each with the preposition בְּ- \"by, with, in\", then a run of participles (הַמַּכִּיר, הַשָּׂמֵחַ, הָעוֹשֶׂה ...), with the article, describing the person who acquires Torah; the participles are in the nominative absolute with no verb, listing qualities rather than steps.",
+    "בְּמִעוּט (\"with little of ...\") repeats six times; בְּ- with an abstract noun gives the means or manner. The pairs that name states of mind (אֵימָה, יִרְאָה, עֲנָוָה, שִׂמְחָה, טָהֳרָה) are plain abstract nouns with בְּ-.",
+    "מִתְרַחֵק, מִתְיַשֵּׁב are Hitpael participles (reflexive: \"distances himself\", \"settles\"); לִבּוֹ is the subject of מִתְיַשֵּׁב and the object of מֵגִיס (\"makes his heart proud, puffs up\").",
+    "הָא לָמַדְתָּ (\"so you have learned\") closes the series by drawing a conclusion; שֶׁכָּל הָאוֹמֵר ... מֵבִיא is a general principle proved by Esther 2:22."
+   ],
+   "note": "דֶּרֶךְ אֶרֶץ in בְּמִעוּט דֶּרֶךְ אֶרֶץ is \"worldly occupation\" (lit. \"the way of the land\"), as the decisions require, a general term for earning a living and social intercourse; the English keeps it as \"worldly occupation\". אָהוּב and the participles that follow belong to the same list of descriptions without a conjunction; the English joins them with semicolons. הַמְכַוֵּן אֶת שְׁמוּעָתוֹ is ambiguous: \"directs/aligns what he has heard\" (gets it exactly right) or \"directs his hearing to the point\"; the English chooses the first. מַכְרִיעוֹ לְכַף זְכוּת is the idiom of judging someone favorably: the scales are tipped to the side of merit. הַצְּדָקוֹת, plural, may be \"acts of charity\"; the English chooses \"acts of righteousness\". סְיָג is a fence, a protective restriction.",
+   "commentary": [],
+   "apparatus": [
+    "Esther 2:22, quoted from the Hebrew of the mishnah.",
+    "Vilna variants: 6:6.72 סייג; 6:6.90 and 6:6.93 are swapped in order (Vilna reads התוכחות where the base has הַמֵּישָׁרִים, and conversely); 6:6.105 בעול; 6:6.107 חבירו; 6:6.114 מעמידו (without ו); 6:6.135 והמכוין; 6:6.150 גאולה.",
+    "Vilna places this whole text (the pack's variant lines for 6:6.1-65) at the end of the preceding mishnah, as one run with the base's 6:5. There its list of the forty-eight things omits סְחוֹרָה and reads the items שינה, שיחה, תענוג, שחוק, דרך ארץ in that order (the base reads סְחוֹרָה, דֶּרֶךְ אֶרֶץ, תַּעֲנוּג, שֵׁינָה, שִׂיחָה, שְׂחוֹק)."
+   ]
+  }
+ ]
+}
