@@ -1,0 +1,2831 @@
+{
+ "unit": "perek-3-01",
+ "model": "opus",
+ "summary": "The English of 3:1-3:6 is mostly sound, but in three places it goes against the normative commentators: וְיִדֹּם in 3:2 (Bartenura and Rambam read a low voice of study, not silence), the third proof in 3:6 (both read אֱלֹהִים as judges), and 3:4, where Bartenura reads the idle heart as the condition of the night and the lonely road. The senses were filled mechanically: almost every token had sense 1, which is often a bare header, the Qal for a Nifal or Piel, or a wrong homograph (Heshbon, Ramah, Shem, Sacar, Zebah, 'lamb' for זֶה, 'no, not' for אֶל and אֵל, 'father' for בָּא); these are moved to the right entries the pack lists or removed. Several commentary summaries misstate the comment (Bartenura 3:3:5, 3:6:4, 3:6:5; Rambam on the Commander), some learner notes are untrue (בְּלָעוֹ as infinitive, 'chiastic', 'three imperatives'), and the Vilna verse numbers were not recorded. The model morphology has wrong states (construct/absolute) on עֹל, לֵצִים, סֵפֶר, מְקוֹם, מָקוֹם, wrong binyan on וַיַּקְשֵׁב, wrong analyses of בְּלָעוֹ and עָתִיד, and a few form spellings.",
+ "patches": [
+  {
+   "ref": "3:1",
+   "path": "token:3:1.8.lex",
+   "value": "jastrow:אִי III",
+   "severity": "error",
+   "reason": "bdbs:אִי is 'coast, island'; the pack lists Jastrow אִי III '(= אֵין) not', the negative used here."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.8.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אִי is 'coast, island'; the pack lists Jastrow אִי III '(= אֵין) not', the negative used here."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.10.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is '= אַבָּא, father'; the pack lists jastrow:בָּא III, the participle of בוא 'coming', which is this word."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.10.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is '= אַבָּא, father'; the pack lists jastrow:בָּא III, the participle of בוא 'coming', which is this word."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.25.lex",
+   "value": "jastrow:חֶשְׁבּוֹן",
+   "severity": "error",
+   "reason": "bdbs:חֶשְׁבּוֹן is the town Heshbon; Jastrow חֶשְׁבּוֹן sense 2 is 'account, sum; accountability', the sense of דִּין וְחֶשְׁבּוֹן."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.25.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:חֶשְׁבּוֹן is the town Heshbon; Jastrow חֶשְׁבּוֹן sense 2 is 'account, sum; accountability', the sense of דִּין וְחֶשְׁבּוֹן."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.43.lex",
+   "value": "jastrow:חֶשְׁבּוֹן",
+   "severity": "error",
+   "reason": "bdbs:חֶשְׁבּוֹן is the town Heshbon; Jastrow חֶשְׁבּוֹן sense 2 is 'account, sum; accountability', the sense of דִּין וְחֶשְׁבּוֹן."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.43.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:חֶשְׁבּוֹן is the town Heshbon; Jastrow חֶשְׁבּוֹן sense 2 is 'account, sum; accountability', the sense of דִּין וְחֶשְׁבּוֹן."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.35.lex",
+   "value": "bdbs:רִמָּה",
+   "severity": "error",
+   "reason": "bdbs:רָמָה is the town Ramah; the pack lists bdbs:רִמָּה 'maggot, worm', the word here."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.35.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:רָמָה is the town Ramah; the pack lists bdbs:רִמָּה 'maggot, worm', the word here."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.13.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the denominative verb (Hithpalel 'to be a man'); the noun 'man' is Jastrow אִישׁ sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.13.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the denominative verb (Hithpalel 'to be a man'); the noun 'man' is Jastrow אִישׁ sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.57.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the denominative verb (Hithpalel 'to be a man'); the noun 'man' is Jastrow אִישׁ sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.57.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the denominative verb (Hithpalel 'to be a man'); the noun 'man' is Jastrow אִישׁ sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.52.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the denominative verb (Hithpalel 'to be a man'); the noun 'man' is Jastrow אִישׁ sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.52.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the denominative verb (Hithpalel 'to be a man'); the noun 'man' is Jastrow אִישׁ sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.5.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the denominative verb; Jastrow אִישׁ sense 1 has 'a native or citizen of' (א׳ ירושלים), the sense of אִישׁ כְּפַר חֲנַנְיָה."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.5.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the denominative verb; Jastrow אִישׁ sense 1 has 'a native or citizen of' (א׳ ירושלים), the sense of אִישׁ כְּפַר חֲנַנְיָה."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.30.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה here is 'lamb, sheep' (a misprint for שֶׂה); the demonstrative 'this' is Jastrow זֶה sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.30.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:זֶה here is 'lamb, sheep' (a misprint for שֶׂה); the demonstrative 'this' is Jastrow זֶה sense 1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.51.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה here is 'lamb, sheep' (a misprint for שֶׂה); the demonstrative 'this' is Jastrow זֶה sense 1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.51.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:זֶה here is 'lamb, sheep' (a misprint for שֶׂה); the demonstrative 'this' is Jastrow זֶה sense 1."
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.15.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה here is 'lamb, sheep' (a misprint for שֶׂה); the demonstrative 'this' is Jastrow זֶה sense 1."
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.15.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:זֶה here is 'lamb, sheep' (a misprint for שֶׂה); the demonstrative 'this' is Jastrow זֶה sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.70.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the person Shem; the noun 'name' is Jastrow שֵׁם II sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.70.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the person Shem; the noun 'name' is Jastrow שֵׁם II sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.70.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the person Shem; the noun 'name' is Jastrow שֵׁם II sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.70.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the person Shem; the noun 'name' is Jastrow שֵׁם II sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.86.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the person Sacar; the noun 'wages, reward' is Jastrow שָׂכָר sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.86.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the person Sacar; the noun 'wages, reward' is Jastrow שָׂכָר sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.91.lex",
+   "value": "bdbs:בָּדָד",
+   "severity": "error",
+   "reason": "bdbs:בָּדַד is the verb 'to withdraw'; the adverb 'alone' is bdbs:בָּדָד sense 4."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.91.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "bdbs:בָּדַד is the verb 'to withdraw'; the adverb 'alone' is bdbs:בָּדָד sense 4."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.16.lex",
+   "value": "jastrow:זֶבַח",
+   "severity": "error",
+   "reason": "bdbs:זֶבַח is the Midianite king Zebah; the noun 'sacrifice' is Jastrow זֶבַח sense 1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.16.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:זֶבַח is the Midianite king Zebah; the noun 'sacrifice' is Jastrow זֶבַח sense 1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.24.lex",
+   "value": "jastrow:מָלֵא I",
+   "severity": "error",
+   "reason": "bdbs:מָלֵא is the adjective 'full'; מָלְאוּ is the verb, Jastrow מָלֵא I sense 1 'to be full'."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.24.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:מָלֵא is the adjective 'full'; מָלְאוּ is the verb, Jastrow מָלֵא I sense 1 'to be full'."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.43.lex",
+   "value": "jastrow:מָקוֹם",
+   "severity": "error",
+   "reason": "Here מָקוֹם is the name of God; bdbs:מָקוֹם has only local senses, Jastrow מָקוֹם sense 2 is 'הַמָּקוֹם the Existence, the Lord'."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.43.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Here מָקוֹם is the name of God; bdbs:מָקוֹם has only local senses, Jastrow מָקוֹם sense 2 is 'הַמָּקוֹם the Existence, the Lord'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.21.lex",
+   "value": "jastrow:עֵדָה I",
+   "severity": "error",
+   "reason": "bdbs:עֵדָה is 'testimony'; 'congregation' is Jastrow עֵדָה I sense 1 (assembly, congregation; court), the sense Bartenura and Rambam need (no congregation of fewer than ten)."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.21.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:עֵדָה is 'testimony'; 'congregation' is Jastrow עֵדָה I sense 1 (assembly, congregation; court), the sense Bartenura and Rambam need (no congregation of fewer than ten)."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.58.lex",
+   "value": "bdbs:אֵל",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; the preposition 'to' is bdbs:אֵל sense 1 (the pack lists it)."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.58.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; the preposition 'to' is bdbs:אֵל sense 1 (the pack lists it)."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.50.lex",
+   "value": "bdbs:אֵל",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; the preposition 'to' is bdbs:אֵל sense 1 (the pack lists it)."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.50.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; the preposition 'to' is bdbs:אֵל sense 1 (the pack lists it)."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.53.lex",
+   "value": "bdbs:אֵל",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; the preposition 'to' is bdbs:אֵל sense 1 (the pack lists it)."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.53.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; the preposition 'to' is bdbs:אֵל sense 1 (the pack lists it)."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.72.lex",
+   "value": "bdbs:אֵל",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; the preposition 'to' is bdbs:אֵל sense 1 (the pack lists it)."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.72.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; the preposition 'to' is bdbs:אֵל sense 1 (the pack lists it)."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.28.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.28.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.46.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.46.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.80.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.80.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.13.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.13.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.38.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.38.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.10.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.10.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.22.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.22.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.12.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.12.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה has only 'custom, manner, mode, law (of man)'; Jastrow תּוֹרָה sense 1 is 'teaching, law, esp. the Law of Moses', the Torah of this mishnah."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.14.lex",
+   "value": "jastrow:מַלְכוּת",
+   "severity": "style",
+   "reason": "Jastrow מַלְכוּת sense 1 is 'kingdom, government', and cites Ab. III, 5 עול מ׳ 'the yoke of (secular) government'; bdbs sense 1 is royal power in general."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.14.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Jastrow מַלְכוּת sense 1 is 'kingdom, government', and cites Ab. III, 5 עול מ׳ 'the yoke of (secular) government'; bdbs sense 1 is royal power in general."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.26.lex",
+   "value": "jastrow:מַלְכוּת",
+   "severity": "style",
+   "reason": "Jastrow מַלְכוּת sense 1 is 'kingdom, government', and cites Ab. III, 5 עול מ׳ 'the yoke of (secular) government'; bdbs sense 1 is royal power in general."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.26.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Jastrow מַלְכוּת sense 1 is 'kingdom, government', and cites Ab. III, 5 עול מ׳ 'the yoke of (secular) government'; bdbs sense 1 is royal power in general."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.10.lex",
+   "value": "jastrow:מַלְכוּת",
+   "severity": "style",
+   "reason": "Jastrow מַלְכוּת sense 1, 'kingdom, government', is the ruling power meant here (Bartenura: even of the nations); the gloss is 'the government'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.10.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Jastrow מַלְכוּת sense 1, 'kingdom, government', is the ruling power meant here (Bartenura: even of the nations); the gloss is 'the government'."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.15.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father' (= אַבָּא); the pack lists no entry for the verb בוא in the perfect, so no sense can be given."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.15.note",
+   "value": "בָּאתָ, Qal perfect 2ms of בוא 'to come'; the pack's lexicon link (בָּא I 'father') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father' (= אַבָּא); the pack lists no entry for the verb בוא in the perfect, so no sense can be given."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.27.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father' (= אַבָּא); the pack lists no entry for the verb בוא in the perfect, so no sense can be given."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.27.note",
+   "value": "בָּאתָ, Qal perfect 2ms of בוא 'to come'; the pack's lexicon link (בָּא I 'father') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father' (= אַבָּא); the pack lists no entry for the verb בוא in the perfect, so no sense can be given."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.71.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father'; no entry for the verb בוא is in the pack."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.71.note",
+   "value": "אָבֹא, Qal imperfect 1cs of בוא 'I will come'; the pack's lexicon link (בָּא I 'father') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father'; no entry for the verb בוא is in the pack."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.15.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:רַע is the adjective 'bad, evil' (sense 1 is only the header 'adj'); רֵעַ 'fellow' has no entry in the pack."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.15.note",
+   "value": "רֵעֵהוּ 'his fellow' (רֵעַ with the 3ms suffix); the pack links it to רַע 'bad', a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "bdbs:רַע is the adjective 'bad, evil' (sense 1 is only the header 'adj'); רֵעַ 'fellow' has no entry in the pack."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.59.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:רַע is the adjective 'bad, evil' (sense 1 is only the header 'adj'); רֵעַ 'fellow' has no entry in the pack."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.59.note",
+   "value": "רֵעֵהוּ 'his fellow' (רֵעַ with the 3ms suffix); the pack links it to רַע 'bad', a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "bdbs:רַע is the adjective 'bad, evil' (sense 1 is only the header 'adj'); רֵעַ 'fellow' has no entry in the pack."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.54.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:רַע is the adjective 'bad, evil' (sense 1 is only the header 'adj'); רֵעַ 'fellow' has no entry in the pack."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.54.note",
+   "value": "רֵעֵהוּ 'his fellow' (רֵעַ with the 3ms suffix); the pack links it to רַע 'bad', a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "bdbs:רַע is the adjective 'bad, evil' (sense 1 is only the header 'adj'); רֵעַ 'fellow' has no entry in the pack."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.54.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:דָּבָר is the noun 'word'; the verb דָּבַר has no entry in the pack."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.54.note",
+   "value": "Nifal of דבר: 'spoke with one another'. The pack links it to the noun דָּבָר, so no sense is given.",
+   "severity": "error",
+   "reason": "bdbs:דָּבָר is the noun 'word'; the verb דָּבַר has no entry in the pack."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.49.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:דָּבָר is the noun 'word'; the verb דָּבַר has no entry in the pack."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.49.note",
+   "value": "Nifal of דבר: 'spoke with one another'. The pack links it to the noun דָּבָר, so no sense is given.",
+   "severity": "error",
+   "reason": "bdbs:דָּבָר is the noun 'word'; the verb דָּבַר has no entry in the pack."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.49.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:דָּבָר is the noun 'word'; the verb has no entry in the pack."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.49.note",
+   "value": "Piel wayyiqtol of דבר: 'and he spoke'. The pack links it to the noun דָּבָר, so no sense is given.",
+   "severity": "error",
+   "reason": "bdbs:דָּבָר is the noun 'word'; the verb has no entry in the pack."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.84.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:קֶבַע is the noun 'appointment, permanency'; the verb קָבַע has no entry in the pack."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.84.note",
+   "value": "קוֹבֵעַ, Qal participle of קבע 'fixes, appoints'. The pack links it to the noun קֶבַע, so no sense is given.",
+   "severity": "error",
+   "reason": "jastrow:קֶבַע is the noun 'appointment, permanency'; the verb קָבַע has no entry in the pack."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.9.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עַל is the preposition 'upon'; sense 1 does not mean 'yoke', and no entry for עֹל is in the pack. The token note already says so."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.13.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עַל is the preposition 'upon'; sense 1 does not mean 'yoke', and no entry for עֹל is in the pack. The token note already says so."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.15.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עַל is the preposition 'upon'; sense 1 does not mean 'yoke', and no entry for עֹל is in the pack. The token note already says so."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.21.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עַל is the preposition 'upon'; sense 1 does not mean 'yoke', and no entry for עֹל is in the pack. The token note already says so."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.25.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עַל is the preposition 'upon'; sense 1 does not mean 'yoke', and no entry for עֹל is in the pack. The token note already says so."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.27.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עַל is the preposition 'upon'; sense 1 does not mean 'yoke', and no entry for עֹל is in the pack. The token note already says so."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.22.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; no entry for the noun אֵל 'God' is in the pack."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.22.note",
+   "value": "אֵל 'God'. The pack links it to the negative אַל 'no, not', a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; no entry for the noun אֵל 'God' is in the pack."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.39.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:קָרַב is the verb 'to draw near'; the noun קֶרֶב 'midst' has no entry in the pack."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.39.note",
+   "value": "קֶרֶב 'inward part, midst', here in the construct after בְּ: 'in the midst of'. The pack links it to the verb קָרַב, so no sense is given.",
+   "severity": "error",
+   "reason": "bdbs:קָרַב is the verb 'to draw near'; the noun קֶרֶב 'midst' has no entry in the pack."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.8.note",
+   "value": "אִי is the Mishnaic negative 'not' (= אֵין), here with a participle: 'and you will not come'.",
+   "severity": "error",
+   "reason": "The note said the pack's sense 'coast, island' is wrong; with the lex fixed to Jastrow אִי III the note is restated."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.5.sense",
+   "value": "3.1",
+   "severity": "error",
+   "reason": "Jastrow סָכַל I sense 1 is 'to be bright'; the Hithpael הִסְתַּכֵּל 'to look at, observe; to reflect' is sense 3.1."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.19.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "bdbs:פָּנִים sense 1 is 'face'; לִפְנֵי 'before, in the presence of' is sense 1.7.1."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.37.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "bdbs:פָּנִים sense 1 is 'face'; לִפְנֵי 'before, in the presence of' is sense 1.7.1."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.44.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "bdbs:פָּנִים sense 1 is 'face'; לִפְנֵי 'before, in the presence of' is sense 1.7.1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.66.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "bdbs:פָּנִים sense 1 is 'face'; לִפְנֵי 'before, in the presence of' is sense 1.7.1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.54.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "bdbs:פָּנִים sense 1 is 'face'; לִפְנֵי 'before, in the presence of' is sense 1.7.1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.33.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.50.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.87.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.18.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.46.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.16.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.26.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.36.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.45.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.62.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שֶׁנֶּאֱמַר is Nifal 'it is said'; the Nifal sense of אָמַר is 1.2, not the general sense 1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.7.sense",
+   "value": "4.1",
+   "severity": "error",
+   "reason": "Jastrow פָּלַל sense 1 is 'to separate, divide'; the Hithpael 'to pray' (להִתְפַּלֵּל, מִתְפַּלְּלִים) is sense 4.1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.62.sense",
+   "value": "2.1.1",
+   "severity": "error",
+   "reason": "bdbs:שָׁמַע sense 1 is only the header 'v'; Qal 'to hear' is 2.1.1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.57.sense",
+   "value": "2.1.1",
+   "severity": "error",
+   "reason": "bdbs:שָׁמַע sense 1 is only the header 'v'; Qal 'to hear' is 2.1.1."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.63.sense",
+   "value": "1.2.1",
+   "severity": "error",
+   "reason": "וַיִּכָּתֵב is Nifal 'was written': sense 1.2.1, not the general sense."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.64.sense",
+   "value": "4.3.7",
+   "severity": "error",
+   "reason": "bdbs:סֵפֶר sense 1 is only the header 'n f'; the book of remembrance before God is 4.3.7 'record book (of God)'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.88.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Jastrow אֵיכָה sense 1 is the interrogative 'how'; the name of the Book of Lamentations is sense 3."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.28.sense",
+   "value": "1.5",
+   "severity": "style",
+   "reason": "In Isaiah 28:8 בְּלִי מָקוֹם is 'no room': bdbs:מָקוֹם 1.5 'space, room'. (Bartenura's reading 'the Place' has no sense in this entry; the note keeps it.)"
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.6.sense",
+   "value": "2.1",
+   "severity": "error",
+   "reason": "הַנֵּעוֹר is Nifal 'is awake': Jastrow עוּר I sense 2.1 'to be awake, wake up' (the entry cites ר\"י נעור), not the general sense 1."
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.8.sense",
+   "value": "1.2.1",
+   "severity": "error",
+   "reason": "מְהַלֵּךְ is Piel: bdbs:הָלַךְ 1.2.1 'Piel to walk'."
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.10.sense",
+   "value": "2.2",
+   "severity": "error",
+   "reason": "bdbs:יָחִיד sense 1 is only the header 'adj'; 'solitary' is 2.2."
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.11.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "מְפַנֶּה is Piel: bdbs:פָּנָה 1.2 'Piel to turn away, put out of the way, make clear, clear away'; sense 1 is the Qal 'to turn'."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.7.sense",
+   "value": "2.1",
+   "severity": "error",
+   "reason": "Jastrow קָבַל I sense 1 is the bracketed root meaning 'to seize; to join'; 'to receive, accept; to take an obligation upon one's self' is 2.1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.19.sense",
+   "value": "1.1",
+   "severity": "error",
+   "reason": "bdbs:אֱלֹהִים sense 1 is only the header '(plural intensive-singular meaning)'; 'God' is 1.1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.68.sense",
+   "value": "1.3.2",
+   "severity": "error",
+   "reason": "אַזְכִּיר is Hifil: bdbs:זָכַר 1.3.2 'Hiphil to cause to be remembered', the gloss given."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.73.sense",
+   "value": "1.3",
+   "severity": "error",
+   "reason": "וּבֵרַכְתִּיךָ is Piel: bdbs:בָרַךְ 1.3 'Piel to bless'."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.4.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal of אָמַר: sense 1.1 'Qal to say' rather than the general sense."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.5.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal of אָמַר: sense 1.1 'Qal to say' rather than the general sense."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.22.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal of אָמַר: sense 1.1 'Qal to say' rather than the general sense."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.3.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal of אָמַר: sense 1.1 'Qal to say' rather than the general sense."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.10.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal of אָמַר: sense 1.1 'Qal to say' rather than the general sense."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.35.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal of אָמַר: sense 1.1 'Qal to say' rather than the general sense."
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.5.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal of אָמַר: sense 1.1 'Qal to say' rather than the general sense."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.5.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal of אָמַר: sense 1.1 'Qal to say' rather than the general sense."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.8.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal of אָמַר: sense 1.1 'Qal to say' rather than the general sense."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.13.sense",
+   "value": "1.1.1.1",
+   "severity": "style",
+   "reason": "Qal imperative of ידע: sense 1.1.1.1 'Qal to know, learn to know'."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.18.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Qal of הָלַךְ: sense 1.1.1 'Qal to go, walk'."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.32.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Qal of הָלַךְ: sense 1.1.1 'Qal to go, walk'."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.23.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Qal of נָתַן 'to give': sense 1.1.1."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.41.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Qal of נָתַן 'to give': sense 1.1.1."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.33.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "'place of dust': bdbs:מָקוֹם 1.4 'place, locality, spot'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.66.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "'in every place': bdbs:מָקוֹם 1.4 'place, locality, spot'."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.34.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "עָפָר of the grave: 1.1 'dry or loose earth'."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.49.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "בָּרוּךְ is the Qal passive participle of 'to bless': 1.1.2 'Qal to bless' (1 joins 'kneel')."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.82.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "בָּרוּךְ is the Qal passive participle of 'to bless': 1.1.2 'Qal to bless' (1 joins 'kneel')."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.44.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "בָּרוּךְ is the Qal passive participle of 'to bless': 1.1.2 'Qal to bless' (1 joins 'kneel')."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.6.sense",
+   "value": "1.1.3",
+   "severity": "style",
+   "reason": "הֱוֵי with a participle is 'be': 1.1.3 'Qal to be'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.8.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "'welfare': bdbs:שָׁלוֹם 1.3 'welfare, health, prosperity'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.12.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "'fear' of the government: bdbs:מוֹרָא 1.1 'fear, terror'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.17.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "'swallowed ... alive': 1.1.2 'Qal to swallow up, engulf'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.24.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "'sit': bdbs:יָשַׁב 1.1.1 'Qal to sit, sit down'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.39.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "'sit': bdbs:יָשַׁב 1.1.1 'Qal to sit, sit down'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.42.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "'sit': bdbs:יָשַׁב 1.1.1 'Qal to sit, sit down'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.78.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "'sit': bdbs:יָשַׁב 1.1.1 'Qal to sit, sit down'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.90.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "'sit': bdbs:יָשַׁב 1.1.1 'Qal to sit, sit down'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.10.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "'sit': bdbs:יָשַׁב 1.1.1 'Qal to sit, sit down'."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.7.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "דְבָרִים 'things': bdbs:דָּבָר 1.4 'matter, case, something'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.27.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "דִּבְרֵי תוֹרָה 'words of Torah': bdbs:דָּבָר 1.3 'word, words'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.45.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "דִּבְרֵי תוֹרָה 'words of Torah': bdbs:דָּבָר 1.3 'word, words'."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.12.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "דִּבְרֵי תוֹרָה 'words of Torah': bdbs:דָּבָר 1.3 'word, words'."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.37.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "דִּבְרֵי תוֹרָה 'words of Torah': bdbs:דָּבָר 1.3 'word, words'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.31.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "מוֹשַׁב לֵצִים: bdbs:מוֹשָׁב 1.1 'seat, sitting, sitting company'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.36.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "מוֹשַׁב לֵצִים: bdbs:מוֹשָׁב 1.1 'seat, sitting, sitting company'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.53.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "אָז in Malachi 3:16 is past: 1.1.1 'then (past)'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.48.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "אָז in Malachi 3:16 is past: 1.1.1 'then (past)'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.69.sense",
+   "value": "1.1.4",
+   "severity": "style",
+   "reason": "'esteem his name': bdbs:חָשַׁב 1.1.4 'Qal to esteem, value, regard'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.94.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal נָטַל: 1.1 'Qal to lift, lift upon'."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.5.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Qal אָכַל with human subject: 1.1.1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.15.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Qal אָכַל with human subject: 1.1.1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.31.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Qal אָכַל with human subject: 1.1.1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.40.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Qal אָכַל with human subject: 1.1.1."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.22.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "'all (the tables)': bdbs:כֹּל 1.1 'the whole of, all'."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.6.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "כָּל with a participle or noun is 'every, any' ('whoever', 'every place'): bdbs:כֹּל 1.2."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.18.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "כָּל with a participle or noun is 'every, any' ('whoever', 'every place'): bdbs:כֹּל 1.2."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.65.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "כָּל with a participle or noun is 'every, any' ('whoever', 'every place'): bdbs:כֹּל 1.2."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.53.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "relative אֲשֶׁר: 1.1 'which, who' rather than the header '(relative part.)'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.67.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "relative אֲשֶׁר: 1.1 'which, who' rather than the header '(relative part.)'."
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.9.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "'on the road': bdbs:דֶּרֶךְ 1.1 'road, way, path'."
+  },
+  {
+   "ref": "3:5",
+   "path": "token:3:5.23.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "'they place upon him': bdbs:נָתַן 1.1.2 'Qal to put, set, put upon'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.31.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "'earth' (the earth's foundation): bdbs:אֶרֶץ 1.1."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.32.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Qal יָסַד: 1.1 'Qal to found, establish'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.41.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "'he judges' (among judges): bdbs:שָׁפַט 1.1.1 'Qal to act as judge'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.58.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "וְגוֹמֵר 'and completes (the verse)': 1.1.2 'Qal to bring to an end, complete'."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.51.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "The token names the prophetic book; sense 2 is the prophet, author of the book, rather than the meaning of the name."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.46.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "The token names the prophetic book; sense 2 is the prophet, author of the book, rather than the meaning of the name."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.27.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "The token names the prophetic book; sense 2 is the prophet, author of the book, rather than the meaning of the name."
+  },
+  {
+   "ref": "3:3",
+   "path": "token:3:3.47.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "The token names the prophetic book; sense 2 is the prophet, author of the book, rather than the meaning of the name."
+  },
+  {
+   "ref": "3:1",
+   "path": "grammar",
+   "value": [
+    "The saying has the form of a question and an answer: one imperative, דַּע 'know', governs three questions, and each is then answered in turn.",
+    "אִי אַתָּה בָא is the Mishnaic negative with a participle (a future: 'you will not come'); אִי stands for אֵין.",
+    "עָתִיד is an adjective (the pattern qatil), 'ready, destined', and takes the infinitive לִתֵּן: 'you are destined to give'.",
+    "מֶלֶךְ מַלְכֵי הַמְּלָכִים is a double superlative ('King of the kings of kings'): the construct chain piles up the title.",
+    "מֵאַיִן, וּלְאָן and וְלִפְנֵי מִי are three interrogative phrases, each repeated in the answer; the third answer reuses the whole question."
+   ],
+   "severity": "error",
+   "reason": "Two notes were untrue: there is one imperative דַּע, not three; עָתִיד is an adjective, not a participle (the Qal participle would be עוֹתֵד)."
+  },
+  {
+   "ref": "3:1",
+   "path": "token:3:1.22.note",
+   "value": "עָתִיד, an adjective: 'ready, destined, about to'; with לְ + infinitive, 'destined to'.",
+   "severity": "style",
+   "reason": "The morphology is corrected to adjective; the note says so."
+  },
+  {
+   "ref": "3:1",
+   "path": "apparatus",
+   "value": [
+    "Vilna reads עבירה for עֲבֵרָה, and ליתן for לִתֵּן (twice): spellings only.",
+    "Rabbeinu Yonah on 3:1 links the first consideration (whence you came) to lowliness of spirit, which saves from pride (Proverbs 16:5, cited there as 16:4), the second (dust and worm) to contempt for pleasures and wealth, as in Ecclesiastes, and the third to the shame of the soul before the King of kings."
+   ],
+   "severity": "error",
+   "reason": "The line said Rabbeinu Yonah links all three considerations to humility; he links only the first to humility, the second to contempt for pleasures, the third to the fear and shame before God."
+  },
+  {
+   "ref": "3:2",
+   "path": "english",
+   "value": "Rabbi Hanina, the deputy of the priests, says: Pray for the welfare of the government, for were it not for the fear of it, each man would have swallowed his fellow alive. Rabbi Hanina son of Teradion says: Two who sit with no words of Torah between them, this is a seat of scoffers, as it is said (Psalm 1): \"and in the seat of scoffers he has not sat.\" But two who sit with words of Torah between them, the Shekhinah dwells among them, as it is said (Malachi 3): \"Then those who fear the LORD spoke, each man to his fellow, and the LORD listened and heard, and a book of remembrance was written before him for those who fear the LORD and for those who esteem his name.\" I know this only of two. From where do we learn that even for one who sits and occupies himself with Torah, the Holy One, blessed be He, sets a reward for him? As it is said (Lamentations 3): \"He sits alone and murmurs, for he has taken it upon himself.\"",
+   "severity": "error",
+   "reason": "Bartenura (3:2:4: לְשׁוֹן קוֹל דְּמָמָה דַּקָּה, the whisper of one who studies alone) and Rambam (3:2:2: הַדִּבּוּר הַנִּסְתָּר, quiet speech) agree that וְיִדֹּם here is a low voice of study, not silence; the proof depends on it."
+  },
+  {
+   "ref": "3:2",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:2.1",
+      "3:2.2",
+      "3:2.3",
+      "3:2.4",
+      "3:2.5"
+     ],
+     "english": "Rabbi Hanina, the deputy of the priests, says",
+     "literal": "'Rabbi Hanina deputy-of the-priests says'"
+    },
+    {
+     "tokens": [
+      "3:2.6",
+      "3:2.7"
+     ],
+     "english": "Pray",
+     "literal": "'be praying'; the imperative of הָיָה with a participle gives an ongoing duty"
+    },
+    {
+     "tokens": [
+      "3:2.8",
+      "3:2.9",
+      "3:2.10"
+     ],
+     "english": "for the welfare of the government",
+     "literal": "'in-welfare-of-it of kingdom'; the prefix בְּ is 'for the sake of'; Bartenura adds 'even of the nations of the world'"
+    },
+    {
+     "tokens": [
+      "3:2.11",
+      "3:2.12"
+     ],
+     "english": "for were it not for the fear of it",
+     "literal": "'that-were-it-not fear-of-it'; the suffix refers to מַלְכוּת"
+    },
+    {
+     "tokens": [
+      "3:2.13",
+      "3:2.14",
+      "3:2.15",
+      "3:2.16",
+      "3:2.17"
+     ],
+     "english": "each man would have swallowed his fellow alive",
+     "literal": "'man ACC his-fellow alive swallowed-him'; the perfect בְּלָעוֹ is the apodosis of the contrafactual, 'would have swallowed'"
+    },
+    {
+     "tokens": [
+      "3:2.18",
+      "3:2.19",
+      "3:2.20",
+      "3:2.21",
+      "3:2.22"
+     ],
+     "english": "Rabbi Hanina son of Teradion says",
+     "literal": "second saying: 'Rabbi Hanina son-of Teradion says'"
+    },
+    {
+     "tokens": [
+      "3:2.23",
+      "3:2.24",
+      "3:2.25",
+      "3:2.26",
+      "3:2.27",
+      "3:2.28"
+     ],
+     "english": "Two who sit with no words of Torah between them",
+     "literal": "'two who-sit and-there-is-not between-them words-of Torah'"
+    },
+    {
+     "tokens": [
+      "3:2.29",
+      "3:2.30",
+      "3:2.31",
+      "3:2.32"
+     ],
+     "english": "this is a seat of scoffers",
+     "literal": "'behold this seat-of scoffers'"
+    },
+    {
+     "tokens": [
+      "3:2.33",
+      "3:2.34",
+      "3:2.35"
+     ],
+     "english": "as it is said (Psalm 1)",
+     "literal": "'that-it-is-said Psalms 1'"
+    },
+    {
+     "tokens": [
+      "3:2.36",
+      "3:2.37",
+      "3:2.38",
+      "3:2.39"
+     ],
+     "english": "\"and in the seat of scoffers he has not sat.\"",
+     "literal": "'and-in-seat-of scoffers not he-sat'; the perfect is read as a past or a general statement"
+    },
+    {
+     "tokens": [
+      "3:2.40",
+      "3:2.41",
+      "3:2.42",
+      "3:2.43",
+      "3:2.44",
+      "3:2.45",
+      "3:2.46"
+     ],
+     "english": "But two who sit with words of Torah between them",
+     "literal": "the counterpart of the first saying"
+    },
+    {
+     "tokens": [
+      "3:2.47",
+      "3:2.48",
+      "3:2.49"
+     ],
+     "english": "the Shekhinah dwells among them",
+     "literal": "'Shekhinah dwelling between-them'"
+    },
+    {
+     "tokens": [
+      "3:2.50",
+      "3:2.51",
+      "3:2.52"
+     ],
+     "english": "as it is said (Malachi 3)",
+     "literal": "'that-it-is-said Malachi 3'"
+    },
+    {
+     "tokens": [
+      "3:2.53",
+      "3:2.54",
+      "3:2.55",
+      "3:2.56"
+     ],
+     "english": "Then those who fear the LORD spoke",
+     "literal": "'then spoke fearers-of YHWH'"
+    },
+    {
+     "tokens": [
+      "3:2.57",
+      "3:2.58",
+      "3:2.59"
+     ],
+     "english": "each man to his fellow",
+     "literal": "'man to his-fellow'"
+    },
+    {
+     "tokens": [
+      "3:2.60",
+      "3:2.61",
+      "3:2.62"
+     ],
+     "english": "and the LORD listened and heard",
+     "literal": "'and-listened YHWH and-heard'"
+    },
+    {
+     "tokens": [
+      "3:2.63",
+      "3:2.64",
+      "3:2.65",
+      "3:2.66"
+     ],
+     "english": "and a book of remembrance was written before him",
+     "literal": "'and-was-written book-of remembrance before-him'"
+    },
+    {
+     "tokens": [
+      "3:2.67",
+      "3:2.68",
+      "3:2.69",
+      "3:2.70"
+     ],
+     "english": "for those who fear the LORD and for those who esteem his name",
+     "literal": "'for-fearers-of YHWH and-for-esteemers-of his-name'"
+    },
+    {
+     "tokens": [
+      "3:2.71",
+      "3:2.72",
+      "3:2.73",
+      "3:2.74"
+     ],
+     "english": "I know this only of two",
+     "literal": "'there-is-not to-me except two': the formula 'I have only (the case of) two'"
+    },
+    {
+     "tokens": [
+      "3:2.75",
+      "3:2.76",
+      "3:2.77",
+      "3:2.78",
+      "3:2.79",
+      "3:2.80"
+     ],
+     "english": "From where do we learn that even for one who sits and occupies himself with Torah",
+     "literal": "'from-where that-even one who-sits and-occupies in-the-Torah'"
+    },
+    {
+     "tokens": [
+      "3:2.81",
+      "3:2.82",
+      "3:2.83",
+      "3:2.84",
+      "3:2.85",
+      "3:2.86"
+     ],
+     "english": "the Holy One, blessed be He, sets a reward for him",
+     "literal": "'that-the-Holy-One blessed he fixes for-him reward'"
+    },
+    {
+     "tokens": [
+      "3:2.87",
+      "3:2.88",
+      "3:2.89"
+     ],
+     "english": "As it is said (Lamentations 3)",
+     "literal": "'that-it-is-said Lamentations 3'"
+    },
+    {
+     "tokens": [
+      "3:2.90",
+      "3:2.91",
+      "3:2.92",
+      "3:2.93",
+      "3:2.94",
+      "3:2.95"
+     ],
+     "english": "He sits alone and murmurs, for he has taken it upon himself",
+     "literal": "'he-sits alone and-is-still for he-took upon-him'; Bartenura and Rambam read וְיִדֹּם as the still, low voice of one who studies alone"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English of the last phrase changed; the literal of phrase 5 called בְּלָעוֹ an infinitive, but it is the Qal perfect with suffix (cf. Psalm 124:3 חַיִּים בְּלָעוּנוּ)."
+  },
+  {
+   "ref": "3:2",
+   "path": "literal",
+   "value": "Rabbi Hanina deputy-of the-priests says be praying in-welfare-of-it of kingdom that-were-it-not fear-of-it man ACC his-fellow alive swallowed-him Rabbi Hanina son-of Teradion says two who-sit and-there-is-not between-them words-of Torah behold this seat-of scoffers that-it-is-said Psalms 1 and-in-seat-of scoffers not he-sat but two who-sit and-there-is between-them words-of Torah Shekhinah dwelling between-them that-it-is-said Malachi 3 then spoke fearers-of YHWH man to his-fellow and-listened YHWH and-heard and-was-written book-of remembrance before-him for-fearers-of YHWH and-for-esteemers-of his-name there-is-not to-me except two from-where that-even one who-sits and-occupies in-the-Torah that-the-Holy-One blessed he fixes for-him reward that-it-is-said Lamentations 3 he-sits alone and-is-silent for he-took upon-him",
+   "severity": "error",
+   "reason": "בְּלָעוֹ is a perfect, 'swallowed him', not an infinitive."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.17.note",
+   "value": "Qal perfect 3ms with the 3ms suffix (בָּלַע + -וֹ), as in Psalm 124:3 חַיִּים בְּלָעוּנוּ; after שֶׁאִלְמָלֵא it is the contrafactual 'would have swallowed'. The suffix resumes רֵעֵהוּ.",
+   "severity": "error",
+   "reason": "The note called בְּלָעוֹ an infinitive; the infinitive with suffix would be בִּלְעוֹ."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.92.gloss",
+   "value": "and murmurs",
+   "severity": "error",
+   "reason": "Bartenura and Rambam read וְיִדֹּם as a low voice (קוֹל דְּמָמָה דַּקָּה), not silence."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.92.note",
+   "value": "Qal imperfect of דמם with simple vav (not a wayyiqtol); in Lamentations 'and let him be still'. Bartenura and Rambam read it from קוֹל דְּמָמָה דַּקָּה: the low murmur of one who studies alone.",
+   "severity": "error",
+   "reason": "The note called וְיִדֹּם 'wayyiqtol-like'; it is vav + imperfect (a wayyiqtol would be וַיִּדֹּם)."
+  },
+  {
+   "ref": "3:2",
+   "path": "token:3:2.55.note",
+   "value": "יִרְאֵי 'fearers of', the construct plural of the adjective יָרֵא.",
+   "severity": "style",
+   "reason": "The note wrote יְרֵאֵי; the text has יִרְאֵי."
+  },
+  {
+   "ref": "3:2",
+   "path": "grammar",
+   "value": [
+    "The verse has three sayings: Rabbi Hanina the deputy on prayer for the government, Rabbi Hanina son of Teradion on Torah study in company, and its extension to one who studies alone.",
+    "שֶׁאִלְמָלֵא introduces a contrafactual clause; the apodosis is the perfect בְּלָעוֹ (בָּלַע with the suffix -וֹ, resuming רֵעֵהוּ): 'would have swallowed him'.",
+    "שְׁנַיִם שֶׁיּוֹשְׁבִין וְאֵין בֵּינֵיהֶן ... is a casus pendens: 'Two who sit and there is not between them ... this is ...'; הֲרֵי זֶה opens the main clause.",
+    "וְיֵשׁ and וְאֵין are the existential particles ('there is' and 'there is not') followed by a subject in the construct: 'words of Torah'.",
+    "מִנַּיִן is the standard Talmudic question, 'from where (do we learn)'; the answers are verses, quoted by their source."
+   ],
+   "severity": "error",
+   "reason": "The note called בְּלָעוֹ an infinitive; it is the Qal perfect with a suffix."
+  },
+  {
+   "ref": "3:2",
+   "path": "note",
+   "value": "סְגַן הַכֹּהֲנִים is 'the deputy of the priests'; the English keeps the title. מַלְכוּת is 'the government' (the sages read the ruling power, including foreign rule: Bartenura 3:2:1). The sentence 'each man would have swallowed his fellow alive' (Bartenura 3:2:2 cites Habakkuk 1:14, 'like the fish of the sea') is a contrafactual. The last verse, נָטַל עָלָיו, is read in the Mishnah as 'he has taken it upon himself': Bartenura 3:2:5 reads 'as though the whole giving of the Torah were for him alone'; וְיִדֹּם is rendered 'murmurs': Bartenura (3:2:4) and Rambam (3:2:2) read it as the soft voice of one who studies in a whisper; Rabbeinu Yonah reads silent study in thought. In Lamentations 3:28 the verse is more likely 'Let him sit alone and be silent, for he has laid it upon him' (God has laid it on him).",
+   "severity": "error",
+   "reason": "The note must follow the English change on וְיִדֹּם."
+  },
+  {
+   "ref": "3:2",
+   "path": "commentary:bartenura:3:2:4",
+   "value": {
+    "relation": "follows",
+    "summary": "Bartenura: וְיִדֹּם is 'a term of a still, thin voice' (קוֹל דְּמָמָה דַּקָּה), the way one who studies alone studies in a whisper. The English follows with 'murmurs'."
+   },
+   "severity": "error",
+   "reason": "With Rambam agreeing, the English now follows this reading."
+  },
+  {
+   "ref": "3:2",
+   "path": "commentary:rambam:3:1:1.summary",
+   "value": "Rambam (anchored here by the pack, but commenting on 3:1) says that looking at whence one came brings humility, looking at one's end brings contempt for worldly affairs, and looking to the greatness of the One who commands (הַמְצַוֶּה) brings haste to obey His commandments; one who holds these three will not sin at all. This bears on 3:1, not on the plain sense of 3:2.",
+   "severity": "error",
+   "reason": "גּוֹדֶל הַמְצַוֶּה, followed by מִצְוֹתָיו 'His commandments', is the greatness of the Commander (the King before whom one gives account), not 'the commandment'."
+  },
+  {
+   "ref": "3:2",
+   "path": "commentary:rabbeinu-yonah:3:2:6",
+   "value": {
+    "relation": "records",
+    "summary": "Rabbeinu Yonah: the one who is silent and meditates in Torah is as if he took upon himself the yoke of Torah in thought; he cites the Rama's reading, that one who studies alone is as if he fulfilled the whole Torah, with וְיִדֹּם as speech."
+   },
+   "severity": "style",
+   "reason": "Records the real alternative to the English 'murmurs' (silent study in thought)."
+  },
+  {
+   "ref": "3:2",
+   "path": "apparatus",
+   "value": [
+    "Psalm 1:1 (the last clause, וּבְמוֹשַׁב לֵצִים לֹא יָשָׁב).",
+    "Malachi 3:16 (אָז נִדְבְּרוּ יִרְאֵי יְיָ ...): the Mishnah quotes the verse to its end; the proof is in אִישׁ אֶל רֵעֵהוּ, two speakers.",
+    "Lamentations 3:28 (יֵשֵׁב בָּדָד וְיִדֹּם כִּי נָטַל עָלָיו).",
+    "Vilna reads ה for יְיָ (three times), ולחושבי for וּלְחֹשְׁבֵי, שאפילו for שֶׁאֲפִלּוּ, וידום for וְיִדֹּם; Vilna omits שְׁרוּיָה ('dwells') at 3:2.48.",
+    "3:2.34 תהלים, 3:2.51 מלאכי and 3:2.88 איכה are the source names of the quoted verses; 3:2.35, 3:2.52 and 3:2.89 are letter numerals for the chapters.",
+    "Vilna adds the verse number after each source: (תהלים א) א, (מלאכי ג) טז, (איכה ג) כח."
+   ],
+   "severity": "error",
+   "reason": "The Malachi line was garbled ('the spoken words are those who fear the LORD'); the three Vilna additions of verse numbers (variants with no base token) were not recorded."
+  },
+  {
+   "ref": "3:3",
+   "path": "commentary:bartenura:3:3:5.summary",
+   "value": "Bartenura: as soon as one speaks words of Torah, the table is called 'the table that is before the LORD'. Some say the proof is from the head of the verse, 'the altar of wood, three cubits (אַמּוֹת)': read not אַמּוֹת but אִמּוֹת, 'mothers' (sources), three, for Torah, Prophets and Writings (or Scripture, Mishnah and Talmud), which a man must speak of at the table; so Rashi explained. The English follows the first reading.",
+   "severity": "error",
+   "reason": "The summary said he derives 'the three-cubit altar from the three parts of Scripture'; it is the reverse: the three parts of Scripture to be spoken at the table are derived from 'three cubits', read אִמּוֹת."
+  },
+  {
+   "ref": "3:3",
+   "path": "apparatus",
+   "value": [
+    "Isaiah 28:8 (כִּי כָּל שֻׁלְחָנוֹת מָלְאוּ קִיא צֹאָה בְּלִי מָקוֹם).",
+    "Ezekiel 41:22 (the last words: זֶה הַשֻּׁלְחָן אֲשֶׁר לִפְנֵי יְיָ); the Mishnah's text of Ezekiel runs וַיְדַבֵּר אֵלַי.",
+    "Vilna reads כאילו for כְּאִלּוּ (twice) and צואה for צֹאָה.",
+    "3:3.19 ישעיה and 3:3.47 יחזקאל are the source names; 3:3.20 כח and 3:3.48 מא are letter numerals (28 and 41), and the pack's lemma links for them (כֹּחַ, מָא) are not the sense here.",
+    "Vilna adds the verse number after each source: (ישעיה כח) ח, (יחזקאל מא) כב."
+   ],
+   "severity": "error",
+   "reason": "The Vilna additions of verse numbers (variants with no base token) were not recorded."
+  },
+  {
+   "ref": "3:4",
+   "path": "english",
+   "value": "Rabbi Hanina son of Hakhinai says: One who is awake at night, or who walks on the road alone, and who turns his heart to idleness: this one is answerable with his life.",
+   "severity": "error",
+   "reason": "Bartenura, the only normative comment here, reads the third clause as the condition of the first two: the one awake at night or walking alone who thinks idle thoughts (3:4:1 וּמְחַשֵּׁב בְּלִבּוֹ דִּבְרֵי הֲבַאי), because night and the lonely road are dangerous and Torah would guard him (3:4:2). Rabbeinu Yonah reads the same. Three independent subjects make the waking and the journey themselves liable."
+  },
+  {
+   "ref": "3:4",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:4.1",
+      "3:4.2",
+      "3:4.3",
+      "3:4.4",
+      "3:4.5"
+     ],
+     "english": "Rabbi Hanina son of Hakhinai says",
+     "literal": "'Rabbi Hanina son-of Hakhinai says'"
+    },
+    {
+     "tokens": [
+      "3:4.6",
+      "3:4.7"
+     ],
+     "english": "One who is awake at night",
+     "literal": "'the-one-awake at-night'"
+    },
+    {
+     "tokens": [
+      "3:4.8",
+      "3:4.9",
+      "3:4.10"
+     ],
+     "english": "or who walks on the road alone",
+     "literal": "'and-the-one-walking on-the-road alone'; the second situation, alternative to the first"
+    },
+    {
+     "tokens": [
+      "3:4.11",
+      "3:4.12",
+      "3:4.13"
+     ],
+     "english": "and who turns his heart to idleness",
+     "literal": "'and-the-one-clearing his-heart to-idleness'; Bartenura reads this clause as the condition of both situations"
+    },
+    {
+     "tokens": [
+      "3:4.14",
+      "3:4.15",
+      "3:4.16",
+      "3:4.17"
+     ],
+     "english": "this one is answerable with his life",
+     "literal": "'behold this incurring-liability with-his-life'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English changed (Bartenura's reading)."
+  },
+  {
+   "ref": "3:4",
+   "path": "note",
+   "value": "מִתְחַיֵּב בְּנַפְשׁוֹ is rendered 'is answerable with his life'. The English follows Bartenura: the night (3:4:1-2) is the time of demons and the lone traveller is in danger from robbers and other harm, and the one in either case who turns his heart to idle thoughts is guilty, for words of Torah would have guarded him. Read grammatically as three separate subjects, each participle with its own article, the saying would make the waking and the journey liable by themselves; the commentators do not read it so.",
+   "severity": "error",
+   "reason": "The note said Bartenura makes 'the three' guilty when they also think idle thoughts; he applies the idle thoughts to the first two cases."
+  },
+  {
+   "ref": "3:4",
+   "path": "grammar",
+   "value": [
+    "Three participles with the article (הַנֵּעוֹר, הַמְהַלֵּךְ, הַמְפַנֶּה) head the sentence; Bartenura reads the third as the condition of the first two: one who is awake at night or walks alone, and turns his heart to idle things.",
+    "הֲרֵי זֶה opens the main clause ('this one ...'), resuming the subject.",
+    "הַנֵּעוֹר is a Nifal participle of עור, 'is awake'; מְהַלֵּךְ and מְפַנֶּה are Piel participles. The Piel of פנה is 'to clear, make room': he frees his heart for idleness.",
+    "מִתְחַיֵּב is a Hitpael participle: 'makes himself liable'. The Vilna spelling is מתחייב.",
+    "בְּנַפְשׁוֹ 'with his life': he puts his own life at risk (Bartenura: demons by night, robbers on the road).",
+    "יְחִידִי, 'alone, by himself', is the Mishnaic adverbial form of יָחִיד."
+   ],
+   "severity": "error",
+   "reason": "The first note took the three participles as three independent subjects against Bartenura; the note on יְחִידִי ('old adverbial ending') is not supported; the Piel of פנה is now explained."
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.10.note",
+   "value": "יְחִידִי, the Mishnaic adverbial form of יָחִיד: 'alone, by himself'.",
+   "severity": "style",
+   "reason": "'the old ending -י' is not a known ending; the form is simply the Mishnaic adverb."
+  },
+  {
+   "ref": "3:4",
+   "path": "token:3:4.11.note",
+   "value": "Piel participle of פנה 'to clear, make room': he empties his heart for idle things.",
+   "severity": "style",
+   "reason": "The Piel of פנה is 'to clear', not 'to turn aside' (the Qal); the English 'turns his heart' keeps the idiom."
+  },
+  {
+   "ref": "3:4",
+   "path": "commentary:bartenura:3:4:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Bartenura: the one awake at night and the one walking alone on the road are guilty when he thinks idle things in his heart (וּמְחַשֵּׁב בְּלִבּוֹ דִּבְרֵי הֲבַאי): the third clause is the condition of the first two. The English follows."
+   },
+   "severity": "error",
+   "reason": "The ruling said 'the three are guilty when they also think idle thoughts' and recorded the reading; Bartenura qualifies the first two cases, and the English now follows him."
+  },
+  {
+   "ref": "3:4",
+   "path": "commentary:bartenura:3:4:2.summary",
+   "value": "Bartenura: night is the time of demons, and one who walks alone on the road is in danger from robbers and many evils; had he thought of words of Torah, it would have guarded him. Hence he is liable with his life only when his heart is turned to idleness. The English follows.",
+   "severity": "style",
+   "reason": "States the consequence of his reason for the reading of the clauses."
+  },
+  {
+   "ref": "3:5",
+   "path": "grammar",
+   "value": [
+    "The saying is two parallel conditional sentences: כָּל + participle, then a plural participle (מַעֲבִירִין, נוֹתְנִין) as an impersonal passive.",
+    "The two sentences are antithetic and in the same order: the one who takes the yoke of Torah has the other yokes removed (מַעֲבִירִין), the one who throws it off has them placed on him (נוֹתְנִין).",
+    "הַמְקַבֵּל and הַפּוֹרֵק are articular participles used as the subject after כָּל, 'whoever takes / whoever throws off'; קִבֵּל עָלָיו and פָּרַק מִמֶּנּוּ are the opposite idioms for a yoke.",
+    "עֹל תּוֹרָה is a construct chain 'the yoke of Torah'; the same pattern, עֹל מַלְכוּת, עֹל דֶּרֶךְ אֶרֶץ, follows.",
+    "דֶּרֶךְ אֶרֶץ ('the way of the land') is an idiom for the ordinary business of life, and in Avot often for the worldly occupation of earning a living."
+   ],
+   "severity": "error",
+   "reason": "The sentences are parallel, not chiastic (the order is the same in both), and there is no pun: the notes must be true for a learner."
+  },
+  {
+   "ref": "3:6",
+   "path": "english",
+   "value": "Rabbi Halafta son of Dosa, of Kefar Hananiah, says: Ten who sit and occupy themselves with Torah, the Shekhinah dwells among them, as it is said (Psalm 82): \"God stands in the congregation of God.\" And from where even five? As it is said (Amos 9): \"and his bundle upon the earth he has founded.\" And from where even three? As it is said (Psalm 82): \"In the midst of judges he judges.\" And from where even two? As it is said (Malachi 3): \"Then those who fear the LORD spoke, each man to his fellow, and the LORD listened and heard, and so on.\" And from where even one? As it is said (Exodus 20): \"In every place where I cause my name to be remembered I will come to you and bless you.\"",
+   "severity": "error",
+   "reason": "Bartenura (3:6:3-4, the three judges, שֶׁהַדַּיָּנִים הֵם שְׁלֹשָׁה) and Rambam (3:6:1, a court of no fewer than three, called אֱלֹהִים for judgment) agree that אֱלֹהִים here means judges; the proof for three rests on it."
+  },
+  {
+   "ref": "3:6",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:6.1",
+      "3:6.2",
+      "3:6.3",
+      "3:6.4",
+      "3:6.5",
+      "3:6.6",
+      "3:6.7",
+      "3:6.8"
+     ],
+     "english": "Rabbi Halafta son of Dosa, of Kefar Hananiah, says",
+     "literal": "'Rabbi Halafta son-of Dosa man-of village-of Hananiah says'"
+    },
+    {
+     "tokens": [
+      "3:6.9",
+      "3:6.10",
+      "3:6.11",
+      "3:6.12"
+     ],
+     "english": "Ten who sit and occupy themselves with Torah",
+     "literal": "'ten who-sit and-occupy in-the-Torah'"
+    },
+    {
+     "tokens": [
+      "3:6.13",
+      "3:6.14",
+      "3:6.15"
+     ],
+     "english": "the Shekhinah dwells among them",
+     "literal": "'Shekhinah dwelling between-them'"
+    },
+    {
+     "tokens": [
+      "3:6.16",
+      "3:6.17",
+      "3:6.18"
+     ],
+     "english": "as it is said (Psalm 82)",
+     "literal": "'that-it-is-said Psalms 82'"
+    },
+    {
+     "tokens": [
+      "3:6.19",
+      "3:6.20",
+      "3:6.21",
+      "3:6.22"
+     ],
+     "english": "God stands in the congregation of God",
+     "literal": "'God standing in-congregation-of God'"
+    },
+    {
+     "tokens": [
+      "3:6.23",
+      "3:6.24",
+      "3:6.25"
+     ],
+     "english": "And from where even five",
+     "literal": "'and-from-where even five'"
+    },
+    {
+     "tokens": [
+      "3:6.26",
+      "3:6.27",
+      "3:6.28"
+     ],
+     "english": "as it is said (Amos 9)",
+     "literal": "'that-it-is-said Amos 9'"
+    },
+    {
+     "tokens": [
+      "3:6.29",
+      "3:6.30",
+      "3:6.31",
+      "3:6.32"
+     ],
+     "english": "and his bundle upon the earth he has founded",
+     "literal": "'and-his-bundle upon earth he-founded-it'"
+    },
+    {
+     "tokens": [
+      "3:6.33",
+      "3:6.34",
+      "3:6.35"
+     ],
+     "english": "And from where even three",
+     "literal": "'and-from-where even three'"
+    },
+    {
+     "tokens": [
+      "3:6.36",
+      "3:6.37",
+      "3:6.38"
+     ],
+     "english": "as it is said (Psalm 82)",
+     "literal": "'that-it-is-said Psalms 82'"
+    },
+    {
+     "tokens": [
+      "3:6.39",
+      "3:6.40",
+      "3:6.41"
+     ],
+     "english": "In the midst of judges he judges",
+     "literal": "'in-midst-of elohim he-judges'; Bartenura and Rambam read אֱלֹהִים as the judges of a court, which is not fewer than three"
+    },
+    {
+     "tokens": [
+      "3:6.42",
+      "3:6.43",
+      "3:6.44"
+     ],
+     "english": "And from where even two",
+     "literal": "'and-from-where even two'"
+    },
+    {
+     "tokens": [
+      "3:6.45",
+      "3:6.46",
+      "3:6.47"
+     ],
+     "english": "as it is said (Malachi 3)",
+     "literal": "'that-it-is-said Malachi 3'"
+    },
+    {
+     "tokens": [
+      "3:6.48",
+      "3:6.49",
+      "3:6.50",
+      "3:6.51",
+      "3:6.52",
+      "3:6.53",
+      "3:6.54"
+     ],
+     "english": "Then those who fear the LORD spoke, each man to his fellow",
+     "literal": "'then spoke fearers-of the-LORD man to his-fellow'"
+    },
+    {
+     "tokens": [
+      "3:6.55",
+      "3:6.56",
+      "3:6.57",
+      "3:6.58"
+     ],
+     "english": "and the LORD listened and heard, and so on",
+     "literal": "'and-listened the-LORD and-heard and-so-on'; the quotation is cut off"
+    },
+    {
+     "tokens": [
+      "3:6.59",
+      "3:6.60",
+      "3:6.61"
+     ],
+     "english": "And from where even one",
+     "literal": "'and-from-where even one'"
+    },
+    {
+     "tokens": [
+      "3:6.62",
+      "3:6.63",
+      "3:6.64"
+     ],
+     "english": "as it is said (Exodus 20)",
+     "literal": "'that-it-is-said Exodus 20'"
+    },
+    {
+     "tokens": [
+      "3:6.65",
+      "3:6.66",
+      "3:6.67",
+      "3:6.68",
+      "3:6.69",
+      "3:6.70"
+     ],
+     "english": "In every place where I cause my name to be remembered",
+     "literal": "'in-every the-place which I-cause-to-be-remembered ACC my-name'; the object marker אֶת has no separate English"
+    },
+    {
+     "tokens": [
+      "3:6.71",
+      "3:6.72",
+      "3:6.73"
+     ],
+     "english": "I will come to you and bless you",
+     "literal": "'I-will-come to-you and-I-will-bless-you'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English changed."
+  },
+  {
+   "ref": "3:6",
+   "path": "literal",
+   "value": "Rabbi Halafta son-of Dosa man-of village-of Hananiah says ten who-sit and-occupy in-the-Torah Shekhinah dwelling between-them that-it-is-said Psalms 82 God standing in-congregation-of God and-from-where even five that-it-is-said Amos 9 and-his-bundle upon earth he-founded-it and-from-where even three that-it-is-said Psalms 82 in-midst-of judges he-judges and-from-where even two that-it-is-said Malachi 3 then spoke fearers-of the-LORD man to his-fellow and-listened the-LORD and-heard and-so-on and-from-where even one that-it-is-said Exodus 20 in-every the-place which I-cause-to-be-remembered ACC my-name I-will-come to-you and-I-will-bless-you",
+   "severity": "error",
+   "reason": "אֱלֹהִים in the second half of Psalm 82:1 is read as 'judges'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.40.gloss",
+   "value": "judges",
+   "severity": "error",
+   "reason": "Bartenura and Rambam: the court of three is called אֱלֹהִים."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.40.sense",
+   "value": "2.1",
+   "severity": "error",
+   "reason": "bdbs:אֱלֹהִים 2.1 'rulers, judges'; sense 1 is only a header."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.40.note",
+   "value": "אֱלֹהִים here 'judges' (bdbs 2.1): a court, not fewer than three, is called אֱלֹהִים for judgment (Rambam, Bartenura).",
+   "severity": "error",
+   "reason": "The learner needs the reason for 'judges'."
+  },
+  {
+   "ref": "3:6",
+   "path": "token:3:6.19.note",
+   "value": "אֱלֹהִים 'God'; in the second half of the same verse (3:6.40) Bartenura and Rambam read it as 'judges'.",
+   "severity": "style",
+   "reason": "The note said Rambam reads 'judges' 'in the following verse'; the words are in the same verse, Psalm 82:1."
+  },
+  {
+   "ref": "3:6",
+   "path": "note",
+   "value": "The proof of the five rests on אֲגֻדָּתוֹ, 'his bundle': Rambam and Rabbeinu Yonah read a bundle as what one binds in one hand, which has five fingers. Bartenura's own text reverses the two middle proofs: five from 'in the midst of judges he judges' (three judges and two litigants) and three from 'his bundle' (fire, air and water around the earth, or three stalks of hyssop); he gives the order of this text as the reading of 'some books', with the hand of five fingers. The English keeps 'his bundle'. In the first proof the congregation (עֵדָה) is not fewer than ten (Rambam; Bartenura from the spies, Numbers 14:27). In the third, אֱלֹהִים is 'judges' (a court of three: Rambam, Bartenura), and the English follows them. 'Kefar Hananiah' is a place, as in the pack. The pack's lemma link for אֵל (the particle אַל) does not fit; the word is אֵל 'God', in 'the congregation of God'.",
+   "severity": "error",
+   "reason": "The note said the English keeps 'God' in the third proof; it also misstated Bartenura's order of proofs."
+  },
+  {
+   "ref": "3:6",
+   "path": "commentary:bartenura:3:6:3.summary",
+   "value": "Bartenura (his heading reads 'and from where even five' with this verse): 'in the midst of judges he judges' gives three judges and two litigants, five. The English follows the base text, which proves three from this verse, as Bartenura himself explains in the reading of 'some books' (3:6:4); his own order is recorded here.",
+   "severity": "error",
+   "reason": "The summary quoted the verse as 'in the midst of God' and did not say that his heading attaches this verse to five."
+  },
+  {
+   "ref": "3:6",
+   "path": "commentary:bartenura:3:6:4.summary",
+   "value": "Bartenura's text reads 'even three' with 'his bundle': fire, air and water, three, surround the foundation of the earth; or a bundle of hyssop of three stalks. He adds that some books read 'even five' with this verse, for a man binds with one hand of five fingers, and the whole of the fingers is called a bundle; the head of the verse, 'who builds His upper chambers in the heavens', means that the Shekhinah descends when a bundle studies Torah; and then 'even three' from 'in the midst of judges', for judges are three. The English follows the 'some books' reading, which is the base text.",
+   "severity": "error",
+   "reason": "The summary did not say which number his own text attaches to Amos 9:6, nor that the English follows the reading he gives for 'some books'."
+  },
+  {
+   "ref": "3:6",
+   "path": "commentary:bartenura:3:6:5.summary",
+   "value": "Bartenura: נָטַל עָלָיו is a term of covering (לְשׁוֹן סְכָךְ), as the Targum renders וְסַכֹּתָ 'and you shall cover' by וְתַטֵּל: the Shekhinah covers him. The comment belongs to the verse of 3:2 (Lamentations 3:28), not to the plain sense of 3:6.",
+   "severity": "error",
+   "reason": "The summary said נָטַל is 'from the root of סכך'; Bartenura says it is a term for covering, by the Targum's rendering, not that it shares a root."
+  },
+  {
+   "ref": "3:6",
+   "path": "commentary:rambam:3:6:1.summary",
+   "value": "Rambam: a congregation (עֵדָה) is not fewer than ten, and a court not fewer than three, who are called אֱלֹהִים for judgment; an אֲגֻדָּה is what a man binds with one hand, which has five fingers, so the five fingers are called a bundle. The English follows all three points: 'congregation', 'judges' and 'his bundle'.",
+   "severity": "error",
+   "reason": "The ruling said the English follows only the first point; with 'judges' it now follows all three."
+  },
+  {
+   "ref": "3:6",
+   "path": "apparatus",
+   "value": [
+    "Psalm 82:1 (אֱלֹהִים נִצָּב בַּעֲדַת אֵל).",
+    "Amos 9:6 (וַאֲגֻדָּתוֹ עַל אֶרֶץ יְסָדָהּ).",
+    "Psalm 82:1 (בְּקֶרֶב אֱלֹהִים יִשְׁפֹּט).",
+    "Malachi 3:16 (אָז נִדְבְּרוּ יִרְאֵי יְיָ אִישׁ אֶל רֵעֵהוּ וַיַּקְשֵׁב יְיָ וַיִּשְׁמָע ...).",
+    "Exodus 20:21 (בְּכָל הַמָּקוֹם אֲשֶׁר אַזְכִּיר אֶת שְׁמִי אָבֹא אֵלֶיךָ וּבֵרַכְתִּיךָ).",
+    "Vilna omits בֶן דּוֹסָא (3:6.3-4) and תהלים פב (3:6.37-38); reads אפילו for אֲפִלּוּ, ואגודתו for וַאֲגֻדָּתוֹ, ישפוט for יִשְׁפֹּט and וגומר for וְגוֹ'.",
+    "Vilna adds the verse number after the sources: (תהלים פב) א, (עמוס ט) ו, (מלאכי ג) טז, (שמות כ) כ.",
+    "Bartenura (3:6:1) reads עֲשָׂרָה שֶׁהָיוּ יוֹשְׁבִים בַּדִּין 'ten who were sitting in judgment' (גָּרְסִינַן), and in 3:6:3-4 his text proves five from Psalm 82:1 and three from Amos 9:6."
+   ],
+   "severity": "error",
+   "reason": "The Vilna additions of verse numbers and Bartenura's text of the mishnah were not recorded."
+  },
+  {
+   "ref": "3:1",
+   "path": "morph:3:1.22",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עתד",
+    "morphemes": [
+     {
+      "form": "עָתִיד",
+      "lemma": "עָתִיד",
+      "pos": "adjective",
+      "parse": "masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עָתִיד is the adjective of the pattern qatil, 'ready, destined' (Jastrow, BDB); the Qal active participle of עתד would be עוֹתֵד."
+  },
+  {
+   "ref": "3:1",
+   "path": "morph:3:1.40",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עתד",
+    "morphemes": [
+     {
+      "form": "עָתִיד",
+      "lemma": "עָתִיד",
+      "pos": "adjective",
+      "parse": "masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עָתִיד is the adjective of the pattern qatil, 'ready, destined' (Jastrow, BDB); the Qal active participle of עתד would be עוֹתֵד."
+  },
+  {
+   "ref": "3:1",
+   "path": "morph:3:1.33",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קום",
+    "morphemes": [
+     {
+      "form": "לִ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "מְקוֹם",
+      "lemma": "מָקוֹם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מְקוֹם (absolute מָקוֹם) is the construct form: לִמְקוֹם עָפָר 'to the place of dust'."
+  },
+  {
+   "ref": "3:2",
+   "path": "morph:3:2.17",
+   "value": {
+    "lang": "mishnaic",
+    "root": "בלע",
+    "morphemes": [
+     {
+      "form": "בְּלָע",
+      "lemma": "בָּלַע",
+      "pos": "verb",
+      "parse": "qal, perfect (qatal), 3rd person, masculine, singular"
+     },
+     {
+      "form": "וֹ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "בְּלָעוֹ is the Qal perfect בָּלַע with the 3ms object suffix (cf. Psalm 124:3 חַיִּים בְּלָעוּנוּ), the apodosis of the contrafactual; the infinitive construct with suffix would be בִּלְעוֹ."
+  },
+  {
+   "ref": "3:2",
+   "path": "morph:3:2.32",
+   "value": {
+    "lang": "mishnaic",
+    "root": "לוץ",
+    "morphemes": [
+     {
+      "form": "לֵצִים",
+      "lemma": "לֵץ",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In מוֹשַׁב לֵצִים the construct is מוֹשַׁב; לֵצִים is the absolute, the last member of the chain."
+  },
+  {
+   "ref": "3:2",
+   "path": "morph:3:2.37",
+   "value": {
+    "lang": "hbo",
+    "root": "לוץ",
+    "morphemes": [
+     {
+      "form": "לֵצִים",
+      "lemma": "לֵץ",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In מוֹשַׁב לֵצִים the construct is מוֹשַׁב; לֵצִים is the absolute, the last member of the chain."
+  },
+  {
+   "ref": "3:2",
+   "path": "morph:3:2.60",
+   "value": {
+    "lang": "hbo",
+    "root": "קשב",
+    "morphemes": [
+     {
+      "form": "וַ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "יַּקְשֵׁב",
+      "lemma": "קָשַׁב",
+      "pos": "verb",
+      "parse": "hifil, imperfect (yiqtol), 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "וַיַּקְשֵׁב is Hifil (prefix vowel patach, ē before the last radical); קשב has no Qal in this sense."
+  },
+  {
+   "ref": "3:6",
+   "path": "morph:3:6.55",
+   "value": {
+    "lang": "hbo",
+    "root": "קשב",
+    "morphemes": [
+     {
+      "form": "וַ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "יַּקְשֵׁב",
+      "lemma": "קָשַׁב",
+      "pos": "verb",
+      "parse": "hifil, imperfect (yiqtol), 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "וַיַּקְשֵׁב is Hifil (prefix vowel patach, ē before the last radical); קשב has no Qal in this sense."
+  },
+  {
+   "ref": "3:2",
+   "path": "morph:3:2.64",
+   "value": {
+    "lang": "hbo",
+    "root": "ספר",
+    "morphemes": [
+     {
+      "form": "סֵפֶר",
+      "lemma": "סֵפֶר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "סֵפֶר זִכָּרוֹן is a construct chain, 'a book of remembrance'; the segolate סֵפֶר has the same form in the construct."
+  },
+  {
+   "ref": "3:3",
+   "path": "morph:3:3.43",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קום",
+    "morphemes": [
+     {
+      "form": "מָקוֹם",
+      "lemma": "מָקוֹם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "After the genitive particle שֶׁל the noun is absolute: מִשֻּׁלְחָנוֹ שֶׁל מָקוֹם; it is not bound to בָּרוּךְ."
+  },
+  {
+   "ref": "3:5",
+   "path": "morph:3:5.9",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עול",
+    "morphemes": [
+     {
+      "form": "עֹל",
+      "lemma": "עֹל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עֹל is the construct head of עֹל תּוֹרָה / עֹל מַלְכוּת / עֹל דֶּרֶךְ אֶרֶץ, 'the yoke of'."
+  },
+  {
+   "ref": "3:5",
+   "path": "morph:3:5.13",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עול",
+    "morphemes": [
+     {
+      "form": "עֹל",
+      "lemma": "עֹל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עֹל is the construct head of עֹל תּוֹרָה / עֹל מַלְכוּת / עֹל דֶּרֶךְ אֶרֶץ, 'the yoke of'."
+  },
+  {
+   "ref": "3:5",
+   "path": "morph:3:5.15",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עול",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "עֹל",
+      "lemma": "עֹל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עֹל is the construct head of עֹל תּוֹרָה / עֹל מַלְכוּת / עֹל דֶּרֶךְ אֶרֶץ, 'the yoke of'."
+  },
+  {
+   "ref": "3:5",
+   "path": "morph:3:5.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עול",
+    "morphemes": [
+     {
+      "form": "עֹל",
+      "lemma": "עֹל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עֹל is the construct head of עֹל תּוֹרָה / עֹל מַלְכוּת / עֹל דֶּרֶךְ אֶרֶץ, 'the yoke of'."
+  },
+  {
+   "ref": "3:5",
+   "path": "morph:3:5.25",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עול",
+    "morphemes": [
+     {
+      "form": "עֹל",
+      "lemma": "עֹל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עֹל is the construct head of עֹל תּוֹרָה / עֹל מַלְכוּת / עֹל דֶּרֶךְ אֶרֶץ, 'the yoke of'."
+  },
+  {
+   "ref": "3:5",
+   "path": "morph:3:5.27",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עול",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "עֹל",
+      "lemma": "עֹל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עֹל is the construct head of עֹל תּוֹרָה / עֹל מַלְכוּת / עֹל דֶּרֶךְ אֶרֶץ, 'the yoke of'."
+  },
+  {
+   "ref": "3:6",
+   "path": "morph:3:6.58",
+   "value": {
+    "lang": "mishnaic",
+    "root": "גמר",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "גוֹ",
+      "lemma": "גָּמַר",
+      "pos": "verb",
+      "parse": "qal, participle active, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "וְגוֹ' (וְגוֹמֵר 'and so on') is the Mishnah's abbreviation after the quotation, not a word of Malachi 3:16; lang is mishnaic, not hbo."
+  },
+  {
+   "ref": "3:2",
+   "path": "morph:3:2.36",
+   "value": {
+    "lang": "hbo",
+    "root": "ישב",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "בְ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "מוֹשַׁב",
+      "lemma": "מוֹשָׁב",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The forms must copy the token as printed: the token has no dagesh (or has one) where the form differs."
+  },
+  {
+   "ref": "3:3",
+   "path": "morph:3:3.52",
+   "value": {
+    "lang": "hbo",
+    "root": "שלחן",
+    "morphemes": [
+     {
+      "form": "הַ",
+      "lemma": "ה: the",
+      "pos": "article",
+      "parse": "definite article"
+     },
+     {
+      "form": "שֻּׁלְחָן",
+      "lemma": "שֻׁלְחָן",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The forms must copy the token as printed: the token has no dagesh (or has one) where the form differs."
+  },
+  {
+   "ref": "3:4",
+   "path": "morph:3:4.13",
+   "value": {
+    "lang": "mishnaic",
+    "root": "בטל",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "בַטָּלָה",
+      "lemma": "בַּטָּלָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The forms must copy the token as printed: the token has no dagesh (or has one) where the form differs."
+  },
+  {
+   "ref": "3:5",
+   "path": "morph:3:5.18",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "כָל",
+      "lemma": "כֹּל",
+      "pos": "adjective",
+      "parse": "masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The forms must copy the token as printed: the token has no dagesh (or has one) where the form differs."
+  },
+  {
+   "ref": "3:6",
+   "path": "morph:3:6.65",
+   "value": {
+    "lang": "hbo",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "בְּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "כָל",
+      "lemma": "כֹּל",
+      "pos": "adjective",
+      "parse": "masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The forms must copy the token as printed: the token has no dagesh (or has one) where the form differs."
+  },
+  {
+   "ref": "3:6",
+   "path": "morph:3:6.73",
+   "value": {
+    "lang": "hbo",
+    "root": "ברך",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "בֵרַכְתִּי",
+      "lemma": "בָּרַךְ",
+      "pos": "verb",
+      "parse": "piel, perfect (qatal), 1st person, common, singular"
+     },
+     {
+      "form": "ךָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The forms must copy the token as printed: the token has no dagesh (or has one) where the form differs."
+  },
+  {
+   "ref": "3:6",
+   "path": "morph:3:6.32",
+   "value": {
+    "lang": "hbo",
+    "root": "יסד",
+    "morphemes": [
+     {
+      "form": "יְסָד",
+      "lemma": "יָסַד",
+      "pos": "verb",
+      "parse": "qal, perfect (qatal), 3rd person, masculine, singular"
+     },
+     {
+      "form": "ָהּ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, feminine, singular"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The forms repeated the qamats (יְסָדָ + ָהּ); the vowel is written once: יְסָד + ָהּ."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:3:1:1",
+   "verdict": "consistent",
+   "comment": "The English 'putrid drop', 'dust, maggot and worm' and the account before the King agree with his three remedies."
+  },
+  {
+   "anchor": "bartenura:3:2:1",
+   "verdict": "consistent",
+   "comment": "'the government' is general enough to include foreign rule."
+  },
+  {
+   "anchor": "bartenura:3:2:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:3:2:3",
+   "verdict": "consistent",
+   "comment": "'each man to his fellow' carries the two speakers."
+  },
+  {
+   "anchor": "bartenura:3:2:4",
+   "verdict": "contradicts",
+   "comment": "The English 'is silent' is against his 'still, thin voice' and Rambam's 'hidden speech'; patched to 'murmurs'."
+  },
+  {
+   "anchor": "bartenura:3:2:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:3:1:1",
+   "verdict": "not-applicable",
+   "comment": "The comment is on 3:1; it agrees with the English of 3:1 (one who considers these three will not sin). Its summary is corrected ('the One who commands')."
+  },
+  {
+   "anchor": "rambam:3:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:3:2:2",
+   "verdict": "contradicts",
+   "comment": "He explains וְיִדֹּם as quiet speech; the English 'is silent' is patched to 'murmurs'."
+  },
+  {
+   "anchor": "bartenura:3:3:1",
+   "verdict": "consistent",
+   "comment": "A legal remark; the English is not affected."
+  },
+  {
+   "anchor": "bartenura:3:3:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:3:3:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:3:3:4",
+   "verdict": "consistent",
+   "comment": "'with no place' keeps the plain 'no room' and admits his 'without the Place'; the note explains it."
+  },
+  {
+   "anchor": "bartenura:3:3:5",
+   "verdict": "consistent",
+   "comment": "Summary of his second derivation corrected."
+  },
+  {
+   "anchor": "rambam:3:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:3:4:1",
+   "verdict": "contradicts",
+   "comment": "He makes the idle thoughts the condition of the first two cases; the English made three independent subjects. Patched."
+  },
+  {
+   "anchor": "bartenura:3:4:2",
+   "verdict": "contradicts",
+   "comment": "His reason (danger averted by thoughts of Torah) requires the conditional reading; patched with 3:4:1."
+  },
+  {
+   "anchor": "bartenura:3:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:3:5:2",
+   "verdict": "consistent",
+   "comment": "'worldly occupation' is the toil of earning a living."
+  },
+  {
+   "anchor": "bartenura:3:5:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:3:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:3:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:3:5:3",
+   "verdict": "contradicts",
+   "comment": "Rambam's 'toil of the times' differs from Bartenura's 'toil of livelihood'; the normative commentators differ, and the English follows Bartenura and records Rambam, as the brief requires. The English stands."
+  },
+  {
+   "anchor": "bartenura:3:6:1",
+   "verdict": "contradicts",
+   "comment": "His גָּרְסִינַן is a different text of the mishnah ('ten who were sitting in judgment'); the English follows the base witness and the reading is now in the apparatus. The English stands."
+  },
+  {
+   "anchor": "bartenura:3:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:3:6:3",
+   "verdict": "contradicts",
+   "comment": "His heading proves five from Psalm 82:1; the English follows the base text, whose order he himself explains as the reading of 'some books' (3:6:4). The English stands; his reading is recorded."
+  },
+  {
+   "anchor": "bartenura:3:6:4",
+   "verdict": "consistent",
+   "comment": "The English follows the 'some books' reading he explains (the hand of five fingers; judges are three)."
+  },
+  {
+   "anchor": "bartenura:3:6:5",
+   "verdict": "not-applicable",
+   "comment": "On נָטַל עָלָיו of Lamentations 3:28 (3:2)."
+  },
+  {
+   "anchor": "rambam:3:6:1",
+   "verdict": "contradicts",
+   "comment": "A court of three is called אֱלֹהִים; the English 'In the midst of God he judges' is patched to 'judges'."
+  }
+ ]
+}
