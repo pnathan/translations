@@ -1,0 +1,1835 @@
+{
+ "unit": "perek-5-03",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "5:13",
+   "english": "There are four types in giving charity. One who wants to give but wants others not to give has an evil eye toward what belongs to others. One who wants others to give but himself not to give has an evil eye toward his own. One who gives, and others give too, is pious. One who does not give, and others do not give either, is wicked.",
+   "literal": "four types in-those-giving-of charity; the-one-wanting that-he-give and-not they-give others, his-eye evil in-that-of others; they-give others and-he not he-gives, his-eye evil in-his-own; he-gives and-they-give others, pious; not he-gives and-not they-give others, wicked",
+   "tokens": [
+    {
+     "id": "5:13.1",
+     "gloss": "four",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.2",
+     "gloss": "types",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.3",
+     "gloss": "in those who give (in the giving of)",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.4",
+     "gloss": "charity",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.5",
+     "gloss": "the one who wants",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.6",
+     "gloss": "that he give",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.7",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.8",
+     "gloss": "that give",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.9",
+     "gloss": "others",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.10",
+     "gloss": "his eye",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.11",
+     "gloss": "evil",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.12",
+     "gloss": "in what belongs to (in that of)",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.13",
+     "gloss": "others",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.14",
+     "gloss": "that give",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.15",
+     "gloss": "others",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.16",
+     "gloss": "and he",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.17",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.18",
+     "gloss": "give",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.19",
+     "gloss": "his eye",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.20",
+     "gloss": "evil",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.21",
+     "gloss": "in his own",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.22",
+     "gloss": "gives",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.23",
+     "gloss": "and that give",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.24",
+     "gloss": "others",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.25",
+     "gloss": "pious",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.26",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.27",
+     "gloss": "gives",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.28",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.29",
+     "gloss": "give",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.30",
+     "gloss": "others",
+     "sense": "1"
+    },
+    {
+     "id": "5:13.31",
+     "gloss": "wicked",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:13.1",
+      "5:13.2",
+      "5:13.3",
+      "5:13.4"
+     ],
+     "english": "There are four types in giving charity",
+     "literal": "'four types in-those-giving-of charity': Bartenura reads בְּנוֹתְנֵי as 'in the giving of', not as 'among actual givers'"
+    },
+    {
+     "tokens": [
+      "5:13.5",
+      "5:13.6",
+      "5:13.7",
+      "5:13.8",
+      "5:13.9"
+     ],
+     "english": "One who wants to give but wants others not to give",
+     "literal": "'the-one-wanting that-he-give and-not they-give others'; the second verb is a wish, 'that others not give'"
+    },
+    {
+     "tokens": [
+      "5:13.10",
+      "5:13.11",
+      "5:13.12",
+      "5:13.13"
+     ],
+     "english": "has an evil eye toward what belongs to others",
+     "literal": "'his-eye evil in-that-of others'; Bartenura: he knows charity enriches and does not want others enriched"
+    },
+    {
+     "tokens": [
+      "5:13.14",
+      "5:13.15",
+      "5:13.16",
+      "5:13.17",
+      "5:13.18"
+     ],
+     "english": "others to give but himself not to give",
+     "literal": "'they-give others and-he not he-gives'; 'one who wants' carries over"
+    },
+    {
+     "tokens": [
+      "5:13.19",
+      "5:13.20",
+      "5:13.21"
+     ],
+     "english": "has an evil eye toward his own",
+     "literal": "'his-eye evil in-his-own'"
+    },
+    {
+     "tokens": [
+      "5:13.22",
+      "5:13.23",
+      "5:13.24",
+      "5:13.25"
+     ],
+     "english": "One who gives, and others give too, is pious",
+     "literal": "'he-gives and-they-give others, pious'"
+    },
+    {
+     "tokens": [
+      "5:13.26",
+      "5:13.27",
+      "5:13.28",
+      "5:13.29",
+      "5:13.30",
+      "5:13.31"
+     ],
+     "english": "One who does not give, and others do not give either, is wicked",
+     "literal": "'not he-gives and-not they-give others, wicked'"
+    }
+   ],
+   "grammar": [
+    "מִדּוֹת here means 'types, patterns'; the series 'four types' recurs in 5:14-15 (and 5:10-12).",
+    "The participle הָרוֹצֶה with the relative שֶׁ is a headless relative: 'the one who wants that ...'.",
+    "The imperfects יִתֵּן / יִתְּנוּ after שֶׁ express what is wanted; after the first clause the verb 'wants' is understood.",
+    "עֵינוֹ רָעָה, 'his eye is evil', is the idiom for grudgingness; בְּשֶׁל is the Mishnaic genitive 'in that which is of'.",
+    "The four types are given as bare predicates (חָסִיד, רָשָׁע): the first two have an evil eye, the third is pious, the fourth wicked."
+   ],
+   "note": "The mishnah gives the first two types no label beyond 'evil eye'; the English keeps this. In the third and fourth, the Hebrew has the same imperfect without 'wants'; the English 'one who gives, and others give too' keeps the bare form, and Rambam (pious = he whose mercy requires that others show mercy too) shows that the willing of others' giving is meant. The pack's lexicon entries for אַרְבַּע (Arba, a name), מִדָּה (tribute) and עַיִן (Ain) are misfits for this text; the data is kept.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:13:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'four types in the giving of charity', not literally 'in givers of charity', since one type does not give; likewise the next mishnah means 'in the going to the house of study'."
+    },
+    {
+     "anchor": "bartenura:5:13:2",
+     "relation": "follows",
+     "summary": "Bartenura: the first has an evil eye because he knows that charity enriches and does not want others enriched. Another explanation: he spares his relatives' money more than his own and does not want them to lose it, like the evil eye 'in his own' below."
+    },
+    {
+     "anchor": "rambam:5:13:1",
+     "relation": "follows",
+     "summary": "Rambam: see how he called the merciful one 'pious' - it is not enough for him that he alone has mercy until others too have mercy - and the cruel one 'wicked'."
+    }
+   ],
+   "apparatus": [
+    "Rabbeinu Yonah (not normative) reads 'wants that he give and not others' as wanting all the good and praise for himself, and the miser as 'kilai'."
+   ]
+  },
+  {
+   "ref": "5:14",
+   "english": "There are four types among those who go to the house of study. One who goes but does not do: the reward of going is in his hand. One who does but does not go: the reward of doing is in his hand. One who goes and does is pious. One who neither goes nor does is wicked.",
+   "literal": "four types in-those-going to-house-of the-study; going and-not-he doing, reward-of going in-his-hand; doing and-not-he going, reward-of deed in-his-hand; going and-doing, pious; not going and-not doing, wicked",
+   "tokens": [
+    {
+     "id": "5:14.1",
+     "gloss": "four",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.2",
+     "gloss": "types",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.3",
+     "gloss": "among those who go",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.4",
+     "gloss": "to the house of",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.5",
+     "gloss": "the study (house of study)",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.6",
+     "gloss": "one who goes",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.7",
+     "gloss": "and is not (and not)",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.8",
+     "gloss": "doing",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.9",
+     "gloss": "reward of",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.10",
+     "gloss": "going",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.11",
+     "gloss": "in his hand",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.12",
+     "gloss": "one who does",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.13",
+     "gloss": "and is not",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.14",
+     "gloss": "going",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.15",
+     "gloss": "reward of",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.16",
+     "gloss": "deed",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.17",
+     "gloss": "in his hand",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.18",
+     "gloss": "one who goes",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.19",
+     "gloss": "and doing",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.20",
+     "gloss": "pious",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.21",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.22",
+     "gloss": "going",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.23",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.24",
+     "gloss": "doing",
+     "sense": "1"
+    },
+    {
+     "id": "5:14.25",
+     "gloss": "wicked",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:14.1",
+      "5:14.2",
+      "5:14.3",
+      "5:14.4",
+      "5:14.5"
+     ],
+     "english": "There are four types among those who go to the house of study",
+     "literal": "'four types in-those-going to-house-of the-study'; Bartenura: 'in the going to the house of study'"
+    },
+    {
+     "tokens": [
+      "5:14.6",
+      "5:14.7",
+      "5:14.8"
+     ],
+     "english": "One who goes but does not do",
+     "literal": "'going and-not-he doing'; Bartenura reads 'does' as study and review"
+    },
+    {
+     "tokens": [
+      "5:14.9",
+      "5:14.10",
+      "5:14.11"
+     ],
+     "english": "the reward of going is in his hand",
+     "literal": "'reward-of going in-his-hand'; 'in his hand' = in his possession"
+    },
+    {
+     "tokens": [
+      "5:14.12",
+      "5:14.13",
+      "5:14.14"
+     ],
+     "english": "One who does but does not go",
+     "literal": "'doing and-not-he going'; Bartenura: he studies in a house of study at home"
+    },
+    {
+     "tokens": [
+      "5:14.15",
+      "5:14.16",
+      "5:14.17"
+     ],
+     "english": "the reward of doing is in his hand",
+     "literal": "'reward-of deed in-his-hand'"
+    },
+    {
+     "tokens": [
+      "5:14.18",
+      "5:14.19",
+      "5:14.20"
+     ],
+     "english": "One who goes and does is pious",
+     "literal": "'going and-doing, pious'"
+    },
+    {
+     "tokens": [
+      "5:14.21",
+      "5:14.22",
+      "5:14.23",
+      "5:14.24",
+      "5:14.25"
+     ],
+     "english": "One who neither goes nor does is wicked",
+     "literal": "'not going and-not doing, wicked'"
+    }
+   ],
+   "grammar": [
+    "Pattern as in 5:13: four types, each defined by a pair of participles (הוֹלֵךְ, עוֹשֶׂה); the participles are subjects ('one who ...').",
+    "וְאֵינוֹ is אֵין with a 3rd masculine singular suffix: 'and he is not'; it negates the participle that follows.",
+    "הֲלִיכָה (a Mishnaic verbal noun, 'going') is contrasted with מַעֲשֶׂה, 'deed, doing'.",
+    "שְׂכַר ... בְיָדוֹ: 'the reward ... is in his hand', i.e. he holds it, it is his."
+   ],
+   "note": "The English keeps 'does' because the Hebrew word is עוֹשֶׂה. Bartenura (normative) reads 'does' in the first clause as 'learns, reviews and understands' (the one who goes to hear but does not study) and the second as one who studies at home; Rabbeinu Yonah (not normative) reads it as practising the commandments, the first as one who does not seek them out. The English leaves the word open; the reading is recorded rather than adopted.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:14:1",
+     "relation": "records",
+     "summary": "Bartenura: he goes to the house of study to hear but does not review and learn and does not understand ('does' read as studying)."
+    },
+    {
+     "anchor": "bartenura:5:14:2",
+     "relation": "records",
+     "summary": "Bartenura: he learns and reviews in a house of study that is in his own house ('does' read as studying; 'goes' as going out to the public house of study)."
+    },
+    {
+     "anchor": "rambam:5:14:1",
+     "relation": "follows",
+     "summary": "Rambam: the going to the house of study has four types; note that he called the one who increases in acquiring virtues pious and the one who is lazy about acquiring them wicked."
+    },
+    {
+     "anchor": "rambam:5:14:2",
+     "relation": "not-applicable",
+     "summary": "Rambam's long digression on intellectual and moral virtues, the mean and the extremes, and the terms 'pious', 'sinner', 'unlearned' and 'wise' does not bear on the plain sense of this mishnah."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:14:1",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: 'does not do' does not mean he does nothing of what he heard, for then he would be wholly wicked; he does not seek out the commandments and does them only when they come to hand."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "5:15",
+   "english": "There are four types among those who sit before the sages: a sponge, a funnel, a strainer, and a sieve. A sponge, because it absorbs everything. A funnel, because it takes in through this and lets out through that. A strainer, because it lets the wine out and retains the dregs. And a sieve, because it lets out the fine meal and retains the choice flour.",
+   "literal": "four types in-those-sitting before sages: sponge, and-funnel, strainer, and-sieve; sponge, that-it absorbing [obj] the-all; funnel, that-bringing-in in-this and-sending-out in-that; strainer, that-sending-out [obj] the-wine and-retaining [obj] the-dregs; and-sieve, that-sending-out [obj] the-meal and-retaining [obj] the-choice-flour",
+   "tokens": [
+    {
+     "id": "5:15.1",
+     "gloss": "four",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.2",
+     "gloss": "types",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.3",
+     "gloss": "among those who sit",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.4",
+     "gloss": "before (to the face of)",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.5",
+     "gloss": "sages",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.6",
+     "gloss": "sponge",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.7",
+     "gloss": "and funnel",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.8",
+     "gloss": "strainer",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.9",
+     "gloss": "and sieve",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.10",
+     "gloss": "sponge",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.11",
+     "gloss": "because it (that it)",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.12",
+     "gloss": "absorbs",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.13",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.14",
+     "gloss": "everything (the all)",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.15",
+     "gloss": "funnel",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.16",
+     "gloss": "that takes in",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.17",
+     "gloss": "through this",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.18",
+     "gloss": "and lets out",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.19",
+     "gloss": "through that",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.20",
+     "gloss": "strainer",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.21",
+     "gloss": "that lets out",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.22",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.23",
+     "gloss": "the wine",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.24",
+     "gloss": "and retains",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.25",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.26",
+     "gloss": "the dregs",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.27",
+     "gloss": "and sieve",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.28",
+     "gloss": "that lets out",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.29",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.30",
+     "gloss": "the fine meal",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.31",
+     "gloss": "and retains",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.32",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:15.33",
+     "gloss": "the choice flour",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:15.1",
+      "5:15.2",
+      "5:15.3",
+      "5:15.4",
+      "5:15.5"
+     ],
+     "english": "There are four types among those who sit before the sages",
+     "literal": "'four types in-those-sitting before sages'"
+    },
+    {
+     "tokens": [
+      "5:15.6",
+      "5:15.7",
+      "5:15.8",
+      "5:15.9"
+     ],
+     "english": "a sponge, a funnel, a strainer, and a sieve",
+     "literal": "four utensils named as the four types"
+    },
+    {
+     "tokens": [
+      "5:15.10",
+      "5:15.11",
+      "5:15.12",
+      "5:15.13",
+      "5:15.14"
+     ],
+     "english": "A sponge, because it absorbs everything",
+     "literal": "'sponge, that-it absorbing [obj] the-all'; Bartenura: absorbs clear and cloudy water alike"
+    },
+    {
+     "tokens": [
+      "5:15.15",
+      "5:15.16",
+      "5:15.17",
+      "5:15.18",
+      "5:15.19"
+     ],
+     "english": "A funnel, because it takes in through this and lets out through that",
+     "literal": "'funnel, that-bringing-in in-this and-sending-out in-that'; the funnel set on a barrel or skin has two openings"
+    },
+    {
+     "tokens": [
+      "5:15.20",
+      "5:15.21",
+      "5:15.22",
+      "5:15.23",
+      "5:15.24",
+      "5:15.25",
+      "5:15.26"
+     ],
+     "english": "A strainer, because it lets the wine out and retains the dregs",
+     "literal": "'strainer, that-sending-out [obj] the-wine and-retaining [obj] the-dregs'"
+    },
+    {
+     "tokens": [
+      "5:15.27",
+      "5:15.28",
+      "5:15.29",
+      "5:15.30",
+      "5:15.31",
+      "5:15.32",
+      "5:15.33"
+     ],
+     "english": "And a sieve, because it lets out the fine meal and retains the choice flour",
+     "literal": "'and-sieve, that-sending-out [obj] the-meal and-retaining [obj] the-choice-flour'; Bartenura and Rambam: the fine powder falls through, the coarser choice flour stays"
+    }
+   ],
+   "grammar": [
+    "The four types are first listed as nouns (סְפוֹג, מַשְׁפֵּךְ, מְשַׁמֶּרֶת, נָפָה) and then each is explained by a clause with שֶׁ ('because it ...').",
+    "The explanations use participles (סוֹפֵג, מַכְנִיס, מוֹצִיא, קוֹלֶטֶת) to describe a habitual action.",
+    "בְּזוֹ ... בְזוֹ, 'in this ... in that', is the Mishnaic use of זוֹ (feminine) as demonstrative pronoun; the antecedent is the two openings (or ends) of the funnel.",
+    "אֶת marks the definite objects of מוֹצִיאָה and קוֹלֶטֶת; it has no English counterpart.",
+    "מְשַׁמֶּרֶת (filter) and נָפָה (sieve) are fem. nouns, hence the fem. participles מוֹצִיאָה, קוֹלֶטֶת."
+   ],
+   "note": "The mishnah gives only the utensils; the commentators (Bartenura, Rambam) supply the application to the disciple: the sponge cannot tell truth from falsehood, the funnel forgets, the strainer keeps the worthless, the sieve keeps the valued. The English keeps the images without the application. On קֶמַח and סֹלֶת: for Bartenura and Rambam the קֶמַח that passes through the sieve is the fine powder and the סֹלֶת kept is the coarse, choice part, so the English says 'fine meal' and 'choice flour'. The 'this/that' of the funnel is rendered literally.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:15:1",
+     "relation": "follows",
+     "summary": "Bartenura: above, the four types of disciples concerned memory and forgetting; now the mishnah concerns sound reasoning and sifting the valid from the invalid."
+    },
+    {
+     "anchor": "bartenura:5:15:2",
+     "relation": "follows",
+     "summary": "Bartenura: the sponge absorbs water, cloudy or clear; so one has a wide heart and accepts all he hears and cannot tell truth from falsehood."
+    },
+    {
+     "anchor": "bartenura:5:15:3",
+     "relation": "follows",
+     "summary": "Bartenura: a funnel is a vessel set on the mouth of a barrel or skin when filling it with wine or oil."
+    },
+    {
+     "anchor": "bartenura:5:15:4",
+     "relation": "follows",
+     "summary": "Bartenura: one takes in all he learns but as he swallows it so he spits it out."
+    },
+    {
+     "anchor": "bartenura:5:15:5",
+     "relation": "follows",
+     "summary": "Bartenura: the strainer lets out all he hears in the house of study and retains the worthless."
+    },
+    {
+     "anchor": "bartenura:5:15:6",
+     "relation": "follows",
+     "summary": "Bartenura: the sifted fine meal falls through and the coarse, valued סֹלֶת remains; so one can sort and clarify what he hears, retaining the true and letting go the false."
+    },
+    {
+     "anchor": "rambam:5:15:1",
+     "relation": "follows",
+     "summary": "Rambam: the sponge (sea-wool) absorbs everything, true and false; the funnel is one who understands at once and remembers nothing; the strainer remembers the bad and forgets the true; the sieve lets out the fine dust and keeps the choice flour."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads ביושבי for בְּיוֹשְׁבִים (5:15.3) and הסולת for הַסֹּלֶת (5:15.33): spelling/word variants, no change in sense."
+   ]
+  },
+  {
+   "ref": "5:16",
+   "english": "Any love that depends on a thing: when the thing ceases, the love ceases. And that which does not depend on a thing never ceases. Which is the love that depends on a thing? This is the love of Amnon and Tamar. And that which does not depend on a thing? This is the love of David and Jonathan.",
+   "literal": "all love that-it hanging on-thing, ceased thing, ceased love; and-that-not-it hanging on-thing, not-it ceasing forever; which it love the-hanging on-thing, this love-of Amnon and-Tamar; and-that-not-it hanging on-thing, this love-of David and-Jonathan",
+   "tokens": [
+    {
+     "id": "5:16.1",
+     "gloss": "every (any)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.2",
+     "gloss": "love",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.3",
+     "gloss": "that it (that is)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.4",
+     "gloss": "dependent (hanging)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.5",
+     "gloss": "on a thing",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.6",
+     "gloss": "ceases",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.7",
+     "gloss": "thing",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.8",
+     "gloss": "ceases",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.9",
+     "gloss": "love",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.10",
+     "gloss": "and that which is not (and that-not-it)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.11",
+     "gloss": "dependent (hanging)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.12",
+     "gloss": "on a thing",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.13",
+     "gloss": "it is not (not-it)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.14",
+     "gloss": "ceasing",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.15",
+     "gloss": "ever (for ever)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.16",
+     "gloss": "which",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.17",
+     "gloss": "is it",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.18",
+     "gloss": "love",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.19",
+     "gloss": "that depends (the hanging)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.20",
+     "gloss": "on a thing",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.21",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.22",
+     "gloss": "love of",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.23",
+     "gloss": "Amnon",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.24",
+     "gloss": "and Tamar",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.25",
+     "gloss": "and that which is not (and that-not-it)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.26",
+     "gloss": "dependent (hanging)",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.27",
+     "gloss": "on a thing",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.28",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.29",
+     "gloss": "love of",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.30",
+     "gloss": "David",
+     "sense": "1"
+    },
+    {
+     "id": "5:16.31",
+     "gloss": "and Jonathan",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:16.1",
+      "5:16.2",
+      "5:16.3",
+      "5:16.4",
+      "5:16.5"
+     ],
+     "english": "Any love that depends on a thing",
+     "literal": "'all love that-it hanging on-thing'; 'thing' is דָּבָר, a cause or material object (Bartenura: the cause of the love)"
+    },
+    {
+     "tokens": [
+      "5:16.6",
+      "5:16.7",
+      "5:16.8",
+      "5:16.9"
+     ],
+     "english": "when the thing ceases, the love ceases",
+     "literal": "'ceased thing, ceased love'; the perfect is conditional"
+    },
+    {
+     "tokens": [
+      "5:16.10",
+      "5:16.11",
+      "5:16.12",
+      "5:16.13",
+      "5:16.14",
+      "5:16.15"
+     ],
+     "english": "And that which does not depend on a thing never ceases",
+     "literal": "'and-that-not-it hanging on-thing, not-it ceasing forever'"
+    },
+    {
+     "tokens": [
+      "5:16.16",
+      "5:16.17",
+      "5:16.18",
+      "5:16.19",
+      "5:16.20"
+     ],
+     "english": "Which is the love that depends on a thing",
+     "literal": "'which it love the-hanging on-thing'"
+    },
+    {
+     "tokens": [
+      "5:16.21",
+      "5:16.22",
+      "5:16.23",
+      "5:16.24"
+     ],
+     "english": "This is the love of Amnon and Tamar",
+     "literal": "'this love-of Amnon and-Tamar'; Bartenura: because of her beauty"
+    },
+    {
+     "tokens": [
+      "5:16.25",
+      "5:16.26",
+      "5:16.27"
+     ],
+     "english": "And that which does not depend on a thing",
+     "literal": "'and-that-not-it hanging on-thing'"
+    },
+    {
+     "tokens": [
+      "5:16.28",
+      "5:16.29",
+      "5:16.30",
+      "5:16.31"
+     ],
+     "english": "This is the love of David and Jonathan",
+     "literal": "'this love-of David and-Jonathan'; Bartenura: to fulfil the will of their Maker"
+    }
+   ],
+   "grammar": [
+    "The first clause is a conditional sentence without particles: the perfect בָּטֵל ('ceased'), twice, means 'if/when the thing has ceased, the love has ceased'.",
+    "בָּטֵל is the masculine adjective/perfect and בְּטֵלָה the feminine; they agree with דָּבָר and אַהֲבָה respectively.",
+    "וְשֶׁאֵינָהּ is 'and that which is not' (ש + אֵין + 3rd fem. sing. suffix): the headless relative stands for 'a love which ...'.",
+    "Question and answer: אֵיזוֹ הִיא ... זוֹ ..., 'which is ...? This is ...'; אֵיזוֹ is the feminine of אֵיזֶה, 'which'.",
+    "אַהֲבַת is the construct of אַהֲבָה: 'love of'."
+   ],
+   "note": "דָּבָר is kept as 'a thing' because it is general: the commentators explain it as the cause or object on which the love depends (beauty in Amnon's case; a lasting purpose for David and Jonathan). The pack's lexicon entry for אֵיזֶה is Jastrow's; תָּמָר's first sense is a place name, and the entries for זֶה and בָּטֵל are the closest available.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:16:1",
+     "relation": "follows",
+     "summary": "Bartenura: love that depends on a thing does not last: when the thing that caused the love ceases, so does the love. Love not dependent on a thing that perishes but on a lasting thing, such as love of the righteous and the sages, never ceases."
+    },
+    {
+     "anchor": "bartenura:5:16:2",
+     "relation": "follows",
+     "summary": "Bartenura on Amnon and Tamar: because of her beauty."
+    },
+    {
+     "anchor": "bartenura:5:16:3",
+     "relation": "follows",
+     "summary": "Bartenura on David and Jonathan: to fulfil the will of their Creator, since Jonathan said to David 'You will be king over Israel and I will be second to you'."
+    },
+    {
+     "anchor": "rambam:5:16:1",
+     "relation": "follows",
+     "summary": "Rambam: bodily causes pass away and what depends on them passes with them; when the cause of love is divine, namely true knowledge, the love can never cease because its cause is permanent."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:16:1",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah (not normative): the love of Jonathan for David did not cease though he risked losing the kingship; the love of Amnon and Tamar needs no elaboration."
+    }
+   ],
+   "apparatus": [
+    "Names: Amnon and Tamar: 2 Samuel 13; David and Jonathan: 1 Samuel 18-20, 2 Samuel 1:26."
+   ]
+  },
+  {
+   "ref": "5:17",
+   "english": "Every dispute that is for the sake of Heaven will in the end endure. And one that is not for the sake of Heaven will not in the end endure. Which is a dispute that is for the sake of Heaven? This is the dispute of Hillel and Shammai. And one that is not for the sake of Heaven? This is the dispute of Korah and all his company.",
+   "literal": "all dispute that-it for-sake-of Heaven, its-end to-endure; and-that-not-it for-sake-of Heaven, not its-end to-endure; which it dispute that-it for-sake-of Heaven, this dispute-of Hillel and-Shammai; and-that-not-it for-sake-of Heaven, this dispute-of Korah and-all his-company",
+   "tokens": [
+    {
+     "id": "5:17.1",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.2",
+     "gloss": "dispute",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.3",
+     "gloss": "that is",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.4",
+     "gloss": "for the sake of",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.5",
+     "gloss": "Heaven",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.6",
+     "gloss": "its end",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.7",
+     "gloss": "to endure (to be established)",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.8",
+     "gloss": "and that which is not",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.9",
+     "gloss": "for the sake of",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.10",
+     "gloss": "Heaven",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.11",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.12",
+     "gloss": "its end",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.13",
+     "gloss": "to endure",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.14",
+     "gloss": "which",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.15",
+     "gloss": "is it",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.16",
+     "gloss": "dispute",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.17",
+     "gloss": "that is",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.18",
+     "gloss": "for the sake of",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.19",
+     "gloss": "Heaven",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.20",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.21",
+     "gloss": "dispute of",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.22",
+     "gloss": "Hillel",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.23",
+     "gloss": "and Shammai",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.24",
+     "gloss": "and that which is not",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.25",
+     "gloss": "for the sake of",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.26",
+     "gloss": "Heaven",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.27",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.28",
+     "gloss": "dispute of",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.29",
+     "gloss": "Korah",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.30",
+     "gloss": "and all",
+     "sense": "1"
+    },
+    {
+     "id": "5:17.31",
+     "gloss": "his company",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:17.1",
+      "5:17.2",
+      "5:17.3",
+      "5:17.4",
+      "5:17.5",
+      "5:17.6",
+      "5:17.7"
+     ],
+     "english": "Every dispute that is for the sake of Heaven will in the end endure",
+     "literal": "'all dispute that-it for-sake-of Heaven, its-end to-endure'; 'its end' (סוֹפָהּ) = its outcome, its end-result"
+    },
+    {
+     "tokens": [
+      "5:17.8",
+      "5:17.9",
+      "5:17.10",
+      "5:17.11",
+      "5:17.12",
+      "5:17.13"
+     ],
+     "english": "And one that is not for the sake of Heaven will not in the end endure",
+     "literal": "'and-that-not-it for-sake-of Heaven, not its-end to-endure'"
+    },
+    {
+     "tokens": [
+      "5:17.14",
+      "5:17.15",
+      "5:17.16",
+      "5:17.17",
+      "5:17.18",
+      "5:17.19"
+     ],
+     "english": "Which is a dispute that is for the sake of Heaven",
+     "literal": "'which it dispute that-it for-sake-of Heaven'"
+    },
+    {
+     "tokens": [
+      "5:17.20",
+      "5:17.21",
+      "5:17.22",
+      "5:17.23"
+     ],
+     "english": "This is the dispute of Hillel and Shammai",
+     "literal": "'this dispute-of Hillel and-Shammai'"
+    },
+    {
+     "tokens": [
+      "5:17.24",
+      "5:17.25",
+      "5:17.26"
+     ],
+     "english": "And one that is not for the sake of Heaven",
+     "literal": "'and-that-not-it for-sake-of Heaven'"
+    },
+    {
+     "tokens": [
+      "5:17.27",
+      "5:17.28",
+      "5:17.29",
+      "5:17.30",
+      "5:17.31"
+     ],
+     "english": "This is the dispute of Korah and all his company",
+     "literal": "'this dispute-of Korah and-all his-company'"
+    }
+   ],
+   "grammar": [
+    "סוֹפָהּ לְהִתְקַיֵּם: 'its end is to endure/be established'; the infinitive with לְ gives the outcome ('is destined to'), and סוֹף 'end' can mean outcome or goal.",
+    "Negative counterpart: אֵין סוֹפָהּ לְהִתְקַיֵּם, 'it is not its end to endure'; אֵין negates the nominal clause.",
+    "לְשֵׁם שָׁמַיִם, 'for the name/sake of Heaven': 'Heaven' is the Mishnaic reverent name for God.",
+    "מַחֲלֹקֶת (Vilna מחלוקת) is a Mishnaic feminine noun, 'dispute', from the root of 'division'; the pack's BDB entry glosses it as 'division, course', the nearest sense.",
+    "Question and answer: אֵיזוֹ הִיא ... זוֹ ...; the second case reuses the headless relative וְשֶׁאֵינָהּ."
+   ],
+   "note": "סוֹפָהּ is rendered 'in the end' so that the English keeps the ambiguity the commentators discuss: for Bartenura's first reading the disputants endure (Hillel's and Shammai's disciples did not perish, Korah's company did); in his second reading the aim of the dispute, the truth, is what endures. The English 'will in the end endure' allows both. Korah's dispute: Numbers 16.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:17:1",
+     "relation": "follows",
+     "summary": "Bartenura: the disputants themselves endure and do not perish (neither Shammai's nor Hillel's disciples perished, while Korah and his company did). He also reports another reading: 'its end' is the aim sought, to attain the truth, which endures ('truth emerges from the argument'), as the law follows Beit Hillel."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:17:1",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah (not normative): the disputants endure, argue about one thing today and another tomorrow, and the dispute continues all their lives; they are given length of days besides."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:17:2",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah (not normative): the dispute not for the sake of Heaven ends at the first dispute, where the disputants die, like Korah's."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads מחלוקת, להתקיים, and שהוא for שֶׁהִיא: spelling variants, no change in sense (5:17.2, 7, 13, 16, 17, 21, 28)."
+   ]
+  },
+  {
+   "ref": "5:18",
+   "english": "Whoever makes the many meritorious, no sin comes through him. And whoever causes the many to sin, they do not give him the means to repent. Moses was meritorious and made the many meritorious; the merit of the many rests on him, as it is said, Deuteronomy 33: \"He performed the righteousness of the LORD, and His judgments with Israel.\" Jeroboam sinned and caused the many to sin; the sin of the many rests on him, as it is said, 1 Kings 15: \"For the sins of Jeroboam, son of Nebat, which he sinned and which he caused Israel to sin.\"",
+   "literal": "all the-causing-merit [obj] the-many, not sin coming upon his-hand; and-all the-causing-to-sin [obj] the-many, not they-give-means in-his-hand to-do repentance; Moses merited and-caused-merit [obj] the-many, merit-of the-many hanging in-him, as-it-is-said (Deuteronomy 33) righteousness-of YHWH he-did and-his-judgments with Israel; Jeroboam sinned and-caused-to-sin [obj] the-many, sin-of the-many hanging in-him, as-it-is-said (Kings I 15) upon sins-of Jeroboam (son-of Nebat) which sinned and-which caused-to-sin [obj] Israel",
+   "tokens": [
+    {
+     "id": "5:18.1",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.2",
+     "gloss": "the one who makes meritorious",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.3",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.4",
+     "gloss": "the many",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.5",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.6",
+     "gloss": "sin",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.7",
+     "gloss": "comes",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.8",
+     "gloss": "upon",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.9",
+     "gloss": "his hand (through him)",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.10",
+     "gloss": "and every",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.11",
+     "gloss": "the one who causes to sin",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.12",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.13",
+     "gloss": "the many",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.14",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.15",
+     "gloss": "they give the means (they enable)",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.16",
+     "gloss": "in his hand (to him)",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.17",
+     "gloss": "to do (to make)",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.18",
+     "gloss": "repentance",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.19",
+     "gloss": "Moses",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.20",
+     "gloss": "was meritorious",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.21",
+     "gloss": "and made meritorious",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.22",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.23",
+     "gloss": "the many",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.24",
+     "gloss": "merit of",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.25",
+     "gloss": "the many",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.26",
+     "gloss": "hanging (rests)",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.27",
+     "gloss": "on him (in him)"
+    },
+    {
+     "id": "5:18.28",
+     "gloss": "as it is said",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.29",
+     "gloss": "Deuteronomy"
+    },
+    {
+     "id": "5:18.30",
+     "gloss": "33"
+    },
+    {
+     "id": "5:18.31",
+     "gloss": "righteousness of",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.32",
+     "gloss": "the LORD",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.33",
+     "gloss": "he performed",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.34",
+     "gloss": "and His judgments",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.35",
+     "gloss": "with",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.36",
+     "gloss": "Israel",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.37",
+     "gloss": "Jeroboam",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.38",
+     "gloss": "sinned",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.39",
+     "gloss": "and caused to sin",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.40",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.41",
+     "gloss": "the many",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.42",
+     "gloss": "sin of",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.43",
+     "gloss": "the many",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.44",
+     "gloss": "hanging (rests)",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.45",
+     "gloss": "on him (in him)"
+    },
+    {
+     "id": "5:18.46",
+     "gloss": "as it is said",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.47",
+     "gloss": "Kings"
+    },
+    {
+     "id": "5:18.48",
+     "gloss": "1",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.49",
+     "gloss": "15"
+    },
+    {
+     "id": "5:18.50",
+     "gloss": "for (upon)",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.51",
+     "gloss": "sins of",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.52",
+     "gloss": "Jeroboam",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.53",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.54",
+     "gloss": "Nebat",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.55",
+     "gloss": "which",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.56",
+     "gloss": "sinned",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.57",
+     "gloss": "and which",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.58",
+     "gloss": "caused to sin",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.59",
+     "gloss": "-",
+     "sense": "1"
+    },
+    {
+     "id": "5:18.60",
+     "gloss": "Israel",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:18.1",
+      "5:18.2",
+      "5:18.3",
+      "5:18.4"
+     ],
+     "english": "Whoever makes the many meritorious",
+     "literal": "'all the-causing-merit [obj] the-many'; Bartenura: he taught Torah to all Israel"
+    },
+    {
+     "tokens": [
+      "5:18.5",
+      "5:18.6",
+      "5:18.7",
+      "5:18.8",
+      "5:18.9"
+     ],
+     "english": "no sin comes through him",
+     "literal": "'not sin coming upon his-hand'; Bartenura: lest he be in Gehinnom and his disciples in Eden"
+    },
+    {
+     "tokens": [
+      "5:18.10",
+      "5:18.11",
+      "5:18.12",
+      "5:18.13"
+     ],
+     "english": "And whoever causes the many to sin",
+     "literal": "'and-all the-causing-to-sin [obj] the-many'"
+    },
+    {
+     "tokens": [
+      "5:18.14",
+      "5:18.15",
+      "5:18.16",
+      "5:18.17",
+      "5:18.18"
+     ],
+     "english": "they do not give him the means to repent",
+     "literal": "'not they-give-means in-his-hand to-do repentance'; impersonal plural (from Heaven); Bartenura: lest he be in Eden and his disciples in Gehinnom"
+    },
+    {
+     "tokens": [
+      "5:18.19",
+      "5:18.20",
+      "5:18.21",
+      "5:18.22",
+      "5:18.23"
+     ],
+     "english": "Moses was meritorious and made the many meritorious",
+     "literal": "'Moses merited and-caused-merit [obj] the-many'"
+    },
+    {
+     "tokens": [
+      "5:18.24",
+      "5:18.25",
+      "5:18.26",
+      "5:18.27"
+     ],
+     "english": "the merit of the many rests on him",
+     "literal": "'merit-of the-many hanging in-him'"
+    },
+    {
+     "tokens": [
+      "5:18.28"
+     ],
+     "english": "as it is said",
+     "literal": "'as-it-is-said'"
+    },
+    {
+     "tokens": [
+      "5:18.29",
+      "5:18.30"
+     ],
+     "english": "Deuteronomy 33",
+     "literal": "'Deuteronomy 33': citation of Deut 33:21"
+    },
+    {
+     "tokens": [
+      "5:18.31",
+      "5:18.32",
+      "5:18.33",
+      "5:18.34",
+      "5:18.35",
+      "5:18.36"
+     ],
+     "english": "He performed the righteousness of the LORD, and His judgments with Israel",
+     "literal": "'righteousness-of YHWH he-did and-his-judgments with Israel'; Bartenura: as if he had made the judgments that are with Israel"
+    },
+    {
+     "tokens": [
+      "5:18.37",
+      "5:18.38",
+      "5:18.39",
+      "5:18.40",
+      "5:18.41"
+     ],
+     "english": "Jeroboam sinned and caused the many to sin",
+     "literal": "'Jeroboam sinned and-caused-to-sin [obj] the-many'"
+    },
+    {
+     "tokens": [
+      "5:18.42",
+      "5:18.43",
+      "5:18.44",
+      "5:18.45"
+     ],
+     "english": "the sin of the many rests on him",
+     "literal": "'sin-of the-many hanging in-him'"
+    },
+    {
+     "tokens": [
+      "5:18.46"
+     ],
+     "english": "as it is said",
+     "literal": "'as-it-is-said'"
+    },
+    {
+     "tokens": [
+      "5:18.47",
+      "5:18.48",
+      "5:18.49"
+     ],
+     "english": "1 Kings 15",
+     "literal": "'Kings I 15': citation of 1 Kings 15:30"
+    },
+    {
+     "tokens": [
+      "5:18.50",
+      "5:18.51",
+      "5:18.52",
+      "5:18.53",
+      "5:18.54"
+     ],
+     "english": "For the sins of Jeroboam, son of Nebat",
+     "literal": "'upon sins-of Jeroboam (son-of Nebat)'; the words in brackets in the Hebrew text are marked as optional"
+    },
+    {
+     "tokens": [
+      "5:18.55",
+      "5:18.56",
+      "5:18.57",
+      "5:18.58",
+      "5:18.59",
+      "5:18.60"
+     ],
+     "english": "which he sinned and which he caused Israel to sin",
+     "literal": "'which sinned and-which caused-to-sin [obj] Israel'; Bartenura: the verse does not say 'and Israel', so it all hangs on Jeroboam"
+    }
+   ],
+   "grammar": [
+    "זִכָּה (Piel/causative of זָכָה) 'made meritorious, caused to have merit' contrasts with the Qal זָכָה 'was meritorious': Moses was meritorious and made others so.",
+    "הַמַּחֲטִיא (Hiphil of חָטָא) 'one who causes to sin' parallels הַמְזַכֶּה; both are participles with the article used as 'whoever'.",
+    "אֵין מַסְפִּיקִין בְּיָדוֹ is an impersonal plural: 'they do not enable him' (Heaven does not supply him the means); the verb is Hiphil of ספק, 'supply, suffice', here 'give the opportunity'.",
+    "תָּלוּי בּוֹ, 'hangs on him', means 'depends on him / is credited to him'; it is the passive participle of תָּלָה.",
+    "The two proof-texts are Deuteronomy 33:21 and 1 Kings 15:30; the Hebrew's brackets give the chapter (and the optional name 'son of Nebat'). The Vilna text has the references in the margin as כא and ל."
+   ],
+   "note": "'Merit' (זְכוּת) is kept as one English word through the mishnah for the pun on זָכָה / זִכָּה. תָּלוּי בּוֹ is rendered 'rests on him' to keep the sense 'depends on, is attributed to'; 'hangs' is given in the literal line. The impersonal 'they do not give him the means' is kept as an impersonal plural, as in the Hebrew. Where the pack's lexicon has misfit senses (for example for שֵׁם and יָשַׁב), the data is kept.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:18:1",
+     "relation": "follows",
+     "summary": "Bartenura: no sin comes through him, so that he not be in Gehinnom while his disciples are in the Garden of Eden."
+    },
+    {
+     "anchor": "bartenura:5:18:2",
+     "relation": "follows",
+     "summary": "Bartenura: they do not give him the means to repent, so that he not be in the Garden of Eden while his disciples are in Gehinnom."
+    },
+    {
+     "anchor": "bartenura:5:18:3",
+     "relation": "follows",
+     "summary": "Bartenura: 'caused the many to be meritorious' - he taught Torah to all Israel."
+    },
+    {
+     "anchor": "bartenura:5:18:4",
+     "relation": "follows",
+     "summary": "Bartenura: the judgments that are with Israel are credited to him as if he had made them."
+    },
+    {
+     "anchor": "bartenura:5:18:5",
+     "relation": "follows",
+     "summary": "Bartenura: since the verse does not say 'for the sins of Jeroboam and Israel', learn that everything depends on Jeroboam."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:18:1",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah (not normative): so that his disciples not be in Eden and he in Gehinnom, as it is written 'You will not leave my soul to Sheol, nor give Your pious one to see the pit' (Psalms 16:10)."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:18:2",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah (not normative): 'the righteousness of the LORD he did' - he completed and kept the whole Torah, he and all Israel with him."
+    }
+   ],
+   "apparatus": [
+    "Deuteronomy 33:21: צִדְקַת יְהוָה עָשָׂה וּמִשְׁפָּטָיו עִם יִשְׂרָאֵל.",
+    "1 Kings 15:30: עַל חַטֹּאות יָרָבְעָם אֲשֶׁר חָטָא וַאֲשֶׁר הֶחֱטִיא אֶת יִשְׂרָאֵל. The mishnah text has בֶּן נְבָט in brackets.",
+    "Vilna reads וזיכה for וְזִכָּה (5:18.21), and gives the references כא (Deut 33:21) and ל (1 Kings 15:30) as words."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1538 @@
+{
+ "unit": "perek-4-03",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "4:13",
+   "english": "Rabbi Yehuda says: Be careful in study, for an error in study counts as deliberate sin. Rabbi Shimon says: There are three crowns: the crown of Torah, the crown of priesthood, the crown of kingship; but the crown of a good name rises above them.",
+   "literal": "'rises over their-backs'; עַל גַּבֵּיהֶן is idiomatic: on top of all of them",
+   "tokens": [
+    {
+     "id": "4:13.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.2",
+     "gloss": "Yehuda",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.3",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.4",
+     "gloss": "be",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.5",
+     "gloss": "careful",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.6",
+     "gloss": "in study",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.7",
+     "gloss": "for the error of",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.8",
+     "gloss": "study",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.9",
+     "gloss": "counts as",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.10",
+     "gloss": "deliberate sin",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.11",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.12",
+     "gloss": "Shimon",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.13",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.14",
+     "gloss": "three",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.15",
+     "gloss": "crowns",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.16",
+     "gloss": "they are",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.17",
+     "gloss": "crown of",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.18",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.19",
+     "gloss": "and the crown of",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.20",
+     "gloss": "priesthood",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.21",
+     "gloss": "and the crown of",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.22",
+     "gloss": "kingship",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.23",
+     "gloss": "and the crown of",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.24",
+     "gloss": "name",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.25",
+     "gloss": "good",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.26",
+     "gloss": "rises",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.27",
+     "gloss": "above",
+     "sense": "1"
+    },
+    {
+     "id": "4:13.28",
+     "gloss": "them",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:13.1",
+      "4:13.2",
+      "4:13.3"
+     ],
+     "english": "Rabbi Yehuda says:",
+     "literal": "'Rabbi Yehuda says'"
+    },
+    {
+     "tokens": [
+      "4:13.4",
+      "4:13.5",
+      "4:13.6"
+     ],
+     "english": "Be careful in study,",
+     "literal": "'be careful in-the-study'; the imperative הֱוֵי with an adjective"
+    },
+    {
+     "tokens": [
+      "4:13.7",
+      "4:13.8",
+      "4:13.9",
+      "4:13.10"
+     ],
+     "english": "for an error in study counts as deliberate sin.",
+     "literal": "'for-error-of study rises (as) deliberate-sin'; עוֹלָה is feminine, agreeing with שִׁגְגַת"
+    },
+    {
+     "tokens": [
+      "4:13.11",
+      "4:13.12",
+      "4:13.13"
+     ],
+     "english": "Rabbi Shimon says:",
+     "literal": "'Rabbi Shimon says'"
+    },
+    {
+     "tokens": [
+      "4:13.14",
+      "4:13.15",
+      "4:13.16"
+     ],
+     "english": "There are three crowns:",
+     "literal": "'three crowns they'; הֵם is the copula, as a pronoun after the predicate"
+    },
+    {
+     "tokens": [
+      "4:13.17",
+      "4:13.18"
+     ],
+     "english": "the crown of Torah,",
+     "literal": "'crown-of Torah'"
+    },
+    {
+     "tokens": [
+      "4:13.19",
+      "4:13.20"
+     ],
+     "english": "the crown of priesthood,",
+     "literal": "'and-crown-of priesthood'; the first item of the list needs no 'and' in English"
+    },
+    {
+     "tokens": [
+      "4:13.21",
+      "4:13.22"
+     ],
+     "english": "the crown of kingship;",
+     "literal": "'and-crown-of kingship'"
+    },
+    {
+     "tokens": [
+      "4:13.23",
+      "4:13.24",
+      "4:13.25"
+     ],
+     "english": "but the crown of a good name",
+     "literal": "'and-crown-of name good'; the vav is contrastive after the list"
+    },
+    {
+     "tokens": [
+      "4:13.26",
+      "4:13.27",
+      "4:13.28"
+     ],
+     "english": "rises above them.",
+     "literal": "'rises over their-backs'; עַל גַּבֵּיהֶן is idiomatic: on top of all of them"
+    }
+   ],
+   "grammar": [
+    "Two sayings joined in one mishnah: Rabbi Yehuda on care in study, Rabbi Shimon on the three crowns.",
+    "שִׁגְגַת תַּלְמוּד עוֹלָה זָדוֹן: a wordplay of opposites, שְׁגָגָה (inadvertent error) and זָדוֹן (deliberate sin). עוֹלָה is 'rises to the level of, counts as'.",
+    "עוֹלָה / עוֹלֶה: the same verb used twice, first for an error that 'rises' to deliberate sin, then for the good name that 'rises' above the crowns.",
+    "כֶּתֶר is in the construct state throughout: 'crown of Torah', 'crown of priesthood', 'crown of kingship', 'crown of a good name'.",
+    "גַּבֵּיהֶן has a feminine plural suffix, referring to the three crowns (כְּתָרִים is treated as feminine)."
+   ],
+   "note": "תַּלְמוּד is rendered 'study' (Bartenura: one's learning done with precision and according to halakha), not the later Talmud. The pack lexicon gives the Jastrow entry for תַּלְמוּד and for זָהִיר. For וְכֶתֶר שֵׁם טוֹב the vav is rendered 'but' because the good name is set against the three crowns above it.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:13:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'be careful in study' means that your study should be precise and in accord with halakha."
+    },
+    {
+     "anchor": "bartenura:4:13:2",
+     "relation": "follows",
+     "summary": "Bartenura: if you err in a ruling because you were not precise in your study and you permit what is forbidden, the Holy One, blessed be He, counts it against you as if you had acted deliberately."
+    },
+    {
+     "anchor": "bartenura:4:13:3",
+     "relation": "follows",
+     "summary": "Bartenura: the three crowns are those written in the Torah, for which the Torah obliges us to show honour."
+    },
+    {
+     "anchor": "bartenura:4:13:4",
+     "relation": "follows",
+     "summary": "Bartenura: of the crown of Torah it is written 'you shall honour the face of an elder' (Lev 19:32); this is one who has acquired wisdom."
+    },
+    {
+     "anchor": "bartenura:4:13:5",
+     "relation": "follows",
+     "summary": "Bartenura: of the crown of priesthood it is written 'you shall sanctify him, he shall be holy to you' (Lev 21:8)."
+    },
+    {
+     "anchor": "bartenura:4:13:6",
+     "relation": "follows",
+     "summary": "Bartenura: of the crown of kingship it is written 'you shall surely set a king over yourself' (Deut 17:15), so that his awe is upon you."
+    },
+    {
+     "anchor": "bartenura:4:13:7",
+     "relation": "follows",
+     "summary": "Bartenura: the one with good deeds and a good reputation has no crown in the Torah that obliges honour; but the good name rises above all three, since all three crowns need it. Without it a sage may be despised and a high priest not obeyed."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:13:1",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: one must review one's learning and not rely on a first impression; since error is common in Torah matters, one who does not take care is a negligent sinner rather than an inadvertent one."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:13:2",
+     "relation": "not-applicable",
+     "summary": "Rabbeinu Yonah: priesthood was given to the house of Aaron, kingship to the house of David, while the crown of Torah lies before all who come into the world."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:13:3",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: all the crowns need the crown of a good name, which itself depends on the crown of Torah; he cites 'a good name is better than good oil' (Eccl 7:1)."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads כהונה for כְּהֻנָּה (4:13.20); the sense is the same.",
+    "Lev 19:32; 21:8; Deut 17:15; Eccl 7:1 are cited by the commentators, not by the mishnah."
+   ]
+  },
+  {
+   "ref": "4:14",
+   "english": "Rabbi Nehorai says: Go into exile to a place of Torah, and do not say that it will come after you, - that your colleagues will establish it in your hand. And do not lean on your own understanding.",
+   "literal": "the source marker 'Proverbs 3', not part of the saying",
+   "tokens": [
+    {
+     "id": "4:14.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.2",
+     "gloss": "Nehorai",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.3",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.4",
+     "gloss": "be",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.5",
+     "gloss": "going into exile",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.6",
+     "gloss": "to the place of",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.7",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.8",
+     "gloss": "and do not",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.9",
+     "gloss": "say",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.10",
+     "gloss": "that it",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.11",
+     "gloss": "will come",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.12",
+     "gloss": "after you",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.13",
+     "gloss": "that your colleagues",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.14",
+     "gloss": "will establish it",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.15",
+     "gloss": "in your hand",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.16",
+     "gloss": "and on",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.17",
+     "gloss": "your understanding",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.18",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.19",
+     "gloss": "lean",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.20",
+     "gloss": "Proverbs",
+     "sense": "1"
+    },
+    {
+     "id": "4:14.21",
+     "gloss": "3",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:14.1",
+      "4:14.2",
+      "4:14.3"
+     ],
+     "english": "Rabbi Nehorai says:",
+     "literal": "'Rabbi Nehorai says'"
+    },
+    {
+     "tokens": [
+      "4:14.4",
+      "4:14.5",
+      "4:14.6",
+      "4:14.7"
+     ],
+     "english": "Go into exile to a place of Torah,",
+     "literal": "'be going-into-exile to-place-of Torah'; הֱוֵי with a participle: an ongoing, habitual state"
+    },
+    {
+     "tokens": [
+      "4:14.8",
+      "4:14.9",
+      "4:14.10",
+      "4:14.11",
+      "4:14.12"
+     ],
+     "english": "and do not say that it will come after you,",
+     "literal": "'and-not say that-she will-come after-you'; the Torah is feminine"
+    },
+    {
+     "tokens": [
+      "4:14.13",
+      "4:14.14",
+      "4:14.15"
+     ],
+     "english": "- that your colleagues will establish it in your hand.",
+     "literal": "'that-your-colleagues will-establish-her in-your-hand'; the שֶׁ clause stands in apposition to what one must not say or rely on"
+    },
+    {
+     "tokens": [
+      "4:14.16",
+      "4:14.17",
+      "4:14.18",
+      "4:14.19"
+     ],
+     "english": "And do not lean on your own understanding.",
+     "literal": "'and-on your-understanding not you-lean'; Prov 3:5, with the preposition before the object for emphasis"
+    },
+    {
+     "tokens": [
+      "4:14.20",
+      "4:14.21"
+     ],
+     "english": "-",
+     "literal": "the source marker 'Proverbs 3', not part of the saying"
+    }
+   ],
+   "grammar": [
+    "The verse quoted at the end, Prov 3:5, is cited in the mishnah by name: משלי ג.",
+    "גּוֹלֶה is a participle after הֱוֵי: 'be one who goes into exile'.",
+    "יְקַיְּמוּהָ is a Piel (here Aramaic-influenced קָם) with a 3rd masculine plural subject and a 3rd feminine singular suffix referring to the Torah.",
+    "אַל תֹּאמַר and אַל תִּשָּׁעֵן: negative commands use אַל with the jussive-form imperfect.",
+    "The Hebrew sets the two clauses by position: the move to a place of Torah is paired with the refusal to rely on colleagues, then on one's own insight."
+   ],
+   "note": "Bartenura and Rabbeinu Yonah agree that the clause שֶׁחֲבֵרֶיךָ יְקַיְּמוּהָ בְיָדֶךָ is what one must not rely on: colleagues who return from the teacher will not secure the Torah for you. The English keeps the bare שֶׁ ('that') as a dash-linked apposition so that the ambiguity of the particle (do not say, relying that / for ...) is not settled by an inserted word. In 4:14.16 the pack parses וְאֶל under the lemma אַל (adverb 'not') while the sense is the preposition 'on' (אֶל for עַל, as in Prov 3:5); the data is kept and the sense is noted here. The words משלי ג at the end are not translated into the saying itself.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:14:1",
+     "relation": "follows",
+     "summary": "Bartenura: go into exile 'if there are no disciples of the sages in your place'."
+    },
+    {
+     "anchor": "bartenura:4:14:2",
+     "relation": "follows",
+     "summary": "Bartenura: do not say that the disciples of the sages will come here."
+    },
+    {
+     "anchor": "bartenura:4:14:3",
+     "relation": "follows",
+     "summary": "Bartenura: do not rely on your colleagues, when they return from the master's house, to establish the Torah in your hand by teaching you; one who hears from a disciple is unlike one who hears from the master. He gives a second explanation, as to why Nehorai says this."
+    },
+    {
+     "anchor": "rambam:4:13:1",
+     "relation": "not-applicable",
+     "summary": "Rambam (anchored here on the אַל of 4:14.18 but filed at 4:13): his comment is on the three crowns of 4:13 and does not bear on this saying."
+    },
+    {
+     "anchor": "rambam:4:14:1",
+     "relation": "follows",
+     "summary": "Rambam: seek a place of reading and study, for study endures only with others; do not lean on your own understanding and say you need no colleagues and pupils to rouse you."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:14:1",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: live in a place with much Torah and many sages."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:14:2",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: do not rely on colleagues who have gone to study to come and teach you; you yourself must go into exile with them and pursue the Torah."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:14:3",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: even when you have studied and gone into exile to a place of Torah and become wise, do not rely on yourself."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:14:4",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: do not rely on your own reasoning, but do every act on the counsel of the sages."
+    }
+   ],
+   "apparatus": [
+    "The last clause quotes Prov 3:5: 'Do not lean on your own understanding'.",
+    "Vilna reads תבוא, שחביריך and יקיימוה (4:14.11, 13, 14), spelling variants only; Vilna omits משלי ג (4:14.20-21)."
+   ]
+  },
+  {
+   "ref": "4:15",
+   "english": "Rabbi Yannai says: It is not in our hands: not the tranquility of the wicked, nor yet the suffering of the righteous. Rabbi Matya son of Harash says: Be first to greet every person, and be a tail to lions, and do not be a head to foxes.",
+   "literal": "'and-not be head to-foxes'",
+   "tokens": [
+    {
+     "id": "4:15.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.2",
+     "gloss": "Yannai",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.3",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.4",
+     "gloss": "there is not",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.5",
+     "gloss": "in our hands",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.6",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.7",
+     "gloss": "of the tranquility of",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.8",
+     "gloss": "the wicked",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.9",
+     "gloss": "and also",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.10",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.11",
+     "gloss": "of the sufferings of",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.12",
+     "gloss": "the righteous",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.13",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.14",
+     "gloss": "Matya",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.15",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.16",
+     "gloss": "Harash",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.17",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.18",
+     "gloss": "be",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.19",
+     "gloss": "one who greets first",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.20",
+     "gloss": "in greeting",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.21",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.22",
+     "gloss": "person",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.23",
+     "gloss": "and be",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.24",
+     "gloss": "tail",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.25",
+     "gloss": "to lions",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.26",
+     "gloss": "and do not",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.27",
+     "gloss": "be",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.28",
+     "gloss": "head",
+     "sense": "1"
+    },
+    {
+     "id": "4:15.29",
+     "gloss": "to foxes",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:15.1",
+      "4:15.2",
+      "4:15.3"
+     ],
+     "english": "Rabbi Yannai says:",
+     "literal": "'Rabbi Yannai says'"
+    },
+    {
+     "tokens": [
+      "4:15.4",
+      "4:15.5"
+     ],
+     "english": "It is not in our hands:",
+     "literal": "'there-is-not in-our-hands'; אֵין בְּיָדֵינוּ means it lies beyond our power or grasp"
+    },
+    {
+     "tokens": [
+      "4:15.6",
+      "4:15.7",
+      "4:15.8"
+     ],
+     "english": "not the tranquility of the wicked,",
+     "literal": "'not from-tranquility-of the-wicked'; the מִ is partitive-causal: 'from the matter of'"
+    },
+    {
+     "tokens": [
+      "4:15.9",
+      "4:15.10",
+      "4:15.11",
+      "4:15.12"
+     ],
+     "english": "nor yet the suffering of the righteous.",
+     "literal": "'and-also not from-sufferings-of the-righteous'"
+    },
+    {
+     "tokens": [
+      "4:15.13",
+      "4:15.14",
+      "4:15.15",
+      "4:15.16",
+      "4:15.17"
+     ],
+     "english": "Rabbi Matya son of Harash says:",
+     "literal": "'Rabbi Matya son-of Harash says'"
+    },
+    {
+     "tokens": [
+      "4:15.18",
+      "4:15.19",
+      "4:15.20",
+      "4:15.21",
+      "4:15.22"
+     ],
+     "english": "Be first to greet every person,",
+     "literal": "'be preceding in-greeting-of every person'; מַקְדִּים is a Hiphil participle: 'one who goes first'"
+    },
+    {
+     "tokens": [
+      "4:15.23",
+      "4:15.24",
+      "4:15.25"
+     ],
+     "english": "and be a tail to lions,",
+     "literal": "'and-be tail to-lions'"
+    },
+    {
+     "tokens": [
+      "4:15.26",
+      "4:15.27",
+      "4:15.28",
+      "4:15.29"
+     ],
+     "english": "and do not be a head to foxes.",
+     "literal": "'and-not be head to-foxes'"
+    }
+   ],
+   "grammar": [
+    "Two sayings: Rabbi Yannai on the unanswerable question of the wicked and the righteous; Rabbi Matya on greeting and on where to stand.",
+    "אֵין בְּיָדֵינוּ לֹא מִ... וְאַף לֹא מִ...: 'it is not in our hands, neither from ... nor even from ...'. The מִ governs each object: neither the tranquility nor the suffering is within our grasp.",
+    "מַקְדִּים בִּשְׁלוֹם: a Hiphil participle after הֱוֵי: 'be one who is first in greeting'.",
+    "וֶהֱוֵי with the vav pointed with segol before the guttural-initial imperative; it is the same imperative as הֱוֵי.",
+    "זָנָב לָאֲרָיוֹת and רֹאשׁ לַשּׁוּעָלִים form a chiastic pair of opposites: tail/head, lions/foxes; לְ marks the group one is tail or head of."
+   ],
+   "note": "אֵין בְּיָדֵינוּ is kept in its literal, ambiguous form. Bartenura and Rabbeinu Yonah take it as 'we cannot grasp (why the wicked prosper and the righteous suffer)'; Bartenura's second reading, 'in exile we have neither the ease of the wicked nor the sufferings of the righteous', is recorded in the commentary entry and not adopted. In 4:15.23 וֶהֱוֵי follows the same lemma as הֱוֵי. The lexicon (BDB) lists רֹאשׁ with the proper name sense as first entry; 'head' is meant.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:15:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'like לֹא הֲוָה בְיָדֵיהּ': the matter is not known to us, why the way of the wicked prospers and why the righteous are afflicted. A second explanation: in exile we have neither the ease God usually gives the wicked to drive them from the world to come, nor the sufferings reserved for the righteous."
+    },
+    {
+     "anchor": "bartenura:4:15:2",
+     "relation": "follows",
+     "summary": "Bartenura: greet first 'even a non-Jew in the market'."
+    },
+    {
+     "anchor": "bartenura:4:15:3",
+     "relation": "follows",
+     "summary": "Bartenura: a tail to lions means to those greater than you."
+    },
+    {
+     "anchor": "bartenura:4:15:4",
+     "relation": "follows",
+     "summary": "Bartenura: the head of foxes means of those smaller than you."
+    },
+    {
+     "anchor": "rambam:4:15:1",
+     "relation": "follows",
+     "summary": "Rambam: it is better and more fitting to be a student of a greater sage than a teacher of a lesser one, for the first adds and the second diminishes; he compares the rule that one raises but does not lower in holy matters."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:15:1",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: the righteous do not have the quiet, security and wealth that the wicked have."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:15:2",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: the sufferings of love that the righteous have, which do not stop them from learning Torah."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:15:3",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: although the wicked fare well and the righteous badly, we cannot grasp the reason (Jer 12:1: 'Why does the way of the wicked prosper?')."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:15:4",
+     "relation": "not-applicable",
+     "summary": "Rabbeinu Yonah: greeting everyone is a matter of musar, moral conduct."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:15:5",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: serve disciples of the sages and cling to their company."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:15:6",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: it is better to be a disciple of one wiser than oneself, adding daily, than a teacher of one less wise, who diminishes."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:15:7",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah, another explanation: do not be head and ruler over the wicked, citing Prov 13:20: 'he who walks with the wise becomes wise'."
+    }
+   ],
+   "apparatus": [
+    "Jer 12:1 and Prov 13:20 are cited by Rabbeinu Yonah, not by the mishnah. אֵין בְּיָדֵינוּ is compared by Bartenura to Yevamot 105a."
+   ]
+  },
+  {
+   "ref": "4:16",
+   "english": "Rabbi Yaakov says: This world is like a vestibule before the world to come. Prepare yourself in the vestibule, so that you may enter the great hall.",
+   "literal": "'so-that you-will-enter to-the-hall'; כְּדֵי שֶׁ introduces purpose",
+   "tokens": [
+    {
+     "id": "4:16.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.2",
+     "gloss": "Yaakov",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.3",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.4",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.5",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.6",
+     "gloss": "is like",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.7",
+     "gloss": "to a vestibule"
+    },
+    {
+     "id": "4:16.8",
+     "gloss": "before",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.9",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.10",
+     "gloss": "to come",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.11",
+     "gloss": "prepare",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.12",
+     "gloss": "yourself",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.13",
+     "gloss": "in the vestibule"
+    },
+    {
+     "id": "4:16.14",
+     "gloss": "so that",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.15",
+     "gloss": "you will enter",
+     "sense": "1"
+    },
+    {
+     "id": "4:16.16",
+     "gloss": "to the hall",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:16.1",
+      "4:16.2",
+      "4:16.3"
+     ],
+     "english": "Rabbi Yaakov says:",
+     "literal": "'Rabbi Yaakov says'"
+    },
+    {
+     "tokens": [
+      "4:16.4",
+      "4:16.5",
+      "4:16.6",
+      "4:16.7"
+     ],
+     "english": "This world is like a vestibule",
+     "literal": "'the-world the-this is-like to-vestibule'; the simile is introduced by דּוֹמֶה לְ"
+    },
+    {
+     "tokens": [
+      "4:16.8",
+      "4:16.9",
+      "4:16.10"
+     ],
+     "english": "before the world to come.",
+     "literal": "'before the-world the-coming'; בִּפְנֵי is 'in front of, before' (in space)"
+    },
+    {
+     "tokens": [
+      "4:16.11",
+      "4:16.12",
+      "4:16.13"
+     ],
+     "english": "Prepare yourself in the vestibule,",
+     "literal": "'prepare yourself in-the-vestibule'; הַתְקֵן is a Hiphil imperative"
+    },
+    {
+     "tokens": [
+      "4:16.14",
+      "4:16.15",
+      "4:16.16"
+     ],
+     "english": "so that you may enter the great hall.",
+     "literal": "'so-that you-will-enter to-the-hall'; כְּדֵי שֶׁ introduces purpose"
+    }
+   ],
+   "grammar": [
+    "The saying is a simile (דּוֹמֶה לְ) followed by an imperative drawing the practical consequence.",
+    "בִּפְנֵי הָעוֹלָם הַבָּא: 'before the world to come', in front of it as an entrance hall is in front of the hall.",
+    "הַתְקֵן is a Hiphil imperative of תקן: 'make ready, put in order'; the object is the reflexive עַצְמְךָ.",
+    "פְּרוֹזְדוֹר and טְרַקְלִין are loanwords from Greek (prozdor, triklinion); the first is the entrance room, the second the inner hall.",
+    "הָעוֹלָם הַבָּא is the standard term for the world to come; הַבָּא is a participle used as an adjective."
+   ],
+   "note": "פְּרוֹזְדוֹר has no lexicon key in the pack; it is 'vestibule', Bartenura's 'gatehouse, porch (Targum: אוּלָם)'. טְרַקְלִין is 'the great hall', Bartenura 'the king's seat', Rambam 'the temple or palace hall'; the pack's Jastrow entry is a cross-reference only. The grammatical term for the particle כְּדֵי is a preposition with דַּי 'enough'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:16:1",
+     "relation": "follows",
+     "summary": "Bartenura: פְּרוֹזְדוֹר means a gatehouse, rendered in Targum as אוּלָם (porch)."
+    },
+    {
+     "anchor": "bartenura:4:16:2",
+     "relation": "follows",
+     "summary": "Bartenura: טְרַקְלִין is the place where the king sits; so prepare yourself in this world to merit the world to come."
+    },
+    {
+     "anchor": "rambam:4:16:1",
+     "relation": "follows",
+     "summary": "Rambam: טְרַקְלִין is the palace hall and פְּרוֹזְדוֹר the gatehouse; in this world one acquires the virtues that bring merit in the next, for this world is a road and a passage to the next."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:16:1",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: טְרַקְלִין is the palace; this world exists only to earn the world to come."
+    }
+   ],
+   "apparatus": [
+    "Rabbeinu Yonah's text of the saying lacks the name; the pack matches it on the sentence."
+   ]
+  },
+  {
+   "ref": "4:17",
+   "english": "He used to say: Better is one hour of repentance and good deeds in this world than all the life of the world to come. And better is one hour of spiritual contentment in the world to come than all the life of this world.",
+   "literal": "'than-all life-of the-world the-this'",
+   "tokens": [
+    {
+     "id": "4:17.1",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.2",
+     "gloss": "was",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.3",
+     "gloss": "saying",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.4",
+     "gloss": "better",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.5",
+     "gloss": "hour",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.6",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.7",
+     "gloss": "in repentance",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.8",
+     "gloss": "and deeds",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.9",
+     "gloss": "good",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.10",
+     "gloss": "in the world",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.11",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.12",
+     "gloss": "than all",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.13",
+     "gloss": "life of",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.14",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.15",
+     "gloss": "to come",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.16",
+     "gloss": "and better",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.17",
+     "gloss": "hour",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.18",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.19",
+     "gloss": "of",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.20",
+     "gloss": "coolness of",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.21",
+     "gloss": "spirit",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.22",
+     "gloss": "in the world",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.23",
+     "gloss": "to come",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.24",
+     "gloss": "than all",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.25",
+     "gloss": "life of",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.26",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "4:17.27",
+     "gloss": "this",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:17.1",
+      "4:17.2",
+      "4:17.3"
+     ],
+     "english": "He used to say:",
+     "literal": "'he was saying'; the decisions fix 'He used to say' for הוּא הָיָה אוֹמֵר"
+    },
+    {
+     "tokens": [
+      "4:17.4",
+      "4:17.5",
+      "4:17.6",
+      "4:17.7"
+     ],
+     "english": "Better is one hour of repentance",
+     "literal": "'better hour one in-repentance'; יָפָה is used for 'better, worth more'"
+    },
+    {
+     "tokens": [
+      "4:17.8",
+      "4:17.9",
+      "4:17.10",
+      "4:17.11"
+     ],
+     "english": "and good deeds in this world",
+     "literal": "'and-deeds good in-the-world the-this'"
+    },
+    {
+     "tokens": [
+      "4:17.12",
+      "4:17.13",
+      "4:17.14",
+      "4:17.15"
+     ],
+     "english": "than all the life of the world to come.",
+     "literal": "'than-all life-of the-world the-coming'; חַיֵּי is the construct plural of חַיִּים"
+    },
+    {
+     "tokens": [
+      "4:17.16",
+      "4:17.17",
+      "4:17.18"
+     ],
+     "english": "And better is one hour",
+     "literal": "'and-better hour one'"
+    },
+    {
+     "tokens": [
+      "4:17.19",
+      "4:17.20",
+      "4:17.21"
+     ],
+     "english": "of spiritual contentment",
+     "literal": "'of coolness-of spirit'; קוֹרַת רוּחַ is an idiom for ease and satisfaction of mind"
+    },
+    {
+     "tokens": [
+      "4:17.22",
+      "4:17.23"
+     ],
+     "english": "in the world to come",
+     "literal": "'in-the-world the-coming'"
+    },
+    {
+     "tokens": [
+      "4:17.24",
+      "4:17.25",
+      "4:17.26",
+      "4:17.27"
+     ],
+     "english": "than all the life of this world.",
+     "literal": "'than-all life-of the-world the-this'"
+    }
+   ],
+   "grammar": [
+    "The saying has two balanced halves, each pairing one hour in one world against all the life of the other.",
+    "הוּא הָיָה אוֹמֵר: 'He used to say', a habitual past formed with הָיָה plus a participle.",
+    "יָפָה שָׁעָה is a predicate adjective before its subject: 'better is an hour'.",
+    "קוֹרַת רוּחַ: the idiom means contentment; literally 'coolness of spirit' (Jastrow's קוֹרָה II) rather than 'beam of spirit'.",
+    "מִכָּל after יָפָה is the comparative מִ: 'than all'."
+   ],
+   "note": "The pack's lexicon links קוֹרָה to BDB 'rafter, beam', which does not fit; Jastrow's קוֹרָה II 'cold, cooling' (קוֹרַת רוּחַ) is the sense used, and the data is kept. 'Spiritual contentment' renders the idiom; the literal sense is in the phrase note. The subject of הוּא is Rabbi Yaakov of 4:16 per the plain sequence.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:17:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'for the sake of repentance and good deeds'."
+    },
+    {
+     "anchor": "rambam:4:18:1",
+     "relation": "not-applicable",
+     "summary": "Rambam (anchored on הַזֶּה of 4:17.11 but filed at 4:18): this is clear; these are moral teachings on the proper ordering of human society, putting each thing in its useful place."
+    },
+    {
+     "anchor": "bartenura:4:17:2",
+     "relation": "follows",
+     "summary": "Bartenura: repentance and good deeds give no benefit in the world to come, which exists only to receive reward for what one did in this world."
+    },
+    {
+     "anchor": "rambam:4:17:1",
+     "relation": "follows",
+     "summary": "Rambam: as explained in Sanhedrin chapter 10, after death there is neither perfection nor increase; a person perfects himself and adds merit in this world, as Solomon hints (Eccl 9:10), so one must strive in this short time."
+    }
+   ],
+   "apparatus": [
+    "Eccl 9:10 is cited by Rambam, not by the mishnah."
+   ]
+  },
+  {
+   "ref": "4:18",
+   "english": "Rabbi Shimon son of Elazar says: Do not appease your fellow at the time of his anger, and do not comfort him at the time when his dead lies before him, and do not ask on his behalf at the time of his vow, and do not strive to see him at the time of his disgrace.",
+   "literal": "'at-time-of his-disgrace'; קַלְקָלָה is ruin, a fall into degradation",
+   "tokens": [
+    {
+     "id": "4:18.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.2",
+     "gloss": "Shimon",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.3",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.4",
+     "gloss": "Elazar",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.5",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.6",
+     "gloss": "do not",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.7",
+     "gloss": "appease",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.8",
+     "gloss": "[object marker]",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.9",
+     "gloss": "your fellow",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.10",
+     "gloss": "at the time of",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.11",
+     "gloss": "his anger",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.12",
+     "gloss": "and do not",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.13",
+     "gloss": "comfort him",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.14",
+     "gloss": "at the time",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.15",
+     "gloss": "that his dead",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.16",
+     "gloss": "laid out",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.17",
+     "gloss": "before him",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.18",
+     "gloss": "and do not",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.19",
+     "gloss": "ask",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.20",
+     "gloss": "for him"
+    },
+    {
+     "id": "4:18.21",
+     "gloss": "at the time of",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.22",
+     "gloss": "his vow",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.23",
+     "gloss": "and do not",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.24",
+     "gloss": "strive",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.25",
+     "gloss": "to see him",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.26",
+     "gloss": "at the time of",
+     "sense": "1"
+    },
+    {
+     "id": "4:18.27",
+     "gloss": "his disgrace",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:18.1",
+      "4:18.2",
+      "4:18.3",
+      "4:18.4",
+      "4:18.5"
+     ],
+     "english": "Rabbi Shimon son of Elazar says:",
+     "literal": "'Rabbi Shimon son-of Elazar says'"
+    },
+    {
+     "tokens": [
+      "4:18.6",
+      "4:18.7"
+     ],
+     "english": "Do not appease",
+     "literal": "'not you-appease'; the Piel of רצה: to try to win over, reconcile"
+    },
+    {
+     "tokens": [
+      "4:18.8"
+     ],
+     "english": "-",
+     "literal": "the object marker אֶת, with no English counterpart"
+    },
+    {
+     "tokens": [
+      "4:18.9",
+      "4:18.10",
+      "4:18.11"
+     ],
+     "english": "your fellow at the time of his anger,",
+     "literal": "'your-fellow at-time-of his-anger'; בִשְׁעַת is 'in the hour of'"
+    },
+    {
+     "tokens": [
+      "4:18.12",
+      "4:18.13"
+     ],
+     "english": "and do not comfort him",
+     "literal": "'and-not you-comfort-him'; תְּנַחֲמֶנּוּ has the energic nun with the suffix"
+    },
+    {
+     "tokens": [
+      "4:18.14",
+      "4:18.15",
+      "4:18.16",
+      "4:18.17"
+     ],
+     "english": "at the time when his dead lies before him,",
+     "literal": "'at-hour that-his-dead laid before-him'; מֻטָּל is a Pual participle: laid out, lying"
+    },
+    {
+     "tokens": [
+      "4:18.18",
+      "4:18.19",
+      "4:18.20",
+      "4:18.21",
+      "4:18.22"
+     ],
+     "english": "and do not ask on his behalf at the time of his vow,",
+     "literal": "'and-not you-ask for-him at-time-of his-vow'; לוֹ is 'on his behalf, to his advantage'"
+    },
+    {
+     "tokens": [
+      "4:18.23",
+      "4:18.24",
+      "4:18.25"
+     ],
+     "english": "and do not strive to see him",
+     "literal": "'and-not you-strive to-see-him'; Hithpael of שׁדל"
+    },
+    {
+     "tokens": [
+      "4:18.26",
+      "4:18.27"
+     ],
+     "english": "at the time of his disgrace.",
+     "literal": "'at-time-of his-disgrace'; קַלְקָלָה is ruin, a fall into degradation"
+    }
+   ],
+   "grammar": [
+    "Four prohibitions, each with the same shape: אַל + verb + the person + בִשְׁעַת (at the time of) + his state.",
+    "אַל תְּרַצֶּה אֶת חֲבֵרְךָ: the Piel of רצה governs the direct object marked by אֶת.",
+    "תְּנַחֲמֶנּוּ has the energic nun (-ֶנּוּ) before the 3rd masculine suffix, a feature of the Mishnah's style after אַל.",
+    "מֵתוֹ מֻטָּל לְפָנָיו: the dead is 'laid out before him' - the period between death and burial.",
+    "תִּשְׁאַל לוֹ בִשְׁעַת נִדְרוֹ: 'ask for him' - the commentators read it as inquiring about grounds for annulment (a petach) of a vow.",
+    "The repeated בִשְׁעַת / בְּשָׁעָה gives the saying its rhythm: the right time matters as much as the act."
+   ],
+   "note": "שָׁעָה is 'hour, moment' (time), rendered 'at the time of'. For תִּשְׁאַל לוֹ the plain 'ask him' would be לוֹ with a different sense; Bartenura and Rabbeinu Yonah both take it as asking on his behalf, seeking openings to release his vow, and the English follows them. The pack parses שָׁדַל as a Hithpael; 'strive' is the Mishnaic sense of 'seek to persuade, make an effort'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:18:1",
+     "relation": "follows",
+     "summary": "Bartenura: as it is written 'My face shall go and I will give you rest' (Ex 33:14): the Holy One told Moses to wait until the face of wrath passed (Berakhot 7a)."
+    },
+    {
+     "anchor": "bartenura:4:18:2",
+     "relation": "follows",
+     "summary": "Bartenura: at the destruction God, so to speak, was mourning, and the ministering angels sought to comfort Him, but the holy spirit answered 'do not press to comfort me' (Isa 22:4)."
+    },
+    {
+     "anchor": "bartenura:4:18:3",
+     "relation": "follows",
+     "summary": "Bartenura: do not seek openings to release his vow, because he will reply to each opening that he vowed with that in mind, and you will not find one; he cites God's oath to Moses."
+    },
+    {
+     "anchor": "bartenura:4:18:4",
+     "relation": "follows",
+     "summary": "Bartenura: 'at the time of his disgrace' means when he has fallen into sin; he is ashamed before everyone, as with Adam, to whom God did not appear until they made loincloths (Gen 3)."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:18:1",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: you will lead him to say unseemly words, for you add anger to his anger."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:18:2",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: in the hour of grief consolation adds anger and he says bad words."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:18:3",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: do not ask him for openings to release, as he is angry and vowing and will state every question to be bound into the vow so that no release can be found; you cause him harm."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:18:4",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: do not see and shame him in the hour of his misfortune or sin, when he is already ashamed of himself."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads חבירך and מוטל (4:18.9, 4:18.16), spelling variants only.",
+    "Ex 33:14; Isa 22:4; Gen 3:7 are cited by Bartenura, not by the mishnah."
+   ]
+  }
+ ]
+}

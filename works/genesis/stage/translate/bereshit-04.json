@@ -1,0 +1,654 @@
+{
+ "unit": "bereshit-04",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "1:20",
+   "english": "And God said, \"Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the sky.\"",
+   "literal": "and-said God swarm-(they) the-waters swarm-of creature living and-bird fly-about above the-earth above face-of expanse-of the-heavens",
+   "tokens": [
+    {
+     "id": "1:20.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative past"
+    },
+    {
+     "id": "1:20.2",
+     "gloss": "God",
+     "sense": "2.d",
+     "note": "plural form, singular verb, when it names the God of Israel"
+    },
+    {
+     "id": "1:20.3",
+     "gloss": "let swarm",
+     "note": "jussive sense of the yiqtol; the verb is transitive here (Ibn Ezra)"
+    },
+    {
+     "id": "1:20.4",
+     "gloss": "the waters"
+    },
+    {
+     "id": "1:20.5",
+     "gloss": "swarm of / swarms of",
+     "note": "construct state, cognate with the verb"
+    },
+    {
+     "id": "1:20.6",
+     "gloss": "creature of",
+     "sense": "1",
+     "note": "construct-like phrase with the next word: a breathing being"
+    },
+    {
+     "id": "1:20.7",
+     "gloss": "living",
+     "sense": "1.c"
+    },
+    {
+     "id": "1:20.8",
+     "gloss": "and bird",
+     "sense": "1",
+     "note": "collective singular"
+    },
+    {
+     "id": "1:20.9",
+     "gloss": "let fly about",
+     "sense": "Pō‛l 1",
+     "note": "polel of the root עוף: flying to and fro; jussive sense"
+    },
+    {
+     "id": "1:20.10",
+     "gloss": "above",
+     "sense": "II.5"
+    },
+    {
+     "id": "1:20.11",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "1:20.12",
+     "gloss": "across",
+     "sense": "II.5"
+    },
+    {
+     "id": "1:20.13",
+     "gloss": "the face of",
+     "sense": "I.5",
+     "note": "idiom: surface"
+    },
+    {
+     "id": "1:20.14",
+     "gloss": "the expanse of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "1:20.15",
+     "gloss": "the sky",
+     "sense": "1.a",
+     "note": "plural form; always plural in Hebrew"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:20.1",
+      "1:20.2"
+     ],
+     "english": "And God said",
+     "literal": "'and-said God'"
+    },
+    {
+     "tokens": [
+      "1:20.3",
+      "1:20.4"
+     ],
+     "english": "Let the waters swarm",
+     "literal": "'swarm the-waters'; Ibn Ezra: the verb takes an object"
+    },
+    {
+     "tokens": [
+      "1:20.5",
+      "1:20.6",
+      "1:20.7"
+     ],
+     "english": "with swarms of living creatures",
+     "literal": "'swarm-of creature living'; swarm-noun in apposition, Rashi: a living thing that is low to the ground"
+    },
+    {
+     "tokens": [
+      "1:20.8",
+      "1:20.9"
+     ],
+     "english": "and let birds fly",
+     "literal": "'and-bird fly-about'; collective singular"
+    },
+    {
+     "tokens": [
+      "1:20.10",
+      "1:20.11"
+     ],
+     "english": "above the earth",
+     "literal": "'above the-earth'"
+    },
+    {
+     "tokens": [
+      "1:20.12",
+      "1:20.13",
+      "1:20.14",
+      "1:20.15"
+     ],
+     "english": "across the expanse of the sky",
+     "literal": "'above face-of expanse-of the-heavens'; Ibn Ezra, citing the Gaon: the birds fly in the open air below the expanse"
+    }
+   ],
+   "grammar": [
+    "יִשְׁרְצוּ is a yiqtol with jussive force: 'let the waters swarm'. It is transitive, with שֶׁרֶץ as its object.",
+    "שֶׁרֶץ is in the construct state before נֶפֶשׁ חַיָּה: 'swarmers of living creatures'.",
+    "וְעוֹף is a collective singular, and יְעוֹפֵף is a polel (intensive, repeated motion): 'fly about'.",
+    "The etnaḥta on חַיָּה divides the verse: the waters' part, then the birds' part.",
+    "עַל־הָאָרֶץ and עַל־פְּנֵי רְקִיעַ הַשָּׁמָיִם are two parallel locations of the birds; the expanse of 1:6-8 is the setting."
+   ],
+   "note": "Ibn Ezra reads יִשְׁרְצוּ as transitive (as in Exodus 7:28) and says the sense is 'bring forth offspring', so the English gives the waters a cognate object. 'living creatures' renders נֶפֶשׁ חַיָּה following Rashi (a being with life in it). For על פני רקיע the Gaon, cited by Ibn Ezra, takes the birds to fly in the air below the expanse; the English 'across the expanse of the sky' keeps the Hebrew's preposition without deciding this.",
+   "commentary": [
+    {
+     "anchor": "rashi:1:20:1",
+     "relation": "follows",
+     "summary": "Rashi: נֶפֶשׁ חַיָּה means 'that there be life in it' (שֶׁיְּהֵא בָהּ חַיּוּת)."
+    },
+    {
+     "anchor": "rashi:1:20:2",
+     "relation": "follows",
+     "summary": "Rashi: anything alive that is not tall off the ground is called שֶׁרֶץ: flies among birds, ants and worms among the vermin, mole and mouse among beasts, and all fish."
+    },
+    {
+     "anchor": "ibn-ezra:1:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יִשְׁרְצוּ is transitive, like 'the Nile shall swarm with frogs' (Exodus 7:28); the sense is 'offspring with height'. The birds fly 'across the face of the expanse'; the Gaon takes פני with the following noun, so the face of the heavens is below, and יְעוֹפֵף is of the form of 'until he establish' (Isaiah 62:7)."
+    }
+   ],
+   "apparatus": [
+    "The Gaon (cited by Ibn Ezra): עַל־פְּנֵי is 'on the face of', so the birds fly below the expanse; the plain preposition is kept in the English."
+   ]
+  },
+  {
+   "ref": "1:21",
+   "english": "And God created the great sea creatures and every living creature that moves, with which the waters swarmed, according to their kinds, and every winged bird according to its kind. And God saw that it was good.",
+   "literal": "and-created God [object-marker] the-sea-monsters the-great and [object-marker] every-of creature-of the-living the-moving which swarmed the-waters to-kinds-their and [object-marker] every-of bird-of wing to-kind-its and-saw God that good",
+   "tokens": [
+    {
+     "id": "1:21.1",
+     "gloss": "and created",
+     "sense": "Qal",
+     "note": "wayyiqtol; the verb בָּרָא has God alone as subject"
+    },
+    {
+     "id": "1:21.2",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "1:21.3",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "1:21.4",
+     "gloss": "the sea creatures",
+     "note": "Rashi: great fish of the sea; the aggadah makes them Leviathan and his mate"
+    },
+    {
+     "id": "1:21.5",
+     "gloss": "the great",
+     "sense": "10",
+     "note": "adjective in agreement, with the article"
+    },
+    {
+     "id": "1:21.6",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "1:21.7",
+     "gloss": "every",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "1:21.8",
+     "gloss": "creature of",
+     "sense": "1"
+    },
+    {
+     "id": "1:21.9",
+     "gloss": "the living",
+     "sense": "1.c"
+    },
+    {
+     "id": "1:21.10",
+     "gloss": "the moving",
+     "note": "feminine participle, agreeing with נֶפֶשׁ; Ibn Ezra: 'the going'"
+    },
+    {
+     "id": "1:21.11",
+     "gloss": "which"
+    },
+    {
+     "id": "1:21.12",
+     "gloss": "swarmed",
+     "note": "perfect, relative clause"
+    },
+    {
+     "id": "1:21.13",
+     "gloss": "the waters"
+    },
+    {
+     "id": "1:21.14",
+     "gloss": "according to their kinds",
+     "note": "ל + מִין + suffix: 'to their kind'"
+    },
+    {
+     "id": "1:21.15",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "1:21.16",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "1:21.17",
+     "gloss": "bird of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "1:21.18",
+     "gloss": "wing"
+    },
+    {
+     "id": "1:21.19",
+     "gloss": "according to its kind",
+     "note": "singular suffix, collective"
+    },
+    {
+     "id": "1:21.20",
+     "gloss": "and saw",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "1:21.21",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "1:21.22",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "1:21.23",
+     "gloss": "good",
+     "sense": "3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:21.1",
+      "1:21.2",
+      "1:21.3"
+     ],
+     "english": "And God created",
+     "literal": "'and-created God [object marker]'"
+    },
+    {
+     "tokens": [
+      "1:21.4",
+      "1:21.5"
+     ],
+     "english": "the great sea creatures",
+     "literal": "'the-sea-monsters the-great'; Rashi: great fish of the sea"
+    },
+    {
+     "tokens": [
+      "1:21.6",
+      "1:21.7",
+      "1:21.8",
+      "1:21.9"
+     ],
+     "english": "and every living creature",
+     "literal": "'and-[marker] every-of creature-of the-living'"
+    },
+    {
+     "tokens": [
+      "1:21.10"
+     ],
+     "english": "that moves",
+     "literal": "'the-moving' (feminine participle)"
+    },
+    {
+     "tokens": [
+      "1:21.11",
+      "1:21.12",
+      "1:21.13"
+     ],
+     "english": "with which the waters swarmed",
+     "literal": "'which swarmed the-waters'; the waters are the subject, the creatures what they swarmed with"
+    },
+    {
+     "tokens": [
+      "1:21.14"
+     ],
+     "english": "according to their kinds",
+     "literal": "'to-kinds-their'"
+    },
+    {
+     "tokens": [
+      "1:21.15",
+      "1:21.16",
+      "1:21.17",
+      "1:21.18"
+     ],
+     "english": "and every winged bird",
+     "literal": "'and-[marker] every-of bird-of wing'"
+    },
+    {
+     "tokens": [
+      "1:21.19"
+     ],
+     "english": "according to its kind",
+     "literal": "'to-kind-its'"
+    },
+    {
+     "tokens": [
+      "1:21.20",
+      "1:21.21"
+     ],
+     "english": "And God saw",
+     "literal": "'and-saw God'"
+    },
+    {
+     "tokens": [
+      "1:21.22",
+      "1:21.23"
+     ],
+     "english": "that it was good",
+     "literal": "'that good'"
+    }
+   ],
+   "grammar": [
+    "The verse opens with בָּרָא, used only of God. The great sea creatures are named first, then all living things, then birds.",
+    "הָרֹמֶשֶׂת is a feminine singular participle agreeing with נֶפֶשׁ; Ibn Ezra glosses it as 'the going'.",
+    "אֲשֶׁר שָׁרְצוּ הַמַּיִם is a relative clause with no resumptive word: 'which the waters swarmed (with)'.",
+    "לְמִינֵהֶם (plural suffix) and לְמִינֵהוּ (singular suffix) divide creatures by kind; the birds are a single collective.",
+    "The accent geresh and qadma mark the relative clause as a unit; the etnaḥta falls after הַגְּדֹלִים."
+   ],
+   "note": "תַּנִּינִם is rendered 'sea creatures' following Rashi (great fish of the sea); 'sea monsters' would also fit the lexicon, and Rashi's aggadic Leviathan is recorded in the commentary. The suffix on לְמִינֵהֶם is plural, matching the many swimming creatures, and on לְמִינֵהוּ singular, matching the collective bird.",
+   "commentary": [
+    {
+     "anchor": "rashi:1:21:1",
+     "relation": "follows",
+     "summary": "Rashi: הַתַּנִּינִם are the great fish of the sea; in aggadah they are Leviathan and his mate, created male and female, after which the female was killed and salted for the righteous in the future, since if they bred the world could not stand before them."
+    },
+    {
+     "anchor": "rashi:1:21:2",
+     "relation": "follows",
+     "summary": "Rashi: נֶפֶשׁ הַחַיָּה means 'that has life in it'."
+    },
+    {
+     "anchor": "ibn-ezra:1:21:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הָרֹמֶשֶׂת has the sense of הוֹלֶכֶת, 'going'; some say the shin stands in place of a samekh."
+    }
+   ],
+   "apparatus": [
+    "Some (cited by Ibn Ezra) take the shin of הָרֹמֶשֶׂת to be a samekh, as in the verb 'to creep'; the English 'moves' fits either."
+   ]
+  },
+  {
+   "ref": "1:22",
+   "english": "And God blessed them, saying, \"Be fruitful and multiply and fill the waters in the seas, and let the birds multiply on the land.\"",
+   "literal": "and-blessed [object-marker]-them God to-say be-fruitful and-multiply and-fill [object-marker] the-waters in-the-seas and-the-bird multiply in-the-earth",
+   "tokens": [
+    {
+     "id": "1:22.1",
+     "gloss": "and blessed",
+     "sense": "Pi 2",
+     "note": "piel wayyiqtol"
+    },
+    {
+     "id": "1:22.2",
+     "gloss": "them",
+     "note": "object marker with a plural suffix"
+    },
+    {
+     "id": "1:22.3",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "1:22.4",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "infinitive construct with ל, introducing speech"
+    },
+    {
+     "id": "1:22.5",
+     "gloss": "be fruitful",
+     "sense": "Hiph 3",
+     "note": "imperative; the root is used in the Qal"
+    },
+    {
+     "id": "1:22.6",
+     "gloss": "and multiply",
+     "sense": "Qal 1",
+     "note": "imperative"
+    },
+    {
+     "id": "1:22.7",
+     "gloss": "and fill",
+     "sense": "Qal 2",
+     "note": "imperative"
+    },
+    {
+     "id": "1:22.8",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "1:22.9",
+     "gloss": "the waters"
+    },
+    {
+     "id": "1:22.10",
+     "gloss": "in the seas"
+    },
+    {
+     "id": "1:22.11",
+     "gloss": "and the bird",
+     "sense": "1",
+     "note": "collective singular"
+    },
+    {
+     "id": "1:22.12",
+     "gloss": "let multiply",
+     "sense": "Qal 1",
+     "note": "jussive, shortened form"
+    },
+    {
+     "id": "1:22.13",
+     "gloss": "on the land",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:22.1",
+      "1:22.2",
+      "1:22.3"
+     ],
+     "english": "And God blessed them",
+     "literal": "'and-blessed them God'"
+    },
+    {
+     "tokens": [
+      "1:22.4"
+     ],
+     "english": "saying",
+     "literal": "'to-say'"
+    },
+    {
+     "tokens": [
+      "1:22.5"
+     ],
+     "english": "Be fruitful",
+     "literal": "'be-fruitful'; Rashi: make fruit"
+    },
+    {
+     "tokens": [
+      "1:22.6"
+     ],
+     "english": "and multiply",
+     "literal": "'and-multiply'; Rashi: one begets many"
+    },
+    {
+     "tokens": [
+      "1:22.7",
+      "1:22.8",
+      "1:22.9"
+     ],
+     "english": "and fill the waters",
+     "literal": "'and-fill [marker] the-waters'"
+    },
+    {
+     "tokens": [
+      "1:22.10"
+     ],
+     "english": "in the seas",
+     "literal": "'in-the-seas'"
+    },
+    {
+     "tokens": [
+      "1:22.11",
+      "1:22.12"
+     ],
+     "english": "and let the birds multiply",
+     "literal": "'and-the-bird multiply'; jussive, third person"
+    },
+    {
+     "tokens": [
+      "1:22.13"
+     ],
+     "english": "on the land",
+     "literal": "'in-the-earth'"
+    }
+   ],
+   "grammar": [
+    "Three plural imperatives, פְּרוּ וּרְבוּ וּמִלְאוּ, address the sea creatures; the birds are addressed in the third person with the jussive יִרֶב.",
+    "פְּרוּ is from פָּרָה and רְבוּ from רָבָה; the pair is a standard blessing formula.",
+    "The first blessing in Genesis is given to living creatures; the same words are spoken to humans in 1:28.",
+    "The etnaḥta on לֵאמֹר sets off the speech; the zaqef on בַּיַּמִּים divides the sea's part from the birds' part."
+   ],
+   "note": "Rashi reads the blessing as a response to the creatures' vulnerability (they are hunted and eaten), which the English does not need. Ibn Ezra takes the imperatives as promises ('you will be fruitful'), not commands, since this is not in their power; the English keeps the imperative and records his reading. The lexicon lists פָּרָה only in the Hiphil; the pack's parse is Qal, and the data are kept.",
+   "commentary": [
+    {
+     "anchor": "rashi:1:22:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: because creatures of the sea are diminished, caught and eaten, they needed a blessing; the land animals needed one too, but the serpent, destined for a curse, was left out so that it would not be included."
+    },
+    {
+     "anchor": "rashi:1:22:2",
+     "relation": "follows",
+     "summary": "Rashi: פְּרוּ means 'make fruit', from פְּרִי."
+    },
+    {
+     "anchor": "rashi:1:22:3",
+     "relation": "follows",
+     "summary": "Rashi: if the text said only 'be fruitful' one would beget one and no more; 'multiply' means one begets many."
+    },
+    {
+     "anchor": "ibn-ezra:1:22:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: the sense of פְּרוּ וּרְבוּ is 'you will be fruitful, you will multiply', as in 'and die on the mountain' (Deuteronomy 32:50), because this is not in their power."
+    }
+   ],
+   "apparatus": [
+    "Ibn Ezra: the imperatives are promises, not commands."
+   ]
+  },
+  {
+   "ref": "1:23",
+   "english": "And there was evening and there was morning, a fifth day.",
+   "literal": "and-was evening and-was morning day fifth",
+   "tokens": [
+    {
+     "id": "1:23.1",
+     "gloss": "and was",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol of הָיָה"
+    },
+    {
+     "id": "1:23.2",
+     "gloss": "evening",
+     "sense": "1.a"
+    },
+    {
+     "id": "1:23.3",
+     "gloss": "and was",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol of הָיָה"
+    },
+    {
+     "id": "1:23.4",
+     "gloss": "morning",
+     "sense": "1"
+    },
+    {
+     "id": "1:23.5",
+     "gloss": "day",
+     "sense": "1"
+    },
+    {
+     "id": "1:23.6",
+     "gloss": "fifth",
+     "note": "ordinal; no article, as for days two to five"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:23.1",
+      "1:23.2"
+     ],
+     "english": "And there was evening",
+     "literal": "'and-was evening'"
+    },
+    {
+     "tokens": [
+      "1:23.3",
+      "1:23.4"
+     ],
+     "english": "and there was morning",
+     "literal": "'and-was morning'"
+    },
+    {
+     "tokens": [
+      "1:23.5",
+      "1:23.6"
+     ],
+     "english": "a fifth day",
+     "literal": "'day fifth'"
+    }
+   ],
+   "grammar": [
+    "The formula is the same as for the earlier days; the sequence evening, then morning, makes each day begin at evening.",
+    "יוֹם חֲמִישִׁי has no article: 'a fifth day', as for the second to the fifth days.",
+    "The ordinal חֲמִישִׁי is formed from the number five."
+   ],
+   "note": "The phrase is rendered 'a fifth day' to keep the lack of the article.",
+   "commentary": [],
+   "apparatus": []
+  }
+ ]
+}
