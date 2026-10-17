@@ -1,0 +1,27 @@
+{
+  "slug": "avot",
+  "title": "Pirkei Avot",
+  "he": "פִּרְקֵי אָבוֹת",
+  "kind": "mishnah",
+  "refName": "Pirkei Avot",
+  "chapters": 6,
+  "segment": "mishnah",
+  "unitMax": 6,
+  "text": {"sefaria": "Pirkei_Avot", "version": "Torat Emet 357", "name": "Torat Emet"},
+  "witnesses": [
+    {"sefaria": "Pirkei_Avot", "version": "Mishnah, ed. Romm, Vilna 1913", "name": "Vilna"}
+  ],
+  "commentators": [
+    {"key": "bartenura", "name": "Bartenura", "he": "ברטנורא", "sefaria": "Bartenura_on_Pirkei_Avot", "version": "ToratEmet", "normative": true},
+    {"key": "rambam", "name": "Rambam", "he": "רמב״ם", "sefaria": "Rambam_on_Pirkei_Avot", "version": "Vilna Edition", "normative": true},
+    {"key": "rabbeinu-yonah", "name": "Rabbeinu Yonah", "he": "רבינו יונה", "sefaria": "Rabbeinu_Yonah_on_Pirkei_Avot", "version": "Pirkei Avot, Berlin, 1848"}
+  ],
+  "sections": [
+    {"slug": "perek-1", "name": "Chapter 1", "he": "פֶּרֶק א", "from": "1:1", "to": "1:99"},
+    {"slug": "perek-2", "name": "Chapter 2", "he": "פֶּרֶק ב", "from": "2:1", "to": "2:99"},
+    {"slug": "perek-3", "name": "Chapter 3", "he": "פֶּרֶק ג", "from": "3:1", "to": "3:99"},
+    {"slug": "perek-4", "name": "Chapter 4", "he": "פֶּרֶק ד", "from": "4:1", "to": "4:99"},
+    {"slug": "perek-5", "name": "Chapter 5", "he": "פֶּרֶק ה", "from": "5:1", "to": "5:99"},
+    {"slug": "perek-6", "name": "Chapter 6 (Qinyan Torah)", "he": "פֶּרֶק ו", "from": "6:1", "to": "6:99"}
+  ]
+}

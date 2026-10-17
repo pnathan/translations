@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Translations</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=Noto+Serif+Hebrew:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f7f4ee;--card:#fffdf9;--fg:#1d1b17;--muted:#6b645a;--line:#e3dccf;--accent:#8a4b16}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141311;--card:#1c1a17;--fg:#ece6dc;--muted:#a39a8c;--line:#34302a;--accent:#e2a565}}
+:root[data-theme="dark"]{--bg:#141311;--card:#1c1a17;--fg:#ece6dc;--muted:#a39a8c;--line:#34302a;--accent:#e2a565}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Inter,system-ui,sans-serif}
+.wrap{max-width:900px;margin:0 auto;padding:40px 16px}
+h1{font:600 40px/1.1 "Cormorant Garamond",serif;margin:0 0 8px}
+p.lede{color:var(--muted);max-width:62ch}
+.works{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:28px}
+a.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;text-decoration:none;color:inherit}
+a.card:hover{border-color:var(--accent)}
+.sigil{font:600 34px/1 "Noto Serif Hebrew",serif;color:var(--accent);direction:rtl}
+.card h2{font:600 24px/1.2 "Cormorant Garamond",serif;margin:10px 0 2px}
+.lang{font-size:13px;color:var(--muted)}
+.desc{font-size:14px;margin:10px 0}
+.stats{font-size:12px;color:var(--muted)}
+footer{color:var(--muted);font-size:13px;margin-top:40px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>Translations</h1>
+<p class="lede">Jewish sacred literature translated from the Hebrew by a repeatable pipeline. Every word carries its morphology, lemma, root and range of senses; the classical commentators are anchored to the words they explain.</p>
+<div class="works">
+<a class="card" href="genesis/">
+<div class="sigil" lang="he">בְּרֵאשִׁית</div>
+<h2>Bereshit, Noach, Lekh Lekha</h2>
+<div class="lang">Biblical Hebrew → English · Genesis 1:1–17:27</div>
+<p class="desc">The first three parashot, with OSHB morphology, BDB senses, and Rashi and Ibn Ezra as normative interpreters; Ramban, Radak and Sforno alongside.</p>
+<div class="stats">425 verses · 5,478 words · 5 commentators</div>
+</a>
+<a class="card" href="avot/">
+<div class="sigil" lang="he">אָבוֹת</div>
+<h2>Pirkei Avot</h2>
+<div class="lang">Mishnaic Hebrew → English · chapters 1–6</div>
+<p class="desc">The sayings of the fathers, collated against the Vilna edition, with Bartenura and Rambam as normative interpreters and Rabbeinu Yonah alongside.</p>
+<div class="stats">108 mishnayot · 4,706 words · 3 commentators</div>
+</a>
+</div>
+<footer>Source texts from Sefaria and the Open Scriptures Hebrew Bible. Pages reproducing the MAM text are CC BY-SA 4.0.</footer>
+</div>
+<script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</body>
+</html>

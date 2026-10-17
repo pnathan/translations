@@ -1,0 +1,191 @@
+[
+  {
+    "name": "commentary/bartenura/01.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Bartenura_on_Pirkei_Avot.1?version=hebrew%7CToratEmet\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "8480076b7bbbea1505359f4ea1d5abf73f21dee8e505e44887c99d775a59aaf0",
+    "bytes": 42142
+  },
+  {
+    "name": "commentary/bartenura/02.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Bartenura_on_Pirkei_Avot.2?version=hebrew%7CToratEmet\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "57534cb3b2c0e2a63bded8baba4c934b4888ebc5ccd5b8cf1e2050e4267a74df",
+    "bytes": 38304
+  },
+  {
+    "name": "commentary/bartenura/03.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Bartenura_on_Pirkei_Avot.3?version=hebrew%7CToratEmet\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "a9f254818b7776882705907e6094bfbfc5a364e765a79f9e15fc041953186e8c",
+    "bytes": 36286
+  },
+  {
+    "name": "commentary/bartenura/04.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Bartenura_on_Pirkei_Avot.4?version=hebrew%7CToratEmet\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "c1c09c5a36c660d08974fba2f9b99df4eae41f3c2a650648bba5645be94ac06e",
+    "bytes": 39786
+  },
+  {
+    "name": "commentary/bartenura/05.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Bartenura_on_Pirkei_Avot.5?version=hebrew%7CToratEmet\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "fcbeddd0616e7b090825a0b392c5f970823b71133e96e73c562f800b59379316",
+    "bytes": 52686
+  },
+  {
+    "name": "commentary/rabbeinu-yonah/01.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rabbeinu_Yonah_on_Pirkei_Avot.1?version=hebrew%7CPirkei+Avot%2C+Berlin%2C+1848\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "5d76e6cb0375c7ba50d1904847b0cdd269b0a6b19d8ab91777acd886cec14ccf",
+    "bytes": 56871
+  },
+  {
+    "name": "commentary/rabbeinu-yonah/02.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rabbeinu_Yonah_on_Pirkei_Avot.2?version=hebrew%7CPirkei+Avot%2C+Berlin%2C+1848\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "23c928498bf3e86d9809f28cda26fc2aed02062b649db6c00b4d7de3ce7cf07d",
+    "bytes": 65552
+  },
+  {
+    "name": "commentary/rabbeinu-yonah/03.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rabbeinu_Yonah_on_Pirkei_Avot.3?version=hebrew%7CPirkei+Avot%2C+Berlin%2C+1848\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "6fbeec30e51600f7f5b468cbb5453aac585c39947e90625a5602199ec1113153",
+    "bytes": 53485
+  },
+  {
+    "name": "commentary/rabbeinu-yonah/04.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rabbeinu_Yonah_on_Pirkei_Avot.4?version=hebrew%7CPirkei+Avot%2C+Berlin%2C+1848\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "c4847cba3f76e778921e7cbba145e54448336197fc808e31fd390742d1fa68e4",
+    "bytes": 66875
+  },
+  {
+    "name": "commentary/rabbeinu-yonah/05.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rabbeinu_Yonah_on_Pirkei_Avot.5?version=hebrew%7CPirkei+Avot%2C+Berlin%2C+1848\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "41a21d7bb02c3bce55d0b6c32e6e5421e8a80a8577d997c60c6344ba71a82a2b",
+    "bytes": 44412
+  },
+  {
+    "name": "commentary/rambam/01.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rambam_on_Pirkei_Avot.1?version=hebrew%7CVilna+Edition\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "9dbf7a696e20b5a2f41651b55198f2f3ded0eaa2b87b7a51b367d11dfed86b8a",
+    "bytes": 32497
+  },
+  {
+    "name": "commentary/rambam/02.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rambam_on_Pirkei_Avot.2?version=hebrew%7CVilna+Edition\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "06d2fa96a566d3bd75e9454a52674f8635a287d3ab7bebba47722ce1c562c2f0",
+    "bytes": 19642
+  },
+  {
+    "name": "commentary/rambam/03.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rambam_on_Pirkei_Avot.3?version=hebrew%7CVilna+Edition\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "db623ae6da2743815864a62fc23c9cc6449a0c5f7b5f128b5356bbe00a50809b",
+    "bytes": 15502
+  },
+  {
+    "name": "commentary/rambam/04.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rambam_on_Pirkei_Avot.4?version=hebrew%7CVilna+Edition\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "2ad737183fc529152151b89e47b07ece642092828e1801929e42693633b13c62",
+    "bytes": 33743
+  },
+  {
+    "name": "commentary/rambam/05.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rambam_on_Pirkei_Avot.5?version=hebrew%7CVilna+Edition\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "77e08ab3b9d08312fde5a9244784d45a7cac2d0240b28e2bce06fe8c44560d6f",
+    "bytes": 32499
+  },
+  {
+    "name": "text/01.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.1?version=hebrew%7CTorat+Emet+357\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "fd61fe6440056602b62211d2daf6e315c5dd29e5f3433539ba0128bb3359cf57",
+    "bytes": 21109
+  },
+  {
+    "name": "text/02.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.2?version=hebrew%7CTorat+Emet+357\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "cf46109ed212dd1ddb3a4cb15d121a23d2f3d16d47133fb81680f97fe4334c2d",
+    "bytes": 24165
+  },
+  {
+    "name": "text/03.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.3?version=hebrew%7CTorat+Emet+357\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "1a403e97b6ae638424e16f36ade97191cdf868ce984b4ec4cb39a291b0e36c76",
+    "bytes": 27008
+  },
+  {
+    "name": "text/04.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.4?version=hebrew%7CTorat+Emet+357\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "c28fad3da6f31d87b7229dd14c9a556732d13d5ab29d57c6926714b1f1c442dd",
+    "bytes": 25484
+  },
+  {
+    "name": "text/05.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.5?version=hebrew%7CTorat+Emet+357\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "f83e6096d62a9d0464ed67c26cc8afbc761088ba4e7ad1d0d4a5c467a91bf8b5",
+    "bytes": 30118
+  },
+  {
+    "name": "text/06.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.6?version=hebrew%7CTorat+Emet+357\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "d304b3f76f21e3583710b772f4fdbfe85b0c35c02514ff3914ec51287058f54d",
+    "bytes": 30166
+  },
+  {
+    "name": "witness/vilna/01.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.1?version=hebrew%7CMishnah%2C+ed.+Romm%2C+Vilna+1913\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "bd1fa082fab5debdc3ef09ad7d05904934e6de8d0e07a4b2b6daf3c320ba9144",
+    "bytes": 18483
+  },
+  {
+    "name": "witness/vilna/02.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.2?version=hebrew%7CMishnah%2C+ed.+Romm%2C+Vilna+1913\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "da07894f264848772bdec1b219f80d4f86a6141ddc2291ef54da0717b2fb2c8b",
+    "bytes": 19600
+  },
+  {
+    "name": "witness/vilna/03.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.3?version=hebrew%7CMishnah%2C+ed.+Romm%2C+Vilna+1913\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "adc11718f754dc6f5744174a8025eddcf6807ecec4079087e5ebc9bbdae88883",
+    "bytes": 21799
+  },
+  {
+    "name": "witness/vilna/04.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.4?version=hebrew%7CMishnah%2C+ed.+Romm%2C+Vilna+1913\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "315e402b9783e154dc8cdecf448de4f981a1fabb219bf949f3c1c319712d3677",
+    "bytes": 21154
+  },
+  {
+    "name": "witness/vilna/05.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.5?version=hebrew%7CMishnah%2C+ed.+Romm%2C+Vilna+1913\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "62cb4663aa04b1326e9b23605bf1c22fa92466e49ef337dcbc0a453e0f3cf4bf",
+    "bytes": 24073
+  },
+  {
+    "name": "witness/vilna/06.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Pirkei_Avot.6?version=hebrew%7CMishnah%2C+ed.+Romm%2C+Vilna+1913\u0026return_format=default",
+    "fetched": "2026-10-17",
+    "sha256": "47c597c2a5dd794b42e1913216a913f723ed377d83931bccd48f170f38fa56b2",
+    "bytes": 22958
+  }
+]
