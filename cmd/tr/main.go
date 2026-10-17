@@ -5,6 +5,7 @@
 //	tr check  WORK [UNIT…]    validate model outputs (morph, translation, review)
 //	tr apply  WORK            merge reviews into the final edition
 //	tr render WORK            write the Markdown edition and the HTML pages
+//	tr report WORK            review counts and open questions (review.md)
 //	tr status WORK            the stage of every unit
 //	tr show   WORK REF…       print the tokens of segments
 //
@@ -50,6 +51,8 @@ func main() {
 		err = apply(cfg)
 	case "render":
 		err = renderWork(cfg)
+	case "report":
+		err = reviewReport(cfg)
 	case "status":
 		err = status(cfg)
 	case "show":

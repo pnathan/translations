@@ -38,7 +38,9 @@ BDB       lexicon
 5. `tr apply WORK` merges the reviews into `stage/final/`.
 6. `tr render WORK` writes `works/WORK/edition.md` and `docs/WORK/`.
 
-`tr status WORK` lists the stage of every unit; `tr show WORK REF…` prints
+`tr report WORK` writes `works/WORK/review.md`: patch counts per unit and
+every open question the review put to the editor. `tr status WORK` lists
+the stage of every unit; `tr show WORK REF…` prints
 the tokens of a segment. Build with `go build -o bin/tr ./cmd/tr` and run
 from the repository root. Go standard library only.
 
@@ -53,6 +55,25 @@ from the repository root. Go standard library only.
   ketiv and qere, and Torat Emet against Vilna are recorded per token.
 - No Unicode normalization of stored Hebrew (NFC reorders Hebrew marks).
   Matching uses consonant skeletons.
+
+## Models
+
+Model test on Genesis 1:1–5, both versions reviewed by Opus under one brief:
+Haiku drew 40 error patches (223k tokens, 6 min), Sonnet at low effort 19
+(145k tokens, 2 min). Sonnet translates; Opus reviews; Haiku tagged the
+Avot morphology. The Haiku translations are kept in `stage/alt/haiku/`.
+
+## Known limitations
+
+- BDB senses without a `<def>` element in the OpenScriptures XML are not
+  extracted, so some entries lack senses (מֵאָה "hundred" lists only
+  "hundredth"). Reviewers removed such senses and said so in the token
+  note. Re-extraction would renumber `#k` paths; it waits for a new run.
+- Avot: a model lemma is attached to the first Sefaria candidate entry,
+  which is sometimes the wrong homograph; the review repoints `lex` where
+  the pack lists the right one.
+- Agents share one scratch directory unless told otherwise; prompts now
+  give each agent its own.
 
 ## Licences
 
