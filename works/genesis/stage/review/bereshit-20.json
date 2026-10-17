@@ -1,0 +1,97 @@
+{
+  "unit": "bereshit-20",
+  "model": "opus",
+  "summary": "The English of all seven verses is accurate: the genealogical figures, verb forms and the naming of Noah are rendered correctly, and 5:29 follows Rashi and Ibn Ezra in reading יְנַחֲמֵנוּ as relief or rest. The faults are in the apparatus: the Ibn Ezra summary misreads his Hebrew, the 5:29 note misstates both the text and its own gloss, and two learner notes are wrong (שְׁתַּיִם as 'construct-like', מֵאֹת as lacking a vowel, with a misreading of the pashta). The Noah gloss omits the meaning required by the decisions, and the Sforno ruling is inconsistent with the Radak ruling on the same reading.",
+  "patches": [
+    {
+      "ref": "5:26",
+      "path": "token:5:26.7.note",
+      "value": "feminine of שְׁנַיִם (dual in form, absolute state), agreeing with the feminine שָׁנָה; the construct would be שְׁתֵּי",
+      "severity": "error",
+      "reason": "The pack parses שְׁתַּיִם as absolute; it is not 'construct-like' (the construct is שְׁתֵּי)."
+    },
+    {
+      "ref": "5:27",
+      "path": "token:5:27.11.note",
+      "value": "wayyiqtol of the hollow root מות, in the short form; וַיָּמֹת is the pausal form under silluq (out of pause וַיָּמָת)",
+      "severity": "style",
+      "reason": "The learner should know the ḥolem is the pausal vowel; the context form is וַיָּמָת."
+    },
+    {
+      "ref": "5:29",
+      "path": "token:5:29.4.gloss",
+      "value": "Noah ('rest')",
+      "severity": "error",
+      "reason": "decisions.md: the meaning of a name the text explains (נֹחַ 5:29) goes in the gloss; the gloss gave the bare name."
+    },
+    {
+      "ref": "5:29",
+      "path": "note",
+      "value": "The saying explains the name; the pun is only approximate. The English 'bring us relief' follows Rashi (יָנַח מִמֶּנּוּ, 'he will ease from us') and Ibn Ezra ('this one will comfort us, and we will rest from the toil of our hands'; נֶחָמָה is rest from grief), who both read the word through נוח; the usual Piel sense 'comfort' (BDB) is kept in the literal line and the grammar notes. The meaning of the name is kept out of the English line.",
+      "severity": "error",
+      "reason": "The note inverted the relation (the saying explains the name), misstated Ibn Ezra (rest from grief of heart, not from toil), and claimed 'comfort' is kept in the gloss, which reads 'he will bring relief to us'."
+    },
+    {
+      "ref": "5:29",
+      "path": "commentary:rashi:5:29:1.summary",
+      "value": "Rashi: זֶה יְנַחֲמֵנוּ means יָנַח מִמֶּנּוּ אֶת עִצְּבוֹן יָדֵינוּ, 'he will ease from us the toil of our hands'. Before Noah they had no ploughing tools and he made them; the ground, under the first Adam's curse, put out thorns and thistles when wheat was sown, and in Noah's days it rested. Read otherwise, the sense does not fit the name, and he would have had to be called מְנַחֵם.",
+      "severity": "style",
+      "reason": "The summary left out the point of the comment: Noah supplied the plough and in his days the curse on the ground rested."
+    },
+    {
+      "ref": "5:29",
+      "path": "commentary:ibn-ezra:5:29:1.summary",
+      "value": "Ibn Ezra: Lamech knew through Adam, being a prophet, or saw by wisdom, that through this child the ground would revive; and so it was, for through him the world endured, and he was a man of the ground. Or he was named Noah afterwards, as Jerubbaal was, once he had worked the ground and it prospered. The sense is 'this one will comfort us, and we will rest (וְנָנוּחַ) from the toil of our hands'; comfort is rest from grief of heart (עִצְּבוֹן הַלֵּב), for Hebrew keeps the sense and not the exact word, as יְרֻבַּעַל and יְרֻבֶּשֶׁת show.",
+      "severity": "error",
+      "reason": "The old summary made וננוח 'he will give us rest' (it is 'and we will rest'), rendered עצבון הלב as 'toil of the heart' (it is grief), and omitted both of Ibn Ezra's accounts of how the name was given."
+    },
+    {
+      "ref": "5:29",
+      "path": "commentary:sforno:5:29:1",
+      "value": {
+        "relation": "records",
+        "summary": "Sforno: Lamech prayed that this child would comfort them by bringing them rest from their work, for the name נֹחַ means rest, as in וְנוֹחַ מֵאֹיְבֵיהֶם (Esther 9:16). The English takes the sense of rest but not the reading as a prayer; it is kept as a real alternative, as with Radak."
+      },
+      "severity": "question",
+      "reason": "Sforno reads the words as a prayer, the same reading the translator marked 'records' for Radak (5:29:6); the English is a statement, so 'follows' is inconsistent. Proposed: records."
+    },
+    {
+      "ref": "5:29",
+      "path": "apparatus",
+      "value": [
+        "Onkelos renders the verb with 'comfort' (יְנַחֲמִנָּנָא), מִמַּעֲשֵׂנוּ with מֵעוֹבָדָנָא 'from our work', and עִצְּבוֹן יָדֵינוּ with מִלֵּאוּת יְדָנָא 'from the weariness of our hands'."
+      ],
+      "severity": "error",
+      "reason": "מֵעוֹבָדָנָא means 'from our work', not 'from our toil'; the toil of the hands is מִלֵּאוּת יְדָנָא, 'weariness of our hands'."
+    },
+    {
+      "ref": "5:30",
+      "path": "grammar",
+      "value": [
+        "The structure is the same as verse 26, with Noah in place of Lamech.",
+        "חָמֵשׁ is the feminine form of 'five' with שָׁנָה; מֵאֹת is the plural of מֵאָה spelled defectively, without the vav (elsewhere מֵאוֹת); the vowel is the same ḥolem.",
+        "The munaḥ on הוֹלִידוֹ joins it to אֶת־נֹחַ, and the zaqef qaton on נֹחַ closes the temporal clause before the number of years.",
+        "The revia on לֶמֶךְ marks the subject before the temporal clause."
+      ],
+      "severity": "error",
+      "reason": "מֵאֹת and מֵאוֹת differ only in spelling (defective ḥolem), not by a missing long vowel; and the pashta on אַחֲרֵי is disjunctive, so it does not bind the clause into one unit: the munaḥ and the zaqef do that."
+    }
+  ],
+  "verdicts": [
+    {
+      "anchor": "rashi:5:28:1",
+      "verdict": "not-applicable",
+      "comment": "A homily on בֵּן (the world was built through him); it does not bear on the English."
+    },
+    {
+      "anchor": "rashi:5:29:1",
+      "verdict": "consistent",
+      "comment": "'bring us relief' carries Rashi's יָנַח מִמֶּנּוּ."
+    },
+    {
+      "anchor": "ibn-ezra:5:29:1",
+      "verdict": "consistent",
+      "comment": "Ibn Ezra takes the comfort as rest from toil; the future English fits both his accounts of the naming."
+    }
+  ]
+}

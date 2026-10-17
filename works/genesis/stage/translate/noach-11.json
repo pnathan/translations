@@ -1,0 +1,1176 @@
+{
+ "unit": "noach-11",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "9:16",
+   "english": "The bow will be in the cloud, and I will see it, to remember the everlasting covenant between God and every living being, among all flesh that is on the earth.",
+   "literal": "and-will-be the-bow in-the-cloud and-I-will-see-it to-remember covenant-of everlasting between God and-between all-of being living in-all-of flesh that on the-earth",
+   "tokens": [
+    {
+     "id": "9:16.1",
+     "gloss": "and it will be",
+     "sense": "Qal III",
+     "note": "weqatal: continues the future of the preceding verses; feminine to agree with הַקֶּשֶׁת"
+    },
+    {
+     "id": "9:16.2",
+     "gloss": "the bow",
+     "sense": "2",
+     "note": "the rainbow, here a bow set in the cloud"
+    },
+    {
+     "id": "9:16.3",
+     "gloss": "in the cloud",
+     "sense": "1"
+    },
+    {
+     "id": "9:16.4",
+     "gloss": "and I will see it",
+     "sense": "Qal 1.a",
+     "note": "weqatal with a 3rd feminine singular suffix; the speaker is God, so the first person is God's own"
+    },
+    {
+     "id": "9:16.5",
+     "gloss": "to remember",
+     "sense": "Qal I.1",
+     "note": "infinitive construct with ל expressing purpose"
+    },
+    {
+     "id": "9:16.6",
+     "gloss": "covenant of",
+     "sense": "II.2",
+     "note": "construct state"
+    },
+    {
+     "id": "9:16.7",
+     "gloss": "everlasting",
+     "note": "עוֹלָם in the genitive sense: 'a covenant of long duration', hence 'everlasting'"
+    },
+    {
+     "id": "9:16.8",
+     "gloss": "between",
+     "sense": "1"
+    },
+    {
+     "id": "9:16.9",
+     "gloss": "God",
+     "sense": "3",
+     "note": "named in the third person although God is speaking; see note"
+    },
+    {
+     "id": "9:16.10",
+     "gloss": "and between",
+     "sense": "1",
+     "note": "the second בֵּין of the pair 'between ... and between ...'"
+    },
+    {
+     "id": "9:16.11",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "9:16.12",
+     "gloss": "being",
+     "sense": "1",
+     "note": "נֶפֶשׁ חַיָּה: a living creature, a breathing being"
+    },
+    {
+     "id": "9:16.13",
+     "gloss": "living",
+     "sense": "1.c"
+    },
+    {
+     "id": "9:16.14",
+     "gloss": "among all",
+     "sense": "1"
+    },
+    {
+     "id": "9:16.15",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "9:16.16",
+     "gloss": "that"
+    },
+    {
+     "id": "9:16.17",
+     "gloss": "on",
+     "sense": "II.1.c"
+    },
+    {
+     "id": "9:16.18",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:16.1",
+      "9:16.2",
+      "9:16.3"
+     ],
+     "english": "The bow will be in the cloud",
+     "literal": "'and-will-be the-bow in-the-cloud'"
+    },
+    {
+     "tokens": [
+      "9:16.4",
+      "9:16.5"
+     ],
+     "english": "and I will see it, to remember",
+     "literal": "'and-I-will-see-it to-remember': purpose clause"
+    },
+    {
+     "tokens": [
+      "9:16.6",
+      "9:16.7"
+     ],
+     "english": "the everlasting covenant",
+     "literal": "'covenant-of everlasting'"
+    },
+    {
+     "tokens": [
+      "9:16.8",
+      "9:16.9"
+     ],
+     "english": "between God",
+     "literal": "'between God': God speaks of himself in the third person"
+    },
+    {
+     "tokens": [
+      "9:16.10",
+      "9:16.11",
+      "9:16.12",
+      "9:16.13"
+     ],
+     "english": "and every living being",
+     "literal": "'and-between all-of being living'; the repeated 'between' is carried by the earlier phrase"
+    },
+    {
+     "tokens": [
+      "9:16.14",
+      "9:16.15",
+      "9:16.16",
+      "9:16.17",
+      "9:16.18"
+     ],
+     "english": "among all flesh that is on the earth",
+     "literal": "'in-all-of flesh that on the-earth'"
+    }
+   ],
+   "grammar": [
+    "וְהָיְתָה and וּרְאִיתִיהָ are weqatal forms that carry on the future promise.",
+    "בֵּין ... וּבֵין is the usual 'between ... and' pattern: the preposition is repeated before each member.",
+    "אֱלֹהִים stands where the first person is expected (compare 9:17 בֵּינִי); Rashi and Radak take this as meaningful.",
+    "The etnaḥta on בֶּעָנָן and the zaqef on עוֹלָם and אֱלֹהִים divide the verse into the bow, the seeing, and the covenant partners."
+   ],
+   "note": "The English keeps 'God' in the third person, as the Hebrew does. Rashi's midrash (the attribute of justice above) is recorded, not adopted. Ibn Ezra's reading (the bow is always in the cloud, unseen by people, seen by God) agrees with the English 'will be in the cloud ... I will see it'. 'Living being' renders נֶפֶשׁ חַיָּה.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:16:1",
+     "relation": "records",
+     "summary": "Rashi: 'between' God's attribute of justice above and you; the text should say 'between me and', so the verse teaches that when the attribute of justice comes to accuse, God sees the sign and remembers. The English keeps the plain third person 'God'."
+    },
+    {
+     "anchor": "ibn-ezra:9:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'the bow will be in the cloud, which is for ever' means it is there in secret, and God sees it; the English says only that the bow will be in the cloud and God will see it."
+    },
+    {
+     "anchor": "radak:9:16:3",
+     "relation": "records",
+     "summary": "Radak: 'between God' is as if he said 'between me', as elsewhere (Exodus 24:1)."
+    },
+    {
+     "anchor": "onkelos:9:16:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos renders 'between the Memra of the LORD', avoiding the direct statement; it does not alter the sense of the Hebrew."
+    }
+   ],
+   "apparatus": [
+    "9:16.1 וְהָיְתָה: feminine verb with the feminine noun קֶשֶׁת; no variant in the pack."
+   ]
+  },
+  {
+   "ref": "9:17",
+   "english": "God said to Noah, \"This is the sign of the covenant that I have established between me and all flesh that is on the earth.\"",
+   "literal": "and-said God to Noah this sign-of the-covenant that I-established between-me and-between all-of flesh that on the-earth",
+   "tokens": [
+    {
+     "id": "9:17.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, narrative"
+    },
+    {
+     "id": "9:17.2",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "9:17.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "9:17.4",
+     "gloss": "Noah"
+    },
+    {
+     "id": "9:17.5",
+     "gloss": "this"
+    },
+    {
+     "id": "9:17.6",
+     "gloss": "sign of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "9:17.7",
+     "gloss": "the covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "9:17.8",
+     "gloss": "that"
+    },
+    {
+     "id": "9:17.9",
+     "gloss": "I have established",
+     "sense": "Hiph 2.a",
+     "note": "Hiphil of קום, 'set up, establish'; root קום, a hollow verb"
+    },
+    {
+     "id": "9:17.10",
+     "gloss": "between me",
+     "sense": "1",
+     "note": "בֵּין with 1st person singular suffix"
+    },
+    {
+     "id": "9:17.11",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "9:17.12",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "9:17.13",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "9:17.14",
+     "gloss": "that"
+    },
+    {
+     "id": "9:17.15",
+     "gloss": "on",
+     "sense": "II.1.c"
+    },
+    {
+     "id": "9:17.16",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:17.1",
+      "9:17.2",
+      "9:17.3",
+      "9:17.4"
+     ],
+     "english": "God said to Noah",
+     "literal": "'and-said God to Noah'"
+    },
+    {
+     "tokens": [
+      "9:17.5",
+      "9:17.6",
+      "9:17.7"
+     ],
+     "english": "This is the sign of the covenant",
+     "literal": "'this sign-of the-covenant'; the copula is supplied"
+    },
+    {
+     "tokens": [
+      "9:17.8",
+      "9:17.9"
+     ],
+     "english": "that I have established",
+     "literal": "'that I-established'"
+    },
+    {
+     "tokens": [
+      "9:17.10"
+     ],
+     "english": "between me",
+     "literal": "'between-me'"
+    },
+    {
+     "tokens": [
+      "9:17.11",
+      "9:17.12",
+      "9:17.13"
+     ],
+     "english": "and all flesh",
+     "literal": "'and-between all-of flesh'"
+    },
+    {
+     "tokens": [
+      "9:17.14",
+      "9:17.15",
+      "9:17.16"
+     ],
+     "english": "that is on the earth",
+     "literal": "'that on the-earth'"
+    }
+   ],
+   "grammar": [
+    "זֹאת אוֹת־הַבְּרִית is a verbless clause: 'this (is) the sign of the covenant'.",
+    "הֲקִמֹתִי is a Hiphil perfect, 1st person singular; the relative אֲשֶׁר takes it as 'that I have established'.",
+    "The speech now uses the first person (בֵּינִי), in contrast to the third person of 9:16.",
+    "The etnaḥta on נֹחַ and the zaqef gadol on בֵּינִי mark the introduction, the sign, and the covenant partners."
+   ],
+   "note": "The paragraph mark (פ) after this verse closes the covenant speech.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:17:1",
+     "relation": "follows",
+     "summary": "Rashi: God showed him the bow and said, 'This is the sign I spoke of'; the English 'This' points to the bow."
+    },
+    {
+     "anchor": "ibn-ezra:9:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'This is the covenant I told you of, and this is the oath that I have established'; the English keeps the plain sense that the sign belongs to the established covenant."
+    },
+    {
+     "anchor": "radak:9:17:1",
+     "relation": "not-applicable",
+     "summary": "Radak: this is the third speech to Noah on the matter, to strengthen him; the Midrash counts six covenants against the six days of creation."
+    },
+    {
+     "anchor": "sforno:9:17:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: the second bow is the sign, and Noah is to rouse the people to repent when it appears; homiletic."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "9:18",
+   "english": "The sons of Noah who came out of the ark were Shem, Ham, and Japheth. Ham was the father of Canaan.",
+   "literal": "and-were sons-of Noah the-coming-out from-the-ark Shem and-Ham and-Japheth and-Ham he father-of Canaan",
+   "tokens": [
+    {
+     "id": "9:18.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol plural; here 'were' opens the list"
+    },
+    {
+     "id": "9:18.2",
+     "gloss": "sons of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "9:18.3",
+     "gloss": "Noah"
+    },
+    {
+     "id": "9:18.4",
+     "gloss": "the ones coming out",
+     "sense": "Qal 1",
+     "note": "participle with the article, used as a relative clause"
+    },
+    {
+     "id": "9:18.5",
+     "gloss": "from",
+     "sense": "2"
+    },
+    {
+     "id": "9:18.6",
+     "gloss": "the ark"
+    },
+    {
+     "id": "9:18.7",
+     "gloss": "Shem"
+    },
+    {
+     "id": "9:18.8",
+     "gloss": "and Ham",
+     "sense": "1"
+    },
+    {
+     "id": "9:18.9",
+     "gloss": "and Japheth"
+    },
+    {
+     "id": "9:18.10",
+     "gloss": "and Ham",
+     "sense": "1",
+     "note": "the vav is resumptive or disjunctive: a new clause with a fronted subject"
+    },
+    {
+     "id": "9:18.11",
+     "gloss": "he",
+     "sense": "1",
+     "note": "a pronoun used as a copula"
+    },
+    {
+     "id": "9:18.12",
+     "gloss": "father of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "9:18.13",
+     "gloss": "Canaan"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:18.1",
+      "9:18.2",
+      "9:18.3"
+     ],
+     "english": "The sons of Noah",
+     "literal": "'and-were sons-of Noah'; 'were' is carried to the list in the English"
+    },
+    {
+     "tokens": [
+      "9:18.4",
+      "9:18.5",
+      "9:18.6"
+     ],
+     "english": "who came out of the ark",
+     "literal": "'the-coming-out from-the-ark'"
+    },
+    {
+     "tokens": [
+      "9:18.7",
+      "9:18.8",
+      "9:18.9"
+     ],
+     "english": "Shem, Ham, and Japheth",
+     "literal": "'Shem and-Ham and-Japheth'; the list is the predicate of 'were'"
+    },
+    {
+     "tokens": [
+      "9:18.10",
+      "9:18.11",
+      "9:18.12",
+      "9:18.13"
+     ],
+     "english": "Ham was the father of Canaan",
+     "literal": "'and-Ham he father-of Canaan'; הוּא is the copula"
+    }
+   ],
+   "grammar": [
+    "וַיִּהְיוּ is a wayyiqtol of הָיָה with a plural subject; the predicate is the list 'Shem, Ham and Japheth'.",
+    "הַיֹּצְאִים is a participle with the article, 'those who came out'; the participle describes a completed event.",
+    "וְחָם הוּא אֲבִי כְנָעַן is a nominal clause with a pronoun copula, opening a new thought; the etnaḥta on וָיָפֶת marks a break after the list.",
+    "The note on Canaan prepares the story of 9:22-27."
+   ],
+   "note": "The sentence on Canaan interrupts the list; Rashi gives its reason.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:18:1",
+     "relation": "follows",
+     "summary": "Rashi: the remark is needed here because the section is about Noah's drunkenness, in which Ham did wrong and Canaan was cursed; Ham's descendants have not yet been listed, so we would not know Canaan was his son."
+    },
+    {
+     "anchor": "ibn-ezra:9:18:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: it teaches that both were evil, and why Canaan and not Cush is named: the section shows that the Canaanites are cursed; a homiletic and historical remark that does not change the words."
+    },
+    {
+     "anchor": "radak:9:18:2",
+     "relation": "follows",
+     "summary": "Radak: this is said for the story that follows about Noah and the wine."
+    },
+    {
+     "anchor": "sforno:9:18:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: Ham resembled the notorious Canaan in his ways; a moral reading of 'father'."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "9:19",
+   "english": "These three were the sons of Noah, and from these the whole earth was dispersed.",
+   "literal": "three these sons-of Noah and-from-these was-scattered all-of the-earth",
+   "tokens": [
+    {
+     "id": "9:19.1",
+     "gloss": "three"
+    },
+    {
+     "id": "9:19.2",
+     "gloss": "these",
+     "sense": "b"
+    },
+    {
+     "id": "9:19.3",
+     "gloss": "sons of",
+     "sense": "1"
+    },
+    {
+     "id": "9:19.4",
+     "gloss": "Noah"
+    },
+    {
+     "id": "9:19.5",
+     "gloss": "and from these",
+     "sense": "b"
+    },
+    {
+     "id": "9:19.6",
+     "gloss": "was dispersed",
+     "note": "Qal perfect of נפץ, intransitive: 'was scattered, spread out'; feminine because הָאָרֶץ is feminine"
+    },
+    {
+     "id": "9:19.7",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "9:19.8",
+     "gloss": "the earth",
+     "sense": "1.a",
+     "note": "here the earth's inhabitants, by metonymy"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:19.1",
+      "9:19.2",
+      "9:19.3",
+      "9:19.4"
+     ],
+     "english": "These three were the sons of Noah",
+     "literal": "'three these sons-of Noah'; verbless clause"
+    },
+    {
+     "tokens": [
+      "9:19.5"
+     ],
+     "english": "and from these",
+     "literal": "'and-from-these'"
+    },
+    {
+     "tokens": [
+      "9:19.6",
+      "9:19.7",
+      "9:19.8"
+     ],
+     "english": "the whole earth was dispersed",
+     "literal": "'was-scattered all-of the-earth'; verb first"
+    }
+   ],
+   "grammar": [
+    "שְׁלֹשָׁה אֵלֶּה בְּנֵי־נֹחַ is a verbless clause with the number first, for emphasis: 'three, these, were the sons of Noah'.",
+    "נָפְצָה is a Qal perfect, 3rd feminine singular; the subject is the earth, meaning its peoples.",
+    "The verb comes before its subject, as in much narrative.",
+    "The etnaḥta on נֹחַ divides the verse in two."
+   ],
+   "note": "Radak notes that נָפַץ is intransitive in the Qal (compare 1 Samuel 13:11), so the English uses a passive-intransitive 'was dispersed'. He reads the dispersal as the one after the generation of the Division (Babel).",
+   "commentary": [
+    {
+     "anchor": "radak:9:19:1",
+     "relation": "follows",
+     "summary": "Radak: the root is נפ״ץ and the verb is intransitive, as in 'the people scattered from me' (1 Samuel 13:11)."
+    },
+    {
+     "anchor": "radak:9:19:2",
+     "relation": "records",
+     "summary": "Radak: the dispersal refers to what happened after the generation of the Division."
+    },
+    {
+     "anchor": "sforno:9:19:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: despite the wicked one among them, God blessed all of them as sons of Noah; homiletic."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "9:20",
+   "english": "Noah, a man of the soil, began and planted a vineyard.",
+   "literal": "and-began Noah man-of the-soil and-planted vineyard",
+   "tokens": [
+    {
+     "id": "9:20.1",
+     "gloss": "and began",
+     "sense": "Hiph 2",
+     "note": "Hiphil wayyiqtol of חלל; Ibn Ezra derives it from the doubled root, Hiphil, 'begin'"
+    },
+    {
+     "id": "9:20.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "9:20.3",
+     "gloss": "man of",
+     "note": "construct state; see note on 'man of the soil'"
+    },
+    {
+     "id": "9:20.4",
+     "gloss": "the soil",
+     "sense": "1"
+    },
+    {
+     "id": "9:20.5",
+     "gloss": "and planted",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "9:20.6",
+     "gloss": "vineyard"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:20.1",
+      "9:20.2",
+      "9:20.3",
+      "9:20.4"
+     ],
+     "english": "Noah, a man of the soil, began",
+     "literal": "'and-began Noah man-of the-soil'; the verb comes first"
+    },
+    {
+     "tokens": [
+      "9:20.5",
+      "9:20.6"
+     ],
+     "english": "and planted a vineyard",
+     "literal": "'and-planted vineyard'; the two verbs are in a 'began and did' sequence"
+    }
+   ],
+   "grammar": [
+    "וַיָּחֶל is a Hiphil wayyiqtol of חלל, 'begin' (BDB Hiph 2); the same root in the Niphal and Piel means 'profane', which gives the wordplay Rashi uses.",
+    "Two wayyiqtol verbs in a row, 'began' and 'planted', mean 'began to plant' (Radak).",
+    "אִישׁ הָאֲדָמָה is a construct chain: 'man of the soil', a farmer.",
+    "The etnaḥta on הָאֲדָמָה separates the description of Noah from the planting."
+   ],
+   "note": "The English keeps both verbs, 'began and planted', since the Hebrew does; the reading 'began to plant' is Radak's. Rashi's reading of וַיָּחֶל as 'made himself profane' (חֻלִּין), because he should have planted something else first, is recorded, not adopted. 'Man of the soil' is read as an expert farmer (Ibn Ezra), not 'master of the soil' (Rashi), a reading Ramban rejects.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:20:1",
+     "relation": "records",
+     "summary": "Rashi: 'he made himself profane' (ḥullin), for he should first have planted something else (Genesis Rabbah)."
+    },
+    {
+     "anchor": "rashi:9:20:2",
+     "relation": "records",
+     "summary": "Rashi: 'lords of the soil', like 'Naomi's husband' (Ruth 1). The English reads 'man of the soil' as a farmer."
+    },
+    {
+     "anchor": "rashi:9:20:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: when he entered the ark he took shoots and fig cuttings with him (Genesis Rabbah); a midrashic note on the source of the vine."
+    },
+    {
+     "anchor": "ibn-ezra:9:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it begins from the doubled-root verbs of the Hiphil, like 'he shut up with doors the sea' (Job 38:8); that is, 'began'."
+    },
+    {
+     "anchor": "ibn-ezra:9:20:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: he knew the work of the soil, a great skill; the midrash that he drank the wine the day he planted has a hidden meaning and is not the plain sense."
+    },
+    {
+     "anchor": "radak:9:20:2",
+     "relation": "follows",
+     "summary": "Radak: 'began to plant and planted': the infinitive is joined with the word of beginning, as in 1 Samuel 14:35 and Deuteronomy 2:25."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "9:21",
+   "english": "He drank some of the wine, became drunk, and uncovered himself inside his tent.",
+   "literal": "and-drank from-the-wine and-became-drunk and-uncovered-himself in-midst-of his-tent",
+   "tokens": [
+    {
+     "id": "9:21.1",
+     "gloss": "and drank",
+     "note": "wayyiqtol of שׁתה; the BDB entry in the pack lists only the Niphal, so no sense is cited"
+    },
+    {
+     "id": "9:21.2",
+     "gloss": "from",
+     "sense": "1.a",
+     "note": "partitive: 'some of'"
+    },
+    {
+     "id": "9:21.3",
+     "gloss": "the wine"
+    },
+    {
+     "id": "9:21.4",
+     "gloss": "and became drunk",
+     "sense": "Qal",
+     "note": "ingressive: 'became drunk'"
+    },
+    {
+     "id": "9:21.5",
+     "gloss": "and uncovered himself",
+     "sense": "Hithp 1",
+     "note": "Hitpael wayyiqtol of גלה with the ת assimilated into the following letter; reflexive or passive: 'uncovered himself' or 'was uncovered'"
+    },
+    {
+     "id": "9:21.6",
+     "gloss": "in the midst of",
+     "note": "construct state"
+    },
+    {
+     "id": "9:21.7",
+     "gloss": "his tent",
+     "sense": "1",
+     "note": "the final ה is the 3rd masculine suffix written ה instead of ו (the ketiv written אָהֳלֹה)"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:21.1",
+      "9:21.2",
+      "9:21.3"
+     ],
+     "english": "He drank some of the wine",
+     "literal": "'and-drank from-the-wine'; מִן is partitive"
+    },
+    {
+     "tokens": [
+      "9:21.4"
+     ],
+     "english": "became drunk",
+     "literal": "'and-became-drunk'"
+    },
+    {
+     "tokens": [
+      "9:21.5"
+     ],
+     "english": "and uncovered himself",
+     "literal": "'and-uncovered-himself'; Hitpael"
+    },
+    {
+     "tokens": [
+      "9:21.6",
+      "9:21.7"
+     ],
+     "english": "inside his tent",
+     "literal": "'in-midst-of his-tent'"
+    }
+   ],
+   "grammar": [
+    "A run of four wayyiqtol verbs narrates the sequence: drank, became drunk, uncovered himself.",
+    "וַיִּתְגַּל is a Hitpael of גלה, with the ל doubled after the dropped ה; the stem is reflexive (Ibn Ezra, Rashi 'לשון ויתפעל').",
+    "אָהֳלֹה is spelled with a final ה where the pronominal suffix 'his' is normally written וֹ; the word means 'his tent'.",
+    "The etnaḥta on וַיִּשְׁכָּר marks the break between the drinking and the exposure."
+   ],
+   "note": "'Uncovered himself' is the reflexive reading; the passive 'was uncovered' (Radak: 'of himself', that is, without being forced) is the same sense. The spelling אהלה is read by Ibn Ezra and Radak as אָהֳלוֹ, ה for ו. Rashi's reading, a hint of the ten tribes called Oholah, is a midrash and is recorded, not adopted.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:21:1",
+     "relation": "follows",
+     "summary": "Rashi: the form is the reflexive Hitpael ('לשון ויתפעל'); the English 'uncovered himself' reflects this."
+    },
+    {
+     "anchor": "rashi:9:21:2",
+     "relation": "records",
+     "summary": "Rashi: it is written אהלה, hinting at the ten tribes called after Samaria, called Oholah, who went into exile over wine (Amos 6); a midrashic reading."
+    },
+    {
+     "anchor": "ibn-ezra:9:21:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: from the sense of 'uncovering', in the Hitpael, as in 'and he shall not lift himself up' (Jeremiah 51:3)."
+    },
+    {
+     "anchor": "ibn-ezra:9:21:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the ה of אהלה stands in place of ו, as in \"the sound of the people in their company\" (Exodus 32:17), where ברעה stands for ברעו; so the English reads 'his tent'."
+    },
+    {
+     "anchor": "radak:9:21:1",
+     "relation": "follows",
+     "summary": "Radak: he drank without measure until he was drunk and disgraced."
+    },
+    {
+     "anchor": "radak:9:21:2",
+     "relation": "follows",
+     "summary": "Radak: 'of himself': the uncovering was his own, not done by another."
+    },
+    {
+     "anchor": "radak:9:21:3",
+     "relation": "follows",
+     "summary": "Radak: it is written with ה, and many are like it, ה for ו; there is a midrash (Genesis Rabbah 36) on the ten tribes."
+    }
+   ],
+   "apparatus": [
+    "9:21.7: the pack notes that WLC has abandoned or added a ketiv/qere relative to BHS here, agreeing with the Leningrad codex (L) against BHS; the text read is אָהֳלֹה."
+   ]
+  },
+  {
+   "ref": "9:22",
+   "english": "Ham, the father of Canaan, saw his father's nakedness and told his two brothers outside.",
+   "literal": "and-saw Ham father-of Canaan [object-marker] nakedness-of his-father and-told to-two-of his-brothers in-the-outside",
+   "tokens": [
+    {
+     "id": "9:22.1",
+     "gloss": "and saw",
+     "sense": "Qal 1.a"
+    },
+    {
+     "id": "9:22.2",
+     "gloss": "Ham",
+     "sense": "1"
+    },
+    {
+     "id": "9:22.3",
+     "gloss": "father of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "9:22.4",
+     "gloss": "Canaan"
+    },
+    {
+     "id": "9:22.5",
+     "gloss": "-"
+    },
+    {
+     "id": "9:22.6",
+     "gloss": "nakedness of",
+     "note": "construct state; 'nakedness', also a euphemism for the genitals or sexual shame"
+    },
+    {
+     "id": "9:22.7",
+     "gloss": "his father",
+     "sense": "1",
+     "note": "construct state with a suffix"
+    },
+    {
+     "id": "9:22.8",
+     "gloss": "and told",
+     "sense": "Hiph",
+     "note": "Hiphil wayyiqtol of נגד, 'declare, tell'"
+    },
+    {
+     "id": "9:22.9",
+     "gloss": "to two of",
+     "note": "construct dual of שְׁנַיִם"
+    },
+    {
+     "id": "9:22.10",
+     "gloss": "his brothers",
+     "sense": "1"
+    },
+    {
+     "id": "9:22.11",
+     "gloss": "outside",
+     "note": "בַּחוּץ, 'in the open, in the street'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:22.1",
+      "9:22.2",
+      "9:22.3",
+      "9:22.4"
+     ],
+     "english": "Ham, the father of Canaan, saw",
+     "literal": "'and-saw Ham father-of Canaan'; the epithet recalls 9:18"
+    },
+    {
+     "tokens": [
+      "9:22.5",
+      "9:22.6",
+      "9:22.7"
+     ],
+     "english": "his father's nakedness",
+     "literal": "'[ot] nakedness-of his-father'; אֵת marks the object"
+    },
+    {
+     "tokens": [
+      "9:22.8",
+      "9:22.9",
+      "9:22.10",
+      "9:22.11"
+     ],
+     "english": "and told his two brothers outside",
+     "literal": "'and-told to-two-of his-brothers in-the-outside'"
+    }
+   ],
+   "grammar": [
+    "וַיַּרְא ... וַיַּגֵּד are two wayyiqtol verbs with the same subject, Ham.",
+    "אֲבִי כְנַעַן is an apposition naming Ham; it explains why Canaan is cursed later.",
+    "אֵת marks the definite object עֶרְוַת אָבִיו, 'the nakedness of his father' (a construct chain).",
+    "לִשְׁנֵי־אֶחָיו is 'to two of his brothers', a construct dual; the revia on וַיַּרְא and the etnaḥta on אָבִיו divide the clauses."
+   ],
+   "note": "'Nakedness' keeps the ambiguity of עֶרְוָה, which can be literal exposure or a sexual euphemism. Rashi records two rabbinic readings, that Canaan did the seeing and told his father, and that Ham castrated or sodomized Noah; neither is adopted, as the plain sense (Radak) is that Ham saw and mocked.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:22:1",
+     "relation": "records",
+     "summary": "Rashi: some of our rabbis say that Canaan saw and told his father, which is why he is mentioned and cursed (Genesis Rabbah). The English follows the text, in which Ham saw."
+    },
+    {
+     "anchor": "rashi:9:22:2",
+     "relation": "records",
+     "summary": "Rashi: some say Ham castrated him, others that he abused him (Sanhedrin 70). The English keeps the plain 'nakedness'."
+    },
+    {
+     "anchor": "radak:9:22:1",
+     "relation": "follows",
+     "summary": "Radak: Ham was the father of Canaan in that he did not cover his father's nakedness, a bad father of a bad son; he also told his brothers, mocking his father."
+    },
+    {
+     "anchor": "sforno:9:22:1",
+     "relation": "records",
+     "summary": "Sforno: Ham saw the disgrace that his son Canaan had done him, which was the castration, as some of the rabbis say."
+    },
+    {
+     "anchor": "sforno:9:22:2",
+     "relation": "follows",
+     "summary": "Sforno: Ham told his brothers because he rejoiced at what his son had done."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "9:23",
+   "english": "Shem and Japheth took the garment and laid it on both their shoulders, and they walked backward and covered their father's nakedness, and their faces were backward, and they did not see their father's nakedness.",
+   "literal": "and-took Shem and-Japheth [object-marker] the-garment and-put on shoulder-of both-of-them and-walked backward and-covered [object-marker] nakedness-of their-father and-their-faces backward and-nakedness-of their-father not they-saw",
+   "tokens": [
+    {
+     "id": "9:23.1",
+     "gloss": "and took",
+     "sense": "Qal 1",
+     "note": "singular verb with a compound subject; the verb agrees with the nearer subject, Shem"
+    },
+    {
+     "id": "9:23.2",
+     "gloss": "Shem"
+    },
+    {
+     "id": "9:23.3",
+     "gloss": "and Japheth"
+    },
+    {
+     "id": "9:23.4",
+     "gloss": "-"
+    },
+    {
+     "id": "9:23.5",
+     "gloss": "the garment"
+    },
+    {
+     "id": "9:23.6",
+     "gloss": "and put",
+     "sense": "Qal 1.b",
+     "note": "plural: both brothers act"
+    },
+    {
+     "id": "9:23.7",
+     "gloss": "on",
+     "sense": "II.1.c"
+    },
+    {
+     "id": "9:23.8",
+     "gloss": "shoulder of",
+     "sense": "1",
+     "note": "singular noun in construct, 'shoulder of the two of them'"
+    },
+    {
+     "id": "9:23.9",
+     "gloss": "both of them",
+     "note": "construct dual of שְׁנַיִם with a 3rd masculine plural suffix"
+    },
+    {
+     "id": "9:23.10",
+     "gloss": "and walked",
+     "note": "Qal wayyiqtol of הלך; the BDB entry in the pack lists no sense for the plain meaning 'go, walk'"
+    },
+    {
+     "id": "9:23.11",
+     "gloss": "backward",
+     "note": "adverb, 'backwards, in reverse'"
+    },
+    {
+     "id": "9:23.12",
+     "gloss": "and covered",
+     "sense": "Pi 1",
+     "note": "Piel wayyiqtol of כסה"
+    },
+    {
+     "id": "9:23.13",
+     "gloss": "-"
+    },
+    {
+     "id": "9:23.14",
+     "gloss": "nakedness of"
+    },
+    {
+     "id": "9:23.15",
+     "gloss": "their father",
+     "sense": "1"
+    },
+    {
+     "id": "9:23.16",
+     "gloss": "and their faces",
+     "sense": "I.1",
+     "note": "construct plural 'faces of' with a suffix"
+    },
+    {
+     "id": "9:23.17",
+     "gloss": "backward",
+     "note": "verbless clause: 'their faces (were) backward'"
+    },
+    {
+     "id": "9:23.18",
+     "gloss": "and nakedness of",
+     "note": "object fronted for emphasis"
+    },
+    {
+     "id": "9:23.19",
+     "gloss": "their father",
+     "sense": "1"
+    },
+    {
+     "id": "9:23.20",
+     "gloss": "not"
+    },
+    {
+     "id": "9:23.21",
+     "gloss": "they saw",
+     "sense": "Qal 1.a",
+     "note": "perfect (qatal) in a clause with a fronted object"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:23.1",
+      "9:23.2",
+      "9:23.3"
+     ],
+     "english": "Shem and Japheth took",
+     "literal": "'and-took Shem and-Japheth'; singular verb"
+    },
+    {
+     "tokens": [
+      "9:23.4",
+      "9:23.5"
+     ],
+     "english": "the garment",
+     "literal": "'[ot] the-garment'"
+    },
+    {
+     "tokens": [
+      "9:23.6",
+      "9:23.7",
+      "9:23.8",
+      "9:23.9"
+     ],
+     "english": "and laid it on both their shoulders",
+     "literal": "'and-put on shoulder-of both-of-them'"
+    },
+    {
+     "tokens": [
+      "9:23.10",
+      "9:23.11"
+     ],
+     "english": "and they walked backward",
+     "literal": "'and-walked backward'"
+    },
+    {
+     "tokens": [
+      "9:23.12",
+      "9:23.13",
+      "9:23.14",
+      "9:23.15"
+     ],
+     "english": "and covered their father's nakedness",
+     "literal": "'and-covered [ot] nakedness-of their-father'"
+    },
+    {
+     "tokens": [
+      "9:23.16",
+      "9:23.17"
+     ],
+     "english": "and their faces were backward",
+     "literal": "'and-their-faces backward'; verbless clause"
+    },
+    {
+     "tokens": [
+      "9:23.18",
+      "9:23.19",
+      "9:23.20",
+      "9:23.21"
+     ],
+     "english": "and they did not see their father's nakedness",
+     "literal": "'and-nakedness-of their-father not they-saw'; object fronted"
+    }
+   ],
+   "grammar": [
+    "וַיִּקַּח is singular though the subject is 'Shem and Japheth', so the verb agrees with the nearer name (Rashi finds a lesson in this); the next verb וַיָּשִׂימוּ is plural.",
+    "עַל־שְׁכֶם שְׁנֵיהֶם has a singular 'shoulder' with a dual 'both': Ibn Ezra says each put part of the garment on his own shoulder, and שְׁכֶם is not in construct with שְׁנֵיהֶם in the strict sense.",
+    "אֲחֹרַנִּית is an adverb, 'backwards'; it occurs twice, in the verb clause and in the verbless clause.",
+    "וְעֶרְוַת אֲבִיהֶם לֹא רָאוּ puts the object first, for contrast with the covering."
+   ],
+   "note": "'Both their shoulders' follows Ibn Ezra: each brother took part of the garment on his own shoulder. The repeated אֲחֹרַנִּית is kept; Rashi reads the second as the turning of their faces when they had to approach. Rashi's midrash on the singular וַיִּקַּח (Shem exerted himself more) is recorded, not adopted; Radak takes the singular as a plain idiom, like Exodus 6:10.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:23:1",
+     "relation": "records",
+     "summary": "Rashi: it is not written 'they took' but 'he took', which teaches that Shem exerted himself more in the commandment than Japheth; hence his sons earned the fringed garment. The English does not adopt this."
+    },
+    {
+     "anchor": "rashi:9:23:2",
+     "relation": "follows",
+     "summary": "Rashi: why is 'backward' said a second time? When they came near and had to turn to cover him, they turned their faces backward."
+    },
+    {
+     "anchor": "ibn-ezra:9:23:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: each of them put some of the garment on his shoulder; the word 'shoulder' does not join with 'both'; so the English 'both their shoulders'."
+    },
+    {
+     "anchor": "ibn-ezra:9:23:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'backward' means the reverse of the way a person goes, since all his motion is forward."
+    },
+    {
+     "anchor": "radak:9:23:1",
+     "relation": "records",
+     "summary": "Radak: 'Shem and Japheth took' is like 'Moses and Aaron came' (Exodus 6:10); they were quick to honour their father and covered him so as not to see him at all. The singular verb is an idiom."
+    },
+    {
+     "anchor": "sforno:9:23:1",
+     "relation": "follows",
+     "summary": "Sforno: even in the act of covering, where they had to turn somewhat toward him, they did not, so as not to see, lest more grief be added to them."
+    }
+   ],
+   "apparatus": []
+  }
+ ]
+}

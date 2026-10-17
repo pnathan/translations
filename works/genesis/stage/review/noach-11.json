@@ -1,0 +1,111 @@
+{
+ "unit": "noach-11",
+ "model": "opus",
+ "summary": "The end of the covenant speech and the vineyard story (9:16-23) are rendered accurately and plainly in the English lines, and the choices between Rashi and Ibn Ezra (9:20 וַיָּחֶל and אִישׁ הָאֲדָמָה) are made and recorded as the rules require. The faults are in the learner notes and the summaries of the comments. At 9:21 the notes on וַיִּתְגַּל were false: the ת is not assimilated and the ל is not doubled. The grammar note also counted four wayyiqtol verbs where there are three. At 9:23 a grammar note denied the construct state that the morphology gives שְׁכֶם. Ibn Ezra's comments at 9:20 and 9:21 were misread in their summaries, and הֲקִמֹתִי (9:17) was given the wrong BDB sense.",
+ "patches": [
+  {
+   "ref": "9:17",
+   "path": "token:9:17.9.sense",
+   "value": "Hiph 6",
+   "severity": "error",
+   "reason": "With בְּרִית as object, the Hiphil of קוּם is 'make stand, establish, confirm' (BDB Hiph 6, 'cause to stand', where Gn 6:18; 9:9, 11, 17 are cited), not 2.a 'raise, set up', which BDB uses for physical objects such as an altar or a pillar."
+  },
+  {
+   "ref": "9:19",
+   "path": "token:9:19.8.sense",
+   "value": "1.c",
+   "severity": "question",
+   "reason": "The token note itself reads הָאָרֶץ here as the earth's inhabitants. BDB keeps that use (earth = inhabitants of the earth: Gn 6:11; 9:19; 11:1) apart from 1.a, the whole earth as against a part. Proposed: 1.c."
+  },
+  {
+   "ref": "9:20",
+   "path": "commentary:ibn-ezra:9:20:1.summary",
+   "value": "Ibn Ezra: וַיָּחֶל comes from the sense of 'beginning' (תְּחִלָּה). It is one of the doubled-root verbs, in the heavy augmented stem (the Hiphil), formed like וַיָּסֶךְ in 'who shut in the sea with doors' (Job 38:8). So it means 'began'.",
+  "severity": "error",
+   "reason": "מתחלה means 'from (the sense of) beginning', and it gives the derivation of the word; it does not mean 'it begins from'. הבנין הכבד הנוסף is the Hiphil. The old summary made Ibn Ezra say the word 'begins from the doubled-root verbs', which is not what he says."
+  },
+  {
+   "ref": "9:20",
+   "path": "commentary:rashi:9:20:2.summary",
+   "value": "Rashi: אִישׁ הָאֲדָמָה means 'master of the soil' (אֲדוֹנֵי הָאֲדָמָה), as אִישׁ נָעֳמִי (Ruth 1:3) means Naomi's husband. The English reads 'man of the soil' as a farmer.",
+   "severity": "style",
+   "reason": "Rashi's אֲדוֹנֵי הָאֲדָמָה describes Noah alone: 'master (lord) of the soil', not 'lords'. The Ruth reference is 1:3."
+  },
+  {
+   "ref": "9:21",
+   "path": "token:9:21.5.note",
+   "value": "Hitpael wayyiqtol of גלה, in the short (apocopated) form. The full form יִתְגַּלֶּה loses its final ה, and with it the doubling of the ל at the end of the word, which gives יִתְגַּל. The ת of the stem stays, before the ג. The sense is reflexive, 'uncovered himself'; the passive 'was uncovered' is also possible.",
+   "severity": "error",
+   "reason": "The old note said the ת is assimilated into the following letter. It is not: יִתְגַּל keeps the ת (the ת assimilates only before dentals and sibilants). The form is the apocopated wayyiqtol of a final-ה verb, and the note did not say so."
+  },
+  {
+   "ref": "9:21",
+   "path": "grammar",
+   "value": [
+    "Three wayyiqtol verbs narrate the sequence: וַיֵּשְׁתְּ 'drank', וַיִּשְׁכָּר 'became drunk', וַיִּתְגַּל 'uncovered himself'.",
+    "וַיֵּשְׁתְּ and וַיִּתְגַּל are short (apocopated) wayyiqtol forms of verbs whose last root letter is ה; compare the full forms יִשְׁתֶּה and יִתְגַּלֶּה.",
+    "וַיִּתְגַּל is a Hitpael of גלה: the ת of the stem is kept, and the doubled ל of the full form is simplified at the end of the word. The stem is reflexive (Ibn Ezra; Rashi 'לשון ויתפעל').",
+    "אָהֳלֹה is spelled with a final ה where the pronominal suffix 'his' is normally written וֹ; the word means 'his tent'.",
+    "The etnaḥta on וַיִּשְׁכָּר marks the break between the drinking and the exposure."
+   ],
+   "severity": "error",
+   "reason": "The verse has three wayyiqtol verbs, not four, as the note's own list shows. The ל of וַיִּתְגַּל is not doubled after the dropped ה: the doubling is lost at the end of the word. The apocopated forms, which a first-year student needs explained, were not noted."
+  },
+  {
+   "ref": "9:21",
+   "path": "commentary:ibn-ezra:9:21:2.summary",
+   "value": "Ibn Ezra: the ה of אהלה stands in place of the ו of the suffix 'his', as in בְּרֵעֹה 'in its shouting' (Exodus 32:17) and כִּי־פְרָעֹה 'for he had let them loose' (Exodus 32:25). So the English reads 'his tent'.",
+   "severity": "error",
+   "reason": "בְּרֵעֹה in Exodus 32:17 is 'in its shouting' (from רֵעַ 'noise'), not 'in their company'. The summary also left out Ibn Ezra's second example, פְרָעֹה (Exodus 32:25)."
+  },
+  {
+   "ref": "9:23",
+   "path": "grammar",
+   "value": [
+    "וַיִּקַּח is singular though the subject is 'Shem and Japheth', so the verb agrees with the nearer name (Rashi finds a lesson in this); the next verb וַיָּשִׂימוּ is plural.",
+    "עַל־שְׁכֶם שְׁנֵיהֶם is a construct chain with a singular noun: 'on the shoulder of the two of them'. Ibn Ezra explains the singular: each put part of the garment on his own shoulder.",
+    "אֲחֹרַנִּית is an adverb, 'backwards'; it occurs twice, in the verb clause and in the verbless clause.",
+    "וְעֶרְוַת אֲבִיהֶם לֹא רָאוּ puts the object first, for contrast with the covering."
+   ],
+   "severity": "error",
+   "reason": "The old note said that שְׁכֶם 'is not in construct with שְׁנֵיהֶם in the strict sense'. That contradicts the pack's morphology, which parses שְׁכֶם as construct, and it contradicts the token note on 9:23.8. Ibn Ezra's comment is about the singular noun; it does not deny the construct."
+  },
+  {
+   "ref": "9:23",
+   "path": "commentary:ibn-ezra:9:23:1.summary",
+   "value": "Ibn Ezra: each of them put part of the garment on his own shoulder. The word שְׁכֶם 'does not join' (לֹא תִתְחַבֵּר), that is, it is not put in the plural, so the singular serves for the two. So the English has 'both their shoulders'.",
+   "severity": "question",
+   "reason": "'Does not join with both' implies that שְׁכֶם is not bound to שְׁנֵיהֶם, against the morphology. ומלת שכם לא תתחבר most likely explains the singular: שְׁכֶם has no plural in Scripture. Proposed reading above; open to the owner."
+  },
+  {
+   "ref": "9:23",
+   "path": "commentary:radak:9:23:1.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "Radak takes the singular verb with a compound subject as ordinary usage (like 'Moses and Aaron came'). This is exactly the reading the English and the translator's note adopt against Rashi's midrash. 'Records' says the English does not adopt it."
+  }
+ ],
+ "verdicts": [
+  {"anchor": "rashi:9:16:1", "verdict": "consistent", "comment": "The English keeps the third-person 'God' on which Rashi's midrash rests, and records the midrash."},
+  {"anchor": "ibn-ezra:9:16:1", "verdict": "consistent"},
+  {"anchor": "rashi:9:17:1", "verdict": "consistent"},
+  {"anchor": "ibn-ezra:9:17:1", "verdict": "consistent"},
+  {"anchor": "rashi:9:18:1", "verdict": "consistent"},
+  {"anchor": "ibn-ezra:9:18:1", "verdict": "consistent"},
+  {"anchor": "rashi:9:20:1", "verdict": "contradicts", "comment": "Rashi (וַיָּחֶל 'made himself profane') and Ibn Ezra ('began', Hiphil of חלל) differ. Rule 3 lets the translator choose Ibn Ezra, whose reading the BDB Hiph 2 sense supports, and record Rashi; the English stands."},
+  {"anchor": "rashi:9:20:2", "verdict": "contradicts", "comment": "Rashi ('master of the soil') and Ibn Ezra ('skilled in the work of the soil') differ. The English 'a man of the soil' follows Ibn Ezra and records Rashi, as rule 3 allows; the English stands."},
+  {"anchor": "rashi:9:20:3", "verdict": "not-applicable", "comment": "A midrash on where the vines came from; it does not bear on the words."},
+  {"anchor": "ibn-ezra:9:20:1", "verdict": "consistent"},
+  {"anchor": "ibn-ezra:9:20:2", "verdict": "consistent"},
+  {"anchor": "rashi:9:21:1", "verdict": "consistent"},
+  {"anchor": "rashi:9:21:2", "verdict": "consistent", "comment": "Rashi's comment is a hint drawn from the spelling; it does not dispute 'his tent'."},
+  {"anchor": "ibn-ezra:9:21:1", "verdict": "consistent"},
+  {"anchor": "ibn-ezra:9:21:2", "verdict": "consistent"},
+  {"anchor": "rashi:9:22:1", "verdict": "consistent", "comment": "Rashi cites the view that Canaan saw only as 'some of our rabbis'; the English follows the text, in which Ham sees, and records the view."},
+  {"anchor": "rashi:9:22:2", "verdict": "consistent", "comment": "'Nakedness' keeps the ambiguity on which the rabbinic readings rest."},
+  {"anchor": "rashi:9:23:1", "verdict": "consistent", "comment": "The English keeps the compound subject; Rashi's lesson from the singular verb is recorded."},
+  {"anchor": "rashi:9:23:2", "verdict": "consistent"},
+  {"anchor": "ibn-ezra:9:23:1", "verdict": "consistent"},
+  {"anchor": "ibn-ezra:9:23:2", "verdict": "consistent"}
+ ]
+}

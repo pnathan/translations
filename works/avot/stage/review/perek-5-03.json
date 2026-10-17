@@ -1,0 +1,1846 @@
+{
+ "unit": "perek-5-03",
+ "model": "opus",
+ "summary": "The English is sound in 5:15-5:18. Two renderings go against the normative commentators. In 5:13 the third and fourth types were made indicative ('one who gives, and others give too'), against Rambam's 'wants others to give'. In 5:14 'among those who go' goes against Bartenura and Rambam, who both read 'in the going to the house of study'. The senses were filled mechanically with '1': verbs got the root heading rather than the stem sense, names got the etymology header, and many tokens are linked to wrong homographs (Arba, Ain, Shem, Sacar, 'lamb' for זֶה, 'where?' for אֵין, 'ploughshare' for אֵת). These are repointed to the Jastrow entries the pack lists, or the sense is removed with a note. The model morphology is largely right. The patches fix two construct states missed (מַחֲלֹקֶת in 5:17), חֵטְא הָרַבִּים, the participle בָּא after אֵין, and the root and lemma of לְהִתְקַיֵּם; the 5:16 grammar wrongly called בְּטֵלָה a perfect.",
+ "patches": [
+  {
+   "ref": "5:13",
+   "path": "english",
+   "value": "There are four types in giving charity. One who wants to give but wants others not to give has an evil eye toward what belongs to others. One who wants others to give but himself not to give has an evil eye toward his own. One who wants to give and wants others to give is pious. One who wants neither himself nor others to give is wicked.",
+   "severity": "error",
+   "reason": "The third and fourth types have the same modal imperfects as the second (יִתֵּן וְיִתְּנוּ אֲחֵרִים; לֹא יִתֵּן וְלֹא יִתְּנוּ אֲחֵרִים) with הָרוֹצֶה understood. The English supplied 'wants' in the second type but turned the third and fourth into facts ('One who gives, and others give too'), as if piety were others happening to give. Rambam (normative) says the pious man is not content that he alone shows mercy but wants others to show mercy too. That is a wish, so 'wants' must carry through."
+  },
+  {
+   "ref": "5:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "5:13.1",
+      "5:13.2",
+      "5:13.3",
+      "5:13.4"
+     ],
+     "english": "There are four types in giving charity",
+     "literal": "'four types in-those-giving-of charity': Bartenura reads בְּנוֹתְנֵי as 'in the giving of', not as 'among actual givers'"
+    },
+    {
+     "tokens": [
+      "5:13.5",
+      "5:13.6",
+      "5:13.7",
+      "5:13.8",
+      "5:13.9"
+     ],
+     "english": "One who wants to give but wants others not to give",
+     "literal": "'the-one-wanting that-he-give and-not they-give others'; the second verb is a wish, 'that others not give'"
+    },
+    {
+     "tokens": [
+      "5:13.10",
+      "5:13.11",
+      "5:13.12",
+      "5:13.13"
+     ],
+     "english": "has an evil eye toward what belongs to others",
+     "literal": "'his-eye evil in-that-of others'; Bartenura: he knows charity enriches and does not want others enriched"
+    },
+    {
+     "tokens": [
+      "5:13.14",
+      "5:13.15",
+      "5:13.16",
+      "5:13.17",
+      "5:13.18"
+     ],
+     "english": "others to give but himself not to give",
+     "literal": "'they-give others and-he not he-gives'; 'one who wants' carries over"
+    },
+    {
+     "tokens": [
+      "5:13.19",
+      "5:13.20",
+      "5:13.21"
+     ],
+     "english": "has an evil eye toward his own",
+     "literal": "'his-eye evil in-his-own'"
+    },
+    {
+     "tokens": [
+      "5:13.22",
+      "5:13.23",
+      "5:13.24",
+      "5:13.25"
+     ],
+     "english": "One who wants to give and wants others to give is pious",
+     "literal": "'he-gives and-they-give others, pious'; 'one who wants' carries over, as Rambam reads it: the pious man wants others to give too"
+    },
+    {
+     "tokens": [
+      "5:13.26",
+      "5:13.27",
+      "5:13.28",
+      "5:13.29",
+      "5:13.30",
+      "5:13.31"
+     ],
+     "english": "One who wants neither himself nor others to give is wicked",
+     "literal": "'not he-gives and-not they-give others, wicked'; 'one who wants' carries over"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed phrases 6 and 7."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.22.gloss",
+   "value": "(that) he give",
+   "severity": "error",
+   "reason": "This is a modal imperfect after the understood הָרוֹצֶה ('wants that he give'), not the indicative 'gives'."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.27.gloss",
+   "value": "(that) he give",
+   "severity": "error",
+   "reason": "This is a modal imperfect after the understood הָרוֹצֶה, not the indicative 'gives'."
+  },
+  {
+   "ref": "5:13",
+   "path": "note",
+   "value": "The mishnah gives the first two types no label beyond 'evil eye'; the English keeps this. In the second, third and fourth types the Hebrew has bare imperfects, and הָרוֹצֶה is understood from the first clause. The English supplies 'wants' in all three, as Rambam reads the third (the pious man is not content that he alone shows mercy but wants others to show it too). The pack's BDB entries for אַרְבַּע (Arba, a name), מִדָּה (tribute), עַיִן (Ain, a place) and אַחַר (the adverb 'after') are the wrong words. The tokens are pointed to the Jastrow entries the pack lists, or carry no sense.",
+   "severity": "error",
+   "reason": "The old note defended the indicative 'one who gives, and others give too', which the review corrects."
+  },
+  {
+   "ref": "5:14",
+   "path": "english",
+   "value": "There are four types in going to the house of study. One who goes but does not do: the reward of going is in his hand. One who does but does not go: the reward of doing is in his hand. One who goes and does is pious. One who neither goes nor does is wicked.",
+   "severity": "error",
+   "reason": "Both normative commentators read בְּהוֹלְכֵי as 'in the going to', not 'among those who go'. Bartenura on 5:13 says so explicitly ('וְכֵן בְּסָמוּךְ בְּהוֹלְכֵי לְבֵית הַמִּדְרָשׁ, הַיְנוּ בַּהֲלִיכַת בֵּית הַמִּדְרָשׁ'), since one of the four never goes. Rambam on this mishnah says the same: 'רוצה בו ההליכה לבית המדרש יש בה ארבע מדות'. The translator applied this reading in 5:13 ('in giving charity') and cited it in the phrase literal, but the English did not follow it."
+  },
+  {
+   "ref": "5:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "5:14.1",
+      "5:14.2",
+      "5:14.3",
+      "5:14.4",
+      "5:14.5"
+     ],
+     "english": "There are four types in going to the house of study",
+     "literal": "'four types in-those-going to-house-of the-study'; Bartenura (on 5:13) and Rambam: the types are in the going to the house of study, not among actual goers, since one type does not go"
+    },
+    {
+     "tokens": [
+      "5:14.6",
+      "5:14.7",
+      "5:14.8"
+     ],
+     "english": "One who goes but does not do",
+     "literal": "'going and-not-he doing'; Bartenura reads 'does' as study and review"
+    },
+    {
+     "tokens": [
+      "5:14.9",
+      "5:14.10",
+      "5:14.11"
+     ],
+     "english": "the reward of going is in his hand",
+     "literal": "'reward-of going in-his-hand'; 'in his hand' = in his possession"
+    },
+    {
+     "tokens": [
+      "5:14.12",
+      "5:14.13",
+      "5:14.14"
+     ],
+     "english": "One who does but does not go",
+     "literal": "'doing and-not-he going'; Bartenura: he studies in a house of study at home"
+    },
+    {
+     "tokens": [
+      "5:14.15",
+      "5:14.16",
+      "5:14.17"
+     ],
+     "english": "the reward of doing is in his hand",
+     "literal": "'reward-of deed in-his-hand'"
+    },
+    {
+     "tokens": [
+      "5:14.18",
+      "5:14.19",
+      "5:14.20"
+     ],
+     "english": "One who goes and does is pious",
+     "literal": "'going and-doing, pious'"
+    },
+    {
+     "tokens": [
+      "5:14.21",
+      "5:14.22",
+      "5:14.23",
+      "5:14.24",
+      "5:14.25"
+     ],
+     "english": "One who neither goes nor does is wicked",
+     "literal": "'not going and-not doing, wicked'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed phrase 1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.3.gloss",
+   "value": "in those who go (in the going)",
+   "severity": "error",
+   "reason": "Follows the normative reading 'in the going to'."
+  },
+  {
+   "ref": "5:16",
+   "path": "grammar",
+   "value": [
+    "The first saying is a conditional without a particle: בָּטֵל דָּבָר, בְּטֵלָה אַהֲבָה, '(when) the thing ceases, the love ceases'. Each predicate stands before its subject.",
+    "בְּטֵלָה is the feminine singular of the stative participle (verbal adjective) בָּטֵל, 'ceasing, void', and agrees with אַהֲבָה. The feminine perfect would be בָּטְלָה. The masculine בָּטֵל agrees with דָּבָר; it can be read as the same participle or as the stative perfect 'has ceased'.",
+    "וְשֶׁאֵינָהּ is 'and that which is not' (ש + אֵין + 3rd fem. sing. suffix): the headless relative stands for 'a love which ...'.",
+    "Question and answer: אֵיזוֹ הִיא ... זוֹ ..., 'which is ...? This is ...'; אֵיזוֹ is the feminine of אֵיזֶה, 'which'.",
+    "אַהֲבַת is the construct of אַהֲבָה: 'love of'."
+   ],
+   "severity": "error",
+   "reason": "The notes called both forms perfects ('the perfect בָּטֵל, twice'). בְּטֵלָה cannot be a perfect: the feminine perfect is בָּטְלָה. It is the feminine participle/verbal adjective, as the morphology has it."
+  },
+  {
+   "ref": "5:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "5:16.1",
+      "5:16.2",
+      "5:16.3",
+      "5:16.4",
+      "5:16.5"
+     ],
+     "english": "Any love that depends on a thing",
+     "literal": "'all love that-it hanging on-thing'; 'thing' is דָּבָר, a cause or material object (Bartenura: the cause of the love)"
+    },
+    {
+     "tokens": [
+      "5:16.6",
+      "5:16.7",
+      "5:16.8",
+      "5:16.9"
+     ],
+     "english": "when the thing ceases, the love ceases",
+     "literal": "'ceasing thing, ceasing love'; a conditional without a particle: when the thing ceases, the love ceases"
+    },
+    {
+     "tokens": [
+      "5:16.10",
+      "5:16.11",
+      "5:16.12",
+      "5:16.13",
+      "5:16.14",
+      "5:16.15"
+     ],
+     "english": "And that which does not depend on a thing never ceases",
+     "literal": "'and-that-not-it hanging on-thing, not-it ceasing forever'"
+    },
+    {
+     "tokens": [
+      "5:16.16",
+      "5:16.17",
+      "5:16.18",
+      "5:16.19",
+      "5:16.20"
+     ],
+     "english": "Which is the love that depends on a thing",
+     "literal": "'which it love the-hanging on-thing'"
+    },
+    {
+     "tokens": [
+      "5:16.21",
+      "5:16.22",
+      "5:16.23",
+      "5:16.24"
+     ],
+     "english": "This is the love of Amnon and Tamar",
+     "literal": "'this love-of Amnon and-Tamar'; Bartenura: because of her beauty"
+    },
+    {
+     "tokens": [
+      "5:16.25",
+      "5:16.26",
+      "5:16.27"
+     ],
+     "english": "And that which does not depend on a thing",
+     "literal": "'and-that-not-it hanging on-thing'"
+    },
+    {
+     "tokens": [
+      "5:16.28",
+      "5:16.29",
+      "5:16.30",
+      "5:16.31"
+     ],
+     "english": "This is the love of David and Jonathan",
+     "literal": "'this love-of David and-Jonathan'; Bartenura: to fulfil the will of their Maker"
+    }
+   ],
+   "severity": "error",
+   "reason": "The literal of phrase 2 called בְּטֵלָה a perfect; it is the feminine participle/verbal adjective."
+  },
+  {
+   "ref": "5:16",
+   "path": "literal",
+   "value": "all love that-it hanging on-thing, ceasing thing, ceasing love; and-that-not-it hanging on-thing, not-it ceasing forever; which it love the-hanging on-thing, this love-of Amnon and-Tamar; and-that-not-it hanging on-thing, this love-of David and-Jonathan",
+   "severity": "style",
+   "reason": "בְּטֵלָה is a participle, not a perfect ('ceased'). The literal now matches the grammar."
+  },
+  {
+   "ref": "5:16",
+   "path": "note",
+   "value": "דָּבָר is kept as 'a thing' because it is general: the commentators explain it as the cause or object on which the love depends (beauty in Amnon's case; a lasting purpose for David and Jonathan). The pack's BDB entry for זֶה ('lamb') is the wrong word, so the demonstratives point to Jastrow's זֶה, 'this'. For בָּטֵל, Jastrow's sense 2 ('to cease to exist') is the right one; Jastrow cites this mishnah there. The BDB entry for תָּמָר has David's daughter at sense 4.",
+   "severity": "error",
+   "reason": "The old note said תָּמָר's first sense is a place name. It is the name's meaning ('palm-tree'); the place is sense 7. The note also called the entries for זֶה and בָּטֵל 'the closest available', but the pack lists the right ones."
+  },
+  {
+   "ref": "5:18",
+   "path": "english",
+   "value": "Whoever makes the many meritorious, no sin comes through him. And whoever causes the many to sin, they do not give him the means to repent. Moses was meritorious and made the many meritorious; the merit of the many rests on him, as it is said, Deuteronomy 33: \"He performed the righteousness of the LORD, and His judgments with Israel.\" Jeroboam sinned and caused the many to sin; the sin of the many rests on him, as it is said, 1 Kings 15: \"For the sins of Jeroboam (son of Nebat), which he sinned and which he caused Israel to sin.\"",
+   "severity": "style",
+   "reason": "The mishnah puts בֶּן נְבָט in brackets (it is not in every text of the quotation). The English now keeps the brackets, so nothing appears unmarked."
+  },
+  {
+   "ref": "5:18",
+   "path": "note",
+   "value": "'Merit' (זְכוּת) is kept as one English word through the mishnah for the pun on זָכָה / זִכָּה. תָּלוּי בּוֹ is rendered 'rests on him' to keep the sense 'depends on, is attributed to'; 'hangs' is given in the literal line. The impersonal 'they do not give him the means' is kept as an impersonal plural, as in the Hebrew. The pack lists no entry for the verb חָטָא or for the Hiphil of ספק, so those tokens carry no sense.",
+   "severity": "style",
+   "reason": "The old note cited misfit senses for שֵׁם and יָשַׁב, which do not occur in this mishnah."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.3.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to give' is 1.1.1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.6.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to give' is 1.1.1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.8.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to give' is 1.1.1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.14.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to give' is 1.1.1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.18.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to give' is 1.1.1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.22.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to give' is 1.1.1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.23.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to give' is 1.1.1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.27.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to give' is 1.1.1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.29.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to give' is 1.1.1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.5.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "Sense 1, 'be pleased with, accept favourably', is not 'want'. The nearest is Qal 1.1.3, 'to be pleased, be determined'."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.3.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to go, walk, come' is 1.1.1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.6.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to go, walk, come' is 1.1.1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.14.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to go, walk, come' is 1.1.1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.18.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to go, walk, come' is 1.1.1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.22.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to go, walk, come' is 1.1.1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.8.sense",
+   "value": "1.1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to do' is 1.1.1.1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.12.sense",
+   "value": "1.1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to do' is 1.1.1.1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.19.sense",
+   "value": "1.1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to do' is 1.1.1.1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.24.sense",
+   "value": "1.1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to do' is 1.1.1.1."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.17.sense",
+   "value": "1.1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to do' is 1.1.1.1."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.33.sense",
+   "value": "1.1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to do' is 1.1.1.1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.3.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. The Qal sense 'to sit' is 1.1.1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.18.sense",
+   "value": "1.2.1",
+   "severity": "error",
+   "reason": "This is a Hiphil ('lets out'). Sense 1, 'to go out', is the Qal meaning. The Hiphil 'cause to go out, bring out' is 1.2.1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.21.sense",
+   "value": "1.2.1",
+   "severity": "error",
+   "reason": "This is a Hiphil ('lets out'). Sense 1, 'to go out', is the Qal meaning. The Hiphil 'cause to go out, bring out' is 1.2.1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.28.sense",
+   "value": "1.2.1",
+   "severity": "error",
+   "reason": "This is a Hiphil ('lets out'). Sense 1, 'to go out', is the Qal meaning. The Hiphil 'cause to go out, bring out' is 1.2.1."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.4.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. This Qal passive participle takes the Qal sense 'to hang', 1.1.1 (here figurative: 'dependent')."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.11.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. This Qal passive participle takes the Qal sense 'to hang', 1.1.1 (here figurative: 'dependent')."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.19.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. This Qal passive participle takes the Qal sense 'to hang', 1.1.1 (here figurative: 'dependent')."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.26.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. This Qal passive participle takes the Qal sense 'to hang', 1.1.1 (here figurative: 'dependent')."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.26.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. This Qal passive participle takes the Qal sense 'to hang', 1.1.1 (here figurative: 'dependent')."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.44.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Sense 1 is the root heading. This Qal passive participle takes the Qal sense 'to hang', 1.1.1 (here figurative: 'dependent')."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.28.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "נֶאֱמַר is a Niphal ('it is said'). Sense 1, 'to say', is active. The Niphal 'to be said' is 1.2."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.46.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "נֶאֱמַר is a Niphal ('it is said'). Sense 1, 'to say', is active. The Niphal 'to be said' is 1.2."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.12.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 of Jastrow's סָפַג is only the note '(denom. of סְפוֹג)'. 'To swallow, absorb' is sense 2, and Jastrow cites this mishnah there."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.16.sense",
+   "value": "7.1",
+   "severity": "error",
+   "reason": "Sense 1 of Jastrow's כָּנַס is a cross-reference. מַכְנִיס is a Hiphil, 'to bring in', sense 7.1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.24.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Sense 1 of Jastrow's קָלַט is '[to surround,]'. 'To receive, retain, absorb' is sense 3."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.31.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Sense 1 of Jastrow's קָלַט is '[to surround,]'. 'To receive, retain, absorb' is sense 3."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.6.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 of Jastrow's בָּטֵל I is the etymology '[to be hollow]'. 'To be void ... to cease to exist' is sense 2, and Jastrow cites Ab. V, 16 there."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.8.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 of Jastrow's בָּטֵל I is the etymology '[to be hollow]'. 'To be void ... to cease to exist' is sense 2, and Jastrow cites Ab. V, 16 there."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.14.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 of Jastrow's בָּטֵל I is the etymology '[to be hollow]'. 'To be void ... to cease to exist' is sense 2, and Jastrow cites Ab. V, 16 there."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.11.sense",
+   "value": "2.9",
+   "severity": "error",
+   "reason": "Sense 1 of BDB's רַע is the label 'adj', not a meaning. For the evil (grudging) eye the sense is 2.9, 'bad, unkind (vicious in disposition)'."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.20.sense",
+   "value": "2.9",
+   "severity": "error",
+   "reason": "Sense 1 of BDB's רַע is the label 'adj', not a meaning. For the evil (grudging) eye the sense is 2.9, 'bad, unkind (vicious in disposition)'."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.4.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "לִפְנֵי is the prepositional use 'before, in the presence of' (1.7.1), not 'face' (1)."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.1.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "כָּל with an indefinite noun or a participle is 'every, any, whoever', sense 1.2."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.1.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "כָּל with an indefinite noun or a participle is 'every, any, whoever', sense 1.2."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.1.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "כָּל with an indefinite noun or a participle is 'every, any, whoever', sense 1.2."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.10.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "כָּל with an indefinite noun or a participle is 'every, any, whoever', sense 1.2."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.30.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "וְכָל עֲדָתוֹ, 'all his company': 'the whole of, all', sense 1.1."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.5.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "דָּבָר here is 'a thing, a matter', sense 1.4, not 'speech, word'."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.7.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "דָּבָר here is 'a thing, a matter', sense 1.4, not 'speech, word'."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.12.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "דָּבָר here is 'a thing, a matter', sense 1.4, not 'speech, word'."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.20.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "דָּבָר here is 'a thing, a matter', sense 1.4, not 'speech, word'."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.27.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "דָּבָר here is 'a thing, a matter', sense 1.4, not 'speech, word'."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.5.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "Here שָׁמַיִם is 'Heaven' as the abode of God, standing for God (sense 1.2), not the sky."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.10.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "Here שָׁמַיִם is 'Heaven' as the abode of God, standing for God (sense 1.2), not the sky."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.19.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "Here שָׁמַיִם is 'Heaven' as the abode of God, standing for God (sense 1.2), not the sky."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.26.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "Here שָׁמַיִם is 'Heaven' as the abode of God, standing for God (sense 1.2), not the sky."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.23.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. The Amnon of this mishnah is David's son, sense 2."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.24.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. This Tamar is David's daughter, sense 4."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.30.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. King David is sense 2."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.31.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. Saul's son, David's friend, is sense 2."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.23.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is the bare name. Shammai the colleague of Hillel is sense 2."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.29.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. Korah, leader of the rebellion (Num 16), is sense 2."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.19.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. Moses the prophet and lawgiver is sense 2."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.24.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 of Jastrow's זְכוּת is only '(זָכָה)'. 'Merit' is sense 4."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.36.sense",
+   "value": "3.1",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. In Deut 33:21 Israel is the nation, sense 3.1."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.60.sense",
+   "value": "3.2",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. In 1 Kings 15:30 Israel is the northern kingdom under Jeroboam, sense 3.2."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.37.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. Jeroboam son of Nebat, the first king of the north, is sense 2."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.52.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. Jeroboam son of Nebat, the first king of the north, is sense 2."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.54.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is the name's meaning. Nebat, Jeroboam's father, is sense 2."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.1.lex",
+   "value": "jastrow:אַרְבַּע",
+   "severity": "error",
+   "reason": "bdbs:אַרְבַּע is the proper name Arba. The numeral 'four' is jastrow:אַרְבַּע, sense 1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.1.lex",
+   "value": "jastrow:אַרְבַּע",
+   "severity": "error",
+   "reason": "bdbs:אַרְבַּע is the proper name Arba. The numeral 'four' is jastrow:אַרְבַּע, sense 1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.1.lex",
+   "value": "jastrow:אַרְבַּע",
+   "severity": "error",
+   "reason": "bdbs:אַרְבַּע is the proper name Arba. The numeral 'four' is jastrow:אַרְבַּע, sense 1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.2.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה is 'tribute', a different word. The pack lists Jastrow's מִדָּה, 'measure'."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.2.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow's sense 1 is a cross-reference. 'Measure' is sense 2. The Mishnaic 'type, disposition' derives from it."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.2.note",
+   "value": "מִדָּה, 'measure', in Mishnaic Hebrew also 'disposition, type of person'. 'Four types' (אַרְבַּע מִדּוֹת) heads each saying of 5:10-15.",
+   "severity": "style",
+   "reason": "A learner note for the key term."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.2.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה is 'tribute', a different word. The pack lists Jastrow's מִדָּה, 'measure'."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.2.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow's sense 1 is a cross-reference. 'Measure' is sense 2. The Mishnaic 'type, disposition' derives from it."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.2.note",
+   "value": "מִדָּה, 'measure', in Mishnaic Hebrew also 'disposition, type of person'. 'Four types' (אַרְבַּע מִדּוֹת) heads each saying of 5:10-15.",
+   "severity": "style",
+   "reason": "A learner note for the key term."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.2.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה is 'tribute', a different word. The pack lists Jastrow's מִדָּה, 'measure'."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.2.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow's sense 1 is a cross-reference. 'Measure' is sense 2. The Mishnaic 'type, disposition' derives from it."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.2.note",
+   "value": "מִדָּה, 'measure', in Mishnaic Hebrew also 'disposition, type of person'. 'Four types' (אַרְבַּע מִדּוֹת) heads each saying of 5:10-15.",
+   "severity": "style",
+   "reason": "A learner note for the key term."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.4.lex",
+   "value": "jastrow:צְדָקָה",
+   "severity": "error",
+   "reason": "BDB's צְדָקָה has only biblical senses ('righteousness'). Jastrow's sense 1 gives the Mishnaic sense of this mishnah, 'liberality, esp. almsgiving'."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.10.lex",
+   "value": "jastrow:עַיִן",
+   "severity": "error",
+   "reason": "bdbs:עַיִן is the place name Ain. 'Eye' is jastrow:עַיִן, sense 1."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.19.lex",
+   "value": "jastrow:עַיִן",
+   "severity": "error",
+   "reason": "bdbs:עַיִן is the place name Ain. 'Eye' is jastrow:עַיִן, sense 1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.4.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith. 'House' is jastrow:בַּיִת."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.4.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow's sense 1 is etymology. 'House' is sense 2."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.7.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.13.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.10.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.13.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.25.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.8.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.11.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.24.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.5.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.14.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?'. The negative אֵין, 'not, there is not', is jastrow:אֵין, sense 1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.9.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the proper name Sacar. 'Wages, reward' is jastrow:שָׂכָר, sense 1."
+  },
+  {
+   "ref": "5:14",
+   "path": "token:5:14.15.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the proper name Sacar. 'Wages, reward' is jastrow:שָׂכָר, sense 1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.9.lex",
+   "value": "jastrow:נָפָה II",
+   "severity": "error",
+   "reason": "jastrow:נָפָה I is the verb (Pi. נִיפָּה). The noun 'sieve' is jastrow:נָפָה II, sense 1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.27.lex",
+   "value": "jastrow:נָפָה II",
+   "severity": "error",
+   "reason": "jastrow:נָפָה I is the verb (Pi. נִיפָּה). The noun 'sieve' is jastrow:נָפָה II, sense 1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.17.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is glossed 'lamb, sheep' (a confusion with שֶׂה). The demonstrative זֶה/זוֹ 'this' is jastrow:זֶה, sense 1."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.19.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is glossed 'lamb, sheep' (a confusion with שֶׂה). The demonstrative זֶה/זוֹ 'this' is jastrow:זֶה, sense 1."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.21.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is glossed 'lamb, sheep' (a confusion with שֶׂה). The demonstrative זֶה/זוֹ 'this' is jastrow:זֶה, sense 1."
+  },
+  {
+   "ref": "5:16",
+   "path": "token:5:16.28.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is glossed 'lamb, sheep' (a confusion with שֶׂה). The demonstrative זֶה/זוֹ 'this' is jastrow:זֶה, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.20.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is glossed 'lamb, sheep' (a confusion with שֶׂה). The demonstrative זֶה/זוֹ 'this' is jastrow:זֶה, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.27.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is glossed 'lamb, sheep' (a confusion with שֶׂה). The demonstrative זֶה/זוֹ 'this' is jastrow:זֶה, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.4.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the proper name Shem. 'Name' (לְשֵׁם, 'for the sake of') is jastrow:שֵׁם II, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.9.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the proper name Shem. 'Name' (לְשֵׁם, 'for the sake of') is jastrow:שֵׁם II, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.18.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the proper name Shem. 'Name' (לְשֵׁם, 'for the sake of') is jastrow:שֵׁם II, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.25.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the proper name Shem. 'Name' (לְשֵׁם, 'for the sake of') is jastrow:שֵׁם II, sense 1."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.22.lex",
+   "value": "jastrow:הִלֵּל",
+   "severity": "error",
+   "reason": "bdbs:הָלַל is the verb 'to shine, praise'. The sage is jastrow:הִלֵּל."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.22.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Hillel the Elder, Shammai's colleague, is Jastrow's sense 2."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.31.lex",
+   "value": "jastrow:עֵדָה I",
+   "severity": "error",
+   "reason": "bdbs:עֵדָה is 'testimony'. Korah's 'company, congregation' is jastrow:עֵדָה I, sense 1."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.4.lex",
+   "value": "jastrow:רַב I",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', and its other senses are 'great' and 'captain'. jastrow:רַב I, 'large, great; much', is the Hebrew adjective of הָרַבִּים, 'the many'."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.13.lex",
+   "value": "jastrow:רַב I",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', and its other senses are 'great' and 'captain'. jastrow:רַב I, 'large, great; much', is the Hebrew adjective of הָרַבִּים, 'the many'."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.23.lex",
+   "value": "jastrow:רַב I",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', and its other senses are 'great' and 'captain'. jastrow:רַב I, 'large, great; much', is the Hebrew adjective of הָרַבִּים, 'the many'."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.25.lex",
+   "value": "jastrow:רַב I",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', and its other senses are 'great' and 'captain'. jastrow:רַב I, 'large, great; much', is the Hebrew adjective of הָרַבִּים, 'the many'."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.41.lex",
+   "value": "jastrow:רַב I",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', and its other senses are 'great' and 'captain'. jastrow:רַב I, 'large, great; much', is the Hebrew adjective of הָרַבִּים, 'the many'."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.43.lex",
+   "value": "jastrow:רַב I",
+   "severity": "error",
+   "reason": "Sense 1 of bdbs:רַב is the label 'adj', and its other senses are 'great' and 'captain'. jastrow:רַב I, 'large, great; much', is the Hebrew adjective of הָרַבִּים, 'the many'."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.4.note",
+   "value": "הָרַבִּים, the plural adjective with the article used as a noun: 'the many', the public, the community.",
+   "severity": "style",
+   "reason": "A learner note."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.13.note",
+   "value": "הָרַבִּים, the plural adjective with the article used as a noun: 'the many', the public, the community.",
+   "severity": "style",
+   "reason": "A learner note."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.23.note",
+   "value": "הָרַבִּים, the plural adjective with the article used as a noun: 'the many', the public, the community.",
+   "severity": "style",
+   "reason": "A learner note."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.25.note",
+   "value": "הָרַבִּים, the plural adjective with the article used as a noun: 'the many', the public, the community.",
+   "severity": "style",
+   "reason": "A learner note."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.41.note",
+   "value": "הָרַבִּים, the plural adjective with the article used as a noun: 'the many', the public, the community.",
+   "severity": "style",
+   "reason": "A learner note."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.43.note",
+   "value": "הָרַבִּים, the plural adjective with the article used as a noun: 'the many', the public, the community.",
+   "severity": "style",
+   "reason": "A learner note."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.7.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is a noun (= אַבָּא, 'father'). The participle 'coming' is jastrow:בָּא III, sense 1."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.7.note",
+   "value": "Qal participle of בוא. In hollow verbs it has the same form as the perfect בָּא, but after אֵין it is the participle: 'no sin comes'.",
+   "severity": "error",
+   "reason": "The morphology parsed it as a perfect. A learner needs to know why it is a participle."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.9.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אַחַר is the adverb 'after', a different word. The pack lists no entry for the adjective אַחֵר, 'other', so the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.9.note",
+   "value": "Plural of the adjective אַחֵר, 'other', used as a noun: 'others'. The linked entry (BDB אַחַר, 'after') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.13.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אַחַר is the adverb 'after', a different word. The pack lists no entry for the adjective אַחֵר, 'other', so the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.13.note",
+   "value": "Plural of the adjective אַחֵר, 'other', used as a noun: 'others'. The linked entry (BDB אַחַר, 'after') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.15.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אַחַר is the adverb 'after', a different word. The pack lists no entry for the adjective אַחֵר, 'other', so the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.15.note",
+   "value": "Plural of the adjective אַחֵר, 'other', used as a noun: 'others'. The linked entry (BDB אַחַר, 'after') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.24.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אַחַר is the adverb 'after', a different word. The pack lists no entry for the adjective אַחֵר, 'other', so the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.24.note",
+   "value": "Plural of the adjective אַחֵר, 'other', used as a noun: 'others'. The linked entry (BDB אַחַר, 'after') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.30.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אַחַר is the adverb 'after', a different word. The pack lists no entry for the adjective אַחֵר, 'other', so the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "token:5:13.30.note",
+   "value": "Plural of the adjective אַחֵר, 'other', used as a noun: 'others'. The linked entry (BDB אַחַר, 'after') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.13.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.13.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.22.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.22.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.25.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.25.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.29.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.29.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.32.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.32.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.3.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.3.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.12.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.12.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.22.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.22.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.40.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.40.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.59.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת is 'ploughshare', a different word from the object marker. The pack lists no entry for the marker, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.59.note",
+   "value": "The marker of a definite direct object; no English counterpart. The linked entry (BDB 'ploughshare') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.26.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:שָׁמַר is the verb 'to keep'. שְׁמָרִים is the noun 'dregs' (sg. שֶׁמֶר), and the pack lists no entry for it, so the sense is removed."
+  },
+  {
+   "ref": "5:15",
+   "path": "token:5:15.26.note",
+   "value": "שְׁמָרִים, 'dregs, lees' (sg. שֶׁמֶר), the sediment the strainer holds back. The linked entry (BDB שָׁמַר, 'to keep') is the verb, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.7.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:קְיָם is the Aramaic noun 'decree, statute', not the verb. The pack lists no entry for the Hitpael of קום, so the sense is removed."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.7.note",
+   "value": "Hitpael infinitive with לְ of קום (Mishnaic by-form קיים): 'to be established, to endure'. סוֹפָהּ לְהִתְקַיֵּם, 'its end is to endure'. The linked entry (קְיָם, 'decree') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.13.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:קְיָם is the Aramaic noun 'decree, statute', not the verb. The pack lists no entry for the Hitpael of קום, so the sense is removed."
+  },
+  {
+   "ref": "5:17",
+   "path": "token:5:17.13.note",
+   "value": "Hitpael infinitive with לְ of קום (Mishnaic by-form קיים): 'to be established, to endure'. סוֹפָהּ לְהִתְקַיֵּם, 'its end is to endure'. The linked entry (קְיָם, 'decree') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.11.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חֵטְא is the noun 'sin'. This token is the verb חָטָא (Qal 'sinned', Hiphil 'caused to sin'), and the pack lists no verb entry, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.38.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חֵטְא is the noun 'sin'. This token is the verb חָטָא (Qal 'sinned', Hiphil 'caused to sin'), and the pack lists no verb entry, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.39.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חֵטְא is the noun 'sin'. This token is the verb חָטָא (Qal 'sinned', Hiphil 'caused to sin'), and the pack lists no verb entry, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.56.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חֵטְא is the noun 'sin'. This token is the verb חָטָא (Qal 'sinned', Hiphil 'caused to sin'), and the pack lists no verb entry, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.58.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חֵטְא is the noun 'sin'. This token is the verb חָטָא (Qal 'sinned', Hiphil 'caused to sin'), and the pack lists no verb entry, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.11.note",
+   "value": "Hiphil participle of חָטָא with the article, 'the one who causes to sin'. The linked entry is the noun חֵטְא, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.38.note",
+   "value": "Qal perfect of חָטָא, 'sinned'. The linked entry is the noun חֵטְא, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.56.note",
+   "value": "Qal perfect of חָטָא, 'sinned'. The linked entry is the noun חֵטְא, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.39.note",
+   "value": "Hiphil perfect of חָטָא, 'caused to sin'. The linked entry is the noun חֵטְא, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.58.note",
+   "value": "Hiphil perfect of חָטָא, 'caused to sin'. The linked entry is the noun חֵטְא, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.15.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:סָפֵק is the noun 'doubt'. מַסְפִּיקִין is the Hiphil participle of the verb ספק, 'to supply, enable', and the pack lists no entry for it, so the sense is removed."
+  },
+  {
+   "ref": "5:18",
+   "path": "token:5:18.15.note",
+   "value": "Hiphil participle, masculine plural (Mishnaic ־ִין for ־ִים), of ספק, 'to supply, give the means'. An impersonal plural: 'they' (Heaven) do not grant it. The linked entry (סָפֵק, 'doubt') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "5:13",
+   "path": "morph:5:13.11",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רעע",
+    "morphemes": [
+     {
+      "form": "רָעָה",
+      "lemma": "רַע",
+      "pos": "adjective",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The lemma of an adjective is the singular absolute, רַע. רָע is the pausal form."
+  },
+  {
+   "ref": "5:13",
+   "path": "morph:5:13.20",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רעע",
+    "morphemes": [
+     {
+      "form": "רָעָה",
+      "lemma": "רַע",
+      "pos": "adjective",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The lemma of an adjective is the singular absolute, רַע. רָע is the pausal form."
+  },
+  {
+   "ref": "5:17",
+   "path": "morph:5:17.7",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קום",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "הִתְקַיֵּם",
+      "lemma": "קוּם",
+      "pos": "verb",
+      "parse": "hitpael, infinitive construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The root is קום: הִתְקַיֵּם is the Mishnaic Hitpael built on the by-form קיים (as Piel קִיֵּם). 'קיים' is not a root, and קָיַם is no attested Qal; that lemma linked the token to the Aramaic noun קְיָם, 'decree'. The lemma is the lexicon headword of the hollow root, קוּם."
+  },
+  {
+   "ref": "5:17",
+   "path": "morph:5:17.13",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קום",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "הִתְקַיֵּם",
+      "lemma": "קוּם",
+      "pos": "verb",
+      "parse": "hitpael, infinitive construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The root is קום: הִתְקַיֵּם is the Mishnaic Hitpael built on the by-form קיים (as Piel קִיֵּם). 'קיים' is not a root, and קָיַם is no attested Qal; that lemma linked the token to the Aramaic noun קְיָם, 'decree'. The lemma is the lexicon headword of the hollow root, קוּם."
+  },
+  {
+   "ref": "5:17",
+   "path": "morph:5:17.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "חלק",
+    "morphemes": [
+     {
+      "form": "מַחֲלֹקֶת",
+      "lemma": "מַחֲלֹקֶת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מַחֲלֹקֶת הִלֵּל וְשַׁמַּאי / מַחֲלֹקֶת קֹרַח: the noun is bound to the names, 'the dispute of'. That is the construct state; the form is the same as the absolute."
+  },
+  {
+   "ref": "5:17",
+   "path": "morph:5:17.28",
+   "value": {
+    "lang": "mishnaic",
+    "root": "חלק",
+    "morphemes": [
+     {
+      "form": "מַחֲלֹקֶת",
+      "lemma": "מַחֲלֹקֶת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מַחֲלֹקֶת הִלֵּל וְשַׁמַּאי / מַחֲלֹקֶת קֹרַח: the noun is bound to the names, 'the dispute of'. That is the construct state; the form is the same as the absolute."
+  },
+  {
+   "ref": "5:17",
+   "path": "morph:5:17.31",
+   "value": {
+    "lang": "mishnaic",
+    "root": "יעד",
+    "morphemes": [
+     {
+      "form": "עֲדָת",
+      "lemma": "עֵדָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     },
+     {
+      "form": "וֹ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עֵדָה 'congregation, company' is from יעד ('appoint, meet'), as Jastrow's '[appointed meeting,]' shows; עדה is not its root."
+  },
+  {
+   "ref": "5:18",
+   "path": "morph:5:18.7",
+   "value": {
+    "lang": "mishnaic",
+    "root": "בוא",
+    "morphemes": [
+     {
+      "form": "בָּא",
+      "lemma": "בָּא",
+      "pos": "verb",
+      "parse": "qal, participle active, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "After אֵין the verb is the participle ('no sin comes'). In the hollow verb בוא the participle has the same form as the perfect."
+  },
+  {
+   "ref": "5:18",
+   "path": "morph:5:18.42",
+   "value": {
+    "lang": "mishnaic",
+    "root": "חטא",
+    "morphemes": [
+     {
+      "form": "חֵטְא",
+      "lemma": "חֵטְא",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "חֵטְא הָרַבִּים, 'the sin of the many', is a construct chain, parallel to זְכוּת הָרַבִּים (5:18.24), which is parsed as construct."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:5:13:1",
+   "verdict": "consistent",
+   "comment": "'Four types in giving charity' follows his 'in the giving of charity'."
+  },
+  {
+   "anchor": "bartenura:5:13:2",
+   "verdict": "consistent",
+   "comment": "'Toward what belongs to others' allows both of his explanations."
+  },
+  {
+   "anchor": "rambam:5:13:1",
+   "verdict": "contradicts",
+   "comment": "Rambam's pious man wants others to show mercy too. The English 'One who gives, and others give too' made it a fact; the english patch restores 'wants'."
+  },
+  {
+   "anchor": "bartenura:5:14:1",
+   "verdict": "consistent",
+   "comment": "'Does' admits his reading (study and review); the translator records it."
+  },
+  {
+   "anchor": "bartenura:5:14:2",
+   "verdict": "consistent",
+   "comment": "As above."
+  },
+  {
+   "anchor": "rambam:5:14:1",
+   "verdict": "contradicts",
+   "comment": "Rambam: the four types are in the going to the house of study. The English 'among those who go' contradicted this; the english patch adopts 'in going to'."
+  },
+  {
+   "anchor": "rambam:5:14:2",
+   "verdict": "not-applicable",
+   "comment": "A general excursus on virtues and names."
+  },
+  {
+   "anchor": "bartenura:5:15:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:15:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:15:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:15:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:15:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:15:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:15:1",
+   "verdict": "consistent",
+   "comment": "The images are kept, and 'fine meal' / 'choice flour' follows him."
+  },
+  {
+   "anchor": "bartenura:5:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:16:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:16:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:17:1",
+   "verdict": "consistent",
+   "comment": "'Will in the end endure' allows both of his readings."
+  },
+  {
+   "anchor": "bartenura:5:18:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:18:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:18:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:18:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:18:5",
+   "verdict": "consistent"
+  }
+ ]
+}

@@ -1,0 +1,1269 @@
+{
+ "unit": "lekh-lekha-13",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "16:9",
+   "english": "The messenger of the LORD said to her, \"Go back to your mistress, and submit to her authority.\"",
+   "literal": "and-said to-her messenger-of LORD return-(f) to mistress-your and-humble-yourself-(f) under hands-of-her",
+   "tokens": [
+    {
+     "id": "16:9.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative past"
+    },
+    {
+     "id": "16:9.2",
+     "gloss": "to her"
+    },
+    {
+     "id": "16:9.3",
+     "gloss": "messenger of",
+     "sense": "3",
+     "note": "construct state"
+    },
+    {
+     "id": "16:9.4",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "16:9.5",
+     "gloss": "go back",
+     "sense": "Qal 2",
+     "note": "feminine singular imperative"
+    },
+    {
+     "id": "16:9.6",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "16:9.7",
+     "gloss": "your mistress",
+     "sense": "2",
+     "note": "construct with 2fs suffix"
+    },
+    {
+     "id": "16:9.8",
+     "gloss": "and submit yourself",
+     "sense": "Hithp 1",
+     "note": "hitpael imperative: 'humble yourself'; ties to the verb of 16:6"
+    },
+    {
+     "id": "16:9.9",
+     "gloss": "under"
+    },
+    {
+     "id": "16:9.10",
+     "gloss": "her authority",
+     "sense": "2",
+     "note": "dual construct, literally 'her hands'; idiom for 'in her power'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:9.1",
+      "16:9.2"
+     ],
+     "english": "said to her",
+     "literal": "and-said to-her"
+    },
+    {
+     "tokens": [
+      "16:9.3",
+      "16:9.4"
+     ],
+     "english": "The messenger of the LORD",
+     "literal": "messenger-of LORD"
+    },
+    {
+     "tokens": [
+      "16:9.5",
+      "16:9.6",
+      "16:9.7"
+     ],
+     "english": "Go back to your mistress",
+     "literal": "return to mistress-your"
+    },
+    {
+     "tokens": [
+      "16:9.8",
+      "16:9.9",
+      "16:9.10"
+     ],
+     "english": "and submit to her authority",
+     "literal": "and-humble-yourself under hands-of-her; 'under her hands' = under her control"
+    }
+   ],
+   "grammar": [
+    "שׁוּבִי is a feminine singular imperative; the final -י marks the feminine.",
+    "הִתְעַנִּי is hitpael, 'humble yourself, submit'; it recalls וַתְּעַנֶּהָ (16:6), where Sarai afflicted her.",
+    "תַּחַת יָדֶיהָ, literally 'under her hands', means in her power.",
+    "The etnaḥta falls on גְּבִרְתֵּךְ and divides the command into 'return' and 'submit'."
+   ],
+   "note": "מַלְאַךְ יְהוָה is 'messenger of the LORD'; the pack's sense 3 (theophanic angel) is followed. Rashi's note that a different angel spoke each time is a homily and is kept in commentary.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:9:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: a different angel was sent for each speech, which is why 'angel' is written each time; a homiletic reading that does not alter the plain sense."
+    },
+    {
+     "anchor": "ramban:16:9:1",
+     "relation": "records",
+     "summary": "Ramban: the order to return and submit hints that Hagar's line would never go free of Sarah's; not adopted in the English."
+    },
+    {
+     "anchor": "radak:16:9:1",
+     "relation": "records",
+     "summary": "Radak: the threefold 'and he said' either intensifies, or marks three subjects, or (midrash) three angels."
+    },
+    {
+     "anchor": "radak:16:9:2",
+     "relation": "follows",
+     "summary": "Radak: 'bear the affliction she inflicts, for it is good for you to live with Abraham, whose merit will multiply your seed.' Supports 'submit'."
+    },
+    {
+     "anchor": "onkelos:16:9:1",
+     "relation": "follows",
+     "summary": "Onkelos renders 'return to your mistress and be subject under her hands' (ואשתעבדי), agreeing with 'submit'."
+    },
+    {
+     "anchor": "sforno:16:9:1",
+     "relation": "not-applicable",
+     "summary": "Sforno compares the idiom to 'shoot, and he shot' (2 Kings 13:17): the command shapes the future. Not for the plain sense."
+    }
+   ]
+  },
+  {
+   "ref": "16:10",
+   "english": "The messenger of the LORD said to her, \"I will greatly multiply your offspring, so that they cannot be counted for their multitude.\"",
+   "literal": "and-said to-her messenger-of LORD multiplying I-will-multiply [object-marker] seed-your and-not it-will-be-counted from-multitude",
+   "tokens": [
+    {
+     "id": "16:10.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "16:10.2",
+     "gloss": "to her"
+    },
+    {
+     "id": "16:10.3",
+     "gloss": "messenger of",
+     "sense": "3"
+    },
+    {
+     "id": "16:10.4",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "16:10.5",
+     "gloss": "greatly",
+     "sense": "Hiph 1",
+     "note": "infinitive absolute before the finite verb: 'greatly, surely'"
+    },
+    {
+     "id": "16:10.6",
+     "gloss": "I will multiply",
+     "sense": "Hiph 1",
+     "note": "hifil imperfect 1cs"
+    },
+    {
+     "id": "16:10.7",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "16:10.8",
+     "gloss": "your offspring",
+     "sense": "4",
+     "note": "collective singular: 'seed'"
+    },
+    {
+     "id": "16:10.9",
+     "gloss": "and not"
+    },
+    {
+     "id": "16:10.10",
+     "gloss": "will be counted",
+     "sense": "Niph",
+     "note": "nifal imperfect"
+    },
+    {
+     "id": "16:10.11",
+     "gloss": "for multitude",
+     "note": "min of cause: 'because of abundance'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:10.1",
+      "16:10.2"
+     ],
+     "english": "said to her",
+     "literal": "and-said to-her"
+    },
+    {
+     "tokens": [
+      "16:10.3",
+      "16:10.4"
+     ],
+     "english": "The messenger of the LORD",
+     "literal": "messenger-of LORD"
+    },
+    {
+     "tokens": [
+      "16:10.5",
+      "16:10.6"
+     ],
+     "english": "I will greatly multiply",
+     "literal": "multiplying I-will-multiply; infinitive absolute intensifies"
+    },
+    {
+     "tokens": [
+      "16:10.7"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "16:10.8"
+     ],
+     "english": "your offspring",
+     "literal": "seed-your"
+    },
+    {
+     "tokens": [
+      "16:10.9",
+      "16:10.10",
+      "16:10.11"
+     ],
+     "english": "so that they cannot be counted for their multitude",
+     "literal": "and-not will-be-counted from-multitude"
+    }
+   ],
+   "grammar": [
+    "הַרְבָּה אַרְבֶּה pairs an infinitive absolute with a finite verb of the same root, for emphasis.",
+    "זַרְעֵךְ is a singular collective; the English plural 'they' follows the sense.",
+    "מֵרֹב: מִן expresses cause, 'from (sheer) abundance'.",
+    "The speaker is the messenger, but he speaks as the LORD himself: first person 'I will multiply'."
+   ],
+   "note": "The narrator makes the messenger speak in the LORD's first person; Radak explains this. Radak also reads 'cannot be counted' as hyperbole.",
+   "commentary": [
+    {
+     "anchor": "radak:16:10:1",
+     "relation": "follows",
+     "summary": "Radak: the messenger is God's envoy and speaks in His name as if he spoke the words himself; this explains 'I will multiply'."
+    },
+    {
+     "anchor": "radak:16:10:2",
+     "relation": "follows",
+     "summary": "Radak: 'cannot be counted for multitude' is hyperbole."
+    },
+    {
+     "anchor": "onkelos:16:10:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'I will multiply your sons greatly, and they will not be counted for multitude'."
+    }
+   ]
+  },
+  {
+   "ref": "16:11",
+   "english": "The messenger of the LORD said to her, \"Here you are, pregnant: you will bear a son, and you are to name him Ishmael, for the LORD has heard your affliction.\"",
+   "literal": "and-said to-her messenger-of LORD behold-you(f) pregnant and-bearing(?) son and-call(f) name-his Ishmael because heard LORD to affliction-your",
+   "tokens": [
+    {
+     "id": "16:11.1",
+     "gloss": "and said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:11.2",
+     "gloss": "to her"
+    },
+    {
+     "id": "16:11.3",
+     "gloss": "messenger of",
+     "sense": "3"
+    },
+    {
+     "id": "16:11.4",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "16:11.5",
+     "gloss": "here you are",
+     "note": "הִנֵּה with a 2fs suffix; Ibn Ezra: the suffix is feminine, like עִמָּךְ"
+    },
+    {
+     "id": "16:11.6",
+     "gloss": "pregnant",
+     "note": "feminine adjective; Rashi takes it of conception to come, but 16:4 says she has conceived"
+    },
+    {
+     "id": "16:11.7",
+     "gloss": "and you will bear",
+     "sense": "Qal 1",
+     "note": "a rare form: apparently a blend of perfect and participle (Radak)"
+    },
+    {
+     "id": "16:11.8",
+     "gloss": "a son",
+     "sense": "1"
+    },
+    {
+     "id": "16:11.9",
+     "gloss": "and you are to name",
+     "sense": "Qal 6",
+     "note": "weqatal with 2fs ending -ת preserved; Rashi: a command"
+    },
+    {
+     "id": "16:11.10",
+     "gloss": "his name",
+     "sense": "3"
+    },
+    {
+     "id": "16:11.11",
+     "gloss": "Ishmael",
+     "note": "'God hears'; see 16:11 next clause"
+    },
+    {
+     "id": "16:11.12",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "16:11.13",
+     "gloss": "has heard",
+     "note": "qal perfect"
+    },
+    {
+     "id": "16:11.14",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "16:11.15",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "16:11.16",
+     "gloss": "your affliction",
+     "note": "construct with 2fs suffix; 'affliction' (Radak also: 'cry')"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:11.1",
+      "16:11.2"
+     ],
+     "english": "said to her",
+     "literal": "and-said to-her"
+    },
+    {
+     "tokens": [
+      "16:11.3",
+      "16:11.4"
+     ],
+     "english": "The messenger of the LORD",
+     "literal": "messenger-of LORD"
+    },
+    {
+     "tokens": [
+      "16:11.5",
+      "16:11.6"
+     ],
+     "english": "Here you are, pregnant",
+     "literal": "behold-you pregnant"
+    },
+    {
+     "tokens": [
+      "16:11.7",
+      "16:11.8"
+     ],
+     "english": "you will bear a son",
+     "literal": "and-bear(f) son"
+    },
+    {
+     "tokens": [
+      "16:11.9",
+      "16:11.10",
+      "16:11.11"
+     ],
+     "english": "and you are to name him Ishmael",
+     "literal": "and-call(f) name-his Ishmael"
+    },
+    {
+     "tokens": [
+      "16:11.12",
+      "16:11.13",
+      "16:11.14",
+      "16:11.15",
+      "16:11.16"
+     ],
+     "english": "for the LORD has heard your affliction",
+     "literal": "because heard LORD to affliction-your"
+    }
+   ],
+   "grammar": [
+    "וְיֹלַדְתְּ is an unusual form, perhaps a blend of perfect and participle; here it is future, 'you will bear'.",
+    "וְקָרָאת keeps the older ending -ת of the 2fs; it is read as a command, 'you are to call'.",
+    "הִנָּךְ has the 2fs suffix; the final ךְ is feminine.",
+    "יִשְׁמָעֵאל, 'God hears', has a silent א in its spelling; Ibn Ezra says the aleph is dropped in pronunciation to ease the tongue.",
+    "שָׁמַע ... אֶל: the LORD has heard 'to' (that is, regarding) her affliction."
+   ],
+   "note": "Rashi takes הִנָּךְ הָרָה as 'when you return you will conceive'. The English keeps 'you are pregnant' because 16:4 says Hagar had already conceived and Radak reads it so; Rashi's reading is recorded. The name is explained by the clause 'the LORD has heard', not in the English line.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:11:1",
+     "relation": "records",
+     "summary": "Rashi: 'when you return you will conceive'; the same words הִנָּךְ הָרָה are said to Manoah's wife (Judg 13:5), who had not yet conceived. Not adopted: 16:4 says Hagar had already conceived (Rashi's reading presupposes the midrash that she lost that pregnancy)."
+    },
+    {
+     "anchor": "rashi:16:11:2",
+     "relation": "follows",
+     "summary": "Rashi: וְיֹלַדְתְּ means 'and you are bearing' (like יוֹלֶדֶת), as in 'inhabitant of Lebanon' with a final -ת (Jer 22:23). The English takes it as future-near, 'you will bear'."
+    },
+    {
+     "anchor": "rashi:16:11:3",
+     "relation": "follows",
+     "summary": "Rashi: וְקָרָאת שְׁמוֹ is a command, as in 'and you shall call his name Isaac' (17:19). Hence 'you are to name him'."
+    },
+    {
+     "anchor": "ibn-ezra:16:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הִנָּךְ is the feminine, for הֵן is a particle like 'with', its pattern like עִמָּךְ; so 'here you are'."
+    },
+    {
+     "anchor": "ibn-ezra:16:11:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: the aleph of the name is quiescent, not pronounced, to ease the tongue; a note on pronunciation, not on the sense."
+    },
+    {
+     "anchor": "ramban:16:11:1",
+     "relation": "records",
+     "summary": "Ramban: the messenger commands Hagar to name him Ishmael; she tells Abram, who confirms the name. Rashi: Abram named him by the holy spirit."
+    },
+    {
+     "anchor": "radak:16:11:1",
+     "relation": "follows",
+     "summary": "Radak: she already knew she was pregnant; the opening phrase introduces the good news."
+    },
+    {
+     "anchor": "radak:16:11:3",
+     "relation": "records",
+     "summary": "Radak: the form is a blend of perfect and participle."
+    },
+    {
+     "anchor": "radak:16:11:4",
+     "relation": "follows",
+     "summary": "Radak: here the ת of וְקָרָאת marks the second person feminine, addressed to Hagar; in וְקָרָאת אֶתְכֶם (Deut 31:29), by contrast, the ת marks the third person feminine, like the ה of וְקָרְאָה."
+    },
+    {
+     "anchor": "radak:16:11:5",
+     "relation": "follows",
+     "summary": "Radak: 'to your affliction' means the cry that she uttered in her affliction."
+    },
+    {
+     "anchor": "radak:16:11:7",
+     "relation": "records",
+     "summary": "Radak: עָנְיֵךְ also means 'your cry', like וַיַּעַן אִיּוֹב."
+    },
+    {
+     "anchor": "onkelos:16:11:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'the LORD has received your prayer' (צְלוֹתִיךְ), taking affliction as the cry in it."
+    }
+   ]
+  },
+  {
+   "ref": "16:12",
+   "english": "He will be a wild ass of a man, his hand against everyone and everyone's hand against him, and he will dwell over against all his kin.",
+   "literal": "and-he will-be wild-ass-of man hand-his in-the-all and-hand-of all in-him and-upon face-of all brothers-his he-will-dwell",
+   "tokens": [
+    {
+     "id": "16:12.1",
+     "gloss": "and he"
+    },
+    {
+     "id": "16:12.2",
+     "gloss": "will be",
+     "sense": "Qal II.2",
+     "note": "'become'"
+    },
+    {
+     "id": "16:12.3",
+     "gloss": "wild ass of",
+     "note": "a construct: 'a wild ass among men'; ambiguity noted"
+    },
+    {
+     "id": "16:12.4",
+     "gloss": "a man",
+     "sense": "2"
+    },
+    {
+     "id": "16:12.5",
+     "gloss": "his hand",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "16:12.6",
+     "gloss": "against everyone",
+     "sense": "2.a",
+     "note": "בַּכֹּל, literally 'in everything'; Rashi: a robber"
+    },
+    {
+     "id": "16:12.7",
+     "gloss": "and the hand of",
+     "sense": "1"
+    },
+    {
+     "id": "16:12.8",
+     "gloss": "everyone",
+     "sense": "2.a"
+    },
+    {
+     "id": "16:12.9",
+     "gloss": "against him"
+    },
+    {
+     "id": "16:12.10",
+     "gloss": "and over",
+     "sense": "II",
+     "note": "עַל־פְּנֵי: 'over against, in the face of'"
+    },
+    {
+     "id": "16:12.11",
+     "gloss": "against",
+     "sense": "I.6"
+    },
+    {
+     "id": "16:12.12",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "16:12.13",
+     "gloss": "his kin",
+     "sense": "1",
+     "note": "'his brothers'"
+    },
+    {
+     "id": "16:12.14",
+     "gloss": "he will dwell",
+     "sense": "Qal 2",
+     "note": "imperfect"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:12.1",
+      "16:12.2"
+     ],
+     "english": "He will be",
+     "literal": "and-he will-be"
+    },
+    {
+     "tokens": [
+      "16:12.3",
+      "16:12.4"
+     ],
+     "english": "a wild ass of a man",
+     "literal": "wild-ass-of man; a wild ass of a human, a wild man"
+    },
+    {
+     "tokens": [
+      "16:12.5",
+      "16:12.6"
+     ],
+     "english": "his hand against everyone",
+     "literal": "hand-his in-all; Rashi: a robber"
+    },
+    {
+     "tokens": [
+      "16:12.7",
+      "16:12.8",
+      "16:12.9"
+     ],
+     "english": "and everyone's hand against him",
+     "literal": "and-hand-of all in-him; Rashi: all hate and attack him"
+    },
+    {
+     "tokens": [
+      "16:12.10",
+      "16:12.11",
+      "16:12.12",
+      "16:12.13",
+      "16:12.14"
+     ],
+     "english": "and he will dwell over against all his kin",
+     "literal": "and-upon face-of all brothers-his he-will-dwell"
+    }
+   ],
+   "grammar": [
+    "פֶּרֶא אָדָם is a construct: 'wild ass of man'. Ibn Ezra reports other readings: free among men (Job 39:5), or two items, 'wild ass and man'.",
+    "יָדוֹ בַכֹּל, 'his hand in everything', is read by Rashi as a robber; יַד כֹּל בּוֹ, 'everyone's hand against him', answers it.",
+    "עַל־פְּנֵי is 'in the face of, over against'; 25:18 uses נָפַל in the same phrase.",
+    "The etnaḥta on בּוֹ divides the verse after the double saying about the hand."
+   ],
+   "note": "'Wild ass of a man' keeps the construct. Rashi and Ibn Ezra differ on 'upon the face of all his brothers': Rashi sees a great offspring; Ibn Ezra identifies the brothers as the sons of Keturah. The English 'over against' is neutral to both.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:12:1",
+     "relation": "follows",
+     "summary": "Rashi: he loves the wilds, hunting animals, like 'he dwelt in the wilderness and became an archer' (21:20)."
+    },
+    {
+     "anchor": "rashi:16:12:2",
+     "relation": "follows",
+     "summary": "Rashi: יָדוֹ בַכֹּל, 'a robber'."
+    },
+    {
+     "anchor": "rashi:16:12:3",
+     "relation": "follows",
+     "summary": "Rashi: everyone hates him and provokes him; hence 'everyone's hand against him'."
+    },
+    {
+     "anchor": "rashi:16:12:4",
+     "relation": "records",
+     "summary": "Rashi (Gen. Rabbah): 'will dwell upon the face of all his brothers' means that his seed will be great."
+    },
+    {
+     "anchor": "ibn-ezra:16:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: free among men, as in Job 39:5; no stranger of his family will rule him. Others: 'wild ass and man'. His own view: among men he is like a wild ass who overcomes all by strength, and later everyone's hand is against him; so too Daniel (the fourth beast)."
+    },
+    {
+     "anchor": "ibn-ezra:16:12:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: the brothers are the sons of Keturah; 25:18 says the same, and Midianites are called Ishmaelites."
+    },
+    {
+     "anchor": "ramban:16:12:1",
+     "relation": "records",
+     "summary": "Ramban cites Rashi and Ibn Ezra; his own view: 'wild ass of a man' is a construct, a wilderness-man who preys and is preyed on, which refers to his descendants' wars with all peoples."
+    },
+    {
+     "anchor": "radak:16:12:1",
+     "relation": "follows",
+     "summary": "Radak: 'he' means he and his seed."
+    },
+    {
+     "anchor": "radak:16:12:2",
+     "relation": "follows",
+     "summary": "Radak: a man of the wilderness like a wild ass, for most Ishmaelites dwell in tents in the wilderness (Jer 3:2)."
+    },
+    {
+     "anchor": "radak:16:12:3",
+     "relation": "follows",
+     "summary": "Radak: a wilderness man will lay hands on neighbours and they on him; still he does not flee but dwells before them (25:18)."
+    },
+    {
+     "anchor": "onkelos:16:12:1",
+     "relation": "records",
+     "summary": "Onkelos: 'rebellious among men; he will need all, and men's hands will need him; he will dwell over all his brothers'."
+    },
+    {
+     "anchor": "sforno:16:12:1",
+     "relation": "records",
+     "summary": "Sforno: a wild ass by temperament from his Egyptian mother, a wild ass in the wilderness, and a man through his father."
+    }
+   ]
+  },
+  {
+   "ref": "16:13",
+   "english": "She called the name of the LORD who spoke to her, \"You are El Roi,\" for she said, \"Have I even here seen, after the one who sees me?\"",
+   "literal": "and-called(f) name-of LORD the-speaking to-her you God-of seeing for said(f) also-here have-I-seen after seeing-me",
+   "tokens": [
+    {
+     "id": "16:13.1",
+     "gloss": "and she called",
+     "sense": "Qal 6",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "16:13.2",
+     "gloss": "the name of",
+     "sense": "3"
+    },
+    {
+     "id": "16:13.3",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "16:13.4",
+     "gloss": "who spoke",
+     "sense": "Qal",
+     "note": "participle with the article: 'the one speaking'"
+    },
+    {
+     "id": "16:13.5",
+     "gloss": "to her"
+    },
+    {
+     "id": "16:13.6",
+     "gloss": "you"
+    },
+    {
+     "id": "16:13.7",
+     "gloss": "God of",
+     "sense": "6",
+     "note": "construct"
+    },
+    {
+     "id": "16:13.8",
+     "gloss": "seeing",
+     "sense": "1",
+     "note": "רֳאִי, with ḥaṭef qamets, a noun: 'seeing, sight'; Rashi, Ibn Ezra"
+    },
+    {
+     "id": "16:13.9",
+     "gloss": "for",
+     "sense": "1"
+    },
+    {
+     "id": "16:13.10",
+     "gloss": "she said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:13.11",
+     "gloss": "have ... even",
+     "note": "interrogative ה with גַּם: 'really, even?'"
+    },
+    {
+     "id": "16:13.12",
+     "gloss": "here",
+     "note": "הֲלֹם: 'here' (Ibn Ezra) or 'now'"
+    },
+    {
+     "id": "16:13.13",
+     "gloss": "I have seen",
+     "sense": "Qal 1.a"
+    },
+    {
+     "id": "16:13.14",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "16:13.15",
+     "gloss": "the one who sees me",
+     "sense": "Qal 1.a",
+     "note": "participle with 1cs suffix: 'my seer'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:13.1",
+      "16:13.2",
+      "16:13.3"
+     ],
+     "english": "She called the name of the LORD",
+     "literal": "and-called name-of LORD"
+    },
+    {
+     "tokens": [
+      "16:13.4",
+      "16:13.5"
+     ],
+     "english": "who spoke to her",
+     "literal": "the-speaking to-her"
+    },
+    {
+     "tokens": [
+      "16:13.6",
+      "16:13.7",
+      "16:13.8"
+     ],
+     "english": "You are El Roi",
+     "literal": "you God-of seeing"
+    },
+    {
+     "tokens": [
+      "16:13.9",
+      "16:13.10"
+     ],
+     "english": "for she said",
+     "literal": "for said(f)"
+    },
+    {
+     "tokens": [
+      "16:13.11",
+      "16:13.12",
+      "16:13.13"
+     ],
+     "english": "Have I even here seen",
+     "literal": "have-also here I-saw; Rashi 'even here', Ibn Ezra 'also here'"
+    },
+    {
+     "tokens": [
+      "16:13.14",
+      "16:13.15"
+     ],
+     "english": "after the one who sees me",
+     "literal": "after seeing-me; the participle with suffix, 'my seer'"
+    }
+   ],
+   "grammar": [
+    "אֵל רֳאִי is 'God of seeing': רֳאִי is a noun, and Rashi explains the ḥaṭef qamets as marking a noun.",
+    "הֲגַם הֲלֹם is a rhetorical question; Rashi: she is amazed to see even here; Ibn Ezra: 'also here'.",
+    "אַחֲרֵי רֹאִי has a participle with 1cs suffix, 'after my seer', the text's hardest phrase.",
+    "הַדֹּבֵר אֵלֶיהָ is a participle with the article: 'the one who spoke to her'."
+   ],
+   "note": "The last clause is obscure. The English 'after the one who sees me' follows the grammar (a participle with suffix). Ibn Ezra reads: have I seen the LORD's angel here after He saw my affliction? Rashi reads: did I see a messenger of God even here after seeing them in Abraham's house? Radak: she saw nothing after he left, so he was an angel.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:13:1",
+     "relation": "follows",
+     "summary": "Rashi: the ḥaṭef qamets shows it is a noun: 'a God of seeing, who sees the humiliation of the humble'."
+    },
+    {
+     "anchor": "rashi:16:13:2",
+     "relation": "records",
+     "summary": "Rashi: 'have I even here in the wilderness seen the Lord's messenger, after seeing them at Abraham's house?' - an expression of amazement. The English keeps the participle sense."
+    },
+    {
+     "anchor": "ibn-ezra:16:13:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: רֳאִי has the pattern of the noun עֳנִי in רָאָה עֳנִי (Lam 3:1); the sense is 'God of vision' (אֵל מַרְאֶה)."
+    },
+    {
+     "anchor": "ibn-ezra:16:13:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הֲלֹם is like 'here' (1 Sam 10:22): have I seen the LORD's angel here, after He saw my affliction, for He is always my seer."
+    },
+    {
+     "anchor": "radak:16:13:1",
+     "relation": "records",
+     "summary": "Radak: she first took him for a man; when he vanished she knew he was a messenger, and named him 'God of sight'."
+    },
+    {
+     "anchor": "radak:16:13:2",
+     "relation": "follows",
+     "summary": "Radak: רֳאִי is of the same pattern as עֳנִי (Lam 3:1)."
+    },
+    {
+     "anchor": "radak:16:13:3",
+     "relation": "records",
+     "summary": "Radak: she said in her heart: a man is seen after he leaves, but I did not see even here, so this was an angel."
+    },
+    {
+     "anchor": "radak:16:13:4",
+     "relation": "follows",
+     "summary": "Radak: רֹאִי means 'the one who sees me'."
+    },
+    {
+     "anchor": "onkelos:16:13:1",
+     "relation": "records",
+     "summary": "Onkelos: 'you are the God who sees all, for she said: have I indeed here (seen) after He revealed Himself to me?'"
+    },
+    {
+     "anchor": "sforno:16:13:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: 'calling the name of the LORD' is prayer, which begins with praise."
+    },
+    {
+     "anchor": "sforno:16:13:2",
+     "relation": "not-applicable",
+     "summary": "Sforno: a God of seeing everywhere, not only in Abraham's house."
+    }
+   ],
+   "apparatus": [
+    "Hebrew difficulty: 'after my seer' (אַחֲרֵי רֹאִי) is retained; see note."
+   ]
+  },
+  {
+   "ref": "16:14",
+   "english": "Therefore the well is called Beer Lahai Roi; there it is, between Kadesh and Bered.",
+   "literal": "upon-so he-called to-the-well well-of living seeing-me behold between Kadesh and-between Bered",
+   "tokens": [
+    {
+     "id": "16:14.1",
+     "gloss": "on",
+     "sense": "II"
+    },
+    {
+     "id": "16:14.2",
+     "gloss": "so"
+    },
+    {
+     "id": "16:14.3",
+     "gloss": "one called",
+     "sense": "Qal 6",
+     "note": "qatal 3ms used impersonally: 'one called, it is called'"
+    },
+    {
+     "id": "16:14.4",
+     "gloss": "the well",
+     "sense": "1"
+    },
+    {
+     "id": "16:14.5",
+     "gloss": "Beer",
+     "note": "first part of a place name"
+    },
+    {
+     "id": "16:14.6",
+     "gloss": "Lahai",
+     "note": "'living one'"
+    },
+    {
+     "id": "16:14.7",
+     "gloss": "Roi",
+     "note": "'seeing me'"
+    },
+    {
+     "id": "16:14.8",
+     "gloss": "there it is",
+     "note": "הִנֵּה, here 'there'"
+    },
+    {
+     "id": "16:14.9",
+     "gloss": "between",
+     "sense": "1"
+    },
+    {
+     "id": "16:14.10",
+     "gloss": "Kadesh"
+    },
+    {
+     "id": "16:14.11",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "16:14.12",
+     "gloss": "Bered"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:14.1",
+      "16:14.2",
+      "16:14.3",
+      "16:14.4"
+     ],
+     "english": "Therefore the well is called",
+     "literal": "upon-so he-called to-the-well; 'one called'"
+    },
+    {
+     "tokens": [
+      "16:14.5",
+      "16:14.6",
+      "16:14.7"
+     ],
+     "english": "Beer Lahai Roi",
+     "literal": "well-of living-one seeing-me"
+    },
+    {
+     "tokens": [
+      "16:14.8"
+     ],
+     "english": "there it is",
+     "literal": "behold"
+    },
+    {
+     "tokens": [
+      "16:14.9",
+      "16:14.10",
+      "16:14.11",
+      "16:14.12"
+     ],
+     "english": "between Kadesh and Bered",
+     "literal": "between Kadesh and-between Bered"
+    }
+   ],
+   "grammar": [
+    "עַל־כֵּן, 'therefore', gives the origin of the place name; קָרָא is impersonal, 'one called'.",
+    "בְּאֵר לַחַי רֹאִי, 'well of the Living One who sees me', is a place name; Ibn Ezra reads לַחַי differently.",
+    "בֵּין ... וּבֵין is the Hebrew way to say 'between X and Y'.",
+    "הִנֵּה points to the well as a landmark."
+   ],
+   "note": "The name is transliterated; its sense, 'Well of the Living One who sees me' (BDB), is given in the glosses. Rashi refers to the Targum, 'the well at which the living angel appeared'; Radak links the name to Hagar's 'You are God of seeing' and to the angel who lives forever. Ibn Ezra reads לַחַי as 'to one who will be alive next year'; recorded.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:14:1",
+     "relation": "follows",
+     "summary": "Rashi: 'as its Targum', that is, Onkelos: 'the well at which the living (enduring) angel appeared'."
+    },
+    {
+     "anchor": "ibn-ezra:16:14:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: לַחַי is 'to one who will be alive next year', as in 'thus to the living' (1 Sam 25:6), since Ishmaelites made pilgrimage there each year; today it is called 'well of Zamum'."
+    },
+    {
+     "anchor": "radak:16:14:1",
+     "relation": "follows",
+     "summary": "Radak: the one who called the well so did it because of Hagar's 'You are God of seeing'; the angel lives forever."
+    },
+    {
+     "anchor": "radak:16:14:2",
+     "relation": "not-applicable",
+     "summary": "Radak: this well is the spring mentioned above."
+    },
+    {
+     "anchor": "radak:16:14:3",
+     "relation": "not-applicable",
+     "summary": "Radak: the location is a sign, so that people who see it praise God."
+    },
+    {
+     "anchor": "radak:16:14:4",
+     "relation": "follows",
+     "summary": "Radak: Bered is the Shur mentioned above; the place had two names."
+    },
+    {
+     "anchor": "onkelos:16:14:1",
+     "relation": "records",
+     "summary": "Onkelos: 'the well at which the living (enduring) angel appeared; it is between Rekem and Hagra'."
+    }
+   ]
+  },
+  {
+   "ref": "16:15",
+   "english": "Hagar bore Abram a son, and Abram named his son, whom Hagar bore, Ishmael.",
+   "literal": "and-bore Hagar to-Abram son and-called Abram name-of son-his whom bore Hagar Ishmael",
+   "tokens": [
+    {
+     "id": "16:15.1",
+     "gloss": "and bore",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 3fs"
+    },
+    {
+     "id": "16:15.2",
+     "gloss": "Hagar"
+    },
+    {
+     "id": "16:15.3",
+     "gloss": "to Abram"
+    },
+    {
+     "id": "16:15.4",
+     "gloss": "a son",
+     "sense": "1"
+    },
+    {
+     "id": "16:15.5",
+     "gloss": "and called",
+     "sense": "Qal 6"
+    },
+    {
+     "id": "16:15.6",
+     "gloss": "Abram"
+    },
+    {
+     "id": "16:15.7",
+     "gloss": "the name of",
+     "sense": "3"
+    },
+    {
+     "id": "16:15.8",
+     "gloss": "his son",
+     "sense": "1"
+    },
+    {
+     "id": "16:15.9",
+     "gloss": "whom"
+    },
+    {
+     "id": "16:15.10",
+     "gloss": "bore",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:15.11",
+     "gloss": "Hagar"
+    },
+    {
+     "id": "16:15.12",
+     "gloss": "Ishmael"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:15.1",
+      "16:15.2",
+      "16:15.3",
+      "16:15.4"
+     ],
+     "english": "Hagar bore Abram a son",
+     "literal": "and-bore Hagar to-Abram son"
+    },
+    {
+     "tokens": [
+      "16:15.5",
+      "16:15.6",
+      "16:15.7",
+      "16:15.8"
+     ],
+     "english": "and Abram named his son",
+     "literal": "and-called Abram name-of son-his"
+    },
+    {
+     "tokens": [
+      "16:15.9",
+      "16:15.10",
+      "16:15.11"
+     ],
+     "english": "whom Hagar bore",
+     "literal": "whom bore Hagar"
+    },
+    {
+     "tokens": [
+      "16:15.12"
+     ],
+     "english": "Ishmael",
+     "literal": "Ishmael"
+    }
+   ],
+   "grammar": [
+    "וַתֵּלֶד is the wayyiqtol 3fs of יָלַד, the 'bore'.",
+    "The relative clause אֲשֶׁר־יָלְדָה הָגָר is inserted before the name Ishmael: the name is delayed to the end.",
+    "Abram, not Hagar, names the child: the text does not say how he learnt the name.",
+    "The darga and tevir give the clause its rhythm; the etnaḥta divides the verse after 'a son'."
+   ],
+   "note": "Rashi: Abram did not hear the messenger's words but the holy spirit rested on him; Radak: Hagar told Abram. Both are alternatives to the plain statement that Abram named him.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:15:1",
+     "relation": "records",
+     "summary": "Rashi: though Abram did not hear the messenger, the holy spirit rested on him and he named him Ishmael. The English states only that Abram named him."
+    },
+    {
+     "anchor": "radak:16:15:1",
+     "relation": "records",
+     "summary": "Radak: Hagar told Abram the angel's words; both named him Ishmael, as Adam and Eve named Seth, and Rachel and Jacob named Benjamin."
+    },
+    {
+     "anchor": "onkelos:16:15:1",
+     "relation": "follows",
+     "summary": "Onkelos agrees with the English: 'Hagar bore Abram a son, and Abram called the name of his son Ishmael'."
+    },
+    {
+     "anchor": "sforno:16:15:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: the name fits both parents, Abraham's prayer (17:20) and Hagar's angel."
+    }
+   ]
+  },
+  {
+   "ref": "16:16",
+   "english": "Abram was eighty-six years old when Hagar bore Ishmael to Abram.",
+   "literal": "and-Abram son-of eighty year and-six years in-bearing-of Hagar [object-marker] Ishmael to-Abram",
+   "tokens": [
+    {
+     "id": "16:16.1",
+     "gloss": "and Abram"
+    },
+    {
+     "id": "16:16.2",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "idiom for age"
+    },
+    {
+     "id": "16:16.3",
+     "gloss": "eighty"
+    },
+    {
+     "id": "16:16.4",
+     "gloss": "year",
+     "note": "singular after the tens"
+    },
+    {
+     "id": "16:16.5",
+     "gloss": "and six"
+    },
+    {
+     "id": "16:16.6",
+     "gloss": "years",
+     "note": "plural after the units"
+    },
+    {
+     "id": "16:16.7",
+     "gloss": "when ... bore",
+     "sense": "Qal 1",
+     "note": "infinitive construct: 'in the bearing'"
+    },
+    {
+     "id": "16:16.8",
+     "gloss": "Hagar"
+    },
+    {
+     "id": "16:16.9",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "16:16.10",
+     "gloss": "Ishmael"
+    },
+    {
+     "id": "16:16.11",
+     "gloss": "to Abram"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:16.1",
+      "16:16.2",
+      "16:16.3",
+      "16:16.4",
+      "16:16.5",
+      "16:16.6"
+     ],
+     "english": "Abram was eighty-six years old",
+     "literal": "and-Abram son-of eighty year and-six years"
+    },
+    {
+     "tokens": [
+      "16:16.7",
+      "16:16.8",
+      "16:16.9",
+      "16:16.10",
+      "16:16.11"
+     ],
+     "english": "when Hagar bore Ishmael to Abram",
+     "literal": "in-bearing-of Hagar [object-marker] Ishmael to-Abram"
+    }
+   ],
+   "grammar": [
+    "בֶּן־שְׁמֹנִים שָׁנָה is the Hebrew idiom for age: 'son of eighty years'.",
+    "בְּלֶדֶת־הָגָר: preposition plus infinitive construct with the subject in the genitive: 'in Hagar's bearing'.",
+    "The singular שָׁנָה after the tens, and the plural שָׁנִים after the units, is regular.",
+    "The sign ס after the verse is a paragraph break."
+   ],
+   "note": "The ס after the verse is a setumah, a closed paragraph break (an open one, petuḥah, is marked פ).",
+   "commentary": [
+    {
+     "anchor": "rashi:16:16:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: this is written to Ishmael's credit, to show that he was thirteen when circumcised and did not object; a homily, not part of the plain sense."
+    },
+    {
+     "anchor": "radak:16:16:1",
+     "relation": "not-applicable",
+     "summary": "Radak: Abram's age is given to show that Hagar conceived in the very year she was given to him; a chronological calculation."
+    },
+    {
+     "anchor": "onkelos:16:16:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'eighty-six years when Hagar bore Ishmael to Abram'."
+    }
+   ]
+  }
+ ]
+}

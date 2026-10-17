@@ -1,0 +1,54 @@
+{
+  "unit": "noach-22",
+  "model": "opus",
+  "summary": "The four verses of the Serug and Nahor entries are rendered accurately: verbs, binyanim, numbers and names all match the Hebrew, and the Onkelos rulings are correct. The unit has no normative anchors. The main fault is the sense of מֵאָה in 11:23 and 11:25, filled mechanically with `3` ('a hundredth part'), which does not fit a cardinal; both senses are removed and the reason given in the notes. One learner note in 11:22 overstates the rule for singular nouns after tens, and 11:25 gains a note on עֶשְׂרֵה.",
+  "patches": [
+    {
+      "ref": "11:23",
+      "path": "token:11:23.7.sense",
+      "value": "",
+      "severity": "error",
+      "reason": "Sense `3` of מֵאָה is 'a hundredth part' (the ordinal/fractional use), not the cardinal 'two hundred'. The pack lists no fitting sense, so the sense is removed."
+    },
+    {
+      "ref": "11:23",
+      "path": "token:11:23.7.note",
+      "value": "dual form מָאתַיִם: 'two hundred'. No sense is given: the only sense the pack lists under מֵאָה is `3`, 'a hundredth part', which does not fit; the entry's head meaning 'hundred' is the one meant.",
+      "severity": "error",
+      "reason": "Records why the sense was removed, as the brief requires."
+    },
+    {
+      "ref": "11:25",
+      "path": "token:11:25.10.sense",
+      "value": "",
+      "severity": "error",
+      "reason": "Sense `3` of מֵאָה is 'a hundredth part', not the cardinal 'a hundred' of 119 years. The pack lists no fitting sense, so the sense is removed."
+    },
+    {
+      "ref": "11:25",
+      "path": "token:11:25.10.note",
+      "value": "construct מְאַת before the counted noun: 'a hundred (of) years'. No sense is given: the only sense the pack lists under מֵאָה is `3`, 'a hundredth part', which does not fit; the entry's head meaning 'hundred' is the one meant.",
+      "severity": "error",
+      "reason": "Records why the sense was removed, and explains the construct for the learner."
+    },
+    {
+      "ref": "11:22",
+      "path": "grammar",
+      "value": [
+        "וַיְחִי and וַיּוֹלֶד are wayyiqtols that carry the genealogy forward.",
+        "The etnaḥta on שָׁנָה divides the verse: age, then the birth.",
+        "The noun שָׁנָה stays singular after שְׁלֹשִׁים. A few nouns that are often counted, such as שָׁנָה 'year', יוֹם 'day' and אִישׁ 'man', are usually singular after the tens; most other nouns take the plural."
+      ],
+      "severity": "error",
+      "reason": "The note said the singular follows 'tens in general'; it is the rule only for a group of frequently counted nouns, so the learner note as written is not true."
+    },
+    {
+      "ref": "11:25",
+      "path": "token:11:25.8.note",
+      "value": "עֶשְׂרֵה is the form of 'ten' used in eleven to nineteen with a feminine noun; after תְּשַׁע it makes 'nineteen'.",
+      "severity": "style",
+      "reason": "The gloss 'teen' needs a note for a learner: the lexicon gives עָשָׂר as 'ten', and the compound form is otherwise unexplained."
+    }
+  ],
+  "verdicts": []
+}

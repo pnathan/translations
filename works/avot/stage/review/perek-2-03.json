@@ -1,0 +1,1071 @@
+{
+ "unit": "perek-2-03",
+ "model": "opus",
+ "summary": "The English of the four sayings is sound and follows Bartenura and Rambam; one real fault is in 2:16, where 'know the granting of the reward ... in the world to come' loses the nominal clause (the reward is given in the time to come). The main faults are lexical: many tokens point to BDB proper names (Baal, Bajith, Sacar, Mattan, Baruch, Raham, Ezem) or to wrong entries (the noun 'length' for the adjective אֶרֶךְ, 'father' for לָבֹא, 'another' for חוֹרִין), and are moved to the Jastrow entries the pack lists or have their sense removed. The 2:13 apparatus and grammar wrongly said Joel 2:13 reads אֵל (it is Jonah 4:2 and Vilna that read it), the 2:14 apparatus gave Rambam's proof text as Job/Psalms instead of Jer 1:12, and Bartenura's שְׂכָרְךָ 'He hired you' was misread as 'your reward'. The morphology is mostly right; patches correct the article in בַּ and לֶ, the participle וְנִחָם, אָרֵךְ, בָּרַךְ, רַחֲמִים, חוֹר, the adverb הַרְבֵּה and a suffix form.",
+ "patches": [
+  {
+   "ref": "2:13",
+   "path": "english",
+   "value": "Rabbi Shimon says: Be careful in reciting the Shema and in the Prayer. And when you pray, do not make your prayer a fixed routine, but a plea for mercy and supplication before the Omnipresent, blessed be He, as it is said (Joel 2): “For He is gracious and compassionate, slow to anger, abounding in kindness, and relenting of the evil.” And do not be wicked in your own eyes.",
+   "severity": "style",
+   "reason": "וּבַתְּפִלָּה has the article (בַּ): 'the Prayer', the statutory Tefillah, set beside the Shema and timed like it (Bartenura: each prayer at its time). The reference (יואל ב) is the edition's parenthesis, not the mishnah's words: keep it in parentheses rather than as 'in Joel 2'."
+  },
+  {
+   "ref": "2:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:13.1",
+      "2:13.2",
+      "2:13.3"
+     ],
+     "english": "Rabbi Shimon says",
+     "literal": "'Rabbi Shimon says'"
+    },
+    {
+     "tokens": [
+      "2:13.4",
+      "2:13.5",
+      "2:13.6",
+      "2:13.7",
+      "2:13.8"
+     ],
+     "english": "Be careful in reciting the Shema and in the Prayer",
+     "literal": "'be careful in-reading-of Shema and-in-the-prayer'; the article marks the statutory Prayer"
+    },
+    {
+     "tokens": [
+      "2:13.9",
+      "2:13.10"
+     ],
+     "english": "And when you pray",
+     "literal": "'and-when you praying'"
+    },
+    {
+     "tokens": [
+      "2:13.11",
+      "2:13.12",
+      "2:13.13",
+      "2:13.14"
+     ],
+     "english": "do not make your prayer a fixed routine",
+     "literal": "'not make your-prayer fixed-routine'; קֶבַע read as Bartenura and Rambam read it"
+    },
+    {
+     "tokens": [
+      "2:13.15",
+      "2:13.16",
+      "2:13.17",
+      "2:13.18",
+      "2:13.19",
+      "2:13.20",
+      "2:13.21"
+     ],
+     "english": "but a plea for mercy and supplication before the Omnipresent, blessed be He",
+     "literal": "'but mercies and-supplications before the-Place blessed He'; the verb 'make' is carried over from the previous clause"
+    },
+    {
+     "tokens": [
+      "2:13.22",
+      "2:13.23",
+      "2:13.24"
+     ],
+     "english": "as it is said (Joel 2)",
+     "literal": "'that-it-was-said (Joel 2)'; the reference is the edition's parenthesis"
+    },
+    {
+     "tokens": [
+      "2:13.25",
+      "2:13.26",
+      "2:13.27",
+      "2:13.28"
+     ],
+     "english": "for He is gracious and compassionate",
+     "literal": "'for gracious and-compassionate He'"
+    },
+    {
+     "tokens": [
+      "2:13.29",
+      "2:13.30",
+      "2:13.31",
+      "2:13.32"
+     ],
+     "english": "slow to anger, abounding in kindness",
+     "literal": "'long-of nostrils and-great-of kindness'"
+    },
+    {
+     "tokens": [
+      "2:13.33",
+      "2:13.34",
+      "2:13.35"
+     ],
+     "english": "and relenting of the evil",
+     "literal": "'and-relenting upon the-evil'"
+    },
+    {
+     "tokens": [
+      "2:13.36",
+      "2:13.37",
+      "2:13.38",
+      "2:13.39",
+      "2:13.40"
+     ],
+     "english": "And do not be wicked in your own eyes",
+     "literal": "'and-not be wicked in-the-face-of yourself'; read as Rambam reads it"
+    }
+   ],
+   "severity": "style",
+   "reason": "the new English changed two phrases; the literal of אֶרֶךְ is 'long-of' (adjective), not 'length-of'"
+  },
+  {
+   "ref": "2:13",
+   "path": "literal",
+   "value": "Rabbi Shimon says be careful in-reading-of Shema and-in-the-prayer. And-when you praying, not make your-prayer fixed-routine, but mercies and-supplications before the-Place blessed He, that-it-was-said (Joel 2) for gracious and-compassionate He, long-of nostrils and-great-of kindness and-relenting upon the-evil. And-not be wicked in-the-face-of yourself.",
+   "severity": "error",
+   "reason": "אֶרֶךְ is the construct of the adjective אָרֵךְ 'long', not the noun 'length'."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.2.lex",
+   "value": "jastrow:שִׁמְעוֹן",
+   "severity": "style",
+   "reason": "the speaker is a Tanna (R. Shimon son of Netanel); Jastrow sense 4 names the Tannaim; the BDB entry is the biblical name."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.2.sense",
+   "value": "4",
+   "severity": "style",
+   "reason": "Jastrow 'name of several Tannaim'."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.8.gloss",
+   "value": "and in the Prayer",
+   "severity": "style",
+   "reason": "the article in בַּ: the statutory Prayer."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.8.note",
+   "value": "בַּ = בְּ + the article: 'in the Prayer', the statutory Tefillah, said at fixed times like the Shema.",
+   "severity": "style",
+   "reason": "learner note on the article."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.16.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "the entry attached (bdbs:רַחַם) is the personal name Raham, the wrong word; the pack lists no entry for רַחֲמִים 'mercy', so no sense can be cited."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.16.note",
+   "value": "רַחֲמִים, a plural noun 'compassion, mercy'; with בִּקֵּשׁ it is the idiom for a plea for mercy (Bartenura: כְּאָדָם שֶׁמְּבַקֵּשׁ רַחֲמִים). The lexicon data attaches the personal name Raham, the wrong word, so no sense is cited.",
+   "severity": "error",
+   "reason": "the old note said the lexicon gives 'belly (womb)' as a root; it gives the name Raham."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.18.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "לִפְנֵי is the prepositional use, 'before, in the presence of' (1.7.1), not 'presence, person' (1.2)."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.19.lex",
+   "value": "jastrow:מָקוֹם",
+   "severity": "error",
+   "reason": "BDB מָקוֹם has no sense for God; Jastrow מָקוֹם sense 2, הַמָּקוֹם 'the Lord', is the sense here, and the pack lists it."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.19.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow sense 2: הַמָּקוֹם, a name of God."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.20.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "sense 1 of bdbs:בָּרוּךְ is the personal name Baruch, not the participle 'blessed'; the pack lists no entry for the verb, so the sense is removed."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.20.note",
+   "value": "qal passive participle of בָּרַךְ, 'blessed'; בָּרוּךְ הוּא 'blessed be He'. The lexicon data attaches the personal name Baruch, the wrong word, so no sense is cited.",
+   "severity": "error",
+   "reason": "the note must say why no sense is given."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.23.gloss",
+   "value": "Joel",
+   "severity": "style",
+   "reason": "the reference is kept in parentheses; 'in' is not in the Hebrew."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.23.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "a noun whose entry lists senses: sense 2 is the prophet Joel."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.29.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "אֶרֶךְ is the construct of the adjective אָרֵךְ 'long'; the entry attached is the noun אֹרֶךְ 'length', a different word, and the pack lists no entry for the adjective."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.29.note",
+   "value": "construct of the adjective אָרֵךְ 'long': אֶרֶךְ אַפַּיִם 'long of nostrils', the idiom for patience. The lexicon data attaches the noun אֹרֶךְ 'length', a different word, so no sense is cited.",
+   "severity": "error",
+   "reason": "the analysis is the adjective, not the noun."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.33.note",
+   "value": "nifal participle (the qamets under ח marks the participle; the perfect is נִחַם): 'relenting', 'changing one's mind' about the harm, the last of a series of attributes. The cited sense is Jastrow's Hithpael 'to be sorry, reconsider': the entry gives no Nifal.",
+   "severity": "error",
+   "reason": "the form is the participle, not the perfect, and the cited sense is of another stem."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.36.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "אַל is an adverb whose entry lists a sense, as at 2:13.11."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.39.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "בִּפְנֵי is the prepositional use (1.7.1), not 'presence, person' (1.2)."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.40.lex",
+   "value": "jastrow:עֶצֶם",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place name Ezem; the pack lists Jastrow עֶצֶם, whose sense 3 'substance, self' cites this very mishnah."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.40.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Jastrow sense 3: 'substance, essence, self' (Ab. II, 13)."
+  },
+  {
+   "ref": "2:13",
+   "path": "token:2:13.40.note",
+   "value": "עֶצֶם 'bone', hence 'substance, self'; with the suffix, 'yourself'. Jastrow sense 3 cites this mishnah: 'be not a wicked man in thine own sight'.",
+   "severity": "error",
+   "reason": "the old note said the lexicon data lists only the place name; the pack lists the right entry."
+  },
+  {
+   "ref": "2:13",
+   "path": "grammar",
+   "value": [
+    "הֱוֵי and תְּהִי are both forms of הָיָה: the contracted imperative 'be!' and the jussive-type imperfect after אַל, 'do not be'.",
+    "אַל תַּעַשׂ is a prohibition: אַל with the imperfect. אֶלָּא 'but' sets the right prayer against the wrong one, with the verb 'make' understood.",
+    "קֶבַע is the opposite of תַּחֲנוּנִים: a fixed act versus a plea; רַחֲמִים וְתַחֲנוּנִים are the two things the prayer should be.",
+    "The mishnah quotes Joel 2:13 as it stands there: כִּי חַנּוּן וְרַחוּם הוּא, without אֵל (the Vilna text adds אֵל, as in Jonah 4:2). אֶרֶךְ אַפַּיִם is a construct chain: אֶרֶךְ is the construct of the adjective אָרֵךְ 'long', 'long of nostrils (anger)', meaning patient.",
+    "חַנּוּן, רַחוּם, אֶרֶךְ אַפַּיִם, רַב חֶסֶד and the nifal participle וְנִחָם are a series of attributes of God, all predicates of הוּא.",
+    "בִּפְנֵי עַצְמְךָ, literally 'in the face of your self', is an idiom whose sense is disputed; see the note."
+   ],
+   "severity": "error",
+   "reason": "the old note implied that Joel 2:13 reads אֵל; it does not (Joel: כִּי חַנּוּן וְרַחוּם הוּא; Jonah 4:2: כִּי אַתָּה אֵל חַנּוּן וְרַחוּם). It also took אֶרֶךְ as a noun."
+  },
+  {
+   "ref": "2:13",
+   "path": "apparatus",
+   "value": [
+    "Joel 2:13: כִּי חַנּוּן וְרַחוּם הוּא אֶרֶךְ אַפַּיִם וְרַב חֶסֶד וְנִחָם עַל הָרָעָה. The base text quotes Joel exactly, without אֵל. Bartenura's lemma (כִּי אֵל חַנּוּן וְרַחוּם הוּא) and the Vilna text read אֵל, as in Jonah 4:2 (כִּי אַתָּה אֵל חַנּוּן וְרַחוּם); Rabbeinu Yonah cites the verse in Jonah's wording, and his copyist notes that by our mishnah's reading the verse is Joel 2:13.",
+    "Vilna reads בקרית for בִּקְרִיאַת (2:13.6); Vilna adds אל in the quotation (כי אל חנון ורחום הוא); Vilna's reference adds the verse number (יואל ב, יג)."
+   ],
+   "severity": "error",
+   "reason": "Joel 2:13 has no אֵל: the old line said the reverse. The Vilna variants were misdescribed: Vilna adds the word אל and the verse number יג, not 'a variant of the chapter number'."
+  },
+  {
+   "ref": "2:13",
+   "path": "commentary:rabbeinu-yonah:2:13:4.relation",
+   "value": "follows",
+   "severity": "style",
+   "reason": "Rabbeinu Yonah's reading (do not be wicked in your own eyes, so as to despair of repentance) is the reading the English adopts, with Rambam; it is not merely recorded."
+  },
+  {
+   "ref": "2:14",
+   "path": "english",
+   "value": "Rabbi Elazar says: Be diligent in learning Torah, and know what to answer an Epicurean. And know before whom you toil. And faithful is the master of your work to pay you the reward of your labor.",
+   "severity": "style",
+   "reason": "a comma and a capital 'And' joined two sentences; the Hebrew has two."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.2.lex",
+   "value": "jastrow:אֶלְעָזָר",
+   "severity": "style",
+   "reason": "the speaker is the Tanna R. Elazar son of Arakh (2:8); Jastrow sense 3 names him."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.2.sense",
+   "value": "3",
+   "severity": "style",
+   "reason": "Jastrow 'several Tannaim: ... E. b. Arakh'."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.7.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "the only sense of bdbs:תּוֹרָה in the data is 'custom, manner, law (of man)', wrong here; the pack lists Jastrow תּוֹרָה, 'the Law of Moses'."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.7.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow sense 1: teaching, law, esp. the Law of Moses."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.9.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "מַה שֶּׁ is the relative 'what, whatever' (1.2), not the interrogative 'what?' (1.1)."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.13.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "לִפְנֵי is the prepositional use (1.7.1), not 'presence, person' (1.2)."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.19.lex",
+   "value": "jastrow:בַּעַל",
+   "severity": "error",
+   "reason": "bdbs:בַּעַל is the proper name and the god Baal; the pack lists Jastrow בַּעַל, whose sense 5 is 'owner of, master of'."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.19.sense",
+   "value": "5",
+   "severity": "error",
+   "reason": "Jastrow sense 5: (in compounds) owner of, master of."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.22.note",
+   "value": "לָךְ is the mishnaic form of 'to you' (masculine); biblical Hebrew writes לְךָ, as at 2:16.",
+   "severity": "style",
+   "reason": "a learner meets לָךְ as a feminine form in the Bible."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.23.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; the pack lists Jastrow שָׂכָר 'wages, reward'."
+  },
+  {
+   "ref": "2:14",
+   "path": "token:2:14.23.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow sense 1: wages, profit, reward."
+  },
+  {
+   "ref": "2:14",
+   "path": "apparatus",
+   "value": [
+    "The saying has no direct biblical quotation. Rambam's proof texts on the sense of שְׁקִידָה are Jer 1:12 (כִּי שֹׁקֵד אֲנִי עַל דְּבָרִי) and Prov 8:34 (לִשְׁקֹד עַל דַּלְתֹתַי יוֹם יוֹם).",
+    "Vilna reads ללמוד for לִלְמֹד (2:14.6) and פעולתך for פְּעֻלָּתֶךְ (2:14.24).",
+    "Rabbeinu Yonah's lemmas read מה שתשיב את אפקורוס (for לְאֶפִּיקוֹרוֹס) and ומי הוא בעל מלאכתך (for וְנֶאֱמָן הוּא בַעַל מְלַאכְתְּךָ): 'and who is the master of your work, who will pay you'."
+   ],
+   "severity": "error",
+   "reason": "Rambam's first proof text is Jer 1:12, not 'Job 8 / Ps 69'. Rabbeinu Yonah's lemma has a different reading of the last clause, which was not recorded."
+  },
+  {
+   "ref": "2:14",
+   "path": "commentary:rambam:2:14:2.summary",
+   "value": "Rambam: you must learn what to answer the Epicureans among the idolaters and refute them; with an Israelite Epicurean one does not speak at all, for argument only makes him scorn more and he has no remedy. And though you learn the nations' opinions, guard that none of them rises in your heart, and know that He before whom you labor knows the secret of your heart.",
+   "severity": "style",
+   "reason": "the summary left out Rambam's limit: the answer is for the gentile Epicurean, not the Israelite one."
+  },
+  {
+   "ref": "2:15",
+   "path": "token:2:15.10.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow שָׂכָר 'wages, reward' is in the pack."
+  },
+  {
+   "ref": "2:15",
+   "path": "token:2:15.10.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow sense 1: wages, reward."
+  },
+  {
+   "ref": "2:15",
+   "path": "token:2:15.12.lex",
+   "value": "jastrow:בַּעַל",
+   "severity": "error",
+   "reason": "bdbs:בַּעַל is the name and the god Baal; Jastrow sense 5 'master of' is meant."
+  },
+  {
+   "ref": "2:15",
+   "path": "token:2:15.12.sense",
+   "value": "5",
+   "severity": "error",
+   "reason": "Jastrow sense 5: owner of, master of."
+  },
+  {
+   "ref": "2:15",
+   "path": "token:2:15.13.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; Jastrow בַּיִת sense 2 'house, household' is in the pack."
+  },
+  {
+   "ref": "2:15",
+   "path": "token:2:15.13.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow sense 2: house, household, home."
+  },
+  {
+   "ref": "2:16",
+   "path": "english",
+   "value": "He used to say: It is not for you to finish the work, and you are not free to desist from it. If you have learned much Torah, they give you much reward. And faithful is the master of your work to pay you the reward of your labor. And know that the granting of the reward of the righteous is in the world to come.",
+   "severity": "error",
+   "reason": "the last clause is a nominal clause, the object of וְדַע, with לֶעָתִיד לָבֹא as its predicate: 'the giving of the reward of the righteous is in the time to come'. 'Know the granting ... in the world to come' loses the predication and is not English."
+  },
+  {
+   "ref": "2:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:16.1",
+      "2:16.2",
+      "2:16.3"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'"
+    },
+    {
+     "tokens": [
+      "2:16.4",
+      "2:16.5",
+      "2:16.6",
+      "2:16.7"
+     ],
+     "english": "It is not for you to finish the work",
+     "literal": "'not upon-you the-work to-finish'"
+    },
+    {
+     "tokens": [
+      "2:16.8",
+      "2:16.9",
+      "2:16.10",
+      "2:16.11",
+      "2:16.12",
+      "2:16.13"
+     ],
+     "english": "and you are not free to desist from it",
+     "literal": "'and-not you son-of free-men to-be-idle from-it'"
+    },
+    {
+     "tokens": [
+      "2:16.14",
+      "2:16.15",
+      "2:16.16",
+      "2:16.17"
+     ],
+     "english": "If you have learned much Torah",
+     "literal": "'if you-learned Torah much'"
+    },
+    {
+     "tokens": [
+      "2:16.18",
+      "2:16.19",
+      "2:16.20",
+      "2:16.21"
+     ],
+     "english": "they give you much reward",
+     "literal": "'giving to-you reward much'"
+    },
+    {
+     "tokens": [
+      "2:16.22",
+      "2:16.23",
+      "2:16.24",
+      "2:16.25"
+     ],
+     "english": "And faithful is the master of your work",
+     "literal": "'and-faithful he master-of your-work'"
+    },
+    {
+     "tokens": [
+      "2:16.26",
+      "2:16.27",
+      "2:16.28",
+      "2:16.29"
+     ],
+     "english": "to pay you the reward of your labor",
+     "literal": "'that-he-pays to-you reward-of your-labor'"
+    },
+    {
+     "tokens": [
+      "2:16.30",
+      "2:16.31",
+      "2:16.32",
+      "2:16.33",
+      "2:16.34"
+     ],
+     "english": "And know that the granting of the reward of the righteous",
+     "literal": "'and-know giving-of their-reward of righteous'; 'that' introduces the nominal clause that is the object of 'know'"
+    },
+    {
+     "tokens": [
+      "2:16.35",
+      "2:16.36"
+     ],
+     "english": "is in the world to come",
+     "literal": "'for-the-future to-come', the predicate of the clause; both Bartenura and Rambam say לָעוֹלָם הַבָּא"
+    }
+   ],
+   "severity": "error",
+   "reason": "the new English changed the last two phrases."
+  },
+  {
+   "ref": "2:16",
+   "path": "literal",
+   "value": "He was saying: not upon-you the-work to-finish, and-not you son-of free-men to-be-idle from-it. If you-learned Torah much, giving to-you reward much. And-faithful he master-of your-work that-he-pays to-you reward-of your-labor. And-know giving-of their-reward of righteous for-the-future to-come.",
+   "severity": "style",
+   "reason": "חוֹרִין is plural, 'free men'; לֶעָתִיד has the article and ל, 'for the future'."
+  },
+  {
+   "ref": "2:16",
+   "path": "note",
+   "value": "לֶעָתִיד לָבֹא is translated 'in the world to come', since Bartenura and Rambam both say it means לָעוֹלָם הַבָּא; the literal sense is 'for the time that is to come'. נוֹתְנִים 'they give' is an impersonal plural: 'one gives you', that is, you are given. The last clause is a nominal clause, the object of וְדַע, with לֶעָתִיד לָבֹא as its predicate: 'that the giving of their reward, of the righteous, is in the time to come'; the English supplies 'that' and 'is'.",
+   "severity": "error",
+   "reason": "the old note said Rabbeinu Yonah takes 'they give you' of the master; his comment on that clause (2:16:3) says only that the one who learns more gains more. It also called the last clause ambiguous between 'that' and 'when', which the grammar does not support."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.8.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "לֹא is an adverb whose entry lists a sense, as at 2:16.4."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.10.gloss",
+   "value": "a son of",
+   "severity": "error",
+   "reason": "בֶן is 'son of'; the gloss 'free' belongs to חוֹרִין."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.10.note",
+   "value": "construct of בֵּן: בֶּן חוֹרִין 'son of free men', the idiom for a free man.",
+   "severity": "error",
+   "reason": "the note about the wrong entry belongs to 2:16.11."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.11.gloss",
+   "value": "free men",
+   "severity": "error",
+   "reason": "חוֹרִין is the plural 'free (men), nobles'; with בֶּן, 'a free man'."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.11.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "the entry attached, jastrow:חוֹרִי I, is the Aramaic 'another, second', and the pack's other homograph is 'cakes'; neither is this word (חוֹר 'free-born, noble'), so the sense is removed."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.11.note",
+   "value": "plural of חוֹר 'free-born, noble', with the mishnaic ending ־ִין. The lexicon data attaches חוֹרִי 'another', the wrong word, so no sense is cited.",
+   "severity": "error",
+   "reason": "say why no sense is given."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.16.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה in the data has only 'custom, law (of man)'; Jastrow תּוֹרָה 'the Law of Moses' is in the pack."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.16.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow sense 1."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.20.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow 'wages, reward'."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.20.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow sense 1."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.24.lex",
+   "value": "jastrow:בַּעַל",
+   "severity": "error",
+   "reason": "bdbs:בַּעַל is the name and the god Baal; Jastrow sense 5 'master of'."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.24.sense",
+   "value": "5",
+   "severity": "error",
+   "reason": "Jastrow sense 5."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.28.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow 'wages, reward'."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.28.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow sense 1."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.31.lex",
+   "value": "jastrow:מַתָּן",
+   "severity": "error",
+   "reason": "bdbs:מַתָּן is the personal name Mattan; the pack lists Jastrow מַתָּן 'giving', which cites מ׳ שכר from this mishnah."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.31.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow sense 1: giving, gift; מַתַּן שָׂכָר reward."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.31.note",
+   "value": "construct of מַתָּן 'giving': מַתַּן שָׂכָר 'the giving of reward' (Jastrow cites Ab. II, 16).",
+   "severity": "error",
+   "reason": "the old note said the lexicon data lists only the name Mattan; the pack lists the right entry."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.32.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the personal name Sacar; Jastrow 'wages, reward'."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.32.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow sense 1."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.32.gloss",
+   "value": "their reward",
+   "severity": "style",
+   "reason": "the suffix is 'their'."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.32.note",
+   "value": "the suffix ־ָן 'their' anticipates שֶׁל צַדִּיקִים: 'their reward, of the righteous', a mishnaic way of saying 'the reward of the righteous'.",
+   "severity": "style",
+   "reason": "a learner needs the anticipatory suffix explained."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.36.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is 'father'; the pack lists jastrow:בָּא III, 'coming, future' of the verb בּוֹא, which covers הַבָּא 'to come'."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.36.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow בָּא III sense 1: coming, future."
+  },
+  {
+   "ref": "2:16",
+   "path": "token:2:16.36.note",
+   "value": "qal infinitive construct of בּוֹא with ל: 'to come'. The entry cited (בָּא III) is the participle of the same verb, 'coming, future', as in עוֹלָם הַבָּא.",
+   "severity": "error",
+   "reason": "the old note named the wrong entry."
+  },
+  {
+   "ref": "2:16",
+   "path": "commentary:bartenura:2:16:1.summary",
+   "value": "Bartenura: the Holy One, blessed be He, did not hire you (שְׂכָרְךָ) to finish all of it, so that you would lose your wages if you did not finish it. And lest you say 'I will not learn and will take no wages', it says 'you are not free to be idle': against your will the yoke is laid on you to work.",
+   "severity": "error",
+   "reason": "שְׂכָרְךָ here is the verb 'He hired you' (subject הַקָּדוֹשׁ בָּרוּךְ הוּא, then the infinitive לִגְמֹר), not 'your reward'."
+  },
+  {
+   "ref": "2:13",
+   "path": "morph:2:13.8",
+   "value": {
+    "lang": "mishnaic",
+    "root": "פלל",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with the definite article"
+     },
+     {
+      "form": "תְּפִלָּה",
+      "lemma": "תְּפִלָּה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "בַּ (patach and dagesh in ת) contains the definite article: 'in the Prayer'."
+  },
+  {
+   "ref": "2:13",
+   "path": "morph:2:13.16",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רחם",
+    "morphemes": [
+     {
+      "form": "רַחֲמִים",
+      "lemma": "רַחֲמִים",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute (plural only: compassion, mercy)"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רַחֲמִים 'compassion' is a plural-only abstract noun; its singular רַחַם is 'womb', a different noun, and the key it yields is the name Raham."
+  },
+  {
+   "ref": "2:13",
+   "path": "morph:2:13.20",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ברך",
+    "morphemes": [
+     {
+      "form": "בָּרוּךְ",
+      "lemma": "בָּרַךְ",
+      "pos": "verb",
+      "parse": "qal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "a qal passive participle is a verb form: pos verb, lemma the root's qal perfect בָּרַךְ. The lemma בָּרוּךְ leads to the personal name Baruch."
+  },
+  {
+   "ref": "2:13",
+   "path": "morph:2:13.29",
+   "value": {
+    "lang": "hbo",
+    "root": "ארך",
+    "morphemes": [
+     {
+      "form": "אֶרֶךְ",
+      "lemma": "אָרֵךְ",
+      "pos": "adjective",
+      "parse": "adjective, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֶרֶךְ in אֶרֶךְ אַפַּיִם is the construct of the adjective אָרֵךְ 'long', not the noun אֹרֶךְ 'length'."
+  },
+  {
+   "ref": "2:13",
+   "path": "morph:2:13.33",
+   "value": {
+    "lang": "hbo",
+    "root": "נחם",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "נִחָם",
+      "lemma": "נָחַם",
+      "pos": "verb",
+      "parse": "nifal, participle active, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "נִחָם with qamets, not in pause, is the nifal participle (the perfect is נִחַם); it stands in a series of attributes."
+  },
+  {
+   "ref": "2:14",
+   "path": "morph:2:14.9",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "מַה",
+      "lemma": "מַה",
+      "pos": "pronoun",
+      "parse": "indefinite pronoun, what, with the relative שֶׁ: 'that which'"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "in מַה שֶּׁתָּשִׁיב, מַה is the indefinite relative 'what (that)', not an interrogative."
+  },
+  {
+   "ref": "2:14",
+   "path": "morph:2:14.24",
+   "value": {
+    "lang": "mishnaic",
+    "root": "פעל",
+    "morphemes": [
+     {
+      "form": "פְּעֻלָּתֶ",
+      "lemma": "פְּעֻלָּה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     },
+     {
+      "form": "ךְ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "the token ends in ךְ (shva), not ךָ; the form must be copied as printed. The suffix is the mishnaic 2nd masculine singular."
+  },
+  {
+   "ref": "2:15",
+   "path": "morph:2:15.11",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רבה",
+    "morphemes": [
+     {
+      "form": "הַרְבֵּה",
+      "lemma": "הַרְבֵּה",
+      "pos": "adverb",
+      "parse": "adverb, much (a hifil infinitive absolute of רבה, fixed as an adverb)"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "'infinitive absolute' is not one of the parse forms; in mishnaic Hebrew הַרְבֵּה is a fixed adverb, 'much', used as quantifier or predicate."
+  },
+  {
+   "ref": "2:16",
+   "path": "morph:2:16.17",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רבה",
+    "morphemes": [
+     {
+      "form": "הַרְבֵּה",
+      "lemma": "הַרְבֵּה",
+      "pos": "adverb",
+      "parse": "adverb, much (a hifil infinitive absolute of רבה, fixed as an adverb)"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "'infinitive absolute' is not one of the parse forms; in mishnaic Hebrew הַרְבֵּה is a fixed adverb, 'much', used as quantifier or predicate."
+  },
+  {
+   "ref": "2:16",
+   "path": "morph:2:16.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רבה",
+    "morphemes": [
+     {
+      "form": "הַרְבֵּה",
+      "lemma": "הַרְבֵּה",
+      "pos": "adverb",
+      "parse": "adverb, much (a hifil infinitive absolute of רבה, fixed as an adverb)"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "'infinitive absolute' is not one of the parse forms; in mishnaic Hebrew הַרְבֵּה is a fixed adverb, 'much', used as quantifier or predicate."
+  },
+  {
+   "ref": "2:16",
+   "path": "morph:2:16.11",
+   "value": {
+    "lang": "mishnaic",
+    "root": "חרר",
+    "morphemes": [
+     {
+      "form": "חוֹרִין",
+      "lemma": "חוֹר",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "חוֹרִין is the plural of חוֹר (biblical חֹר) 'free-born, noble'; חוֹרִי is the Aramaic 'another'."
+  },
+  {
+   "ref": "2:16",
+   "path": "morph:2:16.35",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עתד",
+    "morphemes": [
+     {
+      "form": "לֶ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with the definite article"
+     },
+     {
+      "form": "עָתִיד",
+      "lemma": "עָתִיד",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "לֶ with segol before עָ is ל + the article: 'for the future'."
+  },
+  {"ref": "2:15", "path": "token:2:15.11.lex", "value": "jastrow:רָבָה", "severity": "error", "reason": "editor: the sense was chosen against this entry, the default of the unpatched lemma; the morph patch changed the default entry. Pins the entry the sense refers to."}
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:2:13:1",
+   "verdict": "consistent",
+   "comment": "'Be careful in reciting the Shema and in the Prayer' carries his 'at its proper time' without narrowing it."
+  },
+  {
+   "anchor": "bartenura:2:13:2",
+   "verdict": "consistent",
+   "comment": "'a fixed routine' is his first sense (a debt to be discharged) and his second (a set reading, not supplication)."
+  },
+  {
+   "anchor": "bartenura:2:13:3",
+   "verdict": "consistent",
+   "comment": "his lemma reads אֵל, with Jonah 4:2 and Vilna; the base text, which quotes Joel 2:13, does not. Recorded in the apparatus."
+  },
+  {
+   "anchor": "bartenura:2:13:4",
+   "verdict": "consistent",
+   "comment": "the English takes Rambam's reading, which Bartenura cites; his own two readings are recorded."
+  },
+  {
+   "anchor": "rambam:2:13:1",
+   "verdict": "consistent",
+   "comment": "'do not be wicked in your own eyes' is his reading; 'fixed routine' is his burden to be got rid of."
+  },
+  {
+   "anchor": "bartenura:2:14:1",
+   "verdict": "consistent",
+   "comment": "'Epicurean' is kept with his sense of one who scorns the Torah."
+  },
+  {
+   "anchor": "bartenura:2:14:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:2:14:1",
+   "verdict": "consistent",
+   "comment": "'diligent' carries both his senses, eager and constant."
+  },
+  {
+   "anchor": "rambam:2:14:2",
+   "verdict": "consistent",
+   "comment": "the English does not narrow 'Epicurean'; his limit to the gentile is now in the summary."
+  },
+  {
+   "anchor": "bartenura:2:15:1",
+   "verdict": "consistent",
+   "comment": "the English keeps the parable; the note gives his reading."
+  },
+  {
+   "anchor": "bartenura:2:15:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:15:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:2:15:1",
+   "verdict": "consistent",
+   "comment": "he reads the saying as a parable, and the English keeps it one."
+  },
+  {
+   "anchor": "bartenura:2:16:1",
+   "verdict": "consistent",
+   "comment": "the English agrees; the summary misread שְׂכָרְךָ and is patched."
+  },
+  {
+   "anchor": "bartenura:2:16:2",
+   "verdict": "consistent",
+   "comment": "'in the world to come' is his לָעוֹלָם הַבָּא."
+  },
+  {
+   "anchor": "rambam:2:16:1",
+   "verdict": "consistent",
+   "comment": "'in the world to come' is his לעולם הבא."
+  }
+ ]
+}

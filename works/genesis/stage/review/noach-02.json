@@ -1,0 +1,135 @@
+{
+  "unit": "noach-02",
+  "model": "opus",
+  "summary": "The English of all eight verses is faithful to the Hebrew and follows Rashi and Ibn Ezra where they decide the plain sense, so no English line needs changing. The faults are in the analysis. One token has the wrong homograph (6:14.8, the object marker given the preposition entry), and three senses are wrong (6:14.6 קִנִּים; 6:19.6 and 6:20.11, absolute כֹּל). One learner note contradicts the commentator it cites (6:16.12). Four commentary summaries misstate the comment (Ibn Ezra on 6:14, 6:18 and 6:19; Rashi on כֹּפֶר in the 6:14 apparatus), and the 6:18 note gets Ibn Ezra's preferred reading the wrong way round.",
+  "patches": [
+    {
+      "ref": "6:13",
+      "path": "commentary:rashi:6:13:2",
+      "value": {
+        "relation": "records",
+        "summary": "Rashi, citing Sanhedrin 108: their sentence was sealed only on account of robbery (גָּזֵל). He reads חָמָס here as robbery. The English keeps BDB's broader 'violence', which includes it, and records Rashi's narrower sense."
+      },
+      "severity": "question",
+      "reason": "Rashi's comment is on the words כִּי מָלְאָה הָאָרֶץ חָמָס and identifies the sin as גָּזֵל. That is a reading of what חָמָס means here (Ramban says outright הוּא הַגָּזֵל וְהָעֹשֶׁק), not a homily that leaves the words alone. 'not-applicable' understates it. Ibn Ezra says nothing on the word in this unit, so 'violence' can stand, but the reading should be recorded."
+    },
+    {
+      "ref": "6:14",
+      "path": "token:6:14.6.sense",
+      "value": "2",
+      "severity": "error",
+      "reason": "The gloss is 'compartments', and Rashi, Ibn Ezra and Radak all take קִנִּים as separate quarters. That is BDB sense 2 'cells', not sense 1 'nest' (the literal bird's nest)."
+    },
+    {
+      "ref": "6:14",
+      "path": "token:6:14.8.lex",
+      "value": "bdb:a.gm.aa",
+      "severity": "error",
+      "reason": "In תַּעֲשֶׂה אֶת־הַתֵּבָה, אֶת marks the definite object, as the translator's own gloss '(object marker)' says. The pack lemma points to the preposition homograph bdb:a.gn.aa 'with'. The right entry, bdb:a.gm.aa 'mark of the accusative', is listed in the pack."
+    },
+    {
+      "ref": "6:14",
+      "path": "token:6:14.8.note",
+      "value": "the object marker before the definite object הַתֵּבָה; the pack's dataset tags this אֶת as the preposition 'with', which does not fit here",
+      "severity": "error",
+      "reason": "The rendered parse will say 'preposition'. A learner needs to be told that this is the object marker and why the data disagrees."
+    },
+    {
+      "ref": "6:14",
+      "path": "commentary:ibn-ezra:6:14:4.summary",
+      "value": "Ibn Ezra gives several views. Some derive וְכָפַרְתָּ from כַּפֹּרֶת ('cover'), meaning a smeared-on covering. Some say כֹּפֶר is something like pitch, some a sticky clay from the ground that holds like pitch, and some the substance named in Arabic with qof for kaf. He holds that וְכָפַרְתָּ comes from the noun בַּכֹּפֶר, 'pitch it with pitch'.",
+      "severity": "error",
+      "reason": "'מִגִּזְרַת כַּפֹּרֶת' refers to the noun כַּפֹּרֶת (the covering, as of the ark of the testimony), not a verb form 'כִּפַּרְתָּ'. The summary also left out the clay and Arabic views he lists."
+    },
+    {
+      "ref": "6:14",
+      "path": "apparatus",
+      "value": [
+        "Rashi: כֹּפֶר is pitch (זֶפֶת) in Aramaic, the Talmud's כּוּפְרָא. Moses' basket (Exodus 2:3) sat in calm water, so clay inside and pitch outside was enough, and the righteous child was spared the smell of pitch. Here, because of the force of the water, the ark was pitched inside and out.",
+        "Onkelos: 'of kedrom wood' (קַדְרוֹם), a cedar kind, per Radak.",
+        "Radak: the outer coat may fail under the force of the water, while the inner holds."
+      ],
+      "severity": "error",
+      "reason": "The first line ran two of Rashi's clauses together. The Talmud citation is for the word כּוּפְרָא = pitch. It is not 'the pitch of the ark of Moses'. Rashi contrasts Moses' basket (clay inside, pitch outside) with Noah's ark (pitch on both sides)."
+    },
+    {
+      "ref": "6:16",
+      "path": "token:6:16.12.note",
+      "value": "תַּחְתִּיִּם: masculine plural of the adjective תַּחְתִּי 'lower', used as a noun for the lowest deck. The doubled yod stands for the yod of the adjective plus the yod of the plural ending, with one yod written. Radak: the written yod is the yod of relation, and the plural's yod has dropped from the spelling.",
+      "severity": "error",
+      "reason": "The note says the written yod marks the plural and cites Radak for it. Radak says the reverse: the written yod is the yod of relation (יוֹ״ד הַיַּחַס), and the plural's yod has dropped."
+    },
+    {
+      "ref": "6:18",
+      "path": "commentary:ibn-ezra:6:18:1.summary",
+      "value": "Ibn Ezra: a sign that God had sworn to Noah that he and his sons would not die in the flood, though this was not stated before (compare Deuteronomy 1:22). וַהֲקִמֹתִי means 'I will fulfil my oath'. The view closest to his own is that this covenant alludes to the rainbow. בְּרִית is an agreement chosen by two parties, from בְּרוּ לָכֶם אִישׁ; others take it as a boundary cut.",
+      "severity": "error",
+      "reason": "'וְהַקָּרוֹב אֵלַי' marks the rainbow reading as Ibn Ezra's preferred view. The summary gave it as a bare 'or'. The 'boundary' derivation (גְּבוּל כָּרוּת) was also missing."
+    },
+    {
+      "ref": "6:18",
+      "path": "note",
+      "value": "הֲקִמֹתִי אֶת־בְּרִיתִי: the first mention of בְּרִית in the Torah. Ibn Ezra first explains it as God's oath that Noah and his sons would not die in the flood, then says the view nearest his own is that the covenant alludes to the rainbow. Ramban takes the plain sense as a covenant of survival (the commitment to bring them safely through). The English keeps 'covenant' without deciding. Rashi, citing Bereshit Rabbah, takes it as a pledge that the food would not spoil and that the wicked would not harm Noah.",
+      "severity": "error",
+      "reason": "The note called the rainbow reading Ibn Ezra's 'second reading'. He marks it as his preferred one (וְהַקָּרוֹב אֵלַי)."
+    },
+    {
+      "ref": "6:19",
+      "path": "token:6:19.6.sense",
+      "value": "2.a",
+      "severity": "error",
+      "reason": "מִכֹּל here is absolute, used as a noun ('from all, of each'). That is BDB 2.a 'all things, all'. Sense 1 'the whole of, any, every' is the construct use before a noun. The translator used 2.a for the same absolute כֹּל at 6:17.18."
+    },
+    {
+      "ref": "6:19",
+      "path": "commentary:ibn-ezra:6:19:1.summary",
+      "value": "Ibn Ezra: after saying 'two', the text explains that they are male and female. After the general 'of all the living, of all flesh', it lists the particular kinds: birds, cattle, and creeping things of the ground, the last covering the wild animals, small and great, born of male and female. Excluded are all creatures born without the mating of two, and so are the water creatures. The fish too is called 'flesh' (Numbers 11:21–22), so 'all flesh' alone could have included them.",
+      "severity": "error",
+      "reason": "The summary's 'fish too are flesh' implies that fish were brought in. Ibn Ezra's point is the opposite: the creatures of the water, like those not born of a pair, are excluded (וְיָצְאוּ ... כֵּן חַיּוֹת הַמַּיִם). He cites Numbers 11 only to show why the exclusion needs saying."
+    },
+    {
+      "ref": "6:20",
+      "path": "token:6:20.11.sense",
+      "value": "2.a",
+      "severity": "error",
+      "reason": "As at 6:19.6: מִכֹּל is absolute here ('two of each'), BDB 2.a, not the construct sense 1."
+    }
+  ],
+  "verdicts": [
+    {"anchor": "rashi:6:13:1", "verdict": "not-applicable", "comment": "A homily on why 'all flesh', good and wicked alike, is destroyed."},
+    {"anchor": "rashi:6:13:2", "verdict": "consistent", "comment": "Rashi takes חָמָס as robbery. 'Violence' includes it and is BDB's gloss; the ruling is changed to records."},
+    {"anchor": "rashi:6:13:3", "verdict": "consistent", "comment": "The English takes Rashi's second explanation, 'with the earth'; his first, 'from the earth', is in the apparatus."},
+    {"anchor": "ibn-ezra:6:13:1", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:13:2", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:13:3", "verdict": "consistent", "comment": "'With' is one of Ibn Ezra's options; his preferred double-duty construction is recorded. Rashi and Ibn Ezra differ on their first choice and share 'with', so the choice is within the rule."},
+    {"anchor": "rashi:6:14:1", "verdict": "not-applicable"},
+    {"anchor": "rashi:6:14:2", "verdict": "consistent"},
+    {"anchor": "rashi:6:14:3", "verdict": "consistent"},
+    {"anchor": "rashi:6:14:4", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:14:1", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:14:2", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:14:3", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:14:4", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:14:5", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:15:1", "verdict": "consistent"},
+    {"anchor": "rashi:6:16:1", "verdict": "consistent", "comment": "'Skylight' takes Rashi's window reading; the gem reading is recorded."},
+    {"anchor": "rashi:6:16:2", "verdict": "consistent"},
+    {"anchor": "rashi:6:16:3", "verdict": "consistent"},
+    {"anchor": "rashi:6:16:4", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:16:1", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:16:2", "verdict": "consistent"},
+    {"anchor": "rashi:6:17:1", "verdict": "not-applicable"},
+    {"anchor": "rashi:6:17:2", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:17:1", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:17:2", "verdict": "consistent"},
+    {"anchor": "rashi:6:18:1", "verdict": "consistent", "comment": "The English 'covenant' leaves its content open; Rashi's reading of the content is recorded."},
+    {"anchor": "rashi:6:18:2", "verdict": "not-applicable"},
+    {"anchor": "ibn-ezra:6:18:1", "verdict": "consistent"},
+    {"anchor": "rashi:6:19:1", "verdict": "not-applicable"},
+    {"anchor": "rashi:6:19:2", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:19:1", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:19:2", "verdict": "consistent"},
+    {"anchor": "rashi:6:20:1", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:6:20:1", "verdict": "consistent"}
+  ]
+}

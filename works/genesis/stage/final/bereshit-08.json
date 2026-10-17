@@ -1,0 +1,1389 @@
+{
+ "unit": "bereshit-08",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "2:17",
+   "english": "But from the tree of the knowledge of good and evil you must not eat from it, for on the day you eat from it you will surely die.",
+   "literal": "and-from-tree-of the-knowledge-of good and-evil not you-will-eat from-it for in-day-of your-eating from-it die-INFABS you-will-die",
+   "tokens": [
+    {
+     "id": "2:17.1",
+     "gloss": "and from the tree of",
+     "sense": "1.a",
+     "note": "construct state; ו is rendered 'but' because the clause sets a prohibition against the permission just given"
+    },
+    {
+     "id": "2:17.2",
+     "gloss": "the knowledge of",
+     "sense": "1.a",
+     "note": "construct before the pair 'good and evil'"
+    },
+    {
+     "id": "2:17.3",
+     "gloss": "good",
+     "sense": "4"
+    },
+    {
+     "id": "2:17.4",
+     "gloss": "and evil",
+     "sense": "3"
+    },
+    {
+     "id": "2:17.5",
+     "gloss": "not"
+    },
+    {
+     "id": "2:17.6",
+     "gloss": "you shall eat",
+     "sense": "Qal 1",
+     "note": "imperfect with לֹא: a prohibition. תֹאכַל with pataḥ is the ordinary form in context; in pause it is תֹּאכֵל, as at the end of 2:16. The tipḥa is not a pausal accent."
+    },
+    {
+     "id": "2:17.7",
+     "gloss": "from it",
+     "note": "the pack parses the suffix as 1st common plural, kept as given; the sense, with Radak and Ramban, is 'from it', the tree or its fruit"
+    },
+    {
+     "id": "2:17.8",
+     "gloss": "for"
+    },
+    {
+     "id": "2:17.9",
+     "gloss": "on the day of",
+     "sense": "1",
+     "note": "construct before an infinitive: 'on the day of your eating'"
+    },
+    {
+     "id": "2:17.10",
+     "gloss": "your eating",
+     "sense": "Qal 1",
+     "note": "infinitive construct with 2nd masc. sing. suffix, serving as a temporal clause"
+    },
+    {
+     "id": "2:17.11",
+     "gloss": "from it"
+    },
+    {
+     "id": "2:17.12",
+     "gloss": "dying",
+     "sense": "Qal 1",
+     "note": "infinitive absolute, intensifying the finite verb"
+    },
+    {
+     "id": "2:17.13",
+     "gloss": "you will die",
+     "sense": "Qal 1",
+     "note": "imperfect; with the infinitive absolute: 'you will surely die'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:17.1",
+      "2:17.2",
+      "2:17.3",
+      "2:17.4"
+     ],
+     "english": "But from the tree of the knowledge of good and evil",
+     "literal": "'and-from-tree-of the-knowledge-of good and-evil': the object is put first, before the verb, for emphasis"
+    },
+    {
+     "tokens": [
+      "2:17.5",
+      "2:17.6",
+      "2:17.7"
+     ],
+     "english": "you must not eat from it",
+     "literal": "'not you-will-eat from-it'"
+    },
+    {
+     "tokens": [
+      "2:17.8"
+     ],
+     "english": "for",
+     "literal": "'for'"
+    },
+    {
+     "tokens": [
+      "2:17.9",
+      "2:17.10",
+      "2:17.11"
+     ],
+     "english": "on the day you eat from it",
+     "literal": "'in-day-of your-eating from-it'"
+    },
+    {
+     "tokens": [
+      "2:17.12",
+      "2:17.13"
+     ],
+     "english": "you will surely die",
+     "literal": "'die you-will-die': infinitive absolute with finite verb"
+    }
+   ],
+   "grammar": [
+    "The object is fronted: 'and from the tree ... not you shall eat from it'. The same tree is named with a repeated pronoun, וּמֵעֵץ ... מִמֶּנּוּ.",
+    "לֹא תֹאכַל is an imperfect with 'not', a prohibition (compare 'you must not'), in contrast to the permission of 2:16.",
+    "בְּיוֹם אֲכׇלְךָ is a temporal clause built on a construct noun and an infinitive construct with a suffix.",
+    "מוֹת תָּמוּת joins the infinitive absolute to the finite verb for certainty ('you will surely die'). The etnaḥta falls on מִמֶּנּוּ and divides prohibition from reason; silluq closes the verse."
+   ],
+   "note": "The English keeps the order 'from the tree ... you must not eat from it', as the Hebrew fronts the object. 'Evil' is chosen for רָע (it is the noun here, paired with good). The sense of מוֹת תָּמוּת is left as 'surely die', without saying when death comes; Ramban and Radak read the day as the time at which one becomes liable to death.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:2:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: after saying 'from the tree' the word מִמֶּנּוּ is added to make it clear, like 'she opened it and saw him, the child' (Ex 2:6); or it means 'not even a little of it'. The man was full of knowledge, since he named the animals; only the knowledge of good and evil in one matter he lacked. The English keeps the double 'from the tree ... from it'."
+    },
+    {
+     "anchor": "ramban:2:17:1",
+     "relation": "records",
+     "summary": "Ramban: the prohibition is of the fruit, since the tree itself is not eaten; compare 3:3 'from the fruit of the tree'."
+    },
+    {
+     "anchor": "ramban:2:17:2",
+     "relation": "records",
+     "summary": "Ramban: 'on the day you eat' means the time when one becomes liable to death, as in 1 Kings 2:42; it does not mean he dies within the day."
+    }
+   ],
+   "apparatus": [
+    "The pack parses the suffix of מִמֶּנּוּ as 1st person plural; the form is the usual 3rd masc. sing. 'from it' with a doubled nun, and the English follows the sense."
+   ]
+  },
+  {
+   "ref": "2:18",
+   "english": "The LORD God said, \"It is not good for the human to be alone; I will make for him a helper corresponding to him.\"",
+   "literal": "and-said the-LORD God not good to-be the-human by-himself I-will-make for-him help like-opposite-him",
+   "tokens": [
+    {
+     "id": "2:18.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of אמר; the ו is dropped from the English line"
+    },
+    {
+     "id": "2:18.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:18.3",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "2:18.4",
+     "gloss": "not"
+    },
+    {
+     "id": "2:18.5",
+     "gloss": "good",
+     "sense": "5",
+     "note": "predicate adjective: 'not good', 'not fitting'"
+    },
+    {
+     "id": "2:18.6",
+     "gloss": "to be",
+     "sense": "Qal III",
+     "note": "infinitive construct: 'the being of the human'"
+    },
+    {
+     "id": "2:18.7",
+     "gloss": "the human",
+     "sense": "1",
+     "note": "with the article: the human, not the proper name Adam"
+    },
+    {
+     "id": "2:18.8",
+     "gloss": "by himself",
+     "sense": "1",
+     "note": "לְבַדּוֹ: 'to his separateness', that is 'alone'"
+    },
+    {
+     "id": "2:18.9",
+     "gloss": "I will make",
+     "sense": "Qal II.1",
+     "note": "imperfect, 1st sing., cohortative sense of resolve"
+    },
+    {
+     "id": "2:18.10",
+     "gloss": "for him"
+    },
+    {
+     "id": "2:18.11",
+     "gloss": "a helper",
+     "sense": "2"
+    },
+    {
+     "id": "2:18.12",
+     "gloss": "corresponding to him",
+     "note": "'like his opposite': כְּ + נֶגֶד + suffix, 'what faces him, matches him'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:18.1",
+      "2:18.2",
+      "2:18.3"
+     ],
+     "english": "The LORD God said",
+     "literal": "'and-said the-LORD God'"
+    },
+    {
+     "tokens": [
+      "2:18.4",
+      "2:18.5"
+     ],
+     "english": "It is not good",
+     "literal": "'not good'"
+    },
+    {
+     "tokens": [
+      "2:18.6",
+      "2:18.7",
+      "2:18.8"
+     ],
+     "english": "for the human to be alone",
+     "literal": "'to-be the-human by-himself'"
+    },
+    {
+     "tokens": [
+      "2:18.9",
+      "2:18.10"
+     ],
+     "english": "I will make for him",
+     "literal": "'I-will-make for-him'"
+    },
+    {
+     "tokens": [
+      "2:18.11",
+      "2:18.12"
+     ],
+     "english": "a helper corresponding to him",
+     "literal": "'help like-opposite-him'"
+    }
+   ],
+   "grammar": [
+    "לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ: an infinitive construct with its own subject, הָאָדָם, after a predicate adjective.",
+    "אֶעֱשֶׂה־לּוֹ is a 1st person imperfect, here a resolve of the speaker ('I will make').",
+    "עֵזֶר כְּנֶגְדּוֹ is two words: 'a help' and 'like his counterpart'; כְּנֶגְדּוֹ is not a verb but a prepositional phrase.",
+    "The etnaḥta falls on לְבַדּוֹ and divides the statement from the resolve."
+   ],
+   "note": "'Corresponding to him' keeps the meaning 'a match, what stands opposite him' (Sforno: as one equal to him; Radak: before him, always ready to help him). Rashi's reading, 'against him, to fight' if he is not worthy, is kept in the commentary entry.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:18:1",
+     "relation": "follows",
+     "summary": "Rashi: 'not good' so that people would not say there are two powers, the Holy One alone above with no partner, and this one alone below with no partner. The English keeps the plain 'not good for the human to be alone'."
+    },
+    {
+     "anchor": "rashi:2:18:2",
+     "relation": "records",
+     "summary": "Rashi: if he is worthy, a help; if not, 'against him', to fight. The English keeps the neutral 'corresponding to him' and records the second reading."
+    },
+    {
+     "anchor": "ibn-ezra:2:18:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the meaning of 'not good' is said of the human; it is not good for him."
+    },
+    {
+     "anchor": "ibn-ezra:2:18:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'help' has the sense of 'two are better than one' (Eccl 4:9); a helper in company."
+    },
+    {
+     "anchor": "radak:2:18:5",
+     "relation": "records",
+     "summary": "Radak repeats the reading 'if worthy, a help; if not, against him' (Gen. Rabbah 17)."
+    }
+   ],
+   "apparatus": [
+    "WLC reads אֶעֱשֶׂהּ for MAM אֶעֱשֶׂה (2:18.9, vowels); the sense is unchanged."
+   ]
+  },
+  {
+   "ref": "2:19",
+   "english": "The LORD God formed from the ground every animal of the field and every bird of the sky, and brought them to the human to see what he would call it. Whatever the human called each living creature, that was its name.",
+   "literal": "and-formed the-LORD God from-the-ground every-of animal-of the-field and-OBJ every-of bird-of the-heavens and-brought to-the-human to-see what he-would-call to-him and-every which he-would-call to-him the-human living soul that his-name",
+   "tokens": [
+    {
+     "id": "2:19.1",
+     "gloss": "and formed",
+     "sense": "Qal 2",
+     "note": "wayyiqtol; Radak reads it as a pluperfect ('had formed'), Rashi equates it with the 'making' of 1:25"
+    },
+    {
+     "id": "2:19.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:19.3",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "2:19.4",
+     "gloss": "from"
+    },
+    {
+     "id": "2:19.5",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "2:19.6",
+     "gloss": "every",
+     "sense": "1",
+     "note": "construct: 'every of'"
+    },
+    {
+     "id": "2:19.7",
+     "gloss": "animal of",
+     "sense": "1.b",
+     "note": "construct"
+    },
+    {
+     "id": "2:19.8",
+     "gloss": "the field",
+     "sense": "1"
+    },
+    {
+     "id": "2:19.9",
+     "gloss": "and",
+     "note": "object marker, no counterpart in English"
+    },
+    {
+     "id": "2:19.10",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "2:19.11",
+     "gloss": "bird of",
+     "sense": "1",
+     "note": "construct; collective, 'birds'"
+    },
+    {
+     "id": "2:19.12",
+     "gloss": "the sky",
+     "sense": "1.a"
+    },
+    {
+     "id": "2:19.13",
+     "gloss": "and brought",
+     "sense": "Hiph 2",
+     "note": "wayyiqtol Hifil of בוא; 'them' is implicit"
+    },
+    {
+     "id": "2:19.14",
+     "gloss": "to"
+    },
+    {
+     "id": "2:19.15",
+     "gloss": "the human",
+     "sense": "1"
+    },
+    {
+     "id": "2:19.16",
+     "gloss": "to see",
+     "sense": "Qal 1.a",
+     "note": "לִ + infinitive construct, purpose"
+    },
+    {
+     "id": "2:19.17",
+     "gloss": "what",
+     "sense": "1"
+    },
+    {
+     "id": "2:19.18",
+     "gloss": "he would call",
+     "sense": "Qal 6",
+     "note": "imperfect 3rd masc. sing.; the subject is the human"
+    },
+    {
+     "id": "2:19.19",
+     "gloss": "to it"
+    },
+    {
+     "id": "2:19.20",
+     "gloss": "and everything",
+     "sense": "2.a"
+    },
+    {
+     "id": "2:19.21",
+     "gloss": "that"
+    },
+    {
+     "id": "2:19.22",
+     "gloss": "he called",
+     "sense": "Qal 6",
+     "note": "imperfect, general or repeated: 'whatever he called'"
+    },
+    {
+     "id": "2:19.23",
+     "gloss": "it"
+    },
+    {
+     "id": "2:19.24",
+     "gloss": "the human",
+     "sense": "1"
+    },
+    {
+     "id": "2:19.25",
+     "gloss": "creature",
+     "sense": "1",
+     "note": "the noun: 'a breathing being'; the adjective חַיָּה follows it, so נֶפֶשׁ חַיָּה is 'living creature'"
+    },
+    {
+     "id": "2:19.26",
+     "gloss": "living",
+     "sense": "1.c",
+     "note": "the pack lists 'alive, living' for חַיָּה's adjective sense; here the phrase נֶפֶשׁ חַיָּה is 'living being'"
+    },
+    {
+     "id": "2:19.27",
+     "gloss": "that"
+    },
+    {
+     "id": "2:19.28",
+     "gloss": "its name",
+     "sense": "3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:19.1",
+      "2:19.2",
+      "2:19.3"
+     ],
+     "english": "The LORD God formed",
+     "literal": "'and-formed the-LORD God'"
+    },
+    {
+     "tokens": [
+      "2:19.4",
+      "2:19.5"
+     ],
+     "english": "from the ground",
+     "literal": "'from the-ground'"
+    },
+    {
+     "tokens": [
+      "2:19.6",
+      "2:19.7",
+      "2:19.8"
+     ],
+     "english": "every animal of the field",
+     "literal": "'every-of animal-of the-field'"
+    },
+    {
+     "tokens": [
+      "2:19.9",
+      "2:19.10",
+      "2:19.11",
+      "2:19.12"
+     ],
+     "english": "and every bird of the sky",
+     "literal": "'and-OBJ every-of bird-of the-heavens'; the object marker אֵת links the second object"
+    },
+    {
+     "tokens": [
+      "2:19.13",
+      "2:19.14",
+      "2:19.15"
+     ],
+     "english": "and brought them to the human",
+     "literal": "'and-brought to the-human'"
+    },
+    {
+     "tokens": [
+      "2:19.16",
+      "2:19.17",
+      "2:19.18",
+      "2:19.19"
+     ],
+     "english": "to see what he would call it",
+     "literal": "'to-see what he-would-call to-him'"
+    },
+    {
+     "tokens": [
+      "2:19.20",
+      "2:19.21",
+      "2:19.22",
+      "2:19.23",
+      "2:19.24",
+      "2:19.25",
+      "2:19.26"
+     ],
+     "english": "Whatever the human called each living creature",
+     "literal": "'and-every which he-would-call to-him the-human living soul': read, with Rashi and Ibn Ezra, as 'every living being that the human would call'"
+    },
+    {
+     "tokens": [
+      "2:19.27",
+      "2:19.28"
+     ],
+     "english": "that was its name",
+     "literal": "'that his-name'"
+    }
+   ],
+   "grammar": [
+    "וַיִּצֶר is a wayyiqtol of יצר (the yod of the root is dropped in writing, as Radak notes); the sequence continues the narrative but does not fix a new moment (compare 'had formed').",
+    "לִרְאוֹת מַה־יִּקְרָא־לוֹ: purpose, with an indirect question, 'to see what he would call it'.",
+    "וְכֹל אֲשֶׁר יִקְרָא־לוֹ הָאָדָם נֶפֶשׁ חַיָּה הוּא שְׁמוֹ is a hard construction: 'and all which the human would call to it, a living being, that is its name'. Rashi and Ibn Ezra both read נֶפֶשׁ חַיָּה as the thing named.",
+    "Wordplay: אֲדָמָה (ground), אָדָם (human)."
+   ],
+   "note": "For the last clause the English follows the agreed reading of Rashi and Ibn Ezra: 'each living creature the human called, that was its name'. Ramban gives a different reading (the human calls each kind 'a living being' like himself, and so finds none a help); it is kept in the commentary.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:19:1",
+     "relation": "follows",
+     "summary": "Rashi: 'formed' is the same act as the 'making' of the beasts above; Scripture adds that birds were made from the ground (the swamp), and that they were brought to the human the same day to be named. In aggadah, 'form' means 'subdue'."
+    },
+    {
+     "anchor": "rashi:2:19:2",
+     "relation": "follows",
+     "summary": "Rashi: rearrange it and explain: every living being that the human would call by a name, that is its name for ever."
+    },
+    {
+     "anchor": "ibn-ezra:2:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the lamed of לוֹ serves itself and another word with it: read 'whatever the human would call it, to (each) living creature' (לנפש חיה), 'that is its name'. The extra לוֹ adds clarity, like 'she opened it and saw him, the child' (Ex 2:6)."
+    },
+    {
+     "anchor": "ramban:2:19:1",
+     "relation": "records",
+     "summary": "Ramban offers a reading connecting the clause with the search for a helper: whichever kind the human calls 'living being' like himself would be the helper; he found none."
+    }
+   ]
+  },
+  {
+   "ref": "2:20",
+   "english": "The human gave names to all the livestock and the birds of the sky, and to every animal of the field; but for himself the human did not find a helper corresponding to him.",
+   "literal": "and-called the-human names to-every-of the-livestock and-to-bird-of the-heavens and-to-every-of animal-of the-field and-for-human not he-found help like-opposite-him",
+   "tokens": [
+    {
+     "id": "2:20.1",
+     "gloss": "and called",
+     "sense": "Qal 6",
+     "note": "wayyiqtol; with 'names' it means 'gave names to'"
+    },
+    {
+     "id": "2:20.2",
+     "gloss": "the human",
+     "sense": "1"
+    },
+    {
+     "id": "2:20.3",
+     "gloss": "names",
+     "sense": "3",
+     "note": "plural of שֵׁם"
+    },
+    {
+     "id": "2:20.4",
+     "gloss": "to all",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "2:20.5",
+     "gloss": "the livestock",
+     "note": "here the tame animals, set beside 'the animal of the field'. The pack's only listed sense for the entry, 'wild beasts' (3), does not fit, so no sense is given."
+    },
+    {
+     "id": "2:20.6",
+     "gloss": "and to the birds of",
+     "sense": "1",
+     "note": "construct, collective"
+    },
+    {
+     "id": "2:20.7",
+     "gloss": "the sky",
+     "sense": "1.a"
+    },
+    {
+     "id": "2:20.8",
+     "gloss": "and to every",
+     "sense": "1"
+    },
+    {
+     "id": "2:20.9",
+     "gloss": "animal of",
+     "sense": "1.b"
+    },
+    {
+     "id": "2:20.10",
+     "gloss": "the field",
+     "sense": "1"
+    },
+    {
+     "id": "2:20.11",
+     "gloss": "and for himself",
+     "sense": "1",
+     "note": "אָדָם without the article. Ibn Ezra: the noun stands for the pronoun, 'and for himself', as in 1 Sam 12:11. A proper-name reading 'for Adam' is kept in the apparatus."
+    },
+    {
+     "id": "2:20.12",
+     "gloss": "not"
+    },
+    {
+     "id": "2:20.13",
+     "gloss": "he found",
+     "sense": "Qal 1",
+     "note": "perfect of מצא, subject the human"
+    },
+    {
+     "id": "2:20.14",
+     "gloss": "a helper",
+     "sense": "2"
+    },
+    {
+     "id": "2:20.15",
+     "gloss": "corresponding to him"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:20.1",
+      "2:20.2",
+      "2:20.3"
+     ],
+     "english": "The human gave names",
+     "literal": "'and-called the-human names'"
+    },
+    {
+     "tokens": [
+      "2:20.4",
+      "2:20.5"
+     ],
+     "english": "to all the livestock",
+     "literal": "'to-every-of the-livestock'"
+    },
+    {
+     "tokens": [
+      "2:20.6",
+      "2:20.7"
+     ],
+     "english": "and the birds of the sky",
+     "literal": "'and-to-bird-of the-heavens'; with Ibn Ezra, the 'all' of לְכָל also governs this noun"
+    },
+    {
+     "tokens": [
+      "2:20.8",
+      "2:20.9",
+      "2:20.10"
+     ],
+     "english": "and to every animal of the field",
+     "literal": "'and-to-every-of animal-of the-field'"
+    },
+    {
+     "tokens": [
+      "2:20.11",
+      "2:20.12",
+      "2:20.13"
+     ],
+     "english": "but for himself the human did not find",
+     "literal": "'and-for-human not he-found'; the ו is adversative; with Ibn Ezra, אָדָם stands for 'himself', and the human is the subject of מָצָא"
+    },
+    {
+     "tokens": [
+      "2:20.14",
+      "2:20.15"
+     ],
+     "english": "a helper corresponding to him",
+     "literal": "'help like-opposite-him'"
+    }
+   ],
+   "grammar": [
+    "לְכָל־הַבְּהֵמָה: Ibn Ezra says the word לְכָל 'draws itself and another with it': its 'all' also governs וּלְעוֹף הַשָּׁמַיִם, 'and to all the birds of the sky' (compare Deut 33:6, Prov 30:3).",
+    "Anarthrous וּלְאָדָם: Ibn Ezra reads 'and for himself', as the Hebrew idiom puts the name of a person for the person. Rashi has the human speak of himself.",
+    "The subject of לֹא־מָצָא is the human, not the LORD God (Ibn Ezra calls the reading with the LORD as subject 'far').",
+    "The zaqef gadol on וּלְאָדָם marks the turn from the naming to the lack."
+   ],
+   "note": "'For himself' follows Ibn Ezra: the noun אָדָם, without the article, stands for the pronoun, and the human is the subject of מָצָא. Rashi agrees on the subject: the human says 'I have no mate'. 'All' is given to the livestock and the birds together, as Ibn Ezra reads לְכָל. A proper-name reading 'for Adam' is kept in the apparatus.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:20:1",
+     "relation": "follows",
+     "summary": "Rashi: when each kind was brought, male and female, he said: all have a mate and I have none; at once, 'And the LORD God cast a deep sleep'."
+    },
+    {
+     "anchor": "ibn-ezra:2:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the word לְכָל in לְכָל הַבְּהֵמָה also 'draws itself and another with it': the sense is 'and to all the birds of the sky'. Compare Deut 33:6 and Prov 30:3."
+    },
+    {
+     "anchor": "ibn-ezra:2:20:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'and for the human he found none' means 'for himself he found none', as Hebrew idiom has it (1 Sam 12:11); he rejects the reading in which the LORD is the subject. Here he adds that the birds were formed from the ground, and above from the waters, since from both."
+    },
+    {
+     "anchor": "ramban:2:20:1",
+     "relation": "records",
+     "summary": "Ramban praises Rashi's reading (the naming is placed inside the account of the helper). His own view: the naming was itself the search for a helper. In naming, the human set apart the kinds that can breed with one another, and found none fit for himself. 'For Adam' means 'for the name of Adam', a helper to be called by his name."
+    }
+   ],
+   "apparatus": [
+    "Anarthrous אָדָם (2:20.11): Ibn Ezra 'for himself'; as a name 'for Adam' is possible (decision: 'the human' where doubtful; not 'Adam' before 4:25)."
+   ]
+  },
+  {
+   "ref": "2:21",
+   "english": "Then the LORD God cast a deep sleep upon the human, and he slept; and he took one of his sides and closed up flesh in its place.",
+   "literal": "and-caused-to-fall the-LORD God deep-sleep upon the-human and-he-slept and-took one from-his-sides and-closed flesh under-it",
+   "tokens": [
+    {
+     "id": "2:21.1",
+     "gloss": "and cast",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol Hifil of נפל: 'made fall'; Ibn Ezra: the heavy (hif'il) stem"
+    },
+    {
+     "id": "2:21.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:21.3",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "2:21.4",
+     "gloss": "a deep sleep",
+     "note": "deeper than sleep (Ibn Ezra); the ת is prefixed"
+    },
+    {
+     "id": "2:21.5",
+     "gloss": "upon"
+    },
+    {
+     "id": "2:21.6",
+     "gloss": "the human",
+     "sense": "1"
+    },
+    {
+     "id": "2:21.7",
+     "gloss": "and he slept",
+     "sense": "Qal",
+     "note": "wayyiqtol; the stem has one sense: 'sleep'"
+    },
+    {
+     "id": "2:21.8",
+     "gloss": "and he took",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "2:21.9",
+     "gloss": "one",
+     "sense": "1",
+     "note": "feminine, to agree with צלע"
+    },
+    {
+     "id": "2:21.10",
+     "gloss": "from his sides",
+     "note": "plural with suffix; the word means 'side' as in 'the side of the tabernacle', and may mean 'rib'"
+    },
+    {
+     "id": "2:21.11",
+     "gloss": "and closed up",
+     "sense": "Qal 2.b",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "2:21.12",
+     "gloss": "flesh",
+     "sense": "1"
+    },
+    {
+     "id": "2:21.13",
+     "gloss": "in its place",
+     "note": "תחת + feminine suffix -נָּה: 'in its place'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:21.1",
+      "2:21.2",
+      "2:21.3",
+      "2:21.4",
+      "2:21.5",
+      "2:21.6"
+     ],
+     "english": "Then the LORD God cast a deep sleep upon the human",
+     "literal": "'and-caused-to-fall the-LORD God deep-sleep upon the-human'"
+    },
+    {
+     "tokens": [
+      "2:21.7"
+     ],
+     "english": "and he slept",
+     "literal": "'and-he-slept'"
+    },
+    {
+     "tokens": [
+      "2:21.8",
+      "2:21.9",
+      "2:21.10"
+     ],
+     "english": "and he took one of his sides",
+     "literal": "'and-took one from-his-sides'"
+    },
+    {
+     "tokens": [
+      "2:21.11",
+      "2:21.12",
+      "2:21.13"
+     ],
+     "english": "and closed up flesh in its place",
+     "literal": "'and-closed flesh under-it'"
+    }
+   ],
+   "grammar": [
+    "הִפִּיל תַּרְדֵּמָה is a Hifil of נפל with an object: 'made a deep sleep fall' on the human; Ibn Ezra notes the 'heavy' stem.",
+    "וַיִּישַׁן, וַיִּקַּח, וַיִּסְגֹּר: a run of wayyiqtols narrates the operation.",
+    "אַחַת מִצַּלְעֹתָיו: the numeral is feminine to agree with צֵלָע; the partitive מִ gives 'one of his sides'.",
+    "תַּחְתֶּנָּה has a nun added to the feminine suffix (Radak, Ibn Ezra), as תַּחְתֶּיהָ."
+   ],
+   "note": "Rashi and Ibn Ezra agree that צֵלָע is 'side' here (Rashi: 'his sides', as in 'the side of the tabernacle'; Ibn Ezra: 'side'). The English follows: 'one of his sides'. 'Rib' (Targum Onkelos עלעא, Radak's second view) is kept in the apparatus.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:21:1",
+     "relation": "follows",
+     "summary": "Rashi: מִצַּלְעֹתָיו means 'from his sides', as 'the side of the tabernacle' (Ex 26); this is the saying 'two faces were created'."
+    },
+    {
+     "anchor": "rashi:2:21:2",
+     "relation": "follows",
+     "summary": "Rashi: 'and he closed' means at the place of the cut: the flesh was closed over the spot from which the side was taken."
+    },
+    {
+     "anchor": "rashi:2:21:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: he slept and then took, so that he would not see the piece of flesh from which she was made and be repelled; it bears on motive, not on the words."
+    },
+    {
+     "anchor": "ibn-ezra:2:21:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיַּפֵּל is from the heavy (Hifil) stem."
+    },
+    {
+     "anchor": "ibn-ezra:2:21:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: תַּרְדֵּמָה is more than sleep, and sleep more than slumber; the ת is added."
+    },
+    {
+     "anchor": "ibn-ezra:2:21:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: there were two 'sides', as 'the second side of the tabernacle' (Ex 26:20); the word is feminine; the sense is 'side'."
+    },
+    {
+     "anchor": "ibn-ezra:2:21:4",
+     "relation": "follows",
+     "summary": "Ibn Ezra: תַּחְתֶּנָּה is 'its place', a singular with a nun added."
+    },
+    {
+     "anchor": "radak:2:21:4",
+     "relation": "records",
+     "summary": "Radak: some say two faces joined back to back, with 'rib' as 'side'; some say literally 'rib' (as Onkelos עַלְעָא)."
+    }
+   ],
+   "apparatus": [
+    "'Rib' (Onkelos, Radak's second view) is the common rendering of צֵלָע; the English follows Rashi and Ibn Ezra's 'side'."
+   ]
+  },
+  {
+   "ref": "2:22",
+   "english": "The LORD God built the side that he had taken from the human into a woman, and brought her to the human.",
+   "literal": "and-built the-LORD God OBJ-the-side which he-took from-the-human to-woman and-brought-her to-the-human",
+   "tokens": [
+    {
+     "id": "2:22.1",
+     "gloss": "and built",
+     "sense": "Qal",
+     "note": "wayyiqtol of בנה"
+    },
+    {
+     "id": "2:22.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "2:22.3",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "2:22.4",
+     "gloss": "(object marker)",
+     "note": "object marker; no English counterpart"
+    },
+    {
+     "id": "2:22.5",
+     "gloss": "the side",
+     "note": "the same word as 2:21's 'sides', in the singular"
+    },
+    {
+     "id": "2:22.6",
+     "gloss": "that"
+    },
+    {
+     "id": "2:22.7",
+     "gloss": "he had taken",
+     "sense": "Qal 1",
+     "note": "perfect, rendered as a past perfect because it refers to 2:21"
+    },
+    {
+     "id": "2:22.8",
+     "gloss": "from"
+    },
+    {
+     "id": "2:22.9",
+     "gloss": "the human",
+     "sense": "1"
+    },
+    {
+     "id": "2:22.10",
+     "gloss": "into a woman",
+     "sense": "1",
+     "note": "לְ + noun: 'to become a woman' (Rashi), 'for woman'"
+    },
+    {
+     "id": "2:22.11",
+     "gloss": "and brought her",
+     "sense": "Hiph 2",
+     "note": "wayyiqtol Hifil with 3rd fem. sing. suffix; written defectively, without the yod of the full spelling וַיְבִיאֶהָ"
+    },
+    {
+     "id": "2:22.12",
+     "gloss": "to"
+    },
+    {
+     "id": "2:22.13",
+     "gloss": "the human",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:22.1",
+      "2:22.2",
+      "2:22.3"
+     ],
+     "english": "The LORD God built",
+     "literal": "'and-built the-LORD God'"
+    },
+    {
+     "tokens": [
+      "2:22.4",
+      "2:22.5"
+     ],
+     "english": "the side",
+     "literal": "'OBJ the-side'"
+    },
+    {
+     "tokens": [
+      "2:22.6",
+      "2:22.7",
+      "2:22.8",
+      "2:22.9"
+     ],
+     "english": "that he had taken from the human",
+     "literal": "'which he-took from-the-human'"
+    },
+    {
+     "tokens": [
+      "2:22.10"
+     ],
+     "english": "into a woman",
+     "literal": "'to-woman'; Rashi: 'to be a woman', as 'Gideon made it into an ephod' (Judg 8:27)"
+    },
+    {
+     "tokens": [
+      "2:22.11",
+      "2:22.12",
+      "2:22.13"
+     ],
+     "english": "and brought her to the human",
+     "literal": "'and-brought-her to-the-human'"
+    }
+   ],
+   "grammar": [
+    "וַיִּבֶן is a shortened wayyiqtol of בנה in the Qal ('built'). Ibn Ezra says the form can be taken from the 'heavy' stem and also from the 'light' stem, like וַיִּפֶן and וַיִּקֶן. The verb takes the side as object.",
+    "לְאִשָּׁה: the preposition ל marks the result of the building, 'into a woman' (Rashi), not a purpose clause.",
+    "אֲשֶׁר־לָקַח is a perfect in a relative clause, a pluperfect in sense ('had taken').",
+    "From וַיִּבֶן the conjunctive accents (telisha qetana, qadma, darga) bind the verb to its subject. The paseq after אֱלֹהִים and the tevir on הַצֵּלָע make the first breaks, and the etnaḥta on לְאִשָּׁה divides the building from the bringing."
+   ],
+   "note": "Rashi's 'built' as 'in the form of a building, wide below and narrow above' bears on the picture of the verb and is kept in the commentary entry; the English uses 'built' as the plain word.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:22:1",
+     "relation": "follows",
+     "summary": "Rashi: 'built' as a building, wide below and narrow above, to receive the child, as a granary for wheat is wide below and narrow above."
+    },
+    {
+     "anchor": "rashi:2:22:2",
+     "relation": "follows",
+     "summary": "Rashi: לְאִשָּׁה means 'to be a woman', as 'Gideon made it into an ephod'."
+    },
+    {
+     "anchor": "ibn-ezra:2:22:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיִּבֶן may be taken from the 'heavy' stem and also from the 'light' stem (Qal), like וַיִּפֶן (Ex 7:23) and וַיִּקֶן (Gen 33:19)."
+    },
+    {
+     "anchor": "ibn-ezra:2:22:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: either he thought, on waking and seeing her, that she was brought as the animals were, and Scripture speaks of his thought; or she was built outside the garden and then brought; when he looked he knew she had been cut from him."
+    }
+   ]
+  },
+  {
+   "ref": "2:23",
+   "english": "Then the human said, \"This one, this time, is bone of my bones and flesh of my flesh. This one shall be called woman, for from man this one was taken.\"",
+   "literal": "and-said the-human this the-time bone from-my-bones and-flesh from-my-flesh to-this-one it-will-be-called woman for from-man was-taken this-one",
+   "tokens": [
+    {
+     "id": "2:23.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "2:23.2",
+     "gloss": "the human",
+     "sense": "1"
+    },
+    {
+     "id": "2:23.3",
+     "gloss": "this one",
+     "note": "feminine demonstrative"
+    },
+    {
+     "id": "2:23.4",
+     "gloss": "the time",
+     "note": "'the time, the occasion': 'this time'; Radak: the earlier presentation of animals found none"
+    },
+    {
+     "id": "2:23.5",
+     "gloss": "bone",
+     "note": "absolute; with the partitive מִן that follows, 'a bone from my bones', that is 'bone of my bones'"
+    },
+    {
+     "id": "2:23.6",
+     "gloss": "from my bones",
+     "note": "min with the plural: 'of my bones'; the ‘bone of my bones’ idiom"
+    },
+    {
+     "id": "2:23.7",
+     "gloss": "and flesh",
+     "sense": "1"
+    },
+    {
+     "id": "2:23.8",
+     "gloss": "from my flesh",
+     "sense": "1"
+    },
+    {
+     "id": "2:23.9",
+     "gloss": "to this one",
+     "note": "לְ: 'for this one' (Ibn Ezra: בעבור זאת); compare 'about me' in Gen 20:13"
+    },
+    {
+     "id": "2:23.10",
+     "gloss": "it will be called",
+     "sense": "Niph 2",
+     "note": "Nifal imperfect, impersonal 'it is called'; Ibn Ezra: 'on a name'"
+    },
+    {
+     "id": "2:23.11",
+     "gloss": "woman",
+     "sense": "1",
+     "note": "אִשָּׁה with dagesh in the shin, in place of the yod of אִישׁ; Rashi: a wordplay"
+    },
+    {
+     "id": "2:23.12",
+     "gloss": "for"
+    },
+    {
+     "id": "2:23.13",
+     "gloss": "from man",
+     "note": "'from a man', 'from the man'"
+    },
+    {
+     "id": "2:23.14",
+     "gloss": "was taken",
+     "sense": "Pu 1",
+     "note": "perfect passive"
+    },
+    {
+     "id": "2:23.15",
+     "gloss": "this one",
+     "note": "feminine; the subject, placed last for emphasis"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:23.1",
+      "2:23.2"
+     ],
+     "english": "Then the human said",
+     "literal": "'and-said the-human'"
+    },
+    {
+     "tokens": [
+      "2:23.3",
+      "2:23.4"
+     ],
+     "english": "This one, this time",
+     "literal": "'this the-time'"
+    },
+    {
+     "tokens": [
+      "2:23.5",
+      "2:23.6"
+     ],
+     "english": "is bone of my bones",
+     "literal": "'bone from-my-bones'"
+    },
+    {
+     "tokens": [
+      "2:23.7",
+      "2:23.8"
+     ],
+     "english": "and flesh of my flesh",
+     "literal": "'and-flesh from-my-flesh'"
+    },
+    {
+     "tokens": [
+      "2:23.9",
+      "2:23.10",
+      "2:23.11"
+     ],
+     "english": "This one shall be called woman",
+     "literal": "'to-this-one it-will-be-called woman'"
+    },
+    {
+     "tokens": [
+      "2:23.12",
+      "2:23.13"
+     ],
+     "english": "for from man",
+     "literal": "'for from-man'"
+    },
+    {
+     "tokens": [
+      "2:23.14",
+      "2:23.15"
+     ],
+     "english": "this one was taken",
+     "literal": "'was-taken this-one'"
+    }
+   ],
+   "grammar": [
+    "זֹאת הַפַּעַם: 'this one, the time', hence 'this time'. The etnaḥta on מִבְּשָׂרִי divides the verse into the recognition and the naming. In the first half, the revia on הַפַּעַם and the zaqef on מֵעֲצָמַי set off 'this time', 'bone of my bones' and 'flesh of my flesh'.",
+    "עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי: two parallel lines, with a verbless clause: the first colon names bone, the second flesh.",
+    "אִשָּׁה and אִישׁ: a wordplay. Rashi: the Holy Tongue is the language of creation; Ibn Ezra explains the dagesh in שׁ as in place of the yod of אִישׁ.",
+    "יִקָּרֵא is a Nifal imperfect; לֻקְחָה is a Pual perfect (WLC vowels לֻקֳחָה). The qof has no dagesh (Radak: 'the qof is rafe')."
+   ],
+   "note": "'This time' is the plain sense; Rashi's homily (the human had come on every beast and was not satisfied) is not adopted. Radak: this time (not the first, when the animals were brought).",
+   "commentary": [
+    {
+     "anchor": "rashi:2:23:1",
+     "relation": "not-applicable",
+     "summary": "Rashi (Yevamot 63a): this teaches that the human came upon every beast and animal and was not satisfied; a homily, not the plain sense."
+    },
+    {
+     "anchor": "rashi:2:23:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: a play on words (אִישׁ, אִשָּׁה): from here the world was created in the Holy Tongue."
+    },
+    {
+     "anchor": "ibn-ezra:2:23:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: then he said: this time I have found a help corresponding to me, like me, since from me she was; and the Lilith story is homily."
+    },
+    {
+     "anchor": "ibn-ezra:2:23:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: לְזֹאת means 'for this one, concerning this one' (בעבור זאת), as 'say of me, He is my brother' (Gen 20:13)."
+    },
+    {
+     "anchor": "ibn-ezra:2:23:3",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: the dagesh in the שׁ of אִשָּׁה replaces the silent yod of אִישׁ, and perhaps it is dagesh so as not to be mixed with אִישָׁהּ, 'her husband'; compare נשים from אנוש."
+    },
+    {
+     "anchor": "ibn-ezra:2:23:4",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יִקָּרֵא means 'on a name', that is 'be called by name'."
+    }
+   ],
+   "apparatus": [
+    "WLC reads לֻקֳחָה for MAM לֻקְחָה (vowels, 2:23.14); the same word."
+   ]
+  },
+  {
+   "ref": "2:24",
+   "english": "Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh.",
+   "literal": "upon-so he-leaves man OBJ his-father and-OBJ his-mother and-clings to-his-wife and-they-become to-flesh one",
+   "tokens": [
+    {
+     "id": "2:24.1",
+     "gloss": "on"
+    },
+    {
+     "id": "2:24.2",
+     "gloss": "so",
+     "note": "עַל־כֵּן, a fixed phrase: 'therefore'"
+    },
+    {
+     "id": "2:24.3",
+     "gloss": "leaves",
+     "sense": "Qal 1",
+     "note": "imperfect, 3rd masc. sing., describing a custom"
+    },
+    {
+     "id": "2:24.4",
+     "gloss": "a man",
+     "note": "אִישׁ"
+    },
+    {
+     "id": "2:24.5",
+     "gloss": "(object marker)",
+     "note": "object marker; no English counterpart"
+    },
+    {
+     "id": "2:24.6",
+     "gloss": "his father",
+     "sense": "1",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "2:24.7",
+     "gloss": "and",
+     "note": "conjunction + object marker"
+    },
+    {
+     "id": "2:24.8",
+     "gloss": "his mother",
+     "sense": "1",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "2:24.9",
+     "gloss": "and clings",
+     "sense": "Qal 1",
+     "note": "weqatal, in sequence after a yiqtol: the habitual future or present"
+    },
+    {
+     "id": "2:24.10",
+     "gloss": "to his wife",
+     "sense": "2",
+     "note": "בְּ after דבק: 'cling to'"
+    },
+    {
+     "id": "2:24.11",
+     "gloss": "and they become",
+     "sense": "Qal II.2",
+     "note": "weqatal, 3rd common plural; the subject is the man and his wife"
+    },
+    {
+     "id": "2:24.12",
+     "gloss": "into flesh",
+     "sense": "2",
+     "note": "לְ marks the result: 'become into one flesh'"
+    },
+    {
+     "id": "2:24.13",
+     "gloss": "one",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:24.1",
+      "2:24.2"
+     ],
+     "english": "Therefore",
+     "literal": "'upon so'"
+    },
+    {
+     "tokens": [
+      "2:24.3",
+      "2:24.4"
+     ],
+     "english": "a man leaves",
+     "literal": "'he-leaves man'"
+    },
+    {
+     "tokens": [
+      "2:24.5",
+      "2:24.6"
+     ],
+     "english": "his father",
+     "literal": "'OBJ his-father'"
+    },
+    {
+     "tokens": [
+      "2:24.7",
+      "2:24.8"
+     ],
+     "english": "and his mother",
+     "literal": "'and-OBJ his-mother'"
+    },
+    {
+     "tokens": [
+      "2:24.9",
+      "2:24.10"
+     ],
+     "english": "and clings to his wife",
+     "literal": "'and-clings to-his-wife'"
+    },
+    {
+     "tokens": [
+      "2:24.11",
+      "2:24.12",
+      "2:24.13"
+     ],
+     "english": "and they become one flesh",
+     "literal": "'and-they-become to-flesh one'"
+    }
+   ],
+   "grammar": [
+    "עַל־כֵּן יַעֲזָב־אִישׁ: an imperfect after 'therefore' states a general rule, hence the present tense of the English.",
+    "וְדָבַק and וְהָיוּ are weqatal forms that continue the imperfect; the subject changes from 'a man' to 'they' (the man and his wife).",
+    "לְבָשָׂר אֶחָד: 'into one flesh', ל marking the result; compare Rashi and Ibn Ezra on the sense of unity.",
+    "The pashta on כֵּן and the zaqef on אִישׁ divide the verse; the etnaḥta falls on אִמּוֹ."
+   ],
+   "note": "The tense is present because the verse states a rule that follows from what was just done. Rashi's homily about the prohibition of incest is a legal derivation and does not bear on the English. 'One flesh' is read, as Ibn Ezra reads it, as 'as if they were one'; Rashi's 'the child' and the sense of procreation are kept in the commentary entry.",
+   "commentary": [
+    {
+     "anchor": "rashi:2:24:1",
+     "relation": "not-applicable",
+     "summary": "Rashi (Sanhedrin 57b): the holy spirit says this to forbid incest to the sons of Noah; a derived law, not the plain sense."
+    },
+    {
+     "anchor": "rashi:2:24:2",
+     "relation": "records",
+     "summary": "Rashi (Sanhedrin 58a): the child is formed from both of them, and there their flesh becomes one; this is an alternative sense of 'one flesh', not adopted here."
+    },
+    {
+     "anchor": "ibn-ezra:2:23:6",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'they become one flesh' as if they were one, or that they would be like one as they were; those who say they beget one are far from the plain sense. The English follows the first reading."
+    },
+    {
+     "anchor": "ramban:2:24:2",
+     "relation": "records",
+     "summary": "Ramban rejects Rashi's reading (animals too become one flesh in their young) and takes 'one flesh' to mean the clinging of man to wife as to his own flesh."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2140 @@
+{
+ "unit": "perek-5-04",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "5:19",
+   "english": "Whoever has these three things is of the disciples of Abraham our father; and three other things, of the disciples of Balaam the wicked. A good eye, a humble spirit, and a modest soul: of the disciples of Abraham our father. An evil eye, a haughty spirit, and a broad soul: of the disciples of Balaam the wicked. What is the difference between the disciples of Abraham our father and the disciples of Balaam the wicked? The disciples of Abraham our father eat in this world and inherit in the world to come, as it is said: \"To bequeath to those who love me substance, and I will fill their treasuries.\" But the disciples of Balaam the wicked inherit Gehinnom and go down to the pit of destruction, as it is said: \"And You, God, will bring them down to the pit of destruction; men of blood and deceit shall not live out half their days; but I will trust in You.\"",
+   "literal": "all who that-there-is in-his-hand three things these, from-his-disciples of Abraham our-father. and-three things other, from-his-disciples of Balaam the-wicked. eye good, and-spirit lowly, and-soul low, from-his-disciples of Abraham our-father. eye evil, and-spirit high, and-soul broad, from-his-disciples of Balaam the-wicked. what between his-disciples of Abraham our-father to-his-disciples of Balaam the-wicked? his-disciples of Abraham our-father eat in-the-world the-this and-inherit in-the-world the-coming, that-it-was-said (Proverbs 8) to-bequeath those-who-love-me substance, and-their-treasuries I-will-fill. but his-disciples of Balaam the-wicked inherit Gehinnom and-go-down to-pit-of destruction, that-it-was-said (Psalms 55) and-you God you-will-bring-them-down to-pit-of destruction, men-of blood and-deceit not they-will-halve their-days, and-I I-will-trust in-you.",
+   "tokens": [
+    {
+     "id": "5:19.1",
+     "gloss": "every",
+     "sense": "1",
+     "note": "construct: 'every (one) who'; כָּל מִי is the Mishnaic 'whoever'."
+    },
+    {
+     "id": "5:19.2",
+     "gloss": "who"
+    },
+    {
+     "id": "5:19.3",
+     "gloss": "that there is",
+     "note": "שֶׁ is the relative; יֵשׁ בְּיָדוֹ, 'there is in his hand', means 'he has, he holds' (lit. 'in his hand')."
+    },
+    {
+     "id": "5:19.4",
+     "gloss": "in his hand"
+    },
+    {
+     "id": "5:19.5",
+     "gloss": "three"
+    },
+    {
+     "id": "5:19.6",
+     "gloss": "things",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.7",
+     "gloss": "these"
+    },
+    {
+     "id": "5:19.8",
+     "gloss": "from his disciples (of)",
+     "note": "מִ here is partitive: 'from among' the disciples; read 'is one of the disciples'."
+    },
+    {
+     "id": "5:19.9",
+     "gloss": "of"
+    },
+    {
+     "id": "5:19.10",
+     "gloss": "Abraham",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.11",
+     "gloss": "our father",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.12",
+     "gloss": "and three"
+    },
+    {
+     "id": "5:19.13",
+     "gloss": "things",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.14",
+     "gloss": "other",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.15",
+     "gloss": "from his disciples (of)"
+    },
+    {
+     "id": "5:19.16",
+     "gloss": "of"
+    },
+    {
+     "id": "5:19.17",
+     "gloss": "Balaam",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.18",
+     "gloss": "the wicked"
+    },
+    {
+     "id": "5:19.19",
+     "gloss": "eye",
+     "sense": "1",
+     "note": "עַיִן טוֹבָה, 'a good eye': generosity or contentment; Bartenura and Rambam: being satisfied with what one has."
+    },
+    {
+     "id": "5:19.20",
+     "gloss": "good",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.21",
+     "gloss": "and spirit"
+    },
+    {
+     "id": "5:19.22",
+     "gloss": "humble",
+     "note": "נְמוּכָה: 'low, lowly'; ר' בַּרְטֵנוּרָא: extreme humility (עֲנָוָה יְתֵרָה)."
+    },
+    {
+     "id": "5:19.23",
+     "gloss": "and soul"
+    },
+    {
+     "id": "5:19.24",
+     "gloss": "lowly",
+     "sense": "1",
+     "note": "שְׁפָלָה: 'low'; the commentators read 'restraint, abstinence from desires'."
+    },
+    {
+     "id": "5:19.25",
+     "gloss": "from his disciples (of)"
+    },
+    {
+     "id": "5:19.26",
+     "gloss": "of"
+    },
+    {
+     "id": "5:19.27",
+     "gloss": "Abraham",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.28",
+     "gloss": "our father",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.29",
+     "gloss": "eye",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.30",
+     "gloss": "evil",
+     "sense": "1",
+     "note": "Pack lemma רַע (evil, bad); here the idiom 'evil eye' = grudging, greedy."
+    },
+    {
+     "id": "5:19.31",
+     "gloss": "and spirit"
+    },
+    {
+     "id": "5:19.32",
+     "gloss": "haughty",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.33",
+     "gloss": "and soul"
+    },
+    {
+     "id": "5:19.34",
+     "gloss": "broad",
+     "sense": "1",
+     "note": "רְחָבָה: 'wide, broad': a soul of wide appetite, i.e. great craving."
+    },
+    {
+     "id": "5:19.35",
+     "gloss": "from his disciples (of)"
+    },
+    {
+     "id": "5:19.36",
+     "gloss": "of"
+    },
+    {
+     "id": "5:19.37",
+     "gloss": "Balaam",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.38",
+     "gloss": "the wicked"
+    },
+    {
+     "id": "5:19.39",
+     "gloss": "what"
+    },
+    {
+     "id": "5:19.40",
+     "gloss": "between"
+    },
+    {
+     "id": "5:19.41",
+     "gloss": "the disciples",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.42",
+     "gloss": "of"
+    },
+    {
+     "id": "5:19.43",
+     "gloss": "Abraham",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.44",
+     "gloss": "our father",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.45",
+     "gloss": "to the disciples (and the disciples)",
+     "note": "The prefix לְ after בֵּין repeats the 'between': 'between X and (lit. to) Y'."
+    },
+    {
+     "id": "5:19.46",
+     "gloss": "of"
+    },
+    {
+     "id": "5:19.47",
+     "gloss": "Balaam",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.48",
+     "gloss": "the wicked"
+    },
+    {
+     "id": "5:19.49",
+     "gloss": "the disciples",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.50",
+     "gloss": "of"
+    },
+    {
+     "id": "5:19.51",
+     "gloss": "Abraham",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.52",
+     "gloss": "our father",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.53",
+     "gloss": "eat",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.54",
+     "gloss": "in the world",
+     "note": "Pack lemma: עוֹלָם; 'this world'."
+    },
+    {
+     "id": "5:19.55",
+     "gloss": "this"
+    },
+    {
+     "id": "5:19.56",
+     "gloss": "and inherit"
+    },
+    {
+     "id": "5:19.57",
+     "gloss": "in the world"
+    },
+    {
+     "id": "5:19.58",
+     "gloss": "to come"
+    },
+    {
+     "id": "5:19.59",
+     "gloss": "as it is said"
+    },
+    {
+     "id": "5:19.60",
+     "gloss": "Proverbs",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.61",
+     "gloss": "8"
+    },
+    {
+     "id": "5:19.62",
+     "gloss": "to bequeath"
+    },
+    {
+     "id": "5:19.63",
+     "gloss": "those who love me",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.64",
+     "gloss": "substance",
+     "note": "יֵשׁ: 'there is', here a noun: 'substance, what is real'. Bartenura: the world to come."
+    },
+    {
+     "id": "5:19.65",
+     "gloss": "and their treasuries"
+    },
+    {
+     "id": "5:19.66",
+     "gloss": "I will fill",
+     "sense": "1",
+     "note": "אֲמַלֵּא: Piel imperfect 1st singular, 'I will fill'."
+    },
+    {
+     "id": "5:19.67",
+     "gloss": "but"
+    },
+    {
+     "id": "5:19.68",
+     "gloss": "the disciples",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.69",
+     "gloss": "of"
+    },
+    {
+     "id": "5:19.70",
+     "gloss": "Balaam",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.71",
+     "gloss": "the wicked"
+    },
+    {
+     "id": "5:19.72",
+     "gloss": "inherit",
+     "sense": "1",
+     "note": "יוֹרְשִׁין: Aramaic-style plural participle ending -ין, 'inherit'."
+    },
+    {
+     "id": "5:19.73",
+     "gloss": "Gehinnom"
+    },
+    {
+     "id": "5:19.74",
+     "gloss": "and go down"
+    },
+    {
+     "id": "5:19.75",
+     "gloss": "to the pit of"
+    },
+    {
+     "id": "5:19.76",
+     "gloss": "destruction",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.77",
+     "gloss": "as it is said"
+    },
+    {
+     "id": "5:19.78",
+     "gloss": "Psalms"
+    },
+    {
+     "id": "5:19.79",
+     "gloss": "55"
+    },
+    {
+     "id": "5:19.80",
+     "gloss": "and You"
+    },
+    {
+     "id": "5:19.81",
+     "gloss": "God",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.82",
+     "gloss": "will bring them down",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.83",
+     "gloss": "to the pit of"
+    },
+    {
+     "id": "5:19.84",
+     "gloss": "destruction",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.85",
+     "gloss": "men of",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.86",
+     "gloss": "blood",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.87",
+     "gloss": "and deceit"
+    },
+    {
+     "id": "5:19.88",
+     "gloss": "not"
+    },
+    {
+     "id": "5:19.89",
+     "gloss": "will live out half",
+     "sense": "1",
+     "note": "יֶחֱצוּ from חצה: 'divide, halve'; 'live out half' means 'reach half'."
+    },
+    {
+     "id": "5:19.90",
+     "gloss": "their days",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.91",
+     "gloss": "and I"
+    },
+    {
+     "id": "5:19.92",
+     "gloss": "will trust",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.93",
+     "gloss": "in You",
+     "note": "Pausal-style ending: בָּךְ 'in You', final word of the verse."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:19.1",
+      "5:19.2"
+     ],
+     "english": "Whoever",
+     "literal": "'every who': the indefinite 'whoever'"
+    },
+    {
+     "tokens": [
+      "5:19.3",
+      "5:19.4"
+     ],
+     "english": "has",
+     "literal": "'that there is in his hand': 'has in his possession'"
+    },
+    {
+     "tokens": [
+      "5:19.5",
+      "5:19.6",
+      "5:19.7"
+     ],
+     "english": "these three things",
+     "literal": "'three things these'; the demonstrative follows the noun in Hebrew; the three are named after"
+    },
+    {
+     "tokens": [
+      "5:19.8",
+      "5:19.9",
+      "5:19.10",
+      "5:19.11"
+     ],
+     "english": "is of the disciples of Abraham our father",
+     "literal": "'from his disciples of Abraham our father': a partitive, 'is among'"
+    },
+    {
+     "tokens": [
+      "5:19.12",
+      "5:19.13",
+      "5:19.14"
+     ],
+     "english": "and three other things",
+     "literal": "'and three things other': the opposite set"
+    },
+    {
+     "tokens": [
+      "5:19.15",
+      "5:19.16",
+      "5:19.17",
+      "5:19.18"
+     ],
+     "english": "of the disciples of Balaam the wicked",
+     "literal": "'from his disciples of Balaam the wicked'"
+    },
+    {
+     "tokens": [
+      "5:19.19",
+      "5:19.20"
+     ],
+     "english": "A good eye",
+     "literal": "'eye good'"
+    },
+    {
+     "tokens": [
+      "5:19.21",
+      "5:19.22"
+     ],
+     "english": "a humble spirit",
+     "literal": "'and spirit lowly'; the 'and' is the list conjunction, rendered by the comma"
+    },
+    {
+     "tokens": [
+      "5:19.23",
+      "5:19.24"
+     ],
+     "english": "and a modest soul",
+     "literal": "'and soul low'"
+    },
+    {
+     "tokens": [
+      "5:19.25",
+      "5:19.26",
+      "5:19.27",
+      "5:19.28"
+     ],
+     "english": "of the disciples of Abraham our father",
+     "literal": "'from his disciples of Abraham our father'"
+    },
+    {
+     "tokens": [
+      "5:19.29",
+      "5:19.30"
+     ],
+     "english": "An evil eye",
+     "literal": "'eye evil'"
+    },
+    {
+     "tokens": [
+      "5:19.31",
+      "5:19.32"
+     ],
+     "english": "a haughty spirit",
+     "literal": "'and spirit high'"
+    },
+    {
+     "tokens": [
+      "5:19.33",
+      "5:19.34"
+     ],
+     "english": "and a broad soul",
+     "literal": "'and soul wide'"
+    },
+    {
+     "tokens": [
+      "5:19.35",
+      "5:19.36",
+      "5:19.37",
+      "5:19.38"
+     ],
+     "english": "of the disciples of Balaam the wicked",
+     "literal": "'from his disciples of Balaam the wicked'"
+    },
+    {
+     "tokens": [
+      "5:19.39",
+      "5:19.40"
+     ],
+     "english": "What is the difference between",
+     "literal": "'what between'"
+    },
+    {
+     "tokens": [
+      "5:19.41",
+      "5:19.42",
+      "5:19.43",
+      "5:19.44"
+     ],
+     "english": "the disciples of Abraham our father",
+     "literal": "'his disciples of Abraham our father'"
+    },
+    {
+     "tokens": [
+      "5:19.45",
+      "5:19.46",
+      "5:19.47",
+      "5:19.48"
+     ],
+     "english": "and the disciples of Balaam the wicked",
+     "literal": "'to his disciples of Balaam the wicked'; the לְ completes 'between ... and ...'"
+    },
+    {
+     "tokens": [
+      "5:19.49",
+      "5:19.50",
+      "5:19.51",
+      "5:19.52"
+     ],
+     "english": "The disciples of Abraham our father",
+     "literal": "'his disciples of Abraham our father'"
+    },
+    {
+     "tokens": [
+      "5:19.53",
+      "5:19.54",
+      "5:19.55"
+     ],
+     "english": "eat in this world",
+     "literal": "'eat in-the-world the-this'"
+    },
+    {
+     "tokens": [
+      "5:19.56",
+      "5:19.57",
+      "5:19.58"
+     ],
+     "english": "and inherit in the world to come",
+     "literal": "'and-inherit in-the-world the-coming'"
+    },
+    {
+     "tokens": [
+      "5:19.59"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said': the formula introducing a verse"
+    },
+    {
+     "tokens": [
+      "5:19.60",
+      "5:19.61"
+     ],
+     "english": "-",
+     "literal": "source reference: Proverbs 8 (verse 21); not part of the quotation"
+    },
+    {
+     "tokens": [
+      "5:19.62",
+      "5:19.63",
+      "5:19.64"
+     ],
+     "english": "To bequeath to those who love me substance",
+     "literal": "'to-bequeath those-who-love-me substance'"
+    },
+    {
+     "tokens": [
+      "5:19.65",
+      "5:19.66"
+     ],
+     "english": "and I will fill their treasuries",
+     "literal": "'and-their-treasuries I-will-fill'"
+    },
+    {
+     "tokens": [
+      "5:19.67"
+     ],
+     "english": "But",
+     "literal": "'but'"
+    },
+    {
+     "tokens": [
+      "5:19.68",
+      "5:19.69",
+      "5:19.70",
+      "5:19.71"
+     ],
+     "english": "the disciples of Balaam the wicked",
+     "literal": "'his disciples of Balaam the wicked'"
+    },
+    {
+     "tokens": [
+      "5:19.72",
+      "5:19.73"
+     ],
+     "english": "inherit Gehinnom",
+     "literal": "'inherit Gehinnom'"
+    },
+    {
+     "tokens": [
+      "5:19.74",
+      "5:19.75",
+      "5:19.76"
+     ],
+     "english": "and go down to the pit of destruction",
+     "literal": "'and-go-down to-pit-of destruction'"
+    },
+    {
+     "tokens": [
+      "5:19.77"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "5:19.78",
+      "5:19.79"
+     ],
+     "english": "-",
+     "literal": "source reference: Psalms 55 (verse 24); not part of the quotation"
+    },
+    {
+     "tokens": [
+      "5:19.80",
+      "5:19.81"
+     ],
+     "english": "And You, God,",
+     "literal": "'and-you God'"
+    },
+    {
+     "tokens": [
+      "5:19.82"
+     ],
+     "english": "will bring them down",
+     "literal": "'you-will-bring-them-down'"
+    },
+    {
+     "tokens": [
+      "5:19.83",
+      "5:19.84"
+     ],
+     "english": "to the pit of destruction",
+     "literal": "'to-pit-of destruction'"
+    },
+    {
+     "tokens": [
+      "5:19.85",
+      "5:19.86",
+      "5:19.87"
+     ],
+     "english": "men of blood and deceit",
+     "literal": "'men-of blood and-deceit'"
+    },
+    {
+     "tokens": [
+      "5:19.88",
+      "5:19.89",
+      "5:19.90"
+     ],
+     "english": "shall not live out half their days",
+     "literal": "'not they-will-halve their-days'"
+    },
+    {
+     "tokens": [
+      "5:19.91",
+      "5:19.92",
+      "5:19.93"
+     ],
+     "english": "but I will trust in You",
+     "literal": "'and-I I-will-trust in-you'"
+    }
+   ],
+   "grammar": [
+    "The mishnah first states the matter in general terms (whoever has these three things) and then names the things; Rabbeinu Yonah draws from this that these three things are the whole of what makes one a disciple of Abraham or of Balaam.",
+    "The two lists are exact opposites, member for member: good eye / evil eye, lowly spirit / high spirit, low soul / broad soul. The two sets are given in parallel clauses with no verb: 'a good eye ... of the disciples of Abraham'.",
+    "מִתַּלְמִידָיו שֶׁל is the Mishnaic genitive with שֶׁל ('of') and a pronominal suffix anticipating the owner: lit. 'from his disciples, of Abraham'. The מִ is partitive.",
+    "The two proof texts are Prov 8:21 and Ps 55:24. In the second the verse is cut after וַאֲנִי אֶבְטַח בָּךְ, which does not describe Balaam's disciples but ends the verse as written.",
+    "Aramaic-style plural participles in -ין (אוֹכְלִין, נוֹחֲלִין, יוֹרְשִׁין, יוֹרְדִין) are normal Mishnaic Hebrew; the mishnah is Hebrew, not Aramaic."
+   ],
+   "note": "Translation choices. עַיִן טוֹבָה / רָעָה are kept as the literal 'good eye' / 'evil eye', with the commentators' definitions (Bartenura, Rambam: contentment vs. greed) given in the notes. רוּחַ נְמוּכָה 'humble spirit', נֶפֶשׁ שְׁפָלָה 'modest soul' (Bartenura: restraint and abstinence from desires; Rambam: caution), נֶפֶשׁ רְחָבָה 'broad soul' (great craving). אֹהֲבַי is 'those who love me' (Bartenura reads the verse as naming Abraham 'the lover', Isa 41:8). בְּאֵר שַׁחַת is 'the pit of destruction'; שַׁחַת is both 'pit' and 'destruction/corruption'. Gehinnom is left in Hebrew form per the decisions.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:19:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'of his disciples' means one who learns from him and walks in his ways. The English keeps 'of the disciples' with that sense."
+    },
+    {
+     "anchor": "bartenura:5:19:2",
+     "relation": "follows",
+     "summary": "Bartenura: a good eye is being content with what one has and not coveting others' money; proof Gen 14:23 (Abraham to the king of Sodom: not a thread or a sandal-strap). The English keeps the idiom and the notes give the sense."
+    },
+    {
+     "anchor": "bartenura:5:19:3",
+     "relation": "follows",
+     "summary": "Bartenura: רוּחַ נְמוּכָה is extra humility (עֲנָוָה יְתֵרָה), as Abraham says 'I am dust and ashes' (Gen 18:27)."
+    },
+    {
+     "anchor": "bartenura:5:19:4",
+     "relation": "follows",
+     "summary": "Bartenura: נֶפֶשׁ שְׁפָלָה is caution and abstinence from desires; Abraham 'knew' Sarah's beauty only late (Gen 12:11) out of modesty. He adds that Balaam's evil eye shows in his going for payment (Num 22:18)."
+    },
+    {
+     "anchor": "bartenura:5:19:5",
+     "relation": "follows",
+     "summary": "Bartenura: Balaam's haughty spirit, shown by 'the utterance of one who hears the words of God and knows the knowledge of the Most High' (Num 24:16)."
+    },
+    {
+     "anchor": "bartenura:5:19:6",
+     "relation": "follows",
+     "summary": "Bartenura: נֶפֶשׁ רְחָבָה is great appetite; otherwise Balaam would not have advised exposing the daughters of Moab to immorality; the sages say he lay with his ass (Sanhedrin 105a). The English 'broad soul' is literal and this is the sense."
+    },
+    {
+     "anchor": "bartenura:5:19:7",
+     "relation": "follows",
+     "summary": "Bartenura: Abraham is called 'lover' (Isa 41:8); יֵשׁ is the world to come and 'their treasuries I will fill' is this world. The English takes יֵשׁ as 'substance' with this reading noted; the order of worlds in the verse is the reverse of the mishnah's."
+    },
+    {
+     "anchor": "bartenura:5:19:8",
+     "relation": "follows",
+     "summary": "Bartenura: Balaam is called a 'man of blood' because by his counsel twenty-four thousand of Israel fell. The English 'men of blood' keeps the verse's plural."
+    },
+    {
+     "anchor": "rambam:5:17:1",
+     "relation": "not-applicable",
+     "summary": "Rambam: disputes for the sake of truth endure. His comment on 'this' in 5:17 about reward and punishment; it does not bear on the wording of 5:19."
+    },
+    {
+     "anchor": "rambam:5:18:1",
+     "relation": "not-applicable",
+     "summary": "Rambam: whoever makes others righteous is rewarded by being kept from sin, and whoever leads others astray is punished by being kept from repentance. A comment on the previous mishnah; no bearing on the English here."
+    },
+    {
+     "anchor": "rambam:5:19:1",
+     "relation": "follows",
+     "summary": "Rambam: good eye is contentment, lowly soul is caution, humble spirit is extra humility; their opposites are diligence in acquiring wealth (evil eye), great lust (broad soul) and pride (haughty spirit). He documents each in Abraham and Balaam. The English follows these identifications in its notes."
+    }
+   ],
+   "apparatus": [
+    "Prov 8:21: לְהַנְחִיל אֹהֲבַי יֵשׁ וְאֹצְרֹתֵיהֶם אֲמַלֵּא.",
+    "Ps 55:24: וְאַתָּה אֱלֹהִים תּוֹרִידֵם לִבְאֵר שַׁחַת אַנְשֵׁי דָמִים וּמִרְמָה לֹא יֶחֱצוּ יְמֵיהֶם וַאֲנִי אֶבְטַח בָּךְ.",
+    "Variant 5:19.32: Vilna reads גבוה (masculine) for גְּבוֹהָה; with רוּחַ (feminine) the base is the regular agreement.",
+    "Variant 5:19.58: Vilna reads הבאין (plural 'those that come') for הַבָּא; the base reads 'the world to come'.",
+    "Variant 5:19.63: Vilna reads אוהבי (full spelling) for אֹהֲבַי. Variant 5:19.65: Vilna reads ואוצרותיהם for וְאֹצְרֹתֵיהֶם.",
+    "The pack also lists two position-less variants (Vilna reads כא and כד) with no base text; they appear to be verse markers and bear on no word."
+   ]
+  },
+  {
+   "ref": "5:20",
+   "english": "Judah son of Tema says: Be bold as a leopard, light as an eagle, swift as a deer, and strong as a lion, to do the will of your Father in Heaven. He used to say: The bold-faced to Gehinnom, and the shamefaced to the Garden of Eden. May it be Your will, Lord our God, that You rebuild Your city speedily in our days, and give us our portion in Your Torah.",
+   "literal": "Judah son-of Tema says: be bold like-a-leopard, and-light like-an-eagle, and-running like-a-deer, and-mighty like-a-lion, to-do the-will-of your-Father who-in-the-heavens. he was saying: bold-of face to-Gehinnom, and-shame-of face to-garden-of Eden. may-it-be will from-before-you YHWH our-God that-you-build your-city in-speed in-our-days, and-give our-portion in-your-Torah.",
+   "tokens": [
+    {
+     "id": "5:20.1",
+     "gloss": "Judah",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.2",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.3",
+     "gloss": "Tema",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.4",
+     "gloss": "says",
+     "sense": "1",
+     "note": "אוֹמֵר: participle used as a present narrative: 'says'."
+    },
+    {
+     "id": "5:20.5",
+     "gloss": "be",
+     "sense": "1",
+     "note": "הֱוֵי: Aramaic-style imperative of היה, 'be!'"
+    },
+    {
+     "id": "5:20.6",
+     "gloss": "bold",
+     "sense": "1",
+     "note": "עַז: 'bold, fierce'; the leopard's boldness is in the face. Bartenura: be bold, do not be ashamed to ask your teacher."
+    },
+    {
+     "id": "5:20.7",
+     "gloss": "like a leopard"
+    },
+    {
+     "id": "5:20.8",
+     "gloss": "and light"
+    },
+    {
+     "id": "5:20.9",
+     "gloss": "like an eagle"
+    },
+    {
+     "id": "5:20.10",
+     "gloss": "and swift",
+     "note": "רָץ: participle of רוץ, 'running', so 'swift'."
+    },
+    {
+     "id": "5:20.11",
+     "gloss": "like a deer"
+    },
+    {
+     "id": "5:20.12",
+     "gloss": "and strong",
+     "note": "גִּבּוֹר: 'strong, mighty'."
+    },
+    {
+     "id": "5:20.13",
+     "gloss": "like a lion"
+    },
+    {
+     "id": "5:20.14",
+     "gloss": "to do"
+    },
+    {
+     "id": "5:20.15",
+     "gloss": "the will of",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.16",
+     "gloss": "your Father",
+     "sense": "1",
+     "note": "אָבִיךָ: 'your Father', God."
+    },
+    {
+     "id": "5:20.17",
+     "gloss": "who is in Heaven",
+     "note": "שֶׁבַּשָּׁמָיִם: 'who is in Heaven'; per decisions, שָׁמַיִם of God is rendered 'Heaven'."
+    },
+    {
+     "id": "5:20.18",
+     "gloss": "he"
+    },
+    {
+     "id": "5:20.19",
+     "gloss": "used to be",
+     "sense": "1",
+     "note": "הָיָה אוֹמֵר: with הוּא: 'he used to say' (decisions)."
+    },
+    {
+     "id": "5:20.20",
+     "gloss": "saying",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.21",
+     "gloss": "bold of",
+     "sense": "1",
+     "note": "עַז פָּנִים: 'bold of face', i.e. brazen, impudent; the opposite of בֹּשֶׁת פָּנִים 'shame of face', bashfulness."
+    },
+    {
+     "id": "5:20.22",
+     "gloss": "face",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.23",
+     "gloss": "to Gehinnom"
+    },
+    {
+     "id": "5:20.24",
+     "gloss": "and shame of"
+    },
+    {
+     "id": "5:20.25",
+     "gloss": "face",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.26",
+     "gloss": "to the Garden of"
+    },
+    {
+     "id": "5:20.27",
+     "gloss": "Eden",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.28",
+     "gloss": "may it be",
+     "sense": "1",
+     "note": "יְהִי רָצוֹן: jussive: 'may it be (Your) will'."
+    },
+    {
+     "id": "5:20.29",
+     "gloss": "will",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.30",
+     "gloss": "from before You"
+    },
+    {
+     "id": "5:20.31",
+     "gloss": "Lord",
+     "sense": "1",
+     "note": "יְיָ: the Tetragrammaton, written with two yods; read 'Adonai'; Vilna reads ה."
+    },
+    {
+     "id": "5:20.32",
+     "gloss": "our God",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.33",
+     "gloss": "that You rebuild",
+     "note": "שֶׁתִּבְנֶה: 'that You build', 2nd masc. imperfect, here a purpose clause after 'May it be Your will'."
+    },
+    {
+     "id": "5:20.34",
+     "gloss": "Your city",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.35",
+     "gloss": "speedily"
+    },
+    {
+     "id": "5:20.36",
+     "gloss": "in our days"
+    },
+    {
+     "id": "5:20.37",
+     "gloss": "and give",
+     "note": "וְתֵן: imperative of נתן, 'and give'."
+    },
+    {
+     "id": "5:20.38",
+     "gloss": "our portion",
+     "sense": "1"
+    },
+    {
+     "id": "5:20.39",
+     "gloss": "in Your Torah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:20.1",
+      "5:20.2",
+      "5:20.3"
+     ],
+     "english": "Judah son of Tema",
+     "literal": "'Judah son of Tema'"
+    },
+    {
+     "tokens": [
+      "5:20.4"
+     ],
+     "english": "says",
+     "literal": "'says'"
+    },
+    {
+     "tokens": [
+      "5:20.5",
+      "5:20.6",
+      "5:20.7"
+     ],
+     "english": "Be bold as a leopard",
+     "literal": "'be bold like-a-leopard'"
+    },
+    {
+     "tokens": [
+      "5:20.8",
+      "5:20.9"
+     ],
+     "english": "light as an eagle",
+     "literal": "'and-light like-an-eagle'"
+    },
+    {
+     "tokens": [
+      "5:20.10",
+      "5:20.11"
+     ],
+     "english": "swift as a deer",
+     "literal": "'and-running like-a-deer'"
+    },
+    {
+     "tokens": [
+      "5:20.12",
+      "5:20.13"
+     ],
+     "english": "and strong as a lion",
+     "literal": "'and-mighty like-a-lion'"
+    },
+    {
+     "tokens": [
+      "5:20.14",
+      "5:20.15",
+      "5:20.16",
+      "5:20.17"
+     ],
+     "english": "to do the will of your Father in Heaven",
+     "literal": "'to-do the-will-of your-Father who-in-the-heavens'"
+    },
+    {
+     "tokens": [
+      "5:20.18",
+      "5:20.19",
+      "5:20.20"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'"
+    },
+    {
+     "tokens": [
+      "5:20.21",
+      "5:20.22",
+      "5:20.23"
+     ],
+     "english": "The bold-faced to Gehinnom",
+     "literal": "'bold-of face to-Gehinnom'"
+    },
+    {
+     "tokens": [
+      "5:20.24",
+      "5:20.25",
+      "5:20.26",
+      "5:20.27"
+     ],
+     "english": "and the shamefaced to the Garden of Eden",
+     "literal": "'and-shame-of face to-garden-of Eden'"
+    },
+    {
+     "tokens": [
+      "5:20.28",
+      "5:20.29",
+      "5:20.30"
+     ],
+     "english": "May it be Your will",
+     "literal": "'may-it-be will from-before-you'"
+    },
+    {
+     "tokens": [
+      "5:20.31",
+      "5:20.32"
+     ],
+     "english": "Lord our God",
+     "literal": "'YHWH our-God'"
+    },
+    {
+     "tokens": [
+      "5:20.33"
+     ],
+     "english": "that You rebuild",
+     "literal": "'that-you-build'"
+    },
+    {
+     "tokens": [
+      "5:20.34"
+     ],
+     "english": "Your city",
+     "literal": "'your-city'"
+    },
+    {
+     "tokens": [
+      "5:20.35",
+      "5:20.36"
+     ],
+     "english": "speedily in our days",
+     "literal": "'in-speed in-our-days'"
+    },
+    {
+     "tokens": [
+      "5:20.37"
+     ],
+     "english": "and give",
+     "literal": "'and-give'"
+    },
+    {
+     "tokens": [
+      "5:20.38"
+     ],
+     "english": "us our portion",
+     "literal": "'our-portion'"
+    },
+    {
+     "tokens": [
+      "5:20.39"
+     ],
+     "english": "in Your Torah",
+     "literal": "'in-your-Torah'"
+    }
+   ],
+   "grammar": [
+    "The four animal similes are parallel, each of the form adjective + כְּ + animal: bold / leopard, light / eagle, swift / deer, strong / lion. A single purpose phrase, 'to do the will of your Father in Heaven', governs all four.",
+    "The second saying is an elliptical antithesis with no verb: 'bold of face (goes) to Gehinnom, shame of face to the Garden of Eden'. The two phrases עַז פָּנִים and בֹּשֶׁת פָּנִים are construct chains, with עַז as the noun 'boldness' in the first.",
+    "יְהִי רָצוֹן מִלְּפָנֶיךָ is the standard petition formula ('may it be Your will') and shifts the form to second person address to God: 'Your city, Your Torah'.",
+    "שֶׁתִּבְנֶה is a purpose/content clause: 'that You build'. In the Mishnaic petition, the verb is in the imperfect after the formula; חֶלְקֵנוּ בְתוֹרָתֶךָ 'our portion in Your Torah' is the second request.",
+    "The words עַז כַּנָּמֵר, וְקַל כַּנֶּשֶׁר, וְרָץ כַּצְּבִי, וְגִבּוֹר כָּאֲרִי pair a trait with its image; the first plays on עַז as both 'fierce' and 'brazen' (cf. עַז פָּנִים below)."
+   ],
+   "note": "עַז פָּנִים is rendered 'bold-faced' and בֹּשֶׁת פָּנִים 'shamefaced' to keep the paired construct chains; the sense is 'the brazen' and 'the bashful'. Rambam and Bartenura read the first saying as boldness in learning and in rebuke for the sake of heaven; the second as the condemned shamelessness. The Tetragrammaton is rendered 'Lord'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:20:1",
+     "relation": "follows",
+     "summary": "Bartenura: the leopard is born of a forest boar and a lioness, so being a bastard it is brazen though not truly mighty; so be bold and do not be ashamed to ask your teacher what you do not understand, as 'the shy do not learn'."
+    },
+    {
+     "anchor": "bartenura:5:20:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'light as an eagle' is to hasten after your learning without wearying (Isa 40:31: they shall mount up with wings as eagles; they run and do not grow weary)."
+    },
+    {
+     "anchor": "bartenura:5:20:3",
+     "relation": "follows",
+     "summary": "Bartenura: 'swift as a deer' is to pursue the commandments."
+    },
+    {
+     "anchor": "bartenura:5:20:4",
+     "relation": "follows",
+     "summary": "Bartenura: 'strong as a lion' is to overcome your inclination away from transgressions."
+    },
+    {
+     "anchor": "bartenura:5:20:5",
+     "relation": "follows",
+     "summary": "Bartenura: brazenness shows on the face (Prov 21:29: a wicked man hardens his face), hence 'bold of face'."
+    },
+    {
+     "anchor": "bartenura:5:20:6",
+     "relation": "follows",
+     "summary": "Bartenura: 'as You have graced us with this trait' (shame, the mark of Abraham's seed: bashful, merciful, doers of kindness; Yevamot 79a), so may it be Your will to rebuild Your city. The English takes this as the link between the two sayings."
+    },
+    {
+     "anchor": "rambam:5:20:1",
+     "relation": "follows",
+     "summary": "Rambam: though he says 'bold of face to Gehinnom', he commands boldness in rebuking teachers and the like, on condition that one's aim is truth, 'to do the will of your Father'; shame is one of the good traits given to this nation, so he prays for the city to be rebuilt."
+    }
+   ],
+   "apparatus": [
+    "Isa 40:31 is cited by Bartenura and Rabbeinu Yonah for the eagle and the deer; not quoted in the mishnah.",
+    "Variant 5:20.31: Vilna reads ה for the Tetragrammaton written יְיָ in the base text.",
+    "The first saying ('Be bold ...') and the second ('bold of face to Gehinnom') use the same root עַז in different senses; the commentators reconcile them (Rambam: boldness for truth is permitted)."
+   ]
+  },
+  {
+   "ref": "5:21",
+   "english": "He used to say: At five years old, for Scripture; at ten, for Mishnah; at thirteen, for the commandments; at fifteen, for Talmud; at eighteen, for the wedding canopy; at twenty, for pursuit; at thirty, for strength; at forty, for understanding; at fifty, for counsel; at sixty, for old age; at seventy, for gray hair; at eighty, for might; at ninety, for stooping; at a hundred, it is as if he had died and passed away and ceased from the world.",
+   "literal": "he was saying: son-of five years to-Scripture, son-of ten to-Mishnah, son-of thirteen to-the-commandments, son-of fifteen to-Talmud, son-of eighteen to-the-canopy, son-of twenty to-pursue, son-of thirty to-strength, son-of forty to-understanding, son-of fifty to-counsel, son-of sixty to-old-age, son-of seventy to-grey-hair, son-of eighty to-might, son-of ninety to-stoop, son-of hundred as-if dead and-passed and-ceased from-the-world.",
+   "tokens": [
+    {
+     "id": "5:21.1",
+     "gloss": "he"
+    },
+    {
+     "id": "5:21.2",
+     "gloss": "was",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.3",
+     "gloss": "saying",
+     "sense": "1",
+     "note": "הוּא הָיָה אוֹמֵר: 'he used to say' (decisions)."
+    },
+    {
+     "id": "5:21.4",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "בֶּן + number + שָׁנִים: the idiom 'son of N years' means 'at N years of age'; the word שָׁנָה is dropped after the first."
+    },
+    {
+     "id": "5:21.5",
+     "gloss": "five"
+    },
+    {
+     "id": "5:21.6",
+     "gloss": "years",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.7",
+     "gloss": "for Scripture",
+     "note": "לַמִּקְרָא: 'to Scripture', i.e. for the study of the Bible (מִקְרָא from קרא 'read, call')."
+    },
+    {
+     "id": "5:21.8",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.9",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:21.10",
+     "gloss": "for Mishnah",
+     "note": "לַמִּשְׁנָה: for Mishnah, the oral teaching."
+    },
+    {
+     "id": "5:21.11",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.12",
+     "gloss": "thirteen"
+    },
+    {
+     "id": "5:21.13",
+     "gloss": "teen"
+    },
+    {
+     "id": "5:21.14",
+     "gloss": "for the commandments",
+     "note": "לַמִּצְוֹת: for the commandments; the age of obligation."
+    },
+    {
+     "id": "5:21.15",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.16",
+     "gloss": "fifteen"
+    },
+    {
+     "id": "5:21.17",
+     "gloss": "teen"
+    },
+    {
+     "id": "5:21.18",
+     "gloss": "for Talmud",
+     "note": "תַּלְמוּד: 'study, learning'; in the later sense the discussion of the Mishnah."
+    },
+    {
+     "id": "5:21.19",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.20",
+     "gloss": "eight"
+    },
+    {
+     "id": "5:21.21",
+     "gloss": "teen"
+    },
+    {
+     "id": "5:21.22",
+     "gloss": "for the wedding canopy",
+     "note": "חֻפָּה: 'canopy', the wedding canopy."
+    },
+    {
+     "id": "5:21.23",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.24",
+     "gloss": "twenty"
+    },
+    {
+     "id": "5:21.25",
+     "gloss": "to pursue",
+     "note": "לִרְדֹּף: 'to pursue'; Bartenura: pursuing a livelihood; other reading: to be pursued (punished) from Heaven."
+    },
+    {
+     "id": "5:21.26",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.27",
+     "gloss": "thirty"
+    },
+    {
+     "id": "5:21.28",
+     "gloss": "for strength",
+     "note": "כֹּחַ: strength, physical power."
+    },
+    {
+     "id": "5:21.29",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.30",
+     "gloss": "forty"
+    },
+    {
+     "id": "5:21.31",
+     "gloss": "for understanding",
+     "note": "בִּינָה: understanding, discernment."
+    },
+    {
+     "id": "5:21.32",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.33",
+     "gloss": "fifty"
+    },
+    {
+     "id": "5:21.34",
+     "gloss": "for counsel",
+     "note": "עֵצָה: counsel, giving advice."
+    },
+    {
+     "id": "5:21.35",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.36",
+     "gloss": "sixty"
+    },
+    {
+     "id": "5:21.37",
+     "gloss": "for old age",
+     "note": "זִקְנָה: old age."
+    },
+    {
+     "id": "5:21.38",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.39",
+     "gloss": "seventy"
+    },
+    {
+     "id": "5:21.40",
+     "gloss": "for gray old age",
+     "note": "שֵׂיבָה: grey hair, hoary old age."
+    },
+    {
+     "id": "5:21.41",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.42",
+     "gloss": "eighty"
+    },
+    {
+     "id": "5:21.43",
+     "gloss": "for might",
+     "note": "גְּבוּרָה: might; Bartenura quotes Ps 90:10, 'by reason of strength' (בִּגְבוּרֹת)."
+    },
+    {
+     "id": "5:21.44",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.45",
+     "gloss": "ninety"
+    },
+    {
+     "id": "5:21.46",
+     "gloss": "to stoop",
+     "note": "לָשׁוּחַ: from שׁוח 'bow down'; Bartenura: to walk bent and stooped; another: a deep pit."
+    },
+    {
+     "id": "5:21.47",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "5:21.48",
+     "gloss": "hundred"
+    },
+    {
+     "id": "5:21.49",
+     "gloss": "as if",
+     "note": "כְּאִלּוּ: 'as if'."
+    },
+    {
+     "id": "5:21.50",
+     "gloss": "dead",
+     "sense": "1",
+     "note": "מֵת: 'dead', a stative adjective/participle."
+    },
+    {
+     "id": "5:21.51",
+     "gloss": "and has passed away",
+     "note": "וְעָבַר: Qal perfect, 'and he has passed (away)'."
+    },
+    {
+     "id": "5:21.52",
+     "gloss": "and has ceased",
+     "note": "וּבָטֵל: Qal perfect, 'and he has ceased'."
+    },
+    {
+     "id": "5:21.53",
+     "gloss": "from"
+    },
+    {
+     "id": "5:21.54",
+     "gloss": "the world"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:21.1",
+      "5:21.2",
+      "5:21.3"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'"
+    },
+    {
+     "tokens": [
+      "5:21.4",
+      "5:21.5",
+      "5:21.6"
+     ],
+     "english": "at five years old",
+     "literal": "'son-of N'; at the age of five years old"
+    },
+    {
+     "tokens": [
+      "5:21.7"
+     ],
+     "english": "for Scripture",
+     "literal": "'for Scripture'"
+    },
+    {
+     "tokens": [
+      "5:21.8",
+      "5:21.9"
+     ],
+     "english": "at ten",
+     "literal": "'son-of N'; at the age of ten"
+    },
+    {
+     "tokens": [
+      "5:21.10"
+     ],
+     "english": "for Mishnah",
+     "literal": "'for Mishnah'"
+    },
+    {
+     "tokens": [
+      "5:21.11",
+      "5:21.12",
+      "5:21.13"
+     ],
+     "english": "at thirteen",
+     "literal": "'son-of N'; at the age of thirteen"
+    },
+    {
+     "tokens": [
+      "5:21.14"
+     ],
+     "english": "for the commandments",
+     "literal": "'for the commandments'"
+    },
+    {
+     "tokens": [
+      "5:21.15",
+      "5:21.16",
+      "5:21.17"
+     ],
+     "english": "at fifteen",
+     "literal": "'son-of N'; at the age of fifteen"
+    },
+    {
+     "tokens": [
+      "5:21.18"
+     ],
+     "english": "for Talmud",
+     "literal": "'for Talmud'"
+    },
+    {
+     "tokens": [
+      "5:21.19",
+      "5:21.20",
+      "5:21.21"
+     ],
+     "english": "at eighteen",
+     "literal": "'son-of N'; at the age of eighteen"
+    },
+    {
+     "tokens": [
+      "5:21.22"
+     ],
+     "english": "for the wedding canopy",
+     "literal": "'for the wedding canopy'"
+    },
+    {
+     "tokens": [
+      "5:21.23",
+      "5:21.24"
+     ],
+     "english": "at twenty",
+     "literal": "'son-of N'; at the age of twenty"
+    },
+    {
+     "tokens": [
+      "5:21.25"
+     ],
+     "english": "for pursuit",
+     "literal": "'for pursuit'"
+    },
+    {
+     "tokens": [
+      "5:21.26",
+      "5:21.27"
+     ],
+     "english": "at thirty",
+     "literal": "'son-of N'; at the age of thirty"
+    },
+    {
+     "tokens": [
+      "5:21.28"
+     ],
+     "english": "for strength",
+     "literal": "'for strength'"
+    },
+    {
+     "tokens": [
+      "5:21.29",
+      "5:21.30"
+     ],
+     "english": "at forty",
+     "literal": "'son-of N'; at the age of forty"
+    },
+    {
+     "tokens": [
+      "5:21.31"
+     ],
+     "english": "for understanding",
+     "literal": "'for understanding'"
+    },
+    {
+     "tokens": [
+      "5:21.32",
+      "5:21.33"
+     ],
+     "english": "at fifty",
+     "literal": "'son-of N'; at the age of fifty"
+    },
+    {
+     "tokens": [
+      "5:21.34"
+     ],
+     "english": "for counsel",
+     "literal": "'for counsel'"
+    },
+    {
+     "tokens": [
+      "5:21.35",
+      "5:21.36"
+     ],
+     "english": "at sixty",
+     "literal": "'son-of N'; at the age of sixty"
+    },
+    {
+     "tokens": [
+      "5:21.37"
+     ],
+     "english": "for old age",
+     "literal": "'for old age'"
+    },
+    {
+     "tokens": [
+      "5:21.38",
+      "5:21.39"
+     ],
+     "english": "at seventy",
+     "literal": "'son-of N'; at the age of seventy"
+    },
+    {
+     "tokens": [
+      "5:21.40"
+     ],
+     "english": "for gray hair",
+     "literal": "'for gray hair'"
+    },
+    {
+     "tokens": [
+      "5:21.41",
+      "5:21.42"
+     ],
+     "english": "at eighty",
+     "literal": "'son-of N'; at the age of eighty"
+    },
+    {
+     "tokens": [
+      "5:21.43"
+     ],
+     "english": "for might",
+     "literal": "'for might'"
+    },
+    {
+     "tokens": [
+      "5:21.44",
+      "5:21.45"
+     ],
+     "english": "at ninety",
+     "literal": "'son-of N'; at the age of ninety"
+    },
+    {
+     "tokens": [
+      "5:21.46"
+     ],
+     "english": "for stooping",
+     "literal": "'for stooping'"
+    },
+    {
+     "tokens": [
+      "5:21.47",
+      "5:21.48"
+     ],
+     "english": "at a hundred",
+     "literal": "'son-of N'; at the age of a hundred"
+    },
+    {
+     "tokens": [
+      "5:21.49",
+      "5:21.50"
+     ],
+     "english": "it is as if he had died",
+     "literal": "'as-if dead'"
+    },
+    {
+     "tokens": [
+      "5:21.51"
+     ],
+     "english": "and passed away",
+     "literal": "'and-passed'"
+    },
+    {
+     "tokens": [
+      "5:21.52"
+     ],
+     "english": "and ceased",
+     "literal": "'and-ceased'"
+    },
+    {
+     "tokens": [
+      "5:21.53",
+      "5:21.54"
+     ],
+     "english": "from the world",
+     "literal": "'from the-world'"
+    }
+   ],
+   "grammar": [
+    "Each stage is an elliptical clause of the form 'son of N (years) to X': the verb 'is fit' is understood. The ל prefix is 'for' (fit for, ready for).",
+    "The ages count by tens from twenty to a hundred; בֶּן שָׁנִים is a fixed idiom for age. Gender of the numerals follows the noun they do not name: שָׁנָה (feminine) takes חָמֵשׁ, עֶשֶׂר, שְׁלשׁ עֶשְׂרֵה, etc.",
+    "Each ל-noun is a stage of life or a pursuit: מִקְרָא (Bible), מִשְׁנָה (oral teaching), מִצְוֹת (commandments), תַּלְמוּד (study), חֻפָּה (marriage), רדף (pursuit), כֹּחַ (strength), בִּינָה, עֵצָה, זִקְנָה, שֵׂיבָה, גְּבוּרָה, שׁוּחַ.",
+    "The last clause is a full sentence: כְּאִלּוּ מֵת וְעָבַר וּבָטֵל מִן הָעוֹלָם, with a participle/adjective and two perfects: 'as if he had died and passed and ceased from the world'."
+   ],
+   "note": "Translated with the plain sense of each stage. Bartenura derives the first stages from the law of orlah (Lev 19:23-25) and the Levites (Num 8). For לִרְדֹּף I keep 'pursuit' and record both of his readings (livelihood; or being pursued by the heavenly court) in the notes. לָשׁוּחַ is 'stooping' (Bartenura: walking bent and bowed).",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:21:1",
+     "relation": "follows",
+     "summary": "Bartenura: five years for Scripture is learned from orlah (Lev 19:23-25): the fourth year is holy, the father teaching the shape of the letters and the vowel points; from the fifth, he is to be strengthened like an ox."
+    },
+    {
+     "anchor": "bartenura:5:21:2",
+     "relation": "follows",
+     "summary": "Bartenura: five years Scripture, five Mishnah, five Gemara; a student who has seen no sign of success in five years will not (Hullin 24a); the Levites learned the laws of service five years (Num 8:24)."
+    },
+    {
+     "anchor": "bartenura:5:21:3",
+     "relation": "follows",
+     "summary": "Bartenura: thirteen for the commandments: Num 5:6 'a man or woman'; Levi at thirteen is called 'man' (Gen 34:25)."
+    },
+    {
+     "anchor": "bartenura:5:21:4",
+     "relation": "follows",
+     "summary": "Bartenura: nineteen occurrences of 'adam' in the first section of Genesis; one for the body itself, eighteen remain for the derashah (the wedding canopy)."
+    },
+    {
+     "anchor": "bartenura:5:21:5",
+     "relation": "records",
+     "summary": "Bartenura: at twenty, to pursue a livelihood, after learning, marrying and having children. Another reading: to be pursued from Heaven, since the heavenly court does not punish before twenty. The English keeps the neutral 'pursuit'."
+    },
+    {
+     "anchor": "bartenura:5:21:6",
+     "relation": "follows",
+     "summary": "Bartenura: thirty for strength: the Levites set up and dismantled the tabernacle and carried it from the age of thirty."
+    },
+    {
+     "anchor": "bartenura:5:21:7",
+     "relation": "follows",
+     "summary": "Bartenura: forty for understanding: after forty years in the wilderness Moses said 'the Lord has not given you a heart to know until this day' (Deut 29:3)."
+    },
+    {
+     "anchor": "bartenura:5:21:8",
+     "relation": "follows",
+     "summary": "Bartenura: fifty for counsel: the Levites retired from service at fifty and 'served' their brothers, which is giving counsel (Num 8:25)."
+    },
+    {
+     "anchor": "bartenura:5:21:9",
+     "relation": "follows",
+     "summary": "Bartenura: sixty for old age: Job 5:26, 'you shall come to the grave in ripe age' (בכלח), whose numerical value is sixty."
+    },
+    {
+     "anchor": "bartenura:5:21:10",
+     "relation": "follows",
+     "summary": "Bartenura: seventy for gray old age: David died 'in good old age' (1 Chr 29:28) and lived seventy years."
+    },
+    {
+     "anchor": "bartenura:5:21:11",
+     "relation": "follows",
+     "summary": "Bartenura: eighty for might: Ps 90:10, 'and if by reason of strength eighty years'."
+    },
+    {
+     "anchor": "bartenura:5:21:12",
+     "relation": "follows",
+     "summary": "Bartenura: ninety to stoop: one walks bent and bowed. Others: from the word for a deep pit (שׁוּחָה)."
+    },
+    {
+     "anchor": "rambam:5:23:1",
+     "relation": "not-applicable",
+     "summary": "Rambam (anchored from 5:23): reward is according to toil; knowledge learned with labor and awe lasts. It concerns Ben He He's saying in 5:23, not this mishnah."
+    }
+   ],
+   "apparatus": [
+    "Bartenura's proof texts: Lev 19:23-25; Num 8:24-25; Gen 34:25; Deut 29:3; Job 5:26; 1 Chr 29:28; Ps 90:10.",
+    "Variants (spelling only): 5:21.20 שמונה, 5:21.22 לחופה, 5:21.25 לרדוף, 5:21.42 שמונים, 5:21.49 כאילו.",
+    "Rabbeinu Yonah on לָשׁוּחַ: from שיח 'speech' (one speaks only words of Torah) or 'pit/cave' (fit for burial)."
+   ]
+  },
+  {
+   "ref": "5:22",
+   "english": "Ben Bag Bag says: Turn it and turn it, for everything is in it; and in it you will see, and grow old and worn in it, and do not move from it, for you have no quality better than it.",
+   "literal": "son-of Bag Bag says: turn in-it and-turn in-it, that-all in-it; and-in-it you-will-see, and-grow-old and-wear-out in-it, and-from-it not you-move, that-not-is to-you quality good from-it.",
+   "tokens": [
+    {
+     "id": "5:22.1",
+     "gloss": "son",
+     "sense": "1",
+     "note": "Ben Bag Bag: one name (decisions)."
+    },
+    {
+     "id": "5:22.2",
+     "gloss": "Bag",
+     "sense": "1"
+    },
+    {
+     "id": "5:22.3",
+     "gloss": "Bag",
+     "sense": "1"
+    },
+    {
+     "id": "5:22.4",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "5:22.5",
+     "gloss": "turn",
+     "sense": "1",
+     "note": "הֲפֹךְ: Hebrew imperative of הפך 'turn over'; Aramaic begins at דְּכֹלָּא."
+    },
+    {
+     "id": "5:22.6",
+     "gloss": "in it"
+    },
+    {
+     "id": "5:22.7",
+     "gloss": "and turn"
+    },
+    {
+     "id": "5:22.8",
+     "gloss": "in it"
+    },
+    {
+     "id": "5:22.9",
+     "gloss": "for everything",
+     "note": "דְּכֹלָּא: Aramaic: דְּ 'that' + כֹּלָּא 'all'."
+    },
+    {
+     "id": "5:22.10",
+     "gloss": "in it"
+    },
+    {
+     "id": "5:22.11",
+     "gloss": "and in it"
+    },
+    {
+     "id": "5:22.12",
+     "gloss": "you will see",
+     "sense": "1",
+     "note": "תֶּחֱזֵי: Aramaic imperfect of חזי 'see': 'you will see'."
+    },
+    {
+     "id": "5:22.13",
+     "gloss": "and grow old",
+     "note": "סִיב: Aramaic imperative of סיב 'grow old' (cf. שֵׂיבָה)."
+    },
+    {
+     "id": "5:22.14",
+     "gloss": "and wear out",
+     "note": "בְּלֵה: Aramaic imperative of בלי 'wear out, grow worn'."
+    },
+    {
+     "id": "5:22.15",
+     "gloss": "in it"
+    },
+    {
+     "id": "5:22.16",
+     "gloss": "and from it"
+    },
+    {
+     "id": "5:22.17",
+     "gloss": "not"
+    },
+    {
+     "id": "5:22.18",
+     "gloss": "move",
+     "sense": "1",
+     "note": "תָזוּעַ: Aramaic imperfect of זוע 'move away, tremble'."
+    },
+    {
+     "id": "5:22.19",
+     "gloss": "for there is not",
+     "note": "שֶׁאֵין: the Hebrew 'that there is not'."
+    },
+    {
+     "id": "5:22.20",
+     "gloss": "to you"
+    },
+    {
+     "id": "5:22.21",
+     "gloss": "quality",
+     "sense": "1"
+    },
+    {
+     "id": "5:22.22",
+     "gloss": "good",
+     "sense": "1"
+    },
+    {
+     "id": "5:22.23",
+     "gloss": "than it"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:22.1",
+      "5:22.2",
+      "5:22.3"
+     ],
+     "english": "Ben Bag Bag",
+     "literal": "'son-of Bag Bag': a fixed name"
+    },
+    {
+     "tokens": [
+      "5:22.4"
+     ],
+     "english": "says",
+     "literal": "'says'"
+    },
+    {
+     "tokens": [
+      "5:22.5",
+      "5:22.6"
+     ],
+     "english": "Turn it",
+     "literal": "'turn in-it'"
+    },
+    {
+     "tokens": [
+      "5:22.7",
+      "5:22.8"
+     ],
+     "english": "and turn it",
+     "literal": "'and-turn in-it'"
+    },
+    {
+     "tokens": [
+      "5:22.9",
+      "5:22.10"
+     ],
+     "english": "for everything is in it",
+     "literal": "'that-all in-it' (Aramaic)"
+    },
+    {
+     "tokens": [
+      "5:22.11",
+      "5:22.12"
+     ],
+     "english": "and in it you will see",
+     "literal": "'and-in-it you-will-see' (Aramaic)"
+    },
+    {
+     "tokens": [
+      "5:22.13",
+      "5:22.14",
+      "5:22.15"
+     ],
+     "english": "and grow old and worn in it",
+     "literal": "'and-grow-old and-wear-out in-it' (Aramaic)"
+    },
+    {
+     "tokens": [
+      "5:22.16",
+      "5:22.17",
+      "5:22.18"
+     ],
+     "english": "and do not move from it",
+     "literal": "'and-from-it not you-move' (Aramaic)"
+    },
+    {
+     "tokens": [
+      "5:22.19",
+      "5:22.20"
+     ],
+     "english": "for you have no",
+     "literal": "'that-not-is to-you'"
+    },
+    {
+     "tokens": [
+      "5:22.21",
+      "5:22.22",
+      "5:22.23"
+     ],
+     "english": "quality better than it",
+     "literal": "'quality good from-it'"
+    }
+   ],
+   "grammar": [
+    "The saying mixes Hebrew and Aramaic: הֲפֹךְ בָּהּ וַהֲפֹךְ בָּהּ is Hebrew; דְּכֹלָּא בָהּ וּבָהּ תֶּחֱזֵי וְסִיב וּבְלֵה בָהּ וּמִנַּהּ לָא תָזוּעַ is Aramaic; שֶׁאֵין לְךָ מִדָּה טוֹבָה הֵימֶנָּה is Hebrew again.",
+    "The feminine בָּהּ refers back to the Torah, as the commentators say (the mishnah does not name it: it follows the previous saying).",
+    "The imperatives הֲפֹךְ, סִיב, בְּלֵה are paired: turn it over and over; grow old and wear out in it.",
+    "The negation לֹא תָזוּעַ is a prohibition in Aramaic style ('do not move'); the final clause gives the reason with שֶׁאֵין לְךָ 'for you have not'.",
+    "מִדָּה 'measure, quality'; the English 'quality' also allows 'virtue' or 'standard'."
+   ],
+   "note": "The pronoun 'it' is the Torah (Bartenura, Rambam). The Aramaic words are translated without comment in the English; the notes and grammar record where the Aramaic begins and ends.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:22:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'turn it and turn it': in the Torah. The English 'it' is the Torah."
+    },
+    {
+     "anchor": "bartenura:5:22:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'for everything is in it': that you will find everything in it."
+    },
+    {
+     "anchor": "bartenura:5:22:3",
+     "relation": "follows",
+     "summary": "Bartenura: even to old age and gray hair do not abandon it."
+    },
+    {
+     "anchor": "bartenura:5:22:4",
+     "relation": "follows",
+     "summary": "Bartenura: do not say you have learned the wisdom of Israel and will go learn Greek wisdom; it may be learned only at a time when thought of Torah is forbidden (bathhouse), or in the hour that is neither day nor night (R. Joshua), since 'you shall meditate on it day and night'. The English keeps 'do not move from it'."
+    },
+    {
+     "anchor": "rambam:5:22:1",
+     "relation": "follows",
+     "summary": "Rambam: turn it and meditate in it because everything is in it; 'and in it you will see' means you will see the truth with the eye of the intellect (as the Targum renders 'and he saw' with 'and he chazah'); then grow old in it and do not turn from it to another."
+    }
+   ],
+   "apparatus": [
+    "Rabbeinu Yonah (anchored 5:22.5-6): review words of Torah, for all the wisdom of the world is included in it.",
+    "Variants: 5:22.5 הפוך, 5:22.7 והפוך (Vilna), 5:22.9 דכולה, 5:22.16 ומינה (Vilna spellings).",
+    "Aramaic is in the Hebrew of the base text; בָהּ/בָּהּ vary in dagesh only."
+   ]
+  },
+  {
+   "ref": "5:23",
+   "english": "Ben He He says: According to the toil is the reward.",
+   "literal": "son-of He He says: to-mouth-of the-toil the-reward.",
+   "tokens": [
+    {
+     "id": "5:23.1",
+     "gloss": "son",
+     "sense": "1",
+     "note": "Ben He He: one name (decisions)."
+    },
+    {
+     "id": "5:23.2",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "5:23.3",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "5:23.4",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "5:23.5",
+     "gloss": "according to",
+     "note": "לְפוּם: Aramaic: 'according to', lit. 'to the mouth of' (פּוּם 'mouth'); an idiom meaning 'in proportion to'."
+    },
+    {
+     "id": "5:23.6",
+     "gloss": "the toil",
+     "note": "צַעֲרָא: Aramaic 'the pain/toil/suffering' (emphatic state)."
+    },
+    {
+     "id": "5:23.7",
+     "gloss": "the reward",
+     "sense": "1",
+     "note": "אַגְרָא: Aramaic 'the reward' (emphatic state)."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:23.1",
+      "5:23.2",
+      "5:23.3"
+     ],
+     "english": "Ben He He",
+     "literal": "'son-of He He': a fixed name"
+    },
+    {
+     "tokens": [
+      "5:23.4"
+     ],
+     "english": "says",
+     "literal": "'says'"
+    },
+    {
+     "tokens": [
+      "5:23.5",
+      "5:23.6"
+     ],
+     "english": "According to the toil",
+     "literal": "'to-mouth-of the-toil': 'in proportion to'"
+    },
+    {
+     "tokens": [
+      "5:23.7"
+     ],
+     "english": "is the reward",
+     "literal": "'the-reward'"
+    }
+   ],
+   "grammar": [
+    "The saying is in Aramaic and has no verb: 'according to the toil, the reward'.",
+    "לְפוּם is lit. 'to the mouth of' and is an idiom for 'in proportion to'; it takes the following noun in the emphatic state.",
+    "The nouns צַעֲרָא and אַגְרָא are Aramaic emphatic-state forms, with the final -א."
+   ],
+   "note": "I translate צַעֲרָא as 'toil' (Bartenura: the effort one bears in studying Torah and doing the commandment), not 'suffering', and supply 'is' in the English.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:23:1",
+     "relation": "follows",
+     "summary": "Bartenura: according to the great effort you bear in studying the Torah and doing the commandment, your reward will be greater. The English 'toil' follows this."
+    }
+   ],
+   "apparatus": [
+    "The Aramaic saying is the last in the chapter before the mishnah ending this unit; no variants are recorded."
+   ]
+  }
+ ]
+}

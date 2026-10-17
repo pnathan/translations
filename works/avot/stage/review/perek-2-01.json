@@ -1,0 +1,1856 @@
+{
+ "unit": "perek-2-01",
+ "model": "opus",
+ "summary": "The English of 2:1-2:6 is mostly faithful to the Hebrew and to Bartenura and Rambam. There are two errors of sense: 2:5 rendered וְלֹא כָל 'not everyone' as 'no one', and 2:4 closed Hillel's quotation in the wrong place. Most faults are in the word analysis: many tokens were tied to the wrong BDB homograph (Adam, Sacar, Mattan, Ain, Azem, Shem, Dan, 'where?' for אֵין, 'island' for אִי, 'menstruation' for עַד, 'children' for טוּף, a bird for רָאָה, 'horse' for פָּרַשׁ), and many senses were filled in mechanically (sense 1 of an entry, or header senses of הָיָה). These are moved to the right Jastrow entries in the pack, or the sense is removed where the pack has no right entry. Some commentary rulings were inexact: Rabbeinu Yonah on the three things, Rambam's own reading of the reckoning clauses in 2:1, and Bartenura's textual remark on שֶׁסּוֹפוֹ in 2:4, which shows the English follows his second reading, not his first. The morphology patches fix binyan (Piel מְקָרְבִין, Peal יְטוּפוּן), gender (מְסַיַּעְתָּן), state, roots (ברר, צוף, שום), the adverb הַרְבֵּה, the Nifal participle label, and the split of אֵיזוֹהִי.",
+ "patches": [
+  {
+   "ref": "2:1",
+   "path": "token:2:1.6.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The attached entry bdbs:בַּר is the noun 'field'; sense 1 'field' is not this word. The verb is בָּרַר 'to choose' (Bartenura: שֶׁיִּבְרֹר), and the pack lists no entry for it, so no sense is given."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.6.note",
+   "value": "Qal yiqtol 3rd masculine singular of the geminate root ברר 'to choose, select' (Bartenura glosses it שֶׁיִּבְרֹר); Vilna spells it plene שיבור. The lexicon entry attached is the noun בַּר 'field', a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "The old note called the root בור and kept a sense of 'field'; the root is ברר (corrected in the morphology)."
+  },
+  {
+   "ref": "2:1",
+   "path": "morph:2:1.6",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ברר",
+    "morphemes": [
+     {
+      "form": "שֶׁ",
+      "lemma": "ש: who, which, that",
+      "pos": "pronoun",
+      "parse": "relative pronoun"
+     },
+     {
+      "form": "יָּבֹר",
+      "lemma": "בָּרַר",
+      "pos": "verb",
+      "parse": "qal, imperfect (yiqtol), 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "יָבֹר is the Qal yiqtol of the geminate root ברר 'to choose' (Bartenura: שֶׁיִּבְרֹר); the lemma is בָּרַר, not the noun בַּר 'field', and the root is not בור."
+  },
+  {
+   "ref": "2:1",
+   "path": "morph:2:1.3",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "אֵיזוֹ",
+      "lemma": "אֵיזֶה",
+      "pos": "pronoun",
+      "parse": "interrogative pronoun, feminine, singular"
+     },
+     {
+      "form": "הִי",
+      "lemma": "הוּא",
+      "pos": "pronoun",
+      "parse": "personal pronoun, 3rd person, feminine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֵיזוֹהִי is two words written together, אֵיזוֹ 'which (f.)' + הִי(א) 'is it'; the translator's own gloss and grammar note read it so. One morpheme hides the pronoun."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.8.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם gives only the name Adam, 'first man' and a city; the word is the common noun 'person, people', which the pack lists as jastrow:אָדָם (sense 1 'man')."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.16.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם gives only the name Adam, 'first man' and a city; the word is the common noun 'person, people', which the pack lists as jastrow:אָדָם (sense 1 'man')."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.11.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:תִּפְאֶרֶת 1 is 'crown, top' (of a plant); the sense here is 2 'glory'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.13.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:תִּפְאֶרֶת 1 is 'crown, top' (of a plant); the sense here is 2 'glory'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.17.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "BDB הָיָה 1.1.1 is the group 'to happen, occur, come to pass'; the imperative הֱוֵי 'be (careful, reckoning)' is 1.1.3 'Qal to be'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.29.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "BDB הָיָה 1.1.1 is the group 'to happen, occur, come to pass'; the imperative הֱוֵי 'be (careful, reckoning)' is 1.1.3 'Qal to be'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.20.lex",
+   "value": "jastrow:קַל II",
+   "severity": "error",
+   "reason": "bdbs:קַל lists only 'swift, light, fleet' in the physical sense; a 'light' commandment is one of minor weight, jastrow:קַל II 2 'unimportant, of minor value', which cites 'מצוה קלה'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.20.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "With the Jastrow entry: sense 2 'unimportant, of minor value'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.22.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן here is the interrogative 'where?, whence?'; the negative אֵין is jastrow:אֵין (sense 1 'nothing, not')."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.25.lex",
+   "value": "jastrow:מַתָּן",
+   "severity": "error",
+   "reason": "bdbs:מַתָּן is the person Mattan; the pack lists jastrow:מַתָּן 'giving, gift', which cites מ׳ שכר."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.25.note",
+   "value": "construct of מַתָּן 'giving' (root נתן, the נ assimilated): מַתַּן שְׂכָרָן 'the giving of their reward'.",
+   "severity": "error",
+   "reason": "The old note described the proper-name entry, now corrected."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.26.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the person Sacar; the pack lists jastrow:שָׂכָר 'wages, profit, reward' (sense 1)."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.26.note",
+   "value": "שָׂכָר 'reward' with the suffix ־ָן 'their' (feminine plural, the commandments); שֶׁל מִצְוֹת then names the possessor.",
+   "severity": "error",
+   "reason": "The old note described the proper-name entry, now corrected."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.34.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the person Sacar; the pack lists jastrow:שָׂכָר 'wages, profit, reward' (sense 1)."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.34.note",
+   "value": "שָׂכָר 'reward' with the feminine suffix ־ָהּ 'its', referring to the commandment.",
+   "severity": "error",
+   "reason": "The old note described the proper-name entry, now corrected."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.35.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the person Sacar; the pack lists jastrow:שָׂכָר 'wages, profit, reward' (sense 1)."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.35.note",
+   "value": "construct of שָׂכָר 'wages, profit': the 'wage' of a transgression is the gain or pleasure it brings (Bartenura).",
+   "severity": "error",
+   "reason": "The old note described the proper-name entry, now corrected."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.30.sense",
+   "value": "1.3.3",
+   "severity": "error",
+   "reason": "מְחַשֵּׁב ... כְּנֶגֶד is 'reckon (one thing) against (another)', BDB Piel 1.3.3 'to count, reckon', not 1.3.1 'to think upon, consider'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.39.sense",
+   "value": "3.1",
+   "severity": "error",
+   "reason": "jastrow:סָכַל I 1 is 'to be bright'; הִסְתַּכֵּל is the reflexive stem, sense 3.1 'to look at, observe; to reflect, keep in mind'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.42.lex",
+   "value": "jastrow:אִי III",
+   "severity": "error",
+   "reason": "bdbs:אִי is 'coast, island'; the negative is jastrow:אִי III '(= h. אֵין) not', which the pack lists."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.44.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is a noun 'father' (= אַבָּא); jastrow:בָּא III is 'part. of בּוֹא, coming'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.51.lex",
+   "value": "jastrow:עַיִן",
+   "severity": "error",
+   "reason": "bdbs:עַיִן is the place name Ain; jastrow:עַיִן sense 1 is 'eye, sight'."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.51.note",
+   "value": "עַיִן 'eye' is feminine, hence the feminine participle רוֹאָה.",
+   "severity": "error",
+   "reason": "The old note described the place-name entry, now corrected."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.52.lex",
+   "value": "jastrow:רָאָה I",
+   "severity": "error",
+   "reason": "bdbs:רָאָה is the bird of prey; jastrow:רָאָה I is the verb 'to see' (v. ראי)."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.52.note",
+   "value": "Qal participle feminine singular of the final-ה verb רָאָה 'to see', agreeing with עַיִן.",
+   "severity": "error",
+   "reason": "The old note described the bird entry, now corrected."
+  },
+  {
+   "ref": "2:1",
+   "path": "token:2:1.57.sense",
+   "value": "4.3",
+   "severity": "error",
+   "reason": "bdbs:סֵפֶר 1 is only the grammatical label 'n f'; the sense is 4.3 'book, scroll'."
+  },
+  {
+   "ref": "2:1",
+   "path": "morph:2:1.28",
+   "value": {
+    "lang": "mishnaic",
+    "root": "צוה",
+    "morphemes": [
+     {
+      "form": "מִצְוֹת",
+      "lemma": "מִצְוָה",
+      "pos": "noun",
+      "parse": "common, feminine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In שֶׁל מִצְוֹת the noun follows the genitive particle and governs nothing: it is absolute, not construct."
+  },
+  {
+   "ref": "2:1",
+   "path": "morph:2:1.31",
+   "value": {
+    "lang": "mishnaic",
+    "root": "פסד",
+    "morphemes": [
+     {
+      "form": "הֶפְסֵד",
+      "lemma": "הֶפְסֵד",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "הֶפְסֵד מִצְוָה is a construct chain, 'the loss of a commandment'; the form is the same but the state is construct."
+  },
+  {
+   "ref": "2:1",
+   "path": "morph:2:1.58",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כתב",
+    "morphemes": [
+     {
+      "form": "נִכְתָּבִין",
+      "lemma": "כָּתַב",
+      "pos": "verb",
+      "parse": "nifal, participle active, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In this scheme (from OSHB) 'participle passive' is the Qal passive participle (כָּתוּב); the Nifal participle is labelled 'participle active'."
+  },
+  {
+   "ref": "2:1",
+   "path": "note",
+   "value": "'Glory' renders תִפְאֶרֶת in both parts; both normative commentators read the path as the middle one, which is a glory to the doer and to people. 'Upright' for יְשָׁרָה: 'straight, right'. The reckoning clauses follow Bartenura (what a commandment costs against its reward; the pleasure of a sin against what it costs); Rambam's reading is recorded in the apparatus. The three things: the eye, the ear and the book of deeds, as Rabbeinu Yonah counts them: he asks why three are named when on the plain reading they are one, and answers by dividing them into deeds, speech and memory.",
+   "severity": "error",
+   "reason": "Rabbeinu Yonah does not 'add that the three are one': he raises that as a difficulty and resolves it by counting them separately (eye: deeds; ear: speech; book: nothing is forgotten). The note also did not say whose reading of the reckoning clauses the English takes."
+  },
+  {
+   "ref": "2:1",
+   "path": "commentary:rabbeinu-yonah:2:1:7",
+   "value": {
+    "relation": "follows",
+    "summary": "Rabbeinu Yonah: the Holy One sees and knows all human deeds and remembers them as if written before Him. He asks why the mishnah counts three things when, read plainly, they are one (God knows all and repays); he answers that it is a likeness: as a man is ashamed to act or speak improperly before kings and sages, so he should think at all times that he stands before the Holy One; he then counts the three apart (2:1:8–9)."
+   },
+   "severity": "error",
+   "reason": "The old summary said the three things are one; that is the difficulty Rabbeinu Yonah raises, not his view. His answer bears on the English, which counts the eye, the ear and the book as three, so the relation is 'follows', not 'not-applicable'."
+  },
+  {
+   "ref": "2:1",
+   "path": "commentary:rambam:2:1:1.summary",
+   "value": "Rambam: the upright path is the good actions, the middle traits, by which a person acquires a worthy disposition and good conduct with people; this is 'a glory to the doer and a glory to him from people'. Be as careful with a commandment thought light (rejoicing on a festival, learning the holy tongue) as with one known to be weighty, because the Torah states the punishments of the prohibitions in eight grades but not the reward of the positive commandments. He reads 'reckon the loss of a commandment against its reward' as inferring a positive commandment's reward from the penalty for neglecting it, and 'the reward of a transgression' as the reward for refraining from it, measured by its punishment.",
+   "severity": "error",
+   "reason": "The old summary left out Rambam's reading of the two reckoning clauses, which differs from Bartenura's and from the English: for him הֶפְסֵד מִצְוָה is the penalty for neglect, and שְׂכַר עֲבֵרָה the reward for abstaining."
+  },
+  {
+   "ref": "2:1",
+   "path": "apparatus",
+   "value": [
+    "Variants: Vilna reads שיבור (base שֶׁיָּבֹר), לעושה (base לְעוֹשֶׂיהָ; Vilna's form is singular 'its doer') and עבירה for עֲבֵרָה (2:1.36, 2:1.46): spelling only, except that the singular לעושה differs in number.",
+    "Rambam reads the reckoning clauses differently: הֶפְסֵד מִצְוָה is the penalty for neglecting a positive commandment, from which its reward is inferred (Sabbath rest, punished by stoning when broken, outweighs circumcision, punished by karet), and שְׂכַר עֲבֵרָה is the reward for refraining from a transgression, measured by its punishment. The English follows Bartenura: the cost of doing a commandment against its reward, the pleasure of a sin against its cost."
+   ],
+   "severity": "error",
+   "reason": "Where the normative commentators differ, the reading not adopted must be recorded; Rambam's reading of the reckoning clauses was not."
+  },
+  {
+   "ref": "2:1",
+   "path": "grammar",
+   "value": [
+    "אֵיזוֹהִי is the Mishnaic interrogative 'which is it', agreeing with the feminine דֶרֶךְ.",
+    "The saying is built of parallel imperatives with וֶהֱוֵי: be careful (זָהִיר), be reckoning (מְחַשֵּׁב); then the closing triad, introduced by וְהִסְתַּכֵּל.",
+    "שֶׁיָּבֹר is a relative clause with a modal yiqtol: 'that a person should choose'; יָבֹר is from the geminate root ברר.",
+    "The last clause is a nominal series: 'an eye that sees, an ear that hears, and all your deeds written in a book': these are the three things."
+   ],
+   "severity": "style",
+   "reason": "Hebrew has no subjunctive; the yiqtol is modal. The root ברר is worth a learner's note."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.1.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "jastrow:רַבָּן 1 is only the cross-reference '(v. רַב II)'; sense 3 is 'Rabban, a title of scholars'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.2.lex",
+   "value": "jastrow:גַּמְלִיאֵל",
+   "severity": "style",
+   "reason": "jastrow:גַּמְלִיאֵל names this very Gamliel: sense 3 a) 'R. G. B'ribbi I, son of R. Judah han-Nasi I ... [Ab. II, 2.]'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.2.sense",
+   "value": "3",
+   "severity": "style",
+   "reason": "With the Jastrow entry: sense 3, the son of R. Judah han-Nasi, citing this mishnah."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.11.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה offers only 'custom, manner, law (of man)'; the pack's jastrow:תּוֹרָה 1 is 'teaching, law, esp. the Law of Moses'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.20.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה offers only 'custom, manner, law (of man)'; the pack's jastrow:תּוֹרָה 1 is 'teaching, law, esp. the Law of Moses'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.16.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "שְׁנֵיהֶם 'both of them' is BDB 1.4 'both'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.21.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן here is 'where?, whence?'; the negative is jastrow:אֵין 'nothing, not'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.25.lex",
+   "value": "jastrow:בָּטֵל II",
+   "severity": "error",
+   "reason": "jastrow:בָּטֵל I is the verb (sense 1 '[to be hollow]'); the adjective בְּטֵלָה 'void' is jastrow:בָּטֵל II."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.25.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:בָּטֵל II 2 'null, void; vain'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.26.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "jastrow:גָּרַר I 1 is '[to produce a grating, scraping sound]'; 'draws sin along' is sense 4 'to carry with it, to cause'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.32.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "יִהְיוּ עֲמֵלִים 'let them be labouring' is BDB 1.1.3 'Qal to be', not the group 1.1.1 'to happen'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.35.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the person Shem; the noun 'name' is jastrow:שֵׁם II (sense 1 'mark, name')."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.36.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "שָׁמַיִם here stands for God: BDB 1.2 'Heaven (as the abode of God)'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.37.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "jastrow:זְכוּת 1 is only the root '(זָכָה)'; זְכוּת אֲבוֹתָם is sense 4 'the protecting influence of good conduct, merit', which cites 'בז׳ אבות'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.38.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "אֲבוֹתָם are the ancestors of the community, BDB 4 'ancestor', not 1 'father of an individual'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.42.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עֵד is 'menstruation'; sense 1 is not this word. The noun עַד 'perpetuity' (לָעַד 'forever') has no entry in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.42.note",
+   "value": "לָעַד: ל + עַד 'perpetuity', 'for ever'. The lexicon entry attached is עֵד 'menstruation', a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.47.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the person Sacar; the pack lists jastrow:שָׂכָר 'wages, profit, reward'."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.47.note",
+   "value": "שָׂכָר 'reward', the object of מַעֲלֶה ... עַל 'credit to'.",
+   "severity": "error",
+   "reason": "The old note described the proper-name entry, now corrected."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.48.lex",
+   "value": "jastrow:רָבָה",
+   "severity": "error",
+   "reason": "הַרְבֵּה is not the article with the adjective רַב: it is the Hifil infinitive absolute of רבה used as an adverb. The pack lists jastrow:רָבָה (v. רבי)."
+  },
+  {
+   "ref": "2:2",
+   "path": "token:2:2.48.note",
+   "value": "הַרְבֵּה 'much': the Hifil infinitive absolute of רָבָה 'to be many', used as an adverb. The הַ is the Hifil prefix, not the article.",
+   "severity": "error",
+   "reason": "The old note called it the article with an adjective."
+  },
+  {
+   "ref": "2:2",
+   "path": "morph:2:2.48",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רבה",
+    "morphemes": [
+     {
+      "form": "הַרְבֵּה",
+      "lemma": "רָבָה",
+      "pos": "adverb",
+      "parse": "adverb (hifil, infinitive absolute)"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "הַרְבֵּה is one word, the Hifil infinitive absolute of רבה used as the adverb 'much'; the הַ is the Hifil prefix, not the article, and there is no adjective רַב here."
+  },
+  {
+   "ref": "2:2",
+   "path": "morph:2:2.39",
+   "value": {
+    "lang": "mishnaic",
+    "root": "סיע",
+    "morphemes": [
+     {
+      "form": "מְסַיַּעְתָּ",
+      "lemma": "סָיַע",
+      "pos": "verb",
+      "parse": "piel, participle active, feminine, singular, absolute"
+     },
+     {
+      "form": "ן",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The participle agrees with זְכוּת (feminine): מְסַיַּעַת, with the suffix ־ָן 'them' (the labourers, masculine plural in Mishnaic ־ָן). It is not masculine, and the ת belongs to the participle, not the suffix."
+  },
+  {
+   "ref": "2:2",
+   "path": "morph:2:2.35",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שום",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "שֵׁם",
+      "lemma": "שֵׁם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "שמם is the root 'be desolate'; Jastrow derives שֵׁם 'name' from שׁוּם (jastrow:שֵׁם II: 'v. שׁוּם')."
+  },
+  {
+   "ref": "2:2",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:2.1",
+      "2:2.2"
+     ],
+     "english": "Rabban Gamliel,",
+     "literal": "'Rabban Gamliel'; רַבָּן is the title of the patriarchal house"
+    },
+    {
+     "tokens": [
+      "2:2.3",
+      "2:2.4",
+      "2:2.5",
+      "2:2.6",
+      "2:2.7"
+     ],
+     "english": "son of Rabbi Yehuda the Patriarch,",
+     "literal": "'son-his of Rabbi Yehuda the-Patriarch'; בְּנוֹ שֶׁל 'his son, of' is the Mishnaic construction; נָשִׂיא 'one lifted up, chief' is the title"
+    },
+    {
+     "tokens": [
+      "2:2.8"
+     ],
+     "english": "says:",
+     "literal": "'saying'"
+    },
+    {
+     "tokens": [
+      "2:2.9",
+      "2:2.10",
+      "2:2.11"
+     ],
+     "english": "Torah study is excellent",
+     "literal": "'good study-of Torah'; יָפֶה 'fair, fine, good'"
+    },
+    {
+     "tokens": [
+      "2:2.12",
+      "2:2.13",
+      "2:2.14"
+     ],
+     "english": "together with a worldly occupation,",
+     "literal": "'with way-of land'; the idiom דֶּרֶךְ אֶרֶץ is read by Bartenura as work or trade and by Rambam as earning a living"
+    },
+    {
+     "tokens": [
+      "2:2.15",
+      "2:2.16",
+      "2:2.17",
+      "2:2.18"
+     ],
+     "english": "for the toil of both makes sin forgotten.",
+     "literal": "'that-toil-of both-of-them causes-to-forget iniquity'; the Piel מְשַׁכַּחַת is causative, 'makes to be forgotten'"
+    },
+    {
+     "tokens": [
+      "2:2.19",
+      "2:2.20",
+      "2:2.21",
+      "2:2.22",
+      "2:2.23"
+     ],
+     "english": "And any Torah study that has no work with it",
+     "literal": "'and-all Torah that-there-is-not with-it work'"
+    },
+    {
+     "tokens": [
+      "2:2.24",
+      "2:2.25",
+      "2:2.26",
+      "2:2.27"
+     ],
+     "english": "in the end comes to nothing and draws sin along.",
+     "literal": "'end-its void and-dragging iniquity'; בְּטֵלָה 'idle, void'"
+    },
+    {
+     "tokens": [
+      "2:2.28",
+      "2:2.29",
+      "2:2.30",
+      "2:2.31"
+     ],
+     "english": "And all who labor with the community",
+     "literal": "'and-all the-labourers with the-community'"
+    },
+    {
+     "tokens": [
+      "2:2.32",
+      "2:2.33",
+      "2:2.34",
+      "2:2.35",
+      "2:2.36"
+     ],
+     "english": "should labor with them for the sake of Heaven,",
+     "literal": "'let-them-be labouring with-them for-the-sake-of Heaven'; 'Heaven' is God, per the decisions"
+    },
+    {
+     "tokens": [
+      "2:2.37",
+      "2:2.38",
+      "2:2.39"
+     ],
+     "english": "for the merit of their fathers supports them",
+     "literal": "'that-merit-of their-fathers supporting-them'"
+    },
+    {
+     "tokens": [
+      "2:2.40",
+      "2:2.41",
+      "2:2.42"
+     ],
+     "english": "and their righteousness stands forever.",
+     "literal": "'and-their-righteousness standing for-ever'; לָעַד with the preposition ל, 'forever'"
+    },
+    {
+     "tokens": [
+      "2:2.43",
+      "2:2.44",
+      "2:2.45",
+      "2:2.46"
+     ],
+     "english": "And you, I credit to you",
+     "literal": "'and-you, raising I upon-you'; the hifil participle מַעֲלֶה 'raising up' with עַל, 'I count it to you'"
+    },
+    {
+     "tokens": [
+      "2:2.47",
+      "2:2.48",
+      "2:2.49",
+      "2:2.50"
+     ],
+     "english": "a great reward as if you had done it.",
+     "literal": "'reward much as-if you-did'; הַרְבֵּה, the Hifil infinitive absolute of רבה, is the adverb 'much'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The literal of the last phrase called הַרְבֵּה 'the-great' and a noun; it is the adverb 'much', a Hifil infinitive absolute."
+  },
+  {
+   "ref": "2:2",
+   "path": "literal",
+   "value": "Rabban Gamliel son-his of Rabbi Yehuda the-Patriarch saying: good study-of Torah with way-of land, that-toil-of both-of-them causes-to-forget iniquity. And-all Torah that-there-is-not with-it work, end-its void and-dragging iniquity. And-all the-labourers with the-community, let-them-be labouring with-them for-the-sake-of Heaven, that-merit-of their-fathers supporting-them and-their-righteousness standing for-ever. And-you, raising I upon-you reward much as-if you-did.",
+   "severity": "error",
+   "reason": "הַרְבֵּה is the adverb 'much', not the article with 'great'."
+  },
+  {
+   "ref": "2:2",
+   "path": "apparatus",
+   "value": [
+    "Variants: Vilna reads מסייעתן (base מְסַיַּעְתָּן) and כאילו (base כְּאִלּוּ): spelling only.",
+    "Bartenura's and Rabbeinu Yonah's lemmata read עוֹסְקִין 'occupied' for עֲמֵלִים 'labour' (וְכָל הָעוֹסְקִין עִם הַצִּבּוּר יִהְיוּ עוֹסְקִין עִמָּהֶם), and Rabbeinu Yonah reads וְכָל הַתּוֹרָה for וְכָל תּוֹרָה."
+   ],
+   "severity": "question",
+   "reason": "The commentators' lemmata are witnesses to the text; their reading עוסקין for עמלים is a variant of wording, not spelling, and should be recorded."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.1.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "הֱווּ 'be' is BDB 1.1.3 'Qal to be', not the group 1.1.1 'to happen'."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.4.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן here is 'where?, whence?'; the negative is jastrow:אֵין 'nothing, not'."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.15.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "As 2:3.4: the negative is jastrow:אֵין, not bdbs:אַיִן 'where?'."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.5.gloss",
+   "value": "draw near (bring close)",
+   "severity": "error",
+   "reason": "מְקָרְבִין is a Piel participle, transitive: 'bring near' a person (the English rightly says 'draw a person near'). 'those who draw near' is the intransitive Qal."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.5.sense",
+   "value": "1.3",
+   "severity": "error",
+   "reason": "BDB Piel 1.3 'to cause to approach, bring near', not Qal 1.1 'to approach'."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.5.note",
+   "value": "Piel participle masculine plural with the Mishnaic ending ־ִין: 'bringing near, befriending'; the subject, the authorities, is unexpressed.",
+   "severity": "error",
+   "reason": "A learner needs the binyan: the Qal would be קְרֵבִין 'approaching'."
+  },
+  {
+   "ref": "2:3",
+   "path": "morph:2:3.5",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קרב",
+    "morphemes": [
+     {
+      "form": "מְקָרְבִין",
+      "lemma": "קָרַב",
+      "pos": "verb",
+      "parse": "piel, participle active, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מְקָרְבִין, with prefix מְ and the doubled middle radical, is the Piel participle 'bring near'; the Qal participle would be קְרֵבִין."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.7.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם gives only the name Adam; the common noun 'person' is jastrow:אָדָם (sense 1 'man')."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.18.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם gives only the name Adam; the common noun 'person' is jastrow:אָדָם (sense 1 'man')."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.10.lex",
+   "value": "jastrow:עֶצֶם",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place name Azem; jastrow:עֶצֶם lists sense 3 'substance, essence, self'."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.10.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "jastrow:עֶצֶם 3 'self', citing Avot (לעַצְמִי)."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.10.note",
+   "value": "עֶצֶם 'bone', in Mishnaic Hebrew 'self' (Jastrow 3); with the plural suffix ־ָן, עַצְמָן 'themselves', the authorities.",
+   "severity": "error",
+   "reason": "The old note described the place-name entry, now corrected."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.11.lex",
+   "value": "jastrow:רָאָה I",
+   "severity": "error",
+   "reason": "bdbs:רָאָה is the bird of prey; jastrow:רָאָה I is the verb (v. ראי)."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.11.note",
+   "value": "Nifal participle masculine plural of רָאָה 'to see': 'being seen, appearing'.",
+   "severity": "error",
+   "reason": "The token had no note; the passive sense of the Nifal is the point for a learner, and the old sense was the bird."
+  },
+  {
+   "ref": "2:3",
+   "path": "morph:2:3.11",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ראה",
+    "morphemes": [
+     {
+      "form": "נִרְאִין",
+      "lemma": "רָאָה",
+      "pos": "verb",
+      "parse": "nifal, participle active, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In this scheme 'participle passive' is the Qal passive participle; the Nifal participle is labelled 'participle active'."
+  },
+  {
+   "ref": "2:3",
+   "path": "token:2:3.12.sense",
+   "value": "1.1.4.2",
+   "severity": "error",
+   "reason": "The participle אוֹהֲבִין used as a noun is BDB 1.1.4.2 'Qal friend (participle)', not 1.1.1 'human love for another'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.2.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "הָיָה אוֹמֵר is 'was saying', BDB 1.1.3 'Qal to be', not the group 1.1.1 'to happen'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.11.sense",
+   "value": "5.1",
+   "severity": "error",
+   "reason": "jastrow:בָּטֵל I 1 is '[to be hollow]'; the Piel is 5.1 'to abolish, suspend, cancel', which cites this mishnah ('set aside thy will')."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.16.sense",
+   "value": "5.1",
+   "severity": "error",
+   "reason": "jastrow:בָּטֵל I 1 is '[to be hollow]'; the Piel is 5.1 'to abolish, suspend, cancel', which cites this mishnah ('set aside thy will')."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.13.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "מִפְּנֵי is the prepositional use, BDB 1.7.1 'with prep: before, in the face of', not 1 'face'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.19.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "מִפְּנֵי is the prepositional use, BDB 1.7.1 'with prep: before, in the face of', not 1 'face'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.18.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אַחַר is the adverb 'after'; אֲחֵרִים is the adjective אַחֵר 'other', which has no entry in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.18.note",
+   "value": "plural of the adjective אַחֵר 'other', used as a noun: 'others'. The lexicon entry attached is אַחַר 'after', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.21.lex",
+   "value": "jastrow:הִלֵּל",
+   "severity": "error",
+   "reason": "bdbs:הָלַל is the verb 'to shine, praise'; the name is jastrow:הִלֵּל."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.21.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:הִלֵּל 2: Hillel the Babylonian, the Elder."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.24.lex",
+   "value": "jastrow:פָּרַשׁ",
+   "severity": "error",
+   "reason": "bdbs:פָּרָשׁ is 'horse, horseman'; the verb is jastrow:פָּרַשׁ."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.24.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:פָּרַשׁ 2 '(neut. verb) to go away, go aside, depart; to keep off'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.24.note",
+   "value": "Qal yiqtol with אַל: a prohibition, 'do not separate yourself'. פָּרַשׁ in the Qal is intransitive, 'withdraw, keep apart' (Jastrow 2).",
+   "severity": "error",
+   "reason": "The old note described the horse entry, now corrected."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.28.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:אָמַן 1 is 'to arrange in lines, array', a different verb; the Hifil 'to trust, believe' is not in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.28.note",
+   "value": "Hifil yiqtol of אמן 'to trust, believe'; הֶאֱמִין בְּ 'to trust in'. The lexicon entry attached is אָמַן 'to arrange in lines', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.29.lex",
+   "value": "jastrow:עֶצֶם",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place name Azem; jastrow:עֶצֶם 3 is 'self'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.29.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "jastrow:עֶצֶם 3 'substance, essence, self'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.34.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:דָּן is the person Dan; the verb דִּין 'to judge' has no entry in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.34.note",
+   "value": "Qal yiqtol of the hollow verb דִּין 'to judge' with אַל: a prohibition, 'do not judge'. The lexicon entry attached is the name Dan, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.36.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "bdbs:חָבֵר 1 is only the label 'adj'; the sense is 4 'associate, fellow'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.43.lex",
+   "value": "jastrow:אִי III",
+   "severity": "error",
+   "reason": "bdbs:אִי is 'coast, island' (its sense 1); the negative is jastrow:אִי III 'not', citing אי אפשר 'it is impossible'."
+  },
+  {
+   "ref": "2:4",
+   "path": "token:2:4.51.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "BDB שָׁנָה 1.1 is 'Qal to change'; the note itself means 1 'to repeat, do again'."
+  },
+  {
+   "ref": "2:4",
+   "path": "morph:2:4.44",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "אֶפְשָׁר",
+      "lemma": "אֶפְשָׁר",
+      "pos": "adverb",
+      "parse": "adverb"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֶפְשָׁר 'possible' is an adverb (predicate), not a noun; with אִי it makes 'impossible'."
+  },
+  {
+   "ref": "2:4",
+   "path": "english",
+   "value": "He used to say: Do His will as if it were your will, so that He will do your will as if it were His will. Set aside your will before His will, so that He will set aside the will of others before your will. Hillel says: Do not separate yourself from the community, and do not trust yourself until the day of your death, and do not judge your fellow until you reach his place, and do not say a thing that cannot be heard, for in the end it will be heard. And do not say, 'When I am free I will study': perhaps you will not be free.",
+   "severity": "error",
+   "reason": "The quotation closed after 'perhaps you will not be free', putting Hillel's warning in the mouth of the one who delays. The quoted words are only לִכְשֶׁאִפָּנֶה אֶשְׁנֶה; שֶׁמָּא לֹא תִפָּנֶה is Hillel's reply in the second person."
+  },
+  {
+   "ref": "2:4",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:4.1",
+      "2:4.2",
+      "2:4.3"
+     ],
+     "english": "He used to say:",
+     "literal": "'he he-used saying'; per the decisions"
+    },
+    {
+     "tokens": [
+      "2:4.4",
+      "2:4.5",
+      "2:4.6"
+     ],
+     "english": "Do His will as if it were your will,",
+     "literal": "'do will-his like-your-will'; the suffix of רְצוֹנוֹ is God (Bartenura: 'the wishes of Heaven')"
+    },
+    {
+     "tokens": [
+      "2:4.7",
+      "2:4.8",
+      "2:4.9",
+      "2:4.10"
+     ],
+     "english": "so that He will do your will as if it were His will.",
+     "literal": "'so-that he-will-do your-will like-his-will'; כְּדֵי שֶׁ 'in order that'"
+    },
+    {
+     "tokens": [
+      "2:4.11",
+      "2:4.12",
+      "2:4.13",
+      "2:4.14"
+     ],
+     "english": "Set aside your will before His will,",
+     "literal": "'annul your-will from-before his-will'; מִפְּנֵי 'because of, before, in the face of'"
+    },
+    {
+     "tokens": [
+      "2:4.15",
+      "2:4.16",
+      "2:4.17",
+      "2:4.18",
+      "2:4.19",
+      "2:4.20"
+     ],
+     "english": "so that He will set aside the will of others before your will.",
+     "literal": "'so-that he-will-annul will-of others from-before your-will'"
+    },
+    {
+     "tokens": [
+      "2:4.21",
+      "2:4.22"
+     ],
+     "english": "Hillel says:",
+     "literal": "'Hillel saying'"
+    },
+    {
+     "tokens": [
+      "2:4.23",
+      "2:4.24",
+      "2:4.25",
+      "2:4.26"
+     ],
+     "english": "Do not separate yourself from the community,",
+     "literal": "'not you-separate from the-community'"
+    },
+    {
+     "tokens": [
+      "2:4.27",
+      "2:4.28",
+      "2:4.29",
+      "2:4.30",
+      "2:4.31",
+      "2:4.32"
+     ],
+     "english": "and do not trust yourself until the day of your death,",
+     "literal": "'and-not you-trust in-yourself until day-of your-death'; הֶאֱמִין בְּ 'to trust in'"
+    },
+    {
+     "tokens": [
+      "2:4.33",
+      "2:4.34"
+     ],
+     "english": "and do not judge",
+     "literal": "'and-not you-judge'"
+    },
+    {
+     "tokens": [
+      "2:4.35"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "2:4.36"
+     ],
+     "english": "your fellow",
+     "literal": "'your-fellow'"
+    },
+    {
+     "tokens": [
+      "2:4.37",
+      "2:4.38",
+      "2:4.39"
+     ],
+     "english": "until you reach his place,",
+     "literal": "'until that-you-reach his-place'"
+    },
+    {
+     "tokens": [
+      "2:4.40",
+      "2:4.41",
+      "2:4.42"
+     ],
+     "english": "and do not say a thing",
+     "literal": "'and-not you-say thing'"
+    },
+    {
+     "tokens": [
+      "2:4.43",
+      "2:4.44",
+      "2:4.45"
+     ],
+     "english": "that cannot be heard,",
+     "literal": "'that-not possible to-hear'; אִי אֶפְשָׁר 'it is impossible'"
+    },
+    {
+     "tokens": [
+      "2:4.46",
+      "2:4.47"
+     ],
+     "english": "for in the end it will be heard.",
+     "literal": "'that-its-end to-be-heard'; the Nifal infinitive 'to be heard'"
+    },
+    {
+     "tokens": [
+      "2:4.48",
+      "2:4.49"
+     ],
+     "english": "And do not say:",
+     "literal": "'and-not you-say'"
+    },
+    {
+     "tokens": [
+      "2:4.50",
+      "2:4.51"
+     ],
+     "english": "'When I am free I will study'",
+     "literal": "'when-I-am-free I-will-study'; Nifal of פָּנָה 'to be free, turn aside'; שָׁנָה 'repeat, study (a lesson)'"
+    },
+    {
+     "tokens": [
+      "2:4.52",
+      "2:4.53",
+      "2:4.54"
+     ],
+     "english": "perhaps you will not be free.",
+     "literal": "'lest not you-will-be-free'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English moves the closing quotation mark; the last two phrases follow it."
+  },
+  {
+   "ref": "2:4",
+   "path": "note",
+   "value": "'He' in the first saying is the speaker last named, Rabban Gamliel of 2:2. The suffix of רְצוֹנוֹ is God, per Bartenura. The saying of Hillel on 'a thing that cannot be heard' is ambiguous. The English, 'for in the end it will be heard', gives Bartenura's second reading: do not say a secret thinking no one can hear it, for in the end it will be heard. Bartenura says this reading goes with the base text's שֶׁסּוֹפוֹ. His first reading, which is Rambam's, goes with his lemma וְסוֹפוֹ: do not say what cannot be understood at first hearing. It is recorded in the apparatus.",
+   "severity": "error",
+   "reason": "The note said the English follows the first reading (words that cannot be understood at first). But 'for in the end it will be heard' is the second reading, the secret; Bartenura says that reading belongs to שֶׁסּוֹפוֹ, which is the base text. Nor was the other reading recorded anywhere."
+  },
+  {
+   "ref": "2:4",
+   "path": "apparatus",
+   "value": [
+    "Variants: Vilna reads תפרוש, תאמן and לשמוע (bases תִּפְרֹשׁ, תַּאֲמִין, לִשְׁמֹעַ): spelling only.",
+    "Bartenura's lemma reads וְסוֹפוֹ לְהִשָּׁמֵעַ for שֶׁסּוֹפוֹ לְהִשָּׁמַע. He says the reading שֶׁסּוֹפוֹ belongs to his second interpretation (a secret will in the end be heard), and that Rashi reads דָּבָר שֶׁאֶפְשָׁר לִשְׁמֹעַ, without אִי: do not say of a word of Torah that you can hear now that you will hear it later.",
+    "Bartenura's first reading, and Rambam's: do not say a thing that cannot be understood at first hearing, relying on the listener to understand it in the end after close study; people may misread it."
+   ],
+   "severity": "error",
+   "reason": "The textual variants named by Bartenura (וְסוֹפוֹ; Rashi's שֶׁאֶפְשָׁר) and the normative reading not adopted in the English were not recorded."
+  },
+  {
+   "ref": "2:4",
+   "path": "commentary:bartenura:2:4:2.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "The English 'He will set aside the will of others before your will' adopts Bartenura's first reading (God frustrates those who rise against you); the second, euphemistic reading is the one recorded. 'records' says the English adopts neither."
+  },
+  {
+   "ref": "2:4",
+   "path": "commentary:bartenura:2:4:6.summary",
+   "value": "Bartenura: do not make statements that cannot be understood at first, relying on the listener eventually understanding them, for people may err and become heretics through you; on this reading his text has וְסוֹפוֹ. Another reading: do not reveal a secret even when alone, saying no one will hear, for in the end it will be heard ('a bird of the air will carry the voice'); the text שֶׁסּוֹפוֹ fits this reading. Rashi reads שֶׁאֶפְשָׁר without אִי and applies it to Torah: do not put off hearing what you can hear now.",
+   "severity": "error",
+   "reason": "The old summary left out what bears on the English: Bartenura ties the base text שֶׁסּוֹפוֹ to the second reading, his first reading to וְסוֹפוֹ, and he reports Rashi's reading."
+  },
+  {
+   "ref": "2:4",
+   "path": "commentary:rambam:2:4:1.summary",
+   "value": "Rambam: as explained in his fourth chapter, one should separate from the community only according to its corruption. And a person, however worthy his disposition and however strong, should not stop repeating good deeds to strengthen it, nor trust that the virtue cannot leave him; it can, hence 'until the day of your death'.",
+   "severity": "error",
+   "reason": "The old summary left out Rambam's comment on the first clause, 'do not separate yourself from the community'."
+  },
+  {
+   "ref": "2:4",
+   "path": "commentary:rambam:2:4:2.relation",
+   "value": "records",
+   "severity": "error",
+   "reason": "The English gives the secret reading (Bartenura's second, which he ties to the base text שֶׁסּוֹפוֹ). Rambam's reading, speech that needs far-fetched interpretation, is not adopted, so it is recorded, not followed."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.2.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "As 2:4.2: הָיָה אוֹמֵר is BDB 1.1.3 'Qal to be'."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.4.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן here is 'where?, whence?'; the negative is jastrow:אֵין 'nothing, not'."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.24.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן here is 'where?, whence?'; the negative is jastrow:אֵין 'nothing, not'."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.9.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עִם is the preposition 'with'; the noun עַם 'people' has no entry in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.9.note",
+   "value": "עַם 'people' in construct before הָאָרֶץ; by the decisions, 'an unlearned person'. The literal sense is 'the people of the land'; Rambam: lacks intellectual virtues but has some moral ones. The lexicon entry attached is the preposition עִם 'with', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.11.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "חָסִיד 'pious' is BDB 1.2 'pious, godly'."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.19.gloss",
+   "value": "everyone",
+   "severity": "error",
+   "reason": "וְלֹא כָל is 'and not every': the gloss follows the corrected English."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.19.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "כָל before a participle is BDB 1.2 'every, any'."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.22.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חָכָם is the adjective 'wise'; the token is the Hifil participle of the verb חָכַם, which has no entry in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.22.note",
+   "value": "Hifil participle of חָכַם 'to be wise', inwardly causative: 'grows wise'. The lexicon entry attached is the adjective חָכָם, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.25.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the verb (Hithpalel) 'to be a man'; the noun is jastrow:אִישׁ 'being, man', which gives the plural אֲנָשִׁים."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.28.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ is the verb (Hithpalel) 'to be a man'; the noun is jastrow:אִישׁ 'being, man', which gives the plural אֲנָשִׁים."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.26.sense",
+   "value": "3.3",
+   "severity": "error",
+   "reason": "jastrow:שָׁדַל 1 is 'to swing, be wide open'; הִשְׁתַּדֵּל is the Hitpael 3.3 'to make an effort, strive'."
+  },
+  {
+   "ref": "2:5",
+   "path": "token:2:5.27.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "לִהְיוֹת אִישׁ 'to be a man' is BDB 1.1.3 'Qal to be'."
+  },
+  {
+   "ref": "2:5",
+   "path": "morph:2:5.7",
+   "value": {
+    "lang": "mishnaic",
+    "root": "חטא",
+    "morphemes": [
+     {
+      "form": "חֵטְא",
+      "lemma": "חֵטְא",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In יְרֵא חֵטְא the construct is יְרֵא; חֵטְא is the governed noun and absolute."
+  },
+  {
+   "ref": "2:5",
+   "path": "english",
+   "value": "He used to say: No boor fears sin, and no unlearned person is pious, and no shy person learns, and no short-tempered person teaches, and not everyone who does much business becomes wise. And in a place where there are no men, strive to be a man.",
+   "severity": "error",
+   "reason": "וְלֹא כָל הַמַּרְבֶּה בִסְחוֹרָה מַחְכִּים is 'not everyone who does much business becomes wise' (Jastrow s.v. סְחוֹרָה: 'not every one that has a large trade'); 'no one' turns a limit into a denial."
+  },
+  {
+   "ref": "2:5",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:5.1",
+      "2:5.2",
+      "2:5.3"
+     ],
+     "english": "He used to say:",
+     "literal": "'he he-used saying'; the speaker is Hillel, last named in 2:4"
+    },
+    {
+     "tokens": [
+      "2:5.4",
+      "2:5.5",
+      "2:5.6",
+      "2:5.7"
+     ],
+     "english": "No boor fears sin,",
+     "literal": "'there-is-not boor fearing-of sin'; בּוּר 'fallow, empty'"
+    },
+    {
+     "tokens": [
+      "2:5.8",
+      "2:5.9",
+      "2:5.10",
+      "2:5.11"
+     ],
+     "english": "and no unlearned person is pious,",
+     "literal": "'and-not people-of the-land pious'; עַם הָאָרֶץ, literally 'people of the land'"
+    },
+    {
+     "tokens": [
+      "2:5.12",
+      "2:5.13",
+      "2:5.14"
+     ],
+     "english": "and no shy person learns,",
+     "literal": "'and-not the-shy learning'"
+    },
+    {
+     "tokens": [
+      "2:5.15",
+      "2:5.16",
+      "2:5.17"
+     ],
+     "english": "and no short-tempered person teaches,",
+     "literal": "'and-not the-hot-tempered teaching'; קַפְּדָן 'one who is exacting, easily angered'"
+    },
+    {
+     "tokens": [
+      "2:5.18",
+      "2:5.19",
+      "2:5.20",
+      "2:5.21",
+      "2:5.22"
+     ],
+     "english": "and not everyone who does much business becomes wise.",
+     "literal": "'and-not all the-increasing in-business making-wise'; לֹא כָל 'not every': a limit, not a denial"
+    },
+    {
+     "tokens": [
+      "2:5.23",
+      "2:5.24",
+      "2:5.25"
+     ],
+     "english": "And in a place where there are no men,",
+     "literal": "'and-in-place that-there-are-not men'"
+    },
+    {
+     "tokens": [
+      "2:5.26",
+      "2:5.27",
+      "2:5.28"
+     ],
+     "english": "strive to be a man.",
+     "literal": "'strive to-be man'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English of this phrase changed with the correction of 'no one' to 'not everyone'."
+  },
+  {
+   "ref": "2:5",
+   "path": "grammar",
+   "value": [
+    "Five parallel negations, one with אֵין and four with וְלֹא: 'no boor ..., no unlearned person ..., no shy person ..., no short-tempered person ...'; the fifth, וְלֹא כָל, is 'not everyone who ...': it limits, it does not deny.",
+    "אֵין בּוּר יְרֵא חֵטְא: the existential negative אֵין governs the first clause; the rest use וְלֹא.",
+    "יְרֵא חֵטְא is a construct chain, 'one fearing of sin'.",
+    "The closing line shifts to an imperative, הִשְׁתַּדֵּל, with a play on אֲנָשִׁים and אִישׁ."
+   ],
+   "severity": "error",
+   "reason": "The note rendered the fifth clause 'no one who'; לֹא כָל is 'not every'."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.1.lex",
+   "value": "jastrow:אַף I",
+   "severity": "error",
+   "reason": "bdbs:אַף is the noun 'nostril, anger'; the adverb is jastrow:אַף I 'also, too', which cites אף הוא, Aboth II, 6."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.1.note",
+   "value": "אַף 'also': אַף הוּא 'he too', Hillel again (Jastrow cites this mishnah).",
+   "severity": "error",
+   "reason": "The old note described the noun entry, now corrected."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.3.lex",
+   "value": "jastrow:רָאָה I",
+   "severity": "error",
+   "reason": "bdbs:רָאָה is the bird of prey; jastrow:רָאָה I is the verb 'to see' (v. ראי)."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.3.note",
+   "value": "Qal perfect 3rd masculine singular of the final-ה verb רָאָה 'to see'.",
+   "severity": "error",
+   "reason": "The old note described the bird entry, now corrected."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.5.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "The note reads אַחַת as an indefinite article, BDB 1.4 'an (indefinite article)'."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.6.gloss",
+   "value": "that was floating",
+   "severity": "error",
+   "reason": "Jastrow takes צָפָה as the feminine participle of צוּף ('part. f. of צוּף'), as the English 'floating' does; 'that floated' is a perfect."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.6.note",
+   "value": "שֶׁ + feminine participle of the hollow verb צוּף 'to float' (Jastrow: 'part. f. of צוּף'), agreeing with גֻלְגֹּלֶת: 'that was floating'. Not צָפָה 'to watch'.",
+   "severity": "error",
+   "reason": "The old note gave a perfect of a verb צָפָה; the root is צוף and Jastrow reads a participle."
+  },
+  {
+   "ref": "2:6",
+   "path": "morph:2:6.6",
+   "value": {
+    "lang": "mishnaic",
+    "root": "צוף",
+    "morphemes": [
+     {
+      "form": "שֶׁ",
+      "lemma": "ש: who, which, that",
+      "pos": "pronoun",
+      "parse": "relative pronoun"
+     },
+     {
+      "form": "צָּפָה",
+      "lemma": "צָף",
+      "pos": "verb",
+      "parse": "qal, participle active, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "צָפָה 'floating' is from the hollow root צוף (Jastrow: 'part. f. of צוּף; v. צָף'), not צפה 'to watch'; the lemma in this scheme is צָף, and Jastrow reads the form as the feminine participle."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.8.sense",
+   "value": "1.5",
+   "severity": "style",
+   "reason": "פְּנֵי הַמַּיִם 'the surface of the water' is BDB 1.5 'face, surface'."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.12.lex",
+   "value": "jastrow:עַל ²",
+   "severity": "style",
+   "reason": "This עַל is Aramaic; jastrow:עַל ² is the Aramaic entry and cites 'Ab. II, 6 על דאטפת'."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.13.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:טַף is 'children, little ones'; sense 1 is not the verb טוּף 'to float', which has no entry in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.13.note",
+   "value": "Aramaic: דְּ 'that' + Afel (the Aramaic causative; the scheme writes hifil) perfect 2nd feminine of טוּף 'to float': 'you made (others) float', i.e. drowned them. The lexicon entry attached is טַף 'children', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.14.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:טַף is 'children, little ones'; sense 1 is not the verb טוּף 'to float', which has no entry in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.14.note",
+   "value": "Aramaic Afel perfect 3rd plural of טוּף with the 2nd feminine object suffix ־ךְ: 'they made you float'. The lexicon entry attached is טַף 'children', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.16.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:טַף is 'children, little ones'; sense 1 is not the verb טוּף 'to float', which has no entry in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.16.note",
+   "value": "Aramaic Afel participle plural construct of טוּף with the 2nd feminine suffix: 'those who made you float, your drowners'. The lexicon entry attached is טַף 'children', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.17.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:טַף is 'children, little ones'; sense 1 is not the verb טוּף 'to float', which has no entry in the pack, so no sense is given."
+  },
+  {
+   "ref": "2:6",
+   "path": "token:2:6.17.note",
+   "value": "Aramaic Peal (simple stem) imperfect 3rd masculine plural of טוּף with the ending ־וּן: 'they will float', that is, be drowned in their turn. Rabbeinu Yonah reads the Afel יְטִיפוּן, 'others will make them float'. The lexicon entry attached is טַף 'children', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed; and the stem of יְטוּפוּן is the Peal, not the Afel (corrected in the morphology)."
+  },
+  {
+   "ref": "2:6",
+   "path": "morph:2:6.17",
+   "value": {
+    "lang": "arc",
+    "root": "טוף",
+    "morphemes": [
+     {
+      "form": "יְטוּפוּן",
+      "lemma": "טָף",
+      "pos": "verb",
+      "parse": "qal, imperfect (yiqtol), 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "יְטוּפוּן, with וּ after the second radical, is the Peal (simple stem) imperfect 'they will float'; the Afel (hifil in this scheme) would be יְטִיפוּן, as Rabbeinu Yonah's text reads."
+  },
+  {
+   "ref": "2:6",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:6.1",
+      "2:6.2",
+      "2:6.3",
+      "2:6.4",
+      "2:6.5"
+     ],
+     "english": "He also saw a skull",
+     "literal": "'also he he-saw skull one'; אַף הוּא 'he too'"
+    },
+    {
+     "tokens": [
+      "2:6.6",
+      "2:6.7",
+      "2:6.8",
+      "2:6.9"
+     ],
+     "english": "floating on the surface of the water.",
+     "literal": "'that-floating upon face-of the-water'; צָפָה, participle of צוּף 'to float'"
+    },
+    {
+     "tokens": [
+      "2:6.10",
+      "2:6.11"
+     ],
+     "english": "He said to it:",
+     "literal": "'he-said to-her'; the feminine suffix agrees with גֻלְגֹּלֶת"
+    },
+    {
+     "tokens": [
+      "2:6.12",
+      "2:6.13",
+      "2:6.14"
+     ],
+     "english": "'Because you drowned others, they drowned you,",
+     "literal": "'because that-you-made-float, they-made-float-you'; Aramaic. Hifil of טוּף 'to make float, to flood'"
+    },
+    {
+     "tokens": [
+      "2:6.15",
+      "2:6.16",
+      "2:6.17"
+     ],
+     "english": "and in the end those who drowned you will be drowned.'",
+     "literal": "'and-end-of your-floaters they-will-float'; Aramaic: the Afel 'made float' gives way to the Peal 'will float'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The first literal said the lexicon lists only 'nostril, anger' (now corrected to jastrow:אַף I); the second gave צָפָה as a perfect of 'to float'; the last needed the change of stem in יְטוּפוּן."
+  },
+  {
+   "ref": "2:6",
+   "path": "literal",
+   "value": "Also he he-saw skull one that-floating upon face-of the-water. He-said to-her: because that-you-made-float, they-made-float-you; and-end-of your-floaters they-will-float.",
+   "severity": "error",
+   "reason": "צָפָה is the feminine participle of צוּף (Jastrow), 'floating'."
+  },
+  {
+   "ref": "2:6",
+   "path": "grammar",
+   "value": [
+    "The second half of the mishnah is Aramaic: עַל דַּאֲטֵפְתְּ אַטְפוּךְ וְסוֹף מְטִיפַיִךְ יְטוּפוּן. The Aramaic relative דְּ replaces Hebrew שֶׁ.",
+    "The skull is feminine (גֻלְגֹּלֶת), so the speaker addresses it with the feminine suffixes -תְּ, -ךְ and -ַיִךְ.",
+    "The saying uses the root טוּף four times as a play: the Afel (causative) in אֲטֵפְתְּ 'you made float', אַטְפוּךְ 'they made you float' and מְטִיפַיִךְ 'those who made you float', then the Peal (simple) יְטוּפוּן 'they will float'.",
+    "אַף הוּא opens the mishnah as a link to the preceding sayings of Hillel."
+   ],
+   "severity": "error",
+   "reason": "The note counted 'three forms' and did not show the change of stem in the last verb (Peal, not Afel), which is the point of the measure for measure."
+  },
+  {
+   "ref": "2:6",
+   "path": "apparatus",
+   "value": [
+    "Aramaic text of the saying: עַל דַּאֲטֵפְתְּ אַטְפוּךְ, וְסוֹף מְטִיפַיִךְ יְטוּפוּן.",
+    "Variant: Vilna reads גולגלת (base גֻלְגֹּלֶת): spelling only.",
+    "Rabbeinu Yonah's text reads בְּסוֹף מְטִיפַיִךְ יְטִיפוּן (Afel), 'in the end others will make those who drowned you float', for יְטוּפוּן (Peal) 'they will float'."
+   ],
+   "severity": "question",
+   "reason": "A variant of the commentator's text that bears on the stem and sense of the last verb."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:2:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:1:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:1:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:1:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:1:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:2:1:1",
+   "verdict": "contradicts",
+   "comment": "Consistent on the upright path and on light and weighty commandments. On the reckoning clauses Rambam reads הֶפְסֵד מִצְוָה as the penalty for neglect and שְׂכַר עֲבֵרָה as the reward for refraining; the English follows Bartenura's reading, which Rambam does not share, so the two normative commentators differ and the English stands. The patches record Rambam's reading in the apparatus and the summary."
+  },
+  {
+   "anchor": "bartenura:2:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:2:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:2:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:2:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:2:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:2:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:2:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:2:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:4:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:4:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:4:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:4:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:4:6",
+   "verdict": "consistent",
+   "comment": "The English gives Bartenura's second reading, which he himself ties to the base text שֶׁסּוֹפוֹ."
+  },
+  {
+   "anchor": "bartenura:2:4:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:2:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:2:4:2",
+   "verdict": "contradicts",
+   "comment": "Rambam's reading (speech that needs far-fetched interpretation) is Bartenura's first. But Bartenura says the base text שֶׁסּוֹפוֹ belongs to his second reading, the secret, and the English follows that. The normative commentators do not agree on one reading of this text, so the English stands; Rambam's reading is now recorded in the apparatus and its relation set to 'records'."
+  },
+  {
+   "anchor": "rambam:2:4:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:5:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:5:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:5:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:2:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:5:5",
+   "verdict": "consistent",
+   "comment": "Consistent once 'no one who does much business' is corrected to 'not everyone': Bartenura says Torah is not found among those who go overseas, a limit on traders, not a denial of wisdom to all."
+  },
+  {
+   "anchor": "bartenura:2:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:2:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:2:6:1",
+   "verdict": "consistent"
+  }
+ ]
+}

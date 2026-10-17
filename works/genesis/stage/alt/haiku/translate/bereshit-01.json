@@ -1,0 +1,238 @@
+{
+  "unit": "bereshit-01",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "1:1",
+      "english": "When God began to create the heavens and the earth,",
+      "literal": "in-beginning-of created God OBJ the-heavens and-OBJ the-earth",
+      "tokens": [
+        {"id": "1:1.1", "gloss": "in the beginning of", "sense": "1.a", "note": "The pack parses the noun as absolute. Rashi and Ibn Ezra read it as construct, bound to the verb that follows (grammar 1)."},
+        {"id": "1:1.2", "gloss": "create", "sense": "Qal", "note": "Qatal, read as a past verb after a construct noun: 'the beginning of God's creating'."},
+        {"id": "1:1.3", "gloss": "God", "sense": "3", "note": "Plural in form with a singular verb (grammar 3)."},
+        {"id": "1:1.4", "gloss": "(object marker)", "note": "Marks the definite direct object that follows. It has no English word."},
+        {"id": "1:1.5", "gloss": "the heavens", "sense": "1.a", "note": "Plural noun with the article, pointing to the visible heavens."},
+        {"id": "1:1.6", "gloss": "and (object marker)", "note": "The vav joins the second object; the marker repeats before 'the earth'."},
+        {"id": "1:1.7", "gloss": "the earth", "sense": "1.a"}
+      ],
+      "phrases": [
+        {"tokens": ["1:1.1", "1:1.2", "1:1.3"], "english": "When God began to create", "literal": "in-beginning-of created God; the construct reading of Rashi and Ibn Ezra, with the verb as the clause that follows"},
+        {"tokens": ["1:1.4"], "english": "-", "literal": "object marker, no English counterpart"},
+        {"tokens": ["1:1.5"], "english": "the heavens", "literal": "the-heavens; the first object of the verb"},
+        {"tokens": ["1:1.6", "1:1.7"], "english": "and the earth", "literal": "and-OBJ the-earth; the second object, joined by the vav and repeating the marker"}
+      ],
+      "grammar": [
+        "בְּרֵאשִׁית is a preposition plus a noun. The pack parses the noun as absolute, but Rashi and Ibn Ezra both read it as construct, joined to the clause after it ('the beginning of God's creating'). The English follows them. The parse stays as given, and the disagreement is recorded in the apparatus.",
+        "בָּרָא is a qatal (perfect) of the Qal, third person masculine singular. Ibn Ezra's parallel, 'the beginning of the LORD's speaking to Hosea' (Hos 1:2), shows a construct noun before a past-tense verb, which is the pattern the English uses.",
+        "אֱלֹהִים is plural in form and takes a singular verb. Ibn Ezra explains the plural as a plural of majesty. The English gives the singular 'God', following the divine-name decision.",
+        "The etnaḥta on אֱלֹהִים closes the first half of the verse: בְּרֵאשִׁית בָּרָא אֱלֹהִים | אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ. The accents make the first half one clause, which fits the construct reading."
+      ],
+      "note": "The English reads the verse as the opening clause of a sentence whose main clause is in 1:3 ('And God said'). The state of the earth in 1:2 comes between them. Rashi and Ibn Ezra take בְּרֵאשִׁית as construct, so the clause is dependent, and the comma marks that. Rashi argues that the verse does not teach that heaven and earth came first, which is why the English avoids 'first'. Radak's reading, 'at first', is recorded below, not adopted.",
+      "commentary": [
+        {"anchor": "rashi:1:1:1", "relation": "not-applicable", "summary": "Rashi, quoting R. Yitzhak, says the Torah begins with creation so that Israel can answer the nations who call them robbers for taking the land of the seven nations: the earth is God's and he gave it to whom he pleased. This is homily and does not bear on the plain sense."},
+        {"anchor": "rashi:1:1:2", "relation": "follows", "summary": "Rashi's plain sense: 'there is no reshit in Scripture that is not bound to the word after it', so the verse reads 'in the beginning of God's creating the heavens and the earth'. If the verse meant that heaven and earth came first, it would have written 'at first' (ba-rishonah), so the English takes the construct clause and avoids a sequence."},
+        {"anchor": "rashi:1:1:3", "relation": "not-applicable", "summary": "Rashi explains why the verse says Elohim and not YHWH: God first planned to create by the attribute of justice, saw that the world could not stand, and joined mercy to it. This is homily; the English 'God' follows the editorial decision on divine names."},
+        {"anchor": "ibn-ezra:1:1:1", "relation": "follows", "summary": "Ibn Ezra rejects the sages' view that the bet is an added letter and holds that the word is in construct ('ולפי דעתי שהוא סמוך'), as in 'the beginning of the reign of Jehoiakim' (Jer 26:1). He sees no difficulty in its joining a past-tense verb, as in 'the beginning of the LORD's speaking to Hosea' (Hos 1:2)."},
+        {"anchor": "ibn-ezra:1:1:2", "relation": "records", "summary": "Ibn Ezra says most commentators take bara to mean 'bring out of nothing', but he finds the root used also of things not made from nothing (for example, 'and God created the sea monsters', Gen 1:21). He proposes that the heavy stem means 'to decree and fix a limit' (לגזור ולשום גבול נגזר). The English keeps 'create' and records his reading."},
+        {"anchor": "ibn-ezra:1:1:3", "relation": "follows", "summary": "Ibn Ezra explains that Elohim is plural as a word of majesty, like adonim and baalim, so the verb is singular: 'bara', not 'bera'u'. The English uses 'God' with a singular verb. He also says that God's deeds are done through angels as his agents; the English does not adopt that addition."},
+        {"anchor": "ibn-ezra:1:1:4", "relation": "follows", "summary": "Ibn Ezra explains that את marks the object of the verb, meaning 'the thing itself' (כמו עצם הדבר). It is sometimes omitted, and it can stand in place of 'with' or 'from'. The English gives it no word."},
+        {"anchor": "ibn-ezra:1:1:5", "relation": "records", "summary": "Ibn Ezra says the article in השמים points to 'these visible things' (על אלה הנראים). He also holds that the heavens and the earth of this verse are the firmament and the dry land, which were made on separate days, since nothing was made in one day. The English keeps 'the heavens and the earth' and records this narrower identification."},
+        {"anchor": "radak:1:1:1", "relation": "records", "summary": "Radak says the word is not in construct (אֵינֶנּוּ סָמוּךְ) and means 'at first' (בַּתְּחִלָּה). On this reading the verse is a main clause: God created the heavens and the earth at first. The English records this reading as the alternative."}
+      ],
+      "apparatus": [
+        "בְּרֵאשִׁית: the pack parses the noun as absolute; the English follows the construct reading of Rashi and Ibn Ezra, which the parse does not show. Open question for the review pass.",
+        "בְּרֵאשִׁית: Ibn Ezra reports the sages' view that the bet is an added letter (as in בָּרִאשׁוֹנָה, Gen 13:4). He rejects it.",
+        "בָּרָא: Ibn Ezra's sense 'to decree and fix a limit' sits beside 'create out of nothing'; the English keeps 'create'.",
+        "בְּרֵאשִׁית (Radak): 'at first', a main-clause reading. Recorded in the commentary."
+      ]
+    },
+    {
+      "ref": "1:2",
+      "english": "Now the earth was unformed and empty, and darkness was over the face of the deep, and the spirit of God hovered over the face of the waters.",
+      "literal": "and-the-earth was formlessness and-emptiness and-darkness over face-of deep and-spirit-of God hovering over face-of the-waters",
+      "tokens": [
+        {"id": "1:2.1", "gloss": "now the earth", "sense": "1.a", "note": "The vav here reads as 'now', not as sequence: the verse gives the state of the earth when God began."},
+        {"id": "1:2.2", "gloss": "was", "sense": "Qal III", "note": "Qatal of הָיָה (III-he): the final ה is kept as ָה in the feminine third person."},
+        {"id": "1:2.3", "gloss": "formlessness", "sense": "1", "note": "Nominal predicate. Rashi glosses the word as astonishment and desolation (commentary)."},
+        {"id": "1:2.4", "gloss": "and emptiness", "note": "Parallel to תֹהוּ. Ibn Ezra calls it the brother of tohu. The lexicon lists no senses for the noun."},
+        {"id": "1:2.5", "gloss": "and darkness", "sense": "1"},
+        {"id": "1:2.6", "gloss": "over", "sense": "II.5", "note": "Preposition with the construct chain that follows."},
+        {"id": "1:2.7", "gloss": "the face of", "sense": "I.1", "note": "Construct: 'face of' with the following noun."},
+        {"id": "1:2.8", "gloss": "the deep", "sense": "3", "note": "Feminine noun. Rashi identifies the deep with the waters on the earth; the English keeps 'the deep'."},
+        {"id": "1:2.9", "gloss": "and the spirit of", "sense": "9", "note": "Construct: 'spirit of' + God. Rashi reads 'breath', Ibn Ezra 'wind' (apparatus)."},
+        {"id": "1:2.10", "gloss": "God", "sense": "3"},
+        {"id": "1:2.11", "gloss": "hovering", "sense": "Pi", "note": "Piel active participle, feminine singular, agreeing with רוּחַ."},
+        {"id": "1:2.12", "gloss": "over", "sense": "II.5"},
+        {"id": "1:2.13", "gloss": "the face of", "sense": "I.1", "note": "Construct chain with the following noun."},
+        {"id": "1:2.14", "gloss": "the waters", "note": "Plural noun. Ibn Ezra notes it is plural in form and sometimes takes a singular verb (Num 19:13). No lexicon senses are listed."}
+      ],
+      "phrases": [
+        {"tokens": ["1:2.1", "1:2.2", "1:2.3", "1:2.4"], "english": "Now the earth was unformed and empty", "literal": "and-the-earth was formlessness and-emptiness; a state clause, the vav read as 'now' (Rashi's circumstantial reading)"},
+        {"tokens": ["1:2.5", "1:2.6"], "english": "and darkness was over", "literal": "and-darkness over; the clause has no verb, so 'was' is supplied from the clause above"},
+        {"tokens": ["1:2.7", "1:2.8"], "english": "the face of the deep", "literal": "face-of deep; the English supplies 'the' for the unarticulated noun"},
+        {"tokens": ["1:2.9", "1:2.10"], "english": "and the spirit of God", "literal": "and-spirit-of God"},
+        {"tokens": ["1:2.11"], "english": "hovered", "literal": "hovering; the participle, with 'was' from the clause above, gives the continuing motion"},
+        {"tokens": ["1:2.12", "1:2.13"], "english": "over the face of", "literal": "over face-of"},
+        {"tokens": ["1:2.14"], "english": "the waters", "literal": "the-waters"}
+      ],
+      "grammar": [
+        "The verse has no finite verb after its first clause. 'Darkness was over the face of the deep' is verbless, and 'the spirit of God hovering over the face of the waters' is a participial clause. The English supplies 'was' and 'hovered' from the qatal of 1:2.2.",
+        "The first clause is a circumstantial, background clause. The vav of וְהָאָרֶץ marks a new start, not a sequence. Ibn Ezra compares this vav to the Arabic fa, and the English gives 'Now'.",
+        "תֹהוּ and בֹהוּ are a parallel pair. The English keeps both nouns, with 'formlessness' for the first (lexicon sense 1) and 'emptiness' for the second (no listed senses). The second word reinforces the first.",
+        "Accents: revia on וְהָאָרֶץ, etnaḥta on תְהוֹם, zaqef qaton on אֱלֹהִים, silluq on הַמָּיִם. The etnaḥta divides the verse into the state of the earth (1:2.1 to 1:2.8) and the spirit clause (1:2.9 to 1:2.14)."
+      ],
+      "note": "The English gives 'formlessness' and 'emptiness' as separate nouns, and 'darkness' stands in the same clause. Rashi and Ibn Ezra both read the nouns as expressing a lack, but they differ on how: Rashi as astonishment and desolation, Ibn Ezra as having no substance. The English follows the lack and records Rashi's reading. The rúaḥ is 'spirit' of God (lexicon sense 9), which leaves open Rashi's 'breath' and Ibn Ezra's 'wind'.",
+      "commentary": [
+        {"anchor": "rashi:1:2:1", "relation": "records", "summary": "Rashi: tohu is an expression of astonishment and desolation (לְשׁוֹן תֵּמַהּ וְשִׁמָּמוֹן), because a person is astonished and dazed at the bohu in it. The English 'unformed' keeps the lack without the astonishment."},
+        {"anchor": "rashi:1:2:2", "relation": "records", "summary": "Rashi glosses tohu with an Old French word that carries the same sense of astonishment as rashi:1:2:1. The English does not adopt this gloss and keeps 'formlessness'."},
+        {"anchor": "rashi:1:2:3", "relation": "follows", "summary": "Rashi: bohu is an expression of emptiness (לְשׁוֹן רֵקוּת). The English 'and empty' follows this."},
+        {"anchor": "rashi:1:2:4", "relation": "records", "summary": "Rashi: 'the face of the deep' means the face of the waters that are on the earth (עַל פְּנֵי הַמַּיִם שֶׁעַל הָאָרֶץ). The English keeps 'the deep' and does not identify it with the waters on the earth."},
+        {"anchor": "rashi:1:2:5", "relation": "records", "summary": "Rashi: the spirit of God is the throne of glory standing in the air and hovering over the waters by the breath of God's mouth and his word, as a dove hovers over its nest (כְּיוֹנָה הַמְרַחֶפֶת עַל הַקֵּן). The English keeps 'the spirit of God' and 'hovered' and does not adopt the throne identification."},
+        {"anchor": "ibn-ezra:1:2:1", "relation": "follows", "summary": "Ibn Ezra: the vav of 'and the earth' is a soft fa, as in Arabic, and he compares 'and a mist went up from the earth' (Gen 2:6). The vav does not make the clause a sequence, so the English begins with 'Now'."},
+        {"anchor": "ibn-ezra:1:2:2", "relation": "follows", "summary": "Ibn Ezra rejects deriving tohu from tehom, since the mem of tehom is a root letter. He takes tohu as 'with no substance' (שאין בו ממש), as in 'after the tohu' (1 Sam 12:21), and as the Aramaic translator has it. The English 'unformed' follows this sense of lacking substance."},
+        {"anchor": "ibn-ezra:1:2:3", "relation": "follows", "summary": "Ibn Ezra: bohu is the brother (parallel) of tohu, and the earth at that time had no settlement because it was covered with water. The English 'and empty' follows the parallel."},
+        {"anchor": "ibn-ezra:1:2:4", "relation": "records", "summary": "Ibn Ezra: the wind is God's messenger, sent by God's will to dry the waters (שליח בחפץ השם לייבש המים). The English keeps 'spirit' and records the wind reading."},
+        {"anchor": "ibn-ezra:1:2:5", "relation": "follows", "summary": "Ibn Ezra: mayim is plural, and its form is that of two because the waters are male and female; it takes a singular verb in Num 19:13. The English keeps 'the waters' in the plural."},
+        {"anchor": "ibn-ezra:1:2:6", "relation": "follows", "summary": "Ibn Ezra: meraḥefet means moving or blowing above the waters, as in 'over her young she hovers' (Deut 32:11). The English 'hovered over' follows this motion above the water."}
+      ],
+      "apparatus": [
+        "תֹהוּ: lexicon sense 1 'formlessness' is kept. Ibn Ezra explains the word as 'with no substance' and Rashi as 'astonishment and desolation'. The English takes the first and records the second.",
+        "רוּחַ אֱלֹהִים: sense 9, 'spirit of God', is chosen. Sense 1 'breath' (Rashi) and sense 2 'wind' (Ibn Ezra) are the alternatives.",
+        "תְהוֹם: Rashi identifies the deep with the waters on the earth. The English keeps the general 'deep'.",
+        "Radak (not normative) reads the first clause as a separate recital of the elements, not a state; the English does not follow him."
+      ]
+    },
+    {
+      "ref": "1:3",
+      "english": "And God said, Let light be, and light came to be.",
+      "literal": "and-said God let-be light and-came-to-be light",
+      "tokens": [
+        {"id": "1:3.1", "gloss": "and said", "sense": "Qal 1", "note": "Wayyiqtol (narrative consecutive) of אָמַר. The verb is literal speech; Ibn Ezra reads it as an effortless act."},
+        {"id": "1:3.2", "gloss": "God", "sense": "3"},
+        {"id": "1:3.3", "gloss": "let be", "sense": "Qal III.1", "note": "Jussive of הָיָה (III-he): the final ה drops, as in יְהִי. The jussive is an existential command."},
+        {"id": "1:3.4", "gloss": "light", "sense": "1"},
+        {"id": "1:3.5", "gloss": "and came to be", "sense": "Qal II", "note": "Wayyiqtol of הָיָה, the narrative fulfilment of the jussive in 1:3.3."},
+        {"id": "1:3.6", "gloss": "light", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["1:3.1", "1:3.2"], "english": "And God said", "literal": "and-said God; the wayyiqtol introduces the first divine speech"},
+        {"tokens": ["1:3.3", "1:3.4"], "english": "Let light be", "literal": "let-be light; the jussive of existence, with the noun after it"},
+        {"tokens": ["1:3.5", "1:3.6"], "english": "and light came to be", "literal": "and-came-to-be light; the wayyiqtol of the same verb as the jussive, so the command and its result share a root"}
+      ],
+      "grammar": [
+        "וַיֹּאמֶר is a wayyiqtol. It continues the narrative from 1:2 and introduces the first divine speech.",
+        "יְהִי is a jussive, third person masculine singular, of הָיָה; the form is the command. The wayyiqtol וַיְהִי in 1:3.5 gives its fulfilment in narrative form. The two forms share one root, and the English keeps that link with 'be' and 'came to be'.",
+        "Ramban (not normative) notes that the text says 'and there was light' and not 'and it was so', the formula used for the other days, because this light did not stay in this form. The English omits 'so', which records that difference.",
+        "Accents: merkha on וַיֹּאמֶר, tipḥa on אֱלֹהִים, munaḥ on יְהִי, etnaḥta on אוֹר (1:3.4), silluq on the final אוֹר. The etnaḥta divides the verse into the speech and its result."
+      ],
+      "note": "The English gives 'Let light be' for the jussive of existence. Ibn Ezra takes 'said' as literal speech, and Ramban reads it as the divine will; the English keeps 'said' and records Ramban's reading.",
+      "commentary": [
+        {"anchor": "ibn-ezra:1:3:1", "relation": "follows", "summary": "Ibn Ezra rejects the Gaon's reading of vayomer as 'he willed' (כמו וירצה). He holds that the speech is literal, and that 'said' figures a deed done without labour, as in 'by the word of the LORD were the heavens made' (Ps 33:6). The English says 'said'."},
+        {"anchor": "ibn-ezra:1:3:2", "relation": "not-applicable", "summary": "Ibn Ezra: this light was above the wind. This is a claim about the place of the light in the cosmos and does not bear on the English."},
+        {"anchor": "ramban:1:3:1", "relation": "records", "summary": "Ramban: amirah here means the will and purpose (חפץ), as in 'what would you have me do' (1 Sam 20:4). On this reading the 'saying' is a considered decision, not speech. The English keeps 'said' and records this alternative."},
+        {"anchor": "ramban:1:3:2", "relation": "follows", "summary": "Ramban: the text says 'and there was light' and not 'and it was so', because this light did not remain in that form for all the days. The English does not use 'so' in this verse."}
+      ],
+      "apparatus": [
+        "יְהִי אוֹר: the Gaon, whom Ibn Ezra quotes, read vayomer as vayiratzeh ('he willed'). Ibn Ezra rejects this and the English keeps 'said'.",
+        "וַיְהִי אוֹר: the text does not say וַיְהִי־כֵן ('and it was so'), as it does for the other days (Ramban). The English follows the Hebrew and omits 'so'."
+      ]
+    },
+    {
+      "ref": "1:4",
+      "english": "And God saw the light, that it was fitting, and God separated between the light and the darkness.",
+      "literal": "and-saw God OBJ the-light that good and-separated God between the-light and-between the-darkness",
+      "tokens": [
+        {"id": "1:4.1", "gloss": "and saw", "sense": "Qal 1.a", "note": "Wayyiqtol of רָאָה. Ibn Ezra reads 'saw' as 'saw in thought' (as in Qoh 2:13), which the English does not adopt."},
+        {"id": "1:4.2", "gloss": "God", "sense": "3"},
+        {"id": "1:4.3", "gloss": "(object marker)", "note": "Marks הָאוֹר as the object of the seeing. It has no English word."},
+        {"id": "1:4.4", "gloss": "the light", "sense": "1"},
+        {"id": "1:4.5", "gloss": "that", "sense": "1", "note": "Introduces the object clause: 'that it was fitting'. No copula is written."},
+        {"id": "1:4.6", "gloss": "good, fitting", "sense": "5", "note": "The adjective טוֹב, read by Rashi as 'fitting, appropriate' (אֵין נָאֶה לוֹ)."},
+        {"id": "1:4.7", "gloss": "and separated", "sense": "Hiph 1", "note": "Hiphil wayyiqtol of בָּדַל: God is the cause of the separation."},
+        {"id": "1:4.8", "gloss": "God", "sense": "3"},
+        {"id": "1:4.9", "gloss": "between", "sense": "1", "note": "Used as a noun, 'interval', in a paired construction: 'between X and between Y'."},
+        {"id": "1:4.10", "gloss": "the light", "sense": "1"},
+        {"id": "1:4.11", "gloss": "and between", "sense": "1", "note": "The second בֵּין, with the conjunction. It repeats the first."},
+        {"id": "1:4.12", "gloss": "the darkness", "sense": "1", "note": "The same noun as 1:2.5, but Ramban takes this darkness to be the absence of light (apparatus)."}
+      ],
+      "phrases": [
+        {"tokens": ["1:4.1", "1:4.2"], "english": "And God saw", "literal": "and-saw God; wayyiqtol with God as subject"},
+        {"tokens": ["1:4.3"], "english": "-", "literal": "object marker, no English counterpart"},
+        {"tokens": ["1:4.4"], "english": "the light", "literal": "the-light; object of the seeing"},
+        {"tokens": ["1:4.5", "1:4.6"], "english": "that it was fitting", "literal": "that good; Rashi's sense of 'good' is 'fitting, not suited to be mixed with darkness'"},
+        {"tokens": ["1:4.7", "1:4.8"], "english": "and God separated", "literal": "and-separated God; Hiphil wayyiqtol with God as cause"},
+        {"tokens": ["1:4.9", "1:4.10"], "english": "between the light", "literal": "between the-light; the first half of the paired preposition"},
+        {"tokens": ["1:4.11", "1:4.12"], "english": "and the darkness", "literal": "and-between the-darkness; the second half of the pair, repeating the preposition"}
+      ],
+      "grammar": [
+        "וַיַּרְא is a wayyiqtol. The object clause introduced by כִּי, 'that it was fitting', has no copula in Hebrew; the English supplies 'was'.",
+        "כִּי טוֹב has no article and no copula. Rashi reads טוֹב as 'fitting' (אֵין נָאֶה לוֹ), and the English 'fitting' follows him.",
+        "וַיַּבְדֵּל is a Hiphil wayyiqtol of בָּדַל. Ibn Ezra glosses it as separation by naming (בִּקְרִיאַת הַשֵּׁמוֹת), and Rashi as setting each its bounds, one for the light by day and one for the darkness by night. The English 'separated' is open between them.",
+        "Accents: darga on וַיַּרְא, tevir on אֱלֹהִים, tipḥa on הָאוֹר, etnaḥta on טוֹב (1:4.6). The etnaḥta divides the verse after 'good'."
+      ],
+      "note": "The English 'fitting' is Rashi's sense of טוֹב in this clause. The ordinary 'good' is the lexicon's sense 3, and it is the alternative recorded in the apparatus. 'Separated' is neutral between Ibn Ezra's naming and Rashi's boundaries.",
+      "commentary": [
+        {"anchor": "rashi:1:4:1", "relation": "follows", "summary": "Rashi first gives the aggadah, that God saw the light was not fit for the wicked and set it aside for the righteous. The plain sense is that God saw it was good, that it was not fitting for light and darkness to be mixed, and set a boundary for each, one by day and one by night. The English 'fitting' and 'separated' follow the plain sense."},
+        {"anchor": "ibn-ezra:1:4:1", "relation": "records", "summary": "Ibn Ezra: vayar means 'and he saw' in the sense of 'I saw' (Qoh 2:13), that is, in thought (והוא במחשבה). The English keeps the seeing and records Ibn Ezra's reading as an act of thought."},
+        {"anchor": "ibn-ezra:1:4:2", "relation": "records", "summary": "Ibn Ezra: vayavdel means 'and he separated' by the naming of the names (בקריאת השמות), so that the separation is done by calling the light day and the darkness night. The English keeps 'separated' and records the naming reading."},
+        {"anchor": "ramban:1:4:2", "relation": "records", "summary": "Ramban: the darkness here is not the darkness of 1:2, which is fire, but the absence of light, since God gave the light a measure and it will be absent again. The English uses 'darkness' in both verses and records Ramban's distinction."}
+      ],
+      "apparatus": [
+        "וַיַּרְא: Ibn Ezra reads 'in thought'. The English keeps the act of seeing, as Rashi does.",
+        "וַיַּבְדֵּל: Ibn Ezra reads 'by naming'; Rashi reads 'by setting boundaries'. The English 'separated' leaves both open.",
+        "טוֹב: Rashi's 'fitting' is chosen. The lexicon's sense 5 'good, appropriate, becoming' is the path used; sense 3 'good, excellent' is the ordinary alternative.",
+        "הַחֹשֶׁךְ: Ramban holds that this darkness is the absence of light, not the fire of 1:2. The English gives both the same word."
+      ]
+    },
+    {
+      "ref": "1:5",
+      "english": "Then God called the light day, and the darkness he called night. And there was evening, and there was morning: one day.",
+      "literal": "and-called God to-the-light day and-to-the-darkness called night and-there-was evening and-there-was morning day one",
+      "tokens": [
+        {"id": "1:5.1", "gloss": "then called", "sense": "Qal 6", "note": "Wayyiqtol of קָרָא, 'call, name'."},
+        {"id": "1:5.2", "gloss": "God", "sense": "3"},
+        {"id": "1:5.3", "gloss": "to the light", "sense": "1", "note": "The preposition ל marks the object of the naming, 'called the light day'."},
+        {"id": "1:5.4", "gloss": "day", "sense": "1", "note": "The name given to the light."},
+        {"id": "1:5.5", "gloss": "and to the darkness", "sense": "1", "note": "The second object of the naming, with the vav."},
+        {"id": "1:5.6", "gloss": "called", "sense": "Qal 6", "note": "Qatal, after the wayyiqtol of 1:5.1. The tense changes, but the verb and its subject stay the same."},
+        {"id": "1:5.7", "gloss": "night", "note": "The name given to the darkness. No lexicon senses are listed."},
+        {"id": "1:5.8", "gloss": "and there was", "sense": "Qal II", "note": "Wayyiqtol of הָיָה in the formula that closes each day."},
+        {"id": "1:5.9", "gloss": "evening", "sense": "1.a"},
+        {"id": "1:5.10", "gloss": "and there was", "sense": "Qal II", "note": "Second wayyiqtol of the formula, paired with 1:5.8."},
+        {"id": "1:5.11", "gloss": "morning", "sense": "1"},
+        {"id": "1:5.12", "gloss": "one day", "sense": "1", "note": "The noun יוֹם with the cardinal אֶחָד, not the ordinal 'first'."},
+        {"id": "1:5.13", "gloss": "one", "sense": "1", "note": "The cardinal, not the ordinal, so the English says 'one day'."}
+      ],
+      "phrases": [
+        {"tokens": ["1:5.1", "1:5.2"], "english": "Then God called", "literal": "and-called God; wayyiqtol with God as subject"},
+        {"tokens": ["1:5.3"], "english": "the light", "literal": "to-the-light; the object of the naming"},
+        {"tokens": ["1:5.4"], "english": "day", "literal": "day; the name given"},
+        {"tokens": ["1:5.5"], "english": "and the darkness", "literal": "and-to-the-darkness; the second object of the naming"},
+        {"tokens": ["1:5.6", "1:5.7"], "english": "he called night", "literal": "called night; the qatal, with 'he' for the subject, and the name"},
+        {"tokens": ["1:5.8", "1:5.9"], "english": "And there was evening", "literal": "and-there-was evening; the first half of the closing formula"},
+        {"tokens": ["1:5.10", "1:5.11"], "english": "and there was morning", "literal": "and-there-was morning; the second half of the formula"},
+        {"tokens": ["1:5.12", "1:5.13"], "english": "one day", "literal": "day one; the cardinal, so 'one day', not 'the first day'"}
+      ],
+      "grammar": [
+        "וַיִּקְרָא is a wayyiqtol and קָרָא in 1:5.6 is a qatal. The second naming changes tense but keeps the same verb and the same subject, and the English keeps the shift.",
+        "The ל on לָאוֹר and לַחֹשֶׁךְ marks the object of the naming: 'called to the light, day'. The English gives 'the light' as the object and 'day' as the name.",
+        "וַיְהִי עֶרֶב וַיְהִי בֹקֶר is a formula that closes the day. The two wayyiqtol clauses are a pair, and the English keeps them as a pair.",
+        "יוֹם אֶחָד uses the cardinal 'one', not the ordinal 'first'. Accents: etnaḥta on לָיְלָה (1:5.7) divides the verse after 'night': God called the light day and the darkness night | and there was evening and there was morning, one day."
+      ],
+      "note": "The English keeps 'one day' as the Hebrew cardinal. Rashi takes the cardinal to show God alone before the angels; Ramban takes it as the reason a 'first' would need a second that does not yet exist. The English keeps 'called' in the sense of naming.",
+      "commentary": [
+        {"anchor": "rashi:1:5:1", "relation": "follows", "summary": "Rashi: the verse should have said 'first day' as it does for the other days, but it says 'one day' because God was alone in the world, the angels not being created until the second day. The English keeps 'one day' on this reading."},
+        {"anchor": "ibn-ezra:1:5:1", "relation": "not-applicable", "summary": "Ibn Ezra notes that the ה at the end of לילה is added because the word is stressed on the last syllable, and that the word is always masculine. This is a point of Hebrew grammar and does not bear on the English."},
+        {"anchor": "ibn-ezra:1:5:2", "relation": "not-applicable", "summary": "Ibn Ezra explains ערב from 'to mix' (שנתערבו בו הצורות) and בקר from 'to examine' (לבקר), so that a person can examine the forms in the morning. The English keeps 'evening' and 'morning' without the etymology."},
+        {"anchor": "ibn-ezra:1:5:3", "relation": "records", "summary": "Ibn Ezra: 'one day' means one turn of the sphere (תנועת הגלגל). He asks why a second day is then needed, and he notes a mystical reading of six thousand years. The English keeps 'one day' in the ordinary sense and records the cosmic reading."},
+        {"anchor": "ramban:1:5:1", "relation": "records", "summary": "Ramban: 'called' here means the limiting separation that set bounds for day and night when they took form, as the sages say 'let day be your boundary, and night your boundary'. The English keeps naming and records this reading."},
+        {"anchor": "ramban:1:5:2", "relation": "follows", "summary": "Ramban: Scripture says 'one' and not 'first', because a first presupposes a second not yet made. On the plain sense both evening and morning exist, so the English 'one day' follows this."}
+      ],
+      "apparatus": [
+        "יוֹם אֶחָד: Ibn Ezra reads 'one' as a single turn of the sphere. The English keeps the ordinary sense 'one day' and records his reading.",
+        "קָרָא: Ramban reads 'called' as the setting of limits (הַהַבְדָּלָה הַמֻּגְבֶּלֶת), not naming. The English keeps 'called'.",
+        "עֶרֶב and בֹּקֶר: Ibn Ezra's etymologies (mixing and examining) are not carried into the English."
+      ]
+    }
+  ]
+}

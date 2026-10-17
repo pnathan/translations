@@ -1,0 +1,428 @@
+{
+ "unit": "bereshit-13",
+ "model": "opus",
+ "summary": "The English of 4:6–4:13 is sound and follows Rashi and Ibn Ezra where they agree; where they differ (4:7 שְׂאֵת, 4:10 דְּמֵי, 4:11 מִן, 4:13) the translator chooses one and records the other. The faults are in the apparatus and notes: a misparsed interrogative ה as the article in 4:9, wrong learner notes on pausal לָךְ, the doubled pashta, hataf-patah 'before a guttural', the jussive תֹסֵף and the prefix of מִיָּדֶךָ, a fabricated apparatus line in 4:7, and several commentary summaries that misstate the comment (שְׂאֵת עֲוֹנְךָ, גּוֹנֵב דַּעַת, Radak on 4:13, which the English in fact follows). One sense (4:12.13) did not match its gloss.",
+ "patches": [
+  {
+   "ref": "4:6",
+   "path": "token:4:6.5.note",
+   "value": "לָמָּה: ל + מָה, 'for what?'; the ל takes qamets and the מ of מָה is doubled (dagesh forte), the usual form of this word before a non-guttural.",
+   "severity": "error",
+   "reason": "The note says the doubling follows 'the short vowel'; the vowel under ל is qamets, not a short vowel."
+  },
+  {
+   "ref": "4:6",
+   "path": "token:4:6.7.note",
+   "value": "The pack parses the suffix as 2nd feminine singular. Here לָךְ is the pausal form of the masculine לְךָ (it stands on a zaqef qaton), identical in spelling to the feminine; Cain is male. The data is kept.",
+   "severity": "error",
+   "reason": "The note called the form 'the pausal spelling of the masculine לָךְ', naming the pausal form as its own base; the masculine non-pausal form is לְךָ."
+  },
+  {
+   "ref": "4:6",
+   "path": "commentary:sforno:4:6:1.summary",
+   "value": "Sforno: why are you jealous of your brother, troubled that I accepted his offering with favour? That favour was neither arbitrary nor unjust.",
+   "severity": "error",
+   "reason": "Sforno's לֹא הָיָה זֶה רָצוֹן פָּשׁוּט אוֹ שֶׁלֹּא כַּדִּין denies both: the acceptance was not mere arbitrary favour, nor unjust. The summary 'or not an unjust one' garbles this."
+  },
+  {
+   "ref": "4:7",
+   "path": "english",
+   "value": "Is it not so that if you do well, there is forgiveness, and if you do not do well, at the door sin crouches? Its desire is for you, but you can rule over it.",
+   "severity": "style",
+   "reason": "Rashi (normative): אִם תִּרְצֶה תִּתְגַּבֵּר עָלָיו, a possibility; 'may' also reads as permission. 'can' carries Rashi's sense more exactly."
+  },
+  {
+   "ref": "4:7",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "4:7.1",
+      "4:7.2",
+      "4:7.3"
+     ],
+     "english": "Is it not so that if you do well",
+     "literal": "'is-not if you-do-good'; Rashi: 'its meaning is as its Targum'"
+    },
+    {
+     "tokens": [
+      "4:7.4"
+     ],
+     "english": "there is forgiveness",
+     "literal": "'lifting': the supplied verb 'there is' completes the elliptical clause; the sense 'lifting off of guilt' follows Rashi's reference to the Targum"
+    },
+    {
+     "tokens": [
+      "4:7.5",
+      "4:7.6",
+      "4:7.7"
+     ],
+     "english": "and if you do not do well",
+     "literal": "'and-if not you-do-good'"
+    },
+    {
+     "tokens": [
+      "4:7.8",
+      "4:7.9",
+      "4:7.10"
+     ],
+     "english": "at the door sin crouches",
+     "literal": "'at-the-door sin crouching'; Hebrew order kept"
+    },
+    {
+     "tokens": [
+      "4:7.11",
+      "4:7.12"
+     ],
+     "english": "Its desire is for you",
+     "literal": "'and-to-you desire-of-it'"
+    },
+    {
+     "tokens": [
+      "4:7.13",
+      "4:7.14",
+      "4:7.15"
+     ],
+     "english": "but you can rule over it",
+     "literal": "'and-you you-will-rule in-it'; the waw is contrastive; the imperfect of possibility, after Rashi 'if you wish, you can prevail over it'"
+    }
+   ],
+   "severity": "style",
+   "reason": "The English changed from 'may' to 'can'; the last phrase follows."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.14.gloss",
+   "value": "you can rule",
+   "severity": "style",
+   "reason": "Matches the English; the imperfect of possibility (Rashi)."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.11.note",
+   "value": "וְאֵלֶיךָ: the pashta is postpositive (written on the last letter); the second pashta marks the stressed syllable לֶ, which is not final.",
+   "severity": "error",
+   "reason": "The doubled pashta does not mark a 'stress shift': the pashta is written on the final letter, and the repeated sign shows the real (penultimate) stress."
+  },
+  {
+   "ref": "4:7",
+   "path": "note",
+   "value": "This is among the hardest verses of Genesis. The English chooses (1) שְׂאֵת as 'forgiveness', following Rashi's 'as its Targum' (Onkelos: it will be forgiven you); (2) חַטָּאת as the subject, 'sin', that crouches at the door; (3) the desire and rule as those of sin or the evil impulse over Cain, after Rashi: the impulse is always longing to make you stumble, and 'if you wish, you can prevail over it'. Ibn Ezra's alternative of 'lifting the face' (in contrast with the fallen faces of 4:6) is recorded; his construct reading 'sin-impulse' is recorded; so is the reading, named by Ibn Ezra among others' views, that the desire is Abel's, subject to Cain.",
+   "severity": "error",
+   "reason": "Ramban does not name the reading that the desire is Abel's; on וְאֵלֶיךָ תְּשׁוּקָתוֹ he takes it as the sin longing to cling to Cain. Only Ibn Ezra reports the Abel reading."
+  },
+  {
+   "ref": "4:7",
+   "path": "apparatus",
+   "value": [
+    "שְׂאֵת: (a) forgiveness, the bearing away of guilt (Onkelos, Rashi, Radak, adopted); (b) lifting of the face (Ibn Ezra); (c) eminence or rank above the brother (Ramban), elevation of rank (Sforno); (d) 'blessing' in a midrash cited by Radak (Genesis Rabbah 22:6), with 'curse' for the second שְׂאֵת.",
+    "חַטָּאת רֹבֵץ: feminine noun with masculine participle; (a) sin crouches at the door (adopted); (b) at the door of your grave your sin is kept (Rashi); (c) the construct reading 'the impulse of sin' (Ibn Ezra's own view); Ibn Ezra also reports the door of the house and the door of the mouth.",
+    "וְאֵלֶיךָ תְּשׁוּקָתוֹ: the 'its' is (a) the evil impulse (Rashi, Ibn Ezra, Radak, Sforno, adopted); (b) Abel, who is subject to Cain (other commentators, named by Ibn Ezra)."
+   ],
+   "severity": "error",
+   "reason": "The last line ('no ל before ךָ in תֵּיטִיב') describes letters that are not in the word and is no variant at all; removed. Sforno's שְׂאֵת is rank in general, not rank over the brother."
+  },
+  {
+   "ref": "4:7",
+   "path": "commentary:ibn-ezra:4:7:1.summary",
+   "value": "Ibn Ezra: many commentators take שְׂאֵת as 'bearing (forgiving) your iniquity'; in his view it is 'lifting of the face', answering 'his face fell' (4:5), since a fallen face is the way of shame, as in 'then you will lift your face without blemish' (Job 11:15). The English follows Rashi and the Targum; this reading is recorded.",
+   "severity": "error",
+   "reason": "שְׂאֵת עֲוֹנְךָ means 'the bearing (forgiving) of your iniquity', not 'your sin'."
+  },
+  {
+   "ref": "4:7",
+   "path": "commentary:ibn-ezra:4:7:2.summary",
+   "value": "Ibn Ezra lists readings of חַטָּאת רֹבֵץ: חַטָּאת for עָוֺן; at the door of the grave your sin will lie on the day of judgment (with the desire taken as Abel's); at the door of your house your sin lies and goes with you; the door of the mouth (Mic 7:5). He prefers that חַטָּאת is in the construct state: the impulse of the human heart is what crouches with him. The English keeps חַטָּאת as the absolute subject, as the pack parses it, and records this reading.",
+   "severity": "error",
+   "reason": "The summary's last sentence ('which would be \"sin crouches\" only by a different parsing') does not say what the comment says or why the English differs."
+  },
+  {
+   "ref": "4:7",
+   "path": "commentary:ramban:4:7:1.summary",
+   "value": "Ramban lists the readings of שְׂאֵת: the bearing of your iniquity, forgiveness (Onkelos, Rashi, Radak); the lifting of the face (Ibn Ezra); and gives his own: 'you will have extra eminence over your brother, since you are the firstborn'; if not, at the door of your house your sin crouches to make you stumble in all your ways.",
+   "severity": "error",
+   "reason": "שְׂאֵת עֲוֹנְךָ is the bearing of the iniquity, not 'your sin'."
+  },
+  {
+   "ref": "4:8",
+   "path": "grammar",
+   "value": [
+    "וַיֹּאמֶר קַיִן אֶל־הֶבֶל אָחִיו has no speech after it in the Masoretic text; the verb is rendered 'spoke' so that the English does not invent words.",
+    "וַיְהִי בִּהְיוֹתָם is a time clause (וַיְהִי plus ב and an infinitive construct with suffix): 'and it happened, when they were'.",
+    "The two wayyiqtols וַיָּקָם ... וַיַּהַרְגֵהוּ narrate the action in sequence; the tevir on קַיִן sets off the subject.",
+    "The text repeats 'his brother' (אָחִיו) with each name: the key word of the story."
+   ],
+   "severity": "error",
+   "reason": "There are two wayyiqtols in the clause וַיָּקָם ... וַיַּהַרְגֵהוּ, not three."
+  },
+  {
+   "ref": "4:9",
+   "path": "literal",
+   "value": "and-said the-LORD to-Cain where Abel brother-of-you and-he-said not I-know ?-keeper brother-of-me I",
+   "severity": "error",
+   "reason": "The ה of הֲשֹׁמֵר is the interrogative (Rashi: an expression of astonishment), not the article; 'the-keeper' misparses it."
+  },
+  {
+   "ref": "4:9",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "4:9.1",
+      "4:9.2"
+     ],
+     "english": "The LORD said",
+     "literal": "'and-said the-LORD'"
+    },
+    {
+     "tokens": [
+      "4:9.3",
+      "4:9.4"
+     ],
+     "english": "to Cain",
+     "literal": "'to-Cain'"
+    },
+    {
+     "tokens": [
+      "4:9.5",
+      "4:9.6",
+      "4:9.7"
+     ],
+     "english": "Where is Abel your brother",
+     "literal": "'where Abel brother-of-you'; verbless clause"
+    },
+    {
+     "tokens": [
+      "4:9.8"
+     ],
+     "english": "He said",
+     "literal": "'and-he-said'"
+    },
+    {
+     "tokens": [
+      "4:9.9",
+      "4:9.10"
+     ],
+     "english": "I do not know",
+     "literal": "'not I-know'"
+    },
+    {
+     "tokens": [
+      "4:9.11",
+      "4:9.12",
+      "4:9.13"
+     ],
+     "english": "Am I my brother's keeper",
+     "literal": "'?-keeper brother-of-me I'; the interrogative ה is a rhetorical, astonished question"
+    }
+   ],
+   "severity": "error",
+   "reason": "Same misparse of the interrogative ה as the article in the phrase's literal."
+  },
+  {
+   "ref": "4:9",
+   "path": "grammar",
+   "value": [
+    "The verbless question אֵי הֶבֶל אָחִיךָ: אֵי is the interrogative 'where', as in the longer אַיֵּה.",
+    "לֹא יָדַעְתִּי: the qatal of יָדַע is used for a present state, 'I do not know'.",
+    "The question הֲשֹׁמֵר אָחִי אָנֹכִי has the interrogative ה pointed with hataf-patah, its usual pointing before a non-guttural (ש); Rashi says this ה always marks astonishment.",
+    "Cain's reply joins the denial and the counter-question with no 'and'. The doubled pashta on וַיֹּאמֶר only marks its stress (the sign is postpositive)."
+   ],
+   "severity": "error",
+   "reason": "ש is not a guttural; the interrogative ה takes hataf-patah before non-gutturals. The doubled pashta stands on וַיֹּאמֶר, before the reply, and does not join its two clauses."
+  },
+  {
+   "ref": "4:9",
+   "path": "note",
+   "value": "The English reads 'I do not know' as a denial, a lie, following Rashi ('he acted like one who would deceive the One above'). Radak and Sforno give the motive: Cain still doubted, or thought, that God did not know the particulars of human affairs. שֹׁמֵר 'keeper' picks up the shepherd's trade of Abel and Cain's own relation to him.",
+   "severity": "error",
+   "reason": "גּוֹנֵב דַּעַת is the idiom 'deceive', not 'steal the knowledge'. Radak (כִּחֵשׁ) also reads a denial; his and Sforno's point is Cain's motive, not another reading."
+  },
+  {
+   "ref": "4:9",
+   "path": "commentary:rashi:4:9:2.summary",
+   "value": "Rashi: 'נַעֲשָׂה כְּגוֹנֵב דַּעַת הָעֶלְיוֹנָה' — he acted like one who would deceive the One above; that is, he lied and denied. The English renders a flat denial.",
+   "severity": "error",
+   "reason": "גּוֹנֵב דַּעַת means 'deceive', not 'steal the knowledge of'."
+  },
+  {
+   "ref": "4:9",
+   "path": "apparatus",
+   "value": [
+    "לֹא יָדַעְתִּי: a lie and denial, as if to deceive the One above (Rashi, adopted); Radak and Sforno add that Cain thought, or still doubted, that God knew the particulars of human affairs.",
+    "The LXX and other witnesses are not in the pack for this unit."
+   ],
+   "severity": "error",
+   "reason": "The idiom גּוֹנֵב דַּעַת is 'deceive'; and Radak too reads a denial (וְכִחֵשׁ), so his view is not an alternative to the lie."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.14.note",
+   "value": "מִיָּדֶךָ: the preposition מִן (assimilated as מִ with dagesh in the י) with 'hand' and the 2nd masculine singular suffix: 'from your hand', the hand that shed the blood.",
+   "severity": "error",
+   "reason": "The note says the prefix is ל; it is מ (מִן)."
+  },
+  {
+   "ref": "4:11",
+   "path": "commentary:rashi:4:11:1.summary",
+   "value": "Rashi: you are cursed more than the ground, which had already been cursed for its own sin; and in this it sinned again, by opening its mouth to take the blood. Ramban rejects this reading; recorded as an alternative to the English.",
+   "severity": "error",
+   "reason": "The summary left out Rashi's main point, that Cain is cursed more than the ground (comparative מִן)."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.6.note",
+   "value": "הוֹסִיף 'add' plus an infinitive means 'do again, do more'. תֹסֵף is the short (jussive) form; the long imperfect is תּוֹסִיף. After לֹא the short form here has the force of a future: 'it will not again'. The subject is the ground.",
+   "severity": "error",
+   "reason": "The note said the jussive form is the same as the imperfect; the Hifil imperfect of יסף is תּוֹסִיף (Radak writes לֹא תוֹסִיף), distinct from תֹּסֵף."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.13.sense",
+   "value": "1.a",
+   "severity": "error",
+   "reason": "The gloss is 'on the earth' and the apparatus chooses 'earth'; sense 2 is 'land'. Sense 1.a 'earth' matches the gloss."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.7.note",
+   "value": "מִן with the infinitive construct: 'too great to bear'; the comparative sense of the מִן; the verb is 'carry, bear'. The commentators reported by Ibn Ezra (and Ramban, Onkelos) read it as 'forgive'; Ibn Ezra himself reads 'bear, endure'.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not read נְשׂוֹא as 'forgive'; he reports that reading of others and rejects it for 'bear (the punishment)'."
+  },
+  {
+   "ref": "4:13",
+   "path": "note",
+   "value": "The one clause has at least three readings. (1) Ibn Ezra's own view, which the English follows, and Radak's: עָוֺן here is the penalty that comes on account of the sin, as in 'for the iniquity of the Amorite is not yet complete' (15:16): 'my punishment is too great to bear'; Radak adds that this is no repentance but a plea to lighten the punishment. (2) All commentators (according to Ibn Ezra), and Ramban: 'my sin is too great to be forgiven', a confession; the English loses 'sin' and 'guilt' in favour of the penalty. (3) Rashi: a rhetorical question: 'You carry the upper and lower worlds, and my sin you cannot carry?'; Radak takes Onkelos in this way too.",
+   "severity": "error",
+   "reason": "Radak reads גָּדוֹל עָנְשִׁי מִלִּסְבֹּל and denies that it is a confession; he belongs with reading (1), not (2). Ramban is the commentator here who reads a confession."
+  },
+  {
+   "ref": "4:13",
+   "path": "apparatus",
+   "value": [
+    "עֲוֺנִי: (a) 'my punishment' (Ibn Ezra's own view, Radak, adopted); (b) 'my sin / guilt' with 'bear' meaning 'forgive' (the commentators reported by Ibn Ezra; Ramban; Onkelos 'סַגִּי חוֹבִי מִלְּמִשְׁבָּק'); the English loses the sense 'guilt'.",
+    "מִנְּשֹׂא: (a) 'too great to bear' (adopted); (b) 'too great to be forgiven' (Targum, Ibn Ezra on others, Ramban); (c) a rhetorical question, 'is my sin too great to bear?' (Rashi, from Genesis Rabbah; Onkelos as Radak reads him).",
+    "The pack's lexicon lists no entry-sense for גָּדוֹל that fits, so none is given."
+   ],
+   "severity": "error",
+   "reason": "Ibn Ezra does not cite Onkelos; Radak and Ramban do. Ramban's confession reading was missing."
+  },
+  {
+   "ref": "4:13",
+   "path": "commentary:ibn-ezra:4:13:1.summary",
+   "value": "Ibn Ezra: all commentators say Cain confessed his sin, taking נְשׂוֹא as 'forgive', as in 'bearing iniquity' (Exod 34:7). In his view the Hebrews call the good consequence 'reward' and the evil punishment that comes because of the iniquity by the name of the sin (cf. 15:16, 1 Sam 28:10, Lam 4:6): so 'this punishment is great, I cannot bear it'. The next verse confirms this reading. The English follows his own view.",
+   "severity": "error",
+   "reason": "Ibn Ezra distinguishes the good consequence (called שָׂכָר) from the punishment (called by the sin's name); the summary merged the two."
+  },
+  {
+   "ref": "4:13",
+   "path": "commentary:radak:4:13:1.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "Radak reads גָּדוֹל עָנְשִׁי מִלִּסְבֹּל, 'my punishment is too great to bear', which is the English; the relation is 'follows', not 'records'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:4:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:7:2",
+   "verdict": "consistent",
+   "comment": "Sin is the subject at the door, as in Rashi; his 'door of your grave' is recorded."
+  },
+  {
+   "anchor": "rashi:4:7:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:7:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:7:1",
+   "verdict": "contradicts",
+   "comment": "Rashi (with the Targum) and Ibn Ezra differ on שְׂאֵת; the English follows Rashi, as the brief permits, and records Ibn Ezra."
+  },
+  {
+   "anchor": "ibn-ezra:4:7:2",
+   "verdict": "contradicts",
+   "comment": "Ibn Ezra's construct reading of חַטָּאת differs from Rashi's and from the pack's parse (absolute); the English follows Rashi and records it."
+  },
+  {
+   "anchor": "ibn-ezra:4:7:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:8:1",
+   "verdict": "consistent",
+   "comment": "'spoke' does not contradict Rashi's quarrel."
+  },
+  {
+   "anchor": "ibn-ezra:4:8:1",
+   "verdict": "consistent",
+   "comment": "'spoke' does not contradict Ibn Ezra's repetition of the rebukes."
+  },
+  {
+   "anchor": "rashi:4:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:9:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:9:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:10:1",
+   "verdict": "contradicts",
+   "comment": "Rashi reads the plural as Abel's blood and his offspring's, or many wounds; Ibn Ezra reads simply his shed blood. The English follows Ibn Ezra and records Rashi."
+  },
+  {
+   "anchor": "ibn-ezra:4:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:11:1",
+   "verdict": "contradicts",
+   "comment": "Rashi's comparative 'more than the ground' and Ibn Ezra's 'a loss from the ground' differ; the English 'cursed from the ground' follows Ibn Ezra and records Rashi."
+  },
+  {
+   "anchor": "rashi:4:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:13:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:13:1",
+   "verdict": "contradicts",
+   "comment": "Rashi's rhetorical question and Ibn Ezra's 'my punishment is too great to bear' differ; the English follows Ibn Ezra (with Radak) and records Rashi."
+  },
+  {
+   "anchor": "ibn-ezra:4:13:1",
+   "verdict": "consistent"
+  }
+ ]
+}

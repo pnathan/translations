@@ -1,0 +1,403 @@
+{
+ "unit": "bereshit-12",
+ "model": "opus",
+ "summary": "The English of Genesis 3:22–4:5 is close and accurate, and most glosses and senses are right. The main faults are in the rulings on the commentary: Rashi's לַהַט ('blade', by the Targum and the laaz) is reported as 'flame' and marked follows; Ibn Ezra's 'accepted' for וַיִּשַׁע is marked follows though the English has Rashi's 'turned'; his comment at 4:1, which places the union after the sentence of death against Rashi, is set aside as not applicable and misread; and his עַל מַחֲשַׁבְתּוֹ at 3:22 is taken as God's thought. A sense of חֵלֶב does not match its gloss, and two learner notes are untrue. Two question patches bring the English toward Ibn Ezra where he alone of the normative commentators speaks: 'turning' for 'whirling' (3:24) and 'a year' for יָמִים (4:3).",
+ "patches": [
+  {
+   "ref": "3:22",
+   "path": "token:3:22.6.sense",
+   "value": "Qal II.2.c",
+   "severity": "style",
+   "reason": "הָיָה with כְּ is 'become like', the lexicon's Qal II.2.c, more exact than the general Qal II.2."
+  },
+  {
+   "ref": "3:22",
+   "path": "grammar",
+   "value": [
+    "הֵן הָאָדָם הָיָה: הֵן 'look' introduces a statement of fact; הָיָה is a perfect, 'has become'.",
+    "כְּאַחַד מִמֶּנּוּ: כְּאַחַד is the construct form (pataḥ), so 'like one of ...'; מִמֶּנּוּ is plural, 'from us'.",
+    "וְעַתָּה פֶּן־יִשְׁלַח ... וְלָקַח ... וְאָכַל וָחַי: the clause after פֶּן is never completed; the weqatal verbs continue the feared sequence 'lest he stretch out ... and take ... and eat ... and live'.",
+    "The accents divide the speech: zaqef on מִמֶּנּוּ, etnaḥta on וָרָע ends the first sentence; revia on יָדוֹ.",
+    "וָחַי is a weqatal of חיי, a by-form of חיה 'live'."
+   ],
+   "severity": "style",
+   "reason": "The last note ended in a stray ';.' and did not name the form."
+  },
+  {
+   "ref": "3:22",
+   "path": "commentary:ibn-ezra:3:22:2.summary",
+   "value": "Ibn Ezra: מִמֶּנּוּ is plural, like אִישׁ מִמֶּנּוּ (23:6), with the nun doubled for the plural. The sense of the verse is like 'you will be like God, knowing good and evil' (3:5), or else it is said according to the human's own thought (עַל מַחֲשַׁבְתּוֹ). The plural 'us' is like 'Let us make man in our image' (1:26) and 'Come, let us go down' (11:7): God speaking with the angels.",
+   "severity": "error",
+   "reason": "עַל מַחֲשַׁבְתּוֹ is the human's thought (what he imagined he had become, as the serpent promised), not 'God's own thought'; the doubled nun of the plural was also left out."
+  },
+  {
+   "ref": "3:23",
+   "path": "commentary:ibn-ezra:3:23:2",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Ibn Ezra on כְּרֻבִים (3:24): some say 'like youths' (Aramaic כרביא); in his view the word names all kinds of figures, as Ezekiel shows. Here the cherubim are the known angels, and in their hand is a sword that has a flame (לַהַט) and two edges (שְׁתֵּי פִיּוֹת), 'and this is the meaning of הַמִּתְהַפֶּכֶת'; those who refer it to the sun are wrong. The comment bears on 3:24, not on the words of this verse."
+   },
+   "severity": "error",
+   "reason": "The summary left out what the comment says of the words: Ibn Ezra explains הַמִּתְהַפֶּכֶת as a sword with two edges, which bears on the English of 3:24."
+  },
+  {
+   "ref": "3:24",
+   "path": "english",
+   "value": "He drove out the human, and east of the garden of Eden he stationed the cherubim and the flame of the turning sword, to guard the way to the tree of life.",
+   "severity": "question",
+   "reason": "'Whirling' commits to one picture of הַמִּתְהַפֶּכֶת. The only normative comment on the word, Ibn Ezra's (filed at 3:23), explains it as a two-edged sword; Rashi says nothing on it. 'Turning' renders the Hithpael participle and leaves both readings (two-edged; brandished to and fro, Radak) to the notes."
+  },
+  {
+   "ref": "3:24",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:24.1",
+      "3:24.2",
+      "3:24.3"
+     ],
+     "english": "He drove out the human",
+     "literal": "'and-drove-out [obj] the-human'"
+    },
+    {
+     "tokens": [
+      "3:24.4",
+      "3:24.5",
+      "3:24.6",
+      "3:24.7"
+     ],
+     "english": "and east of the garden of Eden he stationed",
+     "literal": "'and-stationed from-east to-garden-of Eden'; the Hebrew puts the verb first and the place after it"
+    },
+    {
+     "tokens": [
+      "3:24.8",
+      "3:24.9"
+     ],
+     "english": "the cherubim",
+     "literal": "'[obj] the-cherubim'"
+    },
+    {
+     "tokens": [
+      "3:24.10",
+      "3:24.11",
+      "3:24.12",
+      "3:24.13"
+     ],
+     "english": "and the flame of the turning sword",
+     "literal": "'and-[obj] flame-of the-sword the-turning-itself'"
+    },
+    {
+     "tokens": [
+      "3:24.14"
+     ],
+     "english": "to guard",
+     "literal": "'to-guard'; purpose"
+    },
+    {
+     "tokens": [
+      "3:24.15",
+      "3:24.16",
+      "3:24.17",
+      "3:24.18"
+     ],
+     "english": "the way to the tree of life",
+     "literal": "'[obj] way-of tree-of the-life'; a construct chain"
+    }
+   ],
+   "severity": "question",
+   "reason": "Follows the new English: 'whirling' becomes 'turning'."
+  },
+  {
+   "ref": "3:24",
+   "path": "token:3:24.13.gloss",
+   "value": "the turning",
+   "severity": "question",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "3:24",
+   "path": "token:3:24.13.note",
+   "value": "Hithpael participle, feminine singular, agreeing with חֶרֶב: 'turning itself'. Ibn Ezra: it has two edges; Radak: it turns to and fro to frighten.",
+   "severity": "question",
+   "reason": "The note gives the two readings that the plain 'turning' leaves open."
+  },
+  {
+   "ref": "3:24",
+   "path": "note",
+   "value": "'Turning' renders the Hithpael participle הַמִּתְהַפֶּכֶת, 'turning itself'; Ibn Ezra explains it as a sword with two edges, Radak as one that turns to and fro. 'Flame' gives לַהַט as the lexicon does, with Radak; Rashi glosses לַהַט by the Targum's שְׁנַן and the Old French lame, 'blade'.",
+   "severity": "error",
+   "reason": "The note said that Rashi takes לַהַט as a flame. Rashi defines לַהַט by Onkelos' שְׁנַן ('blade', as in שְׁלַף שְׁנָנָא) and the laaz lame, a blade, so the English 'flame' does not follow him."
+  },
+  {
+   "ref": "3:24",
+   "path": "commentary:rashi:3:24:3",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi on הַחֶרֶב הַמִּתְהַפֶּכֶת: it has a לַהַט, to threaten him from entering the garden again; the Targum renders לַהַט by שְׁנַן, as in שְׁלַף שְׁנָנָא 'drew the blade', in Old French lame, 'blade'. There are aggadic explanations, but he comes only for the plain sense. On his reading לַהַט is the blade of the sword; the English keeps 'flame' with the lexicon and Radak."
+   },
+   "severity": "error",
+   "reason": "Rashi's 'ולה להט' was rendered 'has a flame', but Rashi defines לַהַט as a blade (Targum שְׁנַן, laaz lame). The English 'flame' therefore does not follow him: the relation is records, not follows."
+  },
+  {
+   "ref": "3:24",
+   "path": "apparatus",
+   "value": [
+    "לַהַט: Rashi, with Onkelos (שְׁנַן חַרְבָּא), takes it as 'the blade'; the lexicon and Radak (a frightening sight, Ps 104:4 אֵשׁ לֹהֵט) as 'the flame'. The English keeps 'flame'.",
+    "הַמִּתְהַפֶּכֶת: Ibn Ezra (comment filed at 3:23) explains it as a sword with two edges; Radak as a sword turning to and fro; the English 'turning' leaves both open."
+   ],
+   "severity": "error",
+   "reason": "The segment had no apparatus, though the normative commentators read two words of the English otherwise."
+  },
+  {
+   "ref": "4:1",
+   "path": "commentary:ibn-ezra:4:1:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: when the human saw that he himself would not endure forever in his body, he had to keep the species alive; so she said 'I have acquired a man with the LORD'. The name אֱלֹהִים is not mentioned, because lasting existence is found on earth in the species as it is above in individual beings. (He adds that 'good' is general and 'evil' partial.) On his reading the union came after the sentence of death, against Rashi's pluperfect, which the English follows."
+   },
+   "severity": "error",
+   "reason": "The comment bears on the plain sense: it places Adam's knowing Eve after he learned he would die, against Rashi's 'before he sinned'. The summary also misread it: the absence of אֱלֹהִים is explained by the species' lasting existence, not by 'good' being general, which is a separate remark."
+  },
+  {
+   "ref": "4:1",
+   "path": "apparatus",
+   "value": [
+    "Onkelos reads קֳדָם יְיָ, 'before the LORD', Ramban 'for the LORD'; the English keeps Rashi's 'with'.",
+    "Ibn Ezra implies that the union followed the sentence of death; the English 'had known' follows Rashi's pluperfect (before the sin)."
+   ],
+   "severity": "error",
+   "reason": "The disagreement of the two normative commentators on the time of 4:1 was not recorded."
+  },
+  {
+   "ref": "4:3",
+   "path": "english",
+   "value": "At the end of a year, Cain brought an offering of the fruit of the ground to the LORD.",
+   "severity": "question",
+   "reason": "Ibn Ezra, the only normative commentator to speak to it (in his comment at 4:4), holds that יָמִים here is a full year, as in Lev 25:29; Radak allows the same. Rashi is silent. 'After some time' sets aside the normative reading; the proposed English follows it."
+  },
+  {
+   "ref": "4:3",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "4:3.1",
+      "4:3.2",
+      "4:3.3"
+     ],
+     "english": "At the end of a year",
+     "literal": "'and-it-was at-end-of days'; וַיְהִי is the narrative formula; יָמִים is a year (Ibn Ezra)"
+    },
+    {
+     "tokens": [
+      "4:3.4",
+      "4:3.5"
+     ],
+     "english": "Cain brought",
+     "literal": "'and-brought Cain'"
+    },
+    {
+     "tokens": [
+      "4:3.6",
+      "4:3.7",
+      "4:3.8"
+     ],
+     "english": "an offering of the fruit of the ground",
+     "literal": "'from-fruit-of the-ground offering'; מִן is partitive"
+    },
+    {
+     "tokens": [
+      "4:3.9"
+     ],
+     "english": "to the LORD",
+     "literal": "'to-the-LORD'"
+    }
+   ],
+   "severity": "question",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "4:3",
+   "path": "token:4:3.3.gloss",
+   "value": "days (a year)",
+   "severity": "question",
+   "reason": "Follows the new English; the sense 'days' stands."
+  },
+  {
+   "ref": "4:3",
+   "path": "token:4:3.3.note",
+   "value": "יָמִים 'days'; Ibn Ezra: a full year is called יָמִים (Lev 25:29), and Radak allows it.",
+   "severity": "question",
+   "reason": "The note credited only Radak and called it 'a period of time'."
+  },
+  {
+   "ref": "4:3",
+   "path": "grammar",
+   "value": [
+    "וַיְהִי מִקֵּץ יָמִים: 'and it was at the end of days', a narrative formula; Ibn Ezra holds that יָמִים here is a full year (as in Lev 25:29), and Radak allows it.",
+    "מִפְּרִי הָאֲדָמָה: מִן is partitive, 'some of the fruit of the ground'; the noun מִנְחָה stands after it.",
+    "Accents: etnaḥta on יָמִים, tevir on הָאֲדָמָה; geresh on קַיִן.",
+    "The wayyiqtol וַיָּבֵא is Hiphil of בוא."
+   ],
+   "severity": "question",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "4:4",
+   "path": "commentary:ibn-ezra:4:4:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: וַיִּשַׁע has the pattern of וַיִּחַר לְקַיִן and means 'accepted' (קִבֵּל); close to it is שְׁעוּ מִנִּי (Isa 22:4), in the way of the secret of the offering. It may be that fire came down and turned Abel's offering to ash, and not Cain's. In his view a full year is called יָמִים (Lev 25:29), as in 'two years of days' (41:1)."
+   },
+   "severity": "error",
+   "reason": "Ibn Ezra reads וַיִּשַׁע as 'accepted', not 'turned': the English follows Rashi's וַיִּפֶן, so this reading is recorded, not followed (the segment's own apparatus says so). He also does not say 'days' can mean a year: he holds that it does here."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.7.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The gloss 'fat portions' is the sense 'fat' (1), not 'choicest, best part' (3)."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.7.note",
+   "value": "חֶלְבֵהֶן: the suffix -הֶן is 3rd feminine plural and refers to the firstlings (בְּכֹרוֹת, feminine plural): 'their fat'. Radak gives both 'their fat parts' and, with the Targum, 'the fattest of them'.",
+   "severity": "question",
+   "reason": "The feminine plural suffix most naturally takes the feminine plural בְּכֹרוֹת just before it as its antecedent, not the collective צֹאן."
+  },
+  {
+   "ref": "4:4",
+   "path": "grammar",
+   "value": [
+    "גַּם־הוּא 'he also' sets Abel's offering beside Cain's, and the order (verb before 'he also') makes the pairing clear.",
+    "מִבְּכֹרוֹת צֹאנוֹ וּמֵחֶלְבֵהֶן: two partitive phrases; the feminine plural suffix on חֶלְבֵהֶן refers to the firstlings, בְּכֹרוֹת.",
+    "וַיִּשַׁע: wayyiqtol of שׁעה, 'turn toward'; the next verse has the negative.",
+    "אֶל־הֶבֶל וְאֶל־מִנְחָתוֹ: the repeated אֶל sets the person and the gift side by side."
+   ],
+   "severity": "question",
+   "reason": "Same antecedent as the token note."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.5.note",
+   "value": "בְּכֹרוֹת: feminine plural, 'firstlings'; מִן is partitive. The lexicon entry cited (בְּכֹרָה, 'right of first-born') is the birthright sense and does not fit here; no sense is given.",
+   "severity": "error",
+   "reason": "The pack's only entry for this lemma is 'right of first-born', the wrong sense for the firstborn of the flock; the brief requires the note to say so."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.8.note",
+   "value": "short (apocopated) wayyiqtol of the III-ה verb שָׁעָה, full form יִשְׁעֶה: 'gazed, turned'; Rashi: וַיִּפֶן 'turned'; Ibn Ezra: 'accepted'.",
+   "severity": "style",
+   "reason": "A learner needs the apocopated form of the weak root explained."
+  },
+  {
+   "ref": "4:5",
+   "path": "grammar",
+   "value": [
+    "וַיִּחַר לְקַיִן: the verb is impersonal: 'it burned to Cain'.",
+    "וַיִּפְּלוּ פָּנָיו: פָּנִים is plural in form and the verb is plural; 'his face fell'.",
+    "לֹא שָׁעָה is the negative of וַיִּשַׁע in 4:4, in reverse order (a chiasm): the objects come first, so the verb is a qatal with לֹא, not a wayyiqtol.",
+    "Accents: etnaḥta on שָׁעָה; zaqef qaton on מְאֹד."
+   ],
+   "severity": "error",
+   "reason": "The order is not the same as in 4:4 but reversed, and the verb form differs; 'the symmetry is exact' is not true."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:3:22:1",
+   "verdict": "contradicts",
+   "comment": "Rashi reads אֶחָד as 'unique' (יָחִיד); Ibn Ezra, also normative, rules this out by the grammar (pataḥ = construct) and the accents. The English follows Ibn Ezra and records Rashi, as rule 3 allows."
+  },
+  {
+   "anchor": "rashi:3:22:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:22:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:22:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:23:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:23:2",
+   "verdict": "contradicts",
+   "comment": "Its gloss of הַמִּתְהַפֶּכֶת (two edges) is against 'whirling' in 3:24; the question patch there gives 'turning' and records his reading."
+  },
+  {
+   "anchor": "rashi:3:24:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:24:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:24:3",
+   "verdict": "contradicts",
+   "comment": "Rashi takes לַהַט as the blade; the English keeps 'flame', the lexicon's sense, which Ibn Ezra's wording (חֶרֶב יֵשׁ לָהּ לַהַט) and Radak support. Rashi's reading is now recorded in the summary and apparatus."
+  },
+  {
+   "anchor": "ibn-ezra:3:24:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:1:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:1:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:1:4",
+   "verdict": "not-applicable",
+   "comment": "Midrash on the twin sisters."
+  },
+  {
+   "anchor": "ibn-ezra:4:1:1",
+   "verdict": "contradicts",
+   "comment": "Ibn Ezra puts the union after the sentence of death; Rashi, before the sin. The normative commentators differ; the English follows Rashi and records Ibn Ezra."
+  },
+  {
+   "anchor": "rashi:4:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:3:1",
+   "verdict": "consistent",
+   "comment": "The English does not say which fruit; Rashi's 'from the inferior' is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:4:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:4:4:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:4:4:1",
+   "verdict": "contradicts",
+   "comment": "On וַיִּשַׁע Ibn Ezra ('accepted') differs from Rashi ('turned'); the English follows Rashi and records him. His 'a year' for יָמִים is taken up by the question patch at 4:3."
+  }
+ ]
+}

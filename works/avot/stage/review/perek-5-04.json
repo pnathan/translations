@@ -1,0 +1,1628 @@
+{
+ "unit": "perek-5-04",
+ "model": "opus",
+ "summary": "The English of 5:19-5:23 is faithful and follows Bartenura and Rambam throughout; no sentence of the English needs changing. The main faults are lexical: the senses were filled mechanically (mostly '1', often the entry heading or a name etymology), and many tokens are linked to the wrong homograph (place or personal names such as Ain, Tob, Rahab, Helek, Huppah, Agra, or the noun 'torrent' for the verb 'inherit'), which are relinked to the Jastrow entries in the pack or have their sense removed. Three commentary summaries misread the Hebrew (Bartenura's 'feed him like an ox', Rambam's zehirut as 'caution', Rambam's 'reproof of teachers'), and two grammar notes contradict the morphology (עַז as a noun, מֵת as a participle). The model morphology is largely sound; fixes are construct/emphatic states, numeral gender, a few lemmas and roots, and the gender of שַׁחַת.",
+ "patches": [
+  {
+   "ref": "5:19",
+   "path": "token:5:19.19.lex",
+   "value": "jastrow:עַיִן",
+   "severity": "error",
+   "reason": "bdbs:עַיִן is the place name Ain; the noun 'eye' is jastrow:עַיִן sense 1. Sense 1 of the old entry ('Ain = spring') was wrong."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.19.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:עַיִן is the place name Ain; the noun 'eye' is jastrow:עַיִן sense 1. Sense 1 of the old entry ('Ain = spring') was wrong."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.29.lex",
+   "value": "jastrow:עַיִן",
+   "severity": "error",
+   "reason": "bdbs:עַיִן is the place name Ain; the noun 'eye' is jastrow:עַיִן sense 1. Sense 1 of the old entry ('Ain = spring') was wrong."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.29.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:עַיִן is the place name Ain; the noun 'eye' is jastrow:עַיִן sense 1. Sense 1 of the old entry ('Ain = spring') was wrong."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.20.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.20.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.22.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.22.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:טוֹב is the place name Tob; the adjective 'good' is jastrow:טוֹב II sense 2."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.34.lex",
+   "value": "jastrow:רָחָב II",
+   "severity": "error",
+   "reason": "bdbs:רָחָב is the name Rahab; the adjective 'wide, broad' is jastrow:רָחָב II."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.34.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:רָחָב is the name Rahab; the adjective 'wide, broad' is jastrow:רָחָב II."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.56.lex",
+   "value": "jastrow:נָחַל",
+   "severity": "error",
+   "reason": "bdbs:נַחַל is the noun 'torrent, wadi'; the verb 'to inherit' is jastrow:נָחַל sense 1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.56.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:נַחַל is the noun 'torrent, wadi'; the verb 'to inherit' is jastrow:נָחַל sense 1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.62.lex",
+   "value": "jastrow:נָחַל",
+   "severity": "error",
+   "reason": "bdbs:נַחַל is the noun 'torrent'; the Hifil 'to give in possession, bequeath' is jastrow:נָחַל 2.1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.62.sense",
+   "value": "2.1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:נַחַל is the noun 'torrent'; the Hifil 'to give in possession, bequeath' is jastrow:נָחַל 2.1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.58.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is '= אַבָּא, father'; הַבָּא in עוֹלָם הַבָּא is jastrow:בָּא III 'coming, future'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.58.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: jastrow:בָּא I is '= אַבָּא, father'; הַבָּא in עוֹלָם הַבָּא is jastrow:בָּא III 'coming, future'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.66.lex",
+   "value": "jastrow:מָלֵא I",
+   "severity": "error",
+   "reason": "bdbs:מָלֵא is the adjective 'full'; the Piel 'to fill' is jastrow:מָלֵא I 2.1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.66.sense",
+   "value": "2.1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:מָלֵא is the adjective 'full'; the Piel 'to fill' is jastrow:מָלֵא I 2.1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.75.lex",
+   "value": "jastrow:בְּאֵר",
+   "severity": "error",
+   "reason": "bdbs:בְּאֵר is the place name Beer; the common noun 'well, pit' is jastrow:בְּאֵר."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.75.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:בְּאֵר is the place name Beer; the common noun 'well, pit' is jastrow:בְּאֵר."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.83.lex",
+   "value": "jastrow:בְּאֵר",
+   "severity": "error",
+   "reason": "bdbs:בְּאֵר is the place name Beer; the common noun 'well, pit' is jastrow:בְּאֵר."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.83.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:בְּאֵר is the place name Beer; the common noun 'well, pit' is jastrow:בְּאֵר."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.85.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "bdbs:אִישׁ here is the Hithpalel verb 'to show oneself a man'; the noun 'man' (pl. אֲנָשִׁים) is jastrow:אִישׁ."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.85.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:אִישׁ here is the Hithpalel verb 'to show oneself a man'; the noun 'man' (pl. אֲנָשִׁים) is jastrow:אִישׁ."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.87.lex",
+   "value": "jastrow:מִרְמָה",
+   "severity": "error",
+   "reason": "bdbs:מִרְמָה is the personal name Mirma; the noun 'deceit, fraud' is jastrow:מִרְמָה."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.87.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:מִרְמָה is the personal name Mirma; the noun 'deceit, fraud' is jastrow:מִרְמָה."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.34.lex",
+   "value": "jastrow:עִיר II",
+   "severity": "error",
+   "reason": "bdbs:עִיר is 'watcher, angel'; 'city' is jastrow:עִיר II."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.34.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:עִיר is 'watcher, angel'; 'city' is jastrow:עִיר II."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.38.lex",
+   "value": "jastrow:חֵלֶק",
+   "severity": "error",
+   "reason": "bdbs:חֵלֶק is the personal name Helek; the common noun 'portion, lot' is jastrow:חֵלֶק."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.38.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:חֵלֶק is the personal name Helek; the common noun 'portion, lot' is jastrow:חֵלֶק."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.39.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה here gives only 'custom, manner, law (of man)'; the Torah of God is jastrow:תּוֹרָה sense 1."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.39.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:תּוֹרָה here gives only 'custom, manner, law (of man)'; the Torah of God is jastrow:תּוֹרָה sense 1."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.6.lex",
+   "value": "bdbs:שָׁנֶה",
+   "severity": "error",
+   "reason": "bdbs:שָׁנָה is the verb 'to repeat'; 'year' is bdbs:שָׁנֶה, and the use here is 1.3 'as indication of age'."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.6.sense",
+   "value": "1.3",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:שָׁנָה is the verb 'to repeat'; 'year' is bdbs:שָׁנֶה, and the use here is 1.3 'as indication of age'."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.7.lex",
+   "value": "jastrow:מִקְרָא",
+   "severity": "error",
+   "reason": "bdbs:מִקְרָא has only 'convocation, reading'; Jastrow sense 5 'the Scriptures' is the sense here."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.7.sense",
+   "value": "5",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:מִקְרָא has only 'convocation, reading'; Jastrow sense 5 'the Scriptures' is the sense here."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.21.lex",
+   "value": "jastrow:מִדָּה",
+   "severity": "error",
+   "reason": "bdbs:מִדָּה is 'tribute', a different word; 'measure, quality, standard' is jastrow:מִדָּה (4: principle, standard)."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.21.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:מִדָּה is 'tribute', a different word; 'measure, quality, standard' is jastrow:מִדָּה (4: principle, standard)."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.54.lex",
+   "value": "jastrow:עוֹלָם",
+   "severity": "error",
+   "reason": "bdbs:עוֹלָם lists only 'long duration, eternity'; the Mishnaic sense 'world' is jastrow:עוֹלָם sense 1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.54.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:עוֹלָם lists only 'long duration, eternity'; the Mishnaic sense 'world' is jastrow:עוֹלָם sense 1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.57.lex",
+   "value": "jastrow:עוֹלָם",
+   "severity": "error",
+   "reason": "bdbs:עוֹלָם lists only 'long duration, eternity'; the Mishnaic sense 'world' is jastrow:עוֹלָם sense 1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.57.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:עוֹלָם lists only 'long duration, eternity'; the Mishnaic sense 'world' is jastrow:עוֹלָם sense 1."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.54.lex",
+   "value": "jastrow:עוֹלָם",
+   "severity": "error",
+   "reason": "bdbs:עוֹלָם lists only 'long duration, eternity'; the Mishnaic sense 'world' is jastrow:עוֹלָם sense 1."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.54.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Sense of the right entry: bdbs:עוֹלָם lists only 'long duration, eternity'; the Mishnaic sense 'world' is jastrow:עוֹלָם sense 1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.55.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה is 'lamb, sheep' (a typo entry for שֶׂה); the demonstrative is jastrow:זֶה."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.19.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is 'where?'; the negative אֵין 'there is not' is jastrow:אֵין."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.48.lex",
+   "value": "jastrow:מֵאָה",
+   "severity": "error",
+   "reason": "bdbs:מֵאָה is the tower name Meah; the numeral 'hundred' is jastrow:מֵאָה."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.14.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אַחַר is the adverb 'after', not the adjective אַחֵר 'other'; no entry for אַחֵר is in the pack, so the sense is removed."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.14.note",
+   "value": "אֲחֵרִים: plural of the adjective אַחֵר 'other'. The linked entry bdbs:אַחַר is the adverb 'after', a different word; no sense is given.",
+   "severity": "error",
+   "reason": "Record the wrong lexicon link."
+  },
+  {
+   "ref": "5:23",
+   "path": "token:5:23.2.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:הֵא is the interjection 'behold!'; here הֵא is part of the name Ben He He. No entry for the name is in the pack."
+  },
+  {
+   "ref": "5:23",
+   "path": "token:5:23.3.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:הֵא is the interjection 'behold!'; here הֵא is part of the name Ben He He. No entry for the name is in the pack."
+  },
+  {
+   "ref": "5:23",
+   "path": "token:5:23.2.note",
+   "value": "Ben He He: one name (decisions). The linked entry bdbs:הֵא is the interjection 'behold!', not this name; no sense is given.",
+   "severity": "error",
+   "reason": "Record the wrong lexicon link."
+  },
+  {
+   "ref": "5:23",
+   "path": "token:5:23.7.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:אַגְרָא II is the personal name Agra; the noun 'reward' (Aramaic אַגְרָא, cf. Hebrew אָגַר 'hire') has no entry in the pack."
+  },
+  {
+   "ref": "5:23",
+   "path": "token:5:23.7.note",
+   "value": "אַגְרָא: Aramaic 'the reward, the wage' (emphatic state of אֲגַר). The linked entry jastrow:אַגְרָא II is the personal name Agra, a different word; no sense is given.",
+   "severity": "error",
+   "reason": "Record the wrong lexicon link."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.22.note",
+   "value": "חֻפָּה: 'canopy', the wedding canopy, hence marriage. The linked entry bdbs:חֻפָּה is the personal name Huppah, not this noun; no sense is given.",
+   "severity": "error",
+   "reason": "Record the wrong lexicon link."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.79.note",
+   "value": "נה: the chapter number 55 (נ = 50, ה = 5), a reference added in the printed text, not part of the mishnah. The linked entry bdbs:נֹהַּ 'eminency' is unrelated.",
+   "severity": "error",
+   "reason": "The pack links an unrelated entry; a learner needs the numeral explained."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.1.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "כָּל מִי is 'every one who': sense 1.2 'every, any', not 1 'the whole'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.6.sense",
+   "value": "1.4",
+   "severity": "error",
+   "reason": "דְּבָרִים here are 'things, matters' (1.4), not 'speech, word'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.13.sense",
+   "value": "1.4",
+   "severity": "error",
+   "reason": "דְּבָרִים here are 'things, matters' (1.4), not 'speech, word'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.11.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Abraham 'our father' is the ancestor of the people: sense 4 'ancestor', not 1 'father of an individual'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.28.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Abraham 'our father' is the ancestor of the people: sense 4 'ancestor', not 1 'father of an individual'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.44.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Abraham 'our father' is the ancestor of the people: sense 4 'ancestor', not 1 'father of an individual'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.52.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Abraham 'our father' is the ancestor of the people: sense 4 'ancestor', not 1 'father of an individual'."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.16.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "אָבִיךָ שֶׁבַּשָּׁמָיִם is God: sense 2 'of God as father of his people'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.17.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "The person is Balaam son of Beor, the prophet: sense 3; sense 1 is only the etymology of the name."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.37.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "The person is Balaam son of Beor, the prophet: sense 3; sense 1 is only the etymology of the name."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.47.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "The person is Balaam son of Beor, the prophet: sense 3; sense 1 is only the etymology of the name."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.70.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "The person is Balaam son of Beor, the prophet: sense 3; sense 1 is only the etymology of the name."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.24.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "שְׁפָלָה of the soul is 'humble (of condition or spirit)', 1.2, not height."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.30.sense",
+   "value": "2.9",
+   "severity": "error",
+   "reason": "Sense 1 is the bare heading 'adj'; the evil eye is 'bad, unkind (vicious in disposition)', 2.9."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.32.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 of jastrow:גָּבוֹהַּ is the cross-reference line; 'high, exalted' is sense 2."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.53.sense",
+   "value": "1.1.1",
+   "severity": "error",
+   "reason": "Qal 'to eat (human subject)', 1.1.1."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.63.sense",
+   "value": "1.1.4.1",
+   "severity": "error",
+   "reason": "אֹהֲבַי is the Qal participle 'lover': 1.1.4.1 (Bartenura: Abraham is called אוֹהֵב)."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.72.sense",
+   "value": "1.1.2",
+   "severity": "error",
+   "reason": "יוֹרְשִׁין גֵּיהִנֹּם: Qal 'to inherit', 1.1.2."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.82.sense",
+   "value": "1.2.1",
+   "severity": "error",
+   "reason": "תּוֹרִידֵם is Hifil 'to bring down', 1.2.1, not the Qal heading."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.92.sense",
+   "value": "1.1.1",
+   "severity": "error",
+   "reason": "Qal 'to trust, trust in', 1.1.1."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.4.sense",
+   "value": "1.1",
+   "severity": "error",
+   "reason": "אוֹמֵר is Qal: sense 1.1."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.20.sense",
+   "value": "1.1",
+   "severity": "error",
+   "reason": "אוֹמֵר is Qal: sense 1.1."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.3.sense",
+   "value": "1.1",
+   "severity": "error",
+   "reason": "אוֹמֵר is Qal: sense 1.1."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.4.sense",
+   "value": "1.1",
+   "severity": "error",
+   "reason": "אוֹמֵר is Qal: sense 1.1."
+  },
+  {
+   "ref": "5:23",
+   "path": "token:5:23.4.sense",
+   "value": "1.1",
+   "severity": "error",
+   "reason": "אוֹמֵר is Qal: sense 1.1."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.5.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "Qal 'to be', 1.1.3, not the entry heading."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.19.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "Qal 'to be', 1.1.3, not the entry heading."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.28.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "Qal 'to be', 1.1.3, not the entry heading."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.2.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "Qal 'to be', 1.1.3, not the entry heading."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.15.sense",
+   "value": "1.3",
+   "severity": "error",
+   "reason": "רָצוֹן here is 'will, desire', 1.3."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.29.sense",
+   "value": "1.3",
+   "severity": "error",
+   "reason": "רָצוֹן here is 'will, desire', 1.3."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.27.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "עֵדֶן is the garden of Genesis, sense 3; sense 1 is only the etymology."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.5.sense",
+   "value": "1.1.2",
+   "severity": "error",
+   "reason": "הֲפֹךְ בָּהּ 'turn it over': Qal 'to turn, turn over', 1.1.2, not 'overthrow'."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.4.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.8.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.15.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.25.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.35.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.45.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.18.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.38.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.48.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.71.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.21.sense",
+   "value": "1.2.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.31.sense",
+   "value": "1.2.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.23.sense",
+   "value": "1.5",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.33.sense",
+   "value": "1.5",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.59.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.77.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.64.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.65.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:19",
+   "path": "token:5:19.74.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.7.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.9.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.13.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.8.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.11.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.12.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.14.sense",
+   "value": "1.1.1.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.17.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.24.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.26.sense",
+   "value": "3.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.33.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.35.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:20",
+   "path": "token:5:20.37.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.10.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.18.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.31.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.34.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.37.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.43.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.25.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.14.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.28.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.40.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.51.sense",
+   "value": "1.1.6",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.52.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.7.sense",
+   "value": "1.1.2",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.9.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.16.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:22",
+   "path": "token:5:22.23.sense",
+   "value": "1.4",
+   "severity": "style",
+   "reason": "Missing sense: the entry lists senses and the word is a content word; this one fits the context."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.50.gloss",
+   "value": "had died",
+   "severity": "error",
+   "reason": "With the perfects עָבַר and בָּטֵל, מֵת is read as the Qal perfect (as the morphology and the English have it): 'he had died', not the adjective 'dead'."
+  },
+  {
+   "ref": "5:21",
+   "path": "token:5:21.50.note",
+   "value": "מֵת: Qal perfect 3rd masc. sing. of the stative verb מות; the same form is also the participle/adjective 'dead'. Here it stands with two perfects: 'as if he had died'.",
+   "severity": "error",
+   "reason": "The old note called it an adjective/participle, against the morphology and the English."
+  },
+  {
+   "ref": "5:20",
+   "path": "grammar",
+   "value": [
+    "The four animal similes are parallel, each of the form adjective + כְּ + animal: bold / leopard, light / eagle, swift / deer, strong / lion. A single purpose phrase, 'to do the will of your Father in Heaven', governs all four.",
+    "The second saying is an elliptical antithesis with no verb: 'bold of face (goes) to Gehinnom, shame of face to the Garden of Eden'. עַז פָּנִים and בֹּשֶׁת פָּנִים are construct chains: עַז is the adjective 'strong, bold' in the construct ('bold of face'), בֹּשֶׁת the noun 'shame' in the construct.",
+    "יְהִי רָצוֹן מִלְּפָנֶיךָ is the standard petition formula ('may it be Your will') and shifts the form to second person address to God: 'Your city, Your Torah'.",
+    "שֶׁתִּבְנֶה is a purpose/content clause: 'that You build'. In the Mishnaic petition, the verb is in the imperfect after the formula; חֶלְקֵנוּ בְתוֹרָתֶךָ 'our portion in Your Torah' is the second request.",
+    "The words עַז כַּנָּמֵר, וְקַל כַּנֶּשֶׁר, וְרָץ כַּצְּבִי, וְגִבּוֹר כָּאֲרִי pair a trait with its image; the first plays on עַז as both 'fierce' and 'brazen' (cf. עַז פָּנִים below)."
+   ],
+   "severity": "error",
+   "reason": "עַז is an adjective (bdbs:עַז (a), Jastrow 'strong, firm'), not the noun 'boldness' (that is עֹז)."
+  },
+  {
+   "ref": "5:21",
+   "path": "grammar",
+   "value": [
+    "Each stage is an elliptical clause of the form 'son of N (years) to X': the verb 'is fit' is understood. The ל prefix is 'for' (fit for, ready for).",
+    "The ages count by tens from twenty to a hundred; בֶּן שָׁנִים is a fixed idiom for age. Gender of the numerals follows the noun they do not name: שָׁנָה (feminine) takes חָמֵשׁ, עֶשֶׂר, שְׁלשׁ עֶשְׂרֵה, etc.",
+    "Each ל-noun is a stage of life or a pursuit: מִקְרָא (Bible), מִשְׁנָה (oral teaching), מִצְוֹת (commandments), תַּלְמוּד (study), חֻפָּה (marriage), רדף (pursuit), כֹּחַ (strength), בִּינָה, עֵצָה, זִקְנָה, שֵׂיבָה, גְּבוּרָה, שׁוּחַ.",
+    "The last clause is a full sentence: כְּאִלּוּ מֵת וְעָבַר וּבָטֵל מִן הָעוֹלָם, with three Qal perfects (מֵת is the perfect of the stative מות): 'as if he had died and passed and ceased from the world'."
+   ],
+   "severity": "error",
+   "reason": "The note called מֵת a participle/adjective, contradicting the morphology and the English 'had died'."
+  },
+  {
+   "ref": "5:22",
+   "path": "grammar",
+   "value": [
+    "The saying mixes Hebrew and Aramaic: הֲפֹךְ בָּהּ וַהֲפֹךְ בָּהּ is Hebrew; דְּכֹלָּא בָהּ וּבָהּ תֶּחֱזֵי וְסִיב וּבְלֵה בָהּ וּמִנַּהּ לֹא תָזוּעַ is Aramaic; שֶׁאֵין לְךָ מִדָּה טוֹבָה הֵימֶנָּה is Hebrew again.",
+    "The feminine בָּהּ refers back to the Torah, as the commentators say (the mishnah does not name it: it follows the previous saying).",
+    "The imperatives הֲפֹךְ, סִיב, בְּלֵה are paired: turn it over and over; grow old and wear out in it.",
+    "The negation לֹא תָזוּעַ is a prohibition in Aramaic style ('do not move'); the final clause gives the reason with שֶׁאֵין לְךָ 'for you have not'.",
+    "מִדָּה 'measure, quality'; the English 'quality' also allows 'virtue' or 'standard'."
+   ],
+   "severity": "style",
+   "reason": "Quote the base text: it reads לֹא, not לָא."
+  },
+  {
+   "ref": "5:19",
+   "path": "note",
+   "value": "Translation choices. עַיִן טוֹבָה / רָעָה are kept as the literal 'good eye' / 'evil eye', with the commentators' definitions (Bartenura, Rambam: contentment vs. greed) given in the notes. רוּחַ נְמוּכָה 'humble spirit', נֶפֶשׁ שְׁפָלָה 'modest soul' (Bartenura: restraint and abstinence from desires; Rambam: restraint (זְהִירוּת), above all in sexual matters), נֶפֶשׁ רְחָבָה 'broad soul' (great craving). אֹהֲבַי is 'those who love me' (Bartenura reads the verse as naming Abraham 'the lover', Isa 41:8). בְּאֵר שַׁחַת is 'the pit of destruction'; שַׁחַת is both 'pit' and 'destruction/corruption'. Gehinnom is left in Hebrew form per the decisions.",
+   "severity": "error",
+   "reason": "Rambam's זְהִירוּת is restraint from desire (his proofs are Abraham's not looking at Sarah, and his conduct with Hagar), not 'caution'."
+  },
+  {
+   "ref": "5:19",
+   "path": "commentary:rambam:5:19:1.summary",
+   "value": "Rambam: a good eye is contentment (הַהִסְתַּפְּקוּת), a lowly soul is restraint from desire (הַזְּהִירוּת), a humble spirit is extra humility; their opposites are greed for money (evil eye), great lust (broad soul) and pride (haughty spirit). He finds each trait in Abraham (Gen 14:23; 12:11; 16:6; 21:11; 18:27) and in Balaam, and explains 'men of blood and deceit' of Balaam.",
+   "severity": "error",
+   "reason": "זְהִירוּת here is restraint from desire, as Rambam's examples (Sarah, Hagar) show, not 'caution'; הַחֲרִיצוּת לִקְנוֹת הַמָּמוֹן is avidity for wealth, not 'diligence'."
+  },
+  {
+   "ref": "5:20",
+   "path": "commentary:rambam:5:20:1.summary",
+   "value": "Rambam: though he says 'the bold-faced to Gehinnom', he commands boldness for reproof, as teachers must reprove, and the like: use a vice in its place for God's will ('with the crooked be subtle'), on condition that the aim is truth, 'to do the will of your Father'. Shame is a gift to this nation (the seed of Abraham is bashful, merciful, kind); so he prays: as You granted us this trait, grant that Your city be rebuilt.",
+   "severity": "question",
+   "reason": "בְּתוֹכְחַת הַמּוֹרִים is the reproof that teachers give, not the rebuking of one's teachers; the summary 'boldness in rebuking teachers' reverses it. Proposed reading."
+  },
+  {
+   "ref": "5:21",
+   "path": "commentary:bartenura:5:21:1.summary",
+   "value": "Bartenura: five years for Scripture is learned from orlah (Lev 19:23-25): three years of nothing, the fourth year 'holy', when the father teaches the shape of the letters and the vowel points, and from the fifth 'you shall eat its fruit': from then on 'feed him (Torah) like an ox' (סְפֵי לֵיהּ כְּתוֹרָא).",
+   "severity": "error",
+   "reason": "סְפֵי לֵיהּ כְּתוֹרָא is 'stuff/feed him like an ox', not 'he is to be strengthened like an ox'."
+  },
+  {
+   "ref": "5:19",
+   "path": "morph:5:19.1",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "כָּל",
+      "lemma": "כֹּל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֹּל is a noun (BDB n-m; Jastrow), here in the construct before מִי, not an adjective."
+  },
+  {
+   "ref": "5:19",
+   "path": "morph:5:19.76",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שחת",
+    "morphemes": [
+     {
+      "form": "שַׁחַת",
+      "lemma": "שַׁחַת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "שַׁחַת is feminine (bdbs n-f, Jastrow f.)."
+  },
+  {
+   "ref": "5:19",
+   "path": "morph:5:19.84",
+   "value": {
+    "lang": "hbo",
+    "root": "שחת",
+    "morphemes": [
+     {
+      "form": "שַׁחַת",
+      "lemma": "שַׁחַת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "שַׁחַת is feminine (bdbs n-f, Jastrow f.)."
+  },
+  {
+   "ref": "5:20",
+   "path": "morph:5:20.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עזז",
+    "morphemes": [
+     {
+      "form": "עַז",
+      "lemma": "עַז",
+      "pos": "adjective",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In עַז פָּנִים the adjective is bound to פָּנִים: construct ('bold of face')."
+  },
+  {
+   "ref": "5:20",
+   "path": "morph:5:20.24",
+   "value": {
+    "lang": "mishnaic",
+    "root": "בוש",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "בֹשֶׁת",
+      "lemma": "בּוֹשֶׁת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In בֹּשֶׁת פָּנִים the noun is bound to פָּנִים: construct ('shame of face')."
+  },
+  {
+   "ref": "5:20",
+   "path": "morph:5:20.26",
+   "value": {
+    "lang": "mishnaic",
+    "root": "גנן",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "גַן",
+      "lemma": "גַּן",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "גַן עֵדֶן is a construct chain: 'garden of Eden'."
+  },
+  {
+   "ref": "5:20",
+   "path": "morph:5:20.35",
+   "value": {
+    "lang": "mishnaic",
+    "root": "מהר",
+    "morphemes": [
+     {
+      "form": "בִּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "מְהֵרָה",
+      "lemma": "מְהֵרָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מְהֵרָה is a noun 'haste' (bdbs n-f); בִּמְהֵרָה is 'in haste'. The adverb sense comes from the phrase, not the word."
+  },
+  {
+   "ref": "5:21",
+   "path": "morph:5:21.5",
+   "value": {
+    "lang": "mishnaic",
+    "root": "חמש",
+    "morphemes": [
+     {
+      "form": "חָמֵשׁ",
+      "lemma": "חָמֵשׁ",
+      "pos": "numeral",
+      "parse": "cardinal, feminine, five, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "With שָׁנִים (feminine) the numeral is the short form חָמֵשׁ, used with feminine nouns, and it is absolute (construct is חֲמֵשׁ)."
+  },
+  {
+   "ref": "5:21",
+   "path": "morph:5:21.9",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עשר",
+    "morphemes": [
+     {
+      "form": "עֶשֶׂר",
+      "lemma": "עֶשֶׂר",
+      "pos": "numeral",
+      "parse": "cardinal, feminine, ten, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עֶשֶׂר is the form used with feminine nouns (here שָׁנִים understood) and stands alone here: absolute, not construct."
+  },
+  {
+   "ref": "5:21",
+   "path": "morph:5:21.20",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שמן",
+    "morphemes": [
+     {
+      "form": "שְׁמֹנֶה",
+      "lemma": "שְׁמוֹנֶה",
+      "pos": "numeral",
+      "parse": "cardinal, feminine, eight, construct"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The root is שמן, with final nun."
+  },
+  {
+   "ref": "5:21",
+   "path": "morph:5:21.42",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שמן",
+    "morphemes": [
+     {
+      "form": "שְׁמֹנִים",
+      "lemma": "שְׁמֹנִים",
+      "pos": "numeral",
+      "parse": "cardinal, masculine, eighty, absolute"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The root is שמן, with final nun."
+  },
+  {
+   "ref": "5:21",
+   "path": "morph:5:21.46",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שוח",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "שׁוּחַ",
+      "lemma": "שָׁח",
+      "pos": "verb",
+      "parse": "qal, infinitive construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "לָשׁוּחַ is the infinitive of the hollow root שוח; the lemma is its Qal perfect שָׁח, not שָׁחָה (root שחה), which does not match the root given."
+  },
+  {
+   "ref": "5:22",
+   "path": "morph:5:22.9",
+   "value": {
+    "lang": "arc",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "דְּ",
+      "lemma": "ד: that, which",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "כֹלָּא",
+      "lemma": "כֹּל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, emphatic"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֹּלָּא with final -א is the Aramaic emphatic (determined) state, not absolute; כֹּל is a noun."
+  },
+  {
+   "ref": "5:22",
+   "path": "morph:5:22.16",
+   "value": {
+    "lang": "arc",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "מִנַּ",
+      "lemma": "מִן",
+      "pos": "preposition",
+      "parse": "preposition, from"
+     },
+     {
+      "form": "הּ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, feminine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מִן is a preposition with no root; מנה is the unrelated root 'count'."
+  },
+  {
+   "ref": "5:22",
+   "path": "morph:5:22.18",
+   "value": {
+    "lang": "arc",
+    "root": "זוע",
+    "morphemes": [
+     {
+      "form": "תָזוּעַ",
+      "lemma": "זָע",
+      "pos": "verb",
+      "parse": "qal, imperfect (yiqtol), 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The Qal perfect of the hollow root זוע is זָע; זָעַ is not a form."
+  },
+  {
+   "ref": "5:23",
+   "path": "morph:5:23.5",
+   "value": {
+    "lang": "arc",
+    "root": "פום",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "פוּם",
+      "lemma": "פּוּם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In לְפוּם צַעֲרָא, פּוּם is bound to the next noun: construct ('according to', lit. 'by the mouth of')."
+  },
+  {
+   "ref": "5:23",
+   "path": "morph:5:23.6",
+   "value": {
+    "lang": "arc",
+    "root": "צער",
+    "morphemes": [
+     {
+      "form": "צַעֲרָא",
+      "lemma": "צַעַר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, emphatic"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "צַעֲרָא is the Aramaic emphatic state of צַעַר, not absolute; the lemma is the absolute צַעַר."
+  },
+  {
+   "ref": "5:23",
+   "path": "morph:5:23.7",
+   "value": {
+    "lang": "arc",
+    "root": "אגר",
+    "morphemes": [
+     {
+      "form": "אַגְרָא",
+      "lemma": "אֲגַר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, emphatic"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אַגְרָא is the Aramaic emphatic state of אֲגַר 'reward', not absolute; the lemma is the absolute אֲגַר."
+  },
+  {
+   "ref": "5:22",
+   "path": "morph:5:22.1",
+   "value": {
+    "lang": "mishnaic",
+    "root": "בנה",
+    "morphemes": [
+     {
+      "form": "בֶּן",
+      "lemma": "בֵּן",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "בֶּן is Hebrew (Aramaic would be בַּר); the name stands outside the Aramaic saying."
+  },
+  {
+   "ref": "5:23",
+   "path": "morph:5:23.1",
+   "value": {
+    "lang": "mishnaic",
+    "root": "בנה",
+    "morphemes": [
+     {
+      "form": "בֶּן",
+      "lemma": "בֵּן",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "בֶּן is Hebrew (Aramaic would be בַּר); the name stands outside the Aramaic saying."
+  },
+  {
+   "ref": "5:20",
+   "path": "morph:5:20.5",
+   "value": {
+    "lang": "mishnaic",
+    "root": "הוה",
+    "morphemes": [
+     {
+      "form": "הֱוֵי",
+      "lemma": "הָוָה",
+      "pos": "verb",
+      "parse": "qal, imperative, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "question",
+   "reason": "הֱוֵי is the Mishnaic imperative of the by-form הוה (Aramaic-influenced), not a form of היה; the root is הוה and the lemma הָוָה. Proposed."
+  },
+  {"ref": "5:20", "path": "token:5:20.5.lex", "value": "bdbs:הָיָה", "severity": "error", "reason": "editor: the sense was chosen against this entry, the default of the unpatched lemma; the morph patch changed the default entry. Pins the entry the sense refers to."}
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:5:19:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:19:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:19:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:19:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:19:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:19:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:19:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:19:8",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:17:1",
+   "verdict": "not-applicable",
+   "comment": "Rambam on 5:17 (disputes for the sake of Heaven), anchored here by a shifted match."
+  },
+  {
+   "anchor": "rambam:5:18:1",
+   "verdict": "not-applicable",
+   "comment": "Rambam on 5:18 (leading the many to merit), anchored here by a shifted match."
+  },
+  {
+   "anchor": "rambam:5:19:1",
+   "verdict": "consistent",
+   "comment": "The English and notes follow his identifications; the summary is corrected (zehirut = restraint)."
+  },
+  {
+   "anchor": "bartenura:5:20:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:20:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:20:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:20:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:20:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:20:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:20:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:5",
+   "verdict": "consistent",
+   "comment": "The English keeps the neutral 'pursuit', which covers both of his readings."
+  },
+  {
+   "anchor": "bartenura:5:21:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:8",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:9",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:10",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:11",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:21:12",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:23:1",
+   "verdict": "not-applicable",
+   "comment": "Rambam on 5:23 (Ben He He), anchored here by a shifted match."
+  },
+  {
+   "anchor": "bartenura:5:22:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:22:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:22:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:22:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:5:22:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:5:23:1",
+   "verdict": "consistent"
+  }
+ ]
+}

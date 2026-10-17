@@ -1,0 +1,699 @@
+{
+ "unit": "noach-12",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "9:24",
+   "english": "Noah woke from his wine and learned what his youngest son had done to him.",
+   "literal": "and-awoke Noah from-his-wine and-knew [obj] what-he-did to-him his-son the-small",
+   "tokens": [
+    {
+     "id": "9:24.1",
+     "gloss": "and awoke",
+     "note": "wayyiqtol of יקץ 'awake', a verb whose first root letter is yod: the prefix yod carries ḥireq and the root's yod is quiescent, written but not pronounced (Radak: וְיוֹ״ד הַשֹּׁרֶשׁ נֶעְלֶמֶת)"
+    },
+    {
+     "id": "9:24.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "9:24.3",
+     "gloss": "from his wine",
+     "note": "construct form יֵּינ- before the suffix"
+    },
+    {
+     "id": "9:24.4",
+     "gloss": "and he learned",
+     "sense": "Qal 1.c",
+     "note": "wayyiqtol: 'and he came to know'"
+    },
+    {
+     "id": "9:24.5",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "9:24.6",
+     "gloss": "what"
+    },
+    {
+     "id": "9:24.7",
+     "gloss": "had done",
+     "sense": "Qal I.1",
+     "note": "perfect, here pluperfect in sense: the act precedes the waking"
+    },
+    {
+     "id": "9:24.8",
+     "gloss": "to him"
+    },
+    {
+     "id": "9:24.9",
+     "gloss": "his son",
+     "sense": "1",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "9:24.10",
+     "gloss": "the youngest",
+     "note": "הַקָּטָן: 'the small one', youngest, lesser or despised; see note"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:24.1",
+      "9:24.2",
+      "9:24.3"
+     ],
+     "english": "Noah woke from his wine",
+     "literal": "'and-awoke Noah from-his-wine'"
+    },
+    {
+     "tokens": [
+      "9:24.4",
+      "9:24.5",
+      "9:24.6",
+      "9:24.7",
+      "9:24.8",
+      "9:24.9",
+      "9:24.10"
+     ],
+     "english": "and learned what his youngest son had done to him",
+     "literal": "'and-knew [obj] what-did to-him his-son the-small'; the object marker has no English counterpart, and English puts the subject before the verb of the relative clause"
+    }
+   ],
+   "grammar": [
+    "וַיִּיקֶץ and וַיֵּדַע are wayyiqtols that carry the narrative on from the drunkenness of 9:21.",
+    "אֵת אֲשֶׁר־עָשָׂה is an object marker with a relative clause: 'what he had done'.",
+    "הַקָּטָן is an adjective with the article after a noun with a suffix, so the pair is definite: 'his small son'.",
+    "The etnaḥta after מִיֵּינוֹ divides the verse into the waking and the knowing."
+   ],
+   "note": "הַקָּטָן is ambiguous: 'small', so 'youngest', or 'lesser, despised'. Ibn Ezra reads בְּנוֹ הַקָּטָן as Canaan, the youngest of Ham's sons (10:6), the suffix of בְּנוֹ referring to Ham; the English 'his youngest son' follows him and leaves 'his' open. Rashi reads הַקָּטָן as 'the unfit and despised' (Jeremiah 49:15), not of age; in his reading (see his comment on 9:25) the son is Ham. Radak, if the son is Ham, also takes הַקָּטָן as 'the lesser', since Ham was not the youngest. The text does not say what was done (Ibn Ezra).",
+   "commentary": [
+    {
+     "anchor": "rashi:9:24:1",
+     "relation": "records",
+     "summary": "Rashi: בנו הקטן means the unfit and despised one, as in 'Behold, I have made you small among the nations, despised among men' (Jeremiah 49:15). The English keeps the plain sense 'youngest' and records this."
+    },
+    {
+     "anchor": "ibn-ezra:9:24:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Scripture does not reveal what was done; the doer was Canaan, since Ham saw and did not cover him as his brothers did but made the matter known, and Canaan heard. The English leaves the deed unstated."
+    },
+    {
+     "anchor": "ibn-ezra:9:24:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'his youngest son' testifies that it was Canaan, for Scripture lists 'the sons of Ham: Cush, Egypt, Put and Canaan' (10:6); the suffix ו of בְּנוֹ refers back to Ham, mentioned before, and that is why Noah cursed Canaan. To say that Noah cursed his grandson because God had blessed his sons is the way of derash. The English 'his youngest son' leaves room for this reading."
+    },
+    {
+     "anchor": "radak:9:24:3",
+     "relation": "records",
+     "summary": "Radak: if it is said of Ham, הקטן means the lesser, since Ham was not young in years; the Sages explain that Canaan saw first or that Canaan castrated him."
+    },
+    {
+     "anchor": "sforno:9:24:1",
+     "relation": "records",
+     "summary": "Sforno: grandsons count as sons; Canaan was the smallest of Ham's sons, or smallest of Noah's grandsons, and also lowly among the nations."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: בריה זעירא 'his younger son'."
+   ]
+  },
+  {
+   "ref": "9:25",
+   "english": "He said, \"Cursed be Canaan; a slave among slaves shall he be to his brothers.\"",
+   "literal": "and-said cursed Canaan slave-of slaves he-will-be to-his-brothers",
+   "tokens": [
+    {
+     "id": "9:25.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "9:25.2",
+     "gloss": "cursed",
+     "sense": "Qal",
+     "note": "passive participle in a verbless curse formula: 'cursed be'"
+    },
+    {
+     "id": "9:25.3",
+     "gloss": "Canaan"
+    },
+    {
+     "id": "9:25.4",
+     "gloss": "slave of",
+     "sense": "1",
+     "note": "construct before an indefinite plural: 'a slave of the class of slaves', one slave among them (Ibn Ezra); with the article, עֶבֶד הָעֲבָדִים, it would mean 'slave of the slaves'"
+    },
+    {
+     "id": "9:25.5",
+     "gloss": "slaves",
+     "sense": "1"
+    },
+    {
+     "id": "9:25.6",
+     "gloss": "he shall be",
+     "sense": "Qal II.2",
+     "note": "imperfect; with the jussive-like force of a curse"
+    },
+    {
+     "id": "9:25.7",
+     "gloss": "to his brothers",
+     "sense": "1",
+     "note": "preposition ל with construct plural and suffix"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:25.1"
+     ],
+     "english": "He said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "9:25.2",
+      "9:25.3"
+     ],
+     "english": "Cursed be Canaan",
+     "literal": "'cursed Canaan'; a verbless curse"
+    },
+    {
+     "tokens": [
+      "9:25.4",
+      "9:25.5"
+     ],
+     "english": "a slave among slaves",
+     "literal": "'slave-of slaves'; Ibn Ezra: 'a slave like one of the slaves', not 'slave of the slaves'"
+    },
+    {
+     "tokens": [
+      "9:25.6"
+     ],
+     "english": "shall he be",
+     "literal": "'he-will-be'; the imperfect of a curse"
+    },
+    {
+     "tokens": [
+      "9:25.7"
+     ],
+     "english": "to his brothers",
+     "literal": "'to-his-brothers'"
+    }
+   ],
+   "grammar": [
+    "אָרוּר כְּנַעַן is a verbless curse: passive participle then the subject.",
+    "עֶבֶד עֲבָדִים is a construct chain of the same noun without the article. Ibn Ezra reads it as 'a slave like one of the slaves'; with the article it would mean 'slave of the slaves', as קֹדֶשׁ הַקֳּדָשִׁים (Exodus 26:33) differs from קֹדֶשׁ קָדָשִׁים (Leviticus 6:18).",
+    "יִהְיֶה is imperfect, not the short jussive יְהִי, but in a curse the sense is a wish or decree.",
+    "The etnaḥta under כְּנָעַן divides the curse from its content."
+   ],
+   "note": "The English 'a slave among slaves' follows Ibn Ezra, the normative commentator on these words: עֶבֶד עֲבָדִים means 'a slave like one of the slaves'; 'slave of the slaves' would need the article. Radak reads 'slave to slaves': his brothers will be slaves too and he a slave to them, the more so to the sons of Shem and Japheth; Sforno reads a degree of servitude added for his sin. For לְאֶחָיו Ibn Ezra names Cush, Egypt and Put, Ham's sons; Rashi has Canaan serve the seed of Shem and Japheth.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:25:1",
+     "relation": "records",
+     "summary": "Rashi: Noah says to Ham, 'You caused me not to father another, fourth son to serve me; cursed be your fourth son, to serve the seed of these elder ones (Shem and Japheth), on whom the burden of serving me now falls.' And what led Ham to castrate him? He told his brothers that Adam had two sons and one killed the other for the inheritance of the world, and our father has three and still seeks a fourth. 'His brothers' are then Shem and Japheth; the English 'his brothers' leaves this open."
+    },
+    {
+     "anchor": "ibn-ezra:9:25:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: עֶבֶד עֲבָדִים means a slave like one of the slaves; had it been עֶבֶד הָעֲבָדִים, with the article, it would mean a slave to slaves. The proof is קֹדֶשׁ קָדָשִׁים (Leviticus 6:18) beside בְּקֹדֶשׁ הַקֳּדָשִׁים (Exodus 26:33). The English 'a slave among slaves' follows."
+    },
+    {
+     "anchor": "ibn-ezra:9:25:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: לאחיו means Cush, Egypt and Put, the sons of Ham; the view that Cushites are slaves because of Noah's curse of Ham is mistaken, since the first king after the flood was from Cush (10:10). The English 'his brothers' stays literal."
+    },
+    {
+     "anchor": "radak:9:25:2",
+     "relation": "records",
+     "summary": "Radak: his brothers too will be slaves, and he will be slave to them, all the more to the sons of Shem and Japheth."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: ליט כנען עבד פלח עבדין יהי לאחוהי."
+   ]
+  },
+  {
+   "ref": "9:26",
+   "english": "He said, \"Blessed be the LORD, the God of Shem, and may Canaan be a slave to them.\"",
+   "literal": "and-said blessed the-LORD God-of Shem and-let-be Canaan slave to-them",
+   "tokens": [
+    {
+     "id": "9:26.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "9:26.2",
+     "gloss": "blessed",
+     "sense": "Qal 2",
+     "note": "passive participle in a blessing formula: 'blessed be'"
+    },
+    {
+     "id": "9:26.3",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "9:26.4",
+     "gloss": "God of",
+     "sense": "2.d",
+     "note": "construct plural form used for the one God"
+    },
+    {
+     "id": "9:26.5",
+     "gloss": "Shem"
+    },
+    {
+     "id": "9:26.6",
+     "gloss": "and let be",
+     "sense": "Qal II.2",
+     "note": "jussive, short form וִיהִי"
+    },
+    {
+     "id": "9:26.7",
+     "gloss": "Canaan"
+    },
+    {
+     "id": "9:26.8",
+     "gloss": "a slave",
+     "sense": "1"
+    },
+    {
+     "id": "9:26.9",
+     "gloss": "to them",
+     "note": "לָמוֹ is a poetic form of לָהֶם, 'to them'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:26.1"
+     ],
+     "english": "He said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "9:26.2",
+      "9:26.3",
+      "9:26.4",
+      "9:26.5"
+     ],
+     "english": "Blessed be the LORD, the God of Shem",
+     "literal": "'blessed the-LORD God-of Shem'"
+    },
+    {
+     "tokens": [
+      "9:26.6",
+      "9:26.7",
+      "9:26.8",
+      "9:26.9"
+     ],
+     "english": "and may Canaan be a slave to them",
+     "literal": "'and-let-be Canaan slave to-them'"
+    }
+   ],
+   "grammar": [
+    "בָּרוּךְ יְהֹוָה is a verbless blessing formula; the passive participle precedes the subject.",
+    "אֱלֹהֵי שֵׁם: the construct of אֱלֹהִים is plural in form but governs a singular sense.",
+    "וִיהִי is a jussive, so 'may he be'; the wish repeats in 9:27.",
+    "לָמוֹ is a poetic form of the plural suffix: 'to them'."
+   ],
+   "note": "לָמוֹ is ambiguous. Ibn Ezra reads 'to them' as God and Shem: Canaan will be a slave to Him and to Shem, compelled to serve; Sforno likewise, to the God of Shem and to Shem's seed. Rashi and Radak take it as Shem's descendants. The English keeps 'to them' so that the antecedent stays open.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:26:1",
+     "relation": "follows",
+     "summary": "Rashi: God will keep His promise to Shem's seed, to give them the land of Canaan. The English keeps the blessing of the LORD as God of Shem."
+    },
+    {
+     "anchor": "rashi:9:26:2",
+     "relation": "follows",
+     "summary": "Rashi: וִיהִי means that Canaan will be a tribute-paying servant to them, that is, Shem's descendants. The English 'to them' leaves the antecedent open."
+    },
+    {
+     "anchor": "ibn-ezra:9:26:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: we must add thanks to God who is God of Shem and who will make Canaan a slave to Him and to Shem, who will compel him to serve; למו is like להם, with the ו added as in תביאמו (Exodus 15:17). The English 'to them' remains open."
+    },
+    {
+     "anchor": "ramban:9:26:1",
+     "relation": "records",
+     "summary": "Ramban: reports Ibn Ezra's reading, that Canaan is to be a slave to God and Shem, compelled to serve God, and Ibn Ezra's other explanation that he serves Japheth and Shem."
+    },
+    {
+     "anchor": "radak:9:26:2",
+     "relation": "follows",
+     "summary": "Radak: לָמוֹ means to the seed of Shem."
+    },
+    {
+     "anchor": "sforno:9:26:2",
+     "relation": "records",
+     "summary": "Sforno: a slave to the God of Shem and Shem's seed, as in Joshua 9:27, hewers of wood and drawers of water for the congregation and the altar of the LORD."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: וַאֲמַר בְּרִיךְ יְיָ אֱלָהֵהּ דְּשֵׁם וִיהֵי כְנַעַן עַבְדָא לְהוֹן."
+   ]
+  },
+  {
+   "ref": "9:27",
+   "english": "May God enlarge Japheth, and may he dwell in the tents of Shem; and may Canaan be a slave to them.",
+   "literal": "may-he-enlarge God to-Japheth and-let-dwell in-tents-of Shem and-let-be Canaan slave to-them",
+   "tokens": [
+    {
+     "id": "9:27.1",
+     "gloss": "may he enlarge",
+     "sense": "Hiph",
+     "note": "hifil jussive of פתה with a wordplay on יֶפֶת"
+    },
+    {
+     "id": "9:27.2",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "9:27.3",
+     "gloss": "Japheth"
+    },
+    {
+     "id": "9:27.4",
+     "gloss": "and may he dwell",
+     "sense": "Qal 2",
+     "note": "jussive; the subject is God, carried over from the first wish (Rashi, Ibn Ezra, Radak; Onkelos 'may He make His Presence dwell')"
+    },
+    {
+     "id": "9:27.5",
+     "gloss": "in the tents of",
+     "sense": "1",
+     "note": "construct plural"
+    },
+    {
+     "id": "9:27.6",
+     "gloss": "Shem"
+    },
+    {
+     "id": "9:27.7",
+     "gloss": "and may be",
+     "sense": "Qal II.2",
+     "note": "jussive"
+    },
+    {
+     "id": "9:27.8",
+     "gloss": "Canaan"
+    },
+    {
+     "id": "9:27.9",
+     "gloss": "a slave",
+     "sense": "1"
+    },
+    {
+     "id": "9:27.10",
+     "gloss": "to them",
+     "note": "poetic plural suffix"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:27.1",
+      "9:27.2",
+      "9:27.3"
+     ],
+     "english": "May God enlarge Japheth",
+     "literal": "'may-he-enlarge God to-Japheth'; the verb sounds like the name"
+    },
+    {
+     "tokens": [
+      "9:27.4",
+      "9:27.5",
+      "9:27.6"
+     ],
+     "english": "and may he dwell in the tents of Shem",
+     "literal": "'and-let-dwell in-tents-of Shem'"
+    },
+    {
+     "tokens": [
+      "9:27.7",
+      "9:27.8",
+      "9:27.9",
+      "9:27.10"
+     ],
+     "english": "and may Canaan be a slave to them",
+     "literal": "'and-let-be Canaan slave to-them'"
+    }
+   ],
+   "grammar": [
+    "יַפְתְּ is a hifil jussive of פתה, 'make wide', shortened from יַפְתֶּה: the final ה falls away and the word ends in two consonants, with dagesh lene in the ת, as in יַרְדְּ (Isaiah 41:2, cited by Ibn Ezra and Radak). The verb plays on the name יֶפֶת.",
+    "The Hebrew has no object marker after אֱלֹהִים; the preposition ל marks Japheth: 'make wide for Japheth'.",
+    "The pashta and zaqef qaton set אֱלֹהִים apart as the subject of the first wish.",
+    "The refrain וִיהִי כְנַעַן עֶבֶד לָמוֹ repeats 9:26 word for word."
+   ],
+   "note": "The subject of וְיִשְׁכֹּן is not named. Rashi, Ibn Ezra and Radak agree that it is God, who will dwell in the tents of Shem (Rashi: rest His Presence on Israel), and Onkelos renders 'may He make His Presence dwell'; the English 'he' continues the subject of the first wish, God. Rashi's midrash: though Cyrus, a descendant of Japheth, built the Second Temple, the Presence rested only in the First, built by Solomon of Shem. Sforno reads the tents of Shem as houses of study.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:27:1",
+     "relation": "follows",
+     "summary": "Rashi: the Targum renders יַפְתֵּי, 'may He enlarge'. The English follows this sense."
+    },
+    {
+     "anchor": "rashi:9:27:2",
+     "relation": "follows",
+     "summary": "Rashi: He (God) will rest His Presence on Israel. The Sages' midrash: although God enlarged Japheth, for Cyrus, of Japheth's line, built the Second Temple, the Presence did not rest in it; it rested in the First Temple, built by Solomon of Shem's line. The English 'he' takes God as the subject."
+    },
+    {
+     "anchor": "rashi:9:27:3",
+     "relation": "follows",
+     "summary": "Rashi: even after the sons of Shem go into exile, slaves from Canaan's sons will be sold to them. The English 'a slave to them' fits."
+    },
+    {
+     "anchor": "ibn-ezra:9:27:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יפת comes from יפה but means 'may He enlarge', like Deuteronomy 12:20, as in Aramaic, a hifil like 'and kings He subdues' (Isaiah 41:2); in this verse God blesses Japheth and Shem, since 'dwell in the tents of Shem' means God dwells in them, for the first verse blessed God. The English 'enlarge' follows."
+    },
+    {
+     "anchor": "ibn-ezra:9:27:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Canaan will be a slave to Shem and Japheth and to his brothers as well; so he is a slave to the world, since from these the whole earth was spread out; and this came about many years after the flood."
+    },
+    {
+     "anchor": "radak:9:27:1",
+     "relation": "follows",
+     "summary": "Radak: the Targum translates 'enlarge'; the root is פתה in the hifil, as in 'and kings He subdues' (Isaiah 41:2); God will enlarge Japheth's border and blessing, but His dwelling will be only in the tents of Shem, an allusion to Israel."
+    },
+    {
+     "anchor": "radak:9:27:2",
+     "relation": "follows",
+     "summary": "Radak: Canaan will also be a slave to the sons of Japheth."
+    },
+    {
+     "anchor": "sforno:9:27:1",
+     "relation": "records",
+     "summary": "Sforno: the tents of Shem are houses of study, apart from the Temple."
+    },
+    {
+     "anchor": "sforno:9:27:2",
+     "relation": "records",
+     "summary": "Sforno: the second servitude is to Shem and Japheth, also outside the time of the Temple."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: יַפְתֵּי יְיָ לְיֶפֶת וְיַשְׁרֵי שְׁכִינְתֵּיהּ בְּמַשְׁכְּנֵיהּ דְּשֵׁם."
+   ]
+  },
+  {
+   "ref": "9:28",
+   "english": "After the flood Noah lived three hundred and fifty years.",
+   "literal": "and-lived Noah after the-flood three hundred year and-fifty year",
+   "tokens": [
+    {
+     "id": "9:28.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, with the short form וַיְחִי"
+    },
+    {
+     "id": "9:28.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "9:28.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "9:28.4",
+     "gloss": "the flood"
+    },
+    {
+     "id": "9:28.5",
+     "gloss": "three"
+    },
+    {
+     "id": "9:28.6",
+     "gloss": "hundred",
+     "note": "plural of מֵאָה, 'hundreds': שְׁלֹשׁ מֵאוֹת 'three hundred'. The entry's only printed sense, '3 hundredth', does not fit, so no sense is given."
+    },
+    {
+     "id": "9:28.7",
+     "gloss": "years"
+    },
+    {
+     "id": "9:28.8",
+     "gloss": "and fifty"
+    },
+    {
+     "id": "9:28.9",
+     "gloss": "years"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:28.1",
+      "9:28.2",
+      "9:28.3",
+      "9:28.4"
+     ],
+     "english": "After the flood Noah lived",
+     "literal": "'and-lived Noah after the-flood'; English puts the time phrase first"
+    },
+    {
+     "tokens": [
+      "9:28.5",
+      "9:28.6",
+      "9:28.7",
+      "9:28.8",
+      "9:28.9"
+     ],
+     "english": "three hundred and fifty years",
+     "literal": "'three hundred year and-fifty year'"
+    }
+   ],
+   "grammar": [
+    "וַיְחִי is the wayyiqtol of חיה in its short form, for וַיִּחְיֶה.",
+    "The number is in two parts, each followed by the singular noun: שְׁלֹשׁ מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה, 'three hundred year and fifty year'; שָׁנָה is repeated after each part.",
+    "מַבּוּל is used of the flood only, here with the article.",
+    "The etnaḥta under הַמַּבּוּל separates the time marker from the number."
+   ],
+   "note": "The English puts 'after the flood' at the head of the sentence; the literal keeps the Hebrew order.",
+   "commentary": [
+    {
+     "anchor": "radak:9:28:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the number of years is given to show when the world began again, for every generation; the counter knows it from the Torah's count and from the prophets."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: וחיא נח בתר טופנא תלת מאה וחמשין שנין."
+   ]
+  },
+  {
+   "ref": "9:29",
+   "english": "All the days of Noah were nine hundred and fifty years, and he died.",
+   "literal": "and-were all-of days-of Noah nine hundred year and-fifty year and-died",
+   "tokens": [
+    {
+     "id": "9:29.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol plural: 'were'"
+    },
+    {
+     "id": "9:29.2",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "9:29.3",
+     "gloss": "the days of",
+     "sense": "4",
+     "note": "construct plural"
+    },
+    {
+     "id": "9:29.4",
+     "gloss": "Noah"
+    },
+    {
+     "id": "9:29.5",
+     "gloss": "nine"
+    },
+    {
+     "id": "9:29.6",
+     "gloss": "hundred",
+     "note": "plural of מֵאָה, 'hundreds': תְּשַׁע מֵאוֹת 'nine hundred'. The entry's only printed sense, '3 hundredth', does not fit, so no sense is given."
+    },
+    {
+     "id": "9:29.7",
+     "gloss": "years"
+    },
+    {
+     "id": "9:29.8",
+     "gloss": "and fifty"
+    },
+    {
+     "id": "9:29.9",
+     "gloss": "years"
+    },
+    {
+     "id": "9:29.10",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:29.1",
+      "9:29.2",
+      "9:29.3",
+      "9:29.4"
+     ],
+     "english": "All the days of Noah were",
+     "literal": "'and-were all-of days-of Noah'"
+    },
+    {
+     "tokens": [
+      "9:29.5",
+      "9:29.6",
+      "9:29.7",
+      "9:29.8",
+      "9:29.9"
+     ],
+     "english": "nine hundred and fifty years",
+     "literal": "'nine hundred year and-fifty year'"
+    },
+    {
+     "tokens": [
+      "9:29.10"
+     ],
+     "english": "and he died",
+     "literal": "'and-died'"
+    }
+   ],
+   "grammar": [
+    "כָּל־יְמֵי־נֹחַ is a construct chain of three words, the subject of וַיִּהְיוּ.",
+    "The plural verb agrees with יְמֵי, 'days'.",
+    "The closing וַיָּמֹת is the formula that ends each life in the genealogy.",
+    "A paragraph break follows, marked פ."
+   ],
+   "note": "The total, nine hundred and fifty, is the sum of the six hundred years before the flood and the three hundred and fifty after.",
+   "commentary": [
+    {
+     "anchor": "sforno:9:29:1",
+     "relation": "records",
+     "summary": "Sforno: וַיָּמֹת comes before the matter intended, the stirring of Abraham to call on the name of the LORD."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: והוו כל יומי נח תשע מאה וחמשין שנין ומית."
+   ]
+  }
+ ]
+}

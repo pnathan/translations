@@ -1,0 +1,1429 @@
+{
+ "unit": "lekh-lekha-04",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "13:5",
+   "english": "Also, Lot, who went with Abram, had flocks and herds and tents.",
+   "literal": "and-also to-Lot the-going with-Abram was flock-and-herd and-tents",
+   "tokens": [
+    {
+     "id": "13:5.1",
+     "gloss": "and also",
+     "note": "gam, 'also', adds Lot to Abram's wealth"
+    },
+    {
+     "id": "13:5.2",
+     "gloss": "to Lot",
+     "note": "the lamed marks possession"
+    },
+    {
+     "id": "13:5.3",
+     "gloss": "who went",
+     "sense": "Qal II.2",
+     "note": "article plus participle, 'the one going', a relative clause"
+    },
+    {
+     "id": "13:5.4",
+     "gloss": "with",
+     "note": "'et as preposition 'with', not the object marker"
+    },
+    {
+     "id": "13:5.5",
+     "gloss": "Abram"
+    },
+    {
+     "id": "13:5.6",
+     "gloss": "there was",
+     "sense": "Qal II.2.h",
+     "note": "hayah le-, 'X had'; the verb is singular and agrees with the nearest noun"
+    },
+    {
+     "id": "13:5.7",
+     "gloss": "flocks"
+    },
+    {
+     "id": "13:5.8",
+     "gloss": "and herds"
+    },
+    {
+     "id": "13:5.9",
+     "gloss": "and tents",
+     "sense": "1",
+     "note": "vocalised with holem on the aleph, see Ibn Ezra"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:5.1"
+     ],
+     "english": "Also",
+     "literal": "'and-also'"
+    },
+    {
+     "tokens": [
+      "13:5.2"
+     ],
+     "english": "Lot",
+     "literal": "'to-Lot'; the lamed marks possession"
+    },
+    {
+     "tokens": [
+      "13:5.3",
+      "13:5.4",
+      "13:5.5"
+     ],
+     "english": "who went with Abram",
+     "literal": "'the-going with-Abram'"
+    },
+    {
+     "tokens": [
+      "13:5.6",
+      "13:5.7",
+      "13:5.8",
+      "13:5.9"
+     ],
+     "english": "had flocks and herds and tents",
+     "literal": "'was flock-and-herd and-tents'; hayah le- is 'have'"
+    }
+   ],
+   "grammar": [
+    "הָיָה with לְ expresses possession; the singular verb agrees with the first of the things possessed, צֹאן.",
+    "הַהֹלֵךְ אֶת־אַבְרָם: participle with the article as a relative clause; אֶת here is the preposition 'with' (not the object marker).",
+    "The etnaḥta on אַבְרָם divides the verse: the description of Lot, then what he had.",
+    "אֹהָלִים has holem after the aleph (Ibn Ezra: singular-type pattern like גּוֹרָל, or like קֹדֶשׁ with the plural באֳהָלִים)."
+   ],
+   "note": "The phrase 'who went with Abram' is kept as a relative clause because it is the cause of Lot's wealth in Rashi and Radak. The verse goes on to say that the land could not hold both. The English puts the possession as 'had'.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:5:1",
+     "relation": "follows",
+     "summary": "Rashi asks who caused him to have this, and answers: his going with Abram. The English keeps 'who went with Abram' so that the cause is visible."
+    },
+    {
+     "anchor": "ibn-ezra:13:5:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra takes אֹהָלִים as the plural of a singular of the qodesh pattern, comparing בָּאֳהָלִים (Jer 35:7), or else as a singular like גּוֹרָל. This concerns the form only; the sense is plain 'tents'."
+    },
+    {
+     "anchor": "radak:13:5:1",
+     "relation": "records",
+     "summary": "Radak: 'also' adds to what was said in 13:2, that Abram was very rich."
+    },
+    {
+     "anchor": "radak:13:5:2",
+     "relation": "records",
+     "summary": "Radak: Lot's good fortune was in the merit of Abram, because he went with him and obeyed him."
+    },
+    {
+     "anchor": "radak:13:5:3",
+     "relation": "records",
+     "summary": "Radak: Abram had many chattels and household members and needed many tents; he also discusses the vocalisation of אֹהָלִים."
+    },
+    {
+     "anchor": "onkelos:13:5:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and also Lot who went with Abram had sheep and oxen and dwellings', agreeing with the plain sense."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders אֹהָלִים by מַשְׁכְּנִין, 'dwellings'."
+   ]
+  },
+  {
+   "ref": "13:6",
+   "english": "But the land could not support them to live together, for their property was great, and they could not live together.",
+   "literal": "and-not bore them the-land to-dwell together for was their-property much and-not could to-dwell together",
+   "tokens": [
+    {
+     "id": "13:6.1",
+     "gloss": "and not"
+    },
+    {
+     "id": "13:6.2",
+     "gloss": "bore",
+     "sense": "Qal 2",
+     "note": "nasa', 'carry, bear', here 'support'; the verb is masculine, though אֶרֶץ is usually feminine"
+    },
+    {
+     "id": "13:6.3",
+     "gloss": "them",
+     "note": "direct object marker with 3mp suffix"
+    },
+    {
+     "id": "13:6.4",
+     "gloss": "the land",
+     "sense": "2"
+    },
+    {
+     "id": "13:6.5",
+     "gloss": "to live",
+     "sense": "Qal 3",
+     "note": "infinitive construct with lamed"
+    },
+    {
+     "id": "13:6.6",
+     "gloss": "together"
+    },
+    {
+     "id": "13:6.7",
+     "gloss": "for"
+    },
+    {
+     "id": "13:6.8",
+     "gloss": "was",
+     "sense": "Qal III"
+    },
+    {
+     "id": "13:6.9",
+     "gloss": "their property"
+    },
+    {
+     "id": "13:6.10",
+     "gloss": "great",
+     "sense": "1.a.(1)"
+    },
+    {
+     "id": "13:6.11",
+     "gloss": "and not"
+    },
+    {
+     "id": "13:6.12",
+     "gloss": "they could",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "13:6.13",
+     "gloss": "to live",
+     "sense": "Qal 3"
+    },
+    {
+     "id": "13:6.14",
+     "gloss": "together"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:6.1",
+      "13:6.2",
+      "13:6.3",
+      "13:6.4",
+      "13:6.5",
+      "13:6.6"
+     ],
+     "english": "But the land could not support them to live together",
+     "literal": "'and-not bore them the-land to-dwell together'; Rashi: the land could not carry them (that is, their pasture)"
+    },
+    {
+     "tokens": [
+      "13:6.7",
+      "13:6.8",
+      "13:6.9",
+      "13:6.10"
+     ],
+     "english": "for their property was great",
+     "literal": "'for was their-property much'"
+    },
+    {
+     "tokens": [
+      "13:6.11",
+      "13:6.12",
+      "13:6.13",
+      "13:6.14"
+     ],
+     "english": "and they could not live together",
+     "literal": "'and-not could to-dwell together'"
+    }
+   ],
+   "grammar": [
+    "נָשָׂא takes אֶרֶץ as a masculine subject (Radak compares נָעַם אָרֶץ in Isa 9:18); Rashi reads it as a short expression, 'the land did not bear them (its pasture)'.",
+    "יַחְדָּו is repeated at both ends of the verse, framing the problem.",
+    "The etnaḥta on יַחְדָּו ends the first clause; the revia' and zaqef on רָב set off the reason.",
+    "The reason (כִּי) comes between the two statements, so the second 'could not' is the result of the great property."
+   ],
+   "note": "Rashi says the expression is short and needs 'with the pasture of the land'. The English keeps the short form 'support them' and does not supply the word. Ibn Ezra reads יַחְדָּו as related to יָחִיד, 'as one'; the English uses 'together'.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:6:1",
+     "relation": "follows",
+     "summary": "Rashi: the land could not provide enough pasture for their livestock; the expression is short and must be completed, 'did not bear them (the pasture of) the land', which is why the verb is masculine. The English 'support them' reflects this."
+    },
+    {
+     "anchor": "ibn-ezra:13:6:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: יַחְדָּו is a word of both singular and plural sense (Exod 19:8), a rare form, not equal to יַחַד but like יָחִיד. The English 'together' leaves this open."
+    },
+    {
+     "anchor": "radak:13:6:1",
+     "relation": "records",
+     "summary": "Radak: אֶרֶץ appears here as masculine, as in נָעַם אָרֶץ (Isa 9:18)."
+    },
+    {
+     "anchor": "radak:13:6:2",
+     "relation": "records",
+     "summary": "Radak: the pasture was too narrow for their livestock together with the livestock of the people of the land."
+    },
+    {
+     "anchor": "radak:13:6:3",
+     "relation": "records",
+     "summary": "Radak: therefore the herders quarrelled, each saying 'we will graze here'."
+    },
+    {
+     "anchor": "onkelos:13:6:1",
+     "relation": "follows",
+     "summary": "Onkelos: the land could not hold them to dwell together, for their possessions were many."
+    },
+    {
+     "anchor": "sforno:13:6:1",
+     "relation": "follows",
+     "summary": "Sforno: the pasture of the land was not enough for both of them, and therefore (the quarrel in verse 7)."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "13:7",
+   "english": "So there was a quarrel between the herders of Abram's livestock and the herders of Lot's livestock. The Canaanites and the Perizzites were then living in the land.",
+   "literal": "and-was quarrel between herders-of livestock-of-Abram and-between herders-of livestock-of-Lot and-the-Canaanite and-the-Perizzite then dwelling in-the-land",
+   "tokens": [
+    {
+     "id": "13:7.1",
+     "gloss": "and there was",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol of hayah"
+    },
+    {
+     "id": "13:7.2",
+     "gloss": "a quarrel"
+    },
+    {
+     "id": "13:7.3",
+     "gloss": "between",
+     "sense": "1"
+    },
+    {
+     "id": "13:7.4",
+     "gloss": "the herders of",
+     "note": "participle in the construct"
+    },
+    {
+     "id": "13:7.5",
+     "gloss": "livestock of"
+    },
+    {
+     "id": "13:7.6",
+     "gloss": "Abram"
+    },
+    {
+     "id": "13:7.7",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "13:7.8",
+     "gloss": "the herders of"
+    },
+    {
+     "id": "13:7.9",
+     "gloss": "livestock of"
+    },
+    {
+     "id": "13:7.10",
+     "gloss": "Lot"
+    },
+    {
+     "id": "13:7.11",
+     "gloss": "and the Canaanite",
+     "note": "gentilic with article, collective"
+    },
+    {
+     "id": "13:7.12",
+     "gloss": "and the Perizzite"
+    },
+    {
+     "id": "13:7.13",
+     "gloss": "then"
+    },
+    {
+     "id": "13:7.14",
+     "gloss": "was dwelling",
+     "sense": "Qal 3",
+     "note": "participle singular after two subjects"
+    },
+    {
+     "id": "13:7.15",
+     "gloss": "in the land",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:7.1",
+      "13:7.2"
+     ],
+     "english": "So there was a quarrel",
+     "literal": "'and-was quarrel'"
+    },
+    {
+     "tokens": [
+      "13:7.3",
+      "13:7.4",
+      "13:7.5",
+      "13:7.6"
+     ],
+     "english": "between the herders of Abram's livestock",
+     "literal": "'between herders-of livestock-of-Abram'"
+    },
+    {
+     "tokens": [
+      "13:7.7",
+      "13:7.8",
+      "13:7.9",
+      "13:7.10"
+     ],
+     "english": "and the herders of Lot's livestock",
+     "literal": "'and-between herders-of livestock-of-Lot'"
+    },
+    {
+     "tokens": [
+      "13:7.11",
+      "13:7.12"
+     ],
+     "english": "The Canaanites and the Perizzites",
+     "literal": "'and-the-Canaanite and-the-Perizzite'"
+    },
+    {
+     "tokens": [
+      "13:7.13",
+      "13:7.14",
+      "13:7.15"
+     ],
+     "english": "were then living in the land",
+     "literal": "'then dwelling in-the-land'"
+    }
+   ],
+   "grammar": [
+    "בֵּין ... וּבֵין: 'between ... and between', the preposition repeated before each party.",
+    "הַכְּנַעֲנִי וְהַפְּרִזִּי are collective singulars; the singular participle יֹשֵׁב follows.",
+    "The clause וְהַכְּנַעֲנִי ... is a circumstantial clause with a noun first.",
+    "אָז is read in Rashi as 'not yet won by Abram', and in the plain sense as 'at that time'."
+   ],
+   "note": "Rashi: the quarrel was because Lot's herders let the animals graze in others' fields and Abram's herders reproved them for theft; this is a midrash of the Rabbis (Gen. Rabbah). Ibn Ezra reads only of the Perizzites as possibly one of Canaan's sons with two names. The English follows the plain sense of the quarrel over grazing, and records the midrashic reason.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:7:1",
+     "relation": "records",
+     "summary": "Rashi gives the cause of the quarrel as the wickedness of Lot's herders, who grazed in others' fields; Abram's herders reproved them, and they replied that the land was given to Abram, who has no heir, so Lot inherits; the verse says the Canaanite was still in the land. The English does not state this cause; it is kept as a midrashic reading."
+    },
+    {
+     "anchor": "ibn-ezra:13:7:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the Perizzite may be one of the sons of Canaan, one of those named, with two names. The English lists the two peoples as in the text."
+    },
+    {
+     "anchor": "ramban:13:7:1",
+     "relation": "records",
+     "summary": "Ramban questions Rashi, since the gift was to Abram's seed, and gives a plain reading of a quarrel over pasture."
+    },
+    {
+     "anchor": "radak:13:7:1",
+     "relation": "not-applicable",
+     "summary": "Radak refers to his earlier comment on the Canaanite."
+    },
+    {
+     "anchor": "radak:13:7:2",
+     "relation": "records",
+     "summary": "Radak: the Perizzite also lived in this land, where Bethel and Ai were."
+    },
+    {
+     "anchor": "onkelos:13:7:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and there was strife between the herders of Abram's cattle and the herders of Lot's cattle; and the Canaanite and the Perizzite then dwelt in the land'."
+    },
+    {
+     "anchor": "sforno:13:7:1",
+     "relation": "follows",
+     "summary": "Sforno: there was a quarrel about who would be pushed aside by whom from the pasture they would find."
+    },
+    {
+     "anchor": "sforno:13:7:2",
+     "relation": "records",
+     "summary": "Sforno: the quarrel between two foreign brothers harms their reputation with the inhabitants."
+    }
+   ],
+   "apparatus": [
+    "Ramban quotes Rashi in full."
+   ]
+  },
+  {
+   "ref": "13:8",
+   "english": "Abram said to Lot, \"Please, let there be no quarrel between me and you, or between my herders and your herders, for we are kinsmen.\"",
+   "literal": "and-said Abram to Lot not please let-be strife between-me and-between-you and-between my-herders and-between your-herders for men brothers we",
+   "tokens": [
+    {
+     "id": "13:8.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "13:8.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "13:8.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "13:8.4",
+     "gloss": "Lot"
+    },
+    {
+     "id": "13:8.5",
+     "gloss": "not",
+     "note": "negative with jussive"
+    },
+    {
+     "id": "13:8.6",
+     "gloss": "please"
+    },
+    {
+     "id": "13:8.7",
+     "gloss": "let there be",
+     "sense": "Qal III",
+     "note": "jussive, feminine to agree with מְרִיבָה"
+    },
+    {
+     "id": "13:8.8",
+     "gloss": "a quarrel"
+    },
+    {
+     "id": "13:8.9",
+     "gloss": "between me",
+     "sense": "1"
+    },
+    {
+     "id": "13:8.10",
+     "gloss": "and between you",
+     "sense": "1"
+    },
+    {
+     "id": "13:8.11",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "13:8.12",
+     "gloss": "my herders"
+    },
+    {
+     "id": "13:8.13",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "13:8.14",
+     "gloss": "your herders"
+    },
+    {
+     "id": "13:8.15",
+     "gloss": "for"
+    },
+    {
+     "id": "13:8.16",
+     "gloss": "men"
+    },
+    {
+     "id": "13:8.17",
+     "gloss": "brothers",
+     "sense": "1"
+    },
+    {
+     "id": "13:8.18",
+     "gloss": "we"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:8.1",
+      "13:8.2",
+      "13:8.3",
+      "13:8.4"
+     ],
+     "english": "Abram said to Lot",
+     "literal": "'and-said Abram to Lot'"
+    },
+    {
+     "tokens": [
+      "13:8.5",
+      "13:8.6",
+      "13:8.7",
+      "13:8.8"
+     ],
+     "english": "\"Please, let there be no quarrel",
+     "literal": "'not please let-be strife'; 'al with the jussive is a polite prohibition"
+    },
+    {
+     "tokens": [
+      "13:8.9",
+      "13:8.10",
+      "13:8.11",
+      "13:8.12",
+      "13:8.13",
+      "13:8.14"
+     ],
+     "english": "between me and you, or between my herders and your herders",
+     "literal": "'between-me and-between-you and-between my-herders and-between your-herders'"
+    },
+    {
+     "tokens": [
+      "13:8.15",
+      "13:8.16",
+      "13:8.17",
+      "13:8.18"
+     ],
+     "english": "for we are kinsmen.\"",
+     "literal": "'for men brothers we'; Rashi: 'close relatives'"
+    }
+   ],
+   "grammar": [
+    "אַל + jussive (תְהִי) is a mild prohibition; נָא softens it.",
+    "The repeated בֵּין is distributive: me and you, my herders and your herders.",
+    "אֲנָשִׁים אַחִים is literally 'men, brothers', an idiom for close kin (Rashi: קרובים; the midrash: alike in appearance).",
+    "The munaḥ and zaqef divide the persons from the herders, as the quarrel moves from the herders to the masters."
+   ],
+   "note": "Rashi reads 'men, brothers' as kinsmen (Lot was Abram's nephew); the English 'kinsmen' follows this. The midrash that they resembled each other is recorded in the commentary.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:8:1",
+     "relation": "follows",
+     "summary": "Rashi: 'men, brothers' means relatives; the midrash aggadah: alike in the features of the face. The English 'kinsmen' follows the plain sense."
+    },
+    {
+     "anchor": "radak:13:8:1",
+     "relation": "records",
+     "summary": "Radak: if the herders quarrel, we cannot avoid quarrelling ourselves."
+    },
+    {
+     "anchor": "onkelos:13:8:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'for we are brothers' (גוּבְרִין אַחִין), agreeing with the plain sense."
+    },
+    {
+     "anchor": "sforno:13:8:1",
+     "relation": "records",
+     "summary": "Sforno: 'between me and you' refers to the future, when one of us chooses a pasture."
+    },
+    {
+     "anchor": "sforno:13:8:2",
+     "relation": "records",
+     "summary": "Sforno: let there be no quarrel, so that his friend too will be content."
+    },
+    {
+     "anchor": "sforno:13:8:3",
+     "relation": "records",
+     "summary": "Sforno: 'now, as we live here'."
+    }
+   ],
+   "apparatus": [
+    "13:8.10: WLC reads וּבֵינֶיךָ, the base וּבֵינֶךָ; the sense is the same."
+   ]
+  },
+  {
+   "ref": "13:9",
+   "english": "Is not the whole land before you? Please separate from me. If you go left, I will go right; and if you go right, I will go left.",
+   "literal": "is-not all-of the-land before-you separate-yourself please from-upon-me if the-left and-I-will-go-right and-if the-right and-I-will-go-left",
+   "tokens": [
+    {
+     "id": "13:9.1",
+     "gloss": "is not",
+     "note": "interrogative ha- plus lo', a question expecting 'yes'"
+    },
+    {
+     "id": "13:9.2",
+     "gloss": "the whole of",
+     "sense": "1"
+    },
+    {
+     "id": "13:9.3",
+     "gloss": "the land",
+     "sense": "2"
+    },
+    {
+     "id": "13:9.4",
+     "gloss": "before you",
+     "note": "literally 'to your face'; Radak: as in 'before me'"
+    },
+    {
+     "id": "13:9.5",
+     "gloss": "separate yourself",
+     "sense": "Niph 1",
+     "note": "Niphal imperative"
+    },
+    {
+     "id": "13:9.6",
+     "gloss": "please"
+    },
+    {
+     "id": "13:9.7",
+     "gloss": "from me",
+     "sense": "IV.2",
+     "note": "'from upon me'"
+    },
+    {
+     "id": "13:9.8",
+     "gloss": "if"
+    },
+    {
+     "id": "13:9.9",
+     "gloss": "left",
+     "sense": "1"
+    },
+    {
+     "id": "13:9.10",
+     "gloss": "and I will go right",
+     "note": "denominative Hiphil cohortative; Rashi: 'I will make myself go right'"
+    },
+    {
+     "id": "13:9.11",
+     "gloss": "and if"
+    },
+    {
+     "id": "13:9.12",
+     "gloss": "right",
+     "sense": "2"
+    },
+    {
+     "id": "13:9.13",
+     "gloss": "and I will go left",
+     "note": "denominative Hiphil cohortative"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:9.1",
+      "13:9.2",
+      "13:9.3",
+      "13:9.4"
+     ],
+     "english": "Is not the whole land before you?",
+     "literal": "'is-not all-of the-land before-you'"
+    },
+    {
+     "tokens": [
+      "13:9.5",
+      "13:9.6",
+      "13:9.7"
+     ],
+     "english": "Please separate from me.",
+     "literal": "'separate-yourself please from-upon-me'"
+    },
+    {
+     "tokens": [
+      "13:9.8",
+      "13:9.9",
+      "13:9.10"
+     ],
+     "english": "If you go left, I will go right",
+     "literal": "'if the-left and-I-will-go-right'; the words 'you go' are supplied"
+    },
+    {
+     "tokens": [
+      "13:9.11",
+      "13:9.12",
+      "13:9.13"
+     ],
+     "english": "and if you go right, I will go left",
+     "literal": "'and-if the-right and-I-will-go-left'"
+    }
+   ],
+   "grammar": [
+    "אֵימִנָה and אַשְׂמְאִילָה are denominative Hiphil verbs from יָמִין and שְׂמֹאל, 'to take the right / the left'; both cohortatives.",
+    "The first form lacks the expected yod of the Hiphil prefix (אֵימִנָה for אַיְמִינָה); Rashi compares לְהֵמִין in 2 Sam 14:19.",
+    "The conditional clauses are elliptical: 'if (you take) the left, then I (will take) the right'.",
+    "Radak reads שְׂמֹאל as north and יָמִין as south, since a person faces east; the English keeps 'left' and 'right' as in the Hebrew."
+   ],
+   "note": "The English supplies 'you go' in the conditional clauses for clarity, which the Hebrew lacks. Rashi's 'I will turn myself to the right' is kept in the literal rendering. Ibn Ezra's note on the aleph of שמאל is a grammatical remark about the root and does not affect the English.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:9:1",
+     "relation": "follows",
+     "summary": "Rashi: wherever you settle, I will not go far from you and will stand by you as protector and helper; in the end he needed him (Gen 14:14). The English leaves the promise as Abram's offer of a free choice."
+    },
+    {
+     "anchor": "rashi:13:9:2",
+     "relation": "follows",
+     "summary": "Rashi: אַיְמִין אֶת עַצְמִי, 'I will turn myself to the right', like וְאַשְׂמְאִילָה, 'I will turn myself to the left'; and the form without yod is like לְהֵמִין (2 Sam 14:19). The English renders both as 'I will go right' and 'I will go left'."
+    },
+    {
+     "anchor": "ibn-ezra:13:9:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וְאֵימִנָה is from the root of יָמִין."
+    },
+    {
+     "anchor": "ibn-ezra:13:9:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it appears that the aleph of שמאל is part of the root, but we do not know, since the word הימיני and השמילי lacks it. This is a point of grammar."
+    },
+    {
+     "anchor": "radak:13:9:1",
+     "relation": "records",
+     "summary": "Radak: 'before you' is like 'before me': wherever you are, its people will not kill you, since God's help will be with you."
+    },
+    {
+     "anchor": "radak:13:9:2",
+     "relation": "records",
+     "summary": "Radak: Abram is the main figure, and Lot dependent, so it is for Lot to part from him; yet he gives Lot the choice."
+    },
+    {
+     "anchor": "radak:13:9:3",
+     "relation": "records",
+     "summary": "Radak: if you go north, I will be in the south, where we are now (cf. 12:9, 13:3)."
+    },
+    {
+     "anchor": "radak:13:9:4",
+     "relation": "records",
+     "summary": "Radak: if you wish to stay in the south, I will go north."
+    },
+    {
+     "anchor": "onkelos:13:9:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'Is not the whole land before you? Separate now from me; if you go north, I will go south, and if you go south, I north', rendering left and right as north and south."
+    },
+    {
+     "anchor": "sforno:13:9:1",
+     "relation": "follows",
+     "summary": "Sforno: you will choose whichever place you wish."
+    },
+    {
+     "anchor": "sforno:13:9:2",
+     "relation": "not-applicable",
+     "summary": "Sforno has only the word 'therefore'."
+    },
+    {
+     "anchor": "sforno:13:9:3",
+     "relation": "follows",
+     "summary": "Sforno: separate to the side you choose, and I will travel to the opposite."
+    },
+    {
+     "anchor": "sforno:13:9:4",
+     "relation": "follows",
+     "summary": "Sforno: if you choose to seek one pasture on the left side."
+    },
+    {
+     "anchor": "sforno:13:9:5",
+     "relation": "follows",
+     "summary": "Sforno: I will seek mine on the right side."
+    }
+   ],
+   "apparatus": [
+    "Onkelos translates 'left' and 'right' as north and south (לְצִפּוּנָא, לְדָרוֹמָא)."
+   ]
+  },
+  {
+   "ref": "13:10",
+   "english": "Lot lifted up his eyes and saw the whole plain of the Jordan, that all of it was well watered, before the LORD destroyed Sodom and Gomorrah, like the garden of the LORD, like the land of Egypt, as you come to Zoar.",
+   "literal": "and-lifted Lot [object-marker] his-eyes and-saw [object-marker] all-of plain-of the-Jordan for all-of-it irrigation before destroying-of the-LORD [object-marker] Sodom and-[object-marker] Gomorrah like-garden-of the-LORD like-land-of Egypt coming-your Zoar",
+   "tokens": [
+    {
+     "id": "13:10.1",
+     "gloss": "and lifted",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "13:10.2",
+     "gloss": "Lot"
+    },
+    {
+     "id": "13:10.3",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "13:10.4",
+     "gloss": "his eyes",
+     "sense": "5",
+     "note": "dual construct with suffix; the entry lists no plain 'eye' sense, so 5 'in view' is the nearest"
+    },
+    {
+     "id": "13:10.5",
+     "gloss": "and saw",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "13:10.6",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "13:10.7",
+     "gloss": "the whole of",
+     "sense": "1"
+    },
+    {
+     "id": "13:10.8",
+     "gloss": "the plain of",
+     "note": "kikkar, 'round district'; Rashi, with Targum: מישור, 'plain'"
+    },
+    {
+     "id": "13:10.9",
+     "gloss": "the Jordan"
+    },
+    {
+     "id": "13:10.10",
+     "gloss": "that"
+    },
+    {
+     "id": "13:10.11",
+     "gloss": "all of it",
+     "sense": "1",
+     "note": "kol with suffix, 'all of it'"
+    },
+    {
+     "id": "13:10.12",
+     "gloss": "well watered",
+     "sense": "1",
+     "note": "mashqeh, 'irrigation' (masculine, though the plain is feminine, Ibn Ezra)"
+    },
+    {
+     "id": "13:10.13",
+     "gloss": "before",
+     "sense": "I.6",
+     "note": "'to the face of'"
+    },
+    {
+     "id": "13:10.14",
+     "gloss": "the LORD destroyed",
+     "sense": "Pi 1",
+     "note": "Piel infinitive construct, a verbal noun with the subject following: 'before the destroying by the LORD'"
+    },
+    {
+     "id": "13:10.15",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "13:10.16",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "13:10.17",
+     "gloss": "Sodom"
+    },
+    {
+     "id": "13:10.18",
+     "gloss": "and -",
+     "note": "object marker"
+    },
+    {
+     "id": "13:10.19",
+     "gloss": "Gomorrah"
+    },
+    {
+     "id": "13:10.20",
+     "gloss": "like the garden of"
+    },
+    {
+     "id": "13:10.21",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "13:10.22",
+     "gloss": "like the land of",
+     "sense": "2"
+    },
+    {
+     "id": "13:10.23",
+     "gloss": "Egypt",
+     "sense": "1.a"
+    },
+    {
+     "id": "13:10.24",
+     "gloss": "as you come",
+     "sense": "Qal 4",
+     "note": "infinitive construct with 2ms suffix, 'in your coming'"
+    },
+    {
+     "id": "13:10.25",
+     "gloss": "Zoar"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:10.1",
+      "13:10.2",
+      "13:10.3",
+      "13:10.4"
+     ],
+     "english": "Lot lifted up his eyes",
+     "literal": "'and-lifted Lot [obj] his-eyes'; Radak: from the hill"
+    },
+    {
+     "tokens": [
+      "13:10.5",
+      "13:10.6",
+      "13:10.7",
+      "13:10.8",
+      "13:10.9"
+     ],
+     "english": "and saw the whole plain of the Jordan",
+     "literal": "'and-saw [obj] all-of plain-of the-Jordan'"
+    },
+    {
+     "tokens": [
+      "13:10.10",
+      "13:10.11",
+      "13:10.12"
+     ],
+     "english": "that all of it was well watered",
+     "literal": "'for all-of-it irrigation'"
+    },
+    {
+     "tokens": [
+      "13:10.13",
+      "13:10.14",
+      "13:10.15",
+      "13:10.16",
+      "13:10.17",
+      "13:10.18",
+      "13:10.19"
+     ],
+     "english": "before the LORD destroyed Sodom and Gomorrah",
+     "literal": "'before destroying-of the-LORD [obj] Sodom and-[obj] Gomorrah'; Rashi: it was a plain"
+    },
+    {
+     "tokens": [
+      "13:10.20",
+      "13:10.21"
+     ],
+     "english": "like the garden of the LORD",
+     "literal": "'like-garden-of the-LORD'; Rashi: for the trees"
+    },
+    {
+     "tokens": [
+      "13:10.22",
+      "13:10.23"
+     ],
+     "english": "like the land of Egypt",
+     "literal": "'like-land-of Egypt'; Rashi: for the crops"
+    },
+    {
+     "tokens": [
+      "13:10.24",
+      "13:10.25"
+     ],
+     "english": "as you come to Zoar",
+     "literal": "'coming-your Zoar'; Rashi: as far as Zoar"
+    }
+   ],
+   "grammar": [
+    "כִּי introduces the reason Lot saw it as attractive: all of it was irrigated.",
+    "לִפְנֵי שַׁחֵת יְהֹוָה: a time phrase with a Piel infinitive; the subject, the LORD, follows the verbal noun (Ibn Ezra: 'before he destroys', infinitive of the intensive stem).",
+    "כְּגַן יְהֹוָה and כְּאֶרֶץ מִצְרַיִם are two similes; the first echoes Eden (2:10), the second Egypt's irrigated fields.",
+    "בֹּאֲכָה צֹעַר: 'as you come to Zoar', with a 2ms suffix that the plain sense treats as a general address (Radak: the speaker addresses the reader who knows the place); Rashi: 'as far as Zoar'."
+   ],
+   "note": "Rashi and Ibn Ezra agree that כִּכָּר is a plain/region of vegetation. The English 'plain' follows Rashi and the Targum. Rashi takes 'garden of the LORD' as trees and 'land of Egypt' as crops; the English leaves both similes as written. The clause 'before the LORD destroyed Sodom and Gomorrah' is the narrator's aside and is kept in place. Rashi (Ramban records the other) takes בֹּאֲכָה as 'as far as'; the English 'as you come to Zoar' keeps the Hebrew's form and the sense 'up to'.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:10:1",
+     "relation": "follows",
+     "summary": "Rashi: מַשְׁקֶה means a land of water-streams. The English 'well watered' follows."
+    },
+    {
+     "anchor": "rashi:13:10:2",
+     "relation": "follows",
+     "summary": "Rashi: before the destruction that plain was level land. The English keeps the aside."
+    },
+    {
+     "anchor": "rashi:13:10:3",
+     "relation": "follows",
+     "summary": "Rashi: 'like the garden of the LORD' refers to trees. The English keeps the simile and records this in the notes."
+    },
+    {
+     "anchor": "rashi:13:10:4",
+     "relation": "follows",
+     "summary": "Rashi (Gen. Rabbah): 'like the land of Egypt' refers to crops. The English keeps the simile and records this in the notes."
+    },
+    {
+     "anchor": "rashi:13:10:5",
+     "relation": "follows",
+     "summary": "Rashi: בֹּאֲכָה צֹעַר means 'as far as Zoar'; the aggadic midrash reads it against Lot, since he chose to live near the licentious. The English 'as you come to Zoar' gives the Hebrew idiom with the sense 'up to Zoar'."
+    },
+    {
+     "anchor": "ibn-ezra:13:10:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: כִּכָּר is a place of vegetation, the kaf either doubled or missing, like מֶכֶר (Isa 30:23) or בַּת עַיִן from בְּבָבַת עֵינוֹ. The English 'plain' is consistent with this."
+    },
+    {
+     "anchor": "ibn-ezra:13:10:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the masculine מַשְׁקֶה follows the feminine כֻּלָּהּ, as in 'fire not blown shall consume him' (Job 20:26). A grammatical point."
+    },
+    {
+     "anchor": "ibn-ezra:13:10:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: לִפְנֵי שַׁחֵת means 'before he destroys', and שַׁחֵת is a verbal noun from the Piel stem. The English 'before the LORD destroyed' follows."
+    },
+    {
+     "anchor": "ramban:13:10:1",
+     "relation": "records",
+     "summary": "Ramban: the whole plain was irrigated by foot from the Jordan, as the garden of the LORD (2:10) and Egypt (Deut 11:10); the Rabbis said garden for trees and Egypt for crops, meaning great rivers and streams in the plain, good for pasture."
+    },
+    {
+     "anchor": "radak:13:10:1",
+     "relation": "records",
+     "summary": "Radak: Lot looked from the hill where they were, a high place, and saw the plain, a land for livestock because it was all well watered."
+    },
+    {
+     "anchor": "radak:13:10:2",
+     "relation": "not-applicable",
+     "summary": "Radak's comment on כֻּלָּהּ is cut off in the pack."
+    },
+    {
+     "anchor": "radak:13:10:3",
+     "relation": "records",
+     "summary": "Radak: כָּל here is for emphasis, as in 'all the kings of the nations, all of them' (Isa 14:18)."
+    },
+    {
+     "anchor": "radak:13:10:4",
+     "relation": "records",
+     "summary": "Radak: כִּכָּר is, as the Targum, a plain; it was near the land of Sodom and Gomorrah and, before it changed, like the garden of the LORD, Eden, watered by four rivers."
+    },
+    {
+     "anchor": "radak:13:10:5",
+     "relation": "records",
+     "summary": "Radak: the Nile waters Egypt, all of it."
+    },
+    {
+     "anchor": "radak:13:10:6",
+     "relation": "records",
+     "summary": "Radak: the he of בֹּאֲכָה is like that of הַנִּצֶּבֶת עִמָּךְ (1 Sam 1:26); the kaf is not an addition but addresses the hearer who knows the place; the sense is that the place was watered as far as Zoar."
+    },
+    {
+     "anchor": "onkelos:13:10:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'Lot lifted his eyes and saw all the plain of the Jordan, for all of it was a place of water, before the LORD destroyed Sodom and Gomorrah, like the garden of the LORD, like the land of Egypt, reaching to Zoar'."
+    }
+   ],
+   "apparatus": [
+    "The Targum renders כִּכָּר by מֵישַׁר, 'plain'.",
+    "BDB entry for עַיִן in the pack lists no plain sense 'eye'."
+   ]
+  },
+  {
+   "ref": "13:11",
+   "english": "Lot chose for himself the whole plain of the Jordan, and Lot set out from the east, and they separated, one from the other.",
+   "literal": "and-chose for-him Lot [object-marker] all-of plain-of the-Jordan and-set-out Lot from-east and-separated man from-upon his-brother",
+   "tokens": [
+    {
+     "id": "13:11.1",
+     "gloss": "and chose",
+     "sense": "Qal 3",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "13:11.2",
+     "gloss": "for himself",
+     "note": "ethical dative, lo"
+    },
+    {
+     "id": "13:11.3",
+     "gloss": "Lot"
+    },
+    {
+     "id": "13:11.4",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "13:11.5",
+     "gloss": "the whole of",
+     "sense": "1"
+    },
+    {
+     "id": "13:11.6",
+     "gloss": "the plain of"
+    },
+    {
+     "id": "13:11.7",
+     "gloss": "the Jordan"
+    },
+    {
+     "id": "13:11.8",
+     "gloss": "and set out",
+     "sense": "Qal 2.b",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "13:11.9",
+     "gloss": "Lot"
+    },
+    {
+     "id": "13:11.10",
+     "gloss": "from the east",
+     "sense": "1.b",
+     "note": "min plus qedem; Rashi and Ibn Ezra: 'from the east'"
+    },
+    {
+     "id": "13:11.11",
+     "gloss": "and separated",
+     "sense": "Niph 2",
+     "note": "wayyiqtol Niphal, plural"
+    },
+    {
+     "id": "13:11.12",
+     "gloss": "each"
+    },
+    {
+     "id": "13:11.13",
+     "gloss": "from",
+     "sense": "IV.2"
+    },
+    {
+     "id": "13:11.14",
+     "gloss": "his brother",
+     "note": "''"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:11.1",
+      "13:11.2",
+      "13:11.3",
+      "13:11.4",
+      "13:11.5",
+      "13:11.6",
+      "13:11.7"
+     ],
+     "english": "Lot chose for himself the whole plain of the Jordan",
+     "literal": "'and-chose for-him Lot [obj] all-of plain-of the-Jordan'"
+    },
+    {
+     "tokens": [
+      "13:11.8",
+      "13:11.9",
+      "13:11.10"
+     ],
+     "english": "and Lot set out from the east",
+     "literal": "'and-set-out Lot from-east'"
+    },
+    {
+     "tokens": [
+      "13:11.11",
+      "13:11.12",
+      "13:11.13",
+      "13:11.14"
+     ],
+     "english": "and they separated, one from the other",
+     "literal": "'and-separated man from-upon his-brother'"
+    }
+   ],
+   "grammar": [
+    "לוֹ after the verb is a reflexive dative: 'for himself'.",
+    "מִקֶּדֶם: 'from the east' or 'from of old'; Rashi and Ibn Ezra read it of direction (Sodom is west of Bethel); the midrash reads 'from of old'.",
+    "אִישׁ מֵעַל אָחִיו is the idiom for 'each from the other'; the Niphal plural is reciprocal.",
+    "The etnaḥta on מִקֶּדֶם divides Lot's journey from the separation."
+   ],
+   "note": "The English follows Rashi (plain sense) and Ibn Ezra: Lot set out from the east, travelling westward, because Sodom lies west of Bethel. Radak and Sforno take the sense differently (eastward, from the Jordan region). The midrash 'from the Ancient One of the world' is recorded in the commentary.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:11:1",
+     "relation": "follows",
+     "summary": "Rashi: כִּכָּר means plain, as the Targum."
+    },
+    {
+     "anchor": "rashi:13:11:2",
+     "relation": "follows",
+     "summary": "Rashi: Lot left Abram's side and went to Abram's west, so he travelled from east to west; the aggadah: he removed himself from the Ancient One of the world, saying 'I want neither Abram nor his God'. The English follows the plain sense 'from the east'."
+    },
+    {
+     "anchor": "ibn-ezra:13:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: because Sodom is west of Bethel. The English 'from the east' is consistent with this."
+    },
+    {
+     "anchor": "radak:13:11:1",
+     "relation": "records",
+     "summary": "Radak: Lot chose one of the places in the whole plain, since all were good."
+    },
+    {
+     "anchor": "radak:13:11:2",
+     "relation": "records",
+     "summary": "Radak: Lot set out toward the east, since the Jordan is east of Canaan; the mem is explained by the earlier 'he went on his journeys from the Negev to Bethel' (13:3). The English does not adopt this."
+    },
+    {
+     "anchor": "radak:13:11:3",
+     "relation": "records",
+     "summary": "Radak: the two separated since Lot moved far away; Lot dwelt in the cities of the plain, finally in Sodom, unaffected by their wickedness."
+    },
+    {
+     "anchor": "onkelos:13:11:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'Lot chose for himself all the plain of the Jordan and Lot journeyed from the east, and they parted, a man from his brother'."
+    },
+    {
+     "anchor": "sforno:13:11:1",
+     "relation": "records",
+     "summary": "Sforno: he chose all the place where he alone and his herders could seek pasture, so that Abraham and his herders could not be there."
+    },
+    {
+     "anchor": "sforno:13:11:2",
+     "relation": "records",
+     "summary": "Sforno: he travelled neither right nor left (north or south), but from east to west to be far from Abraham, who lived in the east of the land near Ai."
+    },
+    {
+     "anchor": "sforno:13:11:3",
+     "relation": "records",
+     "summary": "Sforno: they separated not in pasture only but in their dwelling."
+    }
+   ],
+   "apparatus": [
+    "מִקֶּדֶם can mean 'from the east' or 'from of old' (Rashi's midrash)."
+   ]
+  },
+  {
+   "ref": "13:12",
+   "english": "Abram lived in the land of Canaan, while Lot lived in the cities of the plain and pitched his tent as far as Sodom.",
+   "literal": "Abram dwelt in-land-of Canaan and-Lot dwelt in-cities-of the-plain and-pitched-tent up-to Sodom",
+   "tokens": [
+    {
+     "id": "13:12.1",
+     "gloss": "Abram"
+    },
+    {
+     "id": "13:12.2",
+     "gloss": "lived",
+     "sense": "Qal 3"
+    },
+    {
+     "id": "13:12.3",
+     "gloss": "in the land of",
+     "sense": "2"
+    },
+    {
+     "id": "13:12.4",
+     "gloss": "Canaan"
+    },
+    {
+     "id": "13:12.5",
+     "gloss": "and Lot"
+    },
+    {
+     "id": "13:12.6",
+     "gloss": "lived",
+     "sense": "Qal 3"
+    },
+    {
+     "id": "13:12.7",
+     "gloss": "in the cities of",
+     "sense": "1"
+    },
+    {
+     "id": "13:12.8",
+     "gloss": "the plain"
+    },
+    {
+     "id": "13:12.9",
+     "gloss": "and pitched his tent",
+     "sense": "Pi",
+     "note": "denominative from 'ohel; the entry lists only Pi"
+    },
+    {
+     "id": "13:12.10",
+     "gloss": "as far as",
+     "sense": "II.1"
+    },
+    {
+     "id": "13:12.11",
+     "gloss": "Sodom"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:12.1",
+      "13:12.2",
+      "13:12.3",
+      "13:12.4"
+     ],
+     "english": "Abram lived in the land of Canaan",
+     "literal": "'Abram dwelt in-land-of Canaan'"
+    },
+    {
+     "tokens": [
+      "13:12.5",
+      "13:12.6",
+      "13:12.7",
+      "13:12.8"
+     ],
+     "english": "while Lot lived in the cities of the plain",
+     "literal": "'and-Lot dwelt in-cities-of the-plain'"
+    },
+    {
+     "tokens": [
+      "13:12.9",
+      "13:12.10",
+      "13:12.11"
+     ],
+     "english": "and pitched his tent as far as Sodom",
+     "literal": "'and-pitched-tent up-to Sodom'"
+    }
+   ],
+   "grammar": [
+    "Both main clauses open with the subject, setting Abram and Lot in contrast.",
+    "וַיֶּאֱהַל is a denominative wayyiqtol from אֹהֶל, 'he pitched his tent' (Ibn Ezra: נטה אהליו).",
+    "עַד־סְדֹם: up to Sodom, not into it; the narrative prepares for 13:13 and 14:12.",
+    "The parse in the pack gives the verb as Qal; the lexicon entry lists only Pi, and the Qal is retained here."
+   ],
+   "note": "The pack parses וַיֶּאֱהַל as qal but the lexicon entry lists only a Pi sense, which is cited; this is flagged here for the reviewer. Ramban records that Abram moved through the whole land of Canaan while Lot settled in one part.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:12:1",
+     "relation": "follows",
+     "summary": "Rashi: he pitched tents for his herders and his livestock as far as Sodom."
+    },
+    {
+     "anchor": "ibn-ezra:13:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'he stretched out his tents'."
+    },
+    {
+     "anchor": "ramban:13:12:1",
+     "relation": "not-applicable",
+     "summary": "Ramban's whole-verse comment is cut to a single word in the pack."
+    },
+    {
+     "anchor": "ramban:13:12:2",
+     "relation": "records",
+     "summary": "Ramban: Abram lived in the rest of Canaan, not staying in one place; Lot settled in one place in the cities of the plain, which belong to Canaan; 'in the cities of the plain' means now here, now there, because of the great herds."
+    },
+    {
+     "anchor": "radak:13:12:1",
+     "relation": "records",
+     "summary": "Radak: he moved his tent from place to place until he came as far as Sodom."
+    },
+    {
+     "anchor": "onkelos:13:12:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'Abram dwelt in the land of Canaan, and Lot dwelt in the cities of the plain and pitched his tent as far as Sodom'."
+    },
+    {
+     "anchor": "sforno:13:12:1",
+     "relation": "records",
+     "summary": "Sforno: though Sodom and her allies were on the Canaanite border, the inhabitants were not Canaanites; Abram chose the part where the Canaanites lived, who were not so wicked as the men of Sodom, and did not come near Sodom's border."
+    }
+   ],
+   "apparatus": []
+  }
+ ]
+}

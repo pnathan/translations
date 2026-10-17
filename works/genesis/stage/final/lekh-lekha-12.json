@@ -1,0 +1,1185 @@
+{
+ "unit": "lekh-lekha-12",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "16:1",
+   "english": "Now Sarai, Abram's wife, had not borne him a child. She had an Egyptian maidservant, and her name was Hagar.",
+   "literal": "and-Sarai wife-of Abram not bore to-him and-to-her maidservant Egyptian and-name-her Hagar",
+   "tokens": [
+    {
+     "id": "16:1.1",
+     "gloss": "and"
+    },
+    {
+     "id": "16:1.2",
+     "gloss": "wife of",
+     "sense": "2",
+     "note": "construct state"
+    },
+    {
+     "id": "16:1.3",
+     "gloss": "Abram"
+    },
+    {
+     "id": "16:1.4",
+     "gloss": "not"
+    },
+    {
+     "id": "16:1.5",
+     "gloss": "bore",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:1.6",
+     "gloss": "to him"
+    },
+    {
+     "id": "16:1.7",
+     "gloss": "and she had (lit. and to her)"
+    },
+    {
+     "id": "16:1.8",
+     "gloss": "maidservant"
+    },
+    {
+     "id": "16:1.9",
+     "gloss": "Egyptian"
+    },
+    {
+     "id": "16:1.10",
+     "gloss": "and her name",
+     "sense": "3"
+    },
+    {
+     "id": "16:1.11",
+     "gloss": "Hagar"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:1.1",
+      "16:1.2",
+      "16:1.3"
+     ],
+     "english": "Now Sarai, Abram's wife,",
+     "literal": "'and-Sarai wife-of Abram'; the opening waw is circumstantial, setting the scene"
+    },
+    {
+     "tokens": [
+      "16:1.4",
+      "16:1.5",
+      "16:1.6"
+     ],
+     "english": "had not borne him a child",
+     "literal": "'not bore to-him'; the object (a child) is understood"
+    },
+    {
+     "tokens": [
+      "16:1.7",
+      "16:1.8",
+      "16:1.9"
+     ],
+     "english": "She had an Egyptian maidservant",
+     "literal": "'and-to-her maidservant Egyptian': possession expressed by lamed + suffix"
+    },
+    {
+     "tokens": [
+      "16:1.10",
+      "16:1.11"
+     ],
+     "english": "and her name was Hagar",
+     "literal": "'and-name-her Hagar'"
+    }
+   ],
+   "grammar": [
+    "The sentence opens with waw + subject, not a wayyiqtol: it gives background, not a new event.",
+    "Possession is expressed with the preposition ל: וְלָהּ שִׁפְחָה 'and to her (there was) a maidservant'.",
+    "The accents pair מִצְרִית with שִׁפְחָה under a tipha and divide the verse at the etnahta after לוֹ."
+   ],
+   "note": "The negated perfect יָלְדָה is rendered 'had not borne' since it reports the state at the time of the story. 'A child' supplies the unexpressed object.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:1:1",
+     "relation": "records",
+     "summary": "Rashi, from Bereshit Rabbah: Hagar was Pharaoh's daughter. When Pharaoh saw the miracles done for Sarah, he said: better that my daughter be a maidservant in this house than a mistress in another. The English keeps the plain 'Egyptian maidservant' and records this identification."
+    }
+   ]
+  },
+  {
+   "ref": "16:2",
+   "english": "Sarai said to Abram, \"Look, the LORD has kept me from bearing children. Please go in to my maidservant; perhaps I shall be built up through her.\" And Abram listened to Sarai's voice.",
+   "literal": "and-said Sarai to Abram behold-now restrained-me the-LORD from-bearing come-now to maidservant-my perhaps I-shall-be-built from-her and-listened Abram to-voice-of Sarai",
+   "tokens": [
+    {
+     "id": "16:2.1",
+     "gloss": "and she said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:2.2",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "16:2.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "16:2.4",
+     "gloss": "Abram"
+    },
+    {
+     "id": "16:2.5",
+     "gloss": "behold"
+    },
+    {
+     "id": "16:2.6",
+     "gloss": "now (particle of entreaty)"
+    },
+    {
+     "id": "16:2.7",
+     "gloss": "has restrained me",
+     "sense": "Qal 1",
+     "note": "the suffix is 'me'; 3ms perfect"
+    },
+    {
+     "id": "16:2.8",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "16:2.9",
+     "gloss": "from bearing",
+     "sense": "Qal 1",
+     "note": "infinitive construct with מִן, 'from bearing'"
+    },
+    {
+     "id": "16:2.10",
+     "gloss": "go in",
+     "sense": "Qal 1",
+     "note": "idiom: go in to = have intercourse with"
+    },
+    {
+     "id": "16:2.11",
+     "gloss": "please"
+    },
+    {
+     "id": "16:2.12",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "16:2.13",
+     "gloss": "my maidservant"
+    },
+    {
+     "id": "16:2.14",
+     "gloss": "perhaps",
+     "sense": "1"
+    },
+    {
+     "id": "16:2.15",
+     "gloss": "I shall be built up",
+     "sense": "Niph. 1.a",
+     "note": "Niphal, a play on בֵּן 'son'"
+    },
+    {
+     "id": "16:2.16",
+     "gloss": "from her"
+    },
+    {
+     "id": "16:2.17",
+     "gloss": "and he heard, obeyed"
+    },
+    {
+     "id": "16:2.18",
+     "gloss": "Abram"
+    },
+    {
+     "id": "16:2.19",
+     "gloss": "to the voice of"
+    },
+    {
+     "id": "16:2.20",
+     "gloss": "Sarai"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:2.1",
+      "16:2.2",
+      "16:2.3",
+      "16:2.4"
+     ],
+     "english": "Sarai said to Abram",
+     "literal": "'and-said Sarai to Abram'"
+    },
+    {
+     "tokens": [
+      "16:2.5",
+      "16:2.6",
+      "16:2.7",
+      "16:2.8",
+      "16:2.9"
+     ],
+     "english": "Look, the LORD has kept me from bearing children.",
+     "literal": "'behold-now restrained-me the-LORD from-bearing'; the object 'children' is understood"
+    },
+    {
+     "tokens": [
+      "16:2.10",
+      "16:2.11",
+      "16:2.12",
+      "16:2.13"
+     ],
+     "english": "Please go in to my maidservant;",
+     "literal": "'come-now to maidservant-my'; 'come to' is a euphemism for intercourse"
+    },
+    {
+     "tokens": [
+      "16:2.14",
+      "16:2.15",
+      "16:2.16"
+     ],
+     "english": "perhaps I shall be built up through her",
+     "literal": "'perhaps I-shall-be-built from-her'; Niphal of בנה"
+    },
+    {
+     "tokens": [
+      "16:2.17",
+      "16:2.18",
+      "16:2.19",
+      "16:2.20"
+     ],
+     "english": "And Abram listened to Sarai's voice.",
+     "literal": "'and-listened Abram to-voice-of Sarai'; the idiom means he obeyed her"
+    }
+   ],
+   "grammar": [
+    "אִבָּנֶה is a Niphal imperfect 1cs of בנה (a III-ה verb): the dagesh in ב is the assimilated נ of the Niphal (from *ʾinbāneh). The sound-play with בֵּן 'son' is the point.",
+    "בֹּא־נָא is a polite imperative: 'come now, please'.",
+    "שָׁמַע לְקוֹל, 'to listen to the voice of', means to obey.",
+    "The zaqef on מִלֶּדֶת and the etnahta on מִמֶּנָּה mark the two halves of her speech."
+   ],
+   "note": "The English keeps 'built up' so that the connection with 'son' is preserved in the notes. 'Listened to' keeps the idiom; 'obeyed' is the sense.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:2:1",
+     "relation": "follows",
+     "summary": "Rashi: the verse teaches that one who has no children is not built up but ruined. This supports 'built up' as the metaphor."
+    },
+    {
+     "anchor": "rashi:16:2:2",
+     "relation": "records",
+     "summary": "Rashi: 'I shall be built up' through the merit of bringing my rival into my house. This reading of the cause is recorded, not adopted."
+    },
+    {
+     "anchor": "rashi:16:2:3",
+     "relation": "records",
+     "summary": "Rashi, from Bereshit Rabbah: 'to the voice of Sarai' means to the holy spirit in her. Recorded as homiletic."
+    },
+    {
+     "anchor": "ibn-ezra:16:2:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אִבָּנֶה is from the word בֵּן 'son'; or else the son is called בֵּן because he is like a building (בניין) of which the father is the foundation, בֵּן having lost the ה of בנה. The English 'built up' keeps the building image and the notes give the link with 'son'."
+    },
+    {
+     "anchor": "ibn-ezra:16:2:2",
+     "relation": "records",
+     "summary": "Ibn Ezra glosses וַיִּשְׁמַע אַבְרָם as 'he said so to her', that is, he assented to her. The English keeps 'listened to', the ordinary meaning of the idiom."
+    }
+   ],
+   "apparatus": [
+    "Ramban: Abram did not seek to be built up from Hagar himself; he consented only to do Sarai's will, and took no step without her (not normative).",
+    "Radak: the plan seemed right to Abram, since he thought that, Sarai having ceased to bear, the promised seed would come through Hagar; he did not wait for God's word (not normative)."
+   ]
+  },
+  {
+   "ref": "16:3",
+   "english": "Then Sarai, Abram's wife, took Hagar the Egyptian, her maidservant, at the end of ten years of Abram's dwelling in the land of Canaan, and gave her to Abram her husband to be his wife.",
+   "literal": "and-took Sarai wife-of Abram [obj] Hagar the-Egyptian maidservant-her from-end-of ten years to-dwell Abram in-land-of Canaan and-gave [obj]-her to-Abram husband-her to-him as-wife",
+   "tokens": [
+    {
+     "id": "16:3.1",
+     "gloss": "and took",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:3.2",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "16:3.3",
+     "gloss": "wife of",
+     "sense": "2"
+    },
+    {
+     "id": "16:3.4",
+     "gloss": "Abram"
+    },
+    {
+     "id": "16:3.5",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "16:3.6",
+     "gloss": "Hagar"
+    },
+    {
+     "id": "16:3.7",
+     "gloss": "the Egyptian"
+    },
+    {
+     "id": "16:3.8",
+     "gloss": "her maidservant"
+    },
+    {
+     "id": "16:3.9",
+     "gloss": "at the end of",
+     "sense": "1"
+    },
+    {
+     "id": "16:3.10",
+     "gloss": "ten"
+    },
+    {
+     "id": "16:3.11",
+     "gloss": "years"
+    },
+    {
+     "id": "16:3.12",
+     "gloss": "to dwell, of dwelling",
+     "sense": "Qal 3"
+    },
+    {
+     "id": "16:3.13",
+     "gloss": "Abram"
+    },
+    {
+     "id": "16:3.14",
+     "gloss": "in the land of",
+     "sense": "2"
+    },
+    {
+     "id": "16:3.15",
+     "gloss": "Canaan"
+    },
+    {
+     "id": "16:3.16",
+     "gloss": "and gave",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:3.17",
+     "gloss": "her (object marker + suffix)"
+    },
+    {
+     "id": "16:3.18",
+     "gloss": "to Abram"
+    },
+    {
+     "id": "16:3.19",
+     "gloss": "her husband"
+    },
+    {
+     "id": "16:3.20",
+     "gloss": "to him"
+    },
+    {
+     "id": "16:3.21",
+     "gloss": "as a wife",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:3.1",
+      "16:3.2",
+      "16:3.3",
+      "16:3.4"
+     ],
+     "english": "Then Sarai, Abram's wife, took",
+     "literal": "'and-took Sarai wife-of Abram'"
+    },
+    {
+     "tokens": [
+      "16:3.5",
+      "16:3.6",
+      "16:3.7",
+      "16:3.8"
+     ],
+     "english": "Hagar the Egyptian, her maidservant,",
+     "literal": "'[obj] Hagar the-Egyptian maidservant-her'"
+    },
+    {
+     "tokens": [
+      "16:3.9",
+      "16:3.10",
+      "16:3.11"
+     ],
+     "english": "at the end of ten years",
+     "literal": "'from-end-of ten years'; מִקֵּץ is 'from the end of', 'after'"
+    },
+    {
+     "tokens": [
+      "16:3.12",
+      "16:3.13",
+      "16:3.14",
+      "16:3.15"
+     ],
+     "english": "of Abram's dwelling in the land of Canaan",
+     "literal": "'to-dwell Abram in-land-of Canaan'; infinitive with ל gives the period counted"
+    },
+    {
+     "tokens": [
+      "16:3.16",
+      "16:3.17",
+      "16:3.18",
+      "16:3.19"
+     ],
+     "english": "and gave her to Abram her husband",
+     "literal": "'and-gave [obj]-her to-Abram husband-her'"
+    },
+    {
+     "tokens": [
+      "16:3.20",
+      "16:3.21"
+     ],
+     "english": "to be his wife",
+     "literal": "'to-him as-wife'"
+    }
+   ],
+   "grammar": [
+    "Two wayyiqtols, וַתִּקַּח and וַתִּתֵּן, carry the narrative; the intervening phrases are all attached to the first.",
+    "מִקֵּץ is a construct 'from the end of'; לְשֶׁבֶת is an infinitive construct of ישב with ל.",
+    "The accents separate 'ten years' (zaqef) from 'of Abram's dwelling' (tipha)."
+   ],
+   "note": "The English ties the ten years to Abram's dwelling in the land of Canaan, as Rashi reads it (years outside the land do not count). Ibn Ezra takes the verse as a support (asmakhta) for the rule of ten years; he says nothing about where they were counted. 'Took' is kept as plain narrative; Rashi's 'took her with words' is recorded.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:3:1",
+     "relation": "records",
+     "summary": "Rashi, from Bereshit Rabbah: she took her by words, saying 'happy are you to cleave to such a holy body'. The English says only 'took'."
+    },
+    {
+     "anchor": "rashi:16:3:2",
+     "relation": "follows",
+     "summary": "Rashi: ten years is the fixed term for a woman who has lived ten years without bearing to her husband, after which he must marry another. This explains the mention of ten years."
+    },
+    {
+     "anchor": "rashi:16:3:3",
+     "relation": "follows",
+     "summary": "Rashi: the verse teaches that residence outside the land does not count toward the ten years. The English ties the ten years to dwelling 'in the land of Canaan'."
+    },
+    {
+     "anchor": "ibn-ezra:16:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the ancients taught that a man should not stay with his wife more than ten years if she does not bear; the verse is a support (asmakhta) for this and it is good. The ten years are taken as significant."
+    }
+   ],
+   "apparatus": [
+    "Ramban accepts that years outside the land do not count, but rejects Rashi's reason (the promise 'I will make you a great nation'): the rule holds for everyone, and a couple who come to the land are given ten years from their arrival, as Abram and Sarai counted (not normative)."
+   ]
+  },
+  {
+   "ref": "16:4",
+   "english": "He went in to Hagar, and she conceived. She saw that she had conceived, and her mistress became of little account in her eyes.",
+   "literal": "and-went-in to Hagar and-conceived and-saw that conceived and-was-slight mistress-her in-eyes-her",
+   "tokens": [
+    {
+     "id": "16:4.1",
+     "gloss": "and he went in",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; 'go in to' = have intercourse"
+    },
+    {
+     "id": "16:4.2",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "16:4.3",
+     "gloss": "Hagar"
+    },
+    {
+     "id": "16:4.4",
+     "gloss": "and she conceived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3fs"
+    },
+    {
+     "id": "16:4.5",
+     "gloss": "and she saw",
+     "sense": "Qal 1.a"
+    },
+    {
+     "id": "16:4.6",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "16:4.7",
+     "gloss": "she had conceived",
+     "sense": "Qal 1",
+     "note": "perfect"
+    },
+    {
+     "id": "16:4.8",
+     "gloss": "and was slight",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 3fs; Ibn Ezra reads it as Niphal"
+    },
+    {
+     "id": "16:4.9",
+     "gloss": "her mistress",
+     "sense": "2"
+    },
+    {
+     "id": "16:4.10",
+     "gloss": "in her eyes",
+     "sense": "5",
+     "note": "dual construct; 'in her eyes' = in her judgement"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:4.1",
+      "16:4.2",
+      "16:4.3",
+      "16:4.4"
+     ],
+     "english": "He went in to Hagar, and she conceived.",
+     "literal": "'and-went-in to Hagar and-conceived'; two wayyiqtols in quick succession"
+    },
+    {
+     "tokens": [
+      "16:4.5",
+      "16:4.6",
+      "16:4.7"
+     ],
+     "english": "She saw that she had conceived,",
+     "literal": "'and-saw that conceived'"
+    },
+    {
+     "tokens": [
+      "16:4.8",
+      "16:4.9",
+      "16:4.10"
+     ],
+     "english": "and her mistress became of little account in her eyes",
+     "literal": "'and-was-slight mistress-her in-eyes-her'"
+    }
+   ],
+   "grammar": [
+    "A chain of wayyiqtols (וַיָּבֹא, וַתַּהַר, וַתֵּרֶא, וַתֵּקַל) moves the story at speed.",
+    "וַתֵּרֶא כִּי הָרָתָה: ראה + כִּי 'saw that', with the perfect הָרָתָה giving the state seen.",
+    "בְּעֵינֶיהָ 'in her eyes' is the idiom for her estimate of things."
+   ],
+   "note": "The data parse וַתֵּקַל as Qal of קלל ('be slight'). Ibn Ezra takes the form as Niphal, with the doubled letter absorbed; the pack's parse is kept and the difference is noted. The meaning 'was lightly regarded' is the same either way.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:4:1",
+     "relation": "follows",
+     "summary": "Rashi, from Bereshit Rabbah: she conceived from the first union. The English 'went in ... and she conceived' fits this."
+    },
+    {
+     "anchor": "rashi:16:4:2",
+     "relation": "records",
+     "summary": "Rashi, from Bereshit Rabbah: Hagar said that Sarai's inner life did not match her outward show of righteousness, since she had not conceived in all those years. A homiletic reading of the cause, recorded."
+    },
+    {
+     "anchor": "ibn-ezra:16:4:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: the 'hidden letter' under the dagesh in וַתֵּקַל shows that it is of the Niphal stem. The pack parses it as Qal and the English reads the sense the same way."
+    }
+   ],
+   "apparatus": [
+    "Radak: Hagar thought that since Abraham's seed would come from her she would be the mistress, so she ignored Sarai's commands."
+   ]
+  },
+  {
+   "ref": "16:5",
+   "english": "Sarai said to Abram, \"The wrong done to me is on you! I myself gave my maidservant into your arms, and when she saw that she had conceived, I became of little account in her eyes. May the LORD judge between me and you.\"",
+   "literal": "and-said Sarai to Abram my-violence upon-you I gave maidservant-my in-bosom-your and-saw that conceived and-I-was-slight in-eyes-her may-judge the-LORD between-me and-between-you",
+   "tokens": [
+    {
+     "id": "16:5.1",
+     "gloss": "and she said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:5.2",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "16:5.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "16:5.4",
+     "gloss": "Abram"
+    },
+    {
+     "id": "16:5.5",
+     "gloss": "my wrong"
+    },
+    {
+     "id": "16:5.6",
+     "gloss": "on you",
+     "sense": "II"
+    },
+    {
+     "id": "16:5.7",
+     "gloss": "I myself"
+    },
+    {
+     "id": "16:5.8",
+     "gloss": "I gave",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:5.9",
+     "gloss": "my maidservant"
+    },
+    {
+     "id": "16:5.10",
+     "gloss": "into your arms",
+     "sense": "3"
+    },
+    {
+     "id": "16:5.11",
+     "gloss": "and she saw",
+     "sense": "Qal 1.a"
+    },
+    {
+     "id": "16:5.12",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "16:5.13",
+     "gloss": "she had conceived",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:5.14",
+     "gloss": "and I was slight",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 1cs of the geminate root קלל, 'and I was slight'; the conjunction is וָ with qamets before the prefix א."
+    },
+    {
+     "id": "16:5.15",
+     "gloss": "in her eyes",
+     "sense": "5"
+    },
+    {
+     "id": "16:5.16",
+     "gloss": "may judge",
+     "sense": "Qal 2",
+     "note": "jussive"
+    },
+    {
+     "id": "16:5.17",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "16:5.18",
+     "gloss": "between me",
+     "sense": "1"
+    },
+    {
+     "id": "16:5.19",
+     "gloss": "and between you",
+     "sense": "1",
+     "note": "the yod after nun is a written plene form with extraordinary points"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:5.1",
+      "16:5.2",
+      "16:5.3",
+      "16:5.4"
+     ],
+     "english": "Sarai said to Abram",
+     "literal": "'and-said Sarai to Abram'"
+    },
+    {
+     "tokens": [
+      "16:5.5",
+      "16:5.6"
+     ],
+     "english": "The wrong done to me is on you!",
+     "literal": "'my-violence upon-you'; the suffix on חָמָס is objective, 'the violence done to me'"
+    },
+    {
+     "tokens": [
+      "16:5.7",
+      "16:5.8",
+      "16:5.9",
+      "16:5.10"
+     ],
+     "english": "I myself gave my maidservant into your arms",
+     "literal": "'I gave maidservant-my in-bosom-your'; אָנֹכִי adds emphasis"
+    },
+    {
+     "tokens": [
+      "16:5.11",
+      "16:5.12",
+      "16:5.13"
+     ],
+     "english": "and when she saw that she had conceived",
+     "literal": "'and-saw that conceived'"
+    },
+    {
+     "tokens": [
+      "16:5.14",
+      "16:5.15"
+     ],
+     "english": "I became of little account in her eyes",
+     "literal": "'and-I-was-slight in-her-eyes'"
+    },
+    {
+     "tokens": [
+      "16:5.16",
+      "16:5.17",
+      "16:5.18",
+      "16:5.19"
+     ],
+     "english": "May the LORD judge between me and you.",
+     "literal": "'may-judge the-LORD between-me and-between-you'; a jussive"
+    }
+   ],
+   "grammar": [
+    "חֲמָסִי עָלֶיךָ: 'my violence is on you'; the suffix is objective ('wrong done to me').",
+    "אָנֹכִי is an emphatic subject pronoun before the perfect.",
+    "וָאֵקַל is a wayyiqtol in the first person: 'and I became slight'.",
+    "The extraordinary dots on the yod of וּבֵינֶיךָ are a scribal mark noted in the data."
+   ],
+   "note": "Rashi and Radak agree that חמסי עליך means the wrong done to me is laid on you, so 'The wrong done to me is on you' is adopted. The puncta extraordinaria on the yod of וּבֵינֶיךָ are recorded in the apparatus.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:5:1",
+     "relation": "follows",
+     "summary": "Rashi: the wrong done to me, I lay the penalty on you; you prayed only for yourself, and you hear my shame and stay silent. The English follows the sense of 'wrong done to me'."
+    },
+    {
+     "anchor": "rashi:16:5:2",
+     "relation": "records",
+     "summary": "Rashi: the full spelling of וּבֵינֶיךָ allows reading 'and your sons', since Sarai cast an evil eye on Hagar and caused her to miscarry. A homiletic reading, recorded."
+    }
+   ],
+   "apparatus": [
+    "The yod of וּבֵינֶיךָ carries puncta extraordinaria (WLC note 4); Radak takes it as a full spelling, and Rashi as a hint at a miscarriage."
+   ]
+  },
+  {
+   "ref": "16:6",
+   "english": "Abram said to Sarai, \"Here, your maidservant is in your hand. Do to her what is good in your eyes.\" Then Sarai dealt harshly with her, and she fled from her presence.",
+   "literal": "and-said Abram to Sarai behold maidservant-your in-hand-your do to-her the-good in-eyes-your and-afflicted-her Sarai and-fled from-faces-her",
+   "tokens": [
+    {
+     "id": "16:6.1",
+     "gloss": "and he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:6.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "16:6.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "16:6.4",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "16:6.5",
+     "gloss": "behold"
+    },
+    {
+     "id": "16:6.6",
+     "gloss": "your maidservant"
+    },
+    {
+     "id": "16:6.7",
+     "gloss": "in your hand",
+     "sense": "1"
+    },
+    {
+     "id": "16:6.8",
+     "gloss": "do",
+     "sense": "Qal I.1"
+    },
+    {
+     "id": "16:6.9",
+     "gloss": "to her"
+    },
+    {
+     "id": "16:6.10",
+     "gloss": "the good",
+     "sense": "2"
+    },
+    {
+     "id": "16:6.11",
+     "gloss": "in your eyes",
+     "sense": "5"
+    },
+    {
+     "id": "16:6.12",
+     "gloss": "and afflicted her",
+     "sense": "Pi 1",
+     "note": "Piel wayyiqtol with suffix"
+    },
+    {
+     "id": "16:6.13",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "16:6.14",
+     "gloss": "and she fled",
+     "sense": "Qal 2"
+    },
+    {
+     "id": "16:6.15",
+     "gloss": "from her presence",
+     "sense": "I.2.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:6.1",
+      "16:6.2",
+      "16:6.3",
+      "16:6.4"
+     ],
+     "english": "Abram said to Sarai",
+     "literal": "'and-said Abram to Sarai'"
+    },
+    {
+     "tokens": [
+      "16:6.5",
+      "16:6.6",
+      "16:6.7"
+     ],
+     "english": "Here, your maidservant is in your hand.",
+     "literal": "'behold maidservant-your in-hand-your'"
+    },
+    {
+     "tokens": [
+      "16:6.8",
+      "16:6.9",
+      "16:6.10",
+      "16:6.11"
+     ],
+     "english": "Do to her what is good in your eyes.",
+     "literal": "'do to-her the-good in-eyes-your'"
+    },
+    {
+     "tokens": [
+      "16:6.12",
+      "16:6.13"
+     ],
+     "english": "Then Sarai dealt harshly with her",
+     "literal": "'and-afflicted-her Sarai'; Piel of ענה"
+    },
+    {
+     "tokens": [
+      "16:6.14",
+      "16:6.15"
+     ],
+     "english": "and she fled from her presence",
+     "literal": "'and-fled from-faces-her'"
+    }
+   ],
+   "grammar": [
+    "'In your hand' means in your power.",
+    "The Piel of ענה means to afflict or oppress; the suffix is the object.",
+    "מִפָּנֶיהָ is literally 'from her faces'; idiomatically 'from before her'.",
+    "The imperative עֲשִׂי is feminine singular."
+   ],
+   "note": "The English 'dealt harshly with her' follows Rashi's 'she subjected her harshly' for וַתְּעַנֶּהָ; 'afflicted' is the lexical sense.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:6:1",
+     "relation": "follows",
+     "summary": "Rashi: she kept her in harsh subjection. The English 'dealt harshly with her' follows this."
+    }
+   ],
+   "apparatus": [
+    "Radak and Ramban (not normative) judge that Sarai acted wrongly in this affliction."
+   ]
+  },
+  {
+   "ref": "16:7",
+   "english": "Then the angel of the LORD found her by a spring of water in the wilderness, by the spring on the way to Shur.",
+   "literal": "and-found-her angel-of the-LORD by spring-of the-water in-the-wilderness by the-spring in-way-of Shur",
+   "tokens": [
+    {
+     "id": "16:7.1",
+     "gloss": "and found her",
+     "sense": "Qal 3",
+     "note": "Qal wayyiqtol with suffix"
+    },
+    {
+     "id": "16:7.2",
+     "gloss": "angel of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "16:7.3",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "16:7.4",
+     "gloss": "by",
+     "sense": "II.6"
+    },
+    {
+     "id": "16:7.5",
+     "gloss": "spring of",
+     "lex": "bdb:p.ck.ac",
+     "note": "construct; a spring, not 'eye'. The entry lists only the place-name senses 'b' and 'd', which do not apply, so no sense is given."
+    },
+    {
+     "id": "16:7.6",
+     "gloss": "the water"
+    },
+    {
+     "id": "16:7.7",
+     "gloss": "in the wilderness",
+     "sense": "2"
+    },
+    {
+     "id": "16:7.8",
+     "gloss": "by",
+     "sense": "II.6"
+    },
+    {
+     "id": "16:7.9",
+     "gloss": "the spring",
+     "lex": "bdb:p.ck.ac",
+     "note": "with the article: the spring just named. The entry lists only place-name senses ('b', 'd'), so no sense is given."
+    },
+    {
+     "id": "16:7.10",
+     "gloss": "on the way of",
+     "sense": "1"
+    },
+    {
+     "id": "16:7.11",
+     "gloss": "Shur"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:7.1",
+      "16:7.2",
+      "16:7.3"
+     ],
+     "english": "Then the angel of the LORD found her",
+     "literal": "'and-found-her angel-of the-LORD'"
+    },
+    {
+     "tokens": [
+      "16:7.4",
+      "16:7.5",
+      "16:7.6",
+      "16:7.7"
+     ],
+     "english": "by a spring of water in the wilderness,",
+     "literal": "'by spring-of the-water in-the-wilderness'"
+    },
+    {
+     "tokens": [
+      "16:7.8",
+      "16:7.9",
+      "16:7.10",
+      "16:7.11"
+     ],
+     "english": "by the spring on the way to Shur.",
+     "literal": "'by the-spring in-way-of Shur'"
+    }
+   ],
+   "grammar": [
+    "וַיִּמְצָאָהּ carries the 3fs suffix -āh directly on the wayyiqtol; the regular form would be -ehā, as in וַיִּשְׂנָאֶהָ (Deut 22:16), so Ibn Ezra calls it a strange word.",
+    "עַיִן here is 'spring', a different entry from 'eye'.",
+    "The second 'by the spring' defines which spring."
+   ],
+   "note": "The lexicon entry for עַיִן 'spring' lists only the place-name senses 'b' and 'd', which do not apply, so the two tokens carry no sense. Shur is a place name.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:16:7:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: a strange form, for the regular form would be like וַיִּשְׂנָאֶהָ (Deut 22:16), with the suffix -ehā rather than -āh. The comment concerns the form only."
+    }
+   ],
+   "apparatus": [
+    "Radak: the second phrase says which spring it was, the one on the road to Shur, that is, on her way back to Egypt."
+   ]
+  },
+  {
+   "ref": "16:8",
+   "english": "He said, \"Hagar, maidservant of Sarai, where have you come from, and where are you going?\" She said, \"I am fleeing from Sarai my mistress.\"",
+   "literal": "and-said Hagar maidservant-of Sarai where from-this you-came and-whither you-go and-said from-face-of Sarai mistress-my I fleeing",
+   "tokens": [
+    {
+     "id": "16:8.1",
+     "gloss": "and he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:8.2",
+     "gloss": "Hagar"
+    },
+    {
+     "id": "16:8.3",
+     "gloss": "maidservant of"
+    },
+    {
+     "id": "16:8.4",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "16:8.5",
+     "gloss": "where",
+     "sense": "1"
+    },
+    {
+     "id": "16:8.6",
+     "gloss": "from this"
+    },
+    {
+     "id": "16:8.7",
+     "gloss": "you came",
+     "sense": "Qal 2",
+     "note": "Qal perfect 2fs of the hollow root בוא, with quiescent א (bāʾt)."
+    },
+    {
+     "id": "16:8.8",
+     "gloss": "and where to"
+    },
+    {
+     "id": "16:8.9",
+     "gloss": "you go",
+     "note": "Qal yiqtol 2fs of הלך, which drops its first radical like a I-י verb; the ending ־ִי marks the feminine. The entry lists no sense for plain 'go' (Qal II.2 is 'live, walk' of conduct), so no sense is given."
+    },
+    {
+     "id": "16:8.10",
+     "gloss": "and she said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "16:8.11",
+     "gloss": "from the face of",
+     "sense": "I.2.a"
+    },
+    {
+     "id": "16:8.12",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "16:8.13",
+     "gloss": "my mistress",
+     "sense": "2"
+    },
+    {
+     "id": "16:8.14",
+     "gloss": "I"
+    },
+    {
+     "id": "16:8.15",
+     "gloss": "fleeing",
+     "sense": "Qal 2",
+     "note": "Qal participle fs: the guttural ח gives patah where the usual form has segol (בֹּרֶחֶת). Ibn Ezra explains the patah under ר by the guttural; Radak notes that patah in pause at the end of a verse is unusual."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "16:8.1",
+      "16:8.2",
+      "16:8.3",
+      "16:8.4"
+     ],
+     "english": "He said, \"Hagar, maidservant of Sarai,",
+     "literal": "'and-said Hagar maidservant-of Sarai'"
+    },
+    {
+     "tokens": [
+      "16:8.5",
+      "16:8.6",
+      "16:8.7"
+     ],
+     "english": "where have you come from",
+     "literal": "'where from-this you-came'; Ibn Ezra takes אֵי as אַיֵּה"
+    },
+    {
+     "tokens": [
+      "16:8.8",
+      "16:8.9"
+     ],
+     "english": "and where are you going?",
+     "literal": "'and-whither you-go'"
+    },
+    {
+     "tokens": [
+      "16:8.10"
+     ],
+     "english": "She said,",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "16:8.11",
+      "16:8.12",
+      "16:8.13",
+      "16:8.14",
+      "16:8.15"
+     ],
+     "english": "I am fleeing from Sarai my mistress.",
+     "literal": "'from-face-of Sarai mistress-my I fleeing'"
+    }
+   ],
+   "grammar": [
+    "אֵי־מִזֶּה בָאת: 'where from this (place) did you come'.",
+    "The participle בֹּרַחַת gives a present state: 'I am fleeing'.",
+    "The pausal vowel on בֹּרַחַת is unusual; Ibn Ezra explains it by the guttural.",
+    "Hagar is addressed by name and by her status."
+   ],
+   "note": "The question is rhetorical: the angel knows the answer and uses it to open a conversation. The apparatus keeps the Ibn Ezra and Radak points on form.",
+   "commentary": [
+    {
+     "anchor": "rashi:16:8:1",
+     "relation": "follows",
+     "summary": "Rashi: the angel knew; he asks in order to open a conversation with her. 'Where did you come from' means, what place can you say you come from."
+    },
+    {
+     "anchor": "ibn-ezra:16:8:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אֵי is like אַיֵּה, as in אֵי הֶבֶל; the sense is 'from what place did you come'."
+    },
+    {
+     "anchor": "ibn-ezra:16:8:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: the resh has patah because of the following guttural, as in other forms. This concerns the vocalization only."
+    }
+   ],
+   "apparatus": [
+    "Radak: the opening וַיֹּאמַר has patah with revia as if at a pause (not normative)."
+   ]
+  }
+ ]
+}

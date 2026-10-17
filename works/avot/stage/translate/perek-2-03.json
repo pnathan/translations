@@ -1,0 +1,1085 @@
+{
+ "unit": "perek-2-03",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "2:13",
+   "english": "Rabbi Shimon says: Be careful in reciting the Shema and in prayer. And when you pray, do not make your prayer a fixed routine, but a plea for mercy and supplication before the Omnipresent, blessed be He, as it is said in Joel 2: “For He is gracious and compassionate, slow to anger, abounding in kindness, and relenting of the evil.” And do not be wicked in your own eyes.",
+   "literal": "Rabbi Shimon says be careful in-reading-of Shema and-in-the-prayer. And-when you praying, not make your-prayer fixed-routine, but mercies and-supplications before the-Place blessed He, that-it-was-said (Joel 2) for gracious and-compassionate He, length-of nostrils and-great-of kindness and-relenting upon the-evil. And-not be wicked in-the-face-of yourself.",
+   "tokens": [
+    {
+     "id": "2:13.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.2",
+     "gloss": "Shimon",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.3",
+     "gloss": "says",
+     "sense": "1.1",
+     "note": "participle: 'says', the formula that introduces a saying"
+    },
+    {
+     "id": "2:13.4",
+     "gloss": "be",
+     "sense": "1.1.3",
+     "note": "imperative of הָיָה in the contracted mishnaic form הֱוֵי"
+    },
+    {
+     "id": "2:13.5",
+     "gloss": "careful",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.6",
+     "gloss": "in the reciting of",
+     "sense": "3",
+     "note": "construct state; קְרִיאַת שְׁמַע is the fixed name of the recitation"
+    },
+    {
+     "id": "2:13.7",
+     "gloss": "the Shema",
+     "sense": "2.1.4",
+     "note": "the first word of Deut 6:4, 'Hear', used as the name of the passage"
+    },
+    {
+     "id": "2:13.8",
+     "gloss": "and in prayer",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.9",
+     "gloss": "and when you",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.10",
+     "gloss": "pray",
+     "sense": "4.1",
+     "note": "hitpael participle, 'are praying'"
+    },
+    {
+     "id": "2:13.11",
+     "gloss": "do not",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.12",
+     "gloss": "make",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:13.13",
+     "gloss": "your prayer",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.14",
+     "gloss": "a fixed routine",
+     "sense": "1",
+     "note": "קֶבַע: a fixed, perfunctory act, the opposite of a petition"
+    },
+    {
+     "id": "2:13.15",
+     "gloss": "but"
+    },
+    {
+     "id": "2:13.16",
+     "gloss": "a plea for mercy",
+     "sense": "1",
+     "note": "plural of intensity; the lexicon lists the root as 'belly' (womb), the source of 'compassion'"
+    },
+    {
+     "id": "2:13.17",
+     "gloss": "and supplications",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.18",
+     "gloss": "before",
+     "sense": "1.2"
+    },
+    {
+     "id": "2:13.19",
+     "gloss": "the Omnipresent",
+     "sense": "1",
+     "note": "הַמָּקוֹם, literally 'the Place', a name of God"
+    },
+    {
+     "id": "2:13.20",
+     "gloss": "blessed",
+     "sense": "1",
+     "note": "the lexicon entry is the personal name Baruch; here the participle 'blessed'"
+    },
+    {
+     "id": "2:13.21",
+     "gloss": "be He",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.22",
+     "gloss": "as it is said",
+     "sense": "1.2",
+     "note": "nifal of אָמַר: 'it is said', introducing a verse"
+    },
+    {
+     "id": "2:13.23",
+     "gloss": "in Joel"
+    },
+    {
+     "id": "2:13.24",
+     "gloss": "2",
+     "sense": "1.1",
+     "note": "chapter reference, Joel 2:13"
+    },
+    {
+     "id": "2:13.25",
+     "gloss": "for"
+    },
+    {
+     "id": "2:13.26",
+     "gloss": "gracious",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.27",
+     "gloss": "and compassionate",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.28",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.29",
+     "gloss": "slow to",
+     "sense": "2",
+     "note": "אֶרֶךְ אַפַּיִם: 'long of nostrils', the idiom for patience"
+    },
+    {
+     "id": "2:13.30",
+     "gloss": "anger",
+     "sense": "2",
+     "note": "literally 'nostrils' (dual), by extension anger"
+    },
+    {
+     "id": "2:13.31",
+     "gloss": "abounding in",
+     "sense": "2.1"
+    },
+    {
+     "id": "2:13.32",
+     "gloss": "kindness",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.33",
+     "gloss": "and relenting",
+     "sense": "4.3",
+     "note": "nifal perfect; the verb of 'changing one's mind' or 'regretting'"
+    },
+    {
+     "id": "2:13.34",
+     "gloss": "of",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:13.35",
+     "gloss": "the evil",
+     "sense": "1"
+    },
+    {
+     "id": "2:13.36",
+     "gloss": "and do not"
+    },
+    {
+     "id": "2:13.37",
+     "gloss": "be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "2:13.38",
+     "gloss": "wicked",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:13.39",
+     "gloss": "in the eyes of",
+     "sense": "1.2",
+     "note": "literally 'in the face of'"
+    },
+    {
+     "id": "2:13.40",
+     "gloss": "yourself",
+     "sense": "1",
+     "note": "עֶצֶם, 'bone, substance', is the mishnaic word for 'self'; the lexicon data lists only the place name Ezem, 'bone'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:13.1",
+      "2:13.2",
+      "2:13.3"
+     ],
+     "english": "Rabbi Shimon says",
+     "literal": "'Rabbi Shimon says'"
+    },
+    {
+     "tokens": [
+      "2:13.4",
+      "2:13.5",
+      "2:13.6",
+      "2:13.7",
+      "2:13.8"
+     ],
+     "english": "Be careful in reciting the Shema and in prayer",
+     "literal": "'be careful in-reading-of Shema and-in-the-prayer'"
+    },
+    {
+     "tokens": [
+      "2:13.9",
+      "2:13.10"
+     ],
+     "english": "And when you pray",
+     "literal": "'and-when you praying'"
+    },
+    {
+     "tokens": [
+      "2:13.11",
+      "2:13.12",
+      "2:13.13",
+      "2:13.14"
+     ],
+     "english": "do not make your prayer a fixed routine",
+     "literal": "'not make your-prayer fixed-routine'; קֶבַע read as Bartenura and Rambam read it"
+    },
+    {
+     "tokens": [
+      "2:13.15",
+      "2:13.16",
+      "2:13.17",
+      "2:13.18",
+      "2:13.19",
+      "2:13.20",
+      "2:13.21"
+     ],
+     "english": "but a plea for mercy and supplication before the Omnipresent, blessed be He",
+     "literal": "'but mercies and-supplications before the-Place blessed He'; the verb 'make' is carried over from the previous clause"
+    },
+    {
+     "tokens": [
+      "2:13.22",
+      "2:13.23",
+      "2:13.24"
+     ],
+     "english": "as it is said in Joel 2",
+     "literal": "'that-it-was-said Joel 2'"
+    },
+    {
+     "tokens": [
+      "2:13.25",
+      "2:13.26",
+      "2:13.27",
+      "2:13.28"
+     ],
+     "english": "for He is gracious and compassionate",
+     "literal": "'for gracious and-compassionate He'"
+    },
+    {
+     "tokens": [
+      "2:13.29",
+      "2:13.30",
+      "2:13.31",
+      "2:13.32"
+     ],
+     "english": "slow to anger, abounding in kindness",
+     "literal": "'length-of nostrils and-great-of kindness'"
+    },
+    {
+     "tokens": [
+      "2:13.33",
+      "2:13.34",
+      "2:13.35"
+     ],
+     "english": "and relenting of the evil",
+     "literal": "'and-relenting upon the-evil'"
+    },
+    {
+     "tokens": [
+      "2:13.36",
+      "2:13.37",
+      "2:13.38",
+      "2:13.39",
+      "2:13.40"
+     ],
+     "english": "And do not be wicked in your own eyes",
+     "literal": "'and-not be wicked in-the-face-of yourself'; read as Rambam reads it"
+    }
+   ],
+   "grammar": [
+    "הֱוֵי and תְּהִי are both forms of הָיָה: the contracted imperative 'be!' and the jussive-type imperfect after אַל, 'do not be'.",
+    "אַל תַּעַשׂ is a prohibition: אַל with the imperfect. אֶלָּא 'but' sets the right prayer against the wrong one, with the verb 'make' understood.",
+    "קֶבַע is the opposite of תַּחֲנוּנִים: a fixed act versus a plea; רַחֲמִים וְתַחֲנוּנִים are the two things the prayer should be.",
+    "The verse of Joel 2:13 is quoted with כִּי and without אֵל; the pause אֶרֶךְ אַפַּיִם is a construct chain, 'long of nostrils', meaning patient.",
+    "בִּפְנֵי עַצְמְךָ, literally 'in the face of your self', is an idiom whose sense is disputed; see the note."
+   ],
+   "note": "The last clause is ambiguous. Bartenura gives three readings: do not do what will make you condemn yourself; Rambam's 'do not be wicked in your own eyes', that is, do not regard yourself as wicked, or you will turn wholly to evil; and his own, do not separate from the community and stand 'by yourself'. The English follows Rambam, who is the commentator also listed as normative, and keeps the Hebrew idiom 'in your own eyes'. The sense of the pause on 'a plea for mercy' is that prayer is a petition, not a duty to be discharged.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:13:1",
+     "relation": "follows",
+     "summary": "Bartenura: read the Shema at its proper time, and likewise pray each prayer at its proper time (לִקְרוֹתוֹ בְּעוֹנָתוֹ)."
+    },
+    {
+     "anchor": "bartenura:2:13:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'fixed' is like a man who carries a debt and says 'when shall I be rid of this burden?'; or like one who recites a set portion as a mere reading, not in the language of supplication of one who begs for mercy."
+    },
+    {
+     "anchor": "bartenura:2:13:3",
+     "relation": "follows",
+     "summary": "Bartenura: God wants supplications, and through them He shows mercy at once."
+    },
+    {
+     "anchor": "bartenura:2:13:4",
+     "relation": "records",
+     "summary": "Bartenura: do not do anything that will today or tomorrow make you condemn yourself. He also cites Rambam (do not hold yourself a wicked man) and his own hearing: do not be wicked by separating from the community and standing by yourself. The English takes Rambam's reading; the others are recorded."
+    },
+    {
+     "anchor": "rambam:2:13:1",
+     "relation": "follows",
+     "summary": "Rambam: when a man thinks himself lacking and inferior, he will not make much of any fault he commits; and 'fixed' prayer is prayer that is a burden to him, which he treats like a task he was told to do and be rid of."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:13:4",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: do not be so wicked in your own eyes that you cannot repent; nor righteous in your own eyes: a man should see himself as half guilty and half innocent."
+    }
+   ],
+   "apparatus": [
+    "Joel 2:13 (as quoted by the mishnah): כִּי חַנּוּן וְרַחוּם הוּא אֶרֶךְ אַפַּיִם וְרַב חֶסֶד וְנִחָם עַל הָרָעָה. The Hebrew of Joel reads אֵל before חַנּוּן, as Bartenura's lemma and Rabbeinu Yonah (who cites Jonah 4:2) show.",
+    "Vilna reads בקרית for בִּקְרִיאַת (2:13.6), and a variant of the chapter number in the reference."
+   ]
+  },
+  {
+   "ref": "2:14",
+   "english": "Rabbi Elazar says: Be diligent in learning Torah, and know what to answer an Epicurean. And know before whom you toil, And faithful is the master of your work to pay you the reward of your labor.",
+   "literal": "Rabbi Elazar says be diligent to-learn Torah, and-know what-that-you-answer to-Epicurean. And-know before whom you toiling. And-faithful he master-of your-work that-he-will-pay to-you reward-of your-labor.",
+   "tokens": [
+    {
+     "id": "2:14.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:14.2",
+     "gloss": "Elazar",
+     "sense": "1"
+    },
+    {
+     "id": "2:14.3",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:14.4",
+     "gloss": "be",
+     "sense": "1.1.3",
+     "note": "imperative of הָיָה, contracted"
+    },
+    {
+     "id": "2:14.5",
+     "gloss": "diligent",
+     "note": "שָׁקוּד, a passive participle used as an adjective: 'eager, persistent'"
+    },
+    {
+     "id": "2:14.6",
+     "gloss": "in learning",
+     "sense": "1.1",
+     "note": "infinitive construct with ל: 'to learn'"
+    },
+    {
+     "id": "2:14.7",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "2:14.8",
+     "gloss": "and know",
+     "sense": "1.1.1",
+     "note": "imperative"
+    },
+    {
+     "id": "2:14.9",
+     "gloss": "what",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:14.10",
+     "gloss": "to answer",
+     "note": "hifil of שׁוּב: 'bring back' an answer; the relative שֶׁ with the imperfect, 'what you should answer'"
+    },
+    {
+     "id": "2:14.11",
+     "gloss": "an Epicurean",
+     "note": "אֶפִּיקוֹרוֹס, a Hebrew word taken from the name Epicurus; it means a scoffer or heretic"
+    },
+    {
+     "id": "2:14.12",
+     "gloss": "and know",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:14.13",
+     "gloss": "before",
+     "sense": "1.2"
+    },
+    {
+     "id": "2:14.14",
+     "gloss": "whom",
+     "sense": "1"
+    },
+    {
+     "id": "2:14.15",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "2:14.16",
+     "gloss": "toil",
+     "sense": "1.1",
+     "note": "participle: 'you are toiling'"
+    },
+    {
+     "id": "2:14.17",
+     "gloss": "and faithful",
+     "sense": "1"
+    },
+    {
+     "id": "2:14.18",
+     "gloss": "is",
+     "sense": "1"
+    },
+    {
+     "id": "2:14.19",
+     "gloss": "the master of",
+     "sense": "1",
+     "note": "בַּעַל מְלָאכָה: 'owner of the work', that is, the employer"
+    },
+    {
+     "id": "2:14.20",
+     "gloss": "your work",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:14.21",
+     "gloss": "to pay",
+     "sense": "4.2",
+     "note": "piel imperfect; שֶׁ here gives result, 'that he will pay'"
+    },
+    {
+     "id": "2:14.22",
+     "gloss": "you"
+    },
+    {
+     "id": "2:14.23",
+     "gloss": "the reward of",
+     "sense": "1"
+    },
+    {
+     "id": "2:14.24",
+     "gloss": "your labor",
+     "note": "פְּעֻלָּה: wages for a deed; the Vilna spelling is פעולתך"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:14.1",
+      "2:14.2",
+      "2:14.3"
+     ],
+     "english": "Rabbi Elazar says",
+     "literal": "'Rabbi Elazar says'"
+    },
+    {
+     "tokens": [
+      "2:14.4",
+      "2:14.5",
+      "2:14.6",
+      "2:14.7"
+     ],
+     "english": "Be diligent in learning Torah",
+     "literal": "'be diligent to-learn Torah'"
+    },
+    {
+     "tokens": [
+      "2:14.8",
+      "2:14.9",
+      "2:14.10",
+      "2:14.11"
+     ],
+     "english": "and know what to answer an Epicurean",
+     "literal": "'and-know what-that-you-answer to-Epicurean'"
+    },
+    {
+     "tokens": [
+      "2:14.12",
+      "2:14.13",
+      "2:14.14",
+      "2:14.15",
+      "2:14.16"
+     ],
+     "english": "And know before whom you toil",
+     "literal": "'and-know before whom you toiling'"
+    },
+    {
+     "tokens": [
+      "2:14.17",
+      "2:14.18",
+      "2:14.19",
+      "2:14.20"
+     ],
+     "english": "And faithful is the master of your work",
+     "literal": "'and-faithful he master-of your-work'"
+    },
+    {
+     "tokens": [
+      "2:14.21",
+      "2:14.22",
+      "2:14.23",
+      "2:14.24"
+     ],
+     "english": "to pay you the reward of your labor",
+     "literal": "'that-he-will-pay to-you reward-of your-labor'"
+    }
+   ],
+   "grammar": [
+    "Three imperatives in a row (הֱוֵי, וְדַע, וְדַע) give the saying its three parts; the second and third are in the same form, 'know!'.",
+    "מַה שֶּׁתָּשִׁיב is 'what you should answer': מַה plus the relative שֶׁ and the imperfect used as a duty.",
+    "לִפְנֵי מִי is 'before whom', with מִי as an interrogative inside the object clause.",
+    "בַּעַל מְלַאכְתְּךָ is a construct chain 'master of your work'; the word בַּעַל is the owner, and the image is of an employer who pays a worker.",
+    "The last clause begins with וְנֶאֱמָן הוּא, a predicate placed first for emphasis."
+   ],
+   "note": "אֶפִּיקוֹרוֹס is kept as 'Epicurean' with its sense a scoffer at the Torah: Bartenura derives it from הֶפְקֵר, 'ownerless, license', as one who treats the Torah as ownerless. Rambam understands it of idolaters, Rabbeinu Yonah of one who denies the oral Torah; the translation does not narrow it. The English wording of the last sentence follows the Hebrew order; the שֶׁ clause is read as 'to pay'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:14:1",
+     "relation": "follows",
+     "summary": "Bartenura: אֶפִּיקוֹרוֹס is a word of hefker: one who scorns the Torah and treats it as ownerless; or one who treats himself as ownerless and does not care for his soul. The English keeps 'Epicurean' with the sense of a scorner."
+    },
+    {
+     "anchor": "bartenura:2:14:2",
+     "relation": "follows",
+     "summary": "Bartenura: know before whom you toil, in this answer you give the Epicurean, so that your heart is not tempted to incline to his view."
+    },
+    {
+     "anchor": "rambam:2:14:1",
+     "relation": "follows",
+     "summary": "Rambam: שְׁקִידָה comes from 'for I am watchful (שֹׁקֵד) over My word', meaning quick and eager; or it means habit and constancy, as in 'to watch (לִשְׁקֹד) at my doors daily'."
+    },
+    {
+     "anchor": "rambam:2:14:2",
+     "relation": "follows",
+     "summary": "Rambam: you must learn what to answer idolaters and refute them; but guard that none of their opinions rises in your heart, and know that He before whom you labor knows the secret of your heart."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:14:3",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: God is the master of your work, so do not do the work of Torah deceitfully; and He pays reward faithfully."
+    }
+   ],
+   "apparatus": [
+    "The saying has no direct biblical quotation; the Rambam's proof texts are Job 8 / Ps 69 and Prov 8:34 (לִשְׁקֹד עַל דַּלְתֹתַי), on the sense of שְׁקִידָה.",
+    "Vilna reads ללמוד for לִלְמֹד (2:14.6) and פעולתך for פְּעֻלָּתֶךְ (2:14.24)."
+   ]
+  },
+  {
+   "ref": "2:15",
+   "english": "Rabbi Tarfon says: The day is short, the work is great, the laborers are lazy, the reward is abundant, and the master of the house is pressing.",
+   "literal": "Rabbi Tarfon says the-day short, and-the-work abundant, and-the-laborers lazy, and-the-reward much, and-master-of the-house pressing.",
+   "tokens": [
+    {
+     "id": "2:15.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:15.2",
+     "gloss": "Tarfon",
+     "sense": "1"
+    },
+    {
+     "id": "2:15.3",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:15.4",
+     "gloss": "the day",
+     "sense": "1"
+    },
+    {
+     "id": "2:15.5",
+     "gloss": "is short",
+     "note": "קָצָר, adjective: 'short'"
+    },
+    {
+     "id": "2:15.6",
+     "gloss": "and the work",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:15.7",
+     "gloss": "is great",
+     "sense": "1",
+     "note": "pual participle of רבה used as an adjective: 'much, abundant'"
+    },
+    {
+     "id": "2:15.8",
+     "gloss": "and the laborers",
+     "sense": "1"
+    },
+    {
+     "id": "2:15.9",
+     "gloss": "are lazy",
+     "sense": "1"
+    },
+    {
+     "id": "2:15.10",
+     "gloss": "and the reward",
+     "sense": "1"
+    },
+    {
+     "id": "2:15.11",
+     "gloss": "is abundant",
+     "sense": "1",
+     "note": "הַרְבֵּה: the hifil infinitive absolute used as an adverb, 'much'"
+    },
+    {
+     "id": "2:15.12",
+     "gloss": "and the master of",
+     "sense": "1"
+    },
+    {
+     "id": "2:15.13",
+     "gloss": "the house",
+     "sense": "1"
+    },
+    {
+     "id": "2:15.14",
+     "gloss": "is pressing",
+     "note": "דּוֹחֵק, participle: 'is pressing, urging'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:15.1",
+      "2:15.2",
+      "2:15.3"
+     ],
+     "english": "Rabbi Tarfon says",
+     "literal": "'Rabbi Tarfon says'"
+    },
+    {
+     "tokens": [
+      "2:15.4",
+      "2:15.5"
+     ],
+     "english": "The day is short",
+     "literal": "'the-day short'"
+    },
+    {
+     "tokens": [
+      "2:15.6",
+      "2:15.7"
+     ],
+     "english": "the work is great",
+     "literal": "'and-the-work abundant'"
+    },
+    {
+     "tokens": [
+      "2:15.8",
+      "2:15.9"
+     ],
+     "english": "the laborers are lazy",
+     "literal": "'and-the-laborers lazy'"
+    },
+    {
+     "tokens": [
+      "2:15.10",
+      "2:15.11"
+     ],
+     "english": "the reward is abundant",
+     "literal": "'and-the-reward much'"
+    },
+    {
+     "tokens": [
+      "2:15.12",
+      "2:15.13",
+      "2:15.14"
+     ],
+     "english": "and the master of the house is pressing",
+     "literal": "'and-master-of the-house pressing'"
+    }
+   ],
+   "grammar": [
+    "The saying is five short nominal clauses with no verb 'to be': subject then predicate, each joined by וְ.",
+    "הַרְבֵּה is a hifil infinitive absolute that works as an adverb or predicate, 'much'; here it stands for the amount of the reward.",
+    "מְרֻבָּה is a pual participle, feminine to agree with מְלָאכָה.",
+    "בַּעַל הַבַּיִת is 'master of the house', a householder who hires workers; as a metaphor it stands for God."
+   ],
+   "note": "The saying is a parable (so Rambam). The day is a man's short life (Bartenura), the work is the Torah, which is long, and the master of the house is God, who presses the worker. The English keeps the parable's images and does not spell out the interpretation.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:15:1",
+     "relation": "follows",
+     "summary": "Bartenura: the life of this world is short."
+    },
+    {
+     "anchor": "bartenura:2:15:2",
+     "relation": "follows",
+     "summary": "Bartenura: the work is the Torah, which is 'longer than the earth in measure' (Job 11:9)."
+    },
+    {
+     "anchor": "bartenura:2:15:3",
+     "relation": "follows",
+     "summary": "Bartenura: the master of the house presses, as it is said (Joshua 1) 'and you shall meditate on it day and night'."
+    },
+    {
+     "anchor": "rambam:2:15:1",
+     "relation": "follows",
+     "summary": "Rambam: this is a parable for the shortness of years, the abundance of wisdom, men's laziness in seeking it, the great reward, and the many warnings of the Torah to seek wisdom and learning."
+    }
+   ],
+   "apparatus": [
+    "Job 11:9 (Torah longer than the earth in measure, as cited by Bartenura and Rabbeinu Yonah); Joshua 1:8 (וְהָגִיתָ בּוֹ יוֹמָם וָלָיְלָה).",
+    "Vilna reads מרובה for מְרֻבָּה (2:15.7)."
+   ]
+  },
+  {
+   "ref": "2:16",
+   "english": "He used to say: It is not for you to finish the work, and you are not free to desist from it. If you have learned much Torah, they give you much reward. And faithful is the master of your work to pay you the reward of your labor. And know the granting of the reward of the righteous in the world to come.",
+   "literal": "He was saying: not upon-you the-work to-finish, and-not you son-of free to-be-idle from-it. If you-learned Torah much, giving to-you reward much. And-faithful he master-of your-work that-he-pays to-you reward-of your-labor. And-know giving-of their-reward of righteous at-the-future to-come.",
+   "tokens": [
+    {
+     "id": "2:16.1",
+     "gloss": "He"
+    },
+    {
+     "id": "2:16.2",
+     "gloss": "used to",
+     "sense": "1.1.3",
+     "note": "הָיָה plus a participle is the habitual past"
+    },
+    {
+     "id": "2:16.3",
+     "gloss": "say",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:16.4",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.5",
+     "gloss": "for you",
+     "sense": "1.1",
+     "note": "עָלֶיךָ, 'upon you': it is not your burden"
+    },
+    {
+     "id": "2:16.6",
+     "gloss": "the work",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:16.7",
+     "gloss": "to finish",
+     "sense": "1.1.2"
+    },
+    {
+     "id": "2:16.8",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:16.9",
+     "gloss": "you"
+    },
+    {
+     "id": "2:16.10",
+     "gloss": "free",
+     "sense": "1",
+     "note": "בֶּן חוֹרִין: 'son of free people', an idiom for a free man; the lexicon data gives the wrong entry for חוֹרִין"
+    },
+    {
+     "id": "2:16.11",
+     "gloss": "(son of) free people",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.12",
+     "gloss": "to desist",
+     "sense": "4.2",
+     "note": "nifal infinitive: 'to be exempt, to be idle'"
+    },
+    {
+     "id": "2:16.13",
+     "gloss": "from it",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:16.14",
+     "gloss": "if"
+    },
+    {
+     "id": "2:16.15",
+     "gloss": "you have learned",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:16.16",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.17",
+     "gloss": "much"
+    },
+    {
+     "id": "2:16.18",
+     "gloss": "they give",
+     "sense": "1.1.1",
+     "note": "participle plural with no stated subject: 'one gives', 'they give'"
+    },
+    {
+     "id": "2:16.19",
+     "gloss": "you"
+    },
+    {
+     "id": "2:16.20",
+     "gloss": "reward",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.21",
+     "gloss": "much"
+    },
+    {
+     "id": "2:16.22",
+     "gloss": "and faithful",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.23",
+     "gloss": "is",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.24",
+     "gloss": "the master of",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.25",
+     "gloss": "your work",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:16.26",
+     "gloss": "to pay",
+     "sense": "4.2"
+    },
+    {
+     "id": "2:16.27",
+     "gloss": "you"
+    },
+    {
+     "id": "2:16.28",
+     "gloss": "the reward of",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.29",
+     "gloss": "your labor"
+    },
+    {
+     "id": "2:16.30",
+     "gloss": "and know",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:16.31",
+     "gloss": "the granting of",
+     "sense": "1",
+     "note": "מַתַּן: 'giving'; the lexicon data lists only the name Mattan"
+    },
+    {
+     "id": "2:16.32",
+     "gloss": "the reward of them",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.33",
+     "gloss": "of",
+     "sense": "1"
+    },
+    {
+     "id": "2:16.34",
+     "gloss": "the righteous",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:16.35",
+     "gloss": "in the time to come",
+     "sense": "1.3",
+     "note": "עָתִיד, 'ready, impending': the future"
+    },
+    {
+     "id": "2:16.36",
+     "gloss": "to come",
+     "sense": "1",
+     "note": "the lexicon data for בָּא lists the noun 'father'; here it is the infinitive 'to come'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:16.1",
+      "2:16.2",
+      "2:16.3"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'"
+    },
+    {
+     "tokens": [
+      "2:16.4",
+      "2:16.5",
+      "2:16.6",
+      "2:16.7"
+     ],
+     "english": "It is not for you to finish the work",
+     "literal": "'not upon-you the-work to-finish'"
+    },
+    {
+     "tokens": [
+      "2:16.8",
+      "2:16.9",
+      "2:16.10",
+      "2:16.11",
+      "2:16.12",
+      "2:16.13"
+     ],
+     "english": "and you are not free to desist from it",
+     "literal": "'and-not you son-of free to-be-idle from-it'"
+    },
+    {
+     "tokens": [
+      "2:16.14",
+      "2:16.15",
+      "2:16.16",
+      "2:16.17"
+     ],
+     "english": "If you have learned much Torah",
+     "literal": "'if you-learned Torah much'"
+    },
+    {
+     "tokens": [
+      "2:16.18",
+      "2:16.19",
+      "2:16.20",
+      "2:16.21"
+     ],
+     "english": "they give you much reward",
+     "literal": "'giving to-you reward much'"
+    },
+    {
+     "tokens": [
+      "2:16.22",
+      "2:16.23",
+      "2:16.24",
+      "2:16.25"
+     ],
+     "english": "And faithful is the master of your work",
+     "literal": "'and-faithful he master-of your-work'"
+    },
+    {
+     "tokens": [
+      "2:16.26",
+      "2:16.27",
+      "2:16.28",
+      "2:16.29"
+     ],
+     "english": "to pay you the reward of your labor",
+     "literal": "'that-he-pays to-you reward-of your-labor'"
+    },
+    {
+     "tokens": [
+      "2:16.30",
+      "2:16.31",
+      "2:16.32",
+      "2:16.33",
+      "2:16.34"
+     ],
+     "english": "And know the granting of the reward of the righteous",
+     "literal": "'and-know giving-of their-reward of righteous'"
+    },
+    {
+     "tokens": [
+      "2:16.35",
+      "2:16.36"
+     ],
+     "english": "in the world to come",
+     "literal": "'at-the-future to-come'; both Bartenura and Rambam say לָעוֹלָם הַבָּא"
+    }
+   ],
+   "grammar": [
+    "הוּא הָיָה אוֹמֵר is the formula 'he used to say' (the habitual past: הָיָה plus participle); the speaker is Rabbi Tarfon.",
+    "לֹא עָלֶיךָ ... לִגְמֹר: 'not upon you to finish'; the infinitive construct with ל gives the duty or burden. The second clause has the same negative with 'free'.",
+    "בֶן חוֹרִין is an idiom: 'free man'; לִבָּטֵל is the nifal infinitive, 'to be idle, to be exempt'.",
+    "נוֹתְנִים is a participle plural with no subject, an impersonal 'they give'.",
+    "לֶעָתִיד לָבֹא, literally 'for the future that comes', is the mishnaic term for the world to come."
+   ],
+   "note": "לֶעָתִיד לָבֹא is translated 'in the world to come', since Bartenura and Rambam both say it means לָעוֹלָם הַבָּא; the literal sense is 'in the time that is to come'. 'They give you' is impersonal; Rabbeinu Yonah understands it of the master. The clause 'and know the granting of the reward' is ambiguous between 'know that the righteous are rewarded' and 'know when'; the English keeps the nominal form of the Hebrew.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:16:1",
+     "relation": "follows",
+     "summary": "Bartenura: the Holy One, blessed be He, did not set your reward on finishing all of it, so that you lose your reward if you do not finish; and perhaps you will say 'I will not learn and take no reward', so he says you are not free to be idle. The yoke is on you, whether you wish or not, to work."
+    },
+    {
+     "anchor": "bartenura:2:16:2",
+     "relation": "follows",
+     "summary": "Bartenura: לֶעָתִיד לָבֹא means 'to the world to come' (לָעוֹלָם הַבָּא)."
+    },
+    {
+     "anchor": "rambam:2:16:1",
+     "relation": "follows",
+     "summary": "Rambam: it means the world to come, and he has already explained the matter in the tenth chapter of Sanhedrin (the Helek)."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:16:1",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: do not think 'I am not broad of heart and cannot finish it, so what is the gain of my toil?'; since you toil in Torah you have fulfilled your Creator's commandment."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:16:2",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: do not say that since you need not finish, you will learn only an hour a day; you are a slave bought for it, to meditate on it day and night."
+    }
+   ],
+   "apparatus": [
+    "Joshua 1:8 is cited by Rabbeinu Yonah on 'not free to desist' (וְהָגִיתָ בּוֹ יוֹמָם וָלַיְלָה).",
+    "Vilna reads לגמור for לִגְמֹר, ליבטל for לִבָּטֵל, and פעולתך for פְּעֻלָּתֶךָ."
+   ]
+  }
+ ]
+}

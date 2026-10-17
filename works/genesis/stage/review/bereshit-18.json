@@ -1,0 +1,39 @@
+{
+  "unit": "bereshit-18",
+  "model": "opus",
+  "summary": "The English of all six verses (Kenan and Mahalalel in the Genesis 5 genealogy) is accurate: the ages, verb forms and word order are carried over correctly, and the Onkelos rulings say what the Targum says. The faults are in the analysis. Every מֵאוֹת is tagged with sense 3 'hundredth', an ordinal sense that does not fit the cardinal, so the sense is removed. הָיָה in 5:14 and 5:17 is tagged 'exist', where the verb is a copula with a numeral predicate. Three learner notes on the accents and the pausal form are wrong: the 'short form' of וַיָּמֹת, the mahpakh called a dividing accent, and the pashta said to mark the temporal clause. No anchor in this unit is normative.",
+  "patches": [
+    {"ref": "5:13", "path": "token:5:13.10.sense", "value": "", "severity": "error", "reason": "The only sense listed for מֵאָה is 3 'hundredth', the ordinal use. Here מֵאוֹת is the cardinal 'hundreds', so no listed sense fits and the sense is removed."},
+    {"ref": "5:13", "path": "token:5:13.10.note", "value": "מֵאוֹת, plural of מֵאָה, used with a unit: שְׁמֹנֶה מֵאוֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit this cardinal use, so no sense is given.", "severity": "error", "reason": "The note now explains why the sense is removed."},
+    {"ref": "5:14", "path": "token:5:14.8.sense", "value": "", "severity": "error", "reason": "Sense 3 'hundredth' is ordinal; תְשַׁע מֵאוֹת is the cardinal 'nine hundred'. No listed sense fits."},
+    {"ref": "5:14", "path": "token:5:14.8.note", "value": "מֵאוֹת, plural of מֵאָה: תְשַׁע מֵאוֹת 'nine hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given.", "severity": "error", "reason": "The note now explains why the sense is removed."},
+    {"ref": "5:16", "path": "token:5:16.10.sense", "value": "", "severity": "error", "reason": "Sense 3 'hundredth' is ordinal; שְׁמֹנֶה מֵאוֹת is the cardinal 'eight hundred'. No listed sense fits."},
+    {"ref": "5:16", "path": "token:5:16.10.note", "value": "מֵאוֹת, plural of מֵאָה: שְׁמֹנֶה מֵאוֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given.", "severity": "error", "reason": "The note now explains why the sense is removed."},
+    {"ref": "5:17", "path": "token:5:17.9.sense", "value": "", "severity": "error", "reason": "Sense 3 'hundredth' is ordinal; שְׁמֹנֶה מֵאוֹת is the cardinal 'eight hundred'. No listed sense fits."},
+    {"ref": "5:17", "path": "token:5:17.9.note", "value": "מֵאוֹת, plural of מֵאָה: שְׁמֹנֶה מֵאוֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given.", "severity": "error", "reason": "The note now explains why the sense is removed."},
+    {"ref": "5:14", "path": "token:5:14.1.sense", "value": "Qal III", "severity": "error", "reason": "Qal III.1 is 'exist, be in existence', which is היה without a predicate. Here the verb joins a subject (כָּל־יְמֵי קֵינָן) to a numeral predicate ('were nine hundred and ten years'). That is the copula, and only the general heading Qal III 'Be' covers it."},
+    {"ref": "5:17", "path": "token:5:17.1.sense", "value": "Qal III", "severity": "error", "reason": "As in 5:14: here היה is the copula with a numeral predicate, not 'exist' (Qal III.1). The general heading Qal III 'Be' fits."},
+    {"ref": "5:14", "path": "grammar", "value": [
+      "כָּל־יְמֵי קֵינָן is a construct chain: 'all the days of Kenan'.",
+      "עֶשֶׂר שָׁנִים: ten, with plural 'years'; the larger number follows with singular שָׁנָה.",
+      "וַיִּהְיוּ is plural because its subject is the plural יְמֵי, 'days', not כָּל.",
+      "וַיָּמֹת is the wayyiqtol of מות in pause (silluq). The usual form is וַיָּמָת, the short form with the stress drawn back; in pause the stress stays on the last syllable and the ḥolem returns.",
+      "The paragraph mark ס closes the entry for Kenan."
+    ], "severity": "error", "reason": "The note called וַיָּמֹת 'the short form'. That is wrong: the short (jussive-based) wayyiqtol is וַיָּמָת, with the stress drawn back. וַיָּמֹת is the pausal form under silluq. A note on the plural agreement of וַיִּהְיוּ is added."},
+    {"ref": "5:17", "path": "grammar", "value": [
+      "כָּל־יְמֵי מַהֲלַלְאֵל is a construct chain.",
+      "The age is written units, tens, hundreds: five and ninety, and eight hundred.",
+      "The mahpakh on חָמֵשׁ is a conjunctive accent: it joins חָמֵשׁ to וְתִשְׁעִים. The pashta on וְתִשְׁעִים is the disjunctive that sets the number off from שָׁנָה, which has the zaqef qaton.",
+      "The paragraph mark ס closes the entry for Mahalalel."
+    ], "severity": "error", "reason": "The note said the mahpakh on חָמֵשׁ subdivides the number. The mahpakh is a conjunctive (a servant of the pashta): it binds 'five and ninety' together and divides nothing."},
+    {"ref": "5:13", "path": "grammar", "value": [
+      "אַחֲרֵי הוֹלִידוֹ is a preposition with an infinitive construct and subject suffix: 'after his begetting'.",
+      "The number is given in the order forty, then eight hundred; the English reorders to eight hundred and forty.",
+      "The revia on קֵינָן sets off the subject. The zaqef qaton on מַהֲלַלְאֵל closes the temporal clause. The pashta on אַחֲרֵי is only a minor pause inside that clause.",
+      "בָּנִים וּבָנוֹת: sons and daughters, unnumbered."
+    ], "severity": "error", "reason": "The note said the pashta on אַחֲרֵי marks the temporal clause. The pashta divides inside the clause, between אַחֲרֵי and הוֹלִידוֹ. The clause is bounded by the revia on קֵינָן and the zaqef qaton on מַהֲלַלְאֵל."},
+    {"ref": "5:15", "path": "token:5:15.9.note", "value": "Name. יָרֶד with qameṣ is the pausal form, under silluq, of יֶרֶד (as in 5:16).", "severity": "style", "reason": "A learner meets יָרֶד here and יֶרֶד in 5:16; the pausal vowel change needs a note."},
+    {"ref": "5:17", "path": "token:5:17.11.note", "value": "wayyiqtol of מות in pause (silluq); the usual form is וַיָּמָת", "severity": "style", "reason": "Mark the pausal form for the learner, as in 5:14."}
+  ],
+  "verdicts": []
+}

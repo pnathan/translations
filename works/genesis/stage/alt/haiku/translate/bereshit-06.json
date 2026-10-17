@@ -1,0 +1,351 @@
+{
+  "unit": "bereshit-06",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "2:1",
+      "english": "So the heavens and the earth were finished, and all their host.",
+      "literal": "and-were-finished the-heavens and-the-earth and-all-their-host",
+      "tokens": [
+        {"id": "2:1.1", "gloss": "and were finished", "sense": "Qal 1.b", "note": "Pual (passive) wayyiqtol of כָּלָה. The lexicon lists no Pual sense, so the nearest sense is Qal 1.b, 'be completed, finished'. The doer is not named."},
+        {"id": "2:1.2", "gloss": "the heavens", "sense": "1.a", "note": "שָׁמַיִם is plural in form; the verb is masculine plural to agree with the compound subject."},
+        {"id": "2:1.3", "gloss": "and the earth", "sense": "1.a"},
+        {"id": "2:1.4", "gloss": "and all", "sense": "1", "note": "וְכׇל־ is the construct of כֹּל, joined by a maqqef to the noun that follows."},
+        {"id": "2:1.5", "gloss": "their host", "sense": "1", "note": "צָבָא with the 3rd plural masculine suffix. The silluq closes the verse."}
+      ],
+      "phrases": [
+        {"tokens": ["2:1.1", "2:1.2", "2:1.3"], "english": "So the heavens and the earth were finished", "literal": "'and-were-finished the-heavens and-the-earth': a passive, so the heavens and the earth are what is finished. The ו of the wayyiqtol is rendered 'So', as the sequel to 1:31."},
+        {"tokens": ["2:1.4", "2:1.5"], "english": "and all their host", "literal": "'and-all-their-host': the host is added to the heavens and the earth. Ibn Ezra counts the sea within 'the earth'."}
+      ],
+      "grammar": [
+        "וַיְכֻלּוּ is a pual wayyiqtol, third person masculine plural. The form is passive, and the verb comes before its subject, as in narrative sequence.",
+        "The plural verb agrees with a compound subject, the heavens and the earth with the host added. שָׁמַיִם is grammatically plural.",
+        "The tipḥa on הָאָרֶץ and the silluq on צְבָאָם divide the verse into the pair of heavens and earth and the closing addition of the host.",
+        "The lemma כָּלָה lists Qal and Piel senses but no Pual; the sense is taken from Qal 1.b, which fits the passive."
+      ],
+      "note": "The English reads the passive as 'were finished', which is Ibn Ezra's sense. 'So' carries the sequential ו. The sea is not named, though Ibn Ezra counts it within 'the earth'.",
+      "commentary": [
+        {"anchor": "ibn-ezra:2:1:1", "relation": "follows", "summary": "Ibn Ezra: the verb is in the passive pattern in which the doer is not named, and it means 'were completed'. The sea is included in 'the earth', since the parts form one unit. The English takes the passive 'were finished'."},
+        {"anchor": "onkelos:2:1:1", "relation": "follows", "summary": "Targum Onkelos renders the verse as a passive, 'the heavens and the earth were completed, and all their hosts'. This agrees with the English."},
+        {"anchor": "radak:2:1:1", "relation": "records", "summary": "Radak reads 'the host of heaven and the host of earth' as their generations, all of which were finished on the sixth day. The English keeps the word 'host' and does not adopt this sense."},
+        {"anchor": "ramban:2:1:1", "relation": "records", "summary": "Ramban takes 'the host of the earth' as the beasts, creeping things, fish, plants and man, and 'the host of heaven' as the luminaries and stars. The English keeps the general word 'host'."}
+      ],
+      "apparatus": [
+        "Open: 'host' (צְבָא) may mean the heavenly and earthly hosts (Ramban) or their generations (Radak). The English keeps 'host'."
+      ]
+    },
+    {
+      "ref": "2:2",
+      "english": "On the seventh day God finished his work that he had made, and on the seventh day he rested from all his work that he had made.",
+      "literal": "and-finished God on-day the-seventh his-work that-he-made and-rested on-day the-seventh from-all his-work that-he-made",
+      "tokens": [
+        {"id": "2:2.1", "gloss": "and finished", "sense": "Pi 1.a", "note": "Piel wayyiqtol of כָּלָה: the intensive stem, 'finish, bring to an end'. The object follows the subject and the time phrase."},
+        {"id": "2:2.2", "gloss": "God", "sense": "3", "note": "A plural form (אֱלֹהִים) with a singular verb, as always for the God of Israel."},
+        {"id": "2:2.3", "gloss": "on day", "sense": "1", "note": "בְּ + יוֹם. The article is on the ordinal that follows."},
+        {"id": "2:2.4", "gloss": "the seventh", "note": "הַ + שְׁבִיעִי: 'the seventh day', with the article on the adjective."},
+        {"id": "2:2.5", "gloss": "his work", "sense": "3", "note": "The feminine construct מְלֶאכֶת before the suffix -וֹ, 'his'."},
+        {"id": "2:2.6", "gloss": "that", "note": "The relative אֲשֶׁר introduces the clause 'that he had made'."},
+        {"id": "2:2.7", "gloss": "he had made", "sense": "Qal II.1", "note": "Qatal of עָשָׂה in a relative clause. Here the verb means 'make', as of creation."},
+        {"id": "2:2.8", "gloss": "and he rested", "sense": "Qal 2", "note": "Wayyiqtol of שָׁבַת. The Sabbath (שַׁבָּת) is named from this root."},
+        {"id": "2:2.9", "gloss": "on day", "sense": "1"},
+        {"id": "2:2.10", "gloss": "the seventh", "note": "The article is on the ordinal, as in 2:2.4."},
+        {"id": "2:2.11", "gloss": "from all", "sense": "1", "note": "מִ + כֹּל in the construct, 'from all of'."},
+        {"id": "2:2.12", "gloss": "his work", "sense": "3"},
+        {"id": "2:2.13", "gloss": "that"},
+        {"id": "2:2.14", "gloss": "he had made", "sense": "Qal II.1"}
+      ],
+      "phrases": [
+        {"tokens": ["2:2.1", "2:2.2", "2:2.3", "2:2.4"], "english": "On the seventh day God finished", "literal": "'and-finished God on-day the-seventh': the Piel verb first, then the subject and the time. The English moves the time phrase to the front."},
+        {"tokens": ["2:2.5", "2:2.6", "2:2.7"], "english": "his work that he had made", "literal": "'his-work that-he-made': the relative clause is in the qatal, read as a pluperfect."},
+        {"tokens": ["2:2.8", "2:2.9", "2:2.10"], "english": "and on the seventh day he rested", "literal": "'and-rested on-day the-seventh'. The verb of rest is the root of the Sabbath."},
+        {"tokens": ["2:2.11", "2:2.12", "2:2.13", "2:2.14"], "english": "from all his work that he had made", "literal": "'from-all his-work that-he-made': the same relative clause as in the first half."}
+      ],
+      "grammar": [
+        "וַיְכַל is a Piel wayyiqtol of כָּלָה with God as subject: 'and he finished'. The object מְלַאכְתּוֹ follows the time phrase.",
+        "The plural אֱלֹהִים takes singular verbs (wayyekhal, wayyishbot) throughout the verse.",
+        "The relative clause מְלַאכְתּוֹ אֲשֶׁר עָשָׂה has its verb in the qatal, 'he had made', so the English uses the pluperfect in both halves.",
+        "The etnaḥta on עָשָׂה (2:2.7) divides the verse in two. The two halves run in parallel: finishing and resting, each with the seventh day and the work."
+      ],
+      "note": "The English follows Rashi's 'on the seventh day'. Ibn Ezra reads the bet as 'before', so that the work was finished by the sixth day; that reading is recorded, not adopted. 'Rested' keeps the basic sense of the verb.",
+      "commentary": [
+        {"anchor": "rashi:2:2:1", "relation": "follows", "summary": "Rashi, citing R. Shimon: God, who knows the exact moment, let the Sabbath enter 'like a hair's breadth', so the work appears finished on the day itself. The world lacked only rest, and when Shabbat came the work was complete. The English 'on the seventh day God finished' follows this."},
+        {"anchor": "ibn-ezra:2:2:1", "relation": "records", "summary": "Ibn Ezra rejects as insipid the view that the creation of the seventh day completed the work. He reads the bet of בַּיּוֹם as 'before', so that God finished before the seventh day, and reads וַיְכַל and וַיִּשְׁבֹּת the same way. The English does not adopt this."},
+        {"anchor": "ibn-ezra:2:2:2", "relation": "records", "summary": "Ibn Ezra takes 'his work that he had made' to mean the work made on the sixth day, before the Sabbath. The English does not name the day of the making and keeps the relative clause as written."},
+        {"anchor": "ibn-ezra:2:2:3", "relation": "follows", "summary": "Ibn Ezra glosses 'from all his work' as 'from all the creatures that he created'. The English keeps 'work', which here means the making of the created world."},
+        {"anchor": "onkelos:2:2:1", "relation": "follows", "summary": "Targum Onkelos has 'on the seventh day the LORD completed his work which he had done', placing the completion on the seventh day as the English does."}
+      ],
+      "apparatus": [
+        "Open: בַּיּוֹם הַשְּׁבִיעִי can mean 'on the seventh day' (Rashi, Onkelos) or 'by / before the seventh day' (Ibn Ezra). The English reads 'on'."
+      ]
+    },
+    {
+      "ref": "2:3",
+      "english": "God blessed the seventh day and made it holy, because on it he rested from all his work which God had created to make.",
+      "literal": "and-blessed God ACC-day the-seventh and-made-holy ACC-it because in-it rested from-all his-work which God-created to-make",
+      "tokens": [
+        {"id": "2:3.1", "gloss": "and blessed", "sense": "Pi 2", "note": "Piel wayyiqtol of בָּרַךְ, with God as subject. The Qal of this root means 'kneel', a different sense."},
+        {"id": "2:3.2", "gloss": "God", "sense": "3", "note": "A plural form with a singular verb."},
+        {"id": "2:3.3", "gloss": "(object marker)", "note": "The object marker אֵת before the definite noun 'the seventh day'. It has no English counterpart."},
+        {"id": "2:3.4", "gloss": "day", "sense": "1"},
+        {"id": "2:3.5", "gloss": "the seventh", "note": "The article is on the ordinal."},
+        {"id": "2:3.6", "gloss": "and made holy", "sense": "Pi 1", "note": "Piel wayyiqtol of קָדַשׁ, 'set apart as sacred, consecrate'. The day is set apart from the working days."},
+        {"id": "2:3.7", "gloss": "it", "note": "The object marker with the 3rd masculine suffix: 'it', the day."},
+        {"id": "2:3.8", "gloss": "because", "sense": "3", "note": "כִּי introduces the reason for the blessing and the holiness."},
+        {"id": "2:3.9", "gloss": "on it", "note": "בְּ with the 3rd masculine suffix: 'on it', the day."},
+        {"id": "2:3.10", "gloss": "he rested", "sense": "Qal 2", "note": "Qatal of שָׁבַת. This rest is the reason given in the clause after כִּי."},
+        {"id": "2:3.11", "gloss": "from all", "sense": "1"},
+        {"id": "2:3.12", "gloss": "his work", "sense": "3"},
+        {"id": "2:3.13", "gloss": "which", "note": "The relative אֲשֶׁר with a qatal verb: 'which God had created'."},
+        {"id": "2:3.14", "gloss": "had created", "sense": "Qal", "note": "Qatal of בָּרָא, 'create', the verb of 1:1."},
+        {"id": "2:3.15", "gloss": "God", "sense": "3"},
+        {"id": "2:3.16", "gloss": "to make", "sense": "Qal II.1", "note": "Infinitive construct with ל. Purpose or result is not marked; the English keeps the infinitive as written."}
+      ],
+      "phrases": [
+        {"tokens": ["2:3.1", "2:3.2", "2:3.3", "2:3.4", "2:3.5"], "english": "God blessed the seventh day", "literal": "'and-blessed God ACC-day the-seventh': the Piel of 'bless' with God as subject. The object marker has no English counterpart. The English takes Ibn Ezra's sense, added good, for 'blessed'."},
+        {"tokens": ["2:3.6", "2:3.7"], "english": "and made it holy", "literal": "'and-made-holy ACC-it': the day is set apart as holy."},
+        {"tokens": ["2:3.8", "2:3.9", "2:3.10"], "english": "because on it he rested", "literal": "'because in-it rested': the causal clause gives the ground of the blessing and the holiness."},
+        {"tokens": ["2:3.11", "2:3.12", "2:3.13", "2:3.14", "2:3.15", "2:3.16"], "english": "from all his work which God had created to make", "literal": "'from-all his-work which God-created to-make'. The infinitive keeps open whether the making is purpose or result."}
+      ],
+      "grammar": [
+        "Two Piel wayyiqtol verbs of God, 'blessed' and 'made holy', are followed by a causal clause with כִּי and a qatal. The clause gives the reason.",
+        "The object marker אֶת־ before יוֹם, and the suffixed אֹתוֹ after the second verb, make the day the object of both verbs.",
+        "אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת is a relative clause. The infinitive לַעֲשׂוֹת, with ל 'to', may express purpose or result, and the verse does not say which.",
+        "The paragraph mark after this verse closes the account of the seventh day. The silluq on לַעֲשׂוֹת ends the verse on the infinitive."
+      ],
+      "note": "'Blessed' takes Ibn Ezra's sense of added good, the plain sense of the Piel. Rashi's manna reading is recorded. 'To make' is kept open between purpose and result, which the Hebrew leaves undecided.",
+      "commentary": [
+        {"anchor": "rashi:2:3:1", "relation": "records", "summary": "Rashi: 'he blessed' and 'made holy' refer to the manna, which fell double on the sixth day and not at all on the Sabbath, the verse being written about the future. The English keeps the plain sense of 'blessed' and does not adopt this."},
+        {"anchor": "ibn-ezra:2:3:1", "relation": "follows", "summary": "Ibn Ezra: 'blessing' is added good. On that day the bodies receive new strength for generation and the souls new understanding. The English 'blessed' carries this sense."},
+        {"anchor": "ibn-ezra:2:3:2", "relation": "follows", "summary": "Ibn Ezra: God made the day holy because no work was done in it, as on its fellow days. The English gives this as the ground of the holiness, together with the rest in the causal clause."},
+        {"anchor": "ibn-ezra:2:3:3", "relation": "records", "summary": "Ibn Ezra: 'which God created to make' means the seeds of every kind, to which he gave the power to produce their like. He rejects reading 'to make' in place of 'created'. The English keeps both verbs and does not adopt the seeds reading."},
+        {"anchor": "rashi:2:3:2", "relation": "records", "summary": "Rashi: the work that was fit to be done on the Sabbath, God doubled and did on the sixth day. The English keeps the infinitive open and does not adopt this."},
+        {"anchor": "onkelos:2:3:1", "relation": "follows", "summary": "Targum Onkelos renders 'blessed' and 'hallowed' by their plain equivalents, and 'to make' as 'to do', keeping the infinitive open as the English does."}
+      ],
+      "apparatus": [
+        "Open: לַעֲשׂוֹת may be purpose ('which God created in order to make') or result ('which God created, to make'). The English keeps the infinitive as written."
+      ]
+    },
+    {
+      "ref": "2:4",
+      "english": "These are the generations of the heavens and the earth when they were created, on the day the LORD God made earth and heavens.",
+      "literal": "these generations-of the-heavens and-the-earth in-their-being-created on-day of-making the-LORD God earth and-heavens",
+      "tokens": [
+        {"id": "2:4.1", "gloss": "these", "sense": "b", "note": "The formula אֵלֶּה תוֹלְדוֹת recurs at 6:9, 10:1 and 11:27. Rashi reads 'these' as the things mentioned above."},
+        {"id": "2:4.2", "gloss": "generations of", "note": "Plural construct of תּוֹלֵדָה, 'generation, begetting, account'. The formula introduces what came from the heavens and the earth."},
+        {"id": "2:4.3", "gloss": "the heavens", "sense": "1.a"},
+        {"id": "2:4.4", "gloss": "and the earth", "sense": "1.a"},
+        {"id": "2:4.5", "gloss": "when they were created", "sense": "Niph 1", "note": "Niphal infinitive construct with ב and the 3rd plural suffix: 'in their being created', rendered as a temporal clause."},
+        {"id": "2:4.6", "gloss": "on the day of", "sense": "1", "note": "בְּ + יוֹם, the head of the construct chain 'the day of making'."},
+        {"id": "2:4.7", "gloss": "making", "sense": "Qal II.1", "note": "Infinitive construct of עָשָׂה, the second term of the construct chain."},
+        {"id": "2:4.8", "gloss": "the LORD", "note": "The name יְהוָה, rendered 'the LORD' (decisions)."},
+        {"id": "2:4.9", "gloss": "God", "sense": "3", "note": "With יְהוָה: 'the LORD God' (decisions)."},
+        {"id": "2:4.10", "gloss": "earth", "sense": "1.a", "note": "'Earth and heavens' reverses the order of 1:1 ('heavens and earth'). The English keeps the reversed order."},
+        {"id": "2:4.11", "gloss": "and heavens", "sense": "1.a"}
+      ],
+      "phrases": [
+        {"tokens": ["2:4.1", "2:4.2", "2:4.3", "2:4.4"], "english": "These are the generations of the heavens and the earth", "literal": "'these generations-of the-heavens and-the-earth': 'are' is added to join the subject and the predicate of the formula."},
+        {"tokens": ["2:4.5"], "english": "when they were created", "literal": "'in-their-being-created': a temporal clause in the infinitive."},
+        {"tokens": ["2:4.6", "2:4.7", "2:4.8", "2:4.9", "2:4.10", "2:4.11"], "english": "on the day the LORD God made earth and heavens", "literal": "'on-the-day-of making the-LORD God earth and-heavens': the construct chain, read as a relative clause with 'made'."}
+      ],
+      "grammar": [
+        "אֵלֶּה תּוֹלְדוֹת is the heading formula 'these are the generations of', used at 6:9, 10:1 and 11:27. Here it opens the account of the heavens and the earth.",
+        "בְּהִבָּרְאָם is a Niphal infinitive construct with the preposition ב and a 3rd plural suffix. It is a temporal clause, 'in their being created'.",
+        "After the formula there are two temporal phrases: the infinitive clause, and the construct chain 'on the day of the LORD God's making'.",
+        "The tevir on הַשָּׁמַיִם, the etnaḥta on בְּהִבָּרְאָם and the tipḥa on הָאָרֶץ divide the first part. The silluq on וְשָׁמָיִם closes the verse."
+      ],
+      "note": "The English follows Rashi and Ibn Ezra on 'these' (the things above) and on 'generations' (what came forth). The reversed order 'earth and heavens' is kept. Rashi's 'all created at the first' and Ibn Ezra's 'when the firmament was made' are recorded.",
+      "commentary": [
+        {"anchor": "rashi:2:4:1", "relation": "follows", "summary": "Rashi: 'these' refers to what was mentioned above, the account of creation in chapter 1. The English 'These' refers back to that account."},
+        {"anchor": "rashi:2:4:2", "relation": "records", "summary": "Rashi reads בְּהִבָּרְאָם as teaching that all things were created at the first, and, in another reading, as a play on the letter ה of the divine name. The English 'when they were created' does not adopt either reading."},
+        {"anchor": "ibn-ezra:2:4:1", "relation": "follows", "summary": "Ibn Ezra: 'these are the generations' means these are what the heavens and the earth begot, the things they produced. The English 'generations of' takes this produced sense."},
+        {"anchor": "ibn-ezra:2:4:2", "relation": "records", "summary": "Ibn Ezra: 'in their creation' means when the firmament was there and the earth appeared. The English keeps the general 'when they were created'."},
+        {"anchor": "ibn-ezra:2:4:3", "relation": "follows", "summary": "Ibn Ezra: 'on the day of making' restates the creation. 'Made' is a term for the same act, as in 'he hastened to make it' (18:7) and 'I created him, then formed him, then made him'. The English keeps 'made' in this general sense."},
+        {"anchor": "onkelos:2:4:1", "relation": "follows", "summary": "Targum Onkelos renders 'when they were created' and keeps the order 'earth and heavens'. The English agrees."}
+      ],
+      "apparatus": [
+        "Open: בְּהִבָּרְאָם may mean 'in their creation' in general, or 'when the firmament was made' (Ibn Ezra). The English keeps 'when they were created'."
+      ]
+    },
+    {
+      "ref": "2:5",
+      "english": "Every tree of the field had not yet been in the earth, and every herb of the field had not yet sprouted, for the LORD God had not sent rain on the earth, and there was no man to work the ground.",
+      "literal": "and-every tree-of the-field not-yet be in-the-earth and-every herb-of the-field not-yet sprouted because not sent-rain the-LORD God upon the-earth and-no man to-work ACC the-ground",
+      "tokens": [
+        {"id": "2:5.1", "gloss": "and every", "sense": "1", "note": "וְ + כֹל, 'every' before the noun."},
+        {"id": "2:5.2", "gloss": "tree", "note": "שִׂיחַ. BDB gives 'bush, shrub'; Ibn Ezra and Radak read 'tree', and the English follows them."},
+        {"id": "2:5.3", "gloss": "of the field", "sense": "1", "note": "שָׂדֶה is open country. Contrast אֲדָמָה, 'ground', in 2:5.23."},
+        {"id": "2:5.4", "gloss": "not yet", "note": "טֶרֶם with the yiqtol means 'not yet' (Rashi)."},
+        {"id": "2:5.5", "gloss": "had been", "sense": "Qal III.1", "note": "Yiqtol of הָיָה after טֶרֶם: 'had not yet been'."},
+        {"id": "2:5.6", "gloss": "in the earth", "sense": "1.a"},
+        {"id": "2:5.7", "gloss": "and every", "sense": "1"},
+        {"id": "2:5.8", "gloss": "herb", "note": "עֵשֶׂב, a green plant. Contrast 'tree' in 2:5.2."},
+        {"id": "2:5.9", "gloss": "of the field", "sense": "1"},
+        {"id": "2:5.10", "gloss": "not yet", "note": "The second טֶרֶם repeats the first."},
+        {"id": "2:5.11", "gloss": "had sprouted", "sense": "Qal", "note": "Yiqtol of צָמַח, 'sprout, spring up'."},
+        {"id": "2:5.12", "gloss": "for", "sense": "3", "note": "כִּי introduces the reason for the absence of plants: no rain, and no one to till."},
+        {"id": "2:5.13", "gloss": "not"},
+        {"id": "2:5.14", "gloss": "had sent rain", "sense": "Hiph", "note": "Hiphil perfect of מָטַר, 'send rain'."},
+        {"id": "2:5.15", "gloss": "the LORD"},
+        {"id": "2:5.16", "gloss": "God", "sense": "3"},
+        {"id": "2:5.17", "gloss": "on", "sense": "II.1"},
+        {"id": "2:5.18", "gloss": "the earth", "sense": "1.a"},
+        {"id": "2:5.19", "gloss": "and man", "sense": "1", "note": "אָדָם with no article and not used as a name: 'a man', 'a human'. Contrast הָאָדָם in 2:7."},
+        {"id": "2:5.20", "gloss": "there was no", "sense": "3", "note": "אַיִן with ל and an infinitive: 'there was none to' work the ground."},
+        {"id": "2:5.21", "gloss": "to work", "sense": "Qal 1", "note": "Infinitive construct with ל, followed by its object."},
+        {"id": "2:5.22", "gloss": "(object marker)", "note": "The object marker before 'the ground'."},
+        {"id": "2:5.23", "gloss": "the ground", "sense": "1", "note": "אֲדָמָה, cultivable soil. It shares its root with אָדָם, 'man' (2:7), and the text links the man with the ground he tills."}
+      ],
+      "phrases": [
+        {"tokens": ["2:5.1", "2:5.2", "2:5.3", "2:5.4", "2:5.5", "2:5.6"], "english": "Every tree of the field had not yet been in the earth", "literal": "'and-every tree-of the-field not-yet be in-the-earth': the yiqtol after טֶרֶם is a past negative."},
+        {"tokens": ["2:5.7", "2:5.8", "2:5.9", "2:5.10", "2:5.11"], "english": "and every herb of the field had not yet sprouted", "literal": "'and-every herb-of the-field not-yet sprouted'."},
+        {"tokens": ["2:5.12", "2:5.13", "2:5.14", "2:5.15", "2:5.16"], "english": "for the LORD God had not sent rain", "literal": "'because not sent-rain the-LORD God': the causal clause gives the reason the plants had not grown."},
+        {"tokens": ["2:5.17", "2:5.18"], "english": "on the earth", "literal": "'upon the-earth'."},
+        {"tokens": ["2:5.19", "2:5.20"], "english": "and there was no man", "literal": "'and-man there-is-not': the negative existential with a common noun, not the name Adam."},
+        {"tokens": ["2:5.21", "2:5.22", "2:5.23"], "english": "to work the ground", "literal": "'to-work ACC the-ground': the infinitive with ל and its object."}
+      ],
+      "grammar": [
+        "טֶרֶם with a yiqtol means 'not yet', so the plants 'had not yet been' and 'had not yet sprouted' (Rashi).",
+        "כִּי introduces a causal clause, marked by a telisha qetana. The clause runs to the silluq on הָאֲדָמָה, which closes the verse.",
+        "The verse has a wordplay: הָאֲדָמָה 'the ground' and אָדָם 'man' share the root אדם. The verse ends by naming the man who will work the ground.",
+        "אַיִן with ל and an infinitive means 'there was none to work'. The noun אָדָם is the subject of the negative existential."
+      ],
+      "note": "'Tree' follows Ibn Ezra and Radak, against the lexicon's first gloss 'shrub'. 'Had not yet' follows Rashi's reading of טֶרֶם. The English does not state why the rain was withheld.",
+      "commentary": [
+        {"anchor": "rashi:2:5:1", "relation": "follows", "summary": "Rashi: טֶרֶם in Scripture always means 'not yet' (עַד לֹא), not 'before'. The plants were still at the opening of the ground until the sixth day, when the world was finished and before man was made. The English 'had not yet' follows this."},
+        {"anchor": "rashi:2:5:2", "relation": "records", "summary": "Rashi: rain was withheld because no man was there to work the ground and value the rain. When man came and knew that the world needed rain, he prayed, and the rain fell and plants grew. The English keeps the verse's own link and does not state this reason."},
+        {"anchor": "rashi:2:5:3", "relation": "follows", "summary": "Rashi: 'the LORD' is his name, and 'God' is the ruler and judge over all, so the combination is read plainly as 'the LORD who is God' in every place. The English 'the LORD God' follows this."},
+        {"anchor": "ibn-ezra:2:5:1", "relation": "follows", "summary": "Ibn Ezra: שִׂיחַ means a tree, in his view a fruit tree, since man is compared to a tree; he cites Job 30:7 for the word. The English takes 'tree' and does not adopt 'fruit tree'."},
+        {"anchor": "onkelos:2:5:1", "relation": "follows", "summary": "Targum Onkelos renders the words as 'all the trees of the field' and 'all the herb of the field', following the verse closely as the English does."}
+      ],
+      "apparatus": [
+        "Open: שִׂיחַ is 'bush, shrub' in BDB, but 'tree' for Ibn Ezra and Radak. The English takes 'tree'."
+      ]
+    },
+    {
+      "ref": "2:6",
+      "english": "But a mist would rise from the earth and would water the whole surface of the ground.",
+      "literal": "and-mist would-rise from-the-earth and-would-water ACC the-whole-surface-of the-ground",
+      "tokens": [
+        {"id": "2:6.1", "gloss": "but a mist", "note": "The ו is contrastive, after the drought of 2:5. אֵד is 'mist', 'smoke' for Ibn Ezra, 'cloud' for Onkelos."},
+        {"id": "2:6.2", "gloss": "would rise", "sense": "Qal 1", "note": "Yiqtol: a habitual or continuing action."},
+        {"id": "2:6.3", "gloss": "from", "sense": "2"},
+        {"id": "2:6.4", "gloss": "the earth", "sense": "1.a"},
+        {"id": "2:6.5", "gloss": "and would water", "sense": "Hiph 1", "note": "Weqatal (sequential perfect) continuing the yiqtol, so the habit carries on."},
+        {"id": "2:6.6", "gloss": "(object marker)", "note": "The object marker before the construct phrase."},
+        {"id": "2:6.7", "gloss": "the whole", "sense": "1"},
+        {"id": "2:6.8", "gloss": "surface of", "sense": "I.5", "note": "פְּנֵי, 'face', is here the surface of the ground, as a construct."},
+        {"id": "2:6.9", "gloss": "the ground", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["2:6.1", "2:6.2", "2:6.3", "2:6.4"], "english": "But a mist would rise from the earth", "literal": "'and-mist would-rise from-the-earth': the ו is rendered 'But' for the contrast."},
+        {"tokens": ["2:6.5", "2:6.6", "2:6.7", "2:6.8", "2:6.9"], "english": "and would water the whole surface of the ground", "literal": "'and-would-water ACC the-whole-surface-of the-ground': the weqatal continues the habit of the yiqtol."}
+      ],
+      "grammar": [
+        "וְאֵד begins with ו as a contrast to the drought of 2:5: 'but a mist'.",
+        "יַעֲלֶה (yiqtol) describes a repeated action, 'would rise'. The weqatal וְהִשְׁקָה continues it, 'and would water'.",
+        "The construct phrase כׇּל־פְּנֵי הָאֲדָמָה is 'the whole face of the ground', rendered 'the whole surface of the ground'.",
+        "The tipḥa on וְאֵד, the munaḥ on יַעֲלֶה and the etnaḥta on הָאָרֶץ divide the verse. The silluq on הָאֲדָמָה closes it."
+      ],
+      "note": "'Mist' keeps the Hebrew word. The English reads the habit as ongoing, so 'would' carries into 'would water'. Rashi's reading, the deep raising moisture for the making of man, is recorded.",
+      "commentary": [
+        {"anchor": "rashi:2:6:1", "relation": "records", "summary": "Rashi: the verse concerns the making of man. The deep sent up water and mist to soften the dust, as a kneader wets flour before he forms the dough, and then God formed the man. The English reads the mist as general watering of the ground and does not adopt this."},
+        {"anchor": "ibn-ezra:2:6:1", "relation": "follows", "summary": "Ibn Ezra: the mist is like smoke. A mist rose from the earth by the power of the luminaries, watered the ground and made it grow. He notes the Gaon's reading 'and no mist rose' and does not follow it. The English takes his positive reading."},
+        {"anchor": "onkelos:2:6:1", "relation": "follows", "summary": "Targum Onkelos has a cloud that used to rise from the earth and water all the surface of the ground. It agrees with the habitual sense of the English."}
+      ],
+      "apparatus": [
+        "Open: אֵד is 'mist' here. Onkelos reads 'cloud' and Ibn Ezra 'smoke'. The Gaon, as Ibn Ezra reports him, reads the verse negatively, 'and no mist rose'. The English does not adopt this."
+      ]
+    },
+    {
+      "ref": "2:7",
+      "english": "Then the LORD God formed the human from the dust of the ground and breathed into his nostrils the breath of life, and the human became a living being.",
+      "literal": "and-formed the-LORD God ACC-the-human dust from-the-ground and-breathed in-his-nostrils breath-of life and-became the-human for-a-being living",
+      "tokens": [
+        {"id": "2:7.1", "gloss": "then formed", "sense": "Qal 2", "note": "Wayyiqtol of יָצַר, 'form, fashion'. God is the subject, so the lexicon's divine sense Qal 2 applies. The doubled yod is discussed in the commentary."},
+        {"id": "2:7.2", "gloss": "the LORD", "note": "The name יְהוָה, rendered 'the LORD'."},
+        {"id": "2:7.3", "gloss": "God", "sense": "3"},
+        {"id": "2:7.4", "gloss": "(object marker)", "note": "The object marker before the definite noun 'the human'."},
+        {"id": "2:7.5", "gloss": "the human", "sense": "2", "note": "With the article, הָאָדָם is the common noun 'the human being' (decisions), not the name Adam."},
+        {"id": "2:7.6", "gloss": "dust", "note": "עָפָר, dry earth, dust."},
+        {"id": "2:7.7", "gloss": "from", "sense": "2"},
+        {"id": "2:7.8", "gloss": "the ground", "sense": "1", "note": "Cognate with אָדָם (2:7.5). The man is made of the ground."},
+        {"id": "2:7.9", "gloss": "and breathed", "sense": "Qal", "note": "Wayyiqtol of נָפַח, 'breathe, blow'."},
+        {"id": "2:7.10", "gloss": "into his nostrils", "sense": "1", "note": "The dual form אַפַּיִם, 'nostrils', with the 3rd masculine suffix."},
+        {"id": "2:7.11", "gloss": "the breath", "note": "Construct of נְשָׁמָה, 'breath'."},
+        {"id": "2:7.12", "gloss": "of life", "sense": "1"},
+        {"id": "2:7.13", "gloss": "and became", "sense": "Qal II.2", "note": "Wayyiqtol of הָיָה, 'be, become'. The predicate follows with ל."},
+        {"id": "2:7.14", "gloss": "the human", "sense": "2"},
+        {"id": "2:7.15", "gloss": "a being", "sense": "1", "note": "לְ + נֶפֶשׁ as a predicate: 'a living being'."},
+        {"id": "2:7.16", "gloss": "living", "sense": "1.c", "note": "The adjective חַי, 'alive, living'."}
+      ],
+      "phrases": [
+        {"tokens": ["2:7.1", "2:7.2", "2:7.3", "2:7.4", "2:7.5"], "english": "Then the LORD God formed the human", "literal": "'and-formed the-LORD God ACC-the-human': the English puts 'Then' for the sequential ו."},
+        {"tokens": ["2:7.6", "2:7.7", "2:7.8"], "english": "from the dust of the ground", "literal": "'dust from-the-ground': 'of' is supplied in English between 'dust' and 'the ground'."},
+        {"tokens": ["2:7.9", "2:7.10", "2:7.11", "2:7.12"], "english": "and breathed into his nostrils the breath of life", "literal": "'and-breathed in-his-nostrils breath-of life'."},
+        {"tokens": ["2:7.13", "2:7.14", "2:7.15", "2:7.16"], "english": "and the human became a living being", "literal": "'and-became the-human for-a-being living': the ל marks the predicate after 'became'."}
+      ],
+      "grammar": [
+        "Two wayyiqtol verbs of God, 'formed' and 'breathed', are followed by the result, 'the human became a living being'.",
+        "וַיִּיצֶר is the Qal of יָצַר, a verb whose first root letter is yod. The form is written with a doubled yod here.",
+        "לְנֶפֶשׁ חַיָּה is predicative after 'became' (וַיְהִי). The ל marks the predicate, 'became a living being'.",
+        "The tipḥa, the etnaḥta on חַיִּים that divides the act of breathing from its result, and the silluq on חַיָּה ending the verse, mark the structure of the sentence."
+      ],
+      "note": "The English follows Ibn Ezra's immediacy ('became' at once) and Rashi's contrast of body and breath. Rashi's double yod and Onkelos's 'speaking spirit' are recorded.",
+      "commentary": [
+        {"anchor": "rashi:2:7:1", "relation": "records", "summary": "Rashi: the double yod in וַיִּיצֶר marks two formations, one for this world and one for the resurrection of the dead. Beasts, which face no judgement, lack the double yod. The English 'formed' does not carry this, and the reading is recorded."},
+        {"anchor": "rashi:2:7:2", "relation": "records", "summary": "Rashi: God gathered dust from the whole ground, from the four winds, so that wherever the man would die the ground would receive him for burial. The English keeps the verse's 'dust from the ground' without stating this."},
+        {"anchor": "rashi:2:7:3", "relation": "follows", "summary": "Rashi: the man was made of a lower part, the body from the dust, and an upper part, the breath from above. The English keeps the verse's contrast between the dust and the breath, which is its plain sense."},
+        {"anchor": "rashi:2:7:4", "relation": "records", "summary": "Rashi: animals are also called living nefesh, but the man is the living one above all, since knowledge and speech were added to him. The English 'a living being' keeps the phrase shared with the animals and does not state the distinction."},
+        {"anchor": "ibn-ezra:2:7:1", "relation": "records", "summary": "Ibn Ezra: the forming was done by the power of the luminaries, and the verb has the Qal pattern of verbs whose first letter is yod, as in wayyiqats (9:24). The English keeps the plain 'formed' and names no cosmic agent."},
+        {"anchor": "ibn-ezra:2:7:2", "relation": "follows", "summary": "Ibn Ezra: 'in his nostrils' is the instrument by which the man lives, since the nostrils expel warm air from the heart and bring in fresh air. The English 'into his nostrils' follows this."},
+        {"anchor": "ibn-ezra:2:7:3", "relation": "follows", "summary": "Ibn Ezra: 'a living being' means one who went at once, like the beasts, and not like infants. The English 'became a living being' keeps this sense of immediate life."},
+        {"anchor": "onkelos:2:7:1", "relation": "records", "summary": "Targum Onkelos renders nefesh as 'a speaking spirit' (רוּחַ מְמַלְלָא). The English keeps 'living being' and does not adopt this."}
+      ],
+      "apparatus": [
+        "Open: the doubled yod (Rashi) and the Qal pattern of the yod-initial verb (Ibn Ezra). 'Living being' (nefesh chayyah) is read as 'speaking spirit' by Onkelos; recorded in the commentary."
+      ]
+    },
+    {
+      "ref": "2:8",
+      "english": "The LORD God had planted a garden in Eden, in the east, and there he placed the human he had formed.",
+      "literal": "and-planted the-LORD God a-garden in-Eden from-east and-placed there ACC the-human which formed",
+      "tokens": [
+        {"id": "2:8.1", "gloss": "and had planted", "sense": "Qal 1", "note": "Wayyiqtol of נָטַע, 'plant'. The English uses the pluperfect because Rashi and Ibn Ezra take the planting as already past."},
+        {"id": "2:8.2", "gloss": "the LORD", "note": "The name יְהוָה."},
+        {"id": "2:8.3", "gloss": "God", "sense": "3"},
+        {"id": "2:8.4", "gloss": "a garden", "note": "גַּן, joined by a maqqef to בְּעֵדֶן: 'a garden in Eden'."},
+        {"id": "2:8.5", "gloss": "in Eden", "note": "Proper name. The ב can also be read 'of Eden' (Ibn Ezra), recorded in the commentary."},
+        {"id": "2:8.6", "gloss": "in the east", "sense": "1.b", "note": "מִקֶּדֶם, 'from the east' or 'in the east' (Rashi, Ibn Ezra). Onkelos reads 'of old'."},
+        {"id": "2:8.7", "gloss": "and placed", "sense": "Qal 4.a", "note": "Wayyiqtol of שׂוּם, 'put, place, set'. 'Station' fits the placing of the man in the garden."},
+        {"id": "2:8.8", "gloss": "there"},
+        {"id": "2:8.9", "gloss": "(object marker)", "note": "The object marker before the definite noun 'the human'."},
+        {"id": "2:8.10", "gloss": "the human", "sense": "2", "note": "With the article, the common noun 'the human' (decisions)."},
+        {"id": "2:8.11", "gloss": "that", "note": "The relative אֲשֶׁר has no English word here. 'the human he had formed' uses the zero relative."},
+        {"id": "2:8.12", "gloss": "he had formed", "sense": "Qal 2", "note": "Qatal of יָצַר, the divine sense, as in 2:7.1."}
+      ],
+      "phrases": [
+        {"tokens": ["2:8.1", "2:8.2", "2:8.3"], "english": "The LORD God had planted", "literal": "'and-planted the-LORD God': the English pluperfect follows the reading that the planting is already past."},
+        {"tokens": ["2:8.4", "2:8.5", "2:8.6"], "english": "a garden in Eden, in the east", "literal": "'a-garden in-Eden from-east': 'from the east' or 'in the east', as Rashi and Ibn Ezra read it."},
+        {"tokens": ["2:8.7", "2:8.8", "2:8.9"], "english": "and there he placed", "literal": "'and-placed there ACC': the object marker has no English counterpart here."},
+        {"tokens": ["2:8.10", "2:8.11", "2:8.12"], "english": "the human he had formed", "literal": "'the-human which formed': the relative is rendered by the zero relative of English."}
+      ],
+      "grammar": [
+        "The pluperfect 'had planted' follows Rashi and Ibn Ezra, who take the planting as already done. The verse returns to the sixth-day creation of man, as Rashi's rule of general and particular explains.",
+        "The divine name pair יְהוָה אֱלֹהִים is 'the LORD God', as in 2:4 and 2:7.",
+        "The relative clause אֲשֶׁר יָצָר is the zero relative 'he had formed' in English: 'the human he had formed'.",
+        "The etnaḥta on מִקֶּדֶם (2:8.6) divides the verse into the planting and the placing. The silluq on יָצָר ends it."
+      ],
+      "note": "'In the east' and 'had planted' follow Rashi and Ibn Ezra. Onkelos's 'of old' and the possible 'of Eden' reading of the bet are recorded.",
+      "commentary": [
+        {"anchor": "rashi:2:8:1", "relation": "follows", "summary": "Rashi: מִקֶּדֶם means 'in the east': God planted the garden in the east of Eden. The verse is a detail of the earlier creation of man, a general statement followed by its particulars, so 'had planted' is the right tense. The English follows this."},
+        {"anchor": "ibn-ezra:2:8:1", "relation": "follows", "summary": "Ibn Ezra: a garden had already been planted in the place called Eden, on its eastern side, and now God placed man there. The English follows this. His reading of the bet as both 'in' and 'of' (the garden of God) is recorded here and not adopted."},
+        {"anchor": "ibn-ezra:2:8:2", "relation": "records", "summary": "Ibn Ezra: the article in ha-adam may be part of a name, as in ha-Yevusi (2 Sam 24:16), and the word may be both noun and adjective, derived from the ground. The English keeps 'the human' as the decisions require and records the name reading."},
+        {"anchor": "onkelos:2:8:1", "relation": "records", "summary": "Targum Onkelos reads מִקֶּדֶם as 'from of old' (מִלְּקַדְמִין), not as 'in the east'. The English follows Rashi and Ibn Ezra and records this."}
+      ],
+      "apparatus": [
+        "Variant: 2:8.5 vowels: WLC reads בְעֵ֖דֶן; base בְּעֵ֖דֶן.",
+        "Open: מִקֶּדֶם is 'in the east' for Rashi and Ibn Ezra, and 'of old' for Onkelos and Ramban."
+      ]
+    }
+  ]
+}

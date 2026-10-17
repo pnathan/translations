@@ -1,0 +1,892 @@
+{
+ "unit": "lekh-lekha-15",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "17:9",
+   "english": "God said to Abraham, \"As for you, you shall keep my covenant, you and your offspring after you, throughout their generations.\"",
+   "literal": "and-said God to-Abraham and-you ACC-covenant-my you-shall-keep you and-seed-your after-you to-generations-their",
+   "tokens": [
+    {
+     "id": "17:9.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "17:9.2",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "17:9.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "17:9.4",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "17:9.5",
+     "gloss": "and you (as for you)",
+     "note": "fronted pronoun, contrastive"
+    },
+    {
+     "id": "17:9.6",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "17:9.7",
+     "gloss": "my covenant",
+     "sense": "II.2",
+     "note": "construct state with 1st-person suffix"
+    },
+    {
+     "id": "17:9.8",
+     "gloss": "you shall keep",
+     "sense": "Qal 3.b",
+     "note": "yiqtol with the force of a command; in pause at the etnaḥta, though the form is the same as out of pause"
+    },
+    {
+     "id": "17:9.9",
+     "gloss": "you"
+    },
+    {
+     "id": "17:9.10",
+     "gloss": "and your offspring",
+     "sense": "4",
+     "note": "construct state with suffix; singular, collective"
+    },
+    {
+     "id": "17:9.11",
+     "gloss": "after you",
+     "sense": "2.b"
+    },
+    {
+     "id": "17:9.12",
+     "gloss": "for their generations",
+     "sense": "2",
+     "note": "plural construct with 3rd masculine plural suffix, referring back to the offspring"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:9.1",
+      "17:9.2",
+      "17:9.3",
+      "17:9.4"
+     ],
+     "english": "God said to Abraham",
+     "literal": "'and-said God to-Abraham'"
+    },
+    {
+     "tokens": [
+      "17:9.5",
+      "17:9.6",
+      "17:9.7",
+      "17:9.8"
+     ],
+     "english": "As for you, you shall keep my covenant",
+     "literal": "'and-you ACC-covenant-my you-shall-keep': the fronted pronoun turns from God's part (vv. 1-8) to Abraham's; Rashi reads the waw as adding to the earlier matter"
+    },
+    {
+     "tokens": [
+      "17:9.9",
+      "17:9.10",
+      "17:9.11"
+     ],
+     "english": "you and your offspring after you",
+     "literal": "'you and-seed-your after-you'"
+    },
+    {
+     "tokens": [
+      "17:9.12"
+     ],
+     "english": "throughout their generations",
+     "literal": "'to-generations-their'"
+    }
+   ],
+   "grammar": [
+    "The fronted pronoun וְאַתָּה before the verb is contrastive: 'and you, for your part'.",
+    "The yiqtol תִשְׁמֹר carries the force of a command or obligation.",
+    "The etnaḥta on תִשְׁמֹר divides the verse; the second half names the persons bound.",
+    "The plural suffix on לְדֹרֹתָם looks back to the singular collective זַרְעֲךָ."
+   ],
+   "note": "The English follows Rashi, who takes the waw as joining a new clause to the earlier promise: 'I, behold, my covenant is with you; and you, keep it'.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:9:1",
+     "relation": "follows",
+     "summary": "Rashi: this waw adds to the earlier matter. I, behold, my covenant is with you; and you must be careful to keep it. The keeping is what follows: 'This is my covenant which you shall keep'."
+    },
+    {
+     "anchor": "ramban:17:9:1",
+     "relation": "not-applicable",
+     "summary": "Ramban endorses Rashi's plain sense and goes on to give reasons for circumcision and a mystical reading of 'my covenant is with you'."
+    },
+    {
+     "anchor": "radak:17:9:2",
+     "relation": "follows",
+     "summary": "Radak: on this condition I shall be God to you and your offspring and give them the land: that you and they keep this covenant of mine."
+    },
+    {
+     "anchor": "sforno:17:9:1",
+     "relation": "follows",
+     "summary": "Sforno: as I am bound by my covenant with you, you keep my covenant, or it will not stand."
+    }
+   ]
+  },
+  {
+   "ref": "17:10",
+   "english": "This is my covenant, which you shall keep between me and you and between your offspring after you: every male among you is to be circumcised.",
+   "literal": "this covenant-my which you-shall-keep between-me and-between-you and-between seed-your after-you to-be-circumcised to-you all male",
+   "tokens": [
+    {
+     "id": "17:10.1",
+     "gloss": "this"
+    },
+    {
+     "id": "17:10.2",
+     "gloss": "my covenant",
+     "sense": "II.2",
+     "note": "construct with 1st-person suffix"
+    },
+    {
+     "id": "17:10.3",
+     "gloss": "which"
+    },
+    {
+     "id": "17:10.4",
+     "gloss": "you shall keep",
+     "sense": "Qal 3.b",
+     "note": "2nd person plural: Abraham together with his offspring"
+    },
+    {
+     "id": "17:10.5",
+     "gloss": "between me",
+     "sense": "1"
+    },
+    {
+     "id": "17:10.6",
+     "gloss": "and between you",
+     "sense": "1",
+     "note": "plural 'you'"
+    },
+    {
+     "id": "17:10.7",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "17:10.8",
+     "gloss": "your offspring",
+     "sense": "4",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "17:10.9",
+     "gloss": "after you",
+     "sense": "2.b",
+     "note": "in pause at the etnaḥta; the form is unchanged"
+    },
+    {
+     "id": "17:10.10",
+     "gloss": "to be circumcised",
+     "sense": "Niph",
+     "note": "Niphal infinitive absolute used as a command"
+    },
+    {
+     "id": "17:10.11",
+     "gloss": "among you",
+     "note": "dative of those concerned"
+    },
+    {
+     "id": "17:10.12",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "17:10.13",
+     "gloss": "male",
+     "sense": "I"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:10.1",
+      "17:10.2"
+     ],
+     "english": "This is my covenant",
+     "literal": "'this covenant-my'"
+    },
+    {
+     "tokens": [
+      "17:10.3",
+      "17:10.4"
+     ],
+     "english": "which you shall keep",
+     "literal": "'which you-shall-keep'"
+    },
+    {
+     "tokens": [
+      "17:10.5",
+      "17:10.6"
+     ],
+     "english": "between me and you",
+     "literal": "'between-me and-between-you'"
+    },
+    {
+     "tokens": [
+      "17:10.7",
+      "17:10.8",
+      "17:10.9"
+     ],
+     "english": "and between your offspring after you",
+     "literal": "'and-between seed-your after-you'"
+    },
+    {
+     "tokens": [
+      "17:10.10",
+      "17:10.11",
+      "17:10.12",
+      "17:10.13"
+     ],
+     "english": "every male among you is to be circumcised",
+     "literal": "'to-be-circumcised to-you all male': infinitive absolute as command, equal to the infinitive construct (Rashi, Ibn Ezra)"
+    }
+   ],
+   "grammar": [
+    "The infinitive absolute הִמּוֹל stands for an injunction, 'every male is to be circumcised'; Rashi and Ibn Ezra equate it with לְהִמּוֹל.",
+    "בֵּין is repeated before each term: 'between me and between you and between your offspring'.",
+    "The plural תִּשְׁמְרוּ addresses Abraham together with his descendants, after the singular of v. 9.",
+    "The gershayim on בְּרִיתִי and the etnaḥta on אַחֲרֶיךָ set the covenant and its parties apart from the command."
+   ],
+   "note": "The English renders the infinitive absolute as a passive command. The pack parses it as nifal; Radak agrees, and Rashi and Ibn Ezra's equation with the infinitive construct supports the English.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:10:1",
+     "relation": "follows",
+     "summary": "Rashi: 'between me and you' means those who are alive now."
+    },
+    {
+     "anchor": "rashi:17:10:2",
+     "relation": "follows",
+     "summary": "Rashi: 'between your offspring after you' means those yet to be born."
+    },
+    {
+     "anchor": "rashi:17:10:3",
+     "relation": "follows",
+     "summary": "Rashi: הִמּוֹל is like לְהִמּוֹל, as one says עֲשׂוֹת for לַעֲשׂוֹת."
+    },
+    {
+     "anchor": "ibn-ezra:17:10:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הִמּוֹל is like לְהִמּוֹל, the infinitive (שם הפועל) of a verb whose second root letter is weak, the root seen in וַיָּמָל (17:23); its pattern is that of לְהִכּוֹן."
+    },
+    {
+     "anchor": "radak:17:10:7",
+     "relation": "records",
+     "summary": "Radak: a Niphal infinitive, 'every male shall be circumcised'; or a noun with added he."
+    }
+   ]
+  },
+  {
+   "ref": "17:11",
+   "english": "You shall circumcise the flesh of your foreskin, and it shall be a sign of covenant between me and you.",
+   "literal": "and-you-shall-circumcise ACC flesh-of foreskin-your and-shall-be for-sign-of covenant between-me and-between-you",
+   "tokens": [
+    {
+     "id": "17:11.1",
+     "gloss": "and you shall circumcise",
+     "note": "weqatal with imperative force. The pack parses it Niphal of נָמַל; Rashi (like וּמַלְתֶּם, וּנְשָׂאתֶם) and Ibn Ezra (like וּשְׁמַרְתֶּם) both take it as active, with a radical nun, 'you shall circumcise', and the English follows them. The entry's only sense, Hithpo 'be cut off', does not fit, so no sense is given."
+    },
+    {
+     "id": "17:11.2",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "17:11.3",
+     "gloss": "the flesh of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "17:11.4",
+     "gloss": "your foreskin",
+     "note": "construct with 2nd masculine plural suffix"
+    },
+    {
+     "id": "17:11.5",
+     "gloss": "and it shall be",
+     "sense": "Qal II.2",
+     "note": "weqatal"
+    },
+    {
+     "id": "17:11.6",
+     "gloss": "for a sign of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "17:11.7",
+     "gloss": "covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "17:11.8",
+     "gloss": "between me",
+     "sense": "1"
+    },
+    {
+     "id": "17:11.9",
+     "gloss": "and between you",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:11.1",
+      "17:11.2",
+      "17:11.3",
+      "17:11.4"
+     ],
+     "english": "You shall circumcise the flesh of your foreskin",
+     "literal": "'and-you-shall-circumcise ACC flesh-of foreskin-your'"
+    },
+    {
+     "tokens": [
+      "17:11.5"
+     ],
+     "english": "and it shall be",
+     "literal": "'and-shall-be'"
+    },
+    {
+     "tokens": [
+      "17:11.6",
+      "17:11.7",
+      "17:11.8",
+      "17:11.9"
+     ],
+     "english": "a sign of covenant between me and you",
+     "literal": "'for-sign-of covenant between-me and-between-you'"
+    }
+   ],
+   "grammar": [
+    "וּנְמַלְתֶּם is a weqatal with imperative force, 'you shall circumcise'.",
+    "בְּשַׂר עָרְלַתְכֶם is a construct chain: 'the flesh of your foreskin'.",
+    "The zaqef gadol on וּנְמַלְתֶּם and the etnaḥta on עָרְלַתְכֶם close the command; the sign clause follows.",
+    "לְאוֹת בְּרִית 'for a sign of covenant' is a construct pair; the sign is the act itself."
+   ],
+   "note": "Rashi: וּנְמַלְתֶּם is like וּמַלְתֶּם, the nun being a radical that drops at times, as in וּנְשָׂאתֶם. Ibn Ezra: like וּשְׁמַרְתֶּם, the nun a root letter. Both read it as active, 'you shall circumcise', though the pack parses it Niphal; the English follows them. The pack's entry נָמַל lists only Hithpo 'be cut off', which does not fit here, so the token has no sense.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:11:1",
+     "relation": "follows",
+     "summary": "Rashi: וּנְמַלְתֶּם is like וּמַלְתֶּם; the nun is extra, belonging to a root letter that drops out at times, like the nun of נוֹשֵׁךְ and נוֹשֵׂא, so וּנְמַלְתֶּם is like וּנְשָׂאתֶם. But יִמּוֹל is Niphal, like יֵעָשֶׂה."
+    },
+    {
+     "anchor": "ibn-ezra:17:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וּנְמַלְתֶּם is like וּשְׁמַרְתֶּם, and the nun is a root letter, as in לֹא יָדוֹן רוּחִי (Gen 6:3) beside נִדְנֶה (Dan 7:15)."
+    },
+    {
+     "anchor": "radak:17:11:2",
+     "relation": "not-applicable",
+     "summary": "Radak: the sign serves as a memorial, as tzitzit and tefillin do, but it is the strongest of them."
+    },
+    {
+     "anchor": "sforno:17:11:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: a constant reminder to walk in His ways, like a master's seal on his slave."
+    }
+   ]
+  },
+  {
+   "ref": "17:12",
+   "english": "At eight days old every male among you is to be circumcised, throughout your generations: the one born in the house, or bought with money from any foreigner who is not of your offspring.",
+   "literal": "and-son-of eight-of days shall-be-circumcised to-you all male to-generations-your born-of house and-purchase-of silver from-all son-of foreign which not from-seed-your he",
+   "tokens": [
+    {
+     "id": "17:12.1",
+     "gloss": "and a son of",
+     "sense": "1",
+     "note": "'son of eight days' means 'eight days old'; construct"
+    },
+    {
+     "id": "17:12.2",
+     "gloss": "eight",
+     "note": "construct"
+    },
+    {
+     "id": "17:12.3",
+     "gloss": "days",
+     "sense": "1"
+    },
+    {
+     "id": "17:12.4",
+     "gloss": "shall be circumcised",
+     "sense": "Niph",
+     "note": "yiqtol with the force of a command"
+    },
+    {
+     "id": "17:12.5",
+     "gloss": "for you (among you)",
+     "note": "dative of those concerned"
+    },
+    {
+     "id": "17:12.6",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "17:12.7",
+     "gloss": "male",
+     "sense": "I"
+    },
+    {
+     "id": "17:12.8",
+     "gloss": "for your generations",
+     "sense": "2",
+     "note": "plural construct with suffix"
+    },
+    {
+     "id": "17:12.9",
+     "gloss": "one born of",
+     "note": "construct"
+    },
+    {
+     "id": "17:12.10",
+     "gloss": "house",
+     "sense": "1",
+     "note": "Rashi: born in the house to a maidservant"
+    },
+    {
+     "id": "17:12.11",
+     "gloss": "and one bought with",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "17:12.12",
+     "gloss": "money",
+     "note": "absolute"
+    },
+    {
+     "id": "17:12.13",
+     "gloss": "from any",
+     "sense": "1"
+    },
+    {
+     "id": "17:12.14",
+     "gloss": "son of",
+     "sense": "7.a",
+     "note": "construct"
+    },
+    {
+     "id": "17:12.15",
+     "gloss": "foreigner",
+     "note": "'son of foreignness': a foreigner"
+    },
+    {
+     "id": "17:12.16",
+     "gloss": "who"
+    },
+    {
+     "id": "17:12.17",
+     "gloss": "not"
+    },
+    {
+     "id": "17:12.18",
+     "gloss": "of your offspring",
+     "sense": "4",
+     "note": "'from your seed'"
+    },
+    {
+     "id": "17:12.19",
+     "gloss": "he",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:12.1",
+      "17:12.2",
+      "17:12.3",
+      "17:12.4",
+      "17:12.5",
+      "17:12.6",
+      "17:12.7"
+     ],
+     "english": "At eight days old every male among you is to be circumcised",
+     "literal": "'and-son-of eight-of days shall-be-circumcised to-you all male'"
+    },
+    {
+     "tokens": [
+      "17:12.8"
+     ],
+     "english": "throughout your generations",
+     "literal": "'to-generations-your'"
+    },
+    {
+     "tokens": [
+      "17:12.9",
+      "17:12.10"
+     ],
+     "english": "the one born in the house",
+     "literal": "'born-of house'"
+    },
+    {
+     "tokens": [
+      "17:12.11",
+      "17:12.12"
+     ],
+     "english": "or bought with money",
+     "literal": "'and-purchase-of silver'"
+    },
+    {
+     "tokens": [
+      "17:12.13",
+      "17:12.14",
+      "17:12.15"
+     ],
+     "english": "from any foreigner",
+     "literal": "'from-all son-of foreign'"
+    },
+    {
+     "tokens": [
+      "17:12.16",
+      "17:12.17",
+      "17:12.18",
+      "17:12.19"
+     ],
+     "english": "who is not of your offspring",
+     "literal": "'which not from-seed-your he'"
+    }
+   ],
+   "grammar": [
+    "וּבֶן־שְׁמֹנַת יָמִים is an age idiom, 'a son of eight days'; the yiqtol יִמּוֹל follows it with passive sense, 'shall be circumcised'.",
+    "The etnaḥta on לְדֹרֹתֵיכֶם ends the general rule; the next clause names two classes of slaves, each a construct phrase.",
+    "יְלִיד בָּיִת and מִקְנַת כֶּסֶף are both constructs: 'one born of the house', 'a purchase of silver'.",
+    "The relative clause אֲשֶׁר לֹא מִזַּרְעֲךָ הוּא qualifies the foreigner: not of Abraham's line."
+   ],
+   "note": "The English follows Rashi on both slave classes: born in the house to a maidservant, and bought at birth. Ibn Ezra reads the two clauses as covering everyone in Abraham's household, and the English is compatible. The fuller rabbinic reading of the repetition in v. 13 is recorded there.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:12:1",
+     "relation": "follows",
+     "summary": "Rashi: 'born in the house' means born to the maidservant in the house."
+    },
+    {
+     "anchor": "rashi:17:12:2",
+     "relation": "follows",
+     "summary": "Rashi: 'bought with money' means bought from the time of his birth."
+    },
+    {
+     "anchor": "ibn-ezra:17:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יִמּוֹל is Niphal, as is הִמּוֹל יִמּוֹל. Why is 'one born in your house' said a second time? Every male that is yours, of your own seed and also one born in the house or bought, shall be circumcised at eight days; and you, Abraham, shall circumcise your house-born and bought slaves today, even if they are grown."
+    },
+    {
+     "anchor": "radak:17:12:1",
+     "relation": "follows",
+     "summary": "Radak: a Niphal, root מול; it means 'shall be circumcised by his father'."
+    },
+    {
+     "anchor": "radak:17:12:4",
+     "relation": "records",
+     "summary": "Radak: one bought from birth is circumcised at eight days; one bought later is circumcised the same day, since the time has passed; the rabbis (Shabbat 135) find two times for slaves in the doubled הִמּוֹל יִמּוֹל."
+    }
+   ]
+  },
+  {
+   "ref": "17:13",
+   "english": "The one born in your house and the one bought with your money must be circumcised, and my covenant shall be in your flesh as an everlasting covenant.",
+   "literal": "to-be-circumcised shall-be-circumcised born-of house-your and-purchase-of silver-your and-shall-be covenant-my in-flesh-your for-covenant-of everlasting",
+   "tokens": [
+    {
+     "id": "17:13.1",
+     "gloss": "to be circumcised",
+     "sense": "Niph",
+     "note": "infinitive absolute before a finite verb of the same root: emphasis, 'must be circumcised'"
+    },
+    {
+     "id": "17:13.2",
+     "gloss": "he shall be circumcised",
+     "sense": "Niph",
+     "note": "yiqtol, 3rd masculine singular"
+    },
+    {
+     "id": "17:13.3",
+     "gloss": "one born of",
+     "note": "construct"
+    },
+    {
+     "id": "17:13.4",
+     "gloss": "your house",
+     "sense": "1",
+     "note": "construct with 2nd masculine singular suffix"
+    },
+    {
+     "id": "17:13.5",
+     "gloss": "and one bought with",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "17:13.6",
+     "gloss": "your money",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "17:13.7",
+     "gloss": "and shall be",
+     "sense": "Qal II.2",
+     "note": "weqatal, feminine, agreeing with בְּרִית"
+    },
+    {
+     "id": "17:13.8",
+     "gloss": "my covenant",
+     "sense": "II.2",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "17:13.9",
+     "gloss": "in your flesh",
+     "sense": "1",
+     "note": "construct with 2nd masculine plural suffix; Sforno takes בָּשָׂר as a euphemism for the organ (sense 3), Radak includes the slaves among 'you'"
+    },
+    {
+     "id": "17:13.10",
+     "gloss": "as a covenant of",
+     "sense": "II.2",
+     "note": "construct"
+    },
+    {
+     "id": "17:13.11",
+     "gloss": "everlasting",
+     "note": "'for a long duration, perpetuity'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:13.1",
+      "17:13.2",
+      "17:13.3",
+      "17:13.4",
+      "17:13.5",
+      "17:13.6"
+     ],
+     "english": "The one born in your house and the one bought with your money must be circumcised",
+     "literal": "'to-be-circumcised shall-be-circumcised born-of house-your and-purchase-of silver-your': the infinitive absolute before the finite verb gives emphasis, 'be circumcised, yes circumcised'"
+    },
+    {
+     "tokens": [
+      "17:13.7",
+      "17:13.8",
+      "17:13.9"
+     ],
+     "english": "and my covenant shall be in your flesh",
+     "literal": "'and-shall-be covenant-my in-flesh-your'"
+    },
+    {
+     "tokens": [
+      "17:13.10",
+      "17:13.11"
+     ],
+     "english": "as an everlasting covenant",
+     "literal": "'for-covenant-of everlasting'"
+    }
+   ],
+   "grammar": [
+    "הִמּוֹל יִמּוֹל is the infinitive absolute before the finite verb of the same root: it stresses the duty ('must be circumcised').",
+    "The verb stands first and the subject follows: 'must be circumcised, the one born ...'.",
+    "וְהָיְתָה is feminine because its subject בְּרִיתִי is feminine; the weqatal carries on from the command.",
+    "In לִבְרִית עוֹלָם the preposition לְ marks what the covenant becomes, 'as an everlasting covenant'; בְּרִית עוֹלָם is a construct pair, 'a covenant of perpetuity'."
+   ],
+   "note": "The English follows Rashi's view that the doubling is deliberate: it includes a house-born slave circumcised later than the eighth day. This bears on the sense of the doubled form, which the English renders by 'must'.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:13:1",
+     "relation": "follows",
+     "summary": "Rashi: here the verse doubles the verb and does not say 'at eight days', to teach that there is a house-born slave who is circumcised after eight days (see Shabbat 135b)."
+    },
+    {
+     "anchor": "radak:17:13:1",
+     "relation": "not-applicable",
+     "summary": "Radak: this is said to Abraham, that his household be circumcised with him, since two faiths cannot coexist in one house."
+    },
+    {
+     "anchor": "radak:17:13:2",
+     "relation": "follows",
+     "summary": "Radak: the slaves, house-born and bought, are included in 'your flesh', since they are theirs."
+    },
+    {
+     "anchor": "sforno:17:13:1",
+     "relation": "records",
+     "summary": "Sforno: בָּשָׂר is a euphemism for the organ of generation in the holy language, so the sign points to the perpetuity of the covenant and its continuance through sons."
+    }
+   ]
+  },
+  {
+   "ref": "17:14",
+   "english": "Any uncircumcised male who does not circumcise the flesh of his foreskin, that person shall be cut off from his kin; he has broken my covenant.",
+   "literal": "and-uncircumcised male which not he-circumcises ACC flesh-of foreskin-his and-shall-be-cut-off the-person the-that from-peoples-her ACC covenant-my he-broke",
+   "tokens": [
+    {
+     "id": "17:14.1",
+     "gloss": "and uncircumcised",
+     "note": "adjective"
+    },
+    {
+     "id": "17:14.2",
+     "gloss": "male",
+     "sense": "I"
+    },
+    {
+     "id": "17:14.3",
+     "gloss": "who"
+    },
+    {
+     "id": "17:14.4",
+     "gloss": "not"
+    },
+    {
+     "id": "17:14.5",
+     "gloss": "he circumcises",
+     "note": "yiqtol. The pack parses it Niphal of מוּל ('is not circumcised'); Ibn Ezra reads it as active, of the pattern יִפְעֹל like יִדֹּר נֶדֶר, from the root of וּנְמַלְתֶּם, and Radak as Qal of נמל, with אֶת־בְּשַׂר as its object. The English follows them, so no sense of the entry is given."
+    },
+    {
+     "id": "17:14.6",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "17:14.7",
+     "gloss": "the flesh of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "17:14.8",
+     "gloss": "his foreskin",
+     "note": "construct with 3rd masculine singular suffix"
+    },
+    {
+     "id": "17:14.9",
+     "gloss": "and shall be cut off",
+     "sense": "Niph 1",
+     "note": "weqatal, feminine, agreeing with נֶפֶשׁ"
+    },
+    {
+     "id": "17:14.10",
+     "gloss": "the person",
+     "sense": "4",
+     "note": "feminine noun, 'the person himself'"
+    },
+    {
+     "id": "17:14.11",
+     "gloss": "that",
+     "note": "the + feminine 'that'"
+    },
+    {
+     "id": "17:14.12",
+     "gloss": "from his kin",
+     "note": "'from her peoples': plural construct, feminine suffix agreeing with נֶפֶשׁ; 'peoples' as kinsfolk"
+    },
+    {
+     "id": "17:14.13",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "17:14.14",
+     "gloss": "my covenant",
+     "sense": "II.2",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "17:14.15",
+     "gloss": "he has broken",
+     "note": "Hifil perfect, 3rd masculine singular, of the doubled root פרר, 'break, annul'; the pack's entry lists only Hophal and Pilpel senses, so no sense is given"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:14.1",
+      "17:14.2"
+     ],
+     "english": "Any uncircumcised male",
+     "literal": "'and-uncircumcised male'"
+    },
+    {
+     "tokens": [
+      "17:14.3",
+      "17:14.4",
+      "17:14.5",
+      "17:14.6",
+      "17:14.7",
+      "17:14.8"
+     ],
+     "english": "who does not circumcise the flesh of his foreskin",
+     "literal": "'which not he-circumcises ACC flesh-of foreskin-his'"
+    },
+    {
+     "tokens": [
+      "17:14.9",
+      "17:14.10",
+      "17:14.11",
+      "17:14.12"
+     ],
+     "english": "that person shall be cut off from his kin",
+     "literal": "'and-shall-be-cut-off the-person the-that from-peoples-her'"
+    },
+    {
+     "tokens": [
+      "17:14.13",
+      "17:14.14",
+      "17:14.15"
+     ],
+     "english": "he has broken my covenant",
+     "literal": "'ACC-covenant-my he-broke': object fronted for emphasis; the subject is the uncircumcised man"
+    }
+   ],
+   "grammar": [
+    "וְעָרֵל זָכָר is a casus pendens: 'and as for an uncircumcised male ...', picked up by הַנֶּפֶשׁ הַהִוא.",
+    "נִכְרְתָה is a weqatal Niphal (passive of 'cut off'), feminine because נֶפֶשׁ is feminine.",
+    "The fronted object אֶת־בְּרִיתִי before הֵפַר emphasizes what is broken.",
+    "The suffix of מֵעַמֶּיהָ is feminine singular agreeing with נֶפֶשׁ, and עַמִּים is plural: 'from her peoples'."
+   ],
+   "note": "Rashi limits the punishment to the man who reaches the age of liability; Ibn Ezra says a boy who was not circumcised by his father must circumcise himself once he is of age, and the penalty of kareth is in God's hands. The English leaves 'cut off' unexplained and does not specify the penalty, which the commentators dispute.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:14:1",
+     "relation": "follows",
+     "summary": "Rashi: here the verse teaches that circumcision is at the place that distinguishes male from female."
+    },
+    {
+     "anchor": "rashi:17:14:2",
+     "relation": "follows",
+     "summary": "Rashi: 'who does not circumcise' applies once he has reached the age of liability; his father is not liable to kareth, but transgresses a positive commandment."
+    },
+    {
+     "anchor": "rashi:17:14:3",
+     "relation": "records",
+     "summary": "Rashi: 'cut off' means he goes childless and dies before his time (Shabbat, cited as 24)."
+    },
+    {
+     "anchor": "ibn-ezra:17:14:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יִמּוֹל is of the pattern יִפְעֹל, like יִדֹּר נֶדֶר (Num 30:3), from וּנְמַלְתֶּם: if he is of age and does not circumcise himself, he is liable to kareth at the hands of heaven, since a small boy's duty rests on the father. Those who think an uncircumcised child has no share in the world to come are wrong: נֶפֶשׁ means 'person', a body with a soul. Kareth is either death before fifty-two or the cutting off of his name at the death of his seed, hence 'from his kin'."
+    }
+   ],
+   "apparatus": [
+    "Variants: none noted in the pack."
+   ]
+  }
+ ]
+}

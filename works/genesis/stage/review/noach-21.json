@@ -1,0 +1,52 @@
+{
+  "unit": "noach-21",
+  "model": "opus",
+  "summary": "A sound unit: the four formulaic genealogy verses are rendered accurately, with correct person, number, binyan, numerals and senses, and the phrase division is clean. There are no normative (Rashi or Ibn Ezra) anchors in this unit, only Targum Onkelos. The one error is the Onkelos summary at 11:19, which says the Targum keeps the number 'in the same order' when it reverses the Hebrew order (מָאתָן וּתְשַׁע against תֵּשַׁע ... וּמָאתַיִם). The other patches add learner notes: the short form of וַיְחִי, the I-yod Hifil הוֹלִיד, and the reverse gender agreement of שֶׁבַע.",
+  "patches": [
+    {
+      "ref": "11:19",
+      "path": "commentary:onkelos:11:19:1.summary",
+      "value": "Targum Onkelos: וַחֲיָא פֶלֶג בָּתַר דְּאוֹלִיד יָת רְעוּ מָאתָן וּתְשַׁע שְׁנִין, the same sense. The Targum gives the hundreds first (מָאתָן וּתְשַׁע, 'two hundred and nine'), reversing the Hebrew order תֵּשַׁע שָׁנִים וּמָאתַיִם שָׁנָה, as the English does.",
+      "severity": "error",
+      "reason": "The summary says the Targum has 'the number in the same order', but the Hebrew has the units first (תֵּשַׁע ... וּמָאתַיִם) and Onkelos has the hundreds first (מָאתָן וּתְשַׁע). The summary must say what the Targum says."
+    },
+    {
+      "ref": "11:18",
+      "path": "token:11:18.1.note",
+      "value": "wayyiqtol: narrative sequence; 'and he lived'. וַיְחִי is the short (apocopated) form of the III-he verb חָיָה (long imperfect יִחְיֶה), the usual form after wayyiqtol vav.",
+      "severity": "style",
+      "reason": "A learner needs to be told why the form is וַיְחִי and not *וַיִּחְיֶה: weak root, apocopated wayyiqtol."
+    },
+    {
+      "ref": "11:19",
+      "path": "token:11:19.4.note",
+      "value": "Hifil infinitive construct of the I-yod verb יָלַד (originally I-waw, hence הוֹ-), with the 3rd masculine singular suffix as its subject: 'his fathering', i.e. 'after he fathered'.",
+      "severity": "style",
+      "reason": "The note should say that the suffix is the subject of the infinitive, which licenses the English 'he fathered', and explain the הוֹ- of the weak root."
+    },
+    {
+      "ref": "11:19",
+      "path": "grammar",
+      "value": [
+        "The verse repeats the opening verb, then gives the time after the birth of Reu in a clause with an infinitive construct and suffix.",
+        "The number is given smaller unit first: 'nine years and two hundred year'. The noun is plural (שָׁנִים) with the unit nine and singular (שָׁנָה) with the hundreds.",
+        "The revia on פֶלֶג and zaqef qaton on רְעוּ mark the stages of the opening clause; the etnaḥta falls after the total.",
+        "The paragraph mark (ס) closes the entry."
+      ],
+      "severity": "style",
+      "reason": "The note on the number should tell the learner why the same noun appears as שָׁנִים and then שָׁנָה in one number."
+    },
+    {
+      "ref": "11:21",
+      "path": "grammar",
+      "value": [
+        "The verse has the same pattern as 11:19.",
+        "The revia on רְעוּ and zaqef qaton on שְׂרוּג divide the opening clause.",
+        "שָׁנָה is feminine, though its plural שָׁנִים has the ending -ים. The numbers three to ten show reverse agreement: the form without ה, here שֶׁבַע, goes with feminine nouns, and the form with ה (שִׁבְעָה) with masculine nouns. So שֶׁבַע is the feminine form, agreeing with שָׁנִים."
+      ],
+      "severity": "style",
+      "reason": "The original note is true but will mislead a first-year student: שֶׁבַע has no ה and looks masculine. The reverse agreement of the numbers three to ten must be stated."
+    }
+  ],
+  "verdicts": []
+}

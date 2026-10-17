@@ -1,0 +1,494 @@
+{
+  "unit": "lekh-lekha-06",
+  "model": "opus",
+  "summary": "The English of Genesis 14:1–8 is accurate and plain, but almost no token has the required lexicon sense, and several notes and summaries are wrong. Rashi (לְמִרְדָּן, after Seder Olam) and Ibn Ezra differ on whether they rebelled 'in the thirteenth year' or 'for thirteen years'. The English follows Ibn Ezra but recorded neither the difference nor Rashi's reading. Ibn Ezra on עֵמֶק (14:3) and on the Rephaim, and Rashi's מִקְרָא מָלֵא and his 'thick of the beam', are misread. Learner notes on the accents (double pashta, double telisha) and on the ketiv/qere of Zeboiim are wrong, and the 14:8 phrases are misaligned.",
+  "patches": [
+    {
+      "ref": "14:1",
+      "path": "token:14:1.1.sense",
+      "value": "Qal I.2.a.(1)",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. וַיְהִי opening a narrative is BDB's 'and it came to pass'."
+    },
+    {
+      "ref": "14:1",
+      "path": "token:14:1.2.sense",
+      "value": "4",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. Plural 'days' of a king, his reign."
+    },
+    {
+      "ref": "14:2",
+      "path": "token:14:2.1.sense",
+      "value": "Qal II.1",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. עָשָׂה מִלְחָמָה 'make war'."
+    },
+    {
+      "ref": "14:3",
+      "path": "token:14:3.1.sense",
+      "value": "2.b.(b)",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. כָּל־ before a plural pronoun: 'all (these)', not 'the whole of'."
+    },
+    {
+      "ref": "14:3",
+      "path": "token:14:3.3.sense",
+      "value": "Qal 1",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. Qal 'unite, be joined' (Ibn Ezra: מהבנין הקל)."
+    },
+    {
+      "ref": "14:4",
+      "path": "token:14:4.4.sense",
+      "value": "Qal 3",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. Vassal kings serving an overlord: 'serve as subjects' (Radak: they were his servants bringing tribute)."
+    },
+    {
+      "ref": "14:5",
+      "path": "token:14:5.4.sense",
+      "value": "Qal 2",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given."
+    },
+    {
+      "ref": "14:5",
+      "path": "token:14:5.9.sense",
+      "value": "Hiph 3",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. Smiting peoples in a campaign: 'smite, attack, attack and destroy'."
+    },
+    {
+      "ref": "14:6",
+      "path": "token:14:6.2.sense",
+      "value": "1",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. The entry's one sense, the Horite(s) of Seir."
+    },
+    {
+      "ref": "14:6",
+      "path": "token:14:6.3.sense",
+      "value": "1",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. 'mountain', as the gloss has it."
+    },
+    {
+      "ref": "14:6",
+      "path": "token:14:6.10.sense",
+      "value": "2",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. הַמִּדְבָּר here is the uninhabited land, the wilderness."
+    },
+    {
+      "ref": "14:7",
+      "path": "token:14:7.2.sense",
+      "value": "Qal 2",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given."
+    },
+    {
+      "ref": "14:7",
+      "path": "token:14:7.8.sense",
+      "value": "Hiph 3",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. As at 14:5.9: attack and destroy a people's territory."
+    },
+    {
+      "ref": "14:7",
+      "path": "token:14:7.10.sense",
+      "value": "1",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. כָּל־ before a definite singular: 'the whole of'."
+    },
+    {
+      "ref": "14:7",
+      "path": "token:14:7.11.sense",
+      "value": "3",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. שְׂדֵה הָעֲמָלֵקִי is a people's territory (Radak: like שְׂדֵה אֱדוֹם, שְׂדֵה מוֹאָב), not a tilled field."
+    },
+    {
+      "ref": "14:7",
+      "path": "token:14:7.11.gloss",
+      "value": "the territory of",
+      "severity": "style",
+      "reason": "The gloss should give the sense in this context, which the English and the note already give as 'territory'."
+    },
+    {
+      "ref": "14:7",
+      "path": "token:14:7.16.sense",
+      "value": "Qal 3",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. 'dwell'."
+    },
+    {
+      "ref": "14:8",
+      "path": "token:14:8.1.sense",
+      "value": "Qal 1",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. 'go out', of kings going out to battle."
+    },
+    {
+      "ref": "14:8",
+      "path": "token:14:8.14.sense",
+      "value": "Qal 1.a",
+      "severity": "error",
+      "reason": "The brief requires a sense for every noun, verb, adjective and adverb whose entry lists senses; none was given. עָרַךְ מִלְחָמָה 'set the battle in order'."
+    },
+    {
+      "ref": "14:2",
+      "path": "grammar",
+      "value": [
+        "עָשׂוּ מִלְחָמָה אֶת־ is the idiom 'make war with/against' (אֵת as 'with').",
+        "The five kings fall into groups: אֶת־בֶּרַע ... וְאֶת־בִּרְשַׁע, both with אֶת; then שִׁנְאָב ... וְשֶׁמְאֵבֶר, with no אֶת and with וְ only on the second; then וּמֶלֶךְ בֶּלַע, a king without a name. The etnaḥta on עֲמֹרָה divides the first pair from the rest.",
+        "The pashta is written on the last letter of its word; on בֶּרַע and שֶׁמְאֵבֶר it is written twice because the stress is not on the last syllable (penultimate stress of the segolate forms).",
+        "הִיא־צֹעַר is a gloss giving the later name of Bela."
+      ],
+      "severity": "error",
+      "reason": "Two notes are wrong. Shinab has no וְ, so 'Shinab and Shemeber stand with וְ' misdescribes the list. The doubled pashta marks penultimate stress; it has nothing to do with Rashi's readings, which also cover Birsha and Shinab, which have no pashta."
+    },
+    {
+      "ref": "14:2",
+      "path": "token:14:2.16.note",
+      "value": "ketiv צביים; the qere, printed in the base text, is צְבוֹיִם; WLC prints צְבוֹיִים. See apparatus.",
+      "severity": "error",
+      "reason": "The qere is צְבוֹיִם, the base text's own form (as the token note at 14:8.9 says). צְבוֹיִים is WLC's vocalization, not the qere."
+    },
+    {
+      "ref": "14:2",
+      "path": "apparatus",
+      "value": [
+        "14:2.16 vowels: WLC reads צְבוֹיִים; the base text has צְבוֹיִם.",
+        "14:2.16 ketiv-qere: the ketiv reads צביים; the qere, which the base text prints, is צְבוֹיִם. The English is the same, Zeboiim."
+      ],
+      "severity": "error",
+      "reason": "The second line gave WLC's צְבוֹיִים as the qere."
+    },
+    {
+      "ref": "14:3",
+      "path": "commentary:ibn-ezra:14:3:3",
+      "value": {
+        "relation": "records",
+        "summary": "Ibn Ezra: עֵמֶק 'draws itself and another with it' (מושך עצמו ואחר עמו), that is, it serves the next phrase too, as אַל does in 'Do not rebuke me in your anger [and do not] chasten me in your wrath' (Ps 6:2). So הוּא יָם הַמֶּלַח means 'it is the Valley of the Salt Sea'."
+      },
+      "severity": "error",
+      "reason": "The summary misreads the comment. 'Draws itself and another with it' is the double-duty rule, as in Ps 6:2 where אַל serves both clauses; it is not a remark on the construct state. Ibn Ezra reads 'which is the Valley of the Salt Sea', against Rashi, who says the sea later flowed into the valley. The English and the grammar note follow Rashi, so the relation is records."
+    },
+    {
+      "ref": "14:3",
+      "path": "commentary:ibn-ezra:14:3:2.summary",
+      "value": "Ibn Ezra takes הַשִּׂדִּים from שִׂיד 'lime, plaster', as in וְשַׂדְתָּ אֹתָם בַּשִּׂיד (Deut 27:2). For the form he compares סַד 'stocks' (Job 13:27) and פַּת, plural פִּתִּים, where the plural doubles the second letter.",
+      "severity": "error",
+      "reason": "סַד (Job 13:27) and פַּת/פִּתִּים are cited for the form (the dagesh of the plural), not for the meaning. The summary made 'stocks' a second sense of the name."
+    },
+    {
+      "ref": "14:3",
+      "path": "note",
+      "value": "אֶל־ is rendered 'in' for English idiom (Radak: אֶל here as בְּ). The name of the valley is kept as 'Siddim': Rashi says the valley was named for its many fields; Ibn Ezra derives the name from שִׂיד 'plaster', recorded. 'Which is the Salt Sea' follows Rashi, that the sea later covered the valley; Ibn Ezra's 'the Valley of the Salt Sea' is recorded.",
+      "severity": "style",
+      "reason": "The note said both readings of the name were recorded, but Rashi's ruling is 'follows'. It now also states the choice between Rashi and Ibn Ezra on הוּא יָם הַמֶּלַח."
+    },
+    {
+      "ref": "14:3",
+      "path": "apparatus",
+      "value": [
+        "הוּא יָם הַמֶּלַח: Rashi, the valley later became the Salt Sea; Ibn Ezra, with עֵמֶק understood again, 'it is the Valley of the Salt Sea'; Radak gives both, the valley beside the Salt Sea or itself later the sea."
+      ],
+      "severity": "question",
+      "reason": "Proposed: record the second reading of the gloss, which the normative Ibn Ezra holds."
+    },
+    {
+      "ref": "14:4",
+      "path": "commentary:ibn-ezra:14:4:1.summary",
+      "value": "Ibn Ezra: וּשְׁלֹשׁ עֶשְׂרֵה means 'in the thirteenth', the preposition understood, as in 'for in six days the LORD made' (Exod 20:11). The author of Seder Olam added the two periods together (twelve years of service, then thirteen of rebellion); Ibn Ezra defers to him: 'his knowledge is wider than ours'.",
+      "severity": "error",
+      "reason": "חברם means Seder Olam joined, that is added, the numbers: twelve years served, then thirteen years of rebellion. That is a different reading from Ibn Ezra's, not a harmonizing of it. The summary has to say so."
+    },
+    {
+      "ref": "14:4",
+      "path": "apparatus",
+      "value": [
+        "וּשְׁלֹשׁ־עֶשְׂרֵה שָׁנָה מָרָדוּ: Ibn Ezra and Radak, 'in the thirteenth year they rebelled'; Seder Olam, followed by Rashi on 14:5 (לְמִרְדָּן), 'for thirteen years they rebelled', with the fourteenth year of verse 5 counted from the rebellion."
+      ],
+      "severity": "error",
+      "reason": "Rashi and Ibn Ezra differ here. The English follows Ibn Ezra, which is allowed, but the brief requires the other reading to be recorded."
+    },
+    {
+      "ref": "14:5",
+      "path": "commentary:rashi:14:5:1",
+      "value": {
+        "relation": "records",
+        "summary": "Rashi on 'in the fourteenth year': לְמִרְדָּן, 'of their rebellion'. He counts the year from the rebellion, so with Seder Olam he takes 14:4 as 'for thirteen years they rebelled'. The English follows Ibn Ezra, 'in the thirteenth year', and counts from the start of their service."
+      },
+      "severity": "error",
+      "reason": "לְמִרְדָּן dates the fourteenth year from the rebellion. It bears on the meaning of 14:4–5 and is not 'a comment on the cause'. The English does not adopt it, so the relation is records."
+    },
+    {
+      "ref": "14:5",
+      "path": "commentary:rashi:14:5:2",
+      "value": {
+        "relation": "follows",
+        "summary": "Rashi: Chedorlaomer alone is named as coming because he was the chief party to the affair; 'he entered into the thickness of the beam', an idiom for being most deeply involved. The English, with the singular verb, names him first and then the kings with him."
+      },
+      "severity": "error",
+      "reason": "Rashi explains why Chedorlaomer, not Amraphel who heads the list in 14:1, is named with the singular בָּא. נכנס בעובי הקורה is an idiom for 'was most involved', not a homily, and 'came first' misstates it. The grammar note already follows this reading."
+    },
+    {
+      "ref": "14:5",
+      "path": "commentary:ibn-ezra:14:5:1.summary",
+      "value": "Ibn Ezra: they are called Rephaim because whoever saw them, his heart would die and he would be counted among the Rephaim, which are the dead. He derives the name from רְפָאִים 'shades of the dead'.",
+      "severity": "error",
+      "reason": "ויחשב מהרפאים: the one who sees them 'is reckoned among the Rephaim', the dead. The subject is the onlooker. The summary had him 'think of the Rephaim as dead'."
+    },
+    {
+      "ref": "14:5",
+      "path": "grammar",
+      "value": [
+        "בָּא is singular: a verb that stands before a compound subject often agrees with the first member, and Rashi says Chedorlaomer was the chief party. וְהַמְּלָכִים is added after him, then the plural wayyiqtol וַיַּכּוּ takes over.",
+        "Three peoples are struck at three places, each with אֵת + people and בְּ + place.",
+        "The zaqef on אִתּוֹ ends the account of who came, and the etnaḥta on בְּהָם ends the second people-and-place pair.",
+        "רְפָאִים (here without the article), הַזּוּזִים and הָאֵימִים are gentilic names of ancient peoples; אֵימִים also means 'terrors'."
+      ],
+      "severity": "error",
+      "reason": "The note wrote הָרְפָאִים, but the text has רְפָאִים without the article. It also wrote בָּהָם for בְּהָם 'in Ham'. The note on the singular verb now gives the grammatical rule as well as Rashi's reason."
+    },
+    {
+      "ref": "14:5",
+      "path": "note",
+      "value": "The ancient peoples are named by transliteration: Rephaim, Zuzim, Emim. The English 'In the fourteenth year' follows the Hebrew order. 'Came' is singular because the verb stands before its compound subject, of which Chedorlaomer, the leader, is the first member.",
+      "severity": "error",
+      "reason": "The sentence does not start with Chedorlaomer: the time phrase and the verb בָּא come before him."
+    },
+    {
+      "ref": "14:5",
+      "path": "english",
+      "value": "In the fourteenth year Chedorlaomer came, and the kings who were with him, and they struck the Rephaim at Ashteroth-karnaim, the Zuzim at Ham, and the Emim at Shaveh-kiriathaim,",
+      "severity": "style",
+      "reason": "The list of peoples struck goes on in 14:6 ('and the Horites ...'), which begins in lower case. The full stop breaks the sentence."
+    },
+    {
+      "ref": "14:6",
+      "path": "token:14:6.3.note",
+      "value": "הַר with the 3rd masculine plural suffix ם 'their'; the doubled resh shows the geminate root הרר (Radak: from a base הָרָר). Ibn Ezra reads it as an infinitive instead.",
+      "severity": "error",
+      "reason": "'A plural-type suffix' is unclear and wrong: the suffix is 3rd masc. plural on a singular noun. The doubled resh is the point a learner needs."
+    },
+    {
+      "ref": "14:7",
+      "path": "grammar",
+      "value": [
+        "Two wayyiqtols, וַיָּשֻׁבוּ and וַיָּבֹאוּ, are joined and carry the campaign on. The telisha gedola stands on the first letter of its word; it is written a second time on וַיָּשֻׁבוּ to mark the stressed syllable.",
+        "הוּא/הִוא קָדֵשׁ is a gloss, with feminine הִוא (Pentateuch) agreeing with the place.",
+        "שְׂדֵה הָעֲמָלֵקִי is 'the field' in the sense of 'territory', in the construct.",
+        "הַיֹּשֵׁב is an active participle with article, a relative clause: 'who lived'."
+      ],
+      "severity": "error",
+      "reason": "The doubled telisha does not mark prominence. Telisha gedola is a prepositive accent; it is repeated on the stressed syllable, as the pashta is in 14:2."
+    },
+    {
+      "ref": "14:7",
+      "path": "commentary:rashi:14:7:3.summary",
+      "value": "Rashi: Hazazon-tamar is En-gedi; a verse says so explicitly (מִקְרָא מָלֵא) in Chronicles, in the story of Jehoshaphat (2 Chr 20:2).",
+      "severity": "error",
+      "reason": "מִקְרָא מָלֵא means 'an explicit verse', the verse that identifies Hazazon-tamar with En-gedi. It does not mean the name is spelled in full there."
+    },
+    {
+      "ref": "14:8",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "14:8.1",
+            "14:8.2",
+            "14:8.3"
+          ],
+          "english": "Then the king of Sodom went out",
+          "literal": "'and-went-out king-of Sodom'"
+        },
+        {
+          "tokens": [
+            "14:8.4",
+            "14:8.5"
+          ],
+          "english": "and the king of Gomorrah",
+          "literal": "'and-king-of Gomorrah'"
+        },
+        {
+          "tokens": [
+            "14:8.6",
+            "14:8.7"
+          ],
+          "english": "the king of Admah",
+          "literal": "'and-king-of Admah'"
+        },
+        {
+          "tokens": [
+            "14:8.8",
+            "14:8.9"
+          ],
+          "english": "the king of Zeboiim",
+          "literal": "'and-king-of Zeboiim'"
+        },
+        {
+          "tokens": [
+            "14:8.10",
+            "14:8.11",
+            "14:8.12",
+            "14:8.13"
+          ],
+          "english": "and the king of Bela, which is Zoar",
+          "literal": "'and-king-of Bela, it Zoar'"
+        },
+        {
+          "tokens": [
+            "14:8.14",
+            "14:8.15",
+            "14:8.16"
+          ],
+          "english": "and they drew up battle lines against them",
+          "literal": "'and-they-arranged with-them war'; אֵת 'with' here 'against'"
+        },
+        {
+          "tokens": [
+            "14:8.17",
+            "14:8.18"
+          ],
+          "english": "in the Valley of Siddim",
+          "literal": "'in-valley-of the-Siddim'"
+        }
+      ],
+      "severity": "error",
+      "reason": "The last phrases were misaligned. 'Against them' was assigned to בְּעֵמֶק and 'in the Valley of Siddim' to הַשִּׂדִּים alone, while אִתָּם sat in a phrase without its English."
+    },
+    {
+      "ref": "14:8",
+      "path": "note",
+      "value": "In the Hebrew אִתָּם 'with them' stands between the verb and מִלְחָמָה; the English puts 'against them' after 'battle lines'.",
+      "severity": "style",
+      "reason": "The note did not say clearly what was reordered."
+    }
+  ],
+  "verdicts": [
+    {
+      "anchor": "rashi:14:1:1",
+      "verdict": "not-applicable",
+      "comment": "Homiletic identification with Nimrod."
+    },
+    {
+      "anchor": "rashi:14:1:2",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:14:1:1",
+      "verdict": "consistent",
+      "comment": "The English takes his first reading; the second is in the apparatus."
+    },
+    {
+      "anchor": "rashi:14:2:1",
+      "verdict": "not-applicable"
+    },
+    {
+      "anchor": "rashi:14:2:2",
+      "verdict": "not-applicable"
+    },
+    {
+      "anchor": "rashi:14:2:3",
+      "verdict": "not-applicable"
+    },
+    {
+      "anchor": "rashi:14:2:4",
+      "verdict": "not-applicable"
+    },
+    {
+      "anchor": "rashi:14:2:5",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:14:3:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:14:3:2",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:14:3:1",
+      "verdict": "consistent",
+      "comment": "'joined' is qal."
+    },
+    {
+      "anchor": "ibn-ezra:14:3:2",
+      "verdict": "consistent",
+      "comment": "The name is transliterated; the summary is corrected."
+    },
+    {
+      "anchor": "ibn-ezra:14:3:3",
+      "verdict": "consistent",
+      "comment": "The English 'which is the Salt Sea' keeps the Hebrew's ellipsis and does not exclude 'the Valley of the Salt Sea'; the notes follow Rashi, and the ruling is corrected to records."
+    },
+    {
+      "anchor": "rashi:14:4:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:14:4:1",
+      "verdict": "consistent",
+      "comment": "'in the thirteenth year' is his reading; the summary is corrected."
+    },
+    {
+      "anchor": "rashi:14:5:1",
+      "verdict": "contradicts",
+      "comment": "Rashi (with Seder Olam) counts the fourteenth year from the rebellion, implying thirteen years of rebellion; the English of 14:4 follows Ibn Ezra and Radak. Where they differ the translator may choose; Rashi's reading is now recorded in the ruling and in the 14:4 apparatus."
+    },
+    {
+      "anchor": "rashi:14:5:2",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:14:5:3",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:14:5:4",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:14:5:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:14:5:2",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:14:6:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:14:6:2",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:14:6:3",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:14:6:1",
+      "verdict": "contradicts",
+      "comment": "Ibn Ezra reads בְּהַרְרָם as an infinitive ('when they went up'); Rashi reads 'in their mountain'. The English follows Rashi, as it may where they differ, and Ibn Ezra is recorded."
+    },
+    {
+      "anchor": "rashi:14:7:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:14:7:2",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:14:7:3",
+      "verdict": "consistent"
+    }
+  ]
+}

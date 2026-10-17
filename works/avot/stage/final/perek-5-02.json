@@ -1,0 +1,2816 @@
+{
+ "unit": "perek-5-02",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "5:7",
+   "english": "Seven things are in the unformed person, and seven in the wise person. The wise person does not speak in the presence of one who is greater than he in wisdom and in number; does not break into his fellow's words; is not hasty to answer; asks to the point and answers according to the law; speaks to the first point first and to the last point last; says of what he has not heard, \"I have not heard\"; and admits the truth. And their opposites are in the unformed person.",
+   "literal": "seven things in-the-golem and-seven in-the-wise. wise not speaking in-presence-of who he great from-him in-wisdom and-in-number, and-not entering into-midst-of words-of his-fellow, and-not being-hurried to-answer, asking like-the-matter and-answering like-the-law, and-saying on first first and-on last last, and-on what that-not he-heard saying not I-heard, and-admitting on the-truth. and-their-opposites in-the-golem.",
+   "tokens": [
+    {
+     "id": "5:7.1",
+     "gloss": "seven",
+     "lex": "jastrow:שִׁבְעָה",
+     "note": "numeral in the feminine form with the masculine noun דְבָרִים (reversed gender, as with 3-10)"
+    },
+    {
+     "id": "5:7.2",
+     "gloss": "things",
+     "sense": "1.4"
+    },
+    {
+     "id": "5:7.3",
+     "gloss": "in the unformed person",
+     "note": "גֹּלֶם: literally 'a shapeless mass', an unfinished vessel (Bartenura); a person whose mind and character are not brought to completion"
+    },
+    {
+     "id": "5:7.4",
+     "gloss": "and seven",
+     "lex": "jastrow:שִׁבְעָה"
+    },
+    {
+     "id": "5:7.5",
+     "gloss": "in the wise person",
+     "sense": "1.6"
+    },
+    {
+     "id": "5:7.6",
+     "gloss": "wise person",
+     "sense": "1.6",
+     "note": "חָכָם, as a type, not the compound 'disciple of the sages'; per Rambam one complete in both intellect and character"
+    },
+    {
+     "id": "5:7.7",
+     "gloss": "not (he is not)",
+     "lex": "jastrow:אֵין",
+     "note": "אֵינוֹ with a participle gives the negative present, 'he does not ...'"
+    },
+    {
+     "id": "5:7.8",
+     "gloss": "speaks",
+     "note": "Piel participle"
+    },
+    {
+     "id": "5:7.9",
+     "gloss": "in the presence of",
+     "sense": "1.7.1",
+     "note": "בִּפְנֵי, literally 'in the faces of'"
+    },
+    {
+     "id": "5:7.10",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "5:7.11",
+     "gloss": "who is",
+     "sense": "1",
+     "note": "שֶׁ relative particle + הוּא, 'who (he) is'"
+    },
+    {
+     "id": "5:7.12",
+     "gloss": "greater",
+     "sense": "2.6"
+    },
+    {
+     "id": "5:7.13",
+     "gloss": "than he",
+     "sense": "1.4",
+     "note": "comparative מִן with suffix"
+    },
+    {
+     "id": "5:7.14",
+     "gloss": "in wisdom",
+     "sense": "1"
+    },
+    {
+     "id": "5:7.15",
+     "gloss": "and in number",
+     "sense": "1",
+     "note": "מִנְיָן: 'number'; the sense is open (number of years, of disciples, or of those who study); the English keeps the word"
+    },
+    {
+     "id": "5:7.16",
+     "gloss": "and does not",
+     "lex": "jastrow:אֵין"
+    },
+    {
+     "id": "5:7.17",
+     "gloss": "break into",
+     "sense": "5.1",
+     "note": "Nifal participle of כנס, 'enter'; used of cutting in on a speaker"
+    },
+    {
+     "id": "5:7.18",
+     "gloss": "into the midst of"
+    },
+    {
+     "id": "5:7.19",
+     "gloss": "words of",
+     "sense": "1.3"
+    },
+    {
+     "id": "5:7.20",
+     "gloss": "his fellow",
+     "sense": "5",
+     "note": "חֲבֵרוֹ, 'his companion', anyone he is speaking with"
+    },
+    {
+     "id": "5:7.21",
+     "gloss": "and does not",
+     "lex": "jastrow:אֵין"
+    },
+    {
+     "id": "5:7.22",
+     "gloss": "be hasty",
+     "sense": "1",
+     "note": "Nifal participle, 'is hurried, flustered'"
+    },
+    {
+     "id": "5:7.23",
+     "gloss": "to answer",
+     "note": "Hifil infinitive of שוב; 'return a word'"
+    },
+    {
+     "id": "5:7.24",
+     "gloss": "asks",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "5:7.25",
+     "gloss": "to the point",
+     "lex": "jastrow:עִנְיָן",
+     "sense": "1",
+     "note": "כָּעִנְיָן, 'according to the matter in hand'"
+    },
+    {
+     "id": "5:7.26",
+     "gloss": "and answers",
+     "note": "Hifil participle of שוב"
+    },
+    {
+     "id": "5:7.27",
+     "gloss": "according to the law",
+     "sense": "2",
+     "note": "כַּהֲלָכָה, 'as the halakhah', the settled rule"
+    },
+    {
+     "id": "5:7.28",
+     "gloss": "and speaks",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:7.29",
+     "gloss": "to",
+     "note": "עַל, 'on, with regard to'"
+    },
+    {
+     "id": "5:7.30",
+     "gloss": "the first point",
+     "sense": "2.3"
+    },
+    {
+     "id": "5:7.31",
+     "gloss": "first",
+     "sense": "2.3",
+     "note": "doubled word: distributive, 'each first (as first)'"
+    },
+    {
+     "id": "5:7.32",
+     "gloss": "and to"
+    },
+    {
+     "id": "5:7.33",
+     "gloss": "the last point",
+     "sense": "1.2"
+    },
+    {
+     "id": "5:7.34",
+     "gloss": "last",
+     "sense": "1.2"
+    },
+    {
+     "id": "5:7.35",
+     "gloss": "and of"
+    },
+    {
+     "id": "5:7.36",
+     "gloss": "what",
+     "sense": "1.2"
+    },
+    {
+     "id": "5:7.37",
+     "gloss": "not",
+     "sense": "1",
+     "note": "שֶׁלֹּא, 'that not'"
+    },
+    {
+     "id": "5:7.38",
+     "gloss": "he has heard",
+     "sense": "2.1.1"
+    },
+    {
+     "id": "5:7.39",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:7.40",
+     "gloss": "not",
+     "sense": "1"
+    },
+    {
+     "id": "5:7.41",
+     "gloss": "I have heard",
+     "sense": "2.1.1",
+     "note": "first person perfect, quoted speech"
+    },
+    {
+     "id": "5:7.42",
+     "gloss": "and admits",
+     "note": "Hifil participle of ידה, 'acknowledges, confesses'"
+    },
+    {
+     "id": "5:7.43",
+     "gloss": "to"
+    },
+    {
+     "id": "5:7.44",
+     "gloss": "the truth",
+     "sense": "2.4"
+    },
+    {
+     "id": "5:7.45",
+     "gloss": "and their opposites",
+     "note": "חִלּוּפֵיהֶן: 'their exchanges, counterparts'"
+    },
+    {
+     "id": "5:7.46",
+     "gloss": "in the unformed person"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:7.1",
+      "5:7.2"
+     ],
+     "english": "Seven things",
+     "literal": "שִׁבְעָה דְבָרִים, 'seven things'"
+    },
+    {
+     "tokens": [
+      "5:7.3"
+     ],
+     "english": "in the unformed person",
+     "literal": "בַּגֹּלֶם: the verb 'are' is supplied; golem is the unfinished vessel (Bartenura, Rambam)"
+    },
+    {
+     "tokens": [
+      "5:7.4",
+      "5:7.5"
+     ],
+     "english": "and seven in the wise person",
+     "literal": "'and seven in the wise'; the noun is shared with the first clause"
+    },
+    {
+     "tokens": [
+      "5:7.6"
+     ],
+     "english": "The wise person",
+     "literal": "חָכָם, subject of the seven clauses"
+    },
+    {
+     "tokens": [
+      "5:7.7",
+      "5:7.8"
+     ],
+     "english": "does not speak",
+     "literal": "'not speaking'; participle with אֵינוֹ"
+    },
+    {
+     "tokens": [
+      "5:7.9",
+      "5:7.10",
+      "5:7.11"
+     ],
+     "english": "in the presence of one who is",
+     "literal": "'in the presence of whoever he is'"
+    },
+    {
+     "tokens": [
+      "5:7.12",
+      "5:7.13"
+     ],
+     "english": "greater than he",
+     "literal": "'great from him'; comparative"
+    },
+    {
+     "tokens": [
+      "5:7.14"
+     ],
+     "english": "in wisdom",
+     "literal": "'in wisdom'"
+    },
+    {
+     "tokens": [
+      "5:7.15"
+     ],
+     "english": "and in number",
+     "literal": "'and in number'; sense of מִנְיָן left open"
+    },
+    {
+     "tokens": [
+      "5:7.16",
+      "5:7.17",
+      "5:7.18",
+      "5:7.19",
+      "5:7.20"
+     ],
+     "english": "does not break into his fellow's words",
+     "literal": "'and not entering into the midst of the words of his fellow'; Bartenura: so as not to confuse him"
+    },
+    {
+     "tokens": [
+      "5:7.21",
+      "5:7.22",
+      "5:7.23"
+     ],
+     "english": "is not hasty to answer",
+     "literal": "'and not hurried to answer'"
+    },
+    {
+     "tokens": [
+      "5:7.24",
+      "5:7.25"
+     ],
+     "english": "asks to the point",
+     "literal": "'asking like the matter'; Bartenura and Rambam: the question fits the subject under discussion"
+    },
+    {
+     "tokens": [
+      "5:7.26",
+      "5:7.27"
+     ],
+     "english": "and answers according to the law",
+     "literal": "'and answering like the law'"
+    },
+    {
+     "tokens": [
+      "5:7.28",
+      "5:7.29",
+      "5:7.30",
+      "5:7.31"
+     ],
+     "english": "speaks to the first point first",
+     "literal": "'and saying on first first'; each point is dealt with in its own order"
+    },
+    {
+     "tokens": [
+      "5:7.32",
+      "5:7.33",
+      "5:7.34"
+     ],
+     "english": "and to the last point last",
+     "literal": "'and on last last'"
+    },
+    {
+     "tokens": [
+      "5:7.35",
+      "5:7.36",
+      "5:7.37",
+      "5:7.38"
+     ],
+     "english": "of what he has not heard",
+     "literal": "'and on what that-not he-heard'"
+    },
+    {
+     "tokens": [
+      "5:7.39"
+     ],
+     "english": "says",
+     "literal": "'saying'; participle placed before the quotation"
+    },
+    {
+     "tokens": [
+      "5:7.40",
+      "5:7.41"
+     ],
+     "english": "I have not heard",
+     "literal": "'not I-heard'"
+    },
+    {
+     "tokens": [
+      "5:7.42",
+      "5:7.43",
+      "5:7.44"
+     ],
+     "english": "and admits the truth",
+     "literal": "'and admitting on the truth'"
+    },
+    {
+     "tokens": [
+      "5:7.45"
+     ],
+     "english": "And their opposites",
+     "literal": "'and their exchanges'; the seven opposites"
+    },
+    {
+     "tokens": [
+      "5:7.46"
+     ],
+     "english": "in the unformed person",
+     "literal": "'in the golem'"
+    }
+   ],
+   "grammar": [
+    "שִׁבְעָה דְבָרִים: the numeral שִׁבְעָה (feminine form) stands with the masculine noun, as is usual for the numbers 3 to 10.",
+    "The seven traits of the wise person are a string of present-tense clauses built on participles (מְדַבֵּר, נִכְנָס, נִבְהָל, שׁוֹאֵל, מֵשִׁיב, אוֹמֵר, מוֹדֶה); the negative is אֵינוֹ + participle.",
+    "The relative שֶׁ appears twice: מִי שֶׁהוּא גָדוֹל ('one who is great') and מַה שֶּׁלֹּא שָׁמַע ('what he did not hear').",
+    "The doubling רִאשׁוֹן רִאשׁוֹן ... אַחֲרוֹן אַחֲרוֹן is distributive: each item in its own place.",
+    "The mishnah gives a list of seven, then closes with the rule וְחִלּוּפֵיהֶן בַּגֹּלֶם: the opposite of each trait belongs to the golem."
+   ],
+   "note": "גֹּלֶם is kept as 'the unformed person' with the literal sense (an unfinished vessel) in the token note; it is not 'golem' of later legend. חָכָם is 'the wise person', the type, not תַּלְמִיד חָכָם. הֲלָכָה is 'the law' (the settled rule). מִנְיָן is left as 'number': years, numbers of disciples and numbers of those who study are all possible, and neither Bartenura nor Rambam decides it. The lexicon entry offered for שִׁבְעָה (Shebah) is the wrong homograph; the word is the numeral.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:7:1",
+     "relation": "follows",
+     "summary": "Bartenura: גֹּלֶם is like גָּלְמֵי כֵּלִים, vessels whose work is not finished; so a person not completed in mind, neither in character nor in wisdom, is called a golem. The English 'unformed person' follows this."
+    },
+    {
+     "anchor": "bartenura:5:7:2",
+     "relation": "not-applicable",
+     "summary": "Bartenura gives an example (Elazar and Itamar did not speak before their father Aaron when Moses was angry). It does not change the plain sense."
+    },
+    {
+     "anchor": "bartenura:5:7:3",
+     "relation": "follows",
+     "summary": "Bartenura: he does not confuse the speaker; cites Num 12 'hear my words' (wait for me until I speak). 'Break into his fellow's words' fits this."
+    },
+    {
+     "anchor": "bartenura:5:7:4",
+     "relation": "follows",
+     "summary": "Bartenura: he is not hasty to answer so that his answer will be according to the law; compares Elihu in Job 36."
+    },
+    {
+     "anchor": "bartenura:5:7:5",
+     "relation": "records",
+     "summary": "Bartenura: this counts as one thing: the student asks about the very subject being studied, and then the teacher answers according to the law; an off-topic question can lead the teacher to answer wrongly. The English, with the wise person as subject of both 'asks' and 'answers', follows Rambam; Bartenura's division between student and teacher is kept here."
+    },
+    {
+     "anchor": "bartenura:5:7:6",
+     "relation": "follows",
+     "summary": "Bartenura: he answers each question in its order, as God answered Moses' first objection (Ex 3:11) and then the second. The English keeps the order sense: first point first, last point last."
+    },
+    {
+     "anchor": "bartenura:5:7:7",
+     "relation": "follows",
+     "summary": "Bartenura: if he rules from his own reasoning he does not say 'so I heard from my teachers'; the people of Haran told Jacob what they knew and sent him to Rachel. He says 'I have not heard' about what he has not heard."
+    },
+    {
+     "anchor": "bartenura:5:7:8",
+     "relation": "follows",
+     "summary": "Bartenura: he admits the truth even though he could uphold his words with arguments; Moses admitted 'I heard and forgot' (Lev 10) and was not ashamed."
+    },
+    {
+     "anchor": "bartenura:5:7:9",
+     "relation": "follows",
+     "summary": "Bartenura: the opposite of these traits of the wise person belongs to the golem. The English follows this."
+    },
+    {
+     "anchor": "rambam:5:7:1",
+     "relation": "follows",
+     "summary": "Rambam defines the four types (bor, am ha'aretz, golem, wise): the golem has both intellectual and ethical qualities, but incomplete and confused, like a vessel not yet finished. He splits the seven into four of character (not speaking before a greater, not interrupting, not claiming to have heard what he has not, admitting the truth even when he could argue it away) and three of intellect: וְאֵינוֹ נִבְהָל לְהָשִׁיב, which he reads as not being confounded when someone tries to mislead him but quickly seeing the error; asking what belongs to the subject and answering from the side the question asks (כהלכה); and ordering what should come first and last. On נִבְהָל the English follows Bartenura and Rabbeinu Yonah ('hasty'); Rambam's reading is recorded in the apparatus."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:7:8",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: it does not mean answering the first question first and the last last; rather, if the first question is made clear by the last, he explains the last first and then the first. This is a real alternative reading of the order; the English keeps the plain 'first point first'."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads בגולם (without niqqud) at 5:7.3 and 5:7.46, חבירו at 5:7.20; 5:7.15 וּבְמִנְיָן is absent in Vilna.",
+    "Numbers and nouns: the text is Mishnaic Hebrew; Torat Emet is the base.",
+    "Rambam reads וְאֵינוֹ נִבְהָל לְהָשִׁיב as 'is not confounded in answering': when someone tries to mislead him he is not left in doubt but quickly finds the error. The English 'is not hasty to answer' follows Bartenura (כְּדֵי שֶׁתְּהֵא תְּשׁוּבָתוֹ כַּהֲלָכָה) and Rabbeinu Yonah (אינו ממהר להשיב)."
+   ]
+  },
+  {
+   "ref": "5:8",
+   "english": "Seven kinds of calamity come to the world for seven principal transgressions. When some of them tithe and some do not tithe, a famine of drought comes: some go hungry and some are sated. When they have resolved not to tithe, a famine of tumult and of drought comes. And for not taking the dough-offering, a famine of annihilation comes. Pestilence comes to the world for the death penalties stated in the Torah that were not delivered to the court, and for the produce of the seventh year. Sword comes to the world for the delaying of justice, for the perverting of justice, and for those who teach the Torah not according to the law.",
+   "literal": "seven kinds-of calamities coming to-the-world on seven bodies-of transgression. some-of-them tithing and-some-of-them not tithing, famine of drought comes; some-of-them hungry and-some-of-them sated. they-resolved that-not to-tithe, famine of tumult and-of drought comes. and-that-not to-take [obj] the-dough-offering, famine of annihilation comes. pestilence comes to-the-world on deaths the-stated in-the-Torah that-not they-were-delivered to-house-of judgment, and-on fruits-of seventh-year. sword comes to-the-world on delay-of the-judgment, and-on perversion-of the-judgment, and-on the-teaching in-the-Torah that-not like-the-law.",
+   "tokens": [
+    {
+     "id": "5:8.1",
+     "gloss": "seven",
+     "lex": "jastrow:שִׁבְעָה",
+     "note": "numeral, reversed gender with the masculine מִינֵי"
+    },
+    {
+     "id": "5:8.2",
+     "gloss": "kinds of",
+     "lex": "jastrow:מִין II",
+     "sense": "1",
+     "note": "מִינֵי, construct plural of מִין 'kind, species'"
+    },
+    {
+     "id": "5:8.3",
+     "gloss": "calamity",
+     "note": "פֻרְעָנוּת: 'retribution, punishment, calamity'; plural 'calamities'"
+    },
+    {
+     "id": "5:8.4",
+     "gloss": "come",
+     "lex": "jastrow:בָּא III",
+     "sense": "1",
+     "note": "participle, plural: 'are coming'"
+    },
+    {
+     "id": "5:8.5",
+     "gloss": "to the world",
+     "sense": "1",
+     "note": "עוֹלָם: here the inhabited world"
+    },
+    {
+     "id": "5:8.6",
+     "gloss": "for",
+     "sense": "1.1",
+     "note": "עַל, 'on account of'"
+    },
+    {
+     "id": "5:8.7",
+     "gloss": "seven",
+     "lex": "jastrow:שִׁבְעָה"
+    },
+    {
+     "id": "5:8.8",
+     "gloss": "principal ones of",
+     "lex": "jastrow:גּוּף II",
+     "sense": "2",
+     "note": "גּוּפֵי: construct of גּוּף, literally 'bodies (of)': the main items, the substance of the matter"
+    },
+    {
+     "id": "5:8.9",
+     "gloss": "transgression",
+     "note": "singular used collectively"
+    },
+    {
+     "id": "5:8.10",
+     "gloss": "some of them",
+     "sense": "1",
+     "note": "מִקְצָתָן: 'a part of them' (with מִן and the suffix)"
+    },
+    {
+     "id": "5:8.11",
+     "gloss": "tithe",
+     "sense": "2",
+     "note": "Piel participle, 'are tithing'"
+    },
+    {
+     "id": "5:8.12",
+     "gloss": "and some of them",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.13",
+     "gloss": "do not",
+     "lex": "jastrow:אֵין"
+    },
+    {
+     "id": "5:8.14",
+     "gloss": "tithe",
+     "sense": "2"
+    },
+    {
+     "id": "5:8.15",
+     "gloss": "famine",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:8.16",
+     "gloss": "of",
+     "note": "שֶׁל, genitive particle (Mishnaic Hebrew), 'of, belonging to'"
+    },
+    {
+     "id": "5:8.17",
+     "gloss": "drought",
+     "sense": "1",
+     "note": "בַּצֹּרֶת"
+    },
+    {
+     "id": "5:8.18",
+     "gloss": "comes",
+     "lex": "jastrow:בָּא III",
+     "sense": "1",
+     "note": "feminine participle; רָעָב is masculine, so the verb agrees with the nearer feminine noun בַּצֹּרֶת (agreement by attraction), as also in 5:8.31 and 5:8.39"
+    },
+    {
+     "id": "5:8.19",
+     "gloss": "some of them",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.20",
+     "gloss": "hungry",
+     "note": "רְעֵבִים: plural of the adjective רָעֵב 'hungry'; the lexicon key offered (bdbs:רָעָב) is the noun 'famine', so no sense is given"
+    },
+    {
+     "id": "5:8.21",
+     "gloss": "and some of them",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.22",
+     "gloss": "sated",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.23",
+     "gloss": "they resolved",
+     "lex": "jastrow:גָּמַר II",
+     "sense": "5",
+     "note": "גָּמְרוּ, 'they finished, decided'; Rabbeinu Yonah: all of them resolved not to tithe"
+    },
+    {
+     "id": "5:8.24",
+     "gloss": "that not"
+    },
+    {
+     "id": "5:8.25",
+     "gloss": "to tithe",
+     "sense": "2",
+     "note": "Piel infinitive"
+    },
+    {
+     "id": "5:8.26",
+     "gloss": "famine",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:8.27",
+     "gloss": "of"
+    },
+    {
+     "id": "5:8.28",
+     "gloss": "tumult",
+     "sense": "1.1",
+     "note": "מְהוּמָה: war and upheaval (Bartenura, Rambam)"
+    },
+    {
+     "id": "5:8.29",
+     "gloss": "and of"
+    },
+    {
+     "id": "5:8.30",
+     "gloss": "drought",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.31",
+     "gloss": "comes",
+     "lex": "jastrow:בָּא III",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.32",
+     "gloss": "and that not"
+    },
+    {
+     "id": "5:8.33",
+     "gloss": "to take",
+     "lex": "jastrow:נָטַל",
+     "sense": "1",
+     "note": "לִטֹּל, the Mishnaic idiom for separating the dough-offering"
+    },
+    {
+     "id": "5:8.34",
+     "gloss": "(object marker)",
+     "note": "אֶת, the object marker; the lexicon key offered (bdbs:אֵת 'ploughshare') is a wrong homograph, so no sense is given"
+    },
+    {
+     "id": "5:8.35",
+     "gloss": "the dough-offering",
+     "lex": "jastrow:חַלָּה",
+     "sense": "2",
+     "note": "חַלָּה: the portion of dough set aside for the priest (Num 15:20)"
+    },
+    {
+     "id": "5:8.36",
+     "gloss": "famine"
+    },
+    {
+     "id": "5:8.37",
+     "gloss": "of"
+    },
+    {
+     "id": "5:8.38",
+     "gloss": "annihilation",
+     "note": "כְּלָיָה: 'complete destruction, consumption'"
+    },
+    {
+     "id": "5:8.39",
+     "gloss": "comes",
+     "lex": "jastrow:בָּא III",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.40",
+     "gloss": "pestilence",
+     "note": "דֶּבֶר 'pestilence'; the lexicon key offered (bdbs:דָּבָר 'word, thing') is a different word, so no sense is given"
+    },
+    {
+     "id": "5:8.41",
+     "gloss": "comes",
+     "lex": "jastrow:בָּא III",
+     "sense": "1",
+     "note": "בָּא: the masculine singular participle, agreeing with דֶּבֶר, parallel to בָּאִין and בָּאָה; the same letters could be read as the perfect, but the parallel clauses favour the participle"
+    },
+    {
+     "id": "5:8.42",
+     "gloss": "to the world",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.43",
+     "gloss": "for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:8.44",
+     "gloss": "death penalties",
+     "sense": "1",
+     "note": "מִיתוֹת: 'deaths, executions'"
+    },
+    {
+     "id": "5:8.45",
+     "gloss": "stated",
+     "sense": "1.1",
+     "note": "passive participle, 'those said'"
+    },
+    {
+     "id": "5:8.46",
+     "gloss": "in the Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.47",
+     "gloss": "that not"
+    },
+    {
+     "id": "5:8.48",
+     "gloss": "were delivered",
+     "sense": "3.1",
+     "note": "Nifal, 'were handed over'"
+    },
+    {
+     "id": "5:8.49",
+     "gloss": "to the court",
+     "lex": "jastrow:בַּיִת",
+     "sense": "2",
+     "note": "בֵּית דִּין, lit. 'house of judgment'"
+    },
+    {
+     "id": "5:8.50",
+     "gloss": "judgment",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.51",
+     "gloss": "and for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:8.52",
+     "gloss": "the produce of",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:8.53",
+     "gloss": "the seventh year"
+    },
+    {
+     "id": "5:8.54",
+     "gloss": "sword",
+     "sense": "1.1",
+     "note": "חֶרֶב, here the sword of war"
+    },
+    {
+     "id": "5:8.55",
+     "gloss": "comes",
+     "lex": "jastrow:בָּא III",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.56",
+     "gloss": "to the world",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.57",
+     "gloss": "for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:8.58",
+     "gloss": "the delaying of",
+     "note": "עִנּוּי: 'afflicting, drawing out, delaying'; Rambam: delay of judgment"
+    },
+    {
+     "id": "5:8.59",
+     "gloss": "justice",
+     "sense": "1",
+     "note": "הַדִּין, 'the judgment'"
+    },
+    {
+     "id": "5:8.60",
+     "gloss": "and for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:8.61",
+     "gloss": "the perverting of",
+     "note": "עִוּוּת: 'bending, twisting'"
+    },
+    {
+     "id": "5:8.62",
+     "gloss": "justice",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.63",
+     "gloss": "and for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:8.64",
+     "gloss": "those who teach",
+     "sense": "1.3.4",
+     "note": "הַמּוֹרִים: Hifil participle, 'the instructors; those who give rulings'"
+    },
+    {
+     "id": "5:8.65",
+     "gloss": "the Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "5:8.66",
+     "gloss": "that not"
+    },
+    {
+     "id": "5:8.67",
+     "gloss": "according to the law",
+     "sense": "2",
+     "note": "כַהֲלָכָה, 'as the law'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:8.1",
+      "5:8.2",
+      "5:8.3"
+     ],
+     "english": "Seven kinds of calamity",
+     "literal": "'seven kinds of calamities'"
+    },
+    {
+     "tokens": [
+      "5:8.4",
+      "5:8.5"
+     ],
+     "english": "come to the world",
+     "literal": "'coming to the world'"
+    },
+    {
+     "tokens": [
+      "5:8.6",
+      "5:8.7",
+      "5:8.8",
+      "5:8.9"
+     ],
+     "english": "for seven principal transgressions",
+     "literal": "'on seven bodies of transgression': the principal categories of sin"
+    },
+    {
+     "tokens": [
+      "5:8.10",
+      "5:8.11"
+     ],
+     "english": "When some of them tithe",
+     "literal": "'some of them tithing'; the conditional force comes from the structure"
+    },
+    {
+     "tokens": [
+      "5:8.12",
+      "5:8.13",
+      "5:8.14"
+     ],
+     "english": "and some do not tithe",
+     "literal": "'and some of them not tithing'"
+    },
+    {
+     "tokens": [
+      "5:8.15",
+      "5:8.16",
+      "5:8.17"
+     ],
+     "english": "a famine of drought",
+     "literal": "'famine of drought'"
+    },
+    {
+     "tokens": [
+      "5:8.18"
+     ],
+     "english": "comes",
+     "literal": "'coming'"
+    },
+    {
+     "tokens": [
+      "5:8.19",
+      "5:8.20"
+     ],
+     "english": "some go hungry",
+     "literal": "'some of them hungry'"
+    },
+    {
+     "tokens": [
+      "5:8.21",
+      "5:8.22"
+     ],
+     "english": "and some are sated",
+     "literal": "'and some of them sated'"
+    },
+    {
+     "tokens": [
+      "5:8.23",
+      "5:8.24",
+      "5:8.25"
+     ],
+     "english": "When they have resolved not to tithe",
+     "literal": "'they finished, that-not to tithe'; Rabbeinu Yonah: all together"
+    },
+    {
+     "tokens": [
+      "5:8.26",
+      "5:8.27",
+      "5:8.28"
+     ],
+     "english": "a famine of tumult",
+     "literal": "'famine of tumult'"
+    },
+    {
+     "tokens": [
+      "5:8.29",
+      "5:8.30"
+     ],
+     "english": "and of drought",
+     "literal": "'and of drought'"
+    },
+    {
+     "tokens": [
+      "5:8.31"
+     ],
+     "english": "comes",
+     "literal": "'coming'"
+    },
+    {
+     "tokens": [
+      "5:8.32",
+      "5:8.33"
+     ],
+     "english": "And for not taking",
+     "literal": "'and that-not to take'; the verb of the main clause is shared with the line before"
+    },
+    {
+     "tokens": [
+      "5:8.34"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "5:8.35"
+     ],
+     "english": "the dough-offering",
+     "literal": "'the cake' (the priest's portion of dough)"
+    },
+    {
+     "tokens": [
+      "5:8.36",
+      "5:8.37",
+      "5:8.38"
+     ],
+     "english": "a famine of annihilation",
+     "literal": "'famine of annihilation'"
+    },
+    {
+     "tokens": [
+      "5:8.39"
+     ],
+     "english": "comes",
+     "literal": "'coming'"
+    },
+    {
+     "tokens": [
+      "5:8.40"
+     ],
+     "english": "Pestilence",
+     "literal": "'pestilence'"
+    },
+    {
+     "tokens": [
+      "5:8.41",
+      "5:8.42"
+     ],
+     "english": "comes to the world",
+     "literal": "'comes to the world'; בָּא is the masculine participle, as in the parallel clauses"
+    },
+    {
+     "tokens": [
+      "5:8.43",
+      "5:8.44",
+      "5:8.45",
+      "5:8.46"
+     ],
+     "english": "for the death penalties stated in the Torah",
+     "literal": "'on deaths stated in the Torah'"
+    },
+    {
+     "tokens": [
+      "5:8.47",
+      "5:8.48",
+      "5:8.49",
+      "5:8.50"
+     ],
+     "english": "that were not delivered to the court",
+     "literal": "'that not were delivered to house of judgment'; Bartenura: no judgment of the Torah was carried out on them"
+    },
+    {
+     "tokens": [
+      "5:8.51",
+      "5:8.52",
+      "5:8.53"
+     ],
+     "english": "and for the produce of the seventh year",
+     "literal": "'and on fruits of the seventh year'; Bartenura: they trade in them and do not treat them as sacred"
+    },
+    {
+     "tokens": [
+      "5:8.54"
+     ],
+     "english": "Sword",
+     "literal": "'sword'"
+    },
+    {
+     "tokens": [
+      "5:8.55",
+      "5:8.56"
+     ],
+     "english": "comes to the world",
+     "literal": "'coming to the world'"
+    },
+    {
+     "tokens": [
+      "5:8.57",
+      "5:8.58",
+      "5:8.59"
+     ],
+     "english": "for the delaying of justice",
+     "literal": "'on delay of the judgment'; Rambam: delaying the verdict"
+    },
+    {
+     "tokens": [
+      "5:8.60",
+      "5:8.61",
+      "5:8.62"
+     ],
+     "english": "for the perverting of justice",
+     "literal": "'and on perversion of the judgment'; Bartenura: acquitting the guilty and convicting the innocent"
+    },
+    {
+     "tokens": [
+      "5:8.63",
+      "5:8.64"
+     ],
+     "english": "and for those who teach",
+     "literal": "'and on the teachers'"
+    },
+    {
+     "tokens": [
+      "5:8.65"
+     ],
+     "english": "the Torah",
+     "literal": "'in the Torah'"
+    },
+    {
+     "tokens": [
+      "5:8.66",
+      "5:8.67"
+     ],
+     "english": "not according to the law",
+     "literal": "'that not like the law'; Bartenura: forbidding what is permitted and permitting what is forbidden"
+    }
+   ],
+   "grammar": [
+    "The mishnah is built on a refrain: 'X comes to the world for Y'. The verb is the participle throughout: בָּאִין (masculine plural), בָּאָה (feminine singular) and בָּא (5:8.41, masculine singular with דֶּבֶר). בָּא has the same letters as the perfect, but the parallel clauses show it is the participle.",
+    "שֶׁל is the genitive particle of Mishnaic Hebrew (רָעָב שֶׁל בַּצֹּרֶת 'a famine of drought'), where biblical Hebrew would use the construct state.",
+    "מִקְצָתָן ... וּמִקְצָתָן: 'some of them ... and some of them', a distributive pair; מִקְצָתָן is מִן + קֶצֶת + suffix.",
+    "The conditions of the first three famines are elliptical: 'some tithe and some do not', 'they resolved not to tithe', 'and not to take the dough-offering' (the verb of the earlier clause is carried over). The English fills in only what the verb requires.",
+    "הַמּוֹרִים is a Hifil participle of ירה, 'teach, direct' (the root of תּוֹרָה); the line plays on the word 'Torah'."
+   ],
+   "note": "פֻרְעָנוּת is 'calamity'; גּוּפֵי עֲבֵרָה is 'principal transgressions' (literally 'bodies of transgression'). The mishnah's list is elliptical; the English does not spell out a conditional for the dough-offering clause ('And for not taking the dough-offering'). The pack's first lexicon entry for בָּא is Jastrow 'בָּא I' (father), a wrong homograph; the tokens are assigned to Jastrow 'בָּא III' (the participle of בוא, 'coming'). The bdbs entries for בַּיִת (a place name), שִׁבְעָה (Shebah) and תּוֹרָה ('law of man') are likewise wrong; Jastrow's entries are used.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:8:1",
+     "relation": "follows",
+     "summary": "Bartenura: the rains are few, and so the price rises. This fixes 'a famine of drought' as lack of rain."
+    },
+    {
+     "anchor": "bartenura:5:8:2",
+     "relation": "follows",
+     "summary": "Bartenura: because of armies they cannot gather the crop. This gives 'a famine of tumult' its sense (war), which the English keeps in 'tumult'."
+    },
+    {
+     "anchor": "bartenura:5:8:3",
+     "relation": "follows",
+     "summary": "Bartenura: the heavens like iron and the earth like bronze (Deut 28:23); this is total drought, the 'annihilation' famine."
+    },
+    {
+     "anchor": "bartenura:5:8:4",
+     "relation": "follows",
+     "summary": "Bartenura: 'not delivered to the court' means that no judgment of the Torah was carried out on them."
+    },
+    {
+     "anchor": "bartenura:5:8:5",
+     "relation": "follows",
+     "summary": "Bartenura: they trade in the produce of the seventh year and do not treat it with the sanctity of the seventh year."
+    },
+    {
+     "anchor": "bartenura:5:8:6",
+     "relation": "follows",
+     "summary": "Bartenura: they know which way the case will fall and delay, and do not rule. The English 'delaying' follows this."
+    },
+    {
+     "anchor": "bartenura:5:8:7",
+     "relation": "follows",
+     "summary": "Bartenura: to acquit the guilty and convict the innocent; hence 'perverting' of justice."
+    },
+    {
+     "anchor": "bartenura:5:8:8",
+     "relation": "follows",
+     "summary": "Bartenura: to forbid what is permitted and permit what is forbidden. This explains 'not according to the law'."
+    },
+    {
+     "anchor": "rambam:5:8:1",
+     "relation": "follows",
+     "summary": "Rambam: drought famine is little rain, in some places none, and where it falls, little; tumult famine is people occupied in wars and quarrels so that the land lies unsown; annihilation famine is no rain at all, rivers dry up, as in 'your heavens shall be bronze'."
+    },
+    {
+     "anchor": "rambam:5:8:2",
+     "relation": "follows",
+     "summary": "Rambam: עִנּוּי הַדִּין is delay of judgment and long study of a matter that is clear; עִוּוּת הַדִּין is judging by what is not proper. The English 'delaying' and 'perverting' follow this."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:8:4",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah on the tumult famine: it comes through war and calamities so that people cannot work their land; the measure for the measure of all not tithing. Not a different reading of the words, kept as context."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads פורעניות, עבירה, בצורת (twice), ליטול, פירות (spelling only).",
+    "At 5:8.55 Vilna reads בא for בָּאָה.",
+    "Source verses are not quoted in the mishnah; the commentators cite Deut 28:23 for the annihilation famine."
+   ]
+  },
+  {
+   "ref": "5:9",
+   "english": "A wild beast comes to the world for a vain oath and for the profanation of the Name. Exile comes to the world for those who worship idols, for forbidden sexual relations, for the shedding of blood, and for violating the release of the land. At four times pestilence increases: in the fourth year, in the seventh, at the close of the seventh year, and at the close of the festival in every single year. In the fourth, because of the poor man's tithe of the third. In the seventh, because of the poor man's tithe of the sixth. At the close of the seventh year, because of the produce of the seventh year. And at the close of the festival in every single year, because of the robbery of the gifts to the poor.",
+   "literal": "beast evil comes to-the-world on oath-of vanity, and-on profanation-of the-Name. exile comes to-the-world on worshippers-of worship foreign, and-on uncovering-of nakednesses, and-on shedding-of bloods, and-on the-release-of the-land. in-four periods the-pestilence increases: in-the-fourth, and-in-the-seventh, and-at-the-going-out-of seventh, and-at-the-going-out-of the-festival that-in-every year and-year. in-the-fourth, because-of tithe-of poor that-in-the-third. in-the-seventh, because-of tithe-of poor that-in-the-sixth. and-at-the-going-out-of seventh, because-of fruits-of seventh. and-at-the-going-out-of the-festival that-in-every year and-year, because-of robbery-of gifts-of poor-people.",
+   "tokens": [
+    {
+     "id": "5:9.1",
+     "gloss": "beast",
+     "note": "חַיָּה: 'living creature, wild animal'; the lexicon key offered (bdbs:חָיָה, the verb 'to live') is the wrong word, so no sense is given"
+    },
+    {
+     "id": "5:9.2",
+     "gloss": "wild",
+     "sense": "2.8",
+     "note": "רָעָה, 'evil, harmful'; חַיָּה רָעָה is a fixed phrase for a wild beast (Lev 26:6, Ezek 14:15)"
+    },
+    {
+     "id": "5:9.3",
+     "gloss": "comes",
+     "lex": "jastrow:בָּא III",
+     "sense": "1",
+     "note": "feminine participle"
+    },
+    {
+     "id": "5:9.4",
+     "gloss": "to the world",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.5",
+     "gloss": "for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:9.6",
+     "gloss": "oath of",
+     "sense": "1.1",
+     "note": "שְׁבוּעַת, construct"
+    },
+    {
+     "id": "5:9.7",
+     "gloss": "vanity",
+     "sense": "1.1",
+     "note": "שָׁוְא: a vain, empty oath (Ex 20:7)"
+    },
+    {
+     "id": "5:9.8",
+     "gloss": "and for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:9.9",
+     "gloss": "profanation of",
+     "note": "חִלּוּל, construct"
+    },
+    {
+     "id": "5:9.10",
+     "gloss": "the Name",
+     "lex": "jastrow:שֵׁם II",
+     "sense": "1",
+     "note": "הַשֵּׁם, a designation for God"
+    },
+    {
+     "id": "5:9.11",
+     "gloss": "exile",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.12",
+     "gloss": "comes",
+     "lex": "jastrow:בָּא III",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.13",
+     "gloss": "to the world",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.14",
+     "gloss": "for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:9.15",
+     "gloss": "those who worship",
+     "note": "עוֹבְדֵי: participle construct, 'servants of'; the lexicon key offered (bdbs:עֶבֶד, the name Ebed) is wrong for the verb עָבַד 'serve, worship', so no sense is given"
+    },
+    {
+     "id": "5:9.16",
+     "gloss": "idols",
+     "sense": "6",
+     "note": "עֲבוֹדָה זָרָה: lit. 'foreign worship'"
+    },
+    {
+     "id": "5:9.17",
+     "gloss": "foreign"
+    },
+    {
+     "id": "5:9.18",
+     "gloss": "and for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:9.19",
+     "gloss": "uncovering of",
+     "note": "גִּלּוּי, construct"
+    },
+    {
+     "id": "5:9.20",
+     "gloss": "nakedness",
+     "sense": "1",
+     "note": "עֶרְיָה, plural: the forbidden sexual relations of Lev 18"
+    },
+    {
+     "id": "5:9.21",
+     "gloss": "and for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:9.22",
+     "gloss": "shedding of",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.23",
+     "gloss": "blood",
+     "sense": "1",
+     "note": "דָּם, plural 'bloods' for bloodshed"
+    },
+    {
+     "id": "5:9.24",
+     "gloss": "and for",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:9.25",
+     "gloss": "the release of",
+     "sense": "1",
+     "note": "הַשְׁמָטַת: the sabbatical year in which the land is released from work"
+    },
+    {
+     "id": "5:9.26",
+     "gloss": "the land",
+     "sense": "1.2.1"
+    },
+    {
+     "id": "5:9.27",
+     "gloss": "in four",
+     "lex": "jastrow:אַרְבַּע"
+    },
+    {
+     "id": "5:9.28",
+     "gloss": "periods",
+     "note": "פְרָקִים: 'times, seasons'; the lexicon key offered (jastrow:פָּרַק) is the verb 'to break, separate', not the noun פֶּרֶק, so no sense is given"
+    },
+    {
+     "id": "5:9.29",
+     "gloss": "the pestilence",
+     "note": "הַדֶּבֶר 'the pestilence'; the lexicon key offered (bdbs:דָּבָר 'word, thing') is a different word, so no sense is given"
+    },
+    {
+     "id": "5:9.30",
+     "gloss": "increases",
+     "note": "Hitpael participle of רבה"
+    },
+    {
+     "id": "5:9.31",
+     "gloss": "in the fourth",
+     "note": "the fourth year of the sabbatical cycle (supplied from the following lines)"
+    },
+    {
+     "id": "5:9.32",
+     "gloss": "and in the seventh",
+     "note": "the seventh year"
+    },
+    {
+     "id": "5:9.33",
+     "gloss": "and at the close of",
+     "lex": "jastrow:מוֹצָא III",
+     "sense": "1",
+     "note": "מוֹצָאֵי: construct plural, 'the going out of'"
+    },
+    {
+     "id": "5:9.34",
+     "gloss": "the seventh year"
+    },
+    {
+     "id": "5:9.35",
+     "gloss": "and at the close of",
+     "lex": "jastrow:מוֹצָא III",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.36",
+     "gloss": "the festival",
+     "sense": "1",
+     "note": "הֶחָג: the festival of Sukkot"
+    },
+    {
+     "id": "5:9.37",
+     "gloss": "which is in every",
+     "note": "שֶׁבְּכָל"
+    },
+    {
+     "id": "5:9.38",
+     "gloss": "year",
+     "lex": "bdbs:שָׁנֶה",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.39",
+     "gloss": "and year",
+     "lex": "bdbs:שָׁנֶה",
+     "sense": "1",
+     "note": "'every year and year': every single year"
+    },
+    {
+     "id": "5:9.40",
+     "gloss": "in the fourth"
+    },
+    {
+     "id": "5:9.41",
+     "gloss": "because of",
+     "sense": "1.7.1",
+     "note": "מִפְּנֵי, literally 'from the face of'"
+    },
+    {
+     "id": "5:9.42",
+     "gloss": "tithe of",
+     "sense": "1.2",
+     "note": "מַעְשַׂר, construct"
+    },
+    {
+     "id": "5:9.43",
+     "gloss": "poor man",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:9.44",
+     "gloss": "which is in the third",
+     "note": "שֶׁבַּשְּׁלִישִׁית"
+    },
+    {
+     "id": "5:9.45",
+     "gloss": "in the seventh"
+    },
+    {
+     "id": "5:9.46",
+     "gloss": "because of",
+     "sense": "1.7.1"
+    },
+    {
+     "id": "5:9.47",
+     "gloss": "tithe of",
+     "sense": "1.2"
+    },
+    {
+     "id": "5:9.48",
+     "gloss": "poor man",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:9.49",
+     "gloss": "which is in the sixth",
+     "note": "שֶׁבַּשִּׁשִּׁית"
+    },
+    {
+     "id": "5:9.50",
+     "gloss": "and at the close of",
+     "lex": "jastrow:מוֹצָא III",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.51",
+     "gloss": "the seventh year"
+    },
+    {
+     "id": "5:9.52",
+     "gloss": "because of",
+     "sense": "1.7.1"
+    },
+    {
+     "id": "5:9.53",
+     "gloss": "produce of",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:9.54",
+     "gloss": "the seventh year"
+    },
+    {
+     "id": "5:9.55",
+     "gloss": "and at the close of",
+     "lex": "jastrow:מוֹצָא III",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.56",
+     "gloss": "the festival",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.57",
+     "gloss": "which is in every"
+    },
+    {
+     "id": "5:9.58",
+     "gloss": "year",
+     "lex": "bdbs:שָׁנֶה",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.59",
+     "gloss": "and year",
+     "lex": "bdbs:שָׁנֶה",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.60",
+     "gloss": "because of",
+     "sense": "1.7.1"
+    },
+    {
+     "id": "5:9.61",
+     "gloss": "robbery of",
+     "sense": "1"
+    },
+    {
+     "id": "5:9.62",
+     "gloss": "gifts of",
+     "lex": "jastrow:מַתָּנָה",
+     "sense": "1",
+     "note": "מַתְּנוֹת: construct plural of מַתָּנָה 'gift'"
+    },
+    {
+     "id": "5:9.63",
+     "gloss": "the poor",
+     "sense": "1.1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:9.1",
+      "5:9.2"
+     ],
+     "english": "A wild beast",
+     "literal": "'beast evil'; the fixed phrase for a wild animal"
+    },
+    {
+     "tokens": [
+      "5:9.3",
+      "5:9.4"
+     ],
+     "english": "comes to the world",
+     "literal": "'comes to the world'"
+    },
+    {
+     "tokens": [
+      "5:9.5",
+      "5:9.6",
+      "5:9.7"
+     ],
+     "english": "for a vain oath",
+     "literal": "'on an oath of vanity'; Bartenura: לבטלה, an oath for nothing, not needed"
+    },
+    {
+     "tokens": [
+      "5:9.8",
+      "5:9.9",
+      "5:9.10"
+     ],
+     "english": "and for the profanation of the Name",
+     "literal": "'and on profanation of the Name'; Bartenura: sinning openly and defiantly, or so that others see and learn from his deeds"
+    },
+    {
+     "tokens": [
+      "5:9.11"
+     ],
+     "english": "Exile",
+     "literal": "'exile'"
+    },
+    {
+     "tokens": [
+      "5:9.12",
+      "5:9.13"
+     ],
+     "english": "comes to the world",
+     "literal": "'comes to the world'"
+    },
+    {
+     "tokens": [
+      "5:9.14",
+      "5:9.15",
+      "5:9.16",
+      "5:9.17"
+     ],
+     "english": "for those who worship idols",
+     "literal": "'on worshippers of foreign worship'"
+    },
+    {
+     "tokens": [
+      "5:9.18",
+      "5:9.19",
+      "5:9.20"
+     ],
+     "english": "for forbidden sexual relations",
+     "literal": "'and on uncovering of nakednesses'"
+    },
+    {
+     "tokens": [
+      "5:9.21",
+      "5:9.22",
+      "5:9.23"
+     ],
+     "english": "for the shedding of blood",
+     "literal": "'and on shedding of bloods'"
+    },
+    {
+     "tokens": [
+      "5:9.24",
+      "5:9.25",
+      "5:9.26"
+     ],
+     "english": "and for violating the release of the land",
+     "literal": "'and on the release of the land'; Bartenura: they plough and sow in the seventh year"
+    },
+    {
+     "tokens": [
+      "5:9.27",
+      "5:9.28"
+     ],
+     "english": "At four times",
+     "literal": "'in four periods'"
+    },
+    {
+     "tokens": [
+      "5:9.29",
+      "5:9.30"
+     ],
+     "english": "pestilence increases",
+     "literal": "'the pestilence increases'"
+    },
+    {
+     "tokens": [
+      "5:9.31"
+     ],
+     "english": "in the fourth year",
+     "literal": "'in the fourth'"
+    },
+    {
+     "tokens": [
+      "5:9.32"
+     ],
+     "english": "in the seventh",
+     "literal": "'and in the seventh'"
+    },
+    {
+     "tokens": [
+      "5:9.33",
+      "5:9.34"
+     ],
+     "english": "at the close of the seventh year",
+     "literal": "'and at the going out of the seventh'"
+    },
+    {
+     "tokens": [
+      "5:9.35",
+      "5:9.36"
+     ],
+     "english": "and at the close of the festival",
+     "literal": "'and at the going out of the festival'"
+    },
+    {
+     "tokens": [
+      "5:9.37",
+      "5:9.38",
+      "5:9.39"
+     ],
+     "english": "in every single year",
+     "literal": "'that in every year and year'"
+    },
+    {
+     "tokens": [
+      "5:9.40"
+     ],
+     "english": "In the fourth",
+     "literal": "'in the fourth'"
+    },
+    {
+     "tokens": [
+      "5:9.41"
+     ],
+     "english": "because of",
+     "literal": "'from the face of'"
+    },
+    {
+     "tokens": [
+      "5:9.42",
+      "5:9.43"
+     ],
+     "english": "the poor man's tithe",
+     "literal": "'tithe of the poor'"
+    },
+    {
+     "tokens": [
+      "5:9.44"
+     ],
+     "english": "of the third",
+     "literal": "'that in the third'"
+    },
+    {
+     "tokens": [
+      "5:9.45"
+     ],
+     "english": "In the seventh",
+     "literal": "'in the seventh'"
+    },
+    {
+     "tokens": [
+      "5:9.46"
+     ],
+     "english": "because of",
+     "literal": "'from the face of'"
+    },
+    {
+     "tokens": [
+      "5:9.47",
+      "5:9.48"
+     ],
+     "english": "the poor man's tithe",
+     "literal": "'tithe of the poor'"
+    },
+    {
+     "tokens": [
+      "5:9.49"
+     ],
+     "english": "of the sixth",
+     "literal": "'that in the sixth'"
+    },
+    {
+     "tokens": [
+      "5:9.50",
+      "5:9.51"
+     ],
+     "english": "At the close of the seventh year",
+     "literal": "'and at the going out of the seventh'"
+    },
+    {
+     "tokens": [
+      "5:9.52"
+     ],
+     "english": "because of",
+     "literal": "'from the face of'"
+    },
+    {
+     "tokens": [
+      "5:9.53",
+      "5:9.54"
+     ],
+     "english": "the produce of the seventh year",
+     "literal": "'fruits of the seventh'"
+    },
+    {
+     "tokens": [
+      "5:9.55",
+      "5:9.56"
+     ],
+     "english": "And at the close of the festival",
+     "literal": "'and at the going out of the festival'"
+    },
+    {
+     "tokens": [
+      "5:9.57",
+      "5:9.58",
+      "5:9.59"
+     ],
+     "english": "in every single year",
+     "literal": "'that in every year and year'"
+    },
+    {
+     "tokens": [
+      "5:9.60"
+     ],
+     "english": "because of",
+     "literal": "'from the face of'"
+    },
+    {
+     "tokens": [
+      "5:9.61",
+      "5:9.62"
+     ],
+     "english": "the robbery of the gifts",
+     "literal": "'robbery of gifts'"
+    },
+    {
+     "tokens": [
+      "5:9.63"
+     ],
+     "english": "to the poor",
+     "literal": "'of the poor'; Bartenura: gleanings, forgotten sheaf, corner of the field, fallen grapes and single grapes"
+    }
+   ],
+   "grammar": [
+    "This mishnah has two parts: a second list of calamities (wild beast, exile), then the four times at which pestilence increases, each with its reason.",
+    "חַיָּה רָעָה, 'a wild beast', is a noun with an attributive adjective; the participle בָאָה agrees with the feminine noun.",
+    "עוֹבְדֵי עֲבוֹדָה זָרָה: a participle in the construct state, 'worshippers of foreign worship'.",
+    "The four times are given first in a bare list (בָּרְבִיעִית, וּבַשְּׁבִיעִית ...), then each is explained with מִפְּנֵי 'because of' (literally 'from the face of'). The repeated forms have the preposition בְּ + the feminine ordinal as a noun ('in the fourth', 'in the seventh'), with 'year' understood.",
+    "וְשָׁנָה: 'every year and year', a doubling that makes the phrase distributive: every single year."
+   ],
+   "note": "'The Name' (הַשֵּׁם) stands for God; no decision on this phrase, so the Hebrew word is kept in English capitalised. עֲרָיוֹת is rendered 'forbidden sexual relations' (literally 'nakednesses'). הַשְׁמָטַת הָאָרֶץ is 'the release of the land'; the English adds 'violating' following Bartenura (they plough and sow in the sabbatical year). The 'fourth' and 'seventh' are years of the seven-year sabbatical cycle, supplied from the explanation that follows (the poor man's tithe falls in the third and sixth years). The bdbs entries for מוֹצָא (Moza, a personal name), מַתָּנָה (Mattanah), שֵׁם (Shem) and שָׁנָה (the verb 'repeat') are wrong homographs; the tokens are assigned to Jastrow's מוֹצָא III, מַתָּנָה and שֵׁם II and to bdbs:שָׁנֶה 'year'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:9:1",
+     "relation": "follows",
+     "summary": "Bartenura: שְׁבוּעַת שָׁוְא is an oath 'for nothing', not needed. The English 'vain oath' follows this."
+    },
+    {
+     "anchor": "bartenura:5:9:2",
+     "relation": "follows",
+     "summary": "Bartenura: profanation of the Name is sinning openly, defiantly; or that people see and learn from his deeds. This is kept in the note rather than in the English."
+    },
+    {
+     "anchor": "bartenura:5:9:3",
+     "relation": "follows",
+     "summary": "Bartenura: they plough and sow in the seventh year. The English 'violating' reflects this."
+    },
+    {
+     "anchor": "bartenura:5:9:4",
+     "relation": "follows",
+     "summary": "Bartenura: in the third and sixth years the poor man's tithe is set aside in place of the second tithe set aside in the other years of the cycle."
+    },
+    {
+     "anchor": "bartenura:5:9:5",
+     "relation": "follows",
+     "summary": "Bartenura: gifts to the poor are gleanings, the forgotten sheaf, the corner, fallen grapes and single grapes."
+    },
+    {
+     "anchor": "rambam:5:9:1",
+     "relation": "follows",
+     "summary": "Rambam: in the third and sixth years one separated the first tithe for the Levite and then the poor man's tithe, in place of the second tithe of other years; the gifts to the poor are gleanings, forgotten sheaf, corner, fallen and single grapes; at the festival the work of the land is finished, so whoever did not give them has robbed."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads בא for בָאָה at 5:9.12; שפיכת for שְׁפִיכוּת at 5:9.22; פירות for פֵרוֹת at 5:9.53.",
+    "Deut 32:24 (teeth of beasts) is cited by Rabbeinu Yonah for the wild beast; Lev 18:25, 26:30, 26:34 for exile."
+   ]
+  },
+  {
+   "ref": "5:10",
+   "english": "There are four dispositions among people. One who says, \"What is mine is mine, and what is yours is yours\": this is a middling disposition; and some say, this is the disposition of Sodom. \"What is mine is yours, and what is yours is mine\": an unlearned person. \"What is mine is yours, and what is yours is yours\": a pious person. \"What is mine is mine, and what is yours is mine\": a wicked person.",
+   "literal": "four dispositions in-the-person. the-saying mine mine and-yours yours, this disposition middling; and-there-are saying, this disposition-of Sodom. mine yours and-yours mine, people-of the-land. mine yours and-yours yours, pious. mine mine and-yours mine, wicked.",
+   "tokens": [
+    {
+     "id": "5:10.1",
+     "gloss": "four",
+     "lex": "jastrow:אַרְבַּע",
+     "note": "numeral without a following noun marking gender; masculine form with the feminine noun מִדּוֹת (reversed gender)"
+    },
+    {
+     "id": "5:10.2",
+     "gloss": "dispositions",
+     "lex": "jastrow:מִדָּה",
+     "note": "מִדּוֹת: 'measures; character traits, dispositions'. Jastrow's listed senses ('measure', 'dealing', 'principle') do not include 'disposition', so no sense is given"
+    },
+    {
+     "id": "5:10.3",
+     "gloss": "among people",
+     "lex": "jastrow:אָדָם",
+     "sense": "1",
+     "note": "בָּאָדָם: 'in the person', collective: among human beings"
+    },
+    {
+     "id": "5:10.4",
+     "gloss": "the one who says",
+     "note": "הָאוֹמֵר: article + participle, 'the one saying'"
+    },
+    {
+     "id": "5:10.5",
+     "gloss": "mine",
+     "note": "שֶׁלִּי: 'belonging to me'"
+    },
+    {
+     "id": "5:10.6",
+     "gloss": "mine"
+    },
+    {
+     "id": "5:10.7",
+     "gloss": "and yours"
+    },
+    {
+     "id": "5:10.8",
+     "gloss": "yours"
+    },
+    {
+     "id": "5:10.9",
+     "gloss": "this"
+    },
+    {
+     "id": "5:10.10",
+     "gloss": "disposition",
+     "lex": "jastrow:מִדָּה"
+    },
+    {
+     "id": "5:10.11",
+     "gloss": "middling",
+     "sense": "1",
+     "note": "בֵּינוֹנִית: 'in the middle, average'"
+    },
+    {
+     "id": "5:10.12",
+     "gloss": "and there are",
+     "note": "וְיֵשׁ + a plural participle: 'and there are (those) saying'"
+    },
+    {
+     "id": "5:10.13",
+     "gloss": "saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:10.14",
+     "gloss": "this"
+    },
+    {
+     "id": "5:10.15",
+     "gloss": "disposition of",
+     "lex": "jastrow:מִדָּה"
+    },
+    {
+     "id": "5:10.16",
+     "gloss": "Sodom"
+    },
+    {
+     "id": "5:10.17",
+     "gloss": "mine"
+    },
+    {
+     "id": "5:10.18",
+     "gloss": "yours"
+    },
+    {
+     "id": "5:10.19",
+     "gloss": "and yours"
+    },
+    {
+     "id": "5:10.20",
+     "gloss": "mine"
+    },
+    {
+     "id": "5:10.21",
+     "gloss": "people of",
+     "note": "עַם: 'people'; with הָאָרֶץ it forms the term עַם הָאָרֶץ, literally 'people of the land'. The lexicon key offered (bdbs:עִם, the preposition 'with') is a wrong homograph, so no sense is given"
+    },
+    {
+     "id": "5:10.22",
+     "gloss": "the land",
+     "sense": "1.2"
+    },
+    {
+     "id": "5:10.23",
+     "gloss": "mine"
+    },
+    {
+     "id": "5:10.24",
+     "gloss": "yours"
+    },
+    {
+     "id": "5:10.25",
+     "gloss": "and yours"
+    },
+    {
+     "id": "5:10.26",
+     "gloss": "yours"
+    },
+    {
+     "id": "5:10.27",
+     "gloss": "pious person",
+     "sense": "1.2",
+     "note": "חָסִיד: pious, one who does more than the law requires (Bartenura: לִפְנִים מִשּׁוּרַת הַדִּין)"
+    },
+    {
+     "id": "5:10.28",
+     "gloss": "mine"
+    },
+    {
+     "id": "5:10.29",
+     "gloss": "mine"
+    },
+    {
+     "id": "5:10.30",
+     "gloss": "and yours"
+    },
+    {
+     "id": "5:10.31",
+     "gloss": "mine"
+    },
+    {
+     "id": "5:10.32",
+     "gloss": "wicked person",
+     "sense": "1.3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:10.1",
+      "5:10.2"
+     ],
+     "english": "There are four dispositions",
+     "literal": "'four dispositions'; 'there are' is supplied for the verbless clause"
+    },
+    {
+     "tokens": [
+      "5:10.3"
+     ],
+     "english": "among people",
+     "literal": "'in the person'"
+    },
+    {
+     "tokens": [
+      "5:10.4"
+     ],
+     "english": "One who says",
+     "literal": "'the one saying'"
+    },
+    {
+     "tokens": [
+      "5:10.5",
+      "5:10.6"
+     ],
+     "english": "What is mine is mine",
+     "literal": "'mine mine'"
+    },
+    {
+     "tokens": [
+      "5:10.7",
+      "5:10.8"
+     ],
+     "english": "and what is yours is yours",
+     "literal": "'and yours yours'"
+    },
+    {
+     "tokens": [
+      "5:10.9"
+     ],
+     "english": "this",
+     "literal": "'this'"
+    },
+    {
+     "tokens": [
+      "5:10.10",
+      "5:10.11"
+     ],
+     "english": "is a middling disposition",
+     "literal": "'disposition middling'"
+    },
+    {
+     "tokens": [
+      "5:10.12",
+      "5:10.13"
+     ],
+     "english": "and some say",
+     "literal": "'and there are saying'"
+    },
+    {
+     "tokens": [
+      "5:10.14"
+     ],
+     "english": "this",
+     "literal": "'this'"
+    },
+    {
+     "tokens": [
+      "5:10.15",
+      "5:10.16"
+     ],
+     "english": "is the disposition of Sodom",
+     "literal": "'disposition of Sodom'"
+    },
+    {
+     "tokens": [
+      "5:10.17",
+      "5:10.18"
+     ],
+     "english": "What is mine is yours",
+     "literal": "'mine yours'"
+    },
+    {
+     "tokens": [
+      "5:10.19",
+      "5:10.20"
+     ],
+     "english": "and what is yours is mine",
+     "literal": "'and yours mine'"
+    },
+    {
+     "tokens": [
+      "5:10.21",
+      "5:10.22"
+     ],
+     "english": "an unlearned person",
+     "literal": "'people of the land' (see note)"
+    },
+    {
+     "tokens": [
+      "5:10.23",
+      "5:10.24"
+     ],
+     "english": "What is mine is yours",
+     "literal": "'mine yours'"
+    },
+    {
+     "tokens": [
+      "5:10.25",
+      "5:10.26"
+     ],
+     "english": "and what is yours is yours",
+     "literal": "'and yours yours'"
+    },
+    {
+     "tokens": [
+      "5:10.27"
+     ],
+     "english": "a pious person",
+     "literal": "'pious'"
+    },
+    {
+     "tokens": [
+      "5:10.28",
+      "5:10.29"
+     ],
+     "english": "What is mine is mine",
+     "literal": "'mine mine'"
+    },
+    {
+     "tokens": [
+      "5:10.30",
+      "5:10.31"
+     ],
+     "english": "and what is yours is mine",
+     "literal": "'and yours mine'"
+    },
+    {
+     "tokens": [
+      "5:10.32"
+     ],
+     "english": "a wicked person",
+     "literal": "'wicked'"
+    }
+   ],
+   "grammar": [
+    "The four dispositions are given as formulas with no verb: שֶׁלִּי שֶׁלִּי 'mine (is) mine'. שֶׁל + suffix (שֶׁלִּי, שֶׁלְּךָ) is the Mishnaic possessive 'of me, of you', the equivalent of 'mine, yours'.",
+    "The clauses are nominal sentences: subject 'mine', predicate 'yours' or 'mine'; the English supplies 'What is ... is ...'.",
+    "וְיֵשׁ אוֹמְרִים, 'and some say', introduces a dissenting opinion on the first disposition; the three forms of זוֹ (feminine singular demonstrative) agree with מִדָּה.",
+    "The first disposition is a middle one and the other three are the extremes: 'unlearned' (generous in exchange), 'pious' (generous without return), 'wicked' (takes both)."
+   ],
+   "note": "עַם הָאָרֶץ is rendered 'an unlearned person', as decided; the literal sense is 'people of the land'. Bartenura connects the title with the settling of the land: he seeks the land's good order but has no wisdom to distinguish the proper ways. Rambam does not comment on the title here; at 5:7 he defines the am ha'aretz as one who has good conduct but no learning, fit for the settling of the land. מִדָּה is 'disposition', not 'trait', to allow 'a middling disposition' and 'the disposition of Sodom'. The bdbs entries for מִדָּה ('tribute') and אָדָם (the name Adam) are wrong homographs; the tokens are assigned to Jastrow's מִדָּה ('measure') and אָדָם ('man').",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:10:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'mine is mine, yours is yours' means: I do not want to benefit you, and I wish you would not benefit me."
+    },
+    {
+     "anchor": "bartenura:5:10:2",
+     "relation": "follows",
+     "summary": "Bartenura: this can easily lead to the disposition of Sodom, since being used to this he will refuse to let another benefit even where he loses nothing; this was Sodom's way, though the land was wide and they lacked nothing. The English keeps the dissenting opinion as a separate view ('some say')."
+    },
+    {
+     "anchor": "bartenura:5:10:3",
+     "relation": "follows",
+     "summary": "Bartenura: he benefits and gives equally, which is the settlement of the land, but he does not know the verse 'he who hates gifts shall live' (Prov 15:27); this is the sense of 'am ha'aretz' everywhere: one who wants the land's good order but lacks the wisdom to distinguish the right ways. The English 'unlearned person' follows."
+    },
+    {
+     "anchor": "bartenura:5:10:4",
+     "relation": "follows",
+     "summary": "Bartenura: he gives people benefit from his property and takes no benefit from others."
+    },
+    {
+     "anchor": "bartenura:5:10:5",
+     "relation": "follows",
+     "summary": "Bartenura: a pious person acts beyond the line of the law (לִפְנִים מִשּׁוּרַת הַדִּין)."
+    },
+    {
+     "anchor": "rambam:5:10:1",
+     "relation": "follows",
+     "summary": "Rambam: the pious person is one who leans a little to one extreme, doing more good than needed; the wicked is one with a base soul who wants his money and the other's money as well, out of great desire."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:10:1",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: asks how the first disposition can be called middling when one who refuses to give charity is wholly wicked; answers that the first opinion deals with one who gives from fear of God but is miserly by nature, and the dissenting view takes him as the disposition of Sodom. Kept as the two readings of the first case."
+    }
+   ],
+   "apparatus": [
+    "Ezek 16:49 ('and the hand of the poor and needy she did not strengthen') is cited by Rabbeinu Yonah for Sodom; Prov 15:27 by Bartenura for the unlearned person.",
+    "Vilna variants for this mishnah are not marked in the pack."
+   ]
+  },
+  {
+   "ref": "5:11",
+   "english": "There are four dispositions in temperaments. Easy to anger and easy to appease: his gain is outweighed by his loss. Hard to anger and hard to appease: his loss is outweighed by his gain. Hard to anger and easy to appease: a pious person. Easy to anger and hard to appease: a wicked person.",
+   "literal": "four dispositions in-the-temperaments. easy to-be-angry and-easy to-be-appeased, went-out his-reward in-his-loss. hard to-be-angry and-hard to-be-appeased, went-out his-loss in-his-reward. hard to-be-angry and-easy to-be-appeased, pious. easy to-be-angry and-hard to-be-appeased, wicked.",
+   "tokens": [
+    {
+     "id": "5:11.1",
+     "gloss": "four",
+     "lex": "jastrow:אַרְבַּע"
+    },
+    {
+     "id": "5:11.2",
+     "gloss": "dispositions",
+     "lex": "jastrow:מִדָּה"
+    },
+    {
+     "id": "5:11.3",
+     "gloss": "in temperaments",
+     "lex": "jastrow:דֵּעָה",
+     "note": "בַּדֵּעוֹת: plural of דֵּעָה, 'minds, opinions, temperaments'; here the dispositions of a person's temper (Rambam on anger). None of the listed senses of the entry is 'temperament', so no sense is given"
+    },
+    {
+     "id": "5:11.4",
+     "gloss": "easy",
+     "lex": "jastrow:נוֹחַ II",
+     "sense": "3",
+     "note": "נוֹחַ: 'easy, pliable, at ease'"
+    },
+    {
+     "id": "5:11.5",
+     "gloss": "to anger",
+     "lex": "jastrow:כָּעַס",
+     "sense": "2",
+     "note": "Qal infinitive with לְ"
+    },
+    {
+     "id": "5:11.6",
+     "gloss": "and easy",
+     "lex": "jastrow:נוֹחַ II",
+     "sense": "3"
+    },
+    {
+     "id": "5:11.7",
+     "gloss": "to be appeased",
+     "sense": "1.1.1",
+     "note": "רָצָה: 'to be pleased, be reconciled'; 'to be appeased' as an infinitive with the sense of 'be pacified'"
+    },
+    {
+     "id": "5:11.8",
+     "gloss": "went out",
+     "sense": "1.1.1",
+     "note": "יָצָא: here an accounting idiom, 'comes out, is set off'"
+    },
+    {
+     "id": "5:11.9",
+     "gloss": "his gain",
+     "lex": "jastrow:שָׂכָר",
+     "sense": "1",
+     "note": "שְׂכָרוֹ: 'his reward, wages'"
+    },
+    {
+     "id": "5:11.10",
+     "gloss": "by his loss",
+     "sense": "1",
+     "note": "בְהֶפְסֵדוֹ: 'in his loss'"
+    },
+    {
+     "id": "5:11.11",
+     "gloss": "hard",
+     "sense": "1.1",
+     "note": "קָשֶׁה: 'hard, difficult'"
+    },
+    {
+     "id": "5:11.12",
+     "gloss": "to anger",
+     "lex": "jastrow:כָּעַס",
+     "sense": "2"
+    },
+    {
+     "id": "5:11.13",
+     "gloss": "and hard",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:11.14",
+     "gloss": "to be appeased",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "5:11.15",
+     "gloss": "went out",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "5:11.16",
+     "gloss": "his loss",
+     "sense": "1"
+    },
+    {
+     "id": "5:11.17",
+     "gloss": "by his gain",
+     "lex": "jastrow:שָׂכָר",
+     "sense": "1"
+    },
+    {
+     "id": "5:11.18",
+     "gloss": "hard",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:11.19",
+     "gloss": "to anger",
+     "lex": "jastrow:כָּעַס",
+     "sense": "2"
+    },
+    {
+     "id": "5:11.20",
+     "gloss": "and easy",
+     "lex": "jastrow:נוֹחַ II",
+     "sense": "3"
+    },
+    {
+     "id": "5:11.21",
+     "gloss": "to be appeased",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "5:11.22",
+     "gloss": "pious person",
+     "sense": "1.2"
+    },
+    {
+     "id": "5:11.23",
+     "gloss": "easy",
+     "lex": "jastrow:נוֹחַ II",
+     "sense": "3"
+    },
+    {
+     "id": "5:11.24",
+     "gloss": "to anger",
+     "lex": "jastrow:כָּעַס",
+     "sense": "2"
+    },
+    {
+     "id": "5:11.25",
+     "gloss": "and hard",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:11.26",
+     "gloss": "to be appeased",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "5:11.27",
+     "gloss": "wicked person",
+     "sense": "1.3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:11.1",
+      "5:11.2"
+     ],
+     "english": "There are four dispositions",
+     "literal": "'four dispositions'"
+    },
+    {
+     "tokens": [
+      "5:11.3"
+     ],
+     "english": "in temperaments",
+     "literal": "'in the temperaments'"
+    },
+    {
+     "tokens": [
+      "5:11.4",
+      "5:11.5"
+     ],
+     "english": "Easy to anger",
+     "literal": "'easy to be angry'"
+    },
+    {
+     "tokens": [
+      "5:11.6",
+      "5:11.7"
+     ],
+     "english": "and easy to appease",
+     "literal": "'and easy to be appeased'"
+    },
+    {
+     "tokens": [
+      "5:11.8",
+      "5:11.9",
+      "5:11.10"
+     ],
+     "english": "his gain is outweighed by his loss",
+     "literal": "'went out his reward in his loss'; the idiom of two amounts set against each other; Bartenura: the loss is greater"
+    },
+    {
+     "tokens": [
+      "5:11.11",
+      "5:11.12"
+     ],
+     "english": "Hard to anger",
+     "literal": "'hard to be angry'"
+    },
+    {
+     "tokens": [
+      "5:11.13",
+      "5:11.14"
+     ],
+     "english": "and hard to appease",
+     "literal": "'and hard to be appeased'"
+    },
+    {
+     "tokens": [
+      "5:11.15",
+      "5:11.16",
+      "5:11.17"
+     ],
+     "english": "his loss is outweighed by his gain",
+     "literal": "'went out his loss in his reward'"
+    },
+    {
+     "tokens": [
+      "5:11.18",
+      "5:11.19"
+     ],
+     "english": "Hard to anger",
+     "literal": "'hard to be angry'"
+    },
+    {
+     "tokens": [
+      "5:11.20",
+      "5:11.21"
+     ],
+     "english": "and easy to appease",
+     "literal": "'and easy to be appeased'"
+    },
+    {
+     "tokens": [
+      "5:11.22"
+     ],
+     "english": "a pious person",
+     "literal": "'pious'"
+    },
+    {
+     "tokens": [
+      "5:11.23",
+      "5:11.24"
+     ],
+     "english": "Easy to anger",
+     "literal": "'easy to be angry'"
+    },
+    {
+     "tokens": [
+      "5:11.25",
+      "5:11.26"
+     ],
+     "english": "and hard to appease",
+     "literal": "'and hard to be appeased'"
+    },
+    {
+     "tokens": [
+      "5:11.27"
+     ],
+     "english": "a wicked person",
+     "literal": "'wicked'"
+    }
+   ],
+   "grammar": [
+    "The adjectives נוֹחַ 'easy' and קָשֶׁה 'hard' take the infinitive with לְ: נוֹחַ לִכְעֹס 'easy to be angry'. The two infinitives are of Qal כעס and רצה.",
+    "יָצָא שְׂכָרוֹ בְהֶפְסֵדוֹ is an accounting idiom: the reward 'goes out' (is set off) against the loss. Bartenura reads it so that in the first case the loss is greater, and in the second the gain is greater.",
+    "The four dispositions are four combinations of two pairs: quick or slow to anger, quick or slow to be appeased. The 'mixed' cases get an evaluation (gain/loss); the other two get titles (pious, wicked).",
+    "The titles חָסִיד and רָשָׁע are in the same position as in 5:10; they are predicate nouns with no verb."
+   ],
+   "note": "יָצָא שְׂכָרוֹ בְהֶפְסֵדוֹ is rendered 'his gain is outweighed by his loss', following Bartenura's reading of which side is larger: in the first case the loss, in the second the gain. Bartenura notes that some read the opposite order (וְאִית דְּגַרְסֵי אִפְּכָא) and states that he prefers his reading; the English follows him. 'Temperaments' for דֵּעוֹת is chosen from the context: Rambam speaks of the quality of anger. The bdbs entries for דֵּעָה ('knowledge (of God)'), נוֹחַ (Jastrow's noun 'rest'), כַּעַס (the noun 'anger') and שָׂכָר (the name Sacar) are replaced by Jastrow's דֵּעָה, נוֹחַ II 'easy', the verb כָּעַס and שָׂכָר 'wages, reward'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:11:1",
+     "relation": "follows",
+     "summary": "Bartenura: one who is angry quickly at everything, even if he is appeased quickly, has a loss greater than his gain, since most of his deeds are spoiled; one hard to anger, even though hard to appease, has his small loss outweighed by his large gain, and most of his deeds are sound. Some read the reverse; this reading seems to him primary. The English follows this order."
+    },
+    {
+     "anchor": "rambam:5:11:1",
+     "relation": "follows",
+     "summary": "Rambam: note that he called the patient one, whose patience is so great that he almost does not feel anger, a ḥasid, and one who has the defect of anger a wicked person. This agrees with the titles at the end of the English."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:11:1",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: the loss is greater than the gain because while he is appeased quickly, anger rests in his heart and he is quick to anger and sins in the moment; no one can mend what was damaged in anger. This supports Bartenura's reading."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads לכעוס for לִכְעֹס at 5:11.5, 5:11.12, 5:11.19 and 5:11.24 (spelling only).",
+    "Bartenura notes a variant reading of the second sentence in which the gain and loss are reversed (וְאִית דְּגַרְסֵי אִפְּכָא); the English follows his primary reading."
+   ]
+  },
+  {
+   "ref": "5:12",
+   "english": "There are four dispositions in disciples. Quick to hear and quick to forget: his gain is outweighed by his loss. Hard to hear and hard to forget: his loss is outweighed by his gain. Quick to hear and hard to forget: a wise person. Hard to hear and quick to forget: this is a bad lot.",
+   "literal": "four dispositions in-the-disciples. quick to-hear and-quick to-lose, went-out his-reward in-his-loss. hard to-hear and-hard to-lose, went-out his-loss in-his-reward. quick to-hear and-hard to-lose, wise. hard to-hear and-quick to-lose, this portion evil.",
+   "tokens": [
+    {
+     "id": "5:12.1",
+     "gloss": "four",
+     "lex": "jastrow:אַרְבַּע"
+    },
+    {
+     "id": "5:12.2",
+     "gloss": "dispositions",
+     "lex": "jastrow:מִדָּה"
+    },
+    {
+     "id": "5:12.3",
+     "gloss": "in disciples",
+     "sense": "1",
+     "note": "תַּלְמִידִים: students of the Torah"
+    },
+    {
+     "id": "5:12.4",
+     "gloss": "quick",
+     "sense": "1",
+     "note": "מַהֵר: 'quick, speedy'"
+    },
+    {
+     "id": "5:12.5",
+     "gloss": "to hear",
+     "sense": "2.1.1",
+     "note": "Qal infinitive with לְ; here 'to take in what is taught'"
+    },
+    {
+     "id": "5:12.6",
+     "gloss": "and quick",
+     "sense": "1"
+    },
+    {
+     "id": "5:12.7",
+     "gloss": "to forget",
+     "lex": "jastrow:אָבַד",
+     "sense": "5.2",
+     "note": "לְאַבֵּד: Piel infinitive, 'to lose'; in Mishnaic Hebrew 'to drop from memory' (Jastrow, Aboth V 12)"
+    },
+    {
+     "id": "5:12.8",
+     "gloss": "went out",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "5:12.9",
+     "gloss": "his gain",
+     "lex": "jastrow:שָׂכָר",
+     "sense": "1"
+    },
+    {
+     "id": "5:12.10",
+     "gloss": "by his loss",
+     "sense": "1"
+    },
+    {
+     "id": "5:12.11",
+     "gloss": "hard",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:12.12",
+     "gloss": "to hear",
+     "sense": "2.1.1"
+    },
+    {
+     "id": "5:12.13",
+     "gloss": "and hard",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:12.14",
+     "gloss": "to forget",
+     "lex": "jastrow:אָבַד",
+     "sense": "5.2"
+    },
+    {
+     "id": "5:12.15",
+     "gloss": "went out",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "5:12.16",
+     "gloss": "his loss",
+     "sense": "1"
+    },
+    {
+     "id": "5:12.17",
+     "gloss": "by his gain",
+     "lex": "jastrow:שָׂכָר",
+     "sense": "1"
+    },
+    {
+     "id": "5:12.18",
+     "gloss": "quick",
+     "sense": "1"
+    },
+    {
+     "id": "5:12.19",
+     "gloss": "to hear",
+     "sense": "2.1.1"
+    },
+    {
+     "id": "5:12.20",
+     "gloss": "and hard",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:12.21",
+     "gloss": "to forget",
+     "lex": "jastrow:אָבַד",
+     "sense": "5.2"
+    },
+    {
+     "id": "5:12.22",
+     "gloss": "wise person",
+     "lex": "jastrow:חָכָם",
+     "sense": "3",
+     "note": "חָכָם: here a predicate noun, 'a wise one'"
+    },
+    {
+     "id": "5:12.23",
+     "gloss": "hard",
+     "sense": "1.1"
+    },
+    {
+     "id": "5:12.24",
+     "gloss": "to hear",
+     "sense": "2.1.1"
+    },
+    {
+     "id": "5:12.25",
+     "gloss": "and quick",
+     "sense": "1"
+    },
+    {
+     "id": "5:12.26",
+     "gloss": "to forget",
+     "lex": "jastrow:אָבַד",
+     "sense": "5.2"
+    },
+    {
+     "id": "5:12.27",
+     "gloss": "this",
+     "lex": "jastrow:זֶה",
+     "sense": "1",
+     "note": "זֶה, masculine demonstrative, agreeing with חֵלֶק"
+    },
+    {
+     "id": "5:12.28",
+     "gloss": "portion",
+     "lex": "jastrow:חֵלֶק",
+     "sense": "1",
+     "note": "חֵלֶק: 'portion, lot'"
+    },
+    {
+     "id": "5:12.29",
+     "gloss": "bad",
+     "sense": "2.2",
+     "note": "רָע: 'bad, evil'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:12.1",
+      "5:12.2"
+     ],
+     "english": "There are four dispositions",
+     "literal": "'four dispositions'"
+    },
+    {
+     "tokens": [
+      "5:12.3"
+     ],
+     "english": "in disciples",
+     "literal": "'in the disciples'"
+    },
+    {
+     "tokens": [
+      "5:12.4",
+      "5:12.5"
+     ],
+     "english": "Quick to hear",
+     "literal": "'quick to hear'"
+    },
+    {
+     "tokens": [
+      "5:12.6",
+      "5:12.7"
+     ],
+     "english": "and quick to forget",
+     "literal": "'and quick to lose'"
+    },
+    {
+     "tokens": [
+      "5:12.8",
+      "5:12.9",
+      "5:12.10"
+     ],
+     "english": "his gain is outweighed by his loss",
+     "literal": "'went out his reward in his loss'"
+    },
+    {
+     "tokens": [
+      "5:12.11",
+      "5:12.12"
+     ],
+     "english": "Hard to hear",
+     "literal": "'hard to hear'"
+    },
+    {
+     "tokens": [
+      "5:12.13",
+      "5:12.14"
+     ],
+     "english": "and hard to forget",
+     "literal": "'and hard to lose'"
+    },
+    {
+     "tokens": [
+      "5:12.15",
+      "5:12.16",
+      "5:12.17"
+     ],
+     "english": "his loss is outweighed by his gain",
+     "literal": "'went out his loss in his reward'"
+    },
+    {
+     "tokens": [
+      "5:12.18",
+      "5:12.19"
+     ],
+     "english": "Quick to hear",
+     "literal": "'quick to hear'"
+    },
+    {
+     "tokens": [
+      "5:12.20",
+      "5:12.21"
+     ],
+     "english": "and hard to forget",
+     "literal": "'and hard to lose'"
+    },
+    {
+     "tokens": [
+      "5:12.22"
+     ],
+     "english": "a wise person",
+     "literal": "'wise'"
+    },
+    {
+     "tokens": [
+      "5:12.23",
+      "5:12.24"
+     ],
+     "english": "Hard to hear",
+     "literal": "'hard to hear'"
+    },
+    {
+     "tokens": [
+      "5:12.25",
+      "5:12.26"
+     ],
+     "english": "and quick to forget",
+     "literal": "'and quick to lose'"
+    },
+    {
+     "tokens": [
+      "5:12.27"
+     ],
+     "english": "this",
+     "literal": "'this'"
+    },
+    {
+     "tokens": [
+      "5:12.28",
+      "5:12.29"
+     ],
+     "english": "is a bad lot",
+     "literal": "'portion evil'"
+    }
+   ],
+   "grammar": [
+    "The adjectives מַהֵר ('quick') and קָשֶׁה ('hard') take the infinitive with לְ, as in 5:11. The infinitive לְאַבֵּד is Piel of אבד ('make lost'), used for losing what one has learned.",
+    "The wording of the first two cases (יָצָא שְׂכָרוֹ בְהֶפְסֵדוֹ ...) repeats 5:11, as does the pattern of four combinations.",
+    "The last two cases do not give a character label but one a skill word (חָכָם) and one a lot in life (חֵלֶק רָע), because, as Bartenura and Rambam say, these are not matters of choice.",
+    "The demonstrative זֶה is the subject of the last clause, with חֵלֶק רָע as predicate: 'this is a bad lot'."
+   ],
+   "note": "לְאַבֵּד is rendered 'to forget' (literally 'to lose'), which is the Mishnaic sense of letting something go from memory. חֵלֶק רָע is 'a bad lot' (literally 'an evil portion'): Bartenura and Rambam both say the fault is not within a person's choice. The words חָסִיד and רָשָׁע are not used here for that reason. חָכָם here is 'a wise person', not the compound 'disciple of the sages'; Rambam names it an intellectual virtue. The bdbs entries for חֵלֶק (the name Helek), זֶה ('lamb') and שָׂכָר (the name Sacar) are wrong homographs; Jastrow's entries are used.",
+   "commentary": [
+    {
+     "anchor": "bartenura:5:12:1",
+     "relation": "follows",
+     "summary": "Bartenura: since he forgets what he learns, what benefit is there in his being quick to hear? His loss is greater than his gain."
+    },
+    {
+     "anchor": "bartenura:5:12:2",
+     "relation": "follows",
+     "summary": "Bartenura: the good quality in him exceeds the spoiled one, since what he hears after difficulty he remembers and does not forget. Practical result: if we have two students and can supply food for only one, we put first the one who is hard to forget before the one quick to hear."
+    },
+    {
+     "anchor": "bartenura:5:12:3",
+     "relation": "follows",
+     "summary": "Bartenura: it was not fitting to say 'pious' or 'wicked' here, since this does not depend on a person's choice, but is a deficiency in him from the very beginning of his creation. The English 'a bad lot' follows."
+    },
+    {
+     "anchor": "rambam:5:12:1",
+     "relation": "follows",
+     "summary": "Rambam: note how he did not call the one with good memory 'pious' since it is an intellectual virtue, and called him wise; nor did he call the one slow to understand and prone to forget 'wicked', since this is not in his hands and not among the virtues one can acquire."
+    },
+    {
+     "anchor": "rabbeinu-yonah:5:12:2",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: the gain is greater since what comes to him with great effort he does not forget; both should keep to learning Torah, for they have good reward in their toil; and from this we learn to put the one with good memory ahead of the forgetful where there is food for one only."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads לשמוע for לִשְׁמֹעַ at 5:12.5, 5:12.12, 5:12.19 and 5:12.24 (spelling only)."
+   ]
+  }
+ ]
+}

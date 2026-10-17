@@ -1,0 +1,309 @@
+{
+ "unit": "lekh-lekha-03",
+ "model": "opus",
+ "summary": "A sound translation of Genesis 12:17–13:4. The English is faithful throughout, and most senses are right. The main faults: in 12:20 the English says 'sent him off', where Rashi and Ibn Ezra agree on an escort; the ruling on Rashi's עַל דְּבַר wrongly says he agrees with the English; one sense is wrong (גְּדֹלִים as 'greatness'); and several learner notes are false: accents called dividers or conjunctive when they are not, the nun of הִגַּדְתָּ said to be 'kept', and לִי called an ethical dative.",
+ "patches": [
+  {
+   "ref": "12:17",
+   "path": "token:12:17.6.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 10 of גָּדוֹל is 'greatness' (the noun use). Here גְּדֹלִים is an attributive adjective, 'great' plagues. None of the senses the pack lists for the entry (4 loud, 9 do great things, 10 greatness) fits, so the sense is removed."
+  },
+  {
+   "ref": "12:17",
+   "path": "token:12:17.6.note",
+   "value": "attributive adjective, masculine plural, agreeing with נְגָעִים; the pack's entry lists no sense for plain 'great' in size or degree, so no sense is given",
+   "severity": "error",
+   "reason": "The note says why the sense is left out, as the brief requires."
+  },
+  {
+   "ref": "12:17",
+   "path": "grammar",
+   "value": [
+    "וַיְנַגַּע is a Piel wayyiqtol with a cognate accusative, נְגָעִים גְּדֹלִים: the verb and its object come from one root.",
+    "The darga on יְהוָה is a conjunctive accent; the vertical stroke after it is a paseq, a slight pause that keeps the divine name apart from the object marker. The tevir on פַּרְעֹה is a minor disjunctive, and the etnaḥta on בֵּיתוֹ closes the first half: both objects, Pharaoh and his household, stand in that half, and the reason clause follows.",
+    "עַל־דְּבַר is a compound preposition, 'on account of', with the construct chain אֵשֶׁת אַבְרָם closing the verse."
+   ],
+   "severity": "error",
+   "reason": "The second note called the darga a divider. Darga is conjunctive; the pause after יְהוָה is the paseq. The note also needs to say that the etnaḥta puts the household in the first half with Pharaoh."
+  },
+  {
+   "ref": "12:17",
+   "path": "note",
+   "value": "Rashi's gloss (the plague of 'raathan', a disease that made intercourse painful) is a midrashic reading and does not change the plain wording, so the English says only 'plagues'. The Hebrew does not say whether 'great' applies to the household too; Sforno reads lesser plagues on the household, and the English 'and his household too' leaves the question open. On עַל־דְּבַר the English follows Ibn Ezra ('because of'); Rashi's 'at her word' is recorded.",
+   "severity": "error",
+   "reason": "The old note said the accents set the household in a clause of its own. They do not: the etnaḥta after בֵּיתוֹ puts the household in the first half, with Pharaoh, as a second object of the verb."
+  },
+  {
+   "ref": "12:17",
+   "path": "commentary:rashi:12:17:3.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "The English 'his household' is the plain sense Rashi gives, Onkelos' אֱנַשׁ בֵּיתֵהּ, 'the people of his house'. The English adopts it; only the midrash (walls, pillars, vessels) is not adopted."
+  },
+  {
+   "ref": "12:17",
+   "path": "commentary:rashi:12:17:4",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi reads עַל דְּבַר as עַל פִּי דִּבּוּרָהּ, 'by her word': she would say to the angel 'strike', and he struck. The English follows Ibn Ezra's 'on account of' (בעבור) and keeps Rashi's reading here."
+   },
+   "severity": "error",
+   "reason": "Rashi's reading is not 'because of' but 'at Sarai's word': דבר is her speech. Rashi and Ibn Ezra differ here, and the English takes Ibn Ezra's sense. The relation is records, and the summary should not claim the two agree."
+  },
+  {
+   "ref": "12:18",
+   "path": "token:12:18.9.note",
+   "value": "לָמָּה, 'why', is לְ + מָה, 'for what?'; it carries yetiv, a disjunctive accent",
+   "severity": "error",
+   "reason": "Yetiv is a disjunctive accent (the pack marks it so), not a conjunctive one."
+  },
+  {
+   "ref": "12:18",
+   "path": "token:12:18.9.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "The token's lemma is מָה, whose entry lists sense 1 'what?'. The same word in 12:19.1 and 12:18.5 has sense 1."
+  },
+  {
+   "ref": "12:18",
+   "path": "grammar",
+   "value": [
+    "הִגַּדְתָּ is a Hiphil qatal of נגד. The first nun of the root assimilates to the gimel, which therefore takes a dagesh (*hingadta > higgadta); Ibn Ezra lists the verb among those with a first-radical nun (בעלי הנוני\"ן).",
+    "מַה־זֹּאת עָשִׂיתָ לִּי is a rhetorical reproach, 'what have you done to me?'.",
+    "כִּי here introduces the content of what should have been told: 'that she is your wife'.",
+    "The verse has two questions; the etnaḥta falls after לִּי, dividing them."
+   ],
+   "severity": "error",
+   "reason": "The first note said the nun is 'kept here'. It is not: in הִגַּדְתָּ the nun has assimilated, and the dagesh in the gimel shows it."
+  },
+  {
+   "ref": "12:19",
+   "path": "token:12:19.7.note",
+   "value": "'for myself': לָקַח ... לוֹ לְאִשָּׁה is the usual idiom for taking a wife, a dative of advantage, not an ethical dative",
+   "severity": "error",
+   "reason": "With לָקַח and לְאִשָּׁה, the לִי is the regular dative of the idiom 'take for oneself as wife'. It is not an ethical dative."
+  },
+  {
+   "ref": "12:19",
+   "path": "grammar",
+   "value": [
+    "וָאֶקַּח is a wayyiqtol in first person: the narrative sequence turns into result, 'so that I took'.",
+    "הִנֵּה אִשְׁתְּךָ קַח וָלֵךְ: two abrupt imperatives; Rashi sees in them an order to leave without delay, unlike Abimelech's offer in chapter 20.",
+    "The vav of וָלֵךְ takes a qamets before the stressed one-syllable word at the pause (silluq). Ibn Ezra relates it to the accent and compares לֶחֶם וָיָיִן (14:18).",
+    "לִי and לְאִשָּׁה together mean 'for myself as a wife'."
+   ],
+   "severity": "error",
+   "reason": "The third note said Ibn Ezra explains the qamets by 'the accent's rank'. His comment says nothing about rank. The usual rule is that the vav takes qamets before a stressed syllable, often at a pause, as here with לֵךְ under silluq."
+  },
+  {
+   "ref": "12:19",
+   "path": "commentary:ibn-ezra:12:19:2.relation",
+   "value": "not-applicable",
+   "severity": "style",
+   "reason": "As the translator's own summary says, this is a point of vocalization only. It does not bear on the English, so 'follows' does not fit."
+  },
+  {
+   "ref": "12:20",
+   "path": "english",
+   "value": "Pharaoh gave men orders concerning him, and they escorted him on his way, together with his wife and all that was his.",
+   "severity": "error",
+   "reason": "Rashi (וישלחו as Onkelos' וְאַלְוִיאוּ, 'they escorted') and Ibn Ezra (דרך ליווי בכבוד, an escort with honour, as in 18:16) agree that the Piel here means to escort a departing man. 'Sent him off' in English reads as a dismissal, so the English should say 'escorted'."
+  },
+  {
+   "ref": "12:20",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "12:20.1",
+      "12:20.2",
+      "12:20.3",
+      "12:20.4"
+     ],
+     "english": "Pharaoh gave men orders concerning him",
+     "literal": "'and-commanded concerning-him Pharaoh men'"
+    },
+    {
+     "tokens": [
+      "12:20.5",
+      "12:20.6"
+     ],
+     "english": "and they escorted him on his way",
+     "literal": "'and-they-sent [obj]-him'; the Piel of שׁלח, 'send off', here an escort, with Rashi (Onkelos וְאַלְוִיאוּ) and Ibn Ezra"
+    },
+    {
+     "tokens": [
+      "12:20.7",
+      "12:20.8"
+     ],
+     "english": "together with his wife",
+     "literal": "'and-[obj] wife-his'"
+    },
+    {
+     "tokens": [
+      "12:20.9",
+      "12:20.10",
+      "12:20.11",
+      "12:20.12"
+     ],
+     "english": "and all that was his",
+     "literal": "'and-[obj] all that to-him'; possession by לוֹ"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changes the phrase for 12:20.5–6."
+  },
+  {
+   "ref": "12:20",
+   "path": "token:12:20.5.gloss",
+   "value": "and they escorted (sent off)",
+   "severity": "error",
+   "reason": "The gloss follows the new English. Rashi and Ibn Ezra both read an escort."
+  },
+  {
+   "ref": "12:20",
+   "path": "token:12:20.1.note",
+   "value": "wayyiqtol, Piel of צוה, a lamed-he root: the short (apocopated) form, וַיְצַו for *וַיְצַוֶּה",
+   "severity": "style",
+   "reason": "A learner needs the weak root and the short form explained."
+  },
+  {
+   "ref": "12:20",
+   "path": "grammar",
+   "value": [
+    "וַיְצַו is a Piel wayyiqtol; with עַל and a person it means to give orders about someone.",
+    "The plural וַיְשַׁלְּחוּ has no stated subject beyond אֲנָשִׁים: 'the men escorted him'.",
+    "The three objects, אֹתוֹ, אִשְׁתּוֹ and כָּל־אֲשֶׁר־לוֹ, each take אֶת, listing Abram, his wife and his goods.",
+    "Ibn Ezra reads וישלחו as an honourable escort, as in 18:16."
+   ],
+   "severity": "error",
+   "reason": "The second note said 'sent them off', but the object of the verb is אֹתוֹ, 'him'. It now matches the new English."
+  },
+  {
+   "ref": "13:1",
+   "path": "grammar",
+   "value": [
+    "וַיַּעַל is a Qal wayyiqtol of עלה; the verb 'go up' is used here of leaving Egypt for the land, which lies north.",
+    "The independent הוּא followed by two more items lists those who went up with Abram.",
+    "הַנֶּגְבָּה has the article and the directional ה: 'to the Negeb'.",
+    "The telisha gedola on הוּא is a disjunctive accent that sets the pronoun off from the list after it. The darga on אִשְׁתּוֹ is conjunctive. The tevir on לוֹ and the tipḥa on עִמּוֹ divide the rest of the verse."
+   ],
+   "severity": "error",
+   "reason": "The fourth note said the darga on אִשְׁתּוֹ divides the list. Darga is a conjunctive accent."
+  },
+  {
+   "ref": "13:2",
+   "path": "commentary:ibn-ezra:13:2:1.summary",
+   "value": "Ibn Ezra: he had much baggage (כְּבוּדָה רַבָּה), and one who has it moves heavily. כָּבוֹד ('honour') comes from כֹּבֶד, the weight of a stone (Proverbs 27:3), as קָלוֹן ('disgrace') comes from קַל, 'light of foot' (2 Samuel 2:18). He had much livestock, and much silver and gold besides.",
+   "severity": "style",
+   "reason": "Ibn Ezra derives the noun כָּבוֹד from 'weight' and sets קָלוֹן beside it from קַל. The old summary gave only 'כבד is from the root'."
+  },
+  {
+   "ref": "13:4",
+   "path": "commentary:rashi:13:4:1.summary",
+   "value": "Rashi reads the relative clause as going on into the next words: the place 'which he had made there at first, and where Abram had called on the name of the LORD'. He also allows the plain sequence: 'and he called there now on the name of the LORD'. The English takes this second reading.",
+   "severity": "style",
+   "reason": "Rashi's first reading takes וַיִּקְרָא as part of the earlier events. His second, 'now', is the one the English takes. The summary should keep the two apart."
+  },
+  {
+   "ref": "13:4",
+   "path": "note",
+   "value": "קָרָא בְּשֵׁם is 'call on the name', as in 12:8. Rashi first reads the calling as part of the earlier events ('and where Abram had called'), then allows a fresh calling now. The English takes the fresh calling, as Radak does ('a second time').",
+   "severity": "style",
+   "reason": "The old note ran Rashi's two readings together."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:12:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:17:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:12:17:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:17:4",
+   "verdict": "contradicts",
+   "comment": "Rashi reads 'at Sarai's word'. The English 'on account of Sarai' follows Ibn Ezra's plain sense (בעבור). The two commentators differ, so the English may choose, and Rashi's reading is recorded (patched to records)."
+  },
+  {
+   "anchor": "ibn-ezra:12:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:18:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:19:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:19:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:19:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:12:20:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:20:2",
+   "verdict": "consistent",
+   "comment": "once the English says 'escorted' (patched)"
+  },
+  {
+   "anchor": "ibn-ezra:12:20:1",
+   "verdict": "consistent",
+   "comment": "once the English says 'escorted' (patched)"
+  },
+  {
+   "anchor": "ibn-ezra:12:20:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:1:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:13:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:3:1",
+   "verdict": "consistent",
+   "comment": "recorded as an alternative"
+  },
+  {
+   "anchor": "rashi:13:3:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:13:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:13:4:1",
+   "verdict": "consistent",
+   "comment": "the English takes Rashi's second reading"
+  }
+ ]
+}

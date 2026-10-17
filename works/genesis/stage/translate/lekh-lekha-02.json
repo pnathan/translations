@@ -1,0 +1,1082 @@
+{
+ "unit": "lekh-lekha-02",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "12:9",
+   "english": "Abram set out, going on from stage to stage toward the Negeb.",
+   "literal": "and-set-out Abram going and-setting-out the-Negeb-ward",
+   "tokens": [
+    {
+     "id": "12:9.1",
+     "gloss": "and set out",
+     "sense": "Qal 2.a",
+     "note": "wayyiqtol; the verb is used of pulling up tent pegs and breaking camp"
+    },
+    {
+     "id": "12:9.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "12:9.3",
+     "gloss": "going",
+     "sense": "Qal II.2",
+     "note": "infinitive absolute of הלך; with the next word it gives continuing action"
+    },
+    {
+     "id": "12:9.4",
+     "gloss": "and journeying on",
+     "sense": "Qal 3",
+     "note": "infinitive absolute joined to the preceding one"
+    },
+    {
+     "id": "12:9.5",
+     "gloss": "toward the Negeb",
+     "note": "הַ + נֶגֶב + directional ה; the Negeb is also the word for 'south'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:9.1",
+      "12:9.2"
+     ],
+     "english": "Abram set out",
+     "literal": "'and-set-out Abram'; wayyiqtol opens the narrative"
+    },
+    {
+     "tokens": [
+      "12:9.3",
+      "12:9.4"
+     ],
+     "english": "going on from stage to stage",
+     "literal": "'going and-journeying'; the paired infinitives express a progressive journey in stages (Rashi: a month or more at each place)"
+    },
+    {
+     "tokens": [
+      "12:9.5"
+     ],
+     "english": "toward the Negeb",
+     "literal": "'the-Negeb-ward'; directional he; also 'southward' (Ibn Ezra)"
+    }
+   ],
+   "grammar": [
+    "וַיִּסַּע is a wayyiqtol; the munaḥ joins it to אַבְרָם before the zaqef.",
+    "הָלוֹךְ וְנָסוֹעַ: two infinitives absolute in a row, here describing continued action (going and setting out), not commands.",
+    "The ending ־ָה on הַנֶּגְבָּה is the directional he, 'toward'; the word means both the region Negeb and 'south'.",
+    "The paragraph break (פ) after the verse closes the section."
+   ],
+   "note": "The pair of infinitive absolutes is rendered 'going on from stage to stage' with Rashi and Radak ('from place to place'), who take it as repeated moves. The Negeb is kept as a place name while Ibn Ezra's 'south' is recorded.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:9:1",
+     "relation": "follows",
+     "summary": "Rashi: he stayed in each place a month or more, then pulled up and pitched his tent elsewhere, and all his journeys were toward the south (the Negeb) of the Land of Israel. The English follows the staged journey southward; the midrash on Judah's portion is not used."
+    },
+    {
+     "anchor": "ibn-ezra:12:9:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הנגבה is the southern side, and the name is explained from Aramaic 'dry', since the south is hot and dry (cf. Josh 15:19). The English renders it as the Negeb, the southern region."
+    }
+   ],
+   "apparatus": [
+    "Radak and Sforno read the pair as travelling from place to place like shepherds; Onkelos has 'went and set out to the south'."
+   ]
+  },
+  {
+   "ref": "12:10",
+   "english": "Now there was a famine in the land, and Abram went down to Egypt to sojourn there, for the famine in the land was severe.",
+   "literal": "and-was famine in-the-land and-went-down Abram Egypt-ward to-sojourn there for heavy the-famine in-the-land",
+   "tokens": [
+    {
+     "id": "12:10.1",
+     "gloss": "and there was",
+     "sense": "Qal I.2.a.(1)"
+    },
+    {
+     "id": "12:10.2",
+     "gloss": "famine"
+    },
+    {
+     "id": "12:10.3",
+     "gloss": "in the land",
+     "sense": "2",
+     "note": "בָּ + אָרֶץ; Ibn Ezra: the land of Canaan"
+    },
+    {
+     "id": "12:10.4",
+     "gloss": "and went down",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol; 'go down' is the usual verb for going to Egypt"
+    },
+    {
+     "id": "12:10.5",
+     "gloss": "Abram"
+    },
+    {
+     "id": "12:10.6",
+     "gloss": "to Egypt",
+     "note": "directional he"
+    },
+    {
+     "id": "12:10.7",
+     "gloss": "to sojourn",
+     "sense": "Qal 1",
+     "note": "לָ + infinitive construct; גּוּר is residing as a resident alien, not settling"
+    },
+    {
+     "id": "12:10.8",
+     "gloss": "there"
+    },
+    {
+     "id": "12:10.9",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "12:10.10",
+     "gloss": "severe",
+     "note": "the adjective means 'heavy'"
+    },
+    {
+     "id": "12:10.11",
+     "gloss": "the famine"
+    },
+    {
+     "id": "12:10.12",
+     "gloss": "in the land",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:10.1",
+      "12:10.2",
+      "12:10.3"
+     ],
+     "english": "there was a famine in the land",
+     "literal": "'and-was famine in-the-land'; the etnaḥta ends the clause"
+    },
+    {
+     "tokens": [
+      "12:10.4",
+      "12:10.5",
+      "12:10.6"
+     ],
+     "english": "and Abram went down to Egypt",
+     "literal": "'and-went-down Abram Egypt-ward'; directional he"
+    },
+    {
+     "tokens": [
+      "12:10.7",
+      "12:10.8"
+     ],
+     "english": "to sojourn there",
+     "literal": "'to-sojourn there'; temporary residence (Radak, Sforno)"
+    },
+    {
+     "tokens": [
+      "12:10.9",
+      "12:10.10",
+      "12:10.11",
+      "12:10.12"
+     ],
+     "english": "for the famine in the land was severe",
+     "literal": "'for heavy the-famine in-the-land'; literally 'heavy'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי רָעָב opens with wayyiqtol הָיָה, 'there was'; the subject follows the verb.",
+    "מִצְרַיְמָה carries the directional he, 'to Egypt'; the two pashta accents mark the word as a unit.",
+    "לָגוּר is a bare infinitive of purpose with לְ; גּוּר means to live as a stranger without full rights.",
+    "כִּי gives the reason, and the adjective כָּבֵד 'heavy' precedes its subject in the predicate."
+   ],
+   "note": "'Severe' renders 'heavy', which is the idiom for a famine. Rashi's reading that the famine was a test for Abram is recorded but does not change the English.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:10:1",
+     "relation": "records",
+     "summary": "Rashi: the famine was in that land alone, to test Abram, whether he would doubt God's words that sent him to Canaan, now that He makes him leave it. The English does not rest on this reading; it is a homiletic motive."
+    },
+    {
+     "anchor": "ibn-ezra:12:10:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'in the land of Canaan'. The English 'the land' is read as Canaan and is so noted."
+    }
+   ],
+   "apparatus": [
+    "Radak: Egypt had plenty even in famine, being watered by the Nile rather than rain; Ramban: Abram went down to keep himself alive."
+   ]
+  },
+  {
+   "ref": "12:11",
+   "english": "As he drew near to enter Egypt, he said to Sarai his wife, \"Look now, I know that you are a woman beautiful in appearance.",
+   "literal": "and-was when he-drew-near to-enter Egypt-ward and-said to Sarai his-wife behold-now I-know that woman beautiful-of appearance you",
+   "tokens": [
+    {
+     "id": "12:11.1",
+     "gloss": "and it happened",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol of 'be' used as a time-marker"
+    },
+    {
+     "id": "12:11.2",
+     "gloss": "when",
+     "sense": "3"
+    },
+    {
+     "id": "12:11.3",
+     "gloss": "he drew near",
+     "sense": "Hiph 1.a",
+     "note": "Hifil of קרב; Ibn Ezra and Radak say it is intransitive here or has the object 'his camp' understood"
+    },
+    {
+     "id": "12:11.4",
+     "gloss": "to enter",
+     "sense": "Qal 2",
+     "note": "לָ + infinitive construct"
+    },
+    {
+     "id": "12:11.5",
+     "gloss": "to Egypt",
+     "note": "directional he"
+    },
+    {
+     "id": "12:11.6",
+     "gloss": "and he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "12:11.7",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "12:11.8",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "12:11.9",
+     "gloss": "his wife",
+     "sense": "2",
+     "note": "construct + suffix"
+    },
+    {
+     "id": "12:11.10",
+     "gloss": "look"
+    },
+    {
+     "id": "12:11.11",
+     "gloss": "now",
+     "note": "נָא, 'now' (Ibn Ezra: like עתה)"
+    },
+    {
+     "id": "12:11.12",
+     "gloss": "I know",
+     "sense": "Qal 1.a",
+     "note": "perfect, 1st person"
+    },
+    {
+     "id": "12:11.13",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "12:11.14",
+     "gloss": "woman",
+     "sense": "1"
+    },
+    {
+     "id": "12:11.15",
+     "gloss": "beautiful of"
+    },
+    {
+     "id": "12:11.16",
+     "gloss": "appearance",
+     "sense": "1.b",
+     "note": "construct chain 'beautiful of appearance'"
+    },
+    {
+     "id": "12:11.17",
+     "gloss": "you",
+     "note": "אָתְּ, the long form of the feminine 'you'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:11.1",
+      "12:11.2",
+      "12:11.3"
+     ],
+     "english": "As he drew near",
+     "literal": "'and-was when he-drew-near'"
+    },
+    {
+     "tokens": [
+      "12:11.4",
+      "12:11.5"
+     ],
+     "english": "to enter Egypt",
+     "literal": "'to-enter Egypt-ward'"
+    },
+    {
+     "tokens": [
+      "12:11.6",
+      "12:11.7",
+      "12:11.8",
+      "12:11.9"
+     ],
+     "english": "he said to Sarai his wife",
+     "literal": "'and-said to Sarai his-wife'"
+    },
+    {
+     "tokens": [
+      "12:11.10",
+      "12:11.11"
+     ],
+     "english": "Look now",
+     "literal": "'behold-now'; נָא is 'now' (Ibn Ezra) or a particle of entreaty"
+    },
+    {
+     "tokens": [
+      "12:11.12"
+     ],
+     "english": "I know",
+     "literal": "'I-know'"
+    },
+    {
+     "tokens": [
+      "12:11.13"
+     ],
+     "english": "that",
+     "literal": "'that'"
+    },
+    {
+     "tokens": [
+      "12:11.14",
+      "12:11.15",
+      "12:11.16",
+      "12:11.17"
+     ],
+     "english": "you are a woman beautiful in appearance",
+     "literal": "'woman beautiful-of appearance you'; the pronoun closes the clause"
+    }
+   ],
+   "grammar": [
+    "The construction וַיְהִי כַּאֲשֶׁר + qatal + לְ + infinitive is a time clause that leads into וַיֹּאמֶר.",
+    "הִנֵּה־נָא יָדַעְתִּי: the perfect of יָדַע is a present state, 'I know', and carries the sense of 'I have long known'.",
+    "יְפַת־מַרְאֶה is a construct chain, 'beautiful of appearance', the pronoun אָתְּ placed last for stress.",
+    "The qadma and zaqef accents divide the verse into the arrival, the address and the content of the speech."
+   ],
+   "note": "I follow Rashi's plain sense (the moment has come to worry about her beauty) and Ibn Ezra's gloss of נָא as 'now'. The verb הִקְרִיב is rendered intransitively.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:11:1",
+     "relation": "follows",
+     "summary": "Rashi gives a midrash (until now he had not looked at her, out of modesty) and then the plain sense: 'now it is time to worry about your beauty' as they come among dark people who are not used to beautiful women. The English follows the plain sense and does not impose the midrash."
+    },
+    {
+     "anchor": "ibn-ezra:12:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הקריב may mean 'his camp' understood, or is one of the verbs that are both transitive and intransitive. The English takes it as intransitive, 'drew near'."
+    },
+    {
+     "anchor": "ibn-ezra:12:11:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: נא means 'now', as in 'now I am old' (27:2) and 'woe now to us' (Lam 5:16). The English renders 'Look now'."
+    },
+    {
+     "anchor": "ibn-ezra:12:11:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'I know' means that Sarai's beauty was such in her own land, but in Egypt and the Negev none was like her, since looks change with the climate. The English keeps the plain 'I know'; the climatic explanation goes in the note."
+    }
+   ],
+   "apparatus": [
+    "The verse is spoken in two stages of narration: arrival time clause, then speech."
+   ]
+  },
+  {
+   "ref": "12:12",
+   "english": "When the Egyptians see you, they will say, \"This is his wife,\" and they will kill me, but you they will let live.",
+   "literal": "and-will-be when they-see you the-Egyptians and-they-say his-wife this and-they-kill me and-you they-let-live",
+   "tokens": [
+    {
+     "id": "12:12.1",
+     "gloss": "and it will be",
+     "sense": "Qal I.2.b",
+     "note": "perfect with waw introducing a future condition"
+    },
+    {
+     "id": "12:12.2",
+     "gloss": "when",
+     "sense": "2.a"
+    },
+    {
+     "id": "12:12.3",
+     "gloss": "they see",
+     "sense": "Qal 1.a",
+     "note": "imperfect, plural"
+    },
+    {
+     "id": "12:12.4",
+     "gloss": "you",
+     "note": "אֹתָךְ, object marker + suffix 2nd feminine singular"
+    },
+    {
+     "id": "12:12.5",
+     "gloss": "the Egyptians",
+     "note": "gentilic plural"
+    },
+    {
+     "id": "12:12.6",
+     "gloss": "and they will say",
+     "sense": "Qal 1",
+     "note": "weqatal, continuing the future"
+    },
+    {
+     "id": "12:12.7",
+     "gloss": "his wife",
+     "sense": "2",
+     "note": "construct + suffix"
+    },
+    {
+     "id": "12:12.8",
+     "gloss": "this",
+     "note": "feminine demonstrative"
+    },
+    {
+     "id": "12:12.9",
+     "gloss": "and they will kill",
+     "sense": "Qal 1.a",
+     "note": "weqatal"
+    },
+    {
+     "id": "12:12.10",
+     "gloss": "me",
+     "note": "object marker + 1st person suffix"
+    },
+    {
+     "id": "12:12.11",
+     "gloss": "and you",
+     "note": "the object is placed first for contrast"
+    },
+    {
+     "id": "12:12.12",
+     "gloss": "they will let live",
+     "sense": "Pi 1",
+     "note": "Piel, 'keep alive'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:12.1",
+      "12:12.2",
+      "12:12.3",
+      "12:12.4",
+      "12:12.5"
+     ],
+     "english": "When the Egyptians see you",
+     "literal": "'and-will-be when they-see you the-Egyptians'"
+    },
+    {
+     "tokens": [
+      "12:12.6",
+      "12:12.7",
+      "12:12.8"
+     ],
+     "english": "they will say This is his wife",
+     "literal": "'and-they-say his-wife this'"
+    },
+    {
+     "tokens": [
+      "12:12.9",
+      "12:12.10"
+     ],
+     "english": "and they will kill me",
+     "literal": "'and-they-kill me'"
+    },
+    {
+     "tokens": [
+      "12:12.11",
+      "12:12.12"
+     ],
+     "english": "but you they will let live",
+     "literal": "'and-you they-let-live'; the fronted object marks the contrast"
+    }
+   ],
+   "grammar": [
+    "וְהָיָה כִּי + yiqtol introduces a future condition; the following weqatal verbs continue it.",
+    "אִשְׁתּוֹ זֹאת: the predicate precedes the subject, 'his wife [is] this'.",
+    "וְאֹתָךְ is fronted to contrast with אֹתִי: 'me they will kill, but you they will keep alive'.",
+    "The Piel יְחַיּוּ means 'let live, preserve alive'."
+   ],
+   "note": "Ibn Ezra reads 'they will let you live' as 'they will give you all you need', since it was a time of famine. The English keeps 'let live' and records his reading.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:12:11:4",
+     "relation": "records",
+     "summary": "Ibn Ezra on ואותך יחיו: they will give you all your needs, because it was a time of famine. The English keeps the plain 'let live' and records his reading."
+    }
+   ],
+   "apparatus": [
+    "Radak: Egyptians were less handsome; Radak glosses 'let live' as not killing her for their enjoyment."
+   ]
+  },
+  {
+   "ref": "12:13",
+   "english": "Say, please, that you are my sister, so that it may go well with me on your account, and I may live because of you.",
+   "literal": "say-you-f please my-sister you so-that it-be-good to-me for-sake-of-you and-live my-soul on-account-of-you",
+   "tokens": [
+    {
+     "id": "12:13.1",
+     "gloss": "say",
+     "sense": "Qal 1",
+     "note": "imperative, feminine singular"
+    },
+    {
+     "id": "12:13.2",
+     "gloss": "please",
+     "note": "נָא, entreaty"
+    },
+    {
+     "id": "12:13.3",
+     "gloss": "my sister",
+     "sense": "1",
+     "note": "construct + suffix"
+    },
+    {
+     "id": "12:13.4",
+     "gloss": "you",
+     "note": "אָתְּ"
+    },
+    {
+     "id": "12:13.5",
+     "gloss": "so that"
+    },
+    {
+     "id": "12:13.6",
+     "gloss": "it may go well",
+     "sense": "Qal 3"
+    },
+    {
+     "id": "12:13.7",
+     "gloss": "with me",
+     "note": "לִי"
+    },
+    {
+     "id": "12:13.8",
+     "gloss": "on your account",
+     "note": "בַּעֲבוּרֵךְ; the suffix is feminine"
+    },
+    {
+     "id": "12:13.9",
+     "gloss": "and may live",
+     "sense": "Qal 1",
+     "note": "perfect with waw, 3rd feminine singular"
+    },
+    {
+     "id": "12:13.10",
+     "gloss": "my life",
+     "sense": "1",
+     "note": "literally 'my soul'; נפש can mean 'I myself'"
+    },
+    {
+     "id": "12:13.11",
+     "gloss": "because of you"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:13.1",
+      "12:13.2"
+     ],
+     "english": "Say, please",
+     "literal": "'say-f please'"
+    },
+    {
+     "tokens": [
+      "12:13.3",
+      "12:13.4"
+     ],
+     "english": "that you are my sister",
+     "literal": "'my-sister you'; the clause is a quotation"
+    },
+    {
+     "tokens": [
+      "12:13.5",
+      "12:13.6",
+      "12:13.7",
+      "12:13.8"
+     ],
+     "english": "so that it may go well with me on your account",
+     "literal": "'for-the-sake-of it-be-good to-me for-sake-of-you'"
+    },
+    {
+     "tokens": [
+      "12:13.9",
+      "12:13.10",
+      "12:13.11"
+     ],
+     "english": "and I may live because of you",
+     "literal": "'and-live my-soul on-account-of-you'"
+    }
+   ],
+   "grammar": [
+    "אִמְרִי is a feminine singular imperative with נָא softening it into a request.",
+    "אֲחֹתִי אָתְּ: the predicate comes first and the pronoun אָתְּ is the long form of 'you'.",
+    "לְמַעַן and בַּעֲבוּרֵךְ and בִּגְלָלֵךְ are three synonyms for 'on account of' set in parallel.",
+    "וְחָיְתָה נַפְשִׁי: נפש is 'my soul', here equal to 'I' or 'my life'."
+   ],
+   "note": "I keep 'it may go well with me' as the general phrase and record the commentators' sense of 'gifts' in the commentary. 'Live' is the Qal of חיה.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:13:1",
+     "relation": "follows",
+     "summary": "Rashi: 'they will give me gifts' as the content of 'it may go well'. The English keeps the plain 'go well' and treats the gift sense as the content, as the commentators agree."
+    },
+    {
+     "anchor": "ibn-ezra:12:13:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra on אחותי את: the accent falls on the next word and the tav is doubled to absorb the nun, since אתה derives from אני. This is a grammatical remark that does not change the English."
+    },
+    {
+     "anchor": "ibn-ezra:12:13:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: בעבורך and בגללך occur only with the preposition ב, and the accent loses its force when it is removed. A remark on the preposition, not on the sense."
+    },
+    {
+     "anchor": "ibn-ezra:12:13:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'it may go well with me' means a gift and an offering, as the sense of 'and he treated Abram well for her sake' (12:16). The English renders 'go well' and 12:16 'treated well' alike."
+    }
+   ],
+   "apparatus": [
+    "Onkelos has 'and my soul will be kept by your word', a different sense from the Hebrew."
+   ]
+  },
+  {
+   "ref": "12:14",
+   "english": "When Abram came to Egypt, the Egyptians saw that the woman was very beautiful.",
+   "literal": "and-was when-came Abram Egypt-ward and-saw the-Egyptians ACC the-woman that beautiful she very",
+   "tokens": [
+    {
+     "id": "12:14.1",
+     "gloss": "and it happened",
+     "sense": "Qal I.2.a.(1)"
+    },
+    {
+     "id": "12:14.2",
+     "gloss": "when he came",
+     "sense": "Qal 1",
+     "note": "כְּ + infinitive construct, 'at the coming of'"
+    },
+    {
+     "id": "12:14.3",
+     "gloss": "Abram"
+    },
+    {
+     "id": "12:14.4",
+     "gloss": "to Egypt",
+     "note": "directional he"
+    },
+    {
+     "id": "12:14.5",
+     "gloss": "and they saw",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol, plural"
+    },
+    {
+     "id": "12:14.6",
+     "gloss": "the Egyptians",
+     "note": "gentilic plural"
+    },
+    {
+     "id": "12:14.7",
+     "gloss": "(object marker)",
+     "note": "marks the definite object"
+    },
+    {
+     "id": "12:14.8",
+     "gloss": "the woman",
+     "sense": "1",
+     "note": "the article marks Sarai as the woman in question"
+    },
+    {
+     "id": "12:14.9",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "12:14.10",
+     "gloss": "beautiful",
+     "note": "feminine adjective"
+    },
+    {
+     "id": "12:14.11",
+     "gloss": "she",
+     "note": "personal pronoun used as the copula"
+    },
+    {
+     "id": "12:14.12",
+     "gloss": "very",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:14.1",
+      "12:14.2",
+      "12:14.3",
+      "12:14.4"
+     ],
+     "english": "When Abram came to Egypt",
+     "literal": "'and-was at-the-coming-of Abram Egypt-ward'"
+    },
+    {
+     "tokens": [
+      "12:14.5",
+      "12:14.6"
+     ],
+     "english": "the Egyptians saw",
+     "literal": "'and-saw the-Egyptians'"
+    },
+    {
+     "tokens": [
+      "12:14.7"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "12:14.8"
+     ],
+     "english": "the woman",
+     "literal": "'the-woman'"
+    },
+    {
+     "tokens": [
+      "12:14.9"
+     ],
+     "english": "that",
+     "literal": "'that'"
+    },
+    {
+     "tokens": [
+      "12:14.10",
+      "12:14.11",
+      "12:14.12"
+     ],
+     "english": "was very beautiful",
+     "literal": "'beautiful she very'"
+    }
+   ],
+   "grammar": [
+    "כְּבוֹא is a preposition with an infinitive construct and the subject אַבְרָם, 'at Abram's coming'.",
+    "The wayyiqtol וַיִּרְאוּ continues after the zaqef, with הַמִּצְרִים placed between the verb and object.",
+    "The pronoun הִוא with the adjective gives the clause 'she was beautiful'; מְאֹד intensifies it.",
+    "The text speaks of Abram alone coming, although Sarai was with him."
+   ],
+   "note": "Rashi's explanation, that the Egyptians saw her only at the customs inspection of the chest, is recorded but not adopted.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:14:1",
+     "relation": "records",
+     "summary": "Rashi: it should have said 'when they came'; this teaches that Abram hid her in a chest, and when customs were demanded they opened it and saw her. The English follows the plain sense (the Egyptians saw her) and records this midrash."
+    }
+   ],
+   "apparatus": [
+    "Sforno: all of them set their eyes on her, as Abram had feared."
+   ]
+  },
+  {
+   "ref": "12:15",
+   "english": "Pharaoh's officials saw her and praised her to Pharaoh, and the woman was taken into Pharaoh's house.",
+   "literal": "and-saw her officials-of Pharaoh and-praised her to Pharaoh and-was-taken the-woman house-of Pharaoh",
+   "tokens": [
+    {
+     "id": "12:15.1",
+     "gloss": "and saw",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol, plural"
+    },
+    {
+     "id": "12:15.2",
+     "gloss": "her",
+     "note": "object marker + suffix"
+    },
+    {
+     "id": "12:15.3",
+     "gloss": "the officials of",
+     "note": "construct plural"
+    },
+    {
+     "id": "12:15.4",
+     "gloss": "Pharaoh",
+     "note": "title, not a personal name in Egyptian"
+    },
+    {
+     "id": "12:15.5",
+     "gloss": "and praised",
+     "sense": "Pi 1",
+     "note": "Piel wayyiqtol"
+    },
+    {
+     "id": "12:15.6",
+     "gloss": "her",
+     "note": "object marker + suffix"
+    },
+    {
+     "id": "12:15.7",
+     "gloss": "to",
+     "sense": "3"
+    },
+    {
+     "id": "12:15.8",
+     "gloss": "Pharaoh"
+    },
+    {
+     "id": "12:15.9",
+     "gloss": "and was taken",
+     "sense": "Pu 1",
+     "note": "a passive form of 'take'; Ibn Ezra: from the causative passive stem"
+    },
+    {
+     "id": "12:15.10",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "12:15.11",
+     "gloss": "the house of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "12:15.12",
+     "gloss": "Pharaoh"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:15.1",
+      "12:15.2",
+      "12:15.3",
+      "12:15.4"
+     ],
+     "english": "Pharaoh's officials saw her",
+     "literal": "'and-saw her officials-of Pharaoh'"
+    },
+    {
+     "tokens": [
+      "12:15.5",
+      "12:15.6",
+      "12:15.7",
+      "12:15.8"
+     ],
+     "english": "and praised her to Pharaoh",
+     "literal": "'and-praised her to Pharaoh'; Rashi: they praised her among themselves"
+    },
+    {
+     "tokens": [
+      "12:15.9",
+      "12:15.10"
+     ],
+     "english": "and the woman was taken",
+     "literal": "'and-was-taken the-woman'; passive, so she was taken without a stated agent"
+    },
+    {
+     "tokens": [
+      "12:15.11",
+      "12:15.12"
+     ],
+     "english": "into Pharaoh's house",
+     "literal": "'house-of Pharaoh'"
+    }
+   ],
+   "grammar": [
+    "The two accents zaqef and etnaḥta mark clause breaks after פַרְעֹה, and the three wayyiqtols carry the narrative.",
+    "וַיְהַלְלוּ is a Piel from הלל with the first lamed written without the expected doubling (Ibn Ezra).",
+    "וַתֻּקַּח is passive, and the agent is left unnamed; the verse says only that she was taken.",
+    "בֵּית פַּרְעֹה is a direction without a preposition: 'to the house of Pharaoh'."
+   ],
+   "note": "I take אֶל־פַּרְעֹה as 'to Pharaoh' (the officials told him). Rashi's reading 'among themselves' is recorded. The passive is kept without an agent.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:15:1",
+     "relation": "records",
+     "summary": "Rashi: they praised her among themselves, saying 'she is fit for the king'. The English reads אל as 'to Pharaoh' and records this reading."
+    },
+    {
+     "anchor": "ibn-ezra:12:15:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: the first lamed lacks its dagesh to ease the pronunciation, though it ought to be doubled, like ואתפללה (Dan 9:4). A grammar note."
+    },
+    {
+     "anchor": "ibn-ezra:12:15:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַתֻּקַּח is from the added causative passive stem, if no other is found, like וַתִּשְׁלְכִי (Ezek 16:5). The English renders it passively, 'was taken'."
+    }
+   ],
+   "apparatus": [
+    "Radak: 'was taken' implies against her will; Sforno 12:16 on the same word: they did not first consult Abram to persuade him."
+   ]
+  },
+  {
+   "ref": "12:16",
+   "english": "And Pharaoh treated Abram well because of her, and he came to have flocks and herds, donkeys, male and female slaves, she-donkeys, and camels.",
+   "literal": "and-to-Abram he-treated-well for-her-sake and-was to-him flock-and-herd and-donkeys and-slaves and-maidservants and-she-donkeys and-camels",
+   "tokens": [
+    {
+     "id": "12:16.1",
+     "gloss": "and to Abram",
+     "note": "ו + לְ + name"
+    },
+    {
+     "id": "12:16.2",
+     "gloss": "he treated well",
+     "sense": "Hithp 2",
+     "note": "Hifil of יטב, 'did good'; the subject is Pharaoh (Rashi)"
+    },
+    {
+     "id": "12:16.3",
+     "gloss": "because of her",
+     "note": "בַּעֲבוּרָהּ"
+    },
+    {
+     "id": "12:16.4",
+     "gloss": "and he came to have",
+     "sense": "Qal II.2.h",
+     "note": "literally 'and there was to him'"
+    },
+    {
+     "id": "12:16.5",
+     "gloss": "to him"
+    },
+    {
+     "id": "12:16.6",
+     "gloss": "flocks",
+     "note": "sheep and goats"
+    },
+    {
+     "id": "12:16.7",
+     "gloss": "and herds",
+     "note": "cattle"
+    },
+    {
+     "id": "12:16.8",
+     "gloss": "and donkeys",
+     "note": "male donkeys"
+    },
+    {
+     "id": "12:16.9",
+     "gloss": "and male slaves",
+     "sense": "1"
+    },
+    {
+     "id": "12:16.10",
+     "gloss": "and female slaves",
+     "note": "שִׁפְחָה"
+    },
+    {
+     "id": "12:16.11",
+     "gloss": "and she-donkeys"
+    },
+    {
+     "id": "12:16.12",
+     "gloss": "and camels"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:16.1",
+      "12:16.2"
+     ],
+     "english": "Pharaoh treated Abram well",
+     "literal": "'and-to-Abram he-treated-well'; Rashi supplies Pharaoh as subject"
+    },
+    {
+     "tokens": [
+      "12:16.3"
+     ],
+     "english": "because of her",
+     "literal": "'for-her-sake'"
+    },
+    {
+     "tokens": [
+      "12:16.4",
+      "12:16.5"
+     ],
+     "english": "and he came to have",
+     "literal": "'and-was to-him'"
+    },
+    {
+     "tokens": [
+      "12:16.6",
+      "12:16.7"
+     ],
+     "english": "flocks and herds",
+     "literal": "'flock-and-herd'"
+    },
+    {
+     "tokens": [
+      "12:16.8"
+     ],
+     "english": "donkeys",
+     "literal": "'and-donkeys'"
+    },
+    {
+     "tokens": [
+      "12:16.9",
+      "12:16.10"
+     ],
+     "english": "male and female slaves",
+     "literal": "'and-slaves and-maidservants'"
+    },
+    {
+     "tokens": [
+      "12:16.11"
+     ],
+     "english": "she-donkeys",
+     "literal": "'and-she-donkeys'"
+    },
+    {
+     "tokens": [
+      "12:16.12"
+     ],
+     "english": "and camels",
+     "literal": "'and-camels'"
+    }
+   ],
+   "grammar": [
+    "The object לְאַבְרָם is fronted before the Hifil הֵיטִיב, whose unstated subject is Pharaoh.",
+    "וַיְהִי־לוֹ expresses possession ('he came to have'), with the list of livestock and slaves in the singular collective forms צֹאן and בָּקָר.",
+    "The list is joined by waw each time, with the genders paired as עֲבָדִים וּשְׁפָחֹת and אֲתֹנֹת.",
+    "Of the livestock named, donkeys and she-donkeys are listed separately."
+   ],
+   "note": "Rashi supplies 'Pharaoh' as the subject of הֵיטִיב, and the English follows him. Sheep and goats are rendered 'flocks'.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:16:1",
+     "relation": "follows",
+     "summary": "Rashi's note on ולאברם היטיב is a single word, 'Pharaoh', supplying the subject. The English follows it."
+    },
+    {
+     "anchor": "rashi:12:16:2",
+     "relation": "not-applicable",
+     "summary": "Rashi's note on בעבורה contains only punctuation in the pack, so it says nothing about the words."
+    }
+   ],
+   "apparatus": [
+    "Radak: the goods came from Pharaoh; Sforno: a bride-price and gift, as custom required, in the way of a king."
+   ]
+  }
+ ]
+}

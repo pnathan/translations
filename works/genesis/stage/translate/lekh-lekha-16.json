@@ -1,0 +1,1316 @@
+{
+ "unit": "lekh-lekha-16",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "17:15",
+   "english": "God said to Abraham, \"Sarai your wife: do not call her name Sarai, for Sarah is her name.\"",
+   "literal": "and-said God to-Abram Sarai wife-of-you not you-call [object-marker] name-of-her Sarai for Sarah name-of-her",
+   "tokens": [
+    {
+     "id": "17:15.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "17:15.2",
+     "gloss": "God",
+     "sense": "4",
+     "note": "with a singular verb: the God of Israel"
+    },
+    {
+     "id": "17:15.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "17:15.4",
+     "gloss": "Abraham",
+     "note": "name changed in 17:5"
+    },
+    {
+     "id": "17:15.5",
+     "gloss": "Sarai",
+     "note": "name; literally 'my princess'"
+    },
+    {
+     "id": "17:15.6",
+     "gloss": "your wife",
+     "sense": "2",
+     "note": "construct state with 2nd masc. sg. suffix"
+    },
+    {
+     "id": "17:15.7",
+     "gloss": "not"
+    },
+    {
+     "id": "17:15.8",
+     "gloss": "you shall call",
+     "sense": "Qal 6",
+     "note": "imperfect with lo: prohibition, 'you are not to call'"
+    },
+    {
+     "id": "17:15.9",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "17:15.10",
+     "gloss": "her name",
+     "sense": "3",
+     "note": "construct plus suffix"
+    },
+    {
+     "id": "17:15.11",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "17:15.12",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "17:15.13",
+     "gloss": "Sarah",
+     "note": "name; 'princess'; the change is the same kind as Abram to Abraham"
+    },
+    {
+     "id": "17:15.14",
+     "gloss": "her name",
+     "sense": "3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:15.1",
+      "17:15.2"
+     ],
+     "english": "God said",
+     "literal": "'and-said God'"
+    },
+    {
+     "tokens": [
+      "17:15.3",
+      "17:15.4"
+     ],
+     "english": "to Abraham",
+     "literal": "'to-Abraham'"
+    },
+    {
+     "tokens": [
+      "17:15.5",
+      "17:15.6"
+     ],
+     "english": "Sarai your wife",
+     "literal": "'Sarai wife-of-you': a nominative absolute, 'as for Sarai your wife'"
+    },
+    {
+     "tokens": [
+      "17:15.7",
+      "17:15.8"
+     ],
+     "english": "do not call",
+     "literal": "'not you-call': a prohibition"
+    },
+    {
+     "tokens": [
+      "17:15.9",
+      "17:15.10",
+      "17:15.11"
+     ],
+     "english": "her name Sarai",
+     "literal": "'[object-marker] name-of-her Sarai'; the marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "17:15.12",
+      "17:15.13",
+      "17:15.14"
+     ],
+     "english": "for Sarah is her name",
+     "literal": "'for Sarah name-of-her'; no verb in Hebrew"
+    }
+   ],
+   "grammar": [
+    "שָׂרַי אִשְׁתְּךָ is a nominative absolute (casus pendens): the topic is named first and then taken up by the pronoun in אֶת־שְׁמָהּ.",
+    "לֹא־תִקְרָא with the imperfect is a prohibition ('you are not to call'), not a prediction.",
+    "The etnaḥta on שָׂרָי divides the verse: the prohibition, then the reason.",
+    "כִּי שָׂרָה שְׁמָהּ has no verb; the English supplies 'is'. Radak reads it as 'shall be her name', as in 17:5 וְהָיָה שִׁמְךָ אַבְרָהָם.",
+    "The change שָׂרַי to שָׂרָה echoes 17:5, where אַבְרָם becomes אַבְרָהָם."
+   ],
+   "note": "The meaning of the new name is not given in the English line (decisions.md). Both names are rendered by transliteration, in the usual forms Sarai and Sarah. Radak notes that the husband, not the wife, is the one who 'calls' her name, which is why the order is addressed to Abraham alone.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:15:1",
+     "relation": "records",
+     "summary": "Rashi: שָׂרַי means 'my princess' (שָׂרַי, mine), 'mine and not others'', which is why the name was too narrow. The English does not carry this etymology."
+    },
+    {
+     "anchor": "rashi:17:15:2",
+     "relation": "records",
+     "summary": "Rashi: שָׂרָה is 'a plain name', that she be 'sarah' over all (b. Berakhot 13). The reading is kept as the reason for the change; the English line only states it."
+    },
+    {
+     "anchor": "radak:17:15:1",
+     "relation": "not-applicable",
+     "summary": "Radak: only the husband calls the wife by name; the wife does not call the husband by name out of respect. This explains why Abraham alone is addressed; it does not change the English."
+    },
+    {
+     "anchor": "radak:17:15:3",
+     "relation": "follows",
+     "summary": "Radak: כִּי שָׂרָה שְׁמָהּ means 'shall be her name', as in 17:5, and others will call her so once Abraham does."
+    },
+    {
+     "anchor": "onkelos:17:15:1",
+     "relation": "follows",
+     "summary": "Onkelos renders the verse closely, 'do not call her name Sarai, for Sarah is her name'."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "17:16",
+   "english": "I will bless her, and I will also give you a son from her. I will bless her, and she shall become nations; kings of peoples shall come from her.",
+   "literal": "and-I-will-bless [object-marker]-her and-also I-gave from-her to-you son and-I-will-bless-her and-she-will-be to-nations kings-of peoples from-her they-will-be",
+   "tokens": [
+    {
+     "id": "17:16.1",
+     "gloss": "and I will bless",
+     "sense": "Pi 2",
+     "note": "weqatal; Piel of ברך, 'God blesses'"
+    },
+    {
+     "id": "17:16.2",
+     "gloss": "her",
+     "note": "object marker with 3rd fem. sg. suffix"
+    },
+    {
+     "id": "17:16.3",
+     "gloss": "and also"
+    },
+    {
+     "id": "17:16.4",
+     "gloss": "I will give",
+     "sense": "Qal 1",
+     "note": "perfect with future sense, as Ibn Ezra says; compare Gen 23:13 נתתי כסף השדה"
+    },
+    {
+     "id": "17:16.5",
+     "gloss": "from her",
+     "sense": "1.a",
+     "note": "מִן with 3rd fem. sg. suffix, doubled nun"
+    },
+    {
+     "id": "17:16.6",
+     "gloss": "to you"
+    },
+    {
+     "id": "17:16.7",
+     "gloss": "a son",
+     "sense": "1"
+    },
+    {
+     "id": "17:16.8",
+     "gloss": "and I will bless her",
+     "sense": "Pi 2",
+     "note": "weqatal with an attached object suffix"
+    },
+    {
+     "id": "17:16.9",
+     "gloss": "and she will become",
+     "sense": "Qal II.2",
+     "note": "weqatal, 3rd fem. sg."
+    },
+    {
+     "id": "17:16.10",
+     "gloss": "into nations",
+     "note": "ל marks the result: 'become nations'"
+    },
+    {
+     "id": "17:16.11",
+     "gloss": "kings of"
+    },
+    {
+     "id": "17:16.12",
+     "gloss": "peoples",
+     "sense": "1"
+    },
+    {
+     "id": "17:16.13",
+     "gloss": "from her",
+     "sense": "1.a"
+    },
+    {
+     "id": "17:16.14",
+     "gloss": "they will be",
+     "sense": "Qal III",
+     "note": "imperfect plural: the kings are the subject"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:16.1",
+      "17:16.2"
+     ],
+     "english": "I will bless her",
+     "literal": "'and-I-will-bless her'"
+    },
+    {
+     "tokens": [
+      "17:16.3",
+      "17:16.4"
+     ],
+     "english": "I will also give",
+     "literal": "'and-also I-gave'; perfect with future sense"
+    },
+    {
+     "tokens": [
+      "17:16.5",
+      "17:16.6",
+      "17:16.7"
+     ],
+     "english": "you a son from her",
+     "literal": "'from-her to-you son'"
+    },
+    {
+     "tokens": [
+      "17:16.8"
+     ],
+     "english": "I will bless her",
+     "literal": "'and-I-will-bless-her'; a repetition of the blessing"
+    },
+    {
+     "tokens": [
+      "17:16.9",
+      "17:16.10"
+     ],
+     "english": "she shall become nations",
+     "literal": "'and-she-will-be to-nations'"
+    },
+    {
+     "tokens": [
+      "17:16.11",
+      "17:16.12"
+     ],
+     "english": "kings of peoples",
+     "literal": "'kings-of peoples': a construct chain"
+    },
+    {
+     "tokens": [
+      "17:16.13",
+      "17:16.14"
+     ],
+     "english": "shall come from her",
+     "literal": "'from-her they-will-be': 'will arise from her'"
+    }
+   ],
+   "grammar": [
+    "וּבֵרַכְתִּי and וְהָיְתָה are weqatal forms: they continue the promise as future.",
+    "נָתַתִּי is a perfect that stands for the future (Ibn Ezra), a prophetic perfect, like נָתַתִּי כֶּסֶף הַשָּׂדֶה in 23:13.",
+    "The etnaḥta after בֵּן separates the gift of the son from the second blessing; the double pashta on וּבֵרַכְתִּיהָ marks the repeated verb.",
+    "מַלְכֵי עַמִּים: 'kings of peoples' is a construct chain; מִמֶּנָּה is stressed by being put last."
+   ],
+   "note": "וּבֵרַכְתִּי אֹתָהּ and וּבֵרַכְתִּיהָ are the same verb twice. Rashi gives each blessing a content (restored youth; milk for the nursing at Isaac's feast); Sforno reads the second as childbearing and rearing without pain. These readings are kept in the commentary entries and not added to the English. מִמֶּנָּה, 'from her', is kept as in the Hebrew.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:16:1",
+     "relation": "records",
+     "summary": "Rashi: the first blessing is that she was restored to her youth (Gen 18:12 'I have had pleasure'). Kept as an interpretation; the English says only 'bless'."
+    },
+    {
+     "anchor": "rashi:17:16:2",
+     "relation": "records",
+     "summary": "Rashi: the second blessing is that she could nurse at Isaac's weaning feast, when she nursed the children brought by the other women. Kept as an interpretation."
+    },
+    {
+     "anchor": "ibn-ezra:17:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וְגַם נָתַתִּי is like נתתי כסף השדה (23:13); both perfects stand for the future. The English uses the future."
+    },
+    {
+     "anchor": "radak:17:16:1",
+     "relation": "records",
+     "summary": "Radak: the blessing is that she regains menstruation and the way of women, and then bears."
+    },
+    {
+     "anchor": "onkelos:17:16:1",
+     "relation": "follows",
+     "summary": "Onkelos has the same sequence of blessing, a son, nations and kings."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "17:17",
+   "english": "Abraham fell on his face and laughed, and said in his heart, \"Will a child be born to a man a hundred years old? And will Sarah, a woman of ninety years, bear a child?\"",
+   "literal": "and-fell Abraham on face-of-him and-laughed and-said in-heart-of-him to-the-son-of hundred year will-be-born and-if Sarah the-daughter-of ninety year will-bear",
+   "tokens": [
+    {
+     "id": "17:17.1",
+     "gloss": "and fell",
+     "sense": "Qal 3.b",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "17:17.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "17:17.3",
+     "gloss": "on",
+     "sense": "II.1.b"
+    },
+    {
+     "id": "17:17.4",
+     "gloss": "his face",
+     "sense": "I.1",
+     "note": "idiom עַל־פָּנָיו, 'on his face'"
+    },
+    {
+     "id": "17:17.5",
+     "gloss": "and laughed",
+     "sense": "Qal",
+     "note": "wayyiqtol of צחק; the root of the name Isaac"
+    },
+    {
+     "id": "17:17.6",
+     "gloss": "and said",
+     "sense": "Qal 2",
+     "note": "said 'in his heart': to himself"
+    },
+    {
+     "id": "17:17.7",
+     "gloss": "in his heart",
+     "sense": "II.3",
+     "note": "'in his mind'"
+    },
+    {
+     "id": "17:17.8",
+     "gloss": "will to a son of",
+     "sense": "1",
+     "note": "interrogative ה + ל + construct"
+    },
+    {
+     "id": "17:17.9",
+     "gloss": "a hundred",
+     "sense": "3"
+    },
+    {
+     "id": "17:17.10",
+     "gloss": "years",
+     "note": "singular after a number"
+    },
+    {
+     "id": "17:17.11",
+     "gloss": "be born",
+     "sense": "Niph",
+     "note": "Niphal yiqtol, 3rd masc. sg."
+    },
+    {
+     "id": "17:17.12",
+     "gloss": "and if",
+     "sense": "1",
+     "note": "אִם continues the question"
+    },
+    {
+     "id": "17:17.13",
+     "gloss": "Sarah"
+    },
+    {
+     "id": "17:17.14",
+     "gloss": "a daughter of",
+     "sense": "1",
+     "note": "interrogative ה + construct בַּת: 'a woman of ninety years'"
+    },
+    {
+     "id": "17:17.15",
+     "gloss": "ninety"
+    },
+    {
+     "id": "17:17.16",
+     "gloss": "years"
+    },
+    {
+     "id": "17:17.17",
+     "gloss": "will bear",
+     "sense": "Qal 1",
+     "note": "Qal yiqtol, 3rd fem. sg."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:17.1",
+      "17:17.2",
+      "17:17.3",
+      "17:17.4"
+     ],
+     "english": "Abraham fell on his face",
+     "literal": "'and-fell Abraham on face-of-him'"
+    },
+    {
+     "tokens": [
+      "17:17.5"
+     ],
+     "english": "and laughed",
+     "literal": "'and-laughed'; Rashi, Ramban, Radak and Onkelos take it as joy"
+    },
+    {
+     "tokens": [
+      "17:17.6",
+      "17:17.7"
+     ],
+     "english": "and said in his heart",
+     "literal": "'and-said in-heart-of-him'"
+    },
+    {
+     "tokens": [
+      "17:17.8",
+      "17:17.9",
+      "17:17.10",
+      "17:17.11"
+     ],
+     "english": "Will a child be born to a man a hundred years old",
+     "literal": "'to-the-son-of hundred year will-be-born': the question mark is the ה"
+    },
+    {
+     "tokens": [
+      "17:17.12",
+      "17:17.13",
+      "17:17.14",
+      "17:17.15",
+      "17:17.16",
+      "17:17.17"
+     ],
+     "english": "And will Sarah a woman of ninety years bear a child",
+     "literal": "'and-if Sarah the-daughter-of ninety year will-bear'"
+    }
+   ],
+   "grammar": [
+    "וַיִּצְחָק, 'and he laughed', uses the root of the name יִצְחָק (17:19) before the name is given.",
+    "הַלְּבֶן and הֲבַת open the questions with the interrogative ה; the second question continues with וְאִם ('and if / or').",
+    "The etnaḥta on וַיִּצְחָק separates the act from what he said in his heart.",
+    "יִוָּלֵד is Niphal ('be born') and תֵּלֵד is Qal ('bear'): the verbs are chosen to fit the subject."
+   ],
+   "note": "Whether וַיִּצְחָק is laughter of joy or of mockery is the ambiguity of the verse. Rashi (and Onkelos וַחֲדִי, Radak, Ramban) take Abraham's laughter as joy, in contrast to Sarah's laughter in 18:12 as scorn; the English keeps the plain word 'laughed' and the reading goes in the commentary. The questions are the genuine wonder of Rashi and Ibn Ezra, not doubt. 'A child' translates בֵּן (here 'son'); the English line keeps 'child' for the idiom 'the son of a hundred years'.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:17:1",
+     "relation": "follows",
+     "summary": "Rashi: וַיִּצְחָק is the laughter of joy (Aramaic חֲדִי), unlike Sarah's laughter of mockery; Abraham believed and rejoiced, Sarah did not believe."
+    },
+    {
+     "anchor": "rashi:17:17:2",
+     "relation": "follows",
+     "summary": "Rashi: some questions of wonder stand as real questions (compare 1 Sam 2:27, Ezek 8:6): Abraham wonders whether such kindness will be done for him."
+    },
+    {
+     "anchor": "rashi:17:17:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: Sarah was fit to bear; the earlier generations bore children at five hundred, but by Abraham's time the years had shrunk. A comment on the numbers, not on the words."
+    },
+    {
+     "anchor": "ibn-ezra:17:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Abraham marvels; the seed of an old man is cold, and the greater wonder is that a woman whose blood had stopped should bear."
+    },
+    {
+     "anchor": "ramban:17:17:1",
+     "relation": "follows",
+     "summary": "Ramban: the laughter is joy (Onkelos); the question is a wonder, not disbelief."
+    },
+    {
+     "anchor": "radak:17:17:2",
+     "relation": "follows",
+     "summary": "Radak: he rejoiced in his heart, not in mockery."
+    }
+   ],
+   "apparatus": [
+    "Radak: the wonder is not unbelief (Gen 15:6 'he believed in the LORD')."
+   ]
+  },
+  {
+   "ref": "17:18",
+   "english": "Abraham said to God, \"If only Ishmael might live before you!\"",
+   "literal": "and-said Abraham to the-God if-only Ishmael he-will-live before-you",
+   "tokens": [
+    {
+     "id": "17:18.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "17:18.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "17:18.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "17:18.4",
+     "gloss": "God",
+     "sense": "3",
+     "note": "with the article: 'the God'"
+    },
+    {
+     "id": "17:18.5",
+     "gloss": "if only",
+     "sense": "2",
+     "note": "לוּ introduces a wish"
+    },
+    {
+     "id": "17:18.6",
+     "gloss": "Ishmael",
+     "note": "name; 'God hears'"
+    },
+    {
+     "id": "17:18.7",
+     "gloss": "may he live",
+     "sense": "Qal 1",
+     "note": "imperfect with a jussive/optative sense after לוּ"
+    },
+    {
+     "id": "17:18.8",
+     "gloss": "before you",
+     "sense": "I.6",
+     "note": "לְ + panim + suffix: 'before you, in your presence'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:18.1",
+      "17:18.2"
+     ],
+     "english": "Abraham said",
+     "literal": "'and-said Abraham'"
+    },
+    {
+     "tokens": [
+      "17:18.3",
+      "17:18.4"
+     ],
+     "english": "to God",
+     "literal": "'to the-God'"
+    },
+    {
+     "tokens": [
+      "17:18.5",
+      "17:18.6",
+      "17:18.7",
+      "17:18.8"
+     ],
+     "english": "If only Ishmael might live before you",
+     "literal": "'if-only Ishmael he-will-live before-you': a wish"
+    }
+   ],
+   "grammar": [
+    "לוּ introduces a wish ('if only'), here with the imperfect יִחְיֶה.",
+    "The etnaḥta on הָאֱלֹהִים separates the speech from the introduction.",
+    "לְפָנֶיךָ is 'before you', the idiom of being in God's presence."
+   ],
+   "note": "Rashi reads לוּ as 'would that' and takes it to mean that Abraham is unworthy of so great a reward. Ramban: לוּ is like אִם and Abraham fears that Ishmael may die. The English takes the wish plainly. Rashi's 'live in fear of you' is kept as a reading of לְפָנֶיךָ.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:18:1",
+     "relation": "follows",
+     "summary": "Rashi: הַלְוַאי, 'would that Ishmael live'; Abraham says he is not worthy of such a great reward."
+    },
+    {
+     "anchor": "rashi:17:18:2",
+     "relation": "records",
+     "summary": "Rashi: 'live before you' means live in fear of you, like הִתְהַלֵּךְ לְפָנַי 'serve before me' (17:1). Ramban rejects this because God replies 'I have heard you' for Ishmael."
+    },
+    {
+     "anchor": "ramban:17:18:1",
+     "relation": "records",
+     "summary": "Ramban: לוּ is 'if'; Abraham fears for Ishmael and asks that he live."
+    },
+    {
+     "anchor": "radak:17:18:1",
+     "relation": "records",
+     "summary": "Radak: 'enough for me what you have given; let Ishmael live a good life.'"
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "17:19",
+   "english": "God said, \"Truly, Sarah your wife will bear you a son, and you shall call his name Isaac; and I will establish my covenant with him as an everlasting covenant for his descendants after him.\"",
+   "literal": "and-said God truly Sarah wife-of-you bearing to-you son and-you-will-call [object-marker] name-of-him Isaac and-I-will-establish [object-marker] covenant-of-me with-him for-covenant-of age for-seed-of-him after-him",
+   "tokens": [
+    {
+     "id": "17:19.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "17:19.2",
+     "gloss": "God",
+     "sense": "4"
+    },
+    {
+     "id": "17:19.3",
+     "gloss": "truly",
+     "sense": "1",
+     "note": "Rashi: 'truth of the words'"
+    },
+    {
+     "id": "17:19.4",
+     "gloss": "Sarah"
+    },
+    {
+     "id": "17:19.5",
+     "gloss": "your wife",
+     "sense": "2"
+    },
+    {
+     "id": "17:19.6",
+     "gloss": "bearing",
+     "sense": "Qal 1",
+     "note": "participle: 'is about to bear'"
+    },
+    {
+     "id": "17:19.7",
+     "gloss": "to you"
+    },
+    {
+     "id": "17:19.8",
+     "gloss": "a son",
+     "sense": "1"
+    },
+    {
+     "id": "17:19.9",
+     "gloss": "and you will call",
+     "sense": "Qal 6",
+     "note": "weqatal, 2nd masc. sg.: 'you shall call'"
+    },
+    {
+     "id": "17:19.10",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "17:19.11",
+     "gloss": "his name",
+     "sense": "3"
+    },
+    {
+     "id": "17:19.12",
+     "gloss": "Isaac",
+     "note": "name from צחק, 'he laughs'"
+    },
+    {
+     "id": "17:19.13",
+     "gloss": "and I will establish",
+     "sense": "Hiph 2.a",
+     "note": "weqatal of קוּם, Hiphil"
+    },
+    {
+     "id": "17:19.14",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "17:19.15",
+     "gloss": "my covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "17:19.16",
+     "gloss": "with him",
+     "sense": "1",
+     "note": "אֵת as preposition: 'with'"
+    },
+    {
+     "id": "17:19.17",
+     "gloss": "as a covenant of",
+     "sense": "II.2",
+     "note": "לִ + construct"
+    },
+    {
+     "id": "17:19.18",
+     "gloss": "forever"
+    },
+    {
+     "id": "17:19.19",
+     "gloss": "for his seed",
+     "sense": "4",
+     "note": "'for his descendants'"
+    },
+    {
+     "id": "17:19.20",
+     "gloss": "after him",
+     "sense": "2.b"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:19.1",
+      "17:19.2"
+     ],
+     "english": "God said",
+     "literal": "'and-said God'"
+    },
+    {
+     "tokens": [
+      "17:19.3"
+     ],
+     "english": "Truly",
+     "literal": "'truly': Rashi's 'truth of the words'"
+    },
+    {
+     "tokens": [
+      "17:19.4",
+      "17:19.5"
+     ],
+     "english": "Sarah your wife",
+     "literal": "'Sarah wife-of-you'"
+    },
+    {
+     "tokens": [
+      "17:19.6",
+      "17:19.7",
+      "17:19.8"
+     ],
+     "english": "will bear you a son",
+     "literal": "'bearing to-you son': participle, 'is bearing, will bear'"
+    },
+    {
+     "tokens": [
+      "17:19.9",
+      "17:19.10",
+      "17:19.11",
+      "17:19.12"
+     ],
+     "english": "you shall call his name Isaac",
+     "literal": "'and-you-will-call [object-marker] name-of-him Isaac'"
+    },
+    {
+     "tokens": [
+      "17:19.13",
+      "17:19.14",
+      "17:19.15",
+      "17:19.16"
+     ],
+     "english": "I will establish my covenant with him",
+     "literal": "'and-I-will-establish [object-marker] covenant-of-me with-him'"
+    },
+    {
+     "tokens": [
+      "17:19.17",
+      "17:19.18"
+     ],
+     "english": "as an everlasting covenant",
+     "literal": "'for-covenant-of age': 'a covenant of long age'"
+    },
+    {
+     "tokens": [
+      "17:19.19",
+      "17:19.20"
+     ],
+     "english": "for his descendants after him",
+     "literal": "'for-seed-of-him after-him'"
+    }
+   ],
+   "grammar": [
+    "אֲבָל here is 'truly' (Rashi), not 'but' (the Ramban reading: 'only').",
+    "יֹלֶדֶת is a participle: the future birth is spoken of as imminent.",
+    "וְקָרָאתָ is a weqatal in command sense: 'you shall call'.",
+    "וַהֲקִמֹתִי is the Hiphil of קוּם, 'cause to stand', used for confirming a covenant.",
+    "The word play: Isaac יִצְחָק is from צָחַק (17:17)."
+   ],
+   "note": "אֲבָל: Rashi 'truth of words', with 42:21 and 2 Kings 4:14; Ramban reads it as 'only'. The English follows Rashi with 'truly'; the 'only' reading is in apparatus. The covenant is established 'with him' and not 'with others' (Rashi), so that Ishmael is excluded from it.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:19:1",
+     "relation": "follows",
+     "summary": "Rashi: אֲבָל means 'truth of words', as in Gen 42:21 and 2 Kings 4:14."
+    },
+    {
+     "anchor": "rashi:17:19:2",
+     "relation": "follows",
+     "summary": "Rashi: the name Isaac is for the laughter; another view: for the ten trials, Sarah's ninety years, the eight days of circumcision and Abraham's hundred."
+    },
+    {
+     "anchor": "rashi:17:19:3",
+     "relation": "follows",
+     "summary": "Rashi: 'with him and not with others': Ishmael's sons and Keturah's sons are not in the covenant."
+    },
+    {
+     "anchor": "rashi:17:19:4",
+     "relation": "not-applicable",
+     "summary": "Rashi: the repetition teaches that Isaac was holy from the womb; or a kal vahomer from the son of the mistress over the son of the maid. A derivation."
+    },
+    {
+     "anchor": "rashi:17:19:5",
+     "relation": "records",
+     "summary": "Rashi: the covenant of circumcision is entrusted to the descendants of Isaac."
+    },
+    {
+     "anchor": "ramban:17:19:1",
+     "relation": "records",
+     "summary": "Ramban: אֲבָל is like אֲבָל בֵּן אֵין לָהּ (2 Kings 4:14), 'only': only the son I announce, by Sarah, bears the covenant; Ishmael will be blessed with many descendants but not with the covenant."
+    },
+    {
+     "anchor": "radak:17:19:1",
+     "relation": "records",
+     "summary": "Radak: not this alone, but also Sarah your wife will bear a son."
+    },
+    {
+     "anchor": "radak:17:19:2",
+     "relation": "follows",
+     "summary": "Radak: the name Isaac is from 'you laughed'."
+    }
+   ],
+   "apparatus": [
+    "אֲבָל: Ramban and Radak read 'but, only', not 'truly'."
+   ]
+  },
+  {
+   "ref": "17:20",
+   "english": "As for Ishmael, I have heard you. Look, I have blessed him and will make him fruitful and will increase him exceedingly. He will father twelve chieftains, and I will make him a great nation.",
+   "literal": "and-for-Ishmael I-have-heard-you behold I-have-blessed [object-marker]-him and-I-will-make-fruitful [object-marker]-him and-I-will-multiply [object-marker]-him in-very very twelve chiefs he-will-beget and-I-will-give-him to-nation great",
+   "tokens": [
+    {
+     "id": "17:20.1",
+     "gloss": "and as for Ishmael",
+     "note": "ו + ל + name: 'as for Ishmael'; the name means 'God hears'"
+    },
+    {
+     "id": "17:20.2",
+     "gloss": "I have heard you",
+     "note": "perfect with suffix; Qal of שמע, which the entry does not list"
+    },
+    {
+     "id": "17:20.3",
+     "gloss": "look"
+    },
+    {
+     "id": "17:20.4",
+     "gloss": "I have blessed",
+     "sense": "Pi 2",
+     "note": "perfect (qatal), not weqatal"
+    },
+    {
+     "id": "17:20.5",
+     "gloss": "him",
+     "note": "object marker with suffix"
+    },
+    {
+     "id": "17:20.6",
+     "gloss": "and I will make fruitful",
+     "sense": "Hiph 2",
+     "note": "weqatal"
+    },
+    {
+     "id": "17:20.7",
+     "gloss": "him",
+     "note": "object marker with suffix"
+    },
+    {
+     "id": "17:20.8",
+     "gloss": "and I will increase",
+     "sense": "Hiph 1",
+     "note": "weqatal"
+    },
+    {
+     "id": "17:20.9",
+     "gloss": "him",
+     "note": "object marker with suffix"
+    },
+    {
+     "id": "17:20.10",
+     "gloss": "exceedingly",
+     "sense": "2",
+     "note": "בִּמְאֹד מְאֹד, a doubled intensive"
+    },
+    {
+     "id": "17:20.11",
+     "gloss": "exceedingly",
+     "sense": "2",
+     "note": "doubling"
+    },
+    {
+     "id": "17:20.12",
+     "gloss": "twelve",
+     "note": "dual of 'two', used in the number twelve"
+    },
+    {
+     "id": "17:20.13",
+     "gloss": "[ten]",
+     "note": "part of the number twelve"
+    },
+    {
+     "id": "17:20.14",
+     "gloss": "chieftains",
+     "note": "Rashi reads it as 'clouds'"
+    },
+    {
+     "id": "17:20.15",
+     "gloss": "he will beget",
+     "sense": "Hiph 1",
+     "note": "Hiphil yiqtol of ילד, of the father"
+    },
+    {
+     "id": "17:20.16",
+     "gloss": "and I will make him",
+     "sense": "Qal 3",
+     "note": "'give' in the sense 'make, constitute'; weqatal with suffix"
+    },
+    {
+     "id": "17:20.17",
+     "gloss": "into a nation"
+    },
+    {
+     "id": "17:20.18",
+     "gloss": "great",
+     "sense": "10"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:20.1",
+      "17:20.2"
+     ],
+     "english": "As for Ishmael I have heard you",
+     "literal": "'and-to-Ishmael I-have-heard-you'"
+    },
+    {
+     "tokens": [
+      "17:20.3",
+      "17:20.4",
+      "17:20.5"
+     ],
+     "english": "Look I have blessed him",
+     "literal": "'behold I-have-blessed [object-marker]-him'"
+    },
+    {
+     "tokens": [
+      "17:20.6",
+      "17:20.7"
+     ],
+     "english": "will make him fruitful",
+     "literal": "'and-I-will-make-fruitful [object-marker]-him'"
+    },
+    {
+     "tokens": [
+      "17:20.8",
+      "17:20.9"
+     ],
+     "english": "and will increase him",
+     "literal": "'and-I-will-multiply [object-marker]-him'"
+    },
+    {
+     "tokens": [
+      "17:20.10",
+      "17:20.11"
+     ],
+     "english": "exceedingly",
+     "literal": "'in-very very': a doubled intensive"
+    },
+    {
+     "tokens": [
+      "17:20.12",
+      "17:20.13",
+      "17:20.14",
+      "17:20.15"
+     ],
+     "english": "He will father twelve chieftains",
+     "literal": "'twelve chiefs he-will-beget'"
+    },
+    {
+     "tokens": [
+      "17:20.16",
+      "17:20.17",
+      "17:20.18"
+     ],
+     "english": "and I will make him a great nation",
+     "literal": "'and-I-will-give-him to-nation great'"
+    }
+   ],
+   "grammar": [
+    "הִנֵּה is 'look', calling attention to what is already done: בֵּרַכְתִּי is a perfect.",
+    "The following weqatal verbs (וְהִפְרֵיתִי, וְהִרְבֵּיתִי) are future.",
+    "בִּמְאֹד מְאֹד is a doubled adverb for the superlative.",
+    "שְׁנֵים־עָשָׂר נְשִׂיאִם: the number precedes the noun; Rashi reads נְשִׂיאִם as clouds, so I note the other sense.",
+    "The zinor and the double segol accents over וּלְיִשְׁמָעֵאל שְׁמַעְתִּיךָ mark a pausing unit."
+   ],
+   "note": "וּלְיִשְׁמָעֵאל שְׁמַעְתִּיךָ plays on the name יִשְׁמָעֵאל ('God hears'); the English cannot, so the point goes here. The verb שָׁמַע is Qal here, and the entry lists no Qal sense, so I give no sense for it. In the Hebrew שְׁנֵים עָשָׂר is a single number; the token for 'twelve' and 'ten' are combined in 'twelve'. Rashi glosses נְשִׂיאִם as 'clouds', with Prov 25:14 נְשִׂיאִים וְרוּחַ; the English reads 'chieftains', the common sense, and records Rashi.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:20:1",
+     "relation": "records",
+     "summary": "Rashi: נְשִׂיאִם, 'they will pass away like clouds', as in נְשִׂיאִים וְרוּחַ (Prov 25:14). The English keeps the plain sense 'chieftains'."
+    },
+    {
+     "anchor": "radak:17:20:1",
+     "relation": "follows",
+     "summary": "Radak: 'I have blessed him to be fruitful and multiply and to give him greatness.'"
+    },
+    {
+     "anchor": "radak:17:20:2",
+     "relation": "not-applicable",
+     "summary": "Radak: twelve will come from his sons as from Isaac."
+    },
+    {
+     "anchor": "radak:17:20:3",
+     "relation": "records",
+     "summary": "Radak: the blessing was by the angel who appeared to Hagar, 'I will bless Ishmael'; the covenant is kept with Isaac."
+    },
+    {
+     "anchor": "onkelos:17:20:1",
+     "relation": "records",
+     "summary": "Onkelos: 'I have received your prayer'; so 'I have heard you' is rendered as 'I have heard your prayer'."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "17:21",
+   "english": "But I will establish my covenant with Isaac, whom Sarah will bear for you at this appointed time next year.",
+   "literal": "and-[object-marker] covenant-of-me I-will-establish with Isaac whom she-will-bear to-you Sarah at-the-appointed-time the-this in-the-year the-other",
+   "tokens": [
+    {
+     "id": "17:21.1",
+     "gloss": "but",
+     "note": "ו with the object marker; the contrast with Ishmael"
+    },
+    {
+     "id": "17:21.2",
+     "gloss": "my covenant",
+     "sense": "II.2",
+     "note": "object fronted for contrast"
+    },
+    {
+     "id": "17:21.3",
+     "gloss": "I will establish",
+     "sense": "Hiph 2.a",
+     "note": "yiqtol of קוּם, Hiphil"
+    },
+    {
+     "id": "17:21.4",
+     "gloss": "[with]",
+     "sense": "1",
+     "note": "אֵת here is the preposition 'with'"
+    },
+    {
+     "id": "17:21.5",
+     "gloss": "Isaac"
+    },
+    {
+     "id": "17:21.6",
+     "gloss": "whom"
+    },
+    {
+     "id": "17:21.7",
+     "gloss": "will bear",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "17:21.8",
+     "gloss": "for you"
+    },
+    {
+     "id": "17:21.9",
+     "gloss": "Sarah"
+    },
+    {
+     "id": "17:21.10",
+     "gloss": "at the appointed time",
+     "sense": "1",
+     "note": "'at the set time'"
+    },
+    {
+     "id": "17:21.11",
+     "gloss": "this"
+    },
+    {
+     "id": "17:21.12",
+     "gloss": "in the year"
+    },
+    {
+     "id": "17:21.13",
+     "gloss": "the next",
+     "note": "'the other, the following'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:21.1",
+      "17:21.2",
+      "17:21.3",
+      "17:21.4",
+      "17:21.5"
+     ],
+     "english": "But I will establish my covenant with Isaac",
+     "literal": "'and-[object-marker] covenant-of-me I-will-establish with Isaac': the covenant is placed first"
+    },
+    {
+     "tokens": [
+      "17:21.6",
+      "17:21.7",
+      "17:21.8",
+      "17:21.9"
+     ],
+     "english": "whom Sarah will bear for you",
+     "literal": "'whom she-will-bear to-you Sarah'"
+    },
+    {
+     "tokens": [
+      "17:21.10",
+      "17:21.11"
+     ],
+     "english": "at this appointed time",
+     "literal": "'at-the-appointed-time the-this'"
+    },
+    {
+     "tokens": [
+      "17:21.12",
+      "17:21.13"
+     ],
+     "english": "next year",
+     "literal": "'in-the-year the-other'"
+    }
+   ],
+   "grammar": [
+    "The object וְאֶת־בְּרִיתִי is put first for contrast with Ishmael (17:20): 'but my covenant ... with Isaac'.",
+    "אֲשֶׁר is the relative 'whom', the object of תֵּלֵד.",
+    "לַמּוֹעֵד הַזֶּה, 'at this appointed time', means the same season a year on.",
+    "הָאַחֶרֶת is 'the other' and so 'the next'."
+   ],
+   "note": "Radak: the time between prophecy and birth was a year; he does not say when the pregnancy began. The first word is וְ 'and', rendered 'but' because of the contrast. אֵת at 17:21.4 is a preposition (with), at 17:21.1 the object marker.",
+   "commentary": [
+    {
+     "anchor": "radak:17:21:1",
+     "relation": "follows",
+     "summary": "Radak: לַמּוֹעֵד הַזֶּה means 'at this time'; we do not know in what season this prophecy was given."
+    },
+    {
+     "anchor": "radak:17:21:3",
+     "relation": "follows",
+     "summary": "Radak: the interval between the prophecy and the birth was a year; the time of the pregnancy is not said. Our rabbis: Isaac was born at Passover and Sarah was visited at Rosh Hashanah."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "17:22",
+   "english": "When he had finished speaking with him, God went up from Abraham.",
+   "literal": "and-he-finished to-speak with-him and-went-up God from-upon Abraham",
+   "tokens": [
+    {
+     "id": "17:22.1",
+     "gloss": "and he finished",
+     "sense": "Pi 1.d",
+     "note": "wayyiqtol, Piel, 3rd masc. sg."
+    },
+    {
+     "id": "17:22.2",
+     "gloss": "to speak",
+     "sense": "Pi",
+     "note": "infinitive construct with ל"
+    },
+    {
+     "id": "17:22.3",
+     "gloss": "with him",
+     "sense": "1"
+    },
+    {
+     "id": "17:22.4",
+     "gloss": "and went up",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "17:22.5",
+     "gloss": "God",
+     "sense": "4"
+    },
+    {
+     "id": "17:22.6",
+     "gloss": "from upon",
+     "sense": "IV.2",
+     "note": "מֵעַל: 'from over, from upon'"
+    },
+    {
+     "id": "17:22.7",
+     "gloss": "Abraham"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:22.1",
+      "17:22.2",
+      "17:22.3"
+     ],
+     "english": "When he had finished speaking with him",
+     "literal": "'and-he-finished to-speak with-him': a temporal clause in English"
+    },
+    {
+     "tokens": [
+      "17:22.4",
+      "17:22.5"
+     ],
+     "english": "God went up",
+     "literal": "'and-went-up God'"
+    },
+    {
+     "tokens": [
+      "17:22.6",
+      "17:22.7"
+     ],
+     "english": "from Abraham",
+     "literal": "'from-upon Abraham'"
+    }
+   ],
+   "grammar": [
+    "וַיְכַל לְדַבֵּר is 'he finished speaking'; the subject is God, from the previous verse.",
+    "וַיַּעַל is 'went up' and מֵעַל is 'from upon': the verb pictures God leaving Abraham's side.",
+    "The etnaḥta on אִתּוֹ separates the end of the speech from the departure."
+   ],
+   "note": "The subject of וַיְכַל is God, 'he' in the English. The wording 'went up from upon Abraham' is respectful of God (Rashi, Ramban): the righteous are God's chariot, a homily on the verb 'went up'; the English keeps the literal verb.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:22:1",
+     "relation": "follows",
+     "summary": "Rashi: 'from upon Abraham' is a clean way to speak of the Divine Presence; the righteous are the chariot of God (Genesis Rabbah)."
+    },
+    {
+     "anchor": "ramban:17:22:1",
+     "relation": "records",
+     "summary": "Ramban: the same as Rashi, and the Genesis Rabbah reading that the patriarchs are the chariot."
+    },
+    {
+     "anchor": "radak:17:22:1",
+     "relation": "follows",
+     "summary": "Radak: until here he finished speaking to him that day."
+    },
+    {
+     "anchor": "radak:17:22:2",
+     "relation": "follows",
+     "summary": "Radak: his visible glory withdrew from him at the end of this prophecy."
+    },
+    {
+     "anchor": "onkelos:17:22:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'the glory of the LORD went up from Abraham'; the English keeps 'God'."
+    },
+    {
+     "anchor": "sforno:17:22:1",
+     "relation": "records",
+     "summary": "Sforno: the opposite of 'Cain went out from before the LORD' (4:16)."
+    }
+   ],
+   "apparatus": []
+  }
+ ]
+}

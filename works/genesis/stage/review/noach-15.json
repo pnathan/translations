@@ -1,0 +1,93 @@
+{
+ "unit": "noach-15",
+ "model": "opus",
+ "summary": "The unit is accurate: the English of all six verses carries the Hebrew, and it agrees with Rashi and Ibn Ezra on גְּבוּל, בֹּאֲכָה and the closing formula. The faults are in the analysis. Two senses were filled mechanically: וַיְהִי in 10:19 was given 'come to pass' where the border 'was, lay', and spatial עַד was given the temporal sense 'until'. Rashi's comment on בֹּאֲכָה was misread (שֵׁם דָּבָר is a verbal noun, not 'a noun'), and it was ruled 'records' although the English follows it. The 10:18 note says the English follows Radak while the ruling records him. The 10:19 accent note leaves out the etnaḥta, which is the main division of the verse.",
+ "patches": [
+  {
+   "ref": "10:18",
+   "path": "note",
+   "value": "Radak reads 'afterward' as after the division of the peoples (הַפַּלָּגָה, the dispersion at Babel); Rashi does not give the time, only that many clans spread out from these peoples. The English 'afterward' leaves the time open, and Radak's reading is recorded.",
+   "severity": "error",
+   "reason": "The note said the English reads 'afterward' with Radak and, in the same breath, that the English does not decide the time; the ruling marks Radak as 'records'. The note now states the translator's actual position."
+  },
+  {
+   "ref": "10:19",
+   "path": "token:10:19.1.sense",
+   "value": "Qal III.3",
+   "severity": "error",
+   "reason": "Qal I.2 is 'come about, come to pass', the narrative וַיְהִי. Here וַיְהִי has a subject, גְּבוּל, and means that the border was, lay, ran from Sidon to Lasha: 'be in, at a place, be situated, lie' (Qal III.3)."
+  },
+  {
+   "ref": "10:19",
+   "path": "token:10:19.7.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense II.1 is temporal 'until'. Here עַד is spatial, 'as far as' Gaza; the pack lists only the temporal senses (II.1 to II.3) of the entry, so no listed sense fits and the sense is removed."
+  },
+  {
+   "ref": "10:19",
+   "path": "token:10:19.7.note",
+   "value": "spatial עַד, 'as far as'. The pack lists only the temporal senses of the entry (II, 'until', 'while'), so no sense is given.",
+   "severity": "error",
+   "reason": "The removed sense is explained in the token's note, as the brief requires."
+  },
+  {
+   "ref": "10:19",
+   "path": "token:10:19.14.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "As at 10:19.7: עַד לָשַׁע is spatial, 'as far as Lasha', not the temporal 'until' of II.1; the pack lists no spatial sense."
+  },
+  {
+   "ref": "10:19",
+   "path": "token:10:19.14.note",
+   "value": "spatial עַד, 'as far as'. The pack lists only the temporal senses of the entry (II, 'until', 'while'), so no sense is given.",
+   "severity": "error",
+   "reason": "The removed sense is explained in the token's note."
+  },
+  {
+   "ref": "10:19",
+   "path": "grammar",
+   "value": [
+    "בֹּאֲכָה is an infinitive construct of בוא with the long form of the 2nd person masculine singular suffix (-כָה for -ךָ), 'your coming'; it works as an idiom 'as you come to', 'in the direction of'.",
+    "The directional he on גְרָרָה and סְדֹמָה means 'to Gerar', 'to Sodom'.",
+    "The etnaḥta on עַזָּה divides the verse in two: the line from Sidon toward Gerar as far as Gaza, then the line toward Sodom and the cities with it as far as Lasha. Within each half the zaqef qaton and the gershayim mark lesser breaks.",
+    "Sodom, Gomorrah, Admah and Zeboiim are listed with a waw on each of the last three."
+   ],
+   "severity": "error",
+   "reason": "The third note made the gershayim and zaqef qaton the main divisions and left out the etnaḥta on עַזָּה, which is the main divider of the verse. The first note now also names the long suffix form, which a first-year student will not recognise; the last note is reworded (the waw is on each of the last three, not between them)."
+  },
+  {
+   "ref": "10:19",
+   "path": "note",
+   "value": "בֹּאֲכָה, literally 'your coming', is rendered 'toward'. Ibn Ezra glosses בֹּאֲכָה גְרָרָה as אֶל גְּרָר, 'to Gerar'; Rashi takes the word as a verbal noun and explains it as a man telling his friend that the border reaches until you come to the border of a given place. The two readings agree, and the English follows both.",
+   "severity": "error",
+   "reason": "The note called Rashi's explanation an alternative that is 'recorded' while saying the English fits it; Rashi and Ibn Ezra agree here, and the English follows both. The last sentence of the old note said nothing about the words."
+  },
+  {
+   "ref": "10:19",
+   "path": "commentary:rashi:10:19:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: בֹּאֲכָה is a שֵׁם דָּבָר, a verbal noun ('your coming'). 'And it seems to me' it is like a man saying to his friend: this border reaches until you come to the border of so-and-so. The English 'toward' follows this."
+   },
+   "severity": "error",
+   "reason": "The summary said Rashi takes בֹּאֲכָה as 'a noun'; שֵׁם דָּבָר is the verbal noun, the infinitive, which agrees with the pack's parse. And the relation was 'records' although the English adopts Rashi's sense, which is the same as Ibn Ezra's."
+  },
+  {
+   "ref": "10:20",
+   "path": "commentary:ibn-ezra:10:20:1.relation",
+   "value": "not-applicable",
+   "severity": "error",
+   "reason": "Ibn Ezra only notes that the same formula is said of the sons of Japheth and the sons of Shem: a cross-reference, which the brief rules 'not-applicable'. It decides nothing in the English, so 'follows' is wrong."
+  }
+ ],
+ "verdicts": [
+  {"anchor": "rashi:10:18:1", "verdict": "consistent", "comment": "Rashi: from these peoples many clans spread out. The English 'the clans of the Canaanites spread out' agrees."},
+  {"anchor": "rashi:10:19:1", "verdict": "consistent", "comment": "גְּבוּל as the end and edge of the land: the English 'border'."},
+  {"anchor": "rashi:10:19:2", "verdict": "consistent", "comment": "'Until you come to' is carried by 'toward'; the relation is corrected to 'follows'."},
+  {"anchor": "ibn-ezra:10:19:1", "verdict": "consistent", "comment": "אֶל גְּרָר: 'toward Gerar'."},
+  {"anchor": "rashi:10:20:1", "verdict": "consistent", "comment": "The English keeps 'These are the sons of Ham' over all four divisions."},
+  {"anchor": "ibn-ezra:10:20:1", "verdict": "not-applicable", "comment": "A cross-reference to the same formula for Japheth and Shem."}
+ ]
+}

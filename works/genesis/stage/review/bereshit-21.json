@@ -1,0 +1,241 @@
+{
+ "unit": "bereshit-21",
+ "model": "opus",
+ "summary": "The English of 5:32-6:4 is mostly accurate and follows Rashi on ידון, לעלם and the 120 years. Three points in the English need correction: הַנְּפִלִים is left as 'Nephilim' although Rashi (in Hebrew it means giants), Ibn Ezra, Radak and the lexicon agree on 'giants'; 'since they too are flesh' gives Ramban's comparative reading of גַּם, where Rashi and Ibn Ezra take it as additive ('since they are also flesh'); and Ibn Ezra on בני האלהים is misreported throughout: his own preference is neither the judges nor the sons of Seth but those who knew the knowledge of the Most High, so the English follows Rashi and Ibn Ezra must be recorded, not followed. Rashi on 5:32 is misreported (God, not Noah, held back the begetting), the translator's note on אנשי השם gives Rashi a reading ('renown') he does not have, and some learner notes are false (the number חֲמֵשׁ agrees with מֵאוֹת, not שָׁנָה; the pronoun הֵמָּה is the subject, not a copula between subject and predicate). One sense of יוֹם is corrected. הָאָדָם is rendered 'humankind' against the decision 'the human'; the translator gives a reason (Radak: the species) and the sense is correct, so it is not patched, but the owner may wish to confirm the exception.",
+ "patches": [
+  {
+   "ref": "5:32",
+   "path": "token:5:32.4.note",
+   "value": "the form without final ה, used with feminine nouns; it counts the feminine מֵאוֹת ('five hundreds'), not שָׁנָה",
+   "severity": "error",
+   "reason": "In חֲמֵשׁ מֵאוֹת שָׁנָה the number five counts the hundreds; its gender form goes with מֵאָה (feminine), not with שָׁנָה."
+  },
+  {
+   "ref": "5:32",
+   "path": "commentary:rashi:5:32:1.summary",
+   "value": "Rashi (from Bereshit Rabbah): every earlier generation begot at about a hundred, but Noah at five hundred. God said: if his sons are wicked they will perish in the water, and that is hard for this righteous man; if they are righteous I would burden him with building many arks. So God restrained his fountain (כָּבַשׁ אֶת מַעְיָנוֹ) until five hundred, so that Japheth, the eldest, would not reach a hundred, the age of liability to punishment, before the Flood. A homily on the age, not on the words' sense.",
+   "severity": "error",
+   "reason": "The summary made Noah the one who withheld begetting. In Rashi it is God who speaks and who 'restrained his fountain' (Radak's quotation of the midrash has כָּבַשׁ הַקָּדוֹשׁ בָּרוּךְ הוּא מַעְיָנוֹ); the reasons given were also left out."
+  },
+  {
+   "ref": "6:1",
+   "path": "commentary:radak:6:1:2",
+   "value": {"relation": "not-applicable", "summary": "Radak: there was no need to say that daughters were born, since the world cannot exist without males and females; the text tells of the daughters because men strayed after them and they caused the corruption of the earth told below."},
+   "severity": "error",
+   "reason": "Radak says the statement would be unnecessary as information and explains why it is told; the summary said the opposite ('is needed'). It is no alternative reading of the words, so 'records' is wrong."
+  },
+  {
+   "ref": "6:2",
+   "path": "token:6:2.3.note",
+   "value": "אֱלֹהִים is plural in form; 'rulers, judges' is Rashi's first reading, with Onkelos (בני רברביא), Ramban and Radak, and the first reading Ibn Ezra lists; other readings, among them Ibn Ezra's own preference, are in the apparatus",
+   "severity": "error",
+   "reason": "Ibn Ezra lists the judges first but prefers another reading (והישר בעיני: those who knew the knowledge of the Most High)."
+  },
+  {
+   "ref": "6:2",
+   "path": "phrases",
+   "value": [
+    {"tokens": ["6:2.1"], "english": "saw", "literal": "'and-saw'"},
+    {"tokens": ["6:2.2", "6:2.3"], "english": "The sons of the rulers", "literal": "'sons-of the-gods'; אֱלֹהִים read as rulers or judges, following Rashi and Onkelos"},
+    {"tokens": ["6:2.4", "6:2.5", "6:2.6"], "english": "the daughters of humankind", "literal": "'[obj] daughters-of the-human'; the object marker has no English counterpart"},
+    {"tokens": ["6:2.7"], "english": "that", "literal": "'that'"},
+    {"tokens": ["6:2.8", "6:2.9"], "english": "were beautiful", "literal": "'good they'; a verbless clause"},
+    {"tokens": ["6:2.10", "6:2.11", "6:2.12"], "english": "they took wives for themselves", "literal": "'and-took for-them women'"},
+    {"tokens": ["6:2.13", "6:2.14", "6:2.15"], "english": "from all whom they chose", "literal": "'from-all that they-chose'"}
+   ],
+   "severity": "error",
+   "reason": "The second phrase claimed the reading follows Ibn Ezra; he reports it but prefers another. The English fragments are unchanged."
+  },
+  {
+   "ref": "6:2",
+   "path": "token:6:2.12.gloss",
+   "value": "wives",
+   "severity": "style",
+   "reason": "The sense given is 2 'wife', and the English line has 'wives'; the gloss should give the sense in this context."
+  },
+  {
+   "ref": "6:2",
+   "path": "note",
+   "value": "Per decisions, אֱלֹהִים of beings other than the God of Israel takes the sense of the normative commentators. Here they differ. Rashi's first reading, with Onkelos (בני רברביא), Ramban and Radak, is 'the sons of the princes and judges' (Rashi: every אֱלֹהִים in Scripture is an expression of authority), and Ibn Ezra lists it first; the English follows Rashi. Rashi's other reading (the angelic princes who go on God's errands) and Ibn Ezra's others (the holy ones; the sons of Seth; and his own preference, those who knew the knowledge of the Most High and chose their wives by the order of the heavens) are recorded below. The Hebrew טֹבֹת is spelled defectively; Rashi's homily from the spelling is not an issue for the plain sense.",
+   "severity": "error",
+   "reason": "The note called the judges Ibn Ezra's 'main gloss'. Ibn Ezra closes with והישר בעיני and a different reading, so Rashi and Ibn Ezra do not agree here; the English rests on Rashi alone."
+  },
+  {
+   "ref": "6:2",
+   "path": "commentary:ibn-ezra:6:2:1",
+   "value": {"relation": "records", "summary": "Ibn Ezra lists readings of בני האלהים: the sons of the judges, who did God's justice on earth; some say that אלהים here means 'holy' and the sons are the holy ones, as in 'you are children' (Dt 14:1); some say the sons of Seth, the daughters being of Cain's family. 'The right in my eyes' (והישר בעיני) is that they were those who knew the knowledge of the Most High and chose wives whose configuration of the heavens matched each man, so that their offspring were like the begetting, and mighty men came from them; they may also have taken the women by force. The English follows Rashi's 'rulers', the first reading Ibn Ezra lists, not his preference."},
+   "severity": "error",
+   "reason": "The summary made Ibn Ezra prefer the sons of Seth and merged that view with his own, which he gives separately after והישר בעיני. Since the English does not adopt his preferred reading, the relation is 'records', not 'follows'."
+  },
+  {
+   "ref": "6:2",
+   "path": "apparatus",
+   "value": [
+    "אֱלֹהִים here: rulers or judges (Rashi's first reading, the first Ibn Ezra lists, Ramban, Radak, Onkelos בני רברביא); the angelic princes who go on God's errands (Rashi's other reading; Radak calls the midrash of Azza and Azael far-fetched); 'the holy ones' (reported by Ibn Ezra); the sons of Seth, with the daughters of Cain's line (reported by Ibn Ezra); those who knew the knowledge of the Most High and chose their wives by the order of the heavens (Ibn Ezra's own preference, quoted by Radak).",
+    "Onkelos renders טֹבֹת with שַׁפִּירָן, 'beautiful'.",
+    "בָּחָרוּ: Onkelos has דִּי אִתְרְעִיאוּ, 'whom they desired'."
+   ],
+   "severity": "error",
+   "reason": "The first line named the sons of Seth as Ibn Ezra's preferred reading and left out the reading he actually prefers."
+  },
+  {
+   "ref": "6:3",
+   "path": "english",
+   "value": "Then the LORD said, \"My spirit will not contend over humankind for long, since they are also flesh; their days will be one hundred and twenty years.\"",
+   "severity": "error",
+   "reason": "Rashi (בִּשְׁבִיל שֶׁגַּם זֹאת בוֹ, שֶׁהוּא בָשָׂר: 'because this too is in him, that he is flesh') and Ibn Ezra (וְעוֹד בַּעֲבוּר שֶׁהָאָדָם בָּשָׂר: 'and further because man is flesh') both take גַּם as adding a further fact about man. 'They too are flesh' reads as 'they, like other creatures, are flesh', the comparative reading of Ramban and Radak."
+  },
+  {
+   "ref": "6:3",
+   "path": "phrases",
+   "value": [
+    {"tokens": ["6:3.1", "6:3.2"], "english": "Then the LORD said", "literal": "'and-said the-LORD'"},
+    {"tokens": ["6:3.3", "6:3.4", "6:3.5"], "english": "My spirit will not contend", "literal": "'not will-contend my-spirit'; Rashi's sense of ידון as 'quarrel'"},
+    {"tokens": ["6:3.6"], "english": "over humankind", "literal": "'in-the-human'; Rashi: 'on account of the human'"},
+    {"tokens": ["6:3.7"], "english": "for long", "literal": "'for-ever'; Rashi: לְאֹרֶךְ יָמִים"},
+    {"tokens": ["6:3.8", "6:3.9", "6:3.10"], "english": "since they are also flesh", "literal": "'in-since-also he flesh'; Rashi and Ibn Ezra: גַּם adds a further fact, 'this too is in him, that he is flesh'; 'he' is the collective human, so English 'they'"},
+    {"tokens": ["6:3.11", "6:3.12"], "english": "their days will be", "literal": "'and-will-be his-days'"},
+    {"tokens": ["6:3.13", "6:3.14", "6:3.15"], "english": "one hundred and twenty years", "literal": "'hundred and-twenty year'"}
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fifth fragment."
+  },
+  {
+   "ref": "6:3",
+   "path": "grammar",
+   "value": [
+    "יָדוֹן is a rare and disputed form. Rashi: it means 'quarrel, contend' (he speaks of a מָדוֹן, a strife, in God's spirit). Ibn Ezra reports two views: 'sheath' (as נָדָן, 1 Chr 21:27, the body being the spirit's sheath), with ידון then from another, hollow root; or from דין, 'judge'. His own sense is 'will not abide' (לֹא יַעֲמֹד). Radak explains the 'sheath' form as a lost nun.",
+    "בְּשַׁגַּם: Rashi and Ibn Ezra take the שַׁ as the relative שֶׁ, with the vowel changed: 'since also'.",
+    "וְהָיוּ is a weqatal: the days 'will be' 120 years, a grant of time.",
+    "The etnaḥta after בָשָׂר divides the verse into the sentence of decision and the term granted."
+   ],
+   "severity": "error",
+   "reason": "The first note gave the lost nun to Ibn Ezra, who says the 'sheath' reading needs another root of the hollow type (like שִׂיאוֹ, Job 20:6); the lost nun is Radak's explanation. Ibn Ezra's own sense 'will not abide' was missing."
+  },
+  {
+   "ref": "6:3",
+   "path": "commentary:rashi:6:3:3.summary",
+   "value": "Rashi: בְּשַׁגַּם is as בְּשֶׁגַּם: 'because this too is in him, that he is flesh, and even so he does not submit before me; what then if he were fire or something hard?' The שַׁ is the relative שֶׁ, as in שַׁקַּמְתִּי (Jgs 5:7) and שָׁאַתָּה (Jgs 6:17).",
+   "severity": "style",
+   "reason": "Unpointed, 'בשגם is like בשגם with segol' says nothing; the pointing and Rashi's second example make the point."
+  },
+  {
+   "ref": "6:4",
+   "path": "english",
+   "value": "The giants were on the earth in those days, and also afterward, whenever the sons of the rulers came to the daughters of humankind and they bore children to them. They were the warriors of old, the men of renown.",
+   "severity": "error",
+   "reason": "Rashi says that in Hebrew נְפִלִים is the word for giants (בְּלָשׁוֹן עִבְרִית לְשׁוֹן עֲנָקִים הוּא); Ibn Ezra explains the name by the astonishment at their height; Radak (הֵם הָעֲנָקִים) and the lexicon ('giants') agree. The normative commentators agree on the sense, so the English gives it rather than leaving the word untranslated."
+  },
+  {
+   "ref": "6:4",
+   "path": "phrases",
+   "value": [
+    {"tokens": ["6:4.1", "6:4.2"], "english": "The giants were", "literal": "'the-Nephilim were'; Rashi: in Hebrew the word means giants"},
+    {"tokens": ["6:4.3"], "english": "on the earth", "literal": "'in-the-earth'"},
+    {"tokens": ["6:4.4", "6:4.5"], "english": "in those days", "literal": "'in-the-days the-those'"},
+    {"tokens": ["6:4.6", "6:4.7", "6:4.8"], "english": "and also afterward", "literal": "'and-also after-so'"},
+    {"tokens": ["6:4.9", "6:4.10", "6:4.11", "6:4.12"], "english": "whenever the sons of the rulers came", "literal": "'that will-come sons-of the-gods'; the yiqtol is iterative"},
+    {"tokens": ["6:4.13", "6:4.14", "6:4.15"], "english": "to the daughters of humankind", "literal": "'to daughters-of the-human'"},
+    {"tokens": ["6:4.16", "6:4.17"], "english": "and they bore children to them", "literal": "'and-bore to-them'; the children are the implied object"},
+    {"tokens": ["6:4.18", "6:4.19"], "english": "They were the warriors", "literal": "'they the-warriors'; a verbless clause"},
+    {"tokens": ["6:4.20", "6:4.21"], "english": "of old", "literal": "'that from-ever'"},
+    {"tokens": ["6:4.22", "6:4.23"], "english": "the men of renown", "literal": "'men-of the-name'"}
+   ],
+   "severity": "error",
+   "reason": "The new English changed the first fragment."
+  },
+  {
+   "ref": "6:4",
+   "path": "token:6:4.1.gloss",
+   "value": "the giants",
+   "severity": "error",
+   "reason": "The gloss gives the sense in context; Rashi, Ibn Ezra, Radak and the lexicon agree on 'giants'."
+  },
+  {
+   "ref": "6:4",
+   "path": "token:6:4.1.note",
+   "value": "often transliterated 'Nephilim'; Rashi: named for falling and making the world fall, and in Hebrew the word for giants; Ibn Ezra and Radak: the heart of one who sees them falls, astonished at their height",
+   "severity": "error",
+   "reason": "With the English rendering the sense, the learner needs the word and its explanations here."
+  },
+  {
+   "ref": "6:4",
+   "path": "token:6:4.4.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 is 'day' as opposed to night; בַּיָּמִים הָהֵם is a span of time, the plural 'days' of sense 4 (as the translator gave for יָמָיו in 6:3)."
+  },
+  {
+   "ref": "6:4",
+   "path": "grammar",
+   "value": [
+    "הַנְּפִלִים: Rashi says that in Hebrew the word means 'giants' (עֲנָקִים), and gives a reason for the name: they fell and made the world fall. Ibn Ezra and Radak: the heart of one who sees them falls, astonished at their height.",
+    "יָבֹאוּ is a yiqtol after אֲשֶׁר that, with the weqatal וְיָלְדוּ, expresses repeated action: 'whenever they came ... and bore'.",
+    "הֵמָּה הַגִּבֹּרִים is a verbless clause: the pronoun הֵמָּה ('they') is the subject and הַגִּבֹּרִים the predicate. The darga on הֵמָּה is conjunctive and binds it to the next word; the tevir on הַגִּבֹּרִים is disjunctive.",
+    "מֵעוֹלָם: 'from of old', from long ago; אַנְשֵׁי הַשֵּׁם: 'men of the name', men of fame."
+   ],
+   "severity": "error",
+   "reason": "The first note said the word is left untranslated. The third described a pronoun standing between subject and predicate, but here הֵמָּה is itself the subject; and the darga is a conjunctive accent, so it does not mark off a unit."
+  },
+  {
+   "ref": "6:4",
+   "path": "note",
+   "value": "הַנְּפִלִים is rendered 'giants': Rashi says this is the word's meaning in Hebrew (לְשׁוֹן עֲנָקִים), Ibn Ezra and Radak explain the name by their height, and the lexicon gives 'giants'; the transliteration 'Nephilim' is given in the token note. וְגַם אַחֲרֵי כֵן: Rashi 'afterward', even though they had seen the destruction of the generation of Enosh; Ibn Ezra 'after the Flood'. The English 'and also afterward' keeps both. הַגִּבֹּרִים are 'warriors' (mighty men); Rashi adds 'to rebel against God'. אַנְשֵׁי הַשֵּׁם: Rashi gives two midrashic readings: the men designated by names that speak of destruction (Irad, Mehujael, Methushael), and 'men of desolation' (שִׁמָּמוֹן). The English 'men of renown' follows Radak (they had a name in the mouths of later generations) and Onkelos (אֱנָשִׁין דִּשְׁמָא); Rashi's readings are recorded. The lexicon lists a single sense for the Nephilim entry, which is not a path; the sense is therefore omitted below.",
+   "severity": "error",
+   "reason": "The note said Rashi gives 'men of renown' as the plain reading; neither of his readings is 'renown'. It also called the Hebrew of הַנְּפִלִים unclear, against Rashi's explicit statement of its meaning."
+  },
+  {
+   "ref": "6:4",
+   "path": "commentary:rashi:6:4:1",
+   "value": {"relation": "follows", "summary": "Rashi: they are called נְפִלִים because they fell and made the world fall; in Hebrew the word means giants (עֲנָקִים). The English follows."},
+   "severity": "error",
+   "reason": "With the English 'giants', the relation is 'follows'."
+  },
+  {
+   "ref": "6:4",
+   "path": "commentary:ibn-ezra:6:4:1",
+   "value": {"relation": "follows", "summary": "Ibn Ezra: נְפִילִים means that the heart of one who sees them falls, in wonder at their height. The English 'giants' follows."},
+   "severity": "error",
+   "reason": "With the English 'giants', the relation is 'follows'."
+  },
+  {
+   "ref": "6:4",
+   "path": "commentary:radak:6:4:2.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "Radak: הֵם הָעֲנָקִים; the English now follows him."
+  },
+  {
+   "ref": "6:4",
+   "path": "commentary:rashi:6:4:6.summary",
+   "value": "Rashi: אנשי השם are those designated by names that speak of destruction, Irad, Mehujael, Methushael, for they were blotted out (נִמֹּחוּ) and uprooted (הֻתְּשׁוּ); another reading: אַנְשֵׁי שִׁמָּמוֹן, 'men of desolation', who laid the world waste. The English 'men of renown' follows Radak and Onkelos, not Rashi.",
+   "severity": "error",
+   "reason": "The summary called 'renown' the plain reading as if it were Rashi's; Rashi has no such reading."
+  }
+ ],
+ "verdicts": [
+  {"anchor": "rashi:5:32:1", "verdict": "not-applicable", "comment": "A homily on why Noah begot at five hundred."},
+  {"anchor": "rashi:5:32:2", "verdict": "not-applicable", "comment": "On the order of the sons' names (Japheth the eldest, Shem named first); the English keeps the text's order."},
+  {"anchor": "ibn-ezra:6:1:1", "verdict": "consistent", "comment": "הֵחֵל as Hifil 'began'."},
+  {"anchor": "ibn-ezra:6:1:2", "verdict": "consistent", "comment": "לָרֹב as an infinitive, 'to multiply'."},
+  {"anchor": "rashi:6:2:1", "verdict": "consistent", "comment": "'The sons of the rulers' is Rashi's first reading."},
+  {"anchor": "rashi:6:2:2", "verdict": "not-applicable", "comment": "A homily on the defective spelling טבת."},
+  {"anchor": "rashi:6:2:3", "verdict": "consistent", "comment": "'From all whom they chose' leaves room for Rashi's extension to married women."},
+  {"anchor": "ibn-ezra:6:2:1", "verdict": "contradicts", "comment": "Ibn Ezra prefers 'those who knew the knowledge of the Most High'; Rashi takes the sons of princes and judges. The normative commentators differ, so the English follows Rashi (whose reading Ibn Ezra also lists first) and records Ibn Ezra, as the translator's rules allow."},
+  {"anchor": "rashi:6:3:1", "verdict": "consistent", "comment": "'Will not contend', on account of man."},
+  {"anchor": "rashi:6:3:2", "verdict": "consistent", "comment": "לְעֹלָם as 'for long'."},
+  {"anchor": "rashi:6:3:3", "verdict": "consistent", "comment": "After the patch: 'since they are also flesh', additive גַּם."},
+  {"anchor": "rashi:6:3:4", "verdict": "consistent", "comment": "The 120 years as a term of patience."},
+  {"anchor": "ibn-ezra:6:3:1", "verdict": "contradicts", "comment": "Ibn Ezra reports 'sheath' and 'judge' and himself reads 'will not abide'; the English follows Rashi's 'contend'. They differ, and the English records Ibn Ezra's readings in the apparatus and commentary."},
+  {"anchor": "ibn-ezra:6:3:2", "verdict": "consistent", "comment": "On בְּשַׁגַּם as relative שֶׁ + גַּם, 'since also', the English agrees; his sense of ידון ('will not abide') is recorded under 6:3:1."},
+  {"anchor": "ibn-ezra:6:3:3", "verdict": "consistent", "comment": "The 120 years as a term set for repentance, not a life span."},
+  {"anchor": "rashi:6:4:1", "verdict": "consistent", "comment": "After the patch: 'giants'."},
+  {"anchor": "rashi:6:4:2", "verdict": "consistent", "comment": "'In those days' is open to Rashi's days of Enosh."},
+  {"anchor": "rashi:6:4:3", "verdict": "consistent", "comment": "'And also afterward' carries Rashi's reading."},
+  {"anchor": "rashi:6:4:4", "verdict": "consistent", "comment": "They bore children (giants like themselves)."},
+  {"anchor": "rashi:6:4:5", "verdict": "consistent", "comment": "Rashi's 'to rebel against God' explains their might; 'warriors' does not exclude it."},
+  {"anchor": "rashi:6:4:6", "verdict": "contradicts", "comment": "Rashi's two readings of אַנְשֵׁי הַשֵּׁם are midrashic plays on particular names and on שִׁמָּמוֹן; Ibn Ezra is silent, so there is no agreement of the normative commentators. The English 'men of renown' stays with the literal 'men of the name', as Onkelos and Radak read it, and Rashi is recorded."},
+  {"anchor": "ibn-ezra:6:4:1", "verdict": "consistent", "comment": "After the patch: 'giants', named for their height."},
+  {"anchor": "ibn-ezra:6:4:2", "verdict": "consistent", "comment": "'And also afterward' leaves open his 'after the Flood'."}
+ ]
+}

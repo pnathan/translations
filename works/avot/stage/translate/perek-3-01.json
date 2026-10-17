@@ -1,0 +1,2700 @@
+{
+ "unit": "perek-3-01",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "3:1",
+   "english": "Akavya son of Mahalalel says: Consider three things and you will not come to the point of transgression. Know where you came from, and where you are going, and before whom you are destined to give account and reckoning. Where you came from: from a putrid drop. And where you are going: to a place of dust, maggot and worm. And before whom you are destined to give account and reckoning: before the King of the kings of kings, the Holy One, blessed be He.",
+   "literal": "Akavya son-of Mahalalel says look-at in-three things and-not you coming to-hands-of transgression know from-where you-came and-to-where you going and-before whom you destined to-give judgment and-account from-where you-came from-drop putrid and-to-where you going to-place-of dust maggot and-worm and-before whom you destined to-give judgment and-account before king-of kings-of the-kings the-Holy-One blessed he",
+   "tokens": [
+    {
+     "id": "3:1.1",
+     "gloss": "Akavya",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.2",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.3",
+     "gloss": "Mahalalel",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.4",
+     "gloss": "says",
+     "sense": "1",
+     "note": "participle: \"says\"; the formula introduces a saying attributed to the sage."
+    },
+    {
+     "id": "3:1.5",
+     "gloss": "consider",
+     "sense": "1",
+     "note": "Hitpael imperative of סכל: \"look at, contemplate\"."
+    },
+    {
+     "id": "3:1.6",
+     "gloss": "at three"
+    },
+    {
+     "id": "3:1.7",
+     "gloss": "things",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.8",
+     "gloss": "and not",
+     "note": "אִי is the Mishnaic negative \"not\" (cf. אֵין), here with a participle; the pack's lexicon sense \"coast, island\" is not the sense in this verse."
+    },
+    {
+     "id": "3:1.9",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.10",
+     "gloss": "coming",
+     "sense": "1",
+     "note": "participle used as a future: \"you will not come\"."
+    },
+    {
+     "id": "3:1.11",
+     "gloss": "to the hands of",
+     "sense": "1",
+     "note": "idiom לִידֵי: \"to the point of, into the power of\"."
+    },
+    {
+     "id": "3:1.12",
+     "gloss": "transgression",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.13",
+     "gloss": "know",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.14",
+     "gloss": "from where",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.15",
+     "gloss": "you came",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.16",
+     "gloss": "and to where",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.17",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.18",
+     "gloss": "going",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.19",
+     "gloss": "and before",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.20",
+     "gloss": "whom",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.21",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.22",
+     "gloss": "destined",
+     "sense": "1",
+     "note": "עָתִיד \"ready, destined, about to\"."
+    },
+    {
+     "id": "3:1.23",
+     "gloss": "to give",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.24",
+     "gloss": "judgment",
+     "sense": "1",
+     "note": "דִּין וְחֶשְׁבּוֹן is a fixed pair: \"judgment and account\", \"a full accounting\"."
+    },
+    {
+     "id": "3:1.25",
+     "gloss": "and account",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.26",
+     "gloss": "from where",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.27",
+     "gloss": "you came",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.28",
+     "gloss": "from a drop"
+    },
+    {
+     "id": "3:1.29",
+     "gloss": "putrid"
+    },
+    {
+     "id": "3:1.30",
+     "gloss": "and to where",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.31",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.32",
+     "gloss": "going",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.33",
+     "gloss": "to the place of",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.34",
+     "gloss": "dust",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.35",
+     "gloss": "maggot",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.36",
+     "gloss": "and worm",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.37",
+     "gloss": "and before",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.38",
+     "gloss": "whom",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.39",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.40",
+     "gloss": "destined",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.41",
+     "gloss": "to give",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.42",
+     "gloss": "judgment",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.43",
+     "gloss": "and account",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.44",
+     "gloss": "before",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.45",
+     "gloss": "the King of",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.46",
+     "gloss": "the kings of",
+     "sense": "1",
+     "note": "the construct chain מֶלֶךְ מַלְכֵי הַמְּלָכִים is a double superlative: \"King of the kings of kings\"."
+    },
+    {
+     "id": "3:1.47",
+     "gloss": "the kings",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.48",
+     "gloss": "the Holy One",
+     "sense": "1"
+    },
+    {
+     "id": "3:1.49",
+     "gloss": "blessed",
+     "sense": "1",
+     "note": "passive participle בָּרוּךְ: \"blessed\"."
+    },
+    {
+     "id": "3:1.50",
+     "gloss": "He",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:1.1",
+      "3:1.2",
+      "3:1.3"
+     ],
+     "english": "Akavya son of Mahalalel",
+     "literal": "'Akavya son-of Mahalalel'; בֶּן is 'son of' by the project's decision"
+    },
+    {
+     "tokens": [
+      "3:1.4"
+     ],
+     "english": "says",
+     "literal": "participle, habitual"
+    },
+    {
+     "tokens": [
+      "3:1.5",
+      "3:1.6",
+      "3:1.7"
+     ],
+     "english": "Consider three things",
+     "literal": "'look-at in-three things'; the Hitpael of סכל is 'look closely'"
+    },
+    {
+     "tokens": [
+      "3:1.8",
+      "3:1.9",
+      "3:1.10",
+      "3:1.11",
+      "3:1.12"
+     ],
+     "english": "and you will not come to the point of transgression",
+     "literal": "'and-not you coming to-hands-of transgression'; the participle with אי has future sense"
+    },
+    {
+     "tokens": [
+      "3:1.13"
+     ],
+     "english": "Know",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "3:1.14",
+      "3:1.15"
+     ],
+     "english": "where you came from",
+     "literal": "'from-where you-came'"
+    },
+    {
+     "tokens": [
+      "3:1.16",
+      "3:1.17",
+      "3:1.18"
+     ],
+     "english": "and where you are going",
+     "literal": "'and-to-where you going'"
+    },
+    {
+     "tokens": [
+      "3:1.19",
+      "3:1.20",
+      "3:1.21",
+      "3:1.22",
+      "3:1.23",
+      "3:1.24",
+      "3:1.25"
+     ],
+     "english": "and before whom you are destined to give account and reckoning",
+     "literal": "'and-before whom you destined to-give judgment and-account'; the idiom is one of settling accounts"
+    },
+    {
+     "tokens": [
+      "3:1.26",
+      "3:1.27"
+     ],
+     "english": "Where you came from",
+     "literal": "repeats the first question"
+    },
+    {
+     "tokens": [
+      "3:1.28",
+      "3:1.29"
+     ],
+     "english": "from a putrid drop",
+     "literal": "'from-drop putrid'"
+    },
+    {
+     "tokens": [
+      "3:1.30",
+      "3:1.31",
+      "3:1.32"
+     ],
+     "english": "And where you are going",
+     "literal": "repeats the second question"
+    },
+    {
+     "tokens": [
+      "3:1.33",
+      "3:1.34",
+      "3:1.35",
+      "3:1.36"
+     ],
+     "english": "to a place of dust, maggot and worm",
+     "literal": "'to-place-of dust maggot and-worm'"
+    },
+    {
+     "tokens": [
+      "3:1.37",
+      "3:1.38",
+      "3:1.39",
+      "3:1.40",
+      "3:1.41",
+      "3:1.42",
+      "3:1.43"
+     ],
+     "english": "And before whom you are destined to give account and reckoning",
+     "literal": "repeats the third question"
+    },
+    {
+     "tokens": [
+      "3:1.44",
+      "3:1.45",
+      "3:1.46",
+      "3:1.47"
+     ],
+     "english": "before the King of the kings of kings",
+     "literal": "'before king-of kings-of the-kings'"
+    },
+    {
+     "tokens": [
+      "3:1.48",
+      "3:1.49",
+      "3:1.50"
+     ],
+     "english": "the Holy One, blessed be He",
+     "literal": "'the-Holy-One blessed he'; set formula"
+    }
+   ],
+   "grammar": [
+    "The saying has the form of a question and an answer: three imperatives of knowing (דַּע) are given, then each is answered in turn.",
+    "אִי אַתָּה בָא is the Mishnaic negative with a participle (a future: 'you will not come'); אִי stands for אֵין.",
+    "עָתִיד is a participle meaning 'ready, destined', and takes the infinitive לִתֵּן: 'you are destined to give'.",
+    "מֶלֶךְ מַלְכֵי הַמְּלָכִים is a double superlative ('King of the kings of kings'): the construct chain piles up the title.",
+    "מֵאַיִן, וּלְאָן and וְלִפְנֵי מִי are three interrogative phrases, each repeated in the answer; the third answer reuses the whole question."
+   ],
+   "note": "דִּין וְחֶשְׁבּוֹן is rendered 'account and reckoning' (literally 'judgment and account'): the pair is a fixed idiom for a full accounting, and Bartenura reads the third item as the judgment before the King. Bartenura (3:1:1) reads the three items as three remedies: the putrid drop against pride, dust and worm against desire for wealth, the account against sin. The adjective סְרוּחָה is 'putrid'; Bartenura explains that the drop is called putrid because it is about to spoil once outside the womb.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:1:1",
+     "relation": "follows",
+     "summary": "Bartenura says the drop is 'putrid' because it is about to rot once outside the womb, and that the one who looks at his origin is saved from pride, the one who looks at the place of dust, maggot and worm is saved from desire for wealth, and the one who looks at the coming account is saved from sin. The English follows his sense of the three items."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads עבירה for עֲבֵרָה, and ליתן for לִתֵּן (twice): spellings only.",
+    "The saying is also quoted at Rabbeinu Yonah on 3:1; the three consider-points are linked there to humility (against pride, Proverbs 16:5)."
+   ]
+  },
+  {
+   "ref": "3:2",
+   "english": "Rabbi Hanina, the deputy of the priests, says: Pray for the welfare of the government, for were it not for the fear of it, each man would have swallowed his fellow alive. Rabbi Hanina son of Teradion says: Two who sit with no words of Torah between them, this is a seat of scoffers, as it is said (Psalm 1): \"and in the seat of scoffers he has not sat.\" But two who sit with words of Torah between them, the Shekhinah dwells among them, as it is said (Malachi 3): \"Then those who fear the LORD spoke, each man to his fellow, and the LORD listened and heard, and a book of remembrance was written before him for those who fear the LORD and for those who esteem his name.\" I know this only of two. From where do we learn that even for one who sits and occupies himself with Torah, the Holy One, blessed be He, sets a reward for him? As it is said (Lamentations 3): \"He sits alone and is silent, for he has taken it upon himself.\"",
+   "literal": "Rabbi Hanina deputy-of the-priests says be praying in-welfare-of-it of kingdom that-were-it-not fear-of-it man ACC his-fellow alive swallowing-him Rabbi Hanina son-of Teradion says two who-sit and-there-is-not between-them words-of Torah behold this seat-of scoffers that-it-is-said Psalms 1 and-in-seat-of scoffers not he-sat but two who-sit and-there-is between-them words-of Torah Shekhinah dwelling between-them that-it-is-said Malachi 3 then spoke fearers-of YHWH man to his-fellow and-listened YHWH and-heard and-was-written book-of remembrance before-him for-fearers-of YHWH and-for-esteemers-of his-name there-is-not to-me except two from-where that-even one who-sits and-occupies in-the-Torah that-the-Holy-One blessed he fixes for-him reward that-it-is-said Lamentations 3 he-sits alone and-is-silent for he-took upon-him",
+   "tokens": [
+    {
+     "id": "3:2.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.2",
+     "gloss": "Hanina"
+    },
+    {
+     "id": "3:2.3",
+     "gloss": "deputy of",
+     "sense": "1",
+     "note": "סְגַן \"deputy, prefect\": the second-in-command of the priesthood."
+    },
+    {
+     "id": "3:2.4",
+     "gloss": "the priests",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.5",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.6",
+     "gloss": "be",
+     "sense": "1",
+     "note": "הֱוֵי, the Aramaic-form imperative of הָיָה, with a participle: \"be praying\", i.e. \"pray constantly\"."
+    },
+    {
+     "id": "3:2.7",
+     "gloss": "praying",
+     "sense": "1",
+     "note": "Hitpael participle of פלל: \"pray\"."
+    },
+    {
+     "id": "3:2.8",
+     "gloss": "for the welfare of her",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.9",
+     "gloss": "of",
+     "note": "שֶׁל, the Mishnaic genitive particle."
+    },
+    {
+     "id": "3:2.10",
+     "gloss": "the government",
+     "sense": "1",
+     "note": "מַלְכוּת \"kingship, kingdom\"; here the ruling government (Bartenura: even that of the nations)."
+    },
+    {
+     "id": "3:2.11",
+     "gloss": "that if not",
+     "note": "שֶׁאִלְמָלֵא \"were it not that\" (a contrafactual)."
+    },
+    {
+     "id": "3:2.12",
+     "gloss": "the fear of her",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.13",
+     "gloss": "man",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.14",
+     "gloss": "-"
+    },
+    {
+     "id": "3:2.15",
+     "gloss": "his fellow",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.16",
+     "gloss": "alive",
+     "sense": "1",
+     "note": "חַיִּים is adverbial: \"alive\"."
+    },
+    {
+     "id": "3:2.17",
+     "gloss": "would have swallowed him",
+     "sense": "1",
+     "note": "infinitive with suffix; the sense is perfect, contrafactual: \"would have swallowed\"."
+    },
+    {
+     "id": "3:2.18",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.19",
+     "gloss": "Hanina"
+    },
+    {
+     "id": "3:2.20",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.21",
+     "gloss": "Teradion",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.22",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.23",
+     "gloss": "two"
+    },
+    {
+     "id": "3:2.24",
+     "gloss": "who sit",
+     "sense": "1",
+     "note": "relative שֶׁ + participle: \"who are sitting\"."
+    },
+    {
+     "id": "3:2.25",
+     "gloss": "and there is not"
+    },
+    {
+     "id": "3:2.26",
+     "gloss": "between them"
+    },
+    {
+     "id": "3:2.27",
+     "gloss": "words of",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.28",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.29",
+     "gloss": "behold",
+     "note": "הֲרֵי \"behold\": introduces the apodosis (\"this is ...\")."
+    },
+    {
+     "id": "3:2.30",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.31",
+     "gloss": "the seat of",
+     "sense": "1",
+     "note": "מוֹשָׁב is a \"sitting\" or \"seat\"."
+    },
+    {
+     "id": "3:2.32",
+     "gloss": "scoffers",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.33",
+     "gloss": "that it is said",
+     "sense": "1",
+     "note": "Nifal perfect of אמר; the formula introducing a scripture proof."
+    },
+    {
+     "id": "3:2.34",
+     "gloss": "Psalms"
+    },
+    {
+     "id": "3:2.35",
+     "gloss": "1",
+     "note": "letter numeral, chapter 1."
+    },
+    {
+     "id": "3:2.36",
+     "gloss": "and in the seat of",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.37",
+     "gloss": "scoffers",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.38",
+     "gloss": "not"
+    },
+    {
+     "id": "3:2.39",
+     "gloss": "he sat",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.40",
+     "gloss": "but"
+    },
+    {
+     "id": "3:2.41",
+     "gloss": "two"
+    },
+    {
+     "id": "3:2.42",
+     "gloss": "who sit",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.43",
+     "gloss": "and there is"
+    },
+    {
+     "id": "3:2.44",
+     "gloss": "between them"
+    },
+    {
+     "id": "3:2.45",
+     "gloss": "words of",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.46",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.47",
+     "gloss": "Shekhinah",
+     "sense": "1",
+     "note": "שְׁכִינָה, \"indwelling\": the Divine Presence."
+    },
+    {
+     "id": "3:2.48",
+     "gloss": "dwelling",
+     "sense": "1",
+     "note": "passive participle of שרה \"to rest, to dwell\"."
+    },
+    {
+     "id": "3:2.49",
+     "gloss": "among them"
+    },
+    {
+     "id": "3:2.50",
+     "gloss": "that it is said",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.51",
+     "gloss": "Malachi",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.52",
+     "gloss": "3",
+     "note": "letter numeral, chapter 3."
+    },
+    {
+     "id": "3:2.53",
+     "gloss": "then",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.54",
+     "gloss": "they spoke",
+     "sense": "1",
+     "note": "Nifal of דבר: \"spoke with one another\"."
+    },
+    {
+     "id": "3:2.55",
+     "gloss": "those who fear",
+     "sense": "1",
+     "note": "יְרֵאֵי \"fearers of\"."
+    },
+    {
+     "id": "3:2.56",
+     "gloss": "the LORD",
+     "sense": "1",
+     "note": "the divine name is written יְיָ in the base text."
+    },
+    {
+     "id": "3:2.57",
+     "gloss": "man",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.58",
+     "gloss": "to"
+    },
+    {
+     "id": "3:2.59",
+     "gloss": "his fellow",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.60",
+     "gloss": "and listened",
+     "note": "Hifil of קשב \"to give heed\", a wayyiqtol."
+    },
+    {
+     "id": "3:2.61",
+     "gloss": "the LORD",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.62",
+     "gloss": "and heard",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.63",
+     "gloss": "and was written",
+     "sense": "1",
+     "note": "Nifal wayyiqtol of כתב."
+    },
+    {
+     "id": "3:2.64",
+     "gloss": "book of",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.65",
+     "gloss": "remembrance",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.66",
+     "gloss": "before him",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.67",
+     "gloss": "for those who fear",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.68",
+     "gloss": "the LORD",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.69",
+     "gloss": "and for those who esteem",
+     "sense": "1",
+     "note": "Qal participle of חשב \"to think, esteem\"."
+    },
+    {
+     "id": "3:2.70",
+     "gloss": "his name",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.71",
+     "gloss": "not",
+     "note": "אֵין is the existential negative: \"there is not\"."
+    },
+    {
+     "id": "3:2.72",
+     "gloss": "to me"
+    },
+    {
+     "id": "3:2.73",
+     "gloss": "except"
+    },
+    {
+     "id": "3:2.74",
+     "gloss": "two"
+    },
+    {
+     "id": "3:2.75",
+     "gloss": "from where",
+     "sense": "1",
+     "note": "מִנַּיִן \"from where (do we learn)\", the standard question of a derivation."
+    },
+    {
+     "id": "3:2.76",
+     "gloss": "that even"
+    },
+    {
+     "id": "3:2.77",
+     "gloss": "one"
+    },
+    {
+     "id": "3:2.78",
+     "gloss": "who sits",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.79",
+     "gloss": "and occupies himself",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.80",
+     "gloss": "in the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.81",
+     "gloss": "that the Holy One",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.82",
+     "gloss": "blessed",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.83",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.84",
+     "gloss": "sets",
+     "sense": "1",
+     "note": "קוֹבֵעַ \"fixes, appoints\"."
+    },
+    {
+     "id": "3:2.85",
+     "gloss": "for him"
+    },
+    {
+     "id": "3:2.86",
+     "gloss": "reward",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.87",
+     "gloss": "that it is said",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.88",
+     "gloss": "Lamentations",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.89",
+     "gloss": "3",
+     "note": "letter numeral, chapter 3."
+    },
+    {
+     "id": "3:2.90",
+     "gloss": "he sits",
+     "sense": "1"
+    },
+    {
+     "id": "3:2.91",
+     "gloss": "alone",
+     "sense": "1",
+     "note": "בָּדָד, adverbial."
+    },
+    {
+     "id": "3:2.92",
+     "gloss": "and is silent",
+     "sense": "1",
+     "note": "a wayyiqtol-like imperfect with vav: \"and is silent\"; Bartenura reads a soft murmur of study."
+    },
+    {
+     "id": "3:2.93",
+     "gloss": "for"
+    },
+    {
+     "id": "3:2.94",
+     "gloss": "he has taken",
+     "sense": "1",
+     "note": "נָטַל \"to lift, take up\"."
+    },
+    {
+     "id": "3:2.95",
+     "gloss": "upon him"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:2.1",
+      "3:2.2",
+      "3:2.3",
+      "3:2.4",
+      "3:2.5"
+     ],
+     "english": "Rabbi Hanina, the deputy of the priests, says",
+     "literal": "'Rabbi Hanina deputy-of the-priests says'"
+    },
+    {
+     "tokens": [
+      "3:2.6",
+      "3:2.7"
+     ],
+     "english": "Pray",
+     "literal": "'be praying'; the imperative of הָיָה with a participle gives an ongoing duty"
+    },
+    {
+     "tokens": [
+      "3:2.8",
+      "3:2.9",
+      "3:2.10"
+     ],
+     "english": "for the welfare of the government",
+     "literal": "'in-welfare-of-it of kingdom'; the prefix בְּ is 'for the sake of'; Bartenura adds 'even of the nations of the world'"
+    },
+    {
+     "tokens": [
+      "3:2.11",
+      "3:2.12"
+     ],
+     "english": "for were it not for the fear of it",
+     "literal": "'that-were-it-not fear-of-it'; the suffix refers to מַלְכוּת"
+    },
+    {
+     "tokens": [
+      "3:2.13",
+      "3:2.14",
+      "3:2.15",
+      "3:2.16",
+      "3:2.17"
+     ],
+     "english": "each man would have swallowed his fellow alive",
+     "literal": "'man ACC his-fellow alive swallowing-him'; the infinitive has the force of a contrafactual perfect"
+    },
+    {
+     "tokens": [
+      "3:2.18",
+      "3:2.19",
+      "3:2.20",
+      "3:2.21",
+      "3:2.22"
+     ],
+     "english": "Rabbi Hanina son of Teradion says",
+     "literal": "second saying: 'Rabbi Hanina son-of Teradion says'"
+    },
+    {
+     "tokens": [
+      "3:2.23",
+      "3:2.24",
+      "3:2.25",
+      "3:2.26",
+      "3:2.27",
+      "3:2.28"
+     ],
+     "english": "Two who sit with no words of Torah between them",
+     "literal": "'two who-sit and-there-is-not between-them words-of Torah'"
+    },
+    {
+     "tokens": [
+      "3:2.29",
+      "3:2.30",
+      "3:2.31",
+      "3:2.32"
+     ],
+     "english": "this is a seat of scoffers",
+     "literal": "'behold this seat-of scoffers'"
+    },
+    {
+     "tokens": [
+      "3:2.33",
+      "3:2.34",
+      "3:2.35"
+     ],
+     "english": "as it is said (Psalm 1)",
+     "literal": "'that-it-is-said Psalms 1'"
+    },
+    {
+     "tokens": [
+      "3:2.36",
+      "3:2.37",
+      "3:2.38",
+      "3:2.39"
+     ],
+     "english": "\"and in the seat of scoffers he has not sat.\"",
+     "literal": "'and-in-seat-of scoffers not he-sat'; the perfect is read as a past or a general statement"
+    },
+    {
+     "tokens": [
+      "3:2.40",
+      "3:2.41",
+      "3:2.42",
+      "3:2.43",
+      "3:2.44",
+      "3:2.45",
+      "3:2.46"
+     ],
+     "english": "But two who sit with words of Torah between them",
+     "literal": "the counterpart of the first saying"
+    },
+    {
+     "tokens": [
+      "3:2.47",
+      "3:2.48",
+      "3:2.49"
+     ],
+     "english": "the Shekhinah dwells among them",
+     "literal": "'Shekhinah dwelling between-them'"
+    },
+    {
+     "tokens": [
+      "3:2.50",
+      "3:2.51",
+      "3:2.52"
+     ],
+     "english": "as it is said (Malachi 3)",
+     "literal": "'that-it-is-said Malachi 3'"
+    },
+    {
+     "tokens": [
+      "3:2.53",
+      "3:2.54",
+      "3:2.55",
+      "3:2.56"
+     ],
+     "english": "Then those who fear the LORD spoke",
+     "literal": "'then spoke fearers-of YHWH'"
+    },
+    {
+     "tokens": [
+      "3:2.57",
+      "3:2.58",
+      "3:2.59"
+     ],
+     "english": "each man to his fellow",
+     "literal": "'man to his-fellow'"
+    },
+    {
+     "tokens": [
+      "3:2.60",
+      "3:2.61",
+      "3:2.62"
+     ],
+     "english": "and the LORD listened and heard",
+     "literal": "'and-listened YHWH and-heard'"
+    },
+    {
+     "tokens": [
+      "3:2.63",
+      "3:2.64",
+      "3:2.65",
+      "3:2.66"
+     ],
+     "english": "and a book of remembrance was written before him",
+     "literal": "'and-was-written book-of remembrance before-him'"
+    },
+    {
+     "tokens": [
+      "3:2.67",
+      "3:2.68",
+      "3:2.69",
+      "3:2.70"
+     ],
+     "english": "for those who fear the LORD and for those who esteem his name",
+     "literal": "'for-fearers-of YHWH and-for-esteemers-of his-name'"
+    },
+    {
+     "tokens": [
+      "3:2.71",
+      "3:2.72",
+      "3:2.73",
+      "3:2.74"
+     ],
+     "english": "I know this only of two",
+     "literal": "'there-is-not to-me except two': the formula 'I have only (the case of) two'"
+    },
+    {
+     "tokens": [
+      "3:2.75",
+      "3:2.76",
+      "3:2.77",
+      "3:2.78",
+      "3:2.79",
+      "3:2.80"
+     ],
+     "english": "From where do we learn that even for one who sits and occupies himself with Torah",
+     "literal": "'from-where that-even one who-sits and-occupies in-the-Torah'"
+    },
+    {
+     "tokens": [
+      "3:2.81",
+      "3:2.82",
+      "3:2.83",
+      "3:2.84",
+      "3:2.85",
+      "3:2.86"
+     ],
+     "english": "the Holy One, blessed be He, sets a reward for him",
+     "literal": "'that-the-Holy-One blessed he fixes for-him reward'"
+    },
+    {
+     "tokens": [
+      "3:2.87",
+      "3:2.88",
+      "3:2.89"
+     ],
+     "english": "As it is said (Lamentations 3)",
+     "literal": "'that-it-is-said Lamentations 3'"
+    },
+    {
+     "tokens": [
+      "3:2.90",
+      "3:2.91",
+      "3:2.92",
+      "3:2.93",
+      "3:2.94",
+      "3:2.95"
+     ],
+     "english": "He sits alone and is silent, for he has taken it upon himself",
+     "literal": "'he-sits alone and-is-silent for he-took upon-him'"
+    }
+   ],
+   "grammar": [
+    "The verse has three sayings: Rabbi Hanina the deputy on prayer for the government, Rabbi Hanina son of Teradion on Torah study in company, and its extension to one who studies alone.",
+    "שֶׁאִלְמָלֵא introduces a contrafactual clause; the infinitive בְּלָעוֹ with the suffix then has the sense 'would have swallowed him'.",
+    "שְׁנַיִם שֶׁיּוֹשְׁבִין וְאֵין בֵּינֵיהֶן ... is a casus pendens: 'Two who sit and there is not between them ... this is ...'; הֲרֵי זֶה opens the main clause.",
+    "וְיֵשׁ and וְאֵין are the existential particles ('there is' and 'there is not') followed by a subject in the construct: 'words of Torah'.",
+    "מִנַּיִן is the standard Talmudic question, 'from where (do we learn)'; the answers are verses, quoted by their source."
+   ],
+   "note": "סְגַן הַכֹּהֲנִים is 'the deputy of the priests'; the English keeps the title. מַלְכוּת is 'the government' (the sages read the ruling power, including foreign rule: Bartenura 3:2:1). The sentence 'each man would have swallowed his fellow alive' (Bartenura 3:2:2 cites Habakkuk 1:14, 'like the fish of the sea') is a contrafactual. The last verse, נָטַל עָלָיו, is read in the Mishnah as 'he has taken it upon himself': Bartenura 3:2:5 reads 'as though the whole giving of the Torah were for him alone'; וְיִדֹּם, 'is silent', is read by Bartenura (3:2:4) as the soft voice of one who studies in a whisper. In Lamentations 3:28 the verse is more likely 'Let him sit alone and be silent, for he has laid it upon him' (God has laid it on him).",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:2:1",
+     "relation": "follows",
+     "summary": "Bartenura says the 'government' here includes even the governments of the nations of the world; the English follows with the general word 'the government'."
+    },
+    {
+     "anchor": "bartenura:3:2:2",
+     "relation": "follows",
+     "summary": "Bartenura cites Habakkuk 1:14 ('and you make man like the fish of the sea'): as among fish the greater swallows the lesser, so would men without the fear of government (Avodah Zarah 4a). The English follows this reading of 'swallow'."
+    },
+    {
+     "anchor": "bartenura:3:2:3",
+     "relation": "follows",
+     "summary": "Bartenura says, 'Behold here are two': the verse, 'each man to his fellow', shows two speakers. The English follows this proof."
+    },
+    {
+     "anchor": "bartenura:3:2:4",
+     "relation": "records",
+     "summary": "Bartenura reads וְיִדֹּם as the 'thin sound of silence', that is, one who studies alone murmurs quietly; the English gives the plain 'is silent' and records his reading here."
+    },
+    {
+     "anchor": "bartenura:3:2:5",
+     "relation": "follows",
+     "summary": "Bartenura reads כִּי נָטַל עָלָיו as 'as if the giving of the whole Torah had been for him alone'; the English follows with 'he has taken it upon himself'."
+    },
+    {
+     "anchor": "rambam:3:1:1",
+     "relation": "not-applicable",
+     "summary": "Rambam (anchored here by the pack, but commenting on 3:1) says that looking at one's origin brings humility, looking at one's end brings contempt for worldly affairs, and looking to the greatness of the commandment brings haste to hear His commandments; with these three one will not sin at all. This bears on 3:1, not on the plain sense of 3:2."
+    },
+    {
+     "anchor": "rambam:3:2:1",
+     "relation": "follows",
+     "summary": "Rambam says that 'seat of scoffers' means any seat in which words of Torah are not spoken, as the end of Psalm 1:1-2 shows: because his delight was in the Torah of the LORD he did not sit in a seat of scoffers where there is no Torah. The English follows this reading."
+    },
+    {
+     "anchor": "rambam:3:2:2",
+     "relation": "follows",
+     "summary": "Rambam quotes the Talmud (Berakhot 6a): one who sits and studies has the Shekhinah with him (Exodus 20:21); two have their words written in the Book of Remembrance; and he explains וְיִדֹּם as 'quiet speech, the soft voice' (Aramaic שתיק), and כִּי נָטַל עָלָיו as 'as if the giving of the whole Torah had been for him alone'. The English follows him."
+    }
+   ],
+   "apparatus": [
+    "Psalm 1:1 (the last clause, וּבְמוֹשַׁב לֵצִים לֹא יָשָׁב).",
+    "Malachi 3:16 (אָז נִדְבְּרוּ יִרְאֵי יְיָ ...). In the verse the spoken words are 'those who fear the LORD'.",
+    "Lamentations 3:28 (יֵשֵׁב בָּדָד וְיִדֹּם כִּי נָטַל עָלָיו).",
+    "Vilna reads ה for יְיָ (three times), ולחושבי for וּלְחֹשְׁבֵי, שאפילו for שֶׁאֲפִלּוּ, וידום for וְיִדֹּם; Vilna omits שְׁרוּיָה ('dwells') at 3:2.48.",
+    "3:2.34 תהלים, 3:2.51 מלאכי and 3:2.88 איכה are the source names of the quoted verses; 3:2.35, 3:2.52 and 3:2.89 are letter numerals for the chapters."
+   ]
+  },
+  {
+   "ref": "3:3",
+   "english": "Rabbi Shimon says: Three who ate at one table and did not say words of Torah over it, it is as if they ate of sacrifices to the dead, as it is said (Isaiah 28): \"For all the tables are full of vomit and filth, with no place.\" But three who ate at one table and said words of Torah over it, it is as if they ate from the table of the Omnipresent, blessed be He, as it is said (Ezekiel 41): \"And he spoke to me: This is the table that is before the LORD.\"",
+   "literal": "Rabbi Shimon says three who-ate at table one and-not said over-it words-of Torah as-if they-ate from-sacrifices-of dead that-it-is-said Isaiah 28 for all-of tables were-full vomit filth without place but three who-ate at table one and-said over-it words-of Torah as-if they-ate from-table-of-him of Place blessed he that-it-is-said Ezekiel 41 and-he-spoke to-me this the-table which before the-LORD",
+   "tokens": [
+    {
+     "id": "3:3.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.2",
+     "gloss": "Shimon",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.3",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.4",
+     "gloss": "three"
+    },
+    {
+     "id": "3:3.5",
+     "gloss": "who ate",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.6",
+     "gloss": "at"
+    },
+    {
+     "id": "3:3.7",
+     "gloss": "table",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.8",
+     "gloss": "one"
+    },
+    {
+     "id": "3:3.9",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:3.10",
+     "gloss": "said",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.11",
+     "gloss": "over it"
+    },
+    {
+     "id": "3:3.12",
+     "gloss": "words of",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.13",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.14",
+     "gloss": "as if",
+     "note": "כְּאִלּוּ \"as if\", a conditional of comparison."
+    },
+    {
+     "id": "3:3.15",
+     "gloss": "they ate",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.16",
+     "gloss": "from the sacrifices of",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.17",
+     "gloss": "dead",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.18",
+     "gloss": "that it is said",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.19",
+     "gloss": "Isaiah"
+    },
+    {
+     "id": "3:3.20",
+     "gloss": "28",
+     "note": "letter numeral, chapter 28 (the pack's lexicon link to כֹּחַ does not fit)."
+    },
+    {
+     "id": "3:3.21",
+     "gloss": "for"
+    },
+    {
+     "id": "3:3.22",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.23",
+     "gloss": "tables",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.24",
+     "gloss": "were full",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.25",
+     "gloss": "vomit",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.26",
+     "gloss": "filth",
+     "sense": "1",
+     "note": "צֹאָה \"excrement, filth\"."
+    },
+    {
+     "id": "3:3.27",
+     "gloss": "without",
+     "note": "בְּלִי \"without\"."
+    },
+    {
+     "id": "3:3.28",
+     "gloss": "place",
+     "sense": "1",
+     "note": "מָקוֹם \"place\", and also the Mishnaic name of God, \"the Place\" (see Bartenura on בְּלִי מָקוֹם)."
+    },
+    {
+     "id": "3:3.29",
+     "gloss": "but"
+    },
+    {
+     "id": "3:3.30",
+     "gloss": "three"
+    },
+    {
+     "id": "3:3.31",
+     "gloss": "who ate",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.32",
+     "gloss": "at"
+    },
+    {
+     "id": "3:3.33",
+     "gloss": "table",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.34",
+     "gloss": "one"
+    },
+    {
+     "id": "3:3.35",
+     "gloss": "and said",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.36",
+     "gloss": "over it"
+    },
+    {
+     "id": "3:3.37",
+     "gloss": "words of",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.38",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.39",
+     "gloss": "as if"
+    },
+    {
+     "id": "3:3.40",
+     "gloss": "they ate",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.41",
+     "gloss": "from his table",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.42",
+     "gloss": "of",
+     "note": "the genitive particle שֶׁל, here with the pronominal suffix on שֻׁלְחָן: \"the table of\"."
+    },
+    {
+     "id": "3:3.43",
+     "gloss": "the Place",
+     "sense": "1",
+     "note": "מָקוֹם without article is the name of God, \"the Omnipresent\" (literally \"the Place\")."
+    },
+    {
+     "id": "3:3.44",
+     "gloss": "blessed",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.45",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.46",
+     "gloss": "that it is said",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.47",
+     "gloss": "Ezekiel",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.48",
+     "gloss": "41",
+     "note": "letter numeral, chapter 41."
+    },
+    {
+     "id": "3:3.49",
+     "gloss": "and he spoke",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.50",
+     "gloss": "to me"
+    },
+    {
+     "id": "3:3.51",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.52",
+     "gloss": "the table",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.53",
+     "gloss": "which",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.54",
+     "gloss": "before",
+     "sense": "1"
+    },
+    {
+     "id": "3:3.55",
+     "gloss": "the LORD",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:3.1",
+      "3:3.2",
+      "3:3.3"
+     ],
+     "english": "Rabbi Shimon says",
+     "literal": "'Rabbi Shimon says'"
+    },
+    {
+     "tokens": [
+      "3:3.4",
+      "3:3.5",
+      "3:3.6",
+      "3:3.7",
+      "3:3.8"
+     ],
+     "english": "Three who ate at one table",
+     "literal": "'three who-ate at table one'"
+    },
+    {
+     "tokens": [
+      "3:3.9",
+      "3:3.10",
+      "3:3.11",
+      "3:3.12",
+      "3:3.13"
+     ],
+     "english": "and did not say words of Torah over it",
+     "literal": "'and-not said over-it words-of Torah'"
+    },
+    {
+     "tokens": [
+      "3:3.14",
+      "3:3.15",
+      "3:3.16",
+      "3:3.17"
+     ],
+     "english": "it is as if they ate of sacrifices to the dead",
+     "literal": "'as-if they-ate from-sacrifices-of dead'"
+    },
+    {
+     "tokens": [
+      "3:3.18",
+      "3:3.19",
+      "3:3.20"
+     ],
+     "english": "as it is said (Isaiah 28)",
+     "literal": "'that-it-is-said Isaiah 28'"
+    },
+    {
+     "tokens": [
+      "3:3.21",
+      "3:3.22",
+      "3:3.23",
+      "3:3.24",
+      "3:3.25",
+      "3:3.26"
+     ],
+     "english": "For all the tables are full of vomit and filth",
+     "literal": "'for all-of tables were-full vomit filth'"
+    },
+    {
+     "tokens": [
+      "3:3.27",
+      "3:3.28"
+     ],
+     "english": "with no place",
+     "literal": "'without place'; Bartenura reads 'without the Place', that is, without God"
+    },
+    {
+     "tokens": [
+      "3:3.29",
+      "3:3.30",
+      "3:3.31",
+      "3:3.32",
+      "3:3.33",
+      "3:3.34"
+     ],
+     "english": "But three who ate at one table",
+     "literal": "contrast with the first sentence"
+    },
+    {
+     "tokens": [
+      "3:3.35",
+      "3:3.36",
+      "3:3.37",
+      "3:3.38"
+     ],
+     "english": "and said words of Torah over it",
+     "literal": "'and-said over-it words-of Torah'"
+    },
+    {
+     "tokens": [
+      "3:3.39",
+      "3:3.40",
+      "3:3.41",
+      "3:3.42",
+      "3:3.43",
+      "3:3.44",
+      "3:3.45"
+     ],
+     "english": "it is as if they ate from the table of the Omnipresent, blessed be He",
+     "literal": "'as-if they-ate from-table-of-him of Place blessed he'; the Hebrew has a double genitive, 'his table of the Place'"
+    },
+    {
+     "tokens": [
+      "3:3.46",
+      "3:3.47",
+      "3:3.48"
+     ],
+     "english": "as it is said (Ezekiel 41)",
+     "literal": "'that-it-is-said Ezekiel 41'"
+    },
+    {
+     "tokens": [
+      "3:3.49",
+      "3:3.50",
+      "3:3.51",
+      "3:3.52",
+      "3:3.53",
+      "3:3.54",
+      "3:3.55"
+     ],
+     "english": "And he spoke to me: This is the table that is before the LORD",
+     "literal": "'and-he-spoke to-me this the-table which before the-LORD'"
+    }
+   ],
+   "grammar": [
+    "The saying sets two sentences in opposition: three who ate and did not speak words of Torah, and three who ate and did (אֲבָל, 'but'); both have the form 'three who ... as if they ate ...'.",
+    "שֶׁאָכְלוּ is a relative clause with a perfect: 'who ate'; the sentence is a casus pendens with כְּאִלּוּ opening the main clause.",
+    "מִשֻּׁלְחָנוֹ שֶׁל מָקוֹם uses the Mishnaic double genitive: 'from his table, of the Place'.",
+    "מָקוֹם is a name of God, 'the Place' (the Omnipresent), here without the article; בְּלִי מָקוֹם in Isaiah can be read 'with no place', and the sages read it as 'without the Place'.",
+    "The two scripture proofs are quoted with their sources (Isaiah 28:8, Ezekiel 41:22), the second ending with 'the table that is before the LORD'."
+   ],
+   "note": "מָקוֹם בָּרוּךְ הוּא is translated 'the Omnipresent, blessed be He' by the project's decision; the literal sense of מָקוֹם is 'the Place'. מִזִּבְחֵי מֵתִים is 'sacrifices to the dead', the sacrifices of idols (Bartenura and Rambam; Psalm 106:28). In Isaiah 28:8 בְּלִי מָקוֹם means 'with no room'; Bartenura reads it as 'without the Place', for they did not mention the name of the Place at the table, so the English 'with no place' keeps both readings.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:3:1",
+     "relation": "records",
+     "summary": "Bartenura adds a legal note, 'I heard': saying the grace after meals at the table counts as saying words of Torah over it. The English keeps 'words of Torah' and records his sense."
+    },
+    {
+     "anchor": "bartenura:3:3:2",
+     "relation": "follows",
+     "summary": "Bartenura says 'sacrifices to the dead' are offerings to idols, as in Psalm 106:28 ('and they were joined to Baal-peor and ate sacrifices to the dead'). The English follows."
+    },
+    {
+     "anchor": "bartenura:3:3:3",
+     "relation": "follows",
+     "summary": "Bartenura says idolatry is called צֹאָה 'filth', as in Isaiah 30:22: 'You shall say to it, Get out (צֵא)'. The English keeps 'filth' and follows."
+    },
+    {
+     "anchor": "bartenura:3:3:4",
+     "relation": "records",
+     "summary": "Bartenura reads בְּלִי מָקוֹם as 'because they did not mention the name of the Place, blessed be He, at the table'. The English 'with no place' keeps the plain sense and records this reading here."
+    },
+    {
+     "anchor": "bartenura:3:3:5",
+     "relation": "follows",
+     "summary": "Bartenura says that as soon as he spoke words of Torah, the table is called 'the table that is before the LORD'; he also gives a derivation of the three-cubit altar from the three parts of Scripture. The English follows the first reading."
+    },
+    {
+     "anchor": "rambam:3:3:1",
+     "relation": "follows",
+     "summary": "Rambam says 'sacrifices to the dead' is the offering of idol worship, as Scripture calls it, and Isaiah calls it 'vomit and filth' to scorn it. The English follows."
+    }
+   ],
+   "apparatus": [
+    "Isaiah 28:8 (כִּי כָּל שֻׁלְחָנוֹת מָלְאוּ קִיא צֹאָה בְּלִי מָקוֹם).",
+    "Ezekiel 41:22 (the last words: זֶה הַשֻּׁלְחָן אֲשֶׁר לִפְנֵי יְיָ); the Mishnah's text of Ezekiel runs וַיְדַבֵּר אֵלַי.",
+    "Vilna reads כאילו for כְּאִלּוּ (twice) and צואה for צֹאָה.",
+    "3:3.19 ישעיה and 3:3.47 יחזקאל are the source names; 3:3.20 כח and 3:3.48 מא are letter numerals (28 and 41), and the pack's lemma links for them (כֹּחַ, מָא) are not the sense here."
+   ]
+  },
+  {
+   "ref": "3:4",
+   "english": "Rabbi Hanina son of Hakhinai says: One who is awake at night, and one who walks on the road alone, and one who turns his heart to idleness, this one is answerable with his life.",
+   "literal": "Rabbi Hanina son-of Hakhinai says the-one-awake at-night and-the-one-walking on-the-road alone and-the-one-turning his-heart to-idleness behold this incurring-liability with-his-life",
+   "tokens": [
+    {
+     "id": "3:4.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.2",
+     "gloss": "Hanina"
+    },
+    {
+     "id": "3:4.3",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.4",
+     "gloss": "Hakhinai",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.5",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.6",
+     "gloss": "the one who is awake",
+     "sense": "1",
+     "note": "Nifal participle of עור \"to wake, rouse oneself\" with the article: \"the one who wakes\"."
+    },
+    {
+     "id": "3:4.7",
+     "gloss": "at night",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.8",
+     "gloss": "and the one who walks",
+     "sense": "1",
+     "note": "Piel participle of הלך: \"who goes about\"."
+    },
+    {
+     "id": "3:4.9",
+     "gloss": "on the road",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.10",
+     "gloss": "alone",
+     "sense": "1",
+     "note": "יְחִידִי \"alone\", with the old ending -י."
+    },
+    {
+     "id": "3:4.11",
+     "gloss": "and the one who turns",
+     "sense": "1",
+     "note": "Piel participle of פנה \"to clear, to turn aside\"."
+    },
+    {
+     "id": "3:4.12",
+     "gloss": "his heart",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.13",
+     "gloss": "to idleness",
+     "sense": "1",
+     "note": "בַּטָּלָה \"idleness, vain things\"."
+    },
+    {
+     "id": "3:4.14",
+     "gloss": "behold"
+    },
+    {
+     "id": "3:4.15",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "3:4.16",
+     "gloss": "is answerable",
+     "sense": "1",
+     "note": "Hitpael participle of חיב \"to be liable, to incur guilt\"."
+    },
+    {
+     "id": "3:4.17",
+     "gloss": "with his life",
+     "sense": "1",
+     "note": "נֶפֶשׁ \"soul, life\"."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:4.1",
+      "3:4.2",
+      "3:4.3",
+      "3:4.4",
+      "3:4.5"
+     ],
+     "english": "Rabbi Hanina son of Hakhinai says",
+     "literal": "'Rabbi Hanina son-of Hakhinai says'"
+    },
+    {
+     "tokens": [
+      "3:4.6",
+      "3:4.7"
+     ],
+     "english": "One who is awake at night",
+     "literal": "'the-one-awake at-night'"
+    },
+    {
+     "tokens": [
+      "3:4.8",
+      "3:4.9",
+      "3:4.10"
+     ],
+     "english": "and one who walks on the road alone",
+     "literal": "'and-the-one-walking on-the-road alone'"
+    },
+    {
+     "tokens": [
+      "3:4.11",
+      "3:4.12",
+      "3:4.13"
+     ],
+     "english": "and one who turns his heart to idleness",
+     "literal": "'and-the-one-turning his-heart to-idleness'"
+    },
+    {
+     "tokens": [
+      "3:4.14",
+      "3:4.15",
+      "3:4.16",
+      "3:4.17"
+     ],
+     "english": "this one is answerable with his life",
+     "literal": "'behold this incurring-liability with-his-life'"
+    }
+   ],
+   "grammar": [
+    "Three participles with the article (הַנֵּעוֹר, הַמְהַלֵּךְ, הַמְפַנֶּה) form three subjects of one sentence.",
+    "הֲרֵי זֶה opens the main clause ('this one ...'), resuming the three subjects.",
+    "מִתְחַיֵּב is a Hitpael participle: 'makes himself liable'. The Vilna spelling is מתחייב.",
+    "בְּנַפְשׁוֹ means 'with/for his soul', and נֶפֶשׁ is 'life' here; the clause is idiomatic and means 'forfeits his life' or 'is guilty against his own life'.",
+    "יְחִידִי is 'alone' with the old adverbial ending."
+   ],
+   "note": "מִתְחַיֵּב בְּנַפְשׁוֹ is rendered 'is answerable with his life'. Bartenura 3:4:2 explains that the night belongs to demons and a lone traveller is in danger from robbers, but that if he thinks of Torah it guards him; Bartenura 3:4:1 adds that the three are guilty when they also think idle thoughts. The English keeps the three clauses separate, as the Hebrew does, and records Bartenura's addition.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:4:1",
+     "relation": "records",
+     "summary": "Bartenura says the one awake at night or walking alone on the road is guilty when he thinks idle things in his heart; the English keeps the three clauses separate and records his addition."
+    },
+    {
+     "anchor": "bartenura:3:4:2",
+     "relation": "follows",
+     "summary": "Bartenura says night is the time of demons, and the one walking alone is in danger from robbers and many evils; if he thought of words of Torah, it would guard him. The English follows his reading of 'answerable with his life'."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads מתחייב for מִתְחַיֵּב: spelling only."
+   ]
+  },
+  {
+   "ref": "3:5",
+   "english": "Rabbi Nehunya son of Hakanah says: Whoever takes upon himself the yoke of Torah, they remove from him the yoke of the government and the yoke of worldly occupation. And whoever throws off from himself the yoke of Torah, they place upon him the yoke of the government and the yoke of worldly occupation.",
+   "literal": "Rabbi Nehunya son-of the-Kanah says all who-takes upon-himself yoke-of Torah they-remove from-him yoke-of kingdom and-yoke-of way-of land and-all who-throws-off from-him yoke-of Torah they-place upon-him yoke-of kingdom and-yoke-of way-of land",
+   "tokens": [
+    {
+     "id": "3:5.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.2",
+     "gloss": "Nehunya",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.3",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.4",
+     "gloss": "Hakanah",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.5",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.6",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.7",
+     "gloss": "who takes",
+     "sense": "1",
+     "note": "Piel participle of קבל \"to receive, accept\"."
+    },
+    {
+     "id": "3:5.8",
+     "gloss": "upon himself"
+    },
+    {
+     "id": "3:5.9",
+     "gloss": "yoke of",
+     "sense": "1",
+     "note": "עֹל \"yoke\"; the pack links it to עַל, which does not fit."
+    },
+    {
+     "id": "3:5.10",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.11",
+     "gloss": "they remove",
+     "sense": "1",
+     "note": "Hifil participle of עבר, plural indefinite: \"they cause to pass away\"."
+    },
+    {
+     "id": "3:5.12",
+     "gloss": "from him"
+    },
+    {
+     "id": "3:5.13",
+     "gloss": "yoke of",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.14",
+     "gloss": "the government",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.15",
+     "gloss": "and the yoke of",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.16",
+     "gloss": "way of",
+     "sense": "1",
+     "note": "דֶּרֶךְ אֶרֶץ, idiom: \"the way of the land\", i.e. worldly occupation and livelihood."
+    },
+    {
+     "id": "3:5.17",
+     "gloss": "land",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.18",
+     "gloss": "and all of",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.19",
+     "gloss": "who throws off",
+     "sense": "1",
+     "note": "Qal participle of פרק \"to tear off, break off (a yoke)\"."
+    },
+    {
+     "id": "3:5.20",
+     "gloss": "from him"
+    },
+    {
+     "id": "3:5.21",
+     "gloss": "yoke of",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.22",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.23",
+     "gloss": "they place",
+     "sense": "1",
+     "note": "Qal participle of נתן, plural indefinite: \"they give, put\"."
+    },
+    {
+     "id": "3:5.24",
+     "gloss": "upon him"
+    },
+    {
+     "id": "3:5.25",
+     "gloss": "yoke of",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.26",
+     "gloss": "the government",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.27",
+     "gloss": "and the yoke of",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.28",
+     "gloss": "way of",
+     "sense": "1"
+    },
+    {
+     "id": "3:5.29",
+     "gloss": "land",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:5.1",
+      "3:5.2",
+      "3:5.3",
+      "3:5.4",
+      "3:5.5"
+     ],
+     "english": "Rabbi Nehunya son of Hakanah says",
+     "literal": "'Rabbi Nehunya son-of the-Kanah says'; הַקָּנָה is a byname"
+    },
+    {
+     "tokens": [
+      "3:5.6",
+      "3:5.7",
+      "3:5.8",
+      "3:5.9",
+      "3:5.10"
+     ],
+     "english": "Whoever takes upon himself the yoke of Torah",
+     "literal": "'all who-takes upon-himself yoke-of Torah'"
+    },
+    {
+     "tokens": [
+      "3:5.11",
+      "3:5.12"
+     ],
+     "english": "they remove from him",
+     "literal": "'they-remove from-him'; the indefinite plural participle is impersonal"
+    },
+    {
+     "tokens": [
+      "3:5.13",
+      "3:5.14"
+     ],
+     "english": "the yoke of the government",
+     "literal": "'yoke-of kingdom'"
+    },
+    {
+     "tokens": [
+      "3:5.15",
+      "3:5.16",
+      "3:5.17"
+     ],
+     "english": "and the yoke of worldly occupation",
+     "literal": "'and-yoke-of way-of land'; דֶּרֶךְ אֶרֶץ is read as livelihood by Bartenura and Rabbeinu Yonah"
+    },
+    {
+     "tokens": [
+      "3:5.18",
+      "3:5.19",
+      "3:5.20",
+      "3:5.21",
+      "3:5.22"
+     ],
+     "english": "And whoever throws off from himself the yoke of Torah",
+     "literal": "'and-all who-throws-off from-him yoke-of Torah'"
+    },
+    {
+     "tokens": [
+      "3:5.23",
+      "3:5.24"
+     ],
+     "english": "they place upon him",
+     "literal": "'they-place upon-him'"
+    },
+    {
+     "tokens": [
+      "3:5.25",
+      "3:5.26"
+     ],
+     "english": "the yoke of the government",
+     "literal": "'yoke-of kingdom'"
+    },
+    {
+     "tokens": [
+      "3:5.27",
+      "3:5.28",
+      "3:5.29"
+     ],
+     "english": "and the yoke of worldly occupation",
+     "literal": "'and-yoke-of way-of land'"
+    }
+   ],
+   "grammar": [
+    "The saying is two parallel conditional sentences: כָּל + participle, then a plural participle (מַעֲבִירִין, נוֹתְנִין) as an impersonal passive.",
+    "The two sentences are chiastic opposites: 'remove' from the one who takes the yoke of Torah, 'place' on the one who throws it off.",
+    "הַמְקַבֵּל and הַפּוֹרֵק are articular participles used as the subject, 'the one who takes / the one who throws off'; the pair is a pun on the yoke: accepted or cast away.",
+    "עֹל תּוֹרָה is a construct chain 'the yoke of Torah'; the same pattern, עֹל מַלְכוּת, עֹל דֶּרֶךְ אֶרֶץ, follows.",
+    "דֶּרֶךְ אֶרֶץ ('the way of the land') is an idiom for the ordinary business of life, and in Avot often for the worldly occupation of earning a living."
+   ],
+   "note": "דֶּרֶךְ אֶרֶץ is rendered 'worldly occupation' by the project's decision, following Bartenura (3:5:2: the toil and labour of earning a living); Rambam (3:5:3) reads 'the toil of the times'. מַלְכוּת is 'the government': Bartenura says the burden of the king and officials, Rambam the toil of the king and his armies. The Vilna spelling is עול for עֹל. The pack's lemma link for עֹל (עַל) is a different word; the sense is 'yoke'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:5:1",
+     "relation": "follows",
+     "summary": "Bartenura glosses עֹל מַלְכוּת as the burden of the king and the officers. The English follows with 'the yoke of the government'."
+    },
+    {
+     "anchor": "bartenura:3:5:2",
+     "relation": "follows",
+     "summary": "Bartenura glosses דֶּרֶךְ אֶרֶץ as the toil and labour of earning a living, since the work of the one who studies is blessed. The English follows with 'worldly occupation'."
+    },
+    {
+     "anchor": "bartenura:3:5:3",
+     "relation": "follows",
+     "summary": "Bartenura says 'throws off the yoke of Torah' means one who says, 'The yoke of Torah is hard and I cannot bear it'. The English follows with 'throws off'."
+    },
+    {
+     "anchor": "rambam:3:5:1",
+     "relation": "follows",
+     "summary": "Rambam glosses עֹל תּוֹרָה as persistence in reading (הַתְמָדַת הַקְּרִיאָה). The English keeps 'the yoke of Torah' and follows him."
+    },
+    {
+     "anchor": "rambam:3:5:2",
+     "relation": "follows",
+     "summary": "Rambam glosses עֹל מַלְכוּת as the toil of the king and his troops. The English follows with 'the yoke of the government'."
+    },
+    {
+     "anchor": "rambam:3:5:3",
+     "relation": "records",
+     "summary": "Rambam glosses עֹל דֶּרֶךְ אֶרֶץ as 'the toil of the time (zeman)': in reward for taking the yoke of Torah, God spares him the toil of the age. The English follows Bartenura's 'worldly occupation' instead and records this."
+    }
+   ],
+   "apparatus": [
+    "Vilna reads עול for עֹל (four times) and ועול for וְעֹל (twice): spelling only."
+   ]
+  },
+  {
+   "ref": "3:6",
+   "english": "Rabbi Halafta son of Dosa, of Kefar Hananiah, says: Ten who sit and occupy themselves with Torah, the Shekhinah dwells among them, as it is said (Psalm 82): \"God stands in the congregation of God.\" And from where even five? As it is said (Amos 9): \"and his bundle upon the earth he has founded.\" And from where even three? As it is said (Psalm 82): \"In the midst of God he judges.\" And from where even two? As it is said (Malachi 3): \"Then those who fear the LORD spoke, each man to his fellow, and the LORD listened and heard, and so on.\" And from where even one? As it is said (Exodus 20): \"In every place where I cause my name to be remembered I will come to you and bless you.\"",
+   "literal": "Rabbi Halafta son-of Dosa man-of village-of Hananiah says ten who-sit and-occupy in-the-Torah Shekhinah dwelling between-them that-it-is-said Psalms 82 God standing in-congregation-of God and-from-where even five that-it-is-said Amos 9 and-his-bundle upon earth he-founded-it and-from-where even three that-it-is-said Psalms 82 in-midst-of God he-judges and-from-where even two that-it-is-said Malachi 3 then spoke fearers-of the-LORD man to his-fellow and-listened the-LORD and-heard and-so-on and-from-where even one that-it-is-said Exodus 20 in-every the-place which I-cause-to-be-remembered ACC my-name I-will-come to-you and-I-will-bless-you",
+   "tokens": [
+    {
+     "id": "3:6.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.2",
+     "gloss": "Halafta",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.3",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.4",
+     "gloss": "Dosa",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.5",
+     "gloss": "man of",
+     "sense": "1",
+     "note": "אִישׁ \"man\", here \"a man of (a place)\"."
+    },
+    {
+     "id": "3:6.6",
+     "gloss": "village of",
+     "note": "כְּפַר \"village\"."
+    },
+    {
+     "id": "3:6.7",
+     "gloss": "Hananiah",
+     "sense": "1",
+     "note": "a place name here."
+    },
+    {
+     "id": "3:6.8",
+     "gloss": "says",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.9",
+     "gloss": "ten"
+    },
+    {
+     "id": "3:6.10",
+     "gloss": "who sit",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.11",
+     "gloss": "and occupy themselves",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.12",
+     "gloss": "in the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.13",
+     "gloss": "Shekhinah",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.14",
+     "gloss": "dwelling",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.15",
+     "gloss": "among them"
+    },
+    {
+     "id": "3:6.16",
+     "gloss": "that it is said",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.17",
+     "gloss": "Psalms"
+    },
+    {
+     "id": "3:6.18",
+     "gloss": "82",
+     "note": "letter numeral: the pack gives no lexicon link."
+    },
+    {
+     "id": "3:6.19",
+     "gloss": "God",
+     "sense": "1",
+     "note": "אֱלֹהִים \"God\" (in the verse), read by Rambam as \"judges\" in the following verse."
+    },
+    {
+     "id": "3:6.20",
+     "gloss": "stands",
+     "sense": "1",
+     "note": "Nifal participle of נצב."
+    },
+    {
+     "id": "3:6.21",
+     "gloss": "in the congregation of",
+     "sense": "1",
+     "note": "עֵדָה \"congregation, assembly\"."
+    },
+    {
+     "id": "3:6.22",
+     "gloss": "God",
+     "sense": "1",
+     "note": "אֵל \"God\"; the pack links it to the particle אַל, which does not fit."
+    },
+    {
+     "id": "3:6.23",
+     "gloss": "and from where",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.24",
+     "gloss": "even"
+    },
+    {
+     "id": "3:6.25",
+     "gloss": "five",
+     "note": "the pack gives no parse beyond numeral."
+    },
+    {
+     "id": "3:6.26",
+     "gloss": "that it is said",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.27",
+     "gloss": "Amos",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.28",
+     "gloss": "9",
+     "note": "letter numeral, chapter 9."
+    },
+    {
+     "id": "3:6.29",
+     "gloss": "and his bundle",
+     "sense": "1",
+     "note": "אֲגֻדָּה \"bundle, band, group\"; here with the suffix: \"his bundle\"."
+    },
+    {
+     "id": "3:6.30",
+     "gloss": "upon"
+    },
+    {
+     "id": "3:6.31",
+     "gloss": "earth",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.32",
+     "gloss": "he founded it",
+     "sense": "1",
+     "note": "perfect with object suffix: \"he has founded it\"."
+    },
+    {
+     "id": "3:6.33",
+     "gloss": "and from where",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.34",
+     "gloss": "even"
+    },
+    {
+     "id": "3:6.35",
+     "gloss": "three"
+    },
+    {
+     "id": "3:6.36",
+     "gloss": "that it is said",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.37",
+     "gloss": "Psalms"
+    },
+    {
+     "id": "3:6.38",
+     "gloss": "82"
+    },
+    {
+     "id": "3:6.39",
+     "gloss": "in the midst of",
+     "sense": "1",
+     "note": "קֶרֶב \"inward part, midst\"."
+    },
+    {
+     "id": "3:6.40",
+     "gloss": "God",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.41",
+     "gloss": "he judges",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.42",
+     "gloss": "and from where",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.43",
+     "gloss": "even"
+    },
+    {
+     "id": "3:6.44",
+     "gloss": "two"
+    },
+    {
+     "id": "3:6.45",
+     "gloss": "that it is said",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.46",
+     "gloss": "Malachi",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.47",
+     "gloss": "3"
+    },
+    {
+     "id": "3:6.48",
+     "gloss": "then",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.49",
+     "gloss": "they spoke",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.50",
+     "gloss": "those who fear",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.51",
+     "gloss": "the LORD",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.52",
+     "gloss": "man",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.53",
+     "gloss": "to"
+    },
+    {
+     "id": "3:6.54",
+     "gloss": "his fellow",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.55",
+     "gloss": "and listened"
+    },
+    {
+     "id": "3:6.56",
+     "gloss": "the LORD",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.57",
+     "gloss": "and heard",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.58",
+     "gloss": "and so on",
+     "sense": "1",
+     "note": "וְגוֹ' is the abbreviation for וְגוֹמֵר \"and so on\" (the pack parses it as a form of גמר)."
+    },
+    {
+     "id": "3:6.59",
+     "gloss": "and from where",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.60",
+     "gloss": "even"
+    },
+    {
+     "id": "3:6.61",
+     "gloss": "one"
+    },
+    {
+     "id": "3:6.62",
+     "gloss": "that it is said",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.63",
+     "gloss": "Exodus"
+    },
+    {
+     "id": "3:6.64",
+     "gloss": "20",
+     "note": "letter numeral, chapter 20."
+    },
+    {
+     "id": "3:6.65",
+     "gloss": "in every",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.66",
+     "gloss": "the place",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.67",
+     "gloss": "where",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.68",
+     "gloss": "I cause to be remembered",
+     "sense": "1",
+     "note": "Hifil imperfect of זכר \"I cause to be remembered, I mention\"."
+    },
+    {
+     "id": "3:6.69",
+     "gloss": "-"
+    },
+    {
+     "id": "3:6.70",
+     "gloss": "my name",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.71",
+     "gloss": "I will come",
+     "sense": "1"
+    },
+    {
+     "id": "3:6.72",
+     "gloss": "to you"
+    },
+    {
+     "id": "3:6.73",
+     "gloss": "and I will bless you",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:6.1",
+      "3:6.2",
+      "3:6.3",
+      "3:6.4",
+      "3:6.5",
+      "3:6.6",
+      "3:6.7",
+      "3:6.8"
+     ],
+     "english": "Rabbi Halafta son of Dosa, of Kefar Hananiah, says",
+     "literal": "'Rabbi Halafta son-of Dosa man-of village-of Hananiah says'"
+    },
+    {
+     "tokens": [
+      "3:6.9",
+      "3:6.10",
+      "3:6.11",
+      "3:6.12"
+     ],
+     "english": "Ten who sit and occupy themselves with Torah",
+     "literal": "'ten who-sit and-occupy in-the-Torah'"
+    },
+    {
+     "tokens": [
+      "3:6.13",
+      "3:6.14",
+      "3:6.15"
+     ],
+     "english": "the Shekhinah dwells among them",
+     "literal": "'Shekhinah dwelling between-them'"
+    },
+    {
+     "tokens": [
+      "3:6.16",
+      "3:6.17",
+      "3:6.18"
+     ],
+     "english": "as it is said (Psalm 82)",
+     "literal": "'that-it-is-said Psalms 82'"
+    },
+    {
+     "tokens": [
+      "3:6.19",
+      "3:6.20",
+      "3:6.21",
+      "3:6.22"
+     ],
+     "english": "God stands in the congregation of God",
+     "literal": "'God standing in-congregation-of God'"
+    },
+    {
+     "tokens": [
+      "3:6.23",
+      "3:6.24",
+      "3:6.25"
+     ],
+     "english": "And from where even five",
+     "literal": "'and-from-where even five'"
+    },
+    {
+     "tokens": [
+      "3:6.26",
+      "3:6.27",
+      "3:6.28"
+     ],
+     "english": "as it is said (Amos 9)",
+     "literal": "'that-it-is-said Amos 9'"
+    },
+    {
+     "tokens": [
+      "3:6.29",
+      "3:6.30",
+      "3:6.31",
+      "3:6.32"
+     ],
+     "english": "and his bundle upon the earth he has founded",
+     "literal": "'and-his-bundle upon earth he-founded-it'"
+    },
+    {
+     "tokens": [
+      "3:6.33",
+      "3:6.34",
+      "3:6.35"
+     ],
+     "english": "And from where even three",
+     "literal": "'and-from-where even three'"
+    },
+    {
+     "tokens": [
+      "3:6.36",
+      "3:6.37",
+      "3:6.38"
+     ],
+     "english": "as it is said (Psalm 82)",
+     "literal": "'that-it-is-said Psalms 82'"
+    },
+    {
+     "tokens": [
+      "3:6.39",
+      "3:6.40",
+      "3:6.41"
+     ],
+     "english": "In the midst of God he judges",
+     "literal": "'in-midst-of God he-judges'; Bartenura and Rambam read אֱלֹהִים as judges"
+    },
+    {
+     "tokens": [
+      "3:6.42",
+      "3:6.43",
+      "3:6.44"
+     ],
+     "english": "And from where even two",
+     "literal": "'and-from-where even two'"
+    },
+    {
+     "tokens": [
+      "3:6.45",
+      "3:6.46",
+      "3:6.47"
+     ],
+     "english": "as it is said (Malachi 3)",
+     "literal": "'that-it-is-said Malachi 3'"
+    },
+    {
+     "tokens": [
+      "3:6.48",
+      "3:6.49",
+      "3:6.50",
+      "3:6.51",
+      "3:6.52",
+      "3:6.53",
+      "3:6.54"
+     ],
+     "english": "Then those who fear the LORD spoke, each man to his fellow",
+     "literal": "'then spoke fearers-of the-LORD man to his-fellow'"
+    },
+    {
+     "tokens": [
+      "3:6.55",
+      "3:6.56",
+      "3:6.57",
+      "3:6.58"
+     ],
+     "english": "and the LORD listened and heard, and so on",
+     "literal": "'and-listened the-LORD and-heard and-so-on'; the quotation is cut off"
+    },
+    {
+     "tokens": [
+      "3:6.59",
+      "3:6.60",
+      "3:6.61"
+     ],
+     "english": "And from where even one",
+     "literal": "'and-from-where even one'"
+    },
+    {
+     "tokens": [
+      "3:6.62",
+      "3:6.63",
+      "3:6.64"
+     ],
+     "english": "as it is said (Exodus 20)",
+     "literal": "'that-it-is-said Exodus 20'"
+    },
+    {
+     "tokens": [
+      "3:6.65",
+      "3:6.66",
+      "3:6.67",
+      "3:6.68",
+      "3:6.69",
+      "3:6.70"
+     ],
+     "english": "In every place where I cause my name to be remembered",
+     "literal": "'in-every the-place which I-cause-to-be-remembered ACC my-name'; the object marker אֶת has no separate English"
+    },
+    {
+     "tokens": [
+      "3:6.71",
+      "3:6.72",
+      "3:6.73"
+     ],
+     "english": "I will come to you and bless you",
+     "literal": "'I-will-come to-you and-I-will-bless-you'"
+    }
+   ],
+   "grammar": [
+    "The verse is a descending ladder: ten, five, three, two, one, each given a scripture proof introduced by וּמִנַּיִן אֲפִלּוּ 'and from where even'.",
+    "The first sentence has the same casus pendens as 3:2: 'Ten who sit ... the Shekhinah dwells among them'.",
+    "שְׁכִינָה שְׁרוּיָה בֵּינֵיהֶם: a feminine noun with a passive participle of שרה, 'dwelling', with the suffix בֵּינֵיהֶם 'among them'.",
+    "The proof texts are cut off at the point of the proof: the quotation from Malachi ends with וְגוֹ' ('and so on'), and Exodus 20:21 is quoted from בְּכָל הַמָּקוֹם.",
+    "אֲגֻדָּה ('bundle') is read as a hand with five fingers (Rambam, Rabbeinu Yonah) or as a bundle of three elements or three stalks of hyssop (Bartenura); the verse is a wordplay on the number in the proof."
+   ],
+   "note": "The proof of the five rests on אֲגֻדָּתוֹ, 'his bundle': Rambam and Rabbeinu Yonah read a bundle as what one binds in one hand, which has five fingers; Bartenura (3:6:4) reads 'three': fire, air and water around the earth, or a bundle of hyssop of three stalks, and notes that some books read 'five' with the hand. The English keeps 'his bundle'. In the first proof the congregation (עֵדָה) must be ten (Bartenura, Rambam, from Numbers 14:27). In the third, אֱלֹהִים is read as 'judges' (a court of three: Rambam, Bartenura); the English keeps 'God' and records this. 'Kefar Hananiah' is a place, as in the pack. The pack's lemma link for אֵל (the particle אַל) does not fit; the word is אֵל 'God', in 'the congregation of God'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:6:1",
+     "relation": "records",
+     "summary": "Bartenura says 'we read: ten who sat in judgment' (עֲשָׂרָה שֶׁהָיוּ יוֹשְׁבִים בַּדִּין). The English follows the printed text (Torah study) and records his reading."
+    },
+    {
+     "anchor": "bartenura:3:6:2",
+     "relation": "follows",
+     "summary": "Bartenura says a congregation (עֵדָה) is not fewer than ten, as in Numbers 14:27, where the ten spies minus Joshua and Caleb are 'this evil congregation'. The English follows."
+    },
+    {
+     "anchor": "bartenura:3:6:3",
+     "relation": "records",
+     "summary": "Bartenura says (on 'in the midst of God he judges') that three judges and two litigants make five; the English follows the printed text, 'even three', and records his remark."
+    },
+    {
+     "anchor": "bartenura:3:6:4",
+     "relation": "follows",
+     "summary": "Bartenura says that three are called a bundle: fire, air and water surround the foundation of the earth, or a bundle of hyssop of three stalks; some books read 'five' with the hand's five fingers. The English keeps 'bundle'."
+    },
+    {
+     "anchor": "bartenura:3:6:5",
+     "relation": "not-applicable",
+     "summary": "Bartenura says that נָטַל עָלָיו is from the root of סכך: the Shekhinah spreads over him like a covering. The comment belongs to the verse in 3:2 (Lamentations 3:28), not to the plain sense of 3:6."
+    },
+    {
+     "anchor": "rambam:3:6:1",
+     "relation": "follows",
+     "summary": "Rambam says that a congregation (עֵדָה) is not fewer than ten, and that a court is not fewer than three, who are called אֱלֹהִים for judgment; and that an אֲגֻדָּה is what a man binds in one hand, which has five fingers. The English follows the first and keeps 'bundle'."
+    }
+   ],
+   "apparatus": [
+    "Psalm 82:1 (אֱלֹהִים נִצָּב בַּעֲדַת אֵל).",
+    "Amos 9:6 (וַאֲגֻדָּתוֹ עַל אֶרֶץ יְסָדָהּ).",
+    "Psalm 82:1 (בְּקֶרֶב אֱלֹהִים יִשְׁפֹּט).",
+    "Malachi 3:16 (אָז נִדְבְּרוּ יִרְאֵי יְיָ אִישׁ אֶל רֵעֵהוּ וַיַּקְשֵׁב יְיָ וַיִּשְׁמָע ...).",
+    "Exodus 20:21 (בְּכָל הַמָּקוֹם אֲשֶׁר אַזְכִּיר אֶת שְׁמִי אָבֹא אֵלֶיךָ וּבֵרַכְתִּיךָ).",
+    "Vilna omits בֶן דּוֹסָא (3:6.3-4) and תהלים פב (3:6.37-38); reads אפילו for אֲפִלּוּ, ואגודתו for וַאֲגֻדָּתוֹ, ישפוט for יִשְׁפֹּט and וגומר for וְגוֹ'."
+   ]
+  }
+ ]
+}

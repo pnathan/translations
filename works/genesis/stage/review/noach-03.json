@@ -1,0 +1,395 @@
+{
+ "unit": "noach-03",
+ "model": "opus",
+ "summary": "The translation of Genesis 6:21-7:6 is sound in its English lines and follows the normative commentators throughout; no reading contradicts Rashi or Ibn Ezra. The English of 6:22 added an unmarked 'so' and dropped כֹּל, which Ramban's comment turns on. The main faults are in the notes: Ibn Ezra's comment on 7:4 is misread as a different count of days, Radak is misreported on the birds (7:3) and on 'not clean' (7:2), and several learner notes are untrue (telisha 'disjunctive-like', the 'two breaks' of 7:3, הַיְקוּם 'only here'). Several sense paths are wrong: אִשָּׁה of animals is 'female', absolute כֹּל is 2.a, and אׇכְלָה is not 'devouring'.",
+ "patches": [
+  {
+   "ref": "6:21",
+   "path": "token:6:21.13.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 2 of אׇכְלָה is 'devouring' (by beasts); here the word means 'food'. The pack lists no 'food' sense for the entry (only 2 'devouring' and 3 'consuming'), so no listed path fits and none should be given."
+  },
+  {
+   "ref": "6:21",
+   "path": "token:6:21.13.note",
+   "value": "noun with ל: 'for food, as food'. The entry's sense 'food' is not among the senses the pack lists, so no sense path is given.",
+   "severity": "style",
+   "reason": "'construct-less noun' is an unclear description of an absolute noun; the note now also explains the missing sense."
+  },
+  {
+   "ref": "6:21",
+   "path": "note",
+   "value": "The 'them' of the last clause are the animals of 6:19-20. Radak says even the predators ate the same plant foods and no meat, as at the beginning of creation.",
+   "severity": "style",
+   "reason": "Radak: וְלֹא אָכְלוּ בָּשָׂר כְּמוֹ שֶׁלֹּא אָכְלוּ בִּתְחִלַּת הַבְּרִיאָה. 'as before the creation of meat-eating' misstates this."
+  },
+  {
+   "ref": "6:22",
+   "path": "english",
+   "value": "Noah did according to all that God had commanded him; so he did.",
+   "severity": "error",
+   "reason": "The English added an unmarked 'so' to וַיַּעַשׂ נֹחַ ('Noah did so ... so he did') and dropped כֹּל. The 'all' carries the point Ramban draws from the verse: לֹא הִפִּיל דָּבָר מִכָּל אֲשֶׁר צֻוָּה."
+  },
+  {
+   "ref": "6:22",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "6:22.1",
+      "6:22.2"
+     ],
+     "english": "Noah did",
+     "literal": "'and-did Noah': the report of obedience"
+    },
+    {
+     "tokens": [
+      "6:22.3",
+      "6:22.4",
+      "6:22.5",
+      "6:22.6",
+      "6:22.7"
+     ],
+     "english": "according to all that God had commanded him",
+     "literal": "'like-all that commanded him God'"
+    },
+    {
+     "tokens": [
+      "6:22.8",
+      "6:22.9"
+     ],
+     "english": "so he did",
+     "literal": "'so he-did': repeats the verb as a summary"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the first two phrases."
+  },
+  {
+   "ref": "6:22",
+   "path": "token:6:22.3.gloss",
+   "value": "according to all",
+   "severity": "style",
+   "reason": "'just as all' is not English; כְּכֹל אֲשֶׁר is 'according to all that'."
+  },
+  {
+   "ref": "6:22",
+   "path": "token:6:22.3.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "כֹּל here is absolute and stands alone ('all that'), BDB 2.a 'all things, all'; sense 1 'the whole of, any, every' is the construct use."
+  },
+  {
+   "ref": "6:22",
+   "path": "grammar",
+   "value": [
+    "The wayyiqtol וַיַּעַשׂ narrates; the closing כֵּן עָשָׂה is a qatal that sums up.",
+    "The etnaḥta on נֹחַ divides the report 'Noah did' from its measure, 'according to all that God commanded him'.",
+    "The telisha gedola on כְּכֹל is a disjunctive accent of low rank. It is prepositive, written on the first letter of the word, and is written again on the stressed syllable.",
+    "אֹתוֹ is the object marker with a 3rd masculine singular suffix: 'him'.",
+    "Obedience is stated twice, in וַיַּעַשׂ נֹחַ and in כֵּן עָשָׂה, around the clause כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים."
+   ],
+   "severity": "error",
+   "reason": "The telisha note called the accent 'disjunctive-like'; telisha gedola is a disjunctive accent. 'before and after the commandment' wrongly suggested the times before and after God gave the command; the repetition frames the clause about the command."
+  },
+  {
+   "ref": "6:22",
+   "path": "note",
+   "value": "The English keeps the Hebrew order, with 'so he did' at the end. Ramban: the double statement, 'Noah did' and 'so he did', shows that he left out nothing of all he was commanded. Rashi takes the doing as the building of the ark; Ramban and Radak include the gathering of the food.",
+   "severity": "error",
+   "reason": "The note said the English 'moves' the clause 'so he did' to the end; the Hebrew already has it there and nothing was moved."
+  },
+  {
+   "ref": "7:2",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "7:2.1",
+      "7:2.2",
+      "7:2.3"
+     ],
+     "english": "Of every clean animal",
+     "literal": "'from-all-of the-animal the-clean'; partitive מִן with כֹּל in the construct: 'of every'"
+    },
+    {
+     "tokens": [
+      "7:2.4",
+      "7:2.5"
+     ],
+     "english": "take for yourself",
+     "literal": "'you-shall-take to-you'; an imperfect used as command"
+    },
+    {
+     "tokens": [
+      "7:2.6",
+      "7:2.7"
+     ],
+     "english": "seven each",
+     "literal": "'seven seven': distributive repetition"
+    },
+    {
+     "tokens": [
+      "7:2.8",
+      "7:2.9"
+     ],
+     "english": "a male and his mate",
+     "literal": "'man and-his-wife': the Hebrew uses the human terms of animals"
+    },
+    {
+     "tokens": [
+      "7:2.10",
+      "7:2.11"
+     ],
+     "english": "and of the animals",
+     "literal": "'and-from the-animal'"
+    },
+    {
+     "tokens": [
+      "7:2.12",
+      "7:2.13",
+      "7:2.14",
+      "7:2.15"
+     ],
+     "english": "that are not clean",
+     "literal": "'which not clean it': the negative expresses the absence of the quality"
+    },
+    {
+     "tokens": [
+      "7:2.16"
+     ],
+     "english": "two",
+     "literal": "'two'"
+    },
+    {
+     "tokens": [
+      "7:2.17",
+      "7:2.18"
+     ],
+     "english": "a male and his mate",
+     "literal": "'man and-his-wife'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The first phrase's literal said 'the ו of the second half and the construct make \"from every\"'. There is no ו in this phrase; 'of every' comes from מִן and the construct כֹּל."
+  },
+  {
+   "ref": "7:2",
+   "path": "token:7:2.1.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "כֹּל is a noun whose entry lists senses; the sense is missing. Construct before a noun, 'every': sense 1."
+  },
+  {
+   "ref": "7:2",
+   "path": "token:7:2.9.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "אִשָּׁה of animals is BDB sense 3 'female' (the entry cites this verse there), not sense 2 'wife'; the gloss 'mate' already takes it so."
+  },
+  {
+   "ref": "7:2",
+   "path": "token:7:2.18.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "As at 7:2.9: of animals, sense 3 'female', not 2 'wife'."
+  },
+  {
+   "ref": "7:2",
+   "path": "grammar",
+   "value": [
+    "תִּקַּח is an imperfect used as a command; the accent on לְךָ is tevir.",
+    "שִׁבְעָה שִׁבְעָה is distributive repetition. It can mean seven individuals of each kind or seven pairs; the text itself says 'a male and his mate' after it.",
+    "אִישׁ וְאִשְׁתּוֹ are the words for a human husband and wife, here applied to animals (Radak: a figurative use).",
+    "לֹא טְהֹרָה הִוא ('that is not clean') stands for 'unclean'. Radak: Scripture often puts a quality in the negative, as in כִּי לֹא טָהוֹר הוּא (1 Sam 20:26), and the sense is the same; the rabbis learned from this verse that one should not utter an unseemly word."
+   ],
+   "severity": "error",
+   "reason": "The note called the phrase a euphemism on Radak's authority. Radak says only that the negative form is a common usage with the same sense (פַּעַם יְדַבֵּר בִּמְקַיֵּם וּפַעַם בִּמְכַחֵשׁ וְהַכֹּל אֶחָד); the lesson about clean speech is the rabbis'."
+  },
+  {
+   "ref": "7:3",
+   "path": "grammar",
+   "value": [
+    "עוֹף is a collective singular, so the English plural 'birds'.",
+    "שִׁבְעָה שִׁבְעָה is again distributive; here זָכָר וּנְקֵבָה explains it.",
+    "לְחַיּוֹת is a Piel infinitive construct and gives the purpose.",
+    "The etnaḥta on וּנְקֵבָה divides the verse: the birds to be taken, then the purpose. The tevir on הַשָּׁמַיִם and the tipḥa on the second שִׁבְעָה are lesser pauses within the first half."
+   ],
+   "severity": "error",
+   "reason": "The note called the tevir and the etnaḥta 'the verse's two breaks'. The etnaḥta is the main division; the tevir is one of several lesser disjunctives (tevir, tipḥa, tipḥa)."
+  },
+  {
+   "ref": "7:3",
+   "path": "note",
+   "value": "גַּם ('also') joins the birds to the animals of 7:2. Rashi reads the verse as speaking of clean birds only, learning the unstated from the stated. Radak, at 7:2, weighs two readings: that all birds, clean and unclean, came in sevens, or that, as with the animals, only the clean birds did, the 'also' joining them to the clean animals. The English, like the Hebrew, does not say 'clean'.",
+   "severity": "error",
+   "reason": "Radak does not hold that the birds came in sevens whether clean or not. He raises that as a difficulty and offers the reading that only clean birds came in sevens (אֶלָּא אִם כֵּן נֹאמַר שֶׁלֹּא בָאוּ שִׁבְעָה אֶלָּא מֵהָעוֹף הַטָּהוֹר ... לְפִיכָךְ אָמַר גַּם)."
+  },
+  {
+   "ref": "7:4",
+   "path": "grammar",
+   "value": [
+    "The participle מַמְטִיר expresses what is about to happen; the weqatal וּמָחִיתִי continues it.",
+    "יָמִים ... עוֹד שִׁבְעָה: 'still seven days'; the preposition ל marks the span after which the event occurs.",
+    "הַיְקוּם is rare: here, 7:23 and Deut 11:6. Ibn Ezra says it occurs only in this section; he and Radak take it as a general word for every living being.",
+    "The verse uses אֲדָמָה (ground), not אֶרֶץ, for what is wiped out."
+   ],
+   "severity": "error",
+   "reason": "הַיְקוּם is not found only in Gen 7:4 and 7:23; it also occurs in Deut 11:6 (וְאֵת כָּל־הַיְקוּם אֲשֶׁר בְּרַגְלֵיהֶם). Ibn Ezra's 'only in this section' is his statement and is now attributed to him."
+  },
+  {
+   "ref": "7:4",
+   "path": "token:7:4.16.note",
+   "value": "a rare word (here, 7:23, Deut 11:6); Ibn Ezra says it occurs only in this section; the root is קום or יקם",
+   "severity": "style",
+   "reason": "The note gave 'found only in this story' as if true; the word also occurs in Deut 11:6."
+  },
+  {
+   "ref": "7:4",
+   "path": "token:7:4.12.gloss",
+   "value": "nights",
+   "severity": "style",
+   "reason": "Matches 7:4.10 'days': after a number above ten the counted noun is singular in Hebrew and plural in English."
+  },
+  {
+   "ref": "7:4",
+   "path": "commentary:ibn-ezra:7:4:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: on the seventh day He will bring rain, and it will last to the end of forty days; this was on the tenth of the second month. His closing words, that 'the middle returns to the front, and it is a secret', are an astronomical remark that does not bear on the words. He reads 'in seven more days' as the English does."
+   },
+   "severity": "error",
+   "reason": "The summary said Ibn Ezra 'counts the days differently from the plain reading'. He does not: כי ביום השביעי ימטיר עד סוף ארבעים יום is the plain reading of 'in seven more days ... forty days', which the English follows. The 'secret' concerns the stars, not the count."
+  },
+  {
+   "ref": "7:4",
+   "path": "apparatus",
+   "value": [
+    "Onkelos renders הַיְקוּם by its cognate יְקוּמָא and אֲדָמָה by אַרְעָא, his usual equivalent; neither is a variant of the Hebrew."
+   ],
+   "severity": "style",
+   "reason": "'reading the last word as \"earth\"' suggested a variant; אַרְעָא is Onkelos's ordinary rendering of אֲדָמָה."
+  },
+  {
+   "ref": "7:5",
+   "path": "english",
+   "value": "Noah did according to all that the LORD had commanded him.",
+   "severity": "style",
+   "reason": "Carries כֹּל, as now at 6:22, which this verse repeats."
+  },
+  {
+   "ref": "7:5",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "7:5.1",
+      "7:5.2"
+     ],
+     "english": "Noah did",
+     "literal": "'and-did Noah'"
+    },
+    {
+     "tokens": [
+      "7:5.3",
+      "7:5.4",
+      "7:5.5",
+      "7:5.6"
+     ],
+     "english": "according to all that the LORD had commanded him",
+     "literal": "'like-all that commanded-him the-LORD'"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English changed the second phrase."
+  },
+  {
+   "ref": "7:5",
+   "path": "token:7:5.3.gloss",
+   "value": "according to all",
+   "severity": "style",
+   "reason": "As at 6:22.3."
+  },
+  {
+   "ref": "7:5",
+   "path": "token:7:5.3.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "Absolute כֹּל standing alone ('all that'): BDB 2.a, not 1."
+  },
+  {
+   "ref": "7:5",
+   "path": "note",
+   "value": "The Hebrew repeats the report of 6:22, with the divine name changed. Rashi reads 'Noah did' as his entering the ark; Ibn Ezra as his coming with his household near the ark; Radak as his entering with his household and bringing in the animals. The English line gives the plain wording.",
+   "severity": "error",
+   "reason": "The note said Rashi and Ibn Ezra both read 'Noah did' as entering the ark. Ibn Ezra says he came with his household near the ark (וּבָא עִם בֵּיתוֹ קָרוֹב אֶל הַתֵּיבָה), not into it."
+  },
+  {
+   "ref": "7:6",
+   "path": "note",
+   "value": "Radak glosses וְהַמַּבּוּל הָיָה as 'a flood of water': the one word מַבּוּל serves twice, 'the flood came' and '(a flood of) water upon the earth'. The English line reads 'the flood came, water upon the earth'.",
+   "severity": "style",
+   "reason": "'the word flood standing for two (flood, water)' suggested that מַבּוּל means both 'flood' and 'water'. Radak's עוֹמֵד בִּמְקוֹם שְׁנַיִם means the word serves twice."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:6:22:1",
+   "verdict": "consistent",
+   "comment": "Rashi takes the doing as the building of the ark; the English does not restrict it."
+  },
+  {
+   "anchor": "rashi:7:1:1",
+   "verdict": "consistent",
+   "comment": "The English says only 'righteous', as Rashi notes."
+  },
+  {
+   "anchor": "rashi:7:2:1",
+   "verdict": "consistent",
+   "comment": "'Clean' agrees with Rashi's reading; his 'destined to be clean for Israel' does not change the word."
+  },
+  {
+   "anchor": "rashi:7:2:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:7:3:1",
+   "verdict": "consistent",
+   "comment": "The English, like the Hebrew, leaves 'clean' unstated; the note records Rashi's restriction."
+  },
+  {
+   "anchor": "rashi:7:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:7:4:2",
+   "verdict": "consistent",
+   "comment": "'more days' agrees with Rashi: a further period added to the 120 years."
+  },
+  {
+   "anchor": "rashi:7:4:3",
+   "verdict": "not-applicable",
+   "comment": "A homily on the number forty."
+  },
+  {
+   "anchor": "ibn-ezra:7:4:1",
+   "verdict": "consistent",
+   "comment": "The rain begins on the seventh day and lasts forty days, as the English has it; the summary is patched."
+  },
+  {
+   "anchor": "ibn-ezra:7:4:2",
+   "verdict": "consistent",
+   "comment": "'every living thing' follows his general term for every living being."
+  },
+  {
+   "anchor": "rashi:7:5:1",
+   "verdict": "consistent",
+   "comment": "The English 'Noah did' does not exclude Rashi's entering the ark."
+  },
+  {
+   "anchor": "ibn-ezra:7:5:1",
+   "verdict": "consistent"
+  }
+ ]
+}

@@ -1,0 +1,393 @@
+{
+ "unit": "lekh-lekha-07",
+ "model": "opus",
+ "summary": "The English of 14:9-16 is sound and agrees with Rashi and Ibn Ezra on every point that bears on it. 14:10 needs a decision: 'the king of Sodom and Gomorrah fled, and they fell there' reads as one king, and the proposed fix is 'the kings'. 14:12 puts 'the son of Abram's brother' after 'his goods', where it seems to describe the goods. The main faults are in the apparatus. Notes say the pack parses 14:9.16 as the object marker, which it does not, and they invent a Ketiv/Qere at 14:14.8 out of Rashi's reported spelling. Several summaries misread their comments: Rashi's miracle of the mud pit, Radak's 'within their border', Ibn Ezra's 'one of the people of Sodom', and Onkelos's וְזָרִיז, which means 'armed', not 'ready'. Several relations claim 'follows' where the English takes another commentator's sense, and some accent and morphology notes are false.",
+ "patches": [
+  {
+   "ref": "14:9",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "14:9.1",
+      "14:9.2",
+      "14:9.3",
+      "14:9.4"
+     ],
+     "english": "with Chedorlaomer king of Elam",
+     "literal": "'with-Chedorlaomer king-of Elam'; אֵת = עִם (Ibn Ezra)"
+    },
+    {
+     "tokens": [
+      "14:9.5",
+      "14:9.6",
+      "14:9.7"
+     ],
+     "english": "Tidal king of Goim",
+     "literal": "'and-Tidal king-of Goim'; each of the later names has ו, which the English gives only before the last"
+    },
+    {
+     "tokens": [
+      "14:9.8",
+      "14:9.9",
+      "14:9.10"
+     ],
+     "english": "Amraphel king of Shinar",
+     "literal": "'and-Amraphel king-of Shinar'"
+    },
+    {
+     "tokens": [
+      "14:9.11",
+      "14:9.12",
+      "14:9.13"
+     ],
+     "english": "and Arioch king of Ellasar",
+     "literal": "'and-Arioch king-of Ellasar'"
+    },
+    {
+     "tokens": [
+      "14:9.14",
+      "14:9.15"
+     ],
+     "english": "four kings",
+     "literal": "'four kings'"
+    },
+    {
+     "tokens": [
+      "14:9.16",
+      "14:9.17"
+     ],
+     "english": "against the five",
+     "literal": "'with the-five'; the second אֵת is again 'with', in the sense of battling against"
+    }
+   ],
+   "severity": "error",
+   "reason": "The second phrase's literal said the list is asyndetic until the last name. It is not: וְתִדְעָל, וְאַמְרָפֶל and וְאַרְיוֹךְ each carry ו; only the English drops the first two. The phrases are otherwise unchanged."
+  },
+  {
+   "ref": "14:9",
+   "path": "token:14:9.16.note",
+   "value": "the preposition אֵת 'with', as in 14:9.1; of two sides in battle, 'with' means 'against'",
+   "severity": "error",
+   "reason": "The note said the pack parses this אֶת as the object marker. It does not: the pack gives 14:9.16 as a preposition under the 'with' entry bdb:a.gn.aa, the same as 14:9.1."
+  },
+  {
+   "ref": "14:9",
+   "path": "note",
+   "value": "Both אֵת in the verse (14:9.1, 14:9.16) are the preposition 'with', as the pack parses them and as Ibn Ezra glosses the first (כמו עם); in a battle 'with' the five means 'against' them. Goim (גּוֹיִם) is left as a name, as the lexicon gives it; the word is also 'nations', and Onkelos translates it 'of the peoples' (דְעַמְמִין). Onkelos reads 'Babel' for Shinar.",
+   "severity": "error",
+   "reason": "The note claimed the pack parses the second אֶת־ as the object marker and that the translator departs from it. The pack parses it as the preposition; there is no conflict with the data."
+  },
+  {
+   "ref": "14:10",
+   "path": "english",
+   "value": "The Valley of Siddim was pit upon pit of bitumen, and the kings of Sodom and Gomorrah fled and fell there, and the survivors fled into the hills.",
+   "severity": "question",
+   "reason": "'The king of Sodom and Gomorrah fled, and they fell there' reads in English as one king of two cities. The plural verbs, the separate kings of 14:2 and 14:8, and the translator's own grammar note all take the sense as the king of Sodom and the king of Gomorrah (so Radak's 'these two', and Ramban, who speaks of the king of Gomorrah apart). Proposed: 'the kings of Sodom and Gomorrah fled and fell there', with the singular construct explained in the token note."
+  },
+  {
+   "ref": "14:10",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "14:10.1",
+      "14:10.2",
+      "14:10.3",
+      "14:10.4",
+      "14:10.5"
+     ],
+     "english": "The Valley of Siddim was pit upon pit of bitumen",
+     "literal": "'and-valley-of the-Siddim pits-of pits-of bitumen'; the doubled noun means many pits"
+    },
+    {
+     "tokens": [
+      "14:10.6",
+      "14:10.7",
+      "14:10.8",
+      "14:10.9"
+     ],
+     "english": "the kings of Sodom and Gomorrah fled",
+     "literal": "'and-fled king-of Sodom and-Gomorrah'; one construct 'king of' serves both cities, and the plural verb shows two kings"
+    },
+    {
+     "tokens": [
+      "14:10.10",
+      "14:10.11"
+     ],
+     "english": "and fell there",
+     "literal": "'and-fell thither', that is, into the pits"
+    },
+    {
+     "tokens": [
+      "14:10.12",
+      "14:10.13",
+      "14:10.14"
+     ],
+     "english": "and the survivors fled into the hills",
+     "literal": "'and-the-remaining to-hill fled'; הֶרָה is indefinite, 'to a hill' (Rashi)"
+    }
+   ],
+   "severity": "question",
+   "reason": "Follows the English patch: the second and third phrases change."
+  },
+  {
+   "ref": "14:10",
+   "path": "token:14:10.7.note",
+   "value": "singular construct serving both names; with the plural verbs the sense is the king of Sodom and the king of Gomorrah (14:2, 14:8), hence 'kings' in the English",
+   "severity": "question",
+   "reason": "Follows the English patch."
+  },
+  {
+   "ref": "14:10",
+   "path": "token:14:10.13.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The translator follows Rashi: הֶרָה names no particular mountain, each king fled to the first mountain he found. That is sense 1 'mountain, hill'; sense 2 'hill-country, mountain-region' names a known region, closer to Ibn Ezra's 'to the mountain', which the English does not adopt."
+  },
+  {
+   "ref": "14:10",
+   "path": "commentary:rashi:14:10:1.summary",
+   "value": "Rashi: there were many pits there, from which earth was taken for the mortar of buildings. The aggadic midrash: the mud was thick in them, and a miracle was done for the king of Sodom, who came out of it, because some among the nations did not believe that Abraham had been saved from the furnace at Ur Kasdim; once this king came out of the mud, they believed in Abram after the fact. The English takes his 'many pits' but keeps the lexicon's 'bitumen' for the material.",
+   "severity": "error",
+   "reason": "The summary said 'the mud-covered pits made a miracle for the king of Sodom', which garbles Rashi: a miracle was done for the king so that he came out of the mud, and the summary left out the reason Rashi gives, the nations' disbelief in Abraham's rescue from the furnace."
+  },
+  {
+   "ref": "14:10",
+   "path": "commentary:ibn-ezra:14:10:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: בְּאֵר everywhere in Scripture is a well with flowing water, and its form here (בֶּאֱרֹת) is changed because of the construct. The English accepts the construct, but where he and Rashi differ on the sense it takes Rashi's pits dug for earth rather than wells; his 'wells' is kept here."
+   },
+   "severity": "error",
+   "reason": "The ruling said 'follows', but the English 'pits' (sense 2) is not Ibn Ezra's sense: he says באר is always a spring-fed well. The English follows Rashi on the sense, which is allowed, so Ibn Ezra's reading must be recorded, not claimed as followed."
+  },
+  {
+   "ref": "14:10",
+   "path": "commentary:ibn-ezra:14:10:2",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: וַיִּפְּלוּ שָׁמָּה means they let themselves fall there of their own will, to escape (ברצונם להמלט), as in 'and he fell on his face' (Numbers 16:4). The English keeps the neutral 'fell there', which does not exclude this reading but does not adopt it."
+   },
+   "severity": "question",
+   "reason": "The English line, by the translator's own note, leaves the question open and does not say they threw themselves down to hide; 'follows' claims more than the English carries. 'records' is the right relation."
+  },
+  {
+   "ref": "14:11",
+   "path": "commentary:radak:14:11:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Radak: the Valley of Siddim lay within the border of Sodom and Gomorrah, and the battle was there; Admah, Zeboiim and Bela were not on that side. So the kings took the goods of Sodom and Gomorrah from those cities and their villages, and רְכֻשׁ includes movable property and livestock. The English 'goods' carries this."
+   },
+   "severity": "error",
+   "reason": "The summary said the valley lay 'on the edge of the five cities'. Radak says it was within the border of Sodom and Gomorrah (בִּגְבוּלָם), which is his reason why only those two cities' goods are named. 'records' was also wrong: the English does not reject his reading of רְכֻשׁ."
+  },
+  {
+   "ref": "14:12",
+   "path": "english",
+   "value": "They took Lot, the son of Abram's brother, and his goods, and went away; he was living in Sodom.",
+   "severity": "style",
+   "reason": "In 'They took Lot and his goods, the son of Abram's brother', the apposition seems to describe 'his goods'. The Hebrew sets בֶּן־אֲחִי אַבְרָם after the goods; English must put it beside Lot to say the same thing. Every phrase still occurs in the new line. The Hebrew order is described in the grammar notes."
+  },
+  {
+   "ref": "14:12",
+   "path": "grammar",
+   "value": [
+    "וְהוּא יֹשֵׁב is a circumstantial clause: a pronoun plus a participle that states a situation, not a sequence.",
+    "בֶּן־אֲחִי אַבְרָם is a double construct chain in apposition to לוֹט, although in the Hebrew it stands after 'and his goods'; the English moves it next to Lot.",
+    "The qadma on וַיִּקְחוּ and the darga on לוֹט are conjunctive and lead to the tevir on רְכֻשׁוֹ; the merkha on אֲחִי leads to the tipḥa on אַבְרָם, and the etnaḥta on וַיֵּלֵכוּ ends the first half.",
+    "In the second half the merkha on וְהוּא joins the pronoun to its participle, and tipḥa and silluq close the verse: the narrator adds where Lot was living."
+   ],
+   "severity": "error",
+   "reason": "The third note made qadma and darga lead to a merkha-tipha pair; the darga leads to the tevir on רְכֻשׁוֹ. The fourth said the merkha on וְהוּא 'marks the aside': merkha is conjunctive and marks nothing off; the clause is set apart by the etnaḥta before it."
+  },
+  {
+   "ref": "14:13",
+   "path": "commentary:ibn-ezra:14:13:1.summary",
+   "value": "Ibn Ezra: הַפָּלִיט is one who fled and escaped, one of the people of Sodom (מבני סדום), as in 'the fugitive from Jerusalem came to me' (Ezekiel 33:21); there is also a midrashic way. The English uses 'the fugitive'.",
+   "severity": "error",
+   "reason": "The summary said the fugitive 'escaped from the people of Sodom'. מבני סדום here says who he was, one of the Sodomites who escaped the kings, not whom he escaped from."
+  },
+  {
+   "ref": "14:14",
+   "path": "token:14:14.6.note",
+   "value": "Hiphil wayyiqtol of רִיק, 'empty out': here to draw out weapons or to equip with them",
+   "severity": "error",
+   "reason": "The note gave the root as רוק; the pack's lemma and root are רִיק / ריק, as the grammar note also says."
+  },
+  {
+   "ref": "14:14",
+   "path": "token:14:14.8.note",
+   "value": "plural of חָנִיךְ 'trained' with the suffix 'his'; Rashi cites a written form חנכו (singular), which the MAM text does not have",
+   "severity": "error",
+   "reason": "The note presented חֲנִיכָיו as a Qere with a Ketiv חנכו. The pack's text and variants record no Ketiv/Qere here. The spelling חנכו is a form Rashi reports (his text adds ס\"א קרי), not a note in the MAM text."
+  },
+  {
+   "ref": "14:14",
+   "path": "apparatus",
+   "value": [
+    "Rashi reports the spelling חנכו, singular, 'his trained one', which he reads as Eliezer; the MAM text reads חֲנִיכָיו and the pack records no Ketiv/Qere at this word (14:14.8)."
+   ],
+   "severity": "error",
+   "reason": "The apparatus stated a Ketiv/Qere at 14:14.8 as a fact of the text. The pack lists no such variant; it is a spelling reported by Rashi."
+  },
+  {
+   "ref": "14:14",
+   "path": "grammar",
+   "value": [
+    "וַיִּשְׁמַע ... כִּי introduces the content of what Abram heard: 'that his brother was taken captive'. The Niphal נִשְׁבָּה is passive.",
+    "וַיָּרֶק is Hiphil of רִיק, 'empty out'. The verb is used of drawing a sword (Leviticus 26:33) or a spear (Psalm 35:3), and so here 'armed'; its object is 'his trained men'.",
+    "חֲנִיכָיו is the plural of חָנִיךְ with the suffix 'his', from the root חנך, 'train, initiate' (compare 'train up a child', Proverbs 22:6). Rashi cites a singular written form חנכו, which the MAM text does not have.",
+    "The number is written 'eight ten and three hundreds': שְׁמֹנָה עָשָׂר 'eighteen' first, then שְׁלֹשׁ מֵאוֹת 'three hundred', with the short form of 'three' because מֵאָה is feminine. English reverses the order.",
+    "Etnahta on אָחִיו divides the verse into the news and Abram's response."
+   ],
+   "severity": "error",
+   "reason": "The third note called חֲנִיכָיו a Qere and חנכו its Ketiv; the text has no Ketiv/Qere here (see the apparatus patch). The second and fourth notes are made clear: a stray comma, and an unclear account of how the number is built."
+  },
+  {
+   "ref": "14:14",
+   "path": "note",
+   "value": "For וַיָּרֶק I choose 'armed' on the combined view of Rashi (armed, as Onkelos וְזָרִיז) and Ibn Ezra's first reading ('gave them weapons'); his second reading, 'drew out the swords from the sheath', is kept in the commentary entry. Rashi's singular spelling חנכו is recorded in the apparatus. Rashi's midrash that the three hundred and eighteen are Eliezer alone is not adopted, and Rashi's remark on Dan (the later calf-idol) is not a reading of the words.",
+   "severity": "error",
+   "reason": "The note spoke of 'the Ketiv of חניכיו'; there is no Ketiv in the text. It also glossed Onkelos's וְזָרִיז as 'ready': with Rashi's proof texts it means 'armed'."
+  },
+  {
+   "ref": "14:14",
+   "path": "commentary:rashi:14:14:1.summary",
+   "value": "Rashi: וַיָּרֶק means 'armed', as Onkelos renders it (וְזָרִיז); so 'I will unsheathe (וַהֲרִיקֹתִי) the sword after you' (Leviticus 26:33) means 'I will arm myself with my sword against you', and so 'I will draw my sword' (Exodus 15:9) and 'draw out the spear and close' (Psalm 35:3). The English takes 'armed'.",
+   "severity": "error",
+   "reason": "The summary rendered Onkelos's וְזָרִיז as 'ready'. Rashi's own gloss on the proof text, אֶזְדַּיֵּן 'I will arm myself', shows the sense is 'armed, equipped'. The other two proof texts Rashi cites were also left out."
+  },
+  {
+   "ref": "14:14",
+   "path": "commentary:rashi:14:14:2.summary",
+   "value": "Rashi: the word is written חנכו, singular, 'his trained one': this is Eliezer, whom he had trained in the commandments. The word means a person's or a vessel's first entry into the craft it is to serve, as in 'train up a child' (Proverbs 22:6), 'the dedication of the altar' (Numbers 7) and 'the dedication of the house' (Psalm 30). The English renders the plural of the MAM text, 'trained men', in this sense.",
+   "severity": "error",
+   "reason": "The summary gave Rashi a Ketiv/Qere pair; Rashi reports only the written form חנכו (one version says it is the reading). It also left out that his reading of the singular as Eliezer depends on that spelling, and his other examples of the root."
+  },
+  {
+   "ref": "14:15",
+   "path": "commentary:rashi:14:15:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: 'night' means that even after dark he did not hold back from pursuing them; the English 'by night' follows this plain sense. The aggadic midrash, that the night was divided, with a miracle done for him in its first half while the second half was kept for the midnight of Egypt, is not adopted."
+   },
+   "severity": "question",
+   "reason": "Rashi's first and main comment is the plain sense, which the English adopts; only the midrash he adds is not adopted. 'records' misstates the relation of the English to his plain sense."
+  },
+  {
+   "ref": "14:16",
+   "path": "grammar",
+   "value": [
+    "The first verb, וַיָּשֶׁב, is the Hiphil wayyiqtol of שׁוּב, 'bring back': after the wayyiqtol prefix the long form יָשִׁיב is shortened and its vowel becomes segol. Do not confuse it with וַיֵּשֶׁב 'and he sat, dwelt', from יָשַׁב.",
+    "In the second clause the verb is placed last (הֵשִׁיב, perfect), after its double object; this emphasis on Lot sets him apart from the general goods.",
+    "וְגַם ... וְגַם ... repeats 'and also' in the verse, as the narrator widens the list from goods to Lot and then to the captives.",
+    "The etnaḥta on הָרְכֻשׁ divides the verse in two: the goods, then the persons."
+   ],
+   "severity": "error",
+   "reason": "The first note said the short form 'lacks the usual ה-vowel', which is not a fact of Hebrew: the Hiphil wayyiqtol has no ה, and the shortening is יָשִׁיב to יָשֶׁב. The fourth made the zaqef gadol on the first word one of the verse's two dividers; only the etnaḥta divides the verse."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:14:9:1",
+   "verdict": "consistent",
+   "comment": "A remark on the numbers; the English 'four kings against the five' leaves it in view."
+  },
+  {
+   "anchor": "ibn-ezra:14:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:10:1",
+   "verdict": "consistent",
+   "comment": "His many pits are adopted; that earth for mortar was taken from them does not exclude the lexicon's bitumen (compare 11:3, where חֵמָר serves as mortar)."
+  },
+  {
+   "anchor": "rashi:14:10:2",
+   "verdict": "consistent",
+   "comment": "Indefinite 'into the hills'; the sense is patched to 1 to match."
+  },
+  {
+   "anchor": "ibn-ezra:14:10:1",
+   "verdict": "contradicts",
+   "comment": "On the sense he has 'wells' and Rashi 'pits'; where they differ the English may follow Rashi. The relation is patched to records."
+  },
+  {
+   "anchor": "ibn-ezra:14:10:2",
+   "verdict": "consistent",
+   "comment": "The neutral 'fell there' allows his reading; the relation is patched to records."
+  },
+  {
+   "anchor": "ibn-ezra:14:10:3",
+   "verdict": "contradicts",
+   "comment": "His 'to the mountain' differs from Rashi's indefinite reading, which the English follows; it is recorded."
+  },
+  {
+   "anchor": "rashi:14:12:1",
+   "verdict": "not-applicable",
+   "comment": "A moral comment."
+  },
+  {
+   "anchor": "ibn-ezra:14:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:13:1",
+   "verdict": "consistent",
+   "comment": "'The fugitive' leaves room for his identification with Og."
+  },
+  {
+   "anchor": "rashi:14:13:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:13:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:14:13:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:14:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:14:2",
+   "verdict": "consistent",
+   "comment": "The sense 'trained' is adopted; the singular reading as Eliezer is not, as at rashi:14:14:3."
+  },
+  {
+   "anchor": "rashi:14:14:3",
+   "verdict": "consistent",
+   "comment": "Given by Rashi as a rabbinic midrash and rejected by Ibn Ezra as gematria; the number at face value stands."
+  },
+  {
+   "anchor": "rashi:14:14:4",
+   "verdict": "not-applicable",
+   "comment": "A homily on the place."
+  },
+  {
+   "anchor": "ibn-ezra:14:14:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:14:14:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:15:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:15:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:15:3",
+   "verdict": "consistent",
+   "comment": "The name Hobah is kept; his identification with Dan is a homily and does not change the English."
+  }
+ ]
+}

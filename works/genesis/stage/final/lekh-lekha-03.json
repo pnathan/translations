@@ -1,0 +1,1087 @@
+{
+ "unit": "lekh-lekha-03",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "12:17",
+   "english": "Then the LORD struck Pharaoh with great plagues, and his household too, on account of Sarai, Abram's wife.",
+   "literal": "and-struck the-LORD [obj] Pharaoh plagues great and-[obj] house-his on-account-of Sarai wife-of Abram",
+   "tokens": [
+    {
+     "id": "12:17.1",
+     "gloss": "and struck",
+     "sense": "Pi",
+     "note": "wayyiqtol, Piel of נגע: 'strike' (with a plague)"
+    },
+    {
+     "id": "12:17.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "12:17.3",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "12:17.4",
+     "gloss": "Pharaoh"
+    },
+    {
+     "id": "12:17.5",
+     "gloss": "plagues",
+     "note": "cognate of the verb: 'struck ... with strikes'"
+    },
+    {
+     "id": "12:17.6",
+     "gloss": "great",
+     "note": "attributive adjective, masculine plural, agreeing with נְגָעִים; the pack's entry lists no sense for plain 'great' in size or degree, so no sense is given"
+    },
+    {
+     "id": "12:17.7",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "12:17.8",
+     "gloss": "his house, household",
+     "sense": "5",
+     "note": "construct of בַּיִת with the suffix 'his'"
+    },
+    {
+     "id": "12:17.9",
+     "gloss": "on account of",
+     "sense": "II"
+    },
+    {
+     "id": "12:17.10",
+     "gloss": "matter of",
+     "sense": "IV",
+     "note": "construct; עַל־דְּבַר is an idiom, 'on account of'"
+    },
+    {
+     "id": "12:17.11",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "12:17.12",
+     "gloss": "wife of",
+     "sense": "2",
+     "note": "construct state"
+    },
+    {
+     "id": "12:17.13",
+     "gloss": "Abram"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:17.1",
+      "12:17.2"
+     ],
+     "english": "Then the LORD struck",
+     "literal": "'and-struck the-LORD'; wayyiqtol of a Piel verb, with the divine name after it"
+    },
+    {
+     "tokens": [
+      "12:17.3",
+      "12:17.4"
+     ],
+     "english": "Pharaoh",
+     "literal": "the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "12:17.5",
+      "12:17.6"
+     ],
+     "english": "with great plagues",
+     "literal": "'plagues great'; the verb and noun share the root נגע"
+    },
+    {
+     "tokens": [
+      "12:17.7",
+      "12:17.8"
+     ],
+     "english": "and his household too",
+     "literal": "'and-[obj] his-house'; the household is struck as well, but not with 'great' plagues on Sforno's reading"
+    },
+    {
+     "tokens": [
+      "12:17.9",
+      "12:17.10"
+     ],
+     "english": "on account of",
+     "literal": "'on the-matter-of'"
+    },
+    {
+     "tokens": [
+      "12:17.11"
+     ],
+     "english": "Sarai",
+     "literal": "'Sarai'"
+    },
+    {
+     "tokens": [
+      "12:17.12",
+      "12:17.13"
+     ],
+     "english": "Abram's wife",
+     "literal": "'wife-of Abram'; construct chain"
+    }
+   ],
+   "grammar": [
+    "וַיְנַגַּע is a Piel wayyiqtol with a cognate accusative, נְגָעִים גְּדֹלִים: the verb and its object come from one root.",
+    "The darga on יְהוָה is a conjunctive accent; the vertical stroke after it is a paseq, a slight pause that keeps the divine name apart from the object marker. The tevir on פַּרְעֹה is a minor disjunctive, and the etnaḥta on בֵּיתוֹ closes the first half: both objects, Pharaoh and his household, stand in that half, and the reason clause follows.",
+    "עַל־דְּבַר is a compound preposition, 'on account of', with the construct chain אֵשֶׁת אַבְרָם closing the verse."
+   ],
+   "note": "Rashi's gloss (the plague of 'raathan', a disease that made intercourse painful) is a midrashic reading and does not change the plain wording, so the English says only 'plagues'. The Hebrew does not say whether 'great' applies to the household too; Sforno reads lesser plagues on the household, and the English 'and his household too' leaves the question open. On עַל־דְּבַר the English follows Ibn Ezra ('because of'); Rashi's 'at her word' is recorded.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:17:1",
+     "relation": "records",
+     "summary": "Rashi, from Genesis Rabbah: he was struck with the plague of ראתן, which made marital relations painful for him. The English keeps the general 'plagues'; the specific disease is kept here."
+    },
+    {
+     "anchor": "rashi:12:17:2",
+     "relation": "not-applicable",
+     "summary": "The anchor holds only an opening parenthesis; no comment on the words survives."
+    },
+    {
+     "anchor": "rashi:12:17:3",
+     "relation": "follows",
+     "summary": "Rashi: 'and his household' is as the Targum has it, אֱנַשׁ בֵּיתֵהּ, the people of his house; the midrash adds his walls, pillars and vessels (from the old Rashi). The English takes the plain 'household' and keeps the midrash here."
+    },
+    {
+     "anchor": "rashi:12:17:4",
+     "relation": "records",
+     "summary": "Rashi reads עַל דְּבַר as עַל פִּי דִּבּוּרָהּ, 'by her word': she would say to the angel 'strike', and he struck. The English follows Ibn Ezra's 'on account of' (בעבור) and keeps Rashi's reading here."
+    },
+    {
+     "anchor": "ibn-ezra:12:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: על דבר is like בעבור, 'on account of', and the sense is 'because of this matter'. The English follows this."
+    }
+   ],
+   "apparatus": [
+    "Ramban, Radak and Sforno also read the plagues as aimed at Pharaoh, with lesser plagues on the household (Sforno).",
+    "Targum Onkelos: 'great afflictions' (מַכְתָּשִׁין רַבְרְבִין)."
+   ]
+  },
+  {
+   "ref": "12:18",
+   "english": "Pharaoh summoned Abram and said, \"What is this you have done to me? Why did you not tell me that she is your wife?\"",
+   "literal": "and-called Pharaoh to-Abram and-said what this you-did to-me why not you-told to-me that wife-your she",
+   "tokens": [
+    {
+     "id": "12:18.1",
+     "gloss": "and called, summoned",
+     "sense": "Qal 5",
+     "note": "wayyiqtol; qal of קרא with ל of the person: 'summon'"
+    },
+    {
+     "id": "12:18.2",
+     "gloss": "Pharaoh"
+    },
+    {
+     "id": "12:18.3",
+     "gloss": "to Abram"
+    },
+    {
+     "id": "12:18.4",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "12:18.5",
+     "gloss": "what?",
+     "sense": "1"
+    },
+    {
+     "id": "12:18.6",
+     "gloss": "this",
+     "note": "feminine demonstrative, 'this (thing)'"
+    },
+    {
+     "id": "12:18.7",
+     "gloss": "you did",
+     "sense": "Qal I.1",
+     "note": "qatal 2ms"
+    },
+    {
+     "id": "12:18.8",
+     "gloss": "to me"
+    },
+    {
+     "id": "12:18.9",
+     "gloss": "why? (to what?)",
+     "sense": "1",
+     "note": "לָמָּה, 'why', is לְ + מָה, 'for what?'; it carries yetiv, a disjunctive accent"
+    },
+    {
+     "id": "12:18.10",
+     "gloss": "not"
+    },
+    {
+     "id": "12:18.11",
+     "gloss": "you told",
+     "sense": "Hiph",
+     "note": "Hiphil of נגד, 'declare, tell'; Ibn Ezra counts it among the verbs with a first-radical nun"
+    },
+    {
+     "id": "12:18.12",
+     "gloss": "to me"
+    },
+    {
+     "id": "12:18.13",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "12:18.14",
+     "gloss": "your wife",
+     "sense": "2",
+     "note": "construct state with 2ms suffix"
+    },
+    {
+     "id": "12:18.15",
+     "gloss": "she",
+     "note": "the feminine pronoun is spelled הוא in the consonantal text"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:18.1",
+      "12:18.2",
+      "12:18.3"
+     ],
+     "english": "Pharaoh summoned Abram",
+     "literal": "'and-called Pharaoh to-Abram'"
+    },
+    {
+     "tokens": [
+      "12:18.4"
+     ],
+     "english": "and said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "12:18.5",
+      "12:18.6",
+      "12:18.7",
+      "12:18.8"
+     ],
+     "english": "What is this you have done to me",
+     "literal": "'what this you-did to-me'"
+    },
+    {
+     "tokens": [
+      "12:18.9",
+      "12:18.10",
+      "12:18.11",
+      "12:18.12"
+     ],
+     "english": "Why did you not tell me",
+     "literal": "'why not you-told to-me'"
+    },
+    {
+     "tokens": [
+      "12:18.13",
+      "12:18.14",
+      "12:18.15"
+     ],
+     "english": "that she is your wife",
+     "literal": "'that wife-your she'; the verb 'is' is not written"
+    }
+   ],
+   "grammar": [
+    "הִגַּדְתָּ is a Hiphil qatal of נגד. The first nun of the root assimilates to the gimel, which therefore takes a dagesh (*hingadta \u003e higgadta); Ibn Ezra lists the verb among those with a first-radical nun (בעלי הנוני\"ן).",
+    "מַה־זֹּאת עָשִׂיתָ לִּי is a rhetorical reproach, 'what have you done to me?'.",
+    "כִּי here introduces the content of what should have been told: 'that she is your wife'.",
+    "The verse has two questions; the etnaḥta falls after לִּי, dividing them."
+   ],
+   "note": "The 'that' clause is read as the content that Abram should have told. Ramban notes that the question may be asked in doubt, to draw out the truth.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:12:18:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הגדת belongs to the 'nun' verbs, i.e. a root whose first letter נ falls away in forms; the English takes it as a Hiphil of נגד, 'you told'."
+    }
+   ],
+   "apparatus": [
+    "Ramban: Pharaoh may have asked Sarai first, or spoken in doubt to draw out the truth (a point of reading, not of wording)."
+   ]
+  },
+  {
+   "ref": "12:19",
+   "english": "Why did you say, 'She is my sister,' so that I took her as my wife? Now, here is your wife: take her and go.",
+   "literal": "why you-said sister-my she and-I-took [obj]-her to-me as-wife and-now behold wife-your take and-go",
+   "tokens": [
+    {
+     "id": "12:19.1",
+     "gloss": "why? (to what?)",
+     "sense": "1",
+     "note": "לָמָה"
+    },
+    {
+     "id": "12:19.2",
+     "gloss": "you said",
+     "sense": "Qal 1",
+     "note": "qatal 2ms; the double pashta is a mark of the accent"
+    },
+    {
+     "id": "12:19.3",
+     "gloss": "my sister",
+     "sense": "1",
+     "note": "construct with 1cs suffix"
+    },
+    {
+     "id": "12:19.4",
+     "gloss": "she"
+    },
+    {
+     "id": "12:19.5",
+     "gloss": "and I took",
+     "sense": "Qal 1",
+     "note": "wayyiqtol 1cs, here of consequence: 'so that I took'"
+    },
+    {
+     "id": "12:19.6",
+     "gloss": "her",
+     "note": "object marker with 3fs suffix"
+    },
+    {
+     "id": "12:19.7",
+     "gloss": "to me",
+     "note": "'for myself': לָקַח ... לוֹ לְאִשָּׁה is the usual idiom for taking a wife, a dative of advantage, not an ethical dative"
+    },
+    {
+     "id": "12:19.8",
+     "gloss": "as wife",
+     "sense": "2"
+    },
+    {
+     "id": "12:19.9",
+     "gloss": "and now"
+    },
+    {
+     "id": "12:19.10",
+     "gloss": "here is, behold"
+    },
+    {
+     "id": "12:19.11",
+     "gloss": "your wife",
+     "sense": "2",
+     "note": "construct with 2ms suffix"
+    },
+    {
+     "id": "12:19.12",
+     "gloss": "take",
+     "sense": "Qal 1",
+     "note": "imperative"
+    },
+    {
+     "id": "12:19.13",
+     "gloss": "and go",
+     "note": "imperative of הלך, with a qamets on the vav; Ibn Ezra explains the vocalization"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:19.1",
+      "12:19.2",
+      "12:19.3",
+      "12:19.4"
+     ],
+     "english": "Why did you say, 'She is my sister,'",
+     "literal": "'why you-said sister-my she'"
+    },
+    {
+     "tokens": [
+      "12:19.5",
+      "12:19.6",
+      "12:19.7",
+      "12:19.8"
+     ],
+     "english": "so that I took her as my wife",
+     "literal": "'and-I-took her to-me as-wife'; wayyiqtol of consequence"
+    },
+    {
+     "tokens": [
+      "12:19.9",
+      "12:19.10",
+      "12:19.11"
+     ],
+     "english": "Now, here is your wife",
+     "literal": "'and-now behold wife-your'"
+    },
+    {
+     "tokens": [
+      "12:19.12",
+      "12:19.13"
+     ],
+     "english": "take her and go",
+     "literal": "'take and-go'; two imperatives; the object 'her' is implied"
+    }
+   ],
+   "grammar": [
+    "וָאֶקַּח is a wayyiqtol in first person: the narrative sequence turns into result, 'so that I took'.",
+    "הִנֵּה אִשְׁתְּךָ קַח וָלֵךְ: two abrupt imperatives; Rashi sees in them an order to leave without delay, unlike Abimelech's offer in chapter 20.",
+    "The vav of וָלֵךְ takes a qamets before the stressed one-syllable word at the pause (silluq). Ibn Ezra relates it to the accent and compares לֶחֶם וָיָיִן (14:18).",
+    "לִי and לְאִשָּׁה together mean 'for myself as a wife'."
+   ],
+   "note": "Ibn Ezra and Radak read 'to be my wife' as a lawful marriage, not a liaison; Ibn Ezra adds that the plagues kept Pharaoh from touching her. The English leaves the question of whether he touched her open, as the Hebrew does.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:19:1",
+     "relation": "follows",
+     "summary": "Rashi: Pharaoh did not say, like Abimelech, 'my land is before you', but 'go and do not stay', for the Egyptians are given to lust (Ezekiel 23:20). The English renders the bare imperatives 'take her and go'."
+    },
+    {
+     "anchor": "ibn-ezra:12:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: ואקח אותה לי לאשה means he took her to be his wife and to lie with her, and the LORD brought plagues on him so that he could not touch her, to guard the wife of his friend; he compares Deuteronomy 21:10-13. The English says 'took her as my wife' and does not say more."
+    },
+    {
+     "anchor": "ibn-ezra:12:19:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: the qamets of the vav in ולך is because the accent called ענין is known; he compares לחם וָיין (Genesis 14:18). A point of vocalization only; the English is unaffected."
+    }
+   ],
+   "apparatus": [
+    "Ramban: Pharaoh wished her to be his reigning wife, not a concubine.",
+    "Radak: 'here is your wife' means she is as she was, untouched."
+   ]
+  },
+  {
+   "ref": "12:20",
+   "english": "Pharaoh gave men orders concerning him, and they escorted him on his way, together with his wife and all that was his.",
+   "literal": "and-commanded concerning-him Pharaoh men and-they-sent [obj]-him and-[obj] wife-his and-[obj] all that to-him",
+   "tokens": [
+    {
+     "id": "12:20.1",
+     "gloss": "and commanded",
+     "note": "wayyiqtol, Piel of צוה, a lamed-he root: the short (apocopated) form, וַיְצַו for *וַיְצַוֶּה"
+    },
+    {
+     "id": "12:20.2",
+     "gloss": "concerning him",
+     "sense": "II",
+     "note": "עָלָיו"
+    },
+    {
+     "id": "12:20.3",
+     "gloss": "Pharaoh"
+    },
+    {
+     "id": "12:20.4",
+     "gloss": "men"
+    },
+    {
+     "id": "12:20.5",
+     "gloss": "and they escorted (sent off)",
+     "sense": "Pi 1",
+     "note": "wayyiqtol 3mp, Piel; 'send off, escort'"
+    },
+    {
+     "id": "12:20.6",
+     "gloss": "him"
+    },
+    {
+     "id": "12:20.7",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "12:20.8",
+     "gloss": "his wife",
+     "sense": "2"
+    },
+    {
+     "id": "12:20.9",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "12:20.10",
+     "gloss": "all",
+     "sense": "1",
+     "note": "construct of כֹּל"
+    },
+    {
+     "id": "12:20.11",
+     "gloss": "that"
+    },
+    {
+     "id": "12:20.12",
+     "gloss": "to him, his",
+     "note": "'that to-him': idiom for possession"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:20.1",
+      "12:20.2",
+      "12:20.3",
+      "12:20.4"
+     ],
+     "english": "Pharaoh gave men orders concerning him",
+     "literal": "'and-commanded concerning-him Pharaoh men'"
+    },
+    {
+     "tokens": [
+      "12:20.5",
+      "12:20.6"
+     ],
+     "english": "and they escorted him on his way",
+     "literal": "'and-they-sent [obj]-him'; the Piel of שׁלח, 'send off', here an escort, with Rashi (Onkelos וְאַלְוִיאוּ) and Ibn Ezra"
+    },
+    {
+     "tokens": [
+      "12:20.7",
+      "12:20.8"
+     ],
+     "english": "together with his wife",
+     "literal": "'and-[obj] wife-his'"
+    },
+    {
+     "tokens": [
+      "12:20.9",
+      "12:20.10",
+      "12:20.11",
+      "12:20.12"
+     ],
+     "english": "and all that was his",
+     "literal": "'and-[obj] all that to-him'; possession by לוֹ"
+    }
+   ],
+   "grammar": [
+    "וַיְצַו is a Piel wayyiqtol; with עַל and a person it means to give orders about someone.",
+    "The plural וַיְשַׁלְּחוּ has no stated subject beyond אֲנָשִׁים: 'the men escorted him'.",
+    "The three objects, אֹתוֹ, אִשְׁתּוֹ and כָּל־אֲשֶׁר־לוֹ, each take אֶת, listing Abram, his wife and his goods.",
+    "Ibn Ezra reads וישלחו as an honourable escort, as in 18:16."
+   ],
+   "note": "The 'orders' are left as the Hebrew leaves them. Rashi and Radak read them as an order to guard Abram and send him off; Ibn Ezra, as a proclamation that no one touch him or his wife. The English says only 'orders concerning him'.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:20:1",
+     "relation": "follows",
+     "summary": "Rashi: ויצו עליו means 'concerning him', to send him off and to guard him."
+    },
+    {
+     "anchor": "rashi:12:20:2",
+     "relation": "follows",
+     "summary": "Rashi: וישלחו is as the Targum has it, וְאַלְוִיאוּ, 'and they escorted'."
+    },
+    {
+     "anchor": "ibn-ezra:12:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the sense is escort with honour, as in 'and Abraham went with them to send them off' (18:16). The English 'sent him off' keeps that sense."
+    },
+    {
+     "anchor": "ibn-ezra:12:20:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: the right sense of ויצו עליו is that the command lay on others, to proclaim that no one touch him or his wife. The English stays with 'orders concerning him' and does not specify the content."
+    }
+   ],
+   "apparatus": [
+    "Radak: they were ordered to guard him and his wife and goods against the Egyptians, and escort him to the border."
+   ]
+  },
+  {
+   "ref": "13:1",
+   "english": "So Abram went up from Egypt, he and his wife and all that was his, and Lot with him, to the Negeb.",
+   "literal": "and-went-up Abram from-Egypt he and-wife-his and-all that to-him and-Lot with-him the-Negeb-ward",
+   "tokens": [
+    {
+     "id": "13:1.1",
+     "gloss": "and went up",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; 'go up' is also used for travel from Egypt"
+    },
+    {
+     "id": "13:1.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "13:1.3",
+     "gloss": "from Egypt",
+     "sense": "1.a"
+    },
+    {
+     "id": "13:1.4",
+     "gloss": "he",
+     "note": "independent pronoun, added for emphasis"
+    },
+    {
+     "id": "13:1.5",
+     "gloss": "and his wife",
+     "sense": "2"
+    },
+    {
+     "id": "13:1.6",
+     "gloss": "and all",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "13:1.7",
+     "gloss": "that"
+    },
+    {
+     "id": "13:1.8",
+     "gloss": "to him, his"
+    },
+    {
+     "id": "13:1.9",
+     "gloss": "and Lot"
+    },
+    {
+     "id": "13:1.10",
+     "gloss": "with him",
+     "sense": "1.b"
+    },
+    {
+     "id": "13:1.11",
+     "gloss": "to the Negeb",
+     "note": "article plus directional he: 'to the Negeb'; also 'south'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:1.1",
+      "13:1.2",
+      "13:1.3"
+     ],
+     "english": "Abram went up from Egypt",
+     "literal": "'and-went-up Abram from-Egypt'"
+    },
+    {
+     "tokens": [
+      "13:1.4",
+      "13:1.5",
+      "13:1.6",
+      "13:1.7",
+      "13:1.8"
+     ],
+     "english": "he and his wife and all that was his",
+     "literal": "'he and-wife-his and-all that to-him'; the pronoun הוּא sets Abram apart"
+    },
+    {
+     "tokens": [
+      "13:1.9",
+      "13:1.10"
+     ],
+     "english": "and Lot with him",
+     "literal": "'and-Lot with-him'"
+    },
+    {
+     "tokens": [
+      "13:1.11"
+     ],
+     "english": "to the Negeb",
+     "literal": "'the-Negeb-ward'; directional he"
+    }
+   ],
+   "grammar": [
+    "וַיַּעַל is a Qal wayyiqtol of עלה; the verb 'go up' is used here of leaving Egypt for the land, which lies north.",
+    "The independent הוּא followed by two more items lists those who went up with Abram.",
+    "הַנֶּגְבָּה has the article and the directional ה: 'to the Negeb'.",
+    "The telisha gedola on הוּא is a disjunctive accent that sets the pronoun off from the list after it. The darga on אִשְׁתּוֹ is conjunctive. The tevir on לוֹ and the tipḥa on עִמּוֹ divide the rest of the verse."
+   ],
+   "note": "Negeb means both the region and 'south'; since Egypt lies south of Canaan, the Negeb here is the southern district of the land. I use the name. Ibn Ezra defers the verb's form to his Sefer HaYesod.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:1:1",
+     "relation": "follows",
+     "summary": "Rashi: Abram went up to come to the south of the Land of Israel; the Negeb is the southern part of the land, and going from Egypt to Canaan he travels from south to north. The English takes הַנֶּגְבָּה as the region of the Negeb."
+    },
+    {
+     "anchor": "ibn-ezra:13:1:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra refers the grammar of וַיַּעַל to his Sefer HaYesod; no comment on the sense of the words."
+    }
+   ],
+   "apparatus": [
+    "Ramban: 'he and his wife and all that was his' tells us that nothing was taken back from him, an element of miracle.",
+    "Radak: Lot did not leave Abram even though he had plenty in Egypt."
+   ]
+  },
+  {
+   "ref": "13:2",
+   "english": "Now Abram was very heavily laden with livestock, with silver and with gold.",
+   "literal": "and-Abram heavy very in-the-livestock in-the-silver and-in-the-gold",
+   "tokens": [
+    {
+     "id": "13:2.1",
+     "gloss": "and Abram"
+    },
+    {
+     "id": "13:2.2",
+     "gloss": "heavy",
+     "sense": "Qal 1",
+     "note": "adjective-form of the stative verb כבד"
+    },
+    {
+     "id": "13:2.3",
+     "gloss": "very",
+     "sense": "2"
+    },
+    {
+     "id": "13:2.4",
+     "gloss": "in livestock"
+    },
+    {
+     "id": "13:2.5",
+     "gloss": "in silver"
+    },
+    {
+     "id": "13:2.6",
+     "gloss": "and in gold"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:2.1",
+      "13:2.2",
+      "13:2.3"
+     ],
+     "english": "Now Abram was very heavily laden",
+     "literal": "'and-Abram heavy very'; כָּבֵד is 'heavy', here 'laden'"
+    },
+    {
+     "tokens": [
+      "13:2.4"
+     ],
+     "english": "with livestock",
+     "literal": "'in-the-livestock'"
+    },
+    {
+     "tokens": [
+      "13:2.5",
+      "13:2.6"
+     ],
+     "english": "with silver and with gold",
+     "literal": "'in-the-silver and-in-the-gold'"
+    }
+   ],
+   "grammar": [
+    "וְאַבְרָם כָּבֵד is a verbless clause: 'and Abram (was) heavy'; the vav marks a new scene.",
+    "מְאֹד 'very' stands after the adjective.",
+    "The three nouns each take בְּ: 'in livestock, in silver and in gold'.",
+    "The etnaḥta after מְאֹד marks the first half; the three possessions follow."
+   ],
+   "note": "כָּבֵד 'heavy' is also 'wealthy'; Rashi and Ibn Ezra take it as 'burdened' (with goods), so that the travel was slow. 'Laden' keeps both: heavy with possessions and so rich. Radak compares the construction to כְּאֵלָה נֹבֶלֶת עָלֶיהָ (Isaiah 1:30).",
+   "commentary": [
+    {
+     "anchor": "rashi:13:2:1",
+     "relation": "follows",
+     "summary": "Rashi: כבד מאד means 'loaded with burdens'. The English 'heavily laden' follows."
+    },
+    {
+     "anchor": "ibn-ezra:13:2:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: he had much baggage (כְּבוּדָה רַבָּה), and one who has it moves heavily. כָּבוֹד ('honour') comes from כֹּבֶד, the weight of a stone (Proverbs 27:3), as קָלוֹן ('disgrace') comes from קַל, 'light of foot' (2 Samuel 2:18). He had much livestock, and much silver and gold besides."
+    }
+   ],
+   "apparatus": [
+    "Radak: heavy by reason of his livestock and wealth.",
+    "Sforno: he had to travel slowly, though he wanted to return quickly to the altar."
+   ]
+  },
+  {
+   "ref": "13:3",
+   "english": "He went on his journeys from the Negeb as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,",
+   "literal": "and-went to-his-journeys from-Negeb and-until Bethel until the-place which was there tent-his at-the-beginning between Bethel and-between the-Ai",
+   "tokens": [
+    {
+     "id": "13:3.1",
+     "gloss": "and he went",
+     "note": "wayyiqtol of הלך"
+    },
+    {
+     "id": "13:3.2",
+     "gloss": "on his journeys",
+     "sense": "2",
+     "note": "construct plural with 3ms suffix: 'stages'"
+    },
+    {
+     "id": "13:3.3",
+     "gloss": "from the Negeb"
+    },
+    {
+     "id": "13:3.4",
+     "gloss": "and as far as",
+     "sense": "II.1"
+    },
+    {
+     "id": "13:3.5",
+     "gloss": "Bethel (house of)"
+    },
+    {
+     "id": "13:3.6",
+     "gloss": "Bethel (El)"
+    },
+    {
+     "id": "13:3.7",
+     "gloss": "as far as",
+     "sense": "II.1"
+    },
+    {
+     "id": "13:3.8",
+     "gloss": "the place",
+     "sense": "2.a"
+    },
+    {
+     "id": "13:3.9",
+     "gloss": "which"
+    },
+    {
+     "id": "13:3.10",
+     "gloss": "was",
+     "sense": "Qal III.3",
+     "note": "'had been, stood'"
+    },
+    {
+     "id": "13:3.11",
+     "gloss": "there"
+    },
+    {
+     "id": "13:3.12",
+     "gloss": "his tent",
+     "sense": "1",
+     "note": "ketiv אהלה, qere אָהֳלוֹ"
+    },
+    {
+     "id": "13:3.13",
+     "gloss": "at the beginning"
+    },
+    {
+     "id": "13:3.14",
+     "gloss": "between",
+     "sense": "1"
+    },
+    {
+     "id": "13:3.15",
+     "gloss": "Bethel (house of)"
+    },
+    {
+     "id": "13:3.16",
+     "gloss": "Bethel (El)"
+    },
+    {
+     "id": "13:3.17",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "13:3.18",
+     "gloss": "the Ai",
+     "note": "Ai, with the article: 'the ruin'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:3.1",
+      "13:3.2"
+     ],
+     "english": "He went on his journeys",
+     "literal": "'and-went to-his-journeys'"
+    },
+    {
+     "tokens": [
+      "13:3.3",
+      "13:3.4",
+      "13:3.5",
+      "13:3.6"
+     ],
+     "english": "from the Negeb as far as Bethel",
+     "literal": "'from-Negeb and-until Bethel'"
+    },
+    {
+     "tokens": [
+      "13:3.7",
+      "13:3.8",
+      "13:3.9",
+      "13:3.10",
+      "13:3.11",
+      "13:3.12"
+     ],
+     "english": "to the place where his tent had been",
+     "literal": "'until the-place which was there tent-his'"
+    },
+    {
+     "tokens": [
+      "13:3.13"
+     ],
+     "english": "at the beginning",
+     "literal": "'at-the-beginning'"
+    },
+    {
+     "tokens": [
+      "13:3.14",
+      "13:3.15",
+      "13:3.16",
+      "13:3.17",
+      "13:3.18"
+     ],
+     "english": "between Bethel and Ai",
+     "literal": "'between Bethel and-between the-Ai'"
+    }
+   ],
+   "grammar": [
+    "לְמַסָּעָיו: 'to his journeys', i.e. by stages; the noun is a plural construct with a suffix.",
+    "The written אָהֳלֹה (ketiv אהלה) is an old spelling of the 3ms suffix; the qere is אָהֳלוֹ.",
+    "בֵּין ... וּבֵין repeats בֵּין before each term: 'between Bethel and between Ai'.",
+    "The relative clause אֲשֶׁר־הָיָה שָׁם אָהֳלֹה refers back to 12:8."
+   ],
+   "note": "The ketiv אהלה is read אָהֳלוֹ ('his tent'), so the English has 'his tent'. Rashi reads the travel as returning by the same lodging places on the way back; Ibn Ezra and Radak read 'journeys' as many short stages. I take 'on his journeys' with the stages and keep Rashi's reading as an alternative.",
+   "commentary": [
+    {
+     "anchor": "rashi:13:3:1",
+     "relation": "records",
+     "summary": "Rashi: on the way back he lodged at the same inns where he had stayed on the way down, teaching proper conduct, not to change one's lodging; another reading is that he paid off his debts. The English says only 'on his journeys'."
+    },
+    {
+     "anchor": "rashi:13:3:2",
+     "relation": "follows",
+     "summary": "Rashi: the land of Egypt lies south of the land of Canaan. The English takes the Negeb as the southern region."
+    },
+    {
+     "anchor": "ibn-ezra:13:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: he travelled many stages going from the south to Bethel, which is in the north, and came to the altar to thank the LORD for having come in peace. The English takes 'journeys' as stages."
+    }
+   ],
+   "apparatus": [
+    "Ketiv אהלה (also אָהֳלֹה): the qere is אָהֳלוֹ.",
+    "Radak: the 'beginning' refers to 'he pitched his tent' (12:8).",
+    "Sforno: מסעים are the moves of shepherds from one place to another as the pasture runs out."
+   ]
+  },
+  {
+   "ref": "13:4",
+   "english": "to the place of the altar that he had made there at first; and there Abram called on the name of the LORD.",
+   "literal": "to place-of the-altar which he-made there at-the-first and-called there Abram in-name-of the-LORD",
+   "tokens": [
+    {
+     "id": "13:4.1",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "13:4.2",
+     "gloss": "place of",
+     "sense": "2.a",
+     "note": "construct"
+    },
+    {
+     "id": "13:4.3",
+     "gloss": "the altar"
+    },
+    {
+     "id": "13:4.4",
+     "gloss": "which"
+    },
+    {
+     "id": "13:4.5",
+     "gloss": "he made",
+     "sense": "Qal II.1",
+     "note": "qatal 3ms"
+    },
+    {
+     "id": "13:4.6",
+     "gloss": "there"
+    },
+    {
+     "id": "13:4.7",
+     "gloss": "at first",
+     "note": "'in the first (time)'"
+    },
+    {
+     "id": "13:4.8",
+     "gloss": "and called",
+     "sense": "Qal 3",
+     "note": "wayyiqtol; 'call on the name'"
+    },
+    {
+     "id": "13:4.9",
+     "gloss": "there"
+    },
+    {
+     "id": "13:4.10",
+     "gloss": "Abram"
+    },
+    {
+     "id": "13:4.11",
+     "gloss": "in the name of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "13:4.12",
+     "gloss": "the LORD"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "13:4.1",
+      "13:4.2",
+      "13:4.3"
+     ],
+     "english": "to the place of the altar",
+     "literal": "'to place-of the-altar'"
+    },
+    {
+     "tokens": [
+      "13:4.4",
+      "13:4.5",
+      "13:4.6",
+      "13:4.7"
+     ],
+     "english": "that he had made there at first",
+     "literal": "'which he-made there at-the-first'"
+    },
+    {
+     "tokens": [
+      "13:4.8",
+      "13:4.9",
+      "13:4.10"
+     ],
+     "english": "and there Abram called",
+     "literal": "'and-called there Abram'"
+    },
+    {
+     "tokens": [
+      "13:4.11",
+      "13:4.12"
+     ],
+     "english": "on the name of the LORD",
+     "literal": "'in-name-of the-LORD'; קָרָא בְּשֵׁם is 'call on the name'"
+    }
+   ],
+   "grammar": [
+    "The verse continues the sentence of 13:3: Abram came 'to the place of the altar'.",
+    "בָּרִאשֹׁנָה is 'at first', with the article and the ב of time.",
+    "וַיִּקְרָא שָׁם אַבְרָם בְּשֵׁם יְהוָה repeats 12:8: calling on the name of the LORD is an act of worship.",
+    "The verb עָשָׂה is a perfect, 'had made', since it refers to the earlier time."
+   ],
+   "note": "קָרָא בְּשֵׁם is 'call on the name', as in 12:8. Rashi first reads the calling as part of the earlier events ('and where Abram had called'), then allows a fresh calling now. The English takes the fresh calling, as Radak does ('a second time').",
+   "commentary": [
+    {
+     "anchor": "rashi:13:4:1",
+     "relation": "follows",
+     "summary": "Rashi reads the relative clause as going on into the next words: the place 'which he had made there at first, and where Abram had called on the name of the LORD'. He also allows the plain sequence: 'and he called there now on the name of the LORD'. The English takes this second reading."
+    }
+   ],
+   "apparatus": [
+    "Radak: 'again' is meant: he called a second time on the name of the LORD; he settled in the same place to teach that a person should fix a place for prayer."
+   ]
+  }
+ ]
+}

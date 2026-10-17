@@ -1,0 +1,494 @@
+{
+ "unit": "lekh-lekha-01",
+ "model": "opus",
+ "summary": "The English of 12:1–8 is sound and follows Rashi and Ibn Ezra, with one exception. In 12:2 'and be a blessing' took 'I' as its subject, though the Hebrew is an imperative to Abram; it now reads 'and you shall be a blessing'. Senses were filled in mechanically where the pack lists no fitting sense: the figurative Qal II.2 of הלך for 'go', the temporal עַד for spatial 'as far as', and 'greatness' for the adjective 'great'. These are removed, and נֶפֶשׁ is corrected to 4. Several summaries misread their comments, among them Ibn Ezra's מיד אחר ('from another's hand'), his note on the Niphal's lost nun in וַיֵּרָא, his reason for the chronology in 12:1, and Ramban on 12:1. Several learner notes were false, on a ḥaṭef in וְאֶעֶשְׂךָ, the segol of וֶהְיֵה, the yetiv 'on the mem', and a 'dagesh in the resh'.",
+ "patches": [
+  {
+   "ref": "12:1",
+   "path": "token:12:1.5.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Qal II.1 'die' and II.2 'live, walk' are the figurative senses of הלך (walk as a way of life). The literal 'go' in לֶךְ־לְךָ is neither, and the pack does not list the plain sense, so no sense should be given."
+  },
+  {
+   "ref": "12:1",
+   "path": "token:12:1.5.note",
+   "value": "imperative of הלך (the first root letter falls away in the imperative: לֶךְ). The plain sense 'go' is not among the senses the pack lists for this entry (Qal II.1 'die' and II.2 'live, walk' are figurative), so no sense is given.",
+   "severity": "error",
+   "reason": "The note justified the wrong sense. It now says why there is no sense."
+  },
+  {
+   "ref": "12:1",
+   "path": "token:12:1.14.note",
+   "value": "Hifil imperfect 1st person singular of ראה with the 2nd person suffix: 'I will show you'. The segol and the dagesh in the kaf (־ֶךָּ) come from an assimilated (energic) nun, a suffix form that III-ה verbs often take in pause, here under silluq. The land is not named.",
+   "severity": "style",
+   "reason": "Calling the doubled kaf 'a pausal feature' did not explain it. The dagesh is the assimilated energic nun."
+  },
+  {
+   "ref": "12:1",
+   "path": "grammar",
+   "value": [
+    "לֶךְ־לְךָ is the imperative of הלך with a reflexive-looking dative. The first-letter loss in the imperative (הלך gives לֶךְ) is regular for this root. Ramban and Radak list parallel idioms: אֵלְכָה לִּי, קְחוּ לָכֶם.",
+    "The three prepositional phrases מֵאַרְצְךָ, וּמִמּוֹלַדְתְּךָ, וּמִבֵּית אָבִיךָ run from the widest circle to the narrowest: land, kin, household. The accents mark the list; the etnaḥta falls on אָבִיךָ and splits the verse between what he leaves and where he goes.",
+    "The destination is deliberately not named: אֶל־הָאָרֶץ אֲשֶׁר אַרְאֶךָּ. The hifil of ראה governs two accusatives (here the suffix and the land, which is the object of the relative clause).",
+    "In pause, under the silluq, the suffix of אַרְאֶךָּ is ־ֶךָּ: the dagesh in the kaf is an assimilated (energic) nun."
+   ],
+   "severity": "style",
+   "reason": "The last note explained the doubled kaf by the pause alone. It is an assimilated energic nun."
+  },
+  {
+   "ref": "12:1",
+   "path": "commentary:ibn-ezra:12:1:1.summary",
+   "value": "Ibn Ezra: God commanded Abram while he was still in Ur of the Chaldeans to leave his land, his birthplace and his father's house. The reason: God knew that Terah, once he had set out for Canaan, would settle in Haran, and Terah did not die until sixty years after Abram left his father's house in Haran; Scripture simply does not give Abram's age when he left Ur. After 'that I will show you' God revealed the secret to him (12:5, 'they set out for the land of Canaan'), or 'I will show you' refers to 13:15, 'all the land that you see I will give to you'. The English does not take the verb as pluperfect, and this reading is recorded as the alternative.",
+   "severity": "error",
+   "reason": "The summary said 'the verse does not say so because it does not give the dates'. Ibn Ezra's reason is that God foresaw Terah staying in Haran, where he lived another sixty years after Abram left. Only Abram's age at leaving Ur goes unstated."
+  },
+  {
+   "ref": "12:1",
+   "path": "commentary:ramban:12:1:2.summary",
+   "value": "Ramban quotes Rashi ('distance yourself further'), then rejects Ibn Ezra's view that the command came in Ur. Genesis 11:31 says Terah took Abram, so Abram left Ur on his father's initiative. Joshua 24:3 says 'from beyond the River', not 'from Ur'. And in Genesis 24:4, 10 'my land and my birthplace' is Aram Naharaim, the city of Nahor. His own view: Haran is Abram's land and birthplace, the land of his fathers, and the command to leave them came there. The three terms are named because each is harder to leave than the last. The comment concerns the history of the narrative and does not change the English.",
+   "severity": "error",
+   "reason": "Ramban does not dispute Rashi here. He quotes him, then refutes Ibn Ezra and gives his own view, that Haran itself is Abram's land and birthplace. The old summary misstated this."
+  },
+  {
+   "ref": "12:2",
+   "path": "english",
+   "value": "I will make you into a great nation, I will bless you, and make your name great, and you shall be a blessing.",
+   "severity": "error",
+   "reason": "In 'I will ..., and make your name great, and be a blessing' the English subject of 'be' is 'I', so God becomes the blessing. וֶהְיֵה is a 2nd masculine singular imperative addressed to Abram. Rashi (the blessings are given into your hand) and Radak (an imperative in place of 'you will be') both make Abram the one who is a blessing. 'You shall be' keeps both the command and the future."
+  },
+  {
+   "ref": "12:2",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "12:2.1",
+      "12:2.2",
+      "12:2.3"
+     ],
+     "english": "I will make you into a great nation",
+     "literal": "'and-I-will-make-you to-nation great'; the first of three promises, which Rashi reads as children"
+    },
+    {
+     "tokens": [
+      "12:2.4"
+     ],
+     "english": "I will bless you",
+     "literal": "'and-I-will-bless-you'; the Piel with a suffix"
+    },
+    {
+     "tokens": [
+      "12:2.5",
+      "12:2.6"
+     ],
+     "english": "and make your name great",
+     "literal": "'and-I-will-make-great name-of-you'; the subject is continued from the previous clause"
+    },
+    {
+     "tokens": [
+      "12:2.7",
+      "12:2.8"
+     ],
+     "english": "and you shall be a blessing",
+     "literal": "'and-be (you) blessing'; the imperative is addressed to Abram, and 'you shall be' carries both the command (Rashi: the blessings are put into your hand) and the future that Radak reads in it"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the last phrase."
+  },
+  {
+   "ref": "12:2",
+   "path": "token:12:2.1.note",
+   "value": "וְ + yiqtol, 1st person singular, of עשׂה with a 2nd person suffix: not a wayyiqtol (the vav has shewa, and there is no doubling). After the imperative לֶךְ of 12:1 it states what will follow from the going. The ayin has a full segol where the plain form has ḥaṭef segol (אֶעֱשֶׂה), because a shewa follows it.",
+   "severity": "error",
+   "reason": "There is no ḥaṭef vowel in וְאֶעֶשְׂךָ: the ayin has a full segol. The note also did not say that this is a plain vav + yiqtol and not a wayyiqtol."
+  },
+  {
+   "ref": "12:2",
+   "path": "token:12:2.3.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 10 'greatness' is the abstract noun. 'Great' of a nation is BDB's great in magnitude or number, which the pack does not list (it gives only 4, 9 and 10). No listed sense fits."
+  },
+  {
+   "ref": "12:2",
+   "path": "token:12:2.3.note",
+   "value": "the adjective agrees with גּוֹי: 'a great nation', great in number. The pack's entry lists only senses 4 'loud', 9 'do great things' and 10 'greatness', none of which fits, so no sense is given.",
+   "severity": "error",
+   "reason": "The note now explains why there is no sense."
+  },
+  {
+   "ref": "12:2",
+   "path": "grammar",
+   "value": [
+    "Three first-person imperfects (וְאֶעֶשְׂךָ, וַאֲבָרֶכְךָ, וַאֲגַדְּלָה) carry the promise. None is a wayyiqtol: the vav has shewa, or pataḥ before the ḥaṭef pataḥ of the guttural א (a first-person wayyiqtol would have וָאֲ with qamets).",
+    "The fourth verb, וֶהְיֵה, is an imperative addressed to Abram, 'and be'. Radak takes it as an imperative standing for the future 'and you will be' (compare Deut. 32:50); Rashi reads it as a gift: the power of blessing is put into Abram's hand.",
+    "וַאֲבָרֶכְךָ is Piel with a suffix; וַאֲגַדְּלָה is Piel of גדל, causative 'make great', with the cohortative ending ־ָה. The root גדל recurs: גּוֹי גָּדוֹל, וַאֲגַדְּלָה.",
+    "In וֶהְיֵה the vav has segol because the imperative הֱיֵה begins with ה under ḥaṭef segol. Before a ḥaṭef the vav takes the matching short vowel, and the ḥaṭef becomes a silent shewa (וֶהְ־).",
+    "The accents: the etnaḥta on שְׁמֶךָ divides the verse. The first half holds the three promises, and the second half holds וֶהְיֵה בְּרָכָה alone."
+   ],
+   "severity": "error",
+   "reason": "The third note said the vav takes segol 'before the guttural-like yod with shewa'. In fact it takes segol before the ḥaṭef segol of the ה. 'The word גָּדוֹל is repeated' should say the root recurs. The notes also did not warn that וַאֲ here is not a wayyiqtol."
+  },
+  {
+   "ref": "12:2",
+   "path": "note",
+   "value": "Rashi (Bereshit Rabbah) reads the three promises as answering the three losses of travel, which diminishes children, wealth and name: 'nation' is children, 'bless' is wealth, 'make great your name' is fame. The English keeps 'bless' unspecified and records this. Radak agrees on wealth for 'bless' and on renown for the name. For וֶהְיֵה בְּרָכָה the English has 'you shall be', so that the imperative is plainly addressed to Abram. Rashi says the blessings are put in Abram's hand, Radak says the imperative stands for a future 'you will be', and Ramban says that people will invoke him in blessing.",
+   "severity": "error",
+   "reason": "The note described the old English 'be', which left the subject wrong."
+  },
+  {
+   "ref": "12:2",
+   "path": "commentary:rashi:12:2:3.summary",
+   "value": "Rashi: the blessings are placed in your hand; until now they were in Mine (I blessed Adam and Noah), from now on you will bless whomever you wish. The English 'you shall be a blessing' addresses the imperative to Abram.",
+   "severity": "error",
+   "reason": "The summary described the old English."
+  },
+  {
+   "ref": "12:2",
+   "path": "apparatus",
+   "value": [
+    "וֶהְיֵה: an imperative (the parse; Rashi: the power of blessing is given into Abram's hand), which Radak reads in the sense of a future, 'you will be'. The English 'you shall be' carries both."
+   ],
+   "severity": "error",
+   "reason": "The second item said that the pack's Piel senses 'do not distinguish God blesses from men bless men'. They do (Pi 2 and Pi 3). The first item described the old English."
+  },
+  {
+   "ref": "12:3",
+   "path": "token:12:3.4.note",
+   "value": "Qal imperfect 1st person singular of the geminate (doubled-letter) root ארר. The preformative א has qamets, as in geminate verbs (compare יָסֹב), and is followed by the root's first letter א with ḥolem; the doubled ר is written once. אָרַר is a different and stronger verb than קלל; the English has 'curse' for both.",
+   "severity": "style",
+   "reason": "'In one letter pair' told a learner nothing. The form is a geminate Qal imperfect."
+  },
+  {
+   "ref": "12:4",
+   "path": "token:12:4.1.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "As at 12:1.5: Qal II.2 'live, walk' is the figurative walk of life, not 'went'. The plain sense is not in the pack."
+  },
+  {
+   "ref": "12:4",
+   "path": "token:12:4.1.note",
+   "value": "wayyiqtol of הלך, 3rd person masculine singular. The first root letter falls away as in a I-yod verb, giving וַיֵּלֶךְ. The plain sense 'go' is not among the senses the pack lists (Qal II.1–2 are figurative), so no sense is given.",
+   "severity": "error",
+   "reason": "The note now explains why there is no sense."
+  },
+  {
+   "ref": "12:4",
+   "path": "token:12:4.7.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "As at 12:4.1."
+  },
+  {
+   "ref": "12:4",
+   "path": "token:12:4.7.note",
+   "value": "the verb is repeated for Lot; no sense is given, as at 12:4.1",
+   "severity": "error",
+   "reason": "The note now explains why there is no sense."
+  },
+  {
+   "ref": "12:4",
+   "path": "apparatus",
+   "value": [
+    "No variant readings are listed for this verse in the pack.",
+    "Terah was seventy at Abram's birth (11:26) and died at two hundred and five (11:32), so he died sixty years after Abram left Haran at seventy-five, though 11:32 tells of it first. Ibn Ezra on 12:1 says this: Terah did not die until sixty years after Abram left. The English translates the text as it stands."
+   ],
+   "severity": "style",
+   "reason": "The second item said the normative commentators do not take up the chronology. Ibn Ezra on 12:1 does."
+  },
+  {
+   "ref": "12:5",
+   "path": "token:12:5.11.note",
+   "value": "כׇּל is joined by maqqef to the next word, so it loses its stress and its vowel is the short qamets qatan (o), not the ḥolem of כֹּל",
+   "severity": "style",
+   "reason": "The word has no accent of its own; it is the unstressed form before maqqef, not a 'conjunctive-accent form'."
+  },
+  {
+   "ref": "12:5",
+   "path": "token:12:5.16.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 is the breath or soul. 'The persons', counted individuals (here the servants), is BDB 4, the man himself, person or individual."
+  },
+  {
+   "ref": "12:5",
+   "path": "token:12:5.16.note",
+   "value": "נֶפֶשׁ, a singular noun used collectively: 'the persons', here the servants (Rashi's plain sense); sense 4, the person or individual",
+   "severity": "error",
+   "reason": "The note now matches the corrected sense."
+  },
+  {
+   "ref": "12:5",
+   "path": "token:12:5.21.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "As at 12:1.5: Qal II.2 'live, walk' is figurative. The infinitive 'to go' has no matching sense in the pack."
+  },
+  {
+   "ref": "12:5",
+   "path": "token:12:5.21.note",
+   "value": "infinitive construct with ל: 'in order to go', the purpose of setting out. No sense is given, since the pack lists only the figurative Qal senses of הלך.",
+   "severity": "error",
+   "reason": "The note now explains why there is no sense."
+  },
+  {
+   "ref": "12:5",
+   "path": "commentary:ibn-ezra:12:5:1.summary",
+   "value": "Ibn Ezra on רכושם: מִקְנֶה, 'what is acquired, possessions' (the word is used above all of livestock), as in 'for their property was great' (13:6). The English 'property' gives the general sense.",
+   "severity": "question",
+   "reason": "The summary rendered מקנה as 'livestock' only and then said the English 'follows' with a wider word. מקנה is 'acquisition, possessions', and in 13:6 the herds are what is meant. The proposed summary keeps the ruling consistent."
+  },
+  {
+   "ref": "12:6",
+   "path": "token:12:6.4.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "II.1 is 'until', of time. עַד here is spatial, 'as far as' (BDB I), and the pack does not list that sense."
+  },
+  {
+   "ref": "12:6",
+   "path": "token:12:6.4.note",
+   "value": "עַד of space, 'as far as'. The pack lists only its senses of time and degree (II.1–3), so no sense is given.",
+   "severity": "error",
+   "reason": "The note now explains why there is no sense."
+  },
+  {
+   "ref": "12:6",
+   "path": "token:12:6.7.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "As at 12:6.4."
+  },
+  {
+   "ref": "12:6",
+   "path": "token:12:6.7.note",
+   "value": "עַד of space, 'as far as'; no sense is given, as at 12:6.4",
+   "severity": "error",
+   "reason": "The note now explains why there is no sense."
+  },
+  {
+   "ref": "12:6",
+   "path": "grammar",
+   "value": [
+    "The verb עָבַר takes the preposition בְּ here: 'pass through (the land)'. The verse gives two stopping places in a chain of constructs: מְקוֹם שְׁכֶם and אֵלוֹן מוֹרֶה, each introduced by עַד.",
+    "The first עַד carries yetiv (עַ֚ד), a disjunctive accent written before the first letter of the word. It stands in place of pashta on a word stressed on its first syllable with no conjunctive before it. The zaqef on שְׁכֶם marks a pause between the two places.",
+    "וְהַכְּנַעֲנִי אָז בָּאָרֶץ is a verbless clause with the vav of circumstance; the singular gentilic with the article is collective.",
+    "אָז 'then' is the point of the commentators' difficulty (see the note): it can mark the Canaanite's presence at that time, as distinct from later, or his recent seizure of the land (Rashi, Ibn Ezra)."
+   ],
+   "severity": "error",
+   "reason": "The yetiv was said to fall 'on the mem of the word'. עַד has no mem; the yetiv is prepositive and stands before the ayin."
+  },
+  {
+   "ref": "12:6",
+   "path": "note",
+   "value": "Three difficulties are kept open. (1) 'The site of Shechem': Ibn Ezra says that Moses called the place by this name, since there was no Shechem in Abraham's time; Ramban holds that Shechem is the name of the city and that Shechem son of Hamor was named after it. (2) 'The terebinth of Moreh': Ibn Ezra offers 'trees' or 'a field', and says Moreh may be Mamre, the ally of Abraham, or another, the name of a place; Rashi says that Elon Moreh is Shechem. (3) 'The Canaanite was then in the land': Rashi says Canaan was then conquering it from the descendants of Shem; Ibn Ezra says Canaan may have seized it from another's hand, and if not, 'it has a secret, and the wise will keep silent'. The English leaves the clause unexplained.",
+   "severity": "error",
+   "reason": "Rashi says nothing about the name Shechem; his comment there is the prayer for Jacob's sons. Ibn Ezra's מיד אחר is 'from the hand of another', not 'soon after another'."
+  },
+  {
+   "ref": "12:6",
+   "path": "commentary:ibn-ezra:12:6:4.summary",
+   "value": "Ibn Ezra: it may be that Canaan seized the land of Canaan from the hand of another (so that 'then' marks a new possession); if not, there is a secret in it, and the wise man will keep silent. The English says only that the Canaanite was then in the land.",
+   "severity": "error",
+   "reason": "מיד אחר means 'from another's hand', not 'soon after another'. Read this way, his first explanation agrees with Rashi's (Canaan was taking the land from Shem's line)."
+  },
+  {
+   "ref": "12:7",
+   "path": "token:12:7.1.note",
+   "value": "Niphal wayyiqtol of ראה, 'appeared'. The Niphal's nun is assimilated and should double the resh; resh cannot take a dagesh, so the tsere under the yod makes up for it (Ibn Ezra). The dagesh in the yod is the wayyiqtol's. The final ה of the root is dropped in the short form.",
+   "severity": "error",
+   "reason": "There is no dagesh in the resh. Ibn Ezra's point is that the dagesh due to the resh cannot be written, and the 'hidden quiescent' (the long vowel under the yod) stands in its place."
+  },
+  {
+   "ref": "12:7",
+   "path": "grammar",
+   "value": [
+    "וַיֵּרָא is the Niphal wayyiqtol of ראה, 'appeared'. The Niphal's nun is assimilated and should double the resh; resh cannot be doubled, so the yod takes tsere instead (Ibn Ezra). The final ה of the root falls away in the short form.",
+    "In לְזַרְעֲךָ אֶתֵּן the recipient stands before the verb. Radak's point is the contrast: the land goes to your offspring, not yet to you.",
+    "הַנִּרְאֶה is a Niphal participle with the article, used as a relative clause: 'who appeared'.",
+    "The accents: the zaqef gadol on וַיֹּאמֶר, the etnaḥta on הַזֹּאת. The words of the promise stand between them."
+   ],
+   "severity": "error",
+   "reason": "The first note spoke of 'a dagesh in the resh that stands for the nun'. Resh takes no dagesh; the lengthened vowel of the yod compensates (Ibn Ezra). 'Object recipient' is corrected to 'recipient'."
+  },
+  {
+   "ref": "12:7",
+   "path": "commentary:ibn-ezra:12:7:1.summary",
+   "value": "Ibn Ezra on וַיֵּרָא: by way of prophecy. The word is of the Niphal pattern, and the hidden quiescent between the yod and the resh (the long vowel of the yod) stands in place of the dagesh that should be in the resh, where the Niphal's nun is swallowed. The English has 'appeared'.",
+   "severity": "error",
+   "reason": "The old summary said the silent nun is 'under the dagesh'. Ibn Ezra says the quiescent stands in place of the dagesh that the resh cannot take."
+  },
+  {
+   "ref": "12:8",
+   "path": "commentary:ibn-ezra:12:8:1.summary",
+   "value": "Ibn Ezra on וַיַּעְתֵּק: it is from the Hifil and transitive, for 'the rock moved from its place' (Job 18:4) is intransitive. Its object is אָהֳלֹה, which is also the object of וַיֵּט, and 'moved' means 'set out, travelled'. In וַיֵּט the hidden quiescent after the yod stands in place of the nun, the first root letter, as in וְיֵז נִצְחָם (Isa. 63:3); both verbs are transitive.",
+   "severity": "error",
+   "reason": "The old summary said the quiescent 'stands under the nun'. Ibn Ezra's תחת here means 'in place of': the long vowel replaces the assimilated first-letter nun of נטה."
+  },
+  {
+   "ref": "12:8",
+   "path": "grammar",
+   "value": [
+    "וַיַּעְתֵּק is Hifil, which makes the verb transitive: 'he caused (his tent) to move'. Ibn Ezra contrasts it with the intransitive Qal in Job 18:4.",
+    "אָהֳלֹה is written with a final he where the usual form has vav (אָהֳלוֹ); the form is the same in meaning; Rashi reads 'her tent', as a hint in the spelling.",
+    "מִקֶּדֶם and מִיָּם are directions given from the point of view of the land: 'east' (front) and 'sea' (the Mediterranean, to the west).",
+    "וַיִּקְרָא בְּשֵׁם יְהֹוָה is a fixed idiom: 'he called on the name of the LORD'. It can be a prayer (Onkelos), a proclamation to people (Ibn Ezra, Radak, Ramban), or both.",
+    "The accents: the etnaḥta on אָהֳלֹה closes the moving and the pitching of the tent. The second half gives the position of the camp (Bethel on the west, Ai on the east, up to the zaqef on מִקֶּדֶם) and then the altar and the calling."
+   ],
+   "severity": "style",
+   "reason": "The last note said the etnaḥta divides 'the movement and the altar'. The positions of Bethel and Ai also fall in the second half."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:12:1:1",
+   "verdict": "contradicts",
+   "comment": "Rashi gives לְךָ a sense ('for your benefit'), and the English 'Go forth' leaves it out as idiom. The English stands. Ibn Ezra does not take up Rashi's reading, Ramban and Radak show that the dative is the ordinary idiom of the language, and Rashi's reading is recorded in the gloss note and the ruling."
+  },
+  {
+   "anchor": "rashi:12:2:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:2:8",
+   "verdict": "consistent",
+   "comment": "The English keeps the land unnamed."
+  },
+  {
+   "anchor": "ibn-ezra:12:1:1",
+   "verdict": "consistent",
+   "comment": "'Said' is unmarked for time and does not exclude Ibn Ezra's earlier command in Ur; his chronology is recorded."
+  },
+  {
+   "anchor": "rashi:12:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:2:2",
+   "verdict": "consistent",
+   "comment": "'Bless' includes Rashi's 'with wealth'."
+  },
+  {
+   "anchor": "rashi:12:2:3",
+   "verdict": "contradicts",
+   "comment": "The reviewed English 'and be a blessing' gave the clause the subject 'I'. It is fixed by the english patch: 'and you shall be a blessing'."
+  },
+  {
+   "anchor": "rashi:12:2:4",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:12:2:5",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:12:2:6",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:12:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:3:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:5:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:6:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:12:6:3",
+   "verdict": "consistent",
+   "comment": "Elon Moreh as Shechem is compatible with the two עַד phrases in apposition."
+  },
+  {
+   "anchor": "rashi:12:6:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:6:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:6:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:7:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:8:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:8:3",
+   "verdict": "consistent",
+   "comment": "Rashi's lemma is אהלו; the 'her tent' reading is a midrash on the spelling, recorded."
+  },
+  {
+   "anchor": "rashi:12:8:4",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:12:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:8:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:8:3",
+   "verdict": "consistent"
+  }
+ ]
+}

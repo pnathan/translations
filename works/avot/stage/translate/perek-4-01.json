@@ -1,0 +1,2327 @@
+{
+ "unit": "perek-4-01",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "4:1",
+   "english": "Ben Zoma says: Who is wise? One who learns from every person, as it is said: \"From all my teachers I have gained insight, for Your testimonies are my meditation.\" Who is mighty? One who subdues his impulse, as it is said: \"Better is one slow to anger than a mighty man, and one who rules his spirit than one who captures a city.\" Who is rich? One who rejoices in his portion, as it is said: \"When you eat the toil of your hands, happy are you, and it is well with you.\" \"Happy are you\": in this world. \"And it is well with you\": in the world to come. Who is honored? One who honors people, as it is said: \"For those who honor Me I will honor, and those who despise Me will be lightly esteemed.\"",
+   "literal": "son-of Zoma says which-is-it wise the-one-learning from-every person that-was-said Psalms 119 from-all from-teachers-of-me I-have-gained-insight for your-testimonies meditation to-me who-is hero the-one-subduing [object-marker] impulse-of-him that-was-said Proverbs 16 better slowness-of nostrils than-hero and-ruling in-spirit-of-him than-capturing city who-is rich the-one-rejoicing in-portion-of-him that-was-said Psalms 128 toil-of palms-of-you when you-eat happinesses-of-you and-good for-you happinesses-of-you in-the-world this and-good for-you to-the-world the-coming who-is honored the-one-honoring [object-marker] the-creatures that-was-said Samuel 1 2 for honorers-of-me I-will-honor and-despisers-of-me will-be-light",
+   "tokens": [
+    {
+     "id": "4:1.1",
+     "gloss": "Ben",
+     "sense": "1",
+     "note": "construct of בֵּן; with the next word it forms the fixed name Ben Zoma"
+    },
+    {
+     "id": "4:1.2",
+     "gloss": "Zoma",
+     "sense": "1",
+     "note": "proper name; the Jastrow entry (broth, pulp) is at most a source of the name, not its sense here"
+    },
+    {
+     "id": "4:1.3",
+     "gloss": "says",
+     "sense": "1.1",
+     "note": "participle as a present tense; the formula that introduces a saying"
+    },
+    {
+     "id": "4:1.4",
+     "gloss": "who is",
+     "note": "interrogative אֵי + זֶהוּ, 'which one is it?'"
+    },
+    {
+     "id": "4:1.5",
+     "gloss": "wise",
+     "sense": "1.6"
+    },
+    {
+     "id": "4:1.6",
+     "gloss": "the one who learns",
+     "sense": "1.1",
+     "note": "article + participle: 'the one who learns', a relative clause with no relative word"
+    },
+    {
+     "id": "4:1.7",
+     "gloss": "from every",
+     "sense": "1.2",
+     "note": "מִ 'from' + כָּל 'every'"
+    },
+    {
+     "id": "4:1.8",
+     "gloss": "person",
+     "sense": "2",
+     "note": "BDB's entry אָדָם lists only the name Adam and 'first man'; here the common noun 'person, human being'"
+    },
+    {
+     "id": "4:1.9",
+     "gloss": "as it is said",
+     "sense": "1.2",
+     "note": "שֶׁ + Nifal perfect: the usual formula that introduces a Bible quotation"
+    },
+    {
+     "id": "4:1.10",
+     "gloss": "Psalms",
+     "note": "name of the book cited"
+    },
+    {
+     "id": "4:1.11",
+     "gloss": "119",
+     "note": "chapter number in the citation; the pack links it to bdbs קַיִט 'summer', a false association: the letters קיט are the numeral 119"
+    },
+    {
+     "id": "4:1.12",
+     "gloss": "from all",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:1.13",
+     "gloss": "my teachers",
+     "sense": "1.2",
+     "note": "Piel participle plural construct + 1st singular suffix: 'those who teach me'"
+    },
+    {
+     "id": "4:1.14",
+     "gloss": "I have gained insight",
+     "sense": "1.2.3",
+     "note": "Hiphil perfect, 1st singular"
+    },
+    {
+     "id": "4:1.15",
+     "gloss": "for"
+    },
+    {
+     "id": "4:1.16",
+     "gloss": "your testimonies",
+     "sense": "1",
+     "note": "feminine plural construct with 2nd masculine singular suffix; God is addressed"
+    },
+    {
+     "id": "4:1.17",
+     "gloss": "meditation",
+     "sense": "1.2",
+     "note": "שִׂיחָה 'musing, study', not 'complaint' (BDB 1.1)"
+    },
+    {
+     "id": "4:1.18",
+     "gloss": "to me",
+     "note": "לִּי 'to me', i.e. 'my'"
+    },
+    {
+     "id": "4:1.19",
+     "gloss": "who is"
+    },
+    {
+     "id": "4:1.20",
+     "gloss": "mighty",
+     "sense": "4",
+     "note": "גִּבּוֹר 'a mighty man, hero'"
+    },
+    {
+     "id": "4:1.21",
+     "gloss": "the one who subdues",
+     "sense": "5",
+     "note": "Jastrow 5 'suppress, restrain, conquer'"
+    },
+    {
+     "id": "4:1.22",
+     "gloss": "(object marker)",
+     "note": "the pack links אֶת to the noun אֵת 'ploughshare'; here it is the object marker, which has no English counterpart"
+    },
+    {
+     "id": "4:1.23",
+     "gloss": "his impulse",
+     "sense": "1",
+     "note": "יֵצֶר is the noun from the root יצר; BDB files it under the verb 'to form'. The sense is the derived 'what is formed in the mind, inclination, impulse'"
+    },
+    {
+     "id": "4:1.24",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:1.25",
+     "gloss": "Proverbs",
+     "sense": "1",
+     "note": "name of the book cited"
+    },
+    {
+     "id": "4:1.26",
+     "gloss": "16",
+     "note": "chapter number in the citation"
+    },
+    {
+     "id": "4:1.27",
+     "gloss": "better",
+     "sense": "1",
+     "note": "the pack links טוֹב to the place name Tob = 'good' (bdbs טוֹב 1); the word here is the adjective 'good, better' (the comparison is carried by מִ)"
+    },
+    {
+     "id": "4:1.28",
+     "gloss": "slowness of",
+     "sense": "2",
+     "note": "אֹרֶךְ 'length' (BDB 1.2 of time), here 'forbearance'; construct"
+    },
+    {
+     "id": "4:1.29",
+     "gloss": "anger",
+     "sense": "2",
+     "note": "אַפַּיִם is dual 'nostrils'; אֶרֶךְ אַפַּיִם is the idiom 'long of nostrils' = slow to anger"
+    },
+    {
+     "id": "4:1.30",
+     "gloss": "than a mighty man",
+     "sense": "4",
+     "note": "מִ comparative + גִּבּוֹר"
+    },
+    {
+     "id": "4:1.31",
+     "gloss": "and one who rules",
+     "sense": "3",
+     "note": "וּ + Qal participle: 'and one who rules'; the vowel (מֹשֵׁל) is written here without a vav"
+    },
+    {
+     "id": "4:1.32",
+     "gloss": "over his spirit",
+     "sense": "1.2.1",
+     "note": "בְּ 'over', with the verb 'rule'; רוּחַ of a person: spirit, temper"
+    },
+    {
+     "id": "4:1.33",
+     "gloss": "than one who captures",
+     "sense": "1.1.1",
+     "note": "מִ comparative + Qal participle"
+    },
+    {
+     "id": "4:1.34",
+     "gloss": "a city",
+     "sense": "1",
+     "note": "the pack links עִיר to bdbs עִיר 'watcher, angel'; the word here is עִיר 'city', which the supplied lexicon does not give"
+    },
+    {
+     "id": "4:1.35",
+     "gloss": "who is"
+    },
+    {
+     "id": "4:1.36",
+     "gloss": "rich",
+     "sense": "2"
+    },
+    {
+     "id": "4:1.37",
+     "gloss": "the one who rejoices",
+     "sense": "1.1.1",
+     "note": "article + participle"
+    },
+    {
+     "id": "4:1.38",
+     "gloss": "in his portion",
+     "sense": "1",
+     "note": "the pack links חֵלֶק to the name Helek = 'portion'; here the common noun 'portion, lot'"
+    },
+    {
+     "id": "4:1.39",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:1.40",
+     "gloss": "Psalms"
+    },
+    {
+     "id": "4:1.41",
+     "gloss": "128",
+     "note": "chapter number in the citation"
+    },
+    {
+     "id": "4:1.42",
+     "gloss": "the toil of",
+     "sense": "1",
+     "note": "construct; BDB 2 'product of labour' is also possible"
+    },
+    {
+     "id": "4:1.43",
+     "gloss": "your hands",
+     "sense": "1.1",
+     "note": "dual construct + 2nd masculine singular suffix; the palm, then the hand"
+    },
+    {
+     "id": "4:1.44",
+     "gloss": "when",
+     "note": "כִּי here 'when'"
+    },
+    {
+     "id": "4:1.45",
+     "gloss": "you eat",
+     "sense": "1.1.1",
+     "note": "Qal imperfect 2nd masculine singular"
+    },
+    {
+     "id": "4:1.46",
+     "gloss": "happy are you",
+     "sense": "1",
+     "note": "plural construct 'happinesses of you', an exclamation; the pack links it to bdbs אֲשֶׁר (relative), a false association: the word is the noun אֹשֶׁר 'happiness'"
+    },
+    {
+     "id": "4:1.47",
+     "gloss": "and it is well",
+     "sense": "1",
+     "note": "וְ + adjective used as a predicate with no verb; the pack's link to the place name Tob is as above"
+    },
+    {
+     "id": "4:1.48",
+     "gloss": "for you",
+     "note": "לָךְ with the 2nd feminine singular form, as the Psalm has it (Ps 128:2, pausal-type form); the mishnah repeats it"
+    },
+    {
+     "id": "4:1.49",
+     "gloss": "happy are you",
+     "sense": "1",
+     "note": "as above"
+    },
+    {
+     "id": "4:1.50",
+     "gloss": "in the world",
+     "sense": "1"
+    },
+    {
+     "id": "4:1.51",
+     "gloss": "this",
+     "note": "הַזֶּה, demonstrative with the article; the pack links it to bdbs זֶה 'lamb', a false association"
+    },
+    {
+     "id": "4:1.52",
+     "gloss": "and it is well",
+     "sense": "1"
+    },
+    {
+     "id": "4:1.53",
+     "gloss": "for you"
+    },
+    {
+     "id": "4:1.54",
+     "gloss": "to the world",
+     "sense": "1.2",
+     "note": "'to the world to come': לְ + עוֹלָם; BDB 1.2 is 'of the future'"
+    },
+    {
+     "id": "4:1.55",
+     "gloss": "the coming",
+     "sense": "1",
+     "note": "article + Qal participle of בא; the pack links it to Jastrow בָּא I 'father', a false association; the participle הַבָּא 'the one who comes' = 'that which is to come'"
+    },
+    {
+     "id": "4:1.56",
+     "gloss": "who is"
+    },
+    {
+     "id": "4:1.57",
+     "gloss": "honored",
+     "sense": "1.4",
+     "note": "Pual participle: 'one who is honored'"
+    },
+    {
+     "id": "4:1.58",
+     "gloss": "the one who honors",
+     "sense": "1.3.2",
+     "note": "Piel participle: 'one who gives honor'"
+    },
+    {
+     "id": "4:1.59",
+     "gloss": "(object marker)",
+     "note": "object marker; no English counterpart; the pack's link to 'ploughshare' is a false association"
+    },
+    {
+     "id": "4:1.60",
+     "gloss": "the people",
+     "note": "הַבְּרִיּוֹת 'the created beings', everyday word for 'people, human beings'; the supplied lexicon has no entry"
+    },
+    {
+     "id": "4:1.61",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:1.62",
+     "gloss": "Samuel",
+     "sense": "2",
+     "note": "the book of Samuel; BDB 2 names the prophet-judge"
+    },
+    {
+     "id": "4:1.63",
+     "gloss": "1",
+     "note": "book number"
+    },
+    {
+     "id": "4:1.64",
+     "gloss": "2",
+     "note": "chapter number"
+    },
+    {
+     "id": "4:1.65",
+     "gloss": "for"
+    },
+    {
+     "id": "4:1.66",
+     "gloss": "those who honor Me",
+     "sense": "1.3.2",
+     "note": "Piel participle plural construct + 1st singular suffix"
+    },
+    {
+     "id": "4:1.67",
+     "gloss": "I will honor",
+     "sense": "1.3.2",
+     "note": "Piel imperfect 1st singular"
+    },
+    {
+     "id": "4:1.68",
+     "gloss": "and those who despise Me",
+     "sense": "1.1",
+     "note": "וְ + Qal participle plural construct + 1st singular suffix"
+    },
+    {
+     "id": "4:1.69",
+     "gloss": "will be lightly esteemed",
+     "sense": "1",
+     "note": "Qal imperfect 3rd masculine plural of קלל, 'be light, be of little account'; Jastrow 1 'be light, unimportant'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:1.1",
+      "4:1.2"
+     ],
+     "english": "Ben Zoma",
+     "literal": "'son-of Zoma': Ben Zoma is a fixed name (decisions)"
+    },
+    {
+     "tokens": [
+      "4:1.3"
+     ],
+     "english": "says",
+     "literal": "participle 'saying'"
+    },
+    {
+     "tokens": [
+      "4:1.4",
+      "4:1.5"
+     ],
+     "english": "Who is wise",
+     "literal": "'which-is-it wise'; Bartenura: who is wise enough to be entitled to boast of his wisdom"
+    },
+    {
+     "tokens": [
+      "4:1.6",
+      "4:1.7",
+      "4:1.8"
+     ],
+     "english": "One who learns from every person",
+     "literal": "'the-one-learning from-every person'; Bartenura: even from someone younger or less than himself"
+    },
+    {
+     "tokens": [
+      "4:1.9"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said': introduces the verse"
+    },
+    {
+     "tokens": [
+      "4:1.10",
+      "4:1.11"
+     ],
+     "english": "-",
+     "literal": "source reference: Psalms 119; given in the apparatus"
+    },
+    {
+     "tokens": [
+      "4:1.12",
+      "4:1.13",
+      "4:1.14"
+     ],
+     "english": "From all my teachers I have gained insight",
+     "literal": "'from-all (those who) teach-me I-have-gained-insight'"
+    },
+    {
+     "tokens": [
+      "4:1.15",
+      "4:1.16",
+      "4:1.17",
+      "4:1.18"
+     ],
+     "english": "for Your testimonies are my meditation",
+     "literal": "'for testimonies-of-you meditation to-me'; Bartenura: all my purpose was for Heaven alone"
+    },
+    {
+     "tokens": [
+      "4:1.19",
+      "4:1.20"
+     ],
+     "english": "Who is mighty",
+     "literal": "'which-is-it hero'"
+    },
+    {
+     "tokens": [
+      "4:1.21",
+      "4:1.22",
+      "4:1.23"
+     ],
+     "english": "One who subdues his impulse",
+     "literal": "'the-one-subduing [object marker] impulse-of-him'"
+    },
+    {
+     "tokens": [
+      "4:1.24"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "4:1.25",
+      "4:1.26"
+     ],
+     "english": "-",
+     "literal": "source reference: Proverbs 16; given in the apparatus"
+    },
+    {
+     "tokens": [
+      "4:1.27",
+      "4:1.28",
+      "4:1.29",
+      "4:1.30"
+     ],
+     "english": "Better is one slow to anger than a mighty man",
+     "literal": "'good (is) slowness-of nostrils than-hero'; comparative min"
+    },
+    {
+     "tokens": [
+      "4:1.31",
+      "4:1.32"
+     ],
+     "english": "and one who rules his spirit",
+     "literal": "'and-ruling in-spirit-of-him'"
+    },
+    {
+     "tokens": [
+      "4:1.33",
+      "4:1.34"
+     ],
+     "english": "than one who captures a city",
+     "literal": "'than-capturing city'; comparative, with the verse; Bartenura reads min as 'coming from' (see commentary)"
+    },
+    {
+     "tokens": [
+      "4:1.35",
+      "4:1.36"
+     ],
+     "english": "Who is rich",
+     "literal": "'which-is-it rich'"
+    },
+    {
+     "tokens": [
+      "4:1.37",
+      "4:1.38"
+     ],
+     "english": "One who rejoices in his portion",
+     "literal": "'the-one-rejoicing in-portion-of-him'"
+    },
+    {
+     "tokens": [
+      "4:1.39"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "4:1.40",
+      "4:1.41"
+     ],
+     "english": "-",
+     "literal": "source reference: Psalms 128; given in the apparatus"
+    },
+    {
+     "tokens": [
+      "4:1.42",
+      "4:1.43",
+      "4:1.44",
+      "4:1.45"
+     ],
+     "english": "When you eat the toil of your hands",
+     "literal": "'toil-of palms-of-you when you-eat'; kî read as 'when'"
+    },
+    {
+     "tokens": [
+      "4:1.46"
+     ],
+     "english": "happy are you",
+     "literal": "'happinesses-of-you'"
+    },
+    {
+     "tokens": [
+      "4:1.47",
+      "4:1.48"
+     ],
+     "english": "and it is well with you",
+     "literal": "'and-good to-you'"
+    },
+    {
+     "tokens": [
+      "4:1.49"
+     ],
+     "english": "Happy are you",
+     "literal": "the first phrase of the verse, now quoted for explanation"
+    },
+    {
+     "tokens": [
+      "4:1.50",
+      "4:1.51"
+     ],
+     "english": "in this world",
+     "literal": "'in-the-world the-this'"
+    },
+    {
+     "tokens": [
+      "4:1.52",
+      "4:1.53"
+     ],
+     "english": "and it is well with you",
+     "literal": "the second phrase of the verse, quoted for explanation"
+    },
+    {
+     "tokens": [
+      "4:1.54",
+      "4:1.55"
+     ],
+     "english": "in the world to come",
+     "literal": "'to-the-world the-coming'"
+    },
+    {
+     "tokens": [
+      "4:1.56",
+      "4:1.57"
+     ],
+     "english": "Who is honored",
+     "literal": "'which-is-it honored'"
+    },
+    {
+     "tokens": [
+      "4:1.58",
+      "4:1.59",
+      "4:1.60"
+     ],
+     "english": "One who honors people",
+     "literal": "'the-one-honoring [object marker] the-creatures'"
+    },
+    {
+     "tokens": [
+      "4:1.61"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "4:1.62",
+      "4:1.63",
+      "4:1.64"
+     ],
+     "english": "-",
+     "literal": "source reference: 1 Samuel 2; given in the apparatus"
+    },
+    {
+     "tokens": [
+      "4:1.65",
+      "4:1.66",
+      "4:1.67"
+     ],
+     "english": "For those who honor Me I will honor",
+     "literal": "'for honorers-of-me I-will-honor'"
+    },
+    {
+     "tokens": [
+      "4:1.68",
+      "4:1.69"
+     ],
+     "english": "and those who despise Me will be lightly esteemed",
+     "literal": "'and-despisers-of-me will-be-light'; passive: Bartenura notes God does not say 'I will curse', they become lightly held of themselves"
+    }
+   ],
+   "grammar": [
+    "The saying has four parallel questions, each introduced by אֵיזֶהוּ ('who is it that...?') and answered by a participle with the article (הַלּוֹמֵד, הַכּוֹבֵשׁ, הַשָּׂמֵחַ, הַמְכַבֵּד): 'the one who learns', 'the one who subdues'. The participle with the article serves as a relative clause.",
+    "Each answer is closed by שֶׁנֶּאֱמַר ('as it is said') and a verse from the Bible; the verses are quoted in their biblical form, so Psalm 119 and 128 address God and the hearer directly, with biblical forms (עֵדְוֹתֶיךָ, לָךְ with 2nd feminine ending) that are not mishnaic Hebrew.",
+    "Proverbs 16:32 is built on מִ of comparison, doubled: טוֹב אֶרֶךְ אַפַּיִם מִגִּבּוֹר וּמֹשֵׁל בְּרוּחוֹ מִלֹּכֵד עִיר, 'better the slow-of-anger than the hero, and the ruler over his spirit than the taker of a city'.",
+    "Psalm 128:2: אַשְׁרֶיךָ is a plural construct noun used as an exclamation ('happy are you'). The mishnah splits the verse in two and gives a time to each half: 'in this world' for אַשְׁרֶיךָ and 'in the world to come' for טוֹב לָךְ.",
+    "1 Samuel 2:30 pairs a Piel participle (מְכַבְּדַי) with the matching Piel imperfect (אֲכַבֵּד); the verb root כבד has the sense 'be heavy' and the Piel 'give weight to, honor'. The same root underlies מְכֻבָּד (Pual), 'honored'. יֵקָלּוּ 'will be light' is the opposite of 'heavy'."
+   ],
+   "note": "The four questions are answered with the verb in a participle; I kept the form 'One who...' so that each answer stays as brief as the Hebrew. 'Impulse' for יֵצֶר: the inclination of a person's mind and desires, neither good nor evil by the word alone. 'Honored' (מְכֻבָּד) is passive: honored by others, not 'honorable'. Bartenura's reading of מִלֹּכֵד עִיר (see commentary entry 4:1:5) takes the min as 'coming from', and I record it. The Psalm's 'happy are you' and 'well with you' have no verb in Hebrew, and the English likewise has none for 'it is well'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:1:1",
+     "relation": "follows",
+     "summary": "Bartenura: since he did not live long and was not ordained to be called 'Rabbi', they called him by his father's name, as with Ben Azzai; both were named Shimon. The English keeps Ben Zoma as a name."
+    },
+    {
+     "anchor": "bartenura:4:1:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'so he says: who is wise, such that it is fitting for him to be praised for his wisdom?' The question asks who deserves the title, not who has knowledge; the English keeps the plain question."
+    },
+    {
+     "anchor": "bartenura:4:1:3",
+     "relation": "follows",
+     "summary": "Bartenura: 'even if he is smaller than he'; since he does not spare his honor and learns from the young, it is clear that his wisdom is for the sake of Heaven and not to be proud. 'Every person' therefore includes those lesser than oneself."
+    },
+    {
+     "anchor": "bartenura:4:1:4",
+     "relation": "follows",
+     "summary": "Bartenura: the end of the verse, כִּי עֵדְוֹתֶיךָ שִׂיחָה לִי, means 'I learned Torah from all my teachers, even the younger ones, without regard for my honor, because my whole intention was for Heaven alone'; similarly the one who is fit to boast of his heroism is the one who subdues his impulse."
+    },
+    {
+     "anchor": "bartenura:4:1:5",
+     "relation": "records",
+     "summary": "Bartenura: the verse means 'better is the patience that comes from the heroism of conquering the impulse, not from a soft nature'; and 'one who rules his spirit' when 'he comes from capturing a city', the king who has taken the city and the men who rebelled are in his hand, yet rules his spirit and does not kill them. This reads the min as 'coming from', not as comparison; the English keeps the comparison of the verse."
+    },
+    {
+     "anchor": "bartenura:4:1:6",
+     "relation": "follows",
+     "summary": "Bartenura: the one for whom it is fitting to boast of his wealth is the one who rejoices in his portion."
+    },
+    {
+     "anchor": "bartenura:4:1:7",
+     "relation": "not-applicable",
+     "summary": "Bartenura: the three good things named so far, wisdom, might and wealth, make the one who has them honored in the eyes of God and man by himself; so the tanna joins this: he who has these traits and is honored in himself, what shall he do to be honored by others? Let him honor people. It explains why the fourth saying follows; it does not change the words."
+    },
+    {
+     "anchor": "bartenura:4:1:8",
+     "relation": "not-applicable",
+     "summary": "Bartenura: an a fortiori argument: if the Holy One, who is the King of Glory and created all things only for His glory, honors those who honor Him, how much more flesh and blood."
+    },
+    {
+     "anchor": "bartenura:4:1:9",
+     "relation": "follows",
+     "summary": "Bartenura: we learn the humility of the Holy One; He does not say 'those who despise Me I will curse' but 'they will be lightly esteemed' of themselves (the passive); and He is more strict over the honor of the righteous, as in Gen 12:3 וּמְקַלֶּלְךָ אָאֹר."
+    },
+    {
+     "anchor": "rambam:4:1:1",
+     "relation": "not-applicable",
+     "summary": "Rambam on הַזֶּה: 'this is clear, and we already explained its sense in the preceding chapters' (the contrast between this world and the world to come); nothing to add to the English."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:1:5",
+     "relation": "not-applicable",
+     "summary": "Rabbeinu Yonah: an 'arekh appayim' is one who holds back his anger and waits for a time and place to take revenge; one who rules his spirit is greater, since he forgives from fear of God. A moral gloss, not a reading of the words."
+    }
+   ],
+   "apparatus": [
+    "Ps 119:99 (Vilna adds the verse number צט): מִכָּל מְלַמְּדַי הִשְׂכַּלְתִּי כִּי עֵדְוֹתֶיךָ שִׂיחָה לִּי.",
+    "Prov 16:32 (Vilna adds לב): טוֹב אֶרֶךְ אַפַּיִם מִגִּבּוֹר וּמֹשֵׁל בְּרוּחוֹ מִלֹּכֵד עִיר.",
+    "Ps 128:2 (Vilna adds ב): יְגִיעַ כַּפֶּיךָ כִּי תֹאכֵל אַשְׁרֶיךָ וְטוֹב לָךְ.",
+    "1 Sam 2:30 (Vilna adds ל): כִּי מְכַבְּדַי אֲכַבֵּד וּבֹזַי יֵקָלּוּ.",
+    "Spelling variants of Vilna: ומושל (4:1.31), מלוכד (4:1.33), מכובד (4:1.57), ובוזי (4:1.68). Vilna has no text at 4:1.15-18, where the base has כִּי עֵדְוֹתֶיךָ שִׂיחָה לִּי, the second half of the Psalm 119 citation.",
+    "עֵדְוֹתֶיךָ 'your testimonies': God's decrees, Torah; the word is read as the object of the speaker's study (שִׂיחָה, 'meditation')."
+   ]
+  },
+  {
+   "ref": "4:2",
+   "english": "Ben Azzai says: Run to a light commandment as to a weighty one, and flee from transgression. For a commandment draws a commandment, and a transgression draws a transgression. For the reward of a commandment is a commandment, and the reward of a transgression is a transgression.",
+   "literal": "son-of Azzai says be running to-commandment light as-in-weighty and-fleeing from transgression that-commandment dragging commandment and-transgression dragging transgression that-reward-of commandment commandment and-reward-of transgression transgression",
+   "tokens": [
+    {
+     "id": "4:2.1",
+     "gloss": "Ben",
+     "sense": "1",
+     "note": "construct of בֵּן; with the next word the name Ben Azzai (Shimon ben Azzai)"
+    },
+    {
+     "id": "4:2.2",
+     "gloss": "Azzai",
+     "sense": "1",
+     "note": "proper name"
+    },
+    {
+     "id": "4:2.3",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:2.4",
+     "gloss": "be",
+     "sense": "1.1.3",
+     "note": "הֱוֵי is the Aramaic-influenced imperative of הָיָה 'be'; with a participle it means 'be (constantly) doing'"
+    },
+    {
+     "id": "4:2.5",
+     "gloss": "running",
+     "note": "participle of רוץ 'run'; the supplied lexicon has no entry"
+    },
+    {
+     "id": "4:2.6",
+     "gloss": "to a commandment",
+     "sense": "1.2",
+     "note": "לְ + מִצְוָה; BDB 1.2 'the commandment (of God)'"
+    },
+    {
+     "id": "4:2.7",
+     "gloss": "light",
+     "sense": "1.1",
+     "note": "קַלָּה feminine 'swift, light'; here light in weight, i.e. minor"
+    },
+    {
+     "id": "4:2.8",
+     "gloss": "as to a weighty one",
+     "sense": "1",
+     "note": "כְּ 'as' + בְּ 'in, to' + חֲמוּרָה 'heavy, weighty, severe', the feminine adjective used as a noun 'a weighty one'; the pack gives Jastrow חָמוּר I"
+    },
+    {
+     "id": "4:2.9",
+     "gloss": "and flee",
+     "sense": "1.1.2",
+     "note": "וּ + Qal participle"
+    },
+    {
+     "id": "4:2.10",
+     "gloss": "from",
+     "note": "מִן"
+    },
+    {
+     "id": "4:2.11",
+     "gloss": "transgression",
+     "sense": "1",
+     "note": "עֲבֵרָה (Vilna: עבירה) 'transgression'; the Jastrow entry only refers to עֲבֵירָה"
+    },
+    {
+     "id": "4:2.12",
+     "gloss": "for a commandment",
+     "sense": "1.2",
+     "note": "שֶׁ 'for, because' + מִצְוָה"
+    },
+    {
+     "id": "4:2.13",
+     "gloss": "draws",
+     "sense": "4",
+     "note": "גּוֹרֶרֶת: Qal participle feminine; Jastrow 3 'drag', 4 'carry with it, cause'"
+    },
+    {
+     "id": "4:2.14",
+     "gloss": "a commandment",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:2.15",
+     "gloss": "and a transgression",
+     "sense": "1",
+     "note": "וַ + עֲבֵרָה"
+    },
+    {
+     "id": "4:2.16",
+     "gloss": "draws",
+     "sense": "4"
+    },
+    {
+     "id": "4:2.17",
+     "gloss": "a transgression",
+     "sense": "1"
+    },
+    {
+     "id": "4:2.18",
+     "gloss": "for the reward of",
+     "sense": "1",
+     "note": "שֶׁ + שְׂכַר; the pack links to bdbs שָׂכָר 'Sacar' the name, a false association; the common noun is 'wages, reward'"
+    },
+    {
+     "id": "4:2.19",
+     "gloss": "a commandment",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:2.20",
+     "gloss": "a commandment",
+     "sense": "1.2",
+     "note": "predicate"
+    },
+    {
+     "id": "4:2.21",
+     "gloss": "and the reward of",
+     "sense": "1",
+     "note": "וּ + שְׂכַר"
+    },
+    {
+     "id": "4:2.22",
+     "gloss": "a transgression",
+     "sense": "1"
+    },
+    {
+     "id": "4:2.23",
+     "gloss": "a transgression",
+     "sense": "1",
+     "note": "predicate"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:2.1",
+      "4:2.2"
+     ],
+     "english": "Ben Azzai",
+     "literal": "fixed name"
+    },
+    {
+     "tokens": [
+      "4:2.3"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "4:2.4",
+      "4:2.5"
+     ],
+     "english": "Run",
+     "literal": "'be running': the imperative of 'be' with a participle makes a continuing action"
+    },
+    {
+     "tokens": [
+      "4:2.6",
+      "4:2.7"
+     ],
+     "english": "to a light commandment",
+     "literal": "'to-commandment light'"
+    },
+    {
+     "tokens": [
+      "4:2.8"
+     ],
+     "english": "as to a weighty one",
+     "literal": "'as-in-weighty': a light commandment as eagerly as to a weighty one"
+    },
+    {
+     "tokens": [
+      "4:2.9",
+      "4:2.10",
+      "4:2.11"
+     ],
+     "english": "and flee from transgression",
+     "literal": "'and-fleeing from the-transgression'"
+    },
+    {
+     "tokens": [
+      "4:2.12",
+      "4:2.13",
+      "4:2.14"
+     ],
+     "english": "For a commandment draws a commandment",
+     "literal": "'that commandment dragging commandment'; Bartenura: it is the way of the world: one who has done one commandment finds it easy to do others"
+    },
+    {
+     "tokens": [
+      "4:2.15",
+      "4:2.16",
+      "4:2.17"
+     ],
+     "english": "and a transgression draws a transgression",
+     "literal": "'and-transgression dragging transgression'"
+    },
+    {
+     "tokens": [
+      "4:2.18",
+      "4:2.19",
+      "4:2.20"
+     ],
+     "english": "For the reward of a commandment is a commandment",
+     "literal": "'that-reward-of commandment, commandment'"
+    },
+    {
+     "tokens": [
+      "4:2.21",
+      "4:2.22",
+      "4:2.23"
+     ],
+     "english": "and the reward of a transgression is a transgression",
+     "literal": "'and-reward-of transgression, transgression'; Bartenura: the gain and enjoyment a man gets from doing the transgression counts as a transgression in itself"
+    }
+   ],
+   "grammar": [
+    "הֱוֵי is an imperative of 'be' (an Aramaic-style form common in the sayings); with the participle רָץ it means 'be running', i.e. 'run'. The two commands are parallel: 'run to...' and 'flee from...' (בּוֹרֵחַ is also a participle).",
+    "קַלָּה and חֲמוּרָה are feminine adjectives agreeing with מִצְוָה; the second is used alone with כְּ + בְּ: 'as to a weighty one'.",
+    "The reasons are three parallel clauses with שֶׁ, each short: 'a commandment draws a commandment', 'a transgression draws a transgression', and 'the reward of X is X'. The sentences have no verb 'is'; the two nouns are placed side by side.",
+    "גּוֹרֶרֶת is a feminine participle of גרר, literally 'drag' (Jastrow 3), here 'draw along, bring after it'."
+   ],
+   "note": "שְׂכַר is 'reward' (wages), and the saying is left as brief as the Hebrew: the reward of a commandment is a commandment. The ambiguity is kept: either the result is another commandment given to the doer (Bartenura's first reading) or the pleasure taken in the act is counted as a commandment (his second). I did not choose between them in the English.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:2:1",
+     "relation": "follows",
+     "summary": "Bartenura: it is the way of the world that one who has done one commandment finds it easy to do others, and one who starts on transgressions finds it hard to leave them; also, Heaven helps and arranges that he who has done one commandment does another, in order to give him reward for both. Another explanation: whatever pleasure a man takes in doing a commandment is counted as a commandment of its own, and he takes reward for the commandment and for the pleasure he enjoyed in doing it."
+    },
+    {
+     "anchor": "bartenura:4:2:2",
+     "relation": "records",
+     "summary": "Bartenura: the gain and enjoyment that come to a man in doing the transgression is counted as a transgression in itself; he is punished for the transgression and for the profit and enjoyment he received. This is the second explanation of the two sayings on reward; the English keeps the plain saying, which can be read either way."
+    },
+    {
+     "anchor": "rambam:4:2:1",
+     "relation": "not-applicable",
+     "summary": "Rambam refers to his explanation in Sanhedrin ch. 10 and gives the example of Moses, who set apart three cities across the Jordan though they did not yet take effect: 'since a commandment came to my hand, I will do it'. An illustration of the first clause, not a reading of the words."
+    }
+   ],
+   "apparatus": [
+    "No biblical quotation in this mishnah.",
+    "Spelling variants of Vilna: העבירה, ועבירה, עבירה (4:2.11, 4:2.15, 4:2.17, 4:2.22, 4:2.23), for the base's עֲבֵרָה."
+   ]
+  },
+  {
+   "ref": "4:3",
+   "english": "He used to say: Do not be contemptuous of any person, and do not dismiss any thing as remote; for there is no person who has no hour, and no thing that has no place.",
+   "literal": "he was saying not be despising to-every person and-do-not be keeping-at-a-distance to-every thing for-there-is-not to-you person that-there-is-not to-him hour and-there-is-not to-you thing that-there-is-not to-him place",
+   "tokens": [
+    {
+     "id": "4:3.1",
+     "gloss": "he",
+     "note": "הוּא, the subject of the saying: the sage of the preceding mishnah (Ben Azzai)"
+    },
+    {
+     "id": "4:3.2",
+     "gloss": "used to",
+     "sense": "1.1.3",
+     "note": "perfect of הָיָה + participle: the habitual past, 'used to say'"
+    },
+    {
+     "id": "4:3.3",
+     "gloss": "say",
+     "sense": "1.1",
+     "note": "participle"
+    },
+    {
+     "id": "4:3.4",
+     "gloss": "do not",
+     "note": "אַל with the imperfect: a prohibition"
+    },
+    {
+     "id": "4:3.5",
+     "gloss": "be",
+     "sense": "1.1.3",
+     "note": "תְּהִי, 2nd masculine singular imperfect of הָיָה, jussive"
+    },
+    {
+     "id": "4:3.6",
+     "gloss": "contemptuous",
+     "note": "בָז, adjective 'contemptuous, one who despises'; no entry in the supplied lexicon"
+    },
+    {
+     "id": "4:3.7",
+     "gloss": "of any",
+     "sense": "1.2",
+     "note": "לְ + כָּל, 'toward every'"
+    },
+    {
+     "id": "4:3.8",
+     "gloss": "person",
+     "sense": "2",
+     "note": "BDB gives only the name Adam and 'first man'; here the common noun 'person'"
+    },
+    {
+     "id": "4:3.9",
+     "gloss": "and do not"
+    },
+    {
+     "id": "4:3.10",
+     "gloss": "be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "4:3.11",
+     "gloss": "dismiss",
+     "sense": "2.3",
+     "note": "Hiphil participle: Jastrow 2.3 'divert, put off', 2.6 'speak vaguely, keep at a distance'. Bartenura glosses it מַרְחִיק 'keeps at a distance'"
+    },
+    {
+     "id": "4:3.12",
+     "gloss": "any",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:3.13",
+     "gloss": "thing",
+     "sense": "1",
+     "note": "דָּבָר, 'a thing, a matter'"
+    },
+    {
+     "id": "4:3.14",
+     "gloss": "for there is not",
+     "note": "שֶׁ + אֵין 'there is not'; the pack links the particle to bdbs אַיִן 'where?', a false association"
+    },
+    {
+     "id": "4:3.15",
+     "gloss": "you",
+     "note": "לְךָ 'to you': ethical dative, the 'you' of the idiom 'you have no X who...'"
+    },
+    {
+     "id": "4:3.16",
+     "gloss": "person",
+     "sense": "2"
+    },
+    {
+     "id": "4:3.17",
+     "gloss": "who there is not",
+     "note": "שֶׁ + אֵין"
+    },
+    {
+     "id": "4:3.18",
+     "gloss": "to him",
+     "note": "לוֹ"
+    },
+    {
+     "id": "4:3.19",
+     "gloss": "hour",
+     "sense": "1",
+     "note": "שָׁעָה 'a moment, a short time, an opportunity'"
+    },
+    {
+     "id": "4:3.20",
+     "gloss": "and there is not",
+     "note": "וְ + אֵין"
+    },
+    {
+     "id": "4:3.21",
+     "gloss": "you",
+     "note": "לְךָ"
+    },
+    {
+     "id": "4:3.22",
+     "gloss": "thing",
+     "sense": "1"
+    },
+    {
+     "id": "4:3.23",
+     "gloss": "that there is not",
+     "note": "שֶׁ + אֵין"
+    },
+    {
+     "id": "4:3.24",
+     "gloss": "to it",
+     "note": "לוֹ"
+    },
+    {
+     "id": "4:3.25",
+     "gloss": "place",
+     "sense": "1.4",
+     "note": "BDB 1.4 'place, locality, spot'; מָקוֹם is also a name of God, but not here"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:3.1",
+      "4:3.2",
+      "4:3.3"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying': the habitual past (decisions)"
+    },
+    {
+     "tokens": [
+      "4:3.4",
+      "4:3.5"
+     ],
+     "english": "Do not be",
+     "literal": "'not be'; prohibition with a jussive"
+    },
+    {
+     "tokens": [
+      "4:3.6",
+      "4:3.7",
+      "4:3.8"
+     ],
+     "english": "contemptuous of any person",
+     "literal": "'despising to-every person'; Bartenura: saying 'what can so-and-so do to harm me?'"
+    },
+    {
+     "tokens": [
+      "4:3.9",
+      "4:3.10",
+      "4:3.11"
+     ],
+     "english": "and do not dismiss",
+     "literal": "'and-not be keeping-at-a-distance'"
+    },
+    {
+     "tokens": [
+      "4:3.12",
+      "4:3.13"
+     ],
+     "english": "any thing as remote",
+     "literal": "'to-every thing'; 'as remote' is Bartenura's gloss of מַפְלִיג 'keeps at a distance': do not say 'it is far off that it will be, no need to worry about it'"
+    },
+    {
+     "tokens": [
+      "4:3.14",
+      "4:3.15",
+      "4:3.16"
+     ],
+     "english": "for there is no person",
+     "literal": "'that there-is-not to-you person': an idiom, 'you have no person who...' means 'there is no person who...'"
+    },
+    {
+     "tokens": [
+      "4:3.17",
+      "4:3.18",
+      "4:3.19"
+     ],
+     "english": "who has no hour",
+     "literal": "'that there-is-not to-him hour'"
+    },
+    {
+     "tokens": [
+      "4:3.20",
+      "4:3.21",
+      "4:3.22"
+     ],
+     "english": "and no thing",
+     "literal": "'and there-is-not to-you thing'"
+    },
+    {
+     "tokens": [
+      "4:3.23",
+      "4:3.24",
+      "4:3.25"
+     ],
+     "english": "that has no place",
+     "literal": "'that there-is-not to-him place'"
+    }
+   ],
+   "grammar": [
+    "הוּא הָיָה אוֹמֵר: the personal pronoun with the perfect of 'be' and a participle gives the habitual past, 'he used to say'. The 'he' is the same sage as in 4:2 (Ben Azzai), since no new name is given.",
+    "Two parallel prohibitions with אַל and the jussive תְּהִי + a predicate (בָז; מַפְלִיג, a Hiphil participle). Both are followed by לְכָל, 'of any'.",
+    "The reason has the idiom שֶׁאֵין לְךָ X שֶׁאֵין לוֹ Y, 'there is no X that has no Y': the 'to you' (לְךָ) is not translated; literally 'for you have no person who has not his hour'.",
+    "The word מָקוֹם 'place' is a different word from the divine name הַמָּקוֹם in the decisions; here it means 'a place, a role'."
+   ],
+   "note": "מַפְלִיג has several senses in Jastrow (put off, go too far, speak indefinitely, reject). Bartenura and Rabbeinu Yonah gloss it as 'regards as distant, far-fetched': 'it is far off that it will happen, no need to worry', so I chose 'dismiss as remote'. Another reading, 'speak too lightly of anything', would also fit the Hebrew, and I did not use it. שָׁעָה 'hour' is a short time, the moment when a person (or thing) counts, as the commentators say: a time when he can harm or help.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:3:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'to say, what can so-and-so do to harm me?' Contempt for a person is the belief that he can do no harm."
+    },
+    {
+     "anchor": "bartenura:4:3:2",
+     "relation": "follows",
+     "summary": "Bartenura: מַפְלִיג is 'keeps at a distance' (מַרְחִיק) regarding every matter about which one should be careful: do not say 'it is far off that it will be, and there is nothing to worry about'."
+    },
+    {
+     "anchor": "rambam:4:3:1",
+     "relation": "follows",
+     "summary": "Rambam: it is impossible that there is not for every person a time when he can harm or benefit, even in a small thing."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:3:2",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: 'that he can harm or benefit, a little or a lot': the hour is a time of power to do either."
+    }
+   ],
+   "apparatus": [
+    "No biblical quotation in this mishnah.",
+    "No variants are noted in the pack for this mishnah."
+   ]
+  },
+  {
+   "ref": "4:4",
+   "english": "Rabbi Levitas of Yavneh says: Be very, very humble of spirit, for the hope of man is the worm. Rabbi Yohanan son of Beroka says: Whoever profanes the name of Heaven in secret, payment is exacted from him in the open. Whether unwitting or willful, in profaning the Name.",
+   "literal": "my-master Levitas man-of Yavneh says very very be low-of spirit that-hope-of man worm my-master Yohanan son-of Beroka says all-of the-one-profaning name-of heavens in-secrecy they-are-paid from-him in-open one erring and-one acting-willfully in-profaning-of the-name",
+   "tokens": [
+    {
+     "id": "4:4.1",
+     "gloss": "Rabbi",
+     "sense": "4",
+     "note": "רַבִּי is רַב 'master' + 'my', 'my master': the title Rabbi, as a fixed word"
+    },
+    {
+     "id": "4:4.2",
+     "gloss": "Levitas",
+     "sense": "1",
+     "note": "proper name, Latin Levites (Jastrow)"
+    },
+    {
+     "id": "4:4.3",
+     "gloss": "of",
+     "sense": "1",
+     "note": "אִישׁ in construct; the pack links it to the verb אִישׁ (Hithpalel) in BDB, a false association: the noun is 'man', here 'man of (a place)'"
+    },
+    {
+     "id": "4:4.4",
+     "gloss": "Yavneh",
+     "sense": "1",
+     "note": "place name, Jabneh/Yavneh"
+    },
+    {
+     "id": "4:4.5",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:4.6",
+     "gloss": "very",
+     "sense": "2",
+     "note": "מְאֹד repeated for emphasis"
+    },
+    {
+     "id": "4:4.7",
+     "gloss": "very",
+     "sense": "2"
+    },
+    {
+     "id": "4:4.8",
+     "gloss": "be",
+     "sense": "1.1.3",
+     "note": "הֱוֵי, imperative"
+    },
+    {
+     "id": "4:4.9",
+     "gloss": "humble of",
+     "sense": "1.2",
+     "note": "שָׁפָל construct 'low'; with רוּחַ the idiom 'low of spirit', humble"
+    },
+    {
+     "id": "4:4.10",
+     "gloss": "spirit",
+     "sense": "1.2.1"
+    },
+    {
+     "id": "4:4.11",
+     "gloss": "for the hope of",
+     "sense": "1",
+     "note": "שֶׁ + construct; the pack links תִּקְוָה to the name Tikvah = 'hope'; the word here is the noun 'hope'"
+    },
+    {
+     "id": "4:4.12",
+     "gloss": "man",
+     "sense": "1",
+     "note": "אֱנוֹשׁ, the pack links to BDB's name Enos = 'man'; here the common noun 'man, mortal man'"
+    },
+    {
+     "id": "4:4.13",
+     "gloss": "the worm",
+     "sense": "1",
+     "note": "רִמָּה 'maggot, worm'; the pack links the token to the place name רָמָה 'Ramah', a false association (the word is the noun רִמָּה, bdbs רִמָּה 1)"
+    },
+    {
+     "id": "4:4.14",
+     "gloss": "Rabbi",
+     "sense": "4"
+    },
+    {
+     "id": "4:4.15",
+     "gloss": "Yohanan",
+     "sense": "1",
+     "note": "proper name; BDB lists many Johanans, none this sage"
+    },
+    {
+     "id": "4:4.16",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "בֶּן"
+    },
+    {
+     "id": "4:4.17",
+     "gloss": "Beroka",
+     "sense": "1",
+     "note": "proper name; the pack links it to Jastrow 'smaragd'"
+    },
+    {
+     "id": "4:4.18",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:4.19",
+     "gloss": "whoever",
+     "sense": "1.1",
+     "note": "כָּל in construct: 'all of'"
+    },
+    {
+     "id": "4:4.20",
+     "gloss": "profanes",
+     "sense": "1.2.1",
+     "note": "article + Piel participle: 'the one who profanes'; the Piel is 'treat as common, make profane'"
+    },
+    {
+     "id": "4:4.21",
+     "gloss": "the name of",
+     "sense": "1",
+     "note": "שֵׁם in construct; the pack links it to BDB's name Shem = 'name'"
+    },
+    {
+     "id": "4:4.22",
+     "gloss": "Heaven",
+     "sense": "1.2",
+     "note": "שָׁמַיִם of God: 'Heaven' (decisions)"
+    },
+    {
+     "id": "4:4.23",
+     "gloss": "in secret",
+     "sense": "2.3",
+     "note": "בְּ + סֵתֶר 'secrecy'"
+    },
+    {
+     "id": "4:4.24",
+     "gloss": "payment is exacted",
+     "sense": "6.2",
+     "note": "Nifal participle plural, impersonal: 'they are called to account, they are made to pay'"
+    },
+    {
+     "id": "4:4.25",
+     "gloss": "from him",
+     "note": "מִן + 3rd masculine singular suffix: the one from whom it is exacted"
+    },
+    {
+     "id": "4:4.26",
+     "gloss": "in the open",
+     "sense": "1",
+     "note": "בְּ + גָּלוּי: 'in the manifest, openly'"
+    },
+    {
+     "id": "4:4.27",
+     "gloss": "whether",
+     "note": "אֶחָד here 'one...': 'one X and one Y', 'whether X or Y'"
+    },
+    {
+     "id": "4:4.28",
+     "gloss": "unwitting",
+     "sense": "1",
+     "note": "Qal participle: 'one who errs unknowingly'"
+    },
+    {
+     "id": "4:4.29",
+     "gloss": "or",
+     "note": "וְ + אֶחָד"
+    },
+    {
+     "id": "4:4.30",
+     "gloss": "willful",
+     "note": "Hiphil participle of זיד, 'one who acts with presumption, willfully'; no entry in the supplied lexicon"
+    },
+    {
+     "id": "4:4.31",
+     "gloss": "in profaning"
+    },
+    {
+     "id": "4:4.32",
+     "gloss": "the Name",
+     "sense": "1",
+     "note": "הַשֵּׁם 'the Name', i.e. of God"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:4.1",
+      "4:4.2",
+      "4:4.3",
+      "4:4.4"
+     ],
+     "english": "Rabbi Levitas of Yavneh",
+     "literal": "'my-master Levitas man-of Yavneh': 'man of' a city, i.e. of Yavneh"
+    },
+    {
+     "tokens": [
+      "4:4.5"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "4:4.6",
+      "4:4.7",
+      "4:4.8",
+      "4:4.9",
+      "4:4.10"
+     ],
+     "english": "Be very, very humble of spirit",
+     "literal": "'very very be low-of spirit'; Bartenura and Rambam: the doubled 'very' is the extreme of humility"
+    },
+    {
+     "tokens": [
+      "4:4.11",
+      "4:4.12",
+      "4:4.13"
+     ],
+     "english": "for the hope of man is the worm",
+     "literal": "'that-hope-of man (is) worm': no verb 'is' in the Hebrew"
+    },
+    {
+     "tokens": [
+      "4:4.14",
+      "4:4.15",
+      "4:4.16",
+      "4:4.17"
+     ],
+     "english": "Rabbi Yohanan son of Beroka",
+     "literal": "'my-master Yohanan son-of Beroka'"
+    },
+    {
+     "tokens": [
+      "4:4.18"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "4:4.19",
+      "4:4.20"
+     ],
+     "english": "Whoever profanes",
+     "literal": "'all-of the-one-profaning'"
+    },
+    {
+     "tokens": [
+      "4:4.21",
+      "4:4.22"
+     ],
+     "english": "the name of Heaven",
+     "literal": "'name-of heavens': Heaven = God (decisions)"
+    },
+    {
+     "tokens": [
+      "4:4.23"
+     ],
+     "english": "in secret",
+     "literal": "'in-secrecy'"
+    },
+    {
+     "tokens": [
+      "4:4.24"
+     ],
+     "english": "payment is exacted",
+     "literal": "'they-are-paid, they are called to account': impersonal passive"
+    },
+    {
+     "tokens": [
+      "4:4.25"
+     ],
+     "english": "from him",
+     "literal": "'from-him'"
+    },
+    {
+     "tokens": [
+      "4:4.26"
+     ],
+     "english": "in the open",
+     "literal": "'in-the-manifest'"
+    },
+    {
+     "tokens": [
+      "4:4.27",
+      "4:4.28"
+     ],
+     "english": "Whether unwitting",
+     "literal": "'one erring': 'one X and one Y' = 'whether X or Y'"
+    },
+    {
+     "tokens": [
+      "4:4.29",
+      "4:4.30"
+     ],
+     "english": "or willful",
+     "literal": "'and-one acting-willfully'"
+    },
+    {
+     "tokens": [
+      "4:4.31",
+      "4:4.32"
+     ],
+     "english": "in profaning the Name",
+     "literal": "'in-profaning-of the-Name'; the elliptical clause is left elliptical, as in the Hebrew"
+    }
+   ],
+   "grammar": [
+    "רַבִּי is 'my master' with the pronominal suffix frozen into the title; אִישׁ יַבְנֶה is 'man of Yavneh', here 'of Yavneh'. The Latin name לְוִיטָס is Levitas.",
+    "מְאֹד מְאֹד הֱוֵי שְׁפַל רוּחַ: the repeated adverb stands before the imperative. שְׁפַל רוּחַ is a construct chain with an adjective, 'low of spirit'. The reason שֶׁתִּקְוַת אֱנוֹשׁ רִמָּה has no verb: 'the hope of man (is) the worm'.",
+    "כָּל הַמְחַלֵּל ... נִפְרָעִין מִמֶּנּוּ: a casus pendens. The subject is stated first ('whoever profanes...') and then picked up by the pronoun on מִמֶּנּוּ. נִפְרָעִין is an impersonal Nifal participle plural, 'they exact payment' in the passive.",
+    "אֶחָד שׁוֹגֵג וְאֶחָד מֵזִיד: the pattern 'one X and one Y' means 'X and Y alike', with the predicate unspoken. בְּחִלּוּל הַשֵּׁם gives the context, 'in the case of profaning the Name'."
+   ],
+   "note": "תִּקְוַת אֱנוֹשׁ: 'the hope of man' can mean 'what man hopes for in the end' (the worm) or 'the expectation of man is for the worm'; Rabbeinu Yonah reads the end of man as the worm, which is the sense kept. For אֶחָד שׁוֹגֵג וְאֶחָד מֵזִיד I kept the ellipsis; Rambam (4:4:2) explains that in both cases payment is exacted openly, each for its own kind of offense, so the pair is 'alike' as to the open exaction, not as to the amount. 'The Name' is the divine name, as in 'profaning the Name'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:4:1",
+     "relation": "follows",
+     "summary": "Bartenura: although in other traits the middle way is praised, pride is different; one should lean to the extreme of humility, because pride is most detestable and most people stumble in it; so make an extra distance from it. This is why the doubled מְאֹד."
+    },
+    {
+     "anchor": "rambam:4:4:1",
+     "relation": "follows",
+     "summary": "Rambam: humility is a middle trait between pride and lowness of spirit, but for pride alone the pious went to the opposite extreme; hence the sage said 'very, very be low of spirit', 'because the end of the body is the worm'. The English keeps the extreme."
+    },
+    {
+     "anchor": "rambam:4:4:2",
+     "relation": "follows",
+     "summary": "Rambam: the unwitting has sin, so it needs atonement by a sacrifice, but is not like the willful; the meaning of the mishnah is that for profaning the Name, whether unwitting or willful, payment is exacted in the open: the punishment of the willful for the willful, of the unwitting for the unwitting, but both punishments are open."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:4:6",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: not that they exact payment for the unwitting as for the willful, but even for the unwitting they exact payment openly, each according to his sin."
+    }
+   ],
+   "apparatus": [
+    "No biblical quotation in this mishnah.",
+    "No variants are noted in the pack for this mishnah. Rabbeinu Yonah (4:4:4-5) reads 'in secret' as profaning the Name by an act that is itself a profanation, such as a false oath."
+   ]
+  },
+  {
+   "ref": "4:5",
+   "english": "Rabbi Ishmael, his son, says: One who learns Torah in order to teach, they enable him to learn and to teach. And one who learns in order to do, they enable him to learn and to teach, to keep and to do. Rabbi Zadok says: Do not make them a crown to exalt yourself with, nor a spade to dig with. And thus Hillel used to say: \"And he who makes use of the crown passes away.\" Hence you have learned: whoever derives benefit from the words of Torah takes his life from the world.",
+   "literal": "my-master Ishmael son-of-him says the-one-learning Torah upon portion-of to-teach they-supply in-hand-of-him to-learn and-to-teach and-the-one-learning upon portion-of to-do they-supply in-hand-of-him to-learn and-to-teach to-keep and-to-do my-master Zadok says not you-make-them crown to-make-oneself-great in-them and-not spade to-dig in-them and-thus was Hillel saying and-who-used in-crown passed-away behold you-learned all-of the-one-deriving-benefit from-words-of Torah taking lives-of-him from the-world",
+   "tokens": [
+    {
+     "id": "4:5.1",
+     "gloss": "Rabbi",
+     "sense": "4"
+    },
+    {
+     "id": "4:5.2",
+     "gloss": "Ishmael",
+     "sense": "1",
+     "note": "proper name; BDB lists several Ishmaels, none this sage"
+    },
+    {
+     "id": "4:5.3",
+     "gloss": "his son",
+     "sense": "1",
+     "note": "בֵּן + 3rd masculine singular suffix, 'his son': the son of Rabbi Yohanan ben Beroka of 4:4"
+    },
+    {
+     "id": "4:5.4",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:5.5",
+     "gloss": "the one who learns",
+     "sense": "1.1",
+     "note": "article + participle"
+    },
+    {
+     "id": "4:5.6",
+     "gloss": "Torah",
+     "sense": "1",
+     "note": "BDB 'custom, manner, law (of man)'; here תּוֹרָה is the revealed Torah, the object of the learning"
+    },
+    {
+     "id": "4:5.7",
+     "gloss": "in order",
+     "note": "עַל, with מְנָת the idiom עַל מְנָת + infinitive, 'on condition of, with the aim of'"
+    },
+    {
+     "id": "4:5.8",
+     "gloss": "to",
+     "sense": "1",
+     "note": "מְנָת is the construct of מָנָה 'portion'; the idiom is literally 'upon the portion of'"
+    },
+    {
+     "id": "4:5.9",
+     "gloss": "to teach",
+     "sense": "1.2",
+     "note": "Piel infinitive"
+    },
+    {
+     "id": "4:5.10",
+     "gloss": "they enable him",
+     "sense": "1",
+     "note": "מַסְפִּיקִין, Hiphil participle plural, impersonal; the pack links it to Jastrow סָפֵק 'doubt', a false association: the verb is ספק 'suffice, supply'"
+    },
+    {
+     "id": "4:5.11",
+     "gloss": "in his hand",
+     "sense": "1.2",
+     "note": "בְּיָדוֹ, 'in his hand' = 'within his power'; BDB 1.2 'strength, power'"
+    },
+    {
+     "id": "4:5.12",
+     "gloss": "to learn",
+     "sense": "1.1",
+     "note": "לְ + Qal infinitive"
+    },
+    {
+     "id": "4:5.13",
+     "gloss": "and to teach",
+     "sense": "1.2",
+     "note": "Piel infinitive"
+    },
+    {
+     "id": "4:5.14",
+     "gloss": "and the one who learns",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:5.15",
+     "gloss": "in order",
+     "note": "עַל"
+    },
+    {
+     "id": "4:5.16",
+     "gloss": "to",
+     "sense": "1",
+     "note": "מְנָת, as above"
+    },
+    {
+     "id": "4:5.17",
+     "gloss": "do",
+     "sense": "1.1.1.1",
+     "note": "לְ + Qal infinitive"
+    },
+    {
+     "id": "4:5.18",
+     "gloss": "they enable him",
+     "sense": "1",
+     "note": "as above"
+    },
+    {
+     "id": "4:5.19",
+     "gloss": "in his hand",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:5.20",
+     "gloss": "to learn",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:5.21",
+     "gloss": "and to teach",
+     "sense": "1.2"
+    },
+    {
+     "id": "4:5.22",
+     "gloss": "to keep",
+     "sense": "1.1.7",
+     "note": "Qal infinitive; of commandments, 'observe, keep'"
+    },
+    {
+     "id": "4:5.23",
+     "gloss": "and to do",
+     "sense": "1.1.1.1"
+    },
+    {
+     "id": "4:5.24",
+     "gloss": "Rabbi",
+     "sense": "4"
+    },
+    {
+     "id": "4:5.25",
+     "gloss": "Zadok",
+     "sense": "1",
+     "note": "proper name; BDB lists many Zadoks, none this sage"
+    },
+    {
+     "id": "4:5.26",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:5.27",
+     "gloss": "do not",
+     "note": "אַל with the imperfect: a prohibition"
+    },
+    {
+     "id": "4:5.28",
+     "gloss": "make them",
+     "sense": "1.1.2.1",
+     "note": "Qal imperfect 2nd masculine singular + 3rd masculine plural suffix (the words of the Torah)"
+    },
+    {
+     "id": "4:5.29",
+     "gloss": "a crown",
+     "sense": "1",
+     "note": "עֲטָרָה 'crown'; the pack links it to the name Atarah = 'a crown'"
+    },
+    {
+     "id": "4:5.30",
+     "gloss": "to exalt yourself",
+     "sense": "4.3",
+     "note": "Hitpael infinitive of גדל: Jastrow 4.3 'glorify one's self, boast', citing this mishnah"
+    },
+    {
+     "id": "4:5.31",
+     "gloss": "with them",
+     "note": "בְּ + 3rd masculine plural suffix"
+    },
+    {
+     "id": "4:5.32",
+     "gloss": "and not"
+    },
+    {
+     "id": "4:5.33",
+     "gloss": "a spade",
+     "note": "קַרְדֹּם, a digging tool, spade or axe; no entry in the supplied lexicon"
+    },
+    {
+     "id": "4:5.34",
+     "gloss": "to dig",
+     "sense": "1.1.1",
+     "note": "לְ + Qal infinitive"
+    },
+    {
+     "id": "4:5.35",
+     "gloss": "with them",
+     "note": "as above"
+    },
+    {
+     "id": "4:5.36",
+     "gloss": "and thus"
+    },
+    {
+     "id": "4:5.37",
+     "gloss": "used to",
+     "sense": "1.1.3",
+     "note": "perfect of הָיָה + participle: the habitual past"
+    },
+    {
+     "id": "4:5.38",
+     "gloss": "Hillel",
+     "sense": "2",
+     "note": "הִלֵּל, the pack links it to the verb הָלַל 'to shine, praise'; the name means 'praising'"
+    },
+    {
+     "id": "4:5.39",
+     "gloss": "say",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:5.40",
+     "gloss": "and he who makes use",
+     "sense": "5.1",
+     "note": "וּ + דְּ (Aramaic relative) + Ithpaal perfect of שמש: 'and he who made use (of the crown)', a general statement; Jastrow 5.1 Nithpa. 'make use of'"
+    },
+    {
+     "id": "4:5.41",
+     "gloss": "of the crown",
+     "sense": "2",
+     "note": "בְּתָגָא: Aramaic בְּ + תָּגָא 'crown' with the Aramaic emphatic ending"
+    },
+    {
+     "id": "4:5.42",
+     "gloss": "passes away",
+     "sense": "1.1.2",
+     "note": "Qal perfect 3rd masculine singular, 'he passes away, vanishes'; Aramaic-style sentence with the verb last"
+    },
+    {
+     "id": "4:5.43",
+     "gloss": "hence",
+     "note": "הָא, Aramaic-flavored 'lo, behold, therefore'"
+    },
+    {
+     "id": "4:5.44",
+     "gloss": "you have learned",
+     "sense": "1.1",
+     "note": "Qal perfect 2nd masculine singular"
+    },
+    {
+     "id": "4:5.45",
+     "gloss": "whoever",
+     "sense": "1.1",
+     "note": "כָּל in construct"
+    },
+    {
+     "id": "4:5.46",
+     "gloss": "derives benefit",
+     "sense": "1",
+     "note": "Nifal participle of הנה, 'one who enjoys, profits'; the pack's Jastrow entry only refers to הני"
+    },
+    {
+     "id": "4:5.47",
+     "gloss": "from the words of",
+     "sense": "1.3",
+     "note": "מִ + דִּבְרֵי, construct plural 'words of'"
+    },
+    {
+     "id": "4:5.48",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:5.49",
+     "gloss": "takes",
+     "sense": "1.1",
+     "note": "Qal participle, 'one who takes, lifts out'"
+    },
+    {
+     "id": "4:5.50",
+     "gloss": "his life",
+     "sense": "1",
+     "note": "חַיִּים plural, with suffix: 'his life'"
+    },
+    {
+     "id": "4:5.51",
+     "gloss": "from",
+     "note": "מִן"
+    },
+    {
+     "id": "4:5.52",
+     "gloss": "the world",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:5.1",
+      "4:5.2",
+      "4:5.3"
+     ],
+     "english": "Rabbi Ishmael, his son",
+     "literal": "'my-master Ishmael son-of-him': his son = the son of Rabbi Yohanan ben Beroka (4:4); the pack's note on the other form 'Rabbi Shimon his son' is in the apparatus"
+    },
+    {
+     "tokens": [
+      "4:5.4"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "4:5.5",
+      "4:5.6"
+     ],
+     "english": "One who learns Torah",
+     "literal": "'the-one-learning Torah'"
+    },
+    {
+     "tokens": [
+      "4:5.7",
+      "4:5.8",
+      "4:5.9"
+     ],
+     "english": "in order to teach",
+     "literal": "'upon portion-of to-teach': 'on the condition of, with the aim of'"
+    },
+    {
+     "tokens": [
+      "4:5.10",
+      "4:5.11"
+     ],
+     "english": "they enable him",
+     "literal": "'they-supply in-hand-of-him': impersonal 'they'; Bartenura: they make his intention come true"
+    },
+    {
+     "tokens": [
+      "4:5.12",
+      "4:5.13"
+     ],
+     "english": "to learn and to teach",
+     "literal": "'to-learn and-to-teach'"
+    },
+    {
+     "tokens": [
+      "4:5.14"
+     ],
+     "english": "And one who learns",
+     "literal": "'and-the-one-learning'"
+    },
+    {
+     "tokens": [
+      "4:5.15",
+      "4:5.16",
+      "4:5.17"
+     ],
+     "english": "in order to do",
+     "literal": "'upon portion-of to-do'"
+    },
+    {
+     "tokens": [
+      "4:5.18",
+      "4:5.19"
+     ],
+     "english": "they enable him",
+     "literal": "'they-supply in-hand-of-him'"
+    },
+    {
+     "tokens": [
+      "4:5.20",
+      "4:5.21"
+     ],
+     "english": "to learn and to teach",
+     "literal": "'to-learn and-to-teach'"
+    },
+    {
+     "tokens": [
+      "4:5.22",
+      "4:5.23"
+     ],
+     "english": "to keep and to do",
+     "literal": "'to-keep and-to-do'"
+    },
+    {
+     "tokens": [
+      "4:5.24",
+      "4:5.25"
+     ],
+     "english": "Rabbi Zadok",
+     "literal": "'my-master Zadok'"
+    },
+    {
+     "tokens": [
+      "4:5.26"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "4:5.27",
+      "4:5.28"
+     ],
+     "english": "Do not make them",
+     "literal": "'not you-make-them': them = the words of the Torah (Bartenura)"
+    },
+    {
+     "tokens": [
+      "4:5.29"
+     ],
+     "english": "a crown",
+     "literal": "'crown'"
+    },
+    {
+     "tokens": [
+      "4:5.30",
+      "4:5.31"
+     ],
+     "english": "to exalt yourself with",
+     "literal": "'to-make-oneself-great in-them': Bartenura: 'so that I be called Rabbi and they seat me at the head'"
+    },
+    {
+     "tokens": [
+      "4:5.32",
+      "4:5.33"
+     ],
+     "english": "nor a spade",
+     "literal": "'and-not spade'"
+    },
+    {
+     "tokens": [
+      "4:5.34",
+      "4:5.35"
+     ],
+     "english": "to dig with",
+     "literal": "'to-dig in-them': Rambam: do not take it as an instrument to live by"
+    },
+    {
+     "tokens": [
+      "4:5.36",
+      "4:5.37",
+      "4:5.38",
+      "4:5.39"
+     ],
+     "english": "And thus Hillel used to say",
+     "literal": "'and-thus was Hillel saying'"
+    },
+    {
+     "tokens": [
+      "4:5.40"
+     ],
+     "english": "And he who makes use",
+     "literal": "'and-who used' (Aramaic)"
+    },
+    {
+     "tokens": [
+      "4:5.41"
+     ],
+     "english": "of the crown",
+     "literal": "'in-crown' (Aramaic)"
+    },
+    {
+     "tokens": [
+      "4:5.42"
+     ],
+     "english": "passes away",
+     "literal": "'passed-away': Aramaic style, verb last"
+    },
+    {
+     "tokens": [
+      "4:5.43",
+      "4:5.44"
+     ],
+     "english": "Hence you have learned",
+     "literal": "'behold you-learned'"
+    },
+    {
+     "tokens": [
+      "4:5.45",
+      "4:5.46",
+      "4:5.47",
+      "4:5.48"
+     ],
+     "english": "whoever derives benefit from the words of Torah",
+     "literal": "'all-of the-one-deriving-benefit from-words-of Torah'"
+    },
+    {
+     "tokens": [
+      "4:5.49"
+     ],
+     "english": "takes",
+     "literal": "'taking'"
+    },
+    {
+     "tokens": [
+      "4:5.50"
+     ],
+     "english": "his life",
+     "literal": "'lives-of-him'"
+    },
+    {
+     "tokens": [
+      "4:5.51",
+      "4:5.52"
+     ],
+     "english": "from the world",
+     "literal": "'from the-world'; Rambam: from the life of the world to come"
+    }
+   ],
+   "grammar": [
+    "The first two sayings are in parallel: הַלּוֹמֵד עַל מְנָת לְ... מַסְפִּיקִין בְּיָדוֹ ...; the subject is a participle with the article, the verb is an impersonal plural participle (מַסְפִּיקִין, 'they enable'), and the aims are infinitives with לְ. The second saying adds 'to keep and to do'.",
+    "אַל תַּעֲשֵׂם ... וְלֹא קַרְדֹּם: a prohibition with אַל and the imperfect; the second clause, with וְלֹא, takes its verb from the first ('nor (make them) a spade'). The suffix -ם 'them' stands for the words of the Torah, to which the prior saying referred.",
+    "Hillel's saying וּדְאִשְׁתַּמֵּשׁ בְּתָגָא חָלָף is in Aramaic: the relative דְּ, the Ithpaal perfect אִשְׁתַּמֵּשׁ, תָּגָא 'crown' with the Aramaic ending -ā, and the verb at the end. Rabbeinu Yonah notes 'tagā means crown, as in the Targum'.",
+    "הָא לָמַדְתָּ ('behold, you have learned') introduces the conclusion drawn by the editor from Hillel's saying; כָּל הַנֶּהֱנֶה is again 'whoever + participle'. נוֹטֵל חַיָּיו מִן הָעוֹלָם is a participle, the present of a general rule: 'takes his life out of the world'.",
+    "The word חַיָּיו is plural in form (חַיִּים 'life') and has a singular sense; מִן הָעוֹלָם 'from the world' needs the world to come in the Rambam's reading."
+   ],
+   "note": "עַל מְנָת: 'in order to, with the intention of' (literally 'on the portion of'). The mishnah's first two sayings are about intent: in each case the aim of the learning decides what he is enabled to do. The reading 'they enable' is Bartenura's majority text; he records another text, 'one who learns in order to teach, they do not enable him to learn and to teach', for those who take 'to teach' as 'in order to be called Rabbi'; I follow the majority text. קַרְדֹּם is 'spade' (the tool named with לַחְפֹּר 'to dig'); Rabbeinu Yonah's variant 'to cut' (לַחְתֹּךְ) would make it an axe. נוֹטֵל חַיָּיו מִן הָעוֹלָם: Rambam says 'his life from the world', i.e. from the life of the world to come; I kept the literal words and give the gloss here.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:5:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'we read': one who learns in order always to be occupied with Torah, with no intention to do acts of kindness, they enable his intention to be done, to learn and to teach; one who learns in order to do, wanting to be occupied with Torah and also to do kindness, they enable him to complete his intention and he merits to learn, teach, keep and do. Some explain 'to teach' as 'to be called Rabbi' and read 'they do not enable him'; but in most books he found the first reading, which is the main one."
+    },
+    {
+     "anchor": "bartenura:4:5:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'so that you do not say, I will learn so that I be called Rabbi and they seat me at the head, but learn from love, and in the end honor will come.'"
+    },
+    {
+     "anchor": "bartenura:4:5:3",
+     "relation": "follows",
+     "summary": "Bartenura: do not learn Torah to make from it a trade by which to live, like a spade to dig with; whoever does so misuses the holiness of the Torah and is liable to death at the hands of Heaven, like one who benefits from the Temple's consecrated property. Teachers of children take only the wages of watching the children and of teaching the cantillation, not for teaching itself."
+    },
+    {
+     "anchor": "rambam:4:5:1",
+     "relation": "follows",
+     "summary": "Rambam: 'do not make the Torah a spade to dig with' means do not regard it as an instrument to live by; he who benefits in this world from the honor of the Torah 'takes his life from the world', that is, from the life of the world to come. He devotes a long defense of sages who lived by a trade, not by the community's money, and tells the story of R. Tarfon."
+    },
+    {
+     "anchor": "rabbeinu-yonah:4:5:7",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: 'tagā is a word for a crown, as its Targum.'"
+    }
+   ],
+   "apparatus": [
+    "Rabbeinu Yonah (4:5:1) says the copyist's text before him reads 'Rabbi Ishmael'; the base text of some versions has 'Rabbi Shimon his son': the pack's commentary records this alternative name.",
+    "Vilna spelling variants: ללמוד (4:5.12, 4:5.20), לשמור (4:5.22), קרדום (4:5.33), לחפור (4:5.34), ודישתמש (4:5.40, for the base וּדְאִשְׁתַּמֵּשׁ); the pack also shows that Vilna has no word at 4:5.6 where the base has תּוֹרָה.",
+    "Bartenura's variant text: 'one who learns in order to teach: they do not enable him to learn and to teach' (taking לְלַמֵּד as 'in order to be called Rabbi'); he follows the reading in most books."
+   ]
+  },
+  {
+   "ref": "4:6",
+   "english": "Rabbi Yose says: Whoever honors the Torah, his body is honored by people. And whoever profanes the Torah, his body is profaned by people.",
+   "literal": "my-master Yose says all-of the-one-honoring [object-marker] the-Torah body-of-him honored upon the-creatures and-all-of the-one-profaning [object-marker] the-Torah body-of-him profaned upon the-creatures",
+   "tokens": [
+    {
+     "id": "4:6.1",
+     "gloss": "Rabbi",
+     "sense": "4"
+    },
+    {
+     "id": "4:6.2",
+     "gloss": "Yose",
+     "sense": "2",
+     "note": "proper name; Jastrow 2 'name of several Tannaim'"
+    },
+    {
+     "id": "4:6.3",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "4:6.4",
+     "gloss": "whoever",
+     "sense": "1.1",
+     "note": "כָּל in construct"
+    },
+    {
+     "id": "4:6.5",
+     "gloss": "honors",
+     "sense": "1.3.2",
+     "note": "article + Piel participle: 'the one who honors'"
+    },
+    {
+     "id": "4:6.6",
+     "gloss": "(object marker)",
+     "note": "object marker; no English counterpart; the pack links it to 'ploughshare', a false association"
+    },
+    {
+     "id": "4:6.7",
+     "gloss": "the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:6.8",
+     "gloss": "his body",
+     "sense": "1",
+     "note": "גּוּף 'body, self'; the pack links it to the Jastrow verb גּוּף 'to squeeze', a false association"
+    },
+    {
+     "id": "4:6.9",
+     "gloss": "is honored",
+     "sense": "1.4",
+     "note": "Pual participle: 'is honored, held in honor'"
+    },
+    {
+     "id": "4:6.10",
+     "gloss": "by",
+     "note": "עַל; here the agent 'in the eyes of, by'"
+    },
+    {
+     "id": "4:6.11",
+     "gloss": "people",
+     "note": "הַבְּרִיּוֹת, 'the created beings, people'"
+    },
+    {
+     "id": "4:6.12",
+     "gloss": "and whoever",
+     "sense": "1.1",
+     "note": "וְ + כָּל"
+    },
+    {
+     "id": "4:6.13",
+     "gloss": "profanes",
+     "sense": "1.2.1",
+     "note": "article + Piel participle"
+    },
+    {
+     "id": "4:6.14",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "4:6.15",
+     "gloss": "the Torah",
+     "sense": "1"
+    },
+    {
+     "id": "4:6.16",
+     "gloss": "his body",
+     "sense": "1"
+    },
+    {
+     "id": "4:6.17",
+     "gloss": "is profaned",
+     "sense": "1.3",
+     "note": "Pual participle: 'is profaned, treated as common'"
+    },
+    {
+     "id": "4:6.18",
+     "gloss": "by",
+     "note": "עַל"
+    },
+    {
+     "id": "4:6.19",
+     "gloss": "people"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "4:6.1",
+      "4:6.2"
+     ],
+     "english": "Rabbi Yose",
+     "literal": "'my-master Yose'"
+    },
+    {
+     "tokens": [
+      "4:6.3"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "4:6.4",
+      "4:6.5",
+      "4:6.6",
+      "4:6.7"
+     ],
+     "english": "Whoever honors the Torah",
+     "literal": "'all-of the-one-honoring [object marker] the-Torah'; Bartenura: the one who expounds the Torah's extra and missing letters, showing a reason for every point; or who honors the scroll and its students"
+    },
+    {
+     "tokens": [
+      "4:6.8",
+      "4:6.9"
+     ],
+     "english": "his body is honored",
+     "literal": "'body-of-him honored': גוּפוֹ 'his body' = his person"
+    },
+    {
+     "tokens": [
+      "4:6.10",
+      "4:6.11"
+     ],
+     "english": "by people",
+     "literal": "'upon the-creatures': 'upon' here marks the persons in whose view he is honored"
+    },
+    {
+     "tokens": [
+      "4:6.12",
+      "4:6.13",
+      "4:6.14",
+      "4:6.15"
+     ],
+     "english": "And whoever profanes the Torah",
+     "literal": "'and-all-of the-one-profaning [object marker] the-Torah'"
+    },
+    {
+     "tokens": [
+      "4:6.16",
+      "4:6.17"
+     ],
+     "english": "his body is profaned",
+     "literal": "'body-of-him profaned': Rabbeinu Yonah: 'the one who bares faces in the Torah', who asks why something was written, profanes it"
+    },
+    {
+     "tokens": [
+      "4:6.18",
+      "4:6.19"
+     ],
+     "english": "by people",
+     "literal": "'upon the-creatures'"
+    }
+   ],
+   "grammar": [
+    "Two antithetical sayings, one with מְכַבֵּד / מְכֻבָּד (root כבד, Piel / Pual) and one with מְחַלֵּל / מְחֻלָּל (root חלל, Piel / Pual). In each, the Piel participle with the article after כָּל is the subject, and the Pual participle is the predicate of the main clause (a casus pendens: 'whoever honors..., his body is honored').",
+    "The two verbs are opposites: כבד 'give weight to', חלל 'treat as common, make profane'. The second saying keeps the same word order to make the contrast plain.",
+    "עַל הַבְּרִיּוֹת, literally 'upon the creatures', stands for the agent: 'honored by people', 'in the eyes of people'. The word גּוּף 'body' with the suffix is a way to say 'he himself, his person'.",
+    "The verb חִלֵּל is the same as in 4:4 (חִלּוּל הַשֵּׁם): to profane the Name and to profane the Torah are both 'make common'."
+   ],
+   "note": "גּוּפוֹ is 'his body' in the Hebrew, and I kept it, though it can be read as 'he himself'; Rabbeinu Yonah explains that Heaven helps people to honor him (or to despise him), i.e. 'body' is the person in the eyes of others. 'By people' for עַל הַבְּרִיּוֹת: literally 'upon the creatures', the persons in whose eyes the honor is held.",
+   "commentary": [
+    {
+     "anchor": "bartenura:4:6:1",
+     "relation": "follows",
+     "summary": "Bartenura: one who expounds the extra and missing letters of the Torah and shows a reason for every point, saying nothing in it is superfluous, no greater honor to the Torah; or one who honors a Torah scroll and those who learn and engage in it; all these are 'one who honors the Torah'."
+    },
+    {
+     "anchor": "rambam:4:6:1",
+     "relation": "follows",
+     "summary": "Rambam: the honor of the Torah is shown by zeal in doing it, and by honoring the sages who uphold it and the books they wrote on it; and the profaning of the Torah is the opposite."
+    }
+   ],
+   "apparatus": [
+    "No biblical quotation in this mishnah.",
+    "Vilna spelling variants: מכובד (4:6.9), מחולל (4:6.17), for the base's מְכֻבָּד and מְחֻלָּל."
+   ]
+  }
+ ]
+}

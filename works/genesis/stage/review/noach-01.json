@@ -1,0 +1,204 @@
+{
+  "unit": "noach-01",
+  "model": "opus",
+  "summary": "The English lines of 6:9-12 are accurate and consistent with Rashi and Ibn Ezra throughout, and no English line needs changing. The faults are in the apparatus around them. Several summaries misread their comments: Ibn Ezra's grammatical terms תאר השם and מפעלי הכפל were read as 'describes God's works', his servant who sins before his master 'and does not fear him' became one who sins 'without being seen', Radak's reason for naming the sons was replaced by an invented one, and the one-word Radak 6:12:1 was given content. On 6:12, Rashi and Ibn Ezra agree (Ibn Ezra endorses the ancients) that 'all flesh' includes the animals and 'its way' is the way of generation, so Ibn Ezra is followed rather than recorded; Ramban's plain-sense 'humankind' was misattributed to the wider reading and left without a summary. Three senses are corrected or questioned (דּוֹר 2, אֶרֶץ 1.c for 'inhabitants of the earth', רָאָה), and some learner notes on the accents and the accusative after a nifal of filling were false."
+  ,
+  "patches": [
+    {
+      "ref": "6:9",
+      "path": "grammar",
+      "value": [
+        "תּוֹלְדֹת is in the construct state, bound to נֹחַ; the account that follows begins not with Noah's sons but with his praise (so Rashi: הוֹאִיל וְהִזְכִּירוֹ סִפֵּר בְּשִׁבְחוֹ).",
+        "The zaqef qaton on the first נֹחַ closes the heading אֵלֶּה תּוֹלְדֹת נֹחַ; the repeated נֹחַ, which carries the revia, begins a new clause as its subject: 'Noah was a righteous man'.",
+        "אִישׁ צַדִּיק תָּמִים: the two adjectives stand side by side, each describing 'man'; this predicate is placed before the verb הָיָה.",
+        "הִתְהַלֶּךְ is a hitpael perfect with no vav; Rashi notes that in this stem the same form serves for the future (imperative) and the past, here the past.",
+        "The etnaḥta on בְּדֹרֹתָיו divides the verse: the first half describes Noah, the second his relation to God."
+      ],
+      "severity": "error",
+      "reason": "The second note said the clause break comes 'after the revia' and that the repeated name 'breaks the construct chain'. The chain תּוֹלְדֹת נֹחַ ends at the first נֹחַ, whose zaqef qaton is the dividing accent; the revia is on the repeated נֹחַ itself. Rashi's 'future' example קוּם הִתְהַלֵּךְ is an imperative, now said so in the fourth note."
+    },
+    {
+      "ref": "6:9",
+      "path": "token:6:9.8.note",
+      "value": "qal qatal of הָיָה, 'was'; the predicate אִישׁ צַדִּיק תָּמִים stands before it",
+      "severity": "style",
+      "reason": "The clause has a finite verb, so 'a nominal-type clause' misleads a learner; what is notable is the predicate placed first."
+    },
+    {
+      "ref": "6:9",
+      "path": "token:6:9.9.sense",
+      "value": "2",
+      "severity": "error",
+      "reason": "BDB דּוֹר 1 is 'period, age, generation, mostly poet.'; 2 is 'of men living at a particular time, generation'. בְּדֹרֹתָיו is the people of his time: Rashi's rabbis weigh him against his contemporaries (and against Abraham's generation), and Ibn Ezra takes it as those of his generation at the flood and of the generations after it."
+    },
+    {
+      "ref": "6:9",
+      "path": "token:6:9.9.note",
+      "value": "plural of דּוֹר with the 3rd masculine singular suffix, written defectively (no vav in either syllable); 'his generations' are the people of his lifetime, which Ibn Ezra extends to the generations after the flood",
+      "severity": "style",
+      "reason": "Brings the note into line with the corrected sense (men of an age, not the period itself), and states the form more exactly."
+    },
+    {
+      "ref": "6:9",
+      "path": "commentary:ibn-ezra:6:9:3.summary",
+      "value": "Ibn Ezra: תָּמִים is 'in his heart', as צַדִּיק is 'in his deeds' (6:9:2). Grammatically תָּמִים is an adjective (תֹּאַר הַשֵּׁם) from the geminate verbs (פַּעֲלֵי הַכֶּפֶל), root תמם. The English 'blameless' is read as sound and whole, so the pair means righteous in act, whole in heart.",
+      "severity": "error",
+      "reason": "תאר השם is the grammarians' term for 'adjective' (descriptor of a noun) and מפעלי הכפל means 'from the doubled (geminate) verbs'. The summary read them as 'the word describes God's works as well', which Ibn Ezra does not say."
+    },
+    {
+      "ref": "6:10",
+      "path": "commentary:radak:6:10:1.summary",
+      "value": "Radak: the sons were already named above (5:32); they are named again here, right after 'Noah walked with God', to teach that as he devoted himself to serving God, so he taught and trained his sons to turn from the ways of the wicked and to serve the LORD. Had they not been so, they would not have been saved, for Ezekiel 14 says that Noah, Daniel and Job would save neither sons nor daughters; through them seed remained after the flood.",
+      "severity": "error",
+      "reason": "Radak does not say the repetition is 'for the reader's attention'. He gives a specific reason: the placement after הִתְהַלֶּךְ נֹחַ shows that Noah trained his sons in his ways, without which they would not have been saved (Ezek 14:16)."
+    },
+    {
+      "ref": "6:10",
+      "path": "commentary:ramban:6:10:1.summary",
+      "value": "Ramban: Japheth is the eldest (10:21 אֲחִי יֶפֶת הַגָּדוֹל; his sons are listed first in chapter 10) and Ham the youngest (9:24 בְּנוֹ הַקָּטָן). Shem is put first for his eminence, Ham follows him in birth order, and so Japheth comes last; the verse does not say 'Shem, Japheth and Ham', which would set all three out of birth order. The English keeps the Hebrew order, so the comment does not change it.",
+      "severity": "style",
+      "reason": "The summary only said that Ramban 'discusses the order and the ages'; it now says what he says."
+    },
+    {
+      "ref": "6:10",
+      "path": "grammar",
+      "value": [
+        "וַיּוֹלֶד is hifil wayyiqtol of יָלַד; the hifil is the usual form for a father's begetting.",
+        "שְׁלֹשָׁה has the ending ־ָה yet goes with the masculine בָּנִים: from three to ten, the cardinal takes in form the opposite gender to its noun.",
+        "The three names are each marked with אֶת, in apposition to שְׁלֹשָׁה בָנִים.",
+        "The etnaḥta on בָנִים separates the number from the list of names."
+      ],
+      "severity": "style",
+      "reason": "The etnaḥta falls on בָנִים, not after it. The added note explains the gender polarity of שְׁלֹשָׁה, which otherwise looks like a contradiction with the token note's 'masculine cardinal'."
+    },
+    {
+      "ref": "6:11",
+      "path": "token:6:11.2.sense",
+      "value": "1.c",
+      "severity": "error",
+      "reason": "BDB אֶרֶץ 1.c is 'earth = inhabitants of earth' (the pack prints it only as 'earth'). The translation rules that it follows Ibn Ezra and Radak, who read וַתִּשָּׁחֵת הָאָרֶץ as the people of the earth, so the token's sense is 1.c, not 1.a 'whole earth'."
+    },
+    {
+      "ref": "6:11",
+      "path": "token:6:11.2.note",
+      "value": "a metonymy: the earth for the people of the earth (Ibn Ezra, Radak)",
+      "severity": "style",
+      "reason": "Explains the sense 1.c to the learner where the token is glossed."
+    },
+    {
+      "ref": "6:11",
+      "path": "grammar",
+      "value": [
+        "The two verbs are nifal wayyiqtol, both 3rd feminine singular, to agree with הָאָרֶץ.",
+        "וַתִּשָּׁחֵת and וַתִּמָּלֵא are parallel: the first says the earth was corrupted, the second what filled it.",
+        "חָמָס follows וַתִּמָּלֵא directly, with no preposition: a verb of filling keeps the thing that fills as an accusative even in the nifal, and English supplies 'with'.",
+        "The etnaḥta on הָאֱלֹהִים divides the verse into two parallel halves, each with the earth as subject.",
+        "שָׁחַת and its related forms recur in the next verse (נִשְׁחָתָה, הִשְׁחִית) and make a play on the one root."
+      ],
+      "severity": "error",
+      "reason": "The third note spoke of 'a second accusative'. With the nifal the earth is the subject and חָמָס is the only accusative; the double accusative belongs to the active 'fill X with Y'. The etnaḥta is on הָאֱלֹהִים, not after it."
+    },
+    {
+      "ref": "6:11",
+      "path": "note",
+      "value": "'Earth' is kept for הָאָרֶץ; Ibn Ezra and Radak read it as the people of the earth (BDB 1.c, 'earth = inhabitants of earth'), and the English leaves the metonymy for the reader. 'Was corrupt' gives the nifal of שָׁחַת, 'be spoiled, ruined'; Rashi specifies the corruption as sexual immorality and idolatry, which 'corrupt' allows. 'Violence' for חָמָס covers Rashi's robbery and Ibn Ezra's robbery, oppression and seizing women by force.",
+      "severity": "error",
+      "reason": "The note credited Rashi with a 'range of ruin, deprave'. Rashi says nothing of the kind: he reads וַתִּשָּׁחֵת as sexual immorality and idolatry (לְשׁוֹן עֶרְוָה וַעֲבוֹדָה זָרָה)."
+    },
+    {
+      "ref": "6:12",
+      "path": "token:6:12.1.sense",
+      "value": "Qal 1.b",
+      "severity": "question",
+      "reason": "Qal 1.a is the first sense of the entry and looks filled mechanically. BDB 1.b is 'see, c. acc. rei', which fits וַיַּרְא ... אֶת־הָאָרֶץ, with the thing seen as the object. Qal 2 (with acc. and a clause of closer definition, as in 1:4) is also arguable, because of the וְהִנֵּה clause."
+    },
+    {
+      "ref": "6:12",
+      "path": "commentary:ibn-ezra:6:11:2.summary",
+      "value": "Ibn Ezra on לִפְנֵי הָאֱלֹהִים (6:11): some say it means 'openly'; others say they corrupted themselves in secret, in hidden matters known only to God. The nearest reading in his view is that the Torah speaks in human language so that the hearers understand: like a servant who commits a transgression in front of his master and does not fear him. Those who say that אֱלֹהִים here is not holy (that is, means judges or rulers) have said nothing. The English 'before God' fits his reading.",
+      "severity": "error",
+      "reason": "ולא ייראנו means 'and does not fear him', not 'without being seen'. Ibn Ezra's servant sins openly before his master, which is the opposite of the summary. The כִּי in the heading belongs to וְיֵשׁ אוֹמְרִים כִּי ('some say that'), not to the כִּי of 6:12. The summary also left out his rejection of the profane reading of אֱלֹהִים, which supports the decisions' 'God'."
+    },
+    {
+      "ref": "6:12",
+      "path": "commentary:ibn-ezra:6:12:1",
+      "value": {
+        "relation": "follows",
+        "summary": "Ibn Ezra: what our ancients said, that הִשְׁחִית כָּל בָּשָׂר אֶת דַּרְכּוֹ means every living creature failed to keep the way of its generation and twisted the known, planted path, is correct (נָכוֹן הוּא); he also praises the homily that they corrupted themselves with 'water' and God judged them with water, from above and below. With Rashi, he takes 'all flesh' to include the animals and 'its way' as the natural way of begetting; the English 'all flesh had corrupted its way' carries that reading."
+      },
+      "severity": "error",
+      "reason": "Ibn Ezra endorses the ancients' reading (נכון הוא), and Rashi on the same words says the same: even beasts, animals and birds mated with other kinds. The two normative commentators agree, and the English is compatible with them, so the ruling is 'follows', not 'records' (translate brief, rule 3)."
+    },
+    {
+      "ref": "6:12",
+      "path": "note",
+      "value": "Rashi and Ibn Ezra agree that 'all flesh' here includes the animals (beasts and birds mating with kinds not their own), and that 'its way' is the natural way of begetting: Ibn Ezra endorses the ancients' כָּל חַי לֹא שָׁמַר דֶּרֶךְ תּוֹלַדְתּוֹ. The English 'all flesh had corrupted its way' carries this reading without narrowing it. Ramban, by the plain sense, and Radak take 'all flesh' as humankind, and Onkelos adds אֱנַשׁ. The hifil הִשְׁחִית is taken as a pluperfect ('had corrupted') because it gives the cause of the state just described (נִשְׁחָתָה).",
+      "severity": "error",
+      "reason": "The note presented Ibn Ezra as only reporting 'his ancients' and said the English 'does not choose'. Ibn Ezra endorses that reading, and with Rashi it is the plain sense the normative commentators decide; the English follows it. It also left out Ramban, whose plain-sense reading is the main alternative."
+    },
+    {
+      "ref": "6:12",
+      "path": "commentary:ramban:6:12:1",
+      "value": {
+        "relation": "records",
+        "summary": "Ramban: if 'all flesh' is taken literally, with Rashi (beasts, animals and birds mating with other kinds), then 'filled with violence because of them' (6:13) means because of some of them, and only man's punishment is told; or the animals too broke their nature, every beast preying and every bird tearing, so that they also did violence. But by the plain sense כָּל בָּשָׂר here is all humankind, as in Isa 66:23, while below (6:19, 7:15) it means every living body. The English keeps the wider 'all flesh'."
+      },
+      "severity": "error",
+      "reason": "The summary did not say what Ramban says, and 'not-applicable' is wrong: his plain-sense 'all humankind' bears on the English exactly as Radak's does, which the translation itself rules 'records'."
+    },
+    {
+      "ref": "6:12",
+      "path": "commentary:radak:6:12:1.summary",
+      "value": "Radak: only the opening word וּפֵרוּשׁ ('and its meaning'); the explanation follows in radak:6:12:2.",
+      "severity": "error",
+      "reason": "The comment is one word and explains nothing; the summary gave it a content ('explains the sense of the verb') that it does not have."
+    },
+    {
+      "ref": "6:12",
+      "path": "commentary:radak:6:12:2.summary",
+      "value": "Radak: 'all flesh' means human beings, as in 'let all flesh bless' (Ps 145:21) and 'all flesh shall come' (Isa 66:23); but by the words of our rabbis the other living creatures are included as well, as he wrote earlier. The English does not narrow 'all flesh' to people.",
+      "severity": "style",
+      "reason": "The summary left out the second half of the comment, where Radak allows the rabbis' wider reading."
+    },
+    {
+      "ref": "6:12",
+      "path": "grammar",
+      "value": [
+        "וְהִנֵּה marks what God sees, from the point of view of the one who sees: 'and there, it was corrupt'.",
+        "נִשְׁחָתָה (nifal, 'was corrupted') and הִשְׁחִית (hifil, 'corrupted') are the same root in two stems: the earth is ruined because all flesh ruined its way.",
+        "כׇּל־בָּשָׂר, 'all flesh', can mean every living creature or all humankind; here Rashi and Ibn Ezra include the animals, while Ramban and Radak take it by the plain sense as humankind.",
+        "The suffix in דַּרְכּוֹ is singular, referring back to 'flesh' taken as a whole.",
+        "The etnaḥta on נִשְׁחָתָה divides the seeing from the reason."
+      ],
+      "severity": "style",
+      "reason": "The third note stated as fact that the phrase 'takes in humans and animals' in 'the first half of the Flood story'; at 6:12 this is disputed, and the note now says who holds which reading. The etnaḥta is on נִשְׁחָתָה, not after it."
+    },
+    {
+      "ref": "6:12",
+      "path": "apparatus",
+      "value": [
+        "Subject of 6:12.1: אֱלֹהִים without the article, 'God'; Onkelos renders it יְיָ, 'the LORD'.",
+        "'All flesh' including the animals (Rashi; Ibn Ezra, endorsing the ancients) or all humankind (Ramban by the plain sense, Radak, Onkelos with אֱנַשׁ): the English keeps the wider phrase."
+      ],
+      "severity": "error",
+      "reason": "Ramban was listed for the wider reading. He allows Rashi's view but says that by the plain sense כָּל בָּשָׂר here is all humankind. Ibn Ezra, who holds the wider reading, was missing. The first line also named Onkelos and 'the Targum' as if they were two witnesses."
+    }
+  ],
+  "verdicts": [
+    {"anchor": "rashi:6:9:1", "verdict": "consistent", "comment": "'These are the generations of Noah' allows both of Rashi's explanations: the praise of Noah that follows, and good deeds as the true offspring."},
+    {"anchor": "rashi:6:9:2", "verdict": "consistent", "comment": "'In his generations' leaves both rabbinic readings, praise and disparagement, open, as Rashi presents them."},
+    {"anchor": "rashi:6:9:3", "verdict": "consistent", "comment": "'Walked with God' keeps the preposition אֵת on which Rashi's contrast with Abraham's 'walked before' rests."},
+    {"anchor": "rashi:6:9:4", "verdict": "consistent", "comment": "Rashi reads הִתְהַלֶּךְ as past; the English 'walked' is past."},
+    {"anchor": "ibn-ezra:6:9:1", "verdict": "contradicts", "comment": "Ibn Ezra takes תּוֹלְדֹת as 'events' (קוֹרוֹת); the English 'generations' is the descendants reading. The English stands: Rashi does not share Ibn Ezra's reading (his second explanation treats תּוֹלְדֹת as offspring), so the normative pair do not agree against it, and the lexicon gives 'generations, account of a man and his descendants'. Ibn Ezra's reading is recorded in the note and in the gloss 'the account of'."},
+    {"anchor": "ibn-ezra:6:9:2", "verdict": "consistent", "comment": "'Righteous' is read as righteous in deeds."},
+    {"anchor": "ibn-ezra:6:9:3", "verdict": "consistent", "comment": "'Blameless' (BDB 4, sound, having integrity) fits 'whole in his heart'; the summary is corrected."},
+    {"anchor": "ibn-ezra:6:9:4", "verdict": "consistent", "comment": "The plural 'in his generations' admits his own generation and the ones after the flood."},
+    {"anchor": "rashi:6:11:1", "verdict": "consistent", "comment": "'Was corrupt' covers Rashi's sexual immorality and idolatry without explaining them in the English line."},
+    {"anchor": "rashi:6:11:2", "verdict": "consistent", "comment": "Rashi narrows חָמָס to robbery, and Ibn Ezra lists robbery, extortion and the forcible taking of women: wrongs of seizure by force. 'Violence' (BDB 'violence, wrong') covers them all, where 'robbery' alone would drop Ibn Ezra's other items."},
+    {"anchor": "ibn-ezra:6:11:1", "verdict": "consistent", "comment": "'The earth' keeps the metonymy for its people; the sense is corrected to BDB 1.c, 'earth = inhabitants of earth'."},
+    {"anchor": "ibn-ezra:6:11:3", "verdict": "consistent", "comment": "'Violence' covers robbery, oppression and taking women by force."},
+    {"anchor": "ibn-ezra:6:11:2", "verdict": "consistent", "comment": "'Before God' is the plain 'in God's presence' of Ibn Ezra's servant who sins before his master, and keeps אֱלֹהִים as God, as he requires."},
+    {"anchor": "rashi:6:12:1", "verdict": "consistent", "comment": "'All flesh' does not exclude the animals."},
+    {"anchor": "ibn-ezra:6:12:1", "verdict": "consistent", "comment": "'All flesh had corrupted its way' carries the reading he endorses: every creature broke the way of its generation. The ruling is corrected to 'follows'."}
+  ]
+}

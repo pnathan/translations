@@ -1,0 +1,707 @@
+{
+ "unit": "bereshit-16",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "5:1",
+   "english": "This is the record of the descendants of Adam. When God created Adam, he made him in the likeness of God.",
+   "literal": "this book-of generations-of Adam in-day-of creating God Adam in-likeness-of God made ACC-him",
+   "tokens": [
+    {
+     "id": "5:1.1",
+     "gloss": "this"
+    },
+    {
+     "id": "5:1.2",
+     "gloss": "record of",
+     "sense": "3",
+     "note": "construct state; a written account, here a list of generations"
+    },
+    {
+     "id": "5:1.3",
+     "gloss": "the descendants of"
+    },
+    {
+     "id": "5:1.4",
+     "gloss": "Adam",
+     "sense": "3",
+     "note": "proper name here; the same word is a generic noun at 5:1.8"
+    },
+    {
+     "id": "5:1.5",
+     "gloss": "when (in the day of)",
+     "sense": "1",
+     "note": "construct state before an infinitive: 'in the day of God's creating'"
+    },
+    {
+     "id": "5:1.6",
+     "gloss": "created",
+     "sense": "Qal",
+     "note": "infinitive construct, 'creating', with the subject God following"
+    },
+    {
+     "id": "5:1.7",
+     "gloss": "God",
+     "sense": "4"
+    },
+    {
+     "id": "5:1.8",
+     "gloss": "Adam",
+     "sense": "3",
+     "note": "no article; the pack parses it as a common noun, but it is read as the name Adam, the man whose line follows (decisions, 5:1–5). Ramban speaks here of 'this Adam who is mentioned' (הָאָדָם הַזֶּה הַנִּזְכָּר); his remark that the name covers all human kind is on 5:2."
+    },
+    {
+     "id": "5:1.9",
+     "gloss": "in the likeness of",
+     "sense": "1"
+    },
+    {
+     "id": "5:1.10",
+     "gloss": "God",
+     "sense": "4"
+    },
+    {
+     "id": "5:1.11",
+     "gloss": "he made",
+     "sense": "Qal II.1"
+    },
+    {
+     "id": "5:1.12",
+     "gloss": "him",
+     "note": "object marker with 3ms suffix"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:1.1",
+      "5:1.2"
+     ],
+     "english": "This is the record of",
+     "literal": "'this book-of'; a written account; Rashi: סְפִירַת, an enumeration"
+    },
+    {
+     "tokens": [
+      "5:1.3",
+      "5:1.4"
+     ],
+     "english": "the descendants of Adam",
+     "literal": "'generations-of Adam'"
+    },
+    {
+     "tokens": [
+      "5:1.5",
+      "5:1.6",
+      "5:1.7",
+      "5:1.8"
+     ],
+     "english": "When God created Adam",
+     "literal": "'in-day-of creating God Adam'; a temporal clause with an infinitive construct"
+    },
+    {
+     "tokens": [
+      "5:1.9",
+      "5:1.10",
+      "5:1.11",
+      "5:1.12"
+     ],
+     "english": "he made him in the likeness of God",
+     "literal": "'in-likeness-of God made ACC-him'; English order is rearranged"
+    }
+   ],
+   "grammar": [
+    "סֵפֶר תּוֹלְדֹת אָדָם is a construct chain: 'the book of the generations of Adam'. The etnaḥta on אָדָם closes the first half of the verse; within it the zaqef on סֵפֶר sets זֶה סֵפֶר apart from תּוֹלְדֹת אָדָם.",
+    "בְּיוֹם בְּרֹא is a temporal construct: the noun יוֹם stands bound to the infinitive בְּרֹא, with אֱלֹהִים as its subject and אָדָם as its object.",
+    "In the second half the zaqef on אָדָם divides the creating (בְּיוֹם בְּרֹא אֱלֹהִים אָדָם) from the making (בִּדְמוּת אֱלֹהִים עָשָׂה אֹתוֹ); the revia on בְּיוֹם and the pashta on אֱלֹהִים are lesser divisions within the first part.",
+    "בִּדְמוּת אֱלֹהִים is placed before the verb עָשָׂה for emphasis. The silluq falls on אֹתוֹ.",
+    "בָּרָא (create) in the first clause and עָשָׂה (make) in the second are two verbs for one act."
+   ],
+   "note": "אָדָם at 5:1.8 has no article; the sense 'the human' of Genesis 1 and 2 is possible, but the verse then names the person whose descendants follow, so 'Adam' is given and the doubt recorded.",
+   "commentary": [
+    {
+     "anchor": "rashi:5:1:1",
+     "relation": "follows",
+     "summary": "Rashi: זוֹ הִיא סְפִירַת תּוֹלְדוֹת אָדָם, 'this is the enumeration of the generations of Adam': סֵפֶר is a reckoning, a counted list, not a book; and there are many aggadic midrashim on the verse. The English 'record' follows the plain reading; the midrashim do not bear on it."
+    },
+    {
+     "anchor": "rashi:5:1:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: the verse teaches that on the very day he was created he fathered. This is a midrashic reading of בְּיוֹם; the English keeps the plain temporal clause 'when God created Adam'."
+    },
+    {
+     "anchor": "ibn-ezra:5:1:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the sons and grandsons he fathered; but he himself was not fathered by father and mother, rather made in the likeness of God (בדמות אלהים נעשה). The English reads the first clause as the record of Adam's descendants and keeps 'he made him'."
+    },
+    {
+     "anchor": "ramban:5:1:1",
+     "relation": "records",
+     "summary": "Ramban: the 'book' may hint at the whole Torah as the book of the generations of Adam; the clause 'when God created Adam' goes back to Adam himself, created from nothing. Recorded as an alternative reading of סֵפֶר."
+    },
+    {
+     "anchor": "radak:5:1:2",
+     "relation": "records",
+     "summary": "Radak: on the day He created him He created him in the likeness of an angel (בִּדְמוּת מַלְאָךְ), by the upper soul He put in him, though he afterwards left His commandments, for He created them male and female and the female enticed him as the serpent had enticed her. He takes אֱלֹהִים in בִּדְמוּת אֱלֹהִים of heavenly beings; the English keeps the plain 'God'."
+    },
+    {
+     "anchor": "sforno:5:1:2",
+     "relation": "not-applicable",
+     "summary": "Sforno: made with free choice, so that his generations were punished when they angered God."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders אֱלֹהִים, the subject of בְּרֹא, by the divine name יְיָ ('the LORD'), but keeps אֱלֹהִים in בִּדְמוּת אֱלֹהִים; the Hebrew reads אֱלֹהִים in both places."
+   ]
+  },
+  {
+   "ref": "5:2",
+   "english": "Male and female he created them, and he blessed them and called their name Adam, on the day they were created.",
+   "literal": "male and-female created-them and-blessed ACC-them and-called ACC-name-their Adam in-day-of be-created-they",
+   "tokens": [
+    {
+     "id": "5:2.1",
+     "gloss": "male",
+     "sense": "I"
+    },
+    {
+     "id": "5:2.2",
+     "gloss": "and female"
+    },
+    {
+     "id": "5:2.3",
+     "gloss": "he created them",
+     "sense": "Qal",
+     "note": "qatal with 3mp suffix; the subject, God, is carried over from the previous verse"
+    },
+    {
+     "id": "5:2.4",
+     "gloss": "and he blessed",
+     "sense": "Pi 2",
+     "note": "wayyiqtol, Piel; God blesses"
+    },
+    {
+     "id": "5:2.5",
+     "gloss": "them",
+     "note": "object marker with 3mp suffix"
+    },
+    {
+     "id": "5:2.6",
+     "gloss": "and he called",
+     "sense": "Qal 6",
+     "note": "wayyiqtol; with a name as object, 'named'"
+    },
+    {
+     "id": "5:2.7",
+     "gloss": "-"
+    },
+    {
+     "id": "5:2.8",
+     "gloss": "their name",
+     "sense": "3"
+    },
+    {
+     "id": "5:2.9",
+     "gloss": "Adam",
+     "sense": "3",
+     "note": "parsed in the pack as the common noun אָדָם, 'human', here given as a name to the pair: Ramban, the name covers the whole human kind, all of whom were in the first pair in potential; Radak, the woman too is called אָדָם, since 'let us make אָדָם' (1:26) was said of both."
+    },
+    {
+     "id": "5:2.10",
+     "gloss": "on the day",
+     "sense": "1"
+    },
+    {
+     "id": "5:2.11",
+     "gloss": "they were created",
+     "sense": "Niph 1",
+     "note": "Niphal infinitive construct with 3mp suffix; the suffix is the subject"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:2.1",
+      "5:2.2"
+     ],
+     "english": "Male and female",
+     "literal": "'male and-female'; fronted object"
+    },
+    {
+     "tokens": [
+      "5:2.3"
+     ],
+     "english": "he created them",
+     "literal": "'created-them'"
+    },
+    {
+     "tokens": [
+      "5:2.4",
+      "5:2.5"
+     ],
+     "english": "and he blessed them",
+     "literal": "'and-blessed ACC-them'"
+    },
+    {
+     "tokens": [
+      "5:2.6",
+      "5:2.7",
+      "5:2.8",
+      "5:2.9"
+     ],
+     "english": "and called their name Adam",
+     "literal": "'and-called ACC-name-their Adam'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "5:2.10",
+      "5:2.11"
+     ],
+     "english": "on the day they were created",
+     "literal": "'in-day-of be-created-they'"
+    }
+   ],
+   "grammar": [
+    "זָכָר וּנְקֵבָה stands first, before the verb, as the object of בְּרָאָם; the etnaḥta on בְּרָאָם closes the first half.",
+    "וַיְבָרֶךְ and וַיִּקְרָא are wayyiqtols, a sequence of narrated acts, both with God as the unstated subject.",
+    "The masculine plural suffixes on בְּרָאָם, אֹתָם, שְׁמָם and הִבָּרְאָם refer to the pair, male and female; the pair together is called אָדָם.",
+    "בְּיוֹם הִבָּרְאָם is a temporal construct with a Niphal infinitive and a suffix (compare בְּיוֹם בְּרֹא in 5:1)."
+   ],
+   "note": "אָדָם here names both the man and the woman; Radak and Ramban take it as a name for the whole human kind, which the English keeps by leaving the name as 'Adam'.",
+   "commentary": [
+    {
+     "anchor": "ramban:5:2:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: God gave them the power of begetting, so that they would be blessed with many sons and daughters; they were not born but created from nothing."
+    },
+    {
+     "anchor": "ramban:5:2:3",
+     "relation": "follows",
+     "summary": "Ramban: since the name Adam covers the whole human kind, the verse says that God gave the first pair this name, for all of mankind was in them in potential."
+    },
+    {
+     "anchor": "radak:5:2:2",
+     "relation": "follows",
+     "summary": "Radak: on the day they were created he called them Adam; the woman is called Adam because 'let us make Adam' was said of both."
+    },
+    {
+     "anchor": "radak:5:2:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the blessing is the one of Genesis 1:28, 'be fruitful and multiply'."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: דְּכַר וְנוּקְבָא בְּרָאנוּן; the Aramaic agrees with the Hebrew in the order male-female."
+   ]
+  },
+  {
+   "ref": "5:3",
+   "english": "Adam lived one hundred thirty years, and he fathered a son in his likeness, according to his image, and named him Seth.",
+   "literal": "and-lived Adam thirty and-hundred year and-begot in-likeness-his like-image-his and-called ACC-name-his Seth",
+   "tokens": [
+    {
+     "id": "5:3.1",
+     "gloss": "and he lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of the III-ה verb חָיָה; the final syllable drops in the short form, so וַיְחִי stands for the long יִחְיֶה"
+    },
+    {
+     "id": "5:3.2",
+     "gloss": "Adam",
+     "sense": "3"
+    },
+    {
+     "id": "5:3.3",
+     "gloss": "thirty"
+    },
+    {
+     "id": "5:3.4",
+     "gloss": "and a hundred",
+     "note": "construct singular מְאַת before שָׁנָה; the number is stated 'thirty and a hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit this cardinal use, so no sense is given."
+    },
+    {
+     "id": "5:3.5",
+     "gloss": "years"
+    },
+    {
+     "id": "5:3.6",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hiphil wayyiqtol; the verb of begetting is used of the father"
+    },
+    {
+     "id": "5:3.7",
+     "gloss": "in his likeness",
+     "sense": "1"
+    },
+    {
+     "id": "5:3.8",
+     "gloss": "according to his image",
+     "sense": "2"
+    },
+    {
+     "id": "5:3.9",
+     "gloss": "and he called",
+     "sense": "Qal 6"
+    },
+    {
+     "id": "5:3.10",
+     "gloss": "-"
+    },
+    {
+     "id": "5:3.11",
+     "gloss": "his name",
+     "sense": "3"
+    },
+    {
+     "id": "5:3.12",
+     "gloss": "Seth"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:3.1",
+      "5:3.2"
+     ],
+     "english": "Adam lived",
+     "literal": "'and-lived Adam'"
+    },
+    {
+     "tokens": [
+      "5:3.3",
+      "5:3.4",
+      "5:3.5"
+     ],
+     "english": "one hundred thirty years",
+     "literal": "'thirty and-hundred year'; the smaller number stands first"
+    },
+    {
+     "tokens": [
+      "5:3.6"
+     ],
+     "english": "and he fathered a son",
+     "literal": "'and-begot'; the Hebrew has no object, 'a son' is supplied from the context and from the name that follows"
+    },
+    {
+     "tokens": [
+      "5:3.7"
+     ],
+     "english": "in his likeness",
+     "literal": "'in-likeness-his'"
+    },
+    {
+     "tokens": [
+      "5:3.8"
+     ],
+     "english": "according to his image",
+     "literal": "'like-image-his'"
+    },
+    {
+     "tokens": [
+      "5:3.9",
+      "5:3.10",
+      "5:3.11"
+     ],
+     "english": "and named him",
+     "literal": "'and-called ACC-name-his'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "5:3.12"
+     ],
+     "english": "Seth",
+     "literal": "the name"
+    }
+   ],
+   "grammar": [
+    "וַיְחִי and וַיּוֹלֶד are wayyiqtols; the first has a shortened form because the root is final-ה, the second is Hiphil of ילד, 'begot'.",
+    "שְׁלֹשִׁים וּמְאַת שָׁנָה: the smaller number comes first, then the hundred, then the noun in the singular, the usual form for ages.",
+    "בִּדְמוּתוֹ כְּצַלְמוֹ reverses the words of 1:26 (בְּצַלְמֵנוּ כִּדְמוּתֵנוּ) and echoes 5:1: Adam was made in the likeness of God and Seth is begotten in the likeness of Adam.",
+    "The etnaḥta on כְּצַלְמוֹ divides the begetting from the naming."
+   ],
+   "note": "The verb וַיּוֹלֶד has no direct object; the English supplies 'a son', which the next clause confirms through the name Seth. The meaning of the name, as with the other names the text does not explain here, is not given.",
+   "commentary": [
+    {
+     "anchor": "rashi:5:3:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: up to this point, the hundred and thirty years, Adam had kept apart from his wife (עַד כָּאן פָּרַשׁ מִן הָאִשָּׁה; Bereshit Rabbah). A midrash on the number of years; it does not bear on the plain sense."
+    },
+    {
+     "anchor": "ibn-ezra:5:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'he fathered in his likeness, after his image' is said because God gave Adam the power of begetting to bring forth his own likeness, so that his work would resemble that of the One above. It is not said of Cain and Abel, nor are Cain's years or his age at Enoch's birth given, because Abel's name was blotted out, and Cain's too in the flood; Cain's killing is told to show God's justice, who is slow to anger yet punishes in the end (Exod 34:7)."
+    },
+    {
+     "anchor": "ramban:5:3:1",
+     "relation": "follows",
+     "summary": "Ramban: all children resemble their parents, but because Adam was raised up in his likeness and image, the verse says that his descendants too were in that same elevated likeness."
+    },
+    {
+     "anchor": "radak:5:3:2",
+     "relation": "follows",
+     "summary": "Radak on בִּדְמוּתוֹ: the child resembled Adam in shape (בצורתו)."
+    },
+    {
+     "anchor": "radak:5:3:3",
+     "relation": "records",
+     "summary": "Radak on כְּצַלְמוֹ: in his knowledge and intellect; he also quotes the midrash that Adam, while excommunicated, fathered spirits and demons. Recorded, not adopted."
+    },
+    {
+     "anchor": "sforno:5:3:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: 'in his likeness, after his image' means that Seth was more righteous than the first sons (מִן הָרִאשׁוֹנִים is comparative), for even Abel did not bring an offering until Cain had done so before him."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: וְאוֹלִיד בִּדְמוּתֵהּ דְּדָמֵי לֵהּ, 'he fathered in his likeness, who resembled him': כְּצַלְמוֹ is rendered by the clause דְּדָמֵי לֵהּ, with no word for 'image'. The Targum also puts the hundred first, מְאָה וּתְלָתִין שְׁנִין."
+   ]
+  },
+  {
+   "ref": "5:4",
+   "english": "The days of Adam after he fathered Seth were eight hundred years, and he fathered sons and daughters.",
+   "literal": "and-were days-of Adam after fathered-he ACC-Seth eight hundreds year and-begot sons and-daughters",
+   "tokens": [
+    {
+     "id": "5:4.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol plural; the subject is 'days', hence a plural verb"
+    },
+    {
+     "id": "5:4.2",
+     "gloss": "the days of",
+     "sense": "4",
+     "note": "construct plural; the plural of יוֹם is irregular"
+    },
+    {
+     "id": "5:4.3",
+     "gloss": "Adam",
+     "sense": "3"
+    },
+    {
+     "id": "5:4.4",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "5:4.5",
+     "gloss": "he fathered",
+     "sense": "Hiph 1",
+     "note": "Hiphil infinitive construct with 3ms suffix; the suffix is the subject"
+    },
+    {
+     "id": "5:4.6",
+     "gloss": "-"
+    },
+    {
+     "id": "5:4.7",
+     "gloss": "Seth"
+    },
+    {
+     "id": "5:4.8",
+     "gloss": "eight"
+    },
+    {
+     "id": "5:4.9",
+     "gloss": "hundred",
+     "note": "מֵאֹת, plural of מֵאָה: שְׁמֹנֶה מֵאֹת 'eight hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given."
+    },
+    {
+     "id": "5:4.10",
+     "gloss": "years"
+    },
+    {
+     "id": "5:4.11",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1"
+    },
+    {
+     "id": "5:4.12",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "5:4.13",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:4.1",
+      "5:4.2",
+      "5:4.3"
+     ],
+     "english": "The days of Adam",
+     "literal": "'and-were days-of Adam'"
+    },
+    {
+     "tokens": [
+      "5:4.4",
+      "5:4.5",
+      "5:4.6",
+      "5:4.7"
+     ],
+     "english": "after he fathered Seth",
+     "literal": "'after fathered-he ACC-Seth'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "5:4.8",
+      "5:4.9",
+      "5:4.10"
+     ],
+     "english": "were eight hundred years",
+     "literal": "'eight hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:4.11",
+      "5:4.12",
+      "5:4.13"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-begot sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "וַיִּהְיוּ יְמֵי־אָדָם is the formula that sums the years after the birth of the named son; יָמִים is the subject of a plural verb.",
+    "אַחֲרֵי הוֹלִידוֹ אֶת־שֵׁת: a preposition before an infinitive construct with a pronominal suffix as the subject, 'after his begetting Seth'.",
+    "שְׁמֹנֶה מֵאֹת שָׁנָה: the number is feminine singular before the plural 'hundreds'; the noun 'year' stays singular.",
+    "וַיּוֹלֶד בָּנִים וּבָנוֹת closes the verse; the silluq is on וּבָנוֹת, and the etnaḥta on שָׁנָה marks the end of the first part."
+   ],
+   "note": "The text says 'days of Adam' after Seth's birth, a remainder of life and not a total; the total is given in the next verse.",
+   "commentary": [
+    {
+     "anchor": "ramban:5:4:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: because these first men lived so long, the text gives their years before and after begetting and then the total; he explains the long lives by their natural strength and the later decline by the change in the air."
+    },
+    {
+     "anchor": "radak:5:4:1",
+     "relation": "not-applicable",
+     "summary": "Radak: those named were the ones born in the image and likeness; the other sons and daughters were not, and were blotted out in the flood. He also records Maimonides' view on the long ages."
+    }
+   ]
+  },
+  {
+   "ref": "5:5",
+   "english": "So all the days of Adam that he lived were nine hundred thirty years, and he died.",
+   "literal": "and-were all-of days-of Adam which lived nine hundreds year and-thirty year and-died",
+   "tokens": [
+    {
+     "id": "5:5.1",
+     "gloss": "and were",
+     "sense": "Qal III"
+    },
+    {
+     "id": "5:5.2",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "5:5.3",
+     "gloss": "the days of",
+     "sense": "4"
+    },
+    {
+     "id": "5:5.4",
+     "gloss": "Adam",
+     "sense": "3"
+    },
+    {
+     "id": "5:5.5",
+     "gloss": "that"
+    },
+    {
+     "id": "5:5.6",
+     "gloss": "he lived",
+     "sense": "Qal 1",
+     "note": "qatal 3ms; the form is written חַי, the short form of the verb"
+    },
+    {
+     "id": "5:5.7",
+     "gloss": "nine"
+    },
+    {
+     "id": "5:5.8",
+     "gloss": "hundred",
+     "note": "מֵאוֹת, plural of מֵאָה: תְּשַׁע מֵאוֹת 'nine hundred'. The pack lists only sense 3 'hundredth' (the ordinal), which does not fit, so no sense is given."
+    },
+    {
+     "id": "5:5.9",
+     "gloss": "years"
+    },
+    {
+     "id": "5:5.10",
+     "gloss": "and thirty"
+    },
+    {
+     "id": "5:5.11",
+     "gloss": "years"
+    },
+    {
+     "id": "5:5.12",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of the hollow root מות. The short form in context is וַיָּמָת, with the stress drawn back; here, under the silluq, the pausal form וַיָּמֹת keeps the long ō."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:5.1",
+      "5:5.2",
+      "5:5.3",
+      "5:5.4"
+     ],
+     "english": "So all the days of Adam",
+     "literal": "'and-were all-of days-of Adam'"
+    },
+    {
+     "tokens": [
+      "5:5.5",
+      "5:5.6"
+     ],
+     "english": "that he lived",
+     "literal": "'which lived'"
+    },
+    {
+     "tokens": [
+      "5:5.7",
+      "5:5.8",
+      "5:5.9",
+      "5:5.10",
+      "5:5.11"
+     ],
+     "english": "were nine hundred thirty years",
+     "literal": "'nine hundreds year and-thirty year'; here the larger number comes first, unlike 5:3"
+    },
+    {
+     "tokens": [
+      "5:5.12"
+     ],
+     "english": "and he died",
+     "literal": "'and-died'"
+    }
+   ],
+   "grammar": [
+    "כָּל־יְמֵי אָדָם אֲשֶׁר־חַי is the sum of the lifetime; the relative clause אֲשֶׁר חַי is a short verbal clause.",
+    "תְּשַׁע מֵאוֹת שָׁנָה וּשְׁלֹשִׁים שָׁנָה puts the hundreds first and repeats שָׁנָה after each number.",
+    "וַיָּמֹת is a short, bare ending; the silluq closes the verse and the formula, with the paragraph mark after it, sets this off as a unit."
+   ],
+   "note": "In the pack, חַי is parsed as a qatal; it is the stative-shaped form 'he lived'. The data are kept.",
+   "commentary": [
+    {
+     "anchor": "radak:5:5:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the total is added after the detail so that the scribe will not err; the detail and the sum confirm each other, as in the censuses of Israel."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: וַהֲווֹ כָּל יוֹמֵי אָדָם דַחֲיָא תְּשַׁע מְאָה וּתְלָתִין שְׁנִין וּמִית; the Aramaic has the same sum and order."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2700 @@
+{
+ "unit": "perek-3-03",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "3:13",
+   "english": "Rabbi Akiva says: Laughter and levity accustom a person to lewdness. The Masoretic tradition is a fence for the Torah; tithes are a fence for wealth; vows are a fence for abstinence; a fence for wisdom is silence.",
+   "literal": "Rabbi Akiva says laughter and-lightness-of head accustom to-lewdness. Tradition fence to-the-Torah. Tithes fence to-wealth. Vows fence to-abstinence. Fence to-wisdom silence.",
+   "tokens": [
+    {
+     "id": "3:13.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.2",
+     "gloss": "Akiva",
+     "lex": "jastrow:עֲקִיבָא II"
+    },
+    {
+     "id": "3:13.3",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:13.4",
+     "gloss": "laughter",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:13.5",
+     "gloss": "and levity",
+     "sense": "1",
+     "note": "קַלּוּת רֹאשׁ is an idiom: 'lightness of head', levity, frivolity (the opposite of כֹּבֶד רֹאשׁ, gravity)."
+    },
+    {
+     "id": "3:13.6",
+     "gloss": "of head (levity)",
+     "lex": "jastrow:רֹאשׁ",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.7",
+     "gloss": "they accustom (a person)",
+     "note": "Hifil participle plural: two subjects (laughter, levity) take a plural verb; the object ('a person') is left unexpressed in the Hebrew. מַרְגִּילִין comes from רֶגֶל, 'foot': to make someone go habitually, to habituate. The pack's lexicon key, bdbs:רֶגֶל, is the noun 'foot', not this verb, so no sense is given."
+    },
+    {
+     "id": "3:13.8",
+     "gloss": "to lewdness",
+     "lex": "jastrow:עֶרְוָה",
+     "sense": "1",
+     "note": "עֶרְוָה, literally 'nakedness'; in rabbinic usage, sexual immorality."
+    },
+    {
+     "id": "3:13.9",
+     "gloss": "tradition (Masorah)",
+     "note": "מָסֹרֶת: the Masoretic tradition of the spelling (plene and defective forms) and the reading of the biblical text, as both Bartenura and Rabbeinu Yonah explain. The pack gives no lexicon key for this word."
+    },
+    {
+     "id": "3:13.10",
+     "gloss": "fence",
+     "sense": "1",
+     "note": "סְיָג, 'fence', a protective hedge around something valuable. Vilna spells סייג."
+    },
+    {
+     "id": "3:13.11",
+     "gloss": "to the Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.12",
+     "gloss": "tithes",
+     "sense": "1.2"
+    },
+    {
+     "id": "3:13.13",
+     "gloss": "fence",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.14",
+     "gloss": "to wealth",
+     "note": "The pack's Jastrow lemma (עָשַׂר) is a verb entry; the noun here is עֹשֶׁר, wealth. Vilna reads לעושר."
+    },
+    {
+     "id": "3:13.15",
+     "gloss": "vows",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.16",
+     "gloss": "fence",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.17",
+     "gloss": "to abstinence",
+     "sense": "3",
+     "note": "פְּרִישׁוּת, 'separation', hence abstinence, self-restraint; a noun from פָּרַשׁ."
+    },
+    {
+     "id": "3:13.18",
+     "gloss": "fence",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.19",
+     "gloss": "to wisdom",
+     "sense": "1"
+    },
+    {
+     "id": "3:13.20",
+     "gloss": "silence",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:13.1",
+      "3:13.2",
+      "3:13.3"
+     ],
+     "english": "Rabbi Akiva says",
+     "literal": "'Rabbi Akiva says'"
+    },
+    {
+     "tokens": [
+      "3:13.4",
+      "3:13.5",
+      "3:13.6"
+     ],
+     "english": "Laughter and levity",
+     "literal": "'laughter and lightness of head'; the idiom is rendered as one word"
+    },
+    {
+     "tokens": [
+      "3:13.7",
+      "3:13.8"
+     ],
+     "english": "accustom a person to lewdness",
+     "literal": "'they habituate to nakedness'; the object 'a person' is supplied by the English"
+    },
+    {
+     "tokens": [
+      "3:13.9",
+      "3:13.10",
+      "3:13.11"
+     ],
+     "english": "The Masoretic tradition is a fence for the Torah",
+     "literal": "'tradition, a fence to-the-Torah'; the Masorah (spelling and reading) is a protective fence around the written text"
+    },
+    {
+     "tokens": [
+      "3:13.12",
+      "3:13.13",
+      "3:13.14"
+     ],
+     "english": "tithes are a fence for wealth",
+     "literal": "'tithes, a fence to-wealth'; Bartenura cites עַשֵּׂר תְּעַשֵּׂר, 'tithe in order that you become rich'"
+    },
+    {
+     "tokens": [
+      "3:13.15",
+      "3:13.16",
+      "3:13.17"
+     ],
+     "english": "vows are a fence for abstinence",
+     "literal": "'vows, a fence to-abstinence'"
+    },
+    {
+     "tokens": [
+      "3:13.18",
+      "3:13.19",
+      "3:13.20"
+     ],
+     "english": "a fence for wisdom is silence",
+     "literal": "'a fence to-wisdom, silence'; the word order puts silence last, as the predicate"
+    }
+   ],
+   "grammar": [
+    "The saying is built of four short nominal clauses of the form 'X, a fence for Y', with no verb; the English supplies 'is/are'. The last clause reverses the order (the fence first, then its identity), which puts silence at the end.",
+    "מַרְגִּילִין is a Hifil participle, plural masculine, agreeing with the two subjects שְׂחוֹק and קַלּוּת רֹאשׁ.",
+    "The tradition (מָסֹרֶת) is listed with tithes, vows and silence: each is a protective fence (סְיָג) around something valuable.",
+    "The first sentence is a warning, the next four are the positive fences; the saying is one continuous teaching of Rabbi Akiva."
+   ],
+   "note": "מָסֹרֶת is rendered 'Masoretic tradition' because Bartenura and Rabbeinu Yonah both say it means the received tradition of plene and defective spellings of the Torah text; the Hebrew word alone could also mean 'tradition' in general. The Jastrow lemma on לָעשֶׁר is a verb entry (עָשַׂר); I keep the data but read the noun 'wealth'. Rambam reads נְדָרִים as a means of acquiring the habit of restraint. For סְיָג לַחָכְמָה שְׁתִיקָה, Bartenura limits the silence to optional talk between people; the English keeps the Hebrew's unlimited wording.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:13:1",
+     "relation": "follows",
+     "summary": "Bartenura: the tradition the sages handed down about the defective and plene spellings of the Torah is a fence and support for the written Torah, since from it we learn how to perform commandments (for example, the defective and plene spelling of בסכות shows that a sukkah may have three walls)."
+    },
+    {
+     "anchor": "bartenura:3:13:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'for it is written עַשֵּׂר תְּעַשֵּׂר, tithe in order that you become rich' (Ta'anit 9). Tithing is thus a fence for wealth."
+    },
+    {
+     "anchor": "bartenura:3:13:3",
+     "relation": "follows",
+     "summary": "Bartenura: when a person begins abstinence and fears he may transgress, he takes it upon himself in the form of a vow not to do such and such, and by this he subdues his inclination."
+    },
+    {
+     "anchor": "bartenura:3:13:4",
+     "relation": "follows",
+     "summary": "Bartenura: the silence is not silence from Torah or from forbidden speech (those are commanded or forbidden anyway) but silence from permitted talk between people, which one should limit as far as possible."
+    },
+    {
+     "anchor": "rambam:3:13:1",
+     "relation": "records",
+     "summary": "Rambam: when a person vows and keeps his vows, he acquires the habit of holding back from what he wants to avoid, and separation (פְּרִישׁוּת) becomes easy for him; he takes פְּרִישׁוּת as guarding oneself from ritual impurity, as in 'the garments of an unlearned person are midras-impure for Perushim' (Hagigah 18b)."
+    }
+   ],
+   "apparatus": [
+    "Vilna spells מסורת, סייג (four times) and לעושר where the base text reads מָסֹרֶת, סְיָג and לָעשֶׁר; these are spelling variants only.",
+    "Bartenura quotes Ta'anit 9a for 'tithe in order that you become rich'; the underlying verse is Deuteronomy 14:22 (עַשֵּׂר תְּעַשֵּׂר)."
+   ]
+  },
+  {
+   "ref": "3:14",
+   "english": "He used to say: Beloved is a human being, for he was created in the image. Extra love was made known to him, that he was created in the image, as it is said (Genesis 9): 'For in the image of God He made the human being.' Beloved are Israel, for they were called children of the Omnipresent. Extra love was made known to them, that they were called children of the Omnipresent, as it is said (Deuteronomy 14): 'You are children of the LORD your God.' Beloved are Israel, for a desirable vessel was given to them. Extra love was made known to them, that a desirable vessel was given to them, by which the world was created, as it is said (Proverbs 4): 'For I have given you good teaching; do not forsake my Torah.'",
+   "literal": "He was saying: beloved human that-was-created in-image. Love extra is-made-known to-him that-was-created in-image, that-it-was-said (Genesis 9): for in-image-of God He-made [object-marker] the-human. Beloved Israel that-they-were-called children to-the-Place. Love extra is-made-known to-them that-they-were-called children to-the-Place, that-it-was-said (Deuteronomy 14): children you to-YHWH your-God. Beloved Israel that-was-given to-them vessel-of desire. Love extra is-made-known to-them that-was-given to-them vessel-of desire that-in-it was-created the-world, that-it-was-said (Proverbs 4): for teaching good I-have-given to-you my-Torah do-not forsake.",
+   "tokens": [
+    {
+     "id": "3:14.1",
+     "gloss": "he",
+     "note": "הוּא הָיָה אוֹמֵר: the standard formula 'He used to say': הָיָה with a participle is the habitual past."
+    },
+    {
+     "id": "3:14.2",
+     "gloss": "used to be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "3:14.3",
+     "gloss": "saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:14.4",
+     "gloss": "beloved",
+     "sense": "1",
+     "note": "חָבִיב is an adjective; the predicate comes first: 'Beloved (is) the human being'."
+    },
+    {
+     "id": "3:14.5",
+     "gloss": "human being",
+     "lex": "jastrow:אָדָם",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.6",
+     "gloss": "that he was created",
+     "sense": "1.2",
+     "note": "שֶׁ is a relative particle; here it introduces a reason ('for he was created'), as the sense requires."
+    },
+    {
+     "id": "3:14.7",
+     "gloss": "in an image",
+     "sense": "1",
+     "note": "בְצֶלֶם has no following word: 'in an image' / 'in the image'. The proof verse supplies 'of God'."
+    },
+    {
+     "id": "3:14.8",
+     "gloss": "love",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.9",
+     "gloss": "extra",
+     "sense": "2",
+     "note": "יְתֵרָה: 'extra, surplus': love beyond the first."
+    },
+    {
+     "id": "3:14.10",
+     "gloss": "is made known",
+     "sense": "1.2.1",
+     "note": "Nifal participle of יָדַע: 'is made known' (it was made known to him; Rambam reads that God actually informed him)."
+    },
+    {
+     "id": "3:14.11",
+     "gloss": "to him"
+    },
+    {
+     "id": "3:14.12",
+     "gloss": "that he was created",
+     "sense": "1.2"
+    },
+    {
+     "id": "3:14.13",
+     "gloss": "in an image",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.14",
+     "gloss": "as it is said",
+     "sense": "1.2",
+     "note": "The formula שֶׁנֶּאֱמַר introduces a biblical proof text."
+    },
+    {
+     "id": "3:14.15",
+     "gloss": "Genesis"
+    },
+    {
+     "id": "3:14.16",
+     "gloss": "9 (chapter)"
+    },
+    {
+     "id": "3:14.17",
+     "gloss": "for"
+    },
+    {
+     "id": "3:14.18",
+     "gloss": "in the image of",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.19",
+     "gloss": "God",
+     "sense": "1",
+     "note": "אֱלֹהִים is plural in form but singular in meaning: 'God'."
+    },
+    {
+     "id": "3:14.20",
+     "gloss": "He made",
+     "sense": "1.1.2.1"
+    },
+    {
+     "id": "3:14.21",
+     "gloss": "(object marker)",
+     "note": "אֵת marks the definite direct object and has no English counterpart. The pack's key bdbs:אֵת is the homograph 'ploughshare', not the object marker; no sense is given."
+    },
+    {
+     "id": "3:14.22",
+     "gloss": "the human being",
+     "lex": "jastrow:אָדָם",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.23",
+     "gloss": "beloved",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.24",
+     "gloss": "Israel",
+     "note": "חֲבִיבִין is plural masculine and the subject יִשְׂרָאֵל is a collective: 'Beloved are Israel'."
+    },
+    {
+     "id": "3:14.25",
+     "gloss": "that they were called"
+    },
+    {
+     "id": "3:14.26",
+     "gloss": "children",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.27",
+     "gloss": "to the Omnipresent",
+     "sense": "1",
+     "note": "הַמָּקוֹם, literally 'the Place', is a name of God: 'the Omnipresent'."
+    },
+    {
+     "id": "3:14.28",
+     "gloss": "love",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.29",
+     "gloss": "extra",
+     "sense": "2"
+    },
+    {
+     "id": "3:14.30",
+     "gloss": "is made known",
+     "sense": "1.2.1"
+    },
+    {
+     "id": "3:14.31",
+     "gloss": "to them"
+    },
+    {
+     "id": "3:14.32",
+     "gloss": "that they were called"
+    },
+    {
+     "id": "3:14.33",
+     "gloss": "children",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.34",
+     "gloss": "to the Omnipresent",
+     "sense": "1",
+     "note": "הַמָּקוֹם, literally 'the Place', a name of God: 'the Omnipresent'."
+    },
+    {
+     "id": "3:14.35",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "3:14.36",
+     "gloss": "Deuteronomy"
+    },
+    {
+     "id": "3:14.37",
+     "gloss": "14 (chapter)"
+    },
+    {
+     "id": "3:14.38",
+     "gloss": "children",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.39",
+     "gloss": "you"
+    },
+    {
+     "id": "3:14.40",
+     "gloss": "to the LORD",
+     "note": "The Tetragrammaton is written לַה' in the text: 'the LORD'."
+    },
+    {
+     "id": "3:14.41",
+     "gloss": "your God",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.42",
+     "gloss": "beloved",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.43",
+     "gloss": "Israel"
+    },
+    {
+     "id": "3:14.44",
+     "gloss": "that was given",
+     "sense": "1.2.1"
+    },
+    {
+     "id": "3:14.45",
+     "gloss": "to them"
+    },
+    {
+     "id": "3:14.46",
+     "gloss": "vessel of",
+     "sense": "1.2",
+     "note": "כְּלִי: 'vessel', 'instrument', here 'a tool'."
+    },
+    {
+     "id": "3:14.47",
+     "gloss": "desire",
+     "sense": "2",
+     "note": "חֶמְדָּה: 'desire', 'something desirable'; כְּלִי חֶמְדָּה is a construct chain, 'a precious vessel'."
+    },
+    {
+     "id": "3:14.48",
+     "gloss": "love",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.49",
+     "gloss": "extra",
+     "sense": "2"
+    },
+    {
+     "id": "3:14.50",
+     "gloss": "is made known",
+     "sense": "1.2.1"
+    },
+    {
+     "id": "3:14.51",
+     "gloss": "to them"
+    },
+    {
+     "id": "3:14.52",
+     "gloss": "that was given",
+     "sense": "1.2.1"
+    },
+    {
+     "id": "3:14.53",
+     "gloss": "to them"
+    },
+    {
+     "id": "3:14.54",
+     "gloss": "vessel of",
+     "sense": "1.2"
+    },
+    {
+     "id": "3:14.55",
+     "gloss": "desire",
+     "sense": "2"
+    },
+    {
+     "id": "3:14.56",
+     "gloss": "by which",
+     "note": "שֶׁבּוֹ: 'by which', 'through which'; the vessel is the Torah, as Rabbeinu Yonah explains."
+    },
+    {
+     "id": "3:14.57",
+     "gloss": "was created",
+     "sense": "1.2.1"
+    },
+    {
+     "id": "3:14.58",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.59",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "3:14.60",
+     "gloss": "Proverbs"
+    },
+    {
+     "id": "3:14.61",
+     "gloss": "4 (chapter)",
+     "note": "The pack's key bdbs:אַרְבַּע is the proper name Arba; the letter here is the numeral 4."
+    },
+    {
+     "id": "3:14.62",
+     "gloss": "for"
+    },
+    {
+     "id": "3:14.63",
+     "gloss": "teaching",
+     "sense": "1.2",
+     "note": "לֶקַח: 'teaching', 'instruction' (Bartenura links it to יַעֲרֹף כַּמָּטָר לִקְחִי, Deut. 32:2, where the teaching is the Torah)."
+    },
+    {
+     "id": "3:14.64",
+     "gloss": "good",
+     "lex": "jastrow:טוֹב II",
+     "sense": "2"
+    },
+    {
+     "id": "3:14.65",
+     "gloss": "I have given",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "3:14.66",
+     "gloss": "to you"
+    },
+    {
+     "id": "3:14.67",
+     "gloss": "my Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "3:14.68",
+     "gloss": "do not"
+    },
+    {
+     "id": "3:14.69",
+     "gloss": "you shall forsake",
+     "sense": "1.1.2",
+     "note": "Qal imperfect 2nd plural with אַל: a prohibition, 'do not forsake'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:14.1",
+      "3:14.2",
+      "3:14.3"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'"
+    },
+    {
+     "tokens": [
+      "3:14.4",
+      "3:14.5",
+      "3:14.6",
+      "3:14.7"
+     ],
+     "english": "Beloved is a human being, for he was created in the image",
+     "literal": "'beloved (is) a human being that-was-created in-image'; שֶׁ read as 'for'"
+    },
+    {
+     "tokens": [
+      "3:14.8",
+      "3:14.9",
+      "3:14.10",
+      "3:14.11"
+     ],
+     "english": "Extra love was made known to him",
+     "literal": "'love extra is-made-known to-him'"
+    },
+    {
+     "tokens": [
+      "3:14.12",
+      "3:14.13"
+     ],
+     "english": "that he was created in the image",
+     "literal": "'that-was-created in-image': what the extra love consists of"
+    },
+    {
+     "tokens": [
+      "3:14.14"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "3:14.15",
+      "3:14.16"
+     ],
+     "english": "Genesis 9",
+     "literal": "citation: Genesis 9:6"
+    },
+    {
+     "tokens": [
+      "3:14.17",
+      "3:14.18",
+      "3:14.19",
+      "3:14.20"
+     ],
+     "english": "For in the image of God He made",
+     "literal": "'for in-image-of God He-made'"
+    },
+    {
+     "tokens": [
+      "3:14.21"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "3:14.22"
+     ],
+     "english": "the human being",
+     "literal": "'the human being'"
+    },
+    {
+     "tokens": [
+      "3:14.23",
+      "3:14.24",
+      "3:14.25",
+      "3:14.26",
+      "3:14.27"
+     ],
+     "english": "Beloved are Israel, for they were called children of the Omnipresent",
+     "literal": "'beloved Israel that-they-were-called children to-the-Place'; 'the Place' is rendered 'the Omnipresent'"
+    },
+    {
+     "tokens": [
+      "3:14.28",
+      "3:14.29",
+      "3:14.30",
+      "3:14.31"
+     ],
+     "english": "Extra love was made known to them",
+     "literal": "'love extra is-made-known to-them'"
+    },
+    {
+     "tokens": [
+      "3:14.32",
+      "3:14.33",
+      "3:14.34"
+     ],
+     "english": "that they were called children of the Omnipresent",
+     "literal": "'that-they-were-called children to-the-Place'"
+    },
+    {
+     "tokens": [
+      "3:14.35"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "3:14.36",
+      "3:14.37"
+     ],
+     "english": "Deuteronomy 14",
+     "literal": "citation: Deuteronomy 14:1"
+    },
+    {
+     "tokens": [
+      "3:14.38",
+      "3:14.39",
+      "3:14.40",
+      "3:14.41"
+     ],
+     "english": "You are children of the LORD your God",
+     "literal": "'children you to-YHWH your-God'"
+    },
+    {
+     "tokens": [
+      "3:14.42",
+      "3:14.43",
+      "3:14.44",
+      "3:14.45",
+      "3:14.46",
+      "3:14.47"
+     ],
+     "english": "Beloved are Israel, for a desirable vessel was given to them",
+     "literal": "'beloved Israel that-was-given to-them vessel-of desire'"
+    },
+    {
+     "tokens": [
+      "3:14.48",
+      "3:14.49",
+      "3:14.50",
+      "3:14.51"
+     ],
+     "english": "Extra love was made known to them",
+     "literal": "'love extra is-made-known to-them'"
+    },
+    {
+     "tokens": [
+      "3:14.52",
+      "3:14.53",
+      "3:14.54",
+      "3:14.55"
+     ],
+     "english": "that a desirable vessel was given to them",
+     "literal": "'that-was-given to-them vessel-of desire'"
+    },
+    {
+     "tokens": [
+      "3:14.56",
+      "3:14.57",
+      "3:14.58"
+     ],
+     "english": "by which the world was created",
+     "literal": "'that-in-it was-created the-world'; the vessel is the Torah"
+    },
+    {
+     "tokens": [
+      "3:14.59"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "3:14.60",
+      "3:14.61"
+     ],
+     "english": "Proverbs 4",
+     "literal": "citation: Proverbs 4:2"
+    },
+    {
+     "tokens": [
+      "3:14.62",
+      "3:14.63",
+      "3:14.64",
+      "3:14.65",
+      "3:14.66"
+     ],
+     "english": "For I have given you good teaching",
+     "literal": "'for teaching good I-have-given to-you'"
+    },
+    {
+     "tokens": [
+      "3:14.67",
+      "3:14.68",
+      "3:14.69"
+     ],
+     "english": "do not forsake my Torah",
+     "literal": "'my-Torah do-not forsake'; the Hebrew has 'my Torah' before the prohibition"
+    }
+   ],
+   "grammar": [
+    "The saying has three parallel units, each of the same shape: (1) 'Beloved is X, for ...'; (2) 'Extra love was made known to X, that ...'; (3) a proof text introduced by שֶׁנֶּאֱמַר. The repetition is deliberate, and the English keeps it.",
+    "חִבָּה יְתֵרָה נוֹדַעַת לוֹ: the verb is a Nifal participle of יָדַע, 'is made known'. The point (Rambam, Bartenura) is that God's telling the human being of the gift is itself a further proof of love.",
+    "שֶׁנִּבְרָא, שֶׁנִּקְרְאוּ, שֶׁנִּתַּן are Nifal perfect forms with the relative particle שֶׁ ('that/for'). Three Nifal verbs (was created, were called, was given) carry the argument; the passive leaves God unnamed as the agent until the proof text.",
+    "The three proof texts come from Genesis 9:6, Deuteronomy 14:1 and Proverbs 4:2. In the third (Proverbs 4:2) the speaker is God (or wisdom's teacher) addressing Israel about the Torah.",
+    "אֱלֹהֵיכֶם is plural construct with a 2nd person plural suffix ('your God'); תּוֹרָתִי is construct with the 1st person singular suffix; the object marker אֶת has no English counterpart."
+   ],
+   "note": "חִבָּה יְתֵרָה: 'extra love' (Jastrow: 'love'; יָתֵר 'surplus'). I keep 'extra' rather than 'special' to preserve the idea of a second, additional love beyond the first. נוֹדַעַת is read 'is made known' (Nifal of יָדַע) following Rambam as quoted by Bartenura: God informs the creature of the gift. The pack's BDB keys for טוֹב and אָדָם are proper names (Tob, Adam); the pack also lists jastrow:טוֹב II and jastrow:אָדָם, which give 'good' and 'man'. כְּלִי חֶמְדָּה is rendered 'a desirable vessel' to keep the biblical wording of חֶמְדָּה; the vessel is the Torah, by which the world was created. In Proverbs 4:2 תּוֹרָתִי can mean 'my teaching'; the English reads 'my Torah', as the mishnah applies the verse to the Torah.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:14:1",
+     "relation": "follows",
+     "summary": "Bartenura, citing Rambam: the Holy One showed the human being extra love by informing him that he was created in the image, for one who does a kindness and tells his friend of it shows more love than one who does it without telling. Another reading: נוֹדַעַת means a love that is revealed and public: not only a hidden love of the Omnipresent for the human being, but a love open and known to all."
+    },
+    {
+     "anchor": "bartenura:3:14:2",
+     "relation": "follows",
+     "summary": "Bartenura: everything in the work of creation of which it is said 'and God saw that it was good' was created only for the sake of the Torah, which is called לֶקַח, 'teaching', as in יַעֲרֹף כַּמָּטָר לִקְחִי. The English 'teaching' follows this."
+    },
+    {
+     "anchor": "rambam:3:14:1",
+     "relation": "follows",
+     "summary": "Rambam: letting someone know the measure of the benefit done to him is itself another benefit, for a person sometimes does a kindness out of pity and does not tell the recipient its extent because the recipient seems lowly to him. This is why the Hebrew says extra love is 'made known'."
+    }
+   ],
+   "apparatus": [
+    "Genesis 9:6 (כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת הָאָדָם).",
+    "Deuteronomy 14:1 (בָּנִים אַתֶּם לַה' אֱלֹהֵיכֶם).",
+    "Proverbs 4:2 (כִּי לֶקַח טוֹב נָתַתִּי לָכֶם תּוֹרָתִי אַל תַּעֲזֹבוּ).",
+    "Vilna reads יתירה, שניתן and תעזובו (spelling only) and ו for כִּי at 3:14.17; it also adds א and ב in the citations of Deuteronomy 14 and Proverbs 4. These are the verse numbers (Deuteronomy 14:1, Proverbs 4:2), not words of the text; the ו at 3:14.17 may likewise be the verse number of Genesis 9:6, aligned against כִּי."
+   ]
+  },
+  {
+   "ref": "3:15",
+   "english": "Everything is foreseen, yet freedom of choice is given; the world is judged with goodness, and all is according to the abundance of deeds.",
+   "literal": "The-all foreseen, and-the-permission given, and-in-goodness the-world is-judged, and-the-all according-to-abundance-of the-deed.",
+   "tokens": [
+    {
+     "id": "3:15.1",
+     "gloss": "the all",
+     "note": "הַכֹּל, 'the all', 'everything'."
+    },
+    {
+     "id": "3:15.2",
+     "gloss": "foreseen",
+     "lex": "jastrow:צָפָה ²",
+     "sense": "1",
+     "note": "Qal passive participle of צָפָה, 'to look, see from afar': 'is foreseen' (Rabbeinu Yonah: Psalm 139, 'You know my sitting and rising')."
+    },
+    {
+     "id": "3:15.3",
+     "gloss": "and the permission",
+     "note": "הָרְשׁוּת: literally 'the authority, permission'; here the freedom of choice given to a human being (Rambam: 'the choice is in the hand of every person')."
+    },
+    {
+     "id": "3:15.4",
+     "gloss": "given",
+     "sense": "1.1.1",
+     "note": "Qal passive participle feminine, agreeing with רְשׁוּת."
+    },
+    {
+     "id": "3:15.5",
+     "gloss": "and in goodness",
+     "lex": "jastrow:טוֹב II",
+     "sense": "2",
+     "note": "וּבְטוֹב: 'and in goodness' (the 'goodness' of God's mercy; Bartenura: the measure of mercy)."
+    },
+    {
+     "id": "3:15.6",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "3:15.7",
+     "gloss": "is judged",
+     "lex": "jastrow:דִּין I",
+     "sense": "5.1",
+     "note": "Nifal participle of דִּין, 'is judged' (present, as in Rosh Hashanah 1:2 הָעוֹלָם נִדּוֹן). The pack's default key bdbs:דָּן is the proper name Dan; jastrow:דִּין I, Nif., is the right entry."
+    },
+    {
+     "id": "3:15.8",
+     "gloss": "and the all"
+    },
+    {
+     "id": "3:15.9",
+     "gloss": "according to",
+     "sense": "2",
+     "note": "לְפִי: 'according to', literally 'to the mouth of'."
+    },
+    {
+     "id": "3:15.10",
+     "gloss": "abundance of",
+     "note": "רֹב is ambiguous: 'abundance, greatness' (Bartenura's first reading) or 'majority' (his second reading, the majority of one's deeds). The English keeps 'abundance'. The pack's key bdbs:רַב is the adjective 'great' (and noun 'chief'), not the noun רֹב, so no sense is given."
+    },
+    {
+     "id": "3:15.11",
+     "gloss": "the deed",
+     "sense": "1.1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:15.1",
+      "3:15.2"
+     ],
+     "english": "Everything is foreseen",
+     "literal": "'the-all foreseen'"
+    },
+    {
+     "tokens": [
+      "3:15.3",
+      "3:15.4"
+     ],
+     "english": "freedom of choice is given",
+     "literal": "'the-permission given'; רְשׁוּת, 'authority', rendered as freedom of choice following Rambam and Bartenura"
+    },
+    {
+     "tokens": [
+      "3:15.5",
+      "3:15.6",
+      "3:15.7"
+     ],
+     "english": "the world is judged with goodness",
+     "literal": "'and-in-goodness the-world is-judged'"
+    },
+    {
+     "tokens": [
+      "3:15.8",
+      "3:15.9",
+      "3:15.10",
+      "3:15.11"
+     ],
+     "english": "all is according to the abundance of deeds",
+     "literal": "'the-all according-to abundance-of the-deed'"
+    }
+   ],
+   "grammar": [
+    "Four short clauses, each a noun and a passive participle or verb: הַכֹּל צָפוּי, הָרְשׁוּת נְתוּנָה, הָעוֹלָם נִדּוֹן, הַכֹּל לְפִי רֹב הַמַּעֲשֶׂה. The first two clauses state an apparent tension (foreknowledge and choice) without resolving it.",
+    "צָפוּי and נְתוּנָה are passive participles (Qal) used predicatively; the passive leaves the agent, God, unstated.",
+    "בְּטוֹב is 'in goodness' (with the preposition בְּ): the world is judged 'with goodness' (by mercy), and the final clause qualifies this: each person receives it in proportion to deeds.",
+    "הַכֹּל occurs twice, in the first and the last clause, and carries a different sense each time: 'everything' that happens is foreseen; 'everyone' (or 'all') is judged according to deeds."
+   ],
+   "note": "Rambam's reading of the last clause as 'but not according to the deed' (אֲבָל לֹא עַל פִּי הַמַּעֲשֶׂה) is a variant; I translate the text of the pack, which reads לְפִי רֹב הַמַּעֲשֶׂה. הָרְשׁוּת is translated 'freedom of choice' because both normative commentators say it means the power in the hand of a person to do good or evil; the plain sense of the word is 'permission, authority'. For רֹב I keep 'abundance' and give Bartenura's alternative 'majority' in the apparatus.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:15:1",
+     "relation": "follows",
+     "summary": "Bartenura: everything a person does in the innermost chambers is revealed before Him."
+    },
+    {
+     "anchor": "bartenura:3:15:2",
+     "relation": "follows",
+     "summary": "Bartenura: it is in a person's own hand to do good or evil, as it is written (Deut. 30:15) 'See, I have set before you today life...'."
+    },
+    {
+     "anchor": "bartenura:3:15:3",
+     "relation": "follows",
+     "summary": "Bartenura: the world is judged with the measure of mercy; and yet not all are equal in this, since everything is according to the abundance of deeds: whoever has many good deeds receives much mercy. He adds another reading: a person is judged by the majority of his deeds (a majority of merits, innocent; of sins, guilty)."
+    },
+    {
+     "anchor": "bartenura:3:15:4",
+     "relation": "follows",
+     "summary": "Bartenura: according to how much a person repeats and persists in doing good, so his reward is great (a hundred coins given to charity in a hundred separate acts is not like giving them at once). He also records that Rambam's text reads 'but not according to the deed'."
+    },
+    {
+     "anchor": "rambam:3:15:1",
+     "relation": "follows",
+     "summary": "Rambam: 'everything is foreseen': all that is in the world is known to God; but foreknowledge does not compel, for 'the choice is given' to every person (his eighth chapter). God judges people with grace and goodness, not by the strict judgment due them. Virtues come according to the number (רֹב) of good deeds, not the size of one deed: a thousand coins given one at a time build generosity more than a thousand given at once."
+    }
+   ],
+   "apparatus": [
+    "Bartenura 3:15:4 records Rambam's reading of the last clause: וְהַכֹּל לְפִי רֹב הַמַּעֲשֶׂה, אֲבָל לֹא עַל פִּי הַמַּעֲשֶׂה ('but not according to the deed').",
+    "Bartenura 3:15:3 gives a second reading of רֹב: 'by the majority of his deeds'.",
+    "Deuteronomy 30:15 (רְאֵה נָתַתִּי לְפָנֶיךָ הַיּוֹם אֶת הַחַיִּים) is cited by Bartenura for the freedom of choice.",
+    "Vilna spells רוב for רֹב."
+   ]
+  },
+  {
+   "ref": "3:16",
+   "english": "He used to say: Everything is given as a pledge, and a net is spread over all the living. The shop is open, the shopkeeper extends credit, the ledger is open, and the hand writes; and whoever wishes to borrow may come and borrow. The collectors make their rounds constantly, every day, and exact payment from a person with his knowledge and without his knowledge. They have what to rely on, and the judgment is a judgment of truth. And everything is prepared for the banquet.",
+   "literal": "He was saying: the-all given in-pledge, and-net spread over all-of the-living. The-shop open, and-the-shopkeeper extends-credit, and-the-ledger open, and-the-hand writing, and-all the-wishing to-borrow will-come and-will-borrow, and-the-collectors go-around constantly in-every day, and-they-collect-payment from the-person from-his-knowledge and-that-not from-his-knowledge, and-there-is to-them on what that-they-rely, and-the-judgment judgment-of truth, and-the-all prepared to-the-meal.",
+   "tokens": [
+    {
+     "id": "3:16.1",
+     "gloss": "he"
+    },
+    {
+     "id": "3:16.2",
+     "gloss": "used to be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "3:16.3",
+     "gloss": "saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:16.4",
+     "gloss": "the all"
+    },
+    {
+     "id": "3:16.5",
+     "gloss": "given",
+     "sense": "1.1.1",
+     "note": "Qal passive participle of נָתַן: 'is given'."
+    },
+    {
+     "id": "3:16.6",
+     "gloss": "as a pledge",
+     "sense": "1",
+     "note": "בְּעֵרָבוֹן: 'as a pledge', 'in pledge' (a security deposited against a debt)."
+    },
+    {
+     "id": "3:16.7",
+     "gloss": "and a net",
+     "sense": "1",
+     "note": "מְצוּדָה: a net or snare for catching fish or birds (Rabbeinu Yonah: the net of death)."
+    },
+    {
+     "id": "3:16.8",
+     "gloss": "spread",
+     "note": "Qal passive participle of פָּרַס, 'to spread out'. The pack's key jastrow:פְּרָס is the noun 'part, half, piece', not the verb 'to spread', so no sense is given."
+    },
+    {
+     "id": "3:16.9",
+     "gloss": "over"
+    },
+    {
+     "id": "3:16.10",
+     "gloss": "all of"
+    },
+    {
+     "id": "3:16.11",
+     "gloss": "the living",
+     "note": "הַחַיִּים: 'the living', the plural of the adjective חַי used as a noun (all living beings), not the noun חַיִּים 'life'; the pack's key jastrow:חַיִּים ('life') does not fit, so no sense is given."
+    },
+    {
+     "id": "3:16.12",
+     "gloss": "the shop"
+    },
+    {
+     "id": "3:16.13",
+     "gloss": "open",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:16.14",
+     "gloss": "and the shopkeeper",
+     "note": "חֶנְוָנִי: shopkeeper, from חֲנוּת 'shop'."
+    },
+    {
+     "id": "3:16.15",
+     "gloss": "extends credit",
+     "lex": "jastrow:קוּף",
+     "sense": "1",
+     "note": "Hifil participle of the root קוף: 'extends credit' (הַקָּפָה, sale on credit)."
+    },
+    {
+     "id": "3:16.16",
+     "gloss": "and the ledger",
+     "note": "פִּנְקָס: ledger, record book (Greek loanword)."
+    },
+    {
+     "id": "3:16.17",
+     "gloss": "open",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:16.18",
+     "gloss": "and the hand",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:16.19",
+     "gloss": "writing",
+     "sense": "1.1.1",
+     "note": "The hand writes: a participle."
+    },
+    {
+     "id": "3:16.20",
+     "gloss": "and everyone"
+    },
+    {
+     "id": "3:16.21",
+     "gloss": "who wishes",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "3:16.22",
+     "gloss": "to borrow",
+     "note": "Qal infinitive construct of לָוָה, 'to borrow'. Jastrow has only a cross-reference for this lemma."
+    },
+    {
+     "id": "3:16.23",
+     "gloss": "let him come",
+     "note": "Qal imperfect with jussive sense: 'let him come'."
+    },
+    {
+     "id": "3:16.24",
+     "gloss": "and let him borrow"
+    },
+    {
+     "id": "3:16.25",
+     "gloss": "and the collectors",
+     "note": "גַּבַּאי: collector (of debts or taxes)."
+    },
+    {
+     "id": "3:16.26",
+     "gloss": "go around",
+     "sense": "1",
+     "note": "Hifil participle of חָזַר: 'to go around (searching)': the collectors make their rounds."
+    },
+    {
+     "id": "3:16.27",
+     "gloss": "constantly",
+     "sense": "1"
+    },
+    {
+     "id": "3:16.28",
+     "gloss": "in every"
+    },
+    {
+     "id": "3:16.29",
+     "gloss": "day",
+     "sense": "1"
+    },
+    {
+     "id": "3:16.30",
+     "gloss": "and they collect payment",
+     "sense": "6.2",
+     "note": "Nifal participle plural of פָּרַע with מִן: 'they collect payment from (the person)', 'they call him to account' (Jastrow, Nif. with מן). The Nifal is active in sense; the subject is impersonal (the collectors)."
+    },
+    {
+     "id": "3:16.31",
+     "gloss": "from"
+    },
+    {
+     "id": "3:16.32",
+     "gloss": "the person",
+     "lex": "jastrow:אָדָם",
+     "sense": "1"
+    },
+    {
+     "id": "3:16.33",
+     "gloss": "with his knowledge",
+     "sense": "1.1",
+     "note": "מִדַּעְתּוֹ: 'from his knowledge', i.e. knowingly; Bartenura: sometimes he remembers his debt and says 'You have judged me rightly'."
+    },
+    {
+     "id": "3:16.34",
+     "gloss": "and without"
+    },
+    {
+     "id": "3:16.35",
+     "gloss": "his knowledge",
+     "sense": "1.1",
+     "note": "שֶׁלֹּא מִדַּעְתּוֹ: 'without his knowledge'; Bartenura: sometimes he forgets and complains against the judgment of the Omnipresent."
+    },
+    {
+     "id": "3:16.36",
+     "gloss": "and there is"
+    },
+    {
+     "id": "3:16.37",
+     "gloss": "to them"
+    },
+    {
+     "id": "3:16.38",
+     "gloss": "on"
+    },
+    {
+     "id": "3:16.39",
+     "gloss": "what"
+    },
+    {
+     "id": "3:16.40",
+     "gloss": "that they may rely",
+     "sense": "1.1.1",
+     "note": "שֶּׁיִּסְמֹכוּ: 'on which they rely' (the collectors rely on the ledger and the shopkeeper's credibility, Bartenura)."
+    },
+    {
+     "id": "3:16.41",
+     "gloss": "and the judgment",
+     "sense": "1"
+    },
+    {
+     "id": "3:16.42",
+     "gloss": "judgment of",
+     "sense": "1"
+    },
+    {
+     "id": "3:16.43",
+     "gloss": "truth",
+     "sense": "2.4.2",
+     "note": "אֱמֶת: 'truth'; the construct דִּין אֱמֶת 'a judgment of truth', a just judgment."
+    },
+    {
+     "id": "3:16.44",
+     "gloss": "and the all"
+    },
+    {
+     "id": "3:16.45",
+     "gloss": "is prepared",
+     "sense": "2.2",
+     "note": "Pual participle of תָּקַן: 'is prepared, set in order'."
+    },
+    {
+     "id": "3:16.46",
+     "gloss": "for the meal",
+     "sense": "1",
+     "note": "סְעוּדָה: 'meal, banquet'; Rambam and Bartenura read the world to come."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:16.1",
+      "3:16.2",
+      "3:16.3"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'"
+    },
+    {
+     "tokens": [
+      "3:16.4",
+      "3:16.5",
+      "3:16.6"
+     ],
+     "english": "Everything is given as a pledge",
+     "literal": "'the-all given in-pledge'"
+    },
+    {
+     "tokens": [
+      "3:16.7",
+      "3:16.8",
+      "3:16.9",
+      "3:16.10",
+      "3:16.11"
+     ],
+     "english": "a net is spread over all the living",
+     "literal": "'and-net spread over all-of the-living'"
+    },
+    {
+     "tokens": [
+      "3:16.12",
+      "3:16.13"
+     ],
+     "english": "The shop is open",
+     "literal": "'the-shop open'"
+    },
+    {
+     "tokens": [
+      "3:16.14",
+      "3:16.15"
+     ],
+     "english": "the shopkeeper extends credit",
+     "literal": "'and-the-shopkeeper extends-credit'"
+    },
+    {
+     "tokens": [
+      "3:16.16",
+      "3:16.17"
+     ],
+     "english": "the ledger is open",
+     "literal": "'and-the-ledger open'"
+    },
+    {
+     "tokens": [
+      "3:16.18",
+      "3:16.19"
+     ],
+     "english": "the hand writes",
+     "literal": "'and-the-hand writing'"
+    },
+    {
+     "tokens": [
+      "3:16.20",
+      "3:16.21",
+      "3:16.22",
+      "3:16.23",
+      "3:16.24"
+     ],
+     "english": "whoever wishes to borrow may come and borrow",
+     "literal": "'and-all the-wishing to-borrow will-come and-will-borrow'"
+    },
+    {
+     "tokens": [
+      "3:16.25",
+      "3:16.26",
+      "3:16.27",
+      "3:16.28",
+      "3:16.29"
+     ],
+     "english": "The collectors make their rounds constantly, every day",
+     "literal": "'and-the-collectors go-around constantly in-every day'"
+    },
+    {
+     "tokens": [
+      "3:16.30",
+      "3:16.31",
+      "3:16.32",
+      "3:16.33",
+      "3:16.34",
+      "3:16.35"
+     ],
+     "english": "exact payment from a person with his knowledge and without his knowledge",
+     "literal": "'and-they-collect-payment from the-person from-his-knowledge and-that-not from-his-knowledge'"
+    },
+    {
+     "tokens": [
+      "3:16.36",
+      "3:16.37",
+      "3:16.38",
+      "3:16.39",
+      "3:16.40"
+     ],
+     "english": "They have what to rely on",
+     "literal": "'and-there-is to-them on what that-they-rely'"
+    },
+    {
+     "tokens": [
+      "3:16.41",
+      "3:16.42",
+      "3:16.43"
+     ],
+     "english": "the judgment is a judgment of truth",
+     "literal": "'and-the-judgment judgment-of truth'"
+    },
+    {
+     "tokens": [
+      "3:16.44",
+      "3:16.45",
+      "3:16.46"
+     ],
+     "english": "everything is prepared for the banquet",
+     "literal": "'and-the-all prepared to-the-meal'"
+    }
+   ],
+   "grammar": [
+    "The saying is a single extended metaphor: a shop that gives credit. The clauses are strung with 'and' and almost all use participles (נָתוּן, פְּרוּסָה, פְּתוּחָה, מֵקִיף, כּוֹתֶבֶת, מַחֲזִירִים, נִפְרָעִין, מְתֻקָּן), giving the sense of an ongoing, present process.",
+    "הַכֹּל נָתוּן בְּעֵרָבוֹן, 'everything is given as a pledge', and the following clause וּמְצוּדָה פְרוּסָה עַל כָּל הַחַיִּים, 'a net is spread over all the living', open the images of security for a debt and of capture.",
+    "The pairs מִדַּעְתּוֹ / וְשֶׁלֹּא מִדַּעְתּוֹ ('with his knowledge' / 'without his knowledge') contrast the debtor who remembers his debt and the one who has forgotten it.",
+    "וְכָל הָרוֹצֶה לִלְווֹת יָבֹא וְיִלְוֶה uses a jussive-like imperfect ('let him come and borrow'): the borrower acts freely, linking to the freedom of choice in the previous mishnah.",
+    "The last clause וְהַכֹּל מְתֻקָּן לַסְּעוּדָה resolves the metaphor: the collection ends in a meal. Rambam and Bartenura read the meal as the world to come."
+   ],
+   "note": "The shop metaphor is read as the commentators read it: the shopkeeper is God, the ledger is the record of deeds, the collectors are sufferings and death (Bartenura, Rambam), and the banquet is the world to come. The English keeps the images and puts the application in the commentary, as the saying itself does. מֵקִיף is rendered 'extends credit' (from הַקָּפָה); the pack's lemma is the root קוף. מַחֲזִירִים, 'make their rounds', follows Jastrow's 'to go around (searching)'. The Jastrow entries for בָּא I and לָוָה in the pack give only cross-references or a different meaning, so I give no sense for those verbs; the data are kept. Bartenura's explanations of לְדַעְתּוֹ and שֶׁלֹּא לְדַעְתּוֹ are attached to the whole verse in the pack.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:16:1",
+     "relation": "follows",
+     "summary": "Bartenura (citing Sukkah 53a): a person's feet are his guarantors; they lead him to the place where he is wanted. Everything is given as a pledge."
+    },
+    {
+     "anchor": "bartenura:3:16:2",
+     "relation": "follows",
+     "summary": "Bartenura: the net is suffering and death."
+    },
+    {
+     "anchor": "bartenura:3:16:3",
+     "relation": "follows",
+     "summary": "Bartenura: people enter the shop and take goods on credit."
+    },
+    {
+     "anchor": "bartenura:3:16:4",
+     "relation": "follows",
+     "summary": "Bartenura: the shopkeeper trusts everyone who comes to take; so people sin every day and the Holy One, blessed be He, waits for them until their time comes."
+    },
+    {
+     "anchor": "bartenura:3:16:5",
+     "relation": "follows",
+     "summary": "Bartenura: the ledger is open to write in the credits so that they are not forgotten."
+    },
+    {
+     "anchor": "bartenura:3:16:6",
+     "relation": "follows",
+     "summary": "Bartenura: lest one say that the shopkeeper is sometimes busy and does not write everything, the mishnah adds 'and the hand writes'."
+    },
+    {
+     "anchor": "bartenura:3:16:7",
+     "relation": "follows",
+     "summary": "Bartenura: this is the same as 'the choice is given' above: no one is forced to borrow against his will."
+    },
+    {
+     "anchor": "bartenura:3:16:8",
+     "relation": "follows",
+     "summary": "Bartenura: the collectors are sufferings and bad occurrences."
+    },
+    {
+     "anchor": "bartenura:3:16:9",
+     "relation": "follows",
+     "summary": "Bartenura on מִדַּעְתּוֹ: sometimes he remembers his debt and says 'You have judged me well'."
+    },
+    {
+     "anchor": "bartenura:3:16:10",
+     "relation": "follows",
+     "summary": "Bartenura on וְשֶׁלֹּא מִדַּעְתּוֹ: sometimes he has forgotten and protests against the judgment of the Omnipresent."
+    },
+    {
+     "anchor": "bartenura:3:16:11",
+     "relation": "follows",
+     "summary": "Bartenura: they rely on the ledger and on the shopkeeper, who is believed about his ledger; so the sufferings rely on a person's deeds recorded before the Omnipresent, even though the person has forgotten them."
+    },
+    {
+     "anchor": "bartenura:3:16:12",
+     "relation": "follows",
+     "summary": "Bartenura: the Holy One, blessed be He, does not deal with His creatures by unfair, tyrannical claims (אֵינוֹ בָּא בִּטְרוּנְיָא, Avodah Zarah 3a); the judgment is just."
+    },
+    {
+     "anchor": "bartenura:3:16:13",
+     "relation": "follows",
+     "summary": "Bartenura: righteous and wicked alike have a share in the world to come after the debt has been collected from them."
+    },
+    {
+     "anchor": "rambam:3:16:1",
+     "relation": "follows",
+     "summary": "Rambam: 'the shopkeeper extends credit' means that one's debt may lengthen without being demanded at once; 'whoever wishes to borrow may come' supports the earlier point that there is no compulsion; 'the collectors' is a figure for death and other punishments that come upon a person."
+    },
+    {
+     "anchor": "rambam:3:16:2",
+     "relation": "follows",
+     "summary": "Rambam: the final aim of all this is the life of the world to come."
+    },
+    {
+     "anchor": "rambam:3:17:1",
+     "relation": "not-applicable",
+     "summary": "Rambam: a long note, attached in the pack to the word הָרוֹצֶה in 3:16.21 but about knowledge and understanding (דַּעַת and בִּינָה) of 3:17: each of the two is useful for the existence of the other and completes it. It does not bear on the plain sense of 3:16."
+    }
+   ],
+   "apparatus": [
+    "Vilna spells ללות for לִלְווֹת, שיסמוכו for שֶּׁיִּסְמֹכוּ and מתוקן for מְתֻקָּן.",
+    "Bartenura 3:16:1 cites Sukkah 53a: רַגְלוֹהִי דְּבַר נַשׁ אִינוּן עֲרֵבִין בֵּיהּ (a person's feet are guarantors for him).",
+    "Bartenura 3:16:12 cites Avodah Zarah 3a for 'the Holy One does not come with a complaint against His creatures'.",
+    "Rambam's note on דעת and בינה (rambam:3:17:1), which concerns 3:17, is anchored in the pack to the word הָרוֹצֶה in 3:16.21."
+   ]
+  },
+  {
+   "ref": "3:17",
+   "english": "Rabbi Elazar son of Azariah says: If there is no Torah, there is no proper conduct; if there is no proper conduct, there is no Torah. If there is no wisdom, there is no fear; if there is no fear, there is no wisdom. If there is no understanding, there is no knowledge; if there is no knowledge, there is no understanding. If there is no flour, there is no Torah; if there is no Torah, there is no flour. He used to say: Anyone whose wisdom exceeds his deeds, to what is he compared? To a tree whose branches are many and whose roots are few; and the wind comes and uproots it and overturns it on its face, as it is said (Jeremiah 17): 'He shall be like a bare shrub in the desert plain, and shall not see when good comes; he shall dwell in the parched places of the wilderness, a salt land, uninhabited.' But anyone whose deeds exceed his wisdom, to what is he compared? To a tree whose branches are few and whose roots are many, so that even if all the winds in the world come and blow against it, they do not move it from its place, as it is said (ibid.): 'He shall be like a tree planted by water, and by a stream it sends out its roots, and it shall not see when heat comes; its leaf shall be fresh, and in a year of drought it shall not worry, and it shall not cease from yielding fruit.'",
+   "literal": "Rabbi Elazar son-of Azariah says: if not Torah, not way-of land; if not way-of land, not Torah. If not wisdom, not fear; if not fear, not wisdom. If not understanding, not knowledge; if not knowledge, not understanding. If not flour, not Torah; if not Torah, not flour. He was saying: all-that his-wisdom is-increased more-than-his-deeds, to-what is-he similar, to-a-tree that-its-branches many and-its-roots few, and-the-wind comes and-uproots-it and-overturns-it on its-face, that-it-was-said (Jeremiah 17): and-he-will-be like-a-shrub in-the-desert-plain and-not will-see when will-come good, and-will-dwell parched-places in-the-wilderness land salt and-not will-be-inhabited. But all-that his-deeds are-many more-than-his-wisdom, to-what is-he similar, to-a-tree that-its-branches few and-its-roots many, that-even all-of the-winds that-in-the-world coming and-blowing in-it not move it from-its-place, that-it-was-said (ibid.): and-he-will-be like-a-tree planted on water and-on stream sends-out its-roots and-not will-see when will-come heat, and-will-be its-leaf fresh, and-in-year-of drought not will-worry, and-not will-cease from-doing fruit.",
+   "tokens": [
+    {
+     "id": "3:17.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.2",
+     "gloss": "Elazar"
+    },
+    {
+     "id": "3:17.3",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.4",
+     "gloss": "Azariah"
+    },
+    {
+     "id": "3:17.5",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.6",
+     "gloss": "if"
+    },
+    {
+     "id": "3:17.7",
+     "gloss": "there is not",
+     "note": "אֵין is the negative existential particle: 'there is not', 'there is no'. The conditional pairs אִם אֵין ... אֵין ... are mirror statements: each term is a condition for the other. The pack's key bdbs:אַיִן is the homograph 'where?' (אַיִן interrogative), not the negative אֵין; this holds for every אֵין in the mishnah, and no sense is given."
+    },
+    {
+     "id": "3:17.8",
+     "gloss": "Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.9",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.10",
+     "gloss": "way of",
+     "sense": "1.4",
+     "note": "דֶּרֶךְ אֶרֶץ, literally 'the way of the land': proper conduct, decent behavior; it can also mean 'a worldly occupation'. Here the commentators read it as good conduct (Bartenura: dealing well with people; Rabbeinu Yonah: good character traits)."
+    },
+    {
+     "id": "3:17.11",
+     "gloss": "land (proper conduct)",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.12",
+     "gloss": "if"
+    },
+    {
+     "id": "3:17.13",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.14",
+     "gloss": "way of",
+     "sense": "1.4"
+    },
+    {
+     "id": "3:17.15",
+     "gloss": "land (proper conduct)",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.16",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.17",
+     "gloss": "Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.18",
+     "gloss": "if"
+    },
+    {
+     "id": "3:17.19",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.20",
+     "gloss": "wisdom",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.21",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.22",
+     "gloss": "fear",
+     "sense": "1.3",
+     "note": "יִרְאָה, 'fear' (of God, or of sin)."
+    },
+    {
+     "id": "3:17.23",
+     "gloss": "if"
+    },
+    {
+     "id": "3:17.24",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.25",
+     "gloss": "fear",
+     "sense": "1.3"
+    },
+    {
+     "id": "3:17.26",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.27",
+     "gloss": "wisdom",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.28",
+     "gloss": "if"
+    },
+    {
+     "id": "3:17.29",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.30",
+     "gloss": "understanding",
+     "sense": "1",
+     "note": "בִּינָה, 'understanding'. Bartenura distinguishes it from דַּעַת: בִּינָה derives one thing from another; דַּעַת finds the reason for a thing."
+    },
+    {
+     "id": "3:17.31",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.32",
+     "gloss": "knowledge",
+     "sense": "1.1",
+     "note": "דַּעַת, 'knowledge'."
+    },
+    {
+     "id": "3:17.33",
+     "gloss": "if"
+    },
+    {
+     "id": "3:17.34",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.35",
+     "gloss": "knowledge",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.36",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.37",
+     "gloss": "understanding",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.38",
+     "gloss": "if"
+    },
+    {
+     "id": "3:17.39",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.40",
+     "gloss": "flour",
+     "sense": "1",
+     "note": "קֶמַח, 'flour': a metonym for food, livelihood (Bartenura: one who has nothing to eat, how can he occupy himself with Torah?)."
+    },
+    {
+     "id": "3:17.41",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.42",
+     "gloss": "Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.43",
+     "gloss": "if"
+    },
+    {
+     "id": "3:17.44",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.45",
+     "gloss": "Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.46",
+     "gloss": "there is not"
+    },
+    {
+     "id": "3:17.47",
+     "gloss": "flour",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.48",
+     "gloss": "he",
+     "note": "הוּא הָיָה אוֹמֵר: the saying that follows is a second, separate saying of the same sage."
+    },
+    {
+     "id": "3:17.49",
+     "gloss": "used to be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "3:17.50",
+     "gloss": "saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.51",
+     "gloss": "anyone",
+     "note": "כָּל שֶׁ: 'anyone who', 'whoever'."
+    },
+    {
+     "id": "3:17.52",
+     "gloss": "whose wisdom",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.53",
+     "gloss": "is increased",
+     "note": "Pual participle of רָבָה: 'is increased'."
+    },
+    {
+     "id": "3:17.54",
+     "gloss": "more than his deeds",
+     "sense": "1.1",
+     "note": "מִ + מַעֲשָׂיו: comparative מִן, 'more than his deeds'."
+    },
+    {
+     "id": "3:17.55",
+     "gloss": "to what",
+     "note": "לְמַה הוּא דוֹמֶה: rhetorical question, 'to what is he similar?'"
+    },
+    {
+     "id": "3:17.56",
+     "gloss": "he"
+    },
+    {
+     "id": "3:17.57",
+     "gloss": "is compared",
+     "lex": "jastrow:דָּמָה ²",
+     "note": "Qal participle of דָּמָה, 'to resemble': 'is like, is compared'. The pack's default key bdbs:דָּמָה is the homograph 'to cease'; jastrow:דָּמָה ² is the right word (a cross-reference only, so no sense)."
+    },
+    {
+     "id": "3:17.58",
+     "gloss": "to a tree",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.59",
+     "gloss": "whose branches",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.60",
+     "gloss": "are many"
+    },
+    {
+     "id": "3:17.61",
+     "gloss": "and whose roots",
+     "lex": "jastrow:שֹׁרֶשׁ",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.62",
+     "gloss": "are few",
+     "sense": "1.1",
+     "note": "Pual participle of מָעַט: 'are few'."
+    },
+    {
+     "id": "3:17.63",
+     "gloss": "and the wind",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.64",
+     "gloss": "comes"
+    },
+    {
+     "id": "3:17.65",
+     "gloss": "and uproots it",
+     "note": "וְעוֹקַרְתּוֹ: Qal participle with object suffix, 'and uproots it'. The pack's key jastrow:עִקָּר is the noun 'root, essence' (a cross-reference), not this verb, so no sense is given."
+    },
+    {
+     "id": "3:17.66",
+     "gloss": "and overturns it",
+     "sense": "1.1.1",
+     "note": "וְהוֹפַכְתּוֹ: Qal participle with object suffix: 'and overturns it'."
+    },
+    {
+     "id": "3:17.67",
+     "gloss": "on"
+    },
+    {
+     "id": "3:17.68",
+     "gloss": "its face",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.69",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "3:17.70",
+     "gloss": "Jeremiah"
+    },
+    {
+     "id": "3:17.71",
+     "gloss": "17 (chapter)"
+    },
+    {
+     "id": "3:17.72",
+     "gloss": "and he shall be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "3:17.73",
+     "gloss": "like a bare shrub",
+     "sense": "1",
+     "note": "עַרְעָר: a bare or stripped shrub (the meaning is uncertain: juniper, tamarisk, or one stripped, destitute)."
+    },
+    {
+     "id": "3:17.74",
+     "gloss": "in the desert plain",
+     "sense": "1",
+     "note": "עֲרָבָה: desert plain, steppe."
+    },
+    {
+     "id": "3:17.75",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:17.76",
+     "gloss": "he shall see",
+     "lex": "jastrow:רָאָה I"
+    },
+    {
+     "id": "3:17.77",
+     "gloss": "when"
+    },
+    {
+     "id": "3:17.78",
+     "gloss": "comes"
+    },
+    {
+     "id": "3:17.79",
+     "gloss": "good",
+     "lex": "jastrow:טוֹב II",
+     "sense": "2"
+    },
+    {
+     "id": "3:17.80",
+     "gloss": "and he shall dwell",
+     "sense": "1.1.2"
+    },
+    {
+     "id": "3:17.81",
+     "gloss": "parched places",
+     "note": "חֲרֵרִים: 'parched places', from חָרֵר, 'to be dry, parched'; the pack gives no lexicon key."
+    },
+    {
+     "id": "3:17.82",
+     "gloss": "in the wilderness",
+     "sense": "1.2"
+    },
+    {
+     "id": "3:17.83",
+     "gloss": "land of",
+     "sense": "1.2"
+    },
+    {
+     "id": "3:17.84",
+     "gloss": "salt",
+     "sense": "1",
+     "note": "מְלֵחָה: 'salty', a salt land."
+    },
+    {
+     "id": "3:17.85",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:17.86",
+     "gloss": "it shall be inhabited",
+     "lex": "jastrow:יָשַׁב",
+     "sense": "3",
+     "note": "Qal imperfect 3rd feminine singular: 'will be inhabited'."
+    },
+    {
+     "id": "3:17.87",
+     "gloss": "but",
+     "note": "אֲבָל: 'but'; the converse of the first image."
+    },
+    {
+     "id": "3:17.88",
+     "gloss": "anyone"
+    },
+    {
+     "id": "3:17.89",
+     "gloss": "whose deeds",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.90",
+     "gloss": "are many"
+    },
+    {
+     "id": "3:17.91",
+     "gloss": "than his wisdom",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.92",
+     "gloss": "to what"
+    },
+    {
+     "id": "3:17.93",
+     "gloss": "he"
+    },
+    {
+     "id": "3:17.94",
+     "gloss": "is compared",
+     "lex": "jastrow:דָּמָה ²"
+    },
+    {
+     "id": "3:17.95",
+     "gloss": "to a tree",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.96",
+     "gloss": "whose branches",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.97",
+     "gloss": "are few",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.98",
+     "gloss": "and whose roots",
+     "lex": "jastrow:שֹׁרֶשׁ",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.99",
+     "gloss": "are many"
+    },
+    {
+     "id": "3:17.100",
+     "gloss": "that even",
+     "note": "שֶׁאֲפִלּוּ: 'that even'."
+    },
+    {
+     "id": "3:17.101",
+     "gloss": "all of"
+    },
+    {
+     "id": "3:17.102",
+     "gloss": "the winds",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.103",
+     "gloss": "that are in the world",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.104",
+     "gloss": "coming"
+    },
+    {
+     "id": "3:17.105",
+     "gloss": "and blowing",
+     "sense": "1",
+     "note": "Qal participle of נָשַׁב: 'to blow'."
+    },
+    {
+     "id": "3:17.106",
+     "gloss": "against it"
+    },
+    {
+     "id": "3:17.107",
+     "gloss": "not"
+    },
+    {
+     "id": "3:17.108",
+     "gloss": "they move",
+     "note": "Hifil participle of זָז: 'move, displace'; the pack gives no lexicon key."
+    },
+    {
+     "id": "3:17.109",
+     "gloss": "it",
+     "note": "אוֹתוֹ: object marker with 3rd person masculine suffix: 'it' (the tree). The pack's key bdbs:אֵת is the homograph 'ploughshare', not the object marker."
+    },
+    {
+     "id": "3:17.110",
+     "gloss": "from its place",
+     "sense": "1.4"
+    },
+    {
+     "id": "3:17.111",
+     "gloss": "as it is said",
+     "sense": "1.2"
+    },
+    {
+     "id": "3:17.112",
+     "gloss": "ibid.",
+     "note": "שָׁם, 'there', the citation formula 'ibid.'; the pack's key bdbs:שֵׁם is the proper name Shem."
+    },
+    {
+     "id": "3:17.113",
+     "gloss": "and he shall be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "3:17.114",
+     "gloss": "like a tree",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.115",
+     "gloss": "planted",
+     "sense": "1",
+     "note": "Qal passive participle of שָׁתַל: 'planted'."
+    },
+    {
+     "id": "3:17.116",
+     "gloss": "by"
+    },
+    {
+     "id": "3:17.117",
+     "gloss": "water",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:17.118",
+     "gloss": "and by"
+    },
+    {
+     "id": "3:17.119",
+     "gloss": "a stream",
+     "note": "יוּבַל: 'stream, channel' in Jeremiah 17:8 (the pack lemma is the proper name Jubal, whose etymology is 'stream'; I keep the data)."
+    },
+    {
+     "id": "3:17.120",
+     "gloss": "it sends out",
+     "sense": "1.3.3",
+     "note": "Piel imperfect of שָׁלַח: 'sends out'."
+    },
+    {
+     "id": "3:17.121",
+     "gloss": "its roots",
+     "lex": "jastrow:שֹׁרֶשׁ",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.122",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:17.123",
+     "gloss": "it shall see",
+     "lex": "jastrow:רָאָה I"
+    },
+    {
+     "id": "3:17.124",
+     "gloss": "when"
+    },
+    {
+     "id": "3:17.125",
+     "gloss": "comes"
+    },
+    {
+     "id": "3:17.126",
+     "gloss": "heat",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.127",
+     "gloss": "and it shall be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "3:17.128",
+     "gloss": "its leaf",
+     "note": "עָלֵהוּ, 'its leaf', with the old 3rd masculine singular suffix ־הוּ; the pack's key bdbs:עָלָה is the verb 'to go up', not the noun עָלֶה 'leaf', so no sense is given."
+    },
+    {
+     "id": "3:17.129",
+     "gloss": "fresh",
+     "sense": "4",
+     "note": "רַעֲנָן: 'fresh, luxuriant, green'."
+    },
+    {
+     "id": "3:17.130",
+     "gloss": "and in the year of",
+     "lex": "jastrow:שָׁנָה II",
+     "sense": "1"
+    },
+    {
+     "id": "3:17.131",
+     "gloss": "drought",
+     "note": "בַּצֹּרֶת, 'drought', is one word (root בצר), not the preposition בְּ with צֹרֶת: hence בִּשְׁנַת בַּצֹּרֶת, 'in a year of drought'. The pack's key bdbs:צֶרֶת (the name Zereth) is the wrong word, so no sense is given."
+    },
+    {
+     "id": "3:17.132",
+     "gloss": "not"
+    },
+    {
+     "id": "3:17.133",
+     "gloss": "it shall worry",
+     "sense": "1",
+     "note": "Qal imperfect of דָּאַג: 'worry, be anxious'."
+    },
+    {
+     "id": "3:17.134",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:17.135",
+     "gloss": "it shall cease",
+     "note": "Qal imperfect of מוּשׁ: 'depart, cease'; no lexicon key in the pack."
+    },
+    {
+     "id": "3:17.136",
+     "gloss": "from yielding",
+     "sense": "1.1.2.2"
+    },
+    {
+     "id": "3:17.137",
+     "gloss": "fruit",
+     "sense": "1.1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:17.1",
+      "3:17.2",
+      "3:17.3",
+      "3:17.4",
+      "3:17.5"
+     ],
+     "english": "Rabbi Elazar son of Azariah says",
+     "literal": "'Rabbi Elazar son-of Azariah says'"
+    },
+    {
+     "tokens": [
+      "3:17.6",
+      "3:17.7",
+      "3:17.8"
+     ],
+     "english": "If there is no Torah",
+     "literal": "'if not Torah'"
+    },
+    {
+     "tokens": [
+      "3:17.9",
+      "3:17.10",
+      "3:17.11"
+     ],
+     "english": "there is no proper conduct",
+     "literal": "'not way-of land'"
+    },
+    {
+     "tokens": [
+      "3:17.12",
+      "3:17.13",
+      "3:17.14",
+      "3:17.15"
+     ],
+     "english": "if there is no proper conduct",
+     "literal": "'if not way-of land'"
+    },
+    {
+     "tokens": [
+      "3:17.16",
+      "3:17.17"
+     ],
+     "english": "there is no Torah",
+     "literal": "'not Torah'"
+    },
+    {
+     "tokens": [
+      "3:17.18",
+      "3:17.19",
+      "3:17.20"
+     ],
+     "english": "If there is no wisdom",
+     "literal": "'if not wisdom'"
+    },
+    {
+     "tokens": [
+      "3:17.21",
+      "3:17.22"
+     ],
+     "english": "there is no fear",
+     "literal": "'not fear'"
+    },
+    {
+     "tokens": [
+      "3:17.23",
+      "3:17.24",
+      "3:17.25"
+     ],
+     "english": "if there is no fear",
+     "literal": "'if not fear'"
+    },
+    {
+     "tokens": [
+      "3:17.26",
+      "3:17.27"
+     ],
+     "english": "there is no wisdom",
+     "literal": "'not wisdom'"
+    },
+    {
+     "tokens": [
+      "3:17.28",
+      "3:17.29",
+      "3:17.30"
+     ],
+     "english": "If there is no understanding",
+     "literal": "'if not understanding'"
+    },
+    {
+     "tokens": [
+      "3:17.31",
+      "3:17.32"
+     ],
+     "english": "there is no knowledge",
+     "literal": "'not knowledge'"
+    },
+    {
+     "tokens": [
+      "3:17.33",
+      "3:17.34",
+      "3:17.35"
+     ],
+     "english": "if there is no knowledge",
+     "literal": "'if not knowledge'"
+    },
+    {
+     "tokens": [
+      "3:17.36",
+      "3:17.37"
+     ],
+     "english": "there is no understanding",
+     "literal": "'not understanding'"
+    },
+    {
+     "tokens": [
+      "3:17.38",
+      "3:17.39",
+      "3:17.40"
+     ],
+     "english": "If there is no flour",
+     "literal": "'if not flour'"
+    },
+    {
+     "tokens": [
+      "3:17.41",
+      "3:17.42"
+     ],
+     "english": "there is no Torah",
+     "literal": "'not Torah'"
+    },
+    {
+     "tokens": [
+      "3:17.43",
+      "3:17.44",
+      "3:17.45"
+     ],
+     "english": "if there is no Torah",
+     "literal": "'if not Torah'"
+    },
+    {
+     "tokens": [
+      "3:17.46",
+      "3:17.47"
+     ],
+     "english": "there is no flour",
+     "literal": "'not flour'"
+    },
+    {
+     "tokens": [
+      "3:17.48",
+      "3:17.49",
+      "3:17.50"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'"
+    },
+    {
+     "tokens": [
+      "3:17.51",
+      "3:17.52",
+      "3:17.53",
+      "3:17.54"
+     ],
+     "english": "Anyone whose wisdom exceeds his deeds",
+     "literal": "'all-that his-wisdom is-increased more-than-his-deeds'"
+    },
+    {
+     "tokens": [
+      "3:17.55",
+      "3:17.56",
+      "3:17.57"
+     ],
+     "english": "to what is he compared",
+     "literal": "'to-what is-he similar'"
+    },
+    {
+     "tokens": [
+      "3:17.58",
+      "3:17.59",
+      "3:17.60",
+      "3:17.61",
+      "3:17.62"
+     ],
+     "english": "To a tree whose branches are many and whose roots are few",
+     "literal": "'to-a-tree that-its-branches many and-its-roots few'"
+    },
+    {
+     "tokens": [
+      "3:17.63",
+      "3:17.64",
+      "3:17.65",
+      "3:17.66",
+      "3:17.67",
+      "3:17.68"
+     ],
+     "english": "the wind comes and uproots it and overturns it on its face",
+     "literal": "'and-the-wind comes and-uproots-it and-overturns-it on its-face'; three participles: the image is told in the present"
+    },
+    {
+     "tokens": [
+      "3:17.69"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "3:17.70",
+      "3:17.71"
+     ],
+     "english": "Jeremiah 17",
+     "literal": "citation: Jeremiah 17:6"
+    },
+    {
+     "tokens": [
+      "3:17.72",
+      "3:17.73",
+      "3:17.74"
+     ],
+     "english": "He shall be like a bare shrub in the desert plain",
+     "literal": "'and-he-will-be like-a-shrub in-the-desert-plain'"
+    },
+    {
+     "tokens": [
+      "3:17.75",
+      "3:17.76",
+      "3:17.77",
+      "3:17.78",
+      "3:17.79"
+     ],
+     "english": "and shall not see when good comes",
+     "literal": "'and-not will-see when will-come good'"
+    },
+    {
+     "tokens": [
+      "3:17.80",
+      "3:17.81",
+      "3:17.82",
+      "3:17.83",
+      "3:17.84",
+      "3:17.85",
+      "3:17.86"
+     ],
+     "english": "he shall dwell in the parched places of the wilderness, a salt land, uninhabited",
+     "literal": "'and-will-dwell parched-places in-the-wilderness land salt and-not will-be-inhabited'"
+    },
+    {
+     "tokens": [
+      "3:17.87",
+      "3:17.88",
+      "3:17.89",
+      "3:17.90",
+      "3:17.91"
+     ],
+     "english": "But anyone whose deeds exceed his wisdom",
+     "literal": "'but all-that his-deeds are-many more-than-his-wisdom'"
+    },
+    {
+     "tokens": [
+      "3:17.92",
+      "3:17.93",
+      "3:17.94"
+     ],
+     "english": "to what is he compared",
+     "literal": "'to-what is-he similar'"
+    },
+    {
+     "tokens": [
+      "3:17.95",
+      "3:17.96",
+      "3:17.97",
+      "3:17.98",
+      "3:17.99"
+     ],
+     "english": "To a tree whose branches are few and whose roots are many",
+     "literal": "'to-a-tree that-its-branches few and-its-roots many'"
+    },
+    {
+     "tokens": [
+      "3:17.100",
+      "3:17.101",
+      "3:17.102",
+      "3:17.103",
+      "3:17.104",
+      "3:17.105",
+      "3:17.106"
+     ],
+     "english": "so that even if all the winds in the world come and blow against it",
+     "literal": "'that-even all-of the-winds that-in-the-world coming and-blowing in-it'"
+    },
+    {
+     "tokens": [
+      "3:17.107",
+      "3:17.108",
+      "3:17.109",
+      "3:17.110"
+     ],
+     "english": "they do not move it from its place",
+     "literal": "'not move it from-its-place'"
+    },
+    {
+     "tokens": [
+      "3:17.111"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "3:17.112"
+     ],
+     "english": "ibid",
+     "literal": "'there' (ibid.)"
+    },
+    {
+     "tokens": [
+      "3:17.113",
+      "3:17.114",
+      "3:17.115",
+      "3:17.116",
+      "3:17.117"
+     ],
+     "english": "He shall be like a tree planted by water",
+     "literal": "'and-he-will-be like-a-tree planted on water'"
+    },
+    {
+     "tokens": [
+      "3:17.118",
+      "3:17.119",
+      "3:17.120",
+      "3:17.121"
+     ],
+     "english": "and by a stream it sends out its roots",
+     "literal": "'and-on stream sends-out its-roots'"
+    },
+    {
+     "tokens": [
+      "3:17.122",
+      "3:17.123",
+      "3:17.124",
+      "3:17.125",
+      "3:17.126"
+     ],
+     "english": "and it shall not see when heat comes",
+     "literal": "'and-not will-see when will-come heat'"
+    },
+    {
+     "tokens": [
+      "3:17.127",
+      "3:17.128",
+      "3:17.129"
+     ],
+     "english": "its leaf shall be fresh",
+     "literal": "'and-will-be its-leaf fresh'"
+    },
+    {
+     "tokens": [
+      "3:17.130",
+      "3:17.131",
+      "3:17.132",
+      "3:17.133"
+     ],
+     "english": "and in a year of drought it shall not worry",
+     "literal": "'and-in-year-of drought not will-worry'"
+    },
+    {
+     "tokens": [
+      "3:17.134",
+      "3:17.135",
+      "3:17.136",
+      "3:17.137"
+     ],
+     "english": "and it shall not cease from yielding fruit",
+     "literal": "'and-not will-cease from-doing fruit'"
+    }
+   ],
+   "grammar": [
+    "The first part is four mirror-image pairs of conditionals אִם אֵין X, אֵין Y / אִם אֵין Y, אֵין X: each of Torah and proper conduct, wisdom and fear, understanding and knowledge, flour and Torah depends on the other. The English keeps the repetition, because the symmetry is the argument.",
+    "אֵין is the negative existential particle, not a verb: 'there is not'. In a conditional with אִם: 'if there is no X, there is no Y'.",
+    "The second saying is introduced by הוּא הָיָה אוֹמֵר and has two parallel images (tree with many branches and few roots; tree with few branches and many roots), each with the same structure: כָּל שֶׁ... לְמַה הוּא דוֹמֶה, לְאִילָן שֶׁ..., then a proof text. The English keeps the repeated question.",
+    "מְרֻבָּה, מְרֻבִּין, מֻעָטִין are Pual participles ('are increased, are decreased'), used as predicate adjectives; the passive implies natural growth.",
+    "וְהָרוּחַ בָּאָה וְעוֹקַרְתּוֹ וְהוֹפַכְתּוֹ עַל פָּנָיו: three feminine participles (בָּאָה, then two Qal participles with object suffixes) in a series; the image is told in the present, 'the wind comes and uproots it and overturns it'. In the second image the verbs are participles too: בָּאוֹת וְנוֹשְׁבוֹת, 'coming and blowing'.",
+    "Both proof texts are from Jeremiah 17: the first (verse 6) is about 'the one who trusts in man'; the second (verse 8) about 'the one who trusts in the LORD'. The mishnah quotes only the images."
+   ],
+   "note": "דֶּרֶךְ אֶרֶץ: rendered 'proper conduct' because Bartenura and Rabbeinu Yonah both read it as decent behaviour toward people and good character traits in the first pair; in the pair about flour (קֶמַח) the same phrase could be read as 'worldly occupation', and I note that rather than change the word. The mishnah's יִרְאָה is 'fear', without 'of God', as in the Hebrew. For the pair דַּעַת / בִּינָה I follow Bartenura's distinction (דַּעַת 'finds the reason of a thing'; בִּינָה 'derives one thing from another'); the English uses the ordinary words 'knowledge' and 'understanding'. Rabbeinu Yonah describes the two differently (knowledge as what one grasps of oneself, understanding as inferring one thing from another). The pack's default lexicon keys for טוֹב, בָּא, דָּמָה, יוּבַל and צֹרֶת point to different words (a place, 'father', 'to cease', a proper name, a proper name); where the pack also lists the right entry (jastrow:טוֹב II, jastrow:דָּמָה ²) it is used, otherwise no sense is given and the correct word is read. Rambam's comment on דעת and בינה is anchored in the pack to 3:16.21 and is ruled on under 3:16.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:17:1",
+     "relation": "follows",
+     "summary": "Bartenura: if there is no Torah, a person's dealings with people are not good (his conduct is not proper)."
+    },
+    {
+     "anchor": "bartenura:3:17:2",
+     "relation": "follows",
+     "summary": "Bartenura: if there is no proper conduct, in the end his Torah is forgotten by him."
+    },
+    {
+     "anchor": "bartenura:3:17:3",
+     "relation": "follows",
+     "summary": "Bartenura: דַּעַת is finding the reason for a thing; בִּינָה is understanding one thing from another without being able to show its reason (אֵינוֹ מַרְאֶה לוֹ טַעַם). Without knowledge to give the reason there is no understanding, for not knowing the reason is like not knowing the thing; yet understanding comes first, so without understanding there is no knowledge."
+    },
+    {
+     "anchor": "bartenura:3:17:4",
+     "relation": "follows",
+     "summary": "Bartenura: one who has nothing to eat, how can he occupy himself with Torah?"
+    },
+    {
+     "anchor": "bartenura:3:17:5",
+     "relation": "follows",
+     "summary": "Bartenura: what use is the flour in his hand if it has no Torah in it? Better for him that he had no flour and died of hunger."
+    }
+   ],
+   "apparatus": [
+    "Jeremiah 17:6 (וְהָיָה כְּעַרְעָר בָּעֲרָבָה וְלֹא יִרְאֶה כִּי יָבוֹא טוֹב וְשָׁכַן חֲרֵרִים בַּמִּדְבָּר אֶרֶץ מְלֵחָה וְלֹא תֵשֵׁב).",
+    "Jeremiah 17:8 (וְהָיָה כְּעֵץ שָׁתוּל עַל מַיִם וְעַל יוּבַל יְשַׁלַּח שָׁרָשָׁיו וְלֹא יִרְאֶה כִּי יָבֹא חֹם וְהָיָה עָלֵהוּ רַעֲנָן וּבִשְׁנַת בַּצֹּרֶת לֹא יִדְאָג וְלֹא יָמִישׁ מֵעֲשׂוֹת פֶּרִי).",
+    "Rabbeinu Yonah (3:17:5, 3:17:6) places knowledge before understanding; Bartenura says understanding comes first (אִם אֵין בִּינָה אֵין דַּעַת).",
+    "Vilna spells מרובה, מרובין, מועטין, יבא, שאפילו, חום and בצורת for מְרֻבָּה, מְרֻבִּין, מֻעָטִין, יָבוֹא, שֶׁאֲפִלּוּ, חֹם and בַּצֹּרֶת; in the citations it adds the verse number ו (Jeremiah 17:6) and reads ירמיה יז ח (Jeremiah 17:8) for שם."
+   ]
+  },
+  {
+   "ref": "3:18",
+   "english": "Rabbi Eliezer son of Hisma says: Bird offerings and the openings of the menstruant, these very things are the essentials of the laws. Astronomical cycles and gematria are the desserts of wisdom.",
+   "literal": "Rabbi Eliezer son-of Hisma says: nests and-openings-of menstruant, they they bodies-of laws. Cycles and-gematriot, desserts to-the-wisdom.",
+   "tokens": [
+    {
+     "id": "3:18.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "3:18.2",
+     "gloss": "Eliezer"
+    },
+    {
+     "id": "3:18.3",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "3:18.4",
+     "gloss": "Hisma"
+    },
+    {
+     "id": "3:18.5",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "3:18.6",
+     "gloss": "nests (bird offerings)",
+     "lex": "jastrow:קֵן",
+     "sense": "3",
+     "note": "קִנִּין, literally 'nests': the bird offerings (turtledoves and pigeons) of the Temple, from קֵן 'nest' (Bartenura)."
+    },
+    {
+     "id": "3:18.7",
+     "gloss": "and openings of",
+     "lex": "bdbs:פֶּתַח",
+     "sense": "1",
+     "note": "פִּתְחֵי נִדָּה: 'openings of the menstruant': the laws of a woman who has lost track of her cycle and must keep watch until she returns to her opening (Bartenura). Rabbeinu Yonah also mentions three places (a house, an upper room, a hall) and the many appearances of blood."
+    },
+    {
+     "id": "3:18.8",
+     "gloss": "menstruant",
+     "sense": "1.1.2"
+    },
+    {
+     "id": "3:18.9",
+     "gloss": "they",
+     "lex": "jastrow:הֵן",
+     "note": "הֵן הֵן: emphatic repetition, 'these very ones' (these, indeed these)."
+    },
+    {
+     "id": "3:18.10",
+     "gloss": "they",
+     "lex": "jastrow:הֵן"
+    },
+    {
+     "id": "3:18.11",
+     "gloss": "bodies of",
+     "lex": "jastrow:גּוּף II",
+     "sense": "2",
+     "note": "גּוּפֵי: construct plural of גּוּף, 'body, essence': 'the bodies of the laws', hence the essentials, the core."
+    },
+    {
+     "id": "3:18.12",
+     "gloss": "laws",
+     "sense": "4"
+    },
+    {
+     "id": "3:18.13",
+     "gloss": "cycles",
+     "sense": "1",
+     "note": "תְּקוּפוֹת: 'cycles, turnings', i.e. astronomical cycles, the course of the constellations (Bartenura)."
+    },
+    {
+     "id": "3:18.14",
+     "gloss": "and gematria",
+     "note": "גִּימַטְרִיָּה: gematria, the counting of the numerical values of letters (a Greek loanword)."
+    },
+    {
+     "id": "3:18.15",
+     "gloss": "desserts",
+     "note": "פַּרְפְּרָאוֹת: 'dessert', the sweets eaten at the end of a meal (Bartenura; Greek loanword)."
+    },
+    {
+     "id": "3:18.16",
+     "gloss": "to wisdom",
+     "sense": "1",
+     "note": "The preposition ל here means 'for, of': 'the desserts (belonging) to wisdom'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:18.1",
+      "3:18.2",
+      "3:18.3",
+      "3:18.4",
+      "3:18.5"
+     ],
+     "english": "Rabbi Eliezer son of Hisma says",
+     "literal": "'Rabbi Eliezer son-of Hisma says'"
+    },
+    {
+     "tokens": [
+      "3:18.6"
+     ],
+     "english": "Bird offerings",
+     "literal": "'nests': the bird offerings (קִנִּין)"
+    },
+    {
+     "tokens": [
+      "3:18.7",
+      "3:18.8"
+     ],
+     "english": "and the openings of the menstruant",
+     "literal": "'and-openings-of menstruant'"
+    },
+    {
+     "tokens": [
+      "3:18.9",
+      "3:18.10",
+      "3:18.11",
+      "3:18.12"
+     ],
+     "english": "these very things are the essentials of the laws",
+     "literal": "'they they bodies-of laws'; the doubled pronoun is emphatic"
+    },
+    {
+     "tokens": [
+      "3:18.13",
+      "3:18.14"
+     ],
+     "english": "Astronomical cycles and gematria",
+     "literal": "'cycles and-gematriot'"
+    },
+    {
+     "tokens": [
+      "3:18.15",
+      "3:18.16"
+     ],
+     "english": "are the desserts of wisdom",
+     "literal": "'desserts to-the-wisdom'; 'desserts' follows Bartenura"
+    }
+   ],
+   "grammar": [
+    "Two sentences, each of two coordinated nouns followed by a predicate. The first has a doubled pronoun, הֵן הֵן, which marks emphasis: 'these, indeed these'. The second has no pronoun at all; the predicate is the single noun פַּרְפְּרָאוֹת.",
+    "קִנִּין is the plural of קֵן ('nest') used as a technical term for bird offerings. פִּתְחֵי נִדָּה is a construct chain, 'openings of the menstruant'.",
+    "גּוּפֵי הֲלָכוֹת is a construct chain: 'bodies of laws', meaning the core or essentials.",
+    "גִּימַטְרִיאוֹת and פַּרְפְּרָאוֹת are Greek loan words that the mishnah uses as technical terms; תְּקוּפוֹת is Hebrew, from the root קוף/נקף 'to go around' (Jastrow: 'turn, cycle'). The contrast of גּוּף ('body') with פַּרְפְּרָאוֹת ('after-dishes') is the point of the saying: the essential versus the ornamental."
+   ],
+   "note": "Two choices to record. פִּתְחֵי נִדָּה: the English keeps the literal 'the openings of the menstruant' because the sense of 'openings' is not simple (Bartenura: her opening or onset; Rabbeinu Yonah: three places in the house, and many appearances of blood). קִנִּין is rendered 'bird offerings' following Bartenura, with the literal 'nests' in the gloss. פַּרְפְּרָאוֹת is 'desserts' following Bartenura's image of the sweets eaten at the end of a meal, which continues the meal metaphor of the previous mishnah. The default Jastrow entry גּוּף I is the verb 'to squeeze'; the noun is jastrow:גּוּף II, sense 2 'essence'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:3:18:1",
+     "relation": "follows",
+     "summary": "Bartenura: the bird offerings are called קִנִּין, from 'a bird's nest' (קַן צִפּוֹר); they contain weighty laws, for example when an obligatory offering is mixed with a freewill one, or a burnt offering (whose rites are above) with a sin offering (whose rites are below)."
+    },
+    {
+     "anchor": "bartenura:3:18:2",
+     "relation": "follows",
+     "summary": "Bartenura: the laws of a menstruant woman who has lost her regular time and must keep watch until she returns to her 'opening'; sometimes she must immerse ninety-five times, according to the view that immersion at its proper time is a commandment."
+    },
+    {
+     "anchor": "bartenura:3:18:3",
+     "relation": "follows",
+     "summary": "Bartenura: these are the core of the Oral Torah, for which one receives reward."
+    },
+    {
+     "anchor": "bartenura:3:18:4",
+     "relation": "follows",
+     "summary": "Bartenura: תְּקוּפוֹת concerns the course of the constellations."
+    },
+    {
+     "anchor": "bartenura:3:18:5",
+     "relation": "follows",
+     "summary": "Bartenura: גִּימַטְרִיאוֹת is the counting of letters."
+    },
+    {
+     "anchor": "bartenura:3:18:6",
+     "relation": "follows",
+     "summary": "Bartenura: as the dessert eaten at the end of a meal for the sake of cleansing the palate and enjoyment, so these branches of wisdom bring honor to those who know them in the eyes of people."
+    }
+   ],
+   "apparatus": [
+    "Vilna spells קינין for קִנִּין and וגמטריאות for וְגִימַטְרִיאוֹת.",
+    "Rabbeinu Yonah (3:18:1) gives the name as רבי אלעזר חסמא (Rabbi Elazar Hisma), against the base text רַבִּי אֱלִיעֶזֶר בֶּן חִסְמָא, and glosses קִנִּים as the nests of doves of women who have given birth.",
+    "Rabbeinu Yonah (3:18:3) cites Bava Metzia 84b: sixty colors of blood were brought before him and he ruled all of them pure blood."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,379 @@
+{
+ "unit": "bereshit-11",
+ "model": "opus",
+ "summary": "The English of Genesis 3:16-21 is accurate and needs no change of sense; one style change (3:21 'tunics', not 'garments', for כֻּתֹּנֶת). The faults are in the apparatus: two pausal or ambiguous forms where the pack's parse is wrong went unremarked (מִמֶּנּוּ 3:17, לָךְ 3:18), and 3:21 departs from the pack's common-noun parse without saying so. Several commentary summaries misstate the comment (Ramban on 3:16, Ibn Ezra on הַרְבָּה, הֵרֹנֵךְ and חַוָּה, Rashi on קוֹץ וְדַרְדַּר), the 3:16 note gives Ibn Ezra a menstrual reading that is Sforno's, and several grammar notes are false (verbless clauses in 3:16, the stress of תַּצְמִיחַ, 'pausal' תָּשׁוּב).",
+ "patches": [
+  {
+   "ref": "3:16",
+   "path": "note",
+   "value": "תְּשׁוּקָה is kept as 'desire' because the commentators differ on its sense. Rashi reads it as sexual desire which she cannot ask for openly; Ibn Ezra as obedience (משמעתך). The English keeps the plain 'desire for your husband'. עִצְּבוֹנֵךְ is 'pain', the broad sense, with Rashi's 'pain of raising children' and Ibn Ezra's 'the time of affliction, when the virginal blood comes out' recorded rather than adopted.",
+   "severity": "error",
+   "reason": "Ibn Ezra's reading of עִצְּבוֹנֵךְ is בצאת דם בתולים, the virginal blood (defloration), not menstruation; the menstrual reading (דם הנדות) is Sforno's."
+  },
+  {
+   "ref": "3:16",
+   "path": "grammar",
+   "value": [
+    "הַרְבָּה אַרְבֶּה: the infinitive absolute before a finite verb of the same root strengthens it (Ibn Ezra: שם הפועל, the infinitive; Radak: it enlarges the matter).",
+    "עִצְּבוֹנֵךְ וְהֵרֹנֵךְ: two nouns with the same 2nd feminine singular suffix; the second has the conjunction and (Ibn Ezra) an added final nun.",
+    "The etnaḥta falls on בָנִים and divides the verse: the first half concerns childbearing, the second the relation to the husband.",
+    "The second half has two clauses: a verbless one (וְאֶל אִישֵׁךְ תְּשׁוּקָתֵךְ, the English supplies 'is') and a verbal one with the imperfect יִמְשָׁל; the pronoun וְהוּא, placed before the verb, sets the husband against the wife.",
+    "Wordplay: עִצָּבוֹן, עֶצֶב and later בְּעִצָּבוֹן (3:17) share one root, binding the woman's sentence to the man's."
+   ],
+   "severity": "error",
+   "reason": "The fourth note called 'he will rule over you' verbless or nearly verbless; it has the finite verb יִמְשָׁל. Only the first clause of the half-verse is verbless."
+  },
+  {
+   "ref": "3:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:16.1",
+      "3:16.2",
+      "3:16.3"
+     ],
+     "english": "To the woman he said",
+     "literal": "'to the-woman he-said'; the object is placed first, so the woman is addressed directly."
+    },
+    {
+     "tokens": [
+      "3:16.4",
+      "3:16.5"
+     ],
+     "english": "I will greatly multiply",
+     "literal": "'multiplying I-will-multiply'; infinitive absolute with finite verb, rendered by 'greatly'."
+    },
+    {
+     "tokens": [
+      "3:16.6",
+      "3:16.7"
+     ],
+     "english": "your pain and your pregnancy",
+     "literal": "'your-pain and-your-pregnancy'; the two nouns may be a pair or one idea (Rashi and Ibn Ezra take them as two)."
+    },
+    {
+     "tokens": [
+      "3:16.8",
+      "3:16.9",
+      "3:16.10"
+     ],
+     "english": "in pain you will bear children",
+     "literal": "'in-pain you-will-bear sons'; בָּנִים is 'children'. Rashi: this is the pain of giving birth (he puts the pain of raising children on עִצְּבוֹנֵךְ); Radak cites the raising of children on בָנִים."
+    },
+    {
+     "tokens": [
+      "3:16.11",
+      "3:16.12",
+      "3:16.13"
+     ],
+     "english": "Your desire is for your husband",
+     "literal": "'and-toward your-husband your-desire'; a verbless clause, the English supplies 'is'."
+    },
+    {
+     "tokens": [
+      "3:16.14",
+      "3:16.15",
+      "3:16.16"
+     ],
+     "english": "and he will rule over you",
+     "literal": "'and-he he-will-rule over-you'."
+    }
+   ],
+   "severity": "error",
+   "reason": "The third phrase credited Rashi with the pain of raising children on בְּעֶצֶב תֵּלְדִי בָנִים; Rashi reads that phrase as צער הלידה and puts צער גידול בנים on עִצְּבוֹנֵךְ."
+  },
+  {
+   "ref": "3:16",
+   "path": "token:3:16.13.note",
+   "value": "construct state of תְּשׁוּקָה with the 2nd feminine singular suffix; the clause has no verb ('is' is supplied).",
+   "severity": "error",
+   "reason": "The verse has verbs; it is this clause that is verbless."
+  },
+  {
+   "ref": "3:16",
+   "path": "token:3:16.5.note",
+   "value": "Hiphil imperfect, 1st person singular, of רבה: 'I will make many, increase'; with the infinitive absolute before it, 'I will greatly multiply'.",
+   "severity": "style",
+   "reason": "The old note ('the root רבה also underlies the idiom multiply') told the learner nothing."
+  },
+  {
+   "ref": "3:16",
+   "path": "commentary:ibn-ezra:3:16:1.summary",
+   "value": "Ibn Ezra: הַרְבָּה is the infinitive (שם הפועל).",
+   "severity": "error",
+   "reason": "Ibn Ezra says only שם הפועל; the intensifying function was added to his words (it is Radak's point, לְהַגְדִּיל הָעִנְיָן)."
+  },
+  {
+   "ref": "3:16",
+   "path": "commentary:ibn-ezra:3:16:3.summary",
+   "value": "Ibn Ezra: the nun of הֵרֹנֵךְ is an added letter (the noun is from הרה); pregnancy is heavy on a woman, and so is giving birth. The English reads 'pregnancy'.",
+   "severity": "error",
+   "reason": "The summary made the added nun the consequence of pregnancy's heaviness ('since'); Ibn Ezra makes two separate remarks: the nun is formative, and the word names the burden of pregnancy."
+  },
+  {
+   "ref": "3:16",
+   "path": "commentary:ramban:3:16:1.summary",
+   "value": "Ramban rejects Rashi's reading because not asking openly is a praiseworthy trait in a woman (Eruvin 100b), so it cannot be part of the curse; he rejects Ibn Ezra's 'obedience' because תְּשׁוּקָה only ever means longing and desire. His own reading: she will long greatly for her husband without regard to the pain of pregnancy and birth, and he will hold her like a maidservant, measure for measure, since she had commanded him to eat.",
+   "severity": "error",
+   "reason": "The old summary said Ramban finds Rashi's reading 'too favorable to the woman' and left out his lexical rejection of Ibn Ezra, which bears on the English 'desire'."
+  },
+  {
+   "ref": "3:17",
+   "path": "token:3:17.15.note",
+   "value": "מִן in its doubled form מִמֶּ- with the 3rd masculine singular suffix: 'from it', the tree. The pack parses the suffix as 1st common plural ('from us'), which is the same written form; the context requires the 3rd masculine singular.",
+   "severity": "error",
+   "reason": "The pack's parse (1st common plural) is wrong here; translate.md rule 2 requires the note to say so, and the old note ('energic nun') did not explain the form."
+  },
+  {
+   "ref": "3:17",
+   "path": "grammar",
+   "value": [
+    "The speech opens with a long כִּי clause giving the reason (you listened and ate); the verdict comes only at אֲרוּרָה, the first word after the etnaḥta, in a verbless clause with a passive participle.",
+    "The verdict mirrors 3:14: the serpent was told אָרוּר אַתָּה, but here ארור is said of the ground, not of the man himself.",
+    "שָׁמַעְתָּ לְקוֹל is 'obey': the man's fault is that he obeyed his wife rather than the command.",
+    "בְּעִצָּבוֹן תֹּאכְלֶנָּה: the suffix on the verb refers to the ground; by metonymy it means its produce (Ibn Ezra: תאכל תבואתה).",
+    "הָאֲדָמָה echoes אָדָם: the ground from which the man was taken is cursed for his sake."
+   ],
+   "severity": "error",
+   "reason": "Note 2 called the verdict 'the first clause'; note 3 claimed the man's fault is set 'in the same words as the woman's', which the text does not do (3:13 has 'the serpent deceived me')."
+  },
+  {
+   "ref": "3:18",
+   "path": "token:3:18.4.note",
+   "value": "לָךְ is the pausal form of לְךָ, 'for you' (masculine singular), under the etnaḥta: the man is addressed. The pack parses the suffix as 2nd feminine singular; in pause the two are written alike, and the context requires the masculine. 'For you' is to the man's disadvantage.",
+   "severity": "error",
+   "reason": "The pack's parse (2nd feminine) is wrong for this pausal form addressed to the man; rule 2 requires the note to say so, and a learner needs the pausal form explained."
+  },
+  {
+   "ref": "3:18",
+   "path": "grammar",
+   "value": [
+    "The object (קוֹץ וְדַרְדַּר) is fronted before the verb, and the subject (the ground) is not named; it is the feminine of תַּצְמִיחַ.",
+    "תַּצְמִיחַ, Hiphil imperfect of צמח: the main accent (munaḥ) is on מִי, the final syllable, since the furtive pataḥ under ח makes no syllable; the gaʿya (meteg) on the ח is a secondary mark, not the word's stress.",
+    "The etnaḥta on לָךְ divides the verse: the curse (thorns) and then the resulting food (plants of the field). לָךְ is the pausal form of לְךָ.",
+    "וְאָכַלְתָּ is a weqatal: a future continuing the preceding imperfect.",
+    "עֵשֶׂב in the construct state is followed by הַשָּׂדֶה: 'plants of the field', contrasted with the fruit of the garden trees."
+   ],
+   "severity": "error",
+   "reason": "Note 2 put the stress of תַּצְמִיחַ on the penultimate and called the gaʿya 'a bar'; the stress is on the final syllable מִי, where the munaḥ stands."
+  },
+  {
+   "ref": "3:18",
+   "path": "commentary:rashi:3:18:1.summary",
+   "value": "Rashi: when you sow seeds of various kinds, the earth will sprout thorn and thistle, that is artichoke (קֻנְדָּס) and cardoon (עַכָּבִיּוֹת), which are eaten once prepared.",
+   "severity": "error",
+   "reason": "עַכָּבִיּוֹת is a named plant (cardoon), not 'wild varieties'."
+  },
+  {
+   "ref": "3:19",
+   "path": "token:3:19.17.note",
+   "value": "Qal imperfect, 2nd masculine singular, of שׁוּב, under the silluq (the form is the same out of pause); the same verb as שׁוּבְךָ earlier in the verse, so the verse ends where it began, with the return to the earth.",
+   "severity": "error",
+   "reason": "תָּשׁוּב is not a distinct pausal form; the old note told the learner it was."
+  },
+  {
+   "ref": "3:20",
+   "path": "token:3:20.7.note",
+   "value": "the independent pronoun 'she'. In the Torah the feminine pronoun is usually written with the letters of 'he' (הוא) and pointed הִוא to be read hi; MAM prints it so here.",
+   "severity": "error",
+   "reason": "The old note ('written הִוא, as in the Torah where it is also used for he') was garbled: the letters הוא are shared with 'he', the pointing marks the feminine."
+  },
+  {
+   "ref": "3:20",
+   "path": "grammar",
+   "value": [
+    "The verse connects the name חַוָּה with the root חיה: she was אֵם כָּל חָי. The meaning is given in the verse and not in the English line.",
+    "Ibn Ezra: ו and י interchange (as in הוֹיָה, Exodus 9:3, and הֹוֶה, Nehemiah 6:6), so the name is a form of חַיָּה; it is not written with י, for then there would be no difference between her name and the name of the animals.",
+    "The tevir on הָאָדָם marks a pause after the subject, the darga on וַיִּקְרָא preparing it; the etnaḥta on חַוָּה separates the name from the reason.",
+    "The pronoun הִוא with the perfect הָיְתָה states the reason with emphasis: 'she, she was'.",
+    "חָי as a collective noun without the article."
+   ],
+   "severity": "error",
+   "reason": "Note 2 cited Exodus 9:3 as הֹוָה; the form there is הוֹיָה."
+  },
+  {
+   "ref": "3:20",
+   "path": "commentary:ibn-ezra:3:20:1.summary",
+   "value": "Ibn Ezra: ו and י interchange, as in הוֹיָה (Exodus 9:3) and הֹוֶה (Nehemiah 6:6). The name was not written with י, for then there would be no difference between her name and the name of the animals (חַיּוֹת).",
+   "severity": "error",
+   "reason": "The old summary gave Ibn Ezra's reason as a statement ('since there is a difference'); he argues that with a yod there would be no difference. It also misquoted Exodus 9:3."
+  },
+  {
+   "ref": "3:21",
+   "path": "english",
+   "value": "The LORD God made tunics of skin for Adam and for his wife, and clothed them.",
+   "severity": "style",
+   "reason": "כֻּתֹּנֶת is a specific garment, the tunic (the pack's lexicon and the literal line say so); 'garments' is vaguer than the Hebrew."
+  },
+  {
+   "ref": "3:21",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:21.1",
+      "3:21.2",
+      "3:21.3"
+     ],
+     "english": "The LORD God made",
+     "literal": "'and-made the-LORD God'."
+    },
+    {
+     "tokens": [
+      "3:21.4",
+      "3:21.5"
+     ],
+     "english": "for Adam and for his wife",
+     "literal": "'for-Adam and-for-his-wife'."
+    },
+    {
+     "tokens": [
+      "3:21.6",
+      "3:21.7"
+     ],
+     "english": "tunics of skin",
+     "literal": "'tunics-of skin'; Rashi and Ibn Ezra differ on what these were."
+    },
+    {
+     "tokens": [
+      "3:21.8"
+     ],
+     "english": "and clothed them",
+     "literal": "'and-clothed-them'."
+    }
+   ],
+   "severity": "style",
+   "reason": "Follows the English change to 'tunics of skin'."
+  },
+  {
+   "ref": "3:21",
+   "path": "token:3:21.6.gloss",
+   "value": "tunics of",
+   "severity": "style",
+   "reason": "Follows the English change."
+  },
+  {
+   "ref": "3:21",
+   "path": "note",
+   "value": "כָּתְנוֹת עוֹר is rendered 'tunics of skin'; Rashi's alternative, something that comes from the skin (soft, warm hare's wool), is recorded, and the English does not choose between them. Ibn Ezra's own conclusion is that we need only believe that God made them.",
+   "severity": "style",
+   "reason": "Follows the English change; 'a variant' wrongly suggested a textual variant."
+  },
+  {
+   "ref": "3:21",
+   "path": "token:3:21.4.note",
+   "value": "לְאָדָם without the article. The pack parses אָדָם here as a common noun, not a proper name; the English gives 'Adam' as in 3:17, following decisions.md for the unarticled form, and the common-noun reading 'for the man' is possible.",
+   "severity": "error",
+   "reason": "The English departs from the pack's parse (common noun), and rule 2 of translate.md requires the note to say so; the old note did not."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:3:16:1",
+   "verdict": "consistent",
+   "comment": "'Pain' is general and covers Rashi's pain of raising children."
+  },
+  {
+   "anchor": "rashi:3:16:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:16:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:16:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:16:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:16:2",
+   "verdict": "consistent",
+   "comment": "'Pain' is general and does not exclude his reading."
+  },
+  {
+   "anchor": "ibn-ezra:3:16:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:16:4",
+   "verdict": "contradicts",
+   "comment": "Rashi and Ibn Ezra differ here; the English follows Rashi's 'desire' (supported by Radak and Ramban's lexical argument) and records Ibn Ezra's 'obedience', as translate.md rule 3 allows."
+  },
+  {
+   "anchor": "rashi:3:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:17:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:18:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:18:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:18:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:18:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:18:3",
+   "verdict": "consistent",
+   "comment": "'Plants of the field' does not exclude his 'bread'."
+  },
+  {
+   "anchor": "rashi:3:19:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:19:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:3:20:1",
+   "verdict": "not-applicable",
+   "comment": "Homiletic link to the naming in 2:19-20."
+  },
+  {
+   "anchor": "rashi:3:20:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:20:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:20:2",
+   "verdict": "consistent",
+   "comment": "'All the living' admits his 'human beings'; the restriction is in the note."
+  },
+  {
+   "anchor": "rashi:3:21:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:3:21:1",
+   "verdict": "consistent"
+  }
+ ]
+}

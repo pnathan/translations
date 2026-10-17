@@ -1,0 +1,270 @@
+{
+ "unit": "bereshit-03",
+ "model": "opus",
+ "summary": "A sound unit: the English of 1:15-1:19 is correct and most glosses and senses fit. The main fault is 1:14, where 'let them be signs and appointed times, and days and years' drops the ל of purpose that Ibn Ezra insists on, and the quotation closes a verse too early. Several learner notes are wrong (מָאוֹר called feminine, the tevir and the meteg misdescribed, a garbled ל note), two Ibn Ezra summaries misreport him, and one sense was filled mechanically.",
+ "patches": [
+  {
+   "ref": "1:14",
+   "path": "english",
+   "value": "God said, \"Let there be lights in the expanse of the sky to separate the day from the night, and let them be for signs and for appointed times, and for days and years,",
+   "severity": "error",
+   "reason": "The ל of לְאֹתֹת, וּלְמוֹעֲדִים, וּלְיָמִים marks purpose: the lights are not themselves days and years, they serve for them. Ibn Ezra (normative) says outright that whoever calls the ל of לְאֹתֹת superfluous 'has said nothing'; 'let them be signs ... and days and years' treats it as superfluous. The speech also runs on into 1:15 (וְהָיוּ לִמְאוֹרֹת ... לְהָאִיר עַל־הָאָרֶץ), so the quotation cannot close here."
+  },
+  {
+   "ref": "1:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:14.1",
+      "1:14.2"
+     ],
+     "english": "God said",
+     "literal": "'and-said God'"
+    },
+    {
+     "tokens": [
+      "1:14.3",
+      "1:14.4"
+     ],
+     "english": "Let there be lights",
+     "literal": "'let-be luminaries'; jussive of command"
+    },
+    {
+     "tokens": [
+      "1:14.5",
+      "1:14.6"
+     ],
+     "english": "in the expanse of the sky",
+     "literal": "'in-expanse-of the-heavens'"
+    },
+    {
+     "tokens": [
+      "1:14.7",
+      "1:14.8",
+      "1:14.9",
+      "1:14.10",
+      "1:14.11"
+     ],
+     "english": "to separate the day from the night",
+     "literal": "'to-separate between the-day and-between the-night'; 'between...and between' is rendered 'from'"
+    },
+    {
+     "tokens": [
+      "1:14.12",
+      "1:14.13"
+     ],
+     "english": "and let them be for signs",
+     "literal": "'and-they-shall-be for-signs'; the ל marks purpose, and Ibn Ezra rejects the view that it is superfluous"
+    },
+    {
+     "tokens": [
+      "1:14.14"
+     ],
+     "english": "and for appointed times",
+     "literal": "'and-for-appointed-times'"
+    },
+    {
+     "tokens": [
+      "1:14.15"
+     ],
+     "english": "and for days",
+     "literal": "'and-for-days'"
+    },
+    {
+     "tokens": [
+      "1:14.16"
+     ],
+     "english": "and years",
+     "literal": "'and-years'; no ל of its own, it shares the ל of וּלְיָמִים"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments; the literal of 1:14.12-13 called the ל a predicate marker, against Ibn Ezra."
+  },
+  {
+   "ref": "1:14",
+   "path": "grammar",
+   "value": [
+    "יְהִי is singular before the plural מְאֹרֹת; Ibn Ezra notes that the verb 'to be' often does not agree in number or gender (cf. Deut 22:23 כִּי יִהְיֶה נַעֲרָה).",
+    "לְהַבְדִּיל is an infinitive of purpose; the pashta on מְאֹרֹת and the zaqef on הַשָּׁמַיִם set off 'lights in the expanse' from the purpose clause.",
+    "The etnaḥta on הַלָּיְלָה divides the verse: purpose of separation, then the further functions after it.",
+    "וְהָיוּ is a weqatal continuing the jussive, so it is also a wish-command: 'and let them be'.",
+    "Three of the four nouns carry ל of purpose (לְאֹתֹת, וּלְמוֹעֲדִים, וּלְיָמִים); וְשָׁנִים has none and shares the ל of וּלְיָמִים. Ibn Ezra rejects the view that the ל of לְאֹתֹת is superfluous."
+   ],
+   "severity": "error",
+   "reason": "The last note was wrong: the ל is written on three of the four nouns, so it is not a question of one ל 'governing all four', and no commentator in the pack debates that."
+  },
+  {
+   "ref": "1:14",
+   "path": "note",
+   "value": "מְאֹרֹת is written without vav; Rashi hears מְאֵרָה 'curse' in it, which is homiletic and not adopted. 'Appointed times' follows Rashi's reading of the festivals. Ibn Ezra glosses לְאֹתֹת as moments (רגעים) and מוֹעֲדִים as hours (שעות), or else takes the signs as portents (eclipses of moon and sun); kept in the notes.",
+   "severity": "error",
+   "reason": "Ibn Ezra glosses signs as 'moments' and appointed times as 'hours'; the note made 'signs and times' into 'portents and hours'."
+  },
+  {
+   "ref": "1:14",
+   "path": "token:1:14.13.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 (sign, pledge, token) is the mechanical first sense. The translator follows Rashi, for whom the signs are omens (eclipses as a bad sign, Jer 10:2), and Ibn Ezra's second reading is portents: sense 2 'signs, omens'."
+  },
+  {
+   "ref": "1:14",
+   "path": "commentary:rashi:1:14:2.relation",
+   "value": "not-applicable",
+   "severity": "error",
+   "reason": "Rashi's comment is a homily on the defective spelling (מארת / מְאֵרָה, the fast against diphtheria); it is not an alternative rendering of the words, so 'records' does not fit. The translator's own note calls it homiletic and not adopted."
+  },
+  {
+   "ref": "1:14",
+   "path": "commentary:ibn-ezra:1:14:2.summary",
+   "value": "Ibn Ezra: לְאֹתֹת are moments (רגעים) and מוֹעֲדִים are hours (שעות); or the signs may be portents: eclipses of moon and sun and the changing appearance of the stars, as in 'be not dismayed at the signs of the heavens' (Jer 10:2). Whoever says the ל of לְאֹתֹת is superfluous 'has said nothing'.",
+   "severity": "error",
+   "reason": "The summary garbled the glosses ('for signs, moments and seasons, that is, hours'): Ibn Ezra gives רגעים for אותות and שעות for מועדים."
+  },
+  {
+   "ref": "1:15",
+   "path": "english",
+   "value": "and let them be lights in the expanse of the sky to give light on the earth.\" And it was so.",
+   "severity": "error",
+   "reason": "God's speech, opened in 1:14, ends with לְהָאִיר עַל־הָאָרֶץ at the etnaḥta; the closing quotation mark belongs here, before the fulfilment formula."
+  },
+  {
+   "ref": "1:16",
+   "path": "note",
+   "value": "הַמְּאֹרֹת הַגְּדֹלִים is 'great' relative to the stars, as Ibn Ezra and Radak say (they are not great in body but in light). מָאוֹר is a masculine noun with a plural in -ot, so its adjective takes the masculine plural הַגְּדֹלִים.",
+   "severity": "error",
+   "reason": "The pack parses מָאוֹר as masculine (BDB n.m.); it is not a feminine plural noun. The -ot ending does not make it feminine."
+  },
+  {
+   "ref": "1:16",
+   "path": "commentary:ibn-ezra:1:16:2.summary",
+   "value": "Ibn Ezra: 'the rule of the day' is the sun's rule by day and not by night, and the light of the moon and stars is not seen by day. If one objects that the astronomers hold Jupiter and every star except Mercury and Venus to be larger than the moon, the answer is that 'great' refers to their light, not their bodies; the moon's light is many times that of the stars because she is near the earth, and so the text says מָאוֹר.",
+   "severity": "error",
+   "reason": "כפלי כפלים is 'many times over', not 'doubled'; and the summary dropped the objection from the astronomers that the answer replies to."
+  },
+  {
+   "ref": "1:16",
+   "path": "apparatus",
+   "value": [
+    "Onkelos: וְיָת נְהוֹרָא רַבָּא לְמִשְׁלַט בִּימָמָא; it renders the noun לְמֶמְשֶׁלֶת 'for the rule of' by the infinitive לְמִשְׁלַט 'to rule', as the English does."
+   ],
+   "severity": "error",
+   "reason": "The apparatus said Onkelos keeps the Hebrew's nouns; he turns the noun מֶמְשֶׁלֶת into the infinitive לְמִשְׁלַט."
+  },
+  {
+   "ref": "1:17",
+   "path": "grammar",
+   "value": [
+    "אֹתָם is the object marker with a pronoun suffix: 'them'; it stands before the subject אֱלֹהִים.",
+    "נָתַן here is 'set, place', not 'give'; Ibn Ezra cites Gen 9:13.",
+    "The etnaḥta on הַשָּׁמָיִם divides the verse in two: the placing, then its purpose 'to give light on the earth'. The tevir on אֹתָם is a lesser pause inside the first half."
+   ],
+   "severity": "error",
+   "reason": "The tevir does not mark one of the verse's two parts: it is a minor disjunctive within the first half; the etnaḥta alone divides the verse."
+  },
+  {
+   "ref": "1:17",
+   "path": "commentary:radak:1:17:1.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "The English 'God set them in the expanse' adopts Radak's reading of וַיִּתֵּן as placing them in the expanse; 'records' means the English does not adopt it."
+  },
+  {
+   "ref": "1:18",
+   "path": "grammar",
+   "value": [
+    "The two infinitives, 'to rule' and 'to separate', continue the purpose of verse 17.",
+    "בַּיּוֹם has the article fused into the preposition בַּ.",
+    "MAM writes וּֽלְהַבְדִּיל with shewa under the ל and a meteg (ga'ya) on the וּ; WLC, and Ramban's lemma, have ḥataf pataḥ: וּלֲהַבְדִּיל. The sense is the same.",
+    "הָאוֹר and הַחֹשֶׁךְ are the 'light' and 'darkness' of day one: whether these refer to day and night, or to light and dark as such, is discussed by the commentators.",
+    "The etnaḥta on הַחֹשֶׁךְ divides the verse before the evaluation, 'God saw that it was good'."
+   ],
+   "severity": "error",
+   "reason": "The third note ('takes the vocalization of an unstressed ל after וּ with a secondary stress mark') is not a true description: the mark ֽ is a meteg on the וּ, and the variant is shewa against ḥataf pataḥ under the ל."
+  },
+  {
+   "ref": "1:18",
+   "path": "note",
+   "value": "The light/darkness of the separation echoes verses 4 and 5. Ramban takes אוֹר and חֹשֶׁךְ as the names of day and night (v. 5); Ibn Ezra defines the day as sunrise to sunset and the night from the appearance of the stars, and says the sun's light by day and the moon's by night are what separate the light from the darkness. The English keeps the plain 'the light from the darkness'.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not take אוֹר and חֹשֶׁךְ as the light of sun and moon: in his comment the sun's and moon's light are the agents of the separation, not its two terms."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:1:14:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:1:14:2",
+   "verdict": "not-applicable",
+   "comment": "homily on the defective spelling; the English is unaffected"
+  },
+  {
+   "anchor": "rashi:1:14:3",
+   "verdict": "not-applicable",
+   "comment": "cosmic history of the first light"
+  },
+  {
+   "anchor": "rashi:1:14:4",
+   "verdict": "consistent",
+   "comment": "'signs' as omens; token sense patched to 2"
+  },
+  {
+   "anchor": "rashi:1:14:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:14:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:14:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:14:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:14:2",
+   "verdict": "contradicts",
+   "comment": "the English 'be signs ... days and years' treated the ל as superfluous; patched to 'be for signs and for appointed times, and for days and years'"
+  },
+  {
+   "anchor": "ibn-ezra:1:14:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:15:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:16:1",
+   "verdict": "consistent",
+   "comment": "recorded as an alternative account of 'two great lights'"
+  },
+  {
+   "anchor": "rashi:1:16:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:1:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:16:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:18:1",
+   "verdict": "consistent"
+  }
+ ]
+}

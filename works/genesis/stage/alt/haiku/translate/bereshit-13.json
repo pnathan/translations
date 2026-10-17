@@ -1,0 +1,329 @@
+{
+  "unit": "bereshit-13",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "4:6",
+      "english": "Then the LORD said to Cain, “Why are you angry, and why has your face fallen?”",
+      "literal": "and-said the-LORD to Cain for-what has-burned to-you and-for-what have-fallen faces-your",
+      "tokens": [
+        {"id": "4:6.1", "gloss": "then said", "sense": "Qal 1", "note": "Wayyiqtol, the narrative past of אָמַר. The ו is rendered by 'then'."},
+        {"id": "4:6.2", "gloss": "the LORD", "note": "יְהֹוָה, rendered by the divine-name decision."},
+        {"id": "4:6.3", "gloss": "to", "sense": "1"},
+        {"id": "4:6.4", "gloss": "Cain"},
+        {"id": "4:6.5", "gloss": "why", "sense": "1", "note": "לְ with מָה, 'for what?', is the question 'why'."},
+        {"id": "4:6.6", "gloss": "are angry", "sense": "Niph", "note": "The parse is qal perfect. The pack's entry gives 'be angry' under Niph and no Qal sense, so the sense is cited there. The perfect describes a state that now holds."},
+        {"id": "4:6.7", "gloss": "to you", "note": "The data reads the suffix as feminine (לָךְ) though Cain is a man. The data is kept; the English says 'you'."},
+        {"id": "4:6.8", "gloss": "and why", "sense": "1", "note": "The second question, joined by ו."},
+        {"id": "4:6.9", "gloss": "has fallen", "sense": "Qal 1", "note": "Qatal, 3 plural, agreeing with the plural subject פָּנִים 'faces'."},
+        {"id": "4:6.10", "gloss": "your face", "sense": "I.1", "note": "Plural 'faces' is the idiom for the countenance. The English uses the singular."}
+      ],
+      "phrases": [
+        {"tokens": ["4:6.1", "4:6.2"], "english": "Then the LORD said", "literal": "and-said the-LORD; the ו is rendered by 'then'"},
+        {"tokens": ["4:6.3", "4:6.4"], "english": "to Cain", "literal": "to Cain"},
+        {"tokens": ["4:6.5", "4:6.6", "4:6.7"], "english": "Why are you angry", "literal": "for-what has-burned to-you; a question about a present state, the perfect read as a state"},
+        {"tokens": ["4:6.8", "4:6.9", "4:6.10"], "english": "and why has your face fallen", "literal": "and-for-what have-fallen faces-your; the second question repeats the first with ו"}
+      ],
+      "grammar": [
+        "לָמָּה חָרָה לָךְ and וְלָמָּה נָפְלוּ פָנֶיךָ are two parallel questions, each opening with לָמָּה ('for what', so 'why'). The second is joined by ו.",
+        "The perfects חָרָה and נָפְלוּ describe states that now hold, so the English uses the present ('are angry') and the present perfect ('has fallen').",
+        "נָפְלוּ is plural, agreeing with the plural noun פָּנִים. English uses the singular 'face' for the countenance.",
+        "The etnaḥta on קָיִן (4:6.4) ends the report of the LORD's speech. The yetiv on לָמָּה (4:6.5) opens the question, and the silluq on פָנֶיךָ closes the verse."
+      ],
+      "commentary": [
+        {"anchor": "sforno:4:6:1", "relation": "records", "summary": "Sforno reads the anger as envy: Cain grieved that his offering was accepted, and the LORD's words rebuke that envy. The English does not adopt the envy; it keeps the question as asked."},
+        {"anchor": "radak:4:6:1", "relation": "not-applicable", "summary": "Radak: the LORD's speech is to instruct Cain and set him back on the way of repentance. This is the purpose of the speech, not its plain sense."}
+      ],
+      "apparatus": [
+        "The suffix of לָךְ (4:6.7) is pointed feminine in the data, though the addressee is a man. The English is unaffected."
+      ]
+    },
+    {
+      "ref": "4:7",
+      "english": "Will you not be lifted up if you do well? But if you do not do well, sin crouches at the door; its desire is for you, yet you can rule over it.",
+      "literal": "is-it-not if you-will-do-well lifting-up; and-if not you-will-do-well to-the-door sin crouching; toward-you its-desire; and-you you-will-rule over-it",
+      "tokens": [
+        {"id": "4:7.1", "gloss": "is it not", "note": "הֲ with לֹא: a question that expects the answer yes. The English 'Will you not...?' carries this."},
+        {"id": "4:7.2", "gloss": "if", "sense": "1"},
+        {"id": "4:7.3", "gloss": "you do well", "sense": "Hithp 2", "note": "The parse is hifil imperfect. The pack's entry lists no Hiph sense; 'do good, deal well' is cited under Hithp 2."},
+        {"id": "4:7.4", "gloss": "lifting up", "note": "שְׂאֵת, the noun of נָשָׂא. The object of the lifting is not stated. Rashi and Onkelos take it as 'lifting of sin' (pardon); Ibn Ezra takes it as 'lifting of the face' (honour). The English follows Ibn Ezra and records the other."},
+        {"id": "4:7.5", "gloss": "but if", "sense": "1", "note": "The ו marks the contrast with the first clause."},
+        {"id": "4:7.6", "gloss": "not"},
+        {"id": "4:7.7", "gloss": "do well", "sense": "Hithp 2"},
+        {"id": "4:7.8", "gloss": "at the door"},
+        {"id": "4:7.9", "gloss": "sin", "sense": "1", "note": "A feminine noun, followed by a masculine participle (Radak)."},
+        {"id": "4:7.10", "gloss": "crouches", "sense": "Qal", "note": "Masculine participle of רָבַץ, 'lie down, lie stretched out'. It gives the posture of the thing at the door. Its subject is the sin, or the evil inclination personified (Rashi, Radak)."},
+        {"id": "4:7.11", "gloss": "toward you", "sense": "3"},
+        {"id": "4:7.12", "gloss": "its desire", "note": "תְּשׁוּקָה, 'desire, longing'. The suffix is masculine (תְּשׁוּקָתוֹ), so the referent is the masculine crouching thing, which Rashi identifies with the evil inclination. The English 'its' keeps the reference open."},
+        {"id": "4:7.13", "gloss": "yet you", "note": "The independent pronoun is emphatic: 'you, for your part', set against the crouching thing."},
+        {"id": "4:7.14", "gloss": "can rule", "sense": "Qal 1", "note": "Imperfect of מָשַׁל. 'Can' reads the permission that the commentators give (Rashi: 'if you will')."},
+        {"id": "4:7.15", "gloss": "over it", "note": "The suffix is masculine, referring to the same thing as 4:7.12."}
+      ],
+      "phrases": [
+        {"tokens": ["4:7.1", "4:7.2", "4:7.3", "4:7.4"], "english": "Will you not be lifted up if you do well", "literal": "is-it-not if you-will-do-well lifting-up; a rhetorical question that expects yes"},
+        {"tokens": ["4:7.5", "4:7.6", "4:7.7"], "english": "But if you do not do well", "literal": "and-if not you-will-do-well; the ו marks the contrast"},
+        {"tokens": ["4:7.8", "4:7.9", "4:7.10"], "english": "sin crouches at the door", "literal": "to-the-door sin crouching; the Hebrew puts the door first"},
+        {"tokens": ["4:7.11", "4:7.12"], "english": "its desire is for you", "literal": "toward-you its-desire; the preposition comes before its noun"},
+        {"tokens": ["4:7.13", "4:7.14", "4:7.15"], "english": "yet you can rule over it", "literal": "and-you you-will-rule over-it"}
+      ],
+      "grammar": [
+        "הֲלוֹא ... אִם תֵּיטִיב ... is a question that expects yes. The two conditions, אִם תֵּיטִיב and וְאִם לֹא תֵיטִיב, each open a clause.",
+        "The accents divide the verse at שְׂאֵת (zaqef qaton, 4:7.4) and at רֹבֵץ (etnaḥta, 4:7.10). The three parts are the question with its condition, the warning, and the statement of mastery.",
+        "The participle רֹבֵץ is masculine, and Radak notes that the feminine noun חַטָּאת is here construed as masculine. The suffix of בּוֹ (4:7.15) is masculine for the same reason.",
+        "The independent pronoun וְאַתָּה (4:7.13) carries the contrast: the LORD tells Cain that the mastery is his, not the sin's."
+      ],
+      "note": "The verse has three clauses: a question with its condition, a warning, and a statement of mastery. The commentators differ on שְׂאֵת and on the referent of its suffixes, and the English records each choice.",
+      "commentary": [
+        {"anchor": "rashi:4:7:1", "relation": "records", "summary": "Rashi says the verse is to be explained as its Targum (Onkelos). Ramban reports that Onkelos, Rashi and Radak read שְׂאֵת עֲוֹנְךָ, the lifting of your sin, which is pardon. The English takes Ibn Ezra's reading and records this one."},
+        {"anchor": "ibn-ezra:4:7:1", "relation": "follows", "summary": "Ibn Ezra rejects the 'lifting of sin' reading and takes שְׂאֵת פָּנִים, the lifting of the face. The face that fell in 4:6 is lifted again, as in the idiom 'how shall I lift my face' that he quotes. The English follows him with 'lifted up'."},
+        {"anchor": "ramban:4:7:1", "relation": "records", "summary": "Ramban lists three readings: the lifting of sin (Onkelos, Rashi, Radak), the lifting of the face (Ibn Ezra), and his own reading, that the firstborn has the excess (יֶתֶר שְׂאֵת) over his brother. The English keeps the noun open."},
+        {"anchor": "rashi:4:7:2", "relation": "records", "summary": "Rashi reads לַפֶּתַח as the door of the grave: 'at the door of your grave your sin is kept' (לְפֶתַח קִבְרְךָ חֶטְאֲךָ שָׁמוּר). The English keeps 'at the door' and does not adopt the grave."},
+        {"anchor": "ibn-ezra:4:7:2", "relation": "follows", "summary": "Ibn Ezra takes sin as the subject of 'crouches', lying close to the door, and says the inclination of the human heart lies with it. He records the readings 'at the door of the grave', 'at the door of your house' and 'at the door of the mouth'. The English follows the plain reading."},
+        {"anchor": "rashi:4:7:3", "relation": "follows", "summary": "Rashi: the longing of the sin is the evil inclination, always craving to make you stumble. The English takes the desire as the sin's and does not add the purpose, which the words do not state."},
+        {"anchor": "ibn-ezra:4:7:3", "relation": "records", "summary": "Ibn Ezra: 'for you' means the inclination will return to your command if you will it, and you have the power to rule it. The English keeps 'its desire is for you' open and does not adopt this sense."},
+        {"anchor": "rashi:4:7:4", "relation": "follows", "summary": "Rashi: if you will, you can overpower it (תִּתְגַּבֵּר עָלָיו). The English follows this: 'you can rule over it'."}
+      ],
+      "apparatus": [
+        "שְׂאֵת (4:7.4): 'lifting of the face' (Ibn Ezra, followed) or 'lifting of sin' (Onkelos, Rashi, Radak, recorded).",
+        "רֹבֵץ (4:7.10): the subject is sin (followed) or the evil inclination personified (Rashi, Radak, recorded).",
+        "תְּשׁוּקָתוֹ (4:7.12): the longing is to make you stumble (Rashi, Radak) or to return to obedience (Ibn Ezra, recorded)."
+      ]
+    },
+    {
+      "ref": "4:8",
+      "english": "Cain said to Abel his brother. When they were in the field, Cain rose up against Abel his brother and killed him.",
+      "literal": "and-said Cain to Abel his-brother; and-it-came-about in-their-being in-the-field; and-rose-up Cain against Abel his-brother and-killed-him",
+      "tokens": [
+        {"id": "4:8.1", "gloss": "said", "sense": "Qal 1", "note": "No words follow in the Hebrew. The speech is not quoted, and the English keeps that gap."},
+        {"id": "4:8.2", "gloss": "Cain"},
+        {"id": "4:8.3", "gloss": "to", "sense": "1"},
+        {"id": "4:8.4", "gloss": "Abel"},
+        {"id": "4:8.5", "gloss": "his brother", "sense": "1"},
+        {"id": "4:8.6", "gloss": "it came about", "sense": "Qal I.2.a.(1)", "note": "Wayyiqtol of הָיָה, 'it came to pass'. It opens a temporal clause."},
+        {"id": "4:8.7", "gloss": "while they were", "sense": "Qal III.3", "note": "Infinitive construct with בְּ, 'in their being'. Qal III.3 is 'be in, at a place'."},
+        {"id": "4:8.8", "gloss": "in the field", "sense": "1"},
+        {"id": "4:8.9", "gloss": "then rose up", "sense": "Qal 1"},
+        {"id": "4:8.10", "gloss": "Cain"},
+        {"id": "4:8.11", "gloss": "against", "sense": "4", "note": "אֶל after a verb of rising is hostile: 'rose up against'. Sforno cites Deut 19:11."},
+        {"id": "4:8.12", "gloss": "Abel"},
+        {"id": "4:8.13", "gloss": "his brother", "sense": "1"},
+        {"id": "4:8.14", "gloss": "and killed him", "sense": "Qal 1.a", "note": "The text does not say how. Ibn Ezra asks and answers that Cain strangled him (see the commentary)."}
+      ],
+      "phrases": [
+        {"tokens": ["4:8.1", "4:8.2", "4:8.3", "4:8.4", "4:8.5"], "english": "Cain said to Abel his brother", "literal": "and-said Cain to Abel his-brother; no quotation follows"},
+        {"tokens": ["4:8.6", "4:8.7", "4:8.8"], "english": "When they were in the field", "literal": "and-it-came-about in-their-being in-the-field; a temporal clause"},
+        {"tokens": ["4:8.9", "4:8.10", "4:8.11", "4:8.12", "4:8.13", "4:8.14"], "english": "Cain rose up against Abel his brother and killed him", "literal": "and-rose-up Cain against Abel his-brother and-killed-him"}
+      ],
+      "grammar": [
+        "The verb וַיֹּאמֶר has no quoted speech after it. The Hebrew names the speaker and the addressee and gives no words, so the English says only 'said to Abel his brother'.",
+        "וַיְהִי בִּהְיוֹתָם בַּשָּׂדֶה is a wayyiqtol followed by an infinitive construct with בְּ. It forms a temporal clause, 'when they were in the field'.",
+        "After the verb 'rise', the preposition אֶל marks hostility, so the English is 'rose up against'. Sforno compares Deut 19:11, where the same verb describes an ambush.",
+        "The accents divide the verse in three. The etnaḥta on אָחִיו (4:8.5) ends the first clause, the zaqef qaton on בַּשָּׂדֶה (4:8.8) ends the second, and the silluq on וַיַּהַרְגֵֽהוּ ends the third."
+      ],
+      "note": "The Hebrew gives the motive and the means of the killing as blanks. The commentators fill them, and the English leaves both blank.",
+      "commentary": [
+        {"anchor": "rashi:4:8:1", "relation": "records", "summary": "Rashi reads the bare 'said' as a dispute: Cain entered into conversation with Abel in words of strife and pretext, to pick a quarrel and kill him. He calls this the plain sense (ישובו של מקרא). The English gives only what the words state, so the reading is recorded."},
+        {"anchor": "ibn-ezra:4:8:1", "relation": "records", "summary": "Ibn Ezra: the nearer reading is that Cain said to Abel all the rebukes with which the LORD had reproved him. He asks how Cain killed him without a sword and answers that he strangled him. The English supplies neither the speech nor the means."},
+        {"anchor": "ramban:4:8:2", "relation": "records", "summary": "Ramban joins 'and he said' to 'when they were in the field': Cain said 'let us go out to the field' and killed him there in secret. The English does not supply these words."},
+        {"anchor": "sforno:4:8:5", "relation": "follows", "summary": "Sforno: 'rose up' comes with no quarrel just before it, as in 'he lies in wait for him and rises against him' (Deut 19:11). The English 'rose up against' has this sense of attack."}
+      ],
+      "apparatus": [
+        "The content of Cain's speech is not given: a pretext (Rashi), the LORD's rebukes (Ibn Ezra), a call to go to the field (Ramban).",
+        "The means of the killing is not given: strangling (Ibn Ezra), or a stone or similar (Radak, on 4:12)."
+      ]
+    },
+    {
+      "ref": "4:9",
+      "english": "Then the LORD said to Cain, “Where is Abel your brother?” He said, “I do not know. Am I my brother’s keeper?”",
+      "literal": "and-said the-LORD to Cain where Abel your-brother; and-said not I-know; is-keeper of my-brother I",
+      "tokens": [
+        {"id": "4:9.1", "gloss": "then said", "sense": "Qal 1"},
+        {"id": "4:9.2", "gloss": "the LORD"},
+        {"id": "4:9.3", "gloss": "to", "sense": "1"},
+        {"id": "4:9.4", "gloss": "Cain"},
+        {"id": "4:9.5", "gloss": "where", "sense": "1", "note": "A short form of אַיֵּה, 'where?'. Ibn Ezra: אֵי is like אַיֵּה."},
+        {"id": "4:9.6", "gloss": "Abel"},
+        {"id": "4:9.7", "gloss": "your brother", "sense": "1"},
+        {"id": "4:9.8", "gloss": "he said", "sense": "Qal 1", "note": "The reply. The second pashta marks the start of Cain's speech."},
+        {"id": "4:9.9", "gloss": "not"},
+        {"id": "4:9.10", "gloss": "I know", "sense": "Qal 1.h", "note": "Negated by לֹא: 'I do not know'. The pack's entry gives 'not know, not expect' under Qal 1.h."},
+        {"id": "4:9.11", "gloss": "the keeper of", "sense": "Qal 1.a", "note": "A participle after the interrogative ה (with chataf patah). Rashi calls it an expression of astonishment (לשון תמה)."},
+        {"id": "4:9.12", "gloss": "my brother", "sense": "1"},
+        {"id": "4:9.13", "gloss": "I", "note": "The independent pronoun is placed last for emphasis."}
+      ],
+      "phrases": [
+        {"tokens": ["4:9.1", "4:9.2", "4:9.3", "4:9.4"], "english": "Then the LORD said to Cain", "literal": "and-said the-LORD to Cain"},
+        {"tokens": ["4:9.5", "4:9.6", "4:9.7"], "english": "Where is Abel your brother", "literal": "where Abel your-brother; the verb 'is' is understood"},
+        {"tokens": ["4:9.8"], "english": "He said", "literal": "and-said; the reply"},
+        {"tokens": ["4:9.9", "4:9.10"], "english": "I do not know", "literal": "not I-know"},
+        {"tokens": ["4:9.11", "4:9.12", "4:9.13"], "english": "Am I my brother’s keeper", "literal": "is-keeper of my-brother I; a question of astonishment"}
+      ],
+      "grammar": [
+        "אֵי opens the speech. Radak takes it as an opening of the matter, as in 3:9. Rashi reads it as a gentle approach, meant to draw out a confession (see the commentary).",
+        "The question הֲשֹׁמֵר אָחִי אָנֹכִי has the interrogative ה with chataf patah. The participle comes first and the pronoun last, for emphasis: 'Am I keeper of my brother?'",
+        "יָדַעְתִּי is a qatal, and with לֹא it is a negated perfect, which the English renders in the present: 'I do not know'.",
+        "The etnaḥta on אָחִיךָ (4:9.7) closes the LORD's question. The pashta on וַיֹּ֙אמֶר֙ (4:9.8) opens the reply."
+      ],
+      "commentary": [
+        {"anchor": "rashi:4:9:1", "relation": "follows", "summary": "Rashi: the question is a gentle approach, to draw Cain into speech, so that he might say 'I killed him and sinned against you'. The English keeps the question as an opening, with no accusation in its words."},
+        {"anchor": "rashi:4:9:2", "relation": "follows", "summary": "Rashi: Cain's denial is like stealing the knowledge of the Most High (נוֹנֵב דַּעַת), a deception of God. The English takes the words as a plain denial and does not add the comment."},
+        {"anchor": "rashi:4:9:3", "relation": "follows", "summary": "Rashi: הֲשֹׁמֵר אָחִי is a question of astonishment, not a request for information. The English 'Am I my brother's keeper?' keeps it rhetorical."},
+        {"anchor": "ibn-ezra:4:9:1", "relation": "follows", "summary": "Ibn Ezra: אֵי means 'where', like אַיֵּה. The word is a short form of two words. The English gives 'where'."},
+        {"anchor": "sforno:4:9:1", "relation": "records", "summary": "Sforno: the LORD asks where Abel was buried, so that Cain might return, since God does not desire the death of the dead. The English keeps the question as it stands."}
+      ]
+    },
+    {
+      "ref": "4:10",
+      "english": "He said, “What have you done? The voice of your brother’s blood cries out to me from the ground.”",
+      "literal": "and-said what have-you-done? voice of-bloods of-your-brother crying to-me from the-ground",
+      "tokens": [
+        {"id": "4:10.1", "gloss": "he said", "sense": "Qal 1"},
+        {"id": "4:10.2", "gloss": "what", "sense": "1"},
+        {"id": "4:10.3", "gloss": "have you done", "sense": "Qal I.1"},
+        {"id": "4:10.4", "gloss": "the voice of", "note": "The first link of a construct chain of three."},
+        {"id": "4:10.5", "gloss": "the blood of", "sense": "1", "note": "Plural construct of דָּם, 'bloods'. The singular English records the plural (Rashi, Radak)."},
+        {"id": "4:10.6", "gloss": "your brother", "sense": "1"},
+        {"id": "4:10.7", "gloss": "crying out", "sense": "Qal 1", "note": "Masculine plural, agreeing with 'bloods' and not with the singular 'voice'."},
+        {"id": "4:10.8", "gloss": "to me", "sense": "1"},
+        {"id": "4:10.9", "gloss": "from", "sense": "1.a"},
+        {"id": "4:10.10", "gloss": "the ground", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["4:10.1"], "english": "He said", "literal": "and-said"},
+        {"tokens": ["4:10.2", "4:10.3"], "english": "What have you done", "literal": "what have-you-done"},
+        {"tokens": ["4:10.4", "4:10.5", "4:10.6"], "english": "The voice of your brother’s blood", "literal": "voice of-bloods of-your-brother; the construct chain"},
+        {"tokens": ["4:10.7", "4:10.8"], "english": "cries out to me", "literal": "crying to-me; the participle is plural, agreeing with 'bloods'"},
+        {"tokens": ["4:10.9", "4:10.10"], "english": "from the ground", "literal": "from the-ground; the source of the cry"}
+      ],
+      "grammar": [
+        "מֶה עָשִׂיתָ is a direct question. The interrogative comes first, and the second person masculine singular addresses Cain.",
+        "The construct chain קוֹל דְּמֵי אָחִיךָ has three links, and the possessive attaches to the last noun only.",
+        "The plural participle צֹעֲקִים agrees with דְּמֵי and not with the singular קוֹל. Ibn Ezra takes the crying as the bloods' own (see the commentary).",
+        "The etnaḥta on עָשִׂיתָ (4:10.3) ends the question. The yetiv on קוֹל (4:10.4) begins the statement, and the silluq on הָאֲדָמָה closes the verse."
+      ],
+      "commentary": [
+        {"anchor": "rashi:4:10:1", "relation": "records", "summary": "Rashi: 'bloods' means Abel's blood and the blood of his offspring. Another reading is that Cain made many wounds and did not know where the soul left (Sanhedrin 37). The English keeps the singular 'blood' and records both."},
+        {"anchor": "ibn-ezra:4:10:1", "relation": "records", "summary": "Ibn Ezra: the participle is not joined to 'voice' (קוֹל). The crying belongs to the bloods spilled on the ground, which God hears. The English keeps 'voice' as the subject of the crying."}
+      ],
+      "apparatus": [
+        "דְּמֵי is plural. Its plural is read as Abel's blood with his offspring's (Rashi) or as many wounds (Rashi); the English uses the singular 'blood'."
+      ]
+    },
+    {
+      "ref": "4:11",
+      "english": "Now you are cursed from the ground, which has opened its mouth to take your brother’s blood from your hand.",
+      "literal": "and-now cursed you from-the-ground which opened its-mouth to-take the-bloods of-your-brother from-your-hand",
+      "tokens": [
+        {"id": "4:11.1", "gloss": "and now", "note": "The sentence is the consequence of the act in 4:8 and the answer in 4:10."},
+        {"id": "4:11.2", "gloss": "cursed", "sense": "Niph", "note": "Qal passive participle used as a predicate. The lexicon gives 'cursed' under Niph; the Qal sense is the active 'curse'."},
+        {"id": "4:11.3", "gloss": "you"},
+        {"id": "4:11.4", "gloss": "from", "sense": "1.a", "note": "The source of the curse (Ibn Ezra, Ramban). Rashi reads מִן as comparative (see the commentary)."},
+        {"id": "4:11.5", "gloss": "the ground", "sense": "1"},
+        {"id": "4:11.6", "gloss": "which"},
+        {"id": "4:11.7", "gloss": "has opened", "sense": "1", "note": "Qatal of פָּצָה, 'open'. The subject is the feminine ground."},
+        {"id": "4:11.8", "gloss": "-"},
+        {"id": "4:11.9", "gloss": "its mouth", "sense": "1.a"},
+        {"id": "4:11.10", "gloss": "to take", "sense": "Qal 3.c", "note": "לְ with the infinitive construct gives purpose or result. Qal 3.c is 'take away'."},
+        {"id": "4:11.11", "gloss": "-"},
+        {"id": "4:11.12", "gloss": "the blood of", "sense": "1"},
+        {"id": "4:11.13", "gloss": "your brother", "sense": "1"},
+        {"id": "4:11.14", "gloss": "from your hand", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["4:11.1"], "english": "Now", "literal": "and-now"},
+        {"tokens": ["4:11.2", "4:11.3"], "english": "you are cursed", "literal": "cursed you"},
+        {"tokens": ["4:11.4", "4:11.5"], "english": "from the ground", "literal": "from the-ground"},
+        {"tokens": ["4:11.6", "4:11.7", "4:11.8", "4:11.9"], "english": "which has opened its mouth", "literal": "which opened its-mouth"},
+        {"tokens": ["4:11.10", "4:11.11", "4:11.12", "4:11.13", "4:11.14"], "english": "to take your brother’s blood from your hand", "literal": "to-take the-bloods of-your-brother from-your-hand"}
+      ],
+      "grammar": [
+        "וְעַתָּה ('and now') marks the sentence as a judgment that follows from the act. The English 'Now' carries the same connection.",
+        "אָרוּר is a passive participle used as a predicate, with the pronoun אָתָּה as its subject: 'you are cursed'.",
+        "אֲשֶׁר פָּצְתָה ... is a relative clause on the ground. The verb is third feminine singular, agreeing with the feminine noun.",
+        "The infinitive לָקַחַת with לְ gives purpose or result. The accents: the etnaḥta on אָתָּה (4:11.3) divides the sentence, the pashta on הָאֲדָמָה (4:11.5) marks the relative clause, and the silluq on מִיָּדֶךָ closes it."
+      ],
+      "commentary": [
+        {"anchor": "rashi:4:11:1", "relation": "records", "summary": "Rashi reads מִן as comparative: you are more cursed than the ground, which was already cursed for its sin and sins further here. The English takes the source reading of Ibn Ezra and records Rashi's comparative."},
+        {"anchor": "rashi:4:11:2", "relation": "records", "summary": "Rashi: the relative clause gives the cause: 'I will add a curse to the ground on your account; it will not add its strength'. The English keeps the relative clause and does not add a second curse on the ground."},
+        {"anchor": "ibn-ezra:4:11:1", "relation": "follows", "summary": "Ibn Ezra: 'from the ground' means the loss comes to Cain from the ground. It will not yield to his tilling, so he must go to far lands and cannot settle. The English follows the source reading."},
+        {"anchor": "ibn-ezra:4:13:2", "relation": "follows", "summary": "Ibn Ezra: פָּצְתָה means 'opened', as in 'Hevel will open his mouth' (Job 35:16). The English follows: 'opened its mouth'."},
+        {"anchor": "ramban:4:11:1", "relation": "follows", "summary": "Ramban: the curse is from the ground, not a comparison. The ground will not yield to Cain, so he will wander. Ramban rejects Rashi's comparative reading."},
+        {"anchor": "sforno:4:11:2", "relation": "records", "summary": "Sforno: the ground was used to hide the killing, so it will no longer serve Cain as it did before. The English does not add this."}
+      ],
+      "apparatus": [
+        "מִן הָאֲדָמָה (4:11.4): the source of the curse (Ibn Ezra, Ramban; followed) or the comparative 'more cursed than the ground' (Rashi; recorded)."
+      ]
+    },
+    {
+      "ref": "4:12",
+      "english": "When you work the ground, it will no longer yield its strength to you; you will be a restless wanderer on the earth.",
+      "literal": "when you-will-work the-ground not will-add to-yield its-strength to-you; restless and-wandering you-will-be in-the-earth",
+      "tokens": [
+        {"id": "4:12.1", "gloss": "when", "sense": "2.a", "note": "Conditional-temporal כִּי with the imperfect: 'whenever you work'."},
+        {"id": "4:12.2", "gloss": "you work", "sense": "Qal 1"},
+        {"id": "4:12.3", "gloss": "-"},
+        {"id": "4:12.4", "gloss": "the ground", "sense": "1"},
+        {"id": "4:12.5", "gloss": "not", "note": "With the next word, 'will no longer'."},
+        {"id": "4:12.6", "gloss": "will add", "sense": "Hiph 2.a", "note": "Hifil jussive of יָסַף. Hiph 2.a is 'add to do, do again, more'. With לֹא: no longer."},
+        {"id": "4:12.7", "gloss": "to yield", "sense": "Qal 1", "note": "Infinitive construct of נָתַן, 'give'."},
+        {"id": "4:12.8", "gloss": "its strength"},
+        {"id": "4:12.9", "gloss": "to you", "note": "Singular address to Cain, as in 4:11. The data reads the suffix as feminine, as at 4:6.7."},
+        {"id": "4:12.10", "gloss": "restless", "sense": "Qal 2", "note": "Participle of נוּעַ, 'totter, go tottering'."},
+        {"id": "4:12.11", "gloss": "and a wanderer", "sense": "Qal 1.a", "note": "Participle of נוּד, 'move to and fro, wander'. Radak calls נָע וָנָד a doublet that reinforces the sense."},
+        {"id": "4:12.12", "gloss": "you will be", "sense": "Qal III.3", "note": "Second person masculine singular yiqtol, 'you will be' in a place."},
+        {"id": "4:12.13", "gloss": "on the earth", "sense": "1.a"}
+      ],
+      "phrases": [
+        {"tokens": ["4:12.1", "4:12.2", "4:12.3", "4:12.4"], "english": "When you work the ground", "literal": "when you-will-work the-ground"},
+        {"tokens": ["4:12.5", "4:12.6", "4:12.7", "4:12.8", "4:12.9"], "english": "it will no longer yield its strength to you", "literal": "not will-add to-yield its-strength to-you"},
+        {"tokens": ["4:12.10", "4:12.11", "4:12.12", "4:12.13"], "english": "you will be a restless wanderer on the earth", "literal": "restless and-wandering you-will-be in-the-earth"}
+      ],
+      "grammar": [
+        "כִּי with the imperfect introduces a conditional clause, 'when you work', which is also a general condition: whenever Cain works the ground.",
+        "לֹא תֹסֵף with an infinitive is a negated future: 'it will not add to give', rendered 'will no longer yield'.",
+        "The pair נָע וָנָד is a doublet of two participles, 'restless and wandering', that intensifies the sense of having no settled place.",
+        "The etnaḥta on לָךְ (4:12.9) closes the conditional clause and its result. The silluq on בָאָרֶץ closes the verse."
+      ],
+      "commentary": [
+        {"anchor": "rashi:4:12:1", "relation": "follows", "summary": "Rashi: you have no permission to dwell in one place. The English 'a restless wanderer' follows this."},
+        {"anchor": "ibn-ezra:4:12:1", "relation": "follows", "summary": "Ibn Ezra: some take נָד to mean 'mourn' (as in 'to mourn with him', Job 2:11), but in his view נָד is a brother of נָע, meaning 'wander'. The English follows him and not the mourning sense."},
+        {"anchor": "radak:4:12:2", "relation": "follows", "summary": "Radak: the curse seems to be for Cain alone, so it is laid on him in 4:11, while to Adam the curse was on the ground (3:17). The singular 'to you' follows this."}
+      ]
+    },
+    {
+      "ref": "4:13",
+      "english": "Cain said to the LORD, “My punishment is too great to bear.”",
+      "literal": "and-said Cain to the-LORD great my-iniquity from-bearing",
+      "tokens": [
+        {"id": "4:13.1", "gloss": "said", "sense": "Qal 1"},
+        {"id": "4:13.2", "gloss": "Cain"},
+        {"id": "4:13.3", "gloss": "to", "sense": "1"},
+        {"id": "4:13.4", "gloss": "the LORD"},
+        {"id": "4:13.5", "gloss": "great", "sense": "10", "note": "The entry lists senses 4, 9 and 10 only. '10 greatness' is the nearest to the plain sense 'great'."},
+        {"id": "4:13.6", "gloss": "my punishment", "note": "עָוֹן: 'iniquity', and the punishment it brings. The English follows Ibn Ezra's 'punishment'; Ramban reads 'my sin'. The pack's entry lists no senses."},
+        {"id": "4:13.7", "gloss": "too much to bear", "sense": "Qal 2", "note": "מִן with the infinitive construct of נָשָׂא: 'too great to bear'."}
+      ],
+      "phrases": [
+        {"tokens": ["4:13.1", "4:13.2"], "english": "Cain said", "literal": "and-said Cain"},
+        {"tokens": ["4:13.3", "4:13.4"], "english": "to the LORD", "literal": "to the-LORD"},
+        {"tokens": ["4:13.5", "4:13.6", "4:13.7"], "english": "My punishment is too great to bear", "literal": "great my-punishment from-bearing; a nominal clause with no verb"}
+      ],
+      "grammar": [
+        "גָּדוֹל is a predicate adjective placed first, and the sentence has no verb. The English adds 'is'.",
+        "מִנְּשֹׂא is מִן with an infinitive construct, giving excess: 'too great to bear'.",
+        "The Hebrew has no interrogative marker. Rashi and the Midrash he cites read the clause as a question of astonishment (see the commentary); the English reads it as a statement, following Ibn Ezra.",
+        "The merkha on גָּדוֹל (4:13.5) and the silluq on מִנְּשֹׂא close the speech. The etnaḥta on יְהֹוָה (4:13.4) divides the address from the speech."
+      ],
+      "commentary": [
+        {"anchor": "rashi:4:13:1", "relation": "records", "summary": "Rashi reads a question of astonishment: 'you bear upper and lower worlds, and my iniquity cannot be borne?' The English keeps a statement and records the question."},
+        {"anchor": "ibn-ezra:4:13:1", "relation": "follows", "summary": "Ibn Ezra: most commentators take this as confession, with נָשׂוֹא meaning 'forgive'. In his view עָוֹן is the punishment that comes from the sin and נָשׂוֹא is 'bear', so 'my punishment is too great to bear'. The English follows him."},
+        {"anchor": "ramban:4:13:1", "relation": "records", "summary": "Ramban: the plain sense is confession, that his sin is too great to be forgiven, and God is just; he cannot stand in one place or pray because of shame. The English does not adopt the forgiveness sense."},
+        {"anchor": "radak:4:13:1", "relation": "follows", "summary": "Radak: 'my punishment is too great to endure', with a request that it be lightened. He notes that Onkelos renders 'my sin is too great to be forgiven' as an expression of astonishment. The English follows the punishment reading."}
+      ],
+      "apparatus": [
+        "עָוֹן (4:13.6): 'punishment' (Ibn Ezra, Radak; followed) or 'sin' (Ramban, Onkelos; recorded).",
+        "The clause (4:13.5–7) is a statement (followed) or a question of astonishment (Rashi; recorded)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1882 @@
+{
+ "unit": "perek-1-01",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "1:1",
+   "english": "Moses received Torah from Sinai and handed it down to Joshua; Joshua to the elders; the elders to the prophets; and the prophets handed it down to the members of the Great Assembly. They said three things: Be deliberate in judgment; raise up many disciples; and make a fence for the Torah.",
+   "literal": "Moses received Torah from-Sinai, and-handed-it to-Joshua, and-Joshua to-elders, and-elders to-prophets, and-prophets handed-it to-men-of assembly the-great. They said three things: Be deliberate in-the-judgment, and-raise-up disciples many, and-make fence to-the-Torah.",
+   "tokens": [
+    {
+     "id": "1:1.1",
+     "gloss": "Moses",
+     "sense": "2"
+    },
+    {
+     "id": "1:1.2",
+     "gloss": "received",
+     "sense": "2.1",
+     "note": "Piel perfect of קבל: 'received (as tradition)'."
+    },
+    {
+     "id": "1:1.3",
+     "gloss": "Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1",
+     "note": "No article in the Hebrew; the English follows."
+    },
+    {
+     "id": "1:1.4",
+     "gloss": "from Sinai",
+     "sense": "2",
+     "note": "מִ + סִינַי."
+    },
+    {
+     "id": "1:1.5",
+     "gloss": "and handed it down",
+     "sense": "2",
+     "note": "Qal perfect with 3fs suffix הּ: 'it', the Torah."
+    },
+    {
+     "id": "1:1.6",
+     "gloss": "to Joshua",
+     "note": "יְהוֹשֻׁעַ, Moses' successor."
+    },
+    {
+     "id": "1:1.7",
+     "gloss": "and Joshua",
+     "note": "Ellipsis: the verb 'handed down' is understood."
+    },
+    {
+     "id": "1:1.8",
+     "gloss": "to the elders",
+     "sense": "1.2"
+    },
+    {
+     "id": "1:1.9",
+     "gloss": "and the elders",
+     "sense": "1.2",
+     "note": "Ellipsis of the verb again."
+    },
+    {
+     "id": "1:1.10",
+     "gloss": "to the prophets",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:1.11",
+     "gloss": "and the prophets",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:1.12",
+     "gloss": "handed it down",
+     "sense": "2",
+     "note": "Here the verb is expressed again, with the plural subject."
+    },
+    {
+     "id": "1:1.13",
+     "gloss": "to the men of",
+     "lex": "jastrow:אִישׁ",
+     "sense": "1",
+     "note": "אַנְשֵׁי, plural construct of אִישׁ; 'members' in the idiom."
+    },
+    {
+     "id": "1:1.14",
+     "gloss": "Assembly",
+     "sense": "3",
+     "note": "כְנֶסֶת is the genitive of אַנְשֵׁי; הַגְּדוֹלָה is an attributive adjective that carries the article while the noun has none, as in the fixed name כְּנֶסֶת הַגְּדוֹלָה 'the Great Assembly'."
+    },
+    {
+     "id": "1:1.15",
+     "gloss": "the Great",
+     "sense": "2.6"
+    },
+    {
+     "id": "1:1.16",
+     "gloss": "they",
+     "sense": "1"
+    },
+    {
+     "id": "1:1.17",
+     "gloss": "said",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:1.18",
+     "gloss": "three",
+     "sense": "1"
+    },
+    {
+     "id": "1:1.19",
+     "gloss": "things",
+     "sense": "1.2",
+     "note": "דְבָרִים here 'sayings'."
+    },
+    {
+     "id": "1:1.20",
+     "gloss": "be",
+     "sense": "1.1.3",
+     "note": "Qal imperative plural of הָיָה in its Mishnaic form הֱווּ (from the by-form הוה, as in Aramaic); Biblical Hebrew has הֱיוּ."
+    },
+    {
+     "id": "1:1.21",
+     "gloss": "deliberate",
+     "lex": "jastrow:מָתוּן II",
+     "sense": "1",
+     "note": "מְתוּנִים: plural of מָתוּן 'slow, careful, patient' (Jastrow, from מתן 'to wait'); Bartenura glosses it מַמְתִּינִים 'waiting'."
+    },
+    {
+     "id": "1:1.22",
+     "gloss": "in judgment",
+     "sense": "1",
+     "note": "בַּ = ב + הַ."
+    },
+    {
+     "id": "1:1.23",
+     "gloss": "and raise up",
+     "sense": "1",
+     "note": "Hifil imperative: 'cause to stand', 'set up'."
+    },
+    {
+     "id": "1:1.24",
+     "gloss": "disciples",
+     "sense": "1"
+    },
+    {
+     "id": "1:1.25",
+     "gloss": "many"
+    },
+    {
+     "id": "1:1.26",
+     "gloss": "and make",
+     "sense": "1.1.2.1"
+    },
+    {
+     "id": "1:1.27",
+     "gloss": "a fence",
+     "sense": "1",
+     "note": "סְיָג: a hedge or fence that guards what is within."
+    },
+    {
+     "id": "1:1.28",
+     "gloss": "for the Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:1.1"
+     ],
+     "english": "Moses",
+     "literal": "Moses"
+    },
+    {
+     "tokens": [
+      "1:1.2",
+      "1:1.3",
+      "1:1.4"
+     ],
+     "english": "received Torah from Sinai",
+     "literal": "'received Torah from-Sinai'; Bartenura: from the One who was revealed at Sinai."
+    },
+    {
+     "tokens": [
+      "1:1.5",
+      "1:1.6"
+     ],
+     "english": "and handed it down to Joshua",
+     "literal": "'and-handed-it to-Joshua'"
+    },
+    {
+     "tokens": [
+      "1:1.7",
+      "1:1.8"
+     ],
+     "english": "Joshua to the elders",
+     "literal": "'and-Joshua to-elders'; the verb is understood"
+    },
+    {
+     "tokens": [
+      "1:1.9",
+      "1:1.10"
+     ],
+     "english": "the elders to the prophets",
+     "literal": "'and-elders to-prophets'; the verb is understood"
+    },
+    {
+     "tokens": [
+      "1:1.11",
+      "1:1.12",
+      "1:1.13",
+      "1:1.14",
+      "1:1.15"
+     ],
+     "english": "and the prophets handed it down to the members of the Great Assembly",
+     "literal": "'and-prophets handed-it to-men-of assembly the-great'"
+    },
+    {
+     "tokens": [
+      "1:1.16",
+      "1:1.17",
+      "1:1.18",
+      "1:1.19"
+     ],
+     "english": "They said three things",
+     "literal": "'they said three things'"
+    },
+    {
+     "tokens": [
+      "1:1.20",
+      "1:1.21",
+      "1:1.22"
+     ],
+     "english": "Be deliberate in judgment",
+     "literal": "'be deliberate in-the-judgment'; Bartenura and Rambam: do not decide quickly"
+    },
+    {
+     "tokens": [
+      "1:1.23",
+      "1:1.24",
+      "1:1.25"
+     ],
+     "english": "raise up many disciples",
+     "literal": "'and-raise-up disciples many'"
+    },
+    {
+     "tokens": [
+      "1:1.26",
+      "1:1.27",
+      "1:1.28"
+     ],
+     "english": "and make a fence for the Torah",
+     "literal": "'and-make fence to-the-Torah'"
+    }
+   ],
+   "grammar": [
+    "The chain of tradition has one verb, מָסַר 'hand over', and drops it after the first link: 'Joshua to the elders, the elders to the prophets'.",
+    "מְסָרוּהָ (3rd plural with the 3rd feminine singular suffix, 'handed it') states the verb again in the last link, as it was stated for Moses: the chain opens and closes with מָסַר.",
+    "הֵם אָמְרוּ שְׁלשָׁה דְבָרִים introduces three plural imperatives: הֱווּ (Qal of הָיָה, Mishnaic form), הַעֲמִידוּ (Hifil of the I-guttural root עמד, 'cause to stand') and עֲשׂוּ (Qal of the III-ה root עשה).",
+    "קִבֵּל is Piel of קבל, 'received', and in Mishnaic Hebrew is the standard verb for receiving a tradition.",
+    "The third saying is a metaphor: סְיָג is a hedge round a field or a vineyard."
+   ],
+   "note": "'Torah' is without the article, as in the Hebrew, and not 'the Torah'. 'From Sinai' is kept literal; Bartenura glosses it as 'from the One who was revealed at Sinai'. 'Members of the Great Assembly' follows decisions.md for אַנְשֵׁי כְנֶסֶת הַגְּדוֹלָה. 'Be deliberate' renders מְתוּנִים, from a root meaning 'slow, patient'; both Bartenura and Rambam read it as waiting before deciding a case.",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:1:1",
+     "relation": "not-applicable",
+     "summary": "Bartenura: unlike the other tractates of the Mishnah this one is not built on a commandment but on ethics and character traits; the sages of the nations also wrote such books. The mishnah therefore begins with Moses at Sinai, to say that these teachings are not the sages' invention but were received from Sinai."
+    },
+    {
+     "anchor": "bartenura:1:1:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'from Sinai' means from the One who was revealed at Sinai. The English keeps 'from Sinai' and adopts this sense."
+    },
+    {
+     "anchor": "bartenura:1:1:3",
+     "relation": "follows",
+     "summary": "Bartenura: the elders are those who outlived Joshua (Josh 24:31, שֶׁהֶאֱרִיכוּ יָמִים אַחֲרֵי יְהוֹשֻׁעַ), and these elders passed it to other elders until the first of the prophets, Eli the priest and Samuel of Ramah."
+    },
+    {
+     "anchor": "bartenura:1:1:4",
+     "relation": "follows",
+     "summary": "Bartenura: they were one hundred and twenty elders: Zerubbabel, Seraiah, Reelaiah, Mordecai, Bilshan, of the days of Ezra and the return from exile in the Second Temple; among them were Haggai, Zechariah, Malachi and Nehemiah son of Hachaliah. They were called 'Great' because they restored the crown to its former state: Moses said 'the great, mighty and awesome God', Jeremiah and Daniel left out 'mighty' and 'awesome', and they restored them."
+    },
+    {
+     "anchor": "bartenura:1:1:5",
+     "relation": "follows",
+     "summary": "Bartenura: they said many things, but these three are those on which the keeping of the Torah rests."
+    },
+    {
+     "anchor": "bartenura:1:1:6",
+     "relation": "follows",
+     "summary": "Bartenura: if a case comes before you once, twice, three times, do not say 'I have already studied it'; wait (מַמְתִּינִים) before you decide. The English 'deliberate' takes this."
+    },
+    {
+     "anchor": "bartenura:1:1:7",
+     "relation": "follows",
+     "summary": "Bartenura: against Rabban Gamliel's rule, teach Torah to everyone without examining him (unless his bad conduct is known); or: one who raised disciples in youth should raise them in old age (Eccl 11:6)."
+    },
+    {
+     "anchor": "bartenura:1:1:8",
+     "relation": "follows",
+     "summary": "Bartenura: a fence so that one does not come to touch a Torah prohibition, e.g. secondary degrees of forbidden unions and the Sabbath rest-decrees; compare Lev 18:30, 'make a guard for my guard'."
+    },
+    {
+     "anchor": "rambam:1:1:1",
+     "relation": "not-applicable",
+     "summary": "Rambam: he has already explained the nature of the tradition; his aim here is to explain the words of the pious and moralists, to urge the acquiring of useful traits, and to warn about some vices; for the rest he explains only words."
+    },
+    {
+     "anchor": "rambam:1:1:2",
+     "relation": "follows",
+     "summary": "Rambam: let them delay the decision and not rule quickly until they understand it, since new facts may appear that were not seen at first thought."
+    },
+    {
+     "anchor": "rambam:1:1:3",
+     "relation": "follows",
+     "summary": "Rambam: the 'fence' is the decrees and enactments that keep a man far from transgressions, as in 'you shall keep my charge' (Lev 18:30): make a guard for my guard."
+    },
+    {
+     "anchor": "rabbeinu-yonah:1:1:8",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah: 'raise up many disciples' follows Beit Hillel, who teach everyone, against Beit Shammai who teach only the worthy."
+    }
+   ],
+   "apparatus": [
+    "Spelling: Vilna reads סייג for סְיָג.",
+    "Source of the closing image: compare Lev 18:30 (cited by Bartenura and Rambam)."
+   ]
+  },
+  {
+   "ref": "1:2",
+   "english": "Shimon the Righteous was of the remnants of the Great Assembly. He used to say: On three things the world stands: on the Torah, and on the Temple service, and on acts of kindness.",
+   "literal": "Shimon the-Righteous was from-remnants-of assembly the-great. He was saying: On three things the-world stands: on the-Torah, and-on the-service, and-on bestowal-of kindnesses.",
+   "tokens": [
+    {
+     "id": "1:2.1",
+     "gloss": "Shimon",
+     "sense": "1"
+    },
+    {
+     "id": "1:2.2",
+     "gloss": "the Righteous",
+     "sense": "1.3"
+    },
+    {
+     "id": "1:2.3",
+     "gloss": "was",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:2.4",
+     "gloss": "from the remnants of",
+     "sense": "1",
+     "note": "שְׁיָר 'remnant, what is left'; מִ is partitive: 'one of the remnants'."
+    },
+    {
+     "id": "1:2.5",
+     "gloss": "Assembly",
+     "sense": "3"
+    },
+    {
+     "id": "1:2.6",
+     "gloss": "the Great",
+     "sense": "2.6"
+    },
+    {
+     "id": "1:2.7",
+     "gloss": "he",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:2.8",
+     "gloss": "used to be",
+     "sense": "1.1.3",
+     "note": "הָיָה with a participle gives the habitual past."
+    },
+    {
+     "id": "1:2.9",
+     "gloss": "saying",
+     "sense": "1.1",
+     "note": "Participle active."
+    },
+    {
+     "id": "1:2.10",
+     "gloss": "on",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:2.11",
+     "gloss": "three",
+     "sense": "1"
+    },
+    {
+     "id": "1:2.12",
+     "gloss": "things",
+     "sense": "1.4"
+    },
+    {
+     "id": "1:2.13",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "1:2.14",
+     "gloss": "stands",
+     "sense": "1",
+     "note": "עוֹמֵד: 'stands', in the sense 'rests, endures'."
+    },
+    {
+     "id": "1:2.15",
+     "gloss": "on",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:2.16",
+     "gloss": "the Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "1:2.17",
+     "gloss": "and on",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:2.18",
+     "gloss": "the Temple service",
+     "sense": "5",
+     "note": "עֲבוֹדָה: the sacrificial service in the Temple, as Bartenura and Rambam both take it."
+    },
+    {
+     "id": "1:2.19",
+     "gloss": "and on",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:2.20",
+     "gloss": "bestowal of",
+     "sense": "1",
+     "note": "גְּמִילוּת construct, from the root גמל 'to deal out, bestow'."
+    },
+    {
+     "id": "1:2.21",
+     "gloss": "kindnesses",
+     "sense": "1",
+     "note": "Plural of חֶסֶד."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:2.1",
+      "1:2.2"
+     ],
+     "english": "Shimon the Righteous",
+     "literal": "'Shimon the-Righteous'"
+    },
+    {
+     "tokens": [
+      "1:2.3",
+      "1:2.4",
+      "1:2.5",
+      "1:2.6"
+     ],
+     "english": "was of the remnants of the Great Assembly",
+     "literal": "'was from-remnants-of assembly the-great'"
+    },
+    {
+     "tokens": [
+      "1:2.7",
+      "1:2.8",
+      "1:2.9"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'; decisions.md"
+    },
+    {
+     "tokens": [
+      "1:2.10",
+      "1:2.11",
+      "1:2.12",
+      "1:2.13",
+      "1:2.14"
+     ],
+     "english": "On three things the world stands",
+     "literal": "'on three things the-world stands'"
+    },
+    {
+     "tokens": [
+      "1:2.15",
+      "1:2.16"
+     ],
+     "english": "on the Torah",
+     "literal": "'on the-Torah'"
+    },
+    {
+     "tokens": [
+      "1:2.17",
+      "1:2.18"
+     ],
+     "english": "and on the Temple service",
+     "literal": "'and-on the-service'; sacrificial service per Bartenura and Rambam"
+    },
+    {
+     "tokens": [
+      "1:2.19",
+      "1:2.20",
+      "1:2.21"
+     ],
+     "english": "and on acts of kindness",
+     "literal": "'and-on bestowal-of kindnesses'"
+    }
+   ],
+   "grammar": [
+    "הוּא הָיָה אוֹמֵר: the pronoun, the past of הָיָה and a participle express a habitual saying ('he used to say').",
+    "עַל ... עוֹמֵד: the sentence is a list of three pillars; each is introduced by עַל, and the last two by וְעַל.",
+    "גְּמִילוּת חֲסָדִים is a construct chain: 'the bestowing of kindnesses'.",
+    "מִשְּׁיָרֵי has a partitive מִ: 'one of the remnants', and not 'from (them)'."
+   ],
+   "note": "הָעֲבוֹדָה is rendered 'the Temple service'; Bartenura (עֲבוֹדַת הַקָּרְבָּנוֹת) and Rambam (the sacrifices) agree. 'Stands' keeps the Hebrew verb; Bartenura glosses it 'the world was created only for these three'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:2:1",
+     "relation": "follows",
+     "summary": "Bartenura: מִשִּׁיּוּרֵי: after all the others died the tradition remained in his hand; he was High Priest after Ezra."
+    },
+    {
+     "anchor": "bartenura:1:2:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'he used to say' means this was constantly on his lips; so throughout the tractate."
+    },
+    {
+     "anchor": "bartenura:1:2:3",
+     "relation": "records",
+     "summary": "Bartenura: the world was created only for the sake of these three things."
+    },
+    {
+     "anchor": "bartenura:1:2:4",
+     "relation": "follows",
+     "summary": "Bartenura: had Israel not accepted the Torah, heaven and earth would not have been created (Jer 33:25; Shabbat 88a)."
+    },
+    {
+     "anchor": "bartenura:1:2:5",
+     "relation": "follows",
+     "summary": "Bartenura: the service of the sacrifices; the world stands on it (Taanit 27b); Noah's offerings were the ground of the promise not to bring a flood."
+    },
+    {
+     "anchor": "bartenura:1:2:6",
+     "relation": "follows",
+     "summary": "Bartenura: 'the world is built of kindness' (Ps 89:3); acts of kindness: gladdening brides and grooms, comforting mourners, visiting the sick, burying the dead."
+    },
+    {
+     "anchor": "rambam:1:2:1",
+     "relation": "follows",
+     "summary": "Rambam: the continuing repair of the world rests on wisdom (the Torah), on virtues of character (acts of kindness) and on keeping the commandments (the sacrifices)."
+    }
+   ],
+   "apparatus": [
+    "Spelling and parse: none."
+   ]
+  },
+  {
+   "ref": "1:3",
+   "english": "Antigonos of Sokho received from Shimon the Righteous. He used to say: Do not be like servants who serve the master on condition of receiving a gratuity, but be like servants who serve the master not on condition of receiving a gratuity; and let the fear of Heaven be upon you.",
+   "literal": "Antigonos man-of Sokho received from-Shimon the-Righteous. He was saying: Not be-you like-servants the-serving [acc.] the-master on condition-of to-receive gratuity, but be-you like-servants the-serving [acc.] the-master that-not on condition-of to-receive gratuity, and-let-be fear-of Heaven upon-you.",
+   "tokens": [
+    {
+     "id": "1:3.1",
+     "gloss": "Antigonos",
+     "sense": "2"
+    },
+    {
+     "id": "1:3.2",
+     "gloss": "man of",
+     "lex": "jastrow:אִישׁ",
+     "sense": "1",
+     "note": "אִישׁ construct: 'man of' = 'of' with a place name."
+    },
+    {
+     "id": "1:3.3",
+     "gloss": "Sokho",
+     "sense": "1"
+    },
+    {
+     "id": "1:3.4",
+     "gloss": "received",
+     "sense": "2.1"
+    },
+    {
+     "id": "1:3.5",
+     "gloss": "from Shimon",
+     "sense": "1",
+     "note": "מִ + שִׁמְעוֹן."
+    },
+    {
+     "id": "1:3.6",
+     "gloss": "the Righteous",
+     "sense": "1.3"
+    },
+    {
+     "id": "1:3.7",
+     "gloss": "he",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:3.8",
+     "gloss": "used to be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:3.9",
+     "gloss": "saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:3.10",
+     "gloss": "do not",
+     "sense": "1",
+     "note": "אַל with the imperfect: prohibition."
+    },
+    {
+     "id": "1:3.11",
+     "gloss": "be",
+     "sense": "1.1.3",
+     "note": "תִּהְיוּ, 2nd plural imperfect, as a negative command."
+    },
+    {
+     "id": "1:3.12",
+     "gloss": "like servants",
+     "lex": "jastrow:עֶבֶד",
+     "sense": "1",
+     "note": "כְ + עֲבָדִים, plural of עֶבֶד 'servant, slave'; the כ takes pataḥ before the ḥatef-pataḥ of ע, without the article."
+    },
+    {
+     "id": "1:3.13",
+     "gloss": "who serve",
+     "sense": "3",
+     "note": "Piel participle of שמש with article: 'those who serve'."
+    },
+    {
+     "id": "1:3.14",
+     "gloss": "-",
+     "note": "Object marker; no English counterpart."
+    },
+    {
+     "id": "1:3.15",
+     "gloss": "the master",
+     "lex": "jastrow:רַב II",
+     "sense": "2",
+     "note": "רַב: 'master' in the servant relation."
+    },
+    {
+     "id": "1:3.16",
+     "gloss": "on",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:3.17",
+     "gloss": "condition of",
+     "sense": "1",
+     "note": "מְנָת, construct of מָנָה 'portion': עַל מְנָת is the idiom 'on condition that'."
+    },
+    {
+     "id": "1:3.18",
+     "gloss": "to receive",
+     "sense": "2.1"
+    },
+    {
+     "id": "1:3.19",
+     "gloss": "a gratuity",
+     "note": "פְּרָס: a gift or bonus not owed, as against wages (שָׂכָר), as Bartenura and Rambam define it. The pack's entry jastrow:פְּרָס (part, half, piece) is a different word, so no sense is given."
+    },
+    {
+     "id": "1:3.20",
+     "gloss": "but",
+     "note": "אֶלָּא: 'but rather'."
+    },
+    {
+     "id": "1:3.21",
+     "gloss": "be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:3.22",
+     "gloss": "like servants",
+     "lex": "jastrow:עֶבֶד",
+     "sense": "1"
+    },
+    {
+     "id": "1:3.23",
+     "gloss": "who serve",
+     "sense": "3"
+    },
+    {
+     "id": "1:3.24",
+     "gloss": "-"
+    },
+    {
+     "id": "1:3.25",
+     "gloss": "the master",
+     "lex": "jastrow:רַב II",
+     "sense": "2"
+    },
+    {
+     "id": "1:3.26",
+     "gloss": "not",
+     "sense": "1.2",
+     "note": "שֶׁלֹּא: relative שֶׁ + לֹא."
+    },
+    {
+     "id": "1:3.27",
+     "gloss": "on",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:3.28",
+     "gloss": "condition of",
+     "sense": "1"
+    },
+    {
+     "id": "1:3.29",
+     "gloss": "to receive",
+     "sense": "2.1"
+    },
+    {
+     "id": "1:3.30",
+     "gloss": "a gratuity"
+    },
+    {
+     "id": "1:3.31",
+     "gloss": "and let be",
+     "sense": "1.1.3",
+     "note": "וִיהִי, jussive; singular verb with singular subject 'fear'."
+    },
+    {
+     "id": "1:3.32",
+     "gloss": "fear of",
+     "sense": "1.2"
+    },
+    {
+     "id": "1:3.33",
+     "gloss": "Heaven",
+     "sense": "1.2",
+     "note": "שָׁמַיִם as a name for God; decisions.md."
+    },
+    {
+     "id": "1:3.34",
+     "gloss": "upon you",
+     "sense": "1.1",
+     "note": "עֲלֵיכֶם: 2nd plural; the saying is addressed to many."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:3.1",
+      "1:3.2",
+      "1:3.3"
+     ],
+     "english": "Antigonos of Sokho",
+     "literal": "'Antigonos man-of Sokho'"
+    },
+    {
+     "tokens": [
+      "1:3.4",
+      "1:3.5",
+      "1:3.6"
+     ],
+     "english": "received from Shimon the Righteous",
+     "literal": "'received from-Shimon the-Righteous'"
+    },
+    {
+     "tokens": [
+      "1:3.7",
+      "1:3.8",
+      "1:3.9"
+     ],
+     "english": "He used to say",
+     "literal": "decisions.md"
+    },
+    {
+     "tokens": [
+      "1:3.10",
+      "1:3.11"
+     ],
+     "english": "Do not be",
+     "literal": "'not be-you'"
+    },
+    {
+     "tokens": [
+      "1:3.12",
+      "1:3.13",
+      "1:3.14",
+      "1:3.15"
+     ],
+     "english": "like servants who serve the master",
+     "literal": "'like-servants the-serving [acc.] the-master'"
+    },
+    {
+     "tokens": [
+      "1:3.16",
+      "1:3.17",
+      "1:3.18",
+      "1:3.19"
+     ],
+     "english": "on condition of receiving a gratuity",
+     "literal": "'on condition-of to-receive gratuity'"
+    },
+    {
+     "tokens": [
+      "1:3.20",
+      "1:3.21"
+     ],
+     "english": "but be",
+     "literal": "'but be-you'"
+    },
+    {
+     "tokens": [
+      "1:3.22",
+      "1:3.23",
+      "1:3.24",
+      "1:3.25"
+     ],
+     "english": "like servants who serve the master",
+     "literal": "as before"
+    },
+    {
+     "tokens": [
+      "1:3.26",
+      "1:3.27",
+      "1:3.28",
+      "1:3.29",
+      "1:3.30"
+     ],
+     "english": "not on condition of receiving a gratuity",
+     "literal": "'that-not on condition-of to-receive gratuity'"
+    },
+    {
+     "tokens": [
+      "1:3.31",
+      "1:3.32",
+      "1:3.33",
+      "1:3.34"
+     ],
+     "english": "and let the fear of Heaven be upon you",
+     "literal": "'and-let-be fear-of Heaven upon-you'"
+    }
+   ],
+   "grammar": [
+    "The saying is built on antithesis: אַל תִּהְיוּ ... אֶלָּא הֱווּ, with the same words repeated, the second time with שֶׁלֹּא.",
+    "עַל מְנָת (לְ) is an idiom for 'on condition (of)'; לְקַבֵּל is a Piel infinitive.",
+    "הַמְשַׁמְּשִׁין is Piel participle plural with the article, and את marks the definite object הָרַב (a Mishnaic use with שמש).",
+    "וִיהִי is the jussive 'and let there be'; the Mishnaic Hebrew uses it with a subject מוֹרָא שָׁמַיִם 'fear of Heaven'.",
+    "The verb forms: תִּהְיוּ is imperfect used as a prohibition with אַל; הֱווּ is the imperative."
+   ],
+   "note": "פְּרָס is rendered 'gratuity' because both commentators define it against שָׂכָר 'wage': a gift from one who owes nothing. אִישׁ סוֹכוֹ is 'of Sokho' (literally 'man of Sokho').",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:3:1",
+     "relation": "follows",
+     "summary": "Bartenura: פְּרָס is from the language of ערך 'valuation' (Targum: purseneh); it is what one gives to one who served him though he owes nothing, as a father gives a small son. Even for such a hope one should not serve one's Maker, but only from love."
+    },
+    {
+     "anchor": "bartenura:1:3:2",
+     "relation": "follows",
+     "summary": "Bartenura: even if you serve from love, serve also from fear: the lover is zealous in positive commandments, the one who fears is careful about prohibitions, and so one's service is complete."
+    },
+    {
+     "anchor": "rambam:1:3:1",
+     "relation": "follows",
+     "summary": "Rambam: פְּרָס is a reward given by one who owes no favour, unlike שָׂכָר which is due by law; one should serve God without hope of a reward, from love; but love does not remove the commandment of fear, hence 'let the fear of Heaven be upon you'."
+    },
+    {
+     "anchor": "rabbeinu-yonah:1:3:2",
+     "relation": "records",
+     "summary": "Rabbeinu Yonah's text reads אֶלָּא הֱווּ כַעֲבָדִים הַמְשַׁמְּשִׁין אֶת הָרַב עַל מְנָת שֶׁלֹּא לְקַבֵּל פְּרָס, 'on condition of not receiving a gratuity'; he holds that this reading of the books is the main one: serve as a bought slave serves, with no gratuity, out of love, as one serves a friend from long ago."
+    }
+   ],
+   "apparatus": [
+    "Spelling: none.",
+    "Variant (Rabbeinu Yonah's text): עַל מְנָת שֶׁלֹּא לְקַבֵּל פְּרָס, 'on condition of not receiving a gratuity', for שֶׁלֹּא עַל מְנָת לְקַבֵּל פְּרָס; he defends it as the reading of the books. His lemma also reads וִיהֵא for וִיהִי."
+   ]
+  },
+  {
+   "ref": "1:4",
+   "english": "Yose son of Yoezer of Tzereda and Yose son of Yochanan of Jerusalem received from them. Yose son of Yoezer of Tzereda says: Let your house be a meeting place for the sages; and be covered in the dust of their feet; and drink their words with thirst.",
+   "literal": "Yose son-of Yoezer man-of Tzereda and-Yose son-of Yochanan man-of Jerusalem received from-them. Yose son-of Yoezer man-of Tzereda says: Let-be your-house house-of meeting for-the-sages, and-be covering-yourself in-dust-of their-feet, and-be drinking in-thirst [acc.] their-words.",
+   "tokens": [
+    {
+     "id": "1:4.1",
+     "gloss": "Yose",
+     "sense": "2"
+    },
+    {
+     "id": "1:4.2",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:4.3",
+     "gloss": "Yoezer",
+     "sense": "2"
+    },
+    {
+     "id": "1:4.4",
+     "gloss": "man of",
+     "lex": "jastrow:אִישׁ",
+     "sense": "1"
+    },
+    {
+     "id": "1:4.5",
+     "gloss": "Tzereda",
+     "note": "צְרֵדָה: place name (Tzereda). The pack's entry jastrow:צְרֵדָה 'rough sound, snap' is a different word, so no sense is given."
+    },
+    {
+     "id": "1:4.6",
+     "gloss": "and Yose",
+     "sense": "2"
+    },
+    {
+     "id": "1:4.7",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:4.8",
+     "gloss": "Yochanan",
+     "sense": "1"
+    },
+    {
+     "id": "1:4.9",
+     "gloss": "man of",
+     "lex": "jastrow:אִישׁ",
+     "sense": "1"
+    },
+    {
+     "id": "1:4.10",
+     "gloss": "Jerusalem",
+     "sense": "1"
+    },
+    {
+     "id": "1:4.11",
+     "gloss": "received",
+     "sense": "2.1",
+     "note": "Piel plural; the two sages received together (a 'pair')."
+    },
+    {
+     "id": "1:4.12",
+     "gloss": "from them",
+     "note": "מֵהֶם: 'from them', the previous link of the chain: Rabbeinu Yonah, from Shimon the Righteous and Antigonos of Sokho."
+    },
+    {
+     "id": "1:4.13",
+     "gloss": "Yose",
+     "sense": "2"
+    },
+    {
+     "id": "1:4.14",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:4.15",
+     "gloss": "Yoezer",
+     "sense": "2"
+    },
+    {
+     "id": "1:4.16",
+     "gloss": "man of",
+     "lex": "jastrow:אִישׁ",
+     "sense": "1"
+    },
+    {
+     "id": "1:4.17",
+     "gloss": "Tzereda"
+    },
+    {
+     "id": "1:4.18",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:4.19",
+     "gloss": "let be",
+     "sense": "1.1.3",
+     "note": "יְהִי: jussive of הָיָה."
+    },
+    {
+     "id": "1:4.20",
+     "gloss": "your house",
+     "lex": "jastrow:בַּיִת",
+     "sense": "2",
+     "note": "Construct בֵּית with the suffix ךָ; here בֵיתְךָ."
+    },
+    {
+     "id": "1:4.21",
+     "gloss": "house of",
+     "lex": "jastrow:בַּיִת",
+     "sense": "2"
+    },
+    {
+     "id": "1:4.22",
+     "gloss": "meeting",
+     "sense": "2",
+     "note": "וַעַד: 'meeting, assembly'; בֵּית וַעַד is a meeting place."
+    },
+    {
+     "id": "1:4.23",
+     "gloss": "for the sages",
+     "sense": "1.4"
+    },
+    {
+     "id": "1:4.24",
+     "gloss": "and be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:4.25",
+     "gloss": "covered in dust",
+     "sense": "2.1",
+     "note": "Hithpael participle of אבק: 'covering oneself with dust'; metaphor for sitting at the feet of a teacher or following him closely."
+    },
+    {
+     "id": "1:4.26",
+     "gloss": "in the dust of",
+     "sense": "1.1",
+     "note": "בַּעֲפַר: ב + עָפָר construct."
+    },
+    {
+     "id": "1:4.27",
+     "gloss": "their feet",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:4.28",
+     "gloss": "and be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:4.29",
+     "gloss": "drinking",
+     "lex": "jastrow:שָׁתָה",
+     "sense": "1",
+     "note": "שׁוֹתֶה: Qal participle of the III-ה verb שתה 'to drink'; with וֶהֱוֵי, 'be one who drinks'."
+    },
+    {
+     "id": "1:4.30",
+     "gloss": "with thirst",
+     "sense": "1",
+     "note": "בְצָמָא: ב + צָמָא."
+    },
+    {
+     "id": "1:4.31",
+     "gloss": "-",
+     "note": "Object marker."
+    },
+    {
+     "id": "1:4.32",
+     "gloss": "their words",
+     "sense": "1.3",
+     "note": "Plural construct of דָּבָר with the suffix הֶם."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:4.1",
+      "1:4.2",
+      "1:4.3",
+      "1:4.4",
+      "1:4.5"
+     ],
+     "english": "Yose son of Yoezer of Tzereda",
+     "literal": "'Yose son-of Yoezer man-of Tzereda'"
+    },
+    {
+     "tokens": [
+      "1:4.6",
+      "1:4.7",
+      "1:4.8",
+      "1:4.9",
+      "1:4.10"
+     ],
+     "english": "and Yose son of Yochanan of Jerusalem",
+     "literal": "'and-Yose son-of Yochanan man-of Jerusalem'"
+    },
+    {
+     "tokens": [
+      "1:4.11",
+      "1:4.12"
+     ],
+     "english": "received from them",
+     "literal": "'received from-them'"
+    },
+    {
+     "tokens": [
+      "1:4.13",
+      "1:4.14",
+      "1:4.15",
+      "1:4.16",
+      "1:4.17"
+     ],
+     "english": "Yose son of Yoezer of Tzereda",
+     "literal": "repetition of the first name"
+    },
+    {
+     "tokens": [
+      "1:4.18"
+     ],
+     "english": "says",
+     "literal": "participle, present"
+    },
+    {
+     "tokens": [
+      "1:4.19",
+      "1:4.20",
+      "1:4.21",
+      "1:4.22",
+      "1:4.23"
+     ],
+     "english": "Let your house be a meeting place for the sages",
+     "literal": "'let-be your-house house-of meeting for-the-sages'"
+    },
+    {
+     "tokens": [
+      "1:4.24",
+      "1:4.25",
+      "1:4.26",
+      "1:4.27"
+     ],
+     "english": "and be covered in the dust of their feet",
+     "literal": "'and-be covering-yourself in-dust-of their-feet'"
+    },
+    {
+     "tokens": [
+      "1:4.28",
+      "1:4.29",
+      "1:4.30",
+      "1:4.31",
+      "1:4.32"
+     ],
+     "english": "and drink their words with thirst",
+     "literal": "'and-be drinking in-thirst their-words'"
+    }
+   ],
+   "grammar": [
+    "Pairs (זוּגוֹת): from Yose ben Yoezer on, teachers are named two by two, so קִבְּלוּ is plural; Bartenura says the first of each pair was the nasi and the second av beit din.",
+    "בֵּית וַעַד is 'a house of meeting' for the sages; בֵּית is construct and וַעַד an absolute noun.",
+    "מִתְאַבֵּק is a Hithpael participle ('covering oneself in dust'); with וֶהֱוֵי it makes a continuing action: 'be (continually) covered'.",
+    "וֶהֱוֵי: the conjunction וְ before a ḥatef vowel takes the matching full vowel, so וֶ before הֱ; the saying has three parallel commands (יְהִי, וֶהֱוֵי, וֶהֱוֵי).",
+    "אֶת marks the definite object דִּבְרֵיהֶם, as in Biblical Hebrew; the word order puts בְצָמָא first, before the object."
+   ],
+   "note": "מִתְאַבֵּק is rendered as the Hebrew image, 'covered in the dust of their feet', and not as the metaphor 'sit at their feet'. Bartenura gives two readings of it: (1) follow them closely, so that you are covered with the dust they raise; (2) sit on the ground at their feet while the teacher sits on the bench. The English keeps the image and takes (1), the first and more literal.",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:4:1",
+     "relation": "not-applicable",
+     "summary": "Bartenura: in this chapter the sages are named in pairs, each pair receiving from the earlier pair; the first of each pair was the nasi, the second the av beit din."
+    },
+    {
+     "anchor": "bartenura:1:4:2",
+     "relation": "follows",
+     "summary": "Bartenura: when the sages want to gather, let your house be ready for it, so that they say 'let us meet at so-and-so's house'; you will learn something from them, like one who enters a perfumer's shop and carries out a good smell."
+    },
+    {
+     "anchor": "bartenura:1:4:3",
+     "relation": "follows",
+     "summary": "Bartenura: first reading, that you walk behind them and are filled with the dust they raise; second reading, that you sit on the ground at their feet. The English adopts the first and records the second in the apparatus."
+    },
+    {
+     "anchor": "bartenura:1:4:4",
+     "relation": "follows",
+     "summary": "Bartenura: like a thirsty man who drinks eagerly, and not like a sated man who loathes even good food."
+    },
+    {
+     "anchor": "rambam:1:4:1",
+     "relation": "follows",
+     "summary": "Rambam: בֵּית וַעַד is בֵּית מוֹעֵד: make your house ready so that the sages always gather there, so that when someone asks 'where shall we meet?' he is told 'in so-and-so's house'."
+    }
+   ],
+   "apparatus": [
+    "Second reading of מִתְאַבֵּק (Bartenura): sit on the ground at their feet.",
+    "Variant: in 1:4.16-17 Vilna omits אִישׁ צְרֵדָה in the second mention of the name; the base text has it.",
+    "Commentary lemma: Rabbeinu Yonah names the second sage יוֹסֵף בֶּן יוֹחָנָן (Yosef) for יוֹסֵי בֶן יוֹחָנָן."
+   ]
+  },
+  {
+   "ref": "1:5",
+   "english": "Yose son of Yochanan of Jerusalem says: Let your house be open wide; and let the poor be members of your household; and do not talk too much with the woman. They said this of one's own wife; how much more so of the wife of his fellow. From here the sages said: Whenever a man talks too much with the woman, he brings evil upon himself, and neglects words of Torah, and in the end inherits Gehinnom.",
+   "literal": "Yose son-of Yochanan man-of Jerusalem says: Let-be your-house open to-breadth, and-let-be poor sons-of your-house, and-not multiply talk with the-woman. Of-his-wife they-said, light and-heavy of-wife-of his-fellow. From-here said sages: All time that-man multiplying talk with the-woman, causing evil to-himself, and-neglecting from-words-of Torah, and-his-end inheriting Gehinnom.",
+   "tokens": [
+    {
+     "id": "1:5.1",
+     "gloss": "Yose",
+     "sense": "2"
+    },
+    {
+     "id": "1:5.2",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:5.3",
+     "gloss": "Yochanan",
+     "sense": "1"
+    },
+    {
+     "id": "1:5.4",
+     "gloss": "man of",
+     "lex": "jastrow:אִישׁ",
+     "sense": "1"
+    },
+    {
+     "id": "1:5.5",
+     "gloss": "Jerusalem",
+     "sense": "1"
+    },
+    {
+     "id": "1:5.6",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:5.7",
+     "gloss": "let be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:5.8",
+     "gloss": "your house",
+     "lex": "jastrow:בַּיִת",
+     "sense": "2"
+    },
+    {
+     "id": "1:5.9",
+     "gloss": "open",
+     "sense": "1.1",
+     "note": "פָתוּחַ: passive participle of פתח."
+    },
+    {
+     "id": "1:5.10",
+     "gloss": "to breadth",
+     "note": "לִרְוָחָה: 'to wideness', i.e. wide open, or 'for relief' (רְוָחָה also means relief)."
+    },
+    {
+     "id": "1:5.11",
+     "gloss": "and let be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:5.12",
+     "gloss": "the poor",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:5.13",
+     "gloss": "sons of",
+     "sense": "1",
+     "note": "בְּנֵי בֵיתֶךָ: 'sons of your house', i.e. members of your household."
+    },
+    {
+     "id": "1:5.14",
+     "gloss": "your house",
+     "lex": "jastrow:בַּיִת",
+     "sense": "2",
+     "note": "Construct בֵיתֶךָ with the 2nd person suffix."
+    },
+    {
+     "id": "1:5.15",
+     "gloss": "and not",
+     "sense": "1",
+     "note": "וְאַל: vav + prohibitive אַל."
+    },
+    {
+     "id": "1:5.16",
+     "gloss": "multiply",
+     "sense": "1",
+     "note": "הִרְבָּה hif. imperfect: 'do much of'; with שִׂיחָה 'talk too much'."
+    },
+    {
+     "id": "1:5.17",
+     "gloss": "talk",
+     "lex": "jastrow:שִׂיחָה",
+     "sense": "1",
+     "note": "שִׂיחָה: 'talk, conversation' (Jastrow, v. סִיחָה); the object of תַּרְבֶּה: 'make much talk'."
+    },
+    {
+     "id": "1:5.18",
+     "gloss": "with",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:5.19",
+     "gloss": "the woman",
+     "sense": "1.1",
+     "note": "הָאִשָּׁה with the article; see note."
+    },
+    {
+     "id": "1:5.20",
+     "gloss": "of his wife",
+     "sense": "1.2",
+     "note": "בְּאִשְׁתּוֹ: 'concerning his wife', ב meaning 'about'."
+    },
+    {
+     "id": "1:5.21",
+     "gloss": "they said",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:5.22",
+     "gloss": "light",
+     "lex": "jastrow:קַל II",
+     "sense": "2",
+     "note": "קַל: 'light'; with וָחֹמֶר it is the logical form qal va-ḥomer."
+    },
+    {
+     "id": "1:5.23",
+     "gloss": "and heavy",
+     "note": "חֹמֶר here 'weight, stringency', the 'heavy' term of קַל וָחֹמֶר. The pack's entry (bdbs:חֹמֶר: clay, mortar, homer) is a different word, and no entry in the pack has this sense, so no sense is given."
+    },
+    {
+     "id": "1:5.24",
+     "gloss": "of the wife of",
+     "sense": "1.2",
+     "note": "אֵשֶׁת construct."
+    },
+    {
+     "id": "1:5.25",
+     "gloss": "his fellow",
+     "sense": "4",
+     "note": "חֲבֵרוֹ: 'his fellow', another man."
+    },
+    {
+     "id": "1:5.26",
+     "gloss": "from here",
+     "note": "מִכָּאן."
+    },
+    {
+     "id": "1:5.27",
+     "gloss": "said",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:5.28",
+     "gloss": "the sages",
+     "sense": "1.4"
+    },
+    {
+     "id": "1:5.29",
+     "gloss": "every",
+     "sense": "1.2"
+    },
+    {
+     "id": "1:5.30",
+     "gloss": "time",
+     "sense": "1",
+     "note": "זְמַן: here 'time'; כָּל זְמַן שֶׁ is 'as long as, whenever'."
+    },
+    {
+     "id": "1:5.31",
+     "gloss": "that a man",
+     "lex": "jastrow:אָדָם",
+     "sense": "1",
+     "note": "שֶׁ + אָדָם: 'a person'."
+    },
+    {
+     "id": "1:5.32",
+     "gloss": "multiplies",
+     "sense": "1",
+     "note": "Hifil participle."
+    },
+    {
+     "id": "1:5.33",
+     "gloss": "talk",
+     "lex": "jastrow:שִׂיחָה",
+     "sense": "1"
+    },
+    {
+     "id": "1:5.34",
+     "gloss": "with",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:5.35",
+     "gloss": "the woman",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:5.36",
+     "gloss": "brings",
+     "sense": "1",
+     "note": "גּוֹרֵם: 'causes' (the entry lists 'drag along, carry with it')."
+    },
+    {
+     "id": "1:5.37",
+     "gloss": "evil",
+     "sense": "1"
+    },
+    {
+     "id": "1:5.38",
+     "gloss": "on himself",
+     "lex": "jastrow:עֶצֶם",
+     "sense": "3",
+     "note": "לְעַצְמוֹ: ל + עֶצֶם 'bone, self' + וֹ: 'to himself'; עֶצֶם with a suffix is the Mishnaic reflexive."
+    },
+    {
+     "id": "1:5.39",
+     "gloss": "and neglects",
+     "sense": "3",
+     "note": "Qal participle of בטל: 'is idle from' = neglects."
+    },
+    {
+     "id": "1:5.40",
+     "gloss": "from words of",
+     "sense": "1.3"
+    },
+    {
+     "id": "1:5.41",
+     "gloss": "Torah",
+     "lex": "jastrow:תּוֹרָה",
+     "sense": "1"
+    },
+    {
+     "id": "1:5.42",
+     "gloss": "and his end",
+     "sense": "1"
+    },
+    {
+     "id": "1:5.43",
+     "gloss": "inherits",
+     "sense": "1.1.2",
+     "note": "יוֹרֵשׁ: participle, 'inherits' as a present certainty."
+    },
+    {
+     "id": "1:5.44",
+     "gloss": "Gehinnom",
+     "note": "גֵּיהִנֹּם, spelled with the older vocalisation; decisions.md."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:5.1",
+      "1:5.2",
+      "1:5.3",
+      "1:5.4",
+      "1:5.5"
+     ],
+     "english": "Yose son of Yochanan of Jerusalem",
+     "literal": "as in 1:4"
+    },
+    {
+     "tokens": [
+      "1:5.6"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:5.7",
+      "1:5.8",
+      "1:5.9",
+      "1:5.10"
+     ],
+     "english": "Let your house be open wide",
+     "literal": "'let-be your-house open to-breadth'"
+    },
+    {
+     "tokens": [
+      "1:5.11",
+      "1:5.12",
+      "1:5.13",
+      "1:5.14"
+     ],
+     "english": "and let the poor be members of your household",
+     "literal": "'and-let-be poor sons-of your-house'"
+    },
+    {
+     "tokens": [
+      "1:5.15",
+      "1:5.16",
+      "1:5.17",
+      "1:5.18",
+      "1:5.19"
+     ],
+     "english": "and do not talk too much with the woman",
+     "literal": "'and-not multiply talk with the-woman'"
+    },
+    {
+     "tokens": [
+      "1:5.20",
+      "1:5.21"
+     ],
+     "english": "They said this of one's own wife",
+     "literal": "'of-his-wife they-said'"
+    },
+    {
+     "tokens": [
+      "1:5.22",
+      "1:5.23",
+      "1:5.24",
+      "1:5.25"
+     ],
+     "english": "how much more so of the wife of his fellow",
+     "literal": "'light and-heavy of-wife-of his-fellow'"
+    },
+    {
+     "tokens": [
+      "1:5.26",
+      "1:5.27",
+      "1:5.28"
+     ],
+     "english": "From here the sages said",
+     "literal": "'from-here said sages'"
+    },
+    {
+     "tokens": [
+      "1:5.29",
+      "1:5.30",
+      "1:5.31",
+      "1:5.32",
+      "1:5.33",
+      "1:5.34",
+      "1:5.35"
+     ],
+     "english": "Whenever a man talks too much with the woman",
+     "literal": "'all time that-man multiplying talk with-the-woman'"
+    },
+    {
+     "tokens": [
+      "1:5.36",
+      "1:5.37",
+      "1:5.38"
+     ],
+     "english": "he brings evil upon himself",
+     "literal": "'causing evil to-himself'"
+    },
+    {
+     "tokens": [
+      "1:5.39",
+      "1:5.40",
+      "1:5.41"
+     ],
+     "english": "and neglects words of Torah",
+     "literal": "'and-neglecting from-words-of Torah'"
+    },
+    {
+     "tokens": [
+      "1:5.42",
+      "1:5.43",
+      "1:5.44"
+     ],
+     "english": "and in the end inherits Gehinnom",
+     "literal": "'and-his-end inheriting Gehinnom'"
+    }
+   ],
+   "grammar": [
+    "The mishnah has a saying of Yose (three imperatives) and then a comment in the voice of the sages ('they said', 'from here the sages said'). Bartenura notes that the comment is Rabbi Yehuda HaNasi's, who edited the mishnayot.",
+    "קַל וָחֹמֶר is the argument a fortiori ('light and heavy'), here without a verb: 'how much more so'.",
+    "עַל / בְּ: בְּאִשְׁתּוֹ אָמְרוּ uses ב to mean 'concerning'; the verb is plural with no stated subject ('they said' = 'people said / the sages said').",
+    "אָדָם is 'a person', but the context is a man speaking with a woman; the English says 'a man'.",
+    "גּוֹרֵם, בּוֹטֵל and יוֹרֵשׁ are participles that state a general result: 'is causing, is neglecting, is inheriting'.",
+    "שִׂיחָה is the direct object of תַּרְבֶּה / מַרְבֶּה (Hifil of רבה, 'make much'): 'make much talk', i.e. talk too much; it is indefinite, so it has no אֶת."
+   ],
+   "note": "הָאִשָּׁה is rendered 'the woman', with the article, because Bartenura reads the article as the reason the warning is first about one's own wife (בְּאִשְׁתּוֹ). Rambam says talk with women is mostly about sexual matters, and gives that as the reason; Bartenura gives the cases of Korach and the wife's contempt. The two do not conflict on the English, and the English does not choose between them. 'Neglects words of Torah' follows both commentators: he is drawn to idle things and wastes his time. 'Open wide' (לִרְוָחָה) is the wide-open house; Bartenura: open to the four directions, as Abraham's was.",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:5:1",
+     "relation": "follows",
+     "summary": "Bartenura: like the house of Abraham, which was open to the four corners of the world, so that guests would not have to go round to find the door."
+    },
+    {
+     "anchor": "bartenura:1:5:2",
+     "relation": "follows",
+     "summary": "Bartenura: let him not buy slaves to serve him; it is better that Israelites benefit from his property than the accursed seed of Canaan."
+    },
+    {
+     "anchor": "bartenura:1:5:3",
+     "relation": "follows",
+     "summary": "Bartenura: since he says 'the woman' and not 'a woman', we learn that they said it of one's own wife. Some explain it of a wife in her impurity only, but the mishnah indicates even a pure wife (Chagigah 5b: even idle talk between husband and wife is reported at the judgment), unless he must appease her for a religious reason."
+    },
+    {
+     "anchor": "bartenura:1:5:4",
+     "relation": "follows",
+     "summary": "Bartenura: Rabbi (who arranged the mishnayot) wrote this on the basis of Yose's words; when a man tells his wife his troubles, she teaches him to stir up strife (Korach), or she scorns him in her heart; both bring evil on himself."
+    },
+    {
+     "anchor": "bartenura:1:5:5",
+     "relation": "follows",
+     "summary": "Bartenura: he is drawn to idle things and does not engage in Torah."
+    },
+    {
+     "anchor": "rambam:1:5:1",
+     "relation": "follows",
+     "summary": "Rambam: let there be an open gate for travellers, so that anyone on the road who needs something, or is hungry or thirsty, may enter at once."
+    },
+    {
+     "anchor": "rambam:1:5:2",
+     "relation": "follows",
+     "summary": "Rambam: his servants should be the poor and weak, which is better than buying slaves; the sages used to blame those who bought slaves and praise those whose household was the poor."
+    },
+    {
+     "anchor": "rambam:1:5:3",
+     "relation": "follows",
+     "summary": "Rambam: talk with women is mostly about intercourse, so excessive talk with them is forbidden; 'evil to himself' means he acquires base traits and much desire."
+    },
+    {
+     "anchor": "rambam:1:5:4",
+     "relation": "follows",
+     "summary": "Rambam: it is clear that he wastes his time on other affairs."
+    },
+    {
+     "anchor": "rambam:1:5:5",
+     "relation": "follows",
+     "summary": "Rambam: because such talk brings him to rebellion and he becomes liable to punishment."
+    }
+   ],
+   "apparatus": [
+    "Spelling: 1:5.23 Vilna reads וחומר; 1:5.44 Vilna reads גיהנום; the base text has the pointed forms.",
+    "Reading of לִרְוָחָה: 'for relief', so that the house is open to give relief to the needy (a second sense of רְוָחָה).",
+    "Commentary lemmas: Rambam reads וְסוֹפוֹ יוֹרֵד לְגֵיהִנֹּם, 'and in the end goes down to Gehinnom', for יוֹרֵשׁ גֵּיהִנֹּם; Rabbeinu Yonah reads כָּל הַמַּרְבֶּה שִׂיחָה, 'whoever talks much', for כָּל זְמַן שֶׁאָדָם מַרְבֶּה שִׂיחָה, and names the sage יוֹסֵף בֶּן יוֹחָנָן."
+   ]
+  },
+  {
+   "ref": "1:6",
+   "english": "Yehoshua son of Perachya and Nittai the Arbelite received from them. Yehoshua son of Perachya says: Make for yourself a teacher; and acquire for yourself a friend; and judge every person favorably.",
+   "literal": "Yehoshua son-of Perachya and-Nittai the-Arbelite received from-them. Yehoshua son-of Perachya says: Make for-you teacher, and-acquire for-you friend, and-be judging [acc.] all the-person to-scale-of merit.",
+   "tokens": [
+    {
+     "id": "1:6.1",
+     "gloss": "Yehoshua",
+     "note": "יְהוֹשֻׁעַ בֶּן פְּרַחְיָה, not the Joshua of 1:1."
+    },
+    {
+     "id": "1:6.2",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:6.3",
+     "gloss": "Perachya"
+    },
+    {
+     "id": "1:6.4",
+     "gloss": "and Nittai"
+    },
+    {
+     "id": "1:6.5",
+     "gloss": "the Arbelite",
+     "sense": "1",
+     "note": "הָאַרְבֵּלִי: 'the man of Arbel'."
+    },
+    {
+     "id": "1:6.6",
+     "gloss": "received",
+     "sense": "2.1"
+    },
+    {
+     "id": "1:6.7",
+     "gloss": "from them"
+    },
+    {
+     "id": "1:6.8",
+     "gloss": "Yehoshua"
+    },
+    {
+     "id": "1:6.9",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "1:6.10",
+     "gloss": "Perachya"
+    },
+    {
+     "id": "1:6.11",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "1:6.12",
+     "gloss": "make",
+     "sense": "1.1.2.1",
+     "note": "Imperative singular."
+    },
+    {
+     "id": "1:6.13",
+     "gloss": "for yourself",
+     "note": "לְךָ: ethical dative."
+    },
+    {
+     "id": "1:6.14",
+     "gloss": "a teacher",
+     "lex": "jastrow:רַב II",
+     "sense": "3",
+     "note": "רַב: 'teacher, master'."
+    },
+    {
+     "id": "1:6.15",
+     "gloss": "and acquire",
+     "lex": "jastrow:קָנָה",
+     "sense": "1",
+     "note": "קְנֵה: Qal imperative of the III-ה verb קנה 'to buy, acquire'; Rambam stresses the word 'acquire'."
+    },
+    {
+     "id": "1:6.16",
+     "gloss": "for yourself"
+    },
+    {
+     "id": "1:6.17",
+     "gloss": "a friend",
+     "sense": "5",
+     "note": "חָבֵר: 'companion, friend, fellow'."
+    },
+    {
+     "id": "1:6.18",
+     "gloss": "and be",
+     "sense": "1.1.3"
+    },
+    {
+     "id": "1:6.19",
+     "gloss": "judging",
+     "lex": "jastrow:דִּין I",
+     "sense": "4",
+     "note": "דָן: Qal participle of the hollow root דין 'to judge' (the same form as the perfect דָּן)."
+    },
+    {
+     "id": "1:6.20",
+     "gloss": "-",
+     "note": "Object marker."
+    },
+    {
+     "id": "1:6.21",
+     "gloss": "every",
+     "sense": "1.2"
+    },
+    {
+     "id": "1:6.22",
+     "gloss": "person",
+     "lex": "jastrow:אָדָם",
+     "sense": "1",
+     "note": "הָאָדָם: 'the person, mankind'."
+    },
+    {
+     "id": "1:6.23",
+     "gloss": "to the scale of",
+     "lex": "jastrow:כַּף",
+     "sense": "7",
+     "note": "כַּף: the pan of a balance."
+    },
+    {
+     "id": "1:6.24",
+     "gloss": "merit",
+     "sense": "2",
+     "note": "זְכוּת: acquittal, favourable judgment."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:6.1",
+      "1:6.2",
+      "1:6.3"
+     ],
+     "english": "Yehoshua son of Perachya",
+     "literal": "'Yehoshua son-of Perachya'"
+    },
+    {
+     "tokens": [
+      "1:6.4",
+      "1:6.5"
+     ],
+     "english": "and Nittai the Arbelite",
+     "literal": "'and-Nittai the-Arbelite'"
+    },
+    {
+     "tokens": [
+      "1:6.6",
+      "1:6.7"
+     ],
+     "english": "received from them",
+     "literal": "'received from-them'"
+    },
+    {
+     "tokens": [
+      "1:6.8",
+      "1:6.9",
+      "1:6.10"
+     ],
+     "english": "Yehoshua son of Perachya",
+     "literal": "as above"
+    },
+    {
+     "tokens": [
+      "1:6.11"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:6.12",
+      "1:6.13",
+      "1:6.14"
+     ],
+     "english": "Make for yourself a teacher",
+     "literal": "'make for-you teacher'"
+    },
+    {
+     "tokens": [
+      "1:6.15",
+      "1:6.16",
+      "1:6.17"
+     ],
+     "english": "and acquire for yourself a friend",
+     "literal": "'and-acquire for-you friend'"
+    },
+    {
+     "tokens": [
+      "1:6.18",
+      "1:6.19",
+      "1:6.20",
+      "1:6.21",
+      "1:6.22",
+      "1:6.23",
+      "1:6.24"
+     ],
+     "english": "and judge every person favorably",
+     "literal": "'and-be judging all the-person to-scale-of merit'; idiom: to the pan of merit"
+    }
+   ],
+   "grammar": [
+    "קִבְּלוּ is plural because there are two teachers, again named as a pair.",
+    "עֲשֵׂה and קְנֵה are imperatives of final-ה verbs; לְךָ repeated after each verb is an ethical dative ('for yourself').",
+    "וֶהֱוֵי דָן is the imperative of הָיָה with a participle: 'be one who judges', a continuing practice.",
+    "לְכַף זְכוּת is an idiom: the scale of a balance tipped toward merit; the English 'favorably' gives the sense.",
+    "The three commands are short and parallel, each with an object: רַב, חָבֵר, כָּל הָאָדָם."
+   ],
+   "note": "'Make for yourself a teacher' is taken in Rambam's sense: treat him as your teacher even if he is not fit. Bartenura quotes Rambam and then gives his own hearing of the words, that one should take one regular teacher; it is recorded. 'Acquire' is kept: Rambam stresses that the verb is קנה 'buy', not 'make'. 'Judge every person favorably' is the idiom; both commentators limit it (for an unknown man; a known wicked man may be judged otherwise), but the saying is kept in its brevity.",
+   "commentary": [
+    {
+     "anchor": "bartenura:1:6:1",
+     "relation": "records",
+     "summary": "Bartenura: Rambam explains that even if he is not fit to be your teacher, make him your teacher; Bartenura's own view is that he should take one teacher to learn from always, and not learn today from one and tomorrow from another (though Avodah Zarah 19a says one who learns from one teacher sees no blessing, which refers to reasoning only)."
+    },
+    {
+     "anchor": "bartenura:1:6:2",
+     "relation": "follows",
+     "summary": "Bartenura: even if you must buy him at a high price and spend money to win his love; this is not said of a teacher, who must teach free of charge."
+    },
+    {
+     "anchor": "bartenura:1:6:3",
+     "relation": "follows",
+     "summary": "Bartenura: when the matter is in the scale with no tilt either way, such as a man of unknown conduct who does something that can be judged for merit or for guilt, the measure of piety is to judge for merit; but one known to be wicked may be judged for guilt."
+    },
+    {
+     "anchor": "rambam:1:6:1",
+     "relation": "follows",
+     "summary": "Rambam: even if he is not fit to be your teacher, set him up as your teacher and imagine him a teacher, and you will gain learning from it; learning from another is firmer than learning alone, even if he is your equal or below you."
+    },
+    {
+     "anchor": "rambam:1:6:2",
+     "relation": "follows",
+     "summary": "Rambam: he says 'acquire', not 'make' or 'join': one must acquire a friend who loves him, through whom his deeds and affairs are put right (as 'a companion or death'), and strive for him with all his heart; he then lists the kinds of friend: of use, of pleasure and of virtue."
+    },
+    {
+     "anchor": "rambam:1:6:3",
+     "relation": "follows",
+     "summary": "Rambam: when you do not know whether a man is righteous or wicked and he does something that may be taken well or badly, take it well. A man known to be righteous who is seen doing what looks wrong must be judged favourably if there is any possibility, and you may not suspect him; but of a known wicked man who does what looks good, be on guard. For the unknown man and an undecided act, the way of piety is to judge for merit."
+    }
+   ],
+   "apparatus": [
+    "The sages in the chain: Yehoshua son of Perachya and Nittai the Arbelite received from Yose son of Yoezer and Yose son of Yochanan (1:4-5).",
+    "The phrase 'to the scale of merit' (לְכַף זְכוּת) is the idiom; Jastrow (כַּף 7) gives 'scale of the balance', and Bartenura's כַּף מֹאזְנַיִם is the pan of a balance."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1303 @@
+{
+ "unit": "noach-18",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "11:1",
+   "english": "Now the whole earth had one language and the same words.",
+   "literal": "and-was all-of the-earth language one and-words one(pl)",
+   "tokens": [
+    {
+     "id": "11:1.1",
+     "gloss": "and it was",
+     "sense": "Qal III",
+     "note": "wayyiqtol of הָיָה, 'it was / it came to be'"
+    },
+    {
+     "id": "11:1.2",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "11:1.3",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "11:1.4",
+     "gloss": "language",
+     "sense": "2",
+     "note": "שָׂפָה is literally 'lip'; here 'speech, language'"
+    },
+    {
+     "id": "11:1.5",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "11:1.6",
+     "gloss": "and words",
+     "sense": "III"
+    },
+    {
+     "id": "11:1.7",
+     "gloss": "the same (lit. 'one')",
+     "sense": "1",
+     "note": "plural of 'one'; 'one and the same', 'identical'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:1.1",
+      "11:1.2",
+      "11:1.3"
+     ],
+     "english": "Now the whole earth had",
+     "literal": "'and-was all-of the-earth'; the wayyiqtol of הָיָה opens the scene and takes the whole earth as its subject"
+    },
+    {
+     "tokens": [
+      "11:1.4",
+      "11:1.5"
+     ],
+     "english": "one language",
+     "literal": "'lip one'"
+    },
+    {
+     "tokens": [
+      "11:1.6",
+      "11:1.7"
+     ],
+     "english": "and the same words",
+     "literal": "'and-words one(pl)'; plural אֲחָדִים, 'one and the same'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי with a subject and a following predicate (שָׂפָה אֶחָת) states a condition: 'the whole earth was of one language'.",
+    "כָל־הָאָרֶץ is the whole earth by metonymy for all its people (Radak: כָּל בְּנֵי הָאָרֶץ).",
+    "אֲחָדִים is the plural of אֶחָד, rare; it agrees in gender with דְּבָרִים (masculine) while שָׂפָה takes feminine אַחַת.",
+    "The etnaḥta on אַחַת divides the verse: 'one language' // 'and the same words'."
+   ],
+   "note": "'Language' is the sense of שָׂפָה here; 'lip' is the literal sense. אֲחָדִים is read as 'the same' (identical words), the sense Ibn Ezra gives (the words meant the same to all); Rashi's 'one counsel' is recorded as an alternative.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:1:1",
+     "relation": "follows",
+     "summary": "Rashi: שפה אחת means the holy tongue (Hebrew). The English says 'one language'; the identification is recorded here and in the apparatus."
+    },
+    {
+     "anchor": "rashi:11:1:2",
+     "relation": "records",
+     "summary": "Rashi reads וּדְבָרִים אֲחָדִים as 'one counsel': they agreed to storm heaven and make war on God. A midrash (Bereshit Rabbah) adds 'on His oneness' and a fear of the sky collapsing every 1656 years. The English keeps the plain sense 'the same words'."
+    },
+    {
+     "anchor": "ibn-ezra:11:1:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: שפה אחת is one language, and most likely the holy tongue, since Adam, Eve, Cain, Seth and Peleg are named in it. He also says the word אֶחָת is vocalised with a small patah when absolute."
+    },
+    {
+     "anchor": "ibn-ezra:11:1:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אֲחָדִים means that today words in every language are not understood by all speakers of it, but then the sayings of the wise and the foolish were 'the same'; the plural אחדים is from אֶחָד."
+    }
+   ],
+   "apparatus": [
+    "Rashi, Ibn Ezra and Radak identify the one language with the holy tongue; Onkelos has 'one tongue and one speech'.",
+    "Radak (11:1:3) takes 'one words' as one agreement (cf. Joshua 9:2 'with one mouth')."
+   ]
+  },
+  {
+   "ref": "11:2",
+   "english": "As they traveled from the east, they found a plain in the land of Shinar and settled there.",
+   "literal": "and-was in-set-out-their from-east and-they-found plain in-land-of Shinar and-they-settled there",
+   "tokens": [
+    {
+     "id": "11:2.1",
+     "gloss": "and it was",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol introducing a time clause with an infinitive; not translated separately"
+    },
+    {
+     "id": "11:2.2",
+     "gloss": "when they set out",
+     "sense": "Qal 2.a",
+     "note": "בְּ + infinitive construct + suffix: 'in their setting out'"
+    },
+    {
+     "id": "11:2.3",
+     "gloss": "from the east",
+     "sense": "1.b",
+     "note": "מִקֶּדֶם: 'from the east' or 'from of old'; see note"
+    },
+    {
+     "id": "11:2.4",
+     "gloss": "and they found",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "11:2.5",
+     "gloss": "a plain",
+     "sense": "1",
+     "note": "בִּקְעָה, a broad valley"
+    },
+    {
+     "id": "11:2.6",
+     "gloss": "in the land of",
+     "sense": "2",
+     "note": "construct state"
+    },
+    {
+     "id": "11:2.7",
+     "gloss": "Shinar",
+     "note": "place name: the region of Babylonia"
+    },
+    {
+     "id": "11:2.8",
+     "gloss": "and they settled",
+     "sense": "Qal 3",
+     "note": "wayyiqtol, root ישב"
+    },
+    {
+     "id": "11:2.9",
+     "gloss": "there"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:2.1",
+      "11:2.2",
+      "11:2.3"
+     ],
+     "english": "As they traveled from the east",
+     "literal": "'and-was in-their-setting-out from-east'; the וַיְהִי + בְּ-infinitive pattern is a temporal clause"
+    },
+    {
+     "tokens": [
+      "11:2.4",
+      "11:2.5"
+     ],
+     "english": "they found a plain",
+     "literal": "'and-they-found a-plain'"
+    },
+    {
+     "tokens": [
+      "11:2.6",
+      "11:2.7"
+     ],
+     "english": "in the land of Shinar",
+     "literal": "'in-land-of Shinar'"
+    },
+    {
+     "tokens": [
+      "11:2.8",
+      "11:2.9"
+     ],
+     "english": "and settled there",
+     "literal": "'and-they-settled there'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי בְּ + infinitive construct is the regular way to say 'it was when ...'; the main clause follows with wayyiqtol (וַיִּמְצְאוּ).",
+    "בְּנָסְעָם: root נסע with the preposition בְּ and a plural suffix, 'in their setting out'.",
+    "The wayyiqtols וַיִּמְצְאוּ and וַיֵּשְׁבוּ carry the narrative forward.",
+    "The etnaḥta on מִקֶּדֶם separates the journey from the finding."
+   ],
+   "note": "מִקֶּדֶם is taken as 'from the east' (Rashi, Ibn Ezra, Radak: they came from the eastern mountains / Ararat). Another sense is 'in the east' or 'from of old', recorded in the apparatus.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:2:1",
+     "relation": "follows",
+     "summary": "Rashi: they had been dwelling at 'the mountain of the east' (10:30) and set out from there to find a place that would hold them all, and found only Shinar. The English 'from the east' follows him."
+    },
+    {
+     "anchor": "ibn-ezra:11:2:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בנסעם מקדם is a sign that the mountains of Ararat are in the east, so they travelled westward from the east."
+    },
+    {
+     "anchor": "ibn-ezra:11:2:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וימצאו בקעה means they sought a good place to build a city until they found this plain; בקעה is a flat, level plain, opposite of 'rough places', though it may also lie between mountains as if cleft."
+    },
+    {
+     "anchor": "radak:11:2:1",
+     "relation": "follows",
+     "summary": "Radak: מקדם is from the east, where humanity first lived; the plain is level ground between mountains."
+    }
+   ],
+   "apparatus": [
+    "Some read מִקֶּדֶם as 'eastward' or 'in the east' (Ramban reports Ibn Ezra's reading of Ararat; Ramban disputes Rashi that the migrants were only Shem's line).",
+    "Onkelos translates 'in the beginning' (בְּקַדְמֵיתָא), taking קדם as 'of old', and 'land of Babylon' for שִׁנְעָר."
+   ]
+  },
+  {
+   "ref": "11:3",
+   "english": "They said to one another, \"Come, let us make bricks and burn them hard.\" So brick served them as stone, and bitumen served them as mortar.",
+   "literal": "and-they-said man to-his-fellow come let-us-make-bricks bricks and-let-us-burn to-burning and-was to-them the-brick for-stone and-the-bitumen was to-them for-mortar",
+   "tokens": [
+    {
+     "id": "11:3.1",
+     "gloss": "and they said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, plural"
+    },
+    {
+     "id": "11:3.2",
+     "gloss": "each (lit. 'a man')",
+     "note": "אִישׁ אֶל־רֵעֵהוּ is the idiom for 'one to another'"
+    },
+    {
+     "id": "11:3.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "11:3.4",
+     "gloss": "his fellow",
+     "note": "construct + suffix: 'his fellow, his neighbour'"
+    },
+    {
+     "id": "11:3.5",
+     "gloss": "come",
+     "sense": "5",
+     "note": "הָבָה, an imperative of יהב with paragogic he, used as a call to action ('come now')"
+    },
+    {
+     "id": "11:3.6",
+     "gloss": "let us make bricks",
+     "note": "cohortative of the denominative verb לבן 'make brick'"
+    },
+    {
+     "id": "11:3.7",
+     "gloss": "bricks",
+     "sense": "2",
+     "note": "cognate object: 'let us brick bricks'"
+    },
+    {
+     "id": "11:3.8",
+     "gloss": "and let us burn",
+     "sense": "Qal",
+     "note": "cohortative"
+    },
+    {
+     "id": "11:3.9",
+     "gloss": "hard (lit. 'to a burning')",
+     "note": "cognate infinitive-noun; 'thoroughly burn'"
+    },
+    {
+     "id": "11:3.10",
+     "gloss": "and it was",
+     "sense": "Qal II.2",
+     "note": "wayyiqtol feminine, agreeing with הַלְּבֵנָה; 'became'"
+    },
+    {
+     "id": "11:3.11",
+     "gloss": "to them",
+     "note": "dative of possession/advantage"
+    },
+    {
+     "id": "11:3.12",
+     "gloss": "the brick",
+     "sense": "2",
+     "note": "singular collective"
+    },
+    {
+     "id": "11:3.13",
+     "gloss": "for stone",
+     "sense": "2",
+     "note": "לְ: 'as, for'"
+    },
+    {
+     "id": "11:3.14",
+     "gloss": "and the bitumen",
+     "note": "חֵמָר 'bitumen'; a different word from חֹמֶר"
+    },
+    {
+     "id": "11:3.15",
+     "gloss": "was",
+     "sense": "Qal II.2",
+     "note": "qatal; here the order is subject first, unlike the first clause"
+    },
+    {
+     "id": "11:3.16",
+     "gloss": "to them"
+    },
+    {
+     "id": "11:3.17",
+     "gloss": "for mortar",
+     "note": "לְ + חֹמֶר: 'as mortar'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:3.1",
+      "11:3.2",
+      "11:3.3",
+      "11:3.4"
+     ],
+     "english": "They said to one another",
+     "literal": "'and-they-said a-man to his-fellow'"
+    },
+    {
+     "tokens": [
+      "11:3.5"
+     ],
+     "english": "Come",
+     "literal": "'give / come now'; הָבָה is an exhortation, not a command to give"
+    },
+    {
+     "tokens": [
+      "11:3.6",
+      "11:3.7"
+     ],
+     "english": "let us make bricks",
+     "literal": "'let-us-brick bricks'; cognate accusative"
+    },
+    {
+     "tokens": [
+      "11:3.8",
+      "11:3.9"
+     ],
+     "english": "and burn them hard",
+     "literal": "'and-let-us-burn to-a-burning'; cognate noun intensifies the verb"
+    },
+    {
+     "tokens": [
+      "11:3.10",
+      "11:3.11",
+      "11:3.12",
+      "11:3.13"
+     ],
+     "english": "So brick served them as stone",
+     "literal": "'and-was to-them the-brick for-stone'"
+    },
+    {
+     "tokens": [
+      "11:3.14",
+      "11:3.15",
+      "11:3.16",
+      "11:3.17"
+     ],
+     "english": "and bitumen served them as mortar",
+     "literal": "'and-the-bitumen was to-them for-mortar'"
+    }
+   ],
+   "grammar": [
+    "הָבָה is the imperative of יָהַב ('give') with paragogic he, but it functions as an interjection ('come now'), and so can address women or a plural group (Radak, Ibn Ezra).",
+    "נִלְבְּנָה לְבֵנִים and נִשְׂרְפָה לִשְׂרֵפָה pair a cohortative verb with a cognate noun; Radak compares 'and David fasted a fast'.",
+    "The first clause of the second sentence (וַתְּהִי ... הַלְּבֵנָה לְאָבֶן) has verb first; the second (וְהַחֵמָר הָיָה ...) has subject first, giving the two a chiastic balance.",
+    "אֶבֶן and לְבֵנָה, חֵמָר and חֹמֶר form two sound-pairs: stone/brick, bitumen/mortar.",
+    "The accent on וַתְּהִי is qadma with the vowel qamets in a pausal-like position, a point Radak notes (a qamets before a zaqef qaton)."
+   ],
+   "note": "חֵמָר is rendered 'bitumen' (the lexicon's sense); Ibn Ezra and Radak gloss it as clay or mud, recorded here. Rashi's remark that there are no stones in Babylon explains why brick stood for stone.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:3:1",
+     "relation": "records",
+     "summary": "Rashi: 'a man to his fellow' means nation to nation, Egypt to Cush, Cush to Put, Put to Canaan. The English keeps the ordinary sense 'one to another'."
+    },
+    {
+     "anchor": "rashi:11:3:2",
+     "relation": "follows",
+     "summary": "Rashi: הבה is a call to prepare oneself, to join for work, for counsel or for a burden; 'come' conveys the summons."
+    },
+    {
+     "anchor": "rashi:11:3:3",
+     "relation": "follows",
+     "summary": "Rashi: they made bricks because there are no stones in Babylon, which is a plain."
+    },
+    {
+     "anchor": "rashi:11:3:4",
+     "relation": "follows",
+     "summary": "Rashi: this is how bricks are made, burned in a kiln; the English 'burn them hard'."
+    },
+    {
+     "anchor": "rashi:11:3:5",
+     "relation": "follows",
+     "summary": "Rashi: לחמר is for plastering the wall; the English 'mortar'."
+    },
+    {
+     "anchor": "ibn-ezra:11:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: נלבנה is from לבנים, though 'bricks' (לבנים) has the ending of feminine plurals, like נשים; the bricks were burned until they were hard and would not dissolve in water or fire."
+    },
+    {
+     "anchor": "ibn-ezra:11:3:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'the brick became for them stone' means 'instead of stone'."
+    },
+    {
+     "anchor": "ibn-ezra:11:3:3",
+     "relation": "records",
+     "summary": "Ibn Ezra glosses החמר as 'clay/mud' (טיט), 'as it sounds in the language of Ishmael'. The English takes the lexicon's sense 'bitumen' and keeps 'mortar' for לַחֹמֶר. He adds that the builders were not fools who thought to climb to heaven, nor afraid of a flood, but wished to build a great city and a tall tower as a sign and a name."
+    },
+    {
+     "anchor": "ibn-ezra:11:4:2",
+     "relation": "not-applicable",
+     "summary": "Anchored here by the matching program: Ibn Ezra says not to be surprised by 'its top in the heavens' (11:4), since Moses speaks of 'cities great and fortified up to heaven' (Deut 1:28); the builders thought their plan secure, but the LORD did not counsel it. It bears on 11:4, not on 11:3."
+    },
+    {
+     "anchor": "radak:11:3:5",
+     "relation": "records",
+     "summary": "Radak: חֵמָר is clay kneaded with water; חֹמֶר is a mix of lime and sand; there was no stone to burn for lime, so they used חֵמָר instead."
+    }
+   ],
+   "apparatus": [
+    "Onkelos translates חֵמָרָא as 'mortar' (לְשִׁיעַ) and לְבֵנִים as 'bricks'."
+   ]
+  },
+  {
+   "ref": "11:4",
+   "english": "Then they said, \"Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be scattered over the face of the whole earth.\"",
+   "literal": "and-they-said come let-us-build for-us city and-tower and-its-head in-the-heavens and-let-us-make for-us name lest we-be-scattered upon face-of all-of the-earth",
+   "tokens": [
+    {
+     "id": "11:4.1",
+     "gloss": "and they said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, plural"
+    },
+    {
+     "id": "11:4.2",
+     "gloss": "come",
+     "sense": "5",
+     "note": "imperative + paragogic he"
+    },
+    {
+     "id": "11:4.3",
+     "gloss": "let us build",
+     "sense": "Qal",
+     "note": "cohortative"
+    },
+    {
+     "id": "11:4.4",
+     "gloss": "for ourselves",
+     "note": "ethical dative"
+    },
+    {
+     "id": "11:4.5",
+     "gloss": "a city",
+     "sense": "1"
+    },
+    {
+     "id": "11:4.6",
+     "gloss": "and a tower",
+     "sense": "1"
+    },
+    {
+     "id": "11:4.7",
+     "gloss": "and its top",
+     "sense": "2.a",
+     "note": "construct with 3ms suffix; 'its head'"
+    },
+    {
+     "id": "11:4.8",
+     "gloss": "in the heavens",
+     "sense": "1.a",
+     "note": "dual, always plural in English"
+    },
+    {
+     "id": "11:4.9",
+     "gloss": "and let us make",
+     "sense": "Qal II.1",
+     "note": "cohortative"
+    },
+    {
+     "id": "11:4.10",
+     "gloss": "for ourselves"
+    },
+    {
+     "id": "11:4.11",
+     "gloss": "a name",
+     "sense": "3",
+     "note": "'a name' in the sense of fame, reputation"
+    },
+    {
+     "id": "11:4.12",
+     "gloss": "lest",
+     "note": "פֶּן introduces a feared result"
+    },
+    {
+     "id": "11:4.13",
+     "gloss": "we be scattered",
+     "sense": "Qal",
+     "note": "yiqtol qal of פוץ: 'be dispersed'"
+    },
+    {
+     "id": "11:4.14",
+     "gloss": "over",
+     "sense": "II"
+    },
+    {
+     "id": "11:4.15",
+     "gloss": "the face of",
+     "sense": "I.5",
+     "note": "construct plural, 'surface'"
+    },
+    {
+     "id": "11:4.16",
+     "gloss": "the whole of",
+     "sense": "1"
+    },
+    {
+     "id": "11:4.17",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:4.1"
+     ],
+     "english": "Then they said",
+     "literal": "'and-they-said'"
+    },
+    {
+     "tokens": [
+      "11:4.2"
+     ],
+     "english": "Come",
+     "literal": "'come now'"
+    },
+    {
+     "tokens": [
+      "11:4.3",
+      "11:4.4",
+      "11:4.5"
+     ],
+     "english": "let us build ourselves a city",
+     "literal": "'let-us-build for-us a-city'"
+    },
+    {
+     "tokens": [
+      "11:4.6",
+      "11:4.7",
+      "11:4.8"
+     ],
+     "english": "and a tower with its top in the heavens",
+     "literal": "'and-tower and-its-head in-the-heavens'; the second וְ is circumstantial, 'with its top'"
+    },
+    {
+     "tokens": [
+      "11:4.9",
+      "11:4.10",
+      "11:4.11"
+     ],
+     "english": "and let us make a name for ourselves",
+     "literal": "'and-let-us-make for-us name'"
+    },
+    {
+     "tokens": [
+      "11:4.12",
+      "11:4.13"
+     ],
+     "english": "lest we be scattered",
+     "literal": "'lest we-be-scattered'"
+    },
+    {
+     "tokens": [
+      "11:4.14",
+      "11:4.15",
+      "11:4.16",
+      "11:4.17"
+     ],
+     "english": "over the face of the whole earth",
+     "literal": "'upon face-of all-of the-earth'"
+    }
+   ],
+   "grammar": [
+    "The two cohortatives נִבְנֶה and נַעֲשֶׂה, each followed by לָנוּ, give the builders' plan; פֶּן + yiqtol gives their fear.",
+    "וְרֹאשׁוֹ בַשָּׁמַיִם is a verbless clause describing the tower: 'and its top in the heavens'.",
+    "The pashta on וּמִגְדָּל and the revia on עִיר divide the object phrase.",
+    "שֵׁם: 'a name' as fame; wordplay with שָׁם 'there' and the later explanation of בָּבֶל."
+   ],
+   "note": "'Heavens' is kept (rather than 'sky') as the plural of the Hebrew and its hyperbole; Radak and Ibn Ezra read it as extreme height (Deut 1:28).",
+   "commentary": [
+    {
+     "anchor": "rashi:11:4:1",
+     "relation": "follows",
+     "summary": "Rashi: פן נפוץ means 'lest He bring upon us some plague to scatter us from here'. The English 'lest we be scattered' leaves the agent open."
+    },
+    {
+     "anchor": "ibn-ezra:11:4:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הבה is like תנה ('give'), root יהב (Ps 55:23); because it is spoken often it takes the plural (Ex 1:10) and the feminine (Gen 38:16): an interjection."
+    },
+    {
+     "anchor": "radak:11:4:2",
+     "relation": "follows",
+     "summary": "Radak: וראשו בשמים means that the tower would be very high, as in 'cities great and fortified up to the heavens' (Deut 1:28), in height of the air."
+    },
+    {
+     "anchor": "radak:11:4:1",
+     "relation": "follows",
+     "summary": "Radak: the city was for living in, the tower for watching their flocks from afar and as a landmark for the shepherds to find their way back."
+    },
+    {
+     "anchor": "sforno:11:4:2",
+     "relation": "records",
+     "summary": "Sforno: 'let us make a name' means an idol in the tower, so that its renown would make it the 'god of gods' and its king would rule all humanity."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders 'its top reaching to the heavens' (מָטֵי עַד צֵית שְׁמַיָּא), an interpretive extension; he translates שֵׁם as 'a name' (שׁוּם) and פֶּן as 'perhaps/lest' (דִּילְמָא)."
+   ]
+  },
+  {
+   "ref": "11:5",
+   "english": "The LORD came down to see the city and the tower that the children of the human were building.",
+   "literal": "and-came-down the-LORD to-see the-city and-the-tower which built sons-of the-human",
+   "tokens": [
+    {
+     "id": "11:5.1",
+     "gloss": "and he came down",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "11:5.2",
+     "gloss": "the LORD",
+     "note": "the divine name; read as 'the LORD'"
+    },
+    {
+     "id": "11:5.3",
+     "gloss": "to see",
+     "sense": "Qal 1.a",
+     "note": "לְ + infinitive construct, purpose"
+    },
+    {
+     "id": "11:5.4",
+     "gloss": "(object marker)",
+     "note": "marks the direct object"
+    },
+    {
+     "id": "11:5.5",
+     "gloss": "the city",
+     "sense": "1"
+    },
+    {
+     "id": "11:5.6",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "11:5.7",
+     "gloss": "the tower",
+     "sense": "1"
+    },
+    {
+     "id": "11:5.8",
+     "gloss": "which",
+     "note": "relative particle"
+    },
+    {
+     "id": "11:5.9",
+     "gloss": "they built",
+     "sense": "Qal",
+     "note": "qatal, 3rd plural; 'they were building'"
+    },
+    {
+     "id": "11:5.10",
+     "gloss": "the children of",
+     "sense": "1",
+     "note": "construct plural of בֵּן"
+    },
+    {
+     "id": "11:5.11",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "הָאָדָם with the article: 'the human'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:5.1",
+      "11:5.2",
+      "11:5.3"
+     ],
+     "english": "The LORD came down to see",
+     "literal": "'and-came-down the-LORD to-see'; purpose infinitive"
+    },
+    {
+     "tokens": [
+      "11:5.4",
+      "11:5.5"
+     ],
+     "english": "the city",
+     "literal": "'(obj) the-city'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "11:5.6",
+      "11:5.7"
+     ],
+     "english": "and the tower",
+     "literal": "'and-(obj) the-tower'"
+    },
+    {
+     "tokens": [
+      "11:5.8",
+      "11:5.9",
+      "11:5.10",
+      "11:5.11"
+     ],
+     "english": "that the children of the human were building",
+     "literal": "'which built sons-of the-human'; the relative clause has verb before subject"
+    }
+   ],
+   "grammar": [
+    "לִרְאֹת is an infinitive of purpose: the LORD came down 'in order to see'.",
+    "The verb 'came down' (וַיֵּרֶד) is a human idiom for divine attention (Ibn Ezra, Radak).",
+    "In the relative clause אֲשֶׁר בָּנוּ בְּנֵי הָאָדָם the verb stands before the subject.",
+    "בְּנֵי הָאָדָם: with the article, 'the human'; the phrase contrasts the tower-builders with the LORD."
+   ],
+   "note": "'The children of the human' keeps the article, in line with the work's decision on הָאָדָם; Rashi takes the human as the first Adam. The verb is given as 'were building' since the building is unfinished (11:8); the apparatus records Ibn Ezra and Radak on this.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:5:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the LORD did not need to go down; the verse teaches judges not to condemn the accused until they have seen and understood (Midrash Tanhuma). A homily; it does not alter the English."
+    },
+    {
+     "anchor": "rashi:11:5:2",
+     "relation": "follows",
+     "summary": "Rashi: 'sons of the human': whose sons? Of donkeys and camels? They are the sons of Adam, the first human, who denied the good he was given (Gen 3:12); so these denied the good of Him who had spared them from the flood."
+    },
+    {
+     "anchor": "ibn-ezra:11:5:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: all that happens below depends on the power of the heights, so God is called 'rider of the heavens'; the writer says 'came down' in the way human beings speak."
+    },
+    {
+     "anchor": "radak:11:5:3",
+     "relation": "follows",
+     "summary": "Radak: אשר בנו means 'which they began to build'."
+    }
+   ],
+   "apparatus": [
+    "Radak on בנו: 'which they began to build'. Ibn Ezra on 11:8: they had built part of the city and the tower, or 'built' in their thoughts. Onkelos: 'the LORD revealed Himself to take vengeance on the deeds of the city and tower which the sons of men built'."
+   ]
+  },
+  {
+   "ref": "11:6",
+   "english": "The LORD said, \"Look, they are one people with one language for all of them, and this is what they have begun to do. Now nothing will be held back from them that they plan to do.\"",
+   "literal": "and-said the-LORD behold people one and-language one to-all-of-them and-this their-beginning to-do and-now not will-be-withheld from-them all which they-plan to-do",
+   "tokens": [
+    {
+     "id": "11:6.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "11:6.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "11:6.3",
+     "gloss": "look",
+     "note": "הֵן draws attention: 'look, see'"
+    },
+    {
+     "id": "11:6.4",
+     "gloss": "a people",
+     "sense": "1"
+    },
+    {
+     "id": "11:6.5",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "11:6.6",
+     "gloss": "and language",
+     "sense": "2"
+    },
+    {
+     "id": "11:6.7",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "11:6.8",
+     "gloss": "for all of them",
+     "sense": "1",
+     "note": "לְ + construct + suffix: 'to all of them'"
+    },
+    {
+     "id": "11:6.9",
+     "gloss": "and this"
+    },
+    {
+     "id": "11:6.10",
+     "gloss": "their beginning",
+     "sense": "Hiph 2",
+     "note": "hifil infinitive construct + suffix; 'their beginning'; with לַעֲשׂוֹת 'to do'"
+    },
+    {
+     "id": "11:6.11",
+     "gloss": "to do",
+     "sense": "Qal II.1"
+    },
+    {
+     "id": "11:6.12",
+     "gloss": "and now"
+    },
+    {
+     "id": "11:6.13",
+     "gloss": "not"
+    },
+    {
+     "id": "11:6.14",
+     "gloss": "will be withheld",
+     "sense": "Niph",
+     "note": "nifal yiqtol of בצר: 'be withheld, be held back'"
+    },
+    {
+     "id": "11:6.15",
+     "gloss": "from them"
+    },
+    {
+     "id": "11:6.16",
+     "gloss": "all",
+     "sense": "2.a"
+    },
+    {
+     "id": "11:6.17",
+     "gloss": "that"
+    },
+    {
+     "id": "11:6.18",
+     "gloss": "they plan",
+     "note": "yiqtol of זמם; Ibn Ezra: root זמם"
+    },
+    {
+     "id": "11:6.19",
+     "gloss": "to do",
+     "sense": "Qal II.1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:6.1",
+      "11:6.2"
+     ],
+     "english": "The LORD said",
+     "literal": "'and-said the-LORD'"
+    },
+    {
+     "tokens": [
+      "11:6.3"
+     ],
+     "english": "Look",
+     "literal": "'behold'"
+    },
+    {
+     "tokens": [
+      "11:6.4",
+      "11:6.5",
+      "11:6.6",
+      "11:6.7",
+      "11:6.8"
+     ],
+     "english": "they are one people with one language for all of them",
+     "literal": "'people one and-language one to-all-of-them'; verbless, so 'they are' is supplied"
+    },
+    {
+     "tokens": [
+      "11:6.9",
+      "11:6.10",
+      "11:6.11"
+     ],
+     "english": "and this is what they have begun to do",
+     "literal": "'and-this their-beginning to-do'"
+    },
+    {
+     "tokens": [
+      "11:6.12"
+     ],
+     "english": "Now",
+     "literal": "'and-now'"
+    },
+    {
+     "tokens": [
+      "11:6.13",
+      "11:6.14",
+      "11:6.15"
+     ],
+     "english": "nothing will be held back from them",
+     "literal": "'not will-be-withheld from-them'"
+    },
+    {
+     "tokens": [
+      "11:6.16",
+      "11:6.17",
+      "11:6.18",
+      "11:6.19"
+     ],
+     "english": "that they plan to do",
+     "literal": "'all which they-plan to-do'; כֹּל with a negative is 'nothing'"
+    }
+   ],
+   "grammar": [
+    "הֵן ('look') and the verbless clause עַם אֶחָד וְשָׂפָה אַחַת לְכֻלָּם state the speaker's observation.",
+    "הַחִלָּם is a hifil infinitive construct of חלל ('begin') with suffix ם; the patah is explained by the guttural (Ibn Ezra), and Rashi glosses it 'their beginning to do'.",
+    "לֹא־יִבָּצֵר is a nifal of בצר: 'be cut off, withheld, restrained' (Rashi, Ibn Ezra, Radak).",
+    "יָזְמוּ is from זמם 'plan, devise'; Ibn Ezra notes the root זמם, the same as זמו.",
+    "The munaḥ-pashta-zaqef sequence on 'one people / one language / for all of them' marks the three facts that the LORD observes."
+   ],
+   "note": "The sentence is given as a statement; Rashi hears it as an exclamation of wonder (בתמיה). 'Held back' renders the nifal of בצר (Ibn Ezra: ימנע, 'be prevented'). The speaker is given only as 'the LORD'; Ibn Ezra and Radak say he spoke to the angels.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:6:1",
+     "relation": "follows",
+     "summary": "Rashi: all this good is in their hands: they are one people with one language, and they have begun this thing."
+    },
+    {
+     "anchor": "rashi:11:6:2",
+     "relation": "follows",
+     "summary": "Rashi: החלם is like אמרם, עשותם: it means that they began to do."
+    },
+    {
+     "anchor": "rashi:11:6:3",
+     "relation": "follows",
+     "summary": "Rashi: 'in astonishment'; יִבָּצֵר is 'prevention' (as in the Targum), as in 'he cuts off the spirit of princes' (Ps 76:13). The English 'held back'."
+    },
+    {
+     "anchor": "ibn-ezra:11:6:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: He said this to the angels, and that is the meaning of 'and came down' (יָרַד, 'He had gone down because He said so'). The English gives no addressee."
+    },
+    {
+     "anchor": "ibn-ezra:11:6:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'one people' with one religion; when religions differ, jealousy and hatred arise, and also when languages differ, so the king of Persia commanded each to speak in his own language (Esth 1:22)."
+    },
+    {
+     "anchor": "ibn-ezra:11:6:3",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: the patah on the ח in הַחִלָּם is the big patah because of the following guttural, as in החלותי (Deut 2:31). A point of vocalisation."
+    },
+    {
+     "anchor": "ibn-ezra:11:6:4",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יִבָּצֵר is like יִמָּנַע, as in 'fortified (בצורות) cities' (Deut 3:5); the sense is, if I leave them they will think they can do whatever they wish."
+    },
+    {
+     "anchor": "ibn-ezra:11:6:5",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יָזְמוּ is like זָמְמוּ; they are two roots (in the sense of 'they planned')."
+    },
+    {
+     "anchor": "radak:11:6:2",
+     "relation": "follows",
+     "summary": "Radak: 'one people' means they have one agreement, as in 'we will become one people' (Gen 34:16)."
+    },
+    {
+     "anchor": "sforno:11:6:1",
+     "relation": "records",
+     "summary": "Sforno: what undoes counsels and defeats plans is dissension over religions or languages; these were one in religion (following the astrologers) and one in language."
+    }
+   ],
+   "apparatus": [
+    "Ibn Ezra, in his comment, reads 'and now not will it be withheld' conditionally: 'if I leave them alone'. Radak: 'if we do not annul them'.",
+    "Onkelos: 'and now it will not be withheld from them, all that they have thought to do'."
+   ]
+  },
+  {
+   "ref": "11:7",
+   "english": "Come, let us go down and confuse their language there, so that they will not understand one another's language.",
+   "literal": "come let-us-go-down and-let-us-confuse there their-language so-that not they-will-hear man language-of his-fellow",
+   "tokens": [
+    {
+     "id": "11:7.1",
+     "gloss": "come",
+     "sense": "5",
+     "note": "imperative with paragogic he"
+    },
+    {
+     "id": "11:7.2",
+     "gloss": "let us go down",
+     "sense": "Qal 1.a",
+     "note": "cohortative, 1st plural"
+    },
+    {
+     "id": "11:7.3",
+     "gloss": "and let us confuse",
+     "sense": "Qal 1",
+     "note": "cohortative of בלל 'mix, confound' per the pack; Ibn Ezra reads it as hifil 'let us confuse', Rashi as 'let us mix up', Radak records both; see note"
+    },
+    {
+     "id": "11:7.4",
+     "gloss": "there"
+    },
+    {
+     "id": "11:7.5",
+     "gloss": "their language",
+     "sense": "2",
+     "note": "construct with suffix: 'their lip, their speech'"
+    },
+    {
+     "id": "11:7.6",
+     "gloss": "so that",
+     "note": "relative particle used as a conjunction of result"
+    },
+    {
+     "id": "11:7.7",
+     "gloss": "not"
+    },
+    {
+     "id": "11:7.8",
+     "gloss": "they will understand",
+     "note": "שָׁמַע: 'hear', here 'understand' (Radak: 'the hearing of the heart')"
+    },
+    {
+     "id": "11:7.9",
+     "gloss": "a man"
+    },
+    {
+     "id": "11:7.10",
+     "gloss": "the language of",
+     "sense": "2",
+     "note": "construct"
+    },
+    {
+     "id": "11:7.11",
+     "gloss": "his fellow"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:7.1"
+     ],
+     "english": "Come",
+     "literal": "'come now'"
+    },
+    {
+     "tokens": [
+      "11:7.2"
+     ],
+     "english": "let us go down",
+     "literal": "'let-us-go-down'"
+    },
+    {
+     "tokens": [
+      "11:7.3",
+      "11:7.4",
+      "11:7.5"
+     ],
+     "english": "and confuse their language there",
+     "literal": "'and-let-us-confuse there their-language'"
+    },
+    {
+     "tokens": [
+      "11:7.6",
+      "11:7.7",
+      "11:7.8"
+     ],
+     "english": "so that they will not understand",
+     "literal": "'which not they-will-hear'"
+    },
+    {
+     "tokens": [
+      "11:7.9",
+      "11:7.10",
+      "11:7.11"
+     ],
+     "english": "one another's language",
+     "literal": "'a-man language-of his-fellow'"
+    }
+   ],
+   "grammar": [
+    "The cohortatives נֵרְדָה and נָבְלָה are plural (1st person), 'let us ...'; Rashi (and Radak) take the נ as the plural prefix and the final ה as the extra he like נֵרְדָה.",
+    "The pack parses וְנָבְלָה as qal cohortative of בלל. Ibn Ezra argues against the grammarians who derive it from the nifal, and proposes a hifil (נָבֵלָה), which is in line with 'for there the LORD confused' (11:9).",
+    "אֲשֶׁר לֹא is a final/result clause, 'so that not'; יִשְׁמְעוּ is 'hear' in the sense 'understand'.",
+    "אִישׁ שְׂפַת רֵעֵהוּ is the idiom for 'each the language of the other'."
+   ],
+   "note": "'Let us' keeps the plural of the Hebrew, whose addressees Rashi (His court) and Ibn Ezra (the angels) both take to be the heavenly company. The pack's data parse וְנָבְלָה as qal of בלל; Ibn Ezra's hifil is recorded, but the English 'confuse' fits both. The pack gives no qal sense for שָׁמַע, so none is cited.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:7:1",
+     "relation": "follows",
+     "summary": "Rashi: He consulted His court, out of His great humility; hence the plural 'let us'."
+    },
+    {
+     "anchor": "rashi:11:7:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: measure for measure: they said 'let us build', He answered in kind with 'let us go down'. A moral comment."
+    },
+    {
+     "anchor": "rashi:11:7:3",
+     "relation": "follows",
+     "summary": "Rashi: ונבלה is 'let us confuse'; the נ is the plural prefix, and the final ה is superfluous, like the ה of נרדה."
+    },
+    {
+     "anchor": "rashi:11:7:4",
+     "relation": "not-applicable",
+     "summary": "Rashi: one would ask for a brick and the other would bring clay, and the first would stand over him and split his skull. A midrash on 'not understand'."
+    },
+    {
+     "anchor": "ibn-ezra:11:7:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it is God's speech with the angels."
+    },
+    {
+     "anchor": "ibn-ezra:11:7:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the grammarians derive ונבלה from the nifal; he rejects it, and takes נבלה as hifil from בלל, like ונעשה, on the evidence of 11:9. Some say their hearts were turned to hate one another so that each made up a language; others that He made them forget; he prefers that they were scattered and over the years the first language was forgotten."
+    },
+    {
+     "anchor": "radak:11:7:6",
+     "relation": "follows",
+     "summary": "Radak: 'will not understand' means 'will not understand in the heart'; cf. 'a nation whose language you will not hear' (Deut 28:49)."
+    }
+   ],
+   "apparatus": [
+    "Radak: the plural speech is only a figure; the Creator does not take counsel with the created (cf. Isa 40:14).",
+    "Onkelos: 'come, let us reveal ourselves and confuse their language there'."
+   ]
+  },
+  {
+   "ref": "11:8",
+   "english": "So the LORD scattered them from there over the face of the whole earth, and they stopped building the city.",
+   "literal": "and-scattered the-LORD them from-there upon face-of all-of the-earth and-they-ceased to-build the-city",
+   "tokens": [
+    {
+     "id": "11:8.1",
+     "gloss": "and he scattered",
+     "sense": "Hiph 1",
+     "note": "hifil wayyiqtol of פוץ"
+    },
+    {
+     "id": "11:8.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "11:8.3",
+     "gloss": "them",
+     "note": "אֹתָם: object marker + suffix"
+    },
+    {
+     "id": "11:8.4",
+     "gloss": "from there"
+    },
+    {
+     "id": "11:8.5",
+     "gloss": "over",
+     "sense": "II"
+    },
+    {
+     "id": "11:8.6",
+     "gloss": "the face of",
+     "sense": "I.5",
+     "note": "construct plural"
+    },
+    {
+     "id": "11:8.7",
+     "gloss": "the whole of",
+     "sense": "1"
+    },
+    {
+     "id": "11:8.8",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "11:8.9",
+     "gloss": "and they stopped",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חדל 'cease'"
+    },
+    {
+     "id": "11:8.10",
+     "gloss": "to build",
+     "sense": "Qal",
+     "note": "לְ + infinitive construct"
+    },
+    {
+     "id": "11:8.11",
+     "gloss": "the city",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:8.1",
+      "11:8.2"
+     ],
+     "english": "So the LORD scattered",
+     "literal": "'and-scattered the-LORD'"
+    },
+    {
+     "tokens": [
+      "11:8.3"
+     ],
+     "english": "them",
+     "literal": "'(obj)-them'"
+    },
+    {
+     "tokens": [
+      "11:8.4"
+     ],
+     "english": "from there",
+     "literal": "'from-there'"
+    },
+    {
+     "tokens": [
+      "11:8.5",
+      "11:8.6",
+      "11:8.7",
+      "11:8.8"
+     ],
+     "english": "over the face of the whole earth",
+     "literal": "'upon face-of all-of the-earth'"
+    },
+    {
+     "tokens": [
+      "11:8.9",
+      "11:8.10",
+      "11:8.11"
+     ],
+     "english": "and they stopped building the city",
+     "literal": "'and-they-ceased to-build the-city'"
+    }
+   ],
+   "grammar": [
+    "וַיָּפֶץ is a hifil wayyiqtol of פוץ; it answers the builders' fear פֶּן נָפוּץ with the same root: what they feared, He did.",
+    "The phrase עַל־פְּנֵי כָל־הָאָרֶץ repeats 11:4 exactly.",
+    "חָדַל + לְ + infinitive means 'cease from doing'.",
+    "The etnaḥta on הָאָרֶץ divides the scattering from the stopping of the work."
+   ],
+   "note": "The repeated root פוץ links 11:4 and 11:8: 'lest we be scattered' // 'and He scattered them'. The English 'So' renders the wayyiqtol as a consequence of 11:7.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:8:1",
+     "relation": "follows",
+     "summary": "Rashi: 'in this world'. What they said, 'lest we be scattered', came true for them, as Solomon says, 'the dread of the wicked will come upon him' (Prov 10:24)."
+    },
+    {
+     "anchor": "ibn-ezra:11:8:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: ויחדלו לבנות העיר means to complete it, for they had already built part of the city and the tower; or 'which the sons of man built' means in their thoughts."
+    },
+    {
+     "anchor": "radak:11:8:2",
+     "relation": "follows",
+     "summary": "Radak: all the more the tower; but they built the city smaller than they had begun, since one group stayed there and called it Babel."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: 'and the LORD scattered them from there over the face of all the earth, and they were prevented from building the city'."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1483 @@
+{
+ "unit": "perek-1-01",
+ "model": "opus",
+ "summary": "The English of 1:1-1:6 is faithful and keeps the sayings brief, and it agrees with Bartenura and Rambam throughout; no normative comment is contradicted. The main faults are in the word data: many senses point to the wrong homograph (BDB proper names or verbs for אִישׁ, עֶבֶד, בַּיִת, אָדָם, עֶצֶם, קָנָה, דָּן, שָׁתָה, the BDB 'custom' entry for תּוֹרָה) and are moved to the Jastrow entries the pack lists, or removed where no entry fits (פְּרָס, חֹמֶר, צְרֵדָה). The model morphology has wrong construct/absolute states (כְּנֶסֶת, גְּמִילוּת, מוֹרָא, עֲפַר), wrong roots (מתן, אנש) and a wrong gender and number for רַגְלֵיהֶם, and several learner notes and two Bartenura summaries are corrected. Open questions: the variant readings in Rabbeinu Yonah's and Rambam's lemmas, which the apparatus omits, and the name 'Yehoshua' for the sage of 1:6.",
+ "patches": [
+  {
+   "ref": "1:1",
+   "path": "token:1:1.13.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "The pack's bdbs:אִישׁ is the Hithpalel verb 'to be a man'; the noun 'man (of a place), native of' is jastrow:אִישׁ, which the pack lists."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.2.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "The pack's bdbs:אִישׁ is the Hithpalel verb 'to be a man'; the noun 'man (of a place), native of' is jastrow:אִישׁ, which the pack lists."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.4.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "The pack's bdbs:אִישׁ is the Hithpalel verb 'to be a man'; the noun 'man (of a place), native of' is jastrow:אִישׁ, which the pack lists."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.9.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "The pack's bdbs:אִישׁ is the Hithpalel verb 'to be a man'; the noun 'man (of a place), native of' is jastrow:אִישׁ, which the pack lists."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.16.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "The pack's bdbs:אִישׁ is the Hithpalel verb 'to be a man'; the noun 'man (of a place), native of' is jastrow:אִישׁ, which the pack lists."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.4.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "The pack's bdbs:אִישׁ is the Hithpalel verb 'to be a man'; the noun 'man (of a place), native of' is jastrow:אִישׁ, which the pack lists."
+  },
+  {
+   "ref": "1:1",
+   "path": "token:1:1.3.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה offers only 'custom, manner, law (of man)'; the sense here is the Torah, the teaching/Law of Moses, which is jastrow:תּוֹרָה sense 1."
+  },
+  {
+   "ref": "1:1",
+   "path": "token:1:1.28.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה offers only 'custom, manner, law (of man)'; the sense here is the Torah, the teaching/Law of Moses, which is jastrow:תּוֹרָה sense 1."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.16.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה offers only 'custom, manner, law (of man)'; the sense here is the Torah, the teaching/Law of Moses, which is jastrow:תּוֹרָה sense 1."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.41.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה offers only 'custom, manner, law (of man)'; the sense here is the Torah, the teaching/Law of Moses, which is jastrow:תּוֹרָה sense 1."
+  },
+  {
+   "ref": "1:1",
+   "path": "token:1:1.21.lex",
+   "value": "jastrow:מָתוּן II",
+   "severity": "error",
+   "reason": "jastrow:מָתוּן I is a proper name (Mathun); the adjective 'slow, careful, patient' is jastrow:מָתוּן II, listed in the pack."
+  },
+  {
+   "ref": "1:1",
+   "path": "token:1:1.21.note",
+   "value": "מְתוּנִים: plural of מָתוּן 'slow, careful, patient' (Jastrow, from מתן 'to wait'); Bartenura glosses it מַמְתִּינִים 'waiting'.",
+   "severity": "error",
+   "reason": "The old note calls the lemma a proper name and the root תון; with the right entry and root (מתן) the note is corrected."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.12.lex",
+   "value": "jastrow:עֶבֶד",
+   "severity": "error",
+   "reason": "bdbs:עֶבֶד is the proper name Ebed; the common noun 'slave, servant' is jastrow:עֶבֶד sense 1."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.22.lex",
+   "value": "jastrow:עֶבֶד",
+   "severity": "error",
+   "reason": "bdbs:עֶבֶד is the proper name Ebed; the common noun 'slave, servant' is jastrow:עֶבֶד sense 1."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.12.note",
+   "value": "כְ + עֲבָדִים, plural of עֶבֶד 'servant, slave'; the כ takes pataḥ before the ḥatef-pataḥ of ע, without the article.",
+   "severity": "error",
+   "reason": "The old note says the lemma is a proper name; with jastrow:עֶבֶד that is no longer so, and the vowel of כַ needed explaining (no article: 'like servants')."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.15.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 3 is only the heading 'n'; 'master' (of a servant) is jastrow:רַב II sense 2 'superior, master'."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.15.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "sense 2 of jastrow:רַב II is 'superior, master', the sense of the gloss."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.25.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 3 is only the heading 'n'; 'master' (of a servant) is jastrow:רַב II sense 2 'superior, master'."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.25.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "sense 2 of jastrow:רַב II is 'superior, master', the sense of the gloss."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.14.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 3 is only the heading 'n'; 'teacher' is jastrow:רַב II sense 3, the present sense path."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.20.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; the common noun 'house, household' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.20.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:בַּיִת sense 2: 'house, household, home'."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.21.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; the common noun 'house, household' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.21.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:בַּיִת sense 2: 'house, household, home'."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.8.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; the common noun 'house, household' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.8.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:בַּיִת sense 2: 'house, household, home'."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.14.lex",
+   "value": "jastrow:בַּיִת",
+   "severity": "error",
+   "reason": "bdbs:בַּיִת is the place name Bajith; the common noun 'house, household' is jastrow:בַּיִת sense 2."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.14.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:בַּיִת sense 2: 'house, household, home'."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.29.lex",
+   "value": "jastrow:שָׁתָה",
+   "severity": "error",
+   "reason": "bdbs:שָׁתָה is the noun 'foundation'; the verb 'to drink' is jastrow:שָׁתָה (v. שתי), listed in the pack."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.29.note",
+   "value": "שׁוֹתֶה: Qal participle of the III-ה verb שתה 'to drink'; with וֶהֱוֵי, 'be one who drinks'.",
+   "severity": "error",
+   "reason": "The old note says the lemma is a different word; with jastrow:שָׁתָה that is no longer so."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.31.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם offers only the name Adam, the first man and a city; 'man, person' is jastrow:אָדָם sense 1."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.31.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:אָדָם has one sense, 'man'."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.22.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם offers only the name Adam, the first man and a city; 'man, person' is jastrow:אָדָם sense 1."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.22.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "jastrow:אָדָם has one sense, 'man'."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.38.lex",
+   "value": "jastrow:עֶצֶם",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place name Azem; 'substance, self' (with the suffix, 'himself') is jastrow:עֶצֶם sense 3, which cites Avot 1:14 לְעַצְמִי."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.38.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "jastrow:עֶצֶם sense 3: 'substance, essence, self'."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.38.note",
+   "value": "לְעַצְמוֹ: ל + עֶצֶם 'bone, self' + וֹ: 'to himself'; עֶצֶם with a suffix is the Mishnaic reflexive.",
+   "severity": "error",
+   "reason": "The old note says the pack's entry is a place name; with jastrow:עֶצֶם that is no longer so."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.15.lex",
+   "value": "jastrow:קָנָה",
+   "severity": "error",
+   "reason": "bdbs:קָנָה is the place/stream Kanah; the verb 'to acquire, buy' is jastrow:קָנָה (v. קני II), listed in the pack."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.15.note",
+   "value": "קְנֵה: Qal imperative of the III-ה verb קנה 'to buy, acquire'; Rambam stresses the word 'acquire'.",
+   "severity": "error",
+   "reason": "The old note says the lemma is a different word; with jastrow:קָנָה that is no longer so."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.19.lex",
+   "value": "jastrow:דִּין I",
+   "severity": "error",
+   "reason": "bdbs:דָּן is the name Dan; the verb 'to judge' is jastrow:דִּין I, whose sense 4 'to judge, form an opinion of' cites Avot 1:6."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.19.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "jastrow:דִּין I sense 4: 'to judge, form an opinion of. Ab. I, 6'."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.19.note",
+   "value": "דָן: Qal participle of the hollow root דין 'to judge' (the same form as the perfect דָּן).",
+   "severity": "error",
+   "reason": "The old note says the pack's lemma is the tribe Dan; with jastrow:דִּין I that is no longer so."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.17.lex",
+   "value": "jastrow:שִׂיחָה",
+   "severity": "error",
+   "reason": "bdbs:שִׂיחָה lists 'meditation, complaint, musing', not 'talk'; the Mishnaic word 'talk, conversation' is jastrow:שִׂיחָה (v. סִיחָה)."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.33.lex",
+   "value": "jastrow:שִׂיחָה",
+   "severity": "error",
+   "reason": "bdbs:שִׂיחָה lists 'meditation, complaint, musing', not 'talk'; the Mishnaic word 'talk, conversation' is jastrow:שִׂיחָה (v. סִיחָה)."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.17.note",
+   "value": "שִׂיחָה: 'talk, conversation' (Jastrow, v. סִיחָה); the object of תַּרְבֶּה: 'make much talk'.",
+   "severity": "error",
+   "reason": "The old note points to the BDB senses; with jastrow:שִׂיחָה it is restated."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.23.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חֹמֶר sense 1 is 'cement, mortar, clay', not 'heavy'; the pack lists no entry with the sense 'weight, stringency', so the sense is removed."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.23.note",
+   "value": "חֹמֶר here 'weight, stringency', the 'heavy' term of קַל וָחֹמֶר. The pack's entry (bdbs:חֹמֶר: clay, mortar, homer) is a different word, and no entry in the pack has this sense, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.19.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:פְּרָס sense 3 is 'a piece, esp. a quantity of bread'; none of its senses (part, half, piece, half-maneh, half-furrow) is 'reward', and the pack lists no other entry, so the sense is removed."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.30.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:פְּרָס sense 3 is 'a piece, esp. a quantity of bread'; none of its senses (part, half, piece, half-maneh, half-furrow) is 'reward', and the pack lists no other entry, so the sense is removed."
+  },
+  {
+   "ref": "1:3",
+   "path": "token:1:3.19.note",
+   "value": "פְּרָס: a gift or bonus not owed, as against wages (שָׂכָר), as Bartenura and Rambam define it. The pack's entry jastrow:פְּרָס (part, half, piece) is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.5.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:צְרֵדָה sense 1 is the noun 'rough sound, snap'; the word here is the place name, and the pack lists no entry for it, so the sense is removed."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.17.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:צְרֵדָה sense 1 is the noun 'rough sound, snap'; the word here is the place name, and the pack lists no entry for it, so the sense is removed."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.5.note",
+   "value": "צְרֵדָה: place name (Tzereda). The pack's entry jastrow:צְרֵדָה 'rough sound, snap' is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.3.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:יוֹעֶזֶר sense 1 is only '(b. h.)'; sense 2 is the proper name Joezer and cites Avot 1."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.15.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "jastrow:יוֹעֶזֶר sense 1 is only '(b. h.)'; sense 2 is the proper name Joezer and cites Avot 1."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.12.sense",
+   "value": "1.4",
+   "severity": "error",
+   "reason": "In 'on three things the world stands' דְבָרִים are things, not utterances: bdbs:דָּבָר 1.4 'matter, something', not 1.2 'saying, utterance'."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.29.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "The gloss is 'every'; bdbs:כֹּל 1.2 is 'every, any', 1.1 is 'the whole of, all'."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.21.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "The gloss is 'every'; bdbs:כֹּל 1.2 is 'every, any', 1.1 is 'the whole of, all'."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.22.lex",
+   "value": "jastrow:קַל II",
+   "severity": "style",
+   "reason": "jastrow:קַל II sense 2 'unimportant, of minor value', which names קל וחומר, fits the logical term better than bdbs 'swift, light, fleet'."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.22.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "jastrow:קַל II sense 2, the sense used in קַל וָחֹמֶר."
+  },
+  {
+   "ref": "1:5",
+   "path": "token:1:5.25.sense",
+   "value": "4",
+   "severity": "style",
+   "reason": "bdbs:חָבֵר 4 'associate, fellow' matches the gloss 'his fellow' better than 5 'companion'."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.23.lex",
+   "value": "jastrow:כַּף",
+   "severity": "style",
+   "reason": "jastrow:כַּף sense 7 is 'scale of the balance', the exact sense of לְכַף זְכוּת; bdbs 1.4.2 is only 'pan, vessel'."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.23.sense",
+   "value": "7",
+   "severity": "style",
+   "reason": "jastrow:כַּף sense 7: 'scale of the balance'."
+  },
+  {
+   "ref": "1:1",
+   "path": "token:1:1.14.gloss",
+   "value": "Assembly",
+   "severity": "error",
+   "reason": "כְּנֶסֶת is not in construct with הַגְּדוֹלָה: the feminine adjective agrees with it and is attributive ('the Great Assembly'; Bartenura: they were called 'great' because they restored the crown). The gloss 'assembly of' implies a construct."
+  },
+  {
+   "ref": "1:1",
+   "path": "token:1:1.14.note",
+   "value": "כְנֶסֶת is the genitive of אַנְשֵׁי; הַגְּדוֹלָה is an attributive adjective that carries the article while the noun has none, as in the fixed name כְּנֶסֶת הַגְּדוֹלָה 'the Great Assembly'.",
+   "severity": "error",
+   "reason": "The old note calls כְנֶסֶת a construct."
+  },
+  {
+   "ref": "1:2",
+   "path": "token:1:2.5.gloss",
+   "value": "Assembly",
+   "severity": "error",
+   "reason": "As at 1:1.14: כְּנֶסֶת is absolute, with the attributive adjective הַגְּדוֹלָה."
+  },
+  {
+   "ref": "1:1",
+   "path": "literal",
+   "value": "Moses received Torah from-Sinai, and-handed-it to-Joshua, and-Joshua to-elders, and-elders to-prophets, and-prophets handed-it to-men-of assembly the-great. They said three things: Be deliberate in-the-judgment, and-raise-up disciples many, and-make fence to-the-Torah.",
+   "severity": "error",
+   "reason": "כְנֶסֶת is not construct (see 1:1.14)."
+  },
+  {
+   "ref": "1:2",
+   "path": "literal",
+   "value": "Shimon the-Righteous was from-remnants-of assembly the-great. He was saying: On three things the-world stands: on the-Torah, and-on the-service, and-on bestowal-of kindnesses.",
+   "severity": "error",
+   "reason": "כְנֶסֶת is not construct (see 1:2.5)."
+  },
+  {
+   "ref": "1:1",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:1.1"
+     ],
+     "english": "Moses",
+     "literal": "Moses"
+    },
+    {
+     "tokens": [
+      "1:1.2",
+      "1:1.3",
+      "1:1.4"
+     ],
+     "english": "received Torah from Sinai",
+     "literal": "'received Torah from-Sinai'; Bartenura: from the One who was revealed at Sinai."
+    },
+    {
+     "tokens": [
+      "1:1.5",
+      "1:1.6"
+     ],
+     "english": "and handed it down to Joshua",
+     "literal": "'and-handed-it to-Joshua'"
+    },
+    {
+     "tokens": [
+      "1:1.7",
+      "1:1.8"
+     ],
+     "english": "Joshua to the elders",
+     "literal": "'and-Joshua to-elders'; the verb is understood"
+    },
+    {
+     "tokens": [
+      "1:1.9",
+      "1:1.10"
+     ],
+     "english": "the elders to the prophets",
+     "literal": "'and-elders to-prophets'; the verb is understood"
+    },
+    {
+     "tokens": [
+      "1:1.11",
+      "1:1.12",
+      "1:1.13",
+      "1:1.14",
+      "1:1.15"
+     ],
+     "english": "and the prophets handed it down to the members of the Great Assembly",
+     "literal": "'and-prophets handed-it to-men-of assembly the-great'"
+    },
+    {
+     "tokens": [
+      "1:1.16",
+      "1:1.17",
+      "1:1.18",
+      "1:1.19"
+     ],
+     "english": "They said three things",
+     "literal": "'they said three things'"
+    },
+    {
+     "tokens": [
+      "1:1.20",
+      "1:1.21",
+      "1:1.22"
+     ],
+     "english": "Be deliberate in judgment",
+     "literal": "'be deliberate in-the-judgment'; Bartenura and Rambam: do not decide quickly"
+    },
+    {
+     "tokens": [
+      "1:1.23",
+      "1:1.24",
+      "1:1.25"
+     ],
+     "english": "raise up many disciples",
+     "literal": "'and-raise-up disciples many'"
+    },
+    {
+     "tokens": [
+      "1:1.26",
+      "1:1.27",
+      "1:1.28"
+     ],
+     "english": "and make a fence for the Torah",
+     "literal": "'and-make fence to-the-Torah'"
+    }
+   ],
+   "severity": "error",
+   "reason": "Phrase literal corrected with the segment literal: כְנֶסֶת is not construct."
+  },
+  {
+   "ref": "1:2",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:2.1",
+      "1:2.2"
+     ],
+     "english": "Shimon the Righteous",
+     "literal": "'Shimon the-Righteous'"
+    },
+    {
+     "tokens": [
+      "1:2.3",
+      "1:2.4",
+      "1:2.5",
+      "1:2.6"
+     ],
+     "english": "was of the remnants of the Great Assembly",
+     "literal": "'was from-remnants-of assembly the-great'"
+    },
+    {
+     "tokens": [
+      "1:2.7",
+      "1:2.8",
+      "1:2.9"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'; decisions.md"
+    },
+    {
+     "tokens": [
+      "1:2.10",
+      "1:2.11",
+      "1:2.12",
+      "1:2.13",
+      "1:2.14"
+     ],
+     "english": "On three things the world stands",
+     "literal": "'on three things the-world stands'"
+    },
+    {
+     "tokens": [
+      "1:2.15",
+      "1:2.16"
+     ],
+     "english": "on the Torah",
+     "literal": "'on the-Torah'"
+    },
+    {
+     "tokens": [
+      "1:2.17",
+      "1:2.18"
+     ],
+     "english": "and on the Temple service",
+     "literal": "'and-on the-service'; sacrificial service per Bartenura and Rambam"
+    },
+    {
+     "tokens": [
+      "1:2.19",
+      "1:2.20",
+      "1:2.21"
+     ],
+     "english": "and on acts of kindness",
+     "literal": "'and-on bestowal-of kindnesses'"
+    }
+   ],
+   "severity": "error",
+   "reason": "Phrase literal corrected with the segment literal: כְנֶסֶת is not construct."
+  },
+  {
+   "ref": "1:1",
+   "path": "token:1:1.20.note",
+   "value": "Qal imperative plural of הָיָה in its Mishnaic form הֱווּ (from the by-form הוה, as in Aramaic); Biblical Hebrew has הֱיוּ.",
+   "severity": "error",
+   "reason": "הֱווּ is not an 'old spelling': it is the Mishnaic form of the imperative, from הוה; the Biblical form is הֱיוּ."
+  },
+  {
+   "ref": "1:4",
+   "path": "token:1:4.12.note",
+   "value": "מֵהֶם: 'from them', the previous link of the chain: Rabbeinu Yonah, from Shimon the Righteous and Antigonos of Sokho.",
+   "severity": "error",
+   "reason": "Rabbeinu Yonah (on 1:4) says מִשִּׁמְעוֹן הַצַּדִּיק וּמֵאַנְטִיגְנוֹס; the note made it 'Shimon's successors, Antigonos and his circle', which no source in the pack says."
+  },
+  {
+   "ref": "1:1",
+   "path": "grammar",
+   "value": [
+    "The chain of tradition has one verb, מָסַר 'hand over', and drops it after the first link: 'Joshua to the elders, the elders to the prophets'.",
+    "מְסָרוּהָ (3rd plural with the 3rd feminine singular suffix, 'handed it') states the verb again in the last link, as it was stated for Moses: the chain opens and closes with מָסַר.",
+    "הֵם אָמְרוּ שְׁלשָׁה דְבָרִים introduces three plural imperatives: הֱווּ (Qal of הָיָה, Mishnaic form), הַעֲמִידוּ (Hifil of the I-guttural root עמד, 'cause to stand') and עֲשׂוּ (Qal of the III-ה root עשה).",
+    "קִבֵּל is Piel of קבל, 'received', and in Mishnaic Hebrew is the standard verb for receiving a tradition.",
+    "The third saying is a metaphor: סְיָג is a hedge round a field or a vineyard."
+   ],
+   "severity": "error",
+   "reason": "Two notes were not true: the verb does not return 'because the subject is plural' (the plural link 'the elders to the prophets' has no verb), and עמד is not a weak root."
+  },
+  {
+   "ref": "1:4",
+   "path": "grammar",
+   "value": [
+    "Pairs (זוּגוֹת): from Yose ben Yoezer on, teachers are named two by two, so קִבְּלוּ is plural; Bartenura says the first of each pair was the nasi and the second av beit din.",
+    "בֵּית וַעַד is 'a house of meeting' for the sages; בֵּית is construct and וַעַד an absolute noun.",
+    "מִתְאַבֵּק is a Hithpael participle ('covering oneself in dust'); with וֶהֱוֵי it makes a continuing action: 'be (continually) covered'.",
+    "וֶהֱוֵי: the conjunction וְ before a ḥatef vowel takes the matching full vowel, so וֶ before הֱ; the saying has three parallel commands (יְהִי, וֶהֱוֵי, וֶהֱוֵי).",
+    "אֶת marks the definite object דִּבְרֵיהֶם, as in Biblical Hebrew; the word order puts בְצָמָא first, before the object."
+   ],
+   "severity": "error",
+   "reason": "The vowel rule was misstated ('takes ֶ before a guttural, e instead of u'): וְ takes the full vowel of the following ḥatef. אֶת before a definite object is not a Mishnaic peculiarity."
+  },
+  {
+   "ref": "1:5",
+   "path": "grammar",
+   "value": [
+    "The mishnah has a saying of Yose (three imperatives) and then a comment in the voice of the sages ('they said', 'from here the sages said'). Bartenura notes that the comment is Rabbi Yehuda HaNasi's, who edited the mishnayot.",
+    "קַל וָחֹמֶר is the argument a fortiori ('light and heavy'), here without a verb: 'how much more so'.",
+    "עַל / בְּ: בְּאִשְׁתּוֹ אָמְרוּ uses ב to mean 'concerning'; the verb is plural with no stated subject ('they said' = 'people said / the sages said').",
+    "אָדָם is 'a person', but the context is a man speaking with a woman; the English says 'a man'.",
+    "גּוֹרֵם, בּוֹטֵל and יוֹרֵשׁ are participles that state a general result: 'is causing, is neglecting, is inheriting'.",
+    "שִׂיחָה is the direct object of תַּרְבֶּה / מַרְבֶּה (Hifil of רבה, 'make much'): 'make much talk', i.e. talk too much; it is indefinite, so it has no אֶת."
+   ],
+   "severity": "error",
+   "reason": "There is no infinitive in the phrase: שִׂיחָה is a noun, the indefinite object of the Hifil verb."
+  },
+  {
+   "ref": "1:1",
+   "path": "commentary:bartenura:1:1:3.summary",
+   "value": "Bartenura: the elders are those who outlived Joshua (Josh 24:31, שֶׁהֶאֱרִיכוּ יָמִים אַחֲרֵי יְהוֹשֻׁעַ), and these elders passed it to other elders until the first of the prophets, Eli the priest and Samuel of Ramah.",
+   "severity": "error",
+   "reason": "שֶׁהֶאֱרִיכוּ יָמִים אַחֲרֵי יְהוֹשֻׁעַ means they outlived Joshua, not that they 'lived long after' him."
+  },
+  {
+   "ref": "1:1",
+   "path": "commentary:bartenura:1:1:4.summary",
+   "value": "Bartenura: they were one hundred and twenty elders: Zerubbabel, Seraiah, Reelaiah, Mordecai, Bilshan, of the days of Ezra and the return from exile in the Second Temple; among them were Haggai, Zechariah, Malachi and Nehemiah son of Hachaliah. They were called 'Great' because they restored the crown to its former state: Moses said 'the great, mighty and awesome God', Jeremiah and Daniel left out 'mighty' and 'awesome', and they restored them.",
+   "severity": "error",
+   "reason": "The summary said 'and later Haggai, Zechariah, Malachi'; the Hebrew says וּמִכְּלָלָם 'among them', and the prophets were members, not successors."
+  },
+  {
+   "ref": "1:2",
+   "path": "commentary:bartenura:1:2:3.relation",
+   "value": "records",
+   "severity": "question",
+   "reason": "Bartenura reads עוֹמֵד as 'the world was created only for the sake of these three'; the English 'the world stands on' keeps the literal verb, nearer Rambam's 'the continuing order of the world rests on', and does not adopt 'for the sake of'. The translator's own note says so. Proposed: records."
+  },
+  {
+   "ref": "1:6",
+   "path": "commentary:rambam:1:6:3.summary",
+   "value": "Rambam: when you do not know whether a man is righteous or wicked and he does something that may be taken well or badly, take it well. A man known to be righteous who is seen doing what looks wrong must be judged favourably if there is any possibility, and you may not suspect him; but of a known wicked man who does what looks good, be on guard. For the unknown man and an undecided act, the way of piety is to judge for merit.",
+   "severity": "error",
+   "reason": "Rambam says of the known righteous man ראוי שתקח אותו שהוא טוב ... ואין מותר לך לחשדו: it is a duty, not that he 'may still be judged for good'. The summary also dropped Rambam's closing ruling on the unknown man."
+  },
+  {
+   "ref": "1:3",
+   "path": "commentary:rabbeinu-yonah:1:3:2",
+   "value": {
+    "relation": "records",
+    "summary": "Rabbeinu Yonah's text reads אֶלָּא הֱווּ כַעֲבָדִים הַמְשַׁמְּשִׁין אֶת הָרַב עַל מְנָת שֶׁלֹּא לְקַבֵּל פְּרָס, 'on condition of not receiving a gratuity'; he holds that this reading of the books is the main one: serve as a bought slave serves, with no gratuity, out of love, as one serves a friend from long ago."
+   },
+   "severity": "question",
+   "reason": "A real textual variant that bears on the English; the translation does not record it."
+  },
+  {
+   "ref": "1:3",
+   "path": "apparatus",
+   "value": [
+    "Spelling: none.",
+    "Variant (Rabbeinu Yonah's text): עַל מְנָת שֶׁלֹּא לְקַבֵּל פְּרָס, 'on condition of not receiving a gratuity', for שֶׁלֹּא עַל מְנָת לְקַבֵּל פְּרָס; he defends it as the reading of the books. His lemma also reads וִיהֵא for וִיהִי."
+   ],
+   "severity": "question",
+   "reason": "The variant reading discussed by Rabbeinu Yonah (on 1:3) is not recorded; every witness's variant is to be recorded."
+  },
+  {
+   "ref": "1:4",
+   "path": "apparatus",
+   "value": [
+    "Second reading of מִתְאַבֵּק (Bartenura): sit on the ground at their feet.",
+    "Variant: in 1:4.16-17 Vilna omits אִישׁ צְרֵדָה in the second mention of the name; the base text has it.",
+    "Commentary lemma: Rabbeinu Yonah names the second sage יוֹסֵף בֶּן יוֹחָנָן (Yosef) for יוֹסֵי בֶן יוֹחָנָן."
+   ],
+   "severity": "question",
+   "reason": "The name variant in Rabbeinu Yonah's lemma is not recorded."
+  },
+  {
+   "ref": "1:5",
+   "path": "apparatus",
+   "value": [
+    "Spelling: 1:5.23 Vilna reads וחומר; 1:5.44 Vilna reads גיהנום; the base text has the pointed forms.",
+    "Reading of לִרְוָחָה: 'for relief', so that the house is open to give relief to the needy (a second sense of רְוָחָה).",
+    "Commentary lemmas: Rambam reads וְסוֹפוֹ יוֹרֵד לְגֵיהִנֹּם, 'and in the end goes down to Gehinnom', for יוֹרֵשׁ גֵּיהִנֹּם; Rabbeinu Yonah reads כָּל הַמַּרְבֶּה שִׂיחָה, 'whoever talks much', for כָּל זְמַן שֶׁאָדָם מַרְבֶּה שִׂיחָה, and names the sage יוֹסֵף בֶּן יוֹחָנָן."
+   ],
+   "severity": "question",
+   "reason": "Rambam's lemma יורד לגיהנם is a real variant of the last clause, and Rabbeinu Yonah's lemmas differ too; none is recorded."
+  },
+  {
+   "ref": "1:6",
+   "path": "english",
+   "value": "Yehoshua son of Perachya and Nittai the Arbelite received from them. Yehoshua son of Perachya says: Make for yourself a teacher; and acquire for yourself a friend; and judge every person favorably.",
+   "severity": "question",
+   "reason": "Every other sage keeps the Hebrew form of his name (Shimon, Yose, Yochanan, and decisions.md: Rabbi Eliezer, Rabban Gamliel); 'Joshua' should stay for the biblical Joshua of 1:1 only. Proposed: 'Yehoshua son of Perachya'."
+  },
+  {
+   "ref": "1:6",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:6.1",
+      "1:6.2",
+      "1:6.3"
+     ],
+     "english": "Yehoshua son of Perachya",
+     "literal": "'Yehoshua son-of Perachya'"
+    },
+    {
+     "tokens": [
+      "1:6.4",
+      "1:6.5"
+     ],
+     "english": "and Nittai the Arbelite",
+     "literal": "'and-Nittai the-Arbelite'"
+    },
+    {
+     "tokens": [
+      "1:6.6",
+      "1:6.7"
+     ],
+     "english": "received from them",
+     "literal": "'received from-them'"
+    },
+    {
+     "tokens": [
+      "1:6.8",
+      "1:6.9",
+      "1:6.10"
+     ],
+     "english": "Yehoshua son of Perachya",
+     "literal": "as above"
+    },
+    {
+     "tokens": [
+      "1:6.11"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:6.12",
+      "1:6.13",
+      "1:6.14"
+     ],
+     "english": "Make for yourself a teacher",
+     "literal": "'make for-you teacher'"
+    },
+    {
+     "tokens": [
+      "1:6.15",
+      "1:6.16",
+      "1:6.17"
+     ],
+     "english": "and acquire for yourself a friend",
+     "literal": "'and-acquire for-you friend'"
+    },
+    {
+     "tokens": [
+      "1:6.18",
+      "1:6.19",
+      "1:6.20",
+      "1:6.21",
+      "1:6.22",
+      "1:6.23",
+      "1:6.24"
+     ],
+     "english": "and judge every person favorably",
+     "literal": "'and-be judging all the-person to-scale-of merit'; idiom: to the pan of merit"
+    }
+   ],
+   "severity": "question",
+   "reason": "Follows the English: 'Yehoshua'."
+  },
+  {
+   "ref": "1:6",
+   "path": "literal",
+   "value": "Yehoshua son-of Perachya and-Nittai the-Arbelite received from-them. Yehoshua son-of Perachya says: Make for-you teacher, and-acquire for-you friend, and-be judging [acc.] all the-person to-scale-of merit.",
+   "severity": "question",
+   "reason": "Follows the English: 'Yehoshua'."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.1.gloss",
+   "value": "Yehoshua",
+   "severity": "question",
+   "reason": "Follows the English: 'Yehoshua'."
+  },
+  {
+   "ref": "1:6",
+   "path": "token:1:6.8.gloss",
+   "value": "Yehoshua",
+   "severity": "question",
+   "reason": "Follows the English: 'Yehoshua'."
+  },
+  {
+   "ref": "1:6",
+   "path": "apparatus",
+   "value": [
+    "The sages in the chain: Yehoshua son of Perachya and Nittai the Arbelite received from Yose son of Yoezer and Yose son of Yochanan (1:4-5).",
+    "The phrase 'to the scale of merit' (לְכַף זְכוּת) is the idiom; Jastrow (כַּף 7) gives 'scale of the balance', and Bartenura's כַּף מֹאזְנַיִם is the pan of a balance."
+   ],
+   "severity": "style",
+   "reason": "Lexicon reference updated to jastrow:כַּף 7 (scale of the balance), and the name follows the English."
+  },
+  {
+   "ref": "1:1",
+   "path": "morph:1:1.13",
+   "value": {
+    "lang": "mishnaic",
+    "root": "אנש",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "אַנְשֵׁי",
+      "lemma": "אִישׁ",
+      "pos": "noun",
+      "parse": "common, masculine, plural, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The plural אֲנָשִׁים / אַנְשֵׁי is from the root אנש (BDB, Jastrow v. אֱנוֹשׁ), not איש."
+  },
+  {
+   "ref": "1:5",
+   "path": "morph:1:5.19",
+   "value": {
+    "lang": "mishnaic",
+    "root": "אנש",
+    "morphemes": [
+     {
+      "form": "הָ",
+      "lemma": "ה: the",
+      "pos": "article",
+      "parse": "definite article"
+     },
+     {
+      "form": "אִשָּׁה",
+      "lemma": "אִשָּׁה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אִשָּׁה (construct אֵשֶׁת, suffixed אִשְׁתּ־) is from the root אנש (BDB s.v. אנש); there is no root אשה."
+  },
+  {
+   "ref": "1:5",
+   "path": "morph:1:5.20",
+   "value": {
+    "lang": "mishnaic",
+    "root": "אנש",
+    "morphemes": [
+     {
+      "form": "בְּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "אִשְׁתּ",
+      "lemma": "אִשָּׁה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     },
+     {
+      "form": "וֹ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אִשָּׁה (construct אֵשֶׁת, suffixed אִשְׁתּ־) is from the root אנש (BDB s.v. אנש); there is no root אשה."
+  },
+  {
+   "ref": "1:5",
+   "path": "morph:1:5.24",
+   "value": {
+    "lang": "mishnaic",
+    "root": "אנש",
+    "morphemes": [
+     {
+      "form": "בְּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "אֵשֶׁת",
+      "lemma": "אִשָּׁה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אִשָּׁה (construct אֵשֶׁת, suffixed אִשְׁתּ־) is from the root אנש (BDB s.v. אנש); there is no root אשה."
+  },
+  {
+   "ref": "1:5",
+   "path": "morph:1:5.35",
+   "value": {
+    "lang": "mishnaic",
+    "root": "אנש",
+    "morphemes": [
+     {
+      "form": "הָ",
+      "lemma": "ה: the",
+      "pos": "article",
+      "parse": "definite article"
+     },
+     {
+      "form": "אִשָּׁה",
+      "lemma": "אִשָּׁה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אִשָּׁה (construct אֵשֶׁת, suffixed אִשְׁתּ־) is from the root אנש (BDB s.v. אנש); there is no root אשה."
+  },
+  {
+   "ref": "1:1",
+   "path": "morph:1:1.14",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כנס",
+    "morphemes": [
+     {
+      "form": "כְנֶסֶת",
+      "lemma": "כְּנֶסֶת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כְּנֶסֶת is not construct: הַגְּדוֹלָה is a feminine attributive adjective agreeing with it ('the Great Assembly'); only the adjective carries the article."
+  },
+  {
+   "ref": "1:2",
+   "path": "morph:1:2.5",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כנס",
+    "morphemes": [
+     {
+      "form": "כְנֶסֶת",
+      "lemma": "כְּנֶסֶת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כְּנֶסֶת is not construct: הַגְּדוֹלָה is a feminine attributive adjective agreeing with it ('the Great Assembly'); only the adjective carries the article."
+  },
+  {
+   "ref": "1:1",
+   "path": "morph:1:1.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "מתן",
+    "morphemes": [
+     {
+      "form": "מְתוּנִים",
+      "lemma": "מָתוּן",
+      "pos": "adjective",
+      "parse": "adjective, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מָתוּן is from מתן 'to wait' (Jastrow: מָתוּן (מָתַן); Bartenura glosses מַמְתִּינִים); there is no root תון."
+  },
+  {
+   "ref": "1:1",
+   "path": "morph:1:1.22",
+   "value": {
+    "lang": "mishnaic",
+    "root": "דין",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with the definite article (ב/ל + הַ, the ה elided; note the dagesh)"
+     },
+     {
+      "form": "דִּין",
+      "lemma": "דִּין",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The prefix includes the article: the pataḥ and the dagesh in the next letter show בַּ/לַ = preposition + הַ; the analysis showed a bare preposition."
+  },
+  {
+   "ref": "1:1",
+   "path": "morph:1:1.28",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירה",
+    "morphemes": [
+     {
+      "form": "לַ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with the definite article (ב/ל + הַ, the ה elided; note the dagesh)"
+     },
+     {
+      "form": "תּוֹרָה",
+      "lemma": "תּוֹרָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The prefix includes the article: the pataḥ and the dagesh in the next letter show בַּ/לַ = preposition + הַ; the analysis showed a bare preposition."
+  },
+  {
+   "ref": "1:1",
+   "path": "morph:1:1.25",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רבה",
+    "morphemes": [
+     {
+      "form": "הַרְבֵּה",
+      "lemma": "הַרְבֵּה",
+      "pos": "adverb",
+      "parse": "adverb of quantity, invariable: much, many (in origin the hifil infinitive absolute of רבה)"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "הַרְבֵּה is an adverb (in origin the Hifil infinitive absolute of רבה), invariable, used after a noun for 'many'; it is not an adjective."
+  },
+  {
+   "ref": "1:2",
+   "path": "morph:1:2.20",
+   "value": {
+    "lang": "mishnaic",
+    "root": "גמל",
+    "morphemes": [
+     {
+      "form": "גְּמִילוּת",
+      "lemma": "גְּמִילוּת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "גְּמִילוּת is in construct with חֲסָדִים ('bestowal of kindnesses'), as the translation's own grammar note says."
+  },
+  {
+   "ref": "1:3",
+   "path": "morph:1:3.32",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירא",
+    "morphemes": [
+     {
+      "form": "מוֹרָא",
+      "lemma": "מוֹרָא",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מוֹרָא is in construct with שָׁמַיִם ('fear of Heaven')."
+  },
+  {
+   "ref": "1:4",
+   "path": "morph:1:4.26",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עפר",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "עֲפַר",
+      "lemma": "עָפָר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עֲפַר is the construct of עָפָר (absolute עָפָר, with qamets), bound to רַגְלֵיהֶם: 'the dust of their feet'."
+  },
+  {
+   "ref": "1:4",
+   "path": "morph:1:4.27",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רגל",
+    "morphemes": [
+     {
+      "form": "רַגְלֵי",
+      "lemma": "רֶגֶל",
+      "pos": "noun",
+      "parse": "common, feminine, dual, construct"
+     },
+     {
+      "form": "הֶם",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רֶגֶל is feminine (BDB n-f), and רַגְלֵי־ is the construct of the dual רַגְלַיִם, not a masculine plural."
+  },
+  {
+   "ref": "1:5",
+   "path": "morph:1:5.10",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רוח",
+    "morphemes": [
+     {
+      "form": "לִ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "רְוָחָה",
+      "lemma": "רְוָחָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רְוָחָה is a noun from the root רוח 'to be wide, relieved'; the root may be left empty only for names and particles."
+  },
+  {
+   "ref": "1:5",
+   "path": "morph:1:5.29",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "כָּל",
+      "lemma": "כֹּל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֹּל is a noun (BDB n-m) in the construct state, 'the totality of', not an adjective."
+  },
+  {
+   "ref": "1:6",
+   "path": "morph:1:6.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כלל",
+    "morphemes": [
+     {
+      "form": "כָּל",
+      "lemma": "כֹּל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֹּל is a noun (BDB n-m) in the construct state, 'the totality of', not an adjective."
+  },
+  {
+   "ref": "1:5",
+   "path": "morph:1:5.31",
+   "value": {
+    "lang": "mishnaic",
+    "root": "אדם",
+    "morphemes": [
+     {
+      "form": "שֶׁ",
+      "lemma": "ש: who, which, that",
+      "pos": "particle",
+      "parse": "relative particle"
+     },
+     {
+      "form": "אָדָם",
+      "lemma": "אָדָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אָדָם is a common noun here ('a person') and its root is אדם, as at 1:6.22; the root was left empty."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:1:1:1",
+   "verdict": "not-applicable",
+   "comment": "Introduction to the tractate: the ethical teachings were also given at Sinai; no bearing on the wording."
+  },
+  {
+   "anchor": "bartenura:1:1:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:1:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:1:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:1:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:1:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:1:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:1:8",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:1:1",
+   "verdict": "not-applicable",
+   "comment": "Rambam's statement of method; no bearing on the wording."
+  },
+  {
+   "anchor": "rambam:1:1:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:1:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:2:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:2:3",
+   "verdict": "consistent",
+   "comment": "The English 'stands on' does not contradict 'was created for the sake of'; the relation is better 'records' (patched)."
+  },
+  {
+   "anchor": "bartenura:1:2:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:2:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:2:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:3:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:4:1",
+   "verdict": "not-applicable",
+   "comment": "On the pairs (nasi and av beit din); no bearing on the wording."
+  },
+  {
+   "anchor": "bartenura:1:4:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:4:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:4:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:5:3",
+   "verdict": "consistent",
+   "comment": "'The woman' keeps the article on which Bartenura's reading rests."
+  },
+  {
+   "anchor": "bartenura:1:5:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:5:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:5:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:5:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:5:5",
+   "verdict": "consistent",
+   "comment": "Rambam's lemma reads יורד לגיהנם; the substance (punishment) agrees with 'inherits Gehinnom'. The variant is added to the apparatus."
+  },
+  {
+   "anchor": "bartenura:1:6:1",
+   "verdict": "consistent",
+   "comment": "The English 'make for yourself a teacher' fits both Rambam's reading (quoted by Bartenura) and Bartenura's own (one fixed teacher)."
+  },
+  {
+   "anchor": "bartenura:1:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:6:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:6:3",
+   "verdict": "consistent"
+  }
+ ]
+}

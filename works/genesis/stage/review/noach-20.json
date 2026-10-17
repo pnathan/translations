@@ -1,0 +1,34 @@
+{
+  "unit": "noach-20",
+  "model": "opus",
+  "summary": "A short genealogical unit (Shelah and Eber), rendered accurately: the English lines, the numbers (403, 34, 430), the senses and the Onkelos rulings are all correct, and the unit has no normative anchors. The one real fault is the literal line of 11:15 and 11:17, where 'fathering-him' makes the suffix of הוֹלִידוֹ look like an object, when it is the subject ('his-fathering'), as the token notes themselves say. The grammar note on שָׁלֹשׁ שָׁנִים in 11:15 is expanded so that a learner sees why the form without ־ָה goes with a feminine noun.",
+  "patches": [
+    {
+      "ref": "11:15",
+      "path": "literal",
+      "value": "and-lived Shelah after his-fathering [object-marker] Eber three years and-four hundreds year and-fathered sons and-daughters",
+      "severity": "error",
+      "reason": "The suffix וֹ on the infinitive הוֹלִידוֹ is its subject (Shelah's fathering), not its object; Eber, after אֶת, is the object. 'fathering-him' reads the suffix as an object and contradicts the token note and the phrase literal ('after his-fathering')."
+    },
+    {
+      "ref": "11:17",
+      "path": "literal",
+      "value": "and-lived Eber after his-fathering [object-marker] Peleg thirty year and-four hundreds year and-fathered sons and-daughters",
+      "severity": "error",
+      "reason": "As in 11:15: the suffix of הוֹלִידוֹ is the subject of the infinitive, so 'his-fathering', not 'fathering-him'; Peleg is the object."
+    },
+    {
+      "ref": "11:15",
+      "path": "grammar",
+      "value": [
+        "The number is given as 'three years and four hundreds year'; the smaller number precedes, and מֵאוֹת, the plural of מֵאָה, 'hundreds', is followed by singular שָׁנָה.",
+        "אַחֲרֵי הוֹלִידוֹ is a preposition with an infinitive construct and a suffix: 'after his fathering'.",
+        "שָׁלֹשׁ שָׁנִים: with the numbers three to ten the form without ־ָה goes with a feminine noun and the form with ־ָה (שְׁלֹשָׁה) with a masculine one; שָׁנָה is feminine, so שָׁלֹשׁ, which the pack parses as feminine by this agreement. After three to ten the noun is plural: שָׁנִים.",
+        "The zaqef qaton on עֵבֶר and on שָׁנִים and the etnaḥta on שָׁנָה divide the verse into the time after the birth and the other children."
+      ],
+      "severity": "style",
+      "reason": "The note 'feminine שָׁלֹשׁ with feminine plural שָׁנִים' is true under the pack's parse, but a learner who knows that ־ָה usually marks the feminine is left puzzled by a feminine form without it; the note now states the reversed agreement of three to ten and the plural noun after them. The other three notes are unchanged."
+    }
+  ],
+  "verdicts": []
+}

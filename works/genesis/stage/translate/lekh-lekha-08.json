@@ -1,0 +1,1162 @@
+{
+ "unit": "lekh-lekha-08",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "14:17",
+   "english": "The king of Sodom went out to meet him, after his return from striking down Chedorlaomer and the kings who were with him, to the Valley of Shaveh, that is, the King's Valley.",
+   "literal": "and-went-out king-of Sodom to-meet-him after return-his from-striking [obj] Chedorlaomer and-[obj] the-kings who with-him to valley-of Shaveh it valley-of the-king",
+   "tokens": [
+    {
+     "id": "14:17.1",
+     "gloss": "and went out",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, narrative past"
+    },
+    {
+     "id": "14:17.2",
+     "gloss": "king of",
+     "note": "construct"
+    },
+    {
+     "id": "14:17.3",
+     "gloss": "Sodom"
+    },
+    {
+     "id": "14:17.4",
+     "gloss": "to meet him",
+     "sense": "Qal 1",
+     "note": "infinitive construct with ל and suffix"
+    },
+    {
+     "id": "14:17.5",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "14:17.6",
+     "gloss": "his return",
+     "sense": "Qal 2",
+     "note": "infinitive construct with suffix, temporal clause"
+    },
+    {
+     "id": "14:17.7",
+     "gloss": "from striking down",
+     "sense": "Hiph 1.a",
+     "note": "infinitive construct with מן"
+    },
+    {
+     "id": "14:17.8",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "14:17.9",
+     "gloss": "Chedorlaomer"
+    },
+    {
+     "id": "14:17.10",
+     "gloss": "and [object marker]"
+    },
+    {
+     "id": "14:17.11",
+     "gloss": "the kings"
+    },
+    {
+     "id": "14:17.12",
+     "gloss": "who"
+    },
+    {
+     "id": "14:17.13",
+     "gloss": "with him"
+    },
+    {
+     "id": "14:17.14",
+     "gloss": "to",
+     "sense": "3"
+    },
+    {
+     "id": "14:17.15",
+     "gloss": "valley of",
+     "note": "construct"
+    },
+    {
+     "id": "14:17.16",
+     "gloss": "Shaveh"
+    },
+    {
+     "id": "14:17.17",
+     "gloss": "that is"
+    },
+    {
+     "id": "14:17.18",
+     "gloss": "valley of",
+     "note": "construct"
+    },
+    {
+     "id": "14:17.19",
+     "gloss": "the king"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:17.1",
+      "14:17.2",
+      "14:17.3"
+     ],
+     "english": "The king of Sodom went out",
+     "literal": "'and-went-out king-of Sodom'"
+    },
+    {
+     "tokens": [
+      "14:17.4"
+     ],
+     "english": "to meet him",
+     "literal": "'to-meet-him', infinitive of קרא"
+    },
+    {
+     "tokens": [
+      "14:17.5",
+      "14:17.6"
+     ],
+     "english": "after his return",
+     "literal": "'after return-his'"
+    },
+    {
+     "tokens": [
+      "14:17.7",
+      "14:17.8",
+      "14:17.9"
+     ],
+     "english": "from striking down Chedorlaomer",
+     "literal": "'from-striking [obj] Chedorlaomer'"
+    },
+    {
+     "tokens": [
+      "14:17.10",
+      "14:17.11",
+      "14:17.12",
+      "14:17.13"
+     ],
+     "english": "and the kings who were with him",
+     "literal": "'and-[obj] the-kings who with-him'"
+    },
+    {
+     "tokens": [
+      "14:17.14",
+      "14:17.15",
+      "14:17.16"
+     ],
+     "english": "to the Valley of Shaveh",
+     "literal": "'to valley-of Shaveh'"
+    },
+    {
+     "tokens": [
+      "14:17.17",
+      "14:17.18",
+      "14:17.19"
+     ],
+     "english": "that is, the King's Valley",
+     "literal": "'it valley-of the-king'"
+    }
+   ],
+   "grammar": [
+    "וַיֵּצֵא is a wayyiqtol: the narrative resumes after the battle report, with the king of Sodom as the new subject.",
+    "אַחֲרֵי שׁוּבוֹ and מֵהַכּוֹת are infinitives with suffix or preposition and form one time clause: 'after his returning from the striking of'.",
+    "The zinor on סְדֹם and the segol on לִקְרָאתוֹ set 'the king of Sodom ... to meet him' apart from the time clause; the etnaḥta on אִתּוֹ ends the first half.",
+    "הוּא עֵמֶק הַמֶּלֶךְ glosses the place name: 'that is, the King's Valley'."
+   ],
+   "note": "The English follows Rashi in taking עֵמֶק שָׁוֵה as the name of the place; Rashi and the Targum also give its sense as a cleared, level plain. The identity of 'the king' in הַמֶּלֶךְ is not stated; the name is kept as 'the King's Valley'.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:17:1",
+     "relation": "follows",
+     "summary": "Rashi: 'so it is named', as Targum has it, 'a cleared plain': free of trees and every obstacle. He takes שָׁוֵה as a proper name that also describes the level ground."
+    },
+    {
+     "anchor": "rashi:14:17:2",
+     "relation": "records",
+     "summary": "Rashi: Targum's 'Beth Risa of the king', thirty reeds, reserved for the king to amuse himself there; the aggada says the nations agreed there to make Abraham ruler. The English keeps only the place name; both explanations are recorded."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders עֵמֶק שָׁוֵה 'a cleared plain' and עֵמֶק הַמֶּלֶךְ 'the place Beth Risa of the king'."
+   ]
+  },
+  {
+   "ref": "14:18",
+   "english": "Now Melchizedek, king of Salem, brought out bread and wine. He was a priest of God Most High.",
+   "literal": "and-Malki-Tsedeq king-of Shalem brought-out bread and-wine and-he priest to-God Most-High",
+   "tokens": [
+    {
+     "id": "14:18.1",
+     "gloss": "and Melchizedek",
+     "note": "name read as 'my king is righteousness' or 'king of righteousness'"
+    },
+    {
+     "id": "14:18.2",
+     "gloss": "Melchizedek",
+     "note": "second part of the name"
+    },
+    {
+     "id": "14:18.3",
+     "gloss": "king of",
+     "note": "construct"
+    },
+    {
+     "id": "14:18.4",
+     "gloss": "Salem",
+     "note": "Rashi: Shem; Ibn Ezra, Ramban: Jerusalem"
+    },
+    {
+     "id": "14:18.5",
+     "gloss": "brought out",
+     "sense": "Hiph 1",
+     "note": "hifil perfect of יצא"
+    },
+    {
+     "id": "14:18.6",
+     "gloss": "bread"
+    },
+    {
+     "id": "14:18.7",
+     "gloss": "and wine"
+    },
+    {
+     "id": "14:18.8",
+     "gloss": "and he"
+    },
+    {
+     "id": "14:18.9",
+     "gloss": "priest"
+    },
+    {
+     "id": "14:18.10",
+     "gloss": "of",
+     "note": "לְ marking the deity served"
+    },
+    {
+     "id": "14:18.11",
+     "gloss": "Most High",
+     "note": "adjective used as a divine epithet"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:18.1",
+      "14:18.2",
+      "14:18.3",
+      "14:18.4"
+     ],
+     "english": "Now Melchizedek, king of Salem,",
+     "literal": "'and-Malki-Tsedeq king-of Shalem'"
+    },
+    {
+     "tokens": [
+      "14:18.5"
+     ],
+     "english": "brought out",
+     "literal": "hifil of יצא, 'caused to go out'"
+    },
+    {
+     "tokens": [
+      "14:18.6",
+      "14:18.7"
+     ],
+     "english": "bread and wine",
+     "literal": "'bread and-wine'; Rashi: food for men worn from war"
+    },
+    {
+     "tokens": [
+      "14:18.8",
+      "14:18.9"
+     ],
+     "english": "He was a priest",
+     "literal": "'and-he priest'"
+    },
+    {
+     "tokens": [
+      "14:18.10",
+      "14:18.11"
+     ],
+     "english": "of God Most High",
+     "literal": "'to-God Most-High'"
+    }
+   ],
+   "grammar": [
+    "The proper name has two parts joined by maqqef, מַלְכִּי־צֶדֶק; the pashta pair on צֶדֶק marks it as a unit. The name can be read 'my king is Ṣedeq' or 'king of righteousness'.",
+    "הוֹצִיא is a hifil perfect, 'brought out'; the verb comes after its subject, so the clause is a new scene, not the next step in a chain of wayyiqtols.",
+    "וְהוּא כֹהֵן is a circumstantial clause giving his office: the pronoun opens the clause and the noun without article is the predicate.",
+    "אֵל עֶלְיוֹן: 'God Most High', the first appearance of the title."
+   ],
+   "note": "I give שָׁלֵם as Salem and record Jerusalem (Ibn Ezra, Ramban, Radak, citing Psalm 76:3). Rashi's 'Shem son of Noah' (so Radak) is recorded, not adopted, since it identifies the man and does not change the English. Ibn Ezra and Rashi hold that the bread and wine were for refreshment (Rashi: the custom for those weary from war), and the Targum's 'served' for כֹהֵן is taken as 'was priest'.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:18:1",
+     "relation": "records",
+     "summary": "Rashi: according to the aggada, Melchizedek is the name of Shem son of Noah (Nedarim 32). The English keeps the name only."
+    },
+    {
+     "anchor": "rashi:14:18:2",
+     "relation": "follows",
+     "summary": "Rashi: so one treats those weary from battle, and he showed Abram he bore no grudge for killing his sons; the aggada has it hint at the offerings and libations. The English takes the plain sense of a meal for the weary."
+    },
+    {
+     "anchor": "ibn-ezra:14:18:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: he was so called because he was king over a place of righteousness, though some say it is a personal name. The English keeps the name."
+    },
+    {
+     "anchor": "ibn-ezra:14:18:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: 'Salem is Jerusalem', proved by 'In Salem is his booth' (Psalm 76:3). The English prints 'Salem' and records the identification here."
+    },
+    {
+     "anchor": "ibn-ezra:14:18:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: as the Aramaic translator has it, כֹהֵן means one who ministers, as in וְכִהֲנוּ לִי; Melchizedek spoke properly in blessing Abram first for his zeal to rescue captives. The English says he was priest of God Most High."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: 'Melchizedek king of Jerusalem brought out bread and wine, and he ministered before God Most High'."
+   ]
+  },
+  {
+   "ref": "14:19",
+   "english": "He blessed him and said, \"Blessed be Abram by God Most High, maker of heaven and earth.\"",
+   "literal": "and-blessed-him and-said blessed Abram to-God Most-High maker-of heavens and-earth",
+   "tokens": [
+    {
+     "id": "14:19.1",
+     "gloss": "and he blessed him",
+     "sense": "Pi 3",
+     "note": "piel wayyiqtol with object suffix"
+    },
+    {
+     "id": "14:19.2",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol introducing speech"
+    },
+    {
+     "id": "14:19.3",
+     "gloss": "blessed",
+     "sense": "Qal 2",
+     "note": "passive participle used as a blessing formula"
+    },
+    {
+     "id": "14:19.4",
+     "gloss": "Abram"
+    },
+    {
+     "id": "14:19.5",
+     "gloss": "by God",
+     "sense": "6",
+     "note": "לְ here 'by', 'to', 'for'; the blessing comes from God"
+    },
+    {
+     "id": "14:19.6",
+     "gloss": "Most High"
+    },
+    {
+     "id": "14:19.7",
+     "gloss": "maker of",
+     "sense": "Qal 1",
+     "note": "construct participle; acquire or make"
+    },
+    {
+     "id": "14:19.8",
+     "gloss": "heaven",
+     "sense": "1.a"
+    },
+    {
+     "id": "14:19.9",
+     "gloss": "and earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:19.1"
+     ],
+     "english": "He blessed him",
+     "literal": "'and-blessed-him'"
+    },
+    {
+     "tokens": [
+      "14:19.2"
+     ],
+     "english": "and said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "14:19.3",
+      "14:19.4"
+     ],
+     "english": "Blessed be Abram",
+     "literal": "'blessed Abram', passive participle in a wish"
+    },
+    {
+     "tokens": [
+      "14:19.5",
+      "14:19.6"
+     ],
+     "english": "by God Most High",
+     "literal": "'to-God Most-High'; the לְ is read as 'by', as in Ibn Ezra"
+    },
+    {
+     "tokens": [
+      "14:19.7",
+      "14:19.8",
+      "14:19.9"
+     ],
+     "english": "maker of heaven and earth",
+     "literal": "'maker-of heavens and-earth'; Rashi: קֹנֶה is like עֹשֶׂה, and by making them he made them his own"
+    }
+   ],
+   "grammar": [
+    "וַיְבָרְכֵהוּ is a piel wayyiqtol with the object suffix, followed by a second wayyiqtol that introduces the blessing itself.",
+    "בָּרוּךְ is a passive participle; there is no verb 'be', so the wish is a verbless clause 'blessed Abram to God Most High'.",
+    "קֹנֵה is a construct participle of קנה; it can mean 'buyer', 'owner', or 'maker', the last attested for the root in Deuteronomy 32:6 and Psalm 139:13.",
+    "The accents divide the blessing: the zaqef on עֶלְיוֹן separates the blessing from the title 'maker of heaven and earth'."
+   ],
+   "note": "קֹנֵה is read 'maker' with Rashi, Radak and the Targum's discussion by Ramban; Rashi adds that making them he acquired them as his own. The sense 'owner' is the other real reading and is recorded in the commentary entries. The נ in בָּרוּךְ is a Qal passive participle.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:19:1",
+     "relation": "follows",
+     "summary": "Rashi: קֹנֵה is like עֹשֵׂה (Psalm 134), and by making heaven and earth he acquired them to be his. The English takes 'maker' and records 'acquirer' here."
+    }
+   ],
+   "apparatus": [
+    "Onkelos has 'to God Most High whose possession is heaven and earth' (דִּקִנְיָנֵיהּ); Radak says 'make or provide'; Sforno 'heaven and earth are a possession for him'."
+   ]
+  },
+  {
+   "ref": "14:20",
+   "english": "And blessed be God Most High, who has delivered your enemies into your hand. And Abram gave him a tenth of everything.",
+   "literal": "and-blessed God Most-High who delivered your-foes in-your-hand and-gave to-him tenth from-all",
+   "tokens": [
+    {
+     "id": "14:20.1",
+     "gloss": "and blessed",
+     "sense": "Qal 2",
+     "note": "passive participle in a blessing formula"
+    },
+    {
+     "id": "14:20.2",
+     "gloss": "God",
+     "sense": "6"
+    },
+    {
+     "id": "14:20.3",
+     "gloss": "Most High"
+    },
+    {
+     "id": "14:20.4",
+     "gloss": "who"
+    },
+    {
+     "id": "14:20.5",
+     "gloss": "delivered",
+     "note": "piel perfect of מגן; 'handed over'"
+    },
+    {
+     "id": "14:20.6",
+     "gloss": "your enemies",
+     "note": "construct plural with suffix"
+    },
+    {
+     "id": "14:20.7",
+     "gloss": "into your hand",
+     "note": "בְּ with יָד, 'in your hand'"
+    },
+    {
+     "id": "14:20.8",
+     "gloss": "and he gave",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; Rashi: the subject is Abram"
+    },
+    {
+     "id": "14:20.9",
+     "gloss": "to him"
+    },
+    {
+     "id": "14:20.10",
+     "gloss": "a tenth"
+    },
+    {
+     "id": "14:20.11",
+     "gloss": "of everything"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:20.1",
+      "14:20.2",
+      "14:20.3"
+     ],
+     "english": "And blessed be God Most High",
+     "literal": "'and-blessed God Most-High'"
+    },
+    {
+     "tokens": [
+      "14:20.4",
+      "14:20.5"
+     ],
+     "english": "who has delivered",
+     "literal": "'who delivered'; Rashi: הִסְגִּיר, handed over"
+    },
+    {
+     "tokens": [
+      "14:20.6",
+      "14:20.7"
+     ],
+     "english": "your enemies into your hand",
+     "literal": "'your-foes in-your-hand'"
+    },
+    {
+     "tokens": [
+      "14:20.8",
+      "14:20.9"
+     ],
+     "english": "And Abram gave him",
+     "literal": "'and-gave to-him', the subject Abram supplied after Rashi"
+    },
+    {
+     "tokens": [
+      "14:20.10",
+      "14:20.11"
+     ],
+     "english": "a tenth of everything",
+     "literal": "'tenth from-all'"
+    }
+   ],
+   "grammar": [
+    "מִגֵּן is a piel perfect of a root that otherwise yields 'shield'; here it takes the sense 'deliver up', as Rashi and Ibn Ezra say.",
+    "צָרֶיךָ is a plural construct (צָרֵי) with the suffix ךָ: 'your adversaries'.",
+    "The pashta on בָּרוּךְ and the zaqef on עֶלְיוֹן divide the blessing from its relative clause.",
+    "וַיִּתֶּן־לוֹ has no stated subject; the reader must decide who gives to whom, and Rashi says Abram gave."
+   ],
+   "note": "Rashi and Ibn Ezra agree that מִגֵּן means 'handed over', like נָתַן, and the English follows them rather than 'shielded'. The subject of וַיִּתֶּן is Abram (Rashi, Ibn Ezra); the other reading, that Melchizedek gave Abram a tithe, is a real alternative that the Hebrew does not exclude, and I do not adopt it.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:20:1",
+     "relation": "follows",
+     "summary": "Rashi: אֲשֶׁר מִגֵּן means 'who handed over', like אֲמַגֶּנְךָ יִשְׂרָאֵל (Hosea 11)."
+    },
+    {
+     "anchor": "rashi:14:20:2",
+     "relation": "follows",
+     "summary": "Rashi: the giver is Abraham. The English names Abram."
+    },
+    {
+     "anchor": "rashi:14:20:3",
+     "relation": "follows",
+     "summary": "Rashi: the tithe was from all that Abram had, because Melchizedek was a priest. The English says 'of everything'."
+    },
+    {
+     "anchor": "ibn-ezra:14:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: מִגֵּן is like נָתַן, as in 'a crown of glory she shall deliver you' (Proverbs 4:9); the מ is a root letter; Abram took out the tithe in honor of God and found no one fitter than Melchizedek."
+    }
+   ]
+  },
+  {
+   "ref": "14:21",
+   "english": "The king of Sodom said to Abram, \"Give me the people, and take the goods for yourself.\"",
+   "literal": "and-said king-of Sodom to Abram give to-me the-person and-the-goods take for-you",
+   "tokens": [
+    {
+     "id": "14:21.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "14:21.2",
+     "gloss": "king of",
+     "note": "construct"
+    },
+    {
+     "id": "14:21.3",
+     "gloss": "Sodom"
+    },
+    {
+     "id": "14:21.4",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "14:21.5",
+     "gloss": "Abram"
+    },
+    {
+     "id": "14:21.6",
+     "gloss": "give",
+     "sense": "Qal 1",
+     "note": "imperative"
+    },
+    {
+     "id": "14:21.7",
+     "gloss": "to me"
+    },
+    {
+     "id": "14:21.8",
+     "gloss": "the people",
+     "sense": "1",
+     "note": "collective singular; Rashi: the persons, the bodies"
+    },
+    {
+     "id": "14:21.9",
+     "gloss": "and the goods"
+    },
+    {
+     "id": "14:21.10",
+     "gloss": "take",
+     "sense": "Qal 1",
+     "note": "imperative"
+    },
+    {
+     "id": "14:21.11",
+     "gloss": "for yourself",
+     "note": "ethic dative; the suffix is written with a qamets and a silluq, feminine in form but masculine in sense"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:21.1",
+      "14:21.2",
+      "14:21.3"
+     ],
+     "english": "The king of Sodom said",
+     "literal": "'and-said king-of Sodom'"
+    },
+    {
+     "tokens": [
+      "14:21.4",
+      "14:21.5"
+     ],
+     "english": "to Abram",
+     "literal": "'to Abram'"
+    },
+    {
+     "tokens": [
+      "14:21.6",
+      "14:21.7",
+      "14:21.8"
+     ],
+     "english": "Give me the people",
+     "literal": "'give to-me the-nefesh'; Rashi: the persons themselves"
+    },
+    {
+     "tokens": [
+      "14:21.9",
+      "14:21.10",
+      "14:21.11"
+     ],
+     "english": "and take the goods for yourself",
+     "literal": "'and-the-goods take for-you': the verb stands after its object"
+    }
+   ],
+   "grammar": [
+    "נֶפֶשׁ with the article is a collective singular, 'the persons'; the word does not mean 'soul' here but the living captives.",
+    "The two imperatives תֶּן and קַח are set against each other: the king asks for the people and offers the goods.",
+    "הָרְכֻשׁ is placed before its verb for contrast with הַנֶּפֶשׁ.",
+    "The suffix of לָךְ is written ךְ with a qamets, an old form of the second-person masculine."
+   ],
+   "note": "The pack parses the suffix of לָךְ as feminine; the form is the pausal ךְ spelling, and the sense is addressed to Abram. I keep the pack's data and note it here. 'The people' follows Rashi's 'the bodies alone'.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:21:1",
+     "relation": "follows",
+     "summary": "Rashi: 'from my captives whom you rescued, return to me the bodies alone'. The English takes נֶפֶשׁ as the captured persons."
+    }
+   ]
+  },
+  {
+   "ref": "14:22",
+   "english": "Abram said to the king of Sodom, \"I raise my hand in oath to the LORD, God Most High, maker of heaven and earth.\"",
+   "literal": "and-said Abram to king-of Sodom I-raise my-hand to YHWH God Most-High maker-of heavens and-earth",
+   "tokens": [
+    {
+     "id": "14:22.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "14:22.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "14:22.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "14:22.4",
+     "gloss": "king of",
+     "note": "construct"
+    },
+    {
+     "id": "14:22.5",
+     "gloss": "Sodom"
+    },
+    {
+     "id": "14:22.6",
+     "gloss": "I raise",
+     "sense": "Hiph 1.b",
+     "note": "hifil perfect; the perfect of a performative oath, 'I hereby raise'"
+    },
+    {
+     "id": "14:22.7",
+     "gloss": "my hand",
+     "sense": "1",
+     "note": "hand lifted in the oath"
+    },
+    {
+     "id": "14:22.8",
+     "gloss": "to",
+     "sense": "3"
+    },
+    {
+     "id": "14:22.9",
+     "gloss": "the LORD",
+     "note": "יְהוָה"
+    },
+    {
+     "id": "14:22.10",
+     "gloss": "God",
+     "sense": "6"
+    },
+    {
+     "id": "14:22.11",
+     "gloss": "Most High"
+    },
+    {
+     "id": "14:22.12",
+     "gloss": "maker of",
+     "sense": "Qal 1",
+     "note": "construct participle"
+    },
+    {
+     "id": "14:22.13",
+     "gloss": "heaven",
+     "sense": "1.a"
+    },
+    {
+     "id": "14:22.14",
+     "gloss": "and earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:22.1",
+      "14:22.2"
+     ],
+     "english": "Abram said",
+     "literal": "'and-said Abram'"
+    },
+    {
+     "tokens": [
+      "14:22.3",
+      "14:22.4",
+      "14:22.5"
+     ],
+     "english": "to the king of Sodom",
+     "literal": "'to king-of Sodom'"
+    },
+    {
+     "tokens": [
+      "14:22.6",
+      "14:22.7"
+     ],
+     "english": "I raise my hand in oath",
+     "literal": "'I-raise my-hand'; Rashi, Ibn Ezra: an oath"
+    },
+    {
+     "tokens": [
+      "14:22.8",
+      "14:22.9"
+     ],
+     "english": "to the LORD",
+     "literal": "'to YHWH'"
+    },
+    {
+     "tokens": [
+      "14:22.10",
+      "14:22.11"
+     ],
+     "english": "God Most High",
+     "literal": "'God Most-High'"
+    },
+    {
+     "tokens": [
+      "14:22.12",
+      "14:22.13",
+      "14:22.14"
+     ],
+     "english": "maker of heaven and earth",
+     "literal": "'maker-of heavens and-earth'"
+    }
+   ],
+   "grammar": [
+    "הֲרִמֹתִי is a hifil perfect with a performative sense: the act of raising the hand is the oath, as Rashi's parallel with 'I have sworn' (22:16) shows.",
+    "The name יְהוָה is added to Melchizedek's title: Abram says 'the LORD, God Most High', identifying the two.",
+    "The oath continues through verse 24 and does not end at the silluq.",
+    "The qadma on הֲרִמֹתִי and the mahpakh on יָדִי hold the oath formula together."
+   ],
+   "note": "The English renders the gesture and gives its sense, an oath, with Rashi and Ibn Ezra, who agree. Abram adds the divine name יְהוָה to the title used by Melchizedek (Ibn Ezra: 'I swore by the name by which this priest blessed me').",
+   "commentary": [
+    {
+     "anchor": "rashi:14:22:1",
+     "relation": "follows",
+     "summary": "Rashi: the phrase is the language of an oath: 'I raise my hand to God Most High', like 'I have sworn by myself' (22:16) and 'I give you the field' (23:13). The English says 'in oath'."
+    },
+    {
+     "anchor": "ibn-ezra:14:22:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: an oath, as in 'I raise my hand to heaven' (Deuteronomy 32:40)."
+    },
+    {
+     "anchor": "ibn-ezra:14:22:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the sense of אֵל עֶלְיוֹן is that I swore by the name by which this priest blessed me. The English keeps the title."
+    }
+   ]
+  },
+  {
+   "ref": "14:23",
+   "english": "I will not take so much as a thread or a sandal strap, nor anything that is yours, so that you cannot say, \"I made Abram rich.\"",
+   "literal": "if from-thread and-up-to strap-of sandal and-if I-take from-all who to-you and-not you-say I I-enriched [obj] Abram",
+   "tokens": [
+    {
+     "id": "14:23.1",
+     "gloss": "not (oath formula)",
+     "note": "אִם opens the oath: 'surely not'"
+    },
+    {
+     "id": "14:23.2",
+     "gloss": "from a thread",
+     "note": "מן marks the lower limit"
+    },
+    {
+     "id": "14:23.3",
+     "gloss": "to",
+     "sense": "II.1",
+     "note": "with וְ, 'and as far as'"
+    },
+    {
+     "id": "14:23.4",
+     "gloss": "strap of",
+     "note": "construct"
+    },
+    {
+     "id": "14:23.5",
+     "gloss": "sandal"
+    },
+    {
+     "id": "14:23.6",
+     "gloss": "nor",
+     "note": "second אִם in the oath"
+    },
+    {
+     "id": "14:23.7",
+     "gloss": "I will take",
+     "sense": "Qal 3.a",
+     "note": "imperfect, 'I shall take'"
+    },
+    {
+     "id": "14:23.8",
+     "gloss": "of all",
+     "sense": "1"
+    },
+    {
+     "id": "14:23.9",
+     "gloss": "that"
+    },
+    {
+     "id": "14:23.10",
+     "gloss": "is yours"
+    },
+    {
+     "id": "14:23.11",
+     "gloss": "and not",
+     "note": "וְלֹא; the clause gives the reason of the refusal"
+    },
+    {
+     "id": "14:23.12",
+     "gloss": "you will say",
+     "sense": "Qal 1",
+     "note": "imperfect, 'you shall say'"
+    },
+    {
+     "id": "14:23.13",
+     "gloss": "I"
+    },
+    {
+     "id": "14:23.14",
+     "gloss": "I made rich",
+     "sense": "Hiph 1",
+     "note": "hifil perfect, 'I made rich'"
+    },
+    {
+     "id": "14:23.15",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "14:23.16",
+     "gloss": "Abram"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:23.1",
+      "14:23.2",
+      "14:23.3",
+      "14:23.4",
+      "14:23.5"
+     ],
+     "english": "I will not take so much as a thread or a sandal strap",
+     "literal": "'if from-thread and-up-to strap-of sandal'; an oath, 'if I take...' meaning 'I will not'"
+    },
+    {
+     "tokens": [
+      "14:23.6",
+      "14:23.7",
+      "14:23.8",
+      "14:23.9",
+      "14:23.10"
+     ],
+     "english": "nor anything that is yours",
+     "literal": "'and-if I-take from-all that to-you'"
+    },
+    {
+     "tokens": [
+      "14:23.11",
+      "14:23.12"
+     ],
+     "english": "so that you cannot say",
+     "literal": "'and-not you-say'"
+    },
+    {
+     "tokens": [
+      "14:23.13",
+      "14:23.14",
+      "14:23.15",
+      "14:23.16"
+     ],
+     "english": "I made Abram rich",
+     "literal": "'I enriched [obj] Abram'"
+    }
+   ],
+   "grammar": [
+    "The oath formula אִם ... אִם takes a negative sense: 'if I take ... may I be ...', that is 'I will not take'; the penalty is left unsaid.",
+    "מִחוּט וְעַד שְׂרוֹךְ־נַעַל is an idiom for 'the smallest thing', from a thread to a shoe strap.",
+    "The hifil הֶעֱשַׁרְתִּי is a denominative verb: 'I made rich'; the pronoun אֲנִי stresses the claim 'I, I made'.",
+    "The etnaḥta on לָךְ ends the oath, and וְלֹא תֹאמַר starts the clause giving the purpose."
+   ],
+   "note": "אִם is the elliptical oath, 'not' (so Rashi's 'I will keep back for myself nothing from the captives'). Rashi reads the second clause as 'if you offer me a reward from your treasury, I will not take it' and the third as God's promise to enrich Abram (12:2), which is the reason; both bear on the sense but not on the wording of the English.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:23:1",
+     "relation": "follows",
+     "summary": "Rashi: 'I will keep for myself nothing of the captives', the sense of אִם as an oath."
+    },
+    {
+     "anchor": "rashi:14:23:2",
+     "relation": "follows",
+     "summary": "Rashi: if you say to give me wages from your treasury, I will not take them. The English says 'nor anything that is yours'."
+    },
+    {
+     "anchor": "rashi:14:23:3",
+     "relation": "records",
+     "summary": "Rashi: the Holy One promised to make me rich, 'and I will bless you' (12:2). The English does not give this reason; it is recorded."
+    },
+    {
+     "anchor": "ibn-ezra:14:23:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: חוּט is the thread from which every garment is sewn."
+    },
+    {
+     "anchor": "ibn-ezra:14:23:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: שְׂרוֹךְ is the leather that binds the sandal."
+    }
+   ]
+  },
+  {
+   "ref": "14:24",
+   "english": "Not for me, only what my servants have eaten, and the share of the men who went with me: Aner, Eshcol and Mamre. They may take their share.",
+   "literal": "apart-from-me only what ate the-lads and-share-of the-men who went with-me Aner Eshcol and-Mamre they let-them-take share-their",
+   "tokens": [
+    {
+     "id": "14:24.1",
+     "gloss": "apart from me",
+     "note": "prepositional 'except me'"
+    },
+    {
+     "id": "14:24.2",
+     "gloss": "only",
+     "sense": "2"
+    },
+    {
+     "id": "14:24.3",
+     "gloss": "what"
+    },
+    {
+     "id": "14:24.4",
+     "gloss": "have eaten",
+     "sense": "Qal 1",
+     "note": "perfect, 'ate'"
+    },
+    {
+     "id": "14:24.5",
+     "gloss": "the young men",
+     "sense": "2",
+     "note": "Rashi, Ibn Ezra: Abram's servants"
+    },
+    {
+     "id": "14:24.6",
+     "gloss": "and the share of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "14:24.7",
+     "gloss": "the men"
+    },
+    {
+     "id": "14:24.8",
+     "gloss": "who"
+    },
+    {
+     "id": "14:24.9",
+     "gloss": "went with",
+     "sense": "Qal II.2",
+     "note": "perfect plural, 'walked'"
+    },
+    {
+     "id": "14:24.10",
+     "gloss": "me"
+    },
+    {
+     "id": "14:24.11",
+     "gloss": "Aner"
+    },
+    {
+     "id": "14:24.12",
+     "gloss": "Eshcol"
+    },
+    {
+     "id": "14:24.13",
+     "gloss": "and Mamre"
+    },
+    {
+     "id": "14:24.14",
+     "gloss": "they"
+    },
+    {
+     "id": "14:24.15",
+     "gloss": "let them take",
+     "sense": "Qal 1",
+     "note": "jussive, 'let them take'"
+    },
+    {
+     "id": "14:24.16",
+     "gloss": "their share",
+     "sense": "1",
+     "note": "construct with suffix"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:24.1"
+     ],
+     "english": "Not for me",
+     "literal": "'apart-from-me'"
+    },
+    {
+     "tokens": [
+      "14:24.2",
+      "14:24.3",
+      "14:24.4",
+      "14:24.5"
+     ],
+     "english": "only what my servants have eaten",
+     "literal": "'only what ate the-lads'; Rashi and Ibn Ezra: Abram's own servants"
+    },
+    {
+     "tokens": [
+      "14:24.6",
+      "14:24.7"
+     ],
+     "english": "and the share of the men",
+     "literal": "'and-share-of the-men'"
+    },
+    {
+     "tokens": [
+      "14:24.8",
+      "14:24.9",
+      "14:24.10"
+     ],
+     "english": "who went with me",
+     "literal": "'who went with-me'"
+    },
+    {
+     "tokens": [
+      "14:24.11",
+      "14:24.12",
+      "14:24.13"
+     ],
+     "english": "Aner, Eshcol and Mamre",
+     "literal": "three men without conjunction until the last"
+    },
+    {
+     "tokens": [
+      "14:24.14",
+      "14:24.15"
+     ],
+     "english": "They may take",
+     "literal": "'they let-them-take'; the jussive"
+    },
+    {
+     "tokens": [
+      "14:24.16"
+     ],
+     "english": "their share",
+     "literal": "'share-their'"
+    }
+   ],
+   "grammar": [
+    "בִּלְעָדַי is a preposition with suffix meaning 'apart from me'; it opens the verse without a verb, as a stand-alone refusal.",
+    "רַק limits what follows: only the food eaten and the allies' portion are excepted from the oath.",
+    "The names עָנֵר אֶשְׁכֹּל וּמַמְרֵא stand in apposition to הָאֲנָשִׁים and are the men's names; the pashta on עָנֵר divides them from the verb.",
+    "יִקְחוּ is jussive in sense: 'let them take'; הֵם adds emphasis, 'let them, for their part'."
+   ],
+   "note": "Rashi and Ibn Ezra agree that הַנְּעָרִים are Abram's servants, so the English says 'my servants' (literally 'the lads'). Rashi adds that though the servants fought, Aner and his companions stayed with the baggage, yet they take a share (David learned from this).",
+   "commentary": [
+    {
+     "anchor": "rashi:14:24:1",
+     "relation": "follows",
+     "summary": "Rashi: הַנְּעָרִים are my servants who went with me; though they fought and Aner, Eshcol and Mamre stayed with the baggage, they take their share, and David learned from it. The English says 'my servants'."
+    },
+    {
+     "anchor": "ibn-ezra:14:24:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'what the young men have eaten' means what his servants ate."
+    }
+   ]
+  }
+ ]
+}

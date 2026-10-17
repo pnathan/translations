@@ -1,0 +1,26 @@
+{
+  "slug": "genesis",
+  "title": "Bereshit, Noach, Lekh Lekha",
+  "he": "בְּרֵאשִׁית · נֹחַ · לֶךְ־לְךָ",
+  "kind": "tanakh",
+  "refName": "Genesis",
+  "osis": "Gen",
+  "oshb": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Gen.xml",
+  "chapters": 17,
+  "segment": "verse",
+  "unitMax": 8,
+  "text": {"sefaria": "Genesis", "version": "Miqra according to the Masorah", "name": "MAM"},
+  "commentators": [
+    {"key": "rashi", "name": "Rashi", "he": "רש״י", "sefaria": "Rashi_on_Genesis", "version": "Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934", "normative": true},
+    {"key": "ibn-ezra", "name": "Ibn Ezra", "he": "אבן עזרא", "sefaria": "Ibn_Ezra_on_Genesis", "version": "Piotrkow, 1907-1911", "normative": true},
+    {"key": "ramban", "name": "Ramban", "he": "רמב״ן", "sefaria": "Ramban_on_Genesis", "version": "Vocalized Edition"},
+    {"key": "radak", "name": "Radak", "he": "רד״ק", "sefaria": "Radak_on_Genesis", "version": "Vocalized Edition"},
+    {"key": "onkelos", "name": "Targum Onkelos", "he": "תרגום אונקלוס", "sefaria": "Onkelos_Genesis", "version": "Sifsei Chachomim Chumash, Metsudah Publications, 2009", "version_text": true},
+    {"key": "sforno", "name": "Sforno", "he": "ספורנו", "sefaria": "Sforno_on_Genesis", "version": "Vocalized Edition"}
+  ],
+  "sections": [
+    {"slug": "bereshit", "name": "Bereshit", "he": "בְּרֵאשִׁית", "from": "1:1", "to": "6:8"},
+    {"slug": "noach", "name": "Noach", "he": "נֹחַ", "from": "6:9", "to": "11:32"},
+    {"slug": "lekh-lekha", "name": "Lekh Lekha", "he": "לֶךְ־לְךָ", "from": "12:1", "to": "17:27"}
+  ]
+}

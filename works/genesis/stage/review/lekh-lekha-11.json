@@ -1,0 +1,278 @@
+{
+ "unit": "lekh-lekha-11",
+ "model": "opus",
+ "summary": "The English of all five verses is sound and follows Rashi on בָּאָה and נָתַתִּי. The main faults are in the commentary rulings: Ibn Ezra on 15:17 was read as opposing Rashi when he agrees with him, the two Radak fragments on 15:20 (Hivite = Rephaim) and on 15:19 were misread, and Ibn Ezra's eleven sons of Canaan became ten. Several senses look filled mechanically: אֶרֶץ 1.a, עַד II.1 (temporal), גָּדוֹל 4 'loud', עָבַר 'pass by', בּוֹא 'come'. Two learner notes are false: 'milra'/mil'el', and גְּזָרִים 'only here'.",
+ "patches": [
+  {
+   "ref": "15:17",
+   "path": "token:15:17.3.sense",
+   "value": "Qal 1",
+   "severity": "error",
+   "reason": "Of the sun, בּוֹא is 'go in', that is 'set' (Rashi: שָׁקְעָה). BDB lists the setting sun under sense 1 'come in', not under 2 'come'."
+  },
+  {
+   "ref": "15:17",
+   "path": "token:15:17.3.note",
+   "value": "perfect (qatal), 3rd feminine singular, accented on the first syllable (mil'el); of the sun 'go in' = 'set' (Rashi: שָׁקְעָה)",
+   "severity": "error",
+   "reason": "The note said 'milra'/mil'el'. Milra' means accent on the last syllable, the participle form Rashi rules out. The accent here is mil'el only."
+  },
+  {
+   "ref": "15:17",
+   "path": "token:15:17.5.note",
+   "value": "perfect (qatal), 3rd masculine singular, after its feminine subject עֲלָטָה: the clause is impersonal, 'it was thick darkness' (Rashi: חָשַׁךְ הַיּוֹם)",
+   "severity": "style",
+   "reason": "A learner will notice that the masculine הָיָה does not agree with the feminine עֲלָטָה. The note was missing."
+  },
+  {
+   "ref": "15:17",
+   "path": "token:15:17.12.sense",
+   "value": "Qal 3",
+   "severity": "error",
+   "reason": "'Pass by' (4.b) is going past something. The fire goes through the space between the pieces, which is 'pass through' (3)."
+  },
+  {
+   "ref": "15:17",
+   "path": "token:15:17.14.note",
+   "value": "גֶּזֶר, a part cut off; the plural is the halves of the animals cut in v. 10 (בְּתָרִים). Elsewhere only Ps 136:13 (לִגְזָרִים, the sea cut into parts)",
+   "severity": "error",
+   "reason": "'Only here' is false. The plural גְּזָרִים occurs again in Ps 136:13. The animals are halved in v. 10, not in vv. 9-10."
+  },
+  {
+   "ref": "15:17",
+   "path": "grammar",
+   "value": [
+    "וַיְהִי opens a time clause; both clauses that follow put the subject before the verb: הַשֶּׁמֶשׁ בָּאָה, וַעֲלָטָה הָיָה (Rashi: וַיְהִי דָּבָר זֶה, 'and this thing happened').",
+    "בָּאָה is accented on the first syllable (zaqef qaton on a mil'el form), so it is a perfect, 'had come', not a participle 'is coming' (Rashi, Radak).",
+    "הָיָה is masculine although עֲלָטָה is feminine; the clause is impersonal: 'it was thick darkness'.",
+    "תַּנּוּר and לַפִּיד are in the construct before עָשָׁן and אֵשׁ; Radak reads עָשָׁן as an adjective ('a smoky furnace').",
+    "אֲשֶׁר עָבַר is singular after two nouns. That fits one apparition, a smoking furnace with the torch inside it (Ibn Ezra, Ramban); Radak has the torch pass between the pieces.",
+    "The etnaḥta on הָיָה divides the scene (sunset, darkness) from the vision."
+   ],
+   "severity": "error",
+   "reason": "Note 1 called וַעֲלָטָה הָיָה a noun clause, but it has a finite verb. Note 4 said that the torch alone passed, which leaves out Ibn Ezra's single figure (furnace with the torch inside). That is a normative reading the translator says he follows. The etnaḥta is on הָיָה, not after it. Added the agreement point."
+  },
+  {
+   "ref": "15:17",
+   "path": "note",
+   "value": "Followed Rashi (and Radak) on בָּאָה: a perfect, the sun had set. Ibn Ezra agrees: in v. 12 (לָבוֹא) the sun had not yet set, and here it has. עֲלָטָה is a thick darkness. The verb עָבַר is singular: for Ibn Ezra and Ramban one figure passes, a furnace with a torch of fire inside it; Radak has the torch pass, to confirm the covenant of the next verse.",
+   "severity": "error",
+   "reason": "The note set Ibn Ezra against Rashi. Ibn Ezra's בתחלה עודנה לא באה refers to v. 12, 'at first it had not yet set'. Here the sun has set, so he agrees with Rashi."
+  },
+  {
+   "ref": "15:17",
+   "path": "commentary:ibn-ezra:15:17:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: 'at first' (v. 12) the sun had not yet set, as לָבוֹא is written there; here בָּאָה means that it has set. He agrees with Rashi."
+   },
+   "severity": "error",
+   "reason": "בתחלה עודנה לא באה, וכן כתוב לבוא contrasts v. 12 with this verse. It does not say the sun had not set in v. 17. The English already follows this reading."
+  },
+  {
+   "ref": "15:17",
+   "path": "apparatus",
+   "value": [
+    "גֶּזֶר: the plural גְּזָרִים occurs elsewhere only in Ps 136:13; Ibn Ezra and Radak equate it with the בְּתָרִים of v. 10."
+   ],
+   "severity": "error",
+   "reason": "The first line set Ibn Ezra against Rashi and Radak on בָּאָה, but they agree (see ibn-ezra:15:17:1). The second line called the word hapax-like and cited vv. 10-11. בְּתָרִים is in v. 10."
+  },
+  {
+   "ref": "15:18",
+   "path": "token:15:18.12.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "הָאָרֶץ הַזֹּאת is a territory with borders, BDB 2 'land'. 1.a is the whole earth."
+  },
+  {
+   "ref": "15:18",
+   "path": "token:15:18.16.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "II.1 is temporal 'until'. Here עַד is spatial 'as far as', the entry's sense I, which the pack does not print. Sense removed."
+  },
+  {
+   "ref": "15:18",
+   "path": "token:15:18.16.note",
+   "value": "spatial 'as far as' (BDB sense I, not printed in the pack; II.1 is temporal 'until')",
+   "severity": "error",
+   "reason": "The note gives the reason the sense was removed."
+  },
+  {
+   "ref": "15:18",
+   "path": "token:15:18.18.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 4 is 'loud'. A great river is great in size, BDB sense 1, which the pack does not print. Sense removed."
+  },
+  {
+   "ref": "15:18",
+   "path": "token:15:18.18.note",
+   "value": "attributive adjective with the article, 'great' in size (BDB sense 1, not printed in the pack; 4 is 'loud'); Rashi: called great because it adjoins the Land of Israel",
+   "severity": "error",
+   "reason": "The note gives the reason the sense was removed."
+  },
+  {
+   "ref": "15:18",
+   "path": "grammar",
+   "value": [
+    "כָּרַת בְּרִית is the idiom 'cut a covenant'; the verb's basic sense is 'cut' (cf. the pieces of v. 17).",
+    "לֵאמֹר (ל + infinitive construct of אמר) introduces the speech; לְזַרְעֲךָ stands before its verb, which puts the weight on 'to your offspring'.",
+    "נָתַתִּי is a perfect of certainty: the promise is spoken as already given (Rashi: the saying of the Holy One is as if done).",
+    "מִנְּהַר מִצְרַיִם עַד־הַנָּהָר הַגָּדֹל: the boundaries are given as two rivers; נְהַר־פְּרָת stands in apposition to 'the great river'.",
+    "יְהֹוָה is read 'the LORD' (decisions)."
+   ],
+   "severity": "error",
+   "reason": "Note 2 said that the revia puts the stress on לְזַרְעֲךָ. A disjunctive accent only divides the verse. The emphasis comes from the word order, with the object before the verb."
+  },
+  {
+   "ref": "15:18",
+   "path": "commentary:ramban:15:18:1.summary",
+   "value": "Ramban: God promised Abraham the land several times, each time adding to it; here the borders and the ten nations are named and a covenant is made so that sin will not annul the gift. The earlier promises say אֶתֵּן (future), but at the covenant he says נָתַתִּי, for the covenant is made on a gift already given; Rashi's 'as if done' is not needed here.",
+   "severity": "style",
+   "reason": "The summary left out the point that bears on the English: Ramban's account of the perfect נָתַתִּי and his rejection of Rashi's explanation."
+  },
+  {
+   "ref": "15:18",
+   "path": "english",
+   "value": "On that day the LORD made a covenant with Abram, saying: To your offspring I have given this land, from the river of Egypt to the great river, the river Euphrates:",
+   "severity": "style",
+   "reason": "Verses 19-21 continue the object of נָתַתִּי. A full stop here and at the end of vv. 19-20 breaks the sentence into fragments."
+  },
+  {
+   "ref": "15:19",
+   "path": "english",
+   "value": "the Kenites, the Kenizzites, and the Kadmonites;",
+   "severity": "style",
+   "reason": "The list continues into v. 20. See 15:18."
+  },
+  {
+   "ref": "15:19",
+   "path": "commentary:radak:15:19:2.summary",
+   "value": "Radak, continuing 15:19:1: perhaps the Kenite named here is a different people from the Kenite clan he has just described; but Onkelos renders it שַׁלְמָאֵי, as he renders the Kenite of Num 24:21.",
+   "severity": "error",
+   "reason": "The comment continues radak:15:19:1 (ואפשר כי זה הקיני הנזכר הנה היה אחר). Radak suggests that this Kenite is not the clan of Judg 4:11 and 1 Chr 2:55. The summary turned this into a claim that Onkelos's people differ from 'the Kenite named here'."
+  },
+  {
+   "ref": "15:19",
+   "path": "commentary:radak:15:19:1.summary",
+   "value": "Radak: the Kenites are named after the city they first lived in, Kayin (Judg 4:11), perhaps named after its builder; the family intermarried with the tribe of Judah, with the families of Rechab (1 Chr 2:55).",
+   "severity": "style",
+   "reason": "נִתְחַתְּנוּ means 'intermarried', not 'allied'. Also gives the citations."
+  },
+  {
+   "ref": "15:20",
+   "path": "english",
+   "value": "the Hittites, the Perizzites, and the Rephaim;",
+   "severity": "style",
+   "reason": "The list continues into v. 21. See 15:18."
+  },
+  {
+   "ref": "15:20",
+   "path": "commentary:ibn-ezra:15:20:1.summary",
+   "value": "Ibn Ezra: this is the 'land of Rephaim' of Deut 3:13. Do not wonder that the Canaanite and the Jebusite follow: the seven nations are all Canaanites, Canaan had eleven sons, and after six are named 'the Canaanite' covers the rest; here the nations are listed one by one, elsewhere as a whole, as 'Judah and Israel' (1 Kgs 4:20) although Judah is part of Israel.",
+   "severity": "error",
+   "reason": "עשתי עשר is eleven, not ten. The summary also left out the comparison with 1 Kgs 4:20."
+  },
+  {
+   "ref": "15:20",
+   "path": "commentary:radak:15:20:1.summary",
+   "value": "Radak: the Hivite is not named in this list; perhaps it is the Rephaim that is named (the comment continues at radak:15:20:2).",
+   "severity": "error",
+   "reason": "The two Radak anchors are one sentence: ולא זכר החוי, אולי הוא הרפאים שזכר. Radak identifies the Hivite with the Rephaim. He does not say 'included in another name'."
+  },
+  {
+   "ref": "15:20",
+   "path": "commentary:radak:15:20:2",
+   "value": {
+    "relation": "records",
+    "summary": "Radak, ending 15:20:1: the Hivite, missing from the list, is perhaps 'the Rephaim that he named' (הָרְפָאִים שֶׁזָּכַר)."
+   },
+   "severity": "error",
+   "reason": "It is not a stray remark on the Rephaim but the end of Radak's identification of the Hivite with them. It bears on what 'the Rephaim' names here."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:15:17:1",
+   "verdict": "consistent",
+   "comment": "'When the sun had set' renders Rashi's וַיְהִי דָּבָר זֶה."
+  },
+  {
+   "anchor": "rashi:15:17:2",
+   "verdict": "consistent",
+   "comment": "'had set' = שָׁקְעָה."
+  },
+  {
+   "anchor": "rashi:15:17:3",
+   "verdict": "consistent",
+   "comment": "'it was thick darkness'."
+  },
+  {
+   "anchor": "rashi:15:17:4",
+   "verdict": "not-applicable",
+   "comment": "homily on the kingdoms and Gehenna."
+  },
+  {
+   "anchor": "rashi:15:17:5",
+   "verdict": "consistent",
+   "comment": "perfect, 'had set', not a participle."
+  },
+  {
+   "anchor": "ibn-ezra:15:17:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra agrees with Rashi: in v. 12 the sun had not yet set, here it had. The ruling 'records' was wrong and is patched to 'follows'."
+  },
+  {
+   "anchor": "ibn-ezra:15:17:2",
+   "verdict": "consistent",
+   "comment": "'thick darkness'."
+  },
+  {
+   "anchor": "ibn-ezra:15:17:3",
+   "verdict": "consistent",
+   "comment": "'a smoking furnace and a flaming torch' leaves room for his single figure; the grammar note is patched to give it."
+  },
+  {
+   "anchor": "ibn-ezra:15:17:4",
+   "verdict": "consistent",
+   "comment": "'between these pieces'."
+  },
+  {
+   "anchor": "rashi:15:18:1",
+   "verdict": "consistent",
+   "comment": "'I have given' keeps the perfect."
+  },
+  {
+   "anchor": "rashi:15:18:2",
+   "verdict": "consistent",
+   "comment": "'the great river'."
+  },
+  {
+   "anchor": "ibn-ezra:15:18:1",
+   "verdict": "consistent",
+   "comment": "'the river of Egypt' does not name the Nile."
+  },
+  {
+   "anchor": "rashi:15:19:1",
+   "verdict": "consistent",
+   "comment": "the names stand; Rashi's point on the future inheritance does not touch the English."
+  },
+  {
+   "anchor": "ibn-ezra:15:19:1",
+   "verdict": "consistent",
+   "comment": "the names are kept as peoples."
+  },
+  {
+   "anchor": "rashi:15:20:1",
+   "verdict": "consistent",
+   "comment": "'the Rephaim'."
+  },
+  {
+   "anchor": "ibn-ezra:15:20:1",
+   "verdict": "consistent",
+   "comment": "'the Rephaim'; 'the Canaanites' as one people of the list."
+  }
+ ]
+}

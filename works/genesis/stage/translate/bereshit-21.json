@@ -1,0 +1,1048 @@
+{
+ "unit": "bereshit-21",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "5:32",
+   "english": "When Noah was five hundred years old, Noah fathered Shem, Ham, and Japheth.",
+   "literal": "and-was Noah son-of five hundreds year and-fathered Noah [object-marker] Shem [object-marker] Ham and-[object-marker] Japheth",
+   "tokens": [
+    {
+     "id": "5:32.1",
+     "gloss": "and was",
+     "sense": "Qal III",
+     "note": "wayyiqtol of היה introducing the age formula"
+    },
+    {
+     "id": "5:32.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "5:32.3",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "construct state; 'son of N years' is the idiom for 'N years old'"
+    },
+    {
+     "id": "5:32.4",
+     "gloss": "five",
+     "note": "feminine form with the feminine noun שנה"
+    },
+    {
+     "id": "5:32.5",
+     "gloss": "hundreds"
+    },
+    {
+     "id": "5:32.6",
+     "gloss": "year",
+     "note": "singular noun after a number, as is usual for שנה"
+    },
+    {
+     "id": "5:32.7",
+     "gloss": "and fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil of ילד: 'beget', said of the father"
+    },
+    {
+     "id": "5:32.8",
+     "gloss": "Noah"
+    },
+    {
+     "id": "5:32.9",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "5:32.10",
+     "gloss": "Shem"
+    },
+    {
+     "id": "5:32.11",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "5:32.12",
+     "gloss": "Ham",
+     "sense": "1"
+    },
+    {
+     "id": "5:32.13",
+     "gloss": "and [object marker]"
+    },
+    {
+     "id": "5:32.14",
+     "gloss": "Japheth"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:32.1",
+      "5:32.2"
+     ],
+     "english": "When Noah was",
+     "literal": "'and-was Noah'; the wayyiqtol opens the clause and is rendered as a time clause"
+    },
+    {
+     "tokens": [
+      "5:32.3",
+      "5:32.4",
+      "5:32.5",
+      "5:32.6"
+     ],
+     "english": "five hundred years old",
+     "literal": "'son-of five hundreds year'; idiom for age"
+    },
+    {
+     "tokens": [
+      "5:32.7",
+      "5:32.8"
+     ],
+     "english": "Noah fathered",
+     "literal": "'and-fathered Noah'"
+    },
+    {
+     "tokens": [
+      "5:32.9",
+      "5:32.10"
+     ],
+     "english": "Shem",
+     "literal": "the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "5:32.11",
+      "5:32.12"
+     ],
+     "english": "Ham",
+     "literal": "the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "5:32.13",
+      "5:32.14"
+     ],
+     "english": "and Japheth",
+     "literal": "'and-[obj] Japheth'; the list is asyndetic until the last name"
+    }
+   ],
+   "grammar": [
+    "בֶּן־חֲמֵשׁ מֵאוֹת שָׁנָה is the age formula: 'son of five hundred years'.",
+    "The etnaḥta on שָׁנָה divides the verse: Noah's age, then the births.",
+    "וַיּוֹלֶד is Hifil wayyiqtol of ילד, 'he fathered'.",
+    "The three sons are each marked by אֶת; the list is joined by ו only before the last."
+   ],
+   "note": "The order Shem, Ham, Japheth is the order of the text; Rashi and Radak (following Bereshit Rabbah) discuss which son was eldest, which does not change the English.",
+   "commentary": [
+    {
+     "anchor": "rashi:5:32:1",
+     "relation": "not-applicable",
+     "summary": "Rashi (from Bereshit Rabbah): Noah withheld begetting until five hundred, so that Japheth, the eldest, should not be liable to punishment before the Flood. This is a homily on the age, not on the words' sense."
+    },
+    {
+     "anchor": "rashi:5:32:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: was not Japheth the eldest? The order of names is a derash on the righteous one being born circumcised and Abraham descending from him; it does not bear on the English."
+    },
+    {
+     "anchor": "radak:5:32:1",
+     "relation": "not-applicable",
+     "summary": "Radak offers reasons why Noah waited until five hundred to beget; this is explanation, not wording."
+    },
+    {
+     "anchor": "radak:5:32:2",
+     "relation": "not-applicable",
+     "summary": "Radak discusses whether Japheth or Shem was eldest from the chronology of 11:10; this does not affect the translation."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: וַהֲוָה נֹחַ בַּר חֲמֵשׁ מְאָה שְׁנִין וְאוֹלִיד נֹחַ, the same sense."
+   ]
+  },
+  {
+   "ref": "6:1",
+   "english": "When humankind began to multiply over the surface of the ground and daughters were born to them,",
+   "literal": "and-it-was when began the-human to-multiply upon face-of the-ground and-daughters were-born to-them",
+   "tokens": [
+    {
+     "id": "6:1.1",
+     "gloss": "and it was",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol of היה, the 'and it came to pass' that introduces a time clause"
+    },
+    {
+     "id": "6:1.2",
+     "gloss": "when",
+     "sense": "2.a"
+    },
+    {
+     "id": "6:1.3",
+     "gloss": "began",
+     "sense": "Hiph 2",
+     "note": "Hifil of חלל 'begin' (not 'profane'); Ibn Ezra: from בנין הפעיל, meaning מתחילה"
+    },
+    {
+     "id": "6:1.4",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "with the article; collective 'humankind'"
+    },
+    {
+     "id": "6:1.5",
+     "gloss": "to multiply",
+     "note": "infinitive construct of רבב; Ibn Ezra: לרב is שם הפועל, the verbal noun"
+    },
+    {
+     "id": "6:1.6",
+     "gloss": "over",
+     "sense": "II.1"
+    },
+    {
+     "id": "6:1.7",
+     "gloss": "face of",
+     "sense": "I.5",
+     "note": "construct; 'surface'"
+    },
+    {
+     "id": "6:1.8",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.9",
+     "gloss": "and daughters",
+     "sense": "1"
+    },
+    {
+     "id": "6:1.10",
+     "gloss": "were born",
+     "sense": "Pu",
+     "note": "Pual perfect, passive of ילד"
+    },
+    {
+     "id": "6:1.11",
+     "gloss": "to them"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:1.1",
+      "6:1.2"
+     ],
+     "english": "When",
+     "literal": "'and-it-was when'; a time clause"
+    },
+    {
+     "tokens": [
+      "6:1.3",
+      "6:1.4"
+     ],
+     "english": "humankind began",
+     "literal": "'began the-human'; the verb comes first in Hebrew"
+    },
+    {
+     "tokens": [
+      "6:1.5"
+     ],
+     "english": "to multiply",
+     "literal": "'to-multiply'"
+    },
+    {
+     "tokens": [
+      "6:1.6",
+      "6:1.7",
+      "6:1.8"
+     ],
+     "english": "over the surface of the ground",
+     "literal": "'upon face-of the-ground'"
+    },
+    {
+     "tokens": [
+      "6:1.9",
+      "6:1.10",
+      "6:1.11"
+     ],
+     "english": "and daughters were born to them",
+     "literal": "'and-daughters were-born to-them'; passive"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי כִּי introduces a temporal clause: 'and it was when'.",
+    "הֵחֵל is Hifil perfect of חלל, 'begin' (a different verb from חלל 'profane').",
+    "לָרֹב is an infinitive construct, 'to multiply'.",
+    "יֻלְּדוּ is Pual: 'were born', with an indefinite plural subject."
+   ],
+   "note": "הָאָדָם with the article is normally 'the human' (decisions); here the sense is collective (Radak: מִין הָאָדָם, the species), so 'humankind' is used. The 'daughters' are those of the human race generally.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:6:1:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הֵחֵל is from the Hifil, meaning 'began'. The English follows."
+    },
+    {
+     "anchor": "ibn-ezra:6:1:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: לָרֹב is the infinitive (שם הפועל), 'to multiply'."
+    },
+    {
+     "anchor": "ramban:6:1:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: as soon as people began to multiply they began to sin; a reading of the context, not of the words."
+    },
+    {
+     "anchor": "radak:6:1:1",
+     "relation": "follows",
+     "summary": "Radak: הָאָדָם means the human species."
+    },
+    {
+     "anchor": "radak:6:1:2",
+     "relation": "records",
+     "summary": "Radak: the mention of daughters is needed because they were the cause of the corruption that follows."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: כַּד שְׁרִיאוּ בְנֵי אֱנָשָׁא לְמִסְגֵּי, 'when the children of men began to increase'."
+   ]
+  },
+  {
+   "ref": "6:2",
+   "english": "The sons of the rulers saw that the daughters of humankind were beautiful, and they took wives for themselves from all whom they chose.",
+   "literal": "and-saw sons-of the-gods [object-marker] daughters-of the-human that good they and-took for-them women from-all that they-chose",
+   "tokens": [
+    {
+     "id": "6:2.1",
+     "gloss": "and saw",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol of ראה"
+    },
+    {
+     "id": "6:2.2",
+     "gloss": "sons of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "6:2.3",
+     "gloss": "the rulers",
+     "sense": "1.a",
+     "note": "אֱלֹהִים is plural in form; 'rulers, judges' is the sense of Rashi, Ibn Ezra, Radak and Onkelos (בני רברביא); other readings are in the apparatus"
+    },
+    {
+     "id": "6:2.4",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "6:2.5",
+     "gloss": "daughters of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "6:2.6",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "collective"
+    },
+    {
+     "id": "6:2.7",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.8",
+     "gloss": "good, beautiful",
+     "sense": "1",
+     "note": "feminine plural adjective; 'good' here is 'pleasing, beautiful'"
+    },
+    {
+     "id": "6:2.9",
+     "gloss": "they",
+     "note": "feminine plural pronoun הֵנָּה, subject of a verbless clause"
+    },
+    {
+     "id": "6:2.10",
+     "gloss": "and took",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "6:2.11",
+     "gloss": "for themselves"
+    },
+    {
+     "id": "6:2.12",
+     "gloss": "women",
+     "sense": "2",
+     "note": "'wives' with לקח"
+    },
+    {
+     "id": "6:2.13",
+     "gloss": "from all",
+     "sense": "1"
+    },
+    {
+     "id": "6:2.14",
+     "gloss": "whom"
+    },
+    {
+     "id": "6:2.15",
+     "gloss": "they chose",
+     "sense": "Qal 1.b",
+     "note": "man's choice"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:2.1"
+     ],
+     "english": "saw",
+     "literal": "'and-saw'"
+    },
+    {
+     "tokens": [
+      "6:2.2",
+      "6:2.3"
+     ],
+     "english": "The sons of the rulers",
+     "literal": "'sons-of the-gods'; אֱלֹהִים read as rulers or judges, following Rashi, Ibn Ezra and Onkelos"
+    },
+    {
+     "tokens": [
+      "6:2.4",
+      "6:2.5",
+      "6:2.6"
+     ],
+     "english": "the daughters of humankind",
+     "literal": "'[obj] daughters-of the-human'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "6:2.7"
+     ],
+     "english": "that",
+     "literal": "'that'"
+    },
+    {
+     "tokens": [
+      "6:2.8",
+      "6:2.9"
+     ],
+     "english": "were beautiful",
+     "literal": "'good they'; a verbless clause"
+    },
+    {
+     "tokens": [
+      "6:2.10",
+      "6:2.11",
+      "6:2.12"
+     ],
+     "english": "they took wives for themselves",
+     "literal": "'and-took for-them women'"
+    },
+    {
+     "tokens": [
+      "6:2.13",
+      "6:2.14",
+      "6:2.15"
+     ],
+     "english": "from all whom they chose",
+     "literal": "'from-all that they-chose'"
+    }
+   ],
+   "grammar": [
+    "בְנֵי־הָאֱלֹהִים is a construct chain with a plural noun in the absolute and the article; the sense of אֱלֹהִים is the main difficulty.",
+    "כִּי טֹבֹת הֵנָּה is a verbless clause: 'that they were good'. The feminine pronoun הֵנָּה refers to the daughters.",
+    "וַיִּקְחוּ לָהֶם נָשִׁים: 'took for themselves women', the idiom for marrying.",
+    "מִכֹּל אֲשֶׁר בָּחָרוּ is 'from all whom they chose' (all that they chose); Rashi and Radak read it as including women already married."
+   ],
+   "note": "Per decisions, אֱלֹהִים of beings other than the God of Israel takes the sense of the normative commentators. Rashi and Ibn Ezra's first and main gloss, with Onkelos, is 'sons of the rulers and judges' (Rashi: אֱלֹהִים in Scripture means authority); Rashi's 'other' reading and Ibn Ezra's two others (the holy ones; the sons of Seth) are recorded below. The Hebrew טֹבֹת is spelled defectively; Rashi's homily from the spelling is not an issue for the plain sense.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:2:1",
+     "relation": "follows",
+     "summary": "Rashi: בְּנֵי הָאֱלֹהִים are the sons of the princes and judges; every אֱלֹהִים in Scripture is an expression of authority (cf. Ex 4:16, 7:1). His second reading, the officers who go on God's mission mingling with them, is recorded."
+    },
+    {
+     "anchor": "rashi:6:2:2",
+     "relation": "records",
+     "summary": "Rashi (Bereshit Rabbah): טבת is written, 'they made her good': they adorned the bride for the wedding canopy and the great one went in first. A homily on the spelling; the English keeps the plain 'beautiful'."
+    },
+    {
+     "anchor": "rashi:6:2:3",
+     "relation": "records",
+     "summary": "Rashi: 'from all whom they chose' includes even a married woman, even male and beast. The English leaves the extent as in the Hebrew."
+    },
+    {
+     "anchor": "ibn-ezra:6:2:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בני האלהים are the sons of the judges who administered God's justice on earth. He records two others: that אֱלֹהִים here means 'holy' and the sons are the holy ones (cf. Dt 14:1 בנים אתם), and that they are the sons of Seth, the daughters being of Cain's family. His own preference is the sons of Seth, who knew the Most High and chose by the stars; he adds that they may have taken wives by force."
+    },
+    {
+     "anchor": "ramban:6:2:1",
+     "relation": "follows",
+     "summary": "Ramban: the sons of princes and judges; they did violence openly with no one to restrain them."
+    },
+    {
+     "anchor": "ramban:6:2:2",
+     "relation": "records",
+     "summary": "Ramban: 'כי טובות הנה' means that wherever they were good they took them by force."
+    },
+    {
+     "anchor": "radak:6:2:1",
+     "relation": "follows",
+     "summary": "Radak: the sons of the judges and the great, who are called אֱלֹהִים (Ex 22:27); so Onkelos, בני רברביא. The Midrash on Azza and Azael is far off."
+    },
+    {
+     "anchor": "radak:6:2:2",
+     "relation": "not-applicable",
+     "summary": "Radak (Bereshit Rabbah): comments on the long lives of these generations."
+    },
+    {
+     "anchor": "radak:6:2:3",
+     "relation": "records",
+     "summary": "Radak: בנות האדם are the daughters of the common, weak people, who could not resist; he cites Ibn Ezra's different reading."
+    },
+    {
+     "anchor": "radak:6:2:4",
+     "relation": "records",
+     "summary": "Radak (quoting Ibn Ezra): the sons of God were those who knew the Most High and chose by the order of the heavens."
+    },
+    {
+     "anchor": "radak:6:2:5",
+     "relation": "records",
+     "summary": "Radak: the Bereshit Rabbah homily on טבת, 'these are the virgins'."
+    },
+    {
+     "anchor": "radak:6:2:6",
+     "relation": "records",
+     "summary": "Radak: 'took wives' means married women."
+    },
+    {
+     "anchor": "radak:6:2:7",
+     "relation": "records",
+     "summary": "Radak: 'all that they chose' includes male and beast."
+    }
+   ],
+   "apparatus": [
+    "אֱלֹהִים here: rulers or judges (Rashi, Ibn Ezra, Ramban, Radak, Onkelos בני רברביא); heavenly beings, i.e. angels (Rashi's other reading, and Radak's Azza and Azael, which he rejects); 'the holy ones' (Ibn Ezra's second); the sons of Seth (Ibn Ezra's third and preferred).",
+    "Onkelos renders טֹבֹת with שַׁפִּירָן, 'beautiful'.",
+    "בָּחָרוּ: Onkelos has דִּי אִתְרְעִיאוּ, 'whom they desired'."
+   ]
+  },
+  {
+   "ref": "6:3",
+   "english": "Then the LORD said, \"My spirit will not contend over humankind for long, since they too are flesh; their days will be one hundred and twenty years.\"",
+   "literal": "and-said the-LORD not will-contend my-spirit in-the-human for-ever in-since-also he flesh and-will-be his-days hundred and-twenty year",
+   "tokens": [
+    {
+     "id": "6:3.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of אמר"
+    },
+    {
+     "id": "6:3.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "6:3.3",
+     "gloss": "not"
+    },
+    {
+     "id": "6:3.4",
+     "gloss": "will contend",
+     "sense": "Qal 6",
+     "note": "יָדוֹן: a difficult form; Rashi reads it as 'contend, quarrel' (יתרעם ויריב); Ibn Ezra lists 'sheath' (נדן) and 'judge' (דין); the pack's lexicon lists it under דין"
+    },
+    {
+     "id": "6:3.5",
+     "gloss": "my spirit",
+     "sense": "9",
+     "note": "construct with first person suffix; 'the spirit of God'"
+    },
+    {
+     "id": "6:3.6",
+     "gloss": "in the human",
+     "sense": "2",
+     "note": "preposition ב with the article"
+    },
+    {
+     "id": "6:3.7",
+     "gloss": "for long",
+     "note": "לְעֹלָם is usually 'for ever'; Rashi glosses it לְאֹרֶךְ יָמִים, 'for a long time'"
+    },
+    {
+     "id": "6:3.8",
+     "gloss": "since also",
+     "note": "בְּשַׁגַּם: compound of בְּ + שֶׁ + גַּם; Rashi: like בְּשֶׁגַּם; Ibn Ezra: the שׁ is like שֶׁכָּכָה"
+    },
+    {
+     "id": "6:3.9",
+     "gloss": "he"
+    },
+    {
+     "id": "6:3.10",
+     "gloss": "flesh",
+     "sense": "5",
+     "note": "'flesh' as frail humanity"
+    },
+    {
+     "id": "6:3.11",
+     "gloss": "and will be",
+     "sense": "Qal III",
+     "note": "weqatal"
+    },
+    {
+     "id": "6:3.12",
+     "gloss": "his days",
+     "sense": "4",
+     "note": "construct with suffix; 'his' is collective humankind, hence English 'their'"
+    },
+    {
+     "id": "6:3.13",
+     "gloss": "hundred"
+    },
+    {
+     "id": "6:3.14",
+     "gloss": "and twenty"
+    },
+    {
+     "id": "6:3.15",
+     "gloss": "year"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:3.1",
+      "6:3.2"
+     ],
+     "english": "Then the LORD said",
+     "literal": "'and-said the-LORD'"
+    },
+    {
+     "tokens": [
+      "6:3.3",
+      "6:3.4",
+      "6:3.5"
+     ],
+     "english": "My spirit will not contend",
+     "literal": "'not will-contend my-spirit'; Rashi's sense of ידון as 'quarrel'"
+    },
+    {
+     "tokens": [
+      "6:3.6"
+     ],
+     "english": "over humankind",
+     "literal": "'in-the-human'; Rashi: 'on account of the human'"
+    },
+    {
+     "tokens": [
+      "6:3.7"
+     ],
+     "english": "for long",
+     "literal": "'for-ever'; Rashi: לְאֹרֶךְ יָמִים"
+    },
+    {
+     "tokens": [
+      "6:3.8",
+      "6:3.9",
+      "6:3.10"
+     ],
+     "english": "since they too are flesh",
+     "literal": "'in-since-also he flesh'; 'he' is the collective human, so English 'they'"
+    },
+    {
+     "tokens": [
+      "6:3.11",
+      "6:3.12"
+     ],
+     "english": "their days will be",
+     "literal": "'and-will-be his-days'"
+    },
+    {
+     "tokens": [
+      "6:3.13",
+      "6:3.14",
+      "6:3.15"
+     ],
+     "english": "one hundred and twenty years",
+     "literal": "'hundred and-twenty year'"
+    }
+   ],
+   "grammar": [
+    "יָדוֹן is a rare and disputed form. Rashi: it means 'quarrel', as if from מדון. Ibn Ezra: either 'sheath' (נדן, with the nun lost, the body being the spirit's sheath) or from דין, 'judge'.",
+    "בְּשַׁגַּם: Rashi and Ibn Ezra take the שַׁ as the relative שֶׁ, with the vowel changed: 'since also'.",
+    "וְהָיוּ is a weqatal: the days 'will be' 120 years, a grant of time.",
+    "The etnaḥta after בָשָׂר divides the verse into the sentence of decision and the term granted."
+   ],
+   "note": "The English follows Rashi on ידון (contend, quarrel) and לעלם (for a long time), and Rashi and Ibn Ezra on בשגם (since also). The 120 years is read as a respite (Rashi, Sforno, Onkelos), not as the future length of a human life, which Ibn Ezra rejects as untrue. 'My spirit' is God's. The reading 'sheath' and the reading 'judge' are recorded. The lexicon lists a sense under דין for this form; the Qal 6 'contend' is the closest in the list.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:3:1",
+     "relation": "follows",
+     "summary": "Rashi: 'will not quarrel and contend' (יתרעם ויריב): my spirit will not argue with me on account of man."
+    },
+    {
+     "anchor": "rashi:6:3:2",
+     "relation": "follows",
+     "summary": "Rashi: לעלם means 'for a long time': my spirit is debating whether to destroy or to have mercy, and this dispute will not last in me for long."
+    },
+    {
+     "anchor": "rashi:6:3:3",
+     "relation": "follows",
+     "summary": "Rashi: בשגם is like בשגם with segol, 'because this too is in him, that he is flesh and still does not submit'; cf. 'שַׁקַּמְתִּי' (Jgs 5:7)."
+    },
+    {
+     "anchor": "rashi:6:3:4",
+     "relation": "follows",
+     "summary": "Rashi: 'until 120 years I will be patient with them; if they do not repent I will bring a flood.' The decree was given twenty years before Noah fathered (the Torah has no earlier and later)."
+    },
+    {
+     "anchor": "ibn-ezra:6:3:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: some say ידון is like נדן 'sheath', the body being the spirit's sheath (cf. Dan 7:15), and the root is another; others that it is from דין, since the spirit is the body's judge. The English keeps 'contend' from Rashi."
+    },
+    {
+     "anchor": "ibn-ezra:6:3:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the שׁ is like שֶׁכָּכָה, so 'since also he is flesh': my spirit will not remain, because of the violence, and because man is flesh and reaches his term and fails."
+    },
+    {
+     "anchor": "ibn-ezra:6:3:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra rejects the view that 120 years is the span of all human life: Shem lived six hundred. He follows the Aramaic translator: God set an end for humankind, as in 'forty days' (Jon 3:4); if they repent they escape. He adds that Scripture has no strict order of events."
+    },
+    {
+     "anchor": "ramban:6:3:1",
+     "relation": "records",
+     "summary": "Ramban rejects Rashi's reading of בשגם and Ibn Ezra's, and takes 'since man is flesh like all flesh, he is not fit to have the spirit of God within him'."
+    },
+    {
+     "anchor": "radak:6:3:1",
+     "relation": "records",
+     "summary": "Radak: ידון is from 'מדון' (strife) by his father, or from 'sheath'; God will extend 120 years if they repent, else destroy."
+    },
+    {
+     "anchor": "radak:6:3:5",
+     "relation": "follows",
+     "summary": "Radak: the שׁ is open like שַׁקַּמְתִּי; 'since he too is flesh'."
+    },
+    {
+     "anchor": "radak:6:3:6",
+     "relation": "follows",
+     "summary": "Radak: the days that I will grant him."
+    },
+    {
+     "anchor": "radak:6:3:7",
+     "relation": "not-applicable",
+     "summary": "Radak: we know only that this was the Creator's will."
+    },
+    {
+     "anchor": "sforno:6:3:2",
+     "relation": "follows",
+     "summary": "Sforno: there will be a time for repentance."
+    },
+    {
+     "anchor": "sforno:6:3:3",
+     "relation": "follows",
+     "summary": "Sforno: in the meantime Noah was building the ark and warning them."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: לָא יִתְקַיַם דָרָא בִישָׁא הָדֵין קֳדָמַי לְעַלָם ... אַרְכָא יְהִיבַת לְהוֹן מְאָה וְעַשְׂרִין שְׁנִין אִם יְתוּבוּן, 'this evil generation will not stand before me for ever ... a respite of 120 years is given them if they repent'.",
+    "יָדוֹן: 'contend' (Rashi), 'abide', as in a sheath (Ibn Ezra's first), or 'judge' (Ibn Ezra's second); the written form is not otherwise attested.",
+    "The pointing of the divine name is יְהֹוָה (MAM) and is read as 'the LORD'."
+   ]
+  },
+  {
+   "ref": "6:4",
+   "english": "The Nephilim were on the earth in those days, and also afterward, whenever the sons of the rulers came to the daughters of humankind and they bore children to them. They were the warriors of old, the men of renown.",
+   "literal": "the-Nephilim were in-the-earth in-the-days the-those and-also after-so that will-come sons-of the-gods to daughters-of the-human and-bore to-them they the-warriors that from-ever men-of the-name",
+   "tokens": [
+    {
+     "id": "6:4.1",
+     "gloss": "the Nephilim"
+    },
+    {
+     "id": "6:4.2",
+     "gloss": "were",
+     "sense": "Qal III",
+     "note": "perfect plural of היה"
+    },
+    {
+     "id": "6:4.3",
+     "gloss": "in the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:4.4",
+     "gloss": "in the days",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.5",
+     "gloss": "those"
+    },
+    {
+     "id": "6:4.6",
+     "gloss": "and also"
+    },
+    {
+     "id": "6:4.7",
+     "gloss": "after",
+     "sense": "1.b"
+    },
+    {
+     "id": "6:4.8",
+     "gloss": "so",
+     "note": "adverb; אַחֲרֵי־כֵן is 'afterward'"
+    },
+    {
+     "id": "6:4.9",
+     "gloss": "that, when"
+    },
+    {
+     "id": "6:4.10",
+     "gloss": "they come",
+     "sense": "Qal 1",
+     "note": "yiqtol, here iterative: 'whenever they came'"
+    },
+    {
+     "id": "6:4.11",
+     "gloss": "sons of",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.12",
+     "gloss": "the rulers",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:4.13",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.14",
+     "gloss": "daughters of",
+     "sense": "1"
+    },
+    {
+     "id": "6:4.15",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "6:4.16",
+     "gloss": "and they bore",
+     "sense": "Qal 1",
+     "note": "weqatal continuing the iterative yiqtol"
+    },
+    {
+     "id": "6:4.17",
+     "gloss": "to them"
+    },
+    {
+     "id": "6:4.18",
+     "gloss": "they"
+    },
+    {
+     "id": "6:4.19",
+     "gloss": "the warriors"
+    },
+    {
+     "id": "6:4.20",
+     "gloss": "who"
+    },
+    {
+     "id": "6:4.21",
+     "gloss": "from of old"
+    },
+    {
+     "id": "6:4.22",
+     "gloss": "men of"
+    },
+    {
+     "id": "6:4.23",
+     "gloss": "the name",
+     "sense": "2.b"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:4.1",
+      "6:4.2"
+     ],
+     "english": "The Nephilim were",
+     "literal": "'the-Nephilim were'"
+    },
+    {
+     "tokens": [
+      "6:4.3"
+     ],
+     "english": "on the earth",
+     "literal": "'in-the-earth'"
+    },
+    {
+     "tokens": [
+      "6:4.4",
+      "6:4.5"
+     ],
+     "english": "in those days",
+     "literal": "'in-the-days the-those'"
+    },
+    {
+     "tokens": [
+      "6:4.6",
+      "6:4.7",
+      "6:4.8"
+     ],
+     "english": "and also afterward",
+     "literal": "'and-also after-so'"
+    },
+    {
+     "tokens": [
+      "6:4.9",
+      "6:4.10",
+      "6:4.11",
+      "6:4.12"
+     ],
+     "english": "whenever the sons of the rulers came",
+     "literal": "'that will-come sons-of the-gods'; the yiqtol is iterative"
+    },
+    {
+     "tokens": [
+      "6:4.13",
+      "6:4.14",
+      "6:4.15"
+     ],
+     "english": "to the daughters of humankind",
+     "literal": "'to daughters-of the-human'"
+    },
+    {
+     "tokens": [
+      "6:4.16",
+      "6:4.17"
+     ],
+     "english": "and they bore children to them",
+     "literal": "'and-bore to-them'; the children are the implied object"
+    },
+    {
+     "tokens": [
+      "6:4.18",
+      "6:4.19"
+     ],
+     "english": "They were the warriors",
+     "literal": "'they the-warriors'; a verbless clause"
+    },
+    {
+     "tokens": [
+      "6:4.20",
+      "6:4.21"
+     ],
+     "english": "of old",
+     "literal": "'that from-ever'"
+    },
+    {
+     "tokens": [
+      "6:4.22",
+      "6:4.23"
+     ],
+     "english": "the men of renown",
+     "literal": "'men-of the-name'"
+    }
+   ],
+   "grammar": [
+    "הַנְּפִלִים is left untranslated: Rashi 'those who fell and made the world fall', and in Hebrew 'giants'; Ibn Ezra and Radak: those whose height makes the beholder's heart fall.",
+    "יָבֹאוּ is a yiqtol after אֲשֶׁר that, with the weqatal וְיָלְדוּ, expresses repeated action: 'whenever they came ... and bore'.",
+    "הֵמָּה הַגִּבֹּרִים is a verbless clause with a pronoun between subject and predicate; the darga and tevir mark the units.",
+    "מֵעוֹלָם: 'from of old', from long ago; אַנְשֵׁי הַשֵּׁם: 'men of the name', men of fame."
+   ],
+   "note": "הַנְּפִלִים is kept as a name ('Nephilim') because the Hebrew is not clear; the commentators give 'giants' or 'those who cause fear'. וְגַם אַחֲרֵי כֵן: Rashi 'afterward' despite the destruction of the generation of Enosh; Ibn Ezra 'after the Flood'. The English 'and also afterward' keeps both. הַגִּבֹּרִים are 'warriors' (strong men); Rashi adds 'to rebel against God'. אַנְשֵׁי הַשֵּׁם: Rashi gives two readings, 'men of renown' being the plain one; the other, 'men of desolation' (שִׁמָּמוֹן), is recorded. The lexicon lists a single sense for the Nephilim entry, which is not a path; the sense is therefore omitted below.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:4:1",
+     "relation": "records",
+     "summary": "Rashi: Nephilim because they fell and made the world fall; in Hebrew, giants (עֲנָקִים). The English keeps the name."
+    },
+    {
+     "anchor": "rashi:6:4:2",
+     "relation": "records",
+     "summary": "Rashi: 'in those days' means the days of the generation of Enosh and the sons of Cain."
+    },
+    {
+     "anchor": "rashi:6:4:3",
+     "relation": "follows",
+     "summary": "Rashi: even though they saw the destruction of the generation of Enosh (the ocean rose and flooded a third of the world), the Flood generation did not learn. The English 'and also afterward' leaves open the event."
+    },
+    {
+     "anchor": "rashi:6:4:4",
+     "relation": "follows",
+     "summary": "Rashi: they bore giants like themselves."
+    },
+    {
+     "anchor": "rashi:6:4:5",
+     "relation": "records",
+     "summary": "Rashi: הגבורים 'to rebel against the Almighty'. The English keeps the neutral 'warriors'."
+    },
+    {
+     "anchor": "rashi:6:4:6",
+     "relation": "records",
+     "summary": "Rashi: אנשי השם are those named Irad, Mehuyael, Methushael, names for destruction (they were blotted out); another: אנשי שממון, 'men of desolation', because they desolated the world. The English follows the plain 'renown'."
+    },
+    {
+     "anchor": "ibn-ezra:6:4:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: נפילים means that the heart of one who sees them falls, wondering at their height."
+    },
+    {
+     "anchor": "ibn-ezra:6:4:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: אחרי כן means after the Flood; the sons of Anak were from the family of the sons of God."
+    },
+    {
+     "anchor": "ramban:6:4:1",
+     "relation": "records",
+     "summary": "Ramban: Rashi's reason for the name, and the grammarians' (Ibn Ezra, Radak) 'because man's heart falls from fear', cf. האימים (Gn 14:5)."
+    },
+    {
+     "anchor": "ramban:6:4:2",
+     "relation": "records",
+     "summary": "Ramban cites Rashi on 'those days', and Ibn Ezra on 'after the Flood', and proposes his own view that the sons of God are Adam, Seth and Enosh and their descendants."
+    },
+    {
+     "anchor": "radak:6:4:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the verse is connected with 'from all that they chose' above."
+    },
+    {
+     "anchor": "radak:6:4:2",
+     "relation": "records",
+     "summary": "Radak: the Nephilim are the giants, very tall; the name means the viewer falls from astonishment."
+    },
+    {
+     "anchor": "radak:6:4:5",
+     "relation": "records",
+     "summary": "Radak: the Nephilim were sons of the great, and the children begotten by such were like them in quality and quantity."
+    },
+    {
+     "anchor": "radak:6:4:6",
+     "relation": "follows",
+     "summary": "Radak: 'who were of old' means they were spoken of by later generations."
+    },
+    {
+     "anchor": "radak:6:4:7",
+     "relation": "follows",
+     "summary": "Radak: 'men of the name' means they had a name in the mouths of later generations."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: גִּבָּרַיָּא הֲווֹ בְאַרְעָא בְּיוֹמַיָּא הָאִנּוּן, 'the mighty ones were in the land in those days', rendering נפלים as גבריא; and 'sons of the nobles' for בני האלהים.",
+    "אַחֲרֵי כֵן: after the destruction of Enosh's generation (Rashi) or after the Flood (Ibn Ezra, Ramban's report); kept open.",
+    "The paragraph mark פ follows this verse."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,702 @@
+{
+ "unit": "noach-13",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "10:1",
+   "english": "These are the descendants of Noah's sons, Shem, Ham, and Japheth: children were born to them after the flood.",
+   "literal": "and-these generations-of sons-of Noah Shem Ham and-Japheth and-were-born to-them sons after the-flood",
+   "tokens": [
+    {
+     "id": "10:1.1",
+     "gloss": "and these",
+     "sense": "b"
+    },
+    {
+     "id": "10:1.2",
+     "gloss": "generations of, descendants of"
+    },
+    {
+     "id": "10:1.3",
+     "gloss": "sons of",
+     "sense": "1"
+    },
+    {
+     "id": "10:1.4",
+     "gloss": "Noah"
+    },
+    {
+     "id": "10:1.5",
+     "gloss": "Shem"
+    },
+    {
+     "id": "10:1.6",
+     "gloss": "Ham",
+     "sense": "1"
+    },
+    {
+     "id": "10:1.7",
+     "gloss": "and Japheth"
+    },
+    {
+     "id": "10:1.8",
+     "gloss": "and were born",
+     "sense": "Niph",
+     "note": "wayyiqtol Niphal of ילד, passive: 'were born'"
+    },
+    {
+     "id": "10:1.9",
+     "gloss": "to them"
+    },
+    {
+     "id": "10:1.10",
+     "gloss": "sons, children",
+     "sense": "2"
+    },
+    {
+     "id": "10:1.11",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "10:1.12",
+     "gloss": "the flood"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:1.1",
+      "10:1.2"
+     ],
+     "english": "These are the descendants of",
+     "literal": "'and-these generations-of'"
+    },
+    {
+     "tokens": [
+      "10:1.3",
+      "10:1.4",
+      "10:1.5",
+      "10:1.6",
+      "10:1.7"
+     ],
+     "english": "Noah's sons, Shem, Ham, and Japheth",
+     "literal": "'sons-of Noah: Shem, Ham and-Japheth'; the three names stand in apposition"
+    },
+    {
+     "tokens": [
+      "10:1.8",
+      "10:1.9",
+      "10:1.10"
+     ],
+     "english": "children were born to them",
+     "literal": "'and-were-born to-them sons'; ו rendered by a colon-like pause"
+    },
+    {
+     "tokens": [
+      "10:1.11",
+      "10:1.12"
+     ],
+     "english": "after the flood",
+     "literal": "'after the-flood'"
+    }
+   ],
+   "grammar": [
+    "תּוֹלְדֹת is a construct plural: the account of a man's descendants.",
+    "The etnaḥta on וָיָפֶת divides the verse: the list of names, then the new clause.",
+    "וַיִּוָּלְדוּ is a Niphal wayyiqtol, passive 'were born'."
+   ],
+   "note": "The English joins the two clauses with a colon, since the second states what follows from the first.",
+   "commentary": [
+    {
+     "anchor": "ramban:10:1:1",
+     "relation": "not-applicable",
+     "summary": "Ramban's comment here is cut off in the pack and does not bear on the plain sense."
+    },
+    {
+     "anchor": "ramban:10:1:2",
+     "relation": "not-applicable",
+     "summary": "Ramban says the sons were born only after the flood because God had restrained their fertility so that they would not perish in it."
+    },
+    {
+     "anchor": "radak:10:1:3",
+     "relation": "not-applicable",
+     "summary": "Radak says the verse tells us that Noah's sons did not have children in the ark."
+    },
+    {
+     "anchor": "onkelos:10:1:1",
+     "relation": "follows",
+     "summary": "Onkelos renders the verse closely: 'children were born to them after the flood'."
+    }
+   ]
+  },
+  {
+   "ref": "10:2",
+   "english": "The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+   "literal": "sons-of Japheth Gomer and-Magog and-Madai and-Javan and-Tubal and-Meshech and-Tiras",
+   "tokens": [
+    {
+     "id": "10:2.1",
+     "gloss": "sons of",
+     "sense": "1"
+    },
+    {
+     "id": "10:2.2",
+     "gloss": "Japheth"
+    },
+    {
+     "id": "10:2.3",
+     "gloss": "Gomer"
+    },
+    {
+     "id": "10:2.4",
+     "gloss": "and Magog"
+    },
+    {
+     "id": "10:2.5",
+     "gloss": "and Madai",
+     "sense": "2"
+    },
+    {
+     "id": "10:2.6",
+     "gloss": "and Javan"
+    },
+    {
+     "id": "10:2.7",
+     "gloss": "and Tubal"
+    },
+    {
+     "id": "10:2.8",
+     "gloss": "and Meshech"
+    },
+    {
+     "id": "10:2.9",
+     "gloss": "and Tiras"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:2.1",
+      "10:2.2"
+     ],
+     "english": "The sons of Japheth",
+     "literal": "'sons-of Japheth'"
+    },
+    {
+     "tokens": [
+      "10:2.3",
+      "10:2.4",
+      "10:2.5",
+      "10:2.6",
+      "10:2.7",
+      "10:2.8",
+      "10:2.9"
+     ],
+     "english": "Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras",
+     "literal": "seven names, each after the first joined by ו"
+    }
+   ],
+   "grammar": [
+    "The verse is a list; the final ו is rendered by 'and' before the last name only.",
+    "The zaqef qaton on יֶפֶת and on וּמָגוֹג, and the etnaḥta on וְתֻבָל, pace the list."
+   ],
+   "note": "Names are given in their familiar English forms.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:2:1",
+     "relation": "records",
+     "summary": "Rashi, citing Bereshit Rabbah: 'זוֹ פָּרַס' (this is Persia). The English keeps the name Tiras and does not identify it."
+    },
+    {
+     "anchor": "ramban:10:2:1",
+     "relation": "not-applicable",
+     "summary": "Ramban explains why Japheth is listed first, as the eldest, and Ham before Shem."
+    },
+    {
+     "anchor": "radak:10:2:1",
+     "relation": "not-applicable",
+     "summary": "Radak cites Saadya's identification of Gomer with a later people; it does not bear on the English."
+    }
+   ]
+  },
+  {
+   "ref": "10:3",
+   "english": "The sons of Gomer: Ashkenaz, Riphath, and Togarmah.",
+   "literal": "and-sons-of Gomer Ashkenaz and-Riphath and-Togarmah",
+   "tokens": [
+    {
+     "id": "10:3.1",
+     "gloss": "and the sons of",
+     "sense": "1"
+    },
+    {
+     "id": "10:3.2",
+     "gloss": "Gomer"
+    },
+    {
+     "id": "10:3.3",
+     "gloss": "Ashkenaz"
+    },
+    {
+     "id": "10:3.4",
+     "gloss": "and Riphath"
+    },
+    {
+     "id": "10:3.5",
+     "gloss": "and Togarmah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:3.1",
+      "10:3.2"
+     ],
+     "english": "The sons of Gomer",
+     "literal": "'and-sons-of Gomer'; ו not rendered"
+    },
+    {
+     "tokens": [
+      "10:3.3",
+      "10:3.4",
+      "10:3.5"
+     ],
+     "english": "Ashkenaz, Riphath, and Togarmah",
+     "literal": "three names"
+    }
+   ],
+   "grammar": [
+    "The ו on וּבְנֵי links this list to the preceding one and is left unrendered.",
+    "The etnaḥta falls on גֹּמֶר, setting the father's name apart from the sons."
+   ],
+   "note": "In the printed text the second name is spelled אַשְׁכְּנַז; the pack's morpheme column shows a variant vocalization אַשְׁכֲּנַז."
+  },
+  {
+   "ref": "10:4",
+   "english": "The sons of Javan: Elishah, Tarshish, Kittim, and Dodanim.",
+   "literal": "and-sons-of Javan Elishah and-Tarshish Kittim and-Dodanim",
+   "tokens": [
+    {
+     "id": "10:4.1",
+     "gloss": "and the sons of",
+     "sense": "1"
+    },
+    {
+     "id": "10:4.2",
+     "gloss": "Javan"
+    },
+    {
+     "id": "10:4.3",
+     "gloss": "Elishah"
+    },
+    {
+     "id": "10:4.4",
+     "gloss": "and Tarshish"
+    },
+    {
+     "id": "10:4.5",
+     "gloss": "Kittim"
+    },
+    {
+     "id": "10:4.6",
+     "gloss": "and Dodanim",
+     "note": "the pack's lexicon has רוֹדָנִים (Rhodians), the variant spelling with ר; the printed text has ד"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:4.1",
+      "10:4.2"
+     ],
+     "english": "The sons of Javan",
+     "literal": "'and-sons-of Javan'"
+    },
+    {
+     "tokens": [
+      "10:4.3",
+      "10:4.4",
+      "10:4.5",
+      "10:4.6"
+     ],
+     "english": "Elishah, Tarshish, Kittim, and Dodanim",
+     "literal": "four names"
+    }
+   ],
+   "grammar": [
+    "Kittim has no ו before it: it forms a pair with Tarshish under the etnaḥta, then a pair with Dodanim.",
+    "Dodanim is plural in form (-ים), like Kittim."
+   ],
+   "note": "The lexicon links the last name to רוֹדָנִים (Rhodians), reflecting the parallel reading in Chronicles. The data is kept; the English follows the Hebrew of this verse.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:10:4:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Kittim is a name, and he is a son of Javan; he adds that the kingdoms of Greece and Rome are one. The English takes Kittim as a son's name."
+    }
+   ],
+   "apparatus": [
+    "Chronicles (1 Chr 1:7) reads רוֹדָנִים for דֹּדָנִים; the lexicon in the pack records that form."
+   ]
+  },
+  {
+   "ref": "10:5",
+   "english": "From these were separated the coastal peoples of the nations in their lands, each according to its language, by their clans, in their nations.",
+   "literal": "from-these were-divided coasts-of the-nations in-their-lands man to-his-language to-their-clans in-their-nations",
+   "tokens": [
+    {
+     "id": "10:5.1",
+     "gloss": "from these",
+     "sense": "b"
+    },
+    {
+     "id": "10:5.2",
+     "gloss": "were divided, spread apart",
+     "sense": "Niph 2",
+     "note": "perfect Niphal 3rd plural, passive or reflexive: 'were separated'"
+    },
+    {
+     "id": "10:5.3",
+     "gloss": "coasts of, islands of"
+    },
+    {
+     "id": "10:5.4",
+     "gloss": "the nations"
+    },
+    {
+     "id": "10:5.5",
+     "gloss": "in their lands",
+     "sense": "5"
+    },
+    {
+     "id": "10:5.6",
+     "gloss": "each, a man"
+    },
+    {
+     "id": "10:5.7",
+     "gloss": "according to his language",
+     "sense": "2"
+    },
+    {
+     "id": "10:5.8",
+     "gloss": "by their clans",
+     "sense": "1"
+    },
+    {
+     "id": "10:5.9",
+     "gloss": "in their nations"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:5.1",
+      "10:5.2"
+     ],
+     "english": "From these were separated",
+     "literal": "'from-these were-divided'"
+    },
+    {
+     "tokens": [
+      "10:5.3",
+      "10:5.4"
+     ],
+     "english": "the coastal peoples of the nations",
+     "literal": "'coasts-of the-nations'; אִיֵּי is the construct plural of אִי, coast or island"
+    },
+    {
+     "tokens": [
+      "10:5.5"
+     ],
+     "english": "in their lands",
+     "literal": "'in-their-lands'"
+    },
+    {
+     "tokens": [
+      "10:5.6",
+      "10:5.7"
+     ],
+     "english": "each according to its language",
+     "literal": "'man to-his-language'; distributive"
+    },
+    {
+     "tokens": [
+      "10:5.8",
+      "10:5.9"
+     ],
+     "english": "by their clans, in their nations",
+     "literal": "'to-their-clans, in-their-nations'"
+    }
+   ],
+   "grammar": [
+    "The English line reorders the words; the Hebrew has מֵאֵלֶּה first.",
+    "אִישׁ is distributive: 'each one'.",
+    "The four ל/ב phrases (lands, language, clans, nations) are a sequence of qualifying adjuncts."
+   ],
+   "note": "The English reads אִיֵּי הַגּוֹיִם as the coastal peoples of the nations, with the coasts or islands standing for the peoples who settle them. This sense is the plain one; the lexicon gives 'coast, region'."
+  },
+  {
+   "ref": "10:6",
+   "english": "The sons of Ham: Cush, Egypt, Put, and Canaan.",
+   "literal": "and-sons-of Ham Cush and-Egypt and-Put and-Canaan",
+   "tokens": [
+    {
+     "id": "10:6.1",
+     "gloss": "and the sons of",
+     "sense": "1"
+    },
+    {
+     "id": "10:6.2",
+     "gloss": "Ham",
+     "sense": "1"
+    },
+    {
+     "id": "10:6.3",
+     "gloss": "Cush"
+    },
+    {
+     "id": "10:6.4",
+     "gloss": "and Egypt",
+     "sense": "1.a"
+    },
+    {
+     "id": "10:6.5",
+     "gloss": "and Put"
+    },
+    {
+     "id": "10:6.6",
+     "gloss": "and Canaan"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:6.1",
+      "10:6.2"
+     ],
+     "english": "The sons of Ham",
+     "literal": "'and-sons-of Ham'"
+    },
+    {
+     "tokens": [
+      "10:6.3",
+      "10:6.4",
+      "10:6.5",
+      "10:6.6"
+     ],
+     "english": "Cush, Egypt, Put, and Canaan",
+     "literal": "four names; מִצְרַיִם is the Hebrew name of Egypt and dual in form"
+    }
+   ],
+   "grammar": [
+    "מִצְרַיִם has a dual ending and is used as the name of the country and its people.",
+    "The etnaḥta on חָם separates the father's name from the sons."
+   ],
+   "note": ""
+  },
+  {
+   "ref": "10:7",
+   "english": "The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.",
+   "literal": "and-sons-of Cush Seba and-Havilah and-Sabtah and-Raamah and-Sabteca and-sons-of Raamah Sheba and-Dedan",
+   "tokens": [
+    {
+     "id": "10:7.1",
+     "gloss": "and the sons of",
+     "sense": "1"
+    },
+    {
+     "id": "10:7.2",
+     "gloss": "Cush"
+    },
+    {
+     "id": "10:7.3",
+     "gloss": "Seba"
+    },
+    {
+     "id": "10:7.4",
+     "gloss": "and Havilah"
+    },
+    {
+     "id": "10:7.5",
+     "gloss": "and Sabtah"
+    },
+    {
+     "id": "10:7.6",
+     "gloss": "and Raamah"
+    },
+    {
+     "id": "10:7.7",
+     "gloss": "and Sabteca"
+    },
+    {
+     "id": "10:7.8",
+     "gloss": "and the sons of",
+     "sense": "1"
+    },
+    {
+     "id": "10:7.9",
+     "gloss": "Raamah"
+    },
+    {
+     "id": "10:7.10",
+     "gloss": "Sheba"
+    },
+    {
+     "id": "10:7.11",
+     "gloss": "and Dedan"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:7.1",
+      "10:7.2"
+     ],
+     "english": "The sons of Cush",
+     "literal": "'and-sons-of Cush'"
+    },
+    {
+     "tokens": [
+      "10:7.3",
+      "10:7.4",
+      "10:7.5",
+      "10:7.6",
+      "10:7.7"
+     ],
+     "english": "Seba, Havilah, Sabtah, Raamah, and Sabteca",
+     "literal": "five names"
+    },
+    {
+     "tokens": [
+      "10:7.8",
+      "10:7.9"
+     ],
+     "english": "The sons of Raamah",
+     "literal": "'and-sons-of Raamah'; the ו is left out in English because the sentence stops"
+    },
+    {
+     "tokens": [
+      "10:7.10",
+      "10:7.11"
+     ],
+     "english": "Sheba and Dedan",
+     "literal": "two names"
+    }
+   ],
+   "grammar": [
+    "The verse has two lists: the sons of Cush and, in a second clause, the sons of Raamah, one of them.",
+    "The etnaḥta on וְסַבְתְּכָא ends the first list."
+   ],
+   "note": "The lexicon spells שְׁבָא as Shᵉbâ; the English uses the familiar Sheba."
+  },
+  {
+   "ref": "10:8",
+   "english": "Cush fathered Nimrod. He was the first to be a mighty man on the earth.",
+   "literal": "and-Cush begot [object-marker] Nimrod he began to-be mighty in-the-earth",
+   "tokens": [
+    {
+     "id": "10:8.1",
+     "gloss": "and Cush"
+    },
+    {
+     "id": "10:8.2",
+     "gloss": "fathered",
+     "sense": "Qal 2"
+    },
+    {
+     "id": "10:8.3",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "10:8.4",
+     "gloss": "Nimrod"
+    },
+    {
+     "id": "10:8.5",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "10:8.6",
+     "gloss": "began",
+     "sense": "Hiph 2",
+     "note": "Hiphil of חלל 'begin', homograph of 'profane' by BDB"
+    },
+    {
+     "id": "10:8.7",
+     "gloss": "to be",
+     "sense": "Qal II.2",
+     "note": "infinitive construct with ל"
+    },
+    {
+     "id": "10:8.8",
+     "gloss": "a mighty man"
+    },
+    {
+     "id": "10:8.9",
+     "gloss": "on the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:8.1",
+      "10:8.2"
+     ],
+     "english": "Cush fathered",
+     "literal": "'and-Cush begot'"
+    },
+    {
+     "tokens": [
+      "10:8.3",
+      "10:8.4"
+     ],
+     "english": "Nimrod",
+     "literal": "object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "10:8.5",
+      "10:8.6"
+     ],
+     "english": "He was the first",
+     "literal": "'he began'; the English draws on the following infinitive"
+    },
+    {
+     "tokens": [
+      "10:8.7",
+      "10:8.8",
+      "10:8.9"
+     ],
+     "english": "to be a mighty man on the earth",
+     "literal": "'to-be mighty in-the-earth'"
+    }
+   ],
+   "grammar": [
+    "הוּא הֵחֵל is a fronted subject pronoun, giving emphasis: 'he, he began'.",
+    "גִּבֹּר is an adjective used as a noun: 'a mighty man'.",
+    "The etnaḥta on נִמְרֹד divides the statement of birth from the description."
+   ],
+   "note": "The English follows Ibn Ezra's plain sense: he began to show the strength of men over the animals, a mighty hunter. Rashi's different reading, that he led the whole world in rebellion against God, is recorded. 'The first to be' renders הֵחֵל לִהְיוֹת, 'began to be'.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:8:1",
+     "relation": "records",
+     "summary": "Rashi: 'לְהַמְרִיד כָּל הָעוֹלָם עַל הַקָּבָּ\"ה בַּעֲצַת דוֹר הַפַּלָּגָה', to make the whole world rebel against God, by the counsel of the generation of the Dispersion. The English does not adopt this reading of גִּבֹּר."
+    },
+    {
+     "anchor": "ibn-ezra:10:8:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: do not seek a meaning for every name; this does not bear on the English."
+    },
+    {
+     "anchor": "ibn-ezra:10:8:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'he began to show the mighty deeds of men over the animals, for he was a mighty hunter'. The English follows this."
+    }
+   ]
+  }
+ ]
+}

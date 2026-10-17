@@ -1,0 +1,669 @@
+{
+ "unit": "bereshit-22",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "6:5",
+   "english": "The LORD saw that the evil of the human was great on the earth, and every inclination of the thoughts of his heart was only evil all day long.",
+   "literal": "and-saw the-LORD that great evil-of the-human in-the-earth and-every formation-of thoughts-of his-heart only evil all-the-day",
+   "tokens": [
+    {
+     "id": "6:5.1",
+     "gloss": "and saw",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol: narrative past, 'and he saw'"
+    },
+    {
+     "id": "6:5.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "6:5.3",
+     "gloss": "that",
+     "sense": "1",
+     "note": "introduces what was seen"
+    },
+    {
+     "id": "6:5.4",
+     "gloss": "great",
+     "sense": "2",
+     "note": "feminine to agree with רָעָה"
+    },
+    {
+     "id": "6:5.5",
+     "gloss": "evil of",
+     "sense": "3",
+     "note": "construct state: 'the evil of'"
+    },
+    {
+     "id": "6:5.6",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "with the article: 'the human', as in decisions"
+    },
+    {
+     "id": "6:5.7",
+     "gloss": "in the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:5.8",
+     "gloss": "and every",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.9",
+     "gloss": "inclination of",
+     "note": "from יצר 'to form, shape': here the shaping of the mind, 'inclination, purpose'; construct state. The entry lists only the sense 'pottery', which does not fit, so no sense is given."
+    },
+    {
+     "id": "6:5.10",
+     "gloss": "thoughts of",
+     "sense": "1",
+     "note": "construct plural: 'thoughts of'"
+    },
+    {
+     "id": "6:5.11",
+     "gloss": "his heart",
+     "sense": "II.4",
+     "note": "heart as the seat of will and inclination"
+    },
+    {
+     "id": "6:5.12",
+     "gloss": "only",
+     "sense": "2"
+    },
+    {
+     "id": "6:5.13",
+     "gloss": "evil",
+     "sense": "10",
+     "note": "predicate adjective"
+    },
+    {
+     "id": "6:5.14",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "6:5.15",
+     "gloss": "the day",
+     "sense": "1",
+     "note": "'all the day' means all day long, continually"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:5.1",
+      "6:5.2"
+     ],
+     "english": "The LORD saw",
+     "literal": "'and-saw the-LORD'; wayyiqtol opens the narrative"
+    },
+    {
+     "tokens": [
+      "6:5.3"
+     ],
+     "english": "that",
+     "literal": "'that', introducing the content of the seeing"
+    },
+    {
+     "tokens": [
+      "6:5.4",
+      "6:5.5",
+      "6:5.6",
+      "6:5.7"
+     ],
+     "english": "the evil of the human was great on the earth",
+     "literal": "'great evil-of the-human in-the-earth'; the English puts the verb 'was' where Hebrew has none"
+    },
+    {
+     "tokens": [
+      "6:5.8",
+      "6:5.9",
+      "6:5.10",
+      "6:5.11"
+     ],
+     "english": "and every inclination of the thoughts of his heart",
+     "literal": "'and-every formation-of thoughts-of his-heart'; a chain of three constructs"
+    },
+    {
+     "tokens": [
+      "6:5.12",
+      "6:5.13"
+     ],
+     "english": "was only evil",
+     "literal": "'only evil'; the copula is supplied"
+    },
+    {
+     "tokens": [
+      "6:5.14",
+      "6:5.15"
+     ],
+     "english": "all day long",
+     "literal": "'all-the-day'"
+    }
+   ],
+   "grammar": [
+    "וַיַּרְא is a wayyiqtol; כִּי introduces the object clause: what the LORD saw.",
+    "רַבָּה רָעַת הָאָדָם: the predicate adjective comes first, and the verb 'to be' is not written. רָעַת is the construct of רָעָה.",
+    "וְכׇל־יֵצֶר מַחְשְׁבֹת לִבּוֹ is a chain of constructs (every / inclination / of thoughts / of his heart) with no verb; רַק רַע is its predicate.",
+    "The etnaḥta on בָּאָרֶץ divides the verse: the evil on the earth, and then the inward cause."
+   ],
+   "note": "יֵצֶר is from יצר 'to form, shape'; Radak takes it as the desire of the heart's thinking, which forms and works out matters within the heart. The English 'inclination' follows that. הָאָדָם is 'the human', mankind generally (a collective), per decisions.",
+   "commentary": [
+    {
+     "anchor": "radak:6:5:3",
+     "relation": "follows",
+     "summary": "Radak: of the two inclinations in a person's heart, one good and one bad, here all was bad; the desire of the heart's thought is called יֵצֶר because the heart forms and works things out within itself."
+    },
+    {
+     "anchor": "sforno:6:5:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: כִּי רַבָּה רָעַת הָאָדָם refers to the past (לְשֶׁעָבַר), and the next clause to the future; this bears on tense reading, not on the English words."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders the verse closely: 'and every inclination of the thoughts of his heart was only evil all day' (יִצְרָא מַחְשְׁבַת לִבֵּהּ לְחוֹד בִּישׁ כָּל יוֹמָא)."
+   ]
+  },
+  {
+   "ref": "6:6",
+   "english": "The LORD regretted that he had made the human on the earth, and was grieved in his heart.",
+   "literal": "and-regretted the-LORD that-made [object-mark] the-human in-the-earth and-grieved-himself to his-heart",
+   "tokens": [
+    {
+     "id": "6:6.1",
+     "gloss": "and regretted",
+     "sense": "Niph 2",
+     "note": "Niphal wayyiqtol of נחם: 'be sorry, rue'"
+    },
+    {
+     "id": "6:6.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "6:6.3",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.4",
+     "gloss": "he made",
+     "sense": "Qal II.1",
+     "note": "perfect, anterior to the regret: 'he had made'"
+    },
+    {
+     "id": "6:6.5",
+     "gloss": "[object marker]",
+     "note": "marks the definite direct object"
+    },
+    {
+     "id": "6:6.6",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "6:6.7",
+     "gloss": "on the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:6.8",
+     "gloss": "and was grieved",
+     "sense": "Hithp",
+     "note": "Hithpael wayyiqtol: 'was pained'; the lexicon has only a single Hithp sense"
+    },
+    {
+     "id": "6:6.9",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "6:6.10",
+     "gloss": "his heart",
+     "sense": "II.9",
+     "note": "construct form with 3rd masculine singular suffix; אֶל־לִבּוֹ 'to/in his heart'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:6.1",
+      "6:6.2"
+     ],
+     "english": "The LORD regretted",
+     "literal": "'and-regretted the-LORD'"
+    },
+    {
+     "tokens": [
+      "6:6.3"
+     ],
+     "english": "that",
+     "literal": "'that'"
+    },
+    {
+     "tokens": [
+      "6:6.4"
+     ],
+     "english": "he had made",
+     "literal": "'made', rendered as a pluperfect because the making precedes the regret"
+    },
+    {
+     "tokens": [
+      "6:6.5"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "6:6.6",
+      "6:6.7"
+     ],
+     "english": "the human on the earth",
+     "literal": "'the-human in-the-earth'"
+    },
+    {
+     "tokens": [
+      "6:6.8"
+     ],
+     "english": "and was grieved",
+     "literal": "'and-grieved-himself'; hitpael"
+    },
+    {
+     "tokens": [
+      "6:6.9",
+      "6:6.10"
+     ],
+     "english": "in his heart",
+     "literal": "'to his-heart'; Rashi and Ramban take the heart as the seat of thought, so 'in his heart'"
+    }
+   ],
+   "grammar": [
+    "וַיִּנָּחֶם is a Niphal wayyiqtol; the stem is reflexive-passive, 'he let himself be sorry'.",
+    "וַיִּתְעַצֵּב is a Hithpael wayyiqtol, 'he pained himself'; it is the counterpart of the Niphal verb before it.",
+    "אֶל־לִבּוֹ: the phrase is literally 'to his heart', the inward place of thought and feeling.",
+    "The etnaḥta on בָּאָרֶץ divides the verse: the regret over the making, and then the grief."
+   ],
+   "note": "The two verbs speak of God in human terms. Ibn Ezra, Radak and Ramban all say the Torah speaks in human language, so the English keeps the verbs plain ('regretted', 'was grieved'). Rashi reads otherwise: first, וַיִּנָּחֶם as consolation (it comforted God that man was made among the lower beings); then, as a change of thought from mercy to judgment, 'he considered what to do'. Both Rashi readings are recorded. בָּאָרֶץ (on the earth) modifies the making: Radak reads it as made of earth.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:6:1",
+     "relation": "records",
+     "summary": "Rashi: נֶחָמָה here is consolation: it was a comfort before God that he had created man among the lower beings, for had he been one of the upper beings he would have led them to rebel. On this reading וַיִּנָּחֶם means 'was consoled', not 'regretted'; the English follows Ibn Ezra's 'regretted' (in human language) and keeps this reading here."
+    },
+    {
+     "anchor": "rashi:6:6:2",
+     "relation": "records",
+     "summary": "Rashi, after Onkelos: 'it arose in the thought of the Place to grieve him' (the object is the human), and another reading: his thought turned from mercy to judgment, as every נִחוּם in Scripture means 'he took counsel what to do'. The English keeps 'regretted' and 'was grieved'; this alternative is kept here."
+    },
+    {
+     "anchor": "rashi:6:6:3",
+     "relation": "follows",
+     "summary": "Rashi: he mourned the loss of the work of his hands, as in 'the king was grieved (נֶעֱצַב) over his son'; the narrative of R. Joshua ben Korha shows that God's foreknowledge does not remove the grief."
+    },
+    {
+     "anchor": "ibn-ezra:6:6:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it is known that God is not a man that he should regret (1 Sam 15:29); the Torah speaks in human language, for one who destroys what he has made appears to feel both (regret and grief)."
+    },
+    {
+     "anchor": "ibn-ezra:6:6:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיִּתְעַצֵּב אֶל לִבּוֹ is the opposite of 'the LORD rejoices in his works' (Ps 104:31); he also rejects the view that 'his heart' means the prophet, for then the text would not say אֶל after the verb."
+    },
+    {
+     "anchor": "radak:6:6:9",
+     "relation": "records",
+     "summary": "Radak: בָּאָרֶץ means man mixed with the products of the earth, whose body is all earthly, unlike the heavenly image of God; this is why God did not regret making Noah."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: 'the LORD turned in his Memra because he made man on the earth, and said in his Memra to break their strength as his will' (a paraphrase that avoids saying God regretted)."
+   ]
+  },
+  {
+   "ref": "6:7",
+   "english": "The LORD said, \"I will wipe out the human whom I created from the face of the ground, from human to beast, to creeping thing, and to the birds of the sky, for I regret that I made them.\"",
+   "literal": "and-said the-LORD I-will-wipe-out [object-mark] the-human whom I-created from-upon faces-of the-ground from-human until beast until creeping-thing and-until bird-of the-heavens that I-regret that I-made-them",
+   "tokens": [
+    {
+     "id": "6:7.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; Ibn Ezra asks to whom: 'to his heart', to angels, or to Noah"
+    },
+    {
+     "id": "6:7.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "6:7.3",
+     "gloss": "I will wipe out",
+     "sense": "Qal 3",
+     "note": "imperfect, 1st person; Rashi: from the 'wiping' of dust, 'blot out'"
+    },
+    {
+     "id": "6:7.4",
+     "gloss": "[object marker]",
+     "note": "marks the definite direct object"
+    },
+    {
+     "id": "6:7.5",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "6:7.6",
+     "gloss": "whom"
+    },
+    {
+     "id": "6:7.7",
+     "gloss": "I created",
+     "sense": "Qal",
+     "note": "perfect"
+    },
+    {
+     "id": "6:7.8",
+     "gloss": "from upon",
+     "sense": "IV.2",
+     "note": "compound preposition מֵעַל, 'from on top of'"
+    },
+    {
+     "id": "6:7.9",
+     "gloss": "the face of",
+     "sense": "I.5",
+     "note": "construct plural, 'surface of'"
+    },
+    {
+     "id": "6:7.10",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "6:7.11",
+     "gloss": "from human",
+     "sense": "2",
+     "note": "here without the article; 'from human to beast'"
+    },
+    {
+     "id": "6:7.12",
+     "gloss": "to",
+     "sense": "II.3",
+     "note": "עַד marks the limit: 'up to'"
+    },
+    {
+     "id": "6:7.13",
+     "gloss": "beast",
+     "sense": "3",
+     "note": "'animal, livestock'"
+    },
+    {
+     "id": "6:7.14",
+     "gloss": "to",
+     "sense": "II.3"
+    },
+    {
+     "id": "6:7.15",
+     "gloss": "creeping thing",
+     "note": "the sort of small animal that moves along the ground"
+    },
+    {
+     "id": "6:7.16",
+     "gloss": "and to",
+     "sense": "II.3"
+    },
+    {
+     "id": "6:7.17",
+     "gloss": "birds of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "6:7.18",
+     "gloss": "the sky",
+     "sense": "1.a",
+     "note": "plural-form noun, 'the heavens'"
+    },
+    {
+     "id": "6:7.19",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "6:7.20",
+     "gloss": "I regret",
+     "sense": "Niph 2",
+     "note": "Niphal perfect, 1st singular"
+    },
+    {
+     "id": "6:7.21",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "6:7.22",
+     "gloss": "I made them",
+     "sense": "Qal II.1",
+     "note": "perfect with 3rd masculine plural suffix; the object is the human, collectively"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:7.1",
+      "6:7.2"
+     ],
+     "english": "The LORD said",
+     "literal": "'and-said the-LORD'"
+    },
+    {
+     "tokens": [
+      "6:7.3",
+      "6:7.4",
+      "6:7.5"
+     ],
+     "english": "I will wipe out the human",
+     "literal": "'I-will-wipe-out the-human'; object marker has no English"
+    },
+    {
+     "tokens": [
+      "6:7.6",
+      "6:7.7"
+     ],
+     "english": "whom I created",
+     "literal": "'whom I-created'"
+    },
+    {
+     "tokens": [
+      "6:7.8",
+      "6:7.9",
+      "6:7.10"
+     ],
+     "english": "from the face of the ground",
+     "literal": "'from-upon face-of the-ground'"
+    },
+    {
+     "tokens": [
+      "6:7.11",
+      "6:7.12",
+      "6:7.13"
+     ],
+     "english": "from human to beast",
+     "literal": "'from-human until beast'"
+    },
+    {
+     "tokens": [
+      "6:7.14",
+      "6:7.15"
+     ],
+     "english": "to creeping thing",
+     "literal": "'until creeping-thing'"
+    },
+    {
+     "tokens": [
+      "6:7.16",
+      "6:7.17",
+      "6:7.18"
+     ],
+     "english": "and to the birds of the sky",
+     "literal": "'and-until bird-of the-heavens'"
+    },
+    {
+     "tokens": [
+      "6:7.19"
+     ],
+     "english": "for",
+     "literal": "'that', here causal"
+    },
+    {
+     "tokens": [
+      "6:7.20"
+     ],
+     "english": "I regret",
+     "literal": "'I-regret'; Niphal"
+    },
+    {
+     "tokens": [
+      "6:7.21"
+     ],
+     "english": "that",
+     "literal": "'that'"
+    },
+    {
+     "tokens": [
+      "6:7.22"
+     ],
+     "english": "I made them",
+     "literal": "'I-made-them'"
+    }
+   ],
+   "grammar": [
+    "אֶמְחֶה is a first-person imperfect of מחה, 'wipe', and states a resolve; Rashi reads the verb as fitting dust, which water wipes out.",
+    "The list מֵאָדָם עַד־בְּהֵמָה עַד־רֶמֶשׂ וְעַד־עוֹף הַשָּׁמָיִם uses עַד for the limits of what is destroyed; the last item takes וְ.",
+    "The two clauses with כִּי form a pair: כִּי נִחַמְתִּי (Niphal) and כִּי עֲשִׂיתִם (Qal), so the regret is tied to the making.",
+    "The etnaḥta on הַשָּׁמָיִם divides the verse: the decree, and then the reason."
+   ],
+   "note": "The speech is addressed to no one stated. Ibn Ezra's own view is that it is joined to 'his heart' of verse 6 (the speech is inward), and Radak allows 'to Noah'; the English gives the bare 'said'. אֶת־הָאָדָם is 'the human' (mankind), per decisions. 'Whom I created' uses בָּרָא, the verb of Genesis 1, which the lexicon lists as Qal.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:7:1",
+     "relation": "follows",
+     "summary": "Rashi: man is dust and God will bring water on him and wipe him out; this is why the verb is of 'wiping' (מִחוּי), which suits that image."
+    },
+    {
+     "anchor": "rashi:6:7:2",
+     "relation": "records",
+     "summary": "Rashi: the animals also corrupted their ways (Genesis Rabbah); another reading: everything was made for man, and with him gone what need is there for them. The English gives the plain list and records both reasons."
+    },
+    {
+     "anchor": "rashi:6:7:3",
+     "relation": "records",
+     "summary": "Rashi: כִּי נִחַמְתִּי means 'I have thought what to do about what I made', i.e. נִחוּם as a change of thought. The English keeps the plainer 'I regret'."
+    },
+    {
+     "anchor": "ibn-ezra:6:7:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיֹּאמֶר is said 'to his heart', or to the angels; some say to Noah; the correct view in his eyes is that it is joined to 'his heart' written above. The English leaves the addressee unstated."
+    },
+    {
+     "anchor": "radak:6:7:2",
+     "relation": "not-applicable",
+     "summary": "Radak: 'the human' and not every person, since Noah and his sons remained; Genesis Rabbah on why water: the human was made only from dust, and only water wipes dust out."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: אֲרֵי תָבִית בְּמֵימְרִי 'for I have turned in my Memra' replaces 'I regret'."
+   ]
+  },
+  {
+   "ref": "6:8",
+   "english": "But Noah found favor in the eyes of the LORD.",
+   "literal": "and-Noah found favor in-eyes-of the-LORD",
+   "tokens": [
+    {
+     "id": "6:8.1",
+     "gloss": "and Noah",
+     "note": "the vav contrasts Noah with the human of the previous verse"
+    },
+    {
+     "id": "6:8.2",
+     "gloss": "found",
+     "sense": "Qal 1",
+     "note": "perfect, 3rd masculine singular, in a clause that begins with the subject"
+    },
+    {
+     "id": "6:8.3",
+     "gloss": "favor",
+     "sense": "2",
+     "note": "'favor, acceptance'"
+    },
+    {
+     "id": "6:8.4",
+     "gloss": "in the eyes of",
+     "sense": "5",
+     "note": "idiom: 'in the eyes of' means 'in the opinion of'"
+    },
+    {
+     "id": "6:8.5",
+     "gloss": "the LORD"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:8.1"
+     ],
+     "english": "But Noah",
+     "literal": "'and-Noah'; the contrastive vav"
+    },
+    {
+     "tokens": [
+      "6:8.2"
+     ],
+     "english": "found",
+     "literal": "'found'"
+    },
+    {
+     "tokens": [
+      "6:8.3"
+     ],
+     "english": "favor",
+     "literal": "'favor'"
+    },
+    {
+     "tokens": [
+      "6:8.4",
+      "6:8.5"
+     ],
+     "english": "in the eyes of the LORD",
+     "literal": "'in-eyes-of the-LORD'"
+    }
+   ],
+   "grammar": [
+    "וְנֹחַ מָצָא: the subject comes before the verb, so the clause is a contrast with the preceding judgment; hence 'But'.",
+    "מָצָא חֵן בְּעֵינֵי is an idiom for 'was acceptable to', literally 'found favor in the eyes of'.",
+    "The zaqef gadol on נֹחַ marks Noah as the subject standing apart, and the silluq closes the paragraph (פ)."
+   ],
+   "note": "The vav is rendered 'But', following the contrast. The lexicon's עַיִן senses list 5 for 'in the presence of', which is the idiom's sense; the sense 2.b etc. are for other uses.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:6:8:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: חֵן is from the root of 'mercy', and so תַּחֲנָה; the sense of 'finding favor' is like 'no eye had pity on you' (Ezekiel 16:5)."
+    },
+    {
+     "anchor": "ramban:6:8:2",
+     "relation": "not-applicable",
+     "summary": "Ramban: all his deeds were pleasing before God, and this is set against the generation whose deeds caused grief; the next verse then says why."
+    },
+    {
+     "anchor": "sforno:6:8:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: Noah's children were saved by favor, not desert, since he did not teach his generation to know God."
+    }
+   ]
+  }
+ ]
+}

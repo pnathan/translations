@@ -1,0 +1,141 @@
+{
+  "unit": "bereshit-22",
+  "model": "opus",
+  "summary": "The English of 6:5-8 is accurate and follows the Hebrew closely. The main fault is in 6:6: Rashi's first comment was summarized as 'regret' and marked 'follows', when his נֶחָמָה means consolation; that ruling, the verse note and Ibn Ezra's summary are corrected, and the English stands on Ibn Ezra's reading. Several senses were filled mechanically (רָעָה, רַע, יֵצֶר, מֵעַל) and are corrected; the senses of עַד in 6:7 are raised as questions.",
+  "patches": [
+    {
+      "ref": "6:5",
+      "path": "token:6:5.5.sense",
+      "value": "3",
+      "severity": "error",
+      "reason": "רָעַת הָאָדָם is moral wickedness, the ethical sense of רָעָה (3), not 'misery, distress' (1)."
+    },
+    {
+      "ref": "6:5",
+      "path": "token:6:5.9.sense",
+      "value": "",
+      "severity": "error",
+      "reason": "The only sense the entry lists is 'pottery', which does not fit here; no sense is given, as the token's note now says."
+    },
+    {
+      "ref": "6:5",
+      "path": "token:6:5.9.gloss",
+      "value": "inclination of",
+      "severity": "style",
+      "reason": "The gloss should give the sense in context, as the English line does; 'formation' is the etymology, which the note keeps."
+    },
+    {
+      "ref": "6:5",
+      "path": "token:6:5.9.note",
+      "value": "from יצר 'to form, shape': here the shaping of the mind, 'inclination, purpose'; construct state. The entry lists only the sense 'pottery', which does not fit, so no sense is given.",
+      "severity": "error",
+      "reason": "The note must say why the sense is removed."
+    },
+    {
+      "ref": "6:5",
+      "path": "token:6:5.13.sense",
+      "value": "10",
+      "severity": "error",
+      "reason": "רַק רַע is ethical evil ('bad, evil, wicked', 10), not 'evil, displeasing' (3), which is what is bad in someone's eyes."
+    },
+    {
+      "ref": "6:6",
+      "path": "commentary:rashi:6:6:1",
+      "value": {
+        "relation": "records",
+        "summary": "Rashi: נֶחָמָה here is consolation: it was a comfort before God that he had created man among the lower beings, for had he been one of the upper beings he would have led them to rebel. On this reading וַיִּנָּחֶם means 'was consoled', not 'regretted'; the English follows Ibn Ezra's 'regretted' (in human language) and keeps this reading here."
+      },
+      "severity": "error",
+      "reason": "The summary renders נֶחָמָה as 'regret'; Rashi's word means consolation, so the comment does not support 'regretted' and the relation cannot be 'follows'."
+    },
+    {
+      "ref": "6:6",
+      "path": "commentary:ibn-ezra:6:6:1.summary",
+      "value": "Ibn Ezra: it is known that God is not a man that he should regret (1 Sam 15:29); the Torah speaks in human language, for one who destroys what he has made appears to feel both (regret and grief).",
+      "severity": "error",
+      "reason": "'A destroyer sees both what he made' does not say what the comment says: יֵרָאֶה שְׁנֵיהֶם is that the destroyer of his own work appears to have both feelings."
+    },
+    {
+      "ref": "6:6",
+      "path": "note",
+      "value": "The two verbs speak of God in human terms. Ibn Ezra, Radak and Ramban all say the Torah speaks in human language, so the English keeps the verbs plain ('regretted', 'was grieved'). Rashi reads otherwise: first, וַיִּנָּחֶם as consolation (it comforted God that man was made among the lower beings); then, as a change of thought from mercy to judgment, 'he considered what to do'. Both Rashi readings are recorded. בָּאָרֶץ (on the earth) modifies the making: Radak reads it as made of earth.",
+      "severity": "error",
+      "reason": "The note presented Rashi as supporting 'regretted' with one alternative; Rashi's first reading is consolation and his second a change of thought, neither of them regret."
+    },
+    {
+      "ref": "6:7",
+      "path": "token:6:7.8.sense",
+      "value": "IV.2",
+      "severity": "error",
+      "reason": "מֵעַל is the compound 'from upon' (IV.2), not 'addition' (II.4)."
+    },
+    {
+      "ref": "6:7",
+      "path": "token:6:7.12.sense",
+      "value": "II.3",
+      "severity": "question",
+      "reason": "In the list מֵאָדָם עַד־בְּהֵמָה עַד is inclusive, of degree ('even to'), not temporal 'until' (II.1); II.3 is the nearest sense the pack lists. Proposed fix."
+    },
+    {
+      "ref": "6:7",
+      "path": "token:6:7.14.sense",
+      "value": "II.3",
+      "severity": "question",
+      "reason": "In the list מֵאָדָם עַד־בְּהֵמָה עַד is inclusive, of degree ('even to'), not temporal 'until' (II.1); II.3 is the nearest sense the pack lists. Proposed fix."
+    },
+    {
+      "ref": "6:7",
+      "path": "token:6:7.16.sense",
+      "value": "II.3",
+      "severity": "question",
+      "reason": "In the list מֵאָדָם עַד־בְּהֵמָה עַד is inclusive, of degree ('even to'), not temporal 'until' (II.1); II.3 is the nearest sense the pack lists. Proposed fix."
+    }
+  ],
+  "verdicts": [
+    {
+      "anchor": "rashi:6:6:1",
+      "verdict": "contradicts",
+      "comment": "Rashi reads וַיִּנָּחֶם as 'was consoled'; Ibn Ezra (normative) reads it as regret in human language, so the English stands following him, and Rashi's reading is now recorded."
+    },
+    {
+      "anchor": "rashi:6:6:2",
+      "verdict": "contradicts",
+      "comment": "Rashi's readings (after Onkelos: God resolved to grieve man; or God's thought turned to judgment) differ from 'regretted ... was grieved'; the English follows Ibn Ezra and Rashi's own next comment (he mourned), and this one is recorded."
+    },
+    {
+      "anchor": "rashi:6:6:3",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:6:6:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:6:6:2",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:6:7:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "rashi:6:7:2",
+      "verdict": "not-applicable",
+      "comment": "The reasons for destroying the animals do not bear on the English words."
+    },
+    {
+      "anchor": "rashi:6:7:3",
+      "verdict": "contradicts",
+      "comment": "Rashi reads נִחַמְתִּי as 'I have considered what to do'; Ibn Ezra on 6:6 takes the verb as regret in human language, so 'I regret' stands, with Rashi recorded."
+    },
+    {
+      "anchor": "ibn-ezra:6:7:1",
+      "verdict": "consistent",
+      "comment": "The bare 'said' leaves room for Ibn Ezra's inward speech."
+    },
+    {
+      "anchor": "ibn-ezra:6:8:1",
+      "verdict": "consistent"
+    }
+  ]
+}

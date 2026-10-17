@@ -1,0 +1,739 @@
+{
+ "unit": "noach-16",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "10:21",
+   "english": "Children were born also to Shem, the father of all the sons of Eber and the brother of Japheth the elder.",
+   "literal": "and-to-Shem was-born also he father-of all sons-of Eber brother-of Japheth the-elder",
+   "tokens": [
+    {
+     "id": "10:21.1",
+     "gloss": "and to Shem",
+     "lex": "bdb:v.dv.ac",
+     "note": "ל marks the one to whom a child is born; Shem is a proper name here"
+    },
+    {
+     "id": "10:21.2",
+     "gloss": "was born",
+     "sense": "Pu",
+     "note": "Pual perfect, impersonal singular: 'it was born to Shem'; Radak: said in a general way, as in 10:25"
+    },
+    {
+     "id": "10:21.3",
+     "gloss": "also"
+    },
+    {
+     "id": "10:21.4",
+     "gloss": "he",
+     "sense": "1",
+     "note": "the pronoun resumes Shem and stresses that he too had descendants"
+    },
+    {
+     "id": "10:21.5",
+     "gloss": "father of",
+     "sense": "2",
+     "note": "construct state; 'father' of a people"
+    },
+    {
+     "id": "10:21.6",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "10:21.7",
+     "gloss": "sons of",
+     "sense": "1",
+     "note": "construct plural"
+    },
+    {
+     "id": "10:21.8",
+     "gloss": "Eber",
+     "note": "proper name; the ancestor of the Hebrews (עברים)"
+    },
+    {
+     "id": "10:21.9",
+     "gloss": "brother of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "10:21.10",
+     "gloss": "Japheth"
+    },
+    {
+     "id": "10:21.11",
+     "gloss": "the elder",
+     "note": "adjective with article; it can modify Japheth or Shem"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:21.1",
+      "10:21.2",
+      "10:21.3",
+      "10:21.4"
+     ],
+     "english": "Children were born also to Shem",
+     "literal": "'and-to-Shem was-born also he'; the impersonal Pual is rendered as a plural to give the sense that sons were born"
+    },
+    {
+     "tokens": [
+      "10:21.5",
+      "10:21.6",
+      "10:21.7",
+      "10:21.8"
+     ],
+     "english": "the father of all the sons of Eber",
+     "literal": "'father-of all sons-of Eber'"
+    },
+    {
+     "tokens": [
+      "10:21.9",
+      "10:21.10",
+      "10:21.11"
+     ],
+     "english": "and the brother of Japheth the elder",
+     "literal": "'brother-of Japheth the-elder'; הגדול is read with Japheth (Rashi, Ibn Ezra)"
+    }
+   ],
+   "grammar": [
+    "יֻלַּד is a Pual perfect 3ms with no stated subject; Radak says it is general, 'children were born'.",
+    "גַּם־הוּא 'he also': the line resumes Shem after the sons of Ham and Japheth have been listed (Ramban).",
+    "אֲבִי כָּל־בְּנֵי־עֵבֶר is a construct chain of three nouns.",
+    "הַגָּדוֹל after Japheth is ambiguous in the Hebrew: it can describe Japheth or Shem.",
+    "The pashta on אֲבִי and the zaqef on עֵבֶר divide the verse into short clauses; silluq closes on הַגָּדוֹל."
+   ],
+   "note": "Rashi and Ibn Ezra both take 'the elder' to describe Japheth (Noah was five hundred when he began to beget and Shem was a hundred two years after the flood), so the English follows them. Ramban and Radak allow it to describe Shem; recorded in the apparatus. Eber is taken as the personal name, so 'sons of Eber' are his descendants. The pack gives sense Pu for יֻלַּד and no sense fits גָּדוֹל here ('elder' in age), so none is given.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:21:1",
+     "relation": "records",
+     "summary": "Rashi's gloss is a single clause, the text of which reads 'the river was Shem'. It appears to tie 'sons of Eber' to a region ('across the river'). The English takes Eber as a person, as Ibn Ezra does."
+    },
+    {
+     "anchor": "rashi:10:21:2",
+     "relation": "follows",
+     "summary": "Rashi: I do not know whether 'the elder' is Japheth or Shem. Since Shem was a hundred years old two years after the flood and Noah was five hundred at the first birth, the eldest son was a hundred at the flood, so 'the elder' is Japheth."
+    },
+    {
+     "anchor": "rashi:10:21:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'brother of Japheth' and not 'brother of Ham', because those two honored their father and Ham shamed him. This explains the choice of name, not the sense of the words."
+    },
+    {
+     "anchor": "ibn-ezra:10:21:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'father of all the sons of Eber' tells us that Shem is the father of the Hebrews, with no one above him, and Canaan the father of those with none below him; holy and profane should not be mixed. Eber is a person."
+    },
+    {
+     "anchor": "ibn-ezra:10:21:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Japheth is the elder, and Scripture names Shem first out of respect. He shows the dates and records the view that Shem is the older."
+    },
+    {
+     "anchor": "ramban:10:21:4",
+     "relation": "records",
+     "summary": "Ramban prefers 'the elder' as describing Shem, the elder brother of Japheth, since Ham is the youngest though listed first."
+    }
+   ],
+   "apparatus": [
+    "הַגָּדוֹל: Japheth the elder (Rashi, Ibn Ezra, most commentators) or Shem the elder brother of Japheth (Ramban, Radak, some in Ibn Ezra).",
+    "Onkelos: וּלְשֵׁם אִתְיְלִיד אַף הוּא ... אֲחוּהִי דְיֶפֶת רַבָּא, with the same ambiguity."
+   ]
+  },
+  {
+   "ref": "10:22",
+   "english": "The sons of Shem: Elam, Asshur, Arphaxad, Lud and Aram.",
+   "literal": "sons-of Shem Elam and-Asshur and-Arphaxad and-Lud and-Aram",
+   "tokens": [
+    {
+     "id": "10:22.1",
+     "gloss": "sons of",
+     "sense": "1"
+    },
+    {
+     "id": "10:22.2",
+     "gloss": "Shem",
+     "lex": "bdb:v.dv.ac"
+    },
+    {
+     "id": "10:22.3",
+     "gloss": "Elam"
+    },
+    {
+     "id": "10:22.4",
+     "gloss": "and Asshur"
+    },
+    {
+     "id": "10:22.5",
+     "gloss": "and Arphaxad"
+    },
+    {
+     "id": "10:22.6",
+     "gloss": "and Lud"
+    },
+    {
+     "id": "10:22.7",
+     "gloss": "and Aram"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:22.1",
+      "10:22.2"
+     ],
+     "english": "The sons of Shem",
+     "literal": "'sons-of Shem'"
+    },
+    {
+     "tokens": [
+      "10:22.3",
+      "10:22.4",
+      "10:22.5",
+      "10:22.6",
+      "10:22.7"
+     ],
+     "english": "Elam, Asshur, Arphaxad, Lud and Aram",
+     "literal": "a list of five names; ו joins the last four"
+    }
+   ],
+   "grammar": [
+    "A verbless list: the construct בְּנֵי governs שֵׁם, and the five names stand in apposition.",
+    "The etnaḥta on אַשּׁוּר sets Elam and Asshur apart from the other three."
+   ],
+   "note": "Names are given in their usual English forms.",
+   "commentary": [
+    {
+     "anchor": "sforno:10:21:3",
+     "relation": "not-applicable",
+     "summary": "Sforno: Shem too was the father and teacher of all the sons of Eber; a teacher is called 'father' and his pupils 'sons'."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "10:23",
+   "english": "The sons of Aram: Uz, Hul, Gether and Mash.",
+   "literal": "and-sons-of Aram Uz and-Hul and-Gether and-Mash",
+   "tokens": [
+    {
+     "id": "10:23.1",
+     "gloss": "and sons of",
+     "sense": "1"
+    },
+    {
+     "id": "10:23.2",
+     "gloss": "Aram"
+    },
+    {
+     "id": "10:23.3",
+     "gloss": "Uz"
+    },
+    {
+     "id": "10:23.4",
+     "gloss": "and Hul"
+    },
+    {
+     "id": "10:23.5",
+     "gloss": "and Gether"
+    },
+    {
+     "id": "10:23.6",
+     "gloss": "and Mash"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:23.1",
+      "10:23.2"
+     ],
+     "english": "The sons of Aram",
+     "literal": "'and-sons-of Aram'; the opening ו is not translated"
+    },
+    {
+     "tokens": [
+      "10:23.3",
+      "10:23.4",
+      "10:23.5",
+      "10:23.6"
+     ],
+     "english": "Uz, Hul, Gether and Mash",
+     "literal": "list of four names"
+    }
+   ],
+   "grammar": [
+    "The opening ו continues the genealogy and is not translated.",
+    "The etnaḥta on אֲרָם separates the head of the family from the list."
+   ],
+   "note": "Radak notes that the line begins with the youngest son, Aram, because it ends with him, and that 1 Chronicles 1:17 has מֶשֶׁךְ for מַשׁ.",
+   "commentary": [
+    {
+     "anchor": "radak:10:23:1",
+     "relation": "not-applicable",
+     "summary": "Radak: Aram is listed first because he is the youngest and the list ends with him. The other sons are left without descendants as unneeded."
+    }
+   ],
+   "apparatus": [
+    "מַשׁ here; מֶשֶׁךְ in 1 Chronicles 1:17 (cited by Radak)."
+   ]
+  },
+  {
+   "ref": "10:24",
+   "english": "Arphaxad fathered Shelah, and Shelah fathered Eber.",
+   "literal": "and-Arphaxad begot [object-mark] Shelah and-Shelah begot [object-mark] Eber",
+   "tokens": [
+    {
+     "id": "10:24.1",
+     "gloss": "and Arphaxad"
+    },
+    {
+     "id": "10:24.2",
+     "gloss": "fathered",
+     "sense": "Qal 2",
+     "note": "Qal perfect; with a male subject and an object, 'beget'"
+    },
+    {
+     "id": "10:24.3",
+     "gloss": "-"
+    },
+    {
+     "id": "10:24.4",
+     "gloss": "Shelah"
+    },
+    {
+     "id": "10:24.5",
+     "gloss": "and Shelah"
+    },
+    {
+     "id": "10:24.6",
+     "gloss": "fathered",
+     "sense": "Qal 2",
+     "note": "Qal perfect"
+    },
+    {
+     "id": "10:24.7",
+     "gloss": "-"
+    },
+    {
+     "id": "10:24.8",
+     "gloss": "Eber",
+     "note": "pausal form with silluq"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:24.1",
+      "10:24.2",
+      "10:24.3",
+      "10:24.4"
+     ],
+     "english": "Arphaxad fathered Shelah",
+     "literal": "'and-Arphaxad begot [object] Shelah'; the opening ו is not translated"
+    },
+    {
+     "tokens": [
+      "10:24.5",
+      "10:24.6",
+      "10:24.7",
+      "10:24.8"
+     ],
+     "english": "and Shelah fathered Eber",
+     "literal": "'and-Shelah begot [object] Eber'"
+    }
+   ],
+   "grammar": [
+    "The object marker אֶת־ introduces the definite name that is the object.",
+    "Both clauses have the order subject–verb–object, unlike the usual verb-first narrative.",
+    "The etnaḥta on שָׁלַח closes the first clause."
+   ],
+   "note": "The Hebrew שֶׁלַח is rendered Shelah, the familiar form.",
+   "commentary": [
+    {
+     "anchor": "sforno:10:25:2",
+     "relation": "not-applicable",
+     "summary": "Sforno: Eber, by the holy spirit, foresaw what would happen in his son's day and named him Peleg; human lifespans shortened from Peleg on because of the sin of the generation of the dispersion."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "10:25",
+   "english": "To Eber were born two sons. The name of the one was Peleg, for in his days the earth was divided, and the name of his brother was Joktan.",
+   "literal": "and-to-Eber was-born two sons name-of the-one Peleg for in-days-his was-divided the-earth and-name-of brother-his Joktan",
+   "tokens": [
+    {
+     "id": "10:25.1",
+     "gloss": "and to Eber"
+    },
+    {
+     "id": "10:25.2",
+     "gloss": "was born",
+     "sense": "Pu",
+     "note": "Pual perfect, impersonal: 'it was born to Eber'"
+    },
+    {
+     "id": "10:25.3",
+     "gloss": "two of"
+    },
+    {
+     "id": "10:25.4",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "10:25.5",
+     "gloss": "the name of",
+     "sense": "3",
+     "lex": "bdb:v.dv.ab",
+     "note": "construct state"
+    },
+    {
+     "id": "10:25.6",
+     "gloss": "the one",
+     "sense": "6"
+    },
+    {
+     "id": "10:25.7",
+     "gloss": "Peleg",
+     "note": "from פלג 'divide'"
+    },
+    {
+     "id": "10:25.8",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "10:25.9",
+     "gloss": "in his days",
+     "sense": "4",
+     "note": "plural construct with suffix"
+    },
+    {
+     "id": "10:25.10",
+     "gloss": "was divided",
+     "sense": "Niph",
+     "note": "Niphal perfect 3fs; the earth is feminine here"
+    },
+    {
+     "id": "10:25.11",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "10:25.12",
+     "gloss": "and the name of",
+     "sense": "3",
+     "lex": "bdb:v.dv.ab"
+    },
+    {
+     "id": "10:25.13",
+     "gloss": "his brother",
+     "sense": "1"
+    },
+    {
+     "id": "10:25.14",
+     "gloss": "Joktan",
+     "note": "'small'; the text gives no reason for the name"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:25.1",
+      "10:25.2",
+      "10:25.3",
+      "10:25.4"
+     ],
+     "english": "To Eber were born two sons",
+     "literal": "'and-to-Eber was-born two sons'"
+    },
+    {
+     "tokens": [
+      "10:25.5",
+      "10:25.6",
+      "10:25.7"
+     ],
+     "english": "The name of the one was Peleg",
+     "literal": "'name-of the-one Peleg'"
+    },
+    {
+     "tokens": [
+      "10:25.8",
+      "10:25.9",
+      "10:25.10",
+      "10:25.11"
+     ],
+     "english": "for in his days the earth was divided",
+     "literal": "'for in-days-his was-divided the-earth'; Rashi: the languages were confused and the peoples scattered"
+    },
+    {
+     "tokens": [
+      "10:25.12",
+      "10:25.13",
+      "10:25.14"
+     ],
+     "english": "and the name of his brother was Joktan",
+     "literal": "'and-name-of brother-his Joktan'"
+    }
+   ],
+   "grammar": [
+    "The Pual יֻלַּד again has no subject: 'to Eber were born two sons'.",
+    "פֶּלֶג and נִפְלְגָה share the root פלג: a wordplay in the explanation of the name.",
+    "The accents mark שֵׁם הָאֶחָד פֶּלֶג off from the 'for' clause.",
+    "שֵׁם אָחִיו has no verb; the nominal clause runs on from the previous one."
+   ],
+   "note": "Rashi and Radak take 'the earth was divided' as the dispersion of the peoples after the Tower of Babel; Radak also allows it to refer to the shortening of lifespans. The English keeps the plain verb.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:25:1",
+     "relation": "follows",
+     "summary": "Rashi: the languages were confused and the people scattered from the valley and divided over the whole world. Eber was a prophet who named his son for the future; the division fell at the end of Eber's days, in the year Peleg died."
+    },
+    {
+     "anchor": "rashi:10:25:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: Joktan was humble and made himself small, so he merited to raise all these families. This is a homily on the name."
+    },
+    {
+     "anchor": "radak:10:25:4",
+     "relation": "records",
+     "summary": "Radak: when Peleg was born the people were preparing for the dispersion, so he named him Peleg."
+    },
+    {
+     "anchor": "radak:10:25:5",
+     "relation": "records",
+     "summary": "Radak: no reason is given for Joktan; some say lifespans shrank from then, so the name means the smallness of years."
+    }
+   ],
+   "apparatus": [
+    "נִפְלְגָה: dispersion of peoples (Rashi) or a division of the earth or of lifespans (Radak, Sforno)."
+   ]
+  },
+  {
+   "ref": "10:26",
+   "english": "Joktan fathered Almodad, Sheleph, Hazarmaveth and Jerah.",
+   "literal": "and-Joktan begot [object-mark] Almodad and [object-mark] Sheleph and [object-mark] Hazarmaveth and [object-mark] Jerah",
+   "tokens": [
+    {
+     "id": "10:26.1",
+     "gloss": "and Joktan"
+    },
+    {
+     "id": "10:26.2",
+     "gloss": "fathered",
+     "sense": "Qal 2"
+    },
+    {
+     "id": "10:26.3",
+     "gloss": "-"
+    },
+    {
+     "id": "10:26.4",
+     "gloss": "Almodad"
+    },
+    {
+     "id": "10:26.5",
+     "gloss": "and -"
+    },
+    {
+     "id": "10:26.6",
+     "gloss": "Sheleph"
+    },
+    {
+     "id": "10:26.7",
+     "gloss": "and -"
+    },
+    {
+     "id": "10:26.8",
+     "gloss": "Hazarmaveth",
+     "note": "a single word"
+    },
+    {
+     "id": "10:26.9",
+     "gloss": "and -"
+    },
+    {
+     "id": "10:26.10",
+     "gloss": "Jerah",
+     "note": "pausal form"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:26.1",
+      "10:26.2",
+      "10:26.3",
+      "10:26.4"
+     ],
+     "english": "Joktan fathered Almodad",
+     "literal": "'and-Joktan begot [object] Almodad'"
+    },
+    {
+     "tokens": [
+      "10:26.5",
+      "10:26.6",
+      "10:26.7",
+      "10:26.8",
+      "10:26.9",
+      "10:26.10"
+     ],
+     "english": "Sheleph, Hazarmaveth and Jerah",
+     "literal": "'and-[object] Sheleph and-[object] Hazarmaveth and-[object] Jerah'"
+    }
+   ],
+   "grammar": [
+    "The object marker is repeated before each name in the list.",
+    "Hazarmaveth is one word, as Radak notes.",
+    "The zaqef on יָלַד divides the verb from its list of objects."
+   ],
+   "note": "The repeated ו and אֶת־ are not translated word for word.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:26:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: Hazarmaveth is named for his place; the explanation is aggadic (Genesis Rabbah)."
+    },
+    {
+     "anchor": "radak:10:26:1",
+     "relation": "follows",
+     "summary": "Radak: Hazarmaveth is one word."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "10:27",
+   "english": "Hadoram, Uzal and Diklah,",
+   "literal": "and-[object-mark] Hadoram and-[object-mark] Uzal and-[object-mark] Diklah",
+   "tokens": [
+    {
+     "id": "10:27.1",
+     "gloss": "and -"
+    },
+    {
+     "id": "10:27.2",
+     "gloss": "Hadoram"
+    },
+    {
+     "id": "10:27.3",
+     "gloss": "and -"
+    },
+    {
+     "id": "10:27.4",
+     "gloss": "Uzal"
+    },
+    {
+     "id": "10:27.5",
+     "gloss": "and -"
+    },
+    {
+     "id": "10:27.6",
+     "gloss": "Diklah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:27.1",
+      "10:27.2"
+     ],
+     "english": "Hadoram",
+     "literal": "'and-[object] Hadoram'; the verb is in 10:26"
+    },
+    {
+     "tokens": [
+      "10:27.3",
+      "10:27.4"
+     ],
+     "english": "Uzal",
+     "literal": "'and-[object] Uzal'"
+    },
+    {
+     "tokens": [
+      "10:27.5",
+      "10:27.6"
+     ],
+     "english": "and Diklah",
+     "literal": "'and-[object] Diklah'"
+    }
+   ],
+   "grammar": [
+    "The verse has no verb; the objects continue from יָלַד in 10:26.",
+    "The verse begins with וְאֶת־ and ends with silluq on Diklah."
+   ],
+   "note": "The English ends with a comma because the list runs into the next verse.",
+   "commentary": [],
+   "apparatus": []
+  },
+  {
+   "ref": "10:28",
+   "english": "Obal, Abimael and Sheba,",
+   "literal": "and-[object-mark] Obal and-[object-mark] Abimael and-[object-mark] Sheba",
+   "tokens": [
+    {
+     "id": "10:28.1",
+     "gloss": "and -"
+    },
+    {
+     "id": "10:28.2",
+     "gloss": "Obal"
+    },
+    {
+     "id": "10:28.3",
+     "gloss": "and -"
+    },
+    {
+     "id": "10:28.4",
+     "gloss": "Abimael"
+    },
+    {
+     "id": "10:28.5",
+     "gloss": "and -"
+    },
+    {
+     "id": "10:28.6",
+     "gloss": "Sheba"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:28.1",
+      "10:28.2"
+     ],
+     "english": "Obal",
+     "literal": "'and-[object] Obal'"
+    },
+    {
+     "tokens": [
+      "10:28.3",
+      "10:28.4"
+     ],
+     "english": "Abimael",
+     "literal": "'and-[object] Abimael'"
+    },
+    {
+     "tokens": [
+      "10:28.5",
+      "10:28.6"
+     ],
+     "english": "and Sheba",
+     "literal": "'and-[object] Sheba'"
+    }
+   ],
+   "grammar": [
+    "The verse has no verb; the objects continue from יָלַד in 10:26.",
+    "The name אֲבִימָאֵל means 'my father is God' or 'a father is El'."
+   ],
+   "note": "The list of Joktan's sons continues in the next verse.",
+   "commentary": [],
+   "apparatus": []
+  }
+ ]
+}

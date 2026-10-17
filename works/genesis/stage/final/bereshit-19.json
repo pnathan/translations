@@ -1,0 +1,760 @@
+{
+ "unit": "bereshit-19",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "5:18",
+   "english": "Jared lived one hundred and sixty-two years, and fathered Enoch.",
+   "literal": "and-lived Jared two and-sixty year and-hundred-of year and-begot [object-marker] Enoch",
+   "tokens": [
+    {
+     "id": "5:18.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: the sequential past of narrative"
+    },
+    {
+     "id": "5:18.2",
+     "gloss": "Jared"
+    },
+    {
+     "id": "5:18.3",
+     "gloss": "two"
+    },
+    {
+     "id": "5:18.4",
+     "gloss": "and sixty"
+    },
+    {
+     "id": "5:18.5",
+     "gloss": "years"
+    },
+    {
+     "id": "5:18.6",
+     "gloss": "and a hundred",
+     "note": "construct state of מֵאָה, 'hundred of'"
+    },
+    {
+     "id": "5:18.7",
+     "gloss": "years"
+    },
+    {
+     "id": "5:18.8",
+     "gloss": "and fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil of ילד: the man 'causes to bear', i.e. begets"
+    },
+    {
+     "id": "5:18.9",
+     "gloss": "-",
+     "note": "object marker, no English counterpart"
+    },
+    {
+     "id": "5:18.10",
+     "gloss": "Enoch"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:18.1",
+      "5:18.2"
+     ],
+     "english": "Jared lived",
+     "literal": "'and-lived Jared'; wayyiqtol opens the entry"
+    },
+    {
+     "tokens": [
+      "5:18.3",
+      "5:18.4",
+      "5:18.5",
+      "5:18.6",
+      "5:18.7"
+     ],
+     "english": "one hundred and sixty-two years",
+     "literal": "'two and-sixty year and-hundred-of year'; units, tens, then hundreds, each followed by the noun"
+    },
+    {
+     "tokens": [
+      "5:18.8",
+      "5:18.9",
+      "5:18.10"
+     ],
+     "english": "and fathered Enoch",
+     "literal": "'and-begot [obj] Enoch'"
+    }
+   ],
+   "grammar": [
+    "The numeral is built units first: שְׁתַּיִם וְשִׁשִּׁים שָׁנָה וּמְאַת שָׁנָה, 'two and sixty years and a hundred years'.",
+    "וַיּוֹלֶד is Hifil wayyiqtol of ילד; the Hifil is the regular verb for a father's begetting.",
+    "The etnaḥta on שָׁנָה (second) divides the verse between the age and the birth."
+   ],
+   "note": "Standard formulaic verse of the Adam genealogy; the age is the age at the birth of the named son.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:18:1",
+     "relation": "not-applicable",
+     "summary": "Targum Onkelos renders the verse in Aramaic with the same figures (מְאָה וְשִׁתִּין וְתַרְתֵּין) and no interpretation."
+    }
+   ]
+  },
+  {
+   "ref": "5:19",
+   "english": "Jared lived, after he fathered Enoch, for eight hundred years, and he fathered sons and daughters.",
+   "literal": "and-lived Jared after begetting-him [object-marker] Enoch eight hundreds year and-begot sons and-daughters",
+   "tokens": [
+    {
+     "id": "5:19.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: the sequential past of narrative"
+    },
+    {
+     "id": "5:19.2",
+     "gloss": "Jared"
+    },
+    {
+     "id": "5:19.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "5:19.4",
+     "gloss": "he fathered",
+     "sense": "Hiph 1",
+     "note": "infinitive construct with 3rd masculine singular suffix: 'his begetting', i.e. 'when he fathered'"
+    },
+    {
+     "id": "5:19.5",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "5:19.6",
+     "gloss": "Enoch"
+    },
+    {
+     "id": "5:19.7",
+     "gloss": "eight"
+    },
+    {
+     "id": "5:19.8",
+     "gloss": "hundred"
+    },
+    {
+     "id": "5:19.9",
+     "gloss": "years"
+    },
+    {
+     "id": "5:19.10",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol: the sequential past of narrative"
+    },
+    {
+     "id": "5:19.11",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "5:19.12",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:19.1",
+      "5:19.2"
+     ],
+     "english": "Jared lived",
+     "literal": "'and-lived Jared'"
+    },
+    {
+     "tokens": [
+      "5:19.3",
+      "5:19.4",
+      "5:19.5",
+      "5:19.6"
+     ],
+     "english": "after he fathered Enoch",
+     "literal": "'after begetting-him Enoch'; infinitive with suffix expresses the temporal clause"
+    },
+    {
+     "tokens": [
+      "5:19.7",
+      "5:19.8",
+      "5:19.9"
+     ],
+     "english": "for eight hundred years",
+     "literal": "'eight hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:19.10",
+      "5:19.11",
+      "5:19.12"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-begot sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "אַחֲרֵי הוֹלִידוֹ is a preposition plus infinitive construct with suffix: 'after his fathering'.",
+    "שְׁמֹנֶה מֵאוֹת: 'eight hundreds', the feminine numeral with the plural of מֵאָה.",
+    "The revia on יֶרֶד and the zaqef qaton on חֲנוֹךְ mark off the time clause אַחֲרֵי הוֹלִידוֹ אֶת־חֲנוֹךְ (the pashta on אַחֲרֵי is a minor division inside it); the etnaḥta on שָׁנָה closes the first half."
+   ],
+   "note": "The English keeps the Hebrew order of clauses by setting the time clause between commas.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:19:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos renders literally (תַּמְנֵי מְאָה שְׁנִין, בְּנִין וּבְנָן)."
+    }
+   ]
+  },
+  {
+   "ref": "5:20",
+   "english": "All the days of Jared were nine hundred and sixty-two years, and he died.",
+   "literal": "and-were all-of days-of Jared two and-sixty year and-nine hundreds year and-died",
+   "tokens": [
+    {
+     "id": "5:20.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol: the sequential past of narrative of היה"
+    },
+    {
+     "id": "5:20.2",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "5:20.3",
+     "gloss": "days of",
+     "sense": "4",
+     "note": "construct plural of יוֹם"
+    },
+    {
+     "id": "5:20.4",
+     "gloss": "Jared"
+    },
+    {
+     "id": "5:20.5",
+     "gloss": "two"
+    },
+    {
+     "id": "5:20.6",
+     "gloss": "and sixty"
+    },
+    {
+     "id": "5:20.7",
+     "gloss": "years"
+    },
+    {
+     "id": "5:20.8",
+     "gloss": "and nine"
+    },
+    {
+     "id": "5:20.9",
+     "gloss": "hundred"
+    },
+    {
+     "id": "5:20.10",
+     "gloss": "years"
+    },
+    {
+     "id": "5:20.11",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: the sequential past of narrative; short form וַיָּמֹת"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:20.1",
+      "5:20.2",
+      "5:20.3",
+      "5:20.4"
+     ],
+     "english": "all the days of Jared were",
+     "literal": "'and-were all-of days-of Jared'; the construct chain כָּל־יְמֵי־יֶרֶד"
+    },
+    {
+     "tokens": [
+      "5:20.5",
+      "5:20.6",
+      "5:20.7",
+      "5:20.8",
+      "5:20.9",
+      "5:20.10"
+     ],
+     "english": "nine hundred and sixty-two years",
+     "literal": "'two and-sixty year and-nine hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:20.11"
+     ],
+     "english": "and he died",
+     "literal": "'and-died'"
+    }
+   ],
+   "grammar": [
+    "כָּל־יְמֵי־יֶרֶד is a construct chain: 'all the days of Jared', joined by maqqef.",
+    "וַיִּהְיוּ is plural because the subject is 'days'.",
+    "וַיָּמֹת is the jussive-shaped wayyiqtol of מות; the paragraph mark (ס) closes the entry."
+   ],
+   "note": "The lifespan is 962; the figures are given as 'two and sixty ... and nine hundreds'.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:20:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos reproduces the figures (תְּשַׁע מְאָה וְשִׁתִּין וְתַרְתֵּין) and וּמִית."
+    }
+   ]
+  },
+  {
+   "ref": "5:21",
+   "english": "Enoch lived sixty-five years, and fathered Methuselah.",
+   "literal": "and-lived Enoch five and-sixty year and-begot [object-marker] Methuselah",
+   "tokens": [
+    {
+     "id": "5:21.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: the sequential past of narrative"
+    },
+    {
+     "id": "5:21.2",
+     "gloss": "Enoch"
+    },
+    {
+     "id": "5:21.3",
+     "gloss": "five"
+    },
+    {
+     "id": "5:21.4",
+     "gloss": "and sixty"
+    },
+    {
+     "id": "5:21.5",
+     "gloss": "years"
+    },
+    {
+     "id": "5:21.6",
+     "gloss": "and fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol: the sequential past of narrative"
+    },
+    {
+     "id": "5:21.7",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "5:21.8",
+     "gloss": "Methuselah",
+     "note": "pausal form under silluq: qamets in מְתוּשָׁלַח where 5:22 has segol (מְתוּשֶׁלַח); the lexicon glosses the name 'man of the dart'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:21.1",
+      "5:21.2"
+     ],
+     "english": "Enoch lived",
+     "literal": "'and-lived Enoch'"
+    },
+    {
+     "tokens": [
+      "5:21.3",
+      "5:21.4",
+      "5:21.5"
+     ],
+     "english": "sixty-five years",
+     "literal": "'five and-sixty year'"
+    },
+    {
+     "tokens": [
+      "5:21.6",
+      "5:21.7",
+      "5:21.8"
+     ],
+     "english": "and fathered Methuselah",
+     "literal": "'and-begot [obj] Methuselah'"
+    }
+   ],
+   "grammar": [
+    "The number sixty-five is given units first: חָמֵשׁ וְשִׁשִּׁים.",
+    "Enoch's entry starts like the others but is followed in 5:22 by a break in the formula.",
+    "The etnaḥta on שָׁנָה divides age from birth."
+   ],
+   "note": "Enoch fathers his son at sixty-five, the youngest age in the chapter, shared with Mahalalel (5:15); see the commentary at 5:22 and 5:24.",
+   "commentary": null
+  },
+  {
+   "ref": "5:22",
+   "english": "Enoch walked with God, after he fathered Methuselah, for three hundred years, and he fathered sons and daughters.",
+   "literal": "and-walked Enoch with the-God after begetting-him [object-marker] Methuselah three hundreds year and-begot sons and-daughters",
+   "tokens": [
+    {
+     "id": "5:22.1",
+     "gloss": "and walked",
+     "sense": "Hithp",
+     "note": "Hitpael wayyiqtol: habitual, continuing walking; the formula 'lived' is replaced"
+    },
+    {
+     "id": "5:22.2",
+     "gloss": "Enoch"
+    },
+    {
+     "id": "5:22.3",
+     "gloss": "with",
+     "sense": "1",
+     "note": "the preposition אֵת 'with', not the object marker; same spelling"
+    },
+    {
+     "id": "5:22.4",
+     "gloss": "God",
+     "sense": "3",
+     "note": "with the article: הָאֱלֹהִים, 'the God'; plural form with singular sense"
+    },
+    {
+     "id": "5:22.5",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "5:22.6",
+     "gloss": "he fathered",
+     "sense": "Hiph 1",
+     "note": "infinitive construct with suffix"
+    },
+    {
+     "id": "5:22.7",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "5:22.8",
+     "gloss": "Methuselah"
+    },
+    {
+     "id": "5:22.9",
+     "gloss": "three"
+    },
+    {
+     "id": "5:22.10",
+     "gloss": "hundred"
+    },
+    {
+     "id": "5:22.11",
+     "gloss": "years"
+    },
+    {
+     "id": "5:22.12",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol: the sequential past of narrative"
+    },
+    {
+     "id": "5:22.13",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "5:22.14",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:22.1",
+      "5:22.2",
+      "5:22.3",
+      "5:22.4"
+     ],
+     "english": "Enoch walked with God",
+     "literal": "'and-walked Enoch with the-God'"
+    },
+    {
+     "tokens": [
+      "5:22.5",
+      "5:22.6",
+      "5:22.7",
+      "5:22.8"
+     ],
+     "english": "after he fathered Methuselah",
+     "literal": "'after begetting-him Methuselah'"
+    },
+    {
+     "tokens": [
+      "5:22.9",
+      "5:22.10",
+      "5:22.11"
+     ],
+     "english": "for three hundred years",
+     "literal": "'three hundreds year'"
+    },
+    {
+     "tokens": [
+      "5:22.12",
+      "5:22.13",
+      "5:22.14"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-begot sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "וַיִּתְהַלֵּךְ is Hitpael: 'walked about, walked habitually', here of a way of life.",
+    "אֶת־הָאֱלֹהִים: אֶת here is the preposition 'with', so 'walked with God', not an object marker.",
+    "The formula 'and he lived' is replaced by 'and he walked with God': the change marks Enoch.",
+    "The three hundred years run from the birth of Methuselah, not from Enoch's birth."
+   ],
+   "note": "Ibn Ezra reads the walking as following God, like 'you shall walk after the LORD your God' (Deut 13:5); 'with God' keeps the preposition's plain sense. Radak, who is not normative, dates the beginning of Enoch's devotion to the sixty-fifth year.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:5:22:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra says 'he walked with God' has the sense of 'after the LORD your God you shall walk' (Deut 13:5), and compares Noah, 'with God Noah walked' (6:9), noting that some take 'Noah walked' as 'was accustomed'. The English 'walked with God' takes it as a way of life."
+    },
+    {
+     "anchor": "onkelos:5:22:1",
+     "relation": "records",
+     "summary": "Onkelos: 'Enoch walked in the fear of the LORD' (וְהַלִּיךְ חֲנוֹךְ בְּדַחַלְתָּא דַּיְיָ); a paraphrase that the English does not adopt but that agrees in sense."
+    },
+    {
+     "anchor": "sforno:5:22:1",
+     "relation": "records",
+     "summary": "Sforno: he walked in God's ways, doing good to others by righteousness and by reproof; a further specification not in the text."
+    }
+   ]
+  },
+  {
+   "ref": "5:23",
+   "english": "All the days of Enoch were three hundred and sixty-five years.",
+   "literal": "and-were all-of days-of Enoch five and-sixty year and-three hundreds year",
+   "tokens": [
+    {
+     "id": "5:23.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol: the sequential past of narrative of היה, singular though its subject 'days' is plural"
+    },
+    {
+     "id": "5:23.2",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "5:23.3",
+     "gloss": "days of",
+     "sense": "4"
+    },
+    {
+     "id": "5:23.4",
+     "gloss": "Enoch"
+    },
+    {
+     "id": "5:23.5",
+     "gloss": "five"
+    },
+    {
+     "id": "5:23.6",
+     "gloss": "and sixty"
+    },
+    {
+     "id": "5:23.7",
+     "gloss": "years"
+    },
+    {
+     "id": "5:23.8",
+     "gloss": "and three"
+    },
+    {
+     "id": "5:23.9",
+     "gloss": "hundred"
+    },
+    {
+     "id": "5:23.10",
+     "gloss": "years"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:23.1",
+      "5:23.2",
+      "5:23.3",
+      "5:23.4"
+     ],
+     "english": "all the days of Enoch were",
+     "literal": "'and-were all-of days-of Enoch'"
+    },
+    {
+     "tokens": [
+      "5:23.5",
+      "5:23.6",
+      "5:23.7",
+      "5:23.8",
+      "5:23.9",
+      "5:23.10"
+     ],
+     "english": "three hundred and sixty-five years",
+     "literal": "'five and-sixty year and-three hundreds year'"
+    }
+   ],
+   "grammar": [
+    "כָּל־יְמֵי חֲנוֹךְ is a construct chain. The verb וַיְהִי is singular before a plural subject (the verb precedes and agrees with the whole sum).",
+    "Unlike the other entries there is no וַיָּמֹת: the expected 'and he died' is missing.",
+    "The sum, 365, is the shortest in the chapter."
+   ],
+   "note": "The omission of 'and he died' is stated in the notes at 5:24.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:23:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos reproduces the figures (תְּלַת מְאָה וְשִׁתִּין וַחֲמֵשׁ)."
+    }
+   ]
+  },
+  {
+   "ref": "5:24",
+   "english": "Enoch walked with God, and he was no more, for God took him.",
+   "literal": "and-walked Enoch with the-God and-not-he for took [object-marker]-him God",
+   "tokens": [
+    {
+     "id": "5:24.1",
+     "gloss": "and walked",
+     "sense": "Hithp",
+     "note": "wayyiqtol: the sequential past of narrative"
+    },
+    {
+     "id": "5:24.2",
+     "gloss": "Enoch"
+    },
+    {
+     "id": "5:24.3",
+     "gloss": "with",
+     "sense": "1",
+     "note": "preposition 'with'"
+    },
+    {
+     "id": "5:24.4",
+     "gloss": "God",
+     "sense": "3",
+     "note": "with the article"
+    },
+    {
+     "id": "5:24.5",
+     "gloss": "and he was no more",
+     "sense": "2",
+     "note": "וְאֵינֶנּוּ: אַיִן with a 3rd person masculine suffix, 'and he is not'; here 'he was no more'"
+    },
+    {
+     "id": "5:24.6",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "5:24.7",
+     "gloss": "took",
+     "sense": "Qal 3.b",
+     "note": "Qal perfect"
+    },
+    {
+     "id": "5:24.8",
+     "gloss": "him",
+     "note": "object marker אֹת with suffix"
+    },
+    {
+     "id": "5:24.9",
+     "gloss": "God",
+     "sense": "4",
+     "note": "without the article"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:24.1",
+      "5:24.2",
+      "5:24.3",
+      "5:24.4"
+     ],
+     "english": "Enoch walked with God",
+     "literal": "'and-walked Enoch with the-God'"
+    },
+    {
+     "tokens": [
+      "5:24.5"
+     ],
+     "english": "and he was no more",
+     "literal": "'and-not-he'; Rashi and Ibn Ezra take it as death"
+    },
+    {
+     "tokens": [
+      "5:24.6"
+     ],
+     "english": "for",
+     "literal": "'for', giving the ground"
+    },
+    {
+     "tokens": [
+      "5:24.7",
+      "5:24.8",
+      "5:24.9"
+     ],
+     "english": "God took him",
+     "literal": "'took him God'; verb first, then the pronominal object, then the subject"
+    }
+   ],
+   "grammar": [
+    "וְאֵינֶנּוּ is the particle אֵין with a suffix: 'and he was not'. It is a verbless clause.",
+    "לָקַח אֹתוֹ אֱלֹהִים: verb, pronoun object, then noun subject. A pronoun object regularly comes before a noun subject, so the order is the ordinary one and gives no special stress.",
+    "The etnaḥta on הָאֱלֹהִים closes the first half; the zaqef gadol on וְאֵינֶנּוּ separates the disappearance from its reason.",
+    "The first אֱלֹהִים has the article (the true God); the second does not, and is the subject."
+   ],
+   "note": "Rashi and Ibn Ezra agree that וְאֵינֶנּוּ ... לָקַח means that Enoch died, and the English 'he was no more, for God took him' carries that reading. They differ on its character: for Rashi a death before his time, for Ibn Ezra a death without plague or 'and he died', a taking 'with glory' (Ps 73:24). Radak records the view of the Targum and some sages that Enoch entered Eden alive; it is not the plain sense.",
+   "commentary": [
+    {
+     "anchor": "rashi:5:24:1",
+     "relation": "follows",
+     "summary": "Rashi (from Genesis Rabbah): Enoch was righteous but easily moved to turn to wickedness (קַל בְּדַעְתּוֹ לָשׁוּב לְהַרְשִׁיעַ), so God hastened to remove him and made him die before his time. That is why the text writes his death differently, וְאֵינֶנּוּ: he was not in the world to fill out his years (וְאֵינֶנּוּ בָּעוֹלָם לְמַלְּאוֹת שְׁנוֹתָיו)."
+    },
+    {
+     "anchor": "rashi:5:24:2",
+     "relation": "follows",
+     "summary": "Rashi: 'he took him' means before his time, as in 'I am taking from you the desire of your eyes' (Ezek 24:16). The English 'took him' keeps the sense of removal."
+    },
+    {
+     "anchor": "ibn-ezra:5:24:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וְאֵינֶנּוּ means he died, like 'take my life' (Jonah 4:3) and 'I am taking from you the desire of your eyes' (Ezek 24:16); but here there is no mention of a plague or of 'and he died', and the sense is that of 'afterward you will take me with honor' (Ps 73:24) and 'God will redeem my soul ... for he will take me' (Ps 49:16). The English 'he was no more, for God took him' leaves the manner open."
+    },
+    {
+     "anchor": "radak:5:24:5",
+     "relation": "records",
+     "summary": "Radak: God took his soul and raised it to the upper beings, as in Ps 73:24 and 49:16; but the Targum and some sages say that Enoch and Elijah entered the garden of Eden alive in body and soul. The English does not choose."
+    },
+    {
+     "anchor": "onkelos:5:24:1",
+     "relation": "records",
+     "summary": "Onkelos: 'Enoch walked in the fear of the LORD, and he was not, for the LORD caused him to die' (אֲמֵית יָתֵהּ יְיָ). The fetched text brackets a לָא, the reading of other editions: 'for the LORD did not cause him to die'."
+    }
+   ],
+   "apparatus": [
+    "Enoch's departure is described by the verb לָקַח, 'take'; the verse does not say 'and he died'."
+   ]
+  }
+ ]
+}

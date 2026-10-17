@@ -1,0 +1,246 @@
+{
+  "unit": "noach-05",
+  "model": "opus",
+  "summary": "The unit is sound in its main lines and consistent with Rashi and Ibn Ezra in 7:16-7:20 and 7:22. The chief fault is 7:21: the translator claims to follow Ibn Ezra's pluperfect reading of וַיִּגְוַע ('וכבר גוע') but writes the sequential 'Then ... perished', and renders הָרֹמֵשׂ 'crept' although Ibn Ezra takes רמש as covering birds, beasts and humans. Several learner notes are untrue (7:15 'after the commands of 7:1-9', 7:16 'the sound of the verse', 7:17 the rule for וַיְהִי, 7:18 'the second verse repeats both', 7:19 and 7:20 on the accents and word order), and the 7:22 note on רוּחַ contradicts the pack's parse without saying so. Smaller patches tighten 7:16 and 7:18 and correct three summaries.",
+  "patches": [
+    {
+      "ref": "7:15",
+      "path": "grammar",
+      "value": [
+        "וַיָּבֹאוּ is a wayyiqtol, plural: its subject is the animals listed in 7:14, and it continues the account of the entry 'on that very day' (7:13).",
+        "שְׁנַיִם שְׁנַיִם: repeating a number makes it distributive.",
+        "The etnaḥta on הַתֵּבָה divides the verse after the entry into the ark.",
+        "רוּחַ חַיִּים is a construct chain: 'breath of life'."
+      ],
+      "severity": "error",
+      "reason": "7:1-9 are not all commands: 7:5-9 already narrate the entry, and 7:13-14 narrate it again on the day itself. The verse continues that narrative; it does not resume after commands."
+    },
+    {
+      "ref": "7:15",
+      "path": "note",
+      "value": "Ramban (not normative): the verse tells that the animals were not gathered to Noah beforehand but came only on that very day, gathered by God's spirit in a moment. Radak (not normative): they came in pairs in this second entry as in the first, none missing and none added.",
+      "severity": "style",
+      "reason": "The note gives both claims to both commentators; Ramban speaks of the day, Radak of the pairs."
+    },
+    {
+      "ref": "7:16",
+      "path": "english",
+      "value": "Those that came in, male and female from all flesh, came in as God had commanded him, and the LORD shut him in.",
+      "severity": "style",
+      "reason": "Ibn Ezra (normative, followed): הַבָּאִים are 'those who came into the ark' (הבאים בתיבה), and the tokens cite Qal 1 'come in'. The qatal בָּאוּ after its subject is a simple past; the pluperfect 'had come' is not in the Hebrew and makes the line 'Those that came ... had come' read oddly."
+    },
+    {
+      "ref": "7:16",
+      "path": "phrases",
+      "value": [
+        {"tokens": ["7:16.1", "7:16.2", "7:16.3"], "english": "Those that came in, male and female", "literal": "'and-the-ones-coming male and-female'; Ibn Ezra: those who came into the ark"},
+        {"tokens": ["7:16.4", "7:16.5"], "english": "from all flesh", "literal": "'from-all flesh'"},
+        {"tokens": ["7:16.6"], "english": "came in", "literal": "'came'; the qatal after its subject, a simple past"},
+        {"tokens": ["7:16.7", "7:16.8", "7:16.9", "7:16.10"], "english": "as God had commanded him", "literal": "'as commanded him God'"},
+        {"tokens": ["7:16.11", "7:16.12", "7:16.13"], "english": "and the LORD shut him in", "literal": "'and-shut the-LORD around-him'; בְּעַד is rendered 'in', protecting him from the water, following Rashi's plain sense"}
+      ],
+      "severity": "style",
+      "reason": "The new English changed the first and third fragments."
+    },
+    {
+      "ref": "7:16",
+      "path": "token:7:16.1.gloss",
+      "value": "and those that came in",
+      "severity": "style",
+      "reason": "Matches the new English and the sense Qal 1 'come in'."
+    },
+    {
+      "ref": "7:16",
+      "path": "token:7:16.6.gloss",
+      "value": "came in",
+      "severity": "style",
+      "reason": "Matches the new English."
+    },
+    {
+      "ref": "7:16",
+      "path": "token:7:16.6.note",
+      "value": "perfect (qatal) after its subject הַבָּאִים: a simple past, 'came in'",
+      "severity": "style",
+      "reason": "The old note justified the pluperfect, which the English no longer uses."
+    },
+    {
+      "ref": "7:16",
+      "path": "grammar",
+      "value": [
+        "וְהַבָּאִים is a participle with the article, 'the ones coming', the subject of בָּאוּ.",
+        "The sentence has a long subject separated from its verb by 'male and female from all flesh'.",
+        "כַּאֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים recalls the command of 6:19-20 and 7:2-3.",
+        "בַּעֲדוֹ: בְּעַד means 'about, behind'; Rashi reads it as כְּנֶגֶד, 'facing, against': the LORD shut the ark about him, against the water. This is the only place in the unit where the name יְהוָה appears."
+      ],
+      "severity": "error",
+      "reason": "The fourth note is garbled ('the sound of the verse') and gives senses of בְּעַד ('on behalf of, shielding') that are not in the lexicon entry or in Rashi."
+    },
+    {
+      "ref": "7:16",
+      "path": "commentary:rashi:7:16:1.summary",
+      "value": "Rashi: by the midrash, He protected him so that people would not break the ark, ringing it with bears and lions that killed them; the plain sense is that He shut [the ark] כְּנֶגְדּוֹ, 'facing him', against the water. Every בְּעַד in Scripture means כְּנֶגֶד, as in 'pray בְּעַד your servants' (1 Sam 12:19), 'facing your servants'.",
+      "severity": "style",
+      "reason": "Rashi glosses every בְּעַד as כְּנֶגֶד only; 'on behalf of' is the translator's, and the summary drops the point of the midrash (so that they would not break the ark)."
+    },
+    {
+      "ref": "7:17",
+      "path": "grammar",
+      "value": [
+        "וַיְהִי הַמַּבּוּל אַרְבָּעִים יוֹם עַל־הָאָרֶץ is a full clause, 'the flood was forty days on the earth', closed by the etnaḥta. Ibn Ezra reads it as the time of what follows: 'when the flood had been forty days, the waters increased'.",
+        "The wayyiqtols וַיִּרְבּוּ וַיִּשְׂאוּ וַתָּרׇם follow one another as a chain of consequences.",
+        "וַתָּרׇם is a short form of the Qal of רום with feminine subject (the ark).",
+        "מֵעַל הָאָרֶץ: 'from upon the earth', 'above the ground'."
+      ],
+      "severity": "error",
+      "reason": "The first note states as a rule that וַיְהִי with a time phrase begins a temporal clause. Here וַיְהִי has its own subject (הַמַּבּוּל) and predicate; the temporal reading is Ibn Ezra's interpretation, not the grammar."
+    },
+    {
+      "ref": "7:18",
+      "path": "english",
+      "value": "The waters grew strong and increased greatly on the earth, and the ark moved on the surface of the waters.",
+      "severity": "style",
+      "reason": "וַתֵּלֶךְ is 'went'. The ark already floated in 7:17 (Radak: צָפָה); here Radak says the waters carried it 'hither and thither', and Sforno says it moved under the surge from below. 'moved' keeps the motion that 'floated' loses."
+    },
+    {
+      "ref": "7:18",
+      "path": "phrases",
+      "value": [
+        {"tokens": ["7:18.1", "7:18.2"], "english": "The waters grew strong", "literal": "'and-grew-strong the-waters'"},
+        {"tokens": ["7:18.3", "7:18.4", "7:18.5", "7:18.6"], "english": "and increased greatly on the earth", "literal": "'and-increased very on the-earth'"},
+        {"tokens": ["7:18.7", "7:18.8"], "english": "and the ark moved", "literal": "'and-went the-ark'; 'moved' for 'went' on the water"},
+        {"tokens": ["7:18.9", "7:18.10", "7:18.11"], "english": "on the surface of the waters", "literal": "'on faces-of the-waters'"}
+      ],
+      "severity": "style",
+      "reason": "The new English changed the third fragment."
+    },
+    {
+      "ref": "7:18",
+      "path": "token:7:18.7.gloss",
+      "value": "and it moved",
+      "severity": "style",
+      "reason": "Matches the new English; the old gloss offered two renderings."
+    },
+    {
+      "ref": "7:18",
+      "path": "grammar",
+      "value": [
+        "Three wayyiqtols in a row describe the rising of the water and the movement of the ark.",
+        "פְּנֵי הַמַּיִם is a construct chain: 'the face of the waters'.",
+        "גבר and רבה are close in sense: 'be strong' and 'be many'. 7:17 used רבה; this verse has both; 7:19-20 use גבר alone.",
+        "The etnaḥta on הָאָרֶץ divides the verse: the waters rise, then the ark moves."
+      ],
+      "severity": "error",
+      "reason": "'the second verse repeats both' is untrue: 7:19 repeats only גבר. The etnaḥta falls on עַל־הָאָרֶץ, not after it."
+    },
+    {
+      "ref": "7:18",
+      "path": "commentary:rashi:7:18:1.summary",
+      "value": "Rashi: וַיִּגְבְּרוּ, מֵאֵלֵיהֶן: the waters grew strong 'of themselves', of their own accord.",
+      "severity": "style",
+      "reason": "Rashi says only מֵאֵלֵיהֶן; 'without added rain' is an inference the comment does not state."
+    },
+    {
+      "ref": "7:19",
+      "path": "grammar",
+      "value": [
+        "The subject comes before the verb in וְהַמַּיִם גָּבְרוּ, which marks a new stage of the story.",
+        "מְאֹד מְאֹד is a doubled adverb, an intensifier.",
+        "וַיְכֻסּוּ is a pual: the mountains 'were covered'.",
+        "The etnaḥta on הָאָרֶץ divides the verse: the strength of the waters, then the covering of the mountains. The revia on וְהַמַּיִם sets off the fronted subject."
+      ],
+      "severity": "error",
+      "reason": "The verse's two clauses are divided by the etnaḥta on הָאָרֶץ; the revia on וְהַמַּיִם separates a subject from its verb, not one clause from another."
+    },
+    {
+      "ref": "7:19",
+      "path": "commentary:ibn-ezra:7:19:1.summary",
+      "value": "Ibn Ezra: מאד מאד, said twice, is a degree beyond which there is none. Since 'all the high mountains were covered' has been said, why repeat 'and the mountains were covered' (7:20)? It means that every high mountain was covered by the water, and the fifteen cubits covered those same mountains. We believe the words of our God and leave aside the vain talk of men about a high mountain in the kingdom of Greece.",
+      "severity": "error",
+      "reason": "The comment does not say the Greek mountain 'is higher' (the text breaks off), and the summary leaves out its question, why 7:20 repeats 'the mountains were covered'."
+    },
+    {
+      "ref": "7:20",
+      "path": "grammar",
+      "value": [
+        "The measure comes first for emphasis: חֲמֵשׁ עֶשְׂרֵה אַמָּה.",
+        "מִלְמַעְלָה: 'from above', 'upward'; the sense is 'higher'.",
+        "The etnaḥta on הַמָּיִם divides the verse; the silluq falls on הֶהָרִים, the last word.",
+        "The order is measure, verb, subject: the perfect גָּבְרוּ follows the fronted measure and comes before its subject הַמָּיִם."
+      ],
+      "severity": "error",
+      "reason": "וַיְכֻסּוּ does not end the verse and the silluq is on הֶהָרִים, not after it. The fourth note is confused: the verb's place before its subject does not give the measure first place; the fronting does."
+    },
+    {
+      "ref": "7:21",
+      "path": "english",
+      "value": "All flesh that moved on the earth had perished, among birds and livestock and wild animals and among every swarming thing that swarms on the earth, and all humankind.",
+      "severity": "error",
+      "reason": "Ibn Ezra (normative, and the translator claims to follow him): וַיִּגְוַע means וכבר גוע, 'had already expired', like ואתחנן; 'Then ... perished' is the sequential reading he rejects. He also says רמש covers bird, beast, wild animal, swarmer and man; 'crept' fits none of birds or humans. The lexicon gives רָמַשׂ 'creep, move lightly, move about': 'moved' is the sense that covers the whole list."
+    },
+    {
+      "ref": "7:21",
+      "path": "phrases",
+      "value": [
+        {"tokens": ["7:21.1", "7:21.2", "7:21.3", "7:21.4", "7:21.5", "7:21.6"], "english": "All flesh that moved on the earth had perished", "literal": "'and-expired all-of flesh the-creeping on the-earth'; pluperfect with Ibn Ezra (וכבר גוע); רמש covers every land creature"},
+        {"tokens": ["7:21.7"], "english": "among birds", "literal": "'in-the-fowl'"},
+        {"tokens": ["7:21.8"], "english": "and livestock", "literal": "'and-in-the-beast'"},
+        {"tokens": ["7:21.9"], "english": "and wild animals", "literal": "'and-in-the-living-thing'"},
+        {"tokens": ["7:21.10", "7:21.11", "7:21.12", "7:21.13", "7:21.14"], "english": "and among every swarming thing that swarms on the earth", "literal": "'and-in-all-of the-swarmer the-swarming on the-earth'"},
+        {"tokens": ["7:21.15", "7:21.16"], "english": "and all humankind", "literal": "'and-all-of the-human'"}
+      ],
+      "severity": "error",
+      "reason": "The new English changed the first fragment."
+    },
+    {
+      "ref": "7:21",
+      "path": "token:7:21.1.gloss",
+      "value": "and it had perished",
+      "severity": "error",
+      "reason": "Ibn Ezra's pluperfect, which the English now follows."
+    },
+    {
+      "ref": "7:21",
+      "path": "token:7:21.1.note",
+      "value": "wayyiqtol of גוע, singular before the collective כׇּל־בָּשָׂר; Ibn Ezra reads it as a pluperfect, וכבר גוע, 'it had already expired'",
+      "severity": "style",
+      "reason": "Says how the gloss's pluperfect arises."
+    },
+    {
+      "ref": "7:21",
+      "path": "token:7:21.4.gloss",
+      "value": "that moved",
+      "severity": "error",
+      "reason": "Matches the new English; רָמַשׂ 'move about', of every land creature (Ibn Ezra)."
+    },
+    {
+      "ref": "7:22",
+      "path": "token:7:22.4.note",
+      "value": "the pack parses רוּחַ as absolute; the form is the same in both states, and with Rashi (נְשָׁמָה שֶׁל רוּחַ חַיִּים) it is read as bound to חַיִּים, 'spirit of life'",
+      "severity": "error",
+      "reason": "The note said 'construct' against the pack's parse (absolute) without saying so; the translator's rule 2 requires keeping the data and stating the disagreement."
+    },
+    {
+      "ref": "7:22",
+      "path": "commentary:radak:7:22:1",
+      "value": {
+        "relation": "records",
+        "summary": "Radak: נִשְׁמַת and רוּחַ are both bound to חַיִּים, as if it said נִשְׁמַת חַיִּים and רוּחַ חַיִּים, a construct upon a construct (Ezek 31:16, 2 Sam 24:9, Job 20:17): 'breath of life' for man and 'spirit of life' for the other living creatures, since נְשָׁמָה is said only of man."
+      },
+      "severity": "question",
+      "reason": "A missing ruling. Radak reads the phrase as two parallel bound nouns, not Rashi's chain of three; it bears on the English and is a real alternative to keep."
+    }
+  ],
+  "verdicts": [
+    {"anchor": "rashi:7:16:1", "verdict": "consistent", "comment": "'shut him in' agrees with the plain sense, shutting the ark about him against the water."},
+    {"anchor": "ibn-ezra:7:16:1", "verdict": "consistent", "comment": "With the patch the English says 'came in', as Ibn Ezra's הבאים בתיבה."},
+    {"anchor": "ibn-ezra:7:16:2", "verdict": "consistent"},
+    {"anchor": "rashi:7:17:1", "verdict": "consistent", "comment": "'rose above the earth' does not deny that the ark sat eleven cubits deep."},
+    {"anchor": "rashi:7:18:1", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:7:19:1", "verdict": "consistent"},
+    {"anchor": "rashi:7:20:1", "verdict": "consistent", "comment": "'upward' leaves room for Rashi's 'above the mountains'."},
+    {"anchor": "ibn-ezra:7:21:1", "verdict": "contradicts", "comment": "The English 'Then ... perished' is sequential; Ibn Ezra reads וכבר גוע. Fixed by the english patch."},
+    {"anchor": "ibn-ezra:7:21:2", "verdict": "contradicts", "comment": "'crept' narrows רמש, which Ibn Ezra takes as covering birds, beasts and humans. Fixed by the english patch ('moved')."},
+    {"anchor": "rashi:7:22:1", "verdict": "consistent"},
+    {"anchor": "rashi:7:22:2", "verdict": "consistent"}
+  ]
+}

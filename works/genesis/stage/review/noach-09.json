@@ -1,0 +1,390 @@
+{
+ "unit": "noach-09",
+ "model": "opus",
+ "summary": "The English of Genesis 9:1-7 is accurate and follows the decisions; no English line needs changing. The faults are in the rulings and notes. Several relations are wrong: the English follows Ibn Ezra on בְּכֹל (9:2), on נַפְשׁוֹ דָמוֹ (9:4) and on בָּאָדָם (9:6), and Rashi on the unstated subject of עָשָׂה (9:6), but these were marked 'records', or as diverging, or (9:4) Rashi was marked followed where the English takes Ibn Ezra's apposition against him. Some summaries misread the Hebrew: Ibn Ezra on 9:5 ('animals commanded to kill'), Rashi on 9:6 ('the Maker of the human'), Ibn Ezra on כְּיֶרֶק. Also corrected: a few senses (לְאׇכְלָה, absolute כֹּל, בָּשָׂר), the gloss of אַךְ in 9:5, and learner notes on accents, the feminine תִּרְמֹשׂ, the etnaḥta of 9:5 and the verbal clause of 9:6.",
+ "patches": [
+  {
+   "ref": "9:2",
+   "path": "token:9:2.12.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "בְּכֹל here is the absolute כֹּל with a relative clause, 'all that, everything that' (2.a 'all things, all'), not the construct 'the whole of, every' (1)."
+  },
+  {
+   "ref": "9:2",
+   "path": "token:9:2.14.note",
+   "value": "Qal yiqtol, 3rd feminine singular. With הָאֲדָמָה as the place ('on the ground', the English), the feminine agrees with an unstated feminine subject, a חַיָּה or נֶפֶשׁ (so Radak); Ibn Ezra also allows הָאֲדָמָה itself as the subject.",
+   "severity": "error",
+   "reason": "The note says the feminine fits הָאֲדָמָה as subject, but the English takes הָאֲדָמָה as the place ('crawls on the ground'), Ibn Ezra's first reading. The note must explain the form under the reading adopted."
+  },
+  {
+   "ref": "9:2",
+   "path": "grammar",
+   "value": [
+    "וּמוֹרַאֲכֶם וְחִתְּכֶם is a pair of near synonyms, 'fear' and 'dread'. The suffix -כֶם is objective: the fear felt of you, not the fear you feel.",
+    "The mahpakh on וּמוֹרַאֲכֶם is conjunctive and joins the two nouns; the pashta on וְחִתְּכֶם and the zaqef on יִהְיֶה are disjunctive and close the subject and then the verb.",
+    "בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה: the verb is feminine. Ibn Ezra gives two readings: 'on the ground' (the English), with an unstated feminine subject, or 'the ground' as the subject itself.",
+    "נִתָּנוּ is a Niphal perfect: the creatures have been given into human hands."
+   ],
+   "severity": "error",
+   "reason": "Two notes are not true as written: the pashta is a disjunctive accent and does not 'join' the nouns; and the third note makes the feminine agree with הָאֲדָמָה, which fits only the reading the English does not take. The first note now also says the suffix is objective, which a learner needs to read 'the fear of you'."
+  },
+  {
+   "ref": "9:2",
+   "path": "commentary:ibn-ezra:9:2:3.summary",
+   "value": "Ibn Ezra: כִּי בְיֶדְכֶם, 'for into your hand': the clause gives the reason for the fear, since the creatures have been given into your hand. The English joins it with a semicolon and leaves the causal link unstated.",
+   "severity": "error",
+   "reason": "Ibn Ezra's two words read the clause as the ground of the fear; the summary made it a gloss of בְּיֶדְכֶם alone and set it against the English, which is consistent with it."
+  },
+  {
+   "ref": "9:2",
+   "path": "commentary:ibn-ezra:9:2:4",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: some say the bet of בְכֹל and וּבְכָל stands in place of a vav ('and'); the nearer reading is that it joins with מוֹרַאֲכֶם: the fear of you shall be on all that creeps and on all the fish. The English, with 'upon', takes this nearer reading."
+   },
+   "severity": "error",
+   "reason": "The English 'The fear and dread of you shall be ... upon everything that crawls ... and upon all the fish' joins בְּכֹל to מוֹרַאֲכֶם, which is the reading Ibn Ezra prefers (והקרוב שהוא דבק עם מוראכם). The ruling said it was not adopted; the translator's own note says the English follows it."
+  },
+  {
+   "ref": "9:3",
+   "path": "token:9:3.8.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 2 'devouring' is wrong here: לְאָכְלָה means 'for food'. The pack's entry lists only 'devouring' and 'consuming', neither of which fits, so no sense path should be given."
+  },
+  {
+   "ref": "9:3",
+   "path": "token:9:3.8.note",
+   "value": "לְ + אׇכְלָה, 'for food', with הָיָה לְ 'become, serve as'. The pack's entry lists only the senses 'devouring' and 'consuming'; the head sense 'food' fits here, so no sense path is given.",
+   "severity": "error",
+   "reason": "Explains the missing sense to the learner (see the sense patch)."
+  },
+  {
+   "ref": "9:3",
+   "path": "token:9:3.14.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "אֶת כֹּל is the absolute כֹּל, 'all things, everything' (2.a), not the construct 'the whole of, every' (1)."
+  },
+  {
+   "ref": "9:3",
+   "path": "commentary:ibn-ezra:9:3:2.summary",
+   "value": "Ibn Ezra: the noun יֶרֶק comes in two patterns (segolate יֶרֶק beside יָרָק), as עָשָׁן in תַנּוּר עָשָׁן, 'a smoking furnace' (Gen 15:17), stands beside the segolate עֶשֶׁן in כְּעֶשֶׁן הַכִּבְשָׁן, 'like the smoke of the kiln' (Exod 19:18). A point of form, not of sense.",
+   "severity": "error",
+   "reason": "The summary misrenders תַנּוּר עָשָׁן as 'the furnace smoked' and does not say what the two patterns are. Ibn Ezra's point is that the word has two noun patterns, as עָשָׁן / עֶשֶׁן does."
+  },
+  {
+   "ref": "9:4",
+   "path": "token:9:4.2.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "בָּשָׂר here is meat, the flesh of an animal's body as food: sense 1 ('of the body'), not sense 2 ('the body itself')."
+  },
+  {
+   "ref": "9:4",
+   "path": "commentary:rashi:9:4:3",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: 'flesh in its life you shall not eat' forbids a limb from a living animal, and 'in its life its blood you shall not eat' forbids blood from a living animal as well. He reads דָמוֹ as a second object of the prohibition, not as an apposition to נַפְשׁוֹ."
+   },
+   "severity": "error",
+   "reason": "Rashi and Ibn Ezra differ on דָמוֹ: for Rashi it is a second prohibited thing (blood from the living), for Ibn Ezra it is the apposition 'its life, which is its blood'. The English 'flesh with its life, its blood' sets 'its blood' in apposition to 'its life', Ibn Ezra's reading. So Rashi is recorded, not followed."
+  },
+  {
+   "ref": "9:4",
+   "path": "commentary:ibn-ezra:9:4:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: the sense is 'only flesh with its life, which is its blood, you shall not eat', like 'you shall not eat the life with the flesh' (Deut 12:23), for the life of all flesh is its blood. The English follows him: 'its blood' stands in apposition to 'its life'."
+   },
+   "severity": "error",
+   "reason": "The English renders exactly Ibn Ezra's construction (בְּ of accompaniment, דָמוֹ in apposition to נַפְשׁוֹ); the ruling must be 'follows'."
+  },
+  {
+   "ref": "9:4",
+   "path": "note",
+   "value": "The English keeps the Hebrew order and the bare apposition נַפְשׁוֹ דָמוֹ, as Ibn Ezra reads it: 'with its life, which is its blood'. Rashi reads דָמוֹ as a second object (blood from a living animal) besides the limb from a living animal; his reading is recorded.",
+   "severity": "error",
+   "reason": "The note claimed the English supports both readings; the apposition is Ibn Ezra's reading, and Rashi's needs 'and its blood'."
+  },
+  {
+   "ref": "9:5",
+   "path": "token:9:5.1.gloss",
+   "value": "and yet",
+   "severity": "error",
+   "reason": "אַךְ here restricts what precedes (Rashi: אַף עַל פִּי שֶׁהִתַּרְתִּי ...; Ibn Ezra: זוּלָתִי דִּמְכֶם), and the English has 'But'. 'Surely' does not fit the context."
+  },
+  {
+   "ref": "9:5",
+   "path": "token:9:5.1.note",
+   "value": "וְ + אַךְ. As in v. 4, אַךְ limits the grant: 'and yet, but'. Rashi: though I permitted you to take an animal's life, your blood I will require.",
+   "severity": "style",
+   "reason": "A more useful note for the learner, in step with the gloss patch."
+  },
+  {
+   "ref": "9:5",
+   "path": "literal",
+   "value": "and-yet [object-marker] your-blood for-your-lives I-will-require from-hand-of every-living-thing I-will-require-it and-from-hand-of the-human from-hand-of man his-brother I-will-require [object-marker] life-of the-human",
+   "severity": "error",
+   "reason": "The literal must carry the restrictive sense of אַךְ, as the gloss does."
+  },
+  {
+   "ref": "9:5",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "9:5.1"
+     ],
+     "english": "But",
+     "literal": "'and-yet'; אַךְ restricts the grant of v. 3"
+    },
+    {
+     "tokens": [
+      "9:5.2",
+      "9:5.3"
+     ],
+     "english": "your blood",
+     "literal": "'[object marker] your-blood'"
+    },
+    {
+     "tokens": [
+      "9:5.4"
+     ],
+     "english": "for your lives",
+     "literal": "'for-your-lives'"
+    },
+    {
+     "tokens": [
+      "9:5.5"
+     ],
+     "english": "I will demand",
+     "literal": "'I-will-require'"
+    },
+    {
+     "tokens": [
+      "9:5.6",
+      "9:5.7",
+      "9:5.8"
+     ],
+     "english": "from every animal",
+     "literal": "'from-hand-of every-living-thing'"
+    },
+    {
+     "tokens": [
+      "9:5.9"
+     ],
+     "english": "I will demand it",
+     "literal": "'I-will-require-it'"
+    },
+    {
+     "tokens": [
+      "9:5.10",
+      "9:5.11"
+     ],
+     "english": "and from the human",
+     "literal": "'and-from-hand-of the-human'"
+    },
+    {
+     "tokens": [
+      "9:5.12",
+      "9:5.13",
+      "9:5.14"
+     ],
+     "english": "from each man for his brother",
+     "literal": "'from-hand-of man his-brother'"
+    },
+    {
+     "tokens": [
+      "9:5.15"
+     ],
+     "english": "I will demand",
+     "literal": "'I-will-require'"
+    },
+    {
+     "tokens": [
+      "9:5.16"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "9:5.17",
+      "9:5.18"
+     ],
+     "english": "the life of the human",
+     "literal": "'life-of the-human'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The first phrase's literal follows the gloss and literal patches; nothing else changes."
+  },
+  {
+   "ref": "9:5",
+   "path": "grammar",
+   "value": [
+    "The object, אֶת דִּמְכֶם, is fronted for emphasis and set against the earlier permission.",
+    "The verb דָּרַשׁ comes three times: אֶדְרֹשׁ, אֶדְרְשֶׁנּוּ (with the energic nun and the suffix 'it'), אֶדְרֹשׁ.",
+    "The etnaḥta on אֶדְרְשֶׁנּוּ divides the verse: the first half states the demand for your blood and names the animal; the second names the human and narrows to 'each man ... his brother'.",
+    "מִיַּד means 'from the hand of', an idiom for 'from, at the hands of'."
+   ],
+   "severity": "error",
+   "reason": "The etnaḥta is on אֶדְרְשֶׁנּוּ, and 'lives' is not a source of the demand; the note described a division the accents do not make. The repetition note was ambiguous (the verb occurs three times in all, not three times plus אֶדְרְשֶׁנּוּ)."
+  },
+  {
+   "ref": "9:5",
+   "path": "commentary:ibn-ezra:9:5:1.summary",
+   "value": "Ibn Ezra: 'I have permitted you to shed the blood of every living thing except your blood, the blood of your persons, for you are human: that I have not permitted, but I will require it.' Then he spells it out: from the human, whether many kill one or one kills one; and from every animal, in that I will command another animal to kill it, for the animals are permitted to you, not you to them. He calls the reading of 'your blood for your lives' as one who kills himself forced, and adds that v. 6 may be a command to the sons of Noah to kill the killer, which he calls right.",
+   "severity": "error",
+   "reason": "The summary said the demand covers 'animals commanded to kill'. Ibn Ezra says the reverse: God will require the man's blood from the animal by commanding another animal to kill it (שאצוה לאחרת שיהרגנה). It also left out his statement that animals are permitted to you and not you to them, and his reading of v. 6 as a command."
+  },
+  {
+   "ref": "9:6",
+   "path": "grammar",
+   "value": [
+    "The verse is poetic: a chiasm of shedder and shed, blood and human, with a sound-play on שֹׁפֵךְ and יִשָּׁפֵךְ.",
+    "The participle שֹׁפֵךְ opens a casus pendens, resumed by דָּמוֹ.",
+    "בָּאָדָם can mean 'by a human (agent)' or 'for the sake of the human'.",
+    "The clause כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת הָאָדָם gives the ground for the penalty. It is a verbal clause: בְּצֶלֶם אֱלֹהִים is fronted before עָשָׂה, whose subject is not named (Rashi: 'the Maker')."
+   ],
+   "severity": "error",
+   "reason": "The last note called כִּי בְּצֶלֶם אֱלֹהִים a noun clause; the clause has the finite verb עָשָׂה and is verbal, with the prepositional phrase fronted."
+  },
+  {
+   "ref": "9:6",
+   "path": "commentary:rashi:9:6:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: the verse is elliptical and should read עָשָׂה הָעוֹשֶׂה אֶת הָאָדָם, 'the Maker made the human' in the image of God; the subject is left unstated, as often in Scripture. The English supplies the unstated subject as 'He'."
+   },
+   "severity": "error",
+   "reason": "Rashi's words mean 'the Maker made the human', not 'the Maker of the human'. His point is only that the subject of עָשָׂה is unstated; 'He made the human' is that reading, so the ruling is 'follows'."
+  },
+  {
+   "ref": "9:6",
+   "path": "commentary:ibn-ezra:9:6:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: בָּאָדָם means through witnesses, or before the eyes of all, or for the sake of the human whose blood was shed; there are many such uses. The English 'by the human' takes the first, the agent reading, with Rashi ('if there are witnesses, you put him to death')."
+   },
+   "severity": "error",
+   "reason": "The summary itself says the English takes Ibn Ezra's first reading; the relation must then be 'follows', not 'records'."
+  },
+  {
+   "ref": "9:7",
+   "path": "grammar",
+   "value": [
+    "The independent pronoun וְאַתֶּם sets 'you' apart: for Ramban, from the other living creatures told to swarm and multiply in 8:17; the midrash Rashi cites sets the command beside the shedder of blood in v. 6.",
+    "Four imperatives close the speech: פְּרוּ, רְבוּ, שִׁרְצוּ, רְבוּ.",
+    "The etnaḥta on וּרְבוּ divides the verse into the repeated blessing and the new commands.",
+    "שִׁרְצוּ is the verb used of swarming creatures in 1:20-21 and 8:17."
+   ],
+   "severity": "question",
+   "reason": "The note states as fact a contrast with the shedder of blood in v. 6, which is the midrashic juxtaposition Rashi cites; Ramban takes the plain contrast to be with the creatures of 8:17. Proposed: give both."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:9:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:9:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:9:2:2",
+   "verdict": "consistent",
+   "comment": "The English takes 'on the ground', Ibn Ezra's first reading."
+  },
+  {
+   "anchor": "ibn-ezra:9:2:3",
+   "verdict": "consistent",
+   "comment": "The asyndetic clause after the semicolon bears the causal sense."
+  },
+  {
+   "anchor": "ibn-ezra:9:2:4",
+   "verdict": "consistent",
+   "comment": "'upon everything ... and upon all the fish' joins the bet to the fear of you; the ruling is patched to 'follows'."
+  },
+  {
+   "anchor": "rashi:9:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:9:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:9:3:2",
+   "verdict": "not-applicable",
+   "comment": "A point of noun pattern."
+  },
+  {
+   "anchor": "rashi:9:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:9:4:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:9:4:3",
+   "verdict": "contradicts",
+   "comment": "Rashi and Ibn Ezra differ on דָמוֹ. The English follows Ibn Ezra's apposition and Rashi's second prohibition (blood from the living) is recorded; the English stands under rule 3."
+  },
+  {
+   "anchor": "ibn-ezra:9:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:9:5:1",
+   "verdict": "contradicts",
+   "comment": "Rashi reads 5a of one who sheds his own blood; Ibn Ezra rejects this as forced and reads it of any shedding of human blood. The normative commentators differ; the English follows Ibn Ezra and Rashi is recorded."
+  },
+  {
+   "anchor": "rashi:9:5:2",
+   "verdict": "contradicts",
+   "comment": "As for rashi:9:5:1: the suicide reading (even by strangling) is recorded, not followed, because Ibn Ezra rejects it."
+  },
+  {
+   "anchor": "rashi:9:5:3",
+   "verdict": "consistent",
+   "comment": "Rashi explains why the animals are warned; 'from every animal I will demand it' agrees."
+  },
+  {
+   "anchor": "rashi:9:5:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:9:5:5",
+   "verdict": "contradicts",
+   "comment": "Rashi takes אָחִיו as the killer, one who loved the victim like a brother and killed by accident, a halakhic reading. Ibn Ezra reads the clause as one man killing another, and Onkelos as the man who sheds his brother's blood. The English stands on that reading; Rashi is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:9:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:9:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:9:6:2",
+   "verdict": "consistent",
+   "comment": "'He made' supplies the unstated subject, the Maker; the ruling is patched to 'follows'."
+  },
+  {
+   "anchor": "ibn-ezra:9:6:1",
+   "verdict": "consistent",
+   "comment": "'by the human' is his first reading (witnesses, human agency); the ruling is patched to 'follows'."
+  },
+  {
+   "anchor": "rashi:9:7:1",
+   "verdict": "consistent",
+   "comment": "The note and ruling treat 9:7 as a command, Rashi's plain sense."
+  }
+ ]
+}

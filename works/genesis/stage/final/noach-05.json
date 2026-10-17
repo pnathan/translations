@@ -1,0 +1,1060 @@
+{
+ "unit": "noach-05",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "7:15",
+   "english": "They came to Noah, into the ark, two by two from all flesh in which there was the breath of life.",
+   "literal": "and-came to Noah to the-ark two two from-all-of the-flesh which-in-it breath-of lives",
+   "tokens": [
+    {
+     "id": "7:15.1",
+     "gloss": "and they came",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, plural: a narrative past"
+    },
+    {
+     "id": "7:15.2",
+     "gloss": "to"
+    },
+    {
+     "id": "7:15.3",
+     "gloss": "Noah"
+    },
+    {
+     "id": "7:15.4",
+     "gloss": "into"
+    },
+    {
+     "id": "7:15.5",
+     "gloss": "the ark"
+    },
+    {
+     "id": "7:15.6",
+     "gloss": "two",
+     "note": "dual of the number two"
+    },
+    {
+     "id": "7:15.7",
+     "gloss": "two",
+     "note": "repetition gives the distributive sense, 'two by two'"
+    },
+    {
+     "id": "7:15.8",
+     "gloss": "from all",
+     "sense": "1"
+    },
+    {
+     "id": "7:15.9",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "7:15.10",
+     "gloss": "which"
+    },
+    {
+     "id": "7:15.11",
+     "gloss": "in it"
+    },
+    {
+     "id": "7:15.12",
+     "gloss": "breath of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "7:15.13",
+     "gloss": "life",
+     "sense": "1",
+     "note": "plural form with singular sense, 'life'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:15.1",
+      "7:15.2",
+      "7:15.3",
+      "7:15.4",
+      "7:15.5"
+     ],
+     "english": "They came to Noah, into the ark",
+     "literal": "'and-came to Noah to the-ark'"
+    },
+    {
+     "tokens": [
+      "7:15.6",
+      "7:15.7"
+     ],
+     "english": "two by two",
+     "literal": "repeated number is distributive"
+    },
+    {
+     "tokens": [
+      "7:15.8",
+      "7:15.9"
+     ],
+     "english": "from all flesh",
+     "literal": "'from-all-of the-flesh'"
+    },
+    {
+     "tokens": [
+      "7:15.10",
+      "7:15.11",
+      "7:15.12",
+      "7:15.13"
+     ],
+     "english": "in which there was the breath of life",
+     "literal": "'which-in-it breath-of lives'; no verb in the Hebrew, 'was' supplied"
+    }
+   ],
+   "grammar": [
+    "וַיָּבֹאוּ is a wayyiqtol, plural: its subject is the animals listed in 7:14, and it continues the account of the entry 'on that very day' (7:13).",
+    "שְׁנַיִם שְׁנַיִם: repeating a number makes it distributive.",
+    "The etnaḥta on הַתֵּבָה divides the verse after the entry into the ark.",
+    "רוּחַ חַיִּים is a construct chain: 'breath of life'."
+   ],
+   "note": "Ramban (not normative): the verse tells that the animals were not gathered to Noah beforehand but came only on that very day, gathered by God's spirit in a moment. Radak (not normative): they came in pairs in this second entry as in the first, none missing and none added.",
+   "commentary": [
+    {
+     "anchor": "ramban:7:15:2",
+     "relation": "not-applicable",
+     "summary": "Ramban: the verse informs us that they were not gathered to Noah earlier but came on that very day."
+    },
+    {
+     "anchor": "radak:7:15:1",
+     "relation": "not-applicable",
+     "summary": "Radak: they came in pairs as in the first entry, and none was missing."
+    }
+   ]
+  },
+  {
+   "ref": "7:16",
+   "english": "Those that came in, male and female from all flesh, came in as God had commanded him, and the LORD shut him in.",
+   "literal": "and-the-ones-coming male and-female from-all flesh came as commanded him God and-shut the-LORD behind-him",
+   "tokens": [
+    {
+     "id": "7:16.1",
+     "gloss": "and those that came in",
+     "sense": "Qal 1",
+     "note": "active participle with the article, 'the ones coming'"
+    },
+    {
+     "id": "7:16.2",
+     "gloss": "male",
+     "sense": "I"
+    },
+    {
+     "id": "7:16.3",
+     "gloss": "and female"
+    },
+    {
+     "id": "7:16.4",
+     "gloss": "from all",
+     "sense": "1"
+    },
+    {
+     "id": "7:16.5",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "7:16.6",
+     "gloss": "came in",
+     "sense": "Qal 1",
+     "note": "perfect (qatal) after its subject הַבָּאִים: a simple past, 'came in'"
+    },
+    {
+     "id": "7:16.7",
+     "gloss": "as"
+    },
+    {
+     "id": "7:16.8",
+     "gloss": "he had commanded"
+    },
+    {
+     "id": "7:16.9",
+     "gloss": "him"
+    },
+    {
+     "id": "7:16.10",
+     "gloss": "God"
+    },
+    {
+     "id": "7:16.11",
+     "gloss": "and he shut",
+     "sense": "Qal 2.a",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "7:16.12",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "7:16.13",
+     "gloss": "behind him / around him",
+     "note": "בְּעַד: 'on his behalf, around, about him'; Rashi: 'against the water, on his side'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:16.1",
+      "7:16.2",
+      "7:16.3"
+     ],
+     "english": "Those that came in, male and female",
+     "literal": "'and-the-ones-coming male and-female'; Ibn Ezra: those who came into the ark"
+    },
+    {
+     "tokens": [
+      "7:16.4",
+      "7:16.5"
+     ],
+     "english": "from all flesh",
+     "literal": "'from-all flesh'"
+    },
+    {
+     "tokens": [
+      "7:16.6"
+     ],
+     "english": "came in",
+     "literal": "'came'; the qatal after its subject, a simple past"
+    },
+    {
+     "tokens": [
+      "7:16.7",
+      "7:16.8",
+      "7:16.9",
+      "7:16.10"
+     ],
+     "english": "as God had commanded him",
+     "literal": "'as commanded him God'"
+    },
+    {
+     "tokens": [
+      "7:16.11",
+      "7:16.12",
+      "7:16.13"
+     ],
+     "english": "and the LORD shut him in",
+     "literal": "'and-shut the-LORD around-him'; בְּעַד is rendered 'in', protecting him from the water, following Rashi's plain sense"
+    }
+   ],
+   "grammar": [
+    "וְהַבָּאִים is a participle with the article, 'the ones coming', the subject of בָּאוּ.",
+    "The sentence has a long subject separated from its verb by 'male and female from all flesh'.",
+    "כַּאֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים recalls the command of 6:19-20 and 7:2-3.",
+    "בַּעֲדוֹ: בְּעַד means 'about, behind'; Rashi reads it as כְּנֶגֶד, 'facing, against': the LORD shut the ark about him, against the water. This is the only place in the unit where the name יְהוָה appears."
+   ],
+   "note": "Rashi gives two readings of בעדו: the homiletic one (bears and lions ringed the ark) and the plain sense (he shut it against the water). The English follows the plain sense. The name is God (אֱלֹהִים) in the command and the LORD in the shutting.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:16:1",
+     "relation": "follows",
+     "summary": "Rashi: by the midrash, He protected him so that people would not break the ark, ringing it with bears and lions that killed them; the plain sense is that He shut [the ark] כְּנֶגְדּוֹ, 'facing him', against the water. Every בְּעַד in Scripture means כְּנֶגֶד, as in 'pray בְּעַד your servants' (1 Sam 12:19), 'facing your servants'."
+    },
+    {
+     "anchor": "ibn-ezra:7:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הַבָּאִים means those who entered the ark."
+    },
+    {
+     "anchor": "ibn-ezra:7:16:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'shut behind him' here is praise: the LORD shielded him so that not even a place in the ark opened, since otherwise all would have died at once; elsewhere סגר can be negative (Job 12:14, 3:23)."
+    },
+    {
+     "anchor": "radak:7:16:3",
+     "relation": "follows",
+     "summary": "Radak: He shielded him so that not even one hole opened in the ark in the force of the rains."
+    }
+   ]
+  },
+  {
+   "ref": "7:17",
+   "english": "When the flood had lasted forty days on the earth, the waters increased and lifted the ark, and it rose above the earth.",
+   "literal": "and-was the-flood forty day on the-earth and-increased the-waters and-lifted DOM the-ark and-rose from-on the-earth",
+   "tokens": [
+    {
+     "id": "7:17.1",
+     "gloss": "and it was",
+     "sense": "Qal III",
+     "note": "wayyiqtol of היה; with the time phrase it means 'it lasted'"
+    },
+    {
+     "id": "7:17.2",
+     "gloss": "the flood"
+    },
+    {
+     "id": "7:17.3",
+     "gloss": "forty",
+     "note": "plural form of 'four', tens"
+    },
+    {
+     "id": "7:17.4",
+     "gloss": "days",
+     "sense": "1",
+     "note": "singular after a number"
+    },
+    {
+     "id": "7:17.5",
+     "gloss": "on"
+    },
+    {
+     "id": "7:17.6",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:17.7",
+     "gloss": "and they increased",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "7:17.8",
+     "gloss": "the waters",
+     "note": "plural noun, always plural in Hebrew"
+    },
+    {
+     "id": "7:17.9",
+     "gloss": "and they lifted",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "7:17.10",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "7:17.11",
+     "gloss": "the ark"
+    },
+    {
+     "id": "7:17.12",
+     "gloss": "and it rose",
+     "sense": "Qal 3",
+     "note": "feminine, agreeing with תֵּבָה"
+    },
+    {
+     "id": "7:17.13",
+     "gloss": "above"
+    },
+    {
+     "id": "7:17.14",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:17.1",
+      "7:17.2",
+      "7:17.3",
+      "7:17.4"
+     ],
+     "english": "When the flood had lasted forty days",
+     "literal": "'and-was the-flood forty day'; the wayyiqtol here opens a time clause, as Ibn Ezra reads it"
+    },
+    {
+     "tokens": [
+      "7:17.5",
+      "7:17.6"
+     ],
+     "english": "on the earth",
+     "literal": "'on the-earth'"
+    },
+    {
+     "tokens": [
+      "7:17.7",
+      "7:17.8"
+     ],
+     "english": "the waters increased",
+     "literal": "'and-increased the-waters'"
+    },
+    {
+     "tokens": [
+      "7:17.9",
+      "7:17.10",
+      "7:17.11"
+     ],
+     "english": "and lifted the ark",
+     "literal": "'and-lifted DOM the-ark'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "7:17.12",
+      "7:17.13",
+      "7:17.14"
+     ],
+     "english": "and it rose above the earth",
+     "literal": "'and-rose from-on the-earth'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי הַמַּבּוּל אַרְבָּעִים יוֹם עַל־הָאָרֶץ is a full clause, 'the flood was forty days on the earth', closed by the etnaḥta. Ibn Ezra reads it as the time of what follows: 'when the flood had been forty days, the waters increased'.",
+    "The wayyiqtols וַיִּרְבּוּ וַיִּשְׂאוּ וַתָּרׇם follow one another as a chain of consequences.",
+    "וַתָּרׇם is a short form of the Qal of רום with feminine subject (the ark).",
+    "מֵעַל הָאָרֶץ: 'from upon the earth', 'above the ground'."
+   ],
+   "note": "Ibn Ezra reads 'the flood was forty days' as 'when the flood had been forty days (the rain), the waters increased and lifted the ark'; the English follows him. Rashi (11 cubits) is recorded in the commentary entry.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:17:1",
+     "relation": "follows",
+     "summary": "Rashi: the ark sank eleven cubits in the water, like a loaded ship that is partly submerged; the verses that follow (15 cubits) prove it. The English 'rose above the earth' is compatible with this."
+    },
+    {
+     "anchor": "radak:7:17:1",
+     "relation": "records",
+     "summary": "Radak: the forty days are days and nights; the night is included in the day, as in 'there was evening and there was morning'."
+    },
+    {
+     "anchor": "radak:7:17:2",
+     "relation": "follows",
+     "summary": "Radak: when the waters of the forty days and the springs had increased, they had the power to lift the ark."
+    }
+   ]
+  },
+  {
+   "ref": "7:18",
+   "english": "The waters grew strong and increased greatly on the earth, and the ark moved on the surface of the waters.",
+   "literal": "and-grew-strong the-waters and-increased very on the-earth and-went the-ark on faces-of the-waters",
+   "tokens": [
+    {
+     "id": "7:18.1",
+     "gloss": "and they grew strong",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "7:18.2",
+     "gloss": "the waters"
+    },
+    {
+     "id": "7:18.3",
+     "gloss": "and they increased",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "7:18.4",
+     "gloss": "greatly",
+     "sense": "2"
+    },
+    {
+     "id": "7:18.5",
+     "gloss": "on"
+    },
+    {
+     "id": "7:18.6",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:18.7",
+     "gloss": "and it moved",
+     "sense": "Qal II.2",
+     "note": "wayyiqtol, feminine; 'went along'"
+    },
+    {
+     "id": "7:18.8",
+     "gloss": "the ark"
+    },
+    {
+     "id": "7:18.9",
+     "gloss": "on"
+    },
+    {
+     "id": "7:18.10",
+     "gloss": "the surface of",
+     "sense": "I.5",
+     "note": "construct, 'faces of'"
+    },
+    {
+     "id": "7:18.11",
+     "gloss": "the waters"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:18.1",
+      "7:18.2"
+     ],
+     "english": "The waters grew strong",
+     "literal": "'and-grew-strong the-waters'"
+    },
+    {
+     "tokens": [
+      "7:18.3",
+      "7:18.4",
+      "7:18.5",
+      "7:18.6"
+     ],
+     "english": "and increased greatly on the earth",
+     "literal": "'and-increased very on the-earth'"
+    },
+    {
+     "tokens": [
+      "7:18.7",
+      "7:18.8"
+     ],
+     "english": "and the ark moved",
+     "literal": "'and-went the-ark'; 'moved' for 'went' on the water"
+    },
+    {
+     "tokens": [
+      "7:18.9",
+      "7:18.10",
+      "7:18.11"
+     ],
+     "english": "on the surface of the waters",
+     "literal": "'on faces-of the-waters'"
+    }
+   ],
+   "grammar": [
+    "Three wayyiqtols in a row describe the rising of the water and the movement of the ark.",
+    "פְּנֵי הַמַּיִם is a construct chain: 'the face of the waters'.",
+    "גבר and רבה are close in sense: 'be strong' and 'be many'. 7:17 used רבה; this verse has both; 7:19-20 use גבר alone.",
+    "The etnaḥta on הָאָרֶץ divides the verse: the waters rise, then the ark moves."
+   ],
+   "note": "Rashi says the waters grew strong 'by themselves', that is, apart from the rain; Sforno says the ark moved by the force of the waters from below. The English keeps 'grew strong', which fits both.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:18:1",
+     "relation": "follows",
+     "summary": "Rashi: וַיִּגְבְּרוּ, מֵאֵלֵיהֶן: the waters grew strong 'of themselves', of their own accord."
+    },
+    {
+     "anchor": "radak:7:18:1",
+     "relation": "follows",
+     "summary": "Radak: this verse adds to the increase of the waters; they became stronger than before."
+    },
+    {
+     "anchor": "sforno:7:18:1",
+     "relation": "follows",
+     "summary": "Sforno: the ark moved by the force of the surge that came from below."
+    }
+   ]
+  },
+  {
+   "ref": "7:19",
+   "english": "The waters prevailed very, very greatly on the earth, and all the high mountains under all the heavens were covered.",
+   "literal": "and-the-waters prevailed very very on the-earth and-were-covered all-of the-mountains the-high which under all-of the-heavens",
+   "tokens": [
+    {
+     "id": "7:19.1",
+     "gloss": "and the waters"
+    },
+    {
+     "id": "7:19.2",
+     "gloss": "they prevailed",
+     "sense": "Qal 2",
+     "note": "perfect; a stative sense, 'had grown strong'"
+    },
+    {
+     "id": "7:19.3",
+     "gloss": "very",
+     "sense": "2"
+    },
+    {
+     "id": "7:19.4",
+     "gloss": "very",
+     "sense": "2",
+     "note": "repetition makes the superlative"
+    },
+    {
+     "id": "7:19.5",
+     "gloss": "on"
+    },
+    {
+     "id": "7:19.6",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:19.7",
+     "gloss": "and they were covered",
+     "sense": "Pual 1",
+     "note": "pual wayyiqtol: passive of piel"
+    },
+    {
+     "id": "7:19.8",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "7:19.9",
+     "gloss": "the mountains",
+     "sense": "1"
+    },
+    {
+     "id": "7:19.10",
+     "gloss": "the high",
+     "sense": "1"
+    },
+    {
+     "id": "7:19.11",
+     "gloss": "which"
+    },
+    {
+     "id": "7:19.12",
+     "gloss": "under"
+    },
+    {
+     "id": "7:19.13",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "7:19.14",
+     "gloss": "the heavens",
+     "sense": "1.a",
+     "note": "plural form, as always"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:19.1",
+      "7:19.2"
+     ],
+     "english": "The waters prevailed",
+     "literal": "'and-the-waters prevailed'; the word order puts the subject first"
+    },
+    {
+     "tokens": [
+      "7:19.3",
+      "7:19.4"
+     ],
+     "english": "very, very greatly",
+     "literal": "'very very'; the repetition is a superlative"
+    },
+    {
+     "tokens": [
+      "7:19.5",
+      "7:19.6"
+     ],
+     "english": "on the earth",
+     "literal": "'on the-earth'"
+    },
+    {
+     "tokens": [
+      "7:19.7",
+      "7:19.8",
+      "7:19.9",
+      "7:19.10",
+      "7:19.11",
+      "7:19.12",
+      "7:19.13",
+      "7:19.14"
+     ],
+     "english": "and all the high mountains under all the heavens were covered",
+     "literal": "'and-were-covered all-of the-mountains the-high which under all-of the-heavens'"
+    }
+   ],
+   "grammar": [
+    "The subject comes before the verb in וְהַמַּיִם גָּבְרוּ, which marks a new stage of the story.",
+    "מְאֹד מְאֹד is a doubled adverb, an intensifier.",
+    "וַיְכֻסּוּ is a pual: the mountains 'were covered'.",
+    "The etnaḥta on הָאָרֶץ divides the verse: the strength of the waters, then the covering of the mountains. The revia on וְהַמַּיִם sets off the fronted subject."
+   ],
+   "note": "Ibn Ezra: מְאֹד מְאֹד is as high as one can say; he takes 'all the high mountains' as every high mountain, covered by fifteen cubits, and tells us to trust the Torah against the claims of men about mountains in Greek lands.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:7:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: מאד מאד, said twice, is a degree beyond which there is none. Since 'all the high mountains were covered' has been said, why repeat 'and the mountains were covered' (7:20)? It means that every high mountain was covered by the water, and the fifteen cubits covered those same mountains. We believe the words of our God and leave aside the vain talk of men about a high mountain in the kingdom of Greece."
+    },
+    {
+     "anchor": "radak:7:19:2",
+     "relation": "follows",
+     "summary": "Radak: there are two increases here: the first 'increased very' and now 'prevailed very, very', so that all the high mountains were covered."
+    }
+   ]
+  },
+  {
+   "ref": "7:20",
+   "english": "Fifteen cubits upward the waters prevailed, and the mountains were covered.",
+   "literal": "five ten cubit from-above prevailed the-waters and-were-covered the-mountains",
+   "tokens": [
+    {
+     "id": "7:20.1",
+     "gloss": "five",
+     "note": "feminine, with a noun 'cubit' (feminine)"
+    },
+    {
+     "id": "7:20.2",
+     "gloss": "ten",
+     "note": "'five ten' is fifteen"
+    },
+    {
+     "id": "7:20.3",
+     "gloss": "cubits",
+     "sense": "1"
+    },
+    {
+     "id": "7:20.4",
+     "gloss": "upward",
+     "note": "מִלְמַעְלָה: 'from above, upward'; with directional he"
+    },
+    {
+     "id": "7:20.5",
+     "gloss": "they prevailed",
+     "sense": "Qal 2"
+    },
+    {
+     "id": "7:20.6",
+     "gloss": "the waters"
+    },
+    {
+     "id": "7:20.7",
+     "gloss": "and they were covered",
+     "sense": "Pual 1"
+    },
+    {
+     "id": "7:20.8",
+     "gloss": "the mountains",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:20.1",
+      "7:20.2",
+      "7:20.3",
+      "7:20.4"
+     ],
+     "english": "Fifteen cubits upward",
+     "literal": "'five ten cubit from-above'"
+    },
+    {
+     "tokens": [
+      "7:20.5",
+      "7:20.6"
+     ],
+     "english": "the waters prevailed",
+     "literal": "'prevailed the-waters'"
+    },
+    {
+     "tokens": [
+      "7:20.7",
+      "7:20.8"
+     ],
+     "english": "and the mountains were covered",
+     "literal": "'and-were-covered the-mountains'"
+    }
+   ],
+   "grammar": [
+    "The measure comes first for emphasis: חֲמֵשׁ עֶשְׂרֵה אַמָּה.",
+    "מִלְמַעְלָה: 'from above', 'upward'; the sense is 'higher'.",
+    "The etnaḥta on הַמָּיִם divides the verse; the silluq falls on הֶהָרִים, the last word.",
+    "The order is measure, verb, subject: the perfect גָּבְרוּ follows the fronted measure and comes before its subject הַמָּיִם."
+   ],
+   "note": "Rashi: the fifteen cubits are above the height of all the mountains, after the waters had been made level with the tops. The English leaves the starting point open ('upward'), as the Hebrew does.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:20:1",
+     "relation": "follows",
+     "summary": "Rashi: 'upward' means above the height of all the mountains, after the waters had been made level with their tops."
+    },
+    {
+     "anchor": "radak:7:20:2",
+     "relation": "follows",
+     "summary": "Radak: the mountains covered include even the highest ones."
+    }
+   ]
+  },
+  {
+   "ref": "7:21",
+   "english": "All flesh that moved on the earth had perished, among birds and livestock and wild animals and among every swarming thing that swarms on the earth, and all humankind.",
+   "literal": "and-expired all-of flesh the-creeping on the-earth in-the-fowl and-in-the-beast and-in-the-living-thing and-in-all-of the-swarmer the-swarming on the-earth and-all-of the-human",
+   "tokens": [
+    {
+     "id": "7:21.1",
+     "gloss": "and it had perished",
+     "note": "wayyiqtol of גוע, singular before the collective כׇּל־בָּשָׂר; Ibn Ezra reads it as a pluperfect, וכבר גוע, 'it had already expired'"
+    },
+    {
+     "id": "7:21.2",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "7:21.3",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "7:21.4",
+     "gloss": "that moved",
+     "note": "active participle with the article"
+    },
+    {
+     "id": "7:21.5",
+     "gloss": "on"
+    },
+    {
+     "id": "7:21.6",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:21.7",
+     "gloss": "among birds",
+     "sense": "1",
+     "note": "'in the bird', collective singular"
+    },
+    {
+     "id": "7:21.8",
+     "gloss": "and livestock",
+     "sense": "3",
+     "note": "בְּהֵמָה: domestic animals; the pack lists only sense 3, 'wild beasts', which does not fit here"
+    },
+    {
+     "id": "7:21.9",
+     "gloss": "and wild animals",
+     "sense": "1.b"
+    },
+    {
+     "id": "7:21.10",
+     "gloss": "and among all of",
+     "sense": "1"
+    },
+    {
+     "id": "7:21.11",
+     "gloss": "swarming things",
+     "note": "שֶׁרֶץ: collective"
+    },
+    {
+     "id": "7:21.12",
+     "gloss": "that swarm",
+     "note": "participle of שרץ"
+    },
+    {
+     "id": "7:21.13",
+     "gloss": "on"
+    },
+    {
+     "id": "7:21.14",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:21.15",
+     "gloss": "and all",
+     "sense": "1"
+    },
+    {
+     "id": "7:21.16",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "the article; collective 'humankind'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:21.1",
+      "7:21.2",
+      "7:21.3",
+      "7:21.4",
+      "7:21.5",
+      "7:21.6"
+     ],
+     "english": "All flesh that moved on the earth had perished",
+     "literal": "'and-expired all-of flesh the-creeping on the-earth'; pluperfect with Ibn Ezra (וכבר גוע); רמש covers every land creature"
+    },
+    {
+     "tokens": [
+      "7:21.7"
+     ],
+     "english": "among birds",
+     "literal": "'in-the-fowl'"
+    },
+    {
+     "tokens": [
+      "7:21.8"
+     ],
+     "english": "and livestock",
+     "literal": "'and-in-the-beast'"
+    },
+    {
+     "tokens": [
+      "7:21.9"
+     ],
+     "english": "and wild animals",
+     "literal": "'and-in-the-living-thing'"
+    },
+    {
+     "tokens": [
+      "7:21.10",
+      "7:21.11",
+      "7:21.12",
+      "7:21.13",
+      "7:21.14"
+     ],
+     "english": "and among every swarming thing that swarms on the earth",
+     "literal": "'and-in-all-of the-swarmer the-swarming on the-earth'"
+    },
+    {
+     "tokens": [
+      "7:21.15",
+      "7:21.16"
+     ],
+     "english": "and all humankind",
+     "literal": "'and-all-of the-human'"
+    }
+   ],
+   "grammar": [
+    "וַיִּגְוַע is singular before the collective subject כׇּל־בָּשָׂר.",
+    "The prefix בְּ before the list of animals means 'among, including'; the list specifies the 'flesh'.",
+    "הַשֶּׁרֶץ הַשֹּׁרֵץ is a figura etymologica: 'the swarmer that swarms'.",
+    "The gershayim after וַיִּגְוַע and the revia on הָאָרֶץ mark the first division; the humans come last, after the etnaḥta."
+   ],
+   "note": "Ibn Ezra takes רֶמֶשׂ as including birds, livestock, wild animals, swarming things and humans: 'all flesh that creeps' is the whole of life, and the list that follows specifies it. He reads וַיִּגְוַע as pluperfect-like ('had died').",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:7:21:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיִּגְוַע means 'it had already died'; the form is common in the Torah (compare Deut 3:23 and Ps 78:24)."
+    },
+    {
+     "anchor": "ibn-ezra:7:21:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיִּגְוַע means death; the word רֶמֶשׂ includes bird, beast, wild animal, swarming thing and human. He also suggests that 'all in whose nostrils was the breath of life' refers back to humans, since נְשָׁמָה is found only of humans."
+    },
+    {
+     "anchor": "radak:7:21:1",
+     "relation": "not-applicable",
+     "summary": "Radak: 'and all humankind' comes last to say that even a man who might find a place of refuge died."
+    },
+    {
+     "anchor": "radak:7:21:2",
+     "relation": "not-applicable",
+     "summary": "Radak: even the Nephilim, who climbed the high mountains, were covered and drowned."
+    }
+   ]
+  },
+  {
+   "ref": "7:22",
+   "english": "Everything that had the breath of the spirit of life in its nostrils, of all that was on dry land, died.",
+   "literal": "all which breath-of spirit-of lives in-nostrils-his from-all which on-the-dry-ground died",
+   "tokens": [
+    {
+     "id": "7:22.1",
+     "gloss": "everything",
+     "sense": "2.a"
+    },
+    {
+     "id": "7:22.2",
+     "gloss": "that"
+    },
+    {
+     "id": "7:22.3",
+     "gloss": "the breath of",
+     "note": "construct; נְשָׁמָה"
+    },
+    {
+     "id": "7:22.4",
+     "gloss": "the spirit of",
+     "sense": "4",
+     "note": "the pack parses רוּחַ as absolute; the form is the same in both states, and with Rashi (נְשָׁמָה שֶׁל רוּחַ חַיִּים) it is read as bound to חַיִּים, 'spirit of life'"
+    },
+    {
+     "id": "7:22.5",
+     "gloss": "life",
+     "sense": "1",
+     "note": "plural form, 'life'"
+    },
+    {
+     "id": "7:22.6",
+     "gloss": "in its nostrils",
+     "sense": "1",
+     "note": "dual 'nostrils'; 'in-his-nostrils'"
+    },
+    {
+     "id": "7:22.7",
+     "gloss": "of all",
+     "sense": "1"
+    },
+    {
+     "id": "7:22.8",
+     "gloss": "that"
+    },
+    {
+     "id": "7:22.9",
+     "gloss": "on dry land",
+     "note": "'in the dry ground'; with the article"
+    },
+    {
+     "id": "7:22.10",
+     "gloss": "they died",
+     "sense": "Qal 1",
+     "note": "perfect, plural"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:22.1",
+      "7:22.2",
+      "7:22.3",
+      "7:22.4",
+      "7:22.5",
+      "7:22.6"
+     ],
+     "english": "Everything that had the breath of the spirit of life in its nostrils",
+     "literal": "'all which breath-of spirit-of lives in-nostrils-his'; no verb in the Hebrew, 'had' supplied"
+    },
+    {
+     "tokens": [
+      "7:22.7",
+      "7:22.8",
+      "7:22.9"
+     ],
+     "english": "of all that was on dry land",
+     "literal": "'from-all which on-the-dry-ground'; 'was' supplied"
+    },
+    {
+     "tokens": [
+      "7:22.10"
+     ],
+     "english": "died",
+     "literal": "'died'"
+    }
+   ],
+   "grammar": [
+    "The verb מֵתוּ comes last, after a long subject, 'everything that ...'.",
+    "נִשְׁמַת־רוּחַ חַיִּים is a chain of three: 'breath of spirit of life'.",
+    "מִכֹּל אֲשֶׁר בֶּחָרָבָה limits the subject to land creatures.",
+    "The pazer on כֹּל and the geresh on חַיִּים mark the opening of the verse."
+   ],
+   "note": "Rashi reads 'the breath of the spirit of life' as 'the breath that belongs to the spirit of life', and takes 'on dry land' to exclude fish. Radak agrees about fish, since they are bred in water and do not live with humans.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:22:1",
+     "relation": "follows",
+     "summary": "Rashi: נִשְׁמַת רוּחַ חַיִּים means 'the breath of the spirit of life', נשמה of רוח חיים."
+    },
+    {
+     "anchor": "rashi:7:22:2",
+     "relation": "follows",
+     "summary": "Rashi: 'on dry land' excludes the fish in the sea (Sanhedrin 108)."
+    },
+    {
+     "anchor": "radak:7:22:2",
+     "relation": "follows",
+     "summary": "Radak: but the fish of the sea did not die, since their rearing is in the water and they are not with man."
+    },
+    {
+     "anchor": "radak:7:22:1",
+     "relation": "records",
+     "summary": "Radak: נִשְׁמַת and רוּחַ are both bound to חַיִּים, as if it said נִשְׁמַת חַיִּים and רוּחַ חַיִּים, a construct upon a construct (Ezek 31:16, 2 Sam 24:9, Job 20:17): 'breath of life' for man and 'spirit of life' for the other living creatures, since נְשָׁמָה is said only of man."
+    }
+   ]
+  }
+ ]
+}

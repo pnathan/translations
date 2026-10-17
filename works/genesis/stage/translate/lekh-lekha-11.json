@@ -1,0 +1,689 @@
+{
+ "unit": "lekh-lekha-11",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "15:17",
+   "english": "When the sun had set and it was thick darkness, there was a smoking furnace and a flaming torch that passed between these pieces.",
+   "literal": "and-was the-sun came and-thick-darkness was and-behold furnace-of smoke and-torch-of fire which passed between the-pieces the-these",
+   "tokens": [
+    {
+     "id": "15:17.1",
+     "gloss": "and it was",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol; introduces a circumstantial clause, here rendered by 'When'"
+    },
+    {
+     "id": "15:17.2",
+     "gloss": "the sun",
+     "sense": "1"
+    },
+    {
+     "id": "15:17.3",
+     "gloss": "had come (set)",
+     "sense": "Qal 2",
+     "note": "perfect with the accent on the first syllable (milra'/mil'el); Rashi: 'came' means 'set'"
+    },
+    {
+     "id": "15:17.4",
+     "gloss": "and thick darkness"
+    },
+    {
+     "id": "15:17.5",
+     "gloss": "was",
+     "sense": "Qal III.1"
+    },
+    {
+     "id": "15:17.6",
+     "gloss": "and behold (there was)"
+    },
+    {
+     "id": "15:17.7",
+     "gloss": "furnace of"
+    },
+    {
+     "id": "15:17.8",
+     "gloss": "smoke"
+    },
+    {
+     "id": "15:17.9",
+     "gloss": "and torch of"
+    },
+    {
+     "id": "15:17.10",
+     "gloss": "fire",
+     "sense": "1"
+    },
+    {
+     "id": "15:17.11",
+     "gloss": "which"
+    },
+    {
+     "id": "15:17.12",
+     "gloss": "passed",
+     "sense": "Qal 4.b"
+    },
+    {
+     "id": "15:17.13",
+     "gloss": "between",
+     "sense": "1"
+    },
+    {
+     "id": "15:17.14",
+     "gloss": "the pieces",
+     "note": "גֶּזֶר, a cut piece, from the halved animals of verses 9-10; only here (plural)"
+    },
+    {
+     "id": "15:17.15",
+     "gloss": "these",
+     "sense": "b"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "15:17.1",
+      "15:17.2",
+      "15:17.3"
+     ],
+     "english": "When the sun had set",
+     "literal": "'and-was the-sun came'; Rashi: וַיְהִי דָּבָר זֶה, a circumstantial clause, and בָּאָה = שָׁקְעָה"
+    },
+    {
+     "tokens": [
+      "15:17.4",
+      "15:17.5"
+     ],
+     "english": "and it was thick darkness",
+     "literal": "'and-thick-darkness was'"
+    },
+    {
+     "tokens": [
+      "15:17.6",
+      "15:17.7",
+      "15:17.8"
+     ],
+     "english": "there was a smoking furnace",
+     "literal": "'and-behold furnace-of smoke'; הִנֵּה marks what Abram sees; Radak takes עָשָׁן as an adjective, 'a furnace that smoked'"
+    },
+    {
+     "tokens": [
+      "15:17.9",
+      "15:17.10"
+     ],
+     "english": "and a flaming torch",
+     "literal": "'and-torch-of fire'"
+    },
+    {
+     "tokens": [
+      "15:17.11",
+      "15:17.12"
+     ],
+     "english": "that passed",
+     "literal": "'which passed'"
+    },
+    {
+     "tokens": [
+      "15:17.13",
+      "15:17.14",
+      "15:17.15"
+     ],
+     "english": "between these pieces",
+     "literal": "'between the-pieces the-these'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי with a perfect and a noun-clause (וַעֲלָטָה הָיָה) sets the scene; the sun is the subject of בָּאָה.",
+    "בָּאָה is accented on the first syllable (zaqef qaton on a mil'el form), so it is a perfect, 'had come', not a participle 'is coming' (Rashi, Radak).",
+    "תַּנּוּר and לַפִּיד are in the construct before עָשָׁן and אֵשׁ; Radak reads עָשָׁן as an adjective ('a smoky furnace').",
+    "אֲשֶׁר עָבַר is singular: one passing figure, the torch, goes between the pieces.",
+    "The etnaḥta after הָיָה divides the scene (sunset, darkness) from the vision."
+   ],
+   "note": "Followed Rashi (and Radak) on בָּאָה: perfect, the sun had set. Ibn Ezra reads that at first the sun had not yet set (cf. לָבוֹא in v. 12). עֲלָטָה is a thick darkness. The verb עָבַר is singular, so the pieces are passed through by the torch, as the next verse's covenant shows.",
+   "commentary": [
+    {
+     "anchor": "rashi:15:17:1",
+     "relation": "follows",
+     "summary": "Rashi: ויהי השמש באה is like 'and it came to pass, they were emptying their sacks' (Gen 42:35), i.e. 'and this thing happened': a circumstantial clause."
+    },
+    {
+     "anchor": "rashi:15:17:2",
+     "relation": "follows",
+     "summary": "Rashi: השמש באה means שָׁקְעָה, the sun set."
+    },
+    {
+     "anchor": "rashi:15:17:3",
+     "relation": "follows",
+     "summary": "Rashi: ועלטה היה means the day grew dark."
+    },
+    {
+     "anchor": "rashi:15:17:4",
+     "relation": "not-applicable",
+     "summary": "Rashi: the furnace of smoke hints that the kingdoms will fall into Gehenna; homiletic, not the plain sense of the words."
+    },
+    {
+     "anchor": "rashi:15:17:5",
+     "relation": "follows",
+     "summary": "Rashi: the accent being on the upper (first) syllable, בָּאָה is perfect, 'had already come'; with the accent below it would be a participle 'was setting', but the passage of the furnace came afterwards, so the sun had already set. The same holds for words like בָּא, קָם, שָׁב."
+    },
+    {
+     "anchor": "ibn-ezra:15:17:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: at first it had not yet come (set), as 'at sunset' (לבוא) is written earlier; the English adopts Rashi's reading instead."
+    },
+    {
+     "anchor": "ibn-ezra:15:17:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: עלטה is darkness, as in Ezekiel; either the night was clouded or it means the time after the visible light in the clouds."
+    },
+    {
+     "anchor": "ibn-ezra:15:17:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it was in the likeness of a furnace from which smoke rises, with a torch of fire in it."
+    },
+    {
+     "anchor": "ibn-ezra:15:17:4",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בין הגזרים is בין הבתרים, 'between the pieces', and this is the oath, like 'the calf they cut in two' (Jer 34:18); hence 'On that day the LORD made a covenant' follows."
+    },
+    {
+     "anchor": "ramban:15:17:1",
+     "relation": "records",
+     "summary": "Ramban: the smoking furnace is the cloud and fog of Sinai and the torch the fire from which Israel heard the words; the Presence itself passed between the pieces, which is the covenant."
+    },
+    {
+     "anchor": "radak:15:17:5",
+     "relation": "records",
+     "summary": "Radak: the passing between the pieces signals the covenant-making, as parties passed between halved animals; the torch stands for God, and also hints at the fire that will consume the nations of the exile."
+    }
+   ],
+   "apparatus": [
+    "Ibn Ezra: the sun had not yet set (בתחלה עודנה לא באה); Rashi, Radak: perfect, it had set.",
+    "גֶּזֶר hapax-like plural גְּזָרִים; Ibn Ezra, Radak equate it with בְּתָרִים of vv. 10-11."
+   ]
+  },
+  {
+   "ref": "15:18",
+   "english": "On that day the LORD made a covenant with Abram, saying: To your offspring I have given this land, from the river of Egypt to the great river, the river Euphrates.",
+   "literal": "in-the-day the-that cut the-LORD with-Abram covenant to-say to-your-seed I-have-given the-land the-this from-river-of Egypt until the-river the-great river-of Euphrates",
+   "tokens": [
+    {
+     "id": "15:18.1",
+     "gloss": "on the day",
+     "sense": "1"
+    },
+    {
+     "id": "15:18.2",
+     "gloss": "that"
+    },
+    {
+     "id": "15:18.3",
+     "gloss": "cut (made)",
+     "sense": "Qal 4",
+     "note": "idiom: כרת ברית, 'cut a covenant'"
+    },
+    {
+     "id": "15:18.4",
+     "gloss": "the LORD",
+     "note": "the divine name יְהוָה (written יְהֹוָה in MAM)"
+    },
+    {
+     "id": "15:18.5",
+     "gloss": "with",
+     "note": "the pack parses אֶת־ here as a preposition, 'with'; it is the preposition אֵת with Abram"
+    },
+    {
+     "id": "15:18.6",
+     "gloss": "Abram"
+    },
+    {
+     "id": "15:18.7",
+     "gloss": "a covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "15:18.8",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "infinitive construct with ל, introduces direct speech"
+    },
+    {
+     "id": "15:18.9",
+     "gloss": "to your offspring",
+     "sense": "4",
+     "note": "ל + זֶרַע + 2ms suffix"
+    },
+    {
+     "id": "15:18.10",
+     "gloss": "I have given",
+     "sense": "Qal 1",
+     "note": "perfect: Rashi, the divine word as if already done"
+    },
+    {
+     "id": "15:18.11",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "15:18.12",
+     "gloss": "the land",
+     "sense": "1.a"
+    },
+    {
+     "id": "15:18.13",
+     "gloss": "this"
+    },
+    {
+     "id": "15:18.14",
+     "gloss": "from the river of"
+    },
+    {
+     "id": "15:18.15",
+     "gloss": "Egypt",
+     "sense": "1.a"
+    },
+    {
+     "id": "15:18.16",
+     "gloss": "as far as",
+     "sense": "II.1"
+    },
+    {
+     "id": "15:18.17",
+     "gloss": "the river"
+    },
+    {
+     "id": "15:18.18",
+     "gloss": "the great",
+     "sense": "4",
+     "note": "great; Rashi: called great because it adjoins the Land of Israel"
+    },
+    {
+     "id": "15:18.19",
+     "gloss": "river of"
+    },
+    {
+     "id": "15:18.20",
+     "gloss": "Euphrates"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "15:18.1",
+      "15:18.2"
+     ],
+     "english": "On that day",
+     "literal": "'in-the-day the-that'"
+    },
+    {
+     "tokens": [
+      "15:18.3",
+      "15:18.4",
+      "15:18.5",
+      "15:18.6",
+      "15:18.7"
+     ],
+     "english": "the LORD made a covenant with Abram",
+     "literal": "'cut the-LORD with-Abram covenant'; כרת ברית is 'cut a covenant'"
+    },
+    {
+     "tokens": [
+      "15:18.8"
+     ],
+     "english": "saying",
+     "literal": "'to-say'"
+    },
+    {
+     "tokens": [
+      "15:18.9",
+      "15:18.10"
+     ],
+     "english": "To your offspring I have given",
+     "literal": "'to-your-seed I-have-given'; the perfect נָתַתִּי states a future gift as accomplished (Rashi, Radak)"
+    },
+    {
+     "tokens": [
+      "15:18.11",
+      "15:18.12",
+      "15:18.13"
+     ],
+     "english": "this land",
+     "literal": "'(OBJ) the-land the-this'; אֶת is the object marker and has no English counterpart"
+    },
+    {
+     "tokens": [
+      "15:18.14",
+      "15:18.15"
+     ],
+     "english": "from the river of Egypt",
+     "literal": "'from-river-of Egypt'; Ibn Ezra: the Shiḥor, not the Nile"
+    },
+    {
+     "tokens": [
+      "15:18.16",
+      "15:18.17",
+      "15:18.18",
+      "15:18.19",
+      "15:18.20"
+     ],
+     "english": "to the great river, the river Euphrates",
+     "literal": "'until the-river the-great river-of Euphrates'"
+    }
+   ],
+   "grammar": [
+    "כָּרַת בְּרִית is the idiom 'cut a covenant'; the verb's basic sense is 'cut' (cf. the pieces of v. 17).",
+    "לֵאמֹר (ל + infinitive of אמר) introduces the speech; the revia on לְזַרְעֲךָ puts the stress on 'to your offspring', placed before the verb.",
+    "נָתַתִּי is a perfect of certainty: the promise is spoken as already given (Rashi: the saying of the Holy One is as if done).",
+    "מִנְּהַר מִצְרַיִם עַד־הַנָּהָר הַגָּדֹל: the boundaries are given as two rivers; נְהַר־פְּרָת stands in apposition to 'the great river'.",
+    "יְהֹוָה is read 'the LORD' (decisions)."
+   ],
+   "note": "'I have given' keeps the perfect. נְהַר מִצְרַיִם is rendered 'the river of Egypt' because Ibn Ezra identifies it as the Shiḥor and not the Nile (היאור); the Hebrew word is unchanged. The token אֶת־ at 15:18.5 is parsed as a preposition (BDB a.gn.aa, 'with'): kept as given, the sense list of that entry has 'together with' but Abram here is the party with whom the covenant is cut, so 'with' is the reading.",
+   "commentary": [
+    {
+     "anchor": "rashi:15:18:1",
+     "relation": "follows",
+     "summary": "Rashi: לזרעך נתתי, the saying of the Holy One is as if it were already done."
+    },
+    {
+     "anchor": "rashi:15:18:2",
+     "relation": "follows",
+     "summary": "Rashi: it is called 'great' because it adjoins the Land of Israel, although it is last of the four rivers from Eden ('and the fourth river is the Perat'); proverb: 'a king's servant is a king'."
+    },
+    {
+     "anchor": "ibn-ezra:15:18:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: נהר מצרים is the Shiḥor and not the Nile (היאור)."
+    },
+    {
+     "anchor": "ramban:15:18:1",
+     "relation": "records",
+     "summary": "Ramban: surveys the successive promises of the land to Abraham; here the borders and ten nations are named and a covenant is made, so that sin will not annul it."
+    },
+    {
+     "anchor": "radak:15:18:2",
+     "relation": "follows",
+     "summary": "Radak: נתתי means 'I have already given them by my word, which stands.'"
+    }
+   ],
+   "apparatus": [
+    "Ibn Ezra: 'river of Egypt' = the Shiḥor, not the Nile.",
+    "Onkelos: לִבְנָךְ יְהָבִית, 'to your son(s) I have given'; 'the great river' as נַהֲרָא רַבָּא."
+   ]
+  },
+  {
+   "ref": "15:19",
+   "english": "the Kenites, the Kenizzites, and the Kadmonites.",
+   "literal": "(OBJ)-the-Kenite and-(OBJ)-the-Kenizzite and-(OBJ)-the-Kadmonite",
+   "tokens": [
+    {
+     "id": "15:19.1",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "15:19.2",
+     "gloss": "the Kenites",
+     "note": "gentilic singular, used collectively"
+    },
+    {
+     "id": "15:19.3",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "15:19.4",
+     "gloss": "the Kenizzites",
+     "note": "gentilic singular, collective"
+    },
+    {
+     "id": "15:19.5",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "15:19.6",
+     "gloss": "the Kadmonites",
+     "note": "BDB: Easterners; a people named, from קֶדֶם 'east'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "15:19.1",
+      "15:19.2"
+     ],
+     "english": "the Kenites",
+     "literal": "object of נָתַתִּי in v. 18; the gentilic is singular and collective"
+    },
+    {
+     "tokens": [
+      "15:19.3",
+      "15:19.4"
+     ],
+     "english": "the Kenizzites",
+     "literal": "'and-(OBJ) the-Kenizzite'"
+    },
+    {
+     "tokens": [
+      "15:19.5",
+      "15:19.6"
+     ],
+     "english": "and the Kadmonites",
+     "literal": "'and-(OBJ) the-Kadmonite'"
+    }
+   ],
+   "grammar": [
+    "The verse continues the list of objects of נָתַתִּי (v. 18); each name is a singular gentilic with the article, read collectively.",
+    "Each name after the first takes וְאֵת, 'and (object marker)'.",
+    "The pashta and zaqef qaton divide the three names; the silluq closes the verse."
+   ],
+   "note": "קַדְמֹנִי is 'Kadmonites' (BDB 'Easterners'), a name for a people, kept as a name. The list of names resumes in v. 20.",
+   "commentary": [
+    {
+     "anchor": "rashi:15:19:1",
+     "relation": "records",
+     "summary": "Rashi: there are ten nations here but only seven were given; the three, Kenite, Kenizzite and Kadmonite, correspond to Edom, Moab and Ammon and will be an inheritance in the future (Gen. Rabbah)."
+    },
+    {
+     "anchor": "ibn-ezra:15:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: these are from the sons of Canaan, and they have two names (each of the three was also known by another name)."
+    },
+    {
+     "anchor": "radak:15:19:1",
+     "relation": "records",
+     "summary": "Radak: the Kenites are named after a city called Kayin; the family later allied with Judah through the house of Rechab."
+    },
+    {
+     "anchor": "radak:15:19:2",
+     "relation": "records",
+     "summary": "Radak: Onkelos renders הקיני as שלמאי, as in Num 24:21; a different people from the Kenite named here."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: שַׁלְמָאֵי, קְנִזָּאֵי, קַדְמוֹנָאֵי."
+   ]
+  },
+  {
+   "ref": "15:20",
+   "english": "the Hittites, the Perizzites, and the Rephaim.",
+   "literal": "and-(OBJ)-the-Hittite and-(OBJ)-the-Perizzite and-(OBJ)-the-Rephaim",
+   "tokens": [
+    {
+     "id": "15:20.1",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "15:20.2",
+     "gloss": "the Hittites",
+     "note": "gentilic singular, collective"
+    },
+    {
+     "id": "15:20.3",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "15:20.4",
+     "gloss": "the Perizzites",
+     "note": "gentilic singular, collective"
+    },
+    {
+     "id": "15:20.5",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "15:20.6",
+     "gloss": "the Rephaim",
+     "note": "plural gentilic; also the name of the giants' people"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "15:20.1",
+      "15:20.2"
+     ],
+     "english": "the Hittites",
+     "literal": "'and-(OBJ) the-Hittite'"
+    },
+    {
+     "tokens": [
+      "15:20.3",
+      "15:20.4"
+     ],
+     "english": "the Perizzites",
+     "literal": "'and-(OBJ) the-Perizzite'"
+    },
+    {
+     "tokens": [
+      "15:20.5",
+      "15:20.6"
+     ],
+     "english": "and the Rephaim",
+     "literal": "'and-(OBJ) the-Rephaim'; plural"
+    }
+   ],
+   "grammar": [
+    "The list continues with the objects of נָתַתִּי; the ו of each וְאֶת is rendered by the commas and the final 'and'.",
+    "הַחִתִּי, הַפְּרִזִּי are singular collective gentilics; הָרְפָאִים is plural.",
+    "The merkha, tipḥa and silluq accents mark the three names."
+   ],
+   "note": "רְפָאִים is kept as 'Rephaim'. Rashi and Ibn Ezra identify it with the land of Og ('the land of Rephaim', Deut 3:13). Ibn Ezra explains that the ten nations are all Canaanite in a wide sense.",
+   "commentary": [
+    {
+     "anchor": "rashi:15:20:1",
+     "relation": "follows",
+     "summary": "Rashi: the Rephaim are the land of Og, of which it is said 'that too is called the land of Rephaim' (Deut 3:13)."
+    },
+    {
+     "anchor": "ibn-ezra:15:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: this is the 'land of Rephaim' of Deut 3:13; the seven Canaanite nations are all Canaanites and Canaan had ten sons, so 'the Canaanite' names the remainder; here ten are listed in detail, elsewhere in general."
+    },
+    {
+     "anchor": "radak:15:20:1",
+     "relation": "records",
+     "summary": "Radak: the Hivite is not mentioned here; perhaps it is included in another name."
+    },
+    {
+     "anchor": "radak:15:20:2",
+     "relation": "not-applicable",
+     "summary": "Radak: a short remark on הרפאים that is mentioned (שזכר)."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders הרפאים as גִּבָּרָאֵי, 'the mighty'."
+   ]
+  },
+  {
+   "ref": "15:21",
+   "english": "the Amorites, the Canaanites, the Girgashites, and the Jebusites.",
+   "literal": "and-(OBJ)-the-Amorite and-(OBJ)-the-Canaanite and-(OBJ)-the-Girgashite and-(OBJ)-the-Jebusite",
+   "tokens": [
+    {
+     "id": "15:21.1",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "15:21.2",
+     "gloss": "the Amorites",
+     "note": "gentilic singular, collective"
+    },
+    {
+     "id": "15:21.3",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "15:21.4",
+     "gloss": "the Canaanites",
+     "note": "gentilic singular, collective"
+    },
+    {
+     "id": "15:21.5",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "15:21.6",
+     "gloss": "the Girgashites",
+     "note": "gentilic singular, collective"
+    },
+    {
+     "id": "15:21.7",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "15:21.8",
+     "gloss": "the Jebusites",
+     "sense": "1",
+     "note": "gentilic singular, collective"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "15:21.1",
+      "15:21.2"
+     ],
+     "english": "the Amorites",
+     "literal": "'and-(OBJ) the-Amorite'"
+    },
+    {
+     "tokens": [
+      "15:21.3",
+      "15:21.4"
+     ],
+     "english": "the Canaanites",
+     "literal": "'and-(OBJ) the-Canaanite'"
+    },
+    {
+     "tokens": [
+      "15:21.5",
+      "15:21.6"
+     ],
+     "english": "the Girgashites",
+     "literal": "'and-(OBJ) the-Girgashite'"
+    },
+    {
+     "tokens": [
+      "15:21.7",
+      "15:21.8"
+     ],
+     "english": "and the Jebusites",
+     "literal": "'and-(OBJ) the-Jebusite'"
+    }
+   ],
+   "grammar": [
+    "The final four names of the ten; the paragraph mark (ס) closes the section.",
+    "All are singular gentilics read as collectives.",
+    "The pashta, zaqef qaton and tipḥa divide the four names in pairs; the silluq ends the verse."
+   ],
+   "note": "The paragraph mark ס follows the verse. 'Canaanites' here is the narrower people, as the other nations are also Canaan's descendants (Ibn Ezra, v. 20).",
+   "commentary": [
+    {
+     "anchor": "radak:15:21:1",
+     "relation": "records",
+     "summary": "Radak: the land of the Philistines is included in 'the Canaanite', as Joshua says 'it is counted to the Canaanite' (Josh 13:3)."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: אֱמוֹרָאֵי, כְּנַעֲנָאֵי, גִּרְגָּשָׁאֵי, יְבוּסָאֵי."
+   ]
+  }
+ ]
+}

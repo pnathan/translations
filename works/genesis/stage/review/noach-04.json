@@ -1,0 +1,304 @@
+{
+ "unit": "noach-04",
+ "model": "opus",
+ "summary": "The unit is accurate in the main: verbs, persons and senses are carried over correctly and the readings of Rashi and Ibn Ezra are mostly respected. The main faults are in 7:14, where 'every winged bird of every sort' departs from Rashi's construct reading of צִפּוֹר כָּל כָּנָף, and in 7:11, where 'that very day' adds the emphasis that belongs to בְּעֶצֶם in 7:13. Several of Ibn Ezra's summaries are wrong or leave out much of the comment, one accent note in 7:8 is false, and a wrong suffix parse in 7:14 goes unnoted.",
+ "patches": [
+  {
+   "ref": "7:7",
+   "path": "commentary:ibn-ezra:7:7:1.summary",
+   "value": "Ibn Ezra: מפני means 'for fear of' the flood waters (מפני פחד מי המבול). In those seven days many of the clean beasts came of their own accord, and likewise of the clean birds, and of the others, and every creeping thing; they came male and female.",
+   "severity": "error",
+   "reason": "The summary says 'many clean animals and all others came'; Ibn Ezra says many of the clean beasts and of the clean birds, and 'of the others' (ומהאחרים), not 'all others', and adds every creeping thing."
+  },
+  {
+   "ref": "7:8",
+   "path": "grammar",
+   "value": [
+    "The verse continues the list begun in 7:7 and has no verb of its own; the main verb is בָּאוּ in 7:9.",
+    "Each of the three מִן phrases is partitive: representatives 'of' each class entered. The fourth item, וְכֹל אֲשֶׁר רֹמֵשׂ, has no מִן; the English carries the 'of' over from the series.",
+    "אֵינֶנָּה is the negative particle אַיִן with a feminine singular suffix, agreeing with בְּהֵמָה.",
+    "The etnaḥta on טְהֹרָה divides the beasts, clean and unclean, from the birds and the creeping things. Zaqef qaton on הַטְּהוֹרָה, הַבְּהֵמָה and הָעוֹף marks the lesser breaks, and the second and third וּמִן carry a conjunctive qadma."
+   ],
+   "severity": "error",
+   "reason": "The fourth note is false: there are only two qadma–zaqef pairs (7:8.4–5, 7:8.9–10); the first class has pashta–zaqef, the fourth merkha–tipḥa, and the main division, the etnaḥta, is not mentioned. The second note now marks that וְכֹל has no מִן, since the English supplies 'of'."
+  },
+  {
+   "ref": "7:9",
+   "path": "english",
+   "value": "two by two they came to Noah into the ark, male and female, as God had commanded Noah.",
+   "severity": "style",
+   "reason": "7:8 ends with a comma and is the first half of this sentence (the translator's note on 7:8 says so); the English should not open with a capital as if a new sentence began."
+  },
+  {
+   "ref": "7:9",
+   "path": "note",
+   "value": "The verse completes the sentence begun in 7:8, whose list names those who came, so the English runs on from 7:8; 'came to Noah' is literal; Rashi and Radak both say the animals came of their own accord.",
+   "severity": "style",
+   "reason": "The note said 'The English starts a new sentence', which contradicts the note on 7:8 and the punctuation of the two verses."
+  },
+  {
+   "ref": "7:11",
+   "path": "english",
+   "value": "In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the springs of the great deep burst open, and the windows of the sky were opened.",
+   "severity": "error",
+   "reason": "בַּיּוֹם הַזֶּה is 'on this/that day'; 'very' renders בְּעֶצֶם, which this verse lacks and 7:13 has (and on which Rashi comments). The English added it without a mark and blurred the two expressions."
+  },
+  {
+   "ref": "7:11",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "7:11.1",
+      "7:11.2",
+      "7:11.3",
+      "7:11.4",
+      "7:11.5",
+      "7:11.6"
+     ],
+     "english": "In the six hundredth year of Noah's life",
+     "literal": "'in-year-of six hundreds year to-life-of Noah'"
+    },
+    {
+     "tokens": [
+      "7:11.7",
+      "7:11.8"
+     ],
+     "english": "in the second month",
+     "literal": "'in-the-month the-second'"
+    },
+    {
+     "tokens": [
+      "7:11.9",
+      "7:11.10",
+      "7:11.11",
+      "7:11.12"
+     ],
+     "english": "on the seventeenth day of the month",
+     "literal": "'in-seventeen day to-the-month'"
+    },
+    {
+     "tokens": [
+      "7:11.13",
+      "7:11.14"
+     ],
+     "english": "on that day",
+     "literal": "'in-the-day the-this'; not בְּעֶצֶם 'the very' as in 7:13"
+    },
+    {
+     "tokens": [
+      "7:11.15",
+      "7:11.16",
+      "7:11.17",
+      "7:11.18",
+      "7:11.19"
+     ],
+     "english": "all the springs of the great deep burst open",
+     "literal": "'were-split all springs-of deep great'"
+    },
+    {
+     "tokens": [
+      "7:11.20",
+      "7:11.21",
+      "7:11.22"
+     ],
+     "english": "and the windows of the sky were opened",
+     "literal": "'and-windows-of the-heavens were-opened'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the phrase 'on that very day'."
+  },
+  {
+   "ref": "7:11",
+   "path": "commentary:rashi:7:11:3.relation",
+   "value": "not-applicable",
+   "severity": "error",
+   "reason": "Rashi's measure-for-measure point is homiletic and offers no alternative rendering; the English keeps 'great', so 'records' (a real alternative not adopted) is the wrong relation."
+  },
+  {
+   "ref": "7:11",
+   "path": "commentary:ibn-ezra:7:11:1.summary",
+   "value": "Ibn Ezra: מַעְיְנֹת here is in the construct state (סמוך), bound to תהום; in 'when there were no springs' (באין מעינות, Prov 8:24) the same word stands alone (מוכרת). A point of form: 'springs of the great deep'.",
+   "severity": "error",
+   "reason": "The summary reads מוכרת as 'familiar' and makes the comment a gloss of the sense. Ibn Ezra contrasts the construct (סמוך) form here with the free-standing form in Prov 8:24."
+  },
+  {
+   "ref": "7:11",
+   "path": "commentary:ibn-ezra:7:11:2.summary",
+   "value": "Ibn Ezra: תהום is both masculine and feminine, as in 'the deep raised it up' (תהום רוממתהו, Ezek 31:4). The text does not mention rivers, since they come from the springs. When the springs split the waters rose; the windows of the storehouses in heaven opened and the waters came down, and the earth was thrown into confusion, with no telling day from night, as 'day and night shall not cease' (8:22) shows. When the rain stopped Noah knew that forty days and forty nights had passed, because God revealed it to him.",
+   "severity": "error",
+   "reason": "The summary gave only the first clause; the rest of the comment (the rivers, the confusion of day and night, how Noah knew the forty days) bears on 7:11–12 and was left out."
+  },
+  {
+   "ref": "7:11",
+   "path": "commentary:ibn-ezra:7:11:3.summary",
+   "value": "Ibn Ezra: ארבות is as in 'behold, the LORD makes windows' (2 Kings 7:2); 'storehouse' and 'window' are said in human terms. Some take the aleph as a root letter, like כבודות; others as added, like the aleph of אגורת (1 Sam 2:36), from a doubled root. On the seventeenth, when the flood began, Noah and his household entered the ark and brought in the animals and birds; צפור is a general term for whatever has a wing, and the wonder is that all came of themselves, two by two.",
+   "severity": "error",
+   "reason": "The summary left out the end of the comment: the entry on the seventeenth and the definition of צפור as a general term for anything with a wing, which bears on 7:14."
+  },
+  {
+   "ref": "7:14",
+   "path": "english",
+   "value": "They and every wild animal according to its kind, and every domestic animal according to its kind, and every creeping thing that creeps on the earth according to its kind, and every bird according to its kind, every bird of every kind of wing.",
+   "severity": "error",
+   "reason": "Rashi (normative) reads צִפּוֹר כָּל כָּנָף as a construct chain, 'a bird of every kind of wing', to include locusts; Ibn Ezra (7:11) calls צפור a general term for anything with a wing. 'Every winged bird of every sort' makes כָּנָף an attribute of 'bird' and moves 'every' onto the bird, narrowing the class the commentators widen. The new English keeps the chain: bird of every wing."
+  },
+  {
+   "ref": "7:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "7:14.1"
+     ],
+     "english": "They",
+     "literal": "'they', the subject of 7:13 resumed"
+    },
+    {
+     "tokens": [
+      "7:14.2",
+      "7:14.3",
+      "7:14.4"
+     ],
+     "english": "and every wild animal according to its kind",
+     "literal": "'and-all the-living-thing to-its-kind'"
+    },
+    {
+     "tokens": [
+      "7:14.5",
+      "7:14.6",
+      "7:14.7"
+     ],
+     "english": "and every domestic animal according to its kind",
+     "literal": "'and-all the-animal to-its-kind'"
+    },
+    {
+     "tokens": [
+      "7:14.8",
+      "7:14.9",
+      "7:14.10",
+      "7:14.11",
+      "7:14.12",
+      "7:14.13"
+     ],
+     "english": "and every creeping thing that creeps on the earth according to its kind",
+     "literal": "'and-all the-creeping-thing the-creeping on the-earth to-its-kind'"
+    },
+    {
+     "tokens": [
+      "7:14.14",
+      "7:14.15",
+      "7:14.16"
+     ],
+     "english": "and every bird according to its kind",
+     "literal": "'and-all the-bird to-its-kind'"
+    },
+    {
+     "tokens": [
+      "7:14.17",
+      "7:14.18",
+      "7:14.19",
+      "7:14.20"
+     ],
+     "english": "every bird of every kind of wing",
+     "literal": "'all bird-of all wing'; Rashi: one construct chain, a bird of every kind of wing, taking in locusts; 'kind of' gives the sense of כָּל before a singular noun"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the last phrase."
+  },
+  {
+   "ref": "7:14",
+   "path": "note",
+   "value": "Rashi reads צִפּוֹר כָּל כָּנָף as one construct chain (דבוק): 'a bird of every kind of wing', so that winged creatures such as locusts are included. The English follows him; 'kind of' gives the sense of כָּל before a singular noun. Radak allows כָּל כָּנָף to mean 'every winged creature', in apposition.",
+   "severity": "error",
+   "reason": "The old note claimed 'every winged bird of every sort' follows Rashi; it does not (see the English patch)."
+  },
+  {
+   "ref": "7:14",
+   "path": "commentary:rashi:7:14:1.summary",
+   "value": "Rashi: צפור כל כנף is a construct chain (דבוק): 'a bird of every kind of wing', to include locusts. A further gloss takes כנף as plumage, as in 'he shall tear it by its wings' (Lev 1:17), where even the feathers are offered: here too, a bird of every kind of plumage.",
+   "severity": "error",
+   "reason": "The summary makes the inclusion of locusts follow from 'כנף means feather'. In Rashi the locusts follow from 'every kind of wing'; the plumage reading is a separate, parenthetical gloss with its proof text."
+  },
+  {
+   "ref": "7:14",
+   "path": "token:7:14.7.note",
+   "value": "'to its kind', feminine singular suffix agreeing with בְּהֵמָה; the pack's parse gives the suffix as feminine plural, but ־ָהּ with mappiq is singular, as in 7:14.4",
+   "severity": "error",
+   "reason": "The pack's morphology wrongly parses the suffix as plural; rule 2 requires the translator to keep the data and say so in a note, and a learner would be misled without it."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:7:7:1",
+   "verdict": "consistent",
+   "comment": "The English keeps the Hebrew order, men then women."
+  },
+  {
+   "anchor": "rashi:7:7:2",
+   "verdict": "consistent",
+   "comment": "'Because of the waters' allows Rashi's reading."
+  },
+  {
+   "anchor": "ibn-ezra:7:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:7:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:7:9:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:7:11:1",
+   "verdict": "not-applicable",
+   "comment": "Which month is meant does not change the words."
+  },
+  {
+   "anchor": "rashi:7:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:7:11:3",
+   "verdict": "not-applicable",
+   "comment": "Homiletic; the English keeps 'great'."
+  },
+  {
+   "anchor": "ibn-ezra:7:11:1",
+   "verdict": "consistent",
+   "comment": "'springs of' renders the construct."
+  },
+  {
+   "anchor": "ibn-ezra:7:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:7:11:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:7:12:1",
+   "verdict": "consistent",
+   "comment": "'rain' is kept distinct from 'flood'."
+  },
+  {
+   "anchor": "rashi:7:12:2",
+   "verdict": "not-applicable",
+   "comment": "A count of days."
+  },
+  {
+   "anchor": "rashi:7:13:1",
+   "verdict": "not-applicable",
+   "comment": "Homiletic; 'on that very day' stands."
+  },
+  {
+   "anchor": "rashi:7:14:1",
+   "verdict": "contradicts",
+   "comment": "'every winged bird of every sort' does not keep Rashi's construct chain; fixed by the English patch on 7:14."
+  }
+ ]
+}

@@ -1,0 +1,1065 @@
+{
+ "unit": "perek-4-01",
+ "model": "opus",
+ "summary": "The English of all six mishnayot is faithful, brief and consistent with Bartenura and Rambam; no reading needs to change. The main fault is in the senses: many were filled from whatever entry the pack linked, so they name a place or person (Tob, Helek, Sacar, Tikvah, Enos, Shem, Ramah, Atarah), a verb for a noun, or BDB's 'law (of man)' for the Torah; these are moved to the right Jastrow entries or removed. Smaller errors: אֶרֶךְ (Prov 16:32) is the adjective אָרֵךְ, not the noun; לָךְ of Ps 128:2 is masculine pausal, not feminine; בָז is the participle of בוז; two commentary summaries and one apparatus line misreport their source. The model morphology has the same errors (אֶרֶךְ, לָךְ twice, בָז) and an absolute for the emphatic תָּגָא.",
+ "patches": [
+  {
+   "ref": "4:1",
+   "path": "token:4:1.2.lex",
+   "value": "jastrow:זוֹמָא II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs/jastrow זוֹמָא I is 'broth, pulp'; Jastrow זוֹמָא II is the name Zoma, citing Ab. IV, 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.2.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs/jastrow זוֹמָא I is 'broth, pulp'; Jastrow זוֹמָא II is the name Zoma, citing Ab. IV, 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.8.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. BDB sense 2 is 'first man' (Adam); the common noun 'man, person' is Jastrow אָדָם 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.8.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: BDB sense 2 is 'first man' (Adam); the common noun 'man, person' is Jastrow אָדָם 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.27.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs טוֹב 1 is the place name Tob; the adjective 'good' is Jastrow טוֹב II 2."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.27.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs טוֹב 1 is the place name Tob; the adjective 'good' is Jastrow טוֹב II 2."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.34.lex",
+   "value": "jastrow:עִיר II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs עִיר is 'watcher, angel'; 'town, city' is Jastrow עִיר II 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.34.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs עִיר is 'watcher, angel'; 'town, city' is Jastrow עִיר II 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.38.lex",
+   "value": "jastrow:חֵלֶק",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs חֵלֶק 1 is the name Helek; 'lot, share, portion' is Jastrow חֵלֶק 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.38.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs חֵלֶק 1 is the name Helek; 'lot, share, portion' is Jastrow חֵלֶק 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.47.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs טוֹב 1 is the place name Tob; the adjective 'good' is Jastrow טוֹב II 2."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.47.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs טוֹב 1 is the place name Tob; the adjective 'good' is Jastrow טוֹב II 2."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.52.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs טוֹב 1 is the place name Tob; the adjective 'good' is Jastrow טוֹב II 2."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.52.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs טוֹב 1 is the place name Tob; the adjective 'good' is Jastrow טוֹב II 2."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.55.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. Jastrow בָּא I is '(= אבא) father'; בָּא III is the participle 'coming, future', citing עולם הבא."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.55.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: Jastrow בָּא I is '(= אבא) father'; בָּא III is the participle 'coming, future', citing עולם הבא."
+  },
+  {
+   "ref": "4:2",
+   "path": "token:4:2.7.lex",
+   "value": "jastrow:קַל II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs קַל 1.1 is 'swift', the wrong sense; Jastrow קַל II 2 'unimportant, of minor value' cites מצוה קלה."
+  },
+  {
+   "ref": "4:2",
+   "path": "token:4:2.7.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs קַל 1.1 is 'swift', the wrong sense; Jastrow קַל II 2 'unimportant, of minor value' cites מצוה קלה."
+  },
+  {
+   "ref": "4:2",
+   "path": "token:4:2.18.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs שָׂכָר 1 is the name Sacar; 'wages, reward' is Jastrow שָׂכָר 1."
+  },
+  {
+   "ref": "4:2",
+   "path": "token:4:2.18.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs שָׂכָר 1 is the name Sacar; 'wages, reward' is Jastrow שָׂכָר 1."
+  },
+  {
+   "ref": "4:2",
+   "path": "token:4:2.21.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs שָׂכָר 1 is the name Sacar; 'wages, reward' is Jastrow שָׂכָר 1."
+  },
+  {
+   "ref": "4:2",
+   "path": "token:4:2.21.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs שָׂכָר 1 is the name Sacar; 'wages, reward' is Jastrow שָׂכָר 1."
+  },
+  {
+   "ref": "4:3",
+   "path": "token:4:3.8.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. BDB sense 2 is 'first man' (Adam); the common noun 'man, person' is Jastrow אָדָם 1."
+  },
+  {
+   "ref": "4:3",
+   "path": "token:4:3.8.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: BDB sense 2 is 'first man' (Adam); the common noun 'man, person' is Jastrow אָדָם 1."
+  },
+  {
+   "ref": "4:3",
+   "path": "token:4:3.16.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. BDB sense 2 is 'first man' (Adam); the common noun 'man, person' is Jastrow אָדָם 1."
+  },
+  {
+   "ref": "4:3",
+   "path": "token:4:3.16.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: BDB sense 2 is 'first man' (Adam); the common noun 'man, person' is Jastrow אָדָם 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.3.lex",
+   "value": "jastrow:אִישׁ",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs אִישׁ is a Hithpalel verb; the noun 'man' (א׳ ירושלים 'a native of Jerusalem') is Jastrow אִישׁ 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.3.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs אִישׁ is a Hithpalel verb; the noun 'man' (א׳ ירושלים 'a native of Jerusalem') is Jastrow אִישׁ 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.11.lex",
+   "value": "jastrow:תִּקְוָה",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs תִּקְוָה 1 is the name Tikvah; the noun 'hope' is Jastrow תִּקְוָה 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.11.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs תִּקְוָה 1 is the name Tikvah; the noun 'hope' is Jastrow תִּקְוָה 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.12.lex",
+   "value": "jastrow:אֱנוֹשׁ",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs אֱנוֹשׁ 1 is the name Enos; the noun 'man' is Jastrow אֱנוֹשׁ 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.12.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs אֱנוֹשׁ 1 is the name Enos; the noun 'man' is Jastrow אֱנוֹשׁ 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.13.lex",
+   "value": "jastrow:רִמָּה",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs רָמָה 1 is the place name Ramah; 'worm, esp. the worm in man's grave' is Jastrow רִמָּה 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.13.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs רָמָה 1 is the place name Ramah; 'worm, esp. the worm in man's grave' is Jastrow רִמָּה 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.17.lex",
+   "value": "jastrow:בָּרוֹקָא II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. Jastrow בָּרוֹקָא I is 'smaragd'; בָּרוֹקָא II is 'Baroka, father of R. Johanan', citing Ab. IV, 4."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.17.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: Jastrow בָּרוֹקָא I is 'smaragd'; בָּרוֹקָא II is 'Baroka, father of R. Johanan', citing Ab. IV, 4."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.21.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs שֵׁם 1 is the name Shem; 'name' is Jastrow שֵׁם II 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.21.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs שֵׁם 1 is the name Shem; 'name' is Jastrow שֵׁם II 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.32.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs שֵׁם 1 is the name Shem; 'name' is Jastrow שֵׁם II 1."
+  },
+  {
+   "ref": "4:4",
+   "path": "token:4:4.32.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs שֵׁם 1 is the name Shem; 'name' is Jastrow שֵׁם II 1."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.6.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs תּוֹרָה 1 is 'custom, manner, law (of man)'; the Torah of Moses is Jastrow תּוֹרָה 1."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.6.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs תּוֹרָה 1 is 'custom, manner, law (of man)'; the Torah of Moses is Jastrow תּוֹרָה 1."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.29.lex",
+   "value": "jastrow:עֲטָרָה",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs עֲטָרָה 1 is the name Atarah; 'wreath, crown' is Jastrow עֲטָרָה 2."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.29.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs עֲטָרָה 1 is the name Atarah; 'wreath, crown' is Jastrow עֲטָרָה 2."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.38.lex",
+   "value": "jastrow:הִלֵּל",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs הָלַל 2 is the verb 'to praise'; Hillel the Elder is Jastrow הִלֵּל 2."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.38.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs הָלַל 2 is the verb 'to praise'; Hillel the Elder is Jastrow הִלֵּל 2."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.48.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs תּוֹרָה 1 is 'custom, manner, law (of man)'; the Torah is Jastrow תּוֹרָה 1."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.48.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs תּוֹרָה 1 is 'custom, manner, law (of man)'; the Torah is Jastrow תּוֹרָה 1."
+  },
+  {
+   "ref": "4:6",
+   "path": "token:4:6.7.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs תּוֹרָה 1 is 'custom, manner, law (of man)'; the Torah is Jastrow תּוֹרָה 1."
+  },
+  {
+   "ref": "4:6",
+   "path": "token:4:6.7.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs תּוֹרָה 1 is 'custom, manner, law (of man)'; the Torah is Jastrow תּוֹרָה 1."
+  },
+  {
+   "ref": "4:6",
+   "path": "token:4:6.8.lex",
+   "value": "jastrow:גּוּף II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. Jastrow גּוּף I is the verb 'to squeeze, cork'; 'body, person, self' is Jastrow גּוּף II 1."
+  },
+  {
+   "ref": "4:6",
+   "path": "token:4:6.8.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: Jastrow גּוּף I is the verb 'to squeeze, cork'; 'body, person, self' is Jastrow גּוּף II 1."
+  },
+  {
+   "ref": "4:6",
+   "path": "token:4:6.15.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. bdbs תּוֹרָה 1 is 'custom, manner, law (of man)'; the Torah is Jastrow תּוֹרָה 1."
+  },
+  {
+   "ref": "4:6",
+   "path": "token:4:6.15.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: bdbs תּוֹרָה 1 is 'custom, manner, law (of man)'; the Torah is Jastrow תּוֹרָה 1."
+  },
+  {
+   "ref": "4:6",
+   "path": "token:4:6.16.lex",
+   "value": "jastrow:גּוּף II",
+   "severity": "error",
+   "reason": "The sense points into the wrong entry. Jastrow גּוּף I is the verb 'to squeeze, cork'; 'body, person, self' is Jastrow גּוּף II 1."
+  },
+  {
+   "ref": "4:6",
+   "path": "token:4:6.16.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The sense of the corrected entry: Jastrow גּוּף I is the verb 'to squeeze, cork'; 'body, person, self' is Jastrow גּוּף II 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.54.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "BDB 1.2 is '(of future)', i.e. 'for ever'; here עוֹלָם is the noun 'world' (הָעוֹלָם הַבָּא), which is in sense 1."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.23.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The sense '1' is 'to form, fashion' of the verb; the noun יֵצֶר has no entry in the pack."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.23.note",
+   "value": "יֵצֶר 'impulse, inclination' is a noun of the root יצר; the pack links it to the verb יָצַר 'to form', whose senses do not fit, and lists no entry for the noun. No sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed (review brief)."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.46.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense '1' of bdbs אֲשֶׁר is the relative particle; the pack has no entry for the noun."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.46.note",
+   "value": "plural construct 'happinesses of you', an exclamation; the pack links it to bdbs אֲשֶׁר (the relative particle), a false association: the word is the noun of אַשְׁרֵי 'happiness'. The pack has no entry for it, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed (review brief)."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.49.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense '1' of bdbs אֲשֶׁר is the relative particle; the pack has no entry for the noun."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.49.note",
+   "value": "as 4:1.46: the noun of אַשְׁרֵי 'happiness', not the relative אֲשֶׁר; no entry in the pack, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed (review brief)."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.10.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Jastrow סָפֵק is the noun 'doubt'; sense 1 is only a cross-reference. The verb has no entry in the pack."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.10.note",
+   "value": "מַסְפִּיקִין, Hiphil participle plural, impersonal: 'they supply, they enable'. The pack links it to Jastrow סָפֵק 'doubt', a false association; the verb ספק 'suffice, supply' has no entry in the pack, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed (review brief)."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.18.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Jastrow סָפֵק is the noun 'doubt'; the verb has no entry in the pack."
+  },
+  {
+   "ref": "4:5",
+   "path": "token:4:5.18.note",
+   "value": "as 4:5.10: Hiphil participle of ספק 'supply, enable'; the pack's entry (סָפֵק 'doubt') is a different word, so no sense is given.",
+   "severity": "error",
+   "reason": "Says why the sense is removed (review brief)."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.28.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "אֶרֶךְ is the construct of the adjective אָרֵךְ 'long' (BDB: cstr. אֶרֶךְ אַפַּיִם Ex 34:6, Prov 16:32); the noun אֹרֶךְ keeps its holam in the construct (Prov 25:15 בְּאֹרֶךְ אַפַּיִם). The pack has only the noun's entry."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.28.gloss",
+   "value": "slow of",
+   "severity": "error",
+   "reason": "The word is an adjective, 'long of (nostrils)', i.e. 'slow (to anger)', not the noun 'slowness'."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.28.note",
+   "value": "אֶרֶךְ is the construct of the adjective אָרֵךְ 'long' (the noun אֹרֶךְ 'length' keeps its holam in the construct, as in Prov 25:15 בְּאֹרֶךְ אַפַּיִם): אֶרֶךְ אַפַּיִם 'long of nostrils' = slow to anger. The pack's entry is the noun, so no sense is given.",
+   "severity": "error",
+   "reason": "The old note took the word for the noun אֹרֶךְ."
+  },
+  {
+   "ref": "4:1",
+   "path": "literal",
+   "value": "son-of Zoma says which-is-it wise the-one-learning from-every person that-was-said Psalms 119 from-all from-teachers-of-me I-have-gained-insight for your-testimonies meditation to-me who-is hero the-one-subduing [object-marker] impulse-of-him that-was-said Proverbs 16 better long-of nostrils than-hero and-ruling in-spirit-of-him than-capturing city who-is rich the-one-rejoicing in-portion-of-him that-was-said Psalms 128 toil-of palms-of-you when you-eat happinesses-of-you and-good for-you happinesses-of-you in-the-world this and-good for-you to-the-world the-coming who-is honored the-one-honoring [object-marker] the-creatures that-was-said Samuel 1 2 for honorers-of-me I-will-honor and-despisers-of-me will-be-light",
+   "severity": "error",
+   "reason": "אֶרֶךְ is the adjective 'long of', not the noun 'slowness of'."
+  },
+  {
+   "ref": "4:1",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "4:1.1",
+      "4:1.2"
+     ],
+     "english": "Ben Zoma",
+     "literal": "'son-of Zoma': Ben Zoma is a fixed name (decisions)"
+    },
+    {
+     "tokens": [
+      "4:1.3"
+     ],
+     "english": "says",
+     "literal": "participle 'saying'"
+    },
+    {
+     "tokens": [
+      "4:1.4",
+      "4:1.5"
+     ],
+     "english": "Who is wise",
+     "literal": "'which-is-it wise'; Bartenura: who is wise enough to be entitled to boast of his wisdom"
+    },
+    {
+     "tokens": [
+      "4:1.6",
+      "4:1.7",
+      "4:1.8"
+     ],
+     "english": "One who learns from every person",
+     "literal": "'the-one-learning from-every person'; Bartenura: even from someone younger or less than himself"
+    },
+    {
+     "tokens": [
+      "4:1.9"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said': introduces the verse"
+    },
+    {
+     "tokens": [
+      "4:1.10",
+      "4:1.11"
+     ],
+     "english": "-",
+     "literal": "source reference: Psalms 119; given in the apparatus"
+    },
+    {
+     "tokens": [
+      "4:1.12",
+      "4:1.13",
+      "4:1.14"
+     ],
+     "english": "From all my teachers I have gained insight",
+     "literal": "'from-all (those who) teach-me I-have-gained-insight'"
+    },
+    {
+     "tokens": [
+      "4:1.15",
+      "4:1.16",
+      "4:1.17",
+      "4:1.18"
+     ],
+     "english": "for Your testimonies are my meditation",
+     "literal": "'for testimonies-of-you meditation to-me'; Bartenura: all my purpose was for Heaven alone"
+    },
+    {
+     "tokens": [
+      "4:1.19",
+      "4:1.20"
+     ],
+     "english": "Who is mighty",
+     "literal": "'which-is-it hero'"
+    },
+    {
+     "tokens": [
+      "4:1.21",
+      "4:1.22",
+      "4:1.23"
+     ],
+     "english": "One who subdues his impulse",
+     "literal": "'the-one-subduing [object marker] impulse-of-him'"
+    },
+    {
+     "tokens": [
+      "4:1.24"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "4:1.25",
+      "4:1.26"
+     ],
+     "english": "-",
+     "literal": "source reference: Proverbs 16; given in the apparatus"
+    },
+    {
+     "tokens": [
+      "4:1.27",
+      "4:1.28",
+      "4:1.29",
+      "4:1.30"
+     ],
+     "english": "Better is one slow to anger than a mighty man",
+     "literal": "'good (is the) long-of nostrils than-hero': אֶרֶךְ is the construct of the adjective אָרֵךְ 'long'; comparative min"
+    },
+    {
+     "tokens": [
+      "4:1.31",
+      "4:1.32"
+     ],
+     "english": "and one who rules his spirit",
+     "literal": "'and-ruling in-spirit-of-him'"
+    },
+    {
+     "tokens": [
+      "4:1.33",
+      "4:1.34"
+     ],
+     "english": "than one who captures a city",
+     "literal": "'than-capturing city'; comparative, with the verse; Bartenura reads min as 'coming from' (see commentary)"
+    },
+    {
+     "tokens": [
+      "4:1.35",
+      "4:1.36"
+     ],
+     "english": "Who is rich",
+     "literal": "'which-is-it rich'"
+    },
+    {
+     "tokens": [
+      "4:1.37",
+      "4:1.38"
+     ],
+     "english": "One who rejoices in his portion",
+     "literal": "'the-one-rejoicing in-portion-of-him'"
+    },
+    {
+     "tokens": [
+      "4:1.39"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "4:1.40",
+      "4:1.41"
+     ],
+     "english": "-",
+     "literal": "source reference: Psalms 128; given in the apparatus"
+    },
+    {
+     "tokens": [
+      "4:1.42",
+      "4:1.43",
+      "4:1.44",
+      "4:1.45"
+     ],
+     "english": "When you eat the toil of your hands",
+     "literal": "'toil-of palms-of-you when you-eat'; kî read as 'when'"
+    },
+    {
+     "tokens": [
+      "4:1.46"
+     ],
+     "english": "happy are you",
+     "literal": "'happinesses-of-you'"
+    },
+    {
+     "tokens": [
+      "4:1.47",
+      "4:1.48"
+     ],
+     "english": "and it is well with you",
+     "literal": "'and-good to-you'"
+    },
+    {
+     "tokens": [
+      "4:1.49"
+     ],
+     "english": "Happy are you",
+     "literal": "the first phrase of the verse, now quoted for explanation"
+    },
+    {
+     "tokens": [
+      "4:1.50",
+      "4:1.51"
+     ],
+     "english": "in this world",
+     "literal": "'in-the-world the-this'"
+    },
+    {
+     "tokens": [
+      "4:1.52",
+      "4:1.53"
+     ],
+     "english": "and it is well with you",
+     "literal": "the second phrase of the verse, quoted for explanation"
+    },
+    {
+     "tokens": [
+      "4:1.54",
+      "4:1.55"
+     ],
+     "english": "in the world to come",
+     "literal": "'to-the-world the-coming'"
+    },
+    {
+     "tokens": [
+      "4:1.56",
+      "4:1.57"
+     ],
+     "english": "Who is honored",
+     "literal": "'which-is-it honored'"
+    },
+    {
+     "tokens": [
+      "4:1.58",
+      "4:1.59",
+      "4:1.60"
+     ],
+     "english": "One who honors people",
+     "literal": "'the-one-honoring [object marker] the-creatures'"
+    },
+    {
+     "tokens": [
+      "4:1.61"
+     ],
+     "english": "as it is said",
+     "literal": "'that-it-was-said'"
+    },
+    {
+     "tokens": [
+      "4:1.62",
+      "4:1.63",
+      "4:1.64"
+     ],
+     "english": "-",
+     "literal": "source reference: 1 Samuel 2; given in the apparatus"
+    },
+    {
+     "tokens": [
+      "4:1.65",
+      "4:1.66",
+      "4:1.67"
+     ],
+     "english": "For those who honor Me I will honor",
+     "literal": "'for honorers-of-me I-will-honor'"
+    },
+    {
+     "tokens": [
+      "4:1.68",
+      "4:1.69"
+     ],
+     "english": "and those who despise Me will be lightly esteemed",
+     "literal": "'and-despisers-of-me will-be-light'; passive: Bartenura notes God does not say 'I will curse', they become lightly held of themselves"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase literal took אֶרֶךְ for the noun 'slowness'."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.48.note",
+   "value": "לָךְ is the pausal form of the 2nd masculine singular לְךָ (Ps 128:2 addresses a man: כַּפֶּיךָ, תֹאכֵל, אַשְׁרֶיךָ); it is not feminine. The mishnah repeats it.",
+   "severity": "error",
+   "reason": "לָךְ at the pause of Ps 128:2 is masculine pausal, as the masculine forms around it show; the note called it feminine."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.53.note",
+   "value": "the pausal masculine לָךְ of the verse, quoted again",
+   "severity": "style",
+   "reason": "Learner note for the repeated form."
+  },
+  {
+   "ref": "4:1",
+   "path": "grammar",
+   "value": [
+    "The saying has four parallel questions, each introduced by אֵיזֶהוּ ('who is it that...?') and answered by a participle with the article (הַלּוֹמֵד, הַכּוֹבֵשׁ, הַשָּׂמֵחַ, הַמְכַבֵּד): 'the one who learns', 'the one who subdues'. The participle with the article serves as a relative clause.",
+    "Each answer is closed by שֶׁנֶּאֱמַר ('as it is said') and a verse from the Bible; the verses are quoted in their biblical form, so Psalm 119 and 128 address God and the hearer directly, with biblical forms (עֵדְוֹתֶיךָ; לָךְ, the pausal form of the masculine לְךָ) that are not mishnaic Hebrew.",
+    "Proverbs 16:32 is built on מִ of comparison, doubled: טוֹב אֶרֶךְ אַפַּיִם מִגִּבּוֹר וּמֹשֵׁל בְּרוּחוֹ מִלֹּכֵד עִיר, 'better the slow-of-anger than the hero, and the ruler over his spirit than the taker of a city'.",
+    "Psalm 128:2: אַשְׁרֶיךָ is a plural construct noun used as an exclamation ('happy are you'). The mishnah splits the verse in two and gives a time to each half: 'in this world' for אַשְׁרֶיךָ and 'in the world to come' for טוֹב לָךְ.",
+    "1 Samuel 2:30 pairs a Piel participle (מְכַבְּדַי) with the matching Piel imperfect (אֲכַבֵּד); the verb root כבד has the sense 'be heavy' and the Piel 'give weight to, honor'. The same root underlies מְכֻבָּד (Pual), 'honored'. יֵקָלּוּ 'will be light' is the opposite of 'heavy'."
+   ],
+   "severity": "error",
+   "reason": "לָךְ in Ps 128:2 is the masculine pausal form, not a 2nd feminine ending."
+  },
+  {
+   "ref": "4:1",
+   "path": "token:4:1.2.note",
+   "value": "proper name: Jastrow זוֹמָא II, Shimon ben Zoma (the pack's link, זוֹמָא I 'broth, pulp', is a different word)",
+   "severity": "style",
+   "reason": "Follows the corrected lex."
+  },
+  {
+   "ref": "4:1",
+   "path": "commentary:rambam:4:1:1.summary",
+   "value": "Rambam: 'this is clear, and we already mentioned its matter in the preceding chapters'. The comment is on the whole mishnah (its DH is the word זה 'this' of his own sentence), not on הַזֶּה; it adds nothing to the English.",
+   "severity": "error",
+   "reason": "The old summary added an explanation Rambam does not give ('the contrast between this world and the world to come') and took his זה for the mishnah's הַזֶּה."
+  },
+  {
+   "ref": "4:1",
+   "path": "commentary:rabbeinu-yonah:4:1:5.summary",
+   "value": "Rabbeinu Yonah: an 'erekh appayim' is one who holds back his anger and does not want to take revenge at once, but waits for a time and a place to take it; the hot-tempered man who avenges himself at once spoils his deeds and acts without understanding. A moral gloss, not a reading of the words.",
+   "severity": "error",
+   "reason": "The clause on the one who rules his spirit and forgives from fear of God is in 4:1:6, not 4:1:5; and 4:1:5 also says why quick revenge is bad."
+  },
+  {
+   "ref": "4:2",
+   "path": "grammar",
+   "value": [
+    "הֱוֵי is an imperative of 'be' (an Aramaic-style form common in the sayings); with the participle רָץ it means 'be running', i.e. 'run'. The two commands are parallel: 'run to...' and 'flee from...' (בּוֹרֵחַ is also a participle).",
+    "קַלָּה and חֲמוּרָה are feminine adjectives agreeing with מִצְוָה; the second is used alone with כְּ + בְּ: 'as to a weighty one'.",
+    "The reasons come in two clauses with שֶׁ ('for'), each a pair of short sentences: 'a commandment draws a commandment, and a transgression draws a transgression'; 'the reward of a commandment is a commandment, and the reward of a transgression is a transgression'. The second pair has no verb 'is': the two nouns are placed side by side.",
+    "גּוֹרֶרֶת is a feminine participle of גרר, literally 'drag' (Jastrow 3), here 'draw along, bring after it'."
+   ],
+   "severity": "error",
+   "reason": "There are two שֶׁ clauses (שֶׁמִּצְוָה, שֶׁשְּׂכַר), not three; and only the second pair lacks a verb (the first has גּוֹרֶרֶת)."
+  },
+  {
+   "ref": "4:3",
+   "path": "token:4:3.6.note",
+   "value": "בָז is the Qal participle of the hollow verb בּוּז 'despise' (not of בזה, and not an adjective): 'one who despises'. With תְּהִי: 'be one who despises'. No entry in the supplied lexicon.",
+   "severity": "error",
+   "reason": "בָּז is the participle of בוז; the note called it an adjective."
+  },
+  {
+   "ref": "4:5",
+   "path": "apparatus",
+   "value": [
+    "Rabbeinu Yonah's own text (4:5:1) reads 'Rabbi Shimon his son'; the editor's bracket in it notes that our text reads 'Rabbi Ishmael'. The base text here has Rabbi Ishmael.",
+    "Vilna spelling variants: ללמוד (4:5.12, 4:5.20), לשמור (4:5.22), קרדום (4:5.33), לחפור (4:5.34), ודישתמש (4:5.40, for the base וּדְאִשְׁתַּמֵּשׁ); the pack also shows that Vilna has no word at 4:5.6 where the base has תּוֹרָה.",
+    "Bartenura's variant text: 'one who learns in order to teach: they do not enable him to learn and to teach' (taking לְלַמֵּד as 'in order to be called Rabbi'); he follows the reading in most books."
+   ],
+   "severity": "error",
+   "reason": "The attribution was reversed: Rabbeinu Yonah's DH reads רבי (שמעון בנו), and it is the copyist/editor (אמר המעתיק) who notes that 'before us' the reading is Rabbi Ishmael."
+  },
+  {
+   "ref": "4:1",
+   "path": "morph:4:1.28",
+   "value": {
+    "lang": "hbo",
+    "root": "ארך",
+    "morphemes": [
+     {
+      "form": "אֶרֶךְ",
+      "lemma": "אָרֵךְ",
+      "pos": "adjective",
+      "parse": "adjective, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "אֶרֶךְ is the construct of the adjective אָרֵךְ 'long' (BDB s.v. אָרֵךְ: cstr. אֶרֶךְ אַפַּיִם); the noun אֹרֶךְ keeps its holam in the construct (Prov 25:15)."
+  },
+  {
+   "ref": "4:1",
+   "path": "morph:4:1.48",
+   "value": {
+    "lang": "hbo",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "ךְ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "לָךְ in pause is the masculine לְךָ; Ps 128:2 addresses a man (כַּפֶּיךָ, תֹאכֵל, אַשְׁרֶיךָ)."
+  },
+  {
+   "ref": "4:1",
+   "path": "morph:4:1.53",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "ךְ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The verse's masculine pausal לָךְ, quoted again; not feminine."
+  },
+  {
+   "ref": "4:3",
+   "path": "morph:4:3.6",
+   "value": {
+    "lang": "mishnaic",
+    "root": "בוז",
+    "morphemes": [
+     {
+      "form": "בָז",
+      "lemma": "בָּז",
+      "pos": "verb",
+      "parse": "qal, participle active, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "בָּז is the Qal participle of the hollow root בוז 'despise' (cf. Prov 13:13 בָּז לְדָבָר), not an adjective of בזה."
+  },
+  {
+   "ref": "4:5",
+   "path": "morph:4:5.41",
+   "value": {
+    "lang": "arc",
+    "root": "תגא",
+    "morphemes": [
+     {
+      "form": "בְּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "תָגָא",
+      "lemma": "תָּגָא",
+      "pos": "noun",
+      "parse": "common, masculine, singular, emphatic"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "תָּגָא is in the Aramaic emphatic (determined) state, 'the crown', not the absolute (תָּג)."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:4:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:1:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:1:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:1:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:1:5",
+   "verdict": "contradicts",
+   "comment": "Bartenura reads the min of מִגִּבּוֹר and מִלֹּכֵד as 'coming from' (patience that comes from might; ruling one's spirit after taking a city). The English keeps the plain comparative of Prov 16:32, which is what the mishnah's proof needs ('better than a hero'); Rambam does not comment, so there is no agreement of the two normative commentators against it, and the reading is recorded."
+  },
+  {
+   "anchor": "bartenura:4:1:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:1:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:1:8",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:1:9",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:1:1",
+   "verdict": "not-applicable",
+   "comment": "A general remark that the mishnah is clear."
+  },
+  {
+   "anchor": "bartenura:4:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:2:2",
+   "verdict": "consistent",
+   "comment": "The English keeps the plain saying, which admits his reading."
+  },
+  {
+   "anchor": "rambam:4:2:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "bartenura:4:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:3:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:4:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:5:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:5:1",
+   "verdict": "consistent",
+   "comment": "The English keeps 'from the world'; Rambam's 'from the life of the world to come' is in the note and the phrase literal."
+  },
+  {
+   "anchor": "bartenura:4:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:6:1",
+   "verdict": "consistent"
+  }
+ ]
+}

@@ -1,0 +1,631 @@
+{
+ "unit": "noach-01",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "6:9",
+   "english": "These are the generations of Noah. Noah was a righteous man, blameless in his generations; Noah walked with God.",
+   "literal": "these generations-of Noah Noah man righteous blameless was in-generations-his with-the-God walked-habitually Noah",
+   "tokens": [
+    {
+     "id": "6:9.1",
+     "gloss": "these",
+     "sense": "b"
+    },
+    {
+     "id": "6:9.2",
+     "gloss": "generations of, the account of",
+     "note": "construct plural; the word introduces an account of Noah and what came of him"
+    },
+    {
+     "id": "6:9.3",
+     "gloss": "Noah"
+    },
+    {
+     "id": "6:9.4",
+     "gloss": "Noah",
+     "note": "repeated name, with revia: the account is interrupted and Noah is named again as the subject of the new clause"
+    },
+    {
+     "id": "6:9.5",
+     "gloss": "a man"
+    },
+    {
+     "id": "6:9.6",
+     "gloss": "righteous"
+    },
+    {
+     "id": "6:9.7",
+     "gloss": "blameless",
+     "sense": "4"
+    },
+    {
+     "id": "6:9.8",
+     "gloss": "was",
+     "sense": "Qal III",
+     "note": "qal qatal of הָיָה, 'was'; the predicate אִישׁ צַדִּיק תָּמִים stands before it"
+    },
+    {
+     "id": "6:9.9",
+     "gloss": "in his generations",
+     "sense": "2",
+     "note": "plural of דּוֹר with the 3rd masculine singular suffix, written defectively (no vav in either syllable); 'his generations' are the people of his lifetime, which Ibn Ezra extends to the generations after the flood"
+    },
+    {
+     "id": "6:9.10",
+     "gloss": "with",
+     "sense": "1",
+     "note": "אֵת here is the preposition 'with', not the object marker, after הִתְהַלֵּךְ"
+    },
+    {
+     "id": "6:9.11",
+     "gloss": "the God",
+     "sense": "3",
+     "note": "אֱלֹהִים with the article, the one true God"
+    },
+    {
+     "id": "6:9.12",
+     "gloss": "walked",
+     "sense": "Hithp",
+     "note": "hitpael qatal: habitual walking back and forth; Rashi says the form is simply past"
+    },
+    {
+     "id": "6:9.13",
+     "gloss": "Noah",
+     "note": "subject placed after the verb; silluq closes the verse"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:9.1",
+      "6:9.2",
+      "6:9.3"
+     ],
+     "english": "These are the generations of Noah",
+     "literal": "'these generations-of Noah'; verbless clause, 'are' supplied"
+    },
+    {
+     "tokens": [
+      "6:9.4"
+     ],
+     "english": "Noah",
+     "literal": "the name repeated as subject of the next clause"
+    },
+    {
+     "tokens": [
+      "6:9.5",
+      "6:9.6",
+      "6:9.7",
+      "6:9.8"
+     ],
+     "english": "was a righteous man, blameless",
+     "literal": "'man righteous blameless was'; two adjectives in series after 'man'"
+    },
+    {
+     "tokens": [
+      "6:9.9"
+     ],
+     "english": "in his generations",
+     "literal": "'in-generations-his'"
+    },
+    {
+     "tokens": [
+      "6:9.10",
+      "6:9.11",
+      "6:9.12",
+      "6:9.13"
+     ],
+     "english": "Noah walked with God",
+     "literal": "'with-the-God walked-habitually Noah'"
+    }
+   ],
+   "grammar": [
+    "תּוֹלְדֹת is in the construct state, bound to נֹחַ; the account that follows begins not with Noah's sons but with his praise (so Rashi: הוֹאִיל וְהִזְכִּירוֹ סִפֵּר בְּשִׁבְחוֹ).",
+    "The zaqef qaton on the first נֹחַ closes the heading אֵלֶּה תּוֹלְדֹת נֹחַ; the repeated נֹחַ, which carries the revia, begins a new clause as its subject: 'Noah was a righteous man'.",
+    "אִישׁ צַדִּיק תָּמִים: the two adjectives stand side by side, each describing 'man'; this predicate is placed before the verb הָיָה.",
+    "הִתְהַלֶּךְ is a hitpael perfect with no vav; Rashi notes that in this stem the same form serves for the future (imperative) and the past, here the past.",
+    "The etnaḥta on בְּדֹרֹתָיו divides the verse: the first half describes Noah, the second his relation to God."
+   ],
+   "note": "'Generations' for תּוֹלְדֹת keeps the word's range (descendants, history, account); Ibn Ezra reads it as 'events', Ramban as the plain sense 'descendants'. The phrase בְּדֹרֹתָיו is left as 'in his generations', which keeps both readings (in his own age, and in the ages after the flood) and the disputed praise/blame reading of Rashi's rabbis. 'With God' for אֶת־הָאֱלֹהִים follows the preposition אֵת; the old 'walked before' of Abraham is a different construction.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:9:1",
+     "relation": "follows",
+     "summary": "Rashi: since the text mentions Noah, it goes on to praise him, as 'the memory of the righteous is for a blessing'; or it teaches that the true generations (offspring) of the righteous are their good deeds. The English keeps 'generations', which allows this."
+    },
+    {
+     "anchor": "rashi:6:9:2",
+     "relation": "records",
+     "summary": "Rashi: some of our rabbis read בְּדֹרֹתָיו as praise (he would have been more righteous in a righteous generation) and some as disparagement (righteous only relative to his generation; beside Abraham he would count for nothing). The English leaves the phrase as 'in his generations' and does not decide between them."
+    },
+    {
+     "anchor": "rashi:6:9:3",
+     "relation": "follows",
+     "summary": "Rashi: of Abraham it says 'before whom I walked', but Noah needed support to hold him up, while Abraham strengthened himself and walked in his righteousness on his own. The English 'walked with God' keeps the preposition אֵת; the contrast with Abraham is in the commentary."
+    },
+    {
+     "anchor": "rashi:6:9:4",
+     "relation": "follows",
+     "summary": "Rashi: הִתְהַלֵּךְ is past in meaning; in the pattern of this stem the same form serves for the future and the past, as with קוּם הִתְהַלֵּךְ (future) against הִתְהַלֶּךְ נֹחַ (past). The English uses the past tense."
+    },
+    {
+     "anchor": "ibn-ezra:6:9:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: תּוֹלְדֹת means 'events', as in מַה יֵּלֶד יוֹם and אֵלֶּה תּוֹלְדֹת יַעֲקֹב. The English 'generations' does not exclude it, and the note records it. Ramban rejects this and keeps 'descendants'."
+    },
+    {
+     "anchor": "ibn-ezra:6:9:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra on אִישׁ צַדִּיק: 'in his deeds'. Righteous is read as righteous in conduct, which is the plain English."
+    },
+    {
+     "anchor": "ibn-ezra:6:9:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: תָּמִים is 'in his heart', as צַדִּיק is 'in his deeds' (6:9:2). Grammatically תָּמִים is an adjective (תֹּאַר הַשֵּׁם) from the geminate verbs (פַּעֲלֵי הַכֶּפֶל), root תמם. The English 'blameless' is read as sound and whole, so the pair means righteous in act, whole in heart."
+    },
+    {
+     "anchor": "ibn-ezra:6:9:4",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בְּדֹרֹתָיו means in his generation at the time of the flood and in the generations after, for Noah lived until Abraham was fifty-eight. The plural 'in his generations' in the English admits this reading."
+    }
+   ],
+   "apparatus": [
+    "Rashi's two rabbinic readings of בְּדֹרֹתָיו (praise or blame, b. Sanhedrin 108a) are both left open.",
+    "אֶת־הָאֱלֹהִים: אֵת is read as the preposition 'with' (cf. Rashi's comparison with Abraham's 'before whom'); the pack gives the lemma as the preposition for this token."
+   ]
+  },
+  {
+   "ref": "6:10",
+   "english": "Noah fathered three sons: Shem, Ham, and Japheth.",
+   "literal": "and-fathered Noah three sons ACC-Shem ACC-Ham and-ACC-Japheth",
+   "tokens": [
+    {
+     "id": "6:10.1",
+     "gloss": "and fathered",
+     "sense": "Hiph 1",
+     "note": "hifil wayyiqtol of יָלַד: 'beget, father'"
+    },
+    {
+     "id": "6:10.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "6:10.3",
+     "gloss": "three",
+     "note": "masculine cardinal, here before its noun"
+    },
+    {
+     "id": "6:10.4",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "6:10.5",
+     "gloss": "(object marker)",
+     "note": "marks the following name as a direct object, in apposition to 'three sons'"
+    },
+    {
+     "id": "6:10.6",
+     "gloss": "Shem"
+    },
+    {
+     "id": "6:10.7",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "6:10.8",
+     "gloss": "Ham",
+     "sense": "1"
+    },
+    {
+     "id": "6:10.9",
+     "gloss": "and (object marker)",
+     "note": "the vav joins the last item of the list"
+    },
+    {
+     "id": "6:10.10",
+     "gloss": "Japheth"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:10.1",
+      "6:10.2"
+     ],
+     "english": "Noah fathered",
+     "literal": "'and-fathered Noah'; the wayyiqtol continues the narrative"
+    },
+    {
+     "tokens": [
+      "6:10.3",
+      "6:10.4"
+     ],
+     "english": "three sons",
+     "literal": "'three sons'"
+    },
+    {
+     "tokens": [
+      "6:10.5",
+      "6:10.6"
+     ],
+     "english": "Shem",
+     "literal": "object marker plus name; the marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "6:10.7",
+      "6:10.8"
+     ],
+     "english": "Ham",
+     "literal": "object marker plus name"
+    },
+    {
+     "tokens": [
+      "6:10.9",
+      "6:10.10"
+     ],
+     "english": "and Japheth",
+     "literal": "'and-ACC Japheth'"
+    }
+   ],
+   "grammar": [
+    "וַיּוֹלֶד is hifil wayyiqtol of יָלַד; the hifil is the usual form for a father's begetting.",
+    "שְׁלֹשָׁה has the ending ־ָה yet goes with the masculine בָּנִים: from three to ten, the cardinal takes in form the opposite gender to its noun.",
+    "The three names are each marked with אֶת, in apposition to שְׁלֹשָׁה בָנִים.",
+    "The etnaḥta on בָנִים separates the number from the list of names."
+   ],
+   "note": "The verse repeats what 5:32 already said; the commentators (Radak, Ramban, Sforno) explain why, but the English simply states it. In this unit the lexicon gives the lemma of שֵׁם as 'Sem'; the English form is Shem, following the decisions.",
+   "commentary": [
+    {
+     "anchor": "ramban:6:10:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: Japheth is the eldest (10:21 אֲחִי יֶפֶת הַגָּדוֹל; his sons are listed first in chapter 10) and Ham the youngest (9:24 בְּנוֹ הַקָּטָן). Shem is put first for his eminence, Ham follows him in birth order, and so Japheth comes last; the verse does not say 'Shem, Japheth and Ham', which would set all three out of birth order. The English keeps the Hebrew order, so the comment does not change it."
+    },
+    {
+     "anchor": "radak:6:10:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the sons were already named above (5:32); they are named again here, right after 'Noah walked with God', to teach that as he devoted himself to serving God, so he taught and trained his sons to turn from the ways of the wicked and to serve the LORD. Had they not been so, they would not have been saved, for Ezekiel 14 says that Noah, Daniel and Job would save neither sons nor daughters; through them seed remained after the flood."
+    },
+    {
+     "anchor": "onkelos:6:10:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'And Noah fathered three sons, Shem, Ham and Japheth', the same plain sense."
+    },
+    {
+     "anchor": "sforno:6:10:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: from the time he began to rebuke his generation, he earned sons; a homiletical reading that does not bear on the English."
+    }
+   ]
+  },
+  {
+   "ref": "6:11",
+   "english": "The earth was corrupt before God, and the earth was filled with violence.",
+   "literal": "and-was-corrupted the-earth before the-God and-was-filled the-earth violence",
+   "tokens": [
+    {
+     "id": "6:11.1",
+     "gloss": "and was corrupted",
+     "sense": "Niph",
+     "note": "nifal wayyiqtol, feminine, because הָאָרֶץ is feminine here"
+    },
+    {
+     "id": "6:11.2",
+     "gloss": "the earth",
+     "sense": "1.c",
+     "note": "a metonymy: the earth for the people of the earth (Ibn Ezra, Radak)"
+    },
+    {
+     "id": "6:11.3",
+     "gloss": "before",
+     "sense": "I.6",
+     "note": "לִפְנֵי: literally 'to the face of'"
+    },
+    {
+     "id": "6:11.4",
+     "gloss": "God",
+     "sense": "3",
+     "note": "with the article, the one true God"
+    },
+    {
+     "id": "6:11.5",
+     "gloss": "and was filled",
+     "sense": "Niph 1",
+     "note": "nifal wayyiqtol, feminine singular"
+    },
+    {
+     "id": "6:11.6",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:11.7",
+     "gloss": "with violence",
+     "note": "an accusative of material after a verb of filling, without a preposition"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:11.1",
+      "6:11.2"
+     ],
+     "english": "The earth was corrupt",
+     "literal": "'and-was-corrupted the-earth'"
+    },
+    {
+     "tokens": [
+      "6:11.3",
+      "6:11.4"
+     ],
+     "english": "before God",
+     "literal": "'to-the-face-of the-God'"
+    },
+    {
+     "tokens": [
+      "6:11.5",
+      "6:11.6",
+      "6:11.7"
+     ],
+     "english": "and the earth was filled with violence",
+     "literal": "'and-was-filled the-earth violence'; no preposition before 'violence'"
+    }
+   ],
+   "grammar": [
+    "The two verbs are nifal wayyiqtol, both 3rd feminine singular, to agree with הָאָרֶץ.",
+    "וַתִּשָּׁחֵת and וַתִּמָּלֵא are parallel: the first says the earth was corrupted, the second what filled it.",
+    "חָמָס follows וַתִּמָּלֵא directly, with no preposition: a verb of filling keeps the thing that fills as an accusative even in the nifal, and English supplies 'with'.",
+    "The etnaḥta on הָאֱלֹהִים divides the verse into two parallel halves, each with the earth as subject.",
+    "שָׁחַת and its related forms recur in the next verse (נִשְׁחָתָה, הִשְׁחִית) and make a play on the one root."
+   ],
+   "note": "'Earth' is kept for הָאָרֶץ; Ibn Ezra and Radak read it as the people of the earth (BDB 1.c, 'earth = inhabitants of earth'), and the English leaves the metonymy for the reader. 'Was corrupt' gives the nifal of שָׁחַת, 'be spoiled, ruined'; Rashi specifies the corruption as sexual immorality and idolatry, which 'corrupt' allows. 'Violence' for חָמָס covers Rashi's robbery and Ibn Ezra's robbery, oppression and seizing women by force.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:11:1",
+     "relation": "follows",
+     "summary": "Rashi: וַתִּשָּׁחֵת is the language of sexual immorality and idolatry, as in 'lest you corrupt yourselves'. The English 'corrupt' covers both."
+    },
+    {
+     "anchor": "rashi:6:11:2",
+     "relation": "follows",
+     "summary": "Rashi on חָמָס: robbery (גֶּזֶל). The English 'violence' is the word that includes robbery."
+    },
+    {
+     "anchor": "ibn-ezra:6:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'the earth' means the people of the earth, as in 'when a land sins against me' and 'all the earth came to Egypt'. The English keeps 'earth' as a metonymy for them."
+    },
+    {
+     "anchor": "ibn-ezra:6:11:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: חָמָס is robbery, oppression and taking women by force. The English 'violence' covers these."
+    },
+    {
+     "anchor": "radak:6:11:1",
+     "relation": "follows",
+     "summary": "Radak: 'the people of the earth', as in 'and the land was filled with them' (Exod. 1:7)."
+    },
+    {
+     "anchor": "radak:6:11:2",
+     "relation": "not-applicable",
+     "summary": "Radak: לִפְנֵי הָאֱלֹהִים tells us that God watches over the lower world. It is a theological gloss and does not change the English."
+    },
+    {
+     "anchor": "radak:6:11:3",
+     "relation": "not-applicable",
+     "summary": "Radak on וַתִּמָּלֵא: God saw and decided to wipe it out, as 'before God' implies; a comment on the narrative, not on the wording."
+    },
+    {
+     "anchor": "onkelos:6:11:1",
+     "relation": "follows",
+     "summary": "Onkelos: the earth was corrupted before the LORD and filled with robberies (חֲטוֹפִין): the same plain sense, with 'robbery' for חָמָס."
+    }
+   ],
+   "apparatus": [
+    "לִפְנֵי הָאֱלֹהִים: 'before God' as 'in God's sight' or 'in God's presence'; Ibn Ezra's note at 6:11:2 (given under 6:12) discusses the two readings."
+   ]
+  },
+  {
+   "ref": "6:12",
+   "english": "God saw the earth, and indeed it was corrupt, for all flesh had corrupted its way on the earth.",
+   "literal": "and-saw God ACC-the-earth and-behold was-corrupted for corrupted all flesh ACC way-its upon the-earth",
+   "tokens": [
+    {
+     "id": "6:12.1",
+     "gloss": "and saw",
+     "sense": "Qal 1.b"
+    },
+    {
+     "id": "6:12.2",
+     "gloss": "God",
+     "sense": "4",
+     "note": "without the article, as the subject: God"
+    },
+    {
+     "id": "6:12.3",
+     "gloss": "(object marker)",
+     "note": "marks 'the earth' as the direct object"
+    },
+    {
+     "id": "6:12.4",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:12.5",
+     "gloss": "and behold, and indeed",
+     "note": "וְהִנֵּה draws attention to what is seen"
+    },
+    {
+     "id": "6:12.6",
+     "gloss": "it was corrupted",
+     "sense": "Niph",
+     "note": "nifal qatal, feminine singular, with the sense of a state: 'was corrupt'; the nifal can be read as passive or as state"
+    },
+    {
+     "id": "6:12.7",
+     "gloss": "for",
+     "sense": "3",
+     "note": "כִּי gives the reason, 'for, because'"
+    },
+    {
+     "id": "6:12.8",
+     "gloss": "had corrupted",
+     "sense": "Hiph 2",
+     "note": "hifil qatal of the same root; the active, causative counterpart of נִשְׁחָתָה, and a pluperfect in sense"
+    },
+    {
+     "id": "6:12.9",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "6:12.10",
+     "gloss": "flesh",
+     "sense": "2",
+     "note": "'all flesh' is a standard phrase for all living creatures; the commentators dispute whether it means only humans"
+    },
+    {
+     "id": "6:12.11",
+     "gloss": "(object marker)",
+     "note": "marks 'its way' as the direct object"
+    },
+    {
+     "id": "6:12.12",
+     "gloss": "its way",
+     "sense": "4",
+     "note": "construct with suffix, 'his way'; the pronoun refers back to 'flesh'"
+    },
+    {
+     "id": "6:12.13",
+     "gloss": "on",
+     "sense": "II.1"
+    },
+    {
+     "id": "6:12.14",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:12.1",
+      "6:12.2"
+     ],
+     "english": "God saw",
+     "literal": "'and-saw God'"
+    },
+    {
+     "tokens": [
+      "6:12.3",
+      "6:12.4"
+     ],
+     "english": "the earth",
+     "literal": "object marker plus 'the earth'"
+    },
+    {
+     "tokens": [
+      "6:12.5",
+      "6:12.6"
+     ],
+     "english": "and indeed it was corrupt",
+     "literal": "'and-behold was-corrupted'"
+    },
+    {
+     "tokens": [
+      "6:12.7"
+     ],
+     "english": "for",
+     "literal": "'for'"
+    },
+    {
+     "tokens": [
+      "6:12.8",
+      "6:12.9",
+      "6:12.10"
+     ],
+     "english": "all flesh had corrupted",
+     "literal": "'corrupted all flesh'; the verb is first in the clause"
+    },
+    {
+     "tokens": [
+      "6:12.11",
+      "6:12.12"
+     ],
+     "english": "its way",
+     "literal": "'ACC way-its'"
+    },
+    {
+     "tokens": [
+      "6:12.13",
+      "6:12.14"
+     ],
+     "english": "on the earth",
+     "literal": "'upon the-earth'"
+    }
+   ],
+   "grammar": [
+    "וְהִנֵּה marks what God sees, from the point of view of the one who sees: 'and there, it was corrupt'.",
+    "נִשְׁחָתָה (nifal, 'was corrupted') and הִשְׁחִית (hifil, 'corrupted') are the same root in two stems: the earth is ruined because all flesh ruined its way.",
+    "כׇּל־בָּשָׂר, 'all flesh', can mean every living creature or all humankind; here Rashi and Ibn Ezra include the animals, while Ramban and Radak take it by the plain sense as humankind.",
+    "The suffix in דַּרְכּוֹ is singular, referring back to 'flesh' taken as a whole.",
+    "The etnaḥta on נִשְׁחָתָה divides the seeing from the reason."
+   ],
+   "note": "Rashi and Ibn Ezra agree that 'all flesh' here includes the animals (beasts and birds mating with kinds not their own), and that 'its way' is the natural way of begetting: Ibn Ezra endorses the ancients' כָּל חַי לֹא שָׁמַר דֶּרֶךְ תּוֹלַדְתּוֹ. The English 'all flesh had corrupted its way' carries this reading without narrowing it. Ramban, by the plain sense, and Radak take 'all flesh' as humankind, and Onkelos adds אֱנַשׁ. The hifil הִשְׁחִית is taken as a pluperfect ('had corrupted') because it gives the cause of the state just described (נִשְׁחָתָה).",
+   "commentary": [
+    {
+     "anchor": "rashi:6:12:1",
+     "relation": "follows",
+     "summary": "Rashi on כִּי הִשְׁחִית כׇּל בָּשָׂר: even beasts, wild animals and birds joined with kinds not their own. The English 'all flesh' does not exclude animals, so this is kept open."
+    },
+    {
+     "anchor": "ibn-ezra:6:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: what our ancients said, that הִשְׁחִית כָּל בָּשָׂר אֶת דַּרְכּוֹ means every living creature failed to keep the way of its generation and twisted the known, planted path, is correct (נָכוֹן הוּא); he also praises the homily that they corrupted themselves with 'water' and God judged them with water, from above and below. With Rashi, he takes 'all flesh' to include the animals and 'its way' as the natural way of begetting; the English 'all flesh had corrupted its way' carries that reading."
+    },
+    {
+     "anchor": "ibn-ezra:6:11:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra on לִפְנֵי הָאֱלֹהִים (6:11): some say it means 'openly'; others say they corrupted themselves in secret, in hidden matters known only to God. The nearest reading in his view is that the Torah speaks in human language so that the hearers understand: like a servant who commits a transgression in front of his master and does not fear him. Those who say that אֱלֹהִים here is not holy (that is, means judges or rulers) have said nothing. The English 'before God' fits his reading."
+    },
+    {
+     "anchor": "ramban:6:12:1",
+     "relation": "records",
+     "summary": "Ramban: if 'all flesh' is taken literally, with Rashi (beasts, animals and birds mating with other kinds), then 'filled with violence because of them' (6:13) means because of some of them, and only man's punishment is told; or the animals too broke their nature, every beast preying and every bird tearing, so that they also did violence. But by the plain sense כָּל בָּשָׂר here is all humankind, as in Isa 66:23, while below (6:19, 7:15) it means every living body. The English keeps the wider 'all flesh'."
+    },
+    {
+     "anchor": "radak:6:12:1",
+     "relation": "not-applicable",
+     "summary": "Radak: only the opening word וּפֵרוּשׁ ('and its meaning'); the explanation follows in radak:6:12:2."
+    },
+    {
+     "anchor": "radak:6:12:2",
+     "relation": "records",
+     "summary": "Radak: 'all flesh' means human beings, as in 'let all flesh bless' (Ps 145:21) and 'all flesh shall come' (Isa 66:23); but by the words of our rabbis the other living creatures are included as well, as he wrote earlier. The English does not narrow 'all flesh' to people."
+    },
+    {
+     "anchor": "radak:6:12:3",
+     "relation": "records",
+     "summary": "Radak: 'its way' is the way of its begetting, like 'and he shall cleave to his wife'. The English leaves 'way' open."
+    },
+    {
+     "anchor": "onkelos:6:12:1",
+     "relation": "records",
+     "summary": "Onkelos: 'And the LORD saw the earth, and it was corrupted, for all flesh, man, had corrupted its way': אֱנַשׁ glosses כָּל בָּשָׂר as humans, which is a narrower reading than the English."
+    },
+    {
+     "anchor": "sforno:6:12:1",
+     "relation": "not-applicable",
+     "summary": "Sforno on וְהִנֵּה נִשְׁחָתָה: it was corrupt of itself, with no punishment having come; it describes the cause and does not change the wording."
+    }
+   ],
+   "apparatus": [
+    "Subject of 6:12.1: אֱלֹהִים without the article, 'God'; Onkelos renders it יְיָ, 'the LORD'.",
+    "'All flesh' including the animals (Rashi; Ibn Ezra, endorsing the ancients) or all humankind (Ramban by the plain sense, Radak, Onkelos with אֱנַשׁ): the English keeps the wider phrase."
+   ]
+  }
+ ]
+}

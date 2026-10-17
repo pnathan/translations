@@ -1,0 +1,10 @@
+{
+  "unit": "bereshit-17",
+  "model": "opus",
+  "summary": "A sound unit: every Hebrew word is accounted for, the English lines are exact, the sums in the notes (912 = 105 + 807, 905 = 90 + 815) are right, and the senses chosen (Qal 1 of חיה, Hiph 1 'beget' of ילד, Qal III of היה, 4 'days' of יוֹם, 2.b of אַחַר) fit the context. The only fault is the literal line of 5:7 and 5:10, which renders הוֹלִידוֹ as 'fathering-him', as if the suffix were the object; the suffix is the subject of the infinitive ('his fathering'). The unit has no normative anchors; the Onkelos rulings are correct.",
+  "patches": [
+    {"ref": "5:7", "path": "literal", "value": "and-lived Seth after his-fathering ACC-Enosh seven years and-eight hundreds year and-he-fathered sons and-daughters", "severity": "error", "reason": "The 3ms suffix on the infinitive construct הוֹלִידוֹ is its subject ('his fathering', i.e. after he fathered), as the token note and phrase say; 'fathering-him' reads as an object suffix, 'fathering him'."},
+    {"ref": "5:10", "path": "literal", "value": "and-lived Enosh after his-fathering ACC-Kenan five ten year and-eight hundreds year and-he-fathered sons and-daughters", "severity": "error", "reason": "As in 5:7: the suffix of הוֹלִידוֹ is the subject of the infinitive, not its object; Kenan is the object, marked by אֶת."}
+  ],
+  "verdicts": []
+}

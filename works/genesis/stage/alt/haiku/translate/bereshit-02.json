@@ -1,0 +1,1239 @@
+{
+  "unit": "bereshit-02",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "1:6",
+      "english": "And God said, Let there be a vault in the midst of the waters, and let it be a divider between water and water.",
+      "literal": "and-said God: let-be vault in-midst-of the-waters; and-let-be dividing between waters to-waters",
+      "tokens": [
+        {
+          "id": "1:6.1",
+          "gloss": "and said",
+          "sense": "Qal 1",
+          "note": "wayyiqtol (sequential imperfect): it carries the narrative on from 1:3; the subject follows the verb."
+        },
+        {
+          "id": "1:6.2",
+          "gloss": "God",
+          "sense": "3",
+          "note": "plural form with a singular verb; read as the one God (plural of majesty)."
+        },
+        {
+          "id": "1:6.3",
+          "gloss": "let be",
+          "sense": "Qal III.1",
+          "note": "jussive of hayah: 'let there be', the subject (rāqîaʿ) follows the verb."
+        },
+        {
+          "id": "1:6.4",
+          "gloss": "vault",
+          "sense": "1",
+          "note": "from rāqaʿ 'beat out, stretch out'; the lexicon gives 'expanse'. See the note on the segment."
+        },
+        {
+          "id": "1:6.5",
+          "gloss": "in the midst of",
+          "note": "bə- 'in' with tôk in the construct: 'midst of'."
+        },
+        {
+          "id": "1:6.6",
+          "gloss": "the waters",
+          "note": "article with the plural mayim."
+        },
+        {
+          "id": "1:6.7",
+          "gloss": "and let it be",
+          "sense": "Qal III",
+          "note": "yiqtol after the waw; read as continuing the jussive yᵉhî of 1:6.3. The morphology data gives yiqtol; the modal force comes from the context."
+        },
+        {
+          "id": "1:6.8",
+          "gloss": "a divider",
+          "sense": "Hiph 1",
+          "note": "hifil participle used as the predicate: 'let it be dividing'."
+        },
+        {
+          "id": "1:6.9",
+          "gloss": "between",
+          "sense": "1",
+          "note": "bên 'between'; the second term takes lə- (1:6.11)."
+        },
+        {
+          "id": "1:6.10",
+          "gloss": "water",
+          "note": "mayim is plural in form; the English uses the singular for the substance."
+        },
+        {
+          "id": "1:6.11",
+          "gloss": "and water",
+          "note": "lə- 'to' marks the second term of the idiom bên ... lə-; the English renders it 'and'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "1:6.1",
+            "1:6.2"
+          ],
+          "english": "And God said",
+          "literal": "and-said God; the wayyiqtol takes God as subject"
+        },
+        {
+          "tokens": [
+            "1:6.3",
+            "1:6.4"
+          ],
+          "english": "Let there be a vault",
+          "literal": "let-be vault; the jussive is the first of God's two commands"
+        },
+        {
+          "tokens": [
+            "1:6.5",
+            "1:6.6"
+          ],
+          "english": "in the midst of the waters",
+          "literal": "in-midst-of the-waters; construct tôk with the waters as its genitive"
+        },
+        {
+          "tokens": [
+            "1:6.7",
+            "1:6.8"
+          ],
+          "english": "and let it be a divider",
+          "literal": "and-let-be dividing; the participle is the predicate"
+        },
+        {
+          "tokens": [
+            "1:6.9",
+            "1:6.10",
+            "1:6.11"
+          ],
+          "english": "between water and water",
+          "literal": "between waters to-waters; the idiom bên ... lə-, both terms kept"
+        }
+      ],
+      "grammar": [
+        "וַיֹּאמֶר is a wayyiqtol. It continues the narrative from 1:3 ('and God said'), with the subject after the verb, as in each creative speech of the chapter.",
+        "יְהִי (jussive) and וִיהִי (yiqtol after waw) are the two verbs of the speech. Both are forms of הָיָה 'be': 'let there be a vault', and 'let it be a divider'. The participle מַבְדִּיל is the predicate of the second.",
+        "The etnaḥta on הַמָּיִם (1:6.6) divides the verse into two halves: the vault set in the waters, and its dividing function. The silluq on לָמָֽיִם (1:6.11) ends the verse.",
+        "בֵּין מַיִם לָמָיִם is the idiom 'between X and Y': the first term takes bên, the second takes lə-. The English 'between water and water' keeps both terms."
+      ],
+      "note": "rāqîaʿ is the one word in this verse that needs a decision. The English 'vault' keeps the sense of a stretched, beaten-out surface (rāqaʿ). The lexicon's 'expanse' is recorded in the token note and the apparatus.",
+      "commentary": [
+        {
+          "anchor": "rashi:1:6:1",
+          "relation": "records",
+          "summary": "Rashi reads 'let there be a vault' as 'let the vault be made firm' (יֶחֱזַק הָרָקִיעַ): the heavens were created moist on the first day and hardened at this command on the second. The English keeps the plain 'let there be' and records Rashi's reading of the verb."
+        },
+        {
+          "anchor": "rashi:1:6:2",
+          "relation": "follows",
+          "summary": "Rashi takes 'in the midst of the waters' (בְּאֶמְצַע הַמַּיִם) as a plain spatial statement: the upper waters lie above the vault as the lower waters lie beneath it, held there by God's word. The English adopts this spatial reading."
+        },
+        {
+          "anchor": "ibn-ezra:1:6:1",
+          "relation": "follows",
+          "summary": "Ibn Ezra takes rāqîaʿ as 'something stretched out' (דָּבָר נָטוּי), citing 'they beat out' (וַיְרַקְּעוּ, Exod 39:3) and 'stretches them like a tent' (Isa 40:22). He identifies it with the air. The English adopts the stretched sense of 'vault' but not the identification with air."
+        },
+        {
+          "anchor": "radak:1:6:1",
+          "relation": "records",
+          "summary": "Radak: anything stretched and beaten out is called rāqîaʿ (cf. the 'beaten plates' of Num 17:3). He identifies it with the air around the whole terrestrial globe. The English keeps only the stretched sense."
+        }
+      ],
+      "apparatus": [
+        "rāqîaʿ: the pack's lexicon gives 'expanse'; 'vault' is a choice for the stretched-surface sense. The Hebrew does not decide between the two."
+      ]
+    },
+    {
+      "ref": "1:7",
+      "english": "And God made the vault, and separated the waters beneath the vault from the waters above the vault. And it was so.",
+      "literal": "and-made God [object] the-vault, and-separated between the-waters that from-under to-the-vault, and-between the-waters that from-above to-the-vault; and-it-was so",
+      "tokens": [
+        {
+          "id": "1:7.1",
+          "gloss": "and made",
+          "sense": "Qal II.1",
+          "note": "wayyiqtol of ʿāśâ 'make'; the subject follows."
+        },
+        {
+          "id": "1:7.2",
+          "gloss": "God",
+          "sense": "3"
+        },
+        {
+          "id": "1:7.3",
+          "gloss": "(object marker)",
+          "note": "ʾēt marks the definite direct object; it has no English counterpart."
+        },
+        {
+          "id": "1:7.4",
+          "gloss": "the vault",
+          "sense": "1"
+        },
+        {
+          "id": "1:7.5",
+          "gloss": "and separated",
+          "sense": "Hiph 1",
+          "note": "hifil wayyiqtol of bādal 'separate', the verb of 1:4 and 1:6."
+        },
+        {
+          "id": "1:7.6",
+          "gloss": "between",
+          "sense": "1",
+          "note": "bên 'between'. Its second term is 1:7.11."
+        },
+        {
+          "id": "1:7.7",
+          "gloss": "the waters"
+        },
+        {
+          "id": "1:7.8",
+          "gloss": "that",
+          "note": "relative ʾăšer, introducing 'which are beneath the vault'."
+        },
+        {
+          "id": "1:7.9",
+          "gloss": "from under",
+          "note": "min 'from' with taḥat 'under'."
+        },
+        {
+          "id": "1:7.10",
+          "gloss": "to the vault",
+          "sense": "1",
+          "note": "lə- with the article: 'under the vault'."
+        },
+        {
+          "id": "1:7.11",
+          "gloss": "and between",
+          "sense": "1",
+          "note": "second term of the bên pair; the English 'from' carries it."
+        },
+        {
+          "id": "1:7.12",
+          "gloss": "the waters"
+        },
+        {
+          "id": "1:7.13",
+          "gloss": "that",
+          "note": "relative ʾăšer, introducing 'which are above the vault'."
+        },
+        {
+          "id": "1:7.14",
+          "gloss": "from above",
+          "sense": "IV.2",
+          "note": "min 'from' with ʿal 'upon': 'from above'."
+        },
+        {
+          "id": "1:7.15",
+          "gloss": "to the vault",
+          "sense": "1"
+        },
+        {
+          "id": "1:7.16",
+          "gloss": "and it was",
+          "sense": "Qal I.2.a.(1)",
+          "note": "wayyiqtol of hayah: 'and it was'."
+        },
+        {
+          "id": "1:7.17",
+          "gloss": "so",
+          "note": "adverb kēn 'so, thus'. This closing formula ends verses 7, 9 and 11."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "1:7.1",
+            "1:7.2"
+          ],
+          "english": "And God made",
+          "literal": "and-made God; wayyiqtol with God as subject"
+        },
+        {
+          "tokens": [
+            "1:7.3"
+          ],
+          "english": "-",
+          "literal": "'et, the object marker, has no English counterpart"
+        },
+        {
+          "tokens": [
+            "1:7.4"
+          ],
+          "english": "the vault",
+          "literal": "the-vault; the direct object of 'made'"
+        },
+        {
+          "tokens": [
+            "1:7.5"
+          ],
+          "english": "and separated",
+          "literal": "and-separated; hifil of 'separate'"
+        },
+        {
+          "tokens": [
+            "1:7.6",
+            "1:7.7",
+            "1:7.8",
+            "1:7.9",
+            "1:7.10"
+          ],
+          "english": "the waters beneath the vault",
+          "literal": "between the-waters that from-under to-the-vault; 'between' is carried by 'from' in the next phrase"
+        },
+        {
+          "tokens": [
+            "1:7.11",
+            "1:7.12",
+            "1:7.13",
+            "1:7.14",
+            "1:7.15"
+          ],
+          "english": "from the waters above the vault",
+          "literal": "and-between the-waters that from-above to-the-vault; the second term of the bên pair, rendered with 'from'"
+        },
+        {
+          "tokens": [
+            "1:7.16",
+            "1:7.17"
+          ],
+          "english": "And it was so",
+          "literal": "and-it-was so"
+        }
+      ],
+      "grammar": [
+        "The verse has two halves divided by the etnaḥta on לָרָקִיעַ (1:7.15). The first half is the making of the vault and the separating of the waters (zinor on אֱלֹהִים, revia on וַיַּבְדֵּל). The second half, וַֽיְהִי־כֵֽן, is a separate clause that ends with silluq.",
+        "The verb וַיַּבְדֵּל is the hifil of bādal, 'separate': the same verb as 1:4, and as the participle of 1:6.",
+        "The bên pair appears twice, each with a relative clause: 'the waters that are beneath the vault' and 'between the waters that are above the vault'. The English merges the two terms into one sentence with 'from'.",
+        "wayhi-khen ('and it was so') closes verses 7, 9 and 11. In each case it is a short wayyiqtol with a silluq, separate from the verb before it."
+      ],
+      "commentary": [
+        {
+          "anchor": "rashi:1:7:1",
+          "relation": "records",
+          "summary": "Rashi glosses wayyaʿaś as 'he set it right in its place' (תִּקְּנוֹ עַל עָמְדוֹ), comparing 'she shall trim (ʿāśətāh) her nails' (Deut 21:12). The English keeps 'made' and records Rashi's sense of setting in order."
+        },
+        {
+          "anchor": "rashi:1:7:2",
+          "relation": "follows",
+          "summary": "Rashi notes that the text says 'above the vault' (מֵעַל לָרָקִיעַ), not 'on the vault' (עַל הָרָקִיעַ), because the upper waters hang in the air. The English 'above the vault' follows this."
+        },
+        {
+          "anchor": "ibn-ezra:1:7:1",
+          "relation": "follows",
+          "summary": "Ibn Ezra observes that the verb 'divide' takes 'between' with lamed (bein mayim lamayim, 1:6), and also bein ... u-bein, as here: 'between the waters that are beneath the vault and between the waters...'. The English 'from ... from' follows the two-term bên ... u-bên construction."
+        },
+        {
+          "anchor": "ibn-ezra:1:7:2",
+          "relation": "declines",
+          "summary": "Ibn Ezra attaches 'and it was so' (וַיְהִי כֵן) to the next verse: 'as it was so, he called the vault shamayim'. The English does not, because the silluq on כֵֽן (1:7.17) closes the verse, as it does in verses 9 and 11."
+        }
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "1:8",
+      "english": "And God named the vault 'Sky'. And there was evening, and there was morning, the second day.",
+      "literal": "and-named God to-the-vault Sky; and-there-was evening, and-there-was morning, day second",
+      "tokens": [
+        {
+          "id": "1:8.1",
+          "gloss": "and named",
+          "sense": "Qal 6",
+          "note": "wayyiqtol of qārāʾ 'call, name', as in 1:5."
+        },
+        {
+          "id": "1:8.2",
+          "gloss": "God",
+          "sense": "3"
+        },
+        {
+          "id": "1:8.3",
+          "gloss": "the vault",
+          "sense": "1",
+          "note": "lə- marks the vault as the object of the naming."
+        },
+        {
+          "id": "1:8.4",
+          "gloss": "Sky",
+          "sense": "1.a",
+          "note": "shāmayim has no singular. The lexicon's 'visible heavens, sky' is the sense used for the name."
+        },
+        {
+          "id": "1:8.5",
+          "gloss": "and there was",
+          "sense": "Qal I.2.a.(1)",
+          "note": "wayyiqtol of hayah with the time word as subject."
+        },
+        {
+          "id": "1:8.6",
+          "gloss": "evening",
+          "sense": "1.a"
+        },
+        {
+          "id": "1:8.7",
+          "gloss": "and there was",
+          "sense": "Qal I.2.a.(1)"
+        },
+        {
+          "id": "1:8.8",
+          "gloss": "morning",
+          "sense": "1"
+        },
+        {
+          "id": "1:8.9",
+          "gloss": "day",
+          "sense": "1",
+          "note": "yôm 'day' before its ordinal."
+        },
+        {
+          "id": "1:8.10",
+          "gloss": "second",
+          "note": "the ordinal follows its noun: 'day second'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "1:8.1",
+            "1:8.2"
+          ],
+          "english": "And God named",
+          "literal": "and-named God"
+        },
+        {
+          "tokens": [
+            "1:8.3",
+            "1:8.4"
+          ],
+          "english": "the vault 'Sky'",
+          "literal": "to-the-vault Sky; a common noun used as the name"
+        },
+        {
+          "tokens": [
+            "1:8.5",
+            "1:8.6"
+          ],
+          "english": "And there was evening",
+          "literal": "and-there-was evening"
+        },
+        {
+          "tokens": [
+            "1:8.7",
+            "1:8.8"
+          ],
+          "english": "and there was morning",
+          "literal": "and-there-was morning"
+        },
+        {
+          "tokens": [
+            "1:8.9",
+            "1:8.10"
+          ],
+          "english": "the second day",
+          "literal": "day second"
+        }
+      ],
+      "grammar": [
+        "The naming clause repeats the pattern of 1:5, where God names the light and the darkness. Here the object is the vault and the name is 'Sky'.",
+        "shāmayim is plural in form and has no singular. The English 'Sky' is a plain name for the vault; 'Heavens' is the traditional alternative.",
+        "The day formula is evening first, then morning, then the ordinal after the noun ('day second'). The same formula ends days one and three.",
+        "Accents: darga on וַיִּקְרָא (1:8.1), etnaḥta on שָׁמָיִם (1:8.4), and silluq on שֵׁנִי (1:8.10). A petuḥah (פ) follows the verse, so 1:9 begins a new paragraph."
+      ],
+      "commentary": [
+        {
+          "anchor": "rashi:1:8:1",
+          "relation": "records",
+          "summary": "Rashi derives שָׁמַיִם from sā' mayim, sham mayim, 'ēš ûmayim: 'lift up water, there is water, fire and water', the elements mixed to make the sky. The English reads 'Sky' as a name and records Rashi's etymology."
+        },
+        {
+          "anchor": "ibn-ezra:1:8:1",
+          "relation": "follows",
+          "summary": "Ibn Ezra notes that God names these things (light, darkness, the heavens, earth, seas and man) because no human was there to name them. The English keeps God as the one who names the vault."
+        }
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "1:9",
+      "english": "And God said, Let the waters gather beneath the sky into one place, and let the dry land appear. And it was so.",
+      "literal": "and-said God: be-gathered the-waters from-under the-sky to place one; and-let-appear the-dry-land; and-it-was so",
+      "tokens": [
+        {
+          "id": "1:9.1",
+          "gloss": "and said",
+          "sense": "Qal 1"
+        },
+        {
+          "id": "1:9.2",
+          "gloss": "God",
+          "sense": "3"
+        },
+        {
+          "id": "1:9.3",
+          "gloss": "let be gathered",
+          "note": "nifal jussive of qāwâ 'be gathered'. The verb is passive in form; the waters are its subject."
+        },
+        {
+          "id": "1:9.4",
+          "gloss": "the waters"
+        },
+        {
+          "id": "1:9.5",
+          "gloss": "from under",
+          "note": "min 'from' with taḥat 'under'."
+        },
+        {
+          "id": "1:9.6",
+          "gloss": "the sky",
+          "sense": "1.a"
+        },
+        {
+          "id": "1:9.7",
+          "gloss": "into",
+          "sense": "2",
+          "note": "ʾel 'to, into' with a verb of motion."
+        },
+        {
+          "id": "1:9.8",
+          "gloss": "place",
+          "sense": "2.a"
+        },
+        {
+          "id": "1:9.9",
+          "gloss": "one",
+          "sense": "1",
+          "note": "the numeral follows its noun: 'to a place one'."
+        },
+        {
+          "id": "1:9.10",
+          "gloss": "and let appear",
+          "sense": "Niph 1",
+          "note": "nifal yiqtol of rāʾâ, feminine singular to agree with 'the dry land'; a jussive continuing 1:9.3."
+        },
+        {
+          "id": "1:9.11",
+          "gloss": "the dry land"
+        },
+        {
+          "id": "1:9.12",
+          "gloss": "and it was",
+          "sense": "Qal I.2.a.(1)"
+        },
+        {
+          "id": "1:9.13",
+          "gloss": "so",
+          "note": "adverb kēn 'so'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "1:9.1",
+            "1:9.2"
+          ],
+          "english": "And God said",
+          "literal": "and-said God"
+        },
+        {
+          "tokens": [
+            "1:9.3",
+            "1:9.4"
+          ],
+          "english": "Let the waters gather",
+          "literal": "let-be-gathered the-waters; the verb is passive in form and the English makes it active"
+        },
+        {
+          "tokens": [
+            "1:9.5",
+            "1:9.6"
+          ],
+          "english": "beneath the sky",
+          "literal": "from-under the-sky"
+        },
+        {
+          "tokens": [
+            "1:9.7",
+            "1:9.8",
+            "1:9.9"
+          ],
+          "english": "into one place",
+          "literal": "to place one"
+        },
+        {
+          "tokens": [
+            "1:9.10",
+            "1:9.11"
+          ],
+          "english": "and let the dry land appear",
+          "literal": "and-let-appear the-dry-land"
+        },
+        {
+          "tokens": [
+            "1:9.12",
+            "1:9.13"
+          ],
+          "english": "And it was so",
+          "literal": "and-it-was so"
+        }
+      ],
+      "grammar": [
+        "The jussive יִקָּווּ is nifal, a passive-form verb. The waters are its grammatical subject, and the gathering is God's command.",
+        "The verb וְתֵרָאֶה is feminine singular because its subject, הַיַּבָּשָׁה 'the dry land', is feminine. The wayyiqtol form in the next clause does the same for the closing formula.",
+        "The etnaḥta on הַיַּבָּשָׁה (1:9.11) divides the verse into two parts: the gathering of the waters, and the appearance of the dry land.",
+        "The closing formula וַיְהִי כֵן ends with silluq, as in 1:7 and 1:11."
+      ],
+      "commentary": [
+        {
+          "anchor": "rashi:1:9:1",
+          "relation": "follows",
+          "summary": "Rashi: the waters had lain spread over the whole earth, and their gathering place (הִקְוָם) is the Ocean, the great sea among all seas. The English 'into one place' follows, leaving the place unnamed."
+        },
+        {
+          "anchor": "ibn-ezra:1:9:1",
+          "relation": "records",
+          "summary": "Ibn Ezra argues that verse 9 belongs with what precedes: the gathering was not a new creation but an arrangement of waters already there, and the verse is not strictly sequential (he cites Gen 2:4-19 and reads the verbs as pluperfect). The English keeps the verse's order and records his reading."
+        },
+        {
+          "anchor": "ibn-ezra:1:9:2",
+          "relation": "follows",
+          "summary": "Ibn Ezra glosses יִקָּווּ as 'they join together' (יִתְחַבְּרוּ), comparing 'and all nations shall be gathered to it' (Jer 3:17). The English 'gather' follows."
+        },
+        {
+          "anchor": "ibn-ezra:1:10:1",
+          "relation": "follows",
+          "summary": "Ibn Ezra explains the plural 'Seas' (יַמִּים, in 1:10) by the absence of a single sea surrounding the whole earth. The English 'Seas' in 1:10 follows the plural."
+        }
+      ],
+      "apparatus": [
+        "ibn-ezra:1:9:1 places the gathering before the creation of the vault; the English keeps the verse's own order."
+      ]
+    },
+    {
+      "ref": "1:10",
+      "english": "And God named the dry land 'Earth', and the gathering of the waters he named 'Seas'. And God saw that it was good.",
+      "literal": "and-named God to-the-dry-land Earth; and-to-gathering-of the-waters he-named Seas; and-saw God that good",
+      "tokens": [
+        {
+          "id": "1:10.1",
+          "gloss": "and named",
+          "sense": "Qal 6"
+        },
+        {
+          "id": "1:10.2",
+          "gloss": "God",
+          "sense": "3"
+        },
+        {
+          "id": "1:10.3",
+          "gloss": "the dry land",
+          "note": "lə- 'to' marks the dry land as the object of the naming."
+        },
+        {
+          "id": "1:10.4",
+          "gloss": "Earth",
+          "sense": "1.a",
+          "note": "ʾereṣ names the dry land here. The same noun is the earth of 1:1."
+        },
+        {
+          "id": "1:10.5",
+          "gloss": "and the gathering of",
+          "note": "miqweh 'gathering, collection' in the construct with the waters."
+        },
+        {
+          "id": "1:10.6",
+          "gloss": "the waters"
+        },
+        {
+          "id": "1:10.7",
+          "gloss": "he named",
+          "sense": "Qal 6",
+          "note": "qatal after the wayyiqtol: a parallel clause, not a new step in the sequence."
+        },
+        {
+          "id": "1:10.8",
+          "gloss": "Seas",
+          "note": "plural of yām 'sea'. Ibn Ezra explains the plural by the absence of a single sea around the whole earth."
+        },
+        {
+          "id": "1:10.9",
+          "gloss": "and saw",
+          "sense": "Qal 1.a"
+        },
+        {
+          "id": "1:10.10",
+          "gloss": "God",
+          "sense": "3"
+        },
+        {
+          "id": "1:10.11",
+          "gloss": "that",
+          "sense": "1"
+        },
+        {
+          "id": "1:10.12",
+          "gloss": "good",
+          "sense": "3",
+          "note": "tôb as God's evaluation. The formula is absent from the second day (see Rashi on 1:7)."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "1:10.1",
+            "1:10.2"
+          ],
+          "english": "And God named",
+          "literal": "and-named God"
+        },
+        {
+          "tokens": [
+            "1:10.3"
+          ],
+          "english": "the dry land",
+          "literal": "to-the-dry-land"
+        },
+        {
+          "tokens": [
+            "1:10.4"
+          ],
+          "english": "'Earth'",
+          "literal": "Earth"
+        },
+        {
+          "tokens": [
+            "1:10.5",
+            "1:10.6"
+          ],
+          "english": "and the gathering of the waters",
+          "literal": "and-to-gathering-of the-waters"
+        },
+        {
+          "tokens": [
+            "1:10.7",
+            "1:10.8"
+          ],
+          "english": "he named 'Seas'",
+          "literal": "he-named Seas; a qatal in a parallel clause"
+        },
+        {
+          "tokens": [
+            "1:10.9",
+            "1:10.10"
+          ],
+          "english": "And God saw",
+          "literal": "and-saw God"
+        },
+        {
+          "tokens": [
+            "1:10.11",
+            "1:10.12"
+          ],
+          "english": "that it was good",
+          "literal": "that good; the evaluation formula"
+        }
+      ],
+      "grammar": [
+        "The verse has two naming clauses. The first is a wayyiqtol (וַיִּקְרָא, 1:10.1). The second is a qatal (קָרָא, 1:10.7). The change of form marks a parallel clause, not a new step in the sequence.",
+        "Both names are common nouns used as names. The dry land is 'earth' (ʾereṣ), and the waters' gathering is 'seas' (yammîm, plural).",
+        "Accents: etnaḥta on יַמִּים (1:10.8) divides the verse into the naming and the evaluation; silluq on טוֹב (1:10.12) ends it.",
+        "The evaluation 'that it was good' recurs in 1:12. The verse is the first of the two evaluations of the third day."
+      ],
+      "commentary": [
+        {
+          "anchor": "rashi:1:10:1",
+          "relation": "follows",
+          "summary": "Rashi asks why יַמִּים is plural when there is one sea, and answers that the seas differ in taste (fish from Akko and fish from Asfamia). The English 'Seas' follows the plural."
+        }
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "1:11",
+      "english": "And God said, Let the earth sprout grass, plants bearing seed, fruit trees bearing fruit of its kind, whose seed is in it, on the earth. And it was so.",
+      "literal": "and-said God: let-sprout the-earth grass; plant producing seed; tree fruit making fruit according-to-its-kind, whose its-seed in-it, on the-earth; and-it-was so",
+      "tokens": [
+        {
+          "id": "1:11.1",
+          "gloss": "and said",
+          "sense": "Qal 1"
+        },
+        {
+          "id": "1:11.2",
+          "gloss": "God",
+          "sense": "3"
+        },
+        {
+          "id": "1:11.3",
+          "gloss": "let sprout",
+          "sense": "Hiph",
+          "note": "hifil jussive of dāšāʾ. Its noun 'grass' (1:11.5) is the cognate object."
+        },
+        {
+          "id": "1:11.4",
+          "gloss": "the earth",
+          "sense": "1.a"
+        },
+        {
+          "id": "1:11.5",
+          "gloss": "grass",
+          "note": "deše' is the general green cover of the ground, the cognate object of 'let sprout'."
+        },
+        {
+          "id": "1:11.6",
+          "gloss": "plant",
+          "note": "ʿēśeb is a single herb. The lexicon gives 'herb, herbage'."
+        },
+        {
+          "id": "1:11.7",
+          "gloss": "bearing",
+          "sense": "Hiph 1",
+          "note": "hifil participle of zārāʿ 'produce seed'."
+        },
+        {
+          "id": "1:11.8",
+          "gloss": "seed",
+          "sense": "2"
+        },
+        {
+          "id": "1:11.9",
+          "gloss": "tree",
+          "sense": "1.a",
+          "note": "construct before pərî: 'tree of fruit'. The tree is the one making fruit."
+        },
+        {
+          "id": "1:11.10",
+          "gloss": "fruit",
+          "sense": "3"
+        },
+        {
+          "id": "1:11.11",
+          "gloss": "bearing",
+          "sense": "Qal II.2",
+          "note": "qal participle of ʿāśâ 'make, produce'."
+        },
+        {
+          "id": "1:11.12",
+          "gloss": "fruit",
+          "sense": "3"
+        },
+        {
+          "id": "1:11.13",
+          "gloss": "of its kind",
+          "note": "lə- with mîn 'kind' and the suffix 'its'."
+        },
+        {
+          "id": "1:11.14",
+          "gloss": "whose",
+          "note": "relative ʾăšer; the antecedent is the fruit."
+        },
+        {
+          "id": "1:11.15",
+          "gloss": "its seed"
+        },
+        {
+          "id": "1:11.16",
+          "gloss": "in it"
+        },
+        {
+          "id": "1:11.17",
+          "gloss": "on",
+          "sense": "II.1"
+        },
+        {
+          "id": "1:11.18",
+          "gloss": "the earth",
+          "sense": "1.a"
+        },
+        {
+          "id": "1:11.19",
+          "gloss": "and it was",
+          "sense": "Qal I.2.a.(1)"
+        },
+        {
+          "id": "1:11.20",
+          "gloss": "so",
+          "note": "adverb kēn 'so'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "1:11.1",
+            "1:11.2"
+          ],
+          "english": "And God said",
+          "literal": "and-said God"
+        },
+        {
+          "tokens": [
+            "1:11.3",
+            "1:11.4"
+          ],
+          "english": "Let the earth sprout",
+          "literal": "let-sprout the-earth"
+        },
+        {
+          "tokens": [
+            "1:11.5"
+          ],
+          "english": "grass",
+          "literal": "grass"
+        },
+        {
+          "tokens": [
+            "1:11.6",
+            "1:11.7",
+            "1:11.8"
+          ],
+          "english": "plants bearing seed",
+          "literal": "plant producing seed"
+        },
+        {
+          "tokens": [
+            "1:11.9",
+            "1:11.10",
+            "1:11.11",
+            "1:11.12",
+            "1:11.13"
+          ],
+          "english": "fruit trees bearing fruit of its kind",
+          "literal": "tree fruit making fruit according-to-its-kind; the English reverses tree and fruit"
+        },
+        {
+          "tokens": [
+            "1:11.14",
+            "1:11.15",
+            "1:11.16"
+          ],
+          "english": "whose seed is in it",
+          "literal": "whose its-seed in-it"
+        },
+        {
+          "tokens": [
+            "1:11.17",
+            "1:11.18"
+          ],
+          "english": "on the earth",
+          "literal": "on the-earth"
+        },
+        {
+          "tokens": [
+            "1:11.19",
+            "1:11.20"
+          ],
+          "english": "And it was so",
+          "literal": "and-it-was so"
+        }
+      ],
+      "grammar": [
+        "The three objects of 'let sprout' are grass, plants bearing seed, and fruit trees bearing fruit. They stand in apposition, and the participles mazriaʿ and ʿōśeh modify the nouns they follow.",
+        "The jussive tadshe' is feminine to agree with the earth, its subject. Its cognate noun deše' repeats the verb's root, a common Hebrew emphatic pattern.",
+        "The formula 'of its kind' (lə-mînô) says that each plant reproduces its own kind. It recurs through the chapter.",
+        "Accents: revia on אֱלֹהִים (1:11.2), mahpakh on תַּֽדְשֵׁא (1:11.3), etnaḥta on הָאָרֶץ (1:11.18), which ends the first part, and silluq on כֵֽן (1:11.20)."
+      ],
+      "commentary": [
+        {
+          "anchor": "rashi:1:11:1",
+          "relation": "follows",
+          "summary": "Rashi distinguishes deše' from ʿēśeb. Deše' is the general green covering of the ground (לְבִישַׁת הָאָרֶץ בִּדְשָׁאִים), and each kind of herb is an ʿēśeb with its own name. The English 'grass' for deše' and 'plants' for ʿēśeb follows this distinction."
+        },
+        {
+          "anchor": "rashi:1:11:2",
+          "relation": "records",
+          "summary": "Rashi glosses tadshe' as 'let it be filled and clothed with herbage' (תִּתְמַלֵּא וְתִתְכַּסֶּה לְבוּשׁ עֲשָׂבִים), a passive sense. The English keeps the causative 'sprout', which the hifil gives, and records Rashi's reading."
+        },
+        {
+          "anchor": "rashi:1:11:3",
+          "relation": "follows",
+          "summary": "Rashi glosses mazriaʿ zeraʿ as 'that it makes its seed grow, to sow it elsewhere'. The English 'plants bearing seed' follows; the purpose clause is not in the English."
+        },
+        {
+          "anchor": "rashi:1:11:4",
+          "relation": "follows",
+          "summary": "Rashi reads ʿēṣ ʿōśeh pərî as 'a tree making fruit, not a tree that is fruit' (עֵץ עוֹשֶׂה פְּרִי וְלֹא הָעֵץ פְּרִי). The English 'fruit trees bearing fruit' keeps tree and fruit apart."
+        },
+        {
+          "anchor": "rashi:1:11:5",
+          "relation": "follows",
+          "summary": "Rashi: 'whose seed is in it' (אֲשֶׁר זַרְעוֹ בוֹ) means the seeds, the pits or kernels of every fruit, from which the tree grows when planted. The English 'whose seed is in it' follows."
+        },
+        {
+          "anchor": "ibn-ezra:1:11:1",
+          "relation": "follows",
+          "summary": "Ibn Ezra says the command gives the earth the power to bring forth plants, as the parallel jussives of 1:20 (יִשְׁרְצוּ) and 1:24 (תּוֹצֵא) do for the waters and the land animals. The English 'Let the earth sprout' follows this."
+        },
+        {
+          "anchor": "ibn-ezra:1:11:2",
+          "relation": "follows",
+          "summary": "Ibn Ezra glosses tadshe' as 'tatsmiaḥ' (cause to grow). The English 'sprout' follows this sense."
+        },
+        {
+          "anchor": "ibn-ezra:1:11:3",
+          "relation": "follows",
+          "summary": "Ibn Ezra says the seed is within the fruit, and each kind keeps its own kind (שֶׁכָּל אֶחָד שׁוֹמֵר מִינוֹ). The English 'whose seed is in it' follows."
+        }
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "1:12",
+      "english": "And the earth brought forth grass, plants bearing seed according to its kind, and trees bearing fruit whose seed is in it, according to its kind. And God saw that it was good.",
+      "literal": "and-brought-forth the-earth grass; plant producing seed according-to-its-kind; and-tree making fruit whose its-seed in-it, according-to-its-kind; and-saw God that good",
+      "tokens": [
+        {
+          "id": "1:12.1",
+          "gloss": "and brought forth",
+          "sense": "Hiph 5",
+          "note": "wayyiqtol hifil of yāṣāʾ 'bring out, bring forth'. The earth is the subject."
+        },
+        {
+          "id": "1:12.2",
+          "gloss": "the earth",
+          "sense": "1.a"
+        },
+        {
+          "id": "1:12.3",
+          "gloss": "grass",
+          "note": "telisha gedola sets 'grass' apart as the first of the three objects."
+        },
+        {
+          "id": "1:12.4",
+          "gloss": "plant"
+        },
+        {
+          "id": "1:12.5",
+          "gloss": "producing",
+          "sense": "Hiph 1"
+        },
+        {
+          "id": "1:12.6",
+          "gloss": "seed",
+          "sense": "2"
+        },
+        {
+          "id": "1:12.7",
+          "gloss": "according to its kind"
+        },
+        {
+          "id": "1:12.8",
+          "gloss": "and tree",
+          "sense": "1.a",
+          "note": "the singular names a class of trees; the English uses the plural."
+        },
+        {
+          "id": "1:12.9",
+          "gloss": "making",
+          "sense": "Qal II.2"
+        },
+        {
+          "id": "1:12.10",
+          "gloss": "fruit",
+          "sense": "3"
+        },
+        {
+          "id": "1:12.11",
+          "gloss": "whose",
+          "note": "relative ʾăšer."
+        },
+        {
+          "id": "1:12.12",
+          "gloss": "its seed"
+        },
+        {
+          "id": "1:12.13",
+          "gloss": "in it"
+        },
+        {
+          "id": "1:12.14",
+          "gloss": "according to its kind",
+          "note": "the second instance of the kind-formula, for the trees."
+        },
+        {
+          "id": "1:12.15",
+          "gloss": "and saw",
+          "sense": "Qal 1.a"
+        },
+        {
+          "id": "1:12.16",
+          "gloss": "God",
+          "sense": "3"
+        },
+        {
+          "id": "1:12.17",
+          "gloss": "that",
+          "sense": "1"
+        },
+        {
+          "id": "1:12.18",
+          "gloss": "good",
+          "sense": "3"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "1:12.1",
+            "1:12.2"
+          ],
+          "english": "And the earth brought forth",
+          "literal": "and-brought-forth the-earth"
+        },
+        {
+          "tokens": [
+            "1:12.3"
+          ],
+          "english": "grass",
+          "literal": "grass"
+        },
+        {
+          "tokens": [
+            "1:12.4",
+            "1:12.5",
+            "1:12.6",
+            "1:12.7"
+          ],
+          "english": "plants bearing seed according to its kind",
+          "literal": "plant producing seed according-to-its-kind"
+        },
+        {
+          "tokens": [
+            "1:12.8",
+            "1:12.9",
+            "1:12.10"
+          ],
+          "english": "and trees bearing fruit",
+          "literal": "and-tree making fruit"
+        },
+        {
+          "tokens": [
+            "1:12.11",
+            "1:12.12",
+            "1:12.13"
+          ],
+          "english": "whose seed is in it",
+          "literal": "whose its-seed in-it"
+        },
+        {
+          "tokens": [
+            "1:12.14"
+          ],
+          "english": "according to its kind",
+          "literal": "according-to-its-kind; the second instance, for the trees"
+        },
+        {
+          "tokens": [
+            "1:12.15",
+            "1:12.16"
+          ],
+          "english": "And God saw",
+          "literal": "and-saw God"
+        },
+        {
+          "tokens": [
+            "1:12.17",
+            "1:12.18"
+          ],
+          "english": "that it was good",
+          "literal": "that good"
+        }
+      ],
+      "grammar": [
+        "The verse is the narrative fulfilment of 1:11, with the same three objects in the same order. The earth is the subject of a hifil wayyiqtol: 'and brought forth'.",
+        "The telisha gedola on דֶּשֶׁא (1:12.3) sets grass apart. The plant and the tree are then joined by munaḥ and darga, so the verse reads as grass, then plant, then tree.",
+        "The participles 'producing' and 'making' describe the plants and trees as continuing agents. The English uses 'bearing' for both, as in 1:11.",
+        "The kind-formula appears twice: once after the plants (1:12.7), and once at the end of the verse for the trees (1:12.14)."
+      ],
+      "commentary": [
+        {
+          "anchor": "rashi:1:12:1",
+          "relation": "records",
+          "summary": "Rashi: 'of its kind' is not said of the grasses in their command, but the grasses heard that the trees were commanded about it, and they reasoned a fortiori (קַל וָחֹמֶר) that they too were included. The English limits 'of its kind' to the plants and trees named in the text and records Rashi's reading."
+        },
+        {
+          "anchor": "ibn-ezra:1:12:1",
+          "relation": "not-applicable",
+          "summary": "The pack's text for this anchor is only the single letter 'n', so no reading can be recorded from it."
+        }
+      ],
+      "apparatus": [
+        "1:12.10: the pack's WLC notes c and p say the accent and punctuation on פְּרִי differ from BHS. The English does not depend on either reading.",
+        "ibn-ezra:1:12:1: the pack gives no usable text for this comment. It is marked not-applicable here only because nothing can be read from it; the comment should be re-fetched."
+      ]
+    },
+    {
+      "ref": "1:13",
+      "english": "And there was evening, and there was morning, the third day.",
+      "literal": "and-there-was evening; and-there-was morning; day third",
+      "tokens": [
+        {
+          "id": "1:13.1",
+          "gloss": "and there was",
+          "sense": "Qal I.2.a.(1)",
+          "note": "wayyiqtol of hayah with the time word as subject."
+        },
+        {
+          "id": "1:13.2",
+          "gloss": "evening",
+          "sense": "1.a"
+        },
+        {
+          "id": "1:13.3",
+          "gloss": "and there was",
+          "sense": "Qal I.2.a.(1)"
+        },
+        {
+          "id": "1:13.4",
+          "gloss": "morning",
+          "sense": "1"
+        },
+        {
+          "id": "1:13.5",
+          "gloss": "day",
+          "sense": "1"
+        },
+        {
+          "id": "1:13.6",
+          "gloss": "third",
+          "note": "the ordinal follows its noun: 'day third'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "1:13.1",
+            "1:13.2"
+          ],
+          "english": "And there was evening",
+          "literal": "and-there-was evening"
+        },
+        {
+          "tokens": [
+            "1:13.3",
+            "1:13.4"
+          ],
+          "english": "and there was morning",
+          "literal": "and-there-was morning"
+        },
+        {
+          "tokens": [
+            "1:13.5",
+            "1:13.6"
+          ],
+          "english": "the third day",
+          "literal": "day third"
+        }
+      ],
+      "grammar": [
+        "The verse repeats the day formula of 1:5 and 1:8: evening, then morning, then the ordinal after the noun.",
+        "The wayyiqtol of hayah carries the narrative on: 'and there was evening', then 'and there was morning', each with the time word as the subject.",
+        "Accents: merkha on עֶרֶב (1:13.2) and יוֹם (1:13.5), tipḥa on בֹּקֶר (1:13.4), and silluq on שְׁלִישִׁי (1:13.6).",
+        "A petuḥah (פ) follows the verse, so 1:14 begins a new paragraph."
+      ],
+      "commentary": [],
+      "apparatus": []
+    }
+  ]
+}

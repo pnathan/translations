@@ -1,0 +1,353 @@
+# Translation pack: genesis bereshit-19 (Genesis 5:18–5:24)
+
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/bereshit-19.json`. Check: `go run ./cmd/tr check genesis bereshit-19`.
+
+## Genesis 5:18
+
+Hebrew (MAM): וַֽיְחִי־יֶ֕רֶד שְׁתַּ֧יִם וְשִׁשִּׁ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־חֲנֽוֹךְ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 5:18.1 | וַֽיְחִי־ | וַֽ + יְחִי | ו: and + חָיָה `bdb:h.cd.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | חיה |  |
+| 5:18.2 | יֶ֕רֶד | יֶ֕רֶד | יֶ֫רֶד `bdb:j.dh.ab` | noun: proper name |  | zaqef gadol (disjunctive) |
+| 5:18.3 | שְׁתַּ֧יִם | שְׁתַּ֧יִם | שְׁנַ֫יִם `bdb:v.em.ab` | adjective: cardinal number, feminine, dual, absolute | שׁנה | darga |
+| 5:18.4 | וְשִׁשִּׁ֛ים | וְ + שִׁשִּׁ֛ים | ו: and + שִׁשִּׁים `bdb:v.bk.ad` | conjunction · adjective: cardinal number, both genders, plural, absolute | שׁדשׁ | tevir (disjunctive) |
+| 5:18.5 | שָׁנָ֖ה | שָׁנָ֖ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | tipḥa (disjunctive) |
+| 5:18.6 | וּמְאַ֣ת | וּ + מְאַ֣ת | ו: and + מֵאָה `bdb:m.ac.aa` | conjunction · adjective: cardinal number, both genders, singular, construct | מאה | munaḥ |
+| 5:18.7 | שָׁנָ֑ה | שָׁנָ֑ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | etnaḥta (disjunctive) |
+| 5:18.8 | וַיּ֖וֹלֶד | וַ + יּ֖וֹלֶד | ו: and + יָלַד `bdb:j.bn.aa` | conjunction · verb: hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | ילד | tipḥa (disjunctive) |
+| 5:18.9 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
+| 5:18.10 | חֲנֽוֹךְ׃ | חֲנֽוֹךְ | חֲנוֹךְ `bdb:h.dy.ab` | noun: proper name |  | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `onkelos:5:18:1` Targum Onkelos on whole 5:18 (version; filed at 5:18): וַחֲיָא יֶרֶד מְאָה וְשִׁתִּין וְתַרְתֵּין שְׁנִין וְאוֹלִיד יָת חֲנוֹךְ:
+
+## Genesis 5:19
+
+Hebrew (MAM): וַֽיְחִי־יֶ֗רֶד אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־חֲנ֔וֹךְ שְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 5:19.1 | וַֽיְחִי־ | וַֽ + יְחִי | ו: and + חָיָה `bdb:h.cd.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | חיה |  |
+| 5:19.2 | יֶ֗רֶד | יֶ֗רֶד | יֶ֫רֶד `bdb:j.dh.ab` | noun: proper name |  | revia (disjunctive) |
+| 5:19.3 | אַֽחֲרֵי֙ | אַֽחֲרֵי֙ | אַחַר `bdb:a.cp.ac` | preposition | אחר | pashta (disjunctive) |
+| 5:19.4 | הוֹלִיד֣וֹ | הוֹלִיד֣ + וֹ | יָלַד `bdb:j.bn.aa` +  | verb: hifil, infinitive construct · suffix: pronominal, 3rd person, masculine, singular | ילד | munaḥ |
+| 5:19.5 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
+| 5:19.6 | חֲנ֔וֹךְ | חֲנ֔וֹךְ | חֲנוֹךְ `bdb:h.dy.ab` | noun: proper name |  | zaqef qaton (disjunctive) |
+| 5:19.7 | שְׁמֹנֶ֥ה | שְׁמֹנֶ֥ה | שְׁמֹנֶה `bdb:v.ec.ab` | adjective: cardinal number, feminine, singular, absolute | שׁמן | merkha |
+| 5:19.8 | מֵא֖וֹת | מֵא֖וֹת | מֵאָה `bdb:m.ac.aa` | adjective: cardinal number, both genders, plural, absolute | מאה | tipḥa (disjunctive) |
+| 5:19.9 | שָׁנָ֑ה | שָׁנָ֑ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | etnaḥta (disjunctive) |
+| 5:19.10 | וַיּ֥וֹלֶד | וַ + יּ֥וֹלֶד | ו: and + יָלַד `bdb:j.bn.aa` | conjunction · verb: hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | ילד | merkha |
+| 5:19.11 | בָּנִ֖ים | בָּנִ֖ים | בֵּן `bdb:b.ca.aa` | noun: common, masculine, plural, absolute |  | tipḥa (disjunctive) |
+| 5:19.12 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `onkelos:5:19:1` Targum Onkelos on whole 5:19 (version; filed at 5:19): וַחֲיָא יֶרֶד בָּתַר דְּאוֹלִיד יָת חֲנוֹךְ תַּמְנֵי מְאָה שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
+
+## Genesis 5:20
+
+Hebrew (MAM): וַיִּֽהְיוּ֙ כׇּל־יְמֵי־יֶ֔רֶד שְׁתַּ֤יִם וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃
+
+Paragraph mark after this verse: ס
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 5:20.1 | וַיִּֽהְיוּ֙ | וַ + יִּֽהְיוּ֙ | ו: and + הָיָה `bdb:e.bf.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | היה | pashta (disjunctive) |
+| 5:20.2 | כׇּל־ | כָּל | כֹּל `bdb:k.bn.ab` | noun: common, masculine, singular, construct | כלל |  |
+| 5:20.3 | יְמֵי־ | יְמֵי | יוֹם `bdb:j.ay.aa` | noun: common, masculine, plural, construct |  |  |
+| 5:20.4 | יֶ֔רֶד | יֶ֔רֶד | יֶ֫רֶד `bdb:j.dh.ab` | noun: proper name |  | zaqef qaton (disjunctive) |
+| 5:20.5 | שְׁתַּ֤יִם | שְׁתַּ֤יִם | שְׁנַ֫יִם `bdb:v.em.ab` | adjective: cardinal number, feminine, dual, absolute | שׁנה | mahpakh |
+| 5:20.6 | וְשִׁשִּׁים֙ | וְ + שִׁשִּׁים֙ | ו: and + שִׁשִּׁים `bdb:v.bk.ad` | conjunction · adjective: cardinal number, both genders, plural, absolute | שׁדשׁ | pashta (disjunctive) |
+| 5:20.7 | שָׁנָ֔ה | שָׁנָ֔ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | zaqef qaton (disjunctive) |
+| 5:20.8 | וּתְשַׁ֥ע | וּ + תְשַׁ֥ע | ו: and + תֵּ֫שַׁע `bdb:w.bq.bn` | conjunction · adjective: cardinal number, feminine, singular, absolute |  | merkha |
+| 5:20.9 | מֵא֖וֹת | מֵא֖וֹת | מֵאָה `bdb:m.ac.aa` | adjective: cardinal number, both genders, plural, absolute | מאה | tipḥa (disjunctive) |
+| 5:20.10 | שָׁנָ֑ה | שָׁנָ֑ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | etnaḥta (disjunctive) |
+| 5:20.11 | וַיָּמֹֽת׃ | וַ + יָּמֹֽת | ו: and + מוּת `bdb:m.be.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | מות | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `onkelos:5:20:1` Targum Onkelos on whole 5:20 (version; filed at 5:20): וַהֲווֹ כָּל יוֹמֵי יֶרֶד תְּשַׁע מְאָה וְשִׁתִּין וְתַרְתֵּין שְׁנִין וּמִית:
+
+## Genesis 5:21
+
+Hebrew (MAM): וַיְחִ֣י חֲנ֔וֹךְ חָמֵ֥שׁ וְשִׁשִּׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־מְתוּשָֽׁלַח׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 5:21.1 | וַיְחִ֣י | וַֽ + יְחִ֣י | ו: and + חָיָה `bdb:h.cd.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | חיה | munaḥ |
+| 5:21.2 | חֲנ֔וֹךְ | חֲנ֔וֹךְ | חֲנוֹךְ `bdb:h.dy.ab` | noun: proper name |  | zaqef qaton (disjunctive) |
+| 5:21.3 | חָמֵ֥שׁ | חָמֵ֥שׁ | חָמֵשׁ `bdb:h.dr.ab` | adjective: cardinal number, feminine, singular, absolute | חמשׁ | merkha |
+| 5:21.4 | וְשִׁשִּׁ֖ים | וְ + שִׁשִּׁ֖ים | ו: and + שִׁשִּׁים `bdb:v.bk.ad` | conjunction · adjective: cardinal number, both genders, plural, absolute | שׁדשׁ | tipḥa (disjunctive) |
+| 5:21.5 | שָׁנָ֑ה | שָׁנָ֑ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | etnaḥta (disjunctive) |
+| 5:21.6 | וַיּ֖וֹלֶד | וַ + יּ֖וֹלֶד | ו: and + יָלַד `bdb:j.bn.aa` | conjunction · verb: hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | ילד | tipḥa (disjunctive) |
+| 5:21.7 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
+| 5:21.8 | מְתוּשָֽׁלַח׃ | מְתוּשָֽׁלַח | מְתוּשֶׁ֫לַח `bdb:m.ea.ac` | noun: proper name |  | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `onkelos:5:21:1` Targum Onkelos on whole 5:21 (version; filed at 5:21): וַחֲיָא חֲנוֹךְ שִׁתִּין וַחֲמֵשׁ שְׁנִין וְאוֹלִיד יָת מְתוּשָׁלַח:
+
+## Genesis 5:22
+
+Hebrew (MAM): וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת־הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 5:22.1 | וַיִּתְהַלֵּ֨ךְ | וַ + יִּתְהַלֵּ֨ךְ | ו: and + הָלַךְ `bdb:e.bn.aa` | conjunction · verb: hitpael, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | הלך | qadma |
+| 5:22.2 | חֲנ֜וֹךְ | חֲנ֜וֹךְ | חֲנוֹךְ `bdb:h.dy.ab` | noun: proper name |  | geresh (disjunctive) |
+| 5:22.3 | אֶת־ | אֶת | אֵת `bdb:a.gn.aa` | preposition |  |  |
+| 5:22.4 | הָֽאֱלֹהִ֗ים | הָֽ + אֱלֹהִ֗ים | ה: the + אֱלֹהִים `bdb:a.dl.ad` | particle: definite article · noun: common, masculine, plural, absolute | אלה | revia (disjunctive) |
+| 5:22.5 | אַֽחֲרֵי֙ | אַֽחֲרֵי֙ | אַחַר `bdb:a.cp.ac` | preposition | אחר | pashta (disjunctive) |
+| 5:22.6 | הוֹלִיד֣וֹ | הוֹלִיד֣ + וֹ | יָלַד `bdb:j.bn.aa` +  | verb: hifil, infinitive construct · suffix: pronominal, 3rd person, masculine, singular | ילד | munaḥ |
+| 5:22.7 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
+| 5:22.8 | מְתוּשֶׁ֔לַח | מְתוּשֶׁ֔לַח | מְתוּשֶׁ֫לַח `bdb:m.ea.ac` | noun: proper name |  | zaqef qaton (disjunctive) |
+| 5:22.9 | שְׁלֹ֥שׁ | שְׁלֹ֥שׁ | שָׁלֹשׁ `bdb:v.du.ab` | adjective: cardinal number, feminine, singular, absolute | שׁלשׁ | merkha |
+| 5:22.10 | מֵא֖וֹת | מֵא֖וֹת | מֵאָה `bdb:m.ac.aa` | adjective: cardinal number, both genders, plural, absolute | מאה | tipḥa (disjunctive) |
+| 5:22.11 | שָׁנָ֑ה | שָׁנָ֑ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | etnaḥta (disjunctive) |
+| 5:22.12 | וַיּ֥וֹלֶד | וַ + יּ֥וֹלֶד | ו: and + יָלַד `bdb:j.bn.aa` | conjunction · verb: hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | ילד | merkha |
+| 5:22.13 | בָּנִ֖ים | בָּנִ֖ים | בֵּן `bdb:b.ca.aa` | noun: common, masculine, plural, absolute |  | tipḥa (disjunctive) |
+| 5:22.14 | וּבָנֽוֹת׃ | וּ + בָנֽוֹת | ו: and + בַּת `bdb:b.ca.at` | conjunction · noun: common, feminine, plural, absolute |  | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `ibn-ezra:5:22:1` Ibn Ezra **normative** on whole 5:22 (verse; filed at 5:22) DH «חנוך בן ירד.»: נכתב עליו "ויתהלך חנוך את האלהים" כטעם "אחרי ד' אלהיכם תלכו" (דבר' יג ה), וכן כתוב על נח "את האלהים התהלך נח" (בראשית ו ט) וי"מ "התהלך נח" כמו הרגיל:
+- `onkelos:5:22:1` Targum Onkelos on whole 5:22 (version; filed at 5:22): וְהַלִּיךְ חֲנוֹךְ בְּדַחַלְתָּא דַּיְיָ בָּתַר דְּאוֹלִיד יָת מְתוּשֶׁלַח תְּלַת מְאָה שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן:
+- `sforno:5:22:1` Sforno on 5:22.1 5:22.2 5:22.3 5:22.4 «וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת הָֽאֱלֹהִ֗ים» (matched; filed at 5:22) DH «וַיִּתְהַלֵּךְ חֲנוֹךְ אֶת הָאֱלֹהִים.»: הִתְהַלֵּךְ בִּדְרָכָיו לְהֵיטִיב לְזוּלָתוֹ בִּצְדָקָה וְתוֹכָחַת.
+
+## Genesis 5:23
+
+Hebrew (MAM): וַיְהִ֖י כׇּל־יְמֵ֣י חֲנ֑וֹךְ חָמֵ֤שׁ וְשִׁשִּׁים֙ שָׁנָ֔ה וּשְׁלֹ֥שׁ מֵא֖וֹת שָׁנָֽה׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 5:23.1 | וַיְהִ֖י | וַ + יְהִ֖י | ו: and + הָיָה `bdb:e.bf.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | היה | tipḥa (disjunctive) |
+| 5:23.2 | כׇּל־ | כָּל | כֹּל `bdb:k.bn.ab` | noun: common, masculine, singular, construct | כלל |  |
+| 5:23.3 | יְמֵ֣י | יְמֵ֣י | יוֹם `bdb:j.ay.aa` | noun: common, masculine, plural, construct |  | munaḥ |
+| 5:23.4 | חֲנ֑וֹךְ | חֲנ֑וֹךְ | חֲנוֹךְ `bdb:h.dy.ab` | noun: proper name |  | etnaḥta (disjunctive) |
+| 5:23.5 | חָמֵ֤שׁ | חָמֵ֤שׁ | חָמֵשׁ `bdb:h.dr.ab` | adjective: cardinal number, feminine, singular, absolute | חמשׁ | mahpakh |
+| 5:23.6 | וְשִׁשִּׁים֙ | וְ + שִׁשִּׁים֙ | ו: and + שִׁשִּׁים `bdb:v.bk.ad` | conjunction · adjective: cardinal number, both genders, plural, absolute | שׁדשׁ | pashta (disjunctive) |
+| 5:23.7 | שָׁנָ֔ה | שָׁנָ֔ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | zaqef qaton (disjunctive) |
+| 5:23.8 | וּשְׁלֹ֥שׁ | וּ + שְׁלֹ֥שׁ | ו: and + שָׁלֹשׁ `bdb:v.du.ab` | conjunction · adjective: cardinal number, feminine, singular, absolute | שׁלשׁ | merkha |
+| 5:23.9 | מֵא֖וֹת | מֵא֖וֹת | מֵאָה `bdb:m.ac.aa` | adjective: cardinal number, both genders, plural, absolute | מאה | tipḥa (disjunctive) |
+| 5:23.10 | שָׁנָֽה׃ | שָׁנָֽה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `onkelos:5:23:1` Targum Onkelos on whole 5:23 (version; filed at 5:23): וַהֲוָה כָּל יוֹמֵי חֲנוֹךְ תְּלַת מְאָה וְשִׁתִּין וַחֲמֵשׁ שְׁנִין:
+
+## Genesis 5:24
+
+Hebrew (MAM): וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת־הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃
+
+Paragraph mark after this verse: ס
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 5:24.1 | וַיִּתְהַלֵּ֥ךְ | וַ + יִּתְהַלֵּ֥ךְ | ו: and + הָלַךְ `bdb:e.bn.aa` | conjunction · verb: hitpael, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | הלך | merkha |
+| 5:24.2 | חֲנ֖וֹךְ | חֲנ֖וֹךְ | חֲנוֹךְ `bdb:h.dy.ab` | noun: proper name |  | tipḥa (disjunctive) |
+| 5:24.3 | אֶת־ | אֶת | אֵת `bdb:a.gn.aa` | preposition |  |  |
+| 5:24.4 | הָֽאֱלֹהִ֑ים | הָֽ + אֱלֹהִ֑ים | ה: the + אֱלֹהִים `bdb:a.dl.ad` | particle: definite article · noun: common, masculine, plural, absolute | אלה | etnaḥta (disjunctive) |
+| 5:24.5 | וְאֵינֶ֕נּוּ | וְ + אֵינֶ֕ + נּוּ | ו: and + אַ֫יִן `bdb:a.cz.aa` +  | conjunction · particle: negative · suffix: pronominal, 3rd person, masculine, singular | אין | zaqef gadol (disjunctive) |
+| 5:24.6 | כִּֽי־ | כִּֽי | כִּי `bdb:k.bg.aa` | conjunction |  |  |
+| 5:24.7 | לָקַ֥ח | לָקַ֥ח | לָקַח `bdb:l.bx.aa` | verb: qal, perfect (qatal), 3rd person, masculine, singular | לקח | merkha |
+| 5:24.8 | אֹת֖וֹ | אֹת֖ + וֹ | אֵת `bdb:a.gm.aa` +  | particle: direct object marker · suffix: pronominal, 3rd person, masculine, singular | אות | tipḥa (disjunctive) |
+| 5:24.9 | אֱלֹהִֽים׃ | אֱלֹהִֽים | אֱלֹהִים `bdb:a.dl.ad` | noun: common, masculine, plural, absolute | אלה | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:5:24:1` Rashi **normative** on 5:24.1 5:24.2 «וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ» (matched; filed at 5:24) DH «ויתהלך חנוך.»: צַדִּיק הָיָה וְקַל בְּדַעְתּוֹ לָשׁוּב לְהַרְשִׁיעַ, לְפִיכָךְ מִהֵר הַקָּבָּ"ה וְסִלְּקוֹ וֶהֱמִיתוֹ קֹדֶם זְמַנּוֹ, וְזֶהוּ שֶׁשִּׁנָּה הַכָּתוּב בְּמִיתָתוֹ לִכְתֹּב וְאֵינֶנּוּ בָּעוֹלָם – לְמַלְּאוֹת שְׁנוֹתָיו ‏(בראשית רבה):
+- `rashi:5:24:2` Rashi **normative** on 5:24.6 5:24.7 5:24.8 «כִּֽי לָקַ֥ח אֹת֖וֹ» (matched; filed at 5:24) DH «כי לקח אותו.»: לִפְנֵי זְמַנּוֹ, כְּמוֹ הִנְנִי לֹקֵחַ מִמְּךָ אֶת מַחְמַד עֵינֶיךָ (יחזקאל כ"ד):
+- `ibn-ezra:5:24:1` Ibn Ezra **normative** on 5:24.5 5:24.6 5:24.7 5:24.8 5:24.9 «וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃» (matched; filed at 5:24) DH «ואיננו. כי לקח אותו אלהים.»: מת וכן "קח נא את נפשי" (יונה ד ג) "הנני לוקח ממך את מחמד עיניך" (יחז' כד טז) ואח"כ פי' מה היה "ותמת אשתו" וזאת הלקיחה על חנוך אין שם זכר מגפה, ולא וימת, והטעם אשר כתוב בדברי אסף (תהלים עג כד) "ואחר כבוד תקחני" וכן במזמור בני קרח (שם מט טז) "אך אלהים יפדה נפשי מיד שאול כי יקחני סלה" והמשכיל יבין:
+- `radak:5:24:1` Radak on 5:24.1 5:24.2 5:24.3 5:24.4 «וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת הָֽאֱלֹהִ֑ים» (matched; filed at 5:24) DH «וַיִּתְהַלֵּךְ חֲנוֹךְ אֶת־הָאֱלֹהִים.»: כְּמוֹ ״אֲשֶׁר הִתְהַלְּכוּ אֲבוֹתַי לְפָנָיו״ (בראשית מח:טו), כְּלוֹמַר שָׂם כָּל חֶשְׁקוֹ בְּאַהֲבַת הָאֵל וְהִתְעַסֵּק בְּחָכְמוֹת וְהִכִּיר אֶת בּוֹרְאוֹ מִשֶּׁהִגִּיעַ לְחָמֵשׁ וְשִׁשִּׁים שָׁנָה, וְאַף עַל פִּי כֵן הִתְעַסֵּק עוֹד בִּפְרִיָּה וּרְבִיָּה; וְאוֹתָם שְׁלֹשׁ מֵאוֹת שָׁנָה שֶׁחָיָה אַחַר כֵּן שֶׁהֵחֵל לְהִתְעַסֵּק בְּחָכְמוֹת וּלְהִשְׁתַּדֵּל בָּהֶם, מִתְיַגֵּעַ בָּהֶם עַד שֶׁמָּאַס הַגּוּף, לְפִיכָךְ סִלְּקוֹ הָאֵל בַּחֲצִי יָמָיו, וְזֶהוּ שֶׁאָמַר
+- `radak:5:24:2` Radak on 5:24.5 5:24.6 5:24.7 5:24.8 5:24.9 «וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃» (matched; filed at 5:24) DH «וְאֵינֶנּוּ כִּי־לָקַח אֹתוֹ אֱלֹהִים»: . אָמַר
+- `radak:5:24:3` Radak on 5:24.5 «וְאֵינֶ֕נּוּ» (matched; filed at 5:24) DH «וְאֵינֶנּוּ»: , כִּי לֹא חָלָה וְלֹא כָּאַב בְּעֵת מִיתָתוֹ וְלֹא עָלָה בְּדַעַת בְּנֵי דוֹרוֹ שֶׁיָּמוּת בַּחֲצִי יָמָיו אֶלָּא יַאֲרִיךְ כְּמוֹ הָאֲחֵרִים הַדּוֹמִים לוֹ, וְלֹא הִרְגִּישׁוּ בּוֹ עַד שֶׁמֵּת, זֶהוּ שֶׁאָמַר
+- `radak:5:24:4` Radak on 5:24.5 «וְאֵינֶ֕נּוּ» (matched; filed at 5:24) DH «וְאֵינֶנּוּ»: . וְאָמַר
+- `radak:5:24:5` Radak on 5:24.7 5:24.8 5:24.9 «לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃» (matched; filed at 5:24) DH «לָקַח אֹתוֹ אֱלֹהִים»: , כְּלוֹמַר לָקַח נַפְשׁוֹ וְהֶעֱלָה אוֹתָהּ אֶל הָעֶלְיוֹנִים, וְכֵן ״אַחַר כָּבוֹד תִּקָּחֵנִי״ (תהלים עג:כד), ״כִּי יִקָּחֵנִי סֶלָה״ (תהלים מט:טז), וְנֶפֶשׁ הָרָשָׁע לֹא יִקַּח אוֹתָהּ אֱלֹהִים אֶלָּא תֵּרֵד שְׁאוֹל. וְאֵין כֵּן (יחזקאל כד:טז) ״הִנְנִי לֹקֵחַ אֶת־מַחְמַד עֵינֶיךָ בְּמַגֵּפָה״, אַף עַל פִּי שֶׁאָמַר הִנְנִי לֹקֵחַ שֶׁיִּדָּמֶה שֶׁהָיְתָה טוֹבָה וַחֲסוּדָה, כָּל שֶׁכֵּן שֶׁהָיְתָה אֵשֶׁת נָבִיא, אַף עַל פִּי כֵן לֹא הָיְתָה שְׁלֵמָה, לְפִיכָךְ אָמַר בְּמַגֵּפָה, כִּי כְּאֵב אָנוּשׁ הָיָה לָהּ בְּעֵת הַמִּיתָה וְזֶהוּ מַגֵּפָה. וְכֵן ״כִּי־יִגֹּף שׁוֹר אִישׁ אֶת־שׁוֹר רֵעֵהוּ וָמֵת״ (שמות כא:לה), הִנֵּה כִּי הַמַּגֵּפָה הִיא מַכָּה אֲנוּשָׁה, אֲבָל הִיא מַכַּת פִּתְאֹם בְּלִי קְדִימַת חֹלִי. אֲבָל ״וְרַגְלְךָ לֹא תִגּוֹף״ (משלי ג:כג) הִיא מַכָּה בְּלֹא מִיתָה אֲבָל הִיא מַכָּה אֲנוּשָׁה; אֲבָל הַשְּׁלֵמִים אֵין לָהֶם מַגֵּפָה בְּעֵת מִיתָתָם. וְדַעַת הַתַּרְגּוּם גַּם קְצָת חֲכָמִים (מסכת דרך ארץ) כִּי חֲנוֹךְ וְאֵלִיָּהוּ הִכְנִיסָם הָאֵל חַיִּים בְּגַן עֵדֶן בְּנֶפֶשׁ וּבְבָשָׂר וְעוֹדָם שָׁם חַיִּים אוֹכְלִים מִפְּרִי הָעֵץ וְעוֹבְדִים אֶת ה׳ כְּמוֹ שֶׁהָיָה אָדָם הָרִאשׁוֹן קֹדֶם שֶׁחָטָא, וְיִהְיוּ שָׁם עַד יְמוֹת הַמָּשִׁיחַ. יֵשׁ לִשְׁאֹל: כִּי בְּסִפּוּר אֵלֶּה הַתּוֹלְדוֹת מֵאָדָם וְעַד נֹחַ אָמַר וַיָּמֹת, וּבְסִפּוּר תּוֹלְדוֹת נֹחַ לֹא אָמַר כֵּן? וְאָמְרוּ: לְפִי שֶׁמֵּתוּ בַּמַּבּוּל אָמַר בְּאֵלֶּה וַיָּמֹת. וּלְדַעְתֵּנוּ, כִּי הַנִּזְכָּרִים הָיוּ צַדִּיקִים וְטוֹבִים, לֹא מֵת אֶחָד מֵהֶם בַּמַּבּוּל, אֶלָּא תּוֹלְדוֹתֵיהֶם שֶׁלֹּא הָיוּ טוֹ … [cut; full text in the review pack]
+- `onkelos:5:24:1` Targum Onkelos on whole 5:24 (version; filed at 5:24): וְהַלִּיךְ חֲנוֹךְ בְּדַחַלְתָּא דַּיְיָ וְלַיְתוֹהִי אֲרֵי (לָא) אֲמֵית יָתֵהּ יְיָ:
+
+## Lexicon
+
+Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
+
+### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
+- `1.a` behind
+- `1.b` afterwards
+- `2.a` behind, after
+- `2.b` after
+- `3` after that
+
+### `bdb:a.cz.aa` אַ֫יִן (subst) root אין: nothing, nought
+- `1` to nothing, as nothing
+- `2` is not, are not, was not, were not
+- `3` there is (was) not to, have, has, had, not
+- `5` it is not to
+
+### `bdb:a.dl.ad` אֱלֹהִים (n.m.pl) root אלה: gods
+- `1.a` rulers, judges
+- `1.b` divine ones
+- `1.c` angels
+- `1.d` gods
+- `2.a` god, goddess
+- `2.b` godlike one
+- `2.d` God
+- `3` the (true) God
+- `4` God
+
+### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
+
+### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
+- `1` together with
+- `4` from proximity with
+
+### `bdb:b.ca.aa` בֵּן (n.m): son
+- `1` son
+- `2` children
+- `3` youth, young men
+- `4` the young
+- `6` sparks, stars, arrows
+- `7.a` member
+- `7.b` son of (the) herd
+
+### `bdb:b.ca.at` בַּת (n.f): daughter
+- `1` daughter
+- `2` young women, women
+- `4` villages
+- `6` ostrich
+- `8` branch
+
+### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
+- `Qal I.1.a` Qal Fall out, happen
+- `Qal I.1.b` Qal occur, take place, come about, come to pass
+- `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.b` Qal and it shall come to pass, came to pass
+- `Qal I.2` Qal come about, come to pass
+- `Qal II.1.a` Qal arise, appear, come
+- `Qal II.2.c` Qal become like
+- `Qal II.2.h` Qal became the property of, come into the possession of
+- `Qal II.2` Qal become
+- `Qal II` Qal Come into being, become
+- `Qal III.1` Qal exist, be in existence
+- `Qal III.2` Qal abide, remain, continue
+- `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III` Qal Be
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
+
+### `bdb:e.bn.aa` הָלַךְ (vb) root הלך: go, come, walk
+- `Qal II.1` Qal pass away, die
+- `Qal II.2` Qal live, walk
+- `Pi 1` Pi walk
+- `Pi 2` Pi walking about
+- `Pi 3` Pi depart, go entirely away
+- `Hithp` Hithp walk, walk about, move to and fro
+- `Hiph 1` Hiph lead, bring
+- `Hiph 2` Hiph lead away
+- `Hiph 3` Hiph carry, bring
+- `Hiph 5.a` Hiph cause to walk, go
+- `Hiph 5.b` Hiph cause to flow, run
+- `Hiph 5.c` Hiph cause to depart, retire, go back
+
+### `bdb:h.cd.aa` חָיָה (vb) root חיה: live
+- `Qal 1` Qal live
+- `Qal 2` Qal be quickened, revive
+- `Pi 1` Pi preserve alive, let live
+- `Pi 2` Pi give life
+- `Pi 3` Pi quicken, revive, refresh
+- `Hiph 1` Hiph preserve alive, let live
+- `Hiph 2` Hiph quicken, revive
+
+### `bdb:h.dr.ab` חָמֵשׁ (n.m) root חמשׁ: five
+
+### `bdb:h.dy.ab` חֲנוֹךְ (n.pr.m): Enoch
+
+### `bdb:j.ay.aa` יוֹם (n.m): day
+- `1` day
+- `2` Day
+- `3` day of Yahweh
+- `4` days
+- `5` Days
+- `6` time
+
+### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
+- `Qal 1` Qal bear, bring forth
+- `Qal 2` Qal beget
+- `Niph` Niph be born
+- `Pi` Pi cause, help, to bring forth, assist, tend as midwife
+- `Pu` Pu be born
+- `Hiph 1` Hiph beget
+- `Hiph 2` Hiph bear
+- `Hoph` Hoph day of one's being born
+- `Hithp` Hithp declared their pedigree
+
+### `bdb:j.dh.ab` יֶ֫רֶד (n.pr.m): Jared
+
+### `bdb:k.bg.aa` כִּי (conj): that, for, when
+- `1` that
+- `2.a` when
+- `2.b` if
+- `2.c` when, if, though
+- `3` Because, since
+
+### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
+- `1` the whole of, any, every
+- `2.a` all things, all
+- `2.b.(b)` all
+
+### `bdb:l.bx.aa` לָקַח (vb) root לקח: take
+- `Qal 1` Qal take, take in hand
+- `Qal 2` Qal take and carry along
+- `Qal 3.a` Qal take
+- `Qal 3.b` Qal take, carry away
+- `Qal 3.c` Qal take away
+- `Qal 3.d` Qal take away
+- `Qal 4` Qal take
+- `Qal 5` Qal take, put
+- `Qal 6` Qal fetch
+- `Qal 7` Qal take, lead, conduct
+- `Qal 8` Qal take, capture, seize
+- `Qal 9` Qal take, carry off
+- `Qal 10` Qal take
+- `Niph 1` Niph be captured
+- `Niph 2` Niph be taken away, removed
+- `Niph 3` Niph be taken, brought
+- `Pu 1` Pu be taken
+- `Pu 2` Pu be stolen
+- `Pu 3` Pu be taken captive
+- `Pu 4` Pu be taken away, removed
+- `Hoph 1` Hoph be taken, brought
+- `Hoph 2` Hoph be taken
+- `Hoph 3` Hoph be taken away
+- `Hithp` Hithp taking hold of itself
+
+### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `3` hundredth
+
+### `bdb:m.be.aa` מוּת (vb) root מות: die
+- `Qal 1` Qal die
+- `Qal 2` Qal die, be put to death
+- `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hoph` Hoph be killed, put to death
+
+### `bdb:m.ea.ac` מְתוּשֶׁ֫לַח (n.pr.m): man of the dart
+
+### `bdb:v.bk.ad` שִׁשִּׁים (n.indecl) root שׁדשׁ: sixty
+
+### `bdb:v.du.ab` שָׁלֹשׁ (n.m) root שׁלשׁ: a three, triad
+
+### `bdb:v.ec.ab` שְׁמֹנֶה (n.m) root שׁמן: eight
+
+### `bdb:v.ek.ab` שָׁנָה (n.f) root שׁנה: year
+
+### `bdb:v.em.ab` שְׁנַ֫יִם (n.m) root שׁנה: two
+
+### `bdb:w.bq.bn` תֵּ֫שַׁע (n.m): a nine, nonad
+

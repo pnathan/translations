@@ -1,0 +1,2090 @@
+{
+ "unit": "perek-2-01",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "2:1",
+   "english": "Rabbi says: Which is the upright path that a person should choose for himself? Whatever is a glory to those who do it and a glory to him from people. Be as careful with a light commandment as with a weighty one, for you do not know the reward given for the commandments. Reckon the loss from a commandment against its reward, and the gain from a transgression against its loss. Look at three things and you will not come to transgression: know what is above you: an eye that sees and an ear that hears, and all your deeds are written in a book.",
+   "literal": "Rabbi saying, which-is path upright that-he-chooses for-him the-person: all that-it glory to-its-doers and-glory to-him from the-person. And-be careful in-commandment light like-in-weighty, that-there-is-not you knowing giving-of reward-of-them of commandments. And-be reckoning loss-of commandment against reward-its, and-reward-of transgression against loss-its. And-look in-three things and-not you coming to-hands-of transgression: know what above from-you: eye seeing and-ear hearing and-all deeds-your in-the-book being-written.",
+   "tokens": [
+    {
+     "id": "2:1.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.2",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:1.3",
+     "gloss": "which is (אֵיזוֹ הִיא)",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.4",
+     "gloss": "path",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.5",
+     "gloss": "upright",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.6",
+     "gloss": "that ... should choose",
+     "sense": "1",
+     "note": "Parse data gives lemma בַּר 'field'; the form is the Qal yiqtol of בָּרַר (root listed as בור) 'to choose', which both Bartenura and Rambam read. The lexicon key is data and is kept."
+    },
+    {
+     "id": "2:1.7",
+     "gloss": "for himself"
+    },
+    {
+     "id": "2:1.8",
+     "gloss": "the person",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.9",
+     "gloss": "whatever",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.10",
+     "gloss": "that it is",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.11",
+     "gloss": "a glory",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.12",
+     "gloss": "to those who do it",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:1.13",
+     "gloss": "and a glory",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.14",
+     "gloss": "to him"
+    },
+    {
+     "id": "2:1.15",
+     "gloss": "from"
+    },
+    {
+     "id": "2:1.16",
+     "gloss": "people",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.17",
+     "gloss": "and be",
+     "sense": "1.1.1",
+     "note": "Imperative of הָיָה in the Mishnaic form הֱוֵי, 'be'"
+    },
+    {
+     "id": "2:1.18",
+     "gloss": "careful",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.19",
+     "gloss": "with a commandment",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.20",
+     "gloss": "light",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.21",
+     "gloss": "as with a weighty one",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.22",
+     "gloss": "for",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.23",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.24",
+     "gloss": "know",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:1.25",
+     "gloss": "the giving of",
+     "sense": "1",
+     "note": "Lexicon data lists only proper names under this entry; the word is the common noun מַתָּן 'giving'"
+    },
+    {
+     "id": "2:1.26",
+     "gloss": "the reward of them",
+     "sense": "1",
+     "note": "Lexicon data lists only proper names under this entry; the word is the common noun שָׂכָר 'reward, wages'"
+    },
+    {
+     "id": "2:1.27",
+     "gloss": "of"
+    },
+    {
+     "id": "2:1.28",
+     "gloss": "commandments",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.29",
+     "gloss": "and be",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:1.30",
+     "gloss": "reckoning",
+     "sense": "1.3.1",
+     "note": "Piel participle: 'reckoning, calculating'"
+    },
+    {
+     "id": "2:1.31",
+     "gloss": "the loss of",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.32",
+     "gloss": "a commandment",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.33",
+     "gloss": "against"
+    },
+    {
+     "id": "2:1.34",
+     "gloss": "its reward",
+     "sense": "1",
+     "note": "Same note as 2:1.26: common noun 'reward'"
+    },
+    {
+     "id": "2:1.35",
+     "gloss": "and the gain of",
+     "sense": "1",
+     "note": "Same note as 2:1.26: common noun 'reward, gain'"
+    },
+    {
+     "id": "2:1.36",
+     "gloss": "a transgression",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.37",
+     "gloss": "against"
+    },
+    {
+     "id": "2:1.38",
+     "gloss": "its loss",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.39",
+     "gloss": "and look",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.40",
+     "gloss": "at three",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.41",
+     "gloss": "things",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.42",
+     "gloss": "and not",
+     "note": "אִי is the Mishnaic negative 'not' (the same function as אֵין in this construction)"
+    },
+    {
+     "id": "2:1.43",
+     "gloss": "you",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.44",
+     "gloss": "coming",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.45",
+     "gloss": "into the hands of",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.46",
+     "gloss": "transgression",
+     "sense": "1",
+     "note": "עֲבֵרָה 'transgression' (Mishnaic form of עֲבֵירָה)"
+    },
+    {
+     "id": "2:1.47",
+     "gloss": "know",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:1.48",
+     "gloss": "what",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.49",
+     "gloss": "above"
+    },
+    {
+     "id": "2:1.50",
+     "gloss": "from you"
+    },
+    {
+     "id": "2:1.51",
+     "gloss": "an eye",
+     "sense": "1",
+     "note": "Lexicon data gives only proper-name senses under this entry; the word is 'eye'"
+    },
+    {
+     "id": "2:1.52",
+     "gloss": "seeing",
+     "sense": "1",
+     "note": "Lexicon data lists only a bird of prey; the word is the participle of רָאָה 'to see'"
+    },
+    {
+     "id": "2:1.53",
+     "gloss": "and an ear",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.54",
+     "gloss": "hearing",
+     "sense": "2.1.1"
+    },
+    {
+     "id": "2:1.55",
+     "gloss": "and all",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.56",
+     "gloss": "your deeds",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.57",
+     "gloss": "in the book",
+     "sense": "1"
+    },
+    {
+     "id": "2:1.58",
+     "gloss": "being written",
+     "sense": "1.2.1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:1.1",
+      "2:1.2"
+     ],
+     "english": "Rabbi says:",
+     "literal": "'Rabbi saying'"
+    },
+    {
+     "tokens": [
+      "2:1.3",
+      "2:1.4",
+      "2:1.5"
+     ],
+     "english": "Which is the upright path",
+     "literal": "'which-is path upright'; אֵיזוֹהִי is אֵיזוֹ הִיא 'which is it'"
+    },
+    {
+     "tokens": [
+      "2:1.6",
+      "2:1.7",
+      "2:1.8"
+     ],
+     "english": "that a person should choose for himself?",
+     "literal": "'that-he-chooses for-him the-person'; ethical dative לוֹ"
+    },
+    {
+     "tokens": [
+      "2:1.9",
+      "2:1.10",
+      "2:1.11",
+      "2:1.12"
+     ],
+     "english": "Whatever is a glory to those who do it",
+     "literal": "'all that-it glory to-its-doers'; the suffix of 'its doers' refers back to the path"
+    },
+    {
+     "tokens": [
+      "2:1.13",
+      "2:1.14",
+      "2:1.15",
+      "2:1.16"
+     ],
+     "english": "and a glory to him from people.",
+     "literal": "'and-glory to-him from the-person'; הָאָדָם is collective, 'humankind'"
+    },
+    {
+     "tokens": [
+      "2:1.17",
+      "2:1.18",
+      "2:1.19",
+      "2:1.20",
+      "2:1.21"
+     ],
+     "english": "Be as careful with a light commandment as with a weighty one,",
+     "literal": "'be careful in-commandment light like-in-weighty'"
+    },
+    {
+     "tokens": [
+      "2:1.22",
+      "2:1.23",
+      "2:1.24",
+      "2:1.25",
+      "2:1.26",
+      "2:1.27",
+      "2:1.28"
+     ],
+     "english": "for you do not know the reward given for the commandments.",
+     "literal": "'that-there-is-not you knowing giving-of reward-of-them of commandments'; the reward of each commandment is not revealed"
+    },
+    {
+     "tokens": [
+      "2:1.29",
+      "2:1.30",
+      "2:1.31",
+      "2:1.32",
+      "2:1.33",
+      "2:1.34"
+     ],
+     "english": "Reckon the loss from a commandment against its reward,",
+     "literal": "'be reckoning loss-of commandment against reward-its'"
+    },
+    {
+     "tokens": [
+      "2:1.35",
+      "2:1.36",
+      "2:1.37",
+      "2:1.38"
+     ],
+     "english": "and the gain from a transgression against its loss.",
+     "literal": "'and-reward-of transgression against loss-its'; שְׂכַר here is the profit, the 'wage', of sinning"
+    },
+    {
+     "tokens": [
+      "2:1.39",
+      "2:1.40",
+      "2:1.41"
+     ],
+     "english": "Look at three things",
+     "literal": "'and-look in-three things'"
+    },
+    {
+     "tokens": [
+      "2:1.42",
+      "2:1.43",
+      "2:1.44",
+      "2:1.45",
+      "2:1.46"
+     ],
+     "english": "and you will not come to transgression:",
+     "literal": "'and-not you coming to-hands-of transgression'; אִי is the negative 'not'; 'come into the hands of' means 'fall into'"
+    },
+    {
+     "tokens": [
+      "2:1.47",
+      "2:1.48",
+      "2:1.49",
+      "2:1.50"
+     ],
+     "english": "know what is above you:",
+     "literal": "'know what above from-you'"
+    },
+    {
+     "tokens": [
+      "2:1.51",
+      "2:1.52",
+      "2:1.53",
+      "2:1.54"
+     ],
+     "english": "an eye that sees and an ear that hears,",
+     "literal": "'eye seeing and-ear hearing'; feminine participles agree with the feminine nouns עַיִן and אֹזֶן"
+    },
+    {
+     "tokens": [
+      "2:1.55",
+      "2:1.56",
+      "2:1.57",
+      "2:1.58"
+     ],
+     "english": "and all your deeds are written in a book.",
+     "literal": "'and-all deeds-your in-the-book being-written'; נִכְתָּבִין has the Aramaic-style plural ending -ין"
+    }
+   ],
+   "grammar": [
+    "אֵיזוֹהִי is the Mishnaic interrogative 'which is it', agreeing with the feminine דֶרֶךְ.",
+    "The saying is built of parallel imperatives with וֶהֱוֵי: be careful (זָהִיר), be reckoning (מְחַשֵּׁב); then the closing triad, introduced by וְהִסְתַּכֵּל.",
+    "שֶׁיָּבֹר is a relative clause with a subjunctive yiqtol: 'that a person should choose'.",
+    "The last clause is a nominal series: 'an eye that sees, an ear that hears, and all your deeds written in a book': these are the three things."
+   ],
+   "note": "'Glory' renders תִפְאֶרֶת in both parts; both normative commentators read the path as the middle one, which is a glory to the doer and to people. 'Upright' for יְשָׁרָה: 'straight, right'. The three things: the eye, the ear and the book of deeds, as Rabbeinu Yonah counts them (he adds that the three are one).",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:1:1",
+     "relation": "follows",
+     "summary": "Bartenura glosses שֶׁיָּבֹר as שֶׁיִּבְרֹר, 'that he choose': the verb is 'to choose'."
+    },
+    {
+     "anchor": "bartenura:2:1:2",
+     "relation": "follows",
+     "summary": "Bartenura reads the path as the middle way in every trait: not stingy, which brings no glory from people, and not overspending, which does not bring glory to the one who does it; generosity between the two is a glory to both."
+    },
+    {
+     "anchor": "bartenura:2:1:3",
+     "relation": "follows",
+     "summary": "Bartenura says the Torah does not state the reward for fulfilling positive commandments, whereas the punishments for the prohibitions are stated; so one cannot tell a light commandment from a weighty one."
+    },
+    {
+     "anchor": "bartenura:2:1:4",
+     "relation": "follows",
+     "summary": "Bartenura: 'reckon' what you lose in goods and money because of a commandment against the reward it brings in this world or the next, which will exceed the loss."
+    },
+    {
+     "anchor": "bartenura:2:1:5",
+     "relation": "follows",
+     "summary": "Bartenura: the שְׂכַר of a transgression is the pleasure you take in it, to be set against the loss that will come from it."
+    },
+    {
+     "anchor": "rambam:2:1:1",
+     "relation": "follows",
+     "summary": "Rambam: the upright path is the good actions, the middle traits, by which a person acquires a worthy disposition and good conduct with people; this is 'a glory to the doer and a glory to him from people'. He explains the light and weighty commandments by the grades of punishment."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:1:7",
+     "relation": "not-applicable",
+     "summary": "Rabbeinu Yonah: the three things are one, that God sees, knows and records everything; this is a mashal for how a person behaves before great people."
+    }
+   ],
+   "apparatus": [
+    "Variants: Vilna reads שיבור (base שֶׁיָּבֹר), לעושה (base לְעוֹשֶׂיהָ; Vilna's form is singular 'its doer') and עבירה for עֲבֵרָה (2:1.36, 2:1.46): spelling only, except that the singular לעושה differs in number."
+   ]
+  },
+  {
+   "ref": "2:2",
+   "english": "Rabban Gamliel, son of Rabbi Yehuda the Patriarch, says: Torah study is excellent together with a worldly occupation, for the toil of both makes sin forgotten. And any Torah study that has no work with it in the end comes to nothing and draws sin along. And all who labor with the community should labor with them for the sake of Heaven, for the merit of their fathers supports them and their righteousness stands forever. And you, I credit to you a great reward as if you had done it.",
+   "literal": "Rabban Gamliel son-his of Rabbi Yehuda the-Patriarch saying: good study-of Torah with way-of land, that-toil-of both-of-them causes-to-forget iniquity. And-all Torah that-there-is-not with-it work, end-its void and-dragging iniquity. And-all the-labourers with the-community, let-them-be labouring with-them for-the-sake-of Heaven, that-merit-of their-fathers supporting-them and-their-righteousness standing for-ever. And-you, raising I upon-you reward the-great as-if you-did.",
+   "tokens": [
+    {
+     "id": "2:2.1",
+     "gloss": "Rabban",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.2",
+     "gloss": "Gamliel",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.3",
+     "gloss": "his son",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.4",
+     "gloss": "of"
+    },
+    {
+     "id": "2:2.5",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.6",
+     "gloss": "Yehuda",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.7",
+     "gloss": "the Patriarch",
+     "sense": "1",
+     "note": "Title 'the Patriarch' (the nasi): literally 'the chief'"
+    },
+    {
+     "id": "2:2.8",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:2.9",
+     "gloss": "excellent",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.10",
+     "gloss": "the study of",
+     "sense": "1",
+     "note": "תַּלְמוּד 'study, learning', not the Talmud as a book"
+    },
+    {
+     "id": "2:2.11",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.12",
+     "gloss": "together with"
+    },
+    {
+     "id": "2:2.13",
+     "gloss": "the way of",
+     "sense": "1",
+     "note": "דֶּרֶךְ אֶרֶץ: by the decisions, rendered by context ('a worldly occupation'). Literally 'the way of the land'; Bartenura: work or trade; Rambam: earning a living."
+    },
+    {
+     "id": "2:2.14",
+     "gloss": "the land (worldly occupation)",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.15",
+     "gloss": "for the toil of",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.16",
+     "gloss": "both of them",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.17",
+     "gloss": "makes forgotten",
+     "sense": "1.3",
+     "note": "Piel participle, causative: 'causing to forget'"
+    },
+    {
+     "id": "2:2.18",
+     "gloss": "iniquity",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.19",
+     "gloss": "and all",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.20",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.21",
+     "gloss": "that there is not",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.22",
+     "gloss": "with it"
+    },
+    {
+     "id": "2:2.23",
+     "gloss": "work",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.24",
+     "gloss": "its end",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.25",
+     "gloss": "void",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.26",
+     "gloss": "and drawing",
+     "sense": "1",
+     "note": "Qal participle: 'drawing along (after it)'"
+    },
+    {
+     "id": "2:2.27",
+     "gloss": "iniquity",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.28",
+     "gloss": "and all",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.29",
+     "gloss": "those who labor",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:2.30",
+     "gloss": "with"
+    },
+    {
+     "id": "2:2.31",
+     "gloss": "the community",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.32",
+     "gloss": "should be",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:2.33",
+     "gloss": "laboring",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:2.34",
+     "gloss": "with them"
+    },
+    {
+     "id": "2:2.35",
+     "gloss": "for the sake of",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.36",
+     "gloss": "Heaven",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.37",
+     "gloss": "for the merit of",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.38",
+     "gloss": "their fathers",
+     "sense": "1",
+     "note": "'their fathers': the fathers of the community (Bartenura)"
+    },
+    {
+     "id": "2:2.39",
+     "gloss": "supporting them",
+     "sense": "1",
+     "note": "Piel participle with object suffix: 'supporting them'"
+    },
+    {
+     "id": "2:2.40",
+     "gloss": "and their righteousness",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.41",
+     "gloss": "standing",
+     "sense": "1"
+    },
+    {
+     "id": "2:2.42",
+     "gloss": "forever",
+     "sense": "1",
+     "note": "Parse data lists the lemma as עֵד with a different sense; the form is לָעַד 'forever'"
+    },
+    {
+     "id": "2:2.43",
+     "gloss": "and you",
+     "note": "Second person masculine plural: addressed to those who labor for the community"
+    },
+    {
+     "id": "2:2.44",
+     "gloss": "raising",
+     "sense": "1.3.1"
+    },
+    {
+     "id": "2:2.45",
+     "gloss": "I",
+     "sense": "1",
+     "note": "The pronoun repeats the subject of the participle; Hebrew says 'raising I'"
+    },
+    {
+     "id": "2:2.46",
+     "gloss": "upon you"
+    },
+    {
+     "id": "2:2.47",
+     "gloss": "reward",
+     "sense": "1",
+     "note": "Lexicon data lists only proper names under שָׂכָר; the word is the common noun 'reward'"
+    },
+    {
+     "id": "2:2.48",
+     "gloss": "much",
+     "sense": "1",
+     "note": "Article with a masculine adjective used as an adverb, 'much'"
+    },
+    {
+     "id": "2:2.49",
+     "gloss": "as if"
+    },
+    {
+     "id": "2:2.50",
+     "gloss": "you did",
+     "sense": "1.1.1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:2.1",
+      "2:2.2"
+     ],
+     "english": "Rabban Gamliel,",
+     "literal": "'Rabban Gamliel'; רַבָּן is the title of the patriarchal house"
+    },
+    {
+     "tokens": [
+      "2:2.3",
+      "2:2.4",
+      "2:2.5",
+      "2:2.6",
+      "2:2.7"
+     ],
+     "english": "son of Rabbi Yehuda the Patriarch,",
+     "literal": "'son-his of Rabbi Yehuda the-Patriarch'; בְּנוֹ שֶׁל 'his son, of' is the Mishnaic construction; נָשִׂיא 'one lifted up, chief' is the title"
+    },
+    {
+     "tokens": [
+      "2:2.8"
+     ],
+     "english": "says:",
+     "literal": "'saying'"
+    },
+    {
+     "tokens": [
+      "2:2.9",
+      "2:2.10",
+      "2:2.11"
+     ],
+     "english": "Torah study is excellent",
+     "literal": "'good study-of Torah'; יָפֶה 'fair, fine, good'"
+    },
+    {
+     "tokens": [
+      "2:2.12",
+      "2:2.13",
+      "2:2.14"
+     ],
+     "english": "together with a worldly occupation,",
+     "literal": "'with way-of land'; the idiom דֶּרֶךְ אֶרֶץ is read by Bartenura as work or trade and by Rambam as earning a living"
+    },
+    {
+     "tokens": [
+      "2:2.15",
+      "2:2.16",
+      "2:2.17",
+      "2:2.18"
+     ],
+     "english": "for the toil of both makes sin forgotten.",
+     "literal": "'that-toil-of both-of-them causes-to-forget iniquity'; the Piel מְשַׁכַּחַת is causative, 'makes to be forgotten'"
+    },
+    {
+     "tokens": [
+      "2:2.19",
+      "2:2.20",
+      "2:2.21",
+      "2:2.22",
+      "2:2.23"
+     ],
+     "english": "And any Torah study that has no work with it",
+     "literal": "'and-all Torah that-there-is-not with-it work'"
+    },
+    {
+     "tokens": [
+      "2:2.24",
+      "2:2.25",
+      "2:2.26",
+      "2:2.27"
+     ],
+     "english": "in the end comes to nothing and draws sin along.",
+     "literal": "'end-its void and-dragging iniquity'; בְּטֵלָה 'idle, void'"
+    },
+    {
+     "tokens": [
+      "2:2.28",
+      "2:2.29",
+      "2:2.30",
+      "2:2.31"
+     ],
+     "english": "And all who labor with the community",
+     "literal": "'and-all the-labourers with the-community'"
+    },
+    {
+     "tokens": [
+      "2:2.32",
+      "2:2.33",
+      "2:2.34",
+      "2:2.35",
+      "2:2.36"
+     ],
+     "english": "should labor with them for the sake of Heaven,",
+     "literal": "'let-them-be labouring with-them for-the-sake-of Heaven'; 'Heaven' is God, per the decisions"
+    },
+    {
+     "tokens": [
+      "2:2.37",
+      "2:2.38",
+      "2:2.39"
+     ],
+     "english": "for the merit of their fathers supports them",
+     "literal": "'that-merit-of their-fathers supporting-them'"
+    },
+    {
+     "tokens": [
+      "2:2.40",
+      "2:2.41",
+      "2:2.42"
+     ],
+     "english": "and their righteousness stands forever.",
+     "literal": "'and-their-righteousness standing for-ever'; לָעַד with the preposition ל, 'forever'"
+    },
+    {
+     "tokens": [
+      "2:2.43",
+      "2:2.44",
+      "2:2.45",
+      "2:2.46"
+     ],
+     "english": "And you, I credit to you",
+     "literal": "'and-you, raising I upon-you'; the hifil participle מַעֲלֶה 'raising up' with עַל, 'I count it to you'"
+    },
+    {
+     "tokens": [
+      "2:2.47",
+      "2:2.48",
+      "2:2.49",
+      "2:2.50"
+     ],
+     "english": "a great reward as if you had done it.",
+     "literal": "'reward the-great as-if you-did'; הַרְבֵּה is a noun used adverbially, 'much'"
+    }
+   ],
+   "grammar": [
+    "יָפֶה תַלְמוּד תּוֹרָה: the predicate comes first, 'excellent is Torah study'.",
+    "שֶׁיְּגִיעַת ... מְשַׁכַּחַת: a שֶׁ-clause of reason, 'for the toil of both ... makes forgotten'.",
+    "The middle saying turns on יִהְיוּ עֲמֵלִים 'let them labor' (jussive) and the participles מְסַיַּעְתָּן and עוֹמֶדֶת.",
+    "וְאַתֶּם ... מַעֲלֶה אֲנִי: the speaker turns to address the labourers directly: 'and as for you, I count to you ...'."
+   ],
+   "note": "דֶּרֶךְ אֶרֶץ is translated 'a worldly occupation' following Bartenura's gloss (work or trade) and Rambam (earning a living). 'Their fathers' are the fathers of the community, per Bartenura. In the last clause the English leaves the object of 'you had done' unexpressed, as the Hebrew does. The title נָשִׂיא is 'the Patriarch'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:2:1",
+     "relation": "follows",
+     "summary": "Bartenura glosses דֶּרֶךְ אֶרֶץ as 'work or trade'."
+    },
+    {
+     "anchor": "bartenura:2:2:2",
+     "relation": "follows",
+     "summary": "Bartenura: Torah drains a person's strength and work breaks the body, and so the evil impulse is idle in him."
+    },
+    {
+     "anchor": "bartenura:2:2:3",
+     "relation": "follows",
+     "summary": "Bartenura: if one says that constant toil in Torah would make sin forgotten without work, the mishnah says Torah without work ends in nothing, since one cannot do without sustenance and ends by robbing people and forgetting his study."
+    },
+    {
+     "anchor": "bartenura:2:2:4",
+     "relation": "follows",
+     "summary": "Bartenura: let them be occupied with the community for the sake of Heaven, and not to take a crown by saying 'I did so and so for the community'."
+    },
+    {
+     "anchor": "bartenura:2:2:5",
+     "relation": "follows",
+     "summary": "Bartenura: the merit and the lasting righteousness are those of the fathers of the community; it is this which helps those who work with them, and not the quality of the workers' own effort."
+    },
+    {
+     "anchor": "bartenura:2:2:6",
+     "relation": "follows",
+     "summary": "Bartenura: although the good outcome does not come from your deeds but from the merit of the community's fathers, I count it to you as if you had brought about the salvation, since you labor for Heaven's sake. He adds another reading, about those who press the community to charity or the redeeming of captives."
+    },
+    {
+     "anchor": "rambam:2:2:1",
+     "relation": "follows",
+     "summary": "Rambam: דֶּרֶךְ אֶרֶץ is earning a living; Torah without it leads to robbing people. He takes the last clause as God's word to those who work with the community, who are sometimes kept from a commandment by communal business: God counts it as if they had done it."
+    }
+   ],
+   "apparatus": [
+    "Variants: Vilna reads מסייעתן (base מְסַיַּעְתָּן) and כאילו (base כְּאִלּוּ): spelling only."
+   ]
+  },
+  {
+   "ref": "2:3",
+   "english": "Be wary of the authorities, for they do not draw a person near except for their own needs. They appear as friends when it is to their benefit, and they do not stand by a person in his hour of need.",
+   "literal": "Be careful in-the-authority, that-there-is-not drawing-near to-him to-the-person except for-need-of themselves. Appearing like-lovers at-time-of their-benefit, and-there-is-not standing to-him to-the-person at-time-of his-distress.",
+   "tokens": [
+    {
+     "id": "2:3.1",
+     "gloss": "be",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:3.2",
+     "gloss": "careful",
+     "sense": "1"
+    },
+    {
+     "id": "2:3.3",
+     "gloss": "with the authority",
+     "note": "הָרָשׁוּת 'the authority', the ruling power (Rambam: the governments of old)"
+    },
+    {
+     "id": "2:3.4",
+     "gloss": "for there are not",
+     "sense": "1"
+    },
+    {
+     "id": "2:3.5",
+     "gloss": "those who draw near",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:3.6",
+     "gloss": "to him"
+    },
+    {
+     "id": "2:3.7",
+     "gloss": "a person",
+     "sense": "1"
+    },
+    {
+     "id": "2:3.8",
+     "gloss": "except",
+     "note": "אֶלָּא 'but, except'"
+    },
+    {
+     "id": "2:3.9",
+     "gloss": "for the need of",
+     "sense": "1"
+    },
+    {
+     "id": "2:3.10",
+     "gloss": "themselves",
+     "sense": "1",
+     "note": "The plural suffix 'themselves' refers to the authorities. Lexicon data lists only proper-name senses under עֶצֶם; the word is 'self, essence'"
+    },
+    {
+     "id": "2:3.11",
+     "gloss": "appearing",
+     "sense": "1"
+    },
+    {
+     "id": "2:3.12",
+     "gloss": "like friends",
+     "sense": "1.1.1",
+     "note": "Participle plural of אָהַב used as a noun, 'those who love, friends'"
+    },
+    {
+     "id": "2:3.13",
+     "gloss": "at the time of",
+     "sense": "1"
+    },
+    {
+     "id": "2:3.14",
+     "gloss": "their benefit",
+     "sense": "1",
+     "note": "Noun 'benefit, enjoyment' with a plural suffix: the authorities' benefit"
+    },
+    {
+     "id": "2:3.15",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:3.16",
+     "gloss": "standing",
+     "sense": "1"
+    },
+    {
+     "id": "2:3.17",
+     "gloss": "by him"
+    },
+    {
+     "id": "2:3.18",
+     "gloss": "a person",
+     "sense": "1"
+    },
+    {
+     "id": "2:3.19",
+     "gloss": "at the time of",
+     "sense": "1"
+    },
+    {
+     "id": "2:3.20",
+     "gloss": "his distress",
+     "note": "Noun 'pressure, need' with a masculine singular suffix: the person's distress"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:3.1",
+      "2:3.2",
+      "2:3.3"
+     ],
+     "english": "Be wary of the authorities,",
+     "literal": "'be careful in-the-authority'; זָהִיר 'careful, on guard'"
+    },
+    {
+     "tokens": [
+      "2:3.4",
+      "2:3.5",
+      "2:3.6",
+      "2:3.7"
+     ],
+     "english": "for they do not draw a person near",
+     "literal": "'that-there-is-not drawing-near to-him to-the-person'; the subject, the authorities, is not expressed; לוֹ לָאָדָם is a Mishnaic pleonastic pair 'to him, to the person'"
+    },
+    {
+     "tokens": [
+      "2:3.8",
+      "2:3.9",
+      "2:3.10"
+     ],
+     "english": "except for their own needs.",
+     "literal": "'except for-need-of themselves'; the plural suffix of עַצְמָן refers to the authorities"
+    },
+    {
+     "tokens": [
+      "2:3.11",
+      "2:3.12",
+      "2:3.13",
+      "2:3.14"
+     ],
+     "english": "They appear as friends when it is to their benefit,",
+     "literal": "'appearing like-lovers at-time-of their-benefit'"
+    },
+    {
+     "tokens": [
+      "2:3.15",
+      "2:3.16",
+      "2:3.17",
+      "2:3.18"
+     ],
+     "english": "and they do not stand by a person",
+     "literal": "'and-there-is-not standing to-him to-the-person'"
+    },
+    {
+     "tokens": [
+      "2:3.19",
+      "2:3.20"
+     ],
+     "english": "in his hour of need.",
+     "literal": "'at-time-of his-distress'; דֹּחַק 'pressure, distress'"
+    }
+   ],
+   "grammar": [
+    "הֱווּ is the plural imperative of הָיָה, 'be', in the Mishnaic form; the Aramaic-style plural endings in זְהִירִין, מְקָרְבִין, נִרְאִין, כְּאוֹהֲבִין, עוֹמְדִין follow.",
+    "שֶׁאֵין מְקָרְבִין: the plural participle has no stated subject; it is 'they', the authorities.",
+    "לוֹ לָאָדָם: a Mishnaic doubling of the object, 'to him, that is, the person'.",
+    "The saying is a pair of contrasts: 'appear as friends when it benefits them' against 'do not stand by a person in his distress'."
+   ],
+   "note": "'Authorities' for הָרָשׁוּת: the ruling powers. Bartenura applies it to dealing with the authorities on behalf of the community; Rambam to governments. The English keeps both applications open. In the second clause, 'they' are the authorities.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:3:1",
+     "relation": "follows",
+     "summary": "Bartenura: you who deal with community affairs, although you must make yourselves known to the authorities to attend to the people's business, be careful with them."
+    },
+    {
+     "anchor": "rambam:2:3:1",
+     "relation": "follows",
+     "summary": "Rambam: הָרְשׁוּת are the governments of old, and the mishnah speaks of their traits and warns against them."
+    }
+   ],
+   "apparatus": [
+    "Variant: Vilna reads לצורך (base לְצֹרֶךְ): spelling only."
+   ]
+  },
+  {
+   "ref": "2:4",
+   "english": "He used to say: Do His will as if it were your will, so that He will do your will as if it were His will. Set aside your will before His will, so that He will set aside the will of others before your will. Hillel says: Do not separate yourself from the community, and do not trust yourself until the day of your death, and do not judge your fellow until you reach his place, and do not say a thing that cannot be heard, for in the end it will be heard. And do not say: 'When I am free I will study, perhaps you will not be free.'",
+   "literal": "He he-used saying: do will-his like-your-will, so-that he-will-do your-will like-his-will. Annul your-will from-before his-will, so-that he-will-annul will-of others from-before your-will. Hillel saying: not you-separate from the-community, and-not you-trust in-yourself until day-of your-death, and-not you-judge [object-marker] your-fellow until that-you-reach his-place, and-not you-say thing that-not possible to-hear that-its-end to-be-heard. And-not you-say when-I-am-free I-will-study, lest not you-will-be-free.",
+   "tokens": [
+    {
+     "id": "2:4.1",
+     "gloss": "he",
+     "sense": "1",
+     "note": "The pronoun 'he' is the subject of הָיָה אוֹמֵר: the one who 'used to say'"
+    },
+    {
+     "id": "2:4.2",
+     "gloss": "he used",
+     "sense": "1.1.1",
+     "note": "Perfect of הָיָה plus participle: the habitual past, 'used to say'"
+    },
+    {
+     "id": "2:4.3",
+     "gloss": "to say",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:4.4",
+     "gloss": "do",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:4.5",
+     "gloss": "His will",
+     "sense": "1",
+     "note": "suffix 3rd masculine: His, God's"
+    },
+    {
+     "id": "2:4.6",
+     "gloss": "like your will",
+     "sense": "1",
+     "note": "כ + רְצוֹנְךָ: 'as your will'"
+    },
+    {
+     "id": "2:4.7",
+     "gloss": "so that",
+     "sense": "1",
+     "note": "כְּדֵי 'in order that', from כ + דֵּי 'as enough'"
+    },
+    {
+     "id": "2:4.8",
+     "gloss": "He will do",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:4.9",
+     "gloss": "your will",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.10",
+     "gloss": "like His will",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.11",
+     "gloss": "annul",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.12",
+     "gloss": "your will",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.13",
+     "gloss": "before",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.14",
+     "gloss": "His will",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.15",
+     "gloss": "so that",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.16",
+     "gloss": "He will annul",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.17",
+     "gloss": "the will of",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.18",
+     "gloss": "others",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.19",
+     "gloss": "before",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.20",
+     "gloss": "your will",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.21",
+     "gloss": "Hillel",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.22",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:4.23",
+     "gloss": "not"
+    },
+    {
+     "id": "2:4.24",
+     "gloss": "you should separate",
+     "sense": "1",
+     "note": "Qal yiqtol with אַל: prohibition. Lexicon data gives only horse/horseman for the lemma פָּרָשׁ; the verb is פָּרַשׁ 'to separate'"
+    },
+    {
+     "id": "2:4.25",
+     "gloss": "from"
+    },
+    {
+     "id": "2:4.26",
+     "gloss": "the community",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.27",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:4.28",
+     "gloss": "you should trust",
+     "sense": "1",
+     "note": "Hifil of אָמַן 'to trust, believe'; לְהַאֲמִין בְּ 'to trust in'"
+    },
+    {
+     "id": "2:4.29",
+     "gloss": "in yourself",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.30",
+     "gloss": "until"
+    },
+    {
+     "id": "2:4.31",
+     "gloss": "the day of",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.32",
+     "gloss": "your death",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.33",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:4.34",
+     "gloss": "you should judge",
+     "sense": "1",
+     "note": "Qal yiqtol with אַל: prohibition, 'do not judge'"
+    },
+    {
+     "id": "2:4.35",
+     "gloss": "(object marker)",
+     "note": "Object marker; lexicon data lists only 'ploughshare' for אֵת, which is not relevant"
+    },
+    {
+     "id": "2:4.36",
+     "gloss": "your fellow",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.37",
+     "gloss": "until"
+    },
+    {
+     "id": "2:4.38",
+     "gloss": "you reach",
+     "sense": "1.5",
+     "note": "Hifil of נָגַע: 'cause to touch', 'reach, arrive'"
+    },
+    {
+     "id": "2:4.39",
+     "gloss": "his place",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.40",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:4.41",
+     "gloss": "you should say",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:4.42",
+     "gloss": "a thing",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.43",
+     "gloss": "that is not",
+     "sense": "1",
+     "note": "אִי negative 'not'; אִי אֶפְשָׁר 'impossible'"
+    },
+    {
+     "id": "2:4.44",
+     "gloss": "possible",
+     "note": "אֶפְשָׁר 'possible' (Mishnaic)"
+    },
+    {
+     "id": "2:4.45",
+     "gloss": "to hear",
+     "sense": "2.1.1"
+    },
+    {
+     "id": "2:4.46",
+     "gloss": "for its end",
+     "sense": "1"
+    },
+    {
+     "id": "2:4.47",
+     "gloss": "to be heard",
+     "sense": "2.2.1",
+     "note": "Nifal infinitive: 'to be heard'"
+    },
+    {
+     "id": "2:4.48",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:4.49",
+     "gloss": "you should say",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:4.50",
+     "gloss": "when I am free",
+     "sense": "1",
+     "note": "לִכְשֶׁאִפָּנֶה: ל + כ + שֶׁ + Nifal imperfect 1st person of פָּנָה: 'when I am free (of my business)', Bartenura and Rambam"
+    },
+    {
+     "id": "2:4.51",
+     "gloss": "I will study",
+     "sense": "1.1",
+     "note": "שָׁנָה in the Mishnaic sense 'to repeat (a teaching)', 'to study'; the lexicon sense is the BDB 'repeat'"
+    },
+    {
+     "id": "2:4.52",
+     "gloss": "lest",
+     "note": "שֶׁמָּא 'lest, perhaps'"
+    },
+    {
+     "id": "2:4.53",
+     "gloss": "not"
+    },
+    {
+     "id": "2:4.54",
+     "gloss": "you will be free",
+     "sense": "1",
+     "note": "Nifal yiqtol, 2nd masculine singular: 'you will be free'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:4.1",
+      "2:4.2",
+      "2:4.3"
+     ],
+     "english": "He used to say:",
+     "literal": "'he he-used saying'; per the decisions"
+    },
+    {
+     "tokens": [
+      "2:4.4",
+      "2:4.5",
+      "2:4.6"
+     ],
+     "english": "Do His will as if it were your will,",
+     "literal": "'do will-his like-your-will'; the suffix of רְצוֹנוֹ is God (Bartenura: 'the wishes of Heaven')"
+    },
+    {
+     "tokens": [
+      "2:4.7",
+      "2:4.8",
+      "2:4.9",
+      "2:4.10"
+     ],
+     "english": "so that He will do your will as if it were His will.",
+     "literal": "'so-that he-will-do your-will like-his-will'; כְּדֵי שֶׁ 'in order that'"
+    },
+    {
+     "tokens": [
+      "2:4.11",
+      "2:4.12",
+      "2:4.13",
+      "2:4.14"
+     ],
+     "english": "Set aside your will before His will,",
+     "literal": "'annul your-will from-before his-will'; מִפְּנֵי 'because of, before, in the face of'"
+    },
+    {
+     "tokens": [
+      "2:4.15",
+      "2:4.16",
+      "2:4.17",
+      "2:4.18",
+      "2:4.19",
+      "2:4.20"
+     ],
+     "english": "so that He will set aside the will of others before your will.",
+     "literal": "'so-that he-will-annul will-of others from-before your-will'"
+    },
+    {
+     "tokens": [
+      "2:4.21",
+      "2:4.22"
+     ],
+     "english": "Hillel says:",
+     "literal": "'Hillel saying'"
+    },
+    {
+     "tokens": [
+      "2:4.23",
+      "2:4.24",
+      "2:4.25",
+      "2:4.26"
+     ],
+     "english": "Do not separate yourself from the community,",
+     "literal": "'not you-separate from the-community'"
+    },
+    {
+     "tokens": [
+      "2:4.27",
+      "2:4.28",
+      "2:4.29",
+      "2:4.30",
+      "2:4.31",
+      "2:4.32"
+     ],
+     "english": "and do not trust yourself until the day of your death,",
+     "literal": "'and-not you-trust in-yourself until day-of your-death'; הֶאֱמִין בְּ 'to trust in'"
+    },
+    {
+     "tokens": [
+      "2:4.33",
+      "2:4.34"
+     ],
+     "english": "and do not judge",
+     "literal": "'and-not you-judge'"
+    },
+    {
+     "tokens": [
+      "2:4.35"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "2:4.36"
+     ],
+     "english": "your fellow",
+     "literal": "'your-fellow'"
+    },
+    {
+     "tokens": [
+      "2:4.37",
+      "2:4.38",
+      "2:4.39"
+     ],
+     "english": "until you reach his place,",
+     "literal": "'until that-you-reach his-place'"
+    },
+    {
+     "tokens": [
+      "2:4.40",
+      "2:4.41",
+      "2:4.42"
+     ],
+     "english": "and do not say a thing",
+     "literal": "'and-not you-say thing'"
+    },
+    {
+     "tokens": [
+      "2:4.43",
+      "2:4.44",
+      "2:4.45"
+     ],
+     "english": "that cannot be heard,",
+     "literal": "'that-not possible to-hear'; אִי אֶפְשָׁר 'it is impossible'"
+    },
+    {
+     "tokens": [
+      "2:4.46",
+      "2:4.47"
+     ],
+     "english": "for in the end it will be heard.",
+     "literal": "'that-its-end to-be-heard'; the Nifal infinitive 'to be heard'"
+    },
+    {
+     "tokens": [
+      "2:4.48",
+      "2:4.49"
+     ],
+     "english": "And do not say:",
+     "literal": "'and-not you-say'"
+    },
+    {
+     "tokens": [
+      "2:4.50",
+      "2:4.51"
+     ],
+     "english": "'When I am free I will study,",
+     "literal": "'when-I-am-free I-will-study'; Nifal of פָּנָה 'to be free, turn aside'; שָׁנָה 'repeat, study (a lesson)'"
+    },
+    {
+     "tokens": [
+      "2:4.52",
+      "2:4.53",
+      "2:4.54"
+     ],
+     "english": "perhaps you will not be free.'",
+     "literal": "'lest not you-will-be-free'"
+    }
+   ],
+   "grammar": [
+    "הוּא הָיָה אוֹמֵר: a perfect of הָיָה with a participle, the habitual past ('used to say'); the unnamed subject is the speaker last named, Rabban Gamliel (2:2).",
+    "עֲשֵׂה ... בַּטֵּל: two imperatives, each followed by a כְּדֵי שֶׁ purpose clause with the roles of God and the speaker reversed.",
+    "Hillel's sayings are a string of אַל + yiqtol prohibitions; the verbs תִּפְרֹשׁ, תַּאֲמִין, תָּדִין, תֹּאמַר are all second masculine singular.",
+    "שֶׁסּוֹפוֹ לְהִשָּׁמַע: the Nifal infinitive after ל gives 'is bound to be heard'."
+   ],
+   "note": "'He' in the first saying is the speaker last named, Rabban Gamliel of 2:2. The suffix of רְצוֹנוֹ is God, per Bartenura. The saying of Hillel on 'a thing that cannot be heard' is ambiguous: the English follows Bartenura's and Rambam's first reading (a statement that cannot be understood at first hearing) and records Bartenura's second (a secret).",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:4:1",
+     "relation": "follows",
+     "summary": "Bartenura: spend your money on the wishes of Heaven as if you were spending it on your own wishes; if you do, He will do your will as He does His, that is, He will treat you generously."
+    },
+    {
+     "anchor": "bartenura:2:4:2",
+     "relation": "records",
+     "summary": "Bartenura first reads 'the will of others' as thwarting the plans of all who rise against you for ill; he then says he heard that this is only a respectful way of saying 'so that He will set aside His will before yours', as in the Talmud's statement that a decree of seventy years is annulled for one who does a commandment properly."
+    },
+    {
+     "anchor": "bartenura:2:4:3",
+     "relation": "follows",
+     "summary": "Bartenura: instead share in their trouble, for whoever separates himself from the community does not see the community's comfort."
+    },
+    {
+     "anchor": "bartenura:2:4:4",
+     "relation": "follows",
+     "summary": "Bartenura: Yohanan the High Priest served for eighty years and in the end became a Sadducee."
+    },
+    {
+     "anchor": "bartenura:2:4:5",
+     "relation": "follows",
+     "summary": "Bartenura: if you see your fellow come to a test and fail, do not judge him guilty until you come to a test like his and are saved."
+    },
+    {
+     "anchor": "bartenura:2:4:6",
+     "relation": "follows",
+     "summary": "Bartenura: do not make statements that cannot be understood at first and rely on someone eventually understanding them, for people may err and become heretics through you. He gives another reading: do not reveal a secret even when you are alone, saying that no one will hear you."
+    },
+    {
+     "anchor": "bartenura:2:4:7",
+     "relation": "follows",
+     "summary": "Bartenura: 'when I am free' of my business, I will engage in Torah."
+    },
+    {
+     "anchor": "rambam:2:4:1",
+     "relation": "follows",
+     "summary": "Rambam: a person, however worthy his disposition, should not stop adding to his good deeds or assume the virtue cannot leave him; it can, hence 'until the day of your death'."
+    },
+    {
+     "anchor": "rambam:2:4:2",
+     "relation": "follows",
+     "summary": "Rambam: a thing that cannot be heard is one whose plain meaning seems very far-fetched; the saying warns against speech that needs a distant interpretation and close study before the listener can understand it."
+    },
+    {
+     "anchor": "rambam:2:4:3",
+     "relation": "follows",
+     "summary": "Rambam: 'when I am free' means free of this business, like the earlier saying of Shammai to make your Torah fixed."
+    }
+   ],
+   "apparatus": [
+    "Variants: Vilna reads תפרוש, תאמן and לשמוע (bases תִּפְרֹשׁ, תַּאֲמִין, לִשְׁמֹעַ): spelling only."
+   ]
+  },
+  {
+   "ref": "2:5",
+   "english": "He used to say: No boor fears sin, and no unlearned person is pious, and no shy person learns, and no short-tempered person teaches, and no one who does much business becomes wise. And in a place where there are no men, strive to be a man.",
+   "literal": "He he-used saying: there-is-not boor fearing-of sin, and-not people-of the-land pious, and-not the-shy learning, and-not the-hot-tempered teaching, and-not all the-increasing in-business making-wise. And-in-place that-there-are-not men, strive to-be man.",
+   "tokens": [
+    {
+     "id": "2:5.1",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "2:5.2",
+     "gloss": "he used",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:5.3",
+     "gloss": "to say",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:5.4",
+     "gloss": "there is not"
+    },
+    {
+     "id": "2:5.5",
+     "gloss": "a boor",
+     "sense": "1",
+     "note": "בּוּר: 'an empty, uncultivated person' (Jastrow: to be empty, waste); Bartenura: empty of everything, even of the way of business; Rambam: has neither wisdom nor good traits"
+    },
+    {
+     "id": "2:5.6",
+     "gloss": "fearing",
+     "sense": "1",
+     "note": "Construct of the adjective יָרֵא 'fearing'"
+    },
+    {
+     "id": "2:5.7",
+     "gloss": "sin",
+     "sense": "1"
+    },
+    {
+     "id": "2:5.8",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:5.9",
+     "gloss": "an unlearned person (people of",
+     "sense": "1",
+     "note": "עַם 'people' in construct before הָאָרֶץ; by the decisions, 'an unlearned person'. The literal sense is 'the people of the land'; Rambam: lacks intellectual virtues but has some moral ones."
+    },
+    {
+     "id": "2:5.10",
+     "gloss": "the land)",
+     "sense": "1"
+    },
+    {
+     "id": "2:5.11",
+     "gloss": "pious",
+     "sense": "1"
+    },
+    {
+     "id": "2:5.12",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:5.13",
+     "gloss": "the shy",
+     "note": "No lexicon entry; 'the shy'"
+    },
+    {
+     "id": "2:5.14",
+     "gloss": "learning",
+     "sense": "1.1",
+     "note": "Qal participle, 'learning'"
+    },
+    {
+     "id": "2:5.15",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:5.16",
+     "gloss": "the short-tempered",
+     "note": "No lexicon entry; 'the exacting, short-tempered'. Rambam: one who takes offense at everything and gets angry; Bartenura: the teacher who is strict with students who ask questions."
+    },
+    {
+     "id": "2:5.17",
+     "gloss": "teaching",
+     "sense": "1.2",
+     "note": "Piel participle, 'teaching'"
+    },
+    {
+     "id": "2:5.18",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:5.19",
+     "gloss": "anyone",
+     "sense": "1"
+    },
+    {
+     "id": "2:5.20",
+     "gloss": "who increases",
+     "sense": "1",
+     "note": "Hifil participle of רָבָה 'to increase' with the article: 'the one who does much'"
+    },
+    {
+     "id": "2:5.21",
+     "gloss": "in business",
+     "sense": "1"
+    },
+    {
+     "id": "2:5.22",
+     "gloss": "becoming wise",
+     "sense": "1",
+     "note": "Hifil participle of חָכַם, 'making wise, becoming wise'; the lexicon key is the adjective חָכָם"
+    },
+    {
+     "id": "2:5.23",
+     "gloss": "and in a place",
+     "sense": "1"
+    },
+    {
+     "id": "2:5.24",
+     "gloss": "where there are not",
+     "sense": "1"
+    },
+    {
+     "id": "2:5.25",
+     "gloss": "men",
+     "sense": "1",
+     "note": "אֲנָשִׁים 'men' (plural of אִישׁ)"
+    },
+    {
+     "id": "2:5.26",
+     "gloss": "strive",
+     "sense": "1",
+     "note": "Hitpael imperative: 'make an effort, strive'"
+    },
+    {
+     "id": "2:5.27",
+     "gloss": "to be",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:5.28",
+     "gloss": "a man",
+     "sense": "1",
+     "note": "'a man': אִישׁ, one who acts like a person of stature; Rambam: acquire the virtues"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:5.1",
+      "2:5.2",
+      "2:5.3"
+     ],
+     "english": "He used to say:",
+     "literal": "'he he-used saying'; the speaker is Hillel, last named in 2:4"
+    },
+    {
+     "tokens": [
+      "2:5.4",
+      "2:5.5",
+      "2:5.6",
+      "2:5.7"
+     ],
+     "english": "No boor fears sin,",
+     "literal": "'there-is-not boor fearing-of sin'; בּוּר 'fallow, empty'"
+    },
+    {
+     "tokens": [
+      "2:5.8",
+      "2:5.9",
+      "2:5.10",
+      "2:5.11"
+     ],
+     "english": "and no unlearned person is pious,",
+     "literal": "'and-not people-of the-land pious'; עַם הָאָרֶץ, literally 'people of the land'"
+    },
+    {
+     "tokens": [
+      "2:5.12",
+      "2:5.13",
+      "2:5.14"
+     ],
+     "english": "and no shy person learns,",
+     "literal": "'and-not the-shy learning'"
+    },
+    {
+     "tokens": [
+      "2:5.15",
+      "2:5.16",
+      "2:5.17"
+     ],
+     "english": "and no short-tempered person teaches,",
+     "literal": "'and-not the-hot-tempered teaching'; קַפְּדָן 'one who is exacting, easily angered'"
+    },
+    {
+     "tokens": [
+      "2:5.18",
+      "2:5.19",
+      "2:5.20",
+      "2:5.21",
+      "2:5.22"
+     ],
+     "english": "and no one who does much business becomes wise.",
+     "literal": "'and-not all the-increasing in-business making-wise'"
+    },
+    {
+     "tokens": [
+      "2:5.23",
+      "2:5.24",
+      "2:5.25"
+     ],
+     "english": "And in a place where there are no men,",
+     "literal": "'and-in-place that-there-are-not men'"
+    },
+    {
+     "tokens": [
+      "2:5.26",
+      "2:5.27",
+      "2:5.28"
+     ],
+     "english": "strive to be a man.",
+     "literal": "'strive to-be man'"
+    }
+   ],
+   "grammar": [
+    "Five parallel negations with וְלֹא: 'no boor ..., no unlearned person ..., no shy person ..., no short-tempered person ..., no one who ...'; each pairs a type with a quality he cannot have.",
+    "אֵין בּוּר יְרֵא חֵטְא: the existential negative אֵין governs the first clause; the rest use וְלֹא.",
+    "יְרֵא חֵטְא is a construct chain, 'one fearing of sin'.",
+    "The closing line shifts to an imperative, הִשְׁתַּדֵּל, with a play on אֲנָשִׁים and אִישׁ."
+   ],
+   "note": "עַם הָאָרֶץ is 'an unlearned person' by the decisions; the literal 'people of the land' is given here. בּוּר is 'boor' (empty, uncultivated). Bartenura reads בּוּר as worse than the unlearned person: empty of everything, even of business sense. אִישׁ in the last clause is 'a man' in the sense of a person of worth; Bartenura takes it as sitting at the head and giving rulings.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:5:1",
+     "relation": "follows",
+     "summary": "Bartenura: בּוּר is empty of every thing and does not know even good business practice; he is worse than the עַם הָאָרֶץ. He cites the Targum of Genesis 47:19 for בּוּר as 'waste'."
+    },
+    {
+     "anchor": "bartenura:2:5:2",
+     "relation": "follows",
+     "summary": "Bartenura: the עַם הָאָרֶץ may fear sin, since he knows business, but he cannot be pious (חָסִיד)."
+    },
+    {
+     "anchor": "bartenura:2:5:3",
+     "relation": "follows",
+     "summary": "Bartenura: one who is ashamed to ask, lest they mock him, stays in his doubts."
+    },
+    {
+     "anchor": "bartenura:2:5:4",
+     "relation": "follows",
+     "summary": "Bartenura: the teacher who is strict with students when they ask him will not teach properly; he must show a pleasant face in the law."
+    },
+    {
+     "anchor": "bartenura:2:5:5",
+     "relation": "follows",
+     "summary": "Bartenura quotes Deuteronomy 30:13, 'nor is it beyond the sea': Torah is not found among those who go overseas."
+    },
+    {
+     "anchor": "bartenura:2:5:6",
+     "relation": "follows",
+     "summary": "Bartenura: 'in a place where there are no men' means to sit at the head and give rulings."
+    },
+    {
+     "anchor": "rambam:2:5:1",
+     "relation": "follows",
+     "summary": "Rambam: בּוּר has neither wisdom nor good traits; the עַם הָאָרֶץ has no intellectual virtues but some moral ones; the exacting person is one who takes offense at everything and gets angry; הִשְׁתַּדֵּל means to train yourself to acquire the virtues, and teach yourself when there are no wise men to teach you."
+    }
+   ],
+   "apparatus": [
+    "Variant: Vilna reads הביישן (base הַבַּיְשָׁן): spelling only.",
+    "Bartenura and Rambam read the saying about business with Deuteronomy 30:12-13 ('It is not in heaven ... nor is it beyond the sea'); the mishnah does not quote the verse."
+   ]
+  },
+  {
+   "ref": "2:6",
+   "english": "He also saw a skull floating on the surface of the water. He said to it: 'Because you drowned others, they drowned you, and in the end those who drowned you will be drowned.'",
+   "literal": "Also he he-saw skull one that-floated upon face-of the-water. He-said to-her: because that-you-made-float, they-made-float-you; and-end-of your-floaters they-will-float.",
+   "tokens": [
+    {
+     "id": "2:6.1",
+     "gloss": "also",
+     "sense": "1",
+     "note": "אַף 'also'; the lexicon sense listed (nostril) is the noun, not this adverb"
+    },
+    {
+     "id": "2:6.2",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "2:6.3",
+     "gloss": "saw",
+     "sense": "1",
+     "note": "Perfect of רָאָה 'to see'. Lexicon data lists only 'bird of prey' for this lemma; the verb is 'to see'"
+    },
+    {
+     "id": "2:6.4",
+     "gloss": "a skull",
+     "sense": "1",
+     "note": "גֻלְגֹּלֶת 'skull'; feminine, hence 'to her'"
+    },
+    {
+     "id": "2:6.5",
+     "gloss": "one",
+     "sense": "1",
+     "note": "אַחַת 'one' feminine, agreeing with גֻלְגֹּלֶת; used as an indefinite article"
+    },
+    {
+     "id": "2:6.6",
+     "gloss": "that floated",
+     "sense": "1",
+     "note": "שֶׁ + feminine perfect of צָפָה 'to float'"
+    },
+    {
+     "id": "2:6.7",
+     "gloss": "upon"
+    },
+    {
+     "id": "2:6.8",
+     "gloss": "the face of",
+     "sense": "1"
+    },
+    {
+     "id": "2:6.9",
+     "gloss": "the water",
+     "sense": "1"
+    },
+    {
+     "id": "2:6.10",
+     "gloss": "he said",
+     "sense": "1.1",
+     "note": "Perfect 3rd masculine singular"
+    },
+    {
+     "id": "2:6.11",
+     "gloss": "to her",
+     "note": "Feminine suffix: 'to it (the skull)'"
+    },
+    {
+     "id": "2:6.12",
+     "gloss": "because"
+    },
+    {
+     "id": "2:6.13",
+     "gloss": "that you drowned",
+     "sense": "1",
+     "note": "Aramaic: דְּ 'that' + Hifil perfect 2nd feminine of טוּף 'to flood': 'you made float'"
+    },
+    {
+     "id": "2:6.14",
+     "gloss": "they drowned you",
+     "sense": "1",
+     "note": "Aramaic Hifil perfect 3rd plural with 2nd feminine suffix: 'they made you float'"
+    },
+    {
+     "id": "2:6.15",
+     "gloss": "and the end of",
+     "sense": "1"
+    },
+    {
+     "id": "2:6.16",
+     "gloss": "those who drown you",
+     "sense": "1",
+     "note": "Hifil participle plural construct with 2nd feminine suffix: 'those who made you float, your floaters'"
+    },
+    {
+     "id": "2:6.17",
+     "gloss": "they will be drowned",
+     "sense": "1",
+     "note": "Aramaic imperfect 3rd plural: the parse data gives hifil, kept; the sense 'will themselves be drowned' is read from context"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:6.1",
+      "2:6.2",
+      "2:6.3",
+      "2:6.4",
+      "2:6.5"
+     ],
+     "english": "He also saw a skull",
+     "literal": "'also he he-saw skull one'; אַף 'also' (the lexicon data lists only 'nostril, anger')"
+    },
+    {
+     "tokens": [
+      "2:6.6",
+      "2:6.7",
+      "2:6.8",
+      "2:6.9"
+     ],
+     "english": "floating on the surface of the water.",
+     "literal": "'that-floated upon face-of the-water'; צָפָה 'to float'"
+    },
+    {
+     "tokens": [
+      "2:6.10",
+      "2:6.11"
+     ],
+     "english": "He said to it:",
+     "literal": "'he-said to-her'; the feminine suffix agrees with גֻלְגֹּלֶת"
+    },
+    {
+     "tokens": [
+      "2:6.12",
+      "2:6.13",
+      "2:6.14"
+     ],
+     "english": "'Because you drowned others, they drowned you,",
+     "literal": "'because that-you-made-float, they-made-float-you'; Aramaic. Hifil of טוּף 'to make float, to flood'"
+    },
+    {
+     "tokens": [
+      "2:6.15",
+      "2:6.16",
+      "2:6.17"
+     ],
+     "english": "and in the end those who drowned you will be drowned.'",
+     "literal": "'and-end-of your-floaters they-will-float'; Aramaic"
+    }
+   ],
+   "grammar": [
+    "The second half of the mishnah is Aramaic: עַל דַּאֲטֵפְתְּ אַטְפוּךְ וְסוֹף מְטִיפַיִךְ יְטוּפוּן. The Aramaic relative דְּ replaces Hebrew שֶׁ.",
+    "The skull is feminine (גֻלְגֹּלֶת), so the speaker addresses it with the feminine suffixes -תְּ, -ךְ and -ַיִךְ.",
+    "The saying uses the root טוּף in three forms (perfect, participle, imperfect) as a play: 'you made float', 'they made you float', 'your floaters will float'.",
+    "אַף הוּא opens the mishnah as a link to the preceding sayings of Hillel."
+   ],
+   "note": "The Aramaic clause is a measure-for-measure saying: Bartenura reads the skull as that of a wicked man who threw people into the river; Rambam gives it the moral that evil deeds return on the head of the doer. The English 'drowned' stands for the Aramaic 'made float', which Bartenura glosses as casting people on the river. The last verb is read as passive in sense: 'will be drowned'.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:6:1",
+     "relation": "follows",
+     "summary": "Bartenura: you were wicked and cast people into the river, and by the same measure they measured to you."
+    },
+    {
+     "anchor": "bartenura:2:6:2",
+     "relation": "follows",
+     "summary": "Bartenura: it was not given to them to kill you, but to a court, and the Holy One, blessed be He, delivered you to them (and they too will be punished)."
+    },
+    {
+     "anchor": "rambam:2:6:1",
+     "relation": "follows",
+     "summary": "Rambam: you were killed because you killed another, and the one who killed you will himself be killed; evil deeds return on the head of their doer, as 'by the measure a person measures, they measure to him'."
+    }
+   ],
+   "apparatus": [
+    "Aramaic text of the saying: עַל דַּאֲטֵפְתְּ אַטְפוּךְ, וְסוֹף מְטִיפַיִךְ יְטוּפוּן.",
+    "Variant: Vilna reads גולגלת (base גֻלְגֹּלֶת): spelling only."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1386 @@
+{
+ "unit": "noach-08",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "8:15",
+   "english": "Then God spoke to Noah, saying:",
+   "literal": "and-spoke God to Noah to-say",
+   "tokens": [
+    {
+     "id": "8:15.1",
+     "gloss": "and spoke",
+     "sense": "Pi",
+     "note": "wayyiqtol: narrative sequence"
+    },
+    {
+     "id": "8:15.2",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "8:15.3",
+     "gloss": "to"
+    },
+    {
+     "id": "8:15.4",
+     "gloss": "Noah"
+    },
+    {
+     "id": "8:15.5",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "infinitive construct with ל, the standard introducer of direct speech"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:15.1",
+      "8:15.2"
+     ],
+     "english": "Then God spoke",
+     "literal": "'and-spoke God'; the wayyiqtol continues the narrative"
+    },
+    {
+     "tokens": [
+      "8:15.3",
+      "8:15.4"
+     ],
+     "english": "to Noah",
+     "literal": "'to Noah'"
+    },
+    {
+     "tokens": [
+      "8:15.5"
+     ],
+     "english": "saying",
+     "literal": "'to-say'; introduces the quotation"
+    }
+   ],
+   "grammar": [
+    "וַיְדַבֵּר is a Piel wayyiqtol; the merkha is on the verb, the tipḥa on אֱלֹהִים.",
+    "לֵאמֹר, literally 'to say', is the idiom that introduces direct speech; it is not a purpose clause."
+   ],
+   "note": "Plain narrative. The Piel of דבר is the ordinary verb for speaking; the English does not distinguish it from Qal אמר.",
+   "commentary": [
+    {
+     "anchor": "onkelos:8:15:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos renders closely: 'And the LORD spoke with Noah, saying.' It does not bear on the English."
+    }
+   ]
+  },
+  {
+   "ref": "8:16",
+   "english": "Go out of the ark, you and your wife, your sons and your sons' wives with you.",
+   "literal": "go-out from-the-ark you and-your-wife and-your-sons and-wives-of your-sons with-you",
+   "tokens": [
+    {
+     "id": "8:16.1",
+     "gloss": "go out",
+     "sense": "Qal 1",
+     "note": "imperative; the root is I-yod, so the first radical is lost: צֵא"
+    },
+    {
+     "id": "8:16.2",
+     "gloss": "from"
+    },
+    {
+     "id": "8:16.3",
+     "gloss": "the ark"
+    },
+    {
+     "id": "8:16.4",
+     "gloss": "you"
+    },
+    {
+     "id": "8:16.5",
+     "gloss": "and your wife",
+     "sense": "2",
+     "note": "construct אִשְׁתְּ plus suffix ךָ"
+    },
+    {
+     "id": "8:16.6",
+     "gloss": "and your sons",
+     "sense": "1"
+    },
+    {
+     "id": "8:16.7",
+     "gloss": "and wives of",
+     "sense": "2",
+     "note": "construct plural נְשֵׁי, the irregular plural of אִשָּׁה; joined by maqqef to the next word"
+    },
+    {
+     "id": "8:16.8",
+     "gloss": "your sons",
+     "sense": "1"
+    },
+    {
+     "id": "8:16.9",
+     "gloss": "with you",
+     "note": "The pack parses the suffix as 2nd person feminine singular, but Noah (masculine) is addressed; אִתָּךְ with qamets under silluq is a pausal form, and the same form recurs in 8:17. The data is kept."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:16.1",
+      "8:16.2",
+      "8:16.3"
+     ],
+     "english": "Go out of the ark",
+     "literal": "'go-out from-the-ark'; the etnaḥta closes the command"
+    },
+    {
+     "tokens": [
+      "8:16.4",
+      "8:16.5"
+     ],
+     "english": "you and your wife",
+     "literal": "'you and-your-wife'; the zaqef gadol and tevir set the couple off"
+    },
+    {
+     "tokens": [
+      "8:16.6",
+      "8:16.7",
+      "8:16.8"
+     ],
+     "english": "your sons and your sons' wives",
+     "literal": "'and-your-sons and-wives-of your-sons'"
+    },
+    {
+     "tokens": [
+      "8:16.9"
+     ],
+     "english": "with you",
+     "literal": "'with-you'"
+    }
+   ],
+   "grammar": [
+    "צֵא is the imperative of יצא with the first radical dropped; the tipḥa on it and the etnaḥta on הַתֵּבָה divide the command from the list of those who go.",
+    "The accents pair the household: 'you and your wife', then 'your sons and your sons' wives'. In 6:18 and 7:7 the men and women are listed in separate groups on entering; here the couples are paired.",
+    "The construct plural נְשֵׁי־בָנֶיךָ is 'wives of your sons'."
+   ],
+   "note": "The wording is plain. The couples are named together here, unlike the entry (6:18, 7:7), which Rashi and Radak take as the point of the verse.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:16:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'A man and his wife: here He permitted them marital relations.' This is an inference from the pairing of husband and wife and does not change the English wording."
+    },
+    {
+     "anchor": "radak:8:16:1",
+     "relation": "not-applicable",
+     "summary": "Radak joins the women to the men to show that relations were now permitted, as the rabbis said. Not a matter of translation."
+    },
+    {
+     "anchor": "onkelos:8:16:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos translates word for word."
+    }
+   ]
+  },
+  {
+   "ref": "8:17",
+   "english": "Bring out with you every living creature that is with you, of all flesh, birds and animals and everything that creeps on the earth, and let them swarm on the earth, and be fruitful and multiply on the earth.",
+   "literal": "all-of the-living-thing which with-you from-all-of flesh in-the-bird and-in-the-animal and-in-all-of the-creeping-thing the-creeping on the-earth bring-out with-you and-they-swarm in-the-earth and-be-fruitful and-multiply on the-earth",
+   "tokens": [
+    {
+     "id": "8:17.1",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "8:17.2",
+     "gloss": "living creature",
+     "sense": "1.c"
+    },
+    {
+     "id": "8:17.3",
+     "gloss": "that"
+    },
+    {
+     "id": "8:17.4",
+     "gloss": "with you"
+    },
+    {
+     "id": "8:17.5",
+     "gloss": "of all",
+     "sense": "1"
+    },
+    {
+     "id": "8:17.6",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "8:17.7",
+     "gloss": "birds",
+     "sense": "1",
+     "note": "the beth is the beth of specification, 'namely, in the case of birds'; Radak says all the classes are introduced with beth because the verse speaks of the living soul"
+    },
+    {
+     "id": "8:17.8",
+     "gloss": "and animals",
+     "sense": "3",
+     "note": "BDB lists only the sense 'wild beasts' for this entry; the context takes in domestic animals too, and Radak says the wild animals are included as well. The data is kept."
+    },
+    {
+     "id": "8:17.9",
+     "gloss": "and every",
+     "sense": "1"
+    },
+    {
+     "id": "8:17.10",
+     "gloss": "creeping thing",
+     "note": "noun רֶמֶשׂ"
+    },
+    {
+     "id": "8:17.11",
+     "gloss": "that creeps",
+     "note": "participle of the same root, cognate with the noun: 'the creeper that creeps'"
+    },
+    {
+     "id": "8:17.12",
+     "gloss": "on"
+    },
+    {
+     "id": "8:17.13",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:17.14",
+     "gloss": "bring out",
+     "sense": "Hiph 1",
+     "note": "Read (qere) הַיְצֵא, Hiphil imperative of יצא; the written (ketiv) form is הוצא. Both mean 'bring out'."
+    },
+    {
+     "id": "8:17.15",
+     "gloss": "with you"
+    },
+    {
+     "id": "8:17.16",
+     "gloss": "and let them swarm",
+     "note": "weqatal after an imperative: purpose or result, rendered as a jussive"
+    },
+    {
+     "id": "8:17.17",
+     "gloss": "on the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:17.18",
+     "gloss": "and be fruitful",
+     "sense": "Hiph 3",
+     "note": "BDB lists only Hiphil senses under this entry; the form here is Qal. The nearest listed sense is used."
+    },
+    {
+     "id": "8:17.19",
+     "gloss": "and multiply",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "8:17.20",
+     "gloss": "on"
+    },
+    {
+     "id": "8:17.21",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:17.1",
+      "8:17.2",
+      "8:17.3",
+      "8:17.4"
+     ],
+     "english": "every living creature that is with you",
+     "literal": "'all-of the-living-thing which with-you'"
+    },
+    {
+     "tokens": [
+      "8:17.5",
+      "8:17.6"
+     ],
+     "english": "of all flesh",
+     "literal": "'from-all-of flesh', the whole class"
+    },
+    {
+     "tokens": [
+      "8:17.7",
+      "8:17.8",
+      "8:17.9",
+      "8:17.10",
+      "8:17.11",
+      "8:17.12",
+      "8:17.13"
+     ],
+     "english": "birds and animals and everything that creeps on the earth",
+     "literal": "'in-the-bird and-in-the-animal and-in-all-of the-creeping-thing the-creeping on the-earth'"
+    },
+    {
+     "tokens": [
+      "8:17.14",
+      "8:17.15"
+     ],
+     "english": "Bring out with you",
+     "literal": "'bring-out with-you'; the verb stands after its long object in Hebrew and is placed first in English"
+    },
+    {
+     "tokens": [
+      "8:17.16",
+      "8:17.17"
+     ],
+     "english": "and let them swarm on the earth",
+     "literal": "'and-they-swarm in-the-earth'"
+    },
+    {
+     "tokens": [
+      "8:17.18",
+      "8:17.19"
+     ],
+     "english": "and be fruitful and multiply",
+     "literal": "'and-be-fruitful and-multiply'"
+    },
+    {
+     "tokens": [
+      "8:17.20",
+      "8:17.21"
+     ],
+     "english": "on the earth",
+     "literal": "'on the-earth'"
+    }
+   ],
+   "grammar": [
+    "The object (כָּל־הַחַיָּה ...) comes before the verb הַיְצֵא; the zaqef and revia divide the long object from its specification, and the etnaḥta closes the command.",
+    "הַיְצֵא is read (qere) as a Hiphil imperative; the ketiv הוצא is the same form spelled with a vav in place of the yod.",
+    "The three weqatal verbs וְשָׁרְצוּ וּפָרוּ וְרָבוּ follow the imperative and give the purpose of the going out; the echo of 1:22 and 9:1 is clear.",
+    "רֶמֶשׂ הָרֹמֵשׂ is a figura etymologica, 'creeping thing that creeps'."
+   ],
+   "note": "The ketiv/qere is kept in the token note. Following Ibn Ezra's grammar (הַיְצֵא like הַשְׁלֵם, a Hiphil), the English uses 'Bring out'. Ibn Ezra glosses וְשָׁרְצוּ as 'let them give birth' (יולידו); the English keeps 'swarm', the literal sense.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:17:1",
+     "relation": "records",
+     "summary": "Rashi: the ketiv is הוֹצֵא, the qere הַיְצֵא. The qere means 'tell them to go out'; the ketiv means 'if they do not want to go out, bring them out yourself'. The English keeps the causative 'bring out' and records both."
+    },
+    {
+     "anchor": "rashi:8:17:2",
+     "relation": "records",
+     "summary": "Rashi: וְשָׁרְצוּ בָאָרֶץ means 'on the earth, and not in the ark', which shows that the animals and birds were forbidden to breed in the ark. This is a deduction and the English does not state it."
+    },
+    {
+     "anchor": "ibn-ezra:8:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הַיְצֵא is like הַשְׁלֵם, and so 'הַיְשַׁר לפני דרכך' (Ps 5:9): a Hiphil imperative, which the English follows."
+    },
+    {
+     "anchor": "ibn-ezra:8:17:2",
+     "relation": "records",
+     "summary": "Ibn Ezra glosses ושרצו as יולידו, 'let them bear young'. The English keeps 'swarm' and records his sense."
+    },
+    {
+     "anchor": "radak:8:17:5",
+     "relation": "follows",
+     "summary": "Radak: the ketiv has a vav in place of the yod; the first radical vav is silent as is usual, while the qere shows the yod as is normal. He glosses 'bring them out with you as you brought them in with you'."
+    },
+    {
+     "anchor": "radak:8:17:6",
+     "relation": "follows",
+     "summary": "Radak: as at the first creation; the verb שרץ speaks of multiplying offspring and is used there only of fish."
+    },
+    {
+     "anchor": "onkelos:8:17:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos renders ושרצו by יתילדון, 'let them breed', with אפיק for the imperative."
+    }
+   ],
+   "apparatus": [
+    "8:17.14 ketiv-qere: ketiv הוצא (Hiphil imperative with vav), qere הַיְצֵא (with yod)."
+   ]
+  },
+  {
+   "ref": "8:18",
+   "english": "So Noah went out, with his sons, his wife, and his sons' wives.",
+   "literal": "and-went-out Noah and-his-sons and-his-wife and-wives-of his-sons with-him",
+   "tokens": [
+    {
+     "id": "8:18.1",
+     "gloss": "and went out",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of יצא; the maqqef joins it to Noah"
+    },
+    {
+     "id": "8:18.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "8:18.3",
+     "gloss": "and his sons",
+     "sense": "1"
+    },
+    {
+     "id": "8:18.4",
+     "gloss": "and his wife",
+     "sense": "2"
+    },
+    {
+     "id": "8:18.5",
+     "gloss": "and wives of",
+     "sense": "2"
+    },
+    {
+     "id": "8:18.6",
+     "gloss": "his sons",
+     "sense": "1"
+    },
+    {
+     "id": "8:18.7",
+     "gloss": "with him"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:18.1",
+      "8:18.2"
+     ],
+     "english": "So Noah went out",
+     "literal": "'and-went-out Noah'; the etnaḥta ends the first clause"
+    },
+    {
+     "tokens": [
+      "8:18.3",
+      "8:18.4",
+      "8:18.5",
+      "8:18.6",
+      "8:18.7"
+     ],
+     "english": "with his sons, his wife, and his sons' wives",
+     "literal": "'and-his-sons and-his-wife and-wives-of his-sons with-him'; the order sons, wife, sons' wives differs from 8:16"
+    }
+   ],
+   "grammar": [
+    "The wayyiqtol וַיֵּצֵא reports the carrying out of the command; the verb is singular with Noah as its subject, and the others are added after it.",
+    "The order here is Noah, his sons, his wife, his sons' wives: men first, then women, unlike the paired order of 8:16.",
+    "אִתּוֹ 'with him' (silluq) closes the verse."
+   ],
+   "note": "The verb is singular with Noah as its subject; the others are added as accompanying him. The English 'with' reflects that.",
+   "commentary": [
+    {
+     "anchor": "radak:8:18:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the men are named apart from the women; perhaps the women were afraid to leave until the men had gone out, since the fear of the flood was still on them. A reason for the wording, not for the English."
+    },
+    {
+     "anchor": "onkelos:8:18:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos translates word for word."
+    }
+   ]
+  },
+  {
+   "ref": "8:19",
+   "english": "All the animals, all the creeping things, and all the birds, everything that moves on the earth, went out of the ark by their families.",
+   "literal": "all-of the-living-thing all-of the-creeping-thing and-all-of the-bird all-of creeping on the-earth by-their-families went-out from the-ark",
+   "tokens": [
+    {
+     "id": "8:19.1",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "8:19.2",
+     "gloss": "the animals",
+     "sense": "1.c"
+    },
+    {
+     "id": "8:19.3",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "8:19.4",
+     "gloss": "the creeping things"
+    },
+    {
+     "id": "8:19.5",
+     "gloss": "and all",
+     "sense": "1"
+    },
+    {
+     "id": "8:19.6",
+     "gloss": "the birds",
+     "sense": "1"
+    },
+    {
+     "id": "8:19.7",
+     "gloss": "everything",
+     "sense": "2.a",
+     "note": "כֹּל in the absolute state, 'all'"
+    },
+    {
+     "id": "8:19.8",
+     "gloss": "that moves",
+     "note": "participle of רמשׂ, 'creeping, moving about'"
+    },
+    {
+     "id": "8:19.9",
+     "gloss": "on"
+    },
+    {
+     "id": "8:19.10",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:19.11",
+     "gloss": "by their families",
+     "sense": "3",
+     "note": "the lexicon's sense 3, 'species, kind'; the plain meaning is 'by their kinds'; Rashi and Ibn Ezra differ over what this implies"
+    },
+    {
+     "id": "8:19.12",
+     "gloss": "went out",
+     "sense": "Qal 1",
+     "note": "qatal"
+    },
+    {
+     "id": "8:19.13",
+     "gloss": "from"
+    },
+    {
+     "id": "8:19.14",
+     "gloss": "the ark"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:19.1",
+      "8:19.2",
+      "8:19.3",
+      "8:19.4"
+     ],
+     "english": "All the animals, all the creeping things",
+     "literal": "'all-of the-living-thing all-of the-creeping-thing'; the revia and pashta mark the first two groups"
+    },
+    {
+     "tokens": [
+      "8:19.5",
+      "8:19.6"
+     ],
+     "english": "and all the birds",
+     "literal": "'and-all-of the-bird'"
+    },
+    {
+     "tokens": [
+      "8:19.7",
+      "8:19.8",
+      "8:19.9",
+      "8:19.10"
+     ],
+     "english": "everything that moves on the earth",
+     "literal": "'all-of creeping on the-earth'; a summary phrase after the zaqef"
+    },
+    {
+     "tokens": [
+      "8:19.11"
+     ],
+     "english": "by their families",
+     "literal": "'to-their-families'; understood as 'each by its kind'"
+    },
+    {
+     "tokens": [
+      "8:19.12",
+      "8:19.13",
+      "8:19.14"
+     ],
+     "english": "went out of the ark",
+     "literal": "'went-out from the-ark'"
+    }
+   ],
+   "grammar": [
+    "The verb יָצְאוּ stands at the end after a long compound subject; the accents (revia, zaqef qaton, etnaḥta, zaqef) split the subject into its parts.",
+    "כֹּל רוֹמֵשׂ עַל־הָאָרֶץ is an absolute כֹּל with a participle: 'everything creeping on the earth', summing up the groups before it.",
+    "לְמִשְׁפְּחֹתֵיהֶם: the preposition ל means 'by' or 'according to'; משפחה is usually 'clan', here the species."
+   ],
+   "note": "For לְמִשְׁפְּחֹתֵיהֶם I follow Ibn Ezra's primary sense (כמו למינם, 'by their kinds') and Radak's 'each kind by itself'. Rashi reads it as the animals having accepted the condition of keeping to their own kind; Ibn Ezra also records that some say they bred in the ark and each family left unmixed, which he says is not far-fetched. The English 'families' keeps the Hebrew word and covers these readings.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:19:1",
+     "relation": "records",
+     "summary": "Rashi: 'They accepted on themselves, on condition of cleaving to their own kind.' The English does not state the condition, which Rashi finds in the word."
+    },
+    {
+     "anchor": "ibn-ezra:8:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: לְמִשְׁפְּחֹתֵיהֶם is like למינם, 'by their kinds'. Some say they bred in the ark and each family left without mixing with another, which he does not find unlikely. The English follows his first gloss and records the second."
+    },
+    {
+     "anchor": "radak:8:19:4",
+     "relation": "follows",
+     "summary": "Radak glosses 'by their kinds', each kind by itself."
+    },
+    {
+     "anchor": "radak:8:19:3",
+     "relation": "not-applicable",
+     "summary": "Radak: כל רומש על הארץ includes cattle and wild beasts."
+    },
+    {
+     "anchor": "onkelos:8:19:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos renders לזרעיתהון 'by their families', word for word."
+    }
+   ]
+  },
+  {
+   "ref": "8:20",
+   "english": "Then Noah built an altar to the LORD, and he took some of every clean animal and every clean bird and offered burnt offerings on the altar.",
+   "literal": "and-built Noah altar to-the-LORD and-took from-all-of the-animal the-clean and-from-all-of the-bird the-clean and-offered-up burnt-offerings on-the-altar",
+   "tokens": [
+    {
+     "id": "8:20.1",
+     "gloss": "and built",
+     "sense": "Qal",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "8:20.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "8:20.3",
+     "gloss": "an altar"
+    },
+    {
+     "id": "8:20.4",
+     "gloss": "to the LORD",
+     "note": "the divine name יהוה, read 'the LORD'; the preposition ל marks the one to whom the altar belongs"
+    },
+    {
+     "id": "8:20.5",
+     "gloss": "and took",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; the gershayim marks the start of the second clause"
+    },
+    {
+     "id": "8:20.6",
+     "gloss": "some of every",
+     "sense": "1",
+     "note": "מִכֹּל, partitive: 'from all of', 'some of every'"
+    },
+    {
+     "id": "8:20.7",
+     "gloss": "animal",
+     "sense": "3",
+     "note": "BDB lists only 'wild beasts'; here בְּהֵמָה is the clean beast, and Radak says the clean wild animal is included"
+    },
+    {
+     "id": "8:20.8",
+     "gloss": "clean",
+     "note": "adjective טהור, feminine to agree with בהמה; the vowels are written defectively טְהֹרָה"
+    },
+    {
+     "id": "8:20.9",
+     "gloss": "and some of every"
+    },
+    {
+     "id": "8:20.10",
+     "gloss": "bird",
+     "sense": "1"
+    },
+    {
+     "id": "8:20.11",
+     "gloss": "clean",
+     "note": "masculine to agree with עוֹף"
+    },
+    {
+     "id": "8:20.12",
+     "gloss": "and offered up",
+     "sense": "Hiph 8",
+     "note": "wayyiqtol Hiphil of עלה: 'caused to go up', the sacrificial idiom"
+    },
+    {
+     "id": "8:20.13",
+     "gloss": "burnt offerings",
+     "note": "plural of עֹלָה, 'what goes up', the whole-offering burnt on the altar"
+    },
+    {
+     "id": "8:20.14",
+     "gloss": "on the altar"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:20.1",
+      "8:20.2",
+      "8:20.3",
+      "8:20.4"
+     ],
+     "english": "Then Noah built an altar to the LORD",
+     "literal": "'and-built Noah altar to-the-LORD'; the etnaḥta ends the first clause"
+    },
+    {
+     "tokens": [
+      "8:20.5",
+      "8:20.6",
+      "8:20.7",
+      "8:20.8"
+     ],
+     "english": "and he took some of every clean animal",
+     "literal": "'and-took from-all-of the-animal the-clean'"
+    },
+    {
+     "tokens": [
+      "8:20.9",
+      "8:20.10",
+      "8:20.11"
+     ],
+     "english": "and every clean bird",
+     "literal": "'and-from-all-of the-bird the-clean'; the zaqef qaton closes the list"
+    },
+    {
+     "tokens": [
+      "8:20.12",
+      "8:20.13",
+      "8:20.14"
+     ],
+     "english": "and offered burnt offerings on the altar",
+     "literal": "'and-offered-up burnt-offerings on-the-altar'"
+    }
+   ],
+   "grammar": [
+    "The sequence of wayyiqtol verbs (וַיִּבֶן, וַיִּקַּח, וַיַּעַל) reports Noah's acts one after another.",
+    "מִכֹּל is partitive: he took only some of each clean kind, not all of them.",
+    "The adjectives הַטְּהֹרָה and הַטָּהוֹר agree in gender with בְּהֵמָה (feminine) and עוֹף (masculine).",
+    "The pashta after מִכֹּל and the zaqef qaton after הַטָּהוֹר set the two lists apart."
+   ],
+   "note": "The English 'offered burnt offerings' keeps the Hebrew's plural עֹלֹת. The orthography הַטְּהֹרָה and הַטָּהוֹר (WLC reads הַטְּהוֹרָה and הַטָּהֹר) is only spelling.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:20:1",
+     "relation": "follows",
+     "summary": "Rashi: Noah said that the Holy One had not commanded him to bring in seven of each clean kind except in order to offer a sacrifice from them. The English 'some of every' reflects this taking of a portion for sacrifice."
+    },
+    {
+     "anchor": "ibn-ezra:8:20:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra (the fragment here): the number of clean birds is unknown, since they were more than the unclean, and the altar was built as a single one on Ararat. It adds nothing to the English."
+    },
+    {
+     "anchor": "radak:8:20:1",
+     "relation": "not-applicable",
+     "summary": "Radak discusses where Noah built the altar: where he left the ark, or elsewhere after the ark moved, or on the site of the later altar in Jerusalem (Bereshit Rabbah 34)."
+    },
+    {
+     "anchor": "radak:8:20:2",
+     "relation": "records",
+     "summary": "Radak: the clean wild animal is included in בהמה; he offered from all clean kinds, as thanks to God that they were saved from the flood."
+    },
+    {
+     "anchor": "radak:8:20:3",
+     "relation": "not-applicable",
+     "summary": "Radak: the sages disagree whether he offered only whole burnt offerings or also peace offerings with them (Zevaḥim 116)."
+    },
+    {
+     "anchor": "onkelos:8:20:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos translates word for word, with 'offered up' for the Hiphil."
+    }
+   ],
+   "apparatus": [
+    "8:20.4 vowels: WLC reads לַֽיהוָ֑ה; base לַֽיהֹוָ֑ה.",
+    "8:20.8 spelling: WLC reads הַטְּהוֹרָ֗ה; base הַטְּהֹרָ֗ה.",
+    "8:20.11 spelling: WLC reads הַטָּהֹ֔ר; base הַטָּה֔וֹר."
+   ]
+  },
+  {
+   "ref": "8:21",
+   "english": "The LORD smelled the soothing aroma, and the LORD said to himself, \"I will never again curse the ground because of the human, for the inclination of the human heart is evil from youth; and I will never again strike down every living thing as I have done.\"",
+   "literal": "and-smelled the-LORD (object-marker) scent-of the-soothing and-said the-LORD to his-heart not I-will-add to-curse again (object-marker) the-ground on-account-of the-human for formation-of heart-of the-human evil from-his-youth and-not I-will-add again to-strike (object-marker) all-of living as-which I-did",
+   "tokens": [
+    {
+     "id": "8:21.1",
+     "gloss": "and smelled",
+     "note": "wayyiqtol Hiphil of רִיחַ, a denominative verb from רֵיחַ 'scent': 'he smelled, perceived an odour'"
+    },
+    {
+     "id": "8:21.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "8:21.3",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:21.4",
+     "gloss": "scent of",
+     "note": "construct of רֵיחַ"
+    },
+    {
+     "id": "8:21.5",
+     "gloss": "the soothing",
+     "note": "נִיחֹחַ, from the root נוח 'rest'; 'soothing' or 'quieting'; the doubled ח belongs to the noun pattern (Ibn Ezra)"
+    },
+    {
+     "id": "8:21.6",
+     "gloss": "and said",
+     "sense": "Qal 2",
+     "note": "wayyiqtol; the sense 'say in the heart' with אֶל־לִבּוֹ"
+    },
+    {
+     "id": "8:21.7",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "8:21.8",
+     "gloss": "to"
+    },
+    {
+     "id": "8:21.9",
+     "gloss": "his heart",
+     "sense": "II.2",
+     "note": "'to himself'; Ibn Ezra takes אֶל as עִם, 'with his heart'"
+    },
+    {
+     "id": "8:21.10",
+     "gloss": "not"
+    },
+    {
+     "id": "8:21.11",
+     "gloss": "I will add",
+     "sense": "Hiph 2.a",
+     "note": "with the following infinitive: 'I will do again'"
+    },
+    {
+     "id": "8:21.12",
+     "gloss": "to curse",
+     "sense": "Pi",
+     "note": "infinitive construct Piel of קלל: 'to treat as slight', 'to curse'"
+    },
+    {
+     "id": "8:21.13",
+     "gloss": "again",
+     "note": "עוֹד, 'still, again'; with לֹא 'no more, never again' (Ibn Ezra)"
+    },
+    {
+     "id": "8:21.14",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:21.15",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "8:21.16",
+     "gloss": "on account of",
+     "note": "בַּעֲבוּר, 'for the sake of, because of'"
+    },
+    {
+     "id": "8:21.17",
+     "gloss": "the human",
+     "sense": "2",
+     "note": "הָאָדָם with the article, 'the human' by the decisions"
+    },
+    {
+     "id": "8:21.18",
+     "gloss": "for"
+    },
+    {
+     "id": "8:21.19",
+     "gloss": "inclination of",
+     "sense": "1",
+     "note": "construct of יֵצֶר 'what is formed, framed'; BDB's only listed sense is 'pottery', which is the concrete use of the same root; Ibn Ezra glosses it 'the nature that was formed in him'"
+    },
+    {
+     "id": "8:21.20",
+     "gloss": "heart of",
+     "sense": "II.2"
+    },
+    {
+     "id": "8:21.21",
+     "gloss": "the human",
+     "sense": "2"
+    },
+    {
+     "id": "8:21.22",
+     "gloss": "evil",
+     "sense": "10"
+    },
+    {
+     "id": "8:21.23",
+     "gloss": "from his youth",
+     "note": "מִנְּעֻרָיו, plural construct of נְעוּרִים with a 3rd masculine singular suffix; the sound of the form allows Rashi's derivation from the root נער 'to shake out'"
+    },
+    {
+     "id": "8:21.24",
+     "gloss": "and not"
+    },
+    {
+     "id": "8:21.25",
+     "gloss": "I will add",
+     "sense": "Hiph 2.a"
+    },
+    {
+     "id": "8:21.26",
+     "gloss": "again"
+    },
+    {
+     "id": "8:21.27",
+     "gloss": "to strike",
+     "sense": "Hiph 3",
+     "note": "infinitive construct Hiphil of נכה"
+    },
+    {
+     "id": "8:21.28",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:21.29",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "8:21.30",
+     "gloss": "living thing",
+     "sense": "1.c",
+     "note": "adjective חַי used as a noun, 'every living (thing)'"
+    },
+    {
+     "id": "8:21.31",
+     "gloss": "as",
+     "sense": "1",
+     "note": "כַּאֲשֶׁר"
+    },
+    {
+     "id": "8:21.32",
+     "gloss": "I have done",
+     "sense": "Qal I.1",
+     "note": "qatal, 1st person: 'I did'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:21.1",
+      "8:21.2",
+      "8:21.3",
+      "8:21.4",
+      "8:21.5"
+     ],
+     "english": "The LORD smelled the soothing aroma",
+     "literal": "'and-smelled the-LORD (object) scent-of the-soothing'; the zinor ends the first clause"
+    },
+    {
+     "tokens": [
+      "8:21.6",
+      "8:21.7",
+      "8:21.8",
+      "8:21.9"
+     ],
+     "english": "and the LORD said to himself",
+     "literal": "'and-said the-LORD to his-heart'"
+    },
+    {
+     "tokens": [
+      "8:21.10",
+      "8:21.11",
+      "8:21.12",
+      "8:21.13"
+     ],
+     "english": "I will never again curse",
+     "literal": "'not I-will-add to-curse again'"
+    },
+    {
+     "tokens": [
+      "8:21.14",
+      "8:21.15"
+     ],
+     "english": "the ground",
+     "literal": "'(object) the-ground'"
+    },
+    {
+     "tokens": [
+      "8:21.16",
+      "8:21.17"
+     ],
+     "english": "because of the human",
+     "literal": "'on-account-of the-human'"
+    },
+    {
+     "tokens": [
+      "8:21.18",
+      "8:21.19",
+      "8:21.20",
+      "8:21.21",
+      "8:21.22",
+      "8:21.23"
+     ],
+     "english": "for the inclination of the human heart is evil from youth",
+     "literal": "'for formation-of heart-of the-human evil from-his-youth'; the etnaḥta closes the reason"
+    },
+    {
+     "tokens": [
+      "8:21.24",
+      "8:21.25",
+      "8:21.26"
+     ],
+     "english": "and I will never again",
+     "literal": "'and-not I-will-add again'"
+    },
+    {
+     "tokens": [
+      "8:21.27",
+      "8:21.28",
+      "8:21.29",
+      "8:21.30"
+     ],
+     "english": "strike down every living thing",
+     "literal": "'to-strike (object) all-of living'"
+    },
+    {
+     "tokens": [
+      "8:21.31",
+      "8:21.32"
+     ],
+     "english": "as I have done",
+     "literal": "'as-which I-did'"
+    }
+   ],
+   "grammar": [
+    "The verse has two clauses of narration (וַיָּרַח, וַיֹּאמֶר) and then God's speech: two parallel vows, each opening לֹא־אֹסִף ... עוֹד, with a reason (כִּי ...) set between them.",
+    "אֹסִף is a Hiphil imperfect of יסף; with an infinitive it means 'I will do again', so לֹא אֹסִף לְקַלֵּל is 'I will not again curse'.",
+    "The zinor on יְהֹוָה and the segol pair on הַנִּיחֹחַ mark the first clause; the pair of telisha gedolas around אֹסִף and כִּי begin the speech and its reason.",
+    "יֵצֶר לֵב הָאָדָם is a construct chain: 'the formation of the human heart'; the adjective רַע is the predicate, and מִנְּעֻרָיו 'from his youth' modifies it.",
+    "The repeated אֹסִף עוֹד in two clauses is what Rashi takes as an oath."
+   ],
+   "note": "The notes follow Ibn Ezra on the grammar: וַיָּרַח is a figure of speech (the offering was accepted, as one smells a pleasing scent); אֶל־לִבּוֹ means 'with/to his heart', that is 'to himself'; לְקַלֵּל is a curse on the ground that came through man (cf. 3:17); יֵצֶר is what was formed in the human. For מִנְּעֻרָיו Rashi derives the word from the root נער 'shake out' (from birth) and Ramban records both 'from the beginning of youth' and 'because of youth'; the English keeps the plain 'from youth'. The quoted speech is set in double quotation marks in the English only.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:21:1",
+     "relation": "records",
+     "summary": "Rashi: the form is written מנעריו (plural, 'from his youths'), and he reads it as 'from when he was shaken out of his mother's womb the evil inclination was given to him'. The English keeps the plain sense 'from youth' and records his derivation from נער."
+    },
+    {
+     "anchor": "rashi:8:21:2",
+     "relation": "follows",
+     "summary": "Rashi: the doubling of 'I will not add' is for an oath; Isaiah 54:9 says 'as I swore ... the waters of Noah', and the only oath the Torah records is this doubling. The English repeats 'never again' in both vows, and the oath is noted here."
+    },
+    {
+     "anchor": "ibn-ezra:8:21:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיָּרַח is on the pattern of 'וינח בכל גבול מצרים' (Ex 10:14), with a patah under the resh because of the guttural ח. God does not smell: the meaning is that He accepted the burnt offering and it pleased Him, as a person smells a sweet scent and it is pleasant. The English 'smelled' keeps the verb of the text."
+    },
+    {
+     "anchor": "ibn-ezra:8:21:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הַנִּיחֹחַ is from מְנוּחָה 'rest', and the ח is doubled like the pe of ונאפופיה; the sense is that it set down (הניח) His anger, or that it placed a higher strength at rest. The English 'soothing' follows this."
+    },
+    {
+     "anchor": "ibn-ezra:8:21:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אֶל לִבּוֹ is like עִם לִבּוֹ, 'with his heart'; afterwards He revealed the secret to Noah, who was a prophet. The English 'to himself' follows."
+    },
+    {
+     "anchor": "ibn-ezra:8:21:4",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'I will not again curse' means as the curse came through man, since it is written 'cursed is the ground' (3:17). The English follows."
+    },
+    {
+     "anchor": "ibn-ezra:8:21:5",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יֵצֶר is the nature that was formed in him. The English 'inclination' renders the sense of formation."
+    },
+    {
+     "anchor": "ibn-ezra:8:21:6",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'I will not again' refers to the flood. The English follows."
+    },
+    {
+     "anchor": "ibn-ezra:8:21:7",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the word עוֹד means 'for ever' or 'a second time', as in 'and he wept on his neck still' (Gen 46:29). The English 'never again' takes the second sense."
+    },
+    {
+     "anchor": "ramban:8:21:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: God did not reveal this to a prophet at that time, but later when He commanded Moses to write the Torah; 'because of the human' means the animals were punished on account of man."
+    },
+    {
+     "anchor": "ramban:8:21:2",
+     "relation": "records",
+     "summary": "Ramban gives two readings of the מ in מנעריו: 'from the beginning of youth', as the sages say, or 'because of' youth, which makes the evil of the heart come from youth. He also records 'like בנעריו'."
+    },
+    {
+     "anchor": "radak:8:21:1",
+     "relation": "follows",
+     "summary": "Radak: the Torah speaks as men speak, as a figure; the offering was accepted with favour."
+    },
+    {
+     "anchor": "radak:8:21:2",
+     "relation": "follows",
+     "summary": "Radak: נִיחֹחַ is on the pattern of ניצוץ; the sense is that He set down (הניח) His anger in the world."
+    },
+    {
+     "anchor": "radak:8:21:3",
+     "relation": "not-applicable",
+     "summary": "Radak: God saw by His reason that the evil would not be many again, and that the whole would not be destroyed for the part."
+    },
+    {
+     "anchor": "radak:8:21:4",
+     "relation": "not-applicable",
+     "summary": "Radak: because of the human means that the wicked would end and the ground remain for the good."
+    },
+    {
+     "anchor": "radak:8:21:5",
+     "relation": "follows",
+     "summary": "Radak: it is called יֵצֶר because it is formed with the human; the evil inclination exists in a person before the good."
+    },
+    {
+     "anchor": "onkelos:8:21:1",
+     "relation": "follows",
+     "summary": "Onkelos renders: 'the LORD accepted his offering with favour, and said by His word, I will not again curse the earth on account of the sins of man, for the inclination of the heart of man is evil from his youth.'"
+    },
+    {
+     "anchor": "sforno:8:21:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: the offering was then fit to be offered."
+    },
+    {
+     "anchor": "sforno:8:21:3",
+     "relation": "not-applicable",
+     "summary": "Sforno: after the flood the temperaments are weaker, so the power of reason does not shine in them from their youth as it did before."
+    }
+   ],
+   "apparatus": [
+    "8:21 Ramban and Rashi read מנעריו differently: Rashi as 'from the shaking out of the womb', Ramban as 'from the beginning of youth' or 'because of youth'."
+   ]
+  },
+  {
+   "ref": "8:22",
+   "english": "For as long as the earth lasts, seedtime and harvest, cold and heat, summer and winter, day and night will never cease.",
+   "literal": "still all-of days-of the-earth seed and-harvest and-cold and-heat and-summer and-winter and-day and-night not they-cease",
+   "tokens": [
+    {
+     "id": "8:22.1",
+     "gloss": "still",
+     "note": "עוֹד, 'still, continuing'"
+    },
+    {
+     "id": "8:22.2",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "8:22.3",
+     "gloss": "the days of",
+     "sense": "4"
+    },
+    {
+     "id": "8:22.4",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:22.5",
+     "gloss": "seedtime",
+     "sense": "1.a",
+     "note": "זֶרַע, 'sowing', the time of sowing"
+    },
+    {
+     "id": "8:22.6",
+     "gloss": "and harvest",
+     "sense": "3"
+    },
+    {
+     "id": "8:22.7",
+     "gloss": "and cold",
+     "note": "קֹר"
+    },
+    {
+     "id": "8:22.8",
+     "gloss": "and heat",
+     "note": "חֹם"
+    },
+    {
+     "id": "8:22.9",
+     "gloss": "and summer",
+     "note": "קַיִץ, summer, the time of summer fruit"
+    },
+    {
+     "id": "8:22.10",
+     "gloss": "and winter",
+     "note": "חֹרֶף; BDB gives 'harvest-time, autumn'; Rashi takes the season as the time of sowing barley and legumes (half Shevat, Adar, half Nisan). The English 'winter' follows the contrast with summer, and Ibn Ezra's pairing."
+    },
+    {
+     "id": "8:22.11",
+     "gloss": "and day",
+     "sense": "1"
+    },
+    {
+     "id": "8:22.12",
+     "gloss": "and night"
+    },
+    {
+     "id": "8:22.13",
+     "gloss": "not"
+    },
+    {
+     "id": "8:22.14",
+     "gloss": "will cease",
+     "sense": "Qal 1",
+     "note": "imperfect 3rd masculine plural, with the plural subject of six pairs of nouns"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:22.1",
+      "8:22.2",
+      "8:22.3",
+      "8:22.4"
+     ],
+     "english": "For as long as the earth lasts",
+     "literal": "'still all-of days-of the-earth'; the etnaḥta closes the time clause"
+    },
+    {
+     "tokens": [
+      "8:22.5",
+      "8:22.6"
+     ],
+     "english": "seedtime and harvest",
+     "literal": "'seed and-harvest'"
+    },
+    {
+     "tokens": [
+      "8:22.7",
+      "8:22.8"
+     ],
+     "english": "cold and heat",
+     "literal": "'and-cold and-heat'"
+    },
+    {
+     "tokens": [
+      "8:22.9",
+      "8:22.10"
+     ],
+     "english": "summer and winter",
+     "literal": "'and-summer and-winter'"
+    },
+    {
+     "tokens": [
+      "8:22.11",
+      "8:22.12"
+     ],
+     "english": "day and night",
+     "literal": "'and-day and-night'"
+    },
+    {
+     "tokens": [
+      "8:22.13",
+      "8:22.14"
+     ],
+     "english": "will never cease",
+     "literal": "'not they-cease'"
+    }
+   ],
+   "grammar": [
+    "עֹד כָּל־יְמֵי הָאָרֶץ is a time clause, 'all the days of the earth still', with the etnaḥta marking its end; the plural verb יִשְׁבֹּתוּ at the end governs all the pairs.",
+    "The three pairs are in an a-b pattern: sowing and harvest, cold and heat, summer and winter, then day and night; each pair is joined by vav.",
+    "יִשְׁבֹּתוּ is the Qal of שׁבת 'to cease'; the same root gives the Sabbath, 'the ceasing'.",
+    "The unusual accents (pazer, telisha gedola, qadma) give the list a slow, rhythmical delivery."
+   ],
+   "note": "Rashi divides the year into six seasons of two months each (half Tishri to half Kislev for sowing, and so on); Ibn Ezra divides the year first in two (sowing and harvest) and then in four (cold and heat, summer and winter), which also fits the Hebrew pairs. The English keeps the six nouns as the Hebrew pairs them. 'For as long as the earth lasts' keeps כָּל־יְמֵי הָאָרֶץ, which Ibn Ezra reads as showing that the earth has an appointed end.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:22:1",
+     "relation": "records",
+     "summary": "Rashi: the six seasons are two months each, as the sages taught: half Tishri, Marheshvan and half Kislev is זרע, half Kislev, Tevet and half Shevat is קֹר (חֹרֶף) (Bava Metzia 106). The English keeps the six nouns."
+    },
+    {
+     "anchor": "rashi:8:22:2",
+     "relation": "records",
+     "summary": "Rashi on קור: it is more severe than חֹרֶף."
+    },
+    {
+     "anchor": "rashi:8:22:3",
+     "relation": "records",
+     "summary": "Rashi on חרף: the time of sowing barley and legumes, which are 'sharp' (חֲרִיפִין) and ripen quickly; it is half Shevat, Adar and half Nisan. The English 'winter' is the nearest ordinary season."
+    },
+    {
+     "anchor": "rashi:8:22:4",
+     "relation": "records",
+     "summary": "Rashi on קציר: half Nisan, Iyar and half Sivan."
+    },
+    {
+     "anchor": "rashi:8:22:5",
+     "relation": "records",
+     "summary": "Rashi on קיץ: half Sivan, Tammuz and half Av, the time of gathering figs and drying them in the fields, hence the name קַיִץ as in 2 Sam 16:2."
+    },
+    {
+     "anchor": "rashi:8:22:6",
+     "relation": "records",
+     "summary": "Rashi on חום: the end of the days of heat, half Av, Elul and half Tishri, when the world is hottest."
+    },
+    {
+     "anchor": "rashi:8:22:7",
+     "relation": "records",
+     "summary": "Rashi: 'day and night shall not cease' implies that they had ceased during the days of the flood, since the constellations did not serve and day was not distinguished from night. The English does not state this."
+    },
+    {
+     "anchor": "rashi:8:22:8",
+     "relation": "follows",
+     "summary": "Rashi: they shall not cease from keeping their order. The English 'will never cease' follows."
+    },
+    {
+     "anchor": "ibn-ezra:8:22:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'all the days of the earth' is a sign that the earth has a fixed end; he adds a remark on the midrash 'round about eighteen thousand'. The English 'as long as the earth lasts' keeps the sense."
+    },
+    {
+     "anchor": "ibn-ezra:8:22:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: He divided the year into two and afterwards into four; 'cold' is set against 'heat'. The English keeps the pairs."
+    },
+    {
+     "anchor": "ibn-ezra:8:22:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'summer' is set against 'winter', and they correspond to the four seasons of the year; all of them divide day and night, so that what one lacks is added to the other. The English keeps the pairs."
+    },
+    {
+     "anchor": "radak:8:22:1",
+     "relation": "not-applicable",
+     "summary": "Radak reports Ibn Ezra that 'all the days of the earth' shows it has an appointed end."
+    },
+    {
+     "anchor": "radak:8:22:2",
+     "relation": "not-applicable",
+     "summary": "Radak: the year is divided into two parts, sowing and harvest, and then into four seasons."
+    },
+    {
+     "anchor": "radak:8:22:5",
+     "relation": "not-applicable",
+     "summary": "Radak: they ceased in the flood year; also seed and harvest, cold, heat, summer, winter and day and night ceased for those in the ark, as no distinction was made; the sages differ on whether the constellations served."
+    },
+    {
+     "anchor": "onkelos:8:22:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos translates word for word."
+    },
+    {
+     "anchor": "sforno:8:22:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: 'will not cease' to continue in the unnatural manner that He set for them after the flood, because the sun now moves on a tilted wheel; before the flood it was always spring."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,649 @@
+{
+ "unit": "noach-15",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "10:15",
+   "english": "Canaan fathered Sidon, his firstborn, and Heth.",
+   "literal": "and-Canaan begot [object-marker] Sidon his-firstborn and-[object-marker] Heth",
+   "tokens": [
+    {
+     "id": "10:15.1",
+     "gloss": "and Canaan"
+    },
+    {
+     "id": "10:15.2",
+     "gloss": "fathered",
+     "sense": "Qal 2",
+     "note": "qatal; with a male subject yalad means 'beget'"
+    },
+    {
+     "id": "10:15.3",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "10:15.4",
+     "gloss": "Sidon"
+    },
+    {
+     "id": "10:15.5",
+     "gloss": "his firstborn",
+     "sense": "1",
+     "note": "construct form of bekhor with the suffix -o 'his'"
+    },
+    {
+     "id": "10:15.6",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:15.7",
+     "gloss": "Heth"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:15.1",
+      "10:15.2"
+     ],
+     "english": "Canaan fathered",
+     "literal": "'and-Canaan begot'; the waw only continues the list of Ham's sons"
+    },
+    {
+     "tokens": [
+      "10:15.3"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "10:15.4"
+     ],
+     "english": "Sidon",
+     "literal": "'Sidon'"
+    },
+    {
+     "tokens": [
+      "10:15.5"
+     ],
+     "english": "his firstborn",
+     "literal": "'his-firstborn'"
+    },
+    {
+     "tokens": [
+      "10:15.6",
+      "10:15.7"
+     ],
+     "english": "and Heth",
+     "literal": "'and-[object-marker] Heth'"
+    }
+   ],
+   "grammar": [
+    "The verb יָלַד, with a man as subject, means 'beget'; the objects are marked by אֶת.",
+    "בְּכֹרוֹ stands in apposition to צִידֹן and is set off by the tipḥa.",
+    "The waw on וּכְנַעַן is a simple connective with the preceding sons of Ham."
+   ],
+   "note": "The ancestor-name Canaan is also the ethnic name; the English keeps the name. Ramban's discussion of how the ten peoples relate to the land promised to Abraham is a historical comment, not about the words.",
+   "commentary": [
+    {
+     "anchor": "ramban:10:15:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: these are the ten peoples of Canaan given to Abraham; their names changed over time. This concerns the identification of the peoples, not the plain sense of the clause."
+    },
+    {
+     "anchor": "radak:10:15:3",
+     "relation": "follows",
+     "summary": "Radak finds no clear reason for בְּכֹרוֹ here; he suggests Sidon is named for both rank and birth order. The English simply says 'his firstborn'."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: וּכְנַעַן אוֹלִיד יָת צִידוֹן בָּכְרֵיהּ וְיָת חֵת, in agreement with the Hebrew."
+   ]
+  },
+  {
+   "ref": "10:16",
+   "english": "the Jebusites, the Amorites, and the Girgashites.",
+   "literal": "and-[object-marker] the-Jebusite and-[object-marker] the-Amorite and-[object-marker] the-Girgashite",
+   "tokens": [
+    {
+     "id": "10:16.1",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:16.2",
+     "gloss": "the Jebusites",
+     "sense": "1",
+     "note": "gentilic singular used collectively"
+    },
+    {
+     "id": "10:16.3",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:16.4",
+     "gloss": "the Amorites"
+    },
+    {
+     "id": "10:16.5",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:16.6",
+     "gloss": "the Girgashites"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:16.1",
+      "10:16.2"
+     ],
+     "english": "the Jebusites",
+     "literal": "'and-[object-marker] the-Jebusite'; collective singular"
+    },
+    {
+     "tokens": [
+      "10:16.3",
+      "10:16.4"
+     ],
+     "english": "the Amorites",
+     "literal": "'and-[object-marker] the-Amorite'"
+    },
+    {
+     "tokens": [
+      "10:16.5",
+      "10:16.6"
+     ],
+     "english": "and the Girgashites",
+     "literal": "'and-[object-marker] the-Girgashite'; English places 'and' before the last item"
+    }
+   ],
+   "grammar": [
+    "Each name is a gentilic in the singular with the article, used for the whole people, and each is the object of the verb in 10:15.",
+    "The disjunctive accents pashta and zaqef qaton divide the list into three."
+   ],
+   "note": "The English puts 'and' only before the last item, as English lists do; the literal line keeps every waw.",
+   "commentary": [
+    {
+     "anchor": "radak:10:16:1",
+     "relation": "follows",
+     "summary": "Radak: all these names have the gentilic ending and the article because they name the peoples descended from them, not an individual."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders the gentilics with the Aramaic ending -אֵי."
+   ]
+  },
+  {
+   "ref": "10:17",
+   "english": "the Hivites, the Arkites, and the Sinites.",
+   "literal": "and-[object-marker] the-Hivite and-[object-marker] the-Arkite and-[object-marker] the-Sinite",
+   "tokens": [
+    {
+     "id": "10:17.1",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:17.2",
+     "gloss": "the Hivites"
+    },
+    {
+     "id": "10:17.3",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:17.4",
+     "gloss": "the Arkites"
+    },
+    {
+     "id": "10:17.5",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:17.6",
+     "gloss": "the Sinites"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:17.1",
+      "10:17.2"
+     ],
+     "english": "the Hivites",
+     "literal": "'and-[object-marker] the-Hivite'"
+    },
+    {
+     "tokens": [
+      "10:17.3",
+      "10:17.4"
+     ],
+     "english": "the Arkites",
+     "literal": "'and-[object-marker] the-Arkite'"
+    },
+    {
+     "tokens": [
+      "10:17.5",
+      "10:17.6"
+     ],
+     "english": "and the Sinites",
+     "literal": "'and-[object-marker] the-Sinite'"
+    }
+   ],
+   "grammar": [
+    "The list continues as objects of יָלַד in 10:15, each introduced by אֶת.",
+    "The definite article after the object marker shows that these are names of peoples."
+   ],
+   "note": "The lexicon glosses חִוִּי as 'villagers'; the English uses the ethnic name Hivites.",
+   "commentary": [],
+   "apparatus": [
+    "Onkelos: וְיָת אַנְתּוֹסָאֵי for the Sinites."
+   ]
+  },
+  {
+   "ref": "10:18",
+   "english": "the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Canaanites spread out.",
+   "literal": "and-[object-marker] the-Arvadite and-[object-marker] the-Zemarite and-[object-marker] the-Hamathite and-afterward were-scattered clans-of the-Canaanite",
+   "tokens": [
+    {
+     "id": "10:18.1",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:18.2",
+     "gloss": "the Arvadites"
+    },
+    {
+     "id": "10:18.3",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:18.4",
+     "gloss": "the Zemarites"
+    },
+    {
+     "id": "10:18.5",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "10:18.6",
+     "gloss": "the Hamathites"
+    },
+    {
+     "id": "10:18.7",
+     "gloss": "and afterward",
+     "sense": "1.b",
+     "note": "adverb after waw; the etnaḥta before it ends the list"
+    },
+    {
+     "id": "10:18.8",
+     "gloss": "spread out",
+     "sense": "Niph 1",
+     "note": "Niphal qatal, 'were scattered'; middle sense 'spread out'"
+    },
+    {
+     "id": "10:18.9",
+     "gloss": "the clans of",
+     "sense": "1",
+     "note": "construct plural"
+    },
+    {
+     "id": "10:18.10",
+     "gloss": "the Canaanites"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:18.1",
+      "10:18.2"
+     ],
+     "english": "the Arvadites",
+     "literal": "'and-[object-marker] the-Arvadite'"
+    },
+    {
+     "tokens": [
+      "10:18.3",
+      "10:18.4"
+     ],
+     "english": "the Zemarites",
+     "literal": "'and-[object-marker] the-Zemarite'"
+    },
+    {
+     "tokens": [
+      "10:18.5",
+      "10:18.6"
+     ],
+     "english": "and the Hamathites",
+     "literal": "'and-[object-marker] the-Hamathite'"
+    },
+    {
+     "tokens": [
+      "10:18.7"
+     ],
+     "english": "Afterward",
+     "literal": "'and-afterward'; the waw only joins the sentence to the list"
+    },
+    {
+     "tokens": [
+      "10:18.8",
+      "10:18.9",
+      "10:18.10"
+     ],
+     "english": "the clans of the Canaanites spread out",
+     "literal": "'were-scattered clans-of the-Canaanite'; verb first, subject after; English puts the subject first"
+    }
+   ],
+   "grammar": [
+    "The etnaḥta on הַחֲמָתִי ends the list of Canaan's sons; a new sentence begins with וְאַחַר.",
+    "נָפֹצוּ is Niphal qatal of פוץ, 'were scattered' (in the sense of spreading out); the subject מִשְׁפְּחוֹת follows the verb.",
+    "Word order here is verb, then subject."
+   ],
+   "note": "The 'afterward' is read, with Radak, as after the dispersion at Babel (the pelagah); Rashi does not specify the time, only that many clans spread from these peoples. The English does not decide the time.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:18:1",
+     "relation": "follows",
+     "summary": "Rashi: from these peoples many clans were scattered. The English takes the subject as the clans of the Canaanites spreading out."
+    },
+    {
+     "anchor": "radak:10:18:1",
+     "relation": "records",
+     "summary": "Radak: 'afterward' means after the division (the Babel dispersion)."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: וּבָתַר כֵּן אִתְבַּדָּרוּ זַרְעֲיַת כְּנַעֲנָאֵי, 'and after that the families of the Canaanites were dispersed'."
+   ]
+  },
+  {
+   "ref": "10:19",
+   "english": "The border of the Canaanites ran from Sidon toward Gerar, as far as Gaza; toward Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.",
+   "literal": "and-was border-of the-Canaanite from-Sidon as-you-come Gerar-ward as-far-as Gaza as-you-come Sodom-ward and-Gomorrah and-Admah and-Zeboiim as-far-as Lasha",
+   "tokens": [
+    {
+     "id": "10:19.1",
+     "gloss": "and was",
+     "sense": "Qal I.2",
+     "note": "wayyiqtol of היה; 'was'"
+    },
+    {
+     "id": "10:19.2",
+     "gloss": "the border of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "10:19.3",
+     "gloss": "the Canaanites"
+    },
+    {
+     "id": "10:19.4",
+     "gloss": "from Sidon"
+    },
+    {
+     "id": "10:19.5",
+     "gloss": "toward (lit. as you come to)",
+     "sense": "Qal 2",
+     "note": "infinitive construct with 2nd person masculine singular suffix, 'your coming'"
+    },
+    {
+     "id": "10:19.6",
+     "gloss": "Gerar",
+     "note": "directional he: 'to Gerar'"
+    },
+    {
+     "id": "10:19.7",
+     "gloss": "as far as",
+     "sense": "II.1"
+    },
+    {
+     "id": "10:19.8",
+     "gloss": "Gaza"
+    },
+    {
+     "id": "10:19.9",
+     "gloss": "toward (lit. as you come to)",
+     "sense": "Qal 2",
+     "note": "infinitive construct with suffix, 'your coming'"
+    },
+    {
+     "id": "10:19.10",
+     "gloss": "Sodom",
+     "note": "directional he: 'to Sodom'"
+    },
+    {
+     "id": "10:19.11",
+     "gloss": "and Gomorrah"
+    },
+    {
+     "id": "10:19.12",
+     "gloss": "and Admah"
+    },
+    {
+     "id": "10:19.13",
+     "gloss": "and Zeboiim"
+    },
+    {
+     "id": "10:19.14",
+     "gloss": "as far as",
+     "sense": "II.1"
+    },
+    {
+     "id": "10:19.15",
+     "gloss": "Lasha"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:19.1",
+      "10:19.2",
+      "10:19.3"
+     ],
+     "english": "The border of the Canaanites ran",
+     "literal": "'and-was border-of the-Canaanite'; the border 'was' from Sidon to ..."
+    },
+    {
+     "tokens": [
+      "10:19.4"
+     ],
+     "english": "from Sidon",
+     "literal": "'from-Sidon'"
+    },
+    {
+     "tokens": [
+      "10:19.5",
+      "10:19.6"
+     ],
+     "english": "toward Gerar",
+     "literal": "'as-you-come Gerar-ward'; the idiom, read with Ibn Ezra as 'to Gerar'"
+    },
+    {
+     "tokens": [
+      "10:19.7",
+      "10:19.8"
+     ],
+     "english": "as far as Gaza",
+     "literal": "'as-far-as Gaza'"
+    },
+    {
+     "tokens": [
+      "10:19.9",
+      "10:19.10"
+     ],
+     "english": "toward Sodom",
+     "literal": "'as-you-come Sodom-ward'"
+    },
+    {
+     "tokens": [
+      "10:19.11"
+     ],
+     "english": "Gomorrah",
+     "literal": "'and-Gomorrah'"
+    },
+    {
+     "tokens": [
+      "10:19.12"
+     ],
+     "english": "Admah",
+     "literal": "'and-Admah'"
+    },
+    {
+     "tokens": [
+      "10:19.13"
+     ],
+     "english": "and Zeboiim",
+     "literal": "'and-Zeboiim'"
+    },
+    {
+     "tokens": [
+      "10:19.14",
+      "10:19.15"
+     ],
+     "english": "as far as Lasha",
+     "literal": "'as-far-as Lasha'"
+    }
+   ],
+   "grammar": [
+    "בֹּאֲכָה is an infinitive construct of בוא with a 2nd person suffix, 'your coming'; it works as an idiom 'in the direction of'.",
+    "The directional he on גְרָרָה and סְדֹמָה means 'to Gerar', 'to Sodom'.",
+    "The gershayim and zaqef qaton mark the main divisions: Sidon, then Gaza, then the Sodom group and Lasha.",
+    "Sodom, Gomorrah, Admah and Zeboiim are listed with waw between the last three."
+   ],
+   "note": "בֹּאֲכָה is read with Ibn Ezra as 'toward' (אל גרר); Rashi's alternative, a speaker telling a friend that the border reaches 'until you come to' a given place, is recorded. The English 'toward' fits both. The border was drawn on the line given, going from Sidon in the north to Lasha; the sequence of places is not further identified here.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:19:1",
+     "relation": "follows",
+     "summary": "Rashi: גְּבוּל means the end of his land; every גְּבוּל means end and edge. The English 'border' follows this."
+    },
+    {
+     "anchor": "rashi:10:19:2",
+     "relation": "records",
+     "summary": "Rashi: בֹּאֲכָה is a noun in his view, and to him it is like a man telling a friend that the border runs until you come to such a place. The English uses 'toward', which does not contradict it."
+    },
+    {
+     "anchor": "ibn-ezra:10:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בֹּאֲכָה גְרָרָה means 'to Gerar'. The English 'toward Gerar' follows."
+    },
+    {
+     "anchor": "radak:10:19:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the passage shows that God intended the Canaanites to settle the land until their end, for Israel's sake. This is theological, not about the words."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: וַהֲוָה תְּחוּם כְּנַעֲנָאֵי מִצִּידוֹן מָטֵי לִגְרָר עַד עַזָּה, 'reaching to Gerar'.",
+    "Lasha is not identified with any known place in the pack."
+   ]
+  },
+  {
+   "ref": "10:20",
+   "english": "These are the sons of Ham, by their clans, by their languages, in their lands, in their nations.",
+   "literal": "these sons-of Ham to-their-clans to-their-tongues in-their-lands in-their-nations",
+   "tokens": [
+    {
+     "id": "10:20.1",
+     "gloss": "these",
+     "sense": "b"
+    },
+    {
+     "id": "10:20.2",
+     "gloss": "sons of",
+     "sense": "1",
+     "note": "construct plural"
+    },
+    {
+     "id": "10:20.3",
+     "gloss": "Ham",
+     "sense": "1"
+    },
+    {
+     "id": "10:20.4",
+     "gloss": "by their clans",
+     "sense": "1",
+     "note": "lamed of reference, 'according to'"
+    },
+    {
+     "id": "10:20.5",
+     "gloss": "by their languages",
+     "sense": "2",
+     "note": "'tongues' used for 'languages'"
+    },
+    {
+     "id": "10:20.6",
+     "gloss": "in their lands",
+     "sense": "5",
+     "note": "plural with suffix"
+    },
+    {
+     "id": "10:20.7",
+     "gloss": "in their nations"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "10:20.1",
+      "10:20.2",
+      "10:20.3"
+     ],
+     "english": "These are the sons of Ham",
+     "literal": "'these sons-of Ham'; nominal clause"
+    },
+    {
+     "tokens": [
+      "10:20.4"
+     ],
+     "english": "by their clans",
+     "literal": "'to-their-clans'"
+    },
+    {
+     "tokens": [
+      "10:20.5"
+     ],
+     "english": "by their languages",
+     "literal": "'to-their-tongues'"
+    },
+    {
+     "tokens": [
+      "10:20.6"
+     ],
+     "english": "in their lands",
+     "literal": "'in-their-lands'"
+    },
+    {
+     "tokens": [
+      "10:20.7"
+     ],
+     "english": "in their nations",
+     "literal": "'in-their-nations'"
+    }
+   ],
+   "grammar": [
+    "A nominal clause: אֵלֶּה is the subject, בְנֵי־חָם the predicate.",
+    "The four phrases with ל and ב give the divisions of Ham's descendants.",
+    "The paragraph mark (ס) closes the section on the sons of Ham."
+   ],
+   "note": "The prepositions ל and ב are rendered 'by' and 'in' for a smooth English line.",
+   "commentary": [
+    {
+     "anchor": "rashi:10:20:1",
+     "relation": "follows",
+     "summary": "Rashi: though they were divided into languages and lands, all of them are sons of Ham."
+    },
+    {
+     "anchor": "ibn-ezra:10:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the same formula is said of the sons of Japheth and the sons of Shem."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: אִלֵּין בְּנֵי חָם לְזַרְעֲיָתְהוֹן לְלִישָׁנְהוֹן בְּאַרְעָתְהוֹן בְּעַמְמֵיהוֹן."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "unit": "bereshit-04",
+ "model": "opus",
+ "summary": "The English of all four verses is sound and follows Rashi and Ibn Ezra on the plain sense. The faults are in the analysis: נֶפֶשׁ (absolute) and עוֹף (absolute) are glossed and described as construct forms against the pack's parse; גָּדוֹל and פָּרָה carry senses that do not fit (a noun sense, and a Hiphil sense for a Qal form); וַיְהִי in 1:23 is given the narrative-formula sense. Ibn Ezra's comment on 1:20 is misreported (the Gaon reads עַל פְּנֵי as עִם פְּנֵי, and the verse is cited as evidence for the meaning of רָקִיעַ), the 1:21 apparatus misidentifies the samekh reading of הָרֹמֶשֶׂת, and one accent note in 1:21 is wrong.",
+ "patches": [
+  {
+   "ref": "1:20",
+   "path": "token:1:20.5.gloss",
+   "value": "swarms of",
+   "severity": "style",
+   "reason": "A single gloss, matching the English line; the slash alternative adds nothing."
+  },
+  {
+   "ref": "1:20",
+   "path": "token:1:20.6.gloss",
+   "value": "creature",
+   "severity": "error",
+   "reason": "נֶפֶשׁ is parsed absolute, followed by the adjective חַיָּה; it is not 'creature of'."
+  },
+  {
+   "ref": "1:20",
+   "path": "token:1:20.6.note",
+   "value": "absolute state, modified by the feminine adjective חַיָּה (נֶפֶשׁ is feminine): 'a living being'; the whole phrase נֶפֶשׁ חַיָּה stands after the construct שֶׁרֶץ",
+   "severity": "error",
+   "reason": "The note called this a construct-like phrase; it is noun plus attributive adjective."
+  },
+  {
+   "ref": "1:20",
+   "path": "phrases",
+   "value": [
+    {"tokens": ["1:20.1", "1:20.2"], "english": "And God said", "literal": "'and-said God'"},
+    {"tokens": ["1:20.3", "1:20.4"], "english": "Let the waters swarm", "literal": "'swarm the-waters'; Ibn Ezra: the verb takes an object"},
+    {"tokens": ["1:20.5", "1:20.6", "1:20.7"], "english": "with swarms of living creatures", "literal": "'swarm-of creature living'; the construct noun is the cognate object of the verb; Rashi: שֶׁרֶץ is any living thing that is low to the ground"},
+    {"tokens": ["1:20.8", "1:20.9"], "english": "and let birds fly", "literal": "'and-bird fly-about'; collective singular"},
+    {"tokens": ["1:20.10", "1:20.11"], "english": "above the earth", "literal": "'above the-earth'"},
+    {"tokens": ["1:20.12", "1:20.13", "1:20.14", "1:20.15"], "english": "across the expanse of the sky", "literal": "'above face-of expanse-of the-heavens'; Ibn Ezra cites the verse as evidence for the sense of רָקִיעַ; the Gaon: עַל פְּנֵי is 'in front of', the underside of the heavens"}
+   ],
+   "severity": "error",
+   "reason": "The third phrase called שֶׁרֶץ a noun 'in apposition', contradicting the construct parse and the grammar note; the last phrase's reason misstated Ibn Ezra. The English fragments are unchanged."
+  },
+  {
+   "ref": "1:20",
+   "path": "commentary:ibn-ezra:1:20:1.summary",
+   "value": "Ibn Ezra: יִשְׁרְצוּ is a transitive verb (פועל יוצא), like 'and the Nile shall swarm frogs' (Exodus 7:28); its sense is 'תולדות עם הגבהה', offspring with raising up. The words 'the birds shall fly on the face of the expanse' are evidence for what רָקִיעַ means. The Gaon said that עַל פְּנֵי means עִם פְּנֵי, 'in front of', so the 'face' of the heavens is their lower side; the doubled pe of יְעוֹפֵף is like the nun of יְכוֹנֵן (Isaiah 62:7).",
+   "severity": "error",
+   "reason": "The summary said the Gaon 'takes פני with the following noun'; he says עַל פְּנֵי is עִם פְּנֵי. It also missed that Ibn Ezra cites the verse as a witness (לעֵד) to the meaning of רקיע, and that the comparison with יכונן concerns the doubled third radical (the polel)."
+  },
+  {
+   "ref": "1:20",
+   "path": "apparatus",
+   "value": [
+    "The Gaon (cited by Ibn Ezra): עַל פְּנֵי means עִם פְּנֵי, 'in front of', so the 'face' of the heavens is their underside and the birds fly beneath it; the English 'across' keeps the plain preposition without deciding this."
+   ],
+   "severity": "error",
+   "reason": "The apparatus gave the Gaon's reading as 'on the face of'; his gloss is עִם פְּנֵי."
+  },
+  {
+   "ref": "1:21",
+   "path": "literal",
+   "value": "and-created God [object-marker] the-sea-monsters the-great and [object-marker] every-of creature the-living the-moving which swarmed the-waters to-kinds-their and [object-marker] every-of bird wing to-kind-its and-saw God that good",
+   "severity": "error",
+   "reason": "נֶפֶשׁ and עוֹף are parsed absolute, not construct: 'creature', 'bird', not 'creature-of', 'bird-of'."
+  },
+  {
+   "ref": "1:21",
+   "path": "token:1:21.5.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 10 of גָּדוֹל is 'greatness' (the noun use). Here הַגְּדֹלִים is an attributive adjective, 'great'. None of the senses the pack lists (4 loud, 9 do great things, 10 greatness) fits, so the sense is removed."
+  },
+  {
+   "ref": "1:21",
+   "path": "token:1:21.5.note",
+   "value": "adjective in agreement, with the article; none of the senses the pack lists for this entry (loud, do great things, greatness) is the plain 'great' of size, so no sense is cited",
+   "severity": "error",
+   "reason": "Records the removal of the sense."
+  },
+  {
+   "ref": "1:21",
+   "path": "token:1:21.8.gloss",
+   "value": "creature",
+   "severity": "error",
+   "reason": "נֶפֶשׁ is parsed absolute; it is not 'creature of'."
+  },
+  {
+   "ref": "1:21",
+   "path": "token:1:21.8.note",
+   "value": "absolute state; the following adjective הַחַיָּה has the article though נֶפֶשׁ has none, an unusual pattern. Rashi: 'that has life in it'",
+   "severity": "style",
+   "reason": "A learner needs the note on the article standing on the adjective alone."
+  },
+  {
+   "ref": "1:21",
+   "path": "token:1:21.17.gloss",
+   "value": "bird",
+   "severity": "error",
+   "reason": "עוֹף is parsed absolute, not construct."
+  },
+  {
+   "ref": "1:21",
+   "path": "token:1:21.17.note",
+   "value": "absolute state, collective: עוֹף כָּנָף is 'birds, wing', two nouns side by side, i.e. winged birds (the construct would have the same form)",
+   "severity": "error",
+   "reason": "The note said 'construct state', against the pack's parse."
+  },
+  {
+   "ref": "1:21",
+   "path": "phrases",
+   "value": [
+    {"tokens": ["1:21.1", "1:21.2", "1:21.3"], "english": "And God created", "literal": "'and-created God [object marker]'"},
+    {"tokens": ["1:21.4", "1:21.5"], "english": "the great sea creatures", "literal": "'the-sea-monsters the-great'; Rashi: great fish of the sea"},
+    {"tokens": ["1:21.6", "1:21.7", "1:21.8", "1:21.9"], "english": "and every living creature", "literal": "'and-[marker] every-of creature the-living'"},
+    {"tokens": ["1:21.10"], "english": "that moves", "literal": "'the-moving' (feminine participle)"},
+    {"tokens": ["1:21.11", "1:21.12", "1:21.13"], "english": "with which the waters swarmed", "literal": "'which swarmed the-waters'; the waters are the subject, the creatures what they swarmed with"},
+    {"tokens": ["1:21.14"], "english": "according to their kinds", "literal": "'to-kinds-their'"},
+    {"tokens": ["1:21.15", "1:21.16", "1:21.17", "1:21.18"], "english": "and every winged bird", "literal": "'and-[marker] every-of bird wing'; two nouns side by side"},
+    {"tokens": ["1:21.19"], "english": "according to its kind", "literal": "'to-kind-its'"},
+    {"tokens": ["1:21.20", "1:21.21"], "english": "And God saw", "literal": "'and-saw God'"},
+    {"tokens": ["1:21.22", "1:21.23"], "english": "that it was good", "literal": "'that good'"}
+   ],
+   "severity": "error",
+   "reason": "The literal reasons gave נֶפֶשׁ and עוֹף as construct forms; the English fragments are unchanged."
+  },
+  {
+   "ref": "1:21",
+   "path": "grammar",
+   "value": [
+    "The verse opens with בָּרָא, used only of God. The great sea creatures are named first, then all living things, then birds.",
+    "הָרֹמֶשֶׂת is a feminine singular participle agreeing with נֶפֶשׁ; Ibn Ezra glosses it as 'the going'.",
+    "אֲשֶׁר שָׁרְצוּ הַמַּיִם is a relative clause with no resumptive word: 'which the waters swarmed (with)'.",
+    "לְמִינֵהֶם (plural suffix) and לְמִינֵהוּ (singular suffix) divide creatures by kind; the birds are a single collective.",
+    "The etnaḥta on הַגְּדֹלִים divides the verse: the great sea creatures, then everything else. In the second half a paseq (׀) follows הַחַיָּה, the disjunctive pazer on הָרֹמֶשֶׂת sets 'every living creature that moves' off from the relative clause, and the geresh on הַמַּיִם closes that clause before לְמִינֵהֶם."
+   ],
+   "severity": "error",
+   "reason": "The accent note put the etnaḥta 'after' הַגְּדֹלִים (it is on it) and said geresh and qadma mark the clause as a unit; the geresh is disjunctive and ends the clause."
+  },
+  {
+   "ref": "1:21",
+   "path": "apparatus",
+   "value": [
+    "Some (cited by Ibn Ezra) take the shin of הָרֹמֶשֶׂת to stand for a samekh, which would give רָמַס, 'tread, trample'; the English 'moves' follows Ibn Ezra's own gloss הוֹלֶכֶת, 'going'."
+   ],
+   "severity": "error",
+   "reason": "A samekh for the shin gives רמס, 'trample', not 'creep' (which is רָמַשׂ itself, the word as written)."
+  },
+  {
+   "ref": "1:22",
+   "path": "token:1:22.5.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The pack parses פְּרוּ as Qal; the entry lists only Hiphil senses, which belong to a different stem and cannot be cited for this form."
+  },
+  {
+   "ref": "1:22",
+   "path": "token:1:22.5.note",
+   "value": "Qal imperative of the lamed-he root פָּרָה; the lexicon lists only Hiphil senses for this entry, so no sense is cited",
+   "severity": "error",
+   "reason": "Records the removal of the sense."
+  },
+  {
+   "ref": "1:23",
+   "path": "token:1:23.1.sense",
+   "value": "Qal I.1.b",
+   "severity": "error",
+   "reason": "וַיְהִי עֶרֶב has its own subject: 'evening occurred'. Qal I.2.a.(1) is the narrative formula 'and it came to pass' that introduces a following clause."
+  },
+  {
+   "ref": "1:23",
+   "path": "token:1:23.3.sense",
+   "value": "Qal I.1.b",
+   "severity": "error",
+   "reason": "As for 1:23.1: וַיְהִי בֹקֶר is 'morning occurred', not the narrative formula."
+  }
+ ],
+ "verdicts": [
+  {"anchor": "rashi:1:20:1", "verdict": "consistent", "comment": "'living creatures': beings with life in them."},
+  {"anchor": "rashi:1:20:2", "verdict": "consistent", "comment": "'swarms' covers Rashi's low-moving creatures, fish included."},
+  {"anchor": "ibn-ezra:1:20:1", "verdict": "consistent", "comment": "The waters produce swarms (the verb with its cognate object); 'across the expanse' leaves the Gaon's 'in front of' open."},
+  {"anchor": "rashi:1:21:1", "verdict": "consistent", "comment": "'great sea creatures' is Rashi's plain sense, great fish of the sea."},
+  {"anchor": "rashi:1:21:2", "verdict": "consistent"},
+  {"anchor": "ibn-ezra:1:21:1", "verdict": "consistent", "comment": "'that moves' fits Ibn Ezra's gloss 'going'."},
+  {"anchor": "rashi:1:22:1", "verdict": "not-applicable", "comment": "Why they were blessed; it does not bear on the English."},
+  {"anchor": "rashi:1:22:2", "verdict": "consistent"},
+  {"anchor": "rashi:1:22:3", "verdict": "consistent"},
+  {"anchor": "ibn-ezra:1:22:1", "verdict": "contradicts", "comment": "Ibn Ezra reads the imperatives as futures ('you will be fruitful'). The English stands: Rashi glosses פְּרוּ as an imperative ('עֲשׂוּ פֵּרוֹת'), so the two differ and the translator may choose one and record the other, as he does; and an English imperative inside a blessing already carries the sense of a grant."}
+ ]
+}

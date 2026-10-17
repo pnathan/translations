@@ -1,0 +1,1253 @@
+{
+ "unit": "lekh-lekha-06",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "14:1",
+   "english": "It happened in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim,",
+   "literal": "and-it-happened in-days-of Amraphel king-of Shinar Arioch king-of Ellasar Chedorlaomer king-of Elam and-Tidal king-of Goiim",
+   "tokens": [
+    {
+     "id": "14:1.1",
+     "gloss": "and it happened",
+     "note": "wayyiqtol of הָיָה opening a narrative; the main clause is delayed to verse 2"
+    },
+    {
+     "id": "14:1.2",
+     "gloss": "in the days of",
+     "note": "construct plural of יוֹם"
+    },
+    {
+     "id": "14:1.3",
+     "gloss": "Amraphel"
+    },
+    {
+     "id": "14:1.4",
+     "gloss": "king of",
+     "note": "construct state"
+    },
+    {
+     "id": "14:1.5",
+     "gloss": "Shinar"
+    },
+    {
+     "id": "14:1.6",
+     "gloss": "Arioch"
+    },
+    {
+     "id": "14:1.7",
+     "gloss": "king of"
+    },
+    {
+     "id": "14:1.8",
+     "gloss": "Ellasar"
+    },
+    {
+     "id": "14:1.9",
+     "gloss": "Chedorlaomer"
+    },
+    {
+     "id": "14:1.10",
+     "gloss": "king of"
+    },
+    {
+     "id": "14:1.11",
+     "gloss": "Elam"
+    },
+    {
+     "id": "14:1.12",
+     "gloss": "and Tidal"
+    },
+    {
+     "id": "14:1.13",
+     "gloss": "king of"
+    },
+    {
+     "id": "14:1.14",
+     "gloss": "Goiim",
+     "note": "proper name; see note"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:1.1",
+      "14:1.2"
+     ],
+     "english": "It happened in the days of",
+     "literal": "'and-it-happened in-days-of'; the time clause that introduces the war"
+    },
+    {
+     "tokens": [
+      "14:1.3",
+      "14:1.4",
+      "14:1.5"
+     ],
+     "english": "Amraphel king of Shinar",
+     "literal": "'Amraphel king-of Shinar'"
+    },
+    {
+     "tokens": [
+      "14:1.6",
+      "14:1.7",
+      "14:1.8"
+     ],
+     "english": "Arioch king of Ellasar",
+     "literal": "'Arioch king-of Ellasar'"
+    },
+    {
+     "tokens": [
+      "14:1.9",
+      "14:1.10",
+      "14:1.11"
+     ],
+     "english": "Chedorlaomer king of Elam",
+     "literal": "'Chedorlaomer king-of Elam'"
+    },
+    {
+     "tokens": [
+      "14:1.12",
+      "14:1.13",
+      "14:1.14"
+     ],
+     "english": "and Tidal king of Goiim",
+     "literal": "'and-Tidal king-of Goiim'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי with a time phrase begins a long sentence whose subject-verb comes in verse 2 (עָשׂוּ מִלְחָמָה).",
+    "Each king is joined to his land by a construct מֶלֶךְ־; the etnaḥta on אֶלָּסָר and zaqef on שִׁנְעָר/עֵילָם group the four kings in pairs.",
+    "The list is asyndetic until the last member, which takes וְ."
+   ],
+   "note": "גּוֹיִם is kept as a place name, 'Goiim', following Rashi and the first reading of Ibn Ezra; the reading 'king of nations' is recorded. The names are transliterated without comment on their meaning.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:1:1",
+     "relation": "not-applicable",
+     "summary": "Rashi, after Genesis Rabbah, identifies Amraphel with Nimrod, who said to Abraham 'fall (פֹּל) into the fiery furnace'; a homiletic identification that does not bear on the plain translation."
+    },
+    {
+     "anchor": "rashi:14:1:2",
+     "relation": "follows",
+     "summary": "Rashi: there is a place named Goiim because people gathered there from many nations and made a man named Tidal king over them. The English takes Goiim as a place name."
+    },
+    {
+     "anchor": "ibn-ezra:14:1:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: Goiim is the name of a province like Elam, or else 'king of nations' whose names the text does not list, being others than the Shinarites and their allies. The first reading is followed; the second is kept as an alternative."
+    }
+   ],
+   "apparatus": [
+    "The word גּוֹיִם can also be read as the common noun 'nations' (Ibn Ezra's second reading)."
+   ]
+  },
+  {
+   "ref": "14:2",
+   "english": "they made war on Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela, which is Zoar.",
+   "literal": "they-made war with-Bera king-of Sodom and-with-Birsha king-of Gomorrah Shinab king-of Admah and-Shemeber king-of Zeboiim and-king-of Bela it Zoar",
+   "tokens": [
+    {
+     "id": "14:2.1",
+     "gloss": "they made",
+     "note": "qatal, 3rd plural; main verb of the sentence begun in verse 1"
+    },
+    {
+     "id": "14:2.2",
+     "gloss": "war"
+    },
+    {
+     "id": "14:2.3",
+     "gloss": "with, against",
+     "note": "אֵת as preposition 'with'; 'make war with' means 'make war against'"
+    },
+    {
+     "id": "14:2.4",
+     "gloss": "Bera"
+    },
+    {
+     "id": "14:2.5",
+     "gloss": "king of"
+    },
+    {
+     "id": "14:2.6",
+     "gloss": "Sodom"
+    },
+    {
+     "id": "14:2.7",
+     "gloss": "and against",
+     "note": "conjunction with the preposition"
+    },
+    {
+     "id": "14:2.8",
+     "gloss": "Birsha"
+    },
+    {
+     "id": "14:2.9",
+     "gloss": "king of"
+    },
+    {
+     "id": "14:2.10",
+     "gloss": "Gomorrah"
+    },
+    {
+     "id": "14:2.11",
+     "gloss": "Shinab"
+    },
+    {
+     "id": "14:2.12",
+     "gloss": "king of"
+    },
+    {
+     "id": "14:2.13",
+     "gloss": "Admah"
+    },
+    {
+     "id": "14:2.14",
+     "gloss": "and Shemeber"
+    },
+    {
+     "id": "14:2.15",
+     "gloss": "king of"
+    },
+    {
+     "id": "14:2.16",
+     "gloss": "Zeboiim",
+     "note": "ketiv צביים, qere צְבוֹיִים; see apparatus"
+    },
+    {
+     "id": "14:2.17",
+     "gloss": "and the king of",
+     "note": "construct; the name of this king is not given"
+    },
+    {
+     "id": "14:2.18",
+     "gloss": "Bela"
+    },
+    {
+     "id": "14:2.19",
+     "gloss": "it, which",
+     "note": "feminine pronoun, as the city is feminine (also in 14:8)"
+    },
+    {
+     "id": "14:2.20",
+     "gloss": "Zoar"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:2.1",
+      "14:2.2"
+     ],
+     "english": "they made war",
+     "literal": "'they-made war'"
+    },
+    {
+     "tokens": [
+      "14:2.3",
+      "14:2.4",
+      "14:2.5",
+      "14:2.6"
+     ],
+     "english": "on Bera king of Sodom",
+     "literal": "'against Bera king-of Sodom'"
+    },
+    {
+     "tokens": [
+      "14:2.7",
+      "14:2.8",
+      "14:2.9",
+      "14:2.10"
+     ],
+     "english": "Birsha king of Gomorrah",
+     "literal": "'and-against Birsha king-of Gomorrah'"
+    },
+    {
+     "tokens": [
+      "14:2.11",
+      "14:2.12",
+      "14:2.13"
+     ],
+     "english": "Shinab king of Admah",
+     "literal": "'Shinab king-of Admah', with no conjunction"
+    },
+    {
+     "tokens": [
+      "14:2.14",
+      "14:2.15",
+      "14:2.16"
+     ],
+     "english": "Shemeber king of Zeboiim",
+     "literal": "'and-Shemeber king-of Zeboiim'"
+    },
+    {
+     "tokens": [
+      "14:2.17",
+      "14:2.18",
+      "14:2.19",
+      "14:2.20"
+     ],
+     "english": "and the king of Bela, which is Zoar",
+     "literal": "'and-king-of Bela, it Zoar'; the gloss on the city's other name"
+    }
+   ],
+   "grammar": [
+    "עָשׂוּ מִלְחָמָה אֶת־ is the idiom 'make war with/against' (אֵת as 'with').",
+    "The list of five kings is joined with וְ only partly: Bera and Birsha are linked, Shinab and Shemeber stand with וְ, and the last king is added with וּמֶלֶךְ.",
+    "The accents (pashta twice on בֶּרַע and שֶׁמְאֵבֶר) mark the names that Rashi reads as moral epithets.",
+    "הִיא־צֹעַר is a gloss giving the later name of Bela."
+   ],
+   "note": "The names are transliterated. Rashi's moral readings of the names (Bera 'evil', Birsha 'wickedness', Shinab 'hater of his father', Shemeber 'he set a wing') are homiletic and are not put into the English.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:2:1",
+     "relation": "not-applicable",
+     "summary": "Rashi on בֶּרַע: 'evil to Heaven and evil to people'; a homiletic play on רַע."
+    },
+    {
+     "anchor": "rashi:14:2:2",
+     "relation": "not-applicable",
+     "summary": "Rashi on בִּרְשַׁע: 'one who rose in wickedness' (רֶשַׁע); homiletic."
+    },
+    {
+     "anchor": "rashi:14:2:3",
+     "relation": "not-applicable",
+     "summary": "Rashi on שִׁנְאָב: 'hater of his Father in heaven'; homiletic."
+    },
+    {
+     "anchor": "rashi:14:2:4",
+     "relation": "not-applicable",
+     "summary": "Rashi on שֶׁמְאֵבֶר: 'he put a wing to fly, to leap and rebel against the Holy One'; homiletic."
+    },
+    {
+     "anchor": "rashi:14:2:5",
+     "relation": "follows",
+     "summary": "Rashi on בֶּלַע: 'the name of the city'. The English takes Bela as the city's name, equated with Zoar."
+    }
+   ],
+   "apparatus": [
+    "14:2.16 vowels: WLC reads צְבוֹיִים; the base text has צְבוֹיִם.",
+    "14:2.16 ketiv-qere: the ketiv reads צביים, the qere gives the vowels of צְבוֹיִים; the English is the same, Zeboiim."
+   ]
+  },
+  {
+   "ref": "14:3",
+   "english": "All these joined forces in the Valley of Siddim, which is the Salt Sea.",
+   "literal": "all-of these they-joined to valley-of the-Siddim it sea-of the-salt",
+   "tokens": [
+    {
+     "id": "14:3.1",
+     "gloss": "all of",
+     "note": "construct of כֹּל"
+    },
+    {
+     "id": "14:3.2",
+     "gloss": "these"
+    },
+    {
+     "id": "14:3.3",
+     "gloss": "they joined",
+     "note": "qal perfect of חָבַר, 'be joined', here 'allied'"
+    },
+    {
+     "id": "14:3.4",
+     "gloss": "to, in",
+     "note": "אֶל with a verb of joining: 'to/into' the place"
+    },
+    {
+     "id": "14:3.5",
+     "gloss": "valley of",
+     "note": "construct state of עֵמֶק"
+    },
+    {
+     "id": "14:3.6",
+     "gloss": "the Siddim",
+     "note": "with the article: 'the Siddim', a proper name"
+    },
+    {
+     "id": "14:3.7",
+     "gloss": "it, which",
+     "note": "pronoun used as copula: 'which is'"
+    },
+    {
+     "id": "14:3.8",
+     "gloss": "sea of",
+     "note": "construct of יָם"
+    },
+    {
+     "id": "14:3.9",
+     "gloss": "the salt"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:3.1",
+      "14:3.2",
+      "14:3.3"
+     ],
+     "english": "All these joined forces",
+     "literal": "'all-of these they-joined'"
+    },
+    {
+     "tokens": [
+      "14:3.4",
+      "14:3.5",
+      "14:3.6"
+     ],
+     "english": "in the Valley of Siddim",
+     "literal": "'to valley-of the-Siddim'; אֶל here means 'at'/'in' the gathering point"
+    },
+    {
+     "tokens": [
+      "14:3.7",
+      "14:3.8",
+      "14:3.9"
+     ],
+     "english": "which is the Salt Sea",
+     "literal": "'it sea-of the-salt'; a gloss giving the later name"
+    }
+   ],
+   "grammar": [
+    "כָּל־אֵלֶּה is the subject placed first; חָבְרוּ is 3rd plural perfect, with the zaqef after it dividing verb from place.",
+    "אֶל־עֵמֶק with a verb of coming together: 'to' the valley, as a gathering point.",
+    "הוּא יָם הַמֶּלַח is a pronoun-copula gloss: 'it (is) the Salt Sea', naming the place by its later name.",
+    "עֵמֶק is in the construct state: 'the valley of (the Siddim)'."
+   ],
+   "note": "אֶל־ is rendered 'in' for English idiom. The name of the valley is kept as 'Siddim'; Rashi takes it as 'fields' and Ibn Ezra relates it to 'plaster', both recorded.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:3:1",
+     "relation": "follows",
+     "summary": "Rashi: the valley is so named because it had many fields (שָׂדוֹת). The English transliterates the name but takes it as a proper name derived from this."
+    },
+    {
+     "anchor": "rashi:14:3:2",
+     "relation": "follows",
+     "summary": "Rashi: 'afterward the sea drew into it and it became the Salt Sea'; the midrash says the rocks round it split and rivers flowed into it. The English gives 'which is the Salt Sea' as the later name."
+    },
+    {
+     "anchor": "ibn-ezra:14:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: חָבְרוּ is 'from the light (qal) stem', that is, 'joined', not the intensive."
+    },
+    {
+     "anchor": "ibn-ezra:14:3:2",
+     "relation": "records",
+     "summary": "Ibn Ezra relates הַשִּׂדִּים to שִׂיד 'plaster' (Deut 27:2) and to 'puts my feet in the stocks' (Job 13:27), like פַּת 'pieces'; an alternative etymology of the name, recorded."
+    },
+    {
+     "anchor": "ibn-ezra:14:3:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: עֵמֶק draws the next word with it (is a construct), like 'Not in your anger rebuke me'; so 'the valley of the Siddim' and the Salt Sea valley."
+    }
+   ]
+  },
+  {
+   "ref": "14:4",
+   "english": "For twelve years they served Chedorlaomer, and in the thirteenth year they rebelled.",
+   "literal": "twelve year they-served ACC-Chedorlaomer and-thirteen year they-rebelled",
+   "tokens": [
+    {
+     "id": "14:4.1",
+     "gloss": "two",
+     "note": "feminine dual of שְׁנַיִם, in the construct-like form שְׁתֵּים"
+    },
+    {
+     "id": "14:4.2",
+     "gloss": "ten",
+     "note": "feminine form agreeing with שָׁנָה"
+    },
+    {
+     "id": "14:4.3",
+     "gloss": "years",
+     "note": "singular שָׁנָה after a numeral: 'twelve year'"
+    },
+    {
+     "id": "14:4.4",
+     "gloss": "they served",
+     "note": "qal perfect"
+    },
+    {
+     "id": "14:4.5",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "14:4.6",
+     "gloss": "Chedorlaomer"
+    },
+    {
+     "id": "14:4.7",
+     "gloss": "and thirteen",
+     "note": "וּ before a syllable with sheva"
+    },
+    {
+     "id": "14:4.8",
+     "gloss": "ten"
+    },
+    {
+     "id": "14:4.9",
+     "gloss": "year"
+    },
+    {
+     "id": "14:4.10",
+     "gloss": "they rebelled",
+     "note": "qal perfect of מָרַד"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:4.1",
+      "14:4.2",
+      "14:4.3"
+     ],
+     "english": "For twelve years",
+     "literal": "'twelve year'; accusative of duration, with no preposition"
+    },
+    {
+     "tokens": [
+      "14:4.4"
+     ],
+     "english": "they served",
+     "literal": "'they-served'"
+    },
+    {
+     "tokens": [
+      "14:4.5"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "14:4.6"
+     ],
+     "english": "Chedorlaomer",
+     "literal": "'Chedorlaomer'"
+    },
+    {
+     "tokens": [
+      "14:4.7",
+      "14:4.8",
+      "14:4.9"
+     ],
+     "english": "and in the thirteenth year",
+     "literal": "'and-thirteen year'; the preposition is understood"
+    },
+    {
+     "tokens": [
+      "14:4.10"
+     ],
+     "english": "they rebelled",
+     "literal": "'they-rebelled'"
+    }
+   ],
+   "grammar": [
+    "The duration (שְׁתֵּים עֶשְׂרֵה שָׁנָה) stands first, an accusative of time, and is set against the second period.",
+    "Both verbs are perfect qatal with the same plural subject, the five kings of verse 2.",
+    "וּשְׁלֹשׁ־עֶשְׂרֵה שָׁנָה has no preposition; English supplies 'in', following Ibn Ezra."
+   ],
+   "note": "The cardinal numbers are written out in words. The preposition 'in' is added before the thirteenth year following Ibn Ezra.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:4:1",
+     "relation": "follows",
+     "summary": "Rashi: 'these five kings served Chedorlaomer'; the subject of עָבְדוּ is the five kings of verse 2."
+    },
+    {
+     "anchor": "ibn-ezra:14:4:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'in the thirteenth' is like 'for in six days the LORD made' (Exod 20:11), the preposition being implied; and the author of Seder Olam harmonizes the chronology."
+    }
+   ]
+  },
+  {
+   "ref": "14:5",
+   "english": "In the fourteenth year Chedorlaomer came, and the kings who were with him, and they struck the Rephaim at Ashteroth-karnaim, the Zuzim at Ham, and the Emim at Shaveh-kiriathaim.",
+   "literal": "and-in-four ten year came Chedorlaomer and-the-kings who with-him and-they-struck ACC-Rephaim in-Ashteroth Karnaim and-ACC-the-Zuzim in-Ham and-ACC the-Emim in-Shaveh Kiriathaim",
+   "tokens": [
+    {
+     "id": "14:5.1",
+     "gloss": "and in four",
+     "note": "וּ + בְּ + 'four'"
+    },
+    {
+     "id": "14:5.2",
+     "gloss": "ten"
+    },
+    {
+     "id": "14:5.3",
+     "gloss": "year"
+    },
+    {
+     "id": "14:5.4",
+     "gloss": "came",
+     "note": "qal perfect of בּוֹא, singular, agreeing with Chedorlaomer"
+    },
+    {
+     "id": "14:5.5",
+     "gloss": "Chedorlaomer"
+    },
+    {
+     "id": "14:5.6",
+     "gloss": "and the kings",
+     "note": "the singular verb is followed by the compound subject"
+    },
+    {
+     "id": "14:5.7",
+     "gloss": "who"
+    },
+    {
+     "id": "14:5.8",
+     "gloss": "with him",
+     "note": "אֵת with suffix"
+    },
+    {
+     "id": "14:5.9",
+     "gloss": "and they struck",
+     "note": "hifil wayyiqtol of נָכָה"
+    },
+    {
+     "id": "14:5.10",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "14:5.11",
+     "gloss": "the Rephaim"
+    },
+    {
+     "id": "14:5.12",
+     "gloss": "in Ashteroth",
+     "note": "first part of the place name"
+    },
+    {
+     "id": "14:5.13",
+     "gloss": "Karnaim",
+     "note": "second part of the place name"
+    },
+    {
+     "id": "14:5.14",
+     "gloss": "and -",
+     "note": "conjunction with the object marker"
+    },
+    {
+     "id": "14:5.15",
+     "gloss": "the Zuzim"
+    },
+    {
+     "id": "14:5.16",
+     "gloss": "in Ham"
+    },
+    {
+     "id": "14:5.17",
+     "gloss": "and -",
+     "note": "conjunction with the object marker"
+    },
+    {
+     "id": "14:5.18",
+     "gloss": "the Emim"
+    },
+    {
+     "id": "14:5.19",
+     "gloss": "in Shaveh",
+     "note": "first part of the place name"
+    },
+    {
+     "id": "14:5.20",
+     "gloss": "Kiriathaim",
+     "note": "second part of the place name"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:5.1",
+      "14:5.2",
+      "14:5.3"
+     ],
+     "english": "In the fourteenth year",
+     "literal": "'and-in-four-ten year'"
+    },
+    {
+     "tokens": [
+      "14:5.4",
+      "14:5.5"
+     ],
+     "english": "Chedorlaomer came",
+     "literal": "'came Chedorlaomer'; the verb is first and singular"
+    },
+    {
+     "tokens": [
+      "14:5.6",
+      "14:5.7",
+      "14:5.8"
+     ],
+     "english": "and the kings who were with him",
+     "literal": "'and-the-kings who with-him'"
+    },
+    {
+     "tokens": [
+      "14:5.9"
+     ],
+     "english": "and they struck",
+     "literal": "'and-they-struck'"
+    },
+    {
+     "tokens": [
+      "14:5.10",
+      "14:5.11"
+     ],
+     "english": "the Rephaim",
+     "literal": "'ACC Rephaim'"
+    },
+    {
+     "tokens": [
+      "14:5.12",
+      "14:5.13"
+     ],
+     "english": "at Ashteroth-karnaim",
+     "literal": "'in-Ashteroth Karnaim'"
+    },
+    {
+     "tokens": [
+      "14:5.14",
+      "14:5.15"
+     ],
+     "english": "the Zuzim",
+     "literal": "'and-ACC the-Zuzim'"
+    },
+    {
+     "tokens": [
+      "14:5.16"
+     ],
+     "english": "at Ham",
+     "literal": "'in-Ham'"
+    },
+    {
+     "tokens": [
+      "14:5.17",
+      "14:5.18"
+     ],
+     "english": "and the Emim",
+     "literal": "'and-ACC the-Emim'"
+    },
+    {
+     "tokens": [
+      "14:5.19",
+      "14:5.20"
+     ],
+     "english": "at Shaveh-kiriathaim",
+     "literal": "'in-Shaveh Kiriathaim'"
+    }
+   ],
+   "grammar": [
+    "בָּא is singular because Chedorlaomer is the chief actor; וְהַמְּלָכִים is added after him, then the plural wayyiqtol וַיַּכּוּ takes over.",
+    "Three peoples are struck at three places, each with אֵת + people and בְּ + place.",
+    "The zaqef on אִתּוֹ ends the account of who came, and the etnaḥta on בָּהָם ends the second pair.",
+    "הָרְפָאִים, הַזּוּזִים and הָאֵימִים are gentilic names of ancient peoples; הָאֵימִים also means 'terrors'."
+   ],
+   "note": "The ancient peoples are named by transliteration: Rephaim, Zuzim, Emim. The English 'In the fourteenth year' follows the Hebrew order; 'came' is singular because the sentence starts with Chedorlaomer as the leader.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:5:1",
+     "relation": "not-applicable",
+     "summary": "Rashi on the fourteenth year: 'for their rebelling'; comment on the cause, not on the words."
+    },
+    {
+     "anchor": "rashi:14:5:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: Chedorlaomer came first because he was the master of the affair, 'he entered into the thick of the beam'; a homiletic remark."
+    },
+    {
+     "anchor": "rashi:14:5:3",
+     "relation": "follows",
+     "summary": "Rashi on וְהַמְּלָכִים: 'these three kings' who were with him; the English has 'the kings who were with him'."
+    },
+    {
+     "anchor": "rashi:14:5:4",
+     "relation": "records",
+     "summary": "Rashi: הַזּוּזִים are the Zamzummim (זַמְזֻמִּים); an identification recorded, the English transliterates Zuzim."
+    },
+    {
+     "anchor": "ibn-ezra:14:5:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: everyone who saw the Rephaim would have his heart die and think of the Rephaim as dead; he derives the name from weakness/death. An etymology, recorded."
+    },
+    {
+     "anchor": "ibn-ezra:14:5:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: the Emim are so called because there is terror (אֵימָה) from them; an etymology, recorded."
+    }
+   ]
+  },
+  {
+   "ref": "14:6",
+   "english": "and the Horites in their mountain, Seir, as far as El-paran, which is by the wilderness.",
+   "literal": "and-ACC-the-Horite in-their-mountain Seir as-far-as terebinth-of Paran which on the-wilderness",
+   "tokens": [
+    {
+     "id": "14:6.1",
+     "gloss": "and -",
+     "note": "conjunction with object marker"
+    },
+    {
+     "id": "14:6.2",
+     "gloss": "the Horites",
+     "note": "gentilic singular as collective"
+    },
+    {
+     "id": "14:6.3",
+     "gloss": "in their mountain",
+     "note": "הַר with a plural-type suffix, בְּהַרְרָם"
+    },
+    {
+     "id": "14:6.4",
+     "gloss": "Seir"
+    },
+    {
+     "id": "14:6.5",
+     "gloss": "as far as",
+     "note": "עַד"
+    },
+    {
+     "id": "14:6.6",
+     "gloss": "El",
+     "note": "first part of the name; see note"
+    },
+    {
+     "id": "14:6.7",
+     "gloss": "Paran"
+    },
+    {
+     "id": "14:6.8",
+     "gloss": "which",
+     "note": "relative"
+    },
+    {
+     "id": "14:6.9",
+     "gloss": "by",
+     "note": "עַל in the sense 'beside'"
+    },
+    {
+     "id": "14:6.10",
+     "gloss": "the wilderness"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:6.1",
+      "14:6.2"
+     ],
+     "english": "and the Horites",
+     "literal": "'and-ACC the-Horite'"
+    },
+    {
+     "tokens": [
+      "14:6.3",
+      "14:6.4"
+     ],
+     "english": "in their mountain, Seir",
+     "literal": "'in-their-mountain Seir'"
+    },
+    {
+     "tokens": [
+      "14:6.5",
+      "14:6.6",
+      "14:6.7"
+     ],
+     "english": "as far as El-paran",
+     "literal": "'as-far-as El-Paran'"
+    },
+    {
+     "tokens": [
+      "14:6.8",
+      "14:6.9",
+      "14:6.10"
+     ],
+     "english": "which is by the wilderness",
+     "literal": "'which on the-wilderness'"
+    }
+   ],
+   "grammar": [
+    "הַחֹרִי is a singular gentilic with the article used as a collective, 'the Horite(s)'.",
+    "בְּהַרְרָם has a doubled resh; Rashi 'their mountain', Ibn Ezra a different reading (see commentary).",
+    "The yetiv on עַד and the zaqef on פָּארָן bound the geographical phrase.",
+    "עַל־הַמִּדְבָּר: 'on' the wilderness means 'beside' it."
+   ],
+   "note": "אֵיל פָּארָן is kept as the proper name El-paran; the lexicon gives 'terebinth of Paran', and Rashi argues that אֵיל is part of a name, not 'plain'. עַל rendered 'by' following Rashi.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:6:1",
+     "relation": "follows",
+     "summary": "Rashi on בְּהַרְרָם: 'in their mountain'; the English reads 'in their mountain'."
+    },
+    {
+     "anchor": "rashi:14:6:2",
+     "relation": "follows",
+     "summary": "Rashi: the Targum renders אֵיל as 'plain', but Rashi thinks אֵיל is not 'plain'; it is the name of the plain of Paran, as Elonei is that of Mamre and Kikkar of the Jordan. The English keeps El-paran as a name."
+    },
+    {
+     "anchor": "rashi:14:6:3",
+     "relation": "follows",
+     "summary": "Rashi: עַל הַמִּדְבָּר means 'beside the wilderness', like 'and beside him the tribe of Manasseh' (Num 2); the English has 'by the wilderness'."
+    },
+    {
+     "anchor": "ibn-ezra:14:6:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: בְּהַרְרָם is from the intensive stem, like בְּדַבְּרָם (Exod 7:7), meaning 'when they went up to Mount Seir'; recorded as an alternative to 'their mountain'."
+    }
+   ]
+  },
+  {
+   "ref": "14:7",
+   "english": "Then they turned back and came to En-mishpat, which is Kadesh, and struck all the territory of the Amalekites, and also the Amorites who lived in Hazazon-tamar.",
+   "literal": "and-they-returned and-they-came to Spring-of Judgment it Kadesh and-they-struck ACC-all-of field-of the-Amalekite and-also ACC-the-Amorite the-dwelling in-Hazazon Tamar",
+   "tokens": [
+    {
+     "id": "14:7.1",
+     "gloss": "and they turned back",
+     "sense": "Qal 2",
+     "note": "wayyiqtol of שׁוּב; here 'turned back', that is, went back round"
+    },
+    {
+     "id": "14:7.2",
+     "gloss": "and they came",
+     "note": "wayyiqtol of בּוֹא"
+    },
+    {
+     "id": "14:7.3",
+     "gloss": "to",
+     "note": "אֶל"
+    },
+    {
+     "id": "14:7.4",
+     "gloss": "En",
+     "note": "'spring'; first part of the name"
+    },
+    {
+     "id": "14:7.5",
+     "gloss": "Mishpat",
+     "note": "'judgment'; second part of the name"
+    },
+    {
+     "id": "14:7.6",
+     "gloss": "it, which",
+     "note": "feminine pronoun, as for the place"
+    },
+    {
+     "id": "14:7.7",
+     "gloss": "Kadesh"
+    },
+    {
+     "id": "14:7.8",
+     "gloss": "and they struck",
+     "note": "hifil wayyiqtol"
+    },
+    {
+     "id": "14:7.9",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "14:7.10",
+     "gloss": "all of",
+     "note": "construct"
+    },
+    {
+     "id": "14:7.11",
+     "gloss": "the field of",
+     "note": "the open country of; construct of שָׂדֶה"
+    },
+    {
+     "id": "14:7.12",
+     "gloss": "the Amalekites",
+     "note": "gentilic singular as collective"
+    },
+    {
+     "id": "14:7.13",
+     "gloss": "and also",
+     "note": "וְגַם"
+    },
+    {
+     "id": "14:7.14",
+     "gloss": "-",
+     "note": "direct object marker"
+    },
+    {
+     "id": "14:7.15",
+     "gloss": "the Amorites",
+     "note": "gentilic singular as collective"
+    },
+    {
+     "id": "14:7.16",
+     "gloss": "the one living",
+     "note": "active participle with article, 'who lived'"
+    },
+    {
+     "id": "14:7.17",
+     "gloss": "in Hazazon",
+     "note": "first part of the name"
+    },
+    {
+     "id": "14:7.18",
+     "gloss": "Tamar",
+     "note": "second part of the name"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:7.1",
+      "14:7.2"
+     ],
+     "english": "Then they turned back and came",
+     "literal": "'and-they-returned and-they-came'"
+    },
+    {
+     "tokens": [
+      "14:7.3",
+      "14:7.4",
+      "14:7.5",
+      "14:7.6",
+      "14:7.7"
+     ],
+     "english": "to En-mishpat, which is Kadesh",
+     "literal": "'to Spring-of-Judgment, it Kadesh'"
+    },
+    {
+     "tokens": [
+      "14:7.8"
+     ],
+     "english": "and struck",
+     "literal": "'and-they-struck'"
+    },
+    {
+     "tokens": [
+      "14:7.9",
+      "14:7.10",
+      "14:7.11",
+      "14:7.12"
+     ],
+     "english": "all the territory of the Amalekites",
+     "literal": "'ACC all-of field-of the-Amalekite'"
+    },
+    {
+     "tokens": [
+      "14:7.13",
+      "14:7.14",
+      "14:7.15"
+     ],
+     "english": "and also the Amorites",
+     "literal": "'and-also ACC the-Amorite'"
+    },
+    {
+     "tokens": [
+      "14:7.16",
+      "14:7.17",
+      "14:7.18"
+     ],
+     "english": "who lived in Hazazon-tamar",
+     "literal": "'the-dwelling in-Hazazon Tamar'"
+    }
+   ],
+   "grammar": [
+    "Two wayyiqtols, וַיָּשֻׁבוּ and וַיָּבֹאוּ, are joined and carry the campaign on; the two telisha accents on the first word mark its prominence.",
+    "הוּא/הִוא קָדֵשׁ is a gloss, with feminine הִוא (Pentateuch) agreeing with the place.",
+    "שְׂדֵה הָעֲמָלֵקִי is 'the field' in the sense of 'territory', in the construct.",
+    "הַיֹּשֵׁב is an active participle with article, a relative clause: 'who lived'."
+   ],
+   "note": "שְׂדֵה is rendered 'territory', as the whole country of the Amalekites. Rashi notes that Amalek was not yet born, so the name is given in anticipation; the English keeps the text's wording.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:7:1",
+     "relation": "records",
+     "summary": "Rashi: En-mishpat is named for the future, since Moses and Aaron would be judged there in the matter of the spring, the waters of Meribah; Onkelos translates it simply, as the place where the people of the district gathered for every judgment. The English transliterates and follows the plain sense of the name."
+    },
+    {
+     "anchor": "rashi:14:7:2",
+     "relation": "follows",
+     "summary": "Rashi: Amalek was not yet born; the territory is called by the future name. The English keeps 'Amalekites' and notes this."
+    },
+    {
+     "anchor": "rashi:14:7:3",
+     "relation": "follows",
+     "summary": "Rashi: Hazazon-tamar is En-gedi, written in full (חַצְצוֹן תָּמָר) in Chronicles in the story of Jehoshaphat."
+    }
+   ]
+  },
+  {
+   "ref": "14:8",
+   "english": "Then the king of Sodom went out, and the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela, which is Zoar, and they drew up battle lines against them in the Valley of Siddim.",
+   "literal": "and-went-out king-of Sodom and-king-of Gomorrah and-king-of Admah and-king-of Zeboiim and-king-of Bela it Zoar and-they-arranged with-them war in-valley-of the-Siddim",
+   "tokens": [
+    {
+     "id": "14:8.1",
+     "gloss": "and went out",
+     "note": "wayyiqtol singular; the other kings are added after the verb"
+    },
+    {
+     "id": "14:8.2",
+     "gloss": "king of",
+     "note": "construct"
+    },
+    {
+     "id": "14:8.3",
+     "gloss": "Sodom"
+    },
+    {
+     "id": "14:8.4",
+     "gloss": "and the king of",
+     "note": "construct"
+    },
+    {
+     "id": "14:8.5",
+     "gloss": "Gomorrah"
+    },
+    {
+     "id": "14:8.6",
+     "gloss": "and the king of",
+     "note": "construct"
+    },
+    {
+     "id": "14:8.7",
+     "gloss": "Admah"
+    },
+    {
+     "id": "14:8.8",
+     "gloss": "and the king of",
+     "note": "construct"
+    },
+    {
+     "id": "14:8.9",
+     "gloss": "Zeboiim",
+     "note": "ketiv צביים, qere צְבוֹיִם"
+    },
+    {
+     "id": "14:8.10",
+     "gloss": "and the king of",
+     "note": "construct"
+    },
+    {
+     "id": "14:8.11",
+     "gloss": "Bela"
+    },
+    {
+     "id": "14:8.12",
+     "gloss": "it, which",
+     "note": "feminine pronoun, as the city is feminine"
+    },
+    {
+     "id": "14:8.13",
+     "gloss": "Zoar"
+    },
+    {
+     "id": "14:8.14",
+     "gloss": "and they arranged",
+     "note": "qal wayyiqtol of עָרַךְ, 'set in order'"
+    },
+    {
+     "id": "14:8.15",
+     "gloss": "with them",
+     "note": "אֵת with suffix: 'against them'"
+    },
+    {
+     "id": "14:8.16",
+     "gloss": "battle",
+     "note": "מִלְחָמָה, 'war'"
+    },
+    {
+     "id": "14:8.17",
+     "gloss": "in the valley of",
+     "note": "construct state"
+    },
+    {
+     "id": "14:8.18",
+     "gloss": "the Siddim"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:8.1",
+      "14:8.2",
+      "14:8.3"
+     ],
+     "english": "Then the king of Sodom went out",
+     "literal": "'and-went-out king-of Sodom'"
+    },
+    {
+     "tokens": [
+      "14:8.4",
+      "14:8.5"
+     ],
+     "english": "and the king of Gomorrah",
+     "literal": "'and-king-of Gomorrah'"
+    },
+    {
+     "tokens": [
+      "14:8.6",
+      "14:8.7"
+     ],
+     "english": "the king of Admah",
+     "literal": "'and-king-of Admah'"
+    },
+    {
+     "tokens": [
+      "14:8.8",
+      "14:8.9"
+     ],
+     "english": "the king of Zeboiim",
+     "literal": "'and-king-of Zeboiim'"
+    },
+    {
+     "tokens": [
+      "14:8.10",
+      "14:8.11",
+      "14:8.12",
+      "14:8.13"
+     ],
+     "english": "and the king of Bela, which is Zoar",
+     "literal": "'and-king-of Bela, it Zoar'"
+    },
+    {
+     "tokens": [
+      "14:8.14",
+      "14:8.15",
+      "14:8.16"
+     ],
+     "english": "and they drew up battle lines",
+     "literal": "'and-they-arranged war'"
+    },
+    {
+     "tokens": [
+      "14:8.17"
+     ],
+     "english": "against them",
+     "literal": "'with-them'; אֵת as 'with', here 'against'"
+    },
+    {
+     "tokens": [
+      "14:8.18"
+     ],
+     "english": "in the Valley of Siddim",
+     "literal": "'in-valley-of the-Siddim'"
+    }
+   ],
+   "grammar": [
+    "The singular וַיֵּצֵא comes first, with all five kings listed after it in a series of וּמֶלֶךְ.",
+    "עָרַךְ מִלְחָמָה is the idiom 'draw up battle lines', here with אִתָּם 'against them'.",
+    "The ketiv צביים and qere צְבוֹיִם concern the vowel pattern; the name is the same as in verse 2.",
+    "The verse resumes the place named in verse 3, בְּעֵמֶק הַשִּׂדִּים, closing the frame."
+   ],
+   "note": "The phrase division at the end differs from the Hebrew word order slightly: the English follows 'against them' before 'in the Valley'.",
+   "commentary": [],
+   "apparatus": [
+    "14:8.9 ketiv-qere: the ketiv reads צביים; the base text has צְבוֹיִם."
+   ]
+  }
+ ]
+}

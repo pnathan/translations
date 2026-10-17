@@ -1,0 +1,63 @@
+{
+  "unit": "noach-17",
+  "model": "opus",
+  "summary": "A sound unit: the English, glosses and senses of all four verses are accurate, and the unit has no normative (Rashi or Ibn Ezra) anchors. The faults are in the notes and rulings: Onkelos on 10:30 reads the eastern mountain in apposition to Sephar and so is not 'followed' by an English that takes it as a separate end of the range; the translator's note on 10:32 misstates how Radak handles 'after the flood'; and three learner notes are false (Babel 'looks back', the geresh and tevir 'mark the second half', מַבּוּל used 'alone' for the Flood).",
+  "patches": [
+    {
+      "ref": "10:30",
+      "path": "commentary:onkelos:10:30:1",
+      "value": {
+        "relation": "records",
+        "summary": "Onkelos: וַהֲוָה מוֹתְבָנְהוֹן מִמֵּשָׁא מָטֵי לִסְפַר טוּר מָדִינְחָא, 'and their dwelling was from Mesha, reaching to Sephar, the mountain of the east'. He renders בֹּאֲכָה by מָטֵי 'reaching' and puts ל before סְפַר only, so טוּר מָדִינְחָא stands in apposition to Sephar as the one end point; the English, with Radak, takes the eastern mountain as the end of the range, and keeps his reading here."
+      },
+      "severity": "error",
+      "reason": "Onkelos has no preposition before טוּר מָדִינְחָא: he makes 'the mountain of the east' the same place as Sephar, which is the apposition reading the translator's note sets against the English. 'Follows' is wrong, and the summary's own rendering ('Sephar, the mountain of the east') contradicts its conclusion."
+    },
+    {
+      "ref": "10:31",
+      "path": "commentary:onkelos:10:31:1.summary",
+      "value": "Onkelos renders מִשְׁפְּחֹתָם by זַרְעֲיָתְהוֹן 'their families' and גּוֹיֵהֶם by עַמְמֵיהוֹן 'their peoples'; he puts ל before 'their lands' and ב before 'their peoples', the reverse of the Hebrew's בְּ and לְ, with no change of sense.",
+      "severity": "style",
+      "reason": "זַרְעִית is Onkelos's regular word for מִשְׁפָּחָה, 'family, clan', not 'descendants'; the summary also omits his exchange of the prepositions."
+    },
+    {
+      "ref": "10:31",
+      "path": "grammar",
+      "value": [
+        "אֵלֶּה בְנֵי־שֵׁם is a verbless clause: 'these (are) the sons of Shem'.",
+        "Four phrases follow with the same pronominal suffix, each with a prefix: three with ל and one with ב.",
+        "The zaqef on שֵׁם sets off the statement; the tipḥa and etnaḥta then divide the four categories in pairs.",
+        "לָשׁוֹן, 'tongue', here has the sense 'language'. The table of nations already counts languages; the story of how the one language was confused follows in 11:1–9, where the word for 'language' is שָׂפָה."
+      ],
+      "severity": "error",
+      "reason": "The last note said 'language' 'looks back to the later story of Babel', a contradiction: 11:1–9 comes after this verse, and its word is שָׂפָה, not לָשׁוֹן."
+    },
+    {
+      "ref": "10:32",
+      "path": "grammar",
+      "value": [
+        "Hebrew puts the verb before its subject: נִפְרְדוּ הַגּוֹיִם, 'were divided the nations'; the nifal gives a passive or reflexive sense.",
+        "The etnaḥta on בְּגוֹיֵהֶם divides the verse: the first half closes the genealogy, the second (from וּמֵאֵלֶּה) looks beyond it to the spread of the nations. The geresh on וּמֵאֵלֶּה and the tevir on הַגּוֹיִם are lesser divisions within the second half.",
+        "הַמַּבּוּל, 'the flood', is the word for the Flood of chapters 6 to 9; outside Genesis it occurs only in Psalm 29:10.",
+        "פ at the end is a paragraph break (petuḥa), which closes the whole table of nations."
+      ],
+      "severity": "error",
+      "reason": "The second half of the verse is marked by the etnaḥta on בְּגוֹיֵהֶם, not by the geresh and tevir, which are subordinate disjunctives inside it. And מַבּוּל is not used for the Flood 'alone': it also occurs at Psalm 29:10."
+    },
+    {
+      "ref": "10:32",
+      "path": "note",
+      "value": "The English keeps 'after the flood' as stated, attached to the dividing of the nations. Radak objects that the nations did not separate until after the dispersion (הַפַּלָּגָה) of Peleg's time (10:25), and so attaches 'after the flood' to the families: those born after the flood separated in the land when they separated, which was after the dispersion. His reading is recorded in the commentary.",
+      "severity": "error",
+      "reason": "Radak does not read 'after the flood' loosely: he re-attaches the phrase to the birth of Noah's descendants (radak:10:32:2, שֶׁנּוֹלְדוּ אַחַר הַמַּבּוּל), and dates the separation itself to after the dispersion."
+    },
+    {
+      "ref": "10:32",
+      "path": "commentary:radak:10:32:1.summary",
+      "value": "Radak: in fact they did not separate until after the dispersion (הַפַּלָּגָה, in Peleg's time), so the verse cannot mean that the separation came straight after the flood; 'rather its meaning is' (אֶלָּא פֵּרוּשׁוֹ), and his explanation follows in the next comment. The English keeps the plain order and records his reading.",
+      "severity": "style",
+      "reason": "'He goes on to give the verse's sense as such' is vague; the comment raises the difficulty and introduces his reinterpretation, which is in radak:10:32:2."
+    }
+  ],
+  "verdicts": []
+}

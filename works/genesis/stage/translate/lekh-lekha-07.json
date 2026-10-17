@@ -1,0 +1,1185 @@
+{
+ "unit": "lekh-lekha-07",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "14:9",
+   "english": "with Chedorlaomer king of Elam, Tidal king of Goim, Amraphel king of Shinar, and Arioch king of Ellasar: four kings against the five.",
+   "literal": "with-Chedorlaomer king-of Elam and-Tidal king-of Goim and-Amraphel king-of Shinar and-Arioch king-of Ellasar four kings with-the-five",
+   "tokens": [
+    {
+     "id": "14:9.1",
+     "gloss": "with",
+     "sense": "1",
+     "note": "אֵת here is the preposition 'with' (the pack's lemma is the 'with' entry); it continues the battle report of verse 8"
+    },
+    {
+     "id": "14:9.2",
+     "gloss": "Chedorlaomer"
+    },
+    {
+     "id": "14:9.3",
+     "gloss": "king of",
+     "note": "construct state"
+    },
+    {
+     "id": "14:9.4",
+     "gloss": "Elam"
+    },
+    {
+     "id": "14:9.5",
+     "gloss": "and Tidal"
+    },
+    {
+     "id": "14:9.6",
+     "gloss": "king of",
+     "note": "construct state"
+    },
+    {
+     "id": "14:9.7",
+     "gloss": "Goim",
+     "note": "a name, 'Goim'"
+    },
+    {
+     "id": "14:9.8",
+     "gloss": "and Amraphel"
+    },
+    {
+     "id": "14:9.9",
+     "gloss": "king of",
+     "note": "construct state"
+    },
+    {
+     "id": "14:9.10",
+     "gloss": "Shinar"
+    },
+    {
+     "id": "14:9.11",
+     "gloss": "and Arioch"
+    },
+    {
+     "id": "14:9.12",
+     "gloss": "king of",
+     "note": "construct state"
+    },
+    {
+     "id": "14:9.13",
+     "gloss": "Ellasar"
+    },
+    {
+     "id": "14:9.14",
+     "gloss": "four",
+     "note": "the numeral 'four' with a masculine plural noun takes the feminine form אַרְבָּעָה"
+    },
+    {
+     "id": "14:9.15",
+     "gloss": "kings"
+    },
+    {
+     "id": "14:9.16",
+     "gloss": "against",
+     "note": "the pack parses this אֶת as the object marker; the sense required here is the preposition 'with, against'"
+    },
+    {
+     "id": "14:9.17",
+     "gloss": "the five",
+     "note": "definite article on the numeral: the five kings of verse 2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:9.1",
+      "14:9.2",
+      "14:9.3",
+      "14:9.4"
+     ],
+     "english": "with Chedorlaomer king of Elam",
+     "literal": "'with-Chedorlaomer king-of Elam'; אֵת = עִם (Ibn Ezra)"
+    },
+    {
+     "tokens": [
+      "14:9.5",
+      "14:9.6",
+      "14:9.7"
+     ],
+     "english": "Tidal king of Goim",
+     "literal": "'and-Tidal king-of Goim'; the list of names is asyndetic until the last"
+    },
+    {
+     "tokens": [
+      "14:9.8",
+      "14:9.9",
+      "14:9.10"
+     ],
+     "english": "Amraphel king of Shinar",
+     "literal": "'and-Amraphel king-of Shinar'"
+    },
+    {
+     "tokens": [
+      "14:9.11",
+      "14:9.12",
+      "14:9.13"
+     ],
+     "english": "and Arioch king of Ellasar",
+     "literal": "'and-Arioch king-of Ellasar'"
+    },
+    {
+     "tokens": [
+      "14:9.14",
+      "14:9.15"
+     ],
+     "english": "four kings",
+     "literal": "'four kings'"
+    },
+    {
+     "tokens": [
+      "14:9.16",
+      "14:9.17"
+     ],
+     "english": "against the five",
+     "literal": "'with the-five'; the second אֵת is again 'with', in the sense of battling against"
+    }
+   ],
+   "grammar": [
+    "The verse is a long apposition continuing verse 8: the four kings are listed with their lands, each as 'king of X', and the list ends with the totals 'four kings against the five'.",
+    "אֵת is the preposition 'with' (compare עִם): Ibn Ezra glosses אֵת כְּדָרְלָעֹמֶר as 'with'. It is not the object marker here.",
+    "The accents set each name-and-land pair apart: geresh/revia after Elam, pashta/zaqef qaton for the next two pairs, tipha and etnahta at Arioch and Ellasar; the merkha-tipha pair carries 'four kings' and silluq closes 'the five'.",
+    "The numerals contrast four against five; the word order 'four kings against the five' sets the few against the many."
+   ],
+   "note": "The pack parses the second אֶת־ (14:9.16) as the object marker; I keep that datum but note that 'against' is the sense required by the construction. Goim (גּוֹיִם) is left as a name, as the lexicon gives it; the word is also 'nations', and Onkelos translates it 'of the peoples' (דְעַמְמִין). Onkelos reads 'Babel' for Shinar.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:9:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the few nevertheless won, to show they were mighty, and Abram was not deterred from pursuing them. This is a moral about the numbers, not a reading of the words."
+    },
+    {
+     "anchor": "ibn-ezra:14:9:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra glosses אֵת in אֵת כְּדָרְלָעֹמֶר as 'like עִם', that is, 'with'. The English adopts this."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: 'with Chedorlaomer king of Elam, Tidal king of the peoples, Amraphel king of Babel, Arioch king of Ellasar, four kings against five.'"
+   ]
+  },
+  {
+   "ref": "14:10",
+   "english": "The Valley of Siddim was pit upon pit of bitumen, and the king of Sodom and Gomorrah fled, and they fell there, and the survivors fled into the hills.",
+   "literal": "and-valley-of the-Siddim pits-of pits-of bitumen and-fled king-of Sodom and-Gomorrah and-fell-there and-the-remaining to-hill fled",
+   "tokens": [
+    {
+     "id": "14:10.1",
+     "gloss": "and the valley of",
+     "note": "construct state; the verse begins a circumstantial clause with no verb"
+    },
+    {
+     "id": "14:10.2",
+     "gloss": "the Siddim",
+     "note": "a place name, with the article"
+    },
+    {
+     "id": "14:10.3",
+     "gloss": "pits of",
+     "sense": "2",
+     "note": "feminine plural construct of בְּאֵר, with the irregular vowels בֶּאֱרֹת; Ibn Ezra notes the change"
+    },
+    {
+     "id": "14:10.4",
+     "gloss": "pits of",
+     "sense": "2",
+     "note": "repeated word expresses plurality: 'pits upon pits'"
+    },
+    {
+     "id": "14:10.5",
+     "gloss": "bitumen",
+     "note": "Rashi and Radak read 'clay, mud' (טִיט), the lexicon 'bitumen, asphalt'"
+    },
+    {
+     "id": "14:10.6",
+     "gloss": "and fled",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, plural, with a singular construct subject 'king of'"
+    },
+    {
+     "id": "14:10.7",
+     "gloss": "king of",
+     "note": "construct state"
+    },
+    {
+     "id": "14:10.8",
+     "gloss": "Sodom"
+    },
+    {
+     "id": "14:10.9",
+     "gloss": "and Gomorrah"
+    },
+    {
+     "id": "14:10.10",
+     "gloss": "and fell",
+     "sense": "Qal 1",
+     "note": "wayyiqtol plural"
+    },
+    {
+     "id": "14:10.11",
+     "gloss": "there",
+     "note": "שָׁמָּה: שָׁם with the directional he, 'thither', here equal to 'there'"
+    },
+    {
+     "id": "14:10.12",
+     "gloss": "and the survivors",
+     "sense": "Niph 1",
+     "note": "Niphal participle with article"
+    },
+    {
+     "id": "14:10.13",
+     "gloss": "to the hills",
+     "sense": "2",
+     "note": "הֶרָה: הַר with directional he, without the article"
+    },
+    {
+     "id": "14:10.14",
+     "gloss": "fled",
+     "sense": "Qal 1",
+     "note": "perfect, after a fronted subject"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:10.1",
+      "14:10.2",
+      "14:10.3",
+      "14:10.4",
+      "14:10.5"
+     ],
+     "english": "The Valley of Siddim was pit upon pit of bitumen",
+     "literal": "'and-valley-of the-Siddim pits-of pits-of bitumen'; the doubled noun means many pits"
+    },
+    {
+     "tokens": [
+      "14:10.6",
+      "14:10.7",
+      "14:10.8",
+      "14:10.9"
+     ],
+     "english": "the king of Sodom and Gomorrah fled",
+     "literal": "'and-fled king-of Sodom and-Gomorrah'"
+    },
+    {
+     "tokens": [
+      "14:10.10",
+      "14:10.11"
+     ],
+     "english": "and they fell there",
+     "literal": "'and-fell thither'; the plural verb after a singular 'king of' suggests the two kings"
+    },
+    {
+     "tokens": [
+      "14:10.12",
+      "14:10.13",
+      "14:10.14"
+     ],
+     "english": "and the survivors fled into the hills",
+     "literal": "'and-the-remaining to-hill fled'; הֶרָה is indefinite, 'to a hill' (Rashi)"
+    }
+   ],
+   "grammar": [
+    "The doubled בֶּאֱרֹת בֶּאֱרֹת is idiomatic: 'pits and pits', that is, pit after pit. Both words are in the construct state, with חֵמָר 'bitumen' as the last member.",
+    "The verb וַיָּנֻסוּ is plural although מֶלֶךְ־סְדֹם וַעֲמֹרָה looks like a single king 'of Sodom and Gomorrah'. The sense is the king of Sodom and the king of Gomorrah.",
+    "הֶרָה and שָׁמָּה take the directional ה, a locative ending without a preposition. Rashi says הֶרָה means 'to a mountain' (indefinite), unlike הָהָרָה with the article, 'to the mountain'.",
+    "The word order changes at the end: 'and the remaining ones, to-the-hills they fled', with the subject and place fronted to contrast with the two kings who fell.",
+    "Zaqef qaton on חֵמָר ends the first clause; etnahta on שָׁמָּה ends the second."
+   ],
+   "note": "I take חֵמָר as the lexicon gives it ('bitumen'); Rashi and Radak read 'clay, mud' for the building mortar, a reading the English does not adopt. וַיִּפְּלוּ־שָׁמָּה is kept open between 'fell into the pits' and 'threw themselves down there' (Ibn Ezra); the English line says only 'fell there'. הֶרָה is rendered 'into the hills', following Rashi's indefinite reading; Ibn Ezra's 'to the mountain' is recorded. Sforno takes the survivors to be the three remaining kings.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:10:1",
+     "relation": "follows",
+     "summary": "Rashi: there were many pits there from which earth was taken for building mortar; the aggadic midrash says that the mud-covered pits made a miracle for the king of Sodom, who came out of them. The English takes his 'many pits' but keeps the lexicon's 'bitumen' for the material."
+    },
+    {
+     "anchor": "rashi:14:10:2",
+     "relation": "follows",
+     "summary": "Rashi: הֶרָה is like לְהָר, 'to a mountain', with the ה replacing the לָמֶד at the front; it names no particular mountain, since each fled to whichever he found first, unlike הָהָרָה, which means a known mountain. The English adopts the indefinite reading."
+    },
+    {
+     "anchor": "ibn-ezra:14:10:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בְּאֵר throughout Scripture means a flowing well, and its form here is altered because of the construct. The English reads the form as the construct plural 'pits of'."
+    },
+    {
+     "anchor": "ibn-ezra:14:10:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיִּפְּלוּ שָׁמָּה means they fell there in their wish to escape, as in 'and he fell on his face' (Numbers 16:4). The English line keeps the neutral 'fell there'."
+    },
+    {
+     "anchor": "ibn-ezra:14:10:3",
+     "relation": "records",
+     "summary": "Ibn Ezra: הֶרָה means 'to the mountain' and is a strange word. The English instead follows Rashi's indefinite 'into the hills'; Ibn Ezra's definite reading is kept here."
+    }
+   ],
+   "apparatus": [
+    "WLC reads הַשִׂדִּים with a different vowel pointing; MAM reads הַשִּׂדִּים (14:10.2).",
+    "Onkelos: 'the plain of the field was pits, pits of clay; the king of Sodom and Gomorrah fled and fell there, and those who remained fled to the mountain.'"
+   ]
+  },
+  {
+   "ref": "14:11",
+   "english": "They took all the goods of Sodom and Gomorrah and all their food, and went away.",
+   "literal": "and-took all-of goods-of Sodom and-Gomorrah and all-of their-food and-went",
+   "tokens": [
+    {
+     "id": "14:11.1",
+     "gloss": "and they took",
+     "sense": "Qal 3.b"
+    },
+    {
+     "id": "14:11.2",
+     "gloss": "-",
+     "note": "object marker, without English counterpart"
+    },
+    {
+     "id": "14:11.3",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct of כֹּל"
+    },
+    {
+     "id": "14:11.4",
+     "gloss": "the goods of",
+     "note": "construct state, with a following compound genitive"
+    },
+    {
+     "id": "14:11.5",
+     "gloss": "Sodom"
+    },
+    {
+     "id": "14:11.6",
+     "gloss": "and Gomorrah"
+    },
+    {
+     "id": "14:11.7",
+     "gloss": "and",
+     "note": "object marker with ו, a second object"
+    },
+    {
+     "id": "14:11.8",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "14:11.9",
+     "gloss": "their food",
+     "note": "אָכְלָם: 'their food', with the 3rd person masculine plural suffix; the form אָכְלָם is the bound form of אֹכֶל"
+    },
+    {
+     "id": "14:11.10",
+     "gloss": "and they went",
+     "note": "wayyiqtol of הלך; the entry gives no sense for the plain 'go'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:11.1",
+      "14:11.2",
+      "14:11.3",
+      "14:11.4",
+      "14:11.5",
+      "14:11.6"
+     ],
+     "english": "They took all the goods of Sodom and Gomorrah",
+     "literal": "'and-took [obj] all-of goods-of Sodom and-Gomorrah'"
+    },
+    {
+     "tokens": [
+      "14:11.7",
+      "14:11.8",
+      "14:11.9"
+     ],
+     "english": "and all their food",
+     "literal": "'and [obj] all-of their-food'"
+    },
+    {
+     "tokens": [
+      "14:11.10"
+     ],
+     "english": "and went away",
+     "literal": "'and-went'"
+    }
+   ],
+   "grammar": [
+    "The verse is a simple chain of wayyiqtol verbs with the plural subject of the four kings.",
+    "רְכֻשׁ סְדֹם וַעֲמֹרָה is a construct chain with a double genitive: 'the goods of Sodom and Gomorrah'.",
+    "The repetition of אֶת־כׇּל, 'all', stresses the completeness of the plunder: goods and food.",
+    "The telisha gedola on the first word is a prepositive accent, written twice on וַיִּקְחוּ."
+   ],
+   "note": "וַיִּקְחוּ is rendered 'took' with the sense of plundering. Radak says 'their food' includes what was in the houses and the people in them; the English keeps 'food'. The entry for הלך lists no plain-'go' sense in the pack.",
+   "commentary": [
+    {
+     "anchor": "radak:14:11:1",
+     "relation": "records",
+     "summary": "Radak: the valley of Siddim lay on the edge of the five cities where the battle was fought, but Admah, Zeboiim and Bela were not on that side; 'goods' includes moveable property and cattle."
+    },
+    {
+     "anchor": "radak:14:11:2",
+     "relation": "records",
+     "summary": "Radak: 'their food' means what they had in the houses, 'and the people in them'; the English keeps the plain 'food'."
+    }
+   ]
+  },
+  {
+   "ref": "14:12",
+   "english": "They took Lot and his goods, the son of Abram's brother, and went away; he was living in Sodom.",
+   "literal": "and-took [obj] Lot and [obj] goods-his son-of brother-of Abram and-went and-he dwelling in-Sodom",
+   "tokens": [
+    {
+     "id": "14:12.1",
+     "gloss": "and they took",
+     "sense": "Qal 3.b"
+    },
+    {
+     "id": "14:12.2",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "14:12.3",
+     "gloss": "Lot"
+    },
+    {
+     "id": "14:12.4",
+     "gloss": "and",
+     "note": "object marker with ו"
+    },
+    {
+     "id": "14:12.5",
+     "gloss": "his goods",
+     "note": "construct state with the suffix"
+    },
+    {
+     "id": "14:12.6",
+     "gloss": "the son of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "14:12.7",
+     "gloss": "brother of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "14:12.8",
+     "gloss": "Abram"
+    },
+    {
+     "id": "14:12.9",
+     "gloss": "and they went",
+     "note": "wayyiqtol of הלך"
+    },
+    {
+     "id": "14:12.10",
+     "gloss": "and he",
+     "sense": "1",
+     "note": "circumstantial clause with a pronoun subject"
+    },
+    {
+     "id": "14:12.11",
+     "gloss": "living",
+     "sense": "Qal 3",
+     "note": "participle: a continuing state"
+    },
+    {
+     "id": "14:12.12",
+     "gloss": "in Sodom"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:12.1",
+      "14:12.2",
+      "14:12.3"
+     ],
+     "english": "They took Lot",
+     "literal": "'and-took [obj] Lot'"
+    },
+    {
+     "tokens": [
+      "14:12.4",
+      "14:12.5"
+     ],
+     "english": "and his goods",
+     "literal": "'and [obj] goods-his'"
+    },
+    {
+     "tokens": [
+      "14:12.6",
+      "14:12.7",
+      "14:12.8"
+     ],
+     "english": "the son of Abram's brother",
+     "literal": "'son-of brother-of Abram'; the phrase is in apposition to Lot"
+    },
+    {
+     "tokens": [
+      "14:12.9"
+     ],
+     "english": "and went away",
+     "literal": "'and-went'"
+    },
+    {
+     "tokens": [
+      "14:12.10",
+      "14:12.11",
+      "14:12.12"
+     ],
+     "english": "he was living in Sodom",
+     "literal": "'and-he dwelling in-Sodom'; the participle describes his situation"
+    }
+   ],
+   "grammar": [
+    "וְהוּא יֹשֵׁב is a circumstantial clause: a pronoun plus a participle that states a situation, not a sequence.",
+    "בֶּן־אֲחִי אַבְרָם is a double construct chain, in apposition to לוֹט, despite the accent that separates it from 'his goods'.",
+    "The qadma on וַיִּקְחוּ and the darga on לוֹט belong to a series that leads on to the merkha-tipha pair, and the etnahta on וַיֵּלֵכוּ ends the first half.",
+    "The merkha on וְהוּא marks the aside: the narrator adds where Lot was living."
+   ],
+   "note": "Ibn Ezra adds that Lot was living in Sodom 'on that day'; the English does not add a 'then'. Rashi's remark that his dwelling in Sodom was the cause is moral and is not a reading of the words.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:12:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'Who caused him this? His living in Sodom.' This is a moral comment on the clause, not a reading of its words."
+    },
+    {
+     "anchor": "ibn-ezra:14:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'he was on that day living in Sodom', which takes the participle as a state of affairs at the time of the capture. The English renders it as a circumstantial clause."
+    }
+   ]
+  },
+  {
+   "ref": "14:13",
+   "english": "The fugitive came and told Abram the Hebrew, who was living by the terebinths of Mamre the Amorite, brother of Eshcol and brother of Aner; they were allies of Abram.",
+   "literal": "and-came the-fugitive and-told to-Abram the-Hebrew and-he dwelling in-terebinths-of Mamre the-Amorite brother-of Eshcol and-brother-of Aner and-they masters-of covenant-of Abram",
+   "tokens": [
+    {
+     "id": "14:13.1",
+     "gloss": "and came",
+     "sense": "Qal 2"
+    },
+    {
+     "id": "14:13.2",
+     "gloss": "the fugitive",
+     "note": "הַפָּלִיט: one who has escaped"
+    },
+    {
+     "id": "14:13.3",
+     "gloss": "and told",
+     "sense": "Hiph"
+    },
+    {
+     "id": "14:13.4",
+     "gloss": "to Abram"
+    },
+    {
+     "id": "14:13.5",
+     "gloss": "the Hebrew",
+     "note": "gentilic with the article; Rashi reads it as 'from across the river'"
+    },
+    {
+     "id": "14:13.6",
+     "gloss": "and he",
+     "sense": "1"
+    },
+    {
+     "id": "14:13.7",
+     "gloss": "living",
+     "sense": "Qal 2",
+     "note": "participle"
+    },
+    {
+     "id": "14:13.8",
+     "gloss": "by the terebinths of",
+     "note": "construct plural of אֵלוֹן"
+    },
+    {
+     "id": "14:13.9",
+     "gloss": "Mamre"
+    },
+    {
+     "id": "14:13.10",
+     "gloss": "the Amorite"
+    },
+    {
+     "id": "14:13.11",
+     "gloss": "brother of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "14:13.12",
+     "gloss": "Eshcol"
+    },
+    {
+     "id": "14:13.13",
+     "gloss": "and brother of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "14:13.14",
+     "gloss": "Aner"
+    },
+    {
+     "id": "14:13.15",
+     "gloss": "and they",
+     "note": "a third-person plural pronoun"
+    },
+    {
+     "id": "14:13.16",
+     "gloss": "allies of",
+     "sense": "I.1",
+     "note": "'masters of a covenant': an idiom for those bound by covenant"
+    },
+    {
+     "id": "14:13.17",
+     "gloss": "covenant of",
+     "sense": "I.1",
+     "note": "construct"
+    },
+    {
+     "id": "14:13.18",
+     "gloss": "Abram"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:13.1",
+      "14:13.2"
+     ],
+     "english": "The fugitive came",
+     "literal": "'and-came the-fugitive'"
+    },
+    {
+     "tokens": [
+      "14:13.3",
+      "14:13.4",
+      "14:13.5"
+     ],
+     "english": "and told Abram the Hebrew",
+     "literal": "'and-told to-Abram the-Hebrew'"
+    },
+    {
+     "tokens": [
+      "14:13.6",
+      "14:13.7",
+      "14:13.8",
+      "14:13.9",
+      "14:13.10"
+     ],
+     "english": "who was living by the terebinths of Mamre the Amorite",
+     "literal": "'and-he dwelling in-terebinths-of Mamre the-Amorite'"
+    },
+    {
+     "tokens": [
+      "14:13.11",
+      "14:13.12",
+      "14:13.13",
+      "14:13.14"
+     ],
+     "english": "brother of Eshcol and brother of Aner",
+     "literal": "'brother-of Eshcol and-brother-of Aner'; apposition to Mamre"
+    },
+    {
+     "tokens": [
+      "14:13.15",
+      "14:13.16",
+      "14:13.17",
+      "14:13.18"
+     ],
+     "english": "they were allies of Abram",
+     "literal": "'and-they masters-of covenant-of Abram'"
+    }
+   ],
+   "grammar": [
+    "וְהוּא שֹׁכֵן is a circumstantial clause (pronoun plus participle) about Abram.",
+    "'Brother of Eshcol and brother of Aner' stands in apposition to מַמְרֵא; the accents (revia, then mahpakh and pashta) attach it to Mamre, not to Abram.",
+    "בַּעֲלֵי בְרִית is an idiom: 'masters of a covenant', that is, allies. The same construction pairs a person with a thing owned.",
+    "הַפָּלִיט has the article: 'the fugitive', one particular person known to the story; הָעִבְרִי is its only appearance as a title for Abram.",
+    "Etnahta on הָעִבְרִי separates the report from the circumstantial clause that follows."
+   ],
+   "note": "Rashi's plain-sense identification of the fugitive as Og is recorded, not adopted in the English line. הָעִבְרִי is rendered 'the Hebrew'; Rashi's 'from across the river' is a gloss on the name, not an alternative translation. 'Eshcol' has a sense in its entry for a valley; here it is a personal name.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:13:1",
+     "relation": "records",
+     "summary": "Rashi: on the plain sense this is Og, who escaped the war (Deuteronomy 3), since Amraphel and his allies did not kill him when they struck the Rephaim at Ashteroth-karnaim. The English says only 'the fugitive'."
+    },
+    {
+     "anchor": "rashi:14:13:2",
+     "relation": "follows",
+     "summary": "Rashi, after Genesis Rabbah: הָעִבְרִי means one who came from across the river. The English keeps 'the Hebrew', which can carry that sense."
+    },
+    {
+     "anchor": "rashi:14:13:3",
+     "relation": "follows",
+     "summary": "Rashi: they had made a covenant with him. The English renders בַּעֲלֵי בְרִית as 'allies'."
+    },
+    {
+     "anchor": "ibn-ezra:14:13:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הַפָּלִיט is one who ran away and escaped from the people of Sodom, as in 'the fugitive came to me from Jerusalem' (Ezekiel 33:21); there is also a midrashic way. The English uses 'the fugitive'."
+    }
+   ]
+  },
+  {
+   "ref": "14:14",
+   "english": "When Abram heard that his brother had been taken captive, he armed his trained men, those born in his household, three hundred and eighteen, and pursued as far as Dan.",
+   "literal": "and-heard Abram that was-taken-captive his-brother and-armed [obj] his-trained-men born-of his-house eight ten and-three hundreds and-pursued up-to Dan",
+   "tokens": [
+    {
+     "id": "14:14.1",
+     "gloss": "and heard"
+    },
+    {
+     "id": "14:14.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "14:14.3",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "14:14.4",
+     "gloss": "was taken captive",
+     "sense": "Niph",
+     "note": "Niphal perfect: passive"
+    },
+    {
+     "id": "14:14.5",
+     "gloss": "his brother",
+     "sense": "1",
+     "note": "Lot is Abram's nephew; 'brother' is used of a near kinsman"
+    },
+    {
+     "id": "14:14.6",
+     "gloss": "and he armed",
+     "sense": "3",
+     "note": "Hiphil wayyiqtol of רוק, 'empty out': the sense is to draw out arms or to equip"
+    },
+    {
+     "id": "14:14.7",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "14:14.8",
+     "gloss": "his trained men",
+     "note": "חֲנִיכָיו, the Qere; the Ketiv is חנכו"
+    },
+    {
+     "id": "14:14.9",
+     "gloss": "born of",
+     "note": "construct plural"
+    },
+    {
+     "id": "14:14.10",
+     "gloss": "his household",
+     "sense": "5",
+     "note": "'those born in his house': the household slaves"
+    },
+    {
+     "id": "14:14.11",
+     "gloss": "eight",
+     "note": "the numeral 'eight', in a compound with 'ten'"
+    },
+    {
+     "id": "14:14.12",
+     "gloss": "teen"
+    },
+    {
+     "id": "14:14.13",
+     "gloss": "and three",
+     "note": "feminine singular of 'three' joined to a plural noun"
+    },
+    {
+     "id": "14:14.14",
+     "gloss": "hundred",
+     "note": "plural of מֵאָה"
+    },
+    {
+     "id": "14:14.15",
+     "gloss": "and pursued",
+     "sense": "Qal 1.a"
+    },
+    {
+     "id": "14:14.16",
+     "gloss": "as far as",
+     "note": "the pack's sense for עַד is 'until'; here it is local, 'up to'"
+    },
+    {
+     "id": "14:14.17",
+     "gloss": "Dan"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:14.1",
+      "14:14.2",
+      "14:14.3",
+      "14:14.4",
+      "14:14.5"
+     ],
+     "english": "When Abram heard that his brother had been taken captive",
+     "literal": "'and-heard Abram that was-taken-captive his-brother'"
+    },
+    {
+     "tokens": [
+      "14:14.6",
+      "14:14.7",
+      "14:14.8",
+      "14:14.9",
+      "14:14.10"
+     ],
+     "english": "he armed his trained men, those born in his household",
+     "literal": "'and-armed [obj] his-trained-men born-of his-house'"
+    },
+    {
+     "tokens": [
+      "14:14.11",
+      "14:14.12",
+      "14:14.13",
+      "14:14.14"
+     ],
+     "english": "three hundred and eighteen",
+     "literal": "'eight ten and-three hundreds'; the order is reversed in English"
+    },
+    {
+     "tokens": [
+      "14:14.15",
+      "14:14.16",
+      "14:14.17"
+     ],
+     "english": "and pursued as far as Dan",
+     "literal": "'and-pursued up-to Dan'"
+    }
+   ],
+   "grammar": [
+    "וַיִּשְׁמַע ... כִּי introduces the content of what Abram heard: 'that his brother was taken captive'. The Niphal נִשְׁבָּה is passive.",
+    "וַיָּרֶק is Hiphil of רִיק: 'he emptied out'. It is used of drawing a sword (Leviticus 26:33) and so 'armed' is the usual sense; the object is 'his trained men',.",
+    "חֲנִיכָיו is the Qere reading; Rashi quotes the Ketiv חנכו and reads it as 'initiated, trained'. The root חנך is that of 'dedicate, initiate'.",
+    "The numeral 'eighteen' is written 'eight ten' and 'three hundred' with the feminine three and the plural 'hundreds'; the construction gives 'three hundred' only in the second half.",
+    "Etnahta on אָחִיו divides the verse into the news and Abram's response."
+   ],
+   "note": "For וַיָּרֶק I choose 'armed' on the combined view of Rashi (equipped, ready, like Onkelos וְזָרִיז) and Ibn Ezra's first reading ('gave them weapons'); his second reading, 'drew out the swords from the sheath', is kept in the commentary entry. The Ketiv of חניכיו is recorded in the apparatus. Rashi's midrash that the three hundred and eighteen are Eliezer alone is not adopted, and Rashi's remark on Dan (the later calf-idol) is not a reading of the words.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:14:1",
+     "relation": "follows",
+     "summary": "Rashi: וַיָּרֶק is 'ready', as the Targum has it (וְזָרִיז), like 'I will draw the sword after you' (Leviticus 26:33), meaning 'arm with my sword'. The English takes 'armed'."
+    },
+    {
+     "anchor": "rashi:14:14:2",
+     "relation": "follows",
+     "summary": "Rashi: the Ketiv is חנכו and the Qere חניכיו; the word is Eliezer, whom he trained in the commandments, and the root means initiating a person into a craft or duty, as in 'train up a child' (Proverbs 22:6). The English renders 'trained men'."
+    },
+    {
+     "anchor": "rashi:14:14:3",
+     "relation": "records",
+     "summary": "Rashi: our rabbis said it was Eliezer alone, which is the numerical value of his name. The English takes the number at face value; the midrash is kept here."
+    },
+    {
+     "anchor": "rashi:14:14:4",
+     "relation": "not-applicable",
+     "summary": "Rashi: there his strength failed, since he saw that his descendants would set up a calf there. This is a homily on the place name, not a reading of the words."
+    },
+    {
+     "anchor": "ibn-ezra:14:14:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: he gave them weapons of war, as in 'and draw out the spear' (Psalm 35:3); some say he drew the sword from its sheath, as in 'they empty their sacks'. The English adopts the first and records the second."
+    },
+    {
+     "anchor": "ibn-ezra:14:14:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: חֲנִיכָיו are those he had trained many times in battle; the gematria of Eliezer is only a homiletic way and the text speaks in its plain sense. The English adopts 'trained men'."
+    }
+   ],
+   "apparatus": [
+    "Ketiv חנכו, Qere חֲנִיכָיו (14:14.8), as Rashi notes."
+   ]
+  },
+  {
+   "ref": "14:15",
+   "english": "He and his servants divided themselves against them by night and struck them, and pursued them as far as Hobah, which is north of Damascus.",
+   "literal": "and-divided-himself against-them night he and-his-servants and-struck-them and-pursued-them up-to Hobah which from-left to-Damascus",
+   "tokens": [
+    {
+     "id": "14:15.1",
+     "gloss": "and divided himself",
+     "sense": "Niph 1",
+     "note": "Niphal wayyiqtol: 'divided himself' into companies"
+    },
+    {
+     "id": "14:15.2",
+     "gloss": "against them",
+     "sense": "II",
+     "note": "עַל with the suffix, in the sense 'against'"
+    },
+    {
+     "id": "14:15.3",
+     "gloss": "by night",
+     "note": "an adverbial accusative of time"
+    },
+    {
+     "id": "14:15.4",
+     "gloss": "he",
+     "note": "the pronoun 'he' stands after the verb to add the subject"
+    },
+    {
+     "id": "14:15.5",
+     "gloss": "and his servants",
+     "sense": "1",
+     "note": "construct plural with the suffix"
+    },
+    {
+     "id": "14:15.6",
+     "gloss": "and struck them",
+     "sense": "Hiph 1.a",
+     "note": "Hiphil wayyiqtol with the suffix 'them'"
+    },
+    {
+     "id": "14:15.7",
+     "gloss": "and pursued them",
+     "sense": "Qal 1.a",
+     "note": "Qal wayyiqtol with the suffix"
+    },
+    {
+     "id": "14:15.8",
+     "gloss": "as far as",
+     "note": "local use of עַד"
+    },
+    {
+     "id": "14:15.9",
+     "gloss": "Hobah"
+    },
+    {
+     "id": "14:15.10",
+     "gloss": "which",
+     "note": "relative particle"
+    },
+    {
+     "id": "14:15.11",
+     "gloss": "north of",
+     "sense": "3",
+     "note": "'from the left': the left side when one faces east is the north"
+    },
+    {
+     "id": "14:15.12",
+     "gloss": "Damascus"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:15.1",
+      "14:15.2",
+      "14:15.3",
+      "14:15.4",
+      "14:15.5"
+     ],
+     "english": "He and his servants divided themselves against them by night",
+     "literal": "'and-divided-himself against-them night he and-his-servants'; the verb is singular, then the subject is added, so Rashi reorders to 'he and his servants divided themselves'"
+    },
+    {
+     "tokens": [
+      "14:15.6"
+     ],
+     "english": "and struck them",
+     "literal": "'and-struck-them'"
+    },
+    {
+     "tokens": [
+      "14:15.7",
+      "14:15.8",
+      "14:15.9"
+     ],
+     "english": "and pursued them as far as Hobah",
+     "literal": "'and-pursued-them up-to Hobah'"
+    },
+    {
+     "tokens": [
+      "14:15.10",
+      "14:15.11",
+      "14:15.12"
+     ],
+     "english": "which is north of Damascus",
+     "literal": "'which from-left to-Damascus'"
+    }
+   ],
+   "grammar": [
+    "The singular verb וַיֵּחָלֵק is followed by הוּא וַעֲבָדָיו: the subject 'he and his servants' comes after the verb and the adverb 'by night', which is why Rashi says the verse is transposed.",
+    "וַיִּרְדְּפֵם and וַיַּכֵּם have the suffix מ, 'them': the verbs are wayyiqtols and the verb 'pursue' is repeated from verse 14.",
+    "מִשְּׂמֹאל לְדַמָּשֶׂק is 'from the left of Damascus' and names the north, taken from the person facing east.",
+    "The qadma and darga lead into the tevir on לַיְלָה, which sets 'by night' apart from the pronoun that follows."
+   ],
+   "note": "I follow Rashi's plain-sense reordering: 'he and his servants divided themselves against them by night', as pursuers split up after fugitives who scatter. His aggadic reading, that the night itself was divided in two, is not adopted. For מִשְּׂמֹאל I write 'north of', the sense 3 in the entry. Rashi's remark that no place is called Hobah and that Dan is meant is a midrash and is not adopted; the English keeps the name Hobah.",
+   "commentary": [
+    {
+     "anchor": "rashi:14:15:1",
+     "relation": "follows",
+     "summary": "Rashi: on the plain sense the verse is transposed: 'he and his servants divided themselves against them at night', as pursuers split into parties after fugitives who flee in different directions. The English adopts this order."
+    },
+    {
+     "anchor": "rashi:14:15:2",
+     "relation": "records",
+     "summary": "Rashi: after dark he did not hold back from pursuing them; the aggadic midrash says the night was divided, with a miracle in the first half, and the second half was kept for the midnight in Egypt. The English does not adopt the midrash."
+    },
+    {
+     "anchor": "rashi:14:15:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: no place is named Hobah; Dan is called Hobah because of the idolatry that would be there. This is a homily and the English keeps the name."
+    }
+   ]
+  },
+  {
+   "ref": "14:16",
+   "english": "He brought back all the goods, and also brought back Lot his brother and his goods, and also the women and the people.",
+   "literal": "and-brought-back [obj] all-of the-goods and-also [obj] Lot his-brother and-his-goods brought-back and-also [obj] the-women and [obj] the-people",
+   "tokens": [
+    {
+     "id": "14:16.1",
+     "gloss": "and he brought back",
+     "sense": "Hiph 1.a",
+     "note": "Hiphil wayyiqtol with the shortened form וַיָּשֶׁב"
+    },
+    {
+     "id": "14:16.2",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "14:16.3",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "14:16.4",
+     "gloss": "the goods",
+     "note": "the same word as in 14:11, with the article"
+    },
+    {
+     "id": "14:16.5",
+     "gloss": "and also",
+     "note": "גַּם: 'also, moreover'"
+    },
+    {
+     "id": "14:16.6",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "14:16.7",
+     "gloss": "Lot"
+    },
+    {
+     "id": "14:16.8",
+     "gloss": "his brother",
+     "sense": "1",
+     "note": "Lot, as in 14:14"
+    },
+    {
+     "id": "14:16.9",
+     "gloss": "and his goods",
+     "note": "a second object"
+    },
+    {
+     "id": "14:16.10",
+     "gloss": "he brought back",
+     "sense": "Hiph 1.a",
+     "note": "a perfect verb at the end of its clause"
+    },
+    {
+     "id": "14:16.11",
+     "gloss": "and also"
+    },
+    {
+     "id": "14:16.12",
+     "gloss": "-",
+     "note": "object marker"
+    },
+    {
+     "id": "14:16.13",
+     "gloss": "the women",
+     "sense": "1"
+    },
+    {
+     "id": "14:16.14",
+     "gloss": "and",
+     "note": "object marker with ו"
+    },
+    {
+     "id": "14:16.15",
+     "gloss": "the people",
+     "sense": "4"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "14:16.1",
+      "14:16.2",
+      "14:16.3",
+      "14:16.4"
+     ],
+     "english": "He brought back all the goods",
+     "literal": "'and-brought-back [obj] all-of the-goods'"
+    },
+    {
+     "tokens": [
+      "14:16.5",
+      "14:16.6",
+      "14:16.7",
+      "14:16.8",
+      "14:16.9",
+      "14:16.10"
+     ],
+     "english": "and also brought back Lot his brother and his goods",
+     "literal": "'and-also [obj] Lot his-brother and-his-goods brought-back'; the verb comes last for emphasis"
+    },
+    {
+     "tokens": [
+      "14:16.11",
+      "14:16.12",
+      "14:16.13"
+     ],
+     "english": "and also the women",
+     "literal": "'and-also [obj] the-women'"
+    },
+    {
+     "tokens": [
+      "14:16.14",
+      "14:16.15"
+     ],
+     "english": "and the people",
+     "literal": "'and [obj] the-people'"
+    }
+   ],
+   "grammar": [
+    "The verb in the first clause is Hiphil wayyiqtol וַיָּשֶׁב, from שׁוּב; its short form lacks the usual ה-vowel and is the shortened Hiphil, and it does not mean 'sit'.",
+    "In the second clause the verb is placed last (הֵשִׁיב, perfect), after its double object; this emphasis on Lot sets him apart from the general goods.",
+    "וְגַם ... וְגַם ... repeats 'and also' in the verse, as the narrator widens the list from goods to Lot and then to the captives.",
+    "The zaqef gadol on the first verb and the etnahta after 'the goods' divide the verse in two."
+   ],
+   "note": "הָעָם is rendered 'the people' with the entry sense 4, the persons taken from Sodom. 'Brother' for Lot is as in 14:14.",
+   "commentary": []
+  }
+ ]
+}

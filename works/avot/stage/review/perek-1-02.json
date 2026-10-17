@@ -1,0 +1,996 @@
+{
+ "unit": "perek-1-02",
+ "model": "opus",
+ "summary": "The English of 1:7-1:12 is faithful and follows Bartenura and Rambam throughout; only one English change, a word-order improvement in 1:8. The main faults are in the word analysis: many tokens were tied to the wrong homograph in BDB (place names Ain, Azem and Hobah, the god Baal, Shem, 'menstruation' for 'witness', 'foundation' for 'drink', 'father' for 'coming', the verb 'shine' for Hillel), and these are repointed to the Jastrow entries in the pack, or the sense is removed where the pack has no right entry. Other faults: a wrong transmission chain in a 1:8 phrase note, הִזָּהֲרוּ called Hitpael (it is Nifal) in both translation and morphology, the anticipatory suffix in מִתַּלְמִידָיו shown as a construct, wrong grammar notes on 1:11, and two inexact commentary summaries (Rambam 1:7, Bartenura 1:8:2). Morphology patches cover gender and number in עֵינֶיךָ, the Nifal participle label, and two roots.",
+ "patches": [
+  {
+   "ref": "1:7",
+   "path": "token:1:7.4.sense",
+   "value": "2.3.1",
+   "severity": "error",
+   "reason": "הַרְחֵק here has no object: 'keep (yourself) far', the intransitive Hiphil 'make or exhibit distance' (2.3.1), not the transitive 'remove, put (something) far away' (2.3.2)."
+  },
+  {
+   "ref": "1:7",
+   "path": "token:1:7.5.lex",
+   "value": "bdbs:שָׁכֵן",
+   "severity": "error",
+   "reason": "The word is the noun שָׁכֵן 'neighbour', not the verb שָׁכַן 'to dwell'; the pack lists bdbs:שָׁכֵן."
+  },
+  {
+   "ref": "1:7",
+   "path": "token:1:7.5.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "With the right entry, the sense is bdbs:שָׁכֵן 1.2 'neighbour' (the old sense 1.1.2 'to abide, dwell' was a sense of the verb)."
+  },
+  {
+   "ref": "1:7",
+   "path": "token:1:7.5.note",
+   "value": "noun שָׁכֵן 'neighbour' with מִן: 'from a neighbour'; Rabbeinu Yonah applies it to choosing where one lives.",
+   "severity": "error",
+   "reason": "The old note described the wrong lexicon entry, which is now corrected."
+  },
+  {
+   "ref": "1:7",
+   "path": "token:1:7.8.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The attached entry bdbs:חָבֵר is the noun 'associate, companion'; the token is the Hitpael verb 'join oneself to'. The pack lists no entry for the verb, so the sense is removed."
+  },
+  {
+   "ref": "1:7",
+   "path": "token:1:7.8.note",
+   "value": "Hitpael imperfect of חָבַר after אַל, a prohibition: 'join yourself to, associate with'. The lexicon entry attached is the related noun חָבֵר 'associate', not the verb, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "1:7",
+   "path": "commentary:rambam:1:7:1.summary",
+   "value": "Rambam: do not join the wicked in any kind of love or fellowship, so that you do not learn from his deeds. And when you sin, or see a sinner, do not feel secure and say that God will punish him only in the world to come; do not despair of swift punishment for that sin.",
+   "severity": "error",
+   "reason": "The summary left out that Rambam applies the clause to one's own sin ('כשתחטא') as well as to a sinner one sees, and misread 'במין אחד ממיני האהבה' as describing the prohibition rather than its scope."
+  },
+  {
+   "ref": "1:8",
+   "path": "english",
+   "value": "Judah son of Tabbai and Shimon son of Shetach received from them. Judah son of Tabbai says: Do not make yourself like those who arrange the pleas before the judges. When litigants stand before you, let them be in your eyes like the wicked; and when they depart from before you, let them be in your eyes like the innocent, once they have accepted the judgment upon themselves.",
+   "severity": "style",
+   "reason": "'accepted upon themselves the judgment' keeps Hebrew word order at the cost of the English; same sense."
+  },
+  {
+   "ref": "1:8",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:8.1",
+      "1:8.2",
+      "1:8.3"
+     ],
+     "english": "Judah son of Tabbai",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:8.4",
+      "1:8.5",
+      "1:8.6"
+     ],
+     "english": "and Shimon son of Shetach",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:8.7",
+      "1:8.8"
+     ],
+     "english": "received from them",
+     "literal": "'received from-them': from Joshua son of Perachiah and Nittai the Arbelite, the pair of 1:6-1:7 (so Rabbeinu Yonah)"
+    },
+    {
+     "tokens": [
+      "1:8.9",
+      "1:8.10",
+      "1:8.11"
+     ],
+     "english": "Judah son of Tabbai",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:8.12"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:8.13",
+      "1:8.14",
+      "1:8.15",
+      "1:8.16",
+      "1:8.17"
+     ],
+     "english": "Do not make yourself like those who arrange the pleas before the judges",
+     "literal": "'not make self-your like-arrangers-of the-judges'; arrangers (עוֹרְכִים) of litigants' pleas before the judges, as Bartenura and Rambam read"
+    },
+    {
+     "tokens": [
+      "1:8.18",
+      "1:8.19",
+      "1:8.20",
+      "1:8.21",
+      "1:8.22"
+     ],
+     "english": "When litigants stand before you",
+     "literal": "'and-when-are masters-of judgment standing before-you'"
+    },
+    {
+     "tokens": [
+      "1:8.23",
+      "1:8.24",
+      "1:8.25"
+     ],
+     "english": "let them be in your eyes like the wicked",
+     "literal": "'let-be in-your-eyes like-wicked'"
+    },
+    {
+     "tokens": [
+      "1:8.26",
+      "1:8.27"
+     ],
+     "english": "and when they depart from before you",
+     "literal": "'and-when-dismissed from-before-you'"
+    },
+    {
+     "tokens": [
+      "1:8.28",
+      "1:8.29",
+      "1:8.30"
+     ],
+     "english": "let them be in your eyes like the innocent",
+     "literal": "'let-be in-your-eyes like-innocent'"
+    },
+    {
+     "tokens": [
+      "1:8.31",
+      "1:8.32",
+      "1:8.33",
+      "1:8.34"
+     ],
+     "english": "once they have accepted the judgment upon themselves",
+     "literal": "'when-they-accepted upon-them [object-marker] the-judgment'; the English puts the object before 'upon themselves'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The literal of 'received from them' said the tradition came from 'Shemaiah and Avtalyon's predecessors, the pair of 1:6'; Judah and Shimon received from Joshua son of Perachiah and Nittai the Arbelite (1:6-1:7), and Shemaiah and Avtalyon come after them (1:10). The last phrases are also regrouped for the new English word order."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.6.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "שָׁטָח is a proper name; the attached entry bdbs:שָׁטַח is the verb 'to spread', and sense 1 is a sense of that verb. The pack has no entry for the name."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.6.note",
+   "value": "name. The lexicon entry attached is the verb שָׁטַח 'to spread', not the name, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.14.sense",
+   "value": "1.1.2.1",
+   "severity": "error",
+   "reason": "עשׂה עַצְמְךָ כְ... is 'make yourself (like)', BDB Qal 'to make' (1.1.2.1), not 'to act, act with effect' (1.1.1.4)."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.15.lex",
+   "value": "jastrow:עֶצֶם",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place name Azem; the word is עֶצֶם 'self', which the pack lists as jastrow:עֶצֶם."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.15.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Jastrow עֶצֶם 3 'substance, essence, self', citing Avot ('לעַצְמִי')."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.15.note",
+   "value": "עֶצֶם 'bone', in Mishnaic Hebrew 'self' (Jastrow 3); with the suffix עַצְמְךָ is the reflexive 'yourself'.",
+   "severity": "error",
+   "reason": "The old note described the place-name entry, now corrected."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.17.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The token is דַּיָּן 'judge'; the attached entry bdbs:דִּין is the noun 'judgment', a different word. The pack lists no entry for דַּיָּן, so the sense is removed."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.17.note",
+   "value": "דַּיָּן 'judge', a noun of the root דין; Mishnaic plural in -ין (Vilna הדיינין). The lexicon entry attached is דִּין 'judgment', not דַּיָּן, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.19.lex",
+   "value": "jastrow:בַּעַל",
+   "severity": "error",
+   "reason": "bdbs:בַּעַל is the god and person-name Baal; the word is בַּעַל 'owner of, party to', which the pack lists as jastrow:בַּעַל."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.19.sense",
+   "value": "5",
+   "severity": "error",
+   "reason": "Jastrow בַּעַל 5 'owner of, master of ... ב׳ דין opponent in court', the sense the translator's own note cites."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.24.lex",
+   "value": "jastrow:עַיִן",
+   "severity": "error",
+   "reason": "bdbs:עַיִן is the place name Ain; the word is עַיִן 'eye', which the pack lists as jastrow:עַיִן (sense 1 'eye, sight')."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.24.note",
+   "value": "בְּעֵינֶיךָ 'in your eyes', i.e. in your view; עַיִן 'eye' is feminine, here in the dual with the suffix ־ֶיךָ.",
+   "severity": "error",
+   "reason": "The old note described the place-name entry, now corrected; the dual is worth a learner's note."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.29.lex",
+   "value": "jastrow:עַיִן",
+   "severity": "error",
+   "reason": "As 1:8.24: bdbs:עַיִן is the place name Ain; jastrow:עַיִן sense 1 is 'eye, sight'."
+  },
+  {
+   "ref": "1:8",
+   "path": "commentary:bartenura:1:8:2.summary",
+   "value": "Bartenura: let your heart not incline to either party by saying 'so-and-so is a man of standing and would not make a false claim'; if you think so, you will not be able to see his guilt.",
+   "severity": "error",
+   "reason": "Bartenura reports what the judge must not think ('ולא יטען טענת שקר': 'he would not plead falsely'); the summary turned it into a command, 'let him not plead a false plea'."
+  },
+  {
+   "ref": "1:8",
+   "path": "morph:1:8.24",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עין",
+    "morphemes": [
+     {
+      "form": "בְ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "עֵינֶי",
+      "lemma": "עַיִן",
+      "pos": "noun",
+      "parse": "common, feminine, dual, construct"
+     },
+     {
+      "form": "ךָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "עַיִן is feminine (Jastrow: 'f.'), and עֵינֶיךָ is the dual of a paired body part, not a masculine plural."
+  },
+  {
+   "ref": "1:8",
+   "path": "morph:1:8.26",
+   "value": {
+    "lang": "mishnaic",
+    "root": "פטר",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "כְּ",
+      "lemma": "כ: like, as",
+      "pos": "conjunction",
+      "parse": "temporal conjunction, when"
+     },
+     {
+      "form": "שֶׁ",
+      "lemma": "ש: who, which, that",
+      "pos": "conjunction",
+      "parse": "subordinating particle (relative)"
+     },
+     {
+      "form": "נִּפְטָרִים",
+      "lemma": "פָּטַר",
+      "pos": "verb",
+      "parse": "nifal, participle active, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "In this scheme (from OSHB) 'participle passive' is the Qal passive participle (qatul); the Nifal participle is labelled 'participle active', as in the OSHB data of the Genesis corpus."
+  },
+  {
+   "ref": "1:8",
+   "path": "morph:1:8.29",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עין",
+    "morphemes": [
+     {
+      "form": "בְ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "עֵינֶי",
+      "lemma": "עַיִן",
+      "pos": "noun",
+      "parse": "common, feminine, dual, construct"
+     },
+     {
+      "form": "ךָ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 2nd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "As 1:8.24: עַיִן is feminine, and the form is dual."
+  },
+  {
+   "ref": "1:9",
+   "path": "token:1:9.3.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "שָׁטָח is a proper name; sense 1 of bdbs:שָׁטַח is the verb 'to spread'. The pack has no entry for the name."
+  },
+  {
+   "ref": "1:9",
+   "path": "token:1:9.3.note",
+   "value": "name. The lexicon entry attached is the verb שָׁטַח 'to spread', not the name, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "1:9",
+   "path": "token:1:9.9.lex",
+   "value": "jastrow:עֵד",
+   "severity": "error",
+   "reason": "bdbs:עֵד is 'menstruation' (עֵד of Is. 64:5); the word is עֵד 'witness', which the pack lists as jastrow:עֵד (sense 1 'witness, evidence')."
+  },
+  {
+   "ref": "1:9",
+   "path": "token:1:9.9.note",
+   "value": "עֵדִים, plural of עֵד 'witness'; with the article, 'the witnesses' of the case before the judge.",
+   "severity": "error",
+   "reason": "The old note described the wrong entry, now corrected."
+  },
+  {
+   "ref": "1:10",
+   "path": "token:1:10.14.lex",
+   "value": "jastrow:יָדַע",
+   "severity": "error",
+   "reason": "bdbs:יָדַע lists no Hitpael; the pack's jastrow:יָדַע has the Hitpael sense for this very passage."
+  },
+  {
+   "ref": "1:10",
+   "path": "token:1:10.14.sense",
+   "value": "7.3",
+   "severity": "error",
+   "reason": "Jastrow יָדַע 7.3 (Hitpa.) 'to force one's self upon the notice of, to pretend friendship for', citing Avot 1:10. The old sense 1.1.1.1 was the Qal 'to know'."
+  },
+  {
+   "ref": "1:10",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:10.1",
+      "1:10.2"
+     ],
+     "english": "Shemaiah and Avtalyon",
+     "literal": "names"
+    },
+    {
+     "tokens": [
+      "1:10.3",
+      "1:10.4"
+     ],
+     "english": "received from them",
+     "literal": "the tradition passed on from Judah son of Tabbai and Shimon son of Shetach"
+    },
+    {
+     "tokens": [
+      "1:10.5"
+     ],
+     "english": "Shemaiah",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:10.6"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:10.7"
+     ],
+     "english": "Love",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "1:10.8"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "1:10.9"
+     ],
+     "english": "work",
+     "literal": "'the-work'; the occupation, a trade"
+    },
+    {
+     "tokens": [
+      "1:10.10"
+     ],
+     "english": "hate",
+     "literal": "imperative"
+    },
+    {
+     "tokens": [
+      "1:10.11"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "1:10.12"
+     ],
+     "english": "lordship",
+     "literal": "'the-mastery'; rabbinic or public office, as the commentators read"
+    },
+    {
+     "tokens": [
+      "1:10.13",
+      "1:10.14",
+      "1:10.15"
+     ],
+     "english": "and do not make yourself known to the ruling power",
+     "literal": "'and-not make-yourself-known to-the-ruling-power'; do not seek the notice or friendship of the authorities"
+    }
+   ],
+   "severity": "style",
+   "reason": "The names follow decisions.md ('Judah son of Tabbai', 'Shimon son of Shetach'), not 'Yehuda and Shimon'; the last literal gives the sense of the Hitpael (Jastrow 7.3, Bartenura)."
+  },
+  {
+   "ref": "1:10",
+   "path": "morph:1:10.12",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רבב",
+    "morphemes": [
+     {
+      "form": "הָ",
+      "lemma": "ה: the",
+      "pos": "article",
+      "parse": "article"
+     },
+     {
+      "form": "רַבָּנוּת",
+      "lemma": "רַבָּנוּת",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רַבָּנוּת is formed from רַבָּן (Jastrow: 'v. רַבָּן'), from רַב, root רבב; there is no root רבן."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.4.note",
+   "value": "Nifal imperative, 2nd masculine plural, of זהר: 'be on your guard'. The ז is doubled because the נ of the Nifal assimilates (הִזָּהֵר, plural הִזָּהֲרוּ); a Hitpael would be הִזְדַּהֲרוּ. The pack gives no lexicon entry.",
+   "severity": "error",
+   "reason": "The form is Nifal, not Hitpael."
+  },
+  {
+   "ref": "1:11",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:11.1"
+     ],
+     "english": "Avtalyon",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:11.2"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:11.3"
+     ],
+     "english": "Sages",
+     "literal": "vocative"
+    },
+    {
+     "tokens": [
+      "1:11.4",
+      "1:11.5"
+     ],
+     "english": "be careful with your words",
+     "literal": "'be-on-guard in-your-words'; Nifal imperative 'be on your guard'"
+    },
+    {
+     "tokens": [
+      "1:11.6",
+      "1:11.7",
+      "1:11.8",
+      "1:11.9"
+     ],
+     "english": "lest you incur the liability of exile",
+     "literal": "'lest you-incur liability-of exile'; חוֹבַת גָּלוּת, a liability to exile through guilt"
+    },
+    {
+     "tokens": [
+      "1:11.10",
+      "1:11.11",
+      "1:11.12",
+      "1:11.13"
+     ],
+     "english": "and be exiled to a place of evil waters",
+     "literal": "'and-you-be-exiled to-place-of waters the-evil'; the evil waters are a figure for heresy, as Rambam and Bartenura read"
+    },
+    {
+     "tokens": [
+      "1:11.14",
+      "1:11.15",
+      "1:11.16",
+      "1:11.17"
+     ],
+     "english": "and the disciples who come after you drink",
+     "literal": "'and-drink the-disciples the-coming after-you'"
+    },
+    {
+     "tokens": [
+      "1:11.18"
+     ],
+     "english": "and die",
+     "literal": "'and-die'"
+    },
+    {
+     "tokens": [
+      "1:11.19",
+      "1:11.20",
+      "1:11.21",
+      "1:11.22"
+     ],
+     "english": "and so it turns out that the name of Heaven is profaned",
+     "literal": "'and-is-found name-of Heaven being-profaned'; the profanation of God's name"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase literal called הִזָּהֲרוּ a Hitpael imperative; it is a Nifal imperative."
+  },
+  {
+   "ref": "1:11",
+   "path": "grammar",
+   "value": [
+    "הִזָּהֲרוּ is a Nifal imperative plural: the נ of the Nifal is assimilated into the doubled ז.",
+    "After שֶׁמָּא 'lest' a chain of consequences follows: תָחוּבוּ, then four verbs joined by וְ (וְתִגְלוּ, וְיִשְׁתּוּ, וְיָמוּתוּ, וְנִמְצָא), and last the participle מִתְחַלֵּל.",
+    "חֲכָמִים is a vocative: 'O sages'.",
+    "תָחוּבוּ חוֹבַת is a cognate object, verb and noun from the root חוב ('incur a liability'); גָּלוּת וְתִגְלוּ then repeats the root גלה.",
+    "נִמְצָא plus participle: 'it turns out that (the name of Heaven) is being profaned'.",
+    "מַיִם הָרָעִים: figurative: the evil waters are heretical teachings that the disciples would 'drink'."
+   ],
+   "severity": "error",
+   "reason": "Two notes were wrong: not 'six verbs with וְ' (תָחוּבוּ follows שֶׁמָּא directly and מִתְחַלֵּל is a participle without וְ), and the play on the root is תָחוּבוּ חוֹבַת and גָּלוּת וְתִגְלוּ, not within חוֹבַת גָּלוּת. A note on the Nifal is added."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.8.lex",
+   "value": "jastrow:חוֹבָה",
+   "severity": "error",
+   "reason": "bdbs:חוֹבָה is the place name Hobah; the word is חוֹבָה 'obligation, liability', which the pack lists as jastrow:חוֹבָה (sense 1)."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.8.note",
+   "value": "construct of חוֹבָה 'obligation, liability' (root חוב), bound to גָּלוּת: 'a liability of exile'.",
+   "severity": "error",
+   "reason": "The old note described the place-name entry, now corrected."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.14.lex",
+   "value": "jastrow:שָׁתָה",
+   "severity": "error",
+   "reason": "bdbs:שָׁתָה is a noun 'foundation'; the pack's jastrow:שָׁתָה is the verb 'to drink' (a cross-reference to שתי)."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.14.note",
+   "value": "Qal imperfect 3rd masculine plural of the final-ה verb שָׁתָה 'drink'; וְ joins it to the chain of consequences.",
+   "severity": "error",
+   "reason": "The old note described the wrong entry, now corrected."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.16.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is a noun 'father' (= אַבָּא); the pack's jastrow:בָּא III is 'part. of בּוֹא, coming'."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.16.note",
+   "value": "Qal participle of the hollow verb בּוֹא 'come', with the article as a relative: 'the ones coming', i.e. 'who come'.",
+   "severity": "error",
+   "reason": "The old note described the wrong entry, now corrected."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.18.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:מֵת is the participle-adjective 'dying, dead; corpse'; the token is the finite verb 'they will die'. The pack lists no entry for the verb מוּת, so the sense is removed."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.18.note",
+   "value": "Qal imperfect 3rd masculine plural of the hollow verb מוּת 'die' (lemma מֵת). The lexicon entry attached is the adjective 'dead', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense was removed."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.20.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the person Shem; the word is the noun 'name', which the pack lists as jastrow:שֵׁם II (sense 1 'mark, name')."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.20.note",
+   "value": "construct of שֵׁם 'name', bound to שָׁמַיִם: 'the name of Heaven', i.e. of God.",
+   "severity": "error",
+   "reason": "The old note described the wrong entry, now corrected."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.22.lex",
+   "value": "jastrow:חָלַל",
+   "severity": "error",
+   "reason": "bdbs:חָלַל lists no Hitpael; the pack's jastrow:חָלַל has the Hitpael sense for this passage."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.22.sense",
+   "value": "11.2",
+   "severity": "error",
+   "reason": "Jastrow חָלַל 11.2 (Hithpa.) 'to be profaned, desecrated', citing Avot 1:11. The old sense was a Nifal of BDB."
+  },
+  {
+   "ref": "1:11",
+   "path": "commentary:bartenura:1:11:2.summary",
+   "value": "Bartenura: even if there are no heretics where you are, sin may bring exile to a place of people who interpret the Torah against the halakhah ('מראים פנים בתורה שלא כהלכה'); they are the 'evil waters'. They will draw improper meanings from your words, and the disciples who come after you will drink these heretical words and die in their guilt.",
+   "severity": "style",
+   "reason": "'give the Torah a false appearance' does not render the idiom 'show faces in the Torah not according to the halakhah', which means to interpret it falsely; the step 'they will draw improper meanings from your words' was left out."
+  },
+  {
+   "ref": "1:11",
+   "path": "morph:1:11.4",
+   "value": {
+    "lang": "mishnaic",
+    "root": "זהר",
+    "morphemes": [
+     {
+      "form": "הִזָּהֲרוּ",
+      "lemma": "זָהַר",
+      "pos": "verb",
+      "parse": "nifal, imperative, 2nd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "הִזָּהֲרוּ is Nifal (assimilated נ doubles the ז: הִזָּהֵר); the Hitpael of זהר would be הִזְדַּהֲרוּ."
+  },
+  {
+   "ref": "1:11",
+   "path": "morph:1:11.20",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שום",
+    "morphemes": [
+     {
+      "form": "שֵׁם",
+      "lemma": "שֵׁם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "שמם is the root 'be desolate'; Jastrow derives שֵׁם 'name' from שׁוּם (jastrow:שֵׁם II: 'v. שׁוּם')."
+  },
+  {
+   "ref": "1:12",
+   "path": "token:1:12.1.lex",
+   "value": "jastrow:הִלֵּל",
+   "severity": "error",
+   "reason": "bdbs:הָלַל is the verb 'to shine, praise'; the word is the name Hillel, which the pack lists as jastrow:הִלֵּל."
+  },
+  {
+   "ref": "1:12",
+   "path": "token:1:12.1.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow הִלֵּל 2: Hillel the Babylonian, the Elder, colleague of Shammai."
+  },
+  {
+   "ref": "1:12",
+   "path": "token:1:12.5.lex",
+   "value": "jastrow:הִלֵּל",
+   "severity": "error",
+   "reason": "As 1:12.1."
+  },
+  {
+   "ref": "1:12",
+   "path": "token:1:12.5.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "As 1:12.1: Hillel the Elder."
+  },
+  {
+   "ref": "1:12",
+   "path": "token:1:12.2.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "Jastrow שַׁמַּאי 2 is Shammai the Elder, colleague of Hillel; sense 1 is only the headword."
+  },
+  {
+   "ref": "1:12",
+   "path": "token:1:12.19.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "bdbs:תּוֹרָה offers only 'custom, manner, law (of man)' (2 Sam 7:19); the pack's jastrow:תּוֹרָה 1 is 'teaching, law, esp. the Law of Moses'."
+  },
+  {
+   "ref": "1:12",
+   "path": "literal",
+   "value": "Hillel and-Shammai received from-them Hillel says be from-his-disciples of Aaron loving peace and-pursuing peace loving [object-marker] the-creatures and-bringing-them-near to-the-Torah",
+   "severity": "error",
+   "reason": "מִתַּלְמִידָיו is not a construct 'of-disciples-of': it carries the suffix 'his' (־ָיו), which שֶׁל אַהֲרֹן then names."
+  },
+  {
+   "ref": "1:12",
+   "path": "token:1:12.8.note",
+   "value": "מִן + תַּלְמִידָיו 'his disciples': the suffix ־ָיו anticipates שֶׁל אַהֲרֹן ('his disciples, of Aaron' = 'the disciples of Aaron'); מִן is partitive, 'one of'.",
+   "severity": "error",
+   "reason": "The note did not explain the anticipatory suffix, and the literal had it as a construct."
+  },
+  {
+   "ref": "1:12",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "1:12.1",
+      "1:12.2"
+     ],
+     "english": "Hillel and Shammai",
+     "literal": "names"
+    },
+    {
+     "tokens": [
+      "1:12.3",
+      "1:12.4"
+     ],
+     "english": "received from them",
+     "literal": "the tradition, from Shemaiah and Avtalyon (so Rabbeinu Yonah)"
+    },
+    {
+     "tokens": [
+      "1:12.5"
+     ],
+     "english": "Hillel",
+     "literal": "name"
+    },
+    {
+     "tokens": [
+      "1:12.6"
+     ],
+     "english": "says",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:12.7",
+      "1:12.8",
+      "1:12.9",
+      "1:12.10"
+     ],
+     "english": "Be of the disciples of Aaron",
+     "literal": "'be from-his-disciples of Aaron'; the suffix 'his' anticipates שֶׁל אַהֲרֹן"
+    },
+    {
+     "tokens": [
+      "1:12.11",
+      "1:12.12"
+     ],
+     "english": "loving peace",
+     "literal": "participle plus object"
+    },
+    {
+     "tokens": [
+      "1:12.13",
+      "1:12.14"
+     ],
+     "english": "and pursuing peace",
+     "literal": "'and-pursuing peace'"
+    },
+    {
+     "tokens": [
+      "1:12.15"
+     ],
+     "english": "loving",
+     "literal": "participle"
+    },
+    {
+     "tokens": [
+      "1:12.16"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "1:12.17"
+     ],
+     "english": "people",
+     "literal": "'the creatures'; all human beings"
+    },
+    {
+     "tokens": [
+      "1:12.18",
+      "1:12.19"
+     ],
+     "english": "and bringing them near to the Torah",
+     "literal": "'and-bringing-them-near to-the-Torah'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase literal 'be of-disciples-of of Aaron' misread the suffixed noun as a construct."
+  },
+  {
+   "ref": "1:12",
+   "path": "grammar",
+   "value": [
+    "הֱוֵי מִתַּלְמִידָיו שֶׁל אַהֲרֹן: מִ is partitive, 'one of'. תַּלְמִידָיו 'his disciples' carries a suffix that anticipates the possessor named by שֶׁל: 'his disciples, of Aaron', a common Mishnaic construction.",
+    "Four participles, אוֹהֵב, רוֹדֵף, אוֹהֵב, מְקָרְבָן, follow the imperative as a list of Aaron's qualities.",
+    "שָׁלוֹם is repeated: 'love peace and pursue peace': a pair of verbs of increasing effort.",
+    "הַבְּרִיּוֹת is 'creatures': here human beings generally, not only Israel; מְקָרְבָן has the feminine suffix -ן on 'them'."
+   ],
+   "severity": "error",
+   "reason": "The first note did not explain the anticipatory suffix on תַּלְמִידָיו, the point a learner needs here."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:1:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:7:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:7:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:8:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:8:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:10:1",
+   "verdict": "not-applicable",
+   "comment": "on the names Shemaiah and Avtalyon, not the sense of the saying"
+  },
+  {
+   "anchor": "bartenura:1:10:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:10:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:10:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:11:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:1:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:1:12:1",
+   "verdict": "consistent"
+  }
+ ]
+}

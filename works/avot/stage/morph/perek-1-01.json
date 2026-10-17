@@ -1,0 +1,453 @@
+{
+  "unit": "perek-1-01",
+  "model": "haiku",
+  "tokens": [
+    {"id": "1:1.1", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "משֶׁה", "lemma": "מֹשֶׁה", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:1.2", "lang": "mishnaic", "root": "קבל", "morphemes": [
+      {"form": "קִבֵּל", "lemma": "קָבַל", "pos": "verb", "parse": "piel, perfect (qatal), 3rd person, masculine, singular"}]},
+    {"id": "1:1.3", "lang": "mishnaic", "root": "ירה", "morphemes": [
+      {"form": "תּוֹרָה", "lemma": "תּוֹרָה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:1.4", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "מִ", "lemma": "מ: from, than", "pos": "preposition", "parse": "preposition"},
+      {"form": "סִּינַי", "lemma": "סִינַי", "pos": "noun", "parse": "proper name, place"}]},
+    {"id": "1:1.5", "lang": "mishnaic", "root": "מסר", "morphemes": [
+      {"form": "וּ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "מְסָרָ", "lemma": "מָסַר", "pos": "verb", "parse": "qal, perfect (qatal), 3rd person, masculine, singular"},
+      {"form": "הּ", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, feminine, singular"}]},
+    {"id": "1:1.6", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "לִ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "יהוֹשֻׁעַ", "lemma": "יְהוֹשֻׁעַ", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:1.7", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "וִ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "יהוֹשֻׁעַ", "lemma": "יְהוֹשֻׁעַ", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:1.8", "lang": "mishnaic", "root": "זקן", "morphemes": [
+      {"form": "לִ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "זְקֵנִים", "lemma": "זָקֵן", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:1.9", "lang": "mishnaic", "root": "זקן", "morphemes": [
+      {"form": "וּ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "זְקֵנִים", "lemma": "זָקֵן", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:1.10", "lang": "mishnaic", "root": "נבא", "morphemes": [
+      {"form": "לִ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "נְבִיאִים", "lemma": "נָבִיא", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:1.11", "lang": "mishnaic", "root": "נבא", "morphemes": [
+      {"form": "וּ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "נְבִיאִים", "lemma": "נָבִיא", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:1.12", "lang": "mishnaic", "root": "מסר", "morphemes": [
+      {"form": "מְסָרוּ", "lemma": "מָסַר", "pos": "verb", "parse": "qal, perfect (qatal), 3rd person, masculine, plural"},
+      {"form": "הָ", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, feminine, singular"}]},
+    {"id": "1:1.13", "lang": "mishnaic", "root": "איש", "morphemes": [
+      {"form": "לְ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "אַנְשֵׁי", "lemma": "אִישׁ", "pos": "noun", "parse": "common, masculine, plural, construct"}]},
+    {"id": "1:1.14", "lang": "mishnaic", "root": "כנס", "morphemes": [
+      {"form": "כְנֶסֶת", "lemma": "כְּנֶסֶת", "pos": "noun", "parse": "common, feminine, singular, construct"}]},
+    {"id": "1:1.15", "lang": "mishnaic", "root": "גדל", "morphemes": [
+      {"form": "הַ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "גְּדוֹלָה", "lemma": "גָּדוֹל", "pos": "adjective", "parse": "adjective, feminine, singular, absolute"}]},
+    {"id": "1:1.16", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "הֵם", "lemma": "הֵם", "pos": "pronoun", "parse": "personal pronoun, 3rd person, masculine, plural"}]},
+    {"id": "1:1.17", "lang": "mishnaic", "root": "אמר", "morphemes": [
+      {"form": "אָמְרוּ", "lemma": "אָמַר", "pos": "verb", "parse": "qal, perfect (qatal), 3rd person, masculine, plural"}]},
+    {"id": "1:1.18", "lang": "mishnaic", "root": "שלש", "morphemes": [
+      {"form": "שְׁלשָׁה", "lemma": "שָׁלוֹשׁ", "pos": "numeral", "parse": "cardinal numeral, three, absolute"}]},
+    {"id": "1:1.19", "lang": "mishnaic", "root": "דבר", "morphemes": [
+      {"form": "דְבָרִים", "lemma": "דָּבָר", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:1.20", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "הֱווּ", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperative, 2nd person, masculine, plural"}]},
+    {"id": "1:1.21", "lang": "mishnaic", "root": "תון", "morphemes": [
+      {"form": "מְתוּנִים", "lemma": "מָתוּן", "pos": "adjective", "parse": "adjective, masculine, plural, absolute"}]},
+    {"id": "1:1.22", "lang": "mishnaic", "root": "דין", "morphemes": [
+      {"form": "בַּ", "lemma": "ב: in, with, by", "pos": "preposition", "parse": "preposition"},
+      {"form": "דִּין", "lemma": "דִּין", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:1.23", "lang": "mishnaic", "root": "עמד", "morphemes": [
+      {"form": "וְ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "הַעֲמִידוּ", "lemma": "עָמַד", "pos": "verb", "parse": "hifil, imperative, 2nd person, masculine, plural"}]},
+    {"id": "1:1.24", "lang": "mishnaic", "root": "למד", "morphemes": [
+      {"form": "תַלְמִידִים", "lemma": "תַּלְמִיד", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:1.25", "lang": "mishnaic", "root": "רבה", "morphemes": [
+      {"form": "הַרְבֵּה", "lemma": "הַרְבֵּה", "pos": "adjective", "parse": "adjective, invariable, many"}]},
+    {"id": "1:1.26", "lang": "mishnaic", "root": "עשה", "morphemes": [
+      {"form": "וַ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "עֲשׂוּ", "lemma": "עָשָׂה", "pos": "verb", "parse": "qal, imperative, 2nd person, masculine, plural"}]},
+    {"id": "1:1.27", "lang": "mishnaic", "root": "סיג", "morphemes": [
+      {"form": "סְיָג", "lemma": "סְיָג", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:1.28", "lang": "mishnaic", "root": "ירה", "morphemes": [
+      {"form": "לַ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "תּוֹרָה", "lemma": "תּוֹרָה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+
+    {"id": "1:2.1", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "שִׁמְעוֹן", "lemma": "שִׁמְעוֹן", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:2.2", "lang": "mishnaic", "root": "צדק", "morphemes": [
+      {"form": "הַ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "צַּדִּיק", "lemma": "צַדִּיק", "pos": "adjective", "parse": "adjective, masculine, singular, absolute"}]},
+    {"id": "1:2.3", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "הָיָה", "lemma": "הָיָה", "pos": "verb", "parse": "qal, perfect (qatal), 3rd person, masculine, singular"}]},
+    {"id": "1:2.4", "lang": "mishnaic", "root": "שאר", "morphemes": [
+      {"form": "מִ", "lemma": "מ: from, than", "pos": "preposition", "parse": "preposition"},
+      {"form": "שְּׁיָרֵי", "lemma": "שְׁיָר", "pos": "noun", "parse": "common, masculine, plural, construct"}]},
+    {"id": "1:2.5", "lang": "mishnaic", "root": "כנס", "morphemes": [
+      {"form": "כְנֶסֶת", "lemma": "כְּנֶסֶת", "pos": "noun", "parse": "common, feminine, singular, construct"}]},
+    {"id": "1:2.6", "lang": "mishnaic", "root": "גדל", "morphemes": [
+      {"form": "הַ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "גְּדוֹלָה", "lemma": "גָּדוֹל", "pos": "adjective", "parse": "adjective, feminine, singular, absolute"}]},
+    {"id": "1:2.7", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "הוּא", "lemma": "הוּא", "pos": "pronoun", "parse": "personal pronoun, 3rd person, masculine, singular"}]},
+    {"id": "1:2.8", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "הָיָה", "lemma": "הָיָה", "pos": "verb", "parse": "qal, perfect (qatal), 3rd person, masculine, singular"}]},
+    {"id": "1:2.9", "lang": "mishnaic", "root": "אמר", "morphemes": [
+      {"form": "אוֹמֵר", "lemma": "אָמַר", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:2.10", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "עַל", "lemma": "עַל", "pos": "preposition", "parse": "preposition"}]},
+    {"id": "1:2.11", "lang": "mishnaic", "root": "שלש", "morphemes": [
+      {"form": "שְׁלשָׁה", "lemma": "שָׁלוֹשׁ", "pos": "numeral", "parse": "cardinal numeral, three, absolute"}]},
+    {"id": "1:2.12", "lang": "mishnaic", "root": "דבר", "morphemes": [
+      {"form": "דְבָרִים", "lemma": "דָּבָר", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:2.13", "lang": "mishnaic", "root": "עלם", "morphemes": [
+      {"form": "הָ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "עוֹלָם", "lemma": "עוֹלָם", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:2.14", "lang": "mishnaic", "root": "עמד", "morphemes": [
+      {"form": "עוֹמֵד", "lemma": "עָמַד", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:2.15", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "עַל", "lemma": "עַל", "pos": "preposition", "parse": "preposition"}]},
+    {"id": "1:2.16", "lang": "mishnaic", "root": "ירה", "morphemes": [
+      {"form": "הַ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "תּוֹרָה", "lemma": "תּוֹרָה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:2.17", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "וְ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "עַל", "lemma": "עַל", "pos": "preposition", "parse": "preposition"}]},
+    {"id": "1:2.18", "lang": "mishnaic", "root": "עבד", "morphemes": [
+      {"form": "הָ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "עֲבוֹדָה", "lemma": "עֲבוֹדָה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:2.19", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "וְ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "עַל", "lemma": "עַל", "pos": "preposition", "parse": "preposition"}]},
+    {"id": "1:2.20", "lang": "mishnaic", "root": "גמל", "morphemes": [
+      {"form": "גְּמִילוּת", "lemma": "גְּמִילוּת", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:2.21", "lang": "mishnaic", "root": "חסד", "morphemes": [
+      {"form": "חֲסָדִים", "lemma": "חֶסֶד", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+
+    {"id": "1:3.1", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "אַנְטִיגְנוֹס", "lemma": "אַנְטִיגְנוֹס", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:3.2", "lang": "mishnaic", "root": "איש", "morphemes": [
+      {"form": "אִישׁ", "lemma": "אִישׁ", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:3.3", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "סוֹכוֹ", "lemma": "סוֹכוֹ", "pos": "noun", "parse": "proper name, place"}]},
+    {"id": "1:3.4", "lang": "mishnaic", "root": "קבל", "morphemes": [
+      {"form": "קִבֵּל", "lemma": "קָבַל", "pos": "verb", "parse": "piel, perfect (qatal), 3rd person, masculine, singular"}]},
+    {"id": "1:3.5", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "מִ", "lemma": "מ: from, than", "pos": "preposition", "parse": "preposition"},
+      {"form": "שִּׁמְעוֹן", "lemma": "שִׁמְעוֹן", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:3.6", "lang": "mishnaic", "root": "צדק", "morphemes": [
+      {"form": "הַ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "צַּדִּיק", "lemma": "צַדִּיק", "pos": "adjective", "parse": "adjective, masculine, singular, absolute"}]},
+    {"id": "1:3.7", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "הוּא", "lemma": "הוּא", "pos": "pronoun", "parse": "personal pronoun, 3rd person, masculine, singular"}]},
+    {"id": "1:3.8", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "הָיָה", "lemma": "הָיָה", "pos": "verb", "parse": "qal, perfect (qatal), 3rd person, masculine, singular"}]},
+    {"id": "1:3.9", "lang": "mishnaic", "root": "אמר", "morphemes": [
+      {"form": "אוֹמֵר", "lemma": "אָמַר", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:3.10", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "אַל", "lemma": "אַל", "pos": "particle", "parse": "negative particle, prohibitive"}]},
+    {"id": "1:3.11", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "תִּהְיוּ", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperfect (yiqtol), 2nd person, masculine, plural"}]},
+    {"id": "1:3.12", "lang": "mishnaic", "root": "עבד", "morphemes": [
+      {"form": "כַ", "lemma": "כ: like, as", "pos": "preposition", "parse": "preposition"},
+      {"form": "עֲבָדִים", "lemma": "עֶבֶד", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:3.13", "lang": "mishnaic", "root": "שמש", "morphemes": [
+      {"form": "הַ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "מְשַׁמְּשִׁין", "lemma": "שָׁמַשׁ", "pos": "verb", "parse": "piel, participle active, masculine, plural, absolute"}]},
+    {"id": "1:3.14", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "אֶת", "lemma": "אֶת", "pos": "particle", "parse": "direct object marker"}]},
+    {"id": "1:3.15", "lang": "mishnaic", "root": "רבב", "morphemes": [
+      {"form": "הָ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "רַב", "lemma": "רַב", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:3.16", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "עַל", "lemma": "עַל", "pos": "preposition", "parse": "preposition"}]},
+    {"id": "1:3.17", "lang": "mishnaic", "root": "מנה", "morphemes": [
+      {"form": "מְנָת", "lemma": "מָנָה", "pos": "noun", "parse": "common, feminine, singular, construct"}]},
+    {"id": "1:3.18", "lang": "mishnaic", "root": "קבל", "morphemes": [
+      {"form": "לְ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "קַבֵּל", "lemma": "קָבַל", "pos": "verb", "parse": "piel, infinitive construct"}]},
+    {"id": "1:3.19", "lang": "mishnaic", "root": "פרס", "morphemes": [
+      {"form": "פְּרָס", "lemma": "פְּרָס", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:3.20", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "אֶלָּא", "lemma": "אֶלָּא", "pos": "conjunction", "parse": "adversative conjunction"}]},
+    {"id": "1:3.21", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "הֱווּ", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperative, 2nd person, masculine, plural"}]},
+    {"id": "1:3.22", "lang": "mishnaic", "root": "עבד", "morphemes": [
+      {"form": "כַ", "lemma": "כ: like, as", "pos": "preposition", "parse": "preposition"},
+      {"form": "עֲבָדִים", "lemma": "עֶבֶד", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:3.23", "lang": "mishnaic", "root": "שמש", "morphemes": [
+      {"form": "הַ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "מְשַׁמְּשִׁין", "lemma": "שָׁמַשׁ", "pos": "verb", "parse": "piel, participle active, masculine, plural, absolute"}]},
+    {"id": "1:3.24", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "אֶת", "lemma": "אֶת", "pos": "particle", "parse": "direct object marker"}]},
+    {"id": "1:3.25", "lang": "mishnaic", "root": "רבב", "morphemes": [
+      {"form": "הָ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "רַב", "lemma": "רַב", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:3.26", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "שֶׁ", "lemma": "ש: who, which, that", "pos": "particle", "parse": "relative particle"},
+      {"form": "לֹּא", "lemma": "לֹא", "pos": "particle", "parse": "negative particle"}]},
+    {"id": "1:3.27", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "עַל", "lemma": "עַל", "pos": "preposition", "parse": "preposition"}]},
+    {"id": "1:3.28", "lang": "mishnaic", "root": "מנה", "morphemes": [
+      {"form": "מְנָת", "lemma": "מָנָה", "pos": "noun", "parse": "common, feminine, singular, construct"}]},
+    {"id": "1:3.29", "lang": "mishnaic", "root": "קבל", "morphemes": [
+      {"form": "לְ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "קַבֵּל", "lemma": "קָבַל", "pos": "verb", "parse": "piel, infinitive construct"}]},
+    {"id": "1:3.30", "lang": "mishnaic", "root": "פרס", "morphemes": [
+      {"form": "פְּרָס", "lemma": "פְּרָס", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:3.31", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "וִ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "יהִי", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperfect (yiqtol), 3rd person, masculine, singular"}]},
+    {"id": "1:3.32", "lang": "mishnaic", "root": "ירא", "morphemes": [
+      {"form": "מוֹרָא", "lemma": "מוֹרָא", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:3.33", "lang": "mishnaic", "root": "שמם", "morphemes": [
+      {"form": "שָׁמַיִם", "lemma": "שָׁמַיִם", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:3.34", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "עֲלֵ", "lemma": "עַל", "pos": "preposition", "parse": "preposition"},
+      {"form": "יכֶם", "lemma": "", "pos": "suffix", "parse": "pronominal, 2nd person, masculine, plural"}]},
+
+    {"id": "1:4.1", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יוֹסֵי", "lemma": "יוֹסֵי", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:4.2", "lang": "mishnaic", "root": "בנה", "morphemes": [
+      {"form": "בֶן", "lemma": "בֵּן", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:4.3", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יוֹעֶזֶר", "lemma": "יוֹעֶזֶר", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:4.4", "lang": "mishnaic", "root": "איש", "morphemes": [
+      {"form": "אִישׁ", "lemma": "אִישׁ", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:4.5", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "צְרֵדָה", "lemma": "צְרֵדָה", "pos": "noun", "parse": "proper name, place"}]},
+    {"id": "1:4.6", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "וְ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "יוֹסֵי", "lemma": "יוֹסֵי", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:4.7", "lang": "mishnaic", "root": "בנה", "morphemes": [
+      {"form": "בֶן", "lemma": "בֵּן", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:4.8", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יוֹחָנָן", "lemma": "יוֹחָנָן", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:4.9", "lang": "mishnaic", "root": "איש", "morphemes": [
+      {"form": "אִישׁ", "lemma": "אִישׁ", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:4.10", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יְרוּשָׁלַיִם", "lemma": "יְרוּשָׁלַיִם", "pos": "noun", "parse": "proper name, place"}]},
+    {"id": "1:4.11", "lang": "mishnaic", "root": "קבל", "morphemes": [
+      {"form": "קִבְּלוּ", "lemma": "קָבַל", "pos": "verb", "parse": "piel, perfect (qatal), 3rd person, masculine, plural"}]},
+    {"id": "1:4.12", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "מֵ", "lemma": "מ: from, than", "pos": "preposition", "parse": "preposition"},
+      {"form": "הֶם", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, masculine, plural"}]},
+    {"id": "1:4.13", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יוֹסֵי", "lemma": "יוֹסֵי", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:4.14", "lang": "mishnaic", "root": "בנה", "morphemes": [
+      {"form": "בֶן", "lemma": "בֵּן", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:4.15", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יוֹעֶזֶר", "lemma": "יוֹעֶזֶר", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:4.16", "lang": "mishnaic", "root": "איש", "morphemes": [
+      {"form": "אִישׁ", "lemma": "אִישׁ", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:4.17", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "צְרֵדָה", "lemma": "צְרֵדָה", "pos": "noun", "parse": "proper name, place"}]},
+    {"id": "1:4.18", "lang": "mishnaic", "root": "אמר", "morphemes": [
+      {"form": "אוֹמֵר", "lemma": "אָמַר", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:4.19", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "יְהִי", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperfect (yiqtol), 3rd person, masculine, singular"}]},
+    {"id": "1:4.20", "lang": "mishnaic", "root": "בית", "morphemes": [
+      {"form": "בֵיתְ", "lemma": "בַּיִת", "pos": "noun", "parse": "common, masculine, singular, construct"},
+      {"form": "ךָ", "lemma": "", "pos": "suffix", "parse": "pronominal, 2nd person, masculine, singular"}]},
+    {"id": "1:4.21", "lang": "mishnaic", "root": "בית", "morphemes": [
+      {"form": "בֵית", "lemma": "בַּיִת", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:4.22", "lang": "mishnaic", "root": "ועד", "morphemes": [
+      {"form": "וַעַד", "lemma": "וַעַד", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:4.23", "lang": "mishnaic", "root": "חכם", "morphemes": [
+      {"form": "לַ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "חֲכָמִים", "lemma": "חָכָם", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:4.24", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "וֶ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "הֱוֵי", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperative, 2nd person, masculine, singular"}]},
+    {"id": "1:4.25", "lang": "mishnaic", "root": "אבק", "morphemes": [
+      {"form": "מִתְאַבֵּק", "lemma": "אָבַק", "pos": "verb", "parse": "hitpael, participle active, masculine, singular, absolute"}]},
+    {"id": "1:4.26", "lang": "mishnaic", "root": "עפר", "morphemes": [
+      {"form": "בַּ", "lemma": "ב: in, with, by", "pos": "preposition", "parse": "preposition"},
+      {"form": "עֲפַר", "lemma": "עָפָר", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:4.27", "lang": "mishnaic", "root": "רגל", "morphemes": [
+      {"form": "רַגְלֵי", "lemma": "רֶגֶל", "pos": "noun", "parse": "common, masculine, plural, construct"},
+      {"form": "הֶם", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, masculine, plural"}]},
+    {"id": "1:4.28", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "וֶ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "הֱוֵי", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperative, 2nd person, masculine, singular"}]},
+    {"id": "1:4.29", "lang": "mishnaic", "root": "שתה", "morphemes": [
+      {"form": "שׁוֹתֶה", "lemma": "שָׁתָה", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:4.30", "lang": "mishnaic", "root": "צמא", "morphemes": [
+      {"form": "בְ", "lemma": "ב: in, with, by", "pos": "preposition", "parse": "preposition"},
+      {"form": "צָמָא", "lemma": "צָמָא", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:4.31", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "אֶת", "lemma": "אֶת", "pos": "particle", "parse": "direct object marker"}]},
+    {"id": "1:4.32", "lang": "mishnaic", "root": "דבר", "morphemes": [
+      {"form": "דִּבְרֵי", "lemma": "דָּבָר", "pos": "noun", "parse": "common, masculine, plural, construct"},
+      {"form": "הֶם", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, masculine, plural"}]},
+
+    {"id": "1:5.1", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יוֹסֵי", "lemma": "יוֹסֵי", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:5.2", "lang": "mishnaic", "root": "בנה", "morphemes": [
+      {"form": "בֶן", "lemma": "בֵּן", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:5.3", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יוֹחָנָן", "lemma": "יוֹחָנָן", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:5.4", "lang": "mishnaic", "root": "איש", "morphemes": [
+      {"form": "אִישׁ", "lemma": "אִישׁ", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:5.5", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יְרוּשָׁלַיִם", "lemma": "יְרוּשָׁלַיִם", "pos": "noun", "parse": "proper name, place"}]},
+    {"id": "1:5.6", "lang": "mishnaic", "root": "אמר", "morphemes": [
+      {"form": "אוֹמֵר", "lemma": "אָמַר", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:5.7", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "יְהִי", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperfect (yiqtol), 3rd person, masculine, singular"}]},
+    {"id": "1:5.8", "lang": "mishnaic", "root": "בית", "morphemes": [
+      {"form": "בֵיתְ", "lemma": "בַּיִת", "pos": "noun", "parse": "common, masculine, singular, construct"},
+      {"form": "ךָ", "lemma": "", "pos": "suffix", "parse": "pronominal, 2nd person, masculine, singular"}]},
+    {"id": "1:5.9", "lang": "mishnaic", "root": "פתח", "morphemes": [
+      {"form": "פָתוּחַ", "lemma": "פָּתַח", "pos": "verb", "parse": "qal, participle passive, masculine, singular, absolute"}]},
+    {"id": "1:5.10", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "לִ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "רְוָחָה", "lemma": "רְוָחָה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:5.11", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "וְ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "יִהְיוּ", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperfect (yiqtol), 3rd person, masculine, plural"}]},
+    {"id": "1:5.12", "lang": "mishnaic", "root": "ענה", "morphemes": [
+      {"form": "עֲנִיִּים", "lemma": "עָנִי", "pos": "adjective", "parse": "adjective, masculine, plural, absolute"}]},
+    {"id": "1:5.13", "lang": "mishnaic", "root": "בנה", "morphemes": [
+      {"form": "בְּנֵי", "lemma": "בֵּן", "pos": "noun", "parse": "common, masculine, plural, construct"}]},
+    {"id": "1:5.14", "lang": "mishnaic", "root": "בית", "morphemes": [
+      {"form": "בֵיתֶ", "lemma": "בַּיִת", "pos": "noun", "parse": "common, masculine, singular, construct"},
+      {"form": "ךָ", "lemma": "", "pos": "suffix", "parse": "pronominal, 2nd person, masculine, singular"}]},
+    {"id": "1:5.15", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "וְ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "אַל", "lemma": "אַל", "pos": "particle", "parse": "negative particle, prohibitive"}]},
+    {"id": "1:5.16", "lang": "mishnaic", "root": "רבה", "morphemes": [
+      {"form": "תַּרְבֶּה", "lemma": "רָבָה", "pos": "verb", "parse": "hifil, imperfect (yiqtol), 2nd person, masculine, singular"}]},
+    {"id": "1:5.17", "lang": "mishnaic", "root": "שיח", "morphemes": [
+      {"form": "שִׂיחָה", "lemma": "שִׂיחָה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:5.18", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "עִם", "lemma": "עִם", "pos": "preposition", "parse": "preposition"}]},
+    {"id": "1:5.19", "lang": "mishnaic", "root": "אשה", "morphemes": [
+      {"form": "הָ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "אִשָּׁה", "lemma": "אִשָּׁה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:5.20", "lang": "mishnaic", "root": "אשה", "morphemes": [
+      {"form": "בְּ", "lemma": "ב: in, with, by", "pos": "preposition", "parse": "preposition"},
+      {"form": "אִשְׁתּ", "lemma": "אִשָּׁה", "pos": "noun", "parse": "common, feminine, singular, construct"},
+      {"form": "וֹ", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, masculine, singular"}]},
+    {"id": "1:5.21", "lang": "mishnaic", "root": "אמר", "morphemes": [
+      {"form": "אָמְרוּ", "lemma": "אָמַר", "pos": "verb", "parse": "qal, perfect (qatal), 3rd person, masculine, plural"}]},
+    {"id": "1:5.22", "lang": "mishnaic", "root": "קלל", "morphemes": [
+      {"form": "קַל", "lemma": "קַל", "pos": "adjective", "parse": "adjective, masculine, singular, absolute"}]},
+    {"id": "1:5.23", "lang": "mishnaic", "root": "חמר", "morphemes": [
+      {"form": "וָ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "חֹמֶר", "lemma": "חֹמֶר", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:5.24", "lang": "mishnaic", "root": "אשה", "morphemes": [
+      {"form": "בְּ", "lemma": "ב: in, with, by", "pos": "preposition", "parse": "preposition"},
+      {"form": "אֵשֶׁת", "lemma": "אִשָּׁה", "pos": "noun", "parse": "common, feminine, singular, construct"}]},
+    {"id": "1:5.25", "lang": "mishnaic", "root": "חבר", "morphemes": [
+      {"form": "חֲבֵר", "lemma": "חָבֵר", "pos": "noun", "parse": "common, masculine, singular, construct"},
+      {"form": "וֹ", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, masculine, singular"}]},
+    {"id": "1:5.26", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "מִ", "lemma": "מ: from, than", "pos": "preposition", "parse": "preposition"},
+      {"form": "כָּאן", "lemma": "כָּאן", "pos": "adverb", "parse": "adverb, here"}]},
+    {"id": "1:5.27", "lang": "mishnaic", "root": "אמר", "morphemes": [
+      {"form": "אָמְרוּ", "lemma": "אָמַר", "pos": "verb", "parse": "qal, perfect (qatal), 3rd person, masculine, plural"}]},
+    {"id": "1:5.28", "lang": "mishnaic", "root": "חכם", "morphemes": [
+      {"form": "חֲכָמִים", "lemma": "חָכָם", "pos": "noun", "parse": "common, masculine, plural, absolute"}]},
+    {"id": "1:5.29", "lang": "mishnaic", "root": "כלל", "morphemes": [
+      {"form": "כָּל", "lemma": "כֹּל", "pos": "adjective", "parse": "quantifier, all, construct"}]},
+    {"id": "1:5.30", "lang": "mishnaic", "root": "זמן", "morphemes": [
+      {"form": "זְמַן", "lemma": "זְמַן", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:5.31", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "שֶׁ", "lemma": "ש: who, which, that", "pos": "particle", "parse": "relative particle"},
+      {"form": "אָדָם", "lemma": "אָדָם", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:5.32", "lang": "mishnaic", "root": "רבה", "morphemes": [
+      {"form": "מַרְבֶּה", "lemma": "רָבָה", "pos": "verb", "parse": "hifil, participle active, masculine, singular, absolute"}]},
+    {"id": "1:5.33", "lang": "mishnaic", "root": "שיח", "morphemes": [
+      {"form": "שִׂיחָה", "lemma": "שִׂיחָה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:5.34", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "עִם", "lemma": "עִם", "pos": "preposition", "parse": "preposition"}]},
+    {"id": "1:5.35", "lang": "mishnaic", "root": "אשה", "morphemes": [
+      {"form": "הָ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "אִשָּׁה", "lemma": "אִשָּׁה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:5.36", "lang": "mishnaic", "root": "גרם", "morphemes": [
+      {"form": "גּוֹרֵם", "lemma": "גָּרַם", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:5.37", "lang": "mishnaic", "root": "רעע", "morphemes": [
+      {"form": "רָעָה", "lemma": "רָעָה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:5.38", "lang": "mishnaic", "root": "עצם", "morphemes": [
+      {"form": "לְ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "עַצְמ", "lemma": "עֶצֶם", "pos": "noun", "parse": "common, masculine, singular, construct"},
+      {"form": "וֹ", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, masculine, singular"}]},
+    {"id": "1:5.39", "lang": "mishnaic", "root": "בטל", "morphemes": [
+      {"form": "וּ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "בוֹטֵל", "lemma": "בָּטַל", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:5.40", "lang": "mishnaic", "root": "דבר", "morphemes": [
+      {"form": "מִ", "lemma": "מ: from, than", "pos": "preposition", "parse": "preposition"},
+      {"form": "דִּבְרֵי", "lemma": "דָּבָר", "pos": "noun", "parse": "common, masculine, plural, construct"}]},
+    {"id": "1:5.41", "lang": "mishnaic", "root": "ירה", "morphemes": [
+      {"form": "תוֹרָה", "lemma": "תּוֹרָה", "pos": "noun", "parse": "common, feminine, singular, absolute"}]},
+    {"id": "1:5.42", "lang": "mishnaic", "root": "סוף", "morphemes": [
+      {"form": "וְ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "סוֹפ", "lemma": "סוֹף", "pos": "noun", "parse": "common, masculine, singular, construct"},
+      {"form": "וֹ", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, masculine, singular"}]},
+    {"id": "1:5.43", "lang": "mishnaic", "root": "ירש", "morphemes": [
+      {"form": "יוֹרֵשׁ", "lemma": "יָרַשׁ", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:5.44", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "גֵּיהִנֹּם", "lemma": "גֵּיהִנֹּם", "pos": "noun", "parse": "proper name, place"}]},
+
+    {"id": "1:6.1", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יְהוֹשֻׁעַ", "lemma": "יְהוֹשֻׁעַ", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:6.2", "lang": "mishnaic", "root": "בנה", "morphemes": [
+      {"form": "בֶּן", "lemma": "בֵּן", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:6.3", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "פְּרַחְיָה", "lemma": "פְּרַחְיָה", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:6.4", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "וְ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "נִתַּאי", "lemma": "נִתַּאי", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:6.5", "lang": "mishnaic", "root": "ארבל", "morphemes": [
+      {"form": "הָ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "אַרְבֵּלִי", "lemma": "אַרְבֵּלִי", "pos": "adjective", "parse": "adjective, gentilic, masculine, singular, absolute"}]},
+    {"id": "1:6.6", "lang": "mishnaic", "root": "קבל", "morphemes": [
+      {"form": "קִבְּלוּ", "lemma": "קָבַל", "pos": "verb", "parse": "piel, perfect (qatal), 3rd person, masculine, plural"}]},
+    {"id": "1:6.7", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "מֵ", "lemma": "מ: from, than", "pos": "preposition", "parse": "preposition"},
+      {"form": "הֶם", "lemma": "", "pos": "suffix", "parse": "pronominal, 3rd person, masculine, plural"}]},
+    {"id": "1:6.8", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "יְהוֹשֻׁעַ", "lemma": "יְהוֹשֻׁעַ", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:6.9", "lang": "mishnaic", "root": "בנה", "morphemes": [
+      {"form": "בֶּן", "lemma": "בֵּן", "pos": "noun", "parse": "common, masculine, singular, construct"}]},
+    {"id": "1:6.10", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "פְּרַחְיָה", "lemma": "פְּרַחְיָה", "pos": "noun", "parse": "proper name, person, masculine"}]},
+    {"id": "1:6.11", "lang": "mishnaic", "root": "אמר", "morphemes": [
+      {"form": "אוֹמֵר", "lemma": "אָמַר", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:6.12", "lang": "mishnaic", "root": "עשה", "morphemes": [
+      {"form": "עֲשֵׂה", "lemma": "עָשָׂה", "pos": "verb", "parse": "qal, imperative, 2nd person, masculine, singular"}]},
+    {"id": "1:6.13", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "לְ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "ךָ", "lemma": "", "pos": "suffix", "parse": "pronominal, 2nd person, masculine, singular"}]},
+    {"id": "1:6.14", "lang": "mishnaic", "root": "רבב", "morphemes": [
+      {"form": "רַב", "lemma": "רַב", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:6.15", "lang": "mishnaic", "root": "קנה", "morphemes": [
+      {"form": "וּ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "קְנֵה", "lemma": "קָנָה", "pos": "verb", "parse": "qal, imperative, 2nd person, masculine, singular"}]},
+    {"id": "1:6.16", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "לְ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "ךָ", "lemma": "", "pos": "suffix", "parse": "pronominal, 2nd person, masculine, singular"}]},
+    {"id": "1:6.17", "lang": "mishnaic", "root": "חבר", "morphemes": [
+      {"form": "חָבֵר", "lemma": "חָבֵר", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:6.18", "lang": "mishnaic", "root": "היה", "morphemes": [
+      {"form": "וֶ", "lemma": "ו: and", "pos": "conjunction", "parse": "conjunction"},
+      {"form": "הֱוֵי", "lemma": "הָיָה", "pos": "verb", "parse": "qal, imperative, 2nd person, masculine, singular"}]},
+    {"id": "1:6.19", "lang": "mishnaic", "root": "דין", "morphemes": [
+      {"form": "דָן", "lemma": "דָּן", "pos": "verb", "parse": "qal, participle active, masculine, singular, absolute"}]},
+    {"id": "1:6.20", "lang": "mishnaic", "root": "", "morphemes": [
+      {"form": "אֶת", "lemma": "אֶת", "pos": "particle", "parse": "direct object marker"}]},
+    {"id": "1:6.21", "lang": "mishnaic", "root": "כלל", "morphemes": [
+      {"form": "כָּל", "lemma": "כֹּל", "pos": "adjective", "parse": "quantifier, all, construct"}]},
+    {"id": "1:6.22", "lang": "mishnaic", "root": "אדם", "morphemes": [
+      {"form": "הָ", "lemma": "ה: the", "pos": "article", "parse": "definite article"},
+      {"form": "אָדָם", "lemma": "אָדָם", "pos": "noun", "parse": "common, masculine, singular, absolute"}]},
+    {"id": "1:6.23", "lang": "mishnaic", "root": "כפף", "morphemes": [
+      {"form": "לְ", "lemma": "ל: to, for", "pos": "preposition", "parse": "preposition"},
+      {"form": "כַף", "lemma": "כַּף", "pos": "noun", "parse": "common, feminine, singular, construct"}]},
+    {"id": "1:6.24", "lang": "mishnaic", "root": "זכה", "morphemes": [
+      {"form": "זְכוּת", "lemma": "זְכוּת", "pos": "noun", "parse": "common, feminine, singular, absolute"}]}
+  ]
+}

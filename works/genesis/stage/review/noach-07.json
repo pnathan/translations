@@ -1,0 +1,530 @@
+{
+ "unit": "noach-07",
+ "model": "opus",
+ "summary": "The unit is accurate in its English and token analysis on most points, and its date and drying contrasts (חרב / יבשׁ) follow Rashi and Ibn Ezra. Its main faults are in the rulings on the commentary: Ibn Ezra's preferred readings are misreported at 8:10 (he derives וַיָּחֶל from תְּחִלָּה, 'began') and at 8:11 (a verbal טָרָף with a superfluous ב), and Rashi's male-dove comment is summarised as if it were an objection to him. At 8:8 the note claimed Rashi's release reading of וַיְשַׁלַּח was carried by 'from him'; the English now says 'sent ... away' for the dove's sendings. Smaller fixes: a false note on the telisha at 8:13, unsupported claims in the 8:8 grammar notes, and senses at 8:7.8, 8:8.1 and 8:13.7.",
+ "patches": [
+  {
+   "ref": "8:7",
+   "path": "token:8:7.8.sense",
+   "value": "Qal 1",
+   "severity": "error",
+   "reason": "BDB's Qal 1 'be dry, dried up, without moisture' is the sense used of waters and of the earth (as the translator gives at 8:14.7); Qal 2 'be dried up' is the withering of plants."
+  },
+  {
+   "ref": "8:8",
+   "path": "english",
+   "value": "Then he sent the dove away from him, to see whether the waters had abated from the surface of the ground.",
+   "severity": "error",
+   "reason": "Rashi (normative, ruled 'follows'): אֵין זֶה לְשׁוֹן שְׁלִיחוּת אֶלָּא לְשׁוֹן שִׁלּוּחַ — the dove was let go to go her own way, not sent on an errand (the raven, by contrast, 'did not go on its errand', Rashi 8:7). 'Sent out' reads as a dispatch on an errand; 'sent ... away' carries the release."
+  },
+  {
+   "ref": "8:8",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "8:8.1",
+      "8:8.2",
+      "8:8.3"
+     ],
+     "english": "Then he sent the dove away",
+     "literal": "'and-sent [obj] the-dove'; Piel of שׁלח as release (Rashi: שִׁלּוּחַ, not שְׁלִיחוּת)"
+    },
+    {
+     "tokens": [
+      "8:8.4"
+     ],
+     "english": "from him",
+     "literal": "'from-with-him'"
+    },
+    {
+     "tokens": [
+      "8:8.5",
+      "8:8.6",
+      "8:8.7"
+     ],
+     "english": "to see whether the waters had abated",
+     "literal": "'to-see have-lightened the-waters'; קלל Qal, 'be slight, diminish'"
+    },
+    {
+     "tokens": [
+      "8:8.8",
+      "8:8.9",
+      "8:8.10"
+     ],
+     "english": "from the surface of the ground",
+     "literal": "'from-upon face-of the-ground'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the first phrase."
+  },
+  {
+   "ref": "8:8",
+   "path": "token:8:8.1.gloss",
+   "value": "and he sent away",
+   "severity": "error",
+   "reason": "Matches the English and Rashi's release reading."
+  },
+  {
+   "ref": "8:8",
+   "path": "token:8:8.1.sense",
+   "value": "Pi 3",
+   "severity": "error",
+   "reason": "Rashi takes וַיְשַׁלַּח here as release; the entry's Pi 3 'let go, set free' names that sense, not Pi 1."
+  },
+  {
+   "ref": "8:8",
+   "path": "note",
+   "value": "'abated' keeps the sense of lightening (lessening of weight and amount). 'Sent ... away' follows Rashi: וַיְשַׁלַּח here is release (שִׁלּוּחַ), letting her go her own way, not a mission (שְׁלִיחוּת) as with the raven; if she found rest she would not come back. 'From him' renders מֵאִתּוֹ.",
+   "severity": "error",
+   "reason": "The note claimed Rashi's release reading is carried by 'from him', which renders מֵאִתּוֹ and says nothing about release."
+  },
+  {
+   "ref": "8:8",
+   "path": "grammar",
+   "value": [
+    "לִרְאוֹת הֲקַלּוּ: purpose clause (ל + infinitive) containing an indirect question introduced by the interrogative הֲ.",
+    "הֲקַלּוּ is a Qal perfect of the geminate root קלל, 'be light', here of waters 'lessening'.",
+    "The etnaḥta on מֵאִתּוֹ divides the sending from its purpose; in the second half the zaqef qaton on הַמַּיִם sets 'whether the waters had abated' apart from 'from the surface of the ground'.",
+    "הָאֲדָמָה, 'the ground', stands where verse 7 has הָאָרֶץ, 'the earth'; the same pair returns in 8:13."
+   ],
+   "severity": "error",
+   "reason": "The note on the accents left out the etnaḥta (on מֵאִתּוֹ), the main division of the verse; and 'the dove is concerned with soil, not land at large' is an interpretation no commentator in the pack gives, stated as fact."
+  },
+  {
+   "ref": "8:9",
+   "path": "english",
+   "value": "But the dove found no resting place for the sole of her foot, and she returned to him, to the ark, for there was water over the surface of all the earth. So he stretched out his hand, took her, and brought her to him into the ark.",
+   "severity": "style",
+   "reason": "אֵלָיו אֶל־הַתֵּבָה is 'to him, to the ark'; 'to him in the ark' moves the second phrase onto Noah. Radak (8:7) reads אֶל־הַתֵּבָה as her alighting on the ark, which the exact English keeps open."
+  },
+  {
+   "ref": "8:9",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "8:9.1",
+      "8:9.2",
+      "8:9.3",
+      "8:9.4",
+      "8:9.5",
+      "8:9.6"
+     ],
+     "english": "But the dove found no resting place for the sole of her foot",
+     "literal": "'and-not found the-dove resting-place for-sole-of her-foot'"
+    },
+    {
+     "tokens": [
+      "8:9.7",
+      "8:9.8",
+      "8:9.9",
+      "8:9.10"
+     ],
+     "english": "and she returned to him, to the ark",
+     "literal": "'and-returned to-him to the-ark'"
+    },
+    {
+     "tokens": [
+      "8:9.11",
+      "8:9.12",
+      "8:9.13",
+      "8:9.14",
+      "8:9.15",
+      "8:9.16"
+     ],
+     "english": "for there was water over the surface of all the earth",
+     "literal": "'for waters upon face-of all-the-earth'"
+    },
+    {
+     "tokens": [
+      "8:9.17",
+      "8:9.18"
+     ],
+     "english": "So he stretched out his hand",
+     "literal": "'and-sent his-hand'"
+    },
+    {
+     "tokens": [
+      "8:9.19"
+     ],
+     "english": "took her",
+     "literal": "'and-took-her'"
+    },
+    {
+     "tokens": [
+      "8:9.20",
+      "8:9.21"
+     ],
+     "english": "and brought her",
+     "literal": "'and-brought [obj]-her'"
+    },
+    {
+     "tokens": [
+      "8:9.22",
+      "8:9.23",
+      "8:9.24"
+     ],
+     "english": "to him into the ark",
+     "literal": "'to-him to the-ark'"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English changed the second phrase."
+  },
+  {
+   "ref": "8:9",
+   "path": "token:8:9.23.gloss",
+   "value": "into",
+   "severity": "style",
+   "reason": "After וַיָּבֵא the English has 'into the ark'; the gloss should match."
+  },
+  {
+   "ref": "8:9",
+   "path": "token:8:9.23.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "With a verb of bringing in, אֶל is the entry's sense 2 'into'."
+  },
+  {
+   "ref": "8:9",
+   "path": "commentary:ramban:8:9:1.summary",
+   "value": "Ramban: birds do not usually rest on the peaks of high mountains, where there are no trees, all the more so while water covered the face of all the earth; so the dove found no resting place that suited her. When the trees appeared she went off on her own, for doves nest in their branches.",
+   "severity": "error",
+   "reason": "The summary said 'the water still covered the earth's low ground', which Ramban does not say; it also left out his point that the dove later left once the trees appeared."
+  },
+  {
+   "ref": "8:10",
+   "path": "english",
+   "value": "He waited another seven days, and again he sent the dove away from the ark.",
+   "severity": "style",
+   "reason": "The same act as 8:8, where Rashi reads וַיְשַׁלַּח of the dove as release; the English should not change the verb's sense between the sendings."
+  },
+  {
+   "ref": "8:10",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "8:10.1",
+      "8:10.2",
+      "8:10.3",
+      "8:10.4",
+      "8:10.5"
+     ],
+     "english": "He waited another seven days",
+     "literal": "'and-waited again seven-of days other'"
+    },
+    {
+     "tokens": [
+      "8:10.6",
+      "8:10.7",
+      "8:10.8",
+      "8:10.9"
+     ],
+     "english": "and again he sent the dove away",
+     "literal": "'and-added to-send [obj] the-dove'"
+    },
+    {
+     "tokens": [
+      "8:10.10",
+      "8:10.11"
+     ],
+     "english": "from the ark",
+     "literal": "'from the-ark'"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English changed the second phrase."
+  },
+  {
+   "ref": "8:10",
+   "path": "token:8:10.7.gloss",
+   "value": "send away",
+   "severity": "style",
+   "reason": "Matches the English."
+  },
+  {
+   "ref": "8:10",
+   "path": "token:8:10.7.sense",
+   "value": "Pi 3",
+   "severity": "style",
+   "reason": "As at 8:8.1: 'let go, set free', the release of the bird."
+  },
+  {
+   "ref": "8:10",
+   "path": "commentary:ibn-ezra:8:10:1.summary",
+   "value": "Ibn Ezra: in his view וַיָּחֶל comes from תְּחִלָּה, 'beginning' (he began another seven days); had it come from תּוֹחֶלֶת, 'waiting', it would be וייחל like וייקץ, or ייחל like וישב (37:1). He allows that it may be a word irregular in grammar. The English follows Rashi's 'waited' and records Ibn Ezra's 'began'.",
+   "severity": "error",
+   "reason": "The summary left out Ibn Ezra's own reading, מתחלה ('from beginning'), and gave the form he expects as וַיְיַחֵל (a Piel), where he writes וייחל כמו וייקץ, a Qal like וַיִּיקַץ, or ייחל like וַיֵּשֶׁב."
+  },
+  {
+   "ref": "8:10",
+   "path": "grammar",
+   "value": [
+    "וַיֹּסֶף שַׁלַּח: a verb of adding with an infinitive means doing something again; 'he added to send' is 'he sent again'.",
+    "וַיָּחֶל is a hard form. Rashi: a term of waiting (לְשׁוֹן הַמְתָּנָה), as וְיִחֵלּוּ in Job 29:21. Radak: Hiphil of חול, 'wait', as וַיָּחִילוּ in Judg 3:25. Ibn Ezra prefers 'he began' (from תְּחִלָּה; compare וַיָּחֶל נֹחַ, 'Noah began', 9:20), since from תּוֹחֶלֶת he would expect וייחל or ייחל, but he allows an irregular form.",
+    "שִׁבְעַת יָמִים אֲחֵרִים: the number is in construct before the plural noun; אֲחֵרִים 'other' means a second week."
+   ],
+   "severity": "error",
+   "reason": "The second note said Ibn Ezra expects וַיְיַחֵל and omitted his preferred reading 'began'."
+  },
+  {
+   "ref": "8:10",
+   "path": "apparatus",
+   "value": [
+    "וַיָּחֶל: Rashi and Radak 'he waited'; Ibn Ezra prefers 'he began (another seven days)', from תְּחִלָּה, and allows 'waited' only as an irregular form. The pack parses the form as Piel of חוּל; Radak calls it Hiphil."
+   ],
+   "severity": "error",
+   "reason": "A real alternative of a normative commentator is not recorded in the apparatus."
+  },
+  {
+   "ref": "8:10",
+   "path": "token:8:10.1.note",
+   "value": "wayyiqtol. The pack parses it as Piel of חוּל, but the vowels (qamets under the prefix, as in וַיָּקֶם) are those of a Hiphil of a hollow root, as Radak says. The entry lists no Hiphil 'wait' sense, so the nearest listed sense is given; the word may rather belong to יָחַל (compare וַיִּיָּחֶל, 8:12). Rashi and Radak read 'waited' (Job 29:21; Judg 3:25); Ibn Ezra prefers 'began'.",
+   "severity": "question",
+   "reason": "The note should say that the pack's Piel parse is doubtful (Radak: Hiphil) and that Ibn Ezra reads 'began'; proposed wording."
+  },
+  {
+   "ref": "8:11",
+   "path": "commentary:rashi:8:11:1.summary",
+   "value": "Rashi: 'I say it was male', and that is why the text speaks of it sometimes in the masculine (טָרָף) and sometimes in the feminine (בְּפִיהָ): the feminine because every dove in Scripture is spoken of in the feminine (Song 5:12; Ezek 7:16; Hos 7:11). The English keeps the Hebrew's feminine 'her'.",
+   "severity": "error",
+   "reason": "The summary set the feminine of every dove in Scripture against Rashi ('but'); in Rashi it is his own explanation of why the feminine also appears beside the masculine."
+  },
+  {
+   "ref": "8:11",
+   "path": "commentary:ibn-ezra:8:11:1.summary",
+   "value": "Ibn Ezra: some say טָרָף is a noun doubling עֲלֵה in sense, 'leaf' (cf. טַרְפֵּי צִמְחָהּ, Ezek 17:9), citing the qamets under the resh as in זָהָב. He holds rather that the ב of בְּפִיהָ is superfluous and טָרָף is a verb with qamets, as כִּי הוּא טָרָף (Hos 6:1), 'her mouth had plucked (it)'; or else that טָרָף is an adjective like חָכָם with a passive sense, like טָרוּף. Either way the dove tore the leaf off, which 'plucked' carries.",
+   "severity": "error",
+   "reason": "The summary did not say that Ibn Ezra's preferred reading, with the ב superfluous, makes טָרָף a verb (his parallels כִּי הוּא טָרָף and אַרְיֵה שָׁאָג are verbs), and so it misrepresented his ruling as simply 'a plucked olive leaf'."
+  },
+  {
+   "ref": "8:11",
+   "path": "grammar",
+   "value": [
+    "וְהִנֵּה turns the narration to what is seen at that moment: 'and there'.",
+    "טָרָף is the hard word. The pack parses it as an adjective, 'plucked' (BDB 'fresh-plucked'), and so Radak (an adjective with passive sense, like טָרוּף) and Onkelos (תְּבִיר). Rashi glosses it with the verb חָטַף, 'snatched'; Ibn Ezra prefers a verb, 'her mouth plucked (it)', with the ב of בְּפִיהָ superfluous, since verbs too can have qamets (כִּי הוּא טָרָף, Hos 6:1). Others cited by Ibn Ezra take it as a noun, 'leaf'.",
+    "The dove is feminine (בְּפִיהָ); Rashi, who reads the masculine form טָרָף, holds that the bird was male.",
+    "וַיֵּדַע נֹחַ כִּי־קַלּוּ: the verb of knowing takes a כִּי clause; קַלּוּ echoes הֲקַלּוּ of 8:8."
+   ],
+   "severity": "error",
+   "reason": "The second note said the qamets under the resh shows an adjective or noun; Ibn Ezra cites qamets in verbs (טָרָף, Hos 6:1; שָׁאָג, Amos 3:8) against that proof, and both Rashi and Ibn Ezra take a verbal reading. The note also misread Ibn Ezra's superfluous ב as a separate view of טָרָף."
+  },
+  {
+   "ref": "8:11",
+   "path": "token:8:11.9.note",
+   "value": "טָרָף: an adjective in the pack, 'plucked'; Rashi (חָטַף, 'snatched') and Ibn Ezra's preferred reading take it as a verb. See the grammar notes.",
+   "severity": "error",
+   "reason": "The note said 'adjective or noun'; the reading the normative commentators give is a verb."
+  },
+  {
+   "ref": "8:11",
+   "path": "apparatus",
+   "value": [
+    "טָרָף: adjective 'plucked' (BDB, Radak, Onkelos תְּבִיר, and Ibn Ezra's second view); verb 'snatched, plucked' (Rashi חָטַף; Ibn Ezra's preferred view, with the ב of בְּפִיהָ superfluous); noun 'leaf' (others cited by Ibn Ezra). The Midrash cited by Rashi takes it as 'food'."
+   ],
+   "severity": "style",
+   "reason": "The readings of the hard word are recorded in one place."
+  },
+  {
+   "ref": "8:12",
+   "path": "english",
+   "value": "He waited another seven days and sent the dove away, and she did not return to him any more.",
+   "severity": "style",
+   "reason": "As at 8:8: the dove's sending is release (Rashi), which the outcome here bears out."
+  },
+  {
+   "ref": "8:12",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "8:12.1",
+      "8:12.2",
+      "8:12.3",
+      "8:12.4",
+      "8:12.5"
+     ],
+     "english": "He waited another seven days",
+     "literal": "'and-waited again seven-of days other'"
+    },
+    {
+     "tokens": [
+      "8:12.6",
+      "8:12.7",
+      "8:12.8"
+     ],
+     "english": "and sent the dove away",
+     "literal": "'and-sent [obj] the-dove'"
+    },
+    {
+     "tokens": [
+      "8:12.9",
+      "8:12.10",
+      "8:12.11",
+      "8:12.12",
+      "8:12.13"
+     ],
+     "english": "and she did not return to him any more",
+     "literal": "'and-not added to-return to-him again'"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English changed the second phrase."
+  },
+  {
+   "ref": "8:12",
+   "path": "token:8:12.6.gloss",
+   "value": "and he sent away",
+   "severity": "style",
+   "reason": "Matches the English."
+  },
+  {
+   "ref": "8:12",
+   "path": "token:8:12.6.sense",
+   "value": "Pi 3",
+   "severity": "style",
+   "reason": "As at 8:8.1: 'let go, set free'."
+  },
+  {
+   "ref": "8:13",
+   "path": "token:8:13.7.sense",
+   "value": "7",
+   "severity": "style",
+   "reason": "BDB's sense 7 'first' is the ordinal use of אֶחָד in dates of the month, which the English 'on the first of the month' renders."
+  },
+  {
+   "ref": "8:13",
+   "path": "token:8:13.7.gloss",
+   "value": "on the first",
+   "severity": "style",
+   "reason": "Matches the English and sense 7."
+  },
+  {
+   "ref": "8:13",
+   "path": "grammar",
+   "value": [
+    "The date is given in Hebrew order: year, month, day. 'the first' (הָרִאשׁוֹן) is the first month; the day is 'one' (אֶחָד), used for 'the first'.",
+    "חָרְבוּ הַמַּיִם and חָרְבוּ פְּנֵי הָאֲדָמָה: the verb חרב (dry up) is used of the waters and then of the surface of the ground; in 8:14 the verb is the stronger יבשׁ.",
+    "וַיַּרְא וְהִנֵּה: 'he saw, and behold': a narrative view of what Noah saw when the cover was open.",
+    "The telisha gedola on וַיְהִי is a prepositive disjunctive accent, printed at the start of the word and again on the stressed syllable; it sets וַיְהִי apart from the date that follows."
+   ],
+   "severity": "error",
+   "reason": "The fourth note said the telisha accents mark the start of a new section. Telisha gedola is a minor disjunctive; accents do not mark sections (the paragraph marks do). The first note now ties אֶחָד to the ordinal sense."
+  },
+  {
+   "ref": "8:13",
+   "path": "commentary:radak:8:13:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Radak: with Tishrei, the first month, Noah entered his six hundred and first year, and on the seventeenth of the second month his year in the ark was complete. Though the face of the ground had dried, there was still mud beneath and it was not fit to walk on; so Noah did not go out, but waited for God to command him, as He had commanded him to go in."
+   },
+   "severity": "error",
+   "reason": "The ruling called the comment a calendar note only, but Radak also explains חָרְבוּ פְּנֵי הָאֲדָמָה as a dried surface over mud, which bears on the English and agrees with it."
+  },
+  {
+   "ref": "8:14",
+   "path": "commentary:rashi:8:14:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Rashi: the rains came down on the seventeenth of the second month (7:11); the days from then to the twenty-seventh are the eleven by which the solar year exceeds the lunar, for the sentence on the generation of the Flood was a full year. A point of chronology that does not bear on the English."
+   },
+   "severity": "error",
+   "reason": "The summary left out the seventeenth of the second month, from which Rashi counts the eleven days, so 'the eleven days' had no reference. 'records' is wrong: the comment is no alternative reading of the words."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:8:7:1",
+   "verdict": "consistent",
+   "comment": "'Went back and forth' fits Rashi's circling round the ark; the reading is recorded."
+  },
+  {
+   "anchor": "rashi:8:7:2",
+   "verdict": "consistent",
+   "comment": "Rashi takes the plain sense; the Elijah homily does not bear on the English."
+  },
+  {
+   "anchor": "rashi:8:8:1",
+   "verdict": "not-applicable",
+   "comment": "An inference about the first seven days."
+  },
+  {
+   "anchor": "rashi:8:8:2",
+   "verdict": "contradicts",
+   "comment": "'Sent out' read as a dispatch on an errand, which Rashi excludes (שִׁלּוּחַ, not שְׁלִיחוּת). Fixed by the patches to the English, gloss, sense and note."
+  },
+  {
+   "anchor": "rashi:8:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:10:1",
+   "verdict": "contradicts",
+   "comment": "Ibn Ezra prefers 'he began' (from תְּחִלָּה). Rashi reads 'waited'; the two differ, so the English may choose Rashi, and Ibn Ezra himself allows the form as an irregular word. The English stands; his reading is now recorded in the summary, grammar and apparatus."
+  },
+  {
+   "anchor": "ibn-ezra:8:10:2",
+   "verdict": "not-applicable",
+   "comment": "A date."
+  },
+  {
+   "anchor": "rashi:8:11:1",
+   "verdict": "consistent",
+   "comment": "Rashi himself explains the feminine forms; 'her' follows the Hebrew."
+  },
+  {
+   "anchor": "rashi:8:11:2",
+   "verdict": "consistent",
+   "comment": "Rashi's 'snatched' and 'freshly plucked' agree that the leaf was torn off; the verbal reading is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:8:11:1",
+   "verdict": "consistent",
+   "comment": "Both of Ibn Ezra's readings (verb or passive adjective) have the leaf plucked."
+  },
+  {
+   "anchor": "rashi:8:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:12:3",
+   "verdict": "consistent",
+   "comment": "'Any more' carries 'never again'."
+  },
+  {
+   "anchor": "rashi:8:13:1",
+   "verdict": "consistent",
+   "comment": "The English says only 'the first month' and leaves Tishrei or Nisan open."
+  },
+  {
+   "anchor": "rashi:8:13:2",
+   "verdict": "consistent",
+   "comment": "'The surface of the ground had dried' against 'the earth was dry' in 8:14 keeps the difference."
+  },
+  {
+   "anchor": "ibn-ezra:8:12:2",
+   "verdict": "not-applicable",
+   "comment": "A date."
+  },
+  {
+   "anchor": "ibn-ezra:8:13:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:14:1",
+   "verdict": "not-applicable",
+   "comment": "Chronology."
+  },
+  {
+   "anchor": "rashi:8:14:2",
+   "verdict": "consistent"
+  }
+ ]
+}

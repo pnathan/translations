@@ -1,0 +1,1141 @@
+{
+ "unit": "noach-23",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "11:26",
+   "english": "Terah lived seventy years, and he fathered Abram, Nahor, and Haran.",
+   "literal": "and-lived Terah seventy year and-fathered [object-marker]-Abram [object-marker]-Nahor and-[object-marker]-Haran",
+   "tokens": [
+    {
+     "id": "11:26.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה, a weak root; the narrative sequence verb"
+    },
+    {
+     "id": "11:26.2",
+     "gloss": "Terah"
+    },
+    {
+     "id": "11:26.3",
+     "gloss": "seventy"
+    },
+    {
+     "id": "11:26.4",
+     "gloss": "years"
+    },
+    {
+     "id": "11:26.5",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil of ילד: 'beget' of the father"
+    },
+    {
+     "id": "11:26.6",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "11:26.7",
+     "gloss": "Abram"
+    },
+    {
+     "id": "11:26.8",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "11:26.9",
+     "gloss": "Nahor"
+    },
+    {
+     "id": "11:26.10",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "11:26.11",
+     "gloss": "Haran"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:26.1",
+      "11:26.2"
+     ],
+     "english": "Terah lived",
+     "literal": "'and-lived Terah'"
+    },
+    {
+     "tokens": [
+      "11:26.3",
+      "11:26.4"
+     ],
+     "english": "seventy years",
+     "literal": "'seventy year': a plural number takes a singular noun"
+    },
+    {
+     "tokens": [
+      "11:26.5"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-fathered'; causative stem"
+    },
+    {
+     "tokens": [
+      "11:26.6",
+      "11:26.7"
+     ],
+     "english": "Abram",
+     "literal": "the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "11:26.8",
+      "11:26.9"
+     ],
+     "english": "Nahor",
+     "literal": "object marker plus name"
+    },
+    {
+     "tokens": [
+      "11:26.10",
+      "11:26.11"
+     ],
+     "english": "and Haran",
+     "literal": "'and-[obj]-Haran'"
+    }
+   ],
+   "grammar": [
+    "The wayyiqtol וַיְחִי־ is the short form of יִחְיֶה: the III-he verb drops its final ־ֶה after the wayyiqtol prefix. It carries the narrative on from the preceding genealogy.",
+    "שִׁבְעִים שָׁנָה: seventy takes a singular noun; the etnaḥta on שָׁנָה ends the first half of the verse.",
+    "וַיּוֹלֶד is the Hifil wayyiqtol of ילד, 'he caused to bear', that is, 'he fathered'.",
+    "The three sons are listed with אֶת־ before each; the order does not say who was eldest, and the verse does not date the births of Nahor and Haran."
+   ],
+   "note": "The verse gives Terah's age at the first birth in the list, as the preceding verses do for earlier fathers. Abram is first in the list by importance, not necessarily by birth.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:11:26:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: Abram was born in the place called Ur Kasdim (compare בָּאֻרִים, Isaiah 24:15). Most likely the place had another name then, since the Chaldeans (כַּשְׂדִּים) descend from Nahor, Abram's brother; Moses wrote the name known in his own day. The proof that Abram was born there is that Haran his brother died there, in 'the land of his birth'. Or Ur may be a fire (אוּר) the Chaldeans made at that place, as in 'whose fire is in Zion' (Isaiah 31:9)."
+    },
+    {
+     "anchor": "onkelos:11:26:1",
+     "relation": "not-applicable",
+     "summary": "Targum Onkelos renders the verse closely, with the same names and the same seventy years; it adds nothing to the sense."
+    }
+   ]
+  },
+  {
+   "ref": "11:27",
+   "english": "These are the generations of Terah: Terah fathered Abram, Nahor, and Haran, and Haran fathered Lot.",
+   "literal": "and-these generations-of Terah Terah fathered [obj]-Abram [obj]-Nahor and-[obj]-Haran and-Haran fathered [obj]-Lot",
+   "tokens": [
+    {
+     "id": "11:27.1",
+     "gloss": "and these",
+     "sense": "b",
+     "note": "demonstrative plural; the opening formula of a new section"
+    },
+    {
+     "id": "11:27.2",
+     "gloss": "generations of",
+     "note": "construct; a heading for the family history"
+    },
+    {
+     "id": "11:27.3",
+     "gloss": "Terah"
+    },
+    {
+     "id": "11:27.4",
+     "gloss": "Terah"
+    },
+    {
+     "id": "11:27.5",
+     "gloss": "fathered",
+     "sense": "Hiph 1",
+     "note": "perfect, Hifil"
+    },
+    {
+     "id": "11:27.6",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "11:27.7",
+     "gloss": "Abram"
+    },
+    {
+     "id": "11:27.8",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "11:27.9",
+     "gloss": "Nahor"
+    },
+    {
+     "id": "11:27.10",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "11:27.11",
+     "gloss": "Haran"
+    },
+    {
+     "id": "11:27.12",
+     "gloss": "and Haran"
+    },
+    {
+     "id": "11:27.13",
+     "gloss": "fathered",
+     "sense": "Hiph 1"
+    },
+    {
+     "id": "11:27.14",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "11:27.15",
+     "gloss": "Lot"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:27.1",
+      "11:27.2",
+      "11:27.3"
+     ],
+     "english": "These are the generations of Terah",
+     "literal": "'and-these generations-of Terah': the heading formula"
+    },
+    {
+     "tokens": [
+      "11:27.4",
+      "11:27.5"
+     ],
+     "english": "Terah fathered",
+     "literal": "the subject is repeated for emphasis after the heading"
+    },
+    {
+     "tokens": [
+      "11:27.6",
+      "11:27.7"
+     ],
+     "english": "Abram",
+     "literal": "object marker plus name"
+    },
+    {
+     "tokens": [
+      "11:27.8",
+      "11:27.9"
+     ],
+     "english": "Nahor",
+     "literal": "object marker plus name"
+    },
+    {
+     "tokens": [
+      "11:27.10",
+      "11:27.11"
+     ],
+     "english": "and Haran",
+     "literal": "'and-[obj]-Haran'"
+    },
+    {
+     "tokens": [
+      "11:27.12",
+      "11:27.13"
+     ],
+     "english": "and Haran fathered",
+     "literal": "a new subject: Haran"
+    },
+    {
+     "tokens": [
+      "11:27.14",
+      "11:27.15"
+     ],
+     "english": "Lot",
+     "literal": "object marker plus name"
+    }
+   ],
+   "grammar": [
+    "וְאֵלֶּה תּוֹלְדֹת is the heading formula of Genesis; the account that follows is of what came from Terah, and the sons and Lot are its content.",
+    "תֶּרַח is repeated (the yetiv on the second): the name stands as the subject of the following clause.",
+    "The perfect הוֹלִיד (not wayyiqtol) restates 11:26 as a summary under the heading.",
+    "וְהָרָן הוֹלִיד אֶת־לוֹט: the clause is added to name Lot, whose line matters to the story that follows."
+   ],
+   "note": "The English follows the commentators' sense that the heading opens the family account of Terah, who is its apparent subject. 'Generations' keeps the standard sense of תּוֹלְדֹת; the lexicon glosses it 'account of a man and his descendants'.",
+   "commentary": [
+    {
+     "anchor": "radak:11:27:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the verse before already named the sons, so the heading adds the events that befell Terah: the death of his son in his lifetime, his departure from Ur, and his death in Haran."
+    },
+    {
+     "anchor": "radak:11:27:2",
+     "relation": "not-applicable",
+     "summary": "Radak: Nahor's descendants are not listed because he did not beget until after the binding of Isaac; Haran's are, because Lot went with Abraham."
+    },
+    {
+     "anchor": "onkelos:11:27:1",
+     "relation": "not-applicable",
+     "summary": "Targum Onkelos follows the Hebrew word for word."
+    }
+   ]
+  },
+  {
+   "ref": "11:28",
+   "english": "Haran died in the lifetime of his father Terah, in the land of his birth, in Ur of the Chaldeans.",
+   "literal": "and-died Haran upon face-of Terah his-father in-land-of his-birth in-Ur Chaldeans",
+   "tokens": [
+    {
+     "id": "11:28.1",
+     "gloss": "and died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "11:28.2",
+     "gloss": "Haran"
+    },
+    {
+     "id": "11:28.3",
+     "gloss": "on",
+     "sense": "II.6"
+    },
+    {
+     "id": "11:28.4",
+     "gloss": "the face of",
+     "sense": "I.6",
+     "note": "construct plural: 'before' in an idiom"
+    },
+    {
+     "id": "11:28.5",
+     "gloss": "Terah"
+    },
+    {
+     "id": "11:28.6",
+     "gloss": "his father",
+     "sense": "1",
+     "note": "father with a 3rd person suffix"
+    },
+    {
+     "id": "11:28.7",
+     "gloss": "in the land of",
+     "sense": "2",
+     "note": "preposition with a construct noun"
+    },
+    {
+     "id": "11:28.8",
+     "gloss": "his birth",
+     "note": "a noun from ילד: 'birth, kindred'"
+    },
+    {
+     "id": "11:28.9",
+     "gloss": "in Ur"
+    },
+    {
+     "id": "11:28.10",
+     "gloss": "of the Chaldeans"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:28.1",
+      "11:28.2"
+     ],
+     "english": "Haran died",
+     "literal": "'and-died Haran'"
+    },
+    {
+     "tokens": [
+      "11:28.3",
+      "11:28.4",
+      "11:28.5",
+      "11:28.6"
+     ],
+     "english": "in the lifetime of his father Terah",
+     "literal": "'upon face-of Terah his-father': Rashi and Ibn Ezra read 'in his lifetime, before him'"
+    },
+    {
+     "tokens": [
+      "11:28.7",
+      "11:28.8"
+     ],
+     "english": "in the land of his birth",
+     "literal": "'in-land-of his-birth'"
+    },
+    {
+     "tokens": [
+      "11:28.9",
+      "11:28.10"
+     ],
+     "english": "in Ur of the Chaldeans",
+     "literal": "'in-Ur Chaldeans'"
+    }
+   ],
+   "grammar": [
+    "עַל־פְּנֵי is an idiom: 'in the presence of', so 'during his life'; cf. Numbers 3:4 where Nadab and Abihu die עַל־פְּנֵי אַהֲרֹן.",
+    "The etnaḥta on אָבִיו marks the main division: the death and its time are set apart from the place.",
+    "מוֹלַדְתּוֹ is a noun with a suffix, 'his kindred' or 'his birth'; it names the place of birth, 'the land of his birth'.",
+    "The verb comes first, as in every wayyiqtol clause (וַיָּמׇת הָרָן, 'and-died Haran'); the English puts the subject first. וַיָּמׇת is the short Qal wayyiqtol of the hollow root מות: the stress moves back to the prefix (the munaḥ on יָּ) and the last vowel shortens to qamets ḥatuf, against the long form יָמוּת."
+   ],
+   "note": "The English follows Rashi, who takes עַל־פְּנֵי as 'in the lifetime of' his father (so Radak, citing Numbers 3:4). Ibn Ezra reads 'before his father', who saw him die; that reading is recorded. The midrash that Haran died by his father's doing (Rashi) is recorded, not adopted. 'Ur' is a proper name here; Menahem's reading 'valley' and the midrash's 'fire' are recorded in the commentary.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:28:1",
+     "relation": "follows",
+     "summary": "Rashi: עַל פְּנֵי is 'in his father's lifetime'; the aggadic midrash that Haran died through his father (the furnace story, Bereshit Rabbah) is a homily and he cites Menahem's reading of אוּר as 'a valley'. The English adopts the plain 'lifetime'."
+    },
+    {
+     "anchor": "ibn-ezra:11:28:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: עַל פְּנֵי means 'before (לִפְנֵי) his father': Haran died while his father looked on, as in Numbers 3:4, עַל פְּנֵי אַהֲרֹן אֲבִיהֶם. The English 'in the lifetime of' follows Rashi; Ibn Ezra's 'in his father's sight' is recorded."
+    },
+    {
+     "anchor": "ramban:11:28:1",
+     "relation": "records",
+     "summary": "Ramban: he cites Rashi's midrash of the furnace and holds the tradition true, with אוּר as 'fire'. But Abraham was not born in Chaldea. Terah's family was from Aram, across the River (Joshua 24:2-3), where Abram and Nahor were born; Terah then went to Chaldea, where his youngest son Haran was born. So 'the land of his birth, Ur of the Chaldeans' is Haran's birthplace alone. In Ur, Abram was saved by a miracle, either hidden or open (the furnace); 15:7 'who brought you out of Ur' implies it."
+    },
+    {
+     "anchor": "radak:11:28:1",
+     "relation": "follows",
+     "summary": "Radak: 'in his lifetime', as in Numbers 3:4."
+    },
+    {
+     "anchor": "radak:11:28:4",
+     "relation": "records",
+     "summary": "Radak: the place is called Ur of the Chaldeans by the name it bears 'today', in the writer's time. In Haran's time Kesed, whose sons were called Chaldeans, had not yet been born."
+    },
+    {
+     "anchor": "onkelos:11:28:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos: 'in the presence of Terah his father, in the land of his birth, in Ur of the Chaldeans'."
+    }
+   ]
+  },
+  {
+   "ref": "11:29",
+   "english": "Abram and Nahor took wives for themselves. The name of Abram's wife was Sarai, and the name of Nahor's wife was Milcah, the daughter of Haran, who was the father of Milcah and the father of Iscah.",
+   "literal": "and-took Abram and-Nahor to-them wives name-of wife-of-Abram Sarai and-name-of wife-of-Nahor Milcah daughter-of-Haran father-of-Milcah and-father-of-Iscah",
+   "tokens": [
+    {
+     "id": "11:29.1",
+     "gloss": "and took",
+     "sense": "Qal 4",
+     "note": "wayyiqtol singular verb with a compound subject"
+    },
+    {
+     "id": "11:29.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "11:29.3",
+     "gloss": "and Nahor"
+    },
+    {
+     "id": "11:29.4",
+     "gloss": "for themselves",
+     "note": "ל with a suffix: 'to them'"
+    },
+    {
+     "id": "11:29.5",
+     "gloss": "wives",
+     "sense": "2",
+     "note": "plural of אִשָּׁה, irregular"
+    },
+    {
+     "id": "11:29.6",
+     "gloss": "the name of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "11:29.7",
+     "gloss": "the wife of",
+     "sense": "2",
+     "note": "construct of אִשָּׁה"
+    },
+    {
+     "id": "11:29.8",
+     "gloss": "Abram"
+    },
+    {
+     "id": "11:29.9",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "11:29.10",
+     "gloss": "and the name of",
+     "sense": "3"
+    },
+    {
+     "id": "11:29.11",
+     "gloss": "the wife of",
+     "sense": "2"
+    },
+    {
+     "id": "11:29.12",
+     "gloss": "Nahor"
+    },
+    {
+     "id": "11:29.13",
+     "gloss": "Milcah"
+    },
+    {
+     "id": "11:29.14",
+     "gloss": "the daughter of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "11:29.15",
+     "gloss": "Haran"
+    },
+    {
+     "id": "11:29.16",
+     "gloss": "the father of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "11:29.17",
+     "gloss": "Milcah"
+    },
+    {
+     "id": "11:29.18",
+     "gloss": "and the father of",
+     "sense": "1"
+    },
+    {
+     "id": "11:29.19",
+     "gloss": "Iscah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:29.1",
+      "11:29.2",
+      "11:29.3"
+     ],
+     "english": "Abram and Nahor took",
+     "literal": "'and-took Abram and-Nahor': a singular verb with two subjects"
+    },
+    {
+     "tokens": [
+      "11:29.4",
+      "11:29.5"
+     ],
+     "english": "wives for themselves",
+     "literal": "'to-them wives'"
+    },
+    {
+     "tokens": [
+      "11:29.6",
+      "11:29.7",
+      "11:29.8",
+      "11:29.9"
+     ],
+     "english": "The name of Abram's wife was Sarai",
+     "literal": "'name-of wife-of Abram Sarai'"
+    },
+    {
+     "tokens": [
+      "11:29.10",
+      "11:29.11",
+      "11:29.12",
+      "11:29.13"
+     ],
+     "english": "and the name of Nahor's wife was Milcah",
+     "literal": "'and-name-of wife-of Nahor Milcah'"
+    },
+    {
+     "tokens": [
+      "11:29.14",
+      "11:29.15"
+     ],
+     "english": "the daughter of Haran",
+     "literal": "'daughter-of Haran'"
+    },
+    {
+     "tokens": [
+      "11:29.16",
+      "11:29.17"
+     ],
+     "english": "who was the father of Milcah",
+     "literal": "'father-of Milcah'"
+    },
+    {
+     "tokens": [
+      "11:29.18",
+      "11:29.19"
+     ],
+     "english": "and the father of Iscah",
+     "literal": "'and-father-of Iscah'"
+    }
+   ],
+   "grammar": [
+    "The verb וַיִּקַּח is singular though it has two subjects, because it agrees with the nearer one, Abram; Radak compares Exodus 7:10.",
+    "נָשִׁים is the irregular plural of אִשָּׁה; the root listed is אנש.",
+    "שֵׁם אֵשֶׁת־אַבְרָם שָׂרָי: the construct chain 'the name of the wife of Abram' is followed by the name in apposition.",
+    "בַּת־הָרָן אֲבִי־מִלְכָּה וַאֲבִי יִסְכָּה: 'father of Milcah and father of Iscah' stands in apposition to הָרָן, bound to it by the conjunctive merkha on הָרָן; the English opens it with 'who was'. Radak explains why 'father of' follows 'daughter of': 11:27 named only Lot as Haran's child, so the verse adds that Haran also fathered Milcah and Iscah."
+   ],
+   "note": "The final clause is read as 'Haran, who was the father of Milcah and Iscah'. Whether Iscah is another name for Sarah is a question the commentators discuss; the English leaves the name as it stands. Sarai is the form of the name until 17:15.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:29:1",
+     "relation": "records",
+     "summary": "Rashi: Iscah is Sarah, so called because she saw (סוֹכָה) by the holy spirit and because all gazed (סוֹכִין) at her beauty; also יִסְכָּה speaks of princeliness (נְסִיכוּת), as שָׂרָה speaks of rule (שְׂרָרָה). The English keeps the name Iscah and records the identification."
+    },
+    {
+     "anchor": "ibn-ezra:11:29:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: Nahor's wife is named to give the descent of Rebecca, Rachel and Leah. The ancients said Iscah is Sarah; if that is a tradition, we accept it. Those who say Abraham, not Sarah, was barren contradict the text (Ishmael, Keturah's sons). He rejects the view that Sarah was Abram's sister. He also doubts she was Lot's sister, for then 11:31 would call her Terah's daughter, or his son's daughter as it does Lot. His own view is that the call of 12:1 came before 'Terah took' (11:31), since the Torah is not always in chronological order; so Terah set out 'to go to the land of Canaan', then liked Haran, settled there and died. The English leaves the identification open."
+    },
+    {
+     "anchor": "radak:11:29:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the wives are named in honor of Abram, and from Milcah came Rebecca."
+    },
+    {
+     "anchor": "radak:11:29:2",
+     "relation": "not-applicable",
+     "summary": "Radak: the word 'father' is added after 'daughter' to say Haran also had other children."
+    },
+    {
+     "anchor": "radak:11:29:3",
+     "relation": "records",
+     "summary": "Radak: Iscah is Sarah (Sanhedrin 69), as shown by 'my sister, daughter of my father' in 20:12."
+    },
+    {
+     "anchor": "onkelos:11:29:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos follows the Hebrew order and sense."
+    }
+   ]
+  },
+  {
+   "ref": "11:30",
+   "english": "Sarai was barren; she had no child.",
+   "literal": "and-was Sarai barren there-is-not to-her child",
+   "tokens": [
+    {
+     "id": "11:30.1",
+     "gloss": "and was",
+     "sense": "Qal III",
+     "note": "wayyiqtol feminine of היה; 'was, became'"
+    },
+    {
+     "id": "11:30.2",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "11:30.3",
+     "gloss": "barren"
+    },
+    {
+     "id": "11:30.4",
+     "gloss": "there is not",
+     "sense": "3",
+     "note": "negative particle; with לָהּ 'she has not'"
+    },
+    {
+     "id": "11:30.5",
+     "gloss": "to her"
+    },
+    {
+     "id": "11:30.6",
+     "gloss": "child",
+     "note": "the ו of וָלָד is a root letter, the original first radical of ילד (*wld), not the conjunction 'and'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:30.1",
+      "11:30.2",
+      "11:30.3"
+     ],
+     "english": "Sarai was barren",
+     "literal": "'and-was Sarai barren'"
+    },
+    {
+     "tokens": [
+      "11:30.4",
+      "11:30.5",
+      "11:30.6"
+     ],
+     "english": "she had no child",
+     "literal": "'there-is-not to-her child'"
+    }
+   ],
+   "grammar": [
+    "אֵין followed by ל is the Hebrew way to say 'has not': 'there is not to her a child'.",
+    "וָלָד is a rare noun for offspring, formed from ילד like the verbs of begetting above; Radak gives its pattern as that of חָכָם.",
+    "The accents: etnaḥta on עֲקָרָה divides the verse into the state of Sarai and its consequence.",
+    "The statement prepares the later promises to Abram; Radak reads it as a statement of the miracle."
+   ],
+   "note": "The sentence is a plain statement. The English keeps the Hebrew's two clauses, the second restating the first in negative terms.",
+   "commentary": [
+    {
+     "anchor": "radak:11:30:1",
+     "relation": "not-applicable",
+     "summary": "Radak: it says Sarai was barren to show the miracle that she bore, and in that miracle another, that she was ninety; Milcah, by contrast, was not barren but delayed by an accidental illness."
+    },
+    {
+     "anchor": "radak:11:30:2",
+     "relation": "not-applicable",
+     "summary": "Radak: she had none while in Ur of the Chaldeans, but in Canaan she did, as God promised Abraham in 12:2."
+    },
+    {
+     "anchor": "radak:11:30:3",
+     "relation": "not-applicable",
+     "summary": "Radak: וָלָד is a noun on the pattern of חָכָם."
+    },
+    {
+     "anchor": "onkelos:11:30:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos: 'and Sarai was barren, she had no child'."
+    }
+   ]
+  },
+  {
+   "ref": "11:31",
+   "english": "Terah took his son Abram, and Lot, the son of Haran, his grandson, and Sarai his daughter-in-law, the wife of his son Abram, and they went out with them from Ur of the Chaldeans to go to the land of Canaan; they came as far as Haran and settled there.",
+   "literal": "and-took Terah [obj]-Abram his-son and-[obj]-Lot son-of Haran son-of his-son and-[obj]-Sarai his-daughter-in-law wife-of Abram his-son and-went-out with-them from-Ur Chaldeans to-go land-ward Canaan and-came as-far-as Haran and-settled there",
+   "tokens": [
+    {
+     "id": "11:31.1",
+     "gloss": "and took",
+     "sense": "Qal 2",
+     "note": "wayyiqtol; take along"
+    },
+    {
+     "id": "11:31.2",
+     "gloss": "Terah"
+    },
+    {
+     "id": "11:31.3",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "11:31.4",
+     "gloss": "Abram"
+    },
+    {
+     "id": "11:31.5",
+     "gloss": "his son",
+     "sense": "1",
+     "note": "suffix on a construct noun"
+    },
+    {
+     "id": "11:31.6",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "11:31.7",
+     "gloss": "Lot"
+    },
+    {
+     "id": "11:31.8",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "11:31.9",
+     "gloss": "Haran"
+    },
+    {
+     "id": "11:31.10",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "11:31.11",
+     "gloss": "his son",
+     "sense": "1",
+     "note": "with the preceding word: his grandson"
+    },
+    {
+     "id": "11:31.12",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "11:31.13",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "11:31.14",
+     "gloss": "his daughter-in-law"
+    },
+    {
+     "id": "11:31.15",
+     "gloss": "the wife of",
+     "sense": "2"
+    },
+    {
+     "id": "11:31.16",
+     "gloss": "Abram"
+    },
+    {
+     "id": "11:31.17",
+     "gloss": "his son",
+     "sense": "1"
+    },
+    {
+     "id": "11:31.18",
+     "gloss": "and they went out",
+     "sense": "Qal 1",
+     "note": "wayyiqtol plural; the subject is not named"
+    },
+    {
+     "id": "11:31.19",
+     "gloss": "with them",
+     "sense": "1",
+     "note": "אֵת with a suffix"
+    },
+    {
+     "id": "11:31.20",
+     "gloss": "from Ur"
+    },
+    {
+     "id": "11:31.21",
+     "gloss": "of the Chaldeans"
+    },
+    {
+     "id": "11:31.22",
+     "gloss": "to go",
+     "note": "infinitive construct of הלך with ל, 'to go'; it is formed like a I-yod verb (לֶכֶת, like שֶׁבֶת from ישב), though the root is הלך. The pack's entry lists no Qal sense 'go', so no sense is given."
+    },
+    {
+     "id": "11:31.23",
+     "gloss": "to the land of",
+     "sense": "2",
+     "note": "with directional ה: toward"
+    },
+    {
+     "id": "11:31.24",
+     "gloss": "Canaan"
+    },
+    {
+     "id": "11:31.25",
+     "gloss": "and they came",
+     "sense": "Qal 2",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "11:31.26",
+     "gloss": "as far as",
+     "note": "spatial עַד, 'as far as'. The pack lists only the temporal senses of the entry (II, 'until', 'while'), so no sense is given."
+    },
+    {
+     "id": "11:31.27",
+     "gloss": "Haran",
+     "note": "the city Haran, spelled with ח; not the man הָרָן (with ה) of 11:26-29, though English writes both 'Haran'"
+    },
+    {
+     "id": "11:31.28",
+     "gloss": "and they settled",
+     "sense": "Qal 3",
+     "note": "wayyiqtol of ישב"
+    },
+    {
+     "id": "11:31.29",
+     "gloss": "there"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:31.1",
+      "11:31.2",
+      "11:31.3",
+      "11:31.4",
+      "11:31.5"
+     ],
+     "english": "Terah took his son Abram",
+     "literal": "'and-took Terah [obj]-Abram his-son'"
+    },
+    {
+     "tokens": [
+      "11:31.6",
+      "11:31.7",
+      "11:31.8",
+      "11:31.9",
+      "11:31.10",
+      "11:31.11"
+     ],
+     "english": "and Lot, the son of Haran, his grandson",
+     "literal": "'and-[obj]-Lot son-of-Haran son-of-his-son'"
+    },
+    {
+     "tokens": [
+      "11:31.12",
+      "11:31.13",
+      "11:31.14"
+     ],
+     "english": "and Sarai his daughter-in-law",
+     "literal": "'and-[obj]-Sarai his-daughter-in-law'"
+    },
+    {
+     "tokens": [
+      "11:31.15",
+      "11:31.16",
+      "11:31.17"
+     ],
+     "english": "the wife of his son Abram",
+     "literal": "'wife-of Abram his-son'"
+    },
+    {
+     "tokens": [
+      "11:31.18",
+      "11:31.19"
+     ],
+     "english": "and they went out with them",
+     "literal": "'and-went-out with-them'; Rashi: Terah and Abram went out with Lot and Sarai"
+    },
+    {
+     "tokens": [
+      "11:31.20",
+      "11:31.21"
+     ],
+     "english": "from Ur of the Chaldeans",
+     "literal": "'from-Ur Chaldeans'"
+    },
+    {
+     "tokens": [
+      "11:31.22",
+      "11:31.23",
+      "11:31.24"
+     ],
+     "english": "to go to the land of Canaan",
+     "literal": "'to-go toward-Canaan'"
+    },
+    {
+     "tokens": [
+      "11:31.25",
+      "11:31.26",
+      "11:31.27"
+     ],
+     "english": "they came as far as Haran",
+     "literal": "'and-came up-to Haran'"
+    },
+    {
+     "tokens": [
+      "11:31.28",
+      "11:31.29"
+     ],
+     "english": "and settled there",
+     "literal": "'and-settled there'"
+    }
+   ],
+   "grammar": [
+    "Terah is the subject of וַיִּקַּח, the three objects are Abram, Lot, and Sarai, each with the object marker; Radak explains that Terah leads the group because he is the father.",
+    "וַיֵּצְאוּ is plural and has no stated subject; אִתָּם 'with them' shows the group went together, led by Abram according to Ramban and Radak.",
+    "לָלֶכֶת אַרְצָה כְּנַעַן: infinitive construct of הלך (the Hebrew of this verb uses the form of ילך) with directional ה: 'to go to the land of Canaan'.",
+    "The accents: geresh on אִתָּם, revia on כַּשְׂדִּים; the departure is set off from its goal and from the stay in Haran.",
+    "וַיָּבֹאוּ עַד־חָרָן: 'came as far as Haran'; the verb of settling, וַיֵּשְׁבוּ, shows that the journey stopped there."
+   ],
+   "note": "Rashi reads וַיֵּצְאוּ אִתָּם as 'Terah and Abram went out with Lot and Sarai'; the English follows, with 'they' for the group and 'with them' kept in the line. 'Settled' follows Qal 3 of יָשַׁב. The pack's entry for הָלַךְ lists no Qal sense 'go', and the entry for עַד lists only its temporal senses, so no sense is given for לָלֶכֶת or for the spatial עַד.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:31:1",
+     "relation": "follows",
+     "summary": "Rashi: 'Terah and Abram went out with Lot and Sarai.' The English adopts this: the subject of 'went out' is Terah and Abram, and the object is Lot and Sarai."
+    },
+    {
+     "anchor": "ramban:11:31:1",
+     "relation": "records",
+     "summary": "Ramban: because Abram was greater than his father, those who followed his counsel went with him, so the text says 'with them'; Lot and Sarai went on Abram's account, even after he parted from his father."
+    },
+    {
+     "anchor": "radak:11:31:1",
+     "relation": "not-applicable",
+     "summary": "Radak: after God said 'Go' to Abram, Abram told his father in God's name and Terah agreed; Nahor refused; Lot was taken because his father was dead."
+    },
+    {
+     "anchor": "radak:11:31:2",
+     "relation": "not-applicable",
+     "summary": "Radak: here the going is credited to Abram, since the command was his."
+    },
+    {
+     "anchor": "radak:11:31:3",
+     "relation": "not-applicable",
+     "summary": "Radak: God had not told Abram to go to Canaan but to the land that I will show you; Canaan is the first land on the way out of Aram."
+    },
+    {
+     "anchor": "radak:11:31:4",
+     "relation": "not-applicable",
+     "summary": "Radak: Terah stopped at Haran, near the border and near Canaan, to be near Abram."
+    },
+    {
+     "anchor": "radak:11:31:5",
+     "relation": "not-applicable",
+     "summary": "Radak: the text repeats 'wife of Abram his son' for emphasis."
+    },
+    {
+     "anchor": "radak:11:31:6",
+     "relation": "not-applicable",
+     "summary": "Radak: Sarai left willingly, following her husband in faith."
+    },
+    {
+     "anchor": "onkelos:11:31:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos follows the Hebrew."
+    },
+    {
+     "anchor": "sforno:11:31:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: Canaan was suited to intellectual perfection, desirable among all lands, and its air was not spoiled by the flood."
+    }
+   ]
+  },
+  {
+   "ref": "11:32",
+   "english": "The days of Terah were two hundred and five years, and Terah died in Haran.",
+   "literal": "and-were days-of Terah five years and-two-hundred year and-died Terah in-Haran",
+   "tokens": [
+    {
+     "id": "11:32.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "wayyiqtol plural of היה"
+    },
+    {
+     "id": "11:32.2",
+     "gloss": "the days of",
+     "sense": "4",
+     "note": "construct plural; 'the days of his life'"
+    },
+    {
+     "id": "11:32.3",
+     "gloss": "Terah"
+    },
+    {
+     "id": "11:32.4",
+     "gloss": "five"
+    },
+    {
+     "id": "11:32.5",
+     "gloss": "years"
+    },
+    {
+     "id": "11:32.6",
+     "gloss": "and two hundred",
+     "note": "dual of מֵאָה, 'two hundred'. The pack's entry lists only the sense 'hundredth', which does not fit, so no sense is given."
+    },
+    {
+     "id": "11:32.7",
+     "gloss": "years"
+    },
+    {
+     "id": "11:32.8",
+     "gloss": "and died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "11:32.9",
+     "gloss": "Terah"
+    },
+    {
+     "id": "11:32.10",
+     "gloss": "in Haran"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:32.1",
+      "11:32.2",
+      "11:32.3"
+     ],
+     "english": "The days of Terah were",
+     "literal": "'and-were days-of Terah'"
+    },
+    {
+     "tokens": [
+      "11:32.4",
+      "11:32.5",
+      "11:32.6",
+      "11:32.7"
+     ],
+     "english": "two hundred and five years",
+     "literal": "'five years and-two-hundred year': the smaller number comes first"
+    },
+    {
+     "tokens": [
+      "11:32.8",
+      "11:32.9"
+     ],
+     "english": "and Terah died",
+     "literal": "'and-died Terah'"
+    },
+    {
+     "tokens": [
+      "11:32.10"
+     ],
+     "english": "in Haran",
+     "literal": "'in-Haran'"
+    }
+   ],
+   "grammar": [
+    "חָמֵשׁ שָׁנִים וּמָאתַיִם שָׁנָה: the smaller number comes first; 'five years and two hundred years'. The dual מָאתַיִם is 'two hundred'.",
+    "The verse closes the genealogy with Terah's whole life, as the genealogies of Genesis 5 do.",
+    "The inverted nun in בְּחָרָן, which Rashi and Radak comment on, belongs to the text's note, not to the English line.",
+    "Terah's death at Haran stands before Abram's departure in 12:4, a question which Rashi and Ramban discuss."
+   ],
+   "note": "Terah lived 205 years: at Abram's birth he was seventy, so Abram was 135 at his death; yet Abram left Haran at seventy-five (12:4). Rashi and Ramban face this: the text names Terah 'dead' early. The English follows the plain reading and records the chronology problem in the commentary. The paragraph mark פ follows this verse.",
+   "commentary": [
+    {
+     "anchor": "rashi:11:32:1",
+     "relation": "records",
+     "summary": "Rashi: Terah died after Abram left Haran for Canaan, since Abram was seventy-five at his departure and Terah was seventy at Abram's birth, making Terah 145; the text places the death first so that people would not say Abram failed to honor his father, and calls the wicked 'dead' even while alive. The English states the death in the verse's order and records Rashi's reading."
+    },
+    {
+     "anchor": "rashi:11:32:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: the text of this comment is an incomplete fragment, a parenthesis opening the next remark on the inverted nun."
+    },
+    {
+     "anchor": "rashi:11:32:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: the nun of בחרן is inverted to say: until Abram, the anger of the Place (God's wrath, חרון אף) was in the world. The English does not reflect the letter's shape."
+    },
+    {
+     "anchor": "ramban:11:32:1",
+     "relation": "records",
+     "summary": "Ramban: he questions Rashi's reasoning; he says it is the text's custom to give the father's life and death, then turn to the son; and Terah's case differs because the earlier genealogies omit death."
+    },
+    {
+     "anchor": "radak:11:32:1",
+     "relation": "not-applicable",
+     "summary": "Radak: Terah's days were 205; Abram was 135 at his death; by Seder Olam Abraham buried Terah two years before Sarah died."
+    },
+    {
+     "anchor": "radak:11:32:2",
+     "relation": "not-applicable",
+     "summary": "Radak: the verse says Terah died in Haran to show he did not abandon his idols and left for love of his son, not for love of God."
+    },
+    {
+     "anchor": "radak:11:32:3",
+     "relation": "not-applicable",
+     "summary": "Radak (continuing his previous comment, which ends 'and the nun of'): the nun of חָרָן is written 'wrapped' (מְלֻפֶּפֶת), that is, inverted. The sages drew from it that God killed Terah in wrath (חֲרוֹן אַף) because he did not repent; another midrash says he did repent, from 15:15 'you shall come to your fathers in peace'."
+    },
+    {
+     "anchor": "onkelos:11:32:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos: 'And the days of Terah were two hundred and five years; and Terah died in Haran.'"
+    },
+    {
+     "anchor": "sforno:11:32:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: Terah did not pursue what they had set out to reach and never came to Abram in Canaan."
+    }
+   ],
+   "apparatus": [
+    "Paragraph break (פ) after the verse. Chronology: 70 + 75 = 145, whereas Terah lived to 205 (Rashi; Ramban; Radak)."
+   ]
+  }
+ ]
+}

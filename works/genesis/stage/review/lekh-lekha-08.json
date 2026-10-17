@@ -1,0 +1,388 @@
+{
+ "unit": "lekh-lekha-08",
+ "model": "opus",
+ "summary": "The unit renders the Hebrew faithfully and follows Rashi and Ibn Ezra throughout; no verse contradicts a normative comment. The main faults are in the apparatus around the English: the closing quotation mark at 14:22 cuts off Abram's oath, which runs to 14:24; the notes credit Ibn Ezra with readings he does not give (bread and wine at 14:18, 'by' at 14:19) and cite Ramban for 'maker' when he argues for 'owner'. Several learner notes are wrong (the doubled pashta, the pausal לָךְ called an old form, a 'denominative' hifil, the pashta on עָנֵר), and some glosses and senses are missing or misplaced (14:18.10, 14:20.7, 14:20.11, 14:24.9–10). Rashi on 14:23 is marked 'records' though the English agrees with it.",
+ "patches": [
+  {
+   "ref": "14:17",
+   "path": "token:14:17.14.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "The king goes out to a place: sense 1 'to, unto' fits the gloss 'to' better than 3 'towards'."
+  },
+  {
+   "ref": "14:18",
+   "path": "token:14:18.1.gloss",
+   "value": "and Melchi-",
+   "severity": "style",
+   "reason": "The name is one lemma over two tokens; glossing both tokens 'Melchizedek' gives the learner the whole name twice. Split it between the tokens."
+  },
+  {
+   "ref": "14:18",
+   "path": "token:14:18.2.gloss",
+   "value": "-zedek",
+   "severity": "style",
+   "reason": "Second part of the split name; see 14:18.1."
+  },
+  {
+   "ref": "14:18",
+   "path": "token:14:18.4.note",
+   "value": "Ibn Ezra, Ramban and Radak: Salem is Jerusalem ('In Salem is his booth', Psalm 76:3)",
+   "severity": "error",
+   "reason": "Rashi's comment (Shem son of Noah) is on Melchizedek, not on Salem; Rashi says nothing about Salem in the pack. The identification with Jerusalem is Ibn Ezra's, Ramban's and Radak's."
+  },
+  {
+   "ref": "14:18",
+   "path": "token:14:18.10.gloss",
+   "value": "of God",
+   "severity": "error",
+   "reason": "The token is לְאֵל, preposition and noun; the gloss 'of' drops the noun אֵל. The phrase 'of God Most High' covers it, but the token gloss must carry its own word."
+  },
+  {
+   "ref": "14:18",
+   "path": "token:14:18.10.sense",
+   "value": "6",
+   "severity": "error",
+   "reason": "The entry for אֵל lists senses and the noun has none; here it is sense 6 'God', as at 14:19.5, 14:20.2 and 14:22.10."
+  },
+  {
+   "ref": "14:18",
+   "path": "grammar",
+   "value": [
+    "The proper name has two parts joined by maqqef, מַלְכִּי־צֶדֶק. The pashta is written on the last letter of its word; because צֶדֶק is stressed on its first syllable, the accent is written a second time on the stressed syllable. The name can be read 'my king is Ṣedeq' or 'king of righteousness'.",
+    "הוֹצִיא is a hifil perfect, 'brought out'; the verb comes after its subject, so the clause is a new scene, not the next step in a chain of wayyiqtols.",
+    "וְהוּא כֹהֵן is a circumstantial clause giving his office: the pronoun opens the clause and the noun without article is the predicate.",
+    "אֵל עֶלְיוֹן: 'God Most High', the first appearance of the title."
+   ],
+   "severity": "error",
+   "reason": "The doubled pashta on צֶדֶק does not mark the name as a unit (the maqqef does that): pashta is postpositive, and on a word stressed before the last syllable it is repeated on the stressed syllable. The other notes are kept."
+  },
+  {
+   "ref": "14:18",
+   "path": "note",
+   "value": "I give שָׁלֵם as Salem and record Jerusalem (Ibn Ezra, Ramban, Radak, citing Psalm 76:3). Rashi's 'Shem son of Noah' (so Radak) is recorded, not adopted, since it identifies the man and does not change the English. Rashi holds that the bread and wine were what one gives those weary from war (so also Radak and Sforno); Ibn Ezra does not comment on them. The Targum's 'ministered' (מְשַׁמֵּשׁ) for כֹהֵן, which Ibn Ezra adopts, is rendered 'was a priest'.",
+   "severity": "error",
+   "reason": "Ibn Ezra says nothing about the bread and wine in the pack; the refreshment reading is Rashi's, with Radak and Sforno. The note attributed it to Ibn Ezra."
+  },
+  {
+   "ref": "14:19",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "14:19.1"
+     ],
+     "english": "He blessed him",
+     "literal": "'and-blessed-him'"
+    },
+    {
+     "tokens": [
+      "14:19.2"
+     ],
+     "english": "and said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "14:19.3",
+      "14:19.4"
+     ],
+     "english": "Blessed be Abram",
+     "literal": "'blessed Abram', passive participle in a wish"
+    },
+    {
+     "tokens": [
+      "14:19.5",
+      "14:19.6"
+     ],
+     "english": "by God Most High",
+     "literal": "'to-God Most-High'; the לְ after a passive participle names the one from whom the blessing comes, 'by'"
+    },
+    {
+     "tokens": [
+      "14:19.7",
+      "14:19.8",
+      "14:19.9"
+     ],
+     "english": "maker of heaven and earth",
+     "literal": "'maker-of heavens and-earth'; Rashi: קֹנֶה is like עֹשֶׂה, and by making them he made them his own"
+    }
+   ],
+   "severity": "error",
+   "reason": "The literal of 'by God Most High' credits the reading of לְ as 'by' to Ibn Ezra; Ibn Ezra has no comment on this verse in the pack. The reason is given from the grammar instead. The English of the phrases is unchanged."
+  },
+  {
+   "ref": "14:19",
+   "path": "note",
+   "value": "קֹנֵה is read 'maker' with Rashi (קֹנֶה like עֹשֶׂה, and by making them he acquired them as his own) and Radak (not one who buys from another, but one who makes or brings into being). Ramban holds the main sense is ownership, 'whose possession they are', and says Onkelos meant this by דִּקִנְיָנֵיהּ; that reading is recorded in the apparatus. בָּרוּךְ is a Qal passive participle.",
+   "severity": "error",
+   "reason": "Ramban does not support 'maker': he says the correct point is Rashi's second one, possession (קנאן להיות לו), and that Onkelos rendered 'whose possession' for that reason. The note also said 'the נ in בָּרוּךְ', a letter the word does not have."
+  },
+  {
+   "ref": "14:20",
+   "path": "token:14:20.7.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The entry for יָד lists senses and the token has none; 'into your hand' is sense 1 'hand' (as at 14:22.7)."
+  },
+  {
+   "ref": "14:20",
+   "path": "token:14:20.11.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "The entry for כֹּל lists senses and the token has none; absolute כֹּל 'everything' is sense 2.a 'all things, all'."
+  },
+  {
+   "ref": "14:20",
+   "path": "grammar",
+   "value": [
+    "מִגֵּן is a piel perfect, 'delivered up', as Rashi (הִסְגִּיר, Hosea 11:8) and Ibn Ezra (like נָתַן, Proverbs 4:9) say, not 'shielded'. The lexicon files it under the root גנן, which gives מָגֵן 'shield'; Ibn Ezra holds that the מ is a root letter.",
+    "צָרֶיךָ is a plural construct (צָרֵי) with the suffix ךָ: 'your adversaries'.",
+    "The pashta on בָּרוּךְ and the zaqef on עֶלְיוֹן divide the blessing from its relative clause.",
+    "וַיִּתֶּן־לוֹ has no stated subject; the reader must decide who gives to whom, and Rashi says Abram gave."
+   ],
+   "severity": "style",
+   "reason": "The first note gave only the lexicon's derivation from the root of 'shield'; Ibn Ezra, a normative commentator, says the מ is radical. A learner should see both."
+  },
+  {
+   "ref": "14:21",
+   "path": "token:14:21.8.sense",
+   "value": "4",
+   "severity": "question",
+   "reason": "Of the senses the pack lists, 'the man himself' (person, individual) fits the captured persons better than sense 1 'that which breathes'. Proposed: 4."
+  },
+  {
+   "ref": "14:21",
+   "path": "token:14:21.11.note",
+   "value": "reflexive dative, 'for yourself'; the pausal form of לְךָ at the silluq, masculine singular. The pack parses it feminine.",
+   "severity": "error",
+   "reason": "לָךְ here is the ordinary pausal form of the masculine לְךָ, not a feminine form used in a masculine sense."
+  },
+  {
+   "ref": "14:21",
+   "path": "grammar",
+   "value": [
+    "נֶפֶשׁ with the article is a collective singular, 'the persons'; the word does not mean 'soul' here but the living captives.",
+    "The two imperatives תֶּן and קַח are set against each other: the king asks for the people and offers the goods.",
+    "הָרְכֻשׁ is placed before its verb for contrast with הַנֶּפֶשׁ.",
+    "לָךְ is the pausal form of לְךָ 'to you' (masculine singular): at the silluq the suffix is written ךְ with qamets under the ל. The same form returns at the etnaḥta in 14:23."
+   ],
+   "severity": "error",
+   "reason": "The last note called לָךְ 'an old form of the second-person masculine'. It is the regular pausal form of לְךָ, conditioned by the silluq."
+  },
+  {
+   "ref": "14:22",
+   "path": "english",
+   "value": "Abram said to the king of Sodom, \"I raise my hand in oath to the LORD, God Most High, maker of heaven and earth:",
+   "severity": "error",
+   "reason": "Abram's speech goes on through 14:24 (the unit's own grammar note says the oath does not end here). The closing quotation mark cuts it off; the quote is now closed at the end of 14:24."
+  },
+  {
+   "ref": "14:22",
+   "path": "apparatus",
+   "value": [
+    "14:22.6: MAM writes הֲרִמֹתִי (defective); WLC writes הֲרִימֹתִי (plene), the spelling of Ibn Ezra's and Ramban's lemmas. The sense is the same."
+   ],
+   "severity": "style",
+   "reason": "The pack records a spelling variant for 14:22.6 that the segment does not mention."
+  },
+  {
+   "ref": "14:23",
+   "path": "english",
+   "value": "I will not take so much as a thread or a sandal strap, nor anything that is yours, so that you cannot say, 'I made Abram rich.'",
+   "severity": "error",
+   "reason": "The verse is inside Abram's speech, which opened at 14:22; the quoted words of the king are a quotation within a quotation and take single marks."
+  },
+  {
+   "ref": "14:23",
+   "path": "token:14:23.10.note",
+   "value": "pausal form of לְךָ at the etnaḥta, masculine singular; the pack parses it feminine",
+   "severity": "style",
+   "reason": "A learner meets the same pausal לָךְ as at 14:21 with no note; the pack's 'feminine' parse needs the warning here too."
+  },
+  {
+   "ref": "14:23",
+   "path": "grammar",
+   "value": [
+    "The oath formula אִם ... אִם takes a negative sense: 'if I take ... may I be ...', that is 'I will not take'; the penalty is left unsaid.",
+    "מִחוּט וְעַד שְׂרוֹךְ־נַעַל is an idiom for 'the smallest thing', from a thread to a shoe strap.",
+    "הֶעֱשַׁרְתִּי is the hifil of עָשַׁר, the causative of the Qal 'be rich': 'I made rich'. The pronoun אֲנִי, not needed with a finite verb, stresses the claim: 'I, I made'.",
+    "The etnaḥta on לָךְ ends the oath, and וְלֹא תֹאמַר starts the clause giving the purpose."
+   ],
+   "severity": "error",
+   "reason": "The hifil is not denominative: the lexicon lists the Qal 'be, become rich', and the hifil is its causative."
+  },
+  {
+   "ref": "14:23",
+   "path": "commentary:rashi:14:23:3.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "Rashi gives the reason for Abram's words (God had promised to make him rich, 12:2); it is not an alternative reading that the English declines to adopt, and the English is consistent with it."
+  },
+  {
+   "ref": "14:23",
+   "path": "commentary:rashi:14:23:3.summary",
+   "value": "Rashi: Abram refuses because the Holy One had promised to make him rich, as it says 'and I will bless you' (12:2). The English is consistent; the reason is not stated in the text.",
+   "severity": "error",
+   "reason": "The summary must fit the corrected relation: Rashi's comment explains the English, it does not offer a different one."
+  },
+  {
+   "ref": "14:24",
+   "path": "english",
+   "value": "Not for me, only what my servants have eaten, and the share of the men who went with me: Aner, Eshcol and Mamre. They may take their share.\"",
+   "severity": "error",
+   "reason": "Abram's speech, opened at 14:22, ends here; the closing quotation mark belongs at the end of this verse."
+  },
+  {
+   "ref": "14:24",
+   "path": "token:14:24.9.gloss",
+   "value": "went",
+   "severity": "error",
+   "reason": "אִתִּי is its own token (14:24.10); the verb הָלְכוּ means 'went' alone, and 'with' belongs to the next token."
+  },
+  {
+   "ref": "14:24",
+   "path": "token:14:24.9.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "None of the senses the pack lists fits: Qal II.1 is 'pass away, die' and Qal II.2 'live, walk' is the sense of a way of life. The plain 'go' of the Qal is not among the listed senses, so the sense is removed; see the token note."
+  },
+  {
+   "ref": "14:24",
+   "path": "token:14:24.9.note",
+   "value": "perfect plural, 'went'. The pack lists no sense for the plain Qal 'go'; Qal II.2 'live, walk' is a way of life, not movement, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense is removed, as the review brief asks."
+  },
+  {
+   "ref": "14:24",
+   "path": "token:14:24.10.gloss",
+   "value": "with me",
+   "severity": "error",
+   "reason": "The token is the preposition אֵת with the 1st person suffix: 'with me', not 'me'."
+  },
+  {
+   "ref": "14:24",
+   "path": "token:14:24.10.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The entry for the preposition אֵת lists senses; 'with me' of companions is sense 1 'together with' (the translator gave senses to the preposition אֶל elsewhere)."
+  },
+  {
+   "ref": "14:24",
+   "path": "grammar",
+   "value": [
+    "בִּלְעָדַי is a preposition with suffix meaning 'apart from me'; it opens the verse without a verb, as a stand-alone refusal.",
+    "רַק limits what follows: only the food eaten and the allies' portion are excepted from the oath.",
+    "The names עָנֵר אֶשְׁכֹּל וּמַמְרֵא stand in apposition to הָאֲנָשִׁים; the zaqef on וּמַמְרֵא closes the list, and the tipḥa on הֵם and the silluq end the closing clause 'they shall take their share'.",
+    "יִקְחוּ is jussive in sense: 'let them take'; הֵם adds emphasis, 'let them, for their part'."
+   ],
+   "severity": "error",
+   "reason": "The pashta on עָנֵר is a minor disjunctive inside the segment that the zaqef on וּמַמְרֵא ends; it does not divide the names from the verb. The zaqef does."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:14:17:1",
+   "verdict": "consistent",
+   "comment": "The English keeps Shaveh as the name, as Rashi says (כך שמו)."
+  },
+  {
+   "anchor": "rashi:14:17:2",
+   "verdict": "consistent",
+   "comment": "The English keeps 'the King's Valley'; Rashi's Targum explanation and the aggada are recorded."
+  },
+  {
+   "anchor": "rashi:14:18:1",
+   "verdict": "consistent",
+   "comment": "The identification with Shem does not bear on the wording; recorded."
+  },
+  {
+   "anchor": "rashi:14:18:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:14:18:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:14:18:2",
+   "verdict": "consistent",
+   "comment": "'Salem' is the text's name; the identification with Jerusalem is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:14:18:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:19:1",
+   "verdict": "consistent",
+   "comment": "'maker' is Rashi's עֹשֶׂה."
+  },
+  {
+   "anchor": "rashi:14:20:1",
+   "verdict": "consistent",
+   "comment": "'delivered' is Rashi's הִסְגִּיר."
+  },
+  {
+   "anchor": "rashi:14:20:2",
+   "verdict": "consistent",
+   "comment": "The English supplies Abram as the giver."
+  },
+  {
+   "anchor": "rashi:14:20:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:14:20:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:21:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:22:1",
+   "verdict": "consistent",
+   "comment": "Rashi reads the perfect as present, מֵרִים אֲנִי: 'I raise'."
+  },
+  {
+   "anchor": "ibn-ezra:14:22:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:14:22:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:23:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:23:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:23:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:14:23:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:14:23:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:14:24:1",
+   "verdict": "consistent",
+   "comment": "'my servants' follows Rashi's עֲבָדַי."
+  },
+  {
+   "anchor": "ibn-ezra:14:24:1",
+   "verdict": "consistent",
+   "comment": "'my servants' follows Ibn Ezra's עבדיו."
+  }
+ ]
+}

@@ -1,0 +1,1750 @@
+{
+ "unit": "perek-4-03",
+ "model": "opus",
+ "summary": "The English of the six sayings is sound in substance, but the token data was filled mechanically: every sense is '1', and about forty of them name a wrong homograph (Shem, Tob, Rosh, Shual, Adam, 'lamb' for זֶה, 'father' for הַבָּא, 'nose' for אַף, 'where?' for אֵין, 'ploughshare' for אֵת) or the wrong stem; these are re-pointed to the listed Jastrow entries or removed with a note. Every segment literal holds only the last phrase's literal. In 4:18 'ask on his behalf' is corrected to 'question him' against the commentators, and מֻטָּל is the Hofal of נטל (not a Pual of טלל) in both the notes and the morphology. Rambam's causal reading of 4:14 is now recorded rather than 'followed', and several summaries (Bartenura 4:13:7, 4:14:3, 4:16:1; Rambam 4:13:1) are corrected. The model morphology misses the contracted article in seven tokens and the construct state of כֶּתֶר.",
+ "patches": [
+  {
+   "ref": "4:13",
+   "path": "literal",
+   "value": "Rabbi Yehuda says: be careful in-the-study, for-error-of study rises (to) deliberate-sin. Rabbi Shimon says: three crowns they: crown-of Torah, and-crown-of priesthood, and-crown-of kingship; and-crown-of name good rises over their-backs.",
+   "severity": "error",
+   "reason": "The segment literal holds only the literal of the last phrase, not a word-for-word rendering of the whole segment as the brief requires."
+  },
+  {
+   "ref": "4:14",
+   "path": "literal",
+   "value": "Rabbi Nehorai says: be going-into-exile to-place-of Torah, and-not you-say that-she will-come after-you, that-your-colleagues will-establish-her in-your-hand. And-unto your-understanding not you-lean (Proverbs 3).",
+   "severity": "error",
+   "reason": "The segment literal holds only the literal of the last phrase, not a word-for-word rendering of the whole segment as the brief requires."
+  },
+  {
+   "ref": "4:15",
+   "path": "literal",
+   "value": "Rabbi Yannai says: there-is-not in-our-hands, not from-tranquility-of the-wicked and-also not from-sufferings-of the-righteous. Rabbi Matya son-of Harash says: be preceding in-greeting-of every person, and-be tail to-the-lions, and-not be head to-the-foxes.",
+   "severity": "error",
+   "reason": "The segment literal holds only the literal of the last phrase, not a word-for-word rendering of the whole segment as the brief requires."
+  },
+  {
+   "ref": "4:16",
+   "path": "literal",
+   "value": "Rabbi Yaakov says: the-world the-this is-like to-vestibule before the-world the-coming. Prepare yourself in-the-vestibule, so-that you-will-enter to-the-hall.",
+   "severity": "error",
+   "reason": "The segment literal holds only the literal of the last phrase, not a word-for-word rendering of the whole segment as the brief requires."
+  },
+  {
+   "ref": "4:17",
+   "path": "literal",
+   "value": "He was saying: fine (= better) hour one in-repentance and-deeds good in-the-world the-this, than-all life-of the-world the-coming. And-fine hour one of coolness-of spirit in-the-world the-coming, than-all life-of the-world the-this.",
+   "severity": "error",
+   "reason": "The segment literal holds only the literal of the last phrase, not a word-for-word rendering of the whole segment as the brief requires."
+  },
+  {
+   "ref": "4:18",
+   "path": "literal",
+   "value": "Rabbi Shimon son-of Elazar says: not you-appease [object] your-fellow in-hour-of his-anger, and-not you-comfort-him in-hour that-his-dead cast-down before-him, and-not you-ask to-him in-hour-of his-vow, and-not you-strive to-see-him in-hour-of his-disgrace.",
+   "severity": "error",
+   "reason": "The segment literal holds only the literal of the last phrase, not a word-for-word rendering of the whole segment as the brief requires."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.1.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.1.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.11.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.11.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.1.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.1.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.1.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.1.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.13.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.13.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.1.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.1.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.1.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.1.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:רַב sense 1 is the bare label 'adj'; רַבִּי is 'my master', Jastrow's רַב II 'superior, master' (listed in the pack)."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.18.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "The BDB entry gives only 'custom, manner, mode, law (of man)', which does not fit the Torah; Jastrow's תּוֹרָה (listed) is 'teaching, law, esp. the Law of Moses'."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.7.lex",
+   "value": "jastrow:תּוֹרָה",
+   "severity": "error",
+   "reason": "The BDB entry gives only 'custom, manner, mode, law (of man)', which does not fit the Torah; Jastrow's תּוֹרָה (listed) is 'teaching, law, esp. the Law of Moses'."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.5.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה here is the noun 'lamb, sheep', a wrong homograph; Jastrow's זֶה 'this, that' is listed."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.11.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה here is the noun 'lamb, sheep', a wrong homograph; Jastrow's זֶה 'this, that' is listed."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.27.lex",
+   "value": "jastrow:זֶה",
+   "severity": "error",
+   "reason": "bdbs:זֶה here is the noun 'lamb, sheep', a wrong homograph; Jastrow's זֶה 'this, that' is listed."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.10.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is בָּא = אַבָּא 'father', a wrong homograph; Jastrow's בָּא III 'coming, future; עולם הבא the world to come' is listed. Sense 1 of that entry is meant."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.15.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is בָּא = אַבָּא 'father', a wrong homograph; Jastrow's בָּא III 'coming, future; עולם הבא the world to come' is listed. Sense 1 of that entry is meant."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.23.lex",
+   "value": "jastrow:בָּא III",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is בָּא = אַבָּא 'father', a wrong homograph; Jastrow's בָּא III 'coming, future; עולם הבא the world to come' is listed. Sense 1 of that entry is meant."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.25.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective is Jastrow's טוֹב II 'good; a good thing' (listed)."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.25.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective is Jastrow's טוֹב II 'good; a good thing' (listed)."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.9.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective is Jastrow's טוֹב II 'good; a good thing' (listed)."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.9.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place name Tob; the adjective is Jastrow's טוֹב II 'good; a good thing' (listed)."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.13.lex",
+   "value": "jastrow:חָבֵר",
+   "severity": "error",
+   "reason": "bdbs:חָבֵר sense 1 is the bare label 'adj'; Jastrow's חָבֵר sense 2 'associate, friend, colleague, fellow-student' is the sense."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.13.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:חָבֵר sense 1 is the bare label 'adj'; Jastrow's חָבֵר sense 2 'associate, friend, colleague, fellow-student' is the sense."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.9.lex",
+   "value": "jastrow:חָבֵר",
+   "severity": "error",
+   "reason": "bdbs:חָבֵר sense 1 is the bare label 'adj'; Jastrow's חָבֵר sense 2 'associate, friend, colleague, fellow-student' is the sense."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.9.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "bdbs:חָבֵר sense 1 is the bare label 'adj'; Jastrow's חָבֵר sense 2 'associate, friend, colleague, fellow-student' is the sense."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.4.lex",
+   "value": "jastrow:יָפֶה",
+   "severity": "error",
+   "reason": "BDB 'fair, beautiful' does not fit: יָפָה ... מִן is 'better, worth more than'. Jastrow's יָפֶה sense 3 '(cmp. טוֹב) worth, valued' is listed."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.4.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "BDB 'fair, beautiful' does not fit: יָפָה ... מִן is 'better, worth more than'. Jastrow's יָפֶה sense 3 '(cmp. טוֹב) worth, valued' is listed."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.16.lex",
+   "value": "jastrow:יָפֶה",
+   "severity": "error",
+   "reason": "BDB 'fair, beautiful' does not fit: יָפָה ... מִן is 'better, worth more than'. Jastrow's יָפֶה sense 3 '(cmp. טוֹב) worth, valued' is listed."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.16.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "BDB 'fair, beautiful' does not fit: יָפָה ... מִן is 'better, worth more than'. Jastrow's יָפֶה sense 3 '(cmp. טוֹב) worth, valued' is listed."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.8.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "With a preposition פָּנִים is 'before, in front of' (BDB 1.7.1), not 'face' (1)."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.17.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "With a preposition פָּנִים is 'before, in front of' (BDB 1.7.1), not 'face' (1)."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.3.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: the Qal sense of אָמַר is 1.1, not the umbrella 1."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.13.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: the Qal sense of אָמַר is 1.1, not the umbrella 1."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.3.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: the Qal sense of אָמַר is 1.1, not the umbrella 1."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.9.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: the Qal sense of אָמַר is 1.1, not the umbrella 1."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.3.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: the Qal sense of אָמַר is 1.1, not the umbrella 1."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.17.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: the Qal sense of אָמַר is 1.1, not the umbrella 1."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.3.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: the Qal sense of אָמַר is 1.1, not the umbrella 1."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.3.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: the Qal sense of אָמַר is 1.1, not the umbrella 1."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.5.sense",
+   "value": "1.1",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: the Qal sense of אָמַר is 1.1, not the umbrella 1."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.4.sense",
+   "value": "1.1.3",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: Qal 'to be' is 1.1.3, not the umbrella 1."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.4.sense",
+   "value": "1.1.3",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: Qal 'to be' is 1.1.3, not the umbrella 1."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.18.sense",
+   "value": "1.1.3",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: Qal 'to be' is 1.1.3, not the umbrella 1."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.23.sense",
+   "value": "1.1.3",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: Qal 'to be' is 1.1.3, not the umbrella 1."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.27.sense",
+   "value": "1.1.3",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: Qal 'to be' is 1.1.3, not the umbrella 1."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.2.sense",
+   "value": "1.1.3",
+   "severity": "style",
+   "reason": "BDB lists senses by stem: Qal 'to be' is 1.1.3, not the umbrella 1."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.9.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "Qal 'go up, ascend' (1.1.1), here figurative 'rises to (the level of)'; 1 is the umbrella."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.10.lex",
+   "value": "jastrow:זָדוֹן",
+   "severity": "error",
+   "reason": "BDB 'pride, insolence, arrogance' does not fit; the sense is 'deliberate sin' opposite שְׁגָגָה, Jastrow's זָדוֹן 1, which cites this mishnah."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.10.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "BDB 'pride, insolence, arrogance' does not fit; the sense is 'deliberate sin' opposite שְׁגָגָה, Jastrow's זָדוֹן 1, which cites this mishnah."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.24.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the proper name Shem; the noun 'name' is Jastrow's שֵׁם II (listed). Sense 1 of that entry is meant."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.26.sense",
+   "value": "1.1.8",
+   "severity": "style",
+   "reason": "With עַל the verb is 'to excel, be superior to' (Qal 1.1.8)."
+  },
+  {
+   "ref": "4:13",
+   "path": "token:4:13.27.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "'above, beyond (in comparison)' (1.3) is the sense of עַל here."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.5.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "Sense 1 is 'to uncover, remove'; the word is 'go into exile', Qal 1.1.3."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.11.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:בָּא I is אַבָּא 'father', a wrong homograph; the pack lists no entry for the verb בוא, so no sense can be given."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.11.note",
+   "value": "Qal imperfect 3fs of the hollow root בוא, 'she (the Torah) will come'. The pack's entry jastrow:בָּא I is אַבָּא 'father', the wrong homograph; no entry for the verb is listed, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense is removed."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.14.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:קָם is the noun 'adversary', a wrong homograph; the pack lists no entry for the verb קום/קִיֵּם, so no sense can be given."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.14.note",
+   "value": "Piel imperfect 3mp of קום (Mishnaic קִיֵּם 'make endure, secure') with the 3fs suffix הָ, the Torah. The pack's entry jastrow:קָם is the noun 'adversary', the wrong homograph; no entry for the verb is listed, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense is removed."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.16.lex",
+   "value": "bdbs:אֵל",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; וְאֶל is the preposition, BDB אֵל (listed). With נִשְׁעַן it is 'lean against/on', sense 8 'at, by, against'."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.16.sense",
+   "value": "8",
+   "severity": "error",
+   "reason": "bdbs:אַל is the negative 'no, not'; וְאֶל is the preposition, BDB אֵל (listed). With נִשְׁעַן it is 'lean against/on', sense 8 'at, by, against'."
+  },
+  {
+   "ref": "4:14",
+   "path": "token:4:14.19.sense",
+   "value": "3.1",
+   "severity": "error",
+   "reason": "Sense 1 of jastrow:שָׁעַן is only an etymological cross-reference; the Nifal 'to rely on, lean, be supported' is 3.1."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.4.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?', a wrong homograph; Jastrow's אֵין 'nothing, not' (listed) is the existential negative."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.4.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is the interrogative 'where?, whence?', a wrong homograph; Jastrow's אֵין 'nothing, not' (listed) is the existential negative."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.9.lex",
+   "value": "jastrow:אַף I",
+   "severity": "error",
+   "reason": "bdbs:אַף is 'nostril, nose, face', a wrong homograph; the particle 'also, too' is Jastrow's אַף I (listed)."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.9.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אַף is 'nostril, nose, face', a wrong homograph; the particle 'also, too' is Jastrow's אַף I (listed)."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.14.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:מַתְיָא is the Aphel participle of אֲתָא, not the name Matya; no entry for the name is listed."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.14.note",
+   "value": "A proper name. The pack's entry jastrow:מַתְיָא is the Aramaic participle 'leading to', not the name, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense is removed."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.16.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:חָרָשׁ is the common noun 'craftsman'; here חָרָשׁ is a name, and no entry for the name is listed."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.16.note",
+   "value": "A proper name (Ḥarash). The pack's entries for חָרָשׁ are the common nouns 'craftsman' and 'sorcerer', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense is removed."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.19.sense",
+   "value": "4.1",
+   "severity": "error",
+   "reason": "Sense 1 is the Qal; מַקְדִּים is Hifil, Jastrow 4.1 'to advance; to do first; to anticipate'."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.19.gloss",
+   "value": "being first",
+   "severity": "style",
+   "reason": "מַקְדִּים is 'one who is first, precedes'; 'greet' belongs to בִּשְׁלוֹם, which has its own gloss."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.20.lex",
+   "value": "jastrow:שָׁלוֹם I",
+   "severity": "error",
+   "reason": "BDB 'completeness, soundness, welfare, peace' has no 'greeting'; Jastrow's שָׁלוֹם I 'peace, salvation; salutation' (listed) is the sense."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.20.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "BDB 'completeness, soundness, welfare, peace' has no 'greeting'; Jastrow's שָׁלוֹם I 'peace, salvation; salutation' (listed) is the sense."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.21.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "'every, any' (1.2) is the sense before an indefinite singular: כָּל אָדָם 'every person'."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.22.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם is the proper name Adam ('red'); Jastrow's אָדָם 'man' (listed) is meant."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.22.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:אָדָם is the proper name Adam ('red'); Jastrow's אָדָם 'man' (listed) is meant."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.28.lex",
+   "value": "jastrow:רֹאשׁ",
+   "severity": "error",
+   "reason": "bdbs:רֹאשׁ is the proper name Rosh; the translator's note says so but kept it. Jastrow's רֹאשׁ 'head' is listed."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.28.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:רֹאשׁ is the proper name Rosh; the translator's note says so but kept it. Jastrow's רֹאשׁ 'head' is listed."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.29.lex",
+   "value": "jastrow:שׁוּעָל",
+   "severity": "error",
+   "reason": "bdbs:שׁוּעָל is the proper name Shual; the noun 'fox' is Jastrow's שׁוּעָל (listed)."
+  },
+  {
+   "ref": "4:15",
+   "path": "token:4:15.29.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:שׁוּעָל is the proper name Shual; the noun 'fox' is Jastrow's שׁוּעָל (listed)."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.6.lex",
+   "value": "jastrow:דָּמָה ²",
+   "severity": "error",
+   "reason": "bdbs:דָּמָה is 'to cease, cut off, destroy', a wrong homograph; Jastrow's דָּמָה ² (v. דמי 'to be like') is the right entry."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.6.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:דָּמָה ² gives only a cross-reference to דמי, so no sense path names 'to be like'."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.6.note",
+   "value": "Qal participle of דמה 'to be like', with לְ of the thing compared. The pack's BDB entry is the homograph 'to cease, destroy'; Jastrow's דָּמָה ² is the right one but gives only a cross-reference, so no sense is given.",
+   "severity": "error",
+   "reason": "Records the homograph and why no sense is given."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.11.sense",
+   "value": "3.1",
+   "severity": "error",
+   "reason": "Sense 1 is a cross-reference for the Qal; הַתְקֵן is Hifil, Jastrow 3.1 'to prepare, fit', which cites Avot 4:16."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.12.lex",
+   "value": "jastrow:עֶצֶם",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place name Azem; reflexive עַצְמְךָ is Jastrow's עֶצֶם sense 3 'substance, essence, self' (listed)."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.12.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place name Azem; reflexive עַצְמְךָ is Jastrow's עֶצֶם sense 3 'substance, essence, self' (listed)."
+  },
+  {
+   "ref": "4:16",
+   "path": "token:4:16.15.sense",
+   "value": "5.1",
+   "severity": "error",
+   "reason": "Sense 1 is a cross-reference; the Nifal 'to be brought in, to enter' is 5.1."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.20.lex",
+   "value": "jastrow:קוֹרָה II",
+   "severity": "error",
+   "reason": "bdbs:קוֹרָה 'rafter, beam' is the wrong homograph, as the translator's note says; Jastrow's קוֹרָה II 'cold, cooling; קוֹרַת רוּחַ satisfaction' is listed and cites this mishnah."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.20.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "bdbs:קוֹרָה 'rafter, beam' is the wrong homograph, as the translator's note says; Jastrow's קוֹרָה II 'cold, cooling; קוֹרַת רוּחַ satisfaction' is listed and cites this mishnah."
+  },
+  {
+   "ref": "4:17",
+   "path": "token:4:17.21.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "'spirit' (1.2), not the umbrella 'spirit, wind'."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.7.sense",
+   "value": "1.3",
+   "severity": "error",
+   "reason": "תְּרַצֶּה is Piel: BDB 1.3 'Piel to seek favour of'; 1 is the Qal umbrella 'be pleased with'."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.8.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:אֵת here is 'ploughshare', a wrong homograph; the object marker is a particle without senses."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.8.note",
+   "value": "The direct-object marker before the definite object חֲבֵרְךָ. The pack's entry bdbs:אֵת is the homograph 'ploughshare', so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense is removed."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.13.sense",
+   "value": "2.1",
+   "severity": "error",
+   "reason": "Sense 1 is 'to be at ease'; the Piel 'to comfort, console' is 2.1."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.16.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "מֻטָּל is from נטל (Hofal of הֵטִיל 'cast, lay down'), not טָלַל 'to hang over'; the pack lists no entry for נטל."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.16.note",
+   "value": "Hofal participle of נטל (Hifil הֵטִיל 'to cast, lay'): 'laid down, lying'. The nun of the root is assimilated into the doubled ט. The pack's entry jastrow:טָלַל is the wrong root, so no sense is given.",
+   "severity": "error",
+   "reason": "Records the root and why the sense is removed."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.19.sense",
+   "value": "1.1.3",
+   "severity": "error",
+   "reason": "Here שָׁאַל is to question a person, 'enquire of' (Qal 1.1.3); 1 is the umbrella and includes 'borrow, beg'."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.20.gloss",
+   "value": "him",
+   "severity": "error",
+   "reason": "Follows the corrected English: לוֹ marks the person questioned, not one on whose behalf one asks."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.24.sense",
+   "value": "3.3",
+   "severity": "error",
+   "reason": "Sense 1 is 'to swing, be wide open'; the Hitpael 'to make an effort, strive' is 3.3."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.24.note",
+   "value": "Hitpael imperfect 2ms of שׁדל: the ת of the prefix changes place with the sibilant ש (metathesis): תִּשְׁתַּדֵּל for *תִּתְשַׁדֵּל.",
+   "severity": "style",
+   "reason": "A learner needs the metathesis to find the root."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.25.lex",
+   "value": "jastrow:רָאָה I",
+   "severity": "error",
+   "reason": "bdbs:רָאָה is the bird 'kite', a wrong homograph; Jastrow's רָאָה I (v. ראי 'to see') is the verb."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.25.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:רָאָה I gives only a cross-reference, so no sense path names 'to see'."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.25.note",
+   "value": "Qal infinitive construct of ראה with לְ and the 3ms object suffix: 'to see him'. The BDB entry in the pack is the bird 'kite'; Jastrow's רָאָה I is the verb but only a cross-reference, so no sense is given.",
+   "severity": "error",
+   "reason": "Records the homograph and why no sense is given."
+  },
+  {
+   "ref": "4:18",
+   "path": "token:4:18.27.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 1 is only the etymology (קִלְקֵל); 'degradation, disgrace' is sense 2, which cites Avot 4:18."
+  },
+  {
+   "ref": "4:13",
+   "path": "english",
+   "value": "Rabbi Yehuda says: Be careful in study, for an error in study counts as deliberate sin. Rabbi Shimon says: There are three crowns: the crown of Torah, the crown of priesthood, and the crown of kingship; but the crown of a good name rises above them.",
+   "severity": "style",
+   "reason": "The Hebrew joins the list with וְ; English needs 'and' before the last item. The phrase note's claim that 4:13.19 is the first item is wrong."
+  },
+  {
+   "ref": "4:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "4:13.1",
+      "4:13.2",
+      "4:13.3"
+     ],
+     "english": "Rabbi Yehuda says:",
+     "literal": "'Rabbi Yehuda says'"
+    },
+    {
+     "tokens": [
+      "4:13.4",
+      "4:13.5",
+      "4:13.6"
+     ],
+     "english": "Be careful in study,",
+     "literal": "'be careful in-the-study'; the imperative הֱוֵי with an adjective"
+    },
+    {
+     "tokens": [
+      "4:13.7",
+      "4:13.8",
+      "4:13.9",
+      "4:13.10"
+     ],
+     "english": "for an error in study counts as deliberate sin.",
+     "literal": "'for-error-of study rises (as) deliberate-sin'; עוֹלָה is feminine, agreeing with שִׁגְגַת"
+    },
+    {
+     "tokens": [
+      "4:13.11",
+      "4:13.12",
+      "4:13.13"
+     ],
+     "english": "Rabbi Shimon says:",
+     "literal": "'Rabbi Shimon says'"
+    },
+    {
+     "tokens": [
+      "4:13.14",
+      "4:13.15",
+      "4:13.16"
+     ],
+     "english": "There are three crowns:",
+     "literal": "'three crowns they'; הֵם is the copula, as a pronoun after the predicate"
+    },
+    {
+     "tokens": [
+      "4:13.17",
+      "4:13.18"
+     ],
+     "english": "the crown of Torah,",
+     "literal": "'crown-of Torah'"
+    },
+    {
+     "tokens": [
+      "4:13.19",
+      "4:13.20"
+     ],
+     "english": "the crown of priesthood,",
+     "literal": "'and-crown-of priesthood'; the second item: English joins the list only before its last item"
+    },
+    {
+     "tokens": [
+      "4:13.21",
+      "4:13.22"
+     ],
+     "english": "and the crown of kingship;",
+     "literal": "'and-crown-of kingship'"
+    },
+    {
+     "tokens": [
+      "4:13.23",
+      "4:13.24",
+      "4:13.25"
+     ],
+     "english": "but the crown of a good name",
+     "literal": "'and-crown-of name good'; the vav is contrastive after the list"
+    },
+    {
+     "tokens": [
+      "4:13.26",
+      "4:13.27",
+      "4:13.28"
+     ],
+     "english": "rises above them.",
+     "literal": "'rises over their-backs'; עַל גַּבֵּיהֶן is idiomatic: on top of all of them"
+    }
+   ],
+   "severity": "style",
+   "reason": "Follows the new English; corrects the note on the first item of the list."
+  },
+  {
+   "ref": "4:13",
+   "path": "grammar",
+   "value": [
+    "Two sayings joined in one mishnah: Rabbi Yehuda on care in study, Rabbi Shimon on the three crowns.",
+    "שִׁגְגַת תַּלְמוּד עוֹלָה זָדוֹן: a wordplay of opposites, שְׁגָגָה (inadvertent error) and זָדוֹן (deliberate sin). עוֹלָה is 'rises to the level of, counts as'.",
+    "עוֹלָה / עוֹלֶה: the same verb used twice, first for an error that 'rises' to deliberate sin, then for the good name that 'rises' above the crowns.",
+    "כֶּתֶר is in the construct state throughout: 'crown of Torah', 'crown of priesthood', 'crown of kingship', 'crown of a good name'.",
+    "גַּבֵּיהֶן: the plural of גַּב with the suffix -הֶן, referring to the three crowns. כְּתָרִים is masculine (see שְׁלשָׁה); the Mishnah often writes -ן for the 3rd masculine plural ending."
+   ],
+   "severity": "error",
+   "reason": "The note says כְּתָרִים is treated as feminine; the numeral שְׁלשָׁה shows it is masculine, and -הֶן is the common Mishnaic spelling of the 3rd plural suffix."
+  },
+  {
+   "ref": "4:13",
+   "path": "commentary:bartenura:4:13:7.summary",
+   "value": "Bartenura: the one whose deeds are good and whose reputation is good on their account has no crown in the Torah that obliges honour, yet it rises above all three, because all three need it: a disciple of the sages of ill repute may be disgraced; of a high priest the Gemara (Yoma 71b) says the children of the nations who do Aaron's deeds may come in peace, but not the sons of Aaron who do not; and the king is protected from cursing (Ex 22:27) only when he acts as one of 'your people'.",
+   "severity": "error",
+   "reason": "The summary says a high priest without a good name is 'not obeyed'; Bartenura says he is not greeted in peace, and it leaves out the king."
+  },
+  {
+   "ref": "4:14",
+   "path": "english",
+   "value": "Rabbi Nehorai says: Go into exile to a place of Torah, and do not say that it will come after you, that your colleagues will establish it in your hand. And do not lean on your own understanding.",
+   "severity": "style",
+   "reason": "The stray '-' before 'that' is not English punctuation; the bare 'that' keeps the apposition without it."
+  },
+  {
+   "ref": "4:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "4:14.1",
+      "4:14.2",
+      "4:14.3"
+     ],
+     "english": "Rabbi Nehorai says:",
+     "literal": "'Rabbi Nehorai says'"
+    },
+    {
+     "tokens": [
+      "4:14.4",
+      "4:14.5",
+      "4:14.6",
+      "4:14.7"
+     ],
+     "english": "Go into exile to a place of Torah,",
+     "literal": "'be going-into-exile to-place-of Torah'; הֱוֵי with a participle: an ongoing, habitual state"
+    },
+    {
+     "tokens": [
+      "4:14.8",
+      "4:14.9",
+      "4:14.10",
+      "4:14.11",
+      "4:14.12"
+     ],
+     "english": "and do not say that it will come after you,",
+     "literal": "'and-not say that-she will-come after-you'; the Torah is feminine"
+    },
+    {
+     "tokens": [
+      "4:14.13",
+      "4:14.14",
+      "4:14.15"
+     ],
+     "english": "that your colleagues will establish it in your hand.",
+     "literal": "'that-your-colleagues will-establish-her in-your-hand'; Bartenura and Rabbeinu Yonah read the שֶׁ clause as the content of what one must not say or rely on; Rambam and Bartenura's second reading take it as the reason: 'for your colleagues will make it endure in your hand'"
+    },
+    {
+     "tokens": [
+      "4:14.16",
+      "4:14.17",
+      "4:14.18",
+      "4:14.19"
+     ],
+     "english": "And do not lean on your own understanding.",
+     "literal": "'and-unto your-understanding not you-lean'; Prov 3:5, with the prepositional phrase before the verb for emphasis"
+    },
+    {
+     "tokens": [
+      "4:14.20",
+      "4:14.21"
+     ],
+     "english": "-",
+     "literal": "the source marker 'Proverbs 3', not part of the saying"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the new English, and the phrase note records the causal reading of Rambam (normative) that the English does not adopt."
+  },
+  {
+   "ref": "4:14",
+   "path": "grammar",
+   "value": [
+    "The verse quoted at the end, Prov 3:5, is cited in the mishnah by name: משלי ג.",
+    "גּוֹלֶה is a participle after הֱוֵי: 'be one who goes into exile'.",
+    "יְקַיְּמוּהָ: Piel imperfect 3rd masculine plural of קום (Mishnaic קִיֵּם 'make endure, secure'), built with a consonantal yod on the Aramaic pattern, with the 3rd feminine singular suffix -הָ referring to the Torah.",
+    "אַל תֹּאמַר and אַל תִּשָּׁעֵן: negative commands use אַל with the jussive-form imperfect.",
+    "The Hebrew sets the two clauses by position: the move to a place of Torah is paired with the refusal to rely on colleagues, then on one's own insight."
+   ],
+   "severity": "error",
+   "reason": "'a Piel (here Aramaic-influenced קָם)' is confused: קָם is the Qal; the Piel קִיֵּם has the Aramaic-type strong yod."
+  },
+  {
+   "ref": "4:14",
+   "path": "note",
+   "value": "Bartenura (first reading) and Rabbeinu Yonah take the clause שֶׁחֲבֵרֶיךָ יְקַיְּמוּהָ בְיָדֶךָ as what one must not rely on: colleagues who return from the teacher will not secure the Torah for you. Rambam and Bartenura's second reading take it as the reason for going into exile: only with colleagues does learning endure. The English keeps the bare 'that', which follows the first reading most naturally; the second is recorded. In 4:14.16 the corpus links וְאֶל to BDB אַל 'not'; the token is the preposition אֶל (BDB אֵל), set by a lex override. The words משלי ג at the end are a source marker and are not translated into the saying.",
+   "severity": "error",
+   "reason": "The note claimed the commentators agree; Rambam (normative) and Bartenura's second reading take the clause as causal. The note on וְאֶל is updated for the lex patch."
+  },
+  {
+   "ref": "4:14",
+   "path": "commentary:bartenura:4:14:3.summary",
+   "value": "Bartenura: do not rely on your colleagues, when they come from the master's house, to establish the Torah in your hand by teaching you what they learned; go yourself to the master, for hearing from a disciple is unlike hearing from the master. A second reading: I tell you to go into exile because your colleagues will establish it in your hand, for however sharp you are, the Torah endures in you only through the give and take of colleagues; hence 'do not lean on your own understanding'.",
+   "severity": "error",
+   "reason": "The summary named a second explanation without saying what it is; it is a real alternative reading of the clause."
+  },
+  {
+   "ref": "4:14",
+   "path": "commentary:rambam:4:14:1.relation",
+   "value": "records",
+   "severity": "error",
+   "reason": "Rambam reads the clause as the reason (with others your learning will endure), against the English, which follows Bartenura's first reading. The commentators differ, so this is 'records', not 'follows'."
+  },
+  {
+   "ref": "4:14",
+   "path": "commentary:rambam:4:13:1.summary",
+   "value": "Rambam (anchored on 4:14.18 but on 4:13): the three good qualities, priesthood, kingship and Torah, were given to Israel at the giving of the Torah; Aaron won priesthood and David kingship, but the crown of Torah lies ready for anyone who wants it, and it is greater than the other two ('by me kings reign', Prov 8:15). The crown of a good name comes from the Torah, from knowing it and doing it.",
+   "severity": "error",
+   "reason": "The summary said only that the comment does not bear on 4:14; it must say what Rambam says."
+  },
+  {
+   "ref": "4:15",
+   "path": "note",
+   "value": "אֵין בְּיָדֵינוּ is kept in its literal, ambiguous form. Bartenura and Rabbeinu Yonah take it as 'we cannot grasp (why the wicked prosper and the righteous suffer)'; Bartenura's second reading, 'in exile we have neither the ease of the wicked nor the sufferings of the righteous', is given in the commentary entry. In 4:15.23 וֶהֱוֵי has the same lemma as הֱוֵי. The BDB entries the corpus gives for אֵין, אַף, אָדָם, רֹאשׁ and שׁוּעָל are wrong homographs (where?, nose, Adam, Rosh, Shual); lex overrides point to the Jastrow entries.",
+   "severity": "style",
+   "reason": "Updates the note for the lex patches."
+  },
+  {
+   "ref": "4:16",
+   "path": "grammar",
+   "value": [
+    "The saying is a simile (דּוֹמֶה לְ) followed by an imperative drawing the practical consequence.",
+    "בִּפְנֵי הָעוֹלָם הַבָּא: 'before the world to come', in front of it as an entrance hall is in front of the hall.",
+    "הַתְקֵן is a Hiphil imperative of תקן: 'make ready, put in order'; the object is the reflexive עַצְמְךָ.",
+    "פְּרוֹזְדוֹר and טְרַקְלִין are Greek loanwords; טְרַקְלִין is triklinion, a dining hall. The first is the entrance room, the second the inner hall.",
+    "הָעוֹלָם הַבָּא is the standard term for the world to come; הַבָּא is a participle used as an adjective."
+   ],
+   "severity": "error",
+   "reason": "'prozdor' is the Hebrew word in Latin letters, not a Greek form."
+  },
+  {
+   "ref": "4:16",
+   "path": "commentary:bartenura:4:16:1.summary",
+   "value": "Bartenura: פְּרוֹזְדוֹר is a gatehouse; the Targum renders the biblical אוּלָם (porch) by פְּרוֹזְדוֹרָא.",
+   "severity": "error",
+   "reason": "The summary reverses the Targum: Targum translates אוּלָם as פְּרוֹזְדוֹרָא, not the other way."
+  },
+  {
+   "ref": "4:16",
+   "path": "note",
+   "value": "פְּרוֹזְדוֹר has no lexicon key in the pack; it is 'vestibule', Bartenura's 'gatehouse' (the Targum's word for אוּלָם, porch). טְרַקְלִין is 'the great hall', Bartenura 'the king's seat', Rambam 'the palace hall'; the pack's Jastrow entry is a cross-reference only. כְּדֵי is the preposition כְּ with דַּי 'enough', 'so that' before שֶׁ.",
+   "severity": "style",
+   "reason": "Corrects the Targum reference and Rambam's word (הֵיכָל, palace hall)."
+  },
+  {
+   "ref": "4:17",
+   "path": "note",
+   "value": "The corpus links קוֹרָה to BDB 'rafter, beam', which does not fit; a lex override points to Jastrow's קוֹרָה II 'cold, cooling' (קוֹרַת רוּחַ, satisfaction). 'Spiritual contentment' renders the idiom; the literal sense is in the phrase note. The subject of הוּא is Rabbi Yaakov of 4:16 per the plain sequence.",
+   "severity": "style",
+   "reason": "Updates the note for the lex patch."
+  },
+  {
+   "ref": "4:18",
+   "path": "english",
+   "value": "Rabbi Shimon son of Elazar says: Do not appease your fellow at the time of his anger, and do not comfort him at the time when his dead lies before him, and do not question him at the time of his vow, and do not strive to see him at the time of his disgrace.",
+   "severity": "error",
+   "reason": "תִּשְׁאַל לוֹ is to question him: Rabbeinu Yonah 'שלא ישאל ממנו הפתחים' (do not ask of him the openings), and Bartenura's openings are put to the vower ('he will say, I vowed with that in mind'). 'Ask on his behalf' implies petitioning a third party."
+  },
+  {
+   "ref": "4:18",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "4:18.1",
+      "4:18.2",
+      "4:18.3",
+      "4:18.4",
+      "4:18.5"
+     ],
+     "english": "Rabbi Shimon son of Elazar says:",
+     "literal": "'Rabbi Shimon son-of Elazar says'"
+    },
+    {
+     "tokens": [
+      "4:18.6",
+      "4:18.7"
+     ],
+     "english": "Do not appease",
+     "literal": "'not you-appease'; the Piel of רצה: to try to win over, reconcile"
+    },
+    {
+     "tokens": [
+      "4:18.8"
+     ],
+     "english": "-",
+     "literal": "the object marker אֶת, with no English counterpart"
+    },
+    {
+     "tokens": [
+      "4:18.9",
+      "4:18.10",
+      "4:18.11"
+     ],
+     "english": "your fellow at the time of his anger,",
+     "literal": "'your-fellow at-time-of his-anger'; בִשְׁעַת is 'in the hour of'"
+    },
+    {
+     "tokens": [
+      "4:18.12",
+      "4:18.13"
+     ],
+     "english": "and do not comfort him",
+     "literal": "'and-not you-comfort-him'; תְּנַחֲמֶנּוּ has the energic nun with the suffix"
+    },
+    {
+     "tokens": [
+      "4:18.14",
+      "4:18.15",
+      "4:18.16",
+      "4:18.17"
+     ],
+     "english": "at the time when his dead lies before him,",
+     "literal": "'at-hour that-his-dead cast-down before-him'; מֻטָּל is the Hofal participle of נטל: laid down, lying"
+    },
+    {
+     "tokens": [
+      "4:18.18",
+      "4:18.19",
+      "4:18.20",
+      "4:18.21",
+      "4:18.22"
+     ],
+     "english": "and do not question him at the time of his vow,",
+     "literal": "'and-not you-ask to-him at-time-of his-vow'; שָׁאַל לְ is to question a person, here to probe for openings (פְּתָחִים) to release the vow"
+    },
+    {
+     "tokens": [
+      "4:18.23",
+      "4:18.24",
+      "4:18.25"
+     ],
+     "english": "and do not strive to see him",
+     "literal": "'and-not you-strive to-see-him'; Hithpael of שׁדל"
+    },
+    {
+     "tokens": [
+      "4:18.26",
+      "4:18.27"
+     ],
+     "english": "at the time of his disgrace.",
+     "literal": "'at-time-of his-disgrace'; קַלְקָלָה is ruin, a fall into degradation"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the new English; מֻטָּל is a Hofal participle of נטל, not a Pual."
+  },
+  {
+   "ref": "4:18",
+   "path": "grammar",
+   "value": [
+    "Four prohibitions, each with the same shape: אַל + verb + the person + בִשְׁעַת (at the time of) + his state.",
+    "אַל תְּרַצֶּה אֶת חֲבֵרְךָ: the Piel of רצה governs the direct object marked by אֶת.",
+    "תְּנַחֲמֶנּוּ: Piel imperfect 2nd masculine singular with the 3rd masculine singular suffix joined by an energic nun (-ֶנּוּ), as often on the imperfect.",
+    "מֵתוֹ מֻטָּל לְפָנָיו: מֻטָּל is the Hofal participle of נטל ('cast, lay'), the nun assimilated into the doubled ט: his dead 'lies before him', the time between death and burial.",
+    "תִּשְׁאַל לוֹ בִשְׁעַת נִדְרוֹ: 'question him'; the commentators explain it as probing for openings (פְּתָחִים) to release the vow while he is still angry.",
+    "The repeated בִשְׁעַת / בְּשָׁעָה gives the saying its rhythm: the right time matters as much as the act."
+   ],
+   "severity": "error",
+   "reason": "The energic nun is not a feature 'after אַל'; מֻטָּל needs its root; the note on תִּשְׁאַל לוֹ follows the corrected English."
+  },
+  {
+   "ref": "4:18",
+   "path": "note",
+   "value": "שָׁעָה is 'hour, moment', rendered 'at the time of'. תִּשְׁאַל לוֹ is to question the vower: Bartenura (seek openings to release his vow, for he will answer each that he vowed with it in mind) and Rabbeinu Yonah (do not ask of him the openings) agree. מֻטָּל is the Hofal participle of נטל; the corpus links it to טָלַל, the wrong root. תִּשְׁתַּדֵּל is the Hitpael of שׁדל, 'make an effort, strive'.",
+   "severity": "error",
+   "reason": "The note claimed both commentators read 'on his behalf'; Rabbeinu Yonah says 'ממנו', of him. It also records the root of מֻטָּל."
+  },
+  {
+   "ref": "4:13",
+   "path": "morph:4:13.14",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שלש",
+    "morphemes": [
+     {
+      "form": "שְׁלשָׁה",
+      "lemma": "שָׁלוֹשׁ",
+      "pos": "numeral",
+      "parse": "cardinal number, masculine, absolute"
+     }
+    ]
+   },
+   "severity": "style",
+   "reason": "The parse leaves out the gender: שְׁלשָׁה is the form used with masculine nouns (כְּתָרִים)."
+  },
+  {
+   "ref": "4:13",
+   "path": "morph:4:13.17",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כתר",
+    "morphemes": [
+     {
+      "form": "כֶּתֶר",
+      "lemma": "כֶּתֶר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֶּתֶר תּוֹרָה is a construct chain; the segolate construct has the same form as the absolute."
+  },
+  {
+   "ref": "4:13",
+   "path": "morph:4:13.19",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כתר",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "כֶתֶר",
+      "lemma": "כֶּתֶר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֶּתֶר is bound to the next noun (construct, not absolute); and the form had a dagesh in כ that the token, after וְ, does not have."
+  },
+  {
+   "ref": "4:13",
+   "path": "morph:4:13.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כתר",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "כֶתֶר",
+      "lemma": "כֶּתֶר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֶּתֶר is bound to the next noun (construct, not absolute); and the form had a dagesh in כ that the token, after וְ, does not have."
+  },
+  {
+   "ref": "4:13",
+   "path": "morph:4:13.23",
+   "value": {
+    "lang": "mishnaic",
+    "root": "כתר",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "כֶתֶר",
+      "lemma": "כֶּתֶר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כֶּתֶר is bound to the next noun (construct, not absolute); and the form had a dagesh in כ that the token, after וְ, does not have."
+  },
+  {
+   "ref": "4:13",
+   "path": "morph:4:13.28",
+   "value": {
+    "lang": "mishnaic",
+    "root": "גבב",
+    "morphemes": [
+     {
+      "form": "גַּבֵּי",
+      "lemma": "גַּב",
+      "pos": "noun",
+      "parse": "common, masculine, plural, construct"
+     },
+     {
+      "form": "הֶן",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, plural"
+     }
+    ]
+   },
+   "severity": "question",
+   "reason": "The suffix refers to the masculine כְּתָרִים (cf. שְׁלשָׁה); -הֶן is the usual Mishnaic spelling of the 3rd plural suffix and is not feminine here. Proposed: masculine."
+  },
+  {
+   "ref": "4:13",
+   "path": "morph:4:13.6",
+   "value": {
+    "lang": "mishnaic",
+    "root": "למד",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "תַּלְמוּד",
+      "lemma": "תַּלְמוּד",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The patah and the dagesh in ת show the article contracted into the preposition (בַּ = בְּ + הַ); the analysis leaves it out."
+  },
+  {
+   "ref": "4:15",
+   "path": "morph:4:15.25",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ארי",
+    "morphemes": [
+     {
+      "form": "לָ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "אֲרָיוֹת",
+      "lemma": "אַרְיֵה",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The qamets before א shows the contracted article (לָ = לְ + הָ, 'to the lions'); the analysis leaves it out."
+  },
+  {
+   "ref": "4:15",
+   "path": "morph:4:15.28",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ראש",
+    "morphemes": [
+     {
+      "form": "רֹאשׁ",
+      "lemma": "רֹאשׁ",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רֹאשׁ is not bound to a following noun: לַשּׁוּעָלִים follows with לְ. It is absolute, as is the parallel זָנָב לָאֲרָיוֹת."
+  },
+  {
+   "ref": "4:15",
+   "path": "morph:4:15.29",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שעל",
+    "morphemes": [
+     {
+      "form": "לַ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "שּׁוּעָלִים",
+      "lemma": "שׁוּעָל",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The patah and the dagesh in ש show the contracted article (לַ = לְ + הַ); the analysis leaves it out."
+  },
+  {
+   "ref": "4:16",
+   "path": "morph:4:16.13",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "בַ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "פְּרוֹזְדוֹר",
+      "lemma": "פְּרוֹזְדוֹר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "בַ with patah is בְּ + הַ: 'in the vestibule'; the analysis leaves out the article."
+  },
+  {
+   "ref": "4:16",
+   "path": "morph:4:16.14",
+   "value": {
+    "lang": "mishnaic",
+    "root": "דיי",
+    "morphemes": [
+     {
+      "form": "כְּ",
+      "lemma": "כ: like, as",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "דֵי",
+      "lemma": "דַּי",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The form of the second morpheme had a dagesh in ד that the token does not have; forms are copied as printed."
+  },
+  {
+   "ref": "4:16",
+   "path": "morph:4:16.16",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "לַ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "טְּרַקְלִין",
+      "lemma": "טְרַקְלִין",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "לַ with the dagesh in ט is לְ + הַ: 'to the hall'; the lemma had the dagesh of the article, which the absolute singular does not have."
+  },
+  {
+   "ref": "4:17",
+   "path": "morph:4:17.10",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עלם",
+    "morphemes": [
+     {
+      "form": "בָּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "עוֹלָם",
+      "lemma": "עוֹלָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The qamets of בָּ before ע is the contracted article (בָּעוֹלָם 'in the world'); the analysis leaves it out."
+  },
+  {
+   "ref": "4:17",
+   "path": "morph:4:17.22",
+   "value": {
+    "lang": "mishnaic",
+    "root": "עלם",
+    "morphemes": [
+     {
+      "form": "בָּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with definite article"
+     },
+     {
+      "form": "עוֹלָם",
+      "lemma": "עוֹלָם",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The qamets of בָּ before ע is the contracted article (בָּעוֹלָם 'in the world'); the analysis leaves it out."
+  },
+  {
+   "ref": "4:17",
+   "path": "morph:4:17.20",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קרר",
+    "morphemes": [
+     {
+      "form": "קוֹרַת",
+      "lemma": "קוֹרָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, construct"
+     }
+    ]
+   },
+   "severity": "question",
+   "reason": "קוֹרַת רוּחַ is 'coolness of spirit' (Jastrow קוֹרָה II 'cold, cooling'), from the root קרר 'to be cold'; קור is not the root of this sense. Proposed: קרר."
+  },
+  {
+   "ref": "4:18",
+   "path": "morph:4:18.16",
+   "value": {
+    "lang": "mishnaic",
+    "root": "נטל",
+    "morphemes": [
+     {
+      "form": "מֻטָּל",
+      "lemma": "נָטַל",
+      "pos": "verb",
+      "parse": "hofal, participle passive, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מֻטָּל is the Hofal participle of נטל (Hifil הֵטִיל 'cast, lay down'), the nun assimilated into the doubled ט. A Pual of טלל would be מְטֻלָּל."
+  },
+  {
+   "ref": "4:18",
+   "path": "morph:4:18.17",
+   "value": {
+    "lang": "mishnaic",
+    "root": "פנה",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "פָנָי",
+      "lemma": "פָּנִים",
+      "pos": "noun",
+      "parse": "common, masculine, plural, construct"
+     },
+     {
+      "form": "ו",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The form of the noun had a dagesh in פ that the token, after לְ, does not have; forms are copied as printed."
+  },
+  {
+   "ref": "4:18",
+   "path": "morph:4:18.22",
+   "value": {
+    "lang": "mishnaic",
+    "root": "נדר",
+    "morphemes": [
+     {
+      "form": "נִדְר",
+      "lemma": "נֶדֶר",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     },
+     {
+      "form": "וֹ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, masculine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The lemma is the singular absolute נֶדֶר (two segols); נֵדֶר is not a form of the word."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:4:13:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:13:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:13:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:13:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:13:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:13:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:13:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:14:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:14:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:14:3",
+   "verdict": "consistent",
+   "comment": "The English follows the first reading; the second (causal) reading is now in the summary and the phrase note."
+  },
+  {
+   "anchor": "rambam:4:13:1",
+   "verdict": "consistent",
+   "comment": "The comment is on 4:13 (anchored on 4:14.18); its point, that the good name comes from Torah, agrees with 4:13's 'rises above them'."
+  },
+  {
+   "anchor": "rambam:4:14:1",
+   "verdict": "contradicts",
+   "comment": "Rambam reads שֶׁחֲבֵרֶיךָ as causal (with others your learning endures). The English stands because Bartenura's first reading (normative) and Rabbeinu Yonah take the clause as what one must not rely on; the normative commentators differ, and the relation is patched to 'records'."
+  },
+  {
+   "anchor": "bartenura:4:15:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:15:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:15:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:15:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:15:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:16:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:17:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:18:1",
+   "verdict": "consistent",
+   "comment": "Anchored on 4:17.11 but on 4:18: the four prohibitions are moral rules on the right time; the English agrees."
+  },
+  {
+   "anchor": "bartenura:4:18:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:18:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:18:3",
+   "verdict": "contradicts",
+   "comment": "Bartenura's openings are put to the vower, who answers each; the English 'ask on his behalf' implied a third party. Fixed by the patch to 'question him'."
+  },
+  {
+   "anchor": "bartenura:4:18:4",
+   "verdict": "consistent"
+  }
+ ]
+}

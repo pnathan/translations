@@ -1,0 +1,284 @@
+{
+ "unit": "noach-06",
+ "model": "opus",
+ "summary": "The English of 7:23-8:6 is faithful to the Hebrew and to Rashi and Ibn Ezra, and no English line needs changing. The faults are in the apparatus: several senses were wrong or missing (עבר Hiphil, הלך infinitives, אֶחָד 'first', רֹאשׁ 'top'), and several learner notes on the accents and on שׁכך were false. Rashi on 8:1 was misreported twice: his רוּחַ is a spirit of comfort before God, not a wind, and שִׁמְּשׁוּ is mating, not 'using' the ark.",
+ "patches": [
+  {
+   "ref": "7:23",
+   "path": "grammar",
+   "value": [
+    "וַיִּמַח (Qal) and וַיִּמָּחוּ (Niphal) are the same root: the act and its result stand side by side.",
+    "The list runs מִן ... עַד ... עַד ... וְעַד: 'from ... to ... to ... and to'. The preposition עַד is written three times, and the last takes ו.",
+    "The etnaḥta on הָאָרֶץ closes the first half. In the second half the tevir on נֹחַ, a disjunctive accent, makes a small pause after 'only Noah' before 'and those with him in the ark'.",
+    "אַךְ limits the survivors to Noah and those with him; the verb וַיִּשָּׁאֶר is singular."
+   ],
+   "severity": "error",
+   "reason": "The list has no 'ordinals'; the four classes are joined by עַד written three times. The tevir is a disjunctive accent: it divides, it does not join."
+  },
+  {
+   "ref": "7:23",
+   "path": "commentary:ramban:7:23:2.summary",
+   "value": "Ramban: the doubling may be for the birds and some creeping things, to say that no eggs of theirs were left in any tree or under the ground; or the verse may be read 'all, from human to bird, were wiped out from the earth; only Noah was left'. The rabbis read 'he wiped out' of this world and 'they were wiped out from the earth' of the world to come.",
+   "severity": "error",
+   "reason": "Ramban speaks of eggs (בֵּיצִים) only, not nests; the summary also omitted his second reading of the verse."
+  },
+  {
+   "ref": "7:24",
+   "path": "commentary:ibn-ezra:7:24:1.summary",
+   "value": "Ibn Ezra: the waters prevailed a hundred and fifty days because the springs had burst open, and rain also went on falling, one day yes and one day no; the 'I will rain' of 7:4 means forty days of rain without a break, and the later וַיִּכָּלֵא הַגֶּשֶׁם (8:2) is the proof that rain still fell after them. This concerns the course of the flood, not the wording of the verse.",
+   "severity": "error",
+   "reason": "The summary ran his two points together: the intermittent rain is after the forty continuous days, and it explains the hundred and fifty days; 8:2 is his proof that rain went on."
+  },
+  {
+   "ref": "8:1",
+   "path": "token:8:1.14.sense",
+   "value": "Hiph 1",
+   "severity": "error",
+   "reason": "The entry has Hiph 1 'cause to pass over, bring over'; the sense was missing."
+  },
+  {
+   "ref": "8:1",
+   "path": "token:8:1.14.note",
+   "value": "Hiphil wayyiqtol of עבר: causative, 'made pass' (sense Hiph 1, 'cause to pass over').",
+   "severity": "error",
+   "reason": "The note said the pack lists no Hiphil sense; the entry has Hiph 1 and Hiph 2."
+  },
+  {
+   "ref": "8:1",
+   "path": "token:8:1.16.note",
+   "value": "רוּחַ: wind. Rashi takes it otherwise: a spirit of comfort and calm (רוּחַ תַּנְחוּמִין וַהֲנָחָה) that passed before God.",
+   "severity": "error",
+   "reason": "Rashi does not read a wind, and he says nothing of 1:2; the echo of 1:2 was attributed to him without ground."
+  },
+  {
+   "ref": "8:1",
+   "path": "grammar",
+   "value": [
+    "וַיִּזְכֹּר is not a lapse corrected: Radak says memory and forgetting do not apply to God; the Torah speaks in human terms, and the word means he acted for them.",
+    "The Hiphil וַיַּעֲבֵר makes God the cause: he made a wind pass. The qadma on וַיַּעֲבֵר and the merkha on אֱלֹהִים are conjunctive accents; the clause runs on to the zaqef qaton on הָאָרֶץ.",
+    "Pashta is written on the last letter of its word. On רוּחַ it is written a second time, on רוּ, because the stress falls on the first syllable: the pataḥ under ח is a furtive pataḥ.",
+    "וַיָּשֹׁכּוּ is the Qal wayyiqtol of the doubled root שׁכך, the verb of Esther 7:10 (וַחֲמַת הַמֶּלֶךְ שָׁכָכָה); the dagesh in the כ makes up for the root's missing second letter (Ibn Ezra). The sense is 'settle, abate'."
+   ],
+   "severity": "error",
+   "reason": "Qadma and merkha are conjunctive and divide nothing; the note on the double pashta gave no reason (the penultimate stress); Esther 7:10 has the same root שׁכך, not a different root שׂכך."
+  },
+  {
+   "ref": "8:1",
+   "path": "note",
+   "value": "The English keeps 'God' for אֱלֹהִים by decision, even though Rashi reads it as the attribute of justice turned to mercy. 'Noah' stands for Noah with his sons and wives, as Ibn Ezra says. 'Wind' (not 'spirit') because the verb is Hiphil of 'pass over' and the object is something that blows over the earth, as Ibn Ezra ('he made it pass continually') and Radak take it; Rashi's reading, a spirit of comfort passing before God concerning the affairs of the earth, is recorded.",
+   "severity": "error",
+   "reason": "Rashi's comment is not a 'wind of comfort': he reads רוּחַ as a spirit of comfort before God."
+  },
+  {
+   "ref": "8:1",
+   "path": "commentary:rashi:8:1:2.summary",
+   "value": "Rashi: what did God remember for the animals? Their merit: they had not corrupted their ways before the flood, and they had not mated in the ark (שֶׁלֹּא שִׁמְּשׁוּ בַּתֵּבָה). A homily.",
+   "severity": "error",
+   "reason": "שִׁמְּשׁוּ here means sexual relations, not 'used the ark'."
+  },
+  {
+   "ref": "8:1",
+   "path": "commentary:rashi:8:1:3.summary",
+   "value": "Rashi: a spirit of comfort and calm (רוּחַ תַּנְחוּמִין וַהֲנָחָה) passed before God: he reads רוּחַ as God's disposition, not a wind. The English follows the plain wind over the earth (Ibn Ezra, Radak) and records Rashi.",
+   "severity": "error",
+   "reason": "Rashi does not speak of a wind; the summary rendered his רוּחַ as 'wind'."
+  },
+  {
+   "ref": "8:1",
+   "path": "commentary:ibn-ezra:8:1:4.summary",
+   "value": "Ibn Ezra: they rested and no longer prevailed; so too the king's anger subsided (Esther 7:10). The dagesh in the כ makes up for the missing second letter of the root (the ע of the pattern פעל), and both verbs are Qal. The English: the waters subsided.",
+   "severity": "style",
+   "reason": "'A missing ayin' reads as if the letter ע were missing from the word; Ibn Ezra means the root's second radical."
+  },
+  {
+   "ref": "8:3",
+   "path": "token:8:3.5.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Qal II.2 is 'live, walk', of a way of life; the entry in the pack has no sense for 'go on, continue', so no sense is given."
+  },
+  {
+   "ref": "8:3",
+   "path": "token:8:3.5.note",
+   "value": "infinitive absolute of הלך: continuing action, 'going on'. The entry in the pack has no sense for this use (Qal II.2 is 'live, walk'), so no sense is given.",
+   "severity": "error",
+   "reason": "the sense was removed; the note says why."
+  },
+  {
+   "ref": "8:3",
+   "path": "token:8:3.6.note",
+   "value": "infinitive absolute of שׁוב; after וַיָּשֻׁבוּ, הָלוֹךְ וָשׁוֹב means 'going back continually', little by little (Radak, Ramban), not 'to and fro'.",
+   "severity": "error",
+   "reason": "Of the waters the idiom is a steady going back; 'to and fro' is wrong here and is not in any commentator."
+  },
+  {
+   "ref": "8:4",
+   "path": "token:8:4.5.gloss",
+   "value": "on seven",
+   "severity": "error",
+   "reason": "שִׁבְעָה is the cardinal 'seven', the first part of 'seventeen'; 'the seventh' is an ordinal."
+  },
+  {
+   "ref": "8:5",
+   "path": "token:8:5.3.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Qal II.2 is 'live, walk'; the entry in the pack has no sense for 'go on, continue', so no sense is given."
+  },
+  {
+   "ref": "8:5",
+   "path": "token:8:5.3.note",
+   "value": "infinitive absolute of הלך: continuing action, 'going on'. The entry in the pack has no sense for this use (Qal II.2 is 'live, walk'), so no sense is given.",
+   "severity": "error",
+   "reason": "the sense was removed; the note says why."
+  },
+  {
+   "ref": "8:5",
+   "path": "token:8:5.9.gloss",
+   "value": "on the first",
+   "severity": "error",
+   "reason": "In a date אֶחָד means 'first': 'on the first (day)'."
+  },
+  {
+   "ref": "8:5",
+   "path": "token:8:5.9.sense",
+   "value": "7",
+   "severity": "error",
+   "reason": "The entry lists sense 7 'first', the use in dates; the sense was missing."
+  },
+  {
+   "ref": "8:5",
+   "path": "token:8:5.12.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "Of mountains רֹאשׁ is the top, sense 2.a, not the head of the body (1.a)."
+  },
+  {
+   "ref": "8:5",
+   "path": "grammar",
+   "value": [
+    "הָיוּ הָלוֹךְ וְחָסוֹר: the finite verb 'be' with two infinitive absolutes gives the sense 'kept on diminishing'.",
+    "The tenth month is named twice: in full after עַד (עַד הַחֹדֶשׁ הָעֲשִׂירִי), then by the ordinal alone after בְּ (בָּעֲשִׂירִי), with חֹדֶשׁ understood.",
+    "The date uses בְּאֶחָד לַחֹדֶשׁ for 'on the first of the month', with ל for 'of'.",
+    "נִרְאוּ is the Niphal 'appeared, was seen'; the subject רָאשֵׁי הֶהָרִים is plural."
+   ],
+   "severity": "error",
+   "reason": "Both mentions of the tenth month have a preposition (עַד, בְּ); the difference is that the second leaves out חֹדֶשׁ."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:7:23:1",
+   "verdict": "consistent",
+   "comment": "The English has an active verb, as Rashi's Qal requires."
+  },
+  {
+   "anchor": "rashi:7:23:2",
+   "verdict": "consistent",
+   "comment": "'Only Noah' is Rashi's plain sense, 'Noah alone'."
+  },
+  {
+   "anchor": "ibn-ezra:7:23:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:7:24:1",
+   "verdict": "not-applicable",
+   "comment": "On the course of the rain; it does not bear on the words."
+  },
+  {
+   "anchor": "rashi:8:1:1",
+   "verdict": "not-applicable",
+   "comment": "On the divine name; the decisions keep 'God'."
+  },
+  {
+   "anchor": "rashi:8:1:2",
+   "verdict": "not-applicable",
+   "comment": "A homily on the animals' merit."
+  },
+  {
+   "anchor": "rashi:8:1:3",
+   "verdict": "contradicts",
+   "comment": "Rashi reads a spirit of comfort before God; Ibn Ezra (he made it pass continually) takes a wind made to pass over the earth. The normative commentators differ; the English follows Ibn Ezra and records Rashi."
+  },
+  {
+   "anchor": "rashi:8:1:4",
+   "verdict": "contradicts",
+   "comment": "Rashi's 'concerning the affairs of the earth' goes with his reading of רוּחַ; the English keeps the plain 'over the earth' with Ibn Ezra's wind, and records Rashi."
+  },
+  {
+   "anchor": "rashi:8:1:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:1:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:1:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:1:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:2:1",
+   "verdict": "consistent",
+   "comment": "The English, like the Hebrew, has no 'all'."
+  },
+  {
+   "anchor": "rashi:8:2:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:2:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:3:1",
+   "verdict": "consistent",
+   "comment": "The decrease begins at the end of the hundred and fifty days."
+  },
+  {
+   "anchor": "ibn-ezra:8:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:4:1",
+   "verdict": "consistent",
+   "comment": "The English names the seventh month without a starting point; Rashi's count is left to the notes."
+  },
+  {
+   "anchor": "rashi:8:4:2",
+   "verdict": "not-applicable",
+   "comment": "A computation of the ark's depth."
+  },
+  {
+   "anchor": "rashi:8:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:6:1",
+   "verdict": "consistent",
+   "comment": "The English leaves the starting point of the forty days open; Rashi's is recorded."
+  },
+  {
+   "anchor": "rashi:8:6:2",
+   "verdict": "consistent",
+   "comment": "'Window', not the door."
+  }
+ ]
+}

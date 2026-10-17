@@ -1,0 +1,77 @@
+{
+  "unit": "bereshit-19",
+  "model": "opus",
+  "summary": "The unit (Jared and Enoch, 5:18-24) is accurately translated: the English lines, numerals, glosses and senses are sound, and the English agrees with Rashi and Ibn Ezra that וְאֵינֶנּוּ means Enoch died. The faults are in the notes and rulings: Rashi's first comment is ruled 'records' and summarised without his gloss 'not in the world to fill out his years', though the English adopts his reading; the 5:24 note presents the English as undecided where both normative commentators agree on death; and three learner notes are untrue (the accents of the 5:19 time clause, the 'stress on the agent' in 5:24, and the claim in 5:21 that Enoch fathers far younger than all before him, which Mahalalel matched at 5:15). The Targum's variant at 5:24 (with or without לָא) is not recorded.",
+  "patches": [
+    {
+      "ref": "5:19",
+      "path": "grammar",
+      "value": [
+        "אַחֲרֵי הוֹלִידוֹ is a preposition plus infinitive construct with suffix: 'after his fathering'.",
+        "שְׁמֹנֶה מֵאוֹת: 'eight hundreds', the feminine numeral with the plural of מֵאָה.",
+        "The revia on יֶרֶד and the zaqef qaton on חֲנוֹךְ mark off the time clause אַחֲרֵי הוֹלִידוֹ אֶת־חֲנוֹךְ (the pashta on אַחֲרֵי is a minor division inside it); the etnaḥta on שָׁנָה closes the first half."
+      ],
+      "severity": "error",
+      "reason": "The pashta on אַחֲרֵי lies inside the time clause and does not open it; the clause is bounded by the revia on יֶרֶד and the zaqef qaton on חֲנוֹךְ. The etnaḥta is on שָׁנָה, not after it."
+    },
+    {
+      "ref": "5:21",
+      "path": "note",
+      "value": "Enoch fathers his son at sixty-five, the youngest age in the chapter, shared with Mahalalel (5:15); see the commentary at 5:22 and 5:24.",
+      "severity": "error",
+      "reason": "Mahalalel also fathered Jared at sixty-five (5:15), so Enoch is not 'much younger than the earlier names'."
+    },
+    {
+      "ref": "5:21",
+      "path": "token:5:21.8.note",
+      "value": "pausal form under silluq: qamets in מְתוּשָׁלַח where 5:22 has segol (מְתוּשֶׁלַח); the lexicon glosses the name 'man of the dart'",
+      "severity": "style",
+      "reason": "The learner needs the pausal form explained: the name is spelled differently in 5:21 and 5:22."
+    },
+    {
+      "ref": "5:24",
+      "path": "grammar",
+      "value": [
+        "וְאֵינֶנּוּ is the particle אֵין with a suffix: 'and he was not'. It is a verbless clause.",
+        "לָקַח אֹתוֹ אֱלֹהִים: verb, pronoun object, then noun subject. A pronoun object regularly comes before a noun subject, so the order is the ordinary one and gives no special stress.",
+        "The etnaḥta on הָאֱלֹהִים closes the first half; the zaqef gadol on וְאֵינֶנּוּ separates the disappearance from its reason.",
+        "The first אֱלֹהִים has the article (the true God); the second does not, and is the subject."
+      ],
+      "severity": "error",
+      "reason": "Verb, pronominal object, nominal subject is the unmarked order when the object is a pronoun; the note's claim that it stresses the agent is not true."
+    },
+    {
+      "ref": "5:24",
+      "path": "note",
+      "value": "Rashi and Ibn Ezra agree that וְאֵינֶנּוּ ... לָקַח means that Enoch died, and the English 'he was no more, for God took him' carries that reading. They differ on its character: for Rashi a death before his time, for Ibn Ezra a death without plague or 'and he died', a taking 'with glory' (Ps 73:24). Radak records the view of the Targum and some sages that Enoch entered Eden alive; it is not the plain sense.",
+      "severity": "error",
+      "reason": "Under the decisions the normative commentators fix the plain sense; both read death. The note presented the English as leaving the question open."
+    },
+    {
+      "ref": "5:24",
+      "path": "commentary:rashi:5:24:1",
+      "value": {
+        "relation": "follows",
+        "summary": "Rashi (from Genesis Rabbah): Enoch was righteous but easily moved to turn to wickedness (קַל בְּדַעְתּוֹ לָשׁוּב לְהַרְשִׁיעַ), so God hastened to remove him and made him die before his time. That is why the text writes his death differently, וְאֵינֶנּוּ: he was not in the world to fill out his years (וְאֵינֶנּוּ בָּעוֹלָם לְמַלְּאוֹת שְׁנוֹתָיו)."
+      },
+      "severity": "error",
+      "reason": "The summary left out Rashi's gloss of the word itself, 'not in the world to fill out his years'. The English 'he was no more' adopts his reading of וְאֵינֶנּוּ as an early death, so the relation is follows, not records. Only the midrashic reason is not in the English."
+    },
+    {
+      "ref": "5:24",
+      "path": "commentary:onkelos:5:24:1",
+      "value": {
+        "relation": "records",
+        "summary": "Onkelos: 'Enoch walked in the fear of the LORD, and he was not, for the LORD caused him to die' (אֲמֵית יָתֵהּ יְיָ). The fetched text brackets a לָא, the reading of other editions: 'for the LORD did not cause him to die'."
+      },
+      "severity": "question",
+      "reason": "A missing ruling. The Targum's two readings bear on the question of Enoch's death, which the note and Radak's comment discuss, and the variant should be recorded."
+    }
+  ],
+  "verdicts": [
+    {"anchor": "ibn-ezra:5:22:1", "verdict": "consistent", "comment": "Ibn Ezra takes 'walked with God' as following God (Deut 13:5); 'walked with God' gives that sense."},
+    {"anchor": "rashi:5:24:1", "verdict": "consistent", "comment": "'He was no more' fits Rashi's 'not in the world to fill out his years'; the ruling is patched to follows."},
+    {"anchor": "rashi:5:24:2", "verdict": "consistent", "comment": "'God took him' keeps the taking away before his time."},
+    {"anchor": "ibn-ezra:5:24:1", "verdict": "consistent", "comment": "Ibn Ezra reads death, a taking 'with glory'; the English says no more than the Hebrew."}
+  ]
+}
