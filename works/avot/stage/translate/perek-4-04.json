@@ -1,0 +1,1859 @@
+{
+  "unit": "perek-4-04",
+  "model": "sonnet",
+  "segments": [
+    {
+      "ref": "4:19",
+      "english": "Samuel the Small says: When your enemy falls, do not rejoice, and when he stumbles, let your heart not be glad, lest the Lord see it, and it displease Him, and He turn His anger away from him.",
+      "literal": "Samuel the-Small saying (Proverbs 24) in-falling-of your-enemy not you-rejoice and-in-his-stumbling not let-be-glad your-heart lest see YHWH and-evil in-his-eyes and-he-turn-back from-upon-him his-anger",
+      "tokens": [
+        {
+          "id": "4:19.1",
+          "gloss": "Samuel",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.2",
+          "gloss": "the Small",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.3",
+          "gloss": "says",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.4",
+          "gloss": "(book of) Proverbs",
+          "sense": "1",
+          "note": "Source reference, not part of the saying."
+        },
+        {
+          "id": "4:19.5",
+          "gloss": "24",
+          "sense": "1",
+          "note": "The lexicon entry (jar) is the wrong sense: this is the numeral 24 (data kept)."
+        },
+        {
+          "id": "4:19.6",
+          "gloss": "when falling of",
+          "sense": "1",
+          "note": "Infinitive construct with ב: 'when falling'."
+        },
+        {
+          "id": "4:19.7",
+          "gloss": "your enemy"
+        },
+        {
+          "id": "4:19.8",
+          "gloss": "do not",
+          "sense": "1",
+          "note": "Prohibitive אַל."
+        },
+        {
+          "id": "4:19.9",
+          "gloss": "you rejoice",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.10",
+          "gloss": "and when his stumbling",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.11",
+          "gloss": "do not",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.12",
+          "gloss": "let be glad",
+          "note": "The pack gives lemma גָּל; the root is גיל."
+        },
+        {
+          "id": "4:19.13",
+          "gloss": "your heart",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.14",
+          "gloss": "lest"
+        },
+        {
+          "id": "4:19.15",
+          "gloss": "he see",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.16",
+          "gloss": "the Lord",
+          "sense": "1",
+          "note": "Written ה' (the divine name)."
+        },
+        {
+          "id": "4:19.17",
+          "gloss": "and it be evil",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.18",
+          "gloss": "in his eyes",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.19",
+          "gloss": "and he turn back",
+          "note": "Hiphil of שׁוב; Bartenura draws a lesson from the Hiphil."
+        },
+        {
+          "id": "4:19.20",
+          "gloss": "from upon him",
+          "sense": "1"
+        },
+        {
+          "id": "4:19.21",
+          "gloss": "his anger",
+          "sense": "1"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "4:19.1",
+            "4:19.2",
+            "4:19.3"
+          ],
+          "english": "Samuel the Small says",
+          "literal": "the sage's name and the formula of citation"
+        },
+        {
+          "tokens": [
+            "4:19.4",
+            "4:19.5"
+          ],
+          "english": "-",
+          "literal": "'Proverbs 24' is the source reference, not part of the saying (Prov. 24:17-18)"
+        },
+        {
+          "tokens": [
+            "4:19.6",
+            "4:19.7"
+          ],
+          "english": "When your enemy falls",
+          "literal": "infinitive construct with ב as a temporal clause"
+        },
+        {
+          "tokens": [
+            "4:19.8",
+            "4:19.9"
+          ],
+          "english": "do not rejoice",
+          "literal": "אַל with the imperfect: prohibition"
+        },
+        {
+          "tokens": [
+            "4:19.10"
+          ],
+          "english": "and when he stumbles",
+          "literal": "'and-in-his-stumbling', parallel temporal clause"
+        },
+        {
+          "tokens": [
+            "4:19.11",
+            "4:19.12",
+            "4:19.13"
+          ],
+          "english": "let your heart not be glad",
+          "literal": "'not let-exult your-heart'"
+        },
+        {
+          "tokens": [
+            "4:19.14"
+          ],
+          "english": "lest",
+          "literal": "פֶּן"
+        },
+        {
+          "tokens": [
+            "4:19.15",
+            "4:19.16"
+          ],
+          "english": "the Lord see",
+          "literal": "'see YHWH'; the divine name is written ה' in the text"
+        },
+        {
+          "tokens": [
+            "4:19.17",
+            "4:19.18"
+          ],
+          "english": "and it displease Him",
+          "literal": "'and-evil in-his-eyes': it is evil in His eyes"
+        },
+        {
+          "tokens": [
+            "4:19.19",
+            "4:19.20",
+            "4:19.21"
+          ],
+          "english": "and He turn His anger away from him",
+          "literal": "'and-he-turn-back from-upon-him his-anger'"
+        }
+      ],
+      "grammar": [
+        "Samuel the Small quotes Proverbs 24:17-18 word for word; the mishnah's own words are only the introduction.",
+        "בִּנְפֹל and בִּכָּשְׁלוֹ are infinitives construct with ב: temporal clauses ('when he falls', 'when he stumbles').",
+        "אַל with the imperfect (תִּשְׂמָח, יָגֵל) is a prohibition; the second is in the third person, 'let your heart not exult'.",
+        "פֶּן ('lest') introduces the feared result, three verbs in a chain: He sees, it is evil in His eyes, He turns away.",
+        "הֵשִׁיב is Hiphil of שׁוב ('cause to return, turn back'), not the Qal שָׁב: Bartenura draws a lesson from this."
+      ],
+      "note": "The quoted verse is kept in the order of the Hebrew. 'Turn His anger away from him' is the plain sense; Bartenura reads the Hiphil as: He removes it from your enemy and brings it back onto you. Both readings take the anger as turned away from the enemy. Rambam's remark on אַפּוֹ (not 'his burning anger') is recorded.",
+      "commentary": [
+        {
+          "anchor": "bartenura:4:19:1",
+          "relation": "not-applicable",
+          "summary": "Bartenura: this is a verse in Proverbs, but Samuel the Small was accustomed to admonish people with this saying."
+        },
+        {
+          "anchor": "bartenura:4:19:2",
+          "relation": "follows",
+          "summary": "Bartenura: 'lest the Lord see' (and it be evil in His eyes) because you made Him, in your heart, as though He were your agent to fulfil your wish. The English keeps the text's sense that it is evil in His eyes."
+        },
+        {
+          "anchor": "bartenura:4:19:3",
+          "relation": "follows",
+          "summary": "Bartenura: since the verse says 'turn' (וְהֵשִׁיב) and not 'return' (וְשָׁב), it means He will remove the anger from your enemy and bring it onto you. The English 'turn His anger away from him' agrees that the anger leaves the enemy; the transfer to the reader is Bartenura's reading of the Hiphil."
+        },
+        {
+          "anchor": "rambam:4:19:1",
+          "relation": "records",
+          "summary": "Rambam: the verse does not say 'his burning anger' but 'his anger', which teaches that all his sins are forgiven; Solomon said this as a precept but this sage used to admonish with it against this transgression. The forgiveness reading is recorded, not added to the English."
+        }
+      ],
+      "apparatus": [
+        "Source verse: Proverbs 24:17-18. In the verse the MT has יֵרַע (it is evil), ending וְרַע בְּעֵינָיו וְהֵשִׁיב מֵעָלָיו אַפּוֹ.",
+        "Variant: Vilna reads יז for the chapter number in the citation (Prov. 24 here; the reference is a gloss).",
+        "Variant: Vilna spells בנפול."
+      ]
+    },
+    {
+      "ref": "4:20",
+      "english": "Elisha son of Avuyah says: One who learns as a child, to what is he compared? To ink written on new paper. And one who learns as an old man, to what is he compared? To ink written on erased paper. Rabbi Yose son of Yehudah, a man of Kefar HaBavli, says: One who learns from the young, to what is he compared? To one who eats unripe grapes and drinks wine from his winepress. And one who learns from the old, to what is he compared? To one who eats ripe grapes and drinks aged wine. Rabbi says: Do not look at the jar, but at what is in it. There is a new jar full of old wine, and an old one in which there is not even new.",
+      "literal": "Elisha son-of Avuyah saying the-one-learning child to-what he like to-ink written on paper new and-the-one-learning old to-what he like to-ink written on paper erased Rabbi Yose son-of Yehudah man-of Kefar the-Babylonian saying the-one-learning from the-young to-what he like to-eater-of grapes unripe and-drinker wine from-its-winepress and-the-one-learning from the-old to-what he like to-eater-of grapes ripe and-drinker wine old Rabbi saying not look at-the-jar but at-what that-there-is in-it there-is jar new full-of old and-old that-even new there-is-not in-it",
+      "tokens": [
+        {
+          "id": "4:20.1",
+          "gloss": "Elisha",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.2",
+          "gloss": "son of",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.3",
+          "gloss": "Avuyah",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.4",
+          "gloss": "says",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.5",
+          "gloss": "the one who learns",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.6",
+          "gloss": "as a child",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.7",
+          "gloss": "to what",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.8",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.9",
+          "gloss": "is like",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.10",
+          "gloss": "to ink",
+          "sense": "1",
+          "note": "דְּיוֹ: ink."
+        },
+        {
+          "id": "4:20.11",
+          "gloss": "written",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.12",
+          "gloss": "on",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.13",
+          "gloss": "paper"
+        },
+        {
+          "id": "4:20.14",
+          "gloss": "new",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.15",
+          "gloss": "and the one who learns",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.16",
+          "gloss": "as an old man",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.17",
+          "gloss": "to what",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.18",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.19",
+          "gloss": "is like",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.20",
+          "gloss": "to ink",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.21",
+          "gloss": "written",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.22",
+          "gloss": "on",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.23",
+          "gloss": "paper"
+        },
+        {
+          "id": "4:20.24",
+          "gloss": "erased",
+          "note": "Passive participle of מחק, 'wiped out, erased'."
+        },
+        {
+          "id": "4:20.25",
+          "gloss": "Rabbi",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.26",
+          "gloss": "Yose",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.27",
+          "gloss": "son of",
+          "sense": "1",
+          "note": "Aramaic 'bar', 'son of'."
+        },
+        {
+          "id": "4:20.28",
+          "gloss": "Yehudah",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.29",
+          "gloss": "man of",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.30",
+          "gloss": "Kefar"
+        },
+        {
+          "id": "4:20.31",
+          "gloss": "HaBavli (the Babylonian)",
+          "sense": "1",
+          "note": "Gentilic: 'the Babylonian', in the place name Kefar HaBavli."
+        },
+        {
+          "id": "4:20.32",
+          "gloss": "says",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.33",
+          "gloss": "the one who learns",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.34",
+          "gloss": "from",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.35",
+          "gloss": "the young",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.36",
+          "gloss": "to what",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.37",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.38",
+          "gloss": "is like",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.39",
+          "gloss": "to one who eats",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.40",
+          "gloss": "grapes",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.41",
+          "gloss": "unripe",
+          "sense": "1",
+          "note": "קֵהוֹת: plural feminine, 'dull' (blunting the teeth); the entry in the pack is קָהָה."
+        },
+        {
+          "id": "4:20.42",
+          "gloss": "and drinks",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.43",
+          "gloss": "wine",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.44",
+          "gloss": "from his winepress",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.45",
+          "gloss": "and the one who learns",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.46",
+          "gloss": "from",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.47",
+          "gloss": "the old",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.48",
+          "gloss": "to what",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.49",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.50",
+          "gloss": "is like",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.51",
+          "gloss": "to one who eats",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.52",
+          "gloss": "grapes",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.53",
+          "gloss": "ripe"
+        },
+        {
+          "id": "4:20.54",
+          "gloss": "and drinks",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.55",
+          "gloss": "wine",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.56",
+          "gloss": "aged",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.57",
+          "gloss": "Rabbi",
+          "sense": "1",
+          "note": "Rabbi: Rabbi Yehudah the Prince, by custom."
+        },
+        {
+          "id": "4:20.58",
+          "gloss": "says",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.59",
+          "gloss": "do not",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.60",
+          "gloss": "look",
+          "sense": "1",
+          "note": "Jastrow סָכַל: the pack's lexicon points to the root 'to look'; the form is Hithpael, 'look at'."
+        },
+        {
+          "id": "4:20.61",
+          "gloss": "at the jar"
+        },
+        {
+          "id": "4:20.62",
+          "gloss": "but"
+        },
+        {
+          "id": "4:20.63",
+          "gloss": "at what",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.64",
+          "gloss": "that there is",
+          "sense": "1",
+          "note": "ש + יֵשׁ 'that there is'."
+        },
+        {
+          "id": "4:20.65",
+          "gloss": "in it"
+        },
+        {
+          "id": "4:20.66",
+          "gloss": "there is",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.67",
+          "gloss": "jar"
+        },
+        {
+          "id": "4:20.68",
+          "gloss": "new",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.69",
+          "gloss": "full of",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.70",
+          "gloss": "old",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.71",
+          "gloss": "and old",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.72",
+          "gloss": "that even",
+          "note": "Compound ש + אֲפִלּוּ 'that even'."
+        },
+        {
+          "id": "4:20.73",
+          "gloss": "new",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.74",
+          "gloss": "there is not",
+          "sense": "1"
+        },
+        {
+          "id": "4:20.75",
+          "gloss": "in it"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "4:20.1",
+            "4:20.2",
+            "4:20.3",
+            "4:20.4"
+          ],
+          "english": "Elisha son of Avuyah says",
+          "literal": "בֶּן as 'son of' (decisions)"
+        },
+        {
+          "tokens": [
+            "4:20.5",
+            "4:20.6"
+          ],
+          "english": "One who learns as a child",
+          "literal": "'the-one-learning a-child'; יֶלֶד is the object of the learning in the grammar of the text, read as the time of life"
+        },
+        {
+          "tokens": [
+            "4:20.7",
+            "4:20.8",
+            "4:20.9"
+          ],
+          "english": "to what is he compared",
+          "literal": "'to-what he like'; the formula of the mashal"
+        },
+        {
+          "tokens": [
+            "4:20.10",
+            "4:20.11",
+            "4:20.12",
+            "4:20.13",
+            "4:20.14"
+          ],
+          "english": "to ink written on new paper",
+          "literal": "'to-ink written on paper new'"
+        },
+        {
+          "tokens": [
+            "4:20.15",
+            "4:20.16"
+          ],
+          "english": "And one who learns as an old man",
+          "literal": "parallel to the first clause"
+        },
+        {
+          "tokens": [
+            "4:20.17",
+            "4:20.18",
+            "4:20.19"
+          ],
+          "english": "to what is he compared",
+          "literal": "repeated formula"
+        },
+        {
+          "tokens": [
+            "4:20.20",
+            "4:20.21",
+            "4:20.22",
+            "4:20.23",
+            "4:20.24"
+          ],
+          "english": "to ink written on erased paper",
+          "literal": "מָחוּק: scraped or wiped clean and reused"
+        },
+        {
+          "tokens": [
+            "4:20.25",
+            "4:20.26",
+            "4:20.27",
+            "4:20.28",
+            "4:20.29",
+            "4:20.30",
+            "4:20.31",
+            "4:20.32"
+          ],
+          "english": "Rabbi Yose son of Yehudah, a man of Kefar HaBavli, says",
+          "literal": "בַר is Aramaic 'son of'; Vilna reads 'son of Rabbi'; Kefar HaBavli, a place name ('village of the Babylonian')"
+        },
+        {
+          "tokens": [
+            "4:20.33",
+            "4:20.34",
+            "4:20.35"
+          ],
+          "english": "One who learns from the young",
+          "literal": "מִן: from, of the source of the teaching"
+        },
+        {
+          "tokens": [
+            "4:20.36",
+            "4:20.37",
+            "4:20.38"
+          ],
+          "english": "to what is he compared",
+          "literal": "repeated formula"
+        },
+        {
+          "tokens": [
+            "4:20.39",
+            "4:20.40",
+            "4:20.41"
+          ],
+          "english": "To one who eats unripe grapes",
+          "literal": "קֵהוֹת: 'dull, blunting' (the teeth)"
+        },
+        {
+          "tokens": [
+            "4:20.42",
+            "4:20.43",
+            "4:20.44"
+          ],
+          "english": "and drinks wine from his winepress",
+          "literal": "wine fresh from the press, with its dregs (Bartenura)"
+        },
+        {
+          "tokens": [
+            "4:20.45",
+            "4:20.46",
+            "4:20.47"
+          ],
+          "english": "And one who learns from the old",
+          "literal": "parallel clause"
+        },
+        {
+          "tokens": [
+            "4:20.48",
+            "4:20.49",
+            "4:20.50"
+          ],
+          "english": "to what is he compared",
+          "literal": "repeated formula"
+        },
+        {
+          "tokens": [
+            "4:20.51",
+            "4:20.52",
+            "4:20.53"
+          ],
+          "english": "to one who eats ripe grapes",
+          "literal": "בְּשֵׁלוֹת: ripened"
+        },
+        {
+          "tokens": [
+            "4:20.54",
+            "4:20.55",
+            "4:20.56"
+          ],
+          "english": "and drinks aged wine",
+          "literal": "יָשָׁן: old, stored"
+        },
+        {
+          "tokens": [
+            "4:20.57",
+            "4:20.58"
+          ],
+          "english": "Rabbi says",
+          "literal": "Rabbi Yehudah the Prince; no personal name"
+        },
+        {
+          "tokens": [
+            "4:20.59",
+            "4:20.60",
+            "4:20.61"
+          ],
+          "english": "Do not look at the jar",
+          "literal": "אַל תִּסְתַּכֵּל: prohibition with the verb 'to look at'"
+        },
+        {
+          "tokens": [
+            "4:20.62",
+            "4:20.63",
+            "4:20.64",
+            "4:20.65"
+          ],
+          "english": "but at what is in it",
+          "literal": "'but at-what that-there-is in-it'"
+        },
+        {
+          "tokens": [
+            "4:20.66",
+            "4:20.67",
+            "4:20.68",
+            "4:20.69",
+            "4:20.70"
+          ],
+          "english": "There is a new jar full of old wine",
+          "literal": "'there-is jar new full-of old'; יָשָׁן, 'old (wine)', carries over from the preceding"
+        },
+        {
+          "tokens": [
+            "4:20.71",
+            "4:20.72",
+            "4:20.73",
+            "4:20.74",
+            "4:20.75"
+          ],
+          "english": "and an old one in which there is not even new",
+          "literal": "'and-old that-even new there-is-not in-it'; 'new' is wine, by ellipsis"
+        }
+      ],
+      "grammar": [
+        "The three sayings share the formula לְמַה הוּא דוֹמֶה ('to what is he like'), which opens a mashal (comparison).",
+        "The pairs run in parallel: child and old man (ink on new or erased paper); the young and the old (unripe and ripe grapes, wine fresh from the press and aged wine).",
+        "רַבִּי יוֹסֵי בַר יְהוּדָה: בַר is Aramaic for 'son of'; the Vilna text reads 'son of Rabbi'.",
+        "Rabbi answers with a different image: אַל תִּסְתַּכֵּל with בְּ takes the jar as the object looked at, and אֶלָּא בְמַה שֶּׁיֶּשׁ בּוֹ gives what to look at instead.",
+        "The last sentence is elliptical: 'a new jar full of old' means old wine, and 'an old one that has not even new in it' means an old jar with not even new wine."
+      ],
+      "note": "The Hebrew of the first saying leaves the child as the learner ('learns a child'); the English reads 'learns as a child', as the commentators do. אִישׁ כְּפַר הַבַּבְלִי: 'a man of Kefar HaBavli', a place name; the literal 'village of the Babylonian' is given in the token glosses. דְּיוֹ, ink, is spelled לִדְיוֹ in the base text.",
+      "commentary": [
+        {
+          "anchor": "bartenura:4:20:1",
+          "relation": "follows",
+          "summary": "Bartenura: paper that is new 'endures'; so the learning of a child is lasting. He adds that the reading 'childhood' (יַלְדוּת) is not found. The English follows the text as it stands."
+        },
+        {
+          "anchor": "bartenura:4:20:2",
+          "relation": "follows",
+          "summary": "Bartenura: unripe grapes have not ripened fully and set the teeth on edge (קֵהוֹת); so the wisdom of a child has not settled and his words are not accepted or settled in the heart."
+        },
+        {
+          "anchor": "bartenura:4:20:3",
+          "relation": "follows",
+          "summary": "Bartenura: wine from its winepress still has its lees mixed in it; so the wisdom of a child is a mixture of doubts."
+        },
+        {
+          "anchor": "bartenura:4:20:4",
+          "relation": "follows",
+          "summary": "Bartenura: Rabbi disagrees with Rabbi Yose son of Yehudah: there is a new jar full of old wine, and so there is a child whose taste is the taste of the old, and there are old men who fall short of the young in wisdom."
+        },
+        {
+          "anchor": "rambam:4:20:1",
+          "relation": "follows",
+          "summary": "Rambam: learning in childhood endures and is not easily forgotten; the reverse for old age. Rabbi Yose says the wisdom of the young has questions and doubts not yet refined; Rabbi says 'do not judge the wine by its jar', for there is a new jar with old wine and an old jar that is empty."
+        }
+      ],
+      "apparatus": [
+        "Variant: Vilna reads נייר (spelling) in both places.",
+        "Variant: Vilna reads ברבי ('son of Rabbi') for בַר, and לאוכל, בשולות, שאפילו for the base spellings.",
+        "Rabbeinu Yonah (not normative): the old man's learning is lost quickly; he adds a comparison from Mivchar HaPeninim: engraving on stone against engraving on sand."
+      ]
+    },
+    {
+      "ref": "4:21",
+      "english": "Rabbi Elazar HaKappar says: Envy, desire, and honor take a person out of the world.",
+      "literal": "Rabbi Elazar the-Kappar saying the-envy and-the-desire and-the-honor they-take-out [object-marker] the-person from the-world",
+      "tokens": [
+        {
+          "id": "4:21.1",
+          "gloss": "Rabbi",
+          "sense": "1"
+        },
+        {
+          "id": "4:21.2",
+          "gloss": "Elazar",
+          "sense": "1"
+        },
+        {
+          "id": "4:21.3",
+          "gloss": "the Kappar",
+          "sense": "1",
+          "note": "A byname; Jastrow gives קַפָּר."
+        },
+        {
+          "id": "4:21.4",
+          "gloss": "says",
+          "sense": "1"
+        },
+        {
+          "id": "4:21.5",
+          "gloss": "the envy",
+          "sense": "1"
+        },
+        {
+          "id": "4:21.6",
+          "gloss": "and the desire",
+          "sense": "1",
+          "note": "Appetite or craving."
+        },
+        {
+          "id": "4:21.7",
+          "gloss": "and the honor",
+          "sense": "1",
+          "note": "The pursuit of honor."
+        },
+        {
+          "id": "4:21.8",
+          "gloss": "they take out",
+          "sense": "1",
+          "note": "Plural participle (Mishnaic ־ין), 'they take out'."
+        },
+        {
+          "id": "4:21.9",
+          "gloss": "(object marker)",
+          "sense": "1",
+          "note": "Object marker; the pack's lexicon entry (ploughshare) is the wrong word."
+        },
+        {
+          "id": "4:21.10",
+          "gloss": "the person",
+          "sense": "1"
+        },
+        {
+          "id": "4:21.11",
+          "gloss": "from",
+          "sense": "1"
+        },
+        {
+          "id": "4:21.12",
+          "gloss": "the world",
+          "sense": "1"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "4:21.1",
+            "4:21.2",
+            "4:21.3",
+            "4:21.4"
+          ],
+          "english": "Rabbi Elazar HaKappar says",
+          "literal": "'the Kappar' is a byname"
+        },
+        {
+          "tokens": [
+            "4:21.5"
+          ],
+          "english": "Envy",
+          "literal": "הַקִּנְאָה: with the article, as a general term"
+        },
+        {
+          "tokens": [
+            "4:21.6"
+          ],
+          "english": "desire",
+          "literal": "תַּאֲוָה: appetite, craving"
+        },
+        {
+          "tokens": [
+            "4:21.7"
+          ],
+          "english": "and honor",
+          "literal": "כָּבוֹד: here the pursuit of honor"
+        },
+        {
+          "tokens": [
+            "4:21.8"
+          ],
+          "english": "take",
+          "literal": "מוֹצִיאִין: plural participle"
+        },
+        {
+          "tokens": [
+            "4:21.9"
+          ],
+          "english": "-",
+          "literal": "אֶת marks the definite object"
+        },
+        {
+          "tokens": [
+            "4:21.10"
+          ],
+          "english": "a person",
+          "literal": "הָאָדָם"
+        },
+        {
+          "tokens": [
+            "4:21.11",
+            "4:21.12"
+          ],
+          "english": "out of the world",
+          "literal": "'from the-world'"
+        }
+      ],
+      "grammar": [
+        "The three nouns, each with the article, form the subject; the plural participle מוֹצִיאִין agrees with all three. The ending ־ין is the Mishnaic plural.",
+        "אֶת הָאָדָם is a definite object ('the person'): a person in general.",
+        "מִן הָעוֹלָם: 'out of the world' (this world and the world to come, Rambam and Rabbeinu Yonah); the Hebrew does not say which.",
+        "The saying is a short triad with no explanation, and the English leaves it so."
+      ],
+      "note": "'Honor' stands for the pursuit of honor (Rambam: אהבת הכבוד; Bartenura: that people honor him). 'Desire' is Bartenura's appetite for food, drink and sex; 'envy' is קִנְאָה, as in the commentary. The ambiguity of 'out of the world' is kept.",
+      "commentary": [
+        {
+          "anchor": "bartenura:4:21:1",
+          "relation": "follows",
+          "summary": "Bartenura: תַּאֲוָה is one who seeks to fulfil his desire in eating, drinking, sexual relations and the like. The English 'desire' is kept general."
+        },
+        {
+          "anchor": "bartenura:4:21:2",
+          "relation": "follows",
+          "summary": "Bartenura: כָּבוֹד is that people should honor him, that is, the wish to be honored. The English 'honor' keeps this."
+        },
+        {
+          "anchor": "rambam:4:21:1",
+          "relation": "follows",
+          "summary": "Rambam: envy, desire and the love of honor: by these traits or any one of them a man loses faith in the Torah, and neither intellectual nor moral excellence reaches him. The English keeps the plain 'take out of the world'."
+        }
+      ],
+      "apparatus": [
+        "Variant: Vilna reads אליעזר for אֶלְעָזָר.",
+        "Rabbeinu Yonah (not normative) cites Prov. 14:30 (envy), 21:25 (desire) and the death of Joseph (honor, Berakhot 55a) for how each takes a person out of the world."
+      ]
+    },
+    {
+      "ref": "4:22",
+      "english": "He used to say: Those who are born are to die, and the dead are to be revived, and the living are to be judged; to know, to make known, and to come to know that He is God, He is the Former, He is the Creator, He is the Discerner, He is the Judge, He is the Witness, He is the Plaintiff, and He is about to judge. Blessed is He, before whom there is no injustice, no forgetfulness, no partiality, and no taking of bribes, for everything is His. And know that everything is according to the reckoning. And do not let your impulse assure you that Sheol is a place of refuge for you, for against your will you were formed, and against your will you were born, and against your will you live, and against your will you die, and against your will you are destined to give judgment and account before the King of the kings of kings, the Holy One, blessed be He.",
+      "literal": "He was saying the-born to-die and-the-dead to-be-revived and-the-living to-be-judged to-know to-make-known and-to-become-known that-He God He the-Former He the-Creator He the-Discerner He the-Judge He witness He master-of judgment and-He destined to-judge blessed He that-there-is-not before-Him not injustice and-not forgetfulness and-not lifting-of face and-not taking-of bribe that-the-all His and-know that-the-all according-to the-reckoning and-not let-assure-you your-impulse that-the-Sheol house-of refuge for-you that-against your-will you formed and-against your-will you born and-against your-will you living and-against your-will you dead and-against your-will you destined to-give judgment and-reckoning before king-of kings-of the-kings the-Holy-One blessed He",
+      "tokens": [
+        {
+          "id": "4:22.1",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.2",
+          "gloss": "used to be",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.3",
+          "gloss": "saying",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.4",
+          "gloss": "those who are born",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.5",
+          "gloss": "to die",
+          "sense": "1",
+          "note": "לָמוּת: infinitive construct with לְ, 'to die'."
+        },
+        {
+          "id": "4:22.6",
+          "gloss": "and the dead",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.7",
+          "gloss": "to be revived",
+          "sense": "1",
+          "note": "Niphal infinitive: 'to be revived'."
+        },
+        {
+          "id": "4:22.8",
+          "gloss": "and the living",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.9",
+          "gloss": "to be judged",
+          "sense": "1",
+          "note": "לִדּוֹן: 'to be judged' (passive sense) or 'to judge', by context; here 'to be judged'."
+        },
+        {
+          "id": "4:22.10",
+          "gloss": "to know",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.11",
+          "gloss": "to make known",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.12",
+          "gloss": "and to become known",
+          "sense": "1",
+          "note": "Niphal infinitive of ידע, with the ו and לְ prefixes."
+        },
+        {
+          "id": "4:22.13",
+          "gloss": "that he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.14",
+          "gloss": "God",
+          "sense": "1",
+          "note": "The pack lemma is אַל, 'not'; the sense here is 'God' (אֵל). Data kept."
+        },
+        {
+          "id": "4:22.15",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.16",
+          "gloss": "the Former",
+          "sense": "1",
+          "note": "הַיּוֹצֵר: the potter's 'former'."
+        },
+        {
+          "id": "4:22.17",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.18",
+          "gloss": "the Creator",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.19",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.20",
+          "gloss": "the Discerner",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.21",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.22",
+          "gloss": "the Judge",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.23",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.24",
+          "gloss": "witness",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.25",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.26",
+          "gloss": "master of",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.27",
+          "gloss": "the suit",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.28",
+          "gloss": "and he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.29",
+          "gloss": "destined",
+          "sense": "1",
+          "note": "עָתִיד: 'destined, ready'; Aramaic-derived adjective in Mishnaic Hebrew."
+        },
+        {
+          "id": "4:22.30",
+          "gloss": "to judge",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.31",
+          "gloss": "blessed",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.32",
+          "gloss": "he",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.33",
+          "gloss": "that there is not",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.34",
+          "gloss": "before him",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.35",
+          "gloss": "not",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.36",
+          "gloss": "injustice",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.37",
+          "gloss": "and not",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.38",
+          "gloss": "forgetfulness",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.39",
+          "gloss": "and not",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.40",
+          "gloss": "lifting of",
+          "sense": "1",
+          "note": "מַשּׂוֹא פָנִים: idiom for partiality."
+        },
+        {
+          "id": "4:22.41",
+          "gloss": "faces",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.42",
+          "gloss": "and not",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.43",
+          "gloss": "taking of",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.44",
+          "gloss": "bribe",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.45",
+          "gloss": "that the all",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.46",
+          "gloss": "is his",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.47",
+          "gloss": "and know",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.48",
+          "gloss": "that the all",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.49",
+          "gloss": "according to",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.50",
+          "gloss": "the reckoning",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.51",
+          "gloss": "and do not",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.52",
+          "gloss": "let assure you",
+          "sense": "1",
+          "note": "Hiphil of בטח with suffix: 'make you trust, assure you'."
+        },
+        {
+          "id": "4:22.53",
+          "gloss": "your impulse",
+          "sense": "1",
+          "note": "יֵצֶר: the inclination, impulse."
+        },
+        {
+          "id": "4:22.54",
+          "gloss": "that Sheol",
+          "sense": "1",
+          "note": "The pack lemma is שָׁאוּל (Saul); the word is שְׁאוֹל, Sheol. Data kept."
+        },
+        {
+          "id": "4:22.55",
+          "gloss": "house of",
+          "sense": "1",
+          "note": "בֵּית מָנוֹס: a place to flee to, 'refuge'. The pack gives lemma בַּיִת as a place name."
+        },
+        {
+          "id": "4:22.56",
+          "gloss": "refuge",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.57",
+          "gloss": "for you"
+        },
+        {
+          "id": "4:22.58",
+          "gloss": "that against",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.59",
+          "gloss": "your will",
+          "sense": "1",
+          "note": "עַל כָּרְחֲךָ: 'against your will'."
+        },
+        {
+          "id": "4:22.60",
+          "gloss": "you",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.61",
+          "gloss": "are formed",
+          "sense": "1",
+          "note": "Nifal participle of יצר: 'are formed'."
+        },
+        {
+          "id": "4:22.62",
+          "gloss": "and against",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.63",
+          "gloss": "your will",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.64",
+          "gloss": "you",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.65",
+          "gloss": "are born",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.66",
+          "gloss": "and against",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.67",
+          "gloss": "your will",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.68",
+          "gloss": "you",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.69",
+          "gloss": "live",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.70",
+          "gloss": "and against",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.71",
+          "gloss": "your will",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.72",
+          "gloss": "you",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.73",
+          "gloss": "die",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.74",
+          "gloss": "and against",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.75",
+          "gloss": "your will",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.76",
+          "gloss": "you",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.77",
+          "gloss": "are destined",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.78",
+          "gloss": "to give",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.79",
+          "gloss": "judgment",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.80",
+          "gloss": "and account",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.81",
+          "gloss": "before",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.82",
+          "gloss": "king of",
+          "sense": "1",
+          "note": "King of kings: construct chain with 'the kings of kings'."
+        },
+        {
+          "id": "4:22.83",
+          "gloss": "kings of",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.84",
+          "gloss": "the kings",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.85",
+          "gloss": "the Holy One",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.86",
+          "gloss": "blessed",
+          "sense": "1"
+        },
+        {
+          "id": "4:22.87",
+          "gloss": "he",
+          "sense": "1"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "4:22.1",
+            "4:22.2",
+            "4:22.3"
+          ],
+          "english": "He used to say",
+          "literal": "הוּא הָיָה אוֹמֵר: 'he was saying' (decisions)"
+        },
+        {
+          "tokens": [
+            "4:22.4",
+            "4:22.5"
+          ],
+          "english": "Those who are born are to die",
+          "literal": "הַיִּלּוֹדִים: passive participle, 'the born', with לְ + infinitive: destined to die"
+        },
+        {
+          "tokens": [
+            "4:22.6",
+            "4:22.7"
+          ],
+          "english": "and the dead are to be revived",
+          "literal": "לְהֵחָיוֹת, Niphal infinitive of חיה"
+        },
+        {
+          "tokens": [
+            "4:22.8",
+            "4:22.9"
+          ],
+          "english": "and the living are to be judged",
+          "literal": "לִדּוֹן, 'to be judged' (Vilna: לידון)"
+        },
+        {
+          "tokens": [
+            "4:22.10",
+            "4:22.11",
+            "4:22.12"
+          ],
+          "english": "to know, to make known, and to come to know",
+          "literal": "לֵידַע, לְהוֹדִיעַ, וּלְהִוָּדַע: Qal, Hiphil, Niphal of ידע"
+        },
+        {
+          "tokens": [
+            "4:22.13",
+            "4:22.14"
+          ],
+          "english": "that He is God",
+          "literal": "'that-He God'"
+        },
+        {
+          "tokens": [
+            "4:22.15",
+            "4:22.16"
+          ],
+          "english": "He is the Former",
+          "literal": "הַיּוֹצֵר: the one who forms, as a potter"
+        },
+        {
+          "tokens": [
+            "4:22.17",
+            "4:22.18"
+          ],
+          "english": "He is the Creator",
+          "literal": "הַבּוֹרֵא"
+        },
+        {
+          "tokens": [
+            "4:22.19",
+            "4:22.20"
+          ],
+          "english": "He is the Discerner",
+          "literal": "הַמֵּבִין: the one who understands"
+        },
+        {
+          "tokens": [
+            "4:22.21",
+            "4:22.22"
+          ],
+          "english": "He is the Judge",
+          "literal": "הַדַּיָּן"
+        },
+        {
+          "tokens": [
+            "4:22.23",
+            "4:22.24"
+          ],
+          "english": "He is the Witness",
+          "literal": "עֵד, without the article"
+        },
+        {
+          "tokens": [
+            "4:22.25",
+            "4:22.26",
+            "4:22.27"
+          ],
+          "english": "He is the Plaintiff",
+          "literal": "בַעַל דִּין: 'master of the suit', a party to the case"
+        },
+        {
+          "tokens": [
+            "4:22.28",
+            "4:22.29",
+            "4:22.30"
+          ],
+          "english": "and He is about to judge",
+          "literal": "עָתִיד, 'destined, ready'"
+        },
+        {
+          "tokens": [
+            "4:22.31",
+            "4:22.32"
+          ],
+          "english": "Blessed is He",
+          "literal": "בָּרוּךְ הוּא"
+        },
+        {
+          "tokens": [
+            "4:22.33",
+            "4:22.34"
+          ],
+          "english": "before whom there is",
+          "literal": "'that-there-is-not before-Him'; the negatives follow"
+        },
+        {
+          "tokens": [
+            "4:22.35",
+            "4:22.36"
+          ],
+          "english": "no injustice",
+          "literal": "'not injustice'"
+        },
+        {
+          "tokens": [
+            "4:22.37",
+            "4:22.38"
+          ],
+          "english": "no forgetfulness",
+          "literal": "'and-not forgetfulness'"
+        },
+        {
+          "tokens": [
+            "4:22.39",
+            "4:22.40",
+            "4:22.41"
+          ],
+          "english": "no partiality",
+          "literal": "מַשּׂוֹא פָנִים: 'lifting of faces', idiom for favoritism"
+        },
+        {
+          "tokens": [
+            "4:22.42",
+            "4:22.43",
+            "4:22.44"
+          ],
+          "english": "no taking of bribes",
+          "literal": "'taking of a bribe'"
+        },
+        {
+          "tokens": [
+            "4:22.45",
+            "4:22.46"
+          ],
+          "english": "for everything is His",
+          "literal": "'that-the-all His'"
+        },
+        {
+          "tokens": [
+            "4:22.47"
+          ],
+          "english": "And know",
+          "literal": "imperative"
+        },
+        {
+          "tokens": [
+            "4:22.48",
+            "4:22.49",
+            "4:22.50"
+          ],
+          "english": "that everything is according to the reckoning",
+          "literal": "'that the all according to the reckoning'"
+        },
+        {
+          "tokens": [
+            "4:22.51",
+            "4:22.52",
+            "4:22.53"
+          ],
+          "english": "And do not let your impulse assure you",
+          "literal": "יַבְטִיחֲךָ, Hiphil of בטח: 'make you trust, promise you'; יֵצֶר 'impulse, inclination'"
+        },
+        {
+          "tokens": [
+            "4:22.54",
+            "4:22.55",
+            "4:22.56",
+            "4:22.57"
+          ],
+          "english": "that Sheol is a place of refuge for you",
+          "literal": "'that-Sheol house-of refuge for-you'; בֵּית מָנוֹס is a place to flee to"
+        },
+        {
+          "tokens": [
+            "4:22.58",
+            "4:22.59",
+            "4:22.60",
+            "4:22.61"
+          ],
+          "english": "for against your will you were formed",
+          "literal": "עַל כָּרְחֲךָ: 'against your will'; נוֹצָר, passive of יצר"
+        },
+        {
+          "tokens": [
+            "4:22.62",
+            "4:22.63",
+            "4:22.64",
+            "4:22.65"
+          ],
+          "english": "and against your will you were born",
+          "literal": "נוֹלָד: Niphal of ילד"
+        },
+        {
+          "tokens": [
+            "4:22.66",
+            "4:22.67",
+            "4:22.68",
+            "4:22.69"
+          ],
+          "english": "and against your will you live",
+          "literal": "חַי"
+        },
+        {
+          "tokens": [
+            "4:22.70",
+            "4:22.71",
+            "4:22.72",
+            "4:22.73"
+          ],
+          "english": "and against your will you die",
+          "literal": "מֵת"
+        },
+        {
+          "tokens": [
+            "4:22.74",
+            "4:22.75",
+            "4:22.76",
+            "4:22.77"
+          ],
+          "english": "and against your will you are destined",
+          "literal": "עָתִיד"
+        },
+        {
+          "tokens": [
+            "4:22.78",
+            "4:22.79",
+            "4:22.80"
+          ],
+          "english": "to give judgment and account",
+          "literal": "'to-give judgment and-reckoning'"
+        },
+        {
+          "tokens": [
+            "4:22.81",
+            "4:22.82",
+            "4:22.83",
+            "4:22.84"
+          ],
+          "english": "before the King of the kings of kings",
+          "literal": "'before king-of kings-of the-kings'"
+        },
+        {
+          "tokens": [
+            "4:22.85",
+            "4:22.86",
+            "4:22.87"
+          ],
+          "english": "the Holy One, blessed be He",
+          "literal": "הַקָּדוֹשׁ בָּרוּךְ הוּא"
+        }
+      ],
+      "grammar": [
+        "The first line is a threefold sequence with לְ + infinitive (or participle): born to die, dead to be revived, living to be judged.",
+        "לֵידַע לְהוֹדִיעַ וּלְהִוָּדַע is a series of three infinitives (Qal, Hiphil, Niphal) of ידע, and the three cases, Bartenura says, are from others, to others, and of oneself.",
+        "A string of הוּא clauses names God in seven roles; הוּא before each noun is a pronoun used as a copula ('He is ...').",
+        "Five times the same phrase עַל כָּרְחֲךָ ('against your will') opens a clause; each time אַתָּה with a passive or stative form follows.",
+        "מֶלֶךְ מַלְכֵי הַמְּלָכִים ('king of the kings of kings'): the construct chain heaps up the superlative; the Vilna text has the same.",
+        "וְדַע שֶׁהַכֹּל לְפִי הַחֶשְׁבּוֹן is a bare imperative and a short sentence: the Hebrew does not say who reckons."
+      ],
+      "note": "The Hebrew leaves open who 'knows', 'makes known' and 'comes to know'; the English keeps the three infinitives bare, and Bartenura's glosses (from others, to others, from oneself) are given in the commentary entries. אֵל is read as 'God', following Bartenura's silence and Rabbeinu Yonah's gloss 'strong, mighty' recorded in the apparatus; the pack lexicon links token 14 to אַל ('not'), which is not the sense here (data kept). עָתִיד לָדוּן is 'is about to judge' (Bartenura: in the world to come). שֶׁהַכֹּל לְפִי הַחֶשְׁבּוֹן: 'according to the reckoning'; Bartenura gives the sum of small coins, which the English does not add. In the line on the impulse, שְׁאוֹל is Sheol; the pack lemma (Saul) is wrong (data kept).",
+      "commentary": [
+        {
+          "anchor": "bartenura:4:22:1",
+          "relation": "follows",
+          "summary": "Bartenura: one who has been born is already destined to die."
+        },
+        {
+          "anchor": "bartenura:4:22:2",
+          "relation": "follows",
+          "summary": "Bartenura: the dead are destined to live and to stand on the Day of Judgment, some to eternal life, some to shame and eternal contempt (Dan. 12:2). The English keeps the plain 'to be revived'."
+        },
+        {
+          "anchor": "bartenura:4:22:3",
+          "relation": "follows",
+          "summary": "Bartenura: the living are standing to be judged on the Day of Judgment."
+        },
+        {
+          "anchor": "bartenura:4:22:4",
+          "relation": "follows",
+          "summary": "Bartenura on לֵידַע: from others. The English 'to know' keeps the bare infinitive."
+        },
+        {
+          "anchor": "bartenura:4:22:5",
+          "relation": "follows",
+          "summary": "Bartenura (on 'וּלְהוֹדִיעַ'): to others. The English 'to make known' renders the Hiphil."
+        },
+        {
+          "anchor": "bartenura:4:22:6",
+          "relation": "follows",
+          "summary": "Bartenura on וּלְהִוָּדַע: to understand of oneself. The English 'to come to know' renders the Niphal."
+        },
+        {
+          "anchor": "bartenura:4:22:7",
+          "relation": "follows",
+          "summary": "Bartenura: the whole world is in His hand like clay in the potter's hand, and the reason is that He is the Creator, who made the whole world from nothing; therefore He can do with it as He wishes. The English follows the potter image of 'the Former'."
+        },
+        {
+          "anchor": "bartenura:4:22:8",
+          "relation": "follows",
+          "summary": "Bartenura: since He has understood all their deeds, He brings them to judgment before Him. This is why the Discerner is followed by the Judge."
+        },
+        {
+          "anchor": "bartenura:4:22:9",
+          "relation": "follows",
+          "summary": "Bartenura: 'plaintiff' means that He claims against sinners. The English 'Plaintiff' follows."
+        },
+        {
+          "anchor": "bartenura:4:22:10",
+          "relation": "follows",
+          "summary": "Bartenura on 'He is about to judge': in the world to come."
+        },
+        {
+          "anchor": "bartenura:4:22:11",
+          "relation": "follows",
+          "summary": "Bartenura: He does not show partiality even to a perfect righteous man, to spare him punishment for a light transgression that came his way, and He does not take a bribe, a commandment's reward set against a transgression, but gives reward for the commandment and punishment for the transgression."
+        },
+        {
+          "anchor": "bartenura:4:22:12",
+          "relation": "follows",
+          "summary": "Bartenura: coin by coin is added to a great sum; so light transgressions, when many, add up to a great reckoning. The English keeps 'the reckoning' without the coin image."
+        },
+        {
+          "anchor": "bartenura:4:22:13",
+          "relation": "follows",
+          "summary": "Bartenura: the soul does not wish to leave the curtain (the pure place where souls are kept) and enter a woman's womb, an impure place; an angel comes and brings it out against its will. The English keeps the bare 'against your will'."
+        },
+        {
+          "anchor": "bartenura:4:22:14",
+          "relation": "follows",
+          "summary": "Bartenura: at the time of birth he does not want to come out, and an angel brings him out against his will."
+        },
+        {
+          "anchor": "bartenura:4:22:15",
+          "relation": "follows",
+          "summary": "Bartenura: there is a man crushed by suffering who wants to die and cannot."
+        },
+        {
+          "anchor": "rambam:4:22:1",
+          "relation": "follows",
+          "summary": "Rambam: the Holy One knows those who will be born, those born now and those who will live after death, and from these three classes one learns that He is the Former and the Creator. 'The Judge' and 'about to judge': He judges all now, in life, death and the affairs of the world, and will also judge those who live in the world to come, with reward and punishment. 'No taking of bribes' is as the Torah says. The English follows this."
+        }
+      ],
+      "apparatus": [
+        "Variant: Vilna reads לידון (4:22.9), הדיין (4:22.22), שוחד (4:22.44), ליתן (4:22.78) for the base spellings.",
+        "Rambam (normative, on 'says'): the Holy One knows those who are to be born, those being born now, and those who will live after death; from these three classes it is learned that He is the Former and the Creator; 'the Judge and about to judge' means He judges now in life, death and world affairs, and will judge those who live in the world to come with reward and punishment. 'No taking of bribes' is as the Torah says (Deut. 10:17).",
+        "Rabbeinu Yonah (not normative): אֵל from the sense 'mighty' (as in 2 Kings 24:15, 'the mighty of the land').",
+        "Rabbeinu Yonah: 'Former' is the start of the work and 'Creator' its completion.",
+        "Rabbeinu Yonah on 'let your impulse assure you': do not say that Sheol is a place of refuge, as the heretics say, 'in the world to come there is neither judgment nor judge'."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3321 @@
+{
+ "unit": "perek-2-02",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "2:7",
+   "english": "He used to say: The more flesh, the more worms. The more property, the more anxiety. The more wives, the more witchcraft. The more maidservants, the more lewdness. The more male slaves, the more robbery. The more Torah, the more life. The more sitting in study, the more wisdom. The more counsel, the more understanding. The more charity, the more peace. One who has acquired a good name has acquired it for himself. One who has acquired for himself words of Torah has acquired for himself the life of the world to come.",
+   "literal": "he was saying: increasing-flesh, increasing-worm; increasing-property, increasing-anxiety; increasing-wives, increasing-witchcraft; increasing-maidservants, increasing-lewdness; increasing-slaves, increasing-robbery; increasing-Torah, increasing-life; increasing-sitting, increasing-wisdom; increasing-counsel, increasing-understanding; increasing-charity, increasing-peace. acquired name-of good, acquired for-himself. acquired for-him words-of Torah, acquired for-him life-of the-world the-coming",
+   "tokens": [
+    {
+     "id": "2:7.1",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.2",
+     "gloss": "used to be",
+     "sense": "1",
+     "note": "הָיָה אוֹמֵר: 'was saying', the habitual past in rabbinic Hebrew: 'used to say'."
+    },
+    {
+     "id": "2:7.3",
+     "gloss": "saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:7.4",
+     "gloss": "increases (the more)",
+     "sense": "1",
+     "note": "מַרְבֶּה: hifil participle of רבה, 'one who increases'; the saying is a pair of such participles, 'the more ..., the more ...'."
+    },
+    {
+     "id": "2:7.5",
+     "gloss": "flesh",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:7.6",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.7",
+     "gloss": "worms",
+     "note": "רִמָּה: 'worm, maggot'; the pack links the lemma to BDB רָמָה 'Ramah', a different word; no sense given."
+    },
+    {
+     "id": "2:7.8",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.9",
+     "gloss": "property"
+    },
+    {
+     "id": "2:7.10",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.11",
+     "gloss": "anxiety",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.12",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.13",
+     "gloss": "wives",
+     "sense": "1.2"
+    },
+    {
+     "id": "2:7.14",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.15",
+     "gloss": "witchcraft",
+     "note": "כְשָׁפִים: 'sorceries, witchcraft'; the plural."
+    },
+    {
+     "id": "2:7.16",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.17",
+     "gloss": "maidservants",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.18",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.19",
+     "gloss": "lewdness"
+    },
+    {
+     "id": "2:7.20",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.21",
+     "gloss": "male slaves"
+    },
+    {
+     "id": "2:7.22",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.23",
+     "gloss": "robbery",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.24",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.25",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.26",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.27",
+     "gloss": "life",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.28",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.29",
+     "gloss": "sitting in study",
+     "sense": "4",
+     "note": "יְשִׁיבָה: 'sitting', here sitting in study or in the academy."
+    },
+    {
+     "id": "2:7.30",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.31",
+     "gloss": "wisdom",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.32",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.33",
+     "gloss": "counsel",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.34",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.35",
+     "gloss": "understanding",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.36",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.37",
+     "gloss": "charity",
+     "sense": "1.5",
+     "note": "צְדָקָה: 'charity', also 'righteousness'; see note."
+    },
+    {
+     "id": "2:7.38",
+     "gloss": "increases (the more)",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.39",
+     "gloss": "peace",
+     "sense": "1.5.1"
+    },
+    {
+     "id": "2:7.40",
+     "gloss": "acquired",
+     "note": "קָנָה: 'acquired'; the pack links it to BDB 'Kanah' (a place name), a different word; no sense given."
+    },
+    {
+     "id": "2:7.41",
+     "gloss": "name of"
+    },
+    {
+     "id": "2:7.42",
+     "gloss": "good"
+    },
+    {
+     "id": "2:7.43",
+     "gloss": "acquired"
+    },
+    {
+     "id": "2:7.44",
+     "gloss": "for himself"
+    },
+    {
+     "id": "2:7.45",
+     "gloss": "acquired"
+    },
+    {
+     "id": "2:7.46",
+     "gloss": "for himself"
+    },
+    {
+     "id": "2:7.47",
+     "gloss": "words of",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:7.48",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.49",
+     "gloss": "acquired"
+    },
+    {
+     "id": "2:7.50",
+     "gloss": "for himself"
+    },
+    {
+     "id": "2:7.51",
+     "gloss": "life of",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.52",
+     "gloss": "the world",
+     "sense": "1"
+    },
+    {
+     "id": "2:7.53",
+     "gloss": "that is to come",
+     "note": "הַבָּא: 'the coming', a participle with the article; the pack's Jastrow entry (בָּא I, 'father') is another word."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:7.1",
+      "2:7.2",
+      "2:7.3"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying': the formula of decisions.md for הוּא הָיָה אוֹמֵר"
+    },
+    {
+     "tokens": [
+      "2:7.4",
+      "2:7.5",
+      "2:7.6",
+      "2:7.7"
+     ],
+     "english": "The more flesh, the more worms",
+     "literal": "'increasing flesh, increasing worm': a participial pair, rendered as a proportion; Bartenura: fattening by eating and drinking"
+    },
+    {
+     "tokens": [
+      "2:7.8",
+      "2:7.9",
+      "2:7.10",
+      "2:7.11"
+     ],
+     "english": "The more property, the more anxiety",
+     "literal": "'increasing property, increasing anxiety'; נְכָסִים is movable goods and wealth"
+    },
+    {
+     "tokens": [
+      "2:7.12",
+      "2:7.13",
+      "2:7.14",
+      "2:7.15"
+     ],
+     "english": "The more wives, the more witchcraft",
+     "literal": "'increasing wives, increasing sorceries'; Bartenura reads the list as a chain of consequences"
+    },
+    {
+     "tokens": [
+      "2:7.16",
+      "2:7.17",
+      "2:7.18",
+      "2:7.19"
+     ],
+     "english": "The more maidservants, the more lewdness",
+     "literal": "'increasing maidservants, increasing lewdness'; זִמָּה is sexual depravity"
+    },
+    {
+     "tokens": [
+      "2:7.20",
+      "2:7.21",
+      "2:7.22",
+      "2:7.23"
+     ],
+     "english": "The more male slaves, the more robbery",
+     "literal": "'increasing slaves, increasing robbery'"
+    },
+    {
+     "tokens": [
+      "2:7.24",
+      "2:7.25",
+      "2:7.26",
+      "2:7.27"
+     ],
+     "english": "The more Torah, the more life",
+     "literal": "'increasing Torah, increasing life'; the first of the contrasting positive pairs"
+    },
+    {
+     "tokens": [
+      "2:7.28",
+      "2:7.29",
+      "2:7.30",
+      "2:7.31"
+     ],
+     "english": "The more sitting in study, the more wisdom",
+     "literal": "'increasing sitting, increasing wisdom'; יְשִׁיבָה as sitting in the academy"
+    },
+    {
+     "tokens": [
+      "2:7.32",
+      "2:7.33",
+      "2:7.34",
+      "2:7.35"
+     ],
+     "english": "The more counsel, the more understanding",
+     "literal": "'increasing counsel, increasing understanding'"
+    },
+    {
+     "tokens": [
+      "2:7.36",
+      "2:7.37",
+      "2:7.38",
+      "2:7.39"
+     ],
+     "english": "The more charity, the more peace",
+     "literal": "'increasing charity, increasing peace'; צְדָקָה also means righteousness"
+    },
+    {
+     "tokens": [
+      "2:7.40",
+      "2:7.41",
+      "2:7.42"
+     ],
+     "english": "One who has acquired a good name",
+     "literal": "'acquired a name of good'; the verb is a perfect used for a general statement"
+    },
+    {
+     "tokens": [
+      "2:7.43",
+      "2:7.44"
+     ],
+     "english": "has acquired it for himself",
+     "literal": "'acquired for-himself': the name stays with its owner"
+    },
+    {
+     "tokens": [
+      "2:7.45",
+      "2:7.46",
+      "2:7.47",
+      "2:7.48"
+     ],
+     "english": "One who has acquired for himself words of Torah",
+     "literal": "'acquired for-him words-of Torah'"
+    },
+    {
+     "tokens": [
+      "2:7.49",
+      "2:7.50",
+      "2:7.51",
+      "2:7.52",
+      "2:7.53"
+     ],
+     "english": "has acquired for himself the life of the world to come",
+     "literal": "'acquired for-him life-of the-world the-coming'"
+    }
+   ],
+   "grammar": [
+    "מַרְבֶּה is a hifil masculine singular participle ('one who increases'). The saying runs on one pattern, מַרְבֶּה X מַרְבֶּה Y, and the English gives it as 'the more X, the more Y'; the participle carries no 'if' or 'then'.",
+    "The first six pairs set a possession against its cost (flesh and worms, property and anxiety, wives and witchcraft, maidservants and lewdness, slaves and robbery); the next four set a good against its reward (Torah and life, study and wisdom, counsel and understanding, charity and peace). The list is closed by two sentences with קָנָה, the perfect used for a general truth.",
+    "דְאָגָה (anxiety), כְשָׁפִים (sorcery) and זִמָּה (lewdness) are post-biblical or rare in this sense; the pack's BDB entries for רִמָּה, זִמָּה and עֶבֶד are for other words with the same consonants, and Jastrow's entry for רָבָה is only a cross-reference.",
+    "In קָנָה לוֹ, the preposition with suffix לוֹ is a dative of advantage ('for himself'); in לְעַצְמוֹ the noun 'bone, self' is used as the reflexive.",
+    "הָעוֹלָם הַבָּא is a noun with an article plus a participle with an article, 'the world that comes'; decisions.md fixes it as 'the world to come'."
+   ],
+   "note": "מַרְבֶּה is given as 'the more ...' to keep the brevity of the sayings. בָּשָׂר is rendered 'flesh' as in Bartenura (one who eats and drinks until he is fat); the English does not decide whether the worms of the grave or of the body are meant. יְשִׁיבָה: 'sitting', that is, sitting in session or in the academy (Bartenura: many disciples gather to hear his reasoning); I keep the literal word. In this reading the clause is 'more sitting, more wisdom', and Bartenura notes that others read 'one who increases yeshivah increases wisdom', which is what our text has. צְדָקָה: 'charity' (giving), the sense of the later usage; Bartenura quotes Isaiah 32:17, where the word is 'righteousness', so the English keeps 'charity' while the wider sense is recorded here.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:7:1",
+     "relation": "follows",
+     "summary": "Bartenura: one who eats and drinks until he is fat and fleshy increases worms on himself in the grave, and the worm is as painful to the dead as a needle in living flesh. He adds that this tanna teaches that every increase is harmful to a person except increase of Torah, wisdom and charity."
+    },
+    {
+     "anchor": "bartenura:2:7:2",
+     "relation": "follows",
+     "summary": "Bartenura: the anxiety is lest he be robbed from the king's house or bandits come and kill him. He cites a pious man who prayed to be saved from 'scattering of the soul', which meant having many goods scattered in many places so that one must scatter one's mind to think of this place and that."
+    },
+    {
+     "anchor": "bartenura:2:7:3",
+     "relation": "follows",
+     "summary": "Bartenura: the order of the list is a sequence of causes: first a man adorns himself, eats and drinks and grows fleshy; then he seeks wealth; with wealth enough to support many women he takes many wives; each wife needs a maidservant; and a large household needs fields and vineyards and slaves to work them."
+    },
+    {
+     "anchor": "bartenura:2:7:4",
+     "relation": "follows",
+     "summary": "Bartenura: 'more Torah, more life' because it is written (Deuteronomy 30:20) 'for it is your life and the length of your days'."
+    },
+    {
+     "anchor": "bartenura:2:7:5",
+     "relation": "follows",
+     "summary": "Bartenura: one who increases wisdom gives reasons for his words, and his arguments settle in the hearts of the hearers."
+    },
+    {
+     "anchor": "bartenura:2:7:6",
+     "relation": "follows",
+     "summary": "Bartenura: many disciples gather to hear his arguments. He notes the reading 'more sitting, more wisdom' (the reading of our text): one who has many disciples is sharpened by them, and they increase and add to his wisdom."
+    },
+    {
+     "anchor": "bartenura:2:7:7",
+     "relation": "follows",
+     "summary": "Bartenura: 'increases counsel' means one who takes counsel often."
+    },
+    {
+     "anchor": "bartenura:2:7:8",
+     "relation": "follows",
+     "summary": "Bartenura: 'understanding' is to understand one thing from another, from the counsel that his advisers give him."
+    },
+    {
+     "anchor": "bartenura:2:7:9",
+     "relation": "follows",
+     "summary": "Bartenura: the support for charity and peace is Isaiah 32:17, 'and the work of righteousness shall be peace'."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:7:6",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: one who gives charity is loved by those who benefit from his money and so increases peace in the world; one who advises others to give also has it counted to his credit."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:7:7",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: a good name is for himself and he will not leave it to others, unlike the one who increases property, who at death leaves it and goes without any of the desirable things he gained from it."
+    }
+   ],
+   "apparatus": [
+    "No variant readings are recorded between the witnesses for this mishnah.",
+    "Bartenura (2:7:6) knows both orders, 'increases wisdom, increases sitting' and 'increases sitting, increases wisdom'; the base text has the second.",
+    "Isaiah 32:17 and Deuteronomy 30:20 are quoted by Bartenura, not by the mishnah."
+   ]
+  },
+  {
+   "ref": "2:8",
+   "english": "Rabban Yohanan son of Zakkai received from Hillel and from Shammai. He used to say: If you have learned much Torah, do not claim credit for yourself, for to this end you were created. Rabban Yohanan son of Zakkai had five disciples, and these are they: Rabbi Eliezer son of Hyrcanus, Rabbi Yehoshua son of Hananiah, Rabbi Yose the Priest, Rabbi Shimon son of Netanel, and Rabbi Elazar son of Arach. He used to enumerate their praises: Rabbi Eliezer son of Hyrcanus, a plastered cistern that does not lose a drop. Rabbi Yehoshua son of Hananiah, happy is she who bore him. Rabbi Yose the Priest, a pious man. Rabbi Shimon son of Netanel, a fearer of sin. And Rabbi Elazar son of Arach, a spring gathering strength. He used to say: If all the sages of Israel were in one pan of a scale, and Eliezer son of Hyrcanus in the other pan, he would outweigh them all. Abba Shaul says in his name: If all the sages of Israel were in one pan of a scale, and Rabbi Eliezer son of Hyrcanus also with them, and Rabbi Elazar son of Arach in the other pan, he would outweigh them all.",
+   "literal": "Rabban Yohanan son-of Zakkai received from-Hillel and-from-Shammai. he was saying: if you-learned Torah much, not you-hold goodness for-yourself, for for-this you-were-formed. five disciples were to-him, to-Rabban Yohanan son-of Zakkai, and-these they: Rabbi Eliezer son-of Hyrcanus, and-Rabbi Yehoshua son-of Hananiah, and-Rabbi Yose the-Priest, and-Rabbi Shimon son-of Netanel, and-Rabbi Elazar son-of Arach. he was counting their-praise: Rabbi Eliezer son-of Hyrcanus, cistern plaster/counsel that-not-he losing drop. Rabbi Yehoshua son-of Hananiah, happy she-who-bore-him. Rabbi Yose the-Priest, pious. Rabbi Shimon son-of Netanel, fearing-of sin. and-Rabbi Elazar son-of Arach, spring the-gathering-strength. he was saying: if they-be all sages-of Israel in-pan-of scales, and-Eliezer son-of Hyrcanus in-pan second, tipping ACC all-of-them. Abba Shaul saying in-his-name: if they-be all sages-of Israel in-pan-of scales, and-Rabbi Eliezer son-of Hyrcanus also with-them, and-Rabbi Elazar son-of Arach in-pan second, tipping ACC all-of-them",
+   "tokens": [
+    {
+     "id": "2:8.1",
+     "gloss": "Rabban",
+     "sense": "3",
+     "note": "רַבָּן: 'our master', a title of the heads of the Sanhedrin."
+    },
+    {
+     "id": "2:8.2",
+     "gloss": "Yohanan",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.3",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.4",
+     "gloss": "Zakkai"
+    },
+    {
+     "id": "2:8.5",
+     "gloss": "received",
+     "sense": "2.1",
+     "note": "קִבֵּל: piel perfect of קבל, 'received (the tradition)'."
+    },
+    {
+     "id": "2:8.6",
+     "gloss": "from Hillel"
+    },
+    {
+     "id": "2:8.7",
+     "gloss": "and from Shammai",
+     "sense": "2"
+    },
+    {
+     "id": "2:8.8",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.9",
+     "gloss": "used to be",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.10",
+     "gloss": "saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.11",
+     "gloss": "if",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:8.12",
+     "gloss": "you have learned",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.13",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.14",
+     "gloss": "much (lit. increasing)",
+     "sense": "1",
+     "note": "הַרְבֵּה: hifil infinitive absolute of רבה, 'much, abundantly'."
+    },
+    {
+     "id": "2:8.15",
+     "gloss": "do not",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.16",
+     "gloss": "hold",
+     "sense": "1",
+     "note": "תַּחֲזִיק: hifil imperfect of חזק; with טוֹבָה it means 'to take credit'."
+    },
+    {
+     "id": "2:8.17",
+     "gloss": "credit (lit. goodness)",
+     "sense": "3",
+     "note": "טוֹבָה: 'goodness, favor'; in אַל תַּחֲזִיק טוֹבָה, 'do not give yourself credit'."
+    },
+    {
+     "id": "2:8.18",
+     "gloss": "for yourself"
+    },
+    {
+     "id": "2:8.19",
+     "gloss": "for",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:8.20",
+     "gloss": "for this (purpose)",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.21",
+     "gloss": "you were created",
+     "sense": "1.1.2.1",
+     "note": "נוֹצָרְתָּ: nifal perfect of יצר, 'were formed'; the sense is 'were created'."
+    },
+    {
+     "id": "2:8.22",
+     "gloss": "five"
+    },
+    {
+     "id": "2:8.23",
+     "gloss": "disciples",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.24",
+     "gloss": "were",
+     "sense": "1",
+     "note": "הָיוּ: qal perfect 3rd plural of הָיָה; with לוֹ it states possession."
+    },
+    {
+     "id": "2:8.25",
+     "gloss": "to him"
+    },
+    {
+     "id": "2:8.26",
+     "gloss": "to Rabban",
+     "sense": "3"
+    },
+    {
+     "id": "2:8.27",
+     "gloss": "Yohanan",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.28",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.29",
+     "gloss": "Zakkai"
+    },
+    {
+     "id": "2:8.30",
+     "gloss": "and these",
+     "sense": "2",
+     "note": "וְאֵלּוּ: 'and these'; the Mishnaic form of the demonstrative."
+    },
+    {
+     "id": "2:8.31",
+     "gloss": "are they",
+     "note": "הֵן: 'they' (feminine/common plural, the pack's parse); the pack's BDB entry is 'behold', another word, so no sense is given."
+    },
+    {
+     "id": "2:8.32",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.33",
+     "gloss": "Eliezer",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.34",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.35",
+     "gloss": "Hyrcanus",
+     "sense": "3"
+    },
+    {
+     "id": "2:8.36",
+     "gloss": "and Rabbi",
+     "sense": "1",
+     "note": "וְרַבִּי: 'and Rabbi' (my master), the title of a sage."
+    },
+    {
+     "id": "2:8.37",
+     "gloss": "Yehoshua"
+    },
+    {
+     "id": "2:8.38",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.39",
+     "gloss": "Hananiah",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.40",
+     "gloss": "and Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.41",
+     "gloss": "Yose",
+     "sense": "2"
+    },
+    {
+     "id": "2:8.42",
+     "gloss": "the Priest",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.43",
+     "gloss": "and Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.44",
+     "gloss": "Shimon",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.45",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.46",
+     "gloss": "Netanel",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.47",
+     "gloss": "and Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.48",
+     "gloss": "Elazar",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.49",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.50",
+     "gloss": "Arach"
+    },
+    {
+     "id": "2:8.51",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.52",
+     "gloss": "used to be",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.53",
+     "gloss": "counting",
+     "note": "מוֹנֶה: qal participle of מנה, 'counting'; the pack's BDB entry is 'part, portion', a noun, so no sense is given."
+    },
+    {
+     "id": "2:8.54",
+     "gloss": "their praises",
+     "sense": "3",
+     "note": "שִׁבְחָן: 'their praise', with the feminine plural suffix -ן; the pack's lemma is Jastrow שֶׁבַח."
+    },
+    {
+     "id": "2:8.55",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.56",
+     "gloss": "Eliezer",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.57",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.58",
+     "gloss": "Hyrcanus",
+     "sense": "3"
+    },
+    {
+     "id": "2:8.59",
+     "gloss": "cistern",
+     "note": "בּוֹר: 'cistern, pit'; the pack's Jastrow entry (בּוּר I) is for another word, so no sense is given."
+    },
+    {
+     "id": "2:8.60",
+     "gloss": "plastered",
+     "note": "סוּד: 'counsel, circle'; the Vilna text reads סיד 'plaster', which the English follows (see note)."
+    },
+    {
+     "id": "2:8.61",
+     "gloss": "that does not"
+    },
+    {
+     "id": "2:8.62",
+     "gloss": "lose",
+     "sense": "1.2.1",
+     "note": "מְאַבֵּד: piel participle of אבד, 'causes to be lost'."
+    },
+    {
+     "id": "2:8.63",
+     "gloss": "a drop",
+     "note": "טִפָּה: 'a drop'."
+    },
+    {
+     "id": "2:8.64",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.65",
+     "gloss": "Yehoshua"
+    },
+    {
+     "id": "2:8.66",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.67",
+     "gloss": "Hananiah",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.68",
+     "gloss": "happy",
+     "note": "אַשְׁרֵי: 'happy, blessed' (an exclamation); the pack's Jastrow entry is only a cross-reference, so no sense is given."
+    },
+    {
+     "id": "2:8.69",
+     "gloss": "she who bore him",
+     "note": "יוֹלַדְתּוֹ: feminine participle (construct) of ילד with a 3rd masculine suffix: 'she who bore him'."
+    },
+    {
+     "id": "2:8.70",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.71",
+     "gloss": "Yose",
+     "sense": "2"
+    },
+    {
+     "id": "2:8.72",
+     "gloss": "the Priest",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.73",
+     "gloss": "pious",
+     "sense": "1.2",
+     "note": "חָסִיד: 'pious'; Bartenura: one who acts beyond the line of the law."
+    },
+    {
+     "id": "2:8.74",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.75",
+     "gloss": "Shimon",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.76",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.77",
+     "gloss": "Netanel",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.78",
+     "gloss": "fearing",
+     "sense": "1",
+     "note": "יְרֵא: construct of the adjective 'fearing'."
+    },
+    {
+     "id": "2:8.79",
+     "gloss": "sin",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.80",
+     "gloss": "and Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.81",
+     "gloss": "Elazar",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.82",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.83",
+     "gloss": "Arach"
+    },
+    {
+     "id": "2:8.84",
+     "gloss": "spring",
+     "sense": "1",
+     "note": "מַעְיָן: 'spring, fountain'."
+    },
+    {
+     "id": "2:8.85",
+     "gloss": "that gathers strength",
+     "sense": "1.4.1",
+     "note": "הַמִּתְגַּבֵּר: hitpael participle of גבר with the article, 'the one who grows strong'."
+    },
+    {
+     "id": "2:8.86",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.87",
+     "gloss": "used to be",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.88",
+     "gloss": "saying",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.89",
+     "gloss": "if",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:8.90",
+     "gloss": "were",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.91",
+     "gloss": "all",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.92",
+     "gloss": "sages of",
+     "sense": "1.4"
+    },
+    {
+     "id": "2:8.93",
+     "gloss": "Israel",
+     "sense": "3"
+    },
+    {
+     "id": "2:8.94",
+     "gloss": "in the pan of",
+     "sense": "1.4.2"
+    },
+    {
+     "id": "2:8.95",
+     "gloss": "a scale",
+     "sense": "2",
+     "note": "מֹאזְנַיִם: dual, 'a pair of scales'."
+    },
+    {
+     "id": "2:8.96",
+     "gloss": "and Eliezer",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.97",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.98",
+     "gloss": "Hyrcanus",
+     "sense": "3"
+    },
+    {
+     "id": "2:8.99",
+     "gloss": "in the pan",
+     "sense": "1.4.2"
+    },
+    {
+     "id": "2:8.100",
+     "gloss": "other (second)",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.101",
+     "gloss": "tips the scale against",
+     "sense": "1.2",
+     "note": "מַכְרִיעַ: hifil participle of כרע, 'makes the scale tip', that is 'outweighs'."
+    },
+    {
+     "id": "2:8.102",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:8.103",
+     "gloss": "all of them",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.104",
+     "gloss": "Abba"
+    },
+    {
+     "id": "2:8.105",
+     "gloss": "Shaul",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.106",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.107",
+     "gloss": "in his name",
+     "note": "מִשְּׁמוֹ: 'in his name', that is, in Rabban Yohanan's name (Bartenura)."
+    },
+    {
+     "id": "2:8.108",
+     "gloss": "if",
+     "sense": "1.1.1"
+    },
+    {
+     "id": "2:8.109",
+     "gloss": "were",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.110",
+     "gloss": "all",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.111",
+     "gloss": "sages of",
+     "sense": "1.4"
+    },
+    {
+     "id": "2:8.112",
+     "gloss": "Israel",
+     "sense": "3"
+    },
+    {
+     "id": "2:8.113",
+     "gloss": "in the pan of",
+     "sense": "1.4.2"
+    },
+    {
+     "id": "2:8.114",
+     "gloss": "a scale",
+     "sense": "2"
+    },
+    {
+     "id": "2:8.115",
+     "gloss": "and Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.116",
+     "gloss": "Eliezer",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.117",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.118",
+     "gloss": "Hyrcanus",
+     "sense": "3"
+    },
+    {
+     "id": "2:8.119",
+     "gloss": "also",
+     "note": "אַף: 'also' here; the pack's BDB entry lists 'nostril, anger', so no sense is given."
+    },
+    {
+     "id": "2:8.120",
+     "gloss": "with them",
+     "sense": "1.1",
+     "note": "עִמָּהֶם: 'with them'; the preposition עִם with its plural suffix."
+    },
+    {
+     "id": "2:8.121",
+     "gloss": "and Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.122",
+     "gloss": "Elazar",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.123",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:8.124",
+     "gloss": "Arach"
+    },
+    {
+     "id": "2:8.125",
+     "gloss": "in the pan",
+     "sense": "1.4.2"
+    },
+    {
+     "id": "2:8.126",
+     "gloss": "other (second)",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:8.127",
+     "gloss": "tips the scale against",
+     "sense": "1.2"
+    },
+    {
+     "id": "2:8.128",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:8.129",
+     "gloss": "all of them",
+     "sense": "1.1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:8.1",
+      "2:8.2",
+      "2:8.3",
+      "2:8.4",
+      "2:8.5",
+      "2:8.6",
+      "2:8.7"
+     ],
+     "english": "Rabban Yohanan son of Zakkai received from Hillel and from Shammai",
+     "literal": "'received from Hillel and from Shammai'; the object, the Torah or the tradition, is not stated"
+    },
+    {
+     "tokens": [
+      "2:8.8",
+      "2:8.9",
+      "2:8.10"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'; decisions.md"
+    },
+    {
+     "tokens": [
+      "2:8.11",
+      "2:8.12",
+      "2:8.13",
+      "2:8.14"
+     ],
+     "english": "If you have learned much Torah",
+     "literal": "'if you learned Torah much'; הַרְבֵּה is the hifil infinitive absolute used adverbially"
+    },
+    {
+     "tokens": [
+      "2:8.15",
+      "2:8.16",
+      "2:8.17",
+      "2:8.18"
+     ],
+     "english": "do not claim credit for yourself",
+     "literal": "'do not hold goodness for yourself'; אַל תַּחֲזִיק טוֹבָה is an idiom: to take credit, think oneself meritorious"
+    },
+    {
+     "tokens": [
+      "2:8.19",
+      "2:8.20",
+      "2:8.21"
+     ],
+     "english": "for to this end you were created",
+     "literal": "'for for-this you were formed'; לְכָךְ 'for this purpose'; נוֹצָרְתָּ nifal of יצר"
+    },
+    {
+     "tokens": [
+      "2:8.22",
+      "2:8.23",
+      "2:8.24",
+      "2:8.25",
+      "2:8.26",
+      "2:8.27",
+      "2:8.28",
+      "2:8.29"
+     ],
+     "english": "Rabban Yohanan son of Zakkai had five disciples",
+     "literal": "'five disciples were to him, to Rabban Yohanan son of Zakkai'; the dative of possession"
+    },
+    {
+     "tokens": [
+      "2:8.30",
+      "2:8.31"
+     ],
+     "english": "and these are they",
+     "literal": "'and these they'"
+    },
+    {
+     "tokens": [
+      "2:8.32",
+      "2:8.33",
+      "2:8.34",
+      "2:8.35"
+     ],
+     "english": "Rabbi Eliezer son of Hyrcanus",
+     "literal": "'Rabbi Eliezer son of Hyrcanus', first of the five"
+    },
+    {
+     "tokens": [
+      "2:8.36",
+      "2:8.37",
+      "2:8.38",
+      "2:8.39"
+     ],
+     "english": "Rabbi Yehoshua son of Hananiah",
+     "literal": "'and Rabbi Yehoshua son of Hananiah'"
+    },
+    {
+     "tokens": [
+      "2:8.40",
+      "2:8.41",
+      "2:8.42"
+     ],
+     "english": "Rabbi Yose the Priest",
+     "literal": "'and Rabbi Yose the priest'"
+    },
+    {
+     "tokens": [
+      "2:8.43",
+      "2:8.44",
+      "2:8.45",
+      "2:8.46"
+     ],
+     "english": "Rabbi Shimon son of Netanel",
+     "literal": "'and Rabbi Shimon son of Netanel'"
+    },
+    {
+     "tokens": [
+      "2:8.47",
+      "2:8.48",
+      "2:8.49",
+      "2:8.50"
+     ],
+     "english": "and Rabbi Elazar son of Arach",
+     "literal": "'and Rabbi Elazar son of Arach'"
+    },
+    {
+     "tokens": [
+      "2:8.51",
+      "2:8.52",
+      "2:8.53",
+      "2:8.54"
+     ],
+     "english": "He used to enumerate their praises",
+     "literal": "'he was counting their praise'; the participle מוֹנֶה, 'counting'"
+    },
+    {
+     "tokens": [
+      "2:8.55",
+      "2:8.56",
+      "2:8.57",
+      "2:8.58"
+     ],
+     "english": "Rabbi Eliezer son of Hyrcanus",
+     "literal": "'Rabbi Eliezer son of Hyrcanus'"
+    },
+    {
+     "tokens": [
+      "2:8.59",
+      "2:8.60",
+      "2:8.61",
+      "2:8.62",
+      "2:8.63"
+     ],
+     "english": "a plastered cistern that does not lose a drop",
+     "literal": "'cistern of plaster/counsel that does not lose a drop'; see note on the reading סוד / סיד"
+    },
+    {
+     "tokens": [
+      "2:8.64",
+      "2:8.65",
+      "2:8.66",
+      "2:8.67"
+     ],
+     "english": "Rabbi Yehoshua son of Hananiah",
+     "literal": "'Rabbi Yehoshua son of Hananiah'"
+    },
+    {
+     "tokens": [
+      "2:8.68",
+      "2:8.69"
+     ],
+     "english": "happy is she who bore him",
+     "literal": "'happy (is) she who bore him'; יוֹלַדְתּוֹ, the feminine participle with suffix"
+    },
+    {
+     "tokens": [
+      "2:8.70",
+      "2:8.71",
+      "2:8.72"
+     ],
+     "english": "Rabbi Yose the Priest",
+     "literal": "'Rabbi Yose the priest'"
+    },
+    {
+     "tokens": [
+      "2:8.73"
+     ],
+     "english": "a pious man",
+     "literal": "'pious'; the adjective used as a noun"
+    },
+    {
+     "tokens": [
+      "2:8.74",
+      "2:8.75",
+      "2:8.76",
+      "2:8.77"
+     ],
+     "english": "Rabbi Shimon son of Netanel",
+     "literal": "'Rabbi Shimon son of Netanel'"
+    },
+    {
+     "tokens": [
+      "2:8.78",
+      "2:8.79"
+     ],
+     "english": "a fearer of sin",
+     "literal": "'fearing of sin'; יְרֵא is the construct of the adjective"
+    },
+    {
+     "tokens": [
+      "2:8.80",
+      "2:8.81",
+      "2:8.82",
+      "2:8.83"
+     ],
+     "english": "and Rabbi Elazar son of Arach",
+     "literal": "'and Rabbi Elazar son of Arach'"
+    },
+    {
+     "tokens": [
+      "2:8.84",
+      "2:8.85"
+     ],
+     "english": "a spring gathering strength",
+     "literal": "'spring the-strengthening-itself'; hitpael participle of גבר with the article"
+    },
+    {
+     "tokens": [
+      "2:8.86",
+      "2:8.87",
+      "2:8.88"
+     ],
+     "english": "He used to say",
+     "literal": "'he was saying'; decisions.md"
+    },
+    {
+     "tokens": [
+      "2:8.89",
+      "2:8.90",
+      "2:8.91",
+      "2:8.92",
+      "2:8.93",
+      "2:8.94",
+      "2:8.95"
+     ],
+     "english": "If all the sages of Israel were in one pan of a scale",
+     "literal": "'if they-be all sages-of Israel in the-pan-of scales'; מֹאזְנַיִם is a dual: 'scales'"
+    },
+    {
+     "tokens": [
+      "2:8.96",
+      "2:8.97",
+      "2:8.98",
+      "2:8.99",
+      "2:8.100"
+     ],
+     "english": "and Eliezer son of Hyrcanus in the other pan",
+     "literal": "'and Eliezer son of Hyrcanus in the second pan'"
+    },
+    {
+     "tokens": [
+      "2:8.101",
+      "2:8.102",
+      "2:8.103"
+     ],
+     "english": "he would outweigh them all",
+     "literal": "'tipping the scale: ACC all-of-them'; the hifil participle of כרע, 'to make bend', used of the pan that sinks"
+    },
+    {
+     "tokens": [
+      "2:8.104",
+      "2:8.105",
+      "2:8.106",
+      "2:8.107"
+     ],
+     "english": "Abba Shaul says in his name",
+     "literal": "'Abba Shaul saying in his name'; the name is Rabban Yohanan's (Bartenura)"
+    },
+    {
+     "tokens": [
+      "2:8.108",
+      "2:8.109",
+      "2:8.110",
+      "2:8.111",
+      "2:8.112",
+      "2:8.113",
+      "2:8.114"
+     ],
+     "english": "If all the sages of Israel were in one pan of a scale",
+     "literal": "'if they-be all sages-of Israel in-pan-of scales'"
+    },
+    {
+     "tokens": [
+      "2:8.115",
+      "2:8.116",
+      "2:8.117",
+      "2:8.118",
+      "2:8.119",
+      "2:8.120"
+     ],
+     "english": "and Rabbi Eliezer son of Hyrcanus also with them",
+     "literal": "'and Rabbi Eliezer son of Hyrcanus also with-them'"
+    },
+    {
+     "tokens": [
+      "2:8.121",
+      "2:8.122",
+      "2:8.123",
+      "2:8.124",
+      "2:8.125",
+      "2:8.126"
+     ],
+     "english": "and Rabbi Elazar son of Arach in the other pan",
+     "literal": "'and Rabbi Elazar son of Arach in the second pan'"
+    },
+    {
+     "tokens": [
+      "2:8.127",
+      "2:8.128",
+      "2:8.129"
+     ],
+     "english": "he would outweigh them all",
+     "literal": "'tipping ACC all-of-them'"
+    }
+   ],
+   "grammar": [
+    "קִבֵּל (piel of קבל) is the technical verb of transmission: 'received (the tradition)'. It has no stated object in the mishnah.",
+    "אִם לָמַדְתָּ תּוֹרָה הַרְבֵּה: a conditional with the perfect (אִם plus qatal), and הַרְבֵּה, the hifil infinitive absolute of רבה, used as an adverb after the object; אַל תַּחֲזִיק is a negative command with hifil yiqtol of חזק.",
+    "חֲמִשָּׁה תַלְמִידִים הָיוּ לוֹ: possession is expressed by הָיָה plus ל ('five disciples were to him'); the following לְרַבָּן יוֹחָנָן בֶּן זַכַּאי repeats the owner by name.",
+    "הוּא הָיָה מוֹנֶה שִׁבְחָן and הוּא הָיָה אוֹמֵר: הָיָה with a participle is the habitual past ('used to enumerate', 'used to say'); the suffix -ן in שִׁבְחָן is the feminine plural of Mishnaic Hebrew, 'their praises'.",
+    "Each praise is a nominal clause without a verb: name, then predicate (בּוֹר סוּד ..., אַשְׁרֵי יוֹלַדְתּוֹ, חָסִיד, יְרֵא חֵטְא, מַעְיָן הַמִּתְגַּבֵּר); יְרֵא חֵטְא is a construct chain of adjective and noun.",
+    "מַכְרִיעַ אֶת כֻּלָּם: hifil participle of כרע, 'tilts the scale against them all'; the weighing is expressed by a conditional with the plural יִהְיוּ and the dual מֹאזְנַיִם, 'a pair of scales'."
+   ],
+   "note": "קִבֵּל מֵהִלֵּל וּמִשַּׁמָּאי: the English leaves the object unsaid, as in the Hebrew; the sense is 'received the tradition'. אַל תַּחֲזִיק טוֹבָה לְעַצְמְךָ: 'do not claim credit for yourself' (Bartenura: do not say 'I have learned much Torah'; he left no Scripture, Mishnah, halakhah or aggadah unlearned). The literal 'do not hold goodness for yourself' is kept in the literal line. בּוֹר סוּד: the base text has סוּד 'counsel, secret circle' (BDB 'council'); the Vilna text has סיד 'plaster', and Bartenura (who says 'we read ... plastered') explains 'like a cistern coated with plaster', while Rambam writes 'like a lined cistern that does not lose its water'. Both normative commentators agree on the image, so the English follows it: 'a plastered cistern'; the other reading of סוד is in the apparatus. חָסִיד: 'a pious man'; Bartenura: one who acts beyond the line of the law. יְרֵא חֵטְא: 'a fearer of sin'; Bartenura: one who is strict with himself and forbids himself permitted things for fear of sin. מַעְיָן הַמִּתְגַּבֵּר: 'a spring gathering strength': Bartenura says his heart is wide and he adds arguments and reasons from his own mind. אַבָּא שָׁאוּל אוֹמֵר מִשְּׁמוֹ: Bartenura reads 'in his name' as in the name of Rabban Yohanan; and he writes that Abba Shaul does not dispute the first teacher, but both sayings are the Rabban's, and both are true, since for knowledge and memory Rabbi Eliezer outweighs all and for sharpness and argument Rabbi Elazar son of Arach does.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:8:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'do not claim credit' means do not say 'I have learned much Torah'. Rabban Yohanan said this because he left no Scripture, Mishnah, halakhah or aggadah that he had not learned (Sukkah 28a, Bava Batra 134a)."
+    },
+    {
+     "anchor": "bartenura:2:8:2",
+     "relation": "follows",
+     "summary": "Bartenura says that the word is read as 'plaster' (the negative in the printed comment is unclear), that is, like a cistern coated with plaster; the English follows this reading."
+    },
+    {
+     "anchor": "bartenura:2:8:3",
+     "relation": "follows",
+     "summary": "Bartenura: 'does not lose a drop' means that he does not forget a single thing from his learning."
+    },
+    {
+     "anchor": "bartenura:2:8:4",
+     "relation": "follows",
+     "summary": "Bartenura: 'happy is she who bore him': he is blessed with good traits so that everyone says 'happy is the woman who bore him'. Another explanation: his mother caused him to be wise, going round all the study-houses of her city and asking them to pray that the child in her womb should be wise, and from the day he was born she did not take his cradle out of the study-house, so that only words of Torah should enter his ears."
+    },
+    {
+     "anchor": "bartenura:2:8:5",
+     "relation": "follows",
+     "summary": "Bartenura: חָסִיד is one who acts beyond the line of the law."
+    },
+    {
+     "anchor": "bartenura:2:8:6",
+     "relation": "follows",
+     "summary": "Bartenura: a fearer of sin is one who is strict with himself and forbids himself things that are permitted, out of fear that he might come to sin; otherwise what is the distinction, for even an unlearned person can be a fearer of sin?"
+    },
+    {
+     "anchor": "bartenura:2:8:7",
+     "relation": "follows",
+     "summary": "Bartenura: 'a spring gathering strength': his heart is broad and he adds argument and reasoning from his own mind."
+    },
+    {
+     "anchor": "bartenura:2:8:8",
+     "relation": "follows",
+     "summary": "Bartenura: 'in his name' means in the name of Rabban Yohanan son of Zakkai."
+    },
+    {
+     "anchor": "bartenura:2:8:9",
+     "relation": "follows",
+     "summary": "Bartenura: he has found it written that Abba Shaul does not disagree with the first teacher, that both statements were said by Rabban Yohanan, and both are true: for breadth of knowledge and memory, Rabbi Eliezer tips the scale; for keenness and argument, Rabbi Elazar son of Arach does."
+    },
+    {
+     "anchor": "rambam:2:8:1",
+     "relation": "follows",
+     "summary": "Rambam: Rabbi Eliezer was praised for memory, as like a lined cistern that does not lose its water; Rabbi Yehoshua for the excellence of his character traits, by which a man is happy, honored and loved by most of the world, hence 'happy is she who bore him'; Rabbi Yose for his good character and his intellectual virtues; Rabbi Shimon for fear of sin, which is diligence and effort in the affairs of the good and guarding oneself from evil; Rabbi Elazar son of Arach for good understanding, every deep matter being light for him and his insight adding to the matter."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:8:5",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: 'happy' said without more means that he was blessed in all the blessed traits, great in wisdom and in order in his traits and in all his affairs."
+    }
+   ],
+   "apparatus": [
+    "2:8.25 word: Vilna omits לוֹ; base לוֹ.",
+    "2:8.60 spelling: Vilna reads סיד ('plaster'); base סוּד ('counsel, circle'). Bartenura and Rambam both explain the image as a cistern lined or coated so that it loses no water.",
+    "2:8.66 2:8.67 word: Vilna omits בֶּן חֲנַנְיָה after the name in the second list; base has it.",
+    "2:8.72 word: Vilna omits הַכֹּהֵן in the second list; base has it.",
+    "2:8.103 spelling: Vilna reads כולם; base כֻּלָּם.",
+    "2:8.123 2:8.124 word: Vilna omits בֶּן עֲרָךְ in the last clause; base has it.",
+    "2:8.129 spelling: Vilna reads כולם; base כֻּלָּם.",
+    "Bartenura reports (2:8:9) that Abba Shaul and the first teacher are not in dispute; the English reads the two weighings as complementary."
+   ]
+  },
+  {
+   "ref": "2:9",
+   "english": "He said to them: Go out and see which is the right way that a person should cling to. Rabbi Eliezer says: A good eye. Rabbi Yehoshua says: A good companion. Rabbi Yose says: A good neighbor. Rabbi Shimon says: One who sees what is to come. Rabbi Elazar says: A good heart. He said to them: I prefer the words of Elazar son of Arach to your words, for your words are included in his words. He said to them: Go out and see which is the evil way that a person should keep far from. Rabbi Eliezer says: An evil eye. Rabbi Yehoshua says: An evil companion. Rabbi Yose says: An evil neighbor. Rabbi Shimon says: One who borrows and does not repay. It is the same whether one borrows from a person or borrows from the Omnipresent, blessed be He, as it is said (Psalms 37): The wicked one borrows and does not repay, but the righteous one is gracious and gives. Rabbi Elazar says: An evil heart. He said to them: I prefer the words of Elazar son of Arach to your words, for your words are included in his words.",
+   "literal": "he-said to-them: go-out and-see which-is way straight that-will-cling in-it the-person. Rabbi Eliezer saying: eye good. Rabbi Yehoshua saying: companion good. Rabbi Yose saying: neighbor good. Rabbi Shimon saying: the-one-seeing ACC the-born. Rabbi Elazar saying: heart good. he-said to-them: seeing I ACC words-of Elazar son-of Arach from-your-words, that-in-generality-of his-words your-words. he-said to-them: go-out and-see which-is way evil that-will-keep-far from-it the-person. Rabbi Eliezer saying: eye evil. Rabbi Yehoshua saying: companion evil. Rabbi Yose saying: neighbor evil. Rabbi Shimon saying: the-borrowing and-not-he paying. one the-borrowing from the-person like-borrowing from the-Place blessed-be He, as-it-is-said (Psalms 37): borrows wicked and-not he-will-pay, and-righteous gracious and-giving. Rabbi Elazar saying: heart evil. he-said to-them: seeing I ACC words-of Elazar son-of Arach from-your-words, that-in-generality-of his-words your-words",
+   "tokens": [
+    {
+     "id": "2:9.1",
+     "gloss": "he said",
+     "sense": "1.1",
+     "note": "אָמַר: qal perfect 3rd masculine singular; the speaker is Rabban Yohanan son of Zakkai."
+    },
+    {
+     "id": "2:9.2",
+     "gloss": "to them"
+    },
+    {
+     "id": "2:9.3",
+     "gloss": "go out",
+     "sense": "1",
+     "note": "צְאוּ: qal imperative plural of יצא, 'go out'."
+    },
+    {
+     "id": "2:9.4",
+     "gloss": "and see",
+     "note": "וּרְאוּ: qal imperative plural of ראה, 'and see'; the pack's BDB entry is 'bird of prey', so no sense is given."
+    },
+    {
+     "id": "2:9.5",
+     "gloss": "which (is)",
+     "sense": "1",
+     "note": "אֵיזוֹהִי: 'which is' (the feminine of אֵיזֶה 'which'), the Mishnaic interrogative."
+    },
+    {
+     "id": "2:9.6",
+     "gloss": "way",
+     "sense": "1.5"
+    },
+    {
+     "id": "2:9.7",
+     "gloss": "right (straight)",
+     "sense": "1.2"
+    },
+    {
+     "id": "2:9.8",
+     "gloss": "that will cling",
+     "sense": "1.1.1",
+     "note": "שֶׁיִּדְבַּק: relative שֶׁ with the qal imperfect of דבק, 'that will cling'."
+    },
+    {
+     "id": "2:9.9",
+     "gloss": "to it"
+    },
+    {
+     "id": "2:9.10",
+     "gloss": "the person"
+    },
+    {
+     "id": "2:9.11",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.12",
+     "gloss": "Eliezer",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.13",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.14",
+     "gloss": "eye",
+     "note": "עַיִן: 'eye'; the pack's BDB entry is the place name 'Ain', so no sense is given. A 'good eye' is contentment with what one has."
+    },
+    {
+     "id": "2:9.15",
+     "gloss": "good"
+    },
+    {
+     "id": "2:9.16",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.17",
+     "gloss": "Yehoshua"
+    },
+    {
+     "id": "2:9.18",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.19",
+     "gloss": "companion",
+     "sense": "5",
+     "note": "חָבֵר: 'companion, associate'."
+    },
+    {
+     "id": "2:9.20",
+     "gloss": "good"
+    },
+    {
+     "id": "2:9.21",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.22",
+     "gloss": "Yose",
+     "sense": "2"
+    },
+    {
+     "id": "2:9.23",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.24",
+     "gloss": "neighbor",
+     "sense": "1.1.2",
+     "note": "שָׁכֵן: 'neighbor'; a noun from שׁכן."
+    },
+    {
+     "id": "2:9.25",
+     "gloss": "good"
+    },
+    {
+     "id": "2:9.26",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.27",
+     "gloss": "Shimon",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.28",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.29",
+     "gloss": "the one who sees",
+     "note": "הָרוֹאֶה: qal participle with the article, 'the one who sees'."
+    },
+    {
+     "id": "2:9.30",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:9.31",
+     "gloss": "what is to be born",
+     "sense": "1.2",
+     "note": "הַנּוֹלָד: nifal participle of ילד with the article, 'that which is born, will be born'."
+    },
+    {
+     "id": "2:9.32",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.33",
+     "gloss": "Elazar",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.34",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.35",
+     "gloss": "heart",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.36",
+     "gloss": "good"
+    },
+    {
+     "id": "2:9.37",
+     "gloss": "he said",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.38",
+     "gloss": "to them"
+    },
+    {
+     "id": "2:9.39",
+     "gloss": "seeing (I prefer)",
+     "note": "רוֹאֶה: qal participle; with אֲנִי, 'I see' is 'I prefer'."
+    },
+    {
+     "id": "2:9.40",
+     "gloss": "I",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.41",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:9.42",
+     "gloss": "words of",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:9.43",
+     "gloss": "Elazar",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.44",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.45",
+     "gloss": "Arach"
+    },
+    {
+     "id": "2:9.46",
+     "gloss": "than your words",
+     "sense": "1.3",
+     "note": "מִדִּבְרֵיכֶם: מִן with דְּבָרִים and the 2nd masculine plural suffix: 'than your words'."
+    },
+    {
+     "id": "2:9.47",
+     "gloss": "for in the generality of",
+     "sense": "4",
+     "note": "שֶׁבִּכְלָל: שֶׁ + בְּ + כְּלָל, 'that in the generality of'; the pack's lemma is Jastrow כְּלָל."
+    },
+    {
+     "id": "2:9.48",
+     "gloss": "his words",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:9.49",
+     "gloss": "your words",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:9.50",
+     "gloss": "he said",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.51",
+     "gloss": "to them"
+    },
+    {
+     "id": "2:9.52",
+     "gloss": "go out",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.53",
+     "gloss": "and see"
+    },
+    {
+     "id": "2:9.54",
+     "gloss": "which (is)",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.55",
+     "gloss": "way",
+     "sense": "1.5"
+    },
+    {
+     "id": "2:9.56",
+     "gloss": "evil",
+     "sense": "2"
+    },
+    {
+     "id": "2:9.57",
+     "gloss": "that will keep far",
+     "sense": "2.1",
+     "note": "שֶׁיִּתְרַחֵק: relative שֶׁ with the hitpael imperfect of רחק, 'that will keep far'."
+    },
+    {
+     "id": "2:9.58",
+     "gloss": "from it",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.59",
+     "gloss": "the person"
+    },
+    {
+     "id": "2:9.60",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.61",
+     "gloss": "Eliezer",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.62",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.63",
+     "gloss": "eye"
+    },
+    {
+     "id": "2:9.64",
+     "gloss": "evil",
+     "sense": "2"
+    },
+    {
+     "id": "2:9.65",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.66",
+     "gloss": "Yehoshua"
+    },
+    {
+     "id": "2:9.67",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.68",
+     "gloss": "companion",
+     "sense": "5"
+    },
+    {
+     "id": "2:9.69",
+     "gloss": "evil",
+     "sense": "2"
+    },
+    {
+     "id": "2:9.70",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.71",
+     "gloss": "Yose",
+     "sense": "2"
+    },
+    {
+     "id": "2:9.72",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.73",
+     "gloss": "neighbor",
+     "sense": "1.1.2"
+    },
+    {
+     "id": "2:9.74",
+     "gloss": "evil",
+     "sense": "2"
+    },
+    {
+     "id": "2:9.75",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.76",
+     "gloss": "Shimon",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.77",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.78",
+     "gloss": "the one who borrows",
+     "note": "הַלֹּוֶה: qal participle of לוה with the article, 'the borrower'; the pack's Jastrow entry is only a cross-reference, so no sense is given."
+    },
+    {
+     "id": "2:9.79",
+     "gloss": "and does not",
+     "note": "וְאֵינוֹ: 'and he is not' (אֵין with a 3rd masculine suffix); negates the participle that follows."
+    },
+    {
+     "id": "2:9.80",
+     "gloss": "repay",
+     "sense": "4.2",
+     "note": "מְשַׁלֵּם: piel participle of שלם, 'pays, repays'."
+    },
+    {
+     "id": "2:9.81",
+     "gloss": "one (the same)",
+     "sense": "1",
+     "note": "אֶחָד: 'one'; here 'it is all one, the same'."
+    },
+    {
+     "id": "2:9.82",
+     "gloss": "the one who borrows"
+    },
+    {
+     "id": "2:9.83",
+     "gloss": "from",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.84",
+     "gloss": "the person"
+    },
+    {
+     "id": "2:9.85",
+     "gloss": "as one who borrows"
+    },
+    {
+     "id": "2:9.86",
+     "gloss": "from",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.87",
+     "gloss": "the Omnipresent",
+     "sense": "1",
+     "note": "הַמָּקוֹם: 'the Place', a name of God: 'the Omnipresent' (decisions.md)."
+    },
+    {
+     "id": "2:9.88",
+     "gloss": "blessed",
+     "sense": "1.4",
+     "note": "בָּרוּךְ: pual participle of ברך, 'blessed'; the formula הַמָּקוֹם בָּרוּךְ הוּא."
+    },
+    {
+     "id": "2:9.89",
+     "gloss": "He",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.90",
+     "gloss": "as it is said",
+     "sense": "1.1",
+     "note": "שֶׁנֶּאֱמַר: 'that it was said', the formula that introduces a verse."
+    },
+    {
+     "id": "2:9.91",
+     "gloss": "Psalms",
+     "note": "תהלים: 'Psalms', the name of the book."
+    },
+    {
+     "id": "2:9.92",
+     "gloss": "thirty-seven",
+     "note": "לז: the number 37 (the chapter)."
+    },
+    {
+     "id": "2:9.93",
+     "gloss": "borrows",
+     "note": "לֹוֶה: qal participle of לוה, 'borrows'."
+    },
+    {
+     "id": "2:9.94",
+     "gloss": "wicked one",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:9.95",
+     "gloss": "and not",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.96",
+     "gloss": "he will repay",
+     "sense": "4.2",
+     "note": "יְשַׁלֵּם: piel imperfect of שלם, 'will pay'."
+    },
+    {
+     "id": "2:9.97",
+     "gloss": "and the righteous one",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:9.98",
+     "gloss": "is gracious",
+     "sense": "1.1",
+     "note": "חוֹנֵן: qal participle of חנן, 'is gracious'."
+    },
+    {
+     "id": "2:9.99",
+     "gloss": "and gives",
+     "sense": "1.1.1",
+     "note": "וְנוֹתֵן: qal participle of נתן, 'and gives'."
+    },
+    {
+     "id": "2:9.100",
+     "gloss": "Rabbi",
+     "sense": "1",
+     "note": "רַבִּי: 'Rabbi', the title."
+    },
+    {
+     "id": "2:9.101",
+     "gloss": "Elazar",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.102",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.103",
+     "gloss": "heart",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.104",
+     "gloss": "evil",
+     "sense": "2"
+    },
+    {
+     "id": "2:9.105",
+     "gloss": "he said",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:9.106",
+     "gloss": "to them"
+    },
+    {
+     "id": "2:9.107",
+     "gloss": "seeing (I prefer)"
+    },
+    {
+     "id": "2:9.108",
+     "gloss": "I",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.109",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:9.110",
+     "gloss": "words of",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:9.111",
+     "gloss": "Elazar",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.112",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "2:9.113",
+     "gloss": "Arach"
+    },
+    {
+     "id": "2:9.114",
+     "gloss": "than your words",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:9.115",
+     "gloss": "for in the generality of",
+     "sense": "4"
+    },
+    {
+     "id": "2:9.116",
+     "gloss": "his words",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:9.117",
+     "gloss": "your words",
+     "sense": "1.3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:9.1",
+      "2:9.2"
+     ],
+     "english": "He said to them",
+     "literal": "'he said to them'; the speaker is Rabban Yohanan son of Zakkai (Rabbeinu Yonah on 2:9:1)"
+    },
+    {
+     "tokens": [
+      "2:9.3",
+      "2:9.4"
+     ],
+     "english": "Go out and see",
+     "literal": "'go out and see'; two imperatives"
+    },
+    {
+     "tokens": [
+      "2:9.5",
+      "2:9.6",
+      "2:9.7",
+      "2:9.8",
+      "2:9.9",
+      "2:9.10"
+     ],
+     "english": "which is the right way that a person should cling to",
+     "literal": "'which is the way straight that will cling in-it the person'; the relative שֶׁ with the imperfect of דבק"
+    },
+    {
+     "tokens": [
+      "2:9.11",
+      "2:9.12",
+      "2:9.13"
+     ],
+     "english": "Rabbi Eliezer says",
+     "literal": "'Rabbi Eliezer saying'"
+    },
+    {
+     "tokens": [
+      "2:9.14",
+      "2:9.15"
+     ],
+     "english": "A good eye",
+     "literal": "'eye good'; idiom for contentment with what one has (Bartenura, Rambam)"
+    },
+    {
+     "tokens": [
+      "2:9.16",
+      "2:9.17",
+      "2:9.18"
+     ],
+     "english": "Rabbi Yehoshua says",
+     "literal": "'Rabbi Yehoshua saying'"
+    },
+    {
+     "tokens": [
+      "2:9.19",
+      "2:9.20"
+     ],
+     "english": "A good companion",
+     "literal": "'companion good'; Bartenura: one who rebukes him"
+    },
+    {
+     "tokens": [
+      "2:9.21",
+      "2:9.22",
+      "2:9.23"
+     ],
+     "english": "Rabbi Yose says",
+     "literal": "'Rabbi Yose saying'"
+    },
+    {
+     "tokens": [
+      "2:9.24",
+      "2:9.25"
+     ],
+     "english": "A good neighbor",
+     "literal": "'neighbor good'; Bartenura: one who is always near"
+    },
+    {
+     "tokens": [
+      "2:9.26",
+      "2:9.27",
+      "2:9.28"
+     ],
+     "english": "Rabbi Shimon says",
+     "literal": "'Rabbi Shimon saying'"
+    },
+    {
+     "tokens": [
+      "2:9.29",
+      "2:9.30",
+      "2:9.31"
+     ],
+     "english": "One who sees what is to come",
+     "literal": "'the-one-seeing ACC the-born'; הַנּוֹלָד is the nifal participle of ילד, 'that which is (to be) born', so what will come to be (Bartenura)"
+    },
+    {
+     "tokens": [
+      "2:9.32",
+      "2:9.33",
+      "2:9.34"
+     ],
+     "english": "Rabbi Elazar says",
+     "literal": "'Rabbi Elazar saying'"
+    },
+    {
+     "tokens": [
+      "2:9.35",
+      "2:9.36"
+     ],
+     "english": "A good heart",
+     "literal": "'heart good'; the heart as source of action (Bartenura, Rambam)"
+    },
+    {
+     "tokens": [
+      "2:9.37",
+      "2:9.38"
+     ],
+     "english": "He said to them",
+     "literal": "'he said to them'"
+    },
+    {
+     "tokens": [
+      "2:9.39",
+      "2:9.40",
+      "2:9.41",
+      "2:9.42",
+      "2:9.43",
+      "2:9.44",
+      "2:9.45"
+     ],
+     "english": "I prefer the words of Elazar son of Arach",
+     "literal": "'seeing I ACC the-words-of Elazar son of Arach'; רוֹאֶה אֲנִי, 'I see', is 'I choose, I prefer' (Rambam: 'chooses and discerns')"
+    },
+    {
+     "tokens": [
+      "2:9.46"
+     ],
+     "english": "to your words",
+     "literal": "'from-your-words'; comparative מִן: 'more than, in preference to'"
+    },
+    {
+     "tokens": [
+      "2:9.47",
+      "2:9.48",
+      "2:9.49"
+     ],
+     "english": "for your words are included in his words",
+     "literal": "'that in the generality of his words (are) your words'; כְּלָל 'sum, inclusion'"
+    },
+    {
+     "tokens": [
+      "2:9.50",
+      "2:9.51"
+     ],
+     "english": "He said to them",
+     "literal": "'he said to them'"
+    },
+    {
+     "tokens": [
+      "2:9.52",
+      "2:9.53"
+     ],
+     "english": "Go out and see",
+     "literal": "'go out and see'"
+    },
+    {
+     "tokens": [
+      "2:9.54",
+      "2:9.55",
+      "2:9.56",
+      "2:9.57",
+      "2:9.58",
+      "2:9.59"
+     ],
+     "english": "which is the evil way that a person should keep far from",
+     "literal": "'which-is way evil that-will-keep-far from-it the-person'; hitpael of רחק"
+    },
+    {
+     "tokens": [
+      "2:9.60",
+      "2:9.61",
+      "2:9.62"
+     ],
+     "english": "Rabbi Eliezer says",
+     "literal": "'Rabbi Eliezer saying'"
+    },
+    {
+     "tokens": [
+      "2:9.63",
+      "2:9.64"
+     ],
+     "english": "An evil eye",
+     "literal": "'eye evil'; stinginess and discontent (Rambam)"
+    },
+    {
+     "tokens": [
+      "2:9.65",
+      "2:9.66",
+      "2:9.67"
+     ],
+     "english": "Rabbi Yehoshua says",
+     "literal": "'Rabbi Yehoshua saying'"
+    },
+    {
+     "tokens": [
+      "2:9.68",
+      "2:9.69"
+     ],
+     "english": "An evil companion",
+     "literal": "'companion evil'"
+    },
+    {
+     "tokens": [
+      "2:9.70",
+      "2:9.71",
+      "2:9.72"
+     ],
+     "english": "Rabbi Yose says",
+     "literal": "'Rabbi Yose saying'"
+    },
+    {
+     "tokens": [
+      "2:9.73",
+      "2:9.74"
+     ],
+     "english": "An evil neighbor",
+     "literal": "'neighbor evil'"
+    },
+    {
+     "tokens": [
+      "2:9.75",
+      "2:9.76",
+      "2:9.77"
+     ],
+     "english": "Rabbi Shimon says",
+     "literal": "'Rabbi Shimon saying'"
+    },
+    {
+     "tokens": [
+      "2:9.78",
+      "2:9.79",
+      "2:9.80"
+     ],
+     "english": "One who borrows and does not repay",
+     "literal": "'the-borrowing and-not-he repaying'; piel participle of שלם 'to pay'"
+    },
+    {
+     "tokens": [
+      "2:9.81",
+      "2:9.82",
+      "2:9.83",
+      "2:9.84",
+      "2:9.85",
+      "2:9.86",
+      "2:9.87",
+      "2:9.88",
+      "2:9.89"
+     ],
+     "english": "It is the same whether one borrows from a person or borrows from the Omnipresent, blessed be He",
+     "literal": "'one: the-borrowing from the-person like-borrowing from the-Place blessed He'; אֶחָד 'one' as 'all one'; הַמָּקוֹם 'the Place' = the Omnipresent (decisions.md)"
+    },
+    {
+     "tokens": [
+      "2:9.90",
+      "2:9.91",
+      "2:9.92"
+     ],
+     "english": "as it is said (Psalms 37)",
+     "literal": "'that-it-was-said (Psalms 37)'; the verse is Psalm 37:21"
+    },
+    {
+     "tokens": [
+      "2:9.93",
+      "2:9.94",
+      "2:9.95",
+      "2:9.96"
+     ],
+     "english": "The wicked one borrows and does not repay",
+     "literal": "'borrows wicked and-not he-will-pay'; participle with the subject after it"
+    },
+    {
+     "tokens": [
+      "2:9.97",
+      "2:9.98",
+      "2:9.99"
+     ],
+     "english": "but the righteous one is gracious and gives",
+     "literal": "'and-righteous gracious and-giving'; Bartenura: the righteous one is God"
+    },
+    {
+     "tokens": [
+      "2:9.100",
+      "2:9.101",
+      "2:9.102"
+     ],
+     "english": "Rabbi Elazar says",
+     "literal": "'Rabbi Elazar saying'"
+    },
+    {
+     "tokens": [
+      "2:9.103",
+      "2:9.104"
+     ],
+     "english": "An evil heart",
+     "literal": "'heart evil'"
+    },
+    {
+     "tokens": [
+      "2:9.105",
+      "2:9.106"
+     ],
+     "english": "He said to them",
+     "literal": "'he said to them'"
+    },
+    {
+     "tokens": [
+      "2:9.107",
+      "2:9.108",
+      "2:9.109",
+      "2:9.110",
+      "2:9.111",
+      "2:9.112",
+      "2:9.113"
+     ],
+     "english": "I prefer the words of Elazar son of Arach",
+     "literal": "'seeing I ACC the-words-of Elazar son of Arach'"
+    },
+    {
+     "tokens": [
+      "2:9.114"
+     ],
+     "english": "to your words",
+     "literal": "'from-your-words'"
+    },
+    {
+     "tokens": [
+      "2:9.115",
+      "2:9.116",
+      "2:9.117"
+     ],
+     "english": "for your words are included in his words",
+     "literal": "'that in the generality of his words (are) your words'"
+    }
+   ],
+   "grammar": [
+    "The question is asked twice: אֵיזוֹהִי דֶרֶךְ יְשָׁרָה שֶׁיִּדְבַּק בָּהּ הָאָדָם and אֵיזוֹהִי דֶרֶךְ רָעָה שֶׁיִּתְרַחֵק מִמֶּנָּה הָאָדָם. אֵיזוֹהִי is 'which is' (the feminine of the Mishnaic interrogative, agreeing with דֶרֶךְ, which is feminine); שֶׁיִּדְבַּק and שֶׁיִּתְרַחֵק are relative clauses with the imperfect (qal of דבק, hitpael of רחק) of purpose or fitness.",
+    "The answers are nominal clauses in a fixed frame: name + אוֹמֵר + noun + adjective (עַיִן טוֹבָה, חָבֵר טוֹב, שָׁכֵן טוֹב, לֵב טוֹב), and the opposites with רָע/רָעָה. The adjective agrees with the noun in gender, so עַיִן, which is feminine, takes טוֹבָה and רָעָה.",
+    "הָרוֹאֶה אֶת הַנּוֹלָד: 'the one who sees the born' has a qal participle with the article and a nifal participle with the article (the object marker אֶת before it); the idiom means to see what will come to be. Its answer-partner is הַלֹּוֶה וְאֵינוֹ מְשַׁלֵּם, a participle plus a negative participial clause with אֵין and a suffix.",
+    "רוֹאֶה אֲנִי אֶת דִּבְרֵי אֶלְעָזָר ... מִדִּבְרֵיכֶם: the participle comes before the pronoun to give emphasis ('I, I see'); the comparative מִן means 'rather than'. שֶׁבִּכְלָל דְּבָרָיו דִּבְרֵיכֶם is a nominal clause with a fronted prepositional phrase.",
+    "Rabbi Shimon's second saying quotes Psalm 37:21 (לֹוֶה רָשָׁע וְלֹא יְשַׁלֵּם, וְצַדִּיק חוֹנֵן וְנוֹתֵן), introduced by שֶׁנֶּאֱמַר, 'as it is said'; the verse is in biblical Hebrew with participles (חוֹנֵן, 'gracious', and נוֹתֵן, 'giving')."
+   ],
+   "note": "עַיִן טוֹבָה / עַיִן רָעָה: a 'good eye' is contentment with what one has (Bartenura, Rambam); Rabbeinu Yonah, who is not normative, reads it as generosity. The English keeps the idiom and gives the sense here. הָרוֹאֶה אֶת הַנּוֹלָד: 'one who sees what is to come': Bartenura says he looks at what will be and weighs the loss of a commandment against its reward, and the gain of a transgression against its loss; Rambam says he reflects on the outcome of his affairs. The literal is 'one who sees that which is born'. רוֹאֶה אֲנִי: 'I prefer', literally 'I see'; Rambam says it means 'chooses and discerns'. אֶחָד הַלֹּוֶה: 'one' is read as 'it is the same' ('alike'). הַמָּקוֹם: 'the Omnipresent', literally 'the Place' (decisions.md). וְצַדִּיק חוֹנֵן וְנוֹתֵן: in Psalm 37:21 this is the righteous person who gives to others; Bartenura (and Rambam) read the 'righteous one' as God, who is gracious to the lender and gives him what the borrower did not repay, so that the borrower remains a debtor to the Omnipresent. The English keeps 'the righteous one'. Bartenura (2:9:6) explains why the evil way is asked about separately: the opposite of every good trait is not necessarily evil, so a second question was needed.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:9:1",
+     "relation": "follows",
+     "summary": "Bartenura: a good eye is one who is content with what he has, does not seek superfluous things, and is not envious when he sees that his fellows have more than he."
+    },
+    {
+     "anchor": "bartenura:2:9:2",
+     "relation": "follows",
+     "summary": "Bartenura: a good companion is one who rebukes him when he sees him doing something improper."
+    },
+    {
+     "anchor": "bartenura:2:9:3",
+     "relation": "follows",
+     "summary": "Bartenura: a good neighbor is to be found near him by day and by night, whereas a good companion is not near him at all times."
+    },
+    {
+     "anchor": "bartenura:2:9:4",
+     "relation": "follows",
+     "summary": "Bartenura: one who sees what is to be looks ahead at what will come, and so weighs the loss of a commandment against its reward and the reward of a transgression against its loss."
+    },
+    {
+     "anchor": "bartenura:2:9:5",
+     "relation": "follows",
+     "summary": "Bartenura: the heart moves all the other powers and is the source of all actions; although actions have their own organs, the power that rouses all movements is in the heart, so Rabbi Elazar said 'a good heart', and so Rabban Yohanan preferred his words."
+    },
+    {
+     "anchor": "bartenura:2:9:6",
+     "relation": "follows",
+     "summary": "Bartenura: the second question was needed because he did not understand from their first answers that the evil way is the opposite of the good way, since not everything good has an evil opposite: ḥasidut is good, but one who is not pious and stands on the law of the Torah is not evil; and the seeking of surplus might not be called evil as it harms no one."
+    },
+    {
+     "anchor": "bartenura:2:9:7",
+     "relation": "follows",
+     "summary": "Bartenura: the one who borrows and does not repay is the opposite of 'one who sees what is to be', for if he does not repay he will find no one to lend to him and will be left hungry. He did not simply say 'one who does not see what is to be', because one who does not foresee might still avoid mishap by saving himself when it comes."
+    },
+    {
+     "anchor": "bartenura:2:9:8",
+     "relation": "follows",
+     "summary": "Bartenura: 'the righteous one' is the Holy One, blessed be He, who is the righteous one of the world, gracious and giving to the lender what the borrower borrowed from him and did not repay, so that the borrower remains a debtor to the Omnipresent."
+    },
+    {
+     "anchor": "rambam:2:9:1",
+     "relation": "follows",
+     "summary": "Rambam: a good eye is contentment with what a person has, one of the virtues of character, and an evil eye is its opposite, the belittling of things and eagerness for more; 'sees what is to be' is the thought a man gives to the outcome of his affairs and livelihood; the borrower who does not repay is a counter-example, a mean trait; 'the righteous one is gracious and gives' is God, who repays the lender; 'I see his words' is 'I choose and discern'; and a good heart means good actions, the middle path of the virtues, and includes contentment, love of the good and the other virtues, while an evil heart includes all the vices."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:9:1",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: the speaker of 'he said to them' is Rabban Yohanan son of Zakkai to his disciples."
+    }
+   ],
+   "apparatus": [
+    "Psalm 37:21: לֹוֶה רָשָׁע וְלֹא יְשַׁלֵּם וְצַדִּיק חוֹנֵן וְנוֹתֵן.",
+    "2:9.46 word: Vilna omits מִדִּבְרֵיכֶם (first occurrence); base has it.",
+    "2:9.114 word: Vilna omits מִדִּבְרֵיכֶם (second occurrence); base has it.",
+    "A stray 'כא' in the Vilna witness (a verse or section marker) has no counterpart in the base text.",
+    "Rabbeinu Yonah (2:9:2, 2:9:5) understands 'good way' differently: not the whole of virtue but one trait, clung to in its fullness."
+   ]
+  },
+  {
+   "ref": "2:10",
+   "english": "They said three things. Rabbi Eliezer says: Let your fellow's honor be as dear to you as your own, and do not be quick to anger. And repent one day before your death. And warm yourself at the fire of the sages, and beware of their coals, lest you be burned; for their bite is the bite of a fox, their sting is the sting of a scorpion, their whisper is the whisper of a fiery serpent, and all their words are like coals of fire.",
+   "literal": "they said three things. Rabbi Eliezer says: let-be honor-of your-fellow dear on-you like-yours, and-not be easy to-anger. and-repent day one before your-death. and-be warming-yourself opposite their-fire of sages, and-be careful in-their-coals that-not you-be-burned, that their-bite bite-of fox, and-their-sting sting-of scorpion, and-their-whisper whisper-of saraph, and-all their-words like-coals-of fire",
+   "tokens": [
+    {
+     "id": "2:10.1",
+     "gloss": "they",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.2",
+     "gloss": "said",
+     "sense": "1.1",
+     "note": "אָמְרוּ: qal perfect 3rd plural."
+    },
+    {
+     "id": "2:10.3",
+     "gloss": "three",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.4",
+     "gloss": "things",
+     "sense": "1.4"
+    },
+    {
+     "id": "2:10.5",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.6",
+     "gloss": "Eliezer",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.7",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:10.8",
+     "gloss": "let be",
+     "sense": "1",
+     "note": "יְהִי: jussive of הָיָה, 'let ... be'."
+    },
+    {
+     "id": "2:10.9",
+     "gloss": "honor of",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:10.10",
+     "gloss": "your fellow",
+     "sense": "5"
+    },
+    {
+     "id": "2:10.11",
+     "gloss": "dear",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.12",
+     "gloss": "to you",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:10.13",
+     "gloss": "as your own",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.14",
+     "gloss": "and do not",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.15",
+     "gloss": "be",
+     "sense": "1",
+     "note": "תְּהִי: jussive of הָיָה; with אַל it forbids: 'do not be'."
+    },
+    {
+     "id": "2:10.16",
+     "gloss": "easy",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.17",
+     "gloss": "to anger",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.18",
+     "gloss": "and repent",
+     "note": "שׁוּב: qal imperative of שׁוב, 'turn back, repent'."
+    },
+    {
+     "id": "2:10.19",
+     "gloss": "day",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.20",
+     "gloss": "one",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.21",
+     "gloss": "before",
+     "sense": "1.6.1"
+    },
+    {
+     "id": "2:10.22",
+     "gloss": "your death",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.23",
+     "gloss": "and be",
+     "sense": "1",
+     "note": "הֱוֵי: the Mishnaic imperative of הָיָה, 'be'; with a participle it asks for a continued act."
+    },
+    {
+     "id": "2:10.24",
+     "gloss": "warming yourself",
+     "sense": "7.1"
+    },
+    {
+     "id": "2:10.25",
+     "gloss": "opposite (at)",
+     "note": "כְּנֶגֶד: 'opposite, in front of'."
+    },
+    {
+     "id": "2:10.26",
+     "gloss": "their fire",
+     "sense": "1",
+     "note": "אוּרָן: 'their light/fire', the feminine plural suffix -ן of Mishnaic Hebrew; the pack lemma אוֹר 'light'."
+    },
+    {
+     "id": "2:10.27",
+     "gloss": "of",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.28",
+     "gloss": "sages",
+     "sense": "1.4"
+    },
+    {
+     "id": "2:10.29",
+     "gloss": "and be",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.30",
+     "gloss": "careful",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.31",
+     "gloss": "of their coals",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.32",
+     "gloss": "lest",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.33",
+     "gloss": "you be burned",
+     "note": "תִכָּוֶה: nifal imperfect of כוה, 'be burned'."
+    },
+    {
+     "id": "2:10.34",
+     "gloss": "for their bite",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.35",
+     "gloss": "bite of",
+     "sense": "1"
+    },
+    {
+     "id": "2:10.36",
+     "gloss": "fox",
+     "note": "שׁוּעָל: 'fox' (rabbinic); the BDB entry the pack gives is a name and 'jackal'."
+    },
+    {
+     "id": "2:10.37",
+     "gloss": "and their sting",
+     "sense": "2"
+    },
+    {
+     "id": "2:10.38",
+     "gloss": "sting of",
+     "sense": "2"
+    },
+    {
+     "id": "2:10.39",
+     "gloss": "scorpion",
+     "sense": "2"
+    },
+    {
+     "id": "2:10.40",
+     "gloss": "and their whisper",
+     "sense": "2"
+    },
+    {
+     "id": "2:10.41",
+     "gloss": "whisper of",
+     "sense": "2"
+    },
+    {
+     "id": "2:10.42",
+     "gloss": "fiery serpent",
+     "note": "שָׂרָף: a fiery serpent; the pack's BDB entry is a personal name."
+    },
+    {
+     "id": "2:10.43",
+     "gloss": "and all",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:10.44",
+     "gloss": "their words",
+     "sense": "1.3"
+    },
+    {
+     "id": "2:10.45",
+     "gloss": "like coals of"
+    },
+    {
+     "id": "2:10.46",
+     "gloss": "fire",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:10.1",
+      "2:10.2",
+      "2:10.3",
+      "2:10.4"
+     ],
+     "english": "They said three things",
+     "literal": "'they said three things'; who 'they' are is open, see note"
+    },
+    {
+     "tokens": [
+      "2:10.5",
+      "2:10.6",
+      "2:10.7"
+     ],
+     "english": "Rabbi Eliezer says",
+     "literal": "'Rabbi Eliezer says'"
+    },
+    {
+     "tokens": [
+      "2:10.8",
+      "2:10.9",
+      "2:10.10",
+      "2:10.11",
+      "2:10.12",
+      "2:10.13"
+     ],
+     "english": "Let your fellow's honor be as dear to you as your own",
+     "literal": "'let the honor of your fellow be dear on you like yours'; the jussive יְהִי"
+    },
+    {
+     "tokens": [
+      "2:10.14",
+      "2:10.15",
+      "2:10.16",
+      "2:10.17"
+     ],
+     "english": "and do not be quick to anger",
+     "literal": "'and do not be easy to anger'; נוֹחַ לִכְעֹס, easily led to anger"
+    },
+    {
+     "tokens": [
+      "2:10.18",
+      "2:10.19",
+      "2:10.20",
+      "2:10.21",
+      "2:10.22"
+     ],
+     "english": "And repent one day before your death",
+     "literal": "'and return one day before your death'; the imperative of שׁוב is 'repent'"
+    },
+    {
+     "tokens": [
+      "2:10.23",
+      "2:10.24",
+      "2:10.25",
+      "2:10.26",
+      "2:10.27",
+      "2:10.28"
+     ],
+     "english": "And warm yourself at the fire of the sages",
+     "literal": "'and be warming-yourself opposite their light/fire of sages'; the participle after הֱוֵי"
+    },
+    {
+     "tokens": [
+      "2:10.29",
+      "2:10.30",
+      "2:10.31"
+     ],
+     "english": "and beware of their coals",
+     "literal": "'and be careful in their coals'"
+    },
+    {
+     "tokens": [
+      "2:10.32",
+      "2:10.33"
+     ],
+     "english": "lest you be burned",
+     "literal": "'that-not you-be-burned', שֶׁלֹּא with nifal imperfect: purpose or fear"
+    },
+    {
+     "tokens": [
+      "2:10.34",
+      "2:10.35",
+      "2:10.36"
+     ],
+     "english": "for their bite is the bite of a fox",
+     "literal": "'that their bite is the bite of a fox'; שֶׁ here gives the reason"
+    },
+    {
+     "tokens": [
+      "2:10.37",
+      "2:10.38",
+      "2:10.39"
+     ],
+     "english": "their sting is the sting of a scorpion",
+     "literal": "'and their sting the sting of a scorpion'"
+    },
+    {
+     "tokens": [
+      "2:10.40",
+      "2:10.41",
+      "2:10.42"
+     ],
+     "english": "their whisper is the whisper of a fiery serpent",
+     "literal": "'and their whisper the whisper of a saraph'"
+    },
+    {
+     "tokens": [
+      "2:10.43",
+      "2:10.44",
+      "2:10.45",
+      "2:10.46"
+     ],
+     "english": "and all their words are like coals of fire",
+     "literal": "'and all their words like coals of fire'"
+    }
+   ],
+   "grammar": [
+    "הֵם אָמְרוּ שְׁלשָׁה דְבָרִים: the three things that follow are all attributed to Rabbi Eliezer (Bartenura counts them in 2:10:2); who 'they' are, and whether each of the five disciples said three things, is left open.",
+    "יְהִי and תְּהִי are jussive and imperfect of הָיָה used as imperatives; וֶהֱוֵי is the imperative with a conjunction. The pairs וֶהֱוֵי מִתְחַמֵּם and וֶהֱוֵי זָהִיר govern a participle and an adjective: 'be warming yourself', 'be careful'.",
+    "שֶׁלֹּא תִכָּוֶה: שֶׁלֹּא with the nifal imperfect of כוה, 'that you not be burned'.",
+    "The ending -ן in גַּחַלְתָּן, נְשִׁיכָתָן, עֲקִיצָתָן, לְחִישָׁתָן, שִׁבְחָן and אוּרָן is the feminine plural suffix of Mishnaic Hebrew ('their'); here it refers to the sages (חֲכָמִים), a masculine noun.",
+    "Each of the three comparisons is a construct chain, 'the bite of a fox', 'the sting of a scorpion', 'the whisper of a saraph', in which the second member names a creature whose attack is feared."
+   ],
+   "note": "הֵם: the pack's Rabbeinu Yonah says it means the disciples of Rabban Yohanan and Bartenura says it is the saying of Rabbi Eliezer; the English keeps 'They'. אוּרָן: the pack gives the lemma אוֹר 'light' with a masculine singular noun; in the saying the sages' light is also their fire, so 'fire' is the English; I keep the data and note it. שׁוּעָל: 'fox' (Bartenura describes its teeth as thin and crooked, so the bite is hard to heal); the pack's BDB entry is the name 'Shual' (also 'jackal'), so the sense is not given. לְחִישָׁה: 'whisper, spell'; Bartenura glosses it as דִּבּוּרָן, 'their speech'. שָׂרָף: 'saraph, fiery serpent'. כְּנֶגֶד, rendered 'at', is literally 'opposite'; Rabbeinu Yonah glosses 'near'. The English takes שֶׁלֹּא תִכָּוֶה as 'lest you be burned' and the following שֶׁ clause as the reason.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:10:1",
+     "relation": "follows",
+     "summary": "Bartenura: they spoke about conduct (derekh eretz), moral discipline and character traits, because on what is forbidden and permitted, exempt and liable, they said many things; or else, these three things were always on their lips."
+    },
+    {
+     "anchor": "bartenura:2:10:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'when will your fellow's honor be as dear as your own? When you are not easily angered, for otherwise you cannot avoid slighting your fellow's honor.' That is one saying; repenting a day before death is the second; warming yourself at the sages' fire is the third."
+    },
+    {
+     "anchor": "bartenura:2:10:3",
+     "relation": "follows",
+     "summary": "Bartenura: since no one knows when he will die, he should repent today in case he dies tomorrow."
+    },
+    {
+     "anchor": "bartenura:2:10:4",
+     "relation": "follows",
+     "summary": "Bartenura: 'be careful of their coals' means do not treat them lightly."
+    },
+    {
+     "anchor": "bartenura:2:10:5",
+     "relation": "follows",
+     "summary": "Bartenura: 'lest you be burned' means lest you be punished through them."
+    },
+    {
+     "anchor": "bartenura:2:10:6",
+     "relation": "follows",
+     "summary": "Bartenura: the bite of a fox is hard to heal because its teeth are thin, crooked and twisted, and the physician must cut the flesh with a scalpel and widen the bite."
+    },
+    {
+     "anchor": "bartenura:2:10:7",
+     "relation": "follows",
+     "summary": "Bartenura: the sting of a scorpion is more severe than the bite of a snake."
+    },
+    {
+     "anchor": "bartenura:2:10:8",
+     "relation": "follows",
+     "summary": "Bartenura: לְחִישָׁתָן means their speech (דִּבּוּרָן)."
+    },
+    {
+     "anchor": "bartenura:2:10:9",
+     "relation": "follows",
+     "summary": "Bartenura: the whisper of a saraph is like the breath that comes from the mouth of the saraph, which burns while it whispers. Another explanation: this saraph does not accept a charm, unlike other snakes (Psalm 58:6, 'that will not hear the voice of charmers'); so a disciple of the sages, if you provoke him and then come to appease him, does not accept appeasement."
+    },
+    {
+     "anchor": "rambam:2:10:1",
+     "relation": "follows",
+     "summary": "Rambam: 'do not be easily angered' means do not prepare yourself for anger and irritability; the sages exaggerated in condemning anger, the strongest saying being that whoever is angry is as one who worships an idol."
+    },
+    {
+     "anchor": "rambam:2:10:2",
+     "relation": "follows",
+     "summary": "Rambam: a man does not know when he will die, so all his days should be in repentance. He also says that 'warm yourself at the fire of the sages' is not among this sage's own sayings but something he heard from another and reported, so it is not counted among his own words; its meaning is that when you associate with the wise you should draw near only as they draw you near, as one who warms himself at a fire sits at a distance and benefits from its heat, and is burned if he comes too close."
+    }
+   ],
+   "apparatus": [
+    "2:10.17 spelling: Vilna reads לכעוס; base לִכְעֹס.",
+    "A stray 'שלשה' appears in the Vilna witness with no counterpart in the base (the base reads שְׁלשָׁה at 2:10.3).",
+    "Rabbeinu Yonah (2:10:9) notes that the copyist thinks a word is missing at 'and all their words'.",
+    "Psalm 58:6 is quoted by Bartenura, not by the mishnah."
+   ]
+  },
+  {
+   "ref": "2:11",
+   "english": "Rabbi Yehoshua says: The evil eye, the evil impulse, and hatred of people remove a person from the world.",
+   "literal": "Rabbi Yehoshua says: eye the-evil, and-impulse the-evil, and-hatred-of the-creatures, remove-they ACC the-person from the-world",
+   "tokens": [
+    {
+     "id": "2:11.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:11.2",
+     "gloss": "Yehoshua"
+    },
+    {
+     "id": "2:11.3",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:11.4",
+     "gloss": "eye",
+     "note": "עַיִן: the pack's BDB entry is the place name 'Ain'; the word is 'eye'; no sense given."
+    },
+    {
+     "id": "2:11.5",
+     "gloss": "the evil",
+     "sense": "2",
+     "note": "הָרָע: the article on the adjective after a noun: 'the evil (eye)'."
+    },
+    {
+     "id": "2:11.6",
+     "gloss": "and impulse",
+     "sense": "1.1.2.1",
+     "note": "יֵצֶר: 'impulse, inclination' (what is formed)."
+    },
+    {
+     "id": "2:11.7",
+     "gloss": "the evil",
+     "sense": "2"
+    },
+    {
+     "id": "2:11.8",
+     "gloss": "and hatred of",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:11.9",
+     "gloss": "the creatures (people)",
+     "note": "בְּרִיָּה: 'creature'; with the article, 'people'."
+    },
+    {
+     "id": "2:11.10",
+     "gloss": "remove",
+     "sense": "1",
+     "note": "מוֹצִיאִין: hifil participle plural with -ין, 'they take out'."
+    },
+    {
+     "id": "2:11.11",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "2:11.12",
+     "gloss": "the person"
+    },
+    {
+     "id": "2:11.13",
+     "gloss": "from",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:11.14",
+     "gloss": "the world",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:11.1",
+      "2:11.2",
+      "2:11.3"
+     ],
+     "english": "Rabbi Yehoshua says",
+     "literal": "'Rabbi Yehoshua says'"
+    },
+    {
+     "tokens": [
+      "2:11.4",
+      "2:11.5"
+     ],
+     "english": "The evil eye",
+     "literal": "'the eye the evil'; Bartenura: an eye that is not content with what it has, or one that harms another's goods"
+    },
+    {
+     "tokens": [
+      "2:11.6",
+      "2:11.7"
+     ],
+     "english": "the evil impulse",
+     "literal": "'and the impulse the evil'; יֵצֶר 'what is formed', the inclination"
+    },
+    {
+     "tokens": [
+      "2:11.8",
+      "2:11.9"
+     ],
+     "english": "and hatred of people",
+     "literal": "'and the hatred of the creatures'; Bartenura: baseless hatred, or the hatred others feel for a harsh man"
+    },
+    {
+     "tokens": [
+      "2:11.10",
+      "2:11.11",
+      "2:11.12",
+      "2:11.13",
+      "2:11.14"
+     ],
+     "english": "remove a person from the world",
+     "literal": "'they take out the person from the world'; hifil plural participle of יצא"
+    }
+   ],
+   "grammar": [
+    "The three subjects are joined by 'and' and take the plural participle מוֹצִיאִין (hifil of יצא, with -ין, the Aramaic-style plural of Mishnaic Hebrew): 'they take a person out of the world'.",
+    "עַיִן הָרָע and יֵצֶר הָרָע both have the adjective with the article after a noun without it (the noun is definite by its qualifier); contrast עַיִן רָעָה in 2:9, with no article, 'an evil eye'.",
+    "שִׂנְאַת הַבְּרִיּוֹת is a construct chain: 'the hatred of the creatures'; whether the genitive is subjective (others' hatred) or objective (one's hatred of them) is open, as Bartenura's two readings show.",
+    "מִן הָעוֹלָם: 'from the world' means out of life; the next words of Bartenura and Rambam read it as a premature death."
+   ],
+   "note": "עַיִן הָרָע: Bartenura gives two readings, the same as 'an evil eye' (discontent with one's lot) or malevolent gaze at a friend's money or children that causes harm. The English keeps the ambiguity of 'the evil eye'. שִׂנְאַת הַבְּרִיּוֹת: 'hatred of people' is likewise ambiguous: baseless hatred (Bartenura), loathing human company (Rambam, whom Bartenura reports) or the hatred a harsh man brings on himself (Bartenura's own hearing). יֵצֶר הָרָע: 'the evil impulse'; 'inclination' is equally correct.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:11:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'the evil eye' is like 'an evil eye': a man not content with what he has who goes after other things. Some explain it as one who casts an evil eye on his fellow's money or sons and harms him."
+    },
+    {
+     "anchor": "bartenura:2:11:2",
+     "relation": "follows",
+     "summary": "Bartenura: 'hatred of people' is baseless hatred. He reports that Rambam explains it as one who loathes the society of people and loves to sit alone; and he himself has heard it of a harsh man who brings on himself the hatred of people so that all hate him."
+    },
+    {
+     "anchor": "rambam:2:11:1",
+     "relation": "follows",
+     "summary": "Rambam: eagerness for money, excess of desire and evil of the soul (a disease of black bile) lead a man to loathe the sight of his fellows, to prefer the company of beasts and to live in deserts and wilds; for them this is not asceticism but the evil of their desire and envy of others, and without doubt such things kill a man before his time."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:11:1",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: 'the evil eye' means one who is not content with his portion and who looks at his fellow's wealth with an envious eye."
+    }
+   ],
+   "apparatus": [
+    "No variant readings are recorded between the witnesses for this mishnah."
+   ]
+  },
+  {
+   "ref": "2:12",
+   "english": "Rabbi Yose says: Let your fellow's money be as dear to you as your own. Prepare yourself to learn Torah, for it is not an inheritance to you. And let all your deeds be for the sake of Heaven.",
+   "literal": "Rabbi Yose says: let-be money-of your-fellow dear on-you like-yours; and-prepare yourself to-learn Torah, that-not-it inheritance to-you; and-all your-deeds shall-be for-name-of heaven",
+   "tokens": [
+    {
+     "id": "2:12.1",
+     "gloss": "Rabbi",
+     "sense": "1"
+    },
+    {
+     "id": "2:12.2",
+     "gloss": "Yose",
+     "sense": "2"
+    },
+    {
+     "id": "2:12.3",
+     "gloss": "says",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:12.4",
+     "gloss": "let be",
+     "sense": "1",
+     "note": "יְהִי: jussive of הָיָה, 'let ... be'."
+    },
+    {
+     "id": "2:12.5",
+     "gloss": "money",
+     "sense": "1",
+     "note": "מָמוֹן: 'money, property'."
+    },
+    {
+     "id": "2:12.6",
+     "gloss": "your fellow's",
+     "sense": "5"
+    },
+    {
+     "id": "2:12.7",
+     "gloss": "dear",
+     "sense": "1"
+    },
+    {
+     "id": "2:12.8",
+     "gloss": "to you",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:12.9",
+     "gloss": "as your own",
+     "sense": "1"
+    },
+    {
+     "id": "2:12.10",
+     "gloss": "and prepare",
+     "sense": "3.1",
+     "note": "הַתְקֵן: hifil imperative of תקן, 'make ready, put in order'."
+    },
+    {
+     "id": "2:12.11",
+     "gloss": "yourself"
+    },
+    {
+     "id": "2:12.12",
+     "gloss": "to learn",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:12.13",
+     "gloss": "Torah",
+     "sense": "1"
+    },
+    {
+     "id": "2:12.14",
+     "gloss": "for it is not"
+    },
+    {
+     "id": "2:12.15",
+     "gloss": "an inheritance",
+     "sense": "1",
+     "note": "יְרֻשָּׁה: 'inheritance'."
+    },
+    {
+     "id": "2:12.16",
+     "gloss": "to you"
+    },
+    {
+     "id": "2:12.17",
+     "gloss": "and all",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:12.18",
+     "gloss": "your deeds",
+     "sense": "1.1"
+    },
+    {
+     "id": "2:12.19",
+     "gloss": "shall be",
+     "sense": "1",
+     "note": "יִהְיוּ: 3rd plural imperfect with jussive force, 'let ... be'."
+    },
+    {
+     "id": "2:12.20",
+     "gloss": "for the sake of"
+    },
+    {
+     "id": "2:12.21",
+     "gloss": "Heaven",
+     "sense": "1.2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:12.1",
+      "2:12.2",
+      "2:12.3"
+     ],
+     "english": "Rabbi Yose says",
+     "literal": "'Rabbi Yose says'"
+    },
+    {
+     "tokens": [
+      "2:12.4",
+      "2:12.5",
+      "2:12.6",
+      "2:12.7",
+      "2:12.8",
+      "2:12.9"
+     ],
+     "english": "Let your fellow's money be as dear to you as your own",
+     "literal": "'let the money of your fellow be dear on you like yours'; same form as Rabbi Eliezer's saying in 2:10, with money for honor"
+    },
+    {
+     "tokens": [
+      "2:12.10",
+      "2:12.11",
+      "2:12.12",
+      "2:12.13"
+     ],
+     "english": "Prepare yourself to learn Torah",
+     "literal": "'and make-fit yourself to learn Torah'; הַתְקֵן, hifil imperative of תקן"
+    },
+    {
+     "tokens": [
+      "2:12.14",
+      "2:12.15",
+      "2:12.16"
+     ],
+     "english": "for it is not an inheritance to you",
+     "literal": "'that-not-it inheritance to-you'; שֶׁאֵינָהּ gives the reason"
+    },
+    {
+     "tokens": [
+      "2:12.17",
+      "2:12.18",
+      "2:12.19",
+      "2:12.20",
+      "2:12.21"
+     ],
+     "english": "And let all your deeds be for the sake of Heaven",
+     "literal": "'and all your deeds shall be for the name of heaven'; לְשֵׁם שָׁמַיִם, decisions.md"
+    }
+   ],
+   "grammar": [
+    "The first saying has the same frame as Rabbi Eliezer's in 2:10: יְהִי X חָבִיב עָלֶיךָ כְּשֶׁלָּךְ, with מָמוֹן in place of כָּבוֹד. כְּשֶׁלָּךְ is the preposition כּ with the genitive particle שֶׁל and the suffix: 'like yours'.",
+    "הַתְקֵן is a hifil imperative of תקן, 'make ready, fit'; with עַצְמְךָ it is reflexive, 'prepare yourself'. The infinitive construct לִלְמֹד gives the purpose.",
+    "שֶׁאֵינָהּ יְרֻשָּׁה לָךְ: אֵין with the feminine suffix -ָהּ (referring to תּוֹרָה) is the negative of a nominal clause; שֶׁ introduces the reason.",
+    "וְכָל מַעֲשֶׂיךָ יִהְיוּ: the plural 3rd person imperfect of הָיָה used as a jussive, 'let all your deeds be'."
+   ],
+   "note": "מָמוֹן: 'money, property' (Jastrow); the English uses 'money' to keep it apart from נְכָסִים 'property' (2:7). שֶׁאֵינָהּ יְרֻשָּׁה לָךְ: 'it is not an inheritance to you', literally 'it is not an inheritance for you': it does not pass to you from your family (Bartenura, Rabbeinu Yonah). לְשֵׁם שָׁמַיִם: 'for the sake of Heaven' (decisions.md); the lexicon entry that the pack links for שֵׁם is the name 'Shem', so no sense is given there.",
+   "commentary": [
+    {
+     "anchor": "bartenura:2:12:1",
+     "relation": "follows",
+     "summary": "Bartenura: 'prepare yourself' means that you should not say, since my father and grandfather were wise, the Torah goes back to its lodging and I need not seek it."
+    },
+    {
+     "anchor": "bartenura:2:12:2",
+     "relation": "follows",
+     "summary": "Bartenura: even when you are engaged in eating and drinking and worldly occupation, intend not to give your body pleasure but to be healthy so as to do the will of your Maker."
+    },
+    {
+     "anchor": "rambam:2:12:1",
+     "relation": "not-applicable",
+     "summary": "Rambam refers to his earlier discussions, in his eighth chapter on the readiness a person must make to prepare himself for the virtues and in his fifth chapter on the saying that all your deeds should be for the sake of Heaven."
+    },
+    {
+     "anchor": "rabbeinu-yonah:2:12:4",
+     "relation": "follows",
+     "summary": "Rabbeinu Yonah: you will not attain it unless you labor in it, because it is not like the inheritance of fathers that the son receives without effort."
+    }
+   ],
+   "apparatus": [
+    "2:12.12 spelling: Vilna reads ללמוד; base לִלְמֹד.",
+    "2:12.15 spelling: Vilna reads ירושה; base יְרֻשָּׁה."
+   ]
+  }
+ ]
+}

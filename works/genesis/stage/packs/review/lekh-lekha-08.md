@@ -1,0 +1,970 @@
+# Review pack: genesis lekh-lekha-08 (Genesis 14:17–14:24)
+
+Brief: `briefs/review.md`. Write: `works/genesis/stage/review/lekh-lekha-08.json`. Check: `go run ./cmd/tr check genesis lekh-lekha-08`.
+
+## Genesis 14:17
+
+Hebrew (MAM): וַיֵּצֵ֣א מֶֽלֶךְ־סְדֹם֮ לִקְרָאתוֹ֒ אַחֲרֵ֣י שׁוּב֗וֹ מֵֽהַכּוֹת֙ אֶת־כְּדׇרְלָעֹ֔מֶר וְאֶת־הַמְּלָכִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ אֶל־עֵ֣מֶק שָׁוֵ֔ה ה֖וּא עֵ֥מֶק הַמֶּֽלֶךְ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 14:17.1 | וַיֵּצֵ֣א | וַ + יֵּצֵ֣א | ו: and + יָצָא `bdb:j.cq.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | יצא | munaḥ |
+| 14:17.2 | מֶֽלֶךְ־ | מֶֽלֶךְ | מֶ֫לֶךְ `bdb:m.cd.ab` | noun: common, masculine, singular, construct | מלך |  |
+| 14:17.3 | סְדֹם֮ | סְדֹם֮ | סְדֹם `bdb:o.aj.ad` | noun: proper name |  | zinor (disjunctive) |
+| 14:17.4 | לִקְרָאתוֹ֒ | לִ + קְרָאת + וֹ֒ | ל: to, for + קִרְאָה `bdb:s.cz.aa` +  | preposition · verb: qal, infinitive construct · suffix: pronominal, 3rd person, masculine, singular | קרא | segol (disjunctive) |
+| 14:17.5 | אַחֲרֵ֣י | אַחֲרֵ֣י | אַחַר `bdb:a.cp.ac` | preposition | אחר | munaḥ |
+| 14:17.6 | שׁוּב֗וֹ | שׁוּב֗ + וֹ | שׁוּב `bdb:v.bn.aa` +  | verb: qal, infinitive construct · suffix: pronominal, 3rd person, masculine, singular | שׁוב | revia (disjunctive) |
+| 14:17.7 | מֵֽהַכּוֹת֙ | מֵֽ + הַכּוֹת֙ | מ: from, than + נָכָה `bdb:n.dk.aa` | preposition · verb: hifil, infinitive construct | נכה | pashta (disjunctive) |
+| 14:17.8 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
+| 14:17.9 | כְּדׇרְלָעֹ֔מֶר | כְּדָרלָעֹ֔מֶר | כְּדׇרְלָעֹמֶר `bdb:k.ao.ad` | noun: proper name |  | zaqef qaton (disjunctive) |
+| 14:17.10 | וְאֶת־ | וְ + אֶת | ו: and + אֵת `bdb:a.gm.aa` | conjunction · particle: direct object marker | אות |  |
+| 14:17.11 | הַמְּלָכִ֖ים | הַ + מְּלָכִ֖ים | ה: the + מֶ֫לֶךְ `bdb:m.cd.ab` | particle: definite article · noun: common, masculine, plural, absolute | מלך | tipḥa (disjunctive) |
+| 14:17.12 | אֲשֶׁ֣ר | אֲשֶׁ֣ר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר | munaḥ |
+| 14:17.13 | אִתּ֑וֹ | אִתּ֑ + וֹ | אֵת `bdb:a.gn.aa` +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | etnaḥta (disjunctive) |
+| 14:17.14 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 14:17.15 | עֵ֣מֶק | עֵ֣מֶק | עֵ֫מֶק `bdb:p.dm.ab` | noun: common, masculine, singular, construct | עמק | munaḥ |
+| 14:17.16 | שָׁוֵ֔ה | שָׁוֵ֔ה | שָׁוֵה `bdb:v.bp.ac` | noun: proper name | שׁוה | zaqef qaton (disjunctive) |
+| 14:17.17 | ה֖וּא | ה֖וּא | הוּא `bdb:e.aw.aa` | pronoun: personal, 3rd person, masculine, singular |  | tipḥa (disjunctive) |
+| 14:17.18 | עֵ֥מֶק | עֵ֥מֶק | עֵ֫מֶק `bdb:p.dm.ab` | noun: common, masculine, singular, construct | עמק | merkha |
+| 14:17.19 | הַמֶּֽלֶךְ׃ | הַ + מֶּֽלֶךְ | ה: the + מֶ֫לֶךְ `bdb:m.cd.ab` | particle: definite article · noun: common, masculine, singular, absolute | מלך | silluq (disjunctive) |
+
+Variants:
+- 14:17.9 vowels: WLC reads כְּדָרלָעֹ֔מֶר; base כְּדׇרְלָעֹ֔מֶר
+
+- 14:17.9: WLC note n: Marks an anomalous form.
+- 14:17.9: WLC note p: We read punctuation in L differently from BHS.
+
+### Commentary anchored to this verse
+
+- `rashi:14:17:1` Rashi **normative** on 14:17.15 14:17.16 «עֵ֣מֶק שָׁוֵ֔ה» (matched; filed at 14:17) DH «עמק שוה.»: כָּךְ שְׁמוֹ, כְּתַרְגּוּמוֹ לְמֵישַׁר מְפַנָּא – פָּנוּי מֵאִילָנוֹת וּמִכָּל מִכְשׁוֹל:
+- `rashi:14:17:2` Rashi **normative** on 14:17.15 14:17.19 «עֵ֣מֶק הַמֶּֽלֶךְ׃» (matched; filed at 14:17) DH «עמק המלך.»: בֵּית רֵיסָא דְמַלְכָּא בֵּית רִיס א' שֶׁהוּא שְׁלֹשִׁים קָנִים, שֶׁהָיָה מְיֻחָד לַמֶּלֶךְ לְצַחֵק שָׁם. וּמִדְרַשׁ אַגָּדָה עֵמֶק, שֶׁהֻשְׁווּ שָׁם כָּל הָאֻמּוֹת וְהִמְלִיכוּ אֶת אַבְרָהָם עֲלֵיהֶם לִנְשִׂיא אֱלֹהִים וּלְקָצִין:
+- `radak:14:17:1` Radak on 14:17.14 14:17.15 14:17.16 «אֶל עֵ֣מֶק שָׁוֵ֔ה» (matched; filed at 14:17) DH «אֶל־עֵמֶק שָׁוֵה.»: הָיָה הַמָּקוֹם הַהוּא מְקוֹם מְרוּצַת הַסּוּסִים, לְפִי שֶׁהָיָה שָׁוֶה, לֹא עוֹלֶה וְלֹא יוֹרֵד. וְנִקְרָא
+- `radak:14:17:2` Radak on 14:17.15 14:17.19 «עֵ֣מֶק הַמֶּֽלֶךְ׃» (matched; filed at 14:17) DH «עֵמֶק הַמֶּלֶךְ»: , לְפִי שֶׁהַמֶּלֶךְ וּפָרָשָׁיו הָיוּ מְנַסִּים שָׁם סוּסֵיהֶם לִמְרוּצָה. וְתַרְגּוּם אֻנְקְלוֹס
+- `radak:14:17:3` Radak on 14:17.16 «שָׁוֵ֔ה» (matched; filed at 14:17) DH «שָׁוֵה»: – ״מְפַנָּא״, רוֹצֶה לוֹמַר שֶׁהָיָה פָּנוּי, לֹא הָיָה שָׁם אֲבָנִים וְלֹא עֵצִים וַעֲשָׂבִים. וְתִרְגֵּם
+- `radak:14:17:4` Radak on 14:17.18 14:17.19 «עֵ֥מֶק הַמֶּֽלֶךְ׃» (matched; filed at 14:17) DH «עֵמֶק הַמֶּלֶךְ»: – ״בֵּית רִיסָא דְמַלְכָּא״, וְהָרִיס הוּא שְׁלֹשִׁים קָנִים בִּקְנֵה הַמִּדָּה, וְהַקָּנֶה שֵׁשׁ אַמּוֹת בְּאַמָּה בַּת שִׁשָּׁה טְפָחִים, וְכֵן הוּא שִׁעוּר מְרוּצַת הַסּוּסִים.
+- `onkelos:14:17:1` Targum Onkelos on whole 14:17 (version; filed at 14:17): וּנְפַק מַלְכָּא דִסְדוֹם לְקַדָּמוּתֵיהּ בָּתַר דְּתָב מִלְּמִמְחֵי יָת כְּדָרְלָעוֹמֶר וְיָת מַלְכַיָּא דִּי עִמֵּיהּ לְמֵישַׁר מַפְנָא הוּא אֲתַר בֵּית רֵיסָא דְמַלְכָּא:
+
+### Translation under review (14:17)
+
+English: The king of Sodom went out to meet him, after his return from striking down Chedorlaomer and the kings who were with him, to the Valley of Shaveh, that is, the King's Valley.
+
+Literal: and-went-out king-of Sodom to-meet-him after return-his from-striking [obj] Chedorlaomer and-[obj] the-kings who with-him to valley-of Shaveh it valley-of the-king
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 14:17.1 | and went out |  | Qal 1 | wayyiqtol, narrative past |
+| 14:17.2 | king of |  |  | construct |
+| 14:17.3 | Sodom |  |  |  |
+| 14:17.4 | to meet him |  | Qal 1 | infinitive construct with ל and suffix |
+| 14:17.5 | after |  | 2.b |  |
+| 14:17.6 | his return |  | Qal 2 | infinitive construct with suffix, temporal clause |
+| 14:17.7 | from striking down |  | Hiph 1.a | infinitive construct with מן |
+| 14:17.8 | [object marker] |  |  |  |
+| 14:17.9 | Chedorlaomer |  |  |  |
+| 14:17.10 | and [object marker] |  |  |  |
+| 14:17.11 | the kings |  |  |  |
+| 14:17.12 | who |  |  |  |
+| 14:17.13 | with him |  |  |  |
+| 14:17.14 | to |  | 3 |  |
+| 14:17.15 | valley of |  |  | construct |
+| 14:17.16 | Shaveh |  |  |  |
+| 14:17.17 | that is |  |  |  |
+| 14:17.18 | valley of |  |  | construct |
+| 14:17.19 | the king |  |  |  |
+
+Phrases:
+- 14:17.1 14:17.2 14:17.3 | The king of Sodom went out | 'and-went-out king-of Sodom'
+- 14:17.4 | to meet him | 'to-meet-him', infinitive of קרא
+- 14:17.5 14:17.6 | after his return | 'after return-his'
+- 14:17.7 14:17.8 14:17.9 | from striking down Chedorlaomer | 'from-striking [obj] Chedorlaomer'
+- 14:17.10 14:17.11 14:17.12 14:17.13 | and the kings who were with him | 'and-[obj] the-kings who with-him'
+- 14:17.14 14:17.15 14:17.16 | to the Valley of Shaveh | 'to valley-of Shaveh'
+- 14:17.17 14:17.18 14:17.19 | that is, the King's Valley | 'it valley-of the-king'
+
+Grammar notes:
+- וַיֵּצֵא is a wayyiqtol: the narrative resumes after the battle report, with the king of Sodom as the new subject.
+- אַחֲרֵי שׁוּבוֹ and מֵהַכּוֹת are infinitives with suffix or preposition and form one time clause: 'after his returning from the striking of'.
+- The zinor on סְדֹם and the segol on לִקְרָאתוֹ set 'the king of Sodom ... to meet him' apart from the time clause; the etnaḥta on אִתּוֹ ends the first half.
+- הוּא עֵמֶק הַמֶּלֶךְ glosses the place name: 'that is, the King's Valley'.
+
+Translator's note: The English follows Rashi in taking עֵמֶק שָׁוֵה as the name of the place; Rashi and the Targum also give its sense as a cleared, level plain. The identity of 'the king' in הַמֶּלֶךְ is not stated; the name is kept as 'the King's Valley'.
+
+Commentary rulings:
+- `rashi:14:17:1` follows: Rashi: 'so it is named', as Targum has it, 'a cleared plain': free of trees and every obstacle. He takes שָׁוֵה as a proper name that also describes the level ground.
+- `rashi:14:17:2` records: Rashi: Targum's 'Beth Risa of the king', thirty reeds, reserved for the king to amuse himself there; the aggada says the nations agreed there to make Abraham ruler. The English keeps only the place name; both explanations are recorded.
+- apparatus: Onkelos renders עֵמֶק שָׁוֵה 'a cleared plain' and עֵמֶק הַמֶּלֶךְ 'the place Beth Risa of the king'.
+
+## Genesis 14:18
+
+Hebrew (MAM): וּמַלְכִּי־צֶ֙דֶק֙ מֶ֣לֶךְ שָׁלֵ֔ם הוֹצִ֖יא לֶ֣חֶם וָיָ֑יִן וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֽוֹן׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 14:18.1 | וּמַלְכִּי־ | וּ + מַלְכִּי | ו: and + מַלְכִּי־צֶ֫דֶק `bdb:m.cd.aq` | conjunction · noun: proper name | מלך |  |
+| 14:18.2 | צֶ֙דֶק֙ | צֶ֨דֶק֙ | מַלְכִּי־צֶ֫דֶק `bdb:m.cd.aq` | noun: proper name | מלך | pashta, pashta (disjunctive) |
+| 14:18.3 | מֶ֣לֶךְ | מֶ֣לֶךְ | מֶ֫לֶךְ `bdb:m.cd.ab` | noun: common, masculine, singular, construct | מלך | munaḥ |
+| 14:18.4 | שָׁלֵ֔ם | שָׁלֵ֔ם | שָׁלֵם `bdb:v.ds.af` | noun: proper name |  | zaqef qaton (disjunctive) |
+| 14:18.5 | הוֹצִ֖יא | הוֹצִ֖יא | יָצָא `bdb:j.cq.aa` | verb: hifil, perfect (qatal), 3rd person, masculine, singular | יצא | tipḥa (disjunctive) |
+| 14:18.6 | לֶ֣חֶם | לֶ֣חֶם | לֶ֫חֶם `bdb:l.bi.ab` | noun: common, both genders, singular, absolute | לחם | munaḥ |
+| 14:18.7 | וָיָ֑יִן | וָ + יָ֑יִן | ו: and + יַ֫יִן `bdb:j.bk.ab` | conjunction · noun: common, masculine, singular, absolute | יין | etnaḥta (disjunctive) |
+| 14:18.8 | וְה֥וּא | וְ + ה֥וּא | ו: and + הוּא `bdb:e.aw.aa` | conjunction · pronoun: personal, 3rd person, masculine, singular |  | merkha |
+| 14:18.9 | כֹהֵ֖ן | כֹהֵ֖ן | כֹּהֵן `bdb:k.as.ab` | noun: common, masculine, singular, absolute | כהן | tipḥa (disjunctive) |
+| 14:18.10 | לְאֵ֥ל | לְ + אֵ֥ל | ל: to, for + אֵל `bdb:a.dl.ab` | preposition · noun: common, masculine, singular, absolute | אלה | merkha |
+| 14:18.11 | עֶלְיֽוֹן׃ | עֶלְיֽוֹן | עֶלְיוֹן `bdb:p.cs.aj` | adjective: adjective, masculine, singular, absolute | עלה | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:14:18:1` Rashi **normative** on 14:18.1 14:18.2 «וּמַלְכִּי צֶ֙דֶק֙» (matched; filed at 14:18) DH «ומלכי צדק.»: מִ"אַ הוּא שֵׁם בֶן נֹחַ (נדרים ל"ב):
+- `rashi:14:18:2` Rashi **normative** on 14:18.6 14:18.7 «לֶ֣חֶם וָיָ֑יִן» (matched; filed at 14:18) DH «לחם ויין.»: כָּךְ עוֹשִׂים לִיגִיעֵי מִלְחָמָה, וְהֶרְאָה לוֹ שֶׁאֵין בְּלִבּוֹ עָלָיו עַל שֶׁהָרַג אֶת בָּנָיו. ומִ"אַ רָמַז לוֹ עַל הַמְּנָחוֹת וְעַל הַנְּסָכִים שֶׁיַּקְרִיבוּ שָׁם בָּנָיו:
+- `ibn-ezra:14:18:1` Ibn Ezra **normative** on 14:18.1 14:18.2 «וּמַלְכִּי צֶ֙דֶק֙» (matched; filed at 14:18) DH «ומלכי צדק.»: נקרא כן בעבור שהוא מלך על מקום צדק וי"א כי הוא שם
+- `ibn-ezra:14:18:2` Ibn Ezra **normative** on 14:18.4 14:18.8 «שָׁלֵ֔ם וְה֥וּא» (matched-unbolded; filed at 14:18) DH «ושלם הוא ירושלים והעד "ויהי»: ושלם הוא ירושלים והעד "ויהי בשלם סכו" (תהלים עו ג):
+- `ibn-ezra:14:18:3` Ibn Ezra **normative** on 14:18.8 14:18.9 «וְה֥וּא כֹהֵ֖ן» (matched; filed at 14:18) DH «והוא כהן.»: כדברי המתרגם ארמית וכן כל כהן והעד "וכהנו לי" (שמות כח מא) ופי' "על דברתי מלכי צדק" בספר תהלות (תהלים קי, ד) כי כהוגן דבר ויפה עשה שברך אברם בתחלה בעבור שהתנדב להושיע אשר נשבו ואחר כן אמר וברוך השם שעזרו ונתן צריו בידיו:
+- `ramban:14:18:1` Ramban on 14:18.1 14:18.2 14:18.3 14:18.4 «וּמַלְכִּי צֶ֙דֶק֙ מֶ֣לֶךְ שָׁלֵ֔ם» (matched; filed at 14:18) DH «וּמַלְכִּי צֶדֶק מֶלֶךְ שָׁלֵם»: הִיא יְרוּשָׁלַיִם, כְּעִנְיָן שֶׁנֶּאֱמַר (תהלים עו ג) "וַיְהִי בְשָׁלֵם סֻכּוֹ", וּמַלְכָּהּ יִקָּרֵא גַּם בִּימֵי יְהוֹשֻׁעַ "אֲדֹנִי צֶדֶק" (יהושע י א), כִּי מֵאָז יָדְעוּ הַגּוֹיִם כִּי הַמָּקוֹם הַהוּא מִבְחַר הַמְּקוֹמוֹת בְּאֶמְצַע הַיִּשּׁוּב, אוֹ שֶׁיָּדְעוּ מַעֲלָתוֹ בְּקַבָּלָה שֶׁהוּא מְכֻוָּן כְּנֶגֶד בֵּית הַמִּקְדָשׁ שֶׁל מַעְלָה, שֶׁשָּׁם שְׁכִינָתוֹ שֶׁל הקב"ה שֶׁנִּקְרָא "צֶדֶק". וּבִבְרֵאשִׁית רַבָּה (בראשית רבה מ"ג:ו'), הַמָּקוֹם הַזֶּה מַצְדִּיק אֶת יוֹשְׁבָיו, וּמַלְכִּי צֶדֶק, אֲדוֹנִי צֶדֶק, נִקְרֵאת יְרוּשָׁלִַם צֶדֶק, שֶׁנֶּאֱמַר (ישעיהו א כא) "צֶדֶק יָלִין בָּהּ":
+- `ramban:14:18:2` Ramban on whole 14:18 (segment; filed at 14:18): וְהִזְכִּיר
+- `ramban:14:18:3` Ramban on 14:18.8 14:18.9 14:18.10 14:18.11 «וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֽוֹן׃» (matched; filed at 14:18) DH «וְהוּא כֹהֵן לְאֵל עֶלְיוֹן»: לְהוֹדִיעַ כִּי אַבְרָהָם לֹא הָיָה נוֹתֵן מַעֲשֵׂר לְכֹהֵן לֵאלֹהִים אֲחֵרִים, אֲבָל מִפְּנֵי שֶׁיָּדַע בּוֹ שֶׁהוּא כֹּהֵן לְאֵל עֶלְיוֹן נָתַן לוֹ הַמַּעֲשֵׂר לִכְבוֹד הַשֵּׁם. וְהָרֶמֶז לְאַבְרָהָם מִזֶּה כִּי שָׁם יִהְיֶה בֵּית אֱלֹהִים, וְשָׁם יוֹצִיא זַרְעוֹ הַמַּעֲשֵׂר וְהַתְּרוּמָה, וְשָׁם יְבָרְכוּ אֶת ה'. וְעַל דַּעַת רַבּוֹתֵינוּ (נדרים לב) שֶׁאוֹמְרִים כִּי מַלְכִּי צֶדֶק הוּא שֵׁם בֶן נֹחַ, הָלַךְ מֵאַרְצוֹ לִירוּשָׁלִַם לַעֲבֹד שָׁם אֶת ה', וְהָיָה לָהֶם לְכֹהֵן לְאֵל עֶלְיוֹן, כִּי הוּא אֲחִי אֲבִיהֶם הַנִּכְבָּד, כִּי יְרוּשָׁלַיִם מִגְּבוּל הַכְּנַעֲנִי הִיא מֵעוֹלָם. וְרַשִׁ"י כָּתַב לְמַעְלָה (יב ו) "וְהַכְּנַעֲנִי אָז בָּאָרֶץ", הָיָה הוֹלֵךְ וְכוֹבֵשׁ אֶת אֶרֶץ יִשְׂרָאֵל מִזַּרְעוֹ שֶׁל שֵׁם זְקֵנוֹ שֶׁל אַבְרָהָם, שֶׁבְּחֶלְקוֹ שֶׁל שֵׁם נָפְלָה כְּשֶׁחִלֵּק נֹחַ לְבָנָיו אֶת הָאָרֶץ (ספרא קכו), שֶׁנֶּאֱמַר "וּמַלְכִּי צֶדֶק מֶלֶךְ שָׁלֵם". וְאֵין זֶה נָכוֹן, כִּי "גְּבוּל הַכְּנַעֲנִי מִצִּידוֹן" (בראשית י':י"ט) יִכְלֹל כָּל אֶרֶץ יִשְׂרָאֵל, וּגְבוּל בְּנֵי שֵׁם בַּמִּזְרָח מִמַּשָּׂא רָחוֹק מֵאֶרֶץ יִשְׂרָאֵל. אֲבָל אִם חִלֵּק נֹחַ לְבָנָיו הָאֲרָצוֹת וְנָתַן לְשֵׁם אֶרֶץ יִשְׂרָאֵל, הָיָה זֶה כִּ"מְחַלֵּק נְכָסָיו עַל פִּיו", וְיָשְׁבוּ בָּהּ בְּנֵי כְּנַעַן עַד אֲשֶׁר יַנְחִיל אוֹתָהּ הַשֵּׁם לְזֶרַע אוֹהֲבוֹ, כַּאֲשֶׁר הִזְכַּרְתִּי כְּבָר (רמב"ן על בראשית י':ט"ו):
+- `ramban:14:18:4` Ramban on 14:18.8 14:18.9 14:18.10 14:18.11 «וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֽוֹן׃» (matched; filed at 14:18) DH «וְהוּא כֹהֵן לְאֵל עֶלְיוֹן»: בַּעֲבוּר הֱיוֹת בְּכָל הָעַמִּים כֹּהֲנִים מְשָׁרְתִים לַמַּלְאָכִים הַנִּקְרָאִים "אֵלִים", כְּעִנְיָן שֶׁנֶּאֱמַר (שמות טו יא) "מִי כָּמֹכָה בָּאֵלִים", יִקָּרֵא הקב"ה "אֵל עֶלְיוֹן". וְעִנְיָנוֹ, הַתַּקִּיף הַגָּבוֹהַּ עַל כָּל גְּבוֹהִים, כְּמוֹ "יֶשׁ לְאֵל יָדִי" (בראשית ל"א:כ"ט). וּמַלְכִּי צֶדֶק לֹא הִזְכִּיר הַשֵּׁם, אֲבָל אַבְרָהָם אָמַר "ה' אֵל עֶלְיוֹן" (בראשית י"ד:כ"ב):
+- `radak:14:18:1` Radak on 14:18.1 14:18.2 14:18.3 14:18.4 «וּמַלְכִּי צֶ֙דֶק֙ מֶ֣לֶךְ שָׁלֵ֔ם» (matched; filed at 14:18) DH «וּמַלְכִּי צֶדֶק מֶלֶךְ שָׁלֵם.»: הוּא יְרוּשָׁלַיִם, וְכֵן כָּתוּב ״וַיְהִי בְשָׁלֵם סֻכּוֹ״ (תהלים עו:ג), וְנִקְרְאוּ מַלְכֵי יְרוּשָׁלַיִם מַלְכֵי צֶדֶק מִן אֲדֹנִי צֶדֶק, וְכֵן כָּתוּב בְּסֵפֶר יְהוֹשֻׁעַ ״אֲדֹנִי צֶדֶק מֶלֶךְ יְרוּשָׁלָיִם״ (יהושע י:א), כִּי יְרוּשָׁלַיִם הוּא מְקוֹם הַצֶּדֶק וְהַשָּׁלוֹם, לֹא יִסְבֹּל עָוֶל וְחָמָס וּמַעֲשֵׂה תּוֹעֵבָה זְמַן אָרֹךְ, לְפִיכָךְ מְקִיאָה הַחַטָּאִים הַיּוֹשְׁבִים בָּהּ, כְּמוֹ שֶׁאָמַר ״וְלֹא תָקִיא הָאָרֶץ אֶתְכֶם בְּטַמַּאֲכֶם אֹתָהּ כַּאֲשֶׁר קָאָה אֶת הַגּוֹי אֲשֶׁר לִפְנֵיכֶם״ (ויקרא יח:כח), וְאָמַר ״אֱלֹהֵי נֵכַר הָאָרֶץ״ (דברים לא:טז), כִּי הִיא כְּנֶגֶד קַו הַשָּׁוֶה וַאֲוִירָהּ מָזוּג, וְכֵן אָמַר ״יְפֵה נוֹף מְשׂוֹשׂ כָּל הָאָרֶץ״ (תהלים מח:ג), וְאָמְרוּ בַּדְּרָשׁ (פרקי דרבי אליעזר כז, בראשית רבה נו, נדרים לב) כִּי
+- `radak:14:18:2` Radak on 14:18.1 14:18.2 «וּמַלְכִּי צֶ֙דֶק֙» (matched; filed at 14:18) DH «מַלְכִּי צֶדֶק»: הוּא שֵׁם בֶּן נֹחַ.
+- `radak:14:18:3` Radak on 14:18.5 14:18.6 14:18.7 «הוֹצִ֖יא לֶ֣חֶם וָיָ֑יִן» (matched; filed at 14:18) DH «הוֹצִיא לֶחֶם וָיָיִן.»: לְפִי שֶׁהָיוּ בָּאִים מִן הַמִּלְחָמָה עֲיֵפִים, הוֹצִיא לֶחֶם וָיָיִן.
+- `radak:14:18:4` Radak on 14:18.8 14:18.9 14:18.10 14:18.11 «וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֽוֹן׃» (matched; filed at 14:18) DH «וְהוּא כֹהֵן לְאֵל עֶלְיוֹן.»: לֹא לַכּוֹכָבִים וְלַמַּזָּלוֹת, אֶלָּא לְאֵל עֶלְיוֹן לְבַדּוֹ הוּא מְשָׁרֵת וְעוֹבֵד, כְּמוֹ אַבְרָהָם וְהַנִּלְוִים אֵלָיו.
+- `onkelos:14:18:1` Targum Onkelos on whole 14:18 (version; filed at 14:18): וּמַלְכִּי צֶדֶק מַלְכָּא דִירוּשְׁלֶם אַפֵּיק לְחֵם וַחֲמָר וְהוּא מְשַׁמֵּשׁ קֳדָם אֵל עִלָּאָה:
+- `sforno:14:18:1` Sforno on 14:18.5 14:18.6 14:18.7 «הוֹצִ֖יא לֶ֣חֶם וָיָ֑יִן» (matched; filed at 14:18) DH «הוֹצִיא לֶחֶם וָיָיִן.»: לְשָׁבֵי הַמִּלְחָמָה הָעֲיֵפִים.
+- `sforno:14:18:2` Sforno on 14:18.8 14:18.9 «וְה֥וּא כֹהֵ֖ן» (matched; filed at 14:18) DH «וְהוּא כֹהֵן.»: וְלוֹ הָיָה נָאֶה לְבָרֵךְ.
+
+### Translation under review (14:18)
+
+English: Now Melchizedek, king of Salem, brought out bread and wine. He was a priest of God Most High.
+
+Literal: and-Malki-Tsedeq king-of Shalem brought-out bread and-wine and-he priest to-God Most-High
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 14:18.1 | and Melchizedek |  |  | name read as 'my king is righteousness' or 'king of righteousness' |
+| 14:18.2 | Melchizedek |  |  | second part of the name |
+| 14:18.3 | king of |  |  | construct |
+| 14:18.4 | Salem |  |  | Rashi: Shem; Ibn Ezra, Ramban: Jerusalem |
+| 14:18.5 | brought out |  | Hiph 1 | hifil perfect of יצא |
+| 14:18.6 | bread |  |  |  |
+| 14:18.7 | and wine |  |  |  |
+| 14:18.8 | and he |  |  |  |
+| 14:18.9 | priest |  |  |  |
+| 14:18.10 | of |  |  | לְ marking the deity served |
+| 14:18.11 | Most High |  |  | adjective used as a divine epithet |
+
+Phrases:
+- 14:18.1 14:18.2 14:18.3 14:18.4 | Now Melchizedek, king of Salem, | 'and-Malki-Tsedeq king-of Shalem'
+- 14:18.5 | brought out | hifil of יצא, 'caused to go out'
+- 14:18.6 14:18.7 | bread and wine | 'bread and-wine'; Rashi: food for men worn from war
+- 14:18.8 14:18.9 | He was a priest | 'and-he priest'
+- 14:18.10 14:18.11 | of God Most High | 'to-God Most-High'
+
+Grammar notes:
+- The proper name has two parts joined by maqqef, מַלְכִּי־צֶדֶק; the pashta pair on צֶדֶק marks it as a unit. The name can be read 'my king is Ṣedeq' or 'king of righteousness'.
+- הוֹצִיא is a hifil perfect, 'brought out'; the verb comes after its subject, so the clause is a new scene, not the next step in a chain of wayyiqtols.
+- וְהוּא כֹהֵן is a circumstantial clause giving his office: the pronoun opens the clause and the noun without article is the predicate.
+- אֵל עֶלְיוֹן: 'God Most High', the first appearance of the title.
+
+Translator's note: I give שָׁלֵם as Salem and record Jerusalem (Ibn Ezra, Ramban, Radak, citing Psalm 76:3). Rashi's 'Shem son of Noah' (so Radak) is recorded, not adopted, since it identifies the man and does not change the English. Ibn Ezra and Rashi hold that the bread and wine were for refreshment (Rashi: the custom for those weary from war), and the Targum's 'served' for כֹהֵן is taken as 'was priest'.
+
+Commentary rulings:
+- `rashi:14:18:1` records: Rashi: according to the aggada, Melchizedek is the name of Shem son of Noah (Nedarim 32). The English keeps the name only.
+- `rashi:14:18:2` follows: Rashi: so one treats those weary from battle, and he showed Abram he bore no grudge for killing his sons; the aggada has it hint at the offerings and libations. The English takes the plain sense of a meal for the weary.
+- `ibn-ezra:14:18:1` follows: Ibn Ezra: he was so called because he was king over a place of righteousness, though some say it is a personal name. The English keeps the name.
+- `ibn-ezra:14:18:2` records: Ibn Ezra: 'Salem is Jerusalem', proved by 'In Salem is his booth' (Psalm 76:3). The English prints 'Salem' and records the identification here.
+- `ibn-ezra:14:18:3` follows: Ibn Ezra: as the Aramaic translator has it, כֹהֵן means one who ministers, as in וְכִהֲנוּ לִי; Melchizedek spoke properly in blessing Abram first for his zeal to rescue captives. The English says he was priest of God Most High.
+- apparatus: Onkelos: 'Melchizedek king of Jerusalem brought out bread and wine, and he ministered before God Most High'.
+
+## Genesis 14:19
+
+Hebrew (MAM): וַֽיְבָרְכֵ֖הוּ וַיֹּאמַ֑ר בָּר֤וּךְ אַבְרָם֙ לְאֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 14:19.1 | וַֽיְבָרְכֵ֖הוּ | וַֽ + יְבָרְכֵ֖ + הוּ | ו: and + בָּרַךְ `bdb:b.dd.aa` +  | conjunction · verb: piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular · suffix: pronominal, 3rd person, masculine, singular | ברך | tipḥa (disjunctive) |
+| 14:19.2 | וַיֹּאמַ֑ר | וַ + יֹּאמַ֑ר | ו: and + אָמַר `bdb:a.ea.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | אמר | etnaḥta (disjunctive) |
+| 14:19.3 | בָּר֤וּךְ | בָּר֤וּךְ | בָּרַךְ `bdb:b.dd.aa` | verb: qal, participle passive, masculine, singular, absolute | ברך | mahpakh |
+| 14:19.4 | אַבְרָם֙ | אַבְרָם֙ | אַבְרָם `bdb:a.ae.aw` | noun: proper name | אבה | pashta (disjunctive) |
+| 14:19.5 | לְאֵ֣ל | לְ + אֵ֣ל | ל: to, for + אֵל `bdb:a.dl.ab` | preposition · noun: common, masculine, singular, absolute | אלה | munaḥ |
+| 14:19.6 | עֶלְי֔וֹן | עֶלְי֔וֹן | עֶלְיוֹן `bdb:p.cs.aj` | adjective: adjective, masculine, singular, absolute | עלה | zaqef qaton (disjunctive) |
+| 14:19.7 | קֹנֵ֖ה | קֹנֵ֖ה | קָנָה `bdb:s.cb.aa` | verb: qal, participle active, masculine, singular, construct | קנה | tipḥa (disjunctive) |
+| 14:19.8 | שָׁמַ֥יִם | שָׁמַ֥יִם | שָׁמַיִם `bdb:v.dy.ab` | noun: common, masculine, plural, absolute | שׁמה | merkha |
+| 14:19.9 | וָאָֽרֶץ׃ | וָ + אָֽרֶץ | ו: and + אֶ֫רֶץ `bdb:a.fx.aa` | conjunction · noun: common, both genders, singular, absolute | ארץ | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:14:19:1` Rashi **normative** on 14:19.7 14:19.8 14:19.9 «קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃» (matched; filed at 14:19) DH «קנה שמים וארץ.»: כְּמוֹ עֹשֵׂה שָׁמַיִם וָאָרֶץ (תה' קל"ד); עַל יְדֵי עֲשִׂיָּתָן קְנָאָן לִהְיוֹת שֶׁלּוֹ:
+- `ramban:14:19:1` Ramban on 14:19.7 14:19.8 14:19.9 «קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃» (matched; filed at 14:19) DH «קוֹנֵה שָׁמַיִם וָאָרֶץ»: כָּתַב רַשִׁ"י (רש"י על בראשית י"ד:י"ט), קוֹנֶה כְּמוֹ עֹשֶׂה, עַל יְדֵי עֲשִׂיָּתוֹ קְנָאָן לִהְיוֹת לוֹ. וְאֵלֶּה שְׁנֵי פָּנִים הֵם, וְאוּלַי כֵּן הַדָּבָר שֶׁיָּבֹא לְשׁוֹן קִנְיָן בְּעִנְיָן הָעֲשִׂיָּה, וְכֵן "כִּי אַתָּה קָנִיתָ כִלְיֹתָי" (תהלים קלט יג), שֶׁיִּכְפֹּל "תְּסוּכֵנִי בְּבֶטֶן אִמִּי", וְכֵן "הֲלֹא הוּא אָבִיךָ קָּנֶךָ הוּא עָשְׂךָ וַיְכֹנְנֶךָ" (דברים לב ו), כִּי הַלָּשׁוֹן יֹאמַר "קִנְיָן" בַּעֲשִׂיָּה, וְהַהֵפֶךְ "אֲשֶׁר עָשׂוּ בְחָרָן" (בראשית י"ב:ה'), קָנוּ, "וּמֵאֲשֶׁר לְאָבִינוּ עָשָׂה" (בראשית ל"א:א'). וְהַנָּכוֹן מָה שֶׁאָמַר עוֹד קְנָאָן לִהְיוֹת לוֹ, כִּי כָל אֲשֶׁר לָאָדָם יִקָּרֵא קִנְיָנוֹ, וְיִקְרְאוּ הַצֹּאן "מִקְנֶה" בַּעֲבוּר הֱיוֹתוֹ עִקַּר רְכוּשׁ הָאָדָם. וּלְשׁוֹן חֲכָמִים (ב"מ י), הַמַּגְבִּיהַּ מְצִיאָה לַחֲבֵרוֹ קָנָה חֲבֵרוֹ, הַבָּטָה בְּהֶפְקֵר קַנְיָא (שם קיח), חֲצֵרוֹ שֶׁל אָדָם קוֹנָה לוֹ שֶׁלֹּא מִדַּעְתּוֹ (שם יא), וְכֵן בְּכָל מָקוֹם תָּבוֹא לָהֶם בִּמְקוֹם זְכִיָּה, כְּלוֹמַר שֶׁהוּא שֶׁלּוֹ. וְלָזֶה נִתְכַּוֵּן אוּנְקְלוֹס (תרגום אונקלוס על בראשית י"ד:י"ט) שֶׁתִּרְגֵּם "דְּקִנְיָנֵהּ" וְלֹא אָמַר "קָנָה":
+- `radak:14:19:1` Radak on 14:19.7 «קֹנֵ֖ה» (matched; filed at 14:19) DH «קֹנֵה.»: אֵינוֹ לְשׁוֹן קוֹנֶה מֵאַחֵר, אֶלָּא הֲרֵי הוּא כְּאִלּוּ אָמַר, עוֹשֶׂה אוֹ מַמְצִיא, וְכֵן ״קָנִיתִי אִישׁ״ (בראשית ד:א) כְּמוֹ שֶׁפֵּרַשְׁתִּי.
+- `onkelos:14:19:1` Targum Onkelos on whole 14:19 (version; filed at 14:19): וּבָרְכֵיהּ וַאֲמָר בְּרִיךְ אַבְרָם לְאֵל עִלָּאָה דִּקִנְיָנֵיהּ שְׁמַיָּא וְאַרְעָא:
+- `sforno:14:19:1` Sforno on 14:19.1 14:19.2 14:19.3 14:19.4 14:19.5 14:19.6 «וַֽיְבָרְכֵ֖הוּ וַיֹּאמַ֑ר בָּר֤וּךְ אַבְרָם֙ לְאֵ֣ל עֶלְי֔וֹן» (matched; filed at 14:19) DH «וַיְבָרְכֵהוּ וַיֹּאמַר בָּרוּךְ אַבְרָם לְאֵל עֶלְיוֹן.»: רִאשׁוֹנָה בֵּרְכוֹ, וְאַחַר כָּךְ אָמַר: הִנֵּה בִּלְעֲדֵי בִּרְכָּתִי אַבְרָם הוּא בָּרוּךְ לְאֵל עֶלְיוֹן, כְּמוֹ שֶׁאָמַר (בראשית יב:ב) "וַאֲבָרֶכְךָ".
+- `sforno:14:19:2` Sforno on 14:19.7 14:19.8 14:19.9 «קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃» (matched; filed at 14:19) DH «קוֹנֶה שָׁמַיִם וָאָרֶץ.»: הַשָּׁמַיִם וְהָאָרֶץ הֵם קִנְיָן לוֹ לַעֲשׂוֹת בָּהֶם כִּרְצוֹנוֹ, כִּי אֵינוֹ לָהֶם סִבָּה טִבְעִית כְּמוֹ שֶׁחָשְׁבוּ קְצָת בַּעֲלֵי הַמֶּחְקָר, אֲבָל הוּא פּוֹעֵל רְצוֹנִי לָהֶם וּפוֹעֵל בָּהֶם כִּרְצוֹנוֹ.
+
+### Translation under review (14:19)
+
+English: He blessed him and said, "Blessed be Abram by God Most High, maker of heaven and earth."
+
+Literal: and-blessed-him and-said blessed Abram to-God Most-High maker-of heavens and-earth
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 14:19.1 | and he blessed him |  | Pi 3 | piel wayyiqtol with object suffix |
+| 14:19.2 | and he said |  | Qal 1 | wayyiqtol introducing speech |
+| 14:19.3 | blessed |  | Qal 2 | passive participle used as a blessing formula |
+| 14:19.4 | Abram |  |  |  |
+| 14:19.5 | by God |  | 6 | לְ here 'by', 'to', 'for'; the blessing comes from God |
+| 14:19.6 | Most High |  |  |  |
+| 14:19.7 | maker of |  | Qal 1 | construct participle; acquire or make |
+| 14:19.8 | heaven |  | 1.a |  |
+| 14:19.9 | and earth |  | 1.a |  |
+
+Phrases:
+- 14:19.1 | He blessed him | 'and-blessed-him'
+- 14:19.2 | and said | 'and-said'
+- 14:19.3 14:19.4 | Blessed be Abram | 'blessed Abram', passive participle in a wish
+- 14:19.5 14:19.6 | by God Most High | 'to-God Most-High'; the לְ is read as 'by', as in Ibn Ezra
+- 14:19.7 14:19.8 14:19.9 | maker of heaven and earth | 'maker-of heavens and-earth'; Rashi: קֹנֶה is like עֹשֶׂה, and by making them he made them his own
+
+Grammar notes:
+- וַיְבָרְכֵהוּ is a piel wayyiqtol with the object suffix, followed by a second wayyiqtol that introduces the blessing itself.
+- בָּרוּךְ is a passive participle; there is no verb 'be', so the wish is a verbless clause 'blessed Abram to God Most High'.
+- קֹנֵה is a construct participle of קנה; it can mean 'buyer', 'owner', or 'maker', the last attested for the root in Deuteronomy 32:6 and Psalm 139:13.
+- The accents divide the blessing: the zaqef on עֶלְיוֹן separates the blessing from the title 'maker of heaven and earth'.
+
+Translator's note: קֹנֵה is read 'maker' with Rashi, Radak and the Targum's discussion by Ramban; Rashi adds that making them he acquired them as his own. The sense 'owner' is the other real reading and is recorded in the commentary entries. The נ in בָּרוּךְ is a Qal passive participle.
+
+Commentary rulings:
+- `rashi:14:19:1` follows: Rashi: קֹנֵה is like עֹשֵׂה (Psalm 134), and by making heaven and earth he acquired them to be his. The English takes 'maker' and records 'acquirer' here.
+- apparatus: Onkelos has 'to God Most High whose possession is heaven and earth' (דִּקִנְיָנֵיהּ); Radak says 'make or provide'; Sforno 'heaven and earth are a possession for him'.
+
+## Genesis 14:20
+
+Hebrew (MAM): וּבָרוּךְ֙ אֵ֣ל עֶלְי֔וֹן אֲשֶׁר־מִגֵּ֥ן צָרֶ֖יךָ בְּיָדֶ֑ךָ וַיִּתֶּן־ל֥וֹ מַעֲשֵׂ֖ר מִכֹּֽל׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 14:20.1 | וּבָרוּךְ֙ | וּ + בָרוּךְ֙ | ו: and + בָּרַךְ `bdb:b.dd.aa` | conjunction · verb: qal, participle passive, masculine, singular, absolute | ברך | pashta (disjunctive) |
+| 14:20.2 | אֵ֣ל | אֵ֣ל | אֵל `bdb:a.dl.ab` | noun: common, masculine, singular, absolute | אלה | munaḥ |
+| 14:20.3 | עֶלְי֔וֹן | עֶלְי֔וֹן | עֶלְיוֹן `bdb:p.cs.aj` | adjective: adjective, masculine, singular, absolute | עלה | zaqef qaton (disjunctive) |
+| 14:20.4 | אֲשֶׁר־ | אֲשֶׁר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר |  |
+| 14:20.5 | מִגֵּ֥ן | מִגֵּ֥ן | מָגַן `bdb:c.cp.ai` | verb: piel, perfect (qatal), 3rd person, masculine, singular | גנן | merkha |
+| 14:20.6 | צָרֶ֖יךָ | צָרֶ֖י + ךָ | צַר `bdb:r.ea.ab` +  | noun: common, masculine, plural, construct · suffix: pronominal, 2nd person, masculine, singular | צרר | tipḥa (disjunctive) |
+| 14:20.7 | בְּיָדֶ֑ךָ | בְּ + יָדֶ֑ + ךָ | ב: in, with, by + יָד `bdb:j.aq.aa` +  | preposition · noun: common, both genders, singular, construct · suffix: pronominal, 2nd person, masculine, singular |  | etnaḥta (disjunctive) |
+| 14:20.8 | וַיִּתֶּן־ | וַ + יִּתֶּן | ו: and + נָתַן `bdb:n.gg.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | נתן |  |
+| 14:20.9 | ל֥וֹ | ל֥ + וֹ | ל: to, for +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | merkha |
+| 14:20.10 | מַעֲשֵׂ֖ר | מַעֲשֵׂ֖ר | מַעֲשֵׂר `bdb:p.gb.ai` | noun: common, masculine, singular, absolute | עשׂר | tipḥa (disjunctive) |
+| 14:20.11 | מִכֹּֽל׃ | מִ + כֹּֽל | מ: from, than + כֹּל `bdb:k.bn.ab` | preposition · noun: common, masculine, singular, absolute | כלל | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:14:20:1` Rashi **normative** on 14:20.4 14:20.5 «אֲשֶׁר מִגֵּ֥ן» (matched; filed at 14:20) DH «אשר מגן.»: אֲשֶׁר הִסְגִּיר, וְכֵן אֲמַגֶּנְךָ יִשְׂרָאֵל (הושע י"א):
+- `rashi:14:20:2` Rashi **normative** on 14:20.8 14:20.9 «וַיִּתֶּן ל֥וֹ» (matched; filed at 14:20) DH «ויתן לו.»: אַבְרָהָם
+- `rashi:14:20:3` Rashi **normative** on 14:20.10 14:20.11 «מַעֲשֵׂ֖ר מִכֹּֽל׃» (matched; filed at 14:20) DH «מעשר מכל»: אֲשֶׁר לוֹ, לְפִי שֶׁהָיָה כֹהֵן:
+- `ibn-ezra:14:20:1` Ibn Ezra **normative** on 14:20.5 «מִגֵּ֥ן» (matched; filed at 14:20) DH «מגן.»: כמו נתן, וכן "עטרת תפארת תמגנך" (משלי, ד, ט), והמ"ם שרש, ואברם הוציא המעשר לכבוד השם, ולא מצא אדם לתתם לו כמלכי צדק:
+- `ramban:14:20:1` Ramban on 14:20.8 14:20.9 14:20.10 14:20.11 «וַיִּתֶּן ל֥וֹ מַעֲשֵׂ֖ר מִכֹּֽל׃» (matched; filed at 14:20) DH «וַיִּתֶּן לוֹ מַעֲשֵׂר מִכֹּל»: אַבְרָהָם לֹא רָצָה לָקַחַת לְעַצְמוֹ מִחוּט וְעַד שְׂרוֹךְ נַעַל אֲבָל חֵלֶק הַגָּבוֹהַּ הִפְרִישׁ לְתִתּוֹ לַכֹּהֵן וּמֶלֶךְ סְדוֹם יָצָא לִקְרַאת אַבְרָהָם אֶל עֵמֶק שָׁוֶה לְכַבְּדוֹ וְהָלַךְ עִמּוֹ עַד שָׁלֵם שֶׁהוֹצִיא מַלְכִּי צֶדֶק לֶחֶם וְיַיִן לָעָם אֲשֶׁר בְּרַגְלָיו וְלֹא בִּקֵּשׁ מֶלֶךְ סְדוֹם מִמֶּנּוּ דָּבָר אֲבָל כַּאֲשֶׁר רָאָה נְדִיבַת לִבּוֹ וְצִדְקָתוֹ שֶׁנָּתַן הַמַּעֲשֵׂר אָז בִּקֵּשׁ גַּם הוּא הַנֶּפֶשׁ בְּדֶרֶךְ צְדָקָה וְאַבְרָהָם בָּטַח בֵּאלֹהָיו שֶׁיִּתֵּן לוֹ עֹשֶׁר וּנְכָסִים וְכָבוֹד וְלֹא רָצָה לָקַחַת מִמֶּנּוּ דָּבָר וְהֵשִׁיב לוֹ כָּל רְכוּשׁ סְדוֹם שֶׁהוּא שֶׁלּוֹ וְכָל רְכוּשׁ עֲמֹרָה לְהָשִׁיב אוֹתוֹ לִבְעָלָיו כִּי בַּכֹּל בִּקֵּשׁ מִמֶּנּוּ הַנֶּפֶשׁ וּבַכֹּל הָיְתָה טַעֲנָתוֹ שֶׁלֹּא יֹאמְרוּ הֵם הֶעֱשִׁירוּ אֶת אַבְרָם וּשְׁאָר הַמְּקוֹמוֹת הַנִּזְכָּרִים לְפִי חֶרֶב הִכּוּ אוֹתָם וְלֹא לָקְחוּ מֵעָרֵי הַמְּלָכִים רַק רְכוּשׁ סְדוֹם וַעֲמֹרָה כִּי בַּעֲבוּר שֶׁאִבְּדוּ מַלְכֵיהֶם נִשְׁאֲרוּ עֲזוּבוֹת עָרֵיהֶם וְיִתָּכֵן שֶׁיִּהְיֶה זֶה מָה שֶׁאָמַר "אִם מִחוּט וְעַד שְׂרוֹךְ" יִשָּׁאֵר בְּיָדִי מִכָּל הָרְכוּשׁ הַבָּא אֵלַי מִכֻּלְּכֶם "וְאִם אֶקַּח מִכָּל אֲשֶׁר לָךְ" בִּרְכוּשְׁךָ שֶׁנָּתַתָּ אַתָּה לִי:
+- `radak:14:20:1` Radak on 14:20.1 14:20.2 14:20.3 «וּבָרוּךְ֙ אֵ֣ל עֶלְי֔וֹן» (matched; filed at 14:20) DH «וּבָרוּךְ אֵל עֶלְיוֹן.»: שִׁנָּה בָּזֶה הַשֵּׁם לֵאמֹר אֵל עֶלְיוֹן, וְאַבְרָם גַּם כֵּן נִשְׁבַּע בָּזֶה הַשֵּׁם לְהוֹצִיא מִלֵּב הַשּׁוֹמְעִים אוֹתָם הָעוֹבְדִים לֵאלֹהִים אֲחֵרִים וְכִי אֵין לַעֲבֹד אֶלָּא לַה׳ לְבַדּוֹ וְהוּא עֶלְיוֹן עַל כָּל הָעֶלְיוֹנִים וַאֲדוֹן הַתַּחְתּוֹנִים וְהָעֶלְיוֹנִים.
+- `radak:14:20:2` Radak on 14:20.5 14:20.6 «מִגֵּ֥ן צָרֶ֖יךָ» (matched; filed at 14:20) DH «מִגֵּן צָרֶיךָ.»: מְסָרָם בְּיָדֶיךָ, וְכֵן ״אֲמַגֶּנְךָ יִשְׂרָאֵל״ (הושע יא:ח). וְאָמַר
+- `radak:14:20:3` Radak on 14:20.6 «צָרֶ֖יךָ» (matched; filed at 14:20) DH «צָרֶיךָ»: אַף עַל פִּי שֶׁהֵם לֹא הָיוּ בְּנֵי מִלְחַמְתּוֹ וְלֹא הָיָה לָהֶם דָּבָר עִמָּהֶם, כֵּיוָן שֶׁשָּׁבוּ בֶּן אָחִיו וּרְכוּשׁוֹ הֲרֵי הֵם צָרָיו, כִּי אַבְרָם בַּעַל הַשֵּׁם הָיָה וְלוֹט הָיָה יָדוּעַ שֶׁהוּא בֶּן אָחִיו וְלֹא הִנִּיחוּהוּ לְאַהֲבַת אַבְרָם.
+- `radak:14:20:4` Radak on 14:20.8 14:20.9 14:20.10 14:20.11 «וַיִּתֶּן ל֥וֹ מַעֲשֵׂ֖ר מִכֹּֽל׃» (matched; filed at 14:20) DH «וַיִּתֶּן־לוֹ מַעֲשֵׂר מִכֹּל.»: הַמְפָרְשִׁים פֵּרְשׁוּ, כִּי אַבְרָם נָתַן לְמַלְכִּי צֶדֶק מַעֲשֵׂר מֵהַמִּקְנֶה וְהָרְכוּשׁ אֲשֶׁר הִצִּיל לְפִי שֶׁהָיָה כֹּהֵן לְאֵל עֶלְיוֹן; וַאֲדוֹנִי אָבִי זִכְרוֹנוֹ לִבְרָכָה פֵּרַשׁ כִּי מַלְכִּי צֶדֶק נָתַן לְאַבְרָהָם בִּשְׂכָרוֹ הַמַּעֲשֵׂר מִן הַדִּין, כִּי הַמֶּלֶךְ סְדֹם אָמַר לְאַבְרָם ״תֶּן־לִי הַנֶּפֶשׁ וְהָרְכֻשׁ קַח־לָךְ״ (בראשית יד:כא), וְאַבְרָהָם אָמַר ״אִם־מִחוּט וְעַד שְׂרוֹךְ־נַעַל״ (בראשית יד:כג), אָמַר מַלְכִּי צֶדֶק לְאַבְרָהָם מִן הַדִּין תּוּכַל לָקַחַת הַמַּעֲשֵׂר מִן הַכֹּל וְלֹא תִקַּח דָּבָר מִמֶּלֶךְ סְדֹם כִּי שֶׁלְּךָ הוּא הַמַּעֲשֵׂר מִן הַדִּין, כִּי כָּל מַצִּיל מָמוֹן חֲבֵרוֹ הַמַּעֲשֵׂר הוּא שֶׁלּוֹ עַל שֶׁטָּרַח לְהַצִּילוֹ, וְנָכוֹן הוּא הַפֵּרוּשׁ, כִּי יֵשׁ לִתְמֹהַּ לְדַעַת הַמְפָרְשִׁים אֵיךְ הָיָה נוֹתֵן אַבְרָם מִשֶּׁל מֶלֶךְ סְדֹם לְמַלְכִּי צֶדֶק וְהוּא לֹא רָצָה לָקַחַת לְעַצְמוֹ וְיִתֵּן לַאֲחֵרִים, זֶה לֹא יִתָּכֵן.
+- `onkelos:14:20:1` Targum Onkelos on whole 14:20 (version; filed at 14:20): וּבְרִיךְ אֵל עִלָּאָה דִּמְסַר סָנְאָךְ בִּידָךְ וִיהַב לֵיהּ חַד מִן עַסְרָא מִכֹּלָּא:
+- `sforno:14:20:1` Sforno on 14:20.1 14:20.2 14:20.3 «וּבָרוּךְ֙ אֵ֣ל עֶלְי֔וֹן» (matched; filed at 14:20) DH «וּבָרוּךְ אֵל עֶלְיוֹן.»: פֹּעַל זֶה שֶׁפָּעַל לְהַגְבִּיר אַבְרָהָם עַל אוֹיְבָיו הוּא בְּרָכָה לוֹ יִתְבָּרַךְ, כִּי בּוֹ יִשְׂמַח בְּמַעֲשָׂיו בַּאֲבוֹד רְשָׁעִים וּבַעֲלוֹז צַדִּיקִים, כְּעִנְיָן "שַׁבְּחוּהוּ כָּל הָאוּמִּים כִּי גָבַר עָלֵינוּ חַסְדּוֹ" (תהלים קיז:א-ב).
+
+### Translation under review (14:20)
+
+English: And blessed be God Most High, who has delivered your enemies into your hand. And Abram gave him a tenth of everything.
+
+Literal: and-blessed God Most-High who delivered your-foes in-your-hand and-gave to-him tenth from-all
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 14:20.1 | and blessed |  | Qal 2 | passive participle in a blessing formula |
+| 14:20.2 | God |  | 6 |  |
+| 14:20.3 | Most High |  |  |  |
+| 14:20.4 | who |  |  |  |
+| 14:20.5 | delivered |  |  | piel perfect of מגן; 'handed over' |
+| 14:20.6 | your enemies |  |  | construct plural with suffix |
+| 14:20.7 | into your hand |  |  | בְּ with יָד, 'in your hand' |
+| 14:20.8 | and he gave |  | Qal 1 | wayyiqtol; Rashi: the subject is Abram |
+| 14:20.9 | to him |  |  |  |
+| 14:20.10 | a tenth |  |  |  |
+| 14:20.11 | of everything |  |  |  |
+
+Phrases:
+- 14:20.1 14:20.2 14:20.3 | And blessed be God Most High | 'and-blessed God Most-High'
+- 14:20.4 14:20.5 | who has delivered | 'who delivered'; Rashi: הִסְגִּיר, handed over
+- 14:20.6 14:20.7 | your enemies into your hand | 'your-foes in-your-hand'
+- 14:20.8 14:20.9 | And Abram gave him | 'and-gave to-him', the subject Abram supplied after Rashi
+- 14:20.10 14:20.11 | a tenth of everything | 'tenth from-all'
+
+Grammar notes:
+- מִגֵּן is a piel perfect of a root that otherwise yields 'shield'; here it takes the sense 'deliver up', as Rashi and Ibn Ezra say.
+- צָרֶיךָ is a plural construct (צָרֵי) with the suffix ךָ: 'your adversaries'.
+- The pashta on בָּרוּךְ and the zaqef on עֶלְיוֹן divide the blessing from its relative clause.
+- וַיִּתֶּן־לוֹ has no stated subject; the reader must decide who gives to whom, and Rashi says Abram gave.
+
+Translator's note: Rashi and Ibn Ezra agree that מִגֵּן means 'handed over', like נָתַן, and the English follows them rather than 'shielded'. The subject of וַיִּתֶּן is Abram (Rashi, Ibn Ezra); the other reading, that Melchizedek gave Abram a tithe, is a real alternative that the Hebrew does not exclude, and I do not adopt it.
+
+Commentary rulings:
+- `rashi:14:20:1` follows: Rashi: אֲשֶׁר מִגֵּן means 'who handed over', like אֲמַגֶּנְךָ יִשְׂרָאֵל (Hosea 11).
+- `rashi:14:20:2` follows: Rashi: the giver is Abraham. The English names Abram.
+- `rashi:14:20:3` follows: Rashi: the tithe was from all that Abram had, because Melchizedek was a priest. The English says 'of everything'.
+- `ibn-ezra:14:20:1` follows: Ibn Ezra: מִגֵּן is like נָתַן, as in 'a crown of glory she shall deliver you' (Proverbs 4:9); the מ is a root letter; Abram took out the tithe in honor of God and found no one fitter than Melchizedek.
+
+## Genesis 14:21
+
+Hebrew (MAM): וַיֹּ֥אמֶר מֶֽלֶךְ־סְדֹ֖ם אֶל־אַבְרָ֑ם תֶּן־לִ֣י הַנֶּ֔פֶשׁ וְהָרְכֻ֖שׁ קַֽח־לָֽךְ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 14:21.1 | וַיֹּ֥אמֶר | וַ + יֹּ֥אמֶר | ו: and + אָמַר `bdb:a.ea.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | אמר | merkha |
+| 14:21.2 | מֶֽלֶךְ־ | מֶֽלֶךְ | מֶ֫לֶךְ `bdb:m.cd.ab` | noun: common, masculine, singular, construct | מלך |  |
+| 14:21.3 | סְדֹ֖ם | סְדֹ֖ם | סְדֹם `bdb:o.aj.ad` | noun: proper name |  | tipḥa (disjunctive) |
+| 14:21.4 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 14:21.5 | אַבְרָ֑ם | אַבְרָ֑ם | אַבְרָם `bdb:a.ae.aw` | noun: proper name | אבה | etnaḥta (disjunctive) |
+| 14:21.6 | תֶּן־ | תֶּן | נָתַן `bdb:n.gg.aa` | verb: qal, imperative, 2nd person, masculine, singular | נתן |  |
+| 14:21.7 | לִ֣י | לִ֣ + י | ל: to, for +  | preposition · suffix: pronominal, 1st person, common, singular |  | munaḥ |
+| 14:21.8 | הַנֶּ֔פֶשׁ | הַ + נֶּ֔פֶשׁ | ה: the + נֶ֫פֶשׁ `bdb:n.en.ab` | particle: definite article · noun: common, both genders, singular, absolute | נפשׁ | zaqef qaton (disjunctive) |
+| 14:21.9 | וְהָרְכֻ֖שׁ | וְ + הָ + רְכֻ֖שׁ | ו: and + ה: the + רְכוּשׁ `bdb:t.cu.ac` | conjunction · particle: definite article · noun: common, masculine, singular, absolute | רכשׁ | tipḥa (disjunctive) |
+| 14:21.10 | קַֽח־ | קַֽח | לָקַח `bdb:l.bx.aa` | verb: qal, imperative, 2nd person, masculine, singular | לקח |  |
+| 14:21.11 | לָֽךְ׃ | לָֽ + ךְ | ל: to, for +  | preposition · suffix: pronominal, 2nd person, feminine, singular |  | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:14:21:1` Rashi **normative** on 14:21.6 14:21.7 14:21.8 «תֶּן לִ֣י הַנֶּ֔פֶשׁ» (matched; filed at 14:21) DH «תן לי הנפש.»: מִן הַשְּׁבִי שֶׁלִּי שֶׁהִצַּלְתָּ, הַחֲזֵר לִי הַגּוּפִים לְבַדָּם:
+- `radak:14:21:1` Radak on 14:21.1 14:21.2 14:21.3 «וַיֹּ֥אמֶר מֶֽלֶךְ סְדֹ֖ם» (matched; filed at 14:21) DH «וַיֹּאמֶר מֶלֶךְ־סְדֹם.»: לְפֵרוּשׁ אֲדֹנִי אָבִי זִכְרוֹנָם לִבְרָכָה פֵּרוּשׁוֹ, וּכְבָר אָמַר קֹדֶם שֶׁאָמַר מַלְכִּי צֶדֶק כִּי הַמַּעֲשֵׂר לְאַבְרָם.
+- `onkelos:14:21:1` Targum Onkelos on whole 14:21 (version; filed at 14:21): וַאֲמַר מַלְכָּא דִסְדוֹם לְאַבְרָם הַב לִי נַפְשָׁתָא וְקִנְיָנָא דְּבַר (נ"א סַב) לָךְ:
+
+### Translation under review (14:21)
+
+English: The king of Sodom said to Abram, "Give me the people, and take the goods for yourself."
+
+Literal: and-said king-of Sodom to Abram give to-me the-person and-the-goods take for-you
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 14:21.1 | and he said |  | Qal 1 | wayyiqtol |
+| 14:21.2 | king of |  |  | construct |
+| 14:21.3 | Sodom |  |  |  |
+| 14:21.4 | to |  | 1 |  |
+| 14:21.5 | Abram |  |  |  |
+| 14:21.6 | give |  | Qal 1 | imperative |
+| 14:21.7 | to me |  |  |  |
+| 14:21.8 | the people |  | 1 | collective singular; Rashi: the persons, the bodies |
+| 14:21.9 | and the goods |  |  |  |
+| 14:21.10 | take |  | Qal 1 | imperative |
+| 14:21.11 | for yourself |  |  | ethic dative; the suffix is written with a qamets and a silluq, feminine in form but masculine in sense |
+
+Phrases:
+- 14:21.1 14:21.2 14:21.3 | The king of Sodom said | 'and-said king-of Sodom'
+- 14:21.4 14:21.5 | to Abram | 'to Abram'
+- 14:21.6 14:21.7 14:21.8 | Give me the people | 'give to-me the-nefesh'; Rashi: the persons themselves
+- 14:21.9 14:21.10 14:21.11 | and take the goods for yourself | 'and-the-goods take for-you': the verb stands after its object
+
+Grammar notes:
+- נֶפֶשׁ with the article is a collective singular, 'the persons'; the word does not mean 'soul' here but the living captives.
+- The two imperatives תֶּן and קַח are set against each other: the king asks for the people and offers the goods.
+- הָרְכֻשׁ is placed before its verb for contrast with הַנֶּפֶשׁ.
+- The suffix of לָךְ is written ךְ with a qamets, an old form of the second-person masculine.
+
+Translator's note: The pack parses the suffix of לָךְ as feminine; the form is the pausal ךְ spelling, and the sense is addressed to Abram. I keep the pack's data and note it here. 'The people' follows Rashi's 'the bodies alone'.
+
+Commentary rulings:
+- `rashi:14:21:1` follows: Rashi: 'from my captives whom you rescued, return to me the bodies alone'. The English takes נֶפֶשׁ as the captured persons.
+
+## Genesis 14:22
+
+Hebrew (MAM): וַיֹּ֥אמֶר אַבְרָ֖ם אֶל־מֶ֣לֶךְ סְדֹ֑ם הֲרִמֹ֨תִי יָדִ֤י אֶל־יְהֹוָה֙ אֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 14:22.1 | וַיֹּ֥אמֶר | וַ + יֹּ֥אמֶר | ו: and + אָמַר `bdb:a.ea.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | אמר | merkha |
+| 14:22.2 | אַבְרָ֖ם | אַבְרָ֖ם | אַבְרָם `bdb:a.ae.aw` | noun: proper name | אבה | tipḥa (disjunctive) |
+| 14:22.3 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 14:22.4 | מֶ֣לֶךְ | מֶ֣לֶךְ | מֶ֫לֶךְ `bdb:m.cd.ab` | noun: common, masculine, singular, construct | מלך | munaḥ |
+| 14:22.5 | סְדֹ֑ם | סְדֹ֑ם | סְדֹם `bdb:o.aj.ad` | noun: proper name |  | etnaḥta (disjunctive) |
+| 14:22.6 | הֲרִמֹ֨תִי | הֲרִימֹ֨תִי | רוּם `bdb:t.bm.aa` | verb: hifil, perfect (qatal), 1st person, common, singular | רום | qadma |
+| 14:22.7 | יָדִ֤י | יָדִ֤ + י | יָד `bdb:j.aq.aa` +  | noun: common, both genders, singular, construct · suffix: pronominal, 1st person, common, singular |  | mahpakh |
+| 14:22.8 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 14:22.9 | יְהֹוָה֙ | יְהוָה֙ | יהוה `bdb:e.az.ae` | noun: proper name | הוה | pashta (disjunctive) |
+| 14:22.10 | אֵ֣ל | אֵ֣ל | אֵל `bdb:a.dl.ab` | noun: common, masculine, singular, absolute | אלה | munaḥ |
+| 14:22.11 | עֶלְי֔וֹן | עֶלְי֔וֹן | עֶלְיוֹן `bdb:p.cs.aj` | adjective: adjective, masculine, singular, absolute | עלה | zaqef qaton (disjunctive) |
+| 14:22.12 | קֹנֵ֖ה | קֹנֵ֖ה | קָנָה `bdb:s.cb.aa` | verb: qal, participle active, masculine, singular, construct | קנה | tipḥa (disjunctive) |
+| 14:22.13 | שָׁמַ֥יִם | שָׁמַ֥יִם | שָׁמַיִם `bdb:v.dy.ab` | noun: common, masculine, plural, absolute | שׁמה | merkha |
+| 14:22.14 | וָאָֽרֶץ׃ | וָ + אָֽרֶץ | ו: and + אֶ֫רֶץ `bdb:a.fx.aa` | conjunction · noun: common, both genders, singular, absolute | ארץ | silluq (disjunctive) |
+
+Variants:
+- 14:22.6 spelling: WLC reads הֲרִימֹ֨תִי; base הֲרִמֹ֨תִי
+
+
+### Commentary anchored to this verse
+
+- `rashi:14:22:1` Rashi **normative** on 14:22.6 14:22.7 «הֲרִמֹ֨תִי יָדִ֤י» (matched; filed at 14:22) DH «הרימתי ידי.»: לְשׁוֹן שְׁבוּעָה, מֵרִים אֲנִי אֶת יָדִי לְאֵל עֶלְיוֹן, וְכֵן בִּי נִשְׁבַּעְתִּי (בר' כ"ב), נִשְׁבַּע אֲנִי, וְכֵן נָתַתִּי כֶּסֶף הַשָּׂדֶה קַח מִמֶּנִּי (שם כ"ג), נוֹתֵן אֲנִי לְךָ כֶּסֶף הַשָּׂדֶה, קָחֵהוּ מִמֶּנִּי:
+- `ibn-ezra:14:22:1` Ibn Ezra **normative** on 14:22.6 14:22.7 «הֲרִמֹ֨תִי יָדִ֤י» (matched; filed at 14:22) DH «הרימותי ידי.»: שבועה, כמו "כי אשא אל שמים ידי" (דבר' לב מ),
+- `ibn-ezra:14:22:2` Ibn Ezra **normative** on 14:22.8 14:22.11 «אֶל עֶלְי֔וֹן» (matched-unbolded; filed at 14:22) DH «אל עליון,»: וטעם אל עליון, כי הנה נשבעתי בשם שברכני זה הכהן:
+- `ramban:14:22:1` Ramban on whole 14:22 (segment; filed at 14:22): וְטַעַם
+- `ramban:14:22:2` Ramban on 14:22.6 14:22.7 14:22.8 14:22.9 «הֲרִמֹ֨תִי יָדִ֤י אֶל יְהֹוָה֙» (matched; filed at 14:22) DH «הֲרִימֹתִי יָדִי אֶל ה'»: לְשׁוֹן שְׁבוּעָה, מֵרִים אֲנִי יָדִי לְאֵל עֶלְיוֹן, וְכֵן "בִּי נִשְׁבַּעְתִּי" (בראשית כ"ב:ט"ז), נִשְׁבָּע אֲנִי, לְשׁוֹן רַשִׁ"י (רש"י על בראשית י"ד:כ"ב). וְכֵן מָצָאתִי בַּסִּפְרֵי (ואתחנן לג), מָצִינוּ בְּכָל הַצַּדִּיקִים שֶׁמַּשְׁבִּיעִין אֶת יִצְרָן שֶׁלֹּא לַעֲשׂוֹת, בְּאַבְרָהָם הוּא אוֹמֵר "הֲרִימֹתִי יָדִי אֶל ה'". וְהִנֵּה הוּא כִּלְשׁוֹן "וַיָּרֶם יְמִינוֹ וּשְׂמֹאלוֹ אֶל הַשָּׁמַיִם וַיִּשָּׁבַע בְּחֵי הָעוֹלָם" (דניאל יב ז). וְאוּנְקְלוֹס (תרגום אונקלוס על בראשית י"ד:כ"ב) אָמַר "אֲרֵימִית יָדִי בִּצְלוֹ קֳדָם ה'", יֹאמַר הִתְפַּלַּלְתִּי אֶל ה' וְכַפַּי פְּרוּשׂוֹת הַשָּׁמַיִם, אִם אֶקַּח מִכָּל אֲשֶׁר לָךְ, כְּלוֹמַר כֹּה יַעֲשֶׂה לִּי אֱלֹהִים וְכֹה יוֹסִיף אִם אֶקַּח. וְהַנָּכוֹן בְּעֵינַי כִּי אָמַר "הֲרִימֹתִי יָדִי אֶל ה'", לִהְיוֹת הֶקְדֵּשׁ וְחֵרֶם לְפָנָיו אִם אֶקַּח מִכָּל אֲשֶׁר לָךְ, כִּי הַהֶקְדֵּשׁוֹת יִקָּרְאוּ כֵן "תְּרוּמַת יָד", כִּלְשׁוֹן "כָּל מֵרִים תְּרוּמַת כֶּסֶף וּנְחֹשֶׁת" (שמות לה כד), "וְכָל אִישׁ אֲשֶׁר הֵנִיף תְּנוּפַת זָהָב לַה'" (שם כב). וְאָמַר כֵּן בַּעֲבוּר שֶׁנָּתַן מִמֶּנּוּ מַעֲשֵׂר, כִּי כָל אֲשֶׁר יִקַּח מִכָּל אֲשֶׁר לוֹ יִהְיֶה תְּרוּמָה לַה', לֹא יֵהָנֶה מִמֶּנּוּ דָּבָר. וּבִבְרֵאשִׁית רַבָּה (בראשית רבה מ"ג:ט'), עֲשָׂאָן תְּרוּמָה, כְּמָה דְּאַתְּ אָמַר (במדבר יח כו) "וַהֲרֵמֹתֶם מִמֶּנּוּ תְּרוּמַת ה'":
+- `radak:14:22:1` Radak on 14:22.6 14:22.7 «הֲרִמֹ֨תִי יָדִ֤י» (matched; filed at 14:22) DH «הֲרִמֹתִי יָדִי.»: הִנְנִי מֵרִים, וְכֵן ״נָתַתִּי כֶּסֶף הַשָּׂדֶה״, עִם הֲרָמַת יָד הוּא הַשְּׁבוּעָה, וְכֵן ״וַיָּרֶם יְמִינוֹ וּשְׂמֹאלוֹ אֶל הַשָּׁמַיִם וַיִּשָּׁבַע״ (דניאל יב:ז), וּפַעַם לֹא יִזָּכֵר הַשְּׁבוּעָה אֶלָּא הֲרָמַת יָד לְבַד, כְּמוֹ ״אֲשֶׁר נָשָׂאתִי אֶת יָדִי״ (שמות ו:ח).
+- `onkelos:14:22:1` Targum Onkelos on whole 14:22 (version; filed at 14:22): וַאֲמַר אַבְרָם לְמַלְכָּא דִסְדוֹם אֲרֵימִית יְדַי בִּצְלוֹ קֳדָם יְיָ קֳדָם אֵל עִלָּאָה דִּקִנְיָנֵיהּ שְׁמַיָּא וְאַרְעָא:
+- `sforno:14:23:2` Sforno on 14:22.6 «הֲרִמֹ֨תִי» (shifted; filed at 14:23) DH «הֲרִימוֹתִי»: יָדִי שֶׁלֹּא מִחוּט וְעַד שְׂרוֹךְ נַעַל אוּכַל לִיתֵּן לְךָ שֶׁאֵין בְּיָדִי כְּלוּם וְשֶׁלֹּא
+
+### Translation under review (14:22)
+
+English: Abram said to the king of Sodom, "I raise my hand in oath to the LORD, God Most High, maker of heaven and earth."
+
+Literal: and-said Abram to king-of Sodom I-raise my-hand to YHWH God Most-High maker-of heavens and-earth
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 14:22.1 | and he said |  | Qal 1 | wayyiqtol |
+| 14:22.2 | Abram |  |  |  |
+| 14:22.3 | to |  | 1 |  |
+| 14:22.4 | king of |  |  | construct |
+| 14:22.5 | Sodom |  |  |  |
+| 14:22.6 | I raise |  | Hiph 1.b | hifil perfect; the perfect of a performative oath, 'I hereby raise' |
+| 14:22.7 | my hand |  | 1 | hand lifted in the oath |
+| 14:22.8 | to |  | 3 |  |
+| 14:22.9 | the LORD |  |  | יְהוָה |
+| 14:22.10 | God |  | 6 |  |
+| 14:22.11 | Most High |  |  |  |
+| 14:22.12 | maker of |  | Qal 1 | construct participle |
+| 14:22.13 | heaven |  | 1.a |  |
+| 14:22.14 | and earth |  | 1.a |  |
+
+Phrases:
+- 14:22.1 14:22.2 | Abram said | 'and-said Abram'
+- 14:22.3 14:22.4 14:22.5 | to the king of Sodom | 'to king-of Sodom'
+- 14:22.6 14:22.7 | I raise my hand in oath | 'I-raise my-hand'; Rashi, Ibn Ezra: an oath
+- 14:22.8 14:22.9 | to the LORD | 'to YHWH'
+- 14:22.10 14:22.11 | God Most High | 'God Most-High'
+- 14:22.12 14:22.13 14:22.14 | maker of heaven and earth | 'maker-of heavens and-earth'
+
+Grammar notes:
+- הֲרִמֹתִי is a hifil perfect with a performative sense: the act of raising the hand is the oath, as Rashi's parallel with 'I have sworn' (22:16) shows.
+- The name יְהוָה is added to Melchizedek's title: Abram says 'the LORD, God Most High', identifying the two.
+- The oath continues through verse 24 and does not end at the silluq.
+- The qadma on הֲרִמֹתִי and the mahpakh on יָדִי hold the oath formula together.
+
+Translator's note: The English renders the gesture and gives its sense, an oath, with Rashi and Ibn Ezra, who agree. Abram adds the divine name יְהוָה to the title used by Melchizedek (Ibn Ezra: 'I swore by the name by which this priest blessed me').
+
+Commentary rulings:
+- `rashi:14:22:1` follows: Rashi: the phrase is the language of an oath: 'I raise my hand to God Most High', like 'I have sworn by myself' (22:16) and 'I give you the field' (23:13). The English says 'in oath'.
+- `ibn-ezra:14:22:1` follows: Ibn Ezra: an oath, as in 'I raise my hand to heaven' (Deuteronomy 32:40).
+- `ibn-ezra:14:22:2` follows: Ibn Ezra: the sense of אֵל עֶלְיוֹן is that I swore by the name by which this priest blessed me. The English keeps the title.
+
+## Genesis 14:23
+
+Hebrew (MAM): אִם־מִחוּט֙ וְעַ֣ד שְׂרֽוֹךְ־נַ֔עַל וְאִם־אֶקַּ֖ח מִכׇּל־אֲשֶׁר־לָ֑ךְ וְלֹ֣א תֹאמַ֔ר אֲנִ֖י הֶעֱשַׁ֥רְתִּי אֶת־אַבְרָֽם׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 14:23.1 | אִם־ | אִם | אִם `bdb:a.du.af` | conjunction |  |  |
+| 14:23.2 | מִחוּט֙ | מִ + חוּט֙ | מ: from, than + חוּט `bdb:h.be.ab` | preposition · noun: common, masculine, singular, absolute | חוט | pashta (disjunctive) |
+| 14:23.3 | וְעַ֣ד | וְ + עַ֣ד | ו: and + עַד `bdb:p.aq.ad` | conjunction · preposition | עדה | munaḥ |
+| 14:23.4 | שְׂרֽוֹךְ־ | שְׂרֽוֹךְ | שְׂרוֹךְ `bdb:u.ch.ab` | noun: common, masculine, singular, construct | שׂרך |  |
+| 14:23.5 | נַ֔עַל | נַ֔עַל | נַ֫עַל `bdb:n.ec.ab` | noun: common, feminine, singular, absolute | נעל | zaqef qaton (disjunctive) |
+| 14:23.6 | וְאִם־ | וְ + אִם | ו: and + אִם `bdb:a.du.af` | conjunction · conjunction |  |  |
+| 14:23.7 | אֶקַּ֖ח | אֶקַּ֖ח | לָקַח `bdb:l.bx.aa` | verb: qal, imperfect (yiqtol), 1st person, common, singular | לקח | tipḥa (disjunctive) |
+| 14:23.8 | מִכׇּל־ | מִ + כָּל | מ: from, than + כֹּל `bdb:k.bn.ab` | preposition · noun: common, masculine, singular, construct | כלל |  |
+| 14:23.9 | אֲשֶׁר־ | אֲשֶׁר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר |  |
+| 14:23.10 | לָ֑ךְ | לָ֑ + ךְ | ל: to, for +  | preposition · suffix: pronominal, 2nd person, feminine, singular |  | etnaḥta (disjunctive) |
+| 14:23.11 | וְלֹ֣א | וְ + לֹ֣א | ו: and + לֹא `bdb:l.ab.aa` | conjunction · particle: negative |  | munaḥ |
+| 14:23.12 | תֹאמַ֔ר | תֹאמַ֔ר | אָמַר `bdb:a.ea.aa` | verb: qal, imperfect (yiqtol), 2nd person, masculine, singular | אמר | zaqef qaton (disjunctive) |
+| 14:23.13 | אֲנִ֖י | אֲנִ֖י | אֲנִי `bdb:a.eg.aa` | pronoun: personal, 1st person, common, singular |  | tipḥa (disjunctive) |
+| 14:23.14 | הֶעֱשַׁ֥רְתִּי | הֶעֱשַׁ֥רְתִּי | עָשַׁר `bdb:p.ge.aa` | verb: hifil, perfect (qatal), 1st person, common, singular | עשׁר | merkha |
+| 14:23.15 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
+| 14:23.16 | אַבְרָֽם׃ | אַבְרָֽם | אַבְרָם `bdb:a.ae.aw` | noun: proper name | אבה | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:14:23:1` Rashi **normative** on 14:23.1 14:23.2 14:23.3 14:23.4 14:23.5 «אִם מִחוּט֙ וְעַ֣ד שְׂרֽוֹךְ נַ֔עַל» (matched; filed at 14:23) DH «אם מחוט ועד שרוך נעל.»: אַעֲכֵּב לְעַצְמִי מִן הַשְּׁבִי:
+- `rashi:14:23:2` Rashi **normative** on 14:23.6 14:23.7 14:23.8 14:23.9 14:23.10 «וְאִם אֶקַּ֖ח מִכׇּל אֲשֶׁר לָ֑ךְ» (matched; filed at 14:23) DH «ואם אקח מכל אשר לך.»: וְאִם תֹּאמַר לָתֵת לִי שָׂכָר מִבֵּית גְּנָזֶיךָ, לֹא אֶקַּח:
+- `rashi:14:23:3` Rashi **normative** on 14:23.11 14:23.12 «וְלֹ֣א תֹאמַ֔ר» (matched; filed at 14:23) DH «ולא תאמר וגו'.»: שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא הִבְטִיחַנִי לְעַשְּׁרֵנִי, שֶׁנֶּאֱמַר וַאֲבָרֶכְךָ וְגוֹ':
+- `ibn-ezra:14:23:1` Ibn Ezra **normative** on 14:23.1 14:23.2 «אִם מִחוּט֙» (matched; filed at 14:23) DH «אם מחוט.»: שממנו תופרין כל בגד,
+- `ibn-ezra:14:23:2` Ibn Ezra **normative** on 14:23.4 «שְׂרֽוֹךְ» (matched-unbolded; filed at 14:23) DH «שרוך,»: שרוך, העור הקושר הנעל:
+- `radak:14:23:1` Radak on 14:23.6 14:23.7 «וְאִם אֶקַּ֖ח» (matched; filed at 14:23) DH «וְאִם־אֶקַּח.»: טַעַם הַוָּי״ו, רוֹצֶה לוֹמַר: אִם לָקַחְתִּי וְאִם אֶקַּח.
+- `onkelos:14:23:1` Targum Onkelos on whole 14:23 (version; filed at 14:23): אִם מִחוּטָא וְעַד עַרְקַת מְסָנָא וְאִם אֶסַּב מִכָּל דִּי לָךְ וְלָא תֵימַר אֲנָא אַעְתָּרִית יָת אַבְרָם:
+- `sforno:14:23:1` Sforno on 14:23.1 14:23.2 14:23.3 14:23.4 14:23.5 «אִם מִחוּט֙ וְעַ֣ד שְׂרֽוֹךְ נַ֔עַל» (matched; filed at 14:23) DH «אִם מִחוּט וְעַד שְׂרוֹךְ נַעַל.»: כָּל אִם שֶׁבַּמִּקְרָא כְּשֶׁלֹּא יָבֹא אַחֲרָיו פֹּעַל תְּנַאי יִהְיֶה בִּמְקוֹם מִלַּת שֶׁלֹּא. אָמַר אִם כֵּן
+- `sforno:14:23:3` Sforno on 14:23.7 14:23.8 14:23.9 14:23.10 «אֶקַּ֖ח מִכׇּל אֲשֶׁר לָ֑ךְ» (matched; filed at 14:23) DH «אֶקַּח מִכָּל אֲשֶׁר לָךְ»: . וְכֵן "אִם יִרְאוּ אֶת הָאָרֶץ" (במדבר יד:כג) – שֶׁלֹּא יִרְאוּ. "אִם אַתֶּם תָּבֹאוּ" (במדבר יד:ל) – שֶׁלֹּא תָּבֹאוּ. "חַי ה' אִם יוּמַת" (שמואל א טו:ו) – שֶׁלֹּא יוּמַת. "חַי ה' אֲשֶׁר עָמַדְתִּי לְפָנָיו אִם אֶקַּח" (מלכים ב ה:טז) – שֶׁלֹּא אֶקַּח, וְזוּלָתָם רַבִּים:
+
+### Translation under review (14:23)
+
+English: I will not take so much as a thread or a sandal strap, nor anything that is yours, so that you cannot say, "I made Abram rich."
+
+Literal: if from-thread and-up-to strap-of sandal and-if I-take from-all who to-you and-not you-say I I-enriched [obj] Abram
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 14:23.1 | not (oath formula) |  |  | אִם opens the oath: 'surely not' |
+| 14:23.2 | from a thread |  |  | מן marks the lower limit |
+| 14:23.3 | to |  | II.1 | with וְ, 'and as far as' |
+| 14:23.4 | strap of |  |  | construct |
+| 14:23.5 | sandal |  |  |  |
+| 14:23.6 | nor |  |  | second אִם in the oath |
+| 14:23.7 | I will take |  | Qal 3.a | imperfect, 'I shall take' |
+| 14:23.8 | of all |  | 1 |  |
+| 14:23.9 | that |  |  |  |
+| 14:23.10 | is yours |  |  |  |
+| 14:23.11 | and not |  |  | וְלֹא; the clause gives the reason of the refusal |
+| 14:23.12 | you will say |  | Qal 1 | imperfect, 'you shall say' |
+| 14:23.13 | I |  |  |  |
+| 14:23.14 | I made rich |  | Hiph 1 | hifil perfect, 'I made rich' |
+| 14:23.15 | [object marker] |  |  |  |
+| 14:23.16 | Abram |  |  |  |
+
+Phrases:
+- 14:23.1 14:23.2 14:23.3 14:23.4 14:23.5 | I will not take so much as a thread or a sandal strap | 'if from-thread and-up-to strap-of sandal'; an oath, 'if I take...' meaning 'I will not'
+- 14:23.6 14:23.7 14:23.8 14:23.9 14:23.10 | nor anything that is yours | 'and-if I-take from-all that to-you'
+- 14:23.11 14:23.12 | so that you cannot say | 'and-not you-say'
+- 14:23.13 14:23.14 14:23.15 14:23.16 | I made Abram rich | 'I enriched [obj] Abram'
+
+Grammar notes:
+- The oath formula אִם ... אִם takes a negative sense: 'if I take ... may I be ...', that is 'I will not take'; the penalty is left unsaid.
+- מִחוּט וְעַד שְׂרוֹךְ־נַעַל is an idiom for 'the smallest thing', from a thread to a shoe strap.
+- The hifil הֶעֱשַׁרְתִּי is a denominative verb: 'I made rich'; the pronoun אֲנִי stresses the claim 'I, I made'.
+- The etnaḥta on לָךְ ends the oath, and וְלֹא תֹאמַר starts the clause giving the purpose.
+
+Translator's note: אִם is the elliptical oath, 'not' (so Rashi's 'I will keep back for myself nothing from the captives'). Rashi reads the second clause as 'if you offer me a reward from your treasury, I will not take it' and the third as God's promise to enrich Abram (12:2), which is the reason; both bear on the sense but not on the wording of the English.
+
+Commentary rulings:
+- `rashi:14:23:1` follows: Rashi: 'I will keep for myself nothing of the captives', the sense of אִם as an oath.
+- `rashi:14:23:2` follows: Rashi: if you say to give me wages from your treasury, I will not take them. The English says 'nor anything that is yours'.
+- `rashi:14:23:3` records: Rashi: the Holy One promised to make me rich, 'and I will bless you' (12:2). The English does not give this reason; it is recorded.
+- `ibn-ezra:14:23:1` follows: Ibn Ezra: חוּט is the thread from which every garment is sewn.
+- `ibn-ezra:14:23:2` follows: Ibn Ezra: שְׂרוֹךְ is the leather that binds the sandal.
+
+## Genesis 14:24
+
+Hebrew (MAM): בִּלְעָדַ֗י רַ֚ק אֲשֶׁ֣ר אָֽכְל֣וּ הַנְּעָרִ֔ים וְחֵ֙לֶק֙ הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר הָלְכ֖וּ אִתִּ֑י עָנֵר֙ אֶשְׁכֹּ֣ל וּמַמְרֵ֔א הֵ֖ם יִקְח֥וּ חֶלְקָֽם׃
+
+Paragraph mark after this verse: ס
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 14:24.1 | בִּלְעָדַ֗י | בִּלְעָדַ֗ + י | בִּלְעֲדֵי `bdb:b.bt.ai` +  | preposition · suffix: pronominal, 1st person, common, singular | בלה | revia (disjunctive) |
+| 14:24.2 | רַ֚ק | רַ֚ק | רַק `bdb:t.ep.ab` | particle: affirmation | רקק | yetiv (disjunctive) |
+| 14:24.3 | אֲשֶׁ֣ר | אֲשֶׁ֣ר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר | munaḥ |
+| 14:24.4 | אָֽכְל֣וּ | אָֽכְל֣וּ | אָכַל `bdb:a.dc.aa` | verb: qal, perfect (qatal), 3rd person, common, plural | אכל | munaḥ |
+| 14:24.5 | הַנְּעָרִ֔ים | הַ + נְּעָרִ֔ים | ה: the + נַ֫עַר `bdb:n.ei.ab` | particle: definite article · noun: common, masculine, plural, absolute | נער | zaqef qaton (disjunctive) |
+| 14:24.6 | וְחֵ֙לֶק֙ | וְ + חֵ֨לֶק֙ | ו: and + חֵ֫לֶק `bdb:h.da.ab` | conjunction · noun: common, masculine, singular, construct | חלק | pashta, pashta (disjunctive) |
+| 14:24.7 | הָֽאֲנָשִׁ֔ים | הָֽ + אֲנָשִׁ֔ים | ה: the + אִישׁ `bdb:a.da.ab` | particle: definite article · noun: common, masculine, plural, absolute | אישׁ | zaqef qaton (disjunctive) |
+| 14:24.8 | אֲשֶׁ֥ר | אֲשֶׁ֥ר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר | merkha |
+| 14:24.9 | הָלְכ֖וּ | הָלְכ֖וּ | הָלַךְ `bdb:e.bn.aa` | verb: qal, perfect (qatal), 3rd person, common, plural | הלך | tipḥa (disjunctive) |
+| 14:24.10 | אִתִּ֑י | אִתִּ֑ + י | אֵת `bdb:a.gn.aa` +  | preposition · suffix: pronominal, 1st person, common, singular |  | etnaḥta (disjunctive) |
+| 14:24.11 | עָנֵר֙ | עָנֵר֙ | עָנֵר `bdb:p.eb.ae` | noun: proper name |  | pashta (disjunctive) |
+| 14:24.12 | אֶשְׁכֹּ֣ל | אֶשְׁכֹּ֣ל | אֶשְׁכֹּל `bdb:a.gd.am` | noun: proper name |  | munaḥ |
+| 14:24.13 | וּמַמְרֵ֔א | וּ + מַמְרֵ֔א | ו: and + מַמְרֵא `bdb:m.ck.ap` | conjunction · noun: proper name |  | zaqef qaton (disjunctive) |
+| 14:24.14 | הֵ֖ם | הֵ֖ם | הֵ֫מָּה `bdb:e.bs.aa` | pronoun: personal, 3rd person, masculine, plural |  | tipḥa (disjunctive) |
+| 14:24.15 | יִקְח֥וּ | יִקְח֥וּ | לָקַח `bdb:l.bx.aa` | verb: qal, jussive, 3rd person, masculine, plural | לקח | merkha |
+| 14:24.16 | חֶלְקָֽם׃ | חֶלְקָֽ + ם | חֵ֫לֶק `bdb:h.da.ab` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, plural | חלק | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:14:24:1` Rashi **normative** on 14:24.5 «הַנְּעָרִ֔ים» (matched; filed at 14:24) DH «הנערים.»: עֲבָדַי אֲשֶׁר הָלְכוּ אִתִּי וְעוֹד עָנֵר אֶשְׁכֹּל וּמַמְרֵא וְגוֹ'; אַף עַל פִּי שֶׁעֲבָדַי נִכְנְסוּ לַמִּלְחָמָה, שֶׁנֶּאֱמַר הוּא וַעֲבָדָיו וַיַּכֵּם, וְעָנֵר וַחֲבֵרָיו יָשְׁבוּ עַל הַכֵּלִים לִשְׁמֹר, אֲפִלּוּ הָכִי הֵם יִקְחוּ חֶלְקָם. וּמִמֶּנּוּ לָמַד דָּוִד, שֶׁאָמַר כְּחֵלֶק הַיֹּרֵד בַּמִּלְחָמָה וּכְחֵלֶק הַיֹּשֵׁב עַל הַכֵּלִים יַחְדָּו יַחֲלֹקוּ (שמואל א ל'), וּלְכָךְ נֶאֱמַר וַיְהִי מֵהַיּוֹם הַהוּא וָמָעְלָה וַיְשִׂמֶהָ לְחֹק וּלְמִשְׁפָּט (שם), וְלֹא נֶאֱמַר וָהָלְאָה, לְפִי שֶׁכְּבָר נִתַּן הַחֹק בִּימֵי אַבְרָם:
+- `ibn-ezra:14:24:1` Ibn Ezra **normative** on 14:24.1 14:24.2 14:24.3 14:24.4 «בִּלְעָדַ֗י רַ֚ק אֲשֶׁ֣ר אָֽכְל֣וּ» (matched; filed at 14:24) DH «בלעדי רק אשר אכלו»: ., והוא שאכלו עבדיו:
+- `radak:14:24:1` Radak on 14:24.1 «בִּלְעָדַ֗י» (matched; filed at 14:24) DH «בִּלְעָדַי.»: הַיּוֹ״ד לָרַבִּים וְאֵינֶנָּה לְכִנּוּי, וּבָאָה נִרְאֵית וּבְלֹא מֵ״ם כְּיוֹ״ד, ״וַחֲשׂוּפֵי שֵׁת״ (ישעיהו כ:ד) ״וְאֹרְגִים חוֹרֵי״ (ישעיהו יט:ט) וְהַדּוֹמִים לָהֶם. וְהֶחָכָם רַבִּי אַבְרָהָם פֵּרֵשׁ כִּי הַיּוֹ״ד לְכִנּוּי, כְּלוֹמַר אַךְ בִּלְעָדַי לִקְחוּ וְהוּא מַה שֶּׁאָכְלוּ נְעָרַי.
+- `radak:14:24:2` Radak on 14:24.5 «הַנְּעָרִ֔ים» (matched; filed at 14:24) DH «הַנְּעָרִים»: , הֵם חֲנִיכָיו יְלִידֵי בֵיתוֹ, וְהֵם לֹא יִהְיֶה לָהֶם אֶלָּא מַה שֶּׁאָכְלוּ.
+- `radak:14:24:3` Radak on 14:24.6 14:24.7 «וְחֵ֙לֶק֙ הָֽאֲנָשִׁ֔ים» (matched; filed at 14:24) DH «וְחֵלֶק הָאֲנָשִׁים»: , כִּי אֲנִי אֵין לִי רְשׁוּת לַעֲזֹב חֶלְקָם, כִּי הֵם טָרְחוּ בָּזֶה וְרָאוּי הוּא שֶׁיִּקְחוּ מֵהַשָּׁלָל אֲשֶׁר הִצִּילוּ חֶלְקָם הָרָאוּי לָהֶם כְּפִי הַמִּנְהָג וְהַחֹק.
+- `onkelos:14:24:1` Targum Onkelos on whole 14:24 (version; filed at 14:24): לְחוֹד (נ"א בַּר) מִדִּאֲכָלוּ עוּלֵמַיָּא וְחוּלַק גֻּבְרַיָּא דִּי אֲזָלוּ עִמִּי עָנֵר אֶשְׁכֹּל וּמַמְרֵא אִנּוּן יְקַבְּלוּן חֲלָקְהוֹן:
+- `sforno:14:24:1` Sforno on 14:24.1 «בִּלְעָדַ֗י» (matched; filed at 14:24) DH «בִּלְעָדַי.»: אַתָּה אָמַרְתָּ תֶּן לִי הַנֶּפֶשׁ , בִּלְעָדַי תוּכַל לְקַחְתּוֹ שֶׁאֵין אֲנִי מַחֲזִיק בּוֹ כְּלָל.
+- `sforno:14:24:2` Sforno on 14:24.2 14:24.3 14:24.4 14:24.5 14:24.6 14:24.7 «רַ֚ק אֲשֶׁ֣ר אָֽכְל֣וּ הַנְּעָרִ֔ים וְחֵ֙לֶק֙ הָֽאֲנָשִׁ֔ים» (matched; filed at 14:24) DH «רַק אֲשֶׁר אָכְלוּ הַנְּעָרִים וְחֵלֶק הָאֲנָשִׁים.»: זֶה בִּלְבַד אֶקַּח מִכָּל אֲשֶׁר לְךָ, הַהוֹצָאָה שֶׁנַּעֲשְׂתָה בַּאֲכִילַת הַנְּעָרִים, וְאֶקַּח גַּם כֵּן חֵלֶק הָאֲנָשִׁים אֲשֶׁר הָלְכוּ אִתִּי.
+- `sforno:14:24:3` Sforno on whole 14:24 (segment; filed at 14:24): אֲבָל
+- `sforno:14:24:4` Sforno on 14:24.11 14:24.12 14:24.13 14:24.14 14:24.15 14:24.16 «עָנֵר֙ אֶשְׁכֹּ֣ל וּמַמְרֵ֔א הֵ֖ם יִקְח֥וּ חֶלְקָֽם׃» (matched; filed at 14:24) DH «עָנֵר אֶשְׁכֹּל וּמַמְרֵא הֵם יִקְחוּ חֶלְקָם.»: וְלֹא אֶתֵּן אֲנִי לָהֶם חֵלֶק וְלֹא אֶקַּח חֵלֶק בַּעֲדָם, אֲבָל מֵעַצְמָם יִקְחוּ כְּמוֹ רָאשִׁים.
+
+### Translation under review (14:24)
+
+English: Not for me, only what my servants have eaten, and the share of the men who went with me: Aner, Eshcol and Mamre. They may take their share.
+
+Literal: apart-from-me only what ate the-lads and-share-of the-men who went with-me Aner Eshcol and-Mamre they let-them-take share-their
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 14:24.1 | apart from me |  |  | prepositional 'except me' |
+| 14:24.2 | only |  | 2 |  |
+| 14:24.3 | what |  |  |  |
+| 14:24.4 | have eaten |  | Qal 1 | perfect, 'ate' |
+| 14:24.5 | the young men |  | 2 | Rashi, Ibn Ezra: Abram's servants |
+| 14:24.6 | and the share of |  | 1 | construct |
+| 14:24.7 | the men |  |  |  |
+| 14:24.8 | who |  |  |  |
+| 14:24.9 | went with |  | Qal II.2 | perfect plural, 'walked' |
+| 14:24.10 | me |  |  |  |
+| 14:24.11 | Aner |  |  |  |
+| 14:24.12 | Eshcol |  |  |  |
+| 14:24.13 | and Mamre |  |  |  |
+| 14:24.14 | they |  |  |  |
+| 14:24.15 | let them take |  | Qal 1 | jussive, 'let them take' |
+| 14:24.16 | their share |  | 1 | construct with suffix |
+
+Phrases:
+- 14:24.1 | Not for me | 'apart-from-me'
+- 14:24.2 14:24.3 14:24.4 14:24.5 | only what my servants have eaten | 'only what ate the-lads'; Rashi and Ibn Ezra: Abram's own servants
+- 14:24.6 14:24.7 | and the share of the men | 'and-share-of the-men'
+- 14:24.8 14:24.9 14:24.10 | who went with me | 'who went with-me'
+- 14:24.11 14:24.12 14:24.13 | Aner, Eshcol and Mamre | three men without conjunction until the last
+- 14:24.14 14:24.15 | They may take | 'they let-them-take'; the jussive
+- 14:24.16 | their share | 'share-their'
+
+Grammar notes:
+- בִּלְעָדַי is a preposition with suffix meaning 'apart from me'; it opens the verse without a verb, as a stand-alone refusal.
+- רַק limits what follows: only the food eaten and the allies' portion are excepted from the oath.
+- The names עָנֵר אֶשְׁכֹּל וּמַמְרֵא stand in apposition to הָאֲנָשִׁים and are the men's names; the pashta on עָנֵר divides them from the verb.
+- יִקְחוּ is jussive in sense: 'let them take'; הֵם adds emphasis, 'let them, for their part'.
+
+Translator's note: Rashi and Ibn Ezra agree that הַנְּעָרִים are Abram's servants, so the English says 'my servants' (literally 'the lads'). Rashi adds that though the servants fought, Aner and his companions stayed with the baggage, yet they take a share (David learned from this).
+
+Commentary rulings:
+- `rashi:14:24:1` follows: Rashi: הַנְּעָרִים are my servants who went with me; though they fought and Aner, Eshcol and Mamre stayed with the baggage, they take their share, and David learned from it. The English says 'my servants'.
+- `ibn-ezra:14:24:1` follows: Ibn Ezra: 'what the young men have eaten' means what his servants ate.
+
+## Lexicon
+
+Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
+
+### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+
+### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
+- `1.a` behind
+- `1.b` afterwards
+- `2.a` behind, after
+- `2.b` after
+- `3` after that
+
+### `bdb:a.da.ab` אִישׁ (n.m) root אישׁ: man
+
+### `bdb:a.dc.aa` אָכַל (vb) root אכל: eat
+- `Qal 1` Qal eat
+- `Qal 2` Qal eat, devour
+- `Qal 3` Qal devour, consume
+- `Qal 4` Qal devour, slay
+- `Qal 5` Qal devour, consume, destroy
+- `Qal 6` Qal devour
+- `Niph 1` Niph be eaten
+- `Niph 2` Niph be devoured, consumed
+- `Niph 3` Niph be wasted, destroyed
+- `Pu` Pu be consumed
+- `Hiph 1` Hiph cause to eat, feed with
+- `Hiph 2` Hiph cause to devoure
+
+### `bdb:a.di.aa` אֶל (prep): motion to, direction towards
+- `1` to, unto
+- `2` into
+- `3` towards
+- `4` against
+- `5` Unto, in addition to
+- `6` in regard to, concerning, on account of
+- `7` according to
+- `8` against, at, by
+- `9` motion, direction to
+
+### `bdb:a.dl.ab` אֵל (n.m) root אלה: god
+- `1` men of might and rank
+- `2` angels
+- `3` gods of the nations
+- `4` Ēl
+- `6` God
+- `7` strength, power
+
+### `bdb:a.du.af` אִם (conj): if
+- `1` if
+
+### `bdb:a.ea.aa` אָמַר (vb) root אמר: utter, say
+- `Qal 1` Qal Say
+- `Qal 2` Qal Say in the heart
+- `Qal 3` Qal Promise
+- `Qal 4` Qal Command
+- `Niph` Niph be said, told
+- `Hiph` Hiph avow, avouch, cause to declare
+- `Hithp` Hithp act proudly, boast
+
+### `bdb:a.eg.aa` אֲנִי (pron): I
+
+### `bdb:a.fx.aa` אֶ֫רֶץ (n. f) root ארץ: earth, land
+- `1.a` earth
+- `1.b` earth
+- `1.c` earth
+- `2.e` land
+- `2` land
+- `3.a` ground
+- `3.b` soil
+- `4.a` people of the land
+- `4.c` the country of the plain, level, plain country
+- `4.d` land of the living
+- `4.e` end(s) of the earth
+- `5` lands, countries, lands of the nations
+
+### `bdb:a.gd.am` אֶשְׁכֹּל (n.pr): Eshcol
+- `2` valley of Eshcol, valley of a cluster
+
+### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
+
+### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
+
+### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
+- `1` together with
+- `4` from proximity with
+
+### `bdb:b.bt.ai` בִּלְעֲדֵי (R) root בלה: not unto, apart from, except, without
+
+### `bdb:b.dd.aa` בָּרַךְ (vb) root ברך: kneel, bless
+- `Qal 1` Qal kneel down
+- `Qal 2` Qal bless
+- `Niph` Niph bless oneself
+- `Pi 1` Pi bless God
+- `Pi 2` Pi God blesses
+- `Pi 3` Pi men bless men
+- `Pi 4` Pi salute, greet
+- `Pi 5` Pi bless, curse
+- `Pu 1` Pu to be blessed, adored
+- `Pu 2` Pu prospered by God
+- `Pu 3` Pu have prosperity invoked
+- `Pu 4` Pu in gratitude
+- `Hiph` Hiph and he made his camel kneel
+- `Hithp` Hithp bless oneself
+
+### `bdb:c.cp.ai` מָגַן (vb) root גנן: deliver up, deliver
+
+### `bdb:e.aw.aa` הוּא (m): he, she, it
+- `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `6` that, it
+
+### `bdb:e.az.ae` יהוה (n.pr.dei) root הוה: Yahweh, the one bringing into being, life-giver
+
+### `bdb:e.bn.aa` הָלַךְ (vb) root הלך: go, come, walk
+- `Qal II.1` Qal pass away, die
+- `Qal II.2` Qal live, walk
+- `Pi 1` Pi walk
+- `Pi 2` Pi walking about
+- `Pi 3` Pi depart, go entirely away
+- `Hithp` Hithp walk, walk about, move to and fro
+- `Hiph 1` Hiph lead, bring
+- `Hiph 2` Hiph lead away
+- `Hiph 3` Hiph carry, bring
+- `Hiph 5.a` Hiph cause to walk, go
+- `Hiph 5.b` Hiph cause to flow, run
+- `Hiph 5.c` Hiph cause to depart, retire, go back
+
+### `bdb:e.bs.aa` הֵ֫מָּה (pron): they
+
+### `bdb:h.be.ab` חוּט (n.m) root חוט: thread, cord, line
+
+### `bdb:h.da.ab` חֵ֫לֶק (n.m) root חלק: portion, tract, territory
+- `1` portion, share
+- `2` portion, tract
+- `3` portion, possession
+- `4` portion
+- `5` portion, award
+
+### `bdb:j.aq.aa` יָד (n.f): hand
+- `1` hand
+- `2` strength, power
+- `3` side
+- `4.a` sign, monument
+- `4.b` part, fractional part, share
+- `4.c` time, repetition
+- `4.d` axle-trees
+- `4.e` stays, supports
+- `4.f` tenons
+- `4.g` a, hand
+
+### `bdb:j.bk.ab` יַ֫יִן (n.m) root יין: wine
+
+### `bdb:j.cq.aa` יָצָא (vb) root יצא: go, come out
+- `Qal 1.b` Qal go forth
+- `Qal 1.e` Qal depart
+- `Qal 1.h` Qal going forth
+- `Qal 1` Qal go, come out, forth
+- `Qal 2.a` Qal go forth
+- `Qal 2.b` Qal go forward, proceed
+- `Qal 2.c` Qal come, go forth
+- `Hiph 1` Hiph cause to go, come out, bring out, lead out
+- `Hiph 2` Hiph bring out of
+- `Hiph 3` Hiph bring out
+- `Hiph 5` Hiph bring forth
+- `Hoph` Hoph be brought forth
+
+### `bdb:k.ao.ad` כְּדׇרְלָעֹמֶר (n.pr.m): Chedorlaomer
+
+### `bdb:k.as.ab` כֹּהֵן (n.m) root כהן: priest
+
+### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
+- `1` the whole of, any, every
+- `2.a` all things, all
+- `2.b.(b)` all
+
+### `bdb:l.ab.aa` לֹא (adv): not
+
+### `bdb:l.bi.ab` לֶ֫חֶם (n.m) root לחם: bread, food
+
+### `bdb:l.bx.aa` לָקַח (vb) root לקח: take
+- `Qal 1` Qal take, take in hand
+- `Qal 2` Qal take and carry along
+- `Qal 3.a` Qal take
+- `Qal 3.b` Qal take, carry away
+- `Qal 3.c` Qal take away
+- `Qal 3.d` Qal take away
+- `Qal 4` Qal take
+- `Qal 5` Qal take, put
+- `Qal 6` Qal fetch
+- `Qal 7` Qal take, lead, conduct
+- `Qal 8` Qal take, capture, seize
+- `Qal 9` Qal take, carry off
+- `Qal 10` Qal take
+- `Niph 1` Niph be captured
+- `Niph 2` Niph be taken away, removed
+- `Niph 3` Niph be taken, brought
+- `Pu 1` Pu be taken
+- `Pu 2` Pu be stolen
+- `Pu 3` Pu be taken captive
+- `Pu 4` Pu be taken away, removed
+- `Hoph 1` Hoph be taken, brought
+- `Hoph 2` Hoph be taken
+- `Hoph 3` Hoph be taken away
+- `Hithp` Hithp taking hold of itself
+
+### `bdb:m.cd.ab` מֶ֫לֶךְ (n.m) root מלך: king
+
+### `bdb:m.cd.aq` מַלְכִּי־צֶ֫דֶק (n.pr.m) root מלך: my king is Ṣedeḳ
+
+### `bdb:m.ck.ap` מַמְרֵא (n.pr.m): Mamre
+
+### `bdb:n.dk.aa` נָכָה (vb) root נכה: smite
+- `Niph` Niph and he shall be smitten, and die
+- `Pu` Pu be smitten down
+- `Hiph 1.a` Hiph smite, strike
+- `Hiph 1.b` Hiph smite, beat
+- `Hiph 1.c` Hiph and they clapped hands
+- `Hiph 1.d` Hiph give a thrust, strike
+- `Hiph 1.e` Hiph smite
+- `Hiph 1.f` Hiph smite
+- `Hiph 2` Hiph Smite
+- `Hiph 3` Hiph Smite, attack, attack and destroy
+- `Hiph 4.a` Hiph smite
+- `Hiph 4.b` Hiph smite, chastise, send judgment upon
+- `Hiph 4.c` Hiph destroying
+- `Hoph` Hoph be smitten
+
+### `bdb:n.ec.ab` נַ֫עַל (n.f) root נעל: sandal, shoe
+
+### `bdb:n.ei.ab` נַ֫עַר (n.m) root נער: boy, lad, youth, retainer
+- `1` boy, lad, youth
+- `2` servant, retainer
+
+### `bdb:n.en.ab` נֶ֫פֶשׁ (n.f) root נפשׁ: soul, living being, life, self, person, desire, appetite, emotion, passion
+- `1` that which breathes, the breathing substance or being
+- `4` the man himself
+- `5` seat of the appetites
+- `6` seat of emotions and passions
+
+### `bdb:n.gg.aa` נָתַן (vb) root נתן: give, put, set
+- `Qal 1` Qal give
+- `Qal 2` Qal Put, set
+- `Qal 3` Qal Make, constitute
+- `Niph 1` Niph be given
+- `Niph 2` Niph Be put, set
+- `Hoph 1.a` Hoph be given, bestowed
+- `Hoph 1.b` Hoph be given
+- `Hoph 2` Hoph be put
+
+### `bdb:o.aj.ad` סְדֹם (n.pr.loc): Sodom
+
+### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
+- `II.1` until
+- `II.2` While
+- `II.3` to the point that, so that even
+
+### `bdb:p.cs.aj` עֶלְיוֹן (n.m) root עלה: Highest, Most High
+
+### `bdb:p.dm.ab` עֵ֫מֶק (n.m) root עמק: vale, deepening, depth
+
+### `bdb:p.eb.ae` עָנֵר (n.pr): Aner
+
+### `bdb:p.gb.ai` מַעֲשֵׂר (N) root עשׂר: tenth part, tithe
+
+### `bdb:p.ge.aa` עָשַׁר (vb) root עשׁר: be, become rich
+- `Qal` Qal I have become rich
+- `Hiph 1` Hiph make rich
+- `Hiph 2` Hiph gain riches
+- `Hithp` Hithp one enriching himself
+
+### `bdb:r.ea.ab` צַר (n.m) root צרר: adversary, foe
+
+### `bdb:s.cb.aa` קָנָה (vb) root קנה: get, acquire
+- `Qal 1` Qal get, acquire
+- `Qal 2` Qal buy
+- `Niph` Niph be bought
+- `Hiph` Hiph caused, to purchase me, made me a bondman
+
+### `bdb:s.cz.aa` קִרְאָה (vb) root קרא: encounter, befall
+- `Qal 1` Qal meet, encounter
+- `Qal 2` Qal befall
+- `Niph` Niph meet unexpectedly
+- `Hiph` Hiph thou didst cause, to befall
+
+### `bdb:t.bm.aa` רוּם (vb) root רום: be high, exalted, rise
+- `Qal 1.a` Qal be high
+- `Qal 2` Qal be raised, uplifted
+- `Qal 3` Qal be lifted, rise
+- `Pō‛lēl 1.a` Pō‛lēl raise, rear
+- `Pō‛lēl 1.b` Pō‛lēl cause, to grow
+- `Pō‛lēl 2` Pō‛lēl lift up
+- `Pō‛lēl 3` Pō‛lēl exalt, extol
+- `Pō‛lal` Pō‛lal be lift up
+- `Hiph 1.a.(1)` Hiph raise, rear
+- `Hiph 1.a.(2)` Hiph raise
+- `Hiph 1.b` Hiph lift up
+- `Hiph 1.c` Hiph lift, take up
+- `Hiph 1.d` Hiph set up, erect
+- `Hiph 1.e` Hiph set on high
+- `Hiph 1.f` Hiph lift up, exalt
+- `Hiph 2` Hiph lift up, remove
+- `Hiph 3` Hiph lift off and present, contribute, offer
+- `Hoph` Hoph be taken off, be abolished
+- `Hithpō‛l` Hithpō‛l and he shall exalt and magnify himself above, I will raise myself
+
+### `bdb:t.cu.ac` רְכוּשׁ (n.m) root רכשׁ: property, goods
+
+### `bdb:t.ep.ab` רַק (adj) root רקק: leanness
+- `1` thin
+- `2` only, altogether, surely
+
+### `bdb:u.ch.ab` שְׂרוֹךְ (n.[m.]) root שׂרך: thong
+
+### `bdb:v.bn.aa` שׁוּב (vb) root שׁוב: turn back, return
+- `Qal 1` Qal turn back
+- `Qal 2` Qal return, come, go back
+- `Qal 3` Qal return unto
+- `Qal 5.a` Qal return
+- `Qal 5.c` Qal turn
+- `Qal 5.d` Qal return
+- `Qal 6.a` Qal turn back, apostatize
+- `Qal 6.b` Qal turn away
+- `Qal 6.c` Qal turn back
+- `Qal 6.d` Qal repent
+- `Qal 6.e` Qal turn back
+- `Qal 6.g` Qal return
+- `Qal` Qal turn back, return
+- `Pō‛l 1` Pō‛l bring back
+- `Pō‛l 2.a` Pō‛l restore, refresh
+- `Pō‛l 2.b` Pō‛l restore, repair
+- `Pō‛l 3` Pō‛l lead away
+- `Pō‛l 4` Pō‛l shew turning, apostatize
+- `Hiph 1.a` Hiph bring back
+- `Hiph 1.b` Hiph put back
+- `Hiph 1.c` Hiph draw back
+- `Hiph 1.d` Hiph give back, restore
+- `Hiph 1.e` Hiph relinguish
+- `Hiph 1.f` Hiph give in payment
+- … 15 more senses
+
+### `bdb:v.bp.ac` שָׁוֵה (n.pr.loc) root שׁוה: Shaveh
+
+### `bdb:v.ds.af` שָׁלֵם (n.pr.loc): Salem
+
+### `bdb:v.dy.ab` שָׁמַיִם (n.m) root שׁמה: heavens, sky
+- `1.a` visible heavens, sky
+
