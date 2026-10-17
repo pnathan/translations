@@ -1,0 +1,2431 @@
+{
+  "unit": "perek-3-02",
+  "model": "sonnet",
+  "segments": [
+    {
+      "ref": "3:7",
+      "english": "Rabbi Elazar of Bartota says: Give Him what is His, for you and what is yours are His. And so David says: “For everything comes from You, and from Your hand we have given to You.” Rabbi Shimon says: One who walks on the road and reviews his learning, and interrupts his learning and says, “How fine is this tree, and how fine is this furrow!”, Scripture accounts it to him as if he were forfeiting his life.",
+      "literal": "my-master Elazar man-of Bartota saying give to-him from-his-own that-you and-yours his. and-so in-David he saying (Chronicles I 29) for from-you the-all and-from-your-hand we-gave to-you. my-master Shimon saying the-walker on-the-road and-repeating and-interrupting from-his-repetition and-saying how fine tree this and-how fine furrow this, raising upon-him the-written as-if incurring-liability in-his-soul.",
+      "tokens": [
+        {
+          "id": "3:7.1",
+          "gloss": "Rabbi",
+          "sense": "1",
+          "note": "רַבִּי is 'my master', here a fixed title"
+        },
+        {
+          "id": "3:7.2",
+          "gloss": "Elazar",
+          "sense": "1"
+        },
+        {
+          "id": "3:7.3",
+          "gloss": "man of",
+          "sense": "1"
+        },
+        {
+          "id": "3:7.4",
+          "gloss": "Bartota",
+          "sense": "1",
+          "note": "a place in Upper Galilee (Jastrow)"
+        },
+        {
+          "id": "3:7.5",
+          "gloss": "says",
+          "sense": "1.1",
+          "note": "participle used for a quoted saying"
+        },
+        {
+          "id": "3:7.6",
+          "gloss": "give",
+          "sense": "1.1.1",
+          "note": "imperative; the object is God, 'Give Him'"
+        },
+        {
+          "id": "3:7.7",
+          "gloss": "to Him"
+        },
+        {
+          "id": "3:7.8",
+          "gloss": "of what is His own",
+          "note": "מִשֶּׁלּוֹ: from-of-his; Mishnaic שֶׁל 'of'"
+        },
+        {
+          "id": "3:7.9",
+          "gloss": "that you"
+        },
+        {
+          "id": "3:7.10",
+          "gloss": "and what is yours"
+        },
+        {
+          "id": "3:7.11",
+          "gloss": "are His"
+        },
+        {
+          "id": "3:7.12",
+          "gloss": "and so",
+          "note": "וְכֵן: the lexicon entry offered for כֵּן is a different word; the sense here is 'thus'"
+        },
+        {
+          "id": "3:7.13",
+          "gloss": "of David",
+          "sense": "1",
+          "note": "בְּדָוִד: 'in David', the idiom for 'in David's words'"
+        },
+        {
+          "id": "3:7.14",
+          "gloss": "he"
+        },
+        {
+          "id": "3:7.15",
+          "gloss": "says",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:7.16",
+          "gloss": "Book of",
+          "note": "citation: Chronicles"
+        },
+        {
+          "id": "3:7.17",
+          "gloss": "the Days",
+          "sense": "1",
+          "note": "citation: דִּבְרֵי הַיָּמִים, 'Chronicles'"
+        },
+        {
+          "id": "3:7.18",
+          "gloss": "I",
+          "note": "citation: first book"
+        },
+        {
+          "id": "3:7.19",
+          "gloss": "29",
+          "note": "citation: chapter 29"
+        },
+        {
+          "id": "3:7.20",
+          "gloss": "for"
+        },
+        {
+          "id": "3:7.21",
+          "gloss": "from You",
+          "note": "מִמְּךָ"
+        },
+        {
+          "id": "3:7.22",
+          "gloss": "everything"
+        },
+        {
+          "id": "3:7.23",
+          "gloss": "and from Your hand",
+          "sense": "1.1",
+          "note": "וּמִיָּדְךָ"
+        },
+        {
+          "id": "3:7.24",
+          "gloss": "we have given",
+          "sense": "1.1.1",
+          "note": "qal perfect, 1st plural; biblical form נָתַנּוּ"
+        },
+        {
+          "id": "3:7.25",
+          "gloss": "to You"
+        },
+        {
+          "id": "3:7.26",
+          "gloss": "Rabbi",
+          "sense": "1"
+        },
+        {
+          "id": "3:7.27",
+          "gloss": "Shimon",
+          "sense": "1"
+        },
+        {
+          "id": "3:7.28",
+          "gloss": "says",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:7.29",
+          "gloss": "the one who walks",
+          "sense": "1.2.1",
+          "note": "Piel participle: הַמְהַלֵּךְ, of habitual or continuous walking"
+        },
+        {
+          "id": "3:7.30",
+          "gloss": "on the road",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:7.31",
+          "gloss": "and reviews",
+          "sense": "1",
+          "note": "שׁוֹנֶה: repeats his learning, studies by repetition"
+        },
+        {
+          "id": "3:7.32",
+          "gloss": "and interrupts",
+          "sense": "1",
+          "note": "Hifil participle"
+        },
+        {
+          "id": "3:7.33",
+          "gloss": "from his learning",
+          "sense": "1",
+          "note": "מִשְׁנָה: the repeated text, the learning he is reciting"
+        },
+        {
+          "id": "3:7.34",
+          "gloss": "and says",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:7.35",
+          "gloss": "how",
+          "note": "מַה in an exclamation"
+        },
+        {
+          "id": "3:7.36",
+          "gloss": "fine",
+          "sense": "1",
+          "note": "נָאֶה: fitting, beautiful"
+        },
+        {
+          "id": "3:7.37",
+          "gloss": "tree",
+          "sense": "1"
+        },
+        {
+          "id": "3:7.38",
+          "gloss": "this"
+        },
+        {
+          "id": "3:7.39",
+          "gloss": "and how"
+        },
+        {
+          "id": "3:7.40",
+          "gloss": "fine",
+          "sense": "1"
+        },
+        {
+          "id": "3:7.41",
+          "gloss": "furrow",
+          "note": "ניר: Bartenura, the furrow of the plow; the BDB entry listed for the lemma (a name) does not fit"
+        },
+        {
+          "id": "3:7.42",
+          "gloss": "this"
+        },
+        {
+          "id": "3:7.43",
+          "gloss": "accounts",
+          "sense": "1",
+          "note": "Hifil participle: 'raises (to his account)'"
+        },
+        {
+          "id": "3:7.44",
+          "gloss": "to him",
+          "note": "עָלָיו: 'against him'"
+        },
+        {
+          "id": "3:7.45",
+          "gloss": "Scripture",
+          "sense": "1.1.1",
+          "note": "הַכָּתוּב: 'the written (word)'"
+        },
+        {
+          "id": "3:7.46",
+          "gloss": "as if"
+        },
+        {
+          "id": "3:7.47",
+          "gloss": "he is liable",
+          "sense": "1",
+          "note": "Hitpael participle: incurs guilt"
+        },
+        {
+          "id": "3:7.48",
+          "gloss": "with his life",
+          "sense": "1.4",
+          "note": "בְּנַפְשׁוֹ: 'in his soul/self'; capital liability"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:7.1",
+            "3:7.2"
+          ],
+          "english": "Rabbi Elazar",
+          "literal": "'my-master Elazar'; title and name"
+        },
+        {
+          "tokens": [
+            "3:7.3",
+            "3:7.4"
+          ],
+          "english": "of Bartota",
+          "literal": "'man-of Bartota'; the place name Bartota, so 'of Bartota'"
+        },
+        {
+          "tokens": [
+            "3:7.5"
+          ],
+          "english": "says",
+          "literal": "participle"
+        },
+        {
+          "tokens": [
+            "3:7.6",
+            "3:7.7",
+            "3:7.8"
+          ],
+          "english": "Give Him what is His",
+          "literal": "'give to-him from-his-own'; the Omnipresent is the one given to"
+        },
+        {
+          "tokens": [
+            "3:7.9",
+            "3:7.10",
+            "3:7.11"
+          ],
+          "english": "for you and what is yours are His",
+          "literal": "'that-you and-yours his'; שֶׁ is causal 'for'"
+        },
+        {
+          "tokens": [
+            "3:7.12",
+            "3:7.13",
+            "3:7.14",
+            "3:7.15"
+          ],
+          "english": "And so David says",
+          "literal": "'and-so in-David he saying'"
+        },
+        {
+          "tokens": [
+            "3:7.16",
+            "3:7.17",
+            "3:7.18",
+            "3:7.19"
+          ],
+          "english": "-",
+          "literal": "citation of the verse (Chronicles I 29), no English counterpart"
+        },
+        {
+          "tokens": [
+            "3:7.20",
+            "3:7.21",
+            "3:7.22",
+            "3:7.23",
+            "3:7.24",
+            "3:7.25"
+          ],
+          "english": "For everything comes from You, and from Your hand we have given to You",
+          "literal": "'for from-you the-all and-from-your-hand we-gave to-you'; quotation"
+        },
+        {
+          "tokens": [
+            "3:7.26",
+            "3:7.27",
+            "3:7.28"
+          ],
+          "english": "Rabbi Shimon says",
+          "literal": "'my-master Shimon saying'"
+        },
+        {
+          "tokens": [
+            "3:7.29",
+            "3:7.30",
+            "3:7.31",
+            "3:7.32",
+            "3:7.33"
+          ],
+          "english": "One who walks on the road and reviews his learning, and interrupts his learning",
+          "literal": "'the-walker on-the-road and-repeating, and-interrupting from-his-repetition'"
+        },
+        {
+          "tokens": [
+            "3:7.34"
+          ],
+          "english": "and says",
+          "literal": "'and-saying'"
+        },
+        {
+          "tokens": [
+            "3:7.35",
+            "3:7.36",
+            "3:7.37",
+            "3:7.38"
+          ],
+          "english": "How fine is this tree",
+          "literal": "'how fine tree this'"
+        },
+        {
+          "tokens": [
+            "3:7.39",
+            "3:7.40",
+            "3:7.41",
+            "3:7.42"
+          ],
+          "english": "and how fine is this furrow",
+          "literal": "'and-how fine furrow this'"
+        },
+        {
+          "tokens": [
+            "3:7.43",
+            "3:7.44",
+            "3:7.45"
+          ],
+          "english": "Scripture accounts it to him",
+          "literal": "'raising upon-him the-written'"
+        },
+        {
+          "tokens": [
+            "3:7.46",
+            "3:7.47",
+            "3:7.48"
+          ],
+          "english": "as if he were forfeiting his life",
+          "literal": "'as-if incurring-liability in-his-soul'"
+        }
+      ],
+      "grammar": [
+        "אוֹמֵר is a participle: in Avot the attribution formula is 'X says', not a past tense.",
+        "תֶּן is the short imperative of נתן (the nun of the root is dropped in the Mishnaic and late biblical imperative).",
+        "שֶׁ is the Mishnaic relative; before the pronoun in שֶׁאַתָּה וְשֶׁלְּךָ שֶׁלּוֹ it is causal ('for you and yours are His'). שֶׁלּוֹ is the possessive 'of-him'.",
+        "The saying has two parts: a positive injunction (rabbi Elazar of Bartota) and a verse from Chronicles that supports it. Rabbi Shimon's saying is a separate sentence; the long participial subject is resumed by מַעֲלֶה עָלָיו.",
+        "הַמְהַלֵּךְ is a Piel participle; שׁוֹנֶה, מַפְסִיק and אוֹמֵר are participles that continue the subject. The subject hangs until the main verb מַעֲלֶה.",
+        "מִתְחַיֵּב בְּנַפְשׁוֹ: the Hitpael participle of חיב, 'be held liable'; the idiom means to be liable to forfeit his life."
+      ],
+      "note": "Rabbi Elazar's 'Give Him what is His' is given as an imperative to the reader; the object of 'give' is God, as Bartenura reads it. The 'furrow' of the field is Bartenura's reading of ניר (the BDB lemma offered, a proper name, is not a fit and no sense is given). 'Forfeiting his life' renders מִתְחַיֵּב בְּנַפְשׁוֹ, literally 'liable with/in his soul', that is, liable to a penalty of life; the same phrase recurs in 3:8.",
+      "commentary": [
+        {
+          "anchor": "bartenura:3:7:1",
+          "relation": "follows",
+          "summary": "Bartenura: do not refrain from engaging in what is Heaven's, whether with your body or your money, for you are not giving from your own, neither from your body nor from your property: you and your property are His."
+        },
+        {
+          "anchor": "bartenura:3:7:2",
+          "relation": "follows",
+          "summary": "Bartenura: the same holds for any idle talk; the mishnah speaks of this case because travellers talk about what they see. Some say it is to teach that even though one blesses 'blessed is He who has such in His world', it still counts against him because he interrupted his learning."
+        },
+        {
+          "anchor": "bartenura:3:7:3",
+          "relation": "follows",
+          "summary": "Bartenura: ניר is the furrow of the plow, as in 'break up your fallow ground' (Jeremiah 4:3, נִירוּ לָכֶם נִיר)."
+        }
+      ],
+      "apparatus": [
+        "Quotation: 1 Chronicles 29:14, כִּי מִמְּךָ הַכֹּל וּמִיָּדְךָ נָתַנּוּ לָךְ; the Vilna text abbreviates the citation as ד\"ה א' כ\"ט.",
+        "Spelling: Vilna reads כאילו and מתחייב where the base text has כְּאִלּוּ and מִתְחַיֵּב.",
+        "Rabbeinu Yonah (not normative) takes the first saying to cover both body and property, and reads the Rabbi Shimon saying as a warning about interrupting study for idle remarks; one text-tradition has Rabbi Yaakov in place of Rabbi Shimon."
+      ]
+    },
+    {
+      "ref": "3:8",
+      "english": "Rabbi Dostai son of Rabbi Yannai, in the name of Rabbi Meir, says: Whoever forgets a single thing from his learning, Scripture accounts it to him as if he were forfeiting his life, as it is said: “Only take heed to yourself and guard your soul diligently, lest you forget the things that your eyes saw.” One might think this holds even if his learning was too strong for him; the teaching says, in the same passage: “and lest they depart from your heart all the days of your life.” Thus he is not forfeiting his life until he sits and removes them from his heart.",
+      "literal": "my-master Dostai in-my-master Yannai from-name-of my-master Meir saying: all the-forgetting thing one from-his-repetition, raising upon-him the-written as-if incurring-liability in-his-soul, as-it-was-said (Deut 4): only be-guarded to-you and-guard your-soul very lest you-forget the-things that saw your-eyes. able even-if it-was-strong upon-him his-repetition, teaching to-say (there): and-lest they-depart from-your-heart all days-of your-life, thus not incurring-liability in-his-soul until that-he-sit and-remove-them from-his-heart.",
+      "tokens": [
+        {
+          "id": "3:8.1",
+          "gloss": "Rabbi",
+          "sense": "1"
+        },
+        {
+          "id": "3:8.2",
+          "gloss": "Dostai",
+          "sense": "1"
+        },
+        {
+          "id": "3:8.3",
+          "gloss": "son of",
+          "sense": "1",
+          "note": "בְּרַבִּי: 'bar-rabbi', a contraction of בֶּן + רַבִּי, 'son of Rabbi'"
+        },
+        {
+          "id": "3:8.4",
+          "gloss": "Yannai",
+          "sense": "1"
+        },
+        {
+          "id": "3:8.5",
+          "gloss": "in the name of",
+          "sense": "1",
+          "note": "מִשּׁוּם: 'on account of, in the name of'"
+        },
+        {
+          "id": "3:8.6",
+          "gloss": "Rabbi",
+          "sense": "1"
+        },
+        {
+          "id": "3:8.7",
+          "gloss": "Meir",
+          "sense": "1"
+        },
+        {
+          "id": "3:8.8",
+          "gloss": "says",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:8.9",
+          "gloss": "whoever",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:8.10",
+          "gloss": "who forgets",
+          "sense": "1.1.1",
+          "note": "qal participle"
+        },
+        {
+          "id": "3:8.11",
+          "gloss": "thing",
+          "sense": "1.4",
+          "note": "דָּבָר: a word or matter of the learning"
+        },
+        {
+          "id": "3:8.12",
+          "gloss": "single"
+        },
+        {
+          "id": "3:8.13",
+          "gloss": "from his learning",
+          "sense": "1",
+          "note": "מִשְׁנָה"
+        },
+        {
+          "id": "3:8.14",
+          "gloss": "accounts",
+          "sense": "1"
+        },
+        {
+          "id": "3:8.15",
+          "gloss": "to him"
+        },
+        {
+          "id": "3:8.16",
+          "gloss": "Scripture",
+          "sense": "1.1.1"
+        },
+        {
+          "id": "3:8.17",
+          "gloss": "as if"
+        },
+        {
+          "id": "3:8.18",
+          "gloss": "he is liable",
+          "sense": "1"
+        },
+        {
+          "id": "3:8.19",
+          "gloss": "with his life",
+          "sense": "1.4"
+        },
+        {
+          "id": "3:8.20",
+          "gloss": "as it is said",
+          "sense": "1.1",
+          "note": "שֶׁנֶּאֱמַר: Nifal perfect, the formula introducing a verse"
+        },
+        {
+          "id": "3:8.21",
+          "gloss": "Deuteronomy",
+          "note": "citation"
+        },
+        {
+          "id": "3:8.22",
+          "gloss": "4",
+          "note": "citation: chapter 4"
+        },
+        {
+          "id": "3:8.23",
+          "gloss": "only",
+          "note": "רַק"
+        },
+        {
+          "id": "3:8.24",
+          "gloss": "take heed",
+          "sense": "1",
+          "note": "Nifal imperative; 'be on guard'"
+        },
+        {
+          "id": "3:8.25",
+          "gloss": "to yourself",
+          "note": "dative of interest, לְךָ"
+        },
+        {
+          "id": "3:8.26",
+          "gloss": "and guard",
+          "sense": "1",
+          "note": "qal imperative"
+        },
+        {
+          "id": "3:8.27",
+          "gloss": "your soul",
+          "sense": "1.4"
+        },
+        {
+          "id": "3:8.28",
+          "gloss": "diligently",
+          "sense": "2",
+          "note": "מְאֹד"
+        },
+        {
+          "id": "3:8.29",
+          "gloss": "lest"
+        },
+        {
+          "id": "3:8.30",
+          "gloss": "you forget",
+          "sense": "1.1.1",
+          "note": "qal imperfect, 2nd masculine singular"
+        },
+        {
+          "id": "3:8.31",
+          "gloss": "-",
+          "note": "object marker"
+        },
+        {
+          "id": "3:8.32",
+          "gloss": "the things",
+          "sense": "1.4"
+        },
+        {
+          "id": "3:8.33",
+          "gloss": "that"
+        },
+        {
+          "id": "3:8.34",
+          "gloss": "saw",
+          "note": "qal perfect, 3rd plural; the verb's subject is 'your eyes' and is plural in the verse"
+        },
+        {
+          "id": "3:8.35",
+          "gloss": "your eyes",
+          "note": "dual construct with suffix: עֵינֶיךָ"
+        },
+        {
+          "id": "3:8.36",
+          "gloss": "one might think",
+          "sense": "1",
+          "note": "יָכוֹל: the formula of a mistaken inference, followed by the answer 'the teaching says'"
+        },
+        {
+          "id": "3:8.37",
+          "gloss": "even if"
+        },
+        {
+          "id": "3:8.38",
+          "gloss": "was strong",
+          "sense": "1",
+          "note": "תָּקְפָה: 'was strong, overpowered'; the subject is the learning (fem.)"
+        },
+        {
+          "id": "3:8.39",
+          "gloss": "upon him",
+          "note": "עָלָיו"
+        },
+        {
+          "id": "3:8.40",
+          "gloss": "his learning",
+          "sense": "1"
+        },
+        {
+          "id": "3:8.41",
+          "gloss": "the teaching",
+          "sense": "1",
+          "note": "תַּלְמוּד: formula for the verse that corrects the inference"
+        },
+        {
+          "id": "3:8.42",
+          "gloss": "says",
+          "sense": "1.1",
+          "note": "לוֹמַר: infinitive construct, 'to say'"
+        },
+        {
+          "id": "3:8.43",
+          "gloss": "in the same passage",
+          "note": "שָׁם: 'there', citation formula meaning in the same place"
+        },
+        {
+          "id": "3:8.44",
+          "gloss": "and lest"
+        },
+        {
+          "id": "3:8.45",
+          "gloss": "they depart",
+          "sense": "1",
+          "note": "qal imperfect, 3rd masculine plural"
+        },
+        {
+          "id": "3:8.46",
+          "gloss": "from your heart",
+          "sense": "1",
+          "note": "מִלְּבָבְךָ"
+        },
+        {
+          "id": "3:8.47",
+          "gloss": "all",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:8.48",
+          "gloss": "days of",
+          "sense": "1",
+          "note": "construct plural of יוֹם"
+        },
+        {
+          "id": "3:8.49",
+          "gloss": "your life",
+          "sense": "1",
+          "note": "חַיֶּיךָ: plural noun 'life'"
+        },
+        {
+          "id": "3:8.50",
+          "gloss": "thus",
+          "note": "הָא: 'so, it follows that'"
+        },
+        {
+          "id": "3:8.51",
+          "gloss": "he is not"
+        },
+        {
+          "id": "3:8.52",
+          "gloss": "liable",
+          "sense": "1"
+        },
+        {
+          "id": "3:8.53",
+          "gloss": "with his life",
+          "sense": "1.4"
+        },
+        {
+          "id": "3:8.54",
+          "gloss": "until"
+        },
+        {
+          "id": "3:8.55",
+          "gloss": "he sits",
+          "sense": "1.1.1",
+          "note": "שֶׁיֵּשֵׁב: 'that he sit'"
+        },
+        {
+          "id": "3:8.56",
+          "gloss": "and removes them",
+          "sense": "1",
+          "note": "Hifil imperfect with 3rd plural suffix"
+        },
+        {
+          "id": "3:8.57",
+          "gloss": "from his heart",
+          "sense": "1",
+          "note": "מִלִּבּוֹ"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:8.1",
+            "3:8.2",
+            "3:8.3",
+            "3:8.4"
+          ],
+          "english": "Rabbi Dostai son of Rabbi Yannai",
+          "literal": "'my-master Dostai in-my-master Yannai'; בְּרַבִּי is 'son of Rabbi'"
+        },
+        {
+          "tokens": [
+            "3:8.5",
+            "3:8.6",
+            "3:8.7"
+          ],
+          "english": "in the name of Rabbi Meir",
+          "literal": "'from-name-of my-master Meir'"
+        },
+        {
+          "tokens": [
+            "3:8.8"
+          ],
+          "english": "says",
+          "literal": "participle"
+        },
+        {
+          "tokens": [
+            "3:8.9",
+            "3:8.10",
+            "3:8.11",
+            "3:8.12",
+            "3:8.13"
+          ],
+          "english": "Whoever forgets a single thing from his learning",
+          "literal": "'all the-forgetting thing one from-his-repetition'"
+        },
+        {
+          "tokens": [
+            "3:8.14",
+            "3:8.15",
+            "3:8.16"
+          ],
+          "english": "Scripture accounts it to him",
+          "literal": "'raising upon-him the-written'"
+        },
+        {
+          "tokens": [
+            "3:8.17",
+            "3:8.18",
+            "3:8.19"
+          ],
+          "english": "as if he were forfeiting his life",
+          "literal": "'as-if incurring-liability in-his-soul'"
+        },
+        {
+          "tokens": [
+            "3:8.20"
+          ],
+          "english": "as it is said",
+          "literal": "'that-it-was-said'"
+        },
+        {
+          "tokens": [
+            "3:8.21",
+            "3:8.22"
+          ],
+          "english": "-",
+          "literal": "citation of the verse (Deuteronomy 4), no English counterpart"
+        },
+        {
+          "tokens": [
+            "3:8.23",
+            "3:8.24",
+            "3:8.25"
+          ],
+          "english": "Only take heed to yourself",
+          "literal": "'only be-guarded to-you'"
+        },
+        {
+          "tokens": [
+            "3:8.26",
+            "3:8.27",
+            "3:8.28"
+          ],
+          "english": "and guard your soul diligently",
+          "literal": "'and-guard your-soul very'"
+        },
+        {
+          "tokens": [
+            "3:8.29",
+            "3:8.30"
+          ],
+          "english": "lest you forget",
+          "literal": "'lest you-forget'"
+        },
+        {
+          "tokens": [
+            "3:8.31"
+          ],
+          "english": "-",
+          "literal": "direct-object marker; no English counterpart"
+        },
+        {
+          "tokens": [
+            "3:8.32"
+          ],
+          "english": "the things",
+          "literal": "'the-things'"
+        },
+        {
+          "tokens": [
+            "3:8.33",
+            "3:8.34",
+            "3:8.35"
+          ],
+          "english": "that your eyes saw",
+          "literal": "'that saw your-eyes'; the plural verb agrees with the grammatical plural 'eyes'"
+        },
+        {
+          "tokens": [
+            "3:8.36"
+          ],
+          "english": "One might think",
+          "literal": "'able'"
+        },
+        {
+          "tokens": [
+            "3:8.37",
+            "3:8.38",
+            "3:8.39",
+            "3:8.40"
+          ],
+          "english": "even if his learning was too strong for him",
+          "literal": "'even-if was-strong upon-him his-repetition'"
+        },
+        {
+          "tokens": [
+            "3:8.41",
+            "3:8.42"
+          ],
+          "english": "the teaching says",
+          "literal": "'teaching to-say'; the formula that introduces the correcting verse"
+        },
+        {
+          "tokens": [
+            "3:8.43"
+          ],
+          "english": "in the same passage",
+          "literal": "'there'; citation formula"
+        },
+        {
+          "tokens": [
+            "3:8.44",
+            "3:8.45"
+          ],
+          "english": "and lest they depart",
+          "literal": "'and-lest they-depart'"
+        },
+        {
+          "tokens": [
+            "3:8.46"
+          ],
+          "english": "from your heart",
+          "literal": "'from-your-heart'"
+        },
+        {
+          "tokens": [
+            "3:8.47",
+            "3:8.48",
+            "3:8.49"
+          ],
+          "english": "all the days of your life",
+          "literal": "'all days-of your-life'"
+        },
+        {
+          "tokens": [
+            "3:8.50"
+          ],
+          "english": "Thus",
+          "literal": "'thus, it follows'"
+        },
+        {
+          "tokens": [
+            "3:8.51",
+            "3:8.52",
+            "3:8.53"
+          ],
+          "english": "he is not forfeiting his life",
+          "literal": "'not incurring-liability in-his-soul'"
+        },
+        {
+          "tokens": [
+            "3:8.54",
+            "3:8.55"
+          ],
+          "english": "until he sits",
+          "literal": "'until that-he-sit'"
+        },
+        {
+          "tokens": [
+            "3:8.56"
+          ],
+          "english": "and removes them",
+          "literal": "'and-remove-them'"
+        },
+        {
+          "tokens": [
+            "3:8.57"
+          ],
+          "english": "from his heart",
+          "literal": "'from-his-heart'"
+        }
+      ],
+      "grammar": [
+        "בְּרַבִּי is a contraction of 'son of Rabbi' (bar-rabbi); בֶּן is not used. The chain is Dostai, son of Rabbi Yannai, in the name of Rabbi Meir.",
+        "The saying has a statement, a proof text, a challenge introduced by יָכוֹל ('one might think') and an answer introduced by תַּלְמוּד לוֹמַר ('the teaching says'); the final הָא ('so') draws the conclusion.",
+        "The first verse is Deuteronomy 4:9 and the second continues the same verse: שָׁם marks 'in the same place'. The subject of the plural verb רָאוּ is 'eyes', as in the verse.",
+        "שֶׁנֶּאֱמַר is the Nifal of אמר with שֶׁ: 'as it was said'. The citation in brackets (דברים ד) is a note in the printed text, not part of the saying.",
+        "הַשּׁוֹכֵחַ, מִתְחַיֵּב and the like are participles; כָּל הַשּׁוֹכֵחַ is 'every one who forgets', a topic that is resumed by מַעֲלֶה עָלָיו.",
+        "וִיסִירֵם is a Hifil imperfect with a 3rd masculine plural suffix, 'and he removes them'; the subject is the student who sits and does it on purpose."
+      ],
+      "note": "'Learning' translates מִשְׁנָה in its general sense of what has been repeated and learned, not the book 'Mishnah'. 'Forfeiting his life' renders מִתְחַיֵּב בְּנַפְשׁוֹ, literally 'liable in his soul'. 'Too strong for him' is Bartenura's reading of תָּקְפָה עָלָיו: it was hard for him and he forgot it because of the difficulty. The two readings of why forgetting counts against him are recorded under the Bartenura anchor.",
+      "commentary": [
+        {
+          "anchor": "bartenura:3:8:1",
+          "relation": "follows",
+          "summary": "Bartenura: because he did not review it, it is counted against him as if he were liable with his life: through forgetting he may come to permit what is forbidden, so that a stumbling results and his error becomes deliberate; or: that mishnah was his safeguard and now that he has forgotten it, it no longer guards him."
+        },
+        {
+          "anchor": "bartenura:3:8:2",
+          "relation": "follows",
+          "summary": "Bartenura: 'it was strong for him' means it was hard for him and because of its difficulty he forgot it."
+        }
+      ],
+      "apparatus": [
+        "Quotation: Deuteronomy 4:9, רַק הִשָּׁמֶר לְךָ וּשְׁמֹר נַפְשְׁךָ מְאֹד פֶּן תִּשְׁכַּח אֶת הַדְּבָרִים אֲשֶׁר רָאוּ עֵינֶיךָ, and (continued) וּפֶן יָסוּרוּ מִלְּבָבְךָ כֹּל יְמֵי חַיֶּיךָ; the verse continues with 'and you shall make them known to your children'.",
+        "Spelling: Vilna reads כאילו, מתחייב (twice), ושמור and אפילו where the base text has כְּאִלּוּ, מִתְחַיֵּב, וּשְׁמֹר and אֲפִלּוּ.",
+        "The base text has the citation דברים ד; Vilna has a different citation mark (ט)."
+      ]
+    },
+    {
+      "ref": "3:9",
+      "english": "Rabbi Hanina son of Dosa says: Anyone whose fear of sin comes before his wisdom, his wisdom endures. But anyone whose wisdom comes before his fear of sin, his wisdom does not endure. He used to say: Anyone whose deeds exceed his wisdom, his wisdom endures. But anyone whose wisdom exceeds his deeds, his wisdom does not endure.",
+      "literal": "my-master Hanina son-of Dosa saying: all that-fear-of his-sin preceding to-his-wisdom, his-wisdom enduring. and-all that-his-wisdom preceding to-fear-of his-sin, not his-wisdom enduring. he was saying: all that-his-deeds more-numerous than-his-wisdom, his-wisdom enduring. and-all that-his-wisdom more-numerous than-his-deeds, not his-wisdom enduring.",
+      "tokens": [
+        {
+          "id": "3:9.1",
+          "gloss": "Rabbi",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.2",
+          "gloss": "Hanina"
+        },
+        {
+          "id": "3:9.3",
+          "gloss": "son of",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.4",
+          "gloss": "Dosa",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.5",
+          "gloss": "says",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:9.6",
+          "gloss": "anyone",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:9.7",
+          "gloss": "whose fear of",
+          "sense": "1.3",
+          "note": "שֶׁיִּרְאַת: שֶׁ + construct 'fear of'"
+        },
+        {
+          "id": "3:9.8",
+          "gloss": "his sin",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:9.9",
+          "gloss": "comes before",
+          "sense": "1",
+          "note": "קוֹדֶמֶת: feminine participle (agreeing with 'fear')"
+        },
+        {
+          "id": "3:9.10",
+          "gloss": "his wisdom",
+          "sense": "1",
+          "note": "לְחָכְמָתוֹ"
+        },
+        {
+          "id": "3:9.11",
+          "gloss": "his wisdom",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.12",
+          "gloss": "endures",
+          "sense": "1",
+          "note": "Hitpael participle of קום: 'stands firm, is established'"
+        },
+        {
+          "id": "3:9.13",
+          "gloss": "and anyone",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:9.14",
+          "gloss": "whose wisdom",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.15",
+          "gloss": "comes before",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.16",
+          "gloss": "his fear of",
+          "sense": "1.3"
+        },
+        {
+          "id": "3:9.17",
+          "gloss": "sin",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:9.18",
+          "gloss": "not"
+        },
+        {
+          "id": "3:9.19",
+          "gloss": "his wisdom",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.20",
+          "gloss": "endures",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.21",
+          "gloss": "he"
+        },
+        {
+          "id": "3:9.22",
+          "gloss": "used to be",
+          "sense": "1",
+          "note": "הָיָה + participle: habitual past"
+        },
+        {
+          "id": "3:9.23",
+          "gloss": "saying",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:9.24",
+          "gloss": "anyone",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:9.25",
+          "gloss": "whose deeds",
+          "sense": "1.1",
+          "note": "מַעֲשָׂיו: plural with suffix"
+        },
+        {
+          "id": "3:9.26",
+          "gloss": "exceed",
+          "sense": "1",
+          "note": "מְרֻבִּין: masculine plural participle of רבה, 'are more numerous'"
+        },
+        {
+          "id": "3:9.27",
+          "gloss": "his wisdom",
+          "sense": "1",
+          "note": "מֵחָכְמָתוֹ: 'than his wisdom', comparative min"
+        },
+        {
+          "id": "3:9.28",
+          "gloss": "his wisdom",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.29",
+          "gloss": "endures",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.30",
+          "gloss": "and anyone",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:9.31",
+          "gloss": "whose wisdom",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.32",
+          "gloss": "exceeds",
+          "sense": "1",
+          "note": "מְרֻבָּה: feminine singular, agreeing with wisdom"
+        },
+        {
+          "id": "3:9.33",
+          "gloss": "his deeds",
+          "sense": "1.1",
+          "note": "מִמַּעֲשָׂיו: 'than his deeds'"
+        },
+        {
+          "id": "3:9.34",
+          "gloss": "not"
+        },
+        {
+          "id": "3:9.35",
+          "gloss": "his wisdom",
+          "sense": "1"
+        },
+        {
+          "id": "3:9.36",
+          "gloss": "endures",
+          "sense": "1"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:9.1",
+            "3:9.2",
+            "3:9.3",
+            "3:9.4"
+          ],
+          "english": "Rabbi Hanina son of Dosa",
+          "literal": "'my-master Hanina son-of Dosa'"
+        },
+        {
+          "tokens": [
+            "3:9.5"
+          ],
+          "english": "says",
+          "literal": "participle"
+        },
+        {
+          "tokens": [
+            "3:9.6",
+            "3:9.7",
+            "3:9.8"
+          ],
+          "english": "Anyone whose fear of sin",
+          "literal": "'all that-fear-of his-sin'"
+        },
+        {
+          "tokens": [
+            "3:9.9",
+            "3:9.10"
+          ],
+          "english": "comes before his wisdom",
+          "literal": "'preceding to-his-wisdom'"
+        },
+        {
+          "tokens": [
+            "3:9.11",
+            "3:9.12"
+          ],
+          "english": "his wisdom endures",
+          "literal": "'his-wisdom enduring'"
+        },
+        {
+          "tokens": [
+            "3:9.13",
+            "3:9.14"
+          ],
+          "english": "But anyone whose wisdom",
+          "literal": "'and-all that-his-wisdom'"
+        },
+        {
+          "tokens": [
+            "3:9.15",
+            "3:9.16",
+            "3:9.17"
+          ],
+          "english": "comes before his fear of sin",
+          "literal": "'preceding to-fear-of his-sin'"
+        },
+        {
+          "tokens": [
+            "3:9.18",
+            "3:9.19",
+            "3:9.20"
+          ],
+          "english": "his wisdom does not endure",
+          "literal": "'not his-wisdom enduring'"
+        },
+        {
+          "tokens": [
+            "3:9.21",
+            "3:9.22",
+            "3:9.23"
+          ],
+          "english": "He used to say",
+          "literal": "'he was saying'"
+        },
+        {
+          "tokens": [
+            "3:9.24",
+            "3:9.25"
+          ],
+          "english": "Anyone whose deeds",
+          "literal": "'all that-his-deeds'"
+        },
+        {
+          "tokens": [
+            "3:9.26",
+            "3:9.27"
+          ],
+          "english": "exceed his wisdom",
+          "literal": "'more-numerous than-his-wisdom'"
+        },
+        {
+          "tokens": [
+            "3:9.28",
+            "3:9.29"
+          ],
+          "english": "his wisdom endures",
+          "literal": "'his-wisdom enduring'"
+        },
+        {
+          "tokens": [
+            "3:9.30",
+            "3:9.31"
+          ],
+          "english": "But anyone whose wisdom",
+          "literal": "'and-all that-his-wisdom'"
+        },
+        {
+          "tokens": [
+            "3:9.32",
+            "3:9.33"
+          ],
+          "english": "exceeds his deeds",
+          "literal": "'more-numerous than-his-deeds'"
+        },
+        {
+          "tokens": [
+            "3:9.34",
+            "3:9.35",
+            "3:9.36"
+          ],
+          "english": "his wisdom does not endure",
+          "literal": "'not his-wisdom enduring'"
+        }
+      ],
+      "grammar": [
+        "The saying is built on two matched pairs, each with an affirmative and a negative half. כָּל שֶׁ... 'anyone who/whose' opens each half and is resumed by the main clause (a casus pendens: 'anyone whose fear of sin precedes, his wisdom endures').",
+        "קוֹדֶמֶת and מִתְקַיֶּמֶת are feminine participles agreeing with יִרְאַת and חָכְמָה; מְרֻבִּין is masculine plural (the deeds), מְרֻבָּה feminine singular (the wisdom).",
+        "מִן in מֵחָכְמָתוֹ and מִמַּעֲשָׂיו is comparative: 'more than'. The contrast is between יִרְאַת חֵטְא (fear of sin) and wisdom, and then between deeds and wisdom.",
+        "הוּא הָיָה אוֹמֵר, 'He used to say': the same rabbi continues, with a second saying; the formula is the Avot formula for a second saying.",
+        "אֵין with a participle negates a predicate: אֵין חָכְמָתוֹ מִתְקַיֶּמֶת, 'his wisdom is not enduring'."
+      ],
+      "note": "מִתְקַיֶּמֶת 'endures' is the Hitpael participle of קום 'stand', 'is established, lasts'. Bartenura explains it as the wisdom bringing him to what his heart desires, so that he takes pleasure in it. For 'deeds exceed wisdom' Bartenura says the case is one who is diligent in positive commandments, the earlier clause being about negative ones; the English keeps the plain 'deeds'.",
+      "commentary": [
+        {
+          "anchor": "bartenura:3:9:1",
+          "relation": "follows",
+          "summary": "Bartenura: he puts fear of sin first in his thought, thinking 'I shall learn so that I will be one who fears sin'; this is the principle that the beginning of thought is the end of action."
+        },
+        {
+          "anchor": "bartenura:3:9:2",
+          "relation": "follows",
+          "summary": "Bartenura: his wisdom endures because wisdom brings him to what his heart desires, and he takes pleasure in it."
+        },
+        {
+          "anchor": "bartenura:3:9:3",
+          "relation": "follows",
+          "summary": "Bartenura: he does not learn in order to act, since his heart is not turned to being one who fears sin."
+        },
+        {
+          "anchor": "bartenura:3:9:4",
+          "relation": "follows",
+          "summary": "Bartenura: since wisdom prevents him from following the stubbornness of his heart, he comes to loathe it, reject it and leave it."
+        },
+        {
+          "anchor": "bartenura:3:9:5",
+          "relation": "follows",
+          "summary": "Bartenura: here the mishnah speaks of one who is diligent in positive commandments, while the earlier clause about fear of sin spoke of one who is careful with negative commandments."
+        },
+        {
+          "anchor": "rambam:3:9:1",
+          "relation": "follows",
+          "summary": "Rambam: the philosophers also agree that when the habit of virtues comes first and becomes a firm possession, and only afterward he learns wisdom, it spurs him on to those good things and adds joy and love of wisdom; but if knowledge comes first and wisdom then restrains him from what he craves by habit, wisdom grows heavy for him and he abandons it."
+        }
+      ],
+      "apparatus": [
+        "Spelling: Vilna reads מתקיימת, מרובין and מרובה where the base text has מִתְקַיֶּמֶת, מְרֻבִּין and מְרֻבָּה.",
+        "Rabbeinu Yonah (not normative) reads 'deeds exceed wisdom' as the person's knowledge and observance."
+      ]
+    },
+    {
+      "ref": "3:10",
+      "english": "He used to say: Anyone with whom the spirit of people is pleased, the spirit of the Omnipresent is pleased with him. And anyone with whom the spirit of people is not pleased, the spirit of the Omnipresent is not pleased with him. Rabbi Dosa son of Harkinas says: Morning sleep, midday wine, the chatter of children, and sitting in the synagogues of the unlearned remove a person from the world.",
+      "literal": "he was saying: all that-spirit-of the-creatures pleased from-him, spirit-of the-Place pleased from-him. and-all that-not spirit-of the-creatures pleased from-him, not spirit-of the-Place pleased from-him. my-master Dosa son-of Harkinas saying: sleep of morning, and-wine of noon, and-talk-of the-children, and-sitting-of houses-of assemblies of people-of the-land, removing the-man from the-world.",
+      "tokens": [
+        {
+          "id": "3:10.1",
+          "gloss": "he"
+        },
+        {
+          "id": "3:10.2",
+          "gloss": "used to be",
+          "sense": "1"
+        },
+        {
+          "id": "3:10.3",
+          "gloss": "saying",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:10.4",
+          "gloss": "anyone",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:10.5",
+          "gloss": "with whom the spirit of",
+          "sense": "1.2",
+          "note": "שֶׁרוּחַ: שֶׁ + 'spirit of'; the relative 'with whom' is carried by הֵימֶנּוּ"
+        },
+        {
+          "id": "3:10.6",
+          "gloss": "people",
+          "note": "הַבְּרִיּוֹת: 'the creatures', the people of the world"
+        },
+        {
+          "id": "3:10.7",
+          "gloss": "is pleased",
+          "note": "נוֹחָה: feminine participle, 'is at ease, is content'"
+        },
+        {
+          "id": "3:10.8",
+          "gloss": "with him",
+          "note": "הֵימֶנּוּ: Mishnaic form of 'from him'; 'pleased with him'"
+        },
+        {
+          "id": "3:10.9",
+          "gloss": "the spirit of",
+          "sense": "1.2"
+        },
+        {
+          "id": "3:10.10",
+          "gloss": "the Omnipresent",
+          "sense": "1",
+          "note": "הַמָּקוֹם, literally 'the Place', a name of God"
+        },
+        {
+          "id": "3:10.11",
+          "gloss": "is pleased"
+        },
+        {
+          "id": "3:10.12",
+          "gloss": "with him"
+        },
+        {
+          "id": "3:10.13",
+          "gloss": "and anyone",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:10.14",
+          "gloss": "with whom not",
+          "note": "שֶׁאֵין: 'that there is not'"
+        },
+        {
+          "id": "3:10.15",
+          "gloss": "the spirit of",
+          "sense": "1.2"
+        },
+        {
+          "id": "3:10.16",
+          "gloss": "people"
+        },
+        {
+          "id": "3:10.17",
+          "gloss": "is pleased"
+        },
+        {
+          "id": "3:10.18",
+          "gloss": "with him"
+        },
+        {
+          "id": "3:10.19",
+          "gloss": "not"
+        },
+        {
+          "id": "3:10.20",
+          "gloss": "the spirit of",
+          "sense": "1.2"
+        },
+        {
+          "id": "3:10.21",
+          "gloss": "the Omnipresent",
+          "sense": "1"
+        },
+        {
+          "id": "3:10.22",
+          "gloss": "is pleased"
+        },
+        {
+          "id": "3:10.23",
+          "gloss": "with him"
+        },
+        {
+          "id": "3:10.24",
+          "gloss": "Rabbi",
+          "sense": "1"
+        },
+        {
+          "id": "3:10.25",
+          "gloss": "Dosa",
+          "sense": "1"
+        },
+        {
+          "id": "3:10.26",
+          "gloss": "son of",
+          "sense": "1"
+        },
+        {
+          "id": "3:10.27",
+          "gloss": "Harkinas",
+          "sense": "1"
+        },
+        {
+          "id": "3:10.28",
+          "gloss": "says",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:10.29",
+          "gloss": "sleep",
+          "sense": "1",
+          "note": "שֵׁנָה"
+        },
+        {
+          "id": "3:10.30",
+          "gloss": "of",
+          "note": "שֶׁל"
+        },
+        {
+          "id": "3:10.31",
+          "gloss": "morning",
+          "sense": "1",
+          "note": "שַׁחֲרִית: 1st morning prayer time, the morning"
+        },
+        {
+          "id": "3:10.32",
+          "gloss": "and wine",
+          "sense": "1"
+        },
+        {
+          "id": "3:10.33",
+          "gloss": "of",
+          "note": "שֶׁל"
+        },
+        {
+          "id": "3:10.34",
+          "gloss": "midday",
+          "note": "צָהֳרַיִם: dual, 'noon'"
+        },
+        {
+          "id": "3:10.35",
+          "gloss": "and the chatter of",
+          "sense": "1",
+          "note": "שִׂיחָה: talk, idle talk"
+        },
+        {
+          "id": "3:10.36",
+          "gloss": "children",
+          "sense": "1",
+          "note": "הַיְלָדִים"
+        },
+        {
+          "id": "3:10.37",
+          "gloss": "and sitting",
+          "sense": "1",
+          "note": "יְשִׁיבָה: sitting, staying"
+        },
+        {
+          "id": "3:10.38",
+          "gloss": "houses of",
+          "note": "בָּתֵּי: construct plural of בַּיִת; the lexicon entry offered is a place name and no sense is given"
+        },
+        {
+          "id": "3:10.39",
+          "gloss": "assemblies",
+          "sense": "1",
+          "note": "כְנֵסִיּוֹת: synagogues (Jastrow, 'assembly')"
+        },
+        {
+          "id": "3:10.40",
+          "gloss": "of",
+          "note": "שֶׁל"
+        },
+        {
+          "id": "3:10.41",
+          "gloss": "people of",
+          "note": "עַמֵּי: construct plural of עַם"
+        },
+        {
+          "id": "3:10.42",
+          "gloss": "the land",
+          "sense": "1",
+          "note": "הָאָרֶץ: with עַם, the 'unlearned'"
+        },
+        {
+          "id": "3:10.43",
+          "gloss": "remove",
+          "sense": "1",
+          "note": "מוֹצִיאִין: Hifil participle, masculine plural, 'cause to go out'"
+        },
+        {
+          "id": "3:10.44",
+          "gloss": "-",
+          "note": "object marker"
+        },
+        {
+          "id": "3:10.45",
+          "gloss": "a person",
+          "note": "הָאָדָם: 'the man', the human being; the lexicon entry offered is a name and no sense is given"
+        },
+        {
+          "id": "3:10.46",
+          "gloss": "from"
+        },
+        {
+          "id": "3:10.47",
+          "gloss": "the world",
+          "sense": "1"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:10.1",
+            "3:10.2",
+            "3:10.3"
+          ],
+          "english": "He used to say",
+          "literal": "'he was saying'"
+        },
+        {
+          "tokens": [
+            "3:10.4",
+            "3:10.5",
+            "3:10.6"
+          ],
+          "english": "Anyone with whom the spirit of people",
+          "literal": "'all that-spirit-of the-creatures'; the 'with whom' is the relative construction completed by הֵימֶנּוּ"
+        },
+        {
+          "tokens": [
+            "3:10.7",
+            "3:10.8"
+          ],
+          "english": "is pleased",
+          "literal": "'pleased from-him'"
+        },
+        {
+          "tokens": [
+            "3:10.9",
+            "3:10.10"
+          ],
+          "english": "the spirit of the Omnipresent",
+          "literal": "'spirit-of the-Place'; הַמָּקוֹם is God"
+        },
+        {
+          "tokens": [
+            "3:10.11",
+            "3:10.12"
+          ],
+          "english": "is pleased with him",
+          "literal": "'pleased from-him'"
+        },
+        {
+          "tokens": [
+            "3:10.13",
+            "3:10.14",
+            "3:10.15",
+            "3:10.16",
+            "3:10.17",
+            "3:10.18"
+          ],
+          "english": "And anyone with whom the spirit of people is not pleased",
+          "literal": "'and-all that-not spirit-of the-creatures pleased from-him'"
+        },
+        {
+          "tokens": [
+            "3:10.19",
+            "3:10.20",
+            "3:10.21",
+            "3:10.22",
+            "3:10.23"
+          ],
+          "english": "the spirit of the Omnipresent is not pleased with him",
+          "literal": "'not spirit-of the-Place pleased from-him'"
+        },
+        {
+          "tokens": [
+            "3:10.24",
+            "3:10.25",
+            "3:10.26",
+            "3:10.27"
+          ],
+          "english": "Rabbi Dosa son of Harkinas",
+          "literal": "'my-master Dosa son-of Harkinas'"
+        },
+        {
+          "tokens": [
+            "3:10.28"
+          ],
+          "english": "says",
+          "literal": "participle"
+        },
+        {
+          "tokens": [
+            "3:10.29",
+            "3:10.30",
+            "3:10.31"
+          ],
+          "english": "Morning sleep",
+          "literal": "'sleep of morning'"
+        },
+        {
+          "tokens": [
+            "3:10.32",
+            "3:10.33",
+            "3:10.34"
+          ],
+          "english": "midday wine",
+          "literal": "'and-wine of noon'"
+        },
+        {
+          "tokens": [
+            "3:10.35",
+            "3:10.36"
+          ],
+          "english": "the chatter of children",
+          "literal": "'and-talk-of the-children'"
+        },
+        {
+          "tokens": [
+            "3:10.37"
+          ],
+          "english": "and sitting",
+          "literal": "'and-sitting-of'"
+        },
+        {
+          "tokens": [
+            "3:10.38",
+            "3:10.39"
+          ],
+          "english": "in the synagogues",
+          "literal": "'houses-of assemblies'"
+        },
+        {
+          "tokens": [
+            "3:10.40",
+            "3:10.41",
+            "3:10.42"
+          ],
+          "english": "of the unlearned",
+          "literal": "'of people-of the-land'; עַם הָאָרֶץ"
+        },
+        {
+          "tokens": [
+            "3:10.43"
+          ],
+          "english": "remove",
+          "literal": "'removing'; plural participle, the four things are the subject"
+        },
+        {
+          "tokens": [
+            "3:10.44"
+          ],
+          "english": "-",
+          "literal": "object marker"
+        },
+        {
+          "tokens": [
+            "3:10.45"
+          ],
+          "english": "a person",
+          "literal": "'the-man'"
+        },
+        {
+          "tokens": [
+            "3:10.46",
+            "3:10.47"
+          ],
+          "english": "from the world",
+          "literal": "'from the-world'"
+        }
+      ],
+      "grammar": [
+        "הוּא הָיָה אוֹמֵר 'He used to say' continues Rabbi Hanina ben Dosa's sayings from 3:9. The pair of sayings is built on כָּל שֶׁ... 'anyone whose/with whom'.",
+        "נוֹחָה הֵימֶנּוּ: נוֹחָה is a feminine participle (agreeing with רוּחַ, which is here feminine); הֵימֶנּוּ is the Mishnaic form of מִמֶּנּוּ, 'from him'. The idiom is 'the spirit is at ease with him'.",
+        "The saying is a parallel of cause and effect: what people feel toward a person is what the Omnipresent feels. אֵין is the negative.",
+        "Rabbi Dosa's list is four nouns in construct chains (שֵׁנָה שֶׁל שַׁחֲרִית 'sleep of morning'), each linked with וְ; the plural participle מוֹצִיאִין has the whole list as subject.",
+        "עַם הָאָרֶץ is literally 'people of the land'; in the Mishnah it means an unlearned person, a person ignorant of Torah. הַמָּקוֹם is literally 'the Place', a name of God."
+      ],
+      "note": "הַמָּקוֹם is rendered 'the Omnipresent' (literally 'the Place') as in the work's decisions. עַמֵּי הָאָרֶץ is 'the unlearned' (literally 'people of the land'). 'Synagogues' renders בָּתֵּי כְנֵסִיּוֹת, 'houses of assembly'. Bartenura says the last item is wrong because people gather there and talk of idle things. 'Spirit ... is pleased' renders רוּחַ ... נוֹחָה, 'the spirit is at ease'; Bartenura glosses it as love: whoever is loved below is loved above.",
+      "commentary": [
+        {
+          "anchor": "bartenura:3:10:1",
+          "relation": "follows",
+          "summary": "Bartenura: whoever is beloved below is known to be beloved above."
+        },
+        {
+          "anchor": "bartenura:3:10:2",
+          "relation": "follows",
+          "summary": "Bartenura: sleeping late in the morning until the time for reciting the Shema has passed."
+        },
+        {
+          "anchor": "bartenura:3:10:3",
+          "relation": "follows",
+          "summary": "Bartenura: wine draws a person's heart, as it is written 'to draw my flesh with wine' (Ecclesiastes 2:3), and brings him to drunkenness."
+        },
+        {
+          "anchor": "bartenura:3:10:4",
+          "relation": "follows",
+          "summary": "Bartenura: the chatter of children keeps their fathers from engaging in Torah."
+        },
+        {
+          "anchor": "bartenura:3:10:5",
+          "relation": "follows",
+          "summary": "Bartenura: they gather there and speak idle things."
+        },
+        {
+          "anchor": "rambam:3:10:1",
+          "relation": "follows",
+          "summary": "Rambam: he says that these things prevent and cancel a person's excellence until he goes out of the world and is lost."
+        }
+      ],
+      "apparatus": [
+        "Spelling: Vilna reads שינה for שֵׁנָה and ילדים for הַיְלָדִים.",
+        "Ecclesiastes 2:3 (לִמְשׁוֹךְ בַּיַּיִן אֶת בְּשָׂרִי) is quoted by Bartenura, not by the mishnah."
+      ]
+    },
+    {
+      "ref": "3:11",
+      "english": "Rabbi Elazar of Modi'in says: One who profanes the sacred offerings, and one who despises the festivals, and one who shames his fellow in public, and one who breaks the covenant of Abraham our father, peace be upon him, and one who brazenly flouts the Torah, contrary to the halakha: even though he has Torah and good deeds, he has no share in the world to come.",
+      "literal": "my-master Elazar the-Modi'ite saying: the-profaning the-holy-things, and-the-despising the-festivals, and-the-whitening face-of his-fellow among-the-many, and-the-breaking his-covenant of Abraham our-father upon-him the-peace, and-the-uncovering face in-the-Torah that-not as-halakha, even upon mouth-of that-there-is in-his-hand Torah and-deeds good, there-is-not to-him share to-the-world the-coming.",
+      "tokens": [
+        {
+          "id": "3:11.1",
+          "gloss": "Rabbi",
+          "sense": "1"
+        },
+        {
+          "id": "3:11.2",
+          "gloss": "Elazar",
+          "sense": "1"
+        },
+        {
+          "id": "3:11.3",
+          "gloss": "of Modi'in",
+          "sense": "1",
+          "note": "הַמּוֹדָעִי: 'the Modi'ite', from Modi'in"
+        },
+        {
+          "id": "3:11.4",
+          "gloss": "says",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:11.5",
+          "gloss": "one who profanes",
+          "sense": "1.2.1",
+          "note": "Piel participle: 'treats as ordinary, desecrates'"
+        },
+        {
+          "id": "3:11.6",
+          "gloss": "-",
+          "note": "object marker"
+        },
+        {
+          "id": "3:11.7",
+          "gloss": "the sacred offerings",
+          "sense": "1.1.3",
+          "note": "הַקָּדָשִׁים: 'the holy things', the consecrated offerings"
+        },
+        {
+          "id": "3:11.8",
+          "gloss": "and one who despises",
+          "sense": "1.1",
+          "note": "Piel participle"
+        },
+        {
+          "id": "3:11.9",
+          "gloss": "-",
+          "note": "object marker"
+        },
+        {
+          "id": "3:11.10",
+          "gloss": "the festivals",
+          "sense": "1.1.2",
+          "note": "הַמּוֹעֲדוֹת: 'the appointed times'; Bartenura: the intermediate days of a festival"
+        },
+        {
+          "id": "3:11.11",
+          "gloss": "and one who shames",
+          "sense": "1",
+          "note": "הַמַּלְבִּין: Hifil participle, 'makes white'; the idiom means 'makes pale, shames'"
+        },
+        {
+          "id": "3:11.12",
+          "gloss": "the face of",
+          "sense": "1.1",
+          "note": "construct plural"
+        },
+        {
+          "id": "3:11.13",
+          "gloss": "his fellow",
+          "sense": "5"
+        },
+        {
+          "id": "3:11.14",
+          "gloss": "in public",
+          "sense": "1",
+          "note": "בָרַבִּים: 'among the many'"
+        },
+        {
+          "id": "3:11.15",
+          "gloss": "and one who breaks",
+          "sense": "1",
+          "note": "הַמֵּפֵר: Hifil participle of פרר, 'annuls, breaks'"
+        },
+        {
+          "id": "3:11.16",
+          "gloss": "his covenant",
+          "note": "the covenant of circumcision (Bartenura, Rambam); the lexicon entry offered is a name (Berith) and the sense is only approximate"
+        },
+        {
+          "id": "3:11.17",
+          "gloss": "of",
+          "note": "שֶׁל"
+        },
+        {
+          "id": "3:11.18",
+          "gloss": "Abraham",
+          "sense": "2"
+        },
+        {
+          "id": "3:11.19",
+          "gloss": "our father",
+          "sense": "4"
+        },
+        {
+          "id": "3:11.20",
+          "gloss": "upon him",
+          "note": "עָלָיו"
+        },
+        {
+          "id": "3:11.21",
+          "gloss": "peace",
+          "sense": "1.5",
+          "note": "the benediction after the name of a righteous person: 'peace be upon him'"
+        },
+        {
+          "id": "3:11.22",
+          "gloss": "and one who brazenly flouts",
+          "sense": "1.3.1.2",
+          "note": "הַמְגַלֶּה: Piel participle, 'uncovers'; with פָּנִים the idiom 'bares (his) face', that is, acts shamelessly"
+        },
+        {
+          "id": "3:11.23",
+          "gloss": "a face",
+          "sense": "1.1",
+          "note": "פָנִים"
+        },
+        {
+          "id": "3:11.24",
+          "gloss": "the Torah",
+          "sense": "1"
+        },
+        {
+          "id": "3:11.25",
+          "gloss": "that not",
+          "note": "שֶׁלֹּא: 'which is not'"
+        },
+        {
+          "id": "3:11.26",
+          "gloss": "according to the halakha",
+          "sense": "1",
+          "note": "כַהֲלָכָה: 'as halakha', in line with the law"
+        },
+        {
+          "id": "3:11.27",
+          "gloss": "even",
+          "note": "אַף: 'even, also'; the lexicon entry offered (nose) does not fit"
+        },
+        {
+          "id": "3:11.28",
+          "gloss": "upon",
+          "note": "אַף עַל פִּי: 'even though', literally 'even upon the mouth of that...'"
+        },
+        {
+          "id": "3:11.29",
+          "gloss": "mouth",
+          "sense": "2",
+          "note": "פִּי: construct of פֶּה; in the idiom 'although'"
+        },
+        {
+          "id": "3:11.30",
+          "gloss": "that there is",
+          "note": "שֶׁיֵּשׁ"
+        },
+        {
+          "id": "3:11.31",
+          "gloss": "in his hand",
+          "sense": "1.1",
+          "note": "בְּיָדוֹ: 'in his hand, at his disposal'"
+        },
+        {
+          "id": "3:11.32",
+          "gloss": "Torah",
+          "sense": "1"
+        },
+        {
+          "id": "3:11.33",
+          "gloss": "and deeds",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:11.34",
+          "gloss": "good"
+        },
+        {
+          "id": "3:11.35",
+          "gloss": "there is not",
+          "note": "אֵין"
+        },
+        {
+          "id": "3:11.36",
+          "gloss": "to him"
+        },
+        {
+          "id": "3:11.37",
+          "gloss": "share",
+          "sense": "1"
+        },
+        {
+          "id": "3:11.38",
+          "gloss": "in the world",
+          "sense": "1",
+          "note": "לָעוֹלָם: 'to the world'"
+        },
+        {
+          "id": "3:11.39",
+          "gloss": "to come",
+          "sense": "1",
+          "note": "הַבָּא: 'the coming'; הָעוֹלָם הַבָּא is the world to come"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:11.1",
+            "3:11.2",
+            "3:11.3"
+          ],
+          "english": "Rabbi Elazar of Modi'in",
+          "literal": "'my-master Elazar the-Modi'ite'"
+        },
+        {
+          "tokens": [
+            "3:11.4"
+          ],
+          "english": "says",
+          "literal": "participle"
+        },
+        {
+          "tokens": [
+            "3:11.5"
+          ],
+          "english": "One who profanes",
+          "literal": "'the-profaning'"
+        },
+        {
+          "tokens": [
+            "3:11.6"
+          ],
+          "english": "-",
+          "literal": "object marker"
+        },
+        {
+          "tokens": [
+            "3:11.7"
+          ],
+          "english": "the sacred offerings",
+          "literal": "'the-holy-things'"
+        },
+        {
+          "tokens": [
+            "3:11.8"
+          ],
+          "english": "and one who despises",
+          "literal": "'and-the-despising'"
+        },
+        {
+          "tokens": [
+            "3:11.9"
+          ],
+          "english": "-",
+          "literal": "object marker"
+        },
+        {
+          "tokens": [
+            "3:11.10"
+          ],
+          "english": "the festivals",
+          "literal": "'the-appointed-times'"
+        },
+        {
+          "tokens": [
+            "3:11.11",
+            "3:11.12",
+            "3:11.13"
+          ],
+          "english": "and one who shames his fellow",
+          "literal": "'and-the-whitening face-of his-fellow'; the idiom turns the face white with shame"
+        },
+        {
+          "tokens": [
+            "3:11.14"
+          ],
+          "english": "in public",
+          "literal": "'among-the-many'"
+        },
+        {
+          "tokens": [
+            "3:11.15",
+            "3:11.16"
+          ],
+          "english": "and one who breaks the covenant",
+          "literal": "'and-the-breaking his-covenant'"
+        },
+        {
+          "tokens": [
+            "3:11.17",
+            "3:11.18",
+            "3:11.19"
+          ],
+          "english": "of Abraham our father",
+          "literal": "'of Abraham our-father'"
+        },
+        {
+          "tokens": [
+            "3:11.20",
+            "3:11.21"
+          ],
+          "english": "peace be upon him",
+          "literal": "'upon-him the-peace'"
+        },
+        {
+          "tokens": [
+            "3:11.22",
+            "3:11.23",
+            "3:11.24"
+          ],
+          "english": "and one who brazenly flouts the Torah",
+          "literal": "'and-the-uncovering face in-the-Torah'; Rambam and Rabbeinu Yonah and Bartenura's second reading"
+        },
+        {
+          "tokens": [
+            "3:11.25",
+            "3:11.26"
+          ],
+          "english": "contrary to the halakha",
+          "literal": "'that-not as-halakha'"
+        },
+        {
+          "tokens": [
+            "3:11.27",
+            "3:11.28",
+            "3:11.29"
+          ],
+          "english": "even though",
+          "literal": "'even upon mouth-of'; the fixed idiom אַף עַל פִּי"
+        },
+        {
+          "tokens": [
+            "3:11.30",
+            "3:11.31"
+          ],
+          "english": "he has",
+          "literal": "'that-there-is in-his-hand'"
+        },
+        {
+          "tokens": [
+            "3:11.32"
+          ],
+          "english": "Torah",
+          "literal": "'Torah'"
+        },
+        {
+          "tokens": [
+            "3:11.33",
+            "3:11.34"
+          ],
+          "english": "and good deeds",
+          "literal": "'and-deeds good'"
+        },
+        {
+          "tokens": [
+            "3:11.35",
+            "3:11.36",
+            "3:11.37"
+          ],
+          "english": "he has no share",
+          "literal": "'there-is-not to-him share'"
+        },
+        {
+          "tokens": [
+            "3:11.38",
+            "3:11.39"
+          ],
+          "english": "in the world to come",
+          "literal": "'to-the-world the-coming'"
+        }
+      ],
+      "grammar": [
+        "Each of the five offences is a participle with the article (הַמְחַלֵּל, הַמְבַזֶּה, הַמַּלְבִּין, הַמֵּפֵר, הַמְגַלֶּה) and all form the long subject; the main clause is only at the end: אֵין לוֹ חֵלֶק.",
+        "הַמַּלְבִּין פְּנֵי חֲבֵרוֹ is literally 'the one who whitens his fellow's face': a person shamed first reddens, then goes pale. The phrase is a fixed idiom for public shaming.",
+        "אַף עַל פִּי שֶׁ is a concessive conjunction: 'even though'. יֵשׁ בְּיָדוֹ is the possessive construction 'there is in his hand', that is, 'he has'.",
+        "אֵין לוֹ חֵלֶק is the negative possessive: 'there is not to him a share'. הָעוֹלָם הַבָּא (the world to come) is a participle used adjectivally.",
+        "The stem גלה in the Piel with פָּנִים means 'to uncover a face'; with בַּתּוֹרָה the idiom is 'to bare one's face (shamelessly) against the Torah'.",
+        "עָלָיו הַשָּׁלוֹם 'peace upon him' is a formula said after the name of a righteous person; it is not a statement of the mishnah."
+      ],
+      "note": "'Brazenly flouts the Torah' renders הַמְגַלֶּה פָנִים בַּתּוֹרָה שֶׁלֹּא כַהֲלָכָה. Rambam, Rabbeinu Yonah and Bartenura's second explanation take the idiom as acting shamelessly, in the open, against the Torah. Bartenura's first explanation, one who 'shows faces' (explanations) in the Torah that are not according to halakha, is recorded under the Bartenura anchor. 'The covenant of Abraham' is circumcision; Bartenura and Rabbeinu Yonah take the offence as one who has been circumcised and draws the foreskin forward to hide it. 'The festivals' is Bartenura's reading, the intermediate days (חוֹל הַמּוֹעֵד).",
+      "commentary": [
+        {
+          "anchor": "bartenura:3:11:1",
+          "relation": "follows",
+          "summary": "Bartenura: one who brings the offerings of the altar to a state of piggul, nothar or impurity, or who misappropriates and has benefit from the sanctified things, whether of the altar or of the upkeep of the Temple."
+        },
+        {
+          "anchor": "bartenura:3:11:2",
+          "relation": "follows",
+          "summary": "Bartenura: the intermediate days of a festival: he does work on them, or treats them as weekdays in eating and drinking."
+        },
+        {
+          "anchor": "bartenura:3:11:3",
+          "relation": "follows",
+          "summary": "Bartenura: a person who is shamed first reddens and then pales, because the soul has two movements, outward and inward; when he cannot find an answer he is anxious within and the spirit moves to his face and it goes pale."
+        },
+        {
+          "anchor": "bartenura:3:11:4",
+          "relation": "follows",
+          "summary": "Bartenura: one who was not circumcised, or who was circumcised and draws his foreskin forward to cover the circumcision so that it is not seen that he is circumcised."
+        },
+        {
+          "anchor": "bartenura:3:11:5",
+          "relation": "follows",
+          "summary": "Bartenura gives two explanations. The first: he 'shows faces' and explanations in the Torah that are not according to halakha, for example one who translates 'you shall not give of your seed to pass to Molech' as 'to pass to the Aramean'; this includes one who expounds disgraceful expositions. The second: he brazenly breaks the words of the Torah in public, with a high hand and no shame. The English adopts the second, which is Rambam's and Rabbeinu Yonah's reading, and records the first here."
+        },
+        {
+          "anchor": "bartenura:3:11:6",
+          "relation": "follows",
+          "summary": "Bartenura: this is one who did not repent of any of these transgressions; even if suffering came upon him and he died in suffering, he has no share in the world to come. But if he repented before his death, nothing stands before repentance."
+        },
+        {
+          "anchor": "rambam:3:11:1",
+          "relation": "follows",
+          "summary": "Rambam: one who shames his fellow."
+        },
+        {
+          "anchor": "rambam:3:11:2",
+          "relation": "follows",
+          "summary": "Rambam: one who bares his face in the Torah is one who transgresses a commandment of the Torah publicly, the height of heresy, as it says 'and the soul that does with a high hand'; the phrase means 'bares a face and acts impudently', a term of heresy, as the Yerushalmi (Peah) explains it: one who transgresses words of Torah publicly, like Jehoiakim son of Josiah."
+        },
+        {
+          "anchor": "rambam:3:11:3",
+          "relation": "follows",
+          "summary": "Rambam: 'one who breaks the covenant' is as it sounds. He adds that, for all the offences the sages said bar one from the world to come, this applies when the person did not repent and died in suffering: these sins are graver than others, since suffering together with death does not atone for them."
+        }
+      ],
+      "apparatus": [
+        "Bartenura's first reading of הַמְגַלֶּה פָנִים (one who shows or reveals interpretations in the Torah contrary to the halakha) is not adopted in the English; see the commentary.",
+        "The mishnah's 'the sacred offerings' and 'the festivals' are linked by Rabbeinu Yonah because both are called 'holy' in Scripture.",
+        "Numbers 15:30 (בְּיָד רָמָה) is quoted by Rambam, not by the mishnah.",
+        "Alternative to the English 'festivals': 'appointed times'."
+      ]
+    },
+    {
+      "ref": "3:12",
+      "english": "Rabbi Yishmael says: Be yielding to a superior, and gentle toward youth, and receive every person with joy.",
+      "literal": "my-master Yishmael saying: be light to-head, and-easy to-youth, and-be receiving the-all the-man with-joy.",
+      "tokens": [
+        {
+          "id": "3:12.1",
+          "gloss": "Rabbi",
+          "sense": "1"
+        },
+        {
+          "id": "3:12.2",
+          "gloss": "Yishmael",
+          "sense": "1"
+        },
+        {
+          "id": "3:12.3",
+          "gloss": "says",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:12.4",
+          "gloss": "be",
+          "sense": "1",
+          "note": "הֱוֵי: imperative of הָיָה, Mishnaic form"
+        },
+        {
+          "id": "3:12.5",
+          "gloss": "yielding",
+          "sense": "1",
+          "note": "קַל: 'light'; Rambam and Bartenura: quick to serve, yielding"
+        },
+        {
+          "id": "3:12.6",
+          "gloss": "to a superior",
+          "note": "לְרֹאשׁ: 'to the head', one who is a head or leader (Bartenura: an old man of standing)"
+        },
+        {
+          "id": "3:12.7",
+          "gloss": "and gentle",
+          "note": "נוֹחַ: 'easy, pleasant'; Rambam: settled, composed"
+        },
+        {
+          "id": "3:12.8",
+          "gloss": "toward youth",
+          "note": "לְתִשְׁחֹרֶת: 'to a young person' (from שחר, 'black', the black hair of youth)"
+        },
+        {
+          "id": "3:12.9",
+          "gloss": "and be",
+          "sense": "1",
+          "note": "וֶהֱוֵי"
+        },
+        {
+          "id": "3:12.10",
+          "gloss": "receiving",
+          "sense": "1",
+          "note": "מְקַבֵּל: Piel participle, 'receives, greets'; Bartenura: like מַקְבִּיל, 'faces'"
+        },
+        {
+          "id": "3:12.11",
+          "gloss": "-",
+          "note": "object marker"
+        },
+        {
+          "id": "3:12.12",
+          "gloss": "every",
+          "sense": "1.1"
+        },
+        {
+          "id": "3:12.13",
+          "gloss": "person",
+          "note": "הָאָדָם: 'the man', the human being; the lexicon entry offered is a name and no sense is given"
+        },
+        {
+          "id": "3:12.14",
+          "gloss": "with joy",
+          "sense": "1.1"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:12.1",
+            "3:12.2"
+          ],
+          "english": "Rabbi Yishmael",
+          "literal": "'my-master Yishmael'"
+        },
+        {
+          "tokens": [
+            "3:12.3"
+          ],
+          "english": "says",
+          "literal": "participle"
+        },
+        {
+          "tokens": [
+            "3:12.4",
+            "3:12.5"
+          ],
+          "english": "Be yielding",
+          "literal": "'be light'"
+        },
+        {
+          "tokens": [
+            "3:12.6"
+          ],
+          "english": "to a superior",
+          "literal": "'to-head'"
+        },
+        {
+          "tokens": [
+            "3:12.7"
+          ],
+          "english": "and gentle",
+          "literal": "'and-easy'"
+        },
+        {
+          "tokens": [
+            "3:12.8"
+          ],
+          "english": "toward youth",
+          "literal": "'to-youth'; תִּשְׁחֹרֶת, from the black hair of the young"
+        },
+        {
+          "tokens": [
+            "3:12.9",
+            "3:12.10"
+          ],
+          "english": "and receive",
+          "literal": "'and-be receiving'"
+        },
+        {
+          "tokens": [
+            "3:12.11"
+          ],
+          "english": "-",
+          "literal": "object marker"
+        },
+        {
+          "tokens": [
+            "3:12.12",
+            "3:12.13"
+          ],
+          "english": "every person",
+          "literal": "'the-all the-man'"
+        },
+        {
+          "tokens": [
+            "3:12.14"
+          ],
+          "english": "with joy",
+          "literal": "'with-joy'"
+        }
+      ],
+      "grammar": [
+        "הֱוֵי is the Mishnaic imperative of הָיָה ('be'); וֶהֱוֵי is the same with the conjunction, the vowel pattern of the conjunction before a guttural.",
+        "הֱוֵי קַל לְרֹאשׁ: the predicate adjective with ל. קַל is 'light'; Rambam says its sense is known, 'lightness'; the figure is of a person who does not weigh on a superior, who is quick to serve.",
+        "נוֹחַ is an adjective, 'easy, at rest'; תִּשְׁחֹרֶת is a rare noun from the root שחר 'black', for 'youth', the time of black hair. It is Aramaic-influenced in form (so Rabbeinu Yonah refers to the Targum).",
+        "מְקַבֵּל is the Piel participle of קבל, 'to receive'. With הֱוֵי it forms a periphrastic imperative, 'be one who receives'.",
+        "The sentence is three clauses of the pattern 'be + adjective/participle'. The last sets the general rule for every person (אֶת כָּל הָאָדָם), after two specific cases of an older and a younger person."
+      ],
+      "note": "'Yielding to a superior' renders קַל לְרֹאשׁ. Bartenura and Rambam both read it as being quick to serve a person of standing; the English keeps the idiom without expanding it. 'Gentle toward youth' renders נוֹחַ לְתִשְׁחֹרֶת; Bartenura and Rambam: do not make yourself light with the young but be calm and respectful, and yet receive everyone cheerfully. 'Receive' is the plain sense of מְקַבֵּל; Bartenura also derives it from the Aramaic קֳבֵל 'facing', so 'meet'. Bartenura's alternative reading (youth and old age with the Creator) is recorded under his anchor.",
+      "commentary": [
+        {
+          "anchor": "bartenura:3:12:1",
+          "relation": "follows",
+          "summary": "Bartenura: before a great old man who sits at the head of the academy, be quick to do his service and to attend him."
+        },
+        {
+          "anchor": "bartenura:3:12:2",
+          "relation": "follows",
+          "summary": "Bartenura: toward a young man with black hair you need not make yourself so light; stand before him calmly and with composure."
+        },
+        {
+          "anchor": "bartenura:3:12:3",
+          "relation": "follows",
+          "summary": "Bartenura: toward every person, whether an elder or a youth, stand with joy; מְקַבֵּל is like מַקְבִּיל, from the Aramaic קֳבֵל 'opposite'. He adds another explanation, applying the maxim to God: in your youth be quick to do your Maker's will and in old age, when your face has darkened, be at ease with Him. This second explanation is recorded and not adopted."
+        },
+        {
+          "anchor": "rambam:3:12:1",
+          "relation": "follows",
+          "summary": "Rambam: the meaning of 'lightness' is known."
+        },
+        {
+          "anchor": "rambam:3:12:2",
+          "relation": "follows",
+          "summary": "Rambam: נוֹחַ is settledness and rest; before a person of great standing make yourself light, serve him, and stand as he wishes; with a young person do not do so but honour yourself with him, and do not jest or play; but do not take the warning about young people as license to receive them with anger: receive every person, small and great, free and slave, with joy, more than what Shammai said ('with a pleasant face')."
+        }
+      ],
+      "apparatus": [
+        "Spelling: Vilna reads לתשחורת for לְתִשְׁחֹרֶת.",
+        "Bartenura's alternative explanation (the first two clauses are about one's own youth and old age toward the Creator) is recorded under his anchor and not adopted.",
+        "Rabbeinu Yonah (not normative) reads קַל לְרֹאשׁ as making oneself light before a chief or lord and cites the Targum for תִּשְׁחֹרֶת."
+      ]
+    }
+  ]
+}
