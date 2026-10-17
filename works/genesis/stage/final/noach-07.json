@@ -1,0 +1,1272 @@
+{
+ "unit": "noach-07",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "8:7",
+   "english": "He sent out the raven, and it went back and forth until the waters had dried from off the earth.",
+   "literal": "and-sent [object-marker]-the-raven and-went going-out and-returning until drying-of the-waters from-upon the-earth",
+   "tokens": [
+    {
+     "id": "8:7.1",
+     "gloss": "and he sent out",
+     "sense": "Pi 1",
+     "note": "wayyiqtol, Piel: 'sent off, released'"
+    },
+    {
+     "id": "8:7.2",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:7.3",
+     "gloss": "the raven"
+    },
+    {
+     "id": "8:7.4",
+     "gloss": "and it went out",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "8:7.5",
+     "gloss": "going out",
+     "sense": "Qal 1",
+     "note": "infinitive absolute: continuous action, 'kept going out'"
+    },
+    {
+     "id": "8:7.6",
+     "gloss": "and returning",
+     "sense": "Qal 2",
+     "note": "infinitive absolute"
+    },
+    {
+     "id": "8:7.7",
+     "gloss": "until",
+     "sense": "II.1"
+    },
+    {
+     "id": "8:7.8",
+     "gloss": "the drying up of",
+     "sense": "Qal 1",
+     "note": "infinitive construct, 'until the drying of the waters'"
+    },
+    {
+     "id": "8:7.9",
+     "gloss": "the waters"
+    },
+    {
+     "id": "8:7.10",
+     "gloss": "from upon",
+     "sense": "IV.2"
+    },
+    {
+     "id": "8:7.11",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:7.1",
+      "8:7.2",
+      "8:7.3"
+     ],
+     "english": "He sent out the raven",
+     "literal": "'and-sent [obj] the-raven'"
+    },
+    {
+     "tokens": [
+      "8:7.4",
+      "8:7.5",
+      "8:7.6"
+     ],
+     "english": "and it went back and forth",
+     "literal": "'and-went going-out and-returning': two infinitive absolutes after a finite verb express repeated or continuing motion"
+    },
+    {
+     "tokens": [
+      "8:7.7",
+      "8:7.8",
+      "8:7.9"
+     ],
+     "english": "until the waters had dried",
+     "literal": "'until dryness-of the-waters'"
+    },
+    {
+     "tokens": [
+      "8:7.10",
+      "8:7.11"
+     ],
+     "english": "from off the earth",
+     "literal": "'from-upon the-earth'"
+    }
+   ],
+   "grammar": [
+    "וַיֵּצֵא יָצוֹא וָשׁוֹב: a finite verb followed by two infinitive absolutes; the pair gives continued, repeated motion.",
+    "The etnaḥta on הָעֹרֵב ends the first clause; the zaqef qaton on וָשׁוֹב sets off 'went out and back' from the time clause.",
+    "עַד יְבֹשֶׁת הַמַּיִם: עַד with an infinitive construct (feminine form of יבשׁ) forms a time clause.",
+    "מֵעַל is a compound preposition, 'from upon', so 'from off'."
+   ],
+   "note": "The Hebrew does not say whether the raven landed anywhere, nor whether it came back to the ark; the English keeps that openness with 'back and forth'. The pack lemma for the infinitive absolutes is יצא and שׁוב; the data are kept.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:7:1",
+     "relation": "records",
+     "summary": "Rashi reads יָצוֹא וָשׁוֹב as the raven going and circling round the ark and not going on its errand, because it suspected Noah about its mate (Sanhedrin 108b). The English 'back and forth' fits this but does not say it."
+    },
+    {
+     "anchor": "rashi:8:7:2",
+     "relation": "follows",
+     "summary": "Rashi: 'its plain sense is as it sounds' (the raven went and came until the waters dried); the Aggadic reading that the raven was kept for a later errand in Elijah's drought (1 Kings 17) is homily and does not bear on the English."
+    },
+    {
+     "anchor": "onkelos:8:7:1",
+     "relation": "follows",
+     "summary": "Onkelos has the raven 'going out and returning' until the waters dried from the earth."
+    },
+    {
+     "anchor": "radak:8:7:1",
+     "relation": "records",
+     "summary": "Radak: the raven would eat carrion and bring back flesh if the waters were low; Noah saw it go in and out of its nest until the waters dried."
+    }
+   ],
+   "apparatus": [
+    "Rashi and Radak differ on where the raven went; the Hebrew gives no destination."
+   ]
+  },
+  {
+   "ref": "8:8",
+   "english": "Then he sent the dove away from him, to see whether the waters had abated from the surface of the ground.",
+   "literal": "and-sent [object-marker]-the-dove from-with-him to-see have-lightened the-waters from-upon face-of the-ground",
+   "tokens": [
+    {
+     "id": "8:8.1",
+     "gloss": "and he sent away",
+     "sense": "Pi 3",
+     "note": "wayyiqtol, Piel"
+    },
+    {
+     "id": "8:8.2",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:8.3",
+     "gloss": "the dove"
+    },
+    {
+     "id": "8:8.4",
+     "gloss": "from him",
+     "sense": "4",
+     "note": "מֵאִתּוֹ: 'from with him', from his presence"
+    },
+    {
+     "id": "8:8.5",
+     "gloss": "to see",
+     "sense": "Qal 1.a",
+     "note": "infinitive construct with ל, purpose"
+    },
+    {
+     "id": "8:8.6",
+     "gloss": "whether had abated",
+     "sense": "Qal 1",
+     "note": "הֲ introduces an indirect question; qalu from קלל, 'be light, slight'"
+    },
+    {
+     "id": "8:8.7",
+     "gloss": "the waters"
+    },
+    {
+     "id": "8:8.8",
+     "gloss": "from upon",
+     "sense": "IV.2"
+    },
+    {
+     "id": "8:8.9",
+     "gloss": "the surface of",
+     "sense": "I.5",
+     "note": "construct"
+    },
+    {
+     "id": "8:8.10",
+     "gloss": "the ground",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:8.1",
+      "8:8.2",
+      "8:8.3"
+     ],
+     "english": "Then he sent the dove away",
+     "literal": "'and-sent [obj] the-dove'; Piel of שׁלח as release (Rashi: שִׁלּוּחַ, not שְׁלִיחוּת)"
+    },
+    {
+     "tokens": [
+      "8:8.4"
+     ],
+     "english": "from him",
+     "literal": "'from-with-him'"
+    },
+    {
+     "tokens": [
+      "8:8.5",
+      "8:8.6",
+      "8:8.7"
+     ],
+     "english": "to see whether the waters had abated",
+     "literal": "'to-see have-lightened the-waters'; קלל Qal, 'be slight, diminish'"
+    },
+    {
+     "tokens": [
+      "8:8.8",
+      "8:8.9",
+      "8:8.10"
+     ],
+     "english": "from the surface of the ground",
+     "literal": "'from-upon face-of the-ground'"
+    }
+   ],
+   "grammar": [
+    "לִרְאוֹת הֲקַלּוּ: purpose clause (ל + infinitive) containing an indirect question introduced by the interrogative הֲ.",
+    "הֲקַלּוּ is a Qal perfect of the geminate root קלל, 'be light', here of waters 'lessening'.",
+    "The etnaḥta on מֵאִתּוֹ divides the sending from its purpose; in the second half the zaqef qaton on הַמַּיִם sets 'whether the waters had abated' apart from 'from the surface of the ground'.",
+    "הָאֲדָמָה, 'the ground', stands where verse 7 has הָאָרֶץ, 'the earth'; the same pair returns in 8:13."
+   ],
+   "note": "'abated' keeps the sense of lightening (lessening of weight and amount). 'Sent ... away' follows Rashi: וַיְשַׁלַּח here is release (שִׁלּוּחַ), letting her go her own way, not a mission (שְׁלִיחוּת) as with the raven; if she found rest she would not come back. 'From him' renders מֵאִתּוֹ.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:8:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the dove was sent at the end of seven days, since verse 10 says 'he waited another seven days', implying a first seven. This is an inference about dates and does not change the English."
+    },
+    {
+     "anchor": "rashi:8:8:2",
+     "relation": "follows",
+     "summary": "Rashi: וַיְשַׁלַּח here is release (שִׁלּוּחַ), not a mission: she was let go to her own way, and if she found rest she would not return to him."
+    },
+    {
+     "anchor": "onkelos:8:8:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and he sent the dove from with him to see whether the waters had lightened (הֲקַלִּיאוּ)'."
+    },
+    {
+     "anchor": "sforno:8:8:2",
+     "relation": "records",
+     "summary": "Sforno: if the waters had lightened, the dove would nest in the mountains and towers as is her custom."
+    }
+   ]
+  },
+  {
+   "ref": "8:9",
+   "english": "But the dove found no resting place for the sole of her foot, and she returned to him, to the ark, for there was water over the surface of all the earth. So he stretched out his hand, took her, and brought her to him into the ark.",
+   "literal": "and-not found the-dove resting-place for-sole-of her-foot and-returned to-him to the-ark for waters upon face-of all-the-earth and-sent his-hand and-took-her and-brought [obj]-her to-him to the-ark",
+   "tokens": [
+    {
+     "id": "8:9.1",
+     "gloss": "but not"
+    },
+    {
+     "id": "8:9.2",
+     "gloss": "found",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "8:9.3",
+     "gloss": "the dove"
+    },
+    {
+     "id": "8:9.4",
+     "gloss": "a resting place",
+     "note": "מָנוֹחַ: place of rest; root נוח"
+    },
+    {
+     "id": "8:9.5",
+     "gloss": "for the sole of",
+     "note": "כַּף־רֶגֶל: 'palm of the foot', the sole"
+    },
+    {
+     "id": "8:9.6",
+     "gloss": "her foot",
+     "sense": "1"
+    },
+    {
+     "id": "8:9.7",
+     "gloss": "and she returned",
+     "sense": "Qal 2",
+     "note": "wayyiqtol, feminine"
+    },
+    {
+     "id": "8:9.8",
+     "gloss": "to him",
+     "sense": "1",
+     "note": "אֵלָיו, with suffix"
+    },
+    {
+     "id": "8:9.9",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "8:9.10",
+     "gloss": "the ark"
+    },
+    {
+     "id": "8:9.11",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "8:9.12",
+     "gloss": "water"
+    },
+    {
+     "id": "8:9.13",
+     "gloss": "over",
+     "sense": "II.1"
+    },
+    {
+     "id": "8:9.14",
+     "gloss": "the surface of",
+     "sense": "I.5",
+     "note": "construct"
+    },
+    {
+     "id": "8:9.15",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "8:9.16",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:9.17",
+     "gloss": "and he stretched out",
+     "sense": "Qal 3",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "8:9.18",
+     "gloss": "his hand",
+     "sense": "1"
+    },
+    {
+     "id": "8:9.19",
+     "gloss": "and took her",
+     "sense": "Qal 1",
+     "note": "wayyiqtol with feminine suffix"
+    },
+    {
+     "id": "8:9.20",
+     "gloss": "and brought",
+     "sense": "Hiph 2",
+     "note": "wayyiqtol, Hiphil of בוא"
+    },
+    {
+     "id": "8:9.21",
+     "gloss": "her"
+    },
+    {
+     "id": "8:9.22",
+     "gloss": "to him",
+     "sense": "1"
+    },
+    {
+     "id": "8:9.23",
+     "gloss": "into",
+     "sense": "2"
+    },
+    {
+     "id": "8:9.24",
+     "gloss": "the ark"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:9.1",
+      "8:9.2",
+      "8:9.3",
+      "8:9.4",
+      "8:9.5",
+      "8:9.6"
+     ],
+     "english": "But the dove found no resting place for the sole of her foot",
+     "literal": "'and-not found the-dove resting-place for-sole-of her-foot'"
+    },
+    {
+     "tokens": [
+      "8:9.7",
+      "8:9.8",
+      "8:9.9",
+      "8:9.10"
+     ],
+     "english": "and she returned to him, to the ark",
+     "literal": "'and-returned to-him to the-ark'"
+    },
+    {
+     "tokens": [
+      "8:9.11",
+      "8:9.12",
+      "8:9.13",
+      "8:9.14",
+      "8:9.15",
+      "8:9.16"
+     ],
+     "english": "for there was water over the surface of all the earth",
+     "literal": "'for waters upon face-of all-the-earth'"
+    },
+    {
+     "tokens": [
+      "8:9.17",
+      "8:9.18"
+     ],
+     "english": "So he stretched out his hand",
+     "literal": "'and-sent his-hand'"
+    },
+    {
+     "tokens": [
+      "8:9.19"
+     ],
+     "english": "took her",
+     "literal": "'and-took-her'"
+    },
+    {
+     "tokens": [
+      "8:9.20",
+      "8:9.21"
+     ],
+     "english": "and brought her",
+     "literal": "'and-brought [obj]-her'"
+    },
+    {
+     "tokens": [
+      "8:9.22",
+      "8:9.23",
+      "8:9.24"
+     ],
+     "english": "to him into the ark",
+     "literal": "'to-him to the-ark'"
+    }
+   ],
+   "grammar": [
+    "מַיִם עַל־פְּנֵי כָל־הָאָרֶץ gives the reason with כִּי; the clause has no verb (a nominal clause).",
+    "וַיִּשְׁלַח יָדוֹ, 'he sent his hand', is the idiom for reaching out; the same verb שׁלח is used of the birds in 8:7-8.",
+    "וַיִּקָּחֶהָ and אֹתָהּ carry the feminine object suffix: the dove is grammatically feminine.",
+    "The zaqef qaton after הַתֵּבָה divides the dove's failed search from the clause giving the reason."
+   ],
+   "note": "'found no resting place' is the plain sense of מָנוֹחַ. The pronoun 'her' follows the Hebrew feminine; Rashi at 8:11 holds the dove was male.",
+   "commentary": [
+    {
+     "anchor": "ramban:8:9:1",
+     "relation": "follows",
+     "summary": "Ramban: birds do not usually rest on the peaks of high mountains, where there are no trees, all the more so while water covered the face of all the earth; so the dove found no resting place that suited her. When the trees appeared she went off on her own, for doves nest in their branches."
+    },
+    {
+     "anchor": "sforno:8:9:1",
+     "relation": "records",
+     "summary": "Sforno: even the visible mountaintops were still very damp, so that even there she could not rest."
+    }
+   ]
+  },
+  {
+   "ref": "8:10",
+   "english": "He waited another seven days, and again he sent the dove away from the ark.",
+   "literal": "and-waited again seven-of days other and-added to-send [object-marker] the-dove from the-ark",
+   "tokens": [
+    {
+     "id": "8:10.1",
+     "gloss": "and he waited",
+     "sense": "Po‛lel 3",
+     "note": "wayyiqtol. The pack parses it as Piel of חוּל, but the vowels (qamets under the prefix, as in וַיָּקֶם) are those of a Hiphil of a hollow root, as Radak says. The entry lists no Hiphil 'wait' sense, so the nearest listed sense is given; the word may rather belong to יָחַל (compare וַיִּיָּחֶל, 8:12). Rashi and Radak read 'waited' (Job 29:21; Judg 3:25); Ibn Ezra prefers 'began'."
+    },
+    {
+     "id": "8:10.2",
+     "gloss": "again"
+    },
+    {
+     "id": "8:10.3",
+     "gloss": "seven of",
+     "note": "construct"
+    },
+    {
+     "id": "8:10.4",
+     "gloss": "days",
+     "sense": "4"
+    },
+    {
+     "id": "8:10.5",
+     "gloss": "other"
+    },
+    {
+     "id": "8:10.6",
+     "gloss": "and he again",
+     "sense": "Hiph 2.a",
+     "note": "וַיֹּסֶף + infinitive: 'he added to do', i.e. 'he did again'"
+    },
+    {
+     "id": "8:10.7",
+     "gloss": "send away",
+     "sense": "Pi 3",
+     "note": "infinitive construct, Piel"
+    },
+    {
+     "id": "8:10.8",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:10.9",
+     "gloss": "the dove"
+    },
+    {
+     "id": "8:10.10",
+     "gloss": "from",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:10.11",
+     "gloss": "the ark"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:10.1",
+      "8:10.2",
+      "8:10.3",
+      "8:10.4",
+      "8:10.5"
+     ],
+     "english": "He waited another seven days",
+     "literal": "'and-waited again seven-of days other'"
+    },
+    {
+     "tokens": [
+      "8:10.6",
+      "8:10.7",
+      "8:10.8",
+      "8:10.9"
+     ],
+     "english": "and again he sent the dove away",
+     "literal": "'and-added to-send [obj] the-dove'"
+    },
+    {
+     "tokens": [
+      "8:10.10",
+      "8:10.11"
+     ],
+     "english": "from the ark",
+     "literal": "'from the-ark'"
+    }
+   ],
+   "grammar": [
+    "וַיֹּסֶף שַׁלַּח: a verb of adding with an infinitive means doing something again; 'he added to send' is 'he sent again'.",
+    "וַיָּחֶל is a hard form. Rashi: a term of waiting (לְשׁוֹן הַמְתָּנָה), as וְיִחֵלּוּ in Job 29:21. Radak: Hiphil of חול, 'wait', as וַיָּחִילוּ in Judg 3:25. Ibn Ezra prefers 'he began' (from תְּחִלָּה; compare וַיָּחֶל נֹחַ, 'Noah began', 9:20), since from תּוֹחֶלֶת he would expect וייחל or ייחל, but he allows an irregular form.",
+    "שִׁבְעַת יָמִים אֲחֵרִים: the number is in construct before the plural noun; אֲחֵרִים 'other' means a second week."
+   ],
+   "note": "The English 'waited' follows Rashi and the context. The lexicon sense is the nearest the entry offers and may belong rather to יָחַל; that is a limit of the data.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:10:1",
+     "relation": "follows",
+     "summary": "Rashi: וַיָּחֶל is a term of waiting, like 'to me they listened and waited (וְיִחֵלּוּ)' (Job 29:21); there are many such in Scripture."
+    },
+    {
+     "anchor": "ibn-ezra:8:10:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: in his view וַיָּחֶל comes from תְּחִלָּה, 'beginning' (he began another seven days); had it come from תּוֹחֶלֶת, 'waiting', it would be וייחל like וייקץ, or ייחל like וישב (37:1). He allows that it may be a word irregular in grammar. The English follows Rashi's 'waited' and records Ibn Ezra's 'began'."
+    },
+    {
+     "anchor": "ibn-ezra:8:10:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra dates the sending to the twenty-fourth of Shevat; a calendar remark that does not bear on the English."
+    },
+    {
+     "anchor": "radak:8:10:1",
+     "relation": "records",
+     "summary": "Radak: the root is חו״ל in the Hiphil, like 'they waited until they were ashamed' (Judges 3:25)."
+    },
+    {
+     "anchor": "onkelos:8:10:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'he waited (וְאוֹרִיךְ) another seven days and again sent the dove from the ark'."
+    }
+   ],
+   "apparatus": [
+    "וַיָּחֶל: Rashi and Radak 'he waited'; Ibn Ezra prefers 'he began (another seven days)', from תְּחִלָּה, and allows 'waited' only as an irregular form. The pack parses the form as Piel of חוּל; Radak calls it Hiphil."
+   ]
+  },
+  {
+   "ref": "8:11",
+   "english": "The dove came to him at evening time, and there in her beak was a freshly plucked olive leaf. So Noah knew that the waters had abated from the earth.",
+   "literal": "and-came to-him the-dove at-time-of evening and-behold leaf-of olive plucked in-her-mouth and-knew Noah that lightened the-waters from-upon the-earth",
+   "tokens": [
+    {
+     "id": "8:11.1",
+     "gloss": "and she came",
+     "sense": "Qal 2",
+     "note": "wayyiqtol, feminine"
+    },
+    {
+     "id": "8:11.2",
+     "gloss": "to him",
+     "sense": "1"
+    },
+    {
+     "id": "8:11.3",
+     "gloss": "the dove"
+    },
+    {
+     "id": "8:11.4",
+     "gloss": "at the time of",
+     "sense": "1",
+     "note": "ל + construct"
+    },
+    {
+     "id": "8:11.5",
+     "gloss": "evening",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:11.6",
+     "gloss": "and behold",
+     "note": "הִנֵּה draws attention to what Noah sees"
+    },
+    {
+     "id": "8:11.7",
+     "gloss": "leaf of",
+     "note": "construct"
+    },
+    {
+     "id": "8:11.8",
+     "gloss": "olive",
+     "sense": "1"
+    },
+    {
+     "id": "8:11.9",
+     "gloss": "freshly plucked",
+     "note": "טָרָף: an adjective in the pack, 'plucked'; Rashi (חָטַף, 'snatched') and Ibn Ezra's preferred reading take it as a verb. See the grammar notes."
+    },
+    {
+     "id": "8:11.10",
+     "gloss": "in her mouth",
+     "sense": "1.a",
+     "note": "בְּפִיהָ: 'in her mouth', a bird's beak"
+    },
+    {
+     "id": "8:11.11",
+     "gloss": "and he knew",
+     "sense": "Qal 1.b",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "8:11.12",
+     "gloss": "Noah"
+    },
+    {
+     "id": "8:11.13",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "8:11.14",
+     "gloss": "had abated",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "8:11.15",
+     "gloss": "the waters"
+    },
+    {
+     "id": "8:11.16",
+     "gloss": "from upon",
+     "sense": "IV.2"
+    },
+    {
+     "id": "8:11.17",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:11.1",
+      "8:11.2",
+      "8:11.3"
+     ],
+     "english": "The dove came to him",
+     "literal": "'and-came to-him the-dove'"
+    },
+    {
+     "tokens": [
+      "8:11.4",
+      "8:11.5"
+     ],
+     "english": "at evening time",
+     "literal": "'at-time-of evening'"
+    },
+    {
+     "tokens": [
+      "8:11.6",
+      "8:11.7",
+      "8:11.8",
+      "8:11.9",
+      "8:11.10"
+     ],
+     "english": "and there in her beak was a freshly plucked olive leaf",
+     "literal": "'and-behold leaf-of olive plucked in-her-mouth'"
+    },
+    {
+     "tokens": [
+      "8:11.11",
+      "8:11.12"
+     ],
+     "english": "So Noah knew",
+     "literal": "'and-knew Noah'"
+    },
+    {
+     "tokens": [
+      "8:11.13",
+      "8:11.14",
+      "8:11.15"
+     ],
+     "english": "that the waters had abated",
+     "literal": "'that lightened the-waters'"
+    },
+    {
+     "tokens": [
+      "8:11.16",
+      "8:11.17"
+     ],
+     "english": "from the earth",
+     "literal": "'from-upon the-earth'"
+    }
+   ],
+   "grammar": [
+    "וְהִנֵּה turns the narration to what is seen at that moment: 'and there'.",
+    "טָרָף is the hard word. The pack parses it as an adjective, 'plucked' (BDB 'fresh-plucked'), and so Radak (an adjective with passive sense, like טָרוּף) and Onkelos (תְּבִיר). Rashi glosses it with the verb חָטַף, 'snatched'; Ibn Ezra prefers a verb, 'her mouth plucked (it)', with the ב of בְּפִיהָ superfluous, since verbs too can have qamets (כִּי הוּא טָרָף, Hos 6:1). Others cited by Ibn Ezra take it as a noun, 'leaf'.",
+    "The dove is feminine (בְּפִיהָ); Rashi, who reads the masculine form טָרָף, holds that the bird was male.",
+    "וַיֵּדַע נֹחַ כִּי־קַלּוּ: the verb of knowing takes a כִּי clause; קַלּוּ echoes הֲקַלּוּ of 8:8."
+   ],
+   "note": "'freshly plucked' follows Radak and the BDB gloss; Rashi's 'snatched' (חָטַף) is close in sense. Beak is the bird's mouth. The feminine pronoun is kept.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:11:1",
+     "relation": "records",
+     "summary": "Rashi: 'I say it was male', and that is why the text speaks of it sometimes in the masculine (טָרָף) and sometimes in the feminine (בְּפִיהָ): the feminine because every dove in Scripture is spoken of in the feminine (Song 5:12; Ezek 7:16; Hos 7:11). The English keeps the Hebrew's feminine 'her'."
+    },
+    {
+     "anchor": "rashi:8:11:2",
+     "relation": "follows",
+     "summary": "Rashi: טָרָף means 'snatched' (חָטַף); the Aggadah takes it as 'food' and בְּפִיהָ as 'speech', the dove saying that she would rather have bitter food from God than sweet from flesh and blood. The homily is not adopted."
+    },
+    {
+     "anchor": "ibn-ezra:8:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: some say טָרָף is a noun doubling עֲלֵה in sense, 'leaf' (cf. טַרְפֵּי צִמְחָהּ, Ezek 17:9), citing the qamets under the resh as in זָהָב. He holds rather that the ב of בְּפִיהָ is superfluous and טָרָף is a verb with qamets, as כִּי הוּא טָרָף (Hos 6:1), 'her mouth had plucked (it)'; or else that טָרָף is an adjective like חָכָם with a passive sense, like טָרוּף. Either way the dove tore the leaf off, which 'plucked' carries."
+    },
+    {
+     "anchor": "ramban:8:11:1",
+     "relation": "not-applicable",
+     "summary": "Ramban infers from the plain text that the trees were not uprooted or destroyed in the Flood; the Midrash holds that the leaf came from elsewhere. This bears on the setting, not on the words."
+    },
+    {
+     "anchor": "radak:8:11:2",
+     "relation": "follows",
+     "summary": "Radak: טָרָף is an adjective in place of a passive, like טָרוּף: the dove tore it from the olive tree; Noah saw that it was torn, not found floating."
+    },
+    {
+     "anchor": "radak:8:11:3",
+     "relation": "follows",
+     "summary": "Radak: קַלּוּ means 'diminished', for a small thing is light and a large one heavy."
+    },
+    {
+     "anchor": "onkelos:8:11:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'a plucked (תְּבִיר) olive leaf in her mouth'."
+    }
+   ],
+   "apparatus": [
+    "טָרָף: adjective 'plucked' (BDB, Radak, Onkelos תְּבִיר, and Ibn Ezra's second view); verb 'snatched, plucked' (Rashi חָטַף; Ibn Ezra's preferred view, with the ב of בְּפִיהָ superfluous); noun 'leaf' (others cited by Ibn Ezra). The Midrash cited by Rashi takes it as 'food'."
+   ]
+  },
+  {
+   "ref": "8:12",
+   "english": "He waited another seven days and sent the dove away, and she did not return to him any more.",
+   "literal": "and-waited again seven-of days other and-sent [object-marker] the-dove and-not added to-return to-him again",
+   "tokens": [
+    {
+     "id": "8:12.1",
+     "gloss": "and he waited",
+     "sense": "Niph",
+     "note": "wayyiqtol, Niphal of יחל"
+    },
+    {
+     "id": "8:12.2",
+     "gloss": "again"
+    },
+    {
+     "id": "8:12.3",
+     "gloss": "seven of",
+     "note": "construct"
+    },
+    {
+     "id": "8:12.4",
+     "gloss": "days",
+     "sense": "4"
+    },
+    {
+     "id": "8:12.5",
+     "gloss": "other"
+    },
+    {
+     "id": "8:12.6",
+     "gloss": "and he sent away",
+     "sense": "Pi 3",
+     "note": "wayyiqtol, Piel"
+    },
+    {
+     "id": "8:12.7",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:12.8",
+     "gloss": "the dove"
+    },
+    {
+     "id": "8:12.9",
+     "gloss": "and not"
+    },
+    {
+     "id": "8:12.10",
+     "gloss": "did she continue",
+     "sense": "Qal",
+     "note": "יָסְפָה + infinitive: 'she added to', i.e. did again"
+    },
+    {
+     "id": "8:12.11",
+     "gloss": "to return",
+     "sense": "Qal 2",
+     "note": "infinitive construct"
+    },
+    {
+     "id": "8:12.12",
+     "gloss": "to him",
+     "sense": "1"
+    },
+    {
+     "id": "8:12.13",
+     "gloss": "any more",
+     "note": "עוֹד: 'again, still, any more'; Ibn Ezra takes it as 'ever'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:12.1",
+      "8:12.2",
+      "8:12.3",
+      "8:12.4",
+      "8:12.5"
+     ],
+     "english": "He waited another seven days",
+     "literal": "'and-waited again seven-of days other'"
+    },
+    {
+     "tokens": [
+      "8:12.6",
+      "8:12.7",
+      "8:12.8"
+     ],
+     "english": "and sent the dove away",
+     "literal": "'and-sent [obj] the-dove'"
+    },
+    {
+     "tokens": [
+      "8:12.9",
+      "8:12.10",
+      "8:12.11",
+      "8:12.12",
+      "8:12.13"
+     ],
+     "english": "and she did not return to him any more",
+     "literal": "'and-not added to-return to-him again'"
+    }
+   ],
+   "grammar": [
+    "וַיִּיָּחֶל is Niphal (not Hithpael, which would have a patah under the yod); the root is יחל, 'wait'.",
+    "לֹא־יָסְפָה שׁוּב: 'she did not add to return', the same idiom of repetition as in 8:10, now negative.",
+    "The disjunctive accents divide the verse into three: the waiting, the sending, the result.",
+    "The two forms וַיָּחֶל (8:10) and וַיִּיָּחֶל (8:12) differ in stem but say the same."
+   ],
+   "note": "The dove's failure to return is not explained in the text; Radak reads it as the dove finding rest.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:12:1",
+     "relation": "follows",
+     "summary": "Rashi: this is the same as וַיָּחֶל but in a reflexive stem: the first is 'he waited', the second 'he was patient'."
+    },
+    {
+     "anchor": "ibn-ezra:8:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: a Niphal form, as in וַיִּלָּחֶם and וַיִּצָּמֶד; the root is complete with the yod."
+    },
+    {
+     "anchor": "ibn-ezra:8:12:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: עוֹד means 'forever', as in 'his uncleanness is still on him' and 'all the days of the earth'. The English 'any more' is close to this."
+    },
+    {
+     "anchor": "radak:8:12:1",
+     "relation": "follows",
+     "summary": "Radak: the form is Niphal from יח״ל; had it been Hithpael, the yod would be open (pataḥ), and it is qamets."
+    },
+    {
+     "anchor": "radak:8:12:2",
+     "relation": "records",
+     "summary": "Radak: Noah knew then that the ground was dry and the dove had found rest on the earth and in many trees, so she did not come back."
+    },
+    {
+     "anchor": "onkelos:8:12:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and she did not again return to him any more'."
+    }
+   ]
+  },
+  {
+   "ref": "8:13",
+   "english": "In the six hundred and first year, in the first month, on the first of the month, the waters dried up from the earth. Noah removed the covering of the ark and looked, and there the surface of the ground had dried up.",
+   "literal": "and-it-was in-one and-six hundreds year in-the-first on-one of-the-month dried-up the-waters from-upon the-earth and-removed Noah [object-marker] covering-of the-ark and-saw and-behold dried-up face-of the-ground",
+   "tokens": [
+    {
+     "id": "8:13.1",
+     "gloss": "and it came to pass",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol of היה as narrative formula"
+    },
+    {
+     "id": "8:13.2",
+     "gloss": "in one",
+     "sense": "1",
+     "note": "בְּאַחַת: 'in the one' of the six hundred"
+    },
+    {
+     "id": "8:13.3",
+     "gloss": "and six"
+    },
+    {
+     "id": "8:13.4",
+     "gloss": "hundreds",
+     "note": "מֵאוֹת: plural of מֵאָה; the lexicon entry lists only 'hundredth', which does not fit, so I give no sense"
+    },
+    {
+     "id": "8:13.5",
+     "gloss": "year"
+    },
+    {
+     "id": "8:13.6",
+     "gloss": "in the first",
+     "note": "בָּרִאשׁוֹן: 'in the first (month)'"
+    },
+    {
+     "id": "8:13.7",
+     "gloss": "on the first",
+     "sense": "7",
+     "note": "בְּאֶחָד: 'on the first'"
+    },
+    {
+     "id": "8:13.8",
+     "gloss": "of the month",
+     "note": "ל + חֹדֶשׁ"
+    },
+    {
+     "id": "8:13.9",
+     "gloss": "had dried up",
+     "sense": "Qal",
+     "note": "qatal, 3rd plural; 'dried' of the water drained from the surface"
+    },
+    {
+     "id": "8:13.10",
+     "gloss": "the waters"
+    },
+    {
+     "id": "8:13.11",
+     "gloss": "from upon",
+     "sense": "IV.2"
+    },
+    {
+     "id": "8:13.12",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:13.13",
+     "gloss": "and removed",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol, Hiphil of סור"
+    },
+    {
+     "id": "8:13.14",
+     "gloss": "Noah"
+    },
+    {
+     "id": "8:13.15",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:13.16",
+     "gloss": "the covering of",
+     "note": "מִכְסֶה, construct"
+    },
+    {
+     "id": "8:13.17",
+     "gloss": "the ark"
+    },
+    {
+     "id": "8:13.18",
+     "gloss": "and he looked",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "8:13.19",
+     "gloss": "and behold"
+    },
+    {
+     "id": "8:13.20",
+     "gloss": "had dried up",
+     "sense": "Qal"
+    },
+    {
+     "id": "8:13.21",
+     "gloss": "the surface of",
+     "sense": "I.5",
+     "note": "construct"
+    },
+    {
+     "id": "8:13.22",
+     "gloss": "the ground",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:13.1"
+     ],
+     "english": "-",
+     "literal": "וַיְהִי is a narrative formula that introduces the date; there is no separate English word"
+    },
+    {
+     "tokens": [
+      "8:13.2",
+      "8:13.3",
+      "8:13.4",
+      "8:13.5",
+      "8:13.6"
+     ],
+     "english": "In the six hundred and first year, in the first month",
+     "literal": "'in-one and-six hundreds year in-the-first'"
+    },
+    {
+     "tokens": [
+      "8:13.7",
+      "8:13.8"
+     ],
+     "english": "on the first of the month",
+     "literal": "'on-one of-the-month'"
+    },
+    {
+     "tokens": [
+      "8:13.9",
+      "8:13.10",
+      "8:13.11",
+      "8:13.12"
+     ],
+     "english": "the waters dried up from the earth",
+     "literal": "'dried-up the-waters from-upon the-earth'"
+    },
+    {
+     "tokens": [
+      "8:13.13",
+      "8:13.14",
+      "8:13.15",
+      "8:13.16",
+      "8:13.17"
+     ],
+     "english": "Noah removed the covering of the ark",
+     "literal": "'and-removed Noah [obj] covering-of the-ark'"
+    },
+    {
+     "tokens": [
+      "8:13.18"
+     ],
+     "english": "and looked",
+     "literal": "'and-saw'"
+    },
+    {
+     "tokens": [
+      "8:13.19",
+      "8:13.20",
+      "8:13.21",
+      "8:13.22"
+     ],
+     "english": "and there the surface of the ground had dried up",
+     "literal": "'and-behold dried-up face-of the-ground'"
+    }
+   ],
+   "grammar": [
+    "The date is given in Hebrew order: year, month, day. 'the first' (הָרִאשׁוֹן) is the first month; the day is 'one' (אֶחָד), used for 'the first'.",
+    "חָרְבוּ הַמַּיִם and חָרְבוּ פְּנֵי הָאֲדָמָה: the verb חרב (dry up) is used of the waters and then of the surface of the ground; in 8:14 the verb is the stronger יבשׁ.",
+    "וַיַּרְא וְהִנֵּה: 'he saw, and behold': a narrative view of what Noah saw when the cover was open.",
+    "The telisha gedola on וַיְהִי is a prepositive disjunctive accent, printed at the start of the word and again on the stressed syllable; it sets וַיְהִי apart from the date that follows."
+   ],
+   "note": "The first month is Tishrei or Nisan (Rashi: R. Eliezer or R. Joshua). The text says only 'first'. The English keeps חרב as 'dried up' and יבשׁ in 8:14 as 'dry', following Rashi and Ibn Ezra on the difference.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:13:1",
+     "relation": "records",
+     "summary": "Rashi: 'the first month' is Tishrei according to R. Eliezer and Nisan according to R. Joshua (Rosh Hashanah 11b). The English says only 'the first month'."
+    },
+    {
+     "anchor": "rashi:8:13:2",
+     "relation": "follows",
+     "summary": "Rashi: חָרְבוּ means it became like mud, for a crust formed on the upper surface. This is why 'dried up' here is not yet fully dry."
+    },
+    {
+     "anchor": "ibn-ezra:8:12:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra dates the dove's last sending to the first of Adar; the comment is about chronology and does not bear on the English."
+    },
+    {
+     "anchor": "ibn-ezra:8:13:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the ground was still soft, so a foot could not tread on it; only its surface had dried. Full dryness comes in verse 14."
+    },
+    {
+     "anchor": "radak:8:13:2",
+     "relation": "follows",
+     "summary": "Radak: with Tishrei, the first month, Noah entered his six hundred and first year, and on the seventeenth of the second month his year in the ark was complete. Though the face of the ground had dried, there was still mud beneath and it was not fit to walk on; so Noah did not go out, but waited for God to command him, as He had commanded him to go in."
+    },
+    {
+     "anchor": "sforno:8:13:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: Noah thought the surplus moisture in the air had dried; a remark on his reasoning."
+    },
+    {
+     "anchor": "onkelos:8:13:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'in the six hundred and first year, in the first, on the first of the month the waters dried (נְגוּבוּ) from the earth'."
+    }
+   ]
+  },
+  {
+   "ref": "8:14",
+   "english": "In the second month, on the twenty-seventh day of the month, the earth was dry.",
+   "literal": "and-in-the-month the-second on-seven and-twenty day of-the-month was-dry the-earth",
+   "tokens": [
+    {
+     "id": "8:14.1",
+     "gloss": "and in the month",
+     "note": "וּבַחֹדֶשׁ"
+    },
+    {
+     "id": "8:14.2",
+     "gloss": "the second"
+    },
+    {
+     "id": "8:14.3",
+     "gloss": "on seven",
+     "note": "בְּשִׁבְעָה"
+    },
+    {
+     "id": "8:14.4",
+     "gloss": "and twenty"
+    },
+    {
+     "id": "8:14.5",
+     "gloss": "day",
+     "sense": "1",
+     "note": "יוֹם in the singular"
+    },
+    {
+     "id": "8:14.6",
+     "gloss": "of the month"
+    },
+    {
+     "id": "8:14.7",
+     "gloss": "was dry",
+     "sense": "Qal 1",
+     "note": "qatal, 3rd feminine singular"
+    },
+    {
+     "id": "8:14.8",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:14.1",
+      "8:14.2"
+     ],
+     "english": "In the second month",
+     "literal": "'and-in-the-month the-second'"
+    },
+    {
+     "tokens": [
+      "8:14.3",
+      "8:14.4",
+      "8:14.5",
+      "8:14.6"
+     ],
+     "english": "on the twenty-seventh day of the month",
+     "literal": "'on-seven and-twenty day of-the-month'"
+    },
+    {
+     "tokens": [
+      "8:14.7",
+      "8:14.8"
+     ],
+     "english": "the earth was dry",
+     "literal": "'was-dry the-earth'"
+    }
+   ],
+   "grammar": [
+    "The date: month (the second), day (seven and twenty) of the month.",
+    "יָבְשָׁה הָאָרֶץ: the verb comes first and the subject, 'the earth', follows; the stem is Qal of יבשׁ.",
+    "The etnaḥta falls on לַחֹדֶשׁ, setting the date apart from the main clause.",
+    "The paragraph mark ס closes the section of the Flood's end."
+   ],
+   "note": "The verse uses יבשׁ, 'be dry', and not חרב as in 8:13; the English contrasts 'had dried up' with 'was dry' following Rashi's 'completely dry' (גָּרִיד כְּהִלְכָתָהּ).",
+   "commentary": [
+    {
+     "anchor": "rashi:8:14:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the rains came down on the seventeenth of the second month (7:11); the days from then to the twenty-seventh are the eleven by which the solar year exceeds the lunar, for the sentence on the generation of the Flood was a full year. A point of chronology that does not bear on the English."
+    },
+    {
+     "anchor": "rashi:8:14:2",
+     "relation": "follows",
+     "summary": "Rashi: יָבְשָׁה means it became fully dry as it should be (גָּרִיד כְּהִלְכָתָהּ)."
+    },
+    {
+     "anchor": "radak:8:14:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the second month is Marheshvan; the rabbis say the days are the ten extra of the solar year. A calendar note."
+    },
+    {
+     "anchor": "onkelos:8:14:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'in the second month, on the twenty-seventh day of the month, the earth was dry (יַבִּישַׁת)'."
+    }
+   ]
+  }
+ ]
+}

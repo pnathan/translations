@@ -1,0 +1,469 @@
+{
+ "unit": "noach-20",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "11:14",
+   "english": "Shelah lived thirty years, and he fathered Eber.",
+   "literal": "and-Shelah lived thirty year and-fathered [object-marker] Eber",
+   "tokens": [
+    {
+     "id": "11:14.1",
+     "gloss": "and Shelah"
+    },
+    {
+     "id": "11:14.2",
+     "gloss": "lived",
+     "sense": "Qal 1",
+     "note": "perfect, placed after the subject: the life-span is stated first"
+    },
+    {
+     "id": "11:14.3",
+     "gloss": "thirty"
+    },
+    {
+     "id": "11:14.4",
+     "gloss": "years",
+     "note": "singular שָׁנָה after a number above ten, as usual"
+    },
+    {
+     "id": "11:14.5",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol of the Hifil, 'caused to be born', the usual verb for a father begetting"
+    },
+    {
+     "id": "11:14.6",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "11:14.7",
+     "gloss": "Eber"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:14.1",
+      "11:14.2",
+      "11:14.3",
+      "11:14.4"
+     ],
+     "english": "Shelah lived thirty years",
+     "literal": "'and-Shelah lived thirty year'; the waw is a simple connective and is left out of the English at the start of the entry"
+    },
+    {
+     "tokens": [
+      "11:14.5"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-fathered'; sequence after the time stated"
+    },
+    {
+     "tokens": [
+      "11:14.6"
+     ],
+     "english": "-",
+     "literal": "the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "11:14.7"
+     ],
+     "english": "Eber",
+     "literal": "proper name"
+    }
+   ],
+   "grammar": [
+    "The verse is built on a fixed pattern: subject, חַי, number of years, then וַיּוֹלֶד and the son. The subject comes first, so חַי is a plain perfect.",
+    "The etnaḥta on שָׁנָה divides the verse between the years lived and the begetting.",
+    "וַיּוֹלֶד is a Hifil wayyiqtol of ילד, 'he fathered'."
+   ],
+   "note": "Shelah's age at the birth of Eber is stated; the verse does not say Eber was his firstborn.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:14:1",
+     "relation": "follows",
+     "summary": "Onkelos renders the verse closely: וְשֶׁלַח חֲיָא תְּלָתִין שְׁנִין וְאוֹלִיד יָת עֵבֶר, with the same numbers and the same sequence."
+    }
+   ]
+  },
+  {
+   "ref": "11:15",
+   "english": "Shelah lived four hundred and three years after fathering Eber, and he fathered sons and daughters.",
+   "literal": "and-lived Shelah after his-fathering [object-marker] Eber three years and-four hundreds year and-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "11:15.1",
+     "gloss": "and he lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה; the maqqef joins it to the subject"
+    },
+    {
+     "id": "11:15.2",
+     "gloss": "Shelah"
+    },
+    {
+     "id": "11:15.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "11:15.4",
+     "gloss": "his fathering",
+     "sense": "Hiph 1",
+     "note": "infinitive construct with 3rd masculine singular suffix: 'his fathering', the suffix is the subject"
+    },
+    {
+     "id": "11:15.5",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "11:15.6",
+     "gloss": "Eber"
+    },
+    {
+     "id": "11:15.7",
+     "gloss": "three"
+    },
+    {
+     "id": "11:15.8",
+     "gloss": "years"
+    },
+    {
+     "id": "11:15.9",
+     "gloss": "and four"
+    },
+    {
+     "id": "11:15.10",
+     "gloss": "hundred"
+    },
+    {
+     "id": "11:15.11",
+     "gloss": "years"
+    },
+    {
+     "id": "11:15.12",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "11:15.13",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "11:15.14",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:15.1",
+      "11:15.2"
+     ],
+     "english": "Shelah lived",
+     "literal": "'and-lived Shelah'"
+    },
+    {
+     "tokens": [
+      "11:15.3",
+      "11:15.4"
+     ],
+     "english": "after fathering",
+     "literal": "'after his-fathering'; the infinitive with suffix is rendered as a gerund"
+    },
+    {
+     "tokens": [
+      "11:15.5"
+     ],
+     "english": "-",
+     "literal": "the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "11:15.6"
+     ],
+     "english": "Eber",
+     "literal": "proper name"
+    },
+    {
+     "tokens": [
+      "11:15.7",
+      "11:15.8",
+      "11:15.9",
+      "11:15.10",
+      "11:15.11"
+     ],
+     "english": "four hundred and three years",
+     "literal": "'three years and-four hundreds year': the units come first, the hundreds after, with the waw before the hundreds"
+    },
+    {
+     "tokens": [
+      "11:15.12",
+      "11:15.13",
+      "11:15.14"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-fathered sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "The number is given as 'three years and four hundreds year'; the smaller number precedes, and מֵאוֹת, the plural of מֵאָה, 'hundreds', is followed by singular שָׁנָה.",
+    "אַחֲרֵי הוֹלִידוֹ is a preposition with an infinitive construct and a suffix: 'after his fathering'.",
+    "שָׁלֹשׁ שָׁנִים: with the numbers three to ten the form without ־ָה goes with a feminine noun and the form with ־ָה (שְׁלֹשָׁה) with a masculine one; שָׁנָה is feminine, so שָׁלֹשׁ, which the pack parses as feminine by this agreement. After three to ten the noun is plural: שָׁנִים.",
+    "The zaqef qaton on עֵבֶר and on שָׁנִים and the etnaḥta on שָׁנָה divide the verse into the time after the birth and the other children."
+   ],
+   "note": "The spelling וַֽיְחִי with gaʿya (meteg) is as in the pack; the sense is plain.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:15:1",
+     "relation": "follows",
+     "summary": "Onkelos: וַחֲיָא שֶׁלַח בָּתַר דְּאוֹלִיד יָת עֵבֶר אַרְבַּע מְאָה וּתְלָת שְׁנִין, the same total of four hundred and three years after the birth."
+    }
+   ],
+   "apparatus": [
+    "The pack gives a paragraph mark (ס) after this verse."
+   ]
+  },
+  {
+   "ref": "11:16",
+   "english": "Eber lived thirty-four years, and he fathered Peleg.",
+   "literal": "and-lived Eber four and-thirty year and-fathered [object-marker] Peleg",
+   "tokens": [
+    {
+     "id": "11:16.1",
+     "gloss": "and he lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה"
+    },
+    {
+     "id": "11:16.2",
+     "gloss": "Eber"
+    },
+    {
+     "id": "11:16.3",
+     "gloss": "four"
+    },
+    {
+     "id": "11:16.4",
+     "gloss": "and thirty"
+    },
+    {
+     "id": "11:16.5",
+     "gloss": "years"
+    },
+    {
+     "id": "11:16.6",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "11:16.7",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "11:16.8",
+     "gloss": "Peleg"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:16.1",
+      "11:16.2"
+     ],
+     "english": "Eber lived",
+     "literal": "'and-lived Eber'"
+    },
+    {
+     "tokens": [
+      "11:16.3",
+      "11:16.4",
+      "11:16.5"
+     ],
+     "english": "thirty-four years",
+     "literal": "'four and-thirty year': units before tens"
+    },
+    {
+     "tokens": [
+      "11:16.6"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-fathered'"
+    },
+    {
+     "tokens": [
+      "11:16.7"
+     ],
+     "english": "-",
+     "literal": "the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "11:16.8"
+     ],
+     "english": "Peleg",
+     "literal": "proper name"
+    }
+   ],
+   "grammar": [
+    "The number is given as 'four and thirty', the units first; the pack lists אַרְבַּע as feminine, with שָׁנָה.",
+    "The zaqef gadol on עֵבֶר separates the subject from the figures.",
+    "The etnaḥta on שָׁנָה divides the verse before וַיּוֹלֶד."
+   ],
+   "note": "The pack's parse lists שָׁנָה as singular after the number, as usual with numbers above ten.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:16:1",
+     "relation": "follows",
+     "summary": "Onkelos: וַחֲיָא עֵבֶר תְּלָתִין וְאַרְבַּע שְׁנִין וְאוֹלִיד יָת פָּלֶג, the same figures, tens before units in Aramaic."
+    }
+   ]
+  },
+  {
+   "ref": "11:17",
+   "english": "Eber lived four hundred and thirty years after fathering Peleg, and he fathered sons and daughters.",
+   "literal": "and-lived Eber after his-fathering [object-marker] Peleg thirty year and-four hundreds year and-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "11:17.1",
+     "gloss": "and he lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of חיה"
+    },
+    {
+     "id": "11:17.2",
+     "gloss": "Eber"
+    },
+    {
+     "id": "11:17.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "11:17.4",
+     "gloss": "his fathering",
+     "sense": "Hiph 1",
+     "note": "infinitive construct with 3rd masculine singular suffix"
+    },
+    {
+     "id": "11:17.5",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "11:17.6",
+     "gloss": "Peleg"
+    },
+    {
+     "id": "11:17.7",
+     "gloss": "thirty"
+    },
+    {
+     "id": "11:17.8",
+     "gloss": "years"
+    },
+    {
+     "id": "11:17.9",
+     "gloss": "and four"
+    },
+    {
+     "id": "11:17.10",
+     "gloss": "hundred"
+    },
+    {
+     "id": "11:17.11",
+     "gloss": "years"
+    },
+    {
+     "id": "11:17.12",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "11:17.13",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "11:17.14",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:17.1",
+      "11:17.2"
+     ],
+     "english": "Eber lived",
+     "literal": "'and-lived Eber'"
+    },
+    {
+     "tokens": [
+      "11:17.3",
+      "11:17.4"
+     ],
+     "english": "after fathering",
+     "literal": "'after his-fathering'"
+    },
+    {
+     "tokens": [
+      "11:17.5"
+     ],
+     "english": "-",
+     "literal": "the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "11:17.6"
+     ],
+     "english": "Peleg",
+     "literal": "proper name"
+    },
+    {
+     "tokens": [
+      "11:17.7",
+      "11:17.8",
+      "11:17.9",
+      "11:17.10",
+      "11:17.11"
+     ],
+     "english": "four hundred and thirty years",
+     "literal": "'thirty year and-four hundreds year'"
+    },
+    {
+     "tokens": [
+      "11:17.12",
+      "11:17.13",
+      "11:17.14"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-fathered sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "The sum is split in two: 'thirty years' and 'four hundred years', each with its own שָׁנָה; the English joins them as 'four hundred and thirty'.",
+    "אַחֲרֵי הוֹלִידוֹ אֶת־פֶּלֶג is 'after his fathering Peleg'.",
+    "The revia on עֵבֶר and pashta on אַחֲרֵי mark the subject and the preposition, and the zaqef qaton on פֶּלֶג closes the clause."
+   ],
+   "note": "The total is given in two parts; the English adds them.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:17:1",
+     "relation": "follows",
+     "summary": "Onkelos: וַחֲיָא עֵבֶר בָּתַר דְּאוֹלִיד יָת פֶּלֶג אַרְבַּע מְאָה וּתְלָתִין שְׁנִין, giving the total as one sum of four hundred and thirty."
+    }
+   ],
+   "apparatus": [
+    "The pack gives a paragraph mark (ס) after this verse."
+   ]
+  }
+ ]
+}

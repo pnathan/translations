@@ -1,0 +1,1437 @@
+{
+ "unit": "lekh-lekha-01",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "12:1",
+   "english": "The LORD said to Abram, \"Go forth from your land, from your birthplace, and from your father's house, to the land that I will show you.\"",
+   "literal": "and-said the-LORD to-Abram go-(you) to-you from-land-of-you and-from-birthplace-of-you and-from-house-of father-of-you to the-land that I-will-show-you",
+   "tokens": [
+    {
+     "id": "12:1.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of אמר: narrative sequence, 'and he said'"
+    },
+    {
+     "id": "12:1.2",
+     "gloss": "the LORD",
+     "note": "the divine name, rendered 'the LORD' by the edition's decision"
+    },
+    {
+     "id": "12:1.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "12:1.4",
+     "gloss": "Abram"
+    },
+    {
+     "id": "12:1.5",
+     "gloss": "go",
+     "note": "imperative of הלך (the first root letter falls away in the imperative: לֶךְ). The plain sense 'go' is not among the senses the pack lists for this entry (Qal II.1 'die' and II.2 'live, walk' are figurative), so no sense is given."
+    },
+    {
+     "id": "12:1.6",
+     "gloss": "for yourself",
+     "note": "ל + 2nd person suffix, the so-called ethical dative: לֶךְ־לְךָ is an idiom of going, 'be off'. Rashi reads it as 'for your benefit'; Ramban and Radak say it is only idiom."
+    },
+    {
+     "id": "12:1.7",
+     "gloss": "from your land",
+     "sense": "2",
+     "note": "מִ 'from' + construct אַרְצְ + suffix ךָ"
+    },
+    {
+     "id": "12:1.8",
+     "gloss": "and from your birthplace",
+     "note": "מוֹלֶדֶת, from ילד 'to bear': the place or kin of one's birth"
+    },
+    {
+     "id": "12:1.9",
+     "gloss": "and from the house of",
+     "sense": "5",
+     "note": "construct state: 'the house of'; בַּיִת here means household, family"
+    },
+    {
+     "id": "12:1.10",
+     "gloss": "your father",
+     "sense": "1"
+    },
+    {
+     "id": "12:1.11",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "12:1.12",
+     "gloss": "the land",
+     "sense": "2"
+    },
+    {
+     "id": "12:1.13",
+     "gloss": "that"
+    },
+    {
+     "id": "12:1.14",
+     "gloss": "I will show you",
+     "sense": "Hiph 1.a",
+     "note": "Hifil imperfect 1st person singular of ראה with the 2nd person suffix: 'I will show you'. The segol and the dagesh in the kaf (־ֶךָּ) come from an assimilated (energic) nun, a suffix form that III-ה verbs often take in pause, here under silluq. The land is not named."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:1.1",
+      "12:1.2",
+      "12:1.3",
+      "12:1.4"
+     ],
+     "english": "The LORD said to Abram",
+     "literal": "'and-said the-LORD to-Abram'; wayyiqtol rendered by a simple past"
+    },
+    {
+     "tokens": [
+      "12:1.5",
+      "12:1.6"
+     ],
+     "english": "Go forth",
+     "literal": "'go to-you'; the idiom לֶךְ־לְךָ, 'be off'; the ethical dative is not translated"
+    },
+    {
+     "tokens": [
+      "12:1.7"
+     ],
+     "english": "from your land",
+     "literal": "'from-land-of-you'"
+    },
+    {
+     "tokens": [
+      "12:1.8"
+     ],
+     "english": "from your birthplace",
+     "literal": "'and-from-birthplace-of-you'; the series is a list, so 'and' is held for the last item"
+    },
+    {
+     "tokens": [
+      "12:1.9",
+      "12:1.10"
+     ],
+     "english": "and from your father's house",
+     "literal": "'and-from-house-of father-of-you'; the construct chain, the third and last item of the list"
+    },
+    {
+     "tokens": [
+      "12:1.11",
+      "12:1.12",
+      "12:1.13",
+      "12:1.14"
+     ],
+     "english": "to the land that I will show you",
+     "literal": "'to the-land that I-will-show-you'; relative clause with the verb in the imperfect: 'will show'"
+    }
+   ],
+   "grammar": [
+    "לֶךְ־לְךָ is the imperative of הלך with a reflexive-looking dative. The first-letter loss in the imperative (הלך gives לֶךְ) is regular for this root. Ramban and Radak list parallel idioms: אֵלְכָה לִּי, קְחוּ לָכֶם.",
+    "The three prepositional phrases מֵאַרְצְךָ, וּמִמּוֹלַדְתְּךָ, וּמִבֵּית אָבִיךָ run from the widest circle to the narrowest: land, kin, household. The accents mark the list; the etnaḥta falls on אָבִיךָ and splits the verse between what he leaves and where he goes.",
+    "The destination is deliberately not named: אֶל־הָאָרֶץ אֲשֶׁר אַרְאֶךָּ. The hifil of ראה governs two accusatives (here the suffix and the land, which is the object of the relative clause).",
+    "In pause, under the silluq, the suffix of אַרְאֶךָּ is ־ֶךָּ: the dagesh in the kaf is an assimilated (energic) nun."
+   ],
+   "note": "The narrative order is kept: the command follows 11:31–32, where Terah and Abram have already reached Haran. Rashi's reading (the command means 'move further away') fits that order; Ibn Ezra takes the command as given earlier, in Ur of the Chaldeans. The English says only 'said' and does not choose a pluperfect. 'Birthplace' is chosen for מוֹלֶדֶת because the pack's lexicon gives 'birth, kindred'; Ramban shows that the word covers the family's home. The ethical dative is dropped from the English as idiom; Rashi's reading is recorded.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:1:1",
+     "relation": "records",
+     "summary": "Rashi: לֶךְ־לְךָ means 'for your own benefit and good': there He will make you a great nation, here you do not merit children; and also so that your nature (reputation) becomes known. Ramban and Radak say instead that this is simply the idiom of the language; the English does not translate the dative."
+    },
+    {
+     "anchor": "rashi:12:2:7",
+     "relation": "follows",
+     "summary": "Rashi: but he had already left Ur with his father and come to Haran; so the command means 'distance yourself even further from there and leave your father's house'. The English leaves 'your land' as it stands and the verse order (Haran, then this command) is kept in the English."
+    },
+    {
+     "anchor": "rashi:12:2:8",
+     "relation": "follows",
+     "summary": "Rashi: He did not reveal the land at once, in order to make it dear in Abram's eyes and to give him reward for every single utterance (compare Isaac in 22:2). The English keeps the destination unnamed: 'the land that I will show you'."
+    },
+    {
+     "anchor": "ibn-ezra:12:1:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: God commanded Abram while he was still in Ur of the Chaldeans to leave his land, his birthplace and his father's house. The reason: God knew that Terah, once he had set out for Canaan, would settle in Haran, and Terah did not die until sixty years after Abram left his father's house in Haran; Scripture simply does not give Abram's age when he left Ur. After 'that I will show you' God revealed the secret to him (12:5, 'they set out for the land of Canaan'), or 'I will show you' refers to 13:15, 'all the land that you see I will give to you'. The English does not take the verb as pluperfect, and this reading is recorded as the alternative."
+    },
+    {
+     "anchor": "ramban:12:1:2",
+     "relation": "not-applicable",
+     "summary": "Ramban quotes Rashi ('distance yourself further'), then rejects Ibn Ezra's view that the command came in Ur. Genesis 11:31 says Terah took Abram, so Abram left Ur on his father's initiative. Joshua 24:3 says 'from beyond the River', not 'from Ur'. And in Genesis 24:4, 10 'my land and my birthplace' is Aram Naharaim, the city of Nahor. His own view: Haran is Abram's land and birthplace, the land of his fathers, and the command to leave them came there. The three terms are named because each is harder to leave than the last. The comment concerns the history of the narrative and does not change the English."
+    },
+    {
+     "anchor": "onkelos:12:1:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos translates the verse closely: אִיזֵל לָךְ מֵאַרְעָךְ; it keeps the idiom לָךְ as the Hebrew has it."
+    }
+   ],
+   "apparatus": [
+    "12:1.2, the divine name: MAM writes יְהֹוָה, the pack's analysis reads יְהוָה; the English is 'the LORD' in both.",
+    "The tense of וַיֹּאמֶר: simple past (Rashi's sequence) against pluperfect 'had said' (Ibn Ezra, Radak: he spoke to him before leaving Ur, as in 15:7)."
+   ]
+  },
+  {
+   "ref": "12:2",
+   "english": "I will make you into a great nation, I will bless you, and make your name great, and you shall be a blessing.",
+   "literal": "and-I-will-make-you to-nation great and-I-will-bless-you and-I-will-make-great name-of-you and-be (you) blessing",
+   "tokens": [
+    {
+     "id": "12:2.1",
+     "gloss": "and I will make you",
+     "sense": "Qal II.1",
+     "note": "וְ + yiqtol, 1st person singular, of עשׂה with a 2nd person suffix: not a wayyiqtol (the vav has shewa, and there is no doubling). After the imperative לֶךְ of 12:1 it states what will follow from the going. The ayin has a full segol where the plain form has ḥaṭef segol (אֶעֱשֶׂה), because a shewa follows it."
+    },
+    {
+     "id": "12:2.2",
+     "gloss": "into a nation",
+     "note": "ל + גּוֹי: 'to (become) a nation'"
+    },
+    {
+     "id": "12:2.3",
+     "gloss": "great",
+     "note": "the adjective agrees with גּוֹי: 'a great nation', great in number. The pack's entry lists only senses 4 'loud', 9 'do great things' and 10 'greatness', none of which fits, so no sense is given."
+    },
+    {
+     "id": "12:2.4",
+     "gloss": "and I will bless you",
+     "sense": "Pi 2",
+     "note": "Piel: God blesses a person; the pack lists this as Pi 2. Rashi (from Bereshit Rabbah) takes it as 'with wealth'."
+    },
+    {
+     "id": "12:2.5",
+     "gloss": "and I will make great",
+     "sense": "Pi 2",
+     "note": "Piel of גדל 'make great'; the final ָה is the cohortative-like ending of the 1st person"
+    },
+    {
+     "id": "12:2.6",
+     "gloss": "your name",
+     "sense": "2.b",
+     "note": "שֵׁם here as reputation, renown"
+    },
+    {
+     "id": "12:2.7",
+     "gloss": "and be",
+     "sense": "Qal II.2",
+     "note": "imperative of היה: 'be!'. Radak says it stands in the place of 'and you will be'; Rashi takes it as a real command with a gift of power."
+    },
+    {
+     "id": "12:2.8",
+     "gloss": "a blessing",
+     "sense": "2",
+     "note": "בְּרָכָה, here a source of blessing, a byword in which others bless"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:2.1",
+      "12:2.2",
+      "12:2.3"
+     ],
+     "english": "I will make you into a great nation",
+     "literal": "'and-I-will-make-you to-nation great'; the first of three promises, which Rashi reads as children"
+    },
+    {
+     "tokens": [
+      "12:2.4"
+     ],
+     "english": "I will bless you",
+     "literal": "'and-I-will-bless-you'; the Piel with a suffix"
+    },
+    {
+     "tokens": [
+      "12:2.5",
+      "12:2.6"
+     ],
+     "english": "and make your name great",
+     "literal": "'and-I-will-make-great name-of-you'; the subject is continued from the previous clause"
+    },
+    {
+     "tokens": [
+      "12:2.7",
+      "12:2.8"
+     ],
+     "english": "and you shall be a blessing",
+     "literal": "'and-be (you) blessing'; the imperative is addressed to Abram, and 'you shall be' carries both the command (Rashi: the blessings are put into your hand) and the future that Radak reads in it"
+    }
+   ],
+   "grammar": [
+    "Three first-person imperfects (וְאֶעֶשְׂךָ, וַאֲבָרֶכְךָ, וַאֲגַדְּלָה) carry the promise. None is a wayyiqtol: the vav has shewa, or pataḥ before the ḥaṭef pataḥ of the guttural א (a first-person wayyiqtol would have וָאֲ with qamets).",
+    "The fourth verb, וֶהְיֵה, is an imperative addressed to Abram, 'and be'. Radak takes it as an imperative standing for the future 'and you will be' (compare Deut. 32:50); Rashi reads it as a gift: the power of blessing is put into Abram's hand.",
+    "וַאֲבָרֶכְךָ is Piel with a suffix; וַאֲגַדְּלָה is Piel of גדל, causative 'make great', with the cohortative ending ־ָה. The root גדל recurs: גּוֹי גָּדוֹל, וַאֲגַדְּלָה.",
+    "In וֶהְיֵה the vav has segol because the imperative הֱיֵה begins with ה under ḥaṭef segol. Before a ḥaṭef the vav takes the matching short vowel, and the ḥaṭef becomes a silent shewa (וֶהְ־).",
+    "The accents: the etnaḥta on שְׁמֶךָ divides the verse. The first half holds the three promises, and the second half holds וֶהְיֵה בְּרָכָה alone."
+   ],
+   "note": "Rashi (Bereshit Rabbah) reads the three promises as answering the three losses of travel, which diminishes children, wealth and name: 'nation' is children, 'bless' is wealth, 'make great your name' is fame. The English keeps 'bless' unspecified and records this. Radak agrees on wealth for 'bless' and on renown for the name. For וֶהְיֵה בְּרָכָה the English has 'you shall be', so that the imperative is plainly addressed to Abram. Rashi says the blessings are put in Abram's hand, Radak says the imperative stands for a future 'you will be', and Ramban says that people will invoke him in blessing.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:2:1",
+     "relation": "follows",
+     "summary": "Rashi: the journey diminishes procreation, property and renown, so three blessings were needed; He promised him children, wealth and a name. 'Make you into a great nation' is the promise of children."
+    },
+    {
+     "anchor": "rashi:12:2:2",
+     "relation": "records",
+     "summary": "Rashi, from Bereshit Rabbah: 'I will bless you' means with wealth. The English keeps the verb general ('bless') and records the narrower reading, which Radak also gives (13:2, 'rich in cattle, silver and gold')."
+    },
+    {
+     "anchor": "rashi:12:2:3",
+     "relation": "follows",
+     "summary": "Rashi: the blessings are placed in your hand; until now they were in Mine (I blessed Adam and Noah), from now on you will bless whomever you wish. The English 'you shall be a blessing' addresses the imperative to Abram."
+    },
+    {
+     "anchor": "rashi:12:2:4",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'I will make you into a great nation' is the origin of the phrase 'God of Abraham' in the Amidah blessing. A liturgical homily; it does not bear on the plain sense."
+    },
+    {
+     "anchor": "rashi:12:2:5",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'I will bless you' is the origin of 'God of Isaac' in the Amidah. A liturgical homily."
+    },
+    {
+     "anchor": "rashi:12:2:6",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'and make your name great' is the origin of 'God of Jacob'; one might have thought the blessing is concluded with all three, so the text says 'be a blessing': it is concluded with you (Abraham) alone. A liturgical homily."
+    },
+    {
+     "anchor": "radak:12:2:4",
+     "relation": "follows",
+     "summary": "Radak: וֶהְיֵה is an imperative in the place of a full-vowelled future, 'and you will be', as in 'go up and die on the mountain' (Deut. 32:50); your blessing will be so great that you will be a blessing to others, as a man blesses his son 'may God bless you like Abraham'."
+    }
+   ],
+   "apparatus": [
+    "וֶהְיֵה: an imperative (the parse; Rashi: the power of blessing is given into Abram's hand), which Radak reads in the sense of a future, 'you will be'. The English 'you shall be' carries both."
+   ]
+  },
+  {
+   "ref": "12:3",
+   "english": "I will bless those who bless you, and the one who curses you I will curse, and all the families of the earth will bless themselves by you.",
+   "literal": "and-I-will-bless those-who-bless-you and-the-one-who-curses-you I-will-curse and-will-bless-themselves in-you all-of families-of the-ground",
+   "tokens": [
+    {
+     "id": "12:3.1",
+     "gloss": "and I will bless",
+     "sense": "Pi 2",
+     "note": "Piel imperfect, 1st person, with the vav of continuation; the pack's base vocalisation וַאֲבָֽרְכָה is noted in the variants (WLC: וַאֲבָֽרֲכָה)"
+    },
+    {
+     "id": "12:3.2",
+     "gloss": "those who bless you",
+     "sense": "Pi 3",
+     "note": "Piel active participle, masculine PLURAL, construct with a suffix: 'blessers of you'. Ibn Ezra notes that it is plural."
+    },
+    {
+     "id": "12:3.3",
+     "gloss": "and the one who curses you",
+     "sense": "Pi",
+     "note": "Piel participle, masculine SINGULAR, construct with a suffix; Ibn Ezra and Radak note that it is singular, because those who curse him will be few"
+    },
+    {
+     "id": "12:3.4",
+     "gloss": "I will curse",
+     "sense": "Qal",
+     "note": "Qal imperfect 1st person singular of the geminate (doubled-letter) root ארר. The preformative א has qamets, as in geminate verbs (compare יָסֹב), and is followed by the root's first letter א with ḥolem; the doubled ר is written once. אָרַר is a different and stronger verb than קלל; the English has 'curse' for both."
+    },
+    {
+     "id": "12:3.5",
+     "gloss": "and will bless themselves",
+     "sense": "Niph",
+     "note": "Niphal perfect with vav (a weqatal continuing the promise): reflexive 'bless oneself', in the pack's Niph sense; some read it as passive, 'be blessed'"
+    },
+    {
+     "id": "12:3.6",
+     "gloss": "by you",
+     "note": "בְּ + suffix: 'by you', 'in you'; the preposition marks the person whose name will be used as the blessing"
+    },
+    {
+     "id": "12:3.7",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state: 'all of'"
+    },
+    {
+     "id": "12:3.8",
+     "gloss": "the families of",
+     "sense": "1",
+     "note": "construct plural"
+    },
+    {
+     "id": "12:3.9",
+     "gloss": "the earth",
+     "sense": "3",
+     "note": "הָאֲדָמָה 'the ground', here the whole inhabited earth"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:3.1",
+      "12:3.2"
+     ],
+     "english": "I will bless those who bless you",
+     "literal": "'and-I-will-bless blessers-of-you'; plural participle"
+    },
+    {
+     "tokens": [
+      "12:3.3",
+      "12:3.4"
+     ],
+     "english": "and the one who curses you I will curse",
+     "literal": "'and-curser-of-you I-will-curse'; singular participle, object fronted, as in the Hebrew"
+    },
+    {
+     "tokens": [
+      "12:3.5",
+      "12:3.6",
+      "12:3.7",
+      "12:3.8",
+      "12:3.9"
+     ],
+     "english": "and all the families of the earth will bless themselves by you",
+     "literal": "'and-will-bless-themselves in-you all-of families-of the-ground'; Niphal read as reflexive, following Rashi's 'a man says to his son: be like Abraham'"
+    }
+   ],
+   "grammar": [
+    "The plural participle מְבָרְכֶיךָ and the singular מְקַלֶּלְךָ are kept apart in the English ('those who' / 'the one who'): many will bless, few will curse (Ibn Ezra, Radak).",
+    "The object מְקַלֶּלְךָ is placed first in its clause and the verb אָאֹר follows: this fronting is the Hebrew's way of setting the two outcomes against each other.",
+    "וְנִבְרְכוּ is Niphal. The Niphal of ברך can be reflexive ('bless oneself') or passive ('be blessed'); Rashi reads it as 'bless themselves': people will say 'may you be like Abraham' (compare 48:20, 'by you Israel will bless: may God make you like Ephraim and Manasseh').",
+    "The two cursing verbs differ: קלל (Piel) is 'treat lightly, curse' and ארר (Qal) is the stronger 'lay under a curse'; the English uses 'curse' for both.",
+    "The accents: the pashta on וַאֲבָרְכָה, the zaqef on מְבָרְכֶיךָ, the etnaḥta on אָאֹר mark the two halves of the first part, and the verse ends with the great blessing as a separate clause."
+   ],
+   "note": "The Niphal is read as reflexive following Rashi (who says 'this is its plain sense'); the passive 'will be blessed through you' is the alternative and is recorded here. Ramban holds that both are possible and adds that all will be blessed on account of him. The English preserves the number of the participles.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:3:1",
+     "relation": "follows",
+     "summary": "Rashi: there are many aggadot, but this is the plain sense: a man says to his son 'may you be like Abraham'; so every 'and they shall be blessed through you' in Scripture; and this proves it: 'by you shall Israel bless, saying: may God make you like Ephraim and Manasseh' (48:20). The English reads the Niphal as reflexive."
+    },
+    {
+     "anchor": "ibn-ezra:12:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra on מְבָרְכֶיךָ: plural ('רבים'). The English renders 'those who bless you'."
+    },
+    {
+     "anchor": "ibn-ezra:12:3:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra on וּמְקַלֶּלְךָ: singular ('יחיד'). The English renders 'the one who curses you'. Radak gives the reason: few will curse him."
+    }
+   ],
+   "apparatus": [
+    "12:3.1 vowels: the base text has וַאֲבָֽרְכָה, WLC has וַאֲבָֽרֲכָה (a different ḥaṭef pattern); no difference in sense.",
+    "וְנִבְרְכוּ: reflexive 'bless themselves' (Rashi) against passive 'be blessed through you' (a common alternative; Ramban allows both, 'be blessed on his account')."
+   ]
+  },
+  {
+   "ref": "12:4",
+   "english": "So Abram went, as the LORD had spoken to him, and Lot went with him. Now Abram was seventy-five years old when he left Haran.",
+   "literal": "and-went Abram as spoke to-him the-LORD and-went with-him Lot and-Abram son-of five years and-seventy year in-going-out-of-him from-Haran",
+   "tokens": [
+    {
+     "id": "12:4.1",
+     "gloss": "and went",
+     "note": "wayyiqtol of הלך, 3rd person masculine singular. The first root letter falls away as in a I-yod verb, giving וַיֵּלֶךְ. The plain sense 'go' is not among the senses the pack lists (Qal II.1–2 are figurative), so no sense is given."
+    },
+    {
+     "id": "12:4.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "12:4.3",
+     "gloss": "as",
+     "sense": "1",
+     "note": "כַּאֲשֶׁר: 'according as'"
+    },
+    {
+     "id": "12:4.4",
+     "gloss": "had spoken",
+     "sense": "Pi",
+     "note": "Piel perfect of דבר; the English pluperfect follows from the order of events: the speaking precedes the going"
+    },
+    {
+     "id": "12:4.5",
+     "gloss": "to him",
+     "sense": "1"
+    },
+    {
+     "id": "12:4.6",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "12:4.7",
+     "gloss": "and went",
+     "note": "the verb is repeated for Lot; no sense is given, as at 12:4.1"
+    },
+    {
+     "id": "12:4.8",
+     "gloss": "with him",
+     "sense": "1",
+     "note": "אֵת 'with', the preposition (not the object marker), with a suffix"
+    },
+    {
+     "id": "12:4.9",
+     "gloss": "Lot"
+    },
+    {
+     "id": "12:4.10",
+     "gloss": "and Abram",
+     "note": "the vav here introduces a circumstantial remark about age: 'now Abram was'"
+    },
+    {
+     "id": "12:4.11",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "construct state; 'son of N years' is the Hebrew way to say a person's age"
+    },
+    {
+     "id": "12:4.12",
+     "gloss": "five",
+     "note": "a feminine form before the plural noun שָׁנִים; the units come before the tens, 'five years and seventy years'"
+    },
+    {
+     "id": "12:4.13",
+     "gloss": "years"
+    },
+    {
+     "id": "12:4.14",
+     "gloss": "and seventy"
+    },
+    {
+     "id": "12:4.15",
+     "gloss": "years"
+    },
+    {
+     "id": "12:4.16",
+     "gloss": "when he left",
+     "sense": "Qal 1",
+     "note": "ב + infinitive construct + suffix: 'in his going out', a temporal clause"
+    },
+    {
+     "id": "12:4.17",
+     "gloss": "from Haran"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:4.1",
+      "12:4.2"
+     ],
+     "english": "So Abram went",
+     "literal": "'and-went Abram'; the vav is the sequence of obedience to the command"
+    },
+    {
+     "tokens": [
+      "12:4.3",
+      "12:4.4",
+      "12:4.5",
+      "12:4.6"
+     ],
+     "english": "as the LORD had spoken to him",
+     "literal": "'as spoke to-him the-LORD'"
+    },
+    {
+     "tokens": [
+      "12:4.7",
+      "12:4.8",
+      "12:4.9"
+     ],
+     "english": "and Lot went with him",
+     "literal": "'and-went with-him Lot'; the verb stands first, and the subject Lot follows"
+    },
+    {
+     "tokens": [
+      "12:4.10",
+      "12:4.11",
+      "12:4.12",
+      "12:4.13",
+      "12:4.14",
+      "12:4.15"
+     ],
+     "english": "Now Abram was seventy-five years old",
+     "literal": "'and-Abram son-of five years and-seventy year'; a noun clause with no verb, giving a circumstance"
+    },
+    {
+     "tokens": [
+      "12:4.16",
+      "12:4.17"
+     ],
+     "english": "when he left Haran",
+     "literal": "'in-going-out-of-him from-Haran'"
+    }
+   ],
+   "grammar": [
+    "וַיֵּלֶךְ is a wayyiqtol with the weak root's first letter dropped; it is repeated at the start of the second clause with a new subject (Lot).",
+    "כַּאֲשֶׁר דִּבֶּר ... יְהֹוָה: the perfect after כַּאֲשֶׁר refers back to the command of verse 1, hence 'had spoken'.",
+    "The clause וְאַבְרָם בֶּן־חָמֵשׁ שָׁנִים וְשִׁבְעִים שָׁנָה is verbless: 'and Abram (was) son of five years and seventy years'. The subject comes first; the vav marks a circumstance.",
+    "בְּצֵאתוֹ is the preposition ב with an infinitive construct and a suffix: the Hebrew way to write a temporal clause 'when he went out'."
+   ],
+   "note": "The pluperfect in 'as the LORD had spoken' is needed in English; the Hebrew perfect is unmarked for time. The age is given as 'seventy-five' because the Hebrew counts units before tens.",
+   "commentary": [
+    {
+     "anchor": "radak:12:4:2",
+     "relation": "follows",
+     "summary": "Radak on כַּאֲשֶׁר דִּבֶּר: he did not ask or test, but believed that God would fulfil what He had said to him."
+    },
+    {
+     "anchor": "radak:12:4:3",
+     "relation": "follows",
+     "summary": "Radak: he left his father there; perhaps he stayed some days to persuade him to come; he was seventy-five years old when he left Haran."
+    },
+    {
+     "anchor": "onkelos:12:4:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos renders the verse closely: וַאֲזַל אַבְרָם כְּמָא דִמַלֵּיל עִמֵּיהּ יְיָ."
+    }
+   ],
+   "apparatus": [
+    "No variant readings are listed for this verse in the pack.",
+    "Terah was seventy at Abram's birth (11:26) and died at two hundred and five (11:32), so he died sixty years after Abram left Haran at seventy-five, though 11:32 tells of it first. Ibn Ezra on 12:1 says this: Terah did not die until sixty years after Abram left. The English translates the text as it stands."
+   ]
+  },
+  {
+   "ref": "12:5",
+   "english": "Abram took Sarai his wife, and Lot his brother's son, and all the property that they had amassed, and the people they had acquired in Haran, and they set out for the land of Canaan, and they came to the land of Canaan.",
+   "literal": "and-took Abram acc. Sarai wife-of-him and-acc. Lot son-of brother-of-him and-acc. all-of property-of-them that they-amassed and-acc. the-person that they-made in-Haran and-they-went-out to-go land-of-to Canaan and-they-came land-of-to Canaan",
+   "tokens": [
+    {
+     "id": "12:5.1",
+     "gloss": "and took",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of לקח; the first of a chain of wayyiqtols that tell the journey"
+    },
+    {
+     "id": "12:5.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "12:5.3",
+     "gloss": "(object marker)",
+     "note": "אֶת marks the definite direct object"
+    },
+    {
+     "id": "12:5.4",
+     "gloss": "Sarai"
+    },
+    {
+     "id": "12:5.5",
+     "gloss": "his wife",
+     "sense": "2",
+     "note": "construct state אִשְׁתּ־ + suffix; אִשָּׁה as 'wife'"
+    },
+    {
+     "id": "12:5.6",
+     "gloss": "and (object marker)",
+     "note": "vav + the object marker"
+    },
+    {
+     "id": "12:5.7",
+     "gloss": "Lot"
+    },
+    {
+     "id": "12:5.8",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "12:5.9",
+     "gloss": "his brother",
+     "sense": "1",
+     "note": "'son of his brother': nephew; אָחִיו is Haran, 11:27"
+    },
+    {
+     "id": "12:5.10",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "12:5.11",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "כׇּל is joined by maqqef to the next word, so it loses its stress and its vowel is the short qamets qatan (o), not the ḥolem of כֹּל"
+    },
+    {
+     "id": "12:5.12",
+     "gloss": "their property",
+     "note": "רְכוּשׁ 'goods', from the root רכשׁ, the same root as the verb that follows"
+    },
+    {
+     "id": "12:5.13",
+     "gloss": "that"
+    },
+    {
+     "id": "12:5.14",
+     "gloss": "they had amassed",
+     "note": "perfect of רכשׁ 'gather property'; the English pluperfect follows from the order of events"
+    },
+    {
+     "id": "12:5.15",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "12:5.16",
+     "gloss": "the people",
+     "sense": "4",
+     "note": "נֶפֶשׁ, a singular noun used collectively: 'the persons', here the servants (Rashi's plain sense); sense 4, the person or individual"
+    },
+    {
+     "id": "12:5.17",
+     "gloss": "that"
+    },
+    {
+     "id": "12:5.18",
+     "gloss": "they had acquired",
+     "sense": "Qal II.7",
+     "note": "literally 'they made'; the sense 'acquire' is the one Rashi and Ibn Ezra take for the plain meaning (compare Deut. 8:17, 'made me this wealth')"
+    },
+    {
+     "id": "12:5.19",
+     "gloss": "in Haran"
+    },
+    {
+     "id": "12:5.20",
+     "gloss": "and they set out",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd person masculine plural, of יצא"
+    },
+    {
+     "id": "12:5.21",
+     "gloss": "to go",
+     "note": "infinitive construct with ל: 'in order to go', the purpose of setting out. No sense is given, since the pack lists only the figurative Qal senses of הלך."
+    },
+    {
+     "id": "12:5.22",
+     "gloss": "to the land of",
+     "sense": "2",
+     "note": "construct state with the directional ending ־ָה: 'toward the land of'"
+    },
+    {
+     "id": "12:5.23",
+     "gloss": "Canaan"
+    },
+    {
+     "id": "12:5.24",
+     "gloss": "and they came",
+     "sense": "Qal 2",
+     "note": "wayyiqtol of בוא, 3rd person masculine plural"
+    },
+    {
+     "id": "12:5.25",
+     "gloss": "to the land of",
+     "sense": "2",
+     "note": "the same directional construction as 12:5.22"
+    },
+    {
+     "id": "12:5.26",
+     "gloss": "Canaan"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:5.1",
+      "12:5.2"
+     ],
+     "english": "Abram took",
+     "literal": "'and-took Abram'"
+    },
+    {
+     "tokens": [
+      "12:5.3",
+      "12:5.4",
+      "12:5.5"
+     ],
+     "english": "Sarai his wife",
+     "literal": "'(acc.) Sarai wife-of-him'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "12:5.6",
+      "12:5.7",
+      "12:5.8",
+      "12:5.9"
+     ],
+     "english": "and Lot his brother's son",
+     "literal": "'and-(acc.) Lot son-of brother-of-him'"
+    },
+    {
+     "tokens": [
+      "12:5.10",
+      "12:5.11",
+      "12:5.12",
+      "12:5.13",
+      "12:5.14"
+     ],
+     "english": "and all the property that they had amassed",
+     "literal": "'and-(acc.) all-of property-of-them that they-amassed'"
+    },
+    {
+     "tokens": [
+      "12:5.15",
+      "12:5.16",
+      "12:5.17",
+      "12:5.18",
+      "12:5.19"
+     ],
+     "english": "and the people they had acquired in Haran",
+     "literal": "'and-(acc.) the-person that they-made in-Haran'; 'made' read as 'acquired' (Rashi's plain sense, Ibn Ezra)"
+    },
+    {
+     "tokens": [
+      "12:5.20",
+      "12:5.21",
+      "12:5.22",
+      "12:5.23"
+     ],
+     "english": "and they set out for the land of Canaan",
+     "literal": "'and-they-went-out to-go land-of-to Canaan'; 'to go' folded into 'set out for'"
+    },
+    {
+     "tokens": [
+      "12:5.24",
+      "12:5.25",
+      "12:5.26"
+     ],
+     "english": "and they came to the land of Canaan",
+     "literal": "'and-they-came land-of-to Canaan'"
+    }
+   ],
+   "grammar": [
+    "The verse is a string of wayyiqtols (וַיִּקַּח, וַיֵּצְאוּ, וַיָּבֹאוּ), each marking the next step; the objects of וַיִּקַּח are joined by repeated וְאֶת־.",
+    "The two relative clauses אֲשֶׁר רָכָשׁוּ and אֲשֶׁר־עָשׂוּ use perfects that describe what had been done before Abram took them, hence the English pluperfect. The root רכשׁ is in both the noun רְכוּשׁ and the verb רָכָשׁוּ.",
+    "הַנֶּפֶשׁ is singular in form but collective in sense ('the persons'); the verb עָשׂוּ that follows is plural.",
+    "אַרְצָה כְּנַעַן uses the directional he, ־ָה, on a noun in the construct state; the same expression appears twice, in the goal (to go) and in the arrival. The repetition is deliberate: they set out for Canaan and they arrived there, unlike Terah (11:31).",
+    "The verb עָשָׂה, 'make', has the sense 'acquire' here; the pack's lexicon lists it as Qal II.7."
+   ],
+   "note": "עָשׂוּ is the difficulty. Rashi gives two readings: the aggadic one (Abram converted the men, Sarai the women, and Scripture counts it as if they had made them), and what he calls the plain sense, 'servants and maidservants that they acquired'. Ibn Ezra gives 'slaves born in the house, or 'made' is 'acquired'' and, as another view, 'souls whom they taught the truth'. Radak also gives the aggadic reading and Onkelos's, 'those whom they subjected to the Torah'. The English follows the plain sense and records the other readings.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:5:1",
+     "relation": "follows",
+     "summary": "Rashi: 'the people they had made in Haran': Abram converted the men and Sarai the women, and Scripture credits them as if they had made them; but the plain sense is servants and maidservants that they acquired, as in 'he made all this wealth for himself' (31:1) and 'Israel is making power' (Num. 24:18), a language of acquiring and gathering. The English takes the plain sense and records the homily here."
+    },
+    {
+     "anchor": "ibn-ezra:12:5:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra on רכושם: מִקְנֶה, 'what is acquired, possessions' (the word is used above all of livestock), as in 'for their property was great' (13:6). The English 'property' gives the general sense."
+    },
+    {
+     "anchor": "ibn-ezra:12:5:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra on הנפש: slaves born in the house, or 'made' means 'acquired' (compare Deut. 8:17); and some say they were the souls whom they taught the truth, to serve God. The English takes 'acquired'; the last reading is recorded."
+    },
+    {
+     "anchor": "ibn-ezra:12:5:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the meaning of 'they set out to go' is toward the place that God had said. The English says 'set out for the land of Canaan' and does not add a purpose clause."
+    },
+    {
+     "anchor": "radak:12:5:2",
+     "relation": "follows",
+     "summary": "Radak on רָכָשׁוּ: Abram and Lot; the property includes silver and the other movable goods."
+    },
+    {
+     "anchor": "onkelos:12:5:1",
+     "relation": "records",
+     "summary": "Onkelos: וְיָת נַפְשָׁתָא דְּשַׁעְבִּידוּ לְאוֹרַיְתָא בְחָרָן: 'the souls whom they subjected to the Torah in Haran'. This is the aggadic reading."
+    }
+   ],
+   "apparatus": [
+    "12:5.21: the pack gives the accents of לָלֶכֶת as pashta, pashta (a repeated accent); the word is a single infinitive.",
+    "12:5.18 עָשׂוּ: 'acquired' (plain sense, Rashi and Ibn Ezra) against 'converted' or 'taught' (aggadah, Onkelos, Radak, Ibn Ezra's alternative).",
+    "The Hebrew is 'to the land of Canaan' in both the departure and the arrival clauses; the English repeats the phrase."
+   ]
+  },
+  {
+   "ref": "12:6",
+   "english": "Abram passed through the land as far as the site of Shechem, as far as the terebinth of Moreh. The Canaanite was then in the land.",
+   "literal": "and-passed Abram in-the-land as-far-as place-of Shechem as-far-as terebinth-of Moreh and-the-Canaanite then in-the-land",
+   "tokens": [
+    {
+     "id": "12:6.1",
+     "gloss": "and passed through",
+     "sense": "Qal 3",
+     "note": "wayyiqtol of עבר; here 'traverse', as Rashi 'entered into it'"
+    },
+    {
+     "id": "12:6.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "12:6.3",
+     "gloss": "in the land",
+     "sense": "2",
+     "note": "בְּ + definite article contracts to בָּ"
+    },
+    {
+     "id": "12:6.4",
+     "gloss": "as far as",
+     "note": "עַד of space, 'as far as'. The pack lists only its senses of time and degree (II.1–3), so no sense is given."
+    },
+    {
+     "id": "12:6.5",
+     "gloss": "the site of",
+     "sense": "2.a",
+     "note": "construct state: 'the place of'"
+    },
+    {
+     "id": "12:6.6",
+     "gloss": "Shechem"
+    },
+    {
+     "id": "12:6.7",
+     "gloss": "as far as",
+     "note": "עַד of space, 'as far as'; no sense is given, as at 12:6.4"
+    },
+    {
+     "id": "12:6.8",
+     "gloss": "the terebinth of",
+     "note": "אֵלוֹן, construct state; a large tree, or in the second view of Ibn Ezra, a field or plain; the pack's entry lists no senses but gives 'terebinth'"
+    },
+    {
+     "id": "12:6.9",
+     "gloss": "Moreh",
+     "note": "מוֹרֶה: the pack gives the common noun 'teacher', but here it is the proper name of a place or man"
+    },
+    {
+     "id": "12:6.10",
+     "gloss": "and the Canaanite",
+     "note": "gentilic with the article, collective: 'the Canaanites'"
+    },
+    {
+     "id": "12:6.11",
+     "gloss": "then",
+     "note": "אָז 'at that time'; 'then' can mean 'already' or 'at that time, as distinct from later'"
+    },
+    {
+     "id": "12:6.12",
+     "gloss": "in the land",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:6.1",
+      "12:6.2",
+      "12:6.3"
+     ],
+     "english": "Abram passed through the land",
+     "literal": "'and-passed Abram in-the-land'"
+    },
+    {
+     "tokens": [
+      "12:6.4",
+      "12:6.5",
+      "12:6.6"
+     ],
+     "english": "as far as the site of Shechem",
+     "literal": "'as-far-as place-of Shechem'"
+    },
+    {
+     "tokens": [
+      "12:6.7",
+      "12:6.8",
+      "12:6.9"
+     ],
+     "english": "as far as the terebinth of Moreh",
+     "literal": "'as-far-as terebinth-of Moreh'"
+    },
+    {
+     "tokens": [
+      "12:6.10",
+      "12:6.11",
+      "12:6.12"
+     ],
+     "english": "The Canaanite was then in the land",
+     "literal": "'and-the-Canaanite then in-the-land'; a verbless clause with a circumstantial vav"
+    }
+   ],
+   "grammar": [
+    "The verb עָבַר takes the preposition בְּ here: 'pass through (the land)'. The verse gives two stopping places in a chain of constructs: מְקוֹם שְׁכֶם and אֵלוֹן מוֹרֶה, each introduced by עַד.",
+    "The first עַד carries yetiv (עַ֚ד), a disjunctive accent written before the first letter of the word. It stands in place of pashta on a word stressed on its first syllable with no conjunctive before it. The zaqef on שְׁכֶם marks a pause between the two places.",
+    "וְהַכְּנַעֲנִי אָז בָּאָרֶץ is a verbless clause with the vav of circumstance; the singular gentilic with the article is collective.",
+    "אָז 'then' is the point of the commentators' difficulty (see the note): it can mark the Canaanite's presence at that time, as distinct from later, or his recent seizure of the land (Rashi, Ibn Ezra)."
+   ],
+   "note": "Three difficulties are kept open. (1) 'The site of Shechem': Ibn Ezra says that Moses called the place by this name, since there was no Shechem in Abraham's time; Ramban holds that Shechem is the name of the city and that Shechem son of Hamor was named after it. (2) 'The terebinth of Moreh': Ibn Ezra offers 'trees' or 'a field', and says Moreh may be Mamre, the ally of Abraham, or another, the name of a place; Rashi says that Elon Moreh is Shechem. (3) 'The Canaanite was then in the land': Rashi says Canaan was then conquering it from the descendants of Shem; Ibn Ezra says Canaan may have seized it from another's hand, and if not, 'it has a secret, and the wise will keep silent'. The English leaves the clause unexplained.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:6:1",
+     "relation": "follows",
+     "summary": "Rashi on וַיַּעֲבֹר אַבְרָם בָּאָרֶץ: 'he entered into it'. The English takes עבר as passing through the land, which is what going into it and as far as Shechem comes to."
+    },
+    {
+     "anchor": "rashi:12:6:2",
+     "relation": "not-applicable",
+     "summary": "Rashi on עַד מְקוֹם שְׁכֶם: he went there to pray for Jacob's sons, when they come to fight at Shechem. A homily on later events; it does not bear on the plain sense."
+    },
+    {
+     "anchor": "rashi:12:6:3",
+     "relation": "records",
+     "summary": "Rashi on אֵלוֹן מוֹרֶה: it is Shechem; He showed him Mount Gerizim and Mount Ebal, where Israel took the oath of the Torah. The English keeps 'the site of Shechem' and 'the terebinth of Moreh' as two phrases and records the identification."
+    },
+    {
+     "anchor": "rashi:12:6:4",
+     "relation": "records",
+     "summary": "Rashi on וְהַכְּנַעֲנִי אָז בָּאָרֶץ: the Canaanite was going along conquering the land from the descendants of Shem, in whose share it fell when Noah divided the earth; therefore God said 'to your offspring I will give this land': I will return it to your sons, who are descended from Shem. The English leaves the clause as it stands."
+    },
+    {
+     "anchor": "ibn-ezra:12:6:1",
+     "relation": "records",
+     "summary": "Ibn Ezra on the whole verse: this too is the place Shechem; Moses called it so, since there was no Shechem in the days of Abraham. The English uses the name 'Shechem' as the verse gives it; the remark is recorded."
+    },
+    {
+     "anchor": "ibn-ezra:12:6:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra on אלון: like אלה, and they are trees; others say a field, like 'the terebinth of Paran' in 14:6. The English takes 'terebinth'; the alternative is recorded."
+    },
+    {
+     "anchor": "ibn-ezra:12:6:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra on מורה: some say it is Mamre, the ally of Abraham; but it may be another, and 'Elon Moreh' is the name of a place. The English reads Moreh as a name of a place."
+    },
+    {
+     "anchor": "ibn-ezra:12:6:4",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it may be that Canaan seized the land of Canaan from the hand of another (so that 'then' marks a new possession); if not, there is a secret in it, and the wise man will keep silent. The English says only that the Canaanite was then in the land."
+    },
+    {
+     "anchor": "onkelos:12:6:1",
+     "relation": "records",
+     "summary": "Onkelos renders אֵלוֹן by מֵישַׁר, 'plain', as does Radak; this is the alternative to 'terebinth' recorded in the note."
+    }
+   ],
+   "apparatus": [
+    "12:6.8 אֵלוֹן: 'terebinth' (the pack's lexicon, Ibn Ezra's first view) against 'plain' (Onkelos, Radak, Ibn Ezra's second view).",
+    "12:6.9 מוֹרֶה: place name (Rashi, Ibn Ezra) against the name of a man who owned the place (Radak, Ramban).",
+    "12:6.11 אָז: 'then' (at that time) against 'already' (Canaan had taken the land before); the English keeps 'then'."
+   ]
+  },
+  {
+   "ref": "12:7",
+   "english": "The LORD appeared to Abram and said, \"To your offspring I will give this land.\" So he built an altar there to the LORD who had appeared to him.",
+   "literal": "and-appeared the-LORD to-Abram and-said to-seed-of-you I-will-give acc. the-land the-this and-built there altar to-the-LORD the-one-appearing to-him",
+   "tokens": [
+    {
+     "id": "12:7.1",
+     "gloss": "and appeared",
+     "sense": "Niph 1",
+     "note": "Niphal wayyiqtol of ראה, 'appeared'. The Niphal's nun is assimilated and should double the resh; resh cannot take a dagesh, so the tsere under the yod makes up for it (Ibn Ezra). The dagesh in the yod is the wayyiqtol's. The final ה of the root is dropped in the short form."
+    },
+    {
+     "id": "12:7.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "12:7.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "12:7.4",
+     "gloss": "Abram"
+    },
+    {
+     "id": "12:7.5",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol of אמר, introducing the quoted promise"
+    },
+    {
+     "id": "12:7.6",
+     "gloss": "to your offspring",
+     "sense": "4",
+     "note": "זֶרַע, 'seed', is a collective singular: descendants; the phrase is fronted before the verb for emphasis"
+    },
+    {
+     "id": "12:7.7",
+     "gloss": "I will give",
+     "sense": "Qal 1",
+     "note": "imperfect, 1st person singular, of נתן; a promise for the future"
+    },
+    {
+     "id": "12:7.8",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "12:7.9",
+     "gloss": "the land",
+     "sense": "2"
+    },
+    {
+     "id": "12:7.10",
+     "gloss": "this",
+     "note": "הַזֹּאת, the demonstrative pronoun, feminine, with the article"
+    },
+    {
+     "id": "12:7.11",
+     "gloss": "and built",
+     "sense": "Qal",
+     "note": "wayyiqtol of בנה; the final ה is dropped in the shortened wayyiqtol"
+    },
+    {
+     "id": "12:7.12",
+     "gloss": "there"
+    },
+    {
+     "id": "12:7.13",
+     "gloss": "an altar"
+    },
+    {
+     "id": "12:7.14",
+     "gloss": "to the LORD"
+    },
+    {
+     "id": "12:7.15",
+     "gloss": "who had appeared",
+     "sense": "Niph 1",
+     "note": "Niphal participle with the article, used as a relative clause 'the one who appeared'; Ibn Ezra compares 'what was being made' (Neh. 5:18)"
+    },
+    {
+     "id": "12:7.16",
+     "gloss": "to him",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:7.1",
+      "12:7.2",
+      "12:7.3",
+      "12:7.4"
+     ],
+     "english": "The LORD appeared to Abram",
+     "literal": "'and-appeared the-LORD to-Abram'; the Niphal rendered 'appeared'"
+    },
+    {
+     "tokens": [
+      "12:7.5"
+     ],
+     "english": "and said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "12:7.6",
+      "12:7.7",
+      "12:7.8",
+      "12:7.9",
+      "12:7.10"
+     ],
+     "english": "To your offspring I will give this land",
+     "literal": "'to-seed-of-you I-will-give (acc.) the-land the-this'; the recipient is put first for emphasis"
+    },
+    {
+     "tokens": [
+      "12:7.11",
+      "12:7.12",
+      "12:7.13"
+     ],
+     "english": "So he built an altar there",
+     "literal": "'and-built there altar'; the vav is rendered 'so' because the building answers the promise"
+    },
+    {
+     "tokens": [
+      "12:7.14",
+      "12:7.15",
+      "12:7.16"
+     ],
+     "english": "to the LORD who had appeared to him",
+     "literal": "'to-the-LORD the-one-appearing to-him'"
+    }
+   ],
+   "grammar": [
+    "וַיֵּרָא is the Niphal wayyiqtol of ראה, 'appeared'. The Niphal's nun is assimilated and should double the resh; resh cannot be doubled, so the yod takes tsere instead (Ibn Ezra). The final ה of the root falls away in the short form.",
+    "In לְזַרְעֲךָ אֶתֵּן the recipient stands before the verb. Radak's point is the contrast: the land goes to your offspring, not yet to you.",
+    "הַנִּרְאֶה is a Niphal participle with the article, used as a relative clause: 'who appeared'.",
+    "The accents: the zaqef gadol on וַיֹּאמֶר, the etnaḥta on הַזֹּאת. The words of the promise stand between them."
+   ],
+   "note": "'Appeared' is Ibn Ezra's reading of the Niphal, 'by way of prophecy'. Ramban holds that this is the first appearance: before it Abram had been told 'go' in a dream or by the holy spirit. The 'offspring' is given as a collective singular.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:7:1",
+     "relation": "follows",
+     "summary": "Rashi on וַיִּבֶן שָׁם מִזְבֵּחַ: for the good news of the offspring and for the good news of the land of Israel. The English joins the building to the promise with 'So'."
+    },
+    {
+     "anchor": "ibn-ezra:12:7:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra on וַיֵּרָא: by way of prophecy. The word is of the Niphal pattern, and the hidden quiescent between the yod and the resh (the long vowel of the yod) stands in place of the dagesh that should be in the resh, where the Niphal's nun is swallowed. The English has 'appeared'."
+    },
+    {
+     "anchor": "ibn-ezra:12:7:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra on הַנִּרְאֶה אֵלָיו: it is an adjectival participle of the same pattern, like 'what was done' in Neh. 5:18. The English renders it as a relative clause."
+    },
+    {
+     "anchor": "ramban:12:7:2",
+     "relation": "records",
+     "summary": "Ramban: he gave thanks to the Name and sacrificed a thank offering because He had appeared to him, since until now He had not appeared to him in a vision; 'go' had come in a dream or by the holy spirit. A comment on what the phrase implies, recorded here."
+    },
+    {
+     "anchor": "radak:12:7:2",
+     "relation": "follows",
+     "summary": "Radak: although I took you out of your birthplace to settle you in this land, I did not say that I would give it to you now; to your offspring, who will be many, I will give it."
+    },
+    {
+     "anchor": "onkelos:12:7:1",
+     "relation": "not-applicable",
+     "summary": "Onkelos translates the Niphal by the passive 'was revealed' (וְאִתְגְּלִי) and renders 'offspring' by 'son' (לִבְנָךְ)."
+    }
+   ],
+   "apparatus": [
+    "12:7.14 vowels: WLC reads לַיהוָה, the base text לַיהֹוָה; the English is 'the LORD' in both."
+   ]
+  },
+  {
+   "ref": "12:8",
+   "english": "He moved his tent from there to the mountain east of Bethel and pitched it, with Bethel on the west and Ai on the east. There he built an altar to the LORD and called on the name of the LORD.",
+   "literal": "and-moved from-there the-mountain-ward from-east to-Bethel and-pitched tent-of-him (written: tent-of-her) Bethel from-sea and-the-Ai from-east and-built there altar to-the-LORD and-called in-name-of the-LORD",
+   "tokens": [
+    {
+     "id": "12:8.1",
+     "gloss": "and moved",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol of עתק, a transitive verb: 'he caused (his tent) to move'. Ibn Ezra explains that the object is supplied from אָהֳלֹה."
+    },
+    {
+     "id": "12:8.2",
+     "gloss": "from there",
+     "note": "מִ + שָּׁם: 'from there'"
+    },
+    {
+     "id": "12:8.3",
+     "gloss": "to the mountain",
+     "sense": "1",
+     "note": "הָהָרָה: article + noun + directional he: 'to the mountain'"
+    },
+    {
+     "id": "12:8.4",
+     "gloss": "east of",
+     "sense": "1.b",
+     "note": "מִקֶּדֶם: 'from the east', 'on the east side of'"
+    },
+    {
+     "id": "12:8.5",
+     "gloss": "Bethel",
+     "note": "'to Bethel': the ל marks the direction in relation to the town"
+    },
+    {
+     "id": "12:8.6",
+     "gloss": "(second part of the name)",
+     "note": "אֵל, the second half of the name בֵּית־אֵל, joined by maqqef"
+    },
+    {
+     "id": "12:8.7",
+     "gloss": "and pitched",
+     "sense": "Qal 2",
+     "note": "wayyiqtol of נטה, shortened form of the weak root"
+    },
+    {
+     "id": "12:8.8",
+     "gloss": "his tent",
+     "sense": "1",
+     "note": "written אָהֳלֹה with a final he in place of the usual vav (a kethib read as the ordinary suffix). Rashi, from Bereshit Rabbah: 'her tent': he pitched his wife's tent first, then his own. Radak: the he is for the vav."
+    },
+    {
+     "id": "12:8.9",
+     "gloss": "Bethel"
+    },
+    {
+     "id": "12:8.10",
+     "gloss": "(second part of the name)"
+    },
+    {
+     "id": "12:8.11",
+     "gloss": "on the west",
+     "note": "מִיָּם: 'from the sea', the sea being the Mediterranean, which lies to the west of the land (Ibn Ezra)"
+    },
+    {
+     "id": "12:8.12",
+     "gloss": "and Ai"
+    },
+    {
+     "id": "12:8.13",
+     "gloss": "on the east",
+     "sense": "1.b"
+    },
+    {
+     "id": "12:8.14",
+     "gloss": "and built",
+     "sense": "Qal"
+    },
+    {
+     "id": "12:8.15",
+     "gloss": "there"
+    },
+    {
+     "id": "12:8.16",
+     "gloss": "an altar"
+    },
+    {
+     "id": "12:8.17",
+     "gloss": "to the LORD"
+    },
+    {
+     "id": "12:8.18",
+     "gloss": "and called",
+     "sense": "Qal 3",
+     "note": "wayyiqtol of קרא; with בְּשֵׁם 'call on the name', an idiom of invocation or proclamation"
+    },
+    {
+     "id": "12:8.19",
+     "gloss": "on the name of",
+     "sense": "3",
+     "note": "construct state of שֵׁם"
+    },
+    {
+     "id": "12:8.20",
+     "gloss": "the LORD"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "12:8.1",
+      "12:8.2"
+     ],
+     "english": "He moved his tent from there",
+     "literal": "'and-moved from-there'; the object 'tent' is supplied from the later word, as Rashi and Ibn Ezra say"
+    },
+    {
+     "tokens": [
+      "12:8.3"
+     ],
+     "english": "to the mountain",
+     "literal": "'the-mountain-ward'; the directional he"
+    },
+    {
+     "tokens": [
+      "12:8.4",
+      "12:8.5",
+      "12:8.6"
+     ],
+     "english": "east of Bethel",
+     "literal": "'from-east to-Bethel'"
+    },
+    {
+     "tokens": [
+      "12:8.7",
+      "12:8.8"
+     ],
+     "english": "and pitched it",
+     "literal": "'and-pitched tent-of-him'; the English uses 'it' because 'his tent' has already been named"
+    },
+    {
+     "tokens": [
+      "12:8.9",
+      "12:8.10",
+      "12:8.11"
+     ],
+     "english": "with Bethel on the west",
+     "literal": "'Bethel from-sea'; 'sea' is the west"
+    },
+    {
+     "tokens": [
+      "12:8.12",
+      "12:8.13"
+     ],
+     "english": "and Ai on the east",
+     "literal": "'and-the-Ai from-east'"
+    },
+    {
+     "tokens": [
+      "12:8.14",
+      "12:8.15",
+      "12:8.16",
+      "12:8.17"
+     ],
+     "english": "There he built an altar to the LORD",
+     "literal": "'and-built there altar to-the-LORD'"
+    },
+    {
+     "tokens": [
+      "12:8.18",
+      "12:8.19",
+      "12:8.20"
+     ],
+     "english": "and called on the name of the LORD",
+     "literal": "'and-called in-name-of the-LORD'; an invocation or a proclamation, see the note"
+    }
+   ],
+   "grammar": [
+    "וַיַּעְתֵּק is Hifil, which makes the verb transitive: 'he caused (his tent) to move'. Ibn Ezra contrasts it with the intransitive Qal in Job 18:4.",
+    "אָהֳלֹה is written with a final he where the usual form has vav (אָהֳלוֹ); the form is the same in meaning; Rashi reads 'her tent', as a hint in the spelling.",
+    "מִקֶּדֶם and מִיָּם are directions given from the point of view of the land: 'east' (front) and 'sea' (the Mediterranean, to the west).",
+    "וַיִּקְרָא בְּשֵׁם יְהֹוָה is a fixed idiom: 'he called on the name of the LORD'. It can be a prayer (Onkelos), a proclamation to people (Ibn Ezra, Radak, Ramban), or both.",
+    "The accents: the etnaḥta on אָהֳלֹה closes the moving and the pitching of the tent. The second half gives the position of the camp (Bethel on the west, Ai on the east, up to the zaqef on מִקֶּדֶם) and then the altar and the calling."
+   ],
+   "note": "The English supplies 'his tent' as the object of the Hifil (Rashi and Ibn Ezra), and repeats it as 'it' at the next verb. Ibn Ezra gives 'called on the name' two readings, prayer or calling people to the service of God; the English keeps the idiom without choosing. The detail 'with Bethel on the west and Ai on the east' is read as the positions of the camp, with the sea as the west.",
+   "commentary": [
+    {
+     "anchor": "rashi:12:8:1",
+     "relation": "follows",
+     "summary": "Rashi on וַיַּעְתֵּק מִשָּׁם: 'his tent' (אָהֳלוֹ). The English supplies the object."
+    },
+    {
+     "anchor": "rashi:12:8:2",
+     "relation": "follows",
+     "summary": "Rashi on מִקֶּדֶם לְבֵית אֵל: east of Bethel; so Bethel is to the west, as the text says 'Bethel from the sea'."
+    },
+    {
+     "anchor": "rashi:12:8:3",
+     "relation": "records",
+     "summary": "Rashi: אָהֳלֹה is written (with a he): at first he pitched the tent of his wife, then his own (Bereshit Rabbah). The English reads the ordinary 'his tent' and records the spelling's reading."
+    },
+    {
+     "anchor": "rashi:12:8:4",
+     "relation": "not-applicable",
+     "summary": "Rashi on 'and built there an altar': he prophesied that his sons would stumble there over the sin of Achan, and he prayed for them. A homily; it does not bear on the plain sense."
+    },
+    {
+     "anchor": "ibn-ezra:12:8:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra on וַיַּעְתֵּק: it is from the Hifil and transitive, for 'the rock moved from its place' (Job 18:4) is intransitive. Its object is אָהֳלֹה, which is also the object of וַיֵּט, and 'moved' means 'set out, travelled'. In וַיֵּט the hidden quiescent after the yod stands in place of the nun, the first root letter, as in וְיֵז נִצְחָם (Isa. 63:3); both verbs are transitive."
+    },
+    {
+     "anchor": "ibn-ezra:12:8:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra on מִיָּם: 'from the west', because the Mediterranean ('the Spanish sea', not the ocean) lies to the west of the land; he travelled from the east of Bethel westward until Ai was east of his camp. The English says 'on the west'."
+    },
+    {
+     "anchor": "ibn-ezra:12:8:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'called on the name of the LORD' means prayer, or calling people to serve God. The English keeps the idiom, which allows both."
+    },
+    {
+     "anchor": "radak:12:8:4",
+     "relation": "follows",
+     "summary": "Radak: Bethel was west of the mountain and Ai east of it; on the mountain he pitched his tent, built the altar and called on the name; 'called' means that he called the dwellers of that mountain to the altar and taught them to serve the one God."
+    },
+    {
+     "anchor": "ramban:12:8:1",
+     "relation": "follows",
+     "summary": "Ramban: Onkelos says he prayed there, but the right reading is that he called in a loud voice before the altar the name of the LORD, making Him known to people."
+    },
+    {
+     "anchor": "onkelos:12:8:1",
+     "relation": "records",
+     "summary": "Onkelos: וְצַלִּי בִּשְׁמָא דַיְיָ, 'and he prayed in the name of the LORD': the prayer reading of the idiom."
+    }
+   ],
+   "apparatus": [
+    "12:8.8 אָהֳלֹה: the WLC note records that the base text differs from BHS in its ketib/qere; the English takes the ordinary 'his tent'.",
+    "12:8.17 vowels: WLC reads לַֽיהוָה, the base text לַֽיהֹוָה; the English is 'the LORD' in both.",
+    "12:8.18 וַיִּקְרָא בְּשֵׁם: prayer (Onkelos) against proclamation to people (Ramban, Radak, Ibn Ezra)."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1164 @@
+{
+ "unit": "noach-04",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "7:7",
+   "english": "Noah went into the ark, and his sons and his wife and his sons' wives with him, because of the waters of the flood.",
+   "literal": "and-came Noah and-sons-his and-wife-his and-wives-of sons-his with-him to the-ark from-before waters-of the-flood",
+   "tokens": [
+    {
+     "id": "7:7.1",
+     "gloss": "and came",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, singular although the subject is compound"
+    },
+    {
+     "id": "7:7.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "7:7.3",
+     "gloss": "and his sons",
+     "sense": "1"
+    },
+    {
+     "id": "7:7.4",
+     "gloss": "and his wife",
+     "sense": "2"
+    },
+    {
+     "id": "7:7.5",
+     "gloss": "and the wives of",
+     "sense": "2",
+     "note": "construct"
+    },
+    {
+     "id": "7:7.6",
+     "gloss": "his sons",
+     "sense": "1"
+    },
+    {
+     "id": "7:7.7",
+     "gloss": "with him",
+     "sense": "1"
+    },
+    {
+     "id": "7:7.8",
+     "gloss": "into",
+     "sense": "2"
+    },
+    {
+     "id": "7:7.9",
+     "gloss": "the ark"
+    },
+    {
+     "id": "7:7.10",
+     "gloss": "because of",
+     "sense": "I.6",
+     "note": "idiom: 'from before' = on account of"
+    },
+    {
+     "id": "7:7.11",
+     "gloss": "the waters of",
+     "note": "construct, plural-only noun"
+    },
+    {
+     "id": "7:7.12",
+     "gloss": "the flood"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:7.1",
+      "7:7.2"
+     ],
+     "english": "Noah went",
+     "literal": "'and-came Noah'"
+    },
+    {
+     "tokens": [
+      "7:7.3",
+      "7:7.4",
+      "7:7.5",
+      "7:7.6",
+      "7:7.7"
+     ],
+     "english": "and his sons and his wife and his sons' wives with him",
+     "literal": "the family, men and women listed separately"
+    },
+    {
+     "tokens": [
+      "7:7.8",
+      "7:7.9"
+     ],
+     "english": "into the ark",
+     "literal": "'to the-ark'"
+    },
+    {
+     "tokens": [
+      "7:7.10",
+      "7:7.11",
+      "7:7.12"
+     ],
+     "english": "because of the waters of the flood",
+     "literal": "'from-before waters-of the-flood'"
+    }
+   ],
+   "grammar": [
+    "The verb וַיָּבֹא is singular and agrees with the first subject, Noah; the rest of the party follows in a list.",
+    "The telisha gedola on בָנָיו and the darga/tevir pair keep the men (sons) apart from the women (wife, sons' wives), in the order of the list.",
+    "מִפְּנֵי is literally 'from before' and means 'on account of'; the etnaḥta after הַתֵּבָה divides the verse before this clause."
+   ],
+   "note": "Rashi reads the separate listing of men and women as a sign of marital abstinence; that bears on the order of the list, not on the English words. 'Because of' follows both Rashi (waters pressed him) and Ibn Ezra (fear of the flood) in taking the clause as the reason for entering.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:7:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the men are named apart from the women because they were forbidden marital relations while the world was in distress; a homiletic point about the word order."
+    },
+    {
+     "anchor": "rashi:7:7:2",
+     "relation": "records",
+     "summary": "Rashi: Noah was of little faith, believing and not believing the flood would come, and entered only when the water forced him. The English says only 'because of the waters', which fits this reading but does not state it."
+    },
+    {
+     "anchor": "ibn-ezra:7:7:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: מפני means 'for fear of' the flood waters (מפני פחד מי המבול). In those seven days many of the clean beasts came of their own accord, and likewise of the clean birds, and of the others, and every creeping thing; they came male and female."
+    }
+   ]
+  },
+  {
+   "ref": "7:8",
+   "english": "Of the clean animals, and of the animals that are not clean, and of the birds, and of everything that creeps on the ground,",
+   "literal": "from-the-animal the-clean and-from-the-animal which not-it clean and-from-the-bird and-all which creeping on the-ground",
+   "tokens": [
+    {
+     "id": "7:8.1",
+     "gloss": "from",
+     "sense": "1.a",
+     "note": "partitive 'of'"
+    },
+    {
+     "id": "7:8.2",
+     "gloss": "the animals",
+     "sense": "3",
+     "note": "BDB lists only 'wild beasts' for this lemma; here the general sense 'land animals, livestock'"
+    },
+    {
+     "id": "7:8.3",
+     "gloss": "clean"
+    },
+    {
+     "id": "7:8.4",
+     "gloss": "and from",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:8.5",
+     "gloss": "the animals",
+     "sense": "3"
+    },
+    {
+     "id": "7:8.6",
+     "gloss": "which"
+    },
+    {
+     "id": "7:8.7",
+     "gloss": "is not",
+     "sense": "2",
+     "note": "אֵינֶנָּה: negative אַיִן with a feminine suffix, 'it is not'"
+    },
+    {
+     "id": "7:8.8",
+     "gloss": "clean"
+    },
+    {
+     "id": "7:8.9",
+     "gloss": "and from",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:8.10",
+     "gloss": "the birds",
+     "sense": "1"
+    },
+    {
+     "id": "7:8.11",
+     "gloss": "and all",
+     "sense": "1"
+    },
+    {
+     "id": "7:8.12",
+     "gloss": "that"
+    },
+    {
+     "id": "7:8.13",
+     "gloss": "creeps",
+     "note": "qal active participle"
+    },
+    {
+     "id": "7:8.14",
+     "gloss": "on",
+     "sense": "II.1"
+    },
+    {
+     "id": "7:8.15",
+     "gloss": "the ground",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:8.1",
+      "7:8.2",
+      "7:8.3"
+     ],
+     "english": "Of the clean animals",
+     "literal": "'from-the-animal the-clean'"
+    },
+    {
+     "tokens": [
+      "7:8.4",
+      "7:8.5",
+      "7:8.6",
+      "7:8.7",
+      "7:8.8"
+     ],
+     "english": "and of the animals that are not clean",
+     "literal": "'and-from-the-animal which not-it clean'"
+    },
+    {
+     "tokens": [
+      "7:8.9",
+      "7:8.10"
+     ],
+     "english": "and of the birds",
+     "literal": "'and-from the-bird'"
+    },
+    {
+     "tokens": [
+      "7:8.11",
+      "7:8.12",
+      "7:8.13",
+      "7:8.14",
+      "7:8.15"
+     ],
+     "english": "and of everything that creeps on the ground",
+     "literal": "'and-all which creeping on the-ground'"
+    }
+   ],
+   "grammar": [
+    "The verse continues the list begun in 7:7 and has no verb of its own; the main verb is בָּאוּ in 7:9.",
+    "Each of the three מִן phrases is partitive: representatives 'of' each class entered. The fourth item, וְכֹל אֲשֶׁר רֹמֵשׂ, has no מִן; the English carries the 'of' over from the series.",
+    "אֵינֶנָּה is the negative particle אַיִן with a feminine singular suffix, agreeing with בְּהֵמָה.",
+    "The etnaḥta on טְהֹרָה divides the beasts, clean and unclean, from the birds and the creeping things. Zaqef qaton on הַטְּהוֹרָה, הַבְּהֵמָה and הָעוֹף marks the lesser breaks, and the second and third וּמִן carry a conjunctive qadma."
+   ],
+   "note": "The verse is a fragment of one sentence with 7:9, so the English ends with a comma. The clean/unclean distinction is already known in the narrative at 7:2.",
+   "commentary": [
+    {
+     "anchor": "ramban:7:8:2",
+     "relation": "records",
+     "summary": "Ramban: two of each came of their own accord; Noah took on himself to add the further clean animals for sacrifice. Rashi's and Radak's readings of 'two by two' are cited there."
+    },
+    {
+     "anchor": "radak:7:8:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the verse is clear."
+    }
+   ]
+  },
+  {
+   "ref": "7:9",
+   "english": "two by two they came to Noah into the ark, male and female, as God had commanded Noah.",
+   "literal": "two two came to Noah to the-ark male and-female as commanded God ACC Noah",
+   "tokens": [
+    {
+     "id": "7:9.1",
+     "gloss": "two"
+    },
+    {
+     "id": "7:9.2",
+     "gloss": "two",
+     "note": "repetition gives the distributive sense 'two by two'"
+    },
+    {
+     "id": "7:9.3",
+     "gloss": "came",
+     "sense": "Qal 2",
+     "note": "qatal, plural"
+    },
+    {
+     "id": "7:9.4",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "7:9.5",
+     "gloss": "Noah"
+    },
+    {
+     "id": "7:9.6",
+     "gloss": "into",
+     "sense": "2"
+    },
+    {
+     "id": "7:9.7",
+     "gloss": "the ark"
+    },
+    {
+     "id": "7:9.8",
+     "gloss": "male",
+     "sense": "I"
+    },
+    {
+     "id": "7:9.9",
+     "gloss": "and female"
+    },
+    {
+     "id": "7:9.10",
+     "gloss": "as",
+     "sense": "1"
+    },
+    {
+     "id": "7:9.11",
+     "gloss": "commanded",
+     "note": "Piel"
+    },
+    {
+     "id": "7:9.12",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "7:9.13",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "7:9.14",
+     "gloss": "Noah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:9.1",
+      "7:9.2"
+     ],
+     "english": "Two by two",
+     "literal": "'two two'; repetition = distribution"
+    },
+    {
+     "tokens": [
+      "7:9.3"
+     ],
+     "english": "they came",
+     "literal": "qatal plural"
+    },
+    {
+     "tokens": [
+      "7:9.4",
+      "7:9.5"
+     ],
+     "english": "to Noah",
+     "literal": "'to Noah'"
+    },
+    {
+     "tokens": [
+      "7:9.6",
+      "7:9.7"
+     ],
+     "english": "into the ark",
+     "literal": "'to the-ark'"
+    },
+    {
+     "tokens": [
+      "7:9.8",
+      "7:9.9"
+     ],
+     "english": "male and female",
+     "literal": "'male and-female'"
+    },
+    {
+     "tokens": [
+      "7:9.10",
+      "7:9.11",
+      "7:9.12"
+     ],
+     "english": "as God had commanded",
+     "literal": "'as commanded God'"
+    },
+    {
+     "tokens": [
+      "7:9.13"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "7:9.14"
+     ],
+     "english": "Noah",
+     "literal": "Noah"
+    }
+   ],
+   "grammar": [
+    "Doubling a word (שְׁנַיִם שְׁנַיִם) expresses distribution: 'two by two'.",
+    "The verb בָּאוּ is a qatal; it brings the list of 7:8 to its main verb.",
+    "זָכָר וּנְקֵבָה stand in apposition, 'male and female', explaining the pair.",
+    "צִוָּה is Piel; the qatal after כַּאֲשֶׁר is rendered as a pluperfect."
+   ],
+   "note": "The verse completes the sentence begun in 7:8, whose list names those who came, so the English runs on from 7:8; 'came to Noah' is literal; Rashi and Radak both say the animals came of their own accord.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:9:1",
+     "relation": "follows",
+     "summary": "Rashi: all were made equal in this number; the minimum for each kind was two."
+    },
+    {
+     "anchor": "rashi:7:9:2",
+     "relation": "follows",
+     "summary": "Rashi: באו אל נח means 'of their own accord' (מאליהן); the English keeps 'came to Noah' and the note records the reading."
+    },
+    {
+     "anchor": "radak:7:9:1",
+     "relation": "follows",
+     "summary": "Radak: שנים שנים are pairs, and a pair is male and female."
+    },
+    {
+     "anchor": "radak:7:9:2",
+     "relation": "follows",
+     "summary": "Radak: they came to Noah of themselves, and he admitted them as God commanded."
+    }
+   ]
+  },
+  {
+   "ref": "7:10",
+   "english": "And when the seven days were over, the waters of the flood were on the earth.",
+   "literal": "and-it-was at-seven-of the-days and-waters-of the-flood were on the-earth",
+   "tokens": [
+    {
+     "id": "7:10.1",
+     "gloss": "and it was",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol of הָיָה, introducing a time"
+    },
+    {
+     "id": "7:10.2",
+     "gloss": "at the end of the seven"
+    },
+    {
+     "id": "7:10.3",
+     "gloss": "days",
+     "sense": "4"
+    },
+    {
+     "id": "7:10.4",
+     "gloss": "and the waters of"
+    },
+    {
+     "id": "7:10.5",
+     "gloss": "the flood"
+    },
+    {
+     "id": "7:10.6",
+     "gloss": "were",
+     "sense": "Qal III.3"
+    },
+    {
+     "id": "7:10.7",
+     "gloss": "on",
+     "sense": "II.1"
+    },
+    {
+     "id": "7:10.8",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:10.1",
+      "7:10.2",
+      "7:10.3"
+     ],
+     "english": "And when the seven days were over",
+     "literal": "'and-it-was at-seven-of the-days'; Radak: at the end of the seven"
+    },
+    {
+     "tokens": [
+      "7:10.4",
+      "7:10.5"
+     ],
+     "english": "the waters of the flood",
+     "literal": "'waters-of the-flood'"
+    },
+    {
+     "tokens": [
+      "7:10.6",
+      "7:10.7",
+      "7:10.8"
+     ],
+     "english": "were on the earth",
+     "literal": "'were on the-earth'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי with a time phrase introduces a new moment in the narrative: 'and it came to be at ...'.",
+    "לְשִׁבְעַת הַיָּמִים is literally 'at the seven of the days', the seven days announced in 7:4.",
+    "The subject מֵי הַמַּבּוּל is grammatically plural and takes a plural verb הָיוּ."
+   ],
+   "note": "Radak takes ל as 'at the end of' the seven days of grace given in 7:4; the English follows that.",
+   "commentary": [
+    {
+     "anchor": "radak:7:10:1",
+     "relation": "follows",
+     "summary": "Radak: at the end of the seven days God allowed, 'for in seven days more' (7:4)."
+    }
+   ]
+  },
+  {
+   "ref": "7:11",
+   "english": "In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on that day all the springs of the great deep burst open, and the windows of the sky were opened.",
+   "literal": "in-year-of six hundreds year of-life-of Noah in-the-month the-second in-seventeen day to-the-month in-the-day the-this were-split all springs-of deep great and-windows-of the-heavens were-opened",
+   "tokens": [
+    {
+     "id": "7:11.1",
+     "gloss": "in the year of",
+     "note": "construct"
+    },
+    {
+     "id": "7:11.2",
+     "gloss": "six"
+    },
+    {
+     "id": "7:11.3",
+     "gloss": "hundred",
+     "sense": "3"
+    },
+    {
+     "id": "7:11.4",
+     "gloss": "year",
+     "note": "the noun שָׁנָה follows the number, as in dates"
+    },
+    {
+     "id": "7:11.5",
+     "gloss": "of the life of",
+     "sense": "1",
+     "note": "'to the life of' = of Noah's lifetime"
+    },
+    {
+     "id": "7:11.6",
+     "gloss": "Noah"
+    },
+    {
+     "id": "7:11.7",
+     "gloss": "in the month"
+    },
+    {
+     "id": "7:11.8",
+     "gloss": "the second"
+    },
+    {
+     "id": "7:11.9",
+     "gloss": "on the seventeenth",
+     "note": "'in seventeen'"
+    },
+    {
+     "id": "7:11.10",
+     "gloss": "(ten)"
+    },
+    {
+     "id": "7:11.11",
+     "gloss": "day",
+     "sense": "1"
+    },
+    {
+     "id": "7:11.12",
+     "gloss": "of the month"
+    },
+    {
+     "id": "7:11.13",
+     "gloss": "on the day",
+     "sense": "1"
+    },
+    {
+     "id": "7:11.14",
+     "gloss": "this"
+    },
+    {
+     "id": "7:11.15",
+     "gloss": "burst open",
+     "sense": "Niph 1",
+     "note": "Niphal: 'were split'"
+    },
+    {
+     "id": "7:11.16",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "7:11.17",
+     "gloss": "springs of"
+    },
+    {
+     "id": "7:11.18",
+     "gloss": "deep",
+     "sense": "3"
+    },
+    {
+     "id": "7:11.19",
+     "gloss": "great",
+     "sense": "2"
+    },
+    {
+     "id": "7:11.20",
+     "gloss": "and the windows of"
+    },
+    {
+     "id": "7:11.21",
+     "gloss": "the sky",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:11.22",
+     "gloss": "were opened",
+     "sense": "Niph"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:11.1",
+      "7:11.2",
+      "7:11.3",
+      "7:11.4",
+      "7:11.5",
+      "7:11.6"
+     ],
+     "english": "In the six hundredth year of Noah's life",
+     "literal": "'in-year-of six hundreds year to-life-of Noah'"
+    },
+    {
+     "tokens": [
+      "7:11.7",
+      "7:11.8"
+     ],
+     "english": "in the second month",
+     "literal": "'in-the-month the-second'"
+    },
+    {
+     "tokens": [
+      "7:11.9",
+      "7:11.10",
+      "7:11.11",
+      "7:11.12"
+     ],
+     "english": "on the seventeenth day of the month",
+     "literal": "'in-seventeen day to-the-month'"
+    },
+    {
+     "tokens": [
+      "7:11.13",
+      "7:11.14"
+     ],
+     "english": "on that day",
+     "literal": "'in-the-day the-this'; not בְּעֶצֶם 'the very' as in 7:13"
+    },
+    {
+     "tokens": [
+      "7:11.15",
+      "7:11.16",
+      "7:11.17",
+      "7:11.18",
+      "7:11.19"
+     ],
+     "english": "all the springs of the great deep burst open",
+     "literal": "'were-split all springs-of deep great'"
+    },
+    {
+     "tokens": [
+      "7:11.20",
+      "7:11.21",
+      "7:11.22"
+     ],
+     "english": "and the windows of the sky were opened",
+     "literal": "'and-windows-of the-heavens were-opened'"
+    }
+   ],
+   "grammar": [
+    "The date is a series of ב phrases: year, month, day of the month, with the time clause leading to the main verbs נִבְקְעוּ and נִפְתָּחוּ.",
+    "Both verbs are Niphal qatal, plural, passive: 'were split', 'were opened'.",
+    "מַעְיְנֹת תְּהוֹם רַבָּה: the springs of the great deep; תְּהוֹם is also found with the feminine adjective here, and Ibn Ezra notes it is both masculine and feminine.",
+    "The symmetry of the verse sets the springs of the earth below against the windows of the sky above."
+   ],
+   "note": "'The great deep' keeps תְּהוֹם רַבָּה; Rashi's note sees measure for measure in רַבָּה. Of the two second-month readings in Rashi, the English says only 'second month'; the commentators' disagreement over which month that is does not affect the English words.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:11:1",
+     "relation": "records",
+     "summary": "Rashi: R. Eliezer says the second month is Marheshvan; R. Joshua says it is Iyyar. The English says only 'the second month'."
+    },
+    {
+     "anchor": "rashi:7:11:2",
+     "relation": "follows",
+     "summary": "Rashi: נבקעו means that they were split open to let out their waters."
+    },
+    {
+     "anchor": "rashi:7:11:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: measure for measure, they sinned with 'great' (רבה) wickedness of man and were punished by a 'great' deep. The English keeps 'great'."
+    },
+    {
+     "anchor": "ibn-ezra:7:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: מַעְיְנֹת here is in the construct state (סמוך), bound to תהום; in 'when there were no springs' (באין מעינות, Prov 8:24) the same word stands alone (מוכרת). A point of form: 'springs of the great deep'."
+    },
+    {
+     "anchor": "ibn-ezra:7:11:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: תהום is both masculine and feminine, as in 'the deep raised it up' (תהום רוממתהו, Ezek 31:4). The text does not mention rivers, since they come from the springs. When the springs split the waters rose; the windows of the storehouses in heaven opened and the waters came down, and the earth was thrown into confusion, with no telling day from night, as 'day and night shall not cease' (8:22) shows. When the rain stopped Noah knew that forty days and forty nights had passed, because God revealed it to him."
+    },
+    {
+     "anchor": "ibn-ezra:7:11:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: ארבות is as in 'behold, the LORD makes windows' (2 Kings 7:2); 'storehouse' and 'window' are said in human terms. Some take the aleph as a root letter, like כבודות; others as added, like the aleph of אגורת (1 Sam 2:36), from a doubled root. On the seventeenth, when the flood began, Noah and his household entered the ark and brought in the animals and birds; צפור is a general term for whatever has a wing, and the wonder is that all came of themselves, two by two."
+    }
+   ],
+   "apparatus": [
+    "Rashi's R. Eliezer and R. Joshua differ over the month; Radak reports the same dispute."
+   ]
+  },
+  {
+   "ref": "7:12",
+   "english": "And the rain fell on the earth forty days and forty nights.",
+   "literal": "and-was the-rain on the-earth forty day and-forty night",
+   "tokens": [
+    {
+     "id": "7:12.1",
+     "gloss": "and it was",
+     "sense": "Qal I.1.b",
+     "note": "wayyiqtol of הָיָה; here 'fell'"
+    },
+    {
+     "id": "7:12.2",
+     "gloss": "the rain"
+    },
+    {
+     "id": "7:12.3",
+     "gloss": "on",
+     "sense": "II.1"
+    },
+    {
+     "id": "7:12.4",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:12.5",
+     "gloss": "forty"
+    },
+    {
+     "id": "7:12.6",
+     "gloss": "days",
+     "sense": "1"
+    },
+    {
+     "id": "7:12.7",
+     "gloss": "and forty"
+    },
+    {
+     "id": "7:12.8",
+     "gloss": "nights"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:12.1",
+      "7:12.2"
+     ],
+     "english": "And the rain fell",
+     "literal": "'and-was the-rain'"
+    },
+    {
+     "tokens": [
+      "7:12.3",
+      "7:12.4"
+     ],
+     "english": "on the earth",
+     "literal": "'on the-earth'"
+    },
+    {
+     "tokens": [
+      "7:12.5",
+      "7:12.6"
+     ],
+     "english": "forty days",
+     "literal": "'forty day'"
+    },
+    {
+     "tokens": [
+      "7:12.7",
+      "7:12.8"
+     ],
+     "english": "and forty nights",
+     "literal": "'and-forty night'"
+    }
+   ],
+   "grammar": [
+    "הַגֶּשֶׁם is ordinary rain, not מַבּוּל; the narrative changes terms at 7:17.",
+    "The number precedes the noun and the noun is singular: אַרְבָּעִים יוֹם, 'forty days'.",
+    "The zaqef qaton after יוֹם divides the two measures of time."
+   ],
+   "note": "Rashi: the text says גֶּשֶׁם here and מַבּוּל afterwards because the rain began as a rain of mercy; the English keeps the distinction in 'rain'. Rashi's count of the forty days (the first day, not counted) bears on the date and not on the words.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:12:1",
+     "relation": "follows",
+     "summary": "Rashi: here it says 'rain' and later 'flood'; when God sent it down it was a rain of mercy, so that if they repented it would be a rain of blessing."
+    },
+    {
+     "anchor": "rashi:7:12:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: the first day is not counted among the forty because its night was not joined to it; the count ends on 28 Kislev according to R. Eliezer. A calendar point."
+    }
+   ]
+  },
+  {
+   "ref": "7:13",
+   "english": "On that very day Noah went in, and Shem and Ham and Japheth, the sons of Noah, and the wife of Noah and the three wives of his sons with them, into the ark.",
+   "literal": "in-bone-of the-day the-this came Noah and-Shem and-Ham and-Japheth sons-of Noah and-wife-of Noah and-three-of wives-of sons-his with-them to the-ark",
+   "tokens": [
+    {
+     "id": "7:13.1",
+     "gloss": "on the very",
+     "note": "'in the bone/substance of': idiom for 'on this very day'"
+    },
+    {
+     "id": "7:13.2",
+     "gloss": "day",
+     "sense": "1"
+    },
+    {
+     "id": "7:13.3",
+     "gloss": "this"
+    },
+    {
+     "id": "7:13.4",
+     "gloss": "went in",
+     "sense": "Qal 1",
+     "note": "qatal, singular, agreeing with Noah"
+    },
+    {
+     "id": "7:13.5",
+     "gloss": "Noah"
+    },
+    {
+     "id": "7:13.6",
+     "gloss": "and Shem"
+    },
+    {
+     "id": "7:13.7",
+     "gloss": "and Ham",
+     "sense": "1"
+    },
+    {
+     "id": "7:13.8",
+     "gloss": "and Japheth"
+    },
+    {
+     "id": "7:13.9",
+     "gloss": "the sons of",
+     "sense": "1"
+    },
+    {
+     "id": "7:13.10",
+     "gloss": "Noah"
+    },
+    {
+     "id": "7:13.11",
+     "gloss": "and the wife of",
+     "sense": "2"
+    },
+    {
+     "id": "7:13.12",
+     "gloss": "Noah"
+    },
+    {
+     "id": "7:13.13",
+     "gloss": "and three"
+    },
+    {
+     "id": "7:13.14",
+     "gloss": "wives of",
+     "sense": "2"
+    },
+    {
+     "id": "7:13.15",
+     "gloss": "his sons",
+     "sense": "1"
+    },
+    {
+     "id": "7:13.16",
+     "gloss": "with them",
+     "sense": "1"
+    },
+    {
+     "id": "7:13.17",
+     "gloss": "into",
+     "sense": "2"
+    },
+    {
+     "id": "7:13.18",
+     "gloss": "the ark"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:13.1",
+      "7:13.2",
+      "7:13.3"
+     ],
+     "english": "On that very day",
+     "literal": "'in-bone-of the-day the-this'"
+    },
+    {
+     "tokens": [
+      "7:13.4",
+      "7:13.5"
+     ],
+     "english": "Noah went in",
+     "literal": "'came Noah'"
+    },
+    {
+     "tokens": [
+      "7:13.6",
+      "7:13.7",
+      "7:13.8",
+      "7:13.9",
+      "7:13.10"
+     ],
+     "english": "and Shem and Ham and Japheth, the sons of Noah",
+     "literal": "the sons, in apposition"
+    },
+    {
+     "tokens": [
+      "7:13.11",
+      "7:13.12",
+      "7:13.13",
+      "7:13.14",
+      "7:13.15",
+      "7:13.16"
+     ],
+     "english": "and the wife of Noah and the three wives of his sons with them",
+     "literal": "'and-wife-of Noah and-three-of wives-of sons-his with-them'"
+    },
+    {
+     "tokens": [
+      "7:13.17",
+      "7:13.18"
+     ],
+     "english": "into the ark",
+     "literal": "'to the-ark'"
+    }
+   ],
+   "grammar": [
+    "בְּעֶצֶם הַיּוֹם הַזֶּה, literally 'in the bone of this day', means 'on this very day'.",
+    "בָּא is a qatal singular with the first subject, Noah; the other subjects follow after it, as in 7:7.",
+    "שְׁלֹשֶׁת is the construct of the number: 'three of'.",
+    "The disjunctive accents divide the verse into the day, Noah, his sons, and the women."
+   ],
+   "note": "The English keeps the Hebrew order (the verb after Noah, the verb's other subjects after it) so each phrase lines up with the Hebrew words.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:13:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'on that very day' teaches that Noah's generation threatened to break the ark and kill him if they saw him enter; God brought him in before all eyes. A homiletic point on the idiom."
+    }
+   ]
+  },
+  {
+   "ref": "7:14",
+   "english": "They and every wild animal according to its kind, and every domestic animal according to its kind, and every creeping thing that creeps on the earth according to its kind, and every bird according to its kind, every bird of every kind of wing.",
+   "literal": "they and-all the-living-thing to-its-kind and-all the-animal to-its-kind and-all the-creeping-thing the-creeping on the-earth to-its-kind and-all the-bird to-its-kind all bird-of all wing",
+   "tokens": [
+    {
+     "id": "7:14.1",
+     "gloss": "they"
+    },
+    {
+     "id": "7:14.2",
+     "gloss": "and every",
+     "sense": "1"
+    },
+    {
+     "id": "7:14.3",
+     "gloss": "wild animal",
+     "sense": "1.b"
+    },
+    {
+     "id": "7:14.4",
+     "gloss": "according to its kind",
+     "note": "'to its kind', feminine suffix"
+    },
+    {
+     "id": "7:14.5",
+     "gloss": "and every",
+     "sense": "1"
+    },
+    {
+     "id": "7:14.6",
+     "gloss": "domestic animal",
+     "sense": "3",
+     "note": "BDB lists only 'wild beasts' for this lemma; here the contrast with חַיָּה gives 'domestic animal'"
+    },
+    {
+     "id": "7:14.7",
+     "gloss": "according to its kind",
+     "note": "'to its kind', feminine singular suffix agreeing with בְּהֵמָה; the pack's parse gives the suffix as feminine plural, but ־ָהּ with mappiq is singular, as in 7:14.4"
+    },
+    {
+     "id": "7:14.8",
+     "gloss": "and every",
+     "sense": "1"
+    },
+    {
+     "id": "7:14.9",
+     "gloss": "creeping thing"
+    },
+    {
+     "id": "7:14.10",
+     "gloss": "that creeps",
+     "note": "article + participle, 'the creeping'"
+    },
+    {
+     "id": "7:14.11",
+     "gloss": "on",
+     "sense": "II.1"
+    },
+    {
+     "id": "7:14.12",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:14.13",
+     "gloss": "according to its kind",
+     "note": "masculine suffix, with רֶמֶשׂ"
+    },
+    {
+     "id": "7:14.14",
+     "gloss": "and every",
+     "sense": "1"
+    },
+    {
+     "id": "7:14.15",
+     "gloss": "bird",
+     "sense": "1"
+    },
+    {
+     "id": "7:14.16",
+     "gloss": "according to its kind"
+    },
+    {
+     "id": "7:14.17",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "7:14.18",
+     "gloss": "bird of",
+     "note": "construct"
+    },
+    {
+     "id": "7:14.19",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "7:14.20",
+     "gloss": "wing"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:14.1"
+     ],
+     "english": "They",
+     "literal": "'they', the subject of 7:13 resumed"
+    },
+    {
+     "tokens": [
+      "7:14.2",
+      "7:14.3",
+      "7:14.4"
+     ],
+     "english": "and every wild animal according to its kind",
+     "literal": "'and-all the-living-thing to-its-kind'"
+    },
+    {
+     "tokens": [
+      "7:14.5",
+      "7:14.6",
+      "7:14.7"
+     ],
+     "english": "and every domestic animal according to its kind",
+     "literal": "'and-all the-animal to-its-kind'"
+    },
+    {
+     "tokens": [
+      "7:14.8",
+      "7:14.9",
+      "7:14.10",
+      "7:14.11",
+      "7:14.12",
+      "7:14.13"
+     ],
+     "english": "and every creeping thing that creeps on the earth according to its kind",
+     "literal": "'and-all the-creeping-thing the-creeping on the-earth to-its-kind'"
+    },
+    {
+     "tokens": [
+      "7:14.14",
+      "7:14.15",
+      "7:14.16"
+     ],
+     "english": "and every bird according to its kind",
+     "literal": "'and-all the-bird to-its-kind'"
+    },
+    {
+     "tokens": [
+      "7:14.17",
+      "7:14.18",
+      "7:14.19",
+      "7:14.20"
+     ],
+     "english": "every bird of every kind of wing",
+     "literal": "'all bird-of all wing'; Rashi: one construct chain, a bird of every kind of wing, taking in locusts; 'kind of' gives the sense of כָּל before a singular noun"
+    }
+   ],
+   "grammar": [
+    "הֵמָּה resumes the subjects of 7:13 and is followed by the list of the animals, with לְמִינָהּ/לְמִינֵהוּ repeated for each class.",
+    "הָרֶמֶשׂ הָרֹמֵשׂ is a noun with its cognate participle: 'the creeping thing that creeps'.",
+    "The suffix on לְמִינָהּ agrees with the feminine noun (חַיָּה, בְּהֵמָה), the suffix on לְמִינֵהוּ with the masculine (רֶמֶשׂ, עוֹף).",
+    "The last clause, כֹּל צִפּוֹר כָּל כָּנָף, is a construct chain: 'every bird of every wing'."
+   ],
+   "note": "Rashi reads צִפּוֹר כָּל כָּנָף as one construct chain (דבוק): 'a bird of every kind of wing', so that winged creatures such as locusts are included. The English follows him; 'kind of' gives the sense of כָּל before a singular noun. Radak allows כָּל כָּנָף to mean 'every winged creature', in apposition.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:14:1",
+     "relation": "follows",
+     "summary": "Rashi: צפור כל כנף is a construct chain (דבוק): 'a bird of every kind of wing', to include locusts. A further gloss takes כנף as plumage, as in 'he shall tear it by its wings' (Lev 1:17), where even the feathers are offered: here too, a bird of every kind of plumage."
+    }
+   ]
+  }
+ ]
+}

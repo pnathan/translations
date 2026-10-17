@@ -1,0 +1,1345 @@
+{
+ "unit": "noach-02",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "6:13",
+   "english": "God said to Noah, \"The end of all flesh has come before me, for the earth is full of violence because of them; now I am about to destroy them with the earth.\"",
+   "literal": "and-said God to-Noah end-of all-of flesh has-come to-before-me for has-been-full the-earth violence from-before-them and-behold-I destroying-them [with/from] the-earth",
+   "tokens": [
+    {
+     "id": "6:13.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative past"
+    },
+    {
+     "id": "6:13.2",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "6:13.3",
+     "gloss": "to Noah"
+    },
+    {
+     "id": "6:13.4",
+     "gloss": "end of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "6:13.5",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "6:13.6",
+     "gloss": "flesh",
+     "sense": "2",
+     "note": "'all flesh' means every living creature, human and animal"
+    },
+    {
+     "id": "6:13.7",
+     "gloss": "has come",
+     "sense": "Qal 2",
+     "note": "perfect: the end has already arrived"
+    },
+    {
+     "id": "6:13.8",
+     "gloss": "before me",
+     "sense": "I.6",
+     "note": "literally 'to my face'"
+    },
+    {
+     "id": "6:13.9",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "6:13.10",
+     "gloss": "is full",
+     "sense": "Qal 1",
+     "note": "stative perfect: 'has become full and remains so'"
+    },
+    {
+     "id": "6:13.11",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:13.12",
+     "gloss": "violence"
+    },
+    {
+     "id": "6:13.13",
+     "gloss": "because of them",
+     "sense": "I.6",
+     "note": "literally 'from before them'"
+    },
+    {
+     "id": "6:13.14",
+     "gloss": "and now I am",
+     "note": "וְהִנְנִי: 'and behold I', the participle that follows expresses what is about to happen"
+    },
+    {
+     "id": "6:13.15",
+     "gloss": "about to destroy them",
+     "sense": "Hiph 1",
+     "note": "participle with suffix: imminent action"
+    },
+    {
+     "id": "6:13.16",
+     "gloss": "with",
+     "sense": "1",
+     "note": "אֶת here is read as 'with' (or 'from'); see note"
+    },
+    {
+     "id": "6:13.17",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:13.1",
+      "6:13.2",
+      "6:13.3"
+     ],
+     "english": "God said to Noah",
+     "literal": "'and-said God to-Noah'"
+    },
+    {
+     "tokens": [
+      "6:13.4",
+      "6:13.5",
+      "6:13.6"
+     ],
+     "english": "The end of all flesh",
+     "literal": "'end-of all-of flesh'"
+    },
+    {
+     "tokens": [
+      "6:13.7",
+      "6:13.8"
+     ],
+     "english": "has come before me",
+     "literal": "'has-come to-before-me': the end has arrived in God's presence"
+    },
+    {
+     "tokens": [
+      "6:13.9",
+      "6:13.10",
+      "6:13.11",
+      "6:13.12",
+      "6:13.13"
+     ],
+     "english": "for the earth is full of violence because of them",
+     "literal": "'for has-been-full the-earth violence from-before-them'"
+    },
+    {
+     "tokens": [
+      "6:13.14",
+      "6:13.15"
+     ],
+     "english": "now I am about to destroy them",
+     "literal": "'and-behold-I destroying-them': imminent participle"
+    },
+    {
+     "tokens": [
+      "6:13.16",
+      "6:13.17"
+     ],
+     "english": "with the earth",
+     "literal": "'[et] the-earth': read as 'with' (Rashi's second reading, Ibn Ezra's alternative)"
+    }
+   ],
+   "grammar": [
+    "קֵץ כׇּל־בָּשָׂר is a construct chain: 'the end of all flesh'; the pashta on בָּשָׂר closes the subject.",
+    "The perfect בָּא ('has come') and מָלְאָה ('is full') state the present result of what has happened.",
+    "וְהִנְנִי with the participle מַשְׁחִיתָם is the idiom of imminent action: 'and behold I am about to destroy'.",
+    "אֶת־הָאָרֶץ: אֶת is the usual object marker, but the commentators read it as 'from' or 'with' because the object of מַשְׁחִית is already -ם.",
+    "The etnaḥta on מִפְּנֵיהֶם divides the verse: reason for the decree, then the decree itself."
+   ],
+   "note": "אֶת־הָאָרֶץ: Rashi first reads אֶת as 'from the earth' (like כְּצֵאתִי אֶת הָעִיר), and then, as a second explanation, as 'with the earth', so that the earth too is ruined. Ibn Ezra lists 'from' and 'with' but prefers that מַשְׁחִיתָם does double duty: 'I am destroying them and destroying the earth'. The English takes 'with', the reading the two share; the other readings are recorded. The pack's parse gives אֶת as a preposition, which agrees. חָמָס is the word on which Rashi (Sanhedrin 108) says the decree was sealed.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:13:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: wherever one finds sexual immorality and idolatry, a destroying force (androlomusia) comes into the world and kills good and wicked alike. A homily on 'the end of all flesh'; it does not change the plain sense."
+    },
+    {
+     "anchor": "rashi:6:13:2",
+     "relation": "records",
+     "summary": "Rashi, citing Sanhedrin 108: their sentence was sealed only on account of robbery (גָּזֵל). He reads חָמָס here as robbery. The English keeps BDB's broader 'violence', which includes it, and records Rashi's narrower sense."
+    },
+    {
+     "anchor": "rashi:6:13:3",
+     "relation": "follows",
+     "summary": "Rashi: אֶת means 'from the earth', like כְּצֵאתִי אֶת הָעִיר and חָלָה אֶת רַגְלָיו; another explanation: 'with the earth', since even three handbreadths of plowed depth were dissolved. The English adopts the second explanation, 'with'."
+    },
+    {
+     "anchor": "ibn-ezra:6:13:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בָּשָׂר means 'the body' (הוּא הַגּוּף). The English 'flesh' is used for the living creature as a bodily being."
+    },
+    {
+     "anchor": "ibn-ezra:6:13:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בָּא means 'arrived': the end of their calamity (הִגִּיעַ קֵץ אֵידָם) has arrived. The English 'has come' is the same."
+    },
+    {
+     "anchor": "ibn-ezra:6:13:3",
+     "relation": "records",
+     "summary": "Ibn Ezra: אֶת is 'from the earth' or 'with', like אֶת יַעֲקֹב אִישׁ וּבֵיתוֹ, but he prefers that מַשְׁחִיתָם serves two objects: 'I am destroying them, and destroying the earth'. The English follows the 'with' option; his preferred construction is recorded."
+    }
+   ],
+   "apparatus": [
+    "Ibn Ezra's preferred reading: 'I am about to destroy them and to destroy the earth' (מַשְׁחִית has a second, implied object).",
+    "Rashi's first reading of אֶת: 'from the earth', that is, I will destroy them out of the earth.",
+    "The Targum Onkelos renders 'with the earth' (עִם אַרְעָא), agreeing with 'with'."
+   ]
+  },
+  {
+   "ref": "6:14",
+   "english": "Make yourself an ark of gopher wood; make the ark with compartments, and cover it with pitch inside and out.",
+   "literal": "make for-you ark-of wood-of gopher nests you-shall-make [obj]-the-ark and-you-shall-cover it from-inside and-from-outside with-the-pitch",
+   "tokens": [
+    {
+     "id": "6:14.1",
+     "gloss": "make",
+     "sense": "Qal II.1",
+     "note": "imperative"
+    },
+    {
+     "id": "6:14.2",
+     "gloss": "for yourself",
+     "note": "ethical dative: 'for yourself'"
+    },
+    {
+     "id": "6:14.3",
+     "gloss": "an ark of",
+     "note": "construct; תֵּבָה is the word also used for the basket of Moses"
+    },
+    {
+     "id": "6:14.4",
+     "gloss": "wood of",
+     "sense": "2",
+     "note": "construct plural"
+    },
+    {
+     "id": "6:14.5",
+     "gloss": "gopher",
+     "note": "גֹּפֶר occurs only here; the kind of wood is unidentified"
+    },
+    {
+     "id": "6:14.6",
+     "gloss": "with compartments",
+     "sense": "2",
+     "note": "literally 'nests'; plural קִנִּים"
+    },
+    {
+     "id": "6:14.7",
+     "gloss": "you shall make",
+     "sense": "Qal II.1",
+     "note": "imperfect with the force of a command"
+    },
+    {
+     "id": "6:14.8",
+     "gloss": "(object marker)",
+     "lex": "bdb:a.gm.aa",
+     "note": "the object marker before the definite object הַתֵּבָה; the pack's dataset tags this אֶת as the preposition 'with', which does not fit here"
+    },
+    {
+     "id": "6:14.9",
+     "gloss": "the ark"
+    },
+    {
+     "id": "6:14.10",
+     "gloss": "and you shall cover with pitch",
+     "note": "denominative verb from כֹּפֶר 'pitch'; weqatal continuing the command"
+    },
+    {
+     "id": "6:14.11",
+     "gloss": "it"
+    },
+    {
+     "id": "6:14.12",
+     "gloss": "inside",
+     "sense": "8.a",
+     "note": "literally 'from house'"
+    },
+    {
+     "id": "6:14.13",
+     "gloss": "and outside"
+    },
+    {
+     "id": "6:14.14",
+     "gloss": "with the pitch",
+     "note": "the article is absorbed into the prefix בַּ"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:14.1",
+      "6:14.2",
+      "6:14.3"
+     ],
+     "english": "Make yourself an ark",
+     "literal": "'make for-you ark-of'"
+    },
+    {
+     "tokens": [
+      "6:14.4",
+      "6:14.5"
+     ],
+     "english": "of gopher wood",
+     "literal": "'wood-of gopher'; the species is unknown"
+    },
+    {
+     "tokens": [
+      "6:14.6",
+      "6:14.7",
+      "6:14.8",
+      "6:14.9"
+     ],
+     "english": "make the ark with compartments",
+     "literal": "'nests you-shall-make [obj]-the-ark'; the English moves 'with compartments' after the verb"
+    },
+    {
+     "tokens": [
+      "6:14.10",
+      "6:14.11",
+      "6:14.12",
+      "6:14.13",
+      "6:14.14"
+     ],
+     "english": "and cover it with pitch inside and out",
+     "literal": "'and-you-shall-pitch it from-inside and-from-outside with-the-pitch'"
+    }
+   ],
+   "grammar": [
+    "The two verbs עֲשֵׂה (imperative) and תַּעֲשֶׂה (imperfect) repeat 'make', the second adding what the ark is to have.",
+    "קִנִּים is placed first for emphasis; it is the object of the idea 'make the ark with nests'.",
+    "וְכָפַרְתָּ is a denominative verb built on כֹּפֶר 'pitch', with the cognate noun after it (figura etymologica): 'pitch it with pitch'.",
+    "מִבַּיִת וּמִחוּץ: 'from the inside and from the outside', an idiom for 'inside and out'.",
+    "The etnaḥta on הַתֵּבָה separates the building from the sealing."
+   ],
+   "note": "גֹּפֶר is a hapax and the species is not known; the English keeps the Hebrew word. Rashi connects it with גָּפְרִית 'brimstone'; Ibn Ezra says only that it is a light wood that floats. קִנִּים is 'nests' and so 'compartments' (Rashi, Ibn Ezra, Radak). כֹּפֶר is 'pitch' (Rashi: Aramaic זפת; BDB agrees).",
+   "commentary": [
+    {
+     "anchor": "rashi:6:14:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: God had many ways to save Noah, but made him build so that the people would see him at work for 120 years and ask, and he would tell them of the coming flood, so that they might repent. A homily on motive."
+    },
+    {
+     "anchor": "rashi:6:14:2",
+     "relation": "follows",
+     "summary": "Rashi: 'gopher' is its name; and why this kind? On account of the brimstone (גָּפְרִית) by which they were doomed. The English keeps the name 'gopher'; the explanation is not needed for the plain sense."
+    },
+    {
+     "anchor": "rashi:6:14:3",
+     "relation": "follows",
+     "summary": "Rashi: קִנִּים are 'dwellings' (מְדוֹרִים), separate quarters for each beast and animal. The English 'compartments'."
+    },
+    {
+     "anchor": "rashi:6:14:4",
+     "relation": "follows",
+     "summary": "Rashi: כֹּפֶר is pitch (זֶפֶת) in Aramaic; the Talmud has כּוּפְרָא; here he coated it inside and out because of the strength of the water. The English 'pitch'."
+    },
+    {
+     "anchor": "ibn-ezra:6:14:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: גֹּפֶר is the name of a wood that is light on water, with no parallel in Scripture. The English keeps 'gopher'."
+    },
+    {
+     "anchor": "ibn-ezra:6:14:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: קִנִּים means that every beast, bird and animal, a male and his mate, will be alone in its own place. The English 'compartments'."
+    },
+    {
+     "anchor": "ibn-ezra:6:14:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it says תֵּבָה and not a ship, since it has not the form of a ship and has no oars. The English 'ark'."
+    },
+    {
+     "anchor": "ibn-ezra:6:14:4",
+     "relation": "follows",
+     "summary": "Ibn Ezra gives several views. Some derive וְכָפַרְתָּ from כַּפֹּרֶת ('cover'), meaning a smeared-on covering. Some say כֹּפֶר is something like pitch, some a sticky clay from the ground that holds like pitch, and some the substance named in Arabic with qof for kaf. He holds that וְכָפַרְתָּ comes from the noun בַּכֹּפֶר, 'pitch it with pitch'."
+    },
+    {
+     "anchor": "ibn-ezra:6:14:5",
+     "relation": "follows",
+     "summary": "Ibn Ezra: מִבַּיִת is like לְפָנִים, 'within'. The English 'inside'."
+    }
+   ],
+   "apparatus": [
+    "Rashi: כֹּפֶר is pitch (זֶפֶת) in Aramaic, the Talmud's כּוּפְרָא. Moses' basket (Exodus 2:3) sat in calm water, so clay inside and pitch outside was enough, and the righteous child was spared the smell of pitch. Here, because of the force of the water, the ark was pitched inside and out.",
+    "Onkelos: 'of kedrom wood' (קַדְרוֹם), a cedar kind, per Radak.",
+    "Radak: the outer coat may fail under the force of the water, while the inner holds."
+   ]
+  },
+  {
+   "ref": "6:15",
+   "english": "This is how you shall make it: the ark's length shall be three hundred cubits, its width fifty cubits, and its height thirty cubits.",
+   "literal": "and-this which you-shall-make it three hundreds cubit length-of the-ark fifty cubit its-width and-thirty cubit its-height",
+   "tokens": [
+    {
+     "id": "6:15.1",
+     "gloss": "and this"
+    },
+    {
+     "id": "6:15.2",
+     "gloss": "which",
+     "note": "relative: 'this is what you shall make'"
+    },
+    {
+     "id": "6:15.3",
+     "gloss": "you shall make",
+     "sense": "Qal II.1"
+    },
+    {
+     "id": "6:15.4",
+     "gloss": "it"
+    },
+    {
+     "id": "6:15.5",
+     "gloss": "three"
+    },
+    {
+     "id": "6:15.6",
+     "gloss": "hundreds",
+     "note": "מֵאוֹת 'hundreds', plural of מֵאָה"
+    },
+    {
+     "id": "6:15.7",
+     "gloss": "cubits",
+     "sense": "1",
+     "note": "אַמָּה; a unit of length, about the forearm; singular after the number"
+    },
+    {
+     "id": "6:15.8",
+     "gloss": "length of",
+     "sense": "a",
+     "note": "construct"
+    },
+    {
+     "id": "6:15.9",
+     "gloss": "the ark"
+    },
+    {
+     "id": "6:15.10",
+     "gloss": "fifty"
+    },
+    {
+     "id": "6:15.11",
+     "gloss": "cubits",
+     "sense": "1"
+    },
+    {
+     "id": "6:15.12",
+     "gloss": "its width",
+     "note": "construct with a feminine suffix, referring to the ark"
+    },
+    {
+     "id": "6:15.13",
+     "gloss": "and thirty"
+    },
+    {
+     "id": "6:15.14",
+     "gloss": "cubits",
+     "sense": "1"
+    },
+    {
+     "id": "6:15.15",
+     "gloss": "its height"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:15.1",
+      "6:15.2",
+      "6:15.3",
+      "6:15.4"
+     ],
+     "english": "This is how you shall make it",
+     "literal": "'and-this which you-shall-make it'"
+    },
+    {
+     "tokens": [
+      "6:15.5",
+      "6:15.6",
+      "6:15.7",
+      "6:15.8",
+      "6:15.9"
+     ],
+     "english": "the ark's length shall be three hundred cubits",
+     "literal": "'three hundreds cubit length-of the-ark': the English moves the measure after the noun"
+    },
+    {
+     "tokens": [
+      "6:15.10",
+      "6:15.11",
+      "6:15.12"
+     ],
+     "english": "its width fifty cubits",
+     "literal": "'fifty cubit its-width'"
+    },
+    {
+     "tokens": [
+      "6:15.13",
+      "6:15.14",
+      "6:15.15"
+     ],
+     "english": "and its height thirty cubits",
+     "literal": "'and-thirty cubit its-height'"
+    }
+   ],
+   "grammar": [
+    "וְזֶה is a masculine demonstrative: 'this (measure) which you shall make it'.",
+    "The numbers precede אַמָּה in the singular, as is usual after a number; the nouns אֹרֶךְ, רֹחַב and קוֹמָה follow.",
+    "The three dimensions are set out in a rhythm: the zaqef gadol on וְזֶה, the etnaḥta on אֹתָהּ and the revia on אַמָּה.",
+    "The verse is a list of measures: 300 x 50 x 30 cubits, a ratio of 30 : 5 : 3."
+   ],
+   "note": "The cubit is the unit of the Torah; the commentators give no other reading of the numbers.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:6:15:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the sense is 'this is the measure that you shall make'; its height is a tenth of its length, so that it floats on the water and the wind does not overturn it. The English 'this is how you shall make it'."
+    }
+   ],
+   "apparatus": [
+    "Radak (from Bereshit Rabbah): the width is a sixth and the height a tenth of the length, so that it stays level on the water.",
+    "Onkelos agrees: 'this is what you shall make it'."
+   ]
+  },
+  {
+   "ref": "6:16",
+   "english": "Make a skylight for the ark, and finish it off to a cubit at the top. Set the door of the ark in its side; make it with lower, second, and third stories.",
+   "literal": "skylight you-shall-make for-the-ark and-to cubit you-shall-finish-it from-above and-door-of the-ark in-its-side you-shall-set lower second and-third you-shall-make-it",
+   "tokens": [
+    {
+     "id": "6:16.1",
+     "gloss": "a skylight",
+     "note": "צֹהַר is a hapax; BDB lists 'roof'; the commentators take 'window'"
+    },
+    {
+     "id": "6:16.2",
+     "gloss": "you shall make",
+     "sense": "Qal II.1"
+    },
+    {
+     "id": "6:16.3",
+     "gloss": "for the ark"
+    },
+    {
+     "id": "6:16.4",
+     "gloss": "and to"
+    },
+    {
+     "id": "6:16.5",
+     "gloss": "a cubit",
+     "sense": "1"
+    },
+    {
+     "id": "6:16.6",
+     "gloss": "you shall finish it",
+     "sense": "Pi 1.a",
+     "note": "piel with a feminine suffix; the suffix refers to the ark or the skylight"
+    },
+    {
+     "id": "6:16.7",
+     "gloss": "at the top",
+     "note": "literally 'from above' with directional ה"
+    },
+    {
+     "id": "6:16.8",
+     "gloss": "and the door of"
+    },
+    {
+     "id": "6:16.9",
+     "gloss": "the ark"
+    },
+    {
+     "id": "6:16.10",
+     "gloss": "in its side"
+    },
+    {
+     "id": "6:16.11",
+     "gloss": "you shall set",
+     "sense": "Qal 1.a"
+    },
+    {
+     "id": "6:16.12",
+     "gloss": "lower",
+     "note": "תַּחְתִּיִּם: masculine plural of the adjective תַּחְתִּי 'lower', used as a noun for the lowest deck. The doubled yod stands for the yod of the adjective plus the yod of the plural ending, with one yod written. Radak: the written yod is the yod of relation, and the plural's yod has dropped from the spelling."
+    },
+    {
+     "id": "6:16.13",
+     "gloss": "second"
+    },
+    {
+     "id": "6:16.14",
+     "gloss": "and third"
+    },
+    {
+     "id": "6:16.15",
+     "gloss": "you shall make it",
+     "sense": "Qal II.1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:16.1",
+      "6:16.2",
+      "6:16.3"
+     ],
+     "english": "Make a skylight for the ark",
+     "literal": "'skylight you-shall-make for-the-ark'"
+    },
+    {
+     "tokens": [
+      "6:16.4",
+      "6:16.5",
+      "6:16.6",
+      "6:16.7"
+     ],
+     "english": "and finish it off to a cubit at the top",
+     "literal": "'and-to cubit you-shall-finish-it from-above'"
+    },
+    {
+     "tokens": [
+      "6:16.8",
+      "6:16.9",
+      "6:16.10",
+      "6:16.11"
+     ],
+     "english": "Set the door of the ark in its side",
+     "literal": "'and-door-of the-ark in-its-side you-shall-set'"
+    },
+    {
+     "tokens": [
+      "6:16.12",
+      "6:16.13",
+      "6:16.14",
+      "6:16.15"
+     ],
+     "english": "make it with lower, second, and third stories",
+     "literal": "'lower second and-third you-shall-make-it'"
+    }
+   ],
+   "grammar": [
+    "צֹהַר תַּעֲשֶׂה לַתֵּבָה puts the object first: 'a skylight you shall make for the ark'; the ׀ (paseq) after צֹהַר marks a pause.",
+    "וְאֶל־אַמָּה תְּכַלֶּנָּה מִלְמַעְלָה: 'and to a cubit you shall finish it from above'; the sense is that the roof ends in a single cubit.",
+    "The adjectives תַּחְתִּיִּם שְׁנִיִּם וּשְׁלִשִׁים are used as nouns for the three storeys: 'lower, second, third'.",
+    "The tevir on תַּחְתִּיִּם and the tipḥa on וּשְׁלִשִׁים divide the three storeys from the verb.",
+    "The final verb תַּעֲשֶׂהָ has a feminine object suffix: 'you shall make it (the ark)'."
+   ],
+   "note": "צֹהַר: the pack gives BDB 'roof'; Rashi says a window or a precious stone that shone for them (Bereshit Rabbah); Ibn Ezra: a place by which light enters, derived from צָהֳרַיִם, made at the top. The English 'skylight' keeps the two commentators' 'light opening at the top' and does not decide between window and gem; the roof sense is recorded. וְאֶל־אַמָּה תְּכַלֶּנָּה מִלְמַעְלָה is hard: Rashi takes the roof as sloping up until it is only a cubit wide at the top, so that water runs off; Ibn Ezra takes the top as a cubit long and a sixth of a cubit wide. The English keeps the sense 'finish off the top to a cubit'. The pack notes that the WLC reads תְּכַלֶנָּה, without the dagesh.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:16:1",
+     "relation": "follows",
+     "summary": "Rashi: some say a window and some a precious stone that gave them light. The English 'skylight' follows the first and records the second."
+    },
+    {
+     "anchor": "rashi:6:16:2",
+     "relation": "follows",
+     "summary": "Rashi: its roof was sloping and rose until it was narrow at the top, standing on one cubit, so that the water runs off on both sides. The English 'finish it off to a cubit at the top'."
+    },
+    {
+     "anchor": "rashi:6:16:3",
+     "relation": "follows",
+     "summary": "Rashi: set the door in the side so that the rains would not fall into it. The English 'in its side'."
+    },
+    {
+     "anchor": "rashi:6:16:4",
+     "relation": "follows",
+     "summary": "Rashi: three decks, one above another: the upper for people, the middle for dwelling, the lower for waste. The English 'lower, second, and third stories'."
+    },
+    {
+     "anchor": "ibn-ezra:6:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: צֹהַר is a place by which light enters, from צָהֳרַיִם, made at the top; the ark is like a triangle with a sharp top, so that it does not turn over; the door is in one side and reached by a ladder. The English 'skylight'."
+    },
+    {
+     "anchor": "ibn-ezra:6:16:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: תַּחְתִּיִּם is an adjective of the noun, and so שְׁנִיִּם and שְׁלִשִׁים; he answers those who ask why the text does not say שְׁלִישִׁיִּים. The English reads the three words as 'lower, second and third'."
+    }
+   ],
+   "apparatus": [
+    "צֹהַר: roof (BDB), window (Rashi, Radak), a gem (Rashi, Radak), an opening for light (Ibn Ezra).",
+    "Rashi: וְאֶל־אַמָּה is the roof narrowing to a cubit. Ibn Ezra: the ark is a triangle in section, with its top a cubit long.",
+    "Radak on תַּחְתִּיִּים: the yod is the yod of relation, and the yod of the plural has been dropped, like עֲבָדִים נָכְרִים.",
+    "Sforno: תַּחְתִּיִּם שְׁנִיִּם וּשְׁלִשִׁים means those that are used to ships (הַמּוּרְגָּלִים בָּאֳנִיּוֹת), that is, ships' decks."
+   ]
+  },
+  {
+   "ref": "6:17",
+   "english": "As for me, I am about to bring the flood of waters upon the earth, to destroy all flesh in which is the breath of life from under the heavens; everything that is on the earth shall perish.",
+   "literal": "and-I behold-I bringing [obj]-the-flood waters upon the-earth to-destroy all-of flesh which in-it breath-of life from-under the-heavens all which in-the-earth shall-expire",
+   "tokens": [
+    {
+     "id": "6:17.1",
+     "gloss": "and as for me",
+     "note": "וַאֲנִי: emphatic pronoun, 'and I, for my part'"
+    },
+    {
+     "id": "6:17.2",
+     "gloss": "behold, I am",
+     "note": "הִנְנִי with a participle: imminent action"
+    },
+    {
+     "id": "6:17.3",
+     "gloss": "bringing",
+     "sense": "Hiph 2",
+     "note": "participle"
+    },
+    {
+     "id": "6:17.4",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "6:17.5",
+     "gloss": "the flood",
+     "note": "הַמַּבּוּל: the flood, used only of this event in Genesis"
+    },
+    {
+     "id": "6:17.6",
+     "gloss": "waters",
+     "note": "מַיִם: in apposition to the flood, or 'flood of waters'"
+    },
+    {
+     "id": "6:17.7",
+     "gloss": "upon",
+     "sense": "II.1",
+     "note": "עַל"
+    },
+    {
+     "id": "6:17.8",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:17.9",
+     "gloss": "to destroy",
+     "sense": "Pi 1",
+     "note": "piel infinitive construct"
+    },
+    {
+     "id": "6:17.10",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "6:17.11",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "6:17.12",
+     "gloss": "which"
+    },
+    {
+     "id": "6:17.13",
+     "gloss": "in it"
+    },
+    {
+     "id": "6:17.14",
+     "gloss": "breath of",
+     "sense": "1",
+     "note": "construct"
+    },
+    {
+     "id": "6:17.15",
+     "gloss": "life",
+     "sense": "1",
+     "note": "חַיִּים: plural of intensity"
+    },
+    {
+     "id": "6:17.16",
+     "gloss": "from under"
+    },
+    {
+     "id": "6:17.17",
+     "gloss": "the heavens",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:17.18",
+     "gloss": "everything",
+     "sense": "2.a"
+    },
+    {
+     "id": "6:17.19",
+     "gloss": "which"
+    },
+    {
+     "id": "6:17.20",
+     "gloss": "on the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "6:17.21",
+     "gloss": "shall perish",
+     "note": "גָּוַע 'to expire': used of dying, often of animals and people"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:17.1",
+      "6:17.2",
+      "6:17.3"
+     ],
+     "english": "As for me, I am about to bring",
+     "literal": "'and-I behold-I bringing'"
+    },
+    {
+     "tokens": [
+      "6:17.4",
+      "6:17.5",
+      "6:17.6"
+     ],
+     "english": "the flood of waters",
+     "literal": "'[obj] the-flood waters': 'waters' is in apposition, so 'flood of waters'"
+    },
+    {
+     "tokens": [
+      "6:17.7",
+      "6:17.8"
+     ],
+     "english": "upon the earth",
+     "literal": "'upon the-earth'"
+    },
+    {
+     "tokens": [
+      "6:17.9",
+      "6:17.10",
+      "6:17.11"
+     ],
+     "english": "to destroy all flesh",
+     "literal": "'to-destroy all-of flesh'"
+    },
+    {
+     "tokens": [
+      "6:17.12",
+      "6:17.13",
+      "6:17.14",
+      "6:17.15"
+     ],
+     "english": "in which is the breath of life",
+     "literal": "'which in-it breath-of life'"
+    },
+    {
+     "tokens": [
+      "6:17.16",
+      "6:17.17"
+     ],
+     "english": "from under the heavens",
+     "literal": "'from-under the-heavens'"
+    },
+    {
+     "tokens": [
+      "6:17.18",
+      "6:17.19",
+      "6:17.20"
+     ],
+     "english": "everything that is on the earth",
+     "literal": "'all which in-the-earth'"
+    },
+    {
+     "tokens": [
+      "6:17.21"
+     ],
+     "english": "shall perish",
+     "literal": "'shall-expire'"
+    }
+   ],
+   "grammar": [
+    "וַאֲנִי הִנְנִי: the pronoun וַאֲנִי is emphatic, with הִנְנִי and a participle for what is about to happen.",
+    "הַמַּבּוּל מַיִם: the second word explains the first; Ibn Ezra reads 'the flood, (a flood of) waters'.",
+    "The infinitive לְשַׁחֵת (piel) gives the purpose of the flood.",
+    "The relative clause אֲשֶׁר־בּוֹ רוּחַ חַיִּים describes the creatures meant by 'all flesh'.",
+    "כֹּל אֲשֶׁר־בָּאָרֶץ יִגְוָע: the verse closes on the single verb 'shall expire'."
+   ],
+   "note": "וַאֲנִי: Rashi hears God agreeing with those who urged him (Psalm 8:5); Ramban reads 'I also', as in וְיִסַּרְתִּי אֶתְכֶם אַף אָנִי. The English keeps the emphasis ('As for me') without choosing. מַבּוּל is the word for the flood; Rashi and Ibn Ezra give derivations (from בלל, בלה, נבל) but the sense is 'flood'. Radak (6:17:4) says כֹּל אֲשֶׁר בָּאָרֶץ means on dry land, not fish.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:17:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'I am ready to agree with those who urged me and said, What is man that You remember him (Ps 8)'. A homily on the emphatic וַאֲנִי; it does not alter the plain sense."
+    },
+    {
+     "anchor": "rashi:6:17:2",
+     "relation": "follows",
+     "summary": "Rashi: מַבּוּל is from the sense of destroying (בִּלָּה), confusing (בִּלְבֵּל), or carrying (הוֹבִיל) all from the high to the low; Onkelos renders טוֹפָנָא, flooding everything. The English 'the flood'."
+    },
+    {
+     "anchor": "ibn-ezra:6:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the dagesh in the bet of מַבּוּל stands for an assimilated nun, as in מַבּוּעַ, from אָבְלָה נָבְלָה הָאָרֶץ; others derive it from בְּלוּלָה בַּשֶּׁמֶן. The English 'flood'."
+    },
+    {
+     "anchor": "ibn-ezra:6:17:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הַמַּבּוּל מַיִם is a short way of saying 'the flood, a flood of waters', as in לְמִן הַיּוֹם הִוָּסְדָה. The English 'the flood of waters'."
+    }
+   ],
+   "apparatus": [
+    "Ramban on וַאֲנִי: 'I too', as in וְיִסַּרְתִּי אֶתְכֶם אַף אָנִי; the flood is God's own act against those who ruined the earth.",
+    "Radak on הַמַּבּוּל מַיִם: the construct is understood (מַבּוּל מַיִם), and מַבּוּל is a descriptive name for whatever falls from heaven.",
+    "Radak on כֹּל אֲשֶׁר בָּאָרֶץ: on dry land; fish are not included (the creatures of the sea did not share the wicked way, on the view of the Sages)."
+   ]
+  },
+  {
+   "ref": "6:18",
+   "english": "I will establish my covenant with you, and you shall enter the ark, you and your sons and your wife and your sons' wives with you.",
+   "literal": "and-I-will-establish [obj] my-covenant with-you and-you-shall-enter into the-ark you and-your-sons and-your-wife and-wives-of your-sons with-you",
+   "tokens": [
+    {
+     "id": "6:18.1",
+     "gloss": "and I will establish",
+     "sense": "Hiph 6",
+     "note": "weqatal; hifil of קוּם 'cause to stand'"
+    },
+    {
+     "id": "6:18.2",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "6:18.3",
+     "gloss": "my covenant",
+     "sense": "II.2",
+     "note": "בְּרִית: a binding promise; see the notes"
+    },
+    {
+     "id": "6:18.4",
+     "gloss": "with you",
+     "sense": "1",
+     "note": "אִתָּךְ with the feminine-form suffix ךְ: pausal form for the masculine"
+    },
+    {
+     "id": "6:18.5",
+     "gloss": "and you shall enter",
+     "sense": "Qal 1",
+     "note": "weqatal continuing the promise"
+    },
+    {
+     "id": "6:18.6",
+     "gloss": "into",
+     "sense": "2"
+    },
+    {
+     "id": "6:18.7",
+     "gloss": "the ark"
+    },
+    {
+     "id": "6:18.8",
+     "gloss": "you"
+    },
+    {
+     "id": "6:18.9",
+     "gloss": "and your sons",
+     "sense": "1"
+    },
+    {
+     "id": "6:18.10",
+     "gloss": "and your wife",
+     "sense": "2"
+    },
+    {
+     "id": "6:18.11",
+     "gloss": "and wives of",
+     "sense": "2",
+     "note": "construct plural"
+    },
+    {
+     "id": "6:18.12",
+     "gloss": "your sons",
+     "sense": "1"
+    },
+    {
+     "id": "6:18.13",
+     "gloss": "with you",
+     "sense": "1",
+     "note": "pausal form"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:18.1",
+      "6:18.2",
+      "6:18.3",
+      "6:18.4"
+     ],
+     "english": "I will establish my covenant with you",
+     "literal": "'and-I-will-establish [obj] my-covenant with-you'"
+    },
+    {
+     "tokens": [
+      "6:18.5",
+      "6:18.6",
+      "6:18.7"
+     ],
+     "english": "and you shall enter the ark",
+     "literal": "'and-you-shall-enter into the-ark'"
+    },
+    {
+     "tokens": [
+      "6:18.8",
+      "6:18.9",
+      "6:18.10",
+      "6:18.11",
+      "6:18.12",
+      "6:18.13"
+     ],
+     "english": "you and your sons and your wife and your sons' wives with you",
+     "literal": "'you and-your-sons and-your-wife and-wives-of your-sons with-you'"
+    }
+   ],
+   "grammar": [
+    "וַהֲקִמֹתִי is a weqatal verb continuing the speech; the vav is not 'and' in the English, and the verb is future.",
+    "The suffix of אִתָּךְ is written with a final ךְ and a qamets: this is the pausal form of 'with you' (masculine) before the etnaḥta and silluq.",
+    "הֲקִמֹתִי אֶת־בְּרִיתִי: the hifil of קוּם takes בְּרִית with the sense of 'confirm, carry out' a covenant.",
+    "The list אַתָּה וּבָנֶיךָ וְאִשְׁתְּךָ וּנְשֵׁי־בָנֶיךָ names the eight persons: men before women, as the commentators note.",
+    "The zaqef gadol on אַתָּה begins the list of those who enter."
+   ],
+   "note": "הֲקִמֹתִי אֶת־בְּרִיתִי: the first mention of בְּרִית in the Torah. Ibn Ezra first explains it as God's oath that Noah and his sons would not die in the flood, then says the view nearest his own is that the covenant alludes to the rainbow. Ramban takes the plain sense as a covenant of survival (the commitment to bring them safely through). The English keeps 'covenant' without deciding. Rashi, citing Bereshit Rabbah, takes it as a pledge that the food would not spoil and that the wicked would not harm Noah.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:18:1",
+     "relation": "records",
+     "summary": "Rashi (Bereshit Rabbah): a covenant was needed so that the food would not rot or spoil and that the wicked of the generation would not kill him. A reading of what the covenant covers; the English leaves the content open and records this."
+    },
+    {
+     "anchor": "rashi:6:18:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'the men by themselves and the women by themselves'; from this they were forbidden marital relations in the ark. A homily on the order of the list."
+    },
+    {
+     "anchor": "ibn-ezra:6:18:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: a sign that God had sworn to Noah that he and his sons would not die in the flood, though this was not stated before (compare Deuteronomy 1:22). וַהֲקִמֹתִי means 'I will fulfil my oath'. The view closest to his own is that this covenant alludes to the rainbow. בְּרִית is an agreement chosen by two parties, from בְּרוּ לָכֶם אִישׁ; others take it as a boundary cut."
+    }
+   ],
+   "apparatus": [
+    "Ramban: the plain sense is a covenant of survival: that Noah and his household and two of every kind would live and come out alive.",
+    "Sforno: the covenant is made after the flood (אַחַר הַמַּבּוּל).",
+    "Radak: the covenant that I make with you, that you and all who are with you will be saved from the waters, I will confirm for you."
+   ]
+  },
+  {
+   "ref": "6:19",
+   "english": "And of every living thing, of all flesh, you shall bring two of each into the ark to keep them alive with you; they shall be male and female.",
+   "literal": "and-from-all the-living from-all flesh two from-all you-shall-bring into the-ark to-keep-alive with-you male and-female they-shall-be",
+   "tokens": [
+    {
+     "id": "6:19.1",
+     "gloss": "and of all",
+     "sense": "1",
+     "note": "מִכׇּל 'from all', the partitive"
+    },
+    {
+     "id": "6:19.2",
+     "gloss": "the living",
+     "sense": "1.c",
+     "note": "הָחַי: the article with the singular adjective, as a collective"
+    },
+    {
+     "id": "6:19.3",
+     "gloss": "of all",
+     "sense": "1"
+    },
+    {
+     "id": "6:19.4",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "6:19.5",
+     "gloss": "two",
+     "note": "dual of שְׁנַיִם"
+    },
+    {
+     "id": "6:19.6",
+     "gloss": "of each",
+     "sense": "2.a"
+    },
+    {
+     "id": "6:19.7",
+     "gloss": "you shall bring",
+     "sense": "Hiph 1",
+     "note": "imperfect with the force of a command"
+    },
+    {
+     "id": "6:19.8",
+     "gloss": "into",
+     "sense": "2"
+    },
+    {
+     "id": "6:19.9",
+     "gloss": "the ark"
+    },
+    {
+     "id": "6:19.10",
+     "gloss": "to keep them alive",
+     "sense": "Hiph 1",
+     "note": "infinitive construct; the object is implied"
+    },
+    {
+     "id": "6:19.11",
+     "gloss": "with you",
+     "sense": "1"
+    },
+    {
+     "id": "6:19.12",
+     "gloss": "male",
+     "sense": "I"
+    },
+    {
+     "id": "6:19.13",
+     "gloss": "and female"
+    },
+    {
+     "id": "6:19.14",
+     "gloss": "they shall be",
+     "sense": "Qal III",
+     "note": "imperfect, plural: 'let them be'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:19.1",
+      "6:19.2"
+     ],
+     "english": "And of every living thing",
+     "literal": "'and-from-all the-living'"
+    },
+    {
+     "tokens": [
+      "6:19.3",
+      "6:19.4"
+     ],
+     "english": "of all flesh",
+     "literal": "'from-all flesh'"
+    },
+    {
+     "tokens": [
+      "6:19.5",
+      "6:19.6",
+      "6:19.7",
+      "6:19.8",
+      "6:19.9"
+     ],
+     "english": "you shall bring two of each into the ark",
+     "literal": "'two from-all you-shall-bring into the-ark'"
+    },
+    {
+     "tokens": [
+      "6:19.10",
+      "6:19.11"
+     ],
+     "english": "to keep them alive with you",
+     "literal": "'to-keep-alive with-you'"
+    },
+    {
+     "tokens": [
+      "6:19.12",
+      "6:19.13",
+      "6:19.14"
+     ],
+     "english": "they shall be male and female",
+     "literal": "'male and-female they-shall-be': the English moves the verb forward"
+    }
+   ],
+   "grammar": [
+    "The verse begins with two phrases in a row, וּמִכׇּל־הָחַי מִכׇּל־בָּשָׂר: the general term, and its explanation.",
+    "שְׁנַיִם מִכֹּל 'two from each' is the distributive: two of every kind.",
+    "The verb תָּבִיא is a hifil imperfect: Noah must bring them in; the infinitive לְהַחֲיֹת gives the purpose.",
+    "זָכָר וּנְקֵבָה יִהְיוּ: a plural verb for a pair; the subject is the 'two'.",
+    "The telisha gedola on הָחַי and the gershayim on בָּשָׂר divide the opening phrase."
+   ],
+   "note": "The verb in יִהְיוּ is plural, agreeing with שְׁנַיִם. לְהַחֲיֹת אִתָּךְ: the object is implied: the animals are kept alive with Noah, and the English supplies 'them'.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:19:1",
+     "relation": "not-applicable",
+     "summary": "Rashi (Bereshit Rabbah): 'even demons'. A homily on the scope of 'every living thing'."
+    },
+    {
+     "anchor": "rashi:6:19:2",
+     "relation": "follows",
+     "summary": "Rashi: from the smallest of them, not fewer than two, one male and one female. The English 'two of each'."
+    },
+    {
+     "anchor": "ibn-ezra:6:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: after saying 'two', the text explains that they are male and female. After the general 'of all the living, of all flesh', it lists the particular kinds: birds, cattle, and creeping things of the ground, the last covering the wild animals, small and great, born of male and female. Excluded are all creatures born without the mating of two, and so are the water creatures. The fish too is called 'flesh' (Numbers 11:21–22), so 'all flesh' alone could have included them."
+    },
+    {
+     "anchor": "ibn-ezra:6:19:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: תָּבִיא is a command to Noah not to leave them but to bring them with him, to keep alive the seed of every kind. The English 'you shall bring'."
+    }
+   ],
+   "apparatus": [
+    "Ramban: it is a miracle that the ark held them; it was made large so that people would see it and repent.",
+    "Radak on תָּבִיא: once they come of themselves in front of the ark, Noah brings them in; on לְהַחֲיֹת: Noah provides their food day by day.",
+    "Onkelos: 'two of all you shall bring into the ark, to be kept alive with you; male and female they shall be'."
+   ]
+  },
+  {
+   "ref": "6:20",
+   "english": "Of the birds according to their kind, and of the animals according to their kind, of every creeping thing of the ground according to its kind, two of each will come to you to be kept alive.",
+   "literal": "from-the-bird to-its-kind and-from-the-animal to-its-kind from-all creeping-thing-of the-ground to-its-kind two from-all they-shall-come to-you to-keep-alive",
+   "tokens": [
+    {
+     "id": "6:20.1",
+     "gloss": "of the birds",
+     "sense": "1",
+     "note": "עוֹף: collective singular; מֵ 'from' marks the part taken"
+    },
+    {
+     "id": "6:20.2",
+     "gloss": "according to its kind",
+     "note": "לְמִינֵהוּ: with a masculine singular suffix"
+    },
+    {
+     "id": "6:20.3",
+     "gloss": "and of",
+     "sense": "2"
+    },
+    {
+     "id": "6:20.4",
+     "gloss": "the animals",
+     "note": "הַבְּהֵמָה: the larger beasts; Radak says it includes the wild animals"
+    },
+    {
+     "id": "6:20.5",
+     "gloss": "according to its kind",
+     "note": "feminine singular suffix, agreeing with בְּהֵמָה"
+    },
+    {
+     "id": "6:20.6",
+     "gloss": "of every",
+     "sense": "1"
+    },
+    {
+     "id": "6:20.7",
+     "gloss": "creeping thing of",
+     "note": "רֶמֶשׂ: construct"
+    },
+    {
+     "id": "6:20.8",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "6:20.9",
+     "gloss": "according to its kind"
+    },
+    {
+     "id": "6:20.10",
+     "gloss": "two"
+    },
+    {
+     "id": "6:20.11",
+     "gloss": "of each",
+     "sense": "2.a"
+    },
+    {
+     "id": "6:20.12",
+     "gloss": "will come",
+     "sense": "Qal 2",
+     "note": "imperfect, plural; the subject is 'two'"
+    },
+    {
+     "id": "6:20.13",
+     "gloss": "to you",
+     "sense": "1",
+     "note": "אֵלֶיךָ"
+    },
+    {
+     "id": "6:20.14",
+     "gloss": "to be kept alive",
+     "sense": "Hiph 1",
+     "note": "hifil infinitive construct; read passively in the English: 'that they be kept alive'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:20.1",
+      "6:20.2"
+     ],
+     "english": "Of the birds according to their kind",
+     "literal": "'from-the-bird to-its-kind': collective singular rendered in the plural"
+    },
+    {
+     "tokens": [
+      "6:20.3",
+      "6:20.4",
+      "6:20.5"
+     ],
+     "english": "and of the animals according to their kind",
+     "literal": "'and-from-the-animal to-its-kind'"
+    },
+    {
+     "tokens": [
+      "6:20.6",
+      "6:20.7",
+      "6:20.8",
+      "6:20.9"
+     ],
+     "english": "of every creeping thing of the ground according to its kind",
+     "literal": "'from-all creeping-thing-of the-ground to-its-kind'"
+    },
+    {
+     "tokens": [
+      "6:20.10",
+      "6:20.11",
+      "6:20.12",
+      "6:20.13",
+      "6:20.14"
+     ],
+     "english": "two of each will come to you to be kept alive",
+     "literal": "'two from-all they-shall-come to-you to-keep-alive'"
+    }
+   ],
+   "grammar": [
+    "The three classes are introduced with מִן: birds, animals, creeping things; each takes לְמִינוֹ.",
+    "עוֹף, בְּהֵמָה and רֶמֶשׂ are collectives in the singular; the suffixes of לְמִינֵהוּ and לְמִינָהּ agree with them.",
+    "שְׁנַיִם מִכֹּל יָבֹאוּ אֵלֶיךָ: the verb is now 'come' (qal) where verse 19 had 'bring' (hifil): they come to him.",
+    "The infinitive לְהַחֲיוֹת is hifil: 'to keep alive'.",
+    "The verse picks up the list that verse 19 summarised with the 'all flesh' phrase."
+   ],
+   "note": "The English reads לְהַחֲיוֹת as 'to be kept alive' (the animals are the ones who survive). The hifil is active, 'to preserve life', and the agent could be Noah (as in verse 19, 'with you'); the Hebrew is not explicit. The English gives the plural 'their kind' for the first two phrases and 'its kind' for the third; the Hebrew has the singular suffix each time.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:20:1",
+     "relation": "follows",
+     "summary": "Rashi (Bereshit Rabbah): those that clung to their own kinds and did not corrupt their way came of themselves; and whatever the ark took in he brought in. The English 'will come to you'."
+    },
+    {
+     "anchor": "ibn-ezra:6:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: יָבֹאוּ אֵלֶיךָ means that they will come of themselves, and he will not have to search for them on the islands or hunt every kind of bird; he is to prepare food for all. The English 'will come to you'."
+    }
+   ],
+   "apparatus": [
+    "Ramban: the animals come of themselves two by two, but those taken for sacrifice (seven of each clean kind) Noah took himself.",
+    "Radak: הַבְּהֵמָה includes the wild animals, since the two classes overlap.",
+    "Onkelos: 'from the fowl according to its kind and from the cattle according to its kind and from all the creeping things of the earth according to its kind, two of each will come to you to be kept alive'."
+   ]
+  }
+ ]
+}

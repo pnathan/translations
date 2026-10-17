@@ -1,0 +1,425 @@
+{
+ "unit": "noach-21",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "11:18",
+   "english": "Peleg lived thirty years, and he fathered Reu.",
+   "literal": "and-lived Peleg thirty year and-fathered [object-marker] Reu",
+   "tokens": [
+    {
+     "id": "11:18.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative sequence; 'and he lived'. וַיְחִי is the short (apocopated) form of the III-he verb חָיָה (long imperfect יִחְיֶה), the usual form after wayyiqtol vav."
+    },
+    {
+     "id": "11:18.2",
+     "gloss": "Peleg"
+    },
+    {
+     "id": "11:18.3",
+     "gloss": "thirty"
+    },
+    {
+     "id": "11:18.4",
+     "gloss": "years",
+     "note": "singular after a numeral above ten"
+    },
+    {
+     "id": "11:18.5",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol of ילד: 'he fathered'"
+    },
+    {
+     "id": "11:18.6",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "11:18.7",
+     "gloss": "Reu"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:18.1",
+      "11:18.2",
+      "11:18.3",
+      "11:18.4"
+     ],
+     "english": "Peleg lived thirty years",
+     "literal": "'and-lived Peleg thirty year'"
+    },
+    {
+     "tokens": [
+      "11:18.5"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-fathered'"
+    },
+    {
+     "tokens": [
+      "11:18.6"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "11:18.7"
+     ],
+     "english": "Reu",
+     "literal": "'Reu'"
+    }
+   ],
+   "grammar": [
+    "וַיְחִי and וַיּוֹלֶד are wayyiqtols that carry the genealogy forward.",
+    "The etnaḥta on שָׁנָה divides the age from the birth of the son.",
+    "שָׁנָה is singular after שְׁלֹשִׁים, as Hebrew usually has it with tens."
+   ],
+   "note": "Plain formulaic verse; 'fathered' renders the Hifil of ילד.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:18:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos renders the verse closely: וַחֲיָא פֶלֶג תְּלָתִין שְׁנִין וְאוֹלִיד יָת רְעוּ, the same sense as the English."
+    }
+   ]
+  },
+  {
+   "ref": "11:19",
+   "english": "After he fathered Reu, Peleg lived two hundred nine years, and he fathered sons and daughters.",
+   "literal": "and-lived Peleg after fathering-him [object-marker] Reu nine years and-two-hundreds year and-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "11:19.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative sequence; 'and he lived'"
+    },
+    {
+     "id": "11:19.2",
+     "gloss": "Peleg"
+    },
+    {
+     "id": "11:19.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "11:19.4",
+     "gloss": "his fathering",
+     "sense": "Hiph 1",
+     "note": "Hifil infinitive construct of the I-yod verb יָלַד (originally I-waw, hence הוֹ-), with the 3rd masculine singular suffix as its subject: 'his fathering', i.e. 'after he fathered'."
+    },
+    {
+     "id": "11:19.5",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "11:19.6",
+     "gloss": "Reu"
+    },
+    {
+     "id": "11:19.7",
+     "gloss": "nine"
+    },
+    {
+     "id": "11:19.8",
+     "gloss": "years"
+    },
+    {
+     "id": "11:19.9",
+     "gloss": "and two hundred",
+     "note": "dual of מֵאָה: 'two hundred'"
+    },
+    {
+     "id": "11:19.10",
+     "gloss": "years"
+    },
+    {
+     "id": "11:19.11",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol of ילד: 'he fathered'"
+    },
+    {
+     "id": "11:19.12",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "11:19.13",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:19.1",
+      "11:19.2"
+     ],
+     "english": "Peleg lived",
+     "literal": "'and-lived Peleg'"
+    },
+    {
+     "tokens": [
+      "11:19.3",
+      "11:19.4",
+      "11:19.5",
+      "11:19.6"
+     ],
+     "english": "After he fathered Reu",
+     "literal": "'after fathering-him Reu'"
+    },
+    {
+     "tokens": [
+      "11:19.7",
+      "11:19.8",
+      "11:19.9",
+      "11:19.10"
+     ],
+     "english": "two hundred nine years",
+     "literal": "'nine years and-two-hundred year'; the smaller number comes first"
+    },
+    {
+     "tokens": [
+      "11:19.11",
+      "11:19.12",
+      "11:19.13"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-fathered sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "The verse repeats the opening verb, then gives the time after the birth of Reu in a clause with an infinitive construct and suffix.",
+    "The number is given smaller unit first: 'nine years and two hundred year'. The noun is plural (שָׁנִים) with the unit nine and singular (שָׁנָה) with the hundreds.",
+    "The revia on פֶלֶג and zaqef qaton on רְעוּ mark the stages of the opening clause; the etnaḥta falls after the total.",
+    "The paragraph mark (ס) closes the entry."
+   ],
+   "note": "The English reorders the clause for readability; the Hebrew puts 'Peleg lived' first, then the time after the birth.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:19:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos: וַחֲיָא פֶלֶג בָּתַר דְּאוֹלִיד יָת רְעוּ מָאתָן וּתְשַׁע שְׁנִין, the same sense. The Targum gives the hundreds first (מָאתָן וּתְשַׁע, 'two hundred and nine'), reversing the Hebrew order תֵּשַׁע שָׁנִים וּמָאתַיִם שָׁנָה, as the English does."
+    }
+   ]
+  },
+  {
+   "ref": "11:20",
+   "english": "Reu lived thirty-two years, and he fathered Serug.",
+   "literal": "and-lived Reu two and-thirty year and-fathered [object-marker] Serug",
+   "tokens": [
+    {
+     "id": "11:20.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative sequence; 'and he lived'"
+    },
+    {
+     "id": "11:20.2",
+     "gloss": "Reu"
+    },
+    {
+     "id": "11:20.3",
+     "gloss": "two"
+    },
+    {
+     "id": "11:20.4",
+     "gloss": "and thirty"
+    },
+    {
+     "id": "11:20.5",
+     "gloss": "years"
+    },
+    {
+     "id": "11:20.6",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol of ילד: 'he fathered'"
+    },
+    {
+     "id": "11:20.7",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "11:20.8",
+     "gloss": "Serug"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:20.1",
+      "11:20.2",
+      "11:20.3",
+      "11:20.4",
+      "11:20.5"
+     ],
+     "english": "Reu lived thirty-two years",
+     "literal": "'and-lived Reu two and-thirty year'"
+    },
+    {
+     "tokens": [
+      "11:20.6"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-fathered'"
+    },
+    {
+     "tokens": [
+      "11:20.7"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "11:20.8"
+     ],
+     "english": "Serug",
+     "literal": "'Serug'"
+    }
+   ],
+   "grammar": [
+    "The units come before the tens: 'two and thirty'.",
+    "The zaqef qaton on רְעוּ and the etnaḥta on שָׁנָה divide the verse.",
+    "וַיּוֹלֶד is a Hifil wayyiqtol."
+   ],
+   "note": "Plain formulaic verse.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:20:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos: וַחֲיָא רְעוּ תְּלָתִין וְתַרְתֵּין שְׁנִין וְאוֹלִיד יָת שְׂרוּג, the same sense."
+    }
+   ]
+  },
+  {
+   "ref": "11:21",
+   "english": "After he fathered Serug, Reu lived two hundred seven years, and he fathered sons and daughters.",
+   "literal": "and-lived Reu after fathering-him [object-marker] Serug seven years and-two-hundreds year and-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "11:21.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative sequence; 'and he lived'"
+    },
+    {
+     "id": "11:21.2",
+     "gloss": "Reu"
+    },
+    {
+     "id": "11:21.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "11:21.4",
+     "gloss": "his fathering",
+     "sense": "Hiph 1",
+     "note": "infinitive construct with 3rd masculine singular suffix: 'his fathering'"
+    },
+    {
+     "id": "11:21.5",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "11:21.6",
+     "gloss": "Serug"
+    },
+    {
+     "id": "11:21.7",
+     "gloss": "seven"
+    },
+    {
+     "id": "11:21.8",
+     "gloss": "years"
+    },
+    {
+     "id": "11:21.9",
+     "gloss": "and two hundred",
+     "note": "dual of מֵאָה: 'two hundred'"
+    },
+    {
+     "id": "11:21.10",
+     "gloss": "years"
+    },
+    {
+     "id": "11:21.11",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol of ילד: 'he fathered'"
+    },
+    {
+     "id": "11:21.12",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "11:21.13",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "11:21.1",
+      "11:21.2"
+     ],
+     "english": "Reu lived",
+     "literal": "'and-lived Reu'"
+    },
+    {
+     "tokens": [
+      "11:21.3",
+      "11:21.4",
+      "11:21.5",
+      "11:21.6"
+     ],
+     "english": "After he fathered Serug",
+     "literal": "'after fathering-him Serug'"
+    },
+    {
+     "tokens": [
+      "11:21.7",
+      "11:21.8",
+      "11:21.9",
+      "11:21.10"
+     ],
+     "english": "two hundred seven years",
+     "literal": "'seven years and-two-hundred year'"
+    },
+    {
+     "tokens": [
+      "11:21.11",
+      "11:21.12",
+      "11:21.13"
+     ],
+     "english": "and he fathered sons and daughters",
+     "literal": "'and-fathered sons and-daughters'"
+    }
+   ],
+   "grammar": [
+    "The verse has the same pattern as 11:19.",
+    "The revia on רְעוּ and zaqef qaton on שְׂרוּג divide the opening clause.",
+    "שָׁנָה is feminine, though its plural שָׁנִים has the ending -ים. The numbers three to ten show reverse agreement: the form without ה, here שֶׁבַע, goes with feminine nouns, and the form with ה (שִׁבְעָה) with masculine nouns. So שֶׁבַע is the feminine form, agreeing with שָׁנִים."
+   ],
+   "note": "The English reorders the clause for readability.",
+   "commentary": [
+    {
+     "anchor": "onkelos:11:21:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos: וַחֲיָא רְעוּ בָּתַר דְּאוֹלִיד יָת שְׂרוּג מָאתָן וּשְׁבַע שְׁנִין, the same sense."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1125 @@
+{
+ "unit": "noach-10",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "9:8",
+   "english": "Then God said to Noah and to his sons with him:",
+   "literal": "and-said God to-Noah and-to-sons-of-him with-him to-say",
+   "tokens": [
+    {
+     "id": "9:8.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: narrative past"
+    },
+    {
+     "id": "9:8.2",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "9:8.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "9:8.4",
+     "gloss": "Noah"
+    },
+    {
+     "id": "9:8.5",
+     "gloss": "and to",
+     "sense": "1"
+    },
+    {
+     "id": "9:8.6",
+     "gloss": "his sons",
+     "sense": "1",
+     "note": "construct plural of בֵּן with suffix"
+    },
+    {
+     "id": "9:8.7",
+     "gloss": "with him",
+     "sense": "1",
+     "note": "אִתּוֹ: אֵת 'with' plus suffix"
+    },
+    {
+     "id": "9:8.8",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "לֵאמֹר, infinitive construct, introduces direct speech"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:8.1",
+      "9:8.2"
+     ],
+     "english": "Then God said",
+     "literal": "'and-said God'"
+    },
+    {
+     "tokens": [
+      "9:8.3",
+      "9:8.4"
+     ],
+     "english": "to Noah",
+     "literal": "'to Noah'"
+    },
+    {
+     "tokens": [
+      "9:8.5",
+      "9:8.6",
+      "9:8.7"
+     ],
+     "english": "and to his sons with him",
+     "literal": "'and-to sons-of-him with-him'; the sons are addressed together with Noah"
+    },
+    {
+     "tokens": [
+      "9:8.8"
+     ],
+     "english": "-",
+     "literal": "'to-say': a formula introducing the speech; the colon of the English line carries it"
+    }
+   ],
+   "grammar": [
+    "וַיֹּאמֶר is a wayyiqtol, the narrative tense; the subject אֱלֹהִים follows the verb.",
+    "The pashta on אֱלֹהִים and zaqef on נֹחַ divide the address: God, then Noah, then the sons.",
+    "לֵאמֹר (lamed + infinitive construct) is the standard introduction to quoted speech.",
+    "אִתּוֹ 'with him' is the form of אֵת with a suffix; it is distinct from the object marker אֵת."
+   ],
+   "note": "The English omits לֵאמֹר, rendered by the colon. אֱלֹהִים is plural in form with a singular verb, as always for the God of Israel; 'God' per decisions.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:9:8:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: God spoke to Noah and his sons 'through their father' (על ידי אביהם); some say all four were prophets. The English says only that God spoke to them."
+    },
+    {
+     "anchor": "ramban:9:8:2",
+     "relation": "records",
+     "summary": "Ramban: God spoke by means of their father, since the sons were not prophets and Ham never reached the rank of prophecy. The English does not decide how the sons heard."
+    }
+   ],
+   "apparatus": [
+    "Radak allows that the sons were also prophets, or that Noah was told to tell them."
+   ]
+  },
+  {
+   "ref": "9:9",
+   "english": "As for me, I am establishing my covenant with you and with your offspring after you,",
+   "literal": "and-I behold-me establishing [object-marker] covenant-of-me with-you and-[with] seed-of-you after-you",
+   "tokens": [
+    {
+     "id": "9:9.1",
+     "gloss": "and I",
+     "note": "וַאֲנִי: emphatic independent pronoun with ו"
+    },
+    {
+     "id": "9:9.2",
+     "gloss": "here I am",
+     "note": "הִנְנִי = הִנֵּה + I; with the participle, an imminent or present act"
+    },
+    {
+     "id": "9:9.3",
+     "gloss": "establishing",
+     "sense": "Hiph 6",
+     "note": "hifil participle of קום: 'cause to stand', i.e. confirm"
+    },
+    {
+     "id": "9:9.4",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "9:9.5",
+     "gloss": "my covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "9:9.6",
+     "gloss": "with you",
+     "sense": "1",
+     "note": "אִתְּכֶם, plural"
+    },
+    {
+     "id": "9:9.7",
+     "gloss": "and with",
+     "sense": "1"
+    },
+    {
+     "id": "9:9.8",
+     "gloss": "your offspring",
+     "sense": "4",
+     "note": "זרע, collective singular"
+    },
+    {
+     "id": "9:9.9",
+     "gloss": "after you",
+     "sense": "2.b"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:9.1",
+      "9:9.2",
+      "9:9.3"
+     ],
+     "english": "As for me, I am establishing",
+     "literal": "'and-I behold-me establishing'; the participle makes the act present"
+    },
+    {
+     "tokens": [
+      "9:9.4"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "9:9.5",
+      "9:9.6"
+     ],
+     "english": "my covenant with you",
+     "literal": "'covenant-of-me with-you'"
+    },
+    {
+     "tokens": [
+      "9:9.7",
+      "9:9.8",
+      "9:9.9"
+     ],
+     "english": "and with your offspring after you",
+     "literal": "'and-[with] seed-of-you after-you'"
+    }
+   ],
+   "grammar": [
+    "The independent pronoun וַאֲנִי is emphatic and contrasts God's act with the human task of the preceding verse.",
+    "הִנְנִי מֵקִים: הִנֵּה with a suffix plus a participle presents the act as happening now or about to happen ('I am establishing').",
+    "מֵקִים is a hifil participle of קום; הֵקִים אֶת בְּרִית is the idiom 'to establish a covenant'.",
+    "זֶרַע is a collective singular: 'seed' means all descendants."
+   ],
+   "note": "The 'covenant' is God's one-sided promise, spelled out in 9:11.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:9:1",
+     "relation": "records",
+     "summary": "Rashi: הִנְנִי means 'I agree with you': Noah was anxious about procreation until God promised not to destroy the world again, and God now agrees to confirm the promise with a covenant and give a sign. The English keeps the plain 'here I am establishing'."
+    },
+    {
+     "anchor": "ibn-ezra:9:9:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: in וְאֶת זַרְעֲכֶם, אֶת means 'with' (עם). The third אִתְּכֶם (the second one in 9:10) either refers to those that were with you, or is repeated for added clarity. The covenant God will establish is that no flesh will be cut off."
+    },
+    {
+     "anchor": "radak:9:9:1",
+     "relation": "follows",
+     "summary": "Radak: the ו adds to 'be fruitful and multiply': you attend to populating the world, and I too will ensure it is never cut off."
+    }
+   ]
+  },
+  {
+   "ref": "9:10",
+   "english": "and with every living creature that is with you, among the birds, among the livestock, and among every animal of the earth that is with you, from all that came out of the ark, to every animal of the earth.",
+   "literal": "and-[with] every living-being-of the-living that with-you among-the-bird among-the-beast and-among-every living-thing-of the-earth with-you from-all going-out-of the-ark to-every living-thing-of the-earth",
+   "tokens": [
+    {
+     "id": "9:10.1",
+     "gloss": "and with",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.2",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.3",
+     "gloss": "creature of",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.4",
+     "gloss": "the living",
+     "sense": "1.c"
+    },
+    {
+     "id": "9:10.5",
+     "gloss": "that"
+    },
+    {
+     "id": "9:10.6",
+     "gloss": "with you",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.7",
+     "gloss": "among the birds",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.8",
+     "gloss": "among the livestock",
+     "sense": "3",
+     "note": "בְּהֵמָה: here domestic animals, not the 'wild beasts' of the lexicon's only listed sense"
+    },
+    {
+     "id": "9:10.9",
+     "gloss": "and among every",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.10",
+     "gloss": "animal of",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.11",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "9:10.12",
+     "gloss": "with you",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.13",
+     "gloss": "from all",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.14",
+     "gloss": "that came out of",
+     "sense": "Qal 1",
+     "note": "participle construct plural: 'goers-out of'"
+    },
+    {
+     "id": "9:10.15",
+     "gloss": "the ark"
+    },
+    {
+     "id": "9:10.16",
+     "gloss": "to every",
+     "sense": "1"
+    },
+    {
+     "id": "9:10.17",
+     "gloss": "animal of",
+     "sense": "1.b"
+    },
+    {
+     "id": "9:10.18",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:10.1",
+      "9:10.2",
+      "9:10.3",
+      "9:10.4",
+      "9:10.5",
+      "9:10.6"
+     ],
+     "english": "and with every living creature that is with you",
+     "literal": "'and-[with] every being-of the-living that with-you'"
+    },
+    {
+     "tokens": [
+      "9:10.7",
+      "9:10.8"
+     ],
+     "english": "among the birds, among the livestock",
+     "literal": "'in-the-bird, in-the-beast': the list in apposition"
+    },
+    {
+     "tokens": [
+      "9:10.9",
+      "9:10.10",
+      "9:10.11",
+      "9:10.12"
+     ],
+     "english": "and among every animal of the earth that is with you",
+     "literal": "'and-in-every living-thing-of the-earth with-you'"
+    },
+    {
+     "tokens": [
+      "9:10.13",
+      "9:10.14",
+      "9:10.15"
+     ],
+     "english": "from all that came out of the ark",
+     "literal": "'from-all goers-out-of the-ark'; Rashi: includes creeping and swarming things"
+    },
+    {
+     "tokens": [
+      "9:10.16",
+      "9:10.17",
+      "9:10.18"
+     ],
+     "english": "to every animal of the earth",
+     "literal": "'to-every living-thing-of the-earth'; Rashi: adds harmful beasts not among those with you"
+    }
+   ],
+   "grammar": [
+    "The object marker is absent: וְאֵת is the preposition 'with', continuing the covenant 'with' of 9:9.",
+    "The beth of בָּעוֹף and בַּבְּהֵמָה means 'among' or 'of': birds and livestock specify the living creatures.",
+    "מִכֹּל יֹצְאֵי הַתֵּבָה and לְכֹל חַיַּת הָאָרֶץ extend the list beyond those that are 'with you'; the comments below take them as additions.",
+    "The long verse is divided by etnaḥta after the second אִתְּכֶם, with the final clause set apart as an extension."
+   ],
+   "note": "Rashi reads the two final clauses as including what the first part leaves out; the English follows, keeping the Hebrew's repetition. נֶפֶשׁ הַחַיָּה: 'living creature'.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:10:1",
+     "relation": "follows",
+     "summary": "Rashi: חַיַּת הָאָרֶץ אִתְּכֶם are those that walk about with people, i.e. tame creatures."
+    },
+    {
+     "anchor": "rashi:9:10:2",
+     "relation": "follows",
+     "summary": "Rashi: מִכֹּל יֹצְאֵי הַתֵּבָה comes to include creeping and swarming things (שקצים ורמשים)."
+    },
+    {
+     "anchor": "rashi:9:10:3",
+     "relation": "follows",
+     "summary": "Rashi: the last לְכֹל חַיַּת הָאָרֶץ includes the harmful beasts (המזיקין), which are not among the animals 'with you' because they do not live alongside people."
+    },
+    {
+     "anchor": "radak:9:10:4",
+     "relation": "records",
+     "summary": "Radak: the last clause also brings in the offspring of the animals, as 'your offspring after you' did for humans."
+    }
+   ]
+  },
+  {
+   "ref": "9:11",
+   "english": "I will establish my covenant with you: never again will any flesh be cut off by the waters of the flood, and never again will there be a flood to destroy the earth.",
+   "literal": "and-I-will-establish [obj] covenant-of-me with-you and-not will-be-cut-off all flesh again from-waters-of the-flood and-not will-be again flood to-destroy the-earth",
+   "tokens": [
+    {
+     "id": "9:11.1",
+     "gloss": "and I will establish",
+     "sense": "Hiph 6",
+     "note": "weqatal: future, continuing the promise"
+    },
+    {
+     "id": "9:11.2",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "9:11.3",
+     "gloss": "my covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "9:11.4",
+     "gloss": "with you",
+     "sense": "1"
+    },
+    {
+     "id": "9:11.5",
+     "gloss": "and never"
+    },
+    {
+     "id": "9:11.6",
+     "gloss": "will be cut off",
+     "sense": "Niph 1",
+     "note": "nifal imperfect: passive 'be cut off'"
+    },
+    {
+     "id": "9:11.7",
+     "gloss": "any",
+     "sense": "1",
+     "note": "כָּל under a negative means 'none': Ibn Ezra reads 'no body will be cut off'. Radak reads 'not all flesh', as in the flood."
+    },
+    {
+     "id": "9:11.8",
+     "gloss": "flesh",
+     "sense": "2",
+     "note": "בָּשָׂר: living bodies, human and animal"
+    },
+    {
+     "id": "9:11.9",
+     "gloss": "again"
+    },
+    {
+     "id": "9:11.10",
+     "gloss": "by the waters of",
+     "note": "מִן of cause or source"
+    },
+    {
+     "id": "9:11.11",
+     "gloss": "the flood"
+    },
+    {
+     "id": "9:11.12",
+     "gloss": "and never"
+    },
+    {
+     "id": "9:11.13",
+     "gloss": "will be",
+     "sense": "Qal III",
+     "note": "יִהְיֶה: 'there will be'"
+    },
+    {
+     "id": "9:11.14",
+     "gloss": "again"
+    },
+    {
+     "id": "9:11.15",
+     "gloss": "a flood"
+    },
+    {
+     "id": "9:11.16",
+     "gloss": "to destroy",
+     "sense": "Pi 1",
+     "note": "piel infinitive construct with ל: purpose"
+    },
+    {
+     "id": "9:11.17",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:11.1",
+      "9:11.2",
+      "9:11.3",
+      "9:11.4"
+     ],
+     "english": "I will establish my covenant with you",
+     "literal": "'and-I-will-establish [obj] covenant-of-me with-you'"
+    },
+    {
+     "tokens": [
+      "9:11.5",
+      "9:11.6",
+      "9:11.7",
+      "9:11.8",
+      "9:11.9",
+      "9:11.10",
+      "9:11.11"
+     ],
+     "english": "never again will any flesh be cut off by the waters of the flood",
+     "literal": "'and-not will-be-cut-off all flesh again from-waters-of the-flood'"
+    },
+    {
+     "tokens": [
+      "9:11.12",
+      "9:11.13",
+      "9:11.14",
+      "9:11.15"
+     ],
+     "english": "and never again will there be a flood",
+     "literal": "'and-not will-be again flood'"
+    },
+    {
+     "tokens": [
+      "9:11.16",
+      "9:11.17"
+     ],
+     "english": "to destroy the earth",
+     "literal": "'to-destroy the-earth'"
+    }
+   ],
+   "grammar": [
+    "The promise has two negated clauses: flesh will not be cut off, and no flood will ever again destroy the earth.",
+    "וַהֲקִמֹתִי is a weqatal with future sense, tied to 9:9.",
+    "מִמֵּי הַמַּבּוּל: the min marks the cause or means by which flesh would be cut off.",
+    "לְשַׁחֵת is a piel infinitive construct in a purpose clause: 'a flood meant to destroy'."
+   ],
+   "note": "בָּשָׂר is rendered 'flesh', as the commentators take it as body. The weqatal is rendered as a plain future.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:11:1",
+     "relation": "follows",
+     "summary": "Rashi: 'I will make a fulfilment of my covenant' (קיום); and what is it? The sign of the bow, as Scripture goes on to say."
+    },
+    {
+     "anchor": "ibn-ezra:9:11:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בָּשָׂר means the body, which has sensation; the covenant is that no body be cut off by flood waters, and since some might escape if a flood came, the covenant adds that there will be no flood at all (cf. Isaiah 54:9)."
+    },
+    {
+     "anchor": "radak:9:11:3",
+     "relation": "records",
+     "summary": "Radak: 'all flesh' means in the way of the flood generation; some flesh may still be cut off by a sweeping rain according to punishment."
+    }
+   ]
+  },
+  {
+   "ref": "9:12",
+   "english": "Then God said: This is the sign of the covenant that I am giving between me and you and between every living creature that is with you, for everlasting generations.",
+   "literal": "and-said God this sign-of the-covenant which-I giving between-me and-between-you and-between every being living which with-you for-generations-of eternity",
+   "tokens": [
+    {
+     "id": "9:12.1",
+     "gloss": "and said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "9:12.2",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "9:12.3",
+     "gloss": "this"
+    },
+    {
+     "id": "9:12.4",
+     "gloss": "the sign of",
+     "sense": "3"
+    },
+    {
+     "id": "9:12.5",
+     "gloss": "the covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "9:12.6",
+     "gloss": "that"
+    },
+    {
+     "id": "9:12.7",
+     "gloss": "I"
+    },
+    {
+     "id": "9:12.8",
+     "gloss": "am giving",
+     "sense": "Qal 3",
+     "note": "participle: present, ongoing act; here 'constitute, set'"
+    },
+    {
+     "id": "9:12.9",
+     "gloss": "between me",
+     "sense": "1"
+    },
+    {
+     "id": "9:12.10",
+     "gloss": "and between you",
+     "sense": "1"
+    },
+    {
+     "id": "9:12.11",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "9:12.12",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "9:12.13",
+     "gloss": "creature",
+     "sense": "1"
+    },
+    {
+     "id": "9:12.14",
+     "gloss": "living",
+     "sense": "1.c"
+    },
+    {
+     "id": "9:12.15",
+     "gloss": "that"
+    },
+    {
+     "id": "9:12.16",
+     "gloss": "with you",
+     "sense": "1"
+    },
+    {
+     "id": "9:12.17",
+     "gloss": "for generations of",
+     "sense": "2"
+    },
+    {
+     "id": "9:12.18",
+     "gloss": "everlasting",
+     "note": "עוֹלָם: long duration, 'forever'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:12.1",
+      "9:12.2"
+     ],
+     "english": "Then God said",
+     "literal": "'and-said God'"
+    },
+    {
+     "tokens": [
+      "9:12.3",
+      "9:12.4",
+      "9:12.5"
+     ],
+     "english": "This is the sign of the covenant",
+     "literal": "'this sign-of the-covenant'"
+    },
+    {
+     "tokens": [
+      "9:12.6",
+      "9:12.7",
+      "9:12.8"
+     ],
+     "english": "that I am giving",
+     "literal": "'which I giving'"
+    },
+    {
+     "tokens": [
+      "9:12.9",
+      "9:12.10",
+      "9:12.11"
+     ],
+     "english": "between me and you and between",
+     "literal": "'between-me and-between-you and-between'; בֵּין is repeated before each term"
+    },
+    {
+     "tokens": [
+      "9:12.12",
+      "9:12.13",
+      "9:12.14",
+      "9:12.15",
+      "9:12.16"
+     ],
+     "english": "every living creature that is with you",
+     "literal": "'every being living which with-you'"
+    },
+    {
+     "tokens": [
+      "9:12.17",
+      "9:12.18"
+     ],
+     "english": "for everlasting generations",
+     "literal": "'for-generations-of eternity'"
+    }
+   ],
+   "grammar": [
+    "זֹאת is feminine, while אוֹת is of both genders, as Ibn Ezra notes.",
+    "בֵּין is repeated before each party, as the idiom for 'between X and Y' requires.",
+    "אֲנִי נֹתֵן with a participle states the act in progress.",
+    "לְדֹרֹת is written defectively (without a vav), a point Rashi draws a lesson from."
+   ],
+   "note": "First use of אוֹת in the story. 'Sign' because the commentators' sense is a mark of the covenant.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:12:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: לדרת is written defectively, since some generations needed no sign, being wholly righteous, such as the generation of Hezekiah and of Rabbi Shimon bar Yohai. A homiletic point that does not alter the English."
+    },
+    {
+     "anchor": "ibn-ezra:9:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אוֹת is both masculine and feminine, so זֹאת (feminine) agrees with it."
+    },
+    {
+     "anchor": "radak:9:12:1",
+     "relation": "follows",
+     "summary": "Radak: God explains to Noah and his sons that this is the sign so that they will not fear a flood when he sends rain."
+    }
+   ]
+  },
+  {
+   "ref": "9:13",
+   "english": "I have now set my bow in the cloud, and it will become a sign of a covenant between me and the earth.",
+   "literal": "[obj] bow-of-me I-gave in-the-cloud and-it-will-be for-sign-of covenant between-me and-between the-earth",
+   "tokens": [
+    {
+     "id": "9:13.1",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "9:13.2",
+     "gloss": "my bow",
+     "sense": "2",
+     "note": "קֶשֶׁת: 'bow', here the rainbow"
+    },
+    {
+     "id": "9:13.3",
+     "gloss": "I have set",
+     "sense": "Qal 2",
+     "note": "perfect; 'now' follows Ibn Ezra, a new setting"
+    },
+    {
+     "id": "9:13.4",
+     "gloss": "in the cloud",
+     "sense": "1"
+    },
+    {
+     "id": "9:13.5",
+     "gloss": "and it will become",
+     "sense": "Qal II.2",
+     "note": "weqatal of היה with ל: 'become'"
+    },
+    {
+     "id": "9:13.6",
+     "gloss": "a sign of",
+     "sense": "3"
+    },
+    {
+     "id": "9:13.7",
+     "gloss": "covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "9:13.8",
+     "gloss": "between me",
+     "sense": "1"
+    },
+    {
+     "id": "9:13.9",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "9:13.10",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:13.1",
+      "9:13.2",
+      "9:13.3",
+      "9:13.4"
+     ],
+     "english": "I have now set my bow in the cloud",
+     "literal": "'[obj] bow-of-me I-gave in-the-cloud'; the object comes first for emphasis"
+    },
+    {
+     "tokens": [
+      "9:13.5",
+      "9:13.6",
+      "9:13.7"
+     ],
+     "english": "and it will become a sign of a covenant",
+     "literal": "'and-it-will-be for-sign-of covenant'"
+    },
+    {
+     "tokens": [
+      "9:13.8",
+      "9:13.9",
+      "9:13.10"
+     ],
+     "english": "between me and the earth",
+     "literal": "'between-me and-between the-earth'"
+    }
+   ],
+   "grammar": [
+    "The object אֶת קַשְׁתִּי is placed first for emphasis; נָתַתִּי is a perfect.",
+    "קַשְׁתִּי 'my bow' has the suffix of God, a word picture that the commentators discuss.",
+    "וְהָיְתָה לְ is the idiom 'it shall become'.",
+    "בֵּינִי וּבֵין הָאָרֶץ: the earth, not only the people, is a party; verse 12 had 'every living creature'."
+   ],
+   "note": "The perfect נָתַתִּי is a point on which the commentators divide: Ibn Ezra says the bow is newly set now; Radak records Saadya, for whom it was set in nature at creation and is now made a sign. The English follows Ibn Ezra.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:9:13:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'I have now set a bow in the cloud'; the verse does not mean, as the Gaon said, that it existed at first."
+    },
+    {
+     "anchor": "radak:9:13:5",
+     "relation": "records",
+     "summary": "Radak, reporting Saadya: נָתַתִּי has its plain meaning of the past: the bow set in nature in the cloud will be a sign for you, though it was not seen during the flood."
+    },
+    {
+     "anchor": "radak:9:13:3",
+     "relation": "records",
+     "summary": "Radak: the bow arises from the sun's rays against the cloud after rain; God strengthened the sun's light after the flood, as Ibn Ezra writes in the name of a Gaon."
+    }
+   ],
+   "apparatus": [
+    "Ramban (on 9:12) argues the bow was in nature from creation."
+   ]
+  },
+  {
+   "ref": "9:14",
+   "english": "When I bring clouds over the earth, the bow will appear in the cloud.",
+   "literal": "and-will-be in-my-clouding cloud over the-earth and-will-be-seen the-bow in-the-cloud",
+   "tokens": [
+    {
+     "id": "9:14.1",
+     "gloss": "and it will be",
+     "sense": "Qal I.2.b",
+     "note": "weqatal: 'and when'"
+    },
+    {
+     "id": "9:14.2",
+     "gloss": "when I bring clouds",
+     "note": "בְּעַנְנִי: piel infinitive with suffix, a denominative verb from עָנָן"
+    },
+    {
+     "id": "9:14.3",
+     "gloss": "cloud",
+     "sense": "1",
+     "note": "עָנָן: cognate object, 'cloud a cloud'"
+    },
+    {
+     "id": "9:14.4",
+     "gloss": "over",
+     "sense": "II.5"
+    },
+    {
+     "id": "9:14.5",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "9:14.6",
+     "gloss": "and will appear",
+     "sense": "Niph 1",
+     "note": "nifal weqatal: 'be seen' or 'appear'"
+    },
+    {
+     "id": "9:14.7",
+     "gloss": "the bow",
+     "sense": "2"
+    },
+    {
+     "id": "9:14.8",
+     "gloss": "in the cloud",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:14.1",
+      "9:14.2",
+      "9:14.3",
+      "9:14.4",
+      "9:14.5"
+     ],
+     "english": "When I bring clouds over the earth",
+     "literal": "'and-it-will-be in-my-clouding cloud over the-earth'"
+    },
+    {
+     "tokens": [
+      "9:14.6",
+      "9:14.7",
+      "9:14.8"
+     ],
+     "english": "the bow will appear in the cloud",
+     "literal": "'and-will-be-seen the-bow in-the-cloud'"
+    }
+   ],
+   "grammar": [
+    "וְהָיָה ... וְנִרְאֲתָה: two weqatals; 'and it will be (when) ... and it will be seen'.",
+    "בְּעַנְנִי עָנָן pairs a denominative verb with its cognate noun, which Radak takes as strengthening the action.",
+    "The first nun is light (no dagesh), though the piel calls for one, as Ibn Ezra and Radak note.",
+    "The nifal נִרְאֲתָה with the bow as subject means 'appear' or 'be seen'; Radak adds 'to humans'."
+   ],
+   "note": "The cognate pair is rendered by a plain English plural.",
+   "commentary": [
+    {
+     "anchor": "rashi:9:14:1",
+     "relation": "records",
+     "summary": "Rashi: 'when it comes up in my thought to bring darkness and destruction on the world'; the English keeps the plain sense of clouds."
+    },
+    {
+     "anchor": "ibn-ezra:9:14:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: the first nun of בְּעַנְנִי is light, though it should be doubled, since it belongs to the heavy conjugation (as in בדברי אתך). A grammatical point."
+    },
+    {
+     "anchor": "ibn-ezra:9:14:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: if we believed the Greek sages that the bow arises from the sun's heat, we could say God strengthened the sun's light after the flood. The comment is about the natural cause and does not change the English."
+    },
+    {
+     "anchor": "radak:9:14:1",
+     "relation": "follows",
+     "summary": "Radak: 'I will cloud' by the intermediate causes that I have ordained."
+    }
+   ]
+  },
+  {
+   "ref": "9:15",
+   "english": "I will remember my covenant that is between me and you and between every living creature among all flesh, and never again will the waters become a flood to destroy all flesh.",
+   "literal": "and-I-will-remember [obj] covenant-of-me which between-me and-between-you and-between every being living in-all flesh and-not will-be again the-waters for-flood to-destroy all flesh",
+   "tokens": [
+    {
+     "id": "9:15.1",
+     "gloss": "and I will remember",
+     "sense": "Qal I.1",
+     "note": "weqatal: future"
+    },
+    {
+     "id": "9:15.2",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "9:15.3",
+     "gloss": "my covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "9:15.4",
+     "gloss": "that"
+    },
+    {
+     "id": "9:15.5",
+     "gloss": "between me",
+     "sense": "1"
+    },
+    {
+     "id": "9:15.6",
+     "gloss": "and between you",
+     "sense": "1"
+    },
+    {
+     "id": "9:15.7",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "9:15.8",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "9:15.9",
+     "gloss": "creature",
+     "sense": "1"
+    },
+    {
+     "id": "9:15.10",
+     "gloss": "living",
+     "sense": "1.c"
+    },
+    {
+     "id": "9:15.11",
+     "gloss": "among all",
+     "sense": "1"
+    },
+    {
+     "id": "9:15.12",
+     "gloss": "flesh",
+     "sense": "2"
+    },
+    {
+     "id": "9:15.13",
+     "gloss": "and never"
+    },
+    {
+     "id": "9:15.14",
+     "gloss": "will become",
+     "sense": "Qal II.2",
+     "note": "יִהְיֶה with ל: 'become'; verb singular, subject הַמַּיִם plural in form"
+    },
+    {
+     "id": "9:15.15",
+     "gloss": "again"
+    },
+    {
+     "id": "9:15.16",
+     "gloss": "the waters"
+    },
+    {
+     "id": "9:15.17",
+     "gloss": "a flood",
+     "note": "לְמַבּוּל: ל of result, 'become a flood'"
+    },
+    {
+     "id": "9:15.18",
+     "gloss": "to destroy",
+     "sense": "Pi 1"
+    },
+    {
+     "id": "9:15.19",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "9:15.20",
+     "gloss": "flesh",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "9:15.1",
+      "9:15.2",
+      "9:15.3"
+     ],
+     "english": "I will remember my covenant",
+     "literal": "'and-I-will-remember [obj] covenant-of-me'"
+    },
+    {
+     "tokens": [
+      "9:15.4",
+      "9:15.5",
+      "9:15.6",
+      "9:15.7"
+     ],
+     "english": "that is between me and you and between",
+     "literal": "'which between-me and-between-you and-between'"
+    },
+    {
+     "tokens": [
+      "9:15.8",
+      "9:15.9",
+      "9:15.10",
+      "9:15.11",
+      "9:15.12"
+     ],
+     "english": "every living creature among all flesh",
+     "literal": "'every being living in-all flesh'"
+    },
+    {
+     "tokens": [
+      "9:15.13",
+      "9:15.14",
+      "9:15.15",
+      "9:15.16",
+      "9:15.17"
+     ],
+     "english": "never again will the waters become a flood",
+     "literal": "'and-not will-be again the-waters for-flood'"
+    },
+    {
+     "tokens": [
+      "9:15.18",
+      "9:15.19",
+      "9:15.20"
+     ],
+     "english": "to destroy all flesh",
+     "literal": "'to-destroy all flesh'"
+    }
+   ],
+   "grammar": [
+    "זָכַר of God is anthropomorphic: Radak says Scripture speaks in human language, since there is no forgetting before the throne of glory.",
+    "The verb יִהְיֶה is singular and its subject הַמַּיִם is plural. Ibn Ezra says the singular verb does not prove that מַיִם is singular, since a singular verb can come before a plural subject, as in וַיְהִי אֲנָשִׁים (Numbers 9:6).",
+    "The clause לֹא יִהְיֶה ... לְמַבּוּל: 'the waters will not become a flood'.",
+    "The etnaḥta on the first בָּשָׂר divides the verse: the covenant and its parties, then the promise. In the first half the revia on בְּרִיתִי and the zaqef on וּבֵינֵיכֶם set off the parties."
+   ],
+   "note": "Closes the section by returning to 'flesh' and 'destroy' of 9:11, framing it.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:9:15:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the singular יִהְיֶה with הַמַּיִם is no proof that מַיִם is a singular noun, for a singular verb may stand before a plural subject, as in וַיְהִי אֲנָשִׁים (Numbers 9:6)."
+    },
+    {
+     "anchor": "radak:9:15:1",
+     "relation": "follows",
+     "summary": "Radak: the Torah speaks in human language; there is no forgetfulness before the throne of glory, so 'I will remember' is figurative."
+    }
+   ]
+  }
+ ]
+}

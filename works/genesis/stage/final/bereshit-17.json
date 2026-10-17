@@ -1,0 +1,721 @@
+{
+ "unit": "bereshit-17",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "5:6",
+   "english": "Seth lived one hundred and five years, and he fathered Enosh.",
+   "literal": "and-lived Seth five years and-hundred-of year and-he-fathered ACC-Enosh",
+   "tokens": [
+    {
+     "id": "5:6.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol (narrative past) of חיה"
+    },
+    {
+     "id": "5:6.2",
+     "gloss": "Seth"
+    },
+    {
+     "id": "5:6.3",
+     "gloss": "five"
+    },
+    {
+     "id": "5:6.4",
+     "gloss": "years"
+    },
+    {
+     "id": "5:6.5",
+     "gloss": "and a hundred",
+     "note": "construct form of מֵאָה"
+    },
+    {
+     "id": "5:6.6",
+     "gloss": "year",
+     "note": "singular after a hundred, as is usual with large numbers"
+    },
+    {
+     "id": "5:6.7",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol (narrative past): of the father, 'beget'"
+    },
+    {
+     "id": "5:6.8",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:6.9",
+     "gloss": "Enosh"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:6.1",
+      "5:6.2"
+     ],
+     "english": "Seth lived",
+     "literal": "'and-lived Seth'"
+    },
+    {
+     "tokens": [
+      "5:6.3",
+      "5:6.4",
+      "5:6.5",
+      "5:6.6"
+     ],
+     "english": "one hundred and five years",
+     "literal": "'five years and-a-hundred year'; the smaller number comes first in Hebrew, English reorders"
+    },
+    {
+     "tokens": [
+      "5:6.7"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-he-fathered'"
+    },
+    {
+     "tokens": [
+      "5:6.8"
+     ],
+     "english": "-",
+     "literal": "the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "5:6.9"
+     ],
+     "english": "Enosh",
+     "literal": "'Enosh'"
+    }
+   ],
+   "grammar": [
+    "The age is given smaller number first: חָמֵשׁ שָׁנִים וּמְאַת שָׁנָה, 'five years and a hundred year'.",
+    "וַיּוֹלֶד is Hifil wayyiqtol of ילד: the father 'causes to bear', that is, begets.",
+    "The etnaḥta on שָׁנָה closes the first half, the age; the second half names the son."
+   ],
+   "note": "The Hebrew number order is kept in the literal line; the English line uses normal English order.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:6:1",
+     "relation": "not-applicable",
+     "summary": "Targum Onkelos translates the verse closely (וַחֲיָא שֵׁת מְאָה וַחֲמֵשׁ שְׁנִין וְאוֹלִיד יָת אֱנוֹשׁ); it confirms the plain sense and does not bear on the English wording."
+    }
+   ]
+  },
+  {
+   "ref": "5:7",
+   "english": "After he fathered Enosh, Seth lived eight hundred and seven years, and he fathered sons and daughters.",
+   "literal": "and-lived Seth after his-fathering ACC-Enosh seven years and-eight hundreds year and-he-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "5:7.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol (narrative past) of חיה"
+    },
+    {
+     "id": "5:7.2",
+     "gloss": "Seth"
+    },
+    {
+     "id": "5:7.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "5:7.4",
+     "gloss": "he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil infinitive construct with 3rd masculine singular suffix: 'his fathering', 'after he fathered'"
+    },
+    {
+     "id": "5:7.5",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:7.6",
+     "gloss": "Enosh"
+    },
+    {
+     "id": "5:7.7",
+     "gloss": "seven"
+    },
+    {
+     "id": "5:7.8",
+     "gloss": "years"
+    },
+    {
+     "id": "5:7.9",
+     "gloss": "and eight"
+    },
+    {
+     "id": "5:7.10",
+     "gloss": "hundred",
+     "note": "plural of מֵאָה"
+    },
+    {
+     "id": "5:7.11",
+     "gloss": "year"
+    },
+    {
+     "id": "5:7.12",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol (narrative past)"
+    },
+    {
+     "id": "5:7.13",
+     "gloss": "sons",
+     "sense": "1",
+     "note": "'sons'; with בָּנוֹת the phrase means children of both sexes"
+    },
+    {
+     "id": "5:7.14",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:7.1",
+      "5:7.2"
+     ],
+     "english": "Seth lived",
+     "literal": "'and-lived Seth'"
+    },
+    {
+     "tokens": [
+      "5:7.3",
+      "5:7.4"
+     ],
+     "english": "After he fathered",
+     "literal": "'after his-fathering'; temporal clause from preposition plus infinitive construct"
+    },
+    {
+     "tokens": [
+      "5:7.5"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "5:7.6"
+     ],
+     "english": "Enosh",
+     "literal": "'Enosh'"
+    },
+    {
+     "tokens": [
+      "5:7.7",
+      "5:7.8",
+      "5:7.9",
+      "5:7.10",
+      "5:7.11"
+     ],
+     "english": "eight hundred and seven years",
+     "literal": "'seven years and-eight hundreds year'; smaller number first"
+    },
+    {
+     "tokens": [
+      "5:7.12"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-he-fathered'"
+    },
+    {
+     "tokens": [
+      "5:7.13"
+     ],
+     "english": "sons",
+     "literal": "'sons'"
+    },
+    {
+     "tokens": [
+      "5:7.14"
+     ],
+     "english": "and daughters",
+     "literal": "'and-daughters'"
+    }
+   ],
+   "grammar": [
+    "אַחֲרֵי הוֹלִידוֹ is a preposition with an infinitive construct and suffix: 'after his begetting'.",
+    "The revia on שֵׁת and the zaqef qaton on אֱנוֹשׁ set off the 'after fathering Enosh' clause from the years that follow.",
+    "The etnaḥta on שָׁנָה separates the years lived from the further sons and daughters."
+   ],
+   "note": "The text counts only Seth's years after Enosh's birth: seven plus eight hundred; the total (912) comes in 5:8.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:7:1",
+     "relation": "not-applicable",
+     "summary": "Targum Onkelos translates the verse closely (וַחֲיָא שֵׁת בָּתַר דְּאוֹלִיד יָת אֱנוֹשׁ תַּמְנֵי מְאָה וּשְׁבַע שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן); it confirms the plain sense and does not bear on the English wording."
+    }
+   ]
+  },
+  {
+   "ref": "5:8",
+   "english": "All the days of Seth were nine hundred and twelve years, and he died.",
+   "literal": "and-were all-of days-of Seth two ten year and-nine hundreds year and-he-died",
+   "tokens": [
+    {
+     "id": "5:8.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "Qal wayyiqtol (narrative past), plural, with the plural subject 'days'"
+    },
+    {
+     "id": "5:8.2",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "5:8.3",
+     "gloss": "days of",
+     "sense": "4",
+     "note": "construct plural of יוֹם"
+    },
+    {
+     "id": "5:8.4",
+     "gloss": "Seth"
+    },
+    {
+     "id": "5:8.5",
+     "gloss": "two",
+     "note": "feminine dual of שְׁנַיִם, in the construct-like form שְׁתֵּים with עֶשְׂרֵה"
+    },
+    {
+     "id": "5:8.6",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:8.7",
+     "gloss": "year"
+    },
+    {
+     "id": "5:8.8",
+     "gloss": "and nine"
+    },
+    {
+     "id": "5:8.9",
+     "gloss": "hundred"
+    },
+    {
+     "id": "5:8.10",
+     "gloss": "year"
+    },
+    {
+     "id": "5:8.11",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; closing formula of the genealogy"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:8.1"
+     ],
+     "english": "were",
+     "literal": "'and-were'"
+    },
+    {
+     "tokens": [
+      "5:8.2",
+      "5:8.3",
+      "5:8.4"
+     ],
+     "english": "All the days of Seth",
+     "literal": "'all-of days-of Seth'; construct chain"
+    },
+    {
+     "tokens": [
+      "5:8.5",
+      "5:8.6",
+      "5:8.7",
+      "5:8.8",
+      "5:8.9",
+      "5:8.10"
+     ],
+     "english": "nine hundred and twelve years",
+     "literal": "'two ten year and-nine hundreds year'; smaller number first"
+    },
+    {
+     "tokens": [
+      "5:8.11"
+     ],
+     "english": "and he died",
+     "literal": "'and-he-died'"
+    }
+   ],
+   "grammar": [
+    "כָּל־יְמֵי־שֵׁת is a construct chain: 'all the days of Seth', that is, his whole lifespan.",
+    "The pashta on וַיִּהְיוּ and the zaqef qaton on שֵׁת divide the verse before the numbers.",
+    "וַיָּמֹת is the short wayyiqtol of מות, closing each entry of the chapter.",
+    "The ס after the verse marks a paragraph break."
+   ],
+   "note": "912 is 7 + 800 + 105 (5:6-7): the total of the years in the two verses before.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:8:1",
+     "relation": "not-applicable",
+     "summary": "Targum Onkelos translates the verse closely (וַהֲווֹ כָּל יוֹמֵי שֵׁת תְּשַׁע מְאָה וְתַרְתֵּי עַשְׂרֵי שְׁנִין וּמִית); it confirms the plain sense and does not bear on the English wording."
+    }
+   ]
+  },
+  {
+   "ref": "5:9",
+   "english": "Enosh lived ninety years, and he fathered Kenan.",
+   "literal": "and-lived Enosh ninety year and-he-fathered ACC-Kenan",
+   "tokens": [
+    {
+     "id": "5:9.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol (narrative past) of חיה"
+    },
+    {
+     "id": "5:9.2",
+     "gloss": "Enosh"
+    },
+    {
+     "id": "5:9.3",
+     "gloss": "ninety"
+    },
+    {
+     "id": "5:9.4",
+     "gloss": "year"
+    },
+    {
+     "id": "5:9.5",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol (narrative past)"
+    },
+    {
+     "id": "5:9.6",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:9.7",
+     "gloss": "Kenan",
+     "note": "the pack's lexicon calls him Cainan; here the plain transliteration Kenan"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:9.1",
+      "5:9.2"
+     ],
+     "english": "Enosh lived",
+     "literal": "'and-lived Enosh'"
+    },
+    {
+     "tokens": [
+      "5:9.3",
+      "5:9.4"
+     ],
+     "english": "ninety years",
+     "literal": "'ninety year'"
+    },
+    {
+     "tokens": [
+      "5:9.5"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-he-fathered'"
+    },
+    {
+     "tokens": [
+      "5:9.6"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "5:9.7"
+     ],
+     "english": "Kenan",
+     "literal": "'Kenan'"
+    }
+   ],
+   "grammar": [
+    "תִּשְׁעִים שָׁנָה: after a decade number the noun is singular, 'ninety year'.",
+    "The etnaḥta on שָׁנָה divides the age from the birth of the son.",
+    "וַיּוֹלֶד, Hifil wayyiqtol of ילד, is the verb of begetting."
+   ],
+   "note": "The name קֵינָן is given as Kenan, a plain transliteration without diacritics.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:9:1",
+     "relation": "not-applicable",
+     "summary": "Targum Onkelos translates the verse closely (וַחֲיָא אֱנוֹשׁ תִּשְׁעִין שְׁנִין וְאוֹלִיד יָת קֵינָן); it confirms the plain sense and does not bear on the English wording."
+    }
+   ]
+  },
+  {
+   "ref": "5:10",
+   "english": "After he fathered Kenan, Enosh lived eight hundred and fifteen years, and he fathered sons and daughters.",
+   "literal": "and-lived Enosh after his-fathering ACC-Kenan five ten year and-eight hundreds year and-he-fathered sons and-daughters",
+   "tokens": [
+    {
+     "id": "5:10.1",
+     "gloss": "and lived",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol (narrative past) of חיה"
+    },
+    {
+     "id": "5:10.2",
+     "gloss": "Enosh"
+    },
+    {
+     "id": "5:10.3",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "5:10.4",
+     "gloss": "he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil infinitive construct with 3rd masculine singular suffix: 'his fathering'"
+    },
+    {
+     "id": "5:10.5",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "5:10.6",
+     "gloss": "Kenan"
+    },
+    {
+     "id": "5:10.7",
+     "gloss": "five"
+    },
+    {
+     "id": "5:10.8",
+     "gloss": "ten"
+    },
+    {
+     "id": "5:10.9",
+     "gloss": "year"
+    },
+    {
+     "id": "5:10.10",
+     "gloss": "and eight"
+    },
+    {
+     "id": "5:10.11",
+     "gloss": "hundred"
+    },
+    {
+     "id": "5:10.12",
+     "gloss": "year"
+    },
+    {
+     "id": "5:10.13",
+     "gloss": "and he fathered",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol (narrative past)"
+    },
+    {
+     "id": "5:10.14",
+     "gloss": "sons",
+     "sense": "1"
+    },
+    {
+     "id": "5:10.15",
+     "gloss": "and daughters",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:10.1",
+      "5:10.2"
+     ],
+     "english": "Enosh lived",
+     "literal": "'and-lived Enosh'"
+    },
+    {
+     "tokens": [
+      "5:10.3",
+      "5:10.4"
+     ],
+     "english": "After he fathered",
+     "literal": "'after his-fathering'"
+    },
+    {
+     "tokens": [
+      "5:10.5"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "5:10.6"
+     ],
+     "english": "Kenan",
+     "literal": "'Kenan'"
+    },
+    {
+     "tokens": [
+      "5:10.7",
+      "5:10.8",
+      "5:10.9",
+      "5:10.10",
+      "5:10.11",
+      "5:10.12"
+     ],
+     "english": "eight hundred and fifteen years",
+     "literal": "'five ten year and-eight hundreds year'; smaller number first"
+    },
+    {
+     "tokens": [
+      "5:10.13"
+     ],
+     "english": "and he fathered",
+     "literal": "'and-he-fathered'"
+    },
+    {
+     "tokens": [
+      "5:10.14"
+     ],
+     "english": "sons",
+     "literal": "'sons'"
+    },
+    {
+     "tokens": [
+      "5:10.15"
+     ],
+     "english": "and daughters",
+     "literal": "'and-daughters'"
+    }
+   ],
+   "grammar": [
+    "אַחֲרֵי הוֹלִידוֹ: preposition plus infinitive construct with suffix, 'after his begetting'.",
+    "The revia on אֱנוֹשׁ and the zaqef qaton on קֵינָן set the temporal clause apart from the years.",
+    "חֲמֵשׁ עֶשְׂרֵה is fifteen: the unit comes first, then the ten."
+   ],
+   "note": "Same pattern as 5:7; the years after Kenan's birth, 815, are added to ninety (5:9) in 5:11.",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:10:1",
+     "relation": "not-applicable",
+     "summary": "Targum Onkelos translates the verse closely (וַחֲיָא אֱנוֹשׁ בָּתַר דְאוֹלִיד יָת קֵינָן תַּמְנֵי מְאָה וַחֲמֵשׁ עַשְׂרֵי שְׁנִין וְאוֹלִיד בְּנִין וּבְנָן); it confirms the plain sense and does not bear on the English wording."
+    }
+   ]
+  },
+  {
+   "ref": "5:11",
+   "english": "All the days of Enosh were nine hundred and five years, and he died.",
+   "literal": "and-were all-of days-of Enosh five years and-nine hundreds year and-he-died",
+   "tokens": [
+    {
+     "id": "5:11.1",
+     "gloss": "and were",
+     "sense": "Qal III",
+     "note": "Qal wayyiqtol (narrative past), plural, with the plural subject 'days'"
+    },
+    {
+     "id": "5:11.2",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "5:11.3",
+     "gloss": "days of",
+     "sense": "4",
+     "note": "construct plural of יוֹם"
+    },
+    {
+     "id": "5:11.4",
+     "gloss": "Enosh"
+    },
+    {
+     "id": "5:11.5",
+     "gloss": "five"
+    },
+    {
+     "id": "5:11.6",
+     "gloss": "years"
+    },
+    {
+     "id": "5:11.7",
+     "gloss": "and nine"
+    },
+    {
+     "id": "5:11.8",
+     "gloss": "hundred"
+    },
+    {
+     "id": "5:11.9",
+     "gloss": "year"
+    },
+    {
+     "id": "5:11.10",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol; closing formula"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "5:11.1"
+     ],
+     "english": "were",
+     "literal": "'and-were'"
+    },
+    {
+     "tokens": [
+      "5:11.2",
+      "5:11.3",
+      "5:11.4"
+     ],
+     "english": "All the days of Enosh",
+     "literal": "'all-of days-of Enosh'"
+    },
+    {
+     "tokens": [
+      "5:11.5",
+      "5:11.6",
+      "5:11.7",
+      "5:11.8",
+      "5:11.9"
+     ],
+     "english": "nine hundred and five years",
+     "literal": "'five years and-nine hundreds year'; smaller number first"
+    },
+    {
+     "tokens": [
+      "5:11.10"
+     ],
+     "english": "and he died",
+     "literal": "'and-he-died'"
+    }
+   ],
+   "grammar": [
+    "כָּל־יְמֵי אֱנוֹשׁ: construct chain, 'all the days of Enosh'.",
+    "The pashta on וַיִּהְיוּ and the zaqef qaton on אֱנוֹשׁ divide the verse before the total.",
+    "וַיָּמֹת is the short wayyiqtol of מות; the ס after the verse marks a paragraph break."
+   ],
+   "note": "905 is 90 + 815 (5:9-10).",
+   "commentary": [
+    {
+     "anchor": "onkelos:5:11:1",
+     "relation": "not-applicable",
+     "summary": "Targum Onkelos translates the verse closely (וַהֲווֹ כָּל יוֹמֵי אֱנוֹשׁ תְּשַׁע מְאָה וַחֲמֵשׁ שְׁנִין וּמִית); it confirms the plain sense and does not bear on the English wording."
+    }
+   ]
+  }
+ ]
+}

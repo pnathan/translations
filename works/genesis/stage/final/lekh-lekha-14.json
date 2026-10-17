@@ -1,0 +1,1091 @@
+{
+ "unit": "lekh-lekha-14",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "17:1",
+   "english": "When Abram was ninety-nine years old, the LORD appeared to Abram and said to him, \"I am El Shaddai. Walk before me and be whole.\"",
+   "literal": "and-was Abram son-of ninety year and-nine years and-appeared the-LORD to-Abram and-said to-him I El Shaddai walk before-me and-be whole",
+   "tokens": [
+    {
+     "id": "17:1.1",
+     "gloss": "and was",
+     "sense": "Qal III",
+     "note": "wayyiqtol of היה introducing a circumstance"
+    },
+    {
+     "id": "17:1.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "17:1.3",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "construct: age idiom \"son of N years\""
+    },
+    {
+     "id": "17:1.4",
+     "gloss": "ninety"
+    },
+    {
+     "id": "17:1.5",
+     "gloss": "year"
+    },
+    {
+     "id": "17:1.6",
+     "gloss": "and nine"
+    },
+    {
+     "id": "17:1.7",
+     "gloss": "years"
+    },
+    {
+     "id": "17:1.8",
+     "gloss": "and appeared",
+     "sense": "Niph 1",
+     "note": "Niphal of ראה: \"appeared\", lit. \"was seen\""
+    },
+    {
+     "id": "17:1.9",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "17:1.10",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "17:1.11",
+     "gloss": "Abram"
+    },
+    {
+     "id": "17:1.12",
+     "gloss": "and said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "17:1.13",
+     "gloss": "to him",
+     "sense": "1"
+    },
+    {
+     "id": "17:1.14",
+     "gloss": "I"
+    },
+    {
+     "id": "17:1.15",
+     "gloss": "El",
+     "sense": "4",
+     "note": "divine name"
+    },
+    {
+     "id": "17:1.16",
+     "gloss": "Shaddai",
+     "note": "divine epithet, left untranslated; see note"
+    },
+    {
+     "id": "17:1.17",
+     "gloss": "walk about",
+     "sense": "Hithp",
+     "note": "Hithpael imperative: habitual walking about, a way of life"
+    },
+    {
+     "id": "17:1.18",
+     "gloss": "before me",
+     "sense": "I.6",
+     "note": "לְפָנַי \"before my face\""
+    },
+    {
+     "id": "17:1.19",
+     "gloss": "and be",
+     "sense": "Qal III",
+     "note": "imperative of היה"
+    },
+    {
+     "id": "17:1.20",
+     "gloss": "whole",
+     "sense": "4",
+     "note": "תָּמִים: complete, unblemished"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:1.1",
+      "17:1.2",
+      "17:1.3",
+      "17:1.4",
+      "17:1.5",
+      "17:1.6",
+      "17:1.7"
+     ],
+     "english": "When Abram was ninety-nine years old",
+     "literal": "\"and-was Abram son-of ninety year and-nine years\": age clause, ninety plus nine"
+    },
+    {
+     "tokens": [
+      "17:1.8",
+      "17:1.9",
+      "17:1.10",
+      "17:1.11"
+     ],
+     "english": "the LORD appeared to Abram",
+     "literal": "Niphal \"was seen\"; the vision, not a mere voice"
+    },
+    {
+     "tokens": [
+      "17:1.12",
+      "17:1.13"
+     ],
+     "english": "and said to him",
+     "literal": "wayyiqtol"
+    },
+    {
+     "tokens": [
+      "17:1.14",
+      "17:1.15",
+      "17:1.16"
+     ],
+     "english": "I am El Shaddai",
+     "literal": "nominal clause \"I (am) El Shaddai\"; name kept in transliteration by decision"
+    },
+    {
+     "tokens": [
+      "17:1.17",
+      "17:1.18"
+     ],
+     "english": "Walk before me",
+     "literal": "\"walk-about before-me\": live in my presence"
+    },
+    {
+     "tokens": [
+      "17:1.19",
+      "17:1.20"
+     ],
+     "english": "and be whole",
+     "literal": "\"and-be whole\": second imperative, Rashi: whole in all my trials"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי with a time clause (בֶּן־תִּשְׁעִים שָׁנָה וְתֵשַׁע שָׁנִים) sets the scene: Abram is ninety-nine, thirteen years after 16:16.",
+    "The etnaḥta on שָׁנִים closes the age clause; the verse then divides at זָקֵף קָטָן on שַׁדַּי between the self-introduction and the two commands.",
+    "הִתְהַלֵּךְ is Hithpael imperative: continuous walking to and fro; וֶהְיֵה is a second imperative joined by ו, not a result clause.",
+    "Rashi and Targum Onkelos take הִתְהַלֵּךְ לְפָנַי as \"serve before me\" (פְּלַח קֳדָמַי)."
+   ],
+   "note": "אֵל שַׁדַּי is kept as the name by decision. Rashi derives שַׁדַּי from דַּי \"enough\" (there is sufficiency in my divinity for every creature); Ibn Ezra takes it as an adjectival title meaning \"mighty\"; Ramban and Radak derive it from שׁדד \"overpower\". The English does not choose among these. תמים is rendered \"whole\" (complete, without lack), which covers Rashi's \"whole in all my trials\" and Ibn Ezra's \"do not ask why circumcision\".",
+   "commentary": [
+    {
+     "anchor": "rashi:17:1:1",
+     "relation": "records",
+     "summary": "Rashi: שַׁדַּי means \"I am the one in whose divinity there is enough (דַּי) for every creature\", so walk before me and I will be a god and patron to you; wherever it occurs it means \"his enough\" as the context requires. The English keeps the name untranslated and records this derivation."
+    },
+    {
+     "anchor": "rashi:17:1:2",
+     "relation": "follows",
+     "summary": "Rashi: as Targum פְּלַח קֳדָמַי, cleave to my service. The English \"walk before me\" keeps the idiom, with this sense in the notes."
+    },
+    {
+     "anchor": "rashi:17:1:3",
+     "relation": "follows",
+     "summary": "Rashi: this is another command after a command, be whole in all my trials; by midrash, walk before me in the commandment of circumcision, since while the foreskin is on you you are blemished before me. The English follows the plain sense \"whole\"."
+    },
+    {
+     "anchor": "ibn-ezra:17:1:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: שַׁדַּי is an adjectival title (שם התואר) meaning 'mighty' (תקיף), as in כְּקוֹל שַׁדַּי (Ezekiel 1:24) and Job 22:25; many derive it from שׁוֹדֵד, one who overpowers. The name is mentioned here so that Abram would fear and circumcise himself. The English keeps the name El Shaddai untranslated, as the decisions require, and records this reading."
+    },
+    {
+     "anchor": "ibn-ezra:17:1:2",
+     "relation": "records",
+     "summary": "Ibn Ezra on וֶהְיֵה תָמִים: \"that you not ask why circumcision\". A real alternative that the English \"be whole\" leaves open."
+    }
+   ],
+   "apparatus": [
+    "No variant readings in the pack. MAM writes the divine name with holem (יְהֹוָה); the morphology gives יְהוָה."
+   ]
+  },
+  {
+   "ref": "17:2",
+   "english": "I will set my covenant between me and you, and I will multiply you exceedingly.",
+   "literal": "and-I-will-set my-covenant between-me and-between-you and-I-will-multiply [obj]-you in-muchness muchness",
+   "tokens": [
+    {
+     "id": "17:2.1",
+     "gloss": "and I will set",
+     "sense": "Qal 2",
+     "note": "cohortative with ו; first person resolve or promise"
+    },
+    {
+     "id": "17:2.2",
+     "gloss": "my covenant",
+     "sense": "II.2",
+     "note": "construct with 1st person suffix"
+    },
+    {
+     "id": "17:2.3",
+     "gloss": "between me",
+     "sense": "1"
+    },
+    {
+     "id": "17:2.4",
+     "gloss": "and between you",
+     "sense": "1"
+    },
+    {
+     "id": "17:2.5",
+     "gloss": "and I will multiply",
+     "sense": "Hiph 1",
+     "note": "Hifil of רבה: \"make many\""
+    },
+    {
+     "id": "17:2.6",
+     "gloss": "you",
+     "note": "object marker with 2nd person suffix"
+    },
+    {
+     "id": "17:2.7",
+     "gloss": "exceedingly",
+     "sense": "2",
+     "note": "בִּמְאֹד"
+    },
+    {
+     "id": "17:2.8",
+     "gloss": "very",
+     "sense": "2",
+     "note": "doubling for emphasis"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:2.1",
+      "17:2.2"
+     ],
+     "english": "I will set my covenant",
+     "literal": "\"and-I-will-give/set my-covenant\"; נתן in the sense \"put, establish\""
+    },
+    {
+     "tokens": [
+      "17:2.3",
+      "17:2.4"
+     ],
+     "english": "between me and you",
+     "literal": "\"between-me and-between-you\": בֵּין repeated before each party"
+    },
+    {
+     "tokens": [
+      "17:2.5",
+      "17:2.6"
+     ],
+     "english": "and I will multiply you",
+     "literal": "Hifil cohortative \"make you many\""
+    },
+    {
+     "tokens": [
+      "17:2.7",
+      "17:2.8"
+     ],
+     "english": "exceedingly",
+     "literal": "\"in-muchness muchness\": doubled for intensity, \"very, very much\""
+    }
+   ],
+   "grammar": [
+    "Both verbs are cohortatives (אֶתְּנָה, אַרְבֶּה) and express the speaker's resolve.",
+    "וְאֶתְּנָה follows the two imperatives of verse 1. A ו-cohortative after an imperative often gives the purpose or the consequence ('walk … be whole, and I will set'). Rashi's 'by means of this commandment' reads the covenant as following on the command.",
+    "בֵּין is repeated before each party: בֵּינִי וּבֵינֶךָ.",
+    "בִּמְאֹד מְאֹד doubles מְאֹד for the superlative; Radak says the doubling intensifies the increase."
+   ],
+   "note": "נתן with בְּרִית is rendered \"set\", the sense \"put, establish\"; Targum has \"I will give my covenant\" (אֶתֵּן קְיָמִי).",
+   "commentary": [
+    {
+     "anchor": "rashi:17:2:1",
+     "relation": "follows",
+     "summary": "Rashi: a covenant of love and the covenant of the land, to give it to you by means of this commandment. This bears on what the covenant contains, not on the translation of the words."
+    },
+    {
+     "anchor": "radak:17:2:1",
+     "relation": "follows",
+     "summary": "Radak: do not think that circumcision will weaken your seed; I will multiply you very much, and the doubling of מְאֹד multiplies the multiplying."
+    }
+   ]
+  },
+  {
+   "ref": "17:3",
+   "english": "Abram fell on his face, and God spoke with him, saying:",
+   "literal": "and-fell Abram on his-faces and-spoke with-him God to-say",
+   "tokens": [
+    {
+     "id": "17:3.1",
+     "gloss": "and fell",
+     "sense": "Qal 3.a",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "17:3.2",
+     "gloss": "Abram"
+    },
+    {
+     "id": "17:3.3",
+     "gloss": "on",
+     "sense": "II.1.b"
+    },
+    {
+     "id": "17:3.4",
+     "gloss": "his face",
+     "sense": "I.1",
+     "note": "plural form פָּנִים used of one face"
+    },
+    {
+     "id": "17:3.5",
+     "gloss": "and spoke",
+     "sense": "Pi",
+     "note": "Piel wayyiqtol"
+    },
+    {
+     "id": "17:3.6",
+     "gloss": "with him",
+     "sense": "1",
+     "note": "אִתּוֹ: with, not \"to\""
+    },
+    {
+     "id": "17:3.7",
+     "gloss": "God",
+     "sense": "4"
+    },
+    {
+     "id": "17:3.8",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "לֵאמֹר: infinitive construct introducing speech"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:3.1",
+      "17:3.2",
+      "17:3.3",
+      "17:3.4"
+     ],
+     "english": "Abram fell on his face",
+     "literal": "\"and-fell Abram on his-faces\": prostration in awe or thanks"
+    },
+    {
+     "tokens": [
+      "17:3.5",
+      "17:3.6",
+      "17:3.7",
+      "17:3.8"
+     ],
+     "english": "and God spoke with him, saying",
+     "literal": "\"and-spoke with-him God to-say\": introduces the next speech"
+    }
+   ],
+   "grammar": [
+    "פָּנִים is a plural noun used of one face; עַל־פָּנָיו 'on his face' is the idiom for prostration.",
+    "וַיְדַבֵּר is a Piel wayyiqtol. The Piel is the ordinary stem of דבר 'speak'; it does not mark a conversation as opposed to a command.",
+    "אִתּוֹ is the preposition אֵת 'with' with a suffix, not the object marker.",
+    "The subject is אֱלֹהִים, though verse 1 names יְהוָה as the one who appeared: the speaker is the same.",
+    "לֵאמֹר 'saying' is an infinitive construct with ל and introduces direct speech."
+   ],
+   "note": "Rashi reads the fall as fear of the divine presence; Radak and Sforno as prostration of thanks for the covenant; Ramban as preparing himself for prophecy. The English keeps \"fell on his face\" without choosing.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:3:1",
+     "relation": "records",
+     "summary": "Rashi: from fear of the divine presence; before he was circumcised he had no strength to stand while the holy spirit stood over him. The English keeps the physical action only."
+    },
+    {
+     "anchor": "radak:17:3:1",
+     "relation": "records",
+     "summary": "Radak: he bowed and gave thanks for the covenant God said he would set."
+    },
+    {
+     "anchor": "ramban:17:3:2",
+     "relation": "records",
+     "summary": "Ramban: to focus his mind for prophecy, as in Numbers 16:22."
+    },
+    {
+     "anchor": "sforno:17:3:1",
+     "relation": "records",
+     "summary": "Sforno: to accept and give thanks for the covenant mentioned."
+    }
+   ]
+  },
+  {
+   "ref": "17:4",
+   "english": "As for me, here is my covenant with you: you shall become the father of a multitude of nations.",
+   "literal": "I behold my-covenant with-you and-you-shall-be to-father-of multitude-of nations",
+   "tokens": [
+    {
+     "id": "17:4.1",
+     "gloss": "as for me"
+    },
+    {
+     "id": "17:4.2",
+     "gloss": "here is"
+    },
+    {
+     "id": "17:4.3",
+     "gloss": "my covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "17:4.4",
+     "gloss": "with you",
+     "sense": "1",
+     "note": "parse in the pack gives 2nd person feminine; the form is the masculine pausal אִתָּךְ and the addressee is Abram"
+    },
+    {
+     "id": "17:4.5",
+     "gloss": "and you shall become",
+     "sense": "Qal II.2",
+     "note": "weqatal continuing the promise"
+    },
+    {
+     "id": "17:4.6",
+     "gloss": "to father of",
+     "sense": "4",
+     "note": "לְ before אָב: \"to be father of\"; construct"
+    },
+    {
+     "id": "17:4.7",
+     "gloss": "multitude of",
+     "sense": "3",
+     "note": "construct"
+    },
+    {
+     "id": "17:4.8",
+     "gloss": "nations"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:4.1",
+      "17:4.2",
+      "17:4.3",
+      "17:4.4"
+     ],
+     "english": "As for me, here is my covenant with you",
+     "literal": "\"I, behold, my-covenant with-you\": independent pronoun placed first, zaqef gadol after it"
+    },
+    {
+     "tokens": [
+      "17:4.5",
+      "17:4.6",
+      "17:4.7",
+      "17:4.8"
+     ],
+     "english": "you shall become the father of a multitude of nations",
+     "literal": "\"and-you-shall-be to-father-of multitude-of nations\": weqatal; הֲמוֹן also \"crowd\""
+    }
+   ],
+   "grammar": [
+    "אֲנִי stands first for emphasis, \"as for me\", with הִנֵּה calling attention to the covenant.",
+    "אִתָּךְ ends in pausal -ךְ (qamets under the tav under etnaḥta); this is the masculine pausal form of אִתְּךָ.",
+    "וְהָיִיתָ is weqatal, continuing the promise: \"you shall become\".",
+    "The pairing אַב הֲמוֹן is the explanation of the new name in verse 5."
+   ],
+   "note": "The morphology table labels the suffix of אִתָּךְ as 2nd person feminine. I keep the data but note it as the pausal masculine form (cf. Genesis 17:4 context, addressee Abram). הֲמוֹן is chosen as \"multitude\" (sense 3). Ramban: this is the covenant of circumcision, as the text goes on to say.",
+   "commentary": [
+    {
+     "anchor": "ramban:17:4:1",
+     "relation": "records",
+     "summary": "Ramban: this is the covenant of circumcision, as explained later (\"this is the sign of the covenant\"), and after the covenant you will be father of many nations."
+    },
+    {
+     "anchor": "radak:17:4:1",
+     "relation": "follows",
+     "summary": "Radak: as I said to you El Shaddai, trust what I said; my covenant is with you from now, and you will be father of a multitude of nations, not of one only."
+    }
+   ],
+   "apparatus": [
+    "The pack parses אִתָּךְ as 2nd person feminine; kept as data, flagged in the note."
+   ]
+  },
+  {
+   "ref": "17:5",
+   "english": "No longer shall your name be called Abram; your name shall be Abraham, for I have made you the father of a multitude of nations.",
+   "literal": "and-not will-be-called still [obj] your-name Abram and-will-be your-name Abraham for father-of multitude-of nations I-have-made-you",
+   "tokens": [
+    {
+     "id": "17:5.1",
+     "gloss": "and not",
+     "note": "וְלֹא־"
+    },
+    {
+     "id": "17:5.2",
+     "gloss": "shall be called",
+     "sense": "Niph 2",
+     "note": "Niphal imperfect: \"be called, named\""
+    },
+    {
+     "id": "17:5.3",
+     "gloss": "any more"
+    },
+    {
+     "id": "17:5.4",
+     "gloss": "(object marker)",
+     "note": "object marker, with no English counterpart; Radak: אֶת after a Niphal adds clarity"
+    },
+    {
+     "id": "17:5.5",
+     "gloss": "your name",
+     "sense": "3"
+    },
+    {
+     "id": "17:5.6",
+     "gloss": "Abram"
+    },
+    {
+     "id": "17:5.7",
+     "gloss": "and shall be",
+     "sense": "Qal III",
+     "note": "weqatal"
+    },
+    {
+     "id": "17:5.8",
+     "gloss": "your name",
+     "sense": "3"
+    },
+    {
+     "id": "17:5.9",
+     "gloss": "Abraham",
+     "note": "name explained by the text: \"father of a multitude\""
+    },
+    {
+     "id": "17:5.10",
+     "gloss": "for",
+     "sense": "3"
+    },
+    {
+     "id": "17:5.11",
+     "gloss": "father of",
+     "sense": "4"
+    },
+    {
+     "id": "17:5.12",
+     "gloss": "multitude of",
+     "sense": "3"
+    },
+    {
+     "id": "17:5.13",
+     "gloss": "nations"
+    },
+    {
+     "id": "17:5.14",
+     "gloss": "I have made you",
+     "sense": "Qal 3",
+     "note": "qatal with suffix: \"I have constituted you\""
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:5.1",
+      "17:5.2",
+      "17:5.3",
+      "17:5.4",
+      "17:5.5",
+      "17:5.6"
+     ],
+     "english": "No longer shall your name be called Abram",
+     "literal": "\"and-not will-be-called still [obj] your-name Abram\": Niphal with אֶת, as Radak notes"
+    },
+    {
+     "tokens": [
+      "17:5.7",
+      "17:5.8",
+      "17:5.9"
+     ],
+     "english": "your name shall be Abraham",
+     "literal": "\"and-will-be your-name Abraham\": weqatal, contrast with the former name"
+    },
+    {
+     "tokens": [
+      "17:5.10",
+      "17:5.11",
+      "17:5.12",
+      "17:5.13",
+      "17:5.14"
+     ],
+     "english": "for I have made you the father of a multitude of nations",
+     "literal": "\"for father-of multitude-of nations I-have-given-you\": qatal as a performative, already done"
+    }
+   ],
+   "grammar": [
+    "Niphal יִקָּרֵא governs אֶת־שִׁמְךָ: an object marker after a passive, which Radak compares with יֵחָלֵק אֶת־הָאָרֶץ.",
+    "The explanation of the name is in כִּי אַב־הֲמוֹן גּוֹיִם נְתַתִּיךָ; the wordplay is אַבְרָהָם with אַב הֲמוֹן.",
+    "נְתַתִּיךָ is qatal: God has already established Abraham as father of many nations (Sforno: the name starts today because he is already so).",
+    "The disjunctive tevir on עוֹד and the etnaḥta on אַבְרָם mark the first clause."
+   ],
+   "note": "Per the decisions, the meaning of the name goes in the notes and not in the English line. Rashi reads כִּי אַב הֲמוֹן גּוֹיִם as a notarikon (abbreviation) of the name אַבְרָהָם: the resh, which belonged to the name when he was father only of Aram, was not removed now that he is father of the whole world. Ibn Ezra explains the resh, which אַב הֲמוֹן does not account for, as coming from אַבִּיר: 'mighty one of a multitude of nations'. He also says the change of name does not take a letter away but only adds one, the he.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:5:1",
+     "relation": "records",
+     "summary": "Rashi: כִּי אַב הֲמוֹן גּוֹיִם is a notarikon of the name אַבְרָהָם. The resh, which belonged to the name when he was father only of Aram, his homeland, was not removed now that he is father of the whole world. Even the yod taken from Sarai's name complained before the Shekhinah until it was added to Joshua's name (Numbers 13:16)."
+    },
+    {
+     "anchor": "ibn-ezra:17:5:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: the resh in אַבְרָהָם, which is extra beyond אַב הֲמוֹן, stands for אַבִּיר, so the name means 'mighty one of a multitude of nations'. The change does not take a letter away from his name but only adds one. The English line does not render the name; the gloss gives the text's own explanation, and this reading is recorded in the note."
+    },
+    {
+     "anchor": "ibn-ezra:17:5:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: שָׂרָה is a general title, not like שָׂרַי, and praise to God that he commanded circumcision before Sarah conceived, so that the seed be holy. This bears on 17:15, not on the English of this verse."
+    },
+    {
+     "anchor": "radak:17:5:1",
+     "relation": "follows",
+     "summary": "Radak: אֶת after a Niphal is for added clarity, as in Numbers 26:55; also the Rabbis say a change of name tears up a person's sentence."
+    },
+    {
+     "anchor": "sforno:17:5:1",
+     "relation": "follows",
+     "summary": "Sforno: \"from now\" on."
+    }
+   ]
+  },
+  {
+   "ref": "17:6",
+   "english": "I will make you exceedingly fruitful, and I will make you into nations, and kings shall come forth from you.",
+   "literal": "and-I-will-make-fruitful [obj]-you in-muchness muchness and-I-will-make-you to-nations and-kings from-you will-go-out",
+   "tokens": [
+    {
+     "id": "17:6.1",
+     "gloss": "and I will make fruitful",
+     "sense": "Hiph 2",
+     "note": "Hifil weqatal"
+    },
+    {
+     "id": "17:6.2",
+     "gloss": "you",
+     "note": "object marker with suffix"
+    },
+    {
+     "id": "17:6.3",
+     "gloss": "exceedingly",
+     "sense": "2"
+    },
+    {
+     "id": "17:6.4",
+     "gloss": "very",
+     "sense": "2"
+    },
+    {
+     "id": "17:6.5",
+     "gloss": "and I will make you",
+     "sense": "Qal 3",
+     "note": "weqatal with suffix"
+    },
+    {
+     "id": "17:6.6",
+     "gloss": "into nations",
+     "note": "לְ marking the result: \"into nations\""
+    },
+    {
+     "id": "17:6.7",
+     "gloss": "and kings"
+    },
+    {
+     "id": "17:6.8",
+     "gloss": "from you",
+     "sense": "2"
+    },
+    {
+     "id": "17:6.9",
+     "gloss": "shall come forth",
+     "sense": "Qal 1",
+     "note": "imperfect plural"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:6.1",
+      "17:6.2",
+      "17:6.3",
+      "17:6.4"
+     ],
+     "english": "I will make you exceedingly fruitful",
+     "literal": "\"and-I-will-make-fruitful you in-muchness muchness\": Hifil of פרה"
+    },
+    {
+     "tokens": [
+      "17:6.5",
+      "17:6.6"
+     ],
+     "english": "and I will make you into nations",
+     "literal": "\"and-I-will-give-you to-nations\": ל marks the nations as what he becomes"
+    },
+    {
+     "tokens": [
+      "17:6.7",
+      "17:6.8",
+      "17:6.9"
+     ],
+     "english": "and kings shall come forth from you",
+     "literal": "\"and-kings from-you will-go-out\": kings are the subject"
+    }
+   ],
+   "grammar": [
+    "The Hifil of פרה is \"make fruitful\"; it echoes 1:28 and 9:1.",
+    "וּנְתַתִּיךָ לְגוֹיִם: נתן with ל \"make into\", a weqatal continuing the promise.",
+    "In וּמְלָכִים מִמְּךָ יֵצֵאוּ the plural subject comes first, which gives the kings emphasis."
+   ],
+   "note": "Rashi: \"nations\" are Israel and Edom, since Ishmael already existed and was not being announced; Ramban rejects this, since Esau did not keep circumcision, and says Israel alone are called goyim and amim; Radak: Isaac, Ishmael and the sons of Keturah, or Jacob's seed alone. The English keeps \"nations\".",
+   "commentary": [
+    {
+     "anchor": "rashi:17:6:1",
+     "relation": "records",
+     "summary": "Rashi: \"nations\" means Israel and Edom, because Ishmael already existed and was not being announced. The English keeps the plain \"nations\" and leaves the identification open."
+    }
+   ]
+  },
+  {
+   "ref": "17:7",
+   "english": "I will establish my covenant between me and you and between your offspring after you, throughout their generations, as an everlasting covenant, to be God to you and to your offspring after you.",
+   "literal": "and-I-will-establish [obj] my-covenant between-me and-between-you and-between your-seed after-you to-their-generations for-covenant-of forever to-be to-you for-God and-to-your-seed after-you",
+   "tokens": [
+    {
+     "id": "17:7.1",
+     "gloss": "and I will establish",
+     "sense": "Hiph 6",
+     "note": "Hifil weqatal of קום: \"make stand, set up\""
+    },
+    {
+     "id": "17:7.2",
+     "gloss": "(object marker)",
+     "note": "object marker, no English counterpart"
+    },
+    {
+     "id": "17:7.3",
+     "gloss": "my covenant",
+     "sense": "II.2"
+    },
+    {
+     "id": "17:7.4",
+     "gloss": "between me",
+     "sense": "1"
+    },
+    {
+     "id": "17:7.5",
+     "gloss": "and between you",
+     "sense": "1"
+    },
+    {
+     "id": "17:7.6",
+     "gloss": "and between",
+     "sense": "1"
+    },
+    {
+     "id": "17:7.7",
+     "gloss": "your offspring",
+     "sense": "4",
+     "note": "\"seed\"; singular collective"
+    },
+    {
+     "id": "17:7.8",
+     "gloss": "after you",
+     "sense": "2.b"
+    },
+    {
+     "id": "17:7.9",
+     "gloss": "throughout their generations",
+     "sense": "1",
+     "note": "לְדֹרֹתָם: \"to their generations\""
+    },
+    {
+     "id": "17:7.10",
+     "gloss": "as a covenant",
+     "sense": "II.2",
+     "note": "construct"
+    },
+    {
+     "id": "17:7.11",
+     "gloss": "everlasting",
+     "note": "עוֹלָם: \"long duration, forever\""
+    },
+    {
+     "id": "17:7.12",
+     "gloss": "to be",
+     "sense": "Qal III",
+     "note": "infinitive construct"
+    },
+    {
+     "id": "17:7.13",
+     "gloss": "to you"
+    },
+    {
+     "id": "17:7.14",
+     "gloss": "God",
+     "sense": "4"
+    },
+    {
+     "id": "17:7.15",
+     "gloss": "and to your offspring",
+     "sense": "4"
+    },
+    {
+     "id": "17:7.16",
+     "gloss": "after you",
+     "sense": "2.b"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:7.1",
+      "17:7.2",
+      "17:7.3"
+     ],
+     "english": "I will establish my covenant",
+     "literal": "\"and-I-will-cause-to-stand [obj] my-covenant\": Hifil of קום"
+    },
+    {
+     "tokens": [
+      "17:7.4",
+      "17:7.5"
+     ],
+     "english": "between me and you",
+     "literal": "\"between-me and-between-you\""
+    },
+    {
+     "tokens": [
+      "17:7.6",
+      "17:7.7",
+      "17:7.8"
+     ],
+     "english": "and between your offspring after you",
+     "literal": "\"and-between your-seed after-you\": זֶרַע a collective"
+    },
+    {
+     "tokens": [
+      "17:7.9"
+     ],
+     "english": "throughout their generations",
+     "literal": "\"to-their-generations\": their refers to the offspring"
+    },
+    {
+     "tokens": [
+      "17:7.10",
+      "17:7.11"
+     ],
+     "english": "as an everlasting covenant",
+     "literal": "\"for-covenant-of forever\": construct chain with ל \"as\""
+    },
+    {
+     "tokens": [
+      "17:7.12",
+      "17:7.13",
+      "17:7.14"
+     ],
+     "english": "to be God to you",
+     "literal": "\"to-be to-you for-God\": ל marking what he will be"
+    },
+    {
+     "tokens": [
+      "17:7.15",
+      "17:7.16"
+     ],
+     "english": "and to your offspring after you",
+     "literal": "\"and-to-your-seed after-you\""
+    }
+   ],
+   "grammar": [
+    "הֲקִמֹתִי is Hifil of קום: \"set up, make stand\", the verb for fulfilling an existing covenant.",
+    "The long string with לִבְרִית עוֹלָם and the infinitive לִהְיוֹת states the content of the covenant; Rashi: and what is the covenant? to be God to you.",
+    "זֶרַע is a collective singular; לְדֹרֹתָם has a plural suffix for it.",
+    "The accents (revia on וּבֵינֶךָ, zaqef qaton on לֵאלֹהִים) mark off the parties and then the content of the covenant."
+   ],
+   "note": "Radak applies the covenant to the seed of Jacob; the English keeps \"your offspring after you\" for זַרְעֲךָ אַחֲרֶיךָ. Sforno: to bind my name to you without an intermediary.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:7:1",
+     "relation": "follows",
+     "summary": "Rashi: and what is the covenant? To be God to you. The English places \"to be God to you\" as the content of the covenant."
+    },
+    {
+     "anchor": "radak:17:7:1",
+     "relation": "records",
+     "summary": "Radak: this refers to the seed of Jacob, as he said elsewhere. The English keeps the wider \"your offspring\"."
+    },
+    {
+     "anchor": "radak:17:7:2",
+     "relation": "records",
+     "summary": "Radak: for the seed of Jacob this is \"I will be God to you and you shall be a people to me\" (Leviticus 26:12)."
+    },
+    {
+     "anchor": "sforno:17:7:1",
+     "relation": "records",
+     "summary": "Sforno: to unite my name upon you directly, as on all eternal things; through keeping the covenant he and his seed will be eternal."
+    }
+   ]
+  },
+  {
+   "ref": "17:8",
+   "english": "I will give to you and to your offspring after you the land of your sojournings, all the land of Canaan, as an everlasting possession, and I will be their God.",
+   "literal": "and-I-will-give to-you and-to-your-seed after-you [obj] land-of your-sojournings [obj] all-land-of Canaan as-possession-of forever and-I-will-be to-them for-God",
+   "tokens": [
+    {
+     "id": "17:8.1",
+     "gloss": "and I will give",
+     "sense": "Qal 1",
+     "note": "weqatal"
+    },
+    {
+     "id": "17:8.2",
+     "gloss": "to you"
+    },
+    {
+     "id": "17:8.3",
+     "gloss": "and to your offspring",
+     "sense": "4"
+    },
+    {
+     "id": "17:8.4",
+     "gloss": "after you",
+     "sense": "2.b"
+    },
+    {
+     "id": "17:8.5",
+     "gloss": "(object marker)",
+     "note": "object marker, no English counterpart"
+    },
+    {
+     "id": "17:8.6",
+     "gloss": "the land of",
+     "sense": "2"
+    },
+    {
+     "id": "17:8.7",
+     "gloss": "your sojournings",
+     "note": "מְגֻרֶיךָ: the places where you have sojourned, plural"
+    },
+    {
+     "id": "17:8.8",
+     "gloss": "(object marker)",
+     "note": "second object marker, with the apposition \"all the land of Canaan\""
+    },
+    {
+     "id": "17:8.9",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "17:8.10",
+     "gloss": "land of",
+     "sense": "2.e"
+    },
+    {
+     "id": "17:8.11",
+     "gloss": "Canaan"
+    },
+    {
+     "id": "17:8.12",
+     "gloss": "as a possession of",
+     "note": "לַאֲחֻזַּת: construct, \"as a holding\""
+    },
+    {
+     "id": "17:8.13",
+     "gloss": "everlasting"
+    },
+    {
+     "id": "17:8.14",
+     "gloss": "and I will be",
+     "sense": "Qal III",
+     "note": "weqatal"
+    },
+    {
+     "id": "17:8.15",
+     "gloss": "to them"
+    },
+    {
+     "id": "17:8.16",
+     "gloss": "God",
+     "sense": "4"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:8.1",
+      "17:8.2",
+      "17:8.3",
+      "17:8.4"
+     ],
+     "english": "I will give to you and to your offspring after you",
+     "literal": "\"and-I-will-give to-you and-to-your-seed after-you\""
+    },
+    {
+     "tokens": [
+      "17:8.5",
+      "17:8.6",
+      "17:8.7"
+     ],
+     "english": "the land of your sojournings",
+     "literal": "\"[obj] land-of your-sojournings\": the land where Abraham has lived as a resident alien"
+    },
+    {
+     "tokens": [
+      "17:8.8",
+      "17:8.9",
+      "17:8.10",
+      "17:8.11"
+     ],
+     "english": "all the land of Canaan",
+     "literal": "\"[obj] all-land-of Canaan\": in apposition to the land of sojournings"
+    },
+    {
+     "tokens": [
+      "17:8.12",
+      "17:8.13"
+     ],
+     "english": "as an everlasting possession",
+     "literal": "\"for-possession-of forever\""
+    },
+    {
+     "tokens": [
+      "17:8.14",
+      "17:8.15",
+      "17:8.16"
+     ],
+     "english": "and I will be their God",
+     "literal": "\"and-I-will-be to-them for-God\": completes the covenant formula of verse 7"
+    }
+   ],
+   "grammar": [
+    "The verse has two objects, each marked by אֵת: אֶרֶץ מְגֻרֶיךָ and כָּל־אֶרֶץ כְּנַעַן. The second is in apposition and widens the first. Radak: not only the places where you sojourn but all the land of Canaan.",
+    "מְגֻרֶיךָ is plural, 'your sojournings': the places where Abraham has lived as a גֵּר, a resident alien.",
+    "לְךָ carries telisha gedola, a disjunctive accent written on the first letter of the word and repeated here on the stressed syllable. It marks a minor pause, not emphasis. The geresh on אַחֲרֶיךָ, the revia on מְגֻרֶיךָ and the etnaḥta on עוֹלָם divide the recipients, the land and the term.",
+    "וְהָיִיתִי לָהֶם לֵאלֹהִים repeats the formula of verse 7 (לִהְיוֹת לְךָ לֵאלֹהִים), now with the plural 'to them'."
+   ],
+   "note": "Rashi: there I will be your God; one who lives outside the land is like one who has no God (a homily). Radak: even if they go into exile, the possession is everlasting and they will return. Sforno: so that you can do my will in it.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:8:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: and there I will be God to you; one who lives outside the land is as one who has no God. This is a homily on the second clause and does not change the plain sense."
+    },
+    {
+     "anchor": "radak:17:8:3",
+     "relation": "records",
+     "summary": "Radak: even though they will be exiled for a time, the land is an everlasting possession and they will return to it."
+    },
+    {
+     "anchor": "sforno:17:8:1",
+     "relation": "records",
+     "summary": "Sforno: \"to you\" completes the clause; I will be God to you."
+    },
+    {
+     "anchor": "sforno:17:8:2",
+     "relation": "records",
+     "summary": "Sforno: so that you can do my will in the land, as in Psalm 105:44-45."
+    }
+   ]
+  }
+ ]
+}

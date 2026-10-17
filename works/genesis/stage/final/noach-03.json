@@ -1,0 +1,1192 @@
+{
+ "unit": "noach-03",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "6:21",
+   "english": "As for you, take for yourself some of every kind of food that is eaten, and gather it to yourself, so that it will be food for you and for them.",
+   "literal": "and-you take-(imperative) to-you from-all-of food that is-eaten and-you-shall-gather to-you and-it-shall-be to-you and-to-them for-food",
+   "tokens": [
+    {
+     "id": "6:21.1",
+     "gloss": "and you (emphatic)"
+    },
+    {
+     "id": "6:21.2",
+     "gloss": "take",
+     "sense": "Qal 1",
+     "note": "imperative; the maqqef joins it to the next word"
+    },
+    {
+     "id": "6:21.3",
+     "gloss": "for yourself"
+    },
+    {
+     "id": "6:21.4",
+     "gloss": "from every"
+    },
+    {
+     "id": "6:21.5",
+     "gloss": "food"
+    },
+    {
+     "id": "6:21.6",
+     "gloss": "that"
+    },
+    {
+     "id": "6:21.7",
+     "gloss": "is eaten",
+     "sense": "Niph 1",
+     "note": "Niphal yiqtol: 'is (customarily) eaten'"
+    },
+    {
+     "id": "6:21.8",
+     "gloss": "and gather",
+     "sense": "Qal 1",
+     "note": "weqatal after an imperative: a sequential command"
+    },
+    {
+     "id": "6:21.9",
+     "gloss": "to yourself"
+    },
+    {
+     "id": "6:21.10",
+     "gloss": "and it shall be",
+     "sense": "Qal II.2",
+     "note": "weqatal; 'become, serve as'"
+    },
+    {
+     "id": "6:21.11",
+     "gloss": "for you"
+    },
+    {
+     "id": "6:21.12",
+     "gloss": "and for them"
+    },
+    {
+     "id": "6:21.13",
+     "gloss": "for food",
+     "note": "noun with ל: 'for food, as food'. The entry's sense 'food' is not among the senses the pack lists, so no sense path is given."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:21.1"
+     ],
+     "english": "As for you",
+     "literal": "'and-you': the fronted independent pronoun sets Noah against the doomed world"
+    },
+    {
+     "tokens": [
+      "6:21.2",
+      "6:21.3"
+     ],
+     "english": "take for yourself",
+     "literal": "'take-to-you': ethical dative לְךָ"
+    },
+    {
+     "tokens": [
+      "6:21.4",
+      "6:21.5"
+     ],
+     "english": "some of every kind of food",
+     "literal": "'from-all-of food': partitive מִן, 'some of every food'"
+    },
+    {
+     "tokens": [
+      "6:21.6",
+      "6:21.7"
+     ],
+     "english": "that is eaten",
+     "literal": "'which is-eaten', Niphal"
+    },
+    {
+     "tokens": [
+      "6:21.8",
+      "6:21.9"
+     ],
+     "english": "and gather it to yourself",
+     "literal": "'and-you-shall-gather to-you'; the object is the food, implied"
+    },
+    {
+     "tokens": [
+      "6:21.10",
+      "6:21.11",
+      "6:21.12",
+      "6:21.13"
+     ],
+     "english": "so that it will be food for you and for them",
+     "literal": "'and-it-shall-be to-you and-to-them for-food'; the weqatal gives purpose or result"
+    }
+   ],
+   "grammar": [
+    "וְאַתָּה begins with an independent pronoun, which contrasts Noah with everyone else.",
+    "קַח is an imperative; וְאָסַפְתָּ is a weqatal continuing the command.",
+    "The etnaḥta on אֵלֶיךָ divides the verse: the gathering, then the purpose.",
+    "לְאָכְלָה is a feminine noun 'food' with prefixed ל, giving 'as food'."
+   ],
+   "note": "The 'them' of the last clause are the animals of 6:19-20. Radak says even the predators ate the same plant foods and no meat, as at the beginning of creation.",
+   "commentary": [
+    {
+     "anchor": "radak:6:21:1",
+     "relation": "follows",
+     "summary": "Radak: since the animals come to Noah to be kept alive, he must prepare food for himself and for them; the food is fruits, seeds and plants, and even predators eat them."
+    },
+    {
+     "anchor": "sforno:6:21:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: now take various foods for the various kinds; it adds detail, not a different reading."
+    },
+    {
+     "anchor": "onkelos:6:21:1",
+     "relation": "follows",
+     "summary": "Onkelos renders the verse closely: 'take for yourself of all food that is eaten and gather it to you, and it shall be for you and for them to eat'."
+    }
+   ]
+  },
+  {
+   "ref": "6:22",
+   "english": "Noah did according to all that God had commanded him; so he did.",
+   "literal": "and-did Noah like-all that commanded him God so he-did",
+   "tokens": [
+    {
+     "id": "6:22.1",
+     "gloss": "and did",
+     "sense": "Qal I.3",
+     "note": "wayyiqtol, narrative 'and he did'"
+    },
+    {
+     "id": "6:22.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "6:22.3",
+     "gloss": "according to all",
+     "sense": "2.a"
+    },
+    {
+     "id": "6:22.4",
+     "gloss": "that"
+    },
+    {
+     "id": "6:22.5",
+     "gloss": "commanded",
+     "note": "Piel perfect"
+    },
+    {
+     "id": "6:22.6",
+     "gloss": "him",
+     "note": "object marker with suffix: 'him'"
+    },
+    {
+     "id": "6:22.7",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "6:22.8",
+     "gloss": "so"
+    },
+    {
+     "id": "6:22.9",
+     "gloss": "he did",
+     "sense": "Qal I.3",
+     "note": "qatal, a closing summary"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "6:22.1",
+      "6:22.2"
+     ],
+     "english": "Noah did",
+     "literal": "'and-did Noah': the report of obedience"
+    },
+    {
+     "tokens": [
+      "6:22.3",
+      "6:22.4",
+      "6:22.5",
+      "6:22.6",
+      "6:22.7"
+     ],
+     "english": "according to all that God had commanded him",
+     "literal": "'like-all that commanded him God'"
+    },
+    {
+     "tokens": [
+      "6:22.8",
+      "6:22.9"
+     ],
+     "english": "so he did",
+     "literal": "'so he-did': repeats the verb as a summary"
+    }
+   ],
+   "grammar": [
+    "The wayyiqtol וַיַּעַשׂ narrates; the closing כֵּן עָשָׂה is a qatal that sums up.",
+    "The etnaḥta on נֹחַ divides the report 'Noah did' from its measure, 'according to all that God commanded him'.",
+    "The telisha gedola on כְּכֹל is a disjunctive accent of low rank. It is prepositive, written on the first letter of the word, and is written again on the stressed syllable.",
+    "אֹתוֹ is the object marker with a 3rd masculine singular suffix: 'him'.",
+    "Obedience is stated twice, in וַיַּעַשׂ נֹחַ and in כֵּן עָשָׂה, around the clause כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים."
+   ],
+   "note": "The English keeps the Hebrew order, with 'so he did' at the end. Ramban: the double statement, 'Noah did' and 'so he did', shows that he left out nothing of all he was commanded. Rashi takes the doing as the building of the ark; Ramban and Radak include the gathering of the food.",
+   "commentary": [
+    {
+     "anchor": "rashi:6:22:1",
+     "relation": "follows",
+     "summary": "Rashi: 'this is the building of the ark': the making that Noah did is the construction of the ark."
+    },
+    {
+     "anchor": "ramban:6:22:1",
+     "relation": "records",
+     "summary": "Ramban: Noah both built the ark and gathered the food; the repetition 'so he did' shows he omitted nothing."
+    },
+    {
+     "anchor": "radak:6:22:1",
+     "relation": "records",
+     "summary": "Radak: he made the ark exactly as commanded, in length, width, height, nests, and the food he put in it."
+    },
+    {
+     "anchor": "onkelos:6:22:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and Noah did according to all that the LORD commanded him; so he did'."
+    }
+   ],
+   "apparatus": [
+    "Onkelos has יְיָ ('the LORD') for אֱלֹהִים; this is Targum Onkelos's rendering, not a variant of the Hebrew."
+   ]
+  },
+  {
+   "ref": "7:1",
+   "english": "Then the LORD said to Noah: Come, you and all your household, into the ark, for I have seen that you are righteous before me in this generation.",
+   "literal": "and-said the-LORD to-Noah come-(imperative) you and-all-of house-your to the-ark for you-(object) I-saw righteous before-me in-the-generation the-this",
+   "tokens": [
+    {
+     "id": "7:1.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "7:1.2",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "7:1.3",
+     "gloss": "to Noah"
+    },
+    {
+     "id": "7:1.4",
+     "gloss": "come",
+     "sense": "Qal 1",
+     "note": "imperative of בוא; a weak (hollow) root"
+    },
+    {
+     "id": "7:1.5",
+     "gloss": "you"
+    },
+    {
+     "id": "7:1.6",
+     "gloss": "and all of",
+     "sense": "1"
+    },
+    {
+     "id": "7:1.7",
+     "gloss": "your household",
+     "sense": "5",
+     "note": "construct with suffix: 'house of you'"
+    },
+    {
+     "id": "7:1.8",
+     "gloss": "into"
+    },
+    {
+     "id": "7:1.9",
+     "gloss": "the ark"
+    },
+    {
+     "id": "7:1.10",
+     "gloss": "for"
+    },
+    {
+     "id": "7:1.11",
+     "gloss": "you (emphatic object)",
+     "note": "the object marker with suffix is placed first for emphasis"
+    },
+    {
+     "id": "7:1.12",
+     "gloss": "I have seen",
+     "sense": "Qal 1.a"
+    },
+    {
+     "id": "7:1.13",
+     "gloss": "righteous"
+    },
+    {
+     "id": "7:1.14",
+     "gloss": "before me",
+     "sense": "I.6",
+     "note": "'to my face'"
+    },
+    {
+     "id": "7:1.15",
+     "gloss": "in the generation",
+     "sense": "1"
+    },
+    {
+     "id": "7:1.16",
+     "gloss": "this"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:1.1",
+      "7:1.2",
+      "7:1.3"
+     ],
+     "english": "Then the LORD said to Noah",
+     "literal": "'and-said the-LORD to-Noah'"
+    },
+    {
+     "tokens": [
+      "7:1.4",
+      "7:1.5",
+      "7:1.6",
+      "7:1.7",
+      "7:1.8",
+      "7:1.9"
+     ],
+     "english": "Come, you and all your household, into the ark",
+     "literal": "'come you and-all-of house-your to the-ark'"
+    },
+    {
+     "tokens": [
+      "7:1.10"
+     ],
+     "english": "for",
+     "literal": "'for'"
+    },
+    {
+     "tokens": [
+      "7:1.11",
+      "7:1.12",
+      "7:1.13"
+     ],
+     "english": "I have seen that you are righteous",
+     "literal": "'you I-saw righteous': the object אֹתְךָ is fronted"
+    },
+    {
+     "tokens": [
+      "7:1.14"
+     ],
+     "english": "before me",
+     "literal": "'to-my-face'"
+    },
+    {
+     "tokens": [
+      "7:1.15",
+      "7:1.16"
+     ],
+     "english": "in this generation",
+     "literal": "'in-the-generation the-this'"
+    }
+   ],
+   "grammar": [
+    "אֹתְךָ is the object marker with a suffix, fronted before the verb; it stresses 'you, and no one else'.",
+    "בֹּא־אַתָּה uses an independent pronoun after the imperative for emphasis.",
+    "The etnaḥta on הַתֵּבָה separates the command from its reason.",
+    "צַדִּיק is the predicate of the object: 'I saw you (as) righteous'."
+   ],
+   "note": "Rashi stresses that the text says only 'righteous', not 'righteous and blameless' as in 6:9: a person is praised in part to his face, in full behind his back. Ramban and Sforno hold the emphatic 'you' implies that the household is saved for his sake only. The English keeps 'you' plain; the emphasis goes in the notes.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:1:1",
+     "relation": "follows",
+     "summary": "Rashi: the verse does not say 'righteous and blameless'; one says part of a man's praise in his presence and all of it in his absence (Genesis Rabbah). The English says only 'righteous'."
+    },
+    {
+     "anchor": "ramban:7:1:2",
+     "relation": "records",
+     "summary": "Ramban: Noah is told to enter with his whole household, and the text shows that they are saved in his merit alone, since it does not say 'I have seen you all righteous'."
+    },
+    {
+     "anchor": "sforno:7:1:1",
+     "relation": "records",
+     "summary": "Sforno: 'you, not your house' (the household is saved only because of him)."
+    },
+    {
+     "anchor": "radak:7:1:2",
+     "relation": "records",
+     "summary": "Radak: it is fitting that you and all your household escape the flood so that the world is settled again."
+    },
+    {
+     "anchor": "onkelos:7:1:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'enter, you and all the people of your house, into the ark, for I have seen you righteous (zakkai) before me in this generation'."
+    }
+   ]
+  },
+  {
+   "ref": "7:2",
+   "english": "Of every clean animal take for yourself seven each, a male and his mate; and of the animals that are not clean, two, a male and his mate.",
+   "literal": "from-all-of the-animal the-clean you-shall-take to-you seven seven man and-his-wife and-from the-animal that not clean it two man and-his-wife",
+   "tokens": [
+    {
+     "id": "7:2.1",
+     "gloss": "from all of",
+     "sense": "1"
+    },
+    {
+     "id": "7:2.2",
+     "gloss": "the animal"
+    },
+    {
+     "id": "7:2.3",
+     "gloss": "the clean"
+    },
+    {
+     "id": "7:2.4",
+     "gloss": "you shall take",
+     "sense": "Qal 1",
+     "note": "yiqtol with the force of a command"
+    },
+    {
+     "id": "7:2.5",
+     "gloss": "for yourself"
+    },
+    {
+     "id": "7:2.6",
+     "gloss": "seven"
+    },
+    {
+     "id": "7:2.7",
+     "gloss": "seven",
+     "note": "repeated number: distributive, 'seven each' or 'seven by seven'"
+    },
+    {
+     "id": "7:2.8",
+     "gloss": "a male",
+     "note": "literally 'man'; used of animals: 'one of a pair'"
+    },
+    {
+     "id": "7:2.9",
+     "gloss": "and his mate",
+     "sense": "3",
+     "note": "literally 'and his wife'"
+    },
+    {
+     "id": "7:2.10",
+     "gloss": "and from"
+    },
+    {
+     "id": "7:2.11",
+     "gloss": "the animal"
+    },
+    {
+     "id": "7:2.12",
+     "gloss": "that"
+    },
+    {
+     "id": "7:2.13",
+     "gloss": "not"
+    },
+    {
+     "id": "7:2.14",
+     "gloss": "clean"
+    },
+    {
+     "id": "7:2.15",
+     "gloss": "it",
+     "note": "the pronoun repeats the subject: 'that is not clean'"
+    },
+    {
+     "id": "7:2.16",
+     "gloss": "two"
+    },
+    {
+     "id": "7:2.17",
+     "gloss": "a male"
+    },
+    {
+     "id": "7:2.18",
+     "gloss": "and his mate",
+     "sense": "3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:2.1",
+      "7:2.2",
+      "7:2.3"
+     ],
+     "english": "Of every clean animal",
+     "literal": "'from-all-of the-animal the-clean'; partitive מִן with כֹּל in the construct: 'of every'"
+    },
+    {
+     "tokens": [
+      "7:2.4",
+      "7:2.5"
+     ],
+     "english": "take for yourself",
+     "literal": "'you-shall-take to-you'; an imperfect used as command"
+    },
+    {
+     "tokens": [
+      "7:2.6",
+      "7:2.7"
+     ],
+     "english": "seven each",
+     "literal": "'seven seven': distributive repetition"
+    },
+    {
+     "tokens": [
+      "7:2.8",
+      "7:2.9"
+     ],
+     "english": "a male and his mate",
+     "literal": "'man and-his-wife': the Hebrew uses the human terms of animals"
+    },
+    {
+     "tokens": [
+      "7:2.10",
+      "7:2.11"
+     ],
+     "english": "and of the animals",
+     "literal": "'and-from the-animal'"
+    },
+    {
+     "tokens": [
+      "7:2.12",
+      "7:2.13",
+      "7:2.14",
+      "7:2.15"
+     ],
+     "english": "that are not clean",
+     "literal": "'which not clean it': the negative expresses the absence of the quality"
+    },
+    {
+     "tokens": [
+      "7:2.16"
+     ],
+     "english": "two",
+     "literal": "'two'"
+    },
+    {
+     "tokens": [
+      "7:2.17",
+      "7:2.18"
+     ],
+     "english": "a male and his mate",
+     "literal": "'man and-his-wife'"
+    }
+   ],
+   "grammar": [
+    "תִּקַּח is an imperfect used as a command; the accent on לְךָ is tevir.",
+    "שִׁבְעָה שִׁבְעָה is distributive repetition. It can mean seven individuals of each kind or seven pairs; the text itself says 'a male and his mate' after it.",
+    "אִישׁ וְאִשְׁתּוֹ are the words for a human husband and wife, here applied to animals (Radak: a figurative use).",
+    "לֹא טְהֹרָה הִוא ('that is not clean') stands for 'unclean'. Radak: Scripture often puts a quality in the negative, as in כִּי לֹא טָהוֹר הוּא (1 Sam 20:26), and the sense is the same; the rabbis learned from this verse that one should not utter an unseemly word."
+   ],
+   "note": "The English leaves the ambiguity in 'seven each' (seven individuals or seven pairs). Radak reads seven pairs; Rashi says only that the extras are for a sacrifice at exit. 'Clean' is not defined in the text; Rashi reads it as 'destined to be clean for Israel', Sforno as 'fit for sacrifice', and Radak that God told Noah the signs of cleanness or that he recognized them by their coming in sevens.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:2:1",
+     "relation": "records",
+     "summary": "Rashi: 'the clean' means those destined to be clean for Israel, and from this we learn that Noah studied Torah; the English takes it as simply 'clean'."
+    },
+    {
+     "anchor": "rashi:7:2:2",
+     "relation": "follows",
+     "summary": "Rashi: the seven each are so that he can offer a sacrifice from them on leaving the ark; it explains 'seven' and does not change the English."
+    },
+    {
+     "anchor": "radak:7:2:1",
+     "relation": "records",
+     "summary": "Radak: he says now that Noah should bring seven pairs of each clean animal and one pair (or two) of the unclean; he asks how Noah knew which was clean and gives two answers."
+    },
+    {
+     "anchor": "radak:7:2:4",
+     "relation": "records",
+     "summary": "Radak: אִישׁ וְאִשְׁתּוֹ means male and female, said figuratively; when the pairs are alike the text says 'a woman to her sister', and when they differ as male and female it says 'man and his wife'."
+    },
+    {
+     "anchor": "radak:7:2:5",
+     "relation": "follows",
+     "summary": "Radak: the text says 'not clean' rather than 'unclean' as it often does, and the rabbis learned from it that one should not speak a foul word."
+    },
+    {
+     "anchor": "sforno:7:2:1",
+     "relation": "records",
+     "summary": "Sforno: at that time all clean animals were fit for sacrifice, as the rabbis said, and in their food-nature unlike 'you shall be defiled by them'."
+    },
+    {
+     "anchor": "onkelos:7:2:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'seven seven, male and female' and 'two, male and female' for the unclean."
+    }
+   ]
+  },
+  {
+   "ref": "7:3",
+   "english": "Also of the birds of the sky, seven each, male and female, to keep seed alive across the face of all the earth.",
+   "literal": "also from-bird-of the-heavens seven seven male and-female to-keep-alive seed upon face-of all-of the-earth",
+   "tokens": [
+    {
+     "id": "7:3.1",
+     "gloss": "also"
+    },
+    {
+     "id": "7:3.2",
+     "gloss": "from the bird of",
+     "sense": "1",
+     "note": "collective singular; a construct"
+    },
+    {
+     "id": "7:3.3",
+     "gloss": "the sky",
+     "sense": "1.a",
+     "note": "dual-form plural 'heavens'"
+    },
+    {
+     "id": "7:3.4",
+     "gloss": "seven"
+    },
+    {
+     "id": "7:3.5",
+     "gloss": "seven",
+     "note": "distributive repetition"
+    },
+    {
+     "id": "7:3.6",
+     "gloss": "male",
+     "sense": "I"
+    },
+    {
+     "id": "7:3.7",
+     "gloss": "and female"
+    },
+    {
+     "id": "7:3.8",
+     "gloss": "to keep alive",
+     "sense": "Pi 1",
+     "note": "Piel infinitive construct of חיה: 'to preserve alive'"
+    },
+    {
+     "id": "7:3.9",
+     "gloss": "seed",
+     "sense": "4",
+     "note": "'offspring'; here, the line of descent for the species"
+    },
+    {
+     "id": "7:3.10",
+     "gloss": "across"
+    },
+    {
+     "id": "7:3.11",
+     "gloss": "the face of",
+     "sense": "I.5"
+    },
+    {
+     "id": "7:3.12",
+     "gloss": "all of",
+     "sense": "1"
+    },
+    {
+     "id": "7:3.13",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:3.1",
+      "7:3.2",
+      "7:3.3"
+     ],
+     "english": "Also of the birds of the sky",
+     "literal": "'also from-bird-of the-heavens'; עוֹף is a collective singular"
+    },
+    {
+     "tokens": [
+      "7:3.4",
+      "7:3.5"
+     ],
+     "english": "seven each",
+     "literal": "'seven seven'"
+    },
+    {
+     "tokens": [
+      "7:3.6",
+      "7:3.7"
+     ],
+     "english": "male and female",
+     "literal": "'male and-female'"
+    },
+    {
+     "tokens": [
+      "7:3.8",
+      "7:3.9"
+     ],
+     "english": "to keep seed alive",
+     "literal": "'to-keep-alive seed': a purpose clause"
+    },
+    {
+     "tokens": [
+      "7:3.10",
+      "7:3.11",
+      "7:3.12",
+      "7:3.13"
+     ],
+     "english": "across the face of all the earth",
+     "literal": "'upon face-of all-of the-earth'"
+    }
+   ],
+   "grammar": [
+    "עוֹף is a collective singular, so the English plural 'birds'.",
+    "שִׁבְעָה שִׁבְעָה is again distributive; here זָכָר וּנְקֵבָה explains it.",
+    "לְחַיּוֹת is a Piel infinitive construct and gives the purpose.",
+    "The etnaḥta on וּנְקֵבָה divides the verse: the birds to be taken, then the purpose. The tevir on הַשָּׁמַיִם and the tipḥa on the second שִׁבְעָה are lesser pauses within the first half."
+   ],
+   "note": "גַּם ('also') joins the birds to the animals of 7:2. Rashi reads the verse as speaking of clean birds only, learning the unstated from the stated. Radak, at 7:2, weighs two readings: that all birds, clean and unclean, came in sevens, or that, as with the animals, only the clean birds did, the 'also' joining them to the clean animals. The English, like the Hebrew, does not say 'clean'.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:3:1",
+     "relation": "follows",
+     "summary": "Rashi: the verse speaks of clean birds; the unstated case is learned from the stated one. The English 'also of the birds' does not add 'clean'; the note records this."
+    },
+    {
+     "anchor": "radak:7:3:2",
+     "relation": "not-applicable",
+     "summary": "Radak: 'over the face of all the earth': as at 1:25, the animals' places are divided over the whole earth."
+    },
+    {
+     "anchor": "onkelos:7:3:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'also of the birds of the heavens, seven seven, male and female, to preserve seed over all the earth'."
+    }
+   ]
+  },
+  {
+   "ref": "7:4",
+   "english": "For in seven more days I will make it rain on the earth forty days and forty nights, and I will wipe out every living thing that I have made from the face of the ground.",
+   "literal": "for to-days still seven I causing-rain upon the-earth forty day and-forty night and-I-will-wipe-out (object) all-of the-existing-thing that I-made from-upon face-of the-ground",
+   "tokens": [
+    {
+     "id": "7:4.1",
+     "gloss": "for"
+    },
+    {
+     "id": "7:4.2",
+     "gloss": "in days",
+     "sense": "4",
+     "note": "'to days': after a period, in a span of"
+    },
+    {
+     "id": "7:4.3",
+     "gloss": "still, more"
+    },
+    {
+     "id": "7:4.4",
+     "gloss": "seven"
+    },
+    {
+     "id": "7:4.5",
+     "gloss": "I"
+    },
+    {
+     "id": "7:4.6",
+     "gloss": "am about to make it rain",
+     "sense": "Hiph",
+     "note": "Hiphil participle: imminent future"
+    },
+    {
+     "id": "7:4.7",
+     "gloss": "on"
+    },
+    {
+     "id": "7:4.8",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:4.9",
+     "gloss": "forty"
+    },
+    {
+     "id": "7:4.10",
+     "gloss": "days",
+     "sense": "1",
+     "note": "accusative of duration"
+    },
+    {
+     "id": "7:4.11",
+     "gloss": "and forty"
+    },
+    {
+     "id": "7:4.12",
+     "gloss": "nights"
+    },
+    {
+     "id": "7:4.13",
+     "gloss": "and I will wipe out",
+     "sense": "Qal 3",
+     "note": "weqatal after the participle: a future act"
+    },
+    {
+     "id": "7:4.14",
+     "gloss": "-",
+     "note": "object marker; no English counterpart"
+    },
+    {
+     "id": "7:4.15",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "7:4.16",
+     "gloss": "living thing",
+     "note": "a rare word (here, 7:23, Deut 11:6); Ibn Ezra says it occurs only in this section; the root is קום or יקם"
+    },
+    {
+     "id": "7:4.17",
+     "gloss": "that"
+    },
+    {
+     "id": "7:4.18",
+     "gloss": "I have made",
+     "sense": "Qal II.1"
+    },
+    {
+     "id": "7:4.19",
+     "gloss": "from on",
+     "note": "מֵעַל: 'from upon'"
+    },
+    {
+     "id": "7:4.20",
+     "gloss": "the face of",
+     "sense": "I.5"
+    },
+    {
+     "id": "7:4.21",
+     "gloss": "the ground",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:4.1",
+      "7:4.2",
+      "7:4.3",
+      "7:4.4"
+     ],
+     "english": "For in seven more days",
+     "literal": "'for to-days still seven': 'after seven more days'"
+    },
+    {
+     "tokens": [
+      "7:4.5",
+      "7:4.6",
+      "7:4.7",
+      "7:4.8"
+     ],
+     "english": "I will make it rain on the earth",
+     "literal": "'I causing-rain upon the-earth': the participle gives the near future"
+    },
+    {
+     "tokens": [
+      "7:4.9",
+      "7:4.10",
+      "7:4.11",
+      "7:4.12"
+     ],
+     "english": "forty days and forty nights",
+     "literal": "'forty day and-forty night'"
+    },
+    {
+     "tokens": [
+      "7:4.13",
+      "7:4.14",
+      "7:4.15",
+      "7:4.16"
+     ],
+     "english": "and I will wipe out every living thing",
+     "literal": "'and-I-will-wipe-out (object) all-of the-existing-thing'"
+    },
+    {
+     "tokens": [
+      "7:4.17",
+      "7:4.18"
+     ],
+     "english": "that I have made",
+     "literal": "'which I-made'"
+    },
+    {
+     "tokens": [
+      "7:4.19",
+      "7:4.20",
+      "7:4.21"
+     ],
+     "english": "from the face of the ground",
+     "literal": "'from-upon face-of the-ground'"
+    }
+   ],
+   "grammar": [
+    "The participle מַמְטִיר expresses what is about to happen; the weqatal וּמָחִיתִי continues it.",
+    "יָמִים ... עוֹד שִׁבְעָה: 'still seven days'; the preposition ל marks the span after which the event occurs.",
+    "הַיְקוּם is rare: here, 7:23 and Deut 11:6. Ibn Ezra says it occurs only in this section; he and Radak take it as a general word for every living being.",
+    "The verse uses אֲדָמָה (ground), not אֶרֶץ, for what is wiped out."
+   ],
+   "note": "The BDB entry gives `substance, existence` for הַיְקוּם; the English 'living thing' follows Ibn Ezra, 'a general term for every living being on the earth' and Radak ('all that is on the face of the ground among living beings'). Radak adds that it does not include fish or those in the ark. Rashi reads the seven days as the mourning for Methuselah and the 'still' as additional to the 120 years; neither changes the plain translation.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:4:1",
+     "relation": "records",
+     "summary": "Rashi: these seven days are the mourning for Methuselah the righteous; God spared his honor and delayed the punishment; count his years and you find they end in the six hundredth year of Noah (Sanhedrin 108). The English gives only 'seven more days'."
+    },
+    {
+     "anchor": "rashi:7:4:2",
+     "relation": "records",
+     "summary": "Rashi: what is 'still'? Another period after, added to the 120 years."
+    },
+    {
+     "anchor": "rashi:7:4:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: forty days matches the forming of the embryo, since they corrupted themselves; a homily that does not bear on the translation."
+    },
+    {
+     "anchor": "ibn-ezra:7:4:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: on the seventh day He will bring rain, and it will last to the end of forty days; this was on the tenth of the second month. His closing words, that 'the middle returns to the front, and it is a secret', are an astronomical remark that does not bear on the words. He reads 'in seven more days' as the English does."
+    },
+    {
+     "anchor": "ibn-ezra:7:4:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הַיְקוּם is found only in this section; its root is among verbs whose first letter is not complete (like כרוב), or among hollow verbs, and it is a general term for every living thing on the ground."
+    },
+    {
+     "anchor": "radak:7:4:1",
+     "relation": "records",
+     "summary": "Radak: Noah is to enter the ark seven days before the flood to prepare places and food; the rabbis say the seven days are for Methuselah's mourning."
+    },
+    {
+     "anchor": "radak:7:4:3",
+     "relation": "follows",
+     "summary": "Radak: הַיְקוּם is general for everything alive on the ground; the root is קום with a letter yod added, as in רִיבָה."
+    },
+    {
+     "anchor": "radak:7:4:4",
+     "relation": "records",
+     "summary": "Radak: 'every living thing' means what is on dry land and on the ground, not fish or what is in the ark."
+    },
+    {
+     "anchor": "onkelos:7:4:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'for after a time of seven more days I am bringing rain on the earth forty days and forty nights, and I will wipe out every standing thing that I made from upon the face of the earth'."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders הַיְקוּם by its cognate יְקוּמָא and אֲדָמָה by אַרְעָא, his usual equivalent; neither is a variant of the Hebrew."
+   ]
+  },
+  {
+   "ref": "7:5",
+   "english": "Noah did according to all that the LORD had commanded him.",
+   "literal": "and-did Noah like-all that commanded-him the-LORD",
+   "tokens": [
+    {
+     "id": "7:5.1",
+     "gloss": "and did",
+     "sense": "Qal I.3",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "7:5.2",
+     "gloss": "Noah"
+    },
+    {
+     "id": "7:5.3",
+     "gloss": "according to all",
+     "sense": "2.a"
+    },
+    {
+     "id": "7:5.4",
+     "gloss": "that"
+    },
+    {
+     "id": "7:5.5",
+     "gloss": "commanded him",
+     "note": "Piel perfect with a 3rd masculine suffix"
+    },
+    {
+     "id": "7:5.6",
+     "gloss": "the LORD"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:5.1",
+      "7:5.2"
+     ],
+     "english": "Noah did",
+     "literal": "'and-did Noah'"
+    },
+    {
+     "tokens": [
+      "7:5.3",
+      "7:5.4",
+      "7:5.5",
+      "7:5.6"
+     ],
+     "english": "according to all that the LORD had commanded him",
+     "literal": "'like-all that commanded-him the-LORD'"
+    }
+   ],
+   "grammar": [
+    "The narrative wayyiqtol וַיַּעַשׂ begins the report of obedience.",
+    "צִוָּהוּ is a Piel perfect with a pronominal suffix.",
+    "The divine name here is יְהוָה, where 6:22 had אֱלֹהִים.",
+    "The etnaḥta on נֹחַ divides subject from the measure of obedience."
+   ],
+   "note": "The Hebrew repeats the report of 6:22, with the divine name changed. Rashi reads 'Noah did' as his entering the ark; Ibn Ezra as his coming with his household near the ark; Radak as his entering with his household and bringing in the animals. The English line gives the plain wording.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:5:1",
+     "relation": "records",
+     "summary": "Rashi: 'Noah did' means his entering the ark."
+    },
+    {
+     "anchor": "ibn-ezra:7:5:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: as he was commanded, he came with his household close to the ark."
+    },
+    {
+     "anchor": "radak:7:5:1",
+     "relation": "records",
+     "summary": "Radak: he entered the ark, he and his household, and brought in the animals, as it says 'and Noah came' (7:7)."
+    },
+    {
+     "anchor": "onkelos:7:5:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and Noah did according to all that the LORD commanded him'."
+    }
+   ]
+  },
+  {
+   "ref": "7:6",
+   "english": "Now Noah was six hundred years old when the flood came, water upon the earth.",
+   "literal": "and-Noah son-of six hundreds year and-the-flood was waters upon the-earth",
+   "tokens": [
+    {
+     "id": "7:6.1",
+     "gloss": "and Noah"
+    },
+    {
+     "id": "7:6.2",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "'son of' an age: idiom for 'aged'"
+    },
+    {
+     "id": "7:6.3",
+     "gloss": "six"
+    },
+    {
+     "id": "7:6.4",
+     "gloss": "hundred"
+    },
+    {
+     "id": "7:6.5",
+     "gloss": "year"
+    },
+    {
+     "id": "7:6.6",
+     "gloss": "and the flood"
+    },
+    {
+     "id": "7:6.7",
+     "gloss": "came, was",
+     "sense": "Qal I.1.b",
+     "note": "qatal; 'occurred'"
+    },
+    {
+     "id": "7:6.8",
+     "gloss": "water"
+    },
+    {
+     "id": "7:6.9",
+     "gloss": "upon"
+    },
+    {
+     "id": "7:6.10",
+     "gloss": "the earth",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:6.1",
+      "7:6.2",
+      "7:6.3",
+      "7:6.4",
+      "7:6.5"
+     ],
+     "english": "Now Noah was six hundred years old",
+     "literal": "'and-Noah son-of six hundreds year'; the ו is circumstantial"
+    },
+    {
+     "tokens": [
+      "7:6.6",
+      "7:6.7"
+     ],
+     "english": "when the flood came",
+     "literal": "'and-the-flood was'; the ו means 'when' (Radak)"
+    },
+    {
+     "tokens": [
+      "7:6.8",
+      "7:6.9",
+      "7:6.10"
+     ],
+     "english": "water upon the earth",
+     "literal": "'waters upon the-earth'; מַבּוּל מַיִם is 'flood of water'"
+    }
+   ],
+   "grammar": [
+    "בֶּן־שֵׁשׁ מֵאוֹת שָׁנָה is the idiom for age: 'son of six hundred years'.",
+    "The ו of וְהַמַּבּוּל is circumstantial: 'when' (Radak).",
+    "מַיִם is a plural noun 'water'.",
+    "The etnaḥta on שָׁנָה divides Noah's age from the flood."
+   ],
+   "note": "Radak glosses וְהַמַּבּוּל הָיָה as 'a flood of water': the one word מַבּוּל serves twice, 'the flood came' and '(a flood of) water upon the earth'. The English line reads 'the flood came, water upon the earth'.",
+   "commentary": [
+    {
+     "anchor": "radak:7:6:1",
+     "relation": "follows",
+     "summary": "Radak: it tells how old Noah was when he entered the ark because of the flood that was coming."
+    },
+    {
+     "anchor": "radak:7:6:2",
+     "relation": "follows",
+     "summary": "Radak: the ו means 'when', as in the verses he quotes; Noah was six hundred when the flood came."
+    },
+    {
+     "anchor": "radak:7:6:4",
+     "relation": "follows",
+     "summary": "Radak: 'flood of water'; the one word 'flood' stands for two."
+    },
+    {
+     "anchor": "onkelos:7:6:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and Noah was a son of six hundred years, and the flood was waters on the earth'."
+    }
+   ]
+  }
+ ]
+}

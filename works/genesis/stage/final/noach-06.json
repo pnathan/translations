@@ -1,0 +1,1194 @@
+{
+ "unit": "noach-06",
+ "model": "sonnet, reviewed by opus",
+ "segments": [
+  {
+   "ref": "7:23",
+   "english": "He wiped out every living thing that was on the surface of the ground, from humans to animals, to crawling things, and to the birds of the sky; they were wiped out from the earth. Only Noah was left, and those with him in the ark.",
+   "literal": "and-wiped-out [object-marker] all-of the-living-thing which on face-of the-ground from-human to animal to crawler and-to bird-of the-sky and-were-wiped-out from-the-earth and-was-left only Noah and-which with-him in-the-ark",
+   "tokens": [
+    {
+     "id": "7:23.1",
+     "gloss": "and he wiped out",
+     "sense": "Qal 3",
+     "note": "wayyiqtol of מחה. The subject, God, is not stated. Rashi: the form is Qal (like וַיִּפֶן, וַיִּבֶן), pointed with ḥireq under the yod, and not Niphal."
+    },
+    {
+     "id": "7:23.2",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "7:23.3",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "7:23.4",
+     "gloss": "the living thing",
+     "note": "יְקוּם is rare: whatever stands or has existence."
+    },
+    {
+     "id": "7:23.5",
+     "gloss": "that"
+    },
+    {
+     "id": "7:23.6",
+     "gloss": "on"
+    },
+    {
+     "id": "7:23.7",
+     "gloss": "the surface of",
+     "sense": "I.5",
+     "note": "construct; פְּנֵי is plural in form (the idiom 'face of the ground')."
+    },
+    {
+     "id": "7:23.8",
+     "gloss": "the ground",
+     "sense": "1"
+    },
+    {
+     "id": "7:23.9",
+     "gloss": "from humans",
+     "sense": "2",
+     "note": "אָדָם without the article: humankind in general."
+    },
+    {
+     "id": "7:23.10",
+     "gloss": "up to"
+    },
+    {
+     "id": "7:23.11",
+     "gloss": "animals"
+    },
+    {
+     "id": "7:23.12",
+     "gloss": "up to"
+    },
+    {
+     "id": "7:23.13",
+     "gloss": "crawling things",
+     "note": "רֶמֶשׂ: what creeps or moves along the ground."
+    },
+    {
+     "id": "7:23.14",
+     "gloss": "and up to"
+    },
+    {
+     "id": "7:23.15",
+     "gloss": "the birds of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "7:23.16",
+     "gloss": "the sky",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:23.17",
+     "gloss": "and they were wiped out",
+     "sense": "Niph 3",
+     "note": "Niphal wayyiqtol, plural; answers the Qal וַיִּמַח."
+    },
+    {
+     "id": "7:23.18",
+     "gloss": "from"
+    },
+    {
+     "id": "7:23.19",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:23.20",
+     "gloss": "and he was left",
+     "sense": "Niph 1",
+     "note": "Niphal wayyiqtol of שאר; the singular verb agrees with the nearer subject, Noah."
+    },
+    {
+     "id": "7:23.21",
+     "gloss": "only"
+    },
+    {
+     "id": "7:23.22",
+     "gloss": "Noah"
+    },
+    {
+     "id": "7:23.23",
+     "gloss": "and those who"
+    },
+    {
+     "id": "7:23.24",
+     "gloss": "with him"
+    },
+    {
+     "id": "7:23.25",
+     "gloss": "in the ark"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:23.1"
+     ],
+     "english": "He wiped out",
+     "literal": "'and-wiped-out'; the unnamed subject is God (Radak)."
+    },
+    {
+     "tokens": [
+      "7:23.2",
+      "7:23.3",
+      "7:23.4"
+     ],
+     "english": "every living thing",
+     "literal": "'[object-marker] all-of the-living-thing'; the marker has no English counterpart."
+    },
+    {
+     "tokens": [
+      "7:23.5",
+      "7:23.6",
+      "7:23.7",
+      "7:23.8"
+     ],
+     "english": "that was on the surface of the ground",
+     "literal": "'which on face-of the-ground'"
+    },
+    {
+     "tokens": [
+      "7:23.9",
+      "7:23.10",
+      "7:23.11",
+      "7:23.12",
+      "7:23.13",
+      "7:23.14",
+      "7:23.15",
+      "7:23.16"
+     ],
+     "english": "from humans to animals, to crawling things, and to the birds of the sky",
+     "literal": "'from-human to animal to crawler and-to bird-of the-sky'; the four classes of 7:21-22 restated."
+    },
+    {
+     "tokens": [
+      "7:23.17",
+      "7:23.18",
+      "7:23.19"
+     ],
+     "english": "they were wiped out from the earth",
+     "literal": "'and-were-wiped-out from-the-earth'"
+    },
+    {
+     "tokens": [
+      "7:23.20",
+      "7:23.21",
+      "7:23.22"
+     ],
+     "english": "Only Noah was left",
+     "literal": "'and-was-left only Noah'"
+    },
+    {
+     "tokens": [
+      "7:23.23",
+      "7:23.24",
+      "7:23.25"
+     ],
+     "english": "and those with him in the ark",
+     "literal": "'and-which with-him in-the-ark'"
+    }
+   ],
+   "grammar": [
+    "וַיִּמַח (Qal) and וַיִּמָּחוּ (Niphal) are the same root: the act and its result stand side by side.",
+    "The list runs מִן ... עַד ... עַד ... וְעַד: 'from ... to ... to ... and to'. The preposition עַד is written three times, and the last takes ו.",
+    "The etnaḥta on הָאָרֶץ closes the first half. In the second half the tevir on נֹחַ, a disjunctive accent, makes a small pause after 'only Noah' before 'and those with him in the ark'.",
+    "אַךְ limits the survivors to Noah and those with him; the verb וַיִּשָּׁאֶר is singular."
+   ],
+   "note": "The English keeps the double verb (wiped out ... were wiped out) as the Hebrew has it. The parse in the pack gives Qal for the first verb, in agreement with Rashi.",
+   "commentary": [
+    {
+     "anchor": "rashi:7:23:1",
+     "relation": "follows",
+     "summary": "Rashi: וַיִּמַח is an active (Qal) form, not Niphal, like וַיִּפֶן and וַיִּבֶן from roots ending in he, pointed with ḥireq under the yod. The English has an active verb with God understood."
+    },
+    {
+     "anchor": "rashi:7:23:2",
+     "relation": "follows",
+     "summary": "Rashi: אַךְ נֹחַ means 'Noah alone', and that is the plain sense; he adds the homily that Noah groaned and spat blood from the work of tending the animals, or that a lion bit him."
+    },
+    {
+     "anchor": "ibn-ezra:7:23:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיִּמָּחוּ מִן הָאָרֶץ means that their names were wiped out from the earth, since they left no offspring; וַיִּשָּׁאֶר means only Noah and those with him remained, a full answer to those who say the flood was not over all the earth."
+    },
+    {
+     "anchor": "ramban:7:23:2",
+     "relation": "records",
+     "summary": "Ramban: the doubling may be for the birds and some creeping things, to say that no eggs of theirs were left in any tree or under the ground; or the verse may be read 'all, from human to bird, were wiped out from the earth; only Noah was left'. The rabbis read 'he wiped out' of this world and 'they were wiped out from the earth' of the world to come."
+    }
+   ],
+   "apparatus": [
+    "7:23.20 vowels: WLC reads וַיִשָּׁאֶר without the dagesh in yod; the base text וַיִּשָּׁאֶר is followed."
+   ]
+  },
+  {
+   "ref": "7:24",
+   "english": "The waters prevailed over the earth for a hundred and fifty days.",
+   "literal": "and-prevailed the-waters upon the-earth fifty and-hundred-of day",
+   "tokens": [
+    {
+     "id": "7:24.1",
+     "gloss": "and they prevailed",
+     "sense": "Qal 2",
+     "note": "wayyiqtol, plural; מַיִם takes a plural verb."
+    },
+    {
+     "id": "7:24.2",
+     "gloss": "the waters",
+     "note": "מַיִם is plural in form only."
+    },
+    {
+     "id": "7:24.3",
+     "gloss": "over"
+    },
+    {
+     "id": "7:24.4",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "7:24.5",
+     "gloss": "fifty"
+    },
+    {
+     "id": "7:24.6",
+     "gloss": "and a hundred",
+     "note": "מְאַת is the construct of מֵאָה: 'hundred of'."
+    },
+    {
+     "id": "7:24.7",
+     "gloss": "days",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "7:24.1",
+      "7:24.2"
+     ],
+     "english": "The waters prevailed",
+     "literal": "'and-prevailed the-waters'"
+    },
+    {
+     "tokens": [
+      "7:24.3",
+      "7:24.4"
+     ],
+     "english": "over the earth",
+     "literal": "'upon the-earth'"
+    },
+    {
+     "tokens": [
+      "7:24.5",
+      "7:24.6",
+      "7:24.7"
+     ],
+     "english": "for a hundred and fifty days",
+     "literal": "'fifty and-hundred-of day': the smaller number comes first, with the singular noun."
+    }
+   ],
+   "grammar": [
+    "The merkha on וַיִּגְבְּרוּ and the tipḥa on הַמַּיִם lead to the etnaḥta on הָאָרֶץ; the duration is a separate clause-end.",
+    "The number is written smaller number first: חֲמִשִּׁים וּמְאַת יוֹם, with the noun in the singular.",
+    "גָּבַר 'be strong' is used of waters 'gaining the upper hand'."
+   ],
+   "note": "'Prevailed' keeps the sense of strength, not only rising. Ibn Ezra's point is about how the water gained: the springs broke open, and the rain fell intermittently.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:7:24:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra: the waters prevailed a hundred and fifty days because the springs had burst open, and rain also went on falling, one day yes and one day no; the 'I will rain' of 7:4 means forty days of rain without a break, and the later וַיִּכָּלֵא הַגֶּשֶׁם (8:2) is the proof that rain still fell after them. This concerns the course of the flood, not the wording of the verse."
+    },
+    {
+     "anchor": "radak:7:24:2",
+     "relation": "not-applicable",
+     "summary": "Radak: the hundred and fifty days follow the forty, from 29 Kislev to 1 Sivan; a calendar calculation."
+    }
+   ]
+  },
+  {
+   "ref": "8:1",
+   "english": "God remembered Noah and every living creature and all the domestic animals that were with him in the ark, and God made a wind pass over the earth, and the waters subsided.",
+   "literal": "and-remembered God [object-marker] Noah and-[object-marker] all-of the-living-thing and-[object-marker] all-of the-beast which with-him in-the-ark and-made-pass God wind upon the-earth and-subsided the-waters",
+   "tokens": [
+    {
+     "id": "8:1.1",
+     "gloss": "and he remembered",
+     "sense": "Qal I.1",
+     "note": "wayyiqtol of זכר; 'remember' of God means to act on what he has pledged."
+    },
+    {
+     "id": "8:1.2",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "8:1.3",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:1.4",
+     "gloss": "Noah"
+    },
+    {
+     "id": "8:1.5",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "8:1.6",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "8:1.7",
+     "gloss": "the living creature",
+     "sense": "1",
+     "note": "חַיָּה: the living creatures other than domestic animals; Ibn Ezra includes beasts of the field, birds and creeping things."
+    },
+    {
+     "id": "8:1.8",
+     "gloss": "and (object marker)"
+    },
+    {
+     "id": "8:1.9",
+     "gloss": "all of",
+     "sense": "1",
+     "note": "construct state"
+    },
+    {
+     "id": "8:1.10",
+     "gloss": "the domestic animals",
+     "note": "בְּהֵמָה: domestic animals as against the wild חַיָּה."
+    },
+    {
+     "id": "8:1.11",
+     "gloss": "that"
+    },
+    {
+     "id": "8:1.12",
+     "gloss": "with him"
+    },
+    {
+     "id": "8:1.13",
+     "gloss": "in the ark"
+    },
+    {
+     "id": "8:1.14",
+     "gloss": "and he made pass",
+     "sense": "Hiph 1",
+     "note": "Hiphil wayyiqtol of עבר: causative, 'made pass' (sense Hiph 1, 'cause to pass over')."
+    },
+    {
+     "id": "8:1.15",
+     "gloss": "God",
+     "sense": "2.d"
+    },
+    {
+     "id": "8:1.16",
+     "gloss": "a wind",
+     "sense": "2",
+     "note": "רוּחַ: wind. Rashi takes it otherwise: a spirit of comfort and calm (רוּחַ תַּנְחוּמִין וַהֲנָחָה) that passed before God."
+    },
+    {
+     "id": "8:1.17",
+     "gloss": "over"
+    },
+    {
+     "id": "8:1.18",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:1.19",
+     "gloss": "and they subsided",
+     "sense": "Qal",
+     "note": "wayyiqtol of שׁכך; Rashi and Ibn Ezra: they settled down and stopped rising, like the anger of the king in Esther 2:1 and 7:10."
+    },
+    {
+     "id": "8:1.20",
+     "gloss": "the waters"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:1.1",
+      "8:1.2"
+     ],
+     "english": "God remembered",
+     "literal": "'and-remembered God'"
+    },
+    {
+     "tokens": [
+      "8:1.3",
+      "8:1.4"
+     ],
+     "english": "Noah",
+     "literal": "'[object-marker] Noah'"
+    },
+    {
+     "tokens": [
+      "8:1.5",
+      "8:1.6",
+      "8:1.7"
+     ],
+     "english": "and every living creature",
+     "literal": "'and-[marker] all-of the-living-thing'"
+    },
+    {
+     "tokens": [
+      "8:1.8",
+      "8:1.9",
+      "8:1.10"
+     ],
+     "english": "and all the domestic animals",
+     "literal": "'and-[marker] all-of the-beast'"
+    },
+    {
+     "tokens": [
+      "8:1.11",
+      "8:1.12",
+      "8:1.13"
+     ],
+     "english": "that were with him in the ark",
+     "literal": "'which with-him in-the-ark'"
+    },
+    {
+     "tokens": [
+      "8:1.14",
+      "8:1.15",
+      "8:1.16",
+      "8:1.17",
+      "8:1.18"
+     ],
+     "english": "and God made a wind pass over the earth",
+     "literal": "'and-made-pass God wind upon the-earth': Hiphil, causative."
+    },
+    {
+     "tokens": [
+      "8:1.19",
+      "8:1.20"
+     ],
+     "english": "and the waters subsided",
+     "literal": "'and-subsided the-waters'"
+    }
+   ],
+   "grammar": [
+    "וַיִּזְכֹּר is not a lapse corrected: Radak says memory and forgetting do not apply to God; the Torah speaks in human terms, and the word means he acted for them.",
+    "The Hiphil וַיַּעֲבֵר makes God the cause: he made a wind pass. The qadma on וַיַּעֲבֵר and the merkha on אֱלֹהִים are conjunctive accents; the clause runs on to the zaqef qaton on הָאָרֶץ.",
+    "Pashta is written on the last letter of its word. On רוּחַ it is written a second time, on רוּ, because the stress falls on the first syllable: the pataḥ under ח is a furtive pataḥ.",
+    "וַיָּשֹׁכּוּ is the Qal wayyiqtol of the doubled root שׁכך, the verb of Esther 7:10 (וַחֲמַת הַמֶּלֶךְ שָׁכָכָה); the dagesh in the כ makes up for the root's missing second letter (Ibn Ezra). The sense is 'settle, abate'."
+   ],
+   "note": "The English keeps 'God' for אֱלֹהִים by decision, even though Rashi reads it as the attribute of justice turned to mercy. 'Noah' stands for Noah with his sons and wives, as Ibn Ezra says. 'Wind' (not 'spirit') because the verb is Hiphil of 'pass over' and the object is something that blows over the earth, as Ibn Ezra ('he made it pass continually') and Radak take it; Rashi's reading, a spirit of comfort passing before God concerning the affairs of the earth, is recorded.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:1:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: this name, אֱלֹהִים, is the attribute of justice, turned to mercy by the prayer of the righteous; the wickedness of the wicked turns mercy to justice. A homily on the divine name."
+    },
+    {
+     "anchor": "rashi:8:1:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: what did God remember for the animals? Their merit: they had not corrupted their ways before the flood, and they had not mated in the ark (שֶׁלֹּא שִׁמְּשׁוּ בַּתֵּבָה). A homily."
+    },
+    {
+     "anchor": "rashi:8:1:3",
+     "relation": "records",
+     "summary": "Rashi: a spirit of comfort and calm (רוּחַ תַּנְחוּמִין וַהֲנָחָה) passed before God: he reads רוּחַ as God's disposition, not a wind. The English follows the plain wind over the earth (Ibn Ezra, Radak) and records Rashi."
+    },
+    {
+     "anchor": "rashi:8:1:4",
+     "relation": "records",
+     "summary": "Rashi: עַל הָאָרֶץ means concerning the affairs of the earth. The English reads the plain 'over the earth'."
+    },
+    {
+     "anchor": "rashi:8:1:5",
+     "relation": "follows",
+     "summary": "Rashi: וַיָּשֹׁכּוּ is like כְּשֹׁךְ חֲמַת הַמֶּלֶךְ, a word for the settling of anger. The English: subsided."
+    },
+    {
+     "anchor": "ibn-ezra:8:1:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: his sons and the women are included in Noah, who is the main one. The English names Noah."
+    },
+    {
+     "anchor": "ibn-ezra:8:1:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it includes beasts of the field, birds, and every creeping thing; the sense of 'remembered' is the oath God swore to Noah. The English has 'every living creature'."
+    },
+    {
+     "anchor": "ibn-ezra:8:1:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: he made it pass continually. The English has the causative verb without an end point."
+    },
+    {
+     "anchor": "ibn-ezra:8:1:4",
+     "relation": "follows",
+     "summary": "Ibn Ezra: they rested and no longer prevailed; so too the king's anger subsided (Esther 7:10). The dagesh in the כ makes up for the missing second letter of the root (the ע of the pattern פעל), and both verbs are Qal. The English: the waters subsided."
+    },
+    {
+     "anchor": "ramban:8:1:1",
+     "relation": "records",
+     "summary": "Ramban: the mention of Noah is for his merit; the mention of the animals is not for merit but because God remembered his word at the creation and wished the species to continue."
+    },
+    {
+     "anchor": "radak:8:1:2",
+     "relation": "records",
+     "summary": "Radak: the wind stood against the water so that it could no longer rise, and the water settled and went down by its nature."
+    }
+   ]
+  },
+  {
+   "ref": "8:2",
+   "english": "The springs of the deep and the floodgates of the sky were shut, and the rain from the sky was held back.",
+   "literal": "and-were-shut springs-of deep and-sluices-of the-sky and-was-held-back the-rain from-the-sky",
+   "tokens": [
+    {
+     "id": "8:2.1",
+     "gloss": "and they were shut",
+     "sense": "Niph",
+     "note": "Niphal wayyiqtol, plural, of סכר; Ibn Ezra: the same as 'were closed'."
+    },
+    {
+     "id": "8:2.2",
+     "gloss": "the springs of",
+     "note": "construct state"
+    },
+    {
+     "id": "8:2.3",
+     "gloss": "the deep",
+     "sense": "3",
+     "note": "תְּהוֹם: the primeval water below the earth (7:11)."
+    },
+    {
+     "id": "8:2.4",
+     "gloss": "and the floodgates of",
+     "note": "אֲרֻבָּה: a lattice or sluice; construct plural."
+    },
+    {
+     "id": "8:2.5",
+     "gloss": "the sky",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:2.6",
+     "gloss": "and it was held back",
+     "sense": "Niph",
+     "note": "Niphal wayyiqtol of כלא: shut up, restrain."
+    },
+    {
+     "id": "8:2.7",
+     "gloss": "the rain"
+    },
+    {
+     "id": "8:2.8",
+     "gloss": "from"
+    },
+    {
+     "id": "8:2.9",
+     "gloss": "the sky",
+     "sense": "1.a"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:2.1",
+      "8:2.2",
+      "8:2.3",
+      "8:2.4",
+      "8:2.5"
+     ],
+     "english": "The springs of the deep and the floodgates of the sky were shut",
+     "literal": "'and-were-shut springs-of deep and-sluices-of the-sky': one verb for two subjects."
+    },
+    {
+     "tokens": [
+      "8:2.6",
+      "8:2.7",
+      "8:2.8",
+      "8:2.9"
+     ],
+     "english": "and the rain from the sky was held back",
+     "literal": "'and-was-held-back the-rain from-the-sky'"
+    }
+   ],
+   "grammar": [
+    "Both subjects of וַיִּסָּכְרוּ are in the construct (מַעְיְנֹת תְּהוֹם, אֲרֻבֹּת הַשָּׁמַיִם); the verb is plural and agrees with the nearer.",
+    "Two Niphal wayyiqtols (וַיִּסָּכְרוּ, וַיִּכָּלֵא) describe the end of the flood as passives: no agent is named.",
+    "The Hebrew has no 'all' here, unlike 7:11 (כָּל מַעְיְנֹת): Rashi draws the lesson from this.",
+    "סכר and סגר are two forms of one meaning (Ibn Ezra, Radak)."
+   ],
+   "note": "'Floodgates' renders אֲרֻבֹּת, the word of 7:11. 'Shut' is chosen for סכר to match 'closed' of Ibn Ezra; 'stopped up' is the alternative.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:2:1",
+     "relation": "follows",
+     "summary": "Rashi: when they opened, the text has כָּל מַעְיְנֹת; here it has no כָּל, for those useful to the world were left, such as the hot springs of Tiberias. The English likewise has no 'all'."
+    },
+    {
+     "anchor": "rashi:8:2:2",
+     "relation": "follows",
+     "summary": "Rashi: וַיִּכָּלֵא means was held back, as in לֹא תִכְלָא רַחֲמֶיךָ (Psalm 40) and לֹא יִכְלֶה מִמְּךָ (Genesis 23)."
+    },
+    {
+     "anchor": "ibn-ezra:8:2:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיִּסָּכְרוּ is like וַיִּסָּגְרוּ; kaf does not interchange with gimel, rather these are two roots with one meaning."
+    },
+    {
+     "anchor": "ibn-ezra:8:2:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: it was shut up inside the storehouse. The English: held back."
+    },
+    {
+     "anchor": "ramban:8:4:5",
+     "relation": "records",
+     "summary": "Ramban: no more rain fell until they left the ark; the heavens were like iron."
+    }
+   ]
+  },
+  {
+   "ref": "8:3",
+   "english": "The waters withdrew from the earth steadily, and the waters decreased at the end of a hundred and fifty days.",
+   "literal": "and-returned the-waters from-upon the-earth going and-returning and-decreased the-waters from-end-of fifty and-hundred-of day",
+   "tokens": [
+    {
+     "id": "8:3.1",
+     "gloss": "and they withdrew",
+     "sense": "Qal 2",
+     "note": "wayyiqtol of שׁוב: 'return', here 'go back' from the earth."
+    },
+    {
+     "id": "8:3.2",
+     "gloss": "the waters"
+    },
+    {
+     "id": "8:3.3",
+     "gloss": "from upon",
+     "note": "מֵעַל: a compound preposition, 'from on top of'."
+    },
+    {
+     "id": "8:3.4",
+     "gloss": "the earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "8:3.5",
+     "gloss": "going",
+     "note": "infinitive absolute of הלך: continuing action, 'going on'. The entry in the pack has no sense for this use (Qal II.2 is 'live, walk'), so no sense is given."
+    },
+    {
+     "id": "8:3.6",
+     "gloss": "and returning",
+     "sense": "Qal 2",
+     "note": "infinitive absolute of שׁוב; after וַיָּשֻׁבוּ, הָלוֹךְ וָשׁוֹב means 'going back continually', little by little (Radak, Ramban), not 'to and fro'."
+    },
+    {
+     "id": "8:3.7",
+     "gloss": "and they decreased",
+     "sense": "Qal 3",
+     "note": "wayyiqtol of חסר, 'be lacking, diminish'."
+    },
+    {
+     "id": "8:3.8",
+     "gloss": "the waters"
+    },
+    {
+     "id": "8:3.9",
+     "gloss": "from the end of",
+     "note": "מִקְצֵה: construct, 'from the end of'."
+    },
+    {
+     "id": "8:3.10",
+     "gloss": "fifty"
+    },
+    {
+     "id": "8:3.11",
+     "gloss": "and a hundred",
+     "note": "construct of מֵאָה"
+    },
+    {
+     "id": "8:3.12",
+     "gloss": "days",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:3.1",
+      "8:3.2",
+      "8:3.3",
+      "8:3.4"
+     ],
+     "english": "The waters withdrew from the earth",
+     "literal": "'and-returned the-waters from-upon the-earth'"
+    },
+    {
+     "tokens": [
+      "8:3.5",
+      "8:3.6"
+     ],
+     "english": "steadily",
+     "literal": "'going and-returning': a pair of infinitive absolutes showing continuing action."
+    },
+    {
+     "tokens": [
+      "8:3.7",
+      "8:3.8"
+     ],
+     "english": "and the waters decreased",
+     "literal": "'and-decreased the-waters'"
+    },
+    {
+     "tokens": [
+      "8:3.9",
+      "8:3.10",
+      "8:3.11",
+      "8:3.12"
+     ],
+     "english": "at the end of a hundred and fifty days",
+     "literal": "'from-end-of fifty and-hundred-of day'"
+    }
+   ],
+   "grammar": [
+    "הָלוֹךְ וָשׁוֹב: two infinitive absolutes after a finite verb express continuing action (compare 8:5, הָלוֹךְ וְחָסוֹר).",
+    "The tevir on הַמַּיִם and the etnaḥta on וָשׁוֹב divide the verse after the first clause; the zaqef gadol on מִקְצֵה sets the number apart.",
+    "וַיַּחְסְרוּ is a stative Qal wayyiqtol of a verb with a stative vowel (חָסֵר).",
+    "The word order of the second clause puts the verb before its subject: וַיַּחְסְרוּ הַמַּיִם."
+   ],
+   "note": "'Steadily' translates the idiom; the words 'going and returning' are in the literal line. The English follows the timing of Rashi, Ibn Ezra and Radak: the waters began to decrease at the end of the hundred and fifty days. Ramban joins מִקְצֵה with the following 'the ark came to rest'.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:3:1",
+     "relation": "follows",
+     "summary": "Rashi: they began to decrease on the first of Sivan. How? The rains stopped on 27 Kislev; there are three more of Kislev, twenty-nine of Tevet, and so on to one hundred and fifty."
+    },
+    {
+     "anchor": "ibn-ezra:8:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: וַיָּשֻׁבוּ means below the earth as usual, at the end of the hundred and fifty days; he rejects the attempts to compute the months by the sun or by intercalation. The English: steadily, at the end of the days."
+    },
+    {
+     "anchor": "radak:8:3:1",
+     "relation": "follows",
+     "summary": "Radak: little by little, until they decreased at the end of a hundred and fifty days; they began to decrease on 1 Sivan, when the rising stopped."
+    },
+    {
+     "anchor": "ramban:8:4:6",
+     "relation": "records",
+     "summary": "Ramban: the waters were decreasing little by little until the ground was dry; the words מִקְצֵה חֲמִשִּׁים וּמְאַת יוֹם join to וַתָּנַח הַתֵּבָה: on that day the decrease was great."
+    }
+   ]
+  },
+  {
+   "ref": "8:4",
+   "english": "The ark came to rest in the seventh month, on the seventeenth day of the month, on the mountains of Ararat.",
+   "literal": "and-rested the-ark in-the-month the-seventh in-seven-ten day of-the-month upon mountains-of Ararat",
+   "tokens": [
+    {
+     "id": "8:4.1",
+     "gloss": "and it came to rest",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, feminine singular, to agree with תֵּבָה; the root נוח 'rest' is also Noah's name."
+    },
+    {
+     "id": "8:4.2",
+     "gloss": "the ark"
+    },
+    {
+     "id": "8:4.3",
+     "gloss": "in the month"
+    },
+    {
+     "id": "8:4.4",
+     "gloss": "the seventh"
+    },
+    {
+     "id": "8:4.5",
+     "gloss": "on seven",
+     "note": "שִׁבְעָה עָשָׂר: 'seven-ten', the way Hebrew says seventeen."
+    },
+    {
+     "id": "8:4.6",
+     "gloss": "ten"
+    },
+    {
+     "id": "8:4.7",
+     "gloss": "day",
+     "sense": "1"
+    },
+    {
+     "id": "8:4.8",
+     "gloss": "of the month"
+    },
+    {
+     "id": "8:4.9",
+     "gloss": "on"
+    },
+    {
+     "id": "8:4.10",
+     "gloss": "the mountains of",
+     "sense": "1",
+     "note": "construct plural; 'mountains' may mean the region (sense 2)."
+    },
+    {
+     "id": "8:4.11",
+     "gloss": "Ararat",
+     "note": "a region name, 'Ararat'; the text says mountains of Ararat, not one mountain."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:4.1",
+      "8:4.2"
+     ],
+     "english": "The ark came to rest",
+     "literal": "'and-rested the-ark'"
+    },
+    {
+     "tokens": [
+      "8:4.3",
+      "8:4.4"
+     ],
+     "english": "in the seventh month",
+     "literal": "'in-the-month the-seventh'"
+    },
+    {
+     "tokens": [
+      "8:4.5",
+      "8:4.6",
+      "8:4.7",
+      "8:4.8"
+     ],
+     "english": "on the seventeenth day of the month",
+     "literal": "'in-seven-ten day of-the-month'"
+    },
+    {
+     "tokens": [
+      "8:4.9",
+      "8:4.10",
+      "8:4.11"
+     ],
+     "english": "on the mountains of Ararat",
+     "literal": "'upon mountains-of Ararat'"
+    }
+   ],
+   "grammar": [
+    "וַתָּנַח: the verb is feminine, as תֵּבָה is feminine; a play on נֹחַ, whose name comes from נוח.",
+    "The date has three parts: the month by ordinal (הַשְּׁבִיעִי), the day by cardinal (שִׁבְעָה עָשָׂר יוֹם), and then 'of the month'.",
+    "The zaqef qaton on הַשְּׁבִיעִי and the etnaḥta on לַחֹדֶשׁ separate the date from the place."
+   ],
+   "note": "The English does not say which reckoning gives 'the seventh month'. Rashi and Radak count from the stopping of the rain (Sivan); Ramban attributes another reckoning to Ibn Ezra and others. Rashi's inference that the ark sank eleven cubits is a calculation from the days and cubits.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:4:1",
+     "relation": "records",
+     "summary": "Rashi: the seventh month is Sivan, the seventh from the stopping of the rains in Kislev. The English leaves the starting point of the count open."
+    },
+    {
+     "anchor": "rashi:8:4:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: from here you learn that the ark was sunk eleven cubits in the water, by a calculation from the exposure of the mountain tops at a rate of one cubit in four days. A computation that does not bear on the words."
+    },
+    {
+     "anchor": "ramban:8:4:1",
+     "relation": "records",
+     "summary": "Ramban: rejects Rashi's counts as not suiting the wording and says the sinking is not proved."
+    },
+    {
+     "anchor": "radak:8:4:1",
+     "relation": "records",
+     "summary": "Radak: the seventh month is Sivan, the seventh from the rain's stopping; the ark rested on the seventeenth of it."
+    },
+    {
+     "anchor": "radak:8:4:2",
+     "relation": "not-applicable",
+     "summary": "Radak: the mountains of Ararat may be the high ones, or the ark was in that region; some are lower, since not all were seen until the tenth month."
+    }
+   ]
+  },
+  {
+   "ref": "8:5",
+   "english": "The waters continued to diminish steadily until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains became visible.",
+   "literal": "and-the-waters were going and-diminishing until the-month the-tenth in-the-tenth on-one to-the-month were-seen heads-of the-mountains",
+   "tokens": [
+    {
+     "id": "8:5.1",
+     "gloss": "and the waters"
+    },
+    {
+     "id": "8:5.2",
+     "gloss": "they were",
+     "sense": "Qal III.2",
+     "note": "perfect, plural of היה with infinitive absolutes: a continuous 'kept on'."
+    },
+    {
+     "id": "8:5.3",
+     "gloss": "going",
+     "note": "infinitive absolute of הלך: continuing action, 'going on'. The entry in the pack has no sense for this use (Qal II.2 is 'live, walk'), so no sense is given."
+    },
+    {
+     "id": "8:5.4",
+     "gloss": "and diminishing",
+     "sense": "Qal 3",
+     "note": "infinitive absolute of חסר, 'be lacking, diminish'; הָלוֹךְ וְחָסוֹר 'ever decreasing'."
+    },
+    {
+     "id": "8:5.5",
+     "gloss": "until"
+    },
+    {
+     "id": "8:5.6",
+     "gloss": "the month"
+    },
+    {
+     "id": "8:5.7",
+     "gloss": "the tenth"
+    },
+    {
+     "id": "8:5.8",
+     "gloss": "in the tenth"
+    },
+    {
+     "id": "8:5.9",
+     "gloss": "on the first",
+     "sense": "7",
+     "note": "'on one of the month': the first day of the month."
+    },
+    {
+     "id": "8:5.10",
+     "gloss": "of the month"
+    },
+    {
+     "id": "8:5.11",
+     "gloss": "they became visible",
+     "sense": "Niph 3",
+     "note": "perfect, plural, Niphal of ראה"
+    },
+    {
+     "id": "8:5.12",
+     "gloss": "the tops of",
+     "sense": "2.a",
+     "note": "construct plural of רֹאשׁ: the heads of the mountains."
+    },
+    {
+     "id": "8:5.13",
+     "gloss": "the mountains",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:5.1",
+      "8:5.2",
+      "8:5.3",
+      "8:5.4"
+     ],
+     "english": "The waters continued to diminish steadily",
+     "literal": "'and-the-waters were going and-diminishing'"
+    },
+    {
+     "tokens": [
+      "8:5.5",
+      "8:5.6",
+      "8:5.7"
+     ],
+     "english": "until the tenth month",
+     "literal": "'until the-month the-tenth'"
+    },
+    {
+     "tokens": [
+      "8:5.8",
+      "8:5.9",
+      "8:5.10"
+     ],
+     "english": "in the tenth month, on the first day of the month",
+     "literal": "'in-the-tenth on-one to-the-month'"
+    },
+    {
+     "tokens": [
+      "8:5.11",
+      "8:5.12",
+      "8:5.13"
+     ],
+     "english": "the tops of the mountains became visible",
+     "literal": "'were-seen heads-of the-mountains'"
+    }
+   ],
+   "grammar": [
+    "הָיוּ הָלוֹךְ וְחָסוֹר: the finite verb 'be' with two infinitive absolutes gives the sense 'kept on diminishing'.",
+    "The tenth month is named twice: in full after עַד (עַד הַחֹדֶשׁ הָעֲשִׂירִי), then by the ordinal alone after בְּ (בָּעֲשִׂירִי), with חֹדֶשׁ understood.",
+    "The date uses בְּאֶחָד לַחֹדֶשׁ for 'on the first of the month', with ל for 'of'.",
+    "נִרְאוּ is the Niphal 'appeared, was seen'; the subject רָאשֵׁי הֶהָרִים is plural."
+   ],
+   "note": "'Became visible' for Niphal of ראה. Radak: they did not all go down until the land was seen; the mountain tops were first seen in the tenth month and the decrease continued after.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:5:1",
+     "relation": "records",
+     "summary": "Rashi: the tenth is Av, the tenth from Marheshvan, when the rain began; the seventh month he counts from the stopping, but the tenth cannot be counted from the stopping. The English leaves the count open."
+    },
+    {
+     "anchor": "ibn-ezra:8:5:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: Noah fixed the first of the month without seeing the moon, since the window was not yet open; the tenth month is counted from the day of the flood, and he sent the raven on the tenth of Shevat. The English leaves the reckoning open."
+    },
+    {
+     "anchor": "radak:8:5:1",
+     "relation": "follows",
+     "summary": "Radak: they kept diminishing, as in 'the creatures ran and returned' (Ezekiel 1:14)."
+    },
+    {
+     "anchor": "radak:8:5:2",
+     "relation": "follows",
+     "summary": "Radak: it does not say all the water was gone in the tenth month; only the tops of the mountains were seen then, and the decrease went on after."
+    },
+    {
+     "anchor": "ramban:8:5:1",
+     "relation": "records",
+     "summary": "Ramban: the order is inverted: the waters kept diminishing until the mountain tops were seen in the tenth month, which is Tammuz."
+    }
+   ]
+  },
+  {
+   "ref": "8:6",
+   "english": "At the end of forty days Noah opened the window of the ark that he had made.",
+   "literal": "and-it-was from-end-of forty day and-opened Noah [object-marker] window-of the-ark which he-made",
+   "tokens": [
+    {
+     "id": "8:6.1",
+     "gloss": "and it was",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol of היה as a time formula: 'and it came to pass'."
+    },
+    {
+     "id": "8:6.2",
+     "gloss": "from the end of",
+     "sense": "1",
+     "note": "מִקֵּץ: construct, 'at the end of'."
+    },
+    {
+     "id": "8:6.3",
+     "gloss": "forty"
+    },
+    {
+     "id": "8:6.4",
+     "gloss": "days",
+     "sense": "1"
+    },
+    {
+     "id": "8:6.5",
+     "gloss": "and he opened",
+     "sense": "Qal",
+     "note": "wayyiqtol of פתח"
+    },
+    {
+     "id": "8:6.6",
+     "gloss": "Noah"
+    },
+    {
+     "id": "8:6.7",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "8:6.8",
+     "gloss": "the window of",
+     "note": "חַלּוֹן: construct; the same as the צֹהַר of 6:16 (Rashi, Radak)."
+    },
+    {
+     "id": "8:6.9",
+     "gloss": "the ark"
+    },
+    {
+     "id": "8:6.10",
+     "gloss": "that"
+    },
+    {
+     "id": "8:6.11",
+     "gloss": "he had made",
+     "sense": "Qal II.1",
+     "note": "perfect of עשׂה: the window made earlier, hence the pluperfect in English."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "8:6.1",
+      "8:6.2",
+      "8:6.3",
+      "8:6.4"
+     ],
+     "english": "At the end of forty days",
+     "literal": "'and-it-was from-end-of forty day': the narrative formula וַיְהִי with a time phrase."
+    },
+    {
+     "tokens": [
+      "8:6.5",
+      "8:6.6"
+     ],
+     "english": "Noah opened",
+     "literal": "'and-opened Noah'"
+    },
+    {
+     "tokens": [
+      "8:6.7",
+      "8:6.8",
+      "8:6.9"
+     ],
+     "english": "the window of the ark",
+     "literal": "'[marker] window-of the-ark'"
+    },
+    {
+     "tokens": [
+      "8:6.10",
+      "8:6.11"
+     ],
+     "english": "that he had made",
+     "literal": "'which he-made'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי with a time phrase begins a new episode: 'at the end of forty days'.",
+    "The zaqef gadol on וַיְהִי and the etnaḥta on יוֹם set the time clause apart from the main clause וַיִּפְתַּח נֹחַ.",
+    "אֲשֶׁר עָשָׂה is a perfect that refers back to 6:16: 'which he had made'."
+   ],
+   "note": "'The window' is the opening of 6:16 (צֹהַר). The starting point of the forty days is not given by the Hebrew: Rashi counts from the sight of the tops of the mountains; Radak prefers from the ark's coming to rest.",
+   "commentary": [
+    {
+     "anchor": "rashi:8:6:1",
+     "relation": "records",
+     "summary": "Rashi: from the time the mountain tops were seen. The English leaves the starting point of the forty days open."
+    },
+    {
+     "anchor": "rashi:8:6:2",
+     "relation": "follows",
+     "summary": "Rashi: the window is for the light-opening (צֹהַר), and not the ark's door made for entering and leaving. The English: window."
+    },
+    {
+     "anchor": "radak:8:6:1",
+     "relation": "records",
+     "summary": "Radak: the forty days are from when the ark rested on the mountains of Ararat, since Noah could not have known when the water began to decrease, but felt the ark rest on something solid."
+    },
+    {
+     "anchor": "radak:8:6:2",
+     "relation": "follows",
+     "summary": "Radak: it is the צֹהַר of 6:16, and from it he sent the raven; he waited because he feared the waves would come in through it."
+    }
+   ]
+  }
+ ]
+}
