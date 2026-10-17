@@ -1,0 +1,396 @@
+{
+ "unit": "noach-18",
+ "model": "opus",
+ "summary": "A sound unit: the English of 11:1-8 is accurate and follows the normative commentators, and only 11:7 is changed, to add the quotation marks of the LORD's continuing speech. The faults are in the apparatus around it. Several senses were filled mechanically (בִּקְעָה, שֵׁם, לַעֲשׂוֹת, חָדַל, בְּנֵי), and a number of commentary summaries misreport the comment: Rashi's 'against the Only One' (11:1), Ibn Ezra on the gender of לְבֵנִים (11:3), on חֵמָר, which he takes as bitumen in place of clay, not as clay (11:3), on the pataḥ of הַחִלָּם and on the roots of יָזְמוּ (11:6). Rashi's interrogative reading of 11:6 was ruled 'follows' though the English is a statement with Ibn Ezra. Grammar notes misplaced Radak's pausal point on לְאָבֶן, misnamed the accents of 11:6 and gave אַחַת for pausal אֶחָת; the Onkelos line at 11:3 and the Ramban line at 11:2 were wrong.",
+ "patches": [
+  {
+   "ref": "11:1",
+   "path": "token:11:1.5.note",
+   "value": "pausal form of אַחַת under the etnaḥta: segol for pataḥ under the alef",
+   "severity": "style",
+   "reason": "The text has the pausal form אֶחָת, not אַחַת; a learner needs this pointed out."
+  },
+  {
+   "ref": "11:1",
+   "path": "grammar",
+   "value": [
+    "וַיְהִי with a subject and a following predicate (שָׂפָה אֶחָת) states a condition: 'the whole earth was of one language'.",
+    "כָל־הָאָרֶץ is the whole earth by metonymy for all its people (Radak: כָּל בְּנֵי הָאָרֶץ).",
+    "אֲחָדִים is the plural of אֶחָד, rare; it agrees in gender with דְּבָרִים (masculine), while שָׂפָה takes the feminine אֶחָת.",
+    "אֶחָת is the pausal form of אַחַת (segol for pataḥ) under the etnaḥta, which divides the verse: 'one language' // 'and the same words'."
+   ],
+   "severity": "error",
+   "reason": "Two notes cite the word as אַחַת; the verse has the pausal form אֶחָת (etnaḥta), and the notes should say so."
+  },
+  {
+   "ref": "11:1",
+   "path": "commentary:rashi:11:1:2.summary",
+   "value": "Rashi: they came with one counsel and said, 'He has no right to choose the upper realms for Himself; let us go up to the firmament and make war with Him.' Another interpretation: their words were against the Only One of the world. Another: they said that once every 1656 years the firmament totters, as it did in the days of the flood, so let us make supports for it (Bereshit Rabbah). The English keeps the plain sense 'the same words', with Ibn Ezra.",
+   "severity": "error",
+   "reason": "'על יחידו של עולם' means 'against the Only One of the world' (their words were aimed at God), not 'on His oneness'; and Rashi gives three readings (דבר אחר), not one reading with a midrashic addition. The summary also left out the supports (סמיכות) for the firmament."
+  },
+  {
+   "ref": "11:1",
+   "path": "commentary:ibn-ezra:11:1:1.summary",
+   "value": "Ibn Ezra: אֶחָת has a small pataḥ (segol) under the alef when absolute, and a big pataḥ (pataḥ) when in construct (אַחַת). The dispersion was about a hundred years after the flood, and Peleg was named for it; following Seder Olam, Abraham was among the builders, with Noah and Shem still alive. 'One language' means one tongue, most likely the holy tongue, as the names Adam, Eve, Cain, Seth and Peleg witness.",
+   "severity": "style",
+   "reason": "'Small pataḥ' is Ibn Ezra's term for segol, which a learner would misread as pataḥ; the summary also omitted the construct form and his chronology of the dispersion."
+  },
+  {
+   "ref": "11:2",
+   "path": "token:11:2.5.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The gloss and the English are 'a plain', and Ibn Ezra explains בקעה as a level plain (ערבה ישרה); that is sense 2, not sense 1 'valley'."
+  },
+  {
+   "ref": "11:2",
+   "path": "commentary:ibn-ezra:11:2:1.summary",
+   "value": "Ibn Ezra: the words 'as they set out from the east' are a sign that the mountains of Ararat are in the east.",
+   "severity": "style",
+   "reason": "Ibn Ezra says only that Ararat lies in the east; 'so they travelled westward' is the translator's inference, not his comment."
+  },
+  {
+   "ref": "11:2",
+   "path": "apparatus",
+   "value": [
+    "מִקֶּדֶם can also mean 'eastward' or 'of old' (lexicon senses 1.b and 2). Ramban rejects Rashi's link with 'the mountain of the east' (10:30): that verse speaks only of Shem's descendants, while Japheth's and Ham's were more numerous, and their settlement in their lands came after the dispersion. He agrees with Ibn Ezra that Ararat lies in the east, near Assyria, and that Noah's descendants moved from there to the plain.",
+    "Onkelos translates 'in the beginning' (בְּקַדְמֵיתָא), taking קדם as 'of old', and 'land of Babylon' for שִׁנְעָר."
+   ],
+   "severity": "error",
+   "reason": "The first line attached Ramban to an 'eastward / in the east' reading he does not give, and misstated his objection: Ramban does not say Rashi limited the migrants to Shem's line; he objects that 10:30 concerns only Shem's line and so cannot describe the migrants. He also agrees with Ibn Ezra on Ararat."
+  },
+  {
+   "ref": "11:3",
+   "path": "token:11:3.9.note",
+   "value": "לְ + the cognate noun שְׂרֵפָה 'burning': 'let us burn to a burning', that is, burn thoroughly",
+   "severity": "error",
+   "reason": "שְׂרֵפָה is a noun (the pack parses it so), not an infinitive."
+  },
+  {
+   "ref": "11:3",
+   "path": "token:11:3.13.note",
+   "value": "לְ: 'as, for'; אָבֶן with qamets is the pausal form of אֶבֶן under the zaqef qaton (Radak)",
+   "severity": "style",
+   "reason": "The pausal form is the point Radak makes on this word; the learner needs it here."
+  },
+  {
+   "ref": "11:3",
+   "path": "grammar",
+   "value": [
+    "הָבָה is the imperative of יָהַב ('give') with paragogic he, but it functions as an interjection ('come now'), and so can address women or a plural group (Radak, Ibn Ezra).",
+    "נִלְבְּנָה לְבֵנִים and נִשְׂרְפָה לִשְׂרֵפָה pair a cohortative verb with a cognate noun; Radak compares 'and David fasted a fast'.",
+    "The first clause of the second sentence (וַתְּהִי ... הַלְּבֵנָה לְאָבֶן) has verb first; the second (וְהַחֵמָר הָיָה ...) has subject first, giving the two a chiastic balance.",
+    "אֶבֶן and לְבֵנָה, חֵמָר and חֹמֶר form two sound-pairs: stone/brick, bitumen/mortar.",
+    "לְאָבֶן has qamets under the alef instead of segol (אֶבֶן): a pausal form under the zaqef qaton, as Radak notes (compare פָּרֶץ, Ruth 4:18; עָבֶד, Gen 44:17)."
+   ],
+   "severity": "error",
+   "reason": "The last note put Radak's point on וַתְּהִי and its qadma. Radak's comment is that לְאָבֶן takes qamets with the zaqef qaton, a pausal form."
+  },
+  {
+   "ref": "11:3",
+   "path": "note",
+   "value": "חֵמָר is rendered 'bitumen' (the lexicon's sense); Ibn Ezra agrees (the word as in Arabic, used in place of clay). Radak takes חֵמָר as clay kneaded with water, recorded here. Rashi's remark that there are no stones in Babylon explains why brick stood for stone.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not gloss חֵמָר as clay: 'תחת טיט' means 'instead of clay', parallel to his 'תחת אבן' for the brick, and he says the word means what it does in Arabic (ḥummar, bitumen)."
+  },
+  {
+   "ref": "11:3",
+   "path": "commentary:ibn-ezra:11:3:1.summary",
+   "value": "Ibn Ezra: נִלְבְּנָה is from לְבֵנִים; although that plural ends in ־ים, the noun is feminine, like נָשִׁים and פִּילַגְשִׁים. They burned the bricks until they were hard: the strong building that neither water nor fire dissolves.",
+   "severity": "error",
+   "reason": "The summary reversed Ibn Ezra: he says the plural has the masculine ending ־ים although the noun is feminine (like נשים), not that it has a feminine ending."
+  },
+  {
+   "ref": "11:3",
+   "path": "commentary:ibn-ezra:11:3:3",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: the bitumen served 'instead of clay' (תחת טיט), and the word means what it does in Arabic ('the language of Ishmael'), that is, bitumen; the English follows him. He adds that the builders were not fools who thought to climb to heaven, nor afraid of a flood, since Noah and his sons were with them, but meant to build a great city to live in and a tall tower as a sign, a name and a renown, so that those out with the flocks could find the city and their name would last as long as the tower stood."
+   },
+   "severity": "error",
+   "reason": "'תחת טיט' parallels 'תחת אבן' in the previous comment: bitumen in place of clay. Ibn Ezra supports 'bitumen' and does not gloss חֵמָר as clay, so the ruling 'records' and its summary misreport him."
+  },
+  {
+   "ref": "11:3",
+   "path": "apparatus",
+   "value": [
+    "Onkelos keeps חֵמָר as חֵימָרָא and renders לַחֹמֶר as לְשִׁיעַ ('for plaster'); for לְבֵנִים he has לִבְנִין, and for לִשְׂרֵפָה 'in fire' (בְּנוּרָא)."
+   ],
+   "severity": "error",
+   "reason": "Onkelos does not translate חֵמָר as 'mortar': he keeps חֵימָרָא, and לְשִׁיעַ renders לַחֹמֶר."
+  },
+  {
+   "ref": "11:4",
+   "path": "token:11:4.11.sense",
+   "value": "2.b",
+   "severity": "error",
+   "reason": "The gloss and note give 'a name' as fame, reputation; that is sense 2.b, not sense 3 'name'."
+  },
+  {
+   "ref": "11:5",
+   "path": "token:11:5.10.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The gloss is 'the children of'; the entry's sense 2 is 'children', sense 1 'son'."
+  },
+  {
+   "ref": "11:5",
+   "path": "token:11:5.11.sense",
+   "value": "1",
+   "severity": "question",
+   "reason": "The translation follows Rashi, for whom הָאָדָם here is the first human individual, not mankind; sense 1 'a man' (an individual human) fits that reading better than sense 2 'man, mankind'. Proposed: 1."
+  },
+  {
+   "ref": "11:5",
+   "path": "grammar",
+   "value": [
+    "לִרְאֹת is an infinitive of purpose: the LORD came down 'in order to see'.",
+    "The verb 'came down' (וַיֵּרֶד) is a human idiom for divine attention (Ibn Ezra, Radak).",
+    "In the relative clause אֲשֶׁר בָּנוּ בְּנֵי הָאָדָם the verb stands before the subject.",
+    "בְּנֵי הָאָדָם: with the article, 'the human'; Rashi asks whose sons else they could be, and takes it as the sons of the first human, who were ungrateful as he was."
+   ],
+   "severity": "style",
+   "reason": "The last note gave a reading (a contrast with the LORD) that none of the pack's commentators makes; Rashi's reading, which the translation follows, is the one to give."
+  },
+  {
+   "ref": "11:6",
+   "path": "token:11:6.11.sense",
+   "value": "Qal I.1",
+   "severity": "error",
+   "reason": "לַעֲשׂוֹת here is 'to do' (the gloss), Qal I.1, not Qal II.1 'make'."
+  },
+  {
+   "ref": "11:6",
+   "path": "token:11:6.19.sense",
+   "value": "Qal I.1",
+   "severity": "error",
+   "reason": "לַעֲשׂוֹת here is 'to do' (the gloss), Qal I.1, not Qal II.1 'make'."
+  },
+  {
+   "ref": "11:6",
+   "path": "token:11:6.18.note",
+   "value": "the pack parses it as qal yiqtol of זמם; Ibn Ezra: it means the same as זָמְמוּ 'they planned', but is of a different root",
+   "severity": "error",
+   "reason": "Ibn Ezra says יזמו and זממו 'are two roots'; the note made him say the root is זמם."
+  },
+  {
+   "ref": "11:6",
+   "path": "grammar",
+   "value": [
+    "הֵן ('look') and the verbless clause עַם אֶחָד וְשָׂפָה אַחַת לְכֻלָּם state the speaker's observation.",
+    "הַחִלָּם is a hifil infinitive construct of חלל ('begin') with suffix ם; the pataḥ under the ה is explained by the following ח (Ibn Ezra), and Rashi glosses it 'their beginning to do'.",
+    "לֹא־יִבָּצֵר is a nifal of בצר: 'be cut off, withheld, restrained' (Rashi, Ibn Ezra, Radak).",
+    "יָזְמוּ: the pack parses it as qal yiqtol of זמם 'plan, devise'. Ibn Ezra says it has the sense of זָמְמוּ but is a different root; Radak explains it as 'thought, planning'.",
+    "The pashtas on אֶחָד and אַחַת and the zaqef qaton on לְכֻלָּם mark the LORD's observations; the etnaḥta on לַעֲשׂוֹת closes the first half of the verse."
+   ],
+   "severity": "error",
+   "reason": "Note 4 misreported Ibn Ezra (he says the two words are of two roots, not that the root is זמם). Note 5 misnamed the accents: עַם and וְשָׂפָה carry mahpakh, not munaḥ."
+  },
+  {
+   "ref": "11:6",
+   "path": "note",
+   "value": "The sentence is given as a statement, with Ibn Ezra ('if I leave them, they will think they can do whatever they wish'); Rashi reads it as a rhetorical question (בתמיה): 'and now, shall nothing be withheld from them that they plan to do?'. 'Held back' renders the nifal of בצר (Ibn Ezra: ימנע, 'be prevented'). The speaker is given only as 'the LORD'; Ibn Ezra and Radak say he spoke to the angels.",
+   "severity": "style",
+   "reason": "Rashi's בתמיה marks a question, not an exclamation of wonder; the note should give the question and the reading the English follows."
+  },
+  {
+   "ref": "11:6",
+   "path": "commentary:rashi:11:6:3",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: the clause is a question (בתמיה): 'and now, shall it not be withheld from them...?'. יִבָּצֵר means 'prevention', as the Targum renders it, like 'He cuts off the spirit of princes' (Ps 76:13). The English takes 'held back' from him but reads the clause as a statement, with Ibn Ezra; the question is recorded in the note."
+   },
+   "severity": "error",
+   "reason": "The English is a statement, so it does not adopt Rashi's interrogative reading; the ruling 'follows' was wrong and 'in astonishment' does not convey that בתמיה marks a question."
+  },
+  {
+   "ref": "11:6",
+   "path": "commentary:ibn-ezra:11:6:3.summary",
+   "value": "Ibn Ezra: the ה of הַחִלָּם is pointed with a big pataḥ (pataḥ) because of the ח after it, as in הַחִלֹּתִי (Deut 2:31). A point of vocalisation.",
+   "severity": "error",
+   "reason": "The pataḥ Ibn Ezra explains is the one under the ה, caused by the following ח, not a pataḥ 'on the ח'."
+  },
+  {
+   "ref": "11:6",
+   "path": "commentary:ibn-ezra:11:6:5.summary",
+   "value": "Ibn Ezra: יָזְמוּ has the sense of זָמְמוּ ('they planned'), but the two words are of two different roots.",
+   "severity": "style",
+   "reason": "The summary was unclear about which two roots he means."
+  },
+  {
+   "ref": "11:7",
+   "path": "english",
+   "value": "\"Come, let us go down and confuse their language there, so that they will not understand one another's language.\"",
+   "severity": "style",
+   "reason": "The verse continues the LORD's speech begun in 11:6, whose closing quotation mark ends it; 11:7 needs its own quotation marks."
+  },
+  {
+   "ref": "11:8",
+   "path": "token:11:8.9.sense",
+   "value": "Qal 2",
+   "severity": "error",
+   "reason": "Of persons leaving off an action, with the infinitive, חָדַל is Qal 2 'cease, leave off', not Qal 1 'come to an end'."
+  },
+  {
+   "ref": "11:8",
+   "path": "commentary:ibn-ezra:11:8:1.summary",
+   "value": "Ibn Ezra: 'they stopped building the city' means stopped completing it, for they had already built part of the city and part of the tower, as it says 'which the sons of man built' (11:5); or 'built' may mean in their thoughts, as 'he fought against Israel' is said of Balak (Josh 24:9). He prefers the first.",
+   "severity": "style",
+   "reason": "The summary left out his proof text and his stated preference for the first reading."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:11:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:1:2",
+   "verdict": "contradicts",
+   "comment": "Rashi reads 'one counsel' against God; Ibn Ezra, the other normative commentator, reads the plain sense 'the same words'. The English follows Ibn Ezra and records Rashi, as the brief allows where they differ."
+  },
+  {
+   "anchor": "ibn-ezra:11:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:1:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:2:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:3:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:3:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:3:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:3:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:3:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:3:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:4:2",
+   "verdict": "not-applicable",
+   "comment": "Matched to 11:3 by the program; the comment concerns 'its top in the heavens' in 11:4, with which the English there is consistent."
+  },
+  {
+   "anchor": "rashi:11:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:5:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:11:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:6:3",
+   "verdict": "contradicts",
+   "comment": "Rashi reads the clause as a question; Ibn Ezra reads it as a statement ('if I leave them, they will think they can do anything'). The English follows Ibn Ezra; the ruling is patched to 'records' and the note gives Rashi's question."
+  },
+  {
+   "anchor": "ibn-ezra:11:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:6:3",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:11:6:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:6:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:7:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:11:7:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:7:4",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:11:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:7:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:11:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:11:8:1",
+   "verdict": "consistent"
+  }
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "unit": "lekh-lekha-02",
+ "model": "opus",
+ "summary": "The English of the unit is faithful and plain; the faults are in the apparatus. Several senses do not fit their glosses (12:9.3, 12:10.1, 12:11.4, 12:13.10, 12:14.2, 12:15.9), and several learner notes are false (the 'long form' אָתְּ, a qadma that is not in 12:11, the double pashta, הִוא as copula, the zaqef in 12:14). Three of Ibn Ezra's grammatical comments are mis-summarized (12:11:3, 12:13:1, 12:13:2, 12:15:2). In 12:15 the English 'praised her to Pharaoh' departs from Rashi, the only normative comment on the words; a question patch proposes 'for Pharaoh'.",
+ "patches": [
+  {
+   "ref": "12:9",
+   "path": "token:12:9.3.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Qal II.2 is the figurative 'live, walk' (manner of life); the literal 'go' of a journey (BDB Qal I) is not among the senses the pack lists, so no listed sense fits."
+  },
+  {
+   "ref": "12:9",
+   "path": "token:12:9.3.note",
+   "value": "infinitive absolute of הלך; with the next word it gives continuing action. The sense is the plain 'go' (BDB Qal I), which the pack's entry does not list; Qal II.2 'live, walk' is the figurative sense and does not fit, so no sense is given.",
+   "severity": "error",
+   "reason": "records why the sense was removed"
+  },
+  {
+   "ref": "12:10",
+   "path": "token:12:10.1.sense",
+   "value": "Qal I.1.b",
+   "severity": "error",
+   "reason": "וַיְהִי רָעָב is 'a famine occurred', not the narrative formula 'and it came to pass' (Qal I.2.a.(1)), which introduces a following clause."
+  },
+  {
+   "ref": "12:10",
+   "path": "commentary:rashi:12:10:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: the famine was in that land alone (בְּאוֹתָהּ הָאָרֶץ לְבַדָּהּ), to test Abram whether he would question God's word, who had told him to go to Canaan and now drives him out of it. His plain point, that 'the land' is Canaan, agrees with Ibn Ezra and with the English; the motive of testing is homiletic and does not change the English."
+   },
+   "severity": "error",
+   "reason": "Rashi's reading of בָּאָרֶץ as Canaan alone is the reading the English adopts, not an alternative it declines to adopt."
+  },
+  {
+   "ref": "12:10",
+   "path": "grammar",
+   "value": [
+    "וַיְהִי רָעָב: the wayyiqtol of הָיָה with an indefinite subject after it, 'there was a famine'.",
+    "מִצְרַיְמָה carries the directional he, 'to Egypt'. Pashta is written on the last letter; it is repeated on רַ because the word is stressed on the penult.",
+    "לָגוּר is the infinitive construct with לְ, giving the purpose; גּוּר is to live as a resident alien, not to settle (Radak, Sforno).",
+    "כִּי gives the reason, and the adjective כָּבֵד 'heavy' precedes its subject in the predicate.",
+    "The etnaḥta on the first בָּאָרֶץ divides the verse: the famine, then Abram's going down and its reason."
+   ],
+   "severity": "error",
+   "reason": "the double pashta does not 'mark the word as a unit': the second sign marks the penultimate stress."
+  },
+  {
+   "ref": "12:11",
+   "path": "token:12:11.4.sense",
+   "value": "Qal 1",
+   "severity": "error",
+   "reason": "the gloss is 'to enter', which is Qal 1 'come in', not Qal 2 'come'."
+  },
+  {
+   "ref": "12:11",
+   "path": "token:12:11.17.note",
+   "value": "אַתְּ, the feminine 'you'; here in pause (silluq) with qamets, אָתְּ. The dagesh in ת stands for an assimilated nun (*ʾant-), as Ibn Ezra notes on 12:13.",
+   "severity": "error",
+   "reason": "אַתְּ is not a 'long form': it is the ordinary feminine pronoun, here in its pausal form."
+  },
+  {
+   "ref": "12:11",
+   "path": "grammar",
+   "value": [
+    "The construction וַיְהִי כַּאֲשֶׁר + qatal + לְ + infinitive is a time clause that leads into וַיֹּאמֶר.",
+    "הִנֵּה־נָא יָדַעְתִּי: the perfect of יָדַע is a present state, 'I know', and carries the sense of 'I have long known' (Rashi's plain sense: יָדַעְתִּי זֶה יָמִים רַבִּים).",
+    "יְפַת־מַרְאֶה is a construct chain, 'beautiful of appearance'; in the nominal clause the predicate אִשָּׁה יְפַת־מַרְאֶה precedes the subject אָתְּ.",
+    "The etnaḥta on מִצְרָיְמָה divides the verse: the time clause of arrival, then Abram's speech.",
+    "הִקְרִיב is a Hifil used without an object: 'drew near' (or 'brought [his camp] near', Ibn Ezra, Radak)."
+   ],
+   "severity": "error",
+   "reason": "the verse has no qadma; its main division is the etnaḥta on מִצְרָיְמָה."
+  },
+  {
+   "ref": "12:11",
+   "path": "commentary:ibn-ezra:12:11:3.summary",
+   "value": "Ibn Ezra: 'I know' means that in Sarai's own land there were women as beautiful as she, but in Egypt and the Negeb there was none like her, since people's looks change with the climate (האויר). The English keeps the plain 'I know', which is consistent with this.",
+   "severity": "error",
+   "reason": "Ibn Ezra's point is that her beauty was matched at home but unmatched in Egypt; and no note in the unit carries the climatic explanation, as the summary claimed."
+  },
+  {
+   "ref": "12:12",
+   "path": "english",
+   "value": "When the Egyptians see you, they will say, ‘This is his wife,’ and they will kill me, but you they will let live.",
+   "severity": "style",
+   "reason": "the words of the Egyptians are a quotation inside Abram's speech, which opened with double quotation marks in 12:11; the inner quotation takes single marks."
+  },
+  {
+   "ref": "12:13",
+   "path": "token:12:13.10.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "the English renders וְחָיְתָה נַפְשִׁי as 'and I may live': נֶפֶשׁ stands for the man himself, BDB sense 4."
+  },
+  {
+   "ref": "12:13",
+   "path": "token:12:13.10.gloss",
+   "value": "I (literally 'my soul')",
+   "severity": "style",
+   "reason": "the gloss should match the English, which has 'I'."
+  },
+  {
+   "ref": "12:13",
+   "path": "grammar",
+   "value": [
+    "אִמְרִי is a feminine singular imperative; נָא makes it a request.",
+    "אֲחֹתִי אָתְּ: a nominal clause, predicate first. אֲחֹתִי is stressed on the penult (munaḥ on חֹ) because אָתְּ is stressed on its first syllable (Ibn Ezra; compare קָרָא לָיְלָה, 1:5).",
+    "לְמַעַן + yiqtol is a purpose clause, 'so that it may go well'; בַּעֲבוּרֵךְ and בִּגְלָלֵךְ are a parallel pair, 'on your account' and 'because of you'.",
+    "וְחָיְתָה נַפְשִׁי is a weqatal continuing the purpose clause; נַפְשִׁי 'my soul' stands for 'I'.",
+    "The etnaḥta on אָתְּ divides the request from its purpose."
+   ],
+   "severity": "error",
+   "reason": "אָתְּ is not a 'long form' of 'you', and לְמַעַן is a purpose conjunction here, not a third synonym in parallel with בַּעֲבוּרֵךְ and בִּגְלָלֵךְ."
+  },
+  {
+   "ref": "12:13",
+   "path": "commentary:ibn-ezra:12:13:1.summary",
+   "value": "Ibn Ezra: אֲחֹתִי is stressed on the penult (מלעיל) because the next word, אָת, is stressed on its first letter, as in קָרָא לָיְלָה (1:5); this is the rule of the language. The dagesh in the ת of אָת is there to absorb the nun, for אַתָּה is of the same formation as אני (with nun). A remark on accent and form that does not change the English.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not say the accent falls on the next word: he explains the retracted stress of אֲחֹתִי by the initial stress of the next word."
+  },
+  {
+   "ref": "12:13",
+   "path": "commentary:ibn-ezra:12:13:2.summary",
+   "value": "Ibn Ezra: בַּעֲבוּר and בִּגְלַל occur only with the preposition ב, and the poet (השר) who drops the ב lacks sense (סר טעם). A remark on usage, not on the sense of the verse.",
+   "severity": "error",
+   "reason": "סר טעם is 'lacks sense', said of a poet who omits the ב; it is not that 'the accent loses its force'."
+  },
+  {
+   "ref": "12:13",
+   "path": "apparatus",
+   "value": [
+    "Onkelos: וְתִתְקַיֵּם נַפְשִׁי בְּפִתְגָּמָיְכִי, 'and my soul will be preserved through your words', taking בִּגְלָלֵךְ as 'by what you say', as Radak also explains it (בַּעֲבוּר דְּבָרֵךְ שֶׁתֹּאמְרִי).",
+    "Radak: the good Abram meant was only that they would not kill him, not gifts; Sforno: they would court him with bride-price and gifts."
+   ],
+   "severity": "style",
+   "reason": "Onkelos interprets בִּגְלָלֵךְ, as Radak does; he does not give a sense foreign to the Hebrew."
+  },
+  {
+   "ref": "12:14",
+   "path": "token:12:14.2.sense",
+   "value": "Qal 2",
+   "severity": "error",
+   "reason": "the gloss is 'when he came', Qal 2 'come'; Qal 1 is 'come in'."
+  },
+  {
+   "ref": "12:14",
+   "path": "token:12:14.11.note",
+   "value": "the subject of the nominal clause כִּי יָפָה הִוא, 'that she [was] beautiful'; Hebrew has no copula. הִוא is the Torah's spelling of the feminine pronoun, read הִיא.",
+   "severity": "error",
+   "reason": "הִוא is the subject, not a copula; the learner also needs the note on the spelling with ו."
+  },
+  {
+   "ref": "12:14",
+   "path": "grammar",
+   "value": [
+    "כְּבוֹא is a preposition with an infinitive construct and the subject אַבְרָם, 'at Abram's coming'.",
+    "The etnaḥta on מִצְרָיְמָה closes the time clause; the wayyiqtol וַיִּרְאוּ then carries the main clause, with הַמִּצְרִים between the verb and its object.",
+    "וַיִּרְאוּ ... אֶת־הָאִשָּׁה כִּי יָפָה הִוא: the object is named first and then described by the כִּי clause ('saw the woman, that she was beautiful'); the English joins them.",
+    "The pronoun הִוא is the subject of the nominal clause and מְאֹד intensifies the adjective.",
+    "The text speaks of Abram alone coming, although Sarai was with him (Rashi)."
+   ],
+   "severity": "error",
+   "reason": "the clause break before וַיִּרְאוּ is the etnaḥta, not a zaqef; and הִוא is a subject, not a copula."
+  },
+  {
+   "ref": "12:15",
+   "path": "english",
+   "value": "Pharaoh's officials saw her and praised her for Pharaoh, and the woman was taken into Pharaoh's house.",
+   "severity": "question",
+   "reason": "Rashi, the only normative commentator on these words, reads אֶל־פַּרְעֹה as 'with regard to Pharaoh': they praised her among themselves as fit for the king (Onkelos לְוָת פַּרְעֹה as Ramban reads him). Ibn Ezra does not differ. 'For Pharaoh' carries Rashi's reading; Ramban's other reading, that they praised her to the king himself, would then be recorded."
+  },
+  {
+   "ref": "12:15",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "12:15.1",
+      "12:15.2",
+      "12:15.3",
+      "12:15.4"
+     ],
+     "english": "Pharaoh's officials saw her",
+     "literal": "'and-saw her officials-of Pharaoh'"
+    },
+    {
+     "tokens": [
+      "12:15.5",
+      "12:15.6",
+      "12:15.7",
+      "12:15.8"
+     ],
+     "english": "and praised her for Pharaoh",
+     "literal": "'and-praised her to/regarding Pharaoh'; Rashi: they praised her among themselves as fit for the king"
+    },
+    {
+     "tokens": [
+      "12:15.9",
+      "12:15.10"
+     ],
+     "english": "and the woman was taken",
+     "literal": "'and-was-taken the-woman'; passive, so she was taken without a stated agent"
+    },
+    {
+     "tokens": [
+      "12:15.11",
+      "12:15.12"
+     ],
+     "english": "into Pharaoh's house",
+     "literal": "'house-of Pharaoh'"
+    }
+   ],
+   "severity": "question",
+   "reason": "the new English changed the second phrase"
+  },
+  {
+   "ref": "12:15",
+   "path": "token:12:15.7.gloss",
+   "value": "for (with regard to)",
+   "severity": "question",
+   "reason": "with Rashi's reading of אֶל"
+  },
+  {
+   "ref": "12:15",
+   "path": "token:12:15.7.sense",
+   "value": "6",
+   "severity": "question",
+   "reason": "with Rashi's reading, אֶל is 'in regard to, concerning' (sense 6); for the translator's 'to Pharaoh' it would be sense 1 'to', not sense 3 'towards'."
+  },
+  {
+   "ref": "12:15",
+   "path": "commentary:rashi:12:15:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: they praised her among themselves, saying 'this one is fit for the king' (הֲגוּנָה זוֹ לַמֶּלֶךְ); אֶל־פַּרְעֹה is 'with regard to Pharaoh'. The English 'praised her for Pharaoh' follows him."
+   },
+   "severity": "question",
+   "reason": "with the proposed English"
+  },
+  {
+   "ref": "12:15",
+   "path": "commentary:ramban:12:15:2",
+   "value": {
+    "relation": "records",
+    "summary": "Ramban quotes Rashi and Onkelos (וְשַׁבַּחוּ יָתַהּ לְוָת פַּרְעֹה) for 'among themselves', and then gives the other reading: they praised her to the king himself, and he sent and took her."
+   },
+   "severity": "question",
+   "reason": "the reading 'to Pharaoh' is kept as a recorded alternative"
+  },
+  {
+   "ref": "12:15",
+   "path": "note",
+   "value": "I take אֶל־פַּרְעֹה with Rashi as 'with regard to Pharaoh': the officials praised her among themselves as fit for the king. Ramban's other reading, that they praised her to Pharaoh himself, is recorded. The passive is kept without an agent.",
+   "severity": "question",
+   "reason": "with the proposed English"
+  },
+  {
+   "ref": "12:15",
+   "path": "token:12:15.9.sense",
+   "value": "Hoph 1",
+   "severity": "error",
+   "reason": "Ibn Ezra, whom the note cites, takes וַתֻּקַּח as the passive of the Hifil (הבנין הכבד הנוסף), i.e. Hofal, and the entry's Hoph 1 'be taken, brought' fits 'taken into Pharaoh's house'; Pu 1 is the Pual."
+  },
+  {
+   "ref": "12:15",
+   "path": "commentary:ibn-ezra:12:15:2.summary",
+   "value": "Ibn Ezra: וַתֻּקַּח is the passive of the heavy augmented stem (the Hifil), even though the active is not found; the full form would be like וַתֻּשְׁלְכִי (Ezek 16:5). The English renders it passively, 'was taken'.",
+   "severity": "error",
+   "reason": "ואם לא נמצא is 'even though [the active] is not found', not 'if no other is found'; והשלם gives the full, unassimilated form."
+  },
+  {
+   "ref": "12:16",
+   "path": "token:12:16.2.note",
+   "value": "Hifil of יטב, 'did good'; the subject is Pharaoh (Rashi). The pack's lexicon prints the Hifil senses under the label 'Hithp'.",
+   "severity": "style",
+   "reason": "explains for the learner why a Hifil carries the sense path Hithp 2"
+  },
+  {
+   "ref": "12:16",
+   "path": "grammar",
+   "value": [
+    "לְאַבְרָם, the indirect object with לְ, is fronted before the Hifil הֵיטִיב, whose unstated subject is Pharaoh (Rashi).",
+    "The etnaḥta on בַּעֲבוּרָהּ divides the verse: Pharaoh's favor, then what Abram came to have.",
+    "וַיְהִי־לוֹ expresses possession, 'he came to have'; צֹאן and בָּקָר are collective singulars.",
+    "Each item after the first is joined by waw. Male and female are paired: עֲבָדִים וּשְׁפָחֹת (slaves), and חֲמֹרִים and אֲתֹנֹת (donkeys), the latter pair separated in the list."
+   ],
+   "severity": "style",
+   "reason": "the third note, 'the genders paired as עֲבָדִים וּשְׁפָחֹת and אֲתֹנֹת', was garbled; a note on the dividing accent is added."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:12:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:10:1",
+   "verdict": "consistent",
+   "comment": "Rashi's 'that land alone' agrees with the English 'the land' (Canaan)."
+  },
+  {
+   "anchor": "ibn-ezra:12:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:11:1",
+   "verdict": "consistent",
+   "comment": "the English follows Rashi's plain sense."
+  },
+  {
+   "anchor": "ibn-ezra:12:11:1",
+   "verdict": "consistent",
+   "comment": "the English takes Ibn Ezra's intransitive option."
+  },
+  {
+   "anchor": "ibn-ezra:12:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:11:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:11:4",
+   "verdict": "contradicts",
+   "comment": "Ibn Ezra reads יְחַיּוּ as 'they will provide for you'. The English stands: the opposition to וְהָרְגוּ אֹתִי fixes the sense 'let live' (Radak, Onkelos יְקַיְמוּן), and Ibn Ezra's reading is recorded."
+  },
+  {
+   "anchor": "rashi:12:13:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:12:13:1",
+   "verdict": "not-applicable",
+   "comment": "accent and form only."
+  },
+  {
+   "anchor": "ibn-ezra:12:13:2",
+   "verdict": "not-applicable",
+   "comment": "usage only."
+  },
+  {
+   "anchor": "ibn-ezra:12:13:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:14:1",
+   "verdict": "consistent",
+   "comment": "the English keeps the singular 'Abram came' on which Rashi comments."
+  },
+  {
+   "anchor": "rashi:12:15:1",
+   "verdict": "contradicts",
+   "comment": "the English 'praised her to Pharaoh' departs from Rashi's 'among themselves, as fit for the king'; the question patch gives 'praised her for Pharaoh'."
+  },
+  {
+   "anchor": "ibn-ezra:12:15:1",
+   "verdict": "not-applicable",
+   "comment": "a remark on the missing dagesh."
+  },
+  {
+   "anchor": "ibn-ezra:12:15:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:12:16:2",
+   "verdict": "not-applicable",
+   "comment": "the comment has no text in the pack."
+  }
+ ]
+}

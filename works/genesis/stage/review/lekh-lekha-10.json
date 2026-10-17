@@ -1,0 +1,306 @@
+{
+ "unit": "lekh-lekha-10",
+ "model": "opus",
+ "summary": "The translation of 15:9-16 is sound. The English is faithful and the senses are mostly well chosen. Where Rashi and Ibn Ezra disagree (מְשֻׁלֶּשֶׁת), the translator chooses Ibn Ezra's 'three-year-old' and records Rashi's. The faults are in the notes: a false attribution to Rashi on לוֹ (15:10), a wrong summary of Ibn Ezra on אִישׁ (15:10), and two inaccurate learner notes (the root בתר; word order in 15:11). Two commentary relations are mislabelled (Ibn Ezra 15:13, Rashi 15:15), and the English of 15:16 'is not complete until now' is improved to 'not yet complete'.",
+ "patches": [
+  {
+   "ref": "15:10",
+   "path": "token:15:10.2.note",
+   "value": "dative of interest with the subject's pronoun, 'took (for himself)': the 'him' is Abram, who takes the animals at God's word 'take for me' (v. 9). The English 'for him' keeps the pronoun.",
+   "severity": "error",
+   "reason": "The note credits Rashi with saying 'him' is God; Rashi says nothing about לוֹ in the pack, and with the subject's own suffix after וַיִּקַּח (cf. 'take for me', v. 9) the pronoun points back to Abram."
+  },
+  {
+   "ref": "15:10",
+   "path": "token:15:10.10.gloss",
+   "value": "each one",
+   "severity": "error",
+   "reason": "Here אִישׁ is distributive and refers to the pieces, not to a man; Ibn Ezra says it means 'the thing itself', used of animals and curtains too. 'each man' is the wrong English for this context."
+  },
+  {
+   "ref": "15:10",
+   "path": "grammar",
+   "value": [
+    "The object is fronted in וְאֶת־הַצִּפֹּר לֹא בָתָר, which sets the birds against the animals: the animals were cut, the birds were not.",
+    "אִישׁ בִּתְרוֹ לִקְרַאת רֵעֵהוּ is a distributive phrase, 'each one its piece opposite its fellow', as in Exod 26:3 (Ibn Ezra).",
+    "The root בתר occurs three times: the Piel verb וַיְבַתֵּר 'he cut in two', the noun בִּתְרוֹ 'his piece', and the Qal verb בָתָר. From it the scene is called בְּרִית בֵּין הַבְּתָרִים, 'the covenant between the pieces'.",
+    "The etnaḥta at רֵעֵהוּ closes the first half: the cutting and setting out of the animals."
+   ],
+   "severity": "error",
+   "reason": "Only two of the three are verbs. בִּתְרוֹ is the noun בֶּתֶר, so it is wrong to say 'the verb recurs three times'."
+  },
+  {
+   "ref": "15:10",
+   "path": "commentary:ibn-ezra:15:10:2.summary",
+   "value": "Ibn Ezra: the word אִישׁ is like בַּעַל, 'owner', as in 'a man of war' (Exod 15:3) and 'the man Gabriel' (Dan 9:21), and it means the thing itself, as in 'a worthless man'. So it is used of animals as well, and of curtains, 'one to her sister' (Exod 26:3). He set the piece of each one opposite its fellow, 'for beast and man are two', meaning the word serves for both.",
+   "severity": "error",
+   "reason": "The summary turns הַבְּהֵמָה וְהָאָדָם ('the beast and the man') into 'beast and bird are two kinds'. Ibn Ezra is talking about the word אִישׁ, which is used of animals as of humans, not about two kinds of offerings."
+  },
+  {
+   "ref": "15:11",
+   "path": "grammar",
+   "value": [
+    "וַיַּשֵּׁב is a Hifil wayyiqtol of נשב ('to blow'), with the doubled shin standing for the assimilated nun; it means 'he blew them off'.",
+    "הָעַיִט is a collective singular with a singular verb: 'the birds of prey'.",
+    "The etnaḥta on הַפְּגָרִים divides the verse; the second half gives Abram's response.",
+    "The pronoun object אֹתָם comes before the named subject אַבְרָם. This is the usual order when the object is a pronoun and the subject a noun, so no emphasis is implied."
+   ],
+   "severity": "error",
+   "reason": "Verb, then pronoun object, then noun subject is the unmarked Hebrew order. The note's claim that it marks emphasis is not true, and it would mislead a learner."
+  },
+  {
+   "ref": "15:12",
+   "path": "grammar",
+   "value": [
+    "וַיְהִי with a time clause (הַשֶּׁמֶשׁ לָבוֹא) is a standard way to open a new scene: 'the sun was about to set'.",
+    "The verb forms move from the qatal נָפְלָה, after its fronted subject וְתַרְדֵּמָה, to the participle נֹפֶלֶת: the deep sleep has fallen, and the dread is falling, still in progress.",
+    "אֵימָה חֲשֵׁכָה גְדֹלָה: three words in a row, 'terror, darkness, great'; the adjective is feminine and may modify חֲשֵׁכָה alone or both nouns.",
+    "הִנֵּה brings the reader into Abram's experience."
+   ],
+   "severity": "style",
+   "reason": "The note is about verb forms, not word order. The fronted subject of the circumstantial clause is also worth naming."
+  },
+  {
+   "ref": "15:14",
+   "path": "grammar",
+   "value": [
+    "The object וְגַם אֶת־הַגּוֹי is placed first, before the subject אָנֹכִי; this puts the weight on the nation that will be judged.",
+    "דָּן is a participle ('judging'), which here gives a near-future sense: 'I am about to judge'.",
+    "אֲשֶׁר יַעֲבֹדוּ is a relative clause without a resumptive pronoun: 'the nation that they will serve'.",
+    "בִּרְכֻשׁ גָּדוֹל, 'with great property', looks ahead to the Exodus, and the verb יֵצְאוּ 'they will go out' is the verb later used of it."
+   ],
+   "severity": "style",
+   "reason": "The verse foretells the Exodus, so it does not 'return to' it."
+  },
+  {
+   "ref": "15:13",
+   "path": "commentary:ibn-ezra:15:13:1.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "Ibn Ezra explains why the word גֵּר means one cut off from his family and stock, a stranger. That is the sense the English 'sojourners' carries, so it is not a rival reading kept as 'records'."
+  },
+  {
+   "ref": "15:15",
+   "path": "commentary:rashi:15:15:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: 'and you will come [to your fathers]': and you will not see all this. The emphatic וְאַתָּה sets Abram apart from the exile foretold for his offspring. The English 'As for you' follows."
+   },
+   "severity": "error",
+   "reason": "Rashi explains the contrastive וְאַתָּה, a plain-sense comment that the English adopts. Calling it 'not-applicable' is wrong."
+  },
+  {
+   "ref": "15:16",
+   "path": "english",
+   "value": "And in the fourth generation they will return here, for the iniquity of the Amorites is not yet complete.",
+   "severity": "style",
+   "reason": "'is not complete until now' is not natural English and can be misread as 'will not be complete until now'. In a negative clause, עַד־הֵנָּה is 'not yet'."
+  },
+  {
+   "ref": "15:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "15:16.1",
+      "15:16.2"
+     ],
+     "english": "And in the fourth generation",
+     "literal": "and-generation fourth"
+    },
+    {
+     "tokens": [
+      "15:16.3",
+      "15:16.4"
+     ],
+     "english": "they will return here",
+     "literal": "they-will-return hither"
+    },
+    {
+     "tokens": [
+      "15:16.5",
+      "15:16.6",
+      "15:16.7",
+      "15:16.8",
+      "15:16.9",
+      "15:16.10",
+      "15:16.11"
+     ],
+     "english": "for the iniquity of the Amorites is not yet complete",
+     "literal": "for not complete iniquity-of the-Amorite until hither; עַד־הֵנָּה, 'until now', is rendered 'yet'"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English moves 'until now' into 'not yet', so the reason clause becomes one phrase."
+  },
+  {
+   "ref": "15:16",
+   "path": "token:15:16.11.gloss",
+   "value": "now",
+   "severity": "style",
+   "reason": "In this context the gloss is temporal ('until now', in the English 'yet'). The token note already says so."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:15:9:1",
+   "verdict": "contradicts",
+   "comment": "Rashi (with Onkelos and Radak) reads three of each. Ibn Ezra, whom Ramban reports, and the lexicon's Pual sense read 'three years old'. The normative commentators disagree, so the translator may choose Ibn Ezra and record Rashi, which the rulings do."
+  },
+  {
+   "anchor": "rashi:15:9:2",
+   "verdict": "contradicts",
+   "comment": "Rashi (with Onkelos and Radak) reads three of each. Ibn Ezra, whom Ramban reports, and the lexicon's Pual sense read 'three years old'. The normative commentators disagree, so the translator may choose Ibn Ezra and record Rashi, which the rulings do."
+  },
+  {
+   "anchor": "rashi:15:9:3",
+   "verdict": "contradicts",
+   "comment": "Rashi (with Onkelos and Radak) reads three of each. Ibn Ezra, whom Ramban reports, and the lexicon's Pual sense read 'three years old'. The normative commentators disagree, so the translator may choose Ibn Ezra and record Rashi, which the rulings do."
+  },
+  {
+   "anchor": "rashi:15:9:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:9:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:9:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:10:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:15:10:3",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:15:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:10:2",
+   "verdict": "consistent",
+   "comment": "English consistent; the ruling summary is corrected by patch."
+  },
+  {
+   "anchor": "ibn-ezra:15:10:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:11:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:11:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:12:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:15:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:13:1",
+   "verdict": "consistent",
+   "comment": "The English leaves the start of the four hundred years open. That fits both Rashi's count from Isaac's birth and Ibn Ezra's count from the day of the vision."
+  },
+  {
+   "anchor": "rashi:15:13:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:13:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:13:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:14:1",
+   "verdict": "consistent",
+   "comment": "'also' is kept; the four kingdoms are a midrashic extension, recorded."
+  },
+  {
+   "anchor": "rashi:15:14:2",
+   "verdict": "consistent",
+   "comment": "'I will judge' fits judgment by the ten plagues."
+  },
+  {
+   "anchor": "rashi:15:14:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:14:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:15:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:15:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:15:15:3",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:15:15:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:15:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:16:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:16:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra still counts a fourth generation, of lifespans after the sojourn began; 'fourth generation' stands."
+  },
+  {
+   "anchor": "ibn-ezra:15:16:2",
+   "verdict": "consistent"
+  }
+ ]
+}
