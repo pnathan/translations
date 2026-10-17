@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&family=Noto+Serif+Hebrew:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f7f4ee;--card:#fffdf9;--fg:#1d1b17;--muted:#6b645a;--line:#e3dccf;--accent:#8a4b16;--accent-bg:#f3e6d6;--hi:#fff1b8;--tag:#ece6da}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141311;--card:#1c1a17;--fg:#ece6dc;--muted:#a39a8c;--line:#34302a;--accent:#e2a565;--accent-bg:#3a2a1a;--hi:#4a3f12;--tag:#2a2621}}
+:root[data-theme="dark"]{--bg:#141311;--card:#1c1a17;--fg:#ece6dc;--muted:#a39a8c;--line:#34302a;--accent:#e2a565;--accent-bg:#3a2a1a;--hi:#4a3f12;--tag:#2a2621}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Inter,system-ui,sans-serif}
+a{color:var(--accent)}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+header.top{border-bottom:1px solid var(--line);background:var(--card);position:sticky;top:0;z-index:5}
+header.top .wrap{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;padding-top:10px;padding-bottom:10px}
+.back{font-size:14px;text-decoration:none}
+h1{font:600 26px/1.2 "Cormorant Garamond",serif;margin:0}
+h1 .he,.he{font-family:"Noto Serif Hebrew","SBL Hebrew","Ezra SIL",serif}
+nav.sections{display:flex;gap:6px;flex-wrap:wrap}
+nav.sections a{font-size:13px;padding:3px 9px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--fg)}
+nav.sections a.on{background:var(--accent-bg);border-color:var(--accent)}
+.toggles{display:flex;gap:6px;flex-wrap:wrap;margin-left:auto}
+.toggles button{font:500 13px Inter,sans-serif;padding:4px 10px;border-radius:6px;border:1px solid var(--line);background:var(--bg);color:var(--fg);cursor:pointer}
+.toggles button[aria-pressed="true"]{background:var(--accent-bg);border-color:var(--accent)}
+main{padding:20px 0 120px}
+.intro{color:var(--muted);font-size:14px;max-width:70ch}
+.seg{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:14px 0}
+.seg.para-end{margin-bottom:28px}
+.ref{font:600 12px Inter,sans-serif;color:var(--muted);letter-spacing:.04em}
+.heb{direction:rtl;text-align:right;font:400 26px/2.1 "Noto Serif Hebrew","SBL Hebrew","Ezra SIL",serif;margin:6px 0 10px}
+.w{display:inline;cursor:pointer;border-radius:4px;padding:0 1px;background:none;border:0;color:inherit;font:inherit}
+.w:hover,.w:focus-visible{background:var(--accent-bg);outline:none}
+.w.sel{background:var(--hi)}
+.w.anch{text-decoration:underline dotted var(--muted);text-underline-offset:6px}
+.w .gl{display:none}
+body.inter .heb{line-height:1.4}
+body.inter .w{display:inline-flex;flex-direction:column;align-items:center;vertical-align:top;margin:0 3px 10px}
+body.inter .w .gl{display:block;direction:ltr;font:400 12px/1.25 Inter,sans-serif;color:var(--muted);max-width:9em;text-align:center}
+.en{font:500 20px/1.5 "Cormorant Garamond",serif}
+.lit{display:none;color:var(--muted);font-size:14px;margin-top:4px}
+body.literal .lit{display:block}
+details{margin-top:8px;font-size:14px}
+summary{cursor:pointer;color:var(--muted);font-weight:500}
+details ul{margin:6px 0;padding-left:20px}
+.comm{border-left:3px solid var(--line);padding:4px 0 4px 10px;margin:8px 0}
+.comm.lit-on{border-color:var(--accent);background:var(--accent-bg)}
+.tag{display:inline-block;font:600 11px Inter,sans-serif;padding:1px 7px;border-radius:999px;background:var(--tag);color:var(--muted);margin-left:4px}
+.tag.norm{color:var(--accent)}
+.hebtext{direction:rtl;text-align:right;font:400 16px/1.8 "Noto Serif Hebrew",serif}
+body.nocomm details.comms{display:none}
+aside#panel{position:fixed;right:16px;top:84px;width:380px;max-height:calc(100vh - 100px);overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;box-shadow:0 8px 28px rgba(0,0,0,.18);display:none;z-index:10}
+aside#panel.open{display:block}
+#panel .pw{font:400 34px/1.6 "Noto Serif Hebrew",serif;direction:rtl;text-align:right}
+#panel h3{font:600 13px Inter,sans-serif;color:var(--muted);margin:12px 0 4px;text-transform:uppercase;letter-spacing:.05em}
+#panel table{border-collapse:collapse;width:100%;font-size:14px}
+#panel td{border-top:1px solid var(--line);padding:4px 6px 4px 0;vertical-align:top}
+#panel .senses li.on{background:var(--hi);border-radius:4px}
+#panel .x{float:right;border:0;background:none;font-size:20px;cursor:pointer;color:var(--muted)}
+.vocab table{border-collapse:collapse;width:100%;font-size:14px}
+.vocab td,.vocab th{border-top:1px solid var(--line);padding:4px 6px;text-align:left}
+footer{border-top:1px solid var(--line);color:var(--muted);font-size:13px;padding:16px 0 40px}
+code{font-size:12px}
+@media (max-width:820px){aside#panel{left:0;right:0;top:auto;bottom:0;width:auto;max-height:55vh;border-radius:12px 12px 0 0}.heb{font-size:23px}.toggles{margin-left:0}}
+</style>
+<title>Bereshit, Noach, Lekh Lekha</title>
+</head>
+<body>
+<header class="top"><div class="wrap"><a class="back" href="../index.html">← All works</a><h1>Bereshit, Noach, Lekh Lekha <span class="he" lang="he">בְּרֵאשִׁית · נֹחַ · לֶךְ־לְךָ</span></h1></div></header>
+<main class="wrap">
+<p class="intro">A translation from the Hebrew with the analysis of every word: morphology, lemma, root, the lexicon's range of senses and the sense chosen, and the commentators anchored to the words they explain.</p>
+<section class="seg"><a href="bereshit.html"><h1 style="font-size:22px">Bereshit <span class="he" lang="he">בְּרֵאשִׁית</span></h1></a><div class="ref">1:1–6:8</div></section><section class="seg"><a href="noach.html"><h1 style="font-size:22px">Noach <span class="he" lang="he">נֹחַ</span></h1></a><div class="ref">6:9–11:32</div></section><section class="seg"><a href="lekh-lekha.html"><h1 style="font-size:22px">Lekh Lekha <span class="he" lang="he">לֶךְ־לְךָ</span></h1></a><div class="ref">12:1–17:27</div></section>
+<p class="intro">Not yet translated: bereshit-01 bereshit-02 bereshit-03 bereshit-04 bereshit-05 bereshit-06 bereshit-07 bereshit-08 bereshit-09 bereshit-10 bereshit-11 bereshit-12 bereshit-13 bereshit-14 bereshit-15 bereshit-16 bereshit-17 bereshit-18 bereshit-19 bereshit-20 bereshit-21 bereshit-22 noach-01 noach-02 noach-03 noach-04 noach-05 noach-06 noach-07 noach-08 noach-09 noach-10 noach-11 noach-12 noach-13 noach-14 noach-15 noach-16 noach-17 noach-18 noach-19 noach-20 noach-21 noach-22 noach-23 lekh-lekha-01 lekh-lekha-02 lekh-lekha-03 lekh-lekha-04 lekh-lekha-05 lekh-lekha-06 lekh-lekha-07 lekh-lekha-08 lekh-lekha-09 lekh-lekha-10 lekh-lekha-11 lekh-lekha-12 lekh-lekha-13 lekh-lekha-14 lekh-lekha-15 lekh-lekha-16 lekh-lekha-17 </p>
+</main>
+<footer><div class="wrap"><ul><ul><li>Base text: MAM, Sefaria version “Miqra according to the Masorah”.</li><li>Morphology and lemmas: Open Scriptures Hebrew Bible (WLC 4.x with OSHB morphology, CC BY 4.0); the WLC is collated against the base text.</li><li>Lexicon: Brown–Driver–Briggs via the OpenScriptures Hebrew Lexicon.</li><li>Commentary: Rashi (normative), Sefaria version “Pentateuch with Rashi&#39;s commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934”.</li><li>Commentary: Ibn Ezra (normative), Sefaria version “Piotrkow, 1907-1911”.</li><li>Commentary: Ramban, Sefaria version “Vocalized Edition”.</li><li>Commentary: Radak, Sefaria version “Vocalized Edition”.</li><li>Commentary: Sforno, Sefaria version “Vocalized Edition”.</li><li>Fetched sources, with dates and SHA-256: <code>works/genesis/raw/manifest.json</code>.</li></ul></ul></div></footer>
+<script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</body>
+</html>
