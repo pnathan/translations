@@ -1,0 +1,1 @@
+{"unit":"bereshit-01","model":"opus","summary":"test","patches":[{"ref":"1:1","path":"token:1:1.2.gloss","value":"created","severity":"style","reason":"x"}],"verdicts":[]}
