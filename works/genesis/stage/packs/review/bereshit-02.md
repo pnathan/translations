@@ -38,45 +38,42 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖י�
 
 ### Translation under review (1:6)
 
-English: And God said, Let there be a vault in the midst of the waters, and let it be a divider between water and water.
+English: God said, "Let there be an expanse in the middle of the waters, and let it divide water from water."
 
-Literal: and-said God: let-be vault in-midst-of the-waters; and-let-be dividing between waters to-waters
+Literal: and-said God let-be expanse in-midst-of the-waters and-let-be dividing between water to-water
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:6.1 | and said |  | Qal 1 | wayyiqtol (sequential imperfect): it carries the narrative on from 1:3; the subject follows the verb. |
-| 1:6.2 | God |  | 3 | plural form with a singular verb; read as the one God (plural of majesty). |
-| 1:6.3 | let be |  | Qal III.1 | jussive of hayah: 'let there be', the subject (rāqîaʿ) follows the verb. |
-| 1:6.4 | vault |  | 1 | from rāqaʿ 'beat out, stretch out'; the lexicon gives 'expanse'. See the note on the segment. |
-| 1:6.5 | in the midst of |  |  | bə- 'in' with tôk in the construct: 'midst of'. |
-| 1:6.6 | the waters |  |  | article with the plural mayim. |
-| 1:6.7 | and let it be |  | Qal III | yiqtol after the waw; read as continuing the jussive yᵉhî of 1:6.3. The morphology data gives yiqtol; the modal force comes from the context. |
-| 1:6.8 | a divider |  | Hiph 1 | hifil participle used as the predicate: 'let it be dividing'. |
-| 1:6.9 | between |  | 1 | bên 'between'; the second term takes lə- (1:6.11). |
-| 1:6.10 | water |  |  | mayim is plural in form; the English uses the singular for the substance. |
-| 1:6.11 | and water |  |  | lə- 'to' marks the second term of the idiom bên ... lə-; the English renders it 'and'. |
+| 1:6.1 | and said |  | Qal 1 | wayyiqtol: narrative past |
+| 1:6.2 | God |  | 4 |  |
+| 1:6.3 | let there be |  | Qal III.1 | jussive of היה |
+| 1:6.4 | an expanse |  | 1 |  |
+| 1:6.5 | in the midst of |  |  | construct: בְּ + תּוֹךְ |
+| 1:6.6 | the waters |  |  | plural noun, no singular |
+| 1:6.7 | and let it be |  | Qal III | yiqtol after a jussive carries the jussive force |
+| 1:6.8 | dividing |  | Hiph 1 | participle: a continuing function |
+| 1:6.9 | between |  | 1 |  |
+| 1:6.10 | water |  |  |  |
+| 1:6.11 | to water |  |  | בֵּין ... לְ idiom: 'between X and Y' |
 
 Phrases:
-- 1:6.1 1:6.2 | And God said | and-said God; the wayyiqtol takes God as subject
-- 1:6.3 1:6.4 | Let there be a vault | let-be vault; the jussive is the first of God's two commands
-- 1:6.5 1:6.6 | in the midst of the waters | in-midst-of the-waters; construct tôk with the waters as its genitive
-- 1:6.7 1:6.8 | and let it be a divider | and-let-be dividing; the participle is the predicate
-- 1:6.9 1:6.10 1:6.11 | between water and water | between waters to-waters; the idiom bên ... lə-, both terms kept
+- 1:6.1 1:6.2 | God said | 'and-said God'; the wayyiqtol opens the day's work
+- 1:6.3 1:6.4 1:6.5 1:6.6 | Let there be an expanse in the middle of the waters | 'let-be expanse in-midst-of the-waters'
+- 1:6.7 1:6.8 1:6.9 1:6.10 1:6.11 | and let it divide water from water | 'and-let-be dividing between water to-water'; participle for a standing function
 
 Grammar notes:
-- וַיֹּאמֶר is a wayyiqtol. It continues the narrative from 1:3 ('and God said'), with the subject after the verb, as in each creative speech of the chapter.
-- יְהִי (jussive) and וִיהִי (yiqtol after waw) are the two verbs of the speech. Both are forms of הָיָה 'be': 'let there be a vault', and 'let it be a divider'. The participle מַבְדִּיל is the predicate of the second.
-- The etnaḥta on הַמָּיִם (1:6.6) divides the verse into two halves: the vault set in the waters, and its dividing function. The silluq on לָמָֽיִם (1:6.11) ends the verse.
-- בֵּין מַיִם לָמָיִם is the idiom 'between X and Y': the first term takes bên, the second takes lə-. The English 'between water and water' keeps both terms.
+- יְהִי is a jussive: a command addressed to the world, not a statement.
+- וִיהִי מַבְדִּיל joins a verb 'to be' to a Hifil participle, so the sense is a lasting function: let it be a divider.
+- בֵּין מַיִם לָמָיִם uses לְ for the second term; the same idiom as Ibn Ezra cites from Ezekiel.
+- The zaqef on אֱלֹהִים and the etnaḥta on הַמָּיִם divide the speech into the creation of the expanse and its function.
 
-Translator's note: rāqîaʿ is the one word in this verse that needs a decision. The English 'vault' keeps the sense of a stretched, beaten-out surface (rāqaʿ). The lexicon's 'expanse' is recorded in the token note and the apparatus.
+Translator's note: בְּתוֹךְ is 'in the midst of', as Rashi takes it. The English 'divide' renders the participle of the Hifil of בדל; 'expanse' for רָקִיעַ follows the root רקע, to beat out, spread (Ibn Ezra, Radak).
 
 Commentary rulings:
-- `rashi:1:6:1` records: Rashi reads 'let there be a vault' as 'let the vault be made firm' (יֶחֱזַק הָרָקִיעַ): the heavens were created moist on the first day and hardened at this command on the second. The English keeps the plain 'let there be' and records Rashi's reading of the verb.
-- `rashi:1:6:2` follows: Rashi takes 'in the midst of the waters' (בְּאֶמְצַע הַמַּיִם) as a plain spatial statement: the upper waters lie above the vault as the lower waters lie beneath it, held there by God's word. The English adopts this spatial reading.
-- `ibn-ezra:1:6:1` follows: Ibn Ezra takes rāqîaʿ as 'something stretched out' (דָּבָר נָטוּי), citing 'they beat out' (וַיְרַקְּעוּ, Exod 39:3) and 'stretches them like a tent' (Isa 40:22). He identifies it with the air. The English adopts the stretched sense of 'vault' but not the identification with air.
-- `radak:1:6:1` records: Radak: anything stretched and beaten out is called rāqîaʿ (cf. the 'beaten plates' of Num 17:3). He identifies it with the air around the whole terrestrial globe. The English keeps only the stretched sense.
-- apparatus: rāqîaʿ: the pack's lexicon gives 'expanse'; 'vault' is a choice for the stretched-surface sense. The Hebrew does not decide between the two.
+- `rashi:1:6:1` not-applicable: Rashi: the heavens, though made on day one, were still soft and hardened on the second day at God's rebuke, citing Job 26:11. This is homiletic and does not alter the plain sense of the verb.
+- `rashi:1:6:2` follows: Rashi: בְּתוֹךְ הַמַּיִם is 'in the middle of the water'; the upper waters are as far from the expanse as the expanse from the waters on earth, so they hang by the King's word. The English keeps 'in the middle of the waters'.
+- `ibn-ezra:1:6:1` records: Ibn Ezra: רָקִיעַ is something stretched out (cf. וַיְרַקְּעוּ, אֲרִקֵּעֵם), and he identifies it with the air, not a solid vault. The English 'expanse' leaves this open.
+- apparatus: Ramban cites Rav: the heavens were wet on day one and congealed on day two; Rabbi Judah: 'let the expanse be made a sheet'.
 
 ## Genesis 1:7
 
@@ -122,50 +119,50 @@ Hebrew (MAM): וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת־הָרָקִ֒יע
 
 ### Translation under review (1:7)
 
-English: And God made the vault, and separated the waters beneath the vault from the waters above the vault. And it was so.
+English: God made the expanse and divided the water below the expanse from the water above the expanse. And it was so.
 
-Literal: and-made God [object] the-vault, and-separated between the-waters that from-under to-the-vault, and-between the-waters that from-above to-the-vault; and-it-was so
+Literal: and-made God [object-marker] the-expanse and-divided between the-waters which from-under to-the-expanse and-between the-waters which from-above to-the-expanse and-it-was so
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:7.1 | and made |  | Qal II.1 | wayyiqtol of ʿāśâ 'make'; the subject follows. |
-| 1:7.2 | God |  | 3 |  |
-| 1:7.3 | (object marker) |  |  | ʾēt marks the definite direct object; it has no English counterpart. |
-| 1:7.4 | the vault |  | 1 |  |
-| 1:7.5 | and separated |  | Hiph 1 | hifil wayyiqtol of bādal 'separate', the verb of 1:4 and 1:6. |
-| 1:7.6 | between |  | 1 | bên 'between'. Its second term is 1:7.11. |
+| 1:7.1 | and made |  | Qal II.1 | wayyiqtol |
+| 1:7.2 | God |  | 4 |  |
+| 1:7.3 | [object marker] |  |  |  |
+| 1:7.4 | the expanse |  | 1 |  |
+| 1:7.5 | and divided |  | Hiph 1 | wayyiqtol of Hifil בדל |
+| 1:7.6 | between |  | 1 |  |
 | 1:7.7 | the waters |  |  |  |
-| 1:7.8 | that |  |  | relative ʾăšer, introducing 'which are beneath the vault'. |
-| 1:7.9 | from under |  |  | min 'from' with taḥat 'under'. |
-| 1:7.10 | to the vault |  | 1 | lə- with the article: 'under the vault'. |
-| 1:7.11 | and between |  | 1 | second term of the bên pair; the English 'from' carries it. |
+| 1:7.8 | which |  |  |  |
+| 1:7.9 | from under |  |  | מִן + תַּחַת |
+| 1:7.10 | to the expanse |  |  | לְ is 'of, belonging to': below the expanse |
+| 1:7.11 | and between |  | 1 |  |
 | 1:7.12 | the waters |  |  |  |
-| 1:7.13 | that |  |  | relative ʾăšer, introducing 'which are above the vault'. |
-| 1:7.14 | from above |  | IV.2 | min 'from' with ʿal 'upon': 'from above'. |
-| 1:7.15 | to the vault |  | 1 |  |
-| 1:7.16 | and it was |  | Qal I.2.a.(1) | wayyiqtol of hayah: 'and it was'. |
-| 1:7.17 | so |  |  | adverb kēn 'so, thus'. This closing formula ends verses 7, 9 and 11. |
+| 1:7.13 | which |  |  |  |
+| 1:7.14 | from above |  | IV.2 | מִן + עַל; Rashi: 'above', not 'on' |
+| 1:7.15 | to the expanse |  |  |  |
+| 1:7.16 | and it was |  | Qal I.1.b | wayyiqtol |
+| 1:7.17 | so |  |  |  |
 
 Phrases:
-- 1:7.1 1:7.2 | And God made | and-made God; wayyiqtol with God as subject
-- 1:7.3 | - | 'et, the object marker, has no English counterpart
-- 1:7.4 | the vault | the-vault; the direct object of 'made'
-- 1:7.5 | and separated | and-separated; hifil of 'separate'
-- 1:7.6 1:7.7 1:7.8 1:7.9 1:7.10 | the waters beneath the vault | between the-waters that from-under to-the-vault; 'between' is carried by 'from' in the next phrase
-- 1:7.11 1:7.12 1:7.13 1:7.14 1:7.15 | from the waters above the vault | and-between the-waters that from-above to-the-vault; the second term of the bên pair, rendered with 'from'
-- 1:7.16 1:7.17 | And it was so | and-it-was so
+- 1:7.1 1:7.2 1:7.3 1:7.4 | God made the expanse | 'and-made God [obj] the-expanse'
+- 1:7.5 1:7.6 1:7.7 1:7.8 1:7.9 1:7.10 | and divided the water below the expanse | 'and-divided between the-waters which from-under to-the-expanse'
+- 1:7.11 1:7.12 1:7.13 1:7.14 1:7.15 | from the water above the expanse | 'and-between the-waters which from-above to-the-expanse'; the second בֵּין is the 'from'
+- 1:7.16 1:7.17 | And it was so | 'and-it-was so'
 
 Grammar notes:
-- The verse has two halves divided by the etnaḥta on לָרָקִיעַ (1:7.15). The first half is the making of the vault and the separating of the waters (zinor on אֱלֹהִים, revia on וַיַּבְדֵּל). The second half, וַֽיְהִי־כֵֽן, is a separate clause that ends with silluq.
-- The verb וַיַּבְדֵּל is the hifil of bādal, 'separate': the same verb as 1:4, and as the participle of 1:6.
-- The bên pair appears twice, each with a relative clause: 'the waters that are beneath the vault' and 'between the waters that are above the vault'. The English merges the two terms into one sentence with 'from'.
-- wayhi-khen ('and it was so') closes verses 7, 9 and 11. In each case it is a short wayyiqtol with a silluq, separate from the verb before it.
+- The wayyiqtol וַיַּעַשׂ continues the narrative of the command; עשה here is 'set in order, finish' (Rashi, Ramban).
+- בֵּין ... וּבֵין is the second way the idiom is built; Ibn Ezra lists the three forms.
+- מֵעַל לָרָקִיעַ means 'above' with space between, not 'on' the expanse.
+- The zinor and segol accents on הָרָקִיעַ set the making apart from the dividing; the silluq closes the verse after וַיְהִי־כֵן.
+
+Translator's note: Two readings of 'it was so': Ibn Ezra joins it to what follows (the expanse was so when God named it); Ramban rejects this and takes it as a standing result. The English keeps the verse's own division.
 
 Commentary rulings:
-- `rashi:1:7:1` records: Rashi glosses wayyaʿaś as 'he set it right in its place' (תִּקְּנוֹ עַל עָמְדוֹ), comparing 'she shall trim (ʿāśətāh) her nails' (Deut 21:12). The English keeps 'made' and records Rashi's sense of setting in order.
-- `rashi:1:7:2` follows: Rashi notes that the text says 'above the vault' (מֵעַל לָרָקִיעַ), not 'on the vault' (עַל הָרָקִיעַ), because the upper waters hang in the air. The English 'above the vault' follows this.
-- `ibn-ezra:1:7:1` follows: Ibn Ezra observes that the verb 'divide' takes 'between' with lamed (bein mayim lamayim, 1:6), and also bein ... u-bein, as here: 'between the waters that are beneath the vault and between the waters...'. The English 'from ... from' follows the two-term bên ... u-bên construction.
-- `ibn-ezra:1:7:2` declines: Ibn Ezra attaches 'and it was so' (וַיְהִי כֵן) to the next verse: 'as it was so, he called the vault shamayim'. The English does not, because the silluq on כֵֽן (1:7.17) closes the verse, as it does in verses 9 and 11.
+- `rashi:1:7:1` follows: Rashi: וַיַּעַשׂ means he fixed it in its proper state, as in וְעָשְׂתָה אֶת צִפָּרְנֶיהָ. English 'made' is read in this sense.
+- `rashi:1:7:2` follows: Rashi: Scripture says מֵעַל, not עַל, because the upper waters hang in the air. He also says כִּי טוֹב is absent on day two because the work of the waters was not finished until day three.
+- `ibn-ezra:1:7:1` not-applicable: Ibn Ezra: notes the three constructions of הבדלה with בין (בין X ל Y; בין X וּבין Y; and both). A matter of idiom, not of sense.
+- `ibn-ezra:1:7:2` records: Ibn Ezra: וַיְהִי־כֵן belongs with what follows: when it was so, he called it heavens. The English keeps it with this verse, as the accents do.
+- apparatus: Ramban 1:7 on וַיְהִי־כֵן and Bereshit Rabbah on Ben Zoma: why 'and it was so' follows the making here.
 
 ## Genesis 1:8
 
@@ -199,39 +196,40 @@ Paragraph mark after this verse: פ
 
 ### Translation under review (1:8)
 
-English: And God named the vault 'Sky'. And there was evening, and there was morning, the second day.
+English: God called the expanse Sky. There was evening and there was morning, a second day.
 
-Literal: and-named God to-the-vault Sky; and-there-was evening, and-there-was morning, day second
+Literal: and-called God to-the-expanse heavens and-was evening and-was morning day second
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:8.1 | and named |  | Qal 6 | wayyiqtol of qārāʾ 'call, name', as in 1:5. |
-| 1:8.2 | God |  | 3 |  |
-| 1:8.3 | the vault |  | 1 | lə- marks the vault as the object of the naming. |
-| 1:8.4 | Sky |  | 1.a | shāmayim has no singular. The lexicon's 'visible heavens, sky' is the sense used for the name. |
-| 1:8.5 | and there was |  | Qal I.2.a.(1) | wayyiqtol of hayah with the time word as subject. |
+| 1:8.1 | and called |  | Qal 6 | wayyiqtol; קרא with לְ of the thing named |
+| 1:8.2 | God |  | 4 |  |
+| 1:8.3 | to the expanse |  | 1 |  |
+| 1:8.4 | heavens |  | 1.a | plural in form, always so in Hebrew |
+| 1:8.5 | and was |  | Qal II | wayyiqtol: 'came to be' |
 | 1:8.6 | evening |  | 1.a |  |
-| 1:8.7 | and there was |  | Qal I.2.a.(1) |  |
+| 1:8.7 | and was |  | Qal II |  |
 | 1:8.8 | morning |  | 1 |  |
-| 1:8.9 | day |  | 1 | yôm 'day' before its ordinal. |
-| 1:8.10 | second |  |  | the ordinal follows its noun: 'day second'. |
+| 1:8.9 | day |  | 1 |  |
+| 1:8.10 | second |  |  | ordinal |
 
 Phrases:
-- 1:8.1 1:8.2 | And God named | and-named God
-- 1:8.3 1:8.4 | the vault 'Sky' | to-the-vault Sky; a common noun used as the name
-- 1:8.5 1:8.6 | And there was evening | and-there-was evening
-- 1:8.7 1:8.8 | and there was morning | and-there-was morning
-- 1:8.9 1:8.10 | the second day | day second
+- 1:8.1 1:8.2 1:8.3 1:8.4 | God called the expanse Sky | 'and-called God to-the-expanse heavens'
+- 1:8.5 1:8.6 1:8.7 1:8.8 | There was evening and there was morning | 'and-was evening and-was morning'
+- 1:8.9 1:8.10 | a second day | 'day second'; an ordinal without the article, as in the first day's formula
 
 Grammar notes:
-- The naming clause repeats the pattern of 1:5, where God names the light and the darkness. Here the object is the vault and the name is 'Sky'.
-- shāmayim is plural in form and has no singular. The English 'Sky' is a plain name for the vault; 'Heavens' is the traditional alternative.
-- The day formula is evening first, then morning, then the ordinal after the noun ('day second'). The same formula ends days one and three.
-- Accents: darga on וַיִּקְרָא (1:8.1), etnaḥta on שָׁמָיִם (1:8.4), and silluq on שֵׁנִי (1:8.10). A petuḥah (פ) follows the verse, so 1:9 begins a new paragraph.
+- קָרָא לְ + name is the idiom for naming; the thing named follows לְ.
+- שָׁמַיִם has a dual-looking plural ending but is a plural-form noun in agreement.
+- The formula 'and-was evening and-was morning, day X' closes each day; the number follows יוֹם without the article.
+- The etnaḥta on שָׁמָיִם sets the naming apart from the closing formula.
+
+Translator's note: שָׁמַיִם is rendered 'Sky' as the name God gives. Rashi derives it from שָׂא מַיִם or שָׁם מַיִם; the English does not explain it.
 
 Commentary rulings:
-- `rashi:1:8:1` records: Rashi derives שָׁמַיִם from sā' mayim, sham mayim, 'ēš ûmayim: 'lift up water, there is water, fire and water', the elements mixed to make the sky. The English reads 'Sky' as a name and records Rashi's etymology.
-- `ibn-ezra:1:8:1` follows: Ibn Ezra notes that God names these things (light, darkness, the heavens, earth, seas and man) because no human was there to name them. The English keeps God as the one who names the vault.
+- `rashi:1:8:1` records: Rashi: שָׁמַיִם is 'carry water' or 'there is water', fire and water mixed by God into the heavens. An etymology, kept here but not shown in the English.
+- `ibn-ezra:1:8:1` not-applicable: Ibn Ezra: five things God named because no human existed then: light, darkness, heavens, earth and seas, and Adam likewise.
+- apparatus: Ramban: the heavens were named at this point, when they took the form of an expanse; Hag. 12a derives שמים from שם מים.
 
 ## Genesis 1:9
 
@@ -272,46 +270,47 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמ�
 
 ### Translation under review (1:9)
 
-English: And God said, Let the waters gather beneath the sky into one place, and let the dry land appear. And it was so.
+English: God said, "Let the waters under the sky be gathered into one place, and let the dry land appear." And it was so.
 
-Literal: and-said God: be-gathered the-waters from-under the-sky to place one; and-let-appear the-dry-land; and-it-was so
+Literal: and-said God let-be-gathered the-waters from-under the-heavens to place one and-let-appear the-dry-land and-it-was so
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:9.1 | and said |  | Qal 1 |  |
-| 1:9.2 | God |  | 3 |  |
-| 1:9.3 | let be gathered |  |  | nifal jussive of qāwâ 'be gathered'. The verb is passive in form; the waters are its subject. |
+| 1:9.1 | and said |  | Qal 1 | wayyiqtol |
+| 1:9.2 | God |  | 4 |  |
+| 1:9.3 | let be gathered |  |  | Nifal jussive of קוה, 'collect' |
 | 1:9.4 | the waters |  |  |  |
-| 1:9.5 | from under |  |  | min 'from' with taḥat 'under'. |
+| 1:9.5 | from under |  |  |  |
 | 1:9.6 | the sky |  | 1.a |  |
-| 1:9.7 | into |  | 2 | ʾel 'to, into' with a verb of motion. |
+| 1:9.7 | to |  | 2 |  |
 | 1:9.8 | place |  | 2.a |  |
-| 1:9.9 | one |  | 1 | the numeral follows its noun: 'to a place one'. |
-| 1:9.10 | and let appear |  | Niph 1 | nifal yiqtol of rāʾâ, feminine singular to agree with 'the dry land'; a jussive continuing 1:9.3. |
+| 1:9.9 | one |  | 1 |  |
+| 1:9.10 | and let appear |  | Niph 1 | Nifal yiqtol: 'be seen' |
 | 1:9.11 | the dry land |  |  |  |
-| 1:9.12 | and it was |  | Qal I.2.a.(1) |  |
-| 1:9.13 | so |  |  | adverb kēn 'so'. |
+| 1:9.12 | and it was |  | Qal I.1.b |  |
+| 1:9.13 | so |  |  |  |
 
 Phrases:
-- 1:9.1 1:9.2 | And God said | and-said God
-- 1:9.3 1:9.4 | Let the waters gather | let-be-gathered the-waters; the verb is passive in form and the English makes it active
-- 1:9.5 1:9.6 | beneath the sky | from-under the-sky
-- 1:9.7 1:9.8 1:9.9 | into one place | to place one
-- 1:9.10 1:9.11 | and let the dry land appear | and-let-appear the-dry-land
-- 1:9.12 1:9.13 | And it was so | and-it-was so
+- 1:9.1 1:9.2 | God said | 'and-said God'
+- 1:9.3 1:9.4 1:9.5 1:9.6 | Let the waters under the sky be gathered | 'let-be-gathered the-waters from-under the-heavens'
+- 1:9.7 1:9.8 1:9.9 | into one place | 'to place one'
+- 1:9.10 1:9.11 | and let the dry land appear | 'and-let-appear the-dry-land'
+- 1:9.12 1:9.13 | And it was so | 'and-it-was so'
 
 Grammar notes:
-- The jussive יִקָּווּ is nifal, a passive-form verb. The waters are its grammatical subject, and the gathering is God's command.
-- The verb וְתֵרָאֶה is feminine singular because its subject, הַיַּבָּשָׁה 'the dry land', is feminine. The wayyiqtol form in the next clause does the same for the closing formula.
-- The etnaḥta on הַיַּבָּשָׁה (1:9.11) divides the verse into two parts: the gathering of the waters, and the appearance of the dry land.
-- The closing formula וַיְהִי כֵן ends with silluq, as in 1:7 and 1:11.
+- יִקָּווּ is a Nifal jussive of קוה: the waters are collected by an unseen agent.
+- תֵּרָאֶה, a Nifal of ראה, is 'be seen' or 'appear': the land was there and is now visible.
+- אֶל־מָקוֹם אֶחָד, 'to one place', is a single gathering, though verse 10 names more than one sea.
+- The qadma on יִקָּווּ and the geresh on הַמַּיִם shape the command; the etnaḥta ends the first half.
+
+Translator's note: The Hebrew has the dry land 'be seen', not 'be made'. Ibn Ezra reads the verse as a flashback; the English keeps the plain narrative sequence of the wayyiqtol.
 
 Commentary rulings:
-- `rashi:1:9:1` follows: Rashi: the waters had lain spread over the whole earth, and their gathering place (הִקְוָם) is the Ocean, the great sea among all seas. The English 'into one place' follows, leaving the place unnamed.
-- `ibn-ezra:1:9:1` records: Ibn Ezra argues that verse 9 belongs with what precedes: the gathering was not a new creation but an arrangement of waters already there, and the verse is not strictly sequential (he cites Gen 2:4-19 and reads the verbs as pluperfect). The English keeps the verse's order and records his reading.
-- `ibn-ezra:1:9:2` follows: Ibn Ezra glosses יִקָּווּ as 'they join together' (יִתְחַבְּרוּ), comparing 'and all nations shall be gathered to it' (Jer 3:17). The English 'gather' follows.
-- `ibn-ezra:1:10:1` follows: Ibn Ezra explains the plural 'Seas' (יַמִּים, in 1:10) by the absence of a single sea surrounding the whole earth. The English 'Seas' in 1:10 follows the plural.
-- apparatus: ibn-ezra:1:9:1 places the gathering before the creation of the vault; the English keeps the verse's own order.
+- `rashi:1:9:1` follows: Rashi: the waters were spread over the whole earth and he gathered them in Okeanos, the great sea of all the seas. The English 'be gathered' fits this.
+- `ibn-ezra:1:9:1` records: Ibn Ezra: in his view this passage is attached to the one above; the expanse was not made until the land was dry, and וַיֹּאמֶר means 'had said' (cf. 2:5, 2:19). The English keeps the sequence of days.
+- `ibn-ezra:1:10:1` follows: Ibn Ezra (filed at 1:10, anchored to וַיֹּאמֶר here): he says יַמִּים, 'seas', because no single sea surrounds all the earth. The English keeps the plural in 1:10.
+- `ibn-ezra:1:9:2` follows: Ibn Ezra: יִקָּווּ means 'be joined', as in וְנִקְווּ אֵלֶיהָ (Jer 3:17). The English 'be gathered' follows this.
+- apparatus: Ibn Ezra on 1:9: 'seen' is a hidden thing coming to view, not a creation.
 
 ## Genesis 1:10
 
@@ -348,42 +347,40 @@ Hebrew (MAM): וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשׁ�
 
 ### Translation under review (1:10)
 
-English: And God named the dry land 'Earth', and the gathering of the waters he named 'Seas'. And God saw that it was good.
+English: God called the dry land Earth, and the gathering of the waters he called Seas. God saw that it was good.
 
-Literal: and-named God to-the-dry-land Earth; and-to-gathering-of the-waters he-named Seas; and-saw God that good
+Literal: and-called God to-the-dry-land earth and-to-gathering-of the-waters he-called seas and-saw God that-good
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:10.1 | and named |  | Qal 6 |  |
-| 1:10.2 | God |  | 3 |  |
-| 1:10.3 | the dry land |  |  | lə- 'to' marks the dry land as the object of the naming. |
-| 1:10.4 | Earth |  | 1.a | ʾereṣ names the dry land here. The same noun is the earth of 1:1. |
-| 1:10.5 | and the gathering of |  |  | miqweh 'gathering, collection' in the construct with the waters. |
+| 1:10.1 | and called |  | Qal 6 | wayyiqtol |
+| 1:10.2 | God |  | 4 |  |
+| 1:10.3 | to the dry land |  |  |  |
+| 1:10.4 | earth |  | 1.a | proper name here |
+| 1:10.5 | and to the gathering of |  |  | construct of מִקְוֶה, 'a collected mass' |
 | 1:10.6 | the waters |  |  |  |
-| 1:10.7 | he named |  | Qal 6 | qatal after the wayyiqtol: a parallel clause, not a new step in the sequence. |
-| 1:10.8 | Seas |  |  | plural of yām 'sea'. Ibn Ezra explains the plural by the absence of a single sea around the whole earth. |
-| 1:10.9 | and saw |  | Qal 1.a |  |
-| 1:10.10 | God |  | 3 |  |
+| 1:10.7 | he called |  | Qal 6 | perfect, in a clause whose object is fronted |
+| 1:10.8 | seas |  |  | plural |
+| 1:10.9 | and saw |  | Qal 1.a | wayyiqtol |
+| 1:10.10 | God |  | 4 |  |
 | 1:10.11 | that |  | 1 |  |
-| 1:10.12 | good |  | 3 | tôb as God's evaluation. The formula is absent from the second day (see Rashi on 1:7). |
+| 1:10.12 | good |  | 3 |  |
 
 Phrases:
-- 1:10.1 1:10.2 | And God named | and-named God
-- 1:10.3 | the dry land | to-the-dry-land
-- 1:10.4 | 'Earth' | Earth
-- 1:10.5 1:10.6 | and the gathering of the waters | and-to-gathering-of the-waters
-- 1:10.7 1:10.8 | he named 'Seas' | he-named Seas; a qatal in a parallel clause
-- 1:10.9 1:10.10 | And God saw | and-saw God
-- 1:10.11 1:10.12 | that it was good | that good; the evaluation formula
+- 1:10.1 1:10.2 1:10.3 1:10.4 | God called the dry land Earth | 'and-called God to-the-dry-land earth'
+- 1:10.5 1:10.6 1:10.7 1:10.8 | and the gathering of the waters he called Seas | 'and-to-gathering-of the-waters he-called seas'; the object is fronted
+- 1:10.9 1:10.10 1:10.11 1:10.12 | God saw that it was good | 'and-saw God that good'
 
 Grammar notes:
-- The verse has two naming clauses. The first is a wayyiqtol (וַיִּקְרָא, 1:10.1). The second is a qatal (קָרָא, 1:10.7). The change of form marks a parallel clause, not a new step in the sequence.
-- Both names are common nouns used as names. The dry land is 'earth' (ʾereṣ), and the waters' gathering is 'seas' (yammîm, plural).
-- Accents: etnaḥta on יַמִּים (1:10.8) divides the verse into the naming and the evaluation; silluq on טוֹב (1:10.12) ends it.
-- The evaluation 'that it was good' recurs in 1:12. The verse is the first of the two evaluations of the third day.
+- The object (the gathering of the waters) is placed before the verb, so the perfect קָרָא is used.
+- יַמִּים is the plural: the one gathering is named by several seas.
+- כִּי־טוֹב: a clause of seeing, 'that it was good'.
+- The qadma on וַיִּקְרָא and the zaqef on אֶרֶץ divide the two namings.
+
+Translator's note: 'Seas' is plural, as the Hebrew has it. Rashi and Ibn Ezra both give a reason for the plural (see commentary).
 
 Commentary rulings:
-- `rashi:1:10:1` follows: Rashi asks why יַמִּים is plural when there is one sea, and answers that the seas differ in taste (fish from Akko and fish from Asfamia). The English 'Seas' follows the plural.
+- `rashi:1:10:1` follows: Rashi: it is one sea, so why 'seas'? The taste of a fish from the sea at Acre is not that of a fish from the sea in Spain. The English keeps the plural 'Seas'.
 
 ## Genesis 1:11
 
@@ -447,58 +444,62 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א ה�
 
 ### Translation under review (1:11)
 
-English: And God said, Let the earth sprout grass, plants bearing seed, fruit trees bearing fruit of its kind, whose seed is in it, on the earth. And it was so.
+English: God said, "Let the earth sprout green growth, plants yielding seed, and fruit trees bearing fruit, each of its own kind, with its seed in it, on the earth." And it was so.
 
-Literal: and-said God: let-sprout the-earth grass; plant producing seed; tree fruit making fruit according-to-its-kind, whose its-seed in-it, on the-earth; and-it-was so
+Literal: and-said God let-sprout the-earth sprouting herb yielding seed tree-of fruit making fruit to-its-kind which its-seed in-it upon the-earth and-it-was so
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
 | 1:11.1 | and said |  | Qal 1 |  |
-| 1:11.2 | God |  | 3 |  |
-| 1:11.3 | let sprout |  | Hiph | hifil jussive of dāšāʾ. Its noun 'grass' (1:11.5) is the cognate object. |
+| 1:11.2 | God |  | 4 |  |
+| 1:11.3 | let sprout |  | Hiph | Hifil jussive, feminine because הָאָרֶץ is feminine |
 | 1:11.4 | the earth |  | 1.a |  |
-| 1:11.5 | grass |  |  | deše' is the general green cover of the ground, the cognate object of 'let sprout'. |
-| 1:11.6 | plant |  |  | ʿēśeb is a single herb. The lexicon gives 'herb, herbage'. |
-| 1:11.7 | bearing |  | Hiph 1 | hifil participle of zārāʿ 'produce seed'. |
+| 1:11.5 | green growth |  |  | דֶּשֶׁא: a cognate accusative of תַּדְשֵׁא |
+| 1:11.6 | plants |  |  | עֵשֶׂב: herbage in separate kinds |
+| 1:11.7 | yielding |  | Hiph 1 | Hifil participle |
 | 1:11.8 | seed |  | 2 |  |
-| 1:11.9 | tree |  | 1.a | construct before pərî: 'tree of fruit'. The tree is the one making fruit. |
+| 1:11.9 | tree of |  | 1.a | construct |
 | 1:11.10 | fruit |  | 3 |  |
-| 1:11.11 | bearing |  | Qal II.2 | qal participle of ʿāśâ 'make, produce'. |
+| 1:11.11 | making |  | Qal II.2 | participle: 'producing' |
 | 1:11.12 | fruit |  | 3 |  |
-| 1:11.13 | of its kind |  |  | lə- with mîn 'kind' and the suffix 'its'. |
-| 1:11.14 | whose |  |  | relative ʾăšer; the antecedent is the fruit. |
-| 1:11.15 | its seed |  |  |  |
+| 1:11.13 | to its kind |  |  | לְ + מִין + 3ms suffix |
+| 1:11.14 | which |  |  |  |
+| 1:11.15 | its seed |  | 2 |  |
 | 1:11.16 | in it |  |  |  |
-| 1:11.17 | on |  | II.1 |  |
+| 1:11.17 | upon |  | II.1 |  |
 | 1:11.18 | the earth |  | 1.a |  |
-| 1:11.19 | and it was |  | Qal I.2.a.(1) |  |
-| 1:11.20 | so |  |  | adverb kēn 'so'. |
+| 1:11.19 | and it was |  | Qal I.1.b |  |
+| 1:11.20 | so |  |  |  |
 
 Phrases:
-- 1:11.1 1:11.2 | And God said | and-said God
-- 1:11.3 1:11.4 | Let the earth sprout | let-sprout the-earth
-- 1:11.5 | grass | grass
-- 1:11.6 1:11.7 1:11.8 | plants bearing seed | plant producing seed
-- 1:11.9 1:11.10 1:11.11 1:11.12 1:11.13 | fruit trees bearing fruit of its kind | tree fruit making fruit according-to-its-kind; the English reverses tree and fruit
-- 1:11.14 1:11.15 1:11.16 | whose seed is in it | whose its-seed in-it
-- 1:11.17 1:11.18 | on the earth | on the-earth
-- 1:11.19 1:11.20 | And it was so | and-it-was so
+- 1:11.1 1:11.2 | God said | 'and-said God'
+- 1:11.3 1:11.4 | Let the earth sprout | 'let-sprout the-earth'; a Hifil with a cognate noun next
+- 1:11.5 | green growth | 'sprouting'; Rashi: the earth full and covered with plants
+- 1:11.6 1:11.7 1:11.8 | plants yielding seed | 'herb yielding seed'
+- 1:11.9 1:11.10 | fruit trees | 'tree-of fruit'
+- 1:11.11 1:11.12 | bearing fruit | 'making fruit'
+- 1:11.13 | each of its own kind | 'to-its-kind'
+- 1:11.14 1:11.15 1:11.16 | with its seed in it | 'which its-seed in-it'
+- 1:11.17 1:11.18 | on the earth | 'upon the-earth'
+- 1:11.19 1:11.20 | And it was so | 'and-it-was so'
 
 Grammar notes:
-- The three objects of 'let sprout' are grass, plants bearing seed, and fruit trees bearing fruit. They stand in apposition, and the participles mazriaʿ and ʿōśeh modify the nouns they follow.
-- The jussive tadshe' is feminine to agree with the earth, its subject. Its cognate noun deše' repeats the verb's root, a common Hebrew emphatic pattern.
-- The formula 'of its kind' (lə-mînô) says that each plant reproduces its own kind. It recurs through the chapter.
-- Accents: revia on אֱלֹהִים (1:11.2), mahpakh on תַּֽדְשֵׁא (1:11.3), etnaḥta on הָאָרֶץ (1:11.18), which ends the first part, and silluq on כֵֽן (1:11.20).
+- תַּדְשֵׁא is a Hifil jussive 'let (the earth) sprout' with a cognate object דֶּשֶׁא.
+- עֵץ פְּרִי עֹשֶׂה פְּרִי is a chain of construct and participle: a fruit tree that produces fruit.
+- לְמִינוֹ, 'to its kind', is a single phrase: each kind produces its own.
+- The revia on אֱלֹהִים and the many disjunctives (pashta, revia, yetiv) divide the list of growth into three.
+
+Translator's note: 'Green growth' for דֶּשֶׁא follows Rashi and Ibn Ezra: דשא is the earth's green covering, עשב the individual plants. 'Fruit trees' keeps עֵץ פְּרִי; Rashi's reading of a tree that tastes of fruit is kept in the commentary.
 
 Commentary rulings:
-- `rashi:1:11:1` follows: Rashi distinguishes deše' from ʿēśeb. Deše' is the general green covering of the ground (לְבִישַׁת הָאָרֶץ בִּדְשָׁאִים), and each kind of herb is an ʿēśeb with its own name. The English 'grass' for deše' and 'plants' for ʿēśeb follows this distinction.
-- `rashi:1:11:2` records: Rashi glosses tadshe' as 'let it be filled and clothed with herbage' (תִּתְמַלֵּא וְתִתְכַּסֶּה לְבוּשׁ עֲשָׂבִים), a passive sense. The English keeps the causative 'sprout', which the hifil gives, and records Rashi's reading.
-- `rashi:1:11:3` follows: Rashi glosses mazriaʿ zeraʿ as 'that it makes its seed grow, to sow it elsewhere'. The English 'plants bearing seed' follows; the purpose clause is not in the English.
-- `rashi:1:11:4` follows: Rashi reads ʿēṣ ʿōśeh pərî as 'a tree making fruit, not a tree that is fruit' (עֵץ עוֹשֶׂה פְּרִי וְלֹא הָעֵץ פְּרִי). The English 'fruit trees bearing fruit' keeps tree and fruit apart.
-- `rashi:1:11:5` follows: Rashi: 'whose seed is in it' (אֲשֶׁר זַרְעוֹ בוֹ) means the seeds, the pits or kernels of every fruit, from which the tree grows when planted. The English 'whose seed is in it' follows.
-- `ibn-ezra:1:11:1` follows: Ibn Ezra says the command gives the earth the power to bring forth plants, as the parallel jussives of 1:20 (יִשְׁרְצוּ) and 1:24 (תּוֹצֵא) do for the waters and the land animals. The English 'Let the earth sprout' follows this.
-- `ibn-ezra:1:11:2` follows: Ibn Ezra glosses tadshe' as 'tatsmiaḥ' (cause to grow). The English 'sprout' follows this sense.
-- `ibn-ezra:1:11:3` follows: Ibn Ezra says the seed is within the fruit, and each kind keeps its own kind (שֶׁכָּל אֶחָד שׁוֹמֵר מִינוֹ). The English 'whose seed is in it' follows.
+- `rashi:1:11:1` follows: Rashi: דֶּשֶׁא is not the same as עֵשֶׂב: דשא is the earth's covering when full of grasses; each kind of plant is called עשב. The English divides them as 'green growth' and 'plants'.
+- `rashi:1:11:2` follows: Rashi: תַּדְשֵׁא means the earth should fill and cover itself with a garment of plants (in French, arbres/'herbage'). The English 'sprout green growth'.
+- `rashi:1:11:3` follows: Rashi: מַזְרִיעַ זֶרַע means the plant grows its seed so that it can be sown elsewhere. The English 'yielding seed'.
+- `rashi:1:11:4` records: Rashi: עֵץ פְּרִי means a tree whose taste equals its fruit's; the earth did not do so but produced a tree making fruit, so it was cursed when Adam was. The English reads the plain 'fruit tree'.
+- `rashi:1:11:5` follows: Rashi: אֲשֶׁר זַרְעוֹ בוֹ means the stones of every fruit from which the tree grows when planted.
+- `ibn-ezra:1:11:1` not-applicable: Ibn Ezra: the text says 'let the earth sprout', 'let the waters swarm', 'let the earth bring forth': power was placed in earth and water to act at God's command.
+- `ibn-ezra:1:11:2` follows: Ibn Ezra: תַּדְשֵׁא means the same as תַּצְמִיחַ, 'let it cause to grow'.
+- `ibn-ezra:1:11:3` follows: Ibn Ezra: the seed is in the fruit, and each keeps its own kind.
 
 ## Genesis 1:12
 
@@ -541,52 +542,53 @@ Hebrew (MAM): וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שׂ�
 
 ### Translation under review (1:12)
 
-English: And the earth brought forth grass, plants bearing seed according to its kind, and trees bearing fruit whose seed is in it, according to its kind. And God saw that it was good.
+English: The earth brought forth green growth, plants yielding seed, each of its own kind, and trees bearing fruit with its seed in it, each of its own kind. God saw that it was good.
 
-Literal: and-brought-forth the-earth grass; plant producing seed according-to-its-kind; and-tree making fruit whose its-seed in-it, according-to-its-kind; and-saw God that good
+Literal: and-brought-forth the-earth sprouting herb yielding seed to-its-kind and-tree making-fruit which its-seed in-it to-its-kind and-saw God that-good
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:12.1 | and brought forth |  | Hiph 5 | wayyiqtol hifil of yāṣāʾ 'bring out, bring forth'. The earth is the subject. |
+| 1:12.1 | and brought forth |  | Hiph 5 | wayyiqtol feminine, Hifil of יצא |
 | 1:12.2 | the earth |  | 1.a |  |
-| 1:12.3 | grass |  |  | telisha gedola sets 'grass' apart as the first of the three objects. |
-| 1:12.4 | plant |  |  |  |
-| 1:12.5 | producing |  | Hiph 1 |  |
+| 1:12.3 | green growth |  |  |  |
+| 1:12.4 | plants |  |  |  |
+| 1:12.5 | yielding |  | Hiph 1 |  |
 | 1:12.6 | seed |  | 2 |  |
-| 1:12.7 | according to its kind |  |  |  |
-| 1:12.8 | and tree |  | 1.a | the singular names a class of trees; the English uses the plural. |
+| 1:12.7 | to its kind |  |  | form לְמִינֵהוּ, a longer suffix than in 1:11 |
+| 1:12.8 | and tree |  | 1.a |  |
 | 1:12.9 | making |  | Qal II.2 |  |
 | 1:12.10 | fruit |  | 3 |  |
-| 1:12.11 | whose |  |  | relative ʾăšer. |
-| 1:12.12 | its seed |  |  |  |
+| 1:12.11 | which |  |  |  |
+| 1:12.12 | its seed |  | 2 |  |
 | 1:12.13 | in it |  |  |  |
-| 1:12.14 | according to its kind |  |  | the second instance of the kind-formula, for the trees. |
+| 1:12.14 | to its kind |  |  |  |
 | 1:12.15 | and saw |  | Qal 1.a |  |
-| 1:12.16 | God |  | 3 |  |
+| 1:12.16 | God |  | 4 |  |
 | 1:12.17 | that |  | 1 |  |
 | 1:12.18 | good |  | 3 |  |
 
 Phrases:
-- 1:12.1 1:12.2 | And the earth brought forth | and-brought-forth the-earth
-- 1:12.3 | grass | grass
-- 1:12.4 1:12.5 1:12.6 1:12.7 | plants bearing seed according to its kind | plant producing seed according-to-its-kind
-- 1:12.8 1:12.9 1:12.10 | and trees bearing fruit | and-tree making fruit
-- 1:12.11 1:12.12 1:12.13 | whose seed is in it | whose its-seed in-it
-- 1:12.14 | according to its kind | according-to-its-kind; the second instance, for the trees
-- 1:12.15 1:12.16 | And God saw | and-saw God
-- 1:12.17 1:12.18 | that it was good | that good
+- 1:12.1 1:12.2 | The earth brought forth | 'and-brought-forth the-earth'
+- 1:12.3 | green growth | 'sprouting'
+- 1:12.4 1:12.5 1:12.6 | plants yielding seed | 'herb yielding seed'
+- 1:12.7 | each of its own kind | 'to-its-kind'; here with the suffix -ehu
+- 1:12.8 1:12.9 1:12.10 | and trees bearing fruit | 'and-tree making-fruit'; singular noun for the class
+- 1:12.11 1:12.12 1:12.13 | with its seed in it | 'which its-seed in-it'
+- 1:12.14 | each of its own kind | 'to-its-kind'
+- 1:12.15 1:12.16 1:12.17 1:12.18 | God saw that it was good | 'and-saw God that good'
 
 Grammar notes:
-- The verse is the narrative fulfilment of 1:11, with the same three objects in the same order. The earth is the subject of a hifil wayyiqtol: 'and brought forth'.
-- The telisha gedola on דֶּשֶׁא (1:12.3) sets grass apart. The plant and the tree are then joined by munaḥ and darga, so the verse reads as grass, then plant, then tree.
-- The participles 'producing' and 'making' describe the plants and trees as continuing agents. The English uses 'bearing' for both, as in 1:11.
-- The kind-formula appears twice: once after the plants (1:12.7), and once at the end of the verse for the trees (1:12.14).
+- The execution follows the command with a change: the earth 'brought forth' (Hifil of יצא) rather than 'sprouted'.
+- לְמִינֵהוּ has the suffix -ēhū, unlike לְמִינוֹ in verse 11, and occurs twice, once for each kind.
+- The fruit-tree clause says עֵץ עֹשֶׂה־פְּרִי, with the participle, not the construct עֵץ פְּרִי of verse 11.
+- The telisha gedola on דֶּשֶׁא and the zaqef on לְמִינֵהוּ mark the first group; the etnaḥta closes the second.
+
+Translator's note: The WLC notes at 1:12.10 concern accents in L versus BHS and do not affect the sense. The change from עֵץ פְּרִי (v. 11) to עֵץ עֹשֶׂה־פְּרִי is the one Rashi notes.
 
 Commentary rulings:
-- `rashi:1:12:1` records: Rashi: 'of its kind' is not said of the grasses in their command, but the grasses heard that the trees were commanded about it, and they reasoned a fortiori (קַל וָחֹמֶר) that they too were included. The English limits 'of its kind' to the plants and trees named in the text and records Rashi's reading.
-- `ibn-ezra:1:12:1` not-applicable: The pack's text for this anchor is only the single letter 'n', so no reading can be recorded from it.
-- apparatus: 1:12.10: the pack's WLC notes c and p say the accent and punctuation on פְּרִי differ from BHS. The English does not depend on either reading.
-- apparatus: ibn-ezra:1:12:1: the pack gives no usable text for this comment. It is marked not-applicable here only because nothing can be read from it; the comment should be re-fetched.
+- `rashi:1:12:1` follows: Rashi: though לְמִינֵהוּ was not said of the plants in their command, they heard that the trees were commanded so and carried it on themselves, as in the aggadah in Ḥullin. The English gives each group 'of its own kind'.
+- `ibn-ezra:1:12:1` not-applicable: The pack's text of Ibn Ezra here is only the letter 'n'; it has no content bearing on the English.
+- apparatus: Ibn Ezra's text on 1:12 in the pack is a single letter (a damaged fetch).
 
 ## Genesis 1:13
 
@@ -610,29 +612,29 @@ Paragraph mark after this verse: פ
 
 ### Translation under review (1:13)
 
-English: And there was evening, and there was morning, the third day.
+English: There was evening and there was morning, a third day.
 
-Literal: and-there-was evening; and-there-was morning; day third
+Literal: and-was evening and-was morning day third
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:13.1 | and there was |  | Qal I.2.a.(1) | wayyiqtol of hayah with the time word as subject. |
+| 1:13.1 | and was |  | Qal II | wayyiqtol |
 | 1:13.2 | evening |  | 1.a |  |
-| 1:13.3 | and there was |  | Qal I.2.a.(1) |  |
+| 1:13.3 | and was |  | Qal II |  |
 | 1:13.4 | morning |  | 1 |  |
 | 1:13.5 | day |  | 1 |  |
-| 1:13.6 | third |  |  | the ordinal follows its noun: 'day third'. |
+| 1:13.6 | third |  |  | ordinal |
 
 Phrases:
-- 1:13.1 1:13.2 | And there was evening | and-there-was evening
-- 1:13.3 1:13.4 | and there was morning | and-there-was morning
-- 1:13.5 1:13.6 | the third day | day third
+- 1:13.1 1:13.2 1:13.3 1:13.4 | There was evening and there was morning | 'and-was evening and-was morning'
+- 1:13.5 1:13.6 | a third day | 'day third'
 
 Grammar notes:
-- The verse repeats the day formula of 1:5 and 1:8: evening, then morning, then the ordinal after the noun.
-- The wayyiqtol of hayah carries the narrative on: 'and there was evening', then 'and there was morning', each with the time word as the subject.
-- Accents: merkha on עֶרֶב (1:13.2) and יוֹם (1:13.5), tipḥa on בֹּקֶר (1:13.4), and silluq on שְׁלִישִׁי (1:13.6).
-- A petuḥah (פ) follows the verse, so 1:14 begins a new paragraph.
+- The same closing formula as verse 8; here the day is the third.
+- שְׁלִישִׁי is an ordinal adjective after יוֹם, with no article.
+- The paragraph mark (פ) after this verse ends the third day's account in the parashah division.
+
+Translator's note: No commentary on this verse is anchored in the pack.
 
 Commentary rulings:
 

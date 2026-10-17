@@ -54,61 +54,61 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹ�
 
 ### Translation under review (1:14)
 
-English: God said: Let there be luminaries in the expanse of the sky to separate the day from the night. And they shall be for signs, and for appointed times, and for days and years.
+English: God said, "Let there be lights in the expanse of the sky to separate the day from the night, and let them be signs and appointed times, and days and years."
 
-Literal: and-said God; let-be luminaries in-expanse-of the-sky to-separate between the-day and-between the-night; and-they-be for-signs, and-for-appointed-times, and-for-days and-years
+Literal: and-said God let-be luminaries in-expanse-of the-heavens to-separate between the-day and-between the-night and-they-shall-be for-signs and-for-appointed-times and-for-days and-years
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:14.1 | and said |  | Qal 1 | wayyiqtol (sequential imperfect) of 'say'; the verb opens the divine speech. |
-| 1:14.2 | God |  | 3 | plural form with a singular verb; of the God of Israel, so 'God' (decisions.md). |
-| 1:14.3 | let there be |  | Qal III.1 | jussive, singular, with the plural subject מְאֹרֹת. |
-| 1:14.4 | luminaries |  |  | plural of מָאוֹר; written without the vav (defective). See apparatus. |
-| 1:14.5 | in the expanse of |  | 1 | construct state: 'expanse' of 'the sky'. |
-| 1:14.6 | the sky |  | 1.a |  |
-| 1:14.7 | to separate |  | Hiph 1 |  |
-| 1:14.8 | between |  |  |  |
+| 1:14.1 | and said |  | Qal 1 | wayyiqtol, 'and he said'; the narrative verb of the whole chapter |
+| 1:14.2 | God |  | 3 | plural form, singular verb: the usual agreement for God |
+| 1:14.3 | let there be |  | Qal II | jussive; singular verb before a plural subject |
+| 1:14.4 | luminaries |  |  | lights, light-bearers; spelled without vav (מארת), see Rashi |
+| 1:14.5 | in the expanse of |  | 1 | construct state |
+| 1:14.6 | the heavens |  | 1.a | dual-looking plural, always plural in Hebrew |
+| 1:14.7 | to separate |  | Hiph 1 | infinitive construct with ל, of purpose |
+| 1:14.8 | between |  | 1 |  |
 | 1:14.9 | the day |  | 1 |  |
-| 1:14.10 | and between |  |  |  |
+| 1:14.10 | and between |  | 1 | בין is repeated before each term |
 | 1:14.11 | the night |  |  |  |
-| 1:14.12 | and they shall be |  | Qal III.1 | weqatal (sequential perfect) continuing the jussive 'let there be'. |
-| 1:14.13 | for signs |  | 2 | 'signs, omens' is Rashi's reading; Ibn Ezra reads 'moments'. See commentary. |
-| 1:14.14 | and for appointed times |  | 1 |  |
-| 1:14.15 | and for days |  | 4 |  |
+| 1:14.12 | and they shall be |  | Qal III | weqatal continuing the jussive: 'and let them be' |
+| 1:14.13 | for signs |  | 1 |  |
+| 1:14.14 | and for appointed times |  | 1 | seasons, fixed times: festivals and seasons |
+| 1:14.15 | and for days |  | 1 |  |
 | 1:14.16 | and years |  |  |  |
 
 Phrases:
-- 1:14.1 1:14.2 | God said | and-said God; the verb precedes its subject
-- 1:14.3 1:14.4 | Let there be luminaries | let-be luminaries; singular jussive with a plural subject, as Ibn Ezra notes
-- 1:14.5 1:14.6 | in the expanse of the sky | in-expanse-of the-sky; construct chain
-- 1:14.7 1:14.8 1:14.9 1:14.10 1:14.11 | to separate the day from the night | to-separate between the-day and-between the-night; 'from' is the English for 'between' after a verb of separating
-- 1:14.12 1:14.13 | And they shall be for signs | and-they-be for-signs; weqatal continuing the jussive
-- 1:14.14 1:14.15 1:14.16 | and for appointed times, and for days and years | and-for-appointed-times, and-for-days and-years; three nouns of purpose in one list
+- 1:14.1 1:14.2 | God said | 'and-said God'
+- 1:14.3 1:14.4 | Let there be lights | 'let-be luminaries'; jussive of command
+- 1:14.5 1:14.6 | in the expanse of the sky | 'in-expanse-of the-heavens'
+- 1:14.7 1:14.8 1:14.9 1:14.10 1:14.11 | to separate the day from the night | 'to-separate between the-day and-between the-night'; 'between...and between' is rendered 'from'
+- 1:14.12 1:14.13 | and let them be signs | 'and-they-shall-be for-signs'; the ל marks the predicate
+- 1:14.14 | and appointed times | 'and-for-appointed-times'
+- 1:14.15 | and days | 'and-for-days'
+- 1:14.16 | and years | 'and-years'
 
 Grammar notes:
-- וַיֹּאמֶר is a wayyiqtol with the subject אֱלֹהִים after the verb.
-- יְהִי is singular, though its subject מְאֹרֹת is plural; Ibn Ezra explains the singular as the usual form for any number and gender.
-- The etnaḥta on הַלָּיְלָה (1:14.11) divides the verse: the separation clause comes before it, the purposes after it.
-- לְאֹתֹת, לְמוֹעֲדִים, לְיָמִים, לְשָׁנִים: four nouns, each with ל 'for', in one list. They are four purposes of the luminaries.
-- בִּרְקִיעַ הַשָּׁמָיִם is a construct chain: ב + construct רְקִיעַ + absolute שָׁמַיִם, 'in the expanse of the sky'.
+- יְהִי is singular before the plural מְאֹרֹת; Ibn Ezra notes that the verb 'to be' often does not agree in number or gender (cf. Deut 22:23 כִּי יִהְיֶה נַעֲרָה).
+- לְהַבְדִּיל is an infinitive of purpose; the pashta on מְאֹרֹת and the zaqef on הַשָּׁמַיִם set off 'lights in the expanse' from the purpose clause.
+- The etnaḥta on הַלָּיְלָה divides the verse: purpose of separation, then the further functions after it.
+- וְהָיוּ is a weqatal continuing the jussive, so it is also a wish-command: 'and let them be'.
+- The four ל-phrases (signs, appointed times, days, years) are a list; whether the ל of לְאֹתֹת governs all four is debated, and Ibn Ezra rejects the view that the ל is superfluous.
 
-Translator's note: The four purposes are kept general. 'Signs' and 'appointed times' can take the readings of Rashi (omens, festivals), Ibn Ezra (moments, hours) and Radak (hours, seasons), and the English leaves the choice to the reader. 'Let there be' keeps the singular jussive.
+Translator's note: מְאֹרֹת is written without vav; Rashi hears מְאֵרָה 'curse' in it, which is homiletic and not adopted. 'Appointed times' follows Rashi's reading of the festivals; Ibn Ezra glosses 'signs and times' as portents and hours, kept in the notes.
 
 Commentary rulings:
-- `rashi:1:14:1` records: Rashi: the luminaries were made on the first day, and on the fourth day God commanded them to be fixed in the firmament; 'the sky' (et ha-shamayim) of 1:1 includes their generations. The English does not adopt the claim that they were made on day one.
-- `rashi:1:14:2` declines: Rashi: the word is spelled without a vav because that day is a day of curse (מְאֵרָה) on infants, when quinsy falls on them, and the sages fasted against it. The English rejects this: the lemma is מָאוֹר, 'luminary', and the defective spelling is read as orthography.
-- `rashi:1:14:3` records: Rashi: separation of day from night began only when the first light was hidden; during the seven days of creation the first light and the darkness served together by day and by night. The English states the separation as the purpose of the luminaries and does not adopt this timing.
-- `rashi:1:14:4` follows: Rashi reads 'signs' as omens: when the luminaries are darkened it is a bad sign for the world, citing Jer 10:2 (מֵאֹתוֹת הַשָּׁמַיִם אַל תֵּחָתּוּ), but one who does God's will need not fear. The English keeps 'signs' in this sense (sense 2).
-- `rashi:1:14:5` follows: Rashi: 'appointed times' are named for the future, when Israel will be commanded concerning the festivals, which are reckoned from the birth of the moon. The English 'appointed times' is the general sense that his reading takes.
-- `rashi:1:14:6` follows: Rashi: the sun's shining for half a day and the moon's for the other half make one full day. The English keeps 'days' as the plural of the day so reckoned.
-- `rashi:1:14:7` follows: Rashi: after 365 and a quarter days the luminaries complete their course through the twelve constellations, which is a year, and they begin again around the sphere as before. The English keeps 'years' in this sense.
-- `ibn-ezra:1:14:1` follows: Ibn Ezra on the singular יהי: the word is used in the singular for singular and plural, and for the feminine too (citing Deut 22:23). The English 'Let there be' keeps the singular verb with the plural subject.
-- `ibn-ezra:1:14:2` records: Ibn Ezra: 'signs' (לְאֹתֹת) means moments (רגעים) and 'appointed times' means hours (שעות); the signs may also be the darkening of the moon and sun and the stars' disappearance, as in Jer 10:2. He rejects the view that the lamed of לְאֹתֹת is superfluous. The English does not adopt the moments-and-hours reading.
-- `ibn-ezra:1:14:3` follows: Ibn Ezra: the sun, moon and stars are luminaries in the firmament, since they are seen there. He rejects a Spanish sage's claim that the firmament divides into eight parts, because no body lies above the sphere of the zodiac and the verse speaks of heavens above the firmament. The English places the luminaries in the expanse of the sky.
-- `radak:1:14:5` records: Radak: 'signs' are the hours, 'appointed times' the seasons of the year, 'days' the days of the month, and 'years' the solar years of 365 and a quarter days. The English keeps the general nouns and does not adopt his specific senses.
-- apparatus: לְאֹתֹת (1:14.13): Rashi reads omens (sense 2); Ibn Ezra reads moments and Radak hours. The English keeps 'signs' for all three.
-- apparatus: לְמוֹעֲדִים (1:14.14): festivals (Rashi), hours (Ibn Ezra), seasons (Radak). The English keeps 'appointed times'.
-- apparatus: מְאֹרֹת (1:14.4): defective spelling. Rashi derives a word for curse (מְאֵרָה) from it; the English follows the lemma מָאוֹר.
+- `rashi:1:14:1` not-applicable: Rashi: the lights were created on the first day and on the fourth day God commanded them to be hung in the expanse; everything was created on day one and fixed on its own day. This is about order of creation, not the sense of the words.
+- `rashi:1:14:2` records: Rashi: מְאֹרֹת is written defectively (מארת), because the fourth day is a day of curse (מְאֵרָה), when diphtheria strikes children. A homiletic reading, not adopted in the English.
+- `rashi:1:14:3` not-applicable: Rashi: 'to separate between day and night' is after the first light was stored away; during the seven days of creation the first light and darkness served day and night together. Bears on the cosmic history, not the English.
+- `rashi:1:14:4` follows: Rashi: when the luminaries are eclipsed it is a bad omen for the world (Jer 10:2). 'Signs' is the English rendering.
+- `rashi:1:14:5` follows: Rashi: 'appointed times' is said for the future, when Israel will be commanded concerning the festivals, which are counted by the birth of the moon. The English keeps 'appointed times' for מוֹעֲדִים.
+- `rashi:1:14:6` follows: Rashi: the work of the sun is half a day and that of the moon is half, together a whole day. 'Days' is kept.
+- `rashi:1:14:7` follows: Rashi: at the end of 365 days the lights complete their course through the twelve constellations, which is a year, and begin again. 'Years' is kept.
+- `ibn-ezra:1:14:1` follows: Ibn Ezra: the word יְהִי means 'will be'; because it is used so often it serves singular and plural and also feminine, as in 'if there be a virgin girl' (Deut 22:23). The English 'let there be lights' follows.
+- `ibn-ezra:1:14:2` follows: Ibn Ezra: 'for signs, moments and seasons', that is, hours; the signs may also mean portents of eclipse of moon and sun (Jer 10:2). He rejects the view that the ל of לְאֹתֹת is superfluous. The English keeps 'signs'; the 'hours' reading is recorded here.
+- `ibn-ezra:1:14:3` follows: Ibn Ezra: a great Spanish sage held that the expanse is divided into eight parts; Ibn Ezra rejects this, and holds that the sun, moon and stars are lights in the expanse because they are seen there. The English 'in the expanse of the sky' follows.
+- apparatus: Onkelos renders 'lights' by נְהוֹרִין and 'appointed times' by זִמְנִין, 'and to count by them days and years'.
+- apparatus: Radak: בְּרָקִיעַ הַשָּׁמַיִם is the air; Ramban reads the lights as formed from the heavens' substance.
 
 ## Genesis 1:15
 
@@ -138,40 +138,40 @@ Hebrew (MAM): וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ ה�
 
 ### Translation under review (1:15)
 
-English: And they shall be luminaries in the expanse of the sky, giving light upon the earth. And so it happened.
+English: and let them be lights in the expanse of the sky to give light on the earth. And it was so.
 
-Literal: and-they-be as-luminaries in-expanse-of the-sky to-give-light upon the-earth; and-it-was so
+Literal: and-they-shall-be for-luminaries in-expanse-of the-heavens to-give-light upon the-earth and-was so
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:15.1 | and they shall be |  | Qal III.1 | weqatal; the same verb as 1:14.12. |
-| 1:15.2 | as luminaries |  |  | ל of predication before the plural noun מְאוֹרֹת (written without the vav). |
-| 1:15.3 | in the expanse of |  | 1 |  |
-| 1:15.4 | the sky |  | 1.a |  |
-| 1:15.5 | to give light | bdb:a.cd.aa | Hiph 1 | hifil infinitive of אור with ל of purpose. |
-| 1:15.6 | upon |  |  |  |
+| 1:15.1 | and they shall be |  | Qal III | weqatal, continuing the jussive |
+| 1:15.2 | as lights |  |  |  |
+| 1:15.3 | in the expanse of |  | 1 | construct state |
+| 1:15.4 | the heavens |  | 1.a |  |
+| 1:15.5 | to give light |  | Hiph 1 | Hiphil infinitive of אור, 'cause to shine' |
+| 1:15.6 | on |  | II.1 |  |
 | 1:15.7 | the earth |  | 1.a |  |
-| 1:15.8 | and it happened |  | Qal I.2.a.(1) | wayyiqtol of היה; the closing formula. |
+| 1:15.8 | and it was |  | Qal III | wayyiqtol, the fulfilment formula |
 | 1:15.9 | so |  |  |  |
 
 Phrases:
-- 1:15.1 1:15.2 | And they shall be luminaries | and-they-be as-luminaries
-- 1:15.3 1:15.4 | in the expanse of the sky | in-expanse-of the-sky; as in 1:14
-- 1:15.5 1:15.6 1:15.7 | giving light upon the earth | to-give-light upon the-earth; the infinitive of purpose, rendered as a participle
-- 1:15.8 1:15.9 | And so it happened | and-it-was so; the formula
+- 1:15.1 1:15.2 | and let them be lights | 'and-they-shall-be for-luminaries'
+- 1:15.3 1:15.4 | in the expanse of the sky | 'in-expanse-of the-heavens'
+- 1:15.5 1:15.6 1:15.7 | to give light on the earth | 'to-give-light upon the-earth'
+- 1:15.8 1:15.9 | And it was so | 'and-was so'; the formula of fulfilment
 
 Grammar notes:
-- וְהָיוּ לִמְאוֹרֹת: the weqatal continues the jussive of 1:14; ל with the noun marks the predicate, 'be as luminaries'.
-- לְהָאִיר is a hifil infinitive of purpose with ל; its object is הָאָרֶץ, with עַל 'upon'.
-- The etnaḥta on הָאָרֶץ (1:15.7) divides the verse: the purpose clause comes before it, the closing formula after it.
-- וַיְהִי־כֵן: a wayyiqtol of היה with the adverb כֵּן 'so'. The same formula closes the commands of 1:7, 1:9 and 1:11.
+- וְהָיוּ is weqatal: the command continues, with a new purpose added to the first.
+- לְהָאִיר is Hiphil: 'to cause light', as against the Qal 'be light'.
+- The etnaḥta on הָאָרֶץ closes the command; וַיְהִי־כֵן is a separate short clause after it.
 
-Translator's note: 'Giving light' is the English for the purpose infinitive. The formula is rendered 'And so it happened' to keep the wayyiqtol and the adverb together.
+Translator's note: The verse repeats 'lights in the expanse'; Rashi and Radak take it as adding a function: that they give light to the earth, in addition to marking time.
 
 Commentary rulings:
-- `rashi:1:15:1` follows: Rashi: 'and they shall be as luminaries' adds one more task: 'yet this too they shall serve, to shine upon the world' (עוֹד זֹאת יְשַׁמְּשׁוּ, שֶׁיָּאִירוּ לָעוֹלָם). The English 'giving light upon the earth' adopts this.
-- `ramban:1:15:1` follows: Ramban: the words add that their light reaches the earth, since they might be seen in the sky and do their work without shining on the earth; so they are set in the expanse to look toward the earth and shine on it. The English 'giving light upon the earth' follows him.
-- `radak:1:15:1` records: Radak: the luminaries were made on the first day, but their light was not added until the fourth day, when they were hung in the expanse to give light to those who see. The English does not adopt this account of the timing.
+- `rashi:1:15:1` follows: Rashi: 'they shall serve this too, to give light to the world'. The English keeps the added purpose 'to give light on the earth'.
+- `ramban:1:15:1` follows: Ramban: the addition is that their light reaches the earth, since they could have been seen in the sky without lighting the earth.
+- `radak:1:15:1` follows: Radak: 'and let them also be lights'; the lights existed before, but on day four they were hung in the expanse to give light to those who see.
+- apparatus: Onkelos: וִיהוֹן לִנְהוֹרִין בִּרְקִיעָא דִּשְׁמַיָּא לְאַנְהָרָא עַל אַרְעָא וַהֲוָה כֵן.
 
 ## Genesis 1:16
 
@@ -217,56 +217,57 @@ Hebrew (MAM): וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י ה�
 
 ### Translation under review (1:16)
 
-English: God made the two great luminaries: the greater luminary to rule the day, and the lesser luminary to rule the night, and the stars.
+English: God made the two great lights, the greater light to rule the day and the lesser light to rule the night, and the stars.
 
-Literal: and-made God (object-marker) two the-luminaries the-great (object-marker) the-luminary the-great to-rule the-day, and-(object-marker) the-luminary the-small to-rule the-night, and-(object-marker) the-stars
+Literal: and-made God [object-mark] two-of the-luminaries the-great [object-mark] the-luminary the-great for-rule-of the-day and-[object-mark] the-luminary the-small for-rule-of the-night and-[object-mark] the-stars
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:16.1 | and made |  | Qal II.1 | עָשָׂה 'make', not בָּרָא 'create' of 1:1. See grammar. |
+| 1:16.1 | and made |  | Qal II.1 | wayyiqtol |
 | 1:16.2 | God |  | 3 |  |
-| 1:16.3 | (object marker) |  |  | direct object marker before 'the two great luminaries'. |
-| 1:16.4 | two |  |  |  |
-| 1:16.5 | the luminaries |  |  |  |
-| 1:16.6 | great |  | 10 | the pack's entry for גָּדוֹל lists no sense for size; sense 10 is the nearest listed. See apparatus. |
+| 1:16.3 | (object marker) |  |  | marks the definite direct object |
+| 1:16.4 | two of |  |  | dual construct of שְׁנַיִם |
+| 1:16.5 | the lights |  |  |  |
+| 1:16.6 | the great |  |  | positive form; 'great' in comparison with the stars (Ibn Ezra), not in size |
 | 1:16.7 | (object marker) |  |  |  |
-| 1:16.8 | the luminary |  |  |  |
-| 1:16.9 | the greater |  | 10 | singular, agreeing with the sun; the nearest listed sense (see apparatus). |
-| 1:16.10 | to rule |  |  | noun with ל ('for the rule of'), read as an infinitive in English. |
+| 1:16.8 | the light |  |  |  |
+| 1:16.9 | the great |  |  | positive form, used as comparative: 'the greater' |
+| 1:16.10 | for the rule of |  |  | construct; 'for ruling, dominion' |
 | 1:16.11 | the day |  | 1 |  |
 | 1:16.12 | and (object marker) |  |  |  |
-| 1:16.13 | the luminary |  |  |  |
-| 1:16.14 | the lesser |  |  |  |
-| 1:16.15 | to rule |  |  | parallel to 1:16.10. |
+| 1:16.13 | the light |  |  |  |
+| 1:16.14 | the small |  |  | positive form used as comparative: 'the lesser' |
+| 1:16.15 | for the rule of |  |  |  |
 | 1:16.16 | the night |  |  |  |
 | 1:16.17 | and (object marker) |  |  |  |
 | 1:16.18 | the stars |  |  |  |
 
 Phrases:
-- 1:16.1 1:16.2 | God made | and-made God
-- 1:16.3 | - | object marker; no English counterpart
-- 1:16.4 1:16.5 1:16.6 | the two great luminaries | two the-luminaries the-great; 'great' is kept for both, as in the commentators
-- 1:16.7 | - | object marker; no English counterpart
-- 1:16.8 1:16.9 1:16.10 1:16.11 | the greater luminary to rule the day | the-luminary the-great to-rule the-day; 'to rule' for the noun with ל
-- 1:16.12 1:16.13 1:16.14 1:16.15 1:16.16 | and the lesser luminary to rule the night | and-(object-marker) the-luminary the-small to-rule the-night; parallel to the previous phrase
-- 1:16.17 1:16.18 | and the stars | and-(object-marker) the-stars
+- 1:16.1 1:16.2 | God made | 'and-made God'
+- 1:16.3 1:16.4 1:16.5 1:16.6 | the two great lights | '[mark] two-of the-luminaries the-great'; the object marker has no English counterpart
+- 1:16.7 1:16.8 1:16.9 | the greater light | '[mark] the-luminary the-great'; the positive adjective is read as comparative
+- 1:16.10 1:16.11 | to rule the day | 'for-rule-of the-day'
+- 1:16.12 1:16.13 1:16.14 | and the lesser light | 'and-[mark] the-luminary the-small'
+- 1:16.15 1:16.16 | to rule the night | 'for-rule-of the-night'
+- 1:16.17 1:16.18 | and the stars | 'and-[mark] the-stars'; added after the two lights
 
 Grammar notes:
-- וַיַּעַשׂ means 'made' (עָשָׂה), not 'created' (בָּרָא). Sforno explains that the luminaries and stars are part of the spheres already created in 1:1, so the verb here is 'make'.
-- The object marker recurs four times: before 'the two great luminaries', 'the greater luminary', 'the lesser luminary' and 'the stars'.
-- לְמֶמְשֶׁלֶת הַיּוֹם and לְמֶמְשֶׁלֶת הַלַּיְלָה are parallel: 'for the rule of the day' and 'for the rule of the night'. The English uses 'to rule' for both.
-- The adjectives agree in number: הַגְּדֹלִים is plural with the dual שְׁנֵי; הַגָּדֹל and הַקָּטֹן are singular, one for each luminary.
-- The etnaḥta on הַגְּדֹלִים (1:16.6) closes the first object; the silluq on הַכּוֹכָבִים closes the verse.
+- אֵת marks each definite direct object; here it is repeated for the two lights and for the stars.
+- הַגָּדוֹל and הַקָּטֹן are positive adjectives used where English says 'greater' and 'lesser'.
+- לְמֶמְשֶׁלֶת is the construct of מֶמְשָׁלָה: 'for the dominion of the day'.
+- The etnaḥta on הַגְּדֹלִים divides the verse; the stars are added in a short last clause under the silluq.
+- וְאֵת הַכּוֹכָבִים has no verb of its own: it depends on וַיַּעַשׂ and is added almost as an afterthought.
 
-Translator's note: 'Greater' and 'lesser' render the Hebrew adjectives in their comparative sense. The English keeps 'great' for both luminaries, following Ibn Ezra and Radak, who take the adjective as great in light, not in body.
+Translator's note: הַמְּאֹרֹת הַגְּדֹלִים is 'great' relative to the stars, as Ibn Ezra and Radak say (they are not great in body but in light); the grammatical form is a masculine plural adjective with a feminine plural noun.
 
 Commentary rulings:
-- `rashi:1:16:1` records: Rashi: the two luminaries were made equal (שָׁוִים), and the moon was afterwards made smaller because she complained that two kings cannot share one crown (אִי אֶפְשָׁר לִשְׁנֵי מְלָכִים). The English does not adopt the claim that they were equal at creation.
-- `rashi:1:16:2` not-applicable: Rashi: because the moon was diminished, God multiplied her hosts to appease her. This is a homily on the reason for the stars and does not bear on the sense of 'and the stars'.
-- `ibn-ezra:1:16:1` follows: Ibn Ezra: the two great ones are called great in comparison with the stars, as the three great sons of Jesse are great in comparison with the others. The English 'great' is read in the same relative sense.
-- `ibn-ezra:1:16:2` follows: Ibn Ezra: the sun rules the day and not the night, since the moon has no light of her own and the stars are not seen by day. 'The great' refers not to body but to light; the moon's light is many times greater because she is near the earth. The English 'to rule the day' and 'the greater luminary' follow him.
-- `radak:1:16:2` follows: Radak agrees that 'great' refers to light, not body: all stars except Venus are larger than the moon, but the moon is greater in light than the other stars, because she is near the earth, and the sun is greater than both. The English 'great' keeps this sense.
-- apparatus: 1:16.6 and 1:16.9: the pack's lexicon entry for גָּדוֹל lists no sense for 'great' in size (senses 4, 9 and 10 are 'loud', 'do great things' and 'greatness'). Sense 10 is the nearest listed sense; this is a gap in the lexicon, not a reading.
+- `rashi:1:16:1` records: Rashi: they were created equal, and the moon was made smaller because she accused, saying two kings cannot use one crown. A homily; the English says 'two great lights' and 'greater' and 'lesser' without it.
+- `rashi:1:16:2` not-applicable: Rashi: because He made the moon smaller He multiplied her hosts, to appease her. A homiletic comment on the stars.
+- `ibn-ezra:1:16:1` follows: Ibn Ezra: the two are called great against the stars, as the three eldest sons of Jesse are called the great ones against the others. The English 'great' follows.
+- `ibn-ezra:1:16:2` follows: Ibn Ezra: the rule of the day is the sun's rule by day and not by night; 'the great' is of their light, not their bodies, and the moon's light is doubled because she is near the earth.
+- `ramban:1:16:1` not-applicable: Ramban: the lights were not made of the body of the expanse but are bodies set in it.
+- `radak:1:16:2` follows: Radak: 'great' here is of their light, not body, since the stars are greater than the moon in body.
+- apparatus: Onkelos: וְיָת נְהוֹרָא רַבָּא לְמִשְׁלַט בִּימָמָא; the verbs and nouns are the same as the Hebrew.
 
 ## Genesis 1:17
 
@@ -293,37 +294,38 @@ Hebrew (MAM): וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְק�
 
 ### Translation under review (1:17)
 
-English: God placed them in the expanse of the sky to give light upon the earth.
+English: God set them in the expanse of the sky to give light on the earth.
 
-Literal: and-placed them God in-expanse-of the-sky to-give-light upon the-earth
+Literal: and-set [object-mark]-them God in-expanse-of the-heavens to-give-light upon the-earth
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:17.1 | and placed |  | Qal 2 | wayyiqtol of נָתַן in the sense 'put, set'. |
-| 1:17.2 | them |  |  | object marker with third masculine plural suffix; the luminaries of 1:14–16. |
+| 1:17.1 | and set |  | Qal 2 | wayyiqtol; 'put, place', cf. Gen 9:13 'I have set my bow in the cloud' |
+| 1:17.2 | them |  |  | object marker with 3rd person masculine plural suffix |
 | 1:17.3 | God |  | 3 |  |
-| 1:17.4 | in the expanse of |  | 1 | construct state. |
-| 1:17.5 | the sky |  | 1.a |  |
-| 1:17.6 | to give light | bdb:a.cd.aa | Hiph 1 | hifil infinitive of אור with ל of purpose. |
-| 1:17.7 | upon |  |  |  |
+| 1:17.4 | in the expanse of |  | 1 | construct state |
+| 1:17.5 | the heavens |  | 1.a |  |
+| 1:17.6 | to give light |  | Hiph 1 |  |
+| 1:17.7 | on |  | II.1 |  |
 | 1:17.8 | the earth |  | 1.a |  |
 
 Phrases:
-- 1:17.1 1:17.2 1:17.3 | God placed them | and-placed them God; the verb precedes its subject
-- 1:17.4 1:17.5 | in the expanse of the sky | in-expanse-of the-sky; construct chain
-- 1:17.6 1:17.7 1:17.8 | to give light upon the earth | to-give-light upon the-earth; purpose of the placing
+- 1:17.1 1:17.2 1:17.3 | God set them | 'and-set [mark]-them God'
+- 1:17.4 1:17.5 | in the expanse of the sky | 'in-expanse-of the-heavens'
+- 1:17.6 1:17.7 1:17.8 | to give light on the earth | 'to-give-light upon the-earth'
 
 Grammar notes:
-- וַיִּתֵּן is a wayyiqtol of נָתַן, here 'put, set' (Qal 2). Ibn Ezra notes that the verb is used for setting, as in 'I set (natati) my bow in the cloud' (Gen 9:13).
-- אֹתָם is the object marker with the third masculine plural suffix, referring to the luminaries and stars of 1:14–16.
-- The etnaḥta on הַשָּׁמָיִם (1:17.5) divides the verse: the placing in the expanse comes first, then the purpose לְהָאִיר.
-- Radak takes לְהָאִיר here as 'to give light' in the strict sense, and the 'rule' of 1:18 as the function of the luminaries. The English keeps the two infinitives apart.
+- אֹתָם is the object marker with a pronoun suffix: 'them'; it stands before the subject אֱלֹהִים.
+- נָתַן here is 'set, place', not 'give'; Ibn Ezra cites Gen 9:13.
+- The tevir on אֹתָם and the etnaḥta on הַשָּׁמָיִם mark the two parts of the verse.
 
-Translator's note: 'Placed' renders the verb in the sense 'set' (Ibn Ezra), not 'gave'.
+Translator's note: נָתַן is 'put, set' (Qal 2). Radak takes וַיִּתֵּן as the placing of the lights in the expanse, which they had not been in until day four.
 
 Commentary rulings:
-- `ibn-ezra:1:17:1` follows: Ibn Ezra: do not be surprised at the word vayyitten, since so it is written 'I set (natati) my bow in the cloud' (Gen 9:13). The English 'placed' uses the sense 'set' (Qal 2).
-- `radak:1:17:3` follows: Radak: 'to give light' (above, 1:15) and 'to rule' (1:18) are joined in different ways; here 'to give light' refers to the light itself. The English 'to give light' follows this reading of the infinitive.
+- `ibn-ezra:1:17:1` follows: Ibn Ezra: do not wonder at וַיִּתֵּן, since it is written 'I have set my bow in the cloud' (Gen 9:13). The English 'set' follows.
+- `radak:1:17:1` records: Radak: וַיִּתֵּן is said after וַיַּעַשׂ because it means He placed them in the expanse, where they had not been before the fourth day (text cut in the pack).
+- `radak:1:17:3` follows: Radak: with 'to give light' joined to 'and to rule', 'to give light' refers to their light and 'to rule' to their effect.
+- apparatus: The pack text of radak:1:17:1 is cut; summary taken from the part given.
 
 ## Genesis 1:18
 
@@ -363,45 +365,47 @@ Variants:
 
 ### Translation under review (1:18)
 
-English: To rule by day and by night, and to separate the light from the darkness. God saw how good it was.
+English: and to rule over the day and the night, and to separate the light from the darkness. God saw that it was good.
 
-Literal: and-to-rule in-the-day and-in-the-night, and-to-separate between the-light and-between the-darkness; and-saw God that good
+Literal: and-to-rule in-the-day and-in-the-night and-to-separate between the-light and-between the-darkness and-saw God that good
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:18.1 | and to rule |  | Qal 1 | infinitive continuing the purpose of 1:17; the verse has no finite verb until 1:18.9. |
-| 1:18.2 | in the day |  | 1 | ב + יוֹם, an adverbial phrase: 'by day'. |
-| 1:18.3 | and in the night |  |  | ב + לַיְלָה: 'by night'. |
-| 1:18.4 | and to separate |  | Hiph 1 | vowel variant at this word; see apparatus. |
-| 1:18.5 | between |  |  |  |
-| 1:18.6 | the light | bdb:a.cd.ab | 1 |  |
-| 1:18.7 | and between |  |  |  |
-| 1:18.8 | the darkness |  | 1 | the etnaḥta falls on this word. |
-| 1:18.9 | and saw |  | Qal 1.a | wayyiqtol; the first finite verb of the verse. |
+| 1:18.1 | and to rule |  | Qal 1 | infinitive construct with ל, of purpose |
+| 1:18.2 | over the day |  | 1 | בְּ: 'in, over' |
+| 1:18.3 | and over the night |  |  |  |
+| 1:18.4 | and to separate |  | Hiph 1 | infinitive construct; WLC vocalizes וּלֲהַבְדִּיל |
+| 1:18.5 | between |  | 1 |  |
+| 1:18.6 | the light |  | 1 |  |
+| 1:18.7 | and between |  | 1 |  |
+| 1:18.8 | the darkness |  | 1 |  |
+| 1:18.9 | and saw |  | Qal 1.a | wayyiqtol |
 | 1:18.10 | God |  | 3 |  |
-| 1:18.11 | that |  |  | כִּי introducing the object clause; English 'how' for it. |
+| 1:18.11 | that |  |  |  |
 | 1:18.12 | good |  | 3 |  |
 
 Phrases:
-- 1:18.1 1:18.2 1:18.3 | To rule by day and by night | and-to-rule in-the-day and-in-the-night; adverbial pair
-- 1:18.4 1:18.5 1:18.6 1:18.7 1:18.8 | and to separate the light from the darkness | and-to-separate between the-light and-between the-darkness; 'from' for 'between' after a verb of separating
-- 1:18.9 1:18.10 1:18.11 1:18.12 | God saw how good it was | and-saw God that good; 'that' rendered as 'how' in the object clause
+- 1:18.1 1:18.2 1:18.3 | and to rule over the day and the night | 'and-to-rule in-the-day and-in-the-night'
+- 1:18.4 1:18.5 1:18.6 1:18.7 1:18.8 | and to separate the light from the darkness | 'and-to-separate between the-light and-between the-darkness'
+- 1:18.9 1:18.10 | God saw | 'and-saw God'
+- 1:18.11 1:18.12 | that it was good | 'that good'; no verb in Hebrew, 'it was' is supplied
 
 Grammar notes:
-- The infinitives לִמְשֹׁל and לְהַבְדִּיל continue the purpose of the placing in 1:17; the verse has no finite verb until וַיַּרְא.
-- בַּיּוֹם וּבַלַּיְלָה is a pair of adverbial phrases, 'in the day and in the night'; the English idiom is 'by day and by night'.
-- The etnaḥta on הַחֹשֶׁךְ (1:18.8) divides the verse into the two infinitival clauses: ruling, then separating.
-- וַיַּרְא אֱלֹהִים כִּי טוֹב: the object clause introduced by כִּי; the verb precedes its subject; the silluq on טוֹב closes the verse.
+- The two infinitives, 'to rule' and 'to separate', continue the purpose of verse 17.
+- בַּיּוֹם has the article fused into the preposition בַּ.
+- וּלְהַבְדִּיל takes the vocalization of an unstressed ל after וּ with a secondary stress mark (ֽ).
+- הָאוֹר and הַחֹשֶׁךְ are the 'light' and 'darkness' of day one: whether these refer to day and night, or to light and dark as such, is discussed by the commentators.
+- The etnaḥta on הַחֹשֶׁךְ divides the verse before the evaluation, 'God saw that it was good'.
 
-Translator's note: The English gives the two infinitives a sentence of their own, without a finite verb of their own, and keeps 'by day and by night' as the English idiom for בַּיּוֹם וּבַלַּיְלָה. 'How good it was' renders the clause with כִּי after 'saw'.
+Translator's note: The light/darkness of the separation echoes verses 4 and 5; Ramban takes אוֹר and חֹשֶׁךְ as the day and the night; Ibn Ezra takes them as the daytime light of the sun and the nighttime light of the moon. The English keeps the plain 'the light from the darkness'.
 
 Commentary rulings:
-- `ibn-ezra:1:18:1` follows: Ibn Ezra: by the Torah, the day runs from sunrise to sunset (משעת צאת השמש עד בואה) and the night from the sight of the stars, which is fixed by three witnesses. The English 'by day and by night' follows this division of the day.
-- `ramban:1:18:1` records: Ramban: 'to rule' is a different thing from the light: the sun rules growth by day and the moon moisture by night, and the stars rule the nations (citing Deut 4:19). The English keeps 'rule' in its plain sense and does not adopt this account.
-- `ramban:1:18:2` records: Ramban: the 'light' here is the day and the 'darkness' the night, as in 1:5 where God names the light day and the darkness night, and not the light of the sun and the moon. The English keeps 'light' and 'darkness'; the time reading is recorded here.
-- `sforno:1:18:2` records: Sforno: the separation is made below, by the rising and setting of the luminaries, between the time of light (called day) and the time of darkness (called night). The English keeps the nouns; this time reading is recorded.
-- `sforno:1:16:2` not-applicable: Sforno on כִּי טוֹב: God directed his work to the good, which is the end fitting to his deed. This is a gloss on the purpose behind 'good', not on its sense.
-- apparatus: 1:18.4 vowel: WLC reads וּֽלֲהַבְדִּ֔יל (patah under the lamed); the base text reads וּֽלְהַבְדִּ֔יל (sheva). The English is the same either way.
+- `ibn-ezra:1:18:1` follows: Ibn Ezra: the day of the Torah runs from sunrise to sunset, and the night from the appearance of the stars; with the light of the sun by day and the moon by night, the lights separate the light from the darkness. The English keeps 'to rule over the day and the night' and 'to separate the light from the darkness'.
+- `ramban:1:18:1` records: Ramban: 'rule' covers the sign-giving of verse 14, since the lights rule over changes on earth; sun by day causes growth, moon by night fertility. A further reading is that rule is the power of emanation. These readings of 'rule' are recorded here, not put in the English.
+- `ramban:1:18:2` records: Ramban disagrees with Ibn Ezra: 'light' and 'darkness' here are the names of day and night (v. 5); the great light rules in the day and the small in the night.
+- `radak:1:18:2` records: Radak: from sunrise it is light, which is the day, and from the appearance of the stars it is darkness, called thus because it is dark relative to the light of day.
+- apparatus: Variant: WLC reads וּלֲהַבְדִּיל for MAM וּלְהַבְדִּיל in 1:18.4 (vowel only).
+- apparatus: Onkelos: וּלְמִשְׁלַט בִּימָמָא וּבְלֵילְיָא וּלְאַפְרָשָׁא בֵּין נְהוֹרָא וּבֵין חֲשׁוֹכָא וַחֲזָא יְיָ אֲרֵי טָב.
 
 ## Genesis 1:19
 
@@ -425,33 +429,34 @@ Paragraph mark after this verse: פ
 
 ### Translation under review (1:19)
 
-English: Evening came, and morning came: the fourth day.
+English: There was evening and there was morning, a fourth day.
 
-Literal: and-there-was evening; and-there-was morning day fourth
+Literal: and-was evening and-was morning day fourth
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:19.1 | and there was |  | Qal I.2.a.(1) | wayyiqtol of היה; the formula of each day. |
+| 1:19.1 | and there was |  | Qal II | wayyiqtol |
 | 1:19.2 | evening |  | 1.a |  |
-| 1:19.3 | and there was |  | Qal I.2.a.(1) | wayyiqtol of היה; second half of the formula. |
+| 1:19.3 | and there was |  | Qal II | wayyiqtol |
 | 1:19.4 | morning |  | 1 |  |
 | 1:19.5 | day |  | 1 |  |
-| 1:19.6 | fourth |  |  | ordinal following the noun; see grammar. |
+| 1:19.6 | fourth |  |  |  |
 
 Phrases:
-- 1:19.1 1:19.2 | Evening came | and-there-was evening; 'came' for 'was', since the day begins at evening
-- 1:19.3 1:19.4 | and morning came | and-there-was morning
-- 1:19.5 1:19.6 | the fourth day | day fourth; the ordinal follows the noun
+- 1:19.1 1:19.2 | There was evening | 'and-was evening'
+- 1:19.3 1:19.4 | and there was morning | 'and-was morning'
+- 1:19.5 1:19.6 | a fourth day | 'day fourth'; indefinite, as in days one and five (not 'the fourth day')
 
 Grammar notes:
-- וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר is the formula of each day: evening first, since the day is counted from evening to morning.
-- Both clauses are wayyiqtol forms of היה. The English 'came' renders the existence of evening and morning.
-- יוֹם רְבִיעִי: the ordinal follows the noun, as in the day-names of 1:5, 1:8 and 1:13.
-- Accents: merkha on עֶרֶב and on יוֹם, tipḥa on בֹּקֶר, silluq on רְבִיעִי. A paragraph mark (פ, petuḥah) stands after the verse.
+- The formula is the same as for the previous days: evening first, then morning.
+- יוֹם רְבִיעִי is indefinite, 'a fourth day', whereas the sixth day alone has the article.
+- A paragraph mark (פ) follows the verse, ending the section.
 
-Translator's note: The formula's 'was' is rendered 'came' so that the English does not repeat the verb of existence as a mere copula.
+Translator's note: Day, evening and morning are the same as in verses 5, 8 and 13; the ordinal is without the article.
 
 Commentary rulings:
+- `onkelos:1:19:1` follows: Targum Onkelos: וַהֲוָה רְמַשׁ וַהֲוָה צְפַר יוֹם רְבִיעָאִי; it matches the Hebrew, evening and morning, a fourth day.
+- apparatus: Paragraph mark (פ) after the verse.
 
 ## Lexicon
 

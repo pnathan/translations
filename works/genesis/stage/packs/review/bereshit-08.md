@@ -36,50 +36,46 @@ Hebrew (MAM): וּמֵעֵ֗ץ הַדַּ֙עַת֙ ט֣וֹב וָרָ֔ע לֹ
 
 ### Translation under review (2:17)
 
-English: From the tree of the knowledge of good and evil you shall not eat from it; for on the day you eat from it you shall surely die.
+English: But from the tree of the knowledge of good and evil you must not eat from it, for on the day you eat from it you will surely die.
 
-Literal: and-from tree of-the-knowledge good and-evil not you-shall-eat from-it; for in-day of-your-eating from-it dying you-shall-die
+Literal: and-from-tree-of the-knowledge-of good and-evil not you-will-eat from-it for in-day-of your-eating from-it die-INFABS you-will-die
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:17.1 | from the tree of |  | 1.a | the ו is conjunctive and is not rendered in the English |
-| 2:17.2 | the knowledge of |  | 1.a |  |
-| 2:17.3 | good |  | 4 | The pack gives the lemma key bdb:i.ai.ac (the noun entry, 'a good thing') with parse adjective; the adjective entry is bdb:i.ai.ab. The data is kept. Sense 4, moral good, is the noun-entry sense that fits 'good and evil'. |
+| 2:17.1 | and from the tree of |  | 1.a | construct state; ו is rendered 'but' because the clause sets a prohibition against the permission just given |
+| 2:17.2 | the knowledge of |  | 1.a | construct before the pair 'good and evil' |
+| 2:17.3 | good |  | 4 |  |
 | 2:17.4 | and evil |  | 3 |  |
 | 2:17.5 | not |  |  |  |
-| 2:17.6 | you shall eat |  | Qal 1 | second-person yiqtol after לֹא: a prohibition |
-| 2:17.7 | from it |  |  |  |
+| 2:17.6 | you shall eat |  | Qal 1 | imperfect with לֹא: a prohibition; pausal-accent tipḥa |
+| 2:17.7 | from it |  |  | the pack parses the suffix as 1st common plural, kept as given; the sense, with Radak and Ramban, is 'from it', the tree or its fruit |
 | 2:17.8 | for |  |  |  |
-| 2:17.9 | on the day |  | 1 |  |
-| 2:17.10 | your eating |  | Qal 1 | infinitive construct with the suffix ךָ: 'in the day of your eating' |
+| 2:17.9 | on the day of |  | 1 | construct before an infinitive: 'on the day of your eating' |
+| 2:17.10 | your eating |  | Qal 1 | infinitive construct with 2nd masc. sing. suffix, serving as a temporal clause |
 | 2:17.11 | from it |  |  |  |
-| 2:17.12 | surely die |  | Qal 1 | infinitive absolute, emphatic |
-| 2:17.13 | you shall die |  | Qal 1 |  |
+| 2:17.12 | dying |  | Qal 1 | infinitive absolute, intensifying the finite verb |
+| 2:17.13 | you will die |  | Qal 1 | imperfect; with the infinitive absolute: 'you will surely die' |
 
 Phrases:
-- 2:17.1 2:17.2 2:17.3 2:17.4 | From the tree of the knowledge of good and evil | 'and-from tree of-the-knowledge good and-evil': a construct chain (tree of knowledge), with good and evil as one pair
-- 2:17.5 2:17.6 | you shall not eat | 'not you-shall-eat': a prohibition in the second-person yiqtol
-- 2:17.7 | from it | 'from-it': the pronoun repeats the first clause. Ibn Ezra reads it as explanatory; Ramban reads it as 'from its fruit'
-- 2:17.8 | for | 'for': the כִּי opens the consequence clause
-- 2:17.9 2:17.10 | on the day you eat | 'in-day of-your-eating': a temporal clause. 'On the day' is kept; its timing is disputed (see note)
-- 2:17.11 | from it | 'from-it'
-- 2:17.12 2:17.13 | you shall surely die | 'dying you-shall-die': infinitive absolute and finite verb of one root, emphatic
+- 2:17.1 2:17.2 2:17.3 2:17.4 | But from the tree of the knowledge of good and evil | 'and-from-tree-of the-knowledge-of good and-evil': the object is put first, before the verb, for emphasis
+- 2:17.5 2:17.6 2:17.7 | you must not eat from it | 'not you-will-eat from-it'
+- 2:17.8 | for | 'for'
+- 2:17.9 2:17.10 2:17.11 | on the day you eat from it | 'in-day-of your-eating from-it'
+- 2:17.12 2:17.13 | you will surely die | 'die you-will-die': infinitive absolute with finite verb
 
 Grammar notes:
-- לֹא תֹאכַל is a prohibition: a second-person yiqtol after לֹא, so 'you shall not eat'.
-- The etnaḥta on מִמֶּנּוּ (2:17.7) divides the verse: the prohibition first, then the consequence that begins with כִּי.
-- מוֹת תָּמוּת is an infinitive absolute followed by a yiqtol of the same root, giving emphasis: 'you shall surely die'.
-- בְּיוֹם אֲכָלְךָ: the infinitive construct with the suffix ךָ gives 'your eating'; the preposition בְּ makes it a time clause, 'on the day you eat'.
-- מִמֶּנּוּ appears twice. The English keeps 'from it' both times, and the apparatus records the commentators' readings of the pronoun.
+- The object is fronted: 'and from the tree ... not you shall eat from it'. The same tree is named with a repeated pronoun, וּמֵעֵץ ... מִמֶּנּוּ.
+- לֹא תֹאכַל is an imperfect with 'not', a prohibition (compare 'you must not'), in contrast to the permission of 2:16.
+- בְּיוֹם אֲכׇלְךָ is a temporal clause built on a construct noun and an infinitive construct with a suffix.
+- מוֹת תָּמוּת joins the infinitive absolute to the finite verb for certainty ('you will surely die'). The etnaḥta falls on מִמֶּנּוּ and divides prohibition from reason; silluq closes the verse.
 
-Translator's note: 'On the day' (בְּיוֹם): Ramban takes it as 'at the time you eat', with death as liability from that moment and the death itself later (Gen 3:19). The English keeps the phrase and does not decide the timing.
+Translator's note: The English keeps the order 'from the tree ... you must not eat from it', as the Hebrew fronts the object. 'Evil' is chosen for רָע (it is the noun here, paired with good). The sense of מוֹת תָּמוּת is left as 'surely die', without saying when death comes; Ramban and Radak read the day as the time at which one becomes liable to death.
 
 Commentary rulings:
-- `ibn-ezra:2:17:1` follows: Ibn Ezra asks why 'from it' is needed after 'you shall not eat from it'. He gives two answers: it is an explanatory addition, as in 'and she opened it and saw him, the child' (Exod 2:6), or it means 'even a little of it'. The English follows the first, with no added 'even a little'; the second is recorded in the apparatus.
-- `ramban:2:17:1` records: Ramban (not normative): 'from it' warns against eating from its fruit, since the tree itself is not eaten. The English keeps 'it' and does not name the fruit.
-- `ramban:2:17:2` records: Ramban (not normative): 'on the day you eat ... you shall surely die' means that at the moment of eating you become liable to death, not that you die that day. Recorded; the English keeps the timing open.
-- apparatus: Ibn Ezra's second reading of מִמֶּנּוּ, 'even a little of it', is not adopted in the English.
-- apparatus: Ramban's reading of 'on the day' as 'at the moment' is recorded, not adopted.
+- `ibn-ezra:2:17:1` follows: Ibn Ezra: after saying 'from the tree' the word מִמֶּנּוּ is added to make it clear, like 'she opened it and saw him, the child' (Ex 2:6); or it means 'not even a little of it'. The man was full of knowledge, since he named the animals; only the knowledge of good and evil in one matter he lacked. The English keeps the double 'from the tree ... from it'.
+- `ramban:2:17:1` records: Ramban: the prohibition is of the fruit, since the tree itself is not eaten; compare 3:3 'from the fruit of the tree'.
+- `ramban:2:17:2` records: Ramban: 'on the day you eat' means the time when one becomes liable to death, as in 1 Kings 2:42; it does not mean he dies within the day.
+- apparatus: The pack parses the suffix of מִמֶּנּוּ as 1st person plural; the form is the usual 3rd masc. sing. 'from it' with a doubled nun, and the English follows the sense.
 
 ## Genesis 2:18
 
@@ -123,49 +119,47 @@ Variants:
 
 ### Translation under review (2:18)
 
-English: The LORD God said: 'It is not good for the human to be alone; I will make for him a helper corresponding to him.'
+English: The LORD God said, "It is not good for the human to be alone; I will make for him a helper corresponding to him."
 
-Literal: and-said the-LORD God not-good to-be the-human alone; I-will-make for-him a-helper like-in-front-of-him
+Literal: and-said the-LORD God not good to-be the-human by-himself I-will-make for-him help like-opposite-him
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:18.1 | said |  | Qal 1 | wayyiqtol: the verb comes before its subject |
+| 2:18.1 | and said |  | Qal 1 | wayyiqtol of אמר; the ו is dropped from the English line |
 | 2:18.2 | the LORD |  |  |  |
-| 2:18.3 | God |  | 3 | plural form with a singular verb; the name of the God of Israel, rendered 'God' by the decision |
+| 2:18.3 | God |  | 3 |  |
 | 2:18.4 | not |  |  |  |
-| 2:18.5 | good |  | 5 | predicate of a verbless clause: 'is not good' |
-| 2:18.6 | to be |  | Qal III.1 | infinitive construct as subject: 'the being of the human alone' |
-| 2:18.7 | the human |  | 2 |  |
-| 2:18.8 | alone |  | 1 | לְ + בַד + וֹ: 'by itself' |
-| 2:18.9 | I will make |  | Qal II.1 | first-person yiqtol in the LORD's speech. The WLC form differs (apparatus). |
-| 2:18.10 | for him |  |  | dative: 'for him' |
-| 2:18.11 | a helper |  | 2 | one who helps; Ibn Ezra compares 'two are better than one' (Eccl 4:9) |
-| 2:18.12 | corresponding to him |  |  | כְּ + נֶגֶד + וֹ, 'like what is in front of him'. The English keeps the ambiguity; see commentary. |
+| 2:18.5 | good |  | 5 | predicate adjective: 'not good', 'not fitting' |
+| 2:18.6 | to be |  | Qal III | infinitive construct: 'the being of the human' |
+| 2:18.7 | the human |  | 2 | with the article: the human, not the proper name Adam |
+| 2:18.8 | by himself |  | 1 | לְבַדּוֹ: 'to his separateness', that is 'alone' |
+| 2:18.9 | I will make |  | Qal II.1 | imperfect, 1st sing., cohortative sense of resolve |
+| 2:18.10 | for him |  |  |  |
+| 2:18.11 | a helper |  | 2 |  |
+| 2:18.12 | corresponding to him |  |  | 'like his opposite': כְּ + נֶגֶד + suffix, 'what faces him, matches him' |
 
 Phrases:
-- 2:18.1 2:18.2 2:18.3 | The LORD God said | 'and-said the-LORD God': the verb comes first in the wayyiqtol; the English puts the subject first
-- 2:18.4 2:18.5 2:18.6 2:18.7 2:18.8 | it is not good for the human to be alone | 'not-good to-be the-human alone': a verbless clause whose subject is the infinitive; 'it is' is supplied
-- 2:18.9 2:18.10 2:18.11 2:18.12 | I will make for him a helper corresponding to him | 'I-will-make for-him a-helper like-in-front-of-him': 'corresponding to him' keeps the crux of כְּנֶגְדּוֹ
+- 2:18.1 2:18.2 2:18.3 | The LORD God said | 'and-said the-LORD God'
+- 2:18.4 2:18.5 | It is not good | 'not good'
+- 2:18.6 2:18.7 2:18.8 | for the human to be alone | 'to-be the-human by-himself'
+- 2:18.9 2:18.10 | I will make for him | 'I-will-make for-him'
+- 2:18.11 2:18.12 | a helper corresponding to him | 'help like-opposite-him'
 
 Grammar notes:
-- לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ has no finite verb. The infinitive הֱיוֹת is its subject, so the English supplies 'it is'.
-- וַיֹּאמֶר is a wayyiqtol, so the verb comes first; the English moves the subject ahead of it.
-- The etnaḥta on לְבַדּוֹ (2:18.8) divides the divine judgment from the intention that follows.
-- אֶעֱשֶׂה־לּוֹ עֵזֶר: a first-person yiqtol with the dative לוֹ before the object עֵזֶר. The English keeps that order: 'I will make for him a helper'.
-- כְּנֶגְדּוֹ is the crux. 'In front of him' gives both 'corresponding to him' and 'against him'. Rashi's second reading ('against him, to fight') is recorded in the commentary.
+- לֹא־טוֹב הֱיוֹת הָאָדָם לְבַדּוֹ: an infinitive construct with its own subject, הָאָדָם, after a predicate adjective.
+- אֶעֱשֶׂה־לּוֹ is a 1st person imperfect, here a resolve of the speaker ('I will make').
+- עֵזֶר כְּנֶגְדּוֹ is two words: 'a help' and 'like his counterpart'; כְּנֶגְדּוֹ is not a verb but a prepositional phrase.
+- The etnaḥta falls on לְבַדּוֹ and divides the statement from the resolve.
 
-Translator's note: 'Corresponding to him' keeps the ambiguity of כְּנֶגְדּוֹ. Ibn Ezra, Radak and Sforno read the word as a counterpart standing before him, or as an equal; the English does not render 'against him'.
+Translator's note: 'Corresponding to him' keeps the meaning 'a match, what stands opposite him' (Ibn Ezra, Sforno: equal to him). Rashi's reading 'opposite him, to fight' is kept in the commentary entry.
 
 Commentary rulings:
-- `rashi:2:18:1` follows: Rashi: 'not good' is said so that no one thinks there are two powers, the Holy One alone above without a mate and this one alone below without a mate (Bereshit Rabbah). The English keeps the plain 'not good ... alone'; the reason is given here, not in the English.
-- `rashi:2:18:2` records: Rashi: 'if he merits, a helper; if not, "against him" to fight' (Bereshit Rabbah). The English keeps 'corresponding to him', so the ambiguity stays open. Rashi's second reading is recorded in the apparatus and not adopted.
-- `ibn-ezra:2:18:1` follows: Ibn Ezra gives the sense of 'not good' as 'not good for the human' (לְאָדָם): the judgment concerns the human's situation. The English reads 'it is not good for the human to be alone'.
-- `ibn-ezra:2:18:2` follows: Ibn Ezra explains 'a helper' by 'two are better than one' (Eccl 4:9): the helper is one who gives help, as in 'a helper'.
-- `ramban:2:18:1` records: Ramban (not normative): in creation 'good' means permanence (הַקִּיּוּם); a man alone would not endure, so 'not good' means he would not last alone, and the helper is for bearing seed. The English uses 'good' in the sense of 'not good for', not permanence; recorded here.
-- `sforno:2:18:2` follows: Sforno (not normative): כְּנֶגְדּוֹ is the image of a balance, two pans set opposite each other, equal in weight but not identical. The English 'corresponding to him' follows this picture of an equal counterpart.
-- apparatus: 2:18.9 (אֶֽעֱשֶׂה): the WLC reads אֶֽעֱשֶׂהּ; the pack keeps the base form אֶֽעֱשֶׂה.
-- apparatus: 2:18.10 (לּוֹ): the pack's WLC note says the BHS form is kept where the form's validity is in question.
-- apparatus: 2:18.12 (כְּנֶגְדּוֹ): Rashi's second reading, 'against him, to fight', is recorded and not adopted.
+- `rashi:2:18:1` follows: Rashi: 'not good' so that people would not say there are two powers, the Holy One alone above with no partner, and this one alone below with no partner. The English keeps the plain 'not good for the human to be alone'.
+- `rashi:2:18:2` records: Rashi: if he is worthy, a help; if not, 'against him', to fight. The English keeps the neutral 'corresponding to him' and records the second reading.
+- `ibn-ezra:2:18:1` follows: Ibn Ezra: the meaning of 'not good' is said of the human; it is not good for him.
+- `ibn-ezra:2:18:2` follows: Ibn Ezra: 'help' has the sense of 'two are better than one' (Eccl 4:9); a helper in company.
+- `radak:2:18:5` records: Radak repeats the reading 'if worthy, a help; if not, against him' (Gen. Rabbah 17).
+- apparatus: WLC reads אֶעֱשֶׂהּ for MAM אֶעֱשֶׂה (2:18.9, vowels); the sense is unchanged.
 
 ## Genesis 2:19
 
@@ -226,68 +220,64 @@ Hebrew (MAM): וַיִּ֩צֶר֩ יְהֹוָ֨ה אֱלֹהִ֜ים מִן־�
 
 ### Translation under review (2:19)
 
-English: Now the LORD God formed from the ground every wild animal of the field and every bird of the sky, and brought them to the human to see what he would call it; and whatever the human called each living creature, that is its name.
+English: The LORD God formed from the ground every animal of the field and every bird of the sky, and brought them to the human to see what he would call it. Whatever the human called each living creature, that was its name.
 
-Literal: and-formed the-LORD God from the-ground all wild-animals-of the-field and-[obj] all birds-of the-sky, and-brought to the-human to-see what he-would-call to-it; and-all which he-would-call to-it the-human living-creature, that is-its-name
+Literal: and-formed the-LORD God from-the-ground every-of animal-of the-field and-OBJ every-of bird-of the-heavens and-brought to-the-human to-see what he-would-call to-him and-every which he-would-call to-him the-human living soul that his-name
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:19.1 | formed |  | Qal 2 | wayyiqtol; divine activity. Rashi: the same formation as above, not a new act |
+| 2:19.1 | and formed |  | Qal 2 | wayyiqtol; Radak reads it as a pluperfect ('had formed'), Rashi equates it with the 'making' of 1:25 |
 | 2:19.2 | the LORD |  |  |  |
 | 2:19.3 | God |  | 3 |  |
 | 2:19.4 | from |  |  |  |
-| 2:19.5 | the ground |  | 1 | Rashi: 'from the ground' is also said of the birds, which came from the rekek (Chullin 27b) |
-| 2:19.6 | all the |  | 1 |  |
-| 2:19.7 | wild animals of |  | 1.b | construct chain, 'beast of the field', as a collective |
+| 2:19.5 | the ground |  | 1 |  |
+| 2:19.6 | every |  | 1 | construct: 'every of' |
+| 2:19.7 | animal of |  | 1.b | construct |
 | 2:19.8 | the field |  | 1 |  |
-| 2:19.9 | and |  |  | וְ + the object marker אֵת, which introduces a second object: the birds |
-| 2:19.10 | all the |  | 1 |  |
-| 2:19.11 | birds of |  | 1 |  |
+| 2:19.9 | and |  |  | object marker, no counterpart in English |
+| 2:19.10 | every |  | 1 |  |
+| 2:19.11 | bird of |  | 1 | construct; collective, 'birds' |
 | 2:19.12 | the sky |  | 1.a |  |
-| 2:19.13 | brought |  | Hiph 2 | hifil: bring near |
+| 2:19.13 | and brought |  | Hiph 1 | wayyiqtol Hifil of בוא; 'them' is implicit |
 | 2:19.14 | to |  |  |  |
 | 2:19.15 | the human |  | 2 |  |
-| 2:19.16 | to see |  | Qal 1.a | infinitive construct of purpose |
-| 2:19.17 | what |  |  | interrogative |
-| 2:19.18 | he would call |  | Qal 6 | yiqtol after מַה: 'what he would call' |
-| 2:19.19 | it |  |  | לוֹ: the dative, 'to it': name it. The suffix is masculine singular for each creature. |
-| 2:19.20 | and all |  | 2.a | free relative with כֹּל: 'and whatever' |
-| 2:19.21 | that |  |  | relative particle |
-| 2:19.22 | would call |  | Qal 6 |  |
-| 2:19.23 | to it |  |  | dative, as at 2:19.19 |
+| 2:19.16 | to see |  | Qal 1.a | לִ + infinitive construct, purpose |
+| 2:19.17 | what |  | 1 |  |
+| 2:19.18 | he would call |  | Qal 6 | imperfect 3rd masc. sing.; the subject is the human |
+| 2:19.19 | to it |  |  |  |
+| 2:19.20 | and everything |  | 2.a |  |
+| 2:19.21 | that |  |  |  |
+| 2:19.22 | he called |  | Qal 6 | imperfect, general or repeated: 'whatever he called' |
+| 2:19.23 | it |  |  |  |
 | 2:19.24 | the human |  | 2 |  |
-| 2:19.25 | living creature |  | 1 | נֶפֶשׁ: 'a living being'. Rashi and Ibn Ezra take it as the object of the calling. |
-| 2:19.26 | living |  | 1.c | adjective in apposition |
-| 2:19.27 | that |  |  | הוּא, 'it is' |
+| 2:19.25 | a living |  | 1 |  |
+| 2:19.26 | being |  | 1.c | the pack lists 'alive, living' for חַיָּה's adjective sense; here the phrase נֶפֶשׁ חַיָּה is 'living being' |
+| 2:19.27 | that |  |  |  |
 | 2:19.28 | its name |  | 3 |  |
 
 Phrases:
-- 2:19.1 2:19.2 2:19.3 2:19.4 2:19.5 | the LORD God formed from the ground | 'and-formed the-LORD God from the-ground': the verb comes first; Rashi reads the formation as the one described above
-- 2:19.6 2:19.7 2:19.8 | every wild animal of the field | 'all wild-animals-of the-field': the construct chain 'beast of the field'
-- 2:19.9 2:19.10 2:19.11 2:19.12 | and every bird of the sky | 'and-[obj] all birds-of the-sky': the object marker introduces the second object
-- 2:19.13 2:19.14 2:19.15 | and brought them to the human | 'and-brought to the-human': no object is written; 'them' is supplied
-- 2:19.16 2:19.17 2:19.18 2:19.19 | to see what he would call it | 'to-see what he-would-call to-it': the purpose clause, with the modal yiqtol
-- 2:19.20 2:19.21 2:19.22 2:19.23 2:19.24 | whatever the human called | 'and-all which he-would-call to-it the-human': the free relative clause; the English places 'the human' before 'called'
-- 2:19.25 2:19.26 | each living creature | 'living-creature living': the object of the calling, in apposition
-- 2:19.27 2:19.28 | that is its name | 'that is-its-name': the name is the predicate
+- 2:19.1 2:19.2 2:19.3 | The LORD God formed | 'and-formed the-LORD God'
+- 2:19.4 2:19.5 | from the ground | 'from the-ground'
+- 2:19.6 2:19.7 2:19.8 | every animal of the field | 'every-of animal-of the-field'
+- 2:19.9 2:19.10 2:19.11 2:19.12 | and every bird of the sky | 'and-OBJ every-of bird-of the-heavens'; the object marker אֵת links the second object
+- 2:19.13 2:19.14 2:19.15 | and brought them to the human | 'and-brought to the-human'
+- 2:19.16 2:19.17 2:19.18 2:19.19 | to see what he would call it | 'to-see what he-would-call to-him'
+- 2:19.20 2:19.21 2:19.22 2:19.23 2:19.24 2:19.25 2:19.26 | Whatever the human called each living creature | 'and-every which he-would-call to-him the-human living soul': read, with Rashi and Ibn Ezra, as 'every living being that the human would call'
+- 2:19.27 2:19.28 | that was its name | 'that his-name'
 
 Grammar notes:
-- The wayyiqtol chain 'formed ... and brought' is narrative. Radak reads the first verb as a pluperfect; the English uses the simple past.
-- לִרְאוֹת מַה־יִּקְרָא־לוֹ: the infinitive of purpose, then an interrogative with a yiqtol: 'to see what he would call it'.
-- וְכֹל אֲשֶׁר יִקְרָא־לוֹ: a free relative. The noun נֶפֶשׁ חַיָּה stands in apposition, and 'that is its name' has הוּא as the subject pronoun.
-- The etnaḥta on לוֹ (2:19.19) divides the verse into the bringing and the naming.
-- The lamed of לוֹ in the relative clause can take נֶפֶשׁ חַיָּה with it. Rashi and Ibn Ezra both take it as the object of the calling, so the English reads 'called each living creature'.
+- וַיִּצֶר is a wayyiqtol of יצר (the yod of the root is dropped in writing, as Radak notes); the sequence continues the narrative but does not fix a new moment (compare 'had formed').
+- לִרְאוֹת מַה־יִּקְרָא־לוֹ: purpose, with an indirect question, 'to see what he would call it'.
+- וְכֹל אֲשֶׁר יִקְרָא־לוֹ הָאָדָם נֶפֶשׁ חַיָּה הוּא שְׁמוֹ is a hard construction: 'and all which the human would call to it, a living being, that is its name'. Rashi and Ibn Ezra both read נֶפֶשׁ חַיָּה as the thing named.
+- Wordplay: אֲדָמָה (ground), אָדָם (human).
 
-Translator's note: 'Formed' (2:19.1): Rashi reads it as the same act already described, so the English uses the simple past. Radak's pluperfect is recorded in the commentary.
+Translator's note: For the last clause the English follows the agreed reading of Rashi and Ibn Ezra: 'each living creature the human called, that was its name'. Ramban gives a different reading (the human calls each kind 'a living being' like himself, and so finds none a help); it is kept in the commentary.
 
 Commentary rulings:
-- `rashi:2:19:1` follows: Rashi: the formation is the one mentioned above, not a new act. 'From the ground' also covers the birds, which Rashi takes from the rekek and not from the waters of 1:20. The animals were brought to Adam on the day they were formed. The English follows: 'formed from the ground' covers the birds too.
-- `rashi:2:19:2` follows: Rashi: the phrase is 'parsed apart': every living creature that the man called, that is its name forever. The English follows this: 'whatever the human called each living creature, that is its name'.
-- `ibn-ezra:2:19:1` follows: Ibn Ezra: the lamed of 'asher yiqra lo' carries the next word with it, so the sense is 'whatever the man calls [to] a living creature'. The second lamed is an explanatory addition. The English 'called each living creature' follows.
-- `radak:2:19:1` records: Radak (not normative): 'vayyetzer' is a pluperfect, 'had already formed' (וּכְבָר יָצַר): the animals were formed before the human, and here they are brought to him. Recorded; the English keeps the simple past.
-- `sforno:2:19:3` follows: Sforno (not normative): 'to see what he would call it' means that the human looks and considers which name suits each creature by the particular form it was given. The English 'to see what he would call it' follows.
-- apparatus: Radak's pluperfect 'had already formed' (וּכְבָר יָצַר) is recorded and not adopted.
-- apparatus: The suffix ־לוֹ (2:19.19, 2:19.23) is masculine singular; the English 'it' refers to each creature in turn.
+- `rashi:2:19:1` follows: Rashi: 'formed' is the same act as the 'making' of the beasts above; Scripture adds that birds were made from the ground (the swamp), and that they were brought to the human the same day to be named. In aggadah, 'form' means 'subdue'.
+- `rashi:2:19:2` follows: Rashi: rearrange it and explain: every living being that the human would call by a name, that is its name for ever.
+- `ibn-ezra:2:19:1` follows: Ibn Ezra: the lamed of לוֹ draws itself and another with it: 'whatever the human called it as a living being'; it adds clarity, like 'she opened it and saw him' (Ex 2:6).
+- `ramban:2:19:1` records: Ramban offers a reading connecting the clause with the search for a helper: whichever kind the human calls 'living being' like himself would be the helper; he found none.
 
 ## Genesis 2:20
 
@@ -323,49 +313,50 @@ Hebrew (MAM): וַיִּקְרָ֨א הָֽאָדָ֜ם שֵׁמ֗וֹת לְכ�
 
 ### Translation under review (2:20)
 
-English: The human gave names to all the livestock and to the birds of the sky and to every wild animal of the field; but for himself the human found no helper corresponding to him.
+English: The human gave names to all the livestock, to the birds of the sky, and to every animal of the field; but for the human he did not find a helper corresponding to him.
 
-Literal: and-named the-human names to-all the-livestock and-to birds-of the-sky and-to-all wild-animals-of the-field; and-to man (= himself) not found a-helper like-in-front-of-him
+Literal: and-called the-human names to-every-of the-livestock and-to-bird-of the-heavens and-to-every-of animal-of the-field and-for-human not he-found help like-opposite-him
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:20.1 | named |  | Qal 6 | wayyiqtol: 'call' with the object 'names' means 'give names' |
+| 2:20.1 | and called |  | Qal 6 | wayyiqtol; with 'names' it means 'gave names to' |
 | 2:20.2 | the human |  | 2 |  |
-| 2:20.3 | names |  | 3 |  |
-| 2:20.4 | to all the |  | 1 |  |
-| 2:20.5 | livestock |  |  | The entry lists only sense 3, 'wild beasts', which does not fit the domestic animals in view (Ramban: ox, cow, goat, sheep). No sense is given for this token. |
-| 2:20.6 | and to the birds of |  | 1 |  |
+| 2:20.3 | names |  | 3 | plural of שֵׁם |
+| 2:20.4 | to all |  | 1 | construct |
+| 2:20.5 | the livestock |  | 3 | the pack's only sense for בְּהֵמָה is 'wild beasts'; the context (and Radak and Rashi) take the word as the tame animals, set beside the 'animal of the field'. The data are kept. |
+| 2:20.6 | and to the birds of |  | 1 | construct, collective |
 | 2:20.7 | the sky |  | 1.a |  |
-| 2:20.8 | and to all the |  | 1 |  |
-| 2:20.9 | wild animals of |  | 1.b |  |
+| 2:20.8 | and to every |  | 1 |  |
+| 2:20.9 | animal of |  | 1.b |  |
 | 2:20.10 | the field |  | 1 |  |
-| 2:20.11 | but for himself |  | 1 | לְאָדָם with no article is not the name Adam here. Rashi, Ibn Ezra and Radak all read 'for himself' (לנפשו, לעצמו). |
+| 2:20.11 | and for the human |  | 2 | אָדָם without the article: 'for a man', or 'for Adam' as a name; Ibn Ezra takes it as 'for himself' |
 | 2:20.12 | not |  |  |  |
-| 2:20.13 | found |  | Qal 1 |  |
+| 2:20.13 | he found |  | Qal 1 | perfect of מצא, subject the human |
 | 2:20.14 | a helper |  | 2 |  |
-| 2:20.15 | corresponding to him |  |  | as at 2:18.12 |
+| 2:20.15 | corresponding to him |  |  |  |
 
 Phrases:
-- 2:20.1 2:20.2 2:20.3 | the human gave names | 'and-named the-human names': 'call' with 'names' as object means 'give names'
-- 2:20.4 2:20.5 | to all the livestock | 'to-all the-livestock'
-- 2:20.6 2:20.7 | and to the birds of the sky | 'and-to birds-of the-sky'
-- 2:20.8 2:20.9 2:20.10 | and to every wild animal of the field | 'and-to-all wild-animals-of the-field'
-- 2:20.11 2:20.12 2:20.13 2:20.14 2:20.15 | but for himself the human found no helper corresponding to him | 'and-to man (= himself) not found a-helper like-in-front-of-him'
+- 2:20.1 2:20.2 2:20.3 | The human gave names | 'and-called the-human names'
+- 2:20.4 2:20.5 | to all the livestock | 'to-every-of the-livestock'
+- 2:20.6 2:20.7 | to the birds of the sky | 'and-to-bird-of the-heavens'
+- 2:20.8 2:20.9 2:20.10 | and to every animal of the field | 'and-to-every-of animal-of the-field'
+- 2:20.11 2:20.12 2:20.13 | but for the human he did not find | 'and-for-human not he-found'; the final ו is adversative
+- 2:20.14 2:20.15 | a helper corresponding to him | 'help like-opposite-him'
 
 Grammar notes:
-- וַיִּקְרָא ... שֵׁמוֹת: the verb קָרָא with the object 'names' means 'give names'.
-- Three phrases with ל ('to all the livestock', 'to the birds', 'to every wild animal') name the three classes. Ibn Ezra reads the first lamed as carrying through the list, and the English repeats 'to' for each.
-- וּלְאָדָם לֹא מָצָא: 'to himself he found no ...'. The reading 'for himself' follows Rashi and Ibn Ezra.
-- The zaqef gadol on וּלְאָדָם (2:20.11) divides the verse into the naming and the lack.
-- כְּנֶגְדּוֹ repeats 2:18.12. The English repeats 'corresponding to him' so that the search for a helper echoes the LORD's resolve.
+- The 'to' of לְכָל־הַבְּהֵמָה governs the next noun too: Ibn Ezra reads 'to all the livestock and to the birds', with the lamed 'drawing' the next noun along.
+- Anarthrous וּלְאָדָם: Ibn Ezra reads 'and for himself', as the Hebrew idiom puts the name of a person for the person. Rashi has the human speak of himself.
+- The subject of לֹא־מָצָא is the human, not the LORD God (Ibn Ezra calls the reading with the LORD as subject 'far').
+- The zaqef gadol on וּלְאָדָם marks the turn from the naming to the lack.
 
-Translator's note: The sense of 'livestock' (2:20.5): the entry lists only 'wild beasts' (3), which does not fit the domestic animals meant. No sense is given for the token; the gloss is the English reading.
+Translator's note: 'For the human' follows the decision on הָאָדָם and records that אָדָם is without the article here; Ibn Ezra's 'for himself' and a proper-name reading are kept in the apparatus.
 
 Commentary rulings:
-- `rashi:2:20:1` follows: Rashi: when the animals were brought in male and female, Adam said: 'Every one has a mate, and I have none'; at once the LORD God caused the deep sleep to fall on him. The English 'for himself' follows Rashi's 'for me'.
-- `ibn-ezra:2:20:1` follows: Ibn Ezra: 'lekhol ha-behemah' also carries the next item with it: 'to all the livestock' extends to 'and to the birds of the sky'. The English repeats 'to' for each item.
-- `ibn-ezra:2:20:2` follows: Ibn Ezra: 'ulʾadam lo matsa' means 'and for himself he did not find' (ולנפשו לא מצא), the same usage as in 1 Sam 12:11. The English 'for himself' follows.
-- apparatus: לְאָדָם (2:20.11): here the bare form is not the name Adam. Rashi, Ibn Ezra and Radak all read 'for himself'; the decision's name rule (4:25, 5:1–5) does not apply.
+- `rashi:2:20:1` follows: Rashi: when each kind was brought, male and female, he said: all have a mate and I have none; at once, 'And the LORD God cast a deep sleep'.
+- `ibn-ezra:2:20:1` follows: Ibn Ezra: לכל הבהמה also draws itself and another with it; it means 'and to the birds of the sky', as in Deut 33:6 and Prov 30:3.
+- `ibn-ezra:2:20:2` follows: Ibn Ezra: 'and for the human he found none' means 'for himself he found none', as Hebrew idiom has it (1 Sam 12:11); he rejects the reading in which the LORD is the subject. Here he adds that the birds were formed from the ground, and above from the waters, since from both.
+- `ramban:2:20:1` records: Ramban discusses the placing of the naming in the account of the helper.
+- apparatus: Anarthrous אָדָם (2:20.11): Ibn Ezra 'for himself'; as a name 'for Adam' is possible (decision: 'the human' where doubtful; not 'Adam' before 4:25).
 
 ## Genesis 2:21
 
@@ -408,52 +399,50 @@ Hebrew (MAM): וַיַּפֵּל֩ יְהֹוָ֨ה אֱלֹהִ֧ים ׀ תַּ
 
 ### Translation under review (2:21)
 
-English: The LORD God caused a deep sleep to fall upon the human, and he slept; then the LORD God took one of his sides and closed up the flesh in its place.
+English: Then the LORD God cast a deep sleep upon the human, and he slept; and he took one of his sides and closed up flesh in its place.
 
-Literal: caused-to-fall the-LORD God a-deep-sleep upon the-human, and-slept; and-took one from-his-sides and-closed flesh in-its-place
+Literal: and-caused-to-fall the-LORD God deep-sleep upon the-human and-he-slept and-took one from-his-sides and-closed flesh under-it
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:21.1 | caused to fall |  | Hiph 1 | hifil of נָפַל. Ibn Ezra: the heavier, added binyan |
+| 2:21.1 | and cast |  | Hiph 1 | wayyiqtol Hifil of נפל: 'made fall'; Ibn Ezra: the heavy (hif'il) stem |
 | 2:21.2 | the LORD |  |  |  |
 | 2:21.3 | God |  | 3 |  |
-| 2:21.4 | a deep sleep |  |  | Ibn Ezra and Radak: tardemah is deeper than sleep (shenah). The entry lists no senses, so none is given. |
+| 2:21.4 | a deep sleep |  |  | deeper than sleep (Ibn Ezra); the ת is prefixed |
 | 2:21.5 | upon |  |  |  |
 | 2:21.6 | the human |  | 2 |  |
-| 2:21.7 | slept |  | Qal | wayyiqtol; the subject is the human |
-| 2:21.8 | took |  | Qal 1 | the subject shifts to the LORD God, who takes and closes |
-| 2:21.9 | one |  | 1 |  |
-| 2:21.10 | of his sides |  |  | צֵלָע: 'side' (Rashi, Ibn Ezra); 'rib' in Onkelos and the literal reading (apparatus). The entry lists no senses. |
-| 2:21.11 | closed |  | Qal 2.a | closed up, of the wound |
+| 2:21.7 | and he slept |  | Qal | wayyiqtol; the stem has one sense: 'sleep' |
+| 2:21.8 | and he took |  | Qal 1 | wayyiqtol |
+| 2:21.9 | one |  | 1 | feminine, to agree with צלע |
+| 2:21.10 | from his sides |  |  | plural with suffix; the word means 'side' as in 'the side of the tabernacle', and may mean 'rib' |
+| 2:21.11 | and closed up |  | Qal 2.b | wayyiqtol |
 | 2:21.12 | flesh |  | 2 |  |
-| 2:21.13 | in its place |  |  | תַּחְתֶּנָּה: 'its place' (Ibn Ezra); the -nah ending is the feminine suffix for 'side' |
+| 2:21.13 | in its place |  |  | תחת + feminine suffix -נָּה: 'in its place' |
 
 Phrases:
-- 2:21.1 2:21.2 2:21.3 2:21.4 | the LORD God caused a deep sleep to fall | 'caused-to-fall the-LORD God a-deep-sleep': the hifil with the verb first
-- 2:21.5 2:21.6 | upon the human | 'upon the-human'
-- 2:21.7 | he slept | 'and-slept'
-- 2:21.8 2:21.9 2:21.10 | took one of his sides | 'and-took one from-his-sides': the subject is the LORD God
-- 2:21.11 2:21.12 2:21.13 | closed up the flesh in its place | 'and-closed flesh in-its-place'
+- 2:21.1 2:21.2 2:21.3 2:21.4 2:21.5 2:21.6 | Then the LORD God cast a deep sleep upon the human | 'and-caused-to-fall the-LORD God deep-sleep upon the-human'
+- 2:21.7 | and he slept | 'and-he-slept'
+- 2:21.8 2:21.9 2:21.10 | and he took one of his sides | 'and-took one from-his-sides'
+- 2:21.11 2:21.12 2:21.13 | and closed up flesh in its place | 'and-closed flesh under-it'
 
 Grammar notes:
-- וַיַּפֵּל: the hifil 'caused to fall', with 'deep sleep' as the object. Ibn Ezra explains the stem as the heavier, added binyan.
-- The wayyiqtol chain changes subject. 'And he slept' is the human; 'and took' and 'and closed' have the LORD God as subject. The English marks the change with 'then the LORD God'.
-- אַחַת מִצַּלְעֹתָיו: 'one of his sides', with the numeral used partitively and a feminine noun for 'side'.
-- The etnaḥta on וַיִּישָׁן (2:21.7) divides the verse: the sleep first, then the taking and closing.
-- תַּחְתֶּנָּה: the feminine suffix -nah on the noun 'under' gives 'in its place'.
+- הִפִּיל תַּרְדֵּמָה is a Hifil of נפל with an object: 'made a deep sleep fall' on the human; Ibn Ezra notes the 'heavy' stem.
+- וַיִּישַׁן, וַיִּקַּח, וַיִּסְגֹּר: a run of wayyiqtols narrates the operation.
+- אַחַת מִצַּלְעֹתָיו: the numeral is feminine to agree with צֵלָע; the partitive מִ gives 'one of his sides'.
+- תַּחְתֶּנָּה has a nun added to the feminine suffix (Radak, Ibn Ezra), as תַּחְתֶּיהָ.
 
-Translator's note: 'One of his sides' follows Rashi and Ibn Ezra. 'Rib' is the lexicon's first gloss and Onkelos's reading, so the apparatus keeps it.
+Translator's note: Rashi and Ibn Ezra agree that צֵלָע is 'side' here (Rashi: 'his sides', as in 'the side of the tabernacle'; Ibn Ezra: 'side'). The English follows: 'one of his sides'. 'Rib' (Targum Onkelos עלעא, Radak's second view) is kept in the apparatus.
 
 Commentary rulings:
-- `rashi:2:21:1` follows: Rashi: 'from his sides' means from his two sides (מִסְּטָרָיו), as the side of the Tabernacle (Exod 26). This is the reading of 'two faces' (Eruvin 18a). The English 'one of his sides' follows.
-- `rashi:2:21:2` follows: Rashi: 'vayisgor' is the place of the cut (מְקוֹם הַחֲתָךְ). The English 'closed up the flesh in its place' follows.
-- `rashi:2:21:3` follows: Rashi: the sleep is so that the man does not see the piece of flesh from which the woman is made and be shamed. The English keeps the order: he slept; then the LORD God took.
-- `ibn-ezra:2:21:1` follows: Ibn Ezra: 'vayappel' is from the heavier added binyan, the hifil: 'caused to fall'. The English follows.
-- `ibn-ezra:2:21:2` follows: Ibn Ezra: tardemah is more than sleep, and sleep is more than tenumah (slumber); the tav is added. The English 'a deep sleep' follows.
-- `ibn-ezra:2:21:3` follows: Ibn Ezra: 'achat mi-tsalotav' means one of two sides, as in 'the second side of the Tabernacle' (Exod 26:20); tsela is feminine and means 'side'. The English 'one of his sides' follows.
-- `ibn-ezra:2:21:4` follows: Ibn Ezra: tachtenah means 'its place' (מְקוֹמָהּ), singular; the nun is added. The English 'in its place' follows.
-- `radak:2:21:4` records: Radak (not normative) gives two readings: the side as two faces joined back to back, or tsela in its literal sense, 'rib', as Onkelos has it (עַלְעָא). Recorded; the English says 'sides', not 'ribs'.
-- apparatus: צֵלָע (2:21.10, 2:22.5): 'rib' in Onkelos (עַלְעָא) and in the literal sense; 'side' per Rashi and Ibn Ezra, which the English follows.
+- `rashi:2:21:1` follows: Rashi: מִצַּלְעֹתָיו means 'from his sides', as 'the side of the tabernacle' (Ex 26); this is the saying 'two faces were created'.
+- `rashi:2:21:2` follows: Rashi: וַיִּסְגֹּר is 'the place of the cut'.
+- `rashi:2:21:3` not-applicable: Rashi: he slept and then took, so that he would not see the piece of flesh from which she was made and be repelled; it bears on motive, not on the words.
+- `ibn-ezra:2:21:1` follows: Ibn Ezra: וַיַּפֵּל is from the heavy (Hifil) stem.
+- `ibn-ezra:2:21:2` follows: Ibn Ezra: תַּרְדֵּמָה is more than sleep, and sleep more than slumber; the ת is added.
+- `ibn-ezra:2:21:3` follows: Ibn Ezra: there were two 'sides', as 'the second side of the tabernacle' (Ex 26:20); the word is feminine; the sense is 'side'.
+- `ibn-ezra:2:21:4` follows: Ibn Ezra: תַּחְתֶּנָּה is 'its place', a singular with a nun added.
+- `radak:2:21:4` records: Radak: some say two faces joined back to back, with 'rib' as 'side'; some say literally 'rib' (as Onkelos עַלְעָא).
+- apparatus: 'Rib' (Onkelos, Radak's second view) is the common rendering of צֵלָע; the English follows Rashi and Ibn Ezra's 'side'.
 
 ## Genesis 2:22
 
@@ -489,48 +478,46 @@ Hebrew (MAM): וַיִּ֩בֶן֩ יְהֹוָ֨ה אֱלֹהִ֧ים ׀ אֶֽ
 
 ### Translation under review (2:22)
 
-English: The LORD God built the side which he had taken from the human into a woman, and brought her to the human.
+English: The LORD God built the side that he had taken from the human into a woman, and brought her to the human.
 
-Literal: and-built the-LORD God [obj] the-side which-had-taken from-the-human into-woman, and-brought-her to the-human
+Literal: and-built the-LORD God OBJ-the-side which he-took from-the-human to-woman and-brought-her to-the-human
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:22.1 | built |  | Qal | Rashi: built like a structure, wide below and narrow above, to hold the child like a granary of wheat. Ibn Ezra: the form may be from the heavy or the light binyan. |
+| 2:22.1 | and built |  | Qal | wayyiqtol of בנה |
 | 2:22.2 | the LORD |  |  |  |
 | 2:22.3 | God |  | 3 |  |
-| 2:22.4 | (object marker) |  |  | the object marker אֵת, with no English counterpart |
-| 2:22.5 | the side |  |  | the same word as 2:21.10. 'Side' per Rashi and Ibn Ezra. |
-| 2:22.6 | which |  |  | relative particle |
-| 2:22.7 | had taken |  | Qal 1 | qatal in a relative clause: the taking precedes the building. The subject is the LORD God. |
+| 2:22.4 | (object marker) |  |  | object marker; no English counterpart |
+| 2:22.5 | the side |  |  | the same word as 2:21's 'sides', in the singular |
+| 2:22.6 | that |  |  |  |
+| 2:22.7 | he had taken |  | Qal 1 | perfect, rendered as a past perfect because it refers to 2:21 |
 | 2:22.8 | from |  |  |  |
 | 2:22.9 | the human |  | 2 |  |
-| 2:22.10 | into a woman |  | 1 | לְ + אִשָּׁה: 'to be a woman'. Rashi: 'to be', as 'and Gideon made it an ephod' (Judg 8:27). |
-| 2:22.11 | brought her |  | Hiph 2 | hifil with the feminine suffix -ah, 'her' |
+| 2:22.10 | into a woman |  | 1 | לְ + noun: 'to become a woman' (Rashi), 'for woman' |
+| 2:22.11 | and brought her |  | Hiph 1 | wayyiqtol Hifil with 3rd fem. sing. suffix; the form וַיְבִאֶהָ is without the long vowel |
 | 2:22.12 | to |  |  |  |
 | 2:22.13 | the human |  | 2 |  |
 
 Phrases:
-- 2:22.1 2:22.2 2:22.3 | The LORD God built | 'and-built the-LORD God': the verb comes first
-- 2:22.4 2:22.5 2:22.6 2:22.7 2:22.8 2:22.9 | the side which he had taken from the human | '[obj] the-side which-had-taken from-the-human': the relative clause; 'he' is the LORD God
-- 2:22.10 | into a woman | 'into-woman': 'to be a woman' (Rashi)
-- 2:22.11 2:22.12 2:22.13 | and brought her to the human | 'and-brought-her to the-human'
+- 2:22.1 2:22.2 2:22.3 | The LORD God built | 'and-built the-LORD God'
+- 2:22.4 2:22.5 | the side | 'OBJ the-side'
+- 2:22.6 2:22.7 2:22.8 2:22.9 | that he had taken from the human | 'which he-took from-the-human'
+- 2:22.10 | into a woman | 'to-woman'; Rashi: 'to be a woman', as 'Gideon made it into an ephod' (Judg 8:27)
+- 2:22.11 2:22.12 2:22.13 | and brought her to the human | 'and-brought-her to-the-human'
 
 Grammar notes:
-- וַיִּבֶן ... אֶת־הַצֵּלָע: the verb 'build' with the definite object, marked by אֵת.
-- אֲשֶׁר־לָקַח: a relative clause with a qatal, so the taking comes before the building: 'which he had taken'.
-- לְאִשָּׁה: 'into a woman'. Rashi reads it as 'to be a woman', the result of the building.
-- וַיְבִאֶהָ: the hifil with the feminine suffix -ah takes the woman as object.
-- The etnaḥta on לְאִשָּׁה (2:22.10) divides the verse into the building and the bringing. The word אִשָּׁה here prepares the wordplay of 2:23.
+- וַיִּבֶן is a wayyiqtol of בנה in the Qal ('built'); Ibn Ezra notes both a Hifil and a Qal sense for such forms; the verb takes the side as object.
+- לְאִשָּׁה: the preposition ל marks the result of the building, 'into a woman' (Rashi), not a purpose clause.
+- אֲשֶׁר־לָקַח is a perfect in a relative clause, a pluperfect in sense ('had taken').
+- The telisha qetana (twice) on וַיִּבֶן, then qadma and darga, link the subject and divide off the long object.
 
-Translator's note: The woman is built from the side and is not called by a name in this unit.
+Translator's note: Rashi's 'built' as 'in the form of a building, wide below and narrow above' bears on the picture of the verb and is kept in the commentary entry; the English uses 'built' as the plain word.
 
 Commentary rulings:
-- `rashi:2:22:1` follows: Rashi: 'vayiven' is like a building (kevinyan), wide below and narrow above, to hold the child like a granary of wheat so its weight does not press on the walls. The English keeps the verb 'built' and does not render the shape.
-- `rashi:2:22:2` follows: Rashi: 'built the side into a woman' means to be a woman, as 'and Gideon made it an ephod' (Judg 8:27) means to be an ephod. The English 'into a woman' follows.
-- `ibn-ezra:2:22:1` follows: Ibn Ezra: 'vayiven' may be from the heavy binyan or from the light, as in 'vayiqen' (Gen 33:19). The English reads the plain 'built'.
-- `ibn-ezra:2:22:2` records: Ibn Ezra gives two readings of 'vayvi'ehah'. Either the verb describes Adam's thought on waking, that she was brought to him as the beasts were; or she was built outside the garden and then brought in, and when he looked he knew she had been taken from him. The English gives the bringing as plain narration; the first reading is recorded in the apparatus.
-- apparatus: 2:22.5 (הַצֵּלָע): 'rib' in Onkelos and in the literal sense; see 2:21.
-- apparatus: 2:22.11 (וַיְבִאֶהָ): Ibn Ezra's first reading, that the bringing is what Adam thought on waking, is recorded and not adopted.
+- `rashi:2:22:1` follows: Rashi: 'built' as a building, wide below and narrow above, to receive the child, as a granary for wheat is wide below and narrow above.
+- `rashi:2:22:2` follows: Rashi: לְאִשָּׁה means 'to be a woman', as 'Gideon made it into an ephod'.
+- `ibn-ezra:2:22:1` follows: Ibn Ezra: וַיִּבֶן is of the Hifil, and also of the Qal, as וַיִּפֶן, וַיִּקֶן.
+- `ibn-ezra:2:22:2` records: Ibn Ezra: either he thought, on waking and seeing her, that she was brought as the animals were, and Scripture speaks of his thought; or she was built outside the garden and then brought; when he looked he knew she had been cut from him.
 
 ## Genesis 2:23
 
@@ -583,55 +570,53 @@ Variants:
 
 ### Translation under review (2:23)
 
-English: The human said: 'This time it is bone of my bones and flesh of my flesh; for this reason she shall be called woman, because she was taken from man.'
+English: Then the human said, "This one, this time, is bone of my bones and flesh of my flesh. This one shall be called woman, for from man this one was taken."
 
-Literal: and-said the-human: this time bone-of my-bones and-flesh-of my-flesh; for-this-reason she-shall-be-called woman, because from-man she-was-taken this-one
+Literal: and-said the-human this the-time bone from-my-bones and-flesh from-my-flesh to-this-one it-will-be-called woman for from-man was-taken this-one
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:23.1 | said |  | Qal 1 | wayyiqtol: the verb comes first |
+| 2:23.1 | and said |  | Qal 1 | wayyiqtol |
 | 2:23.2 | the human |  | 2 |  |
-| 2:23.3 | this |  |  | demonstrative with 'time' |
-| 2:23.4 | time |  |  | הַפַּעַם: 'this time'. Rashi: this time, unlike the beasts with whom Adam was not satisfied (Yevamot 63a). |
-| 2:23.5 | bone |  |  | the entry lists no senses |
-| 2:23.6 | of my bones |  |  | construct with the suffix; 'bone of my bones' |
+| 2:23.3 | this one |  |  | feminine demonstrative |
+| 2:23.4 | the time |  |  | 'the time, the occasion': 'this time'; Radak: the earlier presentation of animals found none |
+| 2:23.5 | bone |  |  | construct sense, 'bone (of)' |
+| 2:23.6 | from my bones |  |  | min with the plural: 'of my bones'; the ‘bone of my bones’ idiom |
 | 2:23.7 | and flesh |  | 2 |  |
-| 2:23.8 | of my flesh |  | 2 |  |
-| 2:23.9 | for this reason |  |  | לְזֹאת: Ibn Ezra, 'because of this' (בעבור זאת) |
-| 2:23.10 | shall be called |  | Niph 2 | niphal yiqtol. Ibn Ezra: yiqare means 'be called by the name of'. |
-| 2:23.11 | woman |  | 1 | אִשָּׁה is derived from אִישׁ (man): the yod of ish is absorbed by the dagesh of the shin (Radak). The English 'woman' from 'man' keeps the pair; the sound play is lost. |
-| 2:23.12 | because |  |  | conjunction |
-| 2:23.13 | from man |  |  | מֵאִישׁ: 'from the man (male)'. The entry lists no senses. |
-| 2:23.14 | was taken |  | Pu 1 | pual perfect: passive |
-| 2:23.15 | she |  |  | זֹאת used as a pronoun: 'this one', 'she' |
+| 2:23.8 | from my flesh |  | 2 |  |
+| 2:23.9 | to this one |  |  | לְ: 'for this one' (Ibn Ezra: בעבור זאת); compare 'about me' in Gen 20:13 |
+| 2:23.10 | it will be called |  | Niph 2 | Nifal imperfect, impersonal 'it is called'; Ibn Ezra: 'on a name' |
+| 2:23.11 | woman |  | 1 | אִשָּׁה with dagesh in the shin, in place of the yod of אִישׁ; Rashi: a wordplay |
+| 2:23.12 | for |  |  |  |
+| 2:23.13 | from man |  |  | 'from a man', 'from the man' |
+| 2:23.14 | was taken |  | Pu 1 | perfect passive |
+| 2:23.15 | this one |  |  | feminine; the subject, placed last for emphasis |
 
 Phrases:
-- 2:23.1 2:23.2 | the human said | 'and-said the-human': the verb comes first
-- 2:23.3 2:23.4 | this time | 'this time': Rashi reads 'this time' as a contrast with the beasts
-- 2:23.5 2:23.6 | bone of my bones | 'bone of-my-bones'
-- 2:23.7 2:23.8 | and flesh of my flesh | 'and-flesh of-my-flesh'
-- 2:23.9 2:23.10 2:23.11 | for this reason she shall be called woman | 'for-this she-shall-be-called woman'
-- 2:23.12 2:23.13 2:23.14 2:23.15 | because she was taken from man | 'because from-man she-was-taken this-one': the English puts 'she' before 'was taken'
+- 2:23.1 2:23.2 | Then the human said | 'and-said the-human'
+- 2:23.3 2:23.4 | This one, this time | 'this the-time'
+- 2:23.5 2:23.6 | is bone of my bones | 'bone from-my-bones'
+- 2:23.7 2:23.8 | and flesh of my flesh | 'and-flesh from-my-flesh'
+- 2:23.9 2:23.10 2:23.11 | This one shall be called woman | 'to-this-one it-will-be-called woman'
+- 2:23.12 2:23.13 | for from man | 'for from-man'
+- 2:23.14 2:23.15 | this one was taken | 'was-taken this-one'
 
 Grammar notes:
-- זֹאת הַפַּעַם: 'this time', a demonstrative with a noun; it is a time marker and carries a contrast in Rashi.
-- עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי: the phrase 'bone of my bones' and 'flesh of my flesh' with the preposition מִן. The English adds 'it is' as a copula.
-- לְזֹאת יִקָּרֵא אִשָּׁה: the niphal 'shall be called', with לְ 'for this'. The pun ish/ishah is lost in English, but 'woman' and 'man' keep the derivation.
-- כִּי מֵאִישׁ לֻקְחָה־זֹּאת: the explanatory כִּי, 'because', and the pual 'was taken'. The closing demonstrative זֹאת is 'she'.
-- The verse is one speech by the human. The English keeps the speech in quotation marks, as the narrator's report of Adam's words.
+- זֹאת הַפַּעַם: 'this one, the time', hence 'this time'; the revia and zaqef divide the line into two cola.
+- עֶצֶם מֵעֲצָמַי וּבָשָׂר מִבְּשָׂרִי: two parallel lines, with a verbless clause: the first colon names bone, the second flesh.
+- אִשָּׁה and אִישׁ: a wordplay. Rashi: the Holy Tongue is the language of creation; Ibn Ezra explains the dagesh in שׁ as in place of the yod of אִישׁ.
+- יִקָּרֵא is a Nifal imperfect; לֻקְּחָה is a Pual perfect (WLC vowels לֻקֳחָה, MAM לֻקְחָה).
 
-Translator's note: 'Woman' and 'man' stand for אִשָּׁה and אִישׁ. The English keeps the pair, which is the point of the derivation; the Hebrew sound play is not reproduced.
+Translator's note: 'This time' is the plain sense; Rashi's homily (the human had come on every beast and was not satisfied) is not adopted. Radak: this time (not the first, when the animals were brought).
 
 Commentary rulings:
-- `rashi:2:23:1` follows: Rashi: 'this time' teaches that Adam had relations with every beast and animal and was not satisfied with them (Yevamot 63a). The English 'This time' keeps the contrast open.
-- `rashi:2:23:2` follows: Rashi: 'language falls upon language': the world was created in the holy tongue, and the name 'woman' comes from 'man'. The English keeps the derivation in 'woman' and 'taken from man'.
-- `ibn-ezra:2:23:1` follows: Ibn Ezra: 'then he said: this time I have found a helper corresponding to me, for she came from me'. He marks the Lilith tale as a derash, not the plain sense. The English follows the plain sense.
-- `ibn-ezra:2:23:2` follows: Ibn Ezra: לְזֹאת means 'because of this', as in 'say you, she is my sister' (Gen 20:13). The English 'for this reason' follows.
-- `ibn-ezra:2:23:3` not-applicable: Ibn Ezra on the morphology: the dagesh in the shin of ishah stands for the elided yod of ish. The dagesh keeps ishah from being confused with ishah, 'her husband'. It does not bear on the English.
-- `ibn-ezra:2:23:4` follows: Ibn Ezra: yiqare means 'is called upon the name of', so the naming is by a name. The English 'shall be called woman' follows.
-- apparatus: 2:23.14 (לֻקְחָה): the WLC reads לֻֽקֳחָה; the base text is לֻֽקְחָה.
-- apparatus: 2:23.4 (הַפַּעַם): 'this time' as Rashi's contrast with the beasts, and as plain 'at last', are both possible; the English keeps 'This time'.
-- apparatus: 2:23.11, 2:23.13 (אִשָּׁה, אִישׁ): the English 'woman' and 'man' keep the pair, not the Hebrew sound play.
+- `rashi:2:23:1` not-applicable: Rashi (Yevamot 63a): this teaches that the human came upon every beast and animal and was not satisfied; a homily, not the plain sense.
+- `rashi:2:23:2` not-applicable: Rashi: a play on words (אִישׁ, אִשָּׁה): from here the world was created in the Holy Tongue.
+- `ibn-ezra:2:23:1` follows: Ibn Ezra: then he said: this time I have found a help corresponding to me, like me, since from me she was; and the Lilith story is homily.
+- `ibn-ezra:2:23:2` follows: Ibn Ezra: וְלָזֹאת means 'because of this one', as 'say of me, He is my brother' (Gen 20:13).
+- `ibn-ezra:2:23:3` not-applicable: Ibn Ezra: the dagesh in the שׁ of אִשָּׁה replaces the silent yod of אִישׁ, and perhaps it is dagesh so as not to be mixed with אִישָׁהּ, 'her husband'; compare נשים from אנוש.
+- `ibn-ezra:2:23:4` follows: Ibn Ezra: יִקָּרֵא means 'on a name', that is 'be called by name'.
+- apparatus: WLC reads לֻקֳחָה for MAM לֻקְחָה (vowels, 2:23.14); the same word.
 
 ## Genesis 2:24
 
@@ -674,49 +659,47 @@ Hebrew (MAM): עַל־כֵּן֙ יַֽעֲזׇב־אִ֔ישׁ אֶת־אָבִ
 
 ### Translation under review (2:24)
 
-English: Therefore a man leaves his father and his mother and clings to his wife, and they shall be one flesh.
+English: Therefore a man leaves his father and his mother and clings to his wife, and they become one flesh.
 
-Literal: upon-so; will-leave a-man [obj] his-father and-[obj] his-mother and-cling to-his-wife, and-they-shall-be to-flesh one
+Literal: upon-so he-leaves man OBJ his-father and-OBJ his-mother and-clings to-his-wife and-they-become to-flesh one
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:24.1 | therefore |  |  | עַל־כֵּן is one idiom: 'therefore'. Rashi: the words are the Holy Spirit's, not Adam's. |
-| 2:24.2 | so |  |  | idiom, with 2:24.1 |
-| 2:24.3 | leaves |  | Qal 1 | yiqtol as a general statement: a man leaves |
-| 2:24.4 | a man |  |  |  |
-| 2:24.5 | (object marker) |  |  | the object marker אֵת, with no English counterpart |
-| 2:24.6 | his father |  | 1 |  |
-| 2:24.7 | and |  |  | וְ + the object marker: 'and his mother' |
-| 2:24.8 | his mother |  | 1 |  |
-| 2:24.9 | and clings |  | Qal 1 | weqatal: the sequence after the yiqtol |
-| 2:24.10 | to his wife |  | 2 | בְּ after the verb 'cling' |
-| 2:24.11 | and they shall be |  | Qal III | weqatal, third person plural: the two of them are the subject |
-| 2:24.12 | flesh |  | 2 | לְ before a predicate noun: 'one flesh' |
+| 2:24.1 | on |  |  |  |
+| 2:24.2 | so |  |  | עַל־כֵּן, a fixed phrase: 'therefore' |
+| 2:24.3 | leaves |  | Qal 2 | imperfect, 3rd masc. sing., describing a custom |
+| 2:24.4 | a man |  |  | אִישׁ |
+| 2:24.5 | (object marker) |  |  | object marker; no English counterpart |
+| 2:24.6 | his father |  | 1 | construct with suffix |
+| 2:24.7 | and |  |  | conjunction + object marker |
+| 2:24.8 | his mother |  | 1 | construct with suffix |
+| 2:24.9 | and clings |  | Qal 1 | weqatal, in sequence after a yiqtol: the habitual future or present |
+| 2:24.10 | to his wife |  | 2 | בְּ after דבק: 'cling to' |
+| 2:24.11 | and they become |  | Qal II.2 | weqatal, 3rd common plural; the subject is the man and his wife |
+| 2:24.12 | into flesh |  | 2 | לְ marks the result: 'become into one flesh' |
 | 2:24.13 | one |  | 1 |  |
 
 Phrases:
-- 2:24.1 2:24.2 | therefore | 'upon-so': one idiom
-- 2:24.3 2:24.4 | a man leaves | 'will-leave a-man': a generic statement
-- 2:24.5 2:24.6 2:24.7 2:24.8 | his father and his mother | '[obj] his-father and-[obj] his-mother'
-- 2:24.9 2:24.10 | and clings to his wife | 'and-cling to-his-wife'
-- 2:24.11 2:24.12 2:24.13 | and they shall be one flesh | 'and-they-shall-be to-flesh one'
+- 2:24.1 2:24.2 | Therefore | 'upon so'
+- 2:24.3 2:24.4 | a man leaves | 'he-leaves man'
+- 2:24.5 2:24.6 | his father | 'OBJ his-father'
+- 2:24.7 2:24.8 | and his mother | 'and-OBJ his-mother'
+- 2:24.9 2:24.10 | and clings to his wife | 'and-clings to-his-wife'
+- 2:24.11 2:24.12 2:24.13 | and they become one flesh | 'and-they-become to-flesh one'
 
 Grammar notes:
-- עַל־כֵּן: the idiom 'therefore'. Rashi takes the words as the Holy Spirit's, a prohibition of forbidden unions for the sons of Noah (Sanhedrin 57b). The English keeps them as the narrator's comment, not as Adam's speech.
-- יַעֲזָב ... וְדָבַק ... וְהָיוּ: the yiqtol gives a general statement, the weqatal of 'and clings' continues it, and the plural 'they shall be' has the pair as subject.
-- אֶת־אָבִיו וְאֶת־אִמּוֹ: the object marker is repeated with each noun, so the English 'his father and his mother' gives both objects.
-- לִבְשָׂר אֶחָד: the preposition ל before a noun marks the predicate: 'one flesh'.
-- The zaqef qaton on אִישׁ (2:24.4) and on בְּאִשְׁתּוֹ (2:24.10) divides the verse into three clauses: leave, cling, be one flesh.
+- עַל־כֵּן יַעֲזָב־אִישׁ: an imperfect after 'therefore' states a general rule, hence the present tense of the English.
+- וְדָבַק and וְהָיוּ are weqatal forms that continue the imperfect; the subject changes from 'a man' to 'they' (the man and his wife).
+- לְבָשָׂר אֶחָד: 'into one flesh', ל marking the result; compare Rashi and Ibn Ezra on the sense of unity.
+- The pashta on כֵּן and the zaqef on אִישׁ divide the verse; the etnaḥta falls on אִמּוֹ.
 
-Translator's note: The English keeps 'one flesh' open between union and offspring. Rashi's reading (the child) is recorded, and so is Ibn Ezra's reading ('as if they are one'), which the English follows.
+Translator's note: The tense is present because the verse states a rule that follows from what was just done. Rashi's homily about the prohibition of incest is a legal derivation and does not bear on the English. 'One flesh' is read, as Ibn Ezra reads it, as 'as if they were one'; Rashi's 'the child' and the sense of procreation are kept in the commentary entry.
 
 Commentary rulings:
-- `rashi:2:24:1` follows: Rashi: 'therefore' is the Holy Spirit's word, forbidding forbidden unions to the sons of Noah (Sanhedrin 57b). The English keeps 'therefore' as the narrator's comment, not as Adam's speech.
-- `ibn-ezra:2:23:6` follows: Ibn Ezra, on 2:24.11–13 (filed at 2:24): 'they shall be one flesh' means 'as if they are' (כאלו הם), or that they shall resemble what they were. Some say it means another offspring, which he calls far. The English 'they shall be one flesh' follows the first reading; the others are in the apparatus.
-- `rashi:2:24:2` records: Rashi: the child is formed by the two of them, and there their flesh becomes one. The English keeps 'one flesh' open and does not narrow it to the child; this reading is recorded here.
-- `ramban:2:24:2` records: Ramban (not normative): the child reading is not enough, since animals also become one flesh in their young. The sense is that the wife is as near as his own flesh, and he desires that she be always with him. Recorded; not adopted.
-- apparatus: לִבְשָׂר אֶחָד (2:24.12–13): Rashi's reading (the child) and Ibn Ezra's ('as if they are one', 2:23 apparatus) are both recorded. The English keeps the phrase.
-- apparatus: 2:24.9 (וְדָבַק): Qal 'cling, cleave to'.
+- `rashi:2:24:1` not-applicable: Rashi (Sanhedrin 57b): the holy spirit says this to forbid incest to the sons of Noah; a derived law, not the plain sense.
+- `rashi:2:24:2` records: Rashi (Sanhedrin 58a): the child is formed from both of them, and there their flesh becomes one; this is an alternative sense of 'one flesh', not adopted here.
+- `ibn-ezra:2:23:6` follows: Ibn Ezra: 'they become one flesh' as if they were one, or that they would be like one as they were; those who say they beget one are far from the plain sense. The English follows the first reading.
+- `ramban:2:24:2` records: Ramban rejects Rashi's reading (animals too become one flesh in their young) and takes 'one flesh' to mean the clinging of man to wife as to his own flesh.
 
 ## Lexicon
 

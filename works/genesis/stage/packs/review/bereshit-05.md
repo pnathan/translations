@@ -47,58 +47,57 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ�
 
 ### Translation under review (1:24)
 
-English: And God said: let the earth bring forth living creature according to its kind: livestock, and creeping things, and wild animals of the earth according to its kind. And so it was.
+English: God said, "Let the earth bring forth living creatures, each according to its kind: livestock and crawling things and the wild animals of the earth, each according to its kind." And so it was.
 
-Literal: and-said God; let-bring-forth the-earth living-creature to-its-kind: livestock and creeping-things and wild-animals of-the-earth to-its-kind; and-it-was so
+Literal: and-said God let-bring-forth the-earth creature-of living to-its-kind livestock and-crawler and-animal-of-earth to-its-kind and-was so
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:24.1 | and said |  | Qal 1 | Wayyiqtol: the sequential form continues the narrative, 'and he said'. |
-| 1:24.2 | God |  | 3 | Plural in form with a singular verb. Of the God of Israel, so 'God' by the divine-name decision. |
-| 1:24.3 | let bring forth |  | Hiph 5 | Jussive of יָצָא in the hifil. The earth is the subject. Rashi reads the verb as 'bring out what already exists' (see the commentary). |
+| 1:24.1 | and said |  | Qal 1 | wayyiqtol: narrative past |
+| 1:24.2 | God |  | 2.d | plural form with singular sense; the verb is singular |
+| 1:24.3 | let bring forth |  | Hiph 5 | Hifil jussive, 3rd feminine singular, with the earth as subject: a command in the third person |
 | 1:24.4 | the earth |  | 1.a |  |
-| 1:24.5 | living creature |  | 1 | נֶפֶשׁ as 'that which breathes, a living being'. The phrase is collective. |
-| 1:24.6 | living |  | 1.c | Adjective agreeing with נֶפֶשׁ, feminine. |
-| 1:24.7 | according to its kind |  |  | The refrain 'to its kind' is repeated in 1:24, 1:25 and 1:26's lists. The lexicon entry for מִין has no numbered senses. |
-| 1:24.8 | livestock |  | 3 | The lexicon lists only 'wild beasts' (3) for בְּהֵמָה. Here the word names the tame animals that serve people (Ibn Ezra), so the gloss departs from the only listed path. The path is kept as the pack gives it. |
-| 1:24.9 | and creeping things |  |  | Conjunction with the noun רֶמֶשׂ; the entry has no numbered senses. |
-| 1:24.10 | and wild animals |  | 1.b | חַיָּה in the construct-less form with a final vav. Ibn Ezra reads that vav as an addition (see the commentary). |
-| 1:24.11 | of the earth |  | 2 | The land in the sense of a territory where animals live. |
-| 1:24.12 | its kind |  |  | Feminine suffix agreeing with נֶפֶשׁ חַיָּה. |
-| 1:24.13 | and it was |  | Qal I.2.a.(1) | Wayyiqtol of הָיָה: 'and it came to pass'. The formula closes each command in the chapter. |
-| 1:24.14 | so |  |  | Adverb 'so, thus' (כֵּן); the lexicon gives no numbered senses. |
+| 1:24.5 | creature of |  | 1 | נֶפֶשׁ is a living being; it stands in apposition to חַיָּה |
+| 1:24.6 | living |  | 1.c | feminine, agreeing with נֶפֶשׁ |
+| 1:24.7 | to its kind |  |  | the suffix is feminine singular and looks back to נֶפֶשׁ חַיָּה |
+| 1:24.8 | livestock |  |  | BDB lists only sense 3, wild beasts, which does not fit; Ibn Ezra takes בְּהֵמָה as the animals that live with people, so no listed sense is given |
+| 1:24.9 | and crawling things |  |  | Rashi: low creatures that move along the ground; the pack's entry lists no senses |
+| 1:24.10 | and wild animal of |  | 1.b | construct, with an old ending ־וֹ that is not a separate word |
+| 1:24.11 | earth |  | 1.a |  |
+| 1:24.12 | to its kind |  |  | the second kind-formula closes the list |
+| 1:24.13 | and it was |  | Qal II | wayyiqtol of הָיָה; with כֵּן, the idiom 'and it was so' |
+| 1:24.14 | so |  |  | adverb |
 
 Phrases:
-- 1:24.1 1:24.2 | And God said | and-said God; the wayyiqtol opens the speech
-- 1:24.3 1:24.4 | let the earth bring forth | let-bring-forth the-earth; jussive hifil; the verb is 'bring out', not 'create'
-- 1:24.5 1:24.6 | living creature | living-being living; the collective nefesh-chayah, here translated as one collective noun
-- 1:24.7 | according to its kind | to-its-kind; the suffix is feminine, agreeing with nefesh
-- 1:24.8 | livestock | the-beast; the domestic animals (Ibn Ezra). The lexicon's only listed sense is 'wild beasts'; see the token note
-- 1:24.9 | and creeping things | and-creeping-things
-- 1:24.10 1:24.11 | and wild animals of the earth | and-living-things-of the-earth; the final vav of the form is an addition
-- 1:24.12 | according to its kind | to-its-kind
-- 1:24.13 1:24.14 | And so it was | and-it-was so; the closing formula
+- 1:24.1 1:24.2 | God said | 'and-said God'
+- 1:24.3 1:24.4 | Let the earth bring forth | 'let-bring-forth the-earth': a third-person command
+- 1:24.5 1:24.6 | living creatures | 'creature-of living': a living being, used of the whole class
+- 1:24.7 | each according to its kind | 'to-its-kind'
+- 1:24.8 | livestock | 'livestock'
+- 1:24.9 | and crawling things | 'and-crawler'
+- 1:24.10 1:24.11 | and the wild animals of the earth | 'and-animal-of earth'; the ־וֹ on the construct is an old ending
+- 1:24.12 | each according to its kind | 'to-its-kind'
+- 1:24.13 1:24.14 | And so it was | 'and-was so'
 
 Grammar notes:
-- תּוֹצֵא is a jussive in the hifil, a volitive third-person form addressed as command: 'let the earth bring forth'. Its subject is הָאָרֶץ, which is feminine.
-- נֶפֶשׁ חַיָּה is a collective: 'living creature'. The following suffix in לְמִינָהּ is feminine and agrees with it.
-- The three kinds (בְּהֵמָה, רֶמֶשׂ, חַיַּת הָאָרֶץ) are joined by vav with no article on the second and third, so the list reads as three coordinate items.
-- The etnaḥta on לְמִינָ֑הּ (1:24.12) divides the verse after the list, and the silluq on כֵֽן (1:24.14) ends it.
-- The formula וַֽיְהִי־כֵֽן, 'and it was so', closes the command as its fulfilment. The same pattern recurs in 1:7, 1:9, 1:11, 1:15 and 1:30.
+- תּוֹצֵא is a Hifil jussive: the earth is addressed in the third person, 'let the earth cause to come out'.
+- The list has three kinds, בְּהֵמָה, רֶמֶשׂ and חַיְתוֹ־אֶרֶץ, joined by ו except for the first.
+- חַיְתוֹ is the construct of חַיָּה with an extra final ו; Ibn Ezra and Radak compare בְּנוֹ בְעֹר (Num 24:3).
+- The etnaḥta on the second לְמִינָהּ divides the command from וַיְהִי־כֵן.
+- The suffix of לְמִינָהּ is feminine singular, agreeing with נֶפֶשׁ: one 'living being' brought out kind by kind.
 
-Translator's note: The English keeps the verb 'bring forth' (not 'create') because the Hebrew asks the earth to produce what God has already made in the first days (Rashi). The phrase 'livestock' follows Ibn Ezra's reading of בְּהֵמָה, which differs from the lexicon's only listed sense; the wider reading of Ramban is recorded.
+Translator's note: Rashi says the earth needed only to bring out what was created on the first day, so the English says 'bring forth', not 'create'. The three kinds follow Ibn Ezra and Rashi: livestock live with people; crawling things are small and low; wild animals live where no one settles. 'Each according to its kind' is repeated because the Hebrew repeats it.
 
 Commentary rulings:
-- `rashi:1:24:1` follows: Rashi says the verb 'tots'ei' means bring out what was already created on the first day; the earth was needed only to bring the creatures out. The English keeps 'bring forth' and does not use 'create'.
-- `rashi:1:24:2` follows: Rashi glosses nefesh chayah as a thing in which there is life (sheyesh bah chayut). The English 'living creature' follows him.
-- `rashi:1:24:3` follows: Rashi: the remes are low creatures that crawl on the ground so that their movement is hardly visible, as if dragged. The English 'creeping things' follows.
-- `ibn-ezra:1:24:1` follows: Ibn Ezra reads the phrase as a general heading covering everything that fire, water and earth produced, man included. The English keeps 'living creature' general.
-- `ibn-ezra:1:24:2` follows: Ibn Ezra: the behemah are the beasts that serve people, for riding and for eating. The English 'livestock' follows him.
-- `ibn-ezra:1:24:3` follows: Ibn Ezra: the remes are the small creatures that walk on the earth. The English 'creeping things' follows.
-- `ibn-ezra:1:24:4` follows: Ibn Ezra: chayat ha-aretz are the animals of the open field where there is no settlement. The final vav of וחיתו is added, as in למעינו (Ps 114:8). The English 'wild animals of the earth' follows.
-- `ramban:1:24:1` records: Ramban: behemah is any animal that eats grass, whether settled or wild. The English uses Ibn Ezra's narrower 'livestock'; Ramban's wider sense is recorded here.
-- apparatus: Targum Onkelos renders the verb as תַּפֵּק ('let it bring forth'), which agrees with the hifil reading.
-- apparatus: The lexicon lists only 'wild beasts' (sense 3) for בְּהֵמָה; see the note on 1:24.8.
+- `rashi:1:24:1` follows: Rashi: as I explained, everything was created on the first day, and the earth only needed to bring them out. The English 'bring forth' renders the Hifil without 'create'.
+- `rashi:1:24:2` follows: Rashi: נֶפֶשׁ חַיָּה means that it has life. The English 'living creatures' keeps this.
+- `rashi:1:24:3` follows: Rashi: רֶמֶשׂ are swarmers, low creatures that creep on the earth and seem dragged along, since their going is not noticeable. The English 'crawling things' adopts this.
+- `ibn-ezra:1:24:1` not-applicable: Ibn Ezra: the clause is a general term for what fire, water and earth bring forth, the human included. It bears on the structure of the chapter, not on the English wording.
+- `ibn-ezra:1:24:2` follows: Ibn Ezra: בְּהֵמָה are those that are with people, for riding and eating. The English 'livestock' follows.
+- `ibn-ezra:1:24:3` follows: Ibn Ezra: רֶמֶשׂ are the small ones that go on the earth.
+- `ibn-ezra:1:24:4` follows: Ibn Ezra: wild animals are those in the open country where no one settles, and the last ו of וחיתו is an added letter, as in בנו בעור. The English 'wild animals of the earth' follows.
+- `ramban:1:24:1` records: Ramban: בְּהֵמָה are the grazing kinds, tame or wild. The English keeps Ibn Ezra's 'livestock'; Ramban's wider sense is recorded.
+- apparatus: Ramban reads בְּהֵמָה as all grazers and חַיָּה as meat-eaters, tame or wild; the English takes Ibn Ezra's sense.
 
 ## Genesis 1:25
 
@@ -141,59 +140,53 @@ Hebrew (MAM): וַיַּ֣עַשׂ אֱלֹהִים֩ אֶת־חַיַּ֨ת ה�
 
 ### Translation under review (1:25)
 
-English: And God made the wild animals of the earth according to its kind, and the livestock according to its kind, and every creeping thing of the ground according to its kind. And God saw that it was good.
+English: God made the wild animals of the earth, each according to its kind, and the livestock according to its kind, and every crawling thing of the ground according to its kind. And God saw that it was good.
 
-Literal: and-made God; [object-marker] wild-animals of-the-earth to-its-kind; and [object-marker] livestock to-its-kind; and [object-marker] every creeping-thing of-the-ground to-its-kind; and-saw God that good
+Literal: and-made God [object-mark] animal-of the-earth to-its-kind and-[object-mark] the-livestock to-its-kind and-[object-mark] all-of crawler-of the-ground to-its-kind and-saw God that-good
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:25.1 | and made |  | Qal II.1 | Wayyiqtol of עָשָׂה, 'and made'. Radak places this making after 'and it was so' because these three kinds come out of the earth. |
-| 1:25.2 | God |  | 3 |  |
-| 1:25.3 | (object marker) |  |  | The object marker אֵת has no English counterpart and is rendered by '-' in the English phrasing. |
-| 1:25.4 | wild animals |  | 1.b | Construct of חַיָּה, 'wild animals of'. |
-| 1:25.5 | of the earth |  | 2 |  |
-| 1:25.6 | according to its kind |  |  | Refrain 'to its kind'; masculine suffix here, feminine in 1:24. |
-| 1:25.7 | and |  |  | Vav with the object marker; the verb is not repeated. |
-| 1:25.8 | livestock |  | 3 | As in 1:24.8. The lexicon's only listed sense is 'wild beasts'; the gloss follows Ibn Ezra's reading of tame animals. |
-| 1:25.9 | according to its kind |  |  |  |
-| 1:25.10 | and |  |  | Vav with the object marker before כָּל. |
-| 1:25.11 | every |  | 1 | כֹּל in the construct state, 'every' with the noun that follows. |
-| 1:25.12 | creeping thing |  |  | רֶמֶשׂ, 'creeping thing'. The lexicon gives no numbered senses. |
-| 1:25.13 | of the ground |  | 1 | The ground, the surface of the earth. Construct with רֶמֶשׂ. |
-| 1:25.14 | according to its kind |  |  | Masculine suffix; the English keeps the refrain. |
-| 1:25.15 | and saw |  | Qal 1.a | Wayyiqtol of רָאָה, 'and saw'. |
-| 1:25.16 | God |  | 3 |  |
-| 1:25.17 | that |  |  | כִּי introduces the content of the seeing, 'that it was good'. |
-| 1:25.18 | good |  | 3 | טוֹב as the verdict on the creation: 'good, excellent'. |
+| 1:25.1 | and made |  | Qal II.1 | wayyiqtol |
+| 1:25.2 | God |  | 2.d |  |
+| 1:25.3 | (object marker) |  |  | marks the definite object |
+| 1:25.4 | animal of |  | 1.b | construct |
+| 1:25.5 | the earth |  | 1.a |  |
+| 1:25.6 | to its kind |  |  | feminine suffix, agreeing with חַיָּה |
+| 1:25.7 | and (object marker) |  |  |  |
+| 1:25.8 | the livestock |  |  | BDB lists only sense 3, wild beasts, which does not fit; see 1:24.8 |
+| 1:25.9 | to its kind |  |  | feminine suffix, agreeing with בְּהֵמָה |
+| 1:25.10 | and (object marker) |  |  |  |
+| 1:25.11 | every |  | 1 | construct: 'all of' |
+| 1:25.12 | crawling thing of |  |  | construct; the pack's entry lists no senses |
+| 1:25.13 | the ground |  | 1 | אֲדָמָה here, where 1:24 had אֶרֶץ |
+| 1:25.14 | to its kind |  |  | the suffix is masculine here (־הוּ), agreeing with the masculine רֶמֶשׂ |
+| 1:25.15 | and saw |  | Qal 1.a | wayyiqtol |
+| 1:25.16 | God |  | 2.d |  |
+| 1:25.17 | that |  | 1 | כִּי introducing what God saw |
+| 1:25.18 | good |  | 3 | predicate; Hebrew has no verb |
 
 Phrases:
-- 1:25.1 1:25.2 | And God made | and-made God; wayyiqtol of 'make'
-- 1:25.3 | - | object marker; no English counterpart
-- 1:25.4 1:25.5 | the wild animals of the earth | wild-animals of-the-earth; construct chain
-- 1:25.6 | according to its kind | to-its-kind
-- 1:25.7 | and | and; the object marker that follows has no English counterpart
-- 1:25.8 | the livestock | the-livestock; see the note on 1:25.8
-- 1:25.9 | according to its kind | to-its-kind
-- 1:25.10 1:25.11 | and every | and; every
-- 1:25.12 1:25.13 | creeping thing of the ground | creeping-thing of-the-ground
-- 1:25.14 | according to its kind | to-its-kind
-- 1:25.15 1:25.16 | And God saw | and-saw God; wayyiqtol
-- 1:25.17 1:25.18 | that it was good | that good; the English supplies 'it was'
+- 1:25.1 1:25.2 | God made | 'and-made God'
+- 1:25.3 1:25.4 1:25.5 | the wild animals of the earth | 'object-mark animal-of the-earth'
+- 1:25.6 | each according to its kind | 'to-its-kind'
+- 1:25.7 1:25.8 | and the livestock | 'and-object-mark the-livestock'
+- 1:25.9 | according to its kind | 'to-its-kind'
+- 1:25.10 1:25.11 1:25.12 1:25.13 | and every crawling thing of the ground | 'and-object-mark all-of crawler-of the-ground'
+- 1:25.14 | according to its kind | 'to-its-kind' with a masculine suffix
+- 1:25.15 1:25.16 | And God saw | 'and-saw God'
+- 1:25.17 1:25.18 | that it was good | 'that good'; no copula in Hebrew
 
 Grammar notes:
-- The clause is a wayyiqtol series: 'and made' (1:25.1), 'and saw' (1:25.15), each after the object list.
-- The object marker אֵת recurs before each of the three objects, so the English gives three separate items: the wild animals, the livestock, and every creeping thing.
-- The refrain לְמִינֵהוּ 'to its kind' closes each item; the English keeps the repetition.
-- The etnaḥta on לְמִינֵ֑הוּ (1:25.14) divides the making clause from the seeing clause.
-- The כִּי of 1:25.17 introduces the content of the verb 'saw' and is rendered by 'that'. The English supplies 'it was' before 'good'.
+- Each of the three objects is introduced by אֵת and followed by לְמִינָהּ (לְמִינֵהוּ for the masculine רֶמֶשׂ).
+- Verse 24 asked the earth to 'bring forth'; this verse says וַיַּעַשׂ, 'and God made'. Radak explains why the making follows וַיְהִי־כֵן.
+- רֶמֶשׂ הָאֲדָמָה uses 'ground' where verse 24 used 'earth'.
+- כִּי־טוֹב has no verb; the English adds 'it was'.
+- The etnaḥta on לְמִינֵהוּ divides the making from the verdict.
 
-Translator's note: The English 'and made' keeps the verb of making; Rashi's 'fixed in their form and stature' is in the commentary. The words 'the livestock' follow the same reading as 1:24.8.
+Translator's note: Rashi takes וַיַּעַשׂ as 'he set them right in their beauty and stature'; the English keeps the plain 'made', which allows that sense.
 
 Commentary rulings:
-- `rashi:1:25:1` follows: Rashi: vayya'as means that God fixed each creature in its form and stature (tiqqenam betziyyonam uvqomatan). The English keeps the verb 'made'; the detail of form and stature is left to the note.
-- `radak:1:25:4` follows: Radak identifies chayat ha-aretz as the lion, bear, leopard and wolf, and says God made them not to multiply in inhabited places, as in Exodus 23:29. The English 'wild animals of the earth' follows.
-- `radak:1:25:1` not-applicable: Radak on the placement of 'and made' after 'and it was so': a point about the order of the creation, not about the English words.
-- apparatus: No variant readings for this verse are in the pack.
+- `rashi:1:25:1` follows: Rashi: וַיַּעַשׂ means he fixed them in their beauty and in their stature. The English keeps 'made' and takes it as God fitting each kind, not only producing it.
 
 ## Genesis 1:26
 
@@ -254,67 +247,67 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָ�
 
 ### Translation under review (1:26)
 
-English: And God said: let us make humankind in our image, as our likeness; and let them rule over the fish of the sea and over the birds of the sky and over the livestock and over all the earth and over all the creeping things that creep on the earth.
+English: God said, "Let us make humankind in our image, as our likeness, and let them rule over the fish of the sea and the birds of the sky and the livestock and all the earth and every crawling thing that crawls on the earth."
 
-Literal: and-said God: let-us-make humankind in-our-image as-our-likeness; and-let-them-rule over the-fish of-the-sea and-over the-birds of-the-sky and-over the-livestock and-over all the-earth and-over all the-creeping-things that-creep on the-earth
+Literal: and-said God let-us-make human in-our-image like-our-likeness and-let-them-rule in-fish-of the-sea and-in-bird-of the-sky and-in-the-livestock and-in-all-of the-earth and-in-all-of the-crawler the-crawling on the-earth
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:26.1 | and said |  | Qal 1 | Wayyiqtol: the speech begins. |
-| 1:26.2 | God |  | 3 | Plural in form with a singular verb in 1:26.1; the plural of the speech 'let us make' is taken up in the commentary. |
-| 1:26.3 | let us make |  | Qal II.1 | Qal imperfect, first common plural: 'let us make'. The plural is the subject of the commentary: Rashi, Ibn Ezra, Ramban and Radak each explain it. |
-| 1:26.4 | humankind |  | 2 | Without the article, a generic noun. It is not the proper name Adam (see 1:27 for the article). |
-| 1:26.5 | in our image |  | 2 | The bet is the bet of likeness or instrument, 'in our image'. Rashi reads the image as a pattern. |
-| 1:26.6 | as our likeness |  | 2 | The kaf of comparison: 'as, like'. Sforno reads it as 'like our likeness, not our true likeness'. |
-| 1:26.7 | and let them rule |  | Qal | Jussive of רָדָה, 'have dominion, rule'. Rashi also reads the root as 'go down' (see the commentary). |
-| 1:26.8 | over the fish |  |  | The bet with רָדָה means 'over'. The noun דָּגָה has no numbered senses in the lexicon. |
-| 1:26.9 | of the sea |  |  | Construct with the article; יָם has no numbered senses. |
-| 1:26.10 | and over the birds |  | 1 | עוֹף as a collective, 'fowl, birds'. |
-| 1:26.11 | of the sky |  | 1.a | The visible heavens (the sky), in construct with the birds. |
-| 1:26.12 | and over the livestock |  | 3 | As in 1:24.8. The lexicon's only listed sense is 'wild beasts'; the gloss follows Ibn Ezra's reading. |
-| 1:26.13 | and over all |  | 1 | כֹּל with the article on the next noun, 'all the earth'. |
-| 1:26.14 | the earth |  | 1.a |  |
-| 1:26.15 | and over all |  | 1 | The second repetition of 'over all', with the same construction. |
-| 1:26.16 | the creeping things |  |  | רֶמֶשׂ with the article; no numbered senses. |
-| 1:26.17 | that creep |  |  | Participle of רָמַשׂ in a relative clause; the lexicon gives no numbered senses. |
-| 1:26.18 | on |  | II.1 | Preposition 'upon, on'. |
+| 1:26.1 | and said |  | Qal 1 | wayyiqtol |
+| 1:26.2 | God |  | 2.d |  |
+| 1:26.3 | let us make |  | Qal II.1 | 1st person plural; see the note on the plural |
+| 1:26.4 | humankind |  | 2 | no article: 'a human', here a class; the plural 'them' follows |
+| 1:26.5 | in our image |  | 2 | in-image-of-us |
+| 1:26.6 | as our likeness |  | 2 | like-likeness-of-us; the prefix כ means 'like' |
+| 1:26.7 | and let them rule |  | Qal | jussive plural; Rashi hears here both רדה 'rule' and ירד 'go down' |
+| 1:26.8 | over the fish of |  |  | בְּ with 'rule' means 'over' |
+| 1:26.9 | the sea |  |  |  |
+| 1:26.10 | and over the birds of |  | 1 | construct |
+| 1:26.11 | the sky |  | 1.a |  |
+| 1:26.12 | and over the livestock |  |  | BDB sense 3, wild beasts, does not fit here |
+| 1:26.13 | and over all of |  | 1 | construct |
+| 1:26.14 | the earth |  | 1.a | Radak: the wild animals of the earth, a part for the whole |
+| 1:26.15 | and over all of |  | 1 | construct |
+| 1:26.16 | the crawling thing |  |  |  |
+| 1:26.17 | that crawls |  |  | participle used as an attribute: 'the one that crawls' |
+| 1:26.18 | on |  | II.1.c |  |
 | 1:26.19 | the earth |  | 1.a |  |
 
 Phrases:
-- 1:26.1 1:26.2 | And God said | and-said God; the opening of the speech
-- 1:26.3 | let us make | let-us-make; cohortative-like imperfect, plural, with the plural explained in the commentary
-- 1:26.4 | humankind | human; generic, without the article
-- 1:26.5 | in our image | in-our-image
-- 1:26.6 | as our likeness | as-our-likeness; the kaf of comparison
-- 1:26.7 | and let them rule | and-let-them-rule; jussive of 'rule'
-- 1:26.8 1:26.9 | over the fish of the sea | over the-fish of-the-sea
-- 1:26.10 1:26.11 | and over the birds of the sky | and-over the-birds of-the-sky
-- 1:26.12 | and over the livestock | and-over the-livestock
-- 1:26.13 1:26.14 | and over all the earth | and-over all the-earth
-- 1:26.15 1:26.16 | and over all the creeping things | and-over all the-creeping-things
-- 1:26.17 1:26.18 1:26.19 | that creep on the earth | that-creep on the-earth; the participle as a relative clause
+- 1:26.1 1:26.2 | God said | 'and-said God'
+- 1:26.3 | Let us make | 'let-us-make'
+- 1:26.4 | humankind | 'human', no article
+- 1:26.5 | in our image | 'in-image-of-us'
+- 1:26.6 | as our likeness | 'like-likeness-of-us'
+- 1:26.7 | and let them rule over | 'and-let-them-rule in'
+- 1:26.8 1:26.9 | the fish of the sea | 'fish-of the-sea'
+- 1:26.10 1:26.11 | and the birds of the sky | 'and-in-bird-of the-sky'
+- 1:26.12 | and the livestock | 'and-in-the-livestock'
+- 1:26.13 1:26.14 | and all the earth | 'and-in-all-of the-earth'
+- 1:26.15 1:26.16 | and every crawling thing | 'and-in-all-of the-crawler'
+- 1:26.17 | that crawls | 'the-crawling'
+- 1:26.18 1:26.19 | on the earth | 'on the-earth'
 
 Grammar notes:
-- נַֽעֲשֶׂה is a first-person plural imperfect of עָשָׂה with the sense 'let us make'; God is the speaker.
-- The speech moves from wayyiqtol (1:26.1) to volitives (1:26.3, 1:26.7). The jussives state God's intent for humankind.
-- בְּצַלְמֵנוּ 'in our image' and כִּדְמוּתֵנוּ 'as our likeness' are two prepositional phrases with the first-person plural suffix; the kaf in כִּדְמוּתֵנוּ is the kaf of comparison.
-- The list of domains (fish, birds, livestock, all the earth, creeping things) is built with vav and bet/kaf prefixes. The final clause is a participial relative: 'the creeping things that creep on the earth'.
-- The etnaḥta on כִּדְמוּתֵנוּ (1:26.6) divides the image clause from the dominion clause; the silluq on הָאָֽרֶץ (1:26.19) ends the verse.
+- נַעֲשֶׂה is 1st person plural: God speaks with a company (Rashi's court) or in the royal plural (Ibn Ezra's report); the English keeps 'us'.
+- אָדָם has no article, so 'a human' or 'humankind', not yet a name; the article comes in 1:27.
+- בְּצַלְמֵנוּ and כִּדְמוּתֵנוּ stand side by side with no ו: 'in our image, like our likeness'.
+- וְיִרְדּוּ is a plural jussive, so the one אָדָם is collective. The root רדה sounds like ירד, 'go down' (Rashi).
+- Five domains of rule are listed: fish, birds, livestock, all the earth, and crawling things.
 
-Translator's note: The English keeps the plural 'let us' and 'our', and does not adopt any one of the explanations of the plural (court, royal we, elements, God with the earth). The English 'humankind' is the generic noun; the next verse uses the article for 'the human'.
+Translator's note: The plural 'Let us make': Rashi takes it as God taking counsel with his heavenly court, to teach humility; Ibn Ezra rejects other readings and gives the royal plural. The English keeps 'us' and records both. 'Humankind' is used because אָדָם has no article and the following verb is plural; 1:27 then has הָאָדָם. 'All the earth' follows the Hebrew word for word; Radak reads it as the wild animals of the earth.
 
 Commentary rulings:
-- `rashi:1:26:1` follows: Rashi: God consulted his heavenly court out of humility, since man is like the angels and they might be jealous. The English keeps the plural 'let us make'; the court is recorded in the note.
-- `rashi:1:26:2` follows: Rashi: the verb is nacaseh, not e'eseh, to teach that the great consults the small, even though the angels did not help in the making. The English 'let us make' follows.
-- `rashi:1:26:3` follows: Rashi glosses בְּצַלְמֵנוּ as 'in our pattern' (bidfus shelanu). The English 'in our image' keeps the image.
-- `rashi:1:26:4` records: Rashi glosses כִּדְמוּתֵנוּ as 'to understand and to reason', so that the likeness is intellect. The English keeps 'likeness' and records Rashi's gloss in the note.
-- `rashi:1:26:5` follows: Rashi: vayyeredu has two senses, rodeh (rule) and yerudah (go down). If man is worthy he rules over beasts and animals; if not, he is lowered before them. The English takes the sense 'rule'; the sense 'go down' is recorded here and in the note.
-- `ibn-ezra:1:26:1` records: Ibn Ezra rejects a passive reading of נעשה and the view that בצלמנו is Moses's own wording. He reports the Gaon's reading of בצלמנו כדמותינו as 'in dominion', takes the plural as the royal we (as in Daniel 2:36), and says God spoke to the angels: 'let us make; we shall work on him'. The English keeps the plural and the image, and does not adopt the dominion reading.
-- `ramban:1:26:1` records: Ramban reads 'let us make' as God together with the earth, which brings forth the body (Gen 2:7), while God gives the breath. The likeness is the spirit, which resembles the upper beings. The English does not adopt this.
-- `radak:1:26:2` records: Radak, citing his father, reads 'let us make' as addressed to the four elements, as if God said 'I and you together will make' (כְּאִלּוּ אָמַר לַיְסוֹדוֹת). The English does not adopt it.
-- `sforno:1:26:4` follows: Sforno: כִּדְמוּתֵנוּ means 'as our likeness, not our true likeness': man resembles the heavenly host in acting with knowledge, but his choice is not God's. The English 'as' keeps the comparison and not an identity.
-- apparatus: Ibn Ezra's and Ramban's long comments on 1:26 are cut in the pack ('[cut; full text in the review pack]'). The rulings rest on the visible text.
-- apparatus: Targum Onkelos keeps the plural (נַעֲבִיד) and the likeness (כִּדְמוּתָנָא), and adds 'and they shall rule'.
+- `rashi:1:26:1` follows: Rashi: we learn God's humility here. Since the human is in the likeness of the angels and they would be jealous, God consulted them; a king deciding a case consults his court, as in Micaiah's vision before Ahab. The English keeps 'us' as a true plural.
+- `rashi:1:26:2` follows: Rashi: although they did not help in forming the human, Scripture teaches courtesy and humility, that the great consults and takes leave of the small. Had it said 'I will make', we would not learn this; the answer to the heretics is written beside it: 'and God created' (singular).
+- `rashi:1:26:3` follows: Rashi: בְּצַלְמֵנוּ means in our mold (בדפוס שלנו). The English 'image' renders צֶלֶם and this sense goes in the notes.
+- `rashi:1:26:4` follows: Rashi: כִּדְמוּתֵנוּ means to understand and to discern. The English 'likeness' keeps דְּמוּת.
+- `rashi:1:26:5` follows: Rashi: the word carries both rule and descent: if he is worthy, he rules over the animals; if not, he goes down before them and the animal rules over him. The English takes 'rule', as the context requires, and the second sense is kept here.
+- `ibn-ezra:1:26:1` records: Ibn Ezra: some take נעשה as a Niphal participle (Neh 5:18) and 'in our image' as Moses' words, which he calls a reading lacking sense. The Gaon: 'in our image' means in rule, and the plural is how kings speak, as in 'and we shall give you' (Gen 29:27). The English keeps 'us' as in Rashi and records the royal-plural explanation.
+- `ramban:1:26:2` records: Ramban: because the human is male and female, he says 'let them rule'.
+- `radak:1:26:13` records: Radak: 'all the earth' means the animals of the earth, the wild animals not in settled land, as it is called חַיַּת הָאָרֶץ.
+- apparatus: Plural 'us': Rashi (God and his court) and Ibn Ezra (royal plural) are recorded above; the English keeps the plain plural.
+- apparatus: Radak reads 'all the earth' as 'the wild animals of the earth'; this is not adopted in the English.
 
 ## Genesis 1:27
 
@@ -352,51 +345,50 @@ Hebrew (MAM): וַיִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת־הָֽאָד�
 
 ### Translation under review (1:27)
 
-English: And God created the human in his image; in the image of God he created him; male and female he created them.
+English: God created the human in his image; in the image of God he created him; male and female he created them.
 
-Literal: and-created God [object-marker] the-human in-his-image; in-image-of God he-created-him; male and-female he-created-them
+Literal: and-created God [object-mark] the-human in-his-image in-image-of God created him male and-female created them
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:27.1 | and created |  | Qal | Wayyiqtol of בָּרָא, the verb of creation (Rashi: 'shape, fashion'). |
-| 1:27.2 | God |  | 3 |  |
-| 1:27.3 | (object marker) |  |  | The object marker has no English counterpart and is rendered by '-'. |
-| 1:27.4 | the human |  | 2 | With the article: 'the human'. Without the article in 1:26 it was 'humankind'. |
-| 1:27.5 | in his image |  | 2 | The suffix is third masculine singular, referring to God. |
-| 1:27.6 | in the image |  | 2 | Construct: 'in the image of'. |
-| 1:27.7 | of God |  | 3 | Genitive: the image of God. |
-| 1:27.8 | he created |  | Qal | Qatal of בָּרָא, the same verb as 1:27.1. |
-| 1:27.9 | him |  |  | Object marker with a third masculine singular suffix; the lexicon gives no numbered senses for אֵת. |
-| 1:27.10 | male |  | I | Adjective 'male', used as a noun with the next word. |
-| 1:27.11 | and female |  |  | Conjunction with נְקֵבָה, 'female'; no numbered senses. |
-| 1:27.12 | he created |  | Qal | Repeated verb: 'he created them'. |
-| 1:27.13 | them |  |  | Object marker with a third masculine plural suffix. |
+| 1:27.1 | and created |  | Qal | wayyiqtol; בָּרָא has God alone as its subject |
+| 1:27.2 | God |  | 2.d |  |
+| 1:27.3 | (object marker) |  |  |  |
+| 1:27.4 | the human |  | 2 | with the article: the human of 1:26 |
+| 1:27.5 | in his image |  | 2 | in-image-of-him |
+| 1:27.6 | in the image of |  | 2 | construct |
+| 1:27.7 | God |  | 2.d |  |
+| 1:27.8 | created |  | Qal | qatal after the wayyiqtol: the same act restated |
+| 1:27.9 | him |  |  | object marker with a masculine singular suffix |
+| 1:27.10 | male |  | I | adjective used as a noun |
+| 1:27.11 | and female |  |  |  |
+| 1:27.12 | created |  | Qal | qatal |
+| 1:27.13 | them |  |  | object marker with a masculine plural suffix |
 
 Phrases:
-- 1:27.1 1:27.2 | And God created | and-created God; the wayyiqtol of 'create'
-- 1:27.3 | - | object marker; no English counterpart
-- 1:27.4 1:27.5 | the human in his image | the-human in-his-image
-- 1:27.6 1:27.7 | in the image of God | in the-image-of God
-- 1:27.8 1:27.9 | he created him | he-created-him
-- 1:27.10 1:27.11 | male and female | male and-female
-- 1:27.12 1:27.13 | he created them | he-created-them
+- 1:27.1 1:27.2 | God created | 'and-created God'
+- 1:27.3 1:27.4 | the human | 'object-mark the-human'
+- 1:27.5 | in his image | 'in-image-of-him'
+- 1:27.6 1:27.7 1:27.8 1:27.9 | in the image of God he created him | 'in-image-of God created him'
+- 1:27.10 | male | 'male'
+- 1:27.11 | and female | 'and-female'
+- 1:27.12 | he created | 'created'
+- 1:27.13 | them | 'object-mark-them'
 
 Grammar notes:
-- בָּרָא appears three times (1:27.1, 1:27.8, 1:27.12), each with its object. The first two clauses name the human as the object, the last names the sexed pair.
-- בְּצַלְמוֹ (his image) has a third masculine singular suffix; בְּצֶ֥לֶם אֱלֹהִים (image of God) is a construct chain. The English keeps both forms.
-- זָכָר וּנְקֵבָה, 'male and female', is placed before the verb and its object, which is the pronoun אֹתָם 'them'.
-- The zaqef qaton on בְּצַלְמ֔וֹ (1:27.5) divides the first clause; the etnaḥta on אֹת֑וֹ (1:27.9) divides the second; the silluq on אֹתָֽם (1:27.13) ends the verse.
+- The verse has three lines: God created the human in his image; in the image of God he created him; male and female he created them.
+- הָאָדָם now has the article: after the indefinite אָדָם of 1:26, the human is named.
+- The object suffix changes from singular (אֹתוֹ) to plural (אֹתָם): one human, then male and female.
+- The first בָּרָא is a wayyiqtol; the next two are qatal and restate the act.
+- בְּצַלְמוֹ and בְּצֶלֶם אֱלֹהִים use the same noun: 'his image' and 'the image of God'.
 
-Translator's note: The translation renders בְּצַלְמוֹ as 'in his image' (the suffix refers to God). Rashi's 'pattern' and Radak's reading of the soul are recorded in the commentary, not the English.
+Translator's note: The suffix of 'in his image' could refer to God or to the human; Rashi takes the image as a mold made for the human, and says that mold is the likeness of his maker. The English keeps 'his', as the Hebrew does. 'Male and female' is read as the plain sense that both were created on the sixth day.
 
 Commentary rulings:
-- `rashi:1:27:1` follows: Rashi: בִּדְפוּס means in the pattern made for him. Everything was created by a word, but man was formed by hands (Ps 139:5), like a seal impressed by a stamp. The English keeps 'in his image' and does not add the stamp.
-- `rashi:1:27:2` follows: Rashi: the image made for him is the likeness of its maker (dyoqan yotzro). The English 'in the image of God' follows.
-- `rashi:1:27:3` follows: Rashi: the plain sense is that male and female were both created on the sixth day together. The aggadah that Adam was made with two faces and later split (cf. 2:21) is not the plain reading. The English 'male and female he created them' follows the plain sense.
-- `radak:1:27:1` records: Radak: bara' is used here of the soul, while yatsar is used of the body in 2:7. The English uses 'created' for the whole, without this distinction.
-- `radak:1:27:2` records: Radak: the image of God and the image of an angel are one kind of intellect; God is the cause and the angels are caused. The English keeps 'the image of God' without this reading.
-- `sforno:1:27:1` follows: Sforno: elohim is said of any separate intellect in full act. The human is called the image of God before he attains the perfection that would make him elohim. The English 'image' (not 'god') follows this distinction.
-- apparatus: Sforno's comment on 1:27 is cut in the pack. The ruling rests on the visible text.
+- `rashi:1:27:1` follows: Rashi: 'in a mold made for him'; everything was created by word, but the human by hands (Ps 139:5); he was made with a seal, like a coin struck with a die. The English keeps 'in his image'; the mold sense goes in the notes.
+- `rashi:1:27:2` follows: Rashi: Scripture explains that the image prepared for him is the image of the likeness of his maker. The English 'in the image of God' follows.
+- `rashi:1:27:3` follows: Rashi: the plain meaning is that here we are told both were created on the sixth day, with how explained elsewhere; the midrash says he was made with two faces and then divided. The English 'male and female' follows the plain meaning.
+- apparatus: The suffix of בְּצַלְמוֹ ('in his image') is not fixed by the Hebrew: God or the human. The next clause names God.
 
 ## Genesis 1:28
 
@@ -446,66 +438,56 @@ Hebrew (MAM): וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ�
 
 ### Translation under review (1:28)
 
-English: And God blessed them, and God said to them: be fruitful and multiply, and fill the earth and subdue it, and rule over the fish of the sea and over the birds of the sky and over every living thing that creeps on the earth.
+English: God blessed them, and God said to them, "Be fruitful and multiply and fill the earth and subdue it, and rule over the fish of the sea and the birds of the sky and every living thing that crawls on the earth."
 
-Literal: and-blessed them God, and-said God to-them: be-fruitful and-multiply, and-fill [object-marker] the-earth and-subdue-it, and-rule over the-fish of-the-sea and-over the-birds of-the-sky and-over every living-thing that-creeps on the-earth
+Literal: and-blessed [object-mark]-them God and-said to-them God be-fruitful and-multiply and-fill [object-mark] the-earth and-subdue-it and-rule in-fish-of the-sea and-in-bird-of the-sky and-in-all-of living the-crawling on the-earth
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:28.1 | and blessed |  | Pi 2 | Piel wayyiqtol of בָּרַךְ: God blesses. Ramban takes the blessing as a grant of generative power rather than a single spoken word. |
-| 1:28.2 | them |  |  | Object marker with a third masculine plural suffix. |
-| 1:28.3 | God |  | 3 |  |
-| 1:28.4 | and said |  | Qal 1 | Wayyiqtol of אָמַר, opening the direct speech. |
-| 1:28.5 | to them |  |  | Dative, 'to them'. |
-| 1:28.6 | God |  | 3 |  |
-| 1:28.7 | be fruitful |  | Hiph 3 | Qal imperative plural of פָּרָה. The lexicon gives only hifil senses; 'bear fruit' (Hiph 3) is the nearest listed path, and the verb is intransitive here. |
-| 1:28.8 | and multiply |  | Qal 1 | Qal imperative plural of רָבָה, 'become many'. |
-| 1:28.9 | and fill |  | Qal 2 | Qal imperative plural of מָלֵא, transitive: 'fill'. |
-| 1:28.10 | (object marker) |  |  | No English counterpart; rendered by '-'. |
+| 1:28.1 | and blessed |  | Pi 2 | Piel wayyiqtol: God blesses |
+| 1:28.2 | them |  |  | object marker with a masculine plural suffix |
+| 1:28.3 | God |  | 2.d |  |
+| 1:28.4 | and said |  | Qal 1 | wayyiqtol |
+| 1:28.5 | to them |  |  |  |
+| 1:28.6 | God |  | 2.d | the subject is named a second time |
+| 1:28.7 | be fruitful |  | Hiph 3 | imperative plural; the pack parses it Qal, while BDB lists only Hiph senses; Hiph 3 is the closest listed |
+| 1:28.8 | and multiply |  | Qal 1 | imperative plural |
+| 1:28.9 | and fill |  | Qal 2 | imperative plural |
+| 1:28.10 | (object marker) |  |  |  |
 | 1:28.11 | the earth |  | 1.a |  |
-| 1:28.12 | and subdue it |  | Qal 2 | Qal imperative plural of כָּבַשׁ with a feminine suffix referring to the earth. Rashi reads the defective spelling as 'the man subdues the woman' (see the commentary). |
-| 1:28.13 | and rule |  | Qal | Qal imperative plural of רָדָה, as in 1:26.7. |
-| 1:28.14 | over the fish |  |  | The bet is 'over'. No numbered senses for דָּגָה. |
-| 1:28.15 | of the sea |  |  | Construct with the article; יָם has no numbered senses. |
-| 1:28.16 | and over the birds |  | 1 | עוֹף, 'fowl, birds'. |
-| 1:28.17 | of the sky |  | 1.a |  |
-| 1:28.18 | and over every |  | 1 | כָּל with the following noun, 'every'. |
-| 1:28.19 | living thing |  | 1.a | The adjective חַי used as a noun, 'living one'. |
-| 1:28.20 | that creeps |  |  | Participle of רָמַשׂ in a relative clause; no numbered senses in the lexicon. |
-| 1:28.21 | on |  | II.1 |  |
+| 1:28.12 | and subdue it |  | Qal 2 | imperative with a feminine singular suffix; written without the ו of the verb (Rashi) |
+| 1:28.13 | and rule |  | Qal | imperative plural |
+| 1:28.14 | over the fish of |  |  | בְּ with 'rule' means 'over' |
+| 1:28.15 | the sea |  |  |  |
+| 1:28.16 | and over the birds of |  | 1 | construct |
+| 1:28.17 | the sky |  | 1.a |  |
+| 1:28.18 | and over every |  | 1 | construct |
+| 1:28.19 | living thing |  | 1.a | here a noun, 'living thing' |
+| 1:28.20 | that crawls |  |  | feminine participle with the article, agreeing with חַיָּה |
+| 1:28.21 | on |  | II.1.c |  |
 | 1:28.22 | the earth |  | 1.a |  |
 
 Phrases:
-- 1:28.1 1:28.2 1:28.3 | And God blessed them | and-blessed them God; wayyiqtol piel, with the subject placed after the object
-- 1:28.4 1:28.5 1:28.6 | and God said to them | and-said God to-them
-- 1:28.7 | be fruitful | be-fruitful; imperative plural
-- 1:28.8 | and multiply | and-multiply; imperative plural
-- 1:28.9 | and fill | and-fill; imperative plural
-- 1:28.10 | - | object marker; no English counterpart
-- 1:28.11 | the earth | the-earth
-- 1:28.12 | and subdue it | and-subdue-it; the feminine suffix refers to the earth
-- 1:28.13 | and rule | and-rule; imperative plural
-- 1:28.14 1:28.15 | over the fish of the sea | over the-fish of-the-sea
-- 1:28.16 1:28.17 | and over the birds of the sky | and-over the-birds of-the-sky
-- 1:28.18 1:28.19 1:28.20 1:28.21 1:28.22 | and over every living thing that creeps on the earth | and-over every living-thing that-creeps on the-earth
+- 1:28.1 1:28.2 1:28.3 | God blessed them | 'and-blessed object-mark-them God'
+- 1:28.4 1:28.5 1:28.6 | and God said to them | 'and-said to-them God'
+- 1:28.7 1:28.8 | Be fruitful and multiply | 'be-fruitful and-multiply'
+- 1:28.9 1:28.10 1:28.11 | and fill the earth | 'and-fill object-mark the-earth'
+- 1:28.12 | and subdue it | 'and-subdue-it'
+- 1:28.13 1:28.14 1:28.15 | and rule over the fish of the sea | 'and-rule in-fish-of the-sea'
+- 1:28.16 1:28.17 | and the birds of the sky | 'and-in-bird-of the-sky'
+- 1:28.18 1:28.19 1:28.20 1:28.21 1:28.22 | and every living thing that crawls on the earth | 'and-in-all-of living the-crawling on the-earth'
 
 Grammar notes:
-- Five plural imperatives follow the blessing: פְּרוּ, וּרְבוּ, וּמִלְאוּ, וְכִבְשֻׁהָ, וּרְדוּ. They are addressed to the human pair in the second person plural.
-- The blessing is a piel wayyiqtol, וַיְבָרֶךְ, and the speech is the content of the command introduced by וַיֹּאמֶר.
-- The clause structure follows 1:26: the list of creatures with its refrain is repeated, and it ends with the general כָּל־חַיָּה הָרֹמֶשֶׂת 'every living thing that creeps'.
-- The etnaḥta on וְכִבְשֻׁ֑הָ (1:28.12) divides the commands from the dominion clause; the gershayim on וּרְד֞וּ (1:28.13) gives the second division at 'rule'; the silluq on הָאָֽרֶץ (1:28.22) ends the verse.
+- The blessing is stated first (וַיְבָרֶךְ אֹתָם), then the speech (וַיֹּאמֶר לָהֶם); the zinor and segol close the blessing sentence.
+- The imperatives are all plural: פְּרוּ, רְבוּ, מִלְאוּ, כִבְשֻׁהָ, רְדוּ.
+- וְכִבְשֻׁהָ is written without the second ו of the verb form; Rashi draws a lesson from the spelling.
+- The gershayim on וּרְדוּ opens the second command, rule over the three domains of 1:26.
+- חַיָּה הָרֹמֶשֶׂת has a feminine participle, where 1:26 had masculine הָרֹמֵשׂ.
 
-Translator's note: The imperatives are plural. Rashi's and Radak's halakhic reading of 'be fruitful' as binding on the man only is recorded in the commentary, and the English addresses both. 'Subdue it' keeps the feminine suffix referring to the earth.
+Translator's note: The pack parses פְּרוּ as Qal, while BDB lists the sense under Hiph; the translation is 'be fruitful' either way. Rashi's reading of the defective וְכִבְשֻׁהָ is a homily on the spelling.
 
 Commentary rulings:
-- `rashi:1:28:1` records: Rashi: the vav is missing in וכבשה to teach that the male subdues the female, so that she does not go out, and that the man, not the woman, is commanded to be fruitful. The English keeps 'it' (the earth) and does not adopt the gender reading.
-- `ramban:1:28:1` follows: Ramban: this is a true blessing, not a single word; the blessing is the grant of generative power to the creatures. The English 'And God blessed them' follows.
-- `ramban:1:28:3` follows: Ramban: God gives them power and dominion over the earth to do as they wish with the beasts and creeping things, and to build and to dig. The English 'subdue it' and 'rule' follow this.
-- `radak:1:28:1` records: Radak: פְּרוּ is procreation and וּרְבוּ is increase. The Talmud (Yevamot 65a) holds that the command binds the man and not the woman. The English addresses both in the plural and does not record the halakhic restriction.
-- `radak:1:28:2` records: Radak: the defective וכבשה is read as the singular, 'the man subdues', and the woman has no such duty. The English 'subdue it' does not adopt this.
-- `sforno:1:28:1` records: Sforno: 'subdue it' means that by your intellect you protect the land and keep the beasts from entering your borders. The English does not state this.
-- `sforno:1:28:2` records: Sforno: 'rule' (u-redu) means to subdue by snares and nets, to bring them into your service. The English 'rule over' does not state the method.
-- apparatus: Targum Onkelos renders 'subdue it' as 'and have dominion over it' (וּתְקוּפוּ עֲלַהּ).
+- `rashi:1:28:1` not-applicable: Rashi: וכבשה lacks a ו to teach that the male subdues the female so that she will not be a gadabout, and that the man, who is used to subduing, is commanded to be fruitful and multiply, not the woman. This is drawn from the spelling and does not change the English 'subdue it'.
 
 ## Genesis 1:29
 
@@ -555,67 +537,66 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨�
 
 ### Translation under review (1:29)
 
-English: And God said: behold, I have given you every herb yielding seed that is on the surface of all the earth, and every tree whose fruit yields seed; it shall be yours for food.
+English: God said, "See, I have given you every plant that bears seed on the surface of the whole earth, and every tree that has in it fruit of a tree that bears seed. It shall be yours for food."
 
-Literal: and-said God: behold, I-have-given you [object-marker] every herb bearing seed which on face-of all the-earth, and [object-marker] every tree which in-it fruit-of-tree bearing seed; to-you it-shall-be for-food
+Literal: and-said God see I-have-given to-you [object-mark] all-of herb sowing seed which on face-of all-of the-earth and-[object-mark] all-of the-tree which-in-it fruit-of tree sowing seed to-you it-shall-be for-food
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:29.1 | and said |  | Qal 1 | Wayyiqtol, opening the speech. |
-| 1:29.2 | God |  | 3 |  |
-| 1:29.3 | behold |  |  | הִנֵּה: a deictic particle that draws attention to the gift. No numbered senses. |
-| 1:29.4 | I have given |  | Qal 1 | Qatal of נָתַן, first person singular: 'I have given'. |
-| 1:29.5 | you |  |  | Dative suffix, second person plural: 'to you'. |
-| 1:29.6 | (object marker) |  |  | No English counterpart; rendered by '-'. |
-| 1:29.7 | every |  | 1 | כֹּל in the construct state with עֵשֶׂב. |
-| 1:29.8 | herb |  |  | עֵשֶׂב, 'herb'; no numbered senses in the lexicon. |
-| 1:29.9 | yielding |  | Qal 2 | Participle of זָרַע: 'producing seed'. Qal 1 ('sow') does not fit. |
-| 1:29.10 | seed |  | 2 |  |
-| 1:29.11 | that |  |  | Relative particle אֲשֶׁר. |
-| 1:29.12 | on |  | II.1 |  |
-| 1:29.13 | the surface of |  | I.5 | פְּנֵי, 'face, surface', in the construct state with כָּל. |
-| 1:29.14 | all |  | 1 |  |
-| 1:29.15 | the earth |  | 1.a |  |
-| 1:29.16 | and (object marker) |  |  | Vav with the object marker; no English counterpart. |
-| 1:29.17 | every |  | 1 |  |
+| 1:29.1 | and said |  | Qal 1 | wayyiqtol |
+| 1:29.2 | God |  | 2.d |  |
+| 1:29.3 | see |  |  | הִנֵּה, a particle that draws attention; the English 'see' does the job without filler |
+| 1:29.4 | I have given |  | Qal 1 | qatal, 1st person: a completed gift |
+| 1:29.5 | to you |  |  | masculine plural: the humans of 1:28 |
+| 1:29.6 | (object marker) |  |  |  |
+| 1:29.7 | every |  | 1 | construct |
+| 1:29.8 | plant |  |  | עֵשֶׂב, herbage; the pack's entry lists no senses |
+| 1:29.9 | that bears |  | Qal 2 | participle 'sowing' |
+| 1:29.10 | seed |  | 2 | זֶרַע |
+| 1:29.11 | which |  |  |  |
+| 1:29.12 | on |  | II.1.c |  |
+| 1:29.13 | the surface of |  | I.5 | 'face of'; פָּנִים is plural in form |
+| 1:29.14 | the whole |  | 1 | construct |
+| 1:29.15 | earth |  | 1.a |  |
+| 1:29.16 | and (object marker) |  |  |  |
+| 1:29.17 | every |  | 1 | construct |
 | 1:29.18 | tree |  | 1.a |  |
-| 1:29.19 | which |  |  | Relative particle אֲשֶׁר with the following clause. |
-| 1:29.20 | in it |  |  | Preposition בְּ with a third masculine singular suffix, referring to the tree. |
-| 1:29.21 | fruit |  | 3 | פְּרִי as 'fruit'. The first listed sense, 'fruit of the ground', does not fit a tree. |
-| 1:29.22 | of a tree |  | 1.a | Construct: 'fruit of a tree'. |
-| 1:29.23 | yielding |  | Qal 2 | Participle of זָרַע, 'producing seed', as in 1:29.9. |
+| 1:29.19 | which |  |  |  |
+| 1:29.20 | in it |  |  |  |
+| 1:29.21 | fruit of |  | 3 | construct |
+| 1:29.22 | tree |  | 1.a |  |
+| 1:29.23 | that bears |  | Qal 2 | participle |
 | 1:29.24 | seed |  | 2 |  |
-| 1:29.25 | to you |  |  | Dative, second person plural. |
-| 1:29.26 | shall be |  | Qal III | Yiqtol of הָיָה with לָכֶם: 'it shall be yours'. The future is supplied in the English. |
-| 1:29.27 | for food |  | 2 | The lexicon's header gives 'food, eating' for אׇכְלָה; the numbered senses are 'devouring' (2) and 'consuming' (3). Sense 2 is the nearest listed path. |
+| 1:29.25 | to you |  |  |  |
+| 1:29.26 | shall be |  | Qal III | yiqtol, 3rd masculine singular; the subject is the whole gift |
+| 1:29.27 | for food |  |  | לְ + אָכְלָה, 'to eating'; BDB lists only 'devouring' and 'consuming', which do not suit, so no listed sense is given |
 
 Phrases:
-- 1:29.1 1:29.2 | And God said | and-said God; wayyiqtol
-- 1:29.3 | behold | behold; deictic particle
-- 1:29.4 1:29.5 | I have given you | I-have-given to-you
-- 1:29.6 | - | object marker; no English counterpart
-- 1:29.7 1:29.8 | every herb | every herb
-- 1:29.9 1:29.10 | yielding seed | bearing seed; the participle with the object
-- 1:29.11 1:29.12 1:29.13 1:29.14 1:29.15 | that is on the surface of all the earth | which on face-of all the-earth
-- 1:29.16 | - | and-object marker; no English counterpart
-- 1:29.17 1:29.18 | and every tree | every tree
-- 1:29.19 1:29.20 1:29.21 1:29.22 1:29.23 1:29.24 | whose fruit yields seed | which in-it fruit-of-tree bearing seed; the relative clause with the construct chain
-- 1:29.25 1:29.26 1:29.27 | it shall be yours for food | to-you it-shall-be for-food; the dative becomes the possessive 'yours'
+- 1:29.1 1:29.2 | God said | 'and-said God'
+- 1:29.3 | See | 'see'
+- 1:29.4 1:29.5 | I have given you | 'I-have-given to-you'
+- 1:29.6 | - | object marker: no English word
+- 1:29.7 1:29.8 1:29.9 1:29.10 | every plant that bears seed | 'all-of herb sowing seed'
+- 1:29.11 1:29.12 1:29.13 1:29.14 1:29.15 | on the surface of the whole earth | 'which on face-of all-of the-earth'
+- 1:29.16 1:29.17 1:29.18 | and every tree | 'and-object-mark all-of the-tree'
+- 1:29.19 1:29.20 1:29.21 | that has in it fruit | 'which in-it fruit-of'; the relative clause is in the Hebrew order
+- 1:29.22 | of a tree | 'tree'
+- 1:29.23 1:29.24 | that bears seed | 'sowing seed'
+- 1:29.25 1:29.26 | It shall be yours | 'to-you it-shall-be'
+- 1:29.27 | for food | 'to-food'
 
 Grammar notes:
-- The speech opens with the deictic הִנֵּה and a first person perfect, נָתַתִּי. The dative לָכֶם follows the verb: 'I have given you'.
-- Each object is a noun with a relative clause: 'every herb bearing seed which is on the face of the earth' (אֲשֶׁר) and 'every tree which has in it fruit of a tree bearing seed' (אֲשֶׁר־בּוֹ).
-- פְּרִי־עֵץ is a construct chain, 'fruit of a tree'. The English 'whose fruit yields seed' keeps the chain.
-- The verb יִהְיֶה takes the dative לָכֶם and the purpose לְאׇכְלָה: 'it shall be for you for food'. The English 'it shall be yours for food' turns the dative into the possessive.
-- The pashta on אֲשֶׁר֙ (1:29.11) divides the first object; the silluq on לְאׇכְלָה (1:29.27) ends the verse.
+- הִנֵּה with the qatal נָתַתִּי presents a gift already made: 'See, I have given'.
+- עֵשֶׂב זֹרֵעַ זֶרַע and פְּרִי־עֵץ זֹרֵעַ זָרַע are parallel, each a participle with its cognate noun: 'seed-sowing seed'.
+- The first זֹרֵעַ has munaḥ, the second revia on זֶרַע; the revia sets off the plants from the trees, the etnaḥta on זָרַע ends the gift.
+- יִהְיֶה is singular: 'it shall be', with the whole gift as one subject, not each plant.
+- לְאָכְלָה is 'for food'; the commentators note that this verse does not yet allow meat.
 
-Translator's note: The English 'food' is the plain sense of לְאׇכְלָה. Ibn Ezra, Ramban and Rashi agree that these are the plant foods for humans; the English does not state the restriction against meat, which is in the commentary.
+Translator's note: The verb זֹרֵעַ is 'sowing' and the English 'bears seed' renders the sense; the cognate noun is in English 'seed'. The commentators agree that the gift is plants only; the English says nothing about meat, which is not in the Hebrew.
 
 Commentary rulings:
-- `rashi:1:29:1` follows: Rashi: God gave the beasts and animals for food, but Adam and Eve were not allowed to kill and eat flesh; all ate herbs together until the sons of Noah were permitted meat (Gen 9:3). The English 'food' follows the plain word and the restriction is recorded in the note.
-- `ibn-ezra:1:29:1` follows: Ibn Ezra: every living creature was permitted every herb, every fruit tree was permitted to humans, the green herb went to beasts and creeping things, and flesh was not permitted until after the flood. The English 'every herb yielding seed' and 'every tree' for humans, with 'green herb' for the beasts in 1:30, follows this division.
-- `ramban:1:29:1` follows: Ramban: man received the seed-bearing herbs and the fruit trees; the beasts received the green herbs (1:30); flesh was permitted only after the flood. The English division follows Ramban; the flesh restriction is in the note.
-- apparatus: Targum Onkelos renders 'every herb sowing seed' (עִסְבָּא דְּבַר זַרְעֵהּ מִזְדְּרַע) and 'the fruit of a tree bearing seed' with the same division as the English.
+- `rashi:1:29:1` follows: Rashi: God made beasts and animals equal to them as food, and did not allow the human and his wife to kill a creature and eat flesh; only the green herb may they all eat together. When the sons of Noah came, he permitted flesh. The English 'for food' with the plants alone follows this.
+- `ibn-ezra:1:29:1` follows: Ibn Ezra: he permitted people, and everything with a living soul, to eat every herb; every tree fruit is permitted to people; the green herb is for the animals and for everything that crawls; meat was not permitted until after the flood. The English follows: the human has the plants and the fruit.
 
 ## Genesis 1:30
 
@@ -657,55 +638,55 @@ Hebrew (MAM): וּֽלְכׇל־חַיַּ֣ת הָ֠אָ֠רֶץ וּלְכׇל
 
 ### Translation under review (1:30)
 
-English: And to every wild animal of the earth and to every bird of the sky and to all that creeps on the earth, in which is a living creature, I have given every green herb for food. And so it was.
+English: And to every wild animal of the earth and to every bird of the sky and to everything that crawls on the earth, in which there is a living creature, I have given every green plant for food. And so it was.
 
-Literal: and-to every wild-animal of-the-earth and-to every bird of-the-sky and-to all that-creeps on the-earth, which in-it living-creature; [object-marker] every green herb for-food; and-it-was so
+Literal: and-to-all-of animal-of the-earth and-to-all-of bird-of the-sky and-to-all-of crawling on the-earth which-in-it creature living [object-mark] all-of green herb to-food and-was so
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:30.1 | And to every |  | 1 | לְ with כָּל: 'to every'. There is no verb in the first clause; 'I have given' is carried over from 1:29. |
-| 1:30.2 | wild animal |  | 1.b | חַיַּת, construct of חַיָּה, 'wild animal of'. |
-| 1:30.3 | of the earth |  | 2 |  |
-| 1:30.4 | and to every |  | 1 | The second list, joined by vav. |
-| 1:30.5 | bird |  | 1 | עוֹף as a collective, 'fowl, birds'. |
-| 1:30.6 | of the sky |  | 1.a |  |
-| 1:30.7 | and to all |  | 1 | The third list: 'to all that creeps'. |
-| 1:30.8 | that creeps |  |  | Participle of רָמַשׂ in a relative clause; no numbered senses. |
-| 1:30.9 | on |  | II.1 |  |
+| 1:30.1 | and to every |  | 1 | construct, with the prefix לְ: 'to all of' |
+| 1:30.2 | wild animal of |  | 1.b | construct |
+| 1:30.3 | the earth |  | 1.a |  |
+| 1:30.4 | and to every |  | 1 | construct |
+| 1:30.5 | bird of |  | 1 | construct |
+| 1:30.6 | the sky |  | 1.a |  |
+| 1:30.7 | and to everything |  | 1 | construct, 'to all of' |
+| 1:30.8 | that crawls |  |  | participle, 'the crawling one' |
+| 1:30.9 | on |  | II.1.c |  |
 | 1:30.10 | the earth |  | 1.a |  |
-| 1:30.11 | which |  |  | Relative particle אֲשֶׁר. |
-| 1:30.12 | in it |  |  | Preposition בְּ with a third masculine singular suffix, referring to the earth's creatures. |
-| 1:30.13 | life |  | 1 | נֶפֶשׁ as 'that which breathes, living being'. |
-| 1:30.14 | living |  | 1.c |  |
-| 1:30.15 | (object marker) |  |  | No English counterpart; rendered by '-'. |
-| 1:30.16 | every |  | 1 |  |
-| 1:30.17 | green |  |  | יֶרֶק, 'green'; the lexicon gives no numbered senses. |
-| 1:30.18 | herb |  |  | עֵשֶׂב, 'herb'; no numbered senses. |
-| 1:30.19 | for food |  | 2 | As in 1:29.27: the lexicon's header is 'food, eating'; sense 2 is the nearest listed path. |
-| 1:30.20 | and it was |  | Qal I.2.a.(1) | Wayyiqtol of הָיָה: 'and it was so'. The closing formula. |
-| 1:30.21 | so |  |  | Adverb 'so'. |
+| 1:30.11 | which |  |  |  |
+| 1:30.12 | in it |  |  |  |
+| 1:30.13 | creature |  | 1 | נֶפֶשׁ, a living being |
+| 1:30.14 | living |  | 1.c | feminine, agreeing with נֶפֶשׁ |
+| 1:30.15 | (object marker) |  |  | marks the object of a verb not repeated from 1:29 |
+| 1:30.16 | every |  | 1 | construct |
+| 1:30.17 | green |  |  | יֶרֶק, greenness; no senses in the pack |
+| 1:30.18 | plant |  |  | עֵשֶׂב |
+| 1:30.19 | for food |  |  | לְ + אָכְלָה; see 1:29.27 |
+| 1:30.20 | and it was |  | Qal II | wayyiqtol of הָיָה |
+| 1:30.21 | so |  |  |  |
 
 Phrases:
-- 1:30.1 1:30.2 1:30.3 | And to every wild animal of the earth | and-to every wild-animal of-the-earth
-- 1:30.4 1:30.5 1:30.6 | and to every bird of the sky | and-to every bird of-the-sky
-- 1:30.7 1:30.8 1:30.9 1:30.10 | and to all that creeps on the earth | and-to all that-creeps on the-earth
-- 1:30.11 1:30.12 1:30.13 1:30.14 | in which is a living creature | which in-it living-creature living; the relative clause that describes the creatures
-- 1:30.15 1:30.16 1:30.17 1:30.18 1:30.19 | I have given every green herb for food | [object-marker] every green herb for-food; the verb is carried over from 1:29
-- 1:30.20 1:30.21 | And so it was | and-it-was so; the closing formula
+- 1:30.1 1:30.2 1:30.3 | And to every wild animal of the earth | 'and-to-all-of animal-of the-earth'
+- 1:30.4 1:30.5 1:30.6 | and to every bird of the sky | 'and-to-all-of bird-of the-sky'
+- 1:30.7 1:30.8 1:30.9 1:30.10 | and to everything that crawls on the earth | 'and-to-all-of crawling on the-earth'
+- 1:30.11 1:30.12 1:30.13 1:30.14 | in which there is a living creature | 'which-in-it creature living'
+- 1:30.15 | I have given | object marker: the verb 'I have given' is carried over from 1:29, since the Hebrew has none here
+- 1:30.16 1:30.17 1:30.18 | every green plant | 'all-of green herb'
+- 1:30.19 | for food | 'to-food'
+- 1:30.20 1:30.21 | And so it was | 'and-was so'
 
 Grammar notes:
-- The first three clauses have no verb. The verb 'I have given' from 1:29 governs the whole, and the English supplies it at the object.
-- Three lists in apposition are each introduced by וּלְ, 'and to': the wild animals, the birds, and all that creeps.
-- The relative clause 'in which is a living creature' (אֲשֶׁר בּוֹ נֶפֶשׁ חַיָּה) describes the creeping things, and it is set against the green herb that follows.
-- The etnaḥta on לְאׇכְלָ֑ה (1:30.19) closes the object clause; the silluq on כֵֽן (1:30.21) ends the verse with the closing formula.
+- The verse has no verb of giving; it takes נָתַתִּי from 1:29 and אֶת marks its object.
+- The three groups are the same as in 1:26 and 1:28: wild animals, birds, crawling things; here without fish.
+- אֲשֶׁר־בּוֹ נֶפֶשׁ חַיָּה, 'in which is a living being', limits the third group.
+- The telisha gedola on הָאָרֶץ is a rare doubled accent mark.
+- The English adds 'I have given' where the Hebrew has an object marker and no verb.
 
-Translator's note: The English supplies 'I have given' from 1:29 by ellipsis. 'Every green herb' is the plain sense of כָּל יֶרֶק עֵשֶׂב; Sforno's reading of it as seedless plants is in the commentary.
+Translator's note: The Hebrew leaves out the verb 'I have given', so the English supplies it from 1:29 in the phrase that holds the object marker. The relative clause 'in which there is a living creature' is read as limiting 'everything that crawls', as the accents and the sense suggest, though it could be read of all three groups.
 
 Commentary rulings:
-- `radak:1:30:2` follows: Radak: yereq is joined to 'esev because the herb is eaten mainly while it is still green and moist. The English 'green herb' keeps the adjective.
-- `sforno:1:30:2` records: Sforno: the 'esev here means the kinds of herb that do not produce seed (sheeneim zorim zera). The English 'every green herb' does not adopt this; it keeps the plain phrase.
-- `radak:1:30:1` not-applicable: Radak: a creature with a living soul ranks above a plant, which has only a growing soul, and the lower is made for the greater. This is a point about rank, not about the English.
-- apparatus: Targum Onkelos renders 'every green herb' as כָּל יְרוֹק עִסְבָּא, matching the English.
+- apparatus: The relative clause 'in which is a living being' could limit only the crawling things or the three groups together; the English follows the nearer.
 
 ## Genesis 1:31
 
@@ -754,53 +735,51 @@ Paragraph mark after this verse: פ
 
 ### Translation under review (1:31)
 
-English: And God saw all that he had made, and behold, it was very good. And there was evening, and there was morning, the sixth day.
+English: God saw everything that he had made, and indeed it was very good. And there was evening and there was morning, the sixth day.
 
-Literal: and-saw God [object-marker] all that he-had-made, and-behold good very; and-it-was evening, and-it-was morning, day the-sixth
+Literal: and-saw God [object-mark] all-of which he-made and-behold-good very and-was evening and-was morning day-of the-sixth
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:31.1 | And saw |  | Qal 1.a | Wayyiqtol of רָאָה. |
-| 1:31.2 | God |  | 3 |  |
-| 1:31.3 | (object marker) |  |  | No English counterpart; rendered by '-'. |
-| 1:31.4 | all |  | 2.a | כֹּל with the relative clause that follows: 'all that'. |
-| 1:31.5 | that |  |  | Relative particle אֲשֶׁר. |
-| 1:31.6 | he had made |  | Qal II.1 | Qatal of עָשָׂה in a relative clause: 'he had made'. |
-| 1:31.7 | and behold |  |  | Vav with הִנֵּה: 'and behold'. |
-| 1:31.8 | good |  | 3 |  |
-| 1:31.9 | very |  | 2 | מְאֹד as an intensifier: 'very'. The clause has no verb; the English supplies 'it was'. |
-| 1:31.10 | And there was |  | Qal I.2.a.(1) | Wayyiqtol of הָיָה: the first of the two closing clauses. |
+| 1:31.1 | and saw |  | Qal 1.a | wayyiqtol |
+| 1:31.2 | God |  | 2.d |  |
+| 1:31.3 | (object marker) |  |  |  |
+| 1:31.4 | every |  | 1 | construct: 'all of' |
+| 1:31.5 | which |  |  |  |
+| 1:31.6 | he had made |  | Qal II.1 | qatal, a completed act before the seeing; 'he had made' |
+| 1:31.7 | and indeed |  |  | וְהִנֵּה, 'and behold', marks what God found |
+| 1:31.8 | good |  | 3 | predicate; no verb in Hebrew |
+| 1:31.9 | very |  | 2 | מְאֹד, 'exceedingly' |
+| 1:31.10 | and there was |  | Qal II | wayyiqtol, 'and it was' |
 | 1:31.11 | evening |  | 1.a |  |
-| 1:31.12 | and there was |  | Qal I.2.a.(1) | The second closing clause, with morning. |
+| 1:31.12 | and there was |  | Qal II | wayyiqtol |
 | 1:31.13 | morning |  | 1 |  |
-| 1:31.14 | day |  | 1 | יוֹם in construct with the ordinal. |
-| 1:31.15 | the sixth |  |  | The ordinal with the article, 'the sixth'. The English 'the sixth day' keeps the article (see Rashi). |
+| 1:31.14 | day of |  | 1 | construct, with an ordinal in the next word |
+| 1:31.15 | the sixth |  |  | article on the ordinal after an indefinite noun: 'the sixth day' |
 
 Phrases:
-- 1:31.1 1:31.2 | And God saw | and-saw God; wayyiqtol
-- 1:31.3 | - | object marker; no English counterpart
-- 1:31.4 1:31.5 1:31.6 | all that he had made | all that he-had-made
-- 1:31.7 1:31.8 1:31.9 | and behold, it was very good | and-behold good very; the copula is supplied
-- 1:31.10 1:31.11 | And there was evening | and-it-was evening; wayyiqtol
-- 1:31.12 1:31.13 | and there was morning | and-it-was morning
-- 1:31.14 1:31.15 | the sixth day | day the-sixth
+- 1:31.1 1:31.2 | God saw | 'and-saw God'
+- 1:31.3 1:31.4 | everything | 'object-mark all-of'
+- 1:31.5 1:31.6 | that he had made | 'which he-made'
+- 1:31.7 | and indeed | 'and-behold'
+- 1:31.8 1:31.9 | it was very good | 'good very'
+- 1:31.10 1:31.11 | And there was evening | 'and-was evening'
+- 1:31.12 1:31.13 | and there was morning | 'and-was morning'
+- 1:31.14 1:31.15 | the sixth day | 'day-of the-sixth'
 
 Grammar notes:
-- The clause 'and behold, it was very good' has no verb. The copula is supplied, and the adverb מְאֹד is 'very'.
-- 'All that he had made' (כָּל אֲשֶׁר עָשָׂה) is a relative clause with a qatal, closing the six days of work.
-- Two wayyiqtol clauses, 'and there was evening' and 'and there was morning', end the verse, with evening first. The day begins at evening, as in 1:5.
-- The article on the ordinal (הַשִּׁשִּׁי) makes it 'the sixth day', a specific day. The English keeps the article.
-- The zaqef qaton on עָשָׂ֔ה (1:31.6) divides the relative clause; the etnaḥta on מְאֹ֑ד (1:31.9) divides the verdict; the silluq on הַשִּׁשִּֽׁי (1:31.15) ends the verse, which closes the section.
+- The refrain of the days is 'and there was evening and there was morning', here with 'the sixth day', which is the only day with the article.
+- וְהִנֵּה־טוֹב מְאֹד adds 'very' and וְהִנֵּה to the refrain 'and God saw that it was good' of the earlier days.
+- The qatal עָשָׂה ('he had made') looks back over the whole of the six days.
+- The ordinal הַשִּׁשִּׁי takes the article, while יוֹם is a construct without it: a regular pattern for ordinal days.
+- The paragraph mark פ closes the account of the sixth day.
 
-Translator's note: The English 'it was very good' supplies the copula. Radak's variant reading (והנה טוב מות, 'behold, death is good') and his other glosses on the good and very good are recorded in the commentary and apparatus only; the English keeps the reading of the pack's text.
+Translator's note: The article on 'the sixth' day is the Hebrew's, and the English follows it with 'the sixth day'. Rashi's homily on the added ה (the sixth day of Sivan, the giving of the Torah) does not bear on the plain sense.
 
 Commentary rulings:
-- `rashi:1:31:1` follows: Rashi: the article in 'the sixth' (הַשִּׁשִּׁי) points to the day on which everything waited until the sixth day, the sixth of Sivan, the day the Torah was given (on condition that Israel accept it). The English keeps 'the sixth day' with its article; the Sivan reading is not stated in the English.
-- `ibn-ezra:1:31:1` follows: Ibn Ezra: 'the sixth day' is the sixth in sequence from the first day. He rejects the reading of the sixth as a sphere or a zodiac sign. The English 'the sixth day' follows the sequence.
-- `ramban:1:31:1` follows: Ramban: מְאֹד is an intensifier. The whole is very good, though some parts (death, the evil impulse) are not. The English 'very good' keeps the intensifier for the whole.
-- `radak:1:31:4` records: Radak cites a variant: the Torah of Rabbi Meir reads 'and behold, death is good' (והנה טוב מות). The English keeps the reading 'very good' of the pack's text and records the variant here.
-- apparatus: Variant: Radak (1:31:4) reports that R. Meir's text read 'והנה טוב מות' ('and behold, death is good'). Not adopted.
-- apparatus: Targum Onkelos renders 'very good' as והא תקין לחדא, matching the English.
+- `rashi:1:31:1` not-applicable: Rashi: the added ה on יוֹם הַשִּׁשִּׁי means God made a condition with creation that Israel would accept the five books of the Torah; or: everything hangs until the sixth of Sivan. This is homily and does not bear on the English.
+- `ibn-ezra:1:31:1` follows: Ibn Ezra: some take יום הששי as 'the day next to', i.e. the sixth sphere; this is false. It means the day that is sixth from the first day, as 'the Israelite man' (Lev 24:10). The English 'the sixth day' follows this.
+- apparatus: The paragraph mark פ follows this verse.
 
 ## Lexicon
 

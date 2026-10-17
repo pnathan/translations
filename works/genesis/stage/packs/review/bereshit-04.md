@@ -47,51 +47,50 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ ה�
 
 ### Translation under review (1:20)
 
-English: God said, 'Let the waters bring forth swarms of living creatures, and let birds fly over the earth, across the face of the expanse of the sky.'
+English: And God said, "Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the sky."
 
-Literal: and-said God; let-bring-forth the-waters swarm-of living-creature; and-birds let-fly-about over the-earth upon face-of expanse-of the-heavens
+Literal: and-said God swarm-(they) the-waters swarm-of creature living and-bird fly-about above the-earth above face-of expanse-of the-heavens
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:20.1 | and said |  | Qal 1 | Wayyiqtol (sequential imperfect) of אָמַר. It opens the speech, so English needs no connective. |
-| 1:20.2 | God |  | 3 | Plural in form, with a singular verb. Of the God of Israel, so 'God' by the divine-name decision. |
-| 1:20.3 | let bring forth |  |  | Yiqtol with volitive force in God's speech. Ibn Ezra reads it as transitive, 'bring forth' (see the commentary). |
+| 1:20.1 | and said |  | Qal 1 | wayyiqtol: narrative past |
+| 1:20.2 | God |  | 2.d | plural form, singular verb, when it names the God of Israel |
+| 1:20.3 | let swarm |  |  | jussive sense of the yiqtol; the verb is transitive here (Ibn Ezra) |
 | 1:20.4 | the waters |  |  |  |
-| 1:20.5 | swarms of |  |  | Construct form of שֶׁרֶץ, 'swarm of'. It governs the next two words. |
-| 1:20.6 | creatures |  | 1 | נֶפֶשׁ as 'living being'. Rashi reads the phrase as 'with life in it' (see the commentary). |
+| 1:20.5 | swarm of / swarms of |  |  | construct state, cognate with the verb |
+| 1:20.6 | creature of |  | 1 | construct-like phrase with the next word: a breathing being |
 | 1:20.7 | living |  | 1.c |  |
-| 1:20.8 | and birds |  | 1 | Rashi's list of sheretz puts flies among the fowl. 'Birds' is the plain sense of the lexicon entry. |
-| 1:20.9 | let fly about |  | Pō‛l 1 | Polel yiqtol: 'fly about, to and fro'. The volitive force is the same as in 1:20.3. |
-| 1:20.10 | over |  | II.5 |  |
+| 1:20.8 | and bird |  | 1 | collective singular |
+| 1:20.9 | let fly about |  | Pō‛l 1 | polel of the root עוף: flying to and fro; jussive sense |
+| 1:20.10 | above |  | II.5 |  |
 | 1:20.11 | the earth |  | 1.a |  |
-| 1:20.12 | across |  | II.1 | Literally 'upon'. The English reads the phrase as motion over a surface. |
-| 1:20.13 | the face of |  | I.1 | Construct: 'face of'. |
-| 1:20.14 | expanse of |  | 1 | רָקִיעַ, the expanse of 1:6–8. Ibn Ezra takes it as the air in which birds fly (see the commentary). |
-| 1:20.15 | the sky |  | 1.a |  |
+| 1:20.12 | across |  | II.5 |  |
+| 1:20.13 | the face of |  | I.5 | idiom: surface |
+| 1:20.14 | the expanse of |  | 1 | construct state |
+| 1:20.15 | the sky |  | 1.a | plural form; always plural in Hebrew |
 
 Phrases:
-- 1:20.1 1:20.2 | God said | and-said God; the wayyiqtol opens the speech, and its ו is not rendered
-- 1:20.3 1:20.4 | Let the waters bring forth | let-bring-forth the-waters; yiqtol with volitive force, transitive by Ibn Ezra's reading
-- 1:20.5 1:20.6 1:20.7 | swarms of living creatures | swarm-of living-creature; the construct chain is the object of 'bring forth'
-- 1:20.8 1:20.9 | and let birds fly | and-birds let-fly-about; a second volitive, with the same force as the first
-- 1:20.10 1:20.11 | over the earth | over the-earth; the place over which the birds fly
-- 1:20.12 1:20.13 1:20.14 1:20.15 | across the face of the expanse of the sky | upon face-of expanse-of the-heavens; 'upon the face of' is rendered 'across', and the expanse keeps the lexicon's sense
+- 1:20.1 1:20.2 | And God said | 'and-said God'
+- 1:20.3 1:20.4 | Let the waters swarm | 'swarm the-waters'; Ibn Ezra: the verb takes an object
+- 1:20.5 1:20.6 1:20.7 | with swarms of living creatures | 'swarm-of creature living'; swarm-noun in apposition, Rashi: a living thing that is low to the ground
+- 1:20.8 1:20.9 | and let birds fly | 'and-bird fly-about'; collective singular
+- 1:20.10 1:20.11 | above the earth | 'above the-earth'
+- 1:20.12 1:20.13 1:20.14 1:20.15 | across the expanse of the sky | 'above face-of expanse-of the-heavens'; Ibn Ezra, citing the Gaon: the birds fly in the open air below the expanse
 
 Grammar notes:
-- וַיֹּאמֶר opens the speech. It is a wayyiqtol of אָמַר, rendered 'God said' with no connective. The speech runs to the end of the verse.
-- יִשְׁרְצוּ and יְעוֹפֵף are yiqtol forms in God's speech. They carry volitive force, so the English supplies 'let'. The subject of יִשְׁרְצוּ is הַמַּיִם; the subject of יְעוֹפֵף is the birds.
-- שֶׁרֶץ נֶפֶשׁ חַיָּה is a construct chain, 'swarm of living creature'. The construct שֶׁרֶץ governs the two nouns after it, and חַיָּה is feminine to agree with נֶפֶשׁ.
-- The etnaḥta on חַיָּה closes the first clause, the waters and their swarms. The pashta on וְעוֹף opens the second, the birds. The zaqef qaton on הָאָרֶץ and the tipḥa on פְּנֵי divide the two place phrases, and the silluq on הַשָּׁמָיִם ends the verse.
+- יִשְׁרְצוּ is a yiqtol with jussive force: 'let the waters swarm'. It is transitive, with שֶׁרֶץ as its object.
+- שֶׁרֶץ is in the construct state before נֶפֶשׁ חַיָּה: 'swarmers of living creatures'.
+- וְעוֹף is a collective singular, and יְעוֹפֵף is a polel (intensive, repeated motion): 'fly about'.
+- The etnaḥta on חַיָּה divides the verse: the waters' part, then the birds' part.
+- עַל־הָאָרֶץ and עַל־פְּנֵי רְקִיעַ הַשָּׁמָיִם are two parallel locations of the birds; the expanse of 1:6-8 is the setting.
 
-Translator's note: The English keeps the two clauses in the Hebrew's order: the waters and their swarms first, then the birds. 'Bring forth' for יִשְׁרְצוּ follows Ibn Ezra's transitive reading and Radak's sense of birth. 'Expanse of the sky' for רָקִיעַ keeps the lexicon's sense and does not decide whether the expanse is a solid vault.
+Translator's note: Ibn Ezra reads יִשְׁרְצוּ as transitive (as in Exodus 7:28) and says the sense is 'bring forth offspring', so the English gives the waters a cognate object. 'living creatures' renders נֶפֶשׁ חַיָּה following Rashi (a being with life in it). For על פני רקיע the Gaon, cited by Ibn Ezra, takes the birds to fly in the air below the expanse; the English 'across the expanse of the sky' keeps the Hebrew's preposition without deciding this.
 
 Commentary rulings:
-- `rashi:1:20:1` follows: Rashi glosses נֶפֶשׁ חַיָּה as 'that there be vitality in it' (שֶׁיְּהֵא בָהּ חַיּוּת): the creature is alive in itself. The English 'living creatures' follows him.
-- `rashi:1:20:2` follows: Rashi: any living thing not raised above the earth is called שֶׁרֶץ, including flies among the fowl, mice and moles among the beasts, and all fish. The English 'swarms of living creatures' takes the whole class.
-- `ibn-ezra:1:20:1` follows: Ibn Ezra reads יִשְׁרְצוּ as transitive, 'bring forth', like ושרץ היאור צפרדעים (Exod 7:28). He also takes the raqia as the air through which the birds fly, and cites the Gaon's reading of עַל פְּנֵי as 'with the face of'. The English follows the transitive reading and keeps the expanse open to his reading.
-- `radak:1:20:1` follows: Radak: שרצה is begetting with multiplication (הַהוֹלָדָה עִם הָרִבּוּי), and the waters are named first because they lie above the earth. 'Bring forth' fits his sense of birth.
-- apparatus: 1:20.3 יִשְׁרְצוּ: the intransitive 'swarm, teem' is the alternative. The English takes Ibn Ezra's transitive 'bring forth'.
-- apparatus: 1:20.14 רְקִיעַ: Ibn Ezra identifies the expanse with the air, and the Gaon reads עַל פְּנֵי as 'with the face of'. The English keeps 'expanse of the sky' and adopts neither point.
+- `rashi:1:20:1` follows: Rashi: נֶפֶשׁ חַיָּה means 'that there be life in it' (שֶׁיְּהֵא בָהּ חַיּוּת).
+- `rashi:1:20:2` follows: Rashi: anything alive that is not tall off the ground is called שֶׁרֶץ: flies among birds, ants and worms among the vermin, mole and mouse among beasts, and all fish.
+- `ibn-ezra:1:20:1` follows: Ibn Ezra: יִשְׁרְצוּ is transitive, like 'the Nile shall swarm with frogs' (Exodus 7:28); the sense is 'offspring with height'. The birds fly 'across the face of the expanse'; the Gaon takes פני with the following noun, so the face of the heavens is below, and יְעוֹפֵף is of the form of 'until he establish' (Isaiah 62:7).
+- apparatus: The Gaon (cited by Ibn Ezra): עַל־פְּנֵי is 'on the face of', so the birds fly below the expanse; the plain preposition is kept in the English.
 
 ## Genesis 1:21
 
@@ -140,64 +139,62 @@ Hebrew (MAM): וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת־הַתַּנִּ
 
 ### Translation under review (1:21)
 
-English: God created the great sea creatures, and every living creature that creeps, which the waters brought forth after their kinds, and every winged bird after its kind. God saw that it was good.
+English: And God created the great sea creatures and every living creature that moves, with which the waters swarmed, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
 
-Literal: and-created God OBJ the-sea-creatures the-great; and-OBJ all living-creature the-creeping which brought-forth the-waters after-their-kinds; and-OBJ all bird-of-wing after-its-kind; and-saw God that good
+Literal: and-created God [object-marker] the-sea-monsters the-great and [object-marker] every-of creature-of the-living the-moving which swarmed the-waters to-kinds-their and [object-marker] every-of bird-of wing to-kind-its and-saw God that good
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:21.1 | and created |  | Qal | Wayyiqtol of בָּרָא, 'create', the verb of 1:1. The English keeps 'create'. |
-| 1:21.2 | God |  | 3 |  |
-| 1:21.3 | (object marker) |  |  | Marks the definite direct object that follows. It has no English word. |
-| 1:21.4 | the sea creatures |  |  | The lexicon gives 'serpent, dragon, sea-monster' with no senses. Rashi reads the plural as great fish of the sea, so the English avoids 'dragon' and 'monster'. |
-| 1:21.5 | great |  |  | The lexicon's senses for גָּדוֹל (loud, do great things, greatness) do not give plain 'great', so no sense is given. |
-| 1:21.6 | and (object marker) |  |  | The vav joins a new object; the marker repeats before 'every living creature'. |
-| 1:21.7 | every |  | 1 | כֹּל before a construct noun: 'every'. |
-| 1:21.8 | creature |  | 1 |  |
-| 1:21.9 | living |  | 1.c |  |
-| 1:21.10 | that creeps |  |  | Feminine participle agreeing with נֶפֶשׁ. The lexicon's 'creep, move lightly' is the sense taken. Ibn Ezra and Radak gloss 'walking'. |
-| 1:21.11 | which |  |  | The relative אֲשֶׁר introduces a clause on 'every living creature'. |
-| 1:21.12 | brought forth |  |  | Qatal of שָׁרַץ with the waters as subject. The same sense as 'bring forth' in 1:20.3. |
+| 1:21.1 | and created |  | Qal | wayyiqtol; the verb בָּרָא has God alone as subject |
+| 1:21.2 | God |  | 2.d |  |
+| 1:21.3 | (object marker) |  |  |  |
+| 1:21.4 | the sea creatures |  |  | Rashi: great fish of the sea; the aggadah makes them Leviathan and his mate |
+| 1:21.5 | the great |  | 10 | adjective in agreement, with the article |
+| 1:21.6 | and (object marker) |  |  |  |
+| 1:21.7 | every |  | 1 | construct state |
+| 1:21.8 | creature of |  | 1 |  |
+| 1:21.9 | the living |  | 1.c |  |
+| 1:21.10 | the moving |  |  | feminine participle, agreeing with נֶפֶשׁ; Ibn Ezra: 'the going' |
+| 1:21.11 | which |  |  |  |
+| 1:21.12 | swarmed |  |  | perfect, relative clause |
 | 1:21.13 | the waters |  |  |  |
-| 1:21.14 | after their kinds |  |  | ל with מִין and a 3rd-person plural suffix: 'by their kind'. |
-| 1:21.15 | and (object marker) |  |  | The vav joins the second object list, the birds. |
+| 1:21.14 | according to their kinds |  |  | ל + מִין + suffix: 'to their kind' |
+| 1:21.15 | and (object marker) |  |  |  |
 | 1:21.16 | every |  | 1 |  |
-| 1:21.17 | bird |  | 1 |  |
-| 1:21.18 | winged |  |  | Construct chain 'bird of wing', read as 'winged bird'. |
-| 1:21.19 | after its kind |  |  | ל with מִין and a 3rd-person masculine singular suffix. The English takes it as 'after its kind' for each species. |
-| 1:21.20 | and saw |  | Qal 1.a | Wayyiqtol of רָאָה. |
-| 1:21.21 | God |  | 3 |  |
-| 1:21.22 | that |  | 1 | כִּי introduces the object of 'saw'. |
-| 1:21.23 | good |  | 3 | Verbless clause, 'that good'. The English supplies 'it was'. |
+| 1:21.17 | bird of |  | 1 | construct state |
+| 1:21.18 | wing |  |  |  |
+| 1:21.19 | according to its kind |  |  | singular suffix, collective |
+| 1:21.20 | and saw |  | Qal 1.a | wayyiqtol |
+| 1:21.21 | God |  | 2.d |  |
+| 1:21.22 | that |  | 1 |  |
+| 1:21.23 | good |  | 3 |  |
 
 Phrases:
-- 1:21.1 1:21.2 | God created | and-created God; the verb of 1:1, with God as subject
-- 1:21.3 | - | object marker, no English counterpart
-- 1:21.4 1:21.5 | the great sea creatures | the-sea-creatures the-great; Rashi: great fish of the sea
-- 1:21.6 1:21.7 1:21.8 1:21.9 | and every living creature | and-OBJ all creature the-living; the second object list opens with the vav and the marker
-- 1:21.10 | that creeps | the-creeping (feminine participle); relative to 'every living creature'
-- 1:21.11 1:21.12 1:21.13 1:21.14 | which the waters brought forth after their kinds | which brought-forth the-waters after-their-kinds; the waters are the subject, as in 1:20.3
-- 1:21.15 1:21.16 1:21.17 1:21.18 1:21.19 | and every winged bird after its kind | and-OBJ all bird-of-wing after-its-kind; the second list, for the birds
-- 1:21.20 1:21.21 | God saw | and-saw God; the wayyiqtol carries on the narrative
-- 1:21.22 1:21.23 | that it was good | that good; the clause has no verb, so 'it was' is supplied
+- 1:21.1 1:21.2 1:21.3 | And God created | 'and-created God [object marker]'
+- 1:21.4 1:21.5 | the great sea creatures | 'the-sea-monsters the-great'; Rashi: great fish of the sea
+- 1:21.6 1:21.7 1:21.8 1:21.9 | and every living creature | 'and-[marker] every-of creature-of the-living'
+- 1:21.10 | that moves | 'the-moving' (feminine participle)
+- 1:21.11 1:21.12 1:21.13 | with which the waters swarmed | 'which swarmed the-waters'; the waters are the subject, the creatures what they swarmed with
+- 1:21.14 | according to their kinds | 'to-kinds-their'
+- 1:21.15 1:21.16 1:21.17 1:21.18 | and every winged bird | 'and-[marker] every-of bird-of wing'
+- 1:21.19 | according to its kind | 'to-kind-its'
+- 1:21.20 1:21.21 | And God saw | 'and-saw God'
+- 1:21.22 1:21.23 | that it was good | 'that good'
 
 Grammar notes:
-- וַיִּבְרָא is a wayyiqtol of בָּרָא, 'create'. It is the verb of 1:1 and is used here for the great creatures, so the English keeps 'create' rather than 'make'.
-- הָרֹמֶשֶׂת is a feminine participle that agrees with נֶפֶשׁ הַחַיָּה, which is feminine. The English 'that creeps' is a relative clause on 'every living creature'.
-- אֲשֶׁר שָׁרְצוּ הַמַּיִם is a relative clause. The verb is a qatal of שָׁרַץ and the waters are its subject, so the English 'which the waters brought forth' matches 1:20.3.
-- The etnaḥta on הַגְּדֹלִים closes the first clause. The pazer on הָרֹמֶשֶׂת and the telisha on אֲשֶׁר mark the relative phrase, and the zaqef qaton on לְמִינֵהוּ closes the second list. The silluq on טוֹב ends the verse.
-- God saw is a wayyiqtol, and כִּי טוֹב is a verbless clause, 'that good'. The English supplies 'it was' to give the clause a verb.
+- The verse opens with בָּרָא, used only of God. The great sea creatures are named first, then all living things, then birds.
+- הָרֹמֶשֶׂת is a feminine singular participle agreeing with נֶפֶשׁ; Ibn Ezra glosses it as 'the going'.
+- אֲשֶׁר שָׁרְצוּ הַמַּיִם is a relative clause with no resumptive word: 'which the waters swarmed (with)'.
+- לְמִינֵהֶם (plural suffix) and לְמִינֵהוּ (singular suffix) divide creatures by kind; the birds are a single collective.
+- The accent geresh and qadma mark the relative clause as a unit; the etnaḥta falls after הַגְּדֹלִים.
 
-Translator's note: The verse has two lists joined by 'and'. 'Great sea creatures' keeps Rashi's plain sense, fish of the sea, and drops the Leviathan aggada, which the English does not take up. 'Creeps' is the lexicon's sense; Ibn Ezra's and Radak's 'walking' is recorded in the commentary.
+Translator's note: תַּנִּינִם is rendered 'sea creatures' following Rashi (great fish of the sea); 'sea monsters' would also fit the lexicon, and Rashi's aggadic Leviathan is recorded in the commentary. The suffix on לְמִינֵהֶם is plural, matching the many swimming creatures, and on לְמִינֵהוּ singular, matching the collective bird.
 
 Commentary rulings:
-- `rashi:1:21:1` follows: Rashi: the תַּנִּינִם הַגְּדֹלִים are 'great fish of the sea' (דָּגִים גְּדוֹלִים שֶׁבַּיָּם). He adds the aggada of Leviathan and his mate, killed and salted for the righteous, which the English does not take up.
-- `rashi:1:21:2` follows: Rashi glosses נֶפֶשׁ הַחַיָּה as a living thing 'in which there is life' (שֶׁיֵּשׁ בָּהּ חַיּוּת). The English 'living creature' follows him.
-- `ibn-ezra:1:21:1` records: Ibn Ezra glosses הָרֹמֶשֶׂת 'in the sense of הוֹלֶכֶת', walking, and notes an opinion about the placement of the shin under the samekh. The English keeps the lexicon's 'creeps', so his 'walking' is recorded here.
-- `ramban:1:21:1` follows: Ramban explains bara for these creatures by their size and by creation from nothing, as in 1:1. The English keeps 'created' and does not take up the Leviathan aggada he cites.
-- apparatus: 1:21.4 תַּנִּינִם: Rashi's 'great fish of the sea' is the plain sense. Ramban's and the aggada's Leviathan is not adopted.
-- apparatus: 1:21.5 גְּדֹלִים: no sense is given, because the lexicon's senses for גָּדוֹל do not include plain 'great'.
-- apparatus: 1:21.10 הָרֹמֶשֶׂת: 'creeping' from the lexicon against Ibn Ezra's and Radak's 'walking'. The English takes the lexicon.
+- `rashi:1:21:1` follows: Rashi: הַתַּנִּינִם are the great fish of the sea; in aggadah they are Leviathan and his mate, created male and female, after which the female was killed and salted for the righteous in the future, since if they bred the world could not stand before them.
+- `rashi:1:21:2` follows: Rashi: נֶפֶשׁ הַחַיָּה means 'that has life in it'.
+- `ibn-ezra:1:21:1` follows: Ibn Ezra: הָרֹמֶשֶׂת has the sense of הוֹלֶכֶת, 'going'; some say the shin stands in place of a samekh.
+- apparatus: Some (cited by Ibn Ezra) take the shin of הָרֹמֶשֶׂת to be a samekh, as in the verb 'to creep'; the English 'moves' fits either.
 
 ## Genesis 1:22
 
@@ -237,49 +234,50 @@ Hebrew (MAM): וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ�
 
 ### Translation under review (1:22)
 
-English: God blessed them, saying, 'Bear fruit and become numerous, and fill the waters in the seas, and let the birds become numerous on the earth.'
+English: And God blessed them, saying, "Be fruitful and multiply and fill the waters in the seas, and let the birds multiply on the land."
 
-Literal: and-blessed them God saying: bear-fruit and-become-many, and-fill OBJ the-waters in-the-seas; and-the-birds let-become-many on-the-earth
+Literal: and-blessed [object-marker]-them God to-say be-fruitful and-multiply and-fill [object-marker] the-waters in-the-seas and-the-bird multiply in-the-earth
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:22.1 | and blessed |  | Pi 2 | Piel wayyiqtol of בָּרַךְ. God is the subject. |
-| 1:22.2 | them |  |  | The object marker with a 3rd-person masculine plural suffix. |
-| 1:22.3 | God |  | 3 |  |
-| 1:22.4 | saying |  | Qal 1 | Infinitive construct with ל, introducing the speech. |
-| 1:22.5 | bear fruit |  | Hiph 3 | The pack parses פְּרוּ as qal imperative, but the lexicon lists only Hiph senses. 'Bear fruit' is the nearest, and it follows Rashi's 'make fruit'. |
-| 1:22.6 | and become numerous |  | Qal 1 | Qal imperative of רָבָה, 'become many'. Rashi reads it as one parent producing many. |
-| 1:22.7 | and fill |  | Qal 2 |  |
-| 1:22.8 | (object marker) |  |  | Marks the direct object 'the waters'. |
+| 1:22.1 | and blessed |  | Pi 2 | piel wayyiqtol |
+| 1:22.2 | them |  |  | object marker with a plural suffix |
+| 1:22.3 | God |  | 2.d |  |
+| 1:22.4 | saying |  | Qal 1 | infinitive construct with ל, introducing speech |
+| 1:22.5 | be fruitful |  | Hiph 3 | imperative; the root is used in the Qal |
+| 1:22.6 | and multiply |  | Qal 1 | imperative |
+| 1:22.7 | and fill |  | Qal 2 | imperative |
+| 1:22.8 | (object marker) |  |  |  |
 | 1:22.9 | the waters |  |  |  |
-| 1:22.10 | in the seas |  |  | The locative בַּ with the plural of יָם. The English reads it as a place, as in the apparatus. |
-| 1:22.11 | and the birds |  | 1 |  |
-| 1:22.12 | become numerous |  | Qal 1 | Third-person jussive. The birds are the subject of a wish, not addressed directly as the waters are. |
-| 1:22.13 | on the earth |  | 1.a |  |
+| 1:22.10 | in the seas |  |  |  |
+| 1:22.11 | and the bird |  | 1 | collective singular |
+| 1:22.12 | let multiply |  | Qal 1 | jussive, shortened form |
+| 1:22.13 | on the land |  | 1.a |  |
 
 Phrases:
-- 1:22.1 1:22.2 1:22.3 | God blessed them | and-blessed them God; a piel wayyiqtol with God as subject
-- 1:22.4 | saying | saying; infinitive construct introducing the speech
-- 1:22.5 1:22.6 | bear fruit and become numerous | bear-fruit and-become-many; the two imperatives of the blessing
-- 1:22.7 1:22.8 1:22.9 1:22.10 | and fill the waters in the seas | and-fill OBJ the-waters in-the-seas; the object marker has no English counterpart
-- 1:22.11 1:22.12 1:22.13 | and let the birds become numerous on the earth | and-the-birds let-become-many on-the-earth; a jussive with the birds as subject
+- 1:22.1 1:22.2 1:22.3 | And God blessed them | 'and-blessed them God'
+- 1:22.4 | saying | 'to-say'
+- 1:22.5 | Be fruitful | 'be-fruitful'; Rashi: make fruit
+- 1:22.6 | and multiply | 'and-multiply'; Rashi: one begets many
+- 1:22.7 1:22.8 1:22.9 | and fill the waters | 'and-fill [marker] the-waters'
+- 1:22.10 | in the seas | 'in-the-seas'
+- 1:22.11 1:22.12 | and let the birds multiply | 'and-the-bird multiply'; jussive, third person
+- 1:22.13 | on the land | 'in-the-earth'
 
 Grammar notes:
-- וַיְבָרֶךְ אֹתָם is a piel wayyiqtol of בָּרַךְ, 'bless', with God as subject. The object marker with its suffix gives 'them'.
-- לֵאמֹר is an infinitive construct with the preposition ל. It introduces the speech, so the English needs 'saying'.
-- The imperatives פְּרוּ, וּרְבוּ and וּמִלְאוּ are second-person plural. They are addressed to the creatures, which is why the English can use direct commands.
-- The jussive יִרֶב is third-person, with the birds as its subject. The English 'let the birds become numerous' keeps this shift from the imperatives.
-- The zaqef qaton on בַּיַּמִּים closes the first half of the blessing. The tipḥa on וְהָעוֹף and the merkha on יִרֶב divide the second half, and the silluq on בָּאָרֶץ ends the verse.
+- Three plural imperatives, פְּרוּ וּרְבוּ וּמִלְאוּ, address the sea creatures; the birds are addressed in the third person with the jussive יִרֶב.
+- פְּרוּ is from פָּרָה and רְבוּ from רָבָה; the pair is a standard blessing formula.
+- The first blessing in Genesis is given to living creatures; the same words are spoken to humans in 1:28.
+- The etnaḥta on לֵאמֹר sets off the speech; the zaqef on בַּיַּמִּים divides the sea's part from the birds' part.
 
-Translator's note: 'Bear fruit' takes Rashi's 'make fruit' for פְּרוּ. 'Become numerous' takes Rashi's point that each parent produces many. 'In the seas' is the literal locative; the apparatus records a wider reading.
+Translator's note: Rashi reads the blessing as a response to the creatures' vulnerability (they are hunted and eaten), which the English does not need. Ibn Ezra takes the imperatives as promises ('you will be fruitful'), not commands, since this is not in their power; the English keeps the imperative and records his reading. The lexicon lists פָּרָה only in the Hiphil; the pack's parse is Qal, and the data are kept.
 
 Commentary rulings:
-- `rashi:1:22:1` follows: Rashi: the creatures needed a blessing because hunters and humans diminish them. The beasts were not blessed, because of the serpent destined for a curse. The English 'them' is the fish and the birds only.
-- `rashi:1:22:2` follows: Rashi glosses פְּרוּ as 'make fruit' (עֲשׂוּ פֵּרוֹת). The English 'bear fruit' follows him.
-- `rashi:1:22:3` follows: Rashi: had God said only פְּרוּ, each would beget one; וּרְבוּ means that each begets many. The English 'become numerous' keeps this second sense of the verb.
-- `ibn-ezra:1:22:1` records: Ibn Ezra reads פרו ורבו as future, 'you shall bear fruit and multiply' (תפרו ותרבו), comparing ומות בהר (Deut 32:50), because the blessing is not in their own power. The English keeps the Hebrew's imperative form.
-- apparatus: 1:22.10 בַּיַּמִּים: 'in the seas' is the literal locative. Ramban (not normative) reads the blessing as also covering rivers and pools.
-- apparatus: 1:22.5 פְּרוּ: the pack parses the form as qal, but the lexicon lists only Hiph senses for פָּרָה. The English follows Rashi's 'make fruit' and the Hiph sense 'bear fruit'.
+- `rashi:1:22:1` not-applicable: Rashi: because creatures of the sea are diminished, caught and eaten, they needed a blessing; the land animals needed one too, but the serpent, destined for a curse, was left out so that it would not be included.
+- `rashi:1:22:2` follows: Rashi: פְּרוּ means 'make fruit', from פְּרִי.
+- `rashi:1:22:3` follows: Rashi: if the text said only 'be fruitful' one would beget one and no more; 'multiply' means one begets many.
+- `ibn-ezra:1:22:1` records: Ibn Ezra: the sense of פְּרוּ וּרְבוּ is 'you will be fruitful, you will multiply', as in 'and die on the mountain' (Deuteronomy 32:50), because this is not in their power.
+- apparatus: Ibn Ezra: the imperatives are promises, not commands.
 
 ## Genesis 1:23
 
@@ -303,29 +301,30 @@ Paragraph mark after this verse: פ
 
 ### Translation under review (1:23)
 
-English: There was evening, and there was morning: the fifth day.
+English: And there was evening and there was morning, a fifth day.
 
-Literal: and-there-was evening, and-there-was morning: day fifth
+Literal: and-was evening and-was morning day fifth
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 1:23.1 | and there was |  | Qal III.1 | Wayyiqtol of הָיָה in the existential sense, 'there was'. |
-| 1:23.2 | evening |  | 1.a | Absolute, with no article. |
-| 1:23.3 | and there was |  | Qal III.1 | The same wayyiqtol, repeated for the morning. |
-| 1:23.4 | morning |  | 1 | Absolute, with no article. |
+| 1:23.1 | and was |  | Qal I.2.a.(1) | wayyiqtol of הָיָה |
+| 1:23.2 | evening |  | 1.a |  |
+| 1:23.3 | and was |  | Qal I.2.a.(1) | wayyiqtol of הָיָה |
+| 1:23.4 | morning |  | 1 |  |
 | 1:23.5 | day |  | 1 |  |
-| 1:23.6 | fifth |  |  | Ordinal adjective agreeing with יוֹם. The lexicon gives no sense for the ordinal. |
+| 1:23.6 | fifth |  |  | ordinal; no article, as for days two to five |
 
 Phrases:
-- 1:23.1 1:23.2 | There was evening | and-there-was evening; the wayyiqtol's ו is not rendered at the start of the refrain
-- 1:23.3 1:23.4 | and there was morning | and-there-was morning; the second half of the refrain
-- 1:23.5 1:23.6 | the fifth day | day fifth; the day named by its ordinal, after the colon
+- 1:23.1 1:23.2 | And there was evening | 'and-was evening'
+- 1:23.3 1:23.4 | and there was morning | 'and-was morning'
+- 1:23.5 1:23.6 | a fifth day | 'day fifth'
 
 Grammar notes:
-- וַיְהִי is a wayyiqtol of הָיָה in the existential sense, 'there was'. The refrain repeats it for the morning.
-- עֶרֶב and בֹּקֶר are absolute nouns, with no article. Evening is named first, as in the text.
-- יוֹם חֲמִישִׁי: the ordinal חֲמִישִׁי agrees with יוֹם, 'the fifth day'. The English gives the ordinal in words.
-- The merkha on עֶרֶב and the tipḥa on בֹּקֶר divide the refrain. The silluq on חֲמִישִׁי ends the verse. The petucha (פ) after the verse is a paragraph break in the text.
+- The formula is the same as for the earlier days; the sequence evening, then morning, makes each day begin at evening.
+- יוֹם חֲמִישִׁי has no article: 'a fifth day', as for the second to the fifth days.
+- The ordinal חֲמִישִׁי is formed from the number five.
+
+Translator's note: The phrase is rendered 'a fifth day' to keep the lack of the article.
 
 Commentary rulings:
 

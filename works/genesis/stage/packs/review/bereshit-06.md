@@ -25,36 +25,36 @@ Hebrew (MAM): וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶ
 
 ### Translation under review (2:1)
 
-English: So the heavens and the earth were finished, and all their host.
+English: So the heavens and the earth were completed, and all their host.
 
-Literal: and-were-finished the-heavens and-the-earth and-all-their-host
+Literal: and-were-completed the-heavens and-the-earth and-all-of host-their
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:1.1 | and were finished |  | Qal 1.b | Pual (passive) wayyiqtol of כָּלָה. The lexicon lists no Pual sense, so the nearest sense is Qal 1.b, 'be completed, finished'. The doer is not named. |
-| 2:1.2 | the heavens |  | 1.a | שָׁמַיִם is plural in form; the verb is masculine plural to agree with the compound subject. |
+| 2:1.1 | and were completed |  | Pi 1.b | Pual wayyiqtol, 3rd masculine plural: passive of the Piel 'complete'; the lexicon lists only Qal and Piel, so the Piel sense is the nearest. |
+| 2:1.2 | the heavens |  | 1.a |  |
 | 2:1.3 | and the earth |  | 1.a |  |
-| 2:1.4 | and all |  | 1 | וְכׇל־ is the construct of כֹּל, joined by a maqqef to the noun that follows. |
-| 2:1.5 | their host |  | 1 | צָבָא with the 3rd plural masculine suffix. The silluq closes the verse. |
+| 2:1.4 | and all of |  | 1 | construct, bound by the maqqef to the next word |
+| 2:1.5 | their host |  | 1 | construct form with the suffix -ām; 'host' is the whole array of what fills heaven and earth |
 
 Phrases:
-- 2:1.1 2:1.2 2:1.3 | So the heavens and the earth were finished | 'and-were-finished the-heavens and-the-earth': a passive, so the heavens and the earth are what is finished. The ו of the wayyiqtol is rendered 'So', as the sequel to 1:31.
-- 2:1.4 2:1.5 | and all their host | 'and-all-their-host': the host is added to the heavens and the earth. Ibn Ezra counts the sea within 'the earth'.
+- 2:1.1 2:1.2 2:1.3 | So the heavens and the earth were completed | 'and-were-completed the-heavens and-the-earth'; the passive verb has the two nouns as subject
+- 2:1.4 2:1.5 | and all their host | 'and-all-of host-their'
 
 Grammar notes:
-- וַיְכֻלּוּ is a pual wayyiqtol, third person masculine plural. The form is passive, and the verb comes before its subject, as in narrative sequence.
-- The plural verb agrees with a compound subject, the heavens and the earth with the host added. שָׁמַיִם is grammatically plural.
-- The tipḥa on הָאָרֶץ and the silluq on צְבָאָם divide the verse into the pair of heavens and earth and the closing addition of the host.
-- The lemma כָּלָה lists Qal and Piel senses but no Pual; the sense is taken from Qal 1.b, which fits the passive.
+- וַיְכֻלּוּ is Pual (passive): the heavens and earth 'were completed', with no agent named.
+- The wayyiqtol וַ + יְכֻלּוּ continues the narrative of chapter 1 and closes it.
+- The tevir on וַיְכֻלּוּ and the tipḥa on וְהָאָרֶץ divide the verse; the silluq ends it.
+- צְבָאָם ('their host') is normally an army or the stars; here it covers everything that fills heaven and earth.
 
-Translator's note: The English reads the passive as 'were finished', which is Ibn Ezra's sense. 'So' carries the sequential ו. The sea is not named, though Ibn Ezra counts it within 'the earth'.
+Translator's note: 'So' renders the narrative waw. 'Host' is kept literal, because the commentators differ on what it contains (living things, luminaries, angels).
 
 Commentary rulings:
-- `ibn-ezra:2:1:1` follows: Ibn Ezra: the verb is in the passive pattern in which the doer is not named, and it means 'were completed'. The sea is included in 'the earth', since the parts form one unit. The English takes the passive 'were finished'.
-- `onkelos:2:1:1` follows: Targum Onkelos renders the verse as a passive, 'the heavens and the earth were completed, and all their hosts'. This agrees with the English.
-- `radak:2:1:1` records: Radak reads 'the host of heaven and the host of earth' as their generations, all of which were finished on the sixth day. The English keeps the word 'host' and does not adopt this sense.
-- `ramban:2:1:1` records: Ramban takes 'the host of the earth' as the beasts, creeping things, fish, plants and man, and 'the host of heaven' as the luminaries and stars. The English keeps the general word 'host'.
-- apparatus: Open: 'host' (צְבָא) may mean the heavenly and earthly hosts (Ramban) or their generations (Radak). The English keeps 'host'.
+- `ibn-ezra:2:1:1` follows: Ibn Ezra: the form is passive, the agent not named; the sense is 'were finished'. The sea is included in 'earth', since sea and land are as one bundle.
+- `ramban:2:1:1` records: Ramban: the host of earth is the creatures and plants and humans; the host of heaven is the luminaries and stars, and may also include the separate intellects (angels). The English keeps 'host' and does not decide this.
+- `radak:2:1:1` records: Radak: the host are the offspring of heaven and earth, all finished on the sixth day; after that nothing new is made except by miracle.
+- `onkelos:2:1:1` follows: Onkelos renders the passive 'were completed' (אשתכללו) and 'their hosts'.
+- `sforno:2:1:1` follows: Sforno: the verb means that the purpose of existence was attained, in its entirety.
 
 ## Genesis 2:2
 
@@ -96,46 +96,50 @@ Hebrew (MAM): וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשּׁ�
 
 English: On the seventh day God finished his work that he had made, and on the seventh day he rested from all his work that he had made.
 
-Literal: and-finished God on-day the-seventh his-work that-he-made and-rested on-day the-seventh from-all his-work that-he-made
+Literal: and-finished God on-the-day the-seventh work-his which he-made and-rested on-the-day the-seventh from-all-of work-his which he-made
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:2.1 | and finished |  | Pi 1.a | Piel wayyiqtol of כָּלָה: the intensive stem, 'finish, bring to an end'. The object follows the subject and the time phrase. |
-| 2:2.2 | God |  | 3 | A plural form (אֱלֹהִים) with a singular verb, as always for the God of Israel. |
-| 2:2.3 | on day |  | 1 | בְּ + יוֹם. The article is on the ordinal that follows. |
-| 2:2.4 | the seventh |  |  | הַ + שְׁבִיעִי: 'the seventh day', with the article on the adjective. |
-| 2:2.5 | his work |  | 3 | The feminine construct מְלֶאכֶת before the suffix -וֹ, 'his'. |
-| 2:2.6 | that |  |  | The relative אֲשֶׁר introduces the clause 'that he had made'. |
-| 2:2.7 | he had made |  | Qal II.1 | Qatal of עָשָׂה in a relative clause. Here the verb means 'make', as of creation. |
-| 2:2.8 | and he rested |  | Qal 2 | Wayyiqtol of שָׁבַת. The Sabbath (שַׁבָּת) is named from this root. |
-| 2:2.9 | on day |  | 1 |  |
-| 2:2.10 | the seventh |  |  | The article is on the ordinal, as in 2:2.4. |
-| 2:2.11 | from all |  | 1 | מִ + כֹּל in the construct, 'from all of'. |
+| 2:2.1 | and finished |  | Pi 1.a | Piel wayyiqtol: 'completed, brought to an end' |
+| 2:2.2 | God |  | 3 |  |
+| 2:2.3 | on the day |  | 1 |  |
+| 2:2.4 | the seventh |  |  |  |
+| 2:2.5 | his work |  | 3 | construct with suffix |
+| 2:2.6 | that |  |  |  |
+| 2:2.7 | he had made |  | Qal II.1 | qatal in a relative clause, read as a past before the main verb: 'had made' |
+| 2:2.8 | and rested |  | Qal 2 | wayyiqtol of שָׁבַת; the verb is the root of 'Sabbath' |
+| 2:2.9 | on the day |  | 1 |  |
+| 2:2.10 | the seventh |  |  |  |
+| 2:2.11 | from all of |  | 1 | מִן 'from' joined to כָּל; the maqqef binds them |
 | 2:2.12 | his work |  | 3 |  |
 | 2:2.13 | that |  |  |  |
 | 2:2.14 | he had made |  | Qal II.1 |  |
 
 Phrases:
-- 2:2.1 2:2.2 2:2.3 2:2.4 | On the seventh day God finished | 'and-finished God on-day the-seventh': the Piel verb first, then the subject and the time. The English moves the time phrase to the front.
-- 2:2.5 2:2.6 2:2.7 | his work that he had made | 'his-work that-he-made': the relative clause is in the qatal, read as a pluperfect.
-- 2:2.8 2:2.9 2:2.10 | and on the seventh day he rested | 'and-rested on-day the-seventh'. The verb of rest is the root of the Sabbath.
-- 2:2.11 2:2.12 2:2.13 2:2.14 | from all his work that he had made | 'from-all his-work that-he-made': the same relative clause as in the first half.
+- 2:2.1 2:2.2 2:2.3 2:2.4 | On the seventh day God finished | 'and-finished God on-the-day the-seventh'; Rashi: he entered the day by a hair's breadth and it seemed that he finished in it
+- 2:2.5 2:2.6 2:2.7 | his work that he had made | 'work-his which he-made'
+- 2:2.8 2:2.9 2:2.10 | and on the seventh day he rested | 'and-rested on-the-day the-seventh'
+- 2:2.11 2:2.12 2:2.13 2:2.14 | from all his work that he had made | 'from-all-of work-his which he-made'
 
 Grammar notes:
-- וַיְכַל is a Piel wayyiqtol of כָּלָה with God as subject: 'and he finished'. The object מְלַאכְתּוֹ follows the time phrase.
-- The plural אֱלֹהִים takes singular verbs (wayyekhal, wayyishbot) throughout the verse.
-- The relative clause מְלַאכְתּוֹ אֲשֶׁר עָשָׂה has its verb in the qatal, 'he had made', so the English uses the pluperfect in both halves.
-- The etnaḥta on עָשָׂה (2:2.7) divides the verse in two. The two halves run in parallel: finishing and resting, each with the seventh day and the work.
+- The verse repeats 'on the seventh day' and 'his work that he made' in two clauses: he finished, and he rested.
+- The etnaḥta after עָשָׂה divides the verse into the finishing and the resting.
+- וַיִּשְׁבֹּת is the verb from which 'Sabbath' comes; its sense is 'cease, desist', not 'be weary'.
+- אֲשֶׁר עָשָׂה is a qatal inside a relative clause; the English pluperfect 'had made' shows that the work was done before.
+- The ב of בַּיּוֹם can mean 'on' or, as Ibn Ezra takes it, 'by' / 'before'.
 
-Translator's note: The English follows Rashi's 'on the seventh day'. Ibn Ezra reads the bet as 'before', so that the work was finished by the sixth day; that reading is recorded, not adopted. 'Rested' keeps the basic sense of the verb.
+Translator's note: The English keeps 'On the seventh day' (Rashi's reading and the plain Hebrew). Ibn Ezra reads the ב as 'by', that is the work was finished before the seventh day, and this is recorded. The verbs finished and rested are not the same: 'finished' is Piel of כלה, 'rested' is Qal of שבת.
 
 Commentary rulings:
-- `rashi:2:2:1` follows: Rashi, citing R. Shimon: God, who knows the exact moment, let the Sabbath enter 'like a hair's breadth', so the work appears finished on the day itself. The world lacked only rest, and when Shabbat came the work was complete. The English 'on the seventh day God finished' follows this.
-- `ibn-ezra:2:2:1` records: Ibn Ezra rejects as insipid the view that the creation of the seventh day completed the work. He reads the bet of בַּיּוֹם as 'before', so that God finished before the seventh day, and reads וַיְכַל and וַיִּשְׁבֹּת the same way. The English does not adopt this.
-- `ibn-ezra:2:2:2` records: Ibn Ezra takes 'his work that he had made' to mean the work made on the sixth day, before the Sabbath. The English does not name the day of the making and keeps the relative clause as written.
-- `ibn-ezra:2:2:3` follows: Ibn Ezra glosses 'from all his work' as 'from all the creatures that he created'. The English keeps 'work', which here means the making of the created world.
-- `onkelos:2:2:1` follows: Targum Onkelos has 'on the seventh day the LORD completed his work which he had done', placing the completion on the seventh day as the English does.
-- apparatus: Open: בַּיּוֹם הַשְּׁבִיעִי can mean 'on the seventh day' (Rashi, Onkelos) or 'by / before the seventh day' (Ibn Ezra). The English reads 'on'.
+- `rashi:2:2:1` follows: Rashi: God knows his times and moments exactly, so he entered the seventh day by a hair's breadth and it looked as though he finished in it; another reading: what was the world lacking? Rest; when Sabbath came, rest came, and the work was finished.
+- `ibn-ezra:2:2:1` records: Ibn Ezra rejects the view that the days were created, and takes ב as 'before', as in 'on the first day you shall remove leaven' (Ex 12:15): 'finished' means he ceased to make; also 'rested'. The English keeps the plain 'on'.
+- `ibn-ezra:2:2:2` follows: Ibn Ezra: 'his work that he made' means the work he made on the sixth day, before the Sabbath. The English 'had made' fits.
+- `ibn-ezra:2:2:3` follows: Ibn Ezra: 'rested on the seventh day from all his work' means from all the creations that he created.
+- `radak:2:2:1` records: Radak: when the seventh day came the work was complete and nothing was left to make on it; so on the seventh day he finished, in the sense that it was a finished work.
+- `radak:2:2:4` records: Radak: nothing was created after the sixth day; the Torah speaks in human language, since he does not tire; or 'rested' means 'ceased'.
+- `onkelos:2:2:1` follows: Onkelos: 'and the LORD finished on the seventh day his work' and 'rested' (נח).
+- `sforno:2:2:1` records: Sforno: at the beginning of the seventh day, the indivisible instant that begins the future time, as Genesis Rabbah has it, 'like a hair's breadth'.
+- apparatus: Rashi (R. Shimon): flesh and blood adds from the weekday to the holy day because he does not know his times; God does, so he finished exactly at the day's edge. Ibn Ezra: ב has the sense of 'before'.
 
 ## Genesis 2:3
 
@@ -183,51 +187,57 @@ Paragraph mark after this verse: פ
 
 ### Translation under review (2:3)
 
-English: God blessed the seventh day and made it holy, because on it he rested from all his work which God had created to make.
+English: God blessed the seventh day and made it holy, because on it he rested from all his work that God created in order to make.
 
-Literal: and-blessed God ACC-day the-seventh and-made-holy ACC-it because in-it rested from-all his-work which God-created to-make
+Literal: and-blessed God [object-marker] day-of the-seventh and-made-holy it because in-it he-rested from-all-of work-his which created God to-make
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:3.1 | and blessed |  | Pi 2 | Piel wayyiqtol of בָּרַךְ, with God as subject. The Qal of this root means 'kneel', a different sense. |
-| 2:3.2 | God |  | 3 | A plural form with a singular verb. |
-| 2:3.3 | (object marker) |  |  | The object marker אֵת before the definite noun 'the seventh day'. It has no English counterpart. |
-| 2:3.4 | day |  | 1 |  |
-| 2:3.5 | the seventh |  |  | The article is on the ordinal. |
-| 2:3.6 | and made holy |  | Pi 1 | Piel wayyiqtol of קָדַשׁ, 'set apart as sacred, consecrate'. The day is set apart from the working days. |
-| 2:3.7 | it |  |  | The object marker with the 3rd masculine suffix: 'it', the day. |
-| 2:3.8 | because |  | 3 | כִּי introduces the reason for the blessing and the holiness. |
-| 2:3.9 | on it |  |  | בְּ with the 3rd masculine suffix: 'on it', the day. |
-| 2:3.10 | he rested |  | Qal 2 | Qatal of שָׁבַת. This rest is the reason given in the clause after כִּי. |
-| 2:3.11 | from all |  | 1 |  |
+| 2:3.1 | and blessed |  | Pi 2 | Piel wayyiqtol: 'God blesses' |
+| 2:3.2 | God |  | 3 |  |
+| 2:3.3 | (object marker) |  |  |  |
+| 2:3.4 | day of |  | 1 | construct state, bound to 'the seventh' |
+| 2:3.5 | the seventh |  |  |  |
+| 2:3.6 | and made holy |  | Pi 1 | Piel wayyiqtol: 'set apart as sacred' |
+| 2:3.7 | it |  |  | אֹתוֹ is the object marker with the suffix 'it' |
+| 2:3.8 | because |  | 3 |  |
+| 2:3.9 | on it |  |  |  |
+| 2:3.10 | he rested |  | Qal 2 | qatal; 'rest, cease', from the root of Sabbath |
+| 2:3.11 | from all of |  | 1 |  |
 | 2:3.12 | his work |  | 3 |  |
-| 2:3.13 | which |  |  | The relative אֲשֶׁר with a qatal verb: 'which God had created'. |
-| 2:3.14 | had created |  | Qal | Qatal of בָּרָא, 'create', the verb of 1:1. |
+| 2:3.13 | that |  |  |  |
+| 2:3.14 | created |  | Qal | qatal in a relative clause |
 | 2:3.15 | God |  | 3 |  |
-| 2:3.16 | to make |  | Qal II.1 | Infinitive construct with ל. Purpose or result is not marked; the English keeps the infinitive as written. |
+| 2:3.16 | to make |  | Qal II.1 | infinitive construct; the final clause is difficult |
 
 Phrases:
-- 2:3.1 2:3.2 2:3.3 2:3.4 2:3.5 | God blessed the seventh day | 'and-blessed God ACC-day the-seventh': the Piel of 'bless' with God as subject. The object marker has no English counterpart. The English takes Ibn Ezra's sense, added good, for 'blessed'.
-- 2:3.6 2:3.7 | and made it holy | 'and-made-holy ACC-it': the day is set apart as holy.
-- 2:3.8 2:3.9 2:3.10 | because on it he rested | 'because in-it rested': the causal clause gives the ground of the blessing and the holiness.
-- 2:3.11 2:3.12 2:3.13 2:3.14 2:3.15 2:3.16 | from all his work which God had created to make | 'from-all his-work which God-created to-make'. The infinitive keeps open whether the making is purpose or result.
+- 2:3.1 2:3.2 2:3.3 2:3.4 2:3.5 | God blessed the seventh day | 'and-blessed God [obj.] day-of the-seventh'
+- 2:3.6 2:3.7 | and made it holy | 'and-made-holy it'
+- 2:3.8 | because | 'because'
+- 2:3.9 | on it | 'in-it'
+- 2:3.10 | he rested | 'rested' (Qal qatal)
+- 2:3.11 2:3.12 | from all his work | 'from-all-of work-his'
+- 2:3.13 2:3.14 2:3.15 | that God created | 'which created God'
+- 2:3.16 | in order to make | 'to-make'; the commentators read this as the creatures' power to go on making (Ibn Ezra), or as work that was fit to be done on the Sabbath and was doubled (Rashi)
 
 Grammar notes:
-- Two Piel wayyiqtol verbs of God, 'blessed' and 'made holy', are followed by a causal clause with כִּי and a qatal. The clause gives the reason.
-- The object marker אֶת־ before יוֹם, and the suffixed אֹתוֹ after the second verb, make the day the object of both verbs.
-- אֲשֶׁר בָּרָא אֱלֹהִים לַעֲשׂוֹת is a relative clause. The infinitive לַעֲשׂוֹת, with ל 'to', may express purpose or result, and the verse does not say which.
-- The paragraph mark after this verse closes the account of the seventh day. The silluq on לַעֲשׂוֹת ends the verse on the infinitive.
+- וַיְבָרֶךְ and וַיְקַדֵּשׁ are two Piel wayyiqtols with the same subject; the second has the object marker with a suffix.
+- The etnaḥta on אֹתוֹ divides the verse before כִּי: the blessing and sanctifying, then the reason.
+- בּוֹ ('on it') is put before the verb for emphasis: on it, and not on another.
+- אֲשֶׁר־בָּרָא אֱלֹהִים לַעֲשׂוֹת: 'created ... to make' is hard; the infinitive may be final or may continue the verb 'created'.
+- The paragraph break (פ) after the verse closes the creation account's section on the seventh day.
 
-Translator's note: 'Blessed' takes Ibn Ezra's sense of added good, the plain sense of the Piel. Rashi's manna reading is recorded. 'To make' is kept open between purpose and result, which the Hebrew leaves undecided.
+Translator's note: The last clause is hard: the Hebrew has 'created to make'. The English keeps both verbs and the infinitive. Ibn Ezra takes it as creatures made with power to make their like; Rashi reads the 'making' as work that should have been done on the Sabbath and was doubled on the sixth day. The English follows Ibn Ezra's plain-sense reading and records Rashi's.
 
 Commentary rulings:
-- `rashi:2:3:1` records: Rashi: 'he blessed' and 'made holy' refer to the manna, which fell double on the sixth day and not at all on the Sabbath, the verse being written about the future. The English keeps the plain sense of 'blessed' and does not adopt this.
-- `ibn-ezra:2:3:1` follows: Ibn Ezra: 'blessing' is added good. On that day the bodies receive new strength for generation and the souls new understanding. The English 'blessed' carries this sense.
-- `ibn-ezra:2:3:2` follows: Ibn Ezra: God made the day holy because no work was done in it, as on its fellow days. The English gives this as the ground of the holiness, together with the rest in the causal clause.
-- `ibn-ezra:2:3:3` records: Ibn Ezra: 'which God created to make' means the seeds of every kind, to which he gave the power to produce their like. He rejects reading 'to make' in place of 'created'. The English keeps both verbs and does not adopt the seeds reading.
-- `rashi:2:3:2` records: Rashi: the work that was fit to be done on the Sabbath, God doubled and did on the sixth day. The English keeps the infinitive open and does not adopt this.
-- `onkelos:2:3:1` follows: Targum Onkelos renders 'blessed' and 'hallowed' by their plain equivalents, and 'to make' as 'to do', keeping the infinitive open as the English does.
-- apparatus: Open: לַעֲשׂוֹת may be purpose ('which God created in order to make') or result ('which God created, to make'). The English keeps the infinitive as written.
+- `rashi:2:3:1` records: Rashi: he blessed it in the manna (a double portion on the sixth day) and made it holy in the manna (none fell on the Sabbath); the verse is written about the future. The English does not adopt this.
+- `rashi:2:3:2` records: Rashi: the work that was fit to be done on the Sabbath he doubled and did on the sixth day, as Genesis Rabbah explains. A midrashic reading of לַעֲשׂוֹת; not adopted.
+- `ibn-ezra:2:3:1` follows: Ibn Ezra: 'blessing' is an addition of good; on this day bodies renew a power for procreation, and souls power of recognition and intellect.
+- `ibn-ezra:2:3:2` follows: Ibn Ezra: 'he made it holy' means that no work was done in it, as in the other days.
+- `ibn-ezra:2:3:3` follows: Ibn Ezra: 'which God created to make' means the roots in all kinds, in which he gave power to make their likeness. He rejects the reading that puts 'to make' in place of 'made', or 'made' in place of 'created'; Saadia: the blessing and holiness refer to those who keep it.
+- `ramban:2:3:2` records: Ramban cites Rashi's reading and Ibn Ezra's, and adds that 'to make' may attach upward: he rested from all his work of creating, from doing it, like 'for he ceased to count' (Gen 41:49).
+- `radak:2:3:5` follows: Radak: 'to make' from here on: he created them in the six days so that each kind would go on making its offspring.
+- `onkelos:2:3:1` follows: Onkelos: 'blessed ... and made it holy ... for on it he rested from all his work which the LORD created to do' (למעבד).
 
 ## Genesis 2:4
 
@@ -270,43 +280,46 @@ Hebrew (MAM): אֵ֣לֶּה תוֹלְד֧וֹת הַשָּׁמַ֛יִם וְ�
 
 English: These are the generations of the heavens and the earth when they were created, on the day the LORD God made earth and heavens.
 
-Literal: these generations-of the-heavens and-the-earth in-their-being-created on-day of-making the-LORD God earth and-heavens
+Literal: these generations-of the-heavens and-the-earth in-their-being-created in-day-of making LORD God earth and-heavens
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:4.1 | these |  | b | The formula אֵלֶּה תוֹלְדוֹת recurs at 6:9, 10:1 and 11:27. Rashi reads 'these' as the things mentioned above. |
-| 2:4.2 | generations of |  |  | Plural construct of תּוֹלֵדָה, 'generation, begetting, account'. The formula introduces what came from the heavens and the earth. |
+| 2:4.1 | these |  | b |  |
+| 2:4.2 | generations of |  |  | תּוֹלְדוֹת is a feminine plural construct; 'generations' here is what the heavens and earth brought forth, the account of their origin |
 | 2:4.3 | the heavens |  | 1.a |  |
 | 2:4.4 | and the earth |  | 1.a |  |
-| 2:4.5 | when they were created |  | Niph 1 | Niphal infinitive construct with ב and the 3rd plural suffix: 'in their being created', rendered as a temporal clause. |
-| 2:4.6 | on the day of |  | 1 | בְּ + יוֹם, the head of the construct chain 'the day of making'. |
-| 2:4.7 | making |  | Qal II.1 | Infinitive construct of עָשָׂה, the second term of the construct chain. |
-| 2:4.8 | the LORD |  |  | The name יְהוָה, rendered 'the LORD' (decisions). |
-| 2:4.9 | God |  | 3 | With יְהוָה: 'the LORD God' (decisions). |
-| 2:4.10 | earth |  | 1.a | 'Earth and heavens' reverses the order of 1:1 ('heavens and earth'). The English keeps the reversed order. |
-| 2:4.11 | and heavens |  | 1.a |  |
+| 2:4.5 | in their being created |  | Niph 1 | Niphal infinitive construct with ב and the suffix -ām: 'when they were created' |
+| 2:4.6 | in the day of |  | 1 | construct state before an infinitive, 'on the day of making' |
+| 2:4.7 | making |  | Qal II.1 | infinitive construct; Ibn Ezra reads it as 'setting in order' |
+| 2:4.8 | the LORD |  |  | יְהוָה, here and below 'the LORD' (the text is pointed יְהֹוָה) |
+| 2:4.9 | God |  | 4 |  |
+| 2:4.10 | earth |  | 1.a |  |
+| 2:4.11 | and heavens |  | 1.a | the order earth-heavens reverses the order of the first clause |
 
 Phrases:
-- 2:4.1 2:4.2 2:4.3 2:4.4 | These are the generations of the heavens and the earth | 'these generations-of the-heavens and-the-earth': 'are' is added to join the subject and the predicate of the formula.
-- 2:4.5 | when they were created | 'in-their-being-created': a temporal clause in the infinitive.
-- 2:4.6 2:4.7 2:4.8 2:4.9 2:4.10 2:4.11 | on the day the LORD God made earth and heavens | 'on-the-day-of making the-LORD God earth and-heavens': the construct chain, read as a relative clause with 'made'.
+- 2:4.1 2:4.2 2:4.3 2:4.4 | These are the generations of the heavens and the earth | 'these generations-of the-heavens and-the-earth'; Ibn Ezra: these are what they brought forth
+- 2:4.5 | when they were created | 'in-their-being-created'
+- 2:4.6 2:4.7 2:4.8 2:4.9 2:4.10 2:4.11 | on the day the LORD God made earth and heavens | 'in-day-of making LORD God earth and-heavens'
 
 Grammar notes:
-- אֵלֶּה תּוֹלְדוֹת is the heading formula 'these are the generations of', used at 6:9, 10:1 and 11:27. Here it opens the account of the heavens and the earth.
-- בְּהִבָּרְאָם is a Niphal infinitive construct with the preposition ב and a 3rd plural suffix. It is a temporal clause, 'in their being created'.
-- After the formula there are two temporal phrases: the infinitive clause, and the construct chain 'on the day of the LORD God's making'.
-- The tevir on הַשָּׁמַיִם, the etnaḥta on בְּהִבָּרְאָם and the tipḥa on הָאָרֶץ divide the first part. The silluq on וְשָׁמָיִם closes the verse.
+- This verse begins a new account (תּוֹלְדוֹת, 'generations') and is the first place where the divine name יְהוָה appears, joined to אֱלֹהִים.
+- The etnaḥta after בְּהִבָּרְאָם divides the verse: the heavens and earth when created, and the day of the LORD God's making.
+- בְּהִבָּרְאָם is a Niphal infinitive construct with a pronominal suffix; בְּיוֹם עֲשׂוֹת is a construct before an infinitive.
+- The order 'the heavens and the earth' becomes 'earth and heavens' in the last words: a chiasm.
+- תּוֹלְדוֹת normally means offspring or the account of descendants.
 
-Translator's note: The English follows Rashi and Ibn Ezra on 'these' (the things above) and on 'generations' (what came forth). The reversed order 'earth and heavens' is kept. Rashi's 'all created at the first' and Ibn Ezra's 'when the firmament was made' are recorded.
+Translator's note: 'Generations' is kept literal (Ibn Ezra: those that begot). 'Made' renders עֲשׂוֹת; Ibn Ezra takes it as 'prepared, set in order', and the English 'made' leaves that room. The doubled name 'the LORD God' follows decisions.md.
 
 Commentary rulings:
-- `rashi:2:4:1` follows: Rashi: 'these' refers to what was mentioned above, the account of creation in chapter 1. The English 'These' refers back to that account.
-- `rashi:2:4:2` records: Rashi reads בְּהִבָּרְאָם as teaching that all things were created at the first, and, in another reading, as a play on the letter ה of the divine name. The English 'when they were created' does not adopt either reading.
-- `ibn-ezra:2:4:1` follows: Ibn Ezra: 'these are the generations' means these are what the heavens and the earth begot, the things they produced. The English 'generations of' takes this produced sense.
-- `ibn-ezra:2:4:2` records: Ibn Ezra: 'in their creation' means when the firmament was there and the earth appeared. The English keeps the general 'when they were created'.
-- `ibn-ezra:2:4:3` follows: Ibn Ezra: 'on the day of making' restates the creation. 'Made' is a term for the same act, as in 'he hastened to make it' (18:7) and 'I created him, then formed him, then made him'. The English keeps 'made' in this general sense.
-- `onkelos:2:4:1` follows: Targum Onkelos renders 'when they were created' and keeps the order 'earth and heavens'. The English agrees.
-- apparatus: Open: בְּהִבָּרְאָם may mean 'in their creation' in general, or 'when the firmament was made' (Ibn Ezra). The English keeps 'when they were created'.
+- `rashi:2:4:1` follows: Rashi: 'these' refers to the things mentioned above.
+- `rashi:2:4:2` not-applicable: Rashi: this teaches that all were created on the first day; and a midrash: they were created with ה (בהבראם read as ב-ה), the world with the letter he. A homily on the spelling that does not change the plain sense.
+- `ibn-ezra:2:4:1` follows: Ibn Ezra: 'these generations' means these (heavens and earth) begot.
+- `ibn-ezra:2:4:2` records: Ibn Ezra: בְּהִבָּרְאָם means when the firmament was and the earth appeared; the English keeps the plain 'when they were created'.
+- `ibn-ezra:2:4:3` follows: Ibn Ezra: the word 'making' here is a preparing or setting in order, as in 'he hurried to make it' (Gen 18:7); he first created it, then formed it, then made it.
+- `ramban:2:4:1` records: Ramban: the account of the generations of heaven and earth by rain and growth, once they were created and made in order; he finds in בְּהִבָּרְאָם a hint that the world was created with ה.
+- `radak:2:4:1` records: Radak: 'these' are what was mentioned in the account of creation; they are the offspring of the heavens and the earth, since God made all through intermediaries.
+- `onkelos:2:4:1` follows: Onkelos: 'these are the generations of the heavens and the earth when they were created, on the day the LORD God made earth and heavens'.
+- `sforno:2:4:1` records: Sforno: these plants and animals were the offspring of heaven and earth through the power in them from the time they were created, though they came out into act later.
 
 ## Genesis 2:5
 
@@ -358,59 +371,60 @@ Hebrew (MAM): וְכֹ֣ל ׀ שִׂ֣יחַ הַשָּׂדֶ֗ה טֶ֚רֶם �
 
 ### Translation under review (2:5)
 
-English: Every tree of the field had not yet been in the earth, and every herb of the field had not yet sprouted, for the LORD God had not sent rain on the earth, and there was no man to work the ground.
+English: No tree of the field was yet on the earth, and no plant of the field had yet sprung up, for the LORD God had not sent rain on the earth, and there was no human to work the ground.
 
-Literal: and-every tree-of the-field not-yet be in-the-earth and-every herb-of the-field not-yet sprouted because not sent-rain the-LORD God upon the-earth and-no man to-work ACC the-ground
+Literal: and-all-of shrub-of the-field not-yet it-was in-the-earth and-all-of plant-of the-field not-yet it-sprouted for not he-sent-rain LORD God on the-earth and-human there-is-not to-work [object-marker] the-ground
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:5.1 | and every |  | 1 | וְ + כֹל, 'every' before the noun. |
-| 2:5.2 | tree |  |  | שִׂיחַ. BDB gives 'bush, shrub'; Ibn Ezra and Radak read 'tree', and the English follows them. |
-| 2:5.3 | of the field |  | 1 | שָׂדֶה is open country. Contrast אֲדָמָה, 'ground', in 2:5.23. |
-| 2:5.4 | not yet |  |  | טֶרֶם with the yiqtol means 'not yet' (Rashi). |
-| 2:5.5 | had been |  | Qal III.1 | Yiqtol of הָיָה after טֶרֶם: 'had not yet been'. |
-| 2:5.6 | in the earth |  | 1.a |  |
-| 2:5.7 | and every |  | 1 |  |
-| 2:5.8 | herb |  |  | עֵשֶׂב, a green plant. Contrast 'tree' in 2:5.2. |
-| 2:5.9 | of the field |  | 1 |  |
-| 2:5.10 | not yet |  |  | The second טֶרֶם repeats the first. |
-| 2:5.11 | had sprouted |  | Qal | Yiqtol of צָמַח, 'sprout, spring up'. |
-| 2:5.12 | for |  | 3 | כִּי introduces the reason for the absence of plants: no rain, and no one to till. |
+| 2:5.1 | and all of |  | 1 | construct; with the negation of the following clause 'not any' |
+| 2:5.2 | tree of |  |  | שִׂיחַ: bush, shrub; Ibn Ezra takes it as a (fruit) tree |
+| 2:5.3 | the field |  | 1 |  |
+| 2:5.4 | not yet |  |  | טֶרֶם 'not yet'; Rashi: always 'before it had', never 'before' in the sense of earlier |
+| 2:5.5 | was |  | Qal III.3 | imperfect after טֶרֶם: 'was yet' |
+| 2:5.6 | on the earth |  | 1.a |  |
+| 2:5.7 | and all of |  | 1 |  |
+| 2:5.8 | plant of |  |  | עֵשֶׂב is a construct; herbage that is sown and eaten |
+| 2:5.9 | the field |  | 1 |  |
+| 2:5.10 | not yet |  |  |  |
+| 2:5.11 | had sprung up |  | Qal | imperfect after טֶרֶם: 'had not yet sprung up' |
+| 2:5.12 | for |  | 3 |  |
 | 2:5.13 | not |  |  |  |
-| 2:5.14 | had sent rain |  | Hiph | Hiphil perfect of מָטַר, 'send rain'. |
+| 2:5.14 | sent rain |  | Hiph | Hiphil qatal of מָטַר, denominative from 'rain'; 'had not sent rain' |
 | 2:5.15 | the LORD |  |  |  |
-| 2:5.16 | God |  | 3 |  |
-| 2:5.17 | on |  | II.1 |  |
+| 2:5.16 | God |  | 4 |  |
+| 2:5.17 | on |  |  |  |
 | 2:5.18 | the earth |  | 1.a |  |
-| 2:5.19 | and man |  | 1 | אָדָם with no article and not used as a name: 'a man', 'a human'. Contrast הָאָדָם in 2:7. |
-| 2:5.20 | there was no |  | 3 | אַיִן with ל and an infinitive: 'there was none to' work the ground. |
-| 2:5.21 | to work |  | Qal 1 | Infinitive construct with ל, followed by its object. |
-| 2:5.22 | (object marker) |  |  | The object marker before 'the ground'. |
-| 2:5.23 | the ground |  | 1 | אֲדָמָה, cultivable soil. It shares its root with אָדָם, 'man' (2:7), and the text links the man with the ground he tills. |
+| 2:5.19 | and a human |  | 2 | אָדָם without the article; 'a human' (compare 2:7 with the article) |
+| 2:5.20 | there is not |  | 3 | אַיִן: 'there is none' with ל 'to work' |
+| 2:5.21 | to work |  | Qal 1 | infinitive construct with ל |
+| 2:5.22 | (object marker) |  |  |  |
+| 2:5.23 | the ground |  | 1 |  |
 
 Phrases:
-- 2:5.1 2:5.2 2:5.3 2:5.4 2:5.5 2:5.6 | Every tree of the field had not yet been in the earth | 'and-every tree-of the-field not-yet be in-the-earth': the yiqtol after טֶרֶם is a past negative.
-- 2:5.7 2:5.8 2:5.9 2:5.10 2:5.11 | and every herb of the field had not yet sprouted | 'and-every herb-of the-field not-yet sprouted'.
-- 2:5.12 2:5.13 2:5.14 2:5.15 2:5.16 | for the LORD God had not sent rain | 'because not sent-rain the-LORD God': the causal clause gives the reason the plants had not grown.
-- 2:5.17 2:5.18 | on the earth | 'upon the-earth'.
-- 2:5.19 2:5.20 | and there was no man | 'and-man there-is-not': the negative existential with a common noun, not the name Adam.
-- 2:5.21 2:5.22 2:5.23 | to work the ground | 'to-work ACC the-ground': the infinitive with ל and its object.
+- 2:5.1 2:5.2 2:5.3 2:5.4 2:5.5 2:5.6 | No tree of the field was yet on the earth | 'and-all-of shrub-of the-field not-yet it-was in-the-earth'
+- 2:5.7 2:5.8 2:5.9 2:5.10 2:5.11 | and no plant of the field had yet sprung up | 'and-all-of plant-of the-field not-yet it-sprouted'
+- 2:5.12 2:5.13 2:5.14 2:5.15 2:5.16 2:5.17 2:5.18 | for the LORD God had not sent rain on the earth | 'for not he-sent-rain LORD God on the-earth'
+- 2:5.19 2:5.20 2:5.21 2:5.22 2:5.23 | and there was no human to work the ground | 'and-human there-is-not to-work [obj.] the-ground'
 
 Grammar notes:
-- טֶרֶם with a yiqtol means 'not yet', so the plants 'had not yet been' and 'had not yet sprouted' (Rashi).
-- כִּי introduces a causal clause, marked by a telisha qetana. The clause runs to the silluq on הָאֲדָמָה, which closes the verse.
-- The verse has a wordplay: הָאֲדָמָה 'the ground' and אָדָם 'man' share the root אדם. The verse ends by naming the man who will work the ground.
-- אַיִן with ל and an infinitive means 'there was none to work'. The noun אָדָם is the subject of the negative existential.
+- The verse is a series of negatives: no tree, no plant, no rain, no human.
+- טֶרֶם with the imperfect means 'not yet'; the English past perfect 'had yet sprung up' gives the sense.
+- The first pair uses יִהְיֶה and יִצְמָח, the reason clause uses a qatal (הִמְטִיר) in the Hiphil.
+- וְאָדָם אַיִן is a verbless clause, with אַיִן 'there is not' and the infinitive לַעֲבֹד 'to work'.
+- The etnaḥta after יִצְמָח separates the two statements from the reasons.
+- הָאֲדָמָה is the cultivated ground, and אָדָם is the one made from it: a pun that the English cannot keep.
 
-Translator's note: 'Tree' follows Ibn Ezra and Radak, against the lexicon's first gloss 'shrub'. 'Had not yet' follows Rashi's reading of טֶרֶם. The English does not state why the rain was withheld.
+Translator's note: 'Tree' follows Ibn Ezra (and the Aramaic אילני); 'bush' or 'shrub' is the lexicon sense and is recorded. Rashi: 'not yet' (עד לא) is the meaning of טרם. The 'for' clause (no rain because no human to work the ground) is kept as the Hebrew has it; Rashi's explanation of why is recorded.
 
 Commentary rulings:
-- `rashi:2:5:1` follows: Rashi: טֶרֶם in Scripture always means 'not yet' (עַד לֹא), not 'before'. The plants were still at the opening of the ground until the sixth day, when the world was finished and before man was made. The English 'had not yet' follows this.
-- `rashi:2:5:2` records: Rashi: rain was withheld because no man was there to work the ground and value the rain. When man came and knew that the world needed rain, he prayed, and the rain fell and plants grew. The English keeps the verse's own link and does not state this reason.
-- `rashi:2:5:3` follows: Rashi: 'the LORD' is his name, and 'God' is the ruler and judge over all, so the combination is read plainly as 'the LORD who is God' in every place. The English 'the LORD God' follows this.
-- `ibn-ezra:2:5:1` follows: Ibn Ezra: שִׂיחַ means a tree, in his view a fruit tree, since man is compared to a tree; he cites Job 30:7 for the word. The English takes 'tree' and does not adopt 'fruit tree'.
-- `onkelos:2:5:1` follows: Targum Onkelos renders the words as 'all the trees of the field' and 'all the herb of the field', following the verse closely as the English does.
-- apparatus: Open: שִׂיחַ is 'bush, shrub' in BDB, but 'tree' for Ibn Ezra and Radak. The English takes 'tree'.
+- `rashi:2:5:1` follows: Rashi: every טֶרֶם in Scripture means 'not yet', and is not 'before'; the trees and herbs had not yet come or sprung up, but stood at the opening of the soil until the sixth day.
+- `rashi:2:5:2` follows: Rashi: why had he not sent rain? Because there was no human to work the ground and no one to recognise the good of rain; when the human came and knew it was a need, he prayed and rain fell and the plants sprouted.
+- `rashi:2:5:3` follows: Rashi: the LORD is his name; God is the ruler and judge of all; so the pair means 'the LORD, who is God'.
+- `ibn-ezra:2:5:1` follows: Ibn Ezra: שִׂיחַ is a tree, as 'among the bushes they bray' (Job 30:7); in his view a fruit tree, since a human is compared to a tree.
+- `ramban:2:5:1` records: Ramban: on the plain sense, the earth brought out plants on day three but they would not sprout until the mist rose; 'field' means the cultivated place.
+- `radak:2:5:2` records: Radak: שִׂיחַ means a tree; the earth did not at once bring out its plants because there was no rain and no worker, and the mist came by the power of the luminaries.
+- `onkelos:2:5:1` follows: Onkelos: 'all the trees of the field before they were in the earth ... for the LORD God had not sent rain, and there was no man to work the ground'.
 
 ## Genesis 2:6
 
@@ -438,39 +452,40 @@ Hebrew (MAM): וְאֵ֖ד יַֽעֲלֶ֣ה מִן־הָאָ֑רֶץ וְהִ�
 
 ### Translation under review (2:6)
 
-English: But a mist would rise from the earth and would water the whole surface of the ground.
+English: But a mist would rise from the earth and water the whole surface of the ground.
 
-Literal: and-mist would-rise from-the-earth and-would-water ACC the-whole-surface-of the-ground
+Literal: and-mist it-goes-up from-the-earth and-he-watered [object-marker] all-of face-of the-ground
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:6.1 | but a mist |  |  | The ו is contrastive, after the drought of 2:5. אֵד is 'mist', 'smoke' for Ibn Ezra, 'cloud' for Onkelos. |
-| 2:6.2 | would rise |  | Qal 1 | Yiqtol: a habitual or continuing action. |
-| 2:6.3 | from |  | 2 |  |
+| 2:6.1 | and a mist |  |  | אֵד 'mist, vapour' |
+| 2:6.2 | would rise |  | Qal 1 | imperfect, here of repeated or continuing action: 'would go up' |
+| 2:6.3 | from |  |  |  |
 | 2:6.4 | the earth |  | 1.a |  |
-| 2:6.5 | and would water |  | Hiph 1 | Weqatal (sequential perfect) continuing the yiqtol, so the habit carries on. |
-| 2:6.6 | (object marker) |  |  | The object marker before the construct phrase. |
-| 2:6.7 | the whole |  | 1 |  |
-| 2:6.8 | surface of |  | I.5 | פְּנֵי, 'face', is here the surface of the ground, as a construct. |
+| 2:6.5 | and would water |  | Hiph 2 | weqatal continuing the habitual imperfect: 'and would water' |
+| 2:6.6 | (object marker) |  |  |  |
+| 2:6.7 | the whole of |  | 1 |  |
+| 2:6.8 | surface of |  | I.5 | פָּנִים 'face', construct plural: 'the surface' |
 | 2:6.9 | the ground |  | 1 |  |
 
 Phrases:
-- 2:6.1 2:6.2 2:6.3 2:6.4 | But a mist would rise from the earth | 'and-mist would-rise from-the-earth': the ו is rendered 'But' for the contrast.
-- 2:6.5 2:6.6 2:6.7 2:6.8 2:6.9 | and would water the whole surface of the ground | 'and-would-water ACC the-whole-surface-of the-ground': the weqatal continues the habit of the yiqtol.
+- 2:6.1 2:6.2 2:6.3 2:6.4 | But a mist would rise from the earth | 'and-mist it-goes-up from-the-earth'
+- 2:6.5 2:6.6 2:6.7 2:6.8 2:6.9 | and water the whole surface of the ground | 'and-he-watered [obj.] all-of face-of the-ground'
 
 Grammar notes:
-- וְאֵד begins with ו as a contrast to the drought of 2:5: 'but a mist'.
-- יַעֲלֶה (yiqtol) describes a repeated action, 'would rise'. The weqatal וְהִשְׁקָה continues it, 'and would water'.
-- The construct phrase כׇּל־פְּנֵי הָאֲדָמָה is 'the whole face of the ground', rendered 'the whole surface of the ground'.
-- The tipḥa on וְאֵד, the munaḥ on יַעֲלֶה and the etnaḥta on הָאָרֶץ divide the verse. The silluq on הָאֲדָמָה closes it.
+- יַעֲלֶה is an imperfect that describes what regularly happened, not a single event; the English 'would rise' shows this.
+- וְהִשְׁקָה is a weqatal: the perfect with waw continues the habitual sense.
+- The etnaḥta after הָאָרֶץ separates the rising from the watering.
+- The subject of וְהִשְׁקָה is 'the mist' (it watered); some read God as the one who waters.
+- אֵד is rare; here 'mist' is the sense given by Onkelos (cloud) and Ibn Ezra (smoke-like vapour).
 
-Translator's note: 'Mist' keeps the Hebrew word. The English reads the habit as ongoing, so 'would' carries into 'would water'. Rashi's reading, the deep raising moisture for the making of man, is recorded.
+Translator's note: The opening waw is read as 'but' because it sets the mist against the negatives of 2:5. Saadia's view (that the clause says 'no mist rose') is recorded in Ibn Ezra's comment and not adopted. The subject of 'water' is the mist.
 
 Commentary rulings:
-- `rashi:2:6:1` records: Rashi: the verse concerns the making of man. The deep sent up water and mist to soften the dust, as a kneader wets flour before he forms the dough, and then God formed the man. The English reads the mist as general watering of the ground and does not adopt this.
-- `ibn-ezra:2:6:1` follows: Ibn Ezra: the mist is like smoke. A mist rose from the earth by the power of the luminaries, watered the ground and made it grow. He notes the Gaon's reading 'and no mist rose' and does not follow it. The English takes his positive reading.
-- `onkelos:2:6:1` follows: Targum Onkelos has a cloud that used to rise from the earth and water all the surface of the ground. It agrees with the habitual sense of the English.
-- apparatus: Open: אֵד is 'mist' here. Onkelos reads 'cloud' and Ibn Ezra 'smoke'. The Gaon, as Ibn Ezra reports him, reads the verse negatively, 'and no mist rose'. The English does not adopt this.
+- `rashi:2:6:1` follows: Rashi: for the creation of the human, the deep sent up mist and clouds watered, to soak the dust, as a kneader puts water in and then kneads the dough; so here, 'and he watered', and after that 'and he formed'.
+- `ibn-ezra:2:6:1` follows: Ibn Ezra: אֵד is like smoke (a cloud; 'day of their calamity' is a dark day); the mist rose by the power of the luminaries, watered the ground and made it grow; Saadia: 'and no mist rose', which the English does not adopt.
+- `onkelos:2:6:1` follows: Onkelos: 'a cloud was rising from the earth and watered the whole face of the ground'.
+- `sforno:2:6:1` records: Sforno: when God ordered the days, a mist rose from the earth, a dew of blessing, which watered and made it grow without rain and without work.
 
 ## Genesis 2:7
 
@@ -520,53 +535,56 @@ Hebrew (MAM): וַיִּ֩יצֶר֩ יְהֹוָ֨ה אֱלֹהִ֜ים אֶת�
 
 ### Translation under review (2:7)
 
-English: Then the LORD God formed the human from the dust of the ground and breathed into his nostrils the breath of life, and the human became a living being.
+English: Then the LORD God formed the human out of dust from the ground, and blew into his nostrils the breath of life, and the human became a living being.
 
-Literal: and-formed the-LORD God ACC-the-human dust from-the-ground and-breathed in-his-nostrils breath-of life and-became the-human for-a-being living
+Literal: and-formed LORD God [object-marker] the-human dust from-the-ground and-blew in-his-nostrils breath-of life and-became the-human to-a-being living
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:7.1 | then formed |  | Qal 2 | Wayyiqtol of יָצַר, 'form, fashion'. God is the subject, so the lexicon's divine sense Qal 2 applies. The doubled yod is discussed in the commentary. |
-| 2:7.2 | the LORD |  |  | The name יְהוָה, rendered 'the LORD'. |
-| 2:7.3 | God |  | 3 |  |
-| 2:7.4 | (object marker) |  |  | The object marker before the definite noun 'the human'. |
-| 2:7.5 | the human |  | 2 | With the article, הָאָדָם is the common noun 'the human being' (decisions), not the name Adam. |
-| 2:7.6 | dust |  |  | עָפָר, dry earth, dust. |
-| 2:7.7 | from |  | 2 |  |
-| 2:7.8 | the ground |  | 1 | Cognate with אָדָם (2:7.5). The man is made of the ground. |
-| 2:7.9 | and breathed |  | Qal | Wayyiqtol of נָפַח, 'breathe, blow'. |
-| 2:7.10 | into his nostrils |  | 1 | The dual form אַפַּיִם, 'nostrils', with the 3rd masculine suffix. |
-| 2:7.11 | the breath |  |  | Construct of נְשָׁמָה, 'breath'. |
-| 2:7.12 | of life |  | 1 |  |
-| 2:7.13 | and became |  | Qal II.2 | Wayyiqtol of הָיָה, 'be, become'. The predicate follows with ל. |
+| 2:7.1 | and formed |  | Qal 2 | wayyiqtol of a yod-initial root with the telisha accents; divine activity 'form, fashion' |
+| 2:7.2 | the LORD |  |  |  |
+| 2:7.3 | God |  | 4 |  |
+| 2:7.4 | (object marker) |  |  |  |
+| 2:7.5 | the human |  | 2 | הָאָדָם with the article: the human, the one taken from the ground (אֲדָמָה) |
+| 2:7.6 | dust |  |  | apposition to the object, or the material: 'dust' |
+| 2:7.7 | from |  |  |  |
+| 2:7.8 | the ground |  | 1 |  |
+| 2:7.9 | and blew |  | Qal | wayyiqtol: 'breathe, blow' |
+| 2:7.10 | into his nostrils |  | 1 | dual אַפַּיִם 'nostrils' with suffix 'his' |
+| 2:7.11 | the breath of |  |  | נְשָׁמָה: breath; construct state |
+| 2:7.12 | life |  | 1 | חַיִּים: plural of intensity, 'life' |
+| 2:7.13 | and became |  | Qal II.2 | wayyiqtol, 'and it came to be' |
 | 2:7.14 | the human |  | 2 |  |
-| 2:7.15 | a being |  | 1 | לְ + נֶפֶשׁ as a predicate: 'a living being'. |
-| 2:7.16 | living |  | 1.c | The adjective חַי, 'alive, living'. |
+| 2:7.15 | a being |  | 1 | נֶפֶשׁ: 'that which breathes', 'living being'; ל 'to' marks the predicate: 'became to a living being' |
+| 2:7.16 | living |  | 1.c | feminine adjective agreeing with נֶפֶשׁ |
 
 Phrases:
-- 2:7.1 2:7.2 2:7.3 2:7.4 2:7.5 | Then the LORD God formed the human | 'and-formed the-LORD God ACC-the-human': the English puts 'Then' for the sequential ו.
-- 2:7.6 2:7.7 2:7.8 | from the dust of the ground | 'dust from-the-ground': 'of' is supplied in English between 'dust' and 'the ground'.
-- 2:7.9 2:7.10 2:7.11 2:7.12 | and breathed into his nostrils the breath of life | 'and-breathed in-his-nostrils breath-of life'.
-- 2:7.13 2:7.14 2:7.15 2:7.16 | and the human became a living being | 'and-became the-human for-a-being living': the ל marks the predicate after 'became'.
+- 2:7.1 2:7.2 2:7.3 2:7.4 2:7.5 | Then the LORD God formed the human | 'and-formed LORD God [obj.] the-human'
+- 2:7.6 2:7.7 2:7.8 | out of dust from the ground | 'dust from-the-ground'; Rashi: dust gathered from all the ground, from the four directions
+- 2:7.9 2:7.10 2:7.11 2:7.12 | and blew into his nostrils the breath of life | 'and-blew in-his-nostrils breath-of life'
+- 2:7.13 2:7.14 2:7.15 2:7.16 | and the human became a living being | 'and-became the-human to-a-being living'
 
 Grammar notes:
-- Two wayyiqtol verbs of God, 'formed' and 'breathed', are followed by the result, 'the human became a living being'.
-- וַיִּיצֶר is the Qal of יָצַר, a verb whose first root letter is yod. The form is written with a doubled yod here.
-- לְנֶפֶשׁ חַיָּה is predicative after 'became' (וַיְהִי). The ל marks the predicate, 'became a living being'.
-- The tipḥa, the etnaḥta on חַיִּים that divides the act of breathing from its result, and the silluq on חַיָּה ending the verse, mark the structure of the sentence.
+- וַיִּיצֶר is a Qal wayyiqtol of a yod-initial verb; Rashi reads its two yods as two formings.
+- עָפָר מִן־הָאֲדָמָה: 'dust from the ground' may be in apposition to 'the human' or may be the material of forming.
+- בְּאַפָּיו is dual and means 'in his nostrils'; Ibn Ezra: through them a person lives.
+- וַיְהִי ... לְנֶפֶשׁ חַיָּה: 'became to a living being' uses ל to mark what he became.
+- A word-play: הָאָדָם 'the human' is made from הָאֲדָמָה 'the ground'.
+- The accents: the telisha on the verb, the geresh and revia mark the object phrase, the etnaḥta after חַיִּים divides the forming from the becoming.
 
-Translator's note: The English follows Ibn Ezra's immediacy ('became' at once) and Rashi's contrast of body and breath. Rashi's double yod and Onkelos's 'speaking spirit' are recorded.
+Translator's note: 'The human' with the article follows decisions.md. 'Living being' is the lexicon sense of נֶפֶשׁ חַיָּה; Rashi notes that animals are also called this, and that the human's is the liveliest, because he has knowledge and speech. Ibn Ezra adds that he could walk at once, like animals, not like infants.
 
 Commentary rulings:
-- `rashi:2:7:1` records: Rashi: the double yod in וַיִּיצֶר marks two formations, one for this world and one for the resurrection of the dead. Beasts, which face no judgement, lack the double yod. The English 'formed' does not carry this, and the reading is recorded.
-- `rashi:2:7:2` records: Rashi: God gathered dust from the whole ground, from the four winds, so that wherever the man would die the ground would receive him for burial. The English keeps the verse's 'dust from the ground' without stating this.
-- `rashi:2:7:3` follows: Rashi: the man was made of a lower part, the body from the dust, and an upper part, the breath from above. The English keeps the verse's contrast between the dust and the breath, which is its plain sense.
-- `rashi:2:7:4` records: Rashi: animals are also called living nefesh, but the man is the living one above all, since knowledge and speech were added to him. The English 'a living being' keeps the phrase shared with the animals and does not state the distinction.
-- `ibn-ezra:2:7:1` records: Ibn Ezra: the forming was done by the power of the luminaries, and the verb has the Qal pattern of verbs whose first letter is yod, as in wayyiqats (9:24). The English keeps the plain 'formed' and names no cosmic agent.
-- `ibn-ezra:2:7:2` follows: Ibn Ezra: 'in his nostrils' is the instrument by which the man lives, since the nostrils expel warm air from the heart and bring in fresh air. The English 'into his nostrils' follows this.
-- `ibn-ezra:2:7:3` follows: Ibn Ezra: 'a living being' means one who went at once, like the beasts, and not like infants. The English 'became a living being' keeps this sense of immediate life.
-- `onkelos:2:7:1` records: Targum Onkelos renders nefesh as 'a speaking spirit' (רוּחַ מְמַלְלָא). The English keeps 'living being' and does not adopt this.
-- apparatus: Open: the doubled yod (Rashi) and the Qal pattern of the yod-initial verb (Ibn Ezra). 'Living being' (nefesh chayyah) is read as 'speaking spirit' by Onkelos; recorded in the commentary.
+- `rashi:2:7:1` not-applicable: Rashi: two formings (two yods): one for this world and one for the resurrection; an animal, which is not subject to judgement, has no double yod. A homily on the spelling.
+- `rashi:2:7:2` records: Rashi: he gathered his dust from the whole ground, from the four directions, so that wherever he dies the earth will receive him; or from the altar place. Not adopted for the English line.
+- `rashi:2:7:3` not-applicable: Rashi: he made him of the lower and upper beings: body of the lower, soul of the upper; a homily on the days of creation.
+- `rashi:2:7:4` follows: Rashi: even beast and animal are called 'living being', but the human is the most alive of them, since knowledge and speech are added.
+- `ibn-ezra:2:7:1` records: Ibn Ezra: he formed him by the power of the luminaries; a form like 'and Noah awoke' (Gen 9:24), a yod-initial verb of the light stem.
+- `ibn-ezra:2:7:2` follows: Ibn Ezra: 'in his nostrils' because by them a human lives: they send out the warm air from the heat of the heart and bring in other air.
+- `ibn-ezra:2:7:3` follows: Ibn Ezra: 'a living being' means he walked at once like the animals, and not like infants.
+- `radak:2:7:2` follows: Radak: נִשְׁמַת חַיִּים is a breath of life breathed in from the higher spirits; נְשָׁמָה is the special name for the human soul.
+- `onkelos:2:7:1` records: Onkelos: 'and it became in man a speaking spirit' (רוח ממללא), reading נפש חיה as the faculty of speech.
+- `sforno:2:7:3` records: Sforno: with all this he was only a living being, not yet speaking, until he was made in the image and likeness.
 
 ## Genesis 2:8
 
@@ -614,46 +632,48 @@ Variants:
 
 ### Translation under review (2:8)
 
-English: The LORD God had planted a garden in Eden, in the east, and there he placed the human he had formed.
+English: The LORD God planted a garden in Eden, in the east, and put there the human whom he had formed.
 
-Literal: and-planted the-LORD God a-garden in-Eden from-east and-placed there ACC the-human which formed
+Literal: and-planted LORD God garden in-Eden from-east and-put there [object-marker] the-human whom he-formed
 
 | token | gloss | lex | sense | note |
 |---|---|---|---|---|
-| 2:8.1 | and had planted |  | Qal 1 | Wayyiqtol of נָטַע, 'plant'. The English uses the pluperfect because Rashi and Ibn Ezra take the planting as already past. |
-| 2:8.2 | the LORD |  |  | The name יְהוָה. |
-| 2:8.3 | God |  | 3 |  |
-| 2:8.4 | a garden |  |  | גַּן, joined by a maqqef to בְּעֵדֶן: 'a garden in Eden'. |
-| 2:8.5 | in Eden |  |  | Proper name. The ב can also be read 'of Eden' (Ibn Ezra), recorded in the commentary. |
-| 2:8.6 | in the east |  | 1.b | מִקֶּדֶם, 'from the east' or 'in the east' (Rashi, Ibn Ezra). Onkelos reads 'of old'. |
-| 2:8.7 | and placed |  | Qal 4.a | Wayyiqtol of שׂוּם, 'put, place, set'. 'Station' fits the placing of the man in the garden. |
+| 2:8.1 | and planted |  | Qal 1 | wayyiqtol; the garden was planted already, now the human is put in it (Ibn Ezra) |
+| 2:8.2 | the LORD |  |  |  |
+| 2:8.3 | God |  | 4 |  |
+| 2:8.4 | a garden |  |  | גַּן: enclosure, garden; bound by the maqqef to בְּעֵדֶן |
+| 2:8.5 | in Eden |  |  | עֵדֶן: a place name; 'Eden' |
+| 2:8.6 | in the east |  | 1.b | מִקֶּדֶם: 'from the front, east'; Rashi, Radak: 'in the east of Eden'; Onkelos 'anciently' is the other sense |
+| 2:8.7 | and put |  | Qal 1.a | wayyiqtol |
 | 2:8.8 | there |  |  |  |
-| 2:8.9 | (object marker) |  |  | The object marker before the definite noun 'the human'. |
-| 2:8.10 | the human |  | 2 | With the article, the common noun 'the human' (decisions). |
-| 2:8.11 | that |  |  | The relative אֲשֶׁר has no English word here. 'the human he had formed' uses the zero relative. |
-| 2:8.12 | he had formed |  | Qal 2 | Qatal of יָצַר, the divine sense, as in 2:7.1. |
+| 2:8.9 | (object marker) |  |  |  |
+| 2:8.10 | the human |  | 2 |  |
+| 2:8.11 | whom |  |  |  |
+| 2:8.12 | he had formed |  | Qal 2 | qatal in a relative clause, with 'had' to place it before 'put' |
 
 Phrases:
-- 2:8.1 2:8.2 2:8.3 | The LORD God had planted | 'and-planted the-LORD God': the English pluperfect follows the reading that the planting is already past.
-- 2:8.4 2:8.5 2:8.6 | a garden in Eden, in the east | 'a-garden in-Eden from-east': 'from the east' or 'in the east', as Rashi and Ibn Ezra read it.
-- 2:8.7 2:8.8 2:8.9 | and there he placed | 'and-placed there ACC': the object marker has no English counterpart here.
-- 2:8.10 2:8.11 2:8.12 | the human he had formed | 'the-human which formed': the relative is rendered by the zero relative of English.
+- 2:8.1 2:8.2 2:8.3 2:8.4 2:8.5 2:8.6 | The LORD God planted a garden in Eden, in the east | 'and-planted LORD God garden in-Eden from-east'
+- 2:8.7 2:8.8 2:8.9 2:8.10 2:8.11 2:8.12 | and put there the human whom he had formed | 'and-put there [obj.] the-human whom he-formed'
 
 Grammar notes:
-- The pluperfect 'had planted' follows Rashi and Ibn Ezra, who take the planting as already done. The verse returns to the sixth-day creation of man, as Rashi's rule of general and particular explains.
-- The divine name pair יְהוָה אֱלֹהִים is 'the LORD God', as in 2:4 and 2:7.
-- The relative clause אֲשֶׁר יָצָר is the zero relative 'he had formed' in English: 'the human he had formed'.
-- The etnaḥta on מִקֶּדֶם (2:8.6) divides the verse into the planting and the placing. The silluq on יָצָר ends it.
+- וַיִּטַּע and וַיָּשֶׂם are two wayyiqtols, 'planted' and 'put', with the same subject.
+- מִקֶּדֶם: 'from the east' or 'from of old'; the commentators read it as a place: in the east of Eden.
+- אֲשֶׁר יָצָר refers back to וַיִּיצֶר in 2:7.
+- The etnaḥta after מִקֶּדֶם divides the planting from the placing of the human.
+- גַּן־בְּעֵדֶן is bound by the maqqef: 'a garden-in-Eden'.
 
-Translator's note: 'In the east' and 'had planted' follow Rashi and Ibn Ezra. Onkelos's 'of old' and the possible 'of Eden' reading of the bet are recorded.
+Translator's note: 'In the east' follows Rashi and Radak; Onkelos and Genesis Rabbah read 'of old', and this is recorded. The relative clause 'whom he had formed' looks back to 2:7. The article on הָאָדָם is kept ('the human'); Ibn Ezra says it holds a secret.
 
 Commentary rulings:
-- `rashi:2:8:1` follows: Rashi: מִקֶּדֶם means 'in the east': God planted the garden in the east of Eden. The verse is a detail of the earlier creation of man, a general statement followed by its particulars, so 'had planted' is the right tense. The English follows this.
-- `ibn-ezra:2:8:1` follows: Ibn Ezra: a garden had already been planted in the place called Eden, on its eastern side, and now God placed man there. The English follows this. His reading of the bet as both 'in' and 'of' (the garden of God) is recorded here and not adopted.
-- `ibn-ezra:2:8:2` records: Ibn Ezra: the article in ha-adam may be part of a name, as in ha-Yevusi (2 Sam 24:16), and the word may be both noun and adjective, derived from the ground. The English keeps 'the human' as the decisions require and records the name reading.
-- `onkelos:2:8:1` records: Targum Onkelos reads מִקֶּדֶם as 'from of old' (מִלְּקַדְמִין), not as 'in the east'. The English follows Rashi and Ibn Ezra and records this.
-- apparatus: Variant: 2:8.5 vowels: WLC reads בְעֵ֖דֶן; base בְּעֵ֖דֶן.
-- apparatus: Open: מִקֶּדֶם is 'in the east' for Rashi and Ibn Ezra, and 'of old' for Onkelos and Ramban.
+- `rashi:2:8:1` follows: Rashi: in the east of Eden he planted the garden. The general-then-particular rule (Rabbi Eliezer son of Yose the Galilean): 'he created the human' is the general; 'and the LORD God formed' ... is the particular of the first.
+- `ibn-ezra:2:8:1` follows: Ibn Ezra: he had already planted a garden in a place called Eden, on the east side, and now put the human in it; the ב of 'in Eden' serves itself and another: 'in Eden, in the garden of God'.
+- `ibn-ezra:2:8:2` records: Ibn Ezra: the ה of הָאָדָם has a secret; also found in 'the Manasseh tribe', 'the Araunah, the Jebusite'; or it may be because the word is both a proper name and a description.
+- `ramban:2:8:1` records: Ramban: Rashi's 'east' and Onkelos 'of old' are both right (Genesis Rabbah); the trees of Eden were made by the LORD's own planting, as an ordered garden.
+- `radak:2:8:1` follows: Radak: וַיִּטַּע means he brought it into existence there on the third day.
+- `radak:2:8:5` follows: Radak: מִקֶּדֶם means on the east side.
+- `radak:2:8:7` follows: Radak: 'and put there' means he was not formed there; perhaps near the garden, and told to dwell in it.
+- `onkelos:2:8:1` records: Onkelos: 'a garden in Eden anciently (מלקדמין)', reading מקדם as time.
+- `sforno:2:8:1` records: Sforno: having formed him as described, he left him there in a place ready to receive the image of God.
 
 ## Lexicon
 
