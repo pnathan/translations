@@ -1,0 +1,49 @@
+{
+  "unit": "lekh-lekha-15",
+  "model": "opus",
+  "summary": "The English of 17:9-14 is accurate and follows Rashi and Ibn Ezra throughout, including the active reading of וּנְמַלְתֶּם and יִמּוֹל. The faults are in the lexical data: several senses were filled mechanically or name a binyan that fits neither the parse nor the English (Hithpo for וּנְמַלְתֶּם, Hoph for הֵפַר, Niph for active יִמּוֹל), מִקְנָה is given 'possession' for 'purchase', and בָּשָׂר is given 'the body itself' for the flesh of the foreskin. Two Ibn Ezra summaries misstate him (17:10 on the form of הִמּוֹל, 17:12 on who is circumcised at eight days), and the 17:14 note misreads his יפעול as 'do'.",
+  "patches": [
+    {"ref": "17:9", "path": "token:17:9.8.note", "value": "yiqtol with the force of a command; in pause at the etnaḥta, though the form is the same as out of pause", "severity": "style", "reason": "תִשְׁמֹר has no distinct pausal form; the old note called it a pausal form."},
+    {"ref": "17:10", "path": "token:17:10.9.note", "value": "in pause at the etnaḥta; the form is unchanged", "severity": "style", "reason": "אַחֲרֶיךָ has no distinct pausal form; the old note called it a pausal form."},
+    {"ref": "17:10", "path": "commentary:ibn-ezra:17:10:1.summary", "value": "Ibn Ezra: הִמּוֹל is like לְהִמּוֹל, the infinitive (שם הפועל) of a verb whose second root letter is weak, the root seen in וַיָּמָל (17:23); its pattern is that of לְהִכּוֹן.", "severity": "error", "reason": "Ibn Ezra cites וימל (17:23) for the root, not as another verbal noun, and gives the pattern להכון; the old summary made 17:23 an example of the same verbal noun and dropped the pattern."},
+    {"ref": "17:11", "path": "token:17:11.1.sense", "value": "", "severity": "error", "reason": "The only sense of the entry נָמַל in the pack is Hithpo 'be cut off', which fits neither the parse nor the English 'you shall circumcise'; the sense is removed."},
+    {"ref": "17:11", "path": "token:17:11.1.note", "value": "weqatal with imperative force. The pack parses it Niphal of נָמַל; Rashi (like וּמַלְתֶּם, וּנְשָׂאתֶם) and Ibn Ezra (like וּשְׁמַרְתֶּם) both take it as active, with a radical nun, 'you shall circumcise', and the English follows them. The entry's only sense, Hithpo 'be cut off', does not fit, so no sense is given.", "severity": "error", "reason": "Records the removed sense; Rashi and Ibn Ezra agree that the nun is a radical (Rashi: one that drops at times), which the old note set against each other as 'extra or root letter'."},
+    {"ref": "17:11", "path": "note", "value": "Rashi: וּנְמַלְתֶּם is like וּמַלְתֶּם, the nun being a radical that drops at times, as in וּנְשָׂאתֶם. Ibn Ezra: like וּשְׁמַרְתֶּם, the nun a root letter. Both read it as active, 'you shall circumcise', though the pack parses it Niphal; the English follows them. The pack's entry נָמַל lists only Hithpo 'be cut off', which does not fit here, so the token has no sense.", "severity": "error", "reason": "The old note said the Hithpo sense was kept; it is now removed."},
+    {"ref": "17:11", "path": "token:17:11.3.sense", "value": "1", "severity": "error", "reason": "בְּשַׂר עָרְלַתְכֶם is the flesh (tissue) of the body, sense 1, not 'the body itself' (sense 2)."},
+    {"ref": "17:12", "path": "token:17:12.11.sense", "value": "1", "severity": "error", "reason": "מִקְנַת כֶּסֶף is 'a purchase of money', one bought: sense 1 'purchase', not 3 'possession'; the gloss 'one bought with' already says so."},
+    {"ref": "17:12", "path": "token:17:12.14.sense", "value": "7.a", "severity": "question", "reason": "In בֶּן־נֵכָר 'son' marks a member of a class (a foreigner), sense 7.a 'member', not a literal son (sense 1)."},
+    {"ref": "17:12", "path": "commentary:ibn-ezra:17:12:1.summary", "value": "Ibn Ezra: יִמּוֹל is Niphal, as is הִמּוֹל יִמּוֹל. Why is 'one born in your house' said a second time? Every male that is yours, of your own seed and also one born in the house or bought, shall be circumcised at eight days; and you, Abraham, shall circumcise your house-born and bought slaves today, even if they are grown.", "severity": "error", "reason": "Ibn Ezra lists two groups at eight days, your seed and also the house-born or bought; the old summary made 'born in the house or bought' describe the descendants."},
+    {"ref": "17:13", "path": "token:17:13.5.sense", "value": "1", "severity": "error", "reason": "מִקְנַת כַּסְפֶּךָ is 'a purchase of your money', one bought: sense 1 'purchase', not 3 'possession'."},
+    {"ref": "17:13", "path": "token:17:13.9.sense", "value": "1", "severity": "question", "reason": "The gloss and the English say 'in your flesh' (sense 1); sense 3 'male organ' is Sforno's reading, which the unit only records."},
+    {"ref": "17:13", "path": "grammar", "value": [
+      "הִמּוֹל יִמּוֹל is the infinitive absolute before the finite verb of the same root: it stresses the duty ('must be circumcised').",
+      "The verb stands first and the subject follows: 'must be circumcised, the one born ...'.",
+      "וְהָיְתָה is feminine because its subject בְּרִיתִי is feminine; the weqatal carries on from the command.",
+      "In לִבְרִית עוֹלָם the preposition לְ marks what the covenant becomes, 'as an everlasting covenant'; בְּרִית עוֹלָם is a construct pair, 'a covenant of perpetuity'."
+    ], "severity": "error", "reason": "The last note called לִבְרִית עוֹלָם a purpose clause; it is a phrase with predicative לְ after הָיָה, not a clause."},
+    {"ref": "17:14", "path": "token:17:14.5.sense", "value": "", "severity": "error", "reason": "Sense Niph 'be circumcised' contradicts the active English 'he circumcises', which follows Ibn Ezra and Radak (active, from נמל); no sense of the pack's entry fits both the parse and the English, so the sense is removed."},
+    {"ref": "17:14", "path": "token:17:14.5.note", "value": "yiqtol. The pack parses it Niphal of מוּל ('is not circumcised'); Ibn Ezra reads it as active, of the pattern יִפְעֹל like יִדֹּר נֶדֶר, from the root of וּנְמַלְתֶּם, and Radak as Qal of נמל, with אֶת־בְּשַׂר as its object. The English follows them, so no sense of the entry is given.", "severity": "error", "reason": "The old note said Ibn Ezra takes the verb as 'do'; יפעול is the paradigm form (Qal yiqtol), not the verb 'do'."},
+    {"ref": "17:14", "path": "token:17:14.7.sense", "value": "1", "severity": "error", "reason": "בְּשַׂר עָרְלָתוֹ is the flesh (tissue) of the body, sense 1, not 'the body itself' (sense 2)."},
+    {"ref": "17:14", "path": "token:17:14.15.sense", "value": "", "severity": "error", "reason": "Hoph 2 'be broken' is passive; הֵפַר is Hifil 'he has broken'. The pack lists no Hifil sense of פָּרַר, so the sense is removed."},
+    {"ref": "17:14", "path": "token:17:14.15.note", "value": "Hifil perfect, 3rd masculine singular, of the doubled root פרר, 'break, annul'; the pack's entry lists only Hophal and Pilpel senses, so no sense is given", "severity": "style", "reason": "Records the removed sense."},
+    {"ref": "17:14", "path": "commentary:ibn-ezra:17:14:1", "value": {"relation": "follows", "summary": "Ibn Ezra: יִמּוֹל is of the pattern יִפְעֹל, like יִדֹּר נֶדֶר (Num 30:3), from וּנְמַלְתֶּם: if he is of age and does not circumcise himself, he is liable to kareth at the hands of heaven, since a small boy's duty rests on the father. Those who think an uncircumcised child has no share in the world to come are wrong: נֶפֶשׁ means 'person', a body with a soul. Kareth is either death before fifty-two or the cutting off of his name at the death of his seed, hence 'from his kin'."}, "severity": "error", "reason": "The English adopts Ibn Ezra's active reading of יִמּוֹל ('who does not circumcise') and his 'person' for נֶפֶשׁ, so the relation is follows, not records; the summary now gives his root and his rejection of the other view of נֶפֶשׁ."},
+    {"ref": "17:14", "path": "commentary:rashi:17:14:3.summary", "value": "Rashi: 'cut off' means he goes childless and dies before his time (Shabbat, cited as 24).", "severity": "style", "reason": "The comment in the pack cites שבת כ\"ד, not 25a."}
+  ],
+  "verdicts": [
+    {"anchor": "rashi:17:9:1", "verdict": "consistent", "comment": "'As for you, you shall keep my covenant' carries Rashi's 'and you, be careful to keep it'."},
+    {"anchor": "rashi:17:10:1", "verdict": "consistent"},
+    {"anchor": "rashi:17:10:2", "verdict": "consistent"},
+    {"anchor": "rashi:17:10:3", "verdict": "consistent", "comment": "'is to be circumcised' renders הִמּוֹל as an infinitive."},
+    {"anchor": "ibn-ezra:17:10:1", "verdict": "consistent"},
+    {"anchor": "rashi:17:11:1", "verdict": "consistent", "comment": "Active 'you shall circumcise', as Rashi's וּמַלְתֶּם."},
+    {"anchor": "ibn-ezra:17:11:1", "verdict": "consistent"},
+    {"anchor": "rashi:17:12:1", "verdict": "consistent"},
+    {"anchor": "rashi:17:12:2", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:17:12:1", "verdict": "consistent", "comment": "The English sets house-born and bought under the eight-day rule, as Ibn Ezra reads it."},
+    {"anchor": "rashi:17:13:1", "verdict": "consistent"},
+    {"anchor": "rashi:17:14:1", "verdict": "consistent"},
+    {"anchor": "rashi:17:14:2", "verdict": "consistent"},
+    {"anchor": "rashi:17:14:3", "verdict": "consistent", "comment": "The English keeps 'cut off' and leaves the explanation to the commentary."},
+    {"anchor": "ibn-ezra:17:14:1", "verdict": "consistent", "comment": "Active 'who does not circumcise' and 'that person' follow him."}
+  ]
+}

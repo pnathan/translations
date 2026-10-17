@@ -1,0 +1,220 @@
+{
+ "unit": "lekh-lekha-14",
+ "model": "opus",
+ "summary": "A sound translation of Genesis 17:1-8: the English lines are accurate and follow the decisions, and none needs a change. The faults are in the apparatus. Several senses were picked from the wrong place in the entry: תָּמִים, אָב, מִן, the Hiphil of קוּם with בְּרִית, and אֱלֹהִים without the article. Two grammar notes made false claims (the Piel of דבר; telisha gedola as emphasis). The 17:5 note and the Rashi ruling misreport the commentators on the letters of אַבְרָהָם. Two Ibn Ezra rulings said 'follows' for readings the English only records.",
+ "patches": [
+  {
+   "ref": "17:1",
+   "path": "token:17:1.20.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 1 'complete, whole, entire' is used of things (a day, a year). Of a person's conduct before God the entry's sense is 4 'sound, wholesome, unimpaired, innocent, having integrity'. Rashi (שָׁלֵם בְּכָל נִסְיוֹנוֹתַי) and Onkelos (שְׁלִים) read it the same way."
+  },
+  {
+   "ref": "17:1",
+   "path": "commentary:ibn-ezra:17:1:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: שַׁדַּי is an adjectival title (שם התואר) meaning 'mighty' (תקיף), as in כְּקוֹל שַׁדַּי (Ezekiel 1:24) and Job 22:25; many derive it from שׁוֹדֵד, one who overpowers. The name is mentioned here so that Abram would fear and circumcise himself. The English keeps the name El Shaddai untranslated, as the decisions require, and records this reading."
+   },
+   "severity": "error",
+   "reason": "The ruling said 'follows' and claimed that the English keeps El Shaddai 'as a title of power'. The English leaves the name untranslated, and the translator's own note says the English does not choose among Rashi, Ibn Ezra and Ramban. That is 'records', as for Rashi's derivation. The summary also left out his reason for the name here (לירא אברם וימול)."
+  },
+  {
+   "ref": "17:2",
+   "path": "grammar",
+   "value": [
+    "Both verbs are cohortatives (אֶתְּנָה, אַרְבֶּה) and express the speaker's resolve.",
+    "וְאֶתְּנָה follows the two imperatives of verse 1. A ו-cohortative after an imperative often gives the purpose or the consequence ('walk … be whole, and I will set'). Rashi's 'by means of this commandment' reads the covenant as following on the command.",
+    "בֵּין is repeated before each party: בֵּינִי וּבֵינֶךָ.",
+    "בִּמְאֹד מְאֹד doubles מְאֹד for the superlative; Radak says the doubling intensifies the increase."
+   ],
+   "severity": "style",
+   "reason": "Learner note: the link between the imperatives of 17:1 and the cohortative וְאֶתְּנָה is the key syntax of the passage and was missing."
+  },
+  {
+   "ref": "17:2",
+   "path": "token:17:2.7.gloss",
+   "value": "exceedingly",
+   "severity": "style",
+   "reason": "'in very' is not English. The pair בִּמְאֹד מְאֹד is glossed 'exceedingly … very' at 17:6.3-4; this keeps the two verses the same."
+  },
+  {
+   "ref": "17:2",
+   "path": "token:17:2.8.gloss",
+   "value": "very",
+   "severity": "style",
+   "reason": "Matches 17:6.4; 'much' alone does not render the repeated adverb."
+  },
+  {
+   "ref": "17:3",
+   "path": "token:17:3.7.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 3 is הָאֱלֹהִים with the article, 'the (true) God'. Here the word has no article: sense 4 'אֱלֹהִים = God'."
+  },
+  {
+   "ref": "17:3",
+   "path": "grammar",
+   "value": [
+    "פָּנִים is a plural noun used of one face; עַל־פָּנָיו 'on his face' is the idiom for prostration.",
+    "וַיְדַבֵּר is a Piel wayyiqtol. The Piel is the ordinary stem of דבר 'speak'; it does not mark a conversation as opposed to a command.",
+    "אִתּוֹ is the preposition אֵת 'with' with a suffix, not the object marker.",
+    "The subject is אֱלֹהִים, though verse 1 names יְהוָה as the one who appeared: the speaker is the same.",
+    "לֵאמֹר 'saying' is an infinitive construct with ל and introduces direct speech."
+   ],
+   "severity": "error",
+   "reason": "The note said the Piel of דבר 'marks a conversation rather than a command'. That is false: the Piel is simply the normal stem of this verb, as the lexicon shows (Qal is rare). The note on the change of divine name was also muddled."
+  },
+  {
+   "ref": "17:4",
+   "path": "token:17:4.6.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "Sense 2 of אָב is 'of God as father of his people'. Abraham as father of a multitude of nations is their progenitor: sense 4 'ancestor'. The same choice was made at 10:21 in noach-16."
+  },
+  {
+   "ref": "17:5",
+   "path": "token:17:5.11.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "As at 17:4.6: sense 2 is God as father of his people. Abraham is the progenitor of the nations, sense 4."
+  },
+  {
+   "ref": "17:5",
+   "path": "note",
+   "value": "Per the decisions, the meaning of the name goes in the notes and not in the English line. Rashi reads כִּי אַב הֲמוֹן גּוֹיִם as a notarikon (abbreviation) of the name אַבְרָהָם: the resh, which belonged to the name when he was father only of Aram, was not removed now that he is father of the whole world. Ibn Ezra explains the resh, which אַב הֲמוֹן does not account for, as coming from אַבִּיר: 'mighty one of a multitude of nations'. He also says the change of name does not take a letter away but only adds one, the he.",
+   "severity": "error",
+   "reason": "The note said that Ibn Ezra takes 'the he as an addition from אביר המון גוים'. That is wrong: Ibn Ezra explains the resh (תוספות הרי\"ש) through אַבִּיר. The added letter is the he."
+  },
+  {
+   "ref": "17:5",
+   "path": "commentary:rashi:17:5:1.summary",
+   "value": "Rashi: כִּי אַב הֲמוֹן גּוֹיִם is a notarikon of the name אַבְרָהָם. The resh, which belonged to the name when he was father only of Aram, his homeland, was not removed now that he is father of the whole world. Even the yod taken from Sarai's name complained before the Shekhinah until it was added to Joshua's name (Numbers 13:16).",
+   "severity": "error",
+   "reason": "The summary said that 'the added letter marks his becoming father to the whole world, as the yod of Sarai was added to Joshua'. Rashi's point is different: a letter is not taken out of a righteous person's name, which is why the resh of the old meaning stays. The yod of Sarai, which was removed, complained until it was given to Joshua."
+  },
+  {
+   "ref": "17:5",
+   "path": "commentary:ibn-ezra:17:5:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: the resh in אַבְרָהָם, which is extra beyond אַב הֲמוֹן, stands for אַבִּיר, so the name means 'mighty one of a multitude of nations'. The change does not take a letter away from his name but only adds one. The English line does not render the name; the gloss gives the text's own explanation, and this reading is recorded in the note."
+   },
+   "severity": "error",
+   "reason": "The ruling said 'follows' and that 'the English renders the sense of the new name'. By decision it does not: the name's meaning is only in the gloss and the notes, and the gloss there is 'father of a multitude', not Ibn Ezra's אַבִּיר."
+  },
+  {
+   "ref": "17:6",
+   "path": "token:17:6.8.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Sense 4.a of מִן is temporal ('from, since'). Kings coming out of Abraham is source or origin: sense 2 'out of'."
+  },
+  {
+   "ref": "17:7",
+   "path": "token:17:7.1.sense",
+   "value": "Hiph 6",
+   "severity": "error",
+   "reason": "With בְּרִית as object, the Hiphil of קוּם is 'cause to stand, establish' (Hiph 6). Hiph 2.a 'raise, set up' is for stones and pillars. The same correction was made at 6:18 and 9:9 in noach-10/11."
+  },
+  {
+   "ref": "17:7",
+   "path": "token:17:7.14.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "לֵאלֹהִים has no article (it is not לָאֱלֹהִים). Sense 3 is the form with the article, הָאֱלֹהִים; this is sense 4."
+  },
+  {
+   "ref": "17:8",
+   "path": "token:17:8.16.sense",
+   "value": "4",
+   "severity": "error",
+   "reason": "As at 17:7.14: לֵאלֹהִים has no article, so the sense is 4, not 3 (הָאֱלֹהִים)."
+  },
+  {
+   "ref": "17:8",
+   "path": "token:17:8.10.sense",
+   "value": "2.e",
+   "severity": "style",
+   "reason": "אֶרֶץ כְּנַעַן is exactly the entry's sense 2.e 'specif. land of Canaan'."
+  },
+  {
+   "ref": "17:8",
+   "path": "grammar",
+   "value": [
+    "The verse has two objects, each marked by אֵת: אֶרֶץ מְגֻרֶיךָ and כָּל־אֶרֶץ כְּנַעַן. The second is in apposition and widens the first. Radak: not only the places where you sojourn but all the land of Canaan.",
+    "מְגֻרֶיךָ is plural, 'your sojournings': the places where Abraham has lived as a גֵּר, a resident alien.",
+    "לְךָ carries telisha gedola, a disjunctive accent written on the first letter of the word and repeated here on the stressed syllable. It marks a minor pause, not emphasis. The geresh on אַחֲרֶיךָ, the revia on מְגֻרֶיךָ and the etnaḥta on עוֹלָם divide the recipients, the land and the term.",
+    "וְהָיִיתִי לָהֶם לֵאלֹהִים repeats the formula of verse 7 (לִהְיוֹת לְךָ לֵאלֹהִים), now with the plural 'to them'."
+   ],
+   "severity": "error",
+   "reason": "Two claims were wrong. Telisha gedola is a minor disjunctive accent and does not mark emphasis. The second אֵת phrase does not 'narrow and widen' the first: it widens it, as Radak says."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:17:1:1",
+   "verdict": "consistent",
+   "comment": "The name is untranslated by decision; Rashi's derivation from דַּי is in the note."
+  },
+  {
+   "anchor": "rashi:17:1:2",
+   "verdict": "consistent",
+   "comment": "'Walk before me' keeps the idiom; Rashi's 'serve me' (Onkelos פְּלַח קֳדָמַי) is in the grammar notes."
+  },
+  {
+   "anchor": "rashi:17:1:3",
+   "verdict": "consistent",
+   "comment": "'and be whole' is a second command, as Rashi says (צִוּוּי אַחַר צִוּוּי)."
+  },
+  {
+   "anchor": "ibn-ezra:17:1:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra's 'mighty' is recorded, not rendered, because the name stays untranslated."
+  },
+  {
+   "anchor": "ibn-ezra:17:1:2",
+   "verdict": "consistent",
+   "comment": "'be whole' leaves room for Ibn Ezra's 'do not ask why'."
+  },
+  {
+   "anchor": "rashi:17:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:3:1",
+   "verdict": "consistent",
+   "comment": "The English gives the act; Rashi gives its reason."
+  },
+  {
+   "anchor": "rashi:17:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:17:5:1",
+   "verdict": "consistent",
+   "comment": "The English line does not render the name, so his reading of it does not bear on the line."
+  },
+  {
+   "anchor": "ibn-ezra:17:5:2",
+   "verdict": "not-applicable",
+   "comment": "It concerns שָׂרָה and the timing of the circumcision, not the words of 17:5."
+  },
+  {
+   "anchor": "rashi:17:6:1",
+   "verdict": "consistent",
+   "comment": "'nations' stays open; Rashi's identification (Israel and Edom) is recorded."
+  },
+  {
+   "anchor": "rashi:17:7:1",
+   "verdict": "consistent",
+   "comment": "'to be God to you' stands as the content of the covenant."
+  },
+  {
+   "anchor": "rashi:17:8:1",
+   "verdict": "consistent",
+   "comment": "A homily on the land; the English does not contradict it."
+  }
+ ]
+}
