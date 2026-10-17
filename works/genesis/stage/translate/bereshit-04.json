@@ -1,0 +1,183 @@
+{
+  "unit": "bereshit-04",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "1:20",
+      "english": "God said, 'Let the waters bring forth swarms of living creatures, and let birds fly over the earth, across the face of the expanse of the sky.'",
+      "literal": "and-said God; let-bring-forth the-waters swarm-of living-creature; and-birds let-fly-about over the-earth upon face-of expanse-of the-heavens",
+      "tokens": [
+        {"id": "1:20.1", "gloss": "and said", "sense": "Qal 1", "note": "Wayyiqtol (sequential imperfect) of אָמַר. It opens the speech, so English needs no connective."},
+        {"id": "1:20.2", "gloss": "God", "sense": "3", "note": "Plural in form, with a singular verb. Of the God of Israel, so 'God' by the divine-name decision."},
+        {"id": "1:20.3", "gloss": "let bring forth", "note": "Yiqtol with volitive force in God's speech. Ibn Ezra reads it as transitive, 'bring forth' (see the commentary)."},
+        {"id": "1:20.4", "gloss": "the waters"},
+        {"id": "1:20.5", "gloss": "swarms of", "note": "Construct form of שֶׁרֶץ, 'swarm of'. It governs the next two words."},
+        {"id": "1:20.6", "gloss": "creatures", "sense": "1", "note": "נֶפֶשׁ as 'living being'. Rashi reads the phrase as 'with life in it' (see the commentary)."},
+        {"id": "1:20.7", "gloss": "living", "sense": "1.c"},
+        {"id": "1:20.8", "gloss": "and birds", "sense": "1", "note": "Rashi's list of sheretz puts flies among the fowl. 'Birds' is the plain sense of the lexicon entry."},
+        {"id": "1:20.9", "gloss": "let fly about", "sense": "Pō‛l 1", "note": "Polel yiqtol: 'fly about, to and fro'. The volitive force is the same as in 1:20.3."},
+        {"id": "1:20.10", "gloss": "over", "sense": "II.5"},
+        {"id": "1:20.11", "gloss": "the earth", "sense": "1.a"},
+        {"id": "1:20.12", "gloss": "across", "sense": "II.1", "note": "Literally 'upon'. The English reads the phrase as motion over a surface."},
+        {"id": "1:20.13", "gloss": "the face of", "sense": "I.1", "note": "Construct: 'face of'."},
+        {"id": "1:20.14", "gloss": "expanse of", "sense": "1", "note": "רָקִיעַ, the expanse of 1:6–8. Ibn Ezra takes it as the air in which birds fly (see the commentary)."},
+        {"id": "1:20.15", "gloss": "the sky", "sense": "1.a"}
+      ],
+      "phrases": [
+        {"tokens": ["1:20.1", "1:20.2"], "english": "God said", "literal": "and-said God; the wayyiqtol opens the speech, and its ו is not rendered"},
+        {"tokens": ["1:20.3", "1:20.4"], "english": "Let the waters bring forth", "literal": "let-bring-forth the-waters; yiqtol with volitive force, transitive by Ibn Ezra's reading"},
+        {"tokens": ["1:20.5", "1:20.6", "1:20.7"], "english": "swarms of living creatures", "literal": "swarm-of living-creature; the construct chain is the object of 'bring forth'"},
+        {"tokens": ["1:20.8", "1:20.9"], "english": "and let birds fly", "literal": "and-birds let-fly-about; a second volitive, with the same force as the first"},
+        {"tokens": ["1:20.10", "1:20.11"], "english": "over the earth", "literal": "over the-earth; the place over which the birds fly"},
+        {"tokens": ["1:20.12", "1:20.13", "1:20.14", "1:20.15"], "english": "across the face of the expanse of the sky", "literal": "upon face-of expanse-of the-heavens; 'upon the face of' is rendered 'across', and the expanse keeps the lexicon's sense"}
+      ],
+      "grammar": [
+        "וַיֹּאמֶר opens the speech. It is a wayyiqtol of אָמַר, rendered 'God said' with no connective. The speech runs to the end of the verse.",
+        "יִשְׁרְצוּ and יְעוֹפֵף are yiqtol forms in God's speech. They carry volitive force, so the English supplies 'let'. The subject of יִשְׁרְצוּ is הַמַּיִם; the subject of יְעוֹפֵף is the birds.",
+        "שֶׁרֶץ נֶפֶשׁ חַיָּה is a construct chain, 'swarm of living creature'. The construct שֶׁרֶץ governs the two nouns after it, and חַיָּה is feminine to agree with נֶפֶשׁ.",
+        "The etnaḥta on חַיָּה closes the first clause, the waters and their swarms. The pashta on וְעוֹף opens the second, the birds. The zaqef qaton on הָאָרֶץ and the tipḥa on פְּנֵי divide the two place phrases, and the silluq on הַשָּׁמָיִם ends the verse."
+      ],
+      "note": "The English keeps the two clauses in the Hebrew's order: the waters and their swarms first, then the birds. 'Bring forth' for יִשְׁרְצוּ follows Ibn Ezra's transitive reading and Radak's sense of birth. 'Expanse of the sky' for רָקִיעַ keeps the lexicon's sense and does not decide whether the expanse is a solid vault.",
+      "commentary": [
+        {"anchor": "rashi:1:20:1", "relation": "follows", "summary": "Rashi glosses נֶפֶשׁ חַיָּה as 'that there be vitality in it' (שֶׁיְּהֵא בָהּ חַיּוּת): the creature is alive in itself. The English 'living creatures' follows him."},
+        {"anchor": "rashi:1:20:2", "relation": "follows", "summary": "Rashi: any living thing not raised above the earth is called שֶׁרֶץ, including flies among the fowl, mice and moles among the beasts, and all fish. The English 'swarms of living creatures' takes the whole class."},
+        {"anchor": "ibn-ezra:1:20:1", "relation": "follows", "summary": "Ibn Ezra reads יִשְׁרְצוּ as transitive, 'bring forth', like ושרץ היאור צפרדעים (Exod 7:28). He also takes the raqia as the air through which the birds fly, and cites the Gaon's reading of עַל פְּנֵי as 'with the face of'. The English follows the transitive reading and keeps the expanse open to his reading."},
+        {"anchor": "radak:1:20:1", "relation": "follows", "summary": "Radak: שרצה is begetting with multiplication (הַהוֹלָדָה עִם הָרִבּוּי), and the waters are named first because they lie above the earth. 'Bring forth' fits his sense of birth."}
+      ],
+      "apparatus": [
+        "1:20.3 יִשְׁרְצוּ: the intransitive 'swarm, teem' is the alternative. The English takes Ibn Ezra's transitive 'bring forth'.",
+        "1:20.14 רְקִיעַ: Ibn Ezra identifies the expanse with the air, and the Gaon reads עַל פְּנֵי as 'with the face of'. The English keeps 'expanse of the sky' and adopts neither point."
+      ]
+    },
+    {
+      "ref": "1:21",
+      "english": "God created the great sea creatures, and every living creature that creeps, which the waters brought forth after their kinds, and every winged bird after its kind. God saw that it was good.",
+      "literal": "and-created God OBJ the-sea-creatures the-great; and-OBJ all living-creature the-creeping which brought-forth the-waters after-their-kinds; and-OBJ all bird-of-wing after-its-kind; and-saw God that good",
+      "tokens": [
+        {"id": "1:21.1", "gloss": "and created", "sense": "Qal", "note": "Wayyiqtol of בָּרָא, 'create', the verb of 1:1. The English keeps 'create'."},
+        {"id": "1:21.2", "gloss": "God", "sense": "3"},
+        {"id": "1:21.3", "gloss": "(object marker)", "note": "Marks the definite direct object that follows. It has no English word."},
+        {"id": "1:21.4", "gloss": "the sea creatures", "note": "The lexicon gives 'serpent, dragon, sea-monster' with no senses. Rashi reads the plural as great fish of the sea, so the English avoids 'dragon' and 'monster'."},
+        {"id": "1:21.5", "gloss": "great", "note": "The lexicon's senses for גָּדוֹל (loud, do great things, greatness) do not give plain 'great', so no sense is given."},
+        {"id": "1:21.6", "gloss": "and (object marker)", "note": "The vav joins a new object; the marker repeats before 'every living creature'."},
+        {"id": "1:21.7", "gloss": "every", "sense": "1", "note": "כֹּל before a construct noun: 'every'."},
+        {"id": "1:21.8", "gloss": "creature", "sense": "1"},
+        {"id": "1:21.9", "gloss": "living", "sense": "1.c"},
+        {"id": "1:21.10", "gloss": "that creeps", "note": "Feminine participle agreeing with נֶפֶשׁ. The lexicon's 'creep, move lightly' is the sense taken. Ibn Ezra and Radak gloss 'walking'."},
+        {"id": "1:21.11", "gloss": "which", "note": "The relative אֲשֶׁר introduces a clause on 'every living creature'."},
+        {"id": "1:21.12", "gloss": "brought forth", "note": "Qatal of שָׁרַץ with the waters as subject. The same sense as 'bring forth' in 1:20.3."},
+        {"id": "1:21.13", "gloss": "the waters"},
+        {"id": "1:21.14", "gloss": "after their kinds", "note": "ל with מִין and a 3rd-person plural suffix: 'by their kind'."},
+        {"id": "1:21.15", "gloss": "and (object marker)", "note": "The vav joins the second object list, the birds."},
+        {"id": "1:21.16", "gloss": "every", "sense": "1"},
+        {"id": "1:21.17", "gloss": "bird", "sense": "1"},
+        {"id": "1:21.18", "gloss": "winged", "note": "Construct chain 'bird of wing', read as 'winged bird'."},
+        {"id": "1:21.19", "gloss": "after its kind", "note": "ל with מִין and a 3rd-person masculine singular suffix. The English takes it as 'after its kind' for each species."},
+        {"id": "1:21.20", "gloss": "and saw", "sense": "Qal 1.a", "note": "Wayyiqtol of רָאָה."},
+        {"id": "1:21.21", "gloss": "God", "sense": "3"},
+        {"id": "1:21.22", "gloss": "that", "sense": "1", "note": "כִּי introduces the object of 'saw'."},
+        {"id": "1:21.23", "gloss": "good", "sense": "3", "note": "Verbless clause, 'that good'. The English supplies 'it was'."}
+      ],
+      "phrases": [
+        {"tokens": ["1:21.1", "1:21.2"], "english": "God created", "literal": "and-created God; the verb of 1:1, with God as subject"},
+        {"tokens": ["1:21.3"], "english": "-", "literal": "object marker, no English counterpart"},
+        {"tokens": ["1:21.4", "1:21.5"], "english": "the great sea creatures", "literal": "the-sea-creatures the-great; Rashi: great fish of the sea"},
+        {"tokens": ["1:21.6", "1:21.7", "1:21.8", "1:21.9"], "english": "and every living creature", "literal": "and-OBJ all creature the-living; the second object list opens with the vav and the marker"},
+        {"tokens": ["1:21.10"], "english": "that creeps", "literal": "the-creeping (feminine participle); relative to 'every living creature'"},
+        {"tokens": ["1:21.11", "1:21.12", "1:21.13", "1:21.14"], "english": "which the waters brought forth after their kinds", "literal": "which brought-forth the-waters after-their-kinds; the waters are the subject, as in 1:20.3"},
+        {"tokens": ["1:21.15", "1:21.16", "1:21.17", "1:21.18", "1:21.19"], "english": "and every winged bird after its kind", "literal": "and-OBJ all bird-of-wing after-its-kind; the second list, for the birds"},
+        {"tokens": ["1:21.20", "1:21.21"], "english": "God saw", "literal": "and-saw God; the wayyiqtol carries on the narrative"},
+        {"tokens": ["1:21.22", "1:21.23"], "english": "that it was good", "literal": "that good; the clause has no verb, so 'it was' is supplied"}
+      ],
+      "grammar": [
+        "וַיִּבְרָא is a wayyiqtol of בָּרָא, 'create'. It is the verb of 1:1 and is used here for the great creatures, so the English keeps 'create' rather than 'make'.",
+        "הָרֹמֶשֶׂת is a feminine participle that agrees with נֶפֶשׁ הַחַיָּה, which is feminine. The English 'that creeps' is a relative clause on 'every living creature'.",
+        "אֲשֶׁר שָׁרְצוּ הַמַּיִם is a relative clause. The verb is a qatal of שָׁרַץ and the waters are its subject, so the English 'which the waters brought forth' matches 1:20.3.",
+        "The etnaḥta on הַגְּדֹלִים closes the first clause. The pazer on הָרֹמֶשֶׂת and the telisha on אֲשֶׁר mark the relative phrase, and the zaqef qaton on לְמִינֵהוּ closes the second list. The silluq on טוֹב ends the verse.",
+        "God saw is a wayyiqtol, and כִּי טוֹב is a verbless clause, 'that good'. The English supplies 'it was' to give the clause a verb."
+      ],
+      "note": "The verse has two lists joined by 'and'. 'Great sea creatures' keeps Rashi's plain sense, fish of the sea, and drops the Leviathan aggada, which the English does not take up. 'Creeps' is the lexicon's sense; Ibn Ezra's and Radak's 'walking' is recorded in the commentary.",
+      "commentary": [
+        {"anchor": "rashi:1:21:1", "relation": "follows", "summary": "Rashi: the תַּנִּינִם הַגְּדֹלִים are 'great fish of the sea' (דָּגִים גְּדוֹלִים שֶׁבַּיָּם). He adds the aggada of Leviathan and his mate, killed and salted for the righteous, which the English does not take up."},
+        {"anchor": "rashi:1:21:2", "relation": "follows", "summary": "Rashi glosses נֶפֶשׁ הַחַיָּה as a living thing 'in which there is life' (שֶׁיֵּשׁ בָּהּ חַיּוּת). The English 'living creature' follows him."},
+        {"anchor": "ibn-ezra:1:21:1", "relation": "records", "summary": "Ibn Ezra glosses הָרֹמֶשֶׂת 'in the sense of הוֹלֶכֶת', walking, and notes an opinion about the placement of the shin under the samekh. The English keeps the lexicon's 'creeps', so his 'walking' is recorded here."},
+        {"anchor": "ramban:1:21:1", "relation": "follows", "summary": "Ramban explains bara for these creatures by their size and by creation from nothing, as in 1:1. The English keeps 'created' and does not take up the Leviathan aggada he cites."}
+      ],
+      "apparatus": [
+        "1:21.4 תַּנִּינִם: Rashi's 'great fish of the sea' is the plain sense. Ramban's and the aggada's Leviathan is not adopted.",
+        "1:21.5 גְּדֹלִים: no sense is given, because the lexicon's senses for גָּדוֹל do not include plain 'great'.",
+        "1:21.10 הָרֹמֶשֶׂת: 'creeping' from the lexicon against Ibn Ezra's and Radak's 'walking'. The English takes the lexicon."
+      ]
+    },
+    {
+      "ref": "1:22",
+      "english": "God blessed them, saying, 'Bear fruit and become numerous, and fill the waters in the seas, and let the birds become numerous on the earth.'",
+      "literal": "and-blessed them God saying: bear-fruit and-become-many, and-fill OBJ the-waters in-the-seas; and-the-birds let-become-many on-the-earth",
+      "tokens": [
+        {"id": "1:22.1", "gloss": "and blessed", "sense": "Pi 2", "note": "Piel wayyiqtol of בָּרַךְ. God is the subject."},
+        {"id": "1:22.2", "gloss": "them", "note": "The object marker with a 3rd-person masculine plural suffix."},
+        {"id": "1:22.3", "gloss": "God", "sense": "3"},
+        {"id": "1:22.4", "gloss": "saying", "sense": "Qal 1", "note": "Infinitive construct with ל, introducing the speech."},
+        {"id": "1:22.5", "gloss": "bear fruit", "sense": "Hiph 3", "note": "The pack parses פְּרוּ as qal imperative, but the lexicon lists only Hiph senses. 'Bear fruit' is the nearest, and it follows Rashi's 'make fruit'."},
+        {"id": "1:22.6", "gloss": "and become numerous", "sense": "Qal 1", "note": "Qal imperative of רָבָה, 'become many'. Rashi reads it as one parent producing many."},
+        {"id": "1:22.7", "gloss": "and fill", "sense": "Qal 2"},
+        {"id": "1:22.8", "gloss": "(object marker)", "note": "Marks the direct object 'the waters'."},
+        {"id": "1:22.9", "gloss": "the waters"},
+        {"id": "1:22.10", "gloss": "in the seas", "note": "The locative בַּ with the plural of יָם. The English reads it as a place, as in the apparatus."},
+        {"id": "1:22.11", "gloss": "and the birds", "sense": "1"},
+        {"id": "1:22.12", "gloss": "become numerous", "sense": "Qal 1", "note": "Third-person jussive. The birds are the subject of a wish, not addressed directly as the waters are."},
+        {"id": "1:22.13", "gloss": "on the earth", "sense": "1.a"}
+      ],
+      "phrases": [
+        {"tokens": ["1:22.1", "1:22.2", "1:22.3"], "english": "God blessed them", "literal": "and-blessed them God; a piel wayyiqtol with God as subject"},
+        {"tokens": ["1:22.4"], "english": "saying", "literal": "saying; infinitive construct introducing the speech"},
+        {"tokens": ["1:22.5", "1:22.6"], "english": "bear fruit and become numerous", "literal": "bear-fruit and-become-many; the two imperatives of the blessing"},
+        {"tokens": ["1:22.7", "1:22.8", "1:22.9", "1:22.10"], "english": "and fill the waters in the seas", "literal": "and-fill OBJ the-waters in-the-seas; the object marker has no English counterpart"},
+        {"tokens": ["1:22.11", "1:22.12", "1:22.13"], "english": "and let the birds become numerous on the earth", "literal": "and-the-birds let-become-many on-the-earth; a jussive with the birds as subject"}
+      ],
+      "grammar": [
+        "וַיְבָרֶךְ אֹתָם is a piel wayyiqtol of בָּרַךְ, 'bless', with God as subject. The object marker with its suffix gives 'them'.",
+        "לֵאמֹר is an infinitive construct with the preposition ל. It introduces the speech, so the English needs 'saying'.",
+        "The imperatives פְּרוּ, וּרְבוּ and וּמִלְאוּ are second-person plural. They are addressed to the creatures, which is why the English can use direct commands.",
+        "The jussive יִרֶב is third-person, with the birds as its subject. The English 'let the birds become numerous' keeps this shift from the imperatives.",
+        "The zaqef qaton on בַּיַּמִּים closes the first half of the blessing. The tipḥa on וְהָעוֹף and the merkha on יִרֶב divide the second half, and the silluq on בָּאָרֶץ ends the verse."
+      ],
+      "note": "'Bear fruit' takes Rashi's 'make fruit' for פְּרוּ. 'Become numerous' takes Rashi's point that each parent produces many. 'In the seas' is the literal locative; the apparatus records a wider reading.",
+      "commentary": [
+        {"anchor": "rashi:1:22:1", "relation": "follows", "summary": "Rashi: the creatures needed a blessing because hunters and humans diminish them. The beasts were not blessed, because of the serpent destined for a curse. The English 'them' is the fish and the birds only."},
+        {"anchor": "rashi:1:22:2", "relation": "follows", "summary": "Rashi glosses פְּרוּ as 'make fruit' (עֲשׂוּ פֵּרוֹת). The English 'bear fruit' follows him."},
+        {"anchor": "rashi:1:22:3", "relation": "follows", "summary": "Rashi: had God said only פְּרוּ, each would beget one; וּרְבוּ means that each begets many. The English 'become numerous' keeps this second sense of the verb."},
+        {"anchor": "ibn-ezra:1:22:1", "relation": "records", "summary": "Ibn Ezra reads פרו ורבו as future, 'you shall bear fruit and multiply' (תפרו ותרבו), comparing ומות בהר (Deut 32:50), because the blessing is not in their own power. The English keeps the Hebrew's imperative form."}
+      ],
+      "apparatus": [
+        "1:22.10 בַּיַּמִּים: 'in the seas' is the literal locative. Ramban (not normative) reads the blessing as also covering rivers and pools.",
+        "1:22.5 פְּרוּ: the pack parses the form as qal, but the lexicon lists only Hiph senses for פָּרָה. The English follows Rashi's 'make fruit' and the Hiph sense 'bear fruit'."
+      ]
+    },
+    {
+      "ref": "1:23",
+      "english": "There was evening, and there was morning: the fifth day.",
+      "literal": "and-there-was evening, and-there-was morning: day fifth",
+      "tokens": [
+        {"id": "1:23.1", "gloss": "and there was", "sense": "Qal III.1", "note": "Wayyiqtol of הָיָה in the existential sense, 'there was'."},
+        {"id": "1:23.2", "gloss": "evening", "sense": "1.a", "note": "Absolute, with no article."},
+        {"id": "1:23.3", "gloss": "and there was", "sense": "Qal III.1", "note": "The same wayyiqtol, repeated for the morning."},
+        {"id": "1:23.4", "gloss": "morning", "sense": "1", "note": "Absolute, with no article."},
+        {"id": "1:23.5", "gloss": "day", "sense": "1"},
+        {"id": "1:23.6", "gloss": "fifth", "note": "Ordinal adjective agreeing with יוֹם. The lexicon gives no sense for the ordinal."}
+      ],
+      "phrases": [
+        {"tokens": ["1:23.1", "1:23.2"], "english": "There was evening", "literal": "and-there-was evening; the wayyiqtol's ו is not rendered at the start of the refrain"},
+        {"tokens": ["1:23.3", "1:23.4"], "english": "and there was morning", "literal": "and-there-was morning; the second half of the refrain"},
+        {"tokens": ["1:23.5", "1:23.6"], "english": "the fifth day", "literal": "day fifth; the day named by its ordinal, after the colon"}
+      ],
+      "grammar": [
+        "וַיְהִי is a wayyiqtol of הָיָה in the existential sense, 'there was'. The refrain repeats it for the morning.",
+        "עֶרֶב and בֹּקֶר are absolute nouns, with no article. Evening is named first, as in the text.",
+        "יוֹם חֲמִישִׁי: the ordinal חֲמִישִׁי agrees with יוֹם, 'the fifth day'. The English gives the ordinal in words.",
+        "The merkha on עֶרֶב and the tipḥa on בֹּקֶר divide the refrain. The silluq on חֲמִישִׁי ends the verse. The petucha (פ) after the verse is a paragraph break in the text."
+      ],
+      "commentary": []
+    }
+  ]
+}
