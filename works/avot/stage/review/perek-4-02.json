@@ -1,0 +1,1314 @@
+{
+ "unit": "perek-4-02",
+ "model": "opus",
+ "summary": "The English of 4:7-4:12 is faithful and consistent with Bartenura and Rambam throughout; the one change to a reading is 'a vain oath' for 'a false oath' in 4:7, which narrowed Bartenura's two readings to his second. The main faults are in the word analysis: many senses were taken mechanically from wrong homographs (place-names and proper names for עֶצֶם, דָּן, אָדָם, שָׂכָר, קָנָה, טוֹב, שֵׁם; 'falcon' for גַּס; 'where?' for אֵין; 'captain' for רַב), and nouns were given verb entries (עֹנִי, עֹשֶׁר, עֵסֶק, מִעֵט); these are re-pointed to the Jastrow entries the pack holds or their senses removed. In 4:7 the glosses of גַּס, לִבּוֹ and בַהוֹרָאָה were shifted by one word. Two Rambam summaries omitted the part bearing on the English, and the 4:12 chain note was false. The model morphology needed fixes to construct/absolute state (גַּס רוּחַ, מוֹרָא), the elided article after ב, the unsplit כִּתְרִיס, and the lemma and root of קִיֵּם.",
+ "patches": [
+  {
+   "ref": "4:7",
+   "path": "token:4:7.2.lex",
+   "value": "jastrow:יִשְׁמָעֵאל",
+   "severity": "style",
+   "reason": "The BDB entry lists only biblical bearers of the name; the Jastrow entry has the Tanna Rabbi Ishmael."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.2.sense",
+   "value": "6",
+   "severity": "style",
+   "reason": "Sense 6 of jastrow:יִשְׁמָעֵאל is the Tanna Rabbi Ishmael."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.2.lex",
+   "value": "jastrow:יוֹנָתָן",
+   "severity": "style",
+   "reason": "The BDB entry lists only biblical bearers of the name; the Jastrow entry has the Tanna Rabbi Jonathan (Jastrow cites Ab. IV, 9)."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.2.sense",
+   "value": "5",
+   "severity": "style",
+   "reason": "Sense 5 of jastrow:יוֹנָתָן is the Tanna Rabbi Jonathan (Jastrow cites Ab. IV, 9)."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.2.lex",
+   "value": "jastrow:אֱלִיעֶזֶר",
+   "severity": "style",
+   "reason": "The BDB entry lists only biblical bearers of the name; the Jastrow entry has the Tanna Eliezer b. Jacob, named in this sense."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.2.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "Sense 2 of jastrow:אֱלִיעֶזֶר is the Tanna Eliezer b. Jacob, named in this sense."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.27.lex",
+   "value": "jastrow:יוֹחָנָן",
+   "severity": "style",
+   "reason": "The BDB entry lists only biblical bearers of the name; the Jastrow entry has a Tanna."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.27.sense",
+   "value": "4",
+   "severity": "style",
+   "reason": "Sense 4 of jastrow:יוֹחָנָן is a Tanna."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.2.lex",
+   "value": "jastrow:אֶלְעָזָר",
+   "severity": "style",
+   "reason": "The BDB entry lists only biblical bearers of the name; the Jastrow entry has the Tanna Eleazar b. Shamua, named in this sense."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.2.sense",
+   "value": "3",
+   "severity": "style",
+   "reason": "Sense 3 of jastrow:אֶלְעָזָר is the Tanna Eleazar b. Shamua, named in this sense."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.4.lex",
+   "value": "jastrow:שַׁמּוּעַ",
+   "severity": "style",
+   "reason": "The BDB entry lists only biblical bearers of the name; the Jastrow entry has Shammua, father of R. Eleazar."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.4.sense",
+   "value": "1",
+   "severity": "style",
+   "reason": "Sense 1 of jastrow:שַׁמּוּעַ is Shammua, father of R. Eleazar."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.5.sense",
+   "value": "1.1.1",
+   "severity": "style",
+   "reason": "With the reflexive object and מִן, 'keep (oneself) from, refrain' is sense 1.1.1; 1.1.2 is 'restrain, check'."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.6.lex",
+   "value": "jastrow:עֶצֶם",
+   "severity": "error",
+   "reason": "bdbs:עֶצֶם is the place-name Ezem; the pack lists Jastrow's עֶצֶם, which has the sense 'self'."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.6.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Jastrow עֶצֶם 3: 'substance, essence, self' (Ab. I, 14 לעצמי)."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.6.note",
+   "value": "עַצְמוֹ, literally 'his bone', that is 'his own self' (Jastrow עֶצֶם 3, 'self'); a reflexive object.",
+   "severity": "error",
+   "reason": "The old note named the wrong (place-name) entry, now replaced."
+  },
+  {
+   "ref": "4:7",
+   "path": "english",
+   "value": "Rabbi Ishmael his son says: One who holds himself back from judging removes from himself enmity, robbery, and a vain oath. But one who is overbold of heart in giving rulings is a fool, wicked, and haughty of spirit.",
+   "severity": "question",
+   "reason": "'A false oath' takes only Bartenura's second reading (a lying oath). His first reading, and Rabbeinu Yonah's שבועת חנם, is an oath imposed on one not liable to it: needless, not false. 'A vain oath' (שָׁוְא, 'emptiness, vanity') carries both."
+  },
+  {
+   "ref": "4:7",
+   "path": "literal",
+   "value": "Rabbi Ishmael his-son saying: the-holding-back himself from-the-judgment, removing from-him enmity and-robbery and-oath-of vanity. And-the-coarse his-heart in-the-instruction, fool wicked and-coarse-of spirit.",
+   "severity": "question",
+   "reason": "Follows the change of שָׁוְא to 'vanity'."
+  },
+  {
+   "ref": "4:7",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "4:7.1",
+      "4:7.2",
+      "4:7.3",
+      "4:7.4"
+     ],
+     "english": "Rabbi Ishmael his son says",
+     "literal": "'Rabbi Ishmael his-son saying'; the son of the Rabbi Yose of the preceding mishnah, so Rabbeinu Yonah's heading"
+    },
+    {
+     "tokens": [
+      "4:7.5",
+      "4:7.6",
+      "4:7.7",
+      "4:7.8"
+     ],
+     "english": "One who holds himself back from judging",
+     "literal": "'the-holding-back himself from-the-judgment'; Bartenura: where there is one greater than he, or he tells the parties to compromise"
+    },
+    {
+     "tokens": [
+      "4:7.9",
+      "4:7.10",
+      "4:7.11",
+      "4:7.12",
+      "4:7.13",
+      "4:7.14"
+     ],
+     "english": "removes from himself enmity, robbery, and a vain oath",
+     "literal": "'removing from-him enmity and-robbery and-oath-of vanity'; Bartenura gives the reason for each of the three; 'vain oath' keeps both his readings, a needless oath and a lying one"
+    },
+    {
+     "tokens": [
+      "4:7.15",
+      "4:7.16",
+      "4:7.17"
+     ],
+     "english": "But one who is overbold of heart in giving rulings",
+     "literal": "'and-the-coarse his-heart in-the-instruction'; Bartenura: without study and deliberation; Rambam: without awe or fear"
+    },
+    {
+     "tokens": [
+      "4:7.18",
+      "4:7.19",
+      "4:7.20",
+      "4:7.21"
+     ],
+     "english": "is a fool, wicked, and haughty of spirit",
+     "literal": "'fool wicked and-coarse-of spirit'"
+    }
+   ],
+   "severity": "question",
+   "reason": "The third phrase must quote the new English."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.14.gloss",
+   "value": "vanity",
+   "severity": "question",
+   "reason": "Follows the English 'a vain oath'."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.14.sense",
+   "value": "1.1",
+   "severity": "question",
+   "reason": "'Emptiness, nothingness, vanity': the needless oath of Bartenura's first reading as well as the lying oath of his second."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.14.note",
+   "value": "שְׁבוּעַת שָׁוְא, 'an oath of vanity': Bartenura reads either an oath the judge wrongly imposes on one not liable (Rabbeinu Yonah: 'a gratuitous oath'), or, as the tanna's name for it, a lying oath.",
+   "severity": "question",
+   "reason": "States the two readings the English now keeps."
+  },
+  {
+   "ref": "4:7",
+   "path": "grammar",
+   "value": [
+    "הַחוֹשֵׂךְ and הַגַּס are articular participle and adjective used as subjects: 'the one who holds back', 'the one who is coarse'.",
+    "The first sentence gives a cause and its three results, enmity, robbery and a vain oath; the second sets the opposite case, with three damning terms.",
+    "גַּס לִבּוֹ is a subject-predicate phrase: 'coarse of heart'; גַּס רוּחַ is a construct chain: 'coarse of spirit'.",
+    "Rabbi Ishmael is called 'his son': the son of Rabbi Yose in 4:6."
+   ],
+   "severity": "question",
+   "reason": "The second note quoted 'a false oath'."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.15.lex",
+   "value": "jastrow:גַּס III",
+   "severity": "error",
+   "reason": "jastrow:גַּס I is 'falcon'. The pack lists גַּס III, 'bulky, large' (root גסס), the adjective of this phrase; Jastrow's רוּחַ II cites Ab. IV, 7 under גַּס III."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.15.gloss",
+   "value": "and the one who is overbold",
+   "severity": "error",
+   "reason": "The gloss of גַּס had been put on לִבּוֹ, and 'of heart' on בַהוֹרָאָה: each gloss now sits on its own word."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.15.note",
+   "value": "גַּס, literally 'coarse, thick, bulky' (Jastrow גַּס III); with the article, 'the one who is coarse'. Bartenura and Rambam give the sense: bold to rule without study or fear.",
+   "severity": "error",
+   "reason": "The note on גַּס stood on the next token and named the wrong entry."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.16.gloss",
+   "value": "of heart",
+   "severity": "error",
+   "reason": "לִבּוֹ is 'his heart', not 'overbold'."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.16.note",
+   "value": "לִבּוֹ, 'his heart': the noun says in what he is coarse, 'coarse as to his heart'.",
+   "severity": "error",
+   "reason": "The old note was about גַּס, not this word."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.17.gloss",
+   "value": "in giving rulings",
+   "severity": "error",
+   "reason": "'Of heart' belongs to לִבּוֹ; בַהוֹרָאָה is 'in (the) giving of rulings'."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.17.note",
+   "value": "בַהוֹרָאָה, 'in the giving of legal instruction'; the בַ carries the article. The pack has no usable lexicon text for הוֹרָאָה (Jastrow only refers to הוֹרָיָה).",
+   "severity": "style",
+   "reason": "Adds the article the patach of בַ carries."
+  },
+  {
+   "ref": "4:7",
+   "path": "token:4:7.20.lex",
+   "value": "jastrow:גַּס III",
+   "severity": "error",
+   "reason": "Same word as 4:7.15: 'bulky, coarse', not 'falcon'."
+  },
+  {
+   "ref": "4:7",
+   "path": "note",
+   "value": "Rabbi Ishmael 'his son' is, by Rabbeinu Yonah's heading, the son of Rabbi Yose in 4:6. Bartenura and Rambam give the sense of גַּס לִבּוֹ בַהוֹרָאָה as giving rulings without study or fear, and the English 'overbold' follows that; the literal sense is 'coarse of heart'. שְׁבוּעַת שָׁוְא is 'a vain oath', which keeps both of Bartenura's readings. גַּס is Jastrow's גַּס III ('bulky, coarse') and עַצְמוֹ Jastrow's עֶצֶם ('self').",
+   "severity": "error",
+   "reason": "The old note said the wrong entries (falcon, Ezem) were kept; they are corrected."
+  },
+  {
+   "ref": "4:8",
+   "path": "token:4:8.6.lex",
+   "value": "jastrow:דִּין I",
+   "severity": "error",
+   "reason": "bdbs:דָּן is the name Dan. The participle דָּן is from דין; the pack lists Jastrow's verb דִּין I."
+  },
+  {
+   "ref": "4:8",
+   "path": "token:4:8.6.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow דִּין I 2: 'to hold court, pass sentence'."
+  },
+  {
+   "ref": "4:8",
+   "path": "token:4:8.9.lex",
+   "value": "jastrow:דִּין I",
+   "severity": "error",
+   "reason": "bdbs:דָּן is the name Dan. The participle דָּן is from דין; the pack lists Jastrow's verb דִּין I."
+  },
+  {
+   "ref": "4:8",
+   "path": "token:4:8.9.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow דִּין I 2: 'to hold court, pass sentence'."
+  },
+  {
+   "ref": "4:8",
+   "path": "token:4:8.6.note",
+   "value": "the participle דָּן is from the hollow root דין, 'to hold court, pass sentence' (Jastrow דִּין I 2).",
+   "severity": "error",
+   "reason": "The old note named the wrong entry (Dan)."
+  },
+  {
+   "ref": "4:8",
+   "path": "token:4:8.8.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is 'where?, whence?'; this is the negative אֵין, 'not, there is not', which the pack lists in Jastrow."
+  },
+  {
+   "ref": "4:8",
+   "path": "token:4:8.17.lex",
+   "value": "jastrow:הֵן",
+   "severity": "error",
+   "reason": "bdbs:הֵן is the interjection 'behold, if'; here הֵן is the pronoun 'they', Jastrow's הֵן."
+  },
+  {
+   "ref": "4:8",
+   "path": "token:4:8.17.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow הֵן 1: 'they, pl. of הוּא, הִיא'."
+  },
+  {
+   "ref": "4:8",
+   "path": "note",
+   "value": "'None judges alone but One': Bartenura reads אֶחָד as the Holy One; the English keeps 'One' with a capital so the ambiguity of 'one man' is not lost. דָּן is the participle of דין (Jastrow דִּין I), not the name Dan.",
+   "severity": "error",
+   "reason": "The note said the wrong entry was kept; it is corrected."
+  },
+  {
+   "ref": "4:8",
+   "path": "apparatus",
+   "value": [
+    "Rabbeinu Yonah brings a second explanation of 'except One': the expert (mumhe) alone may judge, but others should not count themselves experts.",
+    "Rambam on this mishnah (anchored at 4:9 in the pack): the Torah lets an expert judge alone; the warning is moral counsel, not a prohibition; colleagues who disagree may not be forced to accept your view, for it is not in your power to compel them."
+   ],
+   "severity": "question",
+   "reason": "Rambam's normative comment on 4:8 is anchored at 4:9 and so is invisible here; it bears on 'Do not judge alone' and 'they are permitted, and you are not'."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.4.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "כָּל with a participle, 'whoever', is 'every, any' (1.2), not 'the whole of' (1.1)."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.12.sense",
+   "value": "1.2",
+   "severity": "style",
+   "reason": "As 4:9.4: 'every, any'."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.5.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:קְיָם is the Aramaic noun 'decree'; its sense cannot name this verb, and the pack has no entry for Piel קִיֵּם."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.5.note",
+   "value": "Piel participle with the article: 'the one who upholds, fulfills' (Piel of קום). No sense: the pack's entry קְיָם ('decree') is a different word, and it has no entry for the verb.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.10.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:קְיָם is the Aramaic noun 'decree'; its sense cannot name this verb, and the pack has no entry for Piel קִיֵּם."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.10.note",
+   "value": "infinitive construct with a feminine suffix, 'to fulfill her'; Torah is feminine. No sense: the pack's entry קְיָם ('decree') is a different word.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.8.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עָנִי is the adjective 'poor'; the token is the noun עֹנִי 'poverty', whose entry the pack does not hold."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.8.note",
+   "value": "מֵעֹנִי, 'out of poverty', that is, while poor. No sense: עֹנִי is the noun 'poverty', and the pack's entry עָנִי is the adjective 'poor'.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.19.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:עָנִי is the adjective 'poor'; the token is the noun עֹנִי 'poverty', whose entry the pack does not hold."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.19.note",
+   "value": "מֵעֹנִי, 'out of poverty'. No sense: the pack's entry עָנִי is the adjective 'poor', not the noun עֹנִי.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.11.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:עָשַׂר is the verb 'to tithe'; sense 1 of it cannot name the noun עֹשֶׁר."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.11.note",
+   "value": "מֵעשֶׁר, 'out of wealth': the noun עֹשֶׁר. No sense: the pack's entry עָשַׂר is the verb 'to tithe', and it has no entry for the noun.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.16.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:עָשַׂר is the verb 'to tithe'; sense 1 of it cannot name the noun עֹשֶׁר."
+  },
+  {
+   "ref": "4:9",
+   "path": "token:4:9.16.note",
+   "value": "מֵעשֶׁר, the noun עֹשֶׁר 'wealth'. No sense: the pack's entry עָשַׂר is the verb 'to tithe'.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.5.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:מְעַט is the noun 'littleness, a little'; it cannot give the sense of the Piel verb מִעֵט, and the pack has no entry for the verb."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.5.note",
+   "value": "Piel participle, 'one who lessens'; with הֱוֵי, 'be one who lessens'. No sense: the pack's entry מְעַט is the noun 'a little', not the verb.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.6.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "jastrow:עָסַק is the verb 'to be engaged in'; the token is the noun עֵסֶק, whose entry (Jastrow refers to עֵסֶק II) is not in the pack."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.6.note",
+   "value": "עֵסֶק, 'occupation, trade'. No sense: the pack's entry is the verb עָסַק, not the noun.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.11.sense",
+   "value": "1.2.1",
+   "severity": "style",
+   "reason": "'Spirit' of man (1.2.1), as in 4:7.21, rather than the bare 'spirit, wind'."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.12.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "בִּפְנֵי is פָּנִים with a preposition: sense 1.7.1 'in front of, before, in the presence of'; 1.6 is the adverbial use without a preposition."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.13.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "כָל אָדָם, 'every person': 'every, any' (1.2)."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.14.lex",
+   "value": "jastrow:אָדָם",
+   "severity": "error",
+   "reason": "bdbs:אָדָם is the proper name Adam, and its sense 2 is 'first man'; here אָדָם is 'a person'. The pack lists Jastrow's אָדָם, 'man'."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.14.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow אָדָם 1: 'man'."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.16.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Jastrow בָּטֵל I 3, 'to rest from labor, be idle', cites this very clause (Ab. IV, 10 אם בטלת מן); sense 2 is 'to be void, abolished'."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.19.note",
+   "value": "יֶשׁ, 'there is'; with לְךָ it expresses possession, 'you have'. The segol form also stands in Biblical Hebrew before a maqqef (יֶשׁ־).",
+   "severity": "error",
+   "reason": "יֶשׁ is not a specifically Mishnaic form."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.21.lex",
+   "value": "jastrow:בָּטֵל II",
+   "severity": "error",
+   "reason": "jastrow:בָּטֵל I is the verb; בְטֵלִים is the adjective/noun 'idle', Jastrow's בָּטֵל II, which the pack lists."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.21.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Jastrow בָּטֵל II 3: 'idle, unemployed, not needed'."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.29.lex",
+   "value": "jastrow:שָׂכָר",
+   "severity": "error",
+   "reason": "bdbs:שָׂכָר is the proper name Sacar; the pack lists Jastrow's שָׂכָר, 'wages, reward'."
+  },
+  {
+   "ref": "4:10",
+   "path": "token:4:10.29.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Jastrow שָׂכָר 1: 'wages, profit, reward'."
+  },
+  {
+   "ref": "4:10",
+   "path": "apparatus",
+   "value": [
+    "Variants: Vilna reads ועסוק and ליתן; base וַעֲסֹק, לִתֶּן.",
+    "Bartenura's second reading of בְטֵלִים, and Rabbeinu Yonah's 'bears and lions idle from work', both rest on the sense 'those who are idle'.",
+    "Rambam reads בְטֵלִים הַרְבֵּה as 'many things that make idle': affairs that demand attention and, if you leave the Torah, will occupy you.",
+    "Bartenura's lemma reads וְאִם עָסַקְתָּ בַתּוֹרָה, 'if you engaged in the Torah', for the base עָמַלְתָּ; Rabbeinu Yonah's lemma has עמלת. Rabbeinu Yonah's lemma also reads הרבה בטלין, with the word order reversed."
+   ],
+   "severity": "question",
+   "reason": "Rambam's reading of the crux word and the commentators' lemma variants are not recorded."
+  },
+  {
+   "ref": "4:10",
+   "path": "commentary:rambam:4:10:1.summary",
+   "value": "Rambam: reduce trade and persist in the Torah; be humble before every person, not only the great, speaking with anyone as if he were greater than you, to flee from pride. 'Many idle ones against you' means many things that cause idleness and demand attention: if you do not engage in the Torah, time will occupy you with one of them.",
+   "severity": "error",
+   "reason": "The summary left out what Rambam says of בְטֵלִים הַרְבֵּה כְנֶגְדָּךְ, the crux of the mishnah."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.9.lex",
+   "value": "jastrow:קָנָה",
+   "severity": "error",
+   "reason": "bdbs:קָנָה is the place-name Kanah. Jastrow's קָנָה is the verb (it refers to קני II)."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.16.lex",
+   "value": "jastrow:קָנָה",
+   "severity": "error",
+   "reason": "bdbs:קָנָה is the place-name Kanah. Jastrow's קָנָה is the verb (it refers to קני II)."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.9.note",
+   "value": "קוֹנֶה, 'buys, gets for himself'. Jastrow's entry for the verb only refers to קני II, which the pack does not hold.",
+   "severity": "error",
+   "reason": "The old note named the wrong (place-name) entry."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.13.lex",
+   "value": "jastrow:עָבַר",
+   "severity": "style",
+   "reason": "Jastrow's עָבַר has the sense 'to transgress, sin' with עֲבֵרָה as object; BDB has it only inside the general sense 1."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.13.sense",
+   "value": "5",
+   "severity": "style",
+   "reason": "Jastrow עָבַר 5: 'to transgress, sin' (עבר עבירה)."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.13.gloss",
+   "value": "and the one who commits",
+   "severity": "style",
+   "reason": "With the object עֲבֵרָה the verb is 'commit (a transgression)'; the phrase already says so."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.13.note",
+   "value": "הָעוֹבֵר, literally 'the one who crosses over'; עָבַר עֲבֵרָה, 'to commit a transgression', a cognate object.",
+   "severity": "style",
+   "reason": "Follows the corrected sense."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.22.lex",
+   "value": "jastrow:טוֹב II",
+   "severity": "error",
+   "reason": "bdbs:טוֹב is the place-name Tob; the pack lists Jastrow's טוֹב II, 'good'."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.22.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Jastrow טוֹב II 2: 'good'."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.24.sense",
+   "value": "1.7.1",
+   "severity": "error",
+   "reason": "בִּפְנֵי, 'before, in the face of', is sense 1.7.1 (with a preposition), not 1 'face'."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.30.sense",
+   "value": "1.2",
+   "severity": "error",
+   "reason": "כָּל כְּנֵסִיָּה, 'every assembly': 'every, any' (1.2)."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.33.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the proper name Shem; the pack lists Jastrow's שֵׁם II, 'name'."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.38.lex",
+   "value": "jastrow:שֵׁם II",
+   "severity": "error",
+   "reason": "bdbs:שֵׁם is the proper name Shem; the pack lists Jastrow's שֵׁם II, 'name'."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.36.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:קְיָם is the Aramaic noun 'decree'; it cannot give the sense of this verb."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.36.note",
+   "value": "hitpael infinitive, 'to be established, to stand' (root קום). No sense: the pack's entry קְיָם ('decree') is a different word.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.42.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "bdbs:קְיָם is the Aramaic noun 'decree'; it cannot give the sense of this verb."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.42.note",
+   "value": "hitpael infinitive, 'to endure'. No sense: the pack's entry קְיָם ('decree') is a different word.",
+   "severity": "error",
+   "reason": "Says why the sense is removed."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.37.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is 'where?, whence?'; this is the negative אֵין, which the pack lists in Jastrow."
+  },
+  {
+   "ref": "4:11",
+   "path": "token:4:11.40.lex",
+   "value": "jastrow:אֵין",
+   "severity": "error",
+   "reason": "bdbs:אַיִן is 'where?, whence?'; this is the negative אֵין, which the pack lists in Jastrow."
+  },
+  {
+   "ref": "4:11",
+   "path": "note",
+   "value": "פְרַקְלִיט and קַטֵּגוֹר are rendered 'advocate' and 'accuser', following Bartenura's 'good intercessor' and 'evil intercessor' and Rambam's court setting before the ruler. פֻּרְעָנוּת is 'punishment'; Rambam says blows and diseases. טוֹב is Jastrow's טוֹב II and שֵׁם Jastrow's שֵׁם II; for קָנָה Jastrow only gives a cross-reference.",
+   "severity": "error",
+   "reason": "The note said the wrong (proper-name) entries were kept; they are corrected."
+  },
+  {
+   "ref": "4:11",
+   "path": "commentary:rambam:4:11:1.summary",
+   "value": "Rambam: the פרקליט is the man who speaks well of a person to the ruler; the קטיגור is the opposite, who informs against him to the king and seeks his death. Repentance after evil deeds, or good deeds from the start, each of the two keeps blows and diseases from coming upon a man.",
+   "severity": "error",
+   "reason": "The summary left out what Rambam says of תְּשׁוּבָה וּמַעֲשִׂים טוֹבִים and of the punishment (blows and diseases)."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.12.sense",
+   "value": "1.3",
+   "severity": "style",
+   "reason": "As 4:12.7: 'honour, dignity'."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.15.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב has no sense 'teacher' (its sense 4 is 'captain, chief'); the pack lists Jastrow's רַב II, 'master, teacher'."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.15.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Jastrow רַב II 3: 'teacher'."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.17.lex",
+   "value": "jastrow:רַב II",
+   "severity": "error",
+   "reason": "bdbs:רַב has no sense 'teacher' (its sense 4 is 'captain, chief'); the pack lists Jastrow's רַב II, 'master, teacher'."
+  },
+  {
+   "ref": "4:12",
+   "path": "token:4:12.17.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Jastrow רַב II 3: 'teacher'."
+  },
+  {
+   "ref": "4:12",
+   "path": "grammar",
+   "value": [
+    "יְהִי is the jussive of הָיָה: 'let ... be'.",
+    "The last two clauses form a chain: the 'reverence of your teacher' that ends the second clause begins the third; each clause sets one duty beside a higher one.",
+    "כְּשֶׁלְּךָ uses the Mishnaic particle שֶׁל: 'like that of yours'.",
+    "שָׁמָיִם, with qamets, is the pausal form of שָׁמַיִם at the end of the saying; the noun, plural in form, stands for God."
+   ],
+   "severity": "error",
+   "reason": "The chain note was false (the first clause ends 'as your own', not with the term that begins the second), and שָׁמָיִם is a pausal form, not merely a variant spelling."
+  },
+  {
+   "ref": "4:7",
+   "path": "morph:4:7.12",
+   "value": {
+    "lang": "mishnaic",
+    "root": "גזל",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "גָזֵל",
+      "lemma": "גָּזֵל",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The noun is גָּזֵל (Mishnaic 'robbery'), as pointed in the token; גֶּזֶל is a different noun."
+  },
+  {
+   "ref": "4:7",
+   "path": "morph:4:7.17",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירה",
+    "morphemes": [
+     {
+      "form": "בַ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with the definite article (its ה elided)"
+     },
+     {
+      "form": "הוֹרָאָה",
+      "lemma": "הוֹרָאָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The patach under the preposition is the article: 'in the', not 'in'."
+  },
+  {
+   "ref": "4:10",
+   "path": "morph:4:10.8",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירה",
+    "morphemes": [
+     {
+      "form": "בַּ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with the definite article (its ה elided)"
+     },
+     {
+      "form": "תּוֹרָה",
+      "lemma": "תּוֹרָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The patach under the preposition is the article: 'in the', not 'in'."
+  },
+  {
+   "ref": "4:10",
+   "path": "morph:4:10.26",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירה",
+    "morphemes": [
+     {
+      "form": "בַ",
+      "lemma": "ב: in, with, by",
+      "pos": "preposition",
+      "parse": "preposition, with the definite article (its ה elided)"
+     },
+     {
+      "form": "תּוֹרָה",
+      "lemma": "תּוֹרָה",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "The patach under the preposition is the article: 'in the', not 'in'."
+  },
+  {
+   "ref": "4:7",
+   "path": "morph:4:7.20",
+   "value": {
+    "lang": "mishnaic",
+    "root": "גסס",
+    "morphemes": [
+     {
+      "form": "וְ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "גַס",
+      "lemma": "גַּס",
+      "pos": "adjective",
+      "parse": "masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "גַּס רוּחַ is a construct chain (as שְׁפַל רוּחַ in 4:10.10): גַּס is construct."
+  },
+  {
+   "ref": "4:7",
+   "path": "morph:4:7.21",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רוח",
+    "morphemes": [
+     {
+      "form": "רוּחַ",
+      "lemma": "רוּחַ",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רוּחַ is the last word of the construct chain: absolute, not construct."
+  },
+  {
+   "ref": "4:10",
+   "path": "morph:4:10.11",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רוח",
+    "morphemes": [
+     {
+      "form": "רוּחַ",
+      "lemma": "רוּחַ",
+      "pos": "noun",
+      "parse": "common, feminine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רוּחַ is the last word of the construct chain: absolute, not construct."
+  },
+  {
+   "ref": "4:8",
+   "path": "morph:4:8.18",
+   "value": {
+    "lang": "mishnaic",
+    "root": "רשה",
+    "morphemes": [
+     {
+      "form": "רַשָּׁאִין",
+      "lemma": "רַשַּׁאי",
+      "pos": "adjective",
+      "parse": "masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "רַשַּׁאי is from רשה (Jastrow: רַשַּׁאי (רָשָׁה)), not רשא."
+  },
+  {
+   "ref": "4:9",
+   "path": "morph:4:9.5",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קום",
+    "morphemes": [
+     {
+      "form": "הַ",
+      "lemma": "ה: the",
+      "pos": "article",
+      "parse": "definite article"
+     },
+     {
+      "form": "מְקַיֵּם",
+      "lemma": "קָם",
+      "pos": "verb",
+      "parse": "piel, participle active, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "Piel קִיֵּם and hitpael הִתְקַיֵּם are from the hollow root קום; by the brief the lemma is its qal perfect 3ms קָם. קָיַם is not a form of the verb."
+  },
+  {
+   "ref": "4:9",
+   "path": "morph:4:9.10",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קום",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "קַיְּמָ",
+      "lemma": "קָם",
+      "pos": "verb",
+      "parse": "piel, infinitive construct"
+     },
+     {
+      "form": "הּ",
+      "lemma": "",
+      "pos": "suffix",
+      "parse": "pronominal, 3rd person, feminine, singular"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "Piel קִיֵּם and hitpael הִתְקַיֵּם are from the hollow root קום; by the brief the lemma is its qal perfect 3ms קָם. קָיַם is not a form of the verb."
+  },
+  {
+   "ref": "4:11",
+   "path": "morph:4:11.36",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קום",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "הִתְקַיֵּם",
+      "lemma": "קָם",
+      "pos": "verb",
+      "parse": "hitpael, infinitive construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "Piel קִיֵּם and hitpael הִתְקַיֵּם are from the hollow root קום; by the brief the lemma is its qal perfect 3ms קָם. קָיַם is not a form of the verb."
+  },
+  {
+   "ref": "4:11",
+   "path": "morph:4:11.42",
+   "value": {
+    "lang": "mishnaic",
+    "root": "קום",
+    "morphemes": [
+     {
+      "form": "לְ",
+      "lemma": "ל: to, for",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "הִתְקַיֵּם",
+      "lemma": "קָם",
+      "pos": "verb",
+      "parse": "hitpael, infinitive construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "Piel קִיֵּם and hitpael הִתְקַיֵּם are from the hollow root קום; by the brief the lemma is its qal perfect 3ms קָם. קָיַם is not a form of the verb."
+  },
+  {
+   "ref": "4:11",
+   "path": "morph:4:11.23",
+   "value": {
+    "lang": "mishnaic",
+    "root": "",
+    "morphemes": [
+     {
+      "form": "כִּ",
+      "lemma": "כ: like, as",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "תְרִיס",
+      "lemma": "תְּרִיס",
+      "pos": "noun",
+      "parse": "common, masculine, singular, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "כִּתְרִיס is כְּ 'like' + תְּרִיס 'shield' (Greek thyreos); the preposition was not split off and the lemma is wrong."
+  },
+  {
+   "ref": "4:11",
+   "path": "morph:4:11.34",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שמה",
+    "morphemes": [
+     {
+      "form": "שָׁמַיִם",
+      "lemma": "שָׁמַיִם",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "שמ is not a root; BDB files שָׁמַיִם under the (unused) root שׁמה."
+  },
+  {
+   "ref": "4:11",
+   "path": "morph:4:11.39",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שמה",
+    "morphemes": [
+     {
+      "form": "שָׁמַיִם",
+      "lemma": "שָׁמַיִם",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "שמ is not a root; BDB files שָׁמַיִם under the (unused) root שׁמה."
+  },
+  {
+   "ref": "4:12",
+   "path": "morph:4:12.19",
+   "value": {
+    "lang": "mishnaic",
+    "root": "שמה",
+    "morphemes": [
+     {
+      "form": "שָׁמָיִם",
+      "lemma": "שָׁמַיִם",
+      "pos": "noun",
+      "parse": "common, masculine, plural, absolute"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "שמ is not a root; BDB files שָׁמַיִם under the (unused) root שׁמה."
+  },
+  {
+   "ref": "4:12",
+   "path": "morph:4:12.14",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירא",
+    "morphemes": [
+     {
+      "form": "כְּ",
+      "lemma": "כ: like, as",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "מוֹרָא",
+      "lemma": "מוֹרָא",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מוֹרָא is bound to the next word (מוֹרָא רַבְּךָ, מוֹרָא שָׁמָיִם): construct, not absolute."
+  },
+  {
+   "ref": "4:12",
+   "path": "morph:4:12.16",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירא",
+    "morphemes": [
+     {
+      "form": "וּ",
+      "lemma": "ו: and",
+      "pos": "conjunction",
+      "parse": "conjunction"
+     },
+     {
+      "form": "מוֹרָא",
+      "lemma": "מוֹרָא",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מוֹרָא is bound to the next word (מוֹרָא רַבְּךָ, מוֹרָא שָׁמָיִם): construct, not absolute."
+  },
+  {
+   "ref": "4:12",
+   "path": "morph:4:12.18",
+   "value": {
+    "lang": "mishnaic",
+    "root": "ירא",
+    "morphemes": [
+     {
+      "form": "כְּ",
+      "lemma": "כ: like, as",
+      "pos": "preposition",
+      "parse": "preposition"
+     },
+     {
+      "form": "מוֹרָא",
+      "lemma": "מוֹרָא",
+      "pos": "noun",
+      "parse": "common, masculine, singular, construct"
+     }
+    ]
+   },
+   "severity": "error",
+   "reason": "מוֹרָא is bound to the next word (מוֹרָא רַבְּךָ, מוֹרָא שָׁמָיִם): construct, not absolute."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "bartenura:4:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:7:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:7:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:7:4",
+   "verdict": "consistent",
+   "comment": "With 'a vain oath' the English keeps both of his readings; 'a false oath' kept only the second."
+  },
+  {
+   "anchor": "bartenura:4:7:5",
+   "verdict": "consistent",
+   "comment": "'Overbold' renders his 'without study and without waiting'."
+  },
+  {
+   "anchor": "rambam:4:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:8:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:8:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:8:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:8:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:9:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:8:1",
+   "verdict": "not-applicable",
+   "comment": "It comments on 4:8 (expert judging alone; colleagues may not be forced), and agrees with the English of 4:8; the patch records it in 4:8's apparatus."
+  },
+  {
+   "anchor": "rambam:4:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:10:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:10:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:10:4",
+   "verdict": "consistent",
+   "comment": "His lemma reads עָסַקְתָּ for עָמַלְתָּ; recorded in the apparatus."
+  },
+  {
+   "anchor": "rambam:4:10:1",
+   "verdict": "consistent",
+   "comment": "'Idle ones' does not adopt his 'things that make idle'; the patch records his reading."
+  },
+  {
+   "anchor": "bartenura:4:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rambam:4:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:12:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "bartenura:4:12:3",
+   "verdict": "consistent"
+  }
+ ]
+}
