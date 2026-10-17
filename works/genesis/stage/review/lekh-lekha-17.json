@@ -1,0 +1,267 @@
+{
+ "unit": "lekh-lekha-17",
+ "model": "opus",
+ "summary": "The English of the five verses is accurate and follows Rashi and Ibn Ezra; the faults are in the apparatus. Three Rashi summaries misstate the comment (17:23 on doing it by day, 17:23 on וַיָּמׇל as active, 17:26 on the completed ages). Radak on 17:25, 17:26 and 17:27 is marked 'follows' where the English does not adopt his reading, and his אֵת = מִן ('from') is misreported as 'in respect of'. Two senses are wrong (מִקְנַת 17:23, בֶּן־נֵכָר 17:27), one gloss leaves out עֶצֶם (17:26), and the grammar note on נִמּוֹל is wrong.",
+ "patches": [
+  {
+   "ref": "17:23",
+   "path": "english",
+   "value": "Then Abraham took his son Ishmael and all those born in his house and all those bought with his money, every male among the men of Abraham's household, and he circumcised the flesh of their foreskin on that very day, as God had spoken with him.",
+   "severity": "style",
+   "reason": "אַנְשֵׁי is 'men of', not 'people of'; the verse lists males."
+  },
+  {
+   "ref": "17:23",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "17:23.1",
+      "17:23.2"
+     ],
+     "english": "Then Abraham took",
+     "literal": "'and-took Abraham'"
+    },
+    {
+     "tokens": [
+      "17:23.3",
+      "17:23.4",
+      "17:23.5"
+     ],
+     "english": "his son Ishmael",
+     "literal": "'[obj] Ishmael his-son'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "17:23.6",
+      "17:23.7",
+      "17:23.8",
+      "17:23.9"
+     ],
+     "english": "and all those born in his house",
+     "literal": "'and-[obj] all born-of his-house'"
+    },
+    {
+     "tokens": [
+      "17:23.10",
+      "17:23.11",
+      "17:23.12",
+      "17:23.13"
+     ],
+     "english": "and all those bought with his money",
+     "literal": "'all purchase-of his-silver': acquired for silver"
+    },
+    {
+     "tokens": [
+      "17:23.14",
+      "17:23.15",
+      "17:23.16",
+      "17:23.17",
+      "17:23.18"
+     ],
+     "english": "every male among the men of Abraham's household",
+     "literal": "'all male among-men-of house-of Abraham'"
+    },
+    {
+     "tokens": [
+      "17:23.19",
+      "17:23.20",
+      "17:23.21",
+      "17:23.22"
+     ],
+     "english": "and he circumcised the flesh of their foreskin",
+     "literal": "'and-circumcised [obj] flesh-of their-foreskin'"
+    },
+    {
+     "tokens": [
+      "17:23.23",
+      "17:23.24",
+      "17:23.25"
+     ],
+     "english": "on that very day",
+     "literal": "'in-bone-of the-day the-this': on the same day"
+    },
+    {
+     "tokens": [
+      "17:23.26",
+      "17:23.27",
+      "17:23.28",
+      "17:23.29"
+     ],
+     "english": "as God had spoken with him",
+     "literal": "'as spoke with-him God'"
+    }
+   ],
+   "severity": "style",
+   "reason": "follows the English change 'people' -> 'men'."
+  },
+  {
+   "ref": "17:23",
+   "path": "token:17:23.12.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "מִקְנַת כַּסְפּוֹ is 'purchase (what is bought) with his silver': BDB sense 1 'purchase', not 3 'possession'; the token's own note says 'what was bought'. Same sense as 17:27.6."
+  },
+  {
+   "ref": "17:23",
+   "path": "commentary:rashi:17:23:1.summary",
+   "value": "Rashi: בּוֹ בַּיּוֹם שֶׁנִּצְטַוָּה, on the very day he was commanded; by day and not by night. He feared neither the gentiles nor the scoffers, and he did it openly so that his enemies and his generation could not say 'had we seen him, we would not have let him circumcise and keep the command of the Omnipresent'. The English 'on that very day' follows.",
+   "severity": "error",
+   "reason": "Rashi says Abraham acted by daylight so that his enemies could not say they would have stopped him; the summary made it something he did not fear."
+  },
+  {
+   "ref": "17:23",
+   "path": "commentary:rashi:17:23:2.summary",
+   "value": "Rashi: וַיָּמׇל is לְשׁוֹן וַיִּפְעַל, an active form, 'and he circumcised' (Abraham did the act), not a passive 'was circumcised'. The English 'he circumcised' follows.",
+   "severity": "error",
+   "reason": "Rashi's note says the form is active (the pattern וַיִּפְעַל, 'and he did'), not that it is a wayyiqtol as against a noun or jussive."
+  },
+  {
+   "ref": "17:25",
+   "path": "english",
+   "value": "And Ishmael his son was thirteen years old when he was circumcised in the flesh of his foreskin.",
+   "severity": "style",
+   "reason": "The English sentence begins with a capital, as in 17:24."
+  },
+  {
+   "ref": "17:25",
+   "path": "token:17:25.8.note",
+   "value": "אֵת after the Nifal: Radak takes it as 'from', like מִן (cf. 44:4 הֵם יָצְאוּ אֶת הָעִיר); it can also be read as the accusative particle with a passive verb (cf. 21:5 בְּהִוָּלֶד לוֹ אֵת יִצְחָק). Rashi does not explain its syntax: he reads its presence as a sign that Ishmael needed uncovering (פְּרִיעָה) as well as cutting.",
+   "severity": "error",
+   "reason": "The note made Rashi the source of an 'object marker' reading; Rashi only explains why the particle is written. Radak's reading is 'from', not 'in respect of'."
+  },
+  {
+   "ref": "17:25",
+   "path": "grammar",
+   "value": [
+    "בֶּן־שְׁלֹשׁ עֶשְׂרֵה שָׁנָה: thirteen is 'three ten', both feminine to match שָׁנָה.",
+    "The same phrase as 17:24 recurs, but with אֵת before בְּשַׂר: a deliberate difference.",
+    "אֵת after the Nifal בְּהִמֹּלוֹ: the particle can stand before the noun with a passive verb (21:5 בְּהִוָּלֶד לוֹ אֵת יִצְחָק); Radak reads it here as 'from' (like מִן): circumcised from the flesh of his foreskin.",
+    "The zaqef qaton on בְּהִמֹּלוֹ and tipḥa on אֵת set the object apart."
+   ],
+   "severity": "error",
+   "reason": "The third note said a Nifal cannot be followed by אֵת and attributed 'in respect of' to Radak; Biblical Hebrew uses אֵת with passives (21:5), and Radak says אֵת = מִן, 'from'."
+  },
+  {
+   "ref": "17:25",
+   "path": "note",
+   "value": "The English renders אֵת with 'in', as part of 'circumcised in the flesh of his foreskin', the same English as 17:24. Radak reads אֵת as 'from' (like מִן): 'circumcised from the flesh of his foreskin'. Rashi (from Bereshit Rabbah) explains why the particle is written here and not in 17:24: Ishmael needed uncovering (פְּרִיעָה) as well as cutting. The English is consistent with both and keeps them in the commentary.",
+   "severity": "error",
+   "reason": "The note said Radak prefers 'in respect of' and that the English follows that reading; Radak says 'from'."
+  },
+  {
+   "ref": "17:25",
+   "path": "commentary:radak:17:25:2",
+   "value": {
+    "relation": "records",
+    "summary": "Radak: this verse is clearer than 17:24 because it writes אֵת: he was circumcised from (מִן) the flesh of his foreskin; אֵת is like מִן, as in הֵם יָצְאוּ אֶת הָעִיר (44:4) and חָלָה אֶת רַגְלָיו (1 Kgs 15:23). He also gives the midrash (Bereshit Rabbah 47) that Rashi gives, and draws from it that Abraham was commanded uncovering as well. The English 'in the flesh' does not take his 'from'."
+   },
+   "severity": "error",
+   "reason": "Radak glosses אֵת as 'from', not 'in respect of'; the English 'in' does not adopt that reading, so the relation is records. The summary also omitted his second example and his use of the midrash."
+  },
+  {
+   "ref": "17:26",
+   "path": "token:17:26.1.gloss",
+   "value": "on the very",
+   "severity": "error",
+   "reason": "The token is בְּעֶצֶם, preposition and noun; the gloss gave only the preposition. Same gloss as 17:23.23."
+  },
+  {
+   "ref": "17:26",
+   "path": "token:17:26.1.note",
+   "value": "בְּ + עֶצֶם 'bone, substance, self', in construct before הַיּוֹם: 'in the self of the day', that is 'on the very day'.",
+   "severity": "error",
+   "reason": "The note named only the preposition."
+  },
+  {
+   "ref": "17:26",
+   "path": "grammar",
+   "value": [
+    "The adverbial phrase opens the verse, which gives it emphasis.",
+    "נִמּוֹל is parsed in the pack as the Nifal perfect of מוּל; Ibn Ezra and Radak (17:27) take it from a root נמל, with the root's first נ assimilated into the מ (hence the dagesh). It is singular and agrees with the first subject only.",
+    "The pashta is written on the last letter of its word; עֶצֶם is stressed on the first syllable, so the pashta is repeated there to mark the stress.",
+    "The etnaḥta falls on אַבְרָהָם, dividing the two subjects."
+   ],
+   "severity": "error",
+   "reason": "The second note spoke of 'assimilation of the final letter of the prefix', which describes no form here; the dagesh is the assimilated first radical of נמל (Ibn Ezra, Radak). The third note did not say why the pashta is doubled."
+  },
+  {
+   "ref": "17:26",
+   "path": "commentary:rashi:17:26:1.summary",
+   "value": "Rashi: בְּעֶצֶם הַיּוֹם הַזֶּה is the day on which Abraham completed (שֶׁמָּלְאוּ) ninety-nine years and Ishmael thirteen: the circumcision fell on the day they reached the ages just stated. The English 'on that very day' stands with this reading.",
+   "severity": "error",
+   "reason": "Rashi's point is that the day was the one on which the ages were completed; the summary dropped שֶׁמָּלְאוּ."
+  },
+  {
+   "ref": "17:26",
+   "path": "commentary:radak:17:26:2",
+   "value": {
+    "relation": "records",
+    "summary": "Radak: נִמּוֹל means circumcised by his own hand (עַל יְדֵי עַצְמוֹ), as in וַעֲמָשָׂא לֹא נִשְׁמָר (2 Sam 20:10), 'he did not guard himself'. The English keeps the plain passive 'was circumcised' and keeps this reflexive reading here."
+   },
+   "severity": "error",
+   "reason": "The English does not adopt Radak's reflexive reading (the summary itself says so), so the relation is records, not follows."
+  },
+  {
+   "ref": "17:27",
+   "path": "token:17:27.9.sense",
+   "value": "7.a",
+   "severity": "error",
+   "reason": "בֶּן־נֵכָר is a member of the class 'foreign', a foreigner: BDB sense 7.a 'member', not sense 1 'son'."
+  },
+  {
+   "ref": "17:27",
+   "path": "token:17:27.3.gloss",
+   "value": "his household",
+   "severity": "style",
+   "reason": "The sense given is 5 'household', and the English says 'his household'."
+  },
+  {
+   "ref": "17:27",
+   "path": "commentary:radak:17:27:1",
+   "value": {
+    "relation": "records",
+    "summary": "Radak: נִמֹּלוּ אִתּוֹ means they were circumcised by Abraham's hand (עַל יַד אַבְרָהָם); the root of נִמֹּלוּ is נמ״ל. The English 'with him' keeps the plain sense of אִתּוֹ and does not take 'by him'."
+   },
+   "severity": "error",
+   "reason": "Radak reads אִתּוֹ as 'by his hand'; the English 'with him' does not adopt that reading, so the relation is records."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:17:23:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:23:2",
+   "verdict": "consistent",
+   "comment": "Rashi reads the form as active; the English 'he circumcised' is active."
+  },
+  {
+   "anchor": "rashi:17:24:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:25:1",
+   "verdict": "consistent",
+   "comment": "Rashi explains why אֵת is written; the English does not contradict him."
+  },
+  {
+   "anchor": "rashi:17:26:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:26:2",
+   "verdict": "not-applicable",
+   "comment": "The comment has no text after the heading."
+  },
+  {
+   "anchor": "ibn-ezra:17:26:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:17:27:1",
+   "verdict": "consistent"
+  }
+ ]
+}

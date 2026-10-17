@@ -1,0 +1,259 @@
+{
+ "unit": "lekh-lekha-13",
+ "model": "opus",
+ "summary": "A careful unit; the English is sound in all but one verse. In 16:13 'really' for הֲגַם הֲלֹם drops the 'even/also here' on which Rashi and Ibn Ezra agree. Several commentary summaries misstate their sources (Rashi on Manoah's wife, Radak on the 2fs ת, Ibn Ezra on Lam 3:1, Rashi and Onkelos on Beer Lahai Roi), the 16:16 note calls the setumah open, and three senses of יָד and כֹּל do not fit the glosses.",
+ "patches": [
+  {
+   "ref": "16:9",
+   "path": "token:16:9.10.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The gloss 'her authority' is the figurative sense 'strength, power' (2), not the literal 'hand' (1)."
+  },
+  {
+   "ref": "16:11",
+   "path": "commentary:rashi:16:11:1.summary",
+   "value": "Rashi: 'when you return you will conceive'; the same words הִנָּךְ הָרָה are said to Manoah's wife (Judg 13:5), who had not yet conceived. Not adopted: 16:4 says Hagar had already conceived (Rashi's reading presupposes the midrash that she lost that pregnancy).",
+   "severity": "error",
+   "reason": "Rashi cites Manoah's wife for the phrase הִנָּךְ הָרָה referring to a conception still to come; the summary's 'barren/pregnant' misstates the comparison."
+  },
+  {
+   "ref": "16:11",
+   "path": "commentary:ibn-ezra:16:11:2.summary",
+   "value": "Ibn Ezra: the aleph of the name is quiescent, not pronounced, to ease the tongue; a note on pronunciation, not on the sense.",
+   "severity": "error",
+   "reason": "בהעלם האל\"ף concerns pronunciation (the aleph is written but silent), not spelling."
+  },
+  {
+   "ref": "16:11",
+   "path": "commentary:radak:16:11:4.summary",
+   "value": "Radak: here the ת of וְקָרָאת marks the second person feminine, addressed to Hagar; in וְקָרָאת אֶתְכֶם (Deut 31:29), by contrast, the ת marks the third person feminine, like the ה of וְקָרְאָה.",
+   "severity": "error",
+   "reason": "Radak contrasts the two forms: the comparison with וְקָרְאָה belongs to Deut 31:29 (3fs), not to this verse (2fs). The summary conflated them."
+  },
+  {
+   "ref": "16:12",
+   "path": "token:16:12.6.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "בַכֹּל is absolute, 'everyone, all': sense 2.a (all things, all), not 1, which is the construct 'the whole of, every'."
+  },
+  {
+   "ref": "16:12",
+   "path": "token:16:12.8.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "כֹּל here is absolute and stands alone, 'everyone': sense 2.a, not 1."
+  },
+  {
+   "ref": "16:13",
+   "path": "english",
+   "value": "She called the name of the LORD who spoke to her, \"You are El Roi,\" for she said, \"Have I even here seen, after the one who sees me?\"",
+   "severity": "error",
+   "reason": "Rashi (שֶׁאַף הֲלוֹם, 'even here') and Ibn Ezra (הגם פה, 'also here') agree that גַּם goes with הֲלֹם: 'even here'. 'Really' drops the particle's sense and is against both normative commentators."
+  },
+  {
+   "ref": "16:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "16:13.1",
+      "16:13.2",
+      "16:13.3"
+     ],
+     "english": "She called the name of the LORD",
+     "literal": "and-called name-of LORD"
+    },
+    {
+     "tokens": [
+      "16:13.4",
+      "16:13.5"
+     ],
+     "english": "who spoke to her",
+     "literal": "the-speaking to-her"
+    },
+    {
+     "tokens": [
+      "16:13.6",
+      "16:13.7",
+      "16:13.8"
+     ],
+     "english": "You are El Roi",
+     "literal": "you God-of seeing"
+    },
+    {
+     "tokens": [
+      "16:13.9",
+      "16:13.10"
+     ],
+     "english": "for she said",
+     "literal": "for said(f)"
+    },
+    {
+     "tokens": [
+      "16:13.11",
+      "16:13.12",
+      "16:13.13"
+     ],
+     "english": "Have I even here seen",
+     "literal": "have-also here I-saw; Rashi 'even here', Ibn Ezra 'also here'"
+    },
+    {
+     "tokens": [
+      "16:13.14",
+      "16:13.15"
+     ],
+     "english": "after the one who sees me",
+     "literal": "after seeing-me; the participle with suffix, 'my seer'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the phrase for 16:13.11-13."
+  },
+  {
+   "ref": "16:13",
+   "path": "token:16:13.11.gloss",
+   "value": "have ... even",
+   "severity": "style",
+   "reason": "Matches the English and the commentators' 'even/also here'."
+  },
+  {
+   "ref": "16:13",
+   "path": "commentary:ibn-ezra:16:13:1.summary",
+   "value": "Ibn Ezra: רֳאִי has the pattern of the noun עֳנִי in רָאָה עֳנִי (Lam 3:1); the sense is 'God of vision' (אֵל מַרְאֶה).",
+   "severity": "error",
+   "reason": "Ibn Ezra cites Lam 3:1 for the noun pattern of עֳנִי; Lam 3:1 is '(the man who) has seen affliction', not 'he saw my affliction'."
+  },
+  {
+   "ref": "16:14",
+   "path": "commentary:rashi:16:14:1.summary",
+   "value": "Rashi: 'as its Targum', that is, Onkelos: 'the well at which the living (enduring) angel appeared'.",
+   "severity": "error",
+   "reason": "Onkelos reads מַלְאַךְ קַיָּמָא אִתַּחֲזִי עֲלַהּ, 'the living angel appeared at it'; 'the Living One by whom the angel appeared' misstates it."
+  },
+  {
+   "ref": "16:14",
+   "path": "commentary:onkelos:16:14:1.summary",
+   "value": "Onkelos: 'the well at which the living (enduring) angel appeared; it is between Rekem and Hagra'.",
+   "severity": "error",
+   "reason": "קַיָּמָא (pointed qayyāmā) is 'the enduring, living one', modifying the angel, as Radak also says the angel lives forever; not 'of the covenant' (קְיָמָא)."
+  },
+  {
+   "ref": "16:14",
+   "path": "note",
+   "value": "The name is transliterated; its sense, 'Well of the Living One who sees me' (BDB), is given in the glosses. Rashi refers to the Targum, 'the well at which the living angel appeared'; Radak links the name to Hagar's 'You are God of seeing' and to the angel who lives forever. Ibn Ezra reads לַחַי as 'to one who will be alive next year'; recorded.",
+   "severity": "error",
+   "reason": "The note attributed 'Well of the Living One who sees me' to Rashi via the Targum; the Targum says 'the well at which the living angel appeared'."
+  },
+  {
+   "ref": "16:16",
+   "path": "note",
+   "value": "The ס after the verse is a setumah, a closed paragraph break (an open one, petuḥah, is marked פ).",
+   "severity": "error",
+   "reason": "ס marks a closed paragraph (setumah), not an open one."
+  },
+  {
+   "ref": "16:16",
+   "path": "token:16:16.7.gloss",
+   "value": "when ... bore",
+   "severity": "style",
+   "reason": "The subject is Hagar, the next word; 'she' is not in the Hebrew."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:16:9:1",
+   "verdict": "not-applicable",
+   "comment": "A different angel for each speech: midrash on the repetition; the English is not affected."
+  },
+  {
+   "anchor": "rashi:16:11:1",
+   "verdict": "contradicts",
+   "comment": "The English stands: 16:4 says Hagar had conceived, the adjective הָרָה states a present condition, and Radak reads it so; Rashi's future reading depends on the midrash of a lost pregnancy (Rashi 16:5) and is recorded. Ibn Ezra is silent on the point."
+  },
+  {
+   "anchor": "rashi:16:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:11:3",
+   "verdict": "consistent",
+   "comment": "'you are to name him' carries the command."
+  },
+  {
+   "anchor": "ibn-ezra:16:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:16:11:2",
+   "verdict": "not-applicable",
+   "comment": "pronunciation only"
+  },
+  {
+   "anchor": "rashi:16:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:12:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:12:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:12:4",
+   "verdict": "consistent",
+   "comment": "'dwell over against' does not exclude Rashi's reading; recorded."
+  },
+  {
+   "anchor": "ibn-ezra:16:12:1",
+   "verdict": "consistent",
+   "comment": "Construct 'wild ass of a man' fits his own view."
+  },
+  {
+   "anchor": "ibn-ezra:16:12:2",
+   "verdict": "consistent",
+   "comment": "'his kin' admits the sons of Keturah."
+  },
+  {
+   "anchor": "rashi:16:13:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:13:2",
+   "verdict": "contradicts",
+   "comment": "'really' dropped 'even here'; fixed by the english patch. On רֹאִי the English follows Ibn Ezra and records Rashi."
+  },
+  {
+   "anchor": "ibn-ezra:16:13:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:16:13:2",
+   "verdict": "contradicts",
+   "comment": "'really' dropped 'also here'; fixed by the english patch."
+  },
+  {
+   "anchor": "rashi:16:14:1",
+   "verdict": "consistent",
+   "comment": "The transliterated name does not exclude the Targum's sense."
+  },
+  {
+   "anchor": "ibn-ezra:16:14:1",
+   "verdict": "consistent",
+   "comment": "Transliteration is neutral; recorded."
+  },
+  {
+   "anchor": "rashi:16:15:1",
+   "verdict": "consistent",
+   "comment": "The English states only that Abram named him."
+  },
+  {
+   "anchor": "rashi:16:16:1",
+   "verdict": "not-applicable",
+   "comment": "homily"
+  }
+ ]
+}

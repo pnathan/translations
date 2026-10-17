@@ -1,0 +1,324 @@
+{
+ "unit": "lekh-lekha-16",
+ "model": "opus",
+ "summary": "The English of Genesis 17:15–22 is accurate and follows Rashi where he decides the plain sense ('truly' for אֲבָל, 'if only' for לוּ, the joy of the laughter). The faults are in the apparatus: the literal lines read the interrogative ה of 17:17 as the article and wrote 'Abram' in 17:15; several senses were wrong (מֵאָה 'hundredth', גָּדוֹל 'greatness', מִן separation for origin, Hiphil קוּם 'set up' for establishing a covenant); and three of Rashi's comments were misreported (17:17 the affirming question and 'was Sarah fit to bear?', 17:20 נְשִׂיאִם as 'clouds'). Some learner notes on accents and word order in 17:16 were false.",
+ "patches": [
+  {
+   "ref": "17:15",
+   "path": "literal",
+   "value": "and-said God to-Abraham Sarai wife-of-you not you-call [object-marker] name-of-her Sarai for Sarah name-of-her",
+   "severity": "error",
+   "reason": "The Hebrew has אַבְרָהָם, not אַבְרָם; the literal line wrote 'to-Abram'."
+  },
+  {
+   "ref": "17:15",
+   "path": "commentary:radak:17:15:3.relation",
+   "value": "records",
+   "severity": "error",
+   "reason": "Radak reads כִּי שָׂרָה שְׁמָהּ as 'shall be her name'; the English says 'is her name', so it does not adopt his reading. It is kept, so 'records', not 'follows'."
+  },
+  {
+   "ref": "17:16",
+   "path": "token:17:16.5.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "מִמֶּנָּה here marks origin (a son born of her). That is BDB's 'out of' (2), not 1.a 'from, against', which is separation."
+  },
+  {
+   "ref": "17:16",
+   "path": "token:17:16.13.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The same as 17:16.5: the kings come out of her, origin, which is sense 2 'out of'."
+  },
+  {
+   "ref": "17:16",
+   "path": "token:17:16.14.sense",
+   "value": "Qal II.1.a",
+   "severity": "question",
+   "reason": "The English renders יִהְיוּ as 'shall come (from her)', which is BDB Qal II.1.a 'arise, appear, come', not Qal III 'be' (existence). Proposed: Qal II.1.a."
+  },
+  {
+   "ref": "17:16",
+   "path": "grammar",
+   "value": [
+    "וּבֵרַכְתִּי and וְהָיְתָה are weqatal forms: they continue the promise as future.",
+    "נָתַתִּי is a perfect that stands for the future (Ibn Ezra), a prophetic perfect, like נָתַתִּי כֶּסֶף הַשָּׂדֶה in 23:13.",
+    "The etnaḥta on בֵּן separates the gift of the son from the second blessing.",
+    "The pashta on וּבֵרַכְתִּיהָ is written twice because pashta is postpositive: the second sign stands on the last letter, and the first marks the stressed syllable (-תִּי-), which is not final.",
+    "מַלְכֵי עַמִּים: 'kings of peoples' is a construct chain. It comes first in its clause, before מִמֶּנָּה and the verb יִהְיוּ, so the kings are put forward."
+   ],
+   "severity": "error",
+   "reason": "Two notes were false. The doubled pashta marks the place of the stress (pashta is postpositive), not the repetition of the verb. And מִמֶּנָּה is not last: the clause ends with יִהְיוּ, and the subject מַלְכֵי עַמִּים comes first. The etnaḥta is on בֵּן, not after it."
+  },
+  {
+   "ref": "17:17",
+   "path": "literal",
+   "value": "and-fell Abraham on face-of-him and-laughed and-said in-heart-of-him [question]-to-son-of hundred year will-be-born and-if Sarah [question]-daughter-of ninety year will-bear",
+   "severity": "error",
+   "reason": "The ה of הַלְּבֶן and הֲבַת is the interrogative ה (the pack parses both as interrogative particles), not the article. The literal line wrote 'to-the-son-of' and 'the-daughter-of'."
+  },
+  {
+   "ref": "17:17",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "17:17.1",
+      "17:17.2",
+      "17:17.3",
+      "17:17.4"
+     ],
+     "english": "Abraham fell on his face",
+     "literal": "'and-fell Abraham on face-of-him'"
+    },
+    {
+     "tokens": [
+      "17:17.5"
+     ],
+     "english": "and laughed",
+     "literal": "'and-laughed'; Rashi, Ramban, Radak and Onkelos take it as joy"
+    },
+    {
+     "tokens": [
+      "17:17.6",
+      "17:17.7"
+     ],
+     "english": "and said in his heart",
+     "literal": "'and-said in-heart-of-him'"
+    },
+    {
+     "tokens": [
+      "17:17.8",
+      "17:17.9",
+      "17:17.10",
+      "17:17.11"
+     ],
+     "english": "Will a child be born to a man a hundred years old",
+     "literal": "'[question]-to-son-of hundred year will-be-born': the interrogative ה makes the question; 'son of a hundred years' is the idiom for a man that old, and the subject of יִוָּלֵד ('a child') is supplied in English"
+    },
+    {
+     "tokens": [
+      "17:17.12",
+      "17:17.13",
+      "17:17.14",
+      "17:17.15",
+      "17:17.16",
+      "17:17.17"
+     ],
+     "english": "And will Sarah a woman of ninety years bear a child",
+     "literal": "'and-if Sarah [question]-daughter-of ninety year will-bear': בַּת of age, 'a woman of ninety'; 'a child' is supplied as the object"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase literals read the interrogative ה as the article ('to-the-son-of', 'the-daughter-of'), and did not say that 'a child' is supplied."
+  },
+  {
+   "ref": "17:17",
+   "path": "token:17:17.8.gloss",
+   "value": "to a son of",
+   "severity": "style",
+   "reason": "The interrogative ה has no English word of its own; it is the question form. 'will to a son of' is not English."
+  },
+  {
+   "ref": "17:17",
+   "path": "token:17:17.8.note",
+   "value": "interrogative הֲ + ל + construct בֶּן: 'a son of a hundred years' is the Hebrew idiom for 'a man a hundred years old'",
+   "severity": "style",
+   "reason": "The note should say what the idiom means for the learner."
+  },
+  {
+   "ref": "17:17",
+   "path": "token:17:17.9.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "מֵאָה here is the cardinal 'a hundred'. The only sense the entry lists, 3 'hundredth', is the ordinal and is wrong here; no listed sense fits, so the sense is removed."
+  },
+  {
+   "ref": "17:17",
+   "path": "token:17:17.9.note",
+   "value": "cardinal 'a hundred'; the entry's only listed sense, 'hundredth', does not fit, so no sense is given",
+   "severity": "error",
+   "reason": "Records the removal of the wrong sense."
+  },
+  {
+   "ref": "17:17",
+   "path": "note",
+   "value": "Whether וַיִּצְחָק is laughter of joy or of mockery is the ambiguity of the verse. Rashi (and Onkelos וַחֲדִי, Radak, Ramban) take Abraham's laughter as joy, in contrast to Sarah's laughter in 18:12 as scorn; the English keeps the plain word 'laughed' and the reading goes in the commentary. The questions express wonder, not doubt: Rashi reads the first as a question that affirms (has such kindness been done for anyone else?), and Ibn Ezra as amazement. בֶּן מֵאָה שָׁנָה, 'a son of a hundred years', is the idiom for a man a hundred years old and is rendered 'a man a hundred years old'; the subject of יִוָּלֵד, 'a child', and the object of תֵּלֵד are not in the Hebrew and are supplied by the English.",
+   "severity": "error",
+   "reason": "The note said 'a child' translates בֵּן. It does not: בֵּן belongs to the age idiom ('a man a hundred years old'), and 'a child' is the supplied subject of the passive verb. The note also gave Rashi's reading wrongly as a real question."
+  },
+  {
+   "ref": "17:17",
+   "path": "commentary:rashi:17:17:2.summary",
+   "value": "Rashi: some questions are affirmations (תְּמִיהוֹת שֶׁהֵן קַיָּמוֹת), as הֲנִגְלֹה נִגְלֵיתִי (1 Sam 2:27) and הֲרֹאֶה אַתָּה (Ezek 8:6), and this is one: Abraham said in his heart, 'Has such kindness been done for anyone else, as the Holy One does for me?'",
+   "severity": "error",
+   "reason": "קַיָּמוֹת means questions whose content stands as true, i.e. affirmations, not 'real questions'; and Rashi's paraphrase is 'is such kindness done for another as God does for me?', not 'whether such kindness will be done for him'."
+  },
+  {
+   "ref": "17:17",
+   "path": "commentary:rashi:17:17:3",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi paraphrases the question: 'is Sarah, at ninety, fit to bear?' Although the early generations begot at five hundred, by Abraham's time lifespans had shrunk and weakness had come into the world, as the ten generations from Noah to Abraham, who had children at sixty and seventy, show."
+   },
+   "severity": "error",
+   "reason": "The summary said 'Sarah was fit to bear', the opposite of Rashi, who gives the question its content ('was she fit to bear?'). Because the comment explains the words of the question, it bears on the plain sense, and the English, a question of wonder, follows it."
+  },
+  {
+   "ref": "17:19",
+   "path": "token:17:19.13.sense",
+   "value": "Hiph 6",
+   "severity": "error",
+   "reason": "הֵקִים בְּרִית, 'establish, confirm a covenant', falls under BDB Hiph 6 'cause to stand' (maintain, establish, confirm). 2.a 'raise, set up' is for erecting a thing such as a pillar or an altar."
+  },
+  {
+   "ref": "17:20",
+   "path": "token:17:20.14.note",
+   "value": "'one lifted up', a prince or chief. Rashi plays on the homonym נְשִׂיאִים 'clouds' (Prov 25:14): these princes will pass away like clouds",
+   "severity": "error",
+   "reason": "Rashi does not gloss נְשִׂיאִם as 'clouds'. He keeps 'princes' and adds that they will vanish like clouds, a wordplay."
+  },
+  {
+   "ref": "17:20",
+   "path": "token:17:20.18.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The entry's listed senses are 4 'loud', 9 'do great things' and 10 'greatness' (the noun use). None fits the adjective 'great' of גּוֹי גָּדוֹל, so the sense is removed."
+  },
+  {
+   "ref": "17:20",
+   "path": "token:17:20.18.note",
+   "value": "adjective after its noun; the entry lists no sense for 'great' in size or number, so no sense is given",
+   "severity": "error",
+   "reason": "Records the removal of the wrong sense."
+  },
+  {
+   "ref": "17:20",
+   "path": "grammar",
+   "value": [
+    "הִנֵּה is 'look', calling attention to what is already done: בֵּרַכְתִּי is a perfect.",
+    "The following weqatal verbs (וְהִפְרֵיתִי, וְהִרְבֵּיתִי) are future.",
+    "בִּמְאֹד מְאֹד is a doubled adverb for the superlative.",
+    "שְׁנֵים־עָשָׂר נְשִׂיאִם: the number precedes the noun. Rashi plays on נְשִׂיאִים 'clouds' (Prov 25:14) to say these princes will pass away like clouds; the plain sense 'princes, chieftains' stands.",
+    "The zinor on וּלְיִשְׁמָעֵאל and the segolta, written twice, on שְׁמַעְתִּיךָ set off 'As for Ishmael, I have heard you' as the first division of the verse's first half."
+   ],
+   "severity": "error",
+   "reason": "The note said Rashi reads נְשִׂיאִם as 'clouds'. He reads it as 'princes' and makes a wordplay on their passing. The accent note is made exact."
+  },
+  {
+   "ref": "17:20",
+   "path": "note",
+   "value": "וּלְיִשְׁמָעֵאל שְׁמַעְתִּיךָ plays on the name יִשְׁמָעֵאל ('God hears'); the English cannot, so the point goes here. The verb שָׁמַע is Qal here, and the entry lists no Qal sense, so I give no sense for it. In the Hebrew שְׁנֵים עָשָׂר is a single number; the tokens for 'two' and 'ten' are combined in 'twelve'. נְשִׂיאִם is 'chieftains'; Rashi, citing נְשִׂיאִים וְרוּחַ (Prov 25:14), adds that these princes will pass away like clouds, a play on the word that leaves its sense in place.",
+   "severity": "error",
+   "reason": "The note said Rashi glosses נְשִׂיאִם as 'clouds'; he does not replace the sense, he plays on it."
+  },
+  {
+   "ref": "17:20",
+   "path": "commentary:rashi:17:20:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Rashi: the twelve princes 'will pass away like clouds' (כַּעֲנָנִים יִכְלוּ), playing on נְשִׂיאִים 'clouds' in נְשִׂיאִים וְרוּחַ (Prov 25:14). He does not deny that they are princes; the comment is on their impermanence, a homily that leaves the plain sense 'chieftains' in place."
+   },
+   "severity": "error",
+   "reason": "The ruling took Rashi as offering another meaning, 'clouds', for the word. He does not: he keeps 'princes' and comments on their fate. The comment does not bear on the English."
+  },
+  {
+   "ref": "17:21",
+   "path": "token:17:21.3.sense",
+   "value": "Hiph 6",
+   "severity": "error",
+   "reason": "As in 17:19.13: אָקִים with בְּרִית is 'establish, confirm', BDB Hiph 6 'cause to stand', not 2.a 'raise, set up'."
+  },
+  {
+   "ref": "17:22",
+   "path": "note",
+   "value": "The subject of וַיְכַל is God, 'he' in the English. Rashi calls מֵעַל אַבְרָהָם a respectful expression toward the Divine Presence, and from 'from upon' (מֵעַל) the Midrash learns that the righteous are God's chariot; Ramban cites the same. The English renders מֵעַל as 'from'.",
+   "severity": "error",
+   "reason": "The chariot homily rests on מֵעַל 'from upon', not on the verb 'went up'; and the English does not keep 'from upon', as the note claimed."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:17:15:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:15:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:16:1",
+   "verdict": "consistent",
+   "comment": "The English says only 'bless'; Rashi's content is kept in the commentary."
+  },
+  {
+   "anchor": "rashi:17:16:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:17:16:1",
+   "verdict": "consistent",
+   "comment": "Future English for the perfect נָתַתִּי."
+  },
+  {
+   "anchor": "rashi:17:17:1",
+   "verdict": "consistent",
+   "comment": "'laughed', with the joy reading in the commentary."
+  },
+  {
+   "anchor": "rashi:17:17:2",
+   "verdict": "consistent",
+   "comment": "The English question carries wonder, as Rashi's affirming question."
+  },
+  {
+   "anchor": "rashi:17:17:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:17:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:18:1",
+   "verdict": "consistent",
+   "comment": "'If only' is Rashi's הַלְוַאי."
+  },
+  {
+   "anchor": "rashi:17:18:2",
+   "verdict": "consistent",
+   "comment": "'live before you' keeps Rashi's 'in fear of you' open."
+  },
+  {
+   "anchor": "rashi:17:19:1",
+   "verdict": "consistent",
+   "comment": "'Truly' is Rashi's 'truth of the words'."
+  },
+  {
+   "anchor": "rashi:17:19:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:19:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:19:4",
+   "verdict": "not-applicable",
+   "comment": "A derivation from 17:21."
+  },
+  {
+   "anchor": "rashi:17:19:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:17:20:1",
+   "verdict": "not-applicable",
+   "comment": "A homily on the princes' fate."
+  },
+  {
+   "anchor": "rashi:17:22:1",
+   "verdict": "consistent"
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "unit": "bereshit-02",
+ "model": "opus",
+ "summary": "The English of Genesis 1:6–13 is accurate and follows the Hebrew closely; no reading-line change is needed. The faults are in the apparatus: Rashi's reading of יְהִי רָקִיעַ ('let the expanse become firm') was wrongly set aside as not applicable, the sense of יְהִי in 1:6 and of פְּרִי in 1:11–12 were mis-assigned, and two accent notes (1:7, 1:10) misplace or misdescribe the accents. Two Rashi summaries are inaccurate (the laaz in 1:11, the קַל וָחֹמֶר in 1:12), and the 1:11 note credits Ibn Ezra with Rashi's דשא/עשב distinction.",
+ "patches": [
+  {
+   "ref": "1:6",
+   "path": "token:1:6.3.sense",
+   "value": "Qal II",
+   "severity": "error",
+   "reason": "The jussive יְהִי of a creative command is 'come into being' (BDB Qal II), not 'exist, be in existence' (Qal III.1)."
+  },
+  {
+   "ref": "1:6",
+   "path": "commentary:rashi:1:6:1",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: יְהִי רָקִיעַ means 'let the expanse become firm' (יֶחֱזַק הָרָקִיעַ): the heavens made on day one were still moist (לַחִים) and set hard on the second day at God's rebuke, as Job 26:11 says the pillars of heaven tremble and are astonished at His rebuke. On this reading the verb strengthens an existing heaven; the English 'let there be' follows the plain sense of a new making (cf. Ibn Ezra), and Rashi's reading is kept here."
+   },
+   "severity": "error",
+   "reason": "Rashi's comment is a reading of the words יְהִי רָקִיעַ (not a homily): it makes the verb 'become firm', not 'come to be'. It bears on the plain sense, so the English, which does not adopt it, must record it, not mark it not-applicable."
+  },
+  {
+   "ref": "1:6",
+   "path": "commentary:ibn-ezra:1:6:1.relation",
+   "value": "follows",
+   "severity": "question",
+   "reason": "The English 'expanse' (something stretched out) adopts Ibn Ezra's sense of רָקִיעַ, as the translator's own note says; only his identification with the air is left open. 'follows' fits better than 'records'."
+  },
+  {
+   "ref": "1:7",
+   "path": "token:1:7.10.note",
+   "value": "מִתַּחַת לְ is a compound preposition, 'below, beneath'; the לְ introduces what the waters are below",
+   "severity": "error",
+   "reason": "The לְ here is part of the compound preposition מִתַּחַת לְ, not a לְ of possession ('of, belonging to')."
+  },
+  {
+   "ref": "1:7",
+   "path": "grammar",
+   "value": [
+    "The wayyiqtol וַיַּעַשׂ continues the narrative of the command; עשה here is 'set in order, finish' (Rashi, Ramban).",
+    "בֵּין ... וּבֵין is the second way the idiom is built; Ibn Ezra lists the three forms.",
+    "מֵעַל לָרָקִיעַ means 'above' with space between, not 'on' the expanse.",
+    "The zinor on אֱלֹהִים and the segol on הָרָקִיעַ set the making apart from the dividing; the silluq closes the verse after וַיְהִי־כֵן."
+   ],
+   "severity": "error",
+   "reason": "The zinor stands on אֱלֹהִים֮ (1:7.2), not on הָרָקִיעַ, which carries the segol."
+  },
+  {
+   "ref": "1:8",
+   "path": "token:1:8.4.gloss",
+   "value": "Sky",
+   "severity": "style",
+   "reason": "The gloss should give the sense used in the English line, which names it 'Sky' (and 1:9 'the sky'); 'heavens' stays in the literal line."
+  },
+  {
+   "ref": "1:10",
+   "path": "grammar",
+   "value": [
+    "The object (the gathering of the waters) is placed before the verb, so the perfect קָרָא is used.",
+    "יַמִּים is the plural: the one gathering is named by several seas.",
+    "כִּי־טוֹב: a clause of seeing, 'that it was good'.",
+    "The paseq after אֱלֹהִים and the pashta on לַיַּבָּשָׁה lead to the zaqef on אֶרֶץ, which divides the two namings; the etnaḥta on יַמִּים sets the namings apart from God's seeing."
+   ],
+   "severity": "error",
+   "reason": "The qadma on וַיִּקְרָא is a conjunctive accent and divides nothing; the namings are divided by the zaqef on אֶרֶץ, with the etnaḥta on יַמִּים."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.10.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Fruit of a tree is BDB sense 1 (fruit, of ground and of trees, Gn 1:11–12); sense 3 is the figurative fruit (result) of conduct."
+  },
+  {
+   "ref": "1:11",
+   "path": "token:1:11.12.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Fruit of a tree is BDB sense 1 (fruit, of ground and of trees, Gn 1:11–12); sense 3 is the figurative fruit (result) of conduct."
+  },
+  {
+   "ref": "1:11",
+   "path": "note",
+   "value": "'Green growth' for דֶּשֶׁא follows Rashi: דשא is the earth's green covering, עשב the individual plants (Ramban disputes this and takes דשא as the young growth). Ibn Ezra glosses only the verb: תַּדְשֵׁא is תַּצְמִיחַ. 'Fruit trees' keeps עֵץ פְּרִי; Rashi's reading of a tree that tastes of fruit is kept in the commentary.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not make the דשא/עשב distinction; he says only that תדשא means תצמיח. The distinction is Rashi's."
+  },
+  {
+   "ref": "1:11",
+   "path": "commentary:rashi:1:11:2.summary",
+   "value": "Rashi: תַּדְשֵׁא הָאָרֶץ means the earth should fill and cover itself with a garment of plants. In Old French דֶּשֶׁא is ארבריץ ('herbage'), all kinds mixed together, while each root by itself is called עֵשֶׂב. The English 'sprout green growth'.",
+   "severity": "error",
+   "reason": "Rashi's laaz ארבריץ is Old French for 'herbage', not 'arbres' (trees); the summary also omitted his point that each root by itself is עשב."
+  },
+  {
+   "ref": "1:12",
+   "path": "token:1:12.10.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Fruit of a tree is BDB sense 1; sense 3 is figurative."
+  },
+  {
+   "ref": "1:12",
+   "path": "commentary:rashi:1:12:1.summary",
+   "value": "Rashi: although לְמִינֵהוּ was not said of the grasses in their command, they heard that the trees were so commanded and reasoned a fortiori (קַל וָחֹמֶר) for themselves, as the aggadah in Ḥullin explains. The English gives each group 'of its own kind'.",
+   "severity": "error",
+   "reason": "נָשְׂאוּ קַ\"וָ בְּעַצְמָן means they drew an a fortiori inference for themselves, not that they 'carried it on themselves'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:1:6:1",
+   "verdict": "contradicts",
+   "comment": "Rashi reads 'let the expanse become firm'; the English 'let there be' keeps the plain sense of a new thing made, in line with Ibn Ezra (the expanse formed as the air). Rashi and Ibn Ezra differ, so the English may choose; Rashi is now recorded."
+  },
+  {
+   "anchor": "rashi:1:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:6:1",
+   "verdict": "consistent",
+   "comment": "'expanse' carries his 'something stretched out'."
+  },
+  {
+   "anchor": "rashi:1:7:1",
+   "verdict": "consistent",
+   "comment": "'made' read as 'set it in its place'."
+  },
+  {
+   "anchor": "rashi:1:7:2",
+   "verdict": "consistent",
+   "comment": "'above', not 'on'."
+  },
+  {
+   "anchor": "ibn-ezra:1:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:7:2",
+   "verdict": "contradicts",
+   "comment": "He joins וַיְהִי־כֵן to 1:8; the English keeps it with 1:7 by the accents (silluq), and Rashi does not support the join. Recorded."
+  },
+  {
+   "anchor": "rashi:1:8:1",
+   "verdict": "not-applicable",
+   "comment": "An etymology of שָׁמַיִם; it does not change the English."
+  },
+  {
+   "anchor": "ibn-ezra:1:8:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:1:9:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:9:1",
+   "verdict": "contradicts",
+   "comment": "He reads 1:9 as a pluperfect ('had said'); the English keeps the sequence of days, which Rashi 1:7 (the work of the waters begun on day two and finished on day three) supports. Recorded."
+  },
+  {
+   "anchor": "ibn-ezra:1:9:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:10:1",
+   "verdict": "consistent",
+   "comment": "The plural 'Seas' is kept in 1:10."
+  },
+  {
+   "anchor": "rashi:1:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:11:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:11:4",
+   "verdict": "contradicts",
+   "comment": "Rashi's 'tree whose wood tastes like its fruit' is a midrashic reading; the plain 'fruit trees' stands and Ibn Ezra offers no contrary plain sense. Recorded."
+  },
+  {
+   "anchor": "rashi:1:11:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:11:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:1:11:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:11:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:1:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:1:12:1",
+   "verdict": "not-applicable",
+   "comment": "The pack's text is a single letter."
+  }
+ ]
+}

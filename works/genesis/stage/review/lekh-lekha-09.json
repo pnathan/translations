@@ -1,0 +1,396 @@
+{
+ "unit": "lekh-lekha-09",
+ "model": "opus",
+ "summary": "The English of 15:1-8 is accurate and follows Rashi and Ibn Ezra; only 15:2 needs a change to the English, where הוּא was rendered as a demonstrative ('is this Eliezer') and מֶשֶׁק was treated as the name 'Meshek' in the gloss and literal line. Most faults are in the learner apparatus: several accent notes misread conjunctive or doubled accents (qadma, darga, the doubled pashta), and some form notes are wrong (נָתַתָּה, לָתֶת, the pointing יֱהֹוִה). Several commentary summaries misattribute: Ibn Ezra on צְדָקָה is given Rashi's 'merit', Ramban's preferred reading at 15:6 is called his second, and Ramban at 15:1, 15:2, 15:4 and 15:5 is made to say things he does not say. Two בֵּן senses are corrected to 7.a.",
+ "patches": [
+  {
+   "ref": "15:1",
+   "path": "grammar",
+   "value": [
+    "הָיָה דְבַר־יְהֹוָה אֶל־: the standard formula for the arrival of a prophetic word. Here it is joined to בַּמַּחֲזֶה, a rare word for the medium of the revelation.",
+    "The two sentences אָנֹכִי מָגֵן לָךְ and שְׂכָרְךָ הַרְבֵּה מְאֹד are verbless. The English present tense is a choice: Ibn Ezra takes the first as a past 'I was a shield' (see commentary), but the Hebrew has no tense.",
+    "הַרְבֵּה is the hifil infinitive absolute of רבה, 'making much', used with מְאֹד as the predicate of the clause: 'very much, very great'.",
+    "The etnaḥta on לֵאמֹר ends the narrative frame. In the speech the zaqef qaton on לָךְ closes the prohibition and its first ground; within that part the revia on אַבְרָם divides 'Do not be afraid, Abram' from 'I am a shield for you'. The pashta on אָנֹכִי is a lesser division inside 'I am a shield for you'."
+   ],
+   "severity": "error",
+   "reason": "The fourth note misreads the accents: the pashta on אָנֹכִי does not divide the prohibition from its grounds (it falls inside the clause אָנֹכִי מָגֵן לָךְ); the revia on אַבְרָם does. The third note's 'noun clause, to make very many' is replaced by the plain account."
+  },
+  {
+   "ref": "15:1",
+   "path": "note",
+   "value": "The speech is placed in a vision (בַּמַּחֲזֶה), which Ibn Ezra glosses as 'the visions of prophecy' and Radak says shows Abram an action, not only words. The present 'I am a shield' takes the verbless clause as Rashi does, of protection from punishment to come; Ibn Ezra's past reading, 'I was a shield to you (against the kings)', is recorded in the commentary.",
+   "severity": "error",
+   "reason": "A present tense does not 'leave open' a past reading; the English chooses Rashi's sense and records Ibn Ezra's."
+  },
+  {
+   "ref": "15:1",
+   "path": "token:15:1.18.note",
+   "value": "hifil infinitive absolute, 'making much'; with מְאֹד it stands as the predicate, 'very much, very great'",
+   "severity": "style",
+   "reason": "The hifil is active; 'is made abundant' gives it a passive sense it does not have."
+  },
+  {
+   "ref": "15:1",
+   "path": "commentary:ramban:15:1:2.summary",
+   "value": "Ramban: Abram feared two things: that the kings, or those under them, would return with larger forces and he would fall in battle, or that his day would come to die without offspring. God promised to be his shield against them, and that the reward for his walking with the LORD would be very great; the fear of dying childless is not yet answered, as Abram's reply in 15:2 shows (Ramban there: 'from being cut off you have not promised me').",
+   "severity": "error",
+   "reason": "Ramban does not say the reward answers the second fear; he ties the reward to Abram's walking with God, and at 15:2 says the fear of childlessness was left unanswered."
+  },
+  {
+   "ref": "15:2",
+   "path": "english",
+   "value": "Abram said, My Lord, the LORD, what will you give me, when I go on childless, and the steward of my house is Eliezer of Damascus?",
+   "severity": "error",
+   "reason": "הוּא is the personal pronoun serving as copula ('he is'), not a demonstrative; 'is this Eliezer' adds a demonstrative and implies Eliezer is already known."
+  },
+  {
+   "ref": "15:2",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "15:2.1",
+      "15:2.2"
+     ],
+     "english": "Abram said",
+     "literal": "'and-said Abram'"
+    },
+    {
+     "tokens": [
+      "15:2.3",
+      "15:2.4"
+     ],
+     "english": "My Lord, the LORD",
+     "literal": "'my-lords LORD'; the decisions file gives 'the LORD' for the name"
+    },
+    {
+     "tokens": [
+      "15:2.5",
+      "15:2.6",
+      "15:2.7"
+     ],
+     "english": "what will you give me",
+     "literal": "'what you-will-give to-me'"
+    },
+    {
+     "tokens": [
+      "15:2.8",
+      "15:2.9",
+      "15:2.10"
+     ],
+     "english": "when I go on childless",
+     "literal": "'and-I going childless'; circumstantial waw, 'seeing that'"
+    },
+    {
+     "tokens": [
+      "15:2.11",
+      "15:2.12",
+      "15:2.13"
+     ],
+     "english": "and the steward of my house",
+     "literal": "'and-son-of charge-of my-house'; Rashi after the Targum: one on whose word the whole house is fed, my steward"
+    },
+    {
+     "tokens": [
+      "15:2.14"
+     ],
+     "english": "is",
+     "literal": "'he'; the personal pronoun serves as the copula, 'he is'"
+    },
+    {
+     "tokens": [
+      "15:2.15",
+      "15:2.16"
+     ],
+     "english": "Eliezer of Damascus",
+     "literal": "'Damascus Eliezer'; the Targum 'the Damascene Eliezer'"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the English patch; הוּא is a personal pronoun (the pack's parse), not a demonstrative, and מֶשֶׁק is not a name."
+  },
+  {
+   "ref": "15:2",
+   "path": "literal",
+   "value": "and-said Abram my-lords LORD what you-will-give to-me and-I going childless and-son-of charge-of my-house he Damascus Eliezer",
+   "severity": "error",
+   "reason": "מֶשֶׁק is a common noun (BDB 'acquisition, possession'; Rashi 'management'), not the name 'Meshek'."
+  },
+  {
+   "ref": "15:2",
+   "path": "token:15:2.12.gloss",
+   "value": "the charge of",
+   "severity": "error",
+   "reason": "מֶשֶׁק is a common noun, not a proper name; Rashi and the Targum take it as management or provision of the house."
+  },
+  {
+   "ref": "15:2",
+   "path": "token:15:2.11.sense",
+   "value": "7.a",
+   "severity": "error",
+   "reason": "בֶּן־ in בֶּן־מֶשֶׁק is the idiom 'one belonging to', not a literal son; sense 7.a, not 1."
+  },
+  {
+   "ref": "15:2",
+   "path": "token:15:2.11.note",
+   "value": "construct state; בֶּן־ in an idiom, 'one belonging to': בֶּן־מֶשֶׁק בֵּיתִי, 'the one in charge of my house'",
+   "severity": "error",
+   "reason": "The note called מֶשֶׁק a name ('son of Meshek')."
+  },
+  {
+   "ref": "15:2",
+   "path": "token:15:2.4.note",
+   "value": "יהוה pointed with the vowels of אֱלֹהִים (יֱהֹוִה): after אֲדֹנָי the reader says Elohim, so that Adonai is not said twice",
+   "severity": "error",
+   "reason": "The note had it backwards: the pointing does not cause אֲדֹנָי to be read; it tells the reader to say Elohim for the name after the written אֲדֹנָי (as the grammar note correctly says)."
+  },
+  {
+   "ref": "15:2",
+   "path": "commentary:rashi:15:2:1.summary",
+   "value": "Rashi gives Menahem ben Saruq's view that עֲרִירִי means 'without an heir', lacking sons (he joins it to עֵר וְעֹנֶה, Malachi 2:12, with a privative sense like תְשָׁרֵשׁ 'uproot', Job 31:12); his own view joins עֵר to 'awake' (Song 5:2) and takes עֲרִירִי as 'desolation', as עָרוּ עָרוּ (Psalm 137:7). The English 'childless' gives Menahem's sense, which the plain context requires on either view.",
+   "severity": "error",
+   "reason": "Rashi does not say the two views 'come out as without children'; his own view is 'destruction, desolation'. The summary should say what each says."
+  },
+  {
+   "ref": "15:2",
+   "path": "commentary:rashi:15:2:3.summary",
+   "value": "Rashi: according to the Targum he was from Damascus; according to the midrash he is called Damascus because he pursued the kings as far as Damascus. The Talmud reads דמשק as an acrostic: he 'draws and gives drink' (דולה ומשקה) of his master's teaching to others. The English takes the plain sense, 'of Damascus'.",
+   "severity": "error",
+   "reason": "In the midrash Rashi cites, the one who pursued the kings to Damascus is Eliezer, which is why he bears the name; the summary made it Abram, which explains nothing about the epithet."
+  },
+  {
+   "ref": "15:2",
+   "path": "commentary:ibn-ezra:15:2:2.summary",
+   "value": "Ibn Ezra: מֶשֶׁק has the pattern of מֶכֶס and is from a doubled root, as in שׁוֹקֵק בּוֹ (Isaiah 33:4), with segol like דֶּבֶק: 'a son who draws himself and another with him', one who runs about the house. He concludes that בן משק ביתי is the man of Damascus, Eliezer. The English 'steward' agrees in sense; his derivation is kept here.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not cite the Targum on מֶשֶׁק (he cites it on עֲרִירִי); the summary also omitted his conclusion identifying the man with Eliezer of Damascus."
+  },
+  {
+   "ref": "15:2",
+   "path": "commentary:ramban:15:2:2.summary",
+   "value": "Ramban cites an interpretation (marked יב\"ע) that הולך ערירי means 'I am dying childless', as in הולך האדם אל בית עולמו (Ecclesiastes 12:5). He prefers: Abram complains, what will my reward be when I have no sons, and I go wandering alone in a foreign land like a juniper in the desert, with none coming and going in my house but Eliezer, a stranger I took from Damascus. The English 'go on' does not narrow to either.",
+   "severity": "error",
+   "reason": "The interpretation Ramban cites is not attributed to 'Rashi's older commentators'; and his own reading is 'wandering alone', which the summary should give."
+  },
+  {
+   "ref": "15:3",
+   "path": "token:15:3.9.sense",
+   "value": "7.a",
+   "severity": "error",
+   "reason": "The gloss is 'a member of', which is BDB sense 7.a 'member', not sense 1 'son'."
+  },
+  {
+   "ref": "15:3",
+   "path": "token:15:3.6.note",
+   "value": "perfect, 2nd person masculine singular, written in full with a final ה (נָתַתָּה for נָתַתָּ); the doubled ת is the last nun of the root assimilated to the ending -תָּ",
+   "severity": "error",
+   "reason": "There is no mappiq in נָתַתָּה; the ה is a vowel letter for the ending, and the dagesh in ת reflects the assimilated nun."
+  },
+  {
+   "ref": "15:4",
+   "path": "grammar",
+   "value": [
+    "וְהִנֵּה דְבַר־יְהֹוָה אֵלָיו: a verbless clause, 'and behold, the word of the LORD to him'; וְהִנֵּה marks the sudden arrival of the word (Ramban: while Abram was still speaking). The qadma on וְהִנֵּה is conjunctive; the first divisions fall at the pashta on אֵלָיו and the zaqef qaton on לֵאמֹר.",
+    "לֹא יִירָשְׁךָ זֶה: the verb has the 2nd person masculine suffix and the same verb occurs again at the end, so the verse is built around a contrast between two heirs. The etnaḥta on זֶה divides the rejected heir from the true one.",
+    "כִּי־אִם after a negative means 'but rather', not 'if'.",
+    "יִירָשׁ with an object of person means 'be the heir of' that person, here 'inherit from you'."
+   ],
+   "severity": "error",
+   "reason": "The qadma is a conjunctive accent and marks no sentence division."
+  },
+  {
+   "ref": "15:4",
+   "path": "token:15:4.7.note",
+   "value": "imperfect with the 2nd person masculine suffix: 'will inherit you', that is, be your heir; the meteg on יִֽ keeps the first vowel long",
+   "severity": "style",
+   "reason": "The note's 'the first one marks the accent on the verb' is unclear."
+  },
+  {
+   "ref": "15:4",
+   "path": "commentary:ramban:15:4:1.summary",
+   "value": "Ramban: because the son who would inherit him would come only after his old age, God promised him here only about the inheritance, that he should not worry: his own seed will inherit him. וְהִנֵּה means that while Abram was still saying 'my household member is my heir', the word of the LORD came to him suddenly.",
+   "severity": "error",
+   "reason": "Ramban says nothing here about 'not the reward'; he says the promise concerned only the inheritance because the son would come in Abram's old age."
+  },
+  {
+   "ref": "15:5",
+   "path": "grammar",
+   "value": [
+    "וַיּוֹצֵא אֹתוֹ הַחוּצָה: a hifil wayyiqtol. The subject is God, the object Abram. הַחוּצָה has the article and the directional ה together.",
+    "הַבֶּט־נָא הַשָּׁמַיְמָה: שָׁמַיִם with the article and the directional ending ָה, 'skyward'. The imperative with נָא is courteous.",
+    "אִם־תּוּכַל לִסְפֹּר: אִם introduces a conditional clause whose result is implied (the answer is no). The verb סָפַר is used twice (imperative and infinitive) in the one speech.",
+    "כֹּה יִהְיֶה זַרְעֶךָ: the adverb כֹּה refers to the stars in sight; the verb is future and 'offspring' is collective.",
+    "The pashta on וַיֹּאמֶר is written twice because the word is stressed on its first syllable: one mark shows the stress, the other is the accent's usual place on the last letter. It is one accent. The etnaḥta on אֹתָם ends the first speech, and the second begins with a new וַיֹּאמֶר."
+   ],
+   "severity": "error",
+   "reason": "A doubled pashta is one accent written twice to show penultimate stress, not two marks that make the speech a unit; and the directional ending on שָׁמַיִם is not a 'rare spelling'."
+  },
+  {
+   "ref": "15:5",
+   "path": "commentary:ramban:15:5:1.summary",
+   "value": "Ramban quotes Rashi's plain sense (He brought him out of his tent to see the stars) and the midrash (go out of your astrology), and objects that Abram, while still Abram, fathered Ishmael; he explains the midrash as meaning that Abram was seeking a son who would be his heir.",
+   "severity": "error",
+   "reason": "Ramban does not say 'an heir by Sarai'; at 15:3 (ramban:15:5:2) he says that Sarah is an addition in the midrash."
+  },
+  {
+   "ref": "15:6",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "15:6.1",
+      "15:6.2"
+     ],
+     "english": "He trusted in the LORD",
+     "literal": "'and-he-trusted in-the-LORD'"
+    },
+    {
+     "tokens": [
+      "15:6.3",
+      "15:6.4"
+     ],
+     "english": "and the LORD reckoned it to him",
+     "literal": "'and-he-reckoned-it to-him'; the English names the subject, which Rashi takes to be the LORD; Ramban's preferred reading takes Abram as the subject: he reckoned that God would give him seed out of God's own righteousness"
+    },
+    {
+     "tokens": [
+      "15:6.5"
+     ],
+     "english": "as righteousness",
+     "literal": "'righteousness'; Ibn Ezra: as in וּצְדָקָה תִּהְיֶה לָּנוּ, Deuteronomy 6:25, not the Sages' sense 'charity'"
+    }
+   ],
+   "severity": "error",
+   "reason": "Ibn Ezra does not gloss צְדָקָה as 'a merit' (that is Rashi's זכות and the Targum's לְזָכוּ); and the reading with Abram as subject is Ramban's preferred one, not his second."
+  },
+  {
+   "ref": "15:6",
+   "path": "grammar",
+   "value": [
+    "וְהֶאֱמִן: the waw with a perfect (weqatal) after a string of wayyiqtols; it gives the narrator's comment on Abram's state of trust, not a new event in the sequence. The hifil of אמן means 'consider firm', 'put trust in'.",
+    "וַיַּחְשְׁבֶהָ לּוֹ צְדָקָה: the verb takes an object suffix (feminine, 'it') and a double complement, 'to him' and 'as righteousness'. The feminine suffix refers to his faith or to the promise.",
+    "The subject of וַיַּחְשְׁבֶהָ is not named. Rashi and Sforno take it to be God. Ramban's preferred reading takes Abram as the subject: he reckoned that God would give him seed out of God's righteousness; his second reading has God count the promise to him as righteousness (cf. Psalm 106:31 of Pinhas)."
+   ],
+   "severity": "error",
+   "reason": "Ramban's first, preferred reading (והנכון בעיני) is the one with Abram as subject; the note called it his second."
+  },
+  {
+   "ref": "15:6",
+   "path": "note",
+   "value": "The English names the LORD as the subject of 'reckoned', following Rashi and Sforno; the ambiguity of the Hebrew (Abram, or God) is kept in the phrase note and the commentary. צְדָקָה is 'righteousness'; Ibn Ezra explains it by Deuteronomy 6:25 and sets it apart from the Sages' sense 'charity'.",
+   "severity": "error",
+   "reason": "Ibn Ezra does not say 'a merit'."
+  },
+  {
+   "ref": "15:7",
+   "path": "token:15:7.9.note",
+   "value": "infinitive construct תֵּת of נתן, here pointed תֶת under the darga: the first nun of the root falls away and the last nun assimilates to the ending ת; the ל takes qamets before it",
+   "severity": "error",
+   "reason": "The final nun does not simply drop and no ת is doubled in the written form; the account of the form was wrong."
+  },
+  {
+   "ref": "15:7",
+   "path": "grammar",
+   "value": [
+    "אֲנִי יְהֹוָה אֲשֶׁר הוֹצֵאתִיךָ: the formula of self-introduction, 'I am the LORD who ...', that recalls the earlier act as grounds for the promise.",
+    "The relative אֲשֶׁר takes a 1st person verb, 'who I brought you out', and the English turns it into a normal relative clause with 'who brought'.",
+    "לָתֶת לְךָ ... לְרִשְׁתָּהּ: two infinitives with ל expressing purpose. The first is of נתן, the second of ירשׁ with the feminine suffix referring to הָאָרֶץ.",
+    "The zaqef qaton on כַּשְׂדִּים closes 'I am the LORD who brought you out of Ur of the Chaldeans'. In what follows the tevir on לְךָ divides 'to give you' from 'this land', and the tipḥa on הַזֹּאת sets the last word, לְרִשְׁתָּהּ, apart. The darga on לָתֶת is conjunctive and joins it to לְךָ."
+   ],
+   "severity": "error",
+   "reason": "The darga is a conjunctive accent; and the tipḥa on הַזֹּאת, not the tevir, divides 'this land' from 'to possess it'."
+  },
+  {
+   "ref": "15:8",
+   "path": "token:15:8.5.note",
+   "value": "imperfect, 1st person, with a modal sense: 'am I to know'",
+   "severity": "style",
+   "reason": "The form is a plain imperfect, not a cohortative; 'modal' is the exact term."
+  },
+  {
+   "ref": "15:8",
+   "path": "grammar",
+   "value": [
+    "בַּמָּה אֵדַע: the interrogative with ב asks for the means or sign by which knowledge will come; it is not a statement of doubt, and Radak says Abram did not doubt that his sons would inherit.",
+    "כִּי אִירָשֶׁנָּה: the כִּי introduces the content of the knowledge, 'that I shall inherit it'. The suffix -נָּה, with the nun, is an energic form on a feminine object.",
+    "The etnaḥta falls on the first word, וַיֹּאמַר, which takes its pausal form (patah for the segol of וַיֹּאמֶר); it sets the speech apart from the narrative."
+   ],
+   "severity": "error",
+   "reason": "וַיֹּאמַר is the pausal form under the etnaḥta, not a 'lengthened form'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:15:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:1:2",
+   "verdict": "contradicts",
+   "comment": "Ibn Ezra reads אָנֹכִי מָגֵן לָךְ as past, 'I was a shield to you'. The English present stands: the clause is verbless, and Rashi reads it of protection from punishment to come (מן העונש שלא תענש); the normative commentators differ, and Ibn Ezra's reading is recorded."
+  },
+  {
+   "anchor": "rashi:15:2:1",
+   "verdict": "consistent",
+   "comment": "'childless' gives Menahem's 'without an heir'."
+  },
+  {
+   "anchor": "rashi:15:2:2",
+   "verdict": "consistent",
+   "comment": "'steward' is Rashi's אפוטרופוס."
+  },
+  {
+   "anchor": "rashi:15:2:3",
+   "verdict": "consistent",
+   "comment": "'of Damascus' is the Targum's plain sense that Rashi gives first."
+  },
+  {
+   "anchor": "ibn-ezra:15:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:2:2",
+   "verdict": "consistent",
+   "comment": "His conclusion, 'the man of Damascus, Eliezer', agrees with the English."
+  },
+  {
+   "anchor": "rashi:15:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:5:1",
+   "verdict": "consistent",
+   "comment": "The English follows Rashi's plain sense."
+  },
+  {
+   "anchor": "rashi:15:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:15:6:2",
+   "verdict": "consistent",
+   "comment": "The English names God as the subject, as Rashi does."
+  },
+  {
+   "anchor": "ibn-ezra:15:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:7:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:15:7:2",
+   "verdict": "not-applicable",
+   "comment": "The comment bears on 15:8 (Abram asks a sign for the land, not for the son); the English of 15:8 is consistent with it."
+  }
+ ]
+}

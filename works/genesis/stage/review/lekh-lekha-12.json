@@ -1,0 +1,270 @@
+{
+ "unit": "lekh-lekha-12",
+ "model": "opus",
+ "summary": "The English of 16:1-8 is accurate and follows Rashi and Ibn Ezra; no English line needs change. The faults are in the apparatus: several senses were wrong (עצר, טוֹב, ענה Piel, and place-name senses given for עַיִן 'spring' and a conduct sense for הלך), some learner notes on form were false (apocopated וָאֵקַל, 'old ending' בָּאת, furtive patah in בֹּרַחַת), Ibn Ezra on וַיִּמְצָאָהּ was summarized backwards, the Rashi summary at 16:1 named the wrong speaker, and the 16:2-3 apparatus misreported Radak and Ramban.",
+ "patches": [
+  {
+   "ref": "16:1",
+   "path": "commentary:rashi:16:1:1.summary",
+   "value": "Rashi, from Bereshit Rabbah: Hagar was Pharaoh's daughter. When Pharaoh saw the miracles done for Sarah, he said: better that my daughter be a maidservant in this house than a mistress in another. The English keeps the plain 'Egyptian maidservant' and records this identification.",
+   "severity": "error",
+   "reason": "The summary makes Hagar the speaker ('her daughter'); in Rashi it is Pharaoh who says 'my daughter', on seeing the miracles done for Sarah."
+  },
+  {
+   "ref": "16:2",
+   "path": "token:16:2.7.sense",
+   "value": "Qal 1",
+   "severity": "error",
+   "reason": "עֲצָרַנִי 'has restrained me (from bearing)' is Qal 1 'restrain'; Qal 2 is 'retain'."
+  },
+  {
+   "ref": "16:2",
+   "path": "grammar",
+   "value": [
+    "אִבָּנֶה is a Niphal imperfect 1cs of בנה (a III-ה verb): the dagesh in ב is the assimilated נ of the Niphal (from *ʾinbāneh). The sound-play with בֵּן 'son' is the point.",
+    "בֹּא־נָא is a polite imperative: 'come now, please'.",
+    "שָׁמַע לְקוֹל, 'to listen to the voice of', means to obey.",
+    "The zaqef on מִלֶּדֶת and the etnahta on מִמֶּנָּה mark the two halves of her speech."
+   ],
+   "severity": "error",
+   "reason": "The first note ('with the first radical-like doubling') does not explain the form: the doubling of ב is the assimilated Niphal נ."
+  },
+  {
+   "ref": "16:2",
+   "path": "commentary:ibn-ezra:16:2:1.summary",
+   "value": "Ibn Ezra: אִבָּנֶה is from the word בֵּן 'son'; or else the son is called בֵּן because he is like a building (בניין) of which the father is the foundation, בֵּן having lost the ה of בנה. The English 'built up' keeps the building image and the notes give the link with 'son'.",
+   "severity": "style",
+   "reason": "Ibn Ezra gives two explanations (from בֵּן; or בֵּן itself from 'building'); the summary ran them together."
+  },
+  {
+   "ref": "16:2",
+   "path": "apparatus",
+   "value": [
+    "Ramban: Abram did not seek to be built up from Hagar himself; he consented only to do Sarai's will, and took no step without her (not normative).",
+    "Radak: the plan seemed right to Abram, since he thought that, Sarai having ceased to bear, the promised seed would come through Hagar; he did not wait for God's word (not normative)."
+   ],
+   "severity": "error",
+   "reason": "The apparatus gave Radak Ramban's reading. Radak does not say Abram consented for Sarai's sake: he says the plan seemed right to Abram because he expected the promised seed through Hagar."
+  },
+  {
+   "ref": "16:3",
+   "path": "note",
+   "value": "The English ties the ten years to Abram's dwelling in the land of Canaan, as Rashi reads it (years outside the land do not count). Ibn Ezra takes the verse as a support (asmakhta) for the rule of ten years; he says nothing about where they were counted. 'Took' is kept as plain narrative; Rashi's 'took her with words' is recorded.",
+   "severity": "error",
+   "reason": "The note said Ibn Ezra holds that the ten years count only from Abram's settling in Canaan; his comment is only about the ten-year rule."
+  },
+  {
+   "ref": "16:3",
+   "path": "apparatus",
+   "value": [
+    "Ramban accepts that years outside the land do not count, but rejects Rashi's reason (the promise 'I will make you a great nation'): the rule holds for everyone, and a couple who come to the land are given ten years from their arrival, as Abram and Sarai counted (not normative)."
+   ],
+   "severity": "error",
+   "reason": "Ramban does not reject Rashi's reading of 'dwelling in Canaan'; he rejects Rashi's reason for it and reaches the same count."
+  },
+  {
+   "ref": "16:5",
+   "path": "token:16:5.14.note",
+   "value": "wayyiqtol 1cs of the geminate root קלל, 'and I was slight'; the conjunction is וָ with qamets before the prefix א.",
+   "severity": "error",
+   "reason": "The form is not apocopated: apocopation belongs to III-ה verbs, and קלל is geminate."
+  },
+  {
+   "ref": "16:6",
+   "path": "token:16:6.10.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "הַטּוֹב בְּעֵינַיִךְ is 'what pleases you': sense 2 'pleasant, agreeable, pleasing'. Sense 10 'good, right' is moral rightness, which Abram does not mean."
+  },
+  {
+   "ref": "16:6",
+   "path": "token:16:6.12.sense",
+   "value": "Pi 1",
+   "severity": "error",
+   "reason": "A person mistreating another (Sarai and Hagar) is Pi 1 'humble, mishandle, afflict'; Pi 3 is God's afflicting."
+  },
+  {
+   "ref": "16:7",
+   "path": "token:16:7.4.sense",
+   "value": "II.6",
+   "severity": "style",
+   "reason": "'by' (at the spring) is the specific sense II.6 'by, on'."
+  },
+  {
+   "ref": "16:7",
+   "path": "token:16:7.8.sense",
+   "value": "II.6",
+   "severity": "style",
+   "reason": "As at 16:7.4: 'by' is sense II.6."
+  },
+  {
+   "ref": "16:7",
+   "path": "token:16:7.5.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 'b' is 'partridge-spring', a place name (En-hakkore); it does not apply. No listed sense of the entry fits, so the sense is removed."
+  },
+  {
+   "ref": "16:7",
+   "path": "token:16:7.5.note",
+   "value": "construct; a spring, not 'eye'. The entry lists only the place-name senses 'b' and 'd', which do not apply, so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense is removed."
+  },
+  {
+   "ref": "16:7",
+   "path": "token:16:7.9.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Sense 'd' is 'dragon-spring', a place name; it does not apply. The sense is removed."
+  },
+  {
+   "ref": "16:7",
+   "path": "token:16:7.9.note",
+   "value": "with the article: the spring just named. The entry lists only place-name senses ('b', 'd'), so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense is removed."
+  },
+  {
+   "ref": "16:7",
+   "path": "note",
+   "value": "The lexicon entry for עַיִן 'spring' lists only the place-name senses 'b' and 'd', which do not apply, so the two tokens carry no sense. Shur is a place name.",
+   "severity": "error",
+   "reason": "The note said the senses were not apt but the tokens carried them; the senses are now removed."
+  },
+  {
+   "ref": "16:7",
+   "path": "grammar",
+   "value": [
+    "וַיִּמְצָאָהּ carries the 3fs suffix -āh directly on the wayyiqtol; the regular form would be -ehā, as in וַיִּשְׂנָאֶהָ (Deut 22:16), so Ibn Ezra calls it a strange word.",
+    "עַיִן here is 'spring', a different entry from 'eye'.",
+    "The second 'by the spring' defines which spring."
+   ],
+   "severity": "style",
+   "reason": "The first note now says what is unusual about the form."
+  },
+  {
+   "ref": "16:7",
+   "path": "commentary:ibn-ezra:16:7:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Ibn Ezra: a strange form, for the regular form would be like וַיִּשְׂנָאֶהָ (Deut 22:16), with the suffix -ehā rather than -āh. The comment concerns the form only."
+   },
+   "severity": "error",
+   "reason": "The summary said the form is regular 'like' וַיִּשְׂנָאֶהָ; Ibn Ezra says the reverse: it is strange because the rule would give a form like וַיִּשְׂנָאֶהָ. It bears on the form, not the sense."
+  },
+  {
+   "ref": "16:8",
+   "path": "token:16:8.7.note",
+   "value": "Qal perfect 2fs of the hollow root בוא, with quiescent א (bāʾt).",
+   "severity": "error",
+   "reason": "בָּאת is the regular 2fs perfect; it has no 'old ending' (that would be -tî)."
+  },
+  {
+   "ref": "16:8",
+   "path": "token:16:8.9.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Qal II.2 'live, walk' is the walk of one's conduct; Hagar's 'going' is plain motion, and the entry lists no Qal sense 'go'. The sense is removed."
+  },
+  {
+   "ref": "16:8",
+   "path": "token:16:8.9.note",
+   "value": "Qal yiqtol 2fs of הלך, which drops its first radical like a I-י verb; the ending ־ִי marks the feminine. The entry lists no sense for plain 'go' (Qal II.2 is 'live, walk' of conduct), so no sense is given.",
+   "severity": "error",
+   "reason": "Records why the sense is removed and explains the weak form."
+  },
+  {
+   "ref": "16:8",
+   "path": "token:16:8.15.note",
+   "value": "Qal participle fs: the guttural ח gives patah where the usual form has segol (בֹּרֶחֶת). Ibn Ezra explains the patah under ר by the guttural; Radak notes that patah in pause at the end of a verse is unusual.",
+   "severity": "error",
+   "reason": "There is no furtive patah here: the patah vowels replace the segols of the segolate feminine participle because of the guttural."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:16:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:2:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:2:3",
+   "verdict": "consistent",
+   "comment": "Homiletic; the English 'listened to Sarai's voice' does not exclude it."
+  },
+  {
+   "anchor": "ibn-ezra:16:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:16:2:2",
+   "verdict": "consistent",
+   "comment": "'He said so to her' is assent; 'listened to' with the sense 'obeyed' agrees."
+  },
+  {
+   "anchor": "rashi:16:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:3:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:3:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:16:3:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:4:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:16:4:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra parses וַתֵּקַל as Niphal; the pack's Qal is kept with the difference noted, and the sense 'was slight' is the same."
+  },
+  {
+   "anchor": "rashi:16:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:16:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:16:7:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:16:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:16:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:16:8:2",
+   "verdict": "not-applicable"
+  }
+ ]
+}
