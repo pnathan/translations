@@ -1,0 +1,197 @@
+{
+ "unit": "noach-13",
+ "model": "opus",
+ "summary": "A genealogical unit, accurately rendered in the lists of names (10:2-4, 10:6-7) with sound senses and accounts of the normative comments. The main fault is 10:8, where 'He was the first to be' turns הֵחֵל 'began' into a claim of priority that the Hebrew does not make and Radak rejects; the English and its note are set to 'He began'. In 10:5 'coastal peoples' adds a word and the grammar note on word order was false, and in 10:4 a grammar note misplaced the etnaḥta pairing. The WLC vowel variant at 10:3 was missing from the apparatus.",
+ "patches": [
+  {
+   "ref": "10:1",
+   "path": "commentary:ramban:10:1:2.summary",
+   "value": "Ramban: men of those generations begot at about sixty, yet Noah's sons had no children even by a hundred, only after the flood; God restrained their fertility so that they would not beget children who would perish in the flood, or so that He would not have to save many in the ark. He did the same with the whole line (Lamech and Noah were late fathers), as Rashi cites from Bereshit Rabbah.",
+   "severity": "style",
+   "reason": "The summary leaves it unclear who would have perished (the children who would have been born, not Noah's sons) and omits Ramban's second reason (not to need to save many in the ark)."
+  },
+  {
+   "ref": "10:3",
+   "path": "note",
+   "value": "MAM, the base text, reads אַשְׁכְּנַז with shva under the כ; WLC reads אַשְׁכֲּנַז with ḥataf pataḥ, and the pack's morpheme column follows WLC. The sense is the same.",
+   "severity": "style",
+   "reason": "'The printed text' and 'the second name' are vague: the note should name the witnesses (MAM base, WLC variant) as the pack does."
+  },
+  {
+   "ref": "10:3",
+   "path": "apparatus",
+   "value": [
+    "10:3.3 אַשְׁכְּנַז: MAM shva under כ; WLC אַשְׁכֲּנַז, ḥataf pataḥ. No difference in sense."
+   ],
+   "severity": "error",
+   "reason": "The pack lists a vowel variant for 10:3.3 (WLC against the base) and the segment has no apparatus; the project records every witness's variant."
+  },
+  {
+   "ref": "10:4",
+   "path": "grammar",
+   "value": [
+    "Kittim has no ו before it: the etnaḥta on וְתַרְשִׁישׁ divides the four names into two pairs, Elishah and Tarshish, then Kittim and Dodanim, each pair joined by ו inside it.",
+    "Kittim and Dodanim are plural in form (-ים): names of peoples rather than of single men."
+   ],
+   "severity": "error",
+   "reason": "The first note said Kittim 'forms a pair with Tarshish under the etnaḥta'. It does not: the etnaḥta falls on וְתַרְשִׁישׁ and closes the first pair (Elishah, Tarshish); Kittim opens the second pair, which is why it lacks ו."
+  },
+  {
+   "ref": "10:5",
+   "path": "english",
+   "value": "From these the coastlands of the nations were separated in their lands, each according to its language, by their clans, in their nations.",
+   "severity": "style",
+   "reason": "אִיֵּי הַגּוֹיִם is 'the coastlands (islands) of the nations' (lexicon: coast, region). 'Coastal peoples' adds 'peoples' without a mark and explains in the English line, against the decisions; the explanation belongs in the note."
+  },
+  {
+   "ref": "10:5",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "10:5.1",
+      "10:5.2",
+      "10:5.3",
+      "10:5.4"
+     ],
+     "english": "From these the coastlands of the nations were separated",
+     "literal": "'from-these were-divided coasts-of the-nations'; the English puts the subject before the verb"
+    },
+    {
+     "tokens": [
+      "10:5.5"
+     ],
+     "english": "in their lands",
+     "literal": "'in-their-lands'"
+    },
+    {
+     "tokens": [
+      "10:5.6",
+      "10:5.7"
+     ],
+     "english": "each according to its language",
+     "literal": "'man to-his-language'; distributive"
+    },
+    {
+     "tokens": [
+      "10:5.8",
+      "10:5.9"
+     ],
+     "english": "by their clans, in their nations",
+     "literal": "'to-their-clans, in-their-nations'"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English changes the order of verb and subject, so the first two phrases are joined."
+  },
+  {
+   "ref": "10:5",
+   "path": "grammar",
+   "value": [
+    "מֵאֵלֶּה, 'from these', points back to the sons of Japheth just listed; the clause closes the list of Japheth's line.",
+    "נִפְרְדוּ is a Niphal perfect, 3rd plural, of פרד: 'were separated, spread apart'. Hebrew puts the verb before its subject אִיֵּי הַגּוֹיִם; the English puts the subject first.",
+    "אִיֵּי is the construct plural of אִי, 'coast, coastland, island'.",
+    "אִישׁ is distributive: 'each one'.",
+    "The four ב/ל phrases (lands, language, clans, nations) qualify the separation; the etnaḥta on לִלְשֹׁנוֹ divides them two and two."
+   ],
+   "severity": "error",
+   "reason": "The first note said 'The English line reorders the words; the Hebrew has מֵאֵלֶּה first'. The English under review began with 'From these' and kept the Hebrew order, so the note was false. The notes are rewritten for the patched English, and the etnaḥta is noted."
+  },
+  {
+   "ref": "10:5",
+   "path": "note",
+   "value": "The English renders אִיֵּי הַגּוֹיִם literally, 'the coastlands of the nations' (lexicon: coast, region). The peoples who settled them are implied: Ramban takes the sons of Japheth as dwellers in the islands of the sea, each apart in his own land, and Radak takes אִיִּים as districts set apart from one another.",
+   "severity": "style",
+   "reason": "The note described the old English ('coastal peoples'); it now matches the patched English and gives the commentators' basis."
+  },
+  {
+   "ref": "10:8",
+   "path": "english",
+   "value": "Cush fathered Nimrod. He began to be a mighty man on the earth.",
+   "severity": "error",
+   "reason": "הֵחֵל is 'began' (lexicon Hiph 2; Ibn Ezra: החל להראות גבורות, 'began to show'). 'He was the first to be' turns 'began' into a claim that no one was mighty before him, which Radak explicitly rejects (אֵינוֹ אוֹמֵר כִּי לֹא הָיָה גִּבּוֹר לְפָנָיו ... וַהֲלֹא הַנְּפִילִים הָיוּ), and it is not what the Hebrew says."
+  },
+  {
+   "ref": "10:8",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "10:8.1",
+      "10:8.2"
+     ],
+     "english": "Cush fathered",
+     "literal": "'and-Cush begot'"
+    },
+    {
+     "tokens": [
+      "10:8.3",
+      "10:8.4"
+     ],
+     "english": "Nimrod",
+     "literal": "object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "10:8.5",
+      "10:8.6"
+     ],
+     "english": "He began",
+     "literal": "'he began'; the pronoun is emphatic"
+    },
+    {
+     "tokens": [
+      "10:8.7",
+      "10:8.8",
+      "10:8.9"
+     ],
+     "english": "to be a mighty man on the earth",
+     "literal": "'to-be mighty in-the-earth'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the third phrase."
+  },
+  {
+   "ref": "10:8",
+   "path": "note",
+   "value": "The English keeps 'began' for הֵחֵל and leaves open in what his might lay. Ibn Ezra: he began to show human might over the beasts, being a mighty hunter (10:9). Rashi: his might was to make the whole world rebel against God by the counsel of the generation of the Dispersion; this is recorded. Radak warns that the verse does not say no one was mighty before him, since the Nephilim were.",
+   "severity": "error",
+   "reason": "The note defended 'The first to be', which is patched; it also claimed the English follows Ibn Ezra's hunting sense, which the neutral 'mighty man' does not carry by itself."
+  },
+  {
+   "ref": "10:8",
+   "path": "token:10:8.6.note",
+   "value": "Hiphil perfect 3ms of the geminate root חלל: הֵחֵל 'he began'. BDB files 'begin' (Hiph 2) in the same entry as 'profane'.",
+   "severity": "style",
+   "reason": "The note was garbled ('homograph of profane by BDB'); in the pack's lexicon 'begin' is Hiph 2 of the same entry. A learner also needs the geminate form explained."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:10:2:1",
+   "verdict": "consistent",
+   "comment": "The English keeps the name Tiras; Rashi's identification with Persia is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:10:4:1",
+   "verdict": "consistent",
+   "comment": "Kittim is a son's name, a son of Javan, as Ibn Ezra says."
+  },
+  {
+   "anchor": "rashi:10:8:1",
+   "verdict": "consistent",
+   "comment": "Rashi explains what Nimrod's might was; the neutral 'a mighty man' does not contradict him, and his reading is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:10:8:1",
+   "verdict": "not-applicable",
+   "comment": "A general remark about not seeking a meaning for every name."
+  },
+  {
+   "anchor": "ibn-ezra:10:8:2",
+   "verdict": "consistent",
+   "comment": "With the patch the English has 'began', as Ibn Ezra's החל להראות; 'the first to be' overstated it."
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "unit": "noach-10",
+ "model": "opus",
+ "summary": "The unit is close to the Hebrew and its glosses are careful. There is one fault of sense: at 9:11 'never again will all flesh be cut off' gives Radak's 'not all', but the ruling claims to follow Ibn Ezra (normative), who reads 'no flesh'. Ibn Ezra on 9:15 is reversed in both the summary and the grammar note: he says the singular יִהְיֶה does not prove that מַיִם is singular. The closing quotation mark at 9:12 cuts off God's speech, which goes on to 9:16. Smaller faults: two wrong hiphil senses of קוּם, the sense of אַחֲרֵיכֶם, a misvocalized נִרְאֲתָה, and an incomplete summary of Ibn Ezra on 9:9.",
+ "patches": [
+  {
+   "ref": "9:9",
+   "path": "english",
+   "value": "As for me, I am establishing my covenant with you and with your offspring after you,",
+   "severity": "style",
+   "reason": "The sentence runs on into 9:10, which begins 'and with every living creature'; the full stop at the end of 9:9 breaks it."
+  },
+  {
+   "ref": "9:9",
+   "path": "token:9:9.3.sense",
+   "value": "Hiph 6",
+   "severity": "error",
+   "reason": "Hiph 2.b is 'erect, build', of structures. Establishing a covenant belongs under Hiph 6 'cause to stand' (BDB: establish, ratify a covenant, Gn 6:18; 9:9, 11, 17), which is also what the token's own note says."
+  },
+  {
+   "ref": "9:9",
+   "path": "token:9:9.9.sense",
+   "value": "2.b",
+   "severity": "error",
+   "reason": "אַחֲרֵיכֶם is the preposition with a suffix, 'after you' in time: sense 2.b 'after'. Sense 1.b 'afterwards' is the adverb."
+  },
+  {
+   "ref": "9:9",
+   "path": "grammar",
+   "value": [
+    "The independent pronoun וַאֲנִי is emphatic and contrasts God's act with the human task of the preceding verse.",
+    "הִנְנִי מֵקִים: הִנֵּה with a suffix plus a participle presents the act as happening now or about to happen ('I am establishing').",
+    "מֵקִים is a hifil participle of קום; הֵקִים אֶת בְּרִית is the idiom 'to establish a covenant'.",
+    "זֶרַע is a collective singular: 'seed' means all descendants."
+   ],
+   "severity": "style",
+   "reason": "With הִנֵּה the participle marks an act now beginning or about to happen (Rashi: הנני מסכים לעשות). 'Already under way' says more than the form does, and the token note says 'imminent or present'."
+  },
+  {
+   "ref": "9:9",
+   "path": "commentary:ibn-ezra:9:9:1.summary",
+   "value": "Ibn Ezra: in וְאֶת זַרְעֲכֶם, אֶת means 'with' (עם). The third אִתְּכֶם (the second one in 9:10) either refers to those that were with you, or is repeated for added clarity. The covenant God will establish is that no flesh will be cut off.",
+   "severity": "error",
+   "reason": "The summary puts the repetition for clarity in 9:9 and leaves out the first option. Ibn Ezra's 'ואתכם השלישי' is the third אִתְּכֶם, in 9:10, and he gives two readings: 'שהיו אתכם' (those that were with you), or doubled for added clarity."
+  },
+  {
+   "ref": "9:10",
+   "path": "english",
+   "value": "and with every living creature that is with you, among the birds, among the livestock, and among every animal of the earth that is with you, from all that came out of the ark, to every animal of the earth.",
+   "severity": "style",
+   "reason": "יֹצְאֵי הַתֵּבָה names those who had already left the ark (8:18–19). In English 'those coming out' sounds like an exit still going on."
+  },
+  {
+   "ref": "9:10",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "9:10.1",
+      "9:10.2",
+      "9:10.3",
+      "9:10.4",
+      "9:10.5",
+      "9:10.6"
+     ],
+     "english": "and with every living creature that is with you",
+     "literal": "'and-[with] every being-of the-living that with-you'"
+    },
+    {
+     "tokens": [
+      "9:10.7",
+      "9:10.8"
+     ],
+     "english": "among the birds, among the livestock",
+     "literal": "'in-the-bird, in-the-beast': the list in apposition"
+    },
+    {
+     "tokens": [
+      "9:10.9",
+      "9:10.10",
+      "9:10.11",
+      "9:10.12"
+     ],
+     "english": "and among every animal of the earth that is with you",
+     "literal": "'and-in-every living-thing-of the-earth with-you'"
+    },
+    {
+     "tokens": [
+      "9:10.13",
+      "9:10.14",
+      "9:10.15"
+     ],
+     "english": "from all that came out of the ark",
+     "literal": "'from-all goers-out-of the-ark'; Rashi: includes creeping and swarming things"
+    },
+    {
+     "tokens": [
+      "9:10.16",
+      "9:10.17",
+      "9:10.18"
+     ],
+     "english": "to every animal of the earth",
+     "literal": "'to-every living-thing-of the-earth'; Rashi: adds harmful beasts not among those with you"
+    }
+   ],
+   "severity": "style",
+   "reason": "The phrase follows the English change at 9:10.14."
+  },
+  {
+   "ref": "9:10",
+   "path": "token:9:10.14.gloss",
+   "value": "that came out of",
+   "severity": "style",
+   "reason": "The gloss matches the English. The participle is a noun here ('goers-out of'), and in this context it refers to the past."
+  },
+  {
+   "ref": "9:10",
+   "path": "token:9:10.3.gloss",
+   "value": "creature of",
+   "severity": "style",
+   "reason": "נֶפֶשׁ is in the construct state, and 'living' is the gloss of the next token, הַחַיָּה. Giving 'living creature' to נֶפֶשׁ alone counts the adjective twice. The gloss in 9:12.13 and 9:15.9 is 'creature'."
+  },
+  {
+   "ref": "9:10",
+   "path": "token:9:10.17.sense",
+   "value": "1.b",
+   "severity": "question",
+   "reason": "Rashi (normative) takes this last חַיַּת הָאָרֶץ as the harmful beasts (המזיקין), which do not go about with people. That is the 'wild animals' sense 1.b, set against the tame 'animal of the earth with you' of 9:10.10. Proposed: 1.b."
+  },
+  {
+   "ref": "9:11",
+   "path": "english",
+   "value": "I will establish my covenant with you: never again will any flesh be cut off by the waters of the flood, and never again will there be a flood to destroy the earth.",
+   "severity": "error",
+   "reason": "Ibn Ezra (normative) reads לֹא ... כָּל בָּשָׂר as 'no flesh': 'שלא יכרת גוף במימי מבול', and since some might escape a flood, he says the covenant adds that there will be no flood at all. 'Never again will all flesh be cut off' says only that the cutting off will not be total. That is Radak's reading (some flesh may still perish), and the ruling marks his comment 'records'. The English must follow the normative reading the ruling claims to follow."
+  },
+  {
+   "ref": "9:11",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "9:11.1",
+      "9:11.2",
+      "9:11.3",
+      "9:11.4"
+     ],
+     "english": "I will establish my covenant with you",
+     "literal": "'and-I-will-establish [obj] covenant-of-me with-you'"
+    },
+    {
+     "tokens": [
+      "9:11.5",
+      "9:11.6",
+      "9:11.7",
+      "9:11.8",
+      "9:11.9",
+      "9:11.10",
+      "9:11.11"
+     ],
+     "english": "never again will any flesh be cut off by the waters of the flood",
+     "literal": "'and-not will-be-cut-off all flesh again from-waters-of the-flood'"
+    },
+    {
+     "tokens": [
+      "9:11.12",
+      "9:11.13",
+      "9:11.14",
+      "9:11.15"
+     ],
+     "english": "and never again will there be a flood",
+     "literal": "'and-not will-be again flood'"
+    },
+    {
+     "tokens": [
+      "9:11.16",
+      "9:11.17"
+     ],
+     "english": "to destroy the earth",
+     "literal": "'to-destroy the-earth'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase follows the English change."
+  },
+  {
+   "ref": "9:11",
+   "path": "token:9:11.7.gloss",
+   "value": "any",
+   "severity": "error",
+   "reason": "כָּל under the negative: 'no flesh at all', the reading of Ibn Ezra."
+  },
+  {
+   "ref": "9:11",
+   "path": "token:9:11.7.note",
+   "value": "כָּל under a negative means 'none': Ibn Ezra reads 'no body will be cut off'. Radak reads 'not all flesh', as in the flood.",
+   "severity": "error",
+   "reason": "A learner needs to know that the reading of כָּל with לֹא is contested and that it decides the English."
+  },
+  {
+   "ref": "9:11",
+   "path": "token:9:11.1.sense",
+   "value": "Hiph 6",
+   "severity": "error",
+   "reason": "Hiph 2.b is 'erect, build'. הֵקִים בְּרִית belongs under Hiph 6 'cause to stand' (establish a covenant), as at 9:9.3."
+  },
+  {
+   "ref": "9:12",
+   "path": "english",
+   "value": "Then God said: This is the sign of the covenant that I am giving between me and you and between every living creature that is with you, for everlasting generations.",
+   "severity": "error",
+   "reason": "The closing quotation mark ends God's speech at 9:12, but 9:13–16 go on in his voice ('my bow', 'I will remember') with no new speech formula until 9:17. This unit opens the speech at 9:8 with a colon and no quotation marks, and 9:12 now does the same."
+  },
+  {
+   "ref": "9:14",
+   "path": "grammar",
+   "value": [
+    "וְהָיָה ... וְנִרְאֲתָה: two weqatals; 'and it will be (when) ... and it will be seen'.",
+    "בְּעַנְנִי עָנָן pairs a denominative verb with its cognate noun, which Radak takes as strengthening the action.",
+    "The first nun is light (no dagesh), though the piel calls for one, as Ibn Ezra and Radak note.",
+    "The nifal נִרְאֲתָה with the bow as subject means 'appear' or 'be seen'; Radak adds 'to humans'."
+   ],
+   "severity": "error",
+   "reason": "The text has וְנִרְאֲתָה with ḥataf pataḥ under the aleph, not נִרְאָתָה with qamets. The learner notes must give the form as it is written."
+  },
+  {
+   "ref": "9:15",
+   "path": "grammar",
+   "value": [
+    "זָכַר of God is anthropomorphic: Radak says Scripture speaks in human language, since there is no forgetting before the throne of glory.",
+    "The verb יִהְיֶה is singular and its subject הַמַּיִם is plural. Ibn Ezra says the singular verb does not prove that מַיִם is singular, since a singular verb can come before a plural subject, as in וַיְהִי אֲנָשִׁים (Numbers 9:6).",
+    "The clause לֹא יִהְיֶה ... לְמַבּוּל: 'the waters will not become a flood'.",
+    "The etnaḥta on the first בָּשָׂר divides the verse: the covenant and its parties, then the promise. In the first half the revia on בְּרִיתִי and the zaqef on וּבֵינֵיכֶם set off the parties."
+   ],
+   "severity": "error",
+   "reason": "Ibn Ezra's 'איננה ראיה כי המים לשון יחיד' means 'is no proof that מים is a singular word'. The parallel he gives, וַיְהִי אֲנָשִׁים, is a singular verb with a plainly plural noun. The note reverses him. Also, the main divider of the verse is the etnaḥta, which the note on the accents left out."
+  },
+  {
+   "ref": "9:15",
+   "path": "commentary:ibn-ezra:9:15:1.summary",
+   "value": "Ibn Ezra: the singular יִהְיֶה with הַמַּיִם is no proof that מַיִם is a singular noun, for a singular verb may stand before a plural subject, as in וַיְהִי אֲנָשִׁים (Numbers 9:6).",
+   "severity": "error",
+   "reason": "The summary has Ibn Ezra say that מים is singular. He says the opposite: 'איננה ראיה כי המים לשון יחיד', the singular verb does not prove that, and he cites ויהי אנשים, a singular verb with a plural subject."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:9:8:1",
+   "verdict": "consistent",
+   "comment": "The English does not say how the sons heard God, so it leaves room for 'through their father'."
+  },
+  {
+   "anchor": "rashi:9:9:1",
+   "verdict": "consistent",
+   "comment": "Rashi's קיום וחזוק ברית agrees with 'establishing'. His 'I agree' for הִנְנִי is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:9:9:1",
+   "verdict": "consistent",
+   "comment": "'and with your offspring' takes אֶת as 'with'. The summary is corrected."
+  },
+  {
+   "anchor": "rashi:9:10:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:9:10:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:9:10:3",
+   "verdict": "consistent",
+   "comment": "Sense 1.b is proposed for 9:10.17."
+  },
+  {
+   "anchor": "rashi:9:11:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:9:11:1",
+   "verdict": "contradicts",
+   "comment": "'never again will all flesh be cut off' is Radak's 'not all'. Ibn Ezra reads 'no flesh'. The English is patched to 'any flesh'."
+  },
+  {
+   "anchor": "rashi:9:12:1",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:9:12:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:9:13:1",
+   "verdict": "consistent",
+   "comment": "'I have now set' carries Ibn Ezra's נתתי עתה."
+  },
+  {
+   "anchor": "rashi:9:14:1",
+   "verdict": "consistent",
+   "comment": "Rashi says what the clouding means. The literal English does not exclude his reading, and it is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:9:14:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:9:14:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "ibn-ezra:9:15:1",
+   "verdict": "consistent",
+   "comment": "The English 'the waters' keeps the plural. The summary and the grammar note that reversed Ibn Ezra are corrected."
+  }
+ ]
+}

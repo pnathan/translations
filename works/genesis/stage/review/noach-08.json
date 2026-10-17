@@ -1,0 +1,554 @@
+{
+ "unit": "noach-08",
+ "model": "opus",
+ "summary": "The unit is sound in its token analysis, senses and most of its rulings, and the plain narrative of 8:15-8:20 is rendered accurately. Two English choices go against what Rashi and Ibn Ezra agree on. 'Swarm' in 8:17, where both read שׁרץ as breeding (Ibn Ezra יולידו), is patched to 'breed abundantly'. 'By their families' in 8:19, where both read מִשְׁפָּחָה as 'kind' (כמו למינם, בְּמִינָן), is patched to 'by their kinds'. Several learner notes misdescribe the accents (8:16, 8:19, 8:21) or miscount (8:22 'six pairs'). Two summaries misread their comment: Ibn Ezra on 8:20 (the ten clean beasts, 'one of the mountains of Ararat') and Rashi on 8:21 (מנעריו כתיב is about the defective spelling).",
+ "patches": [
+  {
+   "ref": "8:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "8:16.1",
+      "8:16.2",
+      "8:16.3"
+     ],
+     "english": "Go out of the ark",
+     "literal": "'go-out from-the-ark'; the etnaḥta closes the command"
+    },
+    {
+     "tokens": [
+      "8:16.4",
+      "8:16.5"
+     ],
+     "english": "you and your wife",
+     "literal": "'you and-your-wife'; the zaqef gadol on אַתָּה sets 'you' apart, and the tevir on וְאִשְׁתְּךָ divides 'and your wife' from the sons and their wives"
+    },
+    {
+     "tokens": [
+      "8:16.6",
+      "8:16.7",
+      "8:16.8"
+     ],
+     "english": "your sons and your sons' wives",
+     "literal": "'and-your-sons and-wives-of your-sons'"
+    },
+    {
+     "tokens": [
+      "8:16.9"
+     ],
+     "english": "with you",
+     "literal": "'with-you'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The literal note says the zaqef gadol and tevir set the couple off as a unit. They do not: in the silluq half the zaqef gadol on אַתָּה is the main divider, so it separates 'you' from everything after it, and the tevir on וְאִשְׁתְּךָ divides 'and your wife' from 'and your sons and your sons' wives'. The pairing is in the order of the words, not in the accents."
+  },
+  {
+   "ref": "8:16",
+   "path": "grammar",
+   "value": [
+    "צֵא is the imperative of יצא with the first radical dropped; the tipḥa on it and the etnaḥta on הַתֵּבָה divide the command from the list of those who go.",
+    "The list pairs each man with his wife: 'you and your wife', then 'your sons and your sons' wives'. In 6:18 and 7:7 the men and the women are listed in separate groups on entering; here the couples are paired, the point Rashi and Radak draw from the verse. The accents divide the list step by step: the zaqef gadol on אַתָּה sets 'you' apart, the tipḥa on בָנֶיךָ sets off אִתָּךְ, and the tevir on וְאִשְׁתְּךָ divides 'and your wife' from the sons and their wives.",
+    "The construct plural נְשֵׁי־בָנֶיךָ is 'wives of your sons'."
+   ],
+   "severity": "error",
+   "reason": "The second note says 'the accents pair the household'. The disjunctive accents divide it differently (zaqef gadol after אַתָּה, tevir after וְאִשְׁתְּךָ, tipḥa after בָנֶיךָ). The pairing comes from the word order. The note is corrected so that a learner is not taught a false reading of the accents."
+  },
+  {
+   "ref": "8:17",
+   "path": "english",
+   "value": "Bring out with you every living creature that is with you, of all flesh, birds and animals and everything that creeps on the earth, and let them breed abundantly on the earth and be fruitful and multiply on the earth.",
+   "severity": "error",
+   "reason": "Ibn Ezra glosses וְשָׁרְצוּ as יולידו, 'let them bear young'. Rashi's comment on וְשָׁרְצוּ בָאָרֶץ ('on the earth, not in the ark: the animals and birds were forbidden to mate in the ark') reads the verb the same way, as breeding. Radak (שריצה = רבוי התולדה) and Onkelos (ויתילדון) agree. With the two normative commentators agreeing on the plain sense, 'swarm', which speaks of a moving mass and not of offspring, goes against them. 'Breed abundantly' keeps the sense of abundance in שׁרץ and the sense of bearing young. Dropping the comma before 'and be fruitful' also keeps 'let them' over all three verbs, so the line cannot be read as a command to Noah."
+  },
+  {
+   "ref": "8:17",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "8:17.1",
+      "8:17.2",
+      "8:17.3",
+      "8:17.4"
+     ],
+     "english": "every living creature that is with you",
+     "literal": "'all-of the-living-thing which with-you'"
+    },
+    {
+     "tokens": [
+      "8:17.5",
+      "8:17.6"
+     ],
+     "english": "of all flesh",
+     "literal": "'from-all-of flesh', the whole class"
+    },
+    {
+     "tokens": [
+      "8:17.7",
+      "8:17.8",
+      "8:17.9",
+      "8:17.10",
+      "8:17.11",
+      "8:17.12",
+      "8:17.13"
+     ],
+     "english": "birds and animals and everything that creeps on the earth",
+     "literal": "'in-the-bird and-in-the-animal and-in-all-of the-creeping-thing the-creeping on the-earth'"
+    },
+    {
+     "tokens": [
+      "8:17.14",
+      "8:17.15"
+     ],
+     "english": "Bring out with you",
+     "literal": "'bring-out with-you'; the verb stands after its long object in Hebrew and is placed first in English"
+    },
+    {
+     "tokens": [
+      "8:17.16",
+      "8:17.17"
+     ],
+     "english": "and let them breed abundantly on the earth",
+     "literal": "'and-they-swarm in-the-earth'; שׁרץ 'teem', here of teeming offspring: Ibn Ezra glosses יולידו, Radak רִבּוּי הַתּוֹלָדָה, and Rashi's comment presupposes breeding"
+    },
+    {
+     "tokens": [
+      "8:17.18",
+      "8:17.19"
+     ],
+     "english": "and be fruitful and multiply",
+     "literal": "'and-be-fruitful and-multiply'"
+    },
+    {
+     "tokens": [
+      "8:17.20",
+      "8:17.21"
+     ],
+     "english": "on the earth",
+     "literal": "'on the-earth'"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the change to the English: the old phrase 'and let them swarm on the earth' no longer occurs in it."
+  },
+  {
+   "ref": "8:17",
+   "path": "token:8:17.16.gloss",
+   "value": "and let them breed abundantly",
+   "severity": "error",
+   "reason": "Brought into line with the corrected English and with Ibn Ezra's gloss יולידו."
+  },
+  {
+   "ref": "8:17",
+   "path": "token:8:17.16.note",
+   "value": "weqatal after an imperative, rendered as a jussive ('and let them ...'); שׁרץ 'swarm, teem' is used here of animals teeming with young, as Ibn Ezra (יולידו) and Radak explain",
+   "severity": "error",
+   "reason": "The note now gives the sense the English takes, and it says why."
+  },
+  {
+   "ref": "8:17",
+   "path": "note",
+   "value": "The ketiv/qere is kept in the token note. Following Ibn Ezra's grammar (הַיְצֵא like הַשְׁלֵם, a Hiphil), the English uses 'Bring out'. For וְשָׁרְצוּ the English follows Ibn Ezra's gloss יולידו 'let them bear young', which Radak (רבוי התולדה) and Onkelos (ויתילדון) share, and on which Rashi's deduction about the ark rests: 'breed abundantly' keeps both the teeming of שׁרץ and the bearing of young. The literal line keeps 'swarm'.",
+   "severity": "error",
+   "reason": "The old note said the English keeps 'swarm' against Ibn Ezra. The note is brought into line with the corrected English."
+  },
+  {
+   "ref": "8:17",
+   "path": "commentary:ibn-ezra:8:17:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra glosses ושרצו by a single word, יולידו, 'they shall bear young'. The English 'breed abundantly' follows him."
+   },
+   "severity": "error",
+   "reason": "The relation follows the corrected English. 'Records' was wrong: Rashi and Ibn Ezra agree on this plain sense, so it is not an alternative to be kept aside."
+  },
+  {
+   "ref": "8:19",
+   "path": "english",
+   "value": "All the animals, all the creeping things, and all the birds, everything that moves on the earth, went out of the ark by their kinds.",
+   "severity": "error",
+   "reason": "Both normative commentators take מִשְׁפָּחָה here as 'kind, species': Ibn Ezra כמו למינם, and Rashi לִדָּבֵק בְּמִינָן. Radak (לְמִינֵיהֶם) and BDB sense 3 ('species, kind'), which the token cites, agree. The translator's note and the ruling on Ibn Ezra both claim to follow 'by their kinds', but the English says 'families'. In English that suggests parents with their young, which is the reading Ibn Ezra reports only as 'some say'. The English should carry the sense chosen, and the other reading belongs in the note."
+  },
+  {
+   "ref": "8:19",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "8:19.1",
+      "8:19.2",
+      "8:19.3",
+      "8:19.4"
+     ],
+     "english": "All the animals, all the creeping things",
+     "literal": "'all-of the-living-thing all-of the-creeping-thing'; the revia and pashta mark the first two groups"
+    },
+    {
+     "tokens": [
+      "8:19.5",
+      "8:19.6"
+     ],
+     "english": "and all the birds",
+     "literal": "'and-all-of the-bird'"
+    },
+    {
+     "tokens": [
+      "8:19.7",
+      "8:19.8",
+      "8:19.9",
+      "8:19.10"
+     ],
+     "english": "everything that moves on the earth",
+     "literal": "'all-of creeping on the-earth'; a summary phrase after the zaqef"
+    },
+    {
+     "tokens": [
+      "8:19.11"
+     ],
+     "english": "by their kinds",
+     "literal": "'to-their-families'; מִשְׁפָּחָה in the sense 'species, kind', as Ibn Ezra (כמו למינם), Rashi (בְּמִינָן) and Radak (לְמִינֵיהֶם) take it"
+    },
+    {
+     "tokens": [
+      "8:19.12",
+      "8:19.13",
+      "8:19.14"
+     ],
+     "english": "went out of the ark",
+     "literal": "'went-out from the-ark'"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the change to the English: the old phrase 'by their families' no longer occurs in it."
+  },
+  {
+   "ref": "8:19",
+   "path": "token:8:19.11.gloss",
+   "value": "by their kinds",
+   "severity": "error",
+   "reason": "The gloss now matches the sense the token cites (3, 'species, kind') and the corrected English."
+  },
+  {
+   "ref": "8:19",
+   "path": "token:8:19.11.note",
+   "value": "ל + plural construct of מִשְׁפָּחָה + 3rd masculine plural suffix; usually 'clan', here the lexicon's sense 3 'species, kind', as Ibn Ezra (כמו למינם) and Rashi (בְּמִינָן) take it",
+   "severity": "error",
+   "reason": "The old note called 'by their kinds' the plain meaning and set Rashi against Ibn Ezra. On the meaning of the word they agree; they differ only in what they deduce from it."
+  },
+  {
+   "ref": "8:19",
+   "path": "grammar",
+   "value": [
+    "The verb יָצְאוּ stands near the end, after a long compound subject; the etnaḥta on הָאָרֶץ closes the subject, and within it the revia, pashta and zaqef qaton set off its parts. The zaqef qaton on לְמִשְׁפְּחֹתֵיהֶם belongs to the second half of the verse, with the verb.",
+    "כֹּל רוֹמֵשׂ עַל־הָאָרֶץ is an absolute כֹּל with a participle: 'everything creeping on the earth', summing up the groups before it.",
+    "לְמִשְׁפְּחֹתֵיהֶם: the preposition ל means 'by' or 'according to'; משפחה is usually 'clan', here the species."
+   ],
+   "severity": "error",
+   "reason": "The first note counts the zaqef on לְמִשְׁפְּחֹתֵיהֶם among the accents that divide the subject. That word stands after the etnaḥta, in the half of the verse that holds the verb, and it is not part of the subject."
+  },
+  {
+   "ref": "8:19",
+   "path": "note",
+   "value": "For לְמִשְׁפְּחֹתֵיהֶם the English follows the sense on which Ibn Ezra (כמו למינם) and Rashi (לִדָּבֵק בְּמִינָן) agree, with Radak's 'each kind by itself': 'by their kinds'. Rashi adds that the animals left on the condition of keeping to their own kind. Ibn Ezra also records that some say they bred in the ark and that each family went out without mixing with another, which he calls not far-fetched. On that reading the word would mean 'families' in the literal sense.",
+   "severity": "error",
+   "reason": "The old note claimed that 'families' covered these readings while it also followed Ibn Ezra's 'kinds'. The note is brought into line with the corrected English, and Ibn Ezra's second reading is kept as the alternative."
+  },
+  {
+   "ref": "8:20",
+   "path": "token:8:20.9.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "כֹּל is a noun whose entry lists senses, and the same word at 8:20.6 is given sense 1. Under the brief the sense is required here."
+  },
+  {
+   "ref": "8:20",
+   "path": "commentary:ibn-ezra:8:20:1.summary",
+   "value": "Ibn Ezra: the clean beasts are ten (kinds); we do not know the number of the clean birds, since there are more of them than of the unclean; and he built the altar on one of the mountains of Ararat (בְּאַחַד הָרֵי אֲרָרָט). It does not bear on the English.",
+   "severity": "error",
+   "reason": "The old summary leaves out עשר, 'ten', which is the subject of the comment on הבהמה הטהורה. It also misreads בנהו באחד הרי אררט as 'built as a single one on Ararat'. The phrase means 'he built it on one of the mountains of Ararat'."
+  },
+  {
+   "ref": "8:21",
+   "path": "english",
+   "value": "The LORD smelled the soothing aroma, and the LORD said to himself, \"I will never again curse the ground because of the human, for the inclination of the human heart is evil from his youth; and I will never again strike down every living thing as I have done.\"",
+   "severity": "style",
+   "reason": "מִנְּעֻרָיו has a 3rd masculine singular suffix, which the literal line and the grammar note give as 'from his youth'. The English 'from youth' drops it. The sense is the same, but 'from his youth' carries the Hebrew more exactly."
+  },
+  {
+   "ref": "8:21",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "8:21.1",
+      "8:21.2",
+      "8:21.3",
+      "8:21.4",
+      "8:21.5"
+     ],
+     "english": "The LORD smelled the soothing aroma",
+     "literal": "'and-smelled the-LORD (object) scent-of the-soothing'; the segolta on הַנִּיחֹחַ ends the first clause"
+    },
+    {
+     "tokens": [
+      "8:21.6",
+      "8:21.7",
+      "8:21.8",
+      "8:21.9"
+     ],
+     "english": "and the LORD said to himself",
+     "literal": "'and-said the-LORD to his-heart'"
+    },
+    {
+     "tokens": [
+      "8:21.10",
+      "8:21.11",
+      "8:21.12",
+      "8:21.13"
+     ],
+     "english": "I will never again curse",
+     "literal": "'not I-will-add to-curse again'"
+    },
+    {
+     "tokens": [
+      "8:21.14",
+      "8:21.15"
+     ],
+     "english": "the ground",
+     "literal": "'(object) the-ground'"
+    },
+    {
+     "tokens": [
+      "8:21.16",
+      "8:21.17"
+     ],
+     "english": "because of the human",
+     "literal": "'on-account-of the-human'"
+    },
+    {
+     "tokens": [
+      "8:21.18",
+      "8:21.19",
+      "8:21.20",
+      "8:21.21",
+      "8:21.22",
+      "8:21.23"
+     ],
+     "english": "for the inclination of the human heart is evil from his youth",
+     "literal": "'for formation-of heart-of the-human evil from-his-youth'; the etnaḥta closes the reason"
+    },
+    {
+     "tokens": [
+      "8:21.24",
+      "8:21.25",
+      "8:21.26"
+     ],
+     "english": "and I will never again",
+     "literal": "'and-not I-will-add again'"
+    },
+    {
+     "tokens": [
+      "8:21.27",
+      "8:21.28",
+      "8:21.29",
+      "8:21.30"
+     ],
+     "english": "strike down every living thing",
+     "literal": "'to-strike (object) all-of living'"
+    },
+    {
+     "tokens": [
+      "8:21.31",
+      "8:21.32"
+     ],
+     "english": "as I have done",
+     "literal": "'as-which I-did'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English now reads 'from his youth', so the sixth phrase is changed with it. The first phrase's literal note said the zinor (zarqa) on יְהֹוָה ends the first clause, but that word stands inside the clause. The segolta on הַנִּיחֹחַ ends it."
+  },
+  {
+   "ref": "8:21",
+   "path": "grammar",
+   "value": [
+    "The verse has two clauses of narration (וַיָּרַח, וַיֹּאמֶר) and then God's speech: two parallel vows, each opening לֹא־אֹסִף ... עוֹד, with a reason (כִּי ...) set between them.",
+    "אֹסִף is a Hiphil imperfect of יסף; with an infinitive it means 'I will do again', so לֹא אֹסִף לְקַלֵּל is 'I will not again curse'.",
+    "The segolta on הַנִּיחֹחַ (printed twice in this edition) closes the first clause, with the zarqa (zinor) on יְהֹוָה as a lesser divider within it. The etnaḥta on מִנְּעֻרָיו divides the verse: the first vow and its reason stand before it, and the second vow after it. The telisha gedola on אֹסִף and on כִּי is a minor disjunctive.",
+    "יֵצֶר לֵב הָאָדָם is a construct chain: 'the formation of the human heart'; the adjective רַע is the predicate, and מִנְּעֻרָיו 'from his youth' modifies it.",
+    "The repeated אֹסִף עוֹד in two clauses is what Rashi takes as an oath."
+   ],
+   "severity": "error",
+   "reason": "The third note is wrong on the accents. The zinor does not mark the clause, since the segolta closes it. The telisha gedola is a low-ranking disjunctive and does not 'begin the speech and its reason'. The note also leaves out the etnaḥta, the main division of the verse."
+  },
+  {
+   "ref": "8:21",
+   "path": "token:8:21.23.note",
+   "value": "plural construct of נְעוּרִים with a 3rd masculine singular suffix. It is written defectively, without the vav of נְעוּרִים (Rashi: מנעריו כְּתִיב), and Rashi reads the spelling as from נִנְעַר, 'shaken out': from the time the child is shaken out of the womb.",
+   "severity": "error",
+   "reason": "Rashi's derivation rests on the spelling (כְּתִיב), the defective מנעריו, and not on the sound of the form, as the old note said."
+  },
+  {
+   "ref": "8:21",
+   "path": "commentary:rashi:8:21:1.summary",
+   "value": "Rashi: it is written מנעריו, without the vav, which he reads as from נִנְעַר: from the time he is shaken out (נִנְעַר) to leave his mother's womb, the evil inclination is placed in him. The English keeps the plain sense 'from his youth' and records his reading.",
+   "severity": "error",
+   "reason": "Rashi's מנעריו כתיב points to the defective spelling, which allows the link to נער 'shake out'. The old summary glosses it as 'plural, from his youths', which Rashi does not say and which is not the point of his comment."
+  },
+  {
+   "ref": "8:21",
+   "path": "note",
+   "value": "The notes follow Ibn Ezra on the grammar: וַיָּרַח is a figure of speech (the offering was accepted, as one smells a pleasing scent); אֶל־לִבּוֹ means 'with/to his heart', that is 'to himself'; לְקַלֵּל is a curse on the ground that came through man (cf. 3:17); יֵצֶר is what was formed in the human. For מִנְּעֻרָיו Rashi reads the defective spelling (מנעריו כְּתִיב) as from נִנְעַר 'shaken out' (from birth) and Ramban records both 'from the beginning of youth' and 'because of youth'; the English keeps the plain 'from his youth'. The quoted speech is set in double quotation marks in the English only.",
+   "severity": "error",
+   "reason": "The note is brought into line with the English ('from his youth') and with what Rashi says: his derivation rests on the spelling."
+  },
+  {
+   "ref": "8:22",
+   "path": "token:8:22.14.note",
+   "value": "imperfect 3rd masculine plural, with a plural subject of eight nouns in four pairs",
+   "severity": "error",
+   "reason": "The verse has four pairs of nouns (eight nouns), not six pairs."
+  },
+  {
+   "ref": "8:22",
+   "path": "grammar",
+   "value": [
+    "עֹד כָּל־יְמֵי הָאָרֶץ is a time clause, 'all the days of the earth still', with the etnaḥta marking its end; the plural verb יִשְׁבֹּתוּ at the end governs all the pairs.",
+    "The eight nouns stand in four pairs of opposites: sowing and harvest, cold and heat, summer and winter, then day and night. Every noun after the first takes vav; in the second member of three pairs it is pointed וָ (וָחֹם, וָחֹרֶף, וָלַיְלָה), which binds the pair closely.",
+    "יִשְׁבֹּתוּ is the Qal of שׁבת 'to cease'; the same root gives the Sabbath, 'the ceasing'.",
+    "The unusual accents (pazer, telisha gedola, qadma) give the list a slow, rhythmical delivery."
+   ],
+   "severity": "error",
+   "reason": "The note says 'three pairs' and then lists four. The vav note is made exact as well, since the vav also joins one pair to the next."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:8:16:1",
+   "verdict": "consistent",
+   "comment": "The English pairs husband and wife as the Hebrew does; Rashi's halakhic inference rightly stays out of the line."
+  },
+  {
+   "anchor": "rashi:8:17:1",
+   "verdict": "consistent",
+   "comment": "'Bring out' fits both the qere ('tell them to go out') and the ketiv ('bring them out'), and both are recorded."
+  },
+  {
+   "anchor": "rashi:8:17:2",
+   "verdict": "consistent",
+   "comment": "Rashi's comment presupposes that the verb means breeding, and the corrected English 'breed abundantly' carries that sense."
+  },
+  {
+   "anchor": "ibn-ezra:8:17:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:17:2",
+   "verdict": "contradicts",
+   "comment": "'Swarm' against יולידו; patched to 'breed abundantly'."
+  },
+  {
+   "anchor": "rashi:8:19:1",
+   "verdict": "contradicts",
+   "comment": "Rashi reads the word as מין, 'kind'; 'families' is patched to 'kinds'."
+  },
+  {
+   "anchor": "ibn-ezra:8:19:1",
+   "verdict": "contradicts",
+   "comment": "Ibn Ezra's primary gloss is כמו למינם; 'families' is patched to 'kinds', and his 'some say' reading is kept in the note."
+  },
+  {
+   "anchor": "rashi:8:20:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:20:1",
+   "verdict": "not-applicable",
+   "comment": "The ruling's summary is corrected."
+  },
+  {
+   "anchor": "rashi:8:21:1",
+   "verdict": "consistent",
+   "comment": "With 'from his youth'. The summary is corrected."
+  },
+  {
+   "anchor": "rashi:8:21:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:21:1",
+   "verdict": "consistent",
+   "comment": "The English keeps the text's figure 'smelled', and the notes give Ibn Ezra's sense, 'accepted'."
+  },
+  {
+   "anchor": "ibn-ezra:8:21:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:21:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:21:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:21:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:21:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:21:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:22:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:22:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:22:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:22:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:22:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:22:6",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:22:7",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:8:22:8",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:22:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:22:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:8:22:3",
+   "verdict": "consistent"
+  }
+ ]
+}
