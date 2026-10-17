@@ -1,333 +1,364 @@
 {
   "unit": "lekh-lekha-09",
-  "model": "haiku",
+  "model": "sonnet",
   "segments": [
     {
       "ref": "15:1",
-      "english": "After these things the word of the LORD came to Abram in a vision, saying: Do not fear, Abram. I am your shield. Your reward is very great.",
-      "literal": "after the-things these came word-of the-LORD to Abram in-the-vision saying: not fear Abram; I (am) shield to-you; your-reward great very.",
+      "english": "After these events the word of the LORD came to Abram in a vision, saying: Do not be afraid, Abram. I am a shield for you; your reward is very great.",
+      "literal": "after the-things the-these came word-of LORD to Abram in-the-vision to-say not you-fear Abram I shield to-you your-reward making-great exceedingly",
       "tokens": [
-        {"id": "15:1.1", "gloss": "after", "sense": "2.b"},
-        {"id": "15:1.2", "gloss": "the things", "sense": "IV"},
-        {"id": "15:1.3", "gloss": "these"},
-        {"id": "15:1.4", "gloss": "came", "sense": "Qal I.1.b", "note": "Qatal of הָיָה with דְּבַר (the word) as subject: the word came to Abram. The verse opens with a temporal phrase and no conjunction."},
-        {"id": "15:1.5", "gloss": "word of", "sense": "I", "note": "Construct state: 'the word of the LORD'."},
+        {"id": "15:1.1", "gloss": "after", "sense": "2.b", "note": "Rashi (after Bereshit Rabbah): אחר marks closeness in time, אחרי a remote interval"},
+        {"id": "15:1.2", "gloss": "the events", "sense": "IV", "note": "דְּבָרִים is 'matters, events' here, not 'words'"},
+        {"id": "15:1.3", "gloss": "these", "sense": "b"},
+        {"id": "15:1.4", "gloss": "came", "sense": "Qal I.1.b", "note": "'the word of the LORD came to' is the formula for a prophetic communication"},
+        {"id": "15:1.5", "gloss": "the word of", "sense": "I", "note": "construct state before the divine name"},
         {"id": "15:1.6", "gloss": "the LORD"},
-        {"id": "15:1.7", "gloss": "to"},
+        {"id": "15:1.7", "gloss": "to", "sense": "1"},
         {"id": "15:1.8", "gloss": "Abram"},
-        {"id": "15:1.9", "gloss": "in a vision", "note": "ב with the article: 'in the vision'. The English drops the article; the prophetic sense is Ibn Ezra's 'visions of prophecy'."},
-        {"id": "15:1.10", "gloss": "saying", "sense": "Qal 1", "note": "Infinitive construct with ל: the formula that introduces direct speech."},
-        {"id": "15:1.11", "gloss": "not"},
-        {"id": "15:1.12", "gloss": "fear", "sense": "Qal 1", "note": "Jussive after אַל: a prohibition, 'do not fear'."},
+        {"id": "15:1.9", "gloss": "in a vision", "note": "מַחֲזֶה, from חזה 'see': a prophetic vision (Ibn Ezra: במראות הנבואה)"},
+        {"id": "15:1.10", "gloss": "saying", "sense": "Qal 1", "note": "לֵאמֹר, infinitive construct with ל: introduces direct speech"},
+        {"id": "15:1.11", "gloss": "do not"},
+        {"id": "15:1.12", "gloss": "be afraid", "sense": "Qal 1", "note": "אַל with the jussive form is the usual prohibition"},
         {"id": "15:1.13", "gloss": "Abram"},
         {"id": "15:1.14", "gloss": "I"},
-        {"id": "15:1.15", "gloss": "shield"},
-        {"id": "15:1.16", "gloss": "to you", "note": "The parse gives the suffix ךְ as feminine. The addressee is Abram, so the sense is masculine; the vowel of ךְ is the one MAM prints here."},
-        {"id": "15:1.17", "gloss": "your reward", "sense": "2"},
-        {"id": "15:1.18", "gloss": "great", "sense": "Hiph 2", "note": "Infinitive absolute in predicate position: 'your reward is great'."},
+        {"id": "15:1.15", "gloss": "a shield", "note": "no verb: a verbless clause, so present time by default"},
+        {"id": "15:1.16", "gloss": "for you", "note": "the pack parses the suffix as feminine; the form לָךְ is pausal, the suffix is the masculine ךְ with a pausal vowel on a masculine addressee (Abram)"},
+        {"id": "15:1.17", "gloss": "your reward", "sense": "2", "note": "construct form שְׂכָר- with suffix"},
+        {"id": "15:1.18", "gloss": "is great", "sense": "Hiph 1", "note": "infinitive absolute of the hifil functioning as a predicate: 'is made abundant'"},
         {"id": "15:1.19", "gloss": "very", "sense": "2"}
       ],
       "phrases": [
-        {"tokens": ["15:1.1", "15:1.2", "15:1.3"], "english": "After these things", "literal": "after the-things these"},
-        {"tokens": ["15:1.4", "15:1.5", "15:1.6", "15:1.7", "15:1.8"], "english": "the word of the LORD came to Abram", "literal": "came word-of the-LORD to Abram"},
-        {"tokens": ["15:1.9", "15:1.10"], "english": "in a vision, saying", "literal": "in-the-vision saying"},
-        {"tokens": ["15:1.11", "15:1.12", "15:1.13"], "english": "Do not fear, Abram", "literal": "not fear Abram"},
-        {"tokens": ["15:1.14", "15:1.15", "15:1.16"], "english": "I am your shield", "literal": "I shield to-you"},
-        {"tokens": ["15:1.17", "15:1.18", "15:1.19"], "english": "Your reward is very great", "literal": "your-reward great very"}
+        {"tokens": ["15:1.1", "15:1.2", "15:1.3"], "english": "After these events", "literal": "'after the-things the-these'; Rashi reads אחר as 'directly after'"},
+        {"tokens": ["15:1.4", "15:1.5", "15:1.6", "15:1.7", "15:1.8"], "english": "the word of the LORD came to Abram", "literal": "'came word-of LORD to Abram'; English moves the subject before the verb"},
+        {"tokens": ["15:1.9"], "english": "in a vision", "literal": "'in-the-vision'; the article is rendered by the indefinite in English"},
+        {"tokens": ["15:1.10"], "english": "saying", "literal": "'to-say'"},
+        {"tokens": ["15:1.11", "15:1.12", "15:1.13"], "english": "Do not be afraid, Abram", "literal": "'not you-fear Abram'"},
+        {"tokens": ["15:1.14", "15:1.15", "15:1.16"], "english": "I am a shield for you", "literal": "'I shield to-you'; verbless clause"},
+        {"tokens": ["15:1.17", "15:1.18", "15:1.19"], "english": "your reward is very great", "literal": "'your-reward making-great exceedingly'; infinitive absolute as predicate"}
       ],
       "grammar": [
-        "הָיָה דְבַר־יְהוָה אֶל־אַבְרָם: the qatal הָיָה has the word of the LORD as its subject, so the speech arrives as an event ('the word came').",
-        "לֵאמֹר introduces the speech: an infinitive construct with לְ, the usual formula, rendered 'saying:'.",
-        "אַל תִּירָא: negative אַל with a second-person jussive is a prohibition, 'do not fear'.",
-        "The etnaḥta on לֵאמֹ֑ר divides the verse between the narration (the word came) and the speech (Do not fear ...).",
-        "שְׂכָרְךָ הַרְבֵּה מְאֹד: the infinitive absolute הַרְבֵּה in predicate position, with the adverb מְאֹד, gives 'your reward is very great'."
+        "הָיָה דְבַר־יְהֹוָה אֶל־: the standard formula for the arrival of a prophetic word. Here it is joined to בַּמַּחֲזֶה, a rare word for the medium of the revelation.",
+        "The two sentences אָנֹכִי מָגֵן לָךְ and שְׂכָרְךָ הַרְבֵּה מְאֹד are verbless. The English present tense is a choice: Ibn Ezra takes the first as a past 'I was a shield' (see commentary), but the Hebrew has no tense.",
+        "הַרְבֵּה is the hifil infinitive absolute of רבה used as a predicate adjective ('abundant'); it can also be read adverbially or as a noun clause, 'your reward: to make very many'.",
+        "The zaqef qaton on לָךְ and the pashta on אָנֹכִי divide the speech: prohibition, then the two grounds for it."
       ],
-      "note": "'After these things' keeps the time general; Rashi takes it as 'right after' the defeat of the kings (see commentary). 'In a vision' follows Ibn Ezra. 'I am your shield' is read as protection from the kings (Ibn Ezra, Sforno, Radak), not from punishment for the killings (Rashi, declined). The Hebrew is present tense; the past tense of Ibn Ezra is recorded in the apparatus. 'Your reward is very great' keeps מְאֹד as the Hebrew does; Radak and Sforno read the reward as great in this world and very great in the world to come, which the English leaves open.",
+      "note": "The speech is placed in a vision (בַּמַּחֲזֶה), which Ibn Ezra glosses as 'the visions of prophecy' and Radak says shows Abram an action, not only words. The present tense of 'I am a shield' leaves open Ibn Ezra's past reading; the Hebrew has no verb.",
       "commentary": [
-        {"anchor": "rashi:15:1:1", "relation": "declines", "summary": "Rashi takes אַחַר as 'right after' the rescue from the kings, when Abram feared he had been paid for his merits, and reads 'shield' as protection from punishment for the men he killed (מִן הָעֹנֶשׁ). The English keeps the time general and reads the shield as protection from the kings."},
-        {"anchor": "ibn-ezra:15:1:1", "relation": "follows", "summary": "Ibn Ezra glosses בַּמַּחֲזֶה as 'in visions of prophecy' (במראות הנבואה). The English 'in a vision' follows him."},
-        {"anchor": "ibn-ezra:15:1:2", "relation": "follows", "summary": "Ibn Ezra reads 'I am your shield' as 'I was your shield and saved you from the kings', and the reward as owed for Abram's willingness to save his kinsman with few men. The English follows the shield against the kings; the tense is kept as the Hebrew has it, and the past is recorded in the apparatus."}
+        {"anchor": "rashi:15:1:1", "relation": "follows", "summary": "Rashi: אחר means close in time (אחרי a remote interval). The reference is to the victory over the kings: Abram feared he had used up his reward or would be punished for the lives he took, so God says 'I am a shield' against punishment and 'your reward is great'."},
+        {"anchor": "ibn-ezra:15:1:1", "relation": "follows", "summary": "Ibn Ezra: בַּמַּחֲזֶה means in the sights (visions) of prophecy, so the English 'in a vision'."},
+        {"anchor": "ibn-ezra:15:1:2", "relation": "records", "summary": "Ibn Ezra reads אָנֹכִי מָגֵן לָךְ as past, 'I was a shield to you and saved you from the kings, and I will also give you a reward because you went out to rescue your nephew with a few men and relied on me'. The English keeps the Hebrew's tenseless clause."},
+        {"anchor": "ramban:15:1:2", "relation": "records", "summary": "Ramban: Abram feared two things, that the kings would return with larger forces, or that he would die without offspring; God's promise of a shield answers the first and the reward the second."},
+        {"anchor": "radak:15:1:4", "relation": "records", "summary": "Radak: שכרך הרבה מאד, 'great in this world and very great in the world to come'. The English does not split הרבה and מאד between two worlds."}
       ],
       "apparatus": [
-        "15:1.14-16: Ibn Ezra reads 'I was your shield' (past); the English keeps the present of MAM."
+        "The pack parses לָךְ as having a feminine suffix; the pausal ָךְ is the pausal form of the masculine suffix, since Abram is addressed. The data is kept.",
+        "Onkelos has 'my Memra will be a strong shield for you' (מֵימְרִי תְּקוֹף לָךְ), a paraphrase of the shield image; it does not change the Hebrew sense."
       ]
     },
     {
       "ref": "15:2",
-      "english": "Abram said: Lord, the LORD, what will you give me? I go childless, and the steward of my house is Eliezer of Damascus.",
-      "literal": "and-said Abram; Lord the-LORD; what you-will-give to-me; and-I going childless; and-son possession-of my-house; he Damascus Eliezer.",
+      "english": "Abram said, My Lord, the LORD, what will you give me, when I go on childless, and the steward of my house is this Eliezer of Damascus?",
+      "literal": "and-said Abram my-lord LORD what you-will-give to-me and-I going childless and-son-of Meshek my-house he Damascus Eliezer",
       "tokens": [
-        {"id": "15:2.1", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "15:2.1", "gloss": "and said", "sense": "Qal 1", "note": "wayyiqtol, narrative past"},
         {"id": "15:2.2", "gloss": "Abram"},
-        {"id": "15:2.3", "gloss": "Lord", "note": "Vocative of אֲדֹנָי, joined to the divine name; the English keeps both terms: 'Lord, the LORD'."},
-        {"id": "15:2.4", "gloss": "the LORD"},
-        {"id": "15:2.5", "gloss": "what"},
-        {"id": "15:2.6", "gloss": "you will give", "sense": "Qal 1", "note": "Yiqtol, second person: a question in the speaker's voice, addressed to the LORD."},
-        {"id": "15:2.7", "gloss": "to me"},
-        {"id": "15:2.8", "gloss": "and I"},
-        {"id": "15:2.9", "gloss": "going", "sense": "Qal II.2", "note": "BDB gives 'walk, live' (Qal II.2) and 'die' (Qal II.1). Ramban reads 'die'; the plain sense is 'go'."},
-        {"id": "15:2.10", "gloss": "childless"},
-        {"id": "15:2.11", "gloss": "and son", "sense": "1", "note": "Literally 'son'. The English 'steward' is an interpretive rendering (see note)."},
-        {"id": "15:2.12", "gloss": "possession of", "note": "Construct of מֶשֶׁק, 'acquisition, possession'."},
-        {"id": "15:2.13", "gloss": "my house", "sense": "5", "note": "Household, as the sense of בַּיִת used with 'possession'."},
-        {"id": "15:2.14", "gloss": "he"},
-        {"id": "15:2.15", "gloss": "Damascus"},
-        {"id": "15:2.16", "gloss": "Eliezer"}
+        {"id": "15:2.3", "gloss": "my Lord", "note": "אֲדֹנָי: plural of majesty with first-person suffix, used only of God"},
+        {"id": "15:2.4", "gloss": "the LORD", "note": "written יהוה with the vowels of אֱלֹהִים (יֱהֹוִה) so that אֲדֹנָי is read before it"},
+        {"id": "15:2.5", "gloss": "what", "sense": "1"},
+        {"id": "15:2.6", "gloss": "will you give", "sense": "Qal 1"},
+        {"id": "15:2.7", "gloss": "me"},
+        {"id": "15:2.8", "gloss": "and I", "note": "circumstantial waw: 'when I ...'"},
+        {"id": "15:2.9", "gloss": "go on", "sense": "Qal II.2", "note": "participle of הלך: 'am walking'; Ramban records the sense 'am passing away', and the pack lists Qal II.1 for that"},
+        {"id": "15:2.10", "gloss": "childless", "note": "עֲרִירִי: Rashi, citing Menahem, 'without an heir'; Ibn Ezra, like the Targum, 'without a child'"},
+        {"id": "15:2.11", "gloss": "and the son of", "sense": "1", "note": "construct state, בֶּן־מֶשֶׁק: 'son of Meshek'"},
+        {"id": "15:2.12", "gloss": "Meshek", "note": "hapax: root שׁקק per Ibn Ezra and Radak; Rashi and the Targum 'one who manages, steward'"},
+        {"id": "15:2.13", "gloss": "my household", "sense": "5"},
+        {"id": "15:2.14", "gloss": "he", "sense": "1", "note": "resumptive pronoun: 'he is ...'"},
+        {"id": "15:2.15", "gloss": "Damascus", "note": "דַּמֶּשֶׂק with the sequence; Rashi: the Targum takes it 'from Damascus'; Radak: a yod of relation (דַּמַּשְׂקִי) is missing"},
+        {"id": "15:2.16", "gloss": "Eliezer", "note": "name meaning 'God is help'"}
       ],
       "phrases": [
-        {"tokens": ["15:2.1", "15:2.2"], "english": "Abram said", "literal": "and-said Abram"},
-        {"tokens": ["15:2.3", "15:2.4"], "english": "Lord, the LORD", "literal": "Lord the-LORD"},
-        {"tokens": ["15:2.5", "15:2.6", "15:2.7"], "english": "what will you give me", "literal": "what you-will-give to-me"},
-        {"tokens": ["15:2.8", "15:2.9", "15:2.10"], "english": "I go childless", "literal": "and-I going childless"},
-        {"tokens": ["15:2.11", "15:2.12", "15:2.13"], "english": "and the steward of my house", "literal": "and-son possession-of my-house"},
-        {"tokens": ["15:2.14", "15:2.15", "15:2.16"], "english": "is Eliezer of Damascus", "literal": "he Damascus Eliezer"}
+        {"tokens": ["15:2.1", "15:2.2"], "english": "Abram said", "literal": "'and-said Abram'"},
+        {"tokens": ["15:2.3", "15:2.4"], "english": "My Lord, the LORD", "literal": "'my-lords LORD'; the decisions file gives 'the LORD' for the name"},
+        {"tokens": ["15:2.5", "15:2.6", "15:2.7"], "english": "what will you give me", "literal": "'what you-will-give to-me'"},
+        {"tokens": ["15:2.8", "15:2.9", "15:2.10"], "english": "when I go on childless", "literal": "'and-I going childless'; circumstantial waw, 'seeing that'"},
+        {"tokens": ["15:2.11", "15:2.12", "15:2.13"], "english": "and the steward of my house", "literal": "'and-son-of Meshek my-house'; Rashi after the Targum: one on whose word the whole house is fed, my steward"},
+        {"tokens": ["15:2.14"], "english": "is this", "literal": "'he'; resumptive demonstrative"},
+        {"tokens": ["15:2.15", "15:2.16"], "english": "Eliezer of Damascus", "literal": "'Damascus Eliezer'; the Targum 'the Damascene Eliezer'"}
       ],
       "grammar": [
-        "וַיֹּאמֶר begins the speech: a wayyiqtol that carries the narrative forward. Abram's words follow, with no quotation marks in the English; the colon marks the speech.",
-        "אֲדֹנָי יֱהֹוִה is a vocative: 'Lord, the LORD'. The divine name is pointed with the Masoretic vowels of the name, and the English marks it in capitals.",
-        "מַה־תִּתֶּן־לִי: an interrogative with a second-person yiqtol, 'what will you give me?', in which Abram addresses the LORD.",
-        "וְאָנֹכִי הוֹלֵךְ עֲרִירִי is a circumstantial clause: the independent pronoun and the participle, 'and I go childless'. The etnaḥta on עֲרִירִי divides the question from the statement about the steward.",
-        "וּבֶן מֶשֶׁק בֵּיתִי הוּא דַּמֶּשֶׂק אֱלִיעֶזֶר is a nominal clause; הוּא is the copula, 'is'."
+        "וְאָנֹכִי הוֹלֵךְ עֲרִירִי: a circumstantial clause with a participle ('while I am going about without ...'). The sense of הוֹלֵךְ ('go on living' or 'go to my death') is open, see the note.",
+        "בֶּן־מֶשֶׁק בֵּיתִי הוּא דַּמֶּשֶׂק אֱלִיעֶזֶר: a difficult verse. מֶשֶׁק is a hapax, understood by Rashi and the Targum as 'one who manages (my house)', by Ibn Ezra as from שׁקק 'run about'. The English follows the sense 'steward' which both give.",
+        "אֲדֹנָי יֱהֹוִה: the Masoretic pointing יֱהֹוִה tells the reader to say Elohim, not Adonai, after אֲדֹנָי. Radak says the title precedes the name because the name is the essence.",
+        "The etnaḥta on עֲרִירִי divides the verse between Abram's complaint and its explanation."
       ],
-      "note": "בֶן מֶשֶׁק בֵּיתִי is literally 'son of the possession of my house'. The English 'steward' follows Rashi (אַפּוֹטְרוֹפּוֹס) and Ibn Ezra, who reads meshek as from a root for busy movement within the house; both make Eliezer the one who runs the household. 'Of Damascus' follows Rashi's reading of the Targum (from Damascus). The literal line keeps 'son'. Radak's sense that this man would inherit if Abram had no son is carried into the English of 15:3, where the same figure appears.",
+      "note": "דַּמֶּשֶׂק אֱלִיעֶזֶר is rendered 'Eliezer of Damascus' with the Targum and Radak (who supplies the missing relational yod). Another reading in Radak is that the man's own name was Damascus. For הוֹלֵךְ the English keeps the neutral 'go on'.",
       "commentary": [
-        {"anchor": "rashi:15:2:1", "relation": "follows", "summary": "Rashi glosses עֲרִירִי as 'without an heir, childless' (בְלֹא יוֹרֵשׁ, חֲסַר בָּנִים) and links the word to a root for emptying out. The English 'childless' follows him."},
-        {"anchor": "rashi:15:2:2", "relation": "follows", "summary": "Rashi reads בֶּן מֶשֶׁק בֵּיתִי as the Targum does: the whole household is fed by his word, a steward (אַפּוֹטְרוֹפּוֹס) of mine, and if I had a son, my son would be set over my property. The English 'steward of my house' follows him."},
-        {"anchor": "rashi:15:2:3", "relation": "follows", "summary": "Rashi says that by the Targum Eliezer was from Damascus, and that by the Midrash Abram pursued the kings as far as Damascus. The English 'of Damascus' takes the place-sense that both readings share."},
-        {"anchor": "ibn-ezra:15:2:1", "relation": "follows", "summary": "Ibn Ezra explains the form of עֲרִירִי by comparison with Lev 20:21 (ערירים יהיו), and gives it the sense the Targum gives: childless. The English follows him."},
-        {"anchor": "ibn-ezra:15:2:2", "relation": "records", "summary": "Ibn Ezra derives משק from a root for busy movement (שוקק בו), which agrees with the steward sense of Rashi, but he reads בֶן מֶשֶׁק בֵּיתִי as 'the son of Damascus, Eliezer'. The English does not adopt the Damascene reading of 'son'."}
+        {"anchor": "rashi:15:2:1", "relation": "follows", "summary": "Rashi gives Menahem's view that עֲרִירִי means 'without an heir' (as ובכל תבואתי תשרש) and his own view that it comes from the root of 'destruction'; both come out as 'without children', which the English uses."},
+        {"anchor": "rashi:15:2:2", "relation": "follows", "summary": "Rashi, after the Targum: בן משק ביתי is the one by whose word the whole house is fed (על פיך ישק), my steward; had Abram a son, he would be in charge of Abram's property. The English 'steward'."},
+        {"anchor": "rashi:15:2:3", "relation": "follows", "summary": "Rashi: by the Targum he was from Damascus; by the midrash Abram pursued the kings as far as Damascus. The Talmud reads דמשק as an acrostic, 'he draws and gives drink from his master's teaching to others'. The English takes the plain sense, 'of Damascus'."},
+        {"anchor": "ibn-ezra:15:2:1", "relation": "follows", "summary": "Ibn Ezra: the yod of עֲרִירִי is like that in אכזרי and is dropped in ערירים יהיו; the sense is as the Targum says, 'without a child'."},
+        {"anchor": "ibn-ezra:15:2:2", "relation": "records", "summary": "Ibn Ezra: מֶשֶׁק has the pattern of מכס, from the doubled root of שוקק, 'a son who draws himself and another with him'. The English 'steward' is the sense of the Targum he also cites, but his derivation is kept here."},
+        {"anchor": "radak:15:2:7", "relation": "follows", "summary": "Radak: the yod of relation is missing, so דַּמֶּשֶׂק means 'the Damascene' like שבט הימני; or his name was Damascus and Abram named him Eliezer. The English takes the first."},
+        {"anchor": "ramban:15:2:2", "relation": "records", "summary": "Ramban notes Rashi's older commentators read הולך ערירי as 'I am going to my death childless' (like הולך האדם אל בית עולמו) and prefers 'wandering childless'. The English 'go on' keeps both."}
       ],
       "apparatus": [
-        "15:2.15: Targum Onkelos reads 'the Damascene' (דַּמַּשְׂקָאָה); Radak allows 'Damascene' or that the name was Damascus. The English keeps 'of Damascus'."
+        "Onkelos: 'and the steward (בַּר פַּרְנָסָא) of my house, he is Eliezer the Damascene'.",
+        "The pack gives the lemma אֲדֹנָי with parse 'plural, construct' and the name יהוה with the pointing יֱהֹוִה; both are kept."
       ]
     },
     {
       "ref": "15:3",
-      "english": "Abram said: What use is it to me, since you have given no offspring? And look, the steward of my house will inherit from me.",
-      "literal": "and-said Abram; what-use to-me; not you-have-given offspring; and-look son of-my-house inheriting me.",
+      "english": "Abram said, Look, you have given me no offspring, and so a member of my household is my heir.",
+      "literal": "and-said Abram lo to-me not you-gave seed and-behold son-of my-house inheriting me",
       "tokens": [
         {"id": "15:3.1", "gloss": "and said", "sense": "Qal 1"},
         {"id": "15:3.2", "gloss": "Abram"},
-        {"id": "15:3.3", "gloss": "what use", "note": "הֵן is read by Rashi as 'what use is it?' (rashi:15:3:1), not as 'behold'. BDB gives 'lo, behold' for the particle; the English follows Rashi."},
+        {"id": "15:3.3", "gloss": "look", "note": "הֵן, a variant of הִנֵּה: 'see!', introduces a complaint"},
         {"id": "15:3.4", "gloss": "to me"},
         {"id": "15:3.5", "gloss": "not"},
-        {"id": "15:3.6", "gloss": "you have given", "sense": "Qal 1", "note": "Qatal, second person: a complaint about what the LORD has not done."},
-        {"id": "15:3.7", "gloss": "offspring", "sense": "4"},
-        {"id": "15:3.8", "gloss": "and look"},
-        {"id": "15:3.9", "gloss": "son", "sense": "1", "note": "Rendered 'the steward' as in 15:2."},
-        {"id": "15:3.10", "gloss": "of my house", "sense": "5"},
-        {"id": "15:3.11", "gloss": "inherits", "sense": "Qal 2", "note": "Participle with future sense: 'will inherit'."},
-        {"id": "15:3.12", "gloss": "from me", "note": "Object suffix with the verb 'inherit'; the object marker has no English counterpart."}
+        {"id": "15:3.6", "gloss": "you have given", "sense": "Qal 1", "note": "perfect, 2nd person masculine singular, with the final -ta written with a mappiq-like ending נָתַתָּה"},
+        {"id": "15:3.7", "gloss": "offspring", "sense": "4", "note": "זֶרַע is a collective: 'seed'"},
+        {"id": "15:3.8", "gloss": "and so", "note": "וְהִנֵּה: 'and look', draws attention to the consequence"},
+        {"id": "15:3.9", "gloss": "a member of", "sense": "1", "note": "בֶּן־בֵּיתִי, 'son of my house', one born or brought up in the house"},
+        {"id": "15:3.10", "gloss": "my household", "sense": "5"},
+        {"id": "15:3.11", "gloss": "is the heir", "sense": "Qal 2", "note": "participle, 'is inheriting', either a present state or imminent future"},
+        {"id": "15:3.12", "gloss": "of me", "note": "אֹתִי: the object marker with suffix, 'inheriting me', i.e. taking my place"}
       ],
       "phrases": [
-        {"tokens": ["15:3.1", "15:3.2"], "english": "Abram said", "literal": "and-said Abram"},
-        {"tokens": ["15:3.3", "15:3.4"], "english": "What use is it to me", "literal": "what-use to-me"},
-        {"tokens": ["15:3.5", "15:3.6", "15:3.7"], "english": "you have given no offspring", "literal": "not you-have-given offspring"},
-        {"tokens": ["15:3.8", "15:3.9", "15:3.10"], "english": "And look, the steward of my house", "literal": "and-look son of-my-house"},
-        {"tokens": ["15:3.11", "15:3.12"], "english": "will inherit from me", "literal": "inheriting me"}
+        {"tokens": ["15:3.1", "15:3.2"], "english": "Abram said", "literal": "'and-said Abram'"},
+        {"tokens": ["15:3.3"], "english": "Look", "literal": "'lo'"},
+        {"tokens": ["15:3.4", "15:3.5", "15:3.6", "15:3.7"], "english": "you have given me no offspring", "literal": "'to-me not you-gave seed'; the fronted 'to me' marks the contrast with what was promised"},
+        {"tokens": ["15:3.8"], "english": "and so", "literal": "'and-behold'"},
+        {"tokens": ["15:3.9", "15:3.10"], "english": "a member of my household", "literal": "'son-of my-house'"},
+        {"tokens": ["15:3.11", "15:3.12"], "english": "is my heir", "literal": "'inheriting me'; the participle with the object marker, 'will take my place'"}
       ],
       "grammar": [
-        "הֵן לִי לֹא נָתַתָּה זָרַע: the particle הֵן with לִי is a rhetorical question on Rashi's reading; the qatal נָתַתָּה is the complaint about what the LORD has not given.",
-        "The etnaḥta on זָ֑רַע divides the complaint from the statement about the heir.",
-        "וְהִנֵּה ... יוֹרֵשׁ אֹתִי: the particle הִנֵּה introduces the participle יוֹרֵשׁ with future sense, 'will inherit'.",
-        "The object marker אֹתִי is the first-person suffix with the verb, so the English 'inherit from me' is a direct object with the preposition.",
-        "The accents divide the verse into two parts, the complaint and the statement about the house-son."
+        "הֵן לִי לֹא נָתַתָּה זָרַע: 'to me you have not given seed'. The word order puts 'to me' first, against the promises Abram has heard.",
+        "וְהִנֵּה בֶן־בֵּיתִי יוֹרֵשׁ אֹתִי: the participle יוֹרֵשׁ describes a state near at hand. Verbs of inheriting normally take the thing inherited as object, not the person, so 'inheriting me' means 'inheriting from me'.",
+        "זֶרַע is singular but collective, 'offspring', and the English uses a singular noun for it."
       ],
-      "note": "Rashi (rashi:15:3:1) reads הֵן לִי as 'what profit is there in all you give me?', and the English follows him in 'What use is it to me'. The 'steward' is kept from 15:2 so that the figure is the same. Radak (not normative) reads the sentence as an accusation that the LORD has given no seed; that is recorded here only as a neighbouring reading.",
+      "note": "Rashi takes the opening as asking 'what good is all that you give me?', continuing the complaint of verse 2. The English keeps the sentence as a complaint with 'Look'.",
       "commentary": [
-        {"anchor": "rashi:15:3:1", "relation": "follows", "summary": "Rashi glosses הֵן לִי לֹא נָתַתָּה זָרַע as 'what profit is there in all that you give me?' (וּמַה תּוֹעֶלֶת בְּכָל אֲשֶׁר תִּתֵּן לִי?). The English 'What use is it to me, since you have given no offspring' follows him."}
+        {"anchor": "rashi:15:3:1", "relation": "follows", "summary": "Rashi: 'and what use is all that you might give me?' - the sentence is a complaint carrying on from מה תתן לי."},
+        {"anchor": "radak:15:3:2", "relation": "follows", "summary": "Radak: בֶּן בֵּיתִי is one Abram esteems as his own seed, as Eliezer who ruled all he had; hence 'you have given me no seed'."},
+        {"anchor": "sforno:15:3:1", "relation": "records", "summary": "Sforno: even if You give me a child later, he would be too young to manage the property, and the steward of the house would be the heir in practice."}
       ],
-      "apparatus": []
+      "apparatus": [
+        "Onkelos: 'behold, to me you have given no child, and behold the son of my house is inheriting me (יָרִית יָתִי)'."
+      ]
     },
     {
       "ref": "15:4",
-      "english": "And look, the word of the LORD came to him, saying: This one will not inherit from you, but the one who comes out of your body, he will inherit from you.",
-      "literal": "and-look word-of the-LORD to-him to-say [came]; not will-inherit-you this-one; but if; who comes-out from-your-body; he will-inherit-you.",
+      "english": "Then the word of the LORD came to him, saying: This man will not be your heir; but rather one who comes from your own body will be your heir.",
+      "literal": "and-behold word-of LORD to-him to-say not he-will-inherit-you this but-if who he-will-come-out from-your-innards he he-will-inherit-you",
       "tokens": [
-        {"id": "15:4.1", "gloss": "and look"},
-        {"id": "15:4.2", "gloss": "word of", "sense": "I"},
+        {"id": "15:4.1", "gloss": "then", "note": "וְהִנֵּה: 'and behold', the narrator marks the sudden arrival of the word (Ramban: while Abram was still speaking)"},
+        {"id": "15:4.2", "gloss": "the word of", "sense": "I"},
         {"id": "15:4.3", "gloss": "the LORD"},
-        {"id": "15:4.4", "gloss": "to him"},
+        {"id": "15:4.4", "gloss": "to him", "sense": "1"},
         {"id": "15:4.5", "gloss": "saying", "sense": "Qal 1"},
         {"id": "15:4.6", "gloss": "not"},
-        {"id": "15:4.7", "gloss": "will inherit from you", "sense": "Qal 2"},
-        {"id": "15:4.8", "gloss": "this one"},
+        {"id": "15:4.7", "gloss": "will be your heir", "sense": "Qal 2", "note": "imperfect with 2nd person suffix: 'will inherit you'; the first one marks the accent on the verb"},
+        {"id": "15:4.8", "gloss": "this man", "note": "זֶה, demonstrative, 'this one', i.e. Eliezer"},
         {"id": "15:4.9", "gloss": "but"},
-        {"id": "15:4.10", "gloss": "but (lit. if)", "note": "כִּי אִם is a restrictive idiom, 'but' or 'only'."},
-        {"id": "15:4.11", "gloss": "who"},
+        {"id": "15:4.10", "gloss": "rather", "sense": "1", "note": "כִּי־אִם together: 'but only', 'but rather', after a negative"},
+        {"id": "15:4.11", "gloss": "one who"},
         {"id": "15:4.12", "gloss": "comes out", "sense": "Qal 1"},
-        {"id": "15:4.13", "gloss": "from your body", "note": "מֵעֶה, 'bowels'. Ibn Ezra: a figure for the organ, because it is near. The English keeps the euphemism."},
-        {"id": "15:4.14", "gloss": "he"},
-        {"id": "15:4.15", "gloss": "will inherit from you", "sense": "Qal 2"}
+        {"id": "15:4.13", "gloss": "from your own body", "note": "מֵעֶה, plural 'innards': a euphemism for the organ of begetting (Ibn Ezra, Radak)"},
+        {"id": "15:4.14", "gloss": "he", "sense": "1", "note": "resumes the relative clause"},
+        {"id": "15:4.15", "gloss": "will be your heir", "sense": "Qal 2"}
       ],
       "phrases": [
-        {"tokens": ["15:4.1", "15:4.2", "15:4.3", "15:4.4", "15:4.5"], "english": "And look, the word of the LORD came to him, saying", "literal": "and-look word-of the-LORD to-him to-say; [came]"},
-        {"tokens": ["15:4.6", "15:4.7", "15:4.8"], "english": "This one will not inherit from you", "literal": "not will-inherit-you this-one"},
-        {"tokens": ["15:4.9", "15:4.10"], "english": "but", "literal": "but (if)"},
-        {"tokens": ["15:4.11", "15:4.12", "15:4.13"], "english": "the one who comes out of your body", "literal": "who comes-out from-your-body"},
-        {"tokens": ["15:4.14", "15:4.15"], "english": "he will inherit from you", "literal": "he will-inherit-you"}
+        {"tokens": ["15:4.1"], "english": "Then", "literal": "'and-behold'"},
+        {"tokens": ["15:4.2", "15:4.3"], "english": "the word of the LORD", "literal": "'word-of LORD'"},
+        {"tokens": ["15:4.4"], "english": "came to him", "literal": "'to-him'; the verb is not written and is supplied from the context"},
+        {"tokens": ["15:4.5"], "english": "saying", "literal": "'to-say'"},
+        {"tokens": ["15:4.6", "15:4.7", "15:4.8"], "english": "This man will not be your heir", "literal": "'not he-will-inherit-you this'"},
+        {"tokens": ["15:4.9", "15:4.10"], "english": "but rather", "literal": "'but-if'; the idiom כִּי אִם after a negative"},
+        {"tokens": ["15:4.11", "15:4.12", "15:4.13"], "english": "one who comes from your own body", "literal": "'who he-will-come-out from-your-innards'; Ibn Ezra: a euphemism for the organ nearest"},
+        {"tokens": ["15:4.14", "15:4.15"], "english": "will be your heir", "literal": "'he he-will-inherit-you'; the pronoun is emphatic"}
       ],
       "grammar": [
-        "לֹא יִירָשְׁךָ זֶה: a negative yiqtol, third person, 'this one will not inherit from you'; the suffix ךָ is the object.",
-        "כִּי־אִם: 'but' in the restrictive idiom 'not X, but Y'. The pashta on אִם marks the break.",
-        "אֲשֶׁר יֵצֵא: the relative 'who' with a yiqtol, 'who comes out'.",
-        "הוּא יִירָשֶׁךָ: the independent pronoun repeats the subject for emphasis, and sets the second heir against 'this one'.",
-        "The silluq on יִירָשֶׁךָ closes the verse on the contrast."
+        "וְהִנֵּה דְבַר־יְהֹוָה אֵלָיו: a verbless clause, 'and behold, the word of the LORD to him'; the qadma on וְהִנֵּה marks it as the start of a new sentence in answer to Abram's last words.",
+        "לֹא יִירָשְׁךָ זֶה: the verb has the 2nd person masculine suffix and the same verb occurs again at the end, so the verse is built around a contrast between two heirs.",
+        "כִּי־אִם after a negative means 'but rather', not 'if'.",
+        "יִירָשׁ with an object of person means 'be the heir of' that person, here 'inherit from you'."
       ],
-      "note": "'Your body' keeps the euphemism of מִמֵּעֶיךָ ('from your bowels'), as Ibn Ezra explains it. 'This one' is the house-son of 15:3, and the verse answers that complaint: the heir will be the one from Abram's body. The verse does not say a child is born in this verse.",
+      "note": "מֵעֶיךָ is rendered 'your own body', keeping the euphemism that Ibn Ezra identifies (Radak adds that it is the 'vessel of seed', cf. צאצאי מעיך Isaiah 48:19).",
       "commentary": [
-        {"anchor": "ibn-ezra:15:4:1", "relation": "follows", "summary": "Ibn Ezra explains מִמֵּעֶיךָ as a figure for the organ, because it is near (כנוי לאבר בעבור היותו קרוב). The English 'from your body' keeps the euphemism and follows him."}
+        {"anchor": "ibn-ezra:15:4:1", "relation": "follows", "summary": "Ibn Ezra: מִמֵּעֶיךָ is a 'kinuy', a euphemism for the limb, because it is near; hence 'from your own body'."},
+        {"anchor": "ramban:15:4:1", "relation": "records", "summary": "Ramban: וְהִנֵּה means that while Abram was still speaking the word of the LORD came suddenly; the promise here concerns only the inheritance, not the reward."},
+        {"anchor": "radak:15:4:2", "relation": "follows", "summary": "Radak: the verse limits the earlier promise, 'to you and to your seed', to a true descendant who comes from your innards."}
       ],
-      "apparatus": []
+      "apparatus": [
+        "Onkelos: 'This one will not inherit you, but one whom you will beget, he will inherit you.'"
+      ]
     },
     {
       "ref": "15:5",
-      "english": "He brought him outside and said: Look now toward the heavens, and count the stars, if you are able to count them. And he said to him: So shall your offspring be.",
-      "literal": "and-brought-out him outside; and-said; look now to-the-heavens; and-count the-stars; if you-are-able to-count them; and-said to-him; so will-be your-offspring.",
+      "english": "He brought him outside and said, Look toward the sky, please, and count the stars, if you are able to count them. Then he said to him, So will your offspring be.",
+      "literal": "and-brought-out him the-outside and-said look please the-heavenward and-count the-stars if you-are-able to-count them and-said to-him thus he-will-be your-seed",
       "tokens": [
-        {"id": "15:5.1", "gloss": "and brought out", "sense": "Hiph 1"},
-        {"id": "15:5.2", "gloss": "him", "note": "Object marker with the third-person suffix."},
-        {"id": "15:5.3", "gloss": "outside"},
-        {"id": "15:5.4", "gloss": "and said", "sense": "Qal 1"},
-        {"id": "15:5.5", "gloss": "look", "sense": "Hiph", "note": "Imperative of נָבַט, 'look'."},
-        {"id": "15:5.6", "gloss": "now", "note": "Exhortative particle נָא, 'please, now'."},
-        {"id": "15:5.7", "gloss": "to the heavens", "sense": "1.a"},
+        {"id": "15:5.1", "gloss": "and he brought out", "sense": "Hiph 1", "note": "wayyiqtol of the hifil of יצא: 'caused to go out'"},
+        {"id": "15:5.2", "gloss": "him"},
+        {"id": "15:5.3", "gloss": "outside", "note": "הַחוּצָה: with the directional ה, 'to the outside'"},
+        {"id": "15:5.4", "gloss": "and said", "sense": "Qal 1", "note": "doubled pashta on the verb"},
+        {"id": "15:5.5", "gloss": "look", "sense": "Hiph", "note": "imperative of the hifil of נבט; Rashi hears in it 'look down from above'"},
+        {"id": "15:5.6", "gloss": "please", "note": "נָא is a particle of entreaty or politeness"},
+        {"id": "15:5.7", "gloss": "toward the sky", "sense": "1.a", "note": "directional ה on שָׁמַיִם: 'skyward'"},
         {"id": "15:5.8", "gloss": "and count", "sense": "Qal 1"},
         {"id": "15:5.9", "gloss": "the stars"},
-        {"id": "15:5.10", "gloss": "if"},
+        {"id": "15:5.10", "gloss": "if", "sense": "1", "note": "אִם opens a conditional clause; it also introduces an indirect question, 'whether you can'"},
         {"id": "15:5.11", "gloss": "you are able", "sense": "Qal 1"},
         {"id": "15:5.12", "gloss": "to count", "sense": "Qal 1"},
-        {"id": "15:5.13", "gloss": "them", "note": "Object marker with the third-person masculine plural suffix."},
-        {"id": "15:5.14", "gloss": "and he said", "sense": "Qal 1"},
+        {"id": "15:5.13", "gloss": "them"},
+        {"id": "15:5.14", "gloss": "then he said", "sense": "Qal 1", "note": "a second wayyiqtol of אמר, marking a new utterance after the etnaḥta"},
         {"id": "15:5.15", "gloss": "to him"},
-        {"id": "15:5.16", "gloss": "so", "sense": "1"},
-        {"id": "15:5.17", "gloss": "shall be", "sense": "Qal III.1"},
+        {"id": "15:5.16", "gloss": "so", "sense": "1", "note": "כֹּה: 'thus', pointing to the stars"},
+        {"id": "15:5.17", "gloss": "will be", "sense": "Qal III"},
         {"id": "15:5.18", "gloss": "your offspring", "sense": "4"}
       ],
       "phrases": [
-        {"tokens": ["15:5.1", "15:5.2", "15:5.3"], "english": "He brought him outside", "literal": "and-brought-out him outside"},
-        {"tokens": ["15:5.4"], "english": "and said", "literal": "and-said"},
-        {"tokens": ["15:5.5", "15:5.6", "15:5.7"], "english": "Look now toward the heavens", "literal": "look now to-the-heavens"},
-        {"tokens": ["15:5.8", "15:5.9"], "english": "and count the stars", "literal": "and-count the-stars"},
-        {"tokens": ["15:5.10", "15:5.11", "15:5.12", "15:5.13"], "english": "if you are able to count them", "literal": "if you-are-able to-count them"},
-        {"tokens": ["15:5.14", "15:5.15"], "english": "And he said to him", "literal": "and-said to-him"},
-        {"tokens": ["15:5.16", "15:5.17", "15:5.18"], "english": "so shall your offspring be", "literal": "so will-be your-offspring"}
+        {"tokens": ["15:5.1", "15:5.2", "15:5.3"], "english": "He brought him outside", "literal": "'and-brought-out him the-outside'; Rashi and Ramban: from his tent, to see the stars"},
+        {"tokens": ["15:5.4"], "english": "and said", "literal": "'and-said'"},
+        {"tokens": ["15:5.5", "15:5.6", "15:5.7"], "english": "Look toward the sky, please", "literal": "'look please skyward'"},
+        {"tokens": ["15:5.8", "15:5.9"], "english": "and count the stars", "literal": "'and-count the-stars'"},
+        {"tokens": ["15:5.10", "15:5.11", "15:5.12", "15:5.13"], "english": "if you are able to count them", "literal": "'if you-are-able to-count them'; the אֵת marks the object of the verb"},
+        {"tokens": ["15:5.14", "15:5.15"], "english": "Then he said to him", "literal": "'and-said to-him'"},
+        {"tokens": ["15:5.16", "15:5.17", "15:5.18"], "english": "So will your offspring be", "literal": "'thus he-will-be your-seed'"}
       ],
       "grammar": [
-        "וַיּוֹצֵא אֹתוֹ הַחוּצָה: a Hiph wayyiqtol, 'and he brought him outside'; הַחוּצָה is the directional form of 'outside'.",
-        "הַבֶּט־נָא: the Hiph imperative of 'look', with the exhortative נָא; the English 'Look now'.",
-        "אִם־תּוּכַל לִסְפֹּר: a conditional clause, 'if you are able to count', with the infinitive construct לִסְפֹּר.",
-        "כֹּה יִהְיֶה זַרְעֶךָ: the adverb כֹּה 'so' with a yiqtol and the subject after the verb, 'so shall your offspring be'.",
-        "The zaqef qaton on לוֹ and the etnaḥta on אֹתָ֑ם divide the act, the command, and the promise."
+        "וַיּוֹצֵא אֹתוֹ הַחוּצָה: a hifil wayyiqtol. The subject is God, the object Abram. הַחוּצָה has the article and the directional ה together.",
+        "הַבֶּט־נָא הַשָּׁמַיְמָה: the directional ה on שָׁמַיִם is a rare spelling of the same ending. The imperative with נָא is courteous.",
+        "אִם־תּוּכַל לִסְפֹּר: אִם introduces a conditional clause whose result is implied (the answer is no). The verb סָפַר is used twice (imperative and infinitive) in the one speech.",
+        "כֹּה יִהְיֶה זַרְעֶךָ: the adverb כֹּה refers to the stars in sight; the verb is future and 'offspring' is collective.",
+        "The two disjunctive pashta marks on וַיֹּאמֶר show that the speech is a single unit; the etnaḥta on אֹתָם ends the first speech, and the second begins with a new וַיֹּאמֶר."
       ],
-      "note": "The plain sense (rashi:15:5:1) is that the LORD brought Abram out of his tent to see the stars; the English follows this. Rashi's midrashic reading, that Abram should leave astrology because he will have no son and Abraham will, is not adopted in the English, though it is noted in the commentary.",
+      "note": "Rashi gives the plain sense (God took Abram out of his tent to see the stars) and the midrash (go out of your astrology; 'look down' from above the stars). The English follows the plain sense, with the midrashic alternatives recorded.",
       "commentary": [
-        {"anchor": "rashi:15:5:1", "relation": "follows", "summary": "Rashi's plain sense (לְפִי פְּשׁוּטוֹ) is that he took him out of the tent to look at the stars (הוֹצִיאוֹ מֵאָהֳלוֹ לַחוּץ לִרְאוֹת הַכּוֹכָבִים). The English 'He brought him outside' and 'Look now toward the heavens' follow the plain sense. The midrashic reading, 'leave your astrology' (צֵא מֵאִצְטַגְנִינוּת שֶׁלְּךָ), is not adopted."}
+        {"anchor": "rashi:15:5:1", "relation": "follows", "summary": "Rashi: by its plain sense He brought him out of his tent to see the stars. By the midrash He told him, go out of your astrology, since you saw in the constellations that you will not have a son: 'Abram has no son, but Abraham will; Sarai will not bear, but Sarah will'. Another midrash lifted him above the stars, hence the sense of looking down."},
+        {"anchor": "radak:15:5:1", "relation": "follows", "summary": "Radak: the word came to him in his tent, and in the vision He brought him outside, as in Ezekiel 8:3 'he brought me to Jerusalem in visions of God'. The stars after the dust of the earth in the earlier promise are both hyperbole."},
+        {"anchor": "ramban:15:5:1", "relation": "records", "summary": "Ramban repeats Rashi's plain sense and the midrash, and notes that Abram had by now fathered Ishmael, so the midrash is explained as meaning that Abram sought an heir by Sarai."}
       ],
-      "apparatus": []
+      "apparatus": [
+        "Onkelos: 'and he brought him out and said, Look now at the heavens and count the stars, if you are able to count them; and he said to him, So will your children be.'"
+      ]
     },
     {
       "ref": "15:6",
-      "english": "He believed in the LORD, and the LORD counted it to him as righteousness.",
-      "literal": "and-believed in-the-LORD; and-counted it [the LORD] to-him; righteousness.",
+      "english": "He trusted in the LORD, and the LORD reckoned it to him as righteousness.",
+      "literal": "and-he-trusted in-the-LORD and-he-reckoned-it to-him righteousness",
       "tokens": [
-        {"id": "15:6.1", "gloss": "and he believed", "sense": "Hiph 2"},
-        {"id": "15:6.2", "gloss": "in the LORD", "note": "Variant vowels of the divine name: see apparatus."},
-        {"id": "15:6.3", "gloss": "counted it", "sense": "Qal I.3", "note": "Wayyiqtol with the third-person feminine suffix (it, the faith). The subject is not written; the English supplies 'the LORD' with Rashi and the other normative readings."},
+        {"id": "15:6.1", "gloss": "and he trusted", "sense": "Hiph 2", "note": "a perfect with וְ in a narrative sequence; an unusual form of continuing narrative that marks a state, 'and he was trusting'; the hifil of אמן takes בְּ for the object of trust"},
+        {"id": "15:6.2", "gloss": "in the LORD", "note": "the Variants list notes that WLC points the divine name differently; the base text is kept"},
+        {"id": "15:6.3", "gloss": "and he reckoned it", "sense": "Qal I.3", "note": "wayyiqtol with a feminine suffix: the 'it' is his trust (a feminine noun implied); the subject is God, by Rashi"},
         {"id": "15:6.4", "gloss": "to him"},
-        {"id": "15:6.5", "gloss": "righteousness", "sense": "1", "note": "BDB sense 6, 'justification', is also possible here."}
+        {"id": "15:6.5", "gloss": "as righteousness", "sense": "1"}
       ],
       "phrases": [
-        {"tokens": ["15:6.1", "15:6.2"], "english": "He believed in the LORD", "literal": "and-believed in-the-LORD"},
-        {"tokens": ["15:6.3", "15:6.4", "15:6.5"], "english": "and the LORD counted it to him as righteousness", "literal": "and-counted it [the LORD] to-him righteousness"}
+        {"tokens": ["15:6.1", "15:6.2"], "english": "He trusted in the LORD", "literal": "'and-he-trusted in-the-LORD'"},
+        {"tokens": ["15:6.3", "15:6.4"], "english": "and the LORD reckoned it to him", "literal": "'and-he-reckoned-it to-him'; the English names the subject, which Rashi takes to be the LORD; Ramban's second reading takes Abram as the subject and the promise as the 'it'"},
+        {"tokens": ["15:6.5"], "english": "as righteousness", "literal": "'righteousness'; Ibn Ezra: 'a merit', as in וּצְדָקָה תִּהְיֶה לָּנוּ, Deuteronomy 6:25"}
       ],
       "grammar": [
-        "וְהֶאֱמִן בַּיהוָה: a Hiph qatal of אָמַן, 'he believed in', with the preposition ב; the sense is trust in the LORD.",
-        "וַיַּחְשְׁבֶהָ: a wayyiqtol with the object suffix הָ. The subject is unwritten; the English supplies 'the LORD' on Rashi's reading.",
-        "צְדָקָה is a feminine noun in the absolute state, 'righteousness'.",
-        "The tipḥa on וְהֶאֱמִן and the merkha on וַיַּחְשְׁבֶהָ divide the verse; the silluq on צְדָקָה closes it."
+        "וְהֶאֱמִן: the waw with a perfect (weqatal) after a string of wayyiqtols; it gives the narrator's comment on Abram's state of trust, not a new event in the sequence. The hifil of אמן means 'consider firm', 'put trust in'.",
+        "וַיַּחְשְׁבֶהָ לּוֹ צְדָקָה: the verb takes an object suffix (feminine, 'it') and a double complement, 'to him' and 'as righteousness'. The feminine suffix refers to his faith or to the promise.",
+        "The subject of וַיַּחְשְׁבֶהָ is not named. Rashi and Sforno take it to be God; Ramban records a second reading in which Abram counts the promise as God's righteousness (cf. Psalm 106:31 of Pinhas)."
       ],
-      "note": "The subject of וַיַּחְשְׁבֶהָ is not written. Rashi, Ramban, Radak and Sforno all take the LORD as the one who counts the faith to Abram, and the English follows them. Rashi's second reading (the merit of the sacrifices, in answer to 'by what shall I know') is recorded in the commentary but not adopted here, because 15:8 is spoken by Abram, not by the verse's narrator.",
+      "note": "The English names the LORD as the subject of 'reckoned', following Rashi and Sforno; the ambiguity of the Hebrew (Abram, or God) is kept in the phrase note and the commentary. צְדָקָה is 'righteousness' (Ibn Ezra: a merit, as in Deuteronomy 6:25).",
       "commentary": [
-        {"anchor": "rashi:15:6:1", "relation": "follows", "summary": "Rashi says that Abram did not ask for a sign for this belief (לֹא שָׁאַל לוֹ אוֹת עַל זֹאת); he asked for a sign about inheriting the land. The English 'He believed in the LORD' takes no sign."},
-        {"anchor": "rashi:15:6:2", "relation": "follows", "summary": "Rashi takes the subject to be the Holy One, who counted the faith to Abram as merit and righteousness (חֲשָׁבָהּ לְאַבְרָם לִזְכוּת וְלִצְדָקָה). The English 'and the LORD counted it to him as righteousness' follows him."},
-        {"anchor": "ibn-ezra:15:6:1", "relation": "follows", "summary": "Ibn Ezra compares צדקה with Deut 6:25 (וּצְדָקָה תִּהְיֶה לָנוּ), where the word means the righteous standing that comes from the commandment. The English 'righteousness' follows this plain sense."}
+        {"anchor": "rashi:15:6:1", "relation": "follows", "summary": "Rashi: Abram did not ask for a sign about this (the son); but about inheriting the land he asked for a sign, 'by what shall I know'. So 'he trusted' refers to the son."},
+        {"anchor": "rashi:15:6:2", "relation": "follows", "summary": "Rashi: the Holy One, blessed be He, counted it to Abram as merit and as righteousness for the trust he showed. A second reading takes בַּמָּה אֵדַע as asking in what merit Israel will endure, and God answers, by the merit of sacrifices."},
+        {"anchor": "ibn-ezra:15:6:1", "relation": "follows", "summary": "Ibn Ezra: צדקה is as in וצדקה תהיה לנו (Deuteronomy 6:25) and like צדק ומשפט; he adds that the Sages' sense of צדקה as charity is different."},
+        {"anchor": "ramban:15:6:1", "relation": "records", "summary": "Ramban does not understand Rashi's 'merit' (why would Abram not trust a God of truth?), and suggests Abram trusted that God would give him a child out of His own righteousness, not Abram's; or that God counted the promise itself as righteousness."},
+        {"anchor": "radak:15:6:2", "relation": "follows", "summary": "Radak: God counted the complete trust as righteousness and uprightness of heart, since he and his wife were growing old and the promise was delayed, and yet he trusted."}
       ],
       "apparatus": [
-        "15:6.2: the WLC vowels read בַּיהוָה; the base text reads בַּיהֹוָה. The English is the same either way."
+        "The pack's Variants note: WLC reads בַּֽיהוָ֑ה where the base (MAM) writes בַּֽיהֹוָ֑ה; the same name, no difference in sense.",
+        "Onkelos: 'and he trusted in the Memra of the LORD, and He counted it to him as merit (לְזָכוּ)'."
       ]
     },
     {
       "ref": "15:7",
-      "english": "He said to him: I am the LORD, who brought you out of Ur of the Chaldeans to give you this land to inherit it.",
-      "literal": "and-said to-him; I the-LORD; who brought-you-out from-Ur the-Chaldeans; to-give to-you the-land this; to-inherit-it.",
+      "english": "He said to him, I am the LORD who brought you out of Ur of the Chaldeans, to give you this land to take possession of it.",
+      "literal": "and-said to-him I LORD who I-brought-you-out from-Ur Chaldeans to-give to-you [object-mark] the-land the-this to-possess-it",
       "tokens": [
-        {"id": "15:7.1", "gloss": "and he said", "sense": "Qal 1"},
-        {"id": "15:7.2", "gloss": "to him"},
-        {"id": "15:7.3", "gloss": "I", "note": "The verb 'am' is not written; the English supplies it."},
+        {"id": "15:7.1", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "15:7.2", "gloss": "to him", "sense": "1"},
+        {"id": "15:7.3", "gloss": "I"},
         {"id": "15:7.4", "gloss": "the LORD"},
         {"id": "15:7.5", "gloss": "who"},
-        {"id": "15:7.6", "gloss": "I brought you out", "sense": "Hiph 1"},
+        {"id": "15:7.6", "gloss": "brought you out", "sense": "Hiph 1", "note": "hifil perfect, 1st person, with 2nd person masculine suffix"},
         {"id": "15:7.7", "gloss": "from Ur"},
-        {"id": "15:7.8", "gloss": "the Chaldeans"},
-        {"id": "15:7.9", "gloss": "to give", "sense": "Qal 1"},
+        {"id": "15:7.8", "gloss": "of the Chaldeans", "note": "כַּשְׂדִּים is a gentilic: 'of the Kasdim'; the familiar English form is 'Chaldeans'"},
+        {"id": "15:7.9", "gloss": "to give", "sense": "Qal 1", "note": "infinitive construct of נתן: the final nun drops and the ת is doubled in לָתֵת form"},
         {"id": "15:7.10", "gloss": "to you"},
-        {"id": "15:7.11", "gloss": "(object marker)", "note": "The object marker has no English counterpart."},
+        {"id": "15:7.11", "gloss": "-", "note": "אֶת marks the definite object of the infinitive"},
         {"id": "15:7.12", "gloss": "the land", "sense": "2"},
         {"id": "15:7.13", "gloss": "this"},
-        {"id": "15:7.14", "gloss": "to inherit it", "sense": "Qal 1"}
+        {"id": "15:7.14", "gloss": "to take possession of it", "sense": "Qal 1", "note": "infinitive construct with a feminine suffix: 'to possess it'; the ת is the feminine ending of the infinitive of ירשׁ"}
       ],
       "phrases": [
-        {"tokens": ["15:7.1", "15:7.2"], "english": "He said to him", "literal": "and-said to-him"},
-        {"tokens": ["15:7.3", "15:7.4"], "english": "I am the LORD", "literal": "I the-LORD"},
-        {"tokens": ["15:7.5", "15:7.6", "15:7.7", "15:7.8"], "english": "who brought you out of Ur of the Chaldeans", "literal": "who brought-you-out from-Ur the-Chaldeans"},
-        {"tokens": ["15:7.9", "15:7.10", "15:7.11"], "english": "to give you", "literal": "to-give to-you (object marker)"},
-        {"tokens": ["15:7.12", "15:7.13", "15:7.14"], "english": "this land to inherit it", "literal": "the-land this to-inherit-it"}
+        {"tokens": ["15:7.1", "15:7.2"], "english": "He said to him", "literal": "'and-said to-him'"},
+        {"tokens": ["15:7.3", "15:7.4"], "english": "I am the LORD", "literal": "'I LORD'; verbless clause"},
+        {"tokens": ["15:7.5", "15:7.6", "15:7.7", "15:7.8"], "english": "who brought you out of Ur of the Chaldeans", "literal": "'who I-brought-you-out from-Ur Chaldeans'"},
+        {"tokens": ["15:7.9", "15:7.10"], "english": "to give you", "literal": "'to-give to-you'"},
+        {"tokens": ["15:7.11"], "english": "-", "literal": "the object marker has no English counterpart"},
+        {"tokens": ["15:7.12", "15:7.13"], "english": "this land", "literal": "'the-land the-this'"},
+        {"tokens": ["15:7.14"], "english": "to take possession of it", "literal": "'to-possess-it'; Radak and Sforno: that his sons may inherit it from him as an unbroken inheritance"}
       ],
       "grammar": [
-        "אֲנִי יְהוָה: the self-identification formula, 'I am the LORD'; the copula is not written.",
-        "הוֹצֵאתִיךָ: a Hiph qatal of יָצָא, 'I brought you out', with the second-person suffix.",
-        "לָתֶת לְךָ: an infinitive construct with the preposition, 'to give you', giving the purpose of the bringing out.",
-        "לְרִשְׁתָּהּ: an infinitive construct with the third-feminine suffix, 'to inherit it', for the land.",
-        "The etnaḥta on אֵלָיו marks the division between the narrator's 'He said to him' and the divine speech."
+        "אֲנִי יְהֹוָה אֲשֶׁר הוֹצֵאתִיךָ: the formula of self-introduction, 'I am the LORD who ...', that recalls the earlier act as grounds for the promise.",
+        "The relative אֲשֶׁר takes a 1st person verb, 'who I brought you out', and the English turns it into a normal relative clause with 'who brought'.",
+        "לָתֶת לְךָ ... לְרִשְׁתָּהּ: two infinitives with ל expressing purpose. The first is of נתן, the second of ירשׁ with the feminine suffix referring to הָאָרֶץ.",
+        "The tevir on לְךָ and the darga on לָתֶת set 'to give you' against 'this land ... to possess it'."
       ],
-      "note": "Ur of the Chaldeans is the familiar English for כַּשְׂדִּים; the place name Ur is kept. Ibn Ezra (cross-reference, not a reading) notes that the command is stated in Lekh Lekha and not at Haran. The English 'to inherit it' keeps the inheritance vocabulary of 15:3-4.",
+      "note": "אוּר כַּשְׂדִּים is rendered 'Ur of the Chaldeans', the familiar English name; Ibn Ezra points out that the promise names Ur and not Haran because it was in Ur that the call came, as the Lekh Lekha section shows.",
       "commentary": [
-        {"anchor": "ibn-ezra:15:7:1", "relation": "not-applicable", "summary": "Ibn Ezra cross-refers to the parashah of Lekh Lekha (12:1), where the command is stated, and says it is not stated at Haran. This is a cross-reference and does not bear on the plain sense of the English."},
-        {"anchor": "ibn-ezra:15:7:2", "relation": "follows", "summary": "Ibn Ezra says Abram believed the promise of a son who would inherit him, and asked for a sign about inheriting the land, as Gideon did (ועל ירושת הארץ בקש אות כאשר עשה גדעון); the request was not a sin. The English keeps the land-inheritance as the subject of the sign in 15:8."}
+        {"anchor": "ibn-ezra:15:7:1", "relation": "follows", "summary": "Ibn Ezra: it says Ur and not Haran as proof that the call is told in the Lekh Lekha section and was given there, as he explained at that place; so the English keeps 'Ur of the Chaldeans'."},
+        {"anchor": "ibn-ezra:15:7:2", "relation": "not-applicable", "summary": "Ibn Ezra: Abram trusted God that his son would inherit; for the inheritance of the land he asked for a sign, as Gideon did, since every prophecy is conditional unless sworn. It bears on verse 8 and the sense of 'by what will I know', not on this verse."},
+        {"anchor": "ramban:15:7:1", "relation": "records", "summary": "Ramban: 'from the time I brought you out of Ur of the Chaldeans and did a miracle for you, it was My will to give you this land'; not yet a decree, so Abram feared that the land depended on works."},
+        {"anchor": "radak:15:7:4", "relation": "follows", "summary": "Radak: I did not bring you out for nothing but to give you this land to inherit, meaning that his sons will inherit it, like an inheritance a man leaves to his sons."},
+        {"anchor": "sforno:15:7:2", "relation": "follows", "summary": "Sforno on לְרִשְׁתָּהּ: so that the sons will inherit it from you by an inheritance that has no end."}
       ],
-      "apparatus": []
+      "apparatus": [
+        "Onkelos: 'I am the LORD who brought you out of Ur of the Chaldeans, to give you this land to inherit it.'"
+      ]
     },
     {
       "ref": "15:8",
-      "english": "He said: Lord, the LORD, how shall I know that I will inherit it?",
-      "literal": "and-said; Lord; the-LORD; by-what shall-I-know that I-will-inherit-it.",
+      "english": "He said, My Lord, the LORD, by what will I know that I shall take possession of it?",
+      "literal": "and-said my-lord LORD by-what I-will-know that I-will-possess-it",
       "tokens": [
-        {"id": "15:8.1", "gloss": "and he said", "sense": "Qal 1"},
-        {"id": "15:8.2", "gloss": "Lord", "note": "Vocative of אֲדֹנָי."},
-        {"id": "15:8.3", "gloss": "the LORD"},
-        {"id": "15:8.4", "gloss": "by what", "note": "בַּמָּה, 'by what'; the English 'how' keeps the question."},
-        {"id": "15:8.5", "gloss": "shall I know", "sense": "Qal 1.a"},
+        {"id": "15:8.1", "gloss": "and he said", "sense": "Qal 1", "note": "wayyiqtol; the subject is Abram, as the vocative that follows shows"},
+        {"id": "15:8.2", "gloss": "my Lord", "note": "plural of majesty with 1st person suffix"},
+        {"id": "15:8.3", "gloss": "the LORD", "note": "pointed יֱהֹוִה so that the reader says Elohim after אֲדֹנָי"},
+        {"id": "15:8.4", "gloss": "by what", "sense": "1", "note": "בַּמָּה: ב with the interrogative מָה, 'by what means?'"},
+        {"id": "15:8.5", "gloss": "will I know", "sense": "Qal 1.a", "note": "imperfect, 1st person; cohortative sense, 'am I to know'"},
         {"id": "15:8.6", "gloss": "that"},
-        {"id": "15:8.7", "gloss": "I will inherit it", "sense": "Qal 1", "note": "Yiqtol, first person, with the third-feminine suffix for the land."}
+        {"id": "15:8.7", "gloss": "I shall take possession of it", "sense": "Qal 1", "note": "imperfect with a feminine suffix referring to the land; Radak: 'my sons will inherit it', cf. Genesis 48:22"}
       ],
       "phrases": [
-        {"tokens": ["15:8.1"], "english": "He said", "literal": "and-said"},
-        {"tokens": ["15:8.2", "15:8.3"], "english": "Lord, the LORD", "literal": "Lord the-LORD"},
-        {"tokens": ["15:8.4", "15:8.5"], "english": "how shall I know", "literal": "by-what shall-I-know"},
-        {"tokens": ["15:8.6", "15:8.7"], "english": "that I will inherit it", "literal": "that I-will-inherit-it"}
+        {"tokens": ["15:8.1"], "english": "He said", "literal": "'and-said'"},
+        {"tokens": ["15:8.2", "15:8.3"], "english": "My Lord, the LORD", "literal": "'my-lords LORD'"},
+        {"tokens": ["15:8.4", "15:8.5"], "english": "by what will I know", "literal": "'by-what I-will-know'"},
+        {"tokens": ["15:8.6", "15:8.7"], "english": "that I shall take possession of it", "literal": "'that I-will-possess-it'"}
       ],
       "grammar": [
-        "בַּמָּה אֵדַע: 'by what shall I know'; the English 'how shall I know' keeps the question.",
-        "כִּי אִירָשֶׁנָּה: 'that I will inherit it', a yiqtol first person with the feminine object suffix for the land.",
-        "The zaqef qaton on the divine name divides the address from the question; the silluq on אִירָשֶׁנָּה closes the verse.",
-        "The verse answers the promise of 15:7: Abram asks for a sign about the land, not about the son."
+        "בַּמָּה אֵדַע: the interrogative with ב asks for the means or sign by which knowledge will come; it is not a statement of doubt, and Radak says Abram did not doubt that his sons would inherit.",
+        "כִּי אִירָשֶׁנָּה: the כִּי introduces the content of the knowledge, 'that I shall inherit it'. The suffix -נָּה, with the nun, is an energic form on a feminine object.",
+        "The etnaḥta on וַיֹּאמַר, with the lengthened form וַיֹּאמַר, sets the speech apart from the narrative."
       ],
-      "note": "The question is Abram's, and the commentators divide on what he asks. Radak (not normative) reads it as a doubt whether the land will stay with his descendants forever, since they may sin; the English 'that I will inherit it' leaves that open. Ibn Ezra (15:7:2) reads the question as a request for a sign, as Gideon asked.",
+      "note": "There are no normative comments on this verse. Radak and Sforno agree that Abram asks for knowledge that the inheritance will be lasting, since his descendants might sin and lose the land; the English 'by what will I know' keeps the question open, as the Hebrew does.",
       "commentary": [
-        {"anchor": "radak:15:8:1", "relation": "records", "summary": "Radak reads the question as a doubt about whether the land would be inherited for ever (אִם יִירָשׁוּהָ לְעוֹלָם), since his descendants might sin and be exiled. The English leaves the duration open; Radak's reading is kept here as an alternative."}
+        {"anchor": "radak:15:8:1", "relation": "follows", "summary": "Radak: Abram did not doubt that his sons would inherit, for he had trusted the LORD (15:6); he asked whether they would inherit it for ever, since they might sin and be exiled, and 'by what' asks in what way it will be made known to him, as the stars were shown for the offspring."},
+        {"anchor": "sforno:15:8:1", "relation": "follows", "summary": "Sforno: perhaps the sons will sin and not be worthy to inherit."},
+        {"anchor": "sforno:15:6:3", "relation": "records", "summary": "Sforno says Abram did not retract his faith in this question; otherwise it would not have been counted to him as righteousness (Ezekiel 18:24)."}
       ],
-      "apparatus": []
+      "apparatus": [
+        "Onkelos: 'and he said, LORD God, by what shall I know that I will inherit it?' (בְּמָה אִדַּע אֲרֵי אֵרְתִינַהּ)."
+      ]
     }
   ]
 }

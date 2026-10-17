@@ -1,0 +1,711 @@
+{
+ "unit": "lekh-lekha-17",
+ "model": "sonnet",
+ "segments": [
+  {
+   "ref": "17:23",
+   "english": "Then Abraham took his son Ishmael and all those born in his house and all those bought with his money, every male among the people of Abraham's household, and he circumcised the flesh of their foreskin on that very day, as God had spoken with him.",
+   "literal": "and-took Abraham [obj]-Ishmael his-son and-[obj] all-born-of his-house and-[obj] all-purchase-of his-silver all-male among-men-of house-of Abraham and-circumcised [obj]-flesh-of their-foreskin in-bone-of the-day the-this as-spoke with-him God",
+   "tokens": [
+    {
+     "id": "17:23.1",
+     "gloss": "and took",
+     "sense": "Qal 2",
+     "note": "wayyiqtol: sequence of narrative"
+    },
+    {
+     "id": "17:23.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "17:23.3",
+     "gloss": "-"
+    },
+    {
+     "id": "17:23.4",
+     "gloss": "Ishmael"
+    },
+    {
+     "id": "17:23.5",
+     "gloss": "his son",
+     "sense": "1"
+    },
+    {
+     "id": "17:23.6",
+     "gloss": "and -"
+    },
+    {
+     "id": "17:23.7",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "17:23.8",
+     "gloss": "those born of",
+     "note": "construct plural: 'those born of'"
+    },
+    {
+     "id": "17:23.9",
+     "gloss": "his house",
+     "sense": "1",
+     "note": "construct with suffix"
+    },
+    {
+     "id": "17:23.10",
+     "gloss": "and -"
+    },
+    {
+     "id": "17:23.11",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "17:23.12",
+     "gloss": "purchase of",
+     "sense": "3",
+     "note": "'what was bought', here persons bought"
+    },
+    {
+     "id": "17:23.13",
+     "gloss": "his money",
+     "note": "'silver' as price: 'bought with his money'"
+    },
+    {
+     "id": "17:23.14",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "17:23.15",
+     "gloss": "male",
+     "sense": "I"
+    },
+    {
+     "id": "17:23.16",
+     "gloss": "among the men of"
+    },
+    {
+     "id": "17:23.17",
+     "gloss": "house of",
+     "sense": "5",
+     "note": "household"
+    },
+    {
+     "id": "17:23.18",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "17:23.19",
+     "gloss": "and circumcised",
+     "sense": "Qal",
+     "note": "wayyiqtol; the Qal of מול is active"
+    },
+    {
+     "id": "17:23.20",
+     "gloss": "-"
+    },
+    {
+     "id": "17:23.21",
+     "gloss": "flesh of",
+     "sense": "1"
+    },
+    {
+     "id": "17:23.22",
+     "gloss": "their foreskin",
+     "note": "construct with 3mp suffix"
+    },
+    {
+     "id": "17:23.23",
+     "gloss": "on the very",
+     "note": "עֶצֶם as 'very, same'"
+    },
+    {
+     "id": "17:23.24",
+     "gloss": "day",
+     "sense": "1"
+    },
+    {
+     "id": "17:23.25",
+     "gloss": "this"
+    },
+    {
+     "id": "17:23.26",
+     "gloss": "as",
+     "sense": "1"
+    },
+    {
+     "id": "17:23.27",
+     "gloss": "he had spoken",
+     "sense": "Pi",
+     "note": "Piel perfect, pluperfect sense in English"
+    },
+    {
+     "id": "17:23.28",
+     "gloss": "with him",
+     "sense": "1"
+    },
+    {
+     "id": "17:23.29",
+     "gloss": "God",
+     "sense": "3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:23.1",
+      "17:23.2"
+     ],
+     "english": "Then Abraham took",
+     "literal": "'and-took Abraham'"
+    },
+    {
+     "tokens": [
+      "17:23.3",
+      "17:23.4",
+      "17:23.5"
+     ],
+     "english": "his son Ishmael",
+     "literal": "'[obj] Ishmael his-son'; the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "17:23.6",
+      "17:23.7",
+      "17:23.8",
+      "17:23.9"
+     ],
+     "english": "and all those born in his house",
+     "literal": "'and-[obj] all born-of his-house'"
+    },
+    {
+     "tokens": [
+      "17:23.10",
+      "17:23.11",
+      "17:23.12",
+      "17:23.13"
+     ],
+     "english": "and all those bought with his money",
+     "literal": "'all purchase-of his-silver': acquired for silver"
+    },
+    {
+     "tokens": [
+      "17:23.14",
+      "17:23.15",
+      "17:23.16",
+      "17:23.17",
+      "17:23.18"
+     ],
+     "english": "every male among the people of Abraham's household",
+     "literal": "'all male among-men-of house-of Abraham'"
+    },
+    {
+     "tokens": [
+      "17:23.19",
+      "17:23.20",
+      "17:23.21",
+      "17:23.22"
+     ],
+     "english": "and he circumcised the flesh of their foreskin",
+     "literal": "'and-circumcised [obj] flesh-of their-foreskin'"
+    },
+    {
+     "tokens": [
+      "17:23.23",
+      "17:23.24",
+      "17:23.25"
+     ],
+     "english": "on that very day",
+     "literal": "'in-bone-of the-day the-this': on the same day"
+    },
+    {
+     "tokens": [
+      "17:23.26",
+      "17:23.27",
+      "17:23.28",
+      "17:23.29"
+     ],
+     "english": "as God had spoken with him",
+     "literal": "'as spoke with-him God'"
+    }
+   ],
+   "grammar": [
+    "וַיִּקַּח, וַיָּמׇל are wayyiqtol forms: they carry the narrative forward.",
+    "בְּעֶצֶם הַיּוֹם הַזֶּה: עֶצֶם 'bone, substance' is used for 'the very' (same) day.",
+    "The zaqef gadol after זָכָר sets 'every male' apart as a summary of the groups just listed, closed by the etnaḥta on אַבְרָהָם.",
+    "כַּאֲשֶׁר דִּבֶּר links the act to the command of 17:10-14: the obedience is exact."
+   ],
+   "note": "The Piel perfect דִּבֶּר after a narrative verb is rendered as a past perfect in English ('had spoken'). עֶצֶם is rendered 'very' following Rashi's sense of the same day, not a later one. Parse note: lemma מוּל; the pack lists root מול and no Qal sense number is separate from 'Qal'.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:23:1",
+     "relation": "follows",
+     "summary": "Rashi: 'on that same day on which he was commanded' — by day, not by night; he feared neither the nations nor the scoffers, nor that his enemies would say 'had we seen him we would not have let him circumcise'. The English 'on that very day' follows."
+    },
+    {
+     "anchor": "rashi:17:23:2",
+     "relation": "follows",
+     "summary": "Rashi: וַיָּמׇל is of the pattern וַיִּפְעַל, that is a wayyiqtol form (not a noun or a jussive). The English renders it as a narrative past."
+    },
+    {
+     "anchor": "radak:17:23:3",
+     "relation": "not-applicable",
+     "summary": "Radak: the verse includes both cutting and uncovering (מִילָה וּפְרִיעָה); a legal point beyond the plain wording."
+    },
+    {
+     "anchor": "radak:17:23:2",
+     "relation": "follows",
+     "summary": "Radak: כׇּל־זָכָר means both adults and children, 'every male' without age limit."
+    }
+   ],
+   "apparatus": [
+    "Onkelos renders מִקְנַת כַּסְפּוֹ as זְבִינֵי כַסְפֵּיהּ, 'those bought of his silver', as the English does."
+   ]
+  },
+  {
+   "ref": "17:24",
+   "english": "Now Abraham was ninety-nine years old when he was circumcised, in the flesh of his foreskin.",
+   "literal": "and-Abraham son-of ninety and-nine year in-being-circumcised-he flesh-of his-foreskin",
+   "tokens": [
+    {
+     "id": "17:24.1",
+     "gloss": "and Abraham"
+    },
+    {
+     "id": "17:24.2",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "idiom: 'son of N years' = N years old"
+    },
+    {
+     "id": "17:24.3",
+     "gloss": "ninety"
+    },
+    {
+     "id": "17:24.4",
+     "gloss": "and nine"
+    },
+    {
+     "id": "17:24.5",
+     "gloss": "years",
+     "note": "singular after the numeral"
+    },
+    {
+     "id": "17:24.6",
+     "gloss": "when he was circumcised",
+     "sense": "Niph",
+     "note": "Nifal infinitive construct with suffix"
+    },
+    {
+     "id": "17:24.7",
+     "gloss": "flesh of",
+     "sense": "1"
+    },
+    {
+     "id": "17:24.8",
+     "gloss": "his foreskin"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:24.1",
+      "17:24.2",
+      "17:24.3",
+      "17:24.4",
+      "17:24.5"
+     ],
+     "english": "Now Abraham was ninety-nine years old",
+     "literal": "'and-Abraham son-of ninety and-nine year'"
+    },
+    {
+     "tokens": [
+      "17:24.6"
+     ],
+     "english": "when he was circumcised",
+     "literal": "'in-being-circumcised-he'; Nifal is passive or reflexive"
+    },
+    {
+     "tokens": [
+      "17:24.7",
+      "17:24.8"
+     ],
+     "english": "in the flesh of his foreskin",
+     "literal": "'flesh-of his-foreskin': the accusative of respect (the part cut)"
+    }
+   ],
+   "grammar": [
+    "בֶּן־תִּשְׁעִים וָתֵשַׁע שָׁנָה: age is given as 'son of ninety and nine year'.",
+    "בְּהִמֹּלוֹ is the Nifal infinitive construct with בְּ and a suffix: 'when he was circumcised'.",
+    "The Nifal is followed by בְּשַׂר עׇרְלָתוֹ, a noun phrase that functions as an adverbial accusative: 'as to the flesh of his foreskin'.",
+    "The etnaḥta on שָׁנָה separates the age from the circumstance."
+   ],
+   "note": "The noun phrase after the Nifal is awkward; Radak explains it as an accusative of respect (like קְרוּעֵי בְגָדִים). The English keeps it as 'in the flesh of his foreskin'.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:24:1",
+     "relation": "follows",
+     "summary": "Rashi: בְּהִמֹּלוֹ is בְּהִפָּעֲלוֹ, like בְּהִבָּרְאָם (2:4): a Nifal, so the English says 'when he was circumcised'."
+    },
+    {
+     "anchor": "radak:17:24:2",
+     "relation": "follows",
+     "summary": "Radak: the Nifal does not govern an object, so בְּשַׂר עׇרְלָתוֹ is explained as the part affected, as in 'torn of garments'."
+    }
+   ],
+   "apparatus": []
+  },
+  {
+   "ref": "17:25",
+   "english": "and Ishmael his son was thirteen years old when he was circumcised in the flesh of his foreskin.",
+   "literal": "and-Ishmael his-son son-of three ten year in-being-circumcised-he [obj] flesh-of his-foreskin",
+   "tokens": [
+    {
+     "id": "17:25.1",
+     "gloss": "and Ishmael"
+    },
+    {
+     "id": "17:25.2",
+     "gloss": "his son",
+     "sense": "1"
+    },
+    {
+     "id": "17:25.3",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "idiom for age"
+    },
+    {
+     "id": "17:25.4",
+     "gloss": "three"
+    },
+    {
+     "id": "17:25.5",
+     "gloss": "ten"
+    },
+    {
+     "id": "17:25.6",
+     "gloss": "years"
+    },
+    {
+     "id": "17:25.7",
+     "gloss": "when he was circumcised",
+     "sense": "Niph",
+     "note": "Nifal infinitive construct"
+    },
+    {
+     "id": "17:25.8",
+     "gloss": "in",
+     "note": "אֵת as 'in respect of' (Radak: like מִן), or object marker (Rashi)"
+    },
+    {
+     "id": "17:25.9",
+     "gloss": "flesh of",
+     "sense": "1"
+    },
+    {
+     "id": "17:25.10",
+     "gloss": "his foreskin"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:25.1",
+      "17:25.2"
+     ],
+     "english": "and Ishmael his son",
+     "literal": "'and-Ishmael his-son'"
+    },
+    {
+     "tokens": [
+      "17:25.3",
+      "17:25.4",
+      "17:25.5",
+      "17:25.6"
+     ],
+     "english": "was thirteen years old",
+     "literal": "'son-of three ten year'"
+    },
+    {
+     "tokens": [
+      "17:25.7"
+     ],
+     "english": "when he was circumcised",
+     "literal": "'in-being-circumcised-he'"
+    },
+    {
+     "tokens": [
+      "17:25.8"
+     ],
+     "english": "in",
+     "literal": "אֵת here is not the plain object marker after a Nifal; Radak takes it as 'from, in respect of'"
+    },
+    {
+     "tokens": [
+      "17:25.9",
+      "17:25.10"
+     ],
+     "english": "the flesh of his foreskin",
+     "literal": "'flesh-of his-foreskin'"
+    }
+   ],
+   "grammar": [
+    "בֶּן־שְׁלֹשׁ עֶשְׂרֵה שָׁנָה: thirteen is 'three ten', both feminine to match שָׁנָה.",
+    "The same phrase as 17:24 recurs, but with אֵת before בְּשַׂר: a deliberate difference.",
+    "The Nifal בְּהִמֹּלוֹ cannot govern a direct object; hence אֵת is read as 'in respect of'.",
+    "The zaqef qaton on בְּהִמֹּלוֹ and tipḥa on אֵת set the object apart."
+   ],
+   "note": "The English does not translate the particle as 'the' object marker because the verb is passive. Rashi reads the added אֵת as marking that Ishmael needed extra cutting (פְּרִיעָה); Radak prefers 'in respect of'. The English follows Radak's reading and records Rashi's.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:25:1",
+     "relation": "records",
+     "summary": "Rashi (from Bereshit Rabbah): of Abraham 'et' is not said because he lacked only cutting of flesh, already pressed by use; Ishmael, a child, needed cutting and uncovering (פְּרִיעָה), hence אֵת. A homiletic reading of the particle; not adopted for the English."
+    },
+    {
+     "anchor": "radak:17:25:2",
+     "relation": "follows",
+     "summary": "Radak: this is clearer than the first; אֵת means 'from', as in 'they went out of (אֶת) the city'; the Nifal means 'circumcised in respect of the flesh of his foreskin'."
+    }
+   ],
+   "apparatus": [
+    "Radak 17:25:1 notes that Ishmael's age is derived from Abraham being eighty-six at his birth, and that thirteen is the age of obligation."
+   ]
+  },
+  {
+   "ref": "17:26",
+   "english": "On that very day Abraham was circumcised, and Ishmael his son.",
+   "literal": "in-bone-of the-day the-this was-circumcised Abraham and-Ishmael his-son",
+   "tokens": [
+    {
+     "id": "17:26.1",
+     "gloss": "on",
+     "note": "preposition בְּ"
+    },
+    {
+     "id": "17:26.2",
+     "gloss": "the day",
+     "sense": "1"
+    },
+    {
+     "id": "17:26.3",
+     "gloss": "this"
+    },
+    {
+     "id": "17:26.4",
+     "gloss": "was circumcised",
+     "sense": "Niph",
+     "note": "Nifal perfect, passive"
+    },
+    {
+     "id": "17:26.5",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "17:26.6",
+     "gloss": "and Ishmael"
+    },
+    {
+     "id": "17:26.7",
+     "gloss": "his son",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:26.1",
+      "17:26.2",
+      "17:26.3"
+     ],
+     "english": "On that very day",
+     "literal": "'in-bone-of the-day the-this'"
+    },
+    {
+     "tokens": [
+      "17:26.4",
+      "17:26.5"
+     ],
+     "english": "Abraham was circumcised",
+     "literal": "'was-circumcised Abraham'"
+    },
+    {
+     "tokens": [
+      "17:26.6",
+      "17:26.7"
+     ],
+     "english": "and Ishmael his son",
+     "literal": "'and-Ishmael his-son'"
+    }
+   ],
+   "grammar": [
+    "The adverbial phrase opens the verse, which gives it emphasis.",
+    "נִמּוֹל is the Nifal perfect of מוּל, with assimilation of the final letter of the prefix; it is singular and agrees with the first subject only.",
+    "The pashta, pashta on עֶצֶם: a doubled accent on a word that carries the main stress.",
+    "The etnaḥta falls on אַבְרָהָם, dividing the two subjects."
+   ],
+   "note": "The verb is singular and the second subject follows after the etnaḥta as an addition, so 'and Ishmael his son' is joined to it by a comma.",
+   "commentary": [
+    {
+     "anchor": "rashi:17:26:1",
+     "relation": "follows",
+     "summary": "Rashi: that same day, when Abraham was ninety-nine and Ishmael thirteen years old, they were circumcised. The English keeps 'on that very day'."
+    },
+    {
+     "anchor": "rashi:17:26:2",
+     "relation": "not-applicable",
+     "summary": "Rashi's comment on נִמּוֹל אַבְרָהָם וְיִשְׁמָעֵאל בְּנוֹ is empty in the text provided (only a colon)."
+    },
+    {
+     "anchor": "ibn-ezra:17:26:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'and not later': the act was not put off; there were three hundred eighteen born in his house, apart from those bought with money, and all were circumcised with him of their own will, so the text means that all hastened to do the will of God."
+    },
+    {
+     "anchor": "radak:17:26:2",
+     "relation": "follows",
+     "summary": "Radak: נִמּוֹל means 'by himself', as in 'Amasa did not guard himself'. The English keeps the passive and records the reflexive reading."
+    }
+   ],
+   "apparatus": [
+    "Ramban 17:26:1 disputes Rashi's note on the ages and says the verse tells the zeal of Abraham and his household."
+   ]
+  },
+  {
+   "ref": "17:27",
+   "english": "And all the men of his household, those born in the house and those bought with money from a foreigner, were circumcised with him.",
+   "literal": "and-all men-of his-house born-of house and-purchase-of silver from-with son-of foreign were-circumcised with-him",
+   "tokens": [
+    {
+     "id": "17:27.1",
+     "gloss": "and all",
+     "sense": "1"
+    },
+    {
+     "id": "17:27.2",
+     "gloss": "the men of"
+    },
+    {
+     "id": "17:27.3",
+     "gloss": "his house",
+     "sense": "5"
+    },
+    {
+     "id": "17:27.4",
+     "gloss": "those born of",
+     "note": "construct: 'one born of'"
+    },
+    {
+     "id": "17:27.5",
+     "gloss": "the house",
+     "sense": "1"
+    },
+    {
+     "id": "17:27.6",
+     "gloss": "and purchase of",
+     "sense": "1",
+     "note": "construct: 'bought with money'"
+    },
+    {
+     "id": "17:27.7",
+     "gloss": "money"
+    },
+    {
+     "id": "17:27.8",
+     "gloss": "from",
+     "sense": "4",
+     "note": "מֵאֵת, 'from with', that is 'from the hand of'"
+    },
+    {
+     "id": "17:27.9",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "idiom 'foreigner'"
+    },
+    {
+     "id": "17:27.10",
+     "gloss": "foreign",
+     "note": "'son of foreignness': a foreigner"
+    },
+    {
+     "id": "17:27.11",
+     "gloss": "were circumcised",
+     "sense": "Niph",
+     "note": "Nifal perfect, plural, passive"
+    },
+    {
+     "id": "17:27.12",
+     "gloss": "with him",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "17:27.1",
+      "17:27.2",
+      "17:27.3"
+     ],
+     "english": "And all the men of his household",
+     "literal": "'and-all men-of his-house'"
+    },
+    {
+     "tokens": [
+      "17:27.4",
+      "17:27.5"
+     ],
+     "english": "those born in the house",
+     "literal": "'born-of house': house-born slaves"
+    },
+    {
+     "tokens": [
+      "17:27.6",
+      "17:27.7"
+     ],
+     "english": "and those bought with money",
+     "literal": "'and-purchase-of silver'"
+    },
+    {
+     "tokens": [
+      "17:27.8",
+      "17:27.9",
+      "17:27.10"
+     ],
+     "english": "from a foreigner",
+     "literal": "'from-with son-of foreign': from a non-Israelite"
+    },
+    {
+     "tokens": [
+      "17:27.11",
+      "17:27.12"
+     ],
+     "english": "were circumcised with him",
+     "literal": "'were-circumcised with-him'"
+    }
+   ],
+   "grammar": [
+    "The subject is long and the verb stands last: נִמֹּלוּ אִתּוֹ closes the sentence and the paragraph.",
+    "יְלִיד בָּיִת and מִקְנַת כֶּסֶף are two appositional classes of household members.",
+    "מֵאֵת is a compound preposition, 'from with', that is 'from the possession of'.",
+    "The verb is plural, in agreement with the collective subject."
+   ],
+   "note": "The English line adds commas to keep the two classes apart; the Hebrew has only the conjunction וּ on the second class.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:17:27:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: נִמֹּלוּ is Nifal from the root נמל (like וְנִשְׁלוֹחַ סְפָרִים, Esther 3:13). The pack gives the root as מול; the data is kept, and the English reads the form as a passive."
+    },
+    {
+     "anchor": "radak:17:27:1",
+     "relation": "follows",
+     "summary": "Radak: נִמֹּלוּ אִתּוֹ means they were circumcised by Abraham; the root is נמ״ל."
+    }
+   ],
+   "apparatus": [
+    "Onkelos: 'those born of the house and those bought with silver from a gentile (בַּר עַמְמִין) were circumcised with him'."
+   ]
+  }
+ ]
+}
