@@ -1,0 +1,235 @@
+{
+  "unit": "noach-12",
+  "model": "opus",
+  "summary": "The English of 9:24, 9:26, 9:27 and 9:29 is sound, but 9:25 claims to follow Ibn Ezra while doing the opposite: he reads עֶבֶד עֲבָדִים as 'a slave like one of the slaves' and rejects the superlative, so 'the lowest of slaves' is replaced by 'a slave among slaves', with the phrases, grammar and summary corrected. Several notes misreport the commentators: Rashi does not identify the son of 9:24 as Canaan, Radak says the root yod of וַיִּיקֶץ is quiescent, Sforno reads לָמוֹ as God and Shem, and in 9:27 Rashi and Ibn Ezra agree that God is the subject of וְיִשְׁכֹּן, so it is not disputed. Rashi's 9:25 summary contained matter not in the comment. The phrases of 9:24 and 9:28 left English out of their fragments, the 9:27 grammar note on a 'dagesh-less' יַפְתְּ was false, and מֵאוֹת was given the sense 'hundredth'.",
+  "patches": [
+    {
+      "ref": "9:24",
+      "path": "phrases",
+      "value": [
+        {"tokens": ["9:24.1", "9:24.2", "9:24.3"], "english": "Noah woke from his wine", "literal": "'and-awoke Noah from-his-wine'"},
+        {"tokens": ["9:24.4", "9:24.5", "9:24.6", "9:24.7", "9:24.8", "9:24.9", "9:24.10"], "english": "and learned what his youngest son had done to him", "literal": "'and-knew [obj] what-did to-him his-son the-small'; the object marker has no English counterpart, and English puts the subject before the verb of the relative clause"}
+      ],
+      "severity": "error",
+      "reason": "The second phrase covered עָשָׂה לוֹ but its English was only 'and learned what', so 'had done to him' belonged to no phrase, and the third phrase stood out of the English order. The relative clause has to be one phrase."
+    },
+    {
+      "ref": "9:24",
+      "path": "token:9:24.1.note",
+      "value": "wayyiqtol of יקץ 'awake', a verb whose first root letter is yod: the prefix yod carries ḥireq and the root's yod is quiescent, written but not pronounced (Radak: וְיוֹ״ד הַשֹּׁרֶשׁ נֶעְלֶמֶת)",
+      "severity": "error",
+      "reason": "The note said the root's yod is 'retained (Radak)'. Radak says the opposite: the form has only the prefix yod sounded, and the root's yod is hidden (נֶעְלֶמֶת)."
+    },
+    {
+      "ref": "9:24",
+      "path": "token:9:24.7.sense",
+      "value": "Qal I.1",
+      "severity": "question",
+      "reason": "עָשָׂה with an object (אֲשֶׁר) and ל of the person is 'do (something) to someone', sense Qal I.1 'do'. Qal I.2 'deal' is the use with an adverb or with עִם/אֵת ('deal kindly with'), which this is not."
+    },
+    {
+      "ref": "9:24",
+      "path": "note",
+      "value": "הַקָּטָן is ambiguous: 'small', so 'youngest', or 'lesser, despised'. Ibn Ezra reads בְּנוֹ הַקָּטָן as Canaan, the youngest of Ham's sons (10:6), the suffix of בְּנוֹ referring to Ham; the English 'his youngest son' follows him and leaves 'his' open. Rashi reads הַקָּטָן as 'the unfit and despised' (Jeremiah 49:15), not of age; in his reading (see his comment on 9:25) the son is Ham. Radak, if the son is Ham, also takes הַקָּטָן as 'the lesser', since Ham was not the youngest. The text does not say what was done (Ibn Ezra).",
+      "severity": "error",
+      "reason": "The note said that Rashi and Ibn Ezra both take the son to be Canaan. Rashi does not: he reads הַקָּטָן as 'despised', and his comment on 9:25 has Noah address Ham as the doer ('cursed be your fourth son'). Only Ibn Ezra names Canaan."
+    },
+    {
+      "ref": "9:24",
+      "path": "commentary:ibn-ezra:9:24:2.summary",
+      "value": "Ibn Ezra: 'his youngest son' testifies that it was Canaan, for Scripture lists 'the sons of Ham: Cush, Egypt, Put and Canaan' (10:6); the suffix ו of בְּנוֹ refers back to Ham, mentioned before, and that is why Noah cursed Canaan. To say that Noah cursed his grandson because God had blessed his sons is the way of derash. The English 'his youngest son' leaves room for this reading.",
+      "severity": "error",
+      "reason": "The summary had the suffix of בְּנוֹ 'returning to them'. The pack's text reads הם הנזכר, singular 'the aforementioned', which is Ham (חם): Ibn Ezra's point is that 'his son' is Ham's son, Canaan."
+    },
+    {
+      "ref": "9:25",
+      "path": "english",
+      "value": "He said, \"Cursed be Canaan; a slave among slaves shall he be to his brothers.\"",
+      "severity": "error",
+      "reason": "'The lowest of slaves' is the superlative reading that Ibn Ezra, the normative commentator on עֶבֶד עֲבָדִים, rejects: without the article the chain means 'a slave like one of the slaves'; 'slave of the slaves' would need עֶבֶד הָעֲבָדִים. Rashi does not comment on the phrase, so Ibn Ezra decides it."
+    },
+    {
+      "ref": "9:25",
+      "path": "phrases",
+      "value": [
+        {"tokens": ["9:25.1"], "english": "He said", "literal": "'and-said'"},
+        {"tokens": ["9:25.2", "9:25.3"], "english": "Cursed be Canaan", "literal": "'cursed Canaan'; a verbless curse"},
+        {"tokens": ["9:25.4", "9:25.5"], "english": "a slave among slaves", "literal": "'slave-of slaves'; Ibn Ezra: 'a slave like one of the slaves', not 'slave of the slaves'"},
+        {"tokens": ["9:25.6"], "english": "shall he be", "literal": "'he-will-be'; the imperfect of a curse"},
+        {"tokens": ["9:25.7"], "english": "to his brothers", "literal": "'to-his-brothers'"}
+      ],
+      "severity": "error",
+      "reason": "The new English changes the fragments. The old phrases also gave יִהְיֶה the mark '-' though it has an English counterpart."
+    },
+    {
+      "ref": "9:25",
+      "path": "token:9:25.4.note",
+      "value": "construct before an indefinite plural: 'a slave of the class of slaves', one slave among them (Ibn Ezra); with the article, עֶבֶד הָעֲבָדִים, it would mean 'slave of the slaves'",
+      "severity": "error",
+      "reason": "The note called the chain a superlative, which Ibn Ezra rejects for this phrase."
+    },
+    {
+      "ref": "9:25",
+      "path": "grammar",
+      "value": [
+        "אָרוּר כְּנַעַן is a verbless curse: passive participle then the subject.",
+        "עֶבֶד עֲבָדִים is a construct chain of the same noun without the article. Ibn Ezra reads it as 'a slave like one of the slaves'; with the article it would mean 'slave of the slaves', as קֹדֶשׁ הַקֳּדָשִׁים (Exodus 26:33) differs from קֹדֶשׁ קָדָשִׁים (Leviticus 6:18).",
+        "יִהְיֶה is imperfect, not the short jussive יְהִי, but in a curse the sense is a wish or decree.",
+        "The etnaḥta under כְּנָעַן divides the curse from its content."
+      ],
+      "severity": "error",
+      "reason": "The second note made עֶבֶד עֲבָדִים a superlative 'like קֹדֶשׁ הַקֳּדָשִׁים'. Ibn Ezra's proof is the contrast: the indefinite קֹדֶשׁ קָדָשִׁים against the definite קֹדֶשׁ הַקֳּדָשִׁים, and עֶבֶד עֲבָדִים is indefinite."
+    },
+    {
+      "ref": "9:25",
+      "path": "note",
+      "value": "The English 'a slave among slaves' follows Ibn Ezra, the normative commentator on these words: עֶבֶד עֲבָדִים means 'a slave like one of the slaves'; 'slave of the slaves' would need the article. Radak reads 'slave to slaves': his brothers will be slaves too and he a slave to them, the more so to the sons of Shem and Japheth; Sforno reads a degree of servitude added for his sin. For לְאֶחָיו Ibn Ezra names Cush, Egypt and Put, Ham's sons; Rashi has Canaan serve the seed of Shem and Japheth.",
+      "severity": "error",
+      "reason": "The note claimed that 'lowest of slaves' follows Ibn Ezra; it contradicts him. The note now matches the new English."
+    },
+    {
+      "ref": "9:25",
+      "path": "commentary:ibn-ezra:9:25:1.summary",
+      "value": "Ibn Ezra: עֶבֶד עֲבָדִים means a slave like one of the slaves; had it been עֶבֶד הָעֲבָדִים, with the article, it would mean a slave to slaves. The proof is קֹדֶשׁ קָדָשִׁים (Leviticus 6:18) beside בְּקֹדֶשׁ הַקֳּדָשִׁים (Exodus 26:33). The English 'a slave among slaves' follows.",
+      "severity": "error",
+      "reason": "The summary said 'if it meant slave of slaves it would say עבד לעבדים'. Ibn Ezra says the reverse: had the text read עבד העבדים, the sense would be 'a slave to slaves'. It also claimed the superlative English followed him."
+    },
+    {
+      "ref": "9:25",
+      "path": "commentary:rashi:9:25:1",
+      "value": {
+        "relation": "records",
+        "summary": "Rashi: Noah says to Ham, 'You caused me not to father another, fourth son to serve me; cursed be your fourth son, to serve the seed of these elder ones (Shem and Japheth), on whom the burden of serving me now falls.' And what led Ham to castrate him? He told his brothers that Adam had two sons and one killed the other for the inheritance of the world, and our father has three and still seeks a fourth. 'His brothers' are then Shem and Japheth; the English 'his brothers' leaves this open."
+      },
+      "severity": "error",
+      "reason": "The summary said 'the Sages disagree on what Ham did (castrated or abused him)', which is not in this comment, and it left out Ham's argument to his brothers. The comment does bear on the plain sense of לְאֶחָיו (Canaan serves the seed of Shem and Japheth, against Ibn Ezra's Cush, Egypt and Put), so it is a reading to record, not 'not-applicable'."
+    },
+    {
+      "ref": "9:26",
+      "path": "note",
+      "value": "לָמוֹ is ambiguous. Ibn Ezra reads 'to them' as God and Shem: Canaan will be a slave to Him and to Shem, compelled to serve; Sforno likewise, to the God of Shem and to Shem's seed. Rashi and Radak take it as Shem's descendants. The English keeps 'to them' so that the antecedent stays open.",
+      "severity": "error",
+      "reason": "The note put Sforno with Rashi and Radak. Sforno reads 'to the God of Shem and to the seed of Shem' (Joshua 9:27), which is Ibn Ezra's reading."
+    },
+    {
+      "ref": "9:27",
+      "path": "grammar",
+      "value": [
+        "יַפְתְּ is a hifil jussive of פתה, 'make wide', shortened from יַפְתֶּה: the final ה falls away and the word ends in two consonants, with dagesh lene in the ת, as in יַרְדְּ (Isaiah 41:2, cited by Ibn Ezra and Radak). The verb plays on the name יֶפֶת.",
+        "The Hebrew has no object marker after אֱלֹהִים; the preposition ל marks Japheth: 'make wide for Japheth'.",
+        "The pashta and zaqef qaton set אֱלֹהִים apart as the subject of the first wish.",
+        "The refrain וִיהִי כְנַעַן עֶבֶד לָמוֹ repeats 9:26 word for word."
+      ],
+      "severity": "error",
+      "reason": "The first note called יַפְתְּ 'dagesh-less'. The ת has dagesh (יַפְתְּ); the shortened jussive is marked by the loss of the final ה and the closing cluster, not by a missing dagesh."
+    },
+    {
+      "ref": "9:27",
+      "path": "token:9:27.4.note",
+      "value": "jussive; the subject is God, carried over from the first wish (Rashi, Ibn Ezra, Radak; Onkelos 'may He make His Presence dwell')",
+      "severity": "error",
+      "reason": "'The subject is disputed' is not true of the commentators in the pack: Rashi, Ibn Ezra and Radak all make God the subject, and Onkelos renders so; none takes Japheth."
+    },
+    {
+      "ref": "9:27",
+      "path": "note",
+      "value": "The subject of וְיִשְׁכֹּן is not named. Rashi, Ibn Ezra and Radak agree that it is God, who will dwell in the tents of Shem (Rashi: rest His Presence on Israel), and Onkelos renders 'may He make His Presence dwell'; the English 'he' continues the subject of the first wish, God. Rashi's midrash: though Cyrus, a descendant of Japheth, built the Second Temple, the Presence rested only in the First, built by Solomon of Shem. Sforno reads the tents of Shem as houses of study.",
+      "severity": "error",
+      "reason": "The note called the subject ambiguous between Japheth and God and said the English keeps 'he' for that ambiguity. Both normative commentators agree on God, so the English follows them and the note must say so."
+    },
+    {
+      "ref": "9:27",
+      "path": "commentary:rashi:9:27:2.summary",
+      "value": "Rashi: He (God) will rest His Presence on Israel. The Sages' midrash: although God enlarged Japheth, for Cyrus, of Japheth's line, built the Second Temple, the Presence did not rest in it; it rested in the First Temple, built by Solomon of Shem's line. The English 'he' takes God as the subject.",
+      "severity": "error",
+      "reason": "The ruling is 'follows' but the summary said the English 'leaves the subject open'; Rashi's reading fixes the subject as God, and the English follows it."
+    },
+    {
+      "ref": "9:27",
+      "path": "commentary:ibn-ezra:9:27:2.summary",
+      "value": "Ibn Ezra: Canaan will be a slave to Shem and Japheth and to his brothers as well; so he is a slave to the world, since from these the whole earth was spread out; and this came about many years after the flood.",
+      "severity": "question",
+      "reason": "The summary rendered עבד עולם 'a slave forever'. Ibn Ezra's reason, כי מאלה נפצה כל הארץ, makes it 'a slave to the world', to all the peoples descended from these three; Ramban reads Canaan's servitude 'לכל העולם' in the same way."
+    },
+    {
+      "ref": "9:28",
+      "path": "english",
+      "value": "After the flood Noah lived three hundred and fifty years.",
+      "severity": "style",
+      "reason": "Keeps the Hebrew order, time phrase before the number, so that the phrases can follow the tokens."
+    },
+    {
+      "ref": "9:28",
+      "path": "phrases",
+      "value": [
+        {"tokens": ["9:28.1", "9:28.2", "9:28.3", "9:28.4"], "english": "After the flood Noah lived", "literal": "'and-lived Noah after the-flood'; English puts the time phrase first"},
+        {"tokens": ["9:28.5", "9:28.6", "9:28.7", "9:28.8", "9:28.9"], "english": "three hundred and fifty years", "literal": "'three hundred year and-fifty year'"}
+      ],
+      "severity": "error",
+      "reason": "The first phrase covered אַחַר הַמַּבּוּל but its English was only 'Noah lived'; 'after the flood' stood at the end of the line outside every phrase."
+    },
+    {
+      "ref": "9:28",
+      "path": "note",
+      "value": "The English puts 'after the flood' at the head of the sentence; the literal keeps the Hebrew order.",
+      "severity": "style",
+      "reason": "Matches the new English."
+    },
+    {
+      "ref": "9:28",
+      "path": "grammar",
+      "value": [
+        "וַיְחִי is the wayyiqtol of חיה in its short form, for וַיִּחְיֶה.",
+        "The number is in two parts, each followed by the singular noun: שְׁלֹשׁ מֵאוֹת שָׁנָה וַחֲמִשִּׁים שָׁנָה, 'three hundred year and fifty year'; שָׁנָה is repeated after each part.",
+        "מַבּוּל is used of the flood only, here with the article.",
+        "The etnaḥta under הַמַּבּוּל separates the time marker from the number."
+      ],
+      "severity": "error",
+      "reason": "The second note spoke of a 'noun-less order', which is false: the noun שָׁנָה follows each part of the number. The first note's 'short form with the conjunction' is also clarified: the short form is the apocope of וַיִּחְיֶה."
+    },
+    {
+      "ref": "9:28",
+      "path": "token:9:28.6.sense",
+      "value": "",
+      "severity": "error",
+      "reason": "Sense 3 of the entry is 'hundredth', which does not fit מֵאוֹת in 'three hundred'; the pack prints no sense for the cardinal, so the sense is removed."
+    },
+    {
+      "ref": "9:28",
+      "path": "token:9:28.6.note",
+      "value": "plural of מֵאָה, 'hundreds': שְׁלֹשׁ מֵאוֹת 'three hundred'. The entry's only printed sense, '3 hundredth', does not fit, so no sense is given.",
+      "severity": "error",
+      "reason": "Records the removal of the sense."
+    },
+    {
+      "ref": "9:29",
+      "path": "token:9:29.6.sense",
+      "value": "",
+      "severity": "error",
+      "reason": "Sense 3 of the entry is 'hundredth', which does not fit מֵאוֹת in 'nine hundred'; the pack prints no sense for the cardinal, so the sense is removed."
+    },
+    {
+      "ref": "9:29",
+      "path": "token:9:29.6.note",
+      "value": "plural of מֵאָה, 'hundreds': תְּשַׁע מֵאוֹת 'nine hundred'. The entry's only printed sense, '3 hundredth', does not fit, so no sense is given.",
+      "severity": "error",
+      "reason": "Records the removal of the sense."
+    }
+  ],
+  "verdicts": [
+    {"anchor": "rashi:9:24:1", "verdict": "contradicts", "comment": "Rashi reads הַקָּטָן as 'despised', not 'youngest'. The English stands because Ibn Ezra, the other normative commentator, reads it of age (Canaan, Ham's youngest son); where the two differ the English follows one and records the other, as the note now does."},
+    {"anchor": "ibn-ezra:9:24:1", "verdict": "consistent", "comment": "The English, like Scripture, does not say what was done."},
+    {"anchor": "ibn-ezra:9:24:2", "verdict": "consistent", "comment": "'His youngest son' fits Canaan as Ham's youngest, with 'his' open."},
+    {"anchor": "rashi:9:25:1", "verdict": "consistent", "comment": "The literal 'his brothers' admits Rashi's Shem and Japheth."},
+    {"anchor": "ibn-ezra:9:25:1", "verdict": "contradicts", "comment": "'The lowest of slaves' is the superlative he rejects; patched to 'a slave among slaves'."},
+    {"anchor": "ibn-ezra:9:25:2", "verdict": "consistent"},
+    {"anchor": "rashi:9:26:1", "verdict": "consistent"},
+    {"anchor": "rashi:9:26:2", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:9:26:1", "verdict": "consistent", "comment": "'To them' admits God and Shem."},
+    {"anchor": "rashi:9:27:1", "verdict": "consistent"},
+    {"anchor": "rashi:9:27:2", "verdict": "consistent", "comment": "The English 'he' continues God, the subject of the first wish; the notes now say so."},
+    {"anchor": "rashi:9:27:3", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:9:27:1", "verdict": "consistent"},
+    {"anchor": "ibn-ezra:9:27:2", "verdict": "consistent"}
+  ]
+}
