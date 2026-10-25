@@ -290,7 +290,7 @@ Hebrew (MAM): אַבְרָ֖ם יָשַׁ֣ב בְּאֶֽרֶץ־כְּנָ֑ע
 
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
 ### `bdb:a.bl.ab` אֹ֫הֶל (n.m) root אהל: tent
 - `1` tent
@@ -624,7 +624,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:t.cu.ac` רְכוּשׁ (n.m) root רכשׁ: property, goods
 
-### `bdb:t.dk.aa` רֹעִי (vb) root רעה: pasture, tend, graze
+### `bdb:t.dk.aa` רָעָה (vb) root רעה: pasture, tend, graze
 
 ### `bdb:u.bm.aa` שְׂמֹאל (n.[m.]) root שׂמאל: the left
 - `1` left

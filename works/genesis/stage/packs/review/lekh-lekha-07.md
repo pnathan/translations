@@ -629,7 +629,7 @@ Commentary rulings:
 
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
 ### `bdb:a.bx.an` אֵלוֹן (n.[f.]) root אול: terebinth
 

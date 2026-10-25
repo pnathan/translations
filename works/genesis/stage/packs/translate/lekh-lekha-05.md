@@ -195,7 +195,7 @@ Variants:
 
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
 ### `bdb:a.bl.ac` אָהַל (vb. denom) root אהל: tent, move tent
 - `Pi` Pi pitch one’s tent

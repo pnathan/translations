@@ -154,7 +154,7 @@ Paragraph mark after this verse: ס
 
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
 - `b` these, those

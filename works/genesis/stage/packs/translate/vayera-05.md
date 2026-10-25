@@ -1,0 +1,805 @@
+# Translation pack: genesis vayera-05 (Genesis 18:33–19:7)
+
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/vayera-05.json`. Check: `go run ./cmd/tr check genesis vayera-05`.
+
+## Genesis 18:33
+
+Hebrew (MAM): וַיֵּ֣לֶךְ יְהֹוָ֔ה כַּאֲשֶׁ֣ר כִּלָּ֔ה לְדַבֵּ֖ר אֶל־אַבְרָהָ֑ם וְאַבְרָהָ֖ם שָׁ֥ב לִמְקֹמֽוֹ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 18:33.1 | וַיֵּ֣לֶךְ | וַ + יֵּ֣לֶךְ | ו: and + יָלַךְ `bdb:e.bn.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | הלך | munaḥ |
+| 18:33.2 | יְהֹוָ֔ה | יְהוָ֔ה | יהוה `bdb:e.az.ae` | noun: proper name | הוה | zaqef qaton (disjunctive) |
+| 18:33.3 | כַּאֲשֶׁ֣ר | כַּ + אֲשֶׁ֣ר | כ: like, as + כַּאֲשֶׁר `bdb:k.ab.ab` | preposition · particle: relative |  | munaḥ |
+| 18:33.4 | כִּלָּ֔ה | כִּלָּ֔ה | כָּלָה `bdb:k.bk.aa` | verb: piel, perfect (qatal), 3rd person, masculine, singular | כלה | zaqef qaton (disjunctive) |
+| 18:33.5 | לְדַבֵּ֖ר | לְ + דַבֵּ֖ר | ל: to, for + דָבַר `bdb:d.ai.aa` | preposition · verb: piel, infinitive construct | דבר | tipḥa (disjunctive) |
+| 18:33.6 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 18:33.7 | אַבְרָהָ֑ם | אַבְרָהָ֑ם | אַבְרָהָם `bdb:a.ae.aw` | noun: proper name | אבה | etnaḥta (disjunctive) |
+| 18:33.8 | וְאַבְרָהָ֖ם | וְ + אַבְרָהָ֖ם | ו: and + אַבְרָהָם `bdb:a.ae.aw` | conjunction · noun: proper name | אבה | tipḥa (disjunctive) |
+| 18:33.9 | שָׁ֥ב | שָׁ֥ב | שׁוּב `bdb:v.bn.aa` | verb: qal, perfect (qatal), 3rd person, masculine, singular | שׁוב | merkha |
+| 18:33.10 | לִמְקֹמֽוֹ׃ | לִ + מְקֹמֽ + וֹ | ל: to, for + מָקוֹם `bdb:s.av.am` +  | preposition · noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | קום | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:18:33:1` Rashi **normative** on 18:33.1 18:33.2 «וַיֵּ֣לֶךְ יְהֹוָ֔ה» (matched; filed at 18:33) DH «וילך ה' וגו'.»: כֵּיוָן שֶׁנִּשְׁתַּתֵּק הַסָּנֵגוֹר הָלַךְ לוֹ הַדַּיָּן:
+- `rashi:18:33:2` Rashi **normative** on 18:33.8 18:33.9 18:33.10 «וְאַבְרָהָ֖ם שָׁ֥ב לִמְקֹמֽוֹ׃» (matched; filed at 18:33) DH «ואברהם שב למקומו.»: נִסְתַּלֵּק הַדַּיָּן נִסְתַּלֵּק הַסָּנֵגוֹר, וְהַקָּטֵיגוֹר מְקַטְרֵג וּלְפִיכָךְ וַיָּבֹאוּ שְׁנֵי הַמַּלְאָכִים סְדֹמָה, לְהַשְׁחִית:
+- `ibn-ezra:18:33:1` Ibn Ezra **normative** on 18:33.8 18:33.9 18:33.10 «וְאַבְרָהָ֖ם שָׁ֥ב לִמְקֹמֽוֹ׃» (matched; filed at 18:33) DH «ואברהם שב למקומו.»: אל חברון, וזאת המראה היתה במקום שהלך אברהם לשלוח המלאכים ומשם ישקיף על פני סדום ואעפ"י שהוא כתוב "וישכם אברהם בבקר וישקף על פני סדום" (בראשית יט כז כח) אחר צאת השמש היה כי לא נהפכה סדום בלילה כי כן העיד הכתוב:
+- `radak:18:33:1` Radak on 18:33.1 18:33.2 «וַיֵּ֣לֶךְ יְהֹוָ֔ה» (matched; filed at 18:33) DH «וַיֵּלֶךְ ה׳.»: וְנִסְתַּלֵּק כְּבוֹדוֹ מֵעָלָיו, וְנִרְאָה לוֹ מִתּוֹךְ הַמַּרְאָה שֶׁשָּׁב לִמְקוֹמוֹ, בַּמָּקוֹם שֶׁבָּאָה אֵלָיו הַנְּבוּאָה, וְאַחַר שֶׁכָּלְתָה הַמַּרְאָה מָצָא עַצְמוֹ בְּבֵיתוֹ בַּמָּקוֹם שֶׁהָיָה יוֹשֵׁב שָׁם.
+- `onkelos:18:33:1` Targum Onkelos on whole 18:33 (version; filed at 18:33): וְאִסְתַּלַּק יְקָרָא דַיְיָ כַּד שֵׁצִי לְמַלָּלָא עִם אַבְרָהָם וְאַבְרָהָם תָּב לְאַתְרֵיהּ:
+- `sforno:18:33:1` Sforno on 18:33.1 18:33.2 «וַיֵּ֣לֶךְ יְהֹוָ֔ה» (matched; filed at 18:33) DH «וַיֵּלֶךְ ה'.»: הִמְתִּין שָׁם אַבְרָהָם וְלֹא הִסְפִּיק כַּוָּנָתוֹ לִנְבוּאָה עַד שֶׁנִּסְתַּלְּקָה שְׁכִינָה, עַל הֵפֶךְ "וַיֵּצֵא קַיִן מִלִּפְנֵי ה'" (בראשית ד:טז).
+- `sforno:18:33:2` Sforno on 18:33.8 18:33.9 «וְאַבְרָהָ֖ם שָׁ֥ב» (matched; filed at 18:33) DH «וְאַבְרָהָם שָׁב.»: שָׁב מִן הַמָּקוֹם שֶׁלִּוָּה שָׁם הַמַּלְאָכִים, שֶׁשָּׁם נִתְיַחֵד עִמּוֹ הַדִּבּוּר.
+- `sforno:18:33:3` Sforno on 18:33.10 «לִמְקֹמֽוֹ׃» (matched; filed at 18:33) DH «לִמְקוֹמוֹ.»: אֶל בֵּיתוֹ.
+
+## Genesis 19:1
+
+Hebrew (MAM): וַ֠יָּבֹ֠אוּ שְׁנֵ֨י הַמַּלְאָכִ֤ים סְדֹ֙מָה֙ בָּעֶ֔רֶב וְל֖וֹט יֹשֵׁ֣ב בְּשַֽׁעַר־סְדֹ֑ם וַיַּרְא־לוֹט֙ וַיָּ֣קׇם לִקְרָאתָ֔ם וַיִּשְׁתַּ֥חוּ אַפַּ֖יִם אָֽרְצָה׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 19:1.1 | וַ֠יָּבֹ֠אוּ | וַ֠ + יָּבֹאוּ | ו: and + בּוֹא `bdb:b.ap.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | בוא | telisha gedola, telisha gedola (disjunctive) |
+| 19:1.2 | שְׁנֵ֨י | שְׁנֵ֨י | שְׁנַ֫יִם `bdb:v.em.ab` | adjective: cardinal number, masculine, dual, construct | שׁנה | qadma |
+| 19:1.3 | הַמַּלְאָכִ֤ים | הַ + מַּלְאָכִ֤ים | ה: the + מַלְאָךְ `bdb:l.af.ab` | particle: definite article · noun: common, masculine, plural, absolute | לאך | mahpakh |
+| 19:1.4 | סְדֹ֙מָה֙ | סְדֹ֨מָ + ה֙ | סְדֹם `bdb:o.aj.ad` +  | noun: proper name · suffix: directional he |  | pashta, pashta (disjunctive) |
+| 19:1.5 | בָּעֶ֔רֶב | בָּ + עֶ֔רֶב | ב: in, with, by + עֶ֫רֶב `bdb:p.ff.ab` | preposition: with definite article · noun: common, masculine, singular, absolute | ערב | zaqef qaton (disjunctive) |
+| 19:1.6 | וְל֖וֹט | וְ + ל֖וֹט | ו: and + לוֹט `bdb:l.ax.ad` | conjunction · noun: proper name |  | tipḥa (disjunctive) |
+| 19:1.7 | יֹשֵׁ֣ב | יֹשֵׁ֣ב | יָשַׁב `bdb:j.ds.aa` | verb: qal, participle active, masculine, singular, absolute | ישׁב | munaḥ |
+| 19:1.8 | בְּשַֽׁעַר־ | בְּ + שַֽׁעַר | ב: in, with, by + שַׁ֫עַר `bdb:v.fa.ab` | preposition · noun: common, masculine, singular, construct | שׁער |  |
+| 19:1.9 | סְדֹ֑ם | סְדֹ֑ם | סְדֹם `bdb:o.aj.ad` | noun: proper name |  | etnaḥta (disjunctive) |
+| 19:1.10 | וַיַּרְא־ | וַ + יַּרְא | ו: and + רָאָה `bdb:t.ab.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | ראה |  |
+| 19:1.11 | לוֹט֙ | לוֹט֙ | לוֹט `bdb:l.ax.ad` | noun: proper name |  | pashta (disjunctive) |
+| 19:1.12 | וַיָּ֣קׇם | וַ + יָּ֣קָם | ו: and + קוּם `bdb:s.av.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | קום | munaḥ |
+| 19:1.13 | לִקְרָאתָ֔ם | לִ + קְרָאתָ֔ + ם | ל: to, for + קִרְאָה `bdb:s.cz.aa` +  | preposition · verb: qal, infinitive construct · suffix: pronominal, 3rd person, masculine, plural | קרא | zaqef qaton (disjunctive) |
+| 19:1.14 | וַיִּשְׁתַּ֥חוּ | וַ + יִּשְׁתַּ֥חוּ | ו: and + שָׁחָה `bdb:v.cg.aa` | conjunction · verb: hitpael, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | שׁחה | merkha |
+| 19:1.15 | אַפַּ֖יִם | אַפַּ֖יִם | אַף `bdb:a.em.ab` | noun: common, masculine, dual, absolute | אנף | tipḥa (disjunctive) |
+| 19:1.16 | אָֽרְצָה׃ | אָֽרְצָ + ה | אֶ֫רֶץ `bdb:a.fx.aa` +  | noun: common, both genders, singular, absolute · suffix: directional he | ארץ | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:19:1:1` Rashi **normative** on 19:1.2 «שְׁנֵ֨י» (matched; filed at 19:1) DH «שני.»: א' לְהַשְׁחִית אֶת סְדוֹם וא' לְהַצִּיל אֶת לוֹט, וְהוּא אוֹתוֹ שֶׁבָּא לְרַפְּאוֹת אַבְרָהָם, וְהַשְּׁלִישִׁי שֶׁבָּא לְבָשֵּׂר אֶת שָׂרָה, כֵּיוָן שֶׁעָשָׂה שְׁלִיחוּתוֹ נִסְתַּלֵּק לוֹ:
+- `rashi:19:1:2` Rashi **normative** on 19:1.3 «הַמַּלְאָכִ֤ים» (matched; filed at 19:1) DH «המלאכים.»: וּלְהַלָּן קְרָאָם אֲנָשִׁים? כְּשֶׁהָיְתָה שְׁכִינָה עִמָּהֶם קְרָאָם אֲנָשִׁים; דָּבָר אַחֵר אֵצֶל אַבְרָהָם שֶׁכֹּחוֹ גָדוֹל וְהָיוּ הַמַּלְאָכִים תְּדִירִין אֶצְלוֹ כַּאֲנָשִׁים קְרָאָם אֲנָשִׁים, וְאֵצֶל לוֹט קְרָאָם מַלְאָכִים (בראשית רבה):
+- `rashi:19:1:3` Rashi **normative** on 19:1.5 «בָּעֶ֔רֶב» (matched; filed at 19:1) DH «בערב.»: וְכִי כָל כָּךְ שָׁהוּ הַמַּלְאָכִים מֵחֶבְרוֹן לִסְדוֹם? אֶלָּא מַלְאֲכֵי רַחֲמִים הָיוּ וּמַמְתִּינִים שֶׁמָּא יוּכַל אַבְרָהָם לְלַמֵּד עֲלֵיהֶם סַנֵּגוֹרְיָא:
+- `rashi:19:1:4` Rashi **normative** on 19:1.6 19:1.7 19:1.8 19:1.9 «וְל֖וֹט יֹשֵׁ֣ב בְּשַֽׁעַר סְדֹ֑ם» (matched; filed at 19:1) DH «ולוט ישב בשער סדום.»: ישב כְּתִיב, אוֹתוֹ הַיּוֹם מִנּוּהוּ שׁוֹפֵט עֲלֵיהֶם (בראשית רבה):
+- `rashi:19:1:5` Rashi **normative** on 19:1.10 19:1.11 «וַיַּרְא לוֹט֙» (matched; filed at 19:1) DH «וירא לוט וגו'.»: מִבֵּית אַבְרָהָם לָמַד לַחֲזֹר עַל הָאוֹרְחִים:
+- `ibn-ezra:19:1:1` Ibn Ezra **normative** on 19:1.5 «בָּעֶ֔רֶב» (matched; filed at 19:1) DH «ופי' בערב.»: בפסח מצרים:
+- `ibn-ezra:19:1:2` Ibn Ezra **normative** on 19:1.15 «אַפַּ֖יִם» (matched; filed at 19:1) DH «אפים.»: עד שם אפיו בארץ והם הנחירים שהם גבוהים על הפנים:
+- `radak:19:1:1` Radak on 19:1.1 19:1.2 19:1.3 «וַ֠יָּבֹ֠אוּ שְׁנֵ֨י הַמַּלְאָכִ֤ים» (matched; filed at 19:1) DH «וַיָּבֹאוּ שְׁנֵי הַמַּלְאָכִים.»: הֵם שְׁנֵי הָאֲנָשִׁים שֶׁזָּכַר. וְאָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה (בראשית רבה נ): לָמָּה קוֹרֵא אוֹתָם אֲנָשִׁים אֵצֶל אַבְרָהָם וּמַלְאָכִים אֵצֶל לוֹט? וְאָמְרוּ, אַבְרָהָם שֶׁכֹּחוֹ יָפֶה וְכוּ׳, וּכְמוֹ שֶׁכָּתַבְנוּ וּפֵרַשְׁנוּ לְמַעְלָה.
+- `radak:19:1:2` Radak on 19:1.10 19:1.11 19:1.12 19:1.13 «וַיַּרְא לוֹט֙ וַיָּ֣קׇם לִקְרָאתָ֔ם» (matched; filed at 19:1) DH «וַיַּרְא לוֹט וַיָּקָם לִקְרָאתָם.»: לָמַד הָאַכְסַנְיָא מֵאַבְרָהָם אָבִינוּ.
+- `onkelos:19:1:1` Targum Onkelos on whole 19:1 (version; filed at 19:1): וְעַלּוּ תְּרֵין מַלְאָכַיָּא לִסְדוֹם בְּרַמְשָׁא וְלוֹט יָתֵב בְּתַרְעָא (נ"י בִּתְרַע) דִסְדוֹם וַחֲזָא לוֹט וְקָם לְקַדָּמוּתְהוֹן וּסְגִיד עַל אַפּוֹהִי עַל אַרְעָא:
+- `sforno:19:1:1` Sforno on 19:1.1 19:1.2 19:1.3 19:1.4 19:1.5 «וַ֠יָּבֹ֠אוּ שְׁנֵ֨י הַמַּלְאָכִ֤ים סְדֹ֙מָה֙ בָּעֶ֔רֶב» (matched; filed at 19:1) DH «וַיָּבֹאוּ שְׁנֵי הַמַּלְאָכִים סְדֹמָה בָּעֶרֶב.»: אַף עַל פִּי שֶׁהִגִּיעוּ שָׁם בְּלִי אִחוּר, כְּאָמְרָם (ברכות ד:) גַּבְרִיאֵל בִּשְׁתַּיִם מִיכָאֵל בְּאַחַת, וְכֵן הוֹרָה לְמַעְלָה בְּאָמְרוֹ "וַיֵּלְכוּ סְדֹמָה" (בראשית יח:כב), מִכָּל מָקוֹם לֹא נִכְנְסוּ בִּסְדוֹם עַד הָעֶרֶב, שֶׁכְּבָר נִסְתַּתְּמוּ טַעֲנוֹת אַבְרָהָם הַמֵּלִיץ וְנִגְמַר הַדִּין.
+- `sforno:19:1:2` Sforno on 19:1.12 19:1.13 «וַיָּ֣קׇם לִקְרָאתָ֔ם» (matched; filed at 19:1) DH «וַיָּקָם לִקְרָאתָם.»: פֶּן יָלִינוּ בָּרְחוֹב, כְּמוֹ שֶׁהָיָה אָז הַמִּנְהָג בִּשְׁאָר הֶעָרִים כְּשֶׁאֵין מַכְנִיס אוֹרְחִים, וְיַזִּיקוּ לָהֶם רִשְׁעֵי הָעִיר:
+- `sforno:19:1:3` Sforno on 19:1.14 19:1.15 19:1.16 «וַיִּשְׁתַּ֥חוּ אַפַּ֖יִם אָֽרְצָה׃» (matched; filed at 19:1) DH «וַיִּשְׁתַּחוּ אַפַּיִם אָרְצָה.»: כִּי הָיָה תָּאֳרָם נוֹרָא בְּלִי סָפֵק.
+
+## Genesis 19:2
+
+Hebrew (MAM): וַיֹּ֜אמֶר הִנֶּ֣ה נָּא־אֲדֹנַ֗י ס֣וּרוּ נָ֠א אֶל־בֵּ֨ית עַבְדְּכֶ֤ם וְלִ֙ינוּ֙ וְרַחֲצ֣וּ רַגְלֵיכֶ֔ם וְהִשְׁכַּמְתֶּ֖ם וַהֲלַכְתֶּ֣ם לְדַרְכְּכֶ֑ם וַיֹּאמְר֣וּ לֹּ֔א כִּ֥י בָרְח֖וֹב נָלִֽין׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 19:2.1 | וַיֹּ֜אמֶר | וַ + יֹּ֜אמֶר | ו: and + אָמַר `bdb:a.ea.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | אמר | geresh (disjunctive) |
+| 19:2.2 | הִנֶּ֣ה | הִנֶּ֣ה | הִנֵּה `bdb:e.bz.ab` | particle: demonstrative |  | munaḥ |
+| 19:2.3 | נָּא־ | נָּא | נָא `bdb:n.ab.aa` | particle: interjection |  |  |
+| 19:2.4 | אֲדֹנַ֗י | אֲדֹנַ֗ + י | אָדוֹן `bdb:a.be.ac` +  | noun: common, masculine, plural, construct · suffix: pronominal, 1st person, common, singular | אדן | revia (disjunctive) |
+| 19:2.5 | ס֣וּרוּ | ס֣וּרוּ | סוּר `bdb:o.au.aa` | verb: qal, imperative, 2nd person, masculine, plural | סור | munaḥ |
+| 19:2.6 | נָ֠א | נָ֠א | נָא `bdb:n.ab.aa` | particle: exhortation |  | telisha gedola (disjunctive) |
+| 19:2.7 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 19:2.8 | בֵּ֨ית | בֵּ֨ית | בַּ֫יִת `bdb:b.bp.aa` | noun: common, masculine, singular, construct |  | qadma |
+| 19:2.9 | עַבְדְּכֶ֤ם | עַבְדְּ + כֶ֤ם | עֶ֫בֶד `bdb:p.ac.ab` +  | noun: common, masculine, singular, construct · suffix: pronominal, 2nd person, masculine, plural | עבד | mahpakh |
+| 19:2.10 | וְלִ֙ינוּ֙ | וְ + לִ֨ינוּ֙ | ו: and + לוּן `bdb:l.az.aa` | conjunction · verb: qal, imperative, 2nd person, masculine, plural | לון | pashta, pashta (disjunctive) |
+| 19:2.11 | וְרַחֲצ֣וּ | וְ + רַחֲצ֣וּ | ו: and + רָחַץ `bdb:t.ce.aa` | conjunction · verb: qal, imperative, 2nd person, masculine, plural | רחץ | munaḥ |
+| 19:2.12 | רַגְלֵיכֶ֔ם | רַגְלֵי + כֶ֔ם | רֶ֫גֶל `bdb:t.ar.aa` +  | noun: common, feminine, dual, construct · suffix: pronominal, 2nd person, masculine, plural | רגל | zaqef qaton (disjunctive) |
+| 19:2.13 | וְהִשְׁכַּמְתֶּ֖ם | וְ + הִשְׁכַּמְתֶּ֖ם | ו: and + שָׁכַם `bdb:v.dd.ag` | conjunction · verb: hifil, perfect (qatal), 2nd person, masculine, plural | שׁכם | tipḥa (disjunctive) |
+| 19:2.14 | וַהֲלַכְתֶּ֣ם | וַ + הֲלַכְתֶּ֣ם | ו: and + הָלַךְ `bdb:e.bn.aa` | conjunction · verb: qal, perfect (qatal), 2nd person, masculine, plural | הלך | munaḥ |
+| 19:2.15 | לְדַרְכְּכֶ֑ם | לְ + דַרְכְּ + כֶ֑ם | ל: to, for + דֶּ֫רֶךְ `bdb:d.ci.ab` +  | preposition · noun: common, both genders, singular, construct · suffix: pronominal, 2nd person, masculine, plural | דרך | etnaḥta (disjunctive) |
+| 19:2.16 | וַיֹּאמְר֣וּ | וַ + יֹּאמְר֣וּ | ו: and + אָמַר `bdb:a.ea.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | אמר | munaḥ |
+| 19:2.17 | לֹּ֔א | לֹּ֔א | לֹא `bdb:l.ab.aa` | particle: negative |  | zaqef qaton (disjunctive) |
+| 19:2.18 | כִּ֥י | כִּ֥י | כִּי `bdb:k.bg.aa` | conjunction |  | merkha |
+| 19:2.19 | בָרְח֖וֹב | בָ + רְח֖וֹב | ב: in, with, by + רְחוֹב `bdb:t.bw.af` | preposition: with definite article · noun: common, feminine, singular, absolute | רחב | tipḥa (disjunctive) |
+| 19:2.20 | נָלִֽין׃ | נָלִֽין | לוּן `bdb:l.az.aa` | verb: qal, imperfect (yiqtol), 1st person, common, plural | לון | silluq (disjunctive) |
+
+- 19:2.14: WLC note v: We read one or more vowels in L differently from BHS.
+
+### Commentary anchored to this verse
+
+- `rashi:19:2:1` Rashi **normative** on 19:2.2 19:2.3 19:2.4 «הִנֶּ֣ה נָּא אֲדֹנַ֗י» (matched; filed at 19:2) DH «הנה נא אדני.»: הִנֵּה נָא אַתֶּם אֲדוֹנִים לִי אַחַר שֶׁעֲבַרְתֶּם עָלַי. דָּבָר אַחֵר הִנֵּה נָא צְרִיכִים אַתֶּם לָתֵת לֵב עַל הָרְשָׁעִים הַלָּלוּ שֶׁלֹּא יַכִּירוּ בָכֶם וְזוֹ הִיא עֵצָה נְכוֹנָה:
+- `rashi:19:2:2` Rashi **normative** on 19:2.5 19:2.6 «ס֣וּרוּ נָ֠א» (matched; filed at 19:2) DH «סורו נא.»: עַקְּמוּ אֶת הַדֶּרֶךְ לְבֵיתִי דֶרֶךְ עֲקַלָּתוֹן שֶׁלֹּא יַכִּירוּ שֶׁאַתֶּם נִכְנָסִין שָׁם, לְכָךְ נֶאֱמַר סוּרוּ (בראשית רבה):
+- `rashi:19:2:3` Rashi **normative** on 19:2.10 19:2.11 19:2.12 «וְלִ֙ינוּ֙ וְרַחֲצ֣וּ רַגְלֵיכֶ֔ם» (matched; filed at 19:2) DH «ולינו ורחצו רגליכם.»: וְכִי דַרְכָּן שֶׁל בְּנֵי אָדָם לָלוּן תְּחִלָּה וְאַחַר כָּךְ רוֹחֵץ? וְעוֹד, שֶׁהֲרֵי אַבְרָהָם אָמַר לָהֶם תְּחִלָּה רַחֲצוּ רַגְלֵיכֶם? אֶלָּא כָּךְ אָמַר לוֹט, אִם כְּשֶׁיָּבֹאוּ אַנְשֵׁי סְדוֹם וְיִרְאוּ שֶׁכְּבָר רַחֲצוּ רַגְלֵיהֶם יַעֲלִילוּ עָלַי וְיֹאמְרוּ כְּבָר עָבְרוּ שְׁנֵי יָמִים אוֹ שְׁלֹשָׁה שֶׁבָּאוּ לְבֵיתְךָ וְלֹא הוֹדַעְתָּנוּ, לְפִיכָךְ אָמַר, מוּטָב שֶׁיִתְעַכְּבוּ כָּאן בַּאֲבַק רַגְלֵיהֶם שֶׁיִּהְיוּ נִרְאִין כְּמוֹ שֶׁבָּאוּ עַכְשָׁו; לְפִיכָךְ אָמַר לִינוּ תְּחִלָּה וְאַחַר כָּךְ רַחֲצוּ:
+- `rashi:19:2:4` Rashi **normative** on 19:2.16 19:2.17 «וַיֹּאמְר֣וּ לֹּ֔א» (matched; filed at 19:2) DH «ויאמרו לא.»: וּלְאַבְרָהָם אָמְרוּ כֵּן תַּעֲשֶׂה, מִכָּאן שֶׁמְּסָרְבִין לְקָטָן וְאֵין מְסָרְבִין לְגָדוֹל (בראשית רבה):
+- `rashi:19:2:5` Rashi **normative** on 19:2.18 19:2.19 19:2.20 «כִּ֥י בָרְח֖וֹב נָלִֽין׃» (matched; filed at 19:2) DH «כי ברחוב נלין.»: הֲרֵי כִּי מְשַׁמֵּשׁ בִּלְשׁוֹן אֶלָּא, שֶׁאָמְרוּ לֹא נָסוּר אֶל בֵּיתְךָ אֶלָּא בִּרְחוֹבָהּ שֶׁל עִיר נָלִין:
+- `ibn-ezra:19:2:1` Ibn Ezra **normative** on 19:2.2 19:2.3 19:2.4 «הִנֶּ֣ה נָּא אֲדֹנַ֗י» (matched; filed at 19:2) DH «הנה נא אדוני.»: רבותי, לשון חול וכאשר תמצא מלת סור ואחריה מ"ם היא כמשמעה ואם אחריה אל"ף הפתוח בפתח קטן טעמה שיסור ממקומו וילך אל הקורא, או אל המקום הנקרא, כמו "סורה אלי" (שופ' ד יח):
+- `ibn-ezra:19:2:2` Ibn Ezra **normative** on 19:2.16 19:2.17 «וַיֹּאמְר֣וּ לֹּ֔א» (matched; filed at 19:2) DH «ויאמרו לא.»: אם לא תפצר וזאת המלה רבוי דברים כטעם פיוסים, וכן "ואון ותרפים" הפצר (ש"א טו כג):
+- `ramban:19:2:1` Ramban on 19:2.2 19:2.3 19:2.4 «הִנֶּ֣ה נָּא אֲדֹנַ֗י» (matched; filed at 19:2) DH «הִנֶּה נָּא אֲדֹנַי»: לְשׁוֹן רַשִׁ"י (רש"י על בראשית י"ט:ב'), הִנֵּה נָא אַתֶּם אֲדוֹנִים לִי אַחַר שֶׁעֲבַרְתֶּם עָלַי. וְהַנָּכוֹן שֶׁהוּא לְשׁוֹן תְּחִנָּה, אֲדֹנַי הִנֵּה נָא בֵּית עַבְדְּכֶם, סוּרוּ נָא אֵלַי. וּמִלַּת "סוּרוּ" כְּמוֹ "סוּרָה שְׁבָה פֹה" (רות ד א), "סוּרָה אֲדֹנִי סוּרָה אֵלַי אַל תִּירָא" (שופטים ד יח):
+- `ramban:19:2:2` Ramban on whole 19:2 (segment; filed at 19:2): וְטַעַם
+- `ramban:19:2:3` Ramban on 19:2.13 19:2.14 19:2.15 «וְהִשְׁכַּמְתֶּ֖ם וַהֲלַכְתֶּ֣ם לְדַרְכְּכֶ֑ם» (matched; filed at 19:2) DH «וְהִשְׁכַּמְתֶּם וַהֲלַכְתֶּם לְדַרְכְּכֶם»: לְהַגִּיד לָהֶם שֶׁלֹּא יִתְעַכְּבוּ בָּעִיר אַחַר הַבֹּקֶר, כִּי יָדַע בְּעִנְיַן אַנְשֵׁי הָעִיר וְרִשְׁעָם, אֲבָל הָיָה חוֹשֵׁב כִּי בְּאוֹר הַבֹּקֶר יַעֲשׂוּהָ. אוֹ שֶׁרָאָה אוֹתָם כְּהוֹלְכֵי אֳרָחוֹת, לֹא יִתְעַכְּבוּ בָּעִיר, וְאָמַר וְהִשְׁכַּמְתֶּם וַהֲלַכְתֶּם לְדַרְכְּכֶם אִם תִּרְצוּ:
+- `radak:19:2:1` Radak on 19:2.2 19:2.3 «הִנֶּ֣ה נָּא» (matched; filed at 19:2) DH «הִנֶּה נָּא.»: סְגוֹל מִפְּנֵי דָּגוּשׁ הַנּוּן.
+- `radak:19:2:2` Radak on 19:2.4 «אֲדֹנַ֗י» (matched; filed at 19:2) DH «אֲדֹנַי.»: בְּפַתָּח, לְשׁוֹן חֹל, כִּי סָבוּר הָיָה שֶׁהֵם אֲנָשִׁים גְּדוֹלִים וּמַרְאֵיהֶם נוֹרָא, עַד שֶׁנִּרְאוּ לוֹ מִתְּחִלָּה מַלְאָכִים, וְאִם הוּא בְּמַרְאֶה הוּא כְּמַשְׁמָעוֹ.
+- `radak:19:2:3` Radak on 19:2.10 «וְלִ֙ינוּ֙» (matched; filed at 19:2) DH «וְלִינוּ.»: לִינָה הָיוּ צְרִיכִים, כִּי בָעֶרֶב בָּאוּ.
+- `radak:19:2:4` Radak on 19:2.11 «וְרַחֲצ֣וּ» (matched; filed at 19:2) DH «וְרַחֲצוּ.»: הָרֵי״שׁ פְּתוּחָה כִּי הוּא צִוּוּי, וּפֵרוּשׁוֹ כְּמוֹ שֶׁפֵּרַשְׁנוּ בְּאַבְרָהָם, וּרְחִיצַת רַגְלַיִם הוּא שֶׁמְּזַמְּנִים לָאֹרֵחַ תְּחִלָּה, וְלֹא אָמַר לָהֶם עַל הָאֲכִילָה וְהַשְּׁכִיבָה.
+- `radak:19:2:5` Radak on 19:2.13 «וְהִשְׁכַּמְתֶּ֖ם» (matched; filed at 19:2) DH «וְהִשְׁכַּמְתֶּם.»: וְאִם תִּרְצוּ תַּשְׁכִּימוּ וּתְלֵכוּ לְדַרְכְּכֶם, כְּמוֹ שֶׁאָמַר לָהֶם אַבְרָהָם ״אַחַר תַּעֲבֹרוּ״ (בראשית יח:ה).
+- `radak:19:2:6` Radak on 19:2.16 19:2.17 «וַיֹּאמְר֣וּ לֹּ֔א» (matched; filed at 19:2) DH «וַיֹּאמְרוּ לֹא.»: מִכָּאן לָמְדוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה אֵין מְסָרְבִין לְגָדוֹל (בבא מציעא פז), שֶׁהֲרֵי אָמְרוּ לְאַבְרָהָם ״כֵּן תַּעֲשֶׂה כַּאֲשֶׁר דִּבַּרְתָּ״ (בראשית יח:ה).
+- `radak:19:2:7` Radak on 19:2.18 19:2.19 19:2.20 «כִּ֥י בָרְח֖וֹב נָלִֽין׃» (matched; filed at 19:2) DH «כִּי בָרְחוֹב נָלִין.»: בִּרְחוֹב הָעִיר, וְלֹא נִתְאַכְסֵן אֵצֶל אָדָם מִן הָעִיר.
+- `onkelos:19:2:1` Targum Onkelos on whole 19:2 (version; filed at 19:2): וַאֲמַר בְּבָעוּ כְעַן רִבּוֹנַי זוּרוּ כְעַן לְבֵית עַבְדְּכוֹן וּבִיתוּ וְאַסְחוֹ רַגְלֵיכוֹן וּתְקַדְּמוּן וּתְהָכוּן לְאָרְחֲכוֹן וַאֲמָרוּ לָא אֶלָּהֵן בִּרְחוֹבָא נְבִית:
+
+## Genesis 19:3
+
+Hebrew (MAM): וַיִּפְצַר־בָּ֣ם מְאֹ֔ד וַיָּסֻ֣רוּ אֵלָ֔יו וַיָּבֹ֖אוּ אֶל־בֵּית֑וֹ וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה וּמַצּ֥וֹת אָפָ֖ה וַיֹּאכֵֽלוּ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 19:3.1 | וַיִּפְצַר־ | וַ + יִּפְצַר | ו: and + פָּצַר `bdb:q.cn.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | פצר |  |
+| 19:3.2 | בָּ֣ם | בָּ֣ + ם | ב: in, with, by +  | preposition · suffix: pronominal, 3rd person, masculine, plural |  | munaḥ |
+| 19:3.3 | מְאֹ֔ד | מְאֹ֔ד | מְאֹד `bdb:m.ab.ab` | adverb | מאד | zaqef qaton (disjunctive) |
+| 19:3.4 | וַיָּסֻ֣רוּ | וַ + יָּסֻ֣רוּ | ו: and + סוּר `bdb:o.au.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | סור | munaḥ |
+| 19:3.5 | אֵלָ֔יו | אֵלָ֔י + ו | אֶל `bdb:a.di.aa` +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | zaqef qaton (disjunctive) |
+| 19:3.6 | וַיָּבֹ֖אוּ | וַ + יָּבֹ֖אוּ | ו: and + בּוֹא `bdb:b.ap.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | בוא | tipḥa (disjunctive) |
+| 19:3.7 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 19:3.8 | בֵּית֑וֹ | בֵּית֑ + וֹ | בַּ֫יִת `bdb:b.bp.aa` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular |  | etnaḥta (disjunctive) |
+| 19:3.9 | וַיַּ֤עַשׂ | וַ + יַּ֤עַשׂ | ו: and + עָשָׂה `bdb:p.fy.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | עשׂה | mahpakh |
+| 19:3.10 | לָהֶם֙ | לָ + הֶם֙ | ל: to, for +  | preposition · suffix: pronominal, 3rd person, masculine, plural |  | pashta (disjunctive) |
+| 19:3.11 | מִשְׁתֶּ֔ה | מִשְׁתֶּ֔ה | מִשְׁתֶּה `bdb:v.gi.ad` | noun: common, masculine, singular, absolute | שׁתה | zaqef qaton (disjunctive) |
+| 19:3.12 | וּמַצּ֥וֹת | וּ + מַצּ֥וֹת | ו: and + מַצָּה `bdb:m.de.ab` | conjunction · noun: common, feminine, plural, absolute |  | merkha |
+| 19:3.13 | אָפָ֖ה | אָפָ֖ה | אָפָה `bdb:a.ez.aa` | verb: qal, perfect (qatal), 3rd person, masculine, singular | אפה | tipḥa (disjunctive) |
+| 19:3.14 | וַיֹּאכֵֽלוּ׃ | וַ + יֹּאכֵֽלוּ | ו: and + אָכַל `bdb:a.dc.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | אכל | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:19:3:1` Rashi **normative** on 19:3.4 19:3.5 «וַיָּסֻ֣רוּ אֵלָ֔יו» (matched; filed at 19:3) DH «ויסרו אליו.»: עִקְּמוּ אֶת הַדֶּרֶךְ לְצַד בֵּיתוֹ:
+- `rashi:19:3:2` Rashi **normative** on 19:3.12 19:3.13 «וּמַצּ֥וֹת אָפָ֖ה» (matched; filed at 19:3) DH «ומצות אפה.»: פֶּסַח הָיָה:
+- `ramban:19:3:1` Ramban on 19:3.1 19:3.2 19:3.3 «וַיִּפְצַר בָּ֣ם מְאֹ֔ד» (matched; filed at 19:3) DH «וַיִּפְצַר בָּם מְאֹד»: הָיָה לְלוֹט זְכוּת בְּהַפְצִירוֹ בָּהֶם, וְהָיָה לוֹ חֵפֶץ טוֹב בְּהַכְנָסַת אוֹרְחִים, וְהָיוּ מְמָאֲנִים כְּדֵי לְזַכּוֹתוֹ, וְלָכֵן שָׁמְעוּ לוֹ בַּסּוֹף, כִּי מִתְּחִלָּה לֹא הָיוּ רוֹצִים לָבֹא לְבֵיתוֹ, כִּי אֵינוֹ צַדִּיק תָּמִים. וְרַבּוֹתֵינוּ אָמְרוּ (ב"מ פז), מְסָרְבִין לְקָטָן וְאֵין מְסָרְבִין לְגָדוֹל, וְאִם כֵּן יִהְיֶה כְּדֶרֶךְ מוּסַר בְּנֵי אָדָם:
+- `radak:19:3:1` Radak on 19:3.1 19:3.2 19:3.3 «וַיִּפְצַר בָּ֣ם מְאֹ֔ד» (matched; filed at 19:3) DH «וַיִּפְצַר־בָּם מְאֹד.»: הִרְבָּה לָהֶם דְּבָרִים וּתְחִנּוֹת עַד שֶׁנָּטוּ אֵלָיו וּבָאוּ עִמּוֹ אֶל בֵּיתוֹ. וְאוּנְקְלוֹס תִּרְגֵּם ״וְתַקִּיף בְּהוֹן״, כְּלוֹמַר הֶחֱזִיק בָּם עַד שֶׁסָּרוּ אֵלָיו אֶל בֵּיתוֹ.
+- `radak:19:3:2` Radak on 19:3.9 19:3.10 19:3.11 «וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה» (matched; filed at 19:3) DH «וַיַּעַשׂ לָהֶם מִשְׁתֶּה.»: לְפִי שֶׁהָיָה לַיְלָה לֹא הָיָה לוֹ פְּנַאי לִזְבֹּחַ וּלְתַקֵּן מַאֲכָלִים, אֶלָּא עָשָׂה לָהֶם מִשְׁתֶּה וְאָפָה לָהֶם מַצּוֹת שֶׁלֹּא יַמְתִּינוּ עַד שֶׁיִּתְחַמֵּץ הַבָּצֵק, וּמַה שֶּׁיָּכוֹל לְתַקֵּן בִּמְהֵרָה תִּקֵּן, וְזֶהוּ מִדֶּרֶךְ אֶרֶץ לְהָכִין לָאוֹרֵחַ הַבָּא מַה שֶּׁיּוּכַל לְהָכִין בִּמְהֵרָה, כִּי הוּא עָיֵף וְצָרִיךְ לֶאֱכֹל וְלִשְׁתּוֹת, לְפִיכָךְ נִכְתַּב הַסִּפּוּר הַזֶּה.
+- `radak:19:3:3` Radak on 19:3.14 «וַיֹּאכֵֽלוּ׃» (matched; filed at 19:3) DH «וַיֹּאכֵלוּ.»: אִם בְּמַרְאֶה כְּמַשְׁמָעוֹ, וְאִם בְּהָקִיץ וּבְמוּרְגָּשׁ נִדְמֶה לוֹ שֶׁאָכְלוּ וְשָׁתוּ, שֶׁשָּׁב הַמַּאֲכָל וְהַמִּשְׁתֶּה הַמֻּרְכָּב פָּשׁוּט, כָּל דָּבָר לִיסוֹדוֹ הָרִאשׁוֹן, וְזֶהוּ כְּמַעֲשֵׂה נֵס.
+- `onkelos:19:3:1` Targum Onkelos on whole 19:3 (version; filed at 19:3): וְאַתְקֵף בְּהוֹן לַחֲדָא וְזָרוּ לְוָתֵיהּ וְעַלּוּ לְבֵיתֵיהּ וַעֲבַד לְהוֹן מִשְׁתְּיָא וּפַטִּיר אֲפָא לְהוֹן וַאֲכָלוּ:
+- `sforno:19:3:1` Sforno on 19:3.11 «מִשְׁתֶּ֔ה» (matched; filed at 19:3) DH «מִשְׁתֶּה.»: קְבִיעוּת סְעוּדָה עַל הַיַּיִן, בִּהְיוֹת הַיַּיִן אָהוּב אֶצְלוֹ, כְּמוֹ שֶׁהוֹכִיחַ סוֹפוֹ עַל תְּחִלָּתוֹ (בראשית יט:לג). אֲבָל אַבְרָהָם לֹא עָשָׂה מִשְׁתֶּה, זוּלָתִי "בְּיוֹם הִגָּמֵל אֶת יִצְחָק" (בראשית כא:ח) לִגְדוֹלֵי הַדּוֹר שֶׁהָיוּ מֻרְגָּלִים בְּכָךְ בְּעֵת שִׂמְחָתָם, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (סוטה י): "קַמֵּי דְּשָׁתֵי חַמְרָא, חַמְרָא".
+
+## Genesis 19:4
+
+Hebrew (MAM): טֶ֘רֶם֮ יִשְׁכָּ֒בוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙ נָסַ֣בּוּ עַל־הַבַּ֔יִת מִנַּ֖עַר וְעַד־זָקֵ֑ן כׇּל־הָעָ֖ם מִקָּצֶֽה׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 19:4.1 | טֶ֘רֶם֮ | טֶרֶם֮ | טֶ֫רֶם `bdb:i.bn.aa` | adverb | טרם | zarqa, zinor (disjunctive) |
+| 19:4.2 | יִשְׁכָּ֒בוּ֒ | יִשְׁכָּבוּ֒ | שָׁכַב `bdb:v.cy.aa` | verb: qal, imperfect (yiqtol), 3rd person, masculine, plural | שׁכב | segol, segol (disjunctive) |
+| 19:4.3 | וְאַנְשֵׁ֨י | וְ + אַנְשֵׁ֨י | ו: and + אִישׁ `bdb:a.da.ab` | conjunction · noun: common, masculine, plural, construct | אישׁ | qadma |
+| 19:4.4 | הָעִ֜יר | הָ + עִ֜יר | ה: the + עִיר `bdb:p.cm.ad` | particle: definite article · noun: common, feminine, singular, absolute |  | geresh (disjunctive) |
+| 19:4.5 | אַנְשֵׁ֤י | אַנְשֵׁ֤י | אִישׁ `bdb:a.da.ab` | noun: common, masculine, plural, construct | אישׁ | mahpakh |
+| 19:4.6 | סְדֹם֙ | סְדֹם֙ | סְדֹם `bdb:o.aj.ad` | noun: proper name |  | pashta (disjunctive) |
+| 19:4.7 | נָסַ֣בּוּ | נָסַ֣בּוּ | סָבַב `bdb:o.ad.aa` | verb: nifal, perfect (qatal), 3rd person, common, plural | סבב | munaḥ |
+| 19:4.8 | עַל־ | עַל | עַל `bdb:p.cs.ar` | preposition | עלה |  |
+| 19:4.9 | הַבַּ֔יִת | הַ + בַּ֔יִת | ה: the + בַּ֫יִת `bdb:b.bp.aa` | particle: definite article · noun: common, masculine, singular, absolute |  | zaqef qaton (disjunctive) |
+| 19:4.10 | מִנַּ֖עַר | מִ + נַּ֖עַר | מ: from, than + נַ֫עַר `bdb:n.ei.ab` | preposition · noun: common, masculine, singular, absolute | נער | tipḥa (disjunctive) |
+| 19:4.11 | וְעַד־ | וְ + עַד | ו: and + עַד `bdb:p.aq.ad` | conjunction · preposition | עדה |  |
+| 19:4.12 | זָקֵ֑ן | זָקֵ֑ן | זָקֵן `bdb:g.cd.ad` | adjective: adjective, masculine, singular, absolute | זקן | etnaḥta (disjunctive) |
+| 19:4.13 | כׇּל־ | כָּל | כֹּל `bdb:k.bn.ab` | noun: common, masculine, singular, construct | כלל |  |
+| 19:4.14 | הָעָ֖ם | הָ + עָ֖ם | ה: the + עַם `bdb:p.di.ab` | particle: definite article · noun: common, masculine, singular, absolute | עמם | tipḥa (disjunctive) |
+| 19:4.15 | מִקָּצֶֽה׃ | מִ + קָּצֶֽה | מ: from, than + קָצֶה `bdb:s.co.ab` | preposition · noun: common, both genders, singular, absolute | קצה | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:19:4:1` Rashi **normative** on 19:4.1 19:4.2 19:4.3 19:4.4 19:4.5 19:4.6 «טֶ֘רֶם֮ יִשְׁכָּ֒בוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙» (matched; filed at 19:4) DH «טרם ישכבו ואנשי העיר אנשי סדום.»: כָּךְ נִדְרַשׁ בִּבְ"רַ טֶרֶם יִשְׁכָּבוּ וְאַנְשֵׁי הָעִיר הָיוּ בְּפִיהֶם שֶׁל מַלְאָכִים, שֶׁהָיוּ שׁוֹאֲלִים לְלוֹט מַה טִּיבָם וּמַעֲשֵׂיהֶם וְהוּא אוֹמֵר לָהֶם רֻבָּם רְשָׁעִים; עוֹדָם מְדַבְּרִים בָּהֶם וְאַנְשֵׁי סְדוֹם וְגוֹ'. וּפְשׁוּטוֹ שֶׁל מִקְרָא וְאַנְשֵׁי הָעִיר אַנְשֵׁי רֶשַׁע, נָסַבּוּ עַל הַבַּיִת; עַל שֶׁהָיוּ רְשָׁעִים נִקְרָאִים אַנְשֵׁי "סְדוֹם", כְּמוֹ שֶׁאָמַר הַכָּתוּב וְאַנְשֵׁי סְדֹם רָעִים וְחַטָּאִים:
+- `rashi:19:4:2` Rashi **normative** on 19:4.13 19:4.14 19:4.15 «כׇּל הָעָ֖ם מִקָּצֶֽה׃» (matched; filed at 19:4) DH «כל העם מקצה.»: מִקְּצֵה הָעִיר עַד הַקָּצֶה, שֶׁאֵין אֶחָד מֵהֶם מוֹחֶה בְיָדָם, שֶׁאֲפִלּוּ צַדִּיק אֶחָד אֵין בָּהֶם:
+- `ibn-ezra:19:4:1` Ibn Ezra **normative** on 19:4.7 «נָסַ֣בּוּ» (matched; filed at 19:4) DH «נסבו.»: מבנין נפעל.
+- `ibn-ezra:19:4:2` Ibn Ezra **normative** on 19:4.13 19:4.14 19:4.15 «כׇּל הָעָ֖ם מִקָּצֶֽה׃» (matched-unbolded; filed at 19:4) DH «כל העם מקצה.»: כל העם מקצה. שלא היו סמוכים אל הבית:
+- `radak:19:4:1` Radak on 19:4.3 19:4.4 19:4.5 19:4.6 «וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙» (matched; filed at 19:4) DH «וְאַנְשֵׁי הָעִיר אַנְשֵׁי סְדֹם.»: אָמַר אַנְשֵׁי סְדֹם אַחַר שֶׁאָמַר אַנְשֵׁי הָעִיר, וְיָדוּעַ הָיָה כִּי הָעִיר שֶׁבָּאוּ אֵלֶיהָ סְדֹם הוּא? אֶלָּא רוֹצֶה לוֹמַר: הֵרָאוּ בְּמַעֲשֵׂיהֶם כִּי אַנְשֵׁי סְדֹם הָיוּ, שֶׁנֶּאֱמַר עֲלֵיהֶם ״וְאַנְשֵׁי סְדֹם רָעִים וְחַטָּאִים לַה׳ מְאֹד״ (בראשית יג:יג).
+- `radak:19:4:2` Radak on 19:4.10 19:4.11 19:4.12 «מִנַּ֖עַר וְעַד זָקֵ֑ן» (matched; filed at 19:4) DH «מִנַּעַר וְעַד־זָקֵן.»: הַזְּקֵנִים הָיוּ רָעִים כְּמוֹ הַנְּעָרִים וְהַבַּחוּרִים, וְכֻלָּם בָּאוּ בֵּית לוֹט.
+- `radak:19:4:3` Radak on 19:4.15 «מִקָּצֶֽה׃» (matched; filed at 19:4) DH «מִקָּצֶה.»: הָעִיר, כִּי בְּרֹב רִשְׁעָתָם פָּסְקוּ דֶּרֶךְ מִמְּקוֹמָם שֶׁלֹּא הָיָה אוֹרֵחַ עוֹבֵר עֲלֵיהֶם, וְעַכְשָׁו שֶׁבָּאוּ אֵלֶיהָ הָיָה חִדּוּשׁ אֶצְלָם וְהָיָה רַע בְּעֵינֵיהֶם, עַד שֶׁנִּתְקַבְּצוּ כָּל הָעִיר לְהָרַע לָהֶם. וְזֶה מִן הַתֵּמָה הַגָּדוֹל לְרֹב רִשְׁעָתָם עַד הֵיכָן הִגִּיעַ רָעָתָם, וְנִכְתַּב כָּל זֶה כְּדֵי שֶׁיַּצְדִּיקוּ עֲלֵיהֶם בְּנֵי הָעוֹלָם אֶת הַדִּין.
+- `onkelos:19:4:1` Targum Onkelos on whole 19:4 (version; filed at 19:4): עַד לָא שְׁכִיבוּ וַאֲנָשֵׁי קַרְתָּא אֲנָשֵׁי סְדוֹם אַקִּיפוּ עַל בֵּיתָא מֵעוּלֵימָא וְעַד סָבָא כָּל עַמָּא מִסּוֹפֵיהּ:
+
+## Genesis 19:5
+
+Hebrew (MAM): וַיִּקְרְא֤וּ אֶל־לוֹט֙ וַיֹּ֣אמְרוּ ל֔וֹ אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר־בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה הוֹצִיאֵ֣ם אֵלֵ֔ינוּ וְנֵדְעָ֖ה אֹתָֽם׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 19:5.1 | וַיִּקְרְא֤וּ | וַ + יִּקְרְא֤וּ | ו: and + קָרָא `bdb:s.cy.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | קרא | mahpakh |
+| 19:5.2 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 19:5.3 | לוֹט֙ | לוֹט֙ | לוֹט `bdb:l.ax.ad` | noun: proper name |  | pashta (disjunctive) |
+| 19:5.4 | וַיֹּ֣אמְרוּ | וַ + יֹּ֣אמְרוּ | ו: and + אָמַר `bdb:a.ea.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | אמר | munaḥ |
+| 19:5.5 | ל֔וֹ | ל֔ + וֹ | ל: to, for +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | zaqef qaton (disjunctive) |
+| 19:5.6 | אַיֵּ֧ה | אַיֵּ֧ה | אַיֵּה `bdb:a.cu.ab` | particle: interrogative |  | darga |
+| 19:5.7 | הָאֲנָשִׁ֛ים | הָ + אֲנָשִׁ֛ים | ה: the + אִישׁ `bdb:a.da.ab` | particle: definite article · noun: common, masculine, plural, absolute | אישׁ | tevir (disjunctive) |
+| 19:5.8 | אֲשֶׁר־ | אֲשֶׁר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר |  |
+| 19:5.9 | בָּ֥אוּ | בָּ֥אוּ | בּוֹא `bdb:b.ap.aa` | verb: qal, perfect (qatal), 3rd person, common, plural | בוא | merkha |
+| 19:5.10 | אֵלֶ֖יךָ | אֵלֶ֖י + ךָ | אֶל `bdb:a.di.aa` +  | preposition · suffix: pronominal, 2nd person, masculine, singular |  | tipḥa (disjunctive) |
+| 19:5.11 | הַלָּ֑יְלָה | הַ + לָּ֑יְלָה | ה: the + לַ֫יְלָה `bdb:l.bm.ad` | particle: definite article · noun: common, masculine, singular, absolute |  | etnaḥta (disjunctive) |
+| 19:5.12 | הוֹצִיאֵ֣ם | הוֹצִיאֵ֣ + ם | יָצָא `bdb:j.cq.aa` +  | verb: hifil, imperative, 2nd person, masculine, singular · suffix: pronominal, 3rd person, masculine, plural | יצא | munaḥ |
+| 19:5.13 | אֵלֵ֔ינוּ | אֵלֵ֔י + נוּ | אֶל `bdb:a.di.aa` +  | preposition · suffix: pronominal, 1st person, common, plural |  | zaqef qaton (disjunctive) |
+| 19:5.14 | וְנֵדְעָ֖ה | וְ + נֵדְעָ֖ה | ו: and + יָדַע `bdb:j.au.aa` | conjunction · verb: qal, cohortative, 1st person, common, plural | ידע | tipḥa (disjunctive) |
+| 19:5.15 | אֹתָֽם׃ | אֹתָֽ + ם | אֵת `bdb:a.gm.aa` +  | particle: direct object marker · suffix: pronominal, 3rd person, masculine, plural | אות | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:19:5:1` Rashi **normative** on 19:5.14 19:5.15 «וְנֵדְעָ֖ה אֹתָֽם׃» (matched; filed at 19:5) DH «ונדעה אותם.»: בְּמִשְׁכַּב זָכָר כְּמוֹ אֲשֶׁר לֹא יָדְעוּ אִישׁ (בראשית רבה):
+- `ibn-ezra:19:5:1` Ibn Ezra **normative** on 19:5.14 19:5.15 «וְנֵדְעָ֖ה אֹתָֽם׃» (matched; filed at 19:5) DH «ונדעה אותם.»: כנוי לשכיבה:
+- `ramban:19:5:1` Ramban on 19:5.14 19:5.15 «וְנֵדְעָ֖ה אֹתָֽם׃» (matched; filed at 19:5) DH «וְנֵדְעָה אֹתָם»: כַּוָּנָתָם לְכַלּוֹת אֶת הָרֶגֶל מִבֵּינֵיהֶם כְּדִבְרֵי רַבּוֹתֵינוּ (סנהדרין קט), כִּי חָשְׁבוּ שֶׁבַּעֲבוּר טוֹבַת אַרְצָם שֶׁהִיא כְּגַן ה' יָבֹאוּ שָׁם רַבִּים, וְהֵם הָיוּ מוֹאֲסֵי הַצְּדָקָה. אֲבָל לוֹט בְּעָשְׁרוֹ וּמָמוֹנוֹ בָּא אֲלֵיהֶם, אוֹ שֶׁבִּקֵּשׁ מֵהֶם רְשׁוּת, אוֹ שֶׁקִּבְּלוּהוּ לִכְבוֹד אַבְרָהָם. וְהַכָּתוּב מֵעִיד שֶׁזֹּאת כַּוָּנָתָם, שֶׁנֶּאֱמַר (יחזקאל טז מט) "הִנֵּה זֶה הָיָה עֲוֹן סְדֹם אֲחוֹתֵךְ גָּאוֹן שִׂבְעַת לֶחֶם וְשַׁלְוַת הַשְׁקֵט הָיָה לָהּ וְלִבְנוֹתֶיהָ וְיַד עָנִי וְאֶבְיוֹן לֹא הֶחֱזִיקָה". וּמָה שֶׁאָמַר (בראשית י"ג:י"ג) "רָעִים וְחַטָּאִים לַה' מְאֹד", שֶׁהָיוּ מַכְעִיסִים וּמוֹרְדִים בְּשַׁלְוָתָם וּבְעִנּוּי הָאֶבְיוֹנִים, וְהוּא שֶׁאָמַר (יחזקאל טז נ) "וַתִּגְבְּהֶינָה וַתַּעֲשֶׂינָה תוֹעֵבָה לְפָנָי וָאָסִיר אֶתְהֶן כַּאֲשֶׁר רָאִיתִי". וְעַל דַּעַת רַבּוֹתֵינוּ (עיין סנהדרין קט) הָיוּ בָּהֶם כָּל מִדּוֹת רָעוֹת, אֲבָל נִגְמַר דִּינָם עַל אוֹתוֹ הֶעָוֹן, מִפְּנֵי שֶׁלֹּא הֶחֱזִיקוּ יַד עָנִי וְאֶבְיוֹן, כִּי הָיוּ תְּדִירִים בְּאוֹתוֹ עָוֹן יוֹתֵר מִכֻּלָּם. וְגַם כִּי כָל הָעַמִּים עוֹשִׂים צְדָקוֹת עִם רֵעֵיהֶם וְעִם עֲנִיֵּיהֶם, לֹא הָיָה בְּכָל הַגּוֹיִם כִּסְדוֹם לְאַכְזָרִיּוּת. וְדַע כִּי מִשְׁפַּט סְדוֹם הָיָה לְמַעֲלַת אֶרֶץ יִשְׂרָאֵל, כִּי הִיא מִכְּלַל נַחֲלַת ה' וְאֵינָהּ סוֹבֶלֶת אַנְשֵׁי תּוֹעֵבוֹת, וְכַאֲשֶׁר תָּקִיא אֶת הַגּוֹי כֻּלּוֹ מִפְּנֵי תּוֹעֲבוֹתָם הִקְדִּימָה וְקָאֲתָה אֶת הָעָם הַזֶּה שֶׁהָיוּ רָעִים מִכֻּלָּם לַשָּׁמַיִם וְלַבְּרִיּוֹת, וְשָׁמְמוּ עֲלֵיהֶם הַשָּׁמַיִם וְהָאָרֶץ וְהֻשְׁחֲתָה הָאָרֶץ בּ … [cut; full text in the review pack]
+- `radak:19:5:1` Radak on 19:5.14 19:5.15 «וְנֵדְעָ֖ה אֹתָֽם׃» (matched; filed at 19:5) DH «וְנֵדְעָה אֹתָם.»: מִי הֵם וְאֵיךְ לֹא יָרְאוּ לָבוֹא לְעִירֵנוּ אֲנָשִׁים זְכָרִים, רוֹצֶה לוֹמַר שֶׁאָמְרוּ לְהָרְגָם כְּמוֹ ״וְנֵדְעָה״ דְּפִלֶגֶשׁ בְּגִבְעָה (שופטים יט:כב) וּכְמוֹ שֶׁאָמַר הָאִישׁ בְּסַפְּרוֹ הַמַּעֲשֶׂה, ״אוֹתִי דִּמּוּ לְהָרֹג״ (שופטים כ:ה). וְיֵשׁ מְפָרְשִׁים יְדִיעַת מִשְׁכַּב זָכוּר.
+- `onkelos:19:5:1` Targum Onkelos on whole 19:5 (version; filed at 19:5): וּקְרוֹ לְלוֹט וַאֲמָרוּ לֵיהּ אָן גֻּבְרַיָּא דִּי אֲתוֹ לְוָתָךְ לֵילְיָא אַפֵּקִנּוּן לְוָתָנָא וְנִדַּע יָתְהוֹן:
+
+## Genesis 19:6
+
+Hebrew (MAM): וַיֵּצֵ֧א אֲלֵהֶ֛ם ל֖וֹט הַפֶּ֑תְחָה וְהַדֶּ֖לֶת סָגַ֥ר אַחֲרָֽיו׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 19:6.1 | וַיֵּצֵ֧א | וַ + יֵּצֵ֧א | ו: and + יָצָא `bdb:j.cq.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | יצא | darga |
+| 19:6.2 | אֲלֵהֶ֛ם | אֲלֵ + הֶ֛ם | אֶל `bdb:a.di.aa` +  | preposition · suffix: pronominal, 3rd person, masculine, plural |  | tevir (disjunctive) |
+| 19:6.3 | ל֖וֹט | ל֖וֹט | לוֹט `bdb:l.ax.ad` | noun: proper name |  | tipḥa (disjunctive) |
+| 19:6.4 | הַפֶּ֑תְחָה | הַ + פֶּ֑תְחָ + ה | ה: the + פֶּ֫תַח `bdb:q.ea.ab` +  | particle: definite article · noun: common, masculine, singular, absolute · suffix: directional he | פתח | etnaḥta (disjunctive) |
+| 19:6.5 | וְהַדֶּ֖לֶת | וְ + הַ + דֶּ֖לֶת | ו: and + ה: the + דֶּ֫לֶת `bdb:d.bm.af` | conjunction · particle: definite article · noun: common, feminine, singular, absolute | דלה | tipḥa (disjunctive) |
+| 19:6.6 | סָגַ֥ר | סָגַ֥ר | סָגַר `bdb:o.ai.aa` | verb: qal, perfect (qatal), 3rd person, masculine, singular | סגר | merkha |
+| 19:6.7 | אַחֲרָֽיו׃ | אַחֲרָֽי + ו | אַחַר `bdb:a.cp.ac` +  | preposition · suffix: pronominal, 3rd person, masculine, singular | אחר | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `ibn-ezra:19:6:1` Ibn Ezra **normative** on 19:6.4 «הַפֶּ֑תְחָה» (matched; filed at 19:6) DH «הפתחה.»: אל הפתח תי"ו דלת סימן נקבה ונמצא חסר:
+- `radak:19:6:1` Radak on 19:6.6 19:6.7 «סָגַ֥ר אַחֲרָֽיו׃» (matched; filed at 19:6) DH «סָגַר אַחֲרָיו.»: סָגַר הַסּוֹגֵר שֶׁהָיָה בִּפְנִים, אוֹ לוֹט סָגַר מִבַּחוּץ.
+- `onkelos:19:6:1` Targum Onkelos on whole 19:6 (version; filed at 19:6): וּנְפַק לְוָתְהוֹן לוֹט לְתַרְעָא וְדָשָׁא אֲחַד בַּתְרוֹהִי:
+
+## Genesis 19:7
+
+Hebrew (MAM): וַיֹּאמַ֑ר אַל־נָ֥א אַחַ֖י תָּרֵֽעוּ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 19:7.1 | וַיֹּאמַ֑ר | וַ + יֹּאמַ֑ר | ו: and + אָמַר `bdb:a.ea.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | אמר | etnaḥta (disjunctive) |
+| 19:7.2 | אַל־ | אַל | אַל `bdb:a.dh.aa` | particle: negative |  |  |
+| 19:7.3 | נָ֥א | נָ֥א | נָא `bdb:n.ab.aa` | particle: exhortation |  | merkha |
+| 19:7.4 | אַחַ֖י | אַחַ֖ + י | אָח `bdb:a.ck.ab` +  | noun: common, masculine, plural, construct · suffix: pronominal, 1st person, common, singular | אחה | tipḥa (disjunctive) |
+| 19:7.5 | תָּרֵֽעוּ׃ | תָּרֵֽעוּ | רָעַע `bdb:t.dq.af` | verb: hifil, imperfect (yiqtol), 2nd person, masculine, plural | רעע | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `radak:19:7:1` Radak on 19:7.2 19:7.3 «אַל נָ֥א» (matched; filed at 19:7) DH «אַל־נָא.»: בְּבַקָּשָׁה מִכֶּם אַל תָּרֵעוּ לָאֵלֶּה הָאֲנָשִׁים, כִּי
+- `radak:19:7:2` Radak on 19:7.4 «אַחַ֖י» (matched; filed at 19:7) DH «אַחַי»: וּשְׁכֵנַי אַתֶּם וְלִכְבוֹדִי הַנִּיחוּ אוֹתָם.
+- `onkelos:19:7:1` Targum Onkelos on whole 19:7 (version; filed at 19:7): וַאֲמַר בְּבָעוּ כְעַן אַחַי לָא תַבְאִישׁוּן:
+
+## Lexicon
+
+Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
+
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+
+### `bdb:a.be.ac` אָדוֹן (n.m) root אדן: lord
+
+### `bdb:a.ck.ab` אָח (n.m) root אחה: brother
+- `1` brother
+- `4` one … another
+
+### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
+- `1.a` behind
+- `1.b` afterwards
+- `2.a` behind, after
+- `2.b` after
+- `3` after that
+
+### `bdb:a.cu.ab` אַיֵּה (interr.adv): Where?
+
+### `bdb:a.da.ab` אִישׁ (n.m) root אישׁ: man
+
+### `bdb:a.dc.aa` אָכַל (vb) root אכל: eat
+- `Qal 1` Qal eat
+- `Qal 2` Qal eat, devour
+- `Qal 3` Qal devour, consume
+- `Qal 4` Qal devour, slay
+- `Qal 5` Qal devour, consume, destroy
+- `Qal 6` Qal devour
+- `Niph 1` Niph be eaten
+- `Niph 2` Niph be devoured, consumed
+- `Niph 3` Niph be wasted, destroyed
+- `Pu` Pu be consumed
+- `Hiph 1` Hiph cause to eat, feed with
+- `Hiph 2` Hiph cause to devoure
+
+### `bdb:a.dh.aa` אַל (adv. of negation): not
+
+### `bdb:a.di.aa` אֶל (prep): motion to, direction towards
+- `1` to, unto
+- `2` into
+- `3` towards
+- `4` against
+- `5` Unto, in addition to
+- `6` in regard to, concerning, on account of
+- `7` according to
+- `8` against, at, by
+- `9` motion, direction to
+
+### `bdb:a.ea.aa` אָמַר (vb) root אמר: utter, say
+- `Qal 1` Qal Say
+- `Qal 2` Qal Say in the heart
+- `Qal 3` Qal Promise
+- `Qal 4` Qal Command
+- `Niph` Niph be said, told
+- `Hiph` Hiph avow, avouch, cause to declare
+- `Hithp` Hithp act proudly, boast
+
+### `bdb:a.em.ab` אַף (n.m) root אנף: nostril, nose, face, anger
+- `1` nostril
+- `2` face
+- `3` anger
+
+### `bdb:a.ez.aa` אָפָה (vb) root אפה: bake
+
+### `bdb:a.fx.aa` אֶ֫רֶץ (n. f) root ארץ: earth, land
+- `1.a` earth
+- `1.b` earth
+- `1.c` earth
+- `2.e` land
+- `2` land
+- `3.a` ground
+- `3.b` soil
+- `4.a` people of the land
+- `4.c` the country of the plain, level, plain country
+- `4.d` land of the living
+- `4.e` end(s) of the earth
+- `5` lands, countries, lands of the nations
+
+### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
+
+### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
+
+### `bdb:b.ap.aa` בּוֹא (vb) root בוא: come in, come, go in, go
+- `Qal 1` Qal come in
+- `Qal 2` Qal come
+- `Qal 3` Qal go, walk, associate with
+- `Qal 4` Qal go
+- `Hiph 1` Hiph cause to come in, bring in
+- `Hiph 2` Hiph cause to come, bring, bring near
+- `Hoph a` Hoph be brought in
+- `Hoph b` Hoph be brought
+- `Hoph c` Hoph be introduced, put
+
+### `bdb:b.bp.aa` בַּ֫יִת (n.m): house
+- `1` house
+- `2` place
+- `3` receptacle
+- `5` household, family
+- `6` household affairs
+- `7` housewards, inwards
+- `8.a` on the inside
+- `8.b` within
+
+### `bdb:d.ai.aa` דָבַר (vb) root דבר: speak
+- `Qal` Qal speak
+- `Niph` Niph speak with one another, talk
+- `Pi` Pi speak
+- `Pu` Pu in the day when she may be spoken for
+- `Hithp` Hithp speaking this word
+- `Hiph` Hiph leads, puts to flight, subdues
+
+### `bdb:d.bm.af` דֶּ֫לֶת (n.f) root דלה: door
+- `1` door
+- `2` door
+- `3` gates of city
+
+### `bdb:d.ci.ab` דֶּ֫רֶךְ (n.m) root דרך: way, road, distance, journey, manner
+- `1` way, road, path
+- `2` journey
+- `3` direction, toward
+- `4` way, manner
+
+### `bdb:e.az.ae` יהוה (n.pr.dei) root הוה: Yahweh, the one bringing into being, life-giver
+
+### `bdb:e.bn.aa` הָלַךְ (vb) root הלך: go, come, walk
+- `Qal II.1` Qal pass away, die
+- `Qal II.2` Qal live, walk
+- `Pi 1` Pi walk
+- `Pi 2` Pi walking about
+- `Pi 3` Pi depart, go entirely away
+- `Hithp` Hithp walk, walk about, move to and fro
+- `Hiph 1` Hiph lead, bring
+- `Hiph 2` Hiph lead away
+- `Hiph 3` Hiph carry, bring
+- `Hiph 5.a` Hiph cause to walk, go
+- `Hiph 5.b` Hiph cause to flow, run
+- `Hiph 5.c` Hiph cause to depart, retire, go back
+
+### `bdb:e.bz.ab` הִנֵּה (demonstr.part): lo!, behold!
+
+### `bdb:g.cd.ad` זָקֵן (adj) root זקן: old
+- `1` old
+- `2.a` old man
+- `2.b` elder
+
+### `bdb:i.bn.aa` טֶ֫רֶם (adv. of time) root טרם: not yet, ere, before that
+
+### `bdb:j.au.aa` יָדַע (vb) root ידע: know
+- `Qal 1.a` Qal know, learn to know
+- `Qal 1.b` Qal perceive
+- `Qal 1.c` Qal perceive and see, find out and discern
+- `Qal 1.d` Qal discriminate, distinguish
+- `Qal 1.e` Qal know by experience
+- `Qal 1.f` Qal recognize, admit, acknowledge, confess
+- `Qal 1.g` Qal consider
+- `Qal 1.h` Qal not know, not expect
+- `Qal 2` Qal know, be acquainted with
+- `Qal 3` Qal know a person
+- `Qal 4.a` Qal know how
+- `Qal 4.b` Qal be skilful in
+- `Qal 5` Qal have knowledge, be wise
+- `Niph 1` Niph be made known, be, become known
+- `Niph 2` Niph make oneself known
+- `Niph 3` Niph be perceived
+- `Niph 4` Niph be instructed
+- `Pi` Pi cause to know
+- `Pu` Pu known
+- `Hiph` Hiph make known, declare
+- `Hoph` Hoph made known
+- `Hithp` Hithp make oneself known
+
+### `bdb:j.cq.aa` יָצָא (vb) root יצא: go, come out
+- `Qal 1.b` Qal go forth
+- `Qal 1.e` Qal depart
+- `Qal 1.h` Qal going forth
+- `Qal 1` Qal go, come out, forth
+- `Qal 2.a` Qal go forth
+- `Qal 2.b` Qal go forward, proceed
+- `Qal 2.c` Qal come, go forth
+- `Hiph 1` Hiph cause to go, come out, bring out, lead out
+- `Hiph 2` Hiph bring out of
+- `Hiph 3` Hiph bring out
+- `Hiph 5` Hiph bring forth
+- `Hoph` Hoph be brought forth
+
+### `bdb:j.ds.aa` יָשַׁב (vb) root ישׁב: sit, remain, dwell
+- `Qal 1.a` Qal sit
+- `Qal 1.b` Qal sit, sit down
+- `Qal 1.c` Qal sit down
+- `Qal 1.d` Qal sit, be set
+- `Qal 2.a` Qal remain, stay, tarry
+- `Qal 3` Qal dwell, have one’s abode
+- `Qal 4` Qal sit, abide, seated in its place, be inhabited
+- `Niph` Niph be inhabited
+- `Pi` Pi and they shall set their encampments in thee
+- `Hiph 1` Hiph cause to sit
+- `Hiph 2` Hiph cause to abide
+- `Hiph 3.a` Hiph cause to dwell
+- `Hiph 3.b` Hiph cause, to be inhabited
+- `Hiph 4` Hiph marry, give a dwelling
+- `Hoph` Hoph and ye be made to dwell alone in the midst of the land
+
+### `bdb:k.ab.ab` כַּאֲשֶׁר (conj): according as, as, when
+- `1` according to that which, according as, as
+- `2` in so far as, since
+- `3` when
+
+### `bdb:k.bg.aa` כִּי (conj): that, for, when
+- `1` that
+- `2.a` when
+- `2.b` if
+- `2.c` when, if, though
+- `3` Because, since
+
+### `bdb:k.bk.aa` כָּלָה (vb) root כלה: be complete, at an end, finished, accomplished, spent
+- `Qal 1.a` Qal be complete, at an end
+- `Qal 1.b` Qal be completed, finished
+- `Qal 1.c` Qal be accomplished, fulfilled
+- `Qal 1.d` Qal be determined, plotted
+- `Qal 2.a` Qal be spent, used up, come to an end
+- `Qal 2.b` Qal waste away, be exhausted, fail
+- `Qal 2.c` Qal come to an end, vanish, perish, be destroyed
+- `Pi 1.a` Pi complete, bring to an end, finish
+- `Pi 1.b` Pi complete
+- `Pi 1.c` Pi finish
+- `Pi 1.d` Pi make an end, end
+- `Pi 1.e` Pi accomplish, fulfil, bring to pass
+- `Pi 1.f` Pi accomplish, determine
+- `Pi 2.a` Pi put an end to, cause to cease
+- `Pi 2.b` Pi cause to fail, exhaust, use up, spend
+- `Pi 2.c` Pi destroy, exterminate
+
+### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
+- `1` the whole of, any, every
+- `2.a` all things, all
+- `2.b.(b)` all
+
+### `bdb:l.ab.aa` לֹא (adv): not
+
+### `bdb:l.af.ab` מַלְאָךְ (n.m) root לאך: messenger
+- `1` messenger
+- `2` angel
+- `3` the theophanic angel
+
+### `bdb:l.ax.ad` לוֹט (n.pr.m): Lot
+
+### `bdb:l.az.aa` לוּן (vb) root לון: lodge, pass the night, abide
+- `Qal 1` Qal lodge, pass the night
+- `Qal 2` Qal abide, remain
+- `Hiph` Hiph cause to rest, lodge
+- `Hithpalp` Hithpalp dwell, abide
+
+### `bdb:l.bm.ad` לַ֫יְלָה (n.m): night
+
+### `bdb:m.ab.ab` מְאֹד (n.m) root מאד: muchness, force, abundance, exceedingly
+- `1` force, might
+- `2` exceedingly, greatly, very
+
+### `bdb:m.de.ab` מַצָּה (n.f): unleavened bread, cake, s
+
+### `bdb:n.ab.aa` נָא (part. of entreaty): I, we, pray, now
+
+### `bdb:n.ei.ab` נַ֫עַר (n.m) root נער: boy, lad, youth, retainer
+- `1` boy, lad, youth
+- `2` servant, retainer
+
+### `bdb:o.ad.aa` סָבַב (vb) root סבב: turn about, go around, surround
+- `Qal 1` Qal turn
+- `Qal 2.a` Qal march, walk, around
+- `Qal 2.b` Qal go partly round, circle, skirt
+- `Qal 2.c` Qal make a round, circuit, go about to
+- `Qal 2.d` Qal surround, encompass
+- `Niph 1.a` Niph turn oneself, close round
+- `Niph 1.b` Niph turn round
+- `Niph 1.c` Niph turn round
+- `Niph 2` Niph be turned over
+- `Pi` Pi to change, transform, the aspect of the matter
+- `Po‛ 1` Po‛ encompass
+- `Po‛ 2` Po‛ come about, assemble round
+- `Po‛ 3` Po‛ march, go about
+- `Po‛ 4` Po‛ enclose, envelop
+- `Hiph 1.a` Hiph turn, cause to turn
+- `Hiph 1.b` Hiph bring over
+- `Hiph 1.c` Hiph turn into
+- `Hiph 1.d` Hiph bring round
+- `Hiph 2.a` Hiph cause to go around
+- `Hiph 2.b` Hiph surround
+- `Hiph 2.c` Hiph encompass
+- `Hoph 1` Hoph be turned
+- `Hoph 2` Hoph surrounded, set
+
+### `bdb:o.ai.aa` סָגַר (vb) root סגר: shut, close
+- `Qal 1` Qal shut
+- `Qal 2.a` Qal close
+- `Qal 2.b` Qal close up
+- `Qal 3` Qal closed up, closely joined
+- `Qal 4` Qal shut up, prized, rare, fine
+- `Niph 1` Niph be shut up
+- `Niph 2` Niph be shut, closed
+- `Pi` Pi deliver up
+- `Hiph 1` Hiph deliver up
+- `Hiph 2` Hiph shut up
+
+### `bdb:o.aj.ad` סְדֹם (n.pr.loc): Sodom
+
+### `bdb:o.au.aa` סוּר (vb) root סור: turn aside
+- `Qal 1` Qal turn aside
+- `Qal 2` Qal depart
+- `Qal 3` Qal be removed
+- `Qal 4` Qal come to an end
+- `Pô‛lēl` Pô‛lēl he turned aside my ways
+- `Hiph 1` Hiph cause to, depart, remove, take away
+- `Pô‛lēl#7` Pô‛lēl be taken away, removed
+
+### `bdb:p.ac.ab` עֶ֫בֶד (n.m) root עבד: slave, servant
+- `1` slave, servant
+- `2` Subjects
+- `3` Servants, worshippers
+- `4` Servant
+- `5` servant
+- `6` thy servant, I
+
+### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
+- `II.1` until
+- `II.2` While
+- `II.3` to the point that, so that even
+
+### `bdb:p.cm.ad` עִיר (n.f): city, town
+- `1` city, town
+
+### `bdb:p.cs.ar` עַל (subst) root עלה: above
+- `I` height
+- `II.1.b` upon
+- `II.1.c` upon, on
+- `II.1.d` upon
+- `II.1.e` upon
+- `II.1.f` on
+- `II.1` Upon, upon, on
+- `II.2` excess
+- `II.3` elevation, pre-eminence
+- `II.4` addition
+- `II.5` over, above, over
+- `II.6` by, on
+- `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
+- `III.a` because that
+- `III.c.(a)` because
+- `III.c.(b)` notwithstanding that, although
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.2` from upon, from over, from by
+
+### `bdb:p.di.ab` עַם (n.m) root עמם: people
+- `1` a people, nation
+- `4` people, persons
+
+### `bdb:p.ff.ab` עֶ֫רֶב (n.[m.]) root ערב: set, evening
+- `1.a` evening, set
+- `1.b` between two evenings
+- `2` night
+
+### `bdb:p.fy.aa` עָשָׂה (vb) root עשׂה: do, make
+- `Qal I.1` Qal do
+- `Qal I.2` Qal deal
+- `Qal I.3` Qal do
+- `Qal I.4` Qal act, act with effect
+- `Qal II.1` Qal make
+- `Qal II.2` Qal produce, yield
+- `Qal II.3` Qal prepare
+- `Qal II.4` Qal make
+- `Qal II.5` Qal attend to, put in order
+- `Qal II.6` Qal observe, celebrate
+- `Qal II.7` Qal acquire
+- `Qal II.8` Qal appoint
+- `Qal II.9` Qal bring about
+- `Qal II.10` Qal use
+- `Qal II.11` Qal spend, pass
+- `Niph 1` Niph be done
+- `Niph 2.a` Niph be made
+- `Niph 2.b` Niph be produced
+- `Niph 2.c` Niph be prepared
+- `Niph 2.d` Niph be offered
+- `Niph 2.e` Niph be observed
+- `Niph 2.f` Niph be used
+- `Pu` Pu I was made
+
+### `bdb:q.cn.aa` פָּצַר (vb) root פצר: push, press
+- `Qal` Qal push, press
+- `Hiph` Hiph to display pushing
+
+### `bdb:q.ea.ab` פֶּ֫תַח (n.m) root פתח: opening, doorway, entrance
+
+### `bdb:s.av.aa` קוּם (vb) root קום: arise, stand up, stand
+- `Qal 1` Qal arise
+- `Qal 2` Qal arise
+- `Qal 3` Qal arise
+- `Qal 4` Qal arise
+- `Qal 5` Qal arise
+- `Qal 6.a` Qal arise
+- `Qal 6.b` Qal arise
+- `Qal 6.c` Qal arise
+- `Qal 7` Qal stand
+- `Pi 1` Pi fulfil
+- `Pi 2.a` Pi confirm, ratify
+- `Pi 2.b` Pi confirm, establish
+- `Pi 2.c` Pi impose
+- `Pō‛l` Pō‛l raise up
+- `Hithpō‛l` Hithpō‛l raise oneself, rise up
+- `Hiph 1` Hiph cause to arise, raise
+- `Hiph 2.a` Hiph raise, set up
+- `Hiph 2.b` Hiph erect, build
+- `Hiph 3` Hiph raise up
+- `Hiph 4.a` Hiph raise up
+- `Hiph 4.b` Hiph instigate, build
+- `Hiph 5` Hiph raise up
+- `Hiph 6` Hiph cause to stand
+- `Hoph` Hoph be raised up
+
+### `bdb:s.av.am` מָקוֹם (n.m) root קום: standing-place, place
+- `1.a` standing-place
+- `1.b` station
+- `1.c` post, office
+- `2.a` place
+- `2.b.(1)` place of human abode
+- `3` place
+- `4` place, locality, spot
+- `5.a` space, room
+- `5.b` space, distance
+- `6` region, quarter, direction
+
+### `bdb:s.co.ab` קָצֶה (n.[m.]) root קצה: end, extremity
+
+### `bdb:s.cy.aa` קָרָא (vb) root קרא: call, proclaim, read
+- `Qal 1.a` Qal call, cry, utter a loud sound
+- `Qal 1.b` Qal call, cry
+- `Qal 2.a` Qal call unto
+- `Qal 2.b` Qal cry
+- `Qal 3` Qal proclaim
+- `Qal 4.a` Qal read aloud
+- `Qal 4.b` Qal read
+- `Qal 5` Qal summon
+- `Qal 6` Qal call, name
+- `Niph 2` Niph be called
+- `Pu` Pu be called
+
+### `bdb:s.cz.aa` קָרָא (vb) root קרא: encounter, befall
+- `Qal 1` Qal meet, encounter
+- `Qal 2` Qal befall
+- `Niph` Niph meet unexpectedly
+- `Hiph` Hiph thou didst cause, to befall
+
+### `bdb:t.ab.aa` רָאָה (vb) root ראה: see
+- `Qal 1.a` Qal see
+- `Qal 1.b` Qal see
+- `Qal 2` Qal see
+- `Qal 3` Qal see
+- `Qal 4` Qal see, have, vision
+- `Qal 5` Qal see
+- `Qal 6` Qal look at, see
+- `Qal 8.a` Qal look into, look at
+- `Qal 8.b` Qal see
+- `Niph 1` Niph appear
+- `Niph 2` Niph be seen
+- `Niph 3` Niph be visible
+- `Pu` Pu his bones are not detected
+- `Hithp` Hithp look at each other
+- `Hiph 1.a` Hiph cause, to see, shew
+- `Hiph 1.b` Hiph cause to experience
+- `Hiph 2` Hiph cause to look intently at, to behold
+- `Hoph 1` Hoph be caused to see, be shewn
+- `Hoph 2` Hoph be exhibited to
+
+### `bdb:t.ar.aa` רֶ֫גֶל (n.f) root רגל: foot
+- `1` foot
+- `2` three times
+
+### `bdb:t.bw.af` רְחוֹב (n.f) root רחב: broad open place, plaza
+
+### `bdb:t.ce.aa` רָחַץ (vb) root רחץ: wash, wash off, away, bathe
+- `Qal 1` Qal wash
+- `Qal 2` Qal wash, bathe
+- `Pu` Pu be washed
+- `Hithp` Hithp I washed myself in snow
+
+### `bdb:t.dq.af` רָעַע (vb. denom) root רעע: be evil, bad
+- `Qal 1` Qal be displeasing
+- `Qal 2` Qal be sad
+- `Qal 3` Qal be injurious, evil
+- `Qal 4` Qal be evil, wicked
+- `Niph` Niph suffer hurt
+- `Hiph 1` Hiph do an injury, hurt
+- `Hiph 2` Hiph do evil, wickedly
+
+### `bdb:v.bn.aa` שׁוּב (vb) root שׁוב: turn back, return
+- `Qal 1` Qal turn back
+- `Qal 2` Qal return, come, go back
+- `Qal 3` Qal return unto
+- `Qal 5.a` Qal return
+- `Qal 5.c` Qal turn
+- `Qal 5.d` Qal return
+- `Qal 6.a` Qal turn back, apostatize
+- `Qal 6.b` Qal turn away
+- `Qal 6.c` Qal turn back
+- `Qal 6.d` Qal repent
+- `Qal 6.e` Qal turn back
+- `Qal 6.g` Qal return
+- `Qal` Qal turn back, return
+- `Pō‛l 1` Pō‛l bring back
+- `Pō‛l 2.a` Pō‛l restore, refresh
+- `Pō‛l 2.b` Pō‛l restore, repair
+- `Pō‛l 3` Pō‛l lead away
+- `Pō‛l 4` Pō‛l shew turning, apostatize
+- `Hiph 1.a` Hiph bring back
+- `Hiph 1.b` Hiph put back
+- `Hiph 1.c` Hiph draw back
+- `Hiph 1.d` Hiph give back, restore
+- `Hiph 1.e` Hiph relinguish
+- `Hiph 1.f` Hiph give in payment
+- … 15 more senses
+
+### `bdb:v.cg.aa` שָׁחָה (vb) root שׁחה: bow down
+- `Qal` Qal bow down
+- `Hiph` Hiph depresses it
+- `Hithpa‛lēl 1` Hithpa‛lēl bow down, prostrate oneself
+
+### `bdb:v.cy.aa` שָׁכַב (vb) root שׁכב: lie down
+- `Qal 1` Qal lie down
+- `Qal 2` Qal lodge
+- `Qal 3` Qal lie
+- `Qal 4.a` Qal lie down
+- `Qal 4.b` Qal lie down with his fathers
+- `Pu` Pu be lain with
+- `Hiph` Hiph lay
+- `Hoph` Hoph laid
+
+### `bdb:v.dd.ag` שָׁכַם (vb) root שׁכם: start, rise, early
+
+### `bdb:v.em.ab` שְׁנַ֫יִם (n.m) root שׁנה: two
+
+### `bdb:v.fa.ab` שַׁ֫עַר (n.m) root שׁער: gate
+
+### `bdb:v.gi.ad` מִשְׁתֶּה (n.m) root שׁתה: feast, drink
+

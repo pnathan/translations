@@ -282,7 +282,7 @@ Hebrew (MAM): וַיֹּאמַ֗ר הָגָ֞ר שִׁפְחַ֥ת שָׂרַ֛�
 
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
 ### `bdb:a.by.aa` אוּלַי (adv): if not
 - `1` peradventure, perhaps

@@ -275,9 +275,9 @@ Hebrew (MAM): וַיֹּאמַ֑ר אֲדֹנָ֣י יֱהֹוִ֔ה בַּמּ�
 
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
-### `bdb:a.be.ac` אֲדֹנָי (n.m) root אדן: lord
+### `bdb:a.be.ac` אָדוֹן (n.m) root אדן: lord
 
 ### `bdb:a.cd.aq` אוּר (n.pr.loc): Ur
 

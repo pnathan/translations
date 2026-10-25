@@ -267,7 +267,7 @@ Hebrew (MAM): וַיְכַ֖ל לְדַבֵּ֣ר אִתּ֑וֹ וַיַּ֣ע�
 
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
 ### `bdb:a.ak.aa` אֲבָל (adv) root אבל: nay
 - `1` verily, of a truth

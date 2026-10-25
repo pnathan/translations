@@ -306,6 +306,14 @@ func (ix *Index) Lookup(lemma string) (*Entry, bool) {
 	return e, true
 }
 
+// Head returns BDB's headword for an entry key, or "".
+func (ix *Index) Head(key string) string {
+	if b := ix.bdb[strings.TrimPrefix(key, "bdb:")]; b != nil {
+		return b.Head
+	}
+	return ""
+}
+
 // uniquePaths gives every sense a distinct path: an empty or repeated path
 // takes a "#k" suffix, k its position from 1.
 func uniquePaths(ss []Sense) {

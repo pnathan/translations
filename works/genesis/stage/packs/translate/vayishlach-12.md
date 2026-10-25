@@ -1,0 +1,726 @@
+# Translation pack: genesis vayishlach-12 (Genesis 35:7–35:14)
+
+Brief: `briefs/translate.md`. Write: `works/genesis/stage/translate/vayishlach-12.json`. Check: `go run ./cmd/tr check genesis vayishlach-12`.
+
+## Genesis 35:7
+
+Hebrew (MAM): וַיִּ֤בֶן שָׁם֙ מִזְבֵּ֔חַ וַיִּקְרָא֙ לַמָּק֔וֹם אֵ֖ל בֵּֽית־אֵ֑ל כִּ֣י שָׁ֗ם נִגְל֤וּ אֵלָיו֙ הָֽאֱלֹהִ֔ים בְּבׇרְח֖וֹ מִפְּנֵ֥י אָחִֽיו׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 35:7.1 | וַיִּ֤בֶן | וַ + יִּ֤בֶן | ו: and + בָּנָה `bdb:b.cb.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | בנה | mahpakh |
+| 35:7.2 | שָׁם֙ | שָׁם֙ | שָׁם `bdb:v.dv.aa` | adverb |  | pashta (disjunctive) |
+| 35:7.3 | מִזְבֵּ֔חַ | מִזְבֵּ֔חַ | מִזְבֵּחַ `bdb:g.ae.ad` | noun: common, masculine, singular, absolute | זבח | zaqef qaton (disjunctive) |
+| 35:7.4 | וַיִּקְרָא֙ | וַ + יִּקְרָא֙ | ו: and + קָרָא `bdb:s.cy.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | קרא | pashta (disjunctive) |
+| 35:7.5 | לַמָּק֔וֹם | לַ + מָּק֔וֹם | ל: to, for + מָקוֹם `bdb:s.av.am` | preposition: with definite article · noun: common, masculine, singular, absolute | קום | zaqef qaton (disjunctive) |
+| 35:7.6 | אֵ֖ל | אֵ֖ל | אֵל `bdb:a.dl.ab` | noun: common, masculine, singular, construct | אלה | tipḥa (disjunctive) |
+| 35:7.7 | בֵּֽית־ | בֵּֽית | בֵּֽיתְ־אֵל `bdb:b.bp.ad` | noun: proper name |  |  |
+| 35:7.8 | אֵ֑ל | אֵ֑ל | בֵּֽיתְ־אֵל `bdb:b.bp.ad` | noun: proper name |  | etnaḥta (disjunctive) |
+| 35:7.9 | כִּ֣י | כִּ֣י | כִּי `bdb:k.bg.aa` | conjunction |  | munaḥ |
+| 35:7.10 | שָׁ֗ם | שָׁ֗ם | שָׁם `bdb:v.dv.aa` | adverb |  | revia (disjunctive) |
+| 35:7.11 | נִגְל֤וּ | נִגְל֤וּ | גָּלָה `bdb:c.ca.aa` | verb: nifal, perfect (qatal), 3rd person, common, plural | גלה | mahpakh |
+| 35:7.12 | אֵלָיו֙ | אֵלָי + ו֙ | אֶל `bdb:a.di.aa` +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | pashta (disjunctive) |
+| 35:7.13 | הָֽאֱלֹהִ֔ים | הָֽ + אֱלֹהִ֔ים | ה: the + אֱלֹהִים `bdb:a.dl.ad` | particle: definite article · noun: common, masculine, plural, absolute | אלה | zaqef qaton (disjunctive) |
+| 35:7.14 | בְּבׇרְח֖וֹ | בְּ + בָרְח֖ + וֹ | ב: in, with, by + בָּרַח `bdb:b.dc.aa` +  | preposition · verb: qal, infinitive construct · suffix: pronominal, 3rd person, masculine, singular | ברח | tipḥa (disjunctive) |
+| 35:7.15 | מִפְּנֵ֥י | מִ + פְּנֵ֥י | מ: from, than + פָּנֶה `bdb:q.bu.ab` | preposition · noun: common, both genders, plural, construct | פנה | merkha |
+| 35:7.16 | אָחִֽיו׃ | אָחִֽי + ו | אָח `bdb:a.ck.ab` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | אחה | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:35:7:1` Rashi **normative** on 35:7.6 35:7.7 35:7.8 «אֵ֖ל בֵּֽית אֵ֑ל» (matched; filed at 35:7) DH «אל בית אל.»: הַקָּבָּ"ה בְּבֵית אֵל, גִּלּוּי שְׁכִינָתוֹ בְּבֵית אֵל. יֵשׁ תֵּבָה חֲסֵרָה בֵּי"ת הַמְשַׁמֶּשֶׁת בְּרֹאשָׁהּ, כְּמוֹ הִנֵּה הוּא בֵּית מָכִיר בֶּן עַמִּיאֵל (שמואל ב ט') – כְּמוֹ בְּבֵית מָכִיר; בֵּית אָבִיךְ (בראשית ל״ח:י״א) – כְּמוֹ בְּבֵית אָבִיךְ:
+- `rashi:35:7:2` Rashi **normative** on 35:7.11 35:7.12 35:7.13 «נִגְל֤וּ אֵלָיו֙ הָֽאֱלֹהִ֔ים» (matched; filed at 35:7) DH «נגלו אליו האלהים.»: בִּמְקוֹמוֹת הַרְבֵּה יֵשׁ שֵׁם אֱלֹהוּת וְאַדְנוּת בִּלְשׁוֹן רַבִּים, כְּמוֹ אֲדֹנֵי יוֹסֵף (שם ל"ט), אִם בְּעָלָיו עִמּוֹ (שמות כ'), וְלֹא נֶאֱמַר בַּעֲלוֹ, וְכֵן אֱלֹהוּת שֶׁהוּא לְשׁוֹן שׁוֹפֵט וּמָרוּת נִזְכָּר בִּלְשׁוֹן רַבִּים, אֲבָל אֶחָד מִכָּל שְׁאָר הַשֵּׁמוֹת לֹא תִמְצָא בִּלְשׁוֹן רַבִּים:
+- `ibn-ezra:35:7:1` Ibn Ezra **normative** on whole 35:7 (verse; filed at 35:7) DH «וטעם»: כי שם נגלו אליו האלהים. המלאכים, כמו "והנה מלאכי אלהים" (בראשית כח, יב):
+- `radak:35:7:1` Radak on 35:7.1 35:7.2 35:7.3 «וַיִּ֤בֶן שָׁם֙ מִזְבֵּ֔חַ» (matched; filed at 35:7) DH «וַיִּבֶן שָׁם מִזְבֵּחַ.»: פֵּרַשׁ בַּבַּיִת אֲשֶׁר בָּנָה שָׁם בִּמְקוֹם הַמַּצֵּבָה, כְּמוֹ שֶׁאָמַר ״יִהְיֶה״ (בראשית כח:כב), וּכְמוֹ שֶׁפֵּרַשְׁנוּ, וְאַף עַל פִּי שֶׁלֹּא זָכַר הַבַּיִת.
+- `radak:35:7:2` Radak on 35:7.4 35:7.5 35:7.6 35:7.7 35:7.8 «וַיִּקְרָא֙ לַמָּק֔וֹם אֵ֖ל בֵּֽית אֵ֑ל» (matched; filed at 35:7) DH «וַיִּקְרָא לַמָּקוֹם אֵל בֵּית־אֵל.»: כְּבָר קְרָאוֹ בֵּית־אֵל, וְעַתָּה הוֹסִיף עָלָיו אֵל, כְּמוֹ שֶׁפֵּרַשְׁנוּ גַּבֵּי ״אֵל אֱלֹהֵי יִשְׂרָאֵל״ (בראשית לג:כ).
+- `radak:35:7:3` Radak on 35:7.9 35:7.10 35:7.11 35:7.12 35:7.13 «כִּ֣י שָׁ֗ם נִגְל֤וּ אֵלָיו֙ הָֽאֱלֹהִ֔ים» (matched; filed at 35:7) DH «כִּי שָׁם נִגְלוּ אֵלָיו הָאֱלֹהִים.»: הַמַּלְאָכִים שֶׁרָאָה בַּסֻּלָּם, אוֹ פֵּרֵשׁ
+- `radak:35:7:4` Radak on 35:7.13 «הָֽאֱלֹהִ֔ים» (matched; filed at 35:7) DH «הָאֱלֹהִים»: עַל הַשֵּׁם יִתְבָּרַךְ וְאָמַר
+- `radak:35:7:5` Radak on 35:7.11 «נִגְל֤וּ» (matched; filed at 35:7) DH «נִגְלוּ»: בִּלְשׁוֹן רַבִּים דֶּרֶךְ כָּבוֹד, כְּמוֹ שֶׁאָמַר ״יִשְׂמַח יִשְׂרָאֵל בְּעֹשָׂיו״ (תהלים קמט:ב), ״אַיֵּה אֱלוֹהַּ עֹשָׂי״ (איוב לה:י) וְהַדּוֹמִים לָהֶם.
+- `onkelos:35:7:1` Targum Onkelos on whole 35:7 (version; filed at 35:7): וּבְנָא תַמָּן מַדְבְּחָא וּקְרָא לְאַתְרָא אֵל בֵּית אֵל אֲרֵי תַמָּן אִתְגְּלִי לֵיהּ יְיָ בְּמֵעִרְקֵיהּ מִן קֳדָם אָחוּהִי:
+- `sforno:35:7:1` Sforno on 35:7.4 35:7.5 «וַיִּקְרָא֙ לַמָּק֔וֹם» (matched; filed at 35:7) DH «וַיִּקְרָא לַמָּקוֹם.»: לְאוֹתוֹ מָלוֹן אוֹרְחִים שֶׁלָּן בּוֹ בְּלֶכְתּוֹ לְחָרָן, כְּאָמְרוֹ "וַיִּפְגַּע בַּמָּקוֹם" (בראשית כח:יא).
+- `sforno:35:7:2` Sforno on 35:7.6 35:7.7 35:7.8 «אֵ֖ל בֵּֽית אֵ֑ל» (matched; filed at 35:7) DH «אֵל בֵּית אֵל.»: מִקְדָּשׁוֹ שֶׁל בֵּית אֵל.
+
+## Genesis 35:8
+
+Hebrew (MAM): וַתָּ֤מׇת דְּבֹרָה֙ מֵינֶ֣קֶת רִבְקָ֔ה וַתִּקָּבֵ֛ר מִתַּ֥חַת לְבֵֽית־אֵ֖ל תַּ֣חַת הָֽאַלּ֑וֹן וַיִּקְרָ֥א שְׁמ֖וֹ אַלּ֥וֹן בָּכֽוּת׃
+
+Paragraph mark after this verse: פ
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 35:8.1 | וַתָּ֤מׇת | וַ + תָּ֤מָת | ו: and + מוּת `bdb:m.be.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular | מות | mahpakh |
+| 35:8.2 | דְּבֹרָה֙ | דְּבֹרָה֙ | דְּבוֹרָה `bdb:d.ai.ah` | noun: proper name |  | pashta (disjunctive) |
+| 35:8.3 | מֵינֶ֣קֶת | מֵינֶ֣קֶת | יָנַק `bdb:j.bw.aa` | noun: common, feminine, singular, construct | ינק | munaḥ |
+| 35:8.4 | רִבְקָ֔ה | רִבְקָ֔ה | רִבְקָה `bdb:t.ao.ac` | noun: proper name |  | zaqef qaton (disjunctive) |
+| 35:8.5 | וַתִּקָּבֵ֛ר | וַ + תִּקָּבֵ֛ר | ו: and + קָבַר `bdb:s.ah.aa` | conjunction · verb: nifal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular | קבר | tevir (disjunctive) |
+| 35:8.6 | מִתַּ֥חַת | מִ + תַּ֥חַת | מ: from, than + תַּחַת `bdb:w.an.aa` | preposition · preposition | תחת | merkha |
+| 35:8.7 | לְבֵֽית־ | לְ + בֵֽית | ל: to, for + בֵּֽיתְ־אֵל `bdb:b.bp.ad` | preposition · noun: proper name |  |  |
+| 35:8.8 | אֵ֖ל | אֵ֖ל | בֵּֽיתְ־אֵל `bdb:b.bp.ad` | noun: proper name |  | tipḥa (disjunctive) |
+| 35:8.9 | תַּ֣חַת | תַּ֣חַת | תַּחַת `bdb:w.an.aa` | preposition | תחת | munaḥ |
+| 35:8.10 | הָֽאַלּ֑וֹן | הָֽ + אַלּ֑וֹן | ה: the + אַלּוֹן `bdb:a.dq.ac` | particle: definite article · noun: common, masculine, singular, absolute | אלל | etnaḥta (disjunctive) |
+| 35:8.11 | וַיִּקְרָ֥א | וַ + יִּקְרָ֥א | ו: and + קָרָא `bdb:s.cy.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | קרא | merkha |
+| 35:8.12 | שְׁמ֖וֹ | שְׁמ֖ + וֹ | שֵׁם `bdb:v.dv.ab` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular |  | tipḥa (disjunctive) |
+| 35:8.13 | אַלּ֥וֹן | אַלּ֥וֹן | אַלּוֹן בָּכוּת `bdb:b.bq.ad` | noun: proper name | בכה | merkha |
+| 35:8.14 | בָּכֽוּת׃ | בָּכֽוּת | אַלּוֹן בָּכוּת `bdb:b.bq.ad` | noun: proper name | בכה | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:35:8:1` Rashi **normative** on 35:8.1 35:8.2 «וַתָּ֤מׇת דְּבֹרָה֙» (matched; filed at 35:8) DH «ותמת דבורה.»: מָה עִנְיַן דְּבוֹרָה בְּבֵית יַעֲקֹב? אֶלָּא לְפִי שֶׁאָמְרָה רִבְקָה לְיַעֲקֹב וְשָׁלַחְתִּי וּלְקַחְתִּיךָ מִשָּׁם, שָׁלְחָה דְבוֹרָה אֶצְלוֹ לְפַדַּן אֲרָם לָצֵאת מִשָּׁם, וּמֵתָה בַדֶּרֶךְ; מִדִּבְרֵי רַבִּי מֹשֶׁה הַדַּרְשָׁן לְמַדְתִּיהָ:
+- `rashi:35:8:2` Rashi **normative** on 35:8.6 35:8.7 35:8.8 «מִתַּ֥חַת לְבֵֽית אֵ֖ל» (matched; filed at 35:8) DH «מתחת לבית אל.»: הָעִיר יוֹשֶׁבֶת בָּהָר וְנִקְבְּרָה בְּרַגְלֵי הָהָר:
+- `rashi:35:8:3` Rashi **normative** on 35:8.9 35:8.10 «תַּ֣חַת הָֽאַלּ֑וֹן» (matched; filed at 35:8) DH «תחת האלון.»: בְּשִׁפּוּלֵי מֵישְׁרָא, שֶׁהָיָה מִישׁוֹר מִלְמַעְלָה בְּשִׁפּוּעַ הָהָר וְהַקְּבוּרָה מִלְּמַטָּה, וּמִישׁוֹר שֶׁל בֵּית אֵל הָיוּ קוֹרִין לוֹ אַלּוֹן. וְאַגָּדָה, נִתְבַּשֵּׂר שָׁם בְּאֵבֶל שֵׁנִי, שֶׁהֻגַּד לוֹ עַל אִמּוֹ שֶׁמֵּתָה (בראשית רבה), וְאַלּוֹן בִּלְשׁוֹן יְוָנִי אַחֵר, וּלְפִי שֶׁהֶעֱלִימוּ אֶת יוֹם מוֹתָהּ שֶׁלֹּא יְקַלְּלוּ הַבְּרִיּוֹת כֶּרֶס שֶׁיָּצָא מִמֶּנּוּ עֵשָׂו, אַף הַכָּתוּב לֹא פִרְסְמָהּ:
+- `ramban:35:8:1` Ramban on 35:8.1 35:8.2 35:8.3 35:8.4 «וַתָּ֤מׇת דְּבֹרָה֙ מֵינֶ֣קֶת רִבְקָ֔ה» (matched; filed at 35:8) DH «וַתָּמָת דְּבֹרָה מֵינֶקֶת רִבְקָה»: לֹא יָדַעְתִּי לָמָּה נִכְנַס הַפָּסוּק הַזֶּה בֵּין "וַיִּקְרָא לַמָּקוֹם אֵל בֵּית אֵל" וּבֵין "וַיֵּרָא אֱלֹהִים אֶל יַעֲקֹב עוֹד", וְהִפְסִיק בְּעִנְיָן אַחֵר שֶׁהָיָה בְּבַת אַחַת וּבְמָקוֹם אֶחָד, כִּי יַעֲקֹב בְּבֹאוֹ לוּזָה הִיא בֵּית אֵל בָּנָה מִזְבֵּחַ וְקָרָא לַמָּקוֹם אֵל בֵּית אֵל, וְנִרְאָה לוֹ הָאֱלֹהִים שָׁם וַיְבָרֶךְ אוֹתוֹ, וְלָמָּה הוּשַׁם הַכָּתוּב הַזֶּה בְּתוֹךְ עִנְיָן אֶחָד. וְהַקָּרוֹב מָה שֶׁאָמְרוּ רַבּוֹתֵינוּ (ב"ר פא ה) שֶׁיִּרְמֹז לְמִיתַת רִבְקָה, וְלָכֵן קָרָא שֵׁם הַמָּקוֹם הַהוּא אַלּוֹן בָּכוּת, כִּי אֵין בְּכִי וַאֲנָקָה עַל הַמֵּינֶקֶת הַזְּקֵנָה שֶׁיִּקָּרֵא שֵׁם הַמָּקוֹם עָלָיו, אֲבָל יַעֲקֹב בָּכָה וְהִתְאַבֵּל עַל אִמּוֹ הַצַּדֶּקֶת אֲשֶׁר אֲהֵבַתְהוּ וְשָׁלְחָה אוֹתוֹ שָׁם וְלֹא זָכְתָה לִרְאוֹתוֹ בְּשׁוּבוֹ, וְלָכֵן נִגְלָה אֵלָיו הָאֱלֹהִים וּבֵרַךְ אוֹתוֹ לְנַחֲמוֹ כַּאֲשֶׁר עָשָׂה לְיִצְחָק אָבִיו אַחֲרֵי מוֹת אַבְרָהָם (בראשית כ"ה:י"א). וּבִשְׁנֵיהֶם אָמְרוּ חֲכָמִים (סוטה יד), בִּרְכַּת אֲבֵלִים בֵּרְכוֹ. וְסִיּוּעַ לָזֶה מַה שֶׁאָמוּר לְמַטָּה (בראשית ל"ה:כ"ז) "וַיָּבֹא יַעֲקֹב אֶל יִצְחָק אָבִיו מַמְרֵא קִרְיַת הָאַרְבַּע", וְאִלּוּ הָיְתָה רִבְקָה שָׁם הָיָה מַזְכִּיר "אֶל אָבִיו וְאֶל אִמּוֹ", כִּי הִיא הַשּׁוֹלַחַת אוֹתוֹ שָׁם וְהַגּוֹרֶמֶת לוֹ כָּל הַטּוֹבָה, וְיִצְחָק בַּעֲצָתָהּ צִוָּה אוֹתוֹ לָלֶכֶת שָׁם. וְכָתַב רַשִׁ"י (רש"י על בראשית ל"ה:ח'), וּלְפִי שֶׁהֶעֱלִימוּ אֶת יוֹם מוֹתָהּ שֶׁלֹּא יְקַלְּלוּ אוֹתָהּ הַבְּרִיּוֹת, כָּרֵס שֶׁיָּצָא מִמֶּנָּה עֵשָׂו, אַף הַכָּתוּב לֹא פִּרְסְמָהּ. וּמִדְרַשׁ חֲכָמִים הוּא (פס … [cut; full text in the review pack]
+- `radak:35:8:1` Radak on 35:8.1 35:8.2 «וַתָּ֤מׇת דְּבֹרָה֙» (matched; filed at 35:8) DH «וַתָּמָת דְּבֹרָה.»: אָמְרוּ כִּי שָׁלְחָה אוֹתָהּ רִבְקָה אֶל יַעֲקֹב, כְּמוֹ שֶׁאָמְרָה ״וְשָׁלַחְתִּי וּלְקַחְתִּיךָ מִשָּׁם״ (בראשית כז:מה), וְהָיְתָה בָּאָה עִמּוֹ וּמֵתָה בְּבֵית אֵל.
+- `radak:35:8:2` Radak on 35:8.9 35:8.10 «תַּ֣חַת הָֽאַלּ֑וֹן» (matched; filed at 35:8) DH «תַּחַת הָאַלּוֹן.»: כְּמוֹ ״תַּחַת אַלּוֹן וְלִבְנֶה״ (הושע ד:יג), ״אַלּוֹנִים מִבָּשָׁן״ (יחזקאל כז:ו), וְתִרְגֵּם אוֹתָם יוֹנָתָן ״בְּלוּטִין״, וְהוּא הַנִּקְרָא קַשְׁטַנְיִיס בְּלַעַ״ז, וְאוּנְקְלוֹס תִּרְגֵּם זֶה כְּמוֹ אֵלוֹן בְּצֵרֵי ״בְּאֵלֹנֵי מַמְרֵא״, בְּשִׁפּוּלֵי מַמְרֵא. בִּבְרֵאשִׁית רַבָּה (פא:ה) רַבִּי שְׁמוּאֵל בַּר נַחְמָן אָמַר: לָשׁוֹן יְוָנִית הוּא, אַלּוֹן – אֶחָד, עַד שֶׁהוּא מְשַׁמֵּר אֶבְלוּת שֶׁל דְּבוֹרָה בָּאָה לוֹ בְּשׂוֹרָתָהּ שֶׁל אִמּוֹ שֶׁמֵּתָה.
+- `onkelos:35:8:1` Targum Onkelos on whole 35:8 (version; filed at 35:8): וּמִיתַת דְּבוֹרָה מֵנִקְתָּא דְרִבְקָה וְאִתְקְבָרַת מִלְּרַע לְבֵית אֵל בְּשִׁפּוֹלֵי מֵישְׁרָא וּקְרָא שְׁמֵיהּ מֵישַׁר בָּכִיתָא:
+- `sforno:35:8:1` Sforno on 35:8.13 35:8.14 «אַלּ֥וֹן בָּכֽוּת׃» (matched; filed at 35:8) DH «אַלּוֹן בָּכוּת.»: וְזֶה הִפְסִיק הַגָּלוּת הַשְּׁכִינָה, כְּאָמְרָם רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה שֶׁאֵין הַשְּׁכִינָה שׁוֹרָה מִתּוֹךְ עַצְבוּת (שבת ל:).
+
+## Genesis 35:9
+
+Hebrew (MAM): וַיֵּרָ֨א אֱלֹהִ֤ים אֶֽל־יַעֲקֹב֙ ע֔וֹד בְּבֹא֖וֹ מִפַּדַּ֣ן אֲרָ֑ם וַיְבָ֖רֶךְ אֹתֽוֹ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 35:9.1 | וַיֵּרָ֨א | וַ + יֵּרָ֨א | ו: and + רָאָה `bdb:t.ab.aa` | conjunction · verb: nifal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | ראה | qadma |
+| 35:9.2 | אֱלֹהִ֤ים | אֱלֹהִ֤ים | אֱלֹהִים `bdb:a.dl.ad` | noun: common, masculine, plural, absolute | אלה | mahpakh |
+| 35:9.3 | אֶֽל־ | אֶֽל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 35:9.4 | יַעֲקֹב֙ | יַעֲקֹב֙ | יַעֲקֹב `bdb:p.eu.aj` | noun: proper name | עקב | pashta (disjunctive) |
+| 35:9.5 | ע֔וֹד | ע֔וֹד | עוֹד `bdb:p.bc.ab` | adverb | עוד | zaqef qaton (disjunctive) |
+| 35:9.6 | בְּבֹא֖וֹ | בְּ + בֹא֖ + וֹ | ב: in, with, by + בּוֹא `bdb:b.ap.aa` +  | preposition · verb: qal, infinitive construct · suffix: pronominal, 3rd person, masculine, singular | בוא | tipḥa (disjunctive) |
+| 35:9.7 | מִפַּדַּ֣ן | מִ + פַּדַּ֣ן | מ: from, than + פַּדָּן `bdb:q.aj.aj` | preposition · noun: proper name |  | munaḥ |
+| 35:9.8 | אֲרָ֑ם | אֲרָ֑ם | פַּדָּן `bdb:q.aj.aj` | noun: proper name |  | etnaḥta (disjunctive) |
+| 35:9.9 | וַיְבָ֖רֶךְ | וַ + יְבָ֖רֶךְ | ו: and + בָּרַךְ `bdb:b.dd.aa` | conjunction · verb: piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | ברך | tipḥa (disjunctive) |
+| 35:9.10 | אֹתֽוֹ׃ | אֹתֽ + וֹ | אֵת `bdb:a.gm.aa` +  | particle: direct object marker · suffix: pronominal, 3rd person, masculine, singular | אות | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:35:9:1` Rashi **normative** on 35:9.5 «ע֔וֹד» (matched; filed at 35:9) DH «עוד.»: פַּעַם שֵׁנִי בַּמָּקוֹם הַזֶּה, אֶחָד בְּלֶכְתּוֹ וְאֶחָד בְּשׁוּבוֹ:
+- `rashi:35:9:2` Rashi **normative** on 35:9.9 35:9.10 «וַיְבָ֖רֶךְ אֹתֽוֹ׃» (matched; filed at 35:9) DH «ויברך אתו.»: בִּרְכַּת אֲבֵלִים (בראשית רבה):
+- `radak:35:9:1` Radak on 35:9.1 35:9.2 «וַיֵּרָ֨א אֱלֹהִ֤ים» (matched; filed at 35:9) DH «וַיֵּרָא אֱלֹהִים.»: הוּא אֵל יִתְבָּרַךְ, זֶהוּ שֶׁאָמַר לוֹ
+- `radak:35:9:2` Radak on 35:9.5 «ע֔וֹד» (matched; filed at 35:9) DH «עוֹד»: , כִּי כְּבָר נִגְלָה אֵלָיו בְּבָרְחוֹ, כְּמוֹ שֶׁאָמַר ״וְהִנֵּה ה׳ נִצָּב עָלָיו״ (בראשית כח:יג), וְעַתָּה בְּבֹאוֹ מִפַּדַּן אֲרָם נִגְלָה גַּם כֵּן.
+- `radak:35:9:3` Radak on 35:9.9 35:9.10 «וַיְבָ֖רֶךְ אֹתֽוֹ׃» (matched; filed at 35:9) DH «וַיְבָרֶךְ אֹתוֹ.»: וְהַבְּרָכָה הִיא ״כִּי אִם יִשְׂרָאֵל״ (בראשית לה:י), רוֹצֶה לוֹמַר כִּי אִם יִשְׂרָאֵל מִשְׁתַּתֵּף עִמּוֹ, כְּמוֹ שֶׁפֵּרַשְׁנוּ.
+- `onkelos:35:9:1` Targum Onkelos on whole 35:9 (version; filed at 35:9): וְאִתְגְּלִי יְיָ לְיַעֲקֹב עוֹד בְּמֵיתוֹהִי מִפַּדַּן אֲרָם וּבָרִיךְ יָתֵיהּ:
+- `sforno:35:9:1` Sforno on 35:9.1 35:9.2 «וַיֵּרָ֨א אֱלֹהִ֤ים» (matched; filed at 35:9) DH «וַיֵּרָא אֱלֹהִים.»: אַחַר עֲבוֹר הַבֶּכִי.
+- `sforno:35:9:2` Sforno on 35:9.3 35:9.4 35:9.5 «אֶֽל יַעֲקֹב֙ ע֔וֹד» (matched; filed at 35:9) DH «אֶל יַעֲקֹב עוֹד.»: כְּמוֹ שֶׁנִּרְאָה אֵלָיו שָׁם בְּלֶכְתּוֹ לְחָרָן, כְּאָמְרוֹ הַנִּרְאֶה אֵלֶיךָ בְּבָרְחֲךָ :
+- `sforno:35:9:3` Sforno on 35:9.6 35:9.7 35:9.8 «בְּבֹא֖וֹ מִפַּדַּ֣ן אֲרָ֑ם» (matched; filed at 35:9) DH «בְּבֹאוֹ מִפַּדַּן אֲרָם.»: אֲבָל בְּפַדַּן אֲרָם לֹא נִגְלָה אֵלָיו, אַף עַל פִּי שֶׁדִּבֵּר עִמּוֹ עַל יְדֵי מַלְאָךְ, כְּאָמְרוֹ "וַיֹּאמֶר אֵלַי מַלְאַךְ הָאֱלֹהִים בַּחֲלוֹם" (בראשית לא:יא):
+
+## Genesis 35:10
+
+Hebrew (MAM): וַיֹּֽאמֶר־ל֥וֹ אֱלֹהִ֖ים שִׁמְךָ֣ יַעֲקֹ֑ב לֹֽא־יִקָּרֵא֩ שִׁמְךָ֨ ע֜וֹד יַעֲקֹ֗ב כִּ֤י אִם־יִשְׂרָאֵל֙ יִהְיֶ֣ה שְׁמֶ֔ךָ וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ יִשְׂרָאֵֽל׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 35:10.1 | וַיֹּֽאמֶר־ | וַ + יֹּֽאמֶר | ו: and + אָמַר `bdb:a.ea.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | אמר |  |
+| 35:10.2 | ל֥וֹ | ל֥ + וֹ | ל: to, for +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | merkha |
+| 35:10.3 | אֱלֹהִ֖ים | אֱלֹהִ֖ים | אֱלֹהִים `bdb:a.dl.ad` | noun: common, masculine, plural, absolute | אלה | tipḥa (disjunctive) |
+| 35:10.4 | שִׁמְךָ֣ | שִׁמְ + ךָ֣ | שֵׁם `bdb:v.dv.ab` +  | noun: common, masculine, singular, construct · suffix: pronominal, 2nd person, masculine, singular |  | munaḥ |
+| 35:10.5 | יַעֲקֹ֑ב | יַעֲקֹ֑ב | יַעֲקֹב `bdb:p.eu.aj` | noun: proper name | עקב | etnaḥta (disjunctive) |
+| 35:10.6 | לֹֽא־ | לֹֽא | לֹא `bdb:l.ab.aa` | particle: negative |  |  |
+| 35:10.7 | יִקָּרֵא֩ | יִקָּרֵא֩ | קָרָא `bdb:s.cy.aa` | verb: nifal, imperfect (yiqtol), 3rd person, masculine, singular | קרא | telisha qetana |
+| 35:10.8 | שִׁמְךָ֨ | שִׁמְ + ךָ֨ | שֵׁם `bdb:v.dv.ab` +  | noun: common, masculine, singular, construct · suffix: pronominal, 2nd person, masculine, singular |  | qadma |
+| 35:10.9 | ע֜וֹד | ע֜וֹד | עוֹד `bdb:p.bc.ab` | adverb | עוד | geresh (disjunctive) |
+| 35:10.10 | יַעֲקֹ֗ב | יַעֲקֹ֗ב | יַעֲקֹב `bdb:p.eu.aj` | noun: proper name | עקב | revia (disjunctive) |
+| 35:10.11 | כִּ֤י | כִּ֤י | כִּי אם־ `bdb:k.bg.ab` | conjunction |  | mahpakh |
+| 35:10.12 | אִם־ | אִם | כִּי אם־ `bdb:k.bg.ab` | conjunction |  |  |
+| 35:10.13 | יִשְׂרָאֵל֙ | יִשְׂרָאֵל֙ | יִשְׂרָאֵל `bdb:u.ce.ab` | noun: proper name | שׂרה | pashta (disjunctive) |
+| 35:10.14 | יִהְיֶ֣ה | יִהְיֶ֣ה | הָיָה `bdb:e.bf.aa` | verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | היה | munaḥ |
+| 35:10.15 | שְׁמֶ֔ךָ | שְׁמֶ֔ + ךָ | שֵׁם `bdb:v.dv.ab` +  | noun: common, masculine, singular, construct · suffix: pronominal, 2nd person, masculine, singular |  | zaqef qaton (disjunctive) |
+| 35:10.16 | וַיִּקְרָ֥א | וַ + יִּקְרָ֥א | ו: and + קָרָא `bdb:s.cy.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | קרא | merkha |
+| 35:10.17 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
+| 35:10.18 | שְׁמ֖וֹ | שְׁמ֖ + וֹ | שֵׁם `bdb:v.dv.ab` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular |  | tipḥa (disjunctive) |
+| 35:10.19 | יִשְׂרָאֵֽל׃ | יִשְׂרָאֵֽל | יִשְׂרָאֵל `bdb:u.ce.ab` | noun: proper name | שׂרה | silluq (disjunctive) |
+
+- 35:10.8: WLC note c: We read one or more accents in L differently than BHS. Often this notation indicates a typographical error in BHS.
+
+### Commentary anchored to this verse
+
+- `rashi:35:10:1` Rashi **normative** on 35:10.6 35:10.7 35:10.8 35:10.9 35:10.10 «לֹֽא יִקָּרֵא֩ שִׁמְךָ֨ ע֜וֹד יַעֲקֹ֗ב» (matched; filed at 35:10) DH «לא יקרא שמך עוד יעקב.»: לְשׁוֹן אָדָם הַבָּא בְּמַאֲרָב וְעָקְבָּה, אֶלָּא לְשׁוֹן שַׂר וְנָגִיד:
+- `ibn-ezra:35:10:1` Ibn Ezra **normative** on 35:10.6 35:10.7 35:10.8 35:10.9 35:10.10 «לֹֽא יִקָּרֵא֩ שִׁמְךָ֨ ע֜וֹד יַעֲקֹ֗ב» (matched; filed at 35:10) DH «לא יקרא שמך עוד יעקב.»: לבדו כי גם ישראל:
+- `ramban:35:10:1` Ramban on 35:10.4 35:10.5 «שִׁמְךָ֣ יַעֲקֹ֑ב» (matched; filed at 35:10) DH «שִׁמְךָ יַעֲקֹב»: יֹאמַר כִּי עַתָּה עוֹדְךָ אַתָּה נִקְרָא יַעֲקֹב אַף עַל פִּי שֶׁהֶחְלִיף שִׁמְךָ שָׂרוֹ שֶׁל עֵשָׂו, כִּי הוּא לֹא נִשְׁתַּלַּח לְךָ לְהַחֲלִיף אֶת שִׁמְךָ, אֲבָל מֵעַתָּה לֹא יִקָּרֵא שִׁמְךָ יַעֲקֹב כִּי אִם יִשְׂרָאֵל יִהְיֶה שְׁמֶךָ. וְזֶה טַעַם "וַיִּקְרָא אֶת שְׁמוֹ יִשְׂרָאֵל". אוֹ יִרְמֹז שֶׁקָּרָא אֶת שְׁמוֹ יִשְׂרָאֵל מוּסָף עַל יַעֲקֹב, לֹא שֶׁיֵּאָסֵר לְהִקָּרֵא יַעֲקֹב:
+- `onkelos:35:10:1` Targum Onkelos on whole 35:10 (version; filed at 35:10): וַאֲמַר לֵיהּ יְיָ שְׁמָךְ יַעֲקֹב לָא יִתְקְרֵי שְׁמָךְ עוֹד יַעֲקֹב אֶלָּהֵין יִשְׂרָאֵל יְהֵא שְׁמָךְ וּקְרָא יָת שְׁמֵיהּ יִשְׂרָאֵל:
+- `sforno:35:10:1` Sforno on 35:10.4 35:10.5 «שִׁמְךָ֣ יַעֲקֹ֑ב» (matched; filed at 35:10) DH «שִׁמְךָ יַעֲקֹב.»: אֲנִי מְקַיֵּם לְךָ עַתָּה זֶה הַשֵּׁם, שֶׁתִּהְיֶה קַיָּם אַתָּה לְבַדְּךָ בְּעָקֵב וּבְסוֹף כִּלְיוֹן כָּל שְׁאָר הָאֻמּוֹת, כְּאָמְרוֹ (ירמיהו מו:כח) "כִּי אֶעֱשֶׂה כָלָה בְּכָל הַגּוֹיִם וְאוֹתְךָ לֹא אֶעֱשֶׂה כָלָה":
+- `sforno:35:10:2` Sforno on 35:10.6 35:10.7 35:10.8 35:10.9 35:10.10 «לֹֽא יִקָּרֵא֩ שִׁמְךָ֨ ע֜וֹד יַעֲקֹ֗ב» (matched; filed at 35:10) DH «לֹא יִקָּרֵא שִׁמְךָ עוֹד יַעֲקֹב.»: וְכַאֲשֶׁר יִתְקַיֵּם עִנְיַן שֵׁם יַעֲקֹב שֶׁתִּשָּׁאֵר בַּסּוֹף אַתָּה לְבַדְּךָ, כְּאָמְרוֹ "הֶן עָם לְבָדָד יִשְׁכֹּן" (במדבר כג:ט), אָז לֹא יִהְיֶה עִנְיָן עוֹד לְשֵׁם יַעֲקֹב.
+- `sforno:35:10:3` Sforno on 35:10.11 35:10.12 35:10.13 35:10.14 35:10.15 «כִּ֤י אִם יִשְׂרָאֵל֙ יִהְיֶ֣ה שְׁמֶ֔ךָ» (matched; filed at 35:10) DH «כִּי אִם יִשְׂרָאֵל יִהְיֶה שְׁמֶךָ.»: שֶׁתִּשְׂתָּרֵר עַל כָּל פְּלִיטֵי הָאֻמּוֹת, כְּאָמְרוֹ "וְקַרְקַר כָּל בְּנֵי שֵׁת" (במדבר כד:יז).
+- `sforno:35:10:4` Sforno on 35:10.16 35:10.17 35:10.18 35:10.19 «וַיִּקְרָ֥א אֶת שְׁמ֖וֹ יִשְׂרָאֵֽל׃» (matched; filed at 35:10) DH «וַיִּקְרָא אֶת שְׁמוֹ יִשְׂרָאֵל.»: בֵּרַךְ אוֹתוֹ שֶׁיַּתְחִיל קְצָת עִנְיַן שֵׁם יִשְׂרָאֵל מֵעַכְשָׁיו, שֶׁיּוּכַל נֶגֶד הַמִּתְקוֹמְמִים עָלָיו גַּם בְּאֶרֶץ לֹא לוֹ, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (סנהדרין עו): "כָּל מָקוֹם שֶׁהָלְכוּ נַעֲשׂוּ שָׂרִים לַאֲדוֹנֵיהֶם".
+
+## Genesis 35:11
+
+Hebrew (MAM): וַיֹּ֩אמֶר֩ ל֨וֹ אֱלֹהִ֜ים אֲנִ֨י אֵ֤ל שַׁדַּי֙ פְּרֵ֣ה וּרְבֵ֔ה גּ֛וֹי וּקְהַ֥ל גּוֹיִ֖ם יִהְיֶ֣ה מִמֶּ֑ךָּ וּמְלָכִ֖ים מֵחֲלָצֶ֥יךָ יֵצֵֽאוּ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 35:11.1 | וַיֹּ֩אמֶר֩ | וַ + יֹּאמֶר֩ | ו: and + אָמַר `bdb:a.ea.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | אמר | telisha qetana, telisha qetana |
+| 35:11.2 | ל֨וֹ | ל֨ + וֹ | ל: to, for +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | qadma |
+| 35:11.3 | אֱלֹהִ֜ים | אֱלֹהִ֜ים | אֱלֹהִים `bdb:a.dl.ad` | noun: common, masculine, plural, absolute | אלה | geresh (disjunctive) |
+| 35:11.4 | אֲנִ֨י | אֲנִ֨י | אֲנִי `bdb:a.eg.aa` | pronoun: personal, 1st person, common, singular |  | qadma |
+| 35:11.5 | אֵ֤ל | אֵ֤ל | אֵל `bdb:a.dl.ab` | noun: common, masculine, singular, construct | אלה | mahpakh |
+| 35:11.6 | שַׁדַּי֙ | שַׁדַּי֙ | שַׁדַּי `bdb:v.bh.af` | noun: proper name |  | pashta (disjunctive) |
+| 35:11.7 | פְּרֵ֣ה | פְּרֵ֣ה | פָּרָה `bdb:q.cv.aa` | verb: qal, imperative, 2nd person, masculine, singular | פרה | munaḥ |
+| 35:11.8 | וּרְבֵ֔ה | וּ + רְבֵ֔ה | ו: and + רָבָה `bdb:t.ai.aa` | conjunction · verb: qal, imperative, 2nd person, masculine, singular | רבה | zaqef qaton (disjunctive) |
+| 35:11.9 | גּ֛וֹי | גּ֛וֹי | גּוֹי `bdb:c.ba.ag` | noun: common, masculine, singular, absolute | גוה | tevir (disjunctive) |
+| 35:11.10 | וּקְהַ֥ל | וּ + קְהַ֥ל | ו: and + קָהָל `bdb:s.ap.ab` | conjunction · noun: common, masculine, singular, construct | קהל | merkha |
+| 35:11.11 | גּוֹיִ֖ם | גּוֹיִ֖ם | גּוֹי `bdb:c.ba.ag` | noun: common, masculine, plural, absolute | גוה | tipḥa (disjunctive) |
+| 35:11.12 | יִהְיֶ֣ה | יִהְיֶ֣ה | הָיָה `bdb:e.bf.aa` | verb: qal, imperfect (yiqtol), 3rd person, masculine, singular | היה | munaḥ |
+| 35:11.13 | מִמֶּ֑ךָּ | מִמֶּ֑ + ךָּ | מִן־ `bdb:m.cl.aa` +  | preposition · suffix: pronominal, 2nd person, masculine, singular |  | etnaḥta (disjunctive) |
+| 35:11.14 | וּמְלָכִ֖ים | וּ + מְלָכִ֖ים | ו: and + מֶ֫לֶךְ `bdb:m.cd.ab` | conjunction · noun: common, masculine, plural, absolute | מלך | tipḥa (disjunctive) |
+| 35:11.15 | מֵחֲלָצֶ֥יךָ | מֵ + חֲלָצֶ֥י + ךָ | מ: from, than + חָלָץ `bdb:h.cz.ab` +  | preposition · noun: common, both genders, dual, construct · suffix: pronominal, 2nd person, masculine, singular | חלץ | merkha |
+| 35:11.16 | יֵצֵֽאוּ׃ | יֵצֵֽאוּ | יָצָא `bdb:j.cq.aa` | verb: qal, imperfect (yiqtol), 3rd person, masculine, plural | יצא | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:35:11:1` Rashi **normative** on 35:11.4 35:11.5 35:11.6 «אֲנִ֨י אֵ֤ל שַׁדַּי֙» (matched; filed at 35:11) DH «אני אל שדי.»: שֶׁאֲנִי כְדַי לְבָרֵךְ, שֶׁהַבְּרָכוֹת שֶׁלִּי:
+- `rashi:35:11:2` Rashi **normative** on 35:11.7 35:11.8 «פְּרֵ֣ה וּרְבֵ֔ה» (matched; filed at 35:11) DH «פרה ורבה.»: עַל שֵׁם שֶׁעֲדַיִן לֹא נוֹלַד בִּנְיָמִין, וְאַף עַל פִּי שֶׁכְּבָר נִתְעַבְּרָה מִמֶּנּוּ:
+- `rashi:35:11:3` Rashi **normative** on 35:11.9 «גּ֛וֹי» (matched; filed at 35:11) DH «גוי.»: בִּנְיָמִין:
+- `rashi:35:11:4` Rashi **normative** on 35:11.11 «גּוֹיִ֖ם» (matched; filed at 35:11) DH «גוים.»: מְנַשֶּׁה וְאֶפְרַיִם, שֶׁעֲתִידִים לָצֵאת מִיּוֹסֵף, וְהֵם בְּמִנְיַן הַשְּׁבָטִים (בראשית רבה):
+- `rashi:35:11:5` Rashi **normative** on 35:11.14 «וּמְלָכִ֖ים» (matched; filed at 35:11) DH «ומלכים.»: שָׁאוּל וְאִישׁ בֹּשֶׁת, שֶׁהָיוּ מִשֵּׁבֶט בִּנְיָמִין (בראשית רבה), שֶׁעֲדַיִן לֹא נוֹלְדוּ (וּפָסוּק זֶה דְּרָשׁוֹ אַבְנֵר כְּשֶׁהִמְלִיךְ אִישׁ בֹּשֶׁת, וְאַף הַשְּׁבָטִים דְּרָשׁוּהוּ וְקֵרְבוּ בִּנְיָמִין, דִּכְתִיב אִישׁ מִמֶּנּוּ לֹא יִתֵּן אֶת בִּתּוֹ לְבִנְיָמִן לְאִשָּׁה (שופטים כ"א), וְחָזְרוּ וְאָמְרוּ אִלְמָלֵא הָיָה עוֹלֶה מִן הַשְּׁבָטִים לֹא הָיָה הַקָּבָּ"ה אוֹמֵר לְיַעֲקֹב וּמְלָכִים מֵחֲלָצֶיךָ יֵצֵאוּ:
+- `rashi:35:11:6` Rashi **normative** on 35:11.9 35:11.10 35:11.11 «גּ֛וֹי וּקְהַ֥ל גּוֹיִ֖ם» (matched; filed at 35:11) DH «גוי וקהל גוים.»: שֶׁגּוֹיִם עֲתִידִים בָּנָיו לְהֵעָשׂוֹת כְּמִנְיַן הַגּוֹיִם, שֶׁהֵם ע' אֻמּוֹת, וְכֵן כָּל הַסַּנְהֶדְרִין שִׁבְעִים; דָּבָר אַחֵר שֶׁעֲתִידִים בָּנָיו לְהַקְרִיב בִּשְׁעַת אִסּוּר בָּמוֹת כַּגּוֹיִם בִּימֵי אֵלִיָּהוּ):
+- `ibn-ezra:35:11:1` Ibn Ezra **normative** on 35:11.7 35:11.8 «פְּרֵ֣ה וּרְבֵ֔ה» (matched; filed at 35:11) DH «פרה ורבה.»: ברכה כמעשה בראשית:
+- `radak:35:11:1` Radak on 35:11.5 35:11.6 «אֵ֤ל שַׁדַּי֙» (matched; filed at 35:11) DH «אֵל שַׁדַּי.»: חָזָק, מְנַצֵּחַ הַתּוֹלָדוֹת, כְּמוֹ שֶׁפֵּרַשְׁנוּ בְּאַבְרָהָם (בראשית יז:א), כִּי שָׁלֹשׁ הָאִמָּהוֹת הָיוּ עֲקָרוֹת וְאֵל שַׁדַּי נִצֵּחַ הַתּוֹלָדוֹת וְיָלָדוּ.
+- `radak:35:11:2` Radak on 35:11.7 35:11.8 «פְּרֵ֣ה וּרְבֵ֔ה» (matched; filed at 35:11) DH «פְּרֵה וּרְבֵה.»: תִּפְרֶה וְתִרְבֶּה, וְעַל זַרְעוֹ אָמַר, כְּמוֹ שֶׁאָמַר לְאַבְרָהָם ״וְהִפְרֵתִי אֹתְךָ בִּמְאֹד מְאֹד״ (בראשית יז:ו), כִּי עַל זַרְעוֹ אָמַר, אֲבָל הָאָבוֹת הֵם הָעִקָּר, וְכָל הַתּוֹלָדוֹת עַד הַסּוֹף בְּנֵי הָאָבוֹת הָרִאשׁוֹנִים הֵם, כִּי יַעֲקֹב לֹא הָיָה לוֹ בֵּן אַחַר זֹאת הַמַּרְאָה, כִּי בִּנְיָמִין שֶׁנּוֹלַד כְּבָר הָיְתָה אִמּוֹ מְעֻבֶּרֶת מִמֶּנּוּ.
+- `radak:35:11:3` Radak on 35:11.9 35:11.10 35:11.11 «גּ֛וֹי וּקְהַ֥ל גּוֹיִ֖ם» (matched; filed at 35:11) DH «גּוֹי וּקְהַל גּוֹיִם.»: כֻּלָּם יִהְיוּ גּוֹי אֶחָד מְיֻחָד, כְּמוֹ שֶׁאָמַר ״מִי כְעַמְּךָ יִשְׂרָאֵל גּוֹי אֶחָד בָּאָרֶץ״ (דברי הימים א יז:כא), וְזֶה הַגּוֹי יִהְיֶה קְהַל גּוֹיִם שֶׁיִּהְיוּ שְׁנֵים עָשָׂר שְׁבָטִים עִם זֶה הַבֵּן שֶׁיִּוָּלֵד לְךָ עַתָּה, וְכָל הַבְּרָכָה שֶׁבֵּרַךְ אֶת אַבְרָהָם בֵּרַךְ אֶת יַעֲקֹב כִּי הוּא הָיָה הַזֶּרַע הַמְיֻחָד לְאַבְרָהָם. וּבִבְרֵאשִׁית רַבָּה (בראשית רבה פב:ד) מְפָרֵשׁ הַפָּסוּק עַל בְּנֵי רָחֵל;
+- `radak:35:11:4` Radak on 35:11.9 «גּ֛וֹי» (matched; filed at 35:11) DH «גּוֹי»: זֶה בִּנְיָמִין,
+- `radak:35:11:5` Radak on 35:11.10 35:11.11 «וּקְהַ֥ל גּוֹיִ֖ם» (matched; filed at 35:11) DH «וּקְהַל גּוֹיִם»: , זֶה מְנַשֶּׁה וְאֶפְרַיִם,
+- `radak:35:11:6` Radak on 35:11.14 «וּמְלָכִ֖ים» (matched; filed at 35:11) DH «וּמְלָכִים»: , זֶה שָׁאוּל וְאִישׁ בֹּשֶׁת. אֶפְשָׁר אַבְנֵר אָדָם צַדִּיק הָיָה חוֹלֵק עַל מַלְכוּת דָּוִד, אֶלָּא מִדְרָשׁ דָּרַשׁ וְהִמְלִיךְ אֶת אִישׁ בֹּשֶׁת.
+- `onkelos:35:11:1` Targum Onkelos on whole 35:11 (version; filed at 35:11): וַאֲמַר לֵיהּ יְיָ אֲנָא אֵל שַׁדַּי פּוּשׁ וּסְגֵי עַם וְכִנְשַׁת שִׁבְטִין יְהֵא מִנָּךְ וּמַלְכִין דְּשַׁלִּיטִין בְּעַמְמַיָּא מִנָּךְ יִפְּקוּן:
+- `sforno:35:11:1` Sforno on 35:11.4 35:11.5 35:11.6 «אֲנִ֨י אֵ֤ל שַׁדַּי֙» (matched; filed at 35:11) DH «אֲנִי אֵל שַׁדַּי.»: בִּשְׁמִי אֲנִי נִשְׁבָּע, כְּעִנְיַן "וְאָמַרְתִּי חַי אָנֹכִי לְעוֹלָם" (דברים לב:מ), וּבָזֶה בִּלְבַד מָצָאנוּ שְׁבוּעַת הָאֵל יִתְבָּרַךְ לְיַעֲקֹב.
+- `sforno:35:11:2` Sforno on 35:11.7 35:11.8 «פְּרֵ֣ה וּרְבֵ֔ה» (matched; filed at 35:11) DH «פְּרֵה וּרְבֵה.»: וְלֹא תִדְאַג שֶׁיִּכְלֶה זַרְעֲךָ בְּיַד גּוֹיִם, גַּם כְּשֶׁיִּהְיֶה הַזֶּרַע בִּלְתִּי הָגוּן. לְפִיכָךְ לֹא תֶחְדַּל מִלִּפְרוֹת וְלִרְבּוֹת, עַל הֵפֶךְ עֲצַת רַבִּי יִשְׁמָעֵאל, כְּאָמְרוֹ: "מִיּוֹם שֶׁפָּשְׁטָה מַלְכוּת הָרְשָׁעָה דִּין הוּא שֶׁנִּגְזוֹר עַל עַצְמֵינוּ שֶׁלֹּא לִשָּׂא אִשָּׁה וּלְהוֹלִיד בָּנִים, וְנִמְצָא זַרְעוֹ שֶׁל אַבְרָהָם [אָבִינוּ] כָּלֶה מֵאֵלָיו". וְזֶה כִּי בִּהְיוֹתִי אֵל שַׁדַּי, בִּלְתִּי צָרִיךְ לְנוֹשֵׂא מוּכָן, אֶעֱשֶׂה מַה שֶּׁאָמַרְתִּי עַל כָּל פָּנִים גַּם בִּלְתִּי נוֹשֵׂא מוּכָן.
+- `sforno:35:11:3` Sforno on 35:11.14 35:11.15 35:11.16 «וּמְלָכִ֖ים מֵחֲלָצֶ֥יךָ יֵצֵֽאוּ׃» (matched; filed at 35:11) DH «וּמְלָכִים מֵחֲלָצֶיךָ יֵצֵאוּ.»: אֲנָשִׁים הֲגוּנִים לַמַּלְכוּת וְלֹא תִצְטָרֵךְ לָתֵת עָלֶיךָ אִישׁ נָכְרִי, כְּעִנְיַן בְּמַלְכֵי אֱדוֹם (בראשית לו:לו-לז), שַׂמְלָה מִמַּשְׂרֵקָה, שָׁאוּל מֵרְחוֹבוֹת הַנָּהָר וְזוּלָתָם:
+
+## Genesis 35:12
+
+Hebrew (MAM): וְאֶת־הָאָ֗רֶץ אֲשֶׁ֥ר נָתַ֛תִּי לְאַבְרָהָ֥ם וּלְיִצְחָ֖ק לְךָ֣ אֶתְּנֶ֑נָּה וּֽלְזַרְעֲךָ֥ אַחֲרֶ֖יךָ אֶתֵּ֥ן אֶת־הָאָֽרֶץ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 35:12.1 | וְאֶת־ | וְ + אֶת | ו: and + אֵת `bdb:a.gm.aa` | conjunction · particle: direct object marker | אות |  |
+| 35:12.2 | הָאָ֗רֶץ | הָ + אָ֗רֶץ | ה: the + אֶ֫רֶץ `bdb:a.fx.aa` | particle: definite article · noun: common, both genders, singular, absolute | ארץ | revia (disjunctive) |
+| 35:12.3 | אֲשֶׁ֥ר | אֲשֶׁ֥ר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר | merkha |
+| 35:12.4 | נָתַ֛תִּי | נָתַ֛תִּי | נָתַן `bdb:n.gg.aa` | verb: qal, perfect (qatal), 1st person, common, singular | נתן | tevir (disjunctive) |
+| 35:12.5 | לְאַבְרָהָ֥ם | לְ + אַבְרָהָ֥ם | ל: to, for + אַבְרָהָם `bdb:a.ae.aw` | preposition · noun: proper name | אבה | merkha |
+| 35:12.6 | וּלְיִצְחָ֖ק | וּ + לְ + יִצְחָ֖ק | ו: and + ל: to, for + יִצְחָק `bdb:r.br.ac` | conjunction · preposition · noun: proper name | צחק | tipḥa (disjunctive) |
+| 35:12.7 | לְךָ֣ | לְ + ךָ֣ | ל: to, for +  | preposition · suffix: pronominal, 2nd person, masculine, singular |  | munaḥ |
+| 35:12.8 | אֶתְּנֶ֑נָּה | אֶתְּנֶ֑ + נָּה | נָתַן `bdb:n.gg.aa` +  | verb: qal, imperfect (yiqtol), 1st person, common, singular · suffix: pronominal, 3rd person, feminine, singular | נתן | etnaḥta (disjunctive) |
+| 35:12.9 | וּֽלְזַרְעֲךָ֥ | וּֽ + לְ + זַרְעֲ + ךָ֥ | ו: and + ל: to, for + זֶ֫רַע `bdb:g.cl.ab` +  | conjunction · preposition · noun: common, masculine, singular, construct · suffix: pronominal, 2nd person, masculine, singular | זרע | merkha |
+| 35:12.10 | אַחֲרֶ֖יךָ | אַחֲרֶ֖י + ךָ | אַחַר `bdb:a.cp.ac` +  | preposition · suffix: pronominal, 2nd person, masculine, singular | אחר | tipḥa (disjunctive) |
+| 35:12.11 | אֶתֵּ֥ן | אֶתֵּ֥ן | נָתַן `bdb:n.gg.aa` | verb: qal, imperfect (yiqtol), 1st person, common, singular | נתן | merkha |
+| 35:12.12 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
+| 35:12.13 | הָאָֽרֶץ׃ | הָ + אָֽרֶץ | ה: the + אֶ֫רֶץ `bdb:a.fx.aa` | particle: definite article · noun: common, both genders, singular, absolute | ארץ | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `ramban:35:12:1` Ramban on 35:12.1 35:12.2 35:12.3 35:12.4 35:12.5 35:12.6 35:12.7 35:12.8 «וְאֶת הָאָ֗רֶץ אֲשֶׁ֥ר נָתַ֛תִּי לְאַבְרָהָ֥ם וּלְיִצְחָ֖ק לְךָ֣ אֶתְּנֶ֑נָּה» (matched; filed at 35:12) DH «וְאֶת הָאָרֶץ אֲשֶׁר נָתַתִּי לְאַבְרָהָם וּלְיִצְחָק לְךָ אֶתְּנֶנָּה»: כַּאֲשֶׁר נְתַתִּיהָ לָהֶם כֵּן אֶתְּנֶנָּה לְךָ, יִרְמֹז זֶה לַשְּׁבוּעָה, כִּי לָהֶם נִתְּנָה בִּשְׁבוּעָה שֶׁלֹּא יִגְרֹם הַחֵטְא אֲבָל לוֹ נִתְּנָה מִתְּחִלָּה בְּלֹא שְׁבוּעָה, וְזֶהוּ שֶׁאוֹמֵר בְּכָל מָקוֹם (שמות לג א ועוד) "אֲשֶׁר נִשְׁבַּעְתִּי לְאַבְרָהָם לְיִצְחָק וּלְיַעֲקֹב". אוֹ שֶׁיִּהְיֶה הִכָּפֵל הַנְּבוּאָה לוֹ לִשְׁבוּעָה, כַּאֲשֶׁר פֵּרַשְׁתִּי כְּבָר:
+- `radak:35:12:1` Radak on 35:12.1 35:12.7 35:12.8 «וְאֶת לְךָ֣ אֶתְּנֶ֑נָּה» (matched; filed at 35:12) DH «וְאֶת... לְךָ אֶתְּנֶנָּה.»: מֵעַתָּה.
+- `radak:35:12:2` Radak on 35:12.9 35:12.10 35:12.11 35:12.12 35:12.13 «וּֽלְזַרְעֲךָ֥ אַחֲרֶ֖יךָ אֶתֵּ֥ן אֶת הָאָֽרֶץ׃» (matched; filed at 35:12) DH «וּלְזַרְעֲךָ אַחֲרֶיךָ אֶתֵּן אֶת־הָאָרֶץ.»: כִּי הֵם יִירָשׁוּהָ וְיִשְׁכְּנוּ בָּהּ.
+- `onkelos:35:12:1` Targum Onkelos on whole 35:12 (version; filed at 35:12): וְיָת אַרְעָא דִּי יְהָבִית לְאַבְרָהָם וּלְיִצְחָק לָךְ אֶתְּנִנַהּ וְלִבְנָךְ בַּתְרָךְ אֶתֵּן יָת אַרְעָא:
+- `sforno:35:12:1` Sforno on 35:12.9 35:12.10 35:12.11 35:12.12 35:12.13 «וּֽלְזַרְעֲךָ֥ אַחֲרֶ֖יךָ אֶתֵּ֥ן אֶת הָאָֽרֶץ׃» (matched; filed at 35:12) DH «וּלְזַרְעֲךָ אַחֲרֶיךָ אֶתֵּן אֶת הָאָרֶץ.»: לְקֵץ הַיָּמִין אֶתֵּן אֶת לְזַרְעֲךָ כָּל כַּדּוּר הָאָרֶץ, לֹא אֶרֶץ יִשְׂרָאֵל בִּלְבַד, כְּאָמְרוֹ (בראשית כח:יד) "וּפָרַצְתָּ יָמָּה וָקֵדְמָה וְצָפֹנָה וָנֶגְבָּה", וּכְאָמְרוֹ (במדבר כד:יז) "וְקַרְקַר כָּל בְּנֵי שֵׁת".
+
+## Genesis 35:13
+
+Hebrew (MAM): וַיַּ֥עַל מֵעָלָ֖יו אֱלֹהִ֑ים בַּמָּק֖וֹם אֲשֶׁר־דִּבֶּ֥ר אִתּֽוֹ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 35:13.1 | וַיַּ֥עַל | וַ + יַּ֥עַל | ו: and + עָלָה `bdb:p.cs.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | עלה | merkha |
+| 35:13.2 | מֵעָלָ֖יו | מֵ + עָלָ֖י + ו | מ: from, than + עַל `bdb:p.cs.ar` +  | preposition · preposition · suffix: pronominal, 3rd person, masculine, singular | עלה | tipḥa (disjunctive) |
+| 35:13.3 | אֱלֹהִ֑ים | אֱלֹהִ֑ים | אֱלֹהִים `bdb:a.dl.ad` | noun: common, masculine, plural, absolute | אלה | etnaḥta (disjunctive) |
+| 35:13.4 | בַּמָּק֖וֹם | בַּ + מָּק֖וֹם | ב: in, with, by + מָקוֹם `bdb:s.av.am` | preposition: with definite article · noun: common, masculine, singular, absolute | קום | tipḥa (disjunctive) |
+| 35:13.5 | אֲשֶׁר־ | אֲשֶׁר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר |  |
+| 35:13.6 | דִּבֶּ֥ר | דִּבֶּ֥ר | דָבַר `bdb:d.ai.aa` | verb: piel, perfect (qatal), 3rd person, masculine, singular | דבר | merkha |
+| 35:13.7 | אִתּֽוֹ׃ | אִתּֽ + וֹ | אֵת `bdb:a.gn.aa` +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:35:13:1` Rashi **normative** on 35:13.4 35:13.5 35:13.6 35:13.7 «בַּמָּק֖וֹם אֲשֶׁר דִּבֶּ֥ר אִתּֽוֹ׃» (matched; filed at 35:13) DH «במקום אשר דבר אתו.»: אֵינִי יוֹדֵעַ מַה מְּלַמְּדֵנוּ:
+- `ramban:35:13:1` Ramban on 35:13.1 35:13.2 35:13.3 «וַיַּ֥עַל מֵעָלָ֖יו אֱלֹהִ֑ים» (matched; filed at 35:13) DH «וַיַּעַל מֵעָלָיו אֱלֹהִים»: כְּמוֹ שֶׁאָמַר בְּאַבְרָהָם (בראשית י"ז:כ"ב) "וַיַּעַל אֱלֹהִים מֵעַל אַבְרָהָם", וּבִשְׁנֵיהֶם לְהוֹדִיעַ כִּי לֹא הָיָה זֶה מַרְאֶה וַחֲלוֹם נְבוּאָה בִּלְבַד, אוֹ כְּעִנְיַן "וַתָּבֵא אֹתִי יְרוּשָׁלַיְמָה בְּמַרְאוֹת אֱלֹהִים" (יחזקאל ח ג), אֲבָל שֶׁשָּׁרְתָה עָלָיו שְׁכִינָה בַּמָּקוֹם אֲשֶׁר הוּא עוֹמֵד. וְעַל דֶּרֶךְ הָאֱמֶת, עָלָה מֵעָלָיו אֱלֹהִים בַּמָּקוֹם הַמְדַבֵּר עִמּוֹ, כְּעִנְיָן שֶׁנֶּאֱמַר "בָּרוּךְ כְּבוֹד ה' מִמְּקוֹמוֹ" (שם ג יב), וְיֹאמַר מָה שֶׁהִזְכִּירוּ הַחֲכָמִים, הָאָבוֹת הֵן הֵן הַמֶּרְכָּבָה (ב"ר פב ו):
+- `radak:35:13:1` Radak on 35:13.1 35:13.2 35:13.3 «וַיַּ֥עַל מֵעָלָ֖יו אֱלֹהִ֑ים» (matched; filed at 35:13) DH «וַיַּעַל מֵעָלָיו אֱלֹהִים.»: כְּמוֹ שֶׁנֶּאֱמַר בְּאַבְרָהָם ״וַיַּעַל אֱלֹהִים מֵעַל אַבְרָהָם״ (בראשית יז:כב), נִסְתַּלֵּק כְּבוֹדוֹ שֶׁנִּרְאָה לוֹ בְּמַרְאֶה, וְרָאָהוּ בְּמַרְאֶה בָּעֵת שֶׁנִּסְתַּלֵּק. וּבִבְרֵאשִׁית רַבָּה (פרשה פב:ו) אָמַר רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ: הָאָבוֹת הֵן הֵן הַמֶּרְכָּבָה.
+- `radak:35:13:2` Radak on 35:13.4 35:13.5 35:13.6 35:13.7 «בַּמָּק֖וֹם אֲשֶׁר דִּבֶּ֥ר אִתּֽוֹ׃» (matched; filed at 35:13) DH «בַּמָּקוֹם אֲשֶׁר דִּבֶּר אִתּוֹ.»: לְהוֹדִיעַ כִּי אוֹתוֹ הַמָּקוֹם הָיָה מְקוֹם קִבּוּל הַשְּׁכִינָה וּמְקוֹם הַנְּבוּאָה, וּבְאוֹתוֹ הַמָּקוֹם דִּבֵּר עִמּוֹ בָּרִאשׁוֹנָה וּבַשְּׁנִיָּה, וְזֶהוּ הַמָּקוֹם נִבְחָר שֶׁאָמַר הַנָּבִיא ״וְשָׁם יְדַבֵּר עִמָּנוּ״ (הושע יב:ה), וְשָׁם הֵצִיב יַעֲקֹב אָבִינוּ מַצֵּבוֹת בָּרִאשׁוֹנָה וּבַשְּׁנִיָּה. וּמַה שֶּׁאָמַר
+- `radak:35:13:3` Radak on 35:13.1 35:13.2 «וַיַּ֥עַל מֵעָלָ֖יו» (matched; filed at 35:13) DH «וַיַּעַל מֵעָלָיו»: , רָמַז בּוֹ שֶׁעָתִיד הַכָּבוֹד לַעֲלוֹת מֵאוֹתוֹ הַמָּקוֹם, מִיּוֹם שֶׁהֶעֱמִידוּ בּוֹ הָעֵגֶל.
+- `onkelos:35:13:1` Targum Onkelos on whole 35:13 (version; filed at 35:13): וְאִסְתַּלַּק מֵעִלָּו‍ֹהִי יְקָרָא דַיְיָ בְּאַתְרָא דִּי מַלִּיל עִמֵּיהּ:
+- `sforno:35:13:1` Sforno on 35:13.4 35:13.5 35:13.6 35:13.7 «בַּמָּק֖וֹם אֲשֶׁר דִּבֶּ֥ר אִתּֽוֹ׃» (matched; filed at 35:13) DH «בַּמָּקוֹם אֲשֶׁר דִּבֶּר אִתּוֹ.»: בְּצֵאתוֹ לָלֶכֶת לְחָרָן, בְּאוֹתוֹ הַמָּלוֹן הָיָה הַדִּבּוּר שָׁם. וַיֵּרָא אֱלֹהִים וְשָׁם נִסְתַּלֵּק, וּלְפִיכָךְ הִצִּיב
+
+## Genesis 35:14
+
+Hebrew (MAM): וַיַּצֵּ֨ב יַעֲקֹ֜ב מַצֵּבָ֗ה בַּמָּק֛וֹם אֲשֶׁר־דִּבֶּ֥ר אִתּ֖וֹ מַצֶּ֣בֶת אָ֑בֶן וַיַּסֵּ֤ךְ עָלֶ֙יהָ֙ נֶ֔סֶךְ וַיִּצֹ֥ק עָלֶ֖יהָ שָֽׁמֶן׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 35:14.1 | וַיַּצֵּ֨ב | וַ + יַּצֵּ֨ב | ו: and + נָצַב `bdb:n.ep.aa` | conjunction · verb: hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | נצב | qadma |
+| 35:14.2 | יַעֲקֹ֜ב | יַעֲקֹ֜ב | יַעֲקֹב `bdb:p.eu.aj` | noun: proper name | עקב | geresh (disjunctive) |
+| 35:14.3 | מַצֵּבָ֗ה | מַצֵּבָ֗ה | מַצֵּבָה `bdb:n.ep.ai` | noun: common, feminine, singular, absolute | נצב | revia (disjunctive) |
+| 35:14.4 | בַּמָּק֛וֹם | בַּ + מָּק֛וֹם | ב: in, with, by + מָקוֹם `bdb:s.av.am` | preposition: with definite article · noun: common, masculine, singular, absolute | קום | tevir (disjunctive) |
+| 35:14.5 | אֲשֶׁר־ | אֲשֶׁר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר |  |
+| 35:14.6 | דִּבֶּ֥ר | דִּבֶּ֥ר | דָבַר `bdb:d.ai.aa` | verb: piel, perfect (qatal), 3rd person, masculine, singular | דבר | merkha |
+| 35:14.7 | אִתּ֖וֹ | אִתּ֖ + וֹ | אֵת `bdb:a.gn.aa` +  | preposition · suffix: pronominal, 3rd person, masculine, singular |  | tipḥa (disjunctive) |
+| 35:14.8 | מַצֶּ֣בֶת | מַצֶּ֣בֶת | מַצֶּבֶת `bdb:n.ep.ai` | noun: common, feminine, singular, construct | נצב | munaḥ |
+| 35:14.9 | אָ֑בֶן | אָ֑בֶן | אֶ֫בֶן `bdb:a.am.aa` | noun: common, feminine, singular, absolute | אבן | etnaḥta (disjunctive) |
+| 35:14.10 | וַיַּסֵּ֤ךְ | וַ + יַּסֵּ֤ךְ | ו: and + נָסַךְ `bdb:n.du.aa` | conjunction · verb: hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | נסך | mahpakh |
+| 35:14.11 | עָלֶ֙יהָ֙ | עָלֶ֨י + הָ֙ | עַל `bdb:p.cs.ar` +  | preposition · suffix: pronominal, 3rd person, feminine, singular | עלה | pashta, pashta (disjunctive) |
+| 35:14.12 | נֶ֔סֶךְ | נֶ֔סֶךְ | נֶ֫סֶךְ `bdb:n.du.ab` | noun: common, masculine, singular, absolute | נסך | zaqef qaton (disjunctive) |
+| 35:14.13 | וַיִּצֹ֥ק | וַ + יִּצֹ֥ק | ו: and + יָצַק `bdb:j.cu.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | יצק | merkha |
+| 35:14.14 | עָלֶ֖יהָ | עָלֶ֖י + הָ | עַל `bdb:p.cs.ar` +  | preposition · suffix: pronominal, 3rd person, feminine, singular | עלה | tipḥa (disjunctive) |
+| 35:14.15 | שָֽׁמֶן׃ | שָֽׁמֶן | שֶׁ֫מֶן `bdb:v.eb.ad` | noun: common, masculine, singular, absolute | שׁמן | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `ibn-ezra:35:14:1` Ibn Ezra **normative** on whole 35:14 (verse; filed at 35:14) DH «ויתכן»: להיותו פי' ויצב. וכבר הציב בפעם הראשונה או עשה כן פעם שנית והראשון קרוב אלי:
+- `ibn-ezra:35:14:2` Ibn Ezra **normative** on 35:14.10 35:14.11 35:14.12 «וַיַּסֵּ֤ךְ עָלֶ֙יהָ֙ נֶ֔סֶךְ» (matched; filed at 35:14) DH «ויסך עליה נסך.»: מים או יין, והטעם שרחץ אותה, ואחר כן יצק עליה שמן, ובבית אל שלם נדרו ונתן מעשר מהונו לכבוד השם למי שהיה בדור ראוי לקחתו:
+- `ramban:35:14:1` Ramban on 35:14.1 35:14.2 35:14.3 «וַיַּצֵּ֨ב יַעֲקֹ֜ב מַצֵּבָ֗ה» (matched; filed at 35:14) DH «וַיַּצֵּב יַעֲקֹב מַצֵּבָה»: פֵּרֵשׁ רַבִּי אַבְרָהָם, וּכְבָר הִצִּיב בַּפַּעַם הָרִאשׁוֹנָה מַצֵּבָה וְנִסֵּךְ עָלֶיהָ עַתָּה נֶסֶךְ וַיִּצֹק עָלֶיהָ שָׁמֶן. וְנָכוֹן הוּא:
+- `radak:35:14:1` Radak on 35:14.1 «וַיַּצֵּ֨ב» (matched; filed at 35:14) DH «וַיַּצֵּב וְגוֹ׳.»: אָמַר פַּעַם אַחֶרֶת
+- `radak:35:14:2` Radak on 35:14.4 35:14.5 35:14.6 35:14.7 «בַּמָּק֛וֹם אֲשֶׁר דִּבֶּ֥ר אִתּ֖וֹ» (matched; filed at 35:14) DH «בַּמָּקוֹם אֲשֶׁר־דִּבֶּר אִתּוֹ»: (עין רש״י) לְהוֹדִיעַ כִּי יַעֲקֹב אָבִינוּ הֵבִין וְיָדַע כִּי הַמָּקוֹם הַהוּא נִבְחַר לִנְבוּאָה, וְאַף עַל פִּי שֶׁבָּרִאשׁוֹנָה אָמַר כֵּן ״אֵין זֶה כִּי אִם־בֵּית אֱלֹהִים״ (בראשית כח:יז) עַתָּה הִתְאַמֵּת אֶצְלוֹ יוֹתֵר שֶׁבָּאָה לוֹ הַנְּבוּאָה בְּאוֹתוֹ מָקוֹם עַצְמוֹ.
+- `radak:35:14:3` Radak on 35:14.8 35:14.9 «מַצֶּ֣בֶת אָ֑בֶן» (matched; filed at 35:14) DH «מַצֶּבֶת אָבֶן.»: אֶבֶן אַחֶרֶת הָיְתָה וְלֹא אוֹתָהּ שֶׁהֵצִיב בָּרִאשׁוֹנָה, וְאָמַר גַּם כֵּן
+- `radak:35:14:4` Radak on 35:14.9 «אָ֑בֶן» (matched; filed at 35:14) DH «אָבֶן»: רוֹצֶה לוֹמַר אֶבֶן אַחַת מִלְּבַד הַמִּזְבֵּחַ אֲשֶׁר בָּנָה שֶׁהוּא מֵאֲבָנִים רַבִּים.
+- `radak:35:14:5` Radak on 35:14.10 35:14.11 35:14.12 «וַיַּסֵּ֤ךְ עָלֶ֙יהָ֙ נֶ֔סֶךְ» (matched; filed at 35:14) DH «וַיַּסֵּךְ עָלֶיהָ נֶסֶךְ.»: נֶסֶךְ יַיִן.
+- `radak:35:14:6` Radak on 35:14.13 35:14.14 35:14.15 «וַיִּצֹ֥ק עָלֶ֖יהָ שָֽׁמֶן׃» (matched; filed at 35:14) DH «וַיִּצֹק עָלֶיהָ שָׁמֶן.»: לְמִנְחָה גַּם כֵּן.
+- `onkelos:35:14:1` Targum Onkelos on whole 35:14 (version; filed at 35:14): וַאֲקֵים יַעֲקֹב קַמְתָא בְּאַתְרָא דִּי מַלִּיל עִמֵּיהּ קָמַת אַבְנָא וְאַסִּיךְ עֲלַהּ נִסּוּכִין וַאֲרִיק עֲלַהּ מִשְׁחָא:
+- `sforno:35:13:2` Sforno on 35:14.3 «מַצֵּבָ֗ה» (shifted; filed at 35:13) DH «מַצֵּבָה»: בְּאוֹתוֹ הַמָּקוֹם בְּעַצְמוֹ.
+- `sforno:35:14:1` Sforno on 35:14.10 35:14.11 35:14.12 «וַיַּסֵּ֤ךְ עָלֶ֙יהָ֙ נֶ֔סֶךְ» (matched; filed at 35:14) DH «וַיַּסֵּךְ עָלֶיהָ נֶסֶךְ.»: וְהִשְׁלִים נִדְרוֹ שֶׁנָּדַר בְּאָמְרוֹ "וְהָאֶבֶן הַזֹּאת אֲשֶׁר שַׂמְתִּי מַצֵּבָה יִהְיֶה בֵּית אֱלֹהִים" (בראשית כח:כב). כִּי בָּזֶה הֵכִין אֶת הַמָּקוֹם שֶׁרָאוּי שֶׁיְּקִימֶנָּה שָׁם, כְּעִנְיַן דָּוִד בְּהֵרָאוֹת אֵלָיו הַמַּלְאָךְ בְּגֹרֶן אֲרַוְנָה הַיְבוּסִי:
+
+## Lexicon
+
+Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
+
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+
+### `bdb:a.am.aa` אֶ֫בֶן (n.f) root אבן: stone
+- `2` stone
+- `3` precious stone
+- `4` stone containing metal, ore
+- `5` a weight
+- `6` plummet
+
+### `bdb:a.ck.ab` אָח (n.m) root אחה: brother
+- `1` brother
+- `4` one … another
+
+### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
+- `1.a` behind
+- `1.b` afterwards
+- `2.a` behind, after
+- `2.b` after
+- `3` after that
+
+### `bdb:a.di.aa` אֶל (prep): motion to, direction towards
+- `1` to, unto
+- `2` into
+- `3` towards
+- `4` against
+- `5` Unto, in addition to
+- `6` in regard to, concerning, on account of
+- `7` according to
+- `8` against, at, by
+- `9` motion, direction to
+
+### `bdb:a.dl.ab` אֵל (n.m) root אלה: god
+- `1` men of might and rank
+- `2` angels
+- `3` gods of the nations
+- `4` Ēl
+- `6` God
+- `7` strength, power
+
+### `bdb:a.dl.ad` אֱלֹהִים (n.m.pl) root אלה: gods
+- `1.a` rulers, judges
+- `1.b` divine ones
+- `1.c` angels
+- `1.d` gods
+- `2.a` god, goddess
+- `2.b` godlike one
+- `2.d` God
+- `3` the (true) God
+- `4` God
+
+### `bdb:a.dq.ac` אַלּוֹן (n.m) root אלל: oak
+
+### `bdb:a.ea.aa` אָמַר (vb) root אמר: utter, say
+- `Qal 1` Qal Say
+- `Qal 2` Qal Say in the heart
+- `Qal 3` Qal Promise
+- `Qal 4` Qal Command
+- `Niph` Niph be said, told
+- `Hiph` Hiph avow, avouch, cause to declare
+- `Hithp` Hithp act proudly, boast
+
+### `bdb:a.eg.aa` אֲנִי (pron): I
+
+### `bdb:a.fx.aa` אֶ֫רֶץ (n. f) root ארץ: earth, land
+- `1.a` earth
+- `1.b` earth
+- `1.c` earth
+- `2.e` land
+- `2` land
+- `3.a` ground
+- `3.b` soil
+- `4.a` people of the land
+- `4.c` the country of the plain, level, plain country
+- `4.d` land of the living
+- `4.e` end(s) of the earth
+- `5` lands, countries, lands of the nations
+
+### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
+
+### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
+
+### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
+- `1` together with
+- `4` from proximity with
+
+### `bdb:b.ap.aa` בּוֹא (vb) root בוא: come in, come, go in, go
+- `Qal 1` Qal come in
+- `Qal 2` Qal come
+- `Qal 3` Qal go, walk, associate with
+- `Qal 4` Qal go
+- `Hiph 1` Hiph cause to come in, bring in
+- `Hiph 2` Hiph cause to come, bring, bring near
+- `Hoph a` Hoph be brought in
+- `Hoph b` Hoph be brought
+- `Hoph c` Hoph be introduced, put
+
+### `bdb:b.bp.ad` בֵּֽיתְ־אֵל (n.pr.loc): Bethel
+
+### `bdb:b.bq.ad` אַלּוֹן בָּכוּת (n.f) root בכה: weeping, mourning oak
+
+### `bdb:b.cb.aa` בָּנָה (vb) root בנה: build
+- `Qal` Qal build
+- `Niph. 1.a` Niph. be built
+- `Niph. 1.b` Niph. be rebuilt
+- `Niph. 2.a` Niph. established
+- `Niph. 2.b` Niph. established
+
+### `bdb:b.dc.aa` בָּרַח (vb) root ברח: go through, flee
+- `Qal 1` Qal go, pass through
+- `Qal 2` Qal flee
+- `Qal 3` Qal hasten, come quickly
+- `Hiph 1` Hiph pass through
+- `Hiph 2` Hiph cause to flee, put to flight
+
+### `bdb:b.dd.aa` בָּרַךְ (vb) root ברך: kneel, bless
+- `Qal 1` Qal kneel down
+- `Qal 2` Qal bless
+- `Niph` Niph bless oneself
+- `Pi 1` Pi bless God
+- `Pi 2` Pi God blesses
+- `Pi 3` Pi men bless men
+- `Pi 4` Pi salute, greet
+- `Pi 5` Pi bless, curse
+- `Pu 1` Pu to be blessed, adored
+- `Pu 2` Pu prospered by God
+- `Pu 3` Pu have prosperity invoked
+- `Pu 4` Pu in gratitude
+- `Hiph` Hiph and he made his camel kneel
+- `Hithp` Hithp bless oneself
+
+### `bdb:c.ba.ag` גּוֹי (n.m) root גוה: nation, people
+
+### `bdb:c.ca.aa` גָּלָה (vb) root גלה: uncover, remove
+- `Qal 1` Qal uncover the ear, reveal
+- `Qal 2` Qal remove, depart
+- `Qal 3` Qal go into exile
+- `Niph 1.a` Niph uncover oneself
+- `Niph 1.b` Niph discover, shew oneself
+- `Niph 2.a` Niph be uncovered
+- `Niph 2.b` Niph be disclosed, discovered
+- `Niph 3` Niph be removed
+- `Pi 1` Pi uncover
+- `Pi 2` Pi disclose, discover, lay bar
+- `Pi 3` Pi make known, shew, reveal
+- `Pu` Pu be uncovered
+- `Hiph` Hiph carry away into exile, take into exile
+- `Hoph` Hoph carried into exile
+- `Hithp 1` Hithp was uncovered
+- `Hithp 2` Hithp that his heart may reveal itself
+
+### `bdb:d.ai.aa` דָבַר (vb) root דבר: speak
+- `Qal` Qal speak
+- `Niph` Niph speak with one another, talk
+- `Pi` Pi speak
+- `Pu` Pu in the day when she may be spoken for
+- `Hithp` Hithp speaking this word
+- `Hiph` Hiph leads, puts to flight, subdues
+
+### `bdb:d.ai.ah` דְּבוֹרָה (n.pr.f): bee
+
+### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
+- `Qal I.1.a` Qal Fall out, happen
+- `Qal I.1.b` Qal occur, take place, come about, come to pass
+- `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.b` Qal and it shall come to pass, came to pass
+- `Qal I.2` Qal come about, come to pass
+- `Qal II.1.a` Qal arise, appear, come
+- `Qal II.2.c` Qal become like
+- `Qal II.2.h` Qal became the property of, come into the possession of
+- `Qal II.2` Qal become
+- `Qal II` Qal Come into being, become
+- `Qal III.1` Qal exist, be in existence
+- `Qal III.2` Qal abide, remain, continue
+- `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III` Qal Be
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
+
+### `bdb:g.ae.ad` מִזְבֵּחַ (n.m) root זבח: altar
+
+### `bdb:g.cl.ab` זֶ֫רַע (n.m) root זרע: sowing, seed, offspring
+- `1.a` sowing
+- `1.b` sowing
+- `2` seed
+- `3` seed
+- `4` seed, offspring
+- `5` seed
+
+### `bdb:h.cz.ab` חָלָץ (n.[f.]) root חלץ: loins
+
+### `bdb:j.bw.aa` יָנַק (vb) root ינק: suck
+- `Qal` Qal suck
+- `Hiph` Hiph give suck to, nurse
+
+### `bdb:j.cq.aa` יָצָא (vb) root יצא: go, come out
+- `Qal 1.b` Qal go forth
+- `Qal 1.e` Qal depart
+- `Qal 1.h` Qal going forth
+- `Qal 1` Qal go, come out, forth
+- `Qal 2.a` Qal go forth
+- `Qal 2.b` Qal go forward, proceed
+- `Qal 2.c` Qal come, go forth
+- `Hiph 1` Hiph cause to go, come out, bring out, lead out
+- `Hiph 2` Hiph bring out of
+- `Hiph 3` Hiph bring out
+- `Hiph 5` Hiph bring forth
+- `Hoph` Hoph be brought forth
+
+### `bdb:j.cu.aa` יָצַק (vb) root יצק: pour, cast, flow
+- `Qal 1` Qal pour, pour out
+- `Qal 2` Qal cast
+- `Qal 3` Qal cast, hard
+- `Qal 4` Qal flow, pour
+- `Hiph` Hiph pour
+- `Hoph 1` Hoph be poured
+- `Hoph 2` Hoph cast, molten
+- `Hoph 3` Hoph firmly established
+
+### `bdb:k.bg.aa` כִּי (conj): that, for, when
+- `1` that
+- `2.a` when
+- `2.b` if
+- `2.c` when, if, though
+- `3` Because, since
+
+### `bdb:k.bg.ab` כִּי אם־ (C): relative conjunction
+- `1.a` that if
+- `1.b` for if
+- `2.a` except
+- `2.b` but rather, but
+- `2.c` surely
+
+### `bdb:l.ab.aa` לֹא (adv): not
+
+### `bdb:m.be.aa` מוּת (vb) root מות: die
+- `Qal 1` Qal die
+- `Qal 2` Qal die, be put to death
+- `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hoph` Hoph be killed, put to death
+
+### `bdb:m.cd.ab` מֶ֫לֶךְ (n.m) root מלך: king
+
+### `bdb:m.cl.aa` מִן־ (prep): out of, from, on account of, off, on the side of, since, above, than, so that not
+- `1.a` from, against
+- `1.b` away from, far from
+- `1.c` off, on the side of, on
+- `2` Out of
+- `4.a` from, since
+- `4.b` after
+- `4.c` towards, to
+- `5` from … even to
+- `6` beyond, above
+- `7.a` from, on account of, through
+- `7.c` since, after
+- `8` that
+
+### `bdb:n.du.aa` נָסַךְ (vb) root נסך: pour out
+- `Qal 1` Qal pour out
+- `Qal 2` Qal pour out libations
+- `Qal 3` Qal cast metal images
+- `Piel` Piel pour out as libation
+- `Hiph` Hiph pour out libations
+- `Hoph` Hoph be poured out
+
+### `bdb:n.du.ab` נֶ֫סֶךְ (n.m) root נסך: drink-offering
+- `1` drink-offering
+- `2` molten images
+
+### `bdb:n.ep.aa` נָצַב (vb) root נצב: take one's stand, stand
+- `Niph 1.a` Niph station oneself, take one's stand
+- `Niph 1.b` Niph stand, be stationed
+- `Niph 1.c` Niph take an upright position, stand
+- `Niph 2` Niph be stationed, appointed
+- `Niph 3` Niph deputy, prefect, appointed, deputed
+- `Niph 4` Niph stand firm
+- `Hiph 1` Hiph station, set
+- `Hiph 2` Hiph set up, erect
+- `Hiph 3` Hiph cause to stand erect
+- `Hiph 4` Hiph fix, establish
+- `Hoph` Hoph fixed, determined
+
+### `bdb:n.ep.ai` מַצֵּבָה (n.f) root נצב: pillar, maṣṣēbā, stump
+
+### `bdb:n.gg.aa` נָתַן (vb) root נתן: give, put, set
+- `Qal 1` Qal give
+- `Qal 2` Qal Put, set
+- `Qal 3` Qal Make, constitute
+- `Niph 1` Niph be given
+- `Niph 2` Niph Be put, set
+- `Hoph 1.a` Hoph be given, bestowed
+- `Hoph 1.b` Hoph be given
+- `Hoph 2` Hoph be put
+
+### `bdb:p.bc.ab` עוֹד (subst) root עוד: a going round, continuance, still, yet, again, besides
+
+### `bdb:p.cs.aa` עָלָה (vb) root עלה: go up, ascend, climb
+- `Qal 1` Qal go up, ascend
+- `Qal 2` Qal go up
+- `Qal 3` Qal go, come up
+- `Qal 4` Qal spring up, grow, shoot forth
+- `Qal 5` Qal go up, rise
+- `Qal 8` Qal come up
+- `Qal 9` Qal go up, extend
+- `Qal 10` Qal excel
+- `Niph 1.a` Niph be brought up
+- `Niph 1.b` Niph be taken up
+- `Niph 1.c.(1)` Niph be taken up, away
+- `Niph 1.c.(2)` Niph take oneself away from, get up from
+- `Niph 2` Niph take oneself away
+- `Niph 3` Niph be exalted
+- `Hiph 1` Hiph bring up
+- `Hiph 3` Hiph bring up
+- `Hiph 4` Hiph cause to ascend
+- `Hiph 6` Hiph offer, bring up
+- `Hiph 7` Hiph exalt
+- `Hiph 8` Hiph cause to ascend, offer
+- `Hoph 1` Hoph be carried away
+- `Hoph 2` Hoph be taken up, inserted
+- `Hoph 3` Hoph be offered
+- `Hithp` Hithp lift oneself
+
+### `bdb:p.cs.ar` עַל (subst) root עלה: above
+- `I` height
+- `II.1.b` upon
+- `II.1.c` upon, on
+- `II.1.d` upon
+- `II.1.e` upon
+- `II.1.f` on
+- `II.1` Upon, upon, on
+- `II.2` excess
+- `II.3` elevation, pre-eminence
+- `II.4` addition
+- `II.5` over, above, over
+- `II.6` by, on
+- `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
+- `III.a` because that
+- `III.c.(a)` because
+- `III.c.(b)` notwithstanding that, although
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.2` from upon, from over, from by
+
+### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
+
+### `bdb:q.aj.aj` פַּדָּן (n.pr.loc): garden, field
+
+### `bdb:q.bu.ab` פָּנֶה (n.m) root פנה: face, faces
+- `I.1` face, faces
+- `I.2.a` presence, person
+- `I.2.b` see, face
+- `I.3` face
+- `I.4` face
+- `I.5` face, surface
+- `I.6` before
+
+### `bdb:q.cv.aa` פָּרָה (vb) root פרה: bear fruit, be fruitful
+- `Hiph 1` Hiph cause to bear fruit
+- `Hiph 2` Hiph make fruitful
+- `Hiph 3` Hiph shew fruitfulness, bear fruit
+
+### `bdb:r.br.ac` יִצְחָק (n.pr.m) root צחק: Isaac, he laugheth
+
+### `bdb:s.ah.aa` קָבַר (vb) root קבר: bury
+- `Qal` Qal bury
+- `Niph` Niph be buried
+- `Pi` Pi bury
+
+### `bdb:s.ap.ab` קָהָל (n.m) root קהל: assembly, convocation, congregation
+
+### `bdb:s.av.am` מָקוֹם (n.m) root קום: standing-place, place
+- `1.a` standing-place
+- `1.b` station
+- `1.c` post, office
+- `2.a` place
+- `2.b.(1)` place of human abode
+- `3` place
+- `4` place, locality, spot
+- `5.a` space, room
+- `5.b` space, distance
+- `6` region, quarter, direction
+
+### `bdb:s.cy.aa` קָרָא (vb) root קרא: call, proclaim, read
+- `Qal 1.a` Qal call, cry, utter a loud sound
+- `Qal 1.b` Qal call, cry
+- `Qal 2.a` Qal call unto
+- `Qal 2.b` Qal cry
+- `Qal 3` Qal proclaim
+- `Qal 4.a` Qal read aloud
+- `Qal 4.b` Qal read
+- `Qal 5` Qal summon
+- `Qal 6` Qal call, name
+- `Niph 2` Niph be called
+- `Pu` Pu be called
+
+### `bdb:t.ab.aa` רָאָה (vb) root ראה: see
+- `Qal 1.a` Qal see
+- `Qal 1.b` Qal see
+- `Qal 2` Qal see
+- `Qal 3` Qal see
+- `Qal 4` Qal see, have, vision
+- `Qal 5` Qal see
+- `Qal 6` Qal look at, see
+- `Qal 8.a` Qal look into, look at
+- `Qal 8.b` Qal see
+- `Niph 1` Niph appear
+- `Niph 2` Niph be seen
+- `Niph 3` Niph be visible
+- `Pu` Pu his bones are not detected
+- `Hithp` Hithp look at each other
+- `Hiph 1.a` Hiph cause, to see, shew
+- `Hiph 1.b` Hiph cause to experience
+- `Hiph 2` Hiph cause to look intently at, to behold
+- `Hoph 1` Hoph be caused to see, be shewn
+- `Hoph 2` Hoph be exhibited to
+
+### `bdb:t.ai.aa` רָבָה (vb) root רבה: be, become, much, many, great
+- `Qal 1` Qal become many, numerous
+- `Qal 2.a` Qal be great
+- `Qal 2.b` Qal grow great
+- `Pi` Pi make large, increase
+- `Hiph 1` Hiph make much, many
+- `Hiph 2` Hiph make great
+
+### `bdb:t.ao.ac` רִבְקָה (n.pr.f): Rebekah
+
+### `bdb:u.ce.ab` יִשְׂרָאֵל (n.pr.m) root שׂרה: Israel, Ēl persisteth, persevereth
+
+### `bdb:v.bh.af` שַׁדַּי (n.m.dei): sufficient, Almighty
+
+### `bdb:v.dv.aa` שָׁם (adv): there, thither
+
+### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `2.b` reputation
+- `3` name
+- `5` memorial, monument
+
+### `bdb:v.eb.ad` שֶׁ֫מֶן (n.m) root שׁמן: fat, oil
+
+### `bdb:w.an.aa` תַּחַת (n.[m.]) root תחת: the under part, underneath, below, instead of
+

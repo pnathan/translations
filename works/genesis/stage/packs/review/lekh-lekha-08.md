@@ -625,7 +625,7 @@ Commentary rulings:
 
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
@@ -899,7 +899,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph` Niph be bought
 - `Hiph` Hiph caused, to purchase me, made me a bondman
 
-### `bdb:s.cz.aa` קִרְאָה (vb) root קרא: encounter, befall
+### `bdb:s.cz.aa` קָרָא (vb) root קרא: encounter, befall
 - `Qal 1` Qal meet, encounter
 - `Qal 2` Qal befall
 - `Niph` Niph meet unexpectedly

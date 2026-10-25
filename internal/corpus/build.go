@@ -227,7 +227,13 @@ func fillOSHB(t *Token, w oshb.Word, lexicon map[string]*lex.Entry, ix *lex.Inde
 			if g, ok := oshb.PrefixLemma[l]; ok {
 				mo.Lemma = g
 			} else if e, ok := ix.Lookup(l); ok {
-				lexicon[e.Key] = e
+				// One BDB entry can serve several lemmas (הָלַךְ and יָלַךְ,
+				// אָדוֹן and אֲדֹנָי). The lemma with BDB's headword keeps the
+				// entry, else the first one met, so the entry does not
+				// depend on which lemma the text meets last.
+				if old := lexicon[e.Key]; old == nil || !isHead(old, ix) && isHead(e, ix) {
+					lexicon[e.Key] = e
+				}
 				mo.Lemma = e.Headword
 				mo.Lex = e.Key
 				if t.Lex == "" {
@@ -240,6 +246,10 @@ func fillOSHB(t *Token, w oshb.Word, lexicon map[string]*lex.Entry, ix *lex.Inde
 		}
 		t.Morphemes = append(t.Morphemes, mo)
 	}
+}
+
+func isHead(e *lex.Entry, ix *lex.Index) bool {
+	return hebrew.Skeleton(e.Headword) == hebrew.Skeleton(ix.Head(e.Key))
 }
 
 func makeUnits(cfg *work.Config, segs []Segment) []Unit {

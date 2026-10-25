@@ -296,7 +296,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `8` respect, honor
 - `9` ruler, chief
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
 ### `bdb:a.bx.af` אַ֫יִל (n.m) root אול: ram
 
@@ -654,7 +654,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph` Niph be buried
 - `Pi` Pi bury
 
-### `bdb:s.cz.aa` קִרְאָה (vb) root קרא: encounter, befall
+### `bdb:s.cz.aa` קָרָא (vb) root קרא: encounter, befall
 - `Qal 1` Qal meet, encounter
 - `Qal 2` Qal befall
 - `Niph` Niph meet unexpectedly

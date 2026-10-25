@@ -1,12 +1,12 @@
 {
   "slug": "genesis",
-  "title": "Bereshit, Noach, Lekh Lekha",
-  "he": "בְּרֵאשִׁית · נֹחַ · לֶךְ־לְךָ",
+  "title": "Bereshit (Genesis)",
+  "he": "סֵפֶר בְּרֵאשִׁית",
   "kind": "tanakh",
   "refName": "Genesis",
   "osis": "Gen",
   "oshb": "https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/Gen.xml",
-  "chapters": 17,
+  "chapters": 50,
   "segment": "verse",
   "unitMax": 8,
   "text": {"sefaria": "Genesis", "version": "Miqra according to the Masorah", "name": "MAM"},
@@ -21,6 +21,15 @@
   "sections": [
     {"slug": "bereshit", "name": "Bereshit", "he": "בְּרֵאשִׁית", "from": "1:1", "to": "6:8"},
     {"slug": "noach", "name": "Noach", "he": "נֹחַ", "from": "6:9", "to": "11:32"},
-    {"slug": "lekh-lekha", "name": "Lekh Lekha", "he": "לֶךְ־לְךָ", "from": "12:1", "to": "17:27"}
+    {"slug": "lekh-lekha", "name": "Lekh Lekha", "he": "לֶךְ־לְךָ", "from": "12:1", "to": "17:27"},
+    {"slug": "vayera", "name": "Vayera", "he": "וַיֵּרָא", "from": "18:1", "to": "22:24"},
+    {"slug": "chayei-sarah", "name": "Chayei Sarah", "he": "חַיֵּי שָׂרָה", "from": "23:1", "to": "25:18"},
+    {"slug": "toldot", "name": "Toldot", "he": "תּוֹלְדֹת", "from": "25:19", "to": "28:9"},
+    {"slug": "vayetze", "name": "Vayetze", "he": "וַיֵּצֵא", "from": "28:10", "to": "32:3"},
+    {"slug": "vayishlach", "name": "Vayishlach", "he": "וַיִּשְׁלַח", "from": "32:4", "to": "36:43"},
+    {"slug": "vayeshev", "name": "Vayeshev", "he": "וַיֵּשֶׁב", "from": "37:1", "to": "40:23"},
+    {"slug": "miketz", "name": "Miketz", "he": "מִקֵּץ", "from": "41:1", "to": "44:17"},
+    {"slug": "vayigash", "name": "Vayigash", "he": "וַיִּגַּשׁ", "from": "44:18", "to": "47:27"},
+    {"slug": "vayechi", "name": "Vayechi", "he": "וַיְחִי", "from": "47:28", "to": "50:26"}
   ]
 }

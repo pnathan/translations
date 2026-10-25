@@ -740,7 +740,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `8` respect, honor
 - `9` ruler, chief
 
-### `bdb:a.ae.aw` אַבְרָהָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
 ### `bdb:a.bc.ac` אֲדָמָה (n.f) root אדם: ground, land, tilled
 - `1` ground

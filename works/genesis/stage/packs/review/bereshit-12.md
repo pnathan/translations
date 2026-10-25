@@ -1068,7 +1068,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1` end, at the end of
 - `2` end
 
-### `bdb:t.dk.aa` רֹעִי (vb) root רעה: pasture, tend, graze
+### `bdb:t.dk.aa` רָעָה (vb) root רעה: pasture, tend, graze
 
 ### `bdb:t.dq.ad` רַע (n.m) root רעע: evil, distress, misery, injury, calamity
 - `1` evil, distress, adversity
