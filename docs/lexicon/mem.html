@@ -1,0 +1,1533 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&family=Noto+Serif+Hebrew:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f7f4ee;--card:#fffdf9;--fg:#1d1b17;--muted:#6b645a;--line:#e3dccf;--accent:#8a4b16;--accent-bg:#f3e6d6;--hi:#fff1b8;--tag:#ece6da}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#141311;--card:#1c1a17;--fg:#ece6dc;--muted:#a39a8c;--line:#34302a;--accent:#e2a565;--accent-bg:#3a2a1a;--hi:#4a3f12;--tag:#2a2621}}
+:root[data-theme="dark"]{--bg:#141311;--card:#1c1a17;--fg:#ece6dc;--muted:#a39a8c;--line:#34302a;--accent:#e2a565;--accent-bg:#3a2a1a;--hi:#4a3f12;--tag:#2a2621}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 Inter,system-ui,sans-serif}
+a{color:var(--accent)}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+header.top{border-bottom:1px solid var(--line);background:var(--card);position:sticky;top:0;z-index:5}
+header.top .wrap{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;padding-top:10px;padding-bottom:10px}
+.back{font-size:14px;text-decoration:none}
+h1{font:600 26px/1.2 "Cormorant Garamond",serif;margin:0}
+h1 .he,.he{font-family:"Noto Serif Hebrew","SBL Hebrew","Ezra SIL",serif}
+nav.sections{display:flex;gap:6px;flex-wrap:wrap}
+nav.sections a{font-size:13px;padding:3px 9px;border:1px solid var(--line);border-radius:999px;text-decoration:none;color:var(--fg)}
+nav.sections a.on{background:var(--accent-bg);border-color:var(--accent)}
+.toggles{display:flex;gap:6px;flex-wrap:wrap;margin-left:auto}
+.toggles button{font:500 13px Inter,sans-serif;padding:4px 10px;border-radius:6px;border:1px solid var(--line);background:var(--bg);color:var(--fg);cursor:pointer}
+.toggles button[aria-pressed="true"]{background:var(--accent-bg);border-color:var(--accent)}
+main{padding:20px 0 120px}
+.intro{color:var(--muted);font-size:14px;max-width:70ch}
+.seg{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:14px 0}
+.seg.para-end{margin-bottom:28px}
+.ref{font:600 12px Inter,sans-serif;color:var(--muted);letter-spacing:.04em}
+.heb{direction:rtl;text-align:right;font:400 26px/2.1 "Noto Serif Hebrew","SBL Hebrew","Ezra SIL",serif;margin:6px 0 10px}
+.w{display:inline;cursor:pointer;border-radius:4px;padding:0 1px;background:none;border:0;color:inherit;font:inherit}
+.w:hover,.w:focus-visible{background:var(--accent-bg);outline:none}
+.w.sel{background:var(--hi)}
+.w.anch{text-decoration:underline dotted var(--muted);text-underline-offset:6px}
+.w .gl{display:none}
+body.inter .heb{line-height:1.4}
+body.inter .w{display:inline-flex;flex-direction:column;align-items:center;vertical-align:top;margin:0 3px 10px}
+body.inter .w .gl{display:block;direction:ltr;font:400 12px/1.25 Inter,sans-serif;color:var(--muted);max-width:9em;text-align:center}
+.en{font:500 20px/1.5 "Cormorant Garamond",serif}
+.lit{display:none;color:var(--muted);font-size:14px;margin-top:4px}
+body.literal .lit{display:block}
+details{margin-top:8px;font-size:14px}
+summary{cursor:pointer;color:var(--muted);font-weight:500}
+details ul{margin:6px 0;padding-left:20px}
+.comm{border-left:3px solid var(--line);padding:4px 0 4px 10px;margin:8px 0}
+.comm.lit-on{border-color:var(--accent);background:var(--accent-bg)}
+.tag{display:inline-block;font:600 11px Inter,sans-serif;padding:1px 7px;border-radius:999px;background:var(--tag);color:var(--muted);margin-left:4px}
+.tag.norm{color:var(--accent)}
+.hebtext{direction:rtl;text-align:right;font:400 16px/1.8 "Noto Serif Hebrew",serif}
+body.nocomm details.comms{display:none}
+aside#panel{position:fixed;right:16px;top:84px;width:380px;max-height:calc(100vh - 100px);overflow:auto;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;box-shadow:0 8px 28px rgba(0,0,0,.18);display:none;z-index:10}
+aside#panel.open{display:block}
+#panel .pw{font:400 34px/1.6 "Noto Serif Hebrew",serif;direction:rtl;text-align:right}
+#panel h3{font:600 13px Inter,sans-serif;color:var(--muted);margin:12px 0 4px;text-transform:uppercase;letter-spacing:.05em}
+#panel table{border-collapse:collapse;width:100%;font-size:14px}
+#panel td{border-top:1px solid var(--line);padding:4px 6px 4px 0;vertical-align:top}
+#panel .senses li.on{background:var(--hi);border-radius:4px}
+#panel .x{float:right;border:0;background:none;font-size:20px;cursor:pointer;color:var(--muted)}
+.vocab table{border-collapse:collapse;width:100%;font-size:14px}
+.vocab td,.vocab th{border-top:1px solid var(--line);padding:4px 6px;text-align:left}
+footer{border-top:1px solid var(--line);color:var(--muted);font-size:13px;padding:16px 0 40px}
+code{font-size:12px}
+#stage{position:fixed;inset:0;z-index:20;display:none;perspective:1600px;perspective-origin:50% 40%;background:color-mix(in srgb,var(--bg) 70%,transparent)}
+#stage.open{display:block}
+#stage .deck{position:absolute;left:50%;top:46%;width:min(640px,calc(100vw - 32px));transform-style:preserve-3d}
+#stage .card{position:absolute;left:0;top:0;width:100%;transform:translate(-50%,-50%);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;box-shadow:0 18px 50px rgba(0,0,0,.28);transition:transform .55s cubic-bezier(.2,.7,.2,1),opacity .55s;cursor:pointer;backface-visibility:hidden}
+#stage .card .heb{font-size:22px;line-height:1.9;margin:4px 0 6px}
+#stage .card .hit{background:var(--hi);border-radius:4px;box-shadow:0 0 0 2px var(--accent)}
+#stage .card .en{font-size:17px}
+#stage .card .g{font-size:13px;color:var(--muted)}
+#stage .bar{position:absolute;left:16px;right:16px;top:12px;display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;z-index:2}
+#stage .bar .rt{font:600 24px/1.2 "Noto Serif Hebrew",serif}
+#stage .bar button{font:500 13px Inter,sans-serif;padding:4px 10px;border-radius:6px;border:1px solid var(--line);background:var(--bg);color:var(--fg);cursor:pointer}
+#stage .bar .sp{margin-left:auto;display:flex;gap:6px;align-items:center}
+main.wrap{transition:transform .7s cubic-bezier(.2,.7,.2,1),opacity .7s;transform-origin:0 50%}
+body.swung main.wrap{transform:perspective(1400px) rotateY(58deg);opacity:.4;pointer-events:none}
+@media (prefers-reduced-motion:reduce){main.wrap,#stage .card{transition:none}}
+@media (max-width:820px){#stage .deck{top:60%}#stage .card{max-height:60vh;overflow:auto}#stage .card .heb{font-size:20px}}
+@media (max-width:820px){aside#panel{left:0;right:0;top:auto;bottom:0;width:auto;max-height:55vh;border-radius:12px 12px 0 0}.heb{font-size:23px}.toggles{margin-left:0}}
+</style><style>
+.letters{display:flex;flex-wrap:wrap;gap:4px;direction:rtl}
+.letters a{font:600 18px/1 "Noto Serif Hebrew",serif;padding:6px 9px;border:1px solid var(--line);border-radius:6px;text-decoration:none;color:var(--fg)}
+.letters a.on{background:var(--accent-bg);border-color:var(--accent)}
+.root h2{font:600 30px/1.3 "Noto Serif Hebrew",serif;margin:0;direction:rtl;text-align:right}
+.root h2 small{font:500 13px Inter,sans-serif;color:var(--muted)}
+.lemma{border-top:1px solid var(--line);margin-top:10px;padding-top:8px}
+.lemma .hw{font:600 22px/1.4 "Noto Serif Hebrew",serif}
+.sense{margin:6px 0 6px 0}
+.sense code{font-size:12px}
+.occ{display:flex;flex-wrap:wrap;gap:4px 10px;font-size:13px;margin:4px 0 0 0}
+.occ a{text-decoration:none;white-space:nowrap}
+.occ a .f{font:400 16px "Noto Serif Hebrew",serif}
+.occ a .g{color:var(--muted)}
+.note{color:var(--muted);font-size:13px}
+table.ix{border-collapse:collapse;width:100%;font-size:14px}
+table.ix td,table.ix th{border-top:1px solid var(--line);padding:5px 6px;text-align:left;vertical-align:top}
+table.ix td.he{font-size:19px}
+#q{font:16px Inter,sans-serif;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);width:min(420px,100%)}
+</style>
+<title>Concordance: מ</title>
+</head>
+<body>
+<header class="top"><div class="wrap">
+<a class="back" href="index.html">← Concordance</a>
+<h1>Roots in <span class="he" lang="he">מ</span></h1>
+<nav class="letters" lang="he"><a href="alef.html">א</a><a href="bet.html">ב</a><a href="gimel.html">ג</a><a href="dalet.html">ד</a><a href="he.html">ה</a><a href="vav.html">ו</a><a href="zayin.html">ז</a><a href="het.html">ח</a><a href="tet.html">ט</a><a href="yod.html">י</a><a href="kaf.html">כ</a><a href="lamed.html">ל</a><a href="mem.html" class="on">מ</a><a href="nun.html">נ</a><a href="samekh.html">ס</a><a href="ayin.html">ע</a><a href="pe.html">פ</a><a href="tsadi.html">צ</a><a href="qof.html">ק</a><a href="resh.html">ר</a><a href="shin.html">ש</a><a href="tav.html">ת</a></nav>
+</div></header>
+<main class="wrap">
+<p class="intro">Each root with its lemmas, each lemma with the lexicon's senses, and under each sense every word of the texts whose reviewed translation chose it. Select a reference to open the word in its verse.</p>
+
+<section class="seg root" id="r554">
+<h2 lang="he">מָא <small>no root given · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָא</span>  what? Targ. O. Gen. XXXI, 26 ed. Berl. (mostly מָה, q. v.). מָא אִם, contr. מָאִים what (will happen) if?, suppose, perhaps. Targ. O. Gen. XVIII, 24 מא אם ed. Berl. (oth. ed. a. Y. מאים); a. fr.—מָא דֵין, contr. מָדֵין, מַדֵּין what is this?, why? Targ. I King… <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מָא</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:3.48"><span class="ref">3:3</span> <span class="f" lang="he">מא</span> <span class="g">41</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r555">
+<h2 lang="he">מאד <small>root · 18 words</small></h2>
+
+<div class="note">Bereshit (Genesis), Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מְאֹד</span> <span class="tag">n.m</span> muchness, force, abundance, exceedingly <span class="note">· 15 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.ab.ab</code></span>
+
+
+<div class="sense"><code>2</code> exceedingly, greatly, very <span class="note">(15)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t1:31.9"><span class="ref">1:31</span> <span class="f" lang="he">מְאֹ֑ד</span> <span class="g">very</span></a><a href="../genesis/bereshit.html#t4:5.9"><span class="ref">4:5</span> <span class="f" lang="he">מְאֹ֔ד</span> <span class="g">very</span></a><a href="../genesis/noach.html#t7:18.4"><span class="ref">7:18</span> <span class="f" lang="he">מְאֹ֖ד</span> <span class="g">greatly</span></a><a href="../genesis/noach.html#t7:19.3"><span class="ref">7:19</span> <span class="f" lang="he">מְאֹ֥ד</span> <span class="g">very</span></a><a href="../genesis/noach.html#t7:19.4"><span class="ref">7:19</span> <span class="f" lang="he">מְאֹ֖ד</span> <span class="g">very</span></a><a href="../genesis/lekh-lekha.html#t12:14.12"><span class="ref">12:14</span> <span class="f" lang="he">מְאֹֽד׃</span> <span class="g">very</span></a><a href="../genesis/lekh-lekha.html#t13:2.3"><span class="ref">13:2</span> <span class="f" lang="he">מְאֹ֑ד</span> <span class="g">very</span></a><a href="../genesis/lekh-lekha.html#t13:13.6"><span class="ref">13:13</span> <span class="f" lang="he">מְאֹֽד׃</span> <span class="g">exceedingly</span></a><a href="../genesis/lekh-lekha.html#t15:1.19"><span class="ref">15:1</span> <span class="f" lang="he">מְאֹֽד׃</span> <span class="g">very</span></a><a href="../genesis/lekh-lekha.html#t17:2.7"><span class="ref">17:2</span> <span class="f" lang="he">בִּמְאֹ֥ד</span> <span class="g">exceedingly</span></a><a href="../genesis/lekh-lekha.html#t17:2.8"><span class="ref">17:2</span> <span class="f" lang="he">מְאֹֽד׃</span> <span class="g">very</span></a><a href="../genesis/lekh-lekha.html#t17:6.3"><span class="ref">17:6</span> <span class="f" lang="he">בִּמְאֹ֣ד</span> <span class="g">exceedingly</span></a><a href="../genesis/lekh-lekha.html#t17:6.4"><span class="ref">17:6</span> <span class="f" lang="he">מְאֹ֔ד</span> <span class="g">very</span></a><a href="../genesis/lekh-lekha.html#t17:20.10"><span class="ref">17:20</span> <span class="f" lang="he">בִּמְאֹ֣ד</span> <span class="g">exceedingly</span></a><a href="../genesis/lekh-lekha.html#t17:20.11"><span class="ref">17:20</span> <span class="f" lang="he">מְאֹ֑ד</span> <span class="g">exceedingly</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מְאֹד</span> <span class="tag">a</span> adv <span class="note">· 3 · BDB Augmented Strong (Sefaria) <code>bdbs:מְאֹד</code></span>
+
+
+<div class="sense"><code>2</code> exceedingly, much <span class="note">(3)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:8.28"><span class="ref">3:8</span> <span class="f" lang="he">מְאֹד</span> <span class="g">diligently</span></a><a href="../avot/perek-4.html#t4:4.6"><span class="ref">4:4</span> <span class="f" lang="he">מְאֹד</span> <span class="g">very</span></a><a href="../avot/perek-4.html#t4:4.7"><span class="ref">4:4</span> <span class="f" lang="he">מְאֹד</span> <span class="g">very</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r556">
+<h2 lang="he">מאה <small>root · 47 words</small></h2>
+
+<div class="note">Bereshit (Genesis), Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֵאָה</span> <span class="tag">n.f</span> hundred <span class="note">· 46 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.ac.aa</code></span>
+
+
+<div class="sense"><code>3</code> hundredth <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t7:11.3"><span class="ref">7:11</span> <span class="f" lang="he">מֵא֤וֹת</span> <span class="g">hundred</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(45)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t5:3.4"><span class="ref">5:3</span> <span class="f" lang="he">וּמְאַת֙</span> <span class="g">and a hundred</span></a><a href="../genesis/bereshit.html#t5:4.9"><span class="ref">5:4</span> <span class="f" lang="he">מֵאֹ֖ת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:5.8"><span class="ref">5:5</span> <span class="f" lang="he">מֵאוֹת֙</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:6.5"><span class="ref">5:6</span> <span class="f" lang="he">וּמְאַ֣ת</span> <span class="g">and a hundred</span></a><a href="../genesis/bereshit.html#t5:7.10"><span class="ref">5:7</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:8.9"><span class="ref">5:8</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:10.11"><span class="ref">5:10</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:11.8"><span class="ref">5:11</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:13.10"><span class="ref">5:13</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:14.8"><span class="ref">5:14</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:16.10"><span class="ref">5:16</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:17.9"><span class="ref">5:17</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:18.6"><span class="ref">5:18</span> <span class="f" lang="he">וּמְאַ֣ת</span> <span class="g">and a hundred</span></a><a href="../genesis/bereshit.html#t5:19.8"><span class="ref">5:19</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:20.9"><span class="ref">5:20</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:22.10"><span class="ref">5:22</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:23.9"><span class="ref">5:23</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/bereshit.html#t5:25.6"><span class="ref">5:25</span> <span class="f" lang="he">וּמְאַ֣ת</span> <span class="g">and hundred of</span></a><a href="../genesis/bereshit.html#t5:26.11"><span class="ref">5:26</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundreds</span></a><a href="../genesis/bereshit.html#t5:27.9"><span class="ref">5:27</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundreds</span></a><a href="../genesis/bereshit.html#t5:28.6"><span class="ref">5:28</span> <span class="f" lang="he">וּמְאַ֣ת</span> <span class="g">and hundred of</span></a><a href="../genesis/bereshit.html#t5:30.11"><span class="ref">5:30</span> <span class="f" lang="he">מֵאֹ֖ת</span> <span class="g">hundreds</span></a><a href="../genesis/bereshit.html#t5:31.9"><span class="ref">5:31</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundreds</span></a><a href="../genesis/bereshit.html#t5:32.5"><span class="ref">5:32</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundreds</span></a><a href="../genesis/bereshit.html#t6:3.13"><span class="ref">6:3</span> <span class="f" lang="he">מֵאָ֥ה</span> <span class="g">hundred</span></a><a href="../genesis/noach.html#t6:15.6"><span class="ref">6:15</span> <span class="f" lang="he">מֵא֣וֹת</span> <span class="g">hundreds</span></a><a href="../genesis/noach.html#t7:6.4"><span class="ref">7:6</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/noach.html#t7:24.6"><span class="ref">7:24</span> <span class="f" lang="he">וּמְאַ֖ת</span> <span class="g">and a hundred</span></a><a href="../genesis/noach.html#t8:3.11"><span class="ref">8:3</span> <span class="f" lang="he">וּמְאַ֖ת</span> <span class="g">and a hundred</span></a><a href="../genesis/noach.html#t8:13.4"><span class="ref">8:13</span> <span class="f" lang="he">מֵא֜וֹת</span> <span class="g">hundreds</span></a><a href="../genesis/noach.html#t9:28.6"><span class="ref">9:28</span> <span class="f" lang="he">מֵאוֹת֙</span> <span class="g">hundred</span></a><a href="../genesis/noach.html#t9:29.6"><span class="ref">9:29</span> <span class="f" lang="he">מֵאוֹת֙</span> <span class="g">hundred</span></a><a href="../genesis/noach.html#t11:10.6"><span class="ref">11:10</span> <span class="f" lang="he">מְאַ֣ת</span> <span class="g">a hundred</span></a><a href="../genesis/noach.html#t11:11.8"><span class="ref">11:11</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundreds</span></a><a href="../genesis/noach.html#t11:13.10"><span class="ref">11:13</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundreds</span></a><a href="../genesis/noach.html#t11:15.10"><span class="ref">11:15</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/noach.html#t11:17.10"><span class="ref">11:17</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/noach.html#t11:19.9"><span class="ref">11:19</span> <span class="f" lang="he">וּמָאתַ֣יִם</span> <span class="g">and two hundred</span></a><a href="../genesis/noach.html#t11:21.9"><span class="ref">11:21</span> <span class="f" lang="he">וּמָאתַ֣יִם</span> <span class="g">and two hundred</span></a><a href="../genesis/noach.html#t11:23.7"><span class="ref">11:23</span> <span class="f" lang="he">מָאתַ֣יִם</span> <span class="g">two hundred</span></a><a href="../genesis/noach.html#t11:25.10"><span class="ref">11:25</span> <span class="f" lang="he">וּמְאַ֣ת</span> <span class="g">and a hundred</span></a><a href="../genesis/noach.html#t11:32.6"><span class="ref">11:32</span> <span class="f" lang="he">וּמָאתַ֣יִם</span> <span class="g">and two hundred</span></a><a href="../genesis/lekh-lekha.html#t14:14.14"><span class="ref">14:14</span> <span class="f" lang="he">מֵא֔וֹת</span> <span class="g">hundred</span></a><a href="../genesis/lekh-lekha.html#t15:13.16"><span class="ref">15:13</span> <span class="f" lang="he">מֵא֖וֹת</span> <span class="g">hundred</span></a><a href="../genesis/lekh-lekha.html#t17:17.9"><span class="ref">17:17</span> <span class="f" lang="he">מֵאָֽה</span> <span class="g">a hundred</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֵאָה</span>  (b. h.) one hundred. Tosef. Ber. VII (VI), 24 מ׳ מצות one hundred religious acts. Ib. 8; a. v. fr.—Pesik. Vattom., p. 131ᵇ מ׳ חסר שתים ninety-eight; a. fr.—Du. מָאתַיִם. Ex. R. s. 23; Mekh. B’shall., s. 6. Macc. I, 2. Keth. I, 2, v. כְּתוּבָּה; a. fr.—Pl. מֵאו… <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מֵאָה</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:21.48"><span class="ref">5:21</span> <span class="f" lang="he">מֵאָה</span> <span class="g">hundred</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r557">
+<h2 lang="he">מֵאִיר <small>no root given · 3 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֵאִיר</span> <span class="tag">pr. n. m.</span> Meïr, esp. R. M., a renowned Tannai, disciple of R. Akiba and of Elisha ben Abuya (v. Fr. Darkhe Mish., p. 154, a. אֱלִישָׁע). Erub. 13ᵇ לא ר׳ מ׳ שמו אלא ר׳ מיישא שמו (v. Rabb. D. S. a. l. note) his name was not R. M. but R. Maysha. Hor. 13ᵇ, v. אַחֵר. Gen. R.… <span class="note">· 3 · Jastrow Dictionary (Sefaria) <code>jastrow:מֵאִיר</code></span>
+
+
+<div class="sense"><code>1</code> Meïr, esp. R. M., a renowned Tannai, disciple of R. Akiba and of Elisha ben Abuya (v. Fr. Darkhe Mish., p. 154, a. אֱלִישָׁע). Erub. 13ᵇ לא ר׳ מ׳ שמו אלא ר׳ מיישא שמו (v. Rabb. D. S. a. l. note) his name was not R. M. but R. Maysha. Hor. 13ᵇ, v. אַחֵר. Gen. R.… <span class="note">(3)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:8.7"><span class="ref">3:8</span> <span class="f" lang="he">מֵאִיר</span> <span class="g">Meir</span></a><a href="../avot/perek-4.html#t4:10.2"><span class="ref">4:10</span> <span class="f" lang="he">מֵאִיר</span> <span class="g">Meir</span></a><a href="../avot/perek-6.html#t6:1.10"><span class="ref">6:1</span> <span class="f" lang="he">מֵאִיר</span> <span class="g">Meir</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r558">
+<h2 lang="he">מַבּוּל <small>no root given · 12 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַבּוּל</span> <span class="tag">n.m</span> flood <span class="note">· 12 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.ai.ag</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(12)</span>
+<div class="occ"><a href="../genesis/noach.html#t6:17.5"><span class="ref">6:17</span> <span class="f" lang="he">הַמַּבּ֥וּל</span> <span class="g">the flood</span></a><a href="../genesis/noach.html#t7:6.6"><span class="ref">7:6</span> <span class="f" lang="he">וְהַמַּבּ֣וּל</span> <span class="g">and the flood</span></a><a href="../genesis/noach.html#t7:7.12"><span class="ref">7:7</span> <span class="f" lang="he">הַמַּבּֽוּל׃</span> <span class="g">the flood</span></a><a href="../genesis/noach.html#t7:10.5"><span class="ref">7:10</span> <span class="f" lang="he">הַמַּבּ֔וּל</span> <span class="g">the flood</span></a><a href="../genesis/noach.html#t7:17.2"><span class="ref">7:17</span> <span class="f" lang="he">הַמַּבּ֛וּל</span> <span class="g">the flood</span></a><a href="../genesis/noach.html#t9:11.11"><span class="ref">9:11</span> <span class="f" lang="he">הַמַּבּ֑וּל</span> <span class="g">the flood</span></a><a href="../genesis/noach.html#t9:11.15"><span class="ref">9:11</span> <span class="f" lang="he">מַבּ֖וּל</span> <span class="g">a flood</span></a><a href="../genesis/noach.html#t9:15.17"><span class="ref">9:15</span> <span class="f" lang="he">לְמַבּ֔וּל</span> <span class="g">a flood</span></a><a href="../genesis/noach.html#t9:28.4"><span class="ref">9:28</span> <span class="f" lang="he">הַמַּבּ֑וּל</span> <span class="g">the flood</span></a><a href="../genesis/noach.html#t10:1.12"><span class="ref">10:1</span> <span class="f" lang="he">הַמַּבּֽוּל׃</span> <span class="g">the flood</span></a><a href="../genesis/noach.html#t10:32.12"><span class="ref">10:32</span> <span class="f" lang="he">הַמַּבּֽוּל׃</span> <span class="g">the flood</span></a><a href="../genesis/noach.html#t11:10.13"><span class="ref">11:10</span> <span class="f" lang="he">הַמַּבּֽוּל׃</span> <span class="g">the flood</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r559">
+<h2 lang="he">מָגוֹג <small>no root given · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָגוֹג</span> <span class="tag">n.pr.terr</span> land of Gog <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:c.ay.af</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t10:2.4"><span class="ref">10:2</span> <span class="f" lang="he">וּמָג֔וֹג</span> <span class="g">and Magog</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r560">
+<h2 lang="he">מדד <small>root · 10 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִדָּה</span> <span class="tag">f.</span> preced.) <span class="note">· 10 · Jastrow Dictionary (Sefaria) <code>jastrow:מִדָּה</code></span>
+
+
+<div class="sense"><code>2</code> dimension, measure, proportion. Sabb. 150ᵃ (play on מ̇ד̇ה̇ב̇ה, v. preced.) מ̇אד̇ מ̇אד̇ ה̇ב̇א בלא מ̇&#39; bring much, very much, without measure. Peah VIII, 6 מ׳ זו this proportion. Gen. R. s. 64; Esth. R. introd. (ref. to מנדה, Ezra IV, 13) זו מִדַּת הארץ that is … <span class="note">(3)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:13.2"><span class="ref">5:13</span> <span class="f" lang="he">מִדּוֹת</span> <span class="g">types</span></a><a href="../avot/perek-5.html#t5:14.2"><span class="ref">5:14</span> <span class="f" lang="he">מִדּוֹת</span> <span class="g">types</span></a><a href="../avot/perek-5.html#t5:15.2"><span class="ref">5:15</span> <span class="f" lang="he">מִדּוֹת</span> <span class="g">types</span></a></div>
+</div>
+
+<div class="sense"><code>4</code> principle, standard, consistency. Men. III, 4 כמדת ר׳ וכ׳ following the principle of R. &amp;c.; Pes. 77ᵇ; Y. ib. VII, 34ᶜ top. Shek. IV, 6 אינה היא המ׳ (comment. אינה מן המ׳) this is not consistent (with a previous rule). Ib. 7 השוה את מִדָּתוֹ (Y. ed. מִדּוֹתָיו… <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:22.21"><span class="ref">5:22</span> <span class="f" lang="he">מִדָּה</span> <span class="g">quality</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(6)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:10.2"><span class="ref">5:10</span> <span class="f" lang="he">מִדּוֹת</span> <span class="g">dispositions</span></a><a href="../avot/perek-5.html#t5:10.10"><span class="ref">5:10</span> <span class="f" lang="he">מִדָּה</span> <span class="g">disposition</span></a><a href="../avot/perek-5.html#t5:10.15"><span class="ref">5:10</span> <span class="f" lang="he">מִדַּת</span> <span class="g">disposition of</span></a><a href="../avot/perek-5.html#t5:11.2"><span class="ref">5:11</span> <span class="f" lang="he">מִדּוֹת</span> <span class="g">dispositions</span></a><a href="../avot/perek-5.html#t5:12.2"><span class="ref">5:12</span> <span class="f" lang="he">מִדּוֹת</span> <span class="g">dispositions</span></a><a href="../avot/perek-6.html#t6:8.81"><span class="ref">6:8</span> <span class="f" lang="he">מִדּוֹת</span> <span class="g">qualities</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r561">
+<h2 lang="he">מָדַי <small>no root given · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָדַי</span> <span class="tag">n.pr.gent</span> Medes, Media <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.am.al</code></span>
+
+
+<div class="sense"><code>2</code> Media <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t10:2.5"><span class="ref">10:2</span> <span class="f" lang="he">וּמָדַ֖י</span> <span class="g">and Madai</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r562">
+<h2 lang="he">מָה <small>no root given · 10 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָה</span> <span class="tag">pron.interrog</span> what?, how?, aught <span class="note">· 10 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.an.aa</code></span>
+
+
+<div class="sense"><code>1</code> what? <span class="note">(10)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t2:19.17"><span class="ref">2:19</span> <span class="f" lang="he">מַה</span> <span class="g">what</span></a><a href="../genesis/bereshit.html#t3:13.5"><span class="ref">3:13</span> <span class="f" lang="he">מַה</span> <span class="g">what</span></a><a href="../genesis/bereshit.html#t4:6.5"><span class="ref">4:6</span> <span class="f" lang="he">לָ֚מָּה</span> <span class="g">why</span></a><a href="../genesis/bereshit.html#t4:6.8"><span class="ref">4:6</span> <span class="f" lang="he">וְלָ֖מָּה</span> <span class="g">and why</span></a><a href="../genesis/bereshit.html#t4:10.2"><span class="ref">4:10</span> <span class="f" lang="he">מֶ֣ה</span> <span class="g">what</span></a><a href="../genesis/lekh-lekha.html#t12:18.5"><span class="ref">12:18</span> <span class="f" lang="he">מַה</span> <span class="g">what?</span></a><a href="../genesis/lekh-lekha.html#t12:18.9"><span class="ref">12:18</span> <span class="f" lang="he">לָ֚מָּה</span> <span class="g">why? (to what?)</span></a><a href="../genesis/lekh-lekha.html#t12:19.1"><span class="ref">12:19</span> <span class="f" lang="he">לָמָ֤ה</span> <span class="g">why? (to what?)</span></a><a href="../genesis/lekh-lekha.html#t15:2.5"><span class="ref">15:2</span> <span class="f" lang="he">מַה</span> <span class="g">what</span></a><a href="../genesis/lekh-lekha.html#t15:8.4"><span class="ref">15:8</span> <span class="f" lang="he">בַּמָּ֥ה</span> <span class="g">by what</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r563">
+<h2 lang="he">מָה <small>no root given · 19 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָה</span> <span class="tag">i</span> what, whatever <span class="note">· 19 · BDB Augmented Strong (Sefaria) <code>bdbs:מָה</code></span>
+
+
+<div class="sense"><code>1</code> what, whatever <span class="note">(3)</span>
+<div class="occ"><a href="../avot/perek-2.html#t2:1.48"><span class="ref">2:1</span> <span class="f" lang="he">מַה</span> <span class="g">what</span></a><a href="../avot/perek-5.html#t5:1.5"><span class="ref">5:1</span> <span class="f" lang="he">וּמַה</span> <span class="g">and what</span></a><a href="../avot/perek-6.html#t6:3.50"><span class="ref">6:3</span> <span class="f" lang="he">וּמַה</span> <span class="g">and if</span></a></div>
+</div>
+
+<div class="sense"><code>1.1</code> what? <span class="note">(4)</span>
+<div class="occ"><a href="../avot/perek-4.html#t4:20.7"><span class="ref">4:20</span> <span class="f" lang="he">לְמַה</span> <span class="g">to what</span></a><a href="../avot/perek-4.html#t4:20.17"><span class="ref">4:20</span> <span class="f" lang="he">לְמַה</span> <span class="g">to what</span></a><a href="../avot/perek-4.html#t4:20.36"><span class="ref">4:20</span> <span class="f" lang="he">לְמַה</span> <span class="g">to what</span></a><a href="../avot/perek-4.html#t4:20.48"><span class="ref">4:20</span> <span class="f" lang="he">לְמַה</span> <span class="g">to what</span></a></div>
+</div>
+
+<div class="sense"><code>1.2</code> whatever, what, whatsoever <span class="note">(3)</span>
+<div class="occ"><a href="../avot/perek-2.html#t2:14.9"><span class="ref">2:14</span> <span class="f" lang="he">מַה</span> <span class="g">what</span></a><a href="../avot/perek-4.html#t4:20.63"><span class="ref">4:20</span> <span class="f" lang="he">בְמַה</span> <span class="g">at what</span></a><a href="../avot/perek-5.html#t5:7.36"><span class="ref">5:7</span> <span class="f" lang="he">מַה</span> <span class="g">what</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(9)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:14.12"><span class="ref">1:14</span> <span class="f" lang="he">מָה</span> <span class="g">what</span></a><a href="../avot/perek-3.html#t3:7.35"><span class="ref">3:7</span> <span class="f" lang="he">מַה</span> <span class="g">how</span></a><a href="../avot/perek-3.html#t3:7.39"><span class="ref">3:7</span> <span class="f" lang="he">וּמַה</span> <span class="g">and how</span></a><a href="../avot/perek-3.html#t3:16.39"><span class="ref">3:16</span> <span class="f" lang="he">מַה</span> <span class="g">what</span></a><a href="../avot/perek-3.html#t3:17.55"><span class="ref">3:17</span> <span class="f" lang="he">לְמַה</span> <span class="g">to what</span></a><a href="../avot/perek-3.html#t3:17.92"><span class="ref">3:17</span> <span class="f" lang="he">לְמַה</span> <span class="g">to what</span></a><a href="../avot/perek-5.html#t5:19.39"><span class="ref">5:19</span> <span class="f" lang="he">מַה</span> <span class="g">what</span></a><a href="../avot/perek-6.html#t6:10.69"><span class="ref">6:10</span> <span class="f" lang="he">מָה</span> <span class="g">how</span></a><a href="../avot/perek-6.html#t6:11.2"><span class="ref">6:11</span> <span class="f" lang="he">מַה</span> <span class="g">what</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r564">
+<h2 lang="he">מַהֲלַלְאֵל <small>no root given · 5 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַהֲלַלְאֵל</span> <span class="tag">n.pr.m</span> praise of God <span class="note">· 5 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:e.bp.ai</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(5)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t5:12.7"><span class="ref">5:12</span> <span class="f" lang="he">מַֽהֲלַלְאֵֽל׃</span> <span class="g">Mahalalel</span></a><a href="../genesis/bereshit.html#t5:13.6"><span class="ref">5:13</span> <span class="f" lang="he">מַֽהֲלַלְאֵ֔ל</span> <span class="g">Mahalalel</span></a><a href="../genesis/bereshit.html#t5:15.2"><span class="ref">5:15</span> <span class="f" lang="he">מַֽהֲלַלְאֵ֔ל</span> <span class="g">Mahalalel</span></a><a href="../genesis/bereshit.html#t5:16.2"><span class="ref">5:16</span> <span class="f" lang="he">מַֽהֲלַלְאֵ֗ל</span> <span class="g">Mahalalel</span></a><a href="../genesis/bereshit.html#t5:17.4"><span class="ref">5:17</span> <span class="f" lang="he">מַהֲלַלְאֵ֔ל</span> <span class="g">Mahalalel</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r565">
+<h2 lang="he">מַהֲלַלְאֵל <small>no root given · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַהֲלַלְאֵל</span> <span class="tag">n-pr-m</span> Mahalaleel = &#34;praise of God&#34; <span class="note">· 1 · BDB Augmented Strong (Sefaria) <code>bdbs:מַהֲלַלְאֵל</code></span>
+
+
+<div class="sense"><code>1</code> Mahalaleel = &#34;praise of God&#34; <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:1.3"><span class="ref">3:1</span> <span class="f" lang="he">מַהֲלַלְאֵל</span> <span class="g">Mahalalel</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r566">
+<h2 lang="he">מהר <small>root · 5 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָהִיר</span> <span class="tag">a</span> quick, prompt, skilled, ready <span class="note">· 4 · BDB Augmented Strong (Sefaria) <code>bdbs:מָהִיר</code></span>
+
+
+<div class="sense"><code>1</code> quick, prompt, skilled, ready <span class="note">(4)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:12.4"><span class="ref">5:12</span> <span class="f" lang="he">מַהֵר</span> <span class="g">quick</span></a><a href="../avot/perek-5.html#t5:12.6"><span class="ref">5:12</span> <span class="f" lang="he">וּמַהֵר</span> <span class="g">and quick</span></a><a href="../avot/perek-5.html#t5:12.18"><span class="ref">5:12</span> <span class="f" lang="he">מַהֵר</span> <span class="g">quick</span></a><a href="../avot/perek-5.html#t5:12.25"><span class="ref">5:12</span> <span class="f" lang="he">וּמַהֵר</span> <span class="g">and quick</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מְהֵרָה</span> <span class="tag">n-f</span> haste, speed <span class="note">· 1 · BDB Augmented Strong (Sefaria) <code>bdbs:מְהֵרָה</code></span>
+
+
+<div class="sense"><code>1.2</code> in haste (with prep) <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:20.35"><span class="ref">5:20</span> <span class="f" lang="he">בִּמְהֵרָה</span> <span class="g">speedily</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r567">
+<h2 lang="he">מוֹדָעִי <small>no root given · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מוֹדָעִי</span> <span class="tag">m.</span> (v. next w.) of Modim, esp. (ר׳ אלעזר) המ׳ R. El. of Modim. Ab. III, 11; a. fr.—Sabb. 55ᵇ; B. Bath. 10ᵇ עדיין אנו צריכין לַמּ׳ we still need the Modite (for interpretation). <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מוֹדָעִי</code></span>
+
+
+<div class="sense"><code>1</code> (v. next w.) of Modim, esp. (ר׳ אלעזר) המ׳ R. El. of Modim. Ab. III, 11; a. fr.—Sabb. 55ᵇ; B. Bath. 10ᵇ עדיין אנו צריכין לַמּ׳ we still need the Modite (for interpretation). <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:11.3"><span class="ref">3:11</span> <span class="f" lang="he">הַמּוֹדָעִי</span> <span class="g">of Modi&#39;in</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r568">
+<h2 lang="he">מול <small>root · 10 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מוּל</span> <span class="tag">vb</span> circumcise <span class="note">· 10 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.az.aa</code></span>
+
+
+<div class="sense"><code>Qal</code> circumcise <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t17:23.19"><span class="ref">17:23</span> <span class="f" lang="he">וַיָּ֜מׇל</span> <span class="g">and circumcised</span></a></div>
+</div>
+
+<div class="sense"><code>Niph</code> be circumcised <span class="note">(8)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t17:10.10"><span class="ref">17:10</span> <span class="f" lang="he">הִמּ֥וֹל</span> <span class="g">to be circumcised</span></a><a href="../genesis/lekh-lekha.html#t17:12.4"><span class="ref">17:12</span> <span class="f" lang="he">יִמּ֥וֹל</span> <span class="g">shall be circumcised</span></a><a href="../genesis/lekh-lekha.html#t17:13.1"><span class="ref">17:13</span> <span class="f" lang="he">הִמּ֧וֹל</span> <span class="g">to be circumcised</span></a><a href="../genesis/lekh-lekha.html#t17:13.2"><span class="ref">17:13</span> <span class="f" lang="he">יִמּ֛וֹל</span> <span class="g">he shall be circumcised</span></a><a href="../genesis/lekh-lekha.html#t17:24.6"><span class="ref">17:24</span> <span class="f" lang="he">בְּהִמֹּל֖וֹ</span> <span class="g">when he was circumcised</span></a><a href="../genesis/lekh-lekha.html#t17:25.7"><span class="ref">17:25</span> <span class="f" lang="he">בְּהִ֨מֹּל֔וֹ</span> <span class="g">when he was circumcised</span></a><a href="../genesis/lekh-lekha.html#t17:26.4"><span class="ref">17:26</span> <span class="f" lang="he">נִמּ֖וֹל</span> <span class="g">was circumcised</span></a><a href="../genesis/lekh-lekha.html#t17:27.11"><span class="ref">17:27</span> <span class="f" lang="he">נִמֹּ֖לוּ</span> <span class="g">were circumcised</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t17:14.5"><span class="ref">17:14</span> <span class="f" lang="he">יִמּוֹל֙</span> <span class="g">he circumcises</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r569">
+<h2 lang="he">מות <small>root · 27 words</small></h2>
+
+<div class="note">Bereshit (Genesis), Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מוּת</span> <span class="tag">vb</span> die <span class="note">· 17 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.be.aa</code></span>
+
+
+<div class="sense"><code>Qal 1</code> die <span class="note">(17)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t2:17.12"><span class="ref">2:17</span> <span class="f" lang="he">מ֥וֹת</span> <span class="g">dying</span></a><a href="../genesis/bereshit.html#t2:17.13"><span class="ref">2:17</span> <span class="f" lang="he">תָּמֽוּת׃</span> <span class="g">you will die</span></a><a href="../genesis/bereshit.html#t3:3.15"><span class="ref">3:3</span> <span class="f" lang="he">תְּמֻתֽוּן׃</span> <span class="g">you (plural) die</span></a><a href="../genesis/bereshit.html#t3:4.6"><span class="ref">3:4</span> <span class="f" lang="he">מ֖וֹת</span> <span class="g">certainly</span></a><a href="../genesis/bereshit.html#t3:4.7"><span class="ref">3:4</span> <span class="f" lang="he">תְּמֻתֽוּן׃</span> <span class="g">you (plural) will die</span></a><a href="../genesis/bereshit.html#t5:5.12"><span class="ref">5:5</span> <span class="f" lang="he">וַיָּמֹֽת׃</span> <span class="g">and he died</span></a><a href="../genesis/bereshit.html#t5:8.11"><span class="ref">5:8</span> <span class="f" lang="he">וַיָּמֹֽת׃</span> <span class="g">and he died</span></a><a href="../genesis/bereshit.html#t5:11.10"><span class="ref">5:11</span> <span class="f" lang="he">וַיָּמֹֽת׃</span> <span class="g">and he died</span></a><a href="../genesis/bereshit.html#t5:14.10"><span class="ref">5:14</span> <span class="f" lang="he">וַיָּמֹֽת׃</span> <span class="g">and he died</span></a><a href="../genesis/bereshit.html#t5:17.11"><span class="ref">5:17</span> <span class="f" lang="he">וַיָּמֹֽת׃</span> <span class="g">and he died</span></a><a href="../genesis/bereshit.html#t5:20.11"><span class="ref">5:20</span> <span class="f" lang="he">וַיָּמֹֽת׃</span> <span class="g">and he died</span></a><a href="../genesis/bereshit.html#t5:27.11"><span class="ref">5:27</span> <span class="f" lang="he">וַיָּמֹֽת׃</span> <span class="g">and he died</span></a><a href="../genesis/bereshit.html#t5:31.11"><span class="ref">5:31</span> <span class="f" lang="he">וַיָּמֹֽת׃</span> <span class="g">and he died</span></a><a href="../genesis/noach.html#t7:22.10"><span class="ref">7:22</span> <span class="f" lang="he">מֵֽתוּ׃</span> <span class="g">they died</span></a><a href="../genesis/noach.html#t9:29.10"><span class="ref">9:29</span> <span class="f" lang="he">וַיָּמֹֽת׃</span> <span class="g">and he died</span></a><a href="../genesis/noach.html#t11:28.1"><span class="ref">11:28</span> <span class="f" lang="he">וַיָּ֣מׇת</span> <span class="g">and died</span></a><a href="../genesis/noach.html#t11:32.8"><span class="ref">11:32</span> <span class="f" lang="he">וַיָּ֥מׇת</span> <span class="g">and died</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֵת</span> <span class="tag">m.</span> dying, dead; corpse. Ber. 3ᵇ בפני המת in the presence of a dead body; דבריו של מת affairs concerning the dead. Ib. 18ᵇ, a. e. קשה רמה למת וכ׳ the gnawing of the worm is as painful to the buried corpse as a pin &amp;c.; a. v. fr.—מת מצוה, v. מִצְוָה.—Pl. מֵתִים, co… <span class="note">· 7 · Jastrow Dictionary (Sefaria) <code>jastrow:מֵת</code></span>
+
+
+<div class="sense"><code>1</code> dying, dead; corpse. Ber. 3ᵇ בפני המת in the presence of a dead body; דבריו של מת affairs concerning the dead. Ib. 18ᵇ, a. e. קשה רמה למת וכ׳ the gnawing of the worm is as painful to the buried corpse as a pin &amp;c.; a. v. fr.—מת מצוה, v. מִצְוָה.—Pl. מֵתִים, co… <span class="note">(5)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:3.17"><span class="ref">3:3</span> <span class="f" lang="he">מֵתִים</span> <span class="g">dead</span></a><a href="../avot/perek-4.html#t4:18.15"><span class="ref">4:18</span> <span class="f" lang="he">שֶׁמֵּתוֹ</span> <span class="g">that his dead</span></a><a href="../avot/perek-4.html#t4:22.6"><span class="ref">4:22</span> <span class="f" lang="he">וְהַמֵּתִים</span> <span class="g">and the dead</span></a><a href="../avot/perek-4.html#t4:22.73"><span class="ref">4:22</span> <span class="f" lang="he">מֵת</span> <span class="g">die</span></a><a href="../avot/perek-5.html#t5:21.50"><span class="ref">5:21</span> <span class="f" lang="he">מֵת</span> <span class="g">had died</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:11.18"><span class="ref">1:11</span> <span class="f" lang="he">וְיָמוּתוּ</span> <span class="g">and die</span></a><a href="../avot/perek-4.html#t4:22.5"><span class="ref">4:22</span> <span class="f" lang="he">לָמוּת</span> <span class="g">to die</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִיתָה</span> <span class="tag">f.</span> death, penalty of death. Sabb. 156ᵇ מ׳ משונה an unnatural death; מ׳ עצמה natural death. Snh. 68ᵃ אם ימותו מִיתַת עצמן if they shall die a natural death. Ib. XI, 4 (89ᵃ) מ׳ בב&#34;ד death at the hand of the court. Snh. 5 מִיתָתוֹ בידי אדם he must be put to death by… <span class="note">· 2 · Jastrow Dictionary (Sefaria) <code>jastrow:מִיתָה</code></span>
+
+
+<div class="sense"><code>1</code> death, penalty of death. Sabb. 156ᵇ מ׳ משונה an unnatural death; מ׳ עצמה natural death. Snh. 68ᵃ אם ימותו מִיתַת עצמן if they shall die a natural death. Ib. XI, 4 (89ᵃ) מ׳ בב&#34;ד death at the hand of the court. Snh. 5 מִיתָתוֹ בידי אדם he must be put to death by… <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-2.html#t2:10.22"><span class="ref">2:10</span> <span class="f" lang="he">מִיתָתְךָ</span> <span class="g">your death</span></a><a href="../avot/perek-5.html#t5:8.44"><span class="ref">5:8</span> <span class="f" lang="he">מִיתוֹת</span> <span class="g">death penalties</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָוֶת</span> <span class="tag">n-m</span> death, dying, Death (personified), realm of the dead <span class="note">· 1 · BDB Augmented Strong (Sefaria) <code>bdbs:מָוֶת</code></span>
+
+
+<div class="sense"><code>1</code> death, dying, Death (personified), realm of the dead <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-2.html#t2:4.32"><span class="ref">2:4</span> <span class="f" lang="he">מוֹתְךָ</span> <span class="g">your death</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r570">
+<h2 lang="he">מחה <small>root · 4 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָחָה</span> <span class="tag">vb</span> wipe, wipe out <span class="note">· 4 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.bl.aa</code></span>
+
+
+<div class="sense"><code>Qal 3</code> blot out, exterminate <span class="note">(3)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t6:7.3"><span class="ref">6:7</span> <span class="f" lang="he">אֶמְחֶ֨ה</span> <span class="g">I will wipe out</span></a><a href="../genesis/noach.html#t7:4.13"><span class="ref">7:4</span> <span class="f" lang="he">וּמָחִ֗יתִי</span> <span class="g">and I will wipe out</span></a><a href="../genesis/noach.html#t7:23.1"><span class="ref">7:23</span> <span class="f" lang="he">וַיִּ֜מַח</span> <span class="g">and he wiped out</span></a></div>
+</div>
+
+<div class="sense"><code>Niph 3</code> be exterminated <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t7:23.17"><span class="ref">7:23</span> <span class="f" lang="he">וַיִּמָּח֖וּ</span> <span class="g">and they were wiped out</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r571">
+<h2 lang="he">מְחוּיָאֵל <small>no root given · 2 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מְחוּיָאֵל</span> <span class="tag">n.pr.m</span> Mehujael <span class="note">· 2 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.bm.af</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(2)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t4:18.8"><span class="ref">4:18</span> <span class="f" lang="he">מְחֽוּיָאֵ֑ל</span> <span class="g">Mehujael</span></a><a href="../genesis/bereshit.html#t4:18.9"><span class="ref">4:18</span> <span class="f" lang="he">וּמְחִיָּיאֵ֗ל</span> <span class="g">and Mehujael</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r572">
+<h2 lang="he">מחל <small>root · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָחַל</span>  (cmp. מָחָה) [to blot out, annul,] to remit (a debt); to forgive, pardon, to forego, renounce. Keth. 85ᵇ המוכר … וחזר ומְחָלוֹ מָחוּל if one sells a note of indebtedness to a neighbor, and then remits the debt, it stands remitted (and the buyer of the note mus… <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מָחַל</code></span>
+
+
+<div class="sense"><code>1</code> (cmp. מָחָה) [to blot out, annul,] to remit (a debt); to forgive, pardon, to forego, renounce. Keth. 85ᵇ המוכר … וחזר ומְחָלוֹ מָחוּל if one sells a note of indebtedness to a neighbor, and then remits the debt, it stands remitted (and the buyer of the note mus… <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:1.94"><span class="ref">6:1</span> <span class="f" lang="he">וּמוֹחֵל</span> <span class="g">and forgives</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r573">
+<h2 lang="he">מטר <small>root · 2 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָטַר</span> <span class="tag">vb. denom</span> rain <span class="note">· 2 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.bs.ab</code></span>
+
+
+<div class="sense"><code>Hiph</code> send rain, rain <span class="note">(2)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t2:5.14"><span class="ref">2:5</span> <span class="f" lang="he">הִמְטִ֜יר</span> <span class="g">sent rain</span></a><a href="../genesis/noach.html#t7:4.6"><span class="ref">7:4</span> <span class="f" lang="he">מַמְטִ֣יר</span> <span class="g">am about to make it rain</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r574">
+<h2 lang="he">מַי <small>no root given · 33 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַי</span> <span class="tag">n.m</span> waters, water <span class="note">· 33 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.bt.aa</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(33)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t1:2.14"><span class="ref">1:2</span> <span class="f" lang="he">הַמָּֽיִם׃</span> <span class="g">the waters</span></a><a href="../genesis/bereshit.html#t1:6.6"><span class="ref">1:6</span> <span class="f" lang="he">הַמָּ֑יִם</span> <span class="g">the waters</span></a><a href="../genesis/bereshit.html#t1:6.10"><span class="ref">1:6</span> <span class="f" lang="he">מַ֖יִם</span> <span class="g">water</span></a><a href="../genesis/bereshit.html#t1:6.11"><span class="ref">1:6</span> <span class="f" lang="he">לָמָֽיִם׃</span> <span class="g">to water</span></a><a href="../genesis/bereshit.html#t1:7.7"><span class="ref">1:7</span> <span class="f" lang="he">הַמַּ֙יִם֙</span> <span class="g">the waters</span></a><a href="../genesis/bereshit.html#t1:7.12"><span class="ref">1:7</span> <span class="f" lang="he">הַמַּ֔יִם</span> <span class="g">the waters</span></a><a href="../genesis/bereshit.html#t1:9.4"><span class="ref">1:9</span> <span class="f" lang="he">הַמַּ֜יִם</span> <span class="g">the waters</span></a><a href="../genesis/bereshit.html#t1:10.6"><span class="ref">1:10</span> <span class="f" lang="he">הַמַּ֖יִם</span> <span class="g">the waters</span></a><a href="../genesis/bereshit.html#t1:20.4"><span class="ref">1:20</span> <span class="f" lang="he">הַמַּ֔יִם</span> <span class="g">the waters</span></a><a href="../genesis/bereshit.html#t1:21.13"><span class="ref">1:21</span> <span class="f" lang="he">הַמַּ֜יִם</span> <span class="g">the waters</span></a><a href="../genesis/bereshit.html#t1:22.9"><span class="ref">1:22</span> <span class="f" lang="he">הַמַּ֙יִם֙</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t6:17.6"><span class="ref">6:17</span> <span class="f" lang="he">מַ֙יִם֙</span> <span class="g">waters</span></a><a href="../genesis/noach.html#t7:6.8"><span class="ref">7:6</span> <span class="f" lang="he">מַ֖יִם</span> <span class="g">water</span></a><a href="../genesis/noach.html#t7:7.11"><span class="ref">7:7</span> <span class="f" lang="he">מֵ֥י</span> <span class="g">the waters of</span></a><a href="../genesis/noach.html#t7:10.4"><span class="ref">7:10</span> <span class="f" lang="he">וּמֵ֣י</span> <span class="g">and the waters of</span></a><a href="../genesis/noach.html#t7:17.8"><span class="ref">7:17</span> <span class="f" lang="he">הַמַּ֗יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t7:18.2"><span class="ref">7:18</span> <span class="f" lang="he">הַמַּ֛יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t7:18.11"><span class="ref">7:18</span> <span class="f" lang="he">הַמָּֽיִם׃</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t7:19.1"><span class="ref">7:19</span> <span class="f" lang="he">וְהַמַּ֗יִם</span> <span class="g">and the waters</span></a><a href="../genesis/noach.html#t7:20.6"><span class="ref">7:20</span> <span class="f" lang="he">הַמָּ֑יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t7:24.2"><span class="ref">7:24</span> <span class="f" lang="he">הַמַּ֖יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t8:1.20"><span class="ref">8:1</span> <span class="f" lang="he">הַמָּֽיִם׃</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t8:3.2"><span class="ref">8:3</span> <span class="f" lang="he">הַמַּ֛יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t8:3.8"><span class="ref">8:3</span> <span class="f" lang="he">הַמַּ֔יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t8:5.1"><span class="ref">8:5</span> <span class="f" lang="he">וְהַמַּ֗יִם</span> <span class="g">and the waters</span></a><a href="../genesis/noach.html#t8:7.9"><span class="ref">8:7</span> <span class="f" lang="he">הַמַּ֖יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t8:8.7"><span class="ref">8:8</span> <span class="f" lang="he">הַמַּ֔יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t8:9.12"><span class="ref">8:9</span> <span class="f" lang="he">מַ֖יִם</span> <span class="g">water</span></a><a href="../genesis/noach.html#t8:11.15"><span class="ref">8:11</span> <span class="f" lang="he">הַמַּ֖יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t8:13.10"><span class="ref">8:13</span> <span class="f" lang="he">הַמַּ֖יִם</span> <span class="g">the waters</span></a><a href="../genesis/noach.html#t9:11.10"><span class="ref">9:11</span> <span class="f" lang="he">מִמֵּ֣י</span> <span class="g">by the waters of</span></a><a href="../genesis/noach.html#t9:15.16"><span class="ref">9:15</span> <span class="f" lang="he">הַמַּ֙יִם֙</span> <span class="g">the waters</span></a><a href="../genesis/lekh-lekha.html#t16:7.6"><span class="ref">16:7</span> <span class="f" lang="he">הַמַּ֖יִם</span> <span class="g">the water</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r575">
+<h2 lang="he">מִי <small>no root given · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִי</span> <span class="tag">pron.interrog</span> who? <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.bu.aa</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t3:11.2"><span class="ref">3:11</span> <span class="f" lang="he">מִ֚י</span> <span class="g">who</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r576">
+<h2 lang="he">מִי <small>no root given · 9 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִי</span> <span class="tag">i</span> who?, whose?, whom?, would that, whoever, whosoever <span class="note">· 9 · BDB Augmented Strong (Sefaria) <code>bdbs:מִי</code></span>
+
+
+<div class="sense"><code>1</code> who?, whose?, whom?, would that, whoever, whosoever <span class="note">(7)</span>
+<div class="occ"><a href="../avot/perek-2.html#t2:14.14"><span class="ref">2:14</span> <span class="f" lang="he">מִי</span> <span class="g">whom</span></a><a href="../avot/perek-3.html#t3:1.20"><span class="ref">3:1</span> <span class="f" lang="he">מִי</span> <span class="g">whom</span></a><a href="../avot/perek-3.html#t3:1.38"><span class="ref">3:1</span> <span class="f" lang="he">מִי</span> <span class="g">whom</span></a><a href="../avot/perek-5.html#t5:7.10"><span class="ref">5:7</span> <span class="f" lang="he">מִי</span> <span class="g">one</span></a><a href="../avot/perek-6.html#t6:2.23"><span class="ref">6:2</span> <span class="f" lang="he">מִי</span> <span class="g">who</span></a><a href="../avot/perek-6.html#t6:2.64"><span class="ref">6:2</span> <span class="f" lang="he">מִי</span> <span class="g">who</span></a><a href="../avot/perek-6.html#t6:2.69"><span class="ref">6:2</span> <span class="f" lang="he">מִי</span> <span class="g">who</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:14.8"><span class="ref">1:14</span> <span class="f" lang="he">מִי</span> <span class="g">who</span></a><a href="../avot/perek-5.html#t5:19.2"><span class="ref">5:19</span> <span class="f" lang="he">מִי</span> <span class="g">who</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r577">
+<h2 lang="he">מים <small>root · 5 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַיִם</span> <span class="tag">n-m</span> water, waters <span class="note">· 5 · BDB Augmented Strong (Sefaria) <code>bdbs:מַיִם</code></span>
+
+
+<div class="sense"><code>1</code> water, waters <span class="note">(3)</span>
+<div class="occ"><a href="../avot/perek-2.html#t2:6.9"><span class="ref">2:6</span> <span class="f" lang="he">הַמַּיִם</span> <span class="g">the water</span></a><a href="../avot/perek-5.html#t5:2.20"><span class="ref">5:2</span> <span class="f" lang="he">מֵי</span> <span class="g">waters of</span></a><a href="../avot/perek-6.html#t6:4.9"><span class="ref">6:4</span> <span class="f" lang="he">וּמַיִם</span> <span class="g">and water</span></a></div>
+</div>
+
+<div class="sense"><code>1.1</code> water <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:11.12"><span class="ref">1:11</span> <span class="f" lang="he">מַיִם</span> <span class="g">waters</span></a><a href="../avot/perek-3.html#t3:17.117"><span class="ref">3:17</span> <span class="f" lang="he">מַיִם</span> <span class="g">water</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r578">
+<h2 lang="he">מין <small>root · 18 words</small></h2>
+
+<div class="note">Bereshit (Genesis), Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִין</span> <span class="tag">n.[m.]</span> kind, species <span class="note">· 17 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.bv.ab</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(17)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t1:11.13"><span class="ref">1:11</span> <span class="f" lang="he">לְמִינ֔וֹ</span> <span class="g">to its kind</span></a><a href="../genesis/bereshit.html#t1:12.7"><span class="ref">1:12</span> <span class="f" lang="he">לְמִינֵ֔הוּ</span> <span class="g">to its kind</span></a><a href="../genesis/bereshit.html#t1:12.14"><span class="ref">1:12</span> <span class="f" lang="he">לְמִינֵ֑הוּ</span> <span class="g">to its kind</span></a><a href="../genesis/bereshit.html#t1:21.14"><span class="ref">1:21</span> <span class="f" lang="he">לְמִֽינֵהֶ֗ם</span> <span class="g">according to their kinds</span></a><a href="../genesis/bereshit.html#t1:21.19"><span class="ref">1:21</span> <span class="f" lang="he">לְמִינֵ֔הוּ</span> <span class="g">according to its kind</span></a><a href="../genesis/bereshit.html#t1:24.7"><span class="ref">1:24</span> <span class="f" lang="he">לְמִינָ֔הּ</span> <span class="g">to its kind</span></a><a href="../genesis/bereshit.html#t1:24.12"><span class="ref">1:24</span> <span class="f" lang="he">לְמִינָ֑הּ</span> <span class="g">to its kind</span></a><a href="../genesis/bereshit.html#t1:25.6"><span class="ref">1:25</span> <span class="f" lang="he">לְמִינָ֗הּ</span> <span class="g">to its kind</span></a><a href="../genesis/bereshit.html#t1:25.9"><span class="ref">1:25</span> <span class="f" lang="he">לְמִינָ֔הּ</span> <span class="g">to its kind</span></a><a href="../genesis/bereshit.html#t1:25.14"><span class="ref">1:25</span> <span class="f" lang="he">לְמִינֵ֑הוּ</span> <span class="g">to its kind</span></a><a href="../genesis/noach.html#t6:20.2"><span class="ref">6:20</span> <span class="f" lang="he">לְמִינֵ֗הוּ</span> <span class="g">according to its kind</span></a><a href="../genesis/noach.html#t6:20.5"><span class="ref">6:20</span> <span class="f" lang="he">לְמִינָ֔הּ</span> <span class="g">according to its kind</span></a><a href="../genesis/noach.html#t6:20.9"><span class="ref">6:20</span> <span class="f" lang="he">לְמִינֵ֑הוּ</span> <span class="g">according to its kind</span></a><a href="../genesis/noach.html#t7:14.4"><span class="ref">7:14</span> <span class="f" lang="he">לְמִינָ֗הּ</span> <span class="g">according to its kind</span></a><a href="../genesis/noach.html#t7:14.7"><span class="ref">7:14</span> <span class="f" lang="he">לְמִינָ֔הּ</span> <span class="g">according to its kind</span></a><a href="../genesis/noach.html#t7:14.13"><span class="ref">7:14</span> <span class="f" lang="he">לְמִינֵ֑הוּ</span> <span class="g">according to its kind</span></a><a href="../genesis/noach.html#t7:14.16"><span class="ref">7:14</span> <span class="f" lang="he">לְמִינֵ֔הוּ</span> <span class="g">according to its kind</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִין II</span> <span class="tag">m.</span> kind, genus, species. Peah II, 5 מ׳ אחד one kind of seed. Ter. II, 4 אין תורמין ממ׳ על שאינו מִינוֹ you must not separate T’rumah from one species to redeem fruits of another species. Ib. 6. הקישות … מ׳ אחד cucumbers and melopepons are considered as the same s… <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מִין II</code></span>
+
+
+<div class="sense"><code>1</code> kind, genus, species. Peah II, 5 מ׳ אחד one kind of seed. Ter. II, 4 אין תורמין ממ׳ על שאינו מִינוֹ you must not separate T’rumah from one species to redeem fruits of another species. Ib. 6. הקישות … מ׳ אחד cucumbers and melopepons are considered as the same s… <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:8.2"><span class="ref">5:8</span> <span class="f" lang="he">מִינֵי</span> <span class="g">kinds of</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r579">
+<h2 lang="he">מלא <small>root · 9 words</small></h2>
+
+<div class="note">Bereshit (Genesis), Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָלֵא</span> <span class="tag">vb</span> be full, fill <span class="note">· 5 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.bz.aa</code></span>
+
+
+<div class="sense"><code>Qal 1</code> be full <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t6:13.10"><span class="ref">6:13</span> <span class="f" lang="he">מָלְאָ֥ה</span> <span class="g">is full</span></a></div>
+</div>
+
+<div class="sense"><code>Qal 2</code> fill <span class="note">(3)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t1:22.7"><span class="ref">1:22</span> <span class="f" lang="he">וּמִלְא֤וּ</span> <span class="g">and fill</span></a><a href="../genesis/bereshit.html#t1:28.9"><span class="ref">1:28</span> <span class="f" lang="he">וּמִלְא֥וּ</span> <span class="g">and fill</span></a><a href="../genesis/noach.html#t9:1.11"><span class="ref">9:1</span> <span class="f" lang="he">וּמִלְא֥וּ</span> <span class="g">and fill</span></a></div>
+</div>
+
+<div class="sense"><code>Niph 1</code> be filled <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t6:11.5"><span class="ref">6:11</span> <span class="f" lang="he">וַתִּמָּלֵ֥א</span> <span class="g">and was filled</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָלֵא I</span>  (b. h.) to be full, v. מָלֵא II.—Tosef. Dem. V, 24 היאך מְלָאֲךָ ליבך how could thy heart be so full of thyself, i.e. how daredst thou? <span class="note">· 3 · Jastrow Dictionary (Sefaria) <code>jastrow:מָלֵא I</code></span>
+
+
+<div class="sense"><code>1</code> (b. h.) to be full, v. מָלֵא II.—Tosef. Dem. V, 24 היאך מְלָאֲךָ ליבך how could thy heart be so full of thyself, i.e. how daredst thou? <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:3.24"><span class="ref">3:3</span> <span class="f" lang="he">מָלְאוּ</span> <span class="g">were full</span></a><a href="../avot/perek-6.html#t6:10.76"><span class="ref">6:10</span> <span class="f" lang="he">מָלְאָה</span> <span class="g">is full</span></a></div>
+</div>
+
+<div class="sense"><code>2.1</code> to fill, to draw (water). Erub. VIII, 6 אין מְמַלְּאִין וכ׳ (Y. ed. מְמַלִּין) you must not draw water out of it on the Sabbath. B. Bath. 162ᵇ מִילְּאֵהוּ בקרובים if he filled the vacant space on the document with the signatures of relatives; Gitt. 87ᵇ. Hor. 1… <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:19.66"><span class="ref">5:19</span> <span class="f" lang="he">אֲמַלֵּא</span> <span class="g">I will fill</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָלֵא</span> <span class="tag">a</span> full, fulness, that which fills <span class="note">· 1 · BDB Augmented Strong (Sefaria) <code>bdbs:מָלֵא</code></span>
+
+
+<div class="sense"><code>1</code> full, fulness, that which fills <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-4.html#t4:20.69"><span class="ref">4:20</span> <span class="f" lang="he">מָלֵא</span> <span class="g">full of</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r580">
+<h2 lang="he">מַלְאָכִי <small>no root given · 2 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַלְאָכִי</span> <span class="tag">n-pr-m</span> Malachi = &#34;My messenger&#34; <span class="note">· 2 · BDB Augmented Strong (Sefaria) <code>bdbs:מַלְאָכִי</code></span>
+
+
+<div class="sense"><code>2</code> the prophet who wrote the last book of the Old Testament; nothing else is known <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:2.51"><span class="ref">3:2</span> <span class="f" lang="he">מלאכי</span> <span class="g">Malachi</span></a><a href="../avot/perek-3.html#t3:6.46"><span class="ref">3:6</span> <span class="f" lang="he">מלאכי</span> <span class="g">Malachi</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r581">
+<h2 lang="he">מלח <small>root · 3 words</small></h2>
+
+<div class="note">Pirkei Avot, Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מְלַח</span> <span class="tag">n-m</span> salt <span class="note">· 2 · BDB Augmented Strong (Sefaria) <code>bdbs:מְלַח</code></span>
+
+
+<div class="sense"><code>1</code> salt <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:17.84"><span class="ref">3:17</span> <span class="f" lang="he">מְלֵחָה</span> <span class="g">salt</span></a><a href="../avot/perek-6.html#t6:4.7"><span class="ref">6:4</span> <span class="f" lang="he">בְּמֶלַח</span> <span class="g">with salt</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֶ֫לַח</span> <span class="tag">n.m</span> salt <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.cb.ab</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t14:3.9"><span class="ref">14:3</span> <span class="f" lang="he">הַמֶּֽלַח׃</span> <span class="g">the salt</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r582">
+<h2 lang="he">מלך <small>root · 52 words</small></h2>
+
+<div class="note">Bereshit (Genesis), Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֶ֫לֶךְ</span> <span class="tag">n.m</span> king <span class="note">· 29 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.cd.ab</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(29)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t14:1.4"><span class="ref">14:1</span> <span class="f" lang="he">מֶֽלֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:1.7"><span class="ref">14:1</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:1.10"><span class="ref">14:1</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:1.13"><span class="ref">14:1</span> <span class="f" lang="he">מֶ֥לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:2.5"><span class="ref">14:2</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:2.9"><span class="ref">14:2</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:2.12"><span class="ref">14:2</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:2.15"><span class="ref">14:2</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:2.17"><span class="ref">14:2</span> <span class="f" lang="he">וּמֶ֥לֶךְ</span> <span class="g">and the king of</span></a><a href="../genesis/lekh-lekha.html#t14:5.6"><span class="ref">14:5</span> <span class="f" lang="he">וְהַמְּלָכִים֙</span> <span class="g">and the kings</span></a><a href="../genesis/lekh-lekha.html#t14:8.2"><span class="ref">14:8</span> <span class="f" lang="he">מֶֽלֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:8.4"><span class="ref">14:8</span> <span class="f" lang="he">וּמֶ֣לֶךְ</span> <span class="g">and the king of</span></a><a href="../genesis/lekh-lekha.html#t14:8.6"><span class="ref">14:8</span> <span class="f" lang="he">וּמֶ֤לֶךְ</span> <span class="g">and the king of</span></a><a href="../genesis/lekh-lekha.html#t14:8.8"><span class="ref">14:8</span> <span class="f" lang="he">וּמֶ֣לֶךְ</span> <span class="g">and the king of</span></a><a href="../genesis/lekh-lekha.html#t14:8.10"><span class="ref">14:8</span> <span class="f" lang="he">וּמֶ֥לֶךְ</span> <span class="g">and the king of</span></a><a href="../genesis/lekh-lekha.html#t14:9.3"><span class="ref">14:9</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:9.6"><span class="ref">14:9</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:9.9"><span class="ref">14:9</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:9.12"><span class="ref">14:9</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:9.15"><span class="ref">14:9</span> <span class="f" lang="he">מְלָכִ֖ים</span> <span class="g">kings</span></a><a href="../genesis/lekh-lekha.html#t14:10.7"><span class="ref">14:10</span> <span class="f" lang="he">מֶֽלֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:17.2"><span class="ref">14:17</span> <span class="f" lang="he">מֶֽלֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:17.11"><span class="ref">14:17</span> <span class="f" lang="he">הַמְּלָכִ֖ים</span> <span class="g">the kings</span></a><a href="../genesis/lekh-lekha.html#t14:17.19"><span class="ref">14:17</span> <span class="f" lang="he">הַמֶּֽלֶךְ׃</span> <span class="g">the king</span></a><a href="../genesis/lekh-lekha.html#t14:18.3"><span class="ref">14:18</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:21.2"><span class="ref">14:21</span> <span class="f" lang="he">מֶֽלֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t14:22.4"><span class="ref">14:22</span> <span class="f" lang="he">מֶ֣לֶךְ</span> <span class="g">king of</span></a><a href="../genesis/lekh-lekha.html#t17:6.7"><span class="ref">17:6</span> <span class="f" lang="he">וּמְלָכִ֖ים</span> <span class="g">and kings</span></a><a href="../genesis/lekh-lekha.html#t17:16.11"><span class="ref">17:16</span> <span class="f" lang="he">מַלְכֵ֥י</span> <span class="g">kings of</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֶלֶךְ</span> <span class="tag">n-m</span> king <span class="note">· 13 · BDB Augmented Strong (Sefaria) <code>bdbs:מֶלֶךְ</code></span>
+
+
+<div class="sense"><code>1</code> king <span class="note">(11)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:1.45"><span class="ref">3:1</span> <span class="f" lang="he">מֶלֶךְ</span> <span class="g">the King of</span></a><a href="../avot/perek-3.html#t3:1.46"><span class="ref">3:1</span> <span class="f" lang="he">מַלְכֵי</span> <span class="g">the kings of</span></a><a href="../avot/perek-3.html#t3:1.47"><span class="ref">3:1</span> <span class="f" lang="he">הַמְּלָכִים</span> <span class="g">the kings</span></a><a href="../avot/perek-4.html#t4:22.82"><span class="ref">4:22</span> <span class="f" lang="he">מֶלֶךְ</span> <span class="g">king of</span></a><a href="../avot/perek-4.html#t4:22.83"><span class="ref">4:22</span> <span class="f" lang="he">מַלְכֵי</span> <span class="g">kings of</span></a><a href="../avot/perek-4.html#t4:22.84"><span class="ref">4:22</span> <span class="f" lang="he">הַמְּלָכִים</span> <span class="g">the kings</span></a><a href="../avot/perek-6.html#t6:3.25"><span class="ref">6:3</span> <span class="f" lang="he">מֶלֶךְ</span> <span class="g">king of</span></a><a href="../avot/perek-6.html#t6:3.52"><span class="ref">6:3</span> <span class="f" lang="he">מֶלֶךְ</span> <span class="g">king of</span></a><a href="../avot/perek-6.html#t6:5.15"><span class="ref">6:5</span> <span class="f" lang="he">מְלָכִים</span> <span class="g">kings</span></a><a href="../avot/perek-6.html#t6:6.157"><span class="ref">6:6</span> <span class="f" lang="he">לַמֶּלֶךְ</span> <span class="g">to the king</span></a><a href="../avot/perek-6.html#t6:9.129"><span class="ref">6:9</span> <span class="f" lang="he">מֶלֶךְ</span> <span class="g">king of</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:8.65"><span class="ref">6:8</span> <span class="f" lang="he">מָלַךְ</span> <span class="g">has become king</span></a><a href="../avot/perek-6.html#t6:11.27"><span class="ref">6:11</span> <span class="f" lang="he">יִמְלֹךְ</span> <span class="g">will reign</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַלְכוּת</span> <span class="tag">n-f</span> royalty, royal power, reign, kingdom, sovereign power <span class="note">· 4 · BDB Augmented Strong (Sefaria) <code>bdbs:מַלְכוּת</code></span>
+
+
+<div class="sense"><code>1</code> royalty, royal power, reign, kingdom, sovereign power <span class="note">(4)</span>
+<div class="occ"><a href="../avot/perek-4.html#t4:13.22"><span class="ref">4:13</span> <span class="f" lang="he">מַלְכוּת</span> <span class="g">kingship</span></a><a href="../avot/perek-6.html#t6:1.76"><span class="ref">6:1</span> <span class="f" lang="he">מַלְכוּת</span> <span class="g">kingship</span></a><a href="../avot/perek-6.html#t6:6.7"><span class="ref">6:6</span> <span class="f" lang="he">הַמַּלְכוּת</span> <span class="g">the kingship</span></a><a href="../avot/perek-6.html#t6:6.8"><span class="ref">6:6</span> <span class="f" lang="he">שֶׁהַמַּלְכוּת</span> <span class="g">that the kingship</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַלְכוּת</span> <span class="tag">f.</span> kingdom, government; office. Ab. III, 5 עול מ׳ the yoke of (secular) government (burden of office). Ber. 13ᵇ, a. fr. עול מ׳ שמים the yoke of (submission to) divine government. Gitt. VIII, 5, v. הוּגָּן. Ber. 48ᵇ, a. e. אין מ׳ נוגעת וכ׳, v. חָבֵר. Sot. 11ᵇ (ref… <span class="note">· 3 · Jastrow Dictionary (Sefaria) <code>jastrow:מַלְכוּת</code></span>
+
+
+<div class="sense"><code>1</code> kingdom, government; office. Ab. III, 5 עול מ׳ the yoke of (secular) government (burden of office). Ber. 13ᵇ, a. fr. עול מ׳ שמים the yoke of (submission to) divine government. Gitt. VIII, 5, v. הוּגָּן. Ber. 48ᵇ, a. e. אין מ׳ נוגעת וכ׳, v. חָבֵר. Sot. 11ᵇ (ref… <span class="note">(3)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:2.10"><span class="ref">3:2</span> <span class="f" lang="he">מַלְכוּת</span> <span class="g">the government</span></a><a href="../avot/perek-3.html#t3:5.14"><span class="ref">3:5</span> <span class="f" lang="he">מַלְכוּת</span> <span class="g">the government</span></a><a href="../avot/perek-3.html#t3:5.26"><span class="ref">3:5</span> <span class="f" lang="he">מַלְכוּת</span> <span class="g">the government</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַלְכִּי־צֶ֫דֶק</span> <span class="tag">n.pr.m</span> my king is Ṣedeḳ <span class="note">· 2 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.cd.aq</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(2)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t14:18.1"><span class="ref">14:18</span> <span class="f" lang="he">וּמַלְכִּי</span> <span class="g">and Melchi-</span></a><a href="../genesis/lekh-lekha.html#t14:18.2"><span class="ref">14:18</span> <span class="f" lang="he">צֶ֙דֶק֙</span> <span class="g">-zedek</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַמְלָכָה</span> <span class="tag">n.f</span> kingdom, sovereignty, dominion, reign <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.cd.al</code></span>
+
+
+<div class="sense"><code>1</code> kingdom, realm <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t10:10.3"><span class="ref">10:10</span> <span class="f" lang="he">מַמְלַכְתּוֹ֙</span> <span class="g">his kingdom</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r583">
+<h2 lang="he">מִלְכָּה <small>no root given · 2 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִלְכָּה</span> <span class="tag">n.pr.f</span> Milcah <span class="note">· 2 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.cd.ai</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(2)</span>
+<div class="occ"><a href="../genesis/noach.html#t11:29.13"><span class="ref">11:29</span> <span class="f" lang="he">מִלְכָּ֔ה</span> <span class="g">Milcah</span></a><a href="../genesis/noach.html#t11:29.17"><span class="ref">11:29</span> <span class="f" lang="he">מִלְכָּ֖ה</span> <span class="g">Milcah</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r584">
+<h2 lang="he">מלל <small>root · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">נָמַל</span> <span class="tag">vb</span> circumcise <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.ci.aa</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t17:11.1"><span class="ref">17:11</span> <span class="f" lang="he">וּנְמַלְתֶּ֕ם</span> <span class="g">and you shall circumcise</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r585">
+<h2 lang="he">ממן <small>root · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָמוֹן</span> <span class="tag">m.</span> (contr. of מהמון, v. הָמוֹן; הָמָה) accumulation, wealth, value (in Greek writers: Mammon). Tanḥ. Matt. 7 אתם חיבבתם את מָמוֹנְכֶם וכ׳ you loved your wealth (of cattle) more than your souls; Num. R. s. 12. Ib.; Tanḥ. l. c. 6 מ̇מ̇ון̇ מ̇ה שאתה מ̇ונ̇ה אינו כלום m… <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מָמוֹן</code></span>
+
+
+<div class="sense"><code>1</code> (contr. of מהמון, v. הָמוֹן; הָמָה) accumulation, wealth, value (in Greek writers: Mammon). Tanḥ. Matt. 7 אתם חיבבתם את מָמוֹנְכֶם וכ׳ you loved your wealth (of cattle) more than your souls; Num. R. s. 12. Ib.; Tanḥ. l. c. 6 מ̇מ̇ון̇ מ̇ה שאתה מ̇ונ̇ה אינו כלום m… <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-2.html#t2:12.5"><span class="ref">2:12</span> <span class="f" lang="he">מָמוֹן</span> <span class="g">money</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r586">
+<h2 lang="he">מַמְרֵא <small>no root given · 3 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַמְרֵא</span> <span class="tag">n.pr.m</span> Mamre <span class="note">· 3 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.ck.ap</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(3)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t13:18.6"><span class="ref">13:18</span> <span class="f" lang="he">מַמְרֵ֖א</span> <span class="g">Mamre</span></a><a href="../genesis/lekh-lekha.html#t14:13.9"><span class="ref">14:13</span> <span class="f" lang="he">מַמְרֵ֣א</span> <span class="g">Mamre</span></a><a href="../genesis/lekh-lekha.html#t14:24.13"><span class="ref">14:24</span> <span class="f" lang="he">וּמַמְרֵ֔א</span> <span class="g">and Mamre</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r587">
+<h2 lang="he">מִן־ <small>no root given · 37 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִן־</span> <span class="tag">prep</span> out of, from, on account of, off, on the side of, since, above, than, so that not <span class="note">· 37 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.cl.aa</code></span>
+
+
+<div class="sense"><code>1.a</code> from, against <span class="note">(16)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t3:3.10"><span class="ref">3:3</span> <span class="f" lang="he">מִמֶּ֔נּוּ</span> <span class="g">from it</span></a><a href="../genesis/bereshit.html#t3:5.7"><span class="ref">3:5</span> <span class="f" lang="he">מִמֶּ֔נּוּ</span> <span class="g">from it</span></a><a href="../genesis/bereshit.html#t3:17.8"><span class="ref">3:17</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/bereshit.html#t3:17.15"><span class="ref">3:17</span> <span class="f" lang="he">מִמֶּ֑נּוּ</span> <span class="g">from it</span></a><a href="../genesis/bereshit.html#t3:19.10"><span class="ref">3:19</span> <span class="f" lang="he">מִמֶּ֖נָּה</span> <span class="g">from it</span></a><a href="../genesis/bereshit.html#t3:22.8"><span class="ref">3:22</span> <span class="f" lang="he">מִמֶּ֔נּוּ</span> <span class="g">of us</span></a><a href="../genesis/bereshit.html#t4:10.9"><span class="ref">4:10</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/bereshit.html#t4:11.4"><span class="ref">4:11</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/bereshit.html#t5:29.11"><span class="ref">5:29</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/noach.html#t7:8.1"><span class="ref">7:8</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/noach.html#t7:8.4"><span class="ref">7:8</span> <span class="f" lang="he">וּמִ֨ן</span> <span class="g">and from</span></a><a href="../genesis/noach.html#t7:8.9"><span class="ref">7:8</span> <span class="f" lang="he">וּמִ֨ן</span> <span class="g">and from</span></a><a href="../genesis/noach.html#t8:10.10"><span class="ref">8:10</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/noach.html#t9:21.2"><span class="ref">9:21</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/noach.html#t10:11.1"><span class="ref">10:11</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/lekh-lekha.html#t13:14.13"><span class="ref">13:14</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a></div>
+</div>
+
+<div class="sense"><code>2</code> Out of <span class="note">(6)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t2:9.4"><span class="ref">2:9</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/noach.html#t6:20.3"><span class="ref">6:20</span> <span class="f" lang="he">וּמִן</span> <span class="g">and of</span></a><a href="../genesis/noach.html#t9:18.5"><span class="ref">9:18</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/lekh-lekha.html#t17:6.8"><span class="ref">17:6</span> <span class="f" lang="he">מִמְּךָ֥</span> <span class="g">from you</span></a><a href="../genesis/lekh-lekha.html#t17:16.5"><span class="ref">17:16</span> <span class="f" lang="he">מִמֶּ֛נָּה</span> <span class="g">from her</span></a><a href="../genesis/lekh-lekha.html#t17:16.13"><span class="ref">17:16</span> <span class="f" lang="he">מִמֶּ֥נָּה</span> <span class="g">from her</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(15)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t2:6.3"><span class="ref">2:6</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/bereshit.html#t2:7.7"><span class="ref">2:7</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/bereshit.html#t2:17.7"><span class="ref">2:17</span> <span class="f" lang="he">מִמֶּ֑נּוּ</span> <span class="g">from it</span></a><a href="../genesis/bereshit.html#t2:17.11"><span class="ref">2:17</span> <span class="f" lang="he">מִמֶּ֖נּוּ</span> <span class="g">from it</span></a><a href="../genesis/bereshit.html#t2:19.4"><span class="ref">2:19</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/bereshit.html#t2:22.8"><span class="ref">2:22</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/bereshit.html#t3:11.8"><span class="ref">3:11</span> <span class="f" lang="he">הֲמִן</span> <span class="g">is it from</span></a><a href="../genesis/bereshit.html#t3:11.14"><span class="ref">3:11</span> <span class="f" lang="he">מִמֶּ֖נּוּ</span> <span class="g">from it</span></a><a href="../genesis/bereshit.html#t3:12.10"><span class="ref">3:12</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/noach.html#t7:2.10"><span class="ref">7:2</span> <span class="f" lang="he">וּמִן</span> <span class="g">and from</span></a><a href="../genesis/noach.html#t7:23.18"><span class="ref">7:23</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/noach.html#t8:2.8"><span class="ref">8:2</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/noach.html#t8:16.2"><span class="ref">8:16</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/noach.html#t8:19.13"><span class="ref">8:19</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../genesis/lekh-lekha.html#t16:2.16"><span class="ref">16:2</span> <span class="f" lang="he">מִמֶּ֑נָּה</span> <span class="g">from her</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r588">
+<h2 lang="he">מנה <small>root · 16 words</small></h2>
+
+<div class="note">Pirkei Avot, Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָנָה</span> <span class="tag">n-f</span> part, portion <span class="note">· 6 · BDB Augmented Strong (Sefaria) <code>bdbs:מָנָה</code></span>
+
+
+<div class="sense"><code>1</code> part, portion <span class="note">(6)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:3.17"><span class="ref">1:3</span> <span class="f" lang="he">מְנָת</span> <span class="g">condition of</span></a><a href="../avot/perek-1.html#t1:3.28"><span class="ref">1:3</span> <span class="f" lang="he">מְנָת</span> <span class="g">condition of</span></a><a href="../avot/perek-4.html#t4:5.8"><span class="ref">4:5</span> <span class="f" lang="he">מְנָת</span> <span class="g">to</span></a><a href="../avot/perek-4.html#t4:5.16"><span class="ref">4:5</span> <span class="f" lang="he">מְנָת</span> <span class="g">to</span></a><a href="../avot/perek-6.html#t6:6.126"><span class="ref">6:6</span> <span class="f" lang="he">מְנָת</span> <span class="g">condition of</span></a><a href="../avot/perek-6.html#t6:6.130"><span class="ref">6:6</span> <span class="f" lang="he">מְנָת</span> <span class="g">condition of</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִנְיָן</span> <span class="tag">m.</span> number, count; ballot, vote. B. Mets. 6ᵇ; Bekh. 59ᵇ, a. e. מ׳ הראוי פוטר a count properly begun redeems, i.e. if one began to count ten or more animals for tithing purposes, and during the count one animal died or ran off, those which passed the rod are redeem… <span class="note">· 6 · Jastrow Dictionary (Sefaria) <code>jastrow:מִנְיָן</code></span>
+
+
+<div class="sense"><code>1</code> number, count; ballot, vote. B. Mets. 6ᵇ; Bekh. 59ᵇ, a. e. מ׳ הראוי פוטר a count properly begun redeems, i.e. if one began to count ten or more animals for tithing purposes, and during the count one animal died or ran off, those which passed the rod are redeem… <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:7.15"><span class="ref">5:7</span> <span class="f" lang="he">וּבְמִנְיָן</span> <span class="g">and in number</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(5)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:10.29"><span class="ref">6:10</span> <span class="f" lang="he">מִנַּיִן</span> <span class="g">from where?</span></a><a href="../avot/perek-6.html#t6:10.44"><span class="ref">6:10</span> <span class="f" lang="he">מִנַּיִן</span> <span class="g">from where?</span></a><a href="../avot/perek-6.html#t6:10.82"><span class="ref">6:10</span> <span class="f" lang="he">מִנַּיִן</span> <span class="g">from where?</span></a><a href="../avot/perek-6.html#t6:10.98"><span class="ref">6:10</span> <span class="f" lang="he">מִנַּיִן</span> <span class="g">from where?</span></a><a href="../avot/perek-6.html#t6:10.126"><span class="ref">6:10</span> <span class="f" lang="he">מִנַּיִן</span> <span class="g">from where?</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָנָה</span> <span class="tag">vb</span> count, number, reckon, assign <span class="note">· 2 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.cm.aa</code></span>
+
+
+<div class="sense"><code>Qal 1</code> count, number <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t13:16.10"><span class="ref">13:16</span> <span class="f" lang="he">לִמְנוֹת֙</span> <span class="g">to count</span></a></div>
+</div>
+
+<div class="sense"><code>Niph 1</code> be counted, numbered <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t13:16.16"><span class="ref">13:16</span> <span class="f" lang="he">יִמָּנֶֽה׃</span> <span class="g">will be counted</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָנָה II</span>  to count, v. מני. <span class="note">· 2 · Jastrow Dictionary (Sefaria) <code>jastrow:מָנָה II</code></span>
+
+
+<div class="sense"><code>1</code> to count, v. מני. <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-2.html#t2:8.53"><span class="ref">2:8</span> <span class="f" lang="he">מוֹנֶה</span> <span class="g">counting</span></a><a href="../avot/perek-6.html#t6:8.82"><span class="ref">6:8</span> <span class="f" lang="he">שֶׁמָּנוּ</span> <span class="g">that counted</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r589">
+<h2 lang="he">מנח <small>root · 3 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִנְחָה</span> <span class="tag">n.f</span> gift, tribute, offering <span class="note">· 3 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.cn.ab</code></span>
+
+
+<div class="sense"><code>3</code> offering <span class="note">(3)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t4:3.8"><span class="ref">4:3</span> <span class="f" lang="he">מִנְחָ֖ה</span> <span class="g">an offering</span></a><a href="../genesis/bereshit.html#t4:4.13"><span class="ref">4:4</span> <span class="f" lang="he">מִנְחָתֽוֹ׃</span> <span class="g">his offering</span></a><a href="../genesis/bereshit.html#t4:5.4"><span class="ref">4:5</span> <span class="f" lang="he">מִנְחָת֖וֹ</span> <span class="g">his offering</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r590">
+<h2 lang="he">מנן <small>root · 42 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִן</span> <span class="tag">prep</span> from, out of, by, by reason of, at, more than <span class="note">· 42 · BDB Augmented Strong (Sefaria) <code>bdbs:מִן</code></span>
+
+
+<div class="sense"><code>1</code> from, out of, by, by reason of, at, more than <span class="note">(8)</span>
+<div class="occ"><a href="../avot/perek-4.html#t4:20.34"><span class="ref">4:20</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-4.html#t4:20.46"><span class="ref">4:20</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-4.html#t4:21.11"><span class="ref">4:21</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-6.html#t6:1.53"><span class="ref">6:1</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-6.html#t6:1.59"><span class="ref">6:1</span> <span class="f" lang="he">מִמֶּנּוּ</span> <span class="g">from him</span></a><a href="../avot/perek-6.html#t6:6.4"><span class="ref">6:6</span> <span class="f" lang="he">מִן</span> <span class="g">than</span></a><a href="../avot/perek-6.html#t6:6.6"><span class="ref">6:6</span> <span class="f" lang="he">וּמִן</span> <span class="g">and than</span></a><a href="../avot/perek-6.html#t6:6.95"><span class="ref">6:6</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a></div>
+</div>
+
+<div class="sense"><code>1.1</code> from, out of (of place) <span class="note">(6)</span>
+<div class="occ"><a href="../avot/perek-2.html#t2:9.58"><span class="ref">2:9</span> <span class="f" lang="he">מִמֶּנָּה</span> <span class="g">from it</span></a><a href="../avot/perek-2.html#t2:9.83"><span class="ref">2:9</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-2.html#t2:9.86"><span class="ref">2:9</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-2.html#t2:11.13"><span class="ref">2:11</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-2.html#t2:16.13"><span class="ref">2:16</span> <span class="f" lang="he">מִמֶּנָּה</span> <span class="g">from it</span></a><a href="../avot/perek-5.html#t5:22.16"><span class="ref">5:22</span> <span class="f" lang="he">וּמִנַּהּ</span> <span class="g">and from it</span></a></div>
+</div>
+
+<div class="sense"><code>1.4</code> beyond, more than (in comparisons) <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:7.13"><span class="ref">5:7</span> <span class="f" lang="he">מִמֶּנּוּ</span> <span class="g">than he</span></a><a href="../avot/perek-5.html#t5:22.23"><span class="ref">5:22</span> <span class="f" lang="he">הֵימֶנָּה</span> <span class="g">than it</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(26)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:7.12"><span class="ref">1:7</span> <span class="f" lang="he">מִן</span> <span class="g">of</span></a><a href="../avot/perek-1.html#t1:8.8"><span class="ref">1:8</span> <span class="f" lang="he">מֵהֶם</span> <span class="g">from them</span></a><a href="../avot/perek-1.html#t1:10.4"><span class="ref">1:10</span> <span class="f" lang="he">מֵהֶם</span> <span class="g">from them</span></a><a href="../avot/perek-1.html#t1:12.4"><span class="ref">1:12</span> <span class="f" lang="he">מֵהֶם</span> <span class="g">from them</span></a><a href="../avot/perek-1.html#t1:16.9"><span class="ref">1:16</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-2.html#t2:1.15"><span class="ref">2:1</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-2.html#t2:1.50"><span class="ref">2:1</span> <span class="f" lang="he">מִמְּךָ</span> <span class="g">from you</span></a><a href="../avot/perek-2.html#t2:4.25"><span class="ref">2:4</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-3.html#t3:5.12"><span class="ref">3:5</span> <span class="f" lang="he">מִמֶּנּוּ</span> <span class="g">from him</span></a><a href="../avot/perek-3.html#t3:5.20"><span class="ref">3:5</span> <span class="f" lang="he">מִמֶּנּוּ</span> <span class="g">from him</span></a><a href="../avot/perek-3.html#t3:7.21"><span class="ref">3:7</span> <span class="f" lang="he">מִמְּךָ</span> <span class="g">from You</span></a><a href="../avot/perek-3.html#t3:10.8"><span class="ref">3:10</span> <span class="f" lang="he">הֵימֶנּוּ</span> <span class="g">with him</span></a><a href="../avot/perek-3.html#t3:10.12"><span class="ref">3:10</span> <span class="f" lang="he">הֵימֶנּוּ</span> <span class="g">with him</span></a><a href="../avot/perek-3.html#t3:10.18"><span class="ref">3:10</span> <span class="f" lang="he">הֵימֶנּוּ</span> <span class="g">with him</span></a><a href="../avot/perek-3.html#t3:10.23"><span class="ref">3:10</span> <span class="f" lang="he">הֵימֶנּוּ</span> <span class="g">with him</span></a><a href="../avot/perek-3.html#t3:10.46"><span class="ref">3:10</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-3.html#t3:16.31"><span class="ref">3:16</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-4.html#t4:2.10"><span class="ref">4:2</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-4.html#t4:4.25"><span class="ref">4:4</span> <span class="f" lang="he">מִמֶּנּוּ</span> <span class="g">from him</span></a><a href="../avot/perek-4.html#t4:5.51"><span class="ref">4:5</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-4.html#t4:7.7"><span class="ref">4:7</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-4.html#t4:7.10"><span class="ref">4:7</span> <span class="f" lang="he">מִמֶּנּוּ</span> <span class="g">from himself</span></a><a href="../avot/perek-4.html#t4:10.17"><span class="ref">4:10</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-5.html#t5:1.15"><span class="ref">5:1</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a><a href="../avot/perek-5.html#t5:6.17"><span class="ref">5:6</span> <span class="f" lang="he">וְהַמָּן</span> <span class="g">and the manna</span></a><a href="../avot/perek-5.html#t5:21.53"><span class="ref">5:21</span> <span class="f" lang="he">מִן</span> <span class="g">from</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r591">
+<h2 lang="he">מסר <small>root · 3 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָסַר</span>  to seize (v. Num. XXXI, 5).—Denom. מְסִירָה 1. <span class="note">· 3 · Jastrow Dictionary (Sefaria) <code>jastrow:מָסַר</code></span>
+
+
+<div class="sense"><code>2</code> to hand over; to deliver, transmit. Ab. I, 1 ומְסָרָהּ וכ׳ and handed it (the Law) over to &amp;c. (in the chain of tradition). B. Mets. 8ᵇ (expl. מוֹסֵירָה) כאדם המוֹסֵר דבר וכ׳ like one handing over (giving possession) &amp;c. Ib. 111ᵇ bot. (expl. נשא את נפשו, Deut.… <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:1.5"><span class="ref">1:1</span> <span class="f" lang="he">וּמְסָרָהּ</span> <span class="g">and handed it down</span></a><a href="../avot/perek-1.html#t1:1.12"><span class="ref">1:1</span> <span class="f" lang="he">מְסָרוּהָ</span> <span class="g">handed it down</span></a></div>
+</div>
+
+<div class="sense"><code>3.1</code> to be delivered, transmitted. Num. R. s. 4 נִמְסְרָה לו בכורה the birth-right (priesthood) was transferred to him. B. Kam. 82ᵇ אין נִמְסָרִים בידכם they will not be given into your hands, you will have no power over them; Men. 64ᵇ. Y. Yoma III, 40ᵈ bot. לא היה… <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:8.48"><span class="ref">5:8</span> <span class="f" lang="he">נִמְסְרוּ</span> <span class="g">were delivered</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r592">
+<h2 lang="he">מעה <small>root · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֵעֶה</span> <span class="tag">n.m</span> internal organs, inward parts, intestines, bowels, belly <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.cv.ab</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t15:4.13"><span class="ref">15:4</span> <span class="f" lang="he">מִמֵּעֶ֔יךָ</span> <span class="g">from your own body</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r593">
+<h2 lang="he">מעט <small>root · 10 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִעוּט</span>  , v. sub מִיע׳. <span class="note">· 6 · Jastrow Dictionary (Sefaria) <code>jastrow:מִעוּט</code></span>
+
+
+<div class="sense"><code>1</code> , v. sub מִיע׳. <span class="note">(6)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:6.45"><span class="ref">6:6</span> <span class="f" lang="he">בְּמִעוּט</span> <span class="g">by littleness of</span></a><a href="../avot/perek-6.html#t6:6.47"><span class="ref">6:6</span> <span class="f" lang="he">בְּמִעוּט</span> <span class="g">by littleness of</span></a><a href="../avot/perek-6.html#t6:6.50"><span class="ref">6:6</span> <span class="f" lang="he">בְּמִעוּט</span> <span class="g">by littleness of</span></a><a href="../avot/perek-6.html#t6:6.52"><span class="ref">6:6</span> <span class="f" lang="he">בְּמִעוּט</span> <span class="g">by littleness of</span></a><a href="../avot/perek-6.html#t6:6.54"><span class="ref">6:6</span> <span class="f" lang="he">בְּמִעוּט</span> <span class="g">by littleness of</span></a><a href="../avot/perek-6.html#t6:6.56"><span class="ref">6:6</span> <span class="f" lang="he">בְּמִעוּט</span> <span class="g">by littleness of</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מְעַט</span> <span class="tag">n-m</span> littleness, few, a little, fewness <span class="note">· 4 · BDB Augmented Strong (Sefaria) <code>bdbs:מְעַט</code></span>
+
+
+<div class="sense"><code>1</code> littleness, few, a little, fewness <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:15.7"><span class="ref">1:15</span> <span class="f" lang="he">מְעַט</span> <span class="g">little</span></a></div>
+</div>
+
+<div class="sense"><code>1.1</code> little, small, littleness, fewness, too little, yet a little <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:17.62"><span class="ref">3:17</span> <span class="f" lang="he">מֻעָטִין</span> <span class="g">are few</span></a><a href="../avot/perek-3.html#t3:17.97"><span class="ref">3:17</span> <span class="f" lang="he">מֻעָטִין</span> <span class="g">are few</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-4.html#t4:10.5"><span class="ref">4:10</span> <span class="f" lang="he">מְמַעֵט</span> <span class="g">limiting</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r594">
+<h2 lang="he">מֵעִם <small>no root given · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֵעִם</span> <span class="tag">R</span> from with, beside <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:p.dj.ab</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t13:14.8"><span class="ref">13:14</span> <span class="f" lang="he">מֵֽעִמּ֔וֹ</span> <span class="g">from with him</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r595">
+<h2 lang="he">מצא <small>root · 13 words</small></h2>
+
+<div class="note">Bereshit (Genesis), Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָצָא</span> <span class="tag">vb</span> attain to, find <span class="note">· 7 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.db.aa</code></span>
+
+
+<div class="sense"><code>Qal 1</code> find <span class="note">(6)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t2:20.13"><span class="ref">2:20</span> <span class="f" lang="he">מָצָ֥א</span> <span class="g">he found</span></a><a href="../genesis/bereshit.html#t4:14.16"><span class="ref">4:14</span> <span class="f" lang="he">מֹצְאִ֖י</span> <span class="g">one who finds me</span></a><a href="../genesis/bereshit.html#t4:15.18"><span class="ref">4:15</span> <span class="f" lang="he">מֹצְאֽוֹ׃</span> <span class="g">finds him</span></a><a href="../genesis/bereshit.html#t6:8.2"><span class="ref">6:8</span> <span class="f" lang="he">מָ֥צָא</span> <span class="g">found</span></a><a href="../genesis/noach.html#t8:9.2"><span class="ref">8:9</span> <span class="f" lang="he">מָצְאָה֩</span> <span class="g">found</span></a><a href="../genesis/noach.html#t11:2.4"><span class="ref">11:2</span> <span class="f" lang="he">וַֽיִּמְצְא֥וּ</span> <span class="g">and they found</span></a></div>
+</div>
+
+<div class="sense"><code>Qal 3</code> come upon, light upon <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t16:7.1"><span class="ref">16:7</span> <span class="f" lang="he">וַֽיִּמְצָאָ֞הּ</span> <span class="g">and found her</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָצָא</span> <span class="tag">v</span> to find, attain to <span class="note">· 6 · BDB Augmented Strong (Sefaria) <code>bdbs:מָצָא</code></span>
+
+
+<div class="sense"><code>1</code> to find, attain to <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:17.10"><span class="ref">1:17</span> <span class="f" lang="he">מָצָאתִי</span> <span class="g">I have found</span></a><a href="../avot/perek-6.html#t6:7.17"><span class="ref">6:7</span> <span class="f" lang="he">לְמֹצְאֵיהֶם</span> <span class="g">to those who find them</span></a></div>
+</div>
+
+<div class="sense"><code>1.1.1</code> to find <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:3.23"><span class="ref">6:3</span> <span class="f" lang="he">מָצִינוּ</span> <span class="g">we found</span></a></div>
+</div>
+
+<div class="sense"><code>1.2.1</code> to be found <span class="note">(3)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:11.19"><span class="ref">1:11</span> <span class="f" lang="he">וְנִמְצָא</span> <span class="g">and it is found</span></a><a href="../avot/perek-5.html#t5:5.44"><span class="ref">5:5</span> <span class="f" lang="he">נִמְצָא</span> <span class="g">was found</span></a><a href="../avot/perek-6.html#t6:8.31"><span class="ref">6:8</span> <span class="f" lang="he">תִּמָּצֵא</span> <span class="g">it is found</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r596">
+<h2 lang="he">מצר <small>root · 8 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִצְרַ֫יִם</span> <span class="tag">n.pr.terr</span> Egypt, Egyptians <span class="note">· 8 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.df.ab</code></span>
+
+
+<div class="sense"><code>1.a</code> Egypt <span class="note">(4)</span>
+<div class="occ"><a href="../genesis/noach.html#t10:6.4"><span class="ref">10:6</span> <span class="f" lang="he">וּמִצְרַ֖יִם</span> <span class="g">and Egypt</span></a><a href="../genesis/lekh-lekha.html#t13:1.3"><span class="ref">13:1</span> <span class="f" lang="he">מִמִּצְרַ֜יִם</span> <span class="g">from Egypt</span></a><a href="../genesis/lekh-lekha.html#t13:10.23"><span class="ref">13:10</span> <span class="f" lang="he">מִצְרַ֔יִם</span> <span class="g">Egypt</span></a><a href="../genesis/lekh-lekha.html#t15:18.15"><span class="ref">15:18</span> <span class="f" lang="he">מִצְרַ֔יִם</span> <span class="g">Egypt</span></a></div>
+</div>
+
+<div class="sense"><code>2.b</code> Egypt, Egyptians <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t10:13.1"><span class="ref">10:13</span> <span class="f" lang="he">וּמִצְרַ֡יִם</span> <span class="g">and Egypt</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(3)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t12:10.6"><span class="ref">12:10</span> <span class="f" lang="he">מִצְרַ֙יְמָה֙</span> <span class="g">to Egypt</span></a><a href="../genesis/lekh-lekha.html#t12:11.5"><span class="ref">12:11</span> <span class="f" lang="he">מִצְרָ֑יְמָה</span> <span class="g">to Egypt</span></a><a href="../genesis/lekh-lekha.html#t12:14.4"><span class="ref">12:14</span> <span class="f" lang="he">מִצְרָ֑יְמָה</span> <span class="g">to Egypt</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r597">
+<h2 lang="he">מִצְרִי <small>no root given · 4 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִצְרִי</span> <span class="tag">adj. gent</span> Egyptian <span class="note">· 4 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.df.ad</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(4)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t12:12.5"><span class="ref">12:12</span> <span class="f" lang="he">הַמִּצְרִ֔ים</span> <span class="g">the Egyptians</span></a><a href="../genesis/lekh-lekha.html#t12:14.6"><span class="ref">12:14</span> <span class="f" lang="he">הַמִּצְרִים֙</span> <span class="g">the Egyptians</span></a><a href="../genesis/lekh-lekha.html#t16:1.9"><span class="ref">16:1</span> <span class="f" lang="he">מִצְרִ֖ית</span> <span class="g">Egyptian</span></a><a href="../genesis/lekh-lekha.html#t16:3.7"><span class="ref">16:3</span> <span class="f" lang="he">הַמִּצְרִית֙</span> <span class="g">the Egyptian</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r598">
+<h2 lang="he">מִצְרִי <small>no root given · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִצְרִי</span> <span class="tag">a</span> Egyptian = see Egypte &#34;double straits&#34; <span class="note">· 1 · BDB Augmented Strong (Sefaria) <code>bdbs:מִצְרִי</code></span>
+
+
+<div class="sense"><code>2</code> Egyptian-an inhabitant or citizen of Egypt <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:4.16"><span class="ref">5:4</span> <span class="f" lang="he">הַמִּצְרִיִּים</span> <span class="g">the Egyptians</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r599">
+<h2 lang="he">מִצְרַיִם <small>no root given · 2 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִצְרַיִם</span> <span class="tag">n-pr</span> Egypt = &#34;land of the Copts&#34; <span class="note">· 2 · BDB Augmented Strong (Sefaria) <code>bdbs:מִצְרַיִם</code></span>
+
+
+<div class="sense"><code>1</code> Egypt = &#34;land of the Copts&#34; <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:4.5"><span class="ref">5:4</span> <span class="f" lang="he">בְמִצְרַיִם</span> <span class="g">in Egypt</span></a><a href="../avot/perek-5.html#t5:4.17"><span class="ref">5:4</span> <span class="f" lang="he">בְּמִצְרַיִם</span> <span class="g">in Egypt</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r600">
+<h2 lang="he">מַרְגָּלִית <small>no root given · 3 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַרְגָּלִית</span> <span class="tag">f.</span> (cmp. μαργαρίτης, μαργηλίς &amp;c., prob. of Semitic origin, cmp. רגג, רגרג) gem, jewel, pearl, mostly pl. מַרְגָּלִיּוֹת. Ab. Zar. 8ᵇ מ׳ ואבן טובה וכ׳ in setting pearls and a precious stone (for an ornament), which is made the base (subordinate) to the other?—Gen… <span class="note">· 3 · Jastrow Dictionary (Sefaria) <code>jastrow:מַרְגָּלִית</code></span>
+
+
+<div class="sense"><code>1</code> (cmp. μαργαρίτης, μαργηλίς &amp;c., prob. of Semitic origin, cmp. רגג, רגרג) gem, jewel, pearl, mostly pl. מַרְגָּלִיּוֹת. Ab. Zar. 8ᵇ מ׳ ואבן טובה וכ׳ in setting pearls and a precious stone (for an ornament), which is made the base (subordinate) to the other?—Gen… <span class="note">(3)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:9.52"><span class="ref">6:9</span> <span class="f" lang="he">וּמַרְגָּלִיּוֹת</span> <span class="g">and pearls</span></a><a href="../avot/perek-6.html#t6:9.65"><span class="ref">6:9</span> <span class="f" lang="he">וּמַרְגָּלִיּוֹת</span> <span class="g">and pearls</span></a><a href="../avot/perek-6.html#t6:9.90"><span class="ref">6:9</span> <span class="f" lang="he">וּמַרְגָּלִיּוֹת</span> <span class="g">and pearls</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r601">
+<h2 lang="he">מרד <small>root · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָרַד</span> <span class="tag">vb</span> rebel <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.dj.aa</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t14:4.10"><span class="ref">14:4</span> <span class="f" lang="he">מָרָֽדוּ׃</span> <span class="g">they rebelled</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r602">
+<h2 lang="he">מׇרְדְּכַי <small>no root given · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מׇרְדְּכַי</span> <span class="tag">n-pr-m</span> Mordecai = &#34;little man&#34; or &#34;worshipper of Mars&#34; <span class="note">· 1 · BDB Augmented Strong (Sefaria) <code>bdbs:מׇרְדְּכַי</code></span>
+
+
+<div class="sense"><code>1</code> Mordecai = &#34;little man&#34; or &#34;worshipper of Mars&#34; <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:6.159"><span class="ref">6:6</span> <span class="f" lang="he">מָרְדֳּכָי</span> <span class="g">Mordecai</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r603">
+<h2 lang="he">מַשׁ <small>no root given · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַשׁ</span> <span class="tag">n.pr.loc</span> Mash <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.dr.ba</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t10:23.6"><span class="ref">10:23</span> <span class="f" lang="he">וָמַֽשׁ׃</span> <span class="g">and Mash</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r604">
+<h2 lang="he">מֵשָׁא <small>no root given · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֵשָׁא</span> <span class="tag">n.pr.loc</span> Mesha <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.dr.bc</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t10:30.3"><span class="ref">10:30</span> <span class="f" lang="he">מִמֵּשָׁ֑א</span> <span class="g">from Mesha</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r605">
+<h2 lang="he">מֹשֶׁה <small>no root given · 3 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֹשֶׁה</span> <span class="tag">n-pr-m</span> Moses = &#34;drawn&#34; <span class="note">· 3 · BDB Augmented Strong (Sefaria) <code>bdbs:מֹשֶׁה</code></span>
+
+
+<div class="sense"><code>1</code> Moses = &#34;drawn&#34; <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-5.html#t5:6.29"><span class="ref">5:6</span> <span class="f" lang="he">משֶׁה</span> <span class="g">Moses</span></a></div>
+</div>
+
+<div class="sense"><code>2</code> the prophet and lawgiver, leader of the exodus <span class="note">(2)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:1.1"><span class="ref">1:1</span> <span class="f" lang="he">משֶׁה</span> <span class="g">Moses</span></a><a href="../avot/perek-5.html#t5:18.19"><span class="ref">5:18</span> <span class="f" lang="he">משֶׁה</span> <span class="g">Moses</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r606">
+<h2 lang="he">מֶ֫שֶׁךְ <small>no root given · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֶ֫שֶׁךְ</span> <span class="tag">n.pr.gent</span> the Moschi <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.du.ac</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/noach.html#t10:2.8"><span class="ref">10:2</span> <span class="f" lang="he">וּמֶ֖שֶׁךְ</span> <span class="g">and Meshech</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r607">
+<h2 lang="he">משׁל <small>root · 7 words</small></h2>
+
+<div class="note">Bereshit (Genesis), Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָשַׁל</span> <span class="tag">vb</span> rule, have dominion, reign <span class="note">· 3 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.dw.aa</code></span>
+
+
+<div class="sense"><code>Qal 1</code> rule, have dominion <span class="note">(3)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t1:18.1"><span class="ref">1:18</span> <span class="f" lang="he">וְלִמְשֹׁל֙</span> <span class="g">and to rule</span></a><a href="../genesis/bereshit.html#t3:16.15"><span class="ref">3:16</span> <span class="f" lang="he">יִמְשׇׁל</span> <span class="g">will rule</span></a><a href="../genesis/bereshit.html#t4:7.14"><span class="ref">4:7</span> <span class="f" lang="he">תִּמְשׇׁל</span> <span class="g">you can rule</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֶמְשָׁלָה</span> <span class="tag">n.f</span> rule, dominion, realm <span class="note">· 2 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.dw.ad</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(2)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t1:16.10"><span class="ref">1:16</span> <span class="f" lang="he">לְמֶמְשֶׁ֣לֶת</span> <span class="g">for the rule of</span></a><a href="../genesis/bereshit.html#t1:16.15"><span class="ref">1:16</span> <span class="f" lang="he">לְמֶמְשֶׁ֣לֶת</span> <span class="g">for the rule of</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָשַׁל I</span>  (b. h.) <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מָשַׁל I</code></span>
+
+
+<div class="sense"><code>3</code> to attend, manage, control. B. Mets. 75ᵇ מי שאשתו מוֹשֶׁלֶת עליו he whom his wife rules. Ḥull. 60ᵇ לכי ומְשׁוֹלִי ביום וכ׳ (not ומשול; Rashi לך ומְשׁוֹל) go thou and attend by day and by night.—B. Bath. 78ᵇ (ref. to Num. XXI, 27) המוֹשְׁלִים ביצרם who control … <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-4.html#t4:1.31"><span class="ref">4:1</span> <span class="f" lang="he">וּמשֵׁל</span> <span class="g">and one who rules</span></a></div>
+</div>
+
+</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֶמְשָׁלָה</span> <span class="tag">f.</span> rulership, power. Koh. R. to X, 4 כי באתה לך מ׳ וכ׳ if rulership happens to be thine, leave not thy humility.—Gen. R. s. 53 נטלה … חמ׳ that rulership was taken from them; a. e.—[Gen. R. s. 20, read: מְמַשְּׁלָהּ, v. מָשַׁל.] <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מֶמְשָׁלָה</code></span>
+
+
+<div class="sense"><code>1</code> rulership, power. Koh. R. to X, 4 כי באתה לך מ׳ וכ׳ if rulership happens to be thine, leave not thy humility.—Gen. R. s. 53 נטלה … חמ׳ that rulership was taken from them; a. e.—[Gen. R. s. 20, read: מְמַשְּׁלָהּ, v. מָשַׁל.] <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:1.77"><span class="ref">6:1</span> <span class="f" lang="he">וּמֶמְשָׁלָה</span> <span class="g">and dominion</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r608">
+<h2 lang="he">מִשְׁלֵי <small>no root given · 13 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מִשְׁלֵי</span>  , v. מָשָׁל <span class="note">· 13 · Jastrow Dictionary (Sefaria) <code>jastrow:מִשְׁלֵי</code></span>
+
+
+<div class="sense"><code>1</code> , v. מָשָׁל <span class="note">(12)</span>
+<div class="occ"><a href="../avot/perek-4.html#t4:1.25"><span class="ref">4:1</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-4.html#t4:14.20"><span class="ref">4:14</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-4.html#t4:19.4"><span class="ref">4:19</span> <span class="f" lang="he">משלי</span> <span class="g">(book of) Proverbs</span></a><a href="../avot/perek-5.html#t5:19.60"><span class="ref">5:19</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-6.html#t6:1.65"><span class="ref">6:1</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-6.html#t6:2.30"><span class="ref">6:2</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-6.html#t6:3.95"><span class="ref">6:3</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-6.html#t6:3.100"><span class="ref">6:3</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-6.html#t6:3.110"><span class="ref">6:3</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-6.html#t6:7.12"><span class="ref">6:7</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-6.html#t6:9.97"><span class="ref">6:9</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a><a href="../avot/perek-6.html#t6:10.31"><span class="ref">6:10</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a></div>
+</div>
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-3.html#t3:14.60"><span class="ref">3:14</span> <span class="f" lang="he">משלי</span> <span class="g">Proverbs</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r609">
+<h2 lang="he">משׁק <small>root · 1 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מֶ֫שֶׁק</span> <span class="tag">n.[m.]</span> acquisition, possession <span class="note">· 1 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.dy.ab</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../genesis/lekh-lekha.html#t15:2.12"><span class="ref">15:2</span> <span class="f" lang="he">מֶ֣שֶׁק</span> <span class="g">the charge of</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r610">
+<h2 lang="he">משׂר <small>root · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מְשׂוּרָה</span> <span class="tag">n-f</span> measure <span class="note">· 1 · BDB Augmented Strong (Sefaria) <code>bdbs:מְשׂוּרָה</code></span>
+
+
+<div class="sense"><code>1</code> measure <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:4.10"><span class="ref">6:4</span> <span class="f" lang="he">בִּמְשׂוּרָה</span> <span class="g">by measure</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r611">
+<h2 lang="he">מְתוּשָׁאֵל <small>no root given · 2 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מְתוּשָׁאֵל</span> <span class="tag">n.pr.m</span> Methusael <span class="note">· 2 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.ea.ab</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(2)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t4:18.12"><span class="ref">4:18</span> <span class="f" lang="he">מְת֣וּשָׁאֵ֔ל</span> <span class="g">Methushael</span></a><a href="../genesis/bereshit.html#t4:18.13"><span class="ref">4:18</span> <span class="f" lang="he">וּמְתוּשָׁאֵ֖ל</span> <span class="g">and Methushael</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r612">
+<h2 lang="he">מְתוּשֶׁ֫לַח <small>no root given · 5 words</small></h2>
+
+<div class="note">Bereshit (Genesis)</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מְתוּשֶׁ֫לַח</span> <span class="tag">n.pr.m</span> man of the dart <span class="note">· 5 · BDB (OpenScriptures Hebrew Lexicon) <code>bdb:m.ea.ac</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(5)</span>
+<div class="occ"><a href="../genesis/bereshit.html#t5:21.8"><span class="ref">5:21</span> <span class="f" lang="he">מְתוּשָֽׁלַח׃</span> <span class="g">Methuselah</span></a><a href="../genesis/bereshit.html#t5:22.8"><span class="ref">5:22</span> <span class="f" lang="he">מְתוּשֶׁ֔לַח</span> <span class="g">Methuselah</span></a><a href="../genesis/bereshit.html#t5:25.2"><span class="ref">5:25</span> <span class="f" lang="he">מְתוּשֶׁ֔לַח</span> <span class="g">Methuselah</span></a><a href="../genesis/bereshit.html#t5:26.2"><span class="ref">5:26</span> <span class="f" lang="he">מְתוּשֶׁ֗לַח</span> <span class="g">Methuselah</span></a><a href="../genesis/bereshit.html#t5:27.4"><span class="ref">5:27</span> <span class="f" lang="he">מְתוּשֶׁ֔לַח</span> <span class="g">Methuselah</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r613">
+<h2 lang="he">מַתְיָא <small>no root given · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַתְיָא</span> <span class="tag">f.</span> Part. Af. of אֲתָא. Ṇed. 81ᵃ מ׳ לידי וכ׳ leads to (may cause) &amp;c.; a. fr.—[מֵתַיָּא, v. מֵיתָא.] <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מַתְיָא</code></span>
+
+
+<div class="sense"><span class="note">no sense chosen</span> <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-4.html#t4:15.14"><span class="ref">4:15</span> <span class="f" lang="he">מַתְיָא</span> <span class="g">Matya</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r614">
+<h2 lang="he">מתן <small>root · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מָתוּן II</span> <span class="tag">f.</span> (מָתַן) slow, careful, considerate, patient. Hor. 14ᵃ, v. מַקְשֶׁה. Ber. 20ᵃ (a proverb cited, when a person was fined for attacking a Samaritan woman named מתון) היינו דאמרי אינשי מ׳ מ׳ ארבע וכ׳ Ms. M. (v. Rabb. D. S. a. l.) that is what people say, mathun, m… <span class="note">· 1 · Jastrow Dictionary (Sefaria) <code>jastrow:מָתוּן II</code></span>
+
+
+<div class="sense"><code>1</code> (מָתַן) slow, careful, considerate, patient. Hor. 14ᵃ, v. מַקְשֶׁה. Ber. 20ᵃ (a proverb cited, when a person was fined for attacking a Samaritan woman named מתון) היינו דאמרי אינשי מ׳ מ׳ ארבע וכ׳ Ms. M. (v. Rabb. D. S. a. l.) that is what people say, mathun, m… <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-1.html#t1:1.21"><span class="ref">1:1</span> <span class="f" lang="he">מְתוּנִים</span> <span class="g">deliberate</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+<section class="seg root" id="r615">
+<h2 lang="he">מַתָּנָה <small>no root given · 1 words</small></h2>
+
+<div class="note">Pirkei Avot</div>
+
+<div class="lemma">
+<span class="hw" lang="he">מַתָּנָה</span> <span class="tag">n-pr-loc</span> Mattanah = &#34;gift of Jehovah&#34; <span class="note">· 1 · BDB Augmented Strong (Sefaria) <code>bdbs:מַתָּנָה</code></span>
+
+
+<div class="sense"><code>1</code> Mattanah = &#34;gift of Jehovah&#34; <span class="note">(1)</span>
+<div class="occ"><a href="../avot/perek-6.html#t6:2.79"><span class="ref">6:2</span> <span class="f" lang="he">וּמִמַּתָּנָה</span> <span class="g">and from Mattanah</span></a></div>
+</div>
+
+</div>
+
+</section>
+
+</main>
+<script>try{const t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
+</body>
+</html>
