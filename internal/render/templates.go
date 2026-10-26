@@ -1,5 +1,8 @@
 package render
 
+// BaseCSS defines the template "head" (fonts and colours) shared by every page.
+const BaseCSS = baseCSS
+
 const baseCSS = `{{define "head"}}<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="preconnect" href="https://fonts.googleapis.com">

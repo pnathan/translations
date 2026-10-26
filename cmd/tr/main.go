@@ -6,6 +6,7 @@
 //	tr apply  WORK            merge reviews into the final edition
 //	tr render WORK            write the Markdown edition and the HTML pages
 //	tr report WORK            review counts and open questions (review.md)
+//	tr concord WORK…          the concordance of the works (docs/lexicon)
 //	tr status WORK            the stage of every unit
 //	tr show   WORK REF…       print the tokens of segments
 //
@@ -24,7 +25,7 @@ import (
 
 func main() {
 	if len(os.Args) < 3 {
-		fmt.Fprintln(os.Stderr, "usage: tr fetch|build|check|apply|render|status|show WORK [ARGS]")
+		fmt.Fprintln(os.Stderr, "usage: tr fetch|build|check|apply|render|report|concord|status|show WORK [ARGS]")
 		os.Exit(2)
 	}
 	cfg, err := work.Load(".", os.Args[2])
@@ -53,6 +54,8 @@ func main() {
 		err = renderWork(cfg)
 	case "report":
 		err = reviewReport(cfg)
+	case "concord":
+		err = concordance(cfg, args)
 	case "status":
 		err = status(cfg)
 	case "show":
