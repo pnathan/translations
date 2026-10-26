@@ -161,6 +161,13 @@ func (e *Edition) Markdown(path string) error {
 			if len(cs) > 0 {
 				b.WriteString("Commentary:\n\n" + strings.Join(cs, "\n") + "\n\n")
 			}
+			if len(f.Context) > 0 {
+				b.WriteString("Ancient Near East:\n\n")
+				for _, x := range f.Context {
+					fmt.Fprintf(&b, "- %s\n", x)
+				}
+				b.WriteString("\n")
+			}
 			var ap []string
 			ap = append(ap, f.Apparatus...)
 			for _, v := range s.Variants {

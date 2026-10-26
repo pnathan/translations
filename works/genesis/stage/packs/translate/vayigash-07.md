@@ -25,7 +25,7 @@ Hebrew (MAM): אָנֹכִ֗י אֵרֵ֤ד עִמְּךָ֙ מִצְרַ֔יְ�
 
 ### Commentary anchored to this verse
 
-- `rashi:46:4:1` Rashi **normative** on 46:4.5 46:4.6 «וְאָנֹכִ֖י אַֽעַלְךָ֣» (matched; filed at 46:4) DH «ואנכי אעלך.»: הִבְטִיחוֹ לִהְיוֹת נִקְבָּר בָּאָרֶץ:
+- `rashi:46:4:1` Rashi on 46:4.5 46:4.6 «וְאָנֹכִ֖י אַֽעַלְךָ֣» (matched; filed at 46:4) DH «ואנכי אעלך.»: הִבְטִיחוֹ לִהְיוֹת נִקְבָּר בָּאָרֶץ:
 - `ibn-ezra:46:4:1` Ibn Ezra **normative** on whole 46:4 (verse; filed at 46:4) DH «וטעם אעלך גם עלה.»: שיקבר בארץ ישראל:
 - `ibn-ezra:46:4:2` Ibn Ezra **normative** on 46:4.9 46:4.10 46:4.11 46:4.12 46:4.13 «וְיוֹסֵ֕ף יָשִׁ֥ית יָד֖וֹ עַל עֵינֶֽיךָ׃» (matched; filed at 46:4) DH «ויוסף ישית ידו על עיניך.»: במותך, כן מנהג החיים עם המתים:
 - `radak:46:3:3` Radak on 46:4.6 «אַֽעַלְךָ֣» (shifted; filed at 46:3) DH «אָעַלְךָ»: , אַעֲלֶה בָּנֶיךָ מִשָּׁם לָרֶשֶׁת אֶת הָאָרֶץ הַזֹּאת.
@@ -96,7 +96,7 @@ Hebrew (MAM): וַיִּקְח֣וּ אֶת־מִקְנֵיהֶ֗ם וְאֶת־
 
 ### Commentary anchored to this verse
 
-- `rashi:46:6:1` Rashi **normative** on 46:6.6 46:6.7 46:6.8 46:6.9 «אֲשֶׁ֤ר רָֽכְשׁוּ֙ בְּאֶ֣רֶץ כְּנַ֔עַן» (matched; filed at 46:6) DH «אשר רכשו בארץ כנען.»: אֲבָל מַה שֶּׁרָכַשׁ בְּפַדַּן אֲרָם נָתַן הַכֹּל לְעֵשָׂו בִּשְׁבִיל חֶלְקוֹ בִּמְעָרַת הַמַּכְפֵּלָה; אָמַר נִכְסֵי חוּצָה לָאָרֶץ אֵינָן כְּדַאי לִי, וְזֶהוּ אֲשֶׁר כָּרִיתִי לִי, הֶעֱמִיד לוֹ צִבּוּרִין שֶׁל זָהָב וָכֶסֶף כְּמִין כְּרִי וְאָמַר לוֹ טֹל אֶת אֵלּוּ:
+- `rashi:46:6:1` Rashi on 46:6.6 46:6.7 46:6.8 46:6.9 «אֲשֶׁ֤ר רָֽכְשׁוּ֙ בְּאֶ֣רֶץ כְּנַ֔עַן» (matched; filed at 46:6) DH «אשר רכשו בארץ כנען.»: אֲבָל מַה שֶּׁרָכַשׁ בְּפַדַּן אֲרָם נָתַן הַכֹּל לְעֵשָׂו בִּשְׁבִיל חֶלְקוֹ בִּמְעָרַת הַמַּכְפֵּלָה; אָמַר נִכְסֵי חוּצָה לָאָרֶץ אֵינָן כְּדַאי לִי, וְזֶהוּ אֲשֶׁר כָּרִיתִי לִי, הֶעֱמִיד לוֹ צִבּוּרִין שֶׁל זָהָב וָכֶסֶף כְּמִין כְּרִי וְאָמַר לוֹ טֹל אֶת אֵלּוּ:
 - `onkelos:46:6:1` Targum Onkelos on whole 46:6 (version; filed at 46:6): וּדְבָרוּ יָת גֵּיתֵיהוֹן וְיָת קִנְיָנְהוֹן דִּי קְנוֹ בְּאַרְעָא דִכְנַעַן וַאֲתוֹ לְמִצְרָיִם יַעֲקֹב וְכָל בְּנוֹהִי עִמֵּיהּ:
 
 ## Genesis 46:7
@@ -123,7 +123,7 @@ Paragraph mark after this verse: ס
 
 ### Commentary anchored to this verse
 
-- `rashi:46:7:1` Rashi **normative** on 46:7.6 46:7.7 «וּבְנ֥וֹת בָּנָ֖יו» (matched; filed at 46:7) DH «ובנות בניו.»: סֶרַח בַּת אָשֵׁר וְיוֹכֶבֶד בַּת לֵוִי:
+- `rashi:46:7:1` Rashi on 46:7.6 46:7.7 «וּבְנ֥וֹת בָּנָ֖יו» (matched; filed at 46:7) DH «ובנות בניו.»: סֶרַח בַּת אָשֵׁר וְיוֹכֶבֶד בַּת לֵוִי:
 - `ibn-ezra:46:7:1` Ibn Ezra **normative** on 46:7.5 «בְּנֹתָ֛יו» (matched; filed at 46:7) DH «בנותיו.»: היא דינה לבדה ויתכן שהיה לדינה שפחות קטנות גדלו עמה, ובעבור בתו קראם הכתוב בנות יעקב בעבור שגדלו בביתו, כמו "בני מיכל", וכן ובנות בניו כי אחת היא:
 - `ramban:46:7:1` Ramban on 46:7.6 46:7.7 «וּבְנ֥וֹת בָּנָ֖יו» (matched; filed at 46:7) DH «וּבְנוֹת בָּנָיו»: שֶׂרַח בַּת אָשֵׁר וְיוֹכֶבֶד בַּת לֵוִי, לְשׁוֹן רַשִׁ"י (רש"י על בראשית מ"ו:ז'), וּמָה יְרַבֶּה בִּבְנוֹתָיו. אֲבָל דֶּרֶךְ הַכָּתוּב כְּשֶׁיְּדַבֵּר בְּיִחוּסֵי הָרַבִּים יֹאמַר בְּיָחִיד לְשׁוֹן רַבִּים, "וּבְנֵי דָּן חוּשִׁים" (בראשית מ"ו:כ"ג), "וּבְנֵי פַלּוּא אֱלִיאָב" (במדבר כו ח), וְכֵן "בְּנוֹתָיו" – דִּינָה, "וּבְנוֹת בָּנָיו" – סֶרַח בַּת אָשֵׁר, אֲבָל יוֹכֶבֶד לֹא יַזְכִּירֶנָּה הַכָּתוּב, כְּמוֹ שֶׁאָמַר "כָּל נֶפֶשׁ שִׁשִּׁים וָשֵׁשׁ", אֲבָל יִרְמֹז אֵלֶיהָ כְּדַעַת רַבּוֹתֵינוּ (ב"ב קכג):
 - `radak:46:7:1` Radak on 46:7.5 «בְּנֹתָ֛יו» (matched; filed at 46:7) DH «בְּנֹתָיו.»: דִּינָה בִּתּוֹ וְכַלּוֹתָיו.
@@ -157,14 +157,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
@@ -173,6 +181,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
 - `1` together with
+- `2` with, proximity — Of localities
+- `3.a` with, proximity — in one's possession or keeping
+- `3.b` with, proximity — in one's knowledge or memory
+- `3` with, proximity — אֵת פּ׳ denotes specially
 - `4` from proximity with
 
 ### `bdb:b.ac.ae` בְּאֵר שֶׁ֫בַע (n.pr.loc) root באר: Beersheba
@@ -193,22 +205,30 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:c.ck.ab` גַּם (adv) root גמם: also, moreover, yea
 
 ### `bdb:g.cl.ab` זֶ֫רַע (n.m) root זרע: sowing, seed, offspring
 - `1.a` sowing
 - `1.b` sowing
+- `1` sowing, seed, offspring — lit
 - `2` seed
 - `3` seed
 - `4` seed, offspring
@@ -227,20 +247,30 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4.e` stays, supports
 - `4.f` tenons
 - `4.g` a, hand
+- `4` hand — יָד is used in various special, technical senses:—
+- `5` hand — יַד with prep
 
 ### `bdb:j.bz.ab` יוֹסֵף (n.pr.m): he adds, increases
+- `1` he adds, increases — elder son of Jacob and Rachael
+- `2` he adds, increases — a man of Issachar
+- `3` he adds, increases — a son of Asaph
+- `4` he adds, increases — one of those who took strange wives
+- `5` he adds, increases — a priest
 
 ### `bdb:j.dh.aa` יָרַד (vb) root ירד: come, go down, descend
 - `Qal 1.a` Qal come, go down
 - `Qal 1.b` Qal go down
 - `Qal 1.c` Qal go down
 - `Qal 1.d` Qal go down
+- `Qal 1.e` Qal come, go down, descend — from Jerusalem
+- `Qal 1.f` Qal come, go down, descend — from altar
 - `Qal 1.g` Qal go down
 - `Qal 1.h` Qal sink
 - `Qal 1.i` Qal go down
 - `Qal 1.j` Qal going down, in tears
 - `Qal 1.k` Qal be prostrated
 - `Qal 2` Qal descend
+- `Qal 3` Qal come, go down, descend — of inanimate things
 - `Hiph 1.a` Hiph bring down
 - `Hiph 1.b` Hiph send down, cause to flow down
 - `Hiph 1.c` Hiph lay prostrate
@@ -254,9 +284,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:k.cd.ac` כְּנַ֫עַן (n.pr.m): Canaan
+- `1` Canaan — as n. pr. m., son of Ham
+- `2.a` Canaan — land, W. of Jordan, into wh. Hebrews came, and where they settled, subduing the inhabitants
+- `2.b` Canaan — the coast, esp. Phoenicia
 
 ### `bdb:l.bx.aa` לָקַח (vb) root לקח: take
 - `Qal 1` Qal take, take in hand
@@ -286,7 +322,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:m.df.ab` מִצְרַ֫יִם (n.pr.terr) root מצר: Egypt, Egyptians
 - `1.a` Egypt
+- `1.b` Egypt, Egyptians — combinations
+- `2.a` Egypt, Egyptians — in table of nations, personif. as second son of Ham
 - `2.b` Egypt, Egyptians
+- `2` Egypt, Egyptians — of people
 
 ### `bdb:n.fm.aa` נָשָׂא (vb) root נשׂא: lift, carry, take
 - `Qal 1` Qal lift, lift up
@@ -297,6 +336,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 3` Niph be borne, carried
 - `Niph 4` Niph be taken away, carried off
 - `Pi 1` Pi lift up
+- `Pi 2` Pi fig. = desire, long (Pi of: lift, carry, take)
 - `Pi 3` Pi carry, bear continuously
 - `Pi 4` Pi take, take away
 - `Hithp` Hithp lift oneself up
@@ -306,10 +346,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:p.al.ag` עֲגָלָה (n.f) root עגל: cart, rolling
 
 ### `bdb:p.ck.aa` עַ֫יִן (n.f) root עין: eye
+- `1` eye — lit. as physical organ
+- `2.a` eye — eyes as showing mental qualities
 - `2.b` desire of the eyes, abominations of the eyes
-- `2.a` surface
-- `2.b#3` appearance
+- `3` eye — Fig. of mental and physical faculties, acts and states
+- `2.a#5` surface
+- `2.b#6` appearance
 - `2.c` gleam, sparkle
+- `2` eye — Transferred mngs
 - `5` an eye for an eye, eye to eye, in the presence of, in full view of, on the forehead
 
 ### `bdb:p.cs.aa` עָלָה (vb) root עלה: go up, ascend, climb
@@ -318,6 +362,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 3` Qal go, come up
 - `Qal 4` Qal spring up, grow, shoot forth
 - `Qal 5` Qal go up, rise
+- `Qal 6` Qal go up, ascend, climb — of inanimate things, instead of passive construction
+- `Qal 7` Qal go up, ascend, climb — of thoughts
 - `Qal 8` Qal come up
 - `Qal 9` Qal go up, extend
 - `Qal 10` Qal excel
@@ -328,18 +374,20 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 2` Niph take oneself away
 - `Niph 3` Niph be exalted
 - `Hiph 1` Hiph bring up
+- `Hiph 2` Hiph in personal relations (Hiph of: go up, ascend, climb)
 - `Hiph 3` Hiph bring up
 - `Hiph 4` Hiph cause to ascend
+- `Hiph 5` Hiph mentally (Hiph of: go up, ascend, climb)
 - `Hiph 6` Hiph offer, bring up
 - `Hiph 7` Hiph exalt
 - `Hiph 8` Hiph cause to ascend, offer
-- `Hoph 1` Hoph be carried away
-- `Hoph 2` Hoph be taken up, inserted
-- `Hoph 3` Hoph be offered
-- `Hithp` Hithp lift oneself
+- … 4 more senses
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -351,13 +399,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.dj.aa` עִם (prep): with
 - `1.a` aid
@@ -367,16 +418,20 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.e` together with
 - `1.f` aid
 - `1.g` as long as
+- `1` with — of fellowship and companionship
 - `2` close to, beside
 - `3.a` in the house, family, service of
 - `3.b` In possession of
 - `3.c` In the custody, care of
 - `3.d` Beside, except
 - `3.e` With, friendly with
+- `3` with — Of persons, עִם is spec
 - `4` with
 - `5` together with, in spite of, notwithstanding
 
 ### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
+- `1` Jacob — as n.pr.m
+- `2` Jacob — as n.pr.gent
 
 ### `bdb:q.dh.ab` פַּרְעֹה (n.m): Pharaoh
 
@@ -399,12 +454,13 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 1` Hiph cause to arise, raise
 - `Hiph 2.a` Hiph raise, set up
 - `Hiph 2.b` Hiph erect, build
+- `Hiph 2.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 3` Hiph raise up
 - `Hiph 4.a` Hiph raise up
 - `Hiph 4.b` Hiph instigate, build
+- `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- `Hiph 6` Hiph cause to stand
-- `Hoph` Hoph be raised up
+- … 2 more senses
 
 ### `bdb:s.cb.ac` מִקְנֶה (n.m) root קנה: cattle
 
@@ -413,6 +469,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:t.cu.ac` רְכוּשׁ (n.m) root רכשׁ: property, goods
 
 ### `bdb:u.ce.ab` יִשְׂרָאֵל (n.pr.m) root שׂרה: Israel, Ēl persisteth, persevereth
+- `1` Israel, Ēl persisteth, persevereth — n.pr.m. second name of Jacob
+- `2` Israel, Ēl persisteth, persevereth — n.pr.gent. name of Hebrew nation
 
 ### `bdb:v.cx.aa` שִׁית (vb) root שׁית: put, set
 - `Qal 1` Qal put, lay
@@ -439,6 +497,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 4` Pi shoot forth
 - `Pi 5` Pi let down
 - `Pi 6` Pi shoot
+- `Pi 7` Pi Phrases (Pi of: send)
 - `Pu` Pu be sent off, be put away, divorced, be impelled
 - `Hiph` Hiph and I, will send
 

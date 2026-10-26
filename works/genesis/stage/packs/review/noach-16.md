@@ -23,9 +23,9 @@ Hebrew (MAM): וּלְשֵׁ֥ם יֻלַּ֖ד גַּם־ה֑וּא אֲבִי�
 
 ### Commentary anchored to this verse
 
-- `rashi:10:21:1` Rashi **normative** on 10:21.5 10:21.6 10:21.7 10:21.8 «אֲבִי֙ כׇּל בְּנֵי עֵ֔בֶר» (matched; filed at 10:21) DH «אבי כל בני עבר.»: הַנָּהָר הָיָה שֵׁם:
-- `rashi:10:21:2` Rashi **normative** on 10:21.9 10:21.10 10:21.11 «אֲחִ֖י יֶ֥פֶת הַגָּדֽוֹל׃» (matched; filed at 10:21) DH «אחי יפת הגדול.»: אֵינִי יוֹדֵעַ אִם יֶפֶת הַגָּדוֹל אִם שֵׁם, כְּשֶׁהוּא אוֹמֵר שֵׁם בֶּן מְאַת שָׁנָה וְגוֹ' שְׁנָתַיִם אַחַר הַמַּבּוּל, הֱוֵי אוֹמֵר יֶפֶת הַגָּדוֹל, שֶׁהֲרֵי בֶּן ת"ק שָׁנָה הָיָה נֹחַ כְּשֶׁהִתְחִיל לְהוֹלִיד, וְהַמַּבּוּל הָיָה בִּשְׁנַת שֵׁשׁ מֵאוֹת שָׁנָה, נִמְצָא שֶׁהַגָּדוֹל בְּבָנָיו הָיָה בֶן מֵאָה שָׁנָה, וְשֵׁם לֹא הִגִּיע לְמֵאָה עַד שְׁנָתַיִם אַחַר הַמַּבּוּל:
-- `rashi:10:21:3` Rashi **normative** on 10:21.9 10:21.10 «אֲחִ֖י יֶ֥פֶת» (matched; filed at 10:21) DH «אחי יפת.»: וְלֹא אֲחִי חָם? שֶׁאֵלּוּ שְׁנֵיהֶם כִּבְּדוּ אֶת אֲבִיהֶם, וְזֶה בִּזָּהוּ:
+- `rashi:10:21:1` Rashi on 10:21.5 10:21.6 10:21.7 10:21.8 «אֲבִי֙ כׇּל בְּנֵי עֵ֔בֶר» (matched; filed at 10:21) DH «אבי כל בני עבר.»: הַנָּהָר הָיָה שֵׁם:
+- `rashi:10:21:2` Rashi on 10:21.9 10:21.10 10:21.11 «אֲחִ֖י יֶ֥פֶת הַגָּדֽוֹל׃» (matched; filed at 10:21) DH «אחי יפת הגדול.»: אֵינִי יוֹדֵעַ אִם יֶפֶת הַגָּדוֹל אִם שֵׁם, כְּשֶׁהוּא אוֹמֵר שֵׁם בֶּן מְאַת שָׁנָה וְגוֹ' שְׁנָתַיִם אַחַר הַמַּבּוּל, הֱוֵי אוֹמֵר יֶפֶת הַגָּדוֹל, שֶׁהֲרֵי בֶּן ת"ק שָׁנָה הָיָה נֹחַ כְּשֶׁהִתְחִיל לְהוֹלִיד, וְהַמַּבּוּל הָיָה בִּשְׁנַת שֵׁשׁ מֵאוֹת שָׁנָה, נִמְצָא שֶׁהַגָּדוֹל בְּבָנָיו הָיָה בֶן מֵאָה שָׁנָה, וְשֵׁם לֹא הִגִּיע לְמֵאָה עַד שְׁנָתַיִם אַחַר הַמַּבּוּל:
+- `rashi:10:21:3` Rashi on 10:21.9 10:21.10 «אֲחִ֖י יֶ֥פֶת» (matched; filed at 10:21) DH «אחי יפת.»: וְלֹא אֲחִי חָם? שֶׁאֵלּוּ שְׁנֵיהֶם כִּבְּדוּ אֶת אֲבִיהֶם, וְזֶה בִּזָּהוּ:
 - `ibn-ezra:10:21:1` Ibn Ezra **normative** on whole 10:21 (verse; filed at 10:21) DH «וטעם אבי כל בני עבר.»: להודיע אבי העברים כי אין למעלה ממנו והשם אלהיו, וכן כתב "כה אמר ד' אלהי העברים" (שמות יו"ד, ג) וכנען אבי הם שאין למטה ממנו, ואין ראוי להתערב קדש בחול,
 - `ibn-ezra:10:21:2` Ibn Ezra **normative** on 10:21.9 10:21.10 10:21.11 «אֲחִ֖י יֶ֥פֶת הַגָּדֽוֹל׃» (matched-unbolded; filed at 10:21) DH «אחי יפת הגדול,»: וטעם אחי יפת הגדול, שהיה יפת טוב והכתוב הקדים להזכיר שם שהוא קטן קודם יפת שהוא הגדול בעבור כבודו, והעד שאמר הכתוב כי נח היה בן חמש מאות שנה כשהחל להוליד, ואין בזה מקום לטעון כי אין פחות מת"ק שנה ובשנת ת"ר שנה בא המבול ובצאת נח מהמבול היה שם בן מאת שנה ושנה אחת (י"ג בן מאה ואחד שנה) והכתוב אמר (בראשית יא י) שנתים אחר המבול ויש מפרשים כי אחי יפת הגדול ממנו הוא שם, על כן הזכירו הכתוב בתחלה, ואמר כי כאשר נולד שם לא נכנסו משנת ת"ק לנח כי אם ימים מועטים כי יום אחד בשנה חשוב שנה, ונח נולד באייר ושם בסיון וכשבא המבול הי' לנח תקצ"ט שנים וימים והנה אין לשם צ"ט שנה שלימות לשנת המבול ויהיה שם כשנולר ארפכשד בן מאה ושנה וחדשים ופי' שנתים שנכנסה השנה השנית מחשבון ראשית המבול גם יש אומרים כי אחר חמשה חדשים מיום המבול שחסרו המים הרתה אשת שם והנה היה שם בן מאה שנה וכחשבון הזה ימצא בספר מלכים בעשרה מקומות:
 - `ramban:10:21:1` Ramban on 10:21.1 10:21.2 10:21.3 10:21.4 «וּלְשֵׁ֥ם יֻלַּ֖ד גַּם ה֑וּא» (matched; filed at 10:21) DH «וּלְשֵׁם יֻלַּד גַּם הוּא»: בַּעֲבוּר שֶׁאִחֵר תּוֹלְדוֹת שֵׁם וְסִפֵּר תּוֹלְדוֹת אָחִיו הַקָּטָן מִמֶּנּוּ כְּאִלּוּ לֹא הָיָה לוֹ בָּנִים, אָמַר בְּכָאן "גַּם הוּא":
@@ -259,8 +259,8 @@ Hebrew (MAM): וּלְעֵ֥בֶר יֻלַּ֖ד שְׁנֵ֣י בָנִ֑ים 
 
 ### Commentary anchored to this verse
 
-- `rashi:10:25:1` Rashi **normative** on 10:25.10 «נִפְלְגָ֣ה» (matched; filed at 10:25) DH «נפלגה.»: נִתְבַּלְבְּלוּ הַלְּשׁוֹנוֹת וְנָפוֹצוּ מִן הַבִּקְעָה וְנִתְפַּלְּגוּ בְכָל הָעוֹלָם. לָמַדְנוּ שֶׁהָיָה עֵבֶר נָבִיא, שֶׁקָּרָא שֵׁם בְּנוֹ עַל שֵׁם הֶעָתִיד; וְשָׁנִינוּ בְסֵדֶר עוֹלָם שֶׁבְּסוֹף יָמָיו נִתְפַּלְּגוּ, שֶׁאִ"תֹּ בִּתְחִלַּת יָמָיו, הֲרֵי יָקְטָן אָחִיו צָעִיר מִמֶּנּוּ וְהוֹלִיד כַּמָּה מִשְׁפָּחוֹת קֹדֶם לָכֵן, שֶׁנֶּאֱמַר וְיָקְטָן יָלַד וְגוֹ' וְאַחַר כָּךְ וַיְהִי כָל הָאָרֶץ וְגוֹ'; וְאִ"תֹּ בְּאֶמְצַע יָמָיו, לֹא בָא הַכָּתוּב לִסְתֹּם אֶלָּא לְפָרֵשׁ, הָא לָמַדְתָּ שֶׁבִּשְׁנַת מוֹת פֶּלֶג נִתְפַּלְּגוּ:
-- `rashi:10:25:2` Rashi **normative** on 10:25.14 «יׇקְטָֽן׃» (matched; filed at 10:25) DH «ויקטן.»: שֶׁהָיָה עָנָו וּמַקְטִין עַצְמוֹ, לְכָךְ זָכָה לְהַעֲמִיד כָּל הַמִּשְׁפָּחוֹת הַלָּלוּ:
+- `rashi:10:25:1` Rashi on 10:25.10 «נִפְלְגָ֣ה» (matched; filed at 10:25) DH «נפלגה.»: נִתְבַּלְבְּלוּ הַלְּשׁוֹנוֹת וְנָפוֹצוּ מִן הַבִּקְעָה וְנִתְפַּלְּגוּ בְכָל הָעוֹלָם. לָמַדְנוּ שֶׁהָיָה עֵבֶר נָבִיא, שֶׁקָּרָא שֵׁם בְּנוֹ עַל שֵׁם הֶעָתִיד; וְשָׁנִינוּ בְסֵדֶר עוֹלָם שֶׁבְּסוֹף יָמָיו נִתְפַּלְּגוּ, שֶׁאִ"תֹּ בִּתְחִלַּת יָמָיו, הֲרֵי יָקְטָן אָחִיו צָעִיר מִמֶּנּוּ וְהוֹלִיד כַּמָּה מִשְׁפָּחוֹת קֹדֶם לָכֵן, שֶׁנֶּאֱמַר וְיָקְטָן יָלַד וְגוֹ' וְאַחַר כָּךְ וַיְהִי כָל הָאָרֶץ וְגוֹ'; וְאִ"תֹּ בְּאֶמְצַע יָמָיו, לֹא בָא הַכָּתוּב לִסְתֹּם אֶלָּא לְפָרֵשׁ, הָא לָמַדְתָּ שֶׁבִּשְׁנַת מוֹת פֶּלֶג נִתְפַּלְּגוּ:
+- `rashi:10:25:2` Rashi on 10:25.14 «יׇקְטָֽן׃» (matched; filed at 10:25) DH «ויקטן.»: שֶׁהָיָה עָנָו וּמַקְטִין עַצְמוֹ, לְכָךְ זָכָה לְהַעֲמִיד כָּל הַמִּשְׁפָּחוֹת הַלָּלוּ:
 - `radak:10:25:1` Radak on 10:25.1 10:25.2 10:25.3 10:25.4 «וּלְעֵ֥בֶר יֻלַּ֖ד שְׁנֵ֣י בָנִ֑ים» (matched; filed at 10:25) DH «וּלְעֵבֶר יֻלַּד שְׁנֵי בָנִים.»: אָמַר יֻלַּד עַל דֶּרֶךְ כְּלָל, כְּמוֹ ״וּלְשֵׁם יֻלַּד״ (בראשית י:כא), ״וּלְיוֹסֵף יֻלַּד שְׁנֵי בָנִים״ (בראשית מא:נ). וְלֹא נוּכַל לוֹמַר שֶׁלֹּא הָיָה לוֹ בָּנִים אֲחֵרִים, שֶׁהֲרֵי נֶאֱמַר עָלָיו (בראשית יא:טו) ״וַיּוֹלֶד בָּנִים וּבָנוֹת״, אֶלָּא זָכַר אֵלֶּה לְבַדָּם עַל שֵׁם הַמְּאֹרָע שֶׁקָּרָא שְׁמוֹתָם.
 - `radak:10:25:2` Radak on whole 10:25 (segment; filed at 10:25): קָרָא
 - `radak:10:25:3` Radak on 10:25.5 10:25.6 10:25.7 «שֵׁ֣ם הָֽאֶחָ֞ד פֶּ֗לֶג» (matched; filed at 10:25) DH «שֵׁם הָאֶחָד פֶּלֶג.»: הַטַּעַם
@@ -333,7 +333,7 @@ Hebrew (MAM): וְיׇקְטָ֣ן יָלַ֔ד אֶת־אַלְמוֹדָ֖ד �
 
 ### Commentary anchored to this verse
 
-- `rashi:10:26:1` Rashi **normative** on 10:26.8 «חֲצַרְמָ֖וֶת» (matched; filed at 10:26) DH «חצרמות.»: עַל שֵׁם מְקוֹמוֹ, דִּבְרֵי אַגָּדָה (ב"ר):
+- `rashi:10:26:1` Rashi on 10:26.8 «חֲצַרְמָ֖וֶת» (matched; filed at 10:26) DH «חצרמות.»: עַל שֵׁם מְקוֹמוֹ, דִּבְרֵי אַגָּדָה (ב"ר):
 - `radak:10:26:1` Radak on 10:26.8 «חֲצַרְמָ֖וֶת» (matched; filed at 10:26) DH «חֲצַרְמָוֶת.»: מִלָּה אַחַת.
 - `onkelos:10:26:1` Targum Onkelos on whole 10:26 (version; filed at 10:26): וְיָקְטָן אוֹלִיד יָת אַלְמוֹדָד וְיָת שָׁלֶף וְיָת חֲצַרְמָוֶת וְיָת יָרַח:
 
@@ -486,19 +486,27 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1` one
 - `2` each, every
 - `3` a certain
+- `4` one — = indef. art
 - `5` only, once
 - `6` one, another, one, the other
 - `7` first
+- `8` one — in combin
 
 ### `bdb:a.ck.ab` אָח (n.m) root אחה: brother
 - `1` brother
+- `2` brother — indef. = relative
+- `3` brother — fig. of resemblance
 - `4` one … another
 
 ### `bdb:a.dg.ae` אַלְמוֹדָד (n.pr): Almodad
 
 ### `bdb:a.ft.aa` אֲרָם (n.pr.m) root ארם: Aram
+- `1` Aram — 5th son of Shem
+- `2` Aram — grandson of Nahor
+- `4` Aram — a descendant of Asher
 - `a` the Aramæans
 - `b` Mesopotamia, Paddan-Aram
+- `c` Aram — often indeterminate
 
 ### `bdb:a.fw.af` אַרְפַּכְשַׁד (n.pr.m): Arphaxad
 
@@ -506,14 +514,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gd.af` אַשּׁוּר (n.pr.gent): Asshur, Assyria
@@ -525,12 +541,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:c.aq.ae` גָּדוֹל (adj) root גדל: great
+- `1` great — in magnitude and extent
+- `2` great — in number
+- `3` great — in intensity
 - `4` loud
+- `5` great — in age
+- `6` great — in importance
+- `7` great — in phrases
+- `8` great — cstr
 - `9` do great things
 - `10` greatness
 
@@ -541,10 +567,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:d.cc.ab` דִּקְלָה (n.pr.m): Diklah
 
 ### `bdb:e.ao.ae` הֲדוֹרָם (n.pr.m): Hadoram
+- `1` Arabian tribe, called son of Joktan
+- `2` son of Tou king of Hamath
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:h.bg.ac` חוּל (n.pr.m): Hul
 
@@ -557,10 +590,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -583,18 +618,31 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.ar.ae` לוּד (n.pr.m): Lud
 - `1` Lud, Lydia
+- `2` appar. a people in NE. Africa
 
 ### `bdb:m.dr.ba` מַשׁ (n.pr.loc): Mash
 
 ### `bdb:p.af.ab` עוֹבָל (n.pr.gent): Obal
 
 ### `bdb:p.ah.ac` עֵ֫בֶר (n.pr.m): Eber, Hebrews
+- `1` Eber, Hebrews — ‘son’ of Shelaḥ, and ‘grandson’ of Arpachshad
+- `2` Eber, Hebrews — a Gadite chief
+- `3` Eber, Hebrews — Benjamite names
+- `4` Eber, Hebrews — a priest
 
 ### `bdb:p.bm.ab` עוּץ (n.pr): Uz
+- `1.a` (eldest) ‘son’ of Aram, = ‘son’ of Shem
+- `1.b` eldest ‘son’ of Naḥor
+- `1.c` Edomite name
+- `1` m
+- `2` loc. on Uz as vague name for E. country
 
 ### `bdb:p.cj.ah` עֵילָם (n.pr.gent): Elam
 
@@ -614,8 +662,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:v.dt.ab` שֶׁ֫לֶף (n.pr.m): Sheleph
 
 ### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `1` name — of river, beasts, city, i.e. exact designation of it
+- `2.a` name — usu. of pers
 - `2.b` reputation
+- `2.c` name — esp. as giving a man a kind of posthumous life, esp. in his sons
 - `3` name
+- `4` name — of false gods, use forbidden
 - `5` memorial, monument
 
 ### `bdb:v.dv.ac` שֵׁם (n.pr.m): Sem

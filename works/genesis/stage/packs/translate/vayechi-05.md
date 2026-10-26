@@ -26,7 +26,7 @@ Hebrew (MAM): וַיִּקְרָ֥א יַעֲקֹ֖ב אֶל־בָּנָ֑יו �
 
 ### Commentary anchored to this verse
 
-- `rashi:49:1:1` Rashi **normative** on 49:1.7 49:1.8 «וְאַגִּ֣ידָה לָכֶ֔ם» (matched; filed at 49:1) DH «ואגידה לכם.»: בִּקֵּשׁ לְגַלּוֹת אֶת הַקֵּץ וְנִסְתַּלְּקָה מִמֶּנּוּ שְׁכִינָה וְהִתְחִיל אוֹמֵר דְּבָרִים אַחֵרִים:
+- `rashi:49:1:1` Rashi on 49:1.7 49:1.8 «וְאַגִּ֣ידָה לָכֶ֔ם» (matched; filed at 49:1) DH «ואגידה לכם.»: בִּקֵּשׁ לְגַלּוֹת אֶת הַקֵּץ וְנִסְתַּלְּקָה מִמֶּנּוּ שְׁכִינָה וְהִתְחִיל אוֹמֵר דְּבָרִים אַחֵרִים:
 - `ibn-ezra:49:1:1` Ibn Ezra **normative** on 49:1.9 49:1.10 49:1.11 49:1.12 «אֵ֛ת אֲשֶׁר יִקְרָ֥א אֶתְכֶ֖ם» (matched; filed at 49:1) DH «את אשר יקרא אתכם.»: דבר הנביא לעתיד, ותעו האומרים שהם ברכות בעבור שמצאו בסוף "ויברך אותם" (בראשית מט כח), ואיה ברכות ראובן שמעון ולוי, ועל דרך הנבואה אמר "וזאת אשר דבר להם אביהם ואחר כן ברך אותם, ולא הזכיר הכתוב הברכות:
 - `ramban:49:1:1` Ramban on 49:1.13 49:1.14 «בְּאַחֲרִ֥ית הַיָּמִֽים׃» (matched; filed at 49:1) DH «בְּאַחֲרִית הַיָּמִים»: הֵם יְמוֹת הַמָּשִׁיחַ, כִּי יַעֲקֹב יִרְמֹז אֵלָיו בִּדְבָרָיו, כְּמוֹ שֶׁאָמַר "עַד כִּי יָבֹא שִׁילֹה וְלוֹ יִקְּהַת עַמִּים", וְרַבּוֹתֵינוּ אָמְרוּ (פסחים נו) שֶׁבִּקֵּשׁ לְגַלּוֹת אֶת הַקֵּץ וְנִסְתַּלְּקָה מִמֶּנּוּ שְׁכִינָה, כִּי לְדִבְרֵי הַכֹּל אַחֲרִית הַיָּמִים יְמוֹת הַמָּשִׁיחַ הֵם:
 - `radak:49:1:1` Radak on 49:1.1 «וַיִּקְרָ֥א» (matched; filed at 49:1) DH «וַיִּקְרָא.»: קְרָאָם שֶׁיֵּאָסְפוּ לְפָנָיו.
@@ -78,10 +78,10 @@ Hebrew (MAM): רְאוּבֵן֙ בְּכֹ֣רִי אַ֔תָּה כֹּחִ֖�
 
 ### Commentary anchored to this verse
 
-- `rashi:49:3:1` Rashi **normative** on 49:3.5 49:3.6 «וְרֵאשִׁ֣ית אוֹנִ֑י» (matched; filed at 49:3) DH «וראשית אוני.»: הִיא טִפָּה רִאשׁוֹנָה, שֶׁלֹּא רָאָה קֶרִי מִיָּמָיו (בראשית רבה):
-- `rashi:49:3:2` Rashi **normative** on 49:3.6 «אוֹנִ֑י» (matched; filed at 49:3) DH «אוני.»: כּוֹחִי, כְּמוֹ מָצָאתִי אוֹן לִי (הושע י"ב), מֵרֹב אוֹנִים, וּלְאֵין אוֹנִים (ישעיהו מ'):
-- `rashi:49:3:3` Rashi **normative** on 49:3.7 49:3.8 «יֶ֥תֶר שְׂאֵ֖ת» (matched; filed at 49:3) DH «יתר שאת.»: רָאוּי הָיִיתָ לִהְיוֹת יֶתֶר עַל אַחֶיךָ בִכְהֻנָּה, לְשׁוֹן נְשִׂיאוּת כַּפַּיִם:
-- `rashi:49:3:4` Rashi **normative** on 49:3.9 49:3.10 «וְיֶ֥תֶר עָֽז׃» (matched; filed at 49:3) DH «ויתר עז.»: בְּמַלְכוּת, כְּמוֹ: וְיִתֶּן עֹז לְמַלְכּוֹ (שמואל א ב'), וּמִי גָּרַם לְךָ לְהַפְסִיד כָּל אֵלֶּה?
+- `rashi:49:3:1` Rashi on 49:3.5 49:3.6 «וְרֵאשִׁ֣ית אוֹנִ֑י» (matched; filed at 49:3) DH «וראשית אוני.»: הִיא טִפָּה רִאשׁוֹנָה, שֶׁלֹּא רָאָה קֶרִי מִיָּמָיו (בראשית רבה):
+- `rashi:49:3:2` Rashi on 49:3.6 «אוֹנִ֑י» (matched; filed at 49:3) DH «אוני.»: כּוֹחִי, כְּמוֹ מָצָאתִי אוֹן לִי (הושע י"ב), מֵרֹב אוֹנִים, וּלְאֵין אוֹנִים (ישעיהו מ'):
+- `rashi:49:3:3` Rashi on 49:3.7 49:3.8 «יֶ֥תֶר שְׂאֵ֖ת» (matched; filed at 49:3) DH «יתר שאת.»: רָאוּי הָיִיתָ לִהְיוֹת יֶתֶר עַל אַחֶיךָ בִכְהֻנָּה, לְשׁוֹן נְשִׂיאוּת כַּפַּיִם:
+- `rashi:49:3:4` Rashi on 49:3.9 49:3.10 «וְיֶ֥תֶר עָֽז׃» (matched; filed at 49:3) DH «ויתר עז.»: בְּמַלְכוּת, כְּמוֹ: וְיִתֶּן עֹז לְמַלְכּוֹ (שמואל א ב'), וּמִי גָּרַם לְךָ לְהַפְסִיד כָּל אֵלֶּה?
 - `ibn-ezra:49:3:1` Ibn Ezra **normative** on 49:3.1 49:3.2 49:3.3 49:3.4 «רְאוּבֵן֙ בְּכֹ֣רִי אַ֔תָּה כֹּחִ֖י» (matched; filed at 49:3) DH «ראובן בכורי אתה כחי.»: בך נראה בתחלה כחי והבכור יקרא ראשית און, וכמוהו "ראשית אונים" (תהלים עט נא):
 - `ibn-ezra:49:3:2` Ibn Ezra **normative** on 49:3.7 49:3.8 «יֶ֥תֶר שְׂאֵ֖ת» (matched; filed at 49:3) DH «יתר שאת.»: ראוי היית ליתרון על הכל שתהיה נשא
 - `ibn-ezra:49:3:3` Ibn Ezra **normative** on 49:3.9 49:3.10 «וְיֶ֥תֶר עָֽז׃» (matched-unbolded; filed at 49:3) DH «ויתר עז»: ויתר עז כפול בטעם כדרך כל הנבואות, ופי' עָז תקיף:
@@ -121,12 +121,12 @@ Paragraph mark after this verse: פ
 
 ### Commentary anchored to this verse
 
-- `rashi:49:4:1` Rashi **normative** on 49:4.1 49:4.2 «פַּ֤חַז כַּמַּ֙יִם֙» (matched; filed at 49:4) DH «פחז כמים.»: הַפַּחַז וְהַבֶּהָלָה אֲשֶׁר מִהַרְתָּ לְהַרְאוֹת כַּעַסְךָ כַּמַּיִם הַלָּלוּ הַמְמַהֲרִים לִמְרוּצָתָם, לְכָךְ
-- `rashi:49:4:2` Rashi **normative** on 49:4.3 49:4.4 «אַל תּוֹתַ֔ר» (matched; filed at 49:4) DH «אל תותר.»: אַל תַּרְבֶּה לִטֹּל כָּל הַיְתֵרוֹת הַלָּלוּ שֶׁהָיוּ רְאוּיוֹת לְךָ, וּמַהוּ הַפַּחַז אֲשֶׁר פָּחַזְתָּ?
-- `rashi:49:4:3` Rashi **normative** on 49:4.5 49:4.6 49:4.7 49:4.8 «כִּ֥י עָלִ֖יתָ מִשְׁכְּבֵ֣י אָבִ֑יךָ» (matched; filed at 49:4) DH «כי עלית משכבי אביך»: :
-- `rashi:49:4:4` Rashi **normative** on 49:4.9 49:4.10 «אָ֥ז חִלַּ֖לְתָּ» (matched; filed at 49:4) DH «אז חללת.»: אוֹתוֹ שֶׁעָלָה עַל יְצוּעִי – וְהִיא שְׁכִינָה שֶׁהָיָה דַרְכָּהּ לִהְיוֹת עוֹלָה עַל יְצוּעִי:
-- `rashi:49:4:5` Rashi **normative** on 49:4.1 «פַּ֤חַז» (matched; filed at 49:4) DH «פחז»: שֵׁם דָּבָר הוּא, לְפִיכָךְ טַעֲמוֹ לְמַעְלָה, וְכֻלּוֹ נָקוּד פַּתָּח, וְאִלּוּ הָיָה לְשׁוֹן עָבָר, הָיָה נָקוּד חֶצְיוֹ קָמָץ וְחֶצְיוֹ פַּתָּח וְטַעְמוֹ לְמַטָּה:
-- `rashi:49:4:6` Rashi **normative** on 49:4.11 «יְצוּעִ֥י» (matched; filed at 49:4) DH «יצועי.»: לְשׁוֹן מִשְׁכָּב, עַל שֵׁם שֶׁמַּצִּיעִים אוֹתוֹ עַל יְדֵי לְבָדִין וּסְדִינִין; וְהַרְבֵּה דּוֹמִים לוֹ אִם אֶעֱלֶה עַל עֶרֶשׂ יְצוּעָי (תהילים קל"ב); אִם זְכַרְתִּיךָ עַל יְצוּעָי (שם ס"ג):
+- `rashi:49:4:1` Rashi on 49:4.1 49:4.2 «פַּ֤חַז כַּמַּ֙יִם֙» (matched; filed at 49:4) DH «פחז כמים.»: הַפַּחַז וְהַבֶּהָלָה אֲשֶׁר מִהַרְתָּ לְהַרְאוֹת כַּעַסְךָ כַּמַּיִם הַלָּלוּ הַמְמַהֲרִים לִמְרוּצָתָם, לְכָךְ
+- `rashi:49:4:2` Rashi on 49:4.3 49:4.4 «אַל תּוֹתַ֔ר» (matched; filed at 49:4) DH «אל תותר.»: אַל תַּרְבֶּה לִטֹּל כָּל הַיְתֵרוֹת הַלָּלוּ שֶׁהָיוּ רְאוּיוֹת לְךָ, וּמַהוּ הַפַּחַז אֲשֶׁר פָּחַזְתָּ?
+- `rashi:49:4:3` Rashi on 49:4.5 49:4.6 49:4.7 49:4.8 «כִּ֥י עָלִ֖יתָ מִשְׁכְּבֵ֣י אָבִ֑יךָ» (matched; filed at 49:4) DH «כי עלית משכבי אביך»: :
+- `rashi:49:4:4` Rashi on 49:4.9 49:4.10 «אָ֥ז חִלַּ֖לְתָּ» (matched; filed at 49:4) DH «אז חללת.»: אוֹתוֹ שֶׁעָלָה עַל יְצוּעִי – וְהִיא שְׁכִינָה שֶׁהָיָה דַרְכָּהּ לִהְיוֹת עוֹלָה עַל יְצוּעִי:
+- `rashi:49:4:5` Rashi on 49:4.1 «פַּ֤חַז» (matched; filed at 49:4) DH «פחז»: שֵׁם דָּבָר הוּא, לְפִיכָךְ טַעֲמוֹ לְמַעְלָה, וְכֻלּוֹ נָקוּד פַּתָּח, וְאִלּוּ הָיָה לְשׁוֹן עָבָר, הָיָה נָקוּד חֶצְיוֹ קָמָץ וְחֶצְיוֹ פַּתָּח וְטַעְמוֹ לְמַטָּה:
+- `rashi:49:4:6` Rashi on 49:4.11 «יְצוּעִ֥י» (matched; filed at 49:4) DH «יצועי.»: לְשׁוֹן מִשְׁכָּב, עַל שֵׁם שֶׁמַּצִּיעִים אוֹתוֹ עַל יְדֵי לְבָדִין וּסְדִינִין; וְהַרְבֵּה דּוֹמִים לוֹ אִם אֶעֱלֶה עַל עֶרֶשׂ יְצוּעָי (תהילים קל"ב); אִם זְכַרְתִּיךָ עַל יְצוּעָי (שם ס"ג):
 - `ibn-ezra:49:4:1` Ibn Ezra **normative** on 49:4.1 «פַּ֤חַז» (matched; filed at 49:4) DH «פחז,»: בעבור שפחזת כמים:
 - `ibn-ezra:49:4:2` Ibn Ezra **normative** on 49:4.3 49:4.4 «אַל תּוֹתַ֔ר» (matched; filed at 49:4) DH «אל תותר.»: לא יהיה לך יתרון, והיה ראוי להיות אַל תּוּתַר בשורק הוי"ו, ואחרים אמרו רק אתה פחזת כמים הנשפכים ולא הותרת כלום רק על דעתי שלא תמצא מלת אל רק במקום צווי, ואעפ"י שנמצא ודרך נתיבה אל-מות (משלי יב כח) ואיננו צווי, ופי' אל תבקש יתרון אפילו פחז כמים, ויהיה משקל תותר זכור מלחמה אל תוסף (איוב מ לב), והגאון אמר אפילו דבר רק כמים לא יהיה לך יתרון, ופחז מגזרת אנשים רקים ופוחזים (שופ' ט ד), ואין פוחזים הפוך:
 - `ibn-ezra:49:4:3` Ibn Ezra **normative** on 49:4.9 49:4.10 «אָ֥ז חִלַּ֖לְתָּ» (matched; filed at 49:4) DH «אז חללת.»: מיום שחללת נסתלק יצועי, כאלו אמר עלה מעלי, גם תמצא מלת "עלה" כרת, כמו אומר "אלי אל תעלני בחצי ימי" (תהלים קב כה), וזאת הפרשה מפורשת בדברי הימים (דה"א ה' א) ובחללו יצועי אביו, ואמר על יהודה שהוא הנגיד והבכורה ליוסף, וי"מ ולא להתייחש לבכורה, שיהא תחלת המספר מראובן:
@@ -158,6 +158,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` wealth
 
 ### `bdb:a.ce.ac` אָז (adv): at that time, then
+- `1` at that time, then — strictly temporal
+- `2` at that time, then — expressing logical sequence strictly
 
 ### `bdb:a.cp.ah` אַחֲרִית (n.f) root אחר: after-part, end
 
@@ -191,6 +193,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 3` Qal bring up the rear of
 - `Qal 4` Qal gather and take away, remove, withdraw
 - `Niph 1` Niph assemble, be gathered
+- `Niph 2` Niph pass. of Qal 2 (Niph of: gather, remove)
 - `Niph 3` Niph be taken away, removed, perish
 - `Pi 1` Pi gather
 - `Pi 2` Pi take in, receive into
@@ -212,9 +215,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:h.ct.aa` חָלַל (vb) root חלל: pollute, defile, profane
 - `Niph 1` Niph pollute, defile oneself
@@ -236,6 +242,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.ct.ab` יָצוּעַ (n.[m.]) root יצע: couch, bed
 
@@ -275,6 +282,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 3` Qal go, come up
 - `Qal 4` Qal spring up, grow, shoot forth
 - `Qal 5` Qal go up, rise
+- `Qal 6` Qal go up, ascend, climb — of inanimate things, instead of passive construction
+- `Qal 7` Qal go up, ascend, climb — of thoughts
 - `Qal 8` Qal come up
 - `Qal 9` Qal go up, extend
 - `Qal 10` Qal excel
@@ -285,17 +294,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 2` Niph take oneself away
 - `Niph 3` Niph be exalted
 - `Hiph 1` Hiph bring up
+- `Hiph 2` Hiph in personal relations (Hiph of: go up, ascend, climb)
 - `Hiph 3` Hiph bring up
 - `Hiph 4` Hiph cause to ascend
+- `Hiph 5` Hiph mentally (Hiph of: go up, ascend, climb)
 - `Hiph 6` Hiph offer, bring up
 - `Hiph 7` Hiph exalt
 - `Hiph 8` Hiph cause to ascend, offer
-- `Hoph 1` Hoph be carried away
-- `Hoph 2` Hoph be taken up, inserted
-- `Hoph 3` Hoph be offered
-- `Hithp` Hithp lift oneself
+- … 4 more senses
 
 ### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
+- `1` Jacob — as n.pr.m
+- `2` Jacob — as n.pr.gent
 
 ### `bdb:q.bc.ab` פַּ֫חַז (n.[m.]) root פחז: wantonness, recklessness, unbridled license
 
@@ -304,6 +314,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 1` Niph assemble, gather
 - `Niph 2` Niph be gathered
 - `Pi` Pi gather together
+- `Pu` Pu . of land (Pu of: gather, collect)
 - `Hithp` Hithp gather together, be gathered together
 
 ### `bdb:s.cy.aa` קָרָא (vb) root קרא: call, proclaim, read
@@ -316,6 +327,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.b` Qal read
 - `Qal 5` Qal summon
 - `Qal 6` Qal call, name
+- `Niph 1` Niph reflex (Niph of: call, proclaim, read)
 - `Niph 2` Niph be called
 - `Pu` Pu be called
 
@@ -326,6 +338,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph` Hiph thou didst cause, to befall
 
 ### `bdb:t.ab.ap` רְאוּבֵן (n.pr.m) root ראה: Reuben
+- `1` Reuben — eldest son of Jacob and Leah
+- `2` Reuben — as name of clan or tribe
 
 ### `bdb:t.ad.ag` רֵאשִׁית (n.f) root ראשׁ: beginning, chief
 - `1.a` beginning
@@ -333,13 +347,19 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` first, chief
 
 ### `bdb:u.ce.ab` יִשְׂרָאֵל (n.pr.m) root שׂרה: Israel, Ēl persisteth, persevereth
+- `1` Israel, Ēl persisteth, persevereth — n.pr.m. second name of Jacob
+- `2` Israel, Ēl persisteth, persevereth — n.pr.gent. name of Hebrew nation
 
 ### `bdb:v.cy.ad` מִשְׁכָּב (n.m) root שׁכב: place of lying, couch, act of lying
 
 ### `bdb:v.ed.aa` שָׁמַע (vb) root שׁמע: hear
+- `Qal 1` Qal hear — subj. pers. hum
+- `Qal 2` Qal hear — י׳ (God) subj
 - `Niph 1` Niph be heard
 - `Niph 2` Niph be heard of
 - `Niph 3` Niph be regarded, obeyed
 - `Niph 4` Niph hearing was granted to their voice
 - `Pi` Pi he caused, to hear
+- `Hiph 1` Hiph of man (Hiph of: hear)
+- `Hiph 2` Hiph י׳ subj (Hiph of: hear)
 

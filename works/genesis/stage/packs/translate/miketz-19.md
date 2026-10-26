@@ -36,8 +36,8 @@ Hebrew (MAM): וַיֹּ֣אמֶר יְהוּדָ֗ה מַה־נֹּאמַר֙ �
 
 ### Commentary anchored to this verse
 
-- `rashi:44:16:1` Rashi **normative** on 44:16.10 44:16.11 «הָאֱלֹהִ֗ים מָצָא֙» (matched; filed at 44:16) DH «האלהים מצא.»: יוֹדְעִים אָנוּ שֶׁלֹּא סָרַחְנוּ, אֲבָל מֵאֵת הַמָּקוֹם נִהְיְתָה לְהָבִיא לָנוּ זֹאת, מָצָא בַּעַל חוֹב מָקוֹם לִגְבּוֹת שְׁטַר חוֹבוֹ:
-- `rashi:44:16:2` Rashi **normative** on 44:16.6 44:16.9 «מַה נִּצְטַדָּ֑ק» (matched; filed at 44:16) DH «מה נצטדק.»: לְשׁוֹן צֶדֶק, וְכֵן כָּל תֵּבָה שֶׁתְּחִלַּת יְסוֹדָהּ צָדִ"י וְהִיא בָּאָה לְדַבֵּר בִּלְשׁוֹן מִתְפָּעֵל אוֹ נִתְפָּעֵל, נוֹתֵן טֵי"ת בִּמְקוֹם תָּי"ו, וְאֵינוֹ נוֹתְנָהּ לִפְנֵי אוֹת רִאשׁוֹנָה שֶׁל יְסוֹד הַתֵּבָה אֶלָּא בְאֶמְצַע אוֹתִיּוֹת הָעִקָּר, כְּגוֹן נִצְטַדָּק מִגִּזְרַת צדק, וְיִצְטַבַּע מִגִּזְרַת צבע, וַיִּצְטַיָּרוּ מִגִּזְרַת וְצִיר אֱמוּנִים, הִצְטַיַּדְנוּ מִגִּזְרַת צֵדָה לַדֶּרֶךְ. וְתֵבָה שֶׁתְּחִלָּתָהּ סָמֶ"ךְ אוֹ שִׁי"ן, כְּשֶׁהִיא מִתְפָּעֶלֶת, הַתָּי"ו מַפְרֶדֶת אֶת אוֹתִיּוֹת הָעִקָּר, כְּגוֹן וְיִסְתַּבֵּל הֶחָגָב (קהלת י"ב), מִגִּזְרַת סבל; מִשְׂתַּכַּל הֲוֵית בְּקַרְנַיָּא (דניאל ז'), וְיִשְׁתַּמֵּר חֻקּוֹת עָמְרִי (מיכה ו') מִגִּזְרַת שמר; וְסָר מֵרָע מִשְׁתּוֹלֵל (ישעיהו נ"ט), מִגִּזְרַת מוֹלִיךְ יוֹעֲצִים שׁוֹלָל (איוב י"ב), מִסְתּוֹלֵל בְּעַמִּי (שמות ט"ו), מִגִּזְרַת דֶּרֶךְ לֹא סְלוּלָה (ירמיהו י"ח):
+- `rashi:44:16:1` Rashi on 44:16.10 44:16.11 «הָאֱלֹהִ֗ים מָצָא֙» (matched; filed at 44:16) DH «האלהים מצא.»: יוֹדְעִים אָנוּ שֶׁלֹּא סָרַחְנוּ, אֲבָל מֵאֵת הַמָּקוֹם נִהְיְתָה לְהָבִיא לָנוּ זֹאת, מָצָא בַּעַל חוֹב מָקוֹם לִגְבּוֹת שְׁטַר חוֹבוֹ:
+- `rashi:44:16:2` Rashi on 44:16.6 44:16.9 «מַה נִּצְטַדָּ֑ק» (matched; filed at 44:16) DH «מה נצטדק.»: לְשׁוֹן צֶדֶק, וְכֵן כָּל תֵּבָה שֶׁתְּחִלַּת יְסוֹדָהּ צָדִ"י וְהִיא בָּאָה לְדַבֵּר בִּלְשׁוֹן מִתְפָּעֵל אוֹ נִתְפָּעֵל, נוֹתֵן טֵי"ת בִּמְקוֹם תָּי"ו, וְאֵינוֹ נוֹתְנָהּ לִפְנֵי אוֹת רִאשׁוֹנָה שֶׁל יְסוֹד הַתֵּבָה אֶלָּא בְאֶמְצַע אוֹתִיּוֹת הָעִקָּר, כְּגוֹן נִצְטַדָּק מִגִּזְרַת צדק, וְיִצְטַבַּע מִגִּזְרַת צבע, וַיִּצְטַיָּרוּ מִגִּזְרַת וְצִיר אֱמוּנִים, הִצְטַיַּדְנוּ מִגִּזְרַת צֵדָה לַדֶּרֶךְ. וְתֵבָה שֶׁתְּחִלָּתָהּ סָמֶ"ךְ אוֹ שִׁי"ן, כְּשֶׁהִיא מִתְפָּעֶלֶת, הַתָּי"ו מַפְרֶדֶת אֶת אוֹתִיּוֹת הָעִקָּר, כְּגוֹן וְיִסְתַּבֵּל הֶחָגָב (קהלת י"ב), מִגִּזְרַת סבל; מִשְׂתַּכַּל הֲוֵית בְּקַרְנַיָּא (דניאל ז'), וְיִשְׁתַּמֵּר חֻקּוֹת עָמְרִי (מיכה ו') מִגִּזְרַת שמר; וְסָר מֵרָע מִשְׁתּוֹלֵל (ישעיהו נ"ט), מִגִּזְרַת מוֹלִיךְ יוֹעֲצִים שׁוֹלָל (איוב י"ב), מִסְתּוֹלֵל בְּעַמִּי (שמות ט"ו), מִגִּזְרַת דֶּרֶךְ לֹא סְלוּלָה (ירמיהו י"ח):
 - `ibn-ezra:44:16:1` Ibn Ezra **normative** on 44:16.9 «נִּצְטַדָּ֑ק» (matched; filed at 44:16) DH «טי"ת נצטדק.»: תחת תי"ו התפעל בעבור הצדי"ק:
 - `ibn-ezra:44:16:2` Ibn Ezra **normative** on 44:16.10 44:16.11 «הָאֱלֹהִ֗ים מָצָא֙» (matched; filed at 44:16) DH «האלהים מצא.»: על דרך משל, כי עון היה לנו וכאלו נשכח ואיננו והיום נמצא,
 - `ibn-ezra:44:16:3` Ibn Ezra **normative** on whole 44:16 (segment; filed at 44:16): או יהיה פי' עון עבדיך, כמו גדול עוני  מנשוא (בראשית ד' יג):
@@ -120,9 +120,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
@@ -157,29 +160,49 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:e.bz.aa` הֵן (demonstr.adv): lo!, behold
 
 ### `bdb:g.ah.aa` זֶה (demonstr.pron): this, here
+- `1` this, here — standing alone
+- `2` this, here — In appos. to subst
+- `3` this, here — More oft. as pred
+- `4` this, here — It is attached enclitically, almost as an adv., to certain words, esp. interrog. pronouns, to impart, in a manner often not reproducible in Engl. idiom, directness and force, bringing the question or statement made into close relation with the speaker
+- `5` this, here — In poetry, as a relative pron. (rare)
+- `6` this, here — With prefixes (in special senses)
 
 ### `bdb:h.ct.ad` חָלִ֫ילָה (subst) root חלל: ad profanum!, far be it
 
@@ -194,20 +217,31 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4.e` stays, supports
 - `4.f` tenons
 - `4.g` a, hand
+- `4` hand — יָד is used in various special, technical senses:—
+- `5` hand — יַד with prep
 
 ### `bdb:j.av.ai` יְהוּדָה (n.pr.m) root יהד: Judah
 - `I.1` son of Jacob and Leah
 - `I.2` tribe
 - `I.3` nation
+- `I.4` Judah — Levite, Ezra’s time
+- `I.5` Judah — an overseer of Jerus
+- `I.6` Judah — Levite musician
+- `I.7` Judah — priest
+- `I` Judah — n.pr.m
 - `II` land of Judah
 
 ### `bdb:m.an.aa` מָה (pron.interrog): what?, how?, aught
 - `1` what?
+- `2` what?, how?, aught — Used adverbially
+- `3` what?, how?, aught — Indef. pron
+- `4` what?, how?, aught — With preps
 
 ### `bdb:m.db.aa` מָצָא (vb) root מצא: attain to, find
 - `Qal 1` Qal find
 - `Qal 2` Qal find out
 - `Qal 3` Qal come upon, light upon
+- `Qal 4` Qal attain to, find — noteworthy phrases
 - `Niph` Niph be found
 - `Hiph 1` Hiph cause to find, attain
 - `Hiph 2` Hiph cause to light upon, come upon, come
@@ -221,6 +255,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` Servant
 - `5` servant
 - `6` thy servant, I
+- `7` slave, servant — Phrases
 
 ### `bdb:p.be.ab` עָוֺן (n.m) root עוה: iniquity, guilt, punishment of iniquity
 
@@ -230,6 +265,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 3` Qal go, come up
 - `Qal 4` Qal spring up, grow, shoot forth
 - `Qal 5` Qal go up, rise
+- `Qal 6` Qal go up, ascend, climb — of inanimate things, instead of passive construction
+- `Qal 7` Qal go up, ascend, climb — of thoughts
 - `Qal 8` Qal come up
 - `Qal 9` Qal go up, extend
 - `Qal 10` Qal excel
@@ -240,15 +277,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 2` Niph take oneself away
 - `Niph 3` Niph be exalted
 - `Hiph 1` Hiph bring up
+- `Hiph 2` Hiph in personal relations (Hiph of: go up, ascend, climb)
 - `Hiph 3` Hiph bring up
 - `Hiph 4` Hiph cause to ascend
+- `Hiph 5` Hiph mentally (Hiph of: go up, ascend, climb)
 - `Hiph 6` Hiph offer, bring up
 - `Hiph 7` Hiph exalt
 - `Hiph 8` Hiph cause to ascend, offer
-- `Hoph 1` Hoph be carried away
-- `Hoph 2` Hoph be taken up, inserted
-- `Hoph 3` Hoph be offered
-- `Hithp` Hithp lift oneself
+- … 4 more senses
 
 ### `bdb:p.fy.aa` עָשָׂה (vb) root עשׂה: do, make
 - `Qal I.1` Qal do

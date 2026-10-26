@@ -97,29 +97,46 @@ Paragraph mark after this verse: פ
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
 ### `bdb:a.cb.aj` אוֹפִיר (n.pr): Ophir
+- `1` Ophir — n.pr.m. 11th son of Joktan
+- `2` Ophir — n.pr.loc. (land or city S. or SE. fr. Palestine) place whither Sol.’s ships went fr. Ezion Geber, bringing thence gold
+- `3` Ophir — characteristic of fine gold (poet. & late)
+- `4` Ophir — hence for fine gold itself
 
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.fx.aa` אֶ֫רֶץ (n. f) root ארץ: earth, land
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
@@ -140,9 +157,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:c.ba.ag` גּוֹי (n.m) root גוה: nation, people
 
@@ -150,19 +170,28 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:e.cf.ab` הַר (n.m) root הרר: mountain, hill, hill-country
 - `1` mountain, hill
@@ -171,6 +200,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:h.be.ad` חֲוִילָה (n.pr.terr): Havilah
 
 ### `bdb:j.ag.ab` יוֹבָב (n.pr.m): Jobab
+- `1` ‘son’ of Yoḳtân
+- `2` a king in Edom
+- `3` king of Madon
+- `4` Benjamites
 
 ### `bdb:j.bn.al` תּוֹלֵדוֹת (n.f.pl) root ילד: generations, account of a man and his descendants
 
@@ -181,6 +214,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` sitting, those sitting, sitting company, assembly
 - `2.a` dwelling-place
 - `2.b` dwelling
+- `2.c` seat, assembly, dwelling-place, dwelling, dwellers — = house
 - `3` situation, location
 - `4` time of dwelling
 - `5` those dwelling
@@ -188,7 +222,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.cd.ab` לָשׁוֹן (n.m) root לשׁן: tongue
 - `1` tongue
@@ -219,6 +256,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:s.al.ab` קֶ֫דֶם (n.[m.]) root קדם: front, east, aforetime
 - `1.a` front
 - `1.b` East, eastward
+- `1` front, east, aforetime — loc
 - `2.a` ancient mts.
 - `2.b` in ancient days
 - `2.c` from of old

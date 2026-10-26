@@ -164,8 +164,8 @@ Paragraph mark after this verse: ס
 
 ### Commentary anchored to this verse
 
-- `rashi:5:24:1` Rashi **normative** on 5:24.1 5:24.2 «וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ» (matched; filed at 5:24) DH «ויתהלך חנוך.»: צַדִּיק הָיָה וְקַל בְּדַעְתּוֹ לָשׁוּב לְהַרְשִׁיעַ, לְפִיכָךְ מִהֵר הַקָּבָּ"ה וְסִלְּקוֹ וֶהֱמִיתוֹ קֹדֶם זְמַנּוֹ, וְזֶהוּ שֶׁשִּׁנָּה הַכָּתוּב בְּמִיתָתוֹ לִכְתֹּב וְאֵינֶנּוּ בָּעוֹלָם – לְמַלְּאוֹת שְׁנוֹתָיו ‏(בראשית רבה):
-- `rashi:5:24:2` Rashi **normative** on 5:24.6 5:24.7 5:24.8 «כִּֽי לָקַ֥ח אֹת֖וֹ» (matched; filed at 5:24) DH «כי לקח אותו.»: לִפְנֵי זְמַנּוֹ, כְּמוֹ הִנְנִי לֹקֵחַ מִמְּךָ אֶת מַחְמַד עֵינֶיךָ (יחזקאל כ"ד):
+- `rashi:5:24:1` Rashi on 5:24.1 5:24.2 «וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ» (matched; filed at 5:24) DH «ויתהלך חנוך.»: צַדִּיק הָיָה וְקַל בְּדַעְתּוֹ לָשׁוּב לְהַרְשִׁיעַ, לְפִיכָךְ מִהֵר הַקָּבָּ"ה וְסִלְּקוֹ וֶהֱמִיתוֹ קֹדֶם זְמַנּוֹ, וְזֶהוּ שֶׁשִּׁנָּה הַכָּתוּב בְּמִיתָתוֹ לִכְתֹּב וְאֵינֶנּוּ בָּעוֹלָם – לְמַלְּאוֹת שְׁנוֹתָיו ‏(בראשית רבה):
+- `rashi:5:24:2` Rashi on 5:24.6 5:24.7 5:24.8 «כִּֽי לָקַ֥ח אֹת֖וֹ» (matched; filed at 5:24) DH «כי לקח אותו.»: לִפְנֵי זְמַנּוֹ, כְּמוֹ הִנְנִי לֹקֵחַ מִמְּךָ אֶת מַחְמַד עֵינֶיךָ (יחזקאל כ"ד):
 - `ibn-ezra:5:24:1` Ibn Ezra **normative** on 5:24.5 5:24.6 5:24.7 5:24.8 5:24.9 «וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃» (matched; filed at 5:24) DH «ואיננו. כי לקח אותו אלהים.»: מת וכן "קח נא את נפשי" (יונה ד ג) "הנני לוקח ממך את מחמד עיניך" (יחז' כד טז) ואח"כ פי' מה היה "ותמת אשתו" וזאת הלקיחה על חנוך אין שם זכר מגפה, ולא וימת, והטעם אשר כתוב בדברי אסף (תהלים עג כד) "ואחר כבוד תקחני" וכן במזמור בני קרח (שם מט טז) "אך אלהים יפדה נפשי מיד שאול כי יקחני סלה" והמשכיל יבין:
 - `radak:5:24:1` Radak on 5:24.1 5:24.2 5:24.3 5:24.4 «וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת הָֽאֱלֹהִ֑ים» (matched; filed at 5:24) DH «וַיִּתְהַלֵּךְ חֲנוֹךְ אֶת־הָאֱלֹהִים.»: כְּמוֹ ״אֲשֶׁר הִתְהַלְּכוּ אֲבוֹתַי לְפָנָיו״ (בראשית מח:טו), כְּלוֹמַר שָׂם כָּל חֶשְׁקוֹ בְּאַהֲבַת הָאֵל וְהִתְעַסֵּק בְּחָכְמוֹת וְהִכִּיר אֶת בּוֹרְאוֹ מִשֶּׁהִגִּיעַ לְחָמֵשׁ וְשִׁשִּׁים שָׁנָה, וְאַף עַל פִּי כֵן הִתְעַסֵּק עוֹד בִּפְרִיָּה וּרְבִיָּה; וְאוֹתָם שְׁלֹשׁ מֵאוֹת שָׁנָה שֶׁחָיָה אַחַר כֵּן שֶׁהֵחֵל לְהִתְעַסֵּק בְּחָכְמוֹת וּלְהִשְׁתַּדֵּל בָּהֶם, מִתְיַגֵּעַ בָּהֶם עַד שֶׁמָּאַס הַגּוּף, לְפִיכָךְ סִלְּקוֹ הָאֵל בַּחֲצִי יָמָיו, וְזֶהוּ שֶׁאָמַר
 - `radak:5:24:2` Radak on 5:24.5 5:24.6 5:24.7 5:24.8 5:24.9 «וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃» (matched; filed at 5:24) DH «וְאֵינֶנּוּ כִּי־לָקַח אֹתוֹ אֱלֹהִים»: . אָמַר
@@ -181,24 +181,31 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.cz.aa` אַ֫יִן (subst) root אין: nothing, nought
 - `1` to nothing, as nothing
 - `2` is not, are not, was not, were not
 - `3` there is (was) not to, have, has, had, not
+- `4` nothing, nought — in circumst. clauses
 - `5` it is not to
+- `6` nothing, nought — with prefixes
 
 ### `bdb:a.dl.ad` אֱלֹהִים (n.m.pl) root אלה: gods
 - `1.a` rulers, judges
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
@@ -206,6 +213,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
 - `1` together with
+- `2` with, proximity — Of localities
+- `3.a` with, proximity — in one's possession or keeping
+- `3.b` with, proximity — in one's knowledge or memory
+- `3` with, proximity — אֵת פּ׳ denotes specially
 - `4` from proximity with
 
 ### `bdb:b.ca.aa` בֵּן (n.m): son
@@ -213,48 +224,77 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:e.bn.aa` הָלַךְ (vb) root הלך: go, come, walk
+- `Qal I.1` Qal go, come, walk — of persons
+- `Qal I.2` Qal go, come, walk — Also of animals, in similar meanings and combinations
+- `Qal I.3` Qal go, come, walk — in like manner of inanimate things
+- `Qal I.4.a` Qal go, come, walk — as in other vbs., quite independently
+- `Qal I.4.b` Qal go, come, walk — to intensify meaning of finite form
+- `Qal I.4.c.(1)` Qal go, come, walk — with a following Inf. abs. denoting a simutaneous action or process, and so emphasizing duration or continuance
+- `Qal I.4.c.(2)` Qal go, come, walk — with a foll. vb. fin. c. ו consec. (rare)
+- `Qal I.4.c.(3)` Qal go, come, walk — in cases where vb. fin. is foll. by Inf. abs. adj. denoting progress, advance
+- `Qal I.4.c.(4)` Qal go, come, walk — twice, where vb. fin. is not הלך, but another vb. denoting motion
+- `Qal I.4.c.(5)` Qal go, come, walk — quite by itself
+- `Qal I.4.c.(6)` Qal go, come, walk — t. the Inf. abs. = Imv. & is followed by Pf. consec
+- `Qal I.4.c` Qal go, come, walk — most noteworthy is the joining of the Inf. abs
+- `Qal I.4.d` Qal go, come, walk — akin to the use of Inf. abs. are some instances of Pt
+- `Qal I.4` Qal go, come, walk — The inf. abs. is often used
+- `Qal I.5` Qal go, come, walk — In combination with other verbal forms
+- `Qal I` Qal go, come, walk — lit
 - `Qal II.1` Qal pass away, die
 - `Qal II.2` Qal live, walk
+- `Qal II.3` Qal go, come, walk — of moral and religious life
+- `Qal II.4` Qal go, come, walk — other fig. uses
+- `Qal II` Qal go, come, walk — Fig.; the most common uses follow; in most the origin in a literal meaning is evident
 - `Pi 1` Pi walk
 - `Pi 2` Pi walking about
 - `Pi 3` Pi depart, go entirely away
-- `Hithp` Hithp walk, walk about, move to and fro
-- `Hiph 1` Hiph lead, bring
-- `Hiph 2` Hiph lead away
-- `Hiph 3` Hiph carry, bring
-- `Hiph 5.a` Hiph cause to walk, go
-- `Hiph 5.b` Hiph cause to flow, run
-- `Hiph 5.c` Hiph cause to depart, retire, go back
+- … 9 more senses
 
 ### `bdb:h.cd.aa` חָיָה (vb) root חיה: live
 - `Qal 1` Qal live
@@ -268,6 +308,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:h.dr.ab` חָמֵשׁ (n.m) root חמשׁ: five
 
 ### `bdb:h.dy.ab` חֲנוֹךְ (n.pr.m): Enoch
+- `1` son of Cain
+- `2` son of Jered (line of Seth), the pious Enoch, who walked with God and was taken by him
+- `3` a son of Midian
+- `4` a son of Reuben
 
 ### `bdb:j.ay.aa` יוֹם (n.m): day
 - `1` day
@@ -276,10 +320,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -289,6 +335,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithp` Hithp declared their pedigree
 
 ### `bdb:j.dh.ab` יֶ֫רֶד (n.pr.m): Jared
+- `1` son of Mehall’ēl, fourth generation from Seth
+- `2` man of Judah
 
 ### `bdb:k.bg.aa` כִּי (conj): that, for, when
 - `1` that
@@ -300,7 +348,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.bx.aa` לָקַח (vb) root לקח: take
 - `Qal 1` Qal take, take in hand
@@ -329,12 +380,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithp` Hithp taking hold of itself
 
 ### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `1` hundred — as simple number
+- `2` hundred — as part of larger number
 - `3` hundredth
 
 ### `bdb:m.be.aa` מוּת (vb) root מות: die
 - `Qal 1` Qal die
 - `Qal 2` Qal die, be put to death
 - `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
 - `Hoph` Hoph be killed, put to death
 
 ### `bdb:m.ea.ac` מְתוּשֶׁ֫לַח (n.pr.m): man of the dart

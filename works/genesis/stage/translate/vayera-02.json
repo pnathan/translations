@@ -1,0 +1,326 @@
+{
+  "unit": "vayera-02",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "18:9",
+      "english": "They said to him, \"Where is Sarah your wife?\" He said, \"Look, in the tent.\"",
+      "literal": "and-they-said to-him where Sarah your-wife and-he-said look in-the-tent",
+      "tokens": [
+        {"id": "18:9.1", "gloss": "and they said", "sense": "Qal 1", "note": "wayyiqtol (sequential imperfect), 3rd person masculine plural, of אמר"},
+        {"id": "18:9.2", "gloss": "to him"},
+        {"id": "18:9.3", "gloss": "where"},
+        {"id": "18:9.4", "gloss": "Sarah"},
+        {"id": "18:9.5", "gloss": "your wife", "sense": "2", "note": "the noun is in the construct form before the suffix 2nd person masculine singular"},
+        {"id": "18:9.6", "gloss": "and he said", "sense": "Qal 1", "note": "wayyiqtol, 3rd person masculine singular"},
+        {"id": "18:9.7", "gloss": "look"},
+        {"id": "18:9.8", "gloss": "in the tent", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["18:9.1", "18:9.2"], "english": "They said to him", "literal": "and-they-said to-him; the vav is rendered by the sense of the sequence"},
+        {"tokens": ["18:9.3", "18:9.4", "18:9.5"], "english": "Where is Sarah your wife", "literal": "where Sarah your-wife; the Hebrew has no verb, the English supplies 'is'"},
+        {"tokens": ["18:9.6"], "english": "He said", "literal": "and-he-said; the speaker changes to the one who answers"},
+        {"tokens": ["18:9.7", "18:9.8"], "english": "Look, in the tent", "literal": "look in-the-tent; the answer gives the place"}
+      ],
+      "grammar": [
+        "The two wayyiqtol verbs (וַיֹּאמְרוּ, וַיֹּאמֶר) carry the narrative sequence: first the visitors speak, then the one addressed answers.",
+        "The question has no verb: אַיֵּה שָׂרָה אִשְׁתֶּךָ is 'where Sarah your wife', and the English supplies 'is'.",
+        "The etnaḥta on אִשְׁתֶּךָ closes the question; the silluq on בָאֹהֶל closes the verse.",
+        "The vav of אֵלָיו carries a puncta extraordinaria (dot above the letter); the dot is read by Rashi (see the commentary), and the English does not adopt that reading."
+      ],
+      "note": "The answer 'in the tent' is taken as the modest place of a woman who stays inside (Rashi). The English states the place only.",
+      "commentary": [
+        {"anchor": "rashi:18:9:1", "relation": "records", "summary": "Rashi: the dot over the vav of אֵלָיו teaches that the visitors also asked Sarah where Abraham was (שֶׁאַף לְשָׂרָה שָׁאֲלוּ אַיּוֹ אַבְרָהָם), and that a man should ask the wife about the man in his host's house and the reverse. The English keeps 'to him' and records the dot reading."},
+        {"anchor": "rashi:18:9:2", "relation": "follows", "summary": "Rashi: the answer 'Look, in the tent' tells that she is modest (צְנוּעָה הִיא): she stays inside the tent. The English gives the place; the modesty is in this note."}
+      ],
+      "apparatus": [
+        "Puncta extraordinaria on the vav of אֵלָיו (WLC note 4); Rashi, Radak and Bereshit Rabbah read it as a teaching about the question to Sarah."
+      ]
+    },
+    {
+      "ref": "18:10",
+      "english": "He said, \"I will surely return to you at this time next year, alive, and Sarah your wife will have a son.\" And Sarah was listening at the entrance of the tent, and it was behind him.",
+      "literal": "and-he-said surely I-will-return to-you as-the-time living and-look son to-Sarah your-wife and-Sarah listening opening-of the-tent and-he behind-him",
+      "tokens": [
+        {"id": "18:10.1", "gloss": "and he said", "sense": "Qal 1", "note": "wayyiqtol, 3rd person masculine singular"},
+        {"id": "18:10.2", "gloss": "surely return", "sense": "Qal 3", "note": "infinitive absolute before the finite verb: emphasis, 'I will surely return'"},
+        {"id": "18:10.3", "gloss": "I will return", "sense": "Qal 3", "note": "yiqtol, 1st person common singular"},
+        {"id": "18:10.4", "gloss": "to you"},
+        {"id": "18:10.5", "gloss": "at this time", "sense": "2.c", "note": "כ + עֵת: the appointed season; Rashi and Ibn Ezra take it as this season next year"},
+        {"id": "18:10.6", "gloss": "alive", "sense": "1.c", "note": "the feminine adjective, with no noun; Ibn Ezra takes it of Sarah, Radak of giving birth"},
+        {"id": "18:10.7", "gloss": "and look", "note": "the hinneh is not rendered in the English; the clause is a report"},
+        {"id": "18:10.8", "gloss": "son", "sense": "1"},
+        {"id": "18:10.9", "gloss": "to Sarah"},
+        {"id": "18:10.10", "gloss": "your wife", "sense": "2", "note": "construct form with the 2nd person masculine singular suffix"},
+        {"id": "18:10.11", "gloss": "and Sarah"},
+        {"id": "18:10.12", "gloss": "listening", "note": "qal participle, feminine singular; the lexicon lists no Qal sense for שָׁמַע, so no sense is given"},
+        {"id": "18:10.13", "gloss": "the entrance of"},
+        {"id": "18:10.14", "gloss": "the tent", "sense": "1"},
+        {"id": "18:10.15", "gloss": "and it"},
+        {"id": "18:10.16", "gloss": "behind him", "sense": "1.a", "note": "the subject is the masculine פֶּתַח, the entrance: the entrance was behind the speaker (Rashi)"}
+      ],
+      "phrases": [
+        {"tokens": ["18:10.1"], "english": "He said", "literal": "and-he-said"},
+        {"tokens": ["18:10.2", "18:10.3", "18:10.4"], "english": "I will surely return to you", "literal": "surely I-will-return to-you; the infinitive absolute gives the emphasis"},
+        {"tokens": ["18:10.5", "18:10.6"], "english": "at this time next year, alive", "literal": "as-the-time living; 'next year' is the reading of Rashi and Ibn Ezra, and 'alive' is the adjective"},
+        {"tokens": ["18:10.7", "18:10.8", "18:10.9", "18:10.10"], "english": "and Sarah your wife will have a son", "literal": "and-look son to-Sarah your-wife; the verb 'will have' is supplied from the verbless clause"},
+        {"tokens": ["18:10.11", "18:10.12", "18:10.13", "18:10.14"], "english": "and Sarah was listening at the entrance of the tent", "literal": "and-Sarah listening opening-of the-tent; the participle gives the continuing act"},
+        {"tokens": ["18:10.15", "18:10.16"], "english": "and it was behind him", "literal": "and-it behind-him; 'it' is the entrance, masculine in Hebrew"}
+      ],
+      "grammar": [
+        "The infinitive absolute שׁוֹב before the yiqtol אָשׁוּב is the emphatic form: 'I will surely return'.",
+        "The clause כָּעֵת חַיָּה is verbless: 'at this time, alive'. The appointed season is the one named in 17:21.",
+        "The verse has no verb for the son: לְשָׂרָה בֵן is 'a son to Sarah', and the English supplies 'will have'.",
+        "The revia on וַיֹּאמֶר and the silluq on אַחֲרָיו divide the verse; the speaker of the first clause is the visitor who speaks in God's name."
+      ],
+      "note": "כָּעֵת חַיָּה is read by Rashi and Ibn Ezra as 'this time next year' and 'alive'. The English follows that. Rashi's second reading of חַיָּה ('alive for you') is recorded in the commentary.",
+      "commentary": [
+        {"anchor": "rashi:18:10:1", "relation": "follows", "summary": "Rashi: the angel does not promise his own return; he speaks on the errand of the Place (בִּשְׁלִיחוּתוֹ שֶׁל מָקוֹם), as in 16:10 where the angel says 'I will multiply', so the words are God's. The English keeps the first person of the speech."},
+        {"anchor": "rashi:18:10:2", "relation": "follows", "summary": "Rashi: כָּעֵת is this season of the next year, which was Passover, and Isaac was born at the next Passover; the word is read כָּעֵת, not כְּעֵת. The English gives 'at this time next year'."},
+        {"anchor": "rashi:18:10:3", "relation": "records", "summary": "Rashi's second reading: 'this time' is a time that will be alive for you (שֶׁתְּהֵא חַיָּה לָכֶם), that you will all be whole and enduring. The English does not adopt it."},
+        {"anchor": "rashi:18:10:4", "relation": "follows", "summary": "Rashi: הַפֶּתַח הָיָה אַחַר הַמַּלְאָךְ, the entrance was behind the angel. The English says 'it was behind him'."},
+        {"anchor": "ibn-ezra:18:10:1", "relation": "follows", "summary": "Ibn Ezra: 'this time in the other year' (כעת הזאת בשנה האחרת), and Sarah is alive, like כה לחי in 1 Samuel 25:6. The English agrees on the time and reads 'alive' of the one who lives."},
+        {"anchor": "ibn-ezra:18:10:2", "relation": "records", "summary": "Ibn Ezra: the clause refers to the angel who speaks with Abraham, and Abraham, sitting at the tent entrance, did not see Sarah; others say Sarah's entrance was behind Abraham's tent (וי\"א פתח האהל שלה היה אחרי אהל אברהם). The English keeps Rashi's reading and records this."}
+      ],
+      "apparatus": [
+        "The lexicon for שָׁמַע lists Niph and Pi senses only; the qal participle שֹׁמַעַת is given no sense."
+      ]
+    },
+    {
+      "ref": "18:11",
+      "english": "Now Abraham and Sarah were old, advanced in days; Sarah had ceased to have the way of women.",
+      "literal": "and-Abraham and-Sarah old coming in-days; ceased to-be for-Sarah way as-women",
+      "tokens": [
+        {"id": "18:11.1", "gloss": "and Abraham"},
+        {"id": "18:11.2", "gloss": "and Sarah"},
+        {"id": "18:11.3", "gloss": "old", "sense": "1"},
+        {"id": "18:11.4", "gloss": "advanced", "sense": "Qal 2", "note": "qal participle of בּוֹא, 'come': 'come into days'"},
+        {"id": "18:11.5", "gloss": "in days", "sense": "4", "note": "the plural of יוֹם in the sense 'days', with ב"},
+        {"id": "18:11.6", "gloss": "had ceased", "sense": "Qal 2", "note": "qatal, 3rd person masculine singular; the subject is the custom of women"},
+        {"id": "18:11.7", "gloss": "to be", "sense": "Qal III", "note": "infinitive construct of היה, with ל: 'to be for her'"},
+        {"id": "18:11.8", "gloss": "for Sarah"},
+        {"id": "18:11.9", "gloss": "way", "sense": "3", "note": "the way (custom) of women; the phrase is a euphemism for the monthly course"},
+        {"id": "18:11.10", "gloss": "as women", "sense": "1", "note": "כ with the plural of אִשָּׁה"}
+      ],
+      "phrases": [
+        {"tokens": ["18:11.1", "18:11.2"], "english": "Now Abraham and Sarah", "literal": "and-Abraham and-Sarah; the vav is rendered 'now' as the start of the new clause"},
+        {"tokens": ["18:11.3", "18:11.4", "18:11.5"], "english": "were old, advanced in days", "literal": "old coming in-days; 'advanced in days' is the reading of Ibn Ezra (reached many days)"},
+        {"tokens": ["18:11.6", "18:11.7", "18:11.8"], "english": "Sarah had ceased", "literal": "ceased to-be for-Sarah; the verb takes the infinitive, and the subject is the matter of the verse"},
+        {"tokens": ["18:11.9", "18:11.10"], "english": "to have the way of women", "literal": "way as-women; 'the way of women' is the euphemism of Rashi's reading (the monthly course)"}
+      ],
+      "grammar": [
+        "חָדַל לִהְיוֹת is 'ceased to be': a qatal of cessation with an infinitive construct; Rashi glosses it as 'ceased from her'.",
+        "בָּאִים בַּיָּמִים is the idiom for an old man: 'coming into days', with ב of time.",
+        "אֹרַח כַּנָּשִׁים is a noun phrase with כ of comparison: 'the way like women's'. The silluq on כַּנָּשִׁים closes the verse.",
+        "The pashta on חָדַל marks the verb before its infinitive; the verse divides into the description of the couple and the cessation."
+      ],
+      "note": "The English 'the way of women' is the Hebrew's own euphemism. Rashi names it as the custom of the menstrual course; the English does not name it.",
+      "commentary": [
+        {"anchor": "rashi:18:11:1", "relation": "follows", "summary": "Rashi: חָדַל לִהְיוֹת means פָּסַק מִמֶּנָה, it ceased from her. The English reads 'had ceased'."},
+        {"anchor": "rashi:18:11:2", "relation": "follows", "summary": "Rashi: אֹרַח here is אֹרַח נִדּוֹת, the custom of the menstrual course. The English uses 'the way of women', the euphemism of the text, and does not name it."},
+        {"anchor": "ibn-ezra:18:11:1", "relation": "follows", "summary": "Ibn Ezra: בָּאִים בַּיָּמִים means הגיעו לימים רבים, they reached many days. The English gives 'advanced in days'."}
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "18:12",
+      "english": "Sarah laughed to herself, saying, \"After I am worn out, shall I have delight, and my lord is old?\"",
+      "literal": "and-she-laughed Sarah within-her-inward-part saying after my-being-worn-out she-was to-me delight and-my-lord old",
+      "tokens": [
+        {"id": "18:12.1", "gloss": "and she laughed", "sense": "Qal", "note": "wayyiqtol, 3rd person feminine singular"},
+        {"id": "18:12.2", "gloss": "Sarah"},
+        {"id": "18:12.3", "gloss": "within herself", "note": "the inward part (קֶרֶב) with the 3rd feminine singular suffix; she laughed inwardly, not aloud"},
+        {"id": "18:12.4", "gloss": "saying", "sense": "Qal 1", "note": "infinitive construct of אמר with ל"},
+        {"id": "18:12.5", "gloss": "after", "sense": "2.b"},
+        {"id": "18:12.6", "gloss": "I am worn out", "sense": "Qal", "note": "infinitive construct of בלה with 1st person singular suffix"},
+        {"id": "18:12.7", "gloss": "shall have", "sense": "Qal III.1", "note": "qatal of היה read by Ibn Ezra as future: 'shall it be to me'"},
+        {"id": "18:12.8", "gloss": "to me"},
+        {"id": "18:12.9", "gloss": "delight", "note": "a feminine noun; Rashi's two other readings are in the commentary"},
+        {"id": "18:12.10", "gloss": "and my lord", "note": "my lord: Abraham as husband (a man), not God"},
+        {"id": "18:12.11", "gloss": "is old", "sense": "Qal", "note": "qatal of זקן, 3rd person masculine singular"}
+      ],
+      "phrases": [
+        {"tokens": ["18:12.1", "18:12.2", "18:12.3"], "english": "Sarah laughed to herself", "literal": "and-she-laughed Sarah within-her-inward-part; the laugh is inward"},
+        {"tokens": ["18:12.4"], "english": "saying", "literal": "to-say"},
+        {"tokens": ["18:12.5", "18:12.6"], "english": "After I am worn out", "literal": "after my-being-worn-out"},
+        {"tokens": ["18:12.7", "18:12.8", "18:12.9"], "english": "shall I have delight", "literal": "she-was to-me delight; Rashi's paraphrase makes it a question"},
+        {"tokens": ["18:12.10", "18:12.11"], "english": "and my lord is old", "literal": "and-my-lord old"}
+      ],
+      "grammar": [
+        "The verse has no interrogative particle; the question mark is the translator's reading of Sarah's words, as Rashi's paraphrase gives them as a question.",
+        "The verb הָיְתָה is a qatal used as a question of disbelief; the English 'shall I have' is the future sense that Ibn Ezra gives.",
+        "The verse turns on two clauses: 'after I am worn out' (the infinitive of בלה) and 'my lord is old' (a qatal of זקן, with the subject אֲדֹנִי).",
+        "The wayyiqtol וַתִּצְחַק and the infinitive לֵאמֹר introduce the speech, which is in her own words and not the LORD's."
+      ],
+      "note": "עֶדְנָה is 'delight' (Ibn Ezra, and the lexicon). Rashi reads softness of flesh, and a second reading 'the time of the menstrual course'; both are recorded in the commentary.",
+      "commentary": [
+        {"anchor": "rashi:18:12:1", "relation": "follows", "summary": "Rashi: she looked at her inner parts and asked whether they could bear a child, and whether her withered breasts could draw milk (Tanḥuma). The English keeps 'within herself' as the inward laugh."},
+        {"anchor": "rashi:18:12:2", "relation": "records", "summary": "Rashi: עֶדְנָה is the softness or smoothing of the flesh (צִחְצוּחַ בָּשָׂר), and in a second reading the time of the menstrual course (זְמַן וֶסֶת נִדּוּת). The English takes 'delight' with Ibn Ezra and records these."},
+        {"anchor": "ibn-ezra:18:12:1", "relation": "follows", "summary": "Ibn Ezra: הָיְתָה לִּי means תִּהְיֶה לִּי, shall it be to me. The English reads the qatal as 'shall I have'."},
+        {"anchor": "ibn-ezra:18:12:2", "relation": "follows", "summary": "Ibn Ezra: עֶדְנָה is like עֶדֶן and עֹנֶג, delight and pleasure; 'how shall delight and pleasure of youth be renewed for me, since my lord is old'. The English gives 'delight'."},
+        {"anchor": "ibn-ezra:18:12:3", "relation": "follows", "summary": "Ibn Ezra: בְּקִרְבָּהּ means 'in her soul'; the LORD revealed her secret to the angel. The English gives 'to herself'."}
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "18:13",
+      "english": "The LORD said to Abraham, \"Why did Sarah laugh, saying, 'Shall I truly bear a child, though I am old?'\"",
+      "literal": "and-he-said the-LORD to-Abraham why this laughed Sarah saying is-it-indeed truly I-shall-bear and-I have-grown-old",
+      "tokens": [
+        {"id": "18:13.1", "gloss": "and he said", "sense": "Qal 1", "note": "wayyiqtol, 3rd person masculine singular"},
+        {"id": "18:13.2", "gloss": "the LORD"},
+        {"id": "18:13.3", "gloss": "to"},
+        {"id": "18:13.4", "gloss": "Abraham"},
+        {"id": "18:13.5", "gloss": "why", "note": "לָמָּה: 'for what', the interrogative"},
+        {"id": "18:13.6", "gloss": "this"},
+        {"id": "18:13.7", "gloss": "laughed", "sense": "Qal", "note": "qatal, 3rd person feminine singular"},
+        {"id": "18:13.8", "gloss": "Sarah"},
+        {"id": "18:13.9", "gloss": "saying", "sense": "Qal 1", "note": "infinitive construct of אמר with ל"},
+        {"id": "18:13.10", "gloss": "is it indeed", "note": "הַ interrogative plus אַף, 'also': here 'indeed'"},
+        {"id": "18:13.11", "gloss": "truly"},
+        {"id": "18:13.12", "gloss": "shall I bear", "sense": "Qal 1", "note": "yiqtol, 1st person common singular, of ילד; Rashi reads it as 'shall I truly bear'"},
+        {"id": "18:13.13", "gloss": "and I"},
+        {"id": "18:13.14", "gloss": "am old", "sense": "Qal", "note": "qatal, 1st person common singular; the words of Sarah 'my lord is old' are changed to 'I am old' (Rashi)"}
+      ],
+      "phrases": [
+        {"tokens": ["18:13.1", "18:13.2"], "english": "The LORD said", "literal": "and-he-said the-LORD"},
+        {"tokens": ["18:13.3", "18:13.4"], "english": "to Abraham", "literal": "to Abraham"},
+        {"tokens": ["18:13.5", "18:13.6", "18:13.7", "18:13.8"], "english": "Why did Sarah laugh", "literal": "why this laughed Sarah"},
+        {"tokens": ["18:13.9"], "english": "saying", "literal": "saying"},
+        {"tokens": ["18:13.10", "18:13.11", "18:13.12"], "english": "Shall I truly bear a child", "literal": "is-it-indeed truly I-shall-bear; 'a child' is supplied"},
+        {"tokens": ["18:13.13", "18:13.14"], "english": "though I am old", "literal": "and-I have-grown-old; the vav is rendered 'though'"}
+      ],
+      "grammar": [
+        "The LORD speaks in the wayyiqtol of the narrative, and the speech is direct: the double quotes are the LORD's words, and Sarah's words are inside them in single quotes.",
+        "The question begins with לָמָּה and the verb is a qatal (צָחֲקָה) of the past reported to Abraham.",
+        "הַאַף אֻמְנָם introduces a yiqtol question: 'Shall I bear, truly?'.",
+        "The verb of the closing clause is qatal, 1st person singular: the words of Sarah 'my lord is old' are given as 'I am old' (Rashi)."
+      ],
+      "note": "The LORD's words say 'I am old' where Sarah had said 'my lord is old' (18:12); Rashi says the text changed this for the sake of peace. The English keeps the words as written.",
+      "commentary": [
+        {"anchor": "rashi:18:13:1", "relation": "follows", "summary": "Rashi: הַאַף אֻמְנָם is הֲגַם אֱמֶת אֵלֵד, 'shall I truly, in truth, bear?'. The English reads 'Shall I truly bear a child'."},
+        {"anchor": "rashi:18:13:2", "relation": "follows", "summary": "Rashi: Scripture changed Sarah's 'and my lord is old' to 'and I am old' for the sake of peace (מִפְּנֵי הַשָּׁלוֹם). The English keeps 'I am old'."},
+        {"anchor": "ibn-ezra:18:13:1", "relation": "follows", "summary": "Ibn Ezra: וַאֲנִי זָקַנְתִּי means אחרי בלותי, after my being worn out, and the angel spoke the truth. The English gives 'though I am old'."},
+        {"anchor": "ibn-ezra:18:13:2", "relation": "not-applicable", "summary": "The pack gives only the lead words ומ\"ם for this whole-verse comment and no body text, so its content cannot be summarized from the pack. It is not used for the English."},
+        {"anchor": "ibn-ezra:18:13:3", "relation": "follows", "summary": "Ibn Ezra: the mem of אֻמְנָם is an added letter, as in שלשם, and the word is 'truly'. He answers the view that the three visitors were prophets: they came to Sarah, not to Abraham, and asked 'where is Sarah your wife'. The English gives 'truly'."},
+        {"anchor": "ramban:18:13:1", "relation": "follows", "summary": "Ramban: 'and I am old' is the sense of אחרי בלותי; the LORD's words are true, and out of regard for peace he did not repeat 'my lord is old'. The English agrees."}
+      ],
+      "apparatus": [
+        "Sarah's words 'and my lord is old' (18:12) and the LORD's 'and I am old' (18:13) differ; the English follows the words of each speaker, and Rashi's account of the change is in the commentary.",
+        "The ibn-ezra:18:13:2 entry carries only the lead word in the pack; its text is not in the pack."
+      ]
+    },
+    {
+      "ref": "18:14",
+      "english": "Is anything hidden from the LORD? At the appointed time I will return to you, at this time next year, alive, and Sarah will have a son.",
+      "literal": "is-it-hidden from-the-LORD anything to-the-appointed-time I-will-return to-you as-the-time living and-to-Sarah son",
+      "tokens": [
+        {"id": "18:14.1", "gloss": "is it hidden", "sense": "Niph 1", "note": "nifal yiqtol, 3rd person masculine singular, with the interrogative ה; Rashi and Ibn Ezra read 'hidden' (היתכסי), which the lexicon does not list"},
+        {"id": "18:14.2", "gloss": "from the LORD"},
+        {"id": "18:14.3", "gloss": "anything", "sense": "IV", "note": "the subject of the nifal: 'a matter'"},
+        {"id": "18:14.4", "gloss": "at the appointed time", "sense": "1", "note": "לַמּוֹעֵד: the appointed time of 17:21 (Rashi)"},
+        {"id": "18:14.5", "gloss": "I will return", "sense": "Qal 3", "note": "yiqtol, 1st person common singular"},
+        {"id": "18:14.6", "gloss": "to you"},
+        {"id": "18:14.7", "gloss": "at this time", "sense": "2.c", "note": "כ + עֵת, as in 18:10"},
+        {"id": "18:14.8", "gloss": "alive", "sense": "1.c", "note": "the feminine adjective, as in 18:10"},
+        {"id": "18:14.9", "gloss": "and to Sarah"},
+        {"id": "18:14.10", "gloss": "son", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["18:14.1", "18:14.2", "18:14.3"], "english": "Is anything hidden from the LORD", "literal": "is-it-hidden from-the-LORD anything; the first clause is a question"},
+        {"tokens": ["18:14.4"], "english": "At the appointed time", "literal": "to-the-appointed-time"},
+        {"tokens": ["18:14.5", "18:14.6"], "english": "I will return to you", "literal": "I-will-return to-you"},
+        {"tokens": ["18:14.7", "18:14.8"], "english": "at this time next year, alive", "literal": "as-the-time living; the reading 'next year' is Rashi's gloss on the appointed time"},
+        {"tokens": ["18:14.9", "18:14.10"], "english": "and Sarah will have a son", "literal": "and-to-Sarah son; the verb is supplied"}
+      ],
+      "grammar": [
+        "הֲיִפָּלֵא is a question with the interrogative ה and a nifal yiqtol: 'is anything hidden from the LORD?'.",
+        "The verb לַמּוֹעֵד אָשׁוּב names the appointed time, and כָּעֵת חַיָּה repeats the words of 18:10; the verse restates the promise as a question and answer.",
+        "The verse has no verb for the son: וּלְשָׂרָה בֵן is 'and to Sarah a son'.",
+        "The silluq on בֵן closes the verse on the promise."
+      ],
+      "note": "Rashi and Ibn Ezra take הֲיִפָּלֵא as 'hidden' (היתכסי, היעלם), and the English follows them. The lexicon's Niph senses ('beyond one's power, difficult') are the other reading; Radak takes it so, and it is recorded.",
+      "commentary": [
+        {"anchor": "rashi:18:14:1", "relation": "follows", "summary": "Rashi: הֲיִפָּלֵא is הֲיִתְכַּסִּי, 'is it concealed?' (as its Targum). Is any wondrous, separated or hidden thing hidden from me in doing my will? The English reads 'hidden from the LORD'."},
+        {"anchor": "rashi:18:14:2", "relation": "follows", "summary": "Rashi: לַמּוֹעֵד is that appointed time that was set for you yesterday, at this time next year. The English gives 'at the appointed time' and 'at this time next year'."},
+        {"anchor": "ibn-ezra:18:14:1", "relation": "follows", "summary": "Ibn Ezra: הֲיִפָּלֵא means היעלם, is hidden. Others say it means 'not a wonder for God', but then the mem would not be attached to the Name; he rejects that. The English follows 'hidden'."},
+        {"anchor": "radak:18:14:1", "relation": "records", "summary": "Radak (not normative): things that seem strange to people are hidden from them, but nothing is hard for the LORD (לֹא יִפָּלֵא מִמֶּנּוּ דָּבָר). The English does not adopt this reading; it is recorded here."}
+      ],
+      "apparatus": [
+        "18:14.2 vowels: WLC reads מֵיְהוָה; the base text reads מֵיְהֹוָה. The English is the same."
+      ]
+    },
+    {
+      "ref": "18:15",
+      "english": "Sarah denied, saying, \"I did not laugh,\" for she was afraid. He said, \"No, but you did laugh.\"",
+      "literal": "and-she-denied saying not I-laughed for she-was-afraid and-he-said no but you-laughed",
+      "tokens": [
+        {"id": "18:15.1", "gloss": "and she denied", "sense": "Pi 2", "note": "wayyiqtol, Piel, 3rd person feminine singular: she acted deceptively"},
+        {"id": "18:15.2", "gloss": "Sarah"},
+        {"id": "18:15.3", "gloss": "saying", "sense": "Qal 1", "note": "infinitive construct of אמר with ל"},
+        {"id": "18:15.4", "gloss": "not"},
+        {"id": "18:15.5", "gloss": "I laughed", "sense": "Qal", "note": "qatal, 1st person common singular"},
+        {"id": "18:15.6", "gloss": "for", "note": "the first כִּי is causal, 'for' (Rashi)"},
+        {"id": "18:15.7", "gloss": "she was afraid", "sense": "Qal 1", "note": "qatal, 3rd person feminine singular"},
+        {"id": "18:15.8", "gloss": "and he said", "sense": "Qal 1", "note": "wayyiqtol, 3rd person masculine singular"},
+        {"id": "18:15.9", "gloss": "no"},
+        {"id": "18:15.10", "gloss": "but", "note": "the second כִּי means 'but' (אֶלָּא), as Rashi reads it"},
+        {"id": "18:15.11", "gloss": "you laughed", "sense": "Qal", "note": "qatal, 2nd person feminine singular"}
+      ],
+      "phrases": [
+        {"tokens": ["18:15.1", "18:15.2"], "english": "Sarah denied", "literal": "and-she-denied Sarah"},
+        {"tokens": ["18:15.3"], "english": "saying", "literal": "to-say"},
+        {"tokens": ["18:15.4", "18:15.5"], "english": "I did not laugh", "literal": "not I-laughed"},
+        {"tokens": ["18:15.6", "18:15.7"], "english": "for she was afraid", "literal": "for she-was-afraid; the reason for the denial"},
+        {"tokens": ["18:15.8"], "english": "He said", "literal": "and-he-said"},
+        {"tokens": ["18:15.9", "18:15.10", "18:15.11"], "english": "No, but you did laugh", "literal": "no but you-laughed"}
+      ],
+      "grammar": [
+        "The first כִּי gives the reason for the denial ('for she was afraid'); the second corrects it ('no, but you did laugh'), as Rashi reads the two.",
+        "The wayyiqtol וַתְּכַחֵשׁ is piel, the denial; the two qatal forms (צָחַקְתִּי, יָרֵאָה) are the past of the speech.",
+        "The etnaḥta on יָרֵאָה closes the clause of the reason, and the silluq on צָחָקְתְּ closes the verse on the correction.",
+        "The English 'did laugh' supplies the auxiliary for the second person feminine qatal."
+      ],
+      "note": "Sarah's denial is a lie told out of fear (Radak); the LORD answers that she laughed. The English keeps both quotations in direct speech.",
+      "commentary": [
+        {"anchor": "rashi:18:15:1", "relation": "follows", "summary": "Rashi: the first כִּי means 'for' (הָרִאשׁוֹן ... דְּהָא), giving the reason for the denial: she was afraid. The second means 'but' (אֶלָּא): 'No, but you did laugh'. The English follows both."}
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "18:16",
+      "english": "The men rose from there and looked down toward Sodom, and Abraham walked with them to escort them.",
+      "literal": "and-they-rose from-there the-men and-they-looked-down over face-of Sodom and-Abraham walking with-them to-escort-them",
+      "tokens": [
+        {"id": "18:16.1", "gloss": "and they rose", "sense": "Qal 1", "note": "wayyiqtol, 3rd person masculine plural"},
+        {"id": "18:16.2", "gloss": "from there"},
+        {"id": "18:16.3", "gloss": "the men"},
+        {"id": "18:16.4", "gloss": "and they looked down", "sense": "Hiph", "note": "wayyiqtol, Hiphil, 3rd person masculine plural, of שָׁקַף"},
+        {"id": "18:16.5", "gloss": "toward"},
+        {"id": "18:16.6", "gloss": "face of", "sense": "I.1", "note": "construct plural פְּנֵי, with Sodom as the object"},
+        {"id": "18:16.7", "gloss": "Sodom"},
+        {"id": "18:16.8", "gloss": "and Abraham"},
+        {"id": "18:16.9", "gloss": "walking", "sense": "Qal II.2", "note": "qal participle of הָלַךְ: the progressive, 'was walking'"},
+        {"id": "18:16.10", "gloss": "with them"},
+        {"id": "18:16.11", "gloss": "to escort them", "sense": "Pi 1", "note": "infinitive construct Piel of שָׁלַח with 3rd masculine plural suffix: send off, escort (Rashi)"}
+      ],
+      "phrases": [
+        {"tokens": ["18:16.1", "18:16.2", "18:16.3"], "english": "The men rose from there", "literal": "and-they-rose from-there the-men"},
+        {"tokens": ["18:16.4", "18:16.5", "18:16.6", "18:16.7"], "english": "and looked down toward Sodom", "literal": "and-they-looked-down over face-of Sodom"},
+        {"tokens": ["18:16.8", "18:16.9", "18:16.10", "18:16.11"], "english": "and Abraham walked with them to escort them", "literal": "and-Abraham walking with-them to-escort-them"}
+      ],
+      "grammar": [
+        "The three wayyiqtol and participle clauses carry the sequence: the men rise, look, and Abraham walks with them.",
+        "The hiphil וַיַּשְׁקִפוּ takes the preposition עַל with פְּנֵי, 'toward the face of Sodom', and the Hebrew uses it of looking down.",
+        "The participle הֹלֵךְ is the progressive: 'was walking'; the infinitive לְשַׁלְּחָם gives the purpose: 'to send them on their way'.",
+        "The silluq on לְשַׁלְּחָם closes the verse on the escort."
+      ],
+      "note": "Rashi reads the verb of looking down as a look for evil; the English keeps the neutral 'looked down' and records this. Rashi reads לְשַׁלְּחָם as escort, as one who supposes they are guests.",
+      "commentary": [
+        {"anchor": "rashi:18:16:1", "relation": "records", "summary": "Rashi: every look (hashqafah) in Scripture is for evil, except the look from the holy dwelling of Deut 26:15, because gifts to the poor turn anger into mercy. Here the men looked down on Sodom with evil intent. The English keeps the neutral 'looked down' and records this."},
+        {"anchor": "rashi:18:16:2", "relation": "follows", "summary": "Rashi: לְשַׁלְּחָם means לְלַוּוֹתָם, to escort them, as one who supposes they are guests (כַּסָּבוּר אוֹרְחִים הֵם). The English reads 'to escort them'."}
+      ],
+      "apparatus": []
+    }
+  ]
+}

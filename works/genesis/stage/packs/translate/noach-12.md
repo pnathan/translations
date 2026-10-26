@@ -22,7 +22,7 @@ Hebrew (MAM): וַיִּ֥יקֶץ נֹ֖חַ מִיֵּינ֑וֹ וַיֵּ֕�
 
 ### Commentary anchored to this verse
 
-- `rashi:9:24:1` Rashi **normative** on 9:24.9 9:24.10 «בְּנ֥וֹ הַקָּטָֽן׃» (matched; filed at 9:24) DH «בנו הקטן.»: הַפָּסוּל וְהַבָּזוּי, כְּמוֹ הִנֵּה קָטֹן נְתַתִּיךָ בַּגּוֹיִם בָּזוּי בָּאָדָם (ירמיה מ"ט):
+- `rashi:9:24:1` Rashi on 9:24.9 9:24.10 «בְּנ֥וֹ הַקָּטָֽן׃» (matched; filed at 9:24) DH «בנו הקטן.»: הַפָּסוּל וְהַבָּזוּי, כְּמוֹ הִנֵּה קָטֹן נְתַתִּיךָ בַּגּוֹיִם בָּזוּי בָּאָדָם (ירמיה מ"ט):
 - `ibn-ezra:9:24:1` Ibn Ezra **normative** on 9:24.1 9:24.2 «וַיִּ֥יקֶץ נֹ֖חַ» (matched; filed at 9:24) DH «וייקץ נח.»: , הכתוב לא גילה מה נעשה. והעושה היה כנען וכן היה כי חם ראה ולא כסהו כאשר עשו אחיו רק גלה הדבר ושמע כנען ולא נדע מה עשה,
 - `ibn-ezra:9:24:2` Ibn Ezra **normative** on 9:24.9 9:24.10 «בְּנ֥וֹ הַקָּטָֽן׃» (matched-unbolded; filed at 9:24) DH «בנו הקטן»: וטעם בנו הקטן לעד כי כן, הוא אומר "ובני חם כוש ומצרים ופוט וכנען" (בראשית יו"ד ו) גם וי"ו בנו שב אל הם הנזכר על כן קלל כנען והאומר שקלל נח את בן בנו בעבור שבירך אלהים את בניו זה דרך דרש:
 - `radak:9:24:1` Radak on 9:24.1 «וַיִּ֥יקֶץ» (matched; filed at 9:24) DH «וַיִּיקֶץ.»: כִּי הַשִּׁכְרוּת תְּבַטֵּל הַרְגָּשׁוֹת הָאָדָם כְּמוֹ הַשֵּׁנָה, לְפִיכָךְ נוֹפֵל בּוֹ לְשׁוֹן הֲקָצָה וְהָעֵרָה.
@@ -49,7 +49,7 @@ Hebrew (MAM): וַיֹּ֖אמֶר אָר֣וּר כְּנָ֑עַן עֶ֥בֶ�
 
 ### Commentary anchored to this verse
 
-- `rashi:9:25:1` Rashi **normative** on 9:25.2 9:25.3 «אָר֣וּר כְּנָ֑עַן» (matched; filed at 9:25) DH «ארור כנען.»: אַתָּה גָרַמְתָּ לִי שֶׁלֹּא אוֹלִיד בֵּן רְבִיעִי אַחֵר לְשַׁמְּשֵׁנִי, אָרוּר בִּנְךָ רְבִיעִי לִהְיוֹת מְשַׁמֵּשׁ אֶת זַרְעָם שֶׁל אֵלּוּ הַגְּדוֹלִים, שֶׁהוּטַל עֲלֵיהֶם טֹרַח עֲבוֹדָתִי מֵעַתָּה. וּמָה רָאָה חָם שֶׁסֵּרְסוֹ? אָמַר לָהֶם לְאֶחָיו אָדָם הָרִאשׁוֹן שְׁנֵי בָנִים הָיוּ לוֹ, וְהָרַג זֶה אֶת זֶה בִּשְׁבִיל יְרֻשַּׁת הָעוֹלָם, וְאָבִינוּ יֵשׁ לוֹ ג' בָּנִים וְעוֹדֶנּוּ מְבַקֵּשׁ בֵּן רְבִיעִי:
+- `rashi:9:25:1` Rashi on 9:25.2 9:25.3 «אָר֣וּר כְּנָ֑עַן» (matched; filed at 9:25) DH «ארור כנען.»: אַתָּה גָרַמְתָּ לִי שֶׁלֹּא אוֹלִיד בֵּן רְבִיעִי אַחֵר לְשַׁמְּשֵׁנִי, אָרוּר בִּנְךָ רְבִיעִי לִהְיוֹת מְשַׁמֵּשׁ אֶת זַרְעָם שֶׁל אֵלּוּ הַגְּדוֹלִים, שֶׁהוּטַל עֲלֵיהֶם טֹרַח עֲבוֹדָתִי מֵעַתָּה. וּמָה רָאָה חָם שֶׁסֵּרְסוֹ? אָמַר לָהֶם לְאֶחָיו אָדָם הָרִאשׁוֹן שְׁנֵי בָנִים הָיוּ לוֹ, וְהָרַג זֶה אֶת זֶה בִּשְׁבִיל יְרֻשַּׁת הָעוֹלָם, וְאָבִינוּ יֵשׁ לוֹ ג' בָּנִים וְעוֹדֶנּוּ מְבַקֵּשׁ בֵּן רְבִיעִי:
 - `ibn-ezra:9:25:1` Ibn Ezra **normative** on 9:25.4 9:25.5 «עֶ֥בֶד עֲבָדִ֖ים» (matched; filed at 9:25) DH «עבד עבדים.»: טעמו עבד כאחד העבדים ואילו היה עבד העבדים היה עבד לעבדים והעד קדש קדשים (ויקרא ו יח) בקדש הקדשים (שמות כו לג),
 - `ibn-ezra:9:25:2` Ibn Ezra **normative** on 9:25.7 «לְאֶחָֽיו׃» (matched-unbolded; filed at 9:25) DH «לאחיו»: וטעם לאחיו לכוש ומצרים ופוט שהם בני אביו וי"א כי הכושים הם עבדים בעבור שקלל נח את חם, והנה שכחו, כי המלך הראשון אחר המבול היה מכוש, וכן כתוב "ותהי ראשית ממלכתו בבל" (בראשית יו"ד י):
 - `radak:9:25:1` Radak on 9:25.1 9:25.2 9:25.3 «וַיֹּ֖אמֶר אָר֣וּר כְּנָ֑עַן» (matched; filed at 9:25) DH «וַיֹּאמֶר אָרוּר כְּנָעַן.»: קִלֵּל כְּנַעַן עַל יְדֵי נְבוּאָה, כִּי נִתְקַיְּמָה בּוֹ קִלְלָתוֹ, וְהָאָבוֹת הָיוּ נִזְהָרִים מִלְּהִתְחַתֵּן בִּכְנַעַן מִפְּנֵי שֶׁהָיָה מְקֻלָּל.
@@ -76,8 +76,8 @@ Hebrew (MAM): וַיֹּ֕אמֶר בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ�
 
 ### Commentary anchored to this verse
 
-- `rashi:9:26:1` Rashi **normative** on 9:26.2 9:26.3 9:26.4 9:26.5 «בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי שֵׁ֑ם» (matched; filed at 9:26) DH «ברוך ה' אלהי שם.»: שֶׁעָתִיד לִשְׁמֹר הַבְטָחָתוֹ לְזַרְעוֹ, לָתֵת לָהֶם אֶת אֶרֶץ כְּנַעַן:
-- `rashi:9:26:2` Rashi **normative** on 9:26.6 «וִיהִ֥י» (matched; filed at 9:26) DH «ויהי.»: לָהֶם כְּנַעַן לְמַס עוֹבֵד:
+- `rashi:9:26:1` Rashi on 9:26.2 9:26.3 9:26.4 9:26.5 «בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי שֵׁ֑ם» (matched; filed at 9:26) DH «ברוך ה' אלהי שם.»: שֶׁעָתִיד לִשְׁמֹר הַבְטָחָתוֹ לְזַרְעוֹ, לָתֵת לָהֶם אֶת אֶרֶץ כְּנַעַן:
+- `rashi:9:26:2` Rashi on 9:26.6 «וִיהִ֥י» (matched; filed at 9:26) DH «ויהי.»: לָהֶם כְּנַעַן לְמַס עוֹבֵד:
 - `ibn-ezra:9:26:1` Ibn Ezra **normative** on 9:26.2 9:26.4 9:26.5 «בָּר֥וּךְ אֱלֹ֣הֵי שֵׁ֑ם» (matched; filed at 9:26) DH «ברוך ד' אלהי שם.»: חייבין אנו להוסיף תודות לשם שהוא אלהי שם והוא ישים כנען עבד לו ולשם והטעם שיכריחנו לעבוד את שם, כי מלת למו כמו להם והוי"ו נוסף כוי"ו תביאמו (שמות טו יז), לכן בחסרון ה"א ובלא וי"ו לא ימצא והזכיר עם שם, השם הנכבד והנורא בעבור כבוד שם, ואין יפת כמוהו, ואמר הגאון כי תחסר מלת אבי, והיה ראוי להיותו ארור אבי כנען, אמר כי כמוהו "לעיני חנמאל דודי" (ירמי' לב ב) שהוא בן דודו ויתכן שהיה גדול מירמיה בשנים, והיה קורא אותו בשם אביו בעבור כבוד האב וכן אשת אחי האב קראה הכתוב "דודתך" (ויקרא יח יד) וזה אבי כנען איננו כן
 - `ramban:9:26:1` Ramban on 9:26.6 9:26.7 9:26.8 9:26.9 «וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃» (matched; filed at 9:26) DH «וִיהִי כְנַעַן עֶבֶד לָמוֹ»: פֵּרֵשׁ רַבִּי אַבְרָהָם (אבן עזרא על בראשית ט':כ"ו) כִּי "לָמוֹ" שֶׁיִּהְיֶה כְּנַעַן עֶבֶד לֵאלֹהִים וּלְשֵׁם כִּי הוּא יַכְרִיחֶנּוּ לַעֲבֹד הָאֵל וּבַשֵּׁנִי פֵּרֵשׁ שֶׁיִּהְיֶה עֶבֶד לְיֶפֶת וּלְשֵׁם וְאִם כֵּן נֹחַ לָקֹב אוֹיְבָיו בָּא וְהִנֵּה בֵּרְכָם בָּרֵךְ שֶׁיִּהְיֶה כְּנַעַן עֶבֶד לֵאלֹהִים וְרַשִׁ"י כָּתַב (רש"י על בראשית ט':כ"ו) בָּרוּךְ ה' אֱלֹהֵי שֵׁם שֶׁעָתִיד לִשְׁמֹר הַבְטָחָתוֹ לְזַרְעוֹ שֶׁל שֵׁם לָתֵת לָהֶם אֶרֶץ כְּנַעַן וִיהִי לָהֶם כְּנַעַן לְמַס עוֹבֵד וְהֶחְזִיר כֵּן פַּעַם אַחֶרֶת לוֹמַר אַף מִשֶּׁיִּגְלוּ בְּנֵי שֵׁם יִמָּכְרוּ לָהֶם עֲבָדִים מִבְּנֵי כְּנַעַן וְהַנָּכוֹן בְּעֵינַי כִּי מִתְּחִלָּה קִלֵּל אוֹתוֹ שֶׁיִּהְיֶה עֶבֶד עֲבָדִים לְכָל הָעוֹלָם וְהָיָה כָּל מוֹצְאוֹ יַעֲבֹד בּוֹ כִּי טַעַם "לְאֶחָיו" לְכָל בְּנֵי אָדָם כְּעִנְיָן וַאֲשַׁלַּח אֶת כָּל הָאָדָם אִישׁ בְּרֵעֵהוּ (זכריה ח י) כְּטַעַם אִישׁ בְּאִישׁ (ישעיהו ג ה) אוֹ "לְאֶחָיו" שֵׁם וְיֶפֶת כִּי אֲחֵי אָבִיו יִקָּרְאוּ אֶחָיו כְּטַעַם כִּי נִשְׁבָּה אָחִיו (בראשית י"ד:י"ד) וְיֵשׁ אוֹמְרִים (הראב"ע והרד"ק) "לְאֶחָיו" בְּנֵי אָבִיו כִּי אַחֲרֵי הֱיוֹתוֹ עֶבֶד לִבְנֵי אָבִיו וּלְשֵׁם וְיֶפֶת הִנֵּה הוּא עֶבֶד לְכָל הָעוֹלָם וּבֵרַךְ תְּחִלָּה אֱלֹהֵי שֵׁם הוֹדִיעוֹ כִּי יִהְיֶה שֵׁם עוֹבֵד הָאֱלֹהִים וּכְנַעַן יִהְיֶה עוֹבֵד לוֹ וְ"לָמוֹ" יִרְמֹז לְזַרְעוֹ שֶׁל שֵׁם שֶׁהֵם רַבִּים וְיִתָּכֵן שֶׁיִּהְיֶה "לָמוֹ" חוֹזֵר גַּם לְאֶחָיו הַנִּזְכָּרִים וְחָזַר וּבֵרַךְ יֶפֶת בְּהַרְחָבַת הַגְּבוּל וְשֵׁם בִּשְׁכֹּן הָאֱלֹהִים בְּאֹהָלָיו וְשֶׁיִּהְיֶה כְּנַעַן עֶבֶד לָמוֹ לִשְׁנֵיהֶם וְ … [cut; full text in the review pack]
 - `radak:9:26:1` Radak on 9:26.1 9:26.2 9:26.3 9:26.4 9:26.5 «וַיֹּ֕אמֶר בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי שֵׁ֑ם» (matched; filed at 9:26) DH «וַיֹּאמֶר בָּרוּךְ ה׳ אֱלֹהֵי שֵׁם.»: אָמַר זֶה בְּדֶרֶךְ נְבוּאָה, וְזָכַר שֵׁם הַמְיֻחָד עִם שֵׁם כִּי רָאָה בְּזֶרַע שֵׁם יִהְיוּ עַם מְיֻחָד עוֹבְדִים הַשֵּׁם מְיֻחָד וְיִקָּרֵא אֱלֹהִים לָהֶם, כְּמוֹ שֶׁאָמַר ״אֱלֹהֵי אַבְרָהָם אֱלֹהֵי יִצְחָק וֵאלֹהֵי יַעֲקֹב״ (שמות ג:ו), וְאָמַר עַל הָעָם בְּיִחוּד ״אֱלֹהֵי יִשְׂרָאֵל״ (שמות ה:א).
@@ -106,9 +106,9 @@ Hebrew (MAM): יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת וְיִשׁ�
 
 ### Commentary anchored to this verse
 
-- `rashi:9:27:1` Rashi **normative** on 9:27.1 9:27.2 9:27.3 «יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת» (matched; filed at 9:27) DH «יפת אלהים ליפת.»: מְתֻרְגָּם יַפְתֵּי, יַרְחִיב:
-- `rashi:9:27:2` Rashi **normative** on 9:27.4 9:27.5 9:27.6 «וְיִשְׁכֹּ֖ן בְּאׇֽהֳלֵי שֵׁ֑ם» (matched; filed at 9:27) DH «וישכן באהלי שם.»: יַשְׁרֶה שְׁכִינָתוֹ בְּיִשְׂרָאֵל. וּמִדְרַשׁ חֲכָמִים אַעַ"פִּ שֶׁיַּפְתְּ אֱלֹהִים לְיֶפֶת – שֶׁבָּנָה כֹּרֶשׁ, שֶׁהָיָה מִבְּנֵי יֶפֶת, בַּיִת שֵׁנִי – לֹא שָׁרְתָה בּוֹ שְׁכִינָה; וְהֵיכָן שָׁרְתָה? בְּמִקְדָשׁ רִאשׁוֹן שֶׁבָּנָה שְׁלֹמֹה שֶׁהָיָה מִבְּנֵי שֵׁם:
-- `rashi:9:27:3` Rashi **normative** on 9:27.7 9:27.8 9:27.9 9:27.10 «וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃» (matched; filed at 9:27) DH «ויהי כנען עבד למו.»: אַף מִשֶּׁיִּגְלוּ בְנֵי שֵׁם יִמָּכְרוּ לָהֶם עֲבָדִים מִבְּנֵי כְּנַעַן:
+- `rashi:9:27:1` Rashi on 9:27.1 9:27.2 9:27.3 «יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת» (matched; filed at 9:27) DH «יפת אלהים ליפת.»: מְתֻרְגָּם יַפְתֵּי, יַרְחִיב:
+- `rashi:9:27:2` Rashi on 9:27.4 9:27.5 9:27.6 «וְיִשְׁכֹּ֖ן בְּאׇֽהֳלֵי שֵׁ֑ם» (matched; filed at 9:27) DH «וישכן באהלי שם.»: יַשְׁרֶה שְׁכִינָתוֹ בְּיִשְׂרָאֵל. וּמִדְרַשׁ חֲכָמִים אַעַ"פִּ שֶׁיַּפְתְּ אֱלֹהִים לְיֶפֶת – שֶׁבָּנָה כֹּרֶשׁ, שֶׁהָיָה מִבְּנֵי יֶפֶת, בַּיִת שֵׁנִי – לֹא שָׁרְתָה בּוֹ שְׁכִינָה; וְהֵיכָן שָׁרְתָה? בְּמִקְדָשׁ רִאשׁוֹן שֶׁבָּנָה שְׁלֹמֹה שֶׁהָיָה מִבְּנֵי שֵׁם:
+- `rashi:9:27:3` Rashi on 9:27.7 9:27.8 9:27.9 9:27.10 «וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃» (matched; filed at 9:27) DH «ויהי כנען עבד למו.»: אַף מִשֶּׁיִּגְלוּ בְנֵי שֵׁם יִמָּכְרוּ לָהֶם עֲבָדִים מִבְּנֵי כְּנַעַן:
 - `ibn-ezra:9:27:1` Ibn Ezra **normative** on 9:27.1 «יַ֤פְתְּ» (matched-unbolded; filed at 9:27) DH «ופי' יפת»: ופי' יפת מן יפה, ולא פי' יפה רק הוא כמו "ירחיב" (דבר' יב כ) ובלשון ארמית כמוהו והוא מהבנין הכבד הנוסף כמו "ומלכים יַרד" (ישעי' מא ב) ובפסוק הזה ברך יפת, גם שם, כי פירוש "וישכון באהלי שם" שישכון אלהים באהלי שם כי בפסוק הראשון ברך השם:
 - `ibn-ezra:9:27:2` Ibn Ezra **normative** on 9:27.7 9:27.8 9:27.9 9:27.10 «וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ׃» (matched; filed at 9:27) DH «ויהי כנען עבד למו.»: לשם וליפת גם לאחיו, והנה הוא עבד עולם, כי מאלה נפצה כל הארץ, וזה הדבר היה אחר שנים רבות אחר המבול:
 - `radak:9:27:1` Radak on 9:27.1 9:27.2 9:27.3 «יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת» (matched; filed at 9:27) DH «יַפְתְּ אֱלֹהִים לְיֶפֶת.»: מְתַרְגְּמִין: ״יַרְחִיב״. יַפְתְּ שָׁרְשׁוֹ פת״ה מִבִּנְיַן הַפְעִיל בְּשֶׁקֶל ״וּמְלָכִים יַרְדְּ״ (ישעיהו מא:ב). אָמַר, הָאֱלֹהִים יַרְחִיב אֶת גְּבוּלוֹ וּבִרְכָתוֹ, אַף עַל פִּי כֵן מִשְׁכַּן כְּבוֹדוֹ לֹא יִהְיֶה אֶלָּא בְּאָהֳלֵי־שֵׁם, וְהוּא רֶמֶז לְיִשְׂרָאֵל שֶׁהָיוּ מִזֶּרַע שֵׁם. וְשָׁכַן כְּבוֹד הָאֵל בֵּינֵיהֶם בַּמִּדְבָּר וּבְאֶרֶץ יִשְׂרָאֵל כְּמוֹ שֶׁאָמַר (שמות כט:מה) ״וְשָׁכַנְתִּי בְּתוֹךְ בְּנֵי יִשְׂרָאֵל״, וְאָמַר מֹשֶׁה רַבֵּנוּ (שמות לג:טז) ״וְנִפְלִינוּ אֲנִי וְעַמְּךָ מִכָּל הָעָם״.
@@ -175,13 +175,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.ck.ab` אָח (n.m) root אחה: brother
 - `1` brother
+- `2` brother — indef. = relative
+- `3` brother — fig. of resemblance
 - `4` one … another
 
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.dl.ad` אֱלֹהִים (n.m.pl) root אלה: gods
@@ -189,9 +193,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
@@ -219,9 +226,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.dd.aa` בָּרַךְ (vb) root ברך: kneel, bless
 - `Qal 1` Qal kneel down
@@ -240,24 +250,37 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithp` Hithp bless oneself
 
 ### `bdb:e.az.ae` יהוה (n.pr.dei) root הוה: Yahweh, the one bringing into being, life-giver
+- `I` Yahweh, the one bringing into being, life-giver — יהוה is not used by E in Gn, but is given Ex 3:12-15 as the name of the God who revealed Himself to Moses at Horeb
+- `II.1` Yahweh, the one bringing into being, life-giver — יהוה is used with אלהים and suffixes, especially in D
+- `II.2` Yahweh, the one bringing into being, life-giver — the phrase † אֲנִי יהוה is noteworthy
+- `II.3` Yahweh, the one bringing into being, life-giver — יהוה is also used with several predicates, to form sacred names of holy places of Yahweh
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:h.cd.aa` חָיָה (vb) root חיה: live
 - `Qal 1` Qal live
@@ -301,6 +324,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bk.ab` יַ֫יִן (n.m) root יין: wine
 
@@ -309,11 +333,19 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:k.cd.ac` כְּנַ֫עַן (n.pr.m): Canaan
+- `1` Canaan — as n. pr. m., son of Ham
+- `2.a` Canaan — land, W. of Jordan, into wh. Hebrews came, and where they settled, subduing the inhabitants
+- `2.b` Canaan — the coast, esp. Phoenicia
 
 ### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `1` hundred — as simple number
+- `2` hundred — as part of larger number
 - `3` hundredth
 
 ### `bdb:m.ai.ag` מַבּוּל (n.m): flood
@@ -322,6 +354,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1` Qal die
 - `Qal 2` Qal die, be put to death
 - `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
 - `Hoph` Hoph be killed, put to death
 
 ### `bdb:n.by.af` נֹחַ (n.pr.m) root נוח: Noah
@@ -333,6 +369,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` Servant
 - `5` servant
 - `6` thy servant, I
+- `7` slave, servant — Phrases
 
 ### `bdb:p.fy.aa` עָשָׂה (vb) root עשׂה: do, make
 - `Qal I.1` Qal do

@@ -59,7 +59,7 @@ Hebrew (MAM): וּמוֹרַאֲכֶ֤ם וְחִתְּכֶם֙ יִֽהְיֶ֔
 
 ### Commentary anchored to this verse
 
-- `rashi:9:2:1` Rashi **normative** on 9:2.2 «וְחִתְּכֶם֙» (matched; filed at 9:2) DH «וחתכם.»: וְאֵימַתְכֶם, כְּמוֹ תִּרְאוּ חֲתַת (איוב ו') וְאַגָּדָה לְשׁוֹן חַיּוּת שֶׁכָּל זְמַן שֶׁתִּינוֹק בֶּן יוֹמוֹ חַי אֵין אַתָּה צָרִיךְ לְשָׁמְרוֹ מִן הָעַכְבָּרִים; עוֹג מֶלֶךְ הַבָּשָׁן מֵת, צָרִיךְ לְשָׁמְרוֹ מִן הָעַכְבָּרִים, שֶׁנֶּאֱמַר וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה, אֵימָתַי יִהְיֶה מוֹרַאֲכֶם עַל הַחַיּוֹת? כָּל זְמַן שֶׁאַתֶּם חַיִּים (שבת קנ"א):
+- `rashi:9:2:1` Rashi on 9:2.2 «וְחִתְּכֶם֙» (matched; filed at 9:2) DH «וחתכם.»: וְאֵימַתְכֶם, כְּמוֹ תִּרְאוּ חֲתַת (איוב ו') וְאַגָּדָה לְשׁוֹן חַיּוּת שֶׁכָּל זְמַן שֶׁתִּינוֹק בֶּן יוֹמוֹ חַי אֵין אַתָּה צָרִיךְ לְשָׁמְרוֹ מִן הָעַכְבָּרִים; עוֹג מֶלֶךְ הַבָּשָׁן מֵת, צָרִיךְ לְשָׁמְרוֹ מִן הָעַכְבָּרִים, שֶׁנֶּאֱמַר וּמוֹרַאֲכֶם וְחִתְּכֶם יִהְיֶה, אֵימָתַי יִהְיֶה מוֹרַאֲכֶם עַל הַחַיּוֹת? כָּל זְמַן שֶׁאַתֶּם חַיִּים (שבת קנ"א):
 - `ibn-ezra:9:2:1` Ibn Ezra **normative** on 9:2.2 «וְחִתְּכֶם֙» (matched; filed at 9:2) DH «וחתכם.»: מפעלי הכפל מגזרת "תראו חתת" (איוב ו כא) כמו חתתכם:
 - `ibn-ezra:9:2:2` Ibn Ezra **normative** on 9:2.12 9:2.13 9:2.14 9:2.15 «בְּכֹל֩ אֲשֶׁ֨ר תִּרְמֹ֧שׂ הָֽאֲדָמָ֛ה» (matched; filed at 9:2) DH «בכל אשר תרמש האדמה.»: הטעם על האדמה או תהיה האדמה פועלת:
 - `ibn-ezra:9:2:3` Ibn Ezra **normative** on 9:2.19 9:2.20 «בְּיֶדְכֶ֥ם נִתָּֽנוּ׃» (matched; filed at 9:2) DH «בידכם נתנו.»: כי בידכם
@@ -101,7 +101,7 @@ Hebrew (MAM): כׇּל־רֶ֙מֶשׂ֙ אֲשֶׁ֣ר הוּא־חַ֔י לָ�
 
 ### Commentary anchored to this verse
 
-- `rashi:9:3:1` Rashi **normative** on 9:3.6 9:3.7 9:3.8 «לָכֶ֥ם יִהְיֶ֖ה לְאׇכְלָ֑ה» (matched; filed at 9:3) DH «לכם יהיה לאכלה.»: שֶׁלֹּא הִרְשֵׁיתִי לְאָדָם הָרִאשׁוֹן בָּשָׂר אֶלָּא יֶרֶק עֵשֶׂב; וְלָכֶם – כְּיֶרֶק עֵשֶׂב שֶׁהִפְקַרְתִּי לְאָדָם הָרִאשׁוֹן, נָתַתִּי לָכֶם אֶת כֹּל (סנה' נ"ט):
+- `rashi:9:3:1` Rashi on 9:3.6 9:3.7 9:3.8 «לָכֶ֥ם יִהְיֶ֖ה לְאׇכְלָ֑ה» (matched; filed at 9:3) DH «לכם יהיה לאכלה.»: שֶׁלֹּא הִרְשֵׁיתִי לְאָדָם הָרִאשׁוֹן בָּשָׂר אֶלָּא יֶרֶק עֵשֶׂב; וְלָכֶם – כְּיֶרֶק עֵשֶׂב שֶׁהִפְקַרְתִּי לְאָדָם הָרִאשׁוֹן, נָתַתִּי לָכֶם אֶת כֹּל (סנה' נ"ט):
 - `ibn-ezra:9:3:1` Ibn Ezra **normative** on 9:3.1 9:3.2 «כׇּל רֶ֙מֶשׂ֙» (matched; filed at 9:3) DH «כל רמש.»: שם כלל לחית השדה ולבהמות הישוב ולכל עוף ולכל דג, והנה הכל מותר לאכילה,
 - `ibn-ezra:9:3:2` Ibn Ezra **normative** on 9:3.9 «כְּיֶ֣רֶק» (matched-unbolded; filed at 9:3) DH «כיֶרֶק»: כיֶרֶק על שני משקלים וכן "תנור עָשָן" (בראשית טו יז) כעֶשֶן הכבשן (שמות יט יח):
 - `ramban:9:3:1` Ramban on 9:3.1 9:3.2 9:3.3 9:3.4 9:3.5 «כׇּל רֶ֙מֶשׂ֙ אֲשֶׁ֣ר הוּא חַ֔י» (matched; filed at 9:3) DH «כָּל רֶמֶשׂ אֲשֶׁר הוּא חַי»: יִרְמֹז לַבְּהֵמָה וְלַחַיָּה וְלָעוֹף וְגַם לִדְגֵי הַיָּם, כִּי כֻּלָּם נִקְרָאִים רֶמֶשׂ, כְּדִכְתִיב (בראשית א':כ"א) "כָל נֶפֶשׁ הַחַיָּה הָרֹמֶשֶׂת אֲשֶׁר שָׁרְצוּ הַמַּיִם":
@@ -128,9 +128,9 @@ Hebrew (MAM): אַךְ־בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ �
 
 ### Commentary anchored to this verse
 
-- `rashi:9:4:1` Rashi **normative** on 9:4.2 9:4.3 «בָּשָׂ֕ר בְּנַפְשׁ֥וֹ» (matched; filed at 9:4) DH «בשר בנפשו.»: אָסַר לָהֶם אֵבֶר מִן הַחַי, כְּלוֹמַר כָּל זְמַן שֶׁנַּפְשׁוֹ בּוֹ, לֹא תֹאכְלוּ הַבָּשָׂר:
-- `rashi:9:4:2` Rashi **normative** on 9:4.3 9:4.4 «בְּנַפְשׁ֥וֹ דָמ֖וֹ» (matched; filed at 9:4) DH «בנפשו דמו.»: בְעוֹד נַפְשׁוֹ בּוֹ
-- `rashi:9:4:3` Rashi **normative** on 9:4.2 9:4.3 9:4.5 9:4.6 «בָּשָׂ֕ר בְּנַפְשׁ֥וֹ לֹ֥א תֹאכֵֽלוּ׃» (matched; filed at 9:4) DH «בשר בנפשו לא תאכלו.»: הֲרֵי אֵבֶר מִן הַחַי, וְאַף בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ, הֲרֵי דָם מִן הַחַי:
+- `rashi:9:4:1` Rashi on 9:4.2 9:4.3 «בָּשָׂ֕ר בְּנַפְשׁ֥וֹ» (matched; filed at 9:4) DH «בשר בנפשו.»: אָסַר לָהֶם אֵבֶר מִן הַחַי, כְּלוֹמַר כָּל זְמַן שֶׁנַּפְשׁוֹ בּוֹ, לֹא תֹאכְלוּ הַבָּשָׂר:
+- `rashi:9:4:2` Rashi on 9:4.3 9:4.4 «בְּנַפְשׁ֥וֹ דָמ֖וֹ» (matched; filed at 9:4) DH «בנפשו דמו.»: בְעוֹד נַפְשׁוֹ בּוֹ
+- `rashi:9:4:3` Rashi on 9:4.2 9:4.3 9:4.5 9:4.6 «בָּשָׂ֕ר בְּנַפְשׁ֥וֹ לֹ֥א תֹאכֵֽלוּ׃» (matched; filed at 9:4) DH «בשר בנפשו לא תאכלו.»: הֲרֵי אֵבֶר מִן הַחַי, וְאַף בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ, הֲרֵי דָם מִן הַחַי:
 - `ibn-ezra:9:4:1` Ibn Ezra **normative** on 9:4.1 9:4.2 9:4.3 9:4.4 «אַךְ בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ» (matched; filed at 9:4) DH «אך בשר בנפשו דמו.»: כן טעמו אך בשר עם נפשו שהוא דמו לא תאכלו, כטעם לא תאכל הנפש עם הבשר (דבר' יב כג) כי נפש כל בשר דמו כנפשו הוא וזאת הנפש המתנועעת והמרגשת היא הגוף:
 - `ramban:9:4:1` Ramban on 9:4.1 9:4.2 9:4.3 9:4.4 «אַךְ בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ» (matched; filed at 9:4) DH «אַךְ בָּשָׂר בְּנַפְשׁוֹ דָמוֹ»: כָּתַב רַשִׁ"י (רש"י על בראשית ט':ד') בְּעוֹד נַפְשׁוֹ בּוֹ, בָּשָׂר בְּנַפְשׁוֹ לֹא תֹּאכֵלוּ, הֲרֵי אֵבֶר מִן הַחַי, וְאַף דָּם לֹא תֹאכֵלוּ, הֲרֵי דָם מִן הַחַי. אִם כֵּן יֹאמַר בָּשָׂר בְּנַפְשׁוֹ וְדָמוֹ לֹא תֹאכְלוּ, וְזֶה כְּפִי הַפְּשָׁט אֵינֶנּוּ נָכוֹן, וּלְפִי הַמִּדְרָשׁ אֵינֶנּוּ אֱמֶת, שֶׁלֹּא נִצְטַוּוּ בְּנֵי נֹחַ אֶלָּא עַל אֵבֶר מִן הַחַי כְּדִבְרֵי חֲכָמִים (סנהדרין נט), לֹא עַל דָּם מִן הַחַי כְּדִבְרֵי רַבִּי חֲנִינָא בֶּן גַּמְלִיאֵל (שם). אֲבָל פֵּרוּשׁוֹ אַךְ בָּשָׂר בְּנַפְשׁוֹ שֶׁהִיא דָּמוֹ לֹא תֹאכֵלוּ, כִּי נֶפֶשׁ כָּל בָּשָׂר דָּמוֹ הִוא:
 - `radak:9:4:1` Radak on 9:4.1 9:4.2 «אַךְ בָּשָׂ֕ר» (matched; filed at 9:4) DH «אַךְ־בָּשָׂר.»: אַף עַל פִּי שֶׁנָּתַתִּי לָכֶם כָּל בָּשָׂר רֶמֶשׂ לֶאֱכֹל, לֹא תֹאכְלוּ אוֹתוֹ עִם נַפְשׁוֹ שֶׁהוּא דָמוֹ, כְּלוֹמַר כָּל זְמַן שֶׁהַבָּשָׂר עִם הַנֶּפֶשׁ וְהוּא בְּעוֹדוֹ חַי, אֶלָּא קֹדֶם תִּזְבָּחוּהוּ וְאַחַר כָּךְ תֹּאכְלוּהוּ, כִּי זֶה דֶּרֶךְ אַכְזָרִיּוּת לַחְתֹּךְ בָּשָׂר מִן הַחַי וּלְאָכְלוֹ. וְנִרְאֶה כִּי לְפִיכָךְ הִתִּיר הַבָּשָׂר לְנֹחַ, לְפִי שֶׁטָּרַח בַּבְּהֵמָה וּבַחַיָּה וּבָרֶמֶשׂ וּבָעוֹף לְהַחֲיוֹת אוֹתָם בַּתֵּבָה, כִּי לְצֹרֶךְ הָאָדָם נִבְרְאוּ בֵּין לִמְלַאכְתּוֹ בֵּין לַאֲכִילָתוֹ, אֶלָּא שֶׁלֹּא הֻתַּר לַהֲמִיתָם וּלְאָכְלָם עַד נֹחַ לְפִי שֶׁטָּרַח בָּהֶם.
@@ -167,11 +167,11 @@ Hebrew (MAM): וְאַ֨ךְ אֶת־דִּמְכֶ֤ם לְנַפְשֹֽׁתֵ
 
 ### Commentary anchored to this verse
 
-- `rashi:9:5:1` Rashi **normative** on 9:5.1 9:5.2 9:5.3 «וְאַ֨ךְ אֶת דִּמְכֶ֤ם» (matched; filed at 9:5) DH «ואך את דמכם.»: אַעַ"פִּ שֶׁהִתַּרְתִּי לָכֶם נְטִילַת נְשָׁמָה בַּבְּהֵמָה, אֶת דִּמְכֶם אֶדְרֹשׁ מֵהַשּׁוֹפֵךְ דַּם עַצְמוֹ:
-- `rashi:9:5:2` Rashi **normative** on 9:5.4 «לְנַפְשֹֽׁתֵיכֶם֙» (matched; filed at 9:5) DH «לנפשתיכם.»: אַף הַחוֹנֵק עַצְמוֹ, אַף עַל פִּי שֶׁלֹּא יָצָא מִמֶּנּוּ דָם:
-- `rashi:9:5:3` Rashi **normative** on 9:5.6 9:5.7 9:5.8 «מִיַּ֥ד כׇּל חַיָּ֖ה» (matched; filed at 9:5) DH «מיד כל חיה.»: לְפִי שֶׁחָטְאוּ דוֹר הַמַּבּוּל וְהֻפְקְרוּ לְמַאֲכַל חַיּוֹת רָעוֹת לִשְׁלֹט בָּהֶן, שֶׁנֶּאֱמַר נִמְשַׁל כַּבְּהֵמוֹת נִדְמוּ (תהלים מ"ט), לְפִיכָךְ הֻצְרַךְ לְהַזְהִיר עֲלֵיהֶן אֶת הַחַיּוֹת:
-- `rashi:9:5:4` Rashi **normative** on 9:5.10 9:5.11 «וּמִיַּ֣ד הָֽאָדָ֗ם» (matched; filed at 9:5) DH «ומיד האדם.»: מִיַּד הַהוֹרֵג בְּמֵזִיד וְאֵין עֵדִים, אֲנִי אֶדְרֹשׁ:
-- `rashi:9:5:5` Rashi **normative** on 9:5.12 9:5.13 9:5.14 «מִיַּד֙ אִ֣ישׁ אָחִ֔יו» (matched; filed at 9:5) DH «מיד איש אחיו.»: שֶׁהוּא אוֹהֵב לוֹ כְאָח וְהָרַג שׁוֹגֵג, אֲנִי אֶדְרֹשׁ אִם לֹא יִגְלֶה וִיבַקֵּשׁ עַל עֲוֹנוֹ לִמָּחֵל, שֶׁאַף הַשּׁוֹגֵג צָרִיךְ כַּפָּרָה, וְאִם אֵין עֵדִים לְחַיְּבוֹ גָלוּת וְהוּא אֵינוֹ נִכְנָע, הַקָּבָּ"ה דוֹרֵש מִמֶּנוּ, כְּמוֹ שֶׁדָּרְשוּ רַבּוֹתֵינוּ "וְהָאֱלֹהִים אִנָּה לְיָדוֹ" – בְּמַסֶּכֶת מַכּוֹת – הַקָּבָּ"ה מְזַמְּנָן לְפֻנְדָּק אֶחָד וְכוּ':
+- `rashi:9:5:1` Rashi on 9:5.1 9:5.2 9:5.3 «וְאַ֨ךְ אֶת דִּמְכֶ֤ם» (matched; filed at 9:5) DH «ואך את דמכם.»: אַעַ"פִּ שֶׁהִתַּרְתִּי לָכֶם נְטִילַת נְשָׁמָה בַּבְּהֵמָה, אֶת דִּמְכֶם אֶדְרֹשׁ מֵהַשּׁוֹפֵךְ דַּם עַצְמוֹ:
+- `rashi:9:5:2` Rashi on 9:5.4 «לְנַפְשֹֽׁתֵיכֶם֙» (matched; filed at 9:5) DH «לנפשתיכם.»: אַף הַחוֹנֵק עַצְמוֹ, אַף עַל פִּי שֶׁלֹּא יָצָא מִמֶּנּוּ דָם:
+- `rashi:9:5:3` Rashi on 9:5.6 9:5.7 9:5.8 «מִיַּ֥ד כׇּל חַיָּ֖ה» (matched; filed at 9:5) DH «מיד כל חיה.»: לְפִי שֶׁחָטְאוּ דוֹר הַמַּבּוּל וְהֻפְקְרוּ לְמַאֲכַל חַיּוֹת רָעוֹת לִשְׁלֹט בָּהֶן, שֶׁנֶּאֱמַר נִמְשַׁל כַּבְּהֵמוֹת נִדְמוּ (תהלים מ"ט), לְפִיכָךְ הֻצְרַךְ לְהַזְהִיר עֲלֵיהֶן אֶת הַחַיּוֹת:
+- `rashi:9:5:4` Rashi on 9:5.10 9:5.11 «וּמִיַּ֣ד הָֽאָדָ֗ם» (matched; filed at 9:5) DH «ומיד האדם.»: מִיַּד הַהוֹרֵג בְּמֵזִיד וְאֵין עֵדִים, אֲנִי אֶדְרֹשׁ:
+- `rashi:9:5:5` Rashi on 9:5.12 9:5.13 9:5.14 «מִיַּד֙ אִ֣ישׁ אָחִ֔יו» (matched; filed at 9:5) DH «מיד איש אחיו.»: שֶׁהוּא אוֹהֵב לוֹ כְאָח וְהָרַג שׁוֹגֵג, אֲנִי אֶדְרֹשׁ אִם לֹא יִגְלֶה וִיבַקֵּשׁ עַל עֲוֹנוֹ לִמָּחֵל, שֶׁאַף הַשּׁוֹגֵג צָרִיךְ כַּפָּרָה, וְאִם אֵין עֵדִים לְחַיְּבוֹ גָלוּת וְהוּא אֵינוֹ נִכְנָע, הַקָּבָּ"ה דוֹרֵש מִמֶּנוּ, כְּמוֹ שֶׁדָּרְשוּ רַבּוֹתֵינוּ "וְהָאֱלֹהִים אִנָּה לְיָדוֹ" – בְּמַסֶּכֶת מַכּוֹת – הַקָּבָּ"ה מְזַמְּנָן לְפֻנְדָּק אֶחָד וְכוּ':
 - `ibn-ezra:9:5:1` Ibn Ezra **normative** on 9:5.1 9:5.2 9:5.3 «וְאַ֨ךְ אֶת דִּמְכֶ֤ם» (matched; filed at 9:5) DH «ואך את דמכם.»: פירושו התרתי לכם לשפוך דם כל חי זולתי דמכם של נפשותיכם שאתם אדם לא התרתי רק אדרשנו כטעם דורש דמים וזה כלל, ואחר כן ביאר ומיד האדם, אם יהרגו רבים את יחיד, או יחיד את יחיד אני אדרוש הדם, גם אדרשנו מיד כל חיה שאצוה לאחרת שיהרגנה והנה החיות מותרות לכם ולא אתם להן והמפרש דמכם לנפשותיכם זה ההורג נפשו הוא דחוק בעיני, והוסיף לבאר או היא מצוה לבני נח, והוא הישר להרוג ההורג
 - `ramban:9:5:1` Ramban on 9:5.3 9:5.4 «דִּמְכֶ֤ם לְנַפְשֹֽׁתֵיכֶם֙» (matched; filed at 9:5) DH «דִּמְכֶם לְנַפְשֹׁתֵיכֶם»: דִּמְכֶם נַפְשׁוֹתֵיכֶם, כְּלוֹמַר דִּמְכֶם שֶׁהוּא נַפְשׁוֹתֵיכֶם, כְּדֶרֶךְ "לְכֹל כְּלֵי הַמִּשְׁכָּן" (שמות כז יט), וְכֵן "הַשְּׁלִישִׁי לְאַבְשָׁלוֹם" (דהי"א ג ב). וְיֵשׁ לְפָרֵשׁ אֶת דִּמְכֶם לְנַפְשֹׁתֵיכֶם, בְּנַפְשׁוֹתֵיכֶם, כִּי נֶפֶשׁ כָּל בָּשָׂר דָּמוֹ בְנַפְשׁוֹ הוּא (ויקרא יז יד), וְכָמוֹהוּ "וְכָל דָּם לֹא תֹאכְלוּ בְּכֹל מוֹשְׁבֹתֵיכֶם לָעוֹף וְלַבְּהֵמָה" (שם ז כו), פִּתְרוֹנוֹ בָּעוֹף אוֹ בַּבְּהֵמָה. וְהַנָּכוֹן שֶׁיֹּאמַר הַדָּם שֶׁהוּא לְנֶפֶשׁ בָּכֶם אֶדְרוֹשׁ, הִגִּיד כִּי הַדָּם הוּא הַנָּפֶשׁ, וְרָמַז כִּי עַל שׁוֹפֵךְ הַנֶּפֶשׁ הוּא מְחַיֵּב מִיתָה, לֹא עַל דַּם הָאֵבָרִים שֶׁאֵין הַנְּשָׁמָה תְּלוּיָה בָּהֶם. וְרַבּוֹתֵינוּ (ב"ק צא) דָּרְשׁוּ בּוֹ הוֹרֵג אֶת עַצְמוֹ, אֶת דִּמְכֶם מִנַּפְשׁוֹתֵיכֶם אֶדְרֹשׁ:
 - `ramban:9:5:2` Ramban on 9:5.6 9:5.7 9:5.8 9:5.9 «מִיַּ֥ד כׇּל חַיָּ֖ה אֶדְרְשֶׁ֑נּוּ» (matched; filed at 9:5) DH «מִיַּד כָּל חַיָּה אֶדְרְשֶׁנּוּ»: תָּמֵהַּ אֲנִי אִם הַדְּרִישָׁה כְּמַשְׁמָעָהּ, מִיַּד הַחַיָּה כְּמוֹ מִיַּד הָאָדָם לִהְיוֹת עֹנֶשׁ בַּדָּבָר, וְאֵין בַּחַיָּה דַּעַת שֶׁתֵּעָנֵשׁ אוֹ שֶׁתְּקַבֵּל שָׂכָר. וְאוּלַי יִהְיֶה כֵן בְּעִנְיַן דַּם הָאָדָם לְבַדּוֹ, שֶׁכָּל הַחַיָּה שֶׁתִּטְרֹף אוֹתוֹ תִּטָּרֵף, כִּי גְּזֵרַת מֶלֶךְ הִיא. וְזֶה טַעַם "סָקוֹל יִסָּקֵל הַשּׁוֹר וְלֹא יֵאָכֵל אֶת בְּשָׂרוֹ" (שמות כא כח), וְאֵינֶנּוּ לְהַעֲנִישׁ אֶת בְּעָלָיו בְּמָמוֹן, כִּי אֲפִלּוּ שׁוֹר הַמִּדְבָּר חַיָּב מִיתָה (ב"ק מד), וְצִוָּה כֵן בִּבְנֵי נֹחַ כִּבְיִשְׂרָאֵל. וְיִהְיֶה טַעַם "שׁוֹפֵךְ דַּם הָאָדָם" כָּל שׁוֹפֵךְ, בֵּין חַיָּה בֵּין אָדָם, וְהִנֵּה דָּמוֹ נִדְרָשׁ בְּבֵית דִּין וּבִידֵי שָׁמַיִם. וְיִתָּכֵן שֶׁיִּהְיֶה טַעַם "מִיַּד כָּל חַיָּה", שֶׁתִּהְיֶה הַנְּקָמָה בְּשׁוֹפֵךְ הַדָּם מִיַּד כָּל חַיָּה, כְּמוֹ "כִּי לָקְחָה מִיַּד ה' כִּפְלַיִם בְּכָל חַטֹּאתֶיהָ" (ישעיהו מ ב), וְאָמַר אַךְ דִּמְכֶם אֶדְרֹשׁ וְאֶנְקֹם אוֹתוֹ בְּיָד כָּל חַיָּה, כִּי אֶשְׁלַח בָּרוֹצֵחַ כָּל חַיַּת הָאָרֶץ וְאֶשְׁלַח בּוֹ גַּם הָאָדָם וְלֹא יִנָּצֵל מִיָּדָם. וְכָמוֹהוּ "מִכָּל צֹרְרַי הָיִיתִי חֶרְפָּה" (תהלים לא יב), מִיָּדָם, "זֶה חֵלֶק אָדָם רָשָׁע מֵאֱלֹהִים וְנַחֲלַת אִמְרוֹ מֵאֵל" (איוב כ כט). וְאוּלַי הַדְּרִישָׁה מִיַּד הַחַיָּה הִיא שֶׁלֹּא תִּטְרֹף הָאָדָם, כִּי כֵן שָׂם בְּטִבְעָם. וְסוֹד הָעִנְיָן כִּי בְּעֵת הַיְּצִירָה נָתַן לָאָדָם אֶת כָּל עֵשֶׂב זֹרֵעַ זֶרַע וְאֶת כָּל הָעֵץ אֲשֶׁר בּוֹ פְרִי עֵץ לְאָכְלָה, וְנָתַן לַחַיָּה אֶת כָּל יֶרֶק עֵשֶׂב לְאָכְלָה, וְאָמַר הַכָּתוּב (בראשית א':ל') "וַיְהִי כֵן",  … [cut; full text in the review pack]
@@ -210,8 +210,8 @@ Hebrew (MAM): שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖�
 
 ### Commentary anchored to this verse
 
-- `rashi:9:6:1` Rashi **normative** on 9:6.4 9:6.5 9:6.6 «בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ» (matched; filed at 9:6) DH «באדם דמו ישפך.»: אִם יֵשׁ עֵדִים הֲמִיתוּהוּ אַתֶּם, לָמָּה? כִּי בְצֶלֶם אֱלֹהִים וגו':
-- `rashi:9:6:2` Rashi **normative** on 9:6.10 9:6.11 9:6.12 «עָשָׂ֖ה אֶת הָאָדָֽם׃» (matched; filed at 9:6) DH «עשה את האדם.»: זֶה מִקְרָא חָסֵר, וְצָרִיךְ לִהְיוֹת עָשָׂה הָעוֹשֶׂה אֶת הָאָדָם וְכֵן הַרְבֵּה בַּמִּקְרָא:
+- `rashi:9:6:1` Rashi on 9:6.4 9:6.5 9:6.6 «בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ» (matched; filed at 9:6) DH «באדם דמו ישפך.»: אִם יֵשׁ עֵדִים הֲמִיתוּהוּ אַתֶּם, לָמָּה? כִּי בְצֶלֶם אֱלֹהִים וגו':
+- `rashi:9:6:2` Rashi on 9:6.10 9:6.11 9:6.12 «עָשָׂ֖ה אֶת הָאָדָֽם׃» (matched; filed at 9:6) DH «עשה את האדם.»: זֶה מִקְרָא חָסֵר, וְצָרִיךְ לִהְיוֹת עָשָׂה הָעוֹשֶׂה אֶת הָאָדָם וְכֵן הַרְבֵּה בַּמִּקְרָא:
 - `ibn-ezra:9:6:1` Ibn Ezra **normative** on 9:6.4 «בָּֽאָדָ֖ם» (matched-unbolded; filed at 9:6) DH «באדם»: וטעם באדם בעדים או לעיני הכל או בעבור האדם שנשפך דמו וכמוהו רבים:
 - `radak:9:6:1` Radak on 9:6.1 9:6.2 9:6.3 9:6.4 9:6.5 9:6.6 «שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ» (matched; filed at 9:6) DH «שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ.»: אֲנִי אֶדְרֹשׁ דַּם הֶהָרוּג אִם אֵין עֵדִים, אֲבָל אִם יֵשׁ עֵדִים, עַל הַשּׁוֹפְטִים לַהֲרֹג הַהוֹרֵג כְּמוֹ שֶׁיִּרְאוּ מִן הַדִּין, זֶהוּ בָּאָדָם, עַל יְדֵי הַדַּיָּנִים.
 - `radak:9:6:2` Radak on 9:6.7 9:6.8 9:6.9 9:6.10 9:6.11 9:6.12 «כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת הָאָדָֽם׃» (matched; filed at 9:6) DH «כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת־הָאָדָם.»: כִּי הוּא נִכְבָּד מִכָּל הַנִּבְרָאִים הַשְּׁפָלִים עַד שֶׁהָאֵל בְּרָאוֹ בְּצַלְמוֹ בַּשֵּׂכֶל שֶׁנָּתַן בּוֹ, לְפִיכָךְ יֵשׁ לִשְׁאָר הַנִּבְרָאִים שֶׁיִּרְאוּ מִמֶּנּוּ, וְגַם אִישׁ אֶת אָחִיו שֶׁלֹּא יַשְׁחִית גּוּפוֹ וְצַלְמוֹ, כִּי אִם יַהַרְגֵהוּ הִנֵּה הִשְׁחִית מַעֲשֵׂה הָאֵל, הַנִּכְבָּד שֶׁבַּשְּׁפָלִים, וְהוּא עָשָׂה אוֹתוֹ בְּצַלְמוֹ וְהוּא הִשְׁחִיתוֹ, הִנֵּה עָשָׂה זֶה כְּנֶגֶד הָאֵל לְבַטֵּל מַעֲשָׂיו. וְאַף בַּפְּחוּתִים מִן הָאָדָם לֹא הָיָה רְשׁוּת לְאָדָם לְהַשְׁחִיתָם עַד שֶׁצִּוָּה הָאֵל לְנֹחַ, וְגַם בַּצּוֹמֵחַ שֶׁהוּא פָּחוּת מִן הַחַי הָיָה צָרִיךְ מִצְוַת הָאֵל לְהַתִּירָם לְאָדָם וּלְחַוָּה כְּמוֹ שֶׁאָמַר ״הִנֵּה נָתַתִּי לָכֶם אֶת כָּל עֵשֶׂב״ (בראשית א:כט). וְכֵן צִוָּה הָאֵל לִשְׁפֹּךְ דַּם הָאָדָם לְחֶטְאוֹ, כְּמוֹ שֶׁצִּוָּה בְּתוֹרַת מֹשֶׁה, וְזֶה בָּרְאוּיִם לְעֹנֶשׁ מִיתָה לְפִי חֶטְאָם, כָּל חוֹטֵא כָּרָאוּי לוֹ, לְפִי שֶׁהוּא הִשְׁחִית צַלְמוֹ תְּחִלָּה בְּעָבְרוֹ מִצְוַת הָאֵל, וְהִנֵּה אֵין צֶלֶם אֱלֹהִים וְשֵׂכֶל לְעוֹבֵר, כִּי הַשֵּׂכֶל יִגְזֹר שֶׁיִּשְׁמֹר הָעֶבֶד מִצְוַת אֲדוֹנָיו גַּם שִׂכְלוֹ יִמְנַע אוֹתוֹ הַחֵטְא כָּל שֶׁכֵּן כְּשֶׁהוּא מִצְוַת הָאָדוֹן.
@@ -239,7 +239,7 @@ Paragraph mark after this verse: ס
 
 ### Commentary anchored to this verse
 
-- `rashi:9:7:1` Rashi **normative** on 9:7.1 9:7.2 9:7.3 «וְאַתֶּ֖ם פְּר֣וּ וּרְב֑וּ» (matched; filed at 9:7) DH «ואתם פרו ורבו.»: לְפִי פְּשׁוּטוֹ הָרִאשׁוֹנָה לִבְרָכָה וְכָאן לְצִוּוּי. וּלְפִי מִדְרָשׁוֹ לְהַקִּישׁ מִי שֶׁאֵינוֹ עוֹסֵק בִּפְרִיָּה וּרְבִיָּה לְשׁוֹפֵךְ דָּמִים (יבמות ס"ג):
+- `rashi:9:7:1` Rashi on 9:7.1 9:7.2 9:7.3 «וְאַתֶּ֖ם פְּר֣וּ וּרְב֑וּ» (matched; filed at 9:7) DH «ואתם פרו ורבו.»: לְפִי פְּשׁוּטוֹ הָרִאשׁוֹנָה לִבְרָכָה וְכָאן לְצִוּוּי. וּלְפִי מִדְרָשׁוֹ לְהַקִּישׁ מִי שֶׁאֵינוֹ עוֹסֵק בִּפְרִיָּה וּרְבִיָּה לְשׁוֹפֵךְ דָּמִים (יבמות ס"ג):
 - `ramban:9:7:1` Ramban on 9:7.1 9:7.2 9:7.3 «וְאַתֶּ֖ם פְּר֣וּ וּרְב֑וּ» (matched; filed at 9:7) DH «וְאַתֶּם פְּרוּ וּרְבוּ»: פְּשׁוּטוֹ כְּמִדְרָשׁוֹ שֶׁהִיא מִצְוָה, כִּי הָאָמוּר בָּאָדָם (בראשית א':כ"ח) גַּם בִּבְנֵי נֹחַ (שם ט א) עִם "וַיְבָרֶךְ אוֹתָם אֱלֹהִים", בְּרָכָה, כְּעִנְיָן שֶׁנֶּאֱמַר בַּדָּגִים (שם א כב). וּבַעֲבוּר שֶׁדִּבֵּר בִּשְׁאָר הַנֶּפֶשׁ הַחַיָּה וְאָמַר "וְשָׁרְצוּ בָאָרֶץ וּפָרוּ וְרָבוּ עַל הָאָרֶץ" (שם ח יז), אָמַר כָּאן וְאַתֶּם, הָאָדָם, פְּרוּ וּרְבוּ. וְאָמַר "שִׁרְצוּ בָאָרֶץ וּרְבוּ בָהּ", כִּי יִכְפֹּל הַמִּצְוָה לְחִזּוּק, לוֹמַר שֶׁיִּתְעַסְּקוּ בָּהּ בְּכָל יְכָלְתָּם, אוֹ שֶׁיְּצַוֵּם בְּיִשּׁוּב כָּל הָאָרֶץ, כַּאֲשֶׁר פֵּרַשְׁתִּי בְּסֵדֶר בְּרֵאשִׁית (א כ). וְרַשִׁ"י כָּתַב (רש"י על בראשית ט':ז'), לְפִי פְּשׁוּטוֹ הָרִאשׁוֹנָה לִבְרָכָה וְכָאן לְצִוּוּי, וּלְפִי מִדְרָשׁוֹ לְהַקִּישׁ מִי שֶׁאֵינוֹ עוֹסֵק בִּפְרִיָּה וּרְבִיָּה לְשׁוֹפֵךְ דָּמִים. וְהַמִּדְרָשׁ הַזֶּה לֹא הוֹצִיאוּ אוֹתוֹ אֶלָּא מִן הַסְּמוּכִים, אֲבָל הַמִּקְרָא לְמִצְוָה נִכְתַּב, וְהָרִאשׁוֹנָה לִבְרָכָה. וְכָךְ אָמְרוּ, וַהֲרֵי פְּרִיָּה וּרְבִיָּה שֶׁנֶּאֶמְרָה לִבְנֵי נֹחַ, דִּכְתִיב "וְאַתֶּם פְּרוּ וּרְבוּ" וְכוּ', כִּדְאִיתָא בְּסַנְהֶדְרִין (נט):
 - `radak:9:7:1` Radak on 9:7.1 9:7.2 9:7.3 «וְאַתֶּ֖ם פְּר֣וּ וּרְב֑וּ» (matched; filed at 9:7) DH «וְאַתֶּם פְּרוּ וּרְבוּ.»: וּבְבֵרֵאשִׁית רַבָּה (לד) אָמַר, ״וַיֹּאמֶר לָהֶם פְּרוּ וּרְבוּ״, אַחַר שֶׁמְּנָעָם מִשְּׁפִיכַת הַדָּם שֶׁהוּא חֻרְבַּן הָעוֹלָם הַזֶּה, הִזְהִיר בִּפְרִיָּה וּרְבִיָּה לְיִשּׁוּב הָעוֹלָם.
 - `radak:9:7:2` Radak on 9:7.4 «שִׁרְצ֥וּ» (matched; filed at 9:7) DH «שִׁרְצוּ.»: עִנְיַן הַשְּׁרִיצָה הוּא רֹב הַהוֹלָדָה כְּמוֹ הַשְּׁרָצִים שֶׁהֵם לָרֹב, וְכֵן ״וּבְנֵי יִשְׂרָאֵל פָּרוּ וַיִּשְׁרְצוּ״ (שמות א:ז), וּבִמְקוֹם שֶׁאָמַר בְּבִרְכַּת אָדָם ״וּמִלְאוּ אֶת הָאָרֶץ״ אָמַר הֵנָּה
@@ -265,9 +265,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` ground
 - `5` land, territory, country
 - `6` earth
+- `7` ground, land, tilled — n. pr. loc. city in Naphtali
 
 ### `bdb:a.ck.ab` אָח (n.m) root אחה: brother
 - `1` brother
+- `2` brother — indef. = relative
+- `3` brother — fig. of resemblance
 - `4` one … another
 
 ### `bdb:a.da.ab` אִישׁ (n.m) root אישׁ: man
@@ -289,6 +292,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 2` Hiph cause to devoure
 
 ### `bdb:a.dc.ac` אׇכְלָה (n.f) root אכל: food, eating
+- `1` food, eating — esp. in phr
 - `2` devouring
 - `3` consuming
 
@@ -297,9 +301,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
@@ -318,14 +325,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
@@ -337,9 +352,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.dd.aa` בָּרַךְ (vb) root ברך: kneel, bless
 - `Qal 1` Qal kneel down
@@ -368,6 +386,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:d.br.aa` דָּם (n.m): blood
 - `1` blood
+- `2` blood — usually blood become visible
+- `3` blood — blood used with religious significance
+- `4` blood — fig. of wine
 
 ### `bdb:d.cm.aa` דָּרַשׁ (vb) root דרשׁ: resort to, seek
 - `Qal 1` Qal tread, resort to, frequent
@@ -384,35 +405,52 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:h.cd.ab` חַי (adj) root חיה: alive, living
 - `1.a` living one
+- `1.b` alive, living — of man
 - `1.c` alive, living
+- `1.d` alive, living — animals and man
 - `1.e` green
 - `1.f` fresh
 - `2` lively, active
 - `3` reviving
 
 ### `bdb:h.cd.ad` חַיָּה (n.f) root חיה: living thing, animal
+- `1.a` animal — in general
 - `1.b` wild animals
 - `1.c` living beings
 - `1` animal
@@ -433,6 +471,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4.e` stays, supports
 - `4.f` tenons
 - `4.g` a, hand
+- `4` hand — יָד is used in various special, technical senses:—
+- `5` hand — יַד with prep
 
 ### `bdb:j.br.ab` יָם (n.m) root ימם: sea
 
@@ -454,7 +494,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.ab.aa` לֹא (adv): not
 
@@ -464,6 +507,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 1` Niph be filled
 - `Niph 2` Niph be accomplished, ended
 - `Pi 1` Pi fill
+- `Pi 2` Pi special uses are (Pi of: be full, fill)
 - `Pi 3` Pi fulfil, accomplish, complete
 - `Pu` Pu filled
 - `Hithp` Hithp mass themselves
@@ -472,9 +516,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:n.en.ab` נֶ֫פֶשׁ (n.f) root נפשׁ: soul, living being, life, self, person, desire, appetite, emotion, passion
 - `1` that which breathes, the breathing substance or being
+- `2` soul, living being, life, self, person, desire, appetite, emotion, passion — The נפשׁ becomes a living being
+- `3` soul, living being, life, self, person, desire, appetite, emotion, passion — The נפשׁ is specif
 - `4` the man himself
 - `5` seat of the appetites
 - `6` seat of emotions and passions
+- `7` soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ is used occasionally for mental acts
+- `8` soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ for acts of the will is dub
+- `9` soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ = character is still more dub
+- `10` soul, living being, life, self, person, desire, appetite, emotion, passion — נ׳ in D
 
 ### `bdb:n.gg.aa` נָתַן (vb) root נתן: give, put, set
 - `Qal 1` Qal give
@@ -492,6 +542,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -503,13 +556,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.fx.ab` עֵ֫שֶׂב (n.m) root עשׂב: herb, herbage
 
@@ -539,6 +595,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pu` Pu I was made
 
 ### `bdb:q.cv.aa` פָּרָה (vb) root פרה: bear fruit, be fruitful
+- `Qal 1` Qal bear fruit, be fruitful — of men and animals
+- `Qal 2` Qal bear fruit, be fruitful — of vine
 - `Hiph 1` Hiph cause to bear fruit
 - `Hiph 2` Hiph make fruitful
 - `Hiph 3` Hiph shew fruitfulness, bear fruit
@@ -562,8 +620,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:v.dy.ab` שָׁמַיִם (n.m) root שׁמה: heavens, sky
 - `1.a` visible heavens, sky
+- `1.b` heavens, sky — phrases
+- `2.a` heavens, sky — as abode of God
+- `2.b` heavens, sky — Elijah taken up הַשּׁ׳ in whirlwind
+- `3` heavens, sky — הַשּׁ׳ personified in various relations
 
 ### `bdb:v.fh.aa` שָׁפַךְ (vb) root שׁפך: pour out, pour
+- `Qal 1` Qal pour out, pour — lit
+- `Qal 2` Qal pour out, pour — fig
 - `Niph` Niph be poured out
 - `Pu` Pu be poured out
 - `Hithp` Hithp my soul pours itself out upon me

@@ -31,9 +31,9 @@ Hebrew (MAM): וַתֵּ֣רֶא רָחֵ֗ל כִּ֣י לֹ֤א יָֽלְדָ
 
 ### Commentary anchored to this verse
 
-- `rashi:30:1:1` Rashi **normative** on 30:1.7 30:1.8 30:1.9 «וַתְּקַנֵּ֥א רָחֵ֖ל בַּאֲחֹתָ֑הּ» (matched; filed at 30:1) DH «ותקנא רחל באחותה.»: קִנְּאָה בְמַעֲשֶׂיהָ הַטּוֹבִים, אָמְרָה אִלּוּלֵי שֶׁצָּדְקָה מִמֶּנִּי לֹא זָכְתָה לְבָנִים (בראשית רבה):
-- `rashi:30:1:2` Rashi **normative** on 30:1.13 30:1.14 «הָֽבָה לִּ֣י» (matched; filed at 30:1) DH «הבה לי.»: וְכִי כָּךְ עָשָׂה אָבִיךָ לְאִמְּךָ? וְהֲלֹא הִתְפַּלֵּל עָלֶיהָ:
-- `rashi:30:1:3` Rashi **normative** on 30:1.18 30:1.19 «מֵתָ֥ה אָנֹֽכִי׃» (matched; filed at 30:1) DH «מתה אנכי.»: מִכָּאן לְמִי שֶׁאֵין לוֹ בָנִים שֶׁחָשׁוּב כַּמֵּת (בראשית רבה):
+- `rashi:30:1:1` Rashi on 30:1.7 30:1.8 30:1.9 «וַתְּקַנֵּ֥א רָחֵ֖ל בַּאֲחֹתָ֑הּ» (matched; filed at 30:1) DH «ותקנא רחל באחותה.»: קִנְּאָה בְמַעֲשֶׂיהָ הַטּוֹבִים, אָמְרָה אִלּוּלֵי שֶׁצָּדְקָה מִמֶּנִּי לֹא זָכְתָה לְבָנִים (בראשית רבה):
+- `rashi:30:1:2` Rashi on 30:1.13 30:1.14 «הָֽבָה לִּ֣י» (matched; filed at 30:1) DH «הבה לי.»: וְכִי כָּךְ עָשָׂה אָבִיךָ לְאִמְּךָ? וְהֲלֹא הִתְפַּלֵּל עָלֶיהָ:
+- `rashi:30:1:3` Rashi on 30:1.18 30:1.19 «מֵתָ֥ה אָנֹֽכִי׃» (matched; filed at 30:1) DH «מתה אנכי.»: מִכָּאן לְמִי שֶׁאֵין לוֹ בָנִים שֶׁחָשׁוּב כַּמֵּת (בראשית רבה):
 - `ibn-ezra:30:1:1` Ibn Ezra **normative** on 30:1.13 30:1.14 30:1.15 «הָֽבָה לִּ֣י בָנִ֔ים» (matched; filed at 30:1) DH «הבה לי בנים.»: שתתפלל לשם כאשר עשה אביך:
 - `ramban:30:1:1` Ramban on 30:1.13 30:1.14 30:1.15 «הָֽבָה לִּ֣י בָנִ֔ים» (matched; filed at 30:1) DH «הָבָה לִּי בָנִים»: אָמְרוּ הַמְּפָרְשִׁים (רש"י וראב"ע), שֶׁתִּתְפַּלֵּל עָלַי, "וְאִם אַיִן מֵתָה אָנֹכִי", לְשׁוֹן רַשִׁ"י (רש"י על בראשית ל':א'), שֶׁמִּי שֶׁאֵין לוֹ בָּנִים חָשׁוּב כְּמֵת, וְהוּא מִדְרַשׁ רַבּוֹתֵינוּ (ב"ר עא ו). וַאֲנִי תָּמֵהַּ, אִם כֵּן לָמָּה חָרָה אַפּוֹ, וְלָמָּה אָמַר "הֲתַחַת אֱלֹהִים אָנֹכִי", וְשׁוֹמֵעַ אֶל צַדִּיקִים ה', וּמָה שֶׁאָמַר אַבָּא לֹא הָיוּ לוֹ בָּנִים אֲנִי יֵשׁ לִי בָּנִים, מִמֵּךְ מָנַע מִמֶּנִּי לֹא מָנַע, וְכִי הַצַּדִּיקִים אֵינָן מִתְפַּלְּלִים בְּעַד אֲחֵרִים, וְהִנֵּה אֵלִיָּהוּ וֶאֱלִישָׁע הִתְפַּלְּלוּ בְּעַד נָשִׁים נָכְרִיּוֹת (מ"א יז כא ושם ב ד טז). וְנִרְאֶה שֶׁבִּשְׁבִיל זֶה תְּפָסוּהוּ רַבּוֹתֵינוּ, אָמְרוּ בִּבְרֵאשִׁית רַבָּה (בראשית רבה ע"א:ז'), אָמַר לוֹ הקב"ה, כָּךְ עוֹנִין אֶת הַמְּעִיקוֹת, חַיֶּיךָ שֶׁבָּנֶיךָ עֲתִידִין לַעֲמֹד לִפְנֵי בְּנָהּ. וְעַל דֶּרֶךְ הַפְּשָׁט אָמְרָה רָחֵל לְיַעֲקֹב שֶׁיִּתֵּן לָהּ בָּנִים, וּבֶאֱמֶת דַּעְתָּהּ לֵאמֹר שֶׁיִּתְפַּלֵּל עָלֶיהָ, אֲבָל שֶׁיִּתְפַּלֵּל עָלֶיהָ עַד שֶׁיִּתֵּן לָהּ בָּנִים עַל כָּל פָּנִים, וְאִם אַיִן שֶׁתָּמִית עַצְמָהּ בְּצַעַר. דִּבְּרָה שֶׁלֹּא כַּהֹגֶן בְּקִנְאָתָהּ, וְחָשְׁבָה כִּי בְּאַהֲבָתוֹ אוֹתָהּ יִתְעַנֶּה יַעֲקֹב וְיִלְבַּשׁ שַׂק וָאֵפֶר וְיִתְפַּלֵּל עַד שֶׁיִּהְיוּ לָהּ בָּנִים שֶׁלֹּא תָּמוּת בְּצַעֲרָהּ:
 - `radak:30:1:1` Radak on 30:1.7 30:1.8 30:1.9 «וַתְּקַנֵּ֥א רָחֵ֖ל בַּאֲחֹתָ֑הּ» (matched; filed at 30:1) DH «וַתְּקַנֵּא רָחֵל בַּאֲחֹתָהּ.»: קִנְּאָה בְּדָבָר שֶׁרָאֲתָה לַאֲחוֹתָהּ שֶׁיָּלְדָה אַרְבָּעָה בָנִים לְיַעֲקֹב וְהִיא לֹא יָלְדָה אֲפִלּוּ אֶחָד.
@@ -65,8 +65,8 @@ Hebrew (MAM): וַיִּֽחַר־אַ֥ף יַעֲקֹ֖ב בְּרָחֵ֑ל �
 
 ### Commentary anchored to this verse
 
-- `rashi:30:2:1` Rashi **normative** on 30:2.6 «הֲתַ֤חַת» (matched; filed at 30:2) DH «התחת.»: וְכִי בִמְקוֹמוֹ אֲנִי?
-- `rashi:30:2:2` Rashi **normative** on 30:2.9 30:2.10 30:2.11 «אֲשֶׁר מָנַ֥ע מִמֵּ֖ךְ» (matched; filed at 30:2) DH «אשר מנע ממך.»: אַתְּ אוֹמֶרֶת שֶׁאֶעֱשֶׂה כְאַבָּא, אֲנִי אֵינִי כְּאַבָּא, אַבָּא לֹא הָיוּ לוֹ בָנִים, אֲנִי יֵשׁ לִי בָּנִים; מִמֵּךְ מָנַע וְלֹא מִמֶּנִּי:
+- `rashi:30:2:1` Rashi on 30:2.6 «הֲתַ֤חַת» (matched; filed at 30:2) DH «התחת.»: וְכִי בִמְקוֹמוֹ אֲנִי?
+- `rashi:30:2:2` Rashi on 30:2.9 30:2.10 30:2.11 «אֲשֶׁר מָנַ֥ע מִמֵּ֖ךְ» (matched; filed at 30:2) DH «אשר מנע ממך.»: אַתְּ אוֹמֶרֶת שֶׁאֶעֱשֶׂה כְאַבָּא, אֲנִי אֵינִי כְּאַבָּא, אַבָּא לֹא הָיוּ לוֹ בָנִים, אֲנִי יֵשׁ לִי בָּנִים; מִמֵּךְ מָנַע וְלֹא מִמֶּנִּי:
 - `ibn-ezra:30:2:1` Ibn Ezra **normative** on 30:2.6 30:2.7 30:2.8 «הֲתַ֤חַת אֱלֹהִים֙ אָנֹ֔כִי» (matched; filed at 30:2) DH «התחת אלהים אנכי.»: כאילו אני במקום השם ויתכן שהתפלל ולא הגיע עת שמוע תפלתו:
 - `ramban:30:2:1` Ramban on 30:2.1 30:2.2 30:2.3 «וַיִּֽחַר אַ֥ף יַעֲקֹ֖ב» (matched; filed at 30:2) DH «וַיִּחַר אַף יַעֲקֹב»: שֶׁאֵין תְּפִלַּת הַצַּדִּיקִים בְּיָדָם שֶׁתִּשָּׁמַע וְתֵעָנֶה עַל כָּל פָּנִים, וּבַעֲבוּר שֶׁדִּבְּרָה דֶּרֶךְ גַּעֲגוּעֵי הַנָּשִׁים הָאֲהוּבוֹת לְהַפְחִידוֹ בְּמִיתָתָהּ, חָרָה אַפּוֹ, וּלְכָךְ אָמַר לָהּ שֶׁאֵינוֹ בִּמְקוֹם אֱלֹהִים שֶׁיִּפְקֹד הָעֲקָרוֹת עַל כָּל פָּנִים, וְאֵינֶנּוּ חוֹשֵׁשׁ בַּדָּבָר כִּי מִמֶּנָּה נִמְנַע פְּרִי הַבֶּטֶן וְלֹא מִמֶּנּוּ, וְזֶה לְיַסֵּר אוֹתָהּ וּלְהַכְלִימָהּ. וְהִנֵּה הַצַּדֶּקֶת בִּרְאוֹתָהּ שֶׁלֹּא תּוּכַל לְהִסָּמֵךְ עַל תְּפִלַּת יַעֲקֹב, שָׁבָה לְהִתְפַּלֵּל עַל עַצְמָהּ אֶל שׁוֹמֵעַ צְעָקָה, וְזֶהוּ "וַיִּשְׁמַע אֵלֶיהָ אֱלֹהִים" (בראשית ל':כ"ב). וְאוּלַי נְתַקֵּן עַל דַּעַת רַבּוֹתֵינוּ כִּי יַעֲקֹב אִי אֶפְשָׁר שֶׁלֹּא נִתְפַּלֵּל עַל אִשְׁתּוֹ הָאֲהוּבָה כִּי עֲקָרָה הִיא, אֶלָּא שֶׁלֹּא נִתְקַבְּלָה תְּפִלָּתוֹ, וּבָאָה עַתָּה רָחֵל לְהִתְעוֹלֵל עָלָיו לֵאמֹר שֶׁיִּתֵּן לָהּ בָּנִים עַל כָּל פָּנִים בִּתְפִלָּתוֹ כִּי לֹא נוֹפֵל הוּא מֵאָבִיו שֶׁעָשָׂה כֵן, וַיִּחַר אַפּוֹ וְאָמַר לָהּ כִּי הַדָּבָר בְּיַד אֱלֹהִים וְלֹא בְּיָדוֹ, וְאָבִיו נִשְׁמְעָה תְּפִלָּתוֹ שֶׁהוּא צַדִּיק וְעָתִיד לִהְיוֹת לוֹ זֶרַע, אֲבָל הִיא נִמְנַע מִמֶּנָּה פְּרִי בֶּטֶן. וְנָכוֹן הוּא:
 - `radak:30:2:1` Radak on 30:2.9 30:2.10 30:2.11 «אֲשֶׁר מָנַ֥ע מִמֵּ֖ךְ» (matched; filed at 30:2) DH «אֲשֶׁר־מָנַע מִמֵּךְ.»: הוּא מָנַע מִמֵּךְ וְלֹא אָנִי, וּמִמֶּנּוּ תְּבַקֵּשׁ שֶׁיִּתֵּן לָךְ בָּנִים, כִּי אֲנִי נוֹתֵן לָךְ הָעוֹנָה שֶׁעָלַי לָתֵת, וְאִם אַתְּ עֲקָרָה מֵהָאֵל תְּבַקְשִׁי שֶׁיִּפְתַּח אֶת רַחְמֵךְ כַּאֲשֶׁר עָשָׂה לַאֲחוֹתֵךְ בְּבַקָּשָׁה מִמֶּנּוּ, וְהַמְּנִיעָה הִיא מִלָּתֵת הַהֵרָיוֹן בִּפְתוֹחַ הָרֶחֶם, לְפִיכָךְ חָרָה אַף יַעֲקֹב לְפִי שֶׁתָּלְתָה הַכֹּחַ בּוֹ וְלֹא בָּאֵל אֲשֶׁר לוֹ הַכֹּחַ וְהַיְכֹלֶת ״עַד עֲקָרָה יָלְדָה שִׁבְעָה״ (שמואל א ב:ה), וְהִיא אָמְרָה ״הָבָה לִּי בָנִים״ (בראשית ל:א) אֲבָל אִם אָמְרָה בַּקֵּשׁ רַחֲמִים עָלַי, צָדְקָה בְּמַאֲמָרָהּ וְלֹא חָרָה אַפּוֹ בּוֹ.
@@ -97,9 +97,9 @@ Hebrew (MAM): וַתֹּ֕אמֶר הִנֵּ֛ה אֲמָתִ֥י בִלְהָ�
 
 ### Commentary anchored to this verse
 
-- `rashi:30:3:1` Rashi **normative** on 30:3.8 30:3.9 «עַל בִּרְכַּ֔י» (matched; filed at 30:3) DH «על ברכי.»: כְּתַרְגּוּמוֹ וַאֲנָא אֱרַבֵּי:
-- `rashi:30:3:2` Rashi **normative** on 30:3.10 30:3.11 30:3.12 «וְאִבָּנֶ֥ה גַם אָנֹכִ֖י» (matched; filed at 30:3) DH «ואבנה גם אנכי.»: מַהוּ גַּם? אָמְרָה לוֹ זְקֶנְךָ אַבְרָהָם הָיוּ לוֹ בָנִים מֵהָגָר וְחָגַר מָתְנָיו כְּנֶגֶד שָׂרָה, אָמַר לָהּ זְקֵנָתִי הִכְנִיסָה צָרָתָהּ לְבֵיתָהּ, אָמְרָה לוֹ אִם הַדָּבָר הַזֶּה מְעַכֵּב, הִנֵּה אֲמָתִי:
-- `rashi:30:3:3` Rashi **normative** on 30:3.10 30:3.11 30:3.12 «וְאִבָּנֶ֥ה גַם אָנֹכִ֖י» (matched; filed at 30:3) DH «ואבנה גם אנכי.»: כְּשָׂרָה:
+- `rashi:30:3:1` Rashi on 30:3.8 30:3.9 «עַל בִּרְכַּ֔י» (matched; filed at 30:3) DH «על ברכי.»: כְּתַרְגּוּמוֹ וַאֲנָא אֱרַבֵּי:
+- `rashi:30:3:2` Rashi on 30:3.10 30:3.11 30:3.12 «וְאִבָּנֶ֥ה גַם אָנֹכִ֖י» (matched; filed at 30:3) DH «ואבנה גם אנכי.»: מַהוּ גַּם? אָמְרָה לוֹ זְקֶנְךָ אַבְרָהָם הָיוּ לוֹ בָנִים מֵהָגָר וְחָגַר מָתְנָיו כְּנֶגֶד שָׂרָה, אָמַר לָהּ זְקֵנָתִי הִכְנִיסָה צָרָתָהּ לְבֵיתָהּ, אָמְרָה לוֹ אִם הַדָּבָר הַזֶּה מְעַכֵּב, הִנֵּה אֲמָתִי:
+- `rashi:30:3:3` Rashi on 30:3.10 30:3.11 30:3.12 «וְאִבָּנֶ֥ה גַם אָנֹכִ֖י» (matched; filed at 30:3) DH «ואבנה גם אנכי.»: כְּשָׂרָה:
 - `ibn-ezra:30:3:1` Ibn Ezra **normative** on 30:3.10 «וְאִבָּנֶ֥ה» (matched; filed at 30:3) DH «ואבנה.»: מפורש בדברי שרה:
 - `radak:30:3:1` Radak on 30:3.1 «וַתֹּ֕אמֶר» (matched; filed at 30:3) DH «וַתֹּאמֶר.»: אַחַר שֶׁאֵין בְּיָדְךָ לַעֲשׂוֹת בִּי דָּבָר וְהָאֵל מָנַע מִמֶּנִּי.
 - `radak:30:3:2` Radak on whole 30:3 (verse; filed at 30:3) DH «בֹּא אֶל אֲמָתִי וְתֵלֵד עַל־בִּרְכַּי.»: מַה שֶּׁתֵּלֵד יִהְיֶה עַל בִּרְכַּי וְאֶהְיֶה לוֹ לְאוֹמֶנֶת וְאֶחְשֹׁב שֶׁיִּהְיֶה בְּנִי כֵּיוָן שֶׁיִּהְיֶה מִשְׁפַּחְתִּי.
@@ -176,7 +176,7 @@ Hebrew (MAM): וַתֹּ֤אמֶר רָחֵל֙ דָּנַ֣נִּי אֱלֹה�
 
 ### Commentary anchored to this verse
 
-- `rashi:30:6:1` Rashi **normative** on 30:6.3 30:6.4 «דָּנַ֣נִּי אֱלֹהִ֔ים» (matched; filed at 30:6) DH «דנני אלהים.»: דָּנַנִּי וְחִיְּבַנִי וְזִכַּנִי (בראשית רבה):
+- `rashi:30:6:1` Rashi on 30:6.3 30:6.4 «דָּנַ֣נִּי אֱלֹהִ֔ים» (matched; filed at 30:6) DH «דנני אלהים.»: דָּנַנִּי וְחִיְּבַנִי וְזִכַּנִי (בראשית רבה):
 - `ibn-ezra:30:6:1` Ibn Ezra **normative** on 30:6.3 «דָּנַ֣נִּי» (matched; filed at 30:6) DH «דנני.»: דגושה הנו"ן לחסרון הנו"ן הנוסף:
 - `radak:30:6:1` Radak on 30:6.3 30:6.4 «דָּנַ֣נִּי אֱלֹהִ֔ים» (matched; filed at 30:6) DH «דָּנַנִּי אֱלֹהִים.»: שָׂמַנִי בְּדִינוֹ עִם אֲחוֹתִי וְרָאָה כִּי גַם אֲנִי רְאוּיָה לְבָנִים כָּמוֹהָ, וּלְפִי שֶׁזָּכְרָה הַדִּין זָכְרָה שֵׁם
 - `radak:30:6:2` Radak on 30:6.4 «אֱלֹהִ֔ים» (matched; filed at 30:6) DH «אֱלֹהִים»: שֶׁפֵּרוּשׁוֹ דַּיָּן.
@@ -230,9 +230,9 @@ Hebrew (MAM): וַתֹּ֣אמֶר רָחֵ֗ל נַפְתּוּלֵ֨י אֱל�
 
 ### Commentary anchored to this verse
 
-- `rashi:30:8:1` Rashi **normative** on 30:8.3 30:8.4 «נַפְתּוּלֵ֨י אֱלֹהִ֧ים» (matched; filed at 30:8) DH «נפתולי אלהים.»: מְנַחֵם בֶּן סָרוּק פֵּרְשׁוֹ בְּמַחְבֶּרֶת צָמִיד פָּתִיל, חִבּוּרִים מֵאֵת הַמָּקוֹם נִתְחַבַּרְתִּי עִם אֲחוֹתִי לִזְכּוֹת לְבָנִים. וַאֲנִי מְפָרְשׁוֹ לְשׁוֹן עִקֵּשׁ וּפְתַלְתֹּל (דברים ל"ב) – נִתְעַקַּשְׁתִּי וְהִפְצַרְתִּי פְצִירוֹת וְנַפְתּוּלִים הַרְבֵּה לַמָּקוֹם, לִהְיוֹת שָׁוָה לַאֲחוֹתִי:
-- `rashi:30:8:2` Rashi **normative** on 30:8.8 30:8.9 «גַּם יָכֹ֑לְתִּי» (matched; filed at 30:8) DH «גם יכלתי.»: הִסְכִּים עַל יָדִי; וְאֻנְקְלוֹס תִּרְגֵּם לְשׁוֹן תְּפִלָּה, כְּמוֹ נַפְתּוּלֵי אֱלֹהִים נִתְפַּלְתִּי בַּקָּשׁוֹת הַחֲבִיבוֹת לְפָנָיו; נִתְקַבַּלְתִּי, וְנֶעֱתַרְתִּי כַאֲחוֹתִי:
-- `rashi:30:8:3` Rashi **normative** on 30:8.5 «נִפְתַּ֛לְתִּי» (matched; filed at 30:8) DH «נפתלתי.»: נִתְקַבְּלָה תְפִלָּתִי, וּמִ"אַ יֵשׁ רַבִּים בִּלְשׁוֹן נוֹטָרִיקוֹן:
+- `rashi:30:8:1` Rashi on 30:8.3 30:8.4 «נַפְתּוּלֵ֨י אֱלֹהִ֧ים» (matched; filed at 30:8) DH «נפתולי אלהים.»: מְנַחֵם בֶּן סָרוּק פֵּרְשׁוֹ בְּמַחְבֶּרֶת צָמִיד פָּתִיל, חִבּוּרִים מֵאֵת הַמָּקוֹם נִתְחַבַּרְתִּי עִם אֲחוֹתִי לִזְכּוֹת לְבָנִים. וַאֲנִי מְפָרְשׁוֹ לְשׁוֹן עִקֵּשׁ וּפְתַלְתֹּל (דברים ל"ב) – נִתְעַקַּשְׁתִּי וְהִפְצַרְתִּי פְצִירוֹת וְנַפְתּוּלִים הַרְבֵּה לַמָּקוֹם, לִהְיוֹת שָׁוָה לַאֲחוֹתִי:
+- `rashi:30:8:2` Rashi on 30:8.8 30:8.9 «גַּם יָכֹ֑לְתִּי» (matched; filed at 30:8) DH «גם יכלתי.»: הִסְכִּים עַל יָדִי; וְאֻנְקְלוֹס תִּרְגֵּם לְשׁוֹן תְּפִלָּה, כְּמוֹ נַפְתּוּלֵי אֱלֹהִים נִתְפַּלְתִּי בַּקָּשׁוֹת הַחֲבִיבוֹת לְפָנָיו; נִתְקַבַּלְתִּי, וְנֶעֱתַרְתִּי כַאֲחוֹתִי:
+- `rashi:30:8:3` Rashi on 30:8.5 «נִפְתַּ֛לְתִּי» (matched; filed at 30:8) DH «נפתלתי.»: נִתְקַבְּלָה תְפִלָּתִי, וּמִ"אַ יֵשׁ רַבִּים בִּלְשׁוֹן נוֹטָרִיקוֹן:
 - `ibn-ezra:30:8:1` Ibn Ezra **normative** on 30:8.3 «נַפְתּוּלֵ֨י» (matched; filed at 30:8) DH «נפתולי.»: שם מבנין נפעל, וטעמו כאדם שיאבק עם אחר ויפתל לנצח אותו כדי להפילו, וכן "תתפל" (ש"ב כב כז), וטעם זכר אלהים כי לכבוד השם נתתי שפחתי, או השם עזרני בהאבקי:
 - `radak:30:8:1` Radak on 30:8.3 30:8.4 «נַפְתּוּלֵ֨י אֱלֹהִ֧ים» (matched; filed at 30:8) DH «נַפְתּוּלֵי אֱלֹהִים.»: חִזּוּקִים גְּדוֹלִים נִתְחַזַּקְתִּי עִם אֲחוֹתִי, כְּאָדָם הַנִּתְפָּשׂ עִם חֲבֵרוֹ וּמִתְחַזֵּק עִמּוֹ לִרְאוֹת מִי יָכוֹל מֵחֲבֵרוֹ וּמִי יַפִּיל אֶת חֲבֵרוֹ, וּמְסִיעִים וּמְסַבְּבִים זֶה אֶת זֶה, לְפִיכָךְ אָמְרָה בָּזֶה הַלָּשׁוֹן כְּמוֹ הַפְּתִיל שֶׁהוּא מְדֻבָּק מִשְּׁנֵי חוּטִים וּכְשֶׁיִּכָּפֵל וְיִהְיֶה שָׁזוּר הוּא יוֹתֵר חָזָק.
 - `radak:30:8:2` Radak on whole 30:8 (segment; filed at 30:8): וְאָמְרָה
@@ -248,13 +248,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.ck.bg` אָחוֹת (n.f) root אחה: sister
 - `1` sister
+- `2` sister — = beloved
+- `3` sister — symbol. of Judah, Samaria, Sodom & Jerusalem
+- `4` sister — fig. of intimate connection
 - `5` another
 
 ### `bdb:a.cz.aa` אַ֫יִן (subst) root אין: nothing, nought
 - `1` to nothing, as nothing
 - `2` is not, are not, was not, were not
 - `3` there is (was) not to, have, has, had, not
+- `4` nothing, nought — in circumst. clauses
 - `5` it is not to
+- `6` nothing, nought — with prefixes
 
 ### `bdb:a.di.aa` אֶל (prep): motion to, direction towards
 - `1` to, unto
@@ -272,17 +277,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
 ### `bdb:a.du.af` אִם (conj): if
 - `1` if
+- `2` Interrog. part
 
 ### `bdb:a.dv.ab` אָמָה (n.f) root אמה: maid, handmaid
 - `1` maidservant
+- `2` maid, handmaid — fig. in address
 
 ### `bdb:a.ea.aa` אָמַר (vb) root אמר: utter, say
 - `Qal 1` Qal Say
@@ -330,9 +340,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.cb.aa` בָּנָה (vb) root בנה: build
 - `Qal` Qal build
@@ -355,15 +368,21 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph` Niph and all the people were at strife throughout all the tribes of Israel
 
 ### `bdb:d.bh.ad` דָּן (n.pr.m): judge
+- `1` judge — son of Jacob and Bilhah
+- `2` judge — the tribe of Dan
+- `3` judge — a city on northern frontier of Israel at one of the sources of the Jordan
 
 ### `bdb:e.bz.ab` הִנֵּה (demonstr.part): lo!, behold!
 
 ### `bdb:e.cd.aa` הָרָה (vb) root הרה: conceive, become pregnant
 - `Qal 1` Qal conceive, become pregnant
+- `Qal 2` Qal conceive, become pregnant — metaph
 - `Pu` Pu a man hath been conceived
 - `Po` Po conceive, contrive, devise
 
 ### `bdb:h.fo.aa` חָרָה (vb) root חרה: burn, be kindled
+- `Qal 1` Qal burn, be kindled — of man
+- `Qal 2` Qal burn, be kindled — of God
 - `Niph` Niph be angry
 - `Hiph` Hiph burned with zeal, in repairing, and kindled his anger against me
 - `Hithp` Hithp heat oneself in vexation, how canst thou hotly contend, with the horses, because thou strivest eagerly, in cedar
@@ -383,6 +402,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -406,21 +426,31 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1` Qal die
 - `Qal 2` Qal die, be put to death
 - `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
 - `Hoph` Hoph be killed, put to death
 
 ### `bdb:m.cl.aa` מִן־ (prep): out of, from, on account of, off, on the side of, since, above, than, so that not
 - `1.a` from, against
 - `1.b` away from, far from
 - `1.c` off, on the side of, on
+- `1` out of, from, on account of, off, on the side of, since, above, than, so that not — with verbs expressing (or implying) separation or removal
 - `2` Out of
+- `3` out of, from, on account of, off, on the side of, since, above, than, so that not — Partitively
 - `4.a` from, since
 - `4.b` after
 - `4.c` towards, to
+- `4` out of, from, on account of, off, on the side of, since, above, than, so that not — Of time—
 - `5` from … even to
 - `6` beyond, above
 - `7.a` from, on account of, through
+- `7.b` out of, from, on account of, off, on the side of, since, above, than, so that not — after verbs implying restraint, prevention, cessation, etc
 - `7.c` since, after
+- `7` out of, from, on account of, off, on the side of, since, above, than, so that not — מן is prefixed to an infin
 - `8` that
+- `9` out of, from, on account of, off, on the side of, since, above, than, so that not — In compounds
 
 ### `bdb:m.cp.aa` מָנַע (vb) root מנע: withhold, hold back
 - `Qal` Qal withhold
@@ -440,6 +470,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -451,13 +484,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.dj.aa` עִם (prep): with
 - `1.a` aid
@@ -467,16 +503,20 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.e` together with
 - `1.f` aid
 - `1.g` as long as
+- `1` with — of fellowship and companionship
 - `2` close to, beside
 - `3.a` in the house, family, service of
 - `3.b` In possession of
 - `3.c` In the custody, care of
 - `3.d` Beside, except
 - `3.e` With, friendly with
+- `3` with — Of persons, עִם is spec
 - `4` with
 - `5` together with, in spite of, notwithstanding
 
 ### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
+- `1` Jacob — as n.pr.m
+- `2` Jacob — as n.pr.gent
 
 ### `bdb:q.cv.ab` פְּרִי (n.m) root פרה: fruit
 - `1` fruit of the ground
@@ -511,6 +551,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.b` Qal read
 - `Qal 5` Qal summon
 - `Qal 6` Qal call, name
+- `Niph 1` Niph reflex (Niph of: call, proclaim, read)
 - `Niph 2` Niph be called
 - `Pu` Pu be called
 
@@ -522,6 +563,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4` Qal see, have, vision
 - `Qal 5` Qal see
 - `Qal 6` Qal look at, see
+- `Qal 7` Qal see — of mental observation
 - `Qal 8.a` Qal look into, look at
 - `Qal 8.b` Qal see
 - `Niph 1` Niph appear
@@ -538,16 +580,24 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:t.by.ac` רָחֵל (n.pr.f): Rachel
 
 ### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `1` name — of river, beasts, city, i.e. exact designation of it
+- `2.a` name — usu. of pers
 - `2.b` reputation
+- `2.c` name — esp. as giving a man a kind of posthumous life, esp. in his sons
 - `3` name
+- `4` name — of false gods, use forbidden
 - `5` memorial, monument
 
 ### `bdb:v.ed.aa` שָׁמַע (vb) root שׁמע: hear
+- `Qal 1` Qal hear — subj. pers. hum
+- `Qal 2` Qal hear — י׳ (God) subj
 - `Niph 1` Niph be heard
 - `Niph 2` Niph be heard of
 - `Niph 3` Niph be regarded, obeyed
 - `Niph 4` Niph hearing was granted to their voice
 - `Pi` Pi he caused, to hear
+- `Hiph 1` Hiph of man (Hiph of: hear)
+- `Hiph 2` Hiph י׳ subj (Hiph of: hear)
 
 ### `bdb:v.em.ac` שֵׁנִי (m) root שׁנה: second
 

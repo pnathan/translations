@@ -53,6 +53,7 @@ type SegmentTr struct {
 	Note       string       `json:"note,omitempty"`
 	Commentary []CommentUse `json:"commentary"`
 	Apparatus  []string     `json:"apparatus,omitempty"`
+	Context    []string     `json:"context,omitempty"` // the ancient Near Eastern setting: realia, institutions, names
 }
 
 type TranslationUnit struct {
@@ -63,7 +64,7 @@ type TranslationUnit struct {
 
 // Patch replaces one field. Paths:
 //
-//	english | literal | note | grammar | phrases | apparatus
+//	english | literal | note | grammar | phrases | apparatus | context
 //	token:<id>.gloss | token:<id>.lex | token:<id>.sense | token:<id>.note
 //	commentary:<anchor>.relation | commentary:<anchor>.summary | commentary:<anchor> (add)
 //	morph:<id> (a whole analysis; mishnah only)

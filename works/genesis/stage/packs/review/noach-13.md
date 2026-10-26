@@ -90,7 +90,7 @@ Hebrew (MAM): בְּנֵ֣י יֶ֔פֶת גֹּ֣מֶר וּמָג֔וֹג וּ
 
 ### Commentary anchored to this verse
 
-- `rashi:10:2:1` Rashi **normative** on 10:2.9 «וְתִירָֽס׃» (matched; filed at 10:2) DH «ותירס.»: זוֹ פָּרַס (ב"ר):
+- `rashi:10:2:1` Rashi on 10:2.9 «וְתִירָֽס׃» (matched; filed at 10:2) DH «ותירס.»: זוֹ פָּרַס (ב"ר):
 - `ramban:10:2:1` Ramban on 10:2.1 10:2.2 10:2.3 «בְּנֵ֣י יֶ֔פֶת גֹּ֣מֶר» (matched; filed at 10:2) DH «בְּנֵי יֶפֶת גֹּמֶר»: הֵחֵל מִמֶּנּוּ כִּי הוּא הַבְּכוֹר, וְנָתַן אַחֲרָיו חָם כִּי רָצָה לְאַחַר תּוֹלֶדֶת שֵׁם לְקָרֵב שְׁנֵי הַפָּרָשִׁיּוֹת בְּתוֹלְדוֹתָיו, כִּי יֵשׁ לְהַאֲרִיךְ בְּתוֹלְדוֹת אַבְרָהָם:
 - `radak:10:2:1` Radak on 10:2.1 10:2.2 10:2.3 «בְּנֵ֣י יֶ֔פֶת גֹּ֣מֶר» (matched; filed at 10:2) DH «בְּנֵי יֶפֶת גֹּמֶר.»: פֵּרֵשׁ רַב סַעַדְיָה הוּא אֲבִי הָאֻמָּה הַנִּקְרָא אַלְתֻּרְךְ.
 - `radak:10:2:2` Radak on 10:2.8 «וּמֶ֖שֶׁךְ» (matched; filed at 10:2) DH «וּמֶשֶׁךְ.»: פֵּרֵשׁ יוֹסֵף בֶּן גּוֹרְיוֹן שֶׁהוּא תּוּשְׁכָּאנָא, שֶׁהֵם בֶּאֱמוּנַת הַנּוֹצְרִים הַיּוֹם וְרֹאשׁ אֱמוּנָתָם, כִּי רוֹמָה, הִיא בִּגְבוּל תּוּשְׁכָּאנָא.
@@ -411,7 +411,7 @@ Hebrew (MAM): וְכ֖וּשׁ יָלַ֣ד אֶת־נִמְרֹ֑ד ה֣וּא 
 
 ### Commentary anchored to this verse
 
-- `rashi:10:8:1` Rashi **normative** on 10:8.7 10:8.8 «לִֽהְי֥וֹת גִּבֹּ֖ר» (matched; filed at 10:8) DH «להיות גבור.»: לְהַמְרִיד כָּל הָעוֹלָם עַל הַקָּבָּ"ה בַּעֲצַת דוֹר הַפַּלָּגָה:
+- `rashi:10:8:1` Rashi on 10:8.7 10:8.8 «לִֽהְי֥וֹת גִּבֹּ֖ר» (matched; filed at 10:8) DH «להיות גבור.»: לְהַמְרִיד כָּל הָעוֹלָם עַל הַקָּבָּ"ה בַּעֲצַת דוֹר הַפַּלָּגָה:
 - `ibn-ezra:10:8:1` Ibn Ezra **normative** on 10:8.4 «נִמְרֹ֑ד» (matched; filed at 10:8) DH «נמרוד.»: אל תבקש טעם לכל השמות, אם לא נכתב
 - `ibn-ezra:10:8:2` Ibn Ezra **normative** on 10:8.5 10:8.6 «ה֣וּא הֵחֵ֔ל» (matched-unbolded; filed at 10:8) DH «והוא החל»: והוא החל להראות גבורות בני אדם על החיות, כי היה גבור ציד,
 - `ramban:10:8:1` Ramban on 10:8.5 10:8.6 10:8.7 10:8.8 10:8.9 «ה֣וּא הֵחֵ֔ל לִֽהְי֥וֹת גִּבֹּ֖ר בָּאָֽרֶץ׃» (matched; filed at 10:8) DH «הוּא הֵחֵל לִהְיוֹת גִּבֹּר בָּאָרֶץ»: כָּתַב רַשִׁ"י (רש"י על בראשית י':ח') לְהַמְרִיד כָּל הָעוֹלָם עַל הקב"ה בַּעֲצַת דוֹר הַפַּלָּגָה. וְאִם כֵּן "הוּא הֵחֵל", אַחַר הַמַּבּוּל, כִּי בִּימֵי דּוֹר אֱנוֹשׁ הוּחַל. וְאֶפְשָׁר שֶׁנֹּאמַר כִּי הוּחַל בְּדוֹר הַפַּלָּגָה מֶרֶד, וּבִימֵי אֱנוֹשׁ לֹא הָיוּ בְּמוֹרְדֵי אוֹר אֲבָל עָבְדוּ גַּם לֵאלֹהִים אֲחֵרִים:
@@ -468,14 +468,19 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.da.ab` אִישׁ (n.m) root אישׁ: man
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.do.ac` אֱלִישָׁה (n.pr.loc): son of Javan
 
@@ -483,17 +488,27 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gd.an` אַשְׁכְּנַז (n.pr.m): Ashkenaz
+- `1` a descendant of Japhet
+- `2` a northern people
 
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
 
@@ -502,9 +517,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:c.am.af` גִּבּוֹר (adj) root גבר: strong, mighty
 
@@ -513,30 +531,48 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:c.ba.ag` גּוֹי (n.m) root גוה: nation, people
 
 ### `bdb:c.cm.ab` גֹּ֫מֶר (n.pr) root גמר: Gomer
+- `1` m. son of Japhet
+- `2` f. wife of Hosea
 
 ### `bdb:d.ao.ac` דְּדָן (n.pr.loc): Dedan
+- `1` under fig. of son of רַעֲמָה and grandson of כּוּשׁ
+- `2` as son of יָקְשָׁן, father of אַשּׁוּרִם etc
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:h.be.ad` חֲוִילָה (n.pr.terr): Havilah
 
@@ -555,12 +591,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:h.dc.ad` חָם (n.pr.pers.m): Ham
 - `1` Ham
+- `2` a name (coll.) for Egyptians
 
 ### `bdb:j.ba.ae` יָוָן (n.pr.gent): Ionia, ns, Greece
 
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -572,8 +610,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:j.bn.al` תּוֹלֵדוֹת (n.f.pl) root ילד: generations, account of a man and his descendants
 
 ### `bdb:k.az.aa` כּוּשׁ (n.pr.pers.m) root כושׁ: Cush
+- `1` 1st ‘son’ of חָם
+- `2` land and people of southern Nile-valley, or Upper Egypt, extending from Syene indefinitely to the south
+- `3` כּוּשׁ is err. for כַּשׁ = Bab. Kaššu
 
 ### `bdb:k.cd.ac` כְּנַ֫עַן (n.pr.m): Canaan
+- `1` Canaan — as n. pr. m., son of Ham
+- `2.a` Canaan — land, W. of Jordan, into wh. Hebrews came, and where they settled, subduing the inhabitants
+- `2.b` Canaan — the coast, esp. Phoenicia
 
 ### `bdb:k.dn.ae` כִּתִּי (adj.gent): Cypriotes
 
@@ -588,11 +632,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:m.ai.ag` מַבּוּל (n.m): flood
 
 ### `bdb:m.am.al` מָדַי (n.pr.gent): Medes, Media
+- `1` Medes, Media — people, as ‘son’ of Japhet
 - `2` Media
 
 ### `bdb:m.df.ab` מִצְרַ֫יִם (n.pr.terr) root מצר: Egypt, Egyptians
 - `1.a` Egypt
+- `1.b` Egypt, Egyptians — combinations
+- `2.a` Egypt, Egyptians — in table of nations, personif. as second son of Ham
 - `2.b` Egypt, Egyptians
+- `2` Egypt, Egyptians — of people
 
 ### `bdb:m.du.ac` מֶ֫שֶׁךְ (n.pr.gent): the Moschi
 
@@ -643,4 +691,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:w.an.an` תִּירָ֑ס (n.pr.terr): Tiras
 
 ### `bdb:w.bq.ay` תַּרְשִׁישׁ (n.pr): Tarshish
+- `1` loc. a distant port, site not certainly known
+- `2.a` in Benjamin
+- `2.b` Persian noble
+- `2` m
 

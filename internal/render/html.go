@@ -29,7 +29,7 @@ type pageComment struct {
 type pageSeg struct {
 	Ref, English, Literal, Note, Para string
 	Words                             []pageWord
-	Grammar, Apparatus                []string
+	Grammar, Apparatus, Context       []string
 	Comments                          []pageComment
 	Missing                           bool
 }
@@ -99,6 +99,7 @@ func (e *Edition) section(sec work.Section) (*page, error) {
 		if f != nil {
 			ps.English, ps.Literal, ps.Note, ps.Grammar = f.English, f.Literal, f.Note, f.Grammar
 			ps.Apparatus = append(ps.Apparatus, f.Apparatus...)
+			ps.Context = f.Context
 		}
 		for _, v := range s.Variants {
 			ps.Apparatus = append(ps.Apparatus, fmt.Sprintf("%s — %s reads %s (%s)", v.Base, v.Witness, v.Reading, v.Kind))

@@ -33,7 +33,7 @@ Paragraph mark after this verse: פ
 
 ### Commentary anchored to this verse
 
-- `rashi:11:9:1` Rashi **normative** on 11:9.13 11:9.14 «וּמִשָּׁם֙ הֱפִיצָ֣ם» (matched; filed at 11:9) DH «ומשם הפיצם.»: לִמֵּד שֶׁאֵין לָהֶם חֵלֶק לָעוֹלָם הַבָּא; וְכִי אֵיזוֹ קָשָׁה, שֶׁל דּוֹר הַמַּבּוּל אוֹ שֶׁל דּוֹר הַפַּלָּגָה? אֵלּוּ לֹא פָשְׁטוּ יָד בָּעִקָּר וְאֵלּוּ פָשְׁטוּ יָד בָּעִקָּר לְהִלָּחֵם בּוֹ, וְאֵלּוּ נִשְׁטְפוּ וְאֵלּוּ לֹא נֶאֱבְדוּ מִן הָעוֹלָם? אֶלָּא שֶׁדּוֹר הַמַּבּוּל הָיוּ גַּזְלָנִים וְהָיְתָה מְרִיבָה בֵינֵיהֶם, לְכָךְ נֶאֱבְדוּ; וְאֵלּוּ הָיוּ נוֹהֲגִים אַהֲבָה וְרֵעוּת בֵּינֵיהֶם, שֶׁנֶּ' שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים, לָמַדְתָּ שֶׁשָּׂנְאוּי הַמַּחֲלֹקֶת וְגָדוֹל הַשָּׁלֹום:
+- `rashi:11:9:1` Rashi on 11:9.13 11:9.14 «וּמִשָּׁם֙ הֱפִיצָ֣ם» (matched; filed at 11:9) DH «ומשם הפיצם.»: לִמֵּד שֶׁאֵין לָהֶם חֵלֶק לָעוֹלָם הַבָּא; וְכִי אֵיזוֹ קָשָׁה, שֶׁל דּוֹר הַמַּבּוּל אוֹ שֶׁל דּוֹר הַפַּלָּגָה? אֵלּוּ לֹא פָשְׁטוּ יָד בָּעִקָּר וְאֵלּוּ פָשְׁטוּ יָד בָּעִקָּר לְהִלָּחֵם בּוֹ, וְאֵלּוּ נִשְׁטְפוּ וְאֵלּוּ לֹא נֶאֱבְדוּ מִן הָעוֹלָם? אֶלָּא שֶׁדּוֹר הַמַּבּוּל הָיוּ גַּזְלָנִים וְהָיְתָה מְרִיבָה בֵינֵיהֶם, לְכָךְ נֶאֱבְדוּ; וְאֵלּוּ הָיוּ נוֹהֲגִים אַהֲבָה וְרֵעוּת בֵּינֵיהֶם, שֶׁנֶּ' שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים, לָמַדְתָּ שֶׁשָּׂנְאוּי הַמַּחֲלֹקֶת וְגָדוֹל הַשָּׁלֹום:
 - `ibn-ezra:11:9:1` Ibn Ezra **normative** on 11:9.5 «בָּבֶ֔ל» (matched; filed at 11:9) DH «בבל.»: שתי מלות ואל"ף חסר וכן בגד (בראשית ל, יא) ובמה:
 - `radak:11:9:1` Radak on 11:9.13 11:9.14 «וּמִשָּׁם֙ הֱפִיצָ֣ם» (matched; filed at 11:9) DH «וּמִשָּׁם הֱפִיצָם.»: הֵפִיץ רֻבָּם כִּי לְשִׁבְעִים לָשׁוֹן נֶחְלְקוּ, וְהַלָּשׁוֹן הָאֶחָד נִשְׁאַר שָׁם, וּלְפִי שֶׁשָּׁם הָיָה הַבִּלְבּוּל קוֹרֵא שֵׁם הָעִיר
 - `radak:11:9:2` Radak on 11:9.5 «בָּבֶ֔ל» (matched; filed at 11:9) DH «בָּבֶל»: וְהָיָה הַקּוֹרֵא מִי שֶׁהָיָה מֵהֶם וּלְשׁוֹן הַקֹּדֶשׁ הָיָה מְדַבֵּר (וְהוּא הָיָה הָרִאשׁוֹן) דְּבָבֶל וּבָלַל לְשׁוֹן הַקֹּדֶשׁ הוּא; וְהָיָה לוֹ לוֹמַר בַּלֵּל מִן בָּלַל, מַהוּ
@@ -120,7 +120,7 @@ Hebrew (MAM): אֵ֚לֶּה תּוֹלְדֹ֣ת שֵׁ֔ם שֵׁ֚ם בֶּן
 
 ### Commentary anchored to this verse
 
-- `rashi:11:10:1` Rashi **normative** on 11:10.3 11:10.5 11:10.6 11:10.7 «שֵׁ֔ם בֶּן מְאַ֣ת שָׁנָ֔ה» (matched; filed at 11:10) DH «שם בן מאת שנה.»: כְּשֶׁהוֹלִיד אֶת אַרְפַּכְשָׁד שְׁנָתַיִם אַחַר הַמַּבּוּל:
+- `rashi:11:10:1` Rashi on 11:10.3 11:10.5 11:10.6 11:10.7 «שֵׁ֔ם בֶּן מְאַ֣ת שָׁנָ֔ה» (matched; filed at 11:10) DH «שם בן מאת שנה.»: כְּשֶׁהוֹלִיד אֶת אַרְפַּכְשָׁד שְׁנָתַיִם אַחַר הַמַּבּוּל:
 - `ibn-ezra:11:10:1` Ibn Ezra **normative** on 11:10.11 «שְׁנָתַ֖יִם» (matched; filed at 11:10) DH «ופי' שנתים.»: בפ' אחי יפת הגדול ויתכן שנקרא פלג בשם הזה ביום שנאסף כי שם חי ת"ק שנה אחר המבול, וארפכשד תל"ח שנה, ושלח בנו תל"ג ועבר בנו תס"ד, והנה כל ימי פלג רל"ט שנה, והנה הם חצי ימי אבותיו, גם רעו בנו חי אחריו כמספר שני פלג וגם שרוג קרוב מהם, וזה הכלל אין אחר פלג מי שהיה רל"ט שנה כמו פלג כי אם בנו לבדו, וי"א כי שבעים הי' נוני המגדל, ועל כן נפוצו לשבעים לשונות, וכשאתה סופר בני שם גם בני יפת, גם בני חם תמצאם שבעים וזה איננו נכון, כי פי' כפתורים ופתרוסים איננו שני אנשים ועוד שלא הביא במספר נח ובניו, ועל דעת סדר עולם יהיו לאלפים ולרבבות בוני המגדל:
 - `radak:11:10:1` Radak on 11:10.11 11:10.12 11:10.13 «שְׁנָתַ֖יִם אַחַ֥ר הַמַּבּֽוּל׃» (matched; filed at 11:10) DH «שְׁנָתַיִם אַחַר הַמַּבּוּל.»: כְּבָר פֵּרַשְׁנוּ זֶה בְּסֵפֶר בְּרֵאשִׁית בְּפָסוּק ״וַיְחִי נֹחַ״ (בראשית ה:לב). וְאַף עַל פִּי שֶׁזָּכַר תּוֹלְדֹת שֵׁם לְמַעְלָה עִם תּוֹלְדֹת אֶחָיו, שָׁנָה אוֹתָם לְסֵדֶר הַתּוֹלְדוֹת מִמֶּנּוּ עַד אַבְרָהָם אָבִינוּ, לְפִיכָךְ לֹא זָכַר מִבְּנֵי שֵׁם אֶלָּא
 - `radak:11:10:2` Radak on 11:10.10 «אַרְפַּכְשָׁ֑ד» (matched; filed at 11:10) DH «אַרְפַּכְשָׁד»: , לְפִי שֶׁמִּתּוֹלְדוֹתָיו יָצָא אַבְרָהָם אָבִינוּ; וְהָיָה סִפּוּר
@@ -362,12 +362,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.fw.af` אַרְפַּכְשַׁד (n.pr.m): Arphaxad
 
@@ -375,14 +380,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
@@ -400,18 +413,29 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:e.az.ae` יהוה (n.pr.dei) root הוה: Yahweh, the one bringing into being, life-giver
+- `I` Yahweh, the one bringing into being, life-giver — יהוה is not used by E in Gn, but is given Ex 3:12-15 as the name of the God who revealed Himself to Moses at Horeb
+- `II.1` Yahweh, the one bringing into being, life-giver — יהוה is used with אלהים and suffixes, especially in D
+- `II.2` Yahweh, the one bringing into being, life-giver — the phrase † אֲנִי יהוה is noteworthy
+- `II.3` Yahweh, the one bringing into being, life-giver — יהוה is also used with several predicates, to form sacred names of holy places of Yahweh
 
 ### `bdb:h.cd.aa` חָיָה (vb) root חיה: live
 - `Qal 1` Qal live
@@ -427,6 +451,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -447,17 +472,25 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:k.by.aa` כֵּן (adv): so
 
 ### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `1` hundred — as simple number
+- `2` hundred — as part of larger number
 - `3` hundredth
 
 ### `bdb:m.ai.ag` מַבּוּל (n.m): flood
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -469,13 +502,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:q.aq.aa` פּוּץ (vb) root פוץ: be dispersed, scattered
 - `Qal` Qal be dispersed, disperse, be scattered
@@ -492,6 +528,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `I.4` face
 - `I.5` face, surface
 - `I.6` before
+- `I.7` face, faces — for other phrases
+- `II` face, faces — with prepositions
 
 ### `bdb:s.cy.aa` קָרָא (vb) root קרא: call, proclaim, read
 - `Qal 1.a` Qal call, cry, utter a loud sound
@@ -503,6 +541,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.b` Qal read
 - `Qal 5` Qal summon
 - `Qal 6` Qal call, name
+- `Niph 1` Niph reflex (Niph of: call, proclaim, read)
 - `Niph 2` Niph be called
 - `Pu` Pu be called
 
@@ -518,12 +557,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:v.du.ab` שָׁלֹשׁ (n.m) root שׁלשׁ: a three, triad
 
 ### `bdb:v.du.af` שְׁלֹשִׁים (n.indecl) root שׁלשׁ: thirty
+- `1` thirty — bef. n. sg
+- `2` thirty — as ordin
 
 ### `bdb:v.dv.aa` שָׁם (adv): there, thither
 
 ### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `1` name — of river, beasts, city, i.e. exact designation of it
+- `2.a` name — usu. of pers
 - `2.b` reputation
+- `2.c` name — esp. as giving a man a kind of posthumous life, esp. in his sons
 - `3` name
+- `4` name — of false gods, use forbidden
 - `5` memorial, monument
 
 ### `bdb:v.dv.ac` שֵׁם (n.pr.m): Sem

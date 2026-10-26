@@ -55,8 +55,8 @@ Paragraph mark after this verse: ס
 
 ### Commentary anchored to this verse
 
-- `rashi:28:9:1` Rashi **normative** on 28:9.12 28:9.13 «אֲח֧וֹת נְבָי֛וֹת» (matched; filed at 28:9) DH «אחות נביות.»: מִמַּשְׁמָע שֶׁנֶּאֱמַר בַּת יִשְׁמָעֵאל אֵינִי יוֹדֵעַ שֶׁהִיא אֲחוֹת נְבָיוֹת? אֶלָּא לָמַדְנוּ שֶׁמֵּת יִשְׁמָעֵאל מִשֶּׁיְּעָדָהּ לְעֵשָׂו קֹדֶם נִשּׂוּאֶיהָ וְהִשִּׂיאָהּ נְבָיוֹת אָחִיהָ, וְלָמַדְנוּ שֶׁהָיָה יַעֲקֹב בְּאוֹתוֹ הַפֶּרֶק בֶּן ס"ג שָׁנִים, שֶׁהֲרֵי יִשְׁמָעֵאל בֶּן ע"ד שָׁנִים הָיָה כְּשֶׁנּוֹלַד יַעֲקֹב, י"ד שָׁנָה הָיָה גָדוֹל יִשְׁמָעֵאל מִיִּצְחָק, וְיִצְחָק בֶּן ס' שָׁנָה בְּלֶדֶת אוֹתָם הֲרֵי ע"ד, וּשְׁנוֹתָיו הָיוּ קל"ז, שֶׁנֶּאֱמַר וְאֵלֶּה שְׁנֵי חַיֵּי יִשְׁמָעֵאל וְגוֹ', נִמְצָא יַעֲקֹב כְּשֶׁמֵּת יִשְׁמָעֵאל בֶּן ס"ג שָׁנִים הָיָה, וְלָמַדְנוּ מִכָּאן שֶׁנִּטְמַן בְּבֵית עֵבֶר י"ד שָׁנָה וְאַחַר כָּךְ הָלַךְ לְחָרָן, שֶׁהֲרֵי לֹא שָׁהָה בְּבֵית לָבָן לִפְנֵי לֵדָתוֹ שֶׁל יוֹסֵף אֶלָּא י"ד שָׁנָה, שֶׁנֶּאֱמַר עֲבַדְתִּיךָ אַרְבַּע עֶשְׂרֵה שָׁנָה בִּשְׁתֵּי בְנֹתֶיךָ וְשֵׁשׁ שָׁנִים בְּצֹאנֶךָ, וּשְׂכַר הַצֹּאן מִשֶּׁנּוֹלַד יוֹסֵף הָיָה, שֶׁנֶּאֱמַר וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף וְגוֹ'; וְיוֹסֵף בֶּן ל' שָׁנָה הָיָה כְּשֶׁמָּלַךְ, וּמִשָּׁם עַד שֶׁיָּרַד יַעֲקֹב לְמִצְרַיִם ט' שָׁנִים, ז' שֶׁל שָׂבָע וּב' שֶׁל רָעָב, וְיַעֲקֹב אָמַר לְפַרְעֹה יְמֵי שְׁנֵי מְגוּרַי שְׁלֹשִׁים וּמְאַת שָׁנָה – צֵא וַחֲשֹׁב י"ד שֶׁלִּפְנֵי לֵדַת יוֹסֵף וּשְׁלֹשִׁים שֶׁל יוֹסֵף וְתֵשַׁע מִשֶּׁמָּלַךְ עַד שֶׁבָּא יַעֲקֹב, הֲרֵי נ"ג, וּכְשֶׁפֵּרֵשׁ מֵאָבִיו הָיָה בֶּן ס"ג, הֲרֵי קי"ו, וְהוּא אוֹמֵר שְׁלֹשִׁים וּמְאַת שָׁנָה, הֲרֵי חֲסֵרִים י"ד שָׁנִים, הָא לָמַדְתָּ שֶׁאַחַר שֶׁקִּבֵּל הַבְּרָכוֹת נִטְמַן בְּבֵית עֵבֶר י"ד שָׁנִים, אֲבָל לֹא נֶעֱנַשׁ בִּזְכוּת הַתּוֹרָה; שֶׁהֲרֵי לֹא פֵּרֵשׁ יוֹסֵף מֵאָבִיו אֶלָּא כ"ב שָׁנָה, דְּהַיְנוּ מִי"ז עַד ל"ט, כְּנֶגֶד כ"ב שֶׁפֵּרֵשׁ יַעֲקֹב מֵאָבִיו וְלֹא כִבְּדוֹ, וְהֵם כ' שָׁנִים בְּבֵית לָבָן וּשְׁתֵּי שָׁנִים שֶׁשָּׁהָה בַדֶּרֶךְ, כְּדִכְתִיב וַיִּבֶן לוֹ בָּיִת וּלְמִקְנֵהוּ עָשָׂה סֻכֹּת, וּפֵר' רַזִ"לִ מִזֶּה הַפָּסוּק שֶׁשָּׁהָה י"ח חֳדָשִׁים בַּדֶּרֶךְ – דְּבַיִת הֲוָה בִּימוֹת הַגְּשָׁמִים וְסֻכֹּת הֲווּ בִּימוֹת הַחַמָּה – וּלְחֶשְׁבּוֹן הַפְּסוּקִים שֶׁחָשַׁבְנוּ לְעֵיל מִשֶּׁפֵּרֵשׁ מֵאָבִיו עַד שֶׁיָּרַד לְמִצְרַיִם שֶׁהָיָה בֶּן ק"ל שָׁנִים, שֶׁשָּׁם אָנוּ מוֹצְאִים עוֹד י"ד שָׁנִים – אֶלָּא וַדַּאי נִטְמַן בְּבֵית עֵבֶר בַּהֲלִיכָתוֹ לְבֵית לָבָן לִלְמֹד תּוֹרָה מִמֶּנּוּ, וּבִשְׁבִיל זְכוּת הַתּוֹרָה לֹא נֶעֱנַשׁ עֲלֵיהֶם וְלֹא פֵּרֵשׁ יוֹסֵף מִמֶּנּוּ אֶלָּא כ"ב שָׁנָה – מִדָּה כְּנֶגֶד מִדָּה – עַ"כַּ בְּרַשִׁ"י יָשָׁן:
-- `rashi:28:9:2` Rashi **normative** on 28:9.14 28:9.15 «עַל נָשָׁ֖יו» (matched; filed at 28:9) DH «על נשיו.»: הוֹסִיף רִשְׁעָה עַל רִשְׁעָתוֹ, שֶׁלֹּא גֵרֵשׁ אֶת הָרִאשׁוֹנוֹת:
+- `rashi:28:9:1` Rashi on 28:9.12 28:9.13 «אֲח֧וֹת נְבָי֛וֹת» (matched; filed at 28:9) DH «אחות נביות.»: מִמַּשְׁמָע שֶׁנֶּאֱמַר בַּת יִשְׁמָעֵאל אֵינִי יוֹדֵעַ שֶׁהִיא אֲחוֹת נְבָיוֹת? אֶלָּא לָמַדְנוּ שֶׁמֵּת יִשְׁמָעֵאל מִשֶּׁיְּעָדָהּ לְעֵשָׂו קֹדֶם נִשּׂוּאֶיהָ וְהִשִּׂיאָהּ נְבָיוֹת אָחִיהָ, וְלָמַדְנוּ שֶׁהָיָה יַעֲקֹב בְּאוֹתוֹ הַפֶּרֶק בֶּן ס"ג שָׁנִים, שֶׁהֲרֵי יִשְׁמָעֵאל בֶּן ע"ד שָׁנִים הָיָה כְּשֶׁנּוֹלַד יַעֲקֹב, י"ד שָׁנָה הָיָה גָדוֹל יִשְׁמָעֵאל מִיִּצְחָק, וְיִצְחָק בֶּן ס' שָׁנָה בְּלֶדֶת אוֹתָם הֲרֵי ע"ד, וּשְׁנוֹתָיו הָיוּ קל"ז, שֶׁנֶּאֱמַר וְאֵלֶּה שְׁנֵי חַיֵּי יִשְׁמָעֵאל וְגוֹ', נִמְצָא יַעֲקֹב כְּשֶׁמֵּת יִשְׁמָעֵאל בֶּן ס"ג שָׁנִים הָיָה, וְלָמַדְנוּ מִכָּאן שֶׁנִּטְמַן בְּבֵית עֵבֶר י"ד שָׁנָה וְאַחַר כָּךְ הָלַךְ לְחָרָן, שֶׁהֲרֵי לֹא שָׁהָה בְּבֵית לָבָן לִפְנֵי לֵדָתוֹ שֶׁל יוֹסֵף אֶלָּא י"ד שָׁנָה, שֶׁנֶּאֱמַר עֲבַדְתִּיךָ אַרְבַּע עֶשְׂרֵה שָׁנָה בִּשְׁתֵּי בְנֹתֶיךָ וְשֵׁשׁ שָׁנִים בְּצֹאנֶךָ, וּשְׂכַר הַצֹּאן מִשֶּׁנּוֹלַד יוֹסֵף הָיָה, שֶׁנֶּאֱמַר וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף וְגוֹ'; וְיוֹסֵף בֶּן ל' שָׁנָה הָיָה כְּשֶׁמָּלַךְ, וּמִשָּׁם עַד שֶׁיָּרַד יַעֲקֹב לְמִצְרַיִם ט' שָׁנִים, ז' שֶׁל שָׂבָע וּב' שֶׁל רָעָב, וְיַעֲקֹב אָמַר לְפַרְעֹה יְמֵי שְׁנֵי מְגוּרַי שְׁלֹשִׁים וּמְאַת שָׁנָה – צֵא וַחֲשֹׁב י"ד שֶׁלִּפְנֵי לֵדַת יוֹסֵף וּשְׁלֹשִׁים שֶׁל יוֹסֵף וְתֵשַׁע מִשֶּׁמָּלַךְ עַד שֶׁבָּא יַעֲקֹב, הֲרֵי נ"ג, וּכְשֶׁפֵּרֵשׁ מֵאָבִיו הָיָה בֶּן ס"ג, הֲרֵי קי"ו, וְהוּא אוֹמֵר שְׁלֹשִׁים וּמְאַת שָׁנָה, הֲרֵי חֲסֵרִים י"ד שָׁנִים, הָא לָמַדְתָּ שֶׁאַחַר שֶׁקִּבֵּל הַבְּרָכוֹת נִטְמַן בְּבֵית עֵבֶר י"ד שָׁנִים, אֲבָל לֹא נֶעֱנַשׁ בִּ … [cut; full text in the review pack]
+- `rashi:28:9:2` Rashi on 28:9.14 28:9.15 «עַל נָשָׁ֖יו» (matched; filed at 28:9) DH «על נשיו.»: הוֹסִיף רִשְׁעָה עַל רִשְׁעָתוֹ, שֶׁלֹּא גֵרֵשׁ אֶת הָרִאשׁוֹנוֹת:
 - `ibn-ezra:28:9:1` Ibn Ezra **normative** on whole 28:9 (segment; filed at 28:9): וכאשר שמע עשו שבירך יצחק עוד את אחיו, וצוה שלא יקח אשה מבנות כנען הלך אל דודו ולקח בתו ושמה בשמת גם מחלת כמו יתרו שהוא על דעתי חובב:
 - `ibn-ezra:28:9:2` Ibn Ezra **normative** on 28:9.12 28:9.13 «אֲח֧וֹת נְבָי֛וֹת» (matched; filed at 28:9) DH «אחות נביות.»: נכבד היה מכל אחיו או שהי' לישמעאל נשים רבות וזאת היתה אחות נביות:
 - `radak:28:9:1` Radak on 28:9.12 28:9.13 «אֲח֧וֹת נְבָי֛וֹת» (matched; filed at 28:9) DH «אֲחוֹת נְבָיוֹת.»: כִּי הָיָה נְבָיוֹת בַּעַל הַשֵּׁם, וְכֵן ״אֲחוֹת לָבָן״ (בראשית כה:כ), ״אֲחִי יָפֶת״ (בראשית י:כא).
@@ -82,6 +82,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.ck.bg` אָחוֹת (n.f) root אחה: sister
 - `1` sister
+- `2` sister — = beloved
+- `3` sister — symbol. of Judah, Samaria, Sodom & Jerusalem
+- `4` sister — fig. of intimate connection
 - `5` another
 
 ### `bdb:a.di.aa` אֶל (prep): motion to, direction towards
@@ -108,30 +111,50 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:e.bn.aa` הָלַךְ (vb) root הלך: go, come, walk
+- `Qal I.1` Qal go, come, walk — of persons
+- `Qal I.2` Qal go, come, walk — Also of animals, in similar meanings and combinations
+- `Qal I.3` Qal go, come, walk — in like manner of inanimate things
+- `Qal I.4.a` Qal go, come, walk — as in other vbs., quite independently
+- `Qal I.4.b` Qal go, come, walk — to intensify meaning of finite form
+- `Qal I.4.c.(1)` Qal go, come, walk — with a following Inf. abs. denoting a simutaneous action or process, and so emphasizing duration or continuance
+- `Qal I.4.c.(2)` Qal go, come, walk — with a foll. vb. fin. c. ו consec. (rare)
+- `Qal I.4.c.(3)` Qal go, come, walk — in cases where vb. fin. is foll. by Inf. abs. adj. denoting progress, advance
+- `Qal I.4.c.(4)` Qal go, come, walk — twice, where vb. fin. is not הלך, but another vb. denoting motion
+- `Qal I.4.c.(5)` Qal go, come, walk — quite by itself
+- `Qal I.4.c.(6)` Qal go, come, walk — t. the Inf. abs. = Imv. & is followed by Pf. consec
+- `Qal I.4.c` Qal go, come, walk — most noteworthy is the joining of the Inf. abs
+- `Qal I.4.d` Qal go, come, walk — akin to the use of Inf. abs. are some instances of Pt
+- `Qal I.4` Qal go, come, walk — The inf. abs. is often used
+- `Qal I.5` Qal go, come, walk — In combination with other verbal forms
+- `Qal I` Qal go, come, walk — lit
 - `Qal II.1` Qal pass away, die
 - `Qal II.2` Qal live, walk
+- `Qal II.3` Qal go, come, walk — of moral and religious life
+- `Qal II.4` Qal go, come, walk — other fig. uses
+- `Qal II` Qal go, come, walk — Fig.; the most common uses follow; in most the origin in a literal meaning is evident
 - `Pi 1` Pi walk
 - `Pi 2` Pi walking about
 - `Pi 3` Pi depart, go entirely away
-- `Hithp` Hithp walk, walk about, move to and fro
-- `Hiph 1` Hiph lead, bring
-- `Hiph 2` Hiph lead away
-- `Hiph 3` Hiph carry, bring
-- `Hiph 5.a` Hiph cause to walk, go
-- `Hiph 5.b` Hiph cause to flow, run
-- `Hiph 5.c` Hiph cause to depart, retire, go back
+- … 9 more senses
 
 ### `bdb:k.bg.aa` כִּי (conj): that, for, when
 - `1` that
@@ -141,6 +164,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` Because, since
 
 ### `bdb:k.cd.ac` כְּנַ֫עַן (n.pr.m): Canaan
+- `1` Canaan — as n. pr. m., son of Ham
+- `2.a` Canaan — land, W. of Jordan, into wh. Hebrews came, and where they settled, subduing the inhabitants
+- `2.b` Canaan — the coast, esp. Phoenicia
 
 ### `bdb:l.bx.aa` לָקַח (vb) root לקח: take
 - `Qal 1` Qal take, take in hand
@@ -169,18 +195,27 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithp` Hithp taking hold of itself
 
 ### `bdb:m.bn.av` מַחֲלַת (n.pr.f): Mahalath
+- `1` daughter of Ishmael
+- `2` granddaughter of David
 
 ### `bdb:n.al.ad` נְבָיוֹת (n.pr.gent): Nebaioth
 
 ### `bdb:p.ck.aa` עַ֫יִן (n.f) root עין: eye
+- `1` eye — lit. as physical organ
+- `2.a` eye — eyes as showing mental qualities
 - `2.b` desire of the eyes, abominations of the eyes
-- `2.a` surface
-- `2.b#3` appearance
+- `3` eye — Fig. of mental and physical faculties, acts and states
+- `2.a#5` surface
+- `2.b#6` appearance
 - `2.c` gleam, sparkle
+- `2` eye — Transferred mngs
 - `5` an eye for an eye, eye to eye, in the presence of, in full view of, on the forehead
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -192,13 +227,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.fz.ab` עֵשָׂו (n.pr.m): Esau
 
@@ -212,6 +250,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4` Qal see, have, vision
 - `Qal 5` Qal see
 - `Qal 6` Qal look at, see
+- `Qal 7` Qal see — of mental observation
 - `Qal 8.a` Qal look into, look at
 - `Qal 8.b` Qal see
 - `Niph 1` Niph appear
@@ -238,4 +277,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `10` bad, evil, wicked
 
 ### `bdb:v.ed.au` יִשְׁמָעֵאל (n.pr.m): Ēl heareth
+- `1` Ēl heareth — son of Abraham and Hagar
+- `2` Ēl heareth — murderer of Gedaliah
+- `3` Ēl heareth — in Benj
+- `4` Ēl heareth — in Judah
+- `5` Ēl heareth — Jew with foreign wife
 

@@ -31,7 +31,7 @@ Hebrew (MAM): וַיָּ֘מׇת֮ בַּ֣עַל חָנָ֣ן בֶּן־עַכ�
 
 ### Commentary anchored to this verse
 
-- `rashi:36:39:1` Rashi **normative** on 36:39.15 36:39.18 36:39.19 «בַּת מֵ֥י זָהָֽב׃» (matched; filed at 36:39) DH «בת מי זהב.»: מַהוּ זָהָב? עָשִׁיר הָיָה, וְאֵין זָהָב חָשׁוּב בְּעֵינָיו לִכְלוּם:
+- `rashi:36:39:1` Rashi on 36:39.15 36:39.18 36:39.19 «בַּת מֵ֥י זָהָֽב׃» (matched; filed at 36:39) DH «בת מי זהב.»: מַהוּ זָהָב? עָשִׁיר הָיָה, וְאֵין זָהָב חָשׁוּב בְּעֵינָיו לִכְלוּם:
 - `ibn-ezra:36:39:1` Ibn Ezra **normative** on 36:39.14 36:39.15 36:39.16 «מְהֵֽיטַבְאֵל֙ בַּת מַטְרֵ֔ד» (matched; filed at 36:39) DH «מהיטבאל בת מטרד.»: כטעם בת ענה בת צבעון, או הזכיר הכתוב שם אביה ושם אמה:
 - `ibn-ezra:36:39:2` Ibn Ezra **normative** on 36:39.18 36:39.19 «מֵ֥י זָהָֽב׃» (matched; filed at 36:39) DH «מי זהב.»: כן שמו והגאון אמר צורף זהב, ואחרים אמרו רמז לעושים זהב מנחושת ואלה דברי רוח:
 - `radak:36:39:1` Radak on 36:39.9 36:39.13 «וְשֵׁ֥ם אִשְׁתּ֤וֹ» (matched; filed at 36:39) DH «וְשֵׁם אִשְׁתּוֹ.»: לֹא יָדַעְנוּ לָמָּה הִזְכִּיר שֵׁם אִשְׁתּוֹ וְשֵׁם אָבִיהָ.
@@ -60,7 +60,7 @@ Hebrew (MAM): וְ֠אֵ֠לֶּה שְׁמ֞וֹת אַלּוּפֵ֤י עֵש�
 
 ### Commentary anchored to this verse
 
-- `rashi:36:40:1` Rashi **normative** on 36:40.1 36:40.2 36:40.3 36:40.4 «וְ֠אֵ֠לֶּה שְׁמ֞וֹת אַלּוּפֵ֤י עֵשָׂו֙» (matched; filed at 36:40) DH «ואלה שמות אלופי עשו.»: שֶׁנִּקְרְאוּ עַל שֵׁם מְדִינוֹתֵיהֶם לְאַחַר שֶׁמֵּת הֲדַר וּפָסְקָה מֵהֶם מַלְכוּת, וְהָרִאשׁוֹנִים הַנִּזְכָּרִים לְמַעְלָה הֵם שְׁמוֹת תּוֹלְדוֹתָם; וְכֵן מְפֹרָשׁ בְּדִבְרֵי הַיָּמִים וַיָּמָת הֲדָד וַיִּהְיוּ אַלּוּפֵי אֱדוֹם אַלּוּף תִּמְנָע וְגוֹמֵר:
+- `rashi:36:40:1` Rashi on 36:40.1 36:40.2 36:40.3 36:40.4 «וְ֠אֵ֠לֶּה שְׁמ֞וֹת אַלּוּפֵ֤י עֵשָׂו֙» (matched; filed at 36:40) DH «ואלה שמות אלופי עשו.»: שֶׁנִּקְרְאוּ עַל שֵׁם מְדִינוֹתֵיהֶם לְאַחַר שֶׁמֵּת הֲדַר וּפָסְקָה מֵהֶם מַלְכוּת, וְהָרִאשׁוֹנִים הַנִּזְכָּרִים לְמַעְלָה הֵם שְׁמוֹת תּוֹלְדוֹתָם; וְכֵן מְפֹרָשׁ בְּדִבְרֵי הַיָּמִים וַיָּמָת הֲדָד וַיִּהְיוּ אַלּוּפֵי אֱדוֹם אַלּוּף תִּמְנָע וְגוֹמֵר:
 - `ibn-ezra:36:40:1` Ibn Ezra **normative** on whole 36:40 (verse; filed at 36:40) DH «וטעם»: ואלה שמות אלפי עשו למקומתם. שיש להם היום מקומות ידועים, ואלה דברי משה, ואלה הנזכרים הם בני האלופים הכתובים למעלה, ולא הזכיר כי אם מי שיש לו מקום:
 - `ibn-ezra:36:40:2` Ibn Ezra **normative** on 36:40.9 «תִּמְנָ֛ע» (matched; filed at 36:40) DH «תמנע.»: במקום הזה זכר, כי יש לנו שמות רבים לזכר ולנקבה שוים, וכן אהליבמה, או יהיה הפי' להיות אלוף נוסף ויהיה אלוף תמנע שהיתה פילגש אליפז, אלה הם אלופיה עלוה גם יתת, והנה אלה נשיאי עמלק, ואלופי אהליבמה הי' שבעה בימי משה אנשי מקומות על כן הוסיף לבאר במושבותם:
 - `ramban:36:40:1` Ramban on 36:40.1 36:40.2 36:40.3 36:40.4 «וְ֠אֵ֠לֶּה שְׁמ֞וֹת אַלּוּפֵ֤י עֵשָׂו֙» (matched; filed at 36:40) DH «וְאֵלֶּה שְׁמוֹת אַלּוּפֵי עֵשָׂו»: מִתְּחִלָּה (בראשית ל"ו:ט"ו-י"ט) מָנָה בְּנֵי בָּנָיו שֶׁהָיוּ אַלּוּפִים בַּדּוֹר הַהוּא, וְאַחַר כֵּן הִצְלִיחוּ מִזַּרְעוֹ לִמְלוּכָה, וְאַחֲרֵי כֵן פָּסְקָה מַלְכוּתָם וְחָזְרוּ וְנָתְנוּ אֶת אֵלּוּ אַלּוּפִים לְרֹאשׁ, וְכָךְ נֶאֱמַר בְּדִבְרֵי הַיָּמִים (א א נא) "וַיָּמָת הֲדָד וַיִּהְיוּ אַלּוּפֵי אֱדוֹם אַלּוּף תִּמְנָע", כָּךְ פֵּרֵשׁ רַשִׁ"י (רש"י על בראשית ל"ו:מ'). וּמָה שֶׁאָמַר "לְמִשְׁפְּחוֹתָם לִמְקֹמֹתָם בִּשְׁמוֹתָם לְמוֹשְׁבוֹתָם בְּאֶרֶץ אֲחֻזָּתָם" (בראשית ל"ו:מ"ג), כִּי הָרִאשׁוֹנִים הָיוּ כָּל הָאַחִים אַלּוּפִים יוֹשְׁבִים כֻּלָּם בְּעִיר אַחַת מוֹשְׁלִים בָּעָם כְּאֶחָד, אוֹ כְּעִנְיַן נְשִׂיאֵי שֵׁבֶט וְרָאשֵׁי בָּתֵּי אָבוֹת, אֲבָל אֵלּוּ אַחֲרוֹנִים הָיוּ אַלּוּפִים לְמִשְׁפְּחוֹתָם, כִּי כָל אֶחָד הָיָה אַלּוּף לְכָל מִשְׁפְּחוֹת בְּנֵי עֵשָׂו וּבְכָל מְקוֹמוֹת מוֹשְׁבוֹתָם, וְהוּא לְבַדּוֹ נִקְרָא בַּדּוֹר אַלּוּף, אֵין אַחֵר נִקְרָא כֵן בְּכָל אֶרֶץ אֲחֻזָּתָם, כִּי הָיוּ כִּמְלָכִים לְאַרְצָם אֲבָל לֹא יָשְׁבוּ לְכִסֵּא לָהֶם וְלֹא נָתְנוּ עֲלֵיהֶם הוֹד מַלְכוּת. וְנִכְתְּבָה הַפָּרָשָׁה בְּדֶרֶךְ הַנְּבוּאָה לְדַעַת רַבִּים (רש"י וראב"ע והרד"ק). וְאֵינֶנּוּ נָכוֹן, כִּי הַנְּבוּאָה לָמָּה תַּזְכִּיר אֶת אֵלֶּה, וְעַד אֵיזֶה זְמַן תִּמְנֶה וְתַפְסִיק בָּהֶם. אֲבָל הַנָּכוֹן שֶׁכָּל אֵלֶּה לִפְנֵי הַתּוֹרָה, וְנֹאמַר שֶׁמָּשְׁלוּ כְּאֶחָד, וְיִהְיֶה פֵּרוּשׁ לִמְקֹמֹתָם שֶׁמָּשַׁל כָּל אֶחָד בִּמְקוֹמוֹ, אוֹ שֶׁהָיָה מֶמְשַׁלְתָּם זְמַן מוּעָט, וּשְׁנוֹת רְשָׁעִים תִּקְצֹרְנָה (משלי י כז):
@@ -131,7 +131,7 @@ Paragraph mark after this verse: פ
 
 ### Commentary anchored to this verse
 
-- `rashi:36:43:1` Rashi **normative** on 36:43.2 «מַגְדִּיאֵ֖ל» (matched; filed at 36:43) DH «מגדיאל.»: הִיא רוֹמִי:
+- `rashi:36:43:1` Rashi on 36:43.2 «מַגְדִּיאֵ֖ל» (matched; filed at 36:43) DH «מגדיאל.»: הִיא רוֹמִי:
 - `ramban:36:43:1` Ramban on 36:43.2 «מַגְדִּיאֵ֖ל» (matched; filed at 36:43) DH «מַגְדִּיאֵל»: זוֹ רוֹמִי, לְשׁוֹן רַשִׁ"י. וְלֹא הֲבִינוֹתִי זֶה, כִּי אִם נֹאמַר שֶׁיִּהְיֶה נְבוּאָה לְיָמִים רַבִּים וּלְעִתִּים רְחוֹקוֹת, הִנֵּה מְלָכִים רַבִּים מָלְכוּ לֶאֱדוֹם עַל מַלְכוּת רוֹמִי וְאֵין רוֹמִי אַלּוּף, אֲבָל הִיא מַלְכוּת גְּדוֹלָה וְאֵמְתָנִי וְתַקִּיפָא יַתִּירָא, לֹא הָיָה כָּמוֹהָ בַּמַּמְלָכוֹת. אֲבָל מָה שֶׁאָמְרוּ בְּפִרְקֵי רַבִּי אֱלִיעֶזֶר (לח), בִּשְׂכַר שֶׁפִּנָּה אֶת כֵּלָיו מִפְּנֵי יַעֲקֹב אָחִיו נִתַּן לוֹ מֵאָה מְדִינוֹת מִשֵּׂעִיר וְעַד מַגְדִּיאֵל, וּמַגְדִּיאֵל זוֹ רוֹמִי, שֶׁנֶּאֱמַר "אַלּוּף מַגְדִּיאֵל אַלּוּף עִירָם", כַּוָּנָתָם בָּזֶה מָה שֶׁהוֹדַעְתִּיךָ כַּמָּה פְּעָמִים, כִּי הָיוּ הַמִּקְרִים בָּרִאשׁוֹנִים רֶמֶז לְזַרְעָם, וְהִנֵּה אֵלֶּה הָאַלּוּפִים הָאַחֲרוֹנִים עֲשָׂרָה עִם מַגְדִּיאֵל רָמַז שֶׁיִּהְיוּ מַלְכֵי אֱדוֹם בְּמֶמְשַׁלְתָּם בַּמַּלְכוּת הָרְבִיעִית, עֲשָׂרָה יִמְלְכוּ עַל אֶרֶץ אֱדוֹם וְהָעֲשִׂירִי מֵהֶם יִמְלֹךְ עַל רוֹמִי, וּמִשָּׁם תִּתְפַּשֵּׁט אַחֲרֵי כֵן מַלְכוּתָם עַל כָּל הָעוֹלָם. וְלָזֶה יִרְמֹז שֵׁם מַגְדִּיאֵל, שֶׁיִּתְגַּדֵּל עַל כָּל אֵל, כְּמוֹ שֶׁאָמַר בּוֹ (דניאל יא לו) "וְעָשָׂה כִרְצוֹנוֹ הַמֶּלֶךְ וְיִתְרוֹמֵם וְיִתְגַּדֵּל עַל כָּל אֵל", וְזֶהוּ שֶׁנֶּאֱמַר (שם ז כד) "וְקַרְנַיָּא עֲשַׂר מִנַּהּ מַלְכוּתָא עַשְׂרָה מַלְכִין יְקֻמוּן וְאָחֳרָן יְקוּם אַחֲרֵיהוֹן וְהוּא יִשְׁנֵא מִן קַדְמָיֵא", וְאָמְרוּ בִּבְרֵאשִׁית רַבָּה (בראשית רבה ע"ו:ו'), כֻּלָּם בְּיוֹצְאֵי יְרֵכוֹ שֶׁל עֵשָׂו הַכָּתוּב מְדַבֵּר, וְדָרְשׁוּ (שם פג ד) "אַלּוּף עִירָם", שֶׁהוּא עָתִיד לַעֲרֹם תִּסּוּרִיּוֹת לַמֶּלֶךְ הַמָּשִׁיחַ … [cut; full text in the review pack]
 - `onkelos:36:43:1` Targum Onkelos on whole 36:43 (version; filed at 36:43): רַבָּא מַגְדִּיאֵל רַבָּא עִירָם אִלֵּין רַבְרְבֵי אֱדוֹם לְמוֹתְבָנְהוֹן בְּאַרְעָא אַחֲסַנְתְּהוֹן הוּא עֵשָׂו אֲבוּהוֹן דֶּאֱדוֹמָאֵי:
 
@@ -156,13 +156,23 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` land of Edom, Idumaea
 
 ### `bdb:a.bl.ag` אׇהֳלִיבָמָה (n.pr): Ohŏlibama, tent of high place
+- `1` Ohŏlibama, tent of high place — f. wife of Esau
+- `2` Ohŏlibama, tent of high place — m. as Edomite chief
 
 ### `bdb:a.bx.am` אֵלָה (n.pr.m): terebinth
+- `1` terebinth — a chief of Edom
+- `2` terebinth — son of Baasha
+- `3` terebinth — father of Hoshea who was last king of Isr
+- `4` terebinth — a son of Caleb
+- `5` terebinth — a son of Uzzi
 
 ### `bdb:a.cl.ac` אֲחֻזָּה (n.f) root אחז: possession
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.dt.ac` אַלּוּף (n.m) root אלף: chief, chiliarch
 
@@ -176,14 +186,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:b.ca.aa` בֵּן (n.m): son
@@ -191,28 +209,44 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:b.ci.af` בַּ֫עַל חָנָן (n.pr.m): Baal is gracious
+- `1` Baal is gracious — king of Edom
+- `2` Baal is gracious — a Gederite
 
 ### `bdb:e.as.ae` הֲדַר (n.pr.m): Hadar
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:i.bk.ab` מַטְרֵד (n.pr.f): Matred
 
 ### `bdb:j.bj.ad` מְהֵיטַבְאֵל (n.pr.pers): God benefits
+- `1` God benefits — f. an Edomite princess
+- `2` God benefits — m. ancestor of the false prophet Shemaiah
 
 ### `bdb:j.bs.ak` תֵּימָן (n.pr) root ימן: south
 
@@ -221,6 +255,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` sitting, those sitting, sitting company, assembly
 - `2.a` dwelling-place
 - `2.b` dwelling
+- `2.c` seat, assembly, dwelling-place, dwelling, dwellers — = house
 - `3` situation, location
 - `4` time of dwelling
 - `5` those dwelling
@@ -235,6 +270,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1` Qal die
 - `Qal 2` Qal die, be put to death
 - `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
 - `Hoph` Hoph be killed, put to death
 
 ### `bdb:m.bt.ab` מֵי זָהָב (n.pr.m): Mezahab
@@ -242,15 +281,24 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:m.cd.ae` מָלַךְ (vb. denom) root מלך: be, become king, queen, reign
 - `Qal` Qal be, king, reign
 - `Hiph` Hiph make king, queen, cause to reign
+- `Hoph` Hoph . Dn 9:1 (Hoph of: be, become king, queen, reign)
 
 ### `bdb:m.cp.ac` תִּמְנָע (n.pr.m): Timna
+- `1.a` a chief of Edom
+- `1.b` son of Eliphaz
+- `1` n.pr.m
+- `2` f. sister of Lotan (of Seir); concubine of Eliphaz son of Esau
 
 ### `bdb:p.cm.ad` עִיר (n.f): city, town
 - `1` city, town
+- `2` city, town — of fortress in a city
+- `3` city, town — appar. fortified place, of any size
 
 ### `bdb:p.cn.ag` עִירָם (n.pr.m): Iram
 
 ### `bdb:p.cn.ak` עַכְבּוֹר (n.pr.m): mouse
+- `1` mouse — Edomite
+- `2` mouse — courtier of Josiah
 
 ### `bdb:p.cs.at` עַלְוָה (n.pr.m): Aliah
 
@@ -266,17 +314,24 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.c` post, office
 - `2.a` place
 - `2.b.(1)` place of human abode
+- `2.b.(2)` standing-place, place — of י׳’s abode
+- `2.b` standing-place, place — esp
 - `3` place
 - `4` place, locality, spot
 - `5.a` space, room
 - `5.b` space, distance
 - `6` region, quarter, direction
+- `7` standing-place, place — peculiar uses
 
 ### `bdb:s.cc.ad` קְנַז (n.pr.m): Kenaz
 
 ### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `1` name — of river, beasts, city, i.e. exact designation of it
+- `2.a` name — usu. of pers
 - `2.b` reputation
+- `2.c` name — esp. as giving a man a kind of posthumous life, esp. in his sons
 - `3` name
+- `4` name — of false gods, use forbidden
 - `5` memorial, monument
 
 ### `bdb:v.ff.ac` מִשְׁפָּחָה (n.f) root שׁפח: clan

@@ -132,9 +132,14 @@ Paragraph mark after this verse: פ
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
 ### `bdb:a.bl.ag` אׇהֳלִיבָמָה (n.pr): Ohŏlibama, tent of high place
+- `1` Ohŏlibama, tent of high place — f. wife of Esau
+- `2` Ohŏlibama, tent of high place — m. as Edomite chief
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.dt.ac` אַלּוּף (n.m) root אלף: chief, chiliarch
 
@@ -146,37 +151,56 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gb.ag` אֶשְׁבָּן (n.pr.m): Eshban
 
 ### `bdb:b.bu.ae` בִּלְהָן (n.pr.m): Bilhan
+- `1` descendant of Esau
+- `2` a Benjamite
 
 ### `bdb:b.ca.aa` בֵּן (n.m): son
 - `1` son
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:d.ba.ae` דִּישֹׁן (n.pr.m): Dishon
+- `1` a son of Seir
+- `2` a son of Anah & grandson of Seir
 
 ### `bdb:d.ba.af` דִּישָׁן (n.pr.m): Dishan
 
@@ -186,14 +210,25 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:h.gi.ad` חֹרִי (adj): cave-dweller
 - `1` Seir the Horite
+- `2` cave-dweller — n.pr.gent. ancient inhabitants of land of Edom
+- `3.a` cave-dweller — an Edomite
+- `3.b` cave-dweller — a Simeonite
+- `3` cave-dweller — n.pr.pers.m
 
 ### `bdb:j.ef.am` יִתְרָן (n.pr.m): Ithran
+- `1` an Edomite
+- `2` a man of Asher
 
 ### `bdb:k.dd.ai` כְּרָ֑ן (n.pr.m): Cheran
 
 ### `bdb:l.ax.ae` לוֹטָן (n.pr.m): Lotan
 
 ### `bdb:p.bm.ab` עוּץ (n.pr): Uz
+- `1.a` (eldest) ‘son’ of Aram, = ‘son’ of Shem
+- `1.b` eldest ‘son’ of Naḥor
+- `1.c` Edomite name
+- `1` m
+- `2` loc. on Uz as vague name for E. country
 
 ### `bdb:p.dw.ab` עֲנָה (n.pr.m): Anah
 
@@ -202,6 +237,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:r.al.ab` צִבְעוֹן (n.pr.m): hyena
 
 ### `bdb:u.bs.am` שֵׂעִיר (n.pr) root שׂער: Sē‛ir
+- `1.a` Sē‛ir — terr. land of Edom, S. of Dead Sea
+- `1.b` Sē‛ir — specif. mont. E. of Arabah
+- `1.c` Sē‛ir — gent. = Edom
+- `1.d` Sē‛ir — personif. as m
+- `2` Sē‛ir — mont. in Judah
 
 ### `bdb:v.as.af` שׁוֹבָל (n.pr.m): Shobal
+- `1` Edomite name
+- `2.a` in Caleb
+- `2.b` in Judah
 

@@ -91,7 +91,7 @@ Hebrew (MAM): בְּנֵ֤י רָחֵל֙ אֵ֣שֶׁת יַעֲקֹ֔ב יוֹ
 
 ### Commentary anchored to this verse
 
-- `rashi:46:19:1` Rashi **normative** on 46:19.1 46:19.2 46:19.3 46:19.4 «בְּנֵ֤י רָחֵל֙ אֵ֣שֶׁת יַעֲקֹ֔ב» (matched; filed at 46:19) DH «בני רחל אשת יעקב.»: וּבְכֻלָּן לֹא נֶאֱמַר בָּהֶן אֵשֶׁת, אֶלָּא שֶׁהָיְתָה עִקָּרוֹ שֶׁל בַּיִת:
+- `rashi:46:19:1` Rashi on 46:19.1 46:19.2 46:19.3 46:19.4 «בְּנֵ֤י רָחֵל֙ אֵ֣שֶׁת יַעֲקֹ֔ב» (matched; filed at 46:19) DH «בני רחל אשת יעקב.»: וּבְכֻלָּן לֹא נֶאֱמַר בָּהֶן אֵשֶׁת, אֶלָּא שֶׁהָיְתָה עִקָּרוֹ שֶׁל בַּיִת:
 - `onkelos:46:19:1` Targum Onkelos on whole 46:19 (version; filed at 46:19): בְּנֵי רָחֵל אִתַּת יַעֲקֹב יוֹסֵף וּבִנְיָמִן:
 - `sforno:46:19:1` Sforno on 46:19.1 46:19.2 46:19.3 46:19.4 «בְּנֵ֤י רָחֵל֙ אֵ֣שֶׁת יַעֲקֹ֔ב» (matched; filed at 46:19) DH «בְּנֵי רָחֵל אֵשֶׁת יַעֲקֹב.»: שֶׁהָיְתָה עִקַּר כַּוָּנָתוֹ, וְכֵן מִמֶּנָּה נוֹלְדוּ
 - `sforno:46:19:2` Sforno on 46:19.5 46:19.6 «יוֹסֵ֖ף וּבִנְיָמִֽן׃» (matched; filed at 46:19) DH «יוֹסֵף וּבִנְיָמִן»: , שֶׁהָיוּ מְעֻלִּים בַּשְּׁבָטִים, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (סוטה לו:) רָאוּי הָיָה יוֹסֵף שֶׁיֵּצְאוּ מִמֶּנּוּ שְׁנֵים עָשָׂר שְׁבָטִים כְּיַעֲקֹב, וְכְאָמְרָם זִכְרוֹנָם לִבְרָכָה (שבת נה:) עַל בִּנְיָמִין שֶׁמֵּת בְּעֶטְיוֹ שֶׁל נָחָשׁ, וְכֵן הֵעִיד בְּאָמְרוֹ "לִפְנֵי אֶפְרַיִם וּבִנְיָמִין וּמְנַשֶּׁה עוֹרְרָה אֶת גְּבוּרָתֶךָ" (תהלים פ:ג).
@@ -196,12 +196,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.ck.bg` אָחוֹת (n.f) root אחה: sister
 - `1` sister
+- `2` sister — = beloved
+- `3` sister — symbol. of Judah, Samaria, Sodom & Jerusalem
+- `4` sister — fig. of intimate connection
 - `5` another
 
 ### `bdb:a.cn.ae` אֵחִי (n.pr.m): Ehi
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.ea.aq` אֹן (n.pr.loc): On
 
@@ -216,6 +222,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.fh.ae` אֶפְרַ֫יִם (n.pr.m): Ephraim
 
 ### `bdb:a.fi.ac` אֶצְבּוֹן (n.pr.m): Ezbon
+- `1` a son of Gad
+- `2` a grandson of Benjamin
 
 ### `bdb:a.fn.ag` אַרְדְּ (n.pr.m): Ard
 
@@ -227,60 +235,100 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gb.ae` אַשְׁבֵּל (n.pr.m): Ashbel
 
 ### `bdb:a.gj.af` אָשֵׁר (n.pr.m) root אשׁר: Asher, happy one, Felix
+- `1` Asher, happy one, Felix — son of Jacob and Zilpah
 - `2` the tribe
+- `3` Asher, happy one, Felix — n.pr.loc. city E. of Shechem
 
 ### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
 
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
 
 ### `bdb:b.br.ac` בֶּ֫כֶר (n.pr.m): young camel
+- `1` young camel — son of Ephraim
+- `2` young camel — son of Benjamin
 
 ### `bdb:b.by.ac` בֶּ֫לַע (n.pr.m): Bela
+- `1` a king of Edom
+- `2` 1st son of Benjamin
+- `3` a Reubenite
 
 ### `bdb:b.ca.aa` בֵּן (n.m): son
 - `1` son
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.aq` בִּנְיָמִין (n.pr.m): son of, the, right hand
+- `1` son of, the, right hand — youngest son of Jacob, so called by him, but Rachel, the mother, who died at Benjamin's birth, called בֶּן־אוֹנִ֑י (q.v.)
+- `2` son of, the, right hand — son of Bilhan and great-grandson of Benjamin
+- `3` son of, the, right hand — a Jew of Ezra's time
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:b.de.ae` בְּרִיעָה (n.pr.m): Beriah
+- `1` a son of Asher
+- `2` son of Ephraim
+- `3` a Benjamite
+- `4` a Levite
 
 ### `bdb:c.ao.af` גָּד (n.pr.m): fortunatus
+- `1` fortunatus — son of Jacob and Zilpah
+- `2` fortunatus — a prophet in David's time
 
 ### `bdb:c.cu.ag` גֵּרָא (n.pr.m): Gera
 
 ### `bdb:d.bh.ad` דָּן (n.pr.m): judge
+- `1` judge — son of Jacob and Bilhah
+- `2` judge — the tribe of Dan
+- `3` judge — a city on northern frontier of Israel at one of the sources of the Jordan
 
 ### `bdb:g.bn.ab` זִלְפָּה (n.pr.f): Zilpah
 
 ### `bdb:h.ai.ac` חֶ֫בֶר (n.pr.m): Heber
+- `1` the Kenite, husband of Deborah
+- `2` a man of Asher
+- `3` name in Judah
+- `4` a Benjamite
 
 ### `bdb:h.am.ae` חַגִּי (n.pr.m): festal
+- `1` festal — son of Gad
+- `2` festal — adj. gent. as subst. coll
 
 ### `bdb:h.bo.af` חֻשִׁים (n.pr.m): Hushim
 
@@ -289,6 +337,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -299,15 +348,24 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:j.bs.ai` יִמְנָה (n.pr.m): Imna
 - `1` the Yimnites
+- `2` a Levite
 
 ### `bdb:j.bz.ab` יוֹסֵף (n.pr.m): he adds, increases
+- `1` he adds, increases — elder son of Jacob and Rachael
+- `2` he adds, increases — a man of Issachar
+- `3` he adds, increases — a son of Asaph
+- `4` he adds, increases — one of those who took strange wives
+- `5` he adds, increases — a priest
 
 ### `bdb:k.as.ab` כֹּהֵן (n.m) root כהן: priest
 
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.ad.ac` לֵאָה (n.pr.f): Leah
 
@@ -317,20 +375,34 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:m.cp.aj` מְנַשֶּׁה (n.pr.m): Manasseh
 - `1.a` Manasseh
+- `1.b` Manasseh — of tribe
+- `2` Manasseh — son of Hezekiah
+- `3` Manasseh — two who had taken strange wives
 
 ### `bdb:m.da.az` מֻפִּים (n.pr.m): Muppim. Compare
 
 ### `bdb:m.df.ab` מִצְרַ֫יִם (n.pr.terr) root מצר: Egypt, Egyptians
 - `1.a` Egypt
+- `1.b` Egypt, Egyptians — combinations
+- `2.a` Egypt, Egyptians — in table of nations, personif. as second son of Ham
 - `2.b` Egypt, Egyptians
+- `2` Egypt, Egyptians — of people
 
 ### `bdb:n.ed.aj` נַעֲמָן (n.pr.m): Naaman
+- `1` son of Benj
+- `2` Aramaean general
 
 ### `bdb:n.en.ab` נֶ֫פֶשׁ (n.f) root נפשׁ: soul, living being, life, self, person, desire, appetite, emotion, passion
 - `1` that which breathes, the breathing substance or being
+- `2` soul, living being, life, self, person, desire, appetite, emotion, passion — The נפשׁ becomes a living being
+- `3` soul, living being, life, self, person, desire, appetite, emotion, passion — The נפשׁ is specif
 - `4` the man himself
 - `5` seat of the appetites
 - `6` seat of emotions and passions
+- `7` soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ is used occasionally for mental acts
+- `8` soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ for acts of the will is dub
+- `9` soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ = character is still more dub
+- `10` soul, living being, life, self, person, desire, appetite, emotion, passion — נ׳ in D
 
 ### `bdb:n.gg.aa` נָתַן (vb) root נתן: give, put, set
 - `Qal 1` Qal give
@@ -345,6 +417,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:p.bp.ad` עֵרִי (n.pr.m): Eri
 
 ### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
+- `1` Jacob — as n.pr.m
+- `2` Jacob — as n.pr.gent
 
 ### `bdb:p.gb.ac` עָשָׂר (N) root עשׂר: ten
 
@@ -365,6 +439,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:v.bp.ad` יִשְׁוָה (n.pr.m): Ishvah
 
 ### `bdb:v.bp.ae` יִשְׁוִי (n.pr.m): Ishuai
+- `1` in Asher
+- `2` a son of Saul
 
 ### `bdb:v.bu.ag` שׁוּנִי (n.pr.m): Shuni
+- `1` n.pr.m. in Gad
+- `2` adj.gent. of 1
 

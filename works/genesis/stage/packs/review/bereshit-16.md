@@ -24,8 +24,8 @@ Hebrew (MAM): זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם בְּי֗
 
 ### Commentary anchored to this verse
 
-- `rashi:5:1:1` Rashi **normative** on 5:1.1 5:1.2 5:1.3 5:1.4 «זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם» (matched; filed at 5:1) DH «זה ספר תולדות אדם.»: זוֹ הִיא סְפִירַת תּוֹלְדוֹת אָדָם, וּמִדְרְשֵׁי אַגָּדָה יֵשׁ רַבִּים:
-- `rashi:5:1:2` Rashi **normative** on 5:1.5 5:1.6 «בְּי֗וֹם בְּרֹ֤א» (matched; filed at 5:1) DH «ביום ברא וגו'.»: מַגִּיד שֶׁבַּיּוֹם שֶׁנִּבְרָא הוֹלִיד:
+- `rashi:5:1:1` Rashi on 5:1.1 5:1.2 5:1.3 5:1.4 «זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם» (matched; filed at 5:1) DH «זה ספר תולדות אדם.»: זוֹ הִיא סְפִירַת תּוֹלְדוֹת אָדָם, וּמִדְרְשֵׁי אַגָּדָה יֵשׁ רַבִּים:
+- `rashi:5:1:2` Rashi on 5:1.5 5:1.6 «בְּי֗וֹם בְּרֹ֤א» (matched; filed at 5:1) DH «ביום ברא וגו'.»: מַגִּיד שֶׁבַּיּוֹם שֶׁנִּבְרָא הוֹלִיד:
 - `ibn-ezra:5:1:1` Ibn Ezra **normative** on 5:1.1 5:1.2 5:1.3 5:1.4 «זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם» (matched; filed at 5:1) DH «זה ספר תולדות אדם.»: הבנים ובני בנים שהוליד, רק הוא לא הולידוהו אב ואם, רק בדמות אלהים נעשה
 - `ramban:5:1:1` Ramban on 5:1.1 5:1.2 5:1.3 5:1.4 «זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם» (matched; filed at 5:1) DH «זֶה סֵפֶר תּוֹלְדֹת אָדָם»: הַבָּנִים אֲשֶׁר יַזְכִּיר בַּפָּרָשָׁה. וּלְפִי דַּעְתִּי יִרְמֹז לְכָל הַתּוֹרָה, כִּי כָל הַתּוֹרָה כֻּלָּהּ סֵפֶר תּוֹלְדוֹת אָדָם, עַל כֵּן אָמַר בְּכָאן "סֵפֶר" וְלֹא אָמַר "וְאֵלֶּה תּוֹלְדוֹת אָדָם" כַּאֲשֶׁר יֹאמַר בִּשְׁאָר מְקוֹמוֹת (בראשית כ"ה:י"ב) "וְאֵלֶּה תּוֹלְדוֹת יִשְׁמָעֵאל", "וְאֵלֶּה תּוֹלְדוֹת יִצְחָק (שם יט)" וְכֵן כֻּלָּן. וְטַעַם "בְּיוֹם בְּרֹא אֱלֹהִים אָדָם" נִמְשָׁךְ לְפָנָיו, כִּי יַתְחִיל בְּאָדָם עַצְמוֹ, יַזְכִּיר בּוֹ שֶׁנִּבְרָא מֵאַיִן, וּלְכָךְ אָמַר בְּיוֹם בְּרֹא אֱלֹהִים מֵאַיִן הָאָדָם הַזֶּה הַנִּזְכָּר, בִּדְמוּת אֱלֹהִים עֲשָׂאוֹ, יְפָרֵשׁ שֶׁהוּא מַעֲשֵׂה אֱלֹהִים וּבִדְמוּת אֱלֹהִים. וְהִזְכִּיר כִּי כַּאֲשֶׁר בָּרָא אוֹתוֹ מֵאַיִן כֵּן בָּרָא אֶת אִשְׁתּוֹ, וְאָמַר:
 - `radak:5:1:1` Radak on 5:1.1 5:1.2 «זֶ֣ה סֵ֔פֶר» (matched; filed at 5:1) DH «זֶה סֵפֶר.»: עִנְיַן חֶשְׁבּוֹן, כִּי הוּא סוֹפֵר שְׁנֵי הַתּוֹלָדוֹת מֵאָדָם וְעַד נֹחַ, וְהֵחֵל מִבְּרִיאַת אָדָם, וְלֹא זָכַר קַיִן וְהֶבֶל, כִּי הֶבֶל לֹא הָיָה לוֹ תּוֹלָדוֹת וְקַיִן אָבְדוּ תּוֹלְדוֹתָיו, וּמִשֵּׁת נִתְקַיֵּם הַמְּצִיאוּת. וְהֵחֵל וְאָמַר
@@ -173,7 +173,7 @@ Hebrew (MAM): וַיְחִ֣י אָדָ֗ם שְׁלֹשִׁ֤ים וּמְאַ�
 
 ### Commentary anchored to this verse
 
-- `rashi:5:3:1` Rashi **normative** on 5:3.3 5:3.4 5:3.5 «שְׁלֹשִׁ֤ים וּמְאַת֙ שָׁנָ֔ה» (matched; filed at 5:3) DH «שלשים ומאת שנה.»: עַד כָּאן פָּרַשׁ מִן הָאִשָּׁה (בראשית רבה):
+- `rashi:5:3:1` Rashi on 5:3.3 5:3.4 5:3.5 «שְׁלֹשִׁ֤ים וּמְאַת֙ שָׁנָ֔ה» (matched; filed at 5:3) DH «שלשים ומאת שנה.»: עַד כָּאן פָּרַשׁ מִן הָאִשָּׁה (בראשית רבה):
 - `ibn-ezra:5:3:1` Ibn Ezra **normative** on whole 5:3 (segment; filed at 5:3): ומה טעם להזכיר ויולד בדמותו כצלמו, שנתן בו השם כח תולדות להוציא דמותו עד שידמה מעשהו לעליון ולא הזכיר כן על קין והבל, גם לא הזכיר כמה שנים היה קין וכן כמה שנים היה כשהוליד בנו חנוך בעבור שנמחה שם הבל גם קין במבול והזכיר הריגת קין להראות צדקת השם, ואם האריך אפו הענישו בסוף כטעם ונקה לא ינקה (שמות לד ז):
 - `ramban:5:3:1` Ramban on 5:3.6 5:3.7 5:3.8 «וַיּ֥וֹלֶד בִּדְמוּת֖וֹ כְּצַלְמ֑וֹ» (matched; filed at 5:3) DH «וַיּוֹלֶד בִּדְמוּתוֹ כְּצַלְמוֹ»: יָדוּעַ כִּי כָל הַנּוֹלָדִים מִן הַחַיִּים יִהְיוּ בִּדְמוּת הַמּוֹלִידִים וּבְצַלְמָם, אֲבָל בַּעֲבוּר שֶׁנִּתְעַלָּה הָאָדָם בִּדְמוּתוֹ וְצַלְמוֹ, שֶׁאָמַר בּוֹ (בראשית ה':א') "בִּדְמוּת אֱלֹהִים עָשָׂה אֹתוֹ", פֵּרֵשׁ כָּאן שֶׁאַף תּוֹלְדוֹתָיו הָיוּ כֵן בְּאוֹתוֹ הַדְּמוּת הַמְּעֻלָּה. וְלֹא אָמַר זֶה בְּקַיִן וְהֶבֶל, כִּי לֹא רָצָה לְהַאֲרִיךְ בָּהֶם, אֲבָל פֵּרֵשׁ כֵּן בְּשֵׁת, שֶׁהָעוֹלָם הֻשְׁתַּת מִמֶּנּוּ, אוֹ מִפְּנֵי שֶׁהָאָדָם נִבְרָא בְּתַכְלִית שְׁלֵמוּת הַיְּצִירָה, הִגִּיד בְּשֵׁת כִּי הָיָה כָּמוֹהוּ בַּכֹּחַ וּבַיֹּפִי:
 - `radak:5:3:1` Radak on 5:3.1 5:3.2 «וַיְחִ֣י אָדָ֗ם» (matched; filed at 5:3) DH «וַיְחִי אָדָם.»: וְאַחֲרֵי שֶׁחָיָה שְׁלֹשִׁים וּמְאַת שָׁנָה הוֹלִיד בִּדְמוּתוֹ כְּצַלְמוֹ, וּפֵרוּשׁוֹ כְּמוֹ שֶׁפֵּרַשְׁנוּ ״בְּצַלְמֵנוּ כִּדְמוּתֵנוּ״ (בראשית א:כו), כִּי אָדָם טוֹב וְשָׁלֵם הָיָה אַחַר שֶׁעָשָׂה תְּשׁוּבָה, וְאֶפְשָׁר שֶׁיִּהְיֶה פֵּרוּשׁ
@@ -374,8 +374,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.dl.ad` אֱלֹהִים (n.m.pl) root אלה: gods
@@ -383,9 +385,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
@@ -398,20 +403,29 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:b.cw.aa` בָּרָא (vb) root ברא: shape, create
 - `Qal` Qal shape, fashion, create
 - `Niph 1` Niph be created
+- `Niph 2` Niph with reference to birth (Niph of: shape, create)
+- `Niph 3` Niph of something new, astonishing (Niph of: shape, create)
 - `Pi 1` Pi cut down
 - `Pi 2` Pi cut out
 
@@ -439,21 +453,36 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:g.ah.aa` זֶה (demonstr.pron): this, here
+- `1` this, here — standing alone
+- `2` this, here — In appos. to subst
+- `3` this, here — More oft. as pred
+- `4` this, here — It is attached enclitically, almost as an adv., to certain words, esp. interrog. pronouns, to impart, in a manner often not reproducible in Engl. idiom, directness and force, bringing the question or statement made into close relation with the speaker
+- `5` this, here — In poetry, as a relative pron. (rare)
+- `6` this, here — With prefixes (in special senses)
 
 ### `bdb:g.bh.ae` זָכָר (n.m) root זכר: male
 - `I` male
@@ -475,10 +504,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -492,15 +523,24 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `1` hundred — as simple number
+- `2` hundred — as part of larger number
 - `3` hundredth
 
 ### `bdb:m.be.aa` מוּת (vb) root מות: die
 - `Qal 1` Qal die
 - `Qal 2` Qal die, be put to death
 - `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
 - `Hoph` Hoph be killed, put to death
 
 ### `bdb:n.fa.ad` נְקֵבָה (n.f) root נקב: female
@@ -550,16 +590,23 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.b` Qal read
 - `Qal 5` Qal summon
 - `Qal 6` Qal call, name
+- `Niph 1` Niph reflex (Niph of: call, proclaim, read)
 - `Niph 2` Niph be called
 - `Pu` Pu be called
 
 ### `bdb:v.cx.ac` שֵׁת (n.pr.m): Seth
 
 ### `bdb:v.du.af` שְׁלֹשִׁים (n.indecl) root שׁלשׁ: thirty
+- `1` thirty — bef. n. sg
+- `2` thirty — as ordin
 
 ### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `1` name — of river, beasts, city, i.e. exact designation of it
+- `2.a` name — usu. of pers
 - `2.b` reputation
+- `2.c` name — esp. as giving a man a kind of posthumous life, esp. in his sons
 - `3` name
+- `4` name — of false gods, use forbidden
 - `5` memorial, monument
 
 ### `bdb:v.ec.ab` שְׁמֹנֶה (n.m) root שׁמן: eight

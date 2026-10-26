@@ -84,6 +84,24 @@
   "headword": "אֲבִימֶ֫לֶךְ",
   "pos": "n.pr.m",
   "gloss": "Melek, is father",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Melek, is father — king of Gerar"
+   },
+   {
+    "path": "2",
+    "gloss": "Melek, is father — king of Gath"
+   },
+   {
+    "path": "3",
+    "gloss": "Melek, is father — son of Gideon"
+   },
+   {
+    "path": "4",
+    "gloss": "Melek, is father — priest, son of Abiathar"
+   }
+  ],
   "strong": "40"
  },
  "bdb:a.ae.aw": {
@@ -151,6 +169,10 @@
     "gloss": "meadow"
    },
    {
+    "path": "2",
+    "gloss": "n.pr.loc. city in N. Isr.; = א׳ מַיִם"
+   },
+   {
     "path": "3",
     "gloss": "acacia-meadow"
    },
@@ -197,6 +219,10 @@
   "gloss": "stone",
   "senses": [
    {
+    "path": "1",
+    "gloss": "stone — in natural state"
+   },
+   {
     "path": "2",
     "gloss": "stone"
    },
@@ -215,6 +241,18 @@
    {
     "path": "6",
     "gloss": "plummet"
+   },
+   {
+    "path": "7",
+    "gloss": "stone — objects like stone"
+   },
+   {
+    "path": "8",
+    "gloss": "stone — in sim. (mostly poet.) of sinking in water"
+   },
+   {
+    "path": "9",
+    "gloss": "stone — In topogr. terms"
    }
   ],
   "strong": "68"
@@ -312,6 +350,10 @@
    {
     "path": "6",
     "gloss": "earth"
+   },
+   {
+    "path": "7",
+    "gloss": "ground, land, tilled — n. pr. loc. city in Naphtali"
    }
   ],
   "strong": "127"
@@ -402,6 +444,31 @@
   "gloss": "love",
   "senses": [
    {
+    "path": "Qal 1",
+    "stem": "Qal",
+    "gloss": "love — human love to human object"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "love — less oft. of appetite"
+   },
+   {
+    "path": "Qal 3",
+    "stem": "Qal",
+    "gloss": "love — love to God"
+   },
+   {
+    "path": "Qal 4",
+    "stem": "Qal",
+    "gloss": "love — esp. Pt"
+   },
+   {
+    "path": "Qal 5",
+    "stem": "Qal",
+    "gloss": "love — of divine love"
+   },
+   {
     "path": "Niph",
     "stem": "Niph",
     "gloss": "lovely, loveable"
@@ -472,6 +539,16 @@
   "headword": "אׇהֳלִיבָמָה",
   "pos": "n.pr",
   "gloss": "Ohŏlibama, tent of high place",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Ohŏlibama, tent of high place — f. wife of Esau"
+   },
+   {
+    "path": "2",
+    "gloss": "Ohŏlibama, tent of high place — m. as Edomite chief"
+   }
+  ],
   "strong": "173"
  },
  "bdb:a.bo.aa": {
@@ -591,6 +668,16 @@
   "headword": "אַיָּה",
   "pos": "n.pr.m",
   "gloss": "falcon",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "falcon — a Horite"
+   },
+   {
+    "path": "2",
+    "gloss": "falcon — father of Rizpah"
+   }
+  ],
   "strong": "345"
  },
  "bdb:a.bx.af": {
@@ -625,6 +712,28 @@
   "headword": "אֵלָה",
   "pos": "n.pr.m",
   "gloss": "terebinth",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "terebinth — a chief of Edom"
+   },
+   {
+    "path": "2",
+    "gloss": "terebinth — son of Baasha"
+   },
+   {
+    "path": "3",
+    "gloss": "terebinth — father of Hoshea who was last king of Isr"
+   },
+   {
+    "path": "4",
+    "gloss": "terebinth — a son of Caleb"
+   },
+   {
+    "path": "5",
+    "gloss": "terebinth — a son of Uzzi"
+   }
+  ],
   "strong": "425"
  },
  "bdb:a.bx.an": {
@@ -642,6 +751,24 @@
   "headword": "אֵלוֹן",
   "pos": "n.pr.m",
   "gloss": "Elon",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Zebulun"
+   },
+   {
+    "path": "2",
+    "gloss": "a Hittite, father-in-law of Esau"
+   },
+   {
+    "path": "3",
+    "gloss": "a judge of Isr., of tribe of Zeb"
+   },
+   {
+    "path": "4",
+    "gloss": "n.pr.loc. a town of Dan"
+   }
+  ],
   "strong": "356"
  },
  "bdb:a.bx.au": {
@@ -713,6 +840,16 @@
   "headword": "אוֹנָם",
   "pos": "n.pr.m",
   "gloss": "vigorous",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "vigorous — chief of Horites"
+   },
+   {
+    "path": "1#2",
+    "gloss": "vigorous — chief of tribe of Judah"
+   }
+  ],
   "strong": "208"
  },
  "bdb:a.cb.af": {
@@ -729,6 +866,24 @@
   "headword": "אוֹפִיר",
   "pos": "n.pr",
   "gloss": "Ophir",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Ophir — n.pr.m. 11th son of Joktan"
+   },
+   {
+    "path": "2",
+    "gloss": "Ophir — n.pr.loc. (land or city S. or SE. fr. Palestine) place whither Sol.’s ships went fr. Ezion Geber, bringing thence gold"
+   },
+   {
+    "path": "3",
+    "gloss": "Ophir — characteristic of fine gold (poet. \u0026 late)"
+   },
+   {
+    "path": "4",
+    "gloss": "Ophir — hence for fine gold itself"
+   }
+  ],
   "strong": "211"
  },
  "bdb:a.cc.aa": {
@@ -855,6 +1010,10 @@
    {
     "path": "10",
     "gloss": "light"
+   },
+   {
+    "path": "11",
+    "gloss": "light — Yahweh"
    }
   ],
   "strong": "216"
@@ -891,6 +1050,16 @@
   "headword": "אָז",
   "pos": "adv",
   "gloss": "at that time, then",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "at that time, then — strictly temporal"
+   },
+   {
+    "path": "2",
+    "gloss": "at that time, then — expressing logical sequence strictly"
+   }
+  ],
   "strong": "227"
  },
  "bdb:a.ce.ad": {
@@ -972,6 +1141,10 @@
     "gloss": "a certain"
    },
    {
+    "path": "4",
+    "gloss": "one — = indef. art"
+   },
+   {
     "path": "5",
     "gloss": "only, once"
    },
@@ -982,6 +1155,10 @@
    {
     "path": "7",
     "gloss": "first"
+   },
+   {
+    "path": "8",
+    "gloss": "one — in combin"
    }
   ],
   "strong": "259"
@@ -997,6 +1174,14 @@
    {
     "path": "1",
     "gloss": "brother"
+   },
+   {
+    "path": "2",
+    "gloss": "brother — indef. = relative"
+   },
+   {
+    "path": "3",
+    "gloss": "brother — fig. of resemblance"
    },
    {
     "path": "4",
@@ -1016,6 +1201,18 @@
    {
     "path": "1",
     "gloss": "sister"
+   },
+   {
+    "path": "2",
+    "gloss": "sister — = beloved"
+   },
+   {
+    "path": "3",
+    "gloss": "sister — symbol. of Judah, Samaria, Sodom \u0026 Jerusalem"
+   },
+   {
+    "path": "4",
+    "gloss": "sister — fig. of intimate connection"
    },
    {
     "path": "5",
@@ -1140,12 +1337,20 @@
     "gloss": "afterwards"
    },
    {
+    "path": "1",
+    "gloss": "the hinder, following part — adv"
+   },
+   {
     "path": "2.a",
     "gloss": "behind, after"
    },
    {
     "path": "2.b",
     "gloss": "after"
+   },
+   {
+    "path": "2",
+    "gloss": "the hinder, following part — prep"
    },
    {
     "path": "3",
@@ -1228,6 +1433,10 @@
    {
     "path": "1",
     "gloss": "where?"
+   },
+   {
+    "path": "2",
+    "gloss": "prefixed to other adverbs or prons., אַי imparts an interrog. force"
    }
   ],
   "strong": "335"
@@ -1348,8 +1557,16 @@
     "gloss": "there is (was) not to, have, has, had, not"
    },
    {
+    "path": "4",
+    "gloss": "nothing, nought — in circumst. clauses"
+   },
+   {
     "path": "5",
     "gloss": "it is not to"
+   },
+   {
+    "path": "6",
+    "gloss": "nothing, nought — with prefixes"
    }
   ],
   "strong": "369"
@@ -1467,6 +1684,10 @@
   "pos": "n.f",
   "gloss": "food, eating",
   "senses": [
+   {
+    "path": "1",
+    "gloss": "food, eating — esp. in phr"
+   },
    {
     "path": "2",
     "gloss": "devouring"
@@ -1595,8 +1816,20 @@
   "gloss": "these",
   "senses": [
    {
+    "path": "a",
+    "gloss": "these — in appos. to a subst. with a pron. suff. (always without the article)"
+   },
+   {
     "path": "b",
     "gloss": "these, those"
+   },
+   {
+    "path": "c",
+    "gloss": "these — with the art. (but only after a subst. determined likewise by the art.)"
+   },
+   {
+    "path": "d",
+    "gloss": "these — with preps"
    }
   ],
   "strong": "428"
@@ -1624,6 +1857,10 @@
    {
     "path": "4",
     "gloss": "Ēl"
+   },
+   {
+    "path": "5",
+    "gloss": "god — as characterizing mighty things in nature"
    },
    {
     "path": "6",
@@ -1661,6 +1898,10 @@
     "gloss": "gods"
    },
    {
+    "path": "1",
+    "gloss": "pl. in number"
+   },
+   {
     "path": "2.a",
     "gloss": "god, goddess"
    },
@@ -1669,8 +1910,16 @@
     "gloss": "godlike one"
    },
    {
+    "path": "2.c",
+    "gloss": "works of God, or things belongng to him"
+   },
+   {
     "path": "2.d",
     "gloss": "God"
+   },
+   {
+    "path": "2",
+    "gloss": "pl. intensive"
    },
    {
     "path": "3",
@@ -1697,6 +1946,40 @@
   "headword": "אֱלִיעֶ֫זֶר",
   "pos": "n.pr.m",
   "gloss": "God is help",
+  "senses": [
+   {
+    "path": "a",
+    "gloss": "God is help — Abraham’s steward, a Damascene"
+   },
+   {
+    "path": "b",
+    "gloss": "God is help — son of Moses"
+   },
+   {
+    "path": "c",
+    "gloss": "God is help — Benjamite"
+   },
+   {
+    "path": "d",
+    "gloss": "God is help — several priests"
+   },
+   {
+    "path": "e",
+    "gloss": "God is help — Reubenite"
+   },
+   {
+    "path": "f",
+    "gloss": "God is help — prophet in time of Jehoshaphat"
+   },
+   {
+    "path": "g",
+    "gloss": "God is help — Levite chief"
+   },
+   {
+    "path": "h",
+    "gloss": "God is help — son of Harim"
+   }
+  ],
   "strong": "461"
  },
  "bdb:a.dl.av": {
@@ -1705,6 +1988,16 @@
   "headword": "אֱלִיפַז",
   "pos": "n.pr.m",
   "gloss": "God of fine gold",
+  "senses": [
+   {
+    "path": "a",
+    "gloss": "God of fine gold — son of Esau"
+   },
+   {
+    "path": "b",
+    "gloss": "God of fine gold — friend of Job"
+   }
+  ],
   "strong": "464"
  },
  "bdb:a.dm.ab": {
@@ -1833,6 +2126,10 @@
    {
     "path": "1",
     "gloss": "if"
+   },
+   {
+    "path": "2",
+    "gloss": "Interrog. part"
    }
   ],
   "strong": "518"
@@ -1848,6 +2145,10 @@
    {
     "path": "1",
     "gloss": "maidservant"
+   },
+   {
+    "path": "2",
+    "gloss": "maid, handmaid — fig. in address"
    }
   ],
   "strong": "519"
@@ -1863,6 +2164,10 @@
    {
     "path": "1",
     "gloss": "mother"
+   },
+   {
+    "path": "2",
+    "gloss": "mother — fig. of Deborah as caring for her people"
    },
    {
     "path": "3",
@@ -2152,6 +2457,20 @@
   "headword": "אֱמֹרִי",
   "pos": "n.pr.m.coll",
   "gloss": "Amorites, mountain-dwellers",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Amorites, mountain-dwellers — called son of Canaan"
+   },
+   {
+    "path": "2",
+    "gloss": "Amorites, mountain-dwellers — a chief people dispossessed by Hebrews"
+   },
+   {
+    "path": "3",
+    "gloss": "Amorites, mountain-dwellers — adj.gent"
+   }
+  ],
   "strong": "567"
  },
  "bdb:a.ea.al": {
@@ -2372,6 +2691,11 @@
     "gloss": "assemble, be gathered"
    },
    {
+    "path": "Niph 2",
+    "stem": "Niph",
+    "gloss": "pass. of Qal 2 (Niph of: gather, remove)"
+   },
+   {
     "path": "Niph 3",
     "stem": "Niph",
     "gloss": "be taken away, removed, perish"
@@ -2436,6 +2760,11 @@
     "path": "Qal 5",
     "stem": "Qal",
     "gloss": "begin the battle, make the attack"
+   },
+   {
+    "path": "Qal 6",
+    "stem": "Qal",
+    "gloss": "tie, bind, imprison — fig. of obligation of oath or vow"
    },
    {
     "path": "Niph",
@@ -2535,6 +2864,24 @@
   "headword": "אֶפְרָ֫תָה",
   "pos": "n.pr",
   "gloss": "once (Psalm 132:6) perhaps for Ephraim; also of an Israelitish woman; Ephrath",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "n. pr. loc. place near Bethel, where Rachel died \u0026 was buried"
+   },
+   {
+    "path": "2",
+    "gloss": "id., a name of Bethlehem"
+   },
+   {
+    "path": "3",
+    "gloss": "id., perh. applied to district where Kitjath Jearim lay, on the border of Judah \u0026 Benjamin"
+   },
+   {
+    "path": "4",
+    "gloss": "n. pr. f. name given to wife of Caleb"
+   }
+  ],
   "strong": "672"
  },
  "bdb:a.fi.ac": {
@@ -2543,6 +2890,16 @@
   "headword": "אֶצְבּוֹן",
   "pos": "n.pr.m",
   "gloss": "Ezbon",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "a son of Gad"
+   },
+   {
+    "path": "2",
+    "gloss": "a grandson of Benjamin"
+   }
+  ],
   "strong": "675"
  },
  "bdb:a.fj.ab": {
@@ -2571,6 +2928,11 @@
     "path": "Niph",
     "stem": "Niph",
     "gloss": "be withdrawn, shortened, narrowed"
+   },
+   {
+    "path": "Hiph",
+    "stem": "Hiph",
+    "gloss": ". = Qal (Hiph of: lay aside, reserve, withdraw, withhold)"
    }
   ],
   "strong": "680"
@@ -2642,6 +3004,10 @@
   "gloss": "way, path",
   "senses": [
    {
+    "path": "1",
+    "gloss": "way, path — lit"
+   },
+   {
     "path": "2",
     "gloss": "path, way"
    },
@@ -2712,6 +3078,10 @@
     "gloss": "length"
    },
    {
+    "path": "b",
+    "gloss": "length — of time"
+   },
+   {
     "path": "c",
     "gloss": "forbearance, self-restraint"
    }
@@ -2735,12 +3105,28 @@
   "gloss": "Aram",
   "senses": [
    {
+    "path": "1",
+    "gloss": "Aram — 5th son of Shem"
+   },
+   {
+    "path": "2",
+    "gloss": "Aram — grandson of Nahor"
+   },
+   {
+    "path": "4",
+    "gloss": "Aram — a descendant of Asher"
+   },
+   {
     "path": "a",
     "gloss": "the Aramæans"
    },
    {
     "path": "b",
     "gloss": "Mesopotamia, Paddan-Aram"
+   },
+   {
+    "path": "c",
+    "gloss": "Aram — often indeterminate"
    }
   ],
   "strong": "758"
@@ -2813,8 +3199,32 @@
     "gloss": "earth"
    },
    {
+    "path": "2.a",
+    "gloss": "land — country, territory"
+   },
+   {
+    "path": "2.b",
+    "gloss": "land — district, region"
+   },
+   {
+    "path": "2.c",
+    "gloss": "land — trial territory"
+   },
+   {
+    "path": "2.d",
+    "gloss": "land — piece of ground"
+   },
+   {
     "path": "2.e",
     "gloss": "land"
+   },
+   {
+    "path": "2.f",
+    "gloss": "land — = inhabitants of land"
+   },
+   {
+    "path": "2.g",
+    "gloss": "land — used even of Shᵉʼôl"
    },
    {
     "path": "2",
@@ -2833,6 +3243,10 @@
     "gloss": "people of the land"
    },
    {
+    "path": "4.b",
+    "gloss": "earth, land — in measurements of distance"
+   },
+   {
     "path": "4.c",
     "gloss": "the country of the plain, level, plain country"
    },
@@ -2843,6 +3257,10 @@
    {
     "path": "4.e",
     "gloss": "end(s) of the earth"
+   },
+   {
+    "path": "4",
+    "gloss": "earth, land — אֶרֶץ in phrases"
    },
    {
     "path": "5",
@@ -2901,6 +3319,26 @@
    {
     "path": "1",
     "gloss": "fire"
+   },
+   {
+    "path": "2",
+    "gloss": "fire — of supernatural fire"
+   },
+   {
+    "path": "3",
+    "gloss": "fire — fire for cooking, roasting, parching"
+   },
+   {
+    "path": "4",
+    "gloss": "fire — esp. of altar fire"
+   },
+   {
+    "path": "5",
+    "gloss": "fire — fig. of Yahweh's anger"
+   },
+   {
+    "path": "6",
+    "gloss": "fire — in various combinations"
    }
   ],
   "strong": "784"
@@ -2963,6 +3401,10 @@
   "gloss": "Eshcol",
   "senses": [
    {
+    "path": "1",
+    "gloss": "m. an Amorite, brother of Mamre, dwelling in neighborhood of Hebron"
+   },
+   {
     "path": "2",
     "gloss": "valley of Eshcol, valley of a cluster"
    }
@@ -2975,6 +3417,16 @@
   "headword": "אַשְׁכְּנַז",
   "pos": "n.pr.m",
   "gloss": "Ashkenaz",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "a descendant of Japhet"
+   },
+   {
+    "path": "2",
+    "gloss": "a northern people"
+   }
+  ],
   "strong": "813"
  },
  "bdb:a.ge.ab": {
@@ -3086,8 +3538,16 @@
   "gloss": "Asher, happy one, Felix",
   "senses": [
    {
+    "path": "1",
+    "gloss": "Asher, happy one, Felix — son of Jacob and Zilpah"
+   },
+   {
     "path": "2",
     "gloss": "the tribe"
+   },
+   {
+    "path": "3",
+    "gloss": "Asher, happy one, Felix — n.pr.loc. city E. of Shechem"
    }
   ],
   "strong": "836"
@@ -3172,6 +3632,22 @@
     "gloss": "together with"
    },
    {
+    "path": "2",
+    "gloss": "with, proximity — Of localities"
+   },
+   {
+    "path": "3.a",
+    "gloss": "with, proximity — in one's possession or keeping"
+   },
+   {
+    "path": "3.b",
+    "gloss": "with, proximity — in one's knowledge or memory"
+   },
+   {
+    "path": "3",
+    "gloss": "with, proximity — אֵת פּ׳ denotes specially"
+   },
+   {
     "path": "4",
     "gloss": "from proximity with"
    }
@@ -3202,6 +3678,18 @@
    {
     "path": "2",
     "gloss": "pit"
+   },
+   {
+    "path": "3.a",
+    "gloss": "well, pit — a station of Isr. in desert"
+   },
+   {
+    "path": "3.b",
+    "gloss": "well, pit — miles north of Eleutheropolis"
+   },
+   {
+    "path": "3",
+    "gloss": "well, pit — as n.pr.loc"
    }
   ],
   "strong": "875"
@@ -3230,6 +3718,16 @@
   "headword": "בְּאֵרִי",
   "pos": "n.pr.m",
   "gloss": "my well",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "my well — a Hittite, Esau's father-in-law Gn 26:34"
+   },
+   {
+    "path": "2",
+    "gloss": "my well — Hosea's father Ho 1:1"
+   }
+  ],
   "strong": "882"
  },
  "bdb:b.ac.am": {
@@ -3381,6 +3879,11 @@
     "gloss": "divide, separate"
    },
    {
+    "path": "Hiph 1#6",
+    "stem": "Hiph",
+    "gloss": "(reflex. of . 2) (Hiph of: be divided, separate)"
+   },
+   {
     "path": "Niph 2",
     "stem": "Niph",
     "gloss": "be separated"
@@ -3460,6 +3963,14 @@
   "pos": "n.f",
   "gloss": "beast, animal, cattle",
   "senses": [
+   {
+    "path": "1",
+    "gloss": "beast, animal, cattle — of living creatures other than man"
+   },
+   {
+    "path": "2",
+    "gloss": "beast, animal, cattle — opp. also to wild beasts"
+   },
    {
     "path": "3",
     "gloss": "wild beasts"
@@ -3557,6 +4068,10 @@
    {
     "path": "1",
     "gloss": "contempt"
+   },
+   {
+    "path": "2",
+    "gloss": "contempt — judicial, poured out by God, in judgment"
    }
   ],
   "strong": "937"
@@ -3567,6 +4082,16 @@
   "headword": "בּוּז",
   "pos": "n.pr.m",
   "gloss": "Buz",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "2nd son of Nahor. Abraham's brother"
+   },
+   {
+    "path": "2",
+    "gloss": "a Gadite"
+   }
+  ],
   "strong": "938"
  },
  "bdb:b.as.ac": {
@@ -3761,6 +4286,11 @@
     "gloss": "man’s choice"
    },
    {
+    "path": "Qal 1",
+    "stem": "Qal",
+    "gloss": "choose — with בְּ"
+   },
+   {
     "path": "Qal 2.a",
     "stem": "Qal",
     "gloss": "divine choice"
@@ -3769,6 +4299,11 @@
     "path": "Qal 2.b",
     "stem": "Qal",
     "gloss": "man’s choice"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "choose — with אֲשֶׁר"
    },
    {
     "path": "Qal 3",
@@ -3789,6 +4324,11 @@
     "path": "Qal 5.b",
     "stem": "Qal",
     "gloss": "man’s choice"
+   },
+   {
+    "path": "Qal 5",
+    "stem": "Qal",
+    "gloss": "choose — acc"
    },
    {
     "path": "Qal 6",
@@ -3973,6 +4513,10 @@
     "gloss": "receptacle"
    },
    {
+    "path": "4",
+    "gloss": "house — of house as containing a family"
+   },
+   {
     "path": "5",
     "gloss": "household, family"
    },
@@ -3991,6 +4535,10 @@
    {
     "path": "8.b",
     "gloss": "within"
+   },
+   {
+    "path": "8",
+    "gloss": "house — מִבַּיִת"
    }
   ],
   "strong": "1004"
@@ -4001,6 +4549,16 @@
   "headword": "בֵּֽיתְ־אֵל",
   "pos": "n.pr.loc",
   "gloss": "Bethel",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Bethel — ancient place and seat of worship in Ephraim on border of Benjamin, identif. with Luz (former name)"
+   },
+   {
+    "path": "2",
+    "gloss": "Bethel — place in south country of Judah, not far from Beersheba \u0026 Ziklag"
+   }
+  ],
   "strong": "1008"
  },
  "bdb:b.bp.az": {
@@ -4009,6 +4567,16 @@
   "headword": "בֵּית לֶ֫חֶם",
   "pos": "n.pr.loc",
   "gloss": "Bethlehem",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "in Judah, 2 hours south of Jerusalem; birth-place of David"
+   },
+   {
+    "path": "2",
+    "gloss": "in Zeb., 7 m. NW. of Nazareth"
+   }
+  ],
   "strong": "1035"
  },
  "bdb:b.bq.aa": {
@@ -4038,6 +4606,16 @@
     "path": "Qal 4",
     "stem": "Qal",
     "gloss": "bewail"
+   },
+   {
+    "path": "Qal 5",
+    "stem": "Qal",
+    "gloss": "weep, bewail — in sense of burden, annoy with weeping"
+   },
+   {
+    "path": "Qal 6",
+    "stem": "Qal",
+    "gloss": "weep, bewail — of penitent weeping"
    },
    {
     "path": "Pi",
@@ -4103,6 +4681,16 @@
   "headword": "בֶּ֫כֶר",
   "pos": "n.pr.m",
   "gloss": "young camel",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "young camel — son of Ephraim"
+   },
+   {
+    "path": "2",
+    "gloss": "young camel — son of Benjamin"
+   }
+  ],
   "strong": "1071"
  },
  "bdb:b.br.ah": {
@@ -4192,6 +4780,14 @@
    {
     "path": "2",
     "gloss": "not, except"
+   },
+   {
+    "path": "3",
+    "gloss": "failure, not, except — conj. (likewise after a neg., expressed or implied)"
+   },
+   {
+    "path": "4",
+    "gloss": "failure, not, except — With preps"
    }
   ],
   "strong": "1115"
@@ -4210,6 +4806,16 @@
   "headword": "בִּלְהָן",
   "pos": "n.pr.m",
   "gloss": "Bilhan",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "descendant of Esau"
+   },
+   {
+    "path": "2",
+    "gloss": "a Benjamite"
+   }
+  ],
   "strong": "1092"
  },
  "bdb:b.bv.aa": {
@@ -4280,6 +4886,11 @@
     "path": "Pu",
     "stem": "Pu",
     "gloss": "be swallowed up"
+   },
+   {
+    "path": "Hithp",
+    "stem": "Hithp",
+    "gloss": ". their wisdom is all gone, ‘they are at their wit’s end’ (Hithp of: swallow down, swallow up, engulf)"
    }
   ],
   "strong": "1104"
@@ -4290,6 +4901,20 @@
   "headword": "בֶּ֫לַע",
   "pos": "n.pr.m",
   "gloss": "Bela",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "a king of Edom"
+   },
+   {
+    "path": "2",
+    "gloss": "1st son of Benjamin"
+   },
+   {
+    "path": "3",
+    "gloss": "a Reubenite"
+   }
+  ],
   "strong": "1106"
  },
  "bdb:b.by.ae": {
@@ -4324,6 +4949,10 @@
     "gloss": "the young"
    },
    {
+    "path": "5",
+    "gloss": "son — of plant shoots"
+   },
+   {
     "path": "6",
     "gloss": "sparks, stars, arrows"
    },
@@ -4334,6 +4963,14 @@
    {
     "path": "7.b",
     "gloss": "son of (the) herd"
+   },
+   {
+    "path": "8",
+    "gloss": "son — ב׳ as n. relat. followed by word of quality, characteristic, etc"
+   },
+   {
+    "path": "9",
+    "gloss": "son — n. relat. of age"
    }
   ],
   "strong": "1121"
@@ -4360,6 +4997,20 @@
   "headword": "בִּנְיָמִין",
   "pos": "n.pr.m",
   "gloss": "son of, the, right hand",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of, the, right hand — youngest son of Jacob, so called by him, but Rachel, the mother, who died at Benjamin's birth, called בֶּן־אוֹנִ֑י (q.v.)"
+   },
+   {
+    "path": "2",
+    "gloss": "son of, the, right hand — son of Bilhan and great-grandson of Benjamin"
+   },
+   {
+    "path": "3",
+    "gloss": "son of, the, right hand — a Jew of Ezra's time"
+   }
+  ],
   "strong": "1144"
  },
  "bdb:b.ca.at": {
@@ -4378,16 +5029,32 @@
     "gloss": "young women, women"
    },
    {
+    "path": "3",
+    "gloss": "daughter — with name of city, land, or people, poet. personif. of that city or inhabitants"
+   },
+   {
     "path": "4",
     "gloss": "villages"
+   },
+   {
+    "path": "5",
+    "gloss": "daughter — in phrases denoting character, quality, etc"
    },
    {
     "path": "6",
     "gloss": "ostrich"
    },
    {
+    "path": "7",
+    "gloss": "daughter — fig"
+   },
+   {
     "path": "8",
     "gloss": "branch"
+   },
+   {
+    "path": "9",
+    "gloss": "daughter — as n. relat"
    }
   ],
   "strong": "1323"
@@ -4488,6 +5155,10 @@
     "gloss": "rulers, lords"
    },
    {
+    "path": "I.5",
+    "gloss": "owner, lord — n. of relation"
+   },
+   {
     "path": "II",
     "gloss": "lord, Baal"
    }
@@ -4500,6 +5171,16 @@
   "headword": "בַּ֫עַל חָנָן",
   "pos": "n.pr.m",
   "gloss": "Baal is gracious",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Baal is gracious — king of Edom"
+   },
+   {
+    "path": "2",
+    "gloss": "Baal is gracious — a Gederite"
+   }
+  ],
   "strong": "1177"
  },
  "bdb:b.cj.ad": {
@@ -4517,6 +5198,16 @@
   "headword": "בְּעוֹר",
   "pos": "n.pr.m",
   "gloss": "a burning, torch",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "a burning, torch — father of Balaam"
+   },
+   {
+    "path": "2",
+    "gloss": "a burning, torch — father of a king of Edom"
+   }
+  ],
   "strong": "1160"
  },
  "bdb:b.cm.ab": {
@@ -4560,6 +5251,16 @@
   "headword": "בׇּצְרָה",
   "pos": "n.pr.loc",
   "gloss": "Bozrah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "city of Edom"
+   },
+   {
+    "path": "2",
+    "gloss": "of Moab"
+   }
+  ],
   "strong": "1224"
  },
  "bdb:b.cr.aa": {
@@ -4752,6 +5453,16 @@
     "gloss": "be created"
    },
    {
+    "path": "Niph 2",
+    "stem": "Niph",
+    "gloss": "with reference to birth (Niph of: shape, create)"
+   },
+   {
+    "path": "Niph 3",
+    "stem": "Niph",
+    "gloss": "of something new, astonishing (Niph of: shape, create)"
+   },
+   {
     "path": "Pi 1",
     "stem": "Pi",
     "gloss": "cut down"
@@ -4788,6 +5499,16 @@
   "headword": "בֶּ֫רֶד",
   "pos": "n.pr.loc",
   "gloss": "Bered",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "n.pr.loc. near Kadesh"
+   },
+   {
+    "path": "2",
+    "gloss": "n.pr.m. an Ephraimite"
+   }
+  ],
   "strong": "1260"
  },
  "bdb:b.da.ab": {
@@ -4819,12 +5540,20 @@
     "gloss": "alliance"
    },
    {
+    "path": "I",
+    "gloss": "covenant — between men"
+   },
+   {
     "path": "II.1",
     "gloss": "alliance"
    },
    {
     "path": "II.2",
     "gloss": "covenant"
+   },
+   {
+    "path": "II",
+    "gloss": "covenant — between God and man"
    },
    {
     "path": "III.1",
@@ -4837,6 +5566,10 @@
    {
     "path": "III.3",
     "gloss": "covenant violation"
+   },
+   {
+    "path": "III",
+    "gloss": "covenant — Phrases"
    }
   ],
   "strong": "1285"
@@ -5039,6 +5772,24 @@
   "headword": "בְּרִיעָה",
   "pos": "n.pr.m",
   "gloss": "Beriah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "a son of Asher"
+   },
+   {
+    "path": "2",
+    "gloss": "son of Ephraim"
+   },
+   {
+    "path": "3",
+    "gloss": "a Benjamite"
+   },
+   {
+    "path": "4",
+    "gloss": "a Levite"
+   }
+  ],
   "strong": "1283"
  },
  "bdb:b.dg.ac": {
@@ -5064,6 +5815,16 @@
   "headword": "בָּֽשְׂמַת",
   "pos": "n.pr.f",
   "gloss": "perfume",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "perfume — Hittite woman, a wife of Esau"
+   },
+   {
+    "path": "2",
+    "gloss": "perfume — daughter of Solomon, wife of Ahimaaz"
+   }
+  ],
   "strong": "1315"
  },
  "bdb:b.di.af": {
@@ -5072,6 +5833,16 @@
   "headword": "מִבְשָׂם",
   "pos": "n.pr.m",
   "gloss": "Mibsam",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Ishmael"
+   },
+   {
+    "path": "2",
+    "gloss": "a descendant of Simeon"
+   }
+  ],
   "strong": "4017"
  },
  "bdb:b.dj.ab": {
@@ -5175,6 +5946,10 @@
   "pos": "n.m",
   "gloss": "part, piece",
   "senses": [
+   {
+    "path": "1",
+    "gloss": "part, piece — always of halves of animals cut in two in making covenants"
+   },
    {
     "path": "2",
     "gloss": "mountains of cutting, cleft mountains"
@@ -5403,6 +6178,16 @@
   "headword": "גָּד",
   "pos": "n.pr.m",
   "gloss": "fortunatus",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "fortunatus — son of Jacob and Zilpah"
+   },
+   {
+    "path": "2",
+    "gloss": "fortunatus — a prophet in David's time"
+   }
+  ],
   "strong": "1410"
  },
  "bdb:c.ap.ad": {
@@ -5498,8 +6283,36 @@
   "gloss": "great",
   "senses": [
    {
+    "path": "1",
+    "gloss": "great — in magnitude and extent"
+   },
+   {
+    "path": "2",
+    "gloss": "great — in number"
+   },
+   {
+    "path": "3",
+    "gloss": "great — in intensity"
+   },
+   {
     "path": "4",
     "gloss": "loud"
+   },
+   {
+    "path": "5",
+    "gloss": "great — in age"
+   },
+   {
+    "path": "6",
+    "gloss": "great — in importance"
+   },
+   {
+    "path": "7",
+    "gloss": "great — in phrases"
+   },
+   {
+    "path": "8",
+    "gloss": "great — cstr"
    },
    {
     "path": "9",
@@ -5603,6 +6416,16 @@
   "root": "גון",
   "pos": "n.pr.m",
   "gloss": "Guni",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "a Naphtalite"
+   },
+   {
+    "path": "2",
+    "gloss": "a Gadite"
+   }
+  ],
   "strong": "1476"
  },
  "bdb:c.bd.aa": {
@@ -5669,6 +6492,10 @@
    {
     "path": "1",
     "gloss": "whelps"
+   },
+   {
+    "path": "2",
+    "gloss": "whelp, young — young of jackals"
    }
   ],
   "strong": "1482"
@@ -5765,6 +6592,16 @@
   "root": "גיח",
   "pos": "n.pr.fl",
   "gloss": "a bursting forth",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "a bursting forth — one of the rivers of Eden"
+   },
+   {
+    "path": "2",
+    "gloss": "a bursting forth — spring of water near Jerusalem"
+   }
+  ],
   "strong": "1521"
  },
  "bdb:c.ca.aa": {
@@ -5801,6 +6638,11 @@
     "gloss": "discover, shew oneself"
    },
    {
+    "path": "Niph 1",
+    "stem": "Niph",
+    "gloss": "refl (Niph of: uncover, remove)"
+   },
+   {
     "path": "Niph 2.a",
     "stem": "Niph",
     "gloss": "be uncovered"
@@ -5809,6 +6651,11 @@
     "path": "Niph 2.b",
     "stem": "Niph",
     "gloss": "be disclosed, discovered"
+   },
+   {
+    "path": "Niph 2",
+    "stem": "Niph",
+    "gloss": "pass (Niph of: uncover, remove)"
    },
    {
     "path": "Niph 3",
@@ -5927,6 +6774,11 @@
     "gloss": "roll oneself over and over"
    },
    {
+    "path": "Hithpalp",
+    "stem": "Hithpalp",
+    "gloss": ". cf. Hithpo (Hithpalp of: roll, roll away)"
+   },
+   {
     "path": "Hiph",
     "stem": "Hiph",
     "gloss": "roll away"
@@ -5971,6 +6823,32 @@
   "headword": "גִּלְעָד",
   "pos": "n.pr.loc",
   "gloss": "Gilead",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "territory S. of Jabboḳ"
+   },
+   {
+    "path": "2",
+    "gloss": "Northern Gilead"
+   },
+   {
+    "path": "3",
+    "gloss": "more generally, of all Gilead"
+   },
+   {
+    "path": "4",
+    "gloss": "name of a city"
+   },
+   {
+    "path": "5",
+    "gloss": "of Israelites living E. of Jordan (as a whole)"
+   },
+   {
+    "path": "6",
+    "gloss": "treated as n.pr.m"
+   }
+  ],
   "strong": "1568"
  },
  "bdb:c.ch.aa": {
@@ -5981,6 +6859,11 @@
   "pos": "vb",
   "gloss": "swallow",
   "senses": [
+   {
+    "path": "Pi",
+    "stem": "Pi",
+    "gloss": ". fig. of horse in swift gallop (Pi of: swallow)"
+   },
    {
     "path": "Hiph",
     "stem": "Hiph",
@@ -6037,6 +6920,24 @@
   "root": "גמל",
   "pos": "n.m",
   "gloss": "camel",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "camel — as property"
+   },
+   {
+    "path": "2",
+    "gloss": "camel — as beasts of burden"
+   },
+   {
+    "path": "3",
+    "gloss": "camel — for riding"
+   },
+   {
+    "path": "4",
+    "gloss": "camel — forbidden as food"
+   }
+  ],
   "strong": "1581"
  },
  "bdb:c.ck.ab": {
@@ -6055,6 +6956,16 @@
   "root": "גמר",
   "pos": "n.pr",
   "gloss": "Gomer",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "m. son of Japhet"
+   },
+   {
+    "path": "2",
+    "gloss": "f. wife of Hosea"
+   }
+  ],
   "strong": "1586"
  },
  "bdb:c.cn.aa": {
@@ -6226,6 +7137,11 @@
     "path": "Pi",
     "stem": "Pi",
     "gloss": "drive out, away"
+   },
+   {
+    "path": "Pu",
+    "stem": "Pu",
+    "gloss": ". subj. Israelites; subj. despised and miserable outcasts (Pu of: drive out, cast out)"
    }
   ],
   "strong": "1644"
@@ -6253,6 +7169,16 @@
   "headword": "גֹּ֫שֶׁן",
   "pos": "n.pr.loc",
   "gloss": "Goshen",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "district in Egypt E. of lower Nile"
+   },
+   {
+    "path": "2",
+    "gloss": "a city—not clearly located, but on southern border of Judah"
+   }
+  ],
   "strong": "1657"
  },
  "bdb:c.dl.ac": {
@@ -6392,6 +7318,16 @@
   "headword": "דְּבוֹרָה",
   "pos": "n.pr.f",
   "gloss": "bee",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "bee — the nurse of Rebekah"
+   },
+   {
+    "path": "2",
+    "gloss": "bee — the prophetess"
+   }
+  ],
   "strong": "1683"
  },
  "bdb:d.ai.ap": {
@@ -6403,12 +7339,20 @@
   "gloss": "wilderness",
   "senses": [
    {
+    "path": "1",
+    "gloss": "wilderness — tracts of land, used for the pasturage of flocks and herds"
+   },
+   {
     "path": "2",
     "gloss": "uninhabited land"
    },
    {
     "path": "3",
     "gloss": "large tracts"
+   },
+   {
+    "path": "4",
+    "gloss": "wilderness — fig"
    }
   ],
   "strong": "4057"
@@ -6464,6 +7408,16 @@
   "headword": "דְּדָן",
   "pos": "n.pr.loc",
   "gloss": "Dedan",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "under fig. of son of רַעֲמָה and grandson of כּוּשׁ"
+   },
+   {
+    "path": "2",
+    "gloss": "as son of יָקְשָׁן, father of אַשּׁוּרִם etc"
+   }
+  ],
   "strong": "1719"
  },
  "bdb:d.as.ah": {
@@ -6481,6 +7435,20 @@
   "headword": "דּוּמָה",
   "pos": "n.pr",
   "gloss": "Dumah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "m. son of Ishmael"
+   },
+   {
+    "path": "2",
+    "gloss": "city in mountains of Judah"
+   },
+   {
+    "path": "3",
+    "gloss": "name of Edom with mystic mng"
+   }
+  ],
   "strong": "1746"
  },
  "bdb:d.az.ac": {
@@ -6516,6 +7484,16 @@
   "headword": "דִּישֹׁן",
   "pos": "n.pr.m",
   "gloss": "Dishon",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "a son of Seir"
+   },
+   {
+    "path": "2",
+    "gloss": "a son of Anah \u0026 grandson of Seir"
+   }
+  ],
   "strong": "1787"
  },
  "bdb:d.ba.af": {
@@ -6586,6 +7564,20 @@
   "headword": "דָּן",
   "pos": "n.pr.m",
   "gloss": "judge",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "judge — son of Jacob and Bilhah"
+   },
+   {
+    "path": "2",
+    "gloss": "judge — the tribe of Dan"
+   },
+   {
+    "path": "3",
+    "gloss": "judge — a city on northern frontier of Israel at one of the sources of the Jordan"
+   }
+  ],
   "strong": "1835"
  },
  "bdb:d.bh.aj": {
@@ -6603,6 +7595,14 @@
   "pos": "n.pr.m",
   "gloss": "Midian",
   "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Abraham and Keturah"
+   },
+   {
+    "path": "2",
+    "gloss": "an Arabian tribe"
+   },
    {
     "path": "3",
     "gloss": "the land of Midian"
@@ -6637,6 +7637,10 @@
    {
     "path": "3",
     "gloss": "gates of city"
+   },
+   {
+    "path": "4",
+    "gloss": "door — in other senses"
    }
   ],
   "strong": "1817"
@@ -6686,6 +7690,18 @@
    {
     "path": "1",
     "gloss": "blood"
+   },
+   {
+    "path": "2",
+    "gloss": "blood — usually blood become visible"
+   },
+   {
+    "path": "3",
+    "gloss": "blood — blood used with religious significance"
+   },
+   {
+    "path": "4",
+    "gloss": "blood — fig. of wine"
    }
   ],
   "strong": "1818"
@@ -6786,6 +7802,30 @@
    {
     "path": "4",
     "gloss": "way, manner"
+   },
+   {
+    "path": "5",
+    "gloss": "way, road, distance, journey, manner — fig. of course of life, or action, undertakings"
+   },
+   {
+    "path": "6.a",
+    "gloss": "way, road, distance, journey, manner — of moral action and character"
+   },
+   {
+    "path": "6.b",
+    "gloss": "way, road, distance, journey, manner — of duty"
+   },
+   {
+    "path": "6.c",
+    "gloss": "way, road, distance, journey, manner — specif.: in good sense"
+   },
+   {
+    "path": "6.d",
+    "gloss": "way, road, distance, journey, manner — oftener in bad sense"
+   },
+   {
+    "path": "6.e",
+    "gloss": "way, road, distance, journey, manner — way of י׳"
    }
   ],
   "strong": "1870"
@@ -6874,6 +7914,11 @@
   "gloss": "sprout, shoot, grow green",
   "senses": [
    {
+    "path": "Qal",
+    "stem": "Qal",
+    "gloss": "sprout, shoot, grow green — Jo 2:22"
+   },
+   {
     "path": "Hiph",
     "stem": "Hiph",
     "gloss": "cause to sprout, shoot forth"
@@ -6931,6 +7976,16 @@
   "root": "הדד",
   "pos": "n.pr.m",
   "gloss": "Hadad",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Hadad — name of kings of Edom"
+   },
+   {
+    "path": "2",
+    "gloss": "Hadad — an Edomite"
+   }
+  ],
   "strong": "1908"
  },
  "bdb:e.ao.ae": {
@@ -6939,6 +7994,16 @@
   "headword": "הֲדוֹרָם",
   "pos": "n.pr.m",
   "gloss": "Hadoram",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Arabian tribe, called son of Joktan"
+   },
+   {
+    "path": "2",
+    "gloss": "son of Tou king of Hamath"
+   }
+  ],
   "strong": "1913"
  },
  "bdb:e.as.ae": {
@@ -6961,8 +8026,28 @@
     "gloss": "he, she, it, they, himself, herself, itself, themselves, that, those"
    },
    {
+    "path": "2",
+    "gloss": "he, she, it — It resumes the subj. with emph"
+   },
+   {
+    "path": "3",
+    "gloss": "he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible"
+   },
+   {
+    "path": "4",
+    "gloss": "he, she, it — It anticipates (as it seems) the subject"
+   },
+   {
+    "path": "5",
+    "gloss": "he, she, it — As an emph. predicate, of God"
+   },
+   {
     "path": "6",
     "gloss": "that, it"
+   },
+   {
+    "path": "7",
+    "gloss": "he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art"
    }
   ],
   "strong": "1931"
@@ -6983,6 +8068,24 @@
   "root": "הוה",
   "pos": "n.pr.dei",
   "gloss": "Yahweh, the one bringing into being, life-giver",
+  "senses": [
+   {
+    "path": "I",
+    "gloss": "Yahweh, the one bringing into being, life-giver — יהוה is not used by E in Gn, but is given Ex 3:12-15 as the name of the God who revealed Himself to Moses at Horeb"
+   },
+   {
+    "path": "II.1",
+    "gloss": "Yahweh, the one bringing into being, life-giver — יהוה is used with אלהים and suffixes, especially in D"
+   },
+   {
+    "path": "II.2",
+    "gloss": "Yahweh, the one bringing into being, life-giver — the phrase † אֲנִי יהוה is noteworthy"
+   },
+   {
+    "path": "II.3",
+    "gloss": "Yahweh, the one bringing into being, life-giver — יהוה is also used with several predicates, to form sacred names of holy places of Yahweh"
+   }
+  ],
   "strong": "3068"
  },
  "bdb:e.bf.aa": {
@@ -7009,6 +8112,11 @@
     "gloss": "and it came to pass"
    },
    {
+    "path": "Qal I.2.a.(2)",
+    "stem": "Qal",
+    "gloss": "come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה"
+   },
+   {
     "path": "Qal I.2.b",
     "stem": "Qal",
     "gloss": "and it shall come to pass, came to pass"
@@ -7024,9 +8132,44 @@
     "gloss": "arise, appear, come"
    },
    {
+    "path": "Qal II.1.b",
+    "stem": "Qal",
+    "gloss": "Come into being, become — sq. prep"
+   },
+   {
+    "path": "Qal II.2.a",
+    "stem": "Qal",
+    "gloss": "become — sq. pred. noun (to be viewed as implicit accus.)"
+   },
+   {
+    "path": "Qal II.2.b",
+    "stem": "Qal",
+    "gloss": "become — sq. pred. adj"
+   },
+   {
     "path": "Qal II.2.c",
     "stem": "Qal",
     "gloss": "become like"
+   },
+   {
+    "path": "Qal II.2.d",
+    "stem": "Qal",
+    "gloss": "become — sq. pred. לְ pers"
+   },
+   {
+    "path": "Qal II.2.e",
+    "stem": "Qal",
+    "gloss": "become — sq. לְ pred"
+   },
+   {
+    "path": "Qal II.2.f",
+    "stem": "Qal",
+    "gloss": "become — oft. c. לְ pred. לְ pers"
+   },
+   {
+    "path": "Qal II.2.g",
+    "stem": "Qal",
+    "gloss": "become — with עַל and לְ"
    },
    {
     "path": "Qal II.2.h",
@@ -7059,6 +8202,16 @@
     "gloss": "be in, at a place, be situated, stand, lie"
    },
    {
+    "path": "Qal III.4",
+    "stem": "Qal",
+    "gloss": "Be — as copula, joining subj. \u0026 pred"
+   },
+   {
+    "path": "Qal III.5",
+    "stem": "Qal",
+    "gloss": "Be — periphrastic conjug"
+   },
+   {
     "path": "Qal III",
     "stem": "Qal",
     "gloss": "Be"
@@ -7083,6 +8236,16 @@
   "root": "הלא",
   "pos": "adv",
   "gloss": "out there, onwards, further",
+  "senses": [
+   {
+    "path": "a",
+    "gloss": "out there, onwards, further — of place"
+   },
+   {
+    "path": "b",
+    "gloss": "out there, onwards, further — of time"
+   }
+  ],
   "strong": "1973"
  },
  "bdb:e.bl.aa": {
@@ -7102,6 +8265,86 @@
   "gloss": "go, come, walk",
   "senses": [
    {
+    "path": "Qal I.1",
+    "stem": "Qal",
+    "gloss": "go, come, walk — of persons"
+   },
+   {
+    "path": "Qal I.2",
+    "stem": "Qal",
+    "gloss": "go, come, walk — Also of animals, in similar meanings and combinations"
+   },
+   {
+    "path": "Qal I.3",
+    "stem": "Qal",
+    "gloss": "go, come, walk — in like manner of inanimate things"
+   },
+   {
+    "path": "Qal I.4.a",
+    "stem": "Qal",
+    "gloss": "go, come, walk — as in other vbs., quite independently"
+   },
+   {
+    "path": "Qal I.4.b",
+    "stem": "Qal",
+    "gloss": "go, come, walk — to intensify meaning of finite form"
+   },
+   {
+    "path": "Qal I.4.c.(1)",
+    "stem": "Qal",
+    "gloss": "go, come, walk — with a following Inf. abs. denoting a simutaneous action or process, and so emphasizing duration or continuance"
+   },
+   {
+    "path": "Qal I.4.c.(2)",
+    "stem": "Qal",
+    "gloss": "go, come, walk — with a foll. vb. fin. c. ו consec. (rare)"
+   },
+   {
+    "path": "Qal I.4.c.(3)",
+    "stem": "Qal",
+    "gloss": "go, come, walk — in cases where vb. fin. is foll. by Inf. abs. adj. denoting progress, advance"
+   },
+   {
+    "path": "Qal I.4.c.(4)",
+    "stem": "Qal",
+    "gloss": "go, come, walk — twice, where vb. fin. is not הלך, but another vb. denoting motion"
+   },
+   {
+    "path": "Qal I.4.c.(5)",
+    "stem": "Qal",
+    "gloss": "go, come, walk — quite by itself"
+   },
+   {
+    "path": "Qal I.4.c.(6)",
+    "stem": "Qal",
+    "gloss": "go, come, walk — t. the Inf. abs. = Imv. \u0026 is followed by Pf. consec"
+   },
+   {
+    "path": "Qal I.4.c",
+    "stem": "Qal",
+    "gloss": "go, come, walk — most noteworthy is the joining of the Inf. abs"
+   },
+   {
+    "path": "Qal I.4.d",
+    "stem": "Qal",
+    "gloss": "go, come, walk — akin to the use of Inf. abs. are some instances of Pt"
+   },
+   {
+    "path": "Qal I.4",
+    "stem": "Qal",
+    "gloss": "go, come, walk — The inf. abs. is often used"
+   },
+   {
+    "path": "Qal I.5",
+    "stem": "Qal",
+    "gloss": "go, come, walk — In combination with other verbal forms"
+   },
+   {
+    "path": "Qal I",
+    "stem": "Qal",
+    "gloss": "go, come, walk — lit"
+   },
+   {
     "path": "Qal II.1",
     "stem": "Qal",
     "gloss": "pass away, die"
@@ -7110,6 +8353,21 @@
     "path": "Qal II.2",
     "stem": "Qal",
     "gloss": "live, walk"
+   },
+   {
+    "path": "Qal II.3",
+    "stem": "Qal",
+    "gloss": "go, come, walk — of moral and religious life"
+   },
+   {
+    "path": "Qal II.4",
+    "stem": "Qal",
+    "gloss": "go, come, walk — other fig. uses"
+   },
+   {
+    "path": "Qal II",
+    "stem": "Qal",
+    "gloss": "go, come, walk — Fig.; the most common uses follow; in most the origin in a literal meaning is evident"
    },
    {
     "path": "Pi 1",
@@ -7125,6 +8383,11 @@
     "path": "Pi 3",
     "stem": "Pi",
     "gloss": "depart, go entirely away"
+   },
+   {
+    "path": "Pi 4",
+    "stem": "Pi",
+    "gloss": "fig. of mode of life, action, etc (Pi of: go, come, walk)"
    },
    {
     "path": "Hithp",
@@ -7145,6 +8408,11 @@
     "path": "Hiph 3",
     "stem": "Hiph",
     "gloss": "carry, bring"
+   },
+   {
+    "path": "Hiph 4",
+    "stem": "Hiph",
+    "gloss": "fig. of influence on character (Hiph of: go, come, walk)"
    },
    {
     "path": "Hiph 5.a",
@@ -7181,6 +8449,11 @@
     "path": "Pi 1",
     "stem": "Pi",
     "gloss": "praise"
+   },
+   {
+    "path": "Pi 2",
+    "stem": "Pi",
+    "gloss": "usually praise י׳ (Pi of: be boastful, praise)"
    },
    {
     "path": "Pi 3",
@@ -7221,6 +8494,16 @@
   "headword": "מַהֲלַלְאֵל",
   "pos": "n.pr.m",
   "gloss": "praise of God",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "praise of God — great-grandson of Seth"
+   },
+   {
+    "path": "2",
+    "gloss": "praise of God — a man of Judah"
+   }
+  ],
   "strong": "4111"
  },
  "bdb:e.br.aa": {
@@ -7316,6 +8599,16 @@
   "headword": "הֵ֫נָּה",
   "pos": "adv",
   "gloss": "hither",
+  "senses": [
+   {
+    "path": "a",
+    "gloss": "hither — of place"
+   },
+   {
+    "path": "b",
+    "gloss": "hither — of time"
+   }
+  ],
   "strong": "2008"
  },
  "bdb:e.cb.aa": {
@@ -7342,6 +8635,11 @@
     "gloss": "turn, change, transform"
    },
    {
+    "path": "Qal 1",
+    "stem": "Qal",
+    "gloss": "turn, overturn — trans"
+   },
+   {
     "path": "Qal 2.a",
     "stem": "Qal",
     "gloss": "turn, turn back"
@@ -7350,6 +8648,11 @@
     "path": "Qal 2.b",
     "stem": "Qal",
     "gloss": "turn, change, change into"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "turn, overturn — intrans"
    },
    {
     "path": "Niph 1.a",
@@ -7365,6 +8668,11 @@
     "path": "Niph 1.c",
     "stem": "Niph",
     "gloss": "be perverse"
+   },
+   {
+    "path": "Niph 1",
+    "stem": "Niph",
+    "gloss": "reflex. \u0026 intrans (Niph of: turn, overturn)"
    },
    {
     "path": "Niph 2.a",
@@ -7390,6 +8698,11 @@
     "path": "Niph 2.e",
     "stem": "Niph",
     "gloss": "be upturned"
+   },
+   {
+    "path": "Niph 2",
+    "stem": "Niph",
+    "gloss": "pass (Niph of: turn, overturn)"
    },
    {
     "path": "Hithp 1",
@@ -7432,6 +8745,36 @@
     "gloss": "kill, slay"
    },
    {
+    "path": "Qal 1.b",
+    "stem": "Qal",
+    "gloss": "kill, slay — hence of wholesale slaughter after battle"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "kill, slay — of God’s slaying in judgment"
+   },
+   {
+    "path": "Qal 3",
+    "stem": "Qal",
+    "gloss": "kill, slay — rarely of judicial killing by men (at God’s command)"
+   },
+   {
+    "path": "Qal 4",
+    "stem": "Qal",
+    "gloss": "kill, slay — of killing beasts"
+   },
+   {
+    "path": "Qal 5",
+    "stem": "Qal",
+    "gloss": "kill, slay — of killing by beasts"
+   },
+   {
+    "path": "Qal 6",
+    "stem": "Qal",
+    "gloss": "kill, slay — quite general"
+   },
+   {
     "path": "Qal 7",
     "stem": "Qal",
     "gloss": "destroy, ruin"
@@ -7440,6 +8783,11 @@
     "path": "Niph 1",
     "stem": "Niph",
     "gloss": "shall priest and prophet be slain in the sanctuary?"
+   },
+   {
+    "path": "Niph 2",
+    "stem": "Niph",
+    "gloss": "pass. of Qal 1 b (Niph of: kill, slay)"
    },
    {
     "path": "Pu",
@@ -7461,6 +8809,11 @@
     "path": "Qal 1",
     "stem": "Qal",
     "gloss": "conceive, become pregnant"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "conceive, become pregnant — metaph"
    },
    {
     "path": "Pu",
@@ -7499,6 +8852,16 @@
   "headword": "הָרָן",
   "pos": "n.pr.m",
   "gloss": "mountaineer",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "mountaineer — son of Teraḥ, brother of Abraham and father of Lot"
+   },
+   {
+    "path": "2",
+    "gloss": "mountaineer — a Levite (Gershonite)"
+   }
+  ],
   "strong": "2039"
  },
  "bdb:e.cf.ab": {
@@ -7587,6 +8950,18 @@
   "gloss": "sacrifice",
   "senses": [
    {
+    "path": "I.1",
+    "gloss": "sacrifice — of the God of Israel"
+   },
+   {
+    "path": "I.2",
+    "gloss": "sacrifice — of other deities"
+   },
+   {
+    "path": "I",
+    "gloss": "sacrifice — general name for all sacrifices eaten at feasts"
+   },
+   {
     "path": "II.1",
     "gloss": "the covenant sacrifice"
    },
@@ -7601,6 +8976,22 @@
    {
     "path": "II.4",
     "gloss": "thank offering"
+   },
+   {
+    "path": "II.5",
+    "gloss": "sacrifice — in ritual of H \u0026 P"
+   },
+   {
+    "path": "II.6",
+    "gloss": "sacrifice — the slaughter of hostile nations"
+   },
+   {
+    "path": "II.7",
+    "gloss": "sacrifice — the verb used"
+   },
+   {
+    "path": "II",
+    "gloss": "sacrifice — there are several kinds which are gradually distinguished"
    }
   ],
   "strong": "2077"
@@ -7630,6 +9021,20 @@
   "root": "זבל",
   "pos": "n.pr.m",
   "gloss": "Zebulun",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Zebulun — sixth son of Jacob and Leah"
+   },
+   {
+    "path": "2",
+    "gloss": "Zebulun — the tribe of Zebulun"
+   },
+   {
+    "path": "3",
+    "gloss": "Zebulun — territory of the tribe"
+   }
+  ],
   "strong": "2074"
  },
  "bdb:g.ah.aa": {
@@ -7638,6 +9043,32 @@
   "headword": "זֶה",
   "pos": "demonstr.pron",
   "gloss": "this, here",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "this, here — standing alone"
+   },
+   {
+    "path": "2",
+    "gloss": "this, here — In appos. to subst"
+   },
+   {
+    "path": "3",
+    "gloss": "this, here — More oft. as pred"
+   },
+   {
+    "path": "4",
+    "gloss": "this, here — It is attached enclitically, almost as an adv., to certain words, esp. interrog. pronouns, to impart, in a manner often not reproducible in Engl. idiom, directness and force, bringing the question or statement made into close relation with the speaker"
+   },
+   {
+    "path": "5",
+    "gloss": "this, here — In poetry, as a relative pron. (rare)"
+   },
+   {
+    "path": "6",
+    "gloss": "this, here — With prefixes (in special senses)"
+   }
+  ],
   "strong": "2088"
  },
  "bdb:g.al.ab": {
@@ -7649,8 +9080,52 @@
   "gloss": "gold",
   "senses": [
    {
+    "path": "1",
+    "gloss": "gold — = gold-ore, gold in raw state"
+   },
+   {
+    "path": "2",
+    "gloss": "gold — gold as wealth"
+   },
+   {
+    "path": "3",
+    "gloss": "gold — gold as spoil of war"
+   },
+   {
+    "path": "4",
+    "gloss": "gold — gold as merchandise"
+   },
+   {
+    "path": "5",
+    "gloss": "gold — gold as costly gift"
+   },
+   {
+    "path": "6",
+    "gloss": "gold — gold as material"
+   },
+   {
+    "path": "7",
+    "gloss": "gold — gold described by its source"
+   },
+   {
+    "path": "8",
+    "gloss": "gold — gold defined by var. adj. and pts"
+   },
+   {
+    "path": "9",
+    "gloss": "gold — as measure of weight and value"
+   },
+   {
     "path": "10",
     "gloss": "golden oil"
+   },
+   {
+    "path": "11",
+    "gloss": "gold — often named with"
+   },
+   {
+    "path": "12",
+    "gloss": "gold — the chief vbs. used"
    }
   ],
   "strong": "2091"
@@ -7721,6 +9196,10 @@
    {
     "path": "2",
     "gloss": "olives"
+   },
+   {
+    "path": "3",
+    "gloss": "olive-tree, olive — in designations of place"
    }
   ],
   "strong": "2132"
@@ -7769,6 +9248,11 @@
     "gloss": "remember, mention of"
    },
    {
+    "path": "Qal I",
+    "stem": "Qal",
+    "gloss": "remember — Human subj"
+   },
+   {
     "path": "Qal II.1",
     "stem": "Qal",
     "gloss": "remember"
@@ -7779,14 +9263,34 @@
     "gloss": "remember"
    },
    {
+    "path": "Qal II.2.b",
+    "stem": "Qal",
+    "gloss": "remember — their devotion"
+   },
+   {
     "path": "Qal II.3.a",
     "stem": "Qal",
     "gloss": "remember"
    },
    {
+    "path": "Qal II.3.b",
+    "stem": "Qal",
+    "gloss": "remember — his mercy"
+   },
+   {
+    "path": "Qal II.3.c",
+    "stem": "Qal",
+    "gloss": "remember — extenuating circumstances"
+   },
+   {
     "path": "Qal II.4",
     "stem": "Qal",
     "gloss": "remember"
+   },
+   {
+    "path": "Qal II",
+    "stem": "Qal",
+    "gloss": "remember — Subj. י׳ (אלהִם)"
    },
    {
     "path": "Niph 1",
@@ -7908,6 +9412,11 @@
     "gloss": "of intercourse with other deities"
    },
    {
+    "path": "Qal 4",
+    "stem": "Qal",
+    "gloss": "commit fornication, be a harlot — of moral defection"
+   },
+   {
     "path": "Pu",
     "stem": "Pu",
     "gloss": "fornication was not done, after thee"
@@ -7932,6 +9441,20 @@
   "root": "זנה",
   "pos": "n.[m.]",
   "gloss": "fornication",
+  "senses": [
+   {
+    "path": "a",
+    "gloss": "fornication — sexual"
+   },
+   {
+    "path": "b",
+    "gloss": "fornication — international"
+   },
+   {
+    "path": "c",
+    "gloss": "fornication — religious"
+   }
+  ],
   "strong": "2183"
  },
  "bdb:g.bx.ad": {
@@ -8014,6 +9537,10 @@
    {
     "path": "2.b",
     "gloss": "elder"
+   },
+   {
+    "path": "2",
+    "gloss": "old — usu. as subst"
    }
   ],
   "strong": "2205"
@@ -8060,6 +9587,28 @@
   "headword": "זֶ֫רַח",
   "pos": "n.pr.m",
   "gloss": "Zarah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Judah and Tamar"
+   },
+   {
+    "path": "2",
+    "gloss": "Edomites"
+   },
+   {
+    "path": "3",
+    "gloss": "Levites"
+   },
+   {
+    "path": "4",
+    "gloss": "head of Simeonite family"
+   },
+   {
+    "path": "5",
+    "gloss": "a Cushite"
+   }
+  ],
   "strong": "2226"
  },
  "bdb:g.cl.aa": {
@@ -8081,6 +9630,11 @@
     "gloss": "producing, yielding seed"
    },
    {
+    "path": "Qal 3",
+    "stem": "Qal",
+    "gloss": "sow, scatter seed — fig"
+   },
+   {
     "path": "Niph 1",
     "stem": "Niph",
     "gloss": "be sown"
@@ -8094,6 +9648,11 @@
     "path": "Niph",
     "stem": "Niph",
     "gloss": "be sown, fructified"
+   },
+   {
+    "path": "Pu",
+    "stem": "Pu",
+    "gloss": ". of princes and judges under fig. of trees (Pu of: sow, scatter seed)"
    },
    {
     "path": "Hiph 1",
@@ -8123,6 +9682,10 @@
    {
     "path": "1.b",
     "gloss": "sowing"
+   },
+   {
+    "path": "1",
+    "gloss": "sowing, seed, offspring — lit"
    },
    {
     "path": "2",
@@ -8294,6 +9857,24 @@
   "headword": "חֶ֫בֶר",
   "pos": "n.pr.m",
   "gloss": "Heber",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "the Kenite, husband of Deborah"
+   },
+   {
+    "path": "2",
+    "gloss": "a man of Asher"
+   },
+   {
+    "path": "3",
+    "gloss": "name in Judah"
+   },
+   {
+    "path": "4",
+    "gloss": "a Benjamite"
+   }
+  ],
   "strong": "2268"
  },
  "bdb:h.ai.aj": {
@@ -8351,6 +9932,16 @@
   "headword": "חַגִּי",
   "pos": "n.pr.m",
   "gloss": "festal",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "festal — son of Gad"
+   },
+   {
+    "path": "2",
+    "gloss": "festal — adj. gent. as subst. coll"
+   }
+  ],
   "strong": "2291"
  },
  "bdb:h.ap.ad": {
@@ -8623,6 +10214,10 @@
   "pos": "n.[m.]",
   "gloss": "bosom",
   "senses": [
+   {
+    "path": "1",
+    "gloss": "bosom — of fold of garment, at breast"
+   },
    {
     "path": "2",
     "gloss": "carry in bosom"
@@ -9002,8 +10597,16 @@
     "gloss": "living one"
    },
    {
+    "path": "1.b",
+    "gloss": "alive, living — of man"
+   },
+   {
     "path": "1.c",
     "gloss": "alive, living"
+   },
+   {
+    "path": "1.d",
+    "gloss": "alive, living — animals and man"
    },
    {
     "path": "1.e",
@@ -9032,6 +10635,10 @@
   "pos": "n.f",
   "gloss": "living thing, animal",
   "senses": [
+   {
+    "path": "1.a",
+    "gloss": "animal — in general"
+   },
    {
     "path": "1.b",
     "gloss": "wild animals"
@@ -9391,6 +10998,16 @@
   "root": "חלם",
   "pos": "n.m",
   "gloss": "dream",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "dream — ordinary dream of sleep"
+   },
+   {
+    "path": "2",
+    "gloss": "dream — dreams with prophetic meaning"
+   }
+  ],
   "strong": "2472"
  },
  "bdb:h.cx.aa": {
@@ -9425,6 +11042,11 @@
     "path": "Qal 3.b",
     "stem": "Qal",
     "gloss": "overstep, transgress"
+   },
+   {
+    "path": "Qal 3",
+    "stem": "Qal",
+    "gloss": "pass on, away, pass through — trans"
    },
    {
     "path": "Pi",
@@ -9478,6 +11100,20 @@
   "root": "חלץ",
   "pos": "n.[f.]",
   "gloss": "loins",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "loins — as seat of virility"
+   },
+   {
+    "path": "2",
+    "gloss": "loins — as girded"
+   },
+   {
+    "path": "3",
+    "gloss": "loins — as seat of pains, like a woman in travail"
+   }
+  ],
   "strong": "2504"
  },
  "bdb:h.da.aa": {
@@ -9610,6 +11246,14 @@
   "gloss": "smooth",
   "senses": [
    {
+    "path": "1",
+    "gloss": "smooth — lit"
+   },
+   {
+    "path": "2",
+    "gloss": "smooth — fig. of mouth uttering smooth words"
+   },
+   {
     "path": "3",
     "gloss": "flattery"
    }
@@ -9649,6 +11293,10 @@
    {
     "path": "1",
     "gloss": "Ham"
+   },
+   {
+    "path": "2",
+    "gloss": "a name (coll.) for Egyptians"
    }
   ],
   "strong": "2526"
@@ -9939,6 +11587,24 @@
   "headword": "חֲנוֹךְ",
   "pos": "n.pr.m",
   "gloss": "Enoch",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Cain"
+   },
+   {
+    "path": "2",
+    "gloss": "son of Jered (line of Seth), the pious Enoch, who walked with God and was taken by him"
+   },
+   {
+    "path": "3",
+    "gloss": "a son of Midian"
+   },
+   {
+    "path": "4",
+    "gloss": "a son of Reuben"
+   }
+  ],
   "strong": "2585"
  },
  "bdb:h.dy.ad": {
@@ -10051,6 +11717,10 @@
    {
     "path": "I.4",
     "gloss": "lovely appearance"
+   },
+   {
+    "path": "I",
+    "gloss": "goodness, kindness — of man"
    },
    {
     "path": "II",
@@ -10252,6 +11922,32 @@
   "headword": "חֶצְרוֹן",
   "pos": "n.pr.loc",
   "gloss": "Hezron",
+  "senses": [
+   {
+    "path": "1.a",
+    "gloss": "place in extreme south of Judah"
+   },
+   {
+    "path": "1.b",
+    "gloss": "another town of Judah in south"
+   },
+   {
+    "path": "1",
+    "gloss": "n. pr. loc"
+   },
+   {
+    "path": "2.a",
+    "gloss": "son of Reuben"
+   },
+   {
+    "path": "2.b",
+    "gloss": "son of Pereṣ and grandson of Judah"
+   },
+   {
+    "path": "2",
+    "gloss": "n. pr. m"
+   }
+  ],
   "strong": "2696"
  },
  "bdb:h.fb.ap": {
@@ -10380,6 +12076,11 @@
     "gloss": "be dry, dried up"
    },
    {
+    "path": "Pu",
+    "stem": "Pu",
+    "gloss": ". of fresh bow-strings (Pu of: be dry, dried up)"
+   },
+   {
     "path": "Hiph",
     "stem": "Hiph",
     "gloss": "drying up"
@@ -10492,6 +12193,16 @@
   "gloss": "burn, be kindled",
   "senses": [
    {
+    "path": "Qal 1",
+    "stem": "Qal",
+    "gloss": "burn, be kindled — of man"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "burn, be kindled — of God"
+   },
+   {
     "path": "Niph",
     "stem": "Niph",
     "gloss": "be angry"
@@ -10568,6 +12279,22 @@
    {
     "path": "1",
     "gloss": "Seir the Horite"
+   },
+   {
+    "path": "2",
+    "gloss": "cave-dweller — n.pr.gent. ancient inhabitants of land of Edom"
+   },
+   {
+    "path": "3.a",
+    "gloss": "cave-dweller — an Edomite"
+   },
+   {
+    "path": "3.b",
+    "gloss": "cave-dweller — a Simeonite"
+   },
+   {
+    "path": "3",
+    "gloss": "cave-dweller — n.pr.pers.m"
    }
   ],
   "strong": "2752"
@@ -10747,6 +12474,11 @@
     "gloss": "invent"
    },
    {
+    "path": "Qal I",
+    "stem": "Qal",
+    "gloss": "think, account — of man"
+   },
+   {
     "path": "Qal II.1",
     "stem": "Qal",
     "gloss": "think"
@@ -10770,6 +12502,11 @@
     "path": "Qal II.5",
     "stem": "Qal",
     "gloss": "invent"
+   },
+   {
+    "path": "Qal II",
+    "stem": "Qal",
+    "gloss": "think, account — of God"
    },
    {
     "path": "Niph 1",
@@ -10847,6 +12584,38 @@
    {
     "path": "2",
     "gloss": "secret place(s), hiding-place"
+   },
+   {
+    "path": "3.a",
+    "gloss": "darkness, obscurity — = distress"
+   },
+   {
+    "path": "3.b",
+    "gloss": "darkness, obscurity — = dread, terror, symbol. of judgment"
+   },
+   {
+    "path": "3.c",
+    "gloss": "darkness, obscurity — = mourning"
+   },
+   {
+    "path": "3.d",
+    "gloss": "darkness, obscurity — = perplexity; confusion"
+   },
+   {
+    "path": "3.e",
+    "gloss": "darkness, obscurity — = ignorance"
+   },
+   {
+    "path": "3.f",
+    "gloss": "darkness, obscurity — = evil, sin"
+   },
+   {
+    "path": "3.g",
+    "gloss": "darkness, obscurity — = obscurity"
+   },
+   {
+    "path": "3",
+    "gloss": "darkness, obscurity — fig"
    }
   ],
   "strong": "2822"
@@ -11008,6 +12777,10 @@
    {
     "path": "2",
     "gloss": "ring"
+   },
+   {
+    "path": "3",
+    "gloss": "signet, signet-ring, ring — most often (only in Ex.) of rings for staves of ark, for curtains, for ephod, and other sacred furniture"
    }
   ],
   "strong": "2885"
@@ -11454,6 +13227,24 @@
   "headword": "יוֹבָב",
   "pos": "n.pr.m",
   "gloss": "Jobab",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "‘son’ of Yoḳtân"
+   },
+   {
+    "path": "2",
+    "gloss": "a king in Edom"
+   },
+   {
+    "path": "3",
+    "gloss": "king of Madon"
+   },
+   {
+    "path": "4",
+    "gloss": "Benjamites"
+   }
+  ],
   "strong": "3103"
  },
  "bdb:j.ah.ac": {
@@ -11600,6 +13391,14 @@
    {
     "path": "4.g",
     "gloss": "a, hand"
+   },
+   {
+    "path": "4",
+    "gloss": "hand — יָד is used in various special, technical senses:—"
+   },
+   {
+    "path": "5",
+    "gloss": "hand — יַד with prep"
    }
   ],
   "strong": "3027"
@@ -11791,6 +13590,14 @@
     "gloss": "skill"
    },
    {
+    "path": "1.c",
+    "gloss": "knowledge — of proph. knowledge"
+   },
+   {
+    "path": "1.d",
+    "gloss": "knowledge — esp. knowledge with moral quality"
+   },
+   {
     "path": "1.e",
     "gloss": "knowledge"
    },
@@ -11862,6 +13669,26 @@
     "gloss": "nation"
    },
    {
+    "path": "I.4",
+    "gloss": "Judah — Levite, Ezra’s time"
+   },
+   {
+    "path": "I.5",
+    "gloss": "Judah — an overseer of Jerus"
+   },
+   {
+    "path": "I.6",
+    "gloss": "Judah — Levite musician"
+   },
+   {
+    "path": "I.7",
+    "gloss": "Judah — priest"
+   },
+   {
+    "path": "I",
+    "gloss": "Judah — n.pr.m"
+   },
+   {
     "path": "II",
     "gloss": "land of Judah"
    }
@@ -11914,6 +13741,10 @@
    {
     "path": "6",
     "gloss": "time"
+   },
+   {
+    "path": "7",
+    "gloss": "day — Phrases"
    }
   ],
   "strong": "3117"
@@ -12052,6 +13883,18 @@
     "gloss": "heat"
    },
    {
+    "path": "2.a",
+    "gloss": "burning anger, rage — of man"
+   },
+   {
+    "path": "2.b",
+    "gloss": "burning anger, rage — of the he-goat in Daniel's vision"
+   },
+   {
+    "path": "2.a#6",
+    "gloss": "burning anger, rage — of God"
+   },
+   {
     "path": "2",
     "gloss": "burning anger, rage"
    }
@@ -12120,6 +13963,16 @@
   "headword": "מְהֵיטַבְאֵל",
   "pos": "n.pr.pers",
   "gloss": "God benefits",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "God benefits — f. an Edomite princess"
+   },
+   {
+    "path": "2",
+    "gloss": "God benefits — m. ancestor of the false prophet Shemaiah"
+   }
+  ],
   "strong": "4105"
  },
  "bdb:j.bj.ae": {
@@ -12239,6 +14092,11 @@
     "path": "Qal 2",
     "stem": "Qal",
     "gloss": "beget"
+   },
+   {
+    "path": "Qal 3",
+    "stem": "Qal",
+    "gloss": "bear, bring forth, beget — of both parents"
    },
    {
     "path": "Niph",
@@ -12375,6 +14233,10 @@
     "gloss": "the right"
    },
    {
+    "path": "3",
+    "gloss": "right hand — of other parts of the body"
+   },
+   {
     "path": "4",
     "gloss": "south"
    }
@@ -12396,6 +14258,20 @@
   "headword": "יָמִין",
   "pos": "n.pr.m",
   "gloss": "Jamin. See also",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Simeon"
+   },
+   {
+    "path": "2",
+    "gloss": "man of Judah"
+   },
+   {
+    "path": "3",
+    "gloss": "Levite (?) name, time of Ezra"
+   }
+  ],
   "strong": "3226"
  },
  "bdb:j.bs.ai": {
@@ -12408,6 +14284,10 @@
    {
     "path": "1",
     "gloss": "the Yimnites"
+   },
+   {
+    "path": "2",
+    "gloss": "a Levite"
    }
   ],
   "strong": "3232"
@@ -12490,6 +14370,16 @@
     "path": "Hiph 2.a",
     "stem": "Hiph",
     "gloss": "add to do, do again, more"
+   },
+   {
+    "path": "Hiph 2.b",
+    "stem": "Hiph",
+    "gloss": "sq. Impf (Hiph of: add)"
+   },
+   {
+    "path": "Hiph 2.c",
+    "stem": "Hiph",
+    "gloss": "sq. Impf. asynd (Hiph of: add)"
    }
   ],
   "strong": "3254"
@@ -12500,6 +14390,28 @@
   "headword": "יוֹסֵף",
   "pos": "n.pr.m",
   "gloss": "he adds, increases",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "he adds, increases — elder son of Jacob and Rachael"
+   },
+   {
+    "path": "2",
+    "gloss": "he adds, increases — a man of Issachar"
+   },
+   {
+    "path": "3",
+    "gloss": "he adds, increases — a son of Asaph"
+   },
+   {
+    "path": "4",
+    "gloss": "he adds, increases — one of those who took strange wives"
+   },
+   {
+    "path": "5",
+    "gloss": "he adds, increases — a priest"
+   }
+  ],
   "strong": "3130"
  },
  "bdb:j.cb.ac": {
@@ -12551,14 +14463,39 @@
   "gloss": "go, come out",
   "senses": [
    {
+    "path": "Qal 1.a",
+    "stem": "Qal",
+    "gloss": "go, come out, forth — from (מִן) a place"
+   },
+   {
     "path": "Qal 1.b",
     "stem": "Qal",
     "gloss": "go forth"
    },
    {
+    "path": "Qal 1.c",
+    "stem": "Qal",
+    "gloss": "go, come out, forth — in technical senses"
+   },
+   {
+    "path": "Qal 1.d",
+    "stem": "Qal",
+    "gloss": "go, come out, forth — of flight, involving escape"
+   },
+   {
     "path": "Qal 1.e",
     "stem": "Qal",
     "gloss": "depart"
+   },
+   {
+    "path": "Qal 1.f",
+    "stem": "Qal",
+    "gloss": "go, come out, forth — of inanimate things"
+   },
+   {
+    "path": "Qal 1.g",
+    "stem": "Qal",
+    "gloss": "go, come out, forth — with especial emphasis on idea of origin, source"
    },
    {
     "path": "Qal 1.h",
@@ -12586,6 +14523,11 @@
     "gloss": "come, go forth"
    },
    {
+    "path": "Qal 3",
+    "stem": "Qal",
+    "gloss": "go, come out — of combinations"
+   },
+   {
     "path": "Hiph 1",
     "stem": "Hiph",
     "gloss": "cause to go, come out, bring out, lead out"
@@ -12599,6 +14541,11 @@
     "path": "Hiph 3",
     "stem": "Hiph",
     "gloss": "bring out"
+   },
+   {
+    "path": "Hiph 4",
+    "stem": "Hiph",
+    "gloss": "inanimate obj (Hiph of: go, come out)"
    },
    {
     "path": "Hiph 5",
@@ -12741,6 +14688,18 @@
    {
     "path": "1",
     "gloss": "pottery"
+   },
+   {
+    "path": "2",
+    "gloss": "form, framing, purpose — form of a graven image"
+   },
+   {
+    "path": "3",
+    "gloss": "form, framing, purpose — form of man as made on the dust"
+   },
+   {
+    "path": "4",
+    "gloss": "form, framing, purpose — of what is framed in the mind"
    }
   ],
   "strong": "3336"
@@ -12782,6 +14741,16 @@
     "path": "Qal",
     "stem": "Qal",
     "gloss": "dislocated, torn away, alienated"
+   },
+   {
+    "path": "Hiph",
+    "stem": "Hiph",
+    "gloss": ". of some solemn form of execution, but mng. uncertain (Hiph of: be dislocated, alienated)"
+   },
+   {
+    "path": "Hoph",
+    "stem": "Hoph",
+    "gloss": ". pass. of Hiph (Hoph of: be dislocated, alienated)"
    }
   ],
   "strong": "3363"
@@ -12941,6 +14910,16 @@
     "gloss": "go down"
    },
    {
+    "path": "Qal 1.e",
+    "stem": "Qal",
+    "gloss": "come, go down, descend — from Jerusalem"
+   },
+   {
+    "path": "Qal 1.f",
+    "stem": "Qal",
+    "gloss": "come, go down, descend — from altar"
+   },
+   {
     "path": "Qal 1.g",
     "stem": "Qal",
     "gloss": "go down"
@@ -12969,6 +14948,11 @@
     "path": "Qal 2",
     "stem": "Qal",
     "gloss": "descend"
+   },
+   {
+    "path": "Qal 3",
+    "stem": "Qal",
+    "gloss": "come, go down, descend — of inanimate things"
    },
    {
     "path": "Hiph 1.a",
@@ -13024,6 +15008,16 @@
   "headword": "יֶ֫רֶד",
   "pos": "n.pr.m",
   "gloss": "Jared",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Mehall’ēl, fourth generation from Seth"
+   },
+   {
+    "path": "2",
+    "gloss": "man of Judah"
+   }
+  ],
   "strong": "3382"
  },
  "bdb:j.dh.ad": {
@@ -13310,6 +15304,11 @@
     "gloss": "remain, stay, tarry"
    },
    {
+    "path": "Qal 2.b",
+    "stem": "Qal",
+    "gloss": "sit, remain, dwell — with special emphasis of qualifying phr"
+   },
+   {
     "path": "Qal 3",
     "stem": "Qal",
     "gloss": "dwell, have one’s abode"
@@ -13385,6 +15384,10 @@
    {
     "path": "2.b",
     "gloss": "dwelling"
+   },
+   {
+    "path": "2.c",
+    "gloss": "seat, assembly, dwelling-place, dwelling, dwellers — = house"
    },
    {
     "path": "3",
@@ -13559,6 +15562,16 @@
   "headword": "יִתְרָן",
   "pos": "n.pr.m",
   "gloss": "Ithran",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "an Edomite"
+   },
+   {
+    "path": "2",
+    "gloss": "a man of Asher"
+   }
+  ],
   "strong": "3506"
  },
  "bdb:j.ef.as": {
@@ -13666,6 +15679,11 @@
     "path": "Niph 1.b",
     "stem": "Niph",
     "gloss": "be honoured, enjoy honour"
+   },
+   {
+    "path": "Niph 1",
+    "stem": "Niph",
+    "gloss": "pass (Niph of: be heavy, weighty, burdensome, honoured)"
    },
    {
     "path": "Niph 2",
@@ -13846,6 +15864,16 @@
     "path": "Qal 3",
     "stem": "Qal",
     "gloss": "subdue, dominate"
+   },
+   {
+    "path": "Niph",
+    "stem": "Niph",
+    "gloss": ". pass (Niph of: subdue, bring into bondage)"
+   },
+   {
+    "path": "Pi",
+    "stem": "Pi",
+    "gloss": ". (of conquest) (Pi of: subdue, bring into bondage)"
    },
    {
     "path": "Hiph",
@@ -14088,6 +16116,16 @@
   "headword": "יָכִין",
   "pos": "n.pr.m",
   "gloss": "he will establish",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "he will establish — a Simeonite"
+   },
+   {
+    "path": "2",
+    "gloss": "he will establish — name of right-hand pillar before temple"
+   }
+  ],
   "strong": "3199"
  },
  "bdb:k.aw.am": {
@@ -14123,6 +16161,20 @@
   "root": "כושׁ",
   "pos": "n.pr.pers.m",
   "gloss": "Cush",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "1st ‘son’ of חָם"
+   },
+   {
+    "path": "2",
+    "gloss": "land and people of southern Nile-valley, or Upper Egypt, extending from Syene indefinitely to the south"
+   },
+   {
+    "path": "3",
+    "gloss": "כּוּשׁ is err. for כַּשׁ = Bab. Kaššu"
+   }
+  ],
   "strong": "3568"
  },
  "bdb:k.ba.ac": {
@@ -14270,6 +16322,10 @@
     "gloss": "for if"
    },
    {
+    "path": "1",
+    "gloss": "each part. retaining its independent force, and relating to a different clause"
+   },
+   {
     "path": "2.a",
     "gloss": "except"
    },
@@ -14280,6 +16336,10 @@
    {
     "path": "2.c",
     "gloss": "surely"
+   },
+   {
+    "path": "2",
+    "gloss": "(About 140 t.) the two particles being closely conjoined, and relating to the same clause—"
    }
   ],
   "strong": "3588"
@@ -14319,6 +16379,11 @@
     "path": "Niph",
     "stem": "Niph",
     "gloss": "and the rain from heaven was restrained"
+   },
+   {
+    "path": "Pi",
+    "stem": "Pi",
+    "gloss": ". [Pf. כִּלָּא and] Inf. cstr. לְכַלֵּא v. כלה (Pi of: shut up, restrain, withhold, restrain, hinder, protect)"
    }
   ],
   "strong": "3607"
@@ -14457,8 +16522,20 @@
     "gloss": "all things, all"
    },
    {
+    "path": "2.b.(a)",
+    "gloss": "the whole, all — where the sense is limited by the context to things (or persons) just mentioned"
+   },
+   {
     "path": "2.b.(b)",
     "gloss": "all"
+   },
+   {
+    "path": "2.b",
+    "gloss": "the whole, all — with the art. הַכֹּל"
+   },
+   {
+    "path": "2",
+    "gloss": "the whole, all — Absolutely"
    }
   ],
   "strong": "3605"
@@ -14512,6 +16589,20 @@
   "headword": "כְּנַ֫עַן",
   "pos": "n.pr.m",
   "gloss": "Canaan",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Canaan — as n. pr. m., son of Ham"
+   },
+   {
+    "path": "2.a",
+    "gloss": "Canaan — land, W. of Jordan, into wh. Hebrews came, and where they settled, subduing the inhabitants"
+   },
+   {
+    "path": "2.b",
+    "gloss": "Canaan — the coast, esp. Phoenicia"
+   }
+  ],
   "strong": "3667"
  },
  "bdb:k.cd.ae": {
@@ -14683,6 +16774,44 @@
   "root": "כסף",
   "pos": "n.m",
   "gloss": "silver, money",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "silver, money — = silver ore, raw silver"
+   },
+   {
+    "path": "2",
+    "gloss": "silver, money — silver as bright, shining"
+   },
+   {
+    "path": "3",
+    "gloss": "silver, money — silver, as wealth"
+   },
+   {
+    "path": "4",
+    "gloss": "silver, money — silver as spoil of war"
+   },
+   {
+    "path": "5",
+    "gloss": "silver, money — silver as merchandise"
+   },
+   {
+    "path": "6",
+    "gloss": "silver, money — silver as costly gift"
+   },
+   {
+    "path": "7",
+    "gloss": "silver, money — silver as material"
+   },
+   {
+    "path": "8",
+    "gloss": "silver, money — silver as measure of weight and value"
+   },
+   {
+    "path": "9",
+    "gloss": "silver, money — among vbs. and phr"
+   }
+  ],
   "strong": "3701"
  },
  "bdb:k.cp.ac": {
@@ -14797,6 +16926,32 @@
   "headword": "כְּרוּב",
   "pos": "n.m",
   "gloss": "cherub",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "cherub — the living chariot of the theophanic God"
+   },
+   {
+    "path": "2",
+    "gloss": "cherub — as guards of the garden of Eden"
+   },
+   {
+    "path": "3",
+    "gloss": "cherub — as the throne of Yahweh Sabaoth"
+   },
+   {
+    "path": "4",
+    "gloss": "cherub — P gives an account"
+   },
+   {
+    "path": "5",
+    "gloss": "cherub — K and Ch describe the cherubim of the temple"
+   },
+   {
+    "path": "6",
+    "gloss": "cherub — Ezekiel describes the cherubim"
+   }
+  ],
   "strong": "3742"
  },
  "bdb:k.dd.aa": {
@@ -14814,6 +16969,16 @@
   "headword": "כַּרְמִי",
   "pos": "n.pr.m",
   "gloss": "Carmi",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Reuben"
+   },
+   {
+    "path": "2",
+    "gloss": "a Judaite"
+   }
+  ],
   "strong": "3756"
  },
  "bdb:k.dd.ai": {
@@ -15169,6 +17334,10 @@
    {
     "path": "II.10",
     "gloss": "seat of courage"
+   },
+   {
+    "path": "II",
+    "gloss": "inner man, mind, will, heart — usu. of men"
    }
   ],
   "strong": "3824"
@@ -15206,6 +17375,10 @@
     "gloss": "conscience"
    },
    {
+    "path": "II.6",
+    "gloss": "inner man, mind, will, heart — [various]"
+   },
+   {
     "path": "II.7",
     "gloss": "the man himself"
    },
@@ -15220,6 +17393,10 @@
    {
     "path": "II.10",
     "gloss": "seat of courage"
+   },
+   {
+    "path": "II",
+    "gloss": "inner man, mind, will, heart — elsewhere of men"
    }
   ],
   "strong": "3820"
@@ -15258,6 +17435,10 @@
   "pos": "n.f",
   "gloss": "brick, tile",
   "senses": [
+   {
+    "path": "1",
+    "gloss": "brick, tile — brick, as building-material"
+   },
    {
     "path": "2",
     "gloss": "tile"
@@ -15300,6 +17481,11 @@
     "path": "Qal 1.c",
     "stem": "Qal",
     "gloss": "put on"
+   },
+   {
+    "path": "Qal 1.d",
+    "stem": "Qal",
+    "gloss": "put on, wear, clothe, be clothed — once"
    },
    {
     "path": "Qal 1.e",
@@ -15395,6 +17581,10 @@
    {
     "path": "1",
     "gloss": "Lud, Lydia"
+   },
+   {
+    "path": "2",
+    "gloss": "appar. a people in NE. Africa"
    }
   ],
   "strong": "3865"
@@ -15435,6 +17625,16 @@
   "headword": "לוּז",
   "pos": "n.pr.loc",
   "gloss": "Luz",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "former name of Bethel"
+   },
+   {
+    "path": "2",
+    "gloss": "city in hands of Hittites"
+   }
+  ],
   "strong": "3870"
  },
  "bdb:l.ax.ad": {
@@ -15629,6 +17829,16 @@
   "headword": "לֶ֫מֶךְ",
   "pos": "n.pr.m",
   "gloss": "Lamech",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of מְתוּשָׁאֵל (Cainite)"
+   },
+   {
+    "path": "2",
+    "gloss": "son of מְתוּשֶׁלַח (Sethite)"
+   }
+  ],
   "strong": "3929"
  },
  "bdb:l.bu.aa": {
@@ -15897,6 +18107,14 @@
   "gloss": "hundred",
   "senses": [
    {
+    "path": "1",
+    "gloss": "hundred — as simple number"
+   },
+   {
+    "path": "2",
+    "gloss": "hundred — as part of larger number"
+   },
+   {
     "path": "3",
     "gloss": "hundredth"
    }
@@ -15961,6 +18179,10 @@
   "gloss": "Medes, Media",
   "senses": [
    {
+    "path": "1",
+    "gloss": "Medes, Media — people, as ‘son’ of Japhet"
+   },
+   {
     "path": "2",
     "gloss": "Media"
    }
@@ -15977,6 +18199,18 @@
    {
     "path": "1",
     "gloss": "what?"
+   },
+   {
+    "path": "2",
+    "gloss": "what?, how?, aught — Used adverbially"
+   },
+   {
+    "path": "3",
+    "gloss": "what?, how?, aught — Indef. pron"
+   },
+   {
+    "path": "4",
+    "gloss": "what?, how?, aught — With preps"
    }
   ],
   "strong": "4100"
@@ -16041,6 +18275,14 @@
    {
     "path": "1",
     "gloss": "Moab"
+   },
+   {
+    "path": "2.a",
+    "gloss": "Moab — = nation of which Lot’s son is represented as ancestor"
+   },
+   {
+    "path": "2.b",
+    "gloss": "Moab — = territory of Moab"
    },
    {
     "path": "2",
@@ -16123,6 +18365,26 @@
     "path": "Po‛lel",
     "stem": "Po‛lel",
     "gloss": "kill, put to death, despatch"
+   },
+   {
+    "path": "Hiph 1",
+    "stem": "Hiph",
+    "gloss": "abs., elsewhere c. acc., subj. man (Hiph of: die)"
+   },
+   {
+    "path": "Hiph 2",
+    "stem": "Hiph",
+    "gloss": "subj. God, by inflicting penalty (Hiph of: die)"
+   },
+   {
+    "path": "Hiph 3",
+    "stem": "Hiph",
+    "gloss": "of animals killing men (Hiph of: die)"
+   },
+   {
+    "path": "Hiph 4",
+    "stem": "Hiph",
+    "gloss": "bring to a premature death (Hiph of: die)"
    },
    {
     "path": "Hoph",
@@ -16223,6 +18485,16 @@
   "headword": "מַחֲלַת",
   "pos": "n.pr.f",
   "gloss": "Mahalath",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "daughter of Ishmael"
+   },
+   {
+    "path": "2",
+    "gloss": "granddaughter of David"
+   }
+  ],
   "strong": "4258"
  },
  "bdb:m.bq.ab": {
@@ -16298,12 +18570,24 @@
   "gloss": "who?",
   "senses": [
    {
+    "path": "a",
+    "gloss": "who? — מִי is rarely used of things, and usually where persons are understood or implied"
+   },
+   {
     "path": "b",
     "gloss": "whose"
    },
    {
+    "path": "c",
+    "gloss": "who? — in an indirect qu"
+   },
+   {
     "path": "d",
     "gloss": "who among"
+   },
+   {
+    "path": "e",
+    "gloss": "who? — strengthened and emph. forms of interrog"
    },
    {
     "path": "f",
@@ -16361,6 +18645,16 @@
   "headword": "מָכִיר",
   "pos": "n.pr.m",
   "gloss": "Machir",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "eldest son of Manasseh"
+   },
+   {
+    "path": "2",
+    "gloss": "son of Ammiel"
+   }
+  ],
   "strong": "4353"
  },
  "bdb:m.bz.aa": {
@@ -16395,6 +18689,11 @@
     "path": "Pi 1",
     "stem": "Pi",
     "gloss": "fill"
+   },
+   {
+    "path": "Pi 2",
+    "stem": "Pi",
+    "gloss": "special uses are (Pi of: be full, fill)"
    },
    {
     "path": "Pi 3",
@@ -16538,6 +18837,11 @@
     "path": "Hiph",
     "stem": "Hiph",
     "gloss": "make king, queen, cause to reign"
+   },
+   {
+    "path": "Hoph",
+    "stem": "Hoph",
+    "gloss": ". Dn 9:1 (Hoph of: be, become king, queen, reign)"
    }
   ],
   "strong": "4427"
@@ -16548,6 +18852,16 @@
   "headword": "מִלְכָּה",
   "pos": "n.pr.f",
   "gloss": "Milcah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "wife of Nahor"
+   },
+   {
+    "path": "2",
+    "gloss": "daughter of Zelophehad (of Manasseh)"
+   }
+  ],
   "strong": "4435"
  },
  "bdb:m.cd.al": {
@@ -16608,6 +18922,16 @@
   "gloss": "circumcise",
   "senses": [
    {
+    "path": "Qal",
+    "stem": "Qal",
+    "gloss": "circumcise — Jos 5:2"
+   },
+   {
+    "path": "Niph",
+    "stem": "Niph",
+    "gloss": ". Gn 17:11 (Niph of: circumcise)"
+   },
+   {
     "path": "Hithpo",
     "stem": "Hithpo",
     "gloss": "be cut off"
@@ -16643,8 +18967,16 @@
     "gloss": "off, on the side of, on"
    },
    {
+    "path": "1",
+    "gloss": "out of, from, on account of, off, on the side of, since, above, than, so that not — with verbs expressing (or implying) separation or removal"
+   },
+   {
     "path": "2",
     "gloss": "Out of"
+   },
+   {
+    "path": "3",
+    "gloss": "out of, from, on account of, off, on the side of, since, above, than, so that not — Partitively"
    },
    {
     "path": "4.a",
@@ -16659,6 +18991,10 @@
     "gloss": "towards, to"
    },
    {
+    "path": "4",
+    "gloss": "out of, from, on account of, off, on the side of, since, above, than, so that not — Of time—"
+   },
+   {
     "path": "5",
     "gloss": "from … even to"
    },
@@ -16671,12 +19007,24 @@
     "gloss": "from, on account of, through"
    },
    {
+    "path": "7.b",
+    "gloss": "out of, from, on account of, off, on the side of, since, above, than, so that not — after verbs implying restraint, prevention, cessation, etc"
+   },
+   {
     "path": "7.c",
     "gloss": "since, after"
    },
    {
+    "path": "7",
+    "gloss": "out of, from, on account of, off, on the side of, since, above, than, so that not — מן is prefixed to an infin"
+   },
+   {
     "path": "8",
     "gloss": "that"
+   },
+   {
+    "path": "9",
+    "gloss": "out of, from, on account of, off, on the side of, since, above, than, so that not — In compounds"
    }
   ],
   "strong": "4480"
@@ -16737,6 +19085,16 @@
   "headword": "תִּמְנָה",
   "pos": "n.pr.loc",
   "gloss": "portion, territory",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "portion, territory — place in hill-country of Judah"
+   },
+   {
+    "path": "2",
+    "gloss": "portion, territory — place on border of Judah"
+   }
+  ],
   "strong": "8553"
  },
  "bdb:m.cn.ab": {
@@ -16801,6 +19159,24 @@
   "headword": "תִּמְנָע",
   "pos": "n.pr.m",
   "gloss": "Timna",
+  "senses": [
+   {
+    "path": "1.a",
+    "gloss": "a chief of Edom"
+   },
+   {
+    "path": "1.b",
+    "gloss": "son of Eliphaz"
+   },
+   {
+    "path": "1",
+    "gloss": "n.pr.m"
+   },
+   {
+    "path": "2",
+    "gloss": "f. sister of Lotan (of Seir); concubine of Eliphaz son of Esau"
+   }
+  ],
   "strong": "8555"
  },
  "bdb:m.cp.aj": {
@@ -16813,6 +19189,18 @@
    {
     "path": "1.a",
     "gloss": "Manasseh"
+   },
+   {
+    "path": "1.b",
+    "gloss": "Manasseh — of tribe"
+   },
+   {
+    "path": "2",
+    "gloss": "Manasseh — son of Hezekiah"
+   },
+   {
+    "path": "3",
+    "gloss": "Manasseh — two who had taken strange wives"
    }
   ],
   "strong": "4519"
@@ -16849,6 +19237,60 @@
   "headword": "מַעֲכָה",
   "pos": "n.pr.m",
   "gloss": "Maachah",
+  "senses": [
+   {
+    "path": "1.a",
+    "gloss": "son of Nahor by his concubine"
+   },
+   {
+    "path": "1.b",
+    "gloss": "father of חָנָן, a hero of David"
+   },
+   {
+    "path": "1.c",
+    "gloss": "Simeonite name"
+   },
+   {
+    "path": "1.d",
+    "gloss": "father of Achish"
+   },
+   {
+    "path": "1",
+    "gloss": "n.pr.m"
+   },
+   {
+    "path": "2.a",
+    "gloss": "Geshurite princess, wife of David, mother of Absalom"
+   },
+   {
+    "path": "2.b",
+    "gloss": "daughter of Absalom, wife of Rehoboam, mother of Abijam"
+   },
+   {
+    "path": "2.c",
+    "gloss": "mother of Asa, and called also daughter of Absalom"
+   },
+   {
+    "path": "2.d",
+    "gloss": "concubinr of Caleb"
+   },
+   {
+    "path": "2.e",
+    "gloss": "wife of Machir"
+   },
+   {
+    "path": "2.f",
+    "gloss": "wife of (יעיאל), father of Gibeon"
+   },
+   {
+    "path": "2",
+    "gloss": "n.pr.f"
+   },
+   {
+    "path": "3",
+    "gloss": "n.pr.gent. dwelling W. of Bashan"
+   }
+  ],
   "strong": "4601"
  },
  "bdb:m.da.az": {
@@ -16881,6 +19323,11 @@
     "path": "Qal 3",
     "stem": "Qal",
     "gloss": "come upon, light upon"
+   },
+   {
+    "path": "Qal 4",
+    "stem": "Qal",
+    "gloss": "attain to, find — noteworthy phrases"
    },
    {
     "path": "Niph",
@@ -16931,8 +19378,20 @@
     "gloss": "Egypt"
    },
    {
+    "path": "1.b",
+    "gloss": "Egypt, Egyptians — combinations"
+   },
+   {
+    "path": "2.a",
+    "gloss": "Egypt, Egyptians — in table of nations, personif. as second son of Ham"
+   },
+   {
     "path": "2.b",
     "gloss": "Egypt, Egyptians"
+   },
+   {
+    "path": "2",
+    "gloss": "Egypt, Egyptians — of people"
    }
   ],
   "strong": "4714"
@@ -17047,6 +19506,16 @@
   "headword": "מַשָּׂא",
   "pos": "n.pr.gent",
   "gloss": "Massa",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "‘son’ of Ishmael"
+   },
+   {
+    "path": "2",
+    "gloss": "realm of king Lemuel"
+   }
+  ],
   "strong": "4854"
  },
  "bdb:m.dr.ba": {
@@ -17174,6 +19643,16 @@
     "gloss": "rule, have dominion"
    },
    {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "rule, have dominion, reign — of heavenly bodies"
+   },
+   {
+    "path": "Qal 3",
+    "stem": "Qal",
+    "gloss": "rule, have dominion, reign — of God"
+   },
+   {
     "path": "Hiph",
     "stem": "Hiph",
     "gloss": "cause to rule, exercise dominion"
@@ -17235,6 +19714,14 @@
    {
     "path": "1",
     "gloss": "males, men"
+   },
+   {
+    "path": "2",
+    "gloss": "male, man — usu. less emphasis on sex"
+   },
+   {
+    "path": "3",
+    "gloss": "male, man — elsewhere only poet"
    }
   ],
   "strong": "4962"
@@ -18101,6 +20588,16 @@
   "headword": "נָחוֹר",
   "pos": "n.pr.m",
   "gloss": "Nahor",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "father of Teraḥ"
+   },
+   {
+    "path": "2",
+    "gloss": "son of Teraḥ and brother of Abr"
+   }
+  ],
   "strong": "5152"
  },
  "bdb:n.cu.ab": {
@@ -18114,6 +20611,10 @@
    {
     "path": "1",
     "gloss": "serpent"
+   },
+   {
+    "path": "2",
+    "gloss": "serpent — bronze image of serpent"
    },
    {
     "path": "3",
@@ -18146,6 +20647,14 @@
    {
     "path": "2",
     "gloss": "fetters of copper, bronze"
+   },
+   {
+    "path": "3",
+    "gloss": "copper, bronze — as less in value than gold but more than wood"
+   },
+   {
+    "path": "4",
+    "gloss": "copper, bronze — fig. of pitiless sky"
    }
   ],
   "strong": "5178"
@@ -18156,6 +20665,20 @@
   "headword": "נַ֫חַת",
   "pos": "n.pr.m",
   "gloss": "Nahath",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Reuel, grandson of Esau"
+   },
+   {
+    "path": "2",
+    "gloss": "grandson of Elkanah"
+   },
+   {
+    "path": "3",
+    "gloss": "an overseer, Hezekiah's time"
+   }
+  ],
   "strong": "5184"
  },
  "bdb:n.cz.aa": {
@@ -18418,6 +20941,11 @@
     "gloss": "destroying"
    },
    {
+    "path": "Hiph 4",
+    "stem": "Hiph",
+    "gloss": "Of God (Hiph of: smite)"
+   },
+   {
     "path": "Hoph",
     "stem": "Hoph",
     "gloss": "be smitten"
@@ -18436,6 +20964,10 @@
    {
     "path": "1",
     "gloss": "in front of, opposite to"
+   },
+   {
+    "path": "2",
+    "gloss": "front — combined with preps"
    }
   ],
   "strong": "5227"
@@ -18676,9 +21208,19 @@
     "gloss": "depart"
    },
    {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "pull out, up, set out, journey — hence (from pulling up tent-pegs)"
+   },
+   {
     "path": "Qal 3",
     "stem": "Qal",
     "gloss": "journey, march"
+   },
+   {
+    "path": "Qal 4",
+    "stem": "Qal",
+    "gloss": "pull out, up, set out, journey — of wind"
    },
    {
     "path": "Niph",
@@ -18745,6 +21287,16 @@
   "headword": "נַעֲמָה",
   "pos": "n.pr.f",
   "gloss": "Naamah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "sister of Tubal Cain"
+   },
+   {
+    "path": "2",
+    "gloss": "Ammonitess, mother of Rehoboam"
+   }
+  ],
   "strong": "5279"
  },
  "bdb:n.ed.aj": {
@@ -18753,6 +21305,16 @@
   "headword": "נַעֲמָן",
   "pos": "n.pr.m",
   "gloss": "Naaman",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Benj"
+   },
+   {
+    "path": "2",
+    "gloss": "Aramaean general"
+   }
+  ],
   "strong": "5283"
  },
  "bdb:n.ei.ab": {
@@ -18842,6 +21404,21 @@
     "gloss": "fall"
    },
    {
+    "path": "Qal 2.a",
+    "stem": "Qal",
+    "gloss": "fall, lie — Esp. of violent death"
+   },
+   {
+    "path": "Qal 2.b",
+    "stem": "Qal",
+    "gloss": "fall, lie — fig. = go to ruin, perish, etc"
+   },
+   {
+    "path": "Qal 2.c",
+    "stem": "Qal",
+    "gloss": "fall, lie — fig. = experience calamity"
+   },
+   {
     "path": "Qal 2.d",
     "stem": "Qal",
     "gloss": "fall"
@@ -18872,6 +21449,16 @@
     "gloss": "desert, fall away to, go over to"
    },
    {
+    "path": "Qal 5",
+    "stem": "Qal",
+    "gloss": "fall, lie — Fig., of deep sleep"
+   },
+   {
+    "path": "Qal 6",
+    "stem": "Qal",
+    "gloss": "fall, lie — Other idiomatic uses"
+   },
+   {
     "path": "Qal 7",
     "stem": "Qal",
     "gloss": "lie, lie prostrate"
@@ -18900,6 +21487,11 @@
     "path": "Hiph 5",
     "stem": "Hiph",
     "gloss": "cause, to fall"
+   },
+   {
+    "path": "Hiph 6",
+    "stem": "Hiph",
+    "gloss": "Other idioms (Hiph of: fall, lie)"
    },
    {
     "path": "Hithp",
@@ -18939,6 +21531,14 @@
     "gloss": "that which breathes, the breathing substance or being"
    },
    {
+    "path": "2",
+    "gloss": "soul, living being, life, self, person, desire, appetite, emotion, passion — The נפשׁ becomes a living being"
+   },
+   {
+    "path": "3",
+    "gloss": "soul, living being, life, self, person, desire, appetite, emotion, passion — The נפשׁ is specif"
+   },
+   {
     "path": "4",
     "gloss": "the man himself"
    },
@@ -18949,6 +21549,22 @@
    {
     "path": "6",
     "gloss": "seat of emotions and passions"
+   },
+   {
+    "path": "7",
+    "gloss": "soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ is used occasionally for mental acts"
+   },
+   {
+    "path": "8",
+    "gloss": "soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ for acts of the will is dub"
+   },
+   {
+    "path": "9",
+    "gloss": "soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ = character is still more dub"
+   },
+   {
+    "path": "10",
+    "gloss": "soul, living being, life, self, person, desire, appetite, emotion, passion — נ׳ in D"
    }
   ],
   "strong": "5315"
@@ -19176,6 +21792,11 @@
   "gloss": "be empty, clean",
   "senses": [
    {
+    "path": "Qal",
+    "stem": "Qal",
+    "gloss": "be empty, clean — Inf. Abs"
+   },
+   {
     "path": "Niph 1",
     "stem": "Niph",
     "gloss": "be cleaned out"
@@ -19333,6 +21954,11 @@
     "path": "Pi 1",
     "stem": "Pi",
     "gloss": "lift up"
+   },
+   {
+    "path": "Pi 2",
+    "stem": "Pi",
+    "gloss": "fig. = desire, long (Pi of: lift, carry, take)"
    },
    {
     "path": "Pi 3",
@@ -19877,6 +22503,21 @@
     "gloss": "deliver up"
    },
    {
+    "path": "Pu 1",
+    "stem": "Pu",
+    "gloss": "of cities (Pu of: shut, close)"
+   },
+   {
+    "path": "Pu 2",
+    "stem": "Pu",
+    "gloss": "of prisoners (Pu of: shut, close)"
+   },
+   {
+    "path": "Pu 3",
+    "stem": "Pu",
+    "gloss": "of doors (Pu of: shut, close)"
+   },
+   {
     "path": "Hiph 1",
     "stem": "Hiph",
     "gloss": "deliver up"
@@ -19972,7 +22613,12 @@
     "gloss": "cause to, depart, remove, take away"
    },
    {
-    "path": "Pô‛lēl#7",
+    "path": "Hiph 2",
+    "stem": "Hiph",
+    "gloss": "rarer uses (Hiph of: turn aside)"
+   },
+   {
+    "path": "Pô‛lēl#8",
     "stem": "Pô‛lēl",
     "gloss": "be taken away, removed"
    }
@@ -20033,6 +22679,10 @@
    {
     "path": "1",
     "gloss": "booths"
+   },
+   {
+    "path": "2",
+    "gloss": "first station of Isr. at Exodus"
    }
   ],
   "strong": "5523"
@@ -20504,6 +23154,10 @@
    {
     "path": "6",
     "gloss": "thy servant, I"
+   },
+   {
+    "path": "7",
+    "gloss": "slave, servant — Phrases"
    }
   ],
   "strong": "5650"
@@ -20726,6 +23380,24 @@
   "headword": "עֵ֫בֶר",
   "pos": "n.pr.m",
   "gloss": "Eber, Hebrews",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Eber, Hebrews — ‘son’ of Shelaḥ, and ‘grandson’ of Arpachshad"
+   },
+   {
+    "path": "2",
+    "gloss": "Eber, Hebrews — a Gadite chief"
+   },
+   {
+    "path": "3",
+    "gloss": "Eber, Hebrews — Benjamite names"
+   },
+   {
+    "path": "4",
+    "gloss": "Eber, Hebrews — a priest"
+   }
+  ],
   "strong": "5677"
  },
  "bdb:p.ah.ad": {
@@ -20809,6 +23481,22 @@
   "gloss": "as far as, even to, up to, until, while",
   "senses": [
    {
+    "path": "I.1",
+    "gloss": "as far as, even to, up to, until, while — of space"
+   },
+   {
+    "path": "I.2",
+    "gloss": "as far as, even to, up to, until, while — Of time"
+   },
+   {
+    "path": "I.3",
+    "gloss": "as far as, even to, up to, until, while — Of degree"
+   },
+   {
+    "path": "I",
+    "gloss": "as far as, even to, up to, until, while — prep"
+   },
+   {
     "path": "II.1",
     "gloss": "until"
    },
@@ -20819,6 +23507,26 @@
    {
     "path": "II.3",
     "gloss": "to the point that, so that even"
+   },
+   {
+    "path": "II",
+    "gloss": "as far as, even to, up to, until, while — conj"
+   },
+   {
+    "path": "III.1",
+    "gloss": "as far as, even to, up to, until, while — of space"
+   },
+   {
+    "path": "III.2",
+    "gloss": "as far as, even to, up to, until, while — Of time"
+   },
+   {
+    "path": "III.3",
+    "gloss": "as far as, even to, up to, until, while — Of degree"
+   },
+   {
+    "path": "III",
+    "gloss": "as far as, even to, up to, until, while — עַד לְ, a strengthened form for עַד. Thus"
    }
   ],
   "strong": "5704"
@@ -20829,6 +23537,16 @@
   "headword": "עָדָה",
   "pos": "n.pr.f",
   "gloss": "Adah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "of Lamech"
+   },
+   {
+    "path": "2",
+    "gloss": "of Esau"
+   }
+  ],
   "strong": "5711"
  },
  "bdb:p.at.ac": {
@@ -20937,6 +23655,11 @@
   "pos": "vb. denom",
   "gloss": "bear witness",
   "senses": [
+   {
+    "path": "Hiph",
+    "stem": "Hiph",
+    "gloss": "Impf. \u003c (Hiph of: bear witness)"
+   },
    {
     "path": "Hiph 1",
     "stem": "Hiph",
@@ -21057,6 +23780,20 @@
   "headword": "עֵיפָה",
   "pos": "n.pr",
   "gloss": "Ephah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "gent. ‘son’ of Midian"
+   },
+   {
+    "path": "2",
+    "gloss": "m. name in Judah"
+   },
+   {
+    "path": "3",
+    "gloss": "f. concubine of Caleb"
+   }
+  ],
   "strong": "5891"
  },
  "bdb:p.bm.ab": {
@@ -21065,6 +23802,28 @@
   "headword": "עוּץ",
   "pos": "n.pr",
   "gloss": "Uz",
+  "senses": [
+   {
+    "path": "1.a",
+    "gloss": "(eldest) ‘son’ of Aram, = ‘son’ of Shem"
+   },
+   {
+    "path": "1.b",
+    "gloss": "eldest ‘son’ of Naḥor"
+   },
+   {
+    "path": "1.c",
+    "gloss": "Edomite name"
+   },
+   {
+    "path": "1",
+    "gloss": "m"
+   },
+   {
+    "path": "2",
+    "gloss": "loc. on Uz as vague name for E. country"
+   }
+  ],
   "strong": "5780"
  },
  "bdb:p.bp.ac": {
@@ -21073,6 +23832,16 @@
   "headword": "עֵר",
   "pos": "n.pr.m",
   "gloss": "Er",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "eldest son of Judah"
+   },
+   {
+    "path": "2",
+    "gloss": "son of Judah’s son Shelah"
+   }
+  ],
   "strong": "6147"
  },
  "bdb:p.bp.ad": {
@@ -21110,6 +23879,10 @@
   "gloss": "skin",
   "senses": [
    {
+    "path": "1",
+    "gloss": "skin — of men (55 t.)"
+   },
+   {
     "path": "2",
     "gloss": "hide"
    }
@@ -21122,6 +23895,24 @@
   "headword": "יְעוּשׁ",
   "pos": "n.pr.m",
   "gloss": "he comes to help",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "he comes to help — son of Esau"
+   },
+   {
+    "path": "2",
+    "gloss": "he comes to help — Benjamites"
+   },
+   {
+    "path": "3",
+    "gloss": "he comes to help — a Levite"
+   },
+   {
+    "path": "4",
+    "gloss": "he comes to help — son of Rehoboam"
+   }
+  ],
   "strong": "3266"
  },
  "bdb:p.bv.aa": {
@@ -21199,6 +23990,11 @@
     "path": "Niph",
     "stem": "Niph",
     "gloss": "I am helped"
+   },
+   {
+    "path": "Qal#3",
+    "stem": "Qal",
+    "gloss": "help, succour — . v"
    }
   ],
   "strong": "5826"
@@ -21259,6 +24055,16 @@
   "headword": "עַי",
   "pos": "n.pr.loc",
   "gloss": "Ai",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "old Canaanit. city"
+   },
+   {
+    "path": "2",
+    "gloss": "E. Jordan city"
+   }
+  ],
   "strong": "5857"
  },
  "bdb:p.cj.ab": {
@@ -21287,20 +24093,36 @@
   "gloss": "eye",
   "senses": [
    {
+    "path": "1",
+    "gloss": "eye — lit. as physical organ"
+   },
+   {
+    "path": "2.a",
+    "gloss": "eye — eyes as showing mental qualities"
+   },
+   {
     "path": "2.b",
     "gloss": "desire of the eyes, abominations of the eyes"
    },
    {
-    "path": "2.a",
+    "path": "3",
+    "gloss": "eye — Fig. of mental and physical faculties, acts and states"
+   },
+   {
+    "path": "2.a#5",
     "gloss": "surface"
    },
    {
-    "path": "2.b#3",
+    "path": "2.b#6",
     "gloss": "appearance"
    },
    {
     "path": "2.c",
     "gloss": "gleam, sparkle"
+   },
+   {
+    "path": "2",
+    "gloss": "eye — Transferred mngs"
    },
    {
     "path": "5",
@@ -21318,8 +24140,16 @@
   "gloss": "spring",
   "senses": [
    {
+    "path": "a",
+    "gloss": "spring — ע׳ חֲרֹר Ju 7:1"
+   },
+   {
     "path": "b",
     "gloss": "partridge-spring"
+   },
+   {
+    "path": "c",
+    "gloss": "spring — ע׳ רֹגֵל near Jerus"
    },
    {
     "path": "d",
@@ -21372,6 +24202,14 @@
    {
     "path": "1",
     "gloss": "city, town"
+   },
+   {
+    "path": "2",
+    "gloss": "city, town — of fortress in a city"
+   },
+   {
+    "path": "3",
+    "gloss": "city, town — appar. fortified place, of any size"
    }
   ],
   "strong": "5892"
@@ -21407,6 +24245,16 @@
   "headword": "עַכְבּוֹר",
   "pos": "n.pr.m",
   "gloss": "mouse",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "mouse — Edomite"
+   },
+   {
+    "path": "2",
+    "gloss": "mouse — courtier of Josiah"
+   }
+  ],
   "strong": "5907"
  },
  "bdb:p.cq.aa": {
@@ -21464,6 +24312,16 @@
     "gloss": "go up, rise"
    },
    {
+    "path": "Qal 6",
+    "stem": "Qal",
+    "gloss": "go up, ascend, climb — of inanimate things, instead of passive construction"
+   },
+   {
+    "path": "Qal 7",
+    "stem": "Qal",
+    "gloss": "go up, ascend, climb — of thoughts"
+   },
+   {
     "path": "Qal 8",
     "stem": "Qal",
     "gloss": "come up"
@@ -21514,6 +24372,11 @@
     "gloss": "bring up"
    },
    {
+    "path": "Hiph 2",
+    "stem": "Hiph",
+    "gloss": "in personal relations (Hiph of: go up, ascend, climb)"
+   },
+   {
     "path": "Hiph 3",
     "stem": "Hiph",
     "gloss": "bring up"
@@ -21522,6 +24385,11 @@
     "path": "Hiph 4",
     "stem": "Hiph",
     "gloss": "cause to ascend"
+   },
+   {
+    "path": "Hiph 5",
+    "stem": "Hiph",
+    "gloss": "mentally (Hiph of: go up, ascend, climb)"
    },
    {
     "path": "Hiph 6",
@@ -21605,6 +24473,16 @@
   "root": "עלה",
   "pos": "n.m",
   "gloss": "Highest, Most High",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Highest, Most High — name of God"
+   },
+   {
+    "path": "2",
+    "gloss": "Highest, Most High — of rulers, either monarchs or angel-princes"
+   }
+  ],
   "strong": "5945"
  },
  "bdb:p.cs.am": {
@@ -21627,6 +24505,18 @@
    {
     "path": "I",
     "gloss": "height"
+   },
+   {
+    "path": "II.1.a.(a)",
+    "gloss": "Upon, upon, on — of clothing, etc., which any one wears"
+   },
+   {
+    "path": "II.1.a.(b)",
+    "gloss": "Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it"
+   },
+   {
+    "path": "II.1.a",
+    "gloss": "Upon, upon, on — —"
    },
    {
     "path": "II.1.b",
@@ -21673,12 +24563,28 @@
     "gloss": "by, on"
    },
    {
+    "path": "II.7",
+    "gloss": "upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)"
+   },
+   {
+    "path": "II.8",
+    "gloss": "upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative"
+   },
+   {
+    "path": "II.9",
+    "gloss": "upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles"
+   },
+   {
     "path": "II",
     "gloss": "upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against"
    },
    {
     "path": "III.a",
     "gloss": "because that"
+   },
+   {
+    "path": "III.b",
+    "gloss": "עַל כִּי similar in meaning, but less frequent"
    },
    {
     "path": "III.c.(a)",
@@ -21689,6 +24595,14 @@
     "gloss": "notwithstanding that, although"
    },
    {
+    "path": "III.c",
+    "gloss": "עַל alone"
+   },
+   {
+    "path": "III",
+    "gloss": "As conj"
+   },
+   {
     "path": "IV.1.a",
     "gloss": "as concerning, as upon"
    },
@@ -21697,8 +24611,16 @@
     "gloss": "the like of, the like of"
    },
    {
+    "path": "IV.1",
+    "gloss": "with כְּ (rare and late)"
+   },
+   {
     "path": "IV.2",
     "gloss": "from upon, from over, from by"
+   },
+   {
+    "path": "IV",
+    "gloss": "Compounds"
    }
   ],
   "strong": "5921"
@@ -21847,6 +24769,16 @@
     "gloss": "stand still, stop"
    },
    {
+    "path": "Qal 2.b",
+    "stem": "Qal",
+    "gloss": "take one's stand, stand — = be inactive"
+   },
+   {
+    "path": "Qal 2.c",
+    "stem": "Qal",
+    "gloss": "take one's stand, stand — = be attentive"
+   },
+   {
     "path": "Qal 2.d",
     "stem": "Qal",
     "gloss": "stop, cease"
@@ -21907,6 +24839,11 @@
     "gloss": "rise up"
    },
    {
+    "path": "Qal 7",
+    "stem": "Qal",
+    "gloss": "take one's stand, stand — rare usages"
+   },
+   {
     "path": "Hiph 1",
     "stem": "Hiph",
     "gloss": "station, set"
@@ -21930,6 +24867,11 @@
     "path": "Hiph 5",
     "stem": "Hiph",
     "gloss": "appoint"
+   },
+   {
+    "path": "Hiph 6",
+    "stem": "Hiph",
+    "gloss": "other meanings (Hiph of: take one's stand, stand)"
    },
    {
     "path": "Hoph",
@@ -21991,8 +24933,20 @@
     "gloss": "a people, nation"
    },
    {
+    "path": "2",
+    "gloss": "people — = smaller units"
+   },
+   {
+    "path": "3",
+    "gloss": "people — = common people"
+   },
+   {
     "path": "4",
     "gloss": "people, persons"
+   },
+   {
+    "path": "5",
+    "gloss": "people — phrases"
    }
   ],
   "strong": "5971"
@@ -22033,6 +24987,10 @@
     "gloss": "as long as"
    },
    {
+    "path": "1",
+    "gloss": "with — of fellowship and companionship"
+   },
+   {
     "path": "2",
     "gloss": "close to, beside"
    },
@@ -22055,6 +25013,10 @@
    {
     "path": "3.e",
     "gloss": "With, friendly with"
+   },
+   {
+    "path": "3",
+    "gloss": "with — Of persons, עִם is spec"
    },
    {
     "path": "4",
@@ -22200,6 +25162,10 @@
    {
     "path": "2.c",
     "gloss": "appointed time"
+   },
+   {
+    "path": "2.d",
+    "gloss": "time — as uncertain"
    },
    {
     "path": "3",
@@ -22393,6 +25359,16 @@
   "headword": "עָנֵר",
   "pos": "n.pr",
   "gloss": "Aner",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "appar. m. ally of Abram"
+   },
+   {
+    "path": "2",
+    "gloss": "loc. in Manasseh"
+   }
+  ],
   "strong": "6063"
  },
  "bdb:p.eg.ab": {
@@ -22410,6 +25386,20 @@
   "headword": "עֵ֫פֶר",
   "pos": "n.pr.m",
   "gloss": "Epher",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "‘son’ of Midian"
+   },
+   {
+    "path": "2",
+    "gloss": "in Judah"
+   },
+   {
+    "path": "3",
+    "gloss": "in Manasseh"
+   }
+  ],
   "strong": "6081"
  },
  "bdb:p.eh.af": {
@@ -22418,6 +25408,20 @@
   "headword": "עֶפְרוֹן",
   "pos": "n.pr",
   "gloss": "Ephron",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "m. Hittite, Abr.’s time"
+   },
+   {
+    "path": "2",
+    "gloss": "loc. Kt"
+   },
+   {
+    "path": "3",
+    "gloss": "mont. on N. border of Judah"
+   }
+  ],
   "strong": "6085"
  },
  "bdb:p.ei.aa": {
@@ -22489,6 +25493,10 @@
    {
     "path": "1.b",
     "gloss": "trees"
+   },
+   {
+    "path": "1",
+    "gloss": "tree, trees, wood — (c. 150 t.)"
    },
    {
     "path": "2",
@@ -22613,6 +25621,16 @@
   "root": "עקב",
   "pos": "n.pr.m",
   "gloss": "Jacob",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Jacob — as n.pr.m"
+   },
+   {
+    "path": "2",
+    "gloss": "Jacob — as n.pr.gent"
+   }
+  ],
   "strong": "3290"
  },
  "bdb:p.ev.aa": {
@@ -23395,6 +26413,30 @@
     "gloss": "mouth"
    },
    {
+    "path": "1.b",
+    "gloss": "mouth — external organ"
+   },
+   {
+    "path": "2.a",
+    "gloss": "mouth — much oftener, as organ of speech, of man"
+   },
+   {
+    "path": "2.b",
+    "gloss": "mouth — as laughing; panting"
+   },
+   {
+    "path": "2.c",
+    "gloss": "mouth — of God"
+   },
+   {
+    "path": "2.d",
+    "gloss": "mouth — of idols"
+   },
+   {
+    "path": "2.e",
+    "gloss": "mouth — of musical instr. = sound"
+   },
+   {
     "path": "3",
     "gloss": "edge"
    },
@@ -23405,6 +26447,14 @@
    {
     "path": "5.a",
     "gloss": "extremity, end"
+   },
+   {
+    "path": "5.b",
+    "gloss": "mouth — = portion"
+   },
+   {
+    "path": "6",
+    "gloss": "mouth — with preps"
    }
   ],
   "strong": "6310"
@@ -23433,6 +26483,11 @@
   "pos": "vb",
   "gloss": "grow numb",
   "senses": [
+   {
+    "path": "Qal",
+    "stem": "Qal",
+    "gloss": "grow numb — of hand, i.e drop helpless"
+   },
    {
     "path": "Niph",
     "stem": "Niph",
@@ -23510,6 +26565,11 @@
   "gloss": "be supple, agile",
   "senses": [
    {
+    "path": "Qal",
+    "stem": "Qal",
+    "gloss": "be supple, agile — of arms"
+   },
+   {
     "path": "Pi",
     "stem": "Pi",
     "gloss": "shew agility, leap"
@@ -23532,6 +26592,10 @@
    {
     "path": "2",
     "gloss": "object of dread"
+   },
+   {
+    "path": "3",
+    "gloss": "dread — as design. dei"
    }
   ],
   "strong": "6343"
@@ -23776,6 +26840,16 @@
   "headword": "פֶּן־",
   "pos": "conj",
   "gloss": "lest",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "lest — with impf"
+   },
+   {
+    "path": "2",
+    "gloss": "lest — with Pf., the result feared being conceived as having possibly already taken place"
+   }
+  ],
   "strong": "6435"
  },
  "bdb:q.bu.aa": {
@@ -23889,6 +26963,14 @@
    {
     "path": "I.6",
     "gloss": "before"
+   },
+   {
+    "path": "I.7",
+    "gloss": "face, faces — for other phrases"
+   },
+   {
+    "path": "II",
+    "gloss": "face, faces — with prepositions"
    }
   ],
   "strong": "6440"
@@ -23899,6 +26981,24 @@
   "headword": "פְּנוּאֵל",
   "pos": "n.pr",
   "gloss": "face of God",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "face of God — loc. E. of Jordan, near Jabboḳ"
+   },
+   {
+    "path": "2.a",
+    "gloss": "face of God — in Judah"
+   },
+   {
+    "path": "2.b",
+    "gloss": "face of God — in Benjamin"
+   },
+   {
+    "path": "2",
+    "gloss": "face of God — m"
+   }
+  ],
   "strong": "6439"
  },
  "bdb:q.cb.ab": {
@@ -23935,6 +27035,11 @@
     "path": "Niph",
     "stem": "Niph",
     "gloss": "be disturbed"
+   },
+   {
+    "path": "Hithp",
+    "stem": "Hithp",
+    "gloss": ". Dn 2:1 (Hithp of: thrust, impel, strike, hit)"
    }
   ],
   "strong": "6470"
@@ -24099,6 +27204,11 @@
     "gloss": "be mustered"
    },
    {
+    "path": "Hothp",
+    "stem": "Hothp",
+    "gloss": ". id (Hothp of: attend to, visit, muster, appoint)"
+   },
+   {
     "path": "Hiph 1",
     "stem": "Hiph",
     "gloss": "set, over, make overseer"
@@ -24112,6 +27222,11 @@
     "path": "Hiph 2.b",
     "stem": "Hiph",
     "gloss": "deposit"
+   },
+   {
+    "path": "Hiph 2",
+    "stem": "Hiph",
+    "gloss": "c. acc. rei (implic.) (Hiph of: attend to, visit, muster, appoint)"
    },
    {
     "path": "Hoph 1",
@@ -24243,6 +27358,16 @@
   "pos": "vb",
   "gloss": "bear fruit, be fruitful",
   "senses": [
+   {
+    "path": "Qal 1",
+    "stem": "Qal",
+    "gloss": "bear fruit, be fruitful — of men and animals"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "bear fruit, be fruitful — of vine"
+   },
    {
     "path": "Hiph 1",
     "stem": "Hiph",
@@ -24412,6 +27537,24 @@
   "headword": "פֶּ֫רֶץ",
   "pos": "n.pr",
   "gloss": "Perez",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "m. son of Judah and Tamar"
+   },
+   {
+    "path": "2.a",
+    "gloss": "פֶּ׳ עֻזָּא near Jerus"
+   },
+   {
+    "path": "2.b",
+    "gloss": "הַר פְּרָצִים"
+   },
+   {
+    "path": "2",
+    "gloss": "loc. in"
+   }
+  ],
   "strong": "6557"
  },
  "bdb:q.dk.aa": {
@@ -24750,6 +27893,10 @@
    {
     "path": "3",
     "gloss": "service"
+   },
+   {
+    "path": "4",
+    "gloss": "army, war, warfare — צְבָאוֹת, in name of י׳ as God of war, prob. first in time of warlike David (some connect with sacred ark, but ark older)"
    }
   ],
   "strong": "6635"
@@ -24799,6 +27946,10 @@
    {
     "path": "1",
     "gloss": "righteousness"
+   },
+   {
+    "path": "2",
+    "gloss": "righteousness — God's attribute as sovereign"
    },
    {
     "path": "3",
@@ -25032,6 +28183,20 @@
   "headword": "צֹ֫חַר",
   "pos": "n.pr.m",
   "gloss": "Zohar. Compare",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "father of Ephron the Hittite"
+   },
+   {
+    "path": "2",
+    "gloss": "son of Simeon"
+   },
+   {
+    "path": "3",
+    "gloss": "name in Judah"
+   }
+  ],
   "strong": "6714"
  },
  "bdb:r.bs.ai": {
@@ -25350,6 +28515,24 @@
   "headword": "מִצְפָּה",
   "pos": "n.pr.loc",
   "gloss": "outlook-point, -height",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "outlook-point, -height — in Gilead, expl. as name given to Laban’s cairn, N. of Jabbok"
+   },
+   {
+    "path": "2",
+    "gloss": "outlook-point, -height — prob. S. of Jabbok"
+   },
+   {
+    "path": "3",
+    "gloss": "outlook-point, -height — near Hermon"
+   },
+   {
+    "path": "4",
+    "gloss": "outlook-point, -height — of sacred place in Benj"
+   }
+  ],
   "strong": "4709"
  },
  "bdb:r.di.ac": {
@@ -25406,6 +28589,10 @@
     "gloss": "tied up"
    },
    {
+    "path": "A",
+    "gloss": "bind, tie up, be restricted, narrow, scant, cramped — trans"
+   },
+   {
     "path": "Qal B",
     "stem": "Qal",
     "gloss": "be scant, cramped, in straits"
@@ -25414,6 +28601,10 @@
     "path": "Hiph B",
     "stem": "Hiph",
     "gloss": "make narrow, press hard, cause distress"
+   },
+   {
+    "path": "B",
+    "gloss": "bind, tie up, be restricted, narrow, scant, cramped — intrans"
    }
   ],
   "strong": "3334"
@@ -25474,6 +28665,11 @@
     "gloss": "gather together"
    },
    {
+    "path": "Pu",
+    "stem": "Pu",
+    "gloss": ". of land (Pu of: gather, collect)"
+   },
+   {
     "path": "Hithp",
     "stem": "Hithp",
     "gloss": "gather together, be gathered together"
@@ -25503,6 +28699,11 @@
     "path": "Pi",
     "stem": "Pi",
     "gloss": "bury"
+   },
+   {
+    "path": "Pu",
+    "stem": "Pu",
+    "gloss": ". Gn 25:10 (Pu of: bury)"
    }
   ],
   "strong": "6912"
@@ -25558,6 +28759,10 @@
    {
     "path": "1.b",
     "gloss": "East, eastward"
+   },
+   {
+    "path": "1",
+    "gloss": "front, east, aforetime — loc"
    },
    {
     "path": "2.a",
@@ -25635,6 +28840,16 @@
   "headword": "קֵדָר",
   "pos": "n.pr.gent",
   "gloss": "swarthy, black",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "swarthy, black — tribe of nomads in Arab. desert"
+   },
+   {
+    "path": "2",
+    "gloss": "swarthy, black — ancestor of 1, son of Ishmael"
+   }
+  ],
   "strong": "6938"
  },
  "bdb:s.an.ad": {
@@ -25754,6 +28969,16 @@
   "root": "קדשׁ",
   "pos": "n.pr.loc",
   "gloss": "sacred",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "sacred — in S. of Judah = ק׳ בַּרְנֵעַ"
+   },
+   {
+    "path": "2",
+    "gloss": "sacred — Hittite capital on the Orontes, N. of Damascus, towards Hamath"
+   }
+  ],
   "strong": "6946"
  },
  "bdb:s.ap.ab": {
@@ -25930,6 +29155,11 @@
     "gloss": "erect, build"
    },
    {
+    "path": "Hiph 2.c",
+    "stem": "Hiph",
+    "gloss": "fig, of setting up law (Hiph of: arise, stand up, stand)"
+   },
+   {
     "path": "Hiph 3",
     "stem": "Hiph",
     "gloss": "raise up"
@@ -25943,6 +29173,11 @@
     "path": "Hiph 4.b",
     "stem": "Hiph",
     "gloss": "instigate, build"
+   },
+   {
+    "path": "Hiph 4.c",
+    "stem": "Hiph",
+    "gloss": "fig, of setting up law (Hiph of: arise, stand up, stand)"
    },
    {
     "path": "Hiph 5",
@@ -26009,6 +29244,14 @@
     "gloss": "place of human abode"
    },
    {
+    "path": "2.b.(2)",
+    "gloss": "standing-place, place — of י׳’s abode"
+   },
+   {
+    "path": "2.b",
+    "gloss": "standing-place, place — esp"
+   },
+   {
     "path": "3",
     "gloss": "place"
    },
@@ -26027,6 +29270,10 @@
    {
     "path": "6",
     "gloss": "region, quarter, direction"
+   },
+   {
+    "path": "7",
+    "gloss": "standing-place, place — peculiar uses"
    }
   ],
   "strong": "4725"
@@ -26246,6 +29493,20 @@
   "headword": "קְמוּאֵל",
   "pos": "n.pr.m",
   "gloss": "Kemuel",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "son of Nahor"
+   },
+   {
+    "path": "2",
+    "gloss": "Ephraimite"
+   },
+   {
+    "path": "3",
+    "gloss": "Levite"
+   }
+  ],
   "strong": "7055"
  },
  "bdb:s.bv.ab": {
@@ -26422,6 +29683,10 @@
    {
     "path": "4.f",
     "gloss": "shoulder-joint"
+   },
+   {
+    "path": "4",
+    "gloss": "stalk, reed — derived meanings"
    }
   ],
   "strong": "7070"
@@ -26592,6 +29857,11 @@
     "gloss": "call, name"
    },
    {
+    "path": "Niph 1",
+    "stem": "Niph",
+    "gloss": "reflex (Niph of: call, proclaim, read)"
+   },
+   {
     "path": "Niph 2",
     "stem": "Niph",
     "gloss": "be called"
@@ -26664,6 +29934,11 @@
     "gloss": "bring near, bring, present"
    },
    {
+    "path": "Hiph 1.b",
+    "stem": "Hiph",
+    "gloss": "of time (Hiph of: come near, approach)"
+   },
+   {
     "path": "Hiph 2",
     "stem": "Hiph",
     "gloss": "bring near"
@@ -26688,12 +29963,36 @@
     "gloss": "the nearest to, his neighbour"
    },
    {
+    "path": "2.b",
+    "gloss": "near — abs"
+   },
+   {
+    "path": "2.c",
+    "gloss": "near — of near relationship"
+   },
+   {
     "path": "2.d",
     "gloss": "near"
    },
    {
     "path": "2.e",
     "gloss": "near"
+   },
+   {
+    "path": "2.f",
+    "gloss": "near — of God (י׳)"
+   },
+   {
+    "path": "2.g",
+    "gloss": "near — of word"
+   },
+   {
+    "path": "2",
+    "gloss": "near — of pers"
+   },
+   {
+    "path": "3",
+    "gloss": "near — of time"
    }
   ],
   "strong": "7138"
@@ -26763,6 +30062,16 @@
   "headword": "קִרְיָתַ֫יִם",
   "pos": "n.pr.loc",
   "gloss": "double city",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "double city — in Moab"
+   },
+   {
+    "path": "2",
+    "gloss": "double city — Levit. city in Naphtali"
+   }
+  ],
   "strong": "7156"
  },
  "bdb:s.dc.ak": {
@@ -26779,6 +30088,20 @@
   "headword": "קֹ֫רַח",
   "pos": "n.pr.m",
   "gloss": "baldness",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "baldness — Edomite name"
+   },
+   {
+    "path": "2",
+    "gloss": "baldness — Levite, rebel ag. Moses"
+   },
+   {
+    "path": "3",
+    "gloss": "baldness — a ‘son’ of Hebron, i.e. Judahite clan"
+   }
+  ],
   "strong": "7141"
  },
  "bdb:s.de.ab": {
@@ -26798,6 +30121,30 @@
   "pos": "n.f",
   "gloss": "horn",
   "senses": [
+   {
+    "path": "1.a",
+    "gloss": "horn — of ram"
+   },
+   {
+    "path": "1.b",
+    "gloss": "horn — used as oil-flask"
+   },
+   {
+    "path": "1.c",
+    "gloss": "horn — as wind instr"
+   },
+   {
+    "path": "1.d",
+    "gloss": "horn — (from curved shape of tusks)"
+   },
+   {
+    "path": "2",
+    "gloss": "horn — fig. of pers., symbol of strength"
+   },
+   {
+    "path": "3",
+    "gloss": "horn — of altar, horn-like projections at corners"
+   },
    {
     "path": "4",
     "gloss": "hill, peak, isolated hill"
@@ -26831,6 +30178,11 @@
     "path": "Qal 2",
     "stem": "Qal",
     "gloss": "tear away"
+   },
+   {
+    "path": "Qal 3.a",
+    "stem": "Qal",
+    "gloss": "tear, rend asunder — book"
    },
    {
     "path": "Qal 3.b",
@@ -26977,6 +30329,11 @@
     "gloss": "bind fast"
    },
    {
+    "path": "Pu",
+    "stem": "Pu",
+    "gloss": ". = Qal 1 c (Pu of: bind, league together, conspire)"
+   },
+   {
     "path": "Hithp",
     "stem": "Hithp",
     "gloss": "conspire"
@@ -27052,6 +30409,11 @@
     "path": "Qal 6",
     "stem": "Qal",
     "gloss": "look at, see"
+   },
+   {
+    "path": "Qal 7",
+    "stem": "Qal",
+    "gloss": "see — of mental observation"
    },
    {
     "path": "Qal 8.a",
@@ -27190,6 +30552,16 @@
   "root": "ראה",
   "pos": "n.pr.m",
   "gloss": "Reuben",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Reuben — eldest son of Jacob and Leah"
+   },
+   {
+    "path": "2",
+    "gloss": "Reuben — as name of clan or tribe"
+   }
+  ],
   "strong": "7205"
  },
  "bdb:t.ac.ac": {
@@ -27271,6 +30643,10 @@
    {
     "path": "7",
     "gloss": "sum, take sum of, enumerate"
+   },
+   {
+    "path": "8",
+    "gloss": "other phr"
    }
   ],
   "strong": "7218"
@@ -27354,6 +30730,10 @@
     "gloss": "many"
    },
    {
+    "path": "1.c",
+    "gloss": "much, many, great — רַב as subst. coll. pers"
+   },
+   {
     "path": "1.d",
     "gloss": "abounding in"
    },
@@ -27368,6 +30748,10 @@
    {
     "path": "1.g",
     "gloss": "much, exceedingly"
+   },
+   {
+    "path": "1",
+    "gloss": "much, many, great — (oft. opp. מְעַט)"
    },
    {
     "path": "2",
@@ -27762,6 +31146,18 @@
     "gloss": "spirit"
    },
    {
+    "path": "6",
+    "gloss": "breath, wind, spirit — occasionally (and late) = seat or organ of mental acts"
+   },
+   {
+    "path": "7",
+    "gloss": "breath, wind, spirit — rarely of the will"
+   },
+   {
+    "path": "8",
+    "gloss": "breath, wind, spirit — רוּחַ esp. of moral character"
+   },
+   {
     "path": "9",
     "gloss": "spirit of God"
    }
@@ -27817,6 +31213,11 @@
     "path": "Qal 1.a",
     "stem": "Qal",
     "gloss": "be high"
+   },
+   {
+    "path": "Qal 1.b",
+    "stem": "Qal",
+    "gloss": "be high, exalted, rise — esp. of י׳"
    },
    {
     "path": "Qal 2",
@@ -28011,6 +31412,20 @@
   "headword": "רְחֹבוֹת",
   "pos": "n.pr.loc",
   "gloss": "Rehoboth",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "near Nineveh"
+   },
+   {
+    "path": "2",
+    "gloss": "name of well"
+   },
+   {
+    "path": "3",
+    "gloss": "home of a king of Edom"
+   }
+  ],
   "strong": "7344"
  },
  "bdb:t.by.ab": {
@@ -28414,6 +31829,28 @@
   "root": "רעה",
   "pos": "vb",
   "gloss": "pasture, tend, graze",
+  "senses": [
+   {
+    "path": "Qal 1",
+    "stem": "Qal",
+    "gloss": "pasture, tend, graze — trans"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "pasture, tend, graze — intrans"
+   },
+   {
+    "path": "Niph",
+    "stem": "Niph",
+    "gloss": ". poss (Niph of: pasture, tend, graze)"
+   },
+   {
+    "path": "Hiph",
+    "stem": "Hiph",
+    "gloss": ". v (Hiph of: pasture, tend, graze)"
+   }
+  ],
   "strong": "7462"
  },
  "bdb:t.dk.ae": {
@@ -28448,6 +31885,24 @@
   "headword": "רְעוּאֵל",
   "pos": "n.pr.m",
   "gloss": "Raguel",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Moses’ father-in-law"
+   },
+   {
+    "path": "2",
+    "gloss": "Edomite"
+   },
+   {
+    "path": "3",
+    "gloss": "Gadite"
+   },
+   {
+    "path": "4",
+    "gloss": "Benjamite"
+   }
+  ],
   "strong": "7467"
  },
  "bdb:t.dl.al": {
@@ -28788,6 +32243,11 @@
     "gloss": "crush in pieces"
    },
    {
+    "path": "Pō‛ēl",
+    "stem": "Pō‛ēl",
+    "gloss": "acc. pers (Pō‛ēl of: crush)"
+   },
+   {
     "path": "Hiph",
     "stem": "Hiph",
     "gloss": "she crushed his skull"
@@ -28811,6 +32271,10 @@
    {
     "path": "1",
     "gloss": "expanse"
+   },
+   {
+    "path": "2",
+    "gloss": "extended surface, expanse — the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it"
    }
   ],
   "strong": "7549"
@@ -28977,6 +32441,11 @@
     "path": "Qal 4.c",
     "stem": "Qal",
     "gloss": "set up"
+   },
+   {
+    "path": "Qal 4.d",
+    "stem": "Qal",
+    "gloss": "put, place, set — = plant, wheat"
    },
    {
     "path": "Qal 4.e",
@@ -29301,6 +32770,28 @@
   "root": "שׂער",
   "pos": "n.pr",
   "gloss": "Sē‛ir",
+  "senses": [
+   {
+    "path": "1.a",
+    "gloss": "Sē‛ir — terr. land of Edom, S. of Dead Sea"
+   },
+   {
+    "path": "1.b",
+    "gloss": "Sē‛ir — specif. mont. E. of Arabah"
+   },
+   {
+    "path": "1.c",
+    "gloss": "Sē‛ir — gent. = Edom"
+   },
+   {
+    "path": "1.d",
+    "gloss": "Sē‛ir — personif. as m"
+   },
+   {
+    "path": "2",
+    "gloss": "Sē‛ir — mont. in Judah"
+   }
+  ],
   "strong": "8165"
  },
  "bdb:u.bw.ab": {
@@ -29368,6 +32859,16 @@
   "root": "שׂרה",
   "pos": "n.pr.m",
   "gloss": "Israel, Ēl persisteth, persevereth",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Israel, Ēl persisteth, persevereth — n.pr.m. second name of Jacob"
+   },
+   {
+    "path": "2",
+    "gloss": "Israel, Ēl persisteth, persevereth — n.pr.gent. name of Hebrew nation"
+   }
+  ],
   "strong": "3478"
  },
  "bdb:u.cf.ac": {
@@ -29554,6 +33055,24 @@
   "headword": "שָׁאוּל",
   "pos": "n.pr.m",
   "gloss": "asked",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "asked — 1st king of Isr"
+   },
+   {
+    "path": "2",
+    "gloss": "asked — a king of Edom"
+   },
+   {
+    "path": "3",
+    "gloss": "asked — a son of Simeon"
+   },
+   {
+    "path": "4",
+    "gloss": "asked — a Levite"
+   }
+  ],
   "strong": "7586"
  },
  "bdb:v.ag.ai": {
@@ -29673,6 +33192,20 @@
   "headword": "שׁוֹבָל",
   "pos": "n.pr.m",
   "gloss": "Shobal",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Edomite name"
+   },
+   {
+    "path": "2.a",
+    "gloss": "in Caleb"
+   },
+   {
+    "path": "2.b",
+    "gloss": "in Judah"
+   }
+  ],
   "strong": "7732"
  },
  "bdb:v.av.aa": {
@@ -29988,9 +33521,24 @@
     "gloss": "return unto"
    },
    {
+    "path": "Qal 4.a",
+    "stem": "Qal",
+    "gloss": "turn back, return — of dying"
+   },
+   {
+    "path": "Qal 4.b",
+    "stem": "Qal",
+    "gloss": "turn back, return — of revival from death"
+   },
+   {
     "path": "Qal 5.a",
     "stem": "Qal",
     "gloss": "return"
+   },
+   {
+    "path": "Qal 5.b",
+    "stem": "Qal",
+    "gloss": "turn back, return — = change so as to appoach (in purpose, desire)"
    },
    {
     "path": "Qal 5.c",
@@ -30001,6 +33549,16 @@
     "path": "Qal 5.d",
     "stem": "Qal",
     "gloss": "return"
+   },
+   {
+    "path": "Qal 5.e",
+    "stem": "Qal",
+    "gloss": "turn back, return — abs. = change course of action"
+   },
+   {
+    "path": "Qal 5",
+    "stem": "Qal",
+    "gloss": "turn back, return — fig. of human relations"
    },
    {
     "path": "Qal 6.a",
@@ -30028,9 +33586,34 @@
     "gloss": "turn back"
    },
    {
+    "path": "Qal 6.f",
+    "stem": "Qal",
+    "gloss": "turn back, return — of י׳"
+   },
+   {
     "path": "Qal 6.g",
     "stem": "Qal",
     "gloss": "return"
+   },
+   {
+    "path": "Qal 6",
+    "stem": "Qal",
+    "gloss": "turn back, return — fig., specif. of spiritual relations"
+   },
+   {
+    "path": "Qal 7",
+    "stem": "Qal",
+    "gloss": "turn back, return — of inanimate things (sts. personified, or treated as things of life)"
+   },
+   {
+    "path": "Qal 8",
+    "stem": "Qal",
+    "gloss": "turn back, return — denoting repetition, etc"
+   },
+   {
+    "path": "Qal 9",
+    "stem": "Qal",
+    "gloss": "turn back, return — trans"
    },
    {
     "path": "Qal",
@@ -30193,6 +33776,16 @@
   "headword": "יִשְׁוִי",
   "pos": "n.pr.m",
   "gloss": "Ishuai",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "in Asher"
+   },
+   {
+    "path": "2",
+    "gloss": "a son of Saul"
+   }
+  ],
   "strong": "3440"
  },
  "bdb:v.br.ae": {
@@ -30234,6 +33827,16 @@
   "headword": "שׁוּנִי",
   "pos": "n.pr.m",
   "gloss": "Shuni",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "n.pr.m. in Gad"
+   },
+   {
+    "path": "2",
+    "gloss": "adj.gent. of 1"
+   }
+  ],
   "strong": "7764"
  },
  "bdb:v.bw.aa": {
@@ -30302,6 +33905,16 @@
     "path": "Hithpa‛lēl 1",
     "stem": "Hithpa‛lēl",
     "gloss": "bow down, prostrate oneself"
+   },
+   {
+    "path": "Hithpa‛lēl 2",
+    "stem": "Hithpa‛lēl",
+    "gloss": "before God, in worship (Hithpa‛lēl of: bow down)"
+   },
+   {
+    "path": "Hithpa‛lēl 3",
+    "stem": "Hithpa‛lēl",
+    "gloss": "before other gods (Hithpa‛lēl of: bow down)"
    }
   ],
   "strong": "7812"
@@ -30482,6 +34095,11 @@
     "gloss": "lie down with his fathers"
    },
    {
+    "path": "Qal 5",
+    "stem": "Qal",
+    "gloss": "lie down — fig. = relax"
+   },
+   {
     "path": "Pu",
     "stem": "Pu",
     "gloss": "be lain with"
@@ -30627,6 +34245,16 @@
   "root": "שׁכם",
   "pos": "n.pr.loc",
   "gloss": "Shechem",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "district in N. Palestine"
+   },
+   {
+    "path": "2",
+    "gloss": "n.pr.m. ‘son’ of Hamor"
+   }
+  ],
   "strong": "7927"
  },
  "bdb:v.dd.ag": {
@@ -30701,6 +34329,11 @@
     "path": "Pi",
     "stem": "Pi",
     "gloss": "make drunken"
+   },
+   {
+    "path": "Hiph",
+    "stem": "Hiph",
+    "gloss": ". id.: i.e. make princes helpless (Hiph of: be, become, drunk, drunken)"
    },
    {
     "path": "Hithp",
@@ -30800,6 +34433,11 @@
     "path": "Pi 6",
     "stem": "Pi",
     "gloss": "shoot"
+   },
+   {
+    "path": "Pi 7",
+    "stem": "Pi",
+    "gloss": "Phrases (Pi of: send)"
    },
    {
     "path": "Pu",
@@ -31059,6 +34697,16 @@
   "root": "שׁלשׁ",
   "pos": "n.indecl",
   "gloss": "thirty",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "thirty — bef. n. sg"
+   },
+   {
+    "path": "2",
+    "gloss": "thirty — as ordin"
+   }
+  ],
   "strong": "7970"
  },
  "bdb:v.du.aj": {
@@ -31086,12 +34734,28 @@
   "gloss": "name",
   "senses": [
    {
+    "path": "1",
+    "gloss": "name — of river, beasts, city, i.e. exact designation of it"
+   },
+   {
+    "path": "2.a",
+    "gloss": "name — usu. of pers"
+   },
+   {
     "path": "2.b",
     "gloss": "reputation"
    },
    {
+    "path": "2.c",
+    "gloss": "name — esp. as giving a man a kind of posthumous life, esp. in his sons"
+   },
+   {
     "path": "3",
     "gloss": "name"
+   },
+   {
+    "path": "4",
+    "gloss": "name — of false gods, use forbidden"
    },
    {
     "path": "5",
@@ -31148,6 +34812,22 @@
    {
     "path": "1.a",
     "gloss": "visible heavens, sky"
+   },
+   {
+    "path": "1.b",
+    "gloss": "heavens, sky — phrases"
+   },
+   {
+    "path": "2.a",
+    "gloss": "heavens, sky — as abode of God"
+   },
+   {
+    "path": "2.b",
+    "gloss": "heavens, sky — Elijah taken up הַשּׁ׳ in whirlwind"
+   },
+   {
+    "path": "3",
+    "gloss": "heavens, sky — הַשּׁ׳ personified in various relations"
    }
   ],
   "strong": "8064"
@@ -31158,6 +34838,20 @@
   "headword": "שַׁמָּה",
   "pos": "n.pr.m",
   "gloss": "Shammah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "in Edom"
+   },
+   {
+    "path": "2",
+    "gloss": "third son of Jesse"
+   },
+   {
+    "path": "3",
+    "gloss": "heroes of David"
+   }
+  ],
   "strong": "8048"
  },
  "bdb:v.eb.ab": {
@@ -31214,6 +34908,16 @@
   "gloss": "hear",
   "senses": [
    {
+    "path": "Qal 1",
+    "stem": "Qal",
+    "gloss": "hear — subj. pers. hum"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "hear — י׳ (God) subj"
+   },
+   {
     "path": "Niph 1",
     "stem": "Niph",
     "gloss": "be heard"
@@ -31237,6 +34941,16 @@
     "path": "Pi",
     "stem": "Pi",
     "gloss": "he caused, to hear"
+   },
+   {
+    "path": "Hiph 1",
+    "stem": "Hiph",
+    "gloss": "of man (Hiph of: hear)"
+   },
+   {
+    "path": "Hiph 2",
+    "stem": "Hiph",
+    "gloss": "י׳ subj (Hiph of: hear)"
    }
   ],
   "strong": "8085"
@@ -31256,6 +34970,20 @@
   "headword": "שִׁמְעוֹן",
   "pos": "n.pr.m",
   "gloss": "Simeon",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "second son of Jacob and Leah"
+   },
+   {
+    "path": "2",
+    "gloss": "tribal name"
+   },
+   {
+    "path": "3",
+    "gloss": "post-ex. Jew with foreign wife"
+   }
+  ],
   "strong": "8095"
  },
  "bdb:v.ed.au": {
@@ -31264,6 +34992,28 @@
   "headword": "יִשְׁמָעֵאל",
   "pos": "n.pr.m",
   "gloss": "Ēl heareth",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "Ēl heareth — son of Abraham and Hagar"
+   },
+   {
+    "path": "2",
+    "gloss": "Ēl heareth — murderer of Gedaliah"
+   },
+   {
+    "path": "3",
+    "gloss": "Ēl heareth — in Benj"
+   },
+   {
+    "path": "4",
+    "gloss": "Ēl heareth — in Judah"
+   },
+   {
+    "path": "5",
+    "gloss": "Ēl heareth — Jew with foreign wife"
+   }
+  ],
   "strong": "3458"
  },
  "bdb:v.ed.av": {
@@ -31280,6 +35030,16 @@
   "headword": "מִשְׁמָע",
   "pos": "n.pr.m",
   "gloss": "Mishma",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "in Ishmael"
+   },
+   {
+    "path": "2",
+    "gloss": "in Simeon"
+   }
+  ],
   "strong": "4927"
  },
  "bdb:v.ef.aa": {
@@ -31331,9 +35091,19 @@
     "gloss": "keep"
    },
    {
+    "path": "Qal 3.c",
+    "stem": "Qal",
+    "gloss": "keep, watch, preserve — of other obligations"
+   },
+   {
     "path": "Qal 3.d",
     "stem": "Qal",
     "gloss": "observe"
+   },
+   {
+    "path": "Qal 4",
+    "stem": "Qal",
+    "gloss": "keep, watch, preserve — sts. י׳ subj"
    },
    {
     "path": "Qal 5",
@@ -31409,6 +35179,14 @@
    {
     "path": "2",
     "gloss": "toward sun-rise, East"
+   },
+   {
+    "path": "3",
+    "gloss": "sun — obj. of worship"
+   },
+   {
+    "path": "4",
+    "gloss": "sun — other phr"
    },
    {
     "path": "5",
@@ -31710,6 +35488,16 @@
   "pos": "vb",
   "gloss": "pour out, pour",
   "senses": [
+   {
+    "path": "Qal 1",
+    "stem": "Qal",
+    "gloss": "pour out, pour — lit"
+   },
+   {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "pour out, pour — fig"
+   },
    {
     "path": "Niph",
     "stem": "Niph",
@@ -32322,6 +36110,11 @@
     "gloss": "be complete, sound, unimpaired"
    },
    {
+    "path": "Qal 7",
+    "stem": "Qal",
+    "gloss": "be complete, finished — twice, very strangely"
+   },
+   {
     "path": "Hiph 1",
     "stem": "Hiph",
     "gloss": "finish, complete, perfect"
@@ -32373,6 +36166,10 @@
    {
     "path": "3",
     "gloss": "integrity"
+   },
+   {
+    "path": "4",
+    "gloss": "completeness, integrity — תֻּמִּים"
    }
   ],
   "strong": "8537"
@@ -32437,6 +36234,24 @@
   "headword": "תָּמָר",
   "pos": "n.pr",
   "gloss": "Tamar",
+  "senses": [
+   {
+    "path": "1.a",
+    "gloss": "daughter-in-law of Judah"
+   },
+   {
+    "path": "1.b",
+    "gloss": "daughter of David, sister of Absalom"
+   },
+   {
+    "path": "1",
+    "gloss": "f"
+   },
+   {
+    "path": "2",
+    "gloss": "loc. site not certain"
+   }
+  ],
   "strong": "8559"
  },
  "bdb:w.bd.ae": {
@@ -32479,6 +36294,16 @@
     "gloss": "wander about"
    },
    {
+    "path": "Qal 2",
+    "stem": "Qal",
+    "gloss": "err — of intoxication"
+   },
+   {
+    "path": "Qal 3",
+    "stem": "Qal",
+    "gloss": "err — ethically"
+   },
+   {
     "path": "Niph 1",
     "stem": "Niph",
     "gloss": "be made to wander about"
@@ -32492,6 +36317,11 @@
     "path": "Hiph 1",
     "stem": "Hiph",
     "gloss": "cause to wander about"
+   },
+   {
+    "path": "Hiph 2",
+    "stem": "Hiph",
+    "gloss": "of intoxication (Hiph of: err)"
    },
    {
     "path": "Hiph 3",
@@ -32633,6 +36463,16 @@
   "headword": "תֶּ֫רַח",
   "pos": "n.pr",
   "gloss": "Tarah",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "m. father of Abraham"
+   },
+   {
+    "path": "2",
+    "gloss": "loc. station of Exodus journey"
+   }
+  ],
   "strong": "8646"
  },
  "bdb:w.bq.au": {
@@ -32649,6 +36489,24 @@
   "headword": "תַּרְשִׁישׁ",
   "pos": "n.pr",
   "gloss": "Tarshish",
+  "senses": [
+   {
+    "path": "1",
+    "gloss": "loc. a distant port, site not certainly known"
+   },
+   {
+    "path": "2.a",
+    "gloss": "in Benjamin"
+   },
+   {
+    "path": "2.b",
+    "gloss": "Persian noble"
+   },
+   {
+    "path": "2",
+    "gloss": "m"
+   }
+  ],
   "strong": "8659"
  },
  "bdb:w.bq.bn": {

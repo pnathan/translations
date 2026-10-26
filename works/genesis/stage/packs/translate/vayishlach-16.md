@@ -19,7 +19,7 @@ Hebrew (MAM): וְאֵ֛לֶּה תֹּלְד֥וֹת עֵשָׂ֖ו אֲבִ֣�
 
 ### Commentary anchored to this verse
 
-- `rashi:36:9:1` Rashi **normative** on 36:9.1 «וְאֵ֛לֶּה» (matched; filed at 36:9) DH «ואלה.»: הַתּוֹלָדוֹת שֶׁהוֹלִידוּ בָנָיו עַכְשָׁו מִשֶּׁהָלַךְ לְשֵׂעִיר:
+- `rashi:36:9:1` Rashi on 36:9.1 «וְאֵ֛לֶּה» (matched; filed at 36:9) DH «ואלה.»: הַתּוֹלָדוֹת שֶׁהוֹלִידוּ בָנָיו עַכְשָׁו מִשֶּׁהָלַךְ לְשֵׂעִיר:
 - `ramban:36:9:1` Ramban on 36:9.1 36:9.2 36:9.3 36:9.4 36:9.5 «וְאֵ֛לֶּה תֹּלְד֥וֹת עֵשָׂ֖ו אֲבִ֣י אֱד֑וֹם» (matched; filed at 36:9) DH «וְאֵלֶּה תֹּלְדוֹת עֵשָׂו אֲבִי אֱדוֹם»: בָּא לְהַזְכִּיר הַתּוֹלָדוֹת אֲשֶׁר הוֹלִידוּ בָּנָיו אַחֲרֵי שֶׁהָלְכוּ עִמּוֹ לְשֵׂעִיר, כִּי הוּא לֹא הוֹלִיד שָׁם. וְהִנֵּה הֵחֵל מִמֶּנּוּ, לוֹמַר הוּא הוֹלִיד אֶת אֱלִיפַז וּרְעוּאֵל, וְהֵם הוֹלִידוּ בְּאֶרֶץ שֵׂעִיר תּוֹלָדוֹת הַלָּלוּ. וְיַזְכִּיר עִמָּהֶם בְּנֵי אָהֳלִיבָמָה הַנּוֹלָדִים בְּאֶרֶץ כְּנַעַן אַף עַל פִּי שֶׁלֹּא הִזְכִּיר לָהֶם תּוֹלָדוֹת בְּאֶרֶץ שֵׂעִיר, כְּדֵי שֶׁיִּמָּנוּ עִם אֲחֵיהֶם בְּנֵי עֵשָׂו הַנִּזְכָּרִים בִּתְחִלַּת הַפָּרָשָׁה, וְעוֹד בַּעֲבוּר הֱיוֹתָם בְּשֵׂעִיר אַלּוּפִים, כִּי כָל אַלּוּפֵיהֶם יַזְכִּיר:
 - `radak:36:9:1` Radak on 36:9.1 36:9.2 «וְאֵ֛לֶּה תֹּלְד֥וֹת» (matched; filed at 36:9) DH «וְאֵלֶּה תֹּלְדוֹת.»: זָכַר תּוֹלְדוֹת בָּנָיו שֶׁהָיָה לוֹ בְּהַר שֵׂעִיר.
 - `onkelos:36:9:1` Targum Onkelos on whole 36:9 (version; filed at 36:9): וְאִלֵּין תּוּלְדַת עֵשָׂו אֲבוּהוֹן דֶאֱדוֹמָאֵי בְּטוּרָא דְּשֵׂעִיר:
@@ -96,7 +96,7 @@ Hebrew (MAM): וְתִמְנַ֣ע ׀ הָיְתָ֣ה פִילֶ֗גֶשׁ לֶ
 
 ### Commentary anchored to this verse
 
-- `rashi:36:12:1` Rashi **normative** on 36:12.1 36:12.2 36:12.3 «וְתִמְנַ֣ע הָיְתָ֣ה פִילֶ֗גֶשׁ» (matched; filed at 36:12) DH «ותמנע היתה פילגש.»: לְהוֹדִיעַ גְּדֻלָּתוֹ שֶׁל אַבְרָהָם, כַּמָּה הָיוּ תְאֵבִים לִדַּבֵּק בְּזַרְעוֹ. תִּמְנַע זוֹ בַּת אַלּוּפִים הָיְתָה, שֶׁנֶּאֱמַר וַאֲחוֹת לוֹטָן תִּמְנָע, וְלוֹטָן מֵאַלּוּפֵי יוֹשְׁבֵי שֵׂעִיר הָיָה מִן הַחוֹרִים שֶׁיָּשְׁבוּ בָהּ לְפָנִים, אָמְרָה אֵינִי זוֹכָה לְהִנָּשֵׂא לְךָ, הַלְוַאי וְאֶהְיֶה פִּילֶגֶשׁ. וּבְדִבְרֵי הַיָּמִים מוֹנֶה אוֹתָהּ בְּבָנָיו שֶׁל אֱלִיפַז, מְלַמֵּד שֶׁבָּא עַל אִשְׁתּוֹ שֶׁל שֵׂעִיר וְיָצְאָה תִּמְנָע מִבֵּינֵיהֶם, וּכְשֶׁגָּדְלָה נַעֲשֵׂית פִּילַגְשׁוֹ, וְזֶהוּ וַאֲחוֹת לוֹטָן תִּמְנָע, וְלֹא מְנָאָהּ עִם בְּנֵי שֵׂעִיר שֶׁהָיְתָה אֲחוֹתוֹ מִן הָאֵם וְלֹא מִן הָאָב:
+- `rashi:36:12:1` Rashi on 36:12.1 36:12.2 36:12.3 «וְתִמְנַ֣ע הָיְתָ֣ה פִילֶ֗גֶשׁ» (matched; filed at 36:12) DH «ותמנע היתה פילגש.»: לְהוֹדִיעַ גְּדֻלָּתוֹ שֶׁל אַבְרָהָם, כַּמָּה הָיוּ תְאֵבִים לִדַּבֵּק בְּזַרְעוֹ. תִּמְנַע זוֹ בַּת אַלּוּפִים הָיְתָה, שֶׁנֶּאֱמַר וַאֲחוֹת לוֹטָן תִּמְנָע, וְלוֹטָן מֵאַלּוּפֵי יוֹשְׁבֵי שֵׂעִיר הָיָה מִן הַחוֹרִים שֶׁיָּשְׁבוּ בָהּ לְפָנִים, אָמְרָה אֵינִי זוֹכָה לְהִנָּשֵׂא לְךָ, הַלְוַאי וְאֶהְיֶה פִּילֶגֶשׁ. וּבְדִבְרֵי הַיָּמִים מוֹנֶה אוֹתָהּ בְּבָנָיו שֶׁל אֱלִיפַז, מְלַמֵּד שֶׁבָּא עַל אִשְׁתּוֹ שֶׁל שֵׂעִיר וְיָצְאָה תִּמְנָע מִבֵּינֵיהֶם, וּכְשֶׁגָּדְלָה נַעֲשֵׂית פִּילַגְשׁוֹ, וְזֶהוּ וַאֲחוֹת לוֹטָן תִּמְנָע, וְלֹא מְנָאָהּ עִם בְּנֵי שֵׂעִיר שֶׁהָיְתָה אֲחוֹתוֹ מִן הָאֵם וְלֹא מִן הָאָב:
 - `ramban:36:12:1` Ramban on 36:12.1 36:12.2 36:12.3 «וְתִמְנַ֣ע הָיְתָ֣ה פִילֶ֗גֶשׁ» (matched; filed at 36:12) DH «וְתִמְנַע הָיְתָה פִילֶגֶשׁ»: מִפְּנֵי שֶׁלֹּא הִקְפִּיד בְּכָל הָאֲחֵרִים לְהוֹדִיעַ שֵׁם הָאֵם דָּרְשׁוּ רַבּוֹתֵינוּ (ב"ר פב יד) כִּי זֶה לְהוֹדִיעַ גְּדֻלָּתוֹ שֶׁל אַבְרָהָם אָבִינוּ, כַּמָּה הָיוּ תְּאֵבִים לְהִדָּבֵק בְּזַרְעוֹ, שֶׁהֲרֵי תִּמְנַע זוֹ בַּת אַלּוּפִים הָיְתָה, שֶׁנֶּאֱמַר "וַאֲחוֹת לוֹטָן תִּמְנָע", אָמְרָה אֵינִי זוֹכָה לְהִנָּשֵׂא לְךָ, הַלְוַאי וְאֶהְיֶה פִּילֶגֶשׁ, כְּמוֹ שֶׁכָּתַב רַשִׁ"י (רש"י על בראשית ל"ו:י"ב). וְיִתָּכֵן כִּי בְּנֵי אֱלִיפַז הַחֲמִשָּׁה הָיוּ יְדוּעִים לוֹ כִּי הוֹלִידָם מִנָּשָׁיו, וַעֲמָלֵק בַּעֲבוּר הֱיוֹתוֹ בֶּן פִּלֶגֶשׁ לֹא הָיָה לוֹ שֵׁם בְּאֶחָיו, וְהָיָה נִכְלָל עִם בְּנֵי עֵשָׂו בַּעֲבוּר הֱיוֹתוֹ מִזַּרְעוֹ. וְהֻצְרַךְ הַכָּתוּב לוֹמַר כִּי אִמּוֹ פְּלוֹנִית אֲשֶׁר הוּא נוֹדַע לָהּ יְלָדַתּוּ לֶאֱלִיפַז, אֲבָל אֵינֶנּוּ בִּכְלַל בְּנֵי עֵשָׂו וְלֹא יוֹשֵׁב עִמָּהֶם בְּהַר שֵׂעִיר, כִּי בִּבְנֵי הַגְּבִירוֹת יִקָּרֵא לוֹ זֶרַע וְלֹא בְּבֶן הַפִּילֶגֶשׁ, כִּי לֹא יִירַשׁ בֶּן אָמָה עִם בָּנָיו, כְּמוֹ שֶׁעָשָׂה אָבִיו. וְהִנֵּה אֲנַחְנוּ נִצְטַוִּינוּ בִּבְנֵי עֵשָׂו שֶׁלֹּא נְתַעֵב אוֹתָם (דברים כג ח) וְלֹא נִקַּח אֶת אַרְצָם (שם ב ה), וְהֵם כָּל בָּנָיו הַיְּדוּעִים לוֹ הַיּוֹשְׁבִים בְּשֵׂעִיר כִּי הֵם הַנִּקְרָאִים אֱדוֹם עַל שְׁמוֹ, אֲבָל בֶּן הַפִּילֶגֶשׁ אֵינוֹ בִּכְלַל בְּנֵי עֵשָׂו וְלֹא עִמָּהֶם בְּאַרְצָם, וְנִצְטַוִּינוּ בּוֹ בְּהֶפֶךְ, לְתַעֵב אוֹתוֹ וְלִמְחוֹת אֶת שְׁמוֹ. וְכָתַב רַשִׁ"י עוֹד, וּבְדִבְרֵי הַיָּמִים (א א לו) מוֹנֶה תִּמְנַע בְּבָנָיו שֶׁל אֱלִיפַז, מְלַמֵּד שֶׁבָּא עַל אִשְׁתּוֹ שֶׁל שֵׂעִיר הַחוֹרִי וְיָצְאָה תִּמְנַע  … [cut; full text in the review pack]
 - `radak:36:12:1` Radak on 36:12.1 «וְתִמְנַ֣ע» (matched; filed at 36:12) DH «וְתִמְנַע.»: אֶפְשָׁר שֶׁתִּמְנַע הַזֹּאת לֹא הָיְתָה אֲחוֹת לוֹטָן, וְאֶפְשָׁר שֶׁהָיְתָה, כְּדִבְרֵי הַדְּרָשׁ שֶׁאָמַר שֶׁנִּכְתַּב זֶה לְהוֹדִיעַ שִׁבְחוֹ שֶׁל אַבְרָהָם אָבִינוּ בָּאֻמּוֹת (בראשית רבה פב:יד, סנהדרין צט:) כִּי זֹאת הָיְתָה אֲחוֹת אַלּוּף, וְאָמְרָה הוֹאִיל וְלֹא זָכִיתִי לְהִנָּשֵׂא לְזַרְעוֹ שֶׁל אַבְרָהָם אֶהְיֶה פִּילֶגֶשׁ.
 - `onkelos:36:12:1` Targum Onkelos on whole 36:12 (version; filed at 36:12): וְתִמְנַע הֲוַת לְחֵינָתָא לֶאֱלִיפַז בַּר עֵשָׂו וִילִידַת לֶאֱלִיפַז יָת עֲמָלֵק אִלֵּין בְּנֵי עָדָה אִתַּת עֵשָׂו:
@@ -188,7 +188,7 @@ Hebrew (MAM): אֵ֖לֶּה אַלּוּפֵ֣י בְנֵֽי־עֵשָׂ֑ו �
 
 ### Commentary anchored to this verse
 
-- `rashi:36:15:1` Rashi **normative** on 36:15.1 36:15.2 36:15.3 36:15.4 «אֵ֖לֶּה אַלּוּפֵ֣י בְנֵֽי עֵשָׂ֑ו» (matched; filed at 36:15) DH «אלה אלופי בני עשו.»: רָאשֵׁי מִשְׁפָּחוֹת:
+- `rashi:36:15:1` Rashi on 36:15.1 36:15.2 36:15.3 36:15.4 «אֵ֖לֶּה אַלּוּפֵ֣י בְנֵֽי עֵשָׂ֑ו» (matched; filed at 36:15) DH «אלה אלופי בני עשו.»: רָאשֵׁי מִשְׁפָּחוֹת:
 - `onkelos:36:15:1` Targum Onkelos on whole 36:15 (version; filed at 36:15): אִלֵּין רַבְרְבֵי בְּנֵי עֵשָׂו בְּנֵי אֱלִיפַז בּוּכְרָא דְעֵשָׂו רַבָּא תֵימָן רַבָּא אוֹמָר רַבָּא צְפוֹ רַבָּא קְנַז:
 
 ## Genesis 36:16
@@ -241,11 +241,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` land of Edom, Idumaea
 
 ### `bdb:a.bl.ag` אׇהֳלִיבָמָה (n.pr): Ohŏlibama, tent of high place
+- `1` Ohŏlibama, tent of high place — f. wife of Esau
+- `2` Ohŏlibama, tent of high place — m. as Edomite chief
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.dl.av` אֱלִיפַז (n.pr.m): God of fine gold
+- `a` God of fine gold — son of Esau
+- `b` God of fine gold — friend of Job
 
 ### `bdb:a.dt.ac` אַלּוּף (n.m) root אלף: chief, chiliarch
 
@@ -261,14 +268,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
@@ -283,18 +298,27 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:b.di.ad` בָּֽשְׂמַת (n.pr.f): perfume
+- `1` perfume — Hittite woman, a wife of Esau
+- `2` perfume — daughter of Solomon, wife of Ahimaaz
 
 ### `bdb:c.cs.ac` גַּעְתָּם (n.pr.m): Gatam
 
@@ -302,29 +326,44 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:e.cf.ab` הַר (n.m) root הרר: mountain, hill, hill-country
 - `1` mountain, hill
 - `2` hill-country, mountain-region
 
 ### `bdb:g.cj.ac` זֶ֫רַח (n.pr.m): Zarah
+- `1` son of Judah and Tamar
+- `2` Edomites
+- `3` Levites
+- `4` head of Simeonite family
+- `5` a Cushite
 
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -340,12 +379,25 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:m.bg.ac` מִזָּה (n.pr.m): Mizzah
 
 ### `bdb:m.cp.ac` תִּמְנָע (n.pr.m): Timna
+- `1.a` a chief of Edom
+- `1.b` son of Eliphaz
+- `1` n.pr.m
+- `2` f. sister of Lotan (of Seir); concubine of Eliphaz son of Esau
 
 ### `bdb:n.cy.ad` נַ֫חַת (n.pr.m): Nahath
+- `1` son of Reuel, grandson of Esau
+- `2` grandson of Elkanah
+- `3` an overseer, Hezekiah's time
 
 ### `bdb:p.ar.ab` עָדָה (n.pr.f): Adah
+- `1` of Lamech
+- `2` of Esau
 
 ### `bdb:p.bs.ab` יְעוּשׁ (n.pr.m): he comes to help
+- `1` he comes to help — son of Esau
+- `2` he comes to help — Benjamites
+- `3` he comes to help — a Levite
+- `4` he comes to help — son of Rehoboam
 
 ### `bdb:p.cx.ag` יַעְלָם (n.pr.m): Jalam
 
@@ -366,15 +418,34 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:s.cc.ad` קְנַז (n.pr.m): Kenaz
 
 ### `bdb:s.dd.af` קֹ֫רַח (n.pr.m): baldness
+- `1` baldness — Edomite name
+- `2` baldness — Levite, rebel ag. Moses
+- `3` baldness — a ‘son’ of Hebron, i.e. Judahite clan
 
 ### `bdb:t.dl.aj` רְעוּאֵל (n.pr.m): Raguel
+- `1` Moses’ father-in-law
+- `2` Edomite
+- `3` Gadite
+- `4` Benjamite
 
 ### `bdb:u.bs.am` שֵׂעִיר (n.pr) root שׂער: Sē‛ir
+- `1.a` Sē‛ir — terr. land of Edom, S. of Dead Sea
+- `1.b` Sē‛ir — specif. mont. E. of Arabah
+- `1.c` Sē‛ir — gent. = Edom
+- `1.d` Sē‛ir — personif. as m
+- `2` Sē‛ir — mont. in Judah
 
 ### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `1` name — of river, beasts, city, i.e. exact designation of it
+- `2.a` name — usu. of pers
 - `2.b` reputation
+- `2.c` name — esp. as giving a man a kind of posthumous life, esp. in his sons
 - `3` name
+- `4` name — of false gods, use forbidden
 - `5` memorial, monument
 
 ### `bdb:v.ea.ag` שַׁמָּה (n.pr.m): Shammah
+- `1` in Edom
+- `2` third son of Jesse
+- `3` heroes of David
 

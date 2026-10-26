@@ -25,8 +25,8 @@ Variants:
 
 ### Commentary anchored to this verse
 
-- `rashi:35:23:1` Rashi **normative** on 35:23.3 35:23.4 «בְּכ֥וֹר יַעֲקֹ֖ב» (matched; filed at 35:23) DH «בכור יעקב.»: אֲפִלּוּ בִּשְׁעַת הַקַּלְקָלָה קְרָאוֹ בְּכוֹר:
-- `rashi:35:23:2` Rashi **normative** on 35:23.3 35:23.4 «בְּכ֥וֹר יַעֲקֹ֖ב» (matched; filed at 35:23) DH «בכור יעקב.»: בְּכוֹר לַנַּחֲלָה, בְּכוֹר לָעֲבוֹדָה, בְּכוֹר לְמִנְיָן, וְלֹא נִתְּנָה בְכוֹרָה לְיוֹסֵף אֶלָּא לְעִנְיַן הַשְּׁבָטִים – שֶׁנַּעֲשָׂה לִשְׁנֵי שְׁבָטִים:
+- `rashi:35:23:1` Rashi on 35:23.3 35:23.4 «בְּכ֥וֹר יַעֲקֹ֖ב» (matched; filed at 35:23) DH «בכור יעקב.»: אֲפִלּוּ בִּשְׁעַת הַקַּלְקָלָה קְרָאוֹ בְּכוֹר:
+- `rashi:35:23:2` Rashi on 35:23.3 35:23.4 «בְּכ֥וֹר יַעֲקֹ֖ב» (matched; filed at 35:23) DH «בכור יעקב.»: בְּכוֹר לַנַּחֲלָה, בְּכוֹר לָעֲבוֹדָה, בְּכוֹר לְמִנְיָן, וְלֹא נִתְּנָה בְכוֹרָה לְיוֹסֵף אֶלָּא לְעִנְיַן הַשְּׁבָטִים – שֶׁנַּעֲשָׂה לִשְׁנֵי שְׁבָטִים:
 - `radak:35:23:1` Radak on 35:23.1 35:23.2 «בְּנֵ֣י לֵאָ֔ה» (matched; filed at 35:23) DH «בְּנֵי לֵאָה.»: כֵּיוָן שֶׁנּוֹלַד בִּנְיָמִן מְנָאָם.
 - `radak:35:23:2` Radak on 35:23.3 35:23.4 35:23.5 «בְּכ֥וֹר יַעֲקֹ֖ב רְאוּבֵ֑ן» (matched; filed at 35:23) DH «בְּכוֹר יַעֲקֹב רְאוּבֵן.»: אַף עַל פִּי שֶׁחָטָא וְנִטְּלָה מִמֶּנּוּ הַבְּכוֹרָה בְּחֶטְאוֹ, קְרָאוֹ בְּכוֹר. אָמַר רַבִּי סִימוֹן (בראשית רבה פב:יא): קָשֶׁה לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא לְעַקֵּל שַׁלְשֶׁלֶת יוּחֲסִין, שֶׁנֶּאֱמַר
 - `radak:35:23:3` Radak on 35:23.3 35:23.4 35:23.5 «בְּכ֥וֹר יַעֲקֹ֖ב רְאוּבֵ֑ן» (matched; filed at 35:23) DH «בְּכוֹר יַעֲקֹב רְאוּבֵן»: . אֱמוֹר מֵעַתָּה: בְּכוֹרַת מָמוֹן נִטְּלָה מִמֶּנּוּ וְלֹא נִטְּלָה מִמֶּנּוּ בְּכוֹרַת יוּחֲסִין. רַבִּי יִצְחָק אָמַר: אֲפִלּוּ בִּשְׁעַת קִלְקוּלוֹ אֵין מְיַחֲסִין אֶלָּא לִרְאוּבֵן.
@@ -120,9 +120,9 @@ Hebrew (MAM): וַיָּבֹ֤א יַעֲקֹב֙ אֶל־יִצְחָ֣ק אָ�
 
 ### Commentary anchored to this verse
 
-- `rashi:35:27:1` Rashi **normative** on 35:27.6 «מַמְרֵ֖א» (matched; filed at 35:27) DH «ממרא.»: שֵׁם הַמִּישׁוֹר:
-- `rashi:35:27:2` Rashi **normative** on 35:27.7 35:27.8 «קִרְיַ֣ת הָֽאַרְבַּ֑ע» (matched; filed at 35:27) DH «קרית הארבע.»: שֵׁם הָעִיר:
-- `rashi:35:27:3` Rashi **normative** on 35:27.6 35:27.7 35:27.8 «מַמְרֵ֖א קִרְיַ֣ת הָֽאַרְבַּ֑ע» (matched; filed at 35:27) DH «ממרא קרית הארבע.»: אֶל מִישׁוֹר שֶׁל קִרְיַת אַרְבַּע. וְאִ"תֹּ הָיָה לוֹ לִכְתּוֹב מַמְרֵא הַקִּרְיַת אַרְבַּע? כֵּן דֶּרֶךְ הַמִּקְרָא בְּכָל דָּבָר שֶׁשְּׁמוֹ כָּפוּל, כְּגוֹן זֶה, וּכְגוֹן בֵּית לֶחֶם, אֲבִי עֶזֶר, בֵּית אֵל, אִם הֻצְרַךְ לְהַטִּיל בּוֹ הֵ"א, נוֹתְנָהּ בְּרֹאשׁ הַתֵּבָה הַשְּׁנִיָּה – בֵּית הַלַּחְמִי (שמואל א ט"ז), בְּעָפְרָת אֲבִי הָעֶזְרִי (שופטים ו'), בָּנָה חִיאֵל בֵּית הָאֱלִי (מלכים א ט"ז):
+- `rashi:35:27:1` Rashi on 35:27.6 «מַמְרֵ֖א» (matched; filed at 35:27) DH «ממרא.»: שֵׁם הַמִּישׁוֹר:
+- `rashi:35:27:2` Rashi on 35:27.7 35:27.8 «קִרְיַ֣ת הָֽאַרְבַּ֑ע» (matched; filed at 35:27) DH «קרית הארבע.»: שֵׁם הָעִיר:
+- `rashi:35:27:3` Rashi on 35:27.6 35:27.7 35:27.8 «מַמְרֵ֖א קִרְיַ֣ת הָֽאַרְבַּ֑ע» (matched; filed at 35:27) DH «ממרא קרית הארבע.»: אֶל מִישׁוֹר שֶׁל קִרְיַת אַרְבַּע. וְאִ"תֹּ הָיָה לוֹ לִכְתּוֹב מַמְרֵא הַקִּרְיַת אַרְבַּע? כֵּן דֶּרֶךְ הַמִּקְרָא בְּכָל דָּבָר שֶׁשְּׁמוֹ כָּפוּל, כְּגוֹן זֶה, וּכְגוֹן בֵּית לֶחֶם, אֲבִי עֶזֶר, בֵּית אֵל, אִם הֻצְרַךְ לְהַטִּיל בּוֹ הֵ"א, נוֹתְנָהּ בְּרֹאשׁ הַתֵּבָה הַשְּׁנִיָּה – בֵּית הַלַּחְמִי (שמואל א ט"ז), בְּעָפְרָת אֲבִי הָעֶזְרִי (שופטים ו'), בָּנָה חִיאֵל בֵּית הָאֱלִי (מלכים א ט"ז):
 - `radak:35:27:1` Radak on 35:27.7 35:27.8 «קִרְיַ֣ת הָֽאַרְבַּ֑ע» (matched; filed at 35:27) DH «קִרְיַת הָאַרְבַּע.»: פֵּרַשְׁנוּהוּ, וּבָא בְּהֵ״א הַיְדִיעָה אַף עַל פִּי שֶׁהוּא שֵׁם אָדָם, לְפִי שֶׁהוּא בִּדְמוּת תֹּאַר וְכִי נִקְרָא כֵּן לְפִי שֶׁהָיָה הוּא וּבָנָיו אַרְבָּעָה.
 - `radak:35:27:2` Radak on 35:27.11 35:27.12 35:27.13 35:27.14 35:27.15 «אֲשֶׁר גָּֽר שָׁ֥ם אַבְרָהָ֖ם וְיִצְחָֽק׃» (matched; filed at 35:27) DH «אֲשֶׁר־גָּר־שָׁם אַבְרָהָם וְיִצְחָק.»: אָמַר לְפִי שֶׁיַּעֲקֹב גַּם כֵּן גָּר שָׁם, לְהוֹדִיעַ כִּי רָאוּי לָאָדָם לָגוּר בְּעִיר אֲבוֹתָיו לִכְבוֹד הָאָבוֹת שֶׁהֵם נִקְבָּרִים שָׁם, וְכֵן אָמַר ״הָעִיר קִבְרַת אֲבוֹתַי״ (נחמיה ב:ה), תָּלָה הַדָּבָר בְּקִבְרַת אֲבוֹתָיו.
 - `onkelos:35:27:1` Targum Onkelos on whole 35:27 (version; filed at 35:27): וַאֲתָא יַעֲקֹב לְוַת יִצְחָק אֲבוּהִי מַמְרֵא קִרְיַת אַרְבַּע הִיא חֶבְרוֹן דִּי דָר תַּמָּן אַבְרָהָם וְיִצְחָק:
@@ -174,7 +174,7 @@ Paragraph mark after this verse: פ
 
 ### Commentary anchored to this verse
 
-- `rashi:35:29:1` Rashi **normative** on 35:29.1 35:29.2 «וַיִּגְוַ֨ע יִצְחָ֤ק» (matched; filed at 35:29) DH «ויגוע יצחק.»: אֵין מֻקְדָּם וּמְאֻחָר בַּתּוֹרָה; מְכִירָתוֹ שֶׁל יוֹסֵף קָדְמָה לְמִיתָתוֹ שֶׁל יִצְחָק י"ב שָׁנָה, שֶׁהֲרֵי כְּשֶׁנּוֹלַד יַעֲקֹב הָיָה יִצְחָק בֶּן שִׁשִּׁים שָׁנָה, שֶׁנֶּאֱמַר וְיִצְחָק בֶּן שִׁשִּׁים שָׁנָה וְגוֹ', וְיִצְחָק מֵת בִּשְׁנַת ק"כ לְיַעֲקֹב – אִם תּוֹצִיא שִׁשִּׁים מִמֵּאָה וּשְׁמוֹנִים שָׁנָה נִשְׁאֲרוּ ק"כ – וְיוֹסֵף נִמְכַּר בֶּן י"ז שָׁנָה, וְאוֹתָהּ שָׁנָה שְׁנַת מֵאָה וּשְׁמוֹנֶה לְיַעֲקֹב, כֵּיצַד? בֶּן שִׁשִּׁים וְשָׁלוֹשׁ נִתְבָּרֵךְ, אַרְבַּע עֶשְׂרֵה שָׁנָה נִטְמַן בְּבֵית עֵבֶר, הֲרֵי שִׁבְעִים וְשֶׁבַע, וְאַרְבַּע עֶשְׂרֵה עָבַד בְּאִשָּׁה, וּבְסוֹף אַרְבַּע עֶשְׂרֵה נוֹלַד יוֹסֵף, שֶׁנֶּאֱמַר וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף וְגוֹ', הֲרֵי תִּשְׁעִים וְאַחַת, וְי"ז עַד שֶׁלֹּא נִמְכַּר יוֹסֵף, הֲרֵי מֵאָה וּשְׁמוֹנֶה (עוֹד מְפֹרָשׁ מִן הַמִּקְרָא מִשֶּׁנִּמְכַּר יוֹסֵף עַד שֶׁבָּא יַעֲקֹב מִצְרַיִמָה כ"ב שָׁנָה שֶׁנֶּ', וְיוֹסֵף בֶּן שְׁלֹשִׁים שָׁנָה וְגוֹ', וְז' שָׁנִים שָׂבָע וּשְׁנָתַיִם רָעָב, הֲרֵי כ"ב, וּכְתִיב יְמֵי שְׁנֵי מְגוּרַי שְׁלֹשִׁים וּמְאַת שָׁנָה, נִמְצָא יַעֲקֹב בִּמְכִירָתוֹ ק"ח):
+- `rashi:35:29:1` Rashi on 35:29.1 35:29.2 «וַיִּגְוַ֨ע יִצְחָ֤ק» (matched; filed at 35:29) DH «ויגוע יצחק.»: אֵין מֻקְדָּם וּמְאֻחָר בַּתּוֹרָה; מְכִירָתוֹ שֶׁל יוֹסֵף קָדְמָה לְמִיתָתוֹ שֶׁל יִצְחָק י"ב שָׁנָה, שֶׁהֲרֵי כְּשֶׁנּוֹלַד יַעֲקֹב הָיָה יִצְחָק בֶּן שִׁשִּׁים שָׁנָה, שֶׁנֶּאֱמַר וְיִצְחָק בֶּן שִׁשִּׁים שָׁנָה וְגוֹ', וְיִצְחָק מֵת בִּשְׁנַת ק"כ לְיַעֲקֹב – אִם תּוֹצִיא שִׁשִּׁים מִמֵּאָה וּשְׁמוֹנִים שָׁנָה נִשְׁאֲרוּ ק"כ – וְיוֹסֵף נִמְכַּר בֶּן י"ז שָׁנָה, וְאוֹתָהּ שָׁנָה שְׁנַת מֵאָה וּשְׁמוֹנֶה לְיַעֲקֹב, כֵּיצַד? בֶּן שִׁשִּׁים וְשָׁלוֹשׁ נִתְבָּרֵךְ, אַרְבַּע עֶשְׂרֵה שָׁנָה נִטְמַן בְּבֵית עֵבֶר, הֲרֵי שִׁבְעִים וְשֶׁבַע, וְאַרְבַּע עֶשְׂרֵה עָבַד בְּאִשָּׁה, וּבְסוֹף אַרְבַּע עֶשְׂרֵה נוֹלַד יוֹסֵף, שֶׁנֶּאֱמַר וַיְהִי כַּאֲשֶׁר יָלְדָה רָחֵל אֶת יוֹסֵף וְגוֹ', הֲרֵי תִּשְׁעִים וְאַחַת, וְי"ז עַד שֶׁלֹּא נִמְכַּר יוֹסֵף, הֲרֵי מֵאָה וּשְׁמוֹנֶה (עוֹד מְפֹרָשׁ מִן הַמִּקְרָא מִשֶּׁנִּמְכַּר יוֹסֵף עַד שֶׁבָּא יַעֲקֹב מִצְרַיִמָה כ"ב שָׁנָה שֶׁנֶּ', וְיוֹסֵף בֶּן שְׁלֹשִׁים שָׁנָה וְגוֹ', וְז' שָׁנִים שָׂבָע וּשְׁנָתַיִם רָעָב, הֲרֵי כ"ב, וּכְתִיב יְמֵי שְׁנֵי מְגוּרַי שְׁלֹשִׁים וּמְאַת שָׁנָה, נִמְצָא יַעֲקֹב בִּמְכִירָתוֹ ק"ח):
 - `ibn-ezra:35:29:1` Ibn Ezra **normative** on 35:29.1 35:29.2 «וַיִּגְוַ֨ע יִצְחָ֤ק» (matched; filed at 35:29) DH «ויגוע יצחק.»: וכאשר מת יצחק ונאסף אל עמיו קברו אותו עשו ויעקב כאשר נולדו ולמעלה אמר יצחק וישמעאל (בראשית כה ט) בעבור היות ישמעאל בן השפחה:
 - `radak:35:29:1` Radak on 35:29.10 35:29.11 35:29.12 35:29.13 «וַיִּקְבְּר֣וּ אֹת֔וֹ עֵשָׂ֥ו וְיַעֲקֹ֖ב» (matched; filed at 35:29) DH «וַיִּקְבְּרוּ אֹתוֹ עֵשָׂו וְיַעֲקֹב.»: הִקְדִּים עֵשָׂו לְפִי שֶׁהָיָה בְּכוֹר, וְאַף עַל פִּי שֶׁמָּכַר בְּכֹרָתוֹ, יַעֲקֹב הָיָה נוֹהֵג בּוֹ כָּבוֹד וּמַקְדִּימוֹ לְפָנָיו מֵעֵת שֶׁהִשְׁלִים אִתּוֹ, אֲבָל בְּאַבְרָהָם כָּתוּב ״וַיִּקְבְּרוּ אֹתוֹ יִצְחָק וְיִשְׁמָעֵאל בָּנָיו״ (בראשית כה:ט), הִקְדִּים יִצְחָק לְיִשְׁמָעֵאל וְאַף עַל פִּי שֶׁהָיָה יִשְׁמָעֵאל בְּכוֹר, לְפִי שֶׁהָיָה יִצְחָק בֶּן הַגְּבִירָה, וְיִשְׁמָעֵאל בֶּן הַשִּׁפְחָה.
 - `onkelos:35:29:1` Targum Onkelos on whole 35:29 (version; filed at 35:29): וְאִתְנְגִיד יִצְחָק וּמִית וְאִתְכְּנִישׁ לְעַמֵּיהּ סִיב וּשְׂבַע יוֹמִין וּקְבָרוּ יָתֵיהּ עֵשָׂו וְיַעֲקֹב בְּנוֹהִי:
@@ -208,7 +208,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `9` motion, direction to
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.ev.aa` אָסַף (vb) root אסף: gather, remove
 - `Qal 1` Qal gather, collect
@@ -216,6 +219,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 3` Qal bring up the rear of
 - `Qal 4` Qal gather and take away, remove, withdraw
 - `Niph 1` Niph assemble, be gathered
+- `Niph 2` Niph pass. of Qal 2 (Niph of: gather, remove)
 - `Niph 3` Niph be taken away, removed, perish
 - `Pi 1` Pi gather
 - `Pi 2` Pi take in, receive into
@@ -224,7 +228,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithp` Hithp gather themselves
 
 ### `bdb:a.gj.af` אָשֵׁר (n.pr.m) root אשׁר: Asher, happy one, Felix
+- `1` Asher, happy one, Felix — son of Jacob and Zilpah
 - `2` the tribe
+- `3` Asher, happy one, Felix — n.pr.loc. city E. of Shechem
 
 ### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
 
@@ -253,13 +259,21 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.aq` בִּנְיָמִין (n.pr.m): son of, the, right hand
+- `1` son of, the, right hand — youngest son of Jacob, so called by him, but Rachel, the mother, who died at Benjamin's birth, called בֶּן־אוֹנִ֑י (q.v.)
+- `2` son of, the, right hand — son of Bilhan and great-grandson of Benjamin
+- `3` son of, the, right hand — a Jew of Ezra's time
 
 ### `bdb:c.ao.af` גָּד (n.pr.m): fortunatus
+- `1` fortunatus — son of Jacob and Zilpah
+- `2` fortunatus — a prophet in David's time
 
 ### `bdb:c.bd.aa` גָּוַע (vb) root גוע: expire, perish, die
 
@@ -269,30 +283,50 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithpol` Hithpol seek hospitality with
 
 ### `bdb:d.bh.ad` דָּן (n.pr.m): judge
+- `1` judge — son of Jacob and Bilhah
+- `2` judge — the tribe of Dan
+- `3` judge — a city on northern frontier of Israel at one of the sources of the Jordan
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:g.af.ad` זְבוּלֻן (n.pr.m) root זבל: Zebulun
+- `1` Zebulun — sixth son of Jacob and Leah
+- `2` Zebulun — the tribe of Zebulun
+- `3` Zebulun — territory of the tribe
 
 ### `bdb:g.bn.ab` זִלְפָּה (n.pr.f): Zilpah
 
@@ -300,6 +334,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1` old
 - `2.a` old man
 - `2.b` elder
+- `2` old — usu. as subst
 
 ### `bdb:h.ai.al` חֶבְרוֹן (n.pr.loc) root חבר: Hebron, association, league
 
@@ -307,6 +342,11 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `I.1` son of Jacob and Leah
 - `I.2` tribe
 - `I.3` nation
+- `I.4` Judah — Levite, Ezra’s time
+- `I.5` Judah — an overseer of Jerus
+- `I.6` Judah — Levite musician
+- `I.7` Judah — priest
+- `I` Judah — n.pr.m
 - `II` land of Judah
 
 ### `bdb:j.ay.aa` יוֹם (n.m): day
@@ -316,10 +356,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -329,6 +371,11 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithp` Hithp declared their pedigree
 
 ### `bdb:j.bz.ab` יוֹסֵף (n.pr.m): he adds, increases
+- `1` he adds, increases — elder son of Jacob and Rachael
+- `2` he adds, increases — a man of Issachar
+- `3` he adds, increases — a son of Asaph
+- `4` he adds, increases — one of those who took strange wives
+- `5` he adds, increases — a priest
 
 ### `bdb:j.dr.ad` יִשָּׂשכָר (n.pr.m): Issachar
 
@@ -337,12 +384,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:l.ax.af` לֵוִי (n.pr.m): Levi
 
 ### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `1` hundred — as simple number
+- `2` hundred — as part of larger number
 - `3` hundredth
 
 ### `bdb:m.be.aa` מוּת (vb) root מות: die
 - `Qal 1` Qal die
 - `Qal 2` Qal die, be put to death
 - `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
 - `Hoph` Hoph be killed, put to death
 
 ### `bdb:m.ck.ap` מַמְרֵא (n.pr.m): Mamre
@@ -350,6 +403,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:p.dj.ad` עַם (n.[m.]): kinsman
 
 ### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
+- `1` Jacob — as n.pr.m
+- `2` Jacob — as n.pr.gent
 
 ### `bdb:p.fz.ab` עֵשָׂו (n.pr.m): Esau
 
@@ -363,10 +418,13 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal` Qal bury
 - `Niph` Niph be buried
 - `Pi` Pi bury
+- `Pu` Pu . Gn 25:10 (Pu of: bury)
 
 ### `bdb:s.dc.ak` קִרְיַת אַרְבַּע (n.pr.loc): fourfold city
 
 ### `bdb:t.ab.ap` רְאוּבֵן (n.pr.m) root ראה: Reuben
+- `1` Reuben — eldest son of Jacob and Leah
+- `2` Reuben — as name of clan or tribe
 
 ### `bdb:t.by.ac` רָחֵל (n.pr.f): Rachel
 
@@ -377,6 +435,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:v.ec.ad` שְׁמֹנִים (n.pl.indecl) root שׁמן: an eighty
 
 ### `bdb:v.ed.ao` שִׁמְעוֹן (n.pr.m): Simeon
+- `1` second son of Jacob and Leah
+- `2` tribal name
+- `3` post-ex. Jew with foreign wife
 
 ### `bdb:v.ek.ab` שָׁנָה (n.f) root שׁנה: year
 

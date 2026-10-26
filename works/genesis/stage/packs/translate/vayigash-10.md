@@ -72,7 +72,7 @@ Hebrew (MAM): כׇּל־הַ֠נֶּ֠פֶשׁ הַבָּאָ֨ה לְיַעֲק
 
 ### Commentary anchored to this verse
 
-- `rashi:46:26:1` Rashi **normative** on 46:26.1 46:26.2 46:26.3 46:26.4 «כׇּל הַ֠נֶּ֠פֶשׁ הַבָּאָ֨ה לְיַעֲקֹ֤ב» (matched; filed at 46:26) DH «כל הנפש הבאה ליעקב.»: שֶׁיָּצְאוּ מֵאֶרֶץ כְּנַעַן לָבֹא לְמִצְרַיִם; וְאֵין "הַבָּאָה" זוֹ לְשׁוֹן עָבָר אֶלָּא לְשׁוֹן הוֹוֶה, כְּמוֹ בָּעֶרֶב הִיא בָאָה (אסתר ב' ד'), וּכְמוֹ וְהִנֵּה רָחֵל בִּתּוֹ בָּאָה עִם הַצֹּאן (בראשית כ"ט), לְפִיכָךְ טַעְמוֹ לְמַטָּה בָּאָלֶ"ף, לְפִי שֶׁכְּשֶׁיָּצְאוּ לָבֹא מֵאֶרֶץ כְּנַעַן לֹא הָיוּ אֶלָּא שִׁשִּׁים וָשֵׁשׁ, וְהַשֵּׁנִי, כָּל הַנֶּפֶשׁ לְבֵית יַעֲקֹב הַבָּאָה מִצְרַיְמָה שִׁבְעִים – הוּא לְשׁוֹן עָבָר, לְפִיכָךְ טַעְמוֹ לְמַעְלָה בַּבֵּי"ת, לְפִי שֶׁמִּשֶּׁבָּאוּ שָׁם הָיוּ שִׁבְעִים, שֶׁמָּצְאוּ שָׁם יוֹסֵף וּשְׁנֵי בָנָיו, וְנִתּוֹסְפָה לָהֶם יוֹכֶבֶד בֵּין הַחוֹמוֹת. וּלְדִבְרֵי הָאוֹמֵר תְּאוֹמוֹת נוֹלְדוּ עִם הַשְּׁבָטִים, צְרִיכִים אָנוּ לוֹמַר שֶׁמֵּתוּ לִפְנֵי יְרִידָתָן לְמִצְרַיִם, שֶׁהֲרֵי לֹא נִמְנוּ כָאן; מָצָאתִי בְּוַיִּקְרָא רַבָּה, עֵשָׂו שֵׁשׁ נְפָשׁוֹת הָיוּ לוֹ, וְהַכָּתוּב קוֹרֵא אוֹתָן נַפְשׁוֹת בֵּיתוֹ, לְשׁוֹן רַבִּים, לְפִי שֶׁהָיוּ עוֹבְדִין לֶאֱלֹהוּת הַרְבֵּה; יַעֲקֹב שִׁבְעִים הָיוּ לוֹ, וְהַכָּתוּב קוֹרֵא אוֹתָן נֶפֶשׁ, לְפִי שֶׁהָיָה עוֹבְדִים לְאֵל אֶחָד:
+- `rashi:46:26:1` Rashi on 46:26.1 46:26.2 46:26.3 46:26.4 «כׇּל הַ֠נֶּ֠פֶשׁ הַבָּאָ֨ה לְיַעֲקֹ֤ב» (matched; filed at 46:26) DH «כל הנפש הבאה ליעקב.»: שֶׁיָּצְאוּ מֵאֶרֶץ כְּנַעַן לָבֹא לְמִצְרַיִם; וְאֵין "הַבָּאָה" זוֹ לְשׁוֹן עָבָר אֶלָּא לְשׁוֹן הוֹוֶה, כְּמוֹ בָּעֶרֶב הִיא בָאָה (אסתר ב' ד'), וּכְמוֹ וְהִנֵּה רָחֵל בִּתּוֹ בָּאָה עִם הַצֹּאן (בראשית כ"ט), לְפִיכָךְ טַעְמוֹ לְמַטָּה בָּאָלֶ"ף, לְפִי שֶׁכְּשֶׁיָּצְאוּ לָבֹא מֵאֶרֶץ כְּנַעַן לֹא הָיוּ אֶלָּא שִׁשִּׁים וָשֵׁשׁ, וְהַשֵּׁנִי, כָּל הַנֶּפֶשׁ לְבֵית יַעֲקֹב הַבָּאָה מִצְרַיְמָה שִׁבְעִים – הוּא לְשׁוֹן עָבָר, לְפִיכָךְ טַעְמוֹ לְמַעְלָה בַּבֵּי"ת, לְפִי שֶׁמִּשֶּׁבָּאוּ שָׁם הָיוּ שִׁבְעִים, שֶׁמָּצְאוּ שָׁם יוֹסֵף וּשְׁנֵי בָנָיו, וְנִתּוֹסְפָה לָהֶם יוֹכֶבֶד בֵּין הַחוֹמוֹת. וּלְדִבְרֵי הָאוֹמֵר תְּאוֹמוֹת נוֹלְדוּ עִם הַשְּׁבָטִים, צְרִיכִים אָנוּ לוֹמַר שֶׁמֵּתוּ לִפְנֵי יְרִידָתָן לְמִצְרַיִם, שֶׁהֲרֵי לֹא נִמְנוּ כָאן; מָצָאתִי בְּוַיִּקְרָא רַבָּה, עֵשָׂו שֵׁשׁ נְפָשׁוֹת הָיוּ לוֹ, וְהַכָּתוּב קוֹרֵא אוֹתָן נַפְשׁוֹת בֵּיתוֹ, לְשׁוֹן רַבִּים, לְפִי שֶׁהָיוּ עוֹבְדִין לֶאֱלֹהוּת הַרְבֵּה; יַעֲקֹב שִׁבְעִים הָיוּ לוֹ, וְהַכָּתוּב קוֹרֵא אוֹתָן נֶפֶשׁ, לְפִי שֶׁהָיָה עוֹבְדִים לְאֵל אֶחָד:
 - `radak:46:26:1` Radak on 46:26.1 46:26.2 46:26.3 «כׇּל הַ֠נֶּ֠פֶשׁ הַבָּאָ֨ה» (matched; filed at 46:26) DH «כָּל־נֶפֶשׁ הַבָּאָה.»: אָמַר בָּזֶה הַמִּסְפָּר פְּעָמִים חֶשְׁבּוֹן הַזְּכָרִים, כְּמוֹ אַרְבָּעָה עָשָׂר, שִׁבְעָה, וּפְעָמִים חֶשְׁבּוֹן הַנְּקֵבוֹת כְּמוֹ שְׁלֹשִׁים וְשָׁלֹשׁ, שֵׁשׁ עֶשְׂרֵה, לְפִי שֶׁהַגּוּף בִּלְשׁוֹן זָכָר וְהַנֶּפֶשׁ בִּלְשׁוֹן נְקֵבָה.
 - `onkelos:46:26:1` Targum Onkelos on whole 46:26 (version; filed at 46:26): כָּל נַפְשָׁא דְּעַלָּא לְיַעֲקֹב לְמִצְרַיִם נָפְקֵי יַרְכֵּיהּ בַּר מִנְּשֵׁי בְנֵי יַעֲקֹב כָּל נַפְשָׁתָא שִׁתִּין וְשִׁית:
 
@@ -115,7 +115,10 @@ Paragraph mark after this verse: ס
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.eq.ab` אִשָּׁה (n.f) root אנשׁ: woman, wife, female
 - `1` woman
@@ -147,11 +150,13 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1` house
 - `2` place
 - `3` receptacle
+- `4` house — of house as containing a family
 - `5` household, family
 - `6` household affairs
 - `7` housewards, inwards
 - `8.a` on the inside
 - `8.b` within
+- `8` house — מִבַּיִת
 
 ### `bdb:b.bu.ac` בִּלְהָה (n.pr.f): Bilhah
 
@@ -160,24 +165,34 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:c.bc.ab` גּוּנִי (n.pr.m) root גון: Guni
+- `1` a Naphtalite
+- `2` a Gadite
 
 ### `bdb:h.ex.af` יַחְצְאֵל (n.pr.m): God divideth, apportioneth
 
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -187,18 +202,30 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithp` Hithp declared their pedigree
 
 ### `bdb:j.bz.ab` יוֹסֵף (n.pr.m): he adds, increases
+- `1` he adds, increases — elder son of Jacob and Rachael
+- `2` he adds, increases — a man of Issachar
+- `3` he adds, increases — a son of Asaph
+- `4` he adds, increases — one of those who took strange wives
+- `5` he adds, increases — a priest
 
 ### `bdb:j.cq.aa` יָצָא (vb) root יצא: go, come out
+- `Qal 1.a` Qal go, come out, forth — from (מִן) a place
 - `Qal 1.b` Qal go forth
+- `Qal 1.c` Qal go, come out, forth — in technical senses
+- `Qal 1.d` Qal go, come out, forth — of flight, involving escape
 - `Qal 1.e` Qal depart
+- `Qal 1.f` Qal go, come out, forth — of inanimate things
+- `Qal 1.g` Qal go, come out, forth — with especial emphasis on idea of origin, source
 - `Qal 1.h` Qal going forth
 - `Qal 1` Qal go, come out, forth
 - `Qal 2.a` Qal go forth
 - `Qal 2.b` Qal go forward, proceed
 - `Qal 2.c` Qal come, go forth
+- `Qal 3` Qal go, come out — of combinations
 - `Hiph 1` Hiph cause to go, come out, bring out, lead out
 - `Hiph 2` Hiph bring out of
 - `Hiph 3` Hiph bring out
+- `Hiph 4` Hiph inanimate obj (Hiph of: go, come out)
 - `Hiph 5` Hiph bring forth
 - `Hoph` Hoph be brought forth
 
@@ -209,19 +236,31 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.ak.ad` לָבָן (n.pr.m): Laban
 
 ### `bdb:m.df.ab` מִצְרַ֫יִם (n.pr.terr) root מצר: Egypt, Egyptians
 - `1.a` Egypt
+- `1.b` Egypt, Egyptians — combinations
+- `2.a` Egypt, Egyptians — in table of nations, personif. as second son of Ham
 - `2.b` Egypt, Egyptians
+- `2` Egypt, Egyptians — of people
 
 ### `bdb:n.en.ab` נֶ֫פֶשׁ (n.f) root נפשׁ: soul, living being, life, self, person, desire, appetite, emotion, passion
 - `1` that which breathes, the breathing substance or being
+- `2` soul, living being, life, self, person, desire, appetite, emotion, passion — The נפשׁ becomes a living being
+- `3` soul, living being, life, self, person, desire, appetite, emotion, passion — The נפשׁ is specif
 - `4` the man himself
 - `5` seat of the appetites
 - `6` seat of emotions and passions
+- `7` soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ is used occasionally for mental acts
+- `8` soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ for acts of the will is dub
+- `9` soul, living being, life, self, person, desire, appetite, emotion, passion — נפשׁ = character is still more dub
+- `10` soul, living being, life, self, person, desire, appetite, emotion, passion — נ׳ in D
 
 ### `bdb:n.gg.aa` נָתַן (vb) root נתן: give, put, set
 - `Qal 1` Qal give
@@ -234,6 +273,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hoph 2` Hoph be put
 
 ### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
+- `1` Jacob — as n.pr.m
+- `2` Jacob — as n.pr.gent
 
 ### `bdb:q.ec.ae` נַפְתָּלִי (n.pr.m): Naphtali
 

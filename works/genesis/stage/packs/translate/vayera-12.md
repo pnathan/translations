@@ -24,7 +24,7 @@ Hebrew (MAM): וַיִּתְפַּלֵּ֥ל אַבְרָהָ֖ם אֶל־הָא
 
 ### Commentary anchored to this verse
 
-- `rashi:20:17:1` Rashi **normative** on 20:17.12 «וַיֵּלֵֽדוּ׃» (matched; filed at 20:17) DH «וילדו.»: כְּתַרְגּוּמוֹ וְאִתְרְוָחוּ, נִפְתְּחוּ נִקְבֵיהֶם וְהוֹצִיאוּ, וְהִיא לֵדָה שֶׁלָּהֶם:
+- `rashi:20:17:1` Rashi on 20:17.12 «וַיֵּלֵֽדוּ׃» (matched; filed at 20:17) DH «וילדו.»: כְּתַרְגּוּמוֹ וְאִתְרְוָחוּ, נִפְתְּחוּ נִקְבֵיהֶם וְהוֹצִיאוּ, וְהִיא לֵדָה שֶׁלָּהֶם:
 - `ibn-ezra:20:17:1` Ibn Ezra **normative** on 20:17.12 «וַיֵּלֵֽדוּ׃» (matched; filed at 20:17) DH «וילדו.»: שב אל אשת אבימלך ואמהותיו לא אל אבימלך וכן "וישם דמי מלחמה בשלום" (מ"א ב ה) "בעמוד ענן ידבר אליהם" (תהלים צט ז) "אלה בני עדה" (בראשית לו טז) אשר עבדתי אותך בהן" (שם ל כו) "אבי אברהם ואבי נחור ויעבדו" (יהושע כד ב) הלא תראה שהוא מפורש בפסוק השני "כי עצר עצר ד' בעד כל רחם לבית אבימלך", ולא הזכיר אבימלך, והארכתי כל כך בעבור מפרשים שהי' אומרים שהי' עצור לצאת לחוץ,
 - `ramban:20:17:1` Ramban on 20:17.12 «וַיֵּלֵֽדוּ׃» (matched; filed at 20:17) DH «וַיֵּלֵדוּ»: אִם הַלָּשׁוֹן כִּפְשׁוּטוֹ וְשָׁב לְאִשְׁתּוֹ וְאַמְהוֹתָיו כִּי עָצַר ה' בְּעַד רַחְמָם, תֵּמַהּ הוּא, כִּי נִרְאֶה כִּי גַּם בַּלַּיְלָה הָרִאשׁוֹן אֲשֶׁר לֻקְּחָה שָׂרָה לְבֵית אֲבִימֶלֶךְ וְלֹא קָרַב אֵלֶיהָ עֲדַיִן בָּא אֵלָיו הָאֱלֹהִים בַּחֲלוֹם, וּבַבֹּקֶר הִשְׁכִּים וְקָרָא לַעֲבָדָיו גַּם לְאַבְרָהָם, וּמָתַי הָיָה לָהֶם עֹצֶר רֶחֶם, אוּלַי הָיוּ עַל פִּרְקָן וַאֲחָזוּם חֶבְלֵי יוֹלֵדָה וְלֹא יָכְלוּ לְהַמְלִיט, וְאוּלַי אַבְרָהָם אִחֵר תְּפִלָּתוֹ יָמִים רַבִּים. וְהִנֵּה רְפוּאוֹת אֲבִימֶלֶךְ גַּם חָלְיוֹ לֹא נִתְפָּרְשׁוּ, וּלְשׁוֹן רַשִׁ"י (רש"י על בראשית כ':י"ז) "וַיֵּלֵדוּ" – וְאִתְרְוַחוּ, נִתְפַּתְּחוּ נִקְבֵיהֶם וְהוֹצִיאוּ, וְהוּא לֵדָה שֶׁלָּהֶן. "בְּעַד כָּל רֶחֶם", כְּנֶגֶד כָּל פֶּתַח, וְאֵין זֶה נָכוֹן, כִּי אִם נֹאמַר בְּ"וַיֵּלֵדוּ" שֶׁהוּא יְצִיאַת הַחוּץ, שֶׁמָּצִינוּ לֵדָה בְּעִנְיָנִים רַבִּים כְּגוֹן "הָרָה עָמָל וְיָלַד שָׁקֶר" (תהלים ז טו), "לֶדֶת חֹק" (צפניה ב ב), "מַה יֵּלֶד יוֹם" (משלי כז א), מָה יוֹלִידוּ וִיחַדְּשׁוּ הַיָּמִים, אֲבָל מִלַּת "רֶחֶם" לֹא תָּבֹא עַל פֶּתַח אַחֵר. וְאֵין טַעֲנָה מִן "בְּגִיחוֹ מֵרֶחֶם יָצָא" (איוב לח ח), שֶׁהוּא כִּנּוּי, כְּמוֹ "בֶּטֶן הָאֲדָמָה" (שם א כא). וְדַעַת אוּנְקְלוֹס (תרגום אונקלוס על בראשית כ':י"ז) אֵינֶנָּה כְּדִבְרֵי הָרַב, כִּי הוּא שֶׁתִּרְגֵּם "וְאִתְרְוַחוּ" עָשָׂה "רֶחֶם" כִּפְשׁוּטוֹ, "פָּתַח וַלְדָּא", אֶלָּא שֶׁרָצָה לִכְלֹל גַּם אֲבִימֶלֶךְ בְּמִלַּת "וַיֵּלֵדוּ". וּלְשׁוֹן בְּרֵאשִׁית רַבָּה (בראשית רבה נ"ב:י"ג), "כִּי עָצֹר עָצַר ה'", עֲצִירָה בַּפֶּה, עֲצִירָה בַּגָּרוֹן, עֲצִירָה  … [cut; full text in the review pack]
 - `radak:20:17:1` Radak on 20:17.5 20:17.6 20:17.7 20:17.8 «וַיִּרְפָּ֨א אֱלֹהִ֜ים אֶת אֲבִימֶ֧לֶךְ» (matched; filed at 20:17) DH «וַיִּרְפָּא אֱלֹהִים אֶת־אֲבִימֶלֶךְ.»: שֶׁחָזְרָה לוֹ הַתַּאֲוָה כָּרִאשׁוֹנָה.
@@ -59,8 +59,8 @@ Paragraph mark after this verse: ס
 
 ### Commentary anchored to this verse
 
-- `rashi:20:18:1` Rashi **normative** on 20:18.5 20:18.6 20:18.7 «בְּעַ֥ד כׇּל רֶ֖חֶם» (matched; filed at 20:18) DH «בעד כל רחם.»: כְּנֶגֶד כָּל פֶּתַח:
-- `rashi:20:18:2` Rashi **normative** on 20:18.10 20:18.11 20:18.12 «עַל דְּבַ֥ר שָׂרָ֖ה» (matched; filed at 20:18) DH «על דבר שרה.»: עַל פִּי דִּבּוּרָהּ שֶׁל שָׂרָה:
+- `rashi:20:18:1` Rashi on 20:18.5 20:18.6 20:18.7 «בְּעַ֥ד כׇּל רֶ֖חֶם» (matched; filed at 20:18) DH «בעד כל רחם.»: כְּנֶגֶד כָּל פֶּתַח:
+- `rashi:20:18:2` Rashi on 20:18.10 20:18.11 20:18.12 «עַל דְּבַ֥ר שָׂרָ֖ה» (matched; filed at 20:18) DH «על דבר שרה.»: עַל פִּי דִּבּוּרָהּ שֶׁל שָׂרָה:
 - `ibn-ezra:20:18:1` Ibn Ezra **normative** on 20:18.6 20:18.7 «כׇּל רֶ֖חֶם» (matched-unbolded; filed at 20:18) DH «כל רחם»: ומלת כל רחם טענה עליהם ומלת וַיֵלֵדו לנשים כמו "ויחמו הצאן" (בראשית כט לט):
 - `radak:20:18:1` Radak on 20:18.1 20:18.2 «כִּֽי עָצֹ֤ר» (matched; filed at 20:18) DH «כִּי עָצֹר וגו׳.»: בְּנָשִׁים אוֹ גַּם בִּבְהֵמוֹת, כְּמוֹ שֶׁאָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה (שם), וְכֵן אָמְרוּ אֲפִלּוּ תַּרְנְגֹלֶת לֹא הִפִּילָה בֵּיצָתָהּ.
 - `onkelos:20:18:1` Targum Onkelos on whole 20:18 (version; filed at 20:18): אֲרֵי מֵיחַד אֲחַד יְיָ בְּאַפֵּי כָל פָּתַח וַלְדָא לְבֵית אֲבִימֶלֶךְ עַל עֵיסַק שָׂרָה אִתַּת אַבְרָהָם:
@@ -90,10 +90,10 @@ Variants:
 
 ### Commentary anchored to this verse
 
-- `rashi:21:1:1` Rashi **normative** on 21:1.1 21:1.2 21:1.3 21:1.4 «וַֽיהֹוָ֛ה פָּקַ֥ד אֶת שָׂרָ֖ה» (matched; filed at 21:1) DH «וה' פקד את שרה וגו'.»: סָמַך פָּרָשָׁה זוֹ לְלַמֶּדְךָ, שֶׁכָּל הַמְבַקֵּשׁ רַחֲמִים עַל חֲבֵרוֹ וְהוּא צָרִיךְ לְאוֹתוֹ דָבָר, הוּא נַעֲנֶה תְחִלָּה (בבא קמא צ"ב), שֶׁנֶּאֱמַר וַיִּתְפַּלֵּל וְגוֹ', וּסְמִיךְ לֵיהּ וה' פָּקַד אֶת שָׂרָה, שֶׁפְּקָדָהּ כְּבָר קֹדֶם שֶׁרִפֵּא אֶת אֲבִימֶלֶךְ:
-- `rashi:21:1:2` Rashi **normative** on 21:1.2 21:1.3 21:1.4 21:1.5 21:1.6 «פָּקַ֥ד אֶת שָׂרָ֖ה כַּאֲשֶׁ֣ר אָמָ֑ר» (matched; filed at 21:1) DH «פקד את שרה כאשר אמר.»: בְּהֵרָיוֹן:
-- `rashi:21:1:3` Rashi **normative** on 21:1.10 21:1.11 «כַּאֲשֶׁ֥ר דִּבֵּֽר׃» (matched; filed at 21:1) DH «כאשר דבר.»: בְּלֵדָה. וְהֵיכָן הִיא אֲמִירָה, וְהֵיכָן הוּא דִּבּוּר? אֲמִירָה וַיֹּאמֶר אֱלֹהִים אֲבָל שָׂרָה אִשְׁתְּךָ וְגוֹ '(בראשית י"ז), דִּבּוּר הָיָה דְבַר ה' אֶל אַבְרָם בִּבְרִית בֵּין הַבְּתָרִים, וְשָׁם נֶאֱמַר לֹא יִירָשְׁךָ זֶה וְגוֹ' (שם ט"ו), וְהֵבִיא הַיּוֹרֵשׁ מִשָּׂרָה:
-- `rashi:21:1:4` Rashi **normative** on 21:1.7 21:1.8 21:1.9 21:1.10 21:1.11 «וַיַּ֧עַשׂ יְהֹוָ֛ה לְשָׂרָ֖ה כַּאֲשֶׁ֥ר דִּבֵּֽר׃» (matched; filed at 21:1) DH «ויעש ה' לשרה כאשר דבר.»: לְאַבְרָהָם:
+- `rashi:21:1:1` Rashi on 21:1.1 21:1.2 21:1.3 21:1.4 «וַֽיהֹוָ֛ה פָּקַ֥ד אֶת שָׂרָ֖ה» (matched; filed at 21:1) DH «וה' פקד את שרה וגו'.»: סָמַך פָּרָשָׁה זוֹ לְלַמֶּדְךָ, שֶׁכָּל הַמְבַקֵּשׁ רַחֲמִים עַל חֲבֵרוֹ וְהוּא צָרִיךְ לְאוֹתוֹ דָבָר, הוּא נַעֲנֶה תְחִלָּה (בבא קמא צ"ב), שֶׁנֶּאֱמַר וַיִּתְפַּלֵּל וְגוֹ', וּסְמִיךְ לֵיהּ וה' פָּקַד אֶת שָׂרָה, שֶׁפְּקָדָהּ כְּבָר קֹדֶם שֶׁרִפֵּא אֶת אֲבִימֶלֶךְ:
+- `rashi:21:1:2` Rashi on 21:1.2 21:1.3 21:1.4 21:1.5 21:1.6 «פָּקַ֥ד אֶת שָׂרָ֖ה כַּאֲשֶׁ֣ר אָמָ֑ר» (matched; filed at 21:1) DH «פקד את שרה כאשר אמר.»: בְּהֵרָיוֹן:
+- `rashi:21:1:3` Rashi on 21:1.10 21:1.11 «כַּאֲשֶׁ֥ר דִּבֵּֽר׃» (matched; filed at 21:1) DH «כאשר דבר.»: בְּלֵדָה. וְהֵיכָן הִיא אֲמִירָה, וְהֵיכָן הוּא דִּבּוּר? אֲמִירָה וַיֹּאמֶר אֱלֹהִים אֲבָל שָׂרָה אִשְׁתְּךָ וְגוֹ '(בראשית י"ז), דִּבּוּר הָיָה דְבַר ה' אֶל אַבְרָם בִּבְרִית בֵּין הַבְּתָרִים, וְשָׁם נֶאֱמַר לֹא יִירָשְׁךָ זֶה וְגוֹ' (שם ט"ו), וְהֵבִיא הַיּוֹרֵשׁ מִשָּׂרָה:
+- `rashi:21:1:4` Rashi on 21:1.7 21:1.8 21:1.9 21:1.10 21:1.11 «וַיַּ֧עַשׂ יְהֹוָ֛ה לְשָׂרָ֖ה כַּאֲשֶׁ֥ר דִּבֵּֽר׃» (matched; filed at 21:1) DH «ויעש ה' לשרה כאשר דבר.»: לְאַבְרָהָם:
 - `ramban:21:1:1` Ramban on 21:1.1 21:1.2 21:1.3 21:1.4 21:1.5 21:1.6 «וַֽיהֹוָ֛ה פָּקַ֥ד אֶת שָׂרָ֖ה כַּאֲשֶׁ֣ר אָמָ֑ר» (matched; filed at 21:1) DH «וַה' פָּקַד אֶת שָׂרָה כַּאֲשֶׁר אָמָר»: בְּהֵרָיוֹן, "כַּאֲשֶׁר דִּבֵּר" בְּלֵדָה, לְשׁוֹן רַשִׁ"י (רש"י על בראשית כ"א:א'). וְאֵין "פְּקִידָה" אֶלָּא לְשׁוֹן זְכִירָה וְהַשְׁגָּחָה עַל הַנִּפְקָד, כְּגוֹן "פָּקֹד יִפְקֹד אֱלֹהִים אֶתְכֶם" (בראשית נ':כ"ה), "פָּקֹד פָּקַדְתִּי אֶתְכֶם וְאֶת הֶעָשׂוּי לָכֶם" (שמות ג טז), "וַיִּפְקֹד שִׁמְשׁוֹן אֶת אִשְׁתּוֹ בִּגְדִי עִזִּים" (שופטים טו א), אַף כָּאן "וַה' פָּקַד אֶת שָׂרָה" – זָכַר אֶת שָׂרָה וְעָשָׂה לָהּ כַּאֲשֶׁר דִּבֵּר. וְכֵן הַלָּשׁוֹן בְּכָל הָעֲקָרוֹת הַיּוֹלְדוֹת, בְּרָחֵל "וַיִּזְכֹּר אֱלֹהִים אֶת רָחֵל" (בראשית ל':כ"ב), וּבְחַנָּה "וַיִּזְכְּרֶהָ (אלהים) ה'" (שמואל א א יט). וְכָךְ אָמְרוּ פִּקְדוֹנוֹת הֲרֵי הֵן כְּזִכְרוֹנוֹת (ר"ה לב):
 - `radak:21:1:1` Radak on 21:1.1 21:1.2 21:1.3 21:1.4 «וַֽיהֹוָ֛ה פָּקַ֥ד אֶת שָׂרָ֖ה» (matched; filed at 21:1) DH «וַה׳ פָּקַד אֶת־שָׂרָה.»: כַּאֲשֶׁר אָמַר, שֶׁהָרְתָה וְיָלְדָה לַמּוֹעֵד הַהוּא כַּאֲשֶׁר אָמַר, וּלְפִי שֶׁהָיָה פֶּלֶא שָׁנָה הָעִנְיָן וְשִׁלֵּשׁ. וּמִנְהַג הַכָּתוּב בְּכֶפֶל הָעִנְיָן וְשִׁנָּה הַמִּלּוֹת, וְכֵן אָמַר תְּחִלָּה פָּקַד וְאַחַר כֵּן
 - `radak:21:1:2` Radak on 21:1.10 21:1.11 «כַּאֲשֶׁ֥ר דִּבֵּֽר׃» (matched; filed at 21:1) DH «כַּאֲשֶׁר דִּבֵּר»: .
@@ -123,7 +123,7 @@ Hebrew (MAM): וַתַּ֩הַר֩ וַתֵּ֨לֶד שָׂרָ֧ה לְאַב�
 
 ### Commentary anchored to this verse
 
-- `rashi:21:2:1` Rashi **normative** on 21:2.7 21:2.8 21:2.9 21:2.10 «לַמּוֹעֵ֕ד אֲשֶׁר דִּבֶּ֥ר אֹת֖וֹ» (matched; filed at 21:2) DH «למועד אשר דבר אתו.»: דִּי מַלִּיל יָתֵהּ, אֶת הַמּוֹעֵד דִּבֵּר וְקָבַע כְּשֶׁאָמַר לוֹ לַמּוֹעֵד אָשׁוּב אֵלֶיךָ (שם י"ח), שָׂרַט לוֹ שְׂרִיטָה בַּכֹּתֶל, אָמַר לוֹ כְּשֶׁתַּגִּיעַ חַמָּה לִשְׂרִיטָה זוֹ בַּשָּׁנָה הָאַחֶרֶת, תֵּלֵד:
+- `rashi:21:2:1` Rashi on 21:2.7 21:2.8 21:2.9 21:2.10 «לַמּוֹעֵ֕ד אֲשֶׁר דִּבֶּ֥ר אֹת֖וֹ» (matched; filed at 21:2) DH «למועד אשר דבר אתו.»: דִּי מַלִּיל יָתֵהּ, אֶת הַמּוֹעֵד דִּבֵּר וְקָבַע כְּשֶׁאָמַר לוֹ לַמּוֹעֵד אָשׁוּב אֵלֶיךָ (שם י"ח), שָׂרַט לוֹ שְׂרִיטָה בַּכֹּתֶל, אָמַר לוֹ כְּשֶׁתַּגִּיעַ חַמָּה לִשְׂרִיטָה זוֹ בַּשָּׁנָה הָאַחֶרֶת, תֵּלֵד:
 - `ibn-ezra:21:2:1` Ibn Ezra **normative** on 21:2.7 21:2.8 21:2.9 21:2.10 «לַמּוֹעֵ֕ד אֲשֶׁר דִּבֶּ֥ר אֹת֖וֹ» (matched; filed at 21:2) DH «למועד אשר דבר אתו.»: המלאך ששאל איה שרה אשתך, גם שב אליו כי כן אמר לו
 - `radak:21:2:1` Radak on 21:2.1 «וַתַּ֩הַר֩» (matched; filed at 21:2) DH «וַתַּהַר.»: לְפִי שֶׁלֹּא זָכַר הַהֵרָיוֹן תְּחִלָּה, אָמַר כְּאֶחָד וַתַּהַר וַתֵּלֶד, וְכֵן ״וַתַּהַר וַתֵּלֶד אֶת קַיִן״ (בראשית ד:א).
 - `radak:21:2:2` Radak on 21:2.4 «לְאַבְרָהָ֛ם» (matched; filed at 21:2) DH «לְאַבְרָהָם.»: כְּמוֹ שֶׁאָמַר ״אֲשֶׁר תֵּלֵד לְךָ שָׂרָה״ (בראשית יז:כא), וְכֵן דֶּרֶךְ הַלָּשׁוֹן כְּמוֹ ״וַתֵּלֶד הָגָר לְאַבְרָהָם בֵּן״ (בראשית טז:טו), וְזוּלָתָם רַבִּים. כִּי הָאִשָּׁה כְּמוֹ הָאֲדָמָה שֶׁנּוֹתֶנֶת פְּרִי לִבְעָלֶיהָ אַחַר שֶׁזְּרָעָהּ, וְהַיִּלּוֹד נִקְרָא עַל שֵׁם אָבִיו.
@@ -227,7 +227,7 @@ Hebrew (MAM): וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק עָ֥שָׂה ל
 
 ### Commentary anchored to this verse
 
-- `rashi:21:6:1` Rashi **normative** on 21:6.9 21:6.10 «יִֽצְחַק לִֽי׃» (matched; filed at 21:6) DH «יצחק לי.»: יִשְׂמַח עָלַי. וּמִ"אַ הַרְבֵּה עֲקָרוֹת נִפְקְדוּ עִמָּהּ, הַרְבֵּה חוֹלִים נִתְרַפְּאוּ בוֹ בַיּוֹם, הַרְבֵּה תְפִלּוֹת נַעֲנוּ עִמָּהּ, וְרֹב שְׂחוֹק הָיָה בָעוֹלָם:
+- `rashi:21:6:1` Rashi on 21:6.9 21:6.10 «יִֽצְחַק לִֽי׃» (matched; filed at 21:6) DH «יצחק לי.»: יִשְׂמַח עָלַי. וּמִ"אַ הַרְבֵּה עֲקָרוֹת נִפְקְדוּ עִמָּהּ, הַרְבֵּה חוֹלִים נִתְרַפְּאוּ בוֹ בַיּוֹם, הַרְבֵּה תְפִלּוֹת נַעֲנוּ עִמָּהּ, וְרֹב שְׂחוֹק הָיָה בָעוֹלָם:
 - `radak:21:6:1` Radak on 21:6.1 21:6.2 21:6.3 «וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק» (matched; filed at 21:6) DH «וַתֹּאמֶר שָׂרָה צְחֹק.»: אָמְרָה בֶּאֱמֶת קָרָא אֹתוֹ יִצְחָק, כִּי צְחוֹק דָּבָר הוּא לִי שֶׁאֲנִי יָלַדְתִּי וַאֲנִי זְקֵנָה, וְכָל הַשֹּׁמֵעַ שֶׁיָּלַדְתִּי יִצְחַק בַּעֲבוּרִי כְּמוֹ שֶׁיִּצְחַק אָדָם לִדְבַר הַתִּמָּהּ.
 - `onkelos:21:6:1` Targum Onkelos on whole 21:6 (version; filed at 21:6): וַאֲמֶרֶת שָׂרָה חֶדְוָא עֲבַד לִי יְיָ כָּל דִּשְׁמַע יֶחֱדֵּי לִי:
 - `sforno:21:6:1` Sforno on 21:6.3 21:6.4 21:6.5 21:6.6 «צְחֹ֕ק עָ֥שָׂה לִ֖י אֱלֹהִ֑ים» (matched; filed at 21:6) DH «צָחוֹק עָשָׂה לִי אֱלֹהִים.»: אַף עַל פִּי שֶׁיֵּשׁ צַעַר מִילָה לַתִּינוֹק, הָאֵל יִתְבָּרַךְ נָתַן שִׂמְחָה בְּלִבִּי, לְפִיכָךְ
@@ -238,6 +238,10 @@ Hebrew (MAM): וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק עָ֥שָׂה ל
 Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
 
 ### `bdb:a.ae.ap` אֲבִימֶ֫לֶךְ (n.pr.m): Melek, is father
+- `1` Melek, is father — king of Gerar
+- `2` Melek, is father — king of Gath
+- `3` Melek, is father — son of Gideon
+- `4` Melek, is father — priest, son of Abiathar
 
 ### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
 
@@ -257,14 +261,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
 ### `bdb:a.dv.ab` אָמָה (n.f) root אמה: maid, handmaid
 - `1` maidservant
+- `2` maid, handmaid — fig. in address
 
 ### `bdb:a.ea.aa` אָמַר (vb) root אמר: utter, say
 - `Qal 1` Qal Say
@@ -289,20 +297,25 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1` house
 - `2` place
 - `3` receptacle
+- `4` house — of house as containing a family
 - `5` household, family
 - `6` household affairs
 - `7` housewards, inwards
 - `8.a` on the inside
 - `8.b` within
+- `8` house — מִבַּיִת
 
 ### `bdb:b.ca.aa` בֵּן (n.m): son
 - `1` son
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ce.ab` בַּ֫עַד (subst) root בעד: separation, in separation from, away from, behind, about, on behalf of
 
@@ -321,9 +334,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `IV` matter, affair
 
 ### `bdb:e.az.ae` יהוה (n.pr.dei) root הוה: Yahweh, the one bringing into being, life-giver
+- `I` Yahweh, the one bringing into being, life-giver — יהוה is not used by E in Gn, but is given Ex 3:12-15 as the name of the God who revealed Himself to Moses at Horeb
+- `II.1` Yahweh, the one bringing into being, life-giver — יהוה is used with אלהים and suffixes, especially in D
+- `II.2` Yahweh, the one bringing into being, life-giver — the phrase † אֲנִי יהוה is noteworthy
+- `II.3` Yahweh, the one bringing into being, life-giver — יהוה is also used with several predicates, to form sacred names of holy places of Yahweh
 
 ### `bdb:e.cd.aa` הָרָה (vb) root הרה: conceive, become pregnant
 - `Qal 1` Qal conceive, become pregnant
+- `Qal 2` Qal conceive, become pregnant — metaph
 - `Pu` Pu a man hath been conceived
 - `Po` Po conceive, contrive, devise
 
@@ -336,10 +354,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -370,9 +390,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `1` hundred — as simple number
+- `2` hundred — as part of larger number
 - `3` hundredth
 
 ### `bdb:m.az.aa` מוּל (vb) root מול: circumcise
@@ -383,6 +408,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -394,13 +422,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.et.aa` עָצַר (vb) root עצר: restrain, retain
 - `Qal 1` Qal restrain
@@ -455,9 +486,11 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi` Pi muster
 - `Pu` Pu be passed in review, be caused to miss
 - `Hithp` Hithp be mustered
+- `Hothp` Hothp . id (Hothp of: attend to, visit, muster, appoint)
 - `Hiph 1` Hiph set, over, make overseer
 - `Hiph 2.a` Hiph commit, entrust
 - `Hiph 2.b` Hiph deposit
+- `Hiph 2` Hiph c. acc. rei (implic.) (Hiph of: attend to, visit, muster, appoint)
 - `Hoph 1` Hoph be visited
 - `Hoph 2` Hoph be deposited
 - `Hoph 3` Hoph be made overseer
@@ -483,6 +516,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.b` Qal read
 - `Qal 5` Qal summon
 - `Qal 6` Qal call, name
+- `Niph 1` Niph reflex (Niph of: call, proclaim, read)
 - `Niph 2` Niph be called
 - `Pu` Pu be called
 
@@ -497,18 +531,26 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:u.cm.ae` שָׂרָה (n.pr.f): princess
 
 ### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `1` name — of river, beasts, city, i.e. exact designation of it
+- `2.a` name — usu. of pers
 - `2.b` reputation
+- `2.c` name — esp. as giving a man a kind of posthumous life, esp. in his sons
 - `3` name
+- `4` name — of false gods, use forbidden
 - `5` memorial, monument
 
 ### `bdb:v.ec.ab` שְׁמֹנֶה (n.m) root שׁמן: eight
 
 ### `bdb:v.ed.aa` שָׁמַע (vb) root שׁמע: hear
+- `Qal 1` Qal hear — subj. pers. hum
+- `Qal 2` Qal hear — י׳ (God) subj
 - `Niph 1` Niph be heard
 - `Niph 2` Niph be heard of
 - `Niph 3` Niph be regarded, obeyed
 - `Niph 4` Niph hearing was granted to their voice
 - `Pi` Pi he caused, to hear
+- `Hiph 1` Hiph of man (Hiph of: hear)
+- `Hiph 2` Hiph י׳ subj (Hiph of: hear)
 
 ### `bdb:v.ek.ab` שָׁנָה (n.f) root שׁנה: year
 

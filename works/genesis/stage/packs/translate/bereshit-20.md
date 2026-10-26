@@ -95,7 +95,7 @@ Hebrew (MAM): וַֽיְחִי־לֶ֕מֶךְ שְׁתַּ֧יִם וּשְׁמ
 
 ### Commentary anchored to this verse
 
-- `rashi:5:28:1` Rashi **normative** on 5:28.8 5:28.9 «וַיּ֖וֹלֶד בֵּֽן׃» (matched; filed at 5:28) DH «ויולד בן.»: שֶׁמִּמֶּנּוּ נִבְנָה הָעוֹלָם (בראשית רבה):
+- `rashi:5:28:1` Rashi on 5:28.8 5:28.9 «וַיּ֖וֹלֶד בֵּֽן׃» (matched; filed at 5:28) DH «ויולד בן.»: שֶׁמִּמֶּנּוּ נִבְנָה הָעוֹלָם (בראשית רבה):
 - `onkelos:5:28:1` Targum Onkelos on whole 5:28 (version; filed at 5:28): וַחֲיָא לֶמֶךְ מְאָה וְתַמְנִין וְתַרְתֵּין שְׁנִין וְאוֹלִיד בָּר:
 
 ## Genesis 5:29
@@ -123,7 +123,7 @@ Hebrew (MAM): וַיִּקְרָ֧א אֶת־שְׁמ֛וֹ נֹ֖חַ לֵאמ�
 
 ### Commentary anchored to this verse
 
-- `rashi:5:29:1` Rashi **normative** on 5:29.6 5:29.7 «זֶ֞֠ה יְנַחֲמֵ֤נוּ» (matched; filed at 5:29) DH «זה ינחמנו.»: יָנַח מִמֶּנּוּ אֶת עִצְּבוֹן יָדֵינוּ. עַד שֶׁלֹּא בָא נֹחַ לֹא הָיָה לָהֶם כְּלֵי מַחֲרֵשָׁה וְהוּא הֵכִין לָהֶם וְהָיְתָה הָאָרֶץ מוֹצִיאָה קוֹצִים וְדַרְדַּרִים כְּשֶׁזּוֹרְעִים חִטִּים, מִקִּלְלָתוֹ שֶׁל אָדָם הָרִאשׁוֹן, וּבִימֵי נֹחַ נָחָה, וְזֶהוּ יְנַחֲמֵנוּ, וְאִם לֹא תְפָרְשֵׁהוּ כָּךְ אֵין טַעַם הַלָּשׁוֹן נוֹפֵל עַל הַשֵּׁם וְאַתָּה צָרִיךְ לִקְרוֹת שְׁמוֹ מְנַחֵם:
+- `rashi:5:29:1` Rashi on 5:29.6 5:29.7 «זֶ֞֠ה יְנַחֲמֵ֤נוּ» (matched; filed at 5:29) DH «זה ינחמנו.»: יָנַח מִמֶּנּוּ אֶת עִצְּבוֹן יָדֵינוּ. עַד שֶׁלֹּא בָא נֹחַ לֹא הָיָה לָהֶם כְּלֵי מַחֲרֵשָׁה וְהוּא הֵכִין לָהֶם וְהָיְתָה הָאָרֶץ מוֹצִיאָה קוֹצִים וְדַרְדַּרִים כְּשֶׁזּוֹרְעִים חִטִּים, מִקִּלְלָתוֹ שֶׁל אָדָם הָרִאשׁוֹן, וּבִימֵי נֹחַ נָחָה, וְזֶהוּ יְנַחֲמֵנוּ, וְאִם לֹא תְפָרְשֵׁהוּ כָּךְ אֵין טַעַם הַלָּשׁוֹן נוֹפֵל עַל הַשֵּׁם וְאַתָּה צָרִיךְ לִקְרוֹת שְׁמוֹ מְנַחֵם:
 - `ibn-ezra:5:29:1` Ibn Ezra **normative** on whole 5:29 (verse; filed at 5:29) DH «וטעם זה ינחמנו ממעשינו.»: שידע על ידי אדם כי נביא היה כי על יד זה הנולד תחיה האדמה או ראו זה בדרך חכמה, וכן היה כי על ידו נתקיים העולם גם הוא היה איש האדמה כי כן כתוב, גם יתכן שנקרא שמו נח כמו ירובעל אחר שעבד האדמה והצליחה ונח הפך העצבון "והטעם זה ינחמנו וננוח מעצבון ידינו", גם נחמה מנוחה מעצבון הלב, כי העברים ישמרו הטעמים ולא המלות, והעד ירבשת וירבעל, והשואלים מי היה אשת קין ושת, מה טעם לשאלה הזאת, כי כתוב באדם ויולד בנים ובנות וכן כולם:
 - `radak:5:29:1` Radak on 5:29.1 5:29.2 5:29.3 5:29.4 5:29.5 5:29.6 5:29.7 «וַיִּקְרָ֧א אֶת שְׁמ֛וֹ נֹ֖חַ לֵאמֹ֑ר זֶ֞֠ה יְנַחֲמֵ֤נוּ» (matched; filed at 5:29) DH «וַיִּקְרָא אֶת שְׁמוֹ נֹחַ לֵאמֹר זֶה יְנַחֲמֵנוּ.»: אָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה (בראשית רבה כה) לֹא מִן הַשֵּׁם הוּא הַמִּדְרָשׁ וְלֹא מִן הַמִּדְרָשׁ הוּא הַשֵּׁם, לֹא הָיָה לוֹ לוֹמַר אֶלָּא נֹחַ זֶה יָנִיחֵנוּ אוֹ נַחְמָן זֶה יְנַחֲמֵנוּ. אֱמֶת הוּא זֶה, אֶלָּא שֶׁהַמָּנוֹחַ מִן הַצָּרָה הוּא הַנֶּחָמָה, וּקְרוֹבִים הֵם בָּעִנְיָן, וּלְשׁוֹן הַקֹּדֶשׁ לֹא יְדַקְדֵּק בָּזֶה בִּקְרִיאַת הַשֵּׁמוֹת; כְּמוֹ שְׁמוּאֵל ״כִּי מֵה׳ שְׁאִלְתִּיו״ (שמואל א׳ א:כ) וּלְפִי הַמִּדְרָשׁ הָיָה שָׁאוּל, אֶלָּא שֶׁקָּרוֹב הוּא בָּעִנְיָן, גַּם בְּשֵׁם שְׁמוּאֵל נִכְלָל הָעִנְיָן יוֹתֵר שָׁלֵם, כִּי יֵשׁ בּוֹ שָׁאוּל מֵאֵל, וְכֵן יַעְבֵּץ מִן עֹצֶב, וְהַדּוֹמִים לוֹ. וְאָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה נָבִיא גָּדוֹל הָיָה לֶמֶךְ שֶׁאָמַר בְּלֵדֶת בְּנוֹ
 - `radak:5:29:2` Radak on 5:29.6 5:29.7 «זֶ֞֠ה יְנַחֲמֵ֤נוּ» (matched; filed at 5:29) DH «זֶה יְנַחֲמֵנוּ»: , הֵיאַךְ יָדַע זֶה? אֶלָּא נָבִיא הָיָה; וּמָה הָיְתָה הַהֲנָחָה וְהַמְּנוּחָה שֶׁעָשָׂה נֹחַ בָּעוֹלָם? אָמְרוּ, כִּי עַד שֶׁלֹּא בָּא נֹחַ בָּעוֹלָם לֹא הָיָה לָהֶם כְּלִי מַחֲרֵישָׁה וְהָיוּ יְגֵעִים בִּידֵיהֶם בְּמַר וּפֶסֶל לַחֲרֹשׁ וְלִזְרֹעַ, מִשֶּׁבָּא נֹחַ שֶׁהָיָה אִישׁ הָאֲדָמָה וְחָשַׁב בְּשִׂכְלוֹ לְהָקֵל בַּעֲבוֹדַת הָאֲדָמָה תִּקֵּן כְּלִי מַחֲרֵישָׁה וְחָרַשׁ עִם הַשְּׁוָרִים וְהַחֲמוֹרִים וְלָמְדוּ בְּנֵי הָעוֹלָם מִמֶּנּוּ. הִנֵּה כִּי הוּא הֵקֵל בַּעֲבוֹדַת הָאֲדָמָה וְזֶהוּ הַנֶּחָמָה וְהַהֲנָחָה, לְפִיכָךְ אָמַר
@@ -197,12 +197,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` ground
 - `5` land, territory, country
 - `6` earth
+- `7` ground, land, tilled — n. pr. loc. city in Naphtali
 
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.ea.aa` אָמַר (vb) root אמר: utter, say
@@ -229,38 +232,64 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:e.az.ae` יהוה (n.pr.dei) root הוה: Yahweh, the one bringing into being, life-giver
+- `I` Yahweh, the one bringing into being, life-giver — יהוה is not used by E in Gn, but is given Ex 3:12-15 as the name of the God who revealed Himself to Moses at Horeb
+- `II.1` Yahweh, the one bringing into being, life-giver — יהוה is used with אלהים and suffixes, especially in D
+- `II.2` Yahweh, the one bringing into being, life-giver — the phrase † אֲנִי יהוה is noteworthy
+- `II.3` Yahweh, the one bringing into being, life-giver — יהוה is also used with several predicates, to form sacred names of holy places of Yahweh
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:g.ah.aa` זֶה (demonstr.pron): this, here
+- `1` this, here — standing alone
+- `2` this, here — In appos. to subst
+- `3` this, here — More oft. as pred
+- `4` this, here — It is attached enclitically, almost as an adv., to certain words, esp. interrog. pronouns, to impart, in a manner often not reproducible in Engl. idiom, directness and force, bringing the question or statement made into close relation with the speaker
+- `5` this, here — In poetry, as a relative pron. (rare)
+- `6` this, here — With prefixes (in special senses)
 
 ### `bdb:h.cd.aa` חָיָה (vb) root חיה: live
 - `Qal 1` Qal live
@@ -284,6 +313,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4.e` stays, supports
 - `4.f` tenons
 - `4.g` a, hand
+- `4` hand — יָד is used in various special, technical senses:—
+- `5` hand — יַד with prep
 
 ### `bdb:j.ay.aa` יוֹם (n.m): day
 - `1` day
@@ -292,10 +323,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -307,32 +340,49 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.bq.ai` לֶ֫מֶךְ (n.pr.m): Lamech
+- `1` son of מְתוּשָׁאֵל (Cainite)
+- `2` son of מְתוּשֶׁלַח (Sethite)
 
 ### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `1` hundred — as simple number
+- `2` hundred — as part of larger number
 - `3` hundredth
 
 ### `bdb:m.be.aa` מוּת (vb) root מות: die
 - `Qal 1` Qal die
 - `Qal 2` Qal die, be put to death
 - `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
 - `Hoph` Hoph be killed, put to death
 
 ### `bdb:m.cl.aa` מִן־ (prep): out of, from, on account of, off, on the side of, since, above, than, so that not
 - `1.a` from, against
 - `1.b` away from, far from
 - `1.c` off, on the side of, on
+- `1` out of, from, on account of, off, on the side of, since, above, than, so that not — with verbs expressing (or implying) separation or removal
 - `2` Out of
+- `3` out of, from, on account of, off, on the side of, since, above, than, so that not — Partitively
 - `4.a` from, since
 - `4.b` after
 - `4.c` towards, to
+- `4` out of, from, on account of, off, on the side of, since, above, than, so that not — Of time—
 - `5` from … even to
 - `6` beyond, above
 - `7.a` from, on account of, through
+- `7.b` out of, from, on account of, off, on the side of, since, above, than, so that not — after verbs implying restraint, prevention, cessation, etc
 - `7.c` since, after
+- `7` out of, from, on account of, off, on the side of, since, above, than, so that not — מן is prefixed to an infin
 - `8` that
+- `9` out of, from, on account of, off, on the side of, since, above, than, so that not — In compounds
 
 ### `bdb:m.ea.ac` מְתוּשֶׁ֫לַח (n.pr.m): man of the dart
 
@@ -364,6 +414,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.b` Qal read
 - `Qal 5` Qal summon
 - `Qal 6` Qal call, name
+- `Niph 1` Niph reflex (Niph of: call, proclaim, read)
 - `Niph 2` Niph be called
 - `Pu` Pu be called
 
@@ -374,8 +425,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:v.bk.ad` שִׁשִּׁים (n.indecl) root שׁדשׁ: sixty
 
 ### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `1` name — of river, beasts, city, i.e. exact designation of it
+- `2.a` name — usu. of pers
 - `2.b` reputation
+- `2.c` name — esp. as giving a man a kind of posthumous life, esp. in his sons
 - `3` name
+- `4` name — of false gods, use forbidden
 - `5` memorial, monument
 
 ### `bdb:v.ec.ad` שְׁמֹנִים (n.pl.indecl) root שׁמן: an eighty

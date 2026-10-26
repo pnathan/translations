@@ -30,7 +30,7 @@ Hebrew (MAM): וַיָּבֹ֜אוּ עַד־גֹּ֣רֶן הָאָטָ֗ד א�
 
 ### Commentary anchored to this verse
 
-- `rashi:50:10:1` Rashi **normative** on 50:10.3 50:10.4 «גֹּ֣רֶן הָאָטָ֗ד» (matched; filed at 50:10) DH «גרן האטד.»: מֻקָּף אֲטָדִין הָיָה, וְרַבּוֹתֵינוּ דָּרְשׁוּ (סוטה י"ג), עַל שֵׁם הַמְּאֹרָע, שֶׁבָּאוּ כָּל מַלְכֵי כְנַעַן וּנְשְׂיאֵי יִשְׁמָעֵאל לַמִּלְחָמָה, וְכֵיוָן שֶׁרָאוּ כִתְרוֹ שֶׁל יוֹסֵף תָּלוּי בַּאֲרוֹנוֹ שֶׁל יַעֲקֹב עָמְדוּ כֻלָּן וְתָלוּ בוֹ כִתְרֵיהֶם וְהִקִּיפוּהוּ כְּתָרִים כְּגֹרֶן הַמֻּקָּף סְיָג שֶׁל קוֹצִים:
+- `rashi:50:10:1` Rashi on 50:10.3 50:10.4 «גֹּ֣רֶן הָאָטָ֗ד» (matched; filed at 50:10) DH «גרן האטד.»: מֻקָּף אֲטָדִין הָיָה, וְרַבּוֹתֵינוּ דָּרְשׁוּ (סוטה י"ג), עַל שֵׁם הַמְּאֹרָע, שֶׁבָּאוּ כָּל מַלְכֵי כְנַעַן וּנְשְׂיאֵי יִשְׁמָעֵאל לַמִּלְחָמָה, וְכֵיוָן שֶׁרָאוּ כִתְרוֹ שֶׁל יוֹסֵף תָּלוּי בַּאֲרוֹנוֹ שֶׁל יַעֲקֹב עָמְדוּ כֻלָּן וְתָלוּ בוֹ כִתְרֵיהֶם וְהִקִּיפוּהוּ כְּתָרִים כְּגֹרֶן הַמֻּקָּף סְיָג שֶׁל קוֹצִים:
 - `ibn-ezra:50:10:1` Ibn Ezra **normative** on 50:10.14 50:10.15 50:10.16 «וַיַּ֧עַשׂ לְאָבִ֛יו אֵ֖בֶל» (matched; filed at 50:10) DH «ויעש לאביו אבל.»: אחר שקברוהו כאשר אמרו קדמונינו ז"ל:
 - `onkelos:50:10:1` Targum Onkelos on whole 50:10 (version; filed at 50:10): וַאֲתוֹ עַד בֵּית אִדְרֵי דְאָטָד דִּי בְּעִבְרָא דְיַרְדְּנָא וּסְפָדוּ תַמָּן מִסְפֵּד רַב וְתַקִּיף לַחֲדָא וְעָבַד לַאֲבוּהִי אֶבְלָא שַׁבְעָא יוֹמִין:
 
@@ -84,7 +84,7 @@ Hebrew (MAM): וַיַּעֲשׂ֥וּ בָנָ֖יו ל֑וֹ כֵּ֖ן כַּ
 
 ### Commentary anchored to this verse
 
-- `rashi:50:12:1` Rashi **normative** on 50:12.5 50:12.6 «כַּאֲשֶׁ֥ר צִוָּֽם׃» (matched; filed at 50:12) DH «כאשר צום.»: מַהוּ אֲשֶׁר צִוָּם?
+- `rashi:50:12:1` Rashi on 50:12.5 50:12.6 «כַּאֲשֶׁ֥ר צִוָּֽם׃» (matched; filed at 50:12) DH «כאשר צום.»: מַהוּ אֲשֶׁר צִוָּם?
 - `ibn-ezra:50:12:1` Ibn Ezra **normative** on 50:12.1 50:12.2 «וַיַּעֲשׂ֥וּ בָנָ֖יו» (matched; filed at 50:12) DH «ויעשו בניו.»: פי', והנה עשו בניו כאשר צום שנשאוהו וקברוהו במקום שצום:
 - `onkelos:50:12:1` Targum Onkelos on whole 50:12 (version; filed at 50:12): וַעֲבָדוּ בְנוֹהִי לֵיהּ כֵּן כְּמָא דִי פַקֵּדִנּוּן:
 
@@ -121,7 +121,7 @@ Hebrew (MAM): וַיִּשְׂא֨וּ אֹת֤וֹ בָנָיו֙ אַ֣רְצ�
 
 ### Commentary anchored to this verse
 
-- `rashi:50:13:1` Rashi **normative** on 50:13.1 50:13.2 50:13.3 «וַיִּשְׂא֨וּ אֹת֤וֹ בָנָיו֙» (matched; filed at 50:13) DH «וישאו אתו בניו.»: וְלֹא בְנֵי בָנָיו, שֶׁכָּךְ צִוָּם, אַל יִשְׂאוּ מִטָּתִי לֹא אִישׁ מִצְרִי וְלֹא אֶחָד מִבְּנֵיכֶם, שֶׁהֵם מִבְּנוֹת כְּנַעַן, אֶלָּא אַתֶּם, וְקָבַע לָהֶם מָקוֹם ג' לַמִּזְרָח, וְכֵן לְד' רוּחוֹת, וּכְסִדְרָן לְמַסַּע מַחֲנֶה שֶׁל דְּגָלִים נִקְבְעוּ כָאן; לֵוִי לֹא יִשָּׂא, שֶׁהוּא עָתִיד לָשֵׂאת אֶת הָאָרוֹן, וְיוֹסֵף לֹא יִשָּׂא, לְפִי שֶׁהוּא מֶלֶךְ, מְנַשֶּׁה וְאֶפְרַיִם יִהְיוּ תַחְתֵּיהֶם, וְזֶהוּ אִישׁ עַל דִּגְלוֹ בְאֹתֹת – בְּאוֹת שֶׁמָּסַר לָהֶם אֲבִיהֶם לִשָּׂא מִטָּתוֹ:
+- `rashi:50:13:1` Rashi on 50:13.1 50:13.2 50:13.3 «וַיִּשְׂא֨וּ אֹת֤וֹ בָנָיו֙» (matched; filed at 50:13) DH «וישאו אתו בניו.»: וְלֹא בְנֵי בָנָיו, שֶׁכָּךְ צִוָּם, אַל יִשְׂאוּ מִטָּתִי לֹא אִישׁ מִצְרִי וְלֹא אֶחָד מִבְּנֵיכֶם, שֶׁהֵם מִבְּנוֹת כְּנַעַן, אֶלָּא אַתֶּם, וְקָבַע לָהֶם מָקוֹם ג' לַמִּזְרָח, וְכֵן לְד' רוּחוֹת, וּכְסִדְרָן לְמַסַּע מַחֲנֶה שֶׁל דְּגָלִים נִקְבְעוּ כָאן; לֵוִי לֹא יִשָּׂא, שֶׁהוּא עָתִיד לָשֵׂאת אֶת הָאָרוֹן, וְיוֹסֵף לֹא יִשָּׂא, לְפִי שֶׁהוּא מֶלֶךְ, מְנַשֶּׁה וְאֶפְרַיִם יִהְיוּ תַחְתֵּיהֶם, וְזֶהוּ אִישׁ עַל דִּגְלוֹ בְאֹתֹת – בְּאוֹת שֶׁמָּסַר לָהֶם אֲבִיהֶם לִשָּׂא מִטָּתוֹ:
 - `onkelos:50:13:1` Targum Onkelos on whole 50:13 (version; filed at 50:13): וּנְטָלוּ יָתֵיהּ בְּנוֹהִי לְאַרְעָא דִכְנַעַן וּקְבָרוּ יָתֵיהּ בִּמְעָרַת חֲקַל כָּפֶלְתָּא דִּי זְבַן אַבְרָהָם יָת חַקְלָא לְאַחֲסָנַת קְבוּרָא מִן עֶפְרֹן חִתָּאָה עַל אַפֵּי מַמְרֵא:
 
 ## Genesis 50:14
@@ -149,7 +149,7 @@ Hebrew (MAM): וַיָּ֨שׇׁב יוֹסֵ֤ף מִצְרַ֙יְמָה֙ ה�
 
 ### Commentary anchored to this verse
 
-- `rashi:50:14:1` Rashi **normative** on 50:14.4 50:14.5 50:14.6 50:14.7 50:14.8 «ה֣וּא וְאֶחָ֔יו וְכׇל הָעֹלִ֥ים אִתּ֖וֹ» (matched; filed at 50:14) DH «הוא ואחיו וכל העלים אתו.»: בַּחֲזָרָתָן הִקְדִּים אֶחָיו לַמִּצְרִים הָעוֹלִים אִתּוֹ, וּבַהֲלִיכָתָן הִקְדִּים מִצְרַיִם לְאֶחָיו, שֶׁנֶּאֱמַר וַיַּעֲלוּ אִתּוֹ כָּל עַבְדֵי פַרְעֹה וְגוֹ', וְאַחַר כָּךְ כָּל בֵּית יוֹסֵף וְאֶחָיו, אֶלָּא לְפִי שֶׁרָאוּ כָבוֹד שֶׁעָשׂוּ מַלְכֵי כְנַעַן שֶׁתָּלוּ כִתְרֵיהֶם בַאֲרוֹנוֹ שֶׁל יַעֲקֹב נָהֲגוּ בָהֶם כָּבוֹד:
+- `rashi:50:14:1` Rashi on 50:14.4 50:14.5 50:14.6 50:14.7 50:14.8 «ה֣וּא וְאֶחָ֔יו וְכׇל הָעֹלִ֥ים אִתּ֖וֹ» (matched; filed at 50:14) DH «הוא ואחיו וכל העלים אתו.»: בַּחֲזָרָתָן הִקְדִּים אֶחָיו לַמִּצְרִים הָעוֹלִים אִתּוֹ, וּבַהֲלִיכָתָן הִקְדִּים מִצְרַיִם לְאֶחָיו, שֶׁנֶּאֱמַר וַיַּעֲלוּ אִתּוֹ כָּל עַבְדֵי פַרְעֹה וְגוֹ', וְאַחַר כָּךְ כָּל בֵּית יוֹסֵף וְאֶחָיו, אֶלָּא לְפִי שֶׁרָאוּ כָבוֹד שֶׁעָשׂוּ מַלְכֵי כְנַעַן שֶׁתָּלוּ כִתְרֵיהֶם בַאֲרוֹנוֹ שֶׁל יַעֲקֹב נָהֲגוּ בָהֶם כָּבוֹד:
 - `onkelos:50:14:1` Targum Onkelos on whole 50:14 (version; filed at 50:14): וְתַב יוֹסֵף לְמִצְרַיִם הוּא וַאֲחוֹהִי וְכָל דִּסְלִיקוּ עִמֵּיהּ לְמִקְבַּר יָת אָבוּהִי בָּתַר דִּקְבַר יָת אָבוּהִי:
 
 ## Genesis 50:15
@@ -181,8 +181,8 @@ Hebrew (MAM): וַיִּרְא֤וּ אֲחֵֽי־יוֹסֵף֙ כִּי־מֵ
 
 ### Commentary anchored to this verse
 
-- `rashi:50:15:1` Rashi **normative** on 50:15.1 50:15.2 50:15.3 50:15.4 50:15.5 50:15.6 «וַיִּרְא֤וּ אֲחֵֽי יוֹסֵף֙ כִּי מֵ֣ת אֲבִיהֶ֔ם» (matched; filed at 50:15) DH «ויראו אחי יוסף כי מת אביהם.»: מַהוּ וַיִּרְאוּ? הִכִּירוּ בְּמִיתָתוֹ אֵצֶל יוֹסֵף, שֶׁהָיוּ רְגִילִים לִסְעֹד עַל שֻׁלְחָנוֹ שֶׁל יוֹסֵף וְהָיָה מְקָרְבָן בִּשְׁבִיל כְּבוֹד אָבִיו, וּמִשֶּׁמֵּת יַעֲקֹב לֹא קֵרְבָן (בראשית רבה):
-- `rashi:50:15:2` Rashi **normative** on 50:15.8 50:15.9 «ל֥וּ יִשְׂטְמֵ֖נוּ» (matched; filed at 50:15) DH «לו ישטמנו.»: שֶׁמָּא יִשְׂטְמֵנוּ; לוּ מִתְחַלֵּק לְעִנְיָנִים הַרְבֵּה; יֵשׁ לוּ מְשַׁמֵּשׁ בִּלְשׁוֹן בַּקָּשָׁה וּלְשׁוֹן הַלְוַאי, כְּגוֹן לוּ יְהִי כִדְבָרֶךָ, לוּ שְׁמָעֵנִי, וְלוּ הוֹאַלְנוּ, לוּ מַתְנוּ, וְיֵשׁ לוּ מְשַׁמֵּשׁ בִּלְשׁוֹן אִם וְאוּלַי, כְּגוֹן לוּ חָכְמוּ (דברים ל"ב), לוּ הִקְשַׁבְתָּ לְמִצְוֹתָי (ישעיהו מ"ח), וְלוּ אָנֹכִי שֹׁקֵל עַל כַּפַּי (שמואל ב י"ח); וְיֵשׁ לוּ מְשַׁמֵשׁ בִּלְשׁוֹן שֶׁמָּא, לוּ יִשְׂטְמֵנוּ, וְאֵין לוֹ עוֹד דּוֹמֶה בַמִּקְרָא, וְהוּא לְשׁוֹן אוּלַי, כְּמוֹ אֻלַי לֹא תֵלֵךְ הָאִשָּׁה אַחֲרָי, לְשׁוֹן שֶׁמָּא הוּא; וְיֵשׁ אוּלַי לְשׁוֹן בַּקָּשָׁה, כְּגוֹן אוּלַי יִרְאֶה ה' בְּעֵינִי (שמואל ב ט"ז), אוּלַי ה' אוֹתִי (יהושע י"ד), הֲרֵי הוּא כְּמוֹ לוּ יְהִי כִדְבָרֶךָ, וְיֵשׁ אוּלַי לְשׁוֹן אִם, אוּלַי יֵשׁ נ' צַדִּיקִם:
+- `rashi:50:15:1` Rashi on 50:15.1 50:15.2 50:15.3 50:15.4 50:15.5 50:15.6 «וַיִּרְא֤וּ אֲחֵֽי יוֹסֵף֙ כִּי מֵ֣ת אֲבִיהֶ֔ם» (matched; filed at 50:15) DH «ויראו אחי יוסף כי מת אביהם.»: מַהוּ וַיִּרְאוּ? הִכִּירוּ בְּמִיתָתוֹ אֵצֶל יוֹסֵף, שֶׁהָיוּ רְגִילִים לִסְעֹד עַל שֻׁלְחָנוֹ שֶׁל יוֹסֵף וְהָיָה מְקָרְבָן בִּשְׁבִיל כְּבוֹד אָבִיו, וּמִשֶּׁמֵּת יַעֲקֹב לֹא קֵרְבָן (בראשית רבה):
+- `rashi:50:15:2` Rashi on 50:15.8 50:15.9 «ל֥וּ יִשְׂטְמֵ֖נוּ» (matched; filed at 50:15) DH «לו ישטמנו.»: שֶׁמָּא יִשְׂטְמֵנוּ; לוּ מִתְחַלֵּק לְעִנְיָנִים הַרְבֵּה; יֵשׁ לוּ מְשַׁמֵּשׁ בִּלְשׁוֹן בַּקָּשָׁה וּלְשׁוֹן הַלְוַאי, כְּגוֹן לוּ יְהִי כִדְבָרֶךָ, לוּ שְׁמָעֵנִי, וְלוּ הוֹאַלְנוּ, לוּ מַתְנוּ, וְיֵשׁ לוּ מְשַׁמֵּשׁ בִּלְשׁוֹן אִם וְאוּלַי, כְּגוֹן לוּ חָכְמוּ (דברים ל"ב), לוּ הִקְשַׁבְתָּ לְמִצְוֹתָי (ישעיהו מ"ח), וְלוּ אָנֹכִי שֹׁקֵל עַל כַּפַּי (שמואל ב י"ח); וְיֵשׁ לוּ מְשַׁמֵשׁ בִּלְשׁוֹן שֶׁמָּא, לוּ יִשְׂטְמֵנוּ, וְאֵין לוֹ עוֹד דּוֹמֶה בַמִּקְרָא, וְהוּא לְשׁוֹן אוּלַי, כְּמוֹ אֻלַי לֹא תֵלֵךְ הָאִשָּׁה אַחֲרָי, לְשׁוֹן שֶׁמָּא הוּא; וְיֵשׁ אוּלַי לְשׁוֹן בַּקָּשָׁה, כְּגוֹן אוּלַי יִרְאֶה ה' בְּעֵינִי (שמואל ב ט"ז), אוּלַי ה' אוֹתִי (יהושע י"ד), הֲרֵי הוּא כְּמוֹ לוּ יְהִי כִדְבָרֶךָ, וְיֵשׁ אוּלַי לְשׁוֹן אִם, אוּלַי יֵשׁ נ' צַדִּיקִם:
 - `ibn-ezra:50:15:1` Ibn Ezra **normative** on 50:15.8 50:15.9 «ל֥וּ יִשְׂטְמֵ֖נוּ» (matched; filed at 50:15) DH «לו ישטמנו.»: שמא יטור לנו איבה, כמו "וישטום עשו" (בראשית כז מא) ויש לו במקרא על דרכים רבים:
 - `onkelos:50:15:1` Targum Onkelos on whole 50:15 (version; filed at 50:15): וַחֲזוֹ אֲחֵי יוֹסֵף אֲרֵי מִית אֲבוּהוֹן וַאֲמָרוּ דִּלְמָא יִטַּר לָנָא דְבָבוּ יוֹסֵף וַאֲתָבָא יָתֵיב לָנָא יָת כָּל בִּישְׁתָא דִּי גְמַלְנָא יָתֵיהּ:
 
@@ -205,8 +205,8 @@ Hebrew (MAM): וַיְצַוּ֕וּ אֶל־יוֹסֵ֖ף לֵאמֹ֑ר אָ�
 
 ### Commentary anchored to this verse
 
-- `rashi:50:16:1` Rashi **normative** on 50:16.1 50:16.2 50:16.3 «וַיְצַוּ֕וּ אֶל יוֹסֵ֖ף» (matched; filed at 50:16) DH «ויצוו אל יוסף.»: כְּמוֹ וַיְצַוֵּם אֶל בְּנֵי יִשְׂרָאֵל – צִוָּה לְמֹשֶׁה וּלְאַהֲרֹן לִהְיוֹת שְׁלוּחִים אֶל בְּנֵי יִשְׂרָאֵל, אַף זֶה וַיְצַוּוּ אֶל שְׁלוּחָם, לִהְיוֹת שָׁלִיחַ אֶל יוֹסֵף לוֹמַר לוֹ כֵן. וְאֶת מִי צִוּוּ? אֶת בְּנֵי בִלְהָה, שֶׁהָיוּ רְגִילִין אֶצְלוֹ, שֶׁנֶּאֱמַר וְהוּא נַעַר אֶת בְּנֵי בִלְהָה:
-- `rashi:50:16:2` Rashi **normative** on 50:16.5 50:16.6 «אָבִ֣יךָ צִוָּ֔ה» (matched; filed at 50:16) DH «אביך צוה.»: שִׁנּוּ בַדָּבָר מִפְּנֵי הַשָּׁלוֹם, כִּי לֹא צִוָּה יַעֲקֹב כֵּן, שֶׁלֹּא נֶחֱשַׁד יוֹסֵף בְּעֵינָיו (בראשית רבה, יבמות ס"ה):
+- `rashi:50:16:1` Rashi on 50:16.1 50:16.2 50:16.3 «וַיְצַוּ֕וּ אֶל יוֹסֵ֖ף» (matched; filed at 50:16) DH «ויצוו אל יוסף.»: כְּמוֹ וַיְצַוֵּם אֶל בְּנֵי יִשְׂרָאֵל – צִוָּה לְמֹשֶׁה וּלְאַהֲרֹן לִהְיוֹת שְׁלוּחִים אֶל בְּנֵי יִשְׂרָאֵל, אַף זֶה וַיְצַוּוּ אֶל שְׁלוּחָם, לִהְיוֹת שָׁלִיחַ אֶל יוֹסֵף לוֹמַר לוֹ כֵן. וְאֶת מִי צִוּוּ? אֶת בְּנֵי בִלְהָה, שֶׁהָיוּ רְגִילִין אֶצְלוֹ, שֶׁנֶּאֱמַר וְהוּא נַעַר אֶת בְּנֵי בִלְהָה:
+- `rashi:50:16:2` Rashi on 50:16.5 50:16.6 «אָבִ֣יךָ צִוָּ֔ה» (matched; filed at 50:16) DH «אביך צוה.»: שִׁנּוּ בַדָּבָר מִפְּנֵי הַשָּׁלוֹם, כִּי לֹא צִוָּה יַעֲקֹב כֵּן, שֶׁלֹּא נֶחֱשַׁד יוֹסֵף בְּעֵינָיו (בראשית רבה, יבמות ס"ה):
 - `onkelos:50:16:1` Targum Onkelos on whole 50:16 (version; filed at 50:16): וּפַקִּידוּ לְוַת יוֹסֵף לְמֵימָר אָבוּךְ פַּקֵּד קֳדָם מוֹתֵיהּ לְמֵימָר:
 - `sforno:50:16:1` Sforno on 50:16.1 50:16.2 50:16.3 «וַיְצַוּ֕וּ אֶל יוֹסֵ֖ף» (matched; filed at 50:16) DH «וַיְצַוּוּ אֶל יוֹסֵף.»: צִוּוּ לְעַבְדֵי יַעֲקֹב אוֹ זוּלָתָם עַל אוֹדוֹת יוֹסֵף, כְּמוֹ "וַיְצַוֵּם אֶל בְּנֵי יִשְׂרָאֵל" (שמות ו:יג).
 - `sforno:50:16:2` Sforno on 50:16.4 50:16.5 50:16.6 «לֵאמֹ֑ר אָבִ֣יךָ צִוָּ֔ה» (matched; filed at 50:16) DH «לֵאמֹר אָבִיךָ צִוָּה.»: צִוָּה שֶׁיֹּאמְרוּ לְיוֹסֵף "אָבִיךָ צִוָּה לָנוּ" שֶׁנֹּאמַר אֵלֶיךָ מֵאֵלִינוּ, לֹא מִצִּדּוֹ, שֶׁאֵינוֹ חוֹשֵׁד אוֹתְךָ כְּלָל, אֲבָל שֶׁאִם יִירְאוּ אַחֶיךָ נֹאמַר אֵלֶיךָ אֵלֶּה הַדְּבָרִים.
@@ -245,7 +245,7 @@ Hebrew (MAM): כֹּֽה־תֹאמְר֣וּ לְיוֹסֵ֗ף אָ֣נָּ֡א
 
 ### Commentary anchored to this verse
 
-- `rashi:50:17:1` Rashi **normative** on 50:17.14 50:17.15 50:17.16 50:17.17 50:17.18 50:17.19 «שָׂ֣א נָ֔א לְפֶ֥שַׁע עַבְדֵ֖י אֱלֹהֵ֣י אָבִ֑יךָ» (matched; filed at 50:17) DH «שא נא לפשע עבדי אלהי אביך.»: אִם אָבִיךָ מֵת, אֱלֹהָיו קַיָּם, וְהֵם עֲבָדָיו:
+- `rashi:50:17:1` Rashi on 50:17.14 50:17.15 50:17.16 50:17.17 50:17.18 50:17.19 «שָׂ֣א נָ֔א לְפֶ֥שַׁע עַבְדֵ֖י אֱלֹהֵ֣י אָבִ֑יךָ» (matched; filed at 50:17) DH «שא נא לפשע עבדי אלהי אביך.»: אִם אָבִיךָ מֵת, אֱלֹהָיו קַיָּם, וְהֵם עֲבָדָיו:
 - `ibn-ezra:50:17:1` Ibn Ezra **normative** on 50:17.4 «אָ֣נָּ֡א» (matched; filed at 50:17) DH «אנא.»: לשון פיוס
 - `onkelos:50:17:1` Targum Onkelos on whole 50:17 (version; filed at 50:17): כְּדֵין תֵּימְרוּן לְיוֹסֵף בְּבָעוּ שְׁבוֹק כְּעַן לְחוֹבָא אַחָיךְ וְלַחֲטָאֵהוֹן אֲרֵי בִישְׁתָא גְמָלוּךְ וּכְעַן שְׁבוֹק כְּעַן לְחוֹבָא עַבְדֵי אֱלָהָא דְאָבוּךְ וּבְכָא יוֹסֵף בְּמַלָּלוּתְהוֹן עִמֵּיהּ:
 - `sforno:50:17:1` Sforno on 50:17.20 50:17.21 «וַיֵּ֥בְךְּ יוֹסֵ֖ף» (matched; filed at 50:17) DH «וַיֵּבְךְּ יוֹסֵף.»: בְּהַזְכִּירָם אֶת אָבִיו וְאֶת חִבָּתוֹ שֶׁלֹּא חֲשָׁדוֹ:
@@ -271,6 +271,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.aj.ab` אָבֵל מִצְרַיִם (n.f): Abel-mizraim
 - `1` meadow
+- `2` n.pr.loc. city in N. Isr.; = א׳ מַיִם
 - `3` acacia-meadow
 - `4` vineyard-meadow
 - `5` dance-meadow
@@ -278,6 +279,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.ck.ab` אָח (n.m) root אחה: brother
 - `1` brother
+- `2` brother — indef. = relative
+- `3` brother — fig. of resemblance
 - `4` one … another
 
 ### `bdb:a.cl.ac` אֲחֻזָּה (n.f) root אחז: possession
@@ -285,8 +288,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.cq.ab` אָטָד (n.m) root אטד: bramble, buck-thorn
@@ -307,9 +312,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
@@ -328,14 +336,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
@@ -344,6 +360,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
 - `1` together with
+- `2` with, proximity — Of localities
+- `3.a` with, proximity — in one's possession or keeping
+- `3.b` with, proximity — in one's knowledge or memory
+- `3` with, proximity — אֵת פּ׳ denotes specially
 - `4` from proximity with
 
 ### `bdb:b.ap.aa` בּוֹא (vb) root בוא: come in, come, go in, go
@@ -362,6 +382,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 2` Qal weep bitterly
 - `Qal 3` Qal weep upon
 - `Qal 4` Qal bewail
+- `Qal 5` Qal weep, bewail — in sense of burden, annoy with weeping
+- `Qal 6` Qal weep, bewail — of penitent weeping
 - `Pi` Pi lament, bewail
 
 ### `bdb:b.ca.aa` בֵּן (n.m): son
@@ -369,12 +391,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:c.aq.ae` גָּדוֹל (adj) root גדל: great
+- `1` great — in magnitude and extent
+- `2` great — in number
+- `3` great — in intensity
 - `4` loud
+- `5` great — in age
+- `6` great — in importance
+- `7` great — in phrases
+- `8` great — cstr
 - `9` do great things
 - `10` greatness
 
@@ -398,9 +430,20 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:g.ah.aa` זֶה (demonstr.pron): this, here
+- `1` this, here — standing alone
+- `2` this, here — In appos. to subst
+- `3` this, here — More oft. as pred
+- `4` this, here — It is attached enclitically, almost as an adv., to certain words, esp. interrog. pronouns, to impart, in a manner often not reproducible in Engl. idiom, directness and force, bringing the question or statement made into close relation with the speaker
+- `5` this, here — In poetry, as a relative pron. (rare)
+- `6` this, here — With prefixes (in special senses)
 
 ### `bdb:h.bu.af` חַטָּאת (n.f) root חטא: sin, sin-offering
 - `1` sin
@@ -418,8 +461,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bz.ab` יוֹסֵף (n.pr.m): he adds, increases
+- `1` he adds, increases — elder son of Jacob and Rachael
+- `2` he adds, increases — a man of Issachar
+- `3` he adds, increases — a son of Asaph
+- `4` he adds, increases — one of those who took strange wives
+- `5` he adds, increases — a priest
 
 ### `bdb:j.dh.ad` יַרְדֵּן (n.pr.fl): Jordan
 
@@ -429,6 +478,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1.c` Qal sit down
 - `Qal 1.d` Qal sit, be set
 - `Qal 2.a` Qal remain, stay, tarry
+- `Qal 2.b` Qal sit, remain, dwell — with special emphasis of qualifying phr
 - `Qal 3` Qal dwell, have one’s abode
 - `Qal 4` Qal sit, abide, seated in its place, be inhabited
 - `Niph` Niph be inhabited
@@ -462,11 +512,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:k.by.aa` כֵּן (adv): so
 
 ### `bdb:k.cd.ac` כְּנַ֫עַן (n.pr.m): Canaan
+- `1` Canaan — as n. pr. m., son of Ham
+- `2.a` Canaan — land, W. of Jordan, into wh. Hebrews came, and where they settled, subduing the inhabitants
+- `2.b` Canaan — the coast, esp. Phoenicia
 
 ### `bdb:k.cd.ae` כְּנַעֲנִי (adj): Kenaanite
 
@@ -484,6 +540,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1` Qal die
 - `Qal 2` Qal die, be put to death
 - `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
 - `Hoph` Hoph be killed, put to death
 
 ### `bdb:m.be.ab` מָ֫וֶת (n.m) root מות: death
@@ -495,7 +555,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:m.df.ab` מִצְרַ֫יִם (n.pr.terr) root מצר: Egypt, Egyptians
 - `1.a` Egypt
+- `1.b` Egypt, Egyptians — combinations
+- `2.a` Egypt, Egyptians — in table of nations, personif. as second son of Ham
 - `2.b` Egypt, Egyptians
+- `2` Egypt, Egyptians — of people
 
 ### `bdb:m.df.ad` מִצְרִי (adj. gent): Egyptian
 
@@ -510,6 +573,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 3` Niph be borne, carried
 - `Niph 4` Niph be taken away, carried off
 - `Pi 1` Pi lift up
+- `Pi 2` Pi fig. = desire, long (Pi of: lift, carry, take)
 - `Pi 3` Pi carry, bear continuously
 - `Pi 4` Pi take, take away
 - `Hithp` Hithp lift oneself up
@@ -529,15 +593,25 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` Servant
 - `5` servant
 - `6` thy servant, I
+- `7` slave, servant — Phrases
 
 ### `bdb:p.ah.ab` עֵ֫בֶר (n.m) root עבר: region across, beyond, side
 - `1` region across, beyond
 - `2` side, side
 
 ### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
+- `I.1` as far as, even to, up to, until, while — of space
+- `I.2` as far as, even to, up to, until, while — Of time
+- `I.3` as far as, even to, up to, until, while — Of degree
+- `I` as far as, even to, up to, until, while — prep
 - `II.1` until
 - `II.2` While
 - `II.3` to the point that, so that even
+- `II` as far as, even to, up to, until, while — conj
+- `III.1` as far as, even to, up to, until, while — of space
+- `III.2` as far as, even to, up to, until, while — Of time
+- `III.3` as far as, even to, up to, until, while — Of degree
+- `III` as far as, even to, up to, until, while — עַד לְ, a strengthened form for עַד. Thus
 
 ### `bdb:p.cs.aa` עָלָה (vb) root עלה: go up, ascend, climb
 - `Qal 1` Qal go up, ascend
@@ -545,6 +619,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 3` Qal go, come up
 - `Qal 4` Qal spring up, grow, shoot forth
 - `Qal 5` Qal go up, rise
+- `Qal 6` Qal go up, ascend, climb — of inanimate things, instead of passive construction
+- `Qal 7` Qal go up, ascend, climb — of thoughts
 - `Qal 8` Qal come up
 - `Qal 9` Qal go up, extend
 - `Qal 10` Qal excel
@@ -555,18 +631,20 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 2` Niph take oneself away
 - `Niph 3` Niph be exalted
 - `Hiph 1` Hiph bring up
+- `Hiph 2` Hiph in personal relations (Hiph of: go up, ascend, climb)
 - `Hiph 3` Hiph bring up
 - `Hiph 4` Hiph cause to ascend
+- `Hiph 5` Hiph mentally (Hiph of: go up, ascend, climb)
 - `Hiph 6` Hiph offer, bring up
 - `Hiph 7` Hiph exalt
 - `Hiph 8` Hiph cause to ascend, offer
-- `Hoph 1` Hoph be carried away
-- `Hoph 2` Hoph be taken up, inserted
-- `Hoph 3` Hoph be offered
-- `Hithp` Hithp lift oneself
+- … 4 more senses
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -578,17 +656,23 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.dt.ae` עַתָּ֫ה (adv) root ענה: now
 
 ### `bdb:p.eh.af` עֶפְרוֹן (n.pr): Ephron
+- `1` m. Hittite, Abr.’s time
+- `2` loc. Kt
+- `3` mont. on N. border of Judah
 
 ### `bdb:p.ft.ab` מְעָרָה (n.f) root ערר: cave
 
@@ -625,6 +709,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `I.4` face
 - `I.5` face, surface
 - `I.6` before
+- `I.7` face, faces — for other phrases
+- `II` face, faces — with prepositions
 
 ### `bdb:q.dy.ab` פֶּ֫שַׁע (n.m) root פשׁע: transgression
 
@@ -634,6 +720,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal` Qal bury
 - `Niph` Niph be buried
 - `Pi` Pi bury
+- `Pu` Pu . Gn 25:10 (Pu of: bury)
 
 ### `bdb:s.ah.ab` קֶ֫בֶר (n.m) root קבר: grave, sepulchre
 
@@ -653,6 +740,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.b` Qal read
 - `Qal 5` Qal summon
 - `Qal 6` Qal call, name
+- `Niph 1` Niph reflex (Niph of: call, proclaim, read)
 - `Niph 2` Niph be called
 - `Pu` Pu be called
 
@@ -664,6 +752,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4` Qal see, have, vision
 - `Qal 5` Qal see
 - `Qal 6` Qal look at, see
+- `Qal 7` Qal see — of mental observation
 - `Qal 8.a` Qal look into, look at
 - `Qal 8.b` Qal see
 - `Niph 1` Niph appear
@@ -695,33 +784,37 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1` Qal turn back
 - `Qal 2` Qal return, come, go back
 - `Qal 3` Qal return unto
+- `Qal 4.a` Qal turn back, return — of dying
+- `Qal 4.b` Qal turn back, return — of revival from death
 - `Qal 5.a` Qal return
+- `Qal 5.b` Qal turn back, return — = change so as to appoach (in purpose, desire)
 - `Qal 5.c` Qal turn
 - `Qal 5.d` Qal return
+- `Qal 5.e` Qal turn back, return — abs. = change course of action
+- `Qal 5` Qal turn back, return — fig. of human relations
 - `Qal 6.a` Qal turn back, apostatize
 - `Qal 6.b` Qal turn away
 - `Qal 6.c` Qal turn back
 - `Qal 6.d` Qal repent
 - `Qal 6.e` Qal turn back
+- `Qal 6.f` Qal turn back, return — of י׳
 - `Qal 6.g` Qal return
+- `Qal 6` Qal turn back, return — fig., specif. of spiritual relations
+- `Qal 7` Qal turn back, return — of inanimate things (sts. personified, or treated as things of life)
+- `Qal 8` Qal turn back, return — denoting repetition, etc
+- `Qal 9` Qal turn back, return — trans
 - `Qal` Qal turn back, return
 - `Pō‛l 1` Pō‛l bring back
-- `Pō‛l 2.a` Pō‛l restore, refresh
-- `Pō‛l 2.b` Pō‛l restore, repair
-- `Pō‛l 3` Pō‛l lead away
-- `Pō‛l 4` Pō‛l shew turning, apostatize
-- `Hiph 1.a` Hiph bring back
-- `Hiph 1.b` Hiph put back
-- `Hiph 1.c` Hiph draw back
-- `Hiph 1.d` Hiph give back, restore
-- `Hiph 1.e` Hiph relinguish
-- `Hiph 1.f` Hiph give in payment
-- … 15 more senses
+- … 25 more senses
 
 ### `bdb:v.dv.aa` שָׁם (adv): there, thither
 
 ### `bdb:v.dv.ab` שֵׁם (n.m): name
+- `1` name — of river, beasts, city, i.e. exact designation of it
+- `2.a` name — usu. of pers
 - `2.b` reputation
+- `2.c` name — esp. as giving a man a kind of posthumous life, esp. in his sons
 - `3` name
+- `4` name — of false gods, use forbidden
 - `5` memorial, monument
 

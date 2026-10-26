@@ -19,7 +19,7 @@ Hebrew (MAM): וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔י
 
 ### Commentary anchored to this verse
 
-- `rashi:2:25:1` Rashi **normative** on 2:25.6 2:25.7 «וְלֹ֖א יִתְבֹּשָֽׁשׁוּ׃» (matched; filed at 2:25) DH «ולא יתבוששו.»: שֶׁלֹּא הָיוּ יוֹדְעִים דֶרֶךְ צְנִיעוּת לְהַבְחִין בֵּין טוֹב לָרָע, וְאַעַ"פִּ שֶׁנִּתְּנָה בוֹ דֵּעָה לִקְרוֹת לוֹ שֵׁמוֹת, לֹא נִתַּן בּוֹ יֵצֶר הָרָע עַד אָכְלוֹ מִן הָעֵץ וְנִכְנַס בּוֹ יֵצֶר הָרָע וְיָדַע מַה בֵּין טוֹב לָרָע (בראשית רבה):
+- `rashi:2:25:1` Rashi on 2:25.6 2:25.7 «וְלֹ֖א יִתְבֹּשָֽׁשׁוּ׃» (matched; filed at 2:25) DH «ולא יתבוששו.»: שֶׁלֹּא הָיוּ יוֹדְעִים דֶרֶךְ צְנִיעוּת לְהַבְחִין בֵּין טוֹב לָרָע, וְאַעַ"פִּ שֶׁנִּתְּנָה בוֹ דֵּעָה לִקְרוֹת לוֹ שֵׁמוֹת, לֹא נִתַּן בּוֹ יֵצֶר הָרָע עַד אָכְלוֹ מִן הָעֵץ וְנִכְנַס בּוֹ יֵצֶר הָרָע וְיָדַע מַה בֵּין טוֹב לָרָע (בראשית רבה):
 - `ibn-ezra:2:23:5` Ibn Ezra **normative** on 2:25.6 «וְלֹ֖א» (shifted-unbolded; filed at 2:23) DH «ולא»: ולא נדגש קו"ף "לֻקָחָה זאת" להקל על הלשון והוא מהבנין הכבד, ואם לא נמצא
 - `ibn-ezra:2:25:1` Ibn Ezra **normative** on 2:25.3 «עֲרוּמִּ֔ים» (matched; filed at 2:25) DH «ערומים.»: שם התואר וכן ובגדי ערומים תפשיט (איוב כב ו), וי"א כי גם "ערום ראה רעה ויסתר (משלי כב ג) כמוהו, וטעמו שהרוח ערום בלי מכסה כדמות העי"ן:
 - `ibn-ezra:2:25:2` Ibn Ezra **normative** on 2:25.7 «יִתְבֹּשָֽׁשׁוּ׃» (matched; filed at 2:25) DH «יתבששו.»: מבושת והוא מהשנים שיש נח נעלם ביניהם והאות האחרון כפול כמו "יתבונן" (איוב יא יא), ונקמץ השי"ן בעבור שהוא סוף פסוק:
@@ -60,9 +60,9 @@ Hebrew (MAM): וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל�
 
 ### Commentary anchored to this verse
 
-- `rashi:3:1:1` Rashi **normative** on 3:1.1 3:1.2 3:1.3 «וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם» (matched; filed at 3:1) DH «והנחש היה ערום.»: מָה עִנְיָן זֶה לְכָאן? הָיָה לוֹ לִסְמֹךְ וַיַּעַשׂ לְאָדָם וּלְאִשְׁתּוֹ כָּתְנוֹת עוֹר וַיַּלְבִּשֵׁם, אֶלָּא לִמֶּדְךָ מֵאֵיזוֹ עֵצָה קָפַץ הַנָּחַשׁ עֲלֵיהֶם, רָאָה אוֹתָם עֲרֻמִּים וְעוֹסְקִים בְּתַשְׁמִישׁ לְעֵין כֹּל וְנִתְאַוָּה לָהּ:
-- `rashi:3:1:2` Rashi **normative** on 3:1.3 3:1.4 «עָר֔וּם מִכֹּל֙» (matched; filed at 3:1) DH «ערום מכל.»: לְפִי עָרְמָתוֹ וּגְדֻלָּתוֹ הָיְתָה מַפָּלָתוֹ, עָרוּם מִכֹּל, אָרוּר מִכֹּל (בראשית רבה):
-- `rashi:3:1:3` Rashi **normative** on 3:1.14 3:1.15 3:1.16 «אַ֚ף כִּֽי אָמַ֣ר» (matched; filed at 3:1) DH «אף כי אמר וגו'.»: שֶׁמָּא אָמַר לָכֶם לֹא תֹאכְלוּ מִכֹּל וְגוֹ', וְאַעַ"פִּ שֶׁרָאָה אוֹתָם אוֹכְלִים מִשְּׁאָר פֵּרוֹת, הִרְבָּה עָלֶיהָ דְבָרִים כְּדֵי שֶׁתְּשִׁיבֶנּוּ וְיָבֹא לְדַבֵּר בְּאוֹתוֹ הָעֵץ:
+- `rashi:3:1:1` Rashi on 3:1.1 3:1.2 3:1.3 «וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם» (matched; filed at 3:1) DH «והנחש היה ערום.»: מָה עִנְיָן זֶה לְכָאן? הָיָה לוֹ לִסְמֹךְ וַיַּעַשׂ לְאָדָם וּלְאִשְׁתּוֹ כָּתְנוֹת עוֹר וַיַּלְבִּשֵׁם, אֶלָּא לִמֶּדְךָ מֵאֵיזוֹ עֵצָה קָפַץ הַנָּחַשׁ עֲלֵיהֶם, רָאָה אוֹתָם עֲרֻמִּים וְעוֹסְקִים בְּתַשְׁמִישׁ לְעֵין כֹּל וְנִתְאַוָּה לָהּ:
+- `rashi:3:1:2` Rashi on 3:1.3 3:1.4 «עָר֔וּם מִכֹּל֙» (matched; filed at 3:1) DH «ערום מכל.»: לְפִי עָרְמָתוֹ וּגְדֻלָּתוֹ הָיְתָה מַפָּלָתוֹ, עָרוּם מִכֹּל, אָרוּר מִכֹּל (בראשית רבה):
+- `rashi:3:1:3` Rashi on 3:1.14 3:1.15 3:1.16 «אַ֚ף כִּֽי אָמַ֣ר» (matched; filed at 3:1) DH «אף כי אמר וגו'.»: שֶׁמָּא אָמַר לָכֶם לֹא תֹאכְלוּ מִכֹּל וְגוֹ', וְאַעַ"פִּ שֶׁרָאָה אוֹתָם אוֹכְלִים מִשְּׁאָר פֵּרוֹת, הִרְבָּה עָלֶיהָ דְבָרִים כְּדֵי שֶׁתְּשִׁיבֶנּוּ וְיָבֹא לְדַבֵּר בְּאוֹתוֹ הָעֵץ:
 - `ibn-ezra:3:1:1` Ibn Ezra **normative** on 3:1.1 «וְהַנָּחָשׁ֙» (matched; filed at 3:1) DH «והנחש»: . י"א כי האשה היתה מבינה ויודעת לשון החיות, ויפרשו ויאמר הנחש ברמיזה ואחרים אמרו שהוא שטן ואיך לא יראו סוף הפרשה, כי אלך ילך השטן על גחון, ואיך יאכל עפר ומה טעם לקללת, הוא ישופך ראש", ורבים השתבשו לחקור למה היה קולל הנחש, ואם היתה לו דעת שלמה, או צוה שלא ישיא האשה, ויאמר רב סעדיה גאון אחר שהתבררה לנו שאין דבור ודעת כי אם באדם לבדו, נצטרך לומר כי הנחש גם האתון לא דברו רק מלאך דבר בשבילם, והשיב עליו רב שמואל בן חפני, והנה קם ר' שלמה הספרדי בעלי השירים השקולים, וחכם גדול היה והשיב על רב שמואל, והישר בעיני שהם הדברים כמשמעם, והנחש היה מדבר, והיה הולך בקומה זקופה, והשָם דעת באדם שם בו, והנה הפסוק העיד כי היה ערום מכל חית השדה רק לא כאדם, ופי' ערום חכם שיעשה דבריו בערמה, ואל תתמה בעבור היות ערום אחר ערומים, והם שני טעמים, כי באלה הצחות בלשון, כמו "בלחי החמור חמור חמורתים (שופ', טו טז), וכן "על שלשים עיירים, ושלשים עיירים להם" (שם יו"ד ד), ועוד אם המלאך דבר על פיו אין חטא לנחש וזה המלאך לא יתכן להיות שלוחו של השם, ואין המלאך ממרה פי השם, והשואלים איך (וי"ג אנה) מצא הנחש את האשה איננה שאלה,
 - `ibn-ezra:3:1:2` Ibn Ezra **normative** on 3:1.14 3:1.15 «אַ֚ף כִּֽי» (matched-unbolded; filed at 3:1) DH «אף כי»: וטעם אף כי יורה כי דבר דברים אחרים, ואמר בסוף קל וחומר שאמר לכם לא תאכלו פרי כל עץ כלל "לא הזכיר הנחש השם הנכבד והנורא כי לא ידעו, גם האשה הוסיפה על מצות השם, ולא תגעו בו, וכן הוסיפה אשת מנוח עד יום מותו (שופ' יג ז):
 - `radak:3:1:1` Radak on 3:1.1 3:1.2 3:1.3 3:1.4 3:1.5 3:1.6 3:1.7 3:1.8 3:1.9 3:1.10 «וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה אֲשֶׁ֥ר עָשָׂ֖ה יְהֹוָ֣ה אֱלֹהִ֑ים» (matched; filed at 3:1) DH «וְהַנָּחָשׁ הָיָה עָרוּם מִכֹּל חַיַּת הַשָּׂדֶה אֲשֶׁר עָשָׂה ה׳ אֱלֹהִים.»: יֵשׁ לִשְׁאֹל עַל עִנְיַן אֲמִירַת הַנָּחָשׁ לָאִשָּׁה אֵיךְ הָיָה, וְאִם הָיָה דֶּרֶךְ מוֹפֵת כְּמוֹ אֲמִירַת הָאָתוֹן לְבִלְעָם, לָמָּה לֹא אָמַר ״וַיִּפְתַּח ה׳ אֶת פִּי הַנָּחָשׁ״ כְּמוֹ שֶׁאָמַר ״וַיִּפְתַּח ה׳ אֶת פִּי הָאָתוֹן״ (במדבר כב:כח)? וְאִם כְּדִבְרֵי רַבִּי סַעַדְיָה שֶׁכָּתַב שֶׁלֹּא דִּבֵּר הַנָּחָשׁ וְלֹא הָאָתוֹן אֶלָּא מַלְאָךְ דִּבֵּר בַּעֲבוּרָם, לָמָּה נִתְקַלֵּל הַנָּחָשׁ? וְעוֹד אֵיךְ יַשִּׂיא הַמַּלְאָךְ אֶת הָאִשָּׁה לַעֲבֹר עַל מִצְוַת הָאֵל? וְעוֹד מַה עִנְיָן לַנָּחָשׁ הֵנָּה? וְלָמָּה אָמַר וְהַנָּחָשׁ הָיָה עָרוּם אַחַר שֶׁהוּא לֹא דִּבֵּר? וְאִם נֹאמַר כִּי לְנַסּוֹת אֶת הָאִשָּׁה בָּא הַמַּלְאָךְ אִם תַּעֲבֹר אֶת פִּי ה׳, מַה חֵטְא הַנָּחָשׁ בָּזֶה, וְלָמָּה לֹא בָּא הַמַּלְאָךְ לְאָדָם כִּי לֹא הָיְתָה מִצְוַת הָאֵל לָאִשָּׁה אַף עַל פִּי שֶׁאָדָם אָמַר לָאִשָּׁה מִצְוַת הָאֵל? וְהָעִנְיָן בָּזֶה מְבֻלְבָּל מְאֹד לְפִי הַנִּגְלֶה אֲבָל לְפִי הַנִּסְתָּר הָעִנְיָן מְבֹאָר כְּמוֹ שֶׁנְּפָרֵשׁ בְּקוּנְדְרֵס אֲשֶׁר נִכְתֹּב לְבַדּוֹ בַּנִּסְתָּר. וּמֵהַנִּסְתָּר מַה שֶׁכָּתְבוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה בָּזֶה (פרקי דרבי אליעזר יג) כִּי הַנָּחָשׁ הָיָה גָּדוֹל כְּגָמָל וְסָמָאֵל רוֹכֵב עָלָיו, וְהַקָּדוֹשׁ בָּרוּךְ הוּא שׂוֹחֵק עַל הַגָּמָל וְרוֹכְבוֹ, וְהָבֵן זֶה בָּזֶה, כִּי מַה מְּאֹד נִכְבָּד הַמָּשָׁל הַזֶּה בְּדִבְרֵיהֶם. וְעוֹד אָמְרוּ (יבמות קג ע״ב, עבודה זרה כב ע״ב) כְּשֶׁבָּא נָחָשׁ עַל חַוָּה הִטִּיל בָּהּ זוּהֲמָא, יִשְׂרָאֵל שֶׁעָמְדוּ עַל הַר סִינַי פָּסְקָה זוּהֲמָתָן, אֻמּוֹת הָעוֹלָם שֶׁלֹּא עָמְדוּ עַל הַר סִינַי לֹא פ … [cut; full text in the review pack]
@@ -130,7 +130,7 @@ Hebrew (MAM): וּמִפְּרִ֣י הָעֵץ֮ אֲשֶׁ֣ר בְּתוֹך�
 
 ### Commentary anchored to this verse
 
-- `rashi:3:3:1` Rashi **normative** on 3:3.11 3:3.12 3:3.13 «וְלֹ֥א תִגְּע֖וּ בּ֑וֹ» (matched; filed at 3:3) DH «ולא תגעו בו.»: הוֹסִיפָה עַל הַצִּוּוּי, לְפִיכָךְ בָּאָה לִידֵי גֵרָעוֹן, הוּא שֶׁנֶּאֱמַר אַל תּוֹסְףְּ עַל דְּבָרָיו (משלי ל'):
+- `rashi:3:3:1` Rashi on 3:3.11 3:3.12 3:3.13 «וְלֹ֥א תִגְּע֖וּ בּ֑וֹ» (matched; filed at 3:3) DH «ולא תגעו בו.»: הוֹסִיפָה עַל הַצִּוּוּי, לְפִיכָךְ בָּאָה לִידֵי גֵרָעוֹן, הוּא שֶׁנֶּאֱמַר אַל תּוֹסְףְּ עַל דְּבָרָיו (משלי ל'):
 - `radak:3:2:2` Radak on 3:3.14 «פֶּן» (shifted; filed at 3:2) DH «פֶּן»: שֶׁהוּא עִנְיַן שֶׁמָּא וְאוּלַי, וְהָאֵל אָמַר לְאָדָם כִּי בְּוַדַּאי יָמוּת אִם יֹאכַל מִמֶּנּוּ, כְּמוֹ שֶׁאָמַר ״בְּיוֹם אֲכָלְךָ מִמֶּנּוּ מוֹת תָּמוּת״ (בראשית ב:יז), לְשׁוֹן פֶּן אָמְרָה לְעִנְיַן לֹא תִגְּעוּ בּוֹ שֶׁהוֹסִיפָה מִדַּעְתָּהּ, אָמְרָה כָּל כָּךְ אָהַב אוֹתָנוּ כִּי אֲפִלּוּ הַנְּגִיעָה מָנַע מִמֶּנּוּ פֶּן נָבוֹא מֵהַנְּגִיעָה לַאֲכִילָה וְנָמוּת. אוֹ פֵּרוּשׁוֹ שֶׁלֹּא תְמוּתוּן, כְּמוֹ ״פֶּן תָּשִׁיב אֶת בְּנִי שָׁמָּה״ (בראשית כד:ו) שֶׁפֵּרוּשׁוֹ שֶׁלֹּא תָּשִׁיב, ״פֶּן תְּדַבֵּר עִם יַעֲקֹב״ (בראשית לא:כד) שֶׁלֹּא תְּדַבֵּר.
 - `onkelos:3:3:1` Targum Onkelos on whole 3:3 (version; filed at 3:3): וּמִפֵּירֵי אִילָנָא דִּי בִמְצִיעוּת גִּינְתָא אֲמַר יְיָ לָא תֵיכְלוּן מִנֵּהּ וְלָא תְקַרְבוּן בֵּהּ דִּילְמָא תְּמוּתוּן:
 - `sforno:3:1:6` Sforno on 3:3.14 3:3.15 «פֶּן תְּמֻתֽוּן׃» (shifted; filed at 3:1) DH «פֶּן תְּמֻתוּן»: , מִכָּל מָקוֹם לֹא יִתְאַמֵּת זֶה. וּבְכֵן אָמַר שֶׁכְּשֶׁהַנָּחָשׁ, וְהוּא הַדִּמְיוֹן, הִתְחִיל לָשׂוּם סָפֵק כָּזֶה, הִנֵּה הָאִשָּׁה בְּשִׂכְלָהּ הֶחָלוּשׁ אָמְרָה:
@@ -153,7 +153,7 @@ Hebrew (MAM): וַיֹּ֥אמֶר הַנָּחָ֖שׁ אֶל־הָֽאִשּׁ
 
 ### Commentary anchored to this verse
 
-- `rashi:3:4:1` Rashi **normative** on 3:4.5 3:4.6 3:4.7 «לֹֽא מ֖וֹת תְּמֻתֽוּן׃» (matched; filed at 3:4) DH «לא מות תמותון.»: דְּחָפָהּ עַד שֶׁנָּגְעָה בוֹ, אָמַר לָהּ כְּשֵׁם שֶׁאֵין מִיתָה בִנְגִיעָה, כָּךְ אֵין מִיתָה בַאֲכִילָה (בראשית רבה):
+- `rashi:3:4:1` Rashi on 3:4.5 3:4.6 3:4.7 «לֹֽא מ֖וֹת תְּמֻתֽוּן׃» (matched; filed at 3:4) DH «לא מות תמותון.»: דְּחָפָהּ עַד שֶׁנָּגְעָה בוֹ, אָמַר לָהּ כְּשֵׁם שֶׁאֵין מִיתָה בִנְגִיעָה, כָּךְ אֵין מִיתָה בַאֲכִילָה (בראשית רבה):
 - `radak:3:4:1` Radak on 3:4.1 «וַיֹּ֥אמֶר» (matched; filed at 3:4) DH «וַיֹּאמֶר.»: אָמַר הַנָּחָשׁ בְּעַרְמִימוּתוֹ:
 - `radak:3:4:2` Radak on 3:4.5 3:4.6 3:4.7 «לֹֽא מ֖וֹת תְּמֻתֽוּן׃» (matched; filed at 3:4) DH «לֹא מוֹת תְּמֻתוּן»: , לֹא כֵן כְּמוֹ שֶׁאַתְּ אוֹמֶרֶת כִּי לְאַהֲבַתְכֶם מָנַע אוֹתוֹ מִכֶּם שֶׁלֹּא תָמוּתוּ בַּאֲכִילָתוֹ, כִּי לֹא תָמוּתוּ, אֶלָּא הִפְחִידְכֶם בְּמִיתָה כְּדֵי שֶׁתִּזָּהֲרוּ יוֹתֵר מִמֶּנּוּ, אֲבָל מָנַע אוֹתוֹ מִכֶּם כִּי אֵינוֹ רוֹצֶה בְּמַעֲלַתְכֶם יוֹתֵר מִמַּה שֶׁנָּתַן לָכֶם.
 - `onkelos:3:4:1` Targum Onkelos on whole 3:4 (version; filed at 3:4): וַאֲמַר חִוְיָא לְאִיתְּתָא לָא מוּת תְּמוּתוּן:
@@ -183,8 +183,8 @@ Hebrew (MAM): כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים כִּ֗י בְּיו
 
 ### Commentary anchored to this verse
 
-- `rashi:3:5:1` Rashi **normative** on 3:5.1 3:5.2 «כִּ֚י יֹדֵ֣עַ» (matched; filed at 3:5) DH «כי ידע.»: כָּל אֻמָּן שׂוֹנֵא אֶת בְּנֵי אֻמָּנוּתוֹ, מִן הָעֵץ אָכַל וּבָרָא אֶת הָעוֹלָם (בראשית רבה):
-- `rashi:3:5:2` Rashi **normative** on 3:5.10 3:5.11 «וִהְיִיתֶם֙ כֵּֽאלֹהִ֔ים» (matched; filed at 3:5) DH «והייתם כאלהים.»: יוֹצְרֵי עוֹלָמוֹת (בראשית רבה):
+- `rashi:3:5:1` Rashi on 3:5.1 3:5.2 «כִּ֚י יֹדֵ֣עַ» (matched; filed at 3:5) DH «כי ידע.»: כָּל אֻמָּן שׂוֹנֵא אֶת בְּנֵי אֻמָּנוּתוֹ, מִן הָעֵץ אָכַל וּבָרָא אֶת הָעוֹלָם (בראשית רבה):
+- `rashi:3:5:2` Rashi on 3:5.10 3:5.11 «וִהְיִיתֶם֙ כֵּֽאלֹהִ֔ים» (matched; filed at 3:5) DH «והייתם כאלהים.»: יוֹצְרֵי עוֹלָמוֹת (בראשית רבה):
 - `ibn-ezra:3:5:1` Ibn Ezra **normative** on 3:5.10 3:5.11 «וִהְיִיתֶם֙ כֵּֽאלֹהִ֔ים» (matched; filed at 3:5) DH «והייתם כאלהים.»: כמלאכים:
 - `radak:3:5:1` Radak on 3:5.1 3:5.2 3:5.8 3:5.9 «כִּ֚י יֹדֵ֣עַ וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם» (matched; filed at 3:5) DH «כִּי יֹדֵעַ... וְנִפְקְחוּ עֵינֵיכֶם.»: עֵינֵי לְבַבְכֶם.
 - `radak:3:5:2` Radak on 3:5.10 3:5.11 «וִהְיִיתֶם֙ כֵּֽאלֹהִ֔ים» (matched; filed at 3:5) DH «וִהְיִיתֶם כֵּאלֹהִים»: , כְּמַלְאָכִים.
@@ -222,12 +222,12 @@ Hebrew (MAM): וַתֵּ֣רֶא הָֽאִשָּׁ֡ה כִּ֣י טוֹב֩ ה
 
 ### Commentary anchored to this verse
 
-- `rashi:3:6:1` Rashi **normative** on 3:6.1 3:6.2 «וַתֵּ֣רֶא הָֽאִשָּׁ֡ה» (matched; filed at 3:6) DH «ותרא האשה.»: רָאֲתָה דְבָרָיו שֶׁל נָחָשׁ וְהֶנְאוּ לָהּ וְהֶאֱמִינַתּוּ (בראשית רבה):
-- `rashi:3:6:2` Rashi **normative** on 3:6.3 3:6.4 3:6.5 «כִּ֣י טוֹב֩ הָעֵ֨ץ» (matched; filed at 3:6) DH «כי טוב העץ.»: לִהְיוֹת כֵּאלֹהִים:
-- `rashi:3:6:3` Rashi **normative** on 3:6.7 3:6.8 3:6.9 3:6.10 «וְכִ֧י תַֽאֲוָה ה֣וּא לָעֵינַ֗יִם» (matched; filed at 3:6) DH «וכי תאוה הוא לעינים.»: כְּמוֹ שֶׁאָמַר לָהּ וְנִפְקְחוּ עֵינֵיכֶם:
-- `rashi:3:6:4` Rashi **normative** on 3:6.11 3:6.13 «וְנֶחְמָ֤ד לְהַשְׂכִּ֔יל» (matched; filed at 3:6) DH «ונחמד להשכיל.»: כְּמוֹ שֶׁאָמַר לָהּ יוֹדְעֵי טוֹב וָרָע:
-- `rashi:3:6:5` Rashi **normative** on 3:6.17 3:6.18 3:6.19 «וַתִּתֵּ֧ן גַּם לְאִישָׁ֛הּ» (matched; filed at 3:6) DH «ותתן גם לאישה.»: שֶׁלֹּא תָמוּת הִיא וְיִחְיֶה הוּא, וְיִשָּׂא אַחֶרֶת:
-- `rashi:3:6:6` Rashi **normative** on 3:6.18 «גַּם» (matched; filed at 3:6) DH «גם.»: לְרַבּוֹת בְּהֵמָה וְחַיָּה:
+- `rashi:3:6:1` Rashi on 3:6.1 3:6.2 «וַתֵּ֣רֶא הָֽאִשָּׁ֡ה» (matched; filed at 3:6) DH «ותרא האשה.»: רָאֲתָה דְבָרָיו שֶׁל נָחָשׁ וְהֶנְאוּ לָהּ וְהֶאֱמִינַתּוּ (בראשית רבה):
+- `rashi:3:6:2` Rashi on 3:6.3 3:6.4 3:6.5 «כִּ֣י טוֹב֩ הָעֵ֨ץ» (matched; filed at 3:6) DH «כי טוב העץ.»: לִהְיוֹת כֵּאלֹהִים:
+- `rashi:3:6:3` Rashi on 3:6.7 3:6.8 3:6.9 3:6.10 «וְכִ֧י תַֽאֲוָה ה֣וּא לָעֵינַ֗יִם» (matched; filed at 3:6) DH «וכי תאוה הוא לעינים.»: כְּמוֹ שֶׁאָמַר לָהּ וְנִפְקְחוּ עֵינֵיכֶם:
+- `rashi:3:6:4` Rashi on 3:6.11 3:6.13 «וְנֶחְמָ֤ד לְהַשְׂכִּ֔יל» (matched; filed at 3:6) DH «ונחמד להשכיל.»: כְּמוֹ שֶׁאָמַר לָהּ יוֹדְעֵי טוֹב וָרָע:
+- `rashi:3:6:5` Rashi on 3:6.17 3:6.18 3:6.19 «וַתִּתֵּ֧ן גַּם לְאִישָׁ֛הּ» (matched; filed at 3:6) DH «ותתן גם לאישה.»: שֶׁלֹּא תָמוּת הִיא וְיִחְיֶה הוּא, וְיִשָּׂא אַחֶרֶת:
+- `rashi:3:6:6` Rashi on 3:6.18 «גַּם» (matched; filed at 3:6) DH «גם.»: לְרַבּוֹת בְּהֵמָה וְחַיָּה:
 - `ibn-ezra:3:6:1` Ibn Ezra **normative** on 3:6.1 3:6.2 «וַתֵּ֣רֶא הָֽאִשָּׁ֡ה» (matched; filed at 3:6) DH «ותרא האשה.»: בלבה:
 - `ibn-ezra:3:6:2` Ibn Ezra **normative** on 3:6.11 3:6.12 «וְנֶחְמָ֤ד הָעֵץ֙» (matched; filed at 3:6) DH «ונחמד העץ,»: בעבור שתשכיל ותפקחנה עיניה,
 - `ibn-ezra:3:6:3` Ibn Ezra **normative** on 3:6.20 «עִמָּ֖הּ» (matched-unbolded; filed at 3:6) DH «עמה»: וטעם עמה שיחד אכלוהו וגלתה לו סוד הנחש, והנה לא היה אדם שוגג על כן נענש, ורבים אמרו כי עץ הדעת עץ תאנה בעבור שמצאו "ויתפרו עלה תאנה" (בראשית ג ז), ואלו היה כן היה הכתוב אומר ויתפרו עלה עץ הדעת, גם רבים אמרו שחטה היה, והנכון בעיני ששני עצים הם בתוך גן עדן ואינם במקום אחר על כל פני האדמה, והאחד עץ הדעת והוא יוליד תאות המשגל, וע"כ כסו האדם ואשתו ערותם, ופי' ויתפרו ידוע וכן שק תפרתי עלי גלדי (איוב טז טו), והמבקשים מחט מהבילים כי בעץ דק יעשו צרכם, וכאשר אכל אדם מעץ הדעת ידע את אשתו וזאת הידיעה כנוי למשגל ובעבור עץ הדעת נקרא כן, גם הנער כאשר ידע הטוב והרע אז יחל לתאות המשגל,:
@@ -268,9 +268,9 @@ Hebrew (MAM): וַתִּפָּקַ֙חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ
 
 ### Commentary anchored to this verse
 
-- `rashi:3:7:1` Rashi **normative** on 3:7.1 «וַתִּפָּקַ֙חְנָה֙» (matched; filed at 3:7) DH «ותפקחנה וגו'.»: לְעִנְיַן הַחָכְמָה דִּבֵּר הַכָּתוּב וְלֹא לְעִנְיַן רְאִיָּה מַמָּשׁ, וְסוֹף הַמִּקְרָא מוֹכִיחַ:
-- `rashi:3:7:2` Rashi **normative** on 3:7.4 3:7.5 3:7.6 3:7.7 «וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם» (matched; filed at 3:7) DH «וידעו כי עירמים הם.»: אַף הַסּוּמָא יוֹדֵעַ כְּשֶׁהוּא עָרוּם, אֶלָּא מַהוּ וַיֵּדְעוּ כִּי עֵירֻמִּם הֵם? מִצְוָה אַחַת הָיְתָה בְיָדָם וְנִתְעַרְטְלוּ הֵימֶנָּה (בראשית רבה):
-- `rashi:3:7:3` Rashi **normative** on 3:7.9 3:7.10 «עֲלֵ֣ה תְאֵנָ֔ה» (matched; filed at 3:7) DH «עלה תאנה.»: הוּא הָעֵץ שֶׁאָכְלוּ מִמֶּנּוּ, בַּדָּבָר שֶׁנִּתְקַלְקְלוּ בּוֹ נִתַּקְּנוּ (סנהדרין ע'), אֲבָל שְׁאָר הָעֵצִים מְנָעוּם מִלִּטֹּל עַלֵּיהֶם. וּמִפְּנֵי מָה לֹא נִתְפַּרְסֵם הָעֵץ? שֶׁאֵין הַקָּבָּ"ה חָפֵץ לְהוֹנוֹת בְּרִיָּה, שֶׁלֹּא יַכְלִימוּהָ וְיֹאמְרוּ זֶהוּ שֶׁלָּקָה הָעוֹלָם עַל יָדוֹ, מִדְרַשׁ רַבִּי תַנְחוּמָא:
+- `rashi:3:7:1` Rashi on 3:7.1 «וַתִּפָּקַ֙חְנָה֙» (matched; filed at 3:7) DH «ותפקחנה וגו'.»: לְעִנְיַן הַחָכְמָה דִּבֵּר הַכָּתוּב וְלֹא לְעִנְיַן רְאִיָּה מַמָּשׁ, וְסוֹף הַמִּקְרָא מוֹכִיחַ:
+- `rashi:3:7:2` Rashi on 3:7.4 3:7.5 3:7.6 3:7.7 «וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם» (matched; filed at 3:7) DH «וידעו כי עירמים הם.»: אַף הַסּוּמָא יוֹדֵעַ כְּשֶׁהוּא עָרוּם, אֶלָּא מַהוּ וַיֵּדְעוּ כִּי עֵירֻמִּם הֵם? מִצְוָה אַחַת הָיְתָה בְיָדָם וְנִתְעַרְטְלוּ הֵימֶנָּה (בראשית רבה):
+- `rashi:3:7:3` Rashi on 3:7.9 3:7.10 «עֲלֵ֣ה תְאֵנָ֔ה» (matched; filed at 3:7) DH «עלה תאנה.»: הוּא הָעֵץ שֶׁאָכְלוּ מִמֶּנּוּ, בַּדָּבָר שֶׁנִּתְקַלְקְלוּ בּוֹ נִתַּקְּנוּ (סנהדרין ע'), אֲבָל שְׁאָר הָעֵצִים מְנָעוּם מִלִּטֹּל עַלֵּיהֶם. וּמִפְּנֵי מָה לֹא נִתְפַּרְסֵם הָעֵץ? שֶׁאֵין הַקָּבָּ"ה חָפֵץ לְהוֹנוֹת בְּרִיָּה, שֶׁלֹּא יַכְלִימוּהָ וְיֹאמְרוּ זֶהוּ שֶׁלָּקָה הָעוֹלָם עַל יָדוֹ, מִדְרַשׁ רַבִּי תַנְחוּמָא:
 - `ramban:3:7:1` Ramban on 3:7.1 3:7.2 3:7.3 «וַתִּפָּקַ֙חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם» (matched; filed at 3:7) DH «וַתִּפָּקַחְנָה עֵינַי שְׁנֵיהֶם»: לְעִנְיַן הַחָכְמָה דִּבֵּר הַכָּתוּב וְלֹא לְעִנְיַן רְאִיָּה מַמָּשׁ, וְסוֹפוֹ מוֹכִיחַ "וַיֵּדְעוּ כִּי עֵירֻמִּם הֵם", כִּלְשׁוֹן רַשִׁ"י (רש"י על בראשית ג':ז'). וְכֵן "גַּל עֵינַי וְאַבִּיטָה נִפְלָאוֹת מִתּוֹרָתֶךָ" (תהלים קיט יח):
 - `radak:3:7:1` Radak on 3:7.1 3:7.2 3:7.3 «וַתִּפָּקַ֙חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם» (matched; filed at 3:7) DH «וַתִּפָּקַחְנָה עֵינֵי שְׁנֵיהֶם.»: עֵינֵי לְבָבָם, וְזֶהוּ שֶׁאָמַר
 - `radak:3:7:2` Radak on 3:7.4 «וַיֵּ֣דְע֔וּ» (matched; filed at 3:7) DH «וַיֵּדְעוּ»: וְלֹא אָמַר ״וַיִּרְאוּ״, כִּי אֶת אֲשֶׁר רָאוּ עַתָּה הוּא אֶת אֲשֶׁר רָאוּ בַּתְּחִלָּה, אֶלָּא אַחַר שֶׁאָכְלוּ מִפְּרִי הָעֵץ נוֹלְדָה בָּהֶם תַּאֲוַת הַמִּשְׁגָּל וְנִתְקַשָּׁה אֵבֶר הַמִּשְׁגָּל מִן הַתַּאֲוָה, וְהָיָה בֹּשֶׁת לָהֶם מַה שֶּׁהָיָה אֵבֶר בְּגוּפָם יוֹצֵא מִתַּחַת רְשׁוּתָם, וְהִיא מִדָּה כְּנֶגֶד מִדָּה שֶׁהֵם יָצְאוּ מִן הָרְשׁוּת הָאֵל וּמִמִּצְוֹתָיו; וְעוֹד כִּי דְבַר הַמִּשְׁגָּל הוּא דָּבָר מְגֻנֶּה וּמְכֹעָר לוּלֵי שֶׁיֵּשׁ בּוֹ צֹרֶךְ לְהַשְׁאִיר הַזֶּרַע, וּמִפְּנֵי זֶה הִתְבּוֹשְׁשׁוּ זֶה מִזֶּה גַּם מֵהָאֵל שֶׁהִתְחַבְּאוּ מִמֶּנּוּ.
@@ -327,9 +327,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
@@ -370,33 +373,52 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:e.az.ae` יהוה (n.pr.dei) root הוה: Yahweh, the one bringing into being, life-giver
+- `I` Yahweh, the one bringing into being, life-giver — יהוה is not used by E in Gn, but is given Ex 3:12-15 as the name of the God who revealed Himself to Moses at Horeb
+- `II.1` Yahweh, the one bringing into being, life-giver — יהוה is used with אלהים and suffixes, especially in D
+- `II.2` Yahweh, the one bringing into being, life-giver — the phrase † אֲנִי יהוה is noteworthy
+- `II.3` Yahweh, the one bringing into being, life-giver — יהוה is also used with several predicates, to form sacred names of holy places of Yahweh
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:e.bs.aa` הֵ֫מָּה (pron): they
 
 ### `bdb:h.ap.ad` חֲגוֹרָה (n.f) root חגר: girdle, loin-covering, belt
 
 ### `bdb:h.cd.ad` חַיָּה (n.f) root חיה: living thing, animal
+- `1.a` animal — in general
 - `1.b` wild animals
 - `1.c` living beings
 - `1` animal
@@ -458,6 +480,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:k.bg.aa` כִּי (conj): that, for, when
 - `1` that
@@ -469,7 +492,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.ab.aa` לֹא (adv): not
 
@@ -503,21 +529,31 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1` Qal die
 - `Qal 2` Qal die, be put to death
 - `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
 - `Hoph` Hoph be killed, put to death
 
 ### `bdb:m.cl.aa` מִן־ (prep): out of, from, on account of, off, on the side of, since, above, than, so that not
 - `1.a` from, against
 - `1.b` away from, far from
 - `1.c` off, on the side of, on
+- `1` out of, from, on account of, off, on the side of, since, above, than, so that not — with verbs expressing (or implying) separation or removal
 - `2` Out of
+- `3` out of, from, on account of, off, on the side of, since, above, than, so that not — Partitively
 - `4.a` from, since
 - `4.b` after
 - `4.c` towards, to
+- `4` out of, from, on account of, off, on the side of, since, above, than, so that not — Of time—
 - `5` from … even to
 - `6` beyond, above
 - `7.a` from, on account of, through
+- `7.b` out of, from, on account of, off, on the side of, since, above, than, so that not — after verbs implying restraint, prevention, cessation, etc
 - `7.c` since, after
+- `7` out of, from, on account of, off, on the side of, since, above, than, so that not — מן is prefixed to an infin
 - `8` that
+- `9` out of, from, on account of, off, on the side of, since, above, than, so that not — In compounds
 
 ### `bdb:n.aw.aa` נָגַע (vb) root נגע: touch, reach, strike
 - `Qal 1.a` Qal touch
@@ -532,6 +568,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:n.cu.ab` נָחָשׁ (n.m) root נחשׁ: serpent
 - `1` serpent
+- `2` serpent — bronze image of serpent
 - `3` fleeing serpent
 
 ### `bdb:n.gg.aa` נָתַן (vb) root נתן: give, put, set
@@ -549,10 +586,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:p.bq.ad` עָרוֹם (adj) root עור: naked
 
 ### `bdb:p.ck.aa` עַ֫יִן (n.f) root עין: eye
+- `1` eye — lit. as physical organ
+- `2.a` eye — eyes as showing mental qualities
 - `2.b` desire of the eyes, abominations of the eyes
-- `2.a` surface
-- `2.b#3` appearance
+- `3` eye — Fig. of mental and physical faculties, acts and states
+- `2.a#5` surface
+- `2.b#6` appearance
 - `2.c` gleam, sparkle
+- `2` eye — Transferred mngs
 - `5` an eye for an eye, eye to eye, in the presence of, in full view of, on the forehead
 
 ### `bdb:p.cs.ab` עָלֶה (n.m) root עלה: leaf, leafage
@@ -565,18 +606,21 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.e` together with
 - `1.f` aid
 - `1.g` as long as
+- `1` with — of fellowship and companionship
 - `2` close to, beside
 - `3.a` in the house, family, service of
 - `3.b` In possession of
 - `3.c` In the custody, care of
 - `3.d` Beside, except
 - `3.e` With, friendly with
+- `3` with — Of persons, עִם is spec
 - `4` with
 - `5` together with, in spite of, notwithstanding
 
 ### `bdb:p.em.ab` עֵץ (n.m) root עצה: tree, trees, wood
 - `1.a` tree
 - `1.b` trees
+- `1` tree, trees, wood — (c. 150 t.)
 - `2` pieces, of wood
 
 ### `bdb:p.fn.ad` עָרוּם (adj) root ערם: crafty, shrewd, sensible
@@ -607,6 +651,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pu` Pu I was made
 
 ### `bdb:q.bt.af` פֶּן־ (conj): lest
+- `1` lest — with impf
+- `2` lest — with Pf., the result feared being conceived as having possibly already taken place
 
 ### `bdb:q.cp.aa` פָּקַח (vb) root פקח: open
 - `Qal 1` Qal open
@@ -626,6 +672,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4` Qal see, have, vision
 - `Qal 5` Qal see
 - `Qal 6` Qal look at, see
+- `Qal 7` Qal see — of mental observation
 - `Qal 8.a` Qal look into, look at
 - `Qal 8.b` Qal see
 - `Niph 1` Niph appear

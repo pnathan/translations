@@ -11,7 +11,7 @@
   "unitMax": 8,
   "text": {"sefaria": "Genesis", "version": "Miqra according to the Masorah", "name": "MAM"},
   "commentators": [
-    {"key": "rashi", "name": "Rashi", "he": "רש״י", "sefaria": "Rashi_on_Genesis", "version": "Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934", "normative": true},
+    {"key": "rashi", "name": "Rashi", "he": "רש״י", "sefaria": "Rashi_on_Genesis", "version": "Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934"},
     {"key": "ibn-ezra", "name": "Ibn Ezra", "he": "אבן עזרא", "sefaria": "Ibn_Ezra_on_Genesis", "version": "Piotrkow, 1907-1911", "normative": true},
     {"key": "ramban", "name": "Ramban", "he": "רמב״ן", "sefaria": "Ramban_on_Genesis", "version": "Vocalized Edition"},
     {"key": "radak", "name": "Radak", "he": "רד״ק", "sefaria": "Radak_on_Genesis", "version": "Vocalized Edition"},

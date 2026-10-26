@@ -109,7 +109,7 @@ Hebrew (MAM): אֵ֤לֶּה בְנֵֽי־שֵׂעִיר֙ הַחֹרִ֔י י�
 
 ### Commentary anchored to this verse
 
-- `rashi:36:20:1` Rashi **normative** on 36:20.5 36:20.6 «יֹשְׁבֵ֖י הָאָ֑רֶץ» (matched; filed at 36:20) DH «ישבי הארץ.»: שֶׁהָיוּ יוֹשְׁבֶיהָ קֹדֶם שֶׁבָּא עֵשָׂו לְשָׁם. וְרַבּוֹתֵינוּ דָּרְשׁוּ (שבת פ"ה) שֶׁהָיוּ בְּקִיאִין בְּיִשּׁוּבָהּ שֶׁל אֶרֶץ; מְלֹא קָנֶה זֶה לְזֵיתִים, מְלֹא קָנֶה זֶה לִגְפָנִים, שֶׁהָיוּ טוֹעֲמִין הֶעָפָר וְיוֹדְעִין אֵי זוֹ נְטִיעָה רְאוּיָה לוֹ:
+- `rashi:36:20:1` Rashi on 36:20.5 36:20.6 «יֹשְׁבֵ֖י הָאָ֑רֶץ» (matched; filed at 36:20) DH «ישבי הארץ.»: שֶׁהָיוּ יוֹשְׁבֶיהָ קֹדֶם שֶׁבָּא עֵשָׂו לְשָׁם. וְרַבּוֹתֵינוּ דָּרְשׁוּ (שבת פ"ה) שֶׁהָיוּ בְּקִיאִין בְּיִשּׁוּבָהּ שֶׁל אֶרֶץ; מְלֹא קָנֶה זֶה לְזֵיתִים, מְלֹא קָנֶה זֶה לִגְפָנִים, שֶׁהָיוּ טוֹעֲמִין הֶעָפָר וְיוֹדְעִין אֵי זוֹ נְטִיעָה רְאוּיָה לוֹ:
 - `ibn-ezra:36:20:1` Ibn Ezra **normative** on 36:20.3 «שֵׂעִיר֙» (matched; filed at 36:20) DH «שעיר.»: לא ידענו יחוסו, והזכירם הכתוב להפריש יחוסי שעיר ועשו כי ישראל יצוו על בני עשו
 - `ibn-ezra:36:20:2` Ibn Ezra **normative** on 36:20.4 «הַחֹרִ֔י» (matched-unbolded; filed at 36:20) DH «החורי,»: החורי, כמו חורי יהודה (ירמי' כז, כ) וטעמו גדולה ויתכן להיות מגזרת "ואורנים חורי" (ישעי, יט ט) שהוא לובן וכן אמר התרגום, ונמשלו הסגנים בלובן בעבור שאין בעינים כמוהו והוא כאור והפך זה "בל יתיצב לפני חשוכים" (משלי כב כט):
 - `ramban:36:20:1` Ramban on 36:20.1 36:20.2 36:20.3 36:20.4 «אֵ֤לֶּה בְנֵֽי שֵׂעִיר֙ הַחֹרִ֔י» (matched; filed at 36:20) DH «אֵלֶּה בְּנֵי שֵׂעִיר הַחֹרִי»: הַחֹרִי שֵׁם אִישׁ הָיָה אֲבִי אֻמָּה קַדְמוֹנִית תִּקָּרֵא עַל שְׁמוֹ כְּמוֹ הָאֱמוֹרִי וְהַפְּרִזִּי, כְּמוֹ שֶׁנֶּאֱמַר (דברים ב כב) "אֲשֶׁר הִשְׁמִיד אֶת הַחֹרִי מִפְּנֵיהֶם", וְנִקְרָא שֵׂעִיר עַל שֵׁם הָאָרֶץ שֶׁנִּקְרֵאת שֵׂעִיר, וְהַשֵּׁם הַזֶּה הָיָה לָאָרֶץ מִן עֵשָׂו שֶׁהוּא אִישׁ שֵׂעִיר מִיּוֹם שֶׁהָלַךְ שָׁם וְאֵילָךְ, וְכֵן שֵׁם אֱדוֹם מִמֶּנּוּ הָיָה, אֲבָל הַכָּתוּב הִפְרִישׁ בֵּינֵיהֶם, כִּי אֵלֶּה הֵם בְּנֵי שֵׂעִיר הַחוֹרִי שֶׁהָיוּ יוֹשְׁבֵי הָאָרֶץ לְמַבָּרִאשׁוֹנָה, לֹא בְּנֵי שֵׂעִיר הָאֲדוֹמִי אֲשֶׁר בָּא שָׁם, וְעוֹד אֲפָרֵשׁ יִחוּס הַחוֹרִי בְּמִשְׁנֵה תּוֹרָה (דברים ב י) בְּעֶזְרַת הַשֵּׁם. וְכָתַב רַבִּי אַבְרָהָם (אבן עזרא על בראשית ל"ו:כ'), הִזְכִּיר הַכָּתוּב זֶה לְהַפְרִישׁ יִחוּסֵי שֵׂעִיר וְעֵשָׂו, כִּי יִשְׂרָאֵל יְצֻוּוּ עַל בְּנֵי עֵשָׂו. וְרַשִׁ"י כָּתַב (רש"י על בראשית ל"ו:כ"ד), לֹא הֻזְקַק לִכְתֹּב מִשְׁפְּחוֹת הַחוֹרִי אֶלָּא מִפְּנֵי תִּמְנַע לְהוֹדִיעַ גְּדֻלַּת אַבְרָהָם:
@@ -209,9 +209,9 @@ Hebrew (MAM): וְאֵ֥לֶּה בְנֵֽי־צִבְע֖וֹן וְאַיָּ
 
 ### Commentary anchored to this verse
 
-- `rashi:36:24:1` Rashi **normative** on 36:24.4 36:24.5 «וְאַיָּ֣ה וַעֲנָ֑ה» (matched; filed at 36:24) DH «ואיה וענה.»: וָי"ו יְתֵרָה, וְהוּא כְּמוֹ אַיָּה וַעֲנָה, וְהַרְבֵּה יֵשׁ בַּמִּקְרָא, תֵּת וְקֹדֶשׁ וְצָבָא מִרְמָס (דניאל ח'), נִרְדָּם וְרֶכֶב וָסוּס (תהילים ע"ו):
-- `rashi:36:24:2` Rashi **normative** on 36:24.6 36:24.7 «ה֣וּא עֲנָ֗ה» (matched; filed at 36:24) DH «הוא ענה.»: הָאָמוּר לְמַעְלָה שֶׁהוּא אָחִיו שֶׁל צִבְעוֹן וְכָאן הוּא קוֹרֵא אוֹתוֹ בְּנוֹ? מְלַמֵּד שֶׁבָּא צִבְעוֹן עַל אִמּוֹ וְהוֹלִיד אֶת עֲנָה:
-- `rashi:36:24:3` Rashi **normative** on 36:24.10 36:24.11 «אֶת הַיֵּמִם֙» (matched; filed at 36:24) DH «את הימם.»: פְּרָדִים, הִרְבִּיעַ חֲמוֹר עַל סוּס נְקֵבָה וְיָלְדָה פֶּרֶד, וְהוּא הָיָה מַמְזֵר וְהֵבִיא פְסוּלִין לָעוֹלָם; וְלָמָּה נִקְרָא שְׁמָם יֵמִים? שֶׁאֵימָתָן מֻטֶּלֶת עַל הַבְּרִיּוֹת, דְּאָמַר רַבִּי חֲנִינָא מִיָּמַי לֹא שְׁאָלַנִי אָדָם עַל מַכַּת פִּרְדָּה לְבָנָה וְחָיָה (חולין ז') (וַהֲלֹא קָא חֲזִינָן דְּחָיָה? אַל תִּקְרֵי וְחָיָה אֶלָּא וְחָיְתָה, כִּי הַמַּכָּה לֹא תֵּרָפֵא לְעוֹלָם, בְרַשִׁ"י יָשָׁן) וְלֹא הֻזְקַק לִכְתֹּב לָנוּ מִשְׁפְּחוֹת הַחוֹרִי אֶלָּא מִפְּנֵי תִּמְנָע, וּלְהוֹדִיעַ גְּדֻלַּת אַבְרָהָם, כְּמוֹ שֶׁפֵּרַשְׁתִּי לְמַעְלָה:
+- `rashi:36:24:1` Rashi on 36:24.4 36:24.5 «וְאַיָּ֣ה וַעֲנָ֑ה» (matched; filed at 36:24) DH «ואיה וענה.»: וָי"ו יְתֵרָה, וְהוּא כְּמוֹ אַיָּה וַעֲנָה, וְהַרְבֵּה יֵשׁ בַּמִּקְרָא, תֵּת וְקֹדֶשׁ וְצָבָא מִרְמָס (דניאל ח'), נִרְדָּם וְרֶכֶב וָסוּס (תהילים ע"ו):
+- `rashi:36:24:2` Rashi on 36:24.6 36:24.7 «ה֣וּא עֲנָ֗ה» (matched; filed at 36:24) DH «הוא ענה.»: הָאָמוּר לְמַעְלָה שֶׁהוּא אָחִיו שֶׁל צִבְעוֹן וְכָאן הוּא קוֹרֵא אוֹתוֹ בְּנוֹ? מְלַמֵּד שֶׁבָּא צִבְעוֹן עַל אִמּוֹ וְהוֹלִיד אֶת עֲנָה:
+- `rashi:36:24:3` Rashi on 36:24.10 36:24.11 «אֶת הַיֵּמִם֙» (matched; filed at 36:24) DH «את הימם.»: פְּרָדִים, הִרְבִּיעַ חֲמוֹר עַל סוּס נְקֵבָה וְיָלְדָה פֶּרֶד, וְהוּא הָיָה מַמְזֵר וְהֵבִיא פְסוּלִין לָעוֹלָם; וְלָמָּה נִקְרָא שְׁמָם יֵמִים? שֶׁאֵימָתָן מֻטֶּלֶת עַל הַבְּרִיּוֹת, דְּאָמַר רַבִּי חֲנִינָא מִיָּמַי לֹא שְׁאָלַנִי אָדָם עַל מַכַּת פִּרְדָּה לְבָנָה וְחָיָה (חולין ז') (וַהֲלֹא קָא חֲזִינָן דְּחָיָה? אַל תִּקְרֵי וְחָיָה אֶלָּא וְחָיְתָה, כִּי הַמַּכָּה לֹא תֵּרָפֵא לְעוֹלָם, בְרַשִׁ"י יָשָׁן) וְלֹא הֻזְקַק לִכְתֹּב לָנוּ מִשְׁפְּחוֹת הַחוֹרִי אֶלָּא מִפְּנֵי תִּמְנָע, וּלְהוֹדִיעַ גְּדֻלַּת אַבְרָהָם, כְּמוֹ שֶׁפֵּרַשְׁתִּי לְמַעְלָה:
 - `ibn-ezra:36:24:1` Ibn Ezra **normative** on 36:24.4 36:24.5 «וְאַיָּ֣ה וַעֲנָ֑ה» (matched; filed at 36:24) DH «ואיה ענה.»: פי' הוי"ו כפ"א רפה בלשון ישמעאל ובר"ה איננו:
 - `ibn-ezra:36:24:2` Ibn Ezra **normative** on 36:24.11 «הַיֵּמִם֙» (matched; filed at 36:24) DH «הימים.»: , כמו "האימים לפנים" (דבר' ב יוד), כי ימצא האל"ף שיתחלף ביו"ד כמו יתימרו, ויאמר הגאון שהם פרדים ופי' מצא הרכיב ויתכן להיות מצא שהוא מצא בתחלה זאת החכמה, כי מין אחד עם מין אחר לא יולידו, ויחזיק זה הפירוש שאמר הכתוב ברעותו את החמורים, ואילו היו הימים צמחים כאשר פי' רבים מה טעם להזכיר החמורים:
 - `ramban:36:24:1` Ramban on 36:24.1 36:24.2 36:24.3 36:24.4 36:24.5 «וְאֵ֥לֶּה בְנֵֽי צִבְע֖וֹן וְאַיָּ֣ה וַעֲנָ֑ה» (matched; filed at 36:24) DH «וְאֵלֶּה בְנֵי צִבְעוֹן וְאַיָּה וַעֲנָה»: הַוָּי"ו יְתֵרָה, וְכֵן "עֶבֶד אָבִיךָ וַאֲנִי מֵאָז וְעַתָּה וַאֲנִי עַבְדֶּךָ" (שמו"ב טו לד) דִּין שְׁנֵיהֶם אֲנִי, "וְאֵלֶּה רָאשֵׁי בֵית אֲבוֹתָם וְעֵפֶר וְיִשְׁעִי" (דהי"א ה כד), וּכְמוֹהֶם רַבִּים. וְהִנֵּה צִבְעוֹן זֶה הוּא הַבֵּן הַשְּׁלִישִׁי לְשֵׂעִיר הַחוֹרִי, וְהוֹלִיד שְׁנֵי בָּנִים אֵלּוּ, אַיָּה וַעֲנָה, וְסִפֵּר הַכָּתוּב כִּי עֲנָה זֶה בֶּן צִבְעוֹן הוּא אוֹתוֹ עֲנָה שֶׁמָּצָא הַיֵּמִם בַּמִּדְבָּר בִּרְעוֹתוֹ הַחֲמוֹרִים שֶׁל צִבְעוֹן אָבִיו, לְהַבְדִּיל בֵּינוֹ וּבֵין עֲנָה דּוֹדוֹ אֲחִי צִבְעוֹן אָבִיו, וְזֶה עֲנָה בֶּן צִבְעוֹן הוּא חָמִיו שֶׁל עֵשָׂו:
@@ -249,17 +249,29 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` land of Edom, Idumaea
 
 ### `bdb:a.bl.ag` אׇהֳלִיבָמָה (n.pr): Ohŏlibama, tent of high place
+- `1` Ohŏlibama, tent of high place — f. wife of Esau
+- `2` Ohŏlibama, tent of high place — m. as Edomite chief
 
 ### `bdb:a.bv.ad` אַיָּה (n.pr.m): falcon
+- `1` falcon — a Horite
+- `2` falcon — father of Rizpah
 
 ### `bdb:a.cb.ae` אוֹנָם (n.pr.m): vigorous
+- `1` vigorous — chief of Horites
+- `1#2` vigorous — chief of tribe of Judah
 
 ### `bdb:a.ck.bg` אָחוֹת (n.f) root אחה: sister
 - `1` sister
+- `2` sister — = beloved
+- `3` sister — symbol. of Judah, Samaria, Sodom & Jerusalem
+- `4` sister — fig. of intimate connection
 - `5` another
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.dt.ac` אַלּוּף (n.m) root אלף: chief, chiliarch
 
@@ -275,14 +287,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
@@ -294,57 +314,93 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:b.di.ad` בָּֽשְׂמַת (n.pr.f): perfume
+- `1` perfume — Hittite woman, a wife of Esau
+- `2` perfume — daughter of Solomon, wife of Ahimaaz
 
 ### `bdb:d.ai.ap` מִדְבָּר (n.m) root דבר: wilderness
+- `1` wilderness — tracts of land, used for the pasturage of flocks and herds
 - `2` uninhabited land
 - `3` large tracts
+- `4` wilderness — fig
 
 ### `bdb:d.ba.ae` דִּישֹׁן (n.pr.m): Dishon
+- `1` a son of Seir
+- `2` a son of Anah & grandson of Seir
 
 ### `bdb:d.ba.af` דִּישָׁן (n.pr.m): Dishan
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:e.bv.ab` הֵימָם (n.pr.m): Hemam
 
 ### `bdb:g.cj.ac` זֶ֫רַח (n.pr.m): Zarah
+- `1` son of Judah and Tamar
+- `2` Edomites
+- `3` Levites
+- `4` head of Simeonite family
+- `5` a Cushite
 
 ### `bdb:h.dq.ab` חֲמוֹר (n.m) root חמר: (he)-ass
 
 ### `bdb:h.gi.ad` חֹרִי (adj): cave-dweller
 - `1` Seir the Horite
+- `2` cave-dweller — n.pr.gent. ancient inhabitants of land of Edom
+- `3.a` cave-dweller — an Edomite
+- `3.b` cave-dweller — a Simeonite
+- `3` cave-dweller — n.pr.pers.m
 
 ### `bdb:j.br.ac` יֵמִם (n.[m.]) root ימם: hot springs
 
@@ -354,6 +410,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1.c` Qal sit down
 - `Qal 1.d` Qal sit, be set
 - `Qal 2.a` Qal remain, stay, tarry
+- `Qal 2.b` Qal sit, remain, dwell — with special emphasis of qualifying phr
 - `Qal 3` Qal dwell, have one’s abode
 - `Qal 4` Qal sit, abide, seated in its place, be inhabited
 - `Niph` Niph be inhabited
@@ -370,11 +427,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:m.bg.ac` מִזָּה (n.pr.m): Mizzah
 
 ### `bdb:m.cp.ac` תִּמְנָע (n.pr.m): Timna
+- `1.a` a chief of Edom
+- `1.b` son of Eliphaz
+- `1` n.pr.m
+- `2` f. sister of Lotan (of Seir); concubine of Eliphaz son of Esau
 
 ### `bdb:m.db.aa` מָצָא (vb) root מצא: attain to, find
 - `Qal 1` Qal find
 - `Qal 2` Qal find out
 - `Qal 3` Qal come upon, light upon
+- `Qal 4` Qal attain to, find — noteworthy phrases
 - `Niph` Niph be found
 - `Hiph 1` Hiph cause to find, attain
 - `Hiph 2` Hiph cause to light upon, come upon, come
@@ -384,10 +446,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:n.by.aq` מָנַ֫חַת (n.pr.m): Manahath
 
 ### `bdb:n.cy.ad` נַ֫חַת (n.pr.m): Nahath
+- `1` son of Reuel, grandson of Esau
+- `2` grandson of Elkanah
+- `3` an overseer, Hezekiah's time
 
 ### `bdb:p.af.ad` עֵיבָל (n.pr.m): Ebal
 
 ### `bdb:p.bs.ab` יְעוּשׁ (n.pr.m): he comes to help
+- `1` he comes to help — son of Esau
+- `2` he comes to help — Benjamites
+- `3` he comes to help — a Levite
+- `4` he comes to help — son of Rehoboam
 
 ### `bdb:p.cs.au` עַלְוָן (n.pr.m): Alian
 
@@ -400,16 +469,38 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:r.al.ab` צִבְעוֹן (n.pr.m): hyena
 
 ### `bdb:s.dd.af` קֹ֫רַח (n.pr.m): baldness
+- `1` baldness — Edomite name
+- `2` baldness — Levite, rebel ag. Moses
+- `3` baldness — a ‘son’ of Hebron, i.e. Judahite clan
 
 ### `bdb:t.dk.aa` רָעָה (vb) root רעה: pasture, tend, graze
+- `Qal 1` Qal pasture, tend, graze — trans
+- `Qal 2` Qal pasture, tend, graze — intrans
+- `Niph` Niph . poss (Niph of: pasture, tend, graze)
+- `Hiph` Hiph . v (Hiph of: pasture, tend, graze)
 
 ### `bdb:t.dl.aj` רְעוּאֵל (n.pr.m): Raguel
+- `1` Moses’ father-in-law
+- `2` Edomite
+- `3` Gadite
+- `4` Benjamite
 
 ### `bdb:u.bs.am` שֵׂעִיר (n.pr) root שׂער: Sē‛ir
+- `1.a` Sē‛ir — terr. land of Edom, S. of Dead Sea
+- `1.b` Sē‛ir — specif. mont. E. of Arabah
+- `1.c` Sē‛ir — gent. = Edom
+- `1.d` Sē‛ir — personif. as m
+- `2` Sē‛ir — mont. in Judah
 
 ### `bdb:v.as.af` שׁוֹבָל (n.pr.m): Shobal
+- `1` Edomite name
+- `2.a` in Caleb
+- `2.b` in Judah
 
 ### `bdb:v.ea.ag` שַׁמָּה (n.pr.m): Shammah
+- `1` in Edom
+- `2` third son of Jesse
+- `3` heroes of David
 
 ### `bdb:v.fd.ac` שְׁפוֹ (n.pr.m): Shephi
 

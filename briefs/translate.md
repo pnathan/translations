@@ -11,9 +11,10 @@ You translate one unit of Hebrew text into English. The result is the text of an
 
 1. Translate from the Hebrew in the pack. Correctness is the only test: an English phrase that agrees with a published translation is acceptable when it is the correct rendering. Do not copy a published translation in place of reading the Hebrew.
 2. The morphology and lexicon in the pack are data from fetched sources. Do not contradict them. If you think one is wrong, keep the data and say so in `note`.
-3. The commentators marked **normative** decide the plain sense. For Genesis these are Rashi and Ibn Ezra; for Avot, Bartenura and Rambam. Where they agree on a reading that bears on the English, the English follows it. Where they differ, choose one reading and record the other with `records`.
+3. The commentators marked **normative** decide the plain sense. For Genesis from chapter 18 this is Ibn Ezra alone (see the work's decisions); for Avot, Bartenura and Rambam. Where they agree on a reading that bears on the English, the English follows it. Where they differ, choose one reading and record the other with `records`. Other commentators, Rashi among them for Genesis, are weighed where they bear on the words; a midrashic reading is not the plain sense.
 4. Do not leave out the Hebrew's difficulties. If a word is ambiguous, keep the ambiguity in the English, or choose one sense and give the other in `note` or `apparatus`.
 5. Write English only in `english`: no Hebrew letters. Hebrew is allowed in the notes.
+6. Where the work's decisions ask for it (Genesis), render the world of the text as its own time understood it, and put what a reader needs of the ancient Near Eastern setting in `context`.
 
 ## Output
 
@@ -43,7 +44,8 @@ Write `works/<work>/stage/translate/<unit>.json`:
       "commentary": [
         {"anchor": "rashi:1:1:2", "relation": "follows", "summary": "Rashi: רֵאשִׁית is always bound to the next word, so the verse is a time clause ..."}
       ],
-      "apparatus": ["variant readings or open questions, one per line"]
+      "apparatus": ["variant readings or open questions, one per line"],
+      "context": ["the ancient Near Eastern setting of a word or custom, one note per line"]
     }
   ]
 }
@@ -66,6 +68,8 @@ The example values show the format only; they are not decisions.
   - `not-applicable`: the comment does not bear on the plain sense: homily, law, a cross-reference.
 
   `summary` gives in English, in one to three sentences, what the commentator says about the words. Quote his Hebrew where it matters.
+
+- `context` (optional): notes on the ancient setting where a reader needs one: an object, a measure, a title, an institution, a custom, a name, the picture of the world. State what is established; where scholars disagree, say so and give the positions. Cite no modern book, article or excavation by title, page or date. Do not invent: if you are not sure of a fact, leave it out.
 
 ## Check
 

@@ -32,7 +32,7 @@ Hebrew (MAM): וַיָּ֣קׇם ׀ שְׂדֵ֣ה עֶפְר֗וֹן אֲשֶׁ
 
 ### Commentary anchored to this verse
 
-- `rashi:23:17:1` Rashi **normative** on 23:17.1 23:17.2 23:17.3 «וַיָּ֣קׇם שְׂדֵ֣ה עֶפְר֗וֹן» (matched; filed at 23:17) DH «ויקם שדה עפרון.»: תְּקוּמָה הָיְתָה לוֹ, שֶׁיָּצָא מִיַּד הֶדְיוֹט לְיַד מֶלֶךְ; וּפְשׁוּטוֹ שֶׁל מִקְרָא וַיָּקָם הַשָּׂדֶה וְהַמְּעָרָה אֲשֶׁר בּוֹ וְכָל הָעֵץ לְאַבְרָהָם לְמִקְנָה וגו':
+- `rashi:23:17:1` Rashi on 23:17.1 23:17.2 23:17.3 «וַיָּ֣קׇם שְׂדֵ֣ה עֶפְר֗וֹן» (matched; filed at 23:17) DH «ויקם שדה עפרון.»: תְּקוּמָה הָיְתָה לוֹ, שֶׁיָּצָא מִיַּד הֶדְיוֹט לְיַד מֶלֶךְ; וּפְשׁוּטוֹ שֶׁל מִקְרָא וַיָּקָם הַשָּׂדֶה וְהַמְּעָרָה אֲשֶׁר בּוֹ וְכָל הָעֵץ לְאַבְרָהָם לְמִקְנָה וגו':
 - `ibn-ezra:23:17:1` Ibn Ezra **normative** on 23:17.1 «וַיָּ֣קׇם» (matched; filed at 23:17) DH «ויקם.»: נתקיים ועמד השדה למקנה, והנה זה הפסוק דבק עם הפסוק שהוא למעלה וכן "גר ותושב אנכי" (בראשית כג ד) והעשרה שהזכיר הגאון אינם דבקים, וטעם:
 - `radak:23:17:1` Radak on 23:17.1 «וַיָּ֣קׇם» (matched; filed at 23:17) DH «וַיָּקָם.»: קָם לְאַבְרָהָם לְמִקְנָה, וְכֵן ״וְקָם לוֹ״ (ויקרא כז:יט), כְּלוֹמַר נִתְקַיֵּם בְּיָדוֹ.
 - `radak:23:17:2` Radak on 23:17.4 23:17.7 23:17.8 «אֲשֶׁר֙ לִפְנֵ֣י מַמְרֵ֑א» (matched; filed at 23:17) DH «אֲשֶׁר לִפְנֵי מַמְרֵא.»: הַשָּׂדֶה וְהַמְּעָרָה הָיוּ לִפְנֵי הָעִיר, וְהָעִיר נִקְרֵאת מַמְרֵא וְנִקְרֵאת חֶבְרוֹן כְּמוֹ שֶׁכָּתוּב ״עַל פְּנֵי מַמְרֵא הִיא חֶבְרוֹן״ (בראשית כג:יט).
@@ -58,7 +58,7 @@ Hebrew (MAM): לְאַבְרָהָ֥ם לְמִקְנָ֖ה לְעֵינֵ֣י �
 
 ### Commentary anchored to this verse
 
-- `rashi:23:18:1` Rashi **normative** on 23:18.6 23:18.7 23:18.8 23:18.9 «בְּכֹ֖ל בָּאֵ֥י שַֽׁעַר עִירֽוֹ׃» (matched; filed at 23:18) DH «בכל באי שער עירו.»: בְּקֶרֶב כֻּלָּם וּבְמַעֲמַד כֻּלָּם הִקְנָהוּ לוֹ:
+- `rashi:23:18:1` Rashi on 23:18.6 23:18.7 23:18.8 23:18.9 «בְּכֹ֖ל בָּאֵ֥י שַֽׁעַר עִירֽוֹ׃» (matched; filed at 23:18) DH «בכל באי שער עירו.»: בְּקֶרֶב כֻּלָּם וּבְמַעֲמַד כֻּלָּם הִקְנָהוּ לוֹ:
 - `ibn-ezra:23:18:1` Ibn Ezra **normative** on 23:18.3 23:18.4 23:18.5 «לְעֵינֵ֣י בְנֵי חֵ֑ת» (matched; filed at 23:18) DH «לעיני בני חת.»: את אנשי המקום, וטעם:
 - `ibn-ezra:23:18:2` Ibn Ezra **normative** on whole 23:18 (verse; filed at 23:18) DH «לכל באי שער עירו.»: כל עובר ושב:
 - `radak:23:18:1` Radak on 23:18.3 23:18.4 23:18.5 «לְעֵינֵ֣י בְנֵי חֵ֑ת» (matched; filed at 23:18) DH «לְעֵינֵי בְנֵי־חֵת.»: לְעֵינֵיהֶם שָׁקַל הַכֶּסֶף לְעֶפְרוֹן, וּלְעֵינֵיהֶם מָכַר לוֹ עֶפְרוֹן, וְעָשָׂה לוֹ סֵפֶר מִקְנָה.
@@ -138,8 +138,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.di.aa` אֶל (prep): motion to, direction towards
@@ -163,14 +165,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
@@ -179,6 +189,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
 - `1` together with
+- `2` with, proximity — Of localities
+- `3.a` with, proximity — in one's possession or keeping
+- `3.b` with, proximity — in one's knowledge or memory
+- `3` with, proximity — אֵת פּ׳ denotes specially
 - `4` from proximity with
 
 ### `bdb:b.ap.aa` בּוֹא (vb) root בוא: come in, come, go in, go
@@ -197,9 +211,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:c.aj.ab` גְּבוּל (n.m) root גבל: border, boundary, territory
 - `1` border, boundary
@@ -207,7 +224,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:h.ai.al` חֶבְרוֹן (n.pr.loc) root חבר: Hebron, association, league
 
@@ -216,11 +238,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:k.by.aa` כֵּן (adv): so
 
 ### `bdb:k.cd.ac` כְּנַ֫עַן (n.pr.m): Canaan
+- `1` Canaan — as n. pr. m., son of Ham
+- `2.a` Canaan — land, W. of Jordan, into wh. Hebrews came, and where they settled, subduing the inhabitants
+- `2.b` Canaan — the coast, esp. Phoenicia
 
 ### `bdb:k.cp.ac` מַכְפֵּלָה (n.pr.loc) root כפל: Machpelah
 
@@ -229,17 +257,26 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:o.ad.ac` סָבִיב (subst) root סבב: circuit, round about
 
 ### `bdb:p.ck.aa` עַ֫יִן (n.f) root עין: eye
+- `1` eye — lit. as physical organ
+- `2.a` eye — eyes as showing mental qualities
 - `2.b` desire of the eyes, abominations of the eyes
-- `2.a` surface
-- `2.b#3` appearance
+- `3` eye — Fig. of mental and physical faculties, acts and states
+- `2.a#5` surface
+- `2.b#6` appearance
 - `2.c` gleam, sparkle
+- `2` eye — Transferred mngs
 - `5` an eye for an eye, eye to eye, in the presence of, in full view of, on the forehead
 
 ### `bdb:p.cm.ad` עִיר (n.f): city, town
 - `1` city, town
+- `2` city, town — of fortress in a city
+- `3` city, town — appar. fortified place, of any size
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -251,19 +288,26 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.eh.af` עֶפְרוֹן (n.pr): Ephron
+- `1` m. Hittite, Abr.’s time
+- `2` loc. Kt
+- `3` mont. on N. border of Judah
 
 ### `bdb:p.em.ab` עֵץ (n.m) root עצה: tree, trees, wood
 - `1.a` tree
 - `1.b` trees
+- `1` tree, trees, wood — (c. 150 t.)
 - `2` pieces, of wood
 
 ### `bdb:p.ft.ab` מְעָרָה (n.f) root ערר: cave
@@ -276,11 +320,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `I.4` face
 - `I.5` face, surface
 - `I.6` before
+- `I.7` face, faces — for other phrases
+- `II` face, faces — with prepositions
 
 ### `bdb:s.ah.aa` קָבַר (vb) root קבר: bury
 - `Qal` Qal bury
 - `Niph` Niph be buried
 - `Pi` Pi bury
+- `Pu` Pu . Gn 25:10 (Pu of: bury)
 
 ### `bdb:s.ah.ab` קֶ֫בֶר (n.m) root קבר: grave, sepulchre
 
@@ -303,12 +350,13 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 1` Hiph cause to arise, raise
 - `Hiph 2.a` Hiph raise, set up
 - `Hiph 2.b` Hiph erect, build
+- `Hiph 2.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 3` Hiph raise up
 - `Hiph 4.a` Hiph raise up
 - `Hiph 4.b` Hiph instigate, build
+- `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- `Hiph 6` Hiph cause to stand
-- `Hoph` Hoph be raised up
+- … 2 more senses
 
 ### `bdb:s.cb.ad` מִקְנָה (n.f) root קנה: purchase
 - `1` purchase

@@ -26,8 +26,8 @@ Hebrew (MAM): וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל מֶֽלֶ�
 
 ### Commentary anchored to this verse
 
-- `rashi:14:1:1` Rashi **normative** on 14:1.3 «אַמְרָפֶ֣ל» (matched; filed at 14:1) DH «אמרפל.»: הוּא נִמְרוֹד, שֶׁאָמַר לְאַבְרָהָם פֹּל לְתוֹךְ כִּבְשַׁן הָאֵשׁ (בראשית רבה):
-- `rashi:14:1:2` Rashi **normative** on 14:1.10 14:1.14 «מֶ֣לֶךְ גּוֹיִֽם׃» (matched; filed at 14:1) DH «מלך גוים.»: מָקוֹם יֵשׁ שֶׁשְּׁמוֹ גּוֹיִם, עַל שֵׁם שֶׁנִּתְקַבְּצוּ שָׁמָּה מִכַּמָּה אֻמּוֹת וּמְקוֹמוֹת וְהִמְלִיכוּ אִישׁ עֲלֵיהֶם וּשְׁמוֹ תִדְעָל:
+- `rashi:14:1:1` Rashi on 14:1.3 «אַמְרָפֶ֣ל» (matched; filed at 14:1) DH «אמרפל.»: הוּא נִמְרוֹד, שֶׁאָמַר לְאַבְרָהָם פֹּל לְתוֹךְ כִּבְשַׁן הָאֵשׁ (בראשית רבה):
+- `rashi:14:1:2` Rashi on 14:1.10 14:1.14 «מֶ֣לֶךְ גּוֹיִֽם׃» (matched; filed at 14:1) DH «מלך גוים.»: מָקוֹם יֵשׁ שֶׁשְּׁמוֹ גּוֹיִם, עַל שֵׁם שֶׁנִּתְקַבְּצוּ שָׁמָּה מִכַּמָּה אֻמּוֹת וּמְקוֹמוֹת וְהִמְלִיכוּ אִישׁ עֲלֵיהֶם וּשְׁמוֹ תִדְעָל:
 - `ibn-ezra:14:1:1` Ibn Ezra **normative** on 14:1.10 14:1.14 «מֶ֣לֶךְ גּוֹיִֽם׃» (matched; filed at 14:1) DH «מלך גוים.»: שם מדינה כמו עילם, כי שושן הבירה ארמון היה בתוכה, או מלך גוים ולא הזכירם, והטעם כי הם אחרים מהשנערים וחביריהם:
 - `ramban:14:1:1` Ramban on 14:1.1 14:1.2 14:1.3 14:1.4 14:1.5 «וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל מֶֽלֶךְ שִׁנְעָ֔ר» (matched; filed at 14:1) DH «וַיְהִי בִּימֵי אַמְרָפֶל מֶלֶךְ שִׁנְעָר»: הַמַּעֲשֶׂה הַזֶּה אֵרַע לְאַבְרָהָם לְהוֹרוֹת כִּי אַרְבַּע מַלְכֻיּוֹת תַּעֲמֹדְנָה לִמְשֹׁל בָּעוֹלָם, וּבַסּוֹף יִתְגַּבְּרוּ בָּנָיו עֲלֵיהֶם וְיִפְּלוּ כֻּלָּם בְּיָדָם, וְיָשִׁיבוּ כָּל שְׁבוּתָם וּרְכוּשָׁם. וְהָיָה הָרִאשׁוֹן מֵהֶם מֶלֶךְ בָּבֶל כִּי כֵן הֶעָתִיד, כְּדִכְתִיב (דניאל ב לח) "אַנְתְּ הוּא רֵישָׁא דִּי דַהֲבָא", וְאוּלַי "אֶלָּסָר" שֵׁם עִיר בְּמָדַי אוֹ בְּפָרַס, וְ"עֵילָם" בָּעִיר הַהִיא הֻמְלַךְ מֶלֶךְ יָוָן, הוּא הַמֶּלֶךְ הָרִאשׁוֹן, וּמִשָּׁם נִתְפַּשֵּׁט מַלְכוּתוֹ כְּשֶׁנִּצַּח דָּרְיָוֶשׁ. וּכְבָר הִזְכִּירוּ זֶה רַבּוֹתֵינוּ (ע"ז י), רַבִּי יוֹסֵי אוֹמֵר שֵׁשׁ שָׁנִים מָלְכוּ בְּעֵילָם וְאַחַר כָּךְ נִתְפַּשְּׁטָה מַלְכוּתָם בְּכָל הָעוֹלָם כֻּלּוֹ. וּ"מֶלֶךְ גּוֹיִם" הֻמְלַךְ עַל עַמִּים שׁוֹנִים אֲשֶׁר שָׁמוּהוּ עֲלֵיהֶם לְרֹאשׁ וּלְקָצִין, רֶמֶז לְמֶלֶךְ רוֹמִי אֲשֶׁר הֻמְלַךְ עַל עִיר מְקֻבֶּצֶת מֵעַמִּים רַבִּים, כִּתִּים וֶאֱדוֹם וְיֶתֶר גּוֹיִם. וְכָךְ אָמְרוּ בִּבְרֵאשִׁית רַבָּה (בראשית רבה מ"ב:ב'), אָמַר רַבִּי אָבִין כְּשֵׁם שֶׁפָּתַח בְּאַרְבַּע מַלְכֻיּוֹת כָּךְ אֵינוֹ חוֹתֵם אֶלָּא בְּאַרְבַּע מַלְכֻיּוֹת וְכוּ'. וְשָׁם עוֹד (מב ד בשינוי לשון) "וַיְהִי בִּימֵי אַמְרָפֶל מֶלֶךְ שִׁנְעָר" זוֹ בָּבֶל "אַרְיוֹךְ מֶלֶךְ אֶלָּסָר" זוֹ מָדַי "כְּדָרְלָעֹמֶר מֶלֶךְ עֵילָם" זוֹ יָוָן "וְתִדְעָל מֶלֶךְ גּוֹיִם" זוֹ מַלְכוּת אֱדוֹם שֶׁהִיא מַכְתֶּבֶת טִירוֹנְיָא מִכָּל אֻמּוֹת הָעוֹלָם:
 - `radak:14:1:1` Radak on 14:1.1 14:1.2 14:1.3 «וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל» (matched; filed at 14:1) DH «וַיְהִי בִּימֵי אַמְרָפֶל.»: בְּאוֹתָם הַזְּמַנִּים שֶׁהָיוּ אֵלֶּה הַמְּלָכִים כָּל אֶחָד בִּמְקוֹמוֹ הָיוּ הַמִּלְחָמוֹת הָאֵלֶּה שֶׁהוֹלֵךְ וּמְסַפֵּר, וְכֵן ״וַיְהִי בִּימֵי אֲחַשְׁוֵרוֹשׁ״ (אסתר א:א), וְהַדּוֹמִים לוֹ. וְנִכְתַּב זֶה הַסִּפּוּר בַּתּוֹרָה לְהוֹדִיעַ יֹשֶׁר לְבַב אַבְרָם עִם הָאֵל בּוֹטֵחַ בּוֹ בְּכָל לֵב, כִּי בִּמְעַט אֲנָשִׁים רָדַף אַחַר אַרְבָּעָה מְלָכִים, לְהוֹדִיעַ כִּי רָאוּי לָאָדָם לִמְסֹר עַצְמוֹ לִמְקוֹם סַכָּנָה לְהַצִּיל קְרוֹבוֹ כְּמוֹ שֶׁעָשָׂה אַבְרָהָם אָבִינוּ.
@@ -72,11 +72,11 @@ Variants:
 
 ### Commentary anchored to this verse
 
-- `rashi:14:2:1` Rashi **normative** on 14:2.4 «בֶּ֙רַע֙» (matched; filed at 14:2) DH «ברע.»: רַע לַשָּׁמַיִם וְרַע לַבְּרִיּוֹת:
-- `rashi:14:2:2` Rashi **normative** on 14:2.8 «בִּרְשַׁ֖ע» (matched; filed at 14:2) DH «ברשע.»: שֶׁנִּתְעַלָּה בְרֶשַׁע:
-- `rashi:14:2:3` Rashi **normative** on 14:2.11 «שִׁנְאָ֣ב» (matched; filed at 14:2) DH «שנאב.»: שׂוֹנֵא אָבִיו שׁבַּשָּׁמָיִם:
-- `rashi:14:2:4` Rashi **normative** on 14:2.14 «וְשֶׁמְאֵ֙בֶר֙» (matched; filed at 14:2) DH «שמאבר.»: שָׂם אֵבֶר לָעוּף וְלִקְפֹּץ וְלִמְרֹד בְּהַקָּבָּ"ה:
-- `rashi:14:2:5` Rashi **normative** on 14:2.18 «בֶּ֖לַע» (matched; filed at 14:2) DH «בלע.»: שֵׁם הָעִיר:
+- `rashi:14:2:1` Rashi on 14:2.4 «בֶּ֙רַע֙» (matched; filed at 14:2) DH «ברע.»: רַע לַשָּׁמַיִם וְרַע לַבְּרִיּוֹת:
+- `rashi:14:2:2` Rashi on 14:2.8 «בִּרְשַׁ֖ע» (matched; filed at 14:2) DH «ברשע.»: שֶׁנִּתְעַלָּה בְרֶשַׁע:
+- `rashi:14:2:3` Rashi on 14:2.11 «שִׁנְאָ֣ב» (matched; filed at 14:2) DH «שנאב.»: שׂוֹנֵא אָבִיו שׁבַּשָּׁמָיִם:
+- `rashi:14:2:4` Rashi on 14:2.14 «וְשֶׁמְאֵ֙בֶר֙» (matched; filed at 14:2) DH «שמאבר.»: שָׂם אֵבֶר לָעוּף וְלִקְפֹּץ וְלִמְרֹד בְּהַקָּבָּ"ה:
+- `rashi:14:2:5` Rashi on 14:2.18 «בֶּ֖לַע» (matched; filed at 14:2) DH «בלע.»: שֵׁם הָעִיר:
 - `ramban:14:2:1` Ramban on whole 14:2 (segment; filed at 14:2): וְטַעַם
 - `ramban:14:2:2` Ramban on 14:2.17 14:2.18 «וּמֶ֥לֶךְ בֶּ֖לַע» (matched; filed at 14:2) DH «וּמֶלֶךְ בֶּלַע»: מִפְּנֵי שֶׁמָּלַךְ עַל עִיר קְטַנָּה וַאֲנָשִׁים בָּהּ מְעָט, וְלֹא שֵׁם לוֹ עַל פְּנֵי חוּץ:
 - `radak:14:2:1` Radak on 14:2.1 14:2.2 «עָשׂ֣וּ מִלְחָמָ֗ה» (matched; filed at 14:2) DH «עָשׂוּ מִלְחָמָה.»: עַתָּה מְסַפֵּר הַמִּלְחָמָה שֶׁהָיְתָה בֵּינֵיהֶם בְּעֵמֶק הַשִּׂדִּים, לֹא הַמִּלְחָמוֹת הָרִאשׁוֹנוֹת שֶׁהָיוּ בֵּינֵיהֶם עַד שֶׁהִכְנִיעוּ אַרְבָּעָה מְלָכִים אֶת חֲמִשָּׁה עַד שֶׁהָיוּ לָהֶם לַעֲבָדִים.
@@ -102,8 +102,8 @@ Hebrew (MAM): כׇּל־אֵ֙לֶּה֙ חָֽבְר֔וּ אֶל־עֵ֖מֶק
 
 ### Commentary anchored to this verse
 
-- `rashi:14:3:1` Rashi **normative** on 14:3.5 14:3.6 «עֵ֖מֶק הַשִּׂדִּ֑ים» (matched; filed at 14:3) DH «עמק השדים.»: כָּךְ שְׁמוֹ, עַל שֵׁם שֶׁהָיו בוֹ שָׂדוֹת הַרְבֵּה:
-- `rashi:14:3:2` Rashi **normative** on 14:3.7 14:3.8 14:3.9 «ה֖וּא יָ֥ם הַמֶּֽלַח׃» (matched; filed at 14:3) DH «הוא ים המלח.»: לְאַחַר זְמַן נִמְשַׁךְ הַיָּם לְתוֹכוֹ וְנַעֲשָׂה יָם הַמֶּלַח. וּמִדְרַשׁ אַגָּדָה אוֹמֵר שֶׁנִּתְבַּקְּעוּ הַצּוּרִים סְבִיבוֹתָיו וְנִמְשְׁכוּ יְאוֹרִים לְתוֹכוֹ:
+- `rashi:14:3:1` Rashi on 14:3.5 14:3.6 «עֵ֖מֶק הַשִּׂדִּ֑ים» (matched; filed at 14:3) DH «עמק השדים.»: כָּךְ שְׁמוֹ, עַל שֵׁם שֶׁהָיו בוֹ שָׂדוֹת הַרְבֵּה:
+- `rashi:14:3:2` Rashi on 14:3.7 14:3.8 14:3.9 «ה֖וּא יָ֥ם הַמֶּֽלַח׃» (matched; filed at 14:3) DH «הוא ים המלח.»: לְאַחַר זְמַן נִמְשַׁךְ הַיָּם לְתוֹכוֹ וְנַעֲשָׂה יָם הַמֶּלַח. וּמִדְרַשׁ אַגָּדָה אוֹמֵר שֶׁנִּתְבַּקְּעוּ הַצּוּרִים סְבִיבוֹתָיו וְנִמְשְׁכוּ יְאוֹרִים לְתוֹכוֹ:
 - `ibn-ezra:14:3:1` Ibn Ezra **normative** on 14:3.1 14:3.2 14:3.3 «כׇּל אֵ֙לֶּה֙ חָֽבְר֔וּ» (matched; filed at 14:3) DH «כל אלה חברו.»: מהבנין הקל:
 - `ibn-ezra:14:3:2` Ibn Ezra **normative** on 14:3.6 «הַשִּׂדִּ֑ים» (matched; filed at 14:3) DH «השדים.»: כמו "ושדת אותם בשיד" (דבר' כז ב וד') "ותשם בסד רגלי" (איוב יג כז) כמו פת פתים:
 - `ibn-ezra:14:3:3` Ibn Ezra **normative** on 14:3.5 «עֵ֖מֶק» (matched; filed at 14:3) DH «עמק.»: מושך עצמו ואחר עמו כמו "אל באפך תוכיחני" (תהלים ו ב) וכן הוא עמק ים המלח:
@@ -136,7 +136,7 @@ Hebrew (MAM): שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה עָבְד֖�
 
 ### Commentary anchored to this verse
 
-- `rashi:14:4:1` Rashi **normative** on 14:4.1 14:4.2 14:4.3 14:4.4 «שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה עָבְד֖וּ» (matched; filed at 14:4) DH «שתים עשרה שנה עבדו.»: חֲמִשָּׁה מְלָכִים הַלָּלוּ אֶת כְּדָרְלָעֹמֶר:
+- `rashi:14:4:1` Rashi on 14:4.1 14:4.2 14:4.3 14:4.4 «שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה עָבְד֖וּ» (matched; filed at 14:4) DH «שתים עשרה שנה עבדו.»: חֲמִשָּׁה מְלָכִים הַלָּלוּ אֶת כְּדָרְלָעֹמֶר:
 - `ibn-ezra:14:4:1` Ibn Ezra **normative** on whole 14:4 (verse; filed at 14:4) DH «וטעם ושלש עשרה.»: בשלש עשרה כמו "כי ששת ימים עשה ד'" (שמות כ יא), ובעל סדר סדר עולם חברם ודעתו רחבה מדעתנו:
 - `radak:14:4:1` Radak on 14:4.1 14:4.2 14:4.3 14:4.4 «שְׁתֵּ֤ים עֶשְׂרֵה֙ שָׁנָ֔ה עָבְד֖וּ» (matched; filed at 14:4) DH «שְׁתֵּים עֶשְׂרֵה שָׁנָה עָבְדוּ.»: שֶׁהָיוּ לוֹ עֲבָדִים נוֹשְׂאֵי מִנְחָה.
 - `radak:14:4:2` Radak on 14:4.7 14:4.8 14:4.9 «וּשְׁלֹשׁ עֶשְׂרֵ֥ה שָׁנָ֖ה» (matched; filed at 14:4) DH «וּשְׁלֹשׁ עֶשְׂרֵה שָׁנָה.»: פֵּרוּשׁ: וּבִשְׁנַת שְׁלֹשׁ עֶשְׂרֵה.
@@ -176,10 +176,10 @@ Hebrew (MAM): וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה בּ�
 
 ### Commentary anchored to this verse
 
-- `rashi:14:5:1` Rashi **normative** on 14:5.1 14:5.2 14:5.3 «וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה» (matched; filed at 14:5) DH «ובארבע עשרה שנה.»: לְמִרְדָּן:
-- `rashi:14:5:2` Rashi **normative** on 14:5.4 14:5.5 «בָּ֣א כְדׇרְלָעֹ֗מֶר» (matched; filed at 14:5) DH «בא כדרלעמר.»: לְפִי שֶׁהוּא הָיָה בַעַל הַמַּעֲשֶׂה נִכְנַס בְּעֹבִי הַקּוֹרָה:
-- `rashi:14:5:3` Rashi **normative** on 14:5.6 «וְהַמְּלָכִים֙» (matched; filed at 14:5) DH «והמלכים.»: אֵלֶּה שְׁלשָׁה מְלָכִים:
-- `rashi:14:5:4` Rashi **normative** on 14:5.15 «הַזּוּזִ֖ים» (matched; filed at 14:5) DH «הזוזים.»: הֵם זַמְזֻמִּים:
+- `rashi:14:5:1` Rashi on 14:5.1 14:5.2 14:5.3 «וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה» (matched; filed at 14:5) DH «ובארבע עשרה שנה.»: לְמִרְדָּן:
+- `rashi:14:5:2` Rashi on 14:5.4 14:5.5 «בָּ֣א כְדׇרְלָעֹ֗מֶר» (matched; filed at 14:5) DH «בא כדרלעמר.»: לְפִי שֶׁהוּא הָיָה בַעַל הַמַּעֲשֶׂה נִכְנַס בְּעֹבִי הַקּוֹרָה:
+- `rashi:14:5:3` Rashi on 14:5.6 «וְהַמְּלָכִים֙» (matched; filed at 14:5) DH «והמלכים.»: אֵלֶּה שְׁלשָׁה מְלָכִים:
+- `rashi:14:5:4` Rashi on 14:5.15 «הַזּוּזִ֖ים» (matched; filed at 14:5) DH «הזוזים.»: הֵם זַמְזֻמִּים:
 - `ibn-ezra:14:5:1` Ibn Ezra **normative** on 14:5.11 «רְפָאִים֙» (matched; filed at 14:5) DH «רפאים.»: שכל הרואה אותם ימות לבו ויחשב מהרפאים שהם מתים:
 - `ibn-ezra:14:5:2` Ibn Ezra **normative** on 14:5.18 «הָֽאֵימִ֔ים» (matched; filed at 14:5) DH «האימים.»: שיש מהם אימה:
 - `radak:14:5:1` Radak on 14:5.10 14:5.11 14:5.12 14:5.13 «אֶת רְפָאִים֙ בְּעַשְׁתְּרֹ֣ת קַרְנַ֔יִם» (matched; filed at 14:5) DH «אֶת רְפָאִים בְּעַשְׁתְּרֹת קַרְנַיִם.»: הִכּוּ אֶת הָעֲנָקִים שֶׁהָיוּ בְּעַשְׁתְּרוֹת קַרְנַיִם; וְהַמָּקוֹם הַזֶּה הוּא בֵּין שְׁנֵי הָרִים גְּדוֹלִים וְלָכֵן נִקְרָא קַרְנַיִם. וּכְבָר זְכָרוּהוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה. וְהַמְּקוֹמוֹת הָאֵלֶּה שֶׁזָּכַר הֵם קְרוֹבִים לְאֶרֶץ סְדֹם וַעֲמוֹרָה, אוּלַי הָיוּ בְּעֶזְרָתָם לְפִיכָךְ הִכּוּ אוֹתָם כְּדָרְלָעֹמֶר וְהַמְּלָכִים אֲשֶׁר אִתּוֹ.
@@ -207,9 +207,9 @@ Hebrew (MAM): וְאֶת־הַחֹרִ֖י בְּהַרְרָ֣ם שֵׂעִ֑י
 
 ### Commentary anchored to this verse
 
-- `rashi:14:6:1` Rashi **normative** on 14:6.3 «בְּהַרְרָ֣ם» (matched; filed at 14:6) DH «בהררם.»: בְּהַר שֶׁלָּהֶם:
-- `rashi:14:6:2` Rashi **normative** on 14:6.6 14:6.7 «אֵ֣יל פָּארָ֔ן» (matched; filed at 14:6) DH «איל פארן.»: כְּתַרְגּוּמוֹ מִישׁוֹר. וְאוֹמֵר אֲנִי שֶׁאֵין אֵיל לְשׁוֹן מִישׁוֹר, אֶלָּא מִישׁוֹר שֶׁל פָּארָן אֵיל שְׁמוֹ, וְשֶׁל מַמְרֵא אֵלוֹנֵי שְׁמוֹ, וְשֶׁל יַרְדֵּן כִּכָּר שְׁמוֹ, וְשֶׁל שִׁטִּים אָבֵל שְׁמוֹ, אָבֵל הַשִּׁטִּים, וְכֵן בַּעַל גָּד בַּעַל שְׁמוֹ; וְכֻלָּם מְתֻרְגָּמִין מִישׁוֹר, וְכָל א' שְׁמוֹ עָלָיו:
-- `rashi:14:6:3` Rashi **normative** on 14:6.9 14:6.10 «עַל הַמִּדְבָּֽר׃» (matched; filed at 14:6) DH «על המדבר.»: אֵצֶל הַמִּדְבָּר, כְּמוֹ וְעָלָיו מַטֵּה מְנַשֶּׁה (במדבר ב'):
+- `rashi:14:6:1` Rashi on 14:6.3 «בְּהַרְרָ֣ם» (matched; filed at 14:6) DH «בהררם.»: בְּהַר שֶׁלָּהֶם:
+- `rashi:14:6:2` Rashi on 14:6.6 14:6.7 «אֵ֣יל פָּארָ֔ן» (matched; filed at 14:6) DH «איל פארן.»: כְּתַרְגּוּמוֹ מִישׁוֹר. וְאוֹמֵר אֲנִי שֶׁאֵין אֵיל לְשׁוֹן מִישׁוֹר, אֶלָּא מִישׁוֹר שֶׁל פָּארָן אֵיל שְׁמוֹ, וְשֶׁל מַמְרֵא אֵלוֹנֵי שְׁמוֹ, וְשֶׁל יַרְדֵּן כִּכָּר שְׁמוֹ, וְשֶׁל שִׁטִּים אָבֵל שְׁמוֹ, אָבֵל הַשִּׁטִּים, וְכֵן בַּעַל גָּד בַּעַל שְׁמוֹ; וְכֻלָּם מְתֻרְגָּמִין מִישׁוֹר, וְכָל א' שְׁמוֹ עָלָיו:
+- `rashi:14:6:3` Rashi on 14:6.9 14:6.10 «עַל הַמִּדְבָּֽר׃» (matched; filed at 14:6) DH «על המדבר.»: אֵצֶל הַמִּדְבָּר, כְּמוֹ וְעָלָיו מַטֵּה מְנַשֶּׁה (במדבר ב'):
 - `ibn-ezra:14:6:1` Ibn Ezra **normative** on 14:6.3 «בְּהַרְרָ֣ם» (matched; filed at 14:6) DH «בהררם.»: מהבנין הדגוש כמו בְדַבְרָם (שמות ז ז), ופי' בעלותם אל הר שעיר:
 - `ramban:14:6:1` Ramban on 14:6.6 14:6.7 «אֵ֣יל פָּארָ֔ן» (matched; filed at 14:6) DH «אֵיל פָּארָן»: כְּתַרְגּוּמוֹ מֵישַׁר פָּארָן. וַאֲנִי אוֹמֵר שֶׁאֵין אֵיל לְשׁוֹן מִישׁוֹר אֶלָּא מִישׁוֹר שֶׁל פָּארָן אֵיל שְׁמוֹ, וְשֶׁל מַמְרֵא אֵלוֹנֵי שְׁמוֹ, וְשֶׁל יַרְדֵּן כִּכָּר שְׁמוֹ, וְשֶׁל שִׁטִּים אָבֵל שְׁמוֹ, וְכֻלָּם מְתֻרְגָּמִין מֵישְׁרָא, וְכָל אֶחָד שְׁמוֹ עָלָיו, לְשׁוֹן רַשִׁ"י (רש"י על בראשית י"ד:ו'). וְאִלּוּ הָיָה כֵן הָיָה אוּנְקְלוֹס (תרגום אונקלוס על בראשית י"ד:ו') מְתַרְגֵּם בִּשְׁמָם "אֵילָא דְּפָארָן", "אֵלוֹנֵי דְּמַמְרֵא", כְּמִנְהָגוֹ בַּשֵּׁמוֹת, וּמִי הִגִּיד לוֹ בַּמְּקוֹמוֹת הָרַבִּים הָהֵם הֲמִישׁוֹר הֵם כֻּלָּם אוֹ הָרִים הַגְּבוֹהִים. וּ"מַמְרֵא" שֵׁם הָאִישׁ הָאֱמֹרִי, אֲחִי אֶשְׁכֹּל וַאֲחִי עָנֵר בַּעֲלֵי בְּרִית אַבְרָם, וְהַמָּקוֹם הַהוּא שֶׁלּוֹ, כְּמוֹ שֶׁאָמַר (בראשית י"ד:י"ג) "אֵלוֹנֵי מַמְרֵא הָאֱמֹרִי" כַּאֲשֶׁר פֵּרַשְׁתִּי (רמב"ן על בראשית י"ב:ו'). אֲבָל "אֵיל פָּארָן" מְקוֹם אֵילִים, "כִּי יֵבֹשׁוּ מֵאֵילִים אֲשֶׁר חֲמַדְתֶּם" (ישעיהו א כט), וְ"אֵלוֹנֵי" מְקוֹם אַלּוֹנִים "כָּאֵלָה וְכָאַלּוֹן" (שם ו יג), "אַלּוֹנִים מִבָּשָׁן" (יחזקאל כז ו), וְהַנָּהוּג בָּהֶם לִהְיוֹתָם נְטוּעִים בְּמִישׁוֹר לִפְנֵי הַמְּדִינוֹת לִהְיוֹת לָעִיר כְּמוֹ מִגְרָשׁ. וְכֵן תַּרְגּוּם "אַלּוֹן בָּכוּת" (בראשית ל"ה:ח') "מִישׁוֹר בְּכוּתָא", וְשָׁם אֵינֶנּוּ שֵׁם הָעֶצֶם לַמָּקוֹם רַק הוּא שֵׁם לָאַלּוֹן הַנָּטוּעַ שָׁם, כְּמוֹ שֶׁמְּפֹרָשׁ (שם) "תַּחַת הָאַלּוֹן", אֶלָּא שֶׁהוּא רוֹדֵף הָעִנְיָן לֹא הַמִּלּוֹת. וְהַתַּרְגּוּם הַיְּרוּשַׁלְמִי אָמַר בְּ"אֵיל פָּארָן" וְ"אֵלוֹנֵי מַמְרֵא" – "מֵישְׁרָא", כְּדִבְרֵי אוּנְקְלוֹס, וְאָמַר בְּ"אַלּוֹן בָּכוּת" – … [cut; full text in the review pack]
 - `radak:14:6:1` Radak on 14:6.1 14:6.2 14:6.3 14:6.4 «וְאֶת הַחֹרִ֖י בְּהַרְרָ֣ם שֵׂעִ֑יר» (matched; filed at 14:6) DH «וְאֶת־הַחֹרִי בְּהַרְרָם שֵׂעִיר.»: וְהִכּוּ אֶת הַחֹרִי בְּהַר שֶׁלָּהֶם וְהוּא הַר שֵׂעִיר, כְּמוֹ שֶׁאָמַר ״אֵלֶּה בְנֵי שֵׂעִיר הַחֹרִי״ (בראשית לו:כ).
@@ -245,9 +245,9 @@ Hebrew (MAM): וַ֠יָּשֻׁ֠בוּ וַיָּבֹ֜אוּ אֶל־עֵ֤י
 
 ### Commentary anchored to this verse
 
-- `rashi:14:7:1` Rashi **normative** on 14:7.4 14:7.5 14:7.6 14:7.7 «עֵ֤ין מִשְׁפָּט֙ הִ֣וא קָדֵ֔שׁ» (matched; filed at 14:7) DH «עין משפט היא קדש.»: עַל שֵׁם הֶעָתִיד, שֶׁעֲתִידִין מֹשֶׁה וְאַהֲרֹן לְהִשְָּׁפֵט שָׁם עַל עִסְקֵי אוֹתוֹ הָעַיִן וְהֵם מֵי מְרִיבָה. וְאֻנְקְלוֹס תִּרְגְּמוֹ כִפְשׁוּטוֹ מָקוֹם שֶׁהָיוּ בְנֵי הַמְּדִינָה מִתְקַבְּצִים שָׁם לְכָל מִשְׁפָּט:
-- `rashi:14:7:2` Rashi **normative** on 14:7.11 14:7.12 «שְׂדֵ֖ה הָעֲמָלֵקִ֑י» (matched; filed at 14:7) DH «שדה העמלקי.»: עֲדַיִן לֹא נוֹלַד עֲמָלֵק, וְנִקְרָא עַל שֵׁם הֶעָתִיד:
-- `rashi:14:7:3` Rashi **normative** on 14:7.17 14:7.18 «בְּחַֽצְצֹ֥ן תָּמָֽר׃» (matched; filed at 14:7) DH «בחצצון תמר.»: הוּא עֵין גֶּדִי, מִקְרָא מָלֵא בְּדִבְרֵי הַיָּמִים (ב' כ') בִּיהוֹשָׁפָט:
+- `rashi:14:7:1` Rashi on 14:7.4 14:7.5 14:7.6 14:7.7 «עֵ֤ין מִשְׁפָּט֙ הִ֣וא קָדֵ֔שׁ» (matched; filed at 14:7) DH «עין משפט היא קדש.»: עַל שֵׁם הֶעָתִיד, שֶׁעֲתִידִין מֹשֶׁה וְאַהֲרֹן לְהִשְָּׁפֵט שָׁם עַל עִסְקֵי אוֹתוֹ הָעַיִן וְהֵם מֵי מְרִיבָה. וְאֻנְקְלוֹס תִּרְגְּמוֹ כִפְשׁוּטוֹ מָקוֹם שֶׁהָיוּ בְנֵי הַמְּדִינָה מִתְקַבְּצִים שָׁם לְכָל מִשְׁפָּט:
+- `rashi:14:7:2` Rashi on 14:7.11 14:7.12 «שְׂדֵ֖ה הָעֲמָלֵקִ֑י» (matched; filed at 14:7) DH «שדה העמלקי.»: עֲדַיִן לֹא נוֹלַד עֲמָלֵק, וְנִקְרָא עַל שֵׁם הֶעָתִיד:
+- `rashi:14:7:3` Rashi on 14:7.17 14:7.18 «בְּחַֽצְצֹ֥ן תָּמָֽר׃» (matched; filed at 14:7) DH «בחצצון תמר.»: הוּא עֵין גֶּדִי, מִקְרָא מָלֵא בְּדִבְרֵי הַיָּמִים (ב' כ') בִּיהוֹשָׁפָט:
 - `ramban:14:7:1` Ramban on 14:7.3 14:7.4 14:7.5 «אֶל עֵ֤ין מִשְׁפָּט֙» (matched; filed at 14:7) DH «אֶל עַיִן מִשְׁפָּט»: עַל שֵׁם הֶעָתִיד, שֶׁעֲתִידִים מֹשֶׁה וְאַהֲרֹן לְהִשְָּׁפֵט שָׁם עַל עִסְקֵי אוֹתוֹ הָעַיִן, לְשׁוֹן רַשִׁ"י (רש"י על בראשית י"ד:ז') מִדִּבְרֵי אַגָּדָה (במד"ר יט יד). וְלֹא הֲבִינוֹתִי זֶה, כִּי "קָדֵשׁ" זֶה הוּא "קָדֵשׁ בַּרְנֵעַ", כִּי הוּא בְּ"אֵיל פָּארָן אֲשֶׁר עַל הַמִּדְבָּר", וּמִמֶּנּוּ נִשְׁתַּלְּחוּ מְרַגְּלִים בְּשָׁנָה שְׁנִיָּה, שֶׁנֶּאֱמַר (במדבר יג כו) "אֶל מִדְבַּר פָּארָן קָדֵשָׁה", וְכָתוּב (דברים א יט כב) "וַנָּבֹא עַד קָדֵשׁ בַּרְנֵעַ" "וַתֹּאמְרוּ נִשְׁלְחָה אֲנָשִׁים לְפָנֵינוּ", וְשָׁם יָשְׁבוּ יִשְׂרָאֵל יָמִים רַבִּים. אֲבָל "קָדֵשׁ" שֶׁשָּׁם מִשְׁפַּט הַצַּדִּיקִים הוּא בְּמִדְבַּר צִן, שֶׁבָּאוּ שָׁם בִּשְׁנַת הָאַרְבָּעִים, שֶׁנֶּאֱמַר (במדבר כ א) "וַיָּבֹאוּ בְנֵי יִשְׂרָאֵל כָּל הָעֵדָה מִדְבַּר צִן בַּחֹדֶשׁ הָרִאשׁוֹן וַיֵּשֶׁב הָעָם בְּקָדֵשׁ" וּגְמַר הַפָּרָשָׁה. אוּלַי הַמִּדְרָשׁ עַל הַשֵּׁם בִּלְבַד הוּא, רָמַז הַכָּתוּב כִּי הַשֵּׁם הַזֶּה "קָדֵשׁ" הוּא יִהְיֶה עֵין מִשְׁפָּט. וְאוּנְקְלוֹס (תרגום אונקלוס על בראשית י"ד:ז') אָמַר "מֵישַׁר פִּלּוּג דִּינָא", וְלֹא יָדַעְתִּי מַהוּ, אוּלַי הוּא מִלְּשׁוֹן "פְּלָגִים יִבְלֵי מָיִם" (ישעיהו ל כה), "מִי פִלַּג לַשֶּׁטֶף תְּעָלָה" (איוב לח כה), וְכֵן בִּלְשׁוֹן חֲכָמִים (אסתר רבה ה) "פַּלְגּוֹ שֶׁל יָם", יֹאמַר כִּי בַּמִּישׁוֹר הַהוּא מַעְיָן הַמִּשְׁפָּט וְעֹמֶק הַדִּין, כִּי הָיָה מִישׁוֹר נָאֶה מְעֻתָּד לַמְּלָכִים, שָׁם יָשְׁבוּ לִשְׁפֹּט אֶת כָּל הַגּוֹיִם בָּאֲרָצוֹת הָהֵם:
 - `ramban:14:7:2` Ramban on 14:7.11 14:7.12 «שְׂדֵ֖ה הָעֲמָלֵקִ֑י» (matched; filed at 14:7) DH «שְׂדֵה הָעֲמָלֵקִי»: לְשׁוֹן רַשִׁ"י (רש"י על בראשית י"ד:ז'), עֲדַיִן לֹא נוֹלַד עֲמָלֵק וְנִקְרָא עַל שֵׁם הֶעָתִיד. וְלֹא יָדַעְתִּי אִם רְצוֹנוֹ לוֹמַר כִּי מֹשֶׁה רַבֵּינוּ קָרָא הַמָּקוֹם בַּשֵּׁם שֶׁהוּא נִקְרָא בְּיָמָיו, וְאִם כֵּן אֵין בְּכָאן דָּבָר עָתִיד, אוֹ מַה הָעֲתִידוֹת הַזּוֹ שֶׁיִּתְנַבְּאוּ הַגּוֹיִם לִקְרֹא הַמָּקוֹם כֵּן. וּלְשׁוֹן בְּרֵאשִׁית רַבָּה (בראשית רבה מ"ב:ז'), עֲדַיִן לֹא נוֹלַד עֲמָלֵק וְאַתְּ אֲמַרְתְּ "אֶת כָּל שְׂדֵה הָעֲמָלֵקִי", אֶלָּא מַגִּיד מֵרֵאשִׁית אַחֲרִית. וְזֶה דֶּרֶךְ הַדְּרָשׁ לָהֶם בִּמְקוֹמוֹת רַבִּים, גַּם בִּנְהָרוֹת גַּן עֵדֶן אָמְרוּ (ב"ר טז ב) כַּלָּשׁוֹן הַזֶּה, וְכַוָּנָתָם לוֹמַר כִּי מֵעֵת צֵאת הַנְּהָרוֹת נֶאֱמַר כִּי הַנָּהָר הוֹלֵךְ קִדְמַת אֶרֶץ הָעֲתִידָה לִהְיוֹת לְאַשּׁוּר. וְהַנָּכוֹן בְּעֵינַי בִּשְׂדֵה הָעֲמָלֵקִי כִּי הָיָה בַּיָּמִים הַקַּדְמוֹנִים אָדָם נִכְבָּד מִבְּנֵי הַחוֹרִי יוֹשֵׁב הָאָרֶץ וּמָשַׁל עַל הַמָּקוֹם הַהוּא, וּשְׁמוֹ עֲמָלֵק, וֶאֱלִיפַז בְּכוֹר עֵשָׂו קָרָא שֵׁם בְּנוֹ עַל שֵׁם הָאִישׁ הַהוּא, וְאוּלַי מִמִּשְׁפַּחַת תִּמְנַע אִמּוֹ הָיָה, וּמֹשֵׁל גַּם בַּמָּקוֹם הַהוּא וְהָיָה שָׁם אַלּוּף עֲלֵיהֶם:
 - `radak:14:7:1` Radak on 14:7.1 14:7.2 «וַ֠יָּשֻׁ֠בוּ וַיָּבֹ֜אוּ» (matched; filed at 14:7) DH «וַיָּשֻׁבוּ וַיָּבֹאוּ.»: אַחַר שֶׁפָּשְׁטוּ עַל הַמְּקוֹמוֹת הָאֵלֶּה עַד הַמִּדְבָּר, שָׁבוּ לָהֶם כְּלַפֵּי אֶרֶץ סְדֹם וּבָאוּ לָהֶם אֶל עֵין מִשְׁפָּט; יָדוּעַ הָיָה אֶצְלָם לָמָּה נִקְרָא כֵּן, כְּמוֹ שְׁאָר הַמְּקוֹמוֹת שֶׁכֻּלָּם נִקְרְאוּ עַל עִנְיָן יָדוּעַ אֶצְלָם. וְיֵשׁ דְּרָשׁ שֶׁנִּקְרָא כֵּן עַל שֵׁם שֶׁעֲתִידִין מֹשֶׁה וְאַהֲרֹן לְהִשָּׁפֵט עַל מֵי אוֹתוֹ הָעַיִן, וְהֵם ״מֵי מְרִיבָה״ (במדבר כ:יג).
@@ -312,11 +312,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `9` motion, direction to
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.dr.am` אֶלָּסָר (n.pr.loc): Ellasar
 
 ### `bdb:a.ea.ah` אֱמֹרִי (n.pr.m.coll): Amorites, mountain-dwellers
+- `1` Amorites, mountain-dwellers — called son of Canaan
+- `2` Amorites, mountain-dwellers — a chief people dispossessed by Hebrews
+- `3` Amorites, mountain-dwellers — adj.gent
 
 ### `bdb:a.ea.al` אַמְרָפֶל (n.pr.m): Amraphel
 
@@ -328,6 +334,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
 - `1` together with
+- `2` with, proximity — Of localities
+- `3.a` with, proximity — in one's possession or keeping
+- `3.b` with, proximity — in one's knowledge or memory
+- `3` with, proximity — אֵת פּ׳ denotes specially
 - `4` from proximity with
 
 ### `bdb:b.ap.aa` בּוֹא (vb) root בוא: come in, come, go in, go
@@ -352,30 +362,46 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:c.ck.ab` גַּם (adv) root גמם: also, moreover, yea
 
 ### `bdb:d.ai.ap` מִדְבָּר (n.m) root דבר: wilderness
+- `1` wilderness — tracts of land, used for the pasturage of flocks and herds
 - `2` uninhabited land
 - `3` large tracts
+- `4` wilderness — fig
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:e.br.ab` הָ֑ם (n.pr.loc): Ham
 
@@ -400,6 +426,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:h.gi.ad` חֹרִי (adj): cave-dweller
 - `1` Seir the Horite
+- `2` cave-dweller — n.pr.gent. ancient inhabitants of land of Edom
+- `3.a` cave-dweller — an Edomite
+- `3.b` cave-dweller — a Simeonite
+- `3` cave-dweller — n.pr.pers.m
 
 ### `bdb:j.ay.aa` יוֹם (n.m): day
 - `1` day
@@ -408,20 +438,28 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.br.ab` יָם (n.m) root ימם: sea
 
 ### `bdb:j.cq.aa` יָצָא (vb) root יצא: go, come out
+- `Qal 1.a` Qal go, come out, forth — from (מִן) a place
 - `Qal 1.b` Qal go forth
+- `Qal 1.c` Qal go, come out, forth — in technical senses
+- `Qal 1.d` Qal go, come out, forth — of flight, involving escape
 - `Qal 1.e` Qal depart
+- `Qal 1.f` Qal go, come out, forth — of inanimate things
+- `Qal 1.g` Qal go, come out, forth — with especial emphasis on idea of origin, source
 - `Qal 1.h` Qal going forth
 - `Qal 1` Qal go, come out, forth
 - `Qal 2.a` Qal go forth
 - `Qal 2.b` Qal go forward, proceed
 - `Qal 2.c` Qal come, go forth
+- `Qal 3` Qal go, come out — of combinations
 - `Hiph 1` Hiph cause to go, come out, bring out, lead out
 - `Hiph 2` Hiph bring out of
 - `Hiph 3` Hiph bring out
+- `Hiph 4` Hiph inanimate obj (Hiph of: go, come out)
 - `Hiph 5` Hiph bring forth
 - `Hoph` Hoph be brought forth
 
@@ -431,6 +469,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1.c` Qal sit down
 - `Qal 1.d` Qal sit, be set
 - `Qal 2.a` Qal remain, stay, tarry
+- `Qal 2.b` Qal sit, remain, dwell — with special emphasis of qualifying phr
 - `Qal 3` Qal dwell, have one’s abode
 - `Qal 4` Qal sit, abide, seated in its place, be inhabited
 - `Niph` Niph be inhabited
@@ -447,7 +486,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.bh.ad` מִלְחָמָה (n.f) root לחם: battle, war
 
@@ -471,6 +513,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 4.a` Hiph smite
 - `Hiph 4.b` Hiph smite, chastise, send judgment upon
 - `Hiph 4.c` Hiph destroying
+- `Hiph 4` Hiph Of God (Hiph of: smite)
 - `Hoph` Hoph be smitten
 
 ### `bdb:o.aj.ad` סְדֹם (n.pr.loc): Sodom
@@ -490,9 +533,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hoph` Hoph be led, enticed to serve
 
 ### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
+- `I.1` as far as, even to, up to, until, while — of space
+- `I.2` as far as, even to, up to, until, while — Of time
+- `I.3` as far as, even to, up to, until, while — Of degree
+- `I` as far as, even to, up to, until, while — prep
 - `II.1` until
 - `II.2` While
 - `II.3` to the point that, so that even
+- `II` as far as, even to, up to, until, while — conj
+- `III.1` as far as, even to, up to, until, while — of space
+- `III.2` as far as, even to, up to, until, while — Of time
+- `III.3` as far as, even to, up to, until, while — Of degree
+- `III` as far as, even to, up to, until, while — עַד לְ, a strengthened form for עַד. Thus
 
 ### `bdb:p.cj.ah` עֵילָם (n.pr.gent): Elam
 
@@ -500,6 +552,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -511,13 +566,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.dh.ag` עֲמָלֵקִי (adj.gent): the, Amalekites
 
@@ -570,8 +628,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:r.dd.ab` צֹ֫עַר (n.pr.loc): Zoar, insignificance
 
 ### `bdb:s.an.ag` קָדֵשׁ (n.pr.loc) root קדשׁ: sacred
+- `1` sacred — in S. of Judah = ק׳ בַּרְנֵעַ
+- `2` sacred — Hittite capital on the Orontes, N. of Damascus, towards Hamath
 
 ### `bdb:s.dc.aj` קִרְיָתַ֫יִם (n.pr.loc): double city
+- `1` double city — in Moab
+- `2` double city — Levit. city in Naphtali
 
 ### `bdb:t.al.ab` אַרְבַּע (N) root רבע: four
 
@@ -585,33 +647,38 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` land
 
 ### `bdb:u.bs.am` שֵׂעִיר (n.pr) root שׂער: Sē‛ir
+- `1.a` Sē‛ir — terr. land of Edom, S. of Dead Sea
+- `1.b` Sē‛ir — specif. mont. E. of Arabah
+- `1.c` Sē‛ir — gent. = Edom
+- `1.d` Sē‛ir — personif. as m
+- `2` Sē‛ir — mont. in Judah
 
 ### `bdb:v.bn.aa` שׁוּב (vb) root שׁוב: turn back, return
 - `Qal 1` Qal turn back
 - `Qal 2` Qal return, come, go back
 - `Qal 3` Qal return unto
+- `Qal 4.a` Qal turn back, return — of dying
+- `Qal 4.b` Qal turn back, return — of revival from death
 - `Qal 5.a` Qal return
+- `Qal 5.b` Qal turn back, return — = change so as to appoach (in purpose, desire)
 - `Qal 5.c` Qal turn
 - `Qal 5.d` Qal return
+- `Qal 5.e` Qal turn back, return — abs. = change course of action
+- `Qal 5` Qal turn back, return — fig. of human relations
 - `Qal 6.a` Qal turn back, apostatize
 - `Qal 6.b` Qal turn away
 - `Qal 6.c` Qal turn back
 - `Qal 6.d` Qal repent
 - `Qal 6.e` Qal turn back
+- `Qal 6.f` Qal turn back, return — of י׳
 - `Qal 6.g` Qal return
+- `Qal 6` Qal turn back, return — fig., specif. of spiritual relations
+- `Qal 7` Qal turn back, return — of inanimate things (sts. personified, or treated as things of life)
+- `Qal 8` Qal turn back, return — denoting repetition, etc
+- `Qal 9` Qal turn back, return — trans
 - `Qal` Qal turn back, return
 - `Pō‛l 1` Pō‛l bring back
-- `Pō‛l 2.a` Pō‛l restore, refresh
-- `Pō‛l 2.b` Pō‛l restore, repair
-- `Pō‛l 3` Pō‛l lead away
-- `Pō‛l 4` Pō‛l shew turning, apostatize
-- `Hiph 1.a` Hiph bring back
-- `Hiph 1.b` Hiph put back
-- `Hiph 1.c` Hiph draw back
-- `Hiph 1.d` Hiph give back, restore
-- `Hiph 1.e` Hiph relinguish
-- `Hiph 1.f` Hiph give in payment
-- … 15 more senses
+- … 25 more senses
 
 ### `bdb:v.bp.ac` שָׁוֵה (n.pr.loc) root שׁוה: Shaveh
 

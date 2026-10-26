@@ -99,9 +99,9 @@ Hebrew (MAM): וַיִּנָּ֣חֶם יְהֹוָ֔ה כִּֽי־עָשָׂ֥
 
 ### Commentary anchored to this verse
 
-- `rashi:6:6:1` Rashi **normative** on 6:6.1 6:6.2 6:6.3 6:6.4 «וַיִּנָּ֣חֶם יְהֹוָ֔ה כִּֽי עָשָׂ֥ה» (matched; filed at 6:6) DH «וינחם ה' כי עשה.»: נֶחָמָה הָיְתָה לְפָנָיו שֶׁבְּרָאוֹ בַתַּחְתּוֹנִים, שֶׁאִלּוּ הָיָה מִן הָעֶלְיוֹנִים הָיָה מַמְרִידָן (בבראשית רבה):
-- `rashi:6:6:2` Rashi **normative** on 6:6.8 «וַיִּתְעַצֵּ֖ב» (matched; filed at 6:6) DH «ויתעצב.»: הָאָדָם אֶל לִבּוֹ שֶׁל מָקוֹם, עָלָה בְמַחֲשַׁבְתּוֹ שֶׁל מָקוֹם לְהַעֲצִיבוֹ, זֶהוּ תַּרְגוּם אֻנְקְלוֹס. דָּבָר אַחֵר וַיִּנָּחֶם – נֶהְפְכָה מַחְשַׁבְתּוֹ שֶׁל מָקוֹם מִמִּדַּת רַחֲמִים לְמִדַּת הַדִּין, עָלָה בְמַחְשָׁבָה לְפָנָיו מַה לַּעֲשׂוֹת בָּאָדָם שֶׁעָשָׂה בָּאָרֶץ, וְכֵן כָּל לְשׁוֹן נִחוּם שֶׁבַּמִּקְרָא לְשׁוֹן נִמְלָךְ מַה לַּעֲשׂוֹת, וּבֶן אָדָם וְיִתְנֶחָם (במדבר כ"ג) וְעַל עֲבָדָיו יִתְנֶחָם (דברים ל"ב) וַיִּנָּחֶם ה' עַל הָרָעָה (שמות ל"ב) נִחַמְתִּי כִּי הִמְלַכְתִּי (שמואל א' ט"ו) כֻּלָּם לְשׁוֹן מַחֲשָׁבָה אַחֶרֶת הֵם:
-- `rashi:6:6:3` Rashi **normative** on 6:6.8 6:6.9 6:6.10 «וַיִּתְעַצֵּ֖ב אֶל לִבּֽוֹ׃» (matched; filed at 6:6) DH «ויתעצב אל לבו.»: נִתְאַבֵּל עַל אָבְדַן מַעֲשֵׂה יָדָיו, כְּמוֹ נֶעֱצַב הַמֶּלֶךְ עַל בְּנוֹ (שם ב' י"ט), וְזוֹ כָתַבְתִּי לִתְשׁוּבַת הַמִּינִים גּוֹי אֶחָד שֶׁשָּׁאַל אֶת רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה, אָמַר לוֹ אֵין אַתֶּם מוֹדִים שֶׁהַקָּבָּ"ה רוֹאֶה אֶת הַנּוֹלָד? אָמַר לוֹ הֵן, אָמַר לוֹ וְהָא כְתִיב וַיִּתְעַצֵּב אֶל לִבּוֹ? אָמַר לוֹ נוֹלַד לְךָ בֵּן זָכָר מִיָּמֶיךָ? אָמַר לוֹ הֵן, אָמַר לוֹ וּמֶה עָשִׂיתָ? אָמַר לוֹ שָׂמַחְתִּי וְשִׂמַּחְתִּי אֶת הַכֹּל, אָמַר לוֹ וְלֹא הָיִיתָ יוֹדֵעַ שֶׁסּוֹפוֹ לָמוּת? אָמַר לוֹ בִּשְׁעַת חֶדְוָתָא חֶדְוָתָא בִּשְׁעַת אֶבְלָא אֶבְלָא, אָמַר לוֹ כָּךְ מַעֲשֵׂה הַקָּבָּ"ה, אַף עַל פִּי שֶׁגָּלוּי לְפָנָיו שֶׁסּוֹפָן לַחֲטוֹא וּלְאָבְדָן לֹא נִמְנַע מִלְּבָרְאָן בִּשְׁבִיל הַצַּדִּיקִים הָעֲתִידִים לַעֲמֹד מֵהֶם:
+- `rashi:6:6:1` Rashi on 6:6.1 6:6.2 6:6.3 6:6.4 «וַיִּנָּ֣חֶם יְהֹוָ֔ה כִּֽי עָשָׂ֥ה» (matched; filed at 6:6) DH «וינחם ה' כי עשה.»: נֶחָמָה הָיְתָה לְפָנָיו שֶׁבְּרָאוֹ בַתַּחְתּוֹנִים, שֶׁאִלּוּ הָיָה מִן הָעֶלְיוֹנִים הָיָה מַמְרִידָן (בבראשית רבה):
+- `rashi:6:6:2` Rashi on 6:6.8 «וַיִּתְעַצֵּ֖ב» (matched; filed at 6:6) DH «ויתעצב.»: הָאָדָם אֶל לִבּוֹ שֶׁל מָקוֹם, עָלָה בְמַחֲשַׁבְתּוֹ שֶׁל מָקוֹם לְהַעֲצִיבוֹ, זֶהוּ תַּרְגוּם אֻנְקְלוֹס. דָּבָר אַחֵר וַיִּנָּחֶם – נֶהְפְכָה מַחְשַׁבְתּוֹ שֶׁל מָקוֹם מִמִּדַּת רַחֲמִים לְמִדַּת הַדִּין, עָלָה בְמַחְשָׁבָה לְפָנָיו מַה לַּעֲשׂוֹת בָּאָדָם שֶׁעָשָׂה בָּאָרֶץ, וְכֵן כָּל לְשׁוֹן נִחוּם שֶׁבַּמִּקְרָא לְשׁוֹן נִמְלָךְ מַה לַּעֲשׂוֹת, וּבֶן אָדָם וְיִתְנֶחָם (במדבר כ"ג) וְעַל עֲבָדָיו יִתְנֶחָם (דברים ל"ב) וַיִּנָּחֶם ה' עַל הָרָעָה (שמות ל"ב) נִחַמְתִּי כִּי הִמְלַכְתִּי (שמואל א' ט"ו) כֻּלָּם לְשׁוֹן מַחֲשָׁבָה אַחֶרֶת הֵם:
+- `rashi:6:6:3` Rashi on 6:6.8 6:6.9 6:6.10 «וַיִּתְעַצֵּ֖ב אֶל לִבּֽוֹ׃» (matched; filed at 6:6) DH «ויתעצב אל לבו.»: נִתְאַבֵּל עַל אָבְדַן מַעֲשֵׂה יָדָיו, כְּמוֹ נֶעֱצַב הַמֶּלֶךְ עַל בְּנוֹ (שם ב' י"ט), וְזוֹ כָתַבְתִּי לִתְשׁוּבַת הַמִּינִים גּוֹי אֶחָד שֶׁשָּׁאַל אֶת רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה, אָמַר לוֹ אֵין אַתֶּם מוֹדִים שֶׁהַקָּבָּ"ה רוֹאֶה אֶת הַנּוֹלָד? אָמַר לוֹ הֵן, אָמַר לוֹ וְהָא כְתִיב וַיִּתְעַצֵּב אֶל לִבּוֹ? אָמַר לוֹ נוֹלַד לְךָ בֵּן זָכָר מִיָּמֶיךָ? אָמַר לוֹ הֵן, אָמַר לוֹ וּמֶה עָשִׂיתָ? אָמַר לוֹ שָׂמַחְתִּי וְשִׂמַּחְתִּי אֶת הַכֹּל, אָמַר לוֹ וְלֹא הָיִיתָ יוֹדֵעַ שֶׁסּוֹפוֹ לָמוּת? אָמַר לוֹ בִּשְׁעַת חֶדְוָתָא חֶדְוָתָא בִּשְׁעַת אֶבְלָא אֶבְלָא, אָמַר לוֹ כָּךְ מַעֲשֵׂה הַקָּבָּ"ה, אַף עַל פִּי שֶׁגָּלוּי לְפָנָיו שֶׁסּוֹפָן לַחֲטוֹא וּלְאָבְדָן לֹא נִמְנַע מִלְּבָרְאָן בִּשְׁבִיל הַצַּדִּיקִים הָעֲתִידִים לַעֲמֹד מֵהֶם:
 - `ibn-ezra:6:6:1` Ibn Ezra **normative** on 6:6.1 «וַיִּנָּ֣חֶם» (matched; filed at 6:6) DH «וינחם ד'.»: ידוע כי לא אדם הוא להנחם רק דברה תורה כלשון בני אדם כי המשחית מה שעשה יראה שניהם,
 - `ibn-ezra:6:6:2` Ibn Ezra **normative** on 6:6.8 6:6.9 6:6.10 «וַיִּתְעַצֵּ֖ב אֶל לִבּֽוֹ׃» (matched-unbolded; filed at 6:6) DH «ויתעצב אל לבו,»: וטעם ויתעצב אל לבו, הפך "ישמח ד' במעשיו" (תהלים קד לא) כי טוב בעיניו שיקבלו נבראיו חסדיו וי"א כי וינחם כמו "מתנחם לך להרגך" (בראשית כז, מב) ויפרשוהו וזע"ד ואמרו כי לבו הוא הנביא ואלו היה כן לא היה אחר ויתעצב מלת אל ואנה מצאנו שנקרא הנביא לב:
 - `ramban:6:6:1` Ramban on whole 6:6 (verse; filed at 6:6) DH «וַיִּנָּחֶם ה' וַיִּתְעַצֵּב אֶל לִבּוֹ»: דִּבְּרָה תּוֹרָה כִּלְשׁוֹן בְּנֵי אָדָם. וְהָעִנְיָן כִּי מָרוּ וְעִצְּבוּ אֶת רוּחַ קָדְשׁוֹ בְּפִשְׁעֵיהֶם. וְעִנְיַן "אֶל לִבּוֹ", כִּי לֹא הִגִּיד זֶה לְנָבִיא שָׁלוּחַ אֲלֵיהֶם, וְכֵן הַלָּשׁוֹן בַּמְּחֻשָּׁב, כְּדֶרֶךְ "לְדַבֵּר אֶל לִבִּי" (בראשית כ"ד:מ"ה) וְזוּלָתוֹ. וּבִבְרֵאשִׁית רַבָּה (בראשית רבה כ"ז:ד') אָמְרוּ בָּזֶה עִנְיָן נִכְבָּד בְּמָשָׁל שֶׁהֵבִיאוּ מִן הַסַּרְסוּר וְהָאַדְרִיכָל, וְהוּא סוֹד גָּדוֹל לֹא נִתַּן לִכָּתֵב, וְהַיּוֹדְעוֹ יִתְבּוֹנֵן לָמָּה אָמַר בְּכָאן שֵׁם הַמְיֻחָד וּבְכָל הַפָּרָשָׁה וְעִנְיַן הַמַּבּוּל שֵׁם אֱלֹהִים:
@@ -194,9 +194,9 @@ Hebrew (MAM): וַיֹּ֣אמֶר יְהֹוָ֗ה אֶמְחֶ֨ה אֶת־ה�
 
 ### Commentary anchored to this verse
 
-- `rashi:6:7:1` Rashi **normative** on 6:7.1 6:7.2 6:7.3 6:7.4 6:7.5 «וַיֹּ֣אמֶר יְהֹוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם» (matched; filed at 6:7) DH «ויאמר ה' אמחה את האדם.»: הוּא עָפָר וְאָבִיא עָלָיו מַיִם וְאֶמְחֶה אוֹתוֹ, לְכָךְ נֶאֱמַר לָשׁוֹן מִחוּי:
-- `rashi:6:7:2` Rashi **normative** on 6:7.11 6:7.12 6:7.13 «מֵֽאָדָם֙ עַד בְּהֵמָ֔ה» (matched; filed at 6:7) DH «מאדם עד בהמה.»: אַף הֵם הִשְׁחִיתוּ דַּרְכָּם (בראשית רבה). דָּבָר אַחֵר הַכֹּל נִבְרָא בִּשְׁבִיל אָדָם וְכֵיוָן שֶׁהוּא כָלֶה מַה צֹּרֶךְ בְּאֵלּוּ:
-- `rashi:6:7:3` Rashi **normative** on 6:7.19 6:7.20 6:7.21 6:7.22 «כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם׃» (matched; filed at 6:7) DH «כי נחמתי כי עשיתם.»: חָשַׁבְתִּי מַה לַּעֲשׂוֹת עַל אֲשֶׁר עֲשִׂיתִים:
+- `rashi:6:7:1` Rashi on 6:7.1 6:7.2 6:7.3 6:7.4 6:7.5 «וַיֹּ֣אמֶר יְהֹוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם» (matched; filed at 6:7) DH «ויאמר ה' אמחה את האדם.»: הוּא עָפָר וְאָבִיא עָלָיו מַיִם וְאֶמְחֶה אוֹתוֹ, לְכָךְ נֶאֱמַר לָשׁוֹן מִחוּי:
+- `rashi:6:7:2` Rashi on 6:7.11 6:7.12 6:7.13 «מֵֽאָדָם֙ עַד בְּהֵמָ֔ה» (matched; filed at 6:7) DH «מאדם עד בהמה.»: אַף הֵם הִשְׁחִיתוּ דַּרְכָּם (בראשית רבה). דָּבָר אַחֵר הַכֹּל נִבְרָא בִּשְׁבִיל אָדָם וְכֵיוָן שֶׁהוּא כָלֶה מַה צֹּרֶךְ בְּאֵלּוּ:
+- `rashi:6:7:3` Rashi on 6:7.19 6:7.20 6:7.21 6:7.22 «כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם׃» (matched; filed at 6:7) DH «כי נחמתי כי עשיתם.»: חָשַׁבְתִּי מַה לַּעֲשׂוֹת עַל אֲשֶׁר עֲשִׂיתִים:
 - `ibn-ezra:6:7:1` Ibn Ezra **normative** on 6:7.1 «וַיֹּ֣אמֶר» (matched; filed at 6:7) DH «ויאמר.»: אל לבו או אמירה למלאכים, וי"א לנח והנכון בעיני שהוא דבוק עם לבו הכתוב למעלה:
 - `radak:6:7:1` Radak on 6:7.1 6:7.2 «וַיֹּ֣אמֶר יְהֹוָ֗ה» (matched; filed at 6:7) DH «וַיֹּאמֶר ה׳.»: אָמַר בְּלִבּוֹ, אוֹ אָמַר אֶל נֹחַ.
 - `radak:6:7:2` Radak on 6:7.3 6:7.4 6:7.5 6:7.6 6:7.7 «אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֙אתִי֙» (matched; filed at 6:7) DH «אֶמְחֶה אֶת־הָאָדָם אֲשֶׁר־בָּרָאתִי.»: ״אֶת הָאָדָם״ וְלֹא כָּל אָדָם, שֶׁהֲרֵי נִשְׁאַר נֹחַ וּבָנָיו. וּבִבְרֵאשִׁית רַבָּה (כח): לָמָּה בְּמַיִם? אָמַר רַבִּי בְּרַכְיָה: כְּלוּם בָּרָאתִי אֶת הָאָדָם אֶלָּא מִן הֶעָפָר? מִי מְמַחֶה אֶת הֶעָפָר? הֲלֹא הַמַּיִם.
@@ -338,6 +338,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` ground
 - `5` land, territory, country
 - `6` earth
+- `7` ground, land, tilled — n. pr. loc. city in Naphtali
 
 ### `bdb:a.di.aa` אֶל (prep): motion to, direction towards
 - `1` to, unto
@@ -363,14 +364,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
@@ -378,15 +387,23 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
 
 ### `bdb:b.al.ab` בְּהֵמָה (n.f) root בהם: beast, animal, cattle
+- `1` beast, animal, cattle — of living creatures other than man
+- `2` beast, animal, cattle — opp. also to wild beasts
 - `3` wild beasts
 
 ### `bdb:b.cw.aa` בָּרָא (vb) root ברא: shape, create
 - `Qal` Qal shape, fashion, create
 - `Niph 1` Niph be created
+- `Niph 2` Niph with reference to birth (Niph of: shape, create)
+- `Niph 3` Niph of something new, astonishing (Niph of: shape, create)
 - `Pi 1` Pi cut down
 - `Pi 2` Pi cut out
 
 ### `bdb:e.az.ae` יהוה (n.pr.dei) root הוה: Yahweh, the one bringing into being, life-giver
+- `I` Yahweh, the one bringing into being, life-giver — יהוה is not used by E in Gn, but is given Ex 3:12-15 as the name of the God who revealed Himself to Moses at Horeb
+- `II.1` Yahweh, the one bringing into being, life-giver — יהוה is used with אלהים and suffixes, especially in D
+- `II.2` Yahweh, the one bringing into being, life-giver — the phrase † אֲנִי יהוה is noteworthy
+- `II.3` Yahweh, the one bringing into being, life-giver — יהוה is also used with several predicates, to form sacred names of holy places of Yahweh
 
 ### `bdb:h.dz.ab` חֵן (n.m) root חנן: favour, grace
 - `1` favour, grace, elegance
@@ -404,9 +421,13 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.cv.ab` יֵ֫צֶר (n.m) root יצר: form, framing, purpose
 - `1` pottery
+- `2` form, framing, purpose — form of a graven image
+- `3` form, framing, purpose — form of man as made on the dust
+- `4` form, framing, purpose — of what is framed in the mind
 
 ### `bdb:k.bg.aa` כִּי (conj): that, for, when
 - `1` that
@@ -418,7 +439,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:l.ai.ac` לֵב (n.m) root לבב: inner man, mind, will, heart
 - `I` in the midst of the sea
@@ -427,10 +451,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.3` mind
 - `II.4` inclinations, resolutions, determinations of the will
 - `II.5` conscience
+- `II.6` inner man, mind, will, heart — [various]
 - `II.7` the man himself
 - `II.8` seat of appetites
 - `II.9` seat of emotions and passions
 - `II.10` seat of courage
+- `II` inner man, mind, will, heart — elsewhere of men
 
 ### `bdb:m.bl.aa` מָחָה (vb) root מחה: wipe, wipe out
 - `Qal 1` Qal wipe
@@ -445,6 +471,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1` Qal find
 - `Qal 2` Qal find out
 - `Qal 3` Qal come upon, light upon
+- `Qal 4` Qal attain to, find — noteworthy phrases
 - `Niph` Niph be found
 - `Hiph 1` Hiph cause to find, attain
 - `Hiph 2` Hiph cause to light upon, come upon, come
@@ -466,23 +493,39 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithpa 4` Hithpa ease oneself
 
 ### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
+- `I.1` as far as, even to, up to, until, while — of space
+- `I.2` as far as, even to, up to, until, while — Of time
+- `I.3` as far as, even to, up to, until, while — Of degree
+- `I` as far as, even to, up to, until, while — prep
 - `II.1` until
 - `II.2` While
 - `II.3` to the point that, so that even
+- `II` as far as, even to, up to, until, while — conj
+- `III.1` as far as, even to, up to, until, while — of space
+- `III.2` as far as, even to, up to, until, while — Of time
+- `III.3` as far as, even to, up to, until, while — Of degree
+- `III` as far as, even to, up to, until, while — עַד לְ, a strengthened form for עַד. Thus
 
 ### `bdb:p.bk.ab` עוֹף (n.m) root עוף: flying creatures, fowls, insects
 - `1` fowl, birds
 - `2` winged insects
 
 ### `bdb:p.ck.aa` עַ֫יִן (n.f) root עין: eye
+- `1` eye — lit. as physical organ
+- `2.a` eye — eyes as showing mental qualities
 - `2.b` desire of the eyes, abominations of the eyes
-- `2.a` surface
-- `2.b#3` appearance
+- `3` eye — Fig. of mental and physical faculties, acts and states
+- `2.a#5` surface
+- `2.b#6` appearance
 - `2.c` gleam, sparkle
+- `2` eye — Transferred mngs
 - `5` an eye for an eye, eye to eye, in the presence of, in full view of, on the forehead
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -494,13 +537,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.ei.aa` עָצַב (vb) root עצב: hurt, pain, grieve
 - `Qal` Qal had, pained him
@@ -542,6 +588,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `I.4` face
 - `I.5` face, surface
 - `I.6` before
+- `I.7` face, faces — for other phrases
+- `II` face, faces — with prepositions
 
 ### `bdb:t.ab.aa` רָאָה (vb) root ראה: see
 - `Qal 1.a` Qal see
@@ -551,6 +599,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4` Qal see, have, vision
 - `Qal 5` Qal see
 - `Qal 6` Qal look at, see
+- `Qal 7` Qal see — of mental observation
 - `Qal 8.a` Qal look into, look at
 - `Qal 8.b` Qal see
 - `Niph 1` Niph appear
@@ -568,10 +617,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a.(1)` much
 - `1.a.(2)` numerous
 - `1.b` many
+- `1.c` much, many, great — רַב as subst. coll. pers
 - `1.d` abounding in
 - `1.e` more numerous than
 - `1.f` abundant, enough
 - `1.g` much, exceedingly
+- `1` much, many, great — (oft. opp. מְעַט)
 - `2` great
 
 ### `bdb:t.dc.ab` רֶ֫מֶשׂ (n.m) root רמשׂ: creeping things, moving things
@@ -599,4 +650,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:v.dy.ab` שָׁמַיִם (n.m) root שׁמה: heavens, sky
 - `1.a` visible heavens, sky
+- `1.b` heavens, sky — phrases
+- `2.a` heavens, sky — as abode of God
+- `2.b` heavens, sky — Elijah taken up הַשּׁ׳ in whirlwind
+- `3` heavens, sky — הַשּׁ׳ personified in various relations
 

@@ -58,6 +58,8 @@ func applyOne(seg *SegmentTr, p Patch) error {
 		return json.Unmarshal(p.Value, &seg.Phrases)
 	case "apparatus":
 		return json.Unmarshal(p.Value, &seg.Apparatus)
+	case "context":
+		return json.Unmarshal(p.Value, &seg.Context)
 	}
 	if rest, ok := strings.CutPrefix(p.Path, "token:"); ok {
 		// Token ids contain "." ("1:1.2"): the field follows the last one.

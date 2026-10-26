@@ -23,8 +23,8 @@ Hebrew (MAM): וַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב וַיֵּצֵ
 
 ### Commentary anchored to this verse
 
-- `rashi:8:7:1` Rashi **normative** on 8:7.5 8:7.6 «יָצוֹא֙ וָשׁ֔וֹב» (matched; filed at 8:7) DH «יצוא ושוב.»: הוֹלֵךְ וּמַקִּיף סְבִיבוֹת הַתֵּבָה, וְלֹא הָלַךְ בִּשְׁלִיחוּתוֹ, שֶׁהָיָה חוֹשְׁדוֹ עַל בַּת זוּגוֹ, כְּמוֹ שֶׁשָּׁנִינוּ בְּאַגָּדַת חֵלֶק (סנה' ק"ח):
-- `rashi:8:7:2` Rashi **normative** on 8:7.7 8:7.8 8:7.9 «עַד יְבֹ֥שֶׁת הַמַּ֖יִם» (matched; filed at 8:7) DH «עד יבשת המים.»: פְּשׁוּטוֹ כְּמַשְׁמָעוֹ. אֲבָל מִדְרַשׁ אַגָּדָה מוּכָן הָיָה הָעוֹרֵב לִשְׁלִיחוּת אַחֶרֶת בַּעֲצִירַת גְּשָׁמִים בִּימֵי אֵלִיָּהוּ, שֶׁנֶּאֱמַר וְהָעֹרְבִים מְבִאִים לוֹ לֶחֶם וּבָשָׂר (מ"א י"ז):
+- `rashi:8:7:1` Rashi on 8:7.5 8:7.6 «יָצוֹא֙ וָשׁ֔וֹב» (matched; filed at 8:7) DH «יצוא ושוב.»: הוֹלֵךְ וּמַקִּיף סְבִיבוֹת הַתֵּבָה, וְלֹא הָלַךְ בִּשְׁלִיחוּתוֹ, שֶׁהָיָה חוֹשְׁדוֹ עַל בַּת זוּגוֹ, כְּמוֹ שֶׁשָּׁנִינוּ בְּאַגָּדַת חֵלֶק (סנה' ק"ח):
+- `rashi:8:7:2` Rashi on 8:7.7 8:7.8 8:7.9 «עַד יְבֹ֥שֶׁת הַמַּ֖יִם» (matched; filed at 8:7) DH «עד יבשת המים.»: פְּשׁוּטוֹ כְּמַשְׁמָעוֹ. אֲבָל מִדְרַשׁ אַגָּדָה מוּכָן הָיָה הָעוֹרֵב לִשְׁלִיחוּת אַחֶרֶת בַּעֲצִירַת גְּשָׁמִים בִּימֵי אֵלִיָּהוּ, שֶׁנֶּאֱמַר וְהָעֹרְבִים מְבִאִים לוֹ לֶחֶם וּבָשָׂר (מ"א י"ז):
 - `radak:8:7:1` Radak on 8:7.1 8:7.2 8:7.3 «וַיְשַׁלַּ֖ח אֶת הָֽעֹרֵ֑ב» (matched; filed at 8:7) DH «וַיְשַׁלַּח אֶת־הָעֹרֵב.»: אָמַר: הָעוֹרֵב אוֹכֵל בָּשָׂר וְיִמְצָא נִבְלוֹת הָאָדָם וְהַבְּהֵמָה, וְאִם יֶחְסְרוּ כָּל כָּךְ הַמַּיִם שֶׁיִּמְצָא נִבְלוֹת שֶׁהֵם מֻשְׁלָכִים בָּאָרֶץ, יָבִיא בְּפִיו שׁוּם בָּשָׂר וְנֵדַע כִּי חָסְרוּ הַמַּיִם. וְשִׁלְּחוֹ וְלֹא הֵבִיא דָּבָר בְּפִיו, וְרָאָהוּ יָצֹא יָצוֹא וָשׁוֹב, וְלֹא הִכִּיר מִמֶּנּוּ דָּבָר כִּי הָיָה נִכְנָס בְּקִנּוֹ, וְיוֹצֵא לִרְאוֹת אִם יִמְצָא מָקוֹם לְשָׁכְנוֹ וְשָׁב אֶל קִנּוֹ, וְזֶה עָשָׂה עַד־יְבֹשֶׁת הַמַּיִם. וְאָמְרוּ בַּמִּדְרָשׁ (סנהדרין קח) עַל דֶּרֶךְ הַמְּלִיצָה שֶׁלֹּא הָלַךְ מֵחֲשָׁד. וּבִרְאוֹת נֹחַ כִּי לֹא לָמַד מֵהָעוֹרֵב דָּבָר, שָׁלַח אֶת הַיּוֹנָה, כִּי הַיּוֹנָה יֵשׁ בָּהּ כֹּחַ הַדִּמְיוֹן לְהָשִׁיב שׁוֹלְחָהּ דָּבָר אַחַר שֶׁמּוֹלִיכִין אוֹתָהּ בְּאוֹתָהּ הַדֶּרֶךְ פַּעַם אוֹ שְׁתַּיִם, גַּם יֵשׁ בָּהּ טֶבַע תְּשׁוּבָה, לָשׁוּב אֶל קִנָּהּ. וְכֵן מִנְהַג הַמְּלָכִים לְגַדְּלָהּ בְּבֵיתָם וּלְשָׁלְחָהּ בִּמְקוֹמוֹת הָרְחוֹקִים וְקוֹשְׁרִין כְּתָב בִּכְנָפֶיהָ, וְהִיא שָׁבָה אֶל שׁוֹלְחָהּ בִּכְתַב הַתְּשׁוּבָה שֶׁקּוֹשֵׁר אוֹתָהּ בִּכְנָפֶיהָ גַּם מִי שֶׁנִּשְׁתַּלְּחָה לָהֶם. וְלָכָךְ פֵּרְשׁוּ הַגְּאוֹנִים מַה שֶּׁנֶּאֱמַר בַּתַּלְמוּד (שבת מט) ״מָה יוֹנָה כְּנָפֶיהָ מְגִנּוֹת עָלֶיהָ״, כְּלוֹמַר שֶׁאֵין שׁוֹחֲטִין אוֹתָהּ, כִּי בַּעֲבוּר שְׁלִיחוּתָם מְגַדְּלִים וּמְחַיִּים אוֹתָהּ, וְהִיא שָׁבָה אֶל שׁוֹלְחָהּ, וְזֶה תַּעֲשֶׂה כָּל הַפְּעָמִים שֶׁשּׁוֹלְחִים אוֹתָהּ. וְשָׁלַח נֹחַ אוֹתָהּ כִּי יָדַע שֶׁתָּבִיא לוֹ שׁוּם דָּבָר לְסִימָן אִם תִּמְצָא עָלֶה אוֹ גַּרְגִּיר. וְזֶה ״וַתָּשָׁב אֵלָיו אֶל־הַתֵּבָה״ (בראשי … [cut; full text in the review pack]
 - `onkelos:8:7:1` Targum Onkelos on whole 8:7 (version; filed at 8:7): וְשַׁלַּח יָת עָרְבָּא וּנְפַק מִפַּק וְתַיִב עַד דְּיַבִּישׁוּ מַיָּא מֵעַל אַרְעָא:
 - `sforno:8:7:1` Sforno on 8:7.1 8:7.2 8:7.3 «וַיְשַׁלַּ֖ח אֶת הָֽעֹרֵ֑ב» (matched; filed at 8:7) DH «וַיְשַׁלַּח אֶת הָעוֹרֵב.»: לִרְאוֹת אִם יָבֵשׁ הָאֲוִיר אַחַר שֶׁנִּרְאוּ רָאשֵׁי הֶהָרִים, בְּאֹפֶן שֶׁיּוּכַל הָעוֹרֵב לְסָבְלוֹ.
@@ -50,8 +50,8 @@ Hebrew (MAM): וַיְשַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מֵאִתּ
 
 ### Commentary anchored to this verse
 
-- `rashi:8:8:1` Rashi **normative** on 8:8.1 8:8.2 8:8.3 «וַיְשַׁלַּ֥ח אֶת הַיּוֹנָ֖ה» (matched; filed at 8:8) DH «וישלח את היונה.»: לְסוֹף ז' יָמִים שֶׁהֲרֵי כְתִיב וַיָּחֶל עוֹד ז' יָמִים אֲחֵרִים, מִכְּלַל זֶה אַתָּה לָמֵד שֶׁאַף בָּרִאשׁוֹנָה הוֹחִיל ז' יָמִים:
-- `rashi:8:8:2` Rashi **normative** on 8:8.1 «וַיְשַׁלַּ֥ח» (matched; filed at 8:8) DH «וישלח.»: אֵין זֶה לְשׁוֹן שְׁלִיחוּת אֶלָּא לְשׁוֹן שִׁלּוּח, שִׁלְּחָהּ לָלֶכֶת לְדַרְכָּה, וּבְזוֹ יִרְאֶה אִם קַלּוּ הַמַּיִם, שֶׁאִם תִּמְצָא מָנוֹחַ לֹא תָשׁוּב אֵלָיו:
+- `rashi:8:8:1` Rashi on 8:8.1 8:8.2 8:8.3 «וַיְשַׁלַּ֥ח אֶת הַיּוֹנָ֖ה» (matched; filed at 8:8) DH «וישלח את היונה.»: לְסוֹף ז' יָמִים שֶׁהֲרֵי כְתִיב וַיָּחֶל עוֹד ז' יָמִים אֲחֵרִים, מִכְּלַל זֶה אַתָּה לָמֵד שֶׁאַף בָּרִאשׁוֹנָה הוֹחִיל ז' יָמִים:
+- `rashi:8:8:2` Rashi on 8:8.1 «וַיְשַׁלַּ֥ח» (matched; filed at 8:8) DH «וישלח.»: אֵין זֶה לְשׁוֹן שְׁלִיחוּת אֶלָּא לְשׁוֹן שִׁלּוּח, שִׁלְּחָהּ לָלֶכֶת לְדַרְכָּה, וּבְזוֹ יִרְאֶה אִם קַלּוּ הַמַּיִם, שֶׁאִם תִּמְצָא מָנוֹחַ לֹא תָשׁוּב אֵלָיו:
 - `onkelos:8:8:1` Targum Onkelos on whole 8:8 (version; filed at 8:8): וְשַׁלַּח יָת יוֹנָה מִלְּוָתֵיהּ לְמֶחֱזֵי הֲקַלִּיאוּ מַיָּא מֵעַל אַפֵּי אַרְעָא:
 - `sforno:8:8:1` Sforno on 8:8.1 8:8.2 8:8.3 «וַיְשַׁלַּ֥ח אֶת הַיּוֹנָ֖ה» (matched; filed at 8:8) DH «וַיְשַׁלַּח אֶת הַיּוֹנָה.»: כָּל מִין הַיּוֹנָה שֶׁהָיוּ שִׁבְעָה שִׁבְעָה.
 - `sforno:8:8:2` Sforno on 8:8.5 8:8.6 «לִרְאוֹת֙ הֲקַ֣לּוּ» (matched; filed at 8:8) DH «לִרְאוֹת הֲקַלּוּ.»: שֶׁאִם הָקַלּוּ תְּקַנֵּן בֶּהָרִים וּבַמִּגְדָּלִים כְּמִנְהָגָהּ.
@@ -116,7 +116,7 @@ Hebrew (MAM): וַיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים א
 
 ### Commentary anchored to this verse
 
-- `rashi:8:10:1` Rashi **normative** on 8:10.1 «וַיָּ֣חֶל» (matched; filed at 8:10) DH «ויחל.»: לְשׁוֹן הַמְתָּנָה, וְכֵן לִי שָׁמְעוּ וְיִחֵלּוּ (איוב כ"ט), וְהַרְבֵּה יֵשׁ בַּמִּקְרָא:
+- `rashi:8:10:1` Rashi on 8:10.1 «וַיָּ֣חֶל» (matched; filed at 8:10) DH «ויחל.»: לְשׁוֹן הַמְתָּנָה, וְכֵן לִי שָׁמְעוּ וְיִחֵלּוּ (איוב כ"ט), וְהַרְבֵּה יֵשׁ בַּמִּקְרָא:
 - `ibn-ezra:8:10:1` Ibn Ezra **normative** on 8:10.1 8:10.2 «וַיָּ֣חֶל ע֔וֹד» (matched-unbolded; filed at 8:10) DH «ויחל עוד,»: ומלת ויחל עוד, על דעתי מתחלה כי אילו היתה מגזרת תוחלת היה וייחל כמו וייקץ או ייחל כמו וישב יעקב (בראשית לז א) ויתכן להיותה מלה זרה בדקדוק:
 - `ibn-ezra:8:10:2` Ibn Ezra **normative** on 8:10.6 8:10.7 8:10.8 8:10.9 8:10.10 8:10.11 «וַיֹּ֛סֶף שַׁלַּ֥ח אֶת הַיּוֹנָ֖ה מִן הַתֵּבָֽה׃» (matched; filed at 8:10) DH «ויוסף שלח את היונה מן התיבה,»: בארבעה ועשרים בשבט:
 - `radak:8:10:1` Radak on 8:10.1 «וַיָּ֣חֶל» (matched; filed at 8:10) DH «וַיָּחֶל.»: שָׁרְשׁוֹ חוּ״ל, מִבִּנְיַן הִפְעִיל, וְכֵן מִשָּׁרְשׁוֹ וּמִבִּנְיָנוֹ ״וַיָּחִילוּ עַד־בּוֹשׁ״ (שופטים ג:כה).
@@ -149,8 +149,8 @@ Hebrew (MAM): וַתָּבֹ֨א אֵלָ֤יו הַיּוֹנָה֙ לְעֵ֣�
 
 ### Commentary anchored to this verse
 
-- `rashi:8:11:1` Rashi **normative** on 8:11.9 8:11.10 «טָרָ֣ף בְּפִ֑יהָ» (matched; filed at 8:11) DH «טרף בפיה.»: אוֹמֵר אֲנִי שֶׁזָּכָר הָיָה, לְכֵן קוֹרְאוֹ פְעָמִים לְשׁוֹן זָכָר וּפְעָמִים לְשׁוֹן נְקֵבָה, לְפִי שֶׁכָּל יוֹנָה שֶׁבַּמִּקְרָא לְשׁוֹן נְקֵבָה, כְּמוֹ כְּיוֹנִים עַל אֲפִיקֵי מָיִם רֹחֲצוֹת (שיר ה'), כְּיוֹנֵי הַגֵּאָיוֹת כֻּלָּם הֹמוֹת (יחז' ז') וּכְמוֹ כְּיוֹנָה פוֹתָה (הושע ז'):
-- `rashi:8:11:2` Rashi **normative** on 8:11.9 «טָרָ֣ף» (matched; filed at 8:11) DH «טרף.»: חָטַף. וּמִדְרַשׁ אַגָּדָה (עיר' י"ח) לְשׁוֹן מָזוֹן; וְדָרְשׁוּ בְּפִיהָ לְשׁוֹן מַאֲמָר, אָמְרָה יִהְיוּ מְזוֹנוֹתַי מְרוֹרִין כְּזַיִת בְּיָדוֹ שֶׁל הַקָּבָּ"ה וְלֹא מְתוּקִין כִּדְבַשׁ בִּידֵי בָשָׂר וָדָם:
+- `rashi:8:11:1` Rashi on 8:11.9 8:11.10 «טָרָ֣ף בְּפִ֑יהָ» (matched; filed at 8:11) DH «טרף בפיה.»: אוֹמֵר אֲנִי שֶׁזָּכָר הָיָה, לְכֵן קוֹרְאוֹ פְעָמִים לְשׁוֹן זָכָר וּפְעָמִים לְשׁוֹן נְקֵבָה, לְפִי שֶׁכָּל יוֹנָה שֶׁבַּמִּקְרָא לְשׁוֹן נְקֵבָה, כְּמוֹ כְּיוֹנִים עַל אֲפִיקֵי מָיִם רֹחֲצוֹת (שיר ה'), כְּיוֹנֵי הַגֵּאָיוֹת כֻּלָּם הֹמוֹת (יחז' ז') וּכְמוֹ כְּיוֹנָה פוֹתָה (הושע ז'):
+- `rashi:8:11:2` Rashi on 8:11.9 «טָרָ֣ף» (matched; filed at 8:11) DH «טרף.»: חָטַף. וּמִדְרַשׁ אַגָּדָה (עיר' י"ח) לְשׁוֹן מָזוֹן; וְדָרְשׁוּ בְּפִיהָ לְשׁוֹן מַאֲמָר, אָמְרָה יִהְיוּ מְזוֹנוֹתַי מְרוֹרִין כְּזַיִת בְּיָדוֹ שֶׁל הַקָּבָּ"ה וְלֹא מְתוּקִין כִּדְבַשׁ בִּידֵי בָשָׂר וָדָם:
 - `ibn-ezra:8:11:1` Ibn Ezra **normative** on 8:11.9 8:11.10 «טָרָ֣ף בְּפִ֑יהָ» (matched; filed at 8:11) DH «טרף בפיה,»: י"א שהיא מלה מוכפלת בטעם כמו אדמת עפר (דניאל יב ב) ויפרשו טָרָף כמו עלה זית וכן "כל טרפי צמחה (יחז' יז ט) והראיה שיש תחת הרי"ש קמץ גדול כמו זָהָב וְעָשָן והנכון בעיני שיהיה הבי"ת נוסף כבי"ת "ברוחו שמים שפרה" (איוב כו יג) והוא באחד (שם כג יג), ובא בקמץ "כמו כי הוא טָרָף" (הושע ו א) אריה שָאָג (עמוס ג ח) וחבריהם או יהיה טָרָף קמוץ בעבור שהוא תואר השם כמו חָכָם, והטעם כמו טרוף כי יש תואר דומה לפועל ויש תואר דומה לפעול:
 - `ramban:8:11:1` Ramban on 8:11.6 8:11.7 8:11.8 8:11.9 8:11.10 «וְהִנֵּ֥ה עֲלֵה זַ֖יִת טָרָ֣ף בְּפִ֑יהָ» (matched; filed at 8:11) DH «וְהִנֵּה עֲלֵה זַיִת טָרָף בְּפִיהָ»: מִפְּשׁוּטוֹ שֶׁל פָּסוּק זֶה יֵרָאֶה שֶׁלֹּא נֶעֶקְרוּ הָאִילָנוֹת וְלֹא נִמְחוּ בַּמַּבּוּל, כִּי לֹא הָיָה שָׁם נַחַל שׁוֹטֵף בַּעֲבוּר כִּי נִתְמַלֵּא כָּל הָעוֹלָם מַיִם. אֲבָל בִּבְרֵאשִׁית רַבָּה (בראשית רבה ל"ג:ו') אָמְרוּ, מֵהֵיכָן הֵבִיאָה אוֹתוֹ, רַבִּי לֵוִי אָמַר מֵהַר הַמִּשְׁחָה הֵבִיאָה אוֹתוֹ, דְּלָא טָפַת אַרְעָא דְּיִשְׂרָאֵל בְּמַיָּא דְּמַבּוּלָא, הוּא שֶׁהַקָּדוֹשׁ בָּרוּךְ הוּא אָמַר לִיחֶזְקֵאל, "בֶּן אָדָם אֱמָר לָהּ אַתְּ אֶרֶץ לֹא מְטֹהָרָה הִיא לֹא גֻשְׁמָהּ בְּיוֹם זָעַם" (יחזקאל כב כד). רַבִּי בֵּירֵיי אָמַר נִפְתְּחוּ לָהּ שַׁעֲרֵי גַּן עֵדֶן וְהֵבִיאָה אוֹתוֹ. וְהִנֵּה כַּוָּנָתָם שֶׁנֶּעֶקְרוּ הָאִילָנוֹת וְנִמְחוּ בִּמְקוֹמוֹת הַמַּבּוּל, וְאַף כִּי יִהְיֶה הֶעָלֶה נָבֵל. וְכֵן אָמְרוּ (ב"ר ל ח), אֲפִילּוּ אִצְטְרוּבוֹלִין שֶׁל רֵחַיִם נִמּוֹחוּ בַּמַּבּוּל, וְדָרְשׁוּ בּוֹ "אֲבָנִים שָׁחֲקוּ מַיִם" (איוב יד יט). וּמַאֲמָרָם "דְּלָא טָפַת אַרְעָא דְּיִשְׂרָאֵל בְּמַיָּא דְּמַבּוּלָא" שֶׁלֹּא הָיָה עָלֶיהָ גֶּשֶׁם הַמַּבּוּל, כְּדִכְתִיב "לֹא גֻשְׁמָהּ" וְלֹא נִפְתְּחוּ בָּהּ מַעְיְנוֹת תְּהוֹם רַבָּה, אֲבָל הַמַּיִם נִתְפַּשְּׁטוּ בְּכָל הָעוֹלָם וְכִסּוּ כָּל הֶהָרִים הַגְּבֹהִים אֲשֶׁר תַּחַת כָּל הַשָּׁמָיִם, כְּמוֹ שֶׁכָּתוּב מְפֹרָשׁ (בראשית ז':י"ט), וְאֵין סְבִיב אֶרֶץ יִשְׂרָאֵל גָּדֵר לְעַכֵּב הַמַּיִם שֶׁלֹּא יָבֹאוּ בָהּ. וְכָךְ אָמְרוּ בְּפִרְקֵי רַבִּי אֱלִיעֶזֶר (פרק כג), אֶרֶץ יִשְׂרָאֵל לֹא יָרַד עָלֶיהָ מֵי הַמַּבּוּל מִן הַשָּׁמַיִם אֶלָּא נִתְגַּלְגְּלוּ הַמַּיִם מִן הָאֲרָצוֹת וְנִכְנְסוּ לְתוֹכָהּ, שֶׁנֶּאֱמַר "בֶּן אָדָם  … [cut; full text in the review pack]
 - `ramban:8:11:2` Ramban on 8:11.9 8:11.10 «טָרָ֣ף בְּפִ֑יהָ» (matched; filed at 8:11) DH «טָרָף בְּפִיהָ»: כָּתַב רַשִׁ"י (רש"י על בראשית ח':י"א): אוֹמֵר אֲנִי שֶׁזָּכָר הָיָה וּלְכָךְ קוֹרֵא אוֹתוֹ פְּעָמִים לְשׁוֹן זָכָר וּפְעָמִים לְשׁוֹן נְקֵבָה, לְפִי שֶׁכָּל יוֹנָה שֶׁבַּמִּקְרָא לְשׁוֹן נְקֵבָה הוּא, טָרָף – חָטַף. וּמִדְרַשׁ אַגָּדָה לְשׁוֹן מָזוֹן, וְדָרְשׁוּ "בְּפִיהָ" לְשׁוֹן מַאֲמָר, אָמְרָה יִהְיוּ מְזוֹנוֹתַי מְרוּרִין כְּזַיִת וּבְיָדוֹ שֶׁל הקב"ה וְאַל יִהְיוּ מְתוּקִים כִּדְבַשׁ בְּיַד אָדָם. וְאֵין כָּל זֶה נָכוֹן בְּעֵינַי, כִּי חֲזָרַת זֵכֶר הַיּוֹנִים מִנְּקֵבָה לְזָכָר בְּמָקוֹם אֶחָד מִן הַפָּרָשָׁה אֵין בּוֹ טַעַם, וְאִם הַלָּשׁוֹן לִקְרֹא כֻּלָּם בְּשֵׁם הַנְּקֵבוֹת לָמָּה שִׁנָּה בְּכָאן? וְכֵן מִדְרָשָׁם בַּהַגָּדָה לֹא שֶׁיַּעֲשׂוּ "בְּפִיהָ" לְשׁוֹן מַאֲמָר כְּלָל, אֲבָל מִדְרָשָׁם מִפְּנֵי שֶׁהֵבִיאָה הֶעָלֶה הַזֶּה, כִּי אִם נֹאמַר שֶׁאֵרַע כֵּן לֹא עַל חִנָּם פֵּרֵשׁ אוֹתוֹ הַכָּתוּב, כִּי הָיָה לוֹ לוֹמַר וְהִנֵּה עָלֶה טָרָף בְּפִיהָ, וְהַזַּיִת אֵינֶנּוּ בָּא מִן הָאִילָנוֹת הַגְּבוֹהִים מְאֹד שֶׁיִּשְׁכְּנוּ בּוֹ הָעוֹפוֹת לְאֹרֶךְ דָּלִיּוֹתָיו, וּלְכָךְ אָמְרוּ כִּי הָיָה בָּזֶה רֶמֶז, שֶׁהָעוֹפוֹת נוֹחַ לָהֶם לִהְיוֹת מְזֹנוֹתָם מָרִים כַּלַּעֲנָה בְּיַד הקב"ה וְלֹא שֶׁיִּהְיוּ טוֹבִים בִּידֵי אָדָם, וְכָל שֶׁכֵּן בְּנֵי הָאָדָם שֶׁאֵין רְצוֹנָם לְהִתְפַּרְנֵס זֶה מִזֶּה. וּלְשׁוֹן בְּרֵאשִׁית רַבָּה (בראשית רבה לג ו): אָמַר רַבִּי אֲבָהוּ אִלּוּ מִגַּן עֵדֶן הֵבִיאָה אוֹתוֹ לֹא הָיָה לָהּ לְהָבִיא דָּבָר מְעֻלֶּה אוֹ קִנָּמוֹן אוֹ פְּפוּלְסְמוֹן, אֶלָּא רֶמֶז רָמְזָה לוֹ נֹחַ מַר מִזֶּה מִתַּחַת יָדוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא וְלֹא מָתו … [cut; full text in the review pack]
@@ -182,7 +182,7 @@ Hebrew (MAM): וַיִּיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖�
 
 ### Commentary anchored to this verse
 
-- `rashi:8:12:1` Rashi **normative** on 8:12.1 «וַיִּיָּ֣חֶל» (matched; filed at 8:12) DH «וייחל.»: הוּא לְשׁוֹן וַיָּחֶל, אֶלָּא שֶׁזֶּה לְשׁוֹן וַיִּפְעַל וְזֶה לְשׁוֹן וַיִּתְפַּעֵל, וַיָּחֶל – וַיַּמְתֵּן; וַיִּיָּחֶל – וַיִּתְמַתֵּן:
+- `rashi:8:12:1` Rashi on 8:12.1 «וַיִּיָּ֣חֶל» (matched; filed at 8:12) DH «וייחל.»: הוּא לְשׁוֹן וַיָּחֶל, אֶלָּא שֶׁזֶּה לְשׁוֹן וַיִּפְעַל וְזֶה לְשׁוֹן וַיִּתְפַּעֵל, וַיָּחֶל – וַיַּמְתֵּן; וַיִּיָּחֶל – וַיִּתְמַתֵּן:
 - `ibn-ezra:8:12:1` Ibn Ezra **normative** on 8:12.1 «וַיִּיָּ֣חֶל» (matched; filed at 8:12) DH «וַיִיָחֶל,»: מבנין נפעל ובא כלעיל כמו וַיִלָּחֶם (במדבר כא א) וַיִצָמֶד (שם כה ג) ויש מזה הבנין שהוא מלרע כמו וַיִפָּקֵד מקום דוד (ש"א כ כז) ובא יו"ד וייחל בשרשו השלם כיו"ד "או ירה יִיָרֶה" (שמות יט יג)
 - `ibn-ezra:8:12:3` Ibn Ezra **normative** on 8:12.2 «ע֔וֹד» (matched-unbolded; filed at 8:12) DH «עוד,»: עוד, לעולם וכן עוד טומאתו בו (במדבר יט יג), עוד כל ימי הארץ (בראשית ח כב):
 - `radak:8:12:1` Radak on 8:12.1 8:12.2 «וַיִּיָּ֣חֶל ע֔וֹד» (matched; filed at 8:12) DH «וַיִּיָּחֶל עוֹד.»: מִבִּנְיַן נִפְעַל, שָׁרְשׁוֹ יח״ל. וְאִלּוּ הָיָה מִבִּנְיַן הִתְפַּעֵל, הָיָה הַיּוּ״ד שֶׁהִיא פ״א הַפֹּעַל פְּתוּחָה, וְהִיא קְמוּצָה.
@@ -221,8 +221,8 @@ Hebrew (MAM): וַ֠יְהִ֠י בְּאַחַ֨ת וְשֵׁשׁ־מֵא֜וֹ
 
 ### Commentary anchored to this verse
 
-- `rashi:8:13:1` Rashi **normative** on 8:13.6 «בָּֽרִאשׁוֹן֙» (matched; filed at 8:13) DH «בראשון.»: לְרַבִּי אֱלִיעֶזֶר הוּא תִּשְׁרֵי וּלְרַבִּי יְהוֹשֻׁעַ הוּא נִיסָן (ר"ה י"א):
-- `rashi:8:13:2` Rashi **normative** on 8:13.9 «חָֽרְב֥וּ» (matched; filed at 8:13) DH «חרבו.»: נַעֲשָׂה כְמִין טִיט, שֶׁקָּרְמוּ פָנֶיהָ שֶׁל מַעְלָה:
+- `rashi:8:13:1` Rashi on 8:13.6 «בָּֽרִאשׁוֹן֙» (matched; filed at 8:13) DH «בראשון.»: לְרַבִּי אֱלִיעֶזֶר הוּא תִּשְׁרֵי וּלְרַבִּי יְהוֹשֻׁעַ הוּא נִיסָן (ר"ה י"א):
+- `rashi:8:13:2` Rashi on 8:13.9 «חָֽרְב֥וּ» (matched; filed at 8:13) DH «חרבו.»: נַעֲשָׂה כְמִין טִיט, שֶׁקָּרְמוּ פָנֶיהָ שֶׁל מַעְלָה:
 - `ibn-ezra:8:12:2` Ibn Ezra **normative** on 8:13.7 «בְּאֶחָ֣ד» (shifted-unbolded; filed at 8:12) DH «ובאחד»: ובאחד באדר שלח את היונה, ולא יספה כמשפטה לשוב אליו,
 - `ibn-ezra:8:13:1` Ibn Ezra **normative** on 8:13.9 8:13.10 «חָֽרְב֥וּ הַמַּ֖יִם» (matched; filed at 8:13) DH «חרבו המים»: . לכן לא תוכל הרגל לדרוך על הארץ, שהיא רכה, כי פניה חרבו לבדם ואחר כך יבשה הארץ והאומרים על שנת הלבנה נשען בעבור עשרה ימים שהם נוספים בעבור שנת החמה, צריכים להיות שנתם שלימה ועוד מי מלל להם ששנה עמד נח בתיבה רק עמד שנת החמה, ועוד יו"ד ימים:
 - `radak:8:13:1` Radak on 8:13.2 8:13.3 8:13.4 8:13.5 «בְּאַחַ֨ת וְשֵׁשׁ מֵא֜וֹת שָׁנָ֗ה» (matched; filed at 8:13) DH «בְּאַחַת וְשֵׁשׁ מֵאוֹת שָׁנָה»: לְנֹחַ כְּמוֹ שֶׁאָמַר.
@@ -251,8 +251,8 @@ Paragraph mark after this verse: ס
 
 ### Commentary anchored to this verse
 
-- `rashi:8:14:1` Rashi **normative** on 8:14.3 8:14.4 «בְּשִׁבְעָ֧ה וְעֶשְׂרִ֛ים» (matched; filed at 8:14) DH «בשבעה ועשרים.»: יְרִידָתָן בַּחֹדֶשׁ הַשֵּׁנִי בְי"ז בַּחֹדֶשׁ, אֵלּוּ י"א יָמִים שֶׁהַחַמָּה יְתֵרָה עַל הַלְּבָנָה, שֶׁמִּשְׁפַּט דוֹר הַמַּבּוּל שָׁנָה תְמִימָה הָיָה:
-- `rashi:8:14:2` Rashi **normative** on 8:14.7 «יָבְשָׁ֖ה» (matched; filed at 8:14) DH «יבשה.»: נַעֲשָׂה גָּרִיד כְּהִלְכָתָהּ:
+- `rashi:8:14:1` Rashi on 8:14.3 8:14.4 «בְּשִׁבְעָ֧ה וְעֶשְׂרִ֛ים» (matched; filed at 8:14) DH «בשבעה ועשרים.»: יְרִידָתָן בַּחֹדֶשׁ הַשֵּׁנִי בְי"ז בַּחֹדֶשׁ, אֵלּוּ י"א יָמִים שֶׁהַחַמָּה יְתֵרָה עַל הַלְּבָנָה, שֶׁמִּשְׁפַּט דוֹר הַמַּבּוּל שָׁנָה תְמִימָה הָיָה:
+- `rashi:8:14:2` Rashi on 8:14.7 «יָבְשָׁ֖ה» (matched; filed at 8:14) DH «יבשה.»: נַעֲשָׂה גָּרִיד כְּהִלְכָתָהּ:
 - `radak:8:14:1` Radak on 8:14.1 8:14.2 8:14.3 8:14.4 8:14.5 8:14.6 «וּבַחֹ֙דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָ֧ה וְעֶשְׂרִ֛ים י֖וֹם לַחֹ֑דֶשׁ» (matched; filed at 8:14) DH «וּבַחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה וְעֶשְׂרִים יוֹם לַחֹדֶשׁ.»: הוּא מַרְחֶשְׁוָן. וְאָמְרוּ רַבּוֹתֵינוּ זִכְרוֹנָם לִבְרָכָה (בראשית רבה לג) אֵלּוּ עֲשָׂרָה יָמִים שֶׁיְּתֵרָה שְׁנַת הַחַמָּה עַל שְׁנַת הַלְּבָנָה.
 - `onkelos:8:14:1` Targum Onkelos on whole 8:14 (version; filed at 8:14): וּבְיַרְחָא תִּנְיָנָא בְּעַשְׂרִין וְשַׁבְעָא יוֹמָא לְיַרְחָא יַבִּישַׁת אַרְעָא:
 
@@ -267,14 +267,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` ground
 - `5` land, territory, country
 - `6` earth
+- `7` ground, land, tilled — n. pr. loc. city in Naphtali
 
 ### `bdb:a.cj.aa` אֶחָד (adj.num) root אחד: one
 - `1` one
 - `2` each, every
 - `3` a certain
+- `4` one — = indef. art
 - `5` only, once
 - `6` one, another, one, the other
 - `7` first
+- `8` one — in combin
 
 ### `bdb:a.cp.ab` אַחֵר (adj) root אחר: another
 
@@ -293,20 +296,32 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
 
 ### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
 - `1` together with
+- `2` with, proximity — Of localities
+- `3.a` with, proximity — in one's possession or keeping
+- `3.b` with, proximity — in one's knowledge or memory
+- `3` with, proximity — אֵת פּ׳ denotes specially
 - `4` from proximity with
 
 ### `bdb:b.ap.aa` בּוֹא (vb) root בוא: come in, come, go in, go
@@ -324,25 +339,35 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:e.bz.ab` הִנֵּה (demonstr.part): lo!, behold!
 
 ### `bdb:g.be.ao` זַ֫יִת (n.m): olive-tree, olive
 - `1` olive-tree
 - `2` olives
+- `3` olive-tree, olive — in designations of place
 
 ### `bdb:h.aw.ac` חֹ֫דֶשׁ (n.m) root חדשׁ: newness, new moon, month
 
@@ -364,6 +389,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:h.fi.aa` חָרֵב (vb) root חרב: be dry, dried up
 - `Qal` Qal be dry, dried up
+- `Pu` Pu . of fresh bow-strings (Pu of: be dry, dried up)
 - `Hiph` Hiph drying up
 
 ### `bdb:i.bo.ab` טָרָף (adj) root טרף: fresh-plucked
@@ -388,6 +414,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4.e` stays, supports
 - `4.f` tenons
 - `4.g` a, hand
+- `4` hand — יָד is used in various special, technical senses:—
+- `5` hand — יַד with prep
 
 ### `bdb:j.au.aa` יָדַע (vb) root ידע: know
 - `Qal 1.a` Qal know, learn to know
@@ -420,6 +448,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.ba.ab` יוֹנָה (n.f) root יון: dove
 
@@ -435,18 +464,27 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 2` Niph be joined, added to
 - `Hiph 1` Hiph add
 - `Hiph 2.a` Hiph add to do, do again, more
+- `Hiph 2.b` Hiph sq. Impf (Hiph of: add)
+- `Hiph 2.c` Hiph sq. Impf. asynd (Hiph of: add)
 
 ### `bdb:j.cq.aa` יָצָא (vb) root יצא: go, come out
+- `Qal 1.a` Qal go, come out, forth — from (מִן) a place
 - `Qal 1.b` Qal go forth
+- `Qal 1.c` Qal go, come out, forth — in technical senses
+- `Qal 1.d` Qal go, come out, forth — of flight, involving escape
 - `Qal 1.e` Qal depart
+- `Qal 1.f` Qal go, come out, forth — of inanimate things
+- `Qal 1.g` Qal go, come out, forth — with especial emphasis on idea of origin, source
 - `Qal 1.h` Qal going forth
 - `Qal 1` Qal go, come out, forth
 - `Qal 2.a` Qal go forth
 - `Qal 2.b` Qal go forward, proceed
 - `Qal 2.c` Qal come, go forth
+- `Qal 3` Qal go, come out — of combinations
 - `Hiph 1` Hiph cause to go, come out, bring out, lead out
 - `Hiph 2` Hiph bring out of
 - `Hiph 3` Hiph bring out
+- `Hiph 4` Hiph inanimate obj (Hiph of: go, come out)
 - `Hiph 5` Hiph bring forth
 - `Hoph` Hoph be brought forth
 
@@ -460,7 +498,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:k.cg.ad` מִכְסֶה (n.[m.]) root כסה: covering
 
@@ -495,6 +536,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithp` Hithp taking hold of itself
 
 ### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `1` hundred — as simple number
+- `2` hundred — as part of larger number
 - `3` hundredth
 
 ### `bdb:m.bt.aa` מַי (n.m): waters, water
@@ -503,20 +546,27 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` from, against
 - `1.b` away from, far from
 - `1.c` off, on the side of, on
+- `1` out of, from, on account of, off, on the side of, since, above, than, so that not — with verbs expressing (or implying) separation or removal
 - `2` Out of
+- `3` out of, from, on account of, off, on the side of, since, above, than, so that not — Partitively
 - `4.a` from, since
 - `4.b` after
 - `4.c` towards, to
+- `4` out of, from, on account of, off, on the side of, since, above, than, so that not — Of time—
 - `5` from … even to
 - `6` beyond, above
 - `7.a` from, on account of, through
+- `7.b` out of, from, on account of, off, on the side of, since, above, than, so that not — after verbs implying restraint, prevention, cessation, etc
 - `7.c` since, after
+- `7` out of, from, on account of, off, on the side of, since, above, than, so that not — מן is prefixed to an infin
 - `8` that
+- `9` out of, from, on account of, off, on the side of, since, above, than, so that not — In compounds
 
 ### `bdb:m.db.aa` מָצָא (vb) root מצא: attain to, find
 - `Qal 1` Qal find
 - `Qal 2` Qal find out
 - `Qal 3` Qal come upon, light upon
+- `Qal 4` Qal attain to, find — noteworthy phrases
 - `Niph` Niph be found
 - `Hiph 1` Hiph cause to find, attain
 - `Hiph 2` Hiph cause to light upon, come upon, come
@@ -534,12 +584,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4` Qal come to an end
 - `Pô‛lēl` Pô‛lēl he turned aside my ways
 - `Hiph 1` Hiph cause to, depart, remove, take away
-- `Pô‛lēl#7` Pô‛lēl be taken away, removed
+- `Hiph 2` Hiph rarer uses (Hiph of: turn aside)
+- `Pô‛lēl#8` Pô‛lēl be taken away, removed
 
 ### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
+- `I.1` as far as, even to, up to, until, while — of space
+- `I.2` as far as, even to, up to, until, while — Of time
+- `I.3` as far as, even to, up to, until, while — Of degree
+- `I` as far as, even to, up to, until, while — prep
 - `II.1` until
 - `II.2` While
 - `II.3` to the point that, so that even
+- `II` as far as, even to, up to, until, while — conj
+- `III.1` as far as, even to, up to, until, while — of space
+- `III.2` as far as, even to, up to, until, while — Of time
+- `III.3` as far as, even to, up to, until, while — Of degree
+- `III` as far as, even to, up to, until, while — עַד לְ, a strengthened form for עַד. Thus
 
 ### `bdb:p.bc.ab` עוֹד (subst) root עוד: a going round, continuance, still, yet, again, besides
 
@@ -547,6 +607,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -558,19 +621,23 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.dt.ac` עֵת (n.f) root ענה: time
 - `1` time
 - `2.a` usual time
 - `2.b` proper, suitable time
 - `2.c` appointed time
+- `2.d` time — as uncertain
 - `3` experience, fortunes
 - `4` occurrence, occasion
 
@@ -585,9 +652,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:q.al.aa` פֶּה (n.m): mouth
 - `1.a` mouth
+- `1.b` mouth — external organ
+- `2.a` mouth — much oftener, as organ of speech, of man
+- `2.b` mouth — as laughing; panting
+- `2.c` mouth — of God
+- `2.d` mouth — of idols
+- `2.e` mouth — of musical instr. = sound
 - `3` edge
 - `4` mouth
 - `5.a` extremity, end
+- `5.b` mouth — = portion
+- `6` mouth — with preps
 
 ### `bdb:q.bu.ab` פָּנֶה (n.m) root פנה: face, faces
 - `I.1` face, faces
@@ -597,6 +672,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `I.4` face
 - `I.5` face, surface
 - `I.6` before
+- `I.7` face, faces — for other phrases
+- `II` face, faces — with prepositions
 
 ### `bdb:s.br.aa` קָלַל (vb) root קלל: be slight, swift, trifling
 - `Qal 1` Qal be slight, be abated
@@ -621,6 +698,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4` Qal see, have, vision
 - `Qal 5` Qal see
 - `Qal 6` Qal look at, see
+- `Qal 7` Qal see — of mental observation
 - `Qal 8.a` Qal look into, look at
 - `Qal 8.b` Qal see
 - `Niph 1` Niph appear
@@ -648,28 +726,28 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1` Qal turn back
 - `Qal 2` Qal return, come, go back
 - `Qal 3` Qal return unto
+- `Qal 4.a` Qal turn back, return — of dying
+- `Qal 4.b` Qal turn back, return — of revival from death
 - `Qal 5.a` Qal return
+- `Qal 5.b` Qal turn back, return — = change so as to appoach (in purpose, desire)
 - `Qal 5.c` Qal turn
 - `Qal 5.d` Qal return
+- `Qal 5.e` Qal turn back, return — abs. = change course of action
+- `Qal 5` Qal turn back, return — fig. of human relations
 - `Qal 6.a` Qal turn back, apostatize
 - `Qal 6.b` Qal turn away
 - `Qal 6.c` Qal turn back
 - `Qal 6.d` Qal repent
 - `Qal 6.e` Qal turn back
+- `Qal 6.f` Qal turn back, return — of י׳
 - `Qal 6.g` Qal return
+- `Qal 6` Qal turn back, return — fig., specif. of spiritual relations
+- `Qal 7` Qal turn back, return — of inanimate things (sts. personified, or treated as things of life)
+- `Qal 8` Qal turn back, return — denoting repetition, etc
+- `Qal 9` Qal turn back, return — trans
 - `Qal` Qal turn back, return
 - `Pō‛l 1` Pō‛l bring back
-- `Pō‛l 2.a` Pō‛l restore, refresh
-- `Pō‛l 2.b` Pō‛l restore, repair
-- `Pō‛l 3` Pō‛l lead away
-- `Pō‛l 4` Pō‛l shew turning, apostatize
-- `Hiph 1.a` Hiph bring back
-- `Hiph 1.b` Hiph put back
-- `Hiph 1.c` Hiph draw back
-- `Hiph 1.d` Hiph give back, restore
-- `Hiph 1.e` Hiph relinguish
-- `Hiph 1.f` Hiph give in payment
-- … 15 more senses
+- … 25 more senses
 
 ### `bdb:v.dl.aa` שָׁלַח (vb) root שׁלח: send
 - `Qal 1` Qal send
@@ -687,6 +765,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 4` Pi shoot forth
 - `Pi 5` Pi let down
 - `Pi 6` Pi shoot
+- `Pi 7` Pi Phrases (Pi of: send)
 - `Pu` Pu be sent off, be put away, divorced, be impelled
 - `Hiph` Hiph and I, will send
 

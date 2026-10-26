@@ -28,13 +28,13 @@ Hebrew (MAM): וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹ�
 
 ### Commentary anchored to this verse
 
-- `rashi:1:14:1` Rashi **normative** on 1:14.3 1:14.4 «יְהִ֤י מְאֹרֹת֙» (matched; filed at 1:14) DH «יהי מארת וגו'.»: מִיֹּום רִאשׁוֹן נִבְרְאוּ וּבָרְבִיעִי צִוָּה עֲלֵיהֶם לְהִתָּלוֹת בָּרָקִיעַ, וְכֵן כָּל תּוֹלְדוֹת שָׁמַיִם וָאָרֶץ נִבְרְאוּ מִיּוֹם רִאשׁוֹן, וְכָל אֶחָד וְאֶחָד נִקְבַּע בַּיוֹם שֶׁנִּגְזַר עָלָיו, הוּא שֶׁכָּתוּב אֵת הַשָּׁמַיִם, לְרַבּוֹת תּוֹלְדוֹתֵיהֶם, וְאֵת הָאָרֶץ, לְרַבּוֹת תּוֹלְדוֹתֶיהָ:
-- `rashi:1:14:2` Rashi **normative** on 1:14.3 1:14.4 «יְהִ֤י מְאֹרֹת֙» (matched; filed at 1:14) DH «יהי מארת.»: חָסֵר וָי"ו כְּתִיב, עַל שֶׁהוּא יוֹם מְאֵרָה לִפֹּל אַסְכָּרָה בַּתִּינוֹקוֹת, הוּא שֶׁשָּׁנִינוּ בְּד' הָיוּ מִתְעַנִּים עַל אַסְכָּרָה שֶׁלֹּא תִפֹּל בַּתִּינוֹקוֹת:
-- `rashi:1:14:3` Rashi **normative** on 1:14.7 1:14.8 1:14.9 1:14.10 1:14.11 «לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה» (matched; filed at 1:14) DH «להבדיל בין היום ובין הלילה.»: מִשֶּׁנִּגְנַז הָאוֹר הָרִאשׁוֹן, אֲבָל בְּשִׁבְעַת יְמֵי בְרֵאשִׁית שִׁמְּשׁוּ הָאוֹר וְהַחֹשֶׁךְ הָרִאשׁוֹנִים יַחַד בֵּין בַּיּוֹם וּבֵין בַּלַּיְלָה:
-- `rashi:1:14:4` Rashi **normative** on 1:14.12 1:14.13 «וְהָי֤וּ לְאֹתֹת֙» (matched; filed at 1:14) DH «והיו לאותות.»: כְּשֶׁהַמְּאוֹרוֹת לוֹקִין, סִימָן רַע הוּא לָעוֹלָם, שֶׁנֶּאֱמַר מֵאֹתוֹת הַשָּׁמַיִם אַל תֵּחָתּוּ (ירמיה י'), בַּעֲשׂוֹתְכֶם רְצוֹן הַקָּבָּ"ה אֵין אַתֶּם צְרִיכִין לִדְאֹג מִן הַפֻּרְעָנוּת:
-- `rashi:1:14:5` Rashi **normative** on 1:14.14 «וּלְמ֣וֹעֲדִ֔ים» (matched; filed at 1:14) DH «ולמועדים.»: עַל שֵׁם הֶעָתִיד, שֶׁעֲתִידִים יִשְׂרָאֵל לְהִצְטַוּוֹת עַל הַמּוֹעֲדוֹת וְהֵם נִמְנִים לְמוֹלַד הַלְּבָנָה:
-- `rashi:1:14:6` Rashi **normative** on 1:14.15 «וּלְיָמִ֖ים» (matched; filed at 1:14) DH «ולימים.»: שִׁמּוּשׁ הַחַמָּה חֲצִי יוֹם וְשִׁמּוּשׁ הַלְּבָנָה חֶצְיוֹ, הֲרֵי יוֹם שָׁלֵם:
-- `rashi:1:14:7` Rashi **normative** on 1:14.16 «וְשָׁנִֽים׃» (matched; filed at 1:14) DH «ושנים.»: לְסוֹף שס"ה יָמִים (ס"א וּרְבִיעַ יוֹם), יִגְמְרוּ מַהֲלָכָתָם בְּי"ב מַזָּלוֹת הַמְשָׁרְתִים אוֹתָם, וְהִיא שָׁנָה, וְחוֹזְרִים וּמַתְחִילִים פַּעַם שְׁנִיָּה לְסַבֵּב בַּגַּלְגַּל כְּמַהֲלָכָן הָרִאשׁוֹן:
+- `rashi:1:14:1` Rashi on 1:14.3 1:14.4 «יְהִ֤י מְאֹרֹת֙» (matched; filed at 1:14) DH «יהי מארת וגו'.»: מִיֹּום רִאשׁוֹן נִבְרְאוּ וּבָרְבִיעִי צִוָּה עֲלֵיהֶם לְהִתָּלוֹת בָּרָקִיעַ, וְכֵן כָּל תּוֹלְדוֹת שָׁמַיִם וָאָרֶץ נִבְרְאוּ מִיּוֹם רִאשׁוֹן, וְכָל אֶחָד וְאֶחָד נִקְבַּע בַּיוֹם שֶׁנִּגְזַר עָלָיו, הוּא שֶׁכָּתוּב אֵת הַשָּׁמַיִם, לְרַבּוֹת תּוֹלְדוֹתֵיהֶם, וְאֵת הָאָרֶץ, לְרַבּוֹת תּוֹלְדוֹתֶיהָ:
+- `rashi:1:14:2` Rashi on 1:14.3 1:14.4 «יְהִ֤י מְאֹרֹת֙» (matched; filed at 1:14) DH «יהי מארת.»: חָסֵר וָי"ו כְּתִיב, עַל שֶׁהוּא יוֹם מְאֵרָה לִפֹּל אַסְכָּרָה בַּתִּינוֹקוֹת, הוּא שֶׁשָּׁנִינוּ בְּד' הָיוּ מִתְעַנִּים עַל אַסְכָּרָה שֶׁלֹּא תִפֹּל בַּתִּינוֹקוֹת:
+- `rashi:1:14:3` Rashi on 1:14.7 1:14.8 1:14.9 1:14.10 1:14.11 «לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה» (matched; filed at 1:14) DH «להבדיל בין היום ובין הלילה.»: מִשֶּׁנִּגְנַז הָאוֹר הָרִאשׁוֹן, אֲבָל בְּשִׁבְעַת יְמֵי בְרֵאשִׁית שִׁמְּשׁוּ הָאוֹר וְהַחֹשֶׁךְ הָרִאשׁוֹנִים יַחַד בֵּין בַּיּוֹם וּבֵין בַּלַּיְלָה:
+- `rashi:1:14:4` Rashi on 1:14.12 1:14.13 «וְהָי֤וּ לְאֹתֹת֙» (matched; filed at 1:14) DH «והיו לאותות.»: כְּשֶׁהַמְּאוֹרוֹת לוֹקִין, סִימָן רַע הוּא לָעוֹלָם, שֶׁנֶּאֱמַר מֵאֹתוֹת הַשָּׁמַיִם אַל תֵּחָתּוּ (ירמיה י'), בַּעֲשׂוֹתְכֶם רְצוֹן הַקָּבָּ"ה אֵין אַתֶּם צְרִיכִין לִדְאֹג מִן הַפֻּרְעָנוּת:
+- `rashi:1:14:5` Rashi on 1:14.14 «וּלְמ֣וֹעֲדִ֔ים» (matched; filed at 1:14) DH «ולמועדים.»: עַל שֵׁם הֶעָתִיד, שֶׁעֲתִידִים יִשְׂרָאֵל לְהִצְטַוּוֹת עַל הַמּוֹעֲדוֹת וְהֵם נִמְנִים לְמוֹלַד הַלְּבָנָה:
+- `rashi:1:14:6` Rashi on 1:14.15 «וּלְיָמִ֖ים» (matched; filed at 1:14) DH «ולימים.»: שִׁמּוּשׁ הַחַמָּה חֲצִי יוֹם וְשִׁמּוּשׁ הַלְּבָנָה חֶצְיוֹ, הֲרֵי יוֹם שָׁלֵם:
+- `rashi:1:14:7` Rashi on 1:14.16 «וְשָׁנִֽים׃» (matched; filed at 1:14) DH «ושנים.»: לְסוֹף שס"ה יָמִים (ס"א וּרְבִיעַ יוֹם), יִגְמְרוּ מַהֲלָכָתָם בְּי"ב מַזָּלוֹת הַמְשָׁרְתִים אוֹתָם, וְהִיא שָׁנָה, וְחוֹזְרִים וּמַתְחִילִים פַּעַם שְׁנִיָּה לְסַבֵּב בַּגַּלְגַּל כְּמַהֲלָכָן הָרִאשׁוֹן:
 - `ibn-ezra:1:14:1` Ibn Ezra **normative** on 1:14.1 «וַיֹּ֣אמֶר» (matched; filed at 1:14) DH «ויאמר»: , מלת יהי יהיה. בעבור שידברו בה הרבה הוא ליחיד ולרבים, גם לנקבה "כי יהיה נערה בתולה" (דבר' כב כג),
 - `ibn-ezra:1:14:2` Ibn Ezra **normative** on 1:14.13 1:14.14 «לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים» (matched-unbolded; filed at 1:14) DH «לאותות רגעים ולמועדים,»: לאותות רגעים ולמועדים, שעות ויתכן להיות לאותות על קדרות הלבנה והשמש, ודלוג דמות הכוכבים כי הכוכבים סבת דמות הנראה, כטעם מאותות השמים אל תחתו (ירמי' יוד ב), והאומר כי למ"ד לאותות נוסף לא אמר כלום:
 - `ibn-ezra:1:14:3` Ibn Ezra **normative** on 1:14.12 1:14.13 «וְהָי֤וּ לְאֹתֹת֙» (matched; filed at 1:14) DH «והיו לאותות,»: אמר חכם גדול ספרדי כי הרקיע נחלק על שמונה חלקים לשבעה הכוכבים וגלגל המזלות וזה לא יתכן, כי אין גוף למעלה מגלגל המזלות והנה הכתוב אומר ברקיע השמים שיורה שיש שמים למעלה ממנו וכן "שמי השמים" (נחמיה ט, ו), "לרוכב בשמי שמי קדם" (תהלים סה לד, וקדם במקום הזה איננו מזרח והגאון ר' סעדיה ז"ל ברח מזה המקום, והנכון בעיני שהשמש והלבנה וכל הכוכבים הם מאורות ברקיע כי שם יראו:
@@ -71,7 +71,7 @@ Hebrew (MAM): וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ ה�
 
 ### Commentary anchored to this verse
 
-- `rashi:1:15:1` Rashi **normative** on 1:15.1 1:15.2 «וְהָי֤וּ לִמְאוֹרֹת֙» (matched; filed at 1:15) DH «והיו למאורת.»: עוֹד זֹאת יְשַׁמְּשׁוּ, שֶׁיָּאִירוּ לָעוֹלָם:
+- `rashi:1:15:1` Rashi on 1:15.1 1:15.2 «וְהָי֤וּ לִמְאוֹרֹת֙» (matched; filed at 1:15) DH «והיו למאורת.»: עוֹד זֹאת יְשַׁמְּשׁוּ, שֶׁיָּאִירוּ לָעוֹלָם:
 - `ramban:1:15:1` Ramban on 1:15.1 1:15.2 1:15.3 1:15.4 1:15.5 1:15.6 1:15.7 «וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל הָאָ֑רֶץ» (matched; filed at 1:15) DH «וְהָיוּ לִמְאוֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהָאִיר עַל הָאָרֶץ»: הוֹסִיף שֶׁיִּהְיֶה אוֹרָם מַגִּיעַ לָאָרֶץ, כִּי אֶפְשָׁר שֶׁיֵּרָאֶה לָהֶם אוֹר בַּשָּׁמַיִם וְיַעֲשׂוּ כָּל הַמַּעֲשִׂים הַנִּזְכָּרִים מִבְּלִי שֶׁיָּאִירוּ בָּאָרֶץ. וּלְכָךְ אָמַר שֶׁיִּהְיוּ לִמְאוֹרֹת בִּרְקִיעַ הַשָּׁמַיִם וּמַבִּיט בָּאָרֶץ וְיָאִירוּ עָלֶיהָ.
 - `radak:1:15:1` Radak on 1:15.1 1:15.2 1:15.3 1:15.4 1:15.5 1:15.6 1:15.7 «וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל הָאָ֑רֶץ» (matched; filed at 1:15) DH «וְהָיוּ לִמְאוֹרֹת בִּרְקִיעַ הַשָּׁמַיִם לְהָאִיר עַל־הָאָרֶץ.»: וְהָיוּ גַּם לִמְאוֹרוֹת, וּפֵרוּשׁוֹ לְהָאִיר עַל־הָאָרֶץ, כִּי טֶרֶם זֶה הָיוּ גַּם כֵּן הַמְּאוֹרוֹת וְלֹא נוֹסַף אוֹרָם בְּיוֹם הָרְבִיעִי אֶלָּא שֶׁנִּתְלוּ בָּרְבִיעִי בִּרְקִיעַ הַשָּׁמַיִם לָתֵת אוֹר לְבַעֲלֵי הָרְאוּת, וְאוֹרָם גַּם כֵּן נַעֲשָׂה פְּעֻלָּה חֲזָקָה בְּכָל הַנִּמְצָאִים הַשְּׁפָלִים כָּל אֶחָד כְּפִי הַנָּאוֹת לוֹ.
 - `onkelos:1:15:1` Targum Onkelos on whole 1:15 (version; filed at 1:15): וִיהוֹן לִנְהוֹרִין בִּרְקִיעָא דִּשְׁמַיָּא לְאַנְהָרָא עַל אַרְעָא וַהֲוָה כֵן:
@@ -106,8 +106,8 @@ Hebrew (MAM): וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י ה�
 
 ### Commentary anchored to this verse
 
-- `rashi:1:16:1` Rashi **normative** on 1:16.5 1:16.6 «הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים» (matched; filed at 1:16) DH «המארת הגדולים.»: שָׁוִים נִבְרְאוּ וְנִתְמַעֲטָה הַלְּבָנָה עַל שֶׁקִּטְרְגָה וְאָמְרָה אִ"אֶ לִשְׁנֵי מְלָכִים שֶׁיִשְׁתַּמְּשׁוּ בְכֶתֶר אֶחָד:
-- `rashi:1:16:2` Rashi **normative** on 1:16.17 1:16.18 «וְאֵ֖ת הַכּוֹכָבִֽים׃» (matched; filed at 1:16) DH «ואת הכוכבים.»: עַל יְדֵי שֶׁמִּעֵט אֶת הַלְּבָנָה הִרְבָּה צְבָאָיהָ לְהָפִיס דַּעְתָּהּ:
+- `rashi:1:16:1` Rashi on 1:16.5 1:16.6 «הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים» (matched; filed at 1:16) DH «המארת הגדולים.»: שָׁוִים נִבְרְאוּ וְנִתְמַעֲטָה הַלְּבָנָה עַל שֶׁקִּטְרְגָה וְאָמְרָה אִ"אֶ לִשְׁנֵי מְלָכִים שֶׁיִשְׁתַּמְּשׁוּ בְכֶתֶר אֶחָד:
+- `rashi:1:16:2` Rashi on 1:16.17 1:16.18 «וְאֵ֖ת הַכּוֹכָבִֽים׃» (matched; filed at 1:16) DH «ואת הכוכבים.»: עַל יְדֵי שֶׁמִּעֵט אֶת הַלְּבָנָה הִרְבָּה צְבָאָיהָ לְהָפִיס דַּעְתָּהּ:
 - `ibn-ezra:1:16:1` Ibn Ezra **normative** on 1:16.1 «וַיַּ֣עַשׂ» (matched; filed at 1:16) DH «ויעש,»: נקראו השנים הגדולים כנגד הכוכבים וכן נקראו שלשה בני ישי הגדולים כנגד האחרים, ואליאב היה הבכור גדול מכולם ולא זה גדול מזה יש לו סוד,
 - `ibn-ezra:1:16:2` Ibn Ezra **normative** on 1:16.10 1:16.11 «לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם» (matched-unbolded; filed at 1:16) DH «לממשלת היום,»: לממשלת היום, ממשלת השמש ביום ולא בלילה כי אין לה אור גם ללבנה וכוכבים לא יראה אורם ביום, ואם ישאל שואל, הלא אמרו חכמי הספירות שכוכב צדק וכל הכוכבים חוץ מכוכב ונוגה גדולים מהלבנה ואיך כתוב הגדולים, התשובה אין פי' הגדולים על מדתם בגופם רק אל אורם ואור הלבנה כפלי כפלים בעבור היותה קרובה מהארץ, וכן כתוב מאור:
 - `ramban:1:16:1` Ramban on whole 1:16 (verse; filed at 1:16) DH «וַיַּעַשׂ אֱלֹהִים וַיִּתֵּן אֹתָם אֱלֹהִים»: מְלַמֵּד שֶׁלֹּא נִהְיוּ אֵלּוּ הַמְּאוֹרוֹת מִגּוּף הָרָקִיעַ אֲבָל גּוּפִים נִטְבָּעִים בּוֹ:
@@ -233,6 +233,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `8` light of prosperity
 - `9` light of instruction
 - `10` light
+- `11` light — Yahweh
 
 ### `bdb:a.cd.ao` מָאוֹר (n.m) root אור: luminary
 
@@ -241,9 +242,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.b` divine ones
 - `1.c` angels
 - `1.d` gods
+- `1` pl. in number
 - `2.a` god, goddess
 - `2.b` godlike one
+- `2.c` works of God, or things belongng to him
 - `2.d` God
+- `2` pl. intensive
 - `3` the (true) God
 - `4` God
 
@@ -260,14 +264,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
@@ -278,6 +290,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 3` Hiph make a distinction
 - `Hiph 4` Hiph divide into parts
 - `Hiph` Hiph divide, separate
+- `Hiph 1#6` Hiph (reflex. of . 2) (Hiph of: be divided, separate)
 - `Niph 2` Niph be separated
 
 ### `bdb:b.bo.ac` בֵּין (subst) root בין: interval, space between
@@ -289,7 +302,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` morrow, next day
 
 ### `bdb:c.aq.ae` גָּדוֹל (adj) root גדל: great
+- `1` great — in magnitude and extent
+- `2` great — in number
+- `3` great — in intensity
 - `4` loud
+- `5` great — in age
+- `6` great — in importance
+- `7` great — in phrases
+- `8` great — cstr
 - `9` do great things
 - `10` greatness
 
@@ -297,23 +317,40 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:h.gt.ab` חֹ֫שֶׁךְ (n.m) root חשׁך: darkness, obscurity
 - `1` darkness
 - `2` secret place(s), hiding-place
+- `3.a` darkness, obscurity — = distress
+- `3.b` darkness, obscurity — = dread, terror, symbol. of judgment
+- `3.c` darkness, obscurity — = mourning
+- `3.d` darkness, obscurity — = perplexity; confusion
+- `3.e` darkness, obscurity — = ignorance
+- `3.f` darkness, obscurity — = evil, sin
+- `3.g` darkness, obscurity — = obscurity
+- `3` darkness, obscurity — fig
 
 ### `bdb:i.ai.ab` טוֹב (adj) root טוב: pleasant, agreeable, good
 - `1` pleasant, agreeable
@@ -334,6 +371,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.cb.ac` מוֹעֵד (n.m) root יעד: appointed time, place, meeting
 - `1` appointed time
@@ -357,6 +395,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:m.dw.aa` מָשַׁל (vb) root משׁל: rule, have dominion, reign
 - `Qal 1` Qal rule, have dominion
+- `Qal 2` Qal rule, have dominion, reign — of heavenly bodies
+- `Qal 3` Qal rule, have dominion, reign — of God
 - `Hiph` Hiph cause to rule, exercise dominion
 
 ### `bdb:m.dw.ad` מֶמְשָׁלָה (n.f) root משׁל: rule, dominion, realm
@@ -373,6 +413,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -384,13 +427,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.ff.ab` עֶ֫רֶב (n.[m.]) root ערב: set, evening
 - `1.a` evening, set
@@ -432,6 +478,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4` Qal see, have, vision
 - `Qal 5` Qal see
 - `Qal 6` Qal look at, see
+- `Qal 7` Qal see — of mental observation
 - `Qal 8.a` Qal look into, look at
 - `Qal 8.b` Qal see
 - `Niph 1` Niph appear
@@ -449,9 +496,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:t.eo.ab` רָקִיעַ (n.m) root רקע: extended surface, expanse
 - `1` expanse
+- `2` extended surface, expanse — the vault of heaven, or ‘firmament,’ regarded by Hebrews as solid, and supporting ‘waters’ above it
 
 ### `bdb:v.dy.ab` שָׁמַיִם (n.m) root שׁמה: heavens, sky
 - `1.a` visible heavens, sky
+- `1.b` heavens, sky — phrases
+- `2.a` heavens, sky — as abode of God
+- `2.b` heavens, sky — Elijah taken up הַשּׁ׳ in whirlwind
+- `3` heavens, sky — הַשּׁ׳ personified in various relations
 
 ### `bdb:v.ek.ab` שָׁנָה (n.f) root שׁנה: year
 

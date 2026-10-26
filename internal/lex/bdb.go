@@ -127,14 +127,23 @@ var reWS = regexp.MustCompile(`\s+`)
 
 func clean(s string) string { return strings.TrimSpace(reWS.ReplaceAllString(s, " ")) }
 
+// reCount matches the occurrence counts that open a sense ("1052 ", not "1st").
+var reCount = regexp.MustCompile(`^(?:\d+(?:[\s.,;:]+|$))+`)
+
 // readBDB walks the BDB file. For each entry it keeps the head word, the
 // part of speech, the <def> glosses outside any sense, and every <sense>
-// flattened with its path and stem.
+// flattened with its path and stem. A sense with no <def> of its own (the
+// abridged file gives שָׁמַע Qal only "1 subj. pers. hum.") is kept when it
+// has a number or no subsenses: its gloss is the nearest definition above
+// it, then its own text; a derived stem that has none of its own names the
+// entry's definition as the one it derives from ("subj. God (Hiph of: die)").
 func (ix *Index) readBDB(r io.Reader) error {
 	dec := xml.NewDecoder(r)
 	type frame struct {
 		n, stem string
 		defs    []string
+		text    strings.Builder // character data outside <stem>, not in a subsense
+		kids    bool
 	}
 	var (
 		cur     *bdbEntry
@@ -170,6 +179,9 @@ func (ix *Index) readBDB(r io.Reader) error {
 				stack, topDefs = nil, nil
 			case "sense":
 				if cur != nil {
+					if len(stack) > 0 {
+						stack[len(stack)-1].kids = true
+					}
 					stack = append(stack, &frame{n: attr(t, "n")})
 				}
 			case "def", "w", "pos", "stem":
@@ -188,6 +200,9 @@ func (ix *Index) readBDB(r io.Reader) error {
 		case xml.CharData:
 			if inDef || inW || inPOS || inStem {
 				buf.Write(t)
+			}
+			if len(stack) > 0 && !inStem {
+				stack[len(stack)-1].text.Write(t)
 			}
 		case xml.EndElement:
 			switch t.Name.Local {
@@ -236,12 +251,31 @@ func (ix *Index) readBDB(r io.Reader) error {
 				if f.n != "" {
 					p = append(p, f.n)
 				}
-				if len(f.defs) > 0 {
+				gloss := strings.Join(f.defs, ", ")
+				if gloss == "" && (f.n != "" || !f.kids) {
+					own := strings.TrimRight(reCount.ReplaceAllString(clean(f.text.String()), ""), " .,;:")
+					base, inherited := strings.Join(topDefs, ", "), true
+					for _, g := range stack {
+						if len(g.defs) > 0 {
+							base, inherited = strings.Join(g.defs, ", "), false
+						}
+					}
+					switch {
+					case own != "" && base != "" && inherited && stem != "" && stem != "Qal":
+						// The entry's definition is the Qal's: name it as such.
+						gloss = own + " (" + stem + " of: " + base + ")"
+					case own != "" && base != "":
+						gloss = base + " — " + own
+					case own != "":
+						gloss = own
+					}
+				}
+				if gloss != "" {
 					path := strings.Join(p, ".")
 					if stem != "" {
 						path = strings.TrimSpace(stem + " " + path)
 					}
-					cur.Senses = append(cur.Senses, Sense{Path: path, Stem: stem, Gloss: strings.Join(f.defs, ", ")})
+					cur.Senses = append(cur.Senses, Sense{Path: path, Stem: stem, Gloss: gloss})
 				}
 			case "entry":
 				if cur != nil {

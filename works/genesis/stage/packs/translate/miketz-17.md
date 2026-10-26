@@ -27,9 +27,9 @@ Hebrew (MAM): וַיִּשָּׂ֨א מַשְׂאֹ֜ת מֵאֵ֣ת פָּנָ�
 
 ### Commentary anchored to this verse
 
-- `rashi:43:34:1` Rashi **normative** on 43:34.2 «מַשְׂאֹ֜ת» (matched; filed at 43:34) DH «משאת.»: מָנוֹת:
-- `rashi:43:34:2` Rashi **normative** on 43:34.11 43:34.12 «חָמֵ֣שׁ יָד֑וֹת» (matched; filed at 43:34) DH «חמש ידות.»: חֶלְקוֹ עִם אֶחָיו, וּמַשְׂאַת יוֹסֵף וְאָסְנַת וּמְנַשֶּׁה וְאֶפְרַיִם:
-- `rashi:43:34:3` Rashi **normative** on 43:34.14 43:34.15 «וַֽיִּשְׁכְּר֖וּ עִמּֽוֹ׃» (matched; filed at 43:34) DH «וישכרו עמו.»: וּמִיּוֹם שֶׁמְּכָרוּהוּ לֹא שָׁתוּ יַיִן וְלֹא הוּא שָׁתָה יַיִן, וְאוֹתוֹ הַיּוֹם שָׁתוּ (בראשית רבה):
+- `rashi:43:34:1` Rashi on 43:34.2 «מַשְׂאֹ֜ת» (matched; filed at 43:34) DH «משאת.»: מָנוֹת:
+- `rashi:43:34:2` Rashi on 43:34.11 43:34.12 «חָמֵ֣שׁ יָד֑וֹת» (matched; filed at 43:34) DH «חמש ידות.»: חֶלְקוֹ עִם אֶחָיו, וּמַשְׂאַת יוֹסֵף וְאָסְנַת וּמְנַשֶּׁה וְאֶפְרַיִם:
+- `rashi:43:34:3` Rashi on 43:34.14 43:34.15 «וַֽיִּשְׁכְּר֖וּ עִמּֽוֹ׃» (matched; filed at 43:34) DH «וישכרו עמו.»: וּמִיּוֹם שֶׁמְּכָרוּהוּ לֹא שָׁתוּ יַיִן וְלֹא הוּא שָׁתָה יַיִן, וְאוֹתוֹ הַיּוֹם שָׁתוּ (בראשית רבה):
 - `ibn-ezra:43:34:1` Ibn Ezra **normative** on 43:34.1 43:34.2 «וַיִּשָּׂ֨א מַשְׂאֹ֜ת» (matched; filed at 43:34) DH «וישא משאות.»: דורון:
 - `ibn-ezra:43:34:2` Ibn Ezra **normative** on 43:34.12 «יָד֑וֹת» (matched; filed at 43:34) DH «ידות.»: חלקים:
 - `ibn-ezra:43:34:3` Ibn Ezra **normative** on 43:34.9 43:34.10 «מִמַּשְׂאֹ֥ת כֻּלָּ֖ם» (matched; filed at 43:34) DH «ממשאות כלם.»: מדורון כל אחד מהם כי רחוק לתת לו חמש ידות על כל חלק וחלק:
@@ -100,7 +100,7 @@ Hebrew (MAM): וְאֶת־גְּבִיעִ֞י גְּבִ֣יעַ הַכֶּ֗ס
 
 ### Commentary anchored to this verse
 
-- `rashi:44:2:1` Rashi **normative** on 44:2.2 «גְּבִיעִ֞י» (matched; filed at 44:2) DH «גביעי.»: כּוֹס אָרֹךְ, וְקוֹרִין לוֹ מדיר"נש בְּלַעַז:
+- `rashi:44:2:1` Rashi on 44:2.2 «גְּבִיעִ֞י» (matched; filed at 44:2) DH «גביעי.»: כּוֹס אָרֹךְ, וְקוֹרִין לוֹ מדיר"נש בְּלַעַז:
 - `ibn-ezra:44:2:1` Ibn Ezra **normative** on 44:2.2 «גְּבִיעִ֞י» (matched; filed at 44:2) DH «גביעי.»: כוס:
 - `onkelos:44:2:1` Targum Onkelos on whole 44:2 (version; filed at 44:2): וְיָת קַלִּידִי קַלִּידָא דְכַסְפָּא תְּשַׁוֵּי בְּפוּם טוֹעֲנָא דִזְעֵירָא וְיָת כְּסַף זְבִינוֹהִי וַעֲבַד כְּפִתְגָּמָא דְיוֹסֵף דִּי מַלִּיל:
 - `sforno:44:2:1` Sforno on 44:2.5 44:2.6 44:2.7 44:2.8 «תָּשִׂים֙ בְּפִי֙ אַמְתַּ֣חַת הַקָּטֹ֔ן» (matched; filed at 44:2) DH «תָּשִׂים בְּפִי אַמְתַּחַת הַקָּטֹן.»: לִרְאוֹת אֵיךְ יִמְסְרוּ עַצְמָם עָלָיו כְּדֵי לְהַצִּילוֹ:
@@ -235,7 +235,7 @@ Hebrew (MAM): וַיֹּאמְר֣וּ אֵלָ֔יו לָ֚מָּה יְדַב�
 
 ### Commentary anchored to this verse
 
-- `rashi:44:7:1` Rashi **normative** on 44:7.8 44:7.9 «חָלִ֙ילָה֙ לַעֲבָדֶ֔יךָ» (matched; filed at 44:7) DH «חלילה לעבדיך.»: חֻלִּין הוּא לָנוּ, לְשׁוֹן גְּנַאי, וְתַרְגוּם חַס לְעַבְדָּיךְ – חַס מֵאֵת הַקָּדוֹשׁ בָּרוּךְ הוּא יְהִי עָלֵינוּ מֵעֲשׂוֹת זֹאת, וְהַרְבֵּה יֵשׁ בַּתַּלְמוּד "חַס וְשָׁלוֹם":
+- `rashi:44:7:1` Rashi on 44:7.8 44:7.9 «חָלִ֙ילָה֙ לַעֲבָדֶ֔יךָ» (matched; filed at 44:7) DH «חלילה לעבדיך.»: חֻלִּין הוּא לָנוּ, לְשׁוֹן גְּנַאי, וְתַרְגוּם חַס לְעַבְדָּיךְ – חַס מֵאֵת הַקָּדוֹשׁ בָּרוּךְ הוּא יְהִי עָלֵינוּ מֵעֲשׂוֹת זֹאת, וְהַרְבֵּה יֵשׁ בַּתַּלְמוּד "חַס וְשָׁלוֹם":
 - `onkelos:44:7:1` Targum Onkelos on whole 44:7 (version; filed at 44:7): וַאֲמָרוּ לֵיהּ לְמָה יְמַלֵּל רִבּוֹנִי כְּפִתְגָּמַיָּא הָאִלֵּין חַס לְעַבְדָיךְ מִלְּמֶעְבַּד כְּפִתְגָּמָא הָדֵין:
 - `sforno:44:7:1` Sforno on 44:7.3 44:7.4 44:7.5 44:7.6 44:7.7 «לָ֚מָּה יְדַבֵּ֣ר אֲדֹנִ֔י כַּדְּבָרִ֖ים הָאֵ֑לֶּה» (matched; filed at 44:7) DH «לָמָּה יְדַבֵּר אֲדֹנִי כַּדְּבָרִים הָאֵלֶּה?»: כְּמוֹ חוֹשֵׁד אֶת כֻּלָּנוּ:
 
@@ -257,8 +257,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.da.ab` אִישׁ (n.m) root אישׁ: man
@@ -277,7 +279,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `9` motion, direction to
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.ea.aa` אָמַר (vb) root אמר: utter, say
 - `Qal 1` Qal Say
@@ -294,19 +299,28 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
 - `1` together with
+- `2` with, proximity — Of localities
+- `3.a` with, proximity — in one's possession or keeping
+- `3.b` with, proximity — in one's knowledge or memory
+- `3` with, proximity — אֵת פּ׳ denotes specially
 - `4` from proximity with
 
 ### `bdb:b.bp.aa` בַּ֫יִת (n.m): house
 - `1` house
 - `2` place
 - `3` receptacle
+- `4` house — of house as containing a family
 - `5` household, family
 - `6` household affairs
 - `7` housewards, inwards
 - `8.a` on the inside
 - `8.b` within
+- `8` house — מִבַּיִת
 
 ### `bdb:b.ca.aq` בִּנְיָמִין (n.pr.m): son of, the, right hand
+- `1` son of, the, right hand — youngest son of Jacob, so called by him, but Rachel, the mother, who died at Benjamin's birth, called בֶּן־אוֹנִ֑י (q.v.)
+- `2` son of, the, right hand — son of Bilhan and great-grandson of Benjamin
+- `3` son of, the, right hand — a Jew of Ezra's time
 
 ### `bdb:b.cu.ad` בֹּ֫קֶר (n.m) root בקר: morning
 - `1` morning, morning
@@ -330,11 +344,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:e.aw.aa` הוּא (m): he, she, it
 - `1` he, she, it, they, himself, herself, itself, themselves, that, those
+- `2` he, she, it — It resumes the subj. with emph
+- `3` he, she, it — Where, however, the pron. follows the pred., its position gives it the minimum of emphasis, and it expresses (or resumes) the subject as unobtrusively as possible
+- `4` he, she, it — It anticipates (as it seems) the subject
+- `5` he, she, it — As an emph. predicate, of God
 - `6` that, it
+- `7` he, she, it — With the art.: so regularly when joined to a subst. defined itself by the art
 
 ### `bdb:e.bs.aa` הֵ֫מָּה (pron): they
 
 ### `bdb:g.ah.aa` זֶה (demonstr.pron): this, here
+- `1` this, here — standing alone
+- `2` this, here — In appos. to subst
+- `3` this, here — More oft. as pred
+- `4` this, here — It is attached enclitically, almost as an adv., to certain words, esp. interrog. pronouns, to impart, in a manner often not reproducible in Engl. idiom, directness and force, bringing the question or statement made into close relation with the speaker
+- `5` this, here — In poetry, as a relative pron. (rare)
+- `6` this, here — With prefixes (in special senses)
 
 ### `bdb:h.ct.ad` חָלִ֫ילָה (subst) root חלל: ad profanum!, far be it
 
@@ -358,6 +383,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4.e` stays, supports
 - `4.f` tenons
 - `4.g` a, hand
+- `4` hand — יָד is used in various special, technical senses:—
+- `5` hand — יַד with prep
 
 ### `bdb:j.bm.aa` יָכֹל (vb) root יכל: be able, have power, prevail, endure
 - `Qal 1` Qal be able
@@ -365,18 +392,30 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 3` Qal have ability, strength
 
 ### `bdb:j.bz.ab` יוֹסֵף (n.pr.m): he adds, increases
+- `1` he adds, increases — elder son of Jacob and Rachael
+- `2` he adds, increases — a man of Issachar
+- `3` he adds, increases — a son of Asaph
+- `4` he adds, increases — one of those who took strange wives
+- `5` he adds, increases — a priest
 
 ### `bdb:j.cq.aa` יָצָא (vb) root יצא: go, come out
+- `Qal 1.a` Qal go, come out, forth — from (מִן) a place
 - `Qal 1.b` Qal go forth
+- `Qal 1.c` Qal go, come out, forth — in technical senses
+- `Qal 1.d` Qal go, come out, forth — of flight, involving escape
 - `Qal 1.e` Qal depart
+- `Qal 1.f` Qal go, come out, forth — of inanimate things
+- `Qal 1.g` Qal go, come out, forth — with especial emphasis on idea of origin, source
 - `Qal 1.h` Qal going forth
 - `Qal 1` Qal go, come out, forth
 - `Qal 2.a` Qal go forth
 - `Qal 2.b` Qal go forward, proceed
 - `Qal 2.c` Qal come, go forth
+- `Qal 3` Qal go, come out — of combinations
 - `Hiph 1` Hiph cause to go, come out, bring out, lead out
 - `Hiph 2` Hiph bring out of
 - `Hiph 3` Hiph bring out
+- `Hiph 4` Hiph inanimate obj (Hiph of: go, come out)
 - `Hiph 5` Hiph bring forth
 - `Hoph` Hoph be brought forth
 
@@ -388,14 +427,29 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:k.cm.ab` כֶּ֫סֶף (n.m) root כסף: silver, money
+- `1` silver, money — = silver ore, raw silver
+- `2` silver, money — silver as bright, shining
+- `3` silver, money — silver, as wealth
+- `4` silver, money — silver as spoil of war
+- `5` silver, money — silver as merchandise
+- `6` silver, money — silver as costly gift
+- `7` silver, money — silver as material
+- `8` silver, money — silver as measure of weight and value
+- `9` silver, money — among vbs. and phr
 
 ### `bdb:l.ab.aa` לֹא (adv): not
 
 ### `bdb:m.an.aa` מָה (pron.interrog): what?, how?, aught
 - `1` what?
+- `2` what?, how?, aught — Used adverbially
+- `3` what?, how?, aught — Indef. pron
+- `4` what?, how?, aught — With preps
 
 ### `bdb:m.bz.aa` מָלֵא (vb) root מלא: be full, fill
 - `Qal 1` Qal be full
@@ -403,6 +457,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 1` Niph be filled
 - `Niph 2` Niph be accomplished, ended
 - `Pi 1` Pi fill
+- `Pi 2` Pi special uses are (Pi of: be full, fill)
 - `Pi 3` Pi fulfil, accomplish, complete
 - `Pu` Pu filled
 - `Hithp` Hithp mass themselves
@@ -420,6 +475,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Niph 3` Niph be borne, carried
 - `Niph 4` Niph be taken away, carried off
 - `Pi 1` Pi lift up
+- `Pi 2` Pi fig. = desire, long (Pi of: lift, carry, take)
 - `Pi 3` Pi carry, bear continuously
 - `Pi 4` Pi take, take away
 - `Hithp` Hithp lift oneself up
@@ -441,12 +497,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` Servant
 - `5` servant
 - `6` thy servant, I
+- `7` slave, servant — Phrases
 
 ### `bdb:p.cm.ad` עִיר (n.f): city, town
 - `1` city, town
+- `2` city, town — of fortress in a city
+- `3` city, town — appar. fortified place, of any size
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -458,13 +520,16 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.dj.aa` עִם (prep): with
 - `1.a` aid
@@ -474,12 +539,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.e` together with
 - `1.f` aid
 - `1.g` as long as
+- `1` with — of fellowship and companionship
 - `2` close to, beside
 - `3.a` in the house, family, service of
 - `3.b` In possession of
 - `3.c` In the custody, care of
 - `3.d` Beside, except
 - `3.e` With, friendly with
+- `3` with — Of persons, עִם is spec
 - `4` with
 - `5` together with, in spite of, notwithstanding
 
@@ -510,9 +577,17 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:q.al.aa` פֶּה (n.m): mouth
 - `1.a` mouth
+- `1.b` mouth — external organ
+- `2.a` mouth — much oftener, as organ of speech, of man
+- `2.b` mouth — as laughing; panting
+- `2.c` mouth — of God
+- `2.d` mouth — of idols
+- `2.e` mouth — of musical instr. = sound
 - `3` edge
 - `4` mouth
 - `5.a` extremity, end
+- `5.b` mouth — = portion
+- `6` mouth — with preps
 
 ### `bdb:q.bu.ab` פָּנֶה (n.m) root פנה: face, faces
 - `I.1` face, faces
@@ -522,6 +597,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `I.4` face
 - `I.5` face, surface
 - `I.6` before
+- `I.7` face, faces — for other phrases
+- `II` face, faces — with prepositions
 
 ### `bdb:r.az.aa` צָוָה (vb) root צוה: lay charge, give charge, charge, command, order
 
@@ -544,12 +621,13 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 1` Hiph cause to arise, raise
 - `Hiph 2.a` Hiph raise, set up
 - `Hiph 2.b` Hiph erect, build
+- `Hiph 2.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 3` Hiph raise up
 - `Hiph 4.a` Hiph raise up
 - `Hiph 4.b` Hiph instigate, build
+- `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- `Hiph 6` Hiph cause to stand
-- `Hoph` Hoph be raised up
+- … 2 more senses
 
 ### `bdb:s.be.ad` קָטֹן (adj) root קטן: small, insignificant
 
@@ -610,6 +688,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.a` Qal set, station
 - `Qal 4.b` Qal put
 - `Qal 4.c` Qal set up
+- `Qal 4.d` Qal put, place, set — = plant, wheat
 - `Qal 4.e` Qal set, fix
 - `Qal 5.a` Qal make, for, transform into
 - `Qal 5.b` Qal make, constitute
@@ -624,6 +703,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:v.df.aa` שָׁכַר (vb) root שׁכר: be, become, drunk, drunken
 - `Qal` Qal become drunken
 - `Pi` Pi make drunken
+- `Hiph` Hiph . id.: i.e. make princes helpless (Hiph of: be, become, drunk, drunken)
 - `Hithp` Hithp wilt thou make thyself drunken
 
 ### `bdb:v.dl.aa` שָׁלַח (vb) root שׁלח: send
@@ -642,6 +722,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 4` Pi shoot forth
 - `Pi 5` Pi let down
 - `Pi 6` Pi shoot
+- `Pi 7` Pi Phrases (Pi of: send)
 - `Pu` Pu be sent off, be put away, divorced, be impelled
 - `Hiph` Hiph and I, will send
 

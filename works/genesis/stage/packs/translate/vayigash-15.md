@@ -31,7 +31,7 @@ Hebrew (MAM): וַיָּ֣שֶׂם אֹתָ֣הּ יוֹסֵ֡ף לְחֹק֩ ע
 
 ### Commentary anchored to this verse
 
-- `rashi:47:26:1` Rashi **normative** on 47:26.4 «לְחֹק֩» (matched; filed at 47:26) DH «לחק.»: שֶׁלֹּא יַעֲבֹר:
+- `rashi:47:26:1` Rashi on 47:26.4 «לְחֹק֩» (matched; filed at 47:26) DH «לחק.»: שֶׁלֹּא יַעֲבֹר:
 - `ibn-ezra:47:26:1` Ibn Ezra **normative** on 47:26.15 «הַכֹּֽהֲנִים֙» (matched; filed at 47:26) DH «הכהנים.»: הם כדברי המתרגם ארמית:
 - `onkelos:47:26:1` Targum Onkelos on whole 47:26 (version; filed at 47:26): וְשַׁוִּי יָתַהּ יוֹסֵף לִגְזֵרָא עַד יוֹמָא הָדֵין עַל אַרְעָא דְמִצְרַיִם דִּיהוֹן יָהֲבִין חַד מִן חַמְשָׁא לְפַרְעֹה לְחוֹד אַרְעָא דְכֻמָּרַיָּא בִּלְחוֹדֵהוֹן לָא הֲוַת לְפַרְעֹה:
 - `sforno:47:26:1` Sforno on 47:26.1 47:26.2 47:26.3 47:26.4 «וַיָּ֣שֶׂם אֹתָ֣הּ יוֹסֵ֡ף לְחֹק֩» (matched; filed at 47:26) DH «וַיָּשֶׂם אוֹתָהּ יוֹסֵף לְחֹק.»: אַחַר שֶׁהֶרְאָה לָהֶם שֶׁהַדִּין כָּךְ, וְשֶׁאֵינוֹ מֵקִים מֶכֶס חָדָשׁ דֶּרֶךְ גָּזֵל, שָׂם אֶת הַדָּבָר בְּנִימוּסֵי מִצְרָיִם.
@@ -57,9 +57,9 @@ Hebrew (MAM): וַיֵּ֧שֶׁב יִשְׂרָאֵ֛ל בְּאֶ֥רֶץ מ�
 
 ### Commentary anchored to this verse
 
-- `rashi:47:27:1` Rashi **normative** on 47:27.1 47:27.2 47:27.3 47:27.4 «וַיֵּ֧שֶׁב יִשְׂרָאֵ֛ל בְּאֶ֥רֶץ מִצְרַ֖יִם» (matched; filed at 47:27) DH «וישב ישראל בארץ מצרים.»: וְהֵיכָן? בְּאֶרֶץ גֹּשֶׁן שֶׁהִיא מֵאֶרֶץ מִצְרַיִם:
-- `rashi:47:27:2` Rashi **normative** on whole 47:27 (segment; filed at 47:27): (
-- `rashi:47:27:3` Rashi **normative** on 47:27.7 47:27.8 «וַיֵּאָחֲז֣וּ בָ֔הּ» (matched; filed at 47:27) DH «ויאחזו בה.»: לְשׁוֹן אֲחֻזָּה):
+- `rashi:47:27:1` Rashi on 47:27.1 47:27.2 47:27.3 47:27.4 «וַיֵּ֧שֶׁב יִשְׂרָאֵ֛ל בְּאֶ֥רֶץ מִצְרַ֖יִם» (matched; filed at 47:27) DH «וישב ישראל בארץ מצרים.»: וְהֵיכָן? בְּאֶרֶץ גֹּשֶׁן שֶׁהִיא מֵאֶרֶץ מִצְרַיִם:
+- `rashi:47:27:2` Rashi on whole 47:27 (segment; filed at 47:27): (
+- `rashi:47:27:3` Rashi on 47:27.7 47:27.8 «וַיֵּאָחֲז֣וּ בָ֔הּ» (matched; filed at 47:27) DH «ויאחזו בה.»: לְשׁוֹן אֲחֻזָּה):
 - `ibn-ezra:47:27:1` Ibn Ezra **normative** on 47:27.7 47:27.8 «וַיֵּאָחֲז֣וּ בָ֔הּ» (matched; filed at 47:27) DH «ויאחזו בה.»: שקנו שם אחוזה:
 - `radak:47:27:1` Radak on 47:27.1 47:27.2 «וַיֵּ֧שֶׁב יִשְׂרָאֵ֛ל» (matched; filed at 47:27) DH «וַיֵּשֶׁב יִשְׂרָאֵל.»: דֶּרֶךְ כְּלָל, רוֹצֶה לוֹמַר בְּנֵי יִשְׂרָאֵל.
 - `radak:47:27:2` Radak on 47:27.7 47:27.8 «וַיֵּאָחֲז֣וּ בָ֔הּ» (matched; filed at 47:27) DH «וַיֵּאָחֲזוּ בָהּ.»: שֶׁקָּנוּ שָׁם אֲחֻזָּה לְבַד מַה שֶּׁנָּתַן לָהֶם יוֹסֵף.
@@ -77,6 +77,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` ground
 - `5` land, territory, country
 - `6` earth
+- `7` ground, land, tilled — n. pr. loc. city in Naphtali
 
 ### `bdb:a.cl.aa` אָחַז (vb) root אחז: grasp, take hold of, take possession
 - `Qal` Qal grasp, take hold of
@@ -88,14 +89,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
@@ -106,26 +115,43 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `3` parts, extended from something
 
 ### `bdb:c.dj.ag` גֹּ֫שֶׁן (n.pr.loc): Goshen
+- `1` district in Egypt E. of lower Nile
+- `2` a city—not clearly located, but on southern border of Judah
 
 ### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:g.ah.aa` זֶה (demonstr.pron): this, here
+- `1` this, here — standing alone
+- `2` this, here — In appos. to subst
+- `3` this, here — More oft. as pred
+- `4` this, here — It is attached enclitically, almost as an adv., to certain words, esp. interrog. pronouns, to impart, in a manner often not reproducible in Engl. idiom, directness and force, bringing the question or statement made into close relation with the speaker
+- `5` this, here — In poetry, as a relative pron. (rare)
+- `6` this, here — With prefixes (in special senses)
 
 ### `bdb:h.dr.ac` חֹ֫מֶשׁ (n.[m.]) root חמשׁ: fifth part
 
@@ -145,8 +171,14 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bz.ab` יוֹסֵף (n.pr.m): he adds, increases
+- `1` he adds, increases — elder son of Jacob and Rachael
+- `2` he adds, increases — a man of Issachar
+- `3` he adds, increases — a son of Asaph
+- `4` he adds, increases — one of those who took strange wives
+- `5` he adds, increases — a priest
 
 ### `bdb:j.ds.aa` יָשַׁב (vb) root ישׁב: sit, remain, dwell
 - `Qal 1.a` Qal sit
@@ -154,6 +186,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 1.c` Qal sit down
 - `Qal 1.d` Qal sit, be set
 - `Qal 2.a` Qal remain, stay, tarry
+- `Qal 2.b` Qal sit, remain, dwell — with special emphasis of qualifying phr
 - `Qal 3` Qal dwell, have one’s abode
 - `Qal 4` Qal sit, abide, seated in its place, be inhabited
 - `Niph` Niph be inhabited
@@ -175,15 +208,30 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:m.df.ab` מִצְרַ֫יִם (n.pr.terr) root מצר: Egypt, Egyptians
 - `1.a` Egypt
+- `1.b` Egypt, Egyptians — combinations
+- `2.a` Egypt, Egyptians — in table of nations, personif. as second son of Ham
 - `2.b` Egypt, Egyptians
+- `2` Egypt, Egyptians — of people
 
 ### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
+- `I.1` as far as, even to, up to, until, while — of space
+- `I.2` as far as, even to, up to, until, while — Of time
+- `I.3` as far as, even to, up to, until, while — Of degree
+- `I` as far as, even to, up to, until, while — prep
 - `II.1` until
 - `II.2` While
 - `II.3` to the point that, so that even
+- `II` as far as, even to, up to, until, while — conj
+- `III.1` as far as, even to, up to, until, while — of space
+- `III.2` as far as, even to, up to, until, while — Of time
+- `III.3` as far as, even to, up to, until, while — Of degree
+- `III` as far as, even to, up to, until, while — עַד לְ, a strengthened form for עַד. Thus
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -195,15 +243,20 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:q.cv.aa` פָּרָה (vb) root פרה: bear fruit, be fruitful
+- `Qal 1` Qal bear fruit, be fruitful — of men and animals
+- `Qal 2` Qal bear fruit, be fruitful — of vine
 - `Hiph 1` Hiph cause to bear fruit
 - `Hiph 2` Hiph make fruitful
 - `Hiph 3` Hiph shew fruitfulness, bear fruit
@@ -237,6 +290,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.a` Qal set, station
 - `Qal 4.b` Qal put
 - `Qal 4.c` Qal set up
+- `Qal 4.d` Qal put, place, set — = plant, wheat
 - `Qal 4.e` Qal set, fix
 - `Qal 5.a` Qal make, for, transform into
 - `Qal 5.b` Qal make, constitute
@@ -247,4 +301,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hoph` Hoph there was set before him
 
 ### `bdb:u.ce.ab` יִשְׂרָאֵל (n.pr.m) root שׂרה: Israel, Ēl persisteth, persevereth
+- `1` Israel, Ēl persisteth, persevereth — n.pr.m. second name of Jacob
+- `2` Israel, Ēl persisteth, persevereth — n.pr.gent. name of Hebrew nation
 

@@ -1,0 +1,338 @@
+{
+  "unit": "vayera-05",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "18:33",
+      "english": "And the LORD went away when he had finished speaking to Abraham, and Abraham returned to his place.",
+      "literal": "and-went the-LORD as-which finished to-speak to-Abraham and-Abraham returned to-his-place",
+      "tokens": [
+        {"id": "18:33.1", "gloss": "and went away", "sense": "Qal II.2", "note": "wayyiqtol of qal halakh. The lexicon gives no 'go' under Qal I; 'walk' under Qal II.2 is the nearest sense."},
+        {"id": "18:33.2", "gloss": "the LORD", "note": "YHWH, rendered LORD in capitals (decisions: divine names)."},
+        {"id": "18:33.3", "gloss": "when", "sense": "3", "note": "kaf of comparison with the relative asher: a temporal conjunction."},
+        {"id": "18:33.4", "gloss": "had finished", "sense": "Pi 1.c", "note": "piel qatal of kalah, subject the LORD."},
+        {"id": "18:33.5", "gloss": "speaking", "sense": "Pi", "note": "piel infinitive construct of dabar with the prefix lamed: 'to speak'."},
+        {"id": "18:33.6", "gloss": "to", "sense": "1"},
+        {"id": "18:33.7", "gloss": "Abraham"},
+        {"id": "18:33.8", "gloss": "and Abraham", "note": "the vav opens a disjunctive clause; the subject comes first, then the verb."},
+        {"id": "18:33.9", "gloss": "returned", "sense": "Qal 2", "note": "qal qatal of shuv, 'return, go back'."},
+        {"id": "18:33.10", "gloss": "to his place", "sense": "2.a", "note": "lamed with the construct of makom and the 3ms suffix."}
+      ],
+      "phrases": [
+        {"tokens": ["18:33.1", "18:33.2"], "english": "And the LORD went away", "literal": "'and-went the-LORD': the verb comes first in the Hebrew; the English puts the subject first."},
+        {"tokens": ["18:33.3", "18:33.4", "18:33.5", "18:33.6", "18:33.7"], "english": "when he had finished speaking to Abraham", "literal": "'as-which finished to-speak to-Abraham': the temporal clause, with the subject 'he' understood from the verb."},
+        {"tokens": ["18:33.8", "18:33.9", "18:33.10"], "english": "and Abraham returned to his place", "literal": "'and-Abraham returned to-his-place': the main clause of the second half of the verse."}
+      ],
+      "grammar": [
+        "The first verb is wayyiqtol (the sequential narrative form, 'and went'); the second half of the verse changes to a disjunctive clause, 'and Abraham returned', with the subject first.",
+        "The clause 'when he had finished speaking' is circumstantial: kaf and asher make a temporal conjunction, and the piel qatal kilah gives the completed action before the departure.",
+        "The etnahta on Abraham (18:33.7) divides the verse: the first part is the LORD's departure, the second Abraham's return to his place.",
+        "The place to which Abraham returns is not named; the commentators identify it (Ibn Ezra: Hebron). See the commentary."
+      ],
+      "note": "The lexicon lists no sense of halakh meaning simple 'go' under Qal I. The English 'went away' takes the sense 'walk' and the context of departure.",
+      "commentary": [
+        {"anchor": "rashi:18:33:1", "relation": "records", "summary": "Rashi's midrash: when the advocate (Abraham) fell silent, the judge (the LORD) went away. The English gives the plain sense of the departure after the speech; the allegory is recorded here."},
+        {"anchor": "rashi:18:33:2", "relation": "records", "summary": "Rashi, again allegorically: once the judge and then the advocate had gone, the accuser remained and the two angels went to Sodom to destroy it. The English keeps the plain 'returned to his place'; the allegory is recorded here."},
+        {"anchor": "ibn-ezra:18:33:1", "relation": "records", "summary": "Ibn Ezra identifies 'his place' as Hebron: the vision took place where Abraham had gone to send the angels, from where he looked over Sodom; the sun had risen when he looked, since Sodom was not overturned at night. The English says 'his place' and does not name Hebron; the identification is recorded here."}
+      ],
+      "apparatus": [
+        "Onkelos renders the subject as 'the Glory of the LORD' (yeqara d'Adonai); the English keeps 'the LORD' per the decisions.",
+        "Ramban and Radak (not normative) read the departure as the end of the prophetic vision; not adopted here."
+      ]
+    },
+    {
+      "ref": "19:1",
+      "english": "The two angels came to Sodom in the evening, and Lot was sitting in the gate of Sodom. When Lot saw them, he rose to meet them and bowed down, face to the ground.",
+      "literal": "and-came two the-angels to-Sodom in-the-evening and-Lot sitting in-gate-of Sodom and-saw Lot and-rose to-meet-them and-bowed-down nostrils to-the-ground",
+      "tokens": [
+        {"id": "19:1.1", "gloss": "and came", "sense": "Qal 2", "note": "wayyiqtol of bo'. The arrival is in Sodom; the sense is 'come'."},
+        {"id": "19:1.2", "gloss": "two"},
+        {"id": "19:1.3", "gloss": "the angels", "sense": "2", "note": "malakh sent by God; the decisions give 'angel'. See the commentary on 19:1 for the name."},
+        {"id": "19:1.4", "gloss": "to Sodom", "note": "directional he on Sodom."},
+        {"id": "19:1.5", "gloss": "in the evening", "sense": "1.a", "note": "beth with the article: 'in the evening'."},
+        {"id": "19:1.6", "gloss": "and Lot"},
+        {"id": "19:1.7", "gloss": "sitting", "sense": "Qal 1.a", "note": "qal active participle, masculine singular: a background description, 'was sitting'."},
+        {"id": "19:1.8", "gloss": "in the gate of", "note": "construct state: 'the gate of'."},
+        {"id": "19:1.9", "gloss": "Sodom"},
+        {"id": "19:1.10", "gloss": "and saw", "sense": "Qal 1.a", "note": "wayyiqtol of ra'ah. The Hebrew gives no object; the English supplies 'them'."},
+        {"id": "19:1.11", "gloss": "Lot"},
+        {"id": "19:1.12", "gloss": "and rose", "sense": "Qal 1", "note": "wayyiqtol of qum, 'arise'."},
+        {"id": "19:1.13", "gloss": "to meet them", "sense": "Qal 1", "lex": "bdb:s.cz.aa", "note": "lamed with the infinitive construct of qara', 'meet' (homograph of qara', 'call'); the suffix 'them' is in this token."},
+        {"id": "19:1.14", "gloss": "and bowed down", "sense": "Hithpa‛lēl 1", "note": "wayyiqtol hitpael of shaḥah: prostrate oneself."},
+        {"id": "19:1.15", "gloss": "face", "sense": "2", "note": "dual noun, 'face' (the two faces of the dual)."},
+        {"id": "19:1.16", "gloss": "to the ground", "sense": "3.a", "note": "directional he on erets."}
+      ],
+      "phrases": [
+        {"tokens": ["19:1.1", "19:1.2", "19:1.3", "19:1.4", "19:1.5"], "english": "The two angels came to Sodom in the evening", "literal": "'and-came two the-angels to-Sodom in-the-evening': the verb comes first, the subject follows."},
+        {"tokens": ["19:1.6", "19:1.7", "19:1.8", "19:1.9"], "english": "and Lot was sitting in the gate of Sodom", "literal": "'and-Lot sitting in-gate-of Sodom': a participle gives the background to the next action."},
+        {"tokens": ["19:1.10", "19:1.11"], "english": "When Lot saw them", "literal": "'and-saw Lot': the object of the seeing is not written; 'them' is supplied from the context."},
+        {"tokens": ["19:1.12", "19:1.13"], "english": "he rose to meet them", "literal": "'and-rose to-meet-them': the sequence of the two verbs."},
+        {"tokens": ["19:1.14", "19:1.15", "19:1.16"], "english": "and bowed down, face to the ground", "literal": "'and-bowed-down nostrils to-the-ground': the dual 'faces' with the bowing, the English 'face'."}
+      ],
+      "grammar": [
+        "The chain of wayyiqtols (came, saw, rose, bowed down) gives the narrative sequence: the arrival, the sighting, the rising and the bowing.",
+        "The dual shenei (two) with the definite noun 'the angels' is a construct phrase: 'two of the angels' is read as 'the two angels'.",
+        "yoshev (19:1.7) is a participle: the English 'was sitting' gives the state that Lot is in when the angels arrive.",
+        "The dual apayim (19:1.15) is a noun used adverbially with the hitpael to express the bowing: 'face to the ground'."
+      ],
+      "note": "The English 'he rose to meet them' keeps the subject Lot; the verb 'rose' with the lamed infinitive is a sequence of two actions.",
+      "commentary": [
+        {"anchor": "rashi:19:1:1", "relation": "follows", "summary": "Rashi: the three visitors of 18:2 divided: two went to Sodom, one to destroy it and one to save Lot; the third, sent to heal Abraham and to tell Sarah, left once his task was done. The English 'two' follows."},
+        {"anchor": "rashi:19:1:2", "relation": "follows", "summary": "Rashi: they are called 'men' with Abraham, while the Shekhinah was with them, and 'angels' with Lot. The English 'angels' follows the plain sense; the other explanation is recorded here."},
+        {"anchor": "rashi:19:1:3", "relation": "not-applicable", "summary": "Rashi asks whether the angels really took so long from Hebron to Sodom, and answers that they were angels of mercy who waited in case Abraham could find a defence for the city. A homily on the delay; 'in the evening' keeps the plain time."},
+        {"anchor": "rashi:19:1:4", "relation": "records", "summary": "Rashi: 'and Lot was sitting' is written with yashav; that day they made him judge over them (Bereshit Rabbah). The English 'was sitting' keeps the plain sense; the judgeship reading is recorded here."},
+        {"anchor": "rashi:19:1:5", "relation": "not-applicable", "summary": "Rashi: Lot learned from Abraham's house to go out and meet guests. A comment on conduct; the English reports the act."},
+        {"anchor": "ibn-ezra:19:1:1", "relation": "records", "summary": "Ibn Ezra refers 'in the evening' back to his comment on the Passover of Egypt (Exod. 12:6, between the evenings): a note on the time of the event. The English keeps 'in the evening' and records the cross-reference."},
+        {"anchor": "ibn-ezra:19:1:2", "relation": "records", "summary": "Ibn Ezra takes 'apayim' as the nostrils, which are high on the face: Lot bowed until his nostrils touched the ground. The English takes the dual as 'face' and records this reading."}
+      ],
+      "apparatus": [
+        "Ibn Ezra's reading 'nostrils' (19:1.15) is recorded in the commentary; the English follows the usual sense 'face'."
+      ]
+    },
+    {
+      "ref": "19:2",
+      "english": "And he said, \"Here now, my lords, turn aside, please, to your servant's house and spend the night, and wash your feet; then you can rise early and go on your way.\" But they said, \"No, but we will spend the night in the square.\"",
+      "literal": "and-said Here now my-lords turn-aside please to house-of your-servant and-spend-the-night and-wash your-feet and-rise-early and-go to-your-way and-said no for in-the-square we-spend-the-night",
+      "tokens": [
+        {"id": "19:2.1", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "19:2.2", "gloss": "here", "note": "hinneh, an exclamation: 'here' or 'look'; never 'behold' in English."},
+        {"id": "19:2.3", "gloss": "now", "note": "na, interjection, 'now', 'please' (see 19:2.6)."},
+        {"id": "19:2.4", "gloss": "my lords", "note": "adonai with pataḥ: 'my lords' (decisions: 19:2 is the plural of address to the men)."},
+        {"id": "19:2.5", "gloss": "turn aside", "sense": "Qal 1", "note": "imperative plural of sur, 'turn aside'."},
+        {"id": "19:2.6", "gloss": "please", "note": "na, exhortation, 'please'."},
+        {"id": "19:2.7", "gloss": "to", "sense": "1"},
+        {"id": "19:2.8", "gloss": "house of", "sense": "1", "note": "construct state: 'the house of'."},
+        {"id": "19:2.9", "gloss": "your servant", "sense": "1", "note": "construct with the 2mp suffix; 'your servant' is Lot's address to the men."},
+        {"id": "19:2.10", "gloss": "and spend the night", "sense": "Qal 1", "note": "imperative of lun, 'pass the night'."},
+        {"id": "19:2.11", "gloss": "and wash", "sense": "Qal 1", "note": "imperative of rahats."},
+        {"id": "19:2.12", "gloss": "your feet", "sense": "1", "note": "dual construct with the 2mp suffix."},
+        {"id": "19:2.13", "gloss": "and rise early", "note": "qatal with vav, continuing the imperatives: 'then you can rise early'."},
+        {"id": "19:2.14", "gloss": "and go", "sense": "Qal II.2", "note": "qatal with vav of halakh; 'walk' is the nearest sense."},
+        {"id": "19:2.15", "gloss": "on your way", "sense": "1", "note": "lamed with the construct of derekh and the 2mp suffix."},
+        {"id": "19:2.16", "gloss": "but they said", "sense": "Qal 1", "note": "wayyiqtol of amar; the vav is adversative here."},
+        {"id": "19:2.17", "gloss": "no", "note": "lo, the negative particle."},
+        {"id": "19:2.18", "gloss": "but", "note": "ki, read as 'but' (ela) by Rashi; see the commentary."},
+        {"id": "19:2.19", "gloss": "in the square", "note": "beth with the article on rehov, 'broad open place'."},
+        {"id": "19:2.20", "gloss": "we will spend the night", "sense": "Qal 1", "note": "yiqtol first person common plural of lun."}
+      ],
+      "phrases": [
+        {"tokens": ["19:2.1"], "english": "And he said", "literal": "'and-said': the vav opens the speech."},
+        {"tokens": ["19:2.2", "19:2.3", "19:2.4"], "english": "Here now, my lords", "literal": "'Here now my-lords': the exclamation with the address."},
+        {"tokens": ["19:2.5", "19:2.6"], "english": "turn aside, please", "literal": "'turn-aside please': the imperative with the particle of entreaty."},
+        {"tokens": ["19:2.7", "19:2.8", "19:2.9"], "english": "to your servant's house", "literal": "'to house-of your-servant': the construct chain, with Lot's address to the men."},
+        {"tokens": ["19:2.10", "19:2.11", "19:2.12"], "english": "and spend the night, and wash your feet", "literal": "'and-spend-the-night and-wash your-feet': the Hebrew order (lodge first, then wash) is kept."},
+        {"tokens": ["19:2.13", "19:2.14", "19:2.15"], "english": "then you can rise early and go on your way", "literal": "'and-rise-early and-go to-your-way': the qatal forms continue the imperatives as a consequence."},
+        {"tokens": ["19:2.16"], "english": "But they said", "literal": "'and-said': the men's reply, adversative."},
+        {"tokens": ["19:2.17", "19:2.18", "19:2.19", "19:2.20"], "english": "No, but we will spend the night in the square", "literal": "'no for in-the-square we-spend-the-night': the refusal, then the alternative."}
+      ],
+      "grammar": [
+        "The imperatives suru, vilinu and verahatsu (plural) address the men; the vav links the imperatives in a request.",
+        "Hinneh na is an exclamation with the particle na: 'here now'. The second na (19:2.6) is an exhortation, 'please'.",
+        "The qatal forms vehishkamtem and vahalakhtem (19:2.13-14) continue the imperatives: 'then you can rise early and go on your way'.",
+        "lo ... ki (19:2.17-18) is 'No, but': ki is adversative here, as Rashi reads it."
+      ],
+      "note": "The imperative 'spend the night' (lun) and the yiqtol 'we will spend the night' (19:2.20) use the same verb: the men refuse Lot's offer of a night in his house.",
+      "commentary": [
+        {"anchor": "rashi:19:2:1", "relation": "follows", "summary": "Rashi: 'here now, my lords' means you are my lords now that you have passed through me; his second reading, that the men must take care not to be recognised by the wicked men of the city, is recorded here. The English 'my lords' follows the address."},
+        {"anchor": "rashi:19:2:2", "relation": "records", "summary": "Rashi: 'turn aside' means make the road to my house crooked, so that Sodom does not see them going in (Bereshit Rabbah). The English keeps the plain 'turn aside'; the crooked-road reading is recorded."},
+        {"anchor": "rashi:19:2:3", "relation": "records", "summary": "Rashi explains the order 'spend the night, then wash': Lot wanted their feet to show the dust of the road, so that Sodom would not say they had been in his house for days. The English keeps the Hebrew order; the motive is recorded here."},
+        {"anchor": "rashi:19:2:4", "relation": "not-applicable", "summary": "Rashi: they refused Lot, a lesser man, but did not refuse Abraham (18:5). A comment on the refusal; the English 'No' stands."},
+        {"anchor": "rashi:19:2:5", "relation": "follows", "summary": "Rashi: ki here means 'but' (ela): they would not turn aside to his house but would spend the night in the city square. The English 'No, but' follows."},
+        {"anchor": "ibn-ezra:19:2:1", "relation": "follows", "summary": "Ibn Ezra: 'gentlemen', a common form of address; sur with a mem is the plain 'turn aside'. The English 'my lords' and 'turn aside' follow the plain sense of the words."},
+        {"anchor": "ibn-ezra:19:2:2", "relation": "records", "summary": "Ibn Ezra takes lo here as a formal refusal, part of the urging (as 'if you do not press' in 1 Sam. 15:23). The English 'No' is the plain negative; the reading as urging is recorded here."}
+      ],
+      "apparatus": [
+        "WLC note v on 19:2.14 (vahalakhtem): one or more vowels in the Leningrad codex are read differently from BHS. The pointing in the pack is followed."
+      ]
+    },
+    {
+      "ref": "19:3",
+      "english": "But he urged them strongly, and they turned aside to him and came into his house. He made a feast for them and baked unleavened bread, and they ate.",
+      "literal": "and-urged in-them greatly and-turned-aside to-him and-came to-house-of-him and-made for-them feast and-unleavened-cakes baked and-ate",
+      "tokens": [
+        {"id": "19:3.1", "gloss": "but urged", "sense": "Qal", "note": "wayyiqtol of patsar, 'press, urge'. The vav is adversative here."},
+        {"id": "19:3.2", "gloss": "them", "note": "beth with the 3mp suffix: 'upon them'."},
+        {"id": "19:3.3", "gloss": "strongly", "sense": "2", "note": "me'od, 'exceedingly, greatly'."},
+        {"id": "19:3.4", "gloss": "and turned aside", "sense": "Qal 1", "note": "wayyiqtol of sur, 'turn aside' (see 19:2.5)."},
+        {"id": "19:3.5", "gloss": "to him", "sense": "1"},
+        {"id": "19:3.6", "gloss": "and came", "sense": "Qal 1", "note": "wayyiqtol of bo', 'come in'."},
+        {"id": "19:3.7", "gloss": "into", "sense": "2"},
+        {"id": "19:3.8", "gloss": "his house", "sense": "1"},
+        {"id": "19:3.9", "gloss": "and made", "sense": "Qal II.1", "note": "wayyiqtol of asah, 'make'."},
+        {"id": "19:3.10", "gloss": "for them", "note": "lamed with the 3mp suffix."},
+        {"id": "19:3.11", "gloss": "a feast", "note": "mishteh, from shathah, 'drink'; a meal, not a sense in the lexicon."},
+        {"id": "19:3.12", "gloss": "and unleavened bread", "note": "vav with matsah, feminine plural."},
+        {"id": "19:3.13", "gloss": "baked", "note": "qatal of afah, 'bake'."},
+        {"id": "19:3.14", "gloss": "and ate", "sense": "Qal 1", "note": "wayyiqtol of akhal, 'eat'. The subject is the two men."}
+      ],
+      "phrases": [
+        {"tokens": ["19:3.1", "19:3.2", "19:3.3"], "english": "But he urged them strongly", "literal": "'and-urged in-them greatly': the adversative vav; the object 'them' comes after the verb in the English."},
+        {"tokens": ["19:3.4", "19:3.5", "19:3.6", "19:3.7", "19:3.8"], "english": "and they turned aside to him and came into his house", "literal": "'and-turned-aside to-him and-came to-house-of-him': the men yield and come in."},
+        {"tokens": ["19:3.9", "19:3.10", "19:3.11"], "english": "He made a feast for them", "literal": "'and-made for-them feast': the verb and the object."},
+        {"tokens": ["19:3.12", "19:3.13"], "english": "and baked unleavened bread", "literal": "'and-unleavened-cakes baked': the English puts the verb before the object."},
+        {"tokens": ["19:3.14"], "english": "and they ate", "literal": "'and-ate': the closing wayyiqtol."}
+      ],
+      "grammar": [
+        "The wayyiqtols (urged, turned aside, came, made, ate) carry the narrative. The vav of 'urged' is adversative: the men had refused, and Lot presses them.",
+        "The adverb me'od (19:3.3) intensifies the verb: 'greatly'. The preposition beth on the 3mp suffix gives the object of the urging.",
+        "The meal is named by two nouns, mishteh and matsot, and one verb, afah: the Hebrew names the feast before the baking. The English reverses the order."
+      ],
+      "note": "The verb 'turned aside' (vayyasuru) is the same as 19:2.5 'turn aside'. The men who refused the road now turn to Lot's house.",
+      "commentary": [
+        {"anchor": "rashi:19:3:1", "relation": "follows", "summary": "Rashi: 'they turned aside' means they bent the road toward his house. The English 'turned aside to him' follows: they left the road to go to Lot's house."},
+        {"anchor": "rashi:19:3:2", "relation": "records", "summary": "Rashi: the unleavened bread shows that it was Passover. The English keeps 'unleavened bread' and does not name the feast; the Passover reading is recorded here."},
+        {"anchor": "ramban:19:3:1", "relation": "not-applicable", "summary": "Ramban (not normative): Lot had merit in pressing the men, and they were reluctant at first. A comment on Lot's character; not the plain sense of the words."},
+        {"anchor": "radak:19:3:3", "relation": "records", "summary": "Radak (not normative): if the men were in a vision, they only seemed to eat. The English keeps the text's 'they ate'; the vision reading is recorded here."}
+      ],
+      "apparatus": [
+        "Targum Onkelos (19:3) renders the urging as 'and he pressed them'; the English keeps 'urged' with the adverb 'strongly'."
+      ]
+    },
+    {
+      "ref": "19:4",
+      "english": "Before they lay down, the men of the city, the men of Sodom, surrounded the house, from youth to old age, all the people, from one end of the city to the other.",
+      "literal": "before they-lay-down the-men-of the-city the-men-of Sodom surrounded upon the-house from-youth and-to old all the-people from-end",
+      "tokens": [
+        {"id": "19:4.1", "gloss": "before", "note": "teram, 'before, not yet'; it takes a yiqtol."},
+        {"id": "19:4.2", "gloss": "they lay down", "sense": "Qal 1", "note": "yiqtol of shakhav, 'lie down' (to sleep)."},
+        {"id": "19:4.3", "gloss": "the men of", "note": "vav not rendered in the English."},
+        {"id": "19:4.4", "gloss": "the city", "sense": "1"},
+        {"id": "19:4.5", "gloss": "the men of", "note": "construct, in apposition to 'the men of the city'."},
+        {"id": "19:4.6", "gloss": "Sodom"},
+        {"id": "19:4.7", "gloss": "surrounded", "sense": "Niph 1.a", "note": "nifal qatal of sabav, 'turn oneself, close round'."},
+        {"id": "19:4.8", "gloss": "upon", "note": "al: absorbed in 'surrounded' in the English."},
+        {"id": "19:4.9", "gloss": "the house", "sense": "1"},
+        {"id": "19:4.10", "gloss": "from youth", "sense": "1", "note": "mi with na'ar: 'from youth'."},
+        {"id": "19:4.11", "gloss": "and to", "note": "vav with ad, 'to, until'."},
+        {"id": "19:4.12", "gloss": "old", "sense": "1", "note": "zaqen, 'old'; the English adds 'age'."},
+        {"id": "19:4.13", "gloss": "all", "sense": "1", "note": "kol in construct with ha'am, 'the whole of'."},
+        {"id": "19:4.14", "gloss": "the people", "sense": "4"},
+        {"id": "19:4.15", "gloss": "from the end", "note": "mi with qatseh; 'from the end'. The English reads Rashi's 'end to end'."}
+      ],
+      "phrases": [
+        {"tokens": ["19:4.1", "19:4.2"], "english": "Before they lay down", "literal": "'before they-lay-down': the temporal particle with the yiqtol."},
+        {"tokens": ["19:4.3", "19:4.4", "19:4.5", "19:4.6"], "english": "the men of the city, the men of Sodom", "literal": "'the-men-of the-city the-men-of Sodom': the second phrase names the first, the wicked men."},
+        {"tokens": ["19:4.7", "19:4.8", "19:4.9"], "english": "surrounded the house", "literal": "'surrounded upon the-house': the preposition is absorbed in the English verb."},
+        {"tokens": ["19:4.10", "19:4.11", "19:4.12"], "english": "from youth to old age", "literal": "'from-youth and-to old': the range from the youngest to the oldest."},
+        {"tokens": ["19:4.13", "19:4.14"], "english": "all the people", "literal": "'all the-people'."},
+        {"tokens": ["19:4.15"], "english": "from one end of the city to the other", "literal": "'from-end': the English reads the end as the far end of the city (Rashi)."}
+      ],
+      "grammar": [
+        "Teram with the yiqtol (before they lay down) is a temporal clause. The English uses the past, since the narrative is past.",
+        "The phrase 'the men of the city, the men of Sodom' is an apposition: the men of the city are the men of Sodom, the wicked.",
+        "nasabu is nifal (Niph) qatal, 'they surrounded'. The stem gives a middle sense, 'close round the house'."
+      ],
+      "note": "The verse is a single long sentence: the time clause, the subject and the verb, then the range of ages and the closing phrase.",
+      "commentary": [
+        {"anchor": "rashi:19:4:1", "relation": "follows", "summary": "Rashi gives the midrash first (the angels asked Lot about the men and he said most of them were wicked), then the plain sense: the men of the city were wicked and are called men of Sodom, as in 13:13. The English follows the plain sense; the midrashic setting is not adopted."},
+        {"anchor": "rashi:19:4:2", "relation": "follows", "summary": "Rashi: 'from the end' means from one end of the city to the other; not one of them protested, not even one righteous man. The English 'from one end of the city to the other' follows."},
+        {"anchor": "ibn-ezra:19:4:1", "relation": "follows", "summary": "Ibn Ezra: the verb is nifal. The English 'surrounded' follows the stem, a middle sense of 'close round'."},
+        {"anchor": "ibn-ezra:19:4:2", "relation": "records", "summary": "Ibn Ezra: 'from the end' means that they were not close to the house. The English 'from one end to the other' also covers men from far off; Ibn Ezra's sense is recorded here."}
+      ],
+      "apparatus": [
+        "Targum Onkelos on 19:4 has 'from young to old' (me'ulimah ve'ad saba), with 'surrounded the house'; the English follows the Hebrew."
+      ]
+    },
+    {
+      "ref": "19:5",
+      "english": "And they called to Lot and said to him, \"Where are the men who came to you tonight? Bring them out to us, that we may lie with them.\"",
+      "literal": "and-called to Lot and-said to-him where the-men who-came to-you the-night bring-them-out to-us and-that-we-know them",
+      "tokens": [
+        {"id": "19:5.1", "gloss": "and called", "sense": "Qal 2.a", "lex": "bdb:s.cy.aa", "note": "wayyiqtol of qara' with el, 'call to'. Homograph: qara' 'meet' (s.cz.aa) is different."},
+        {"id": "19:5.2", "gloss": "to", "sense": "1"},
+        {"id": "19:5.3", "gloss": "Lot"},
+        {"id": "19:5.4", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "19:5.5", "gloss": "to him", "note": "lamed with the 3ms suffix."},
+        {"id": "19:5.6", "gloss": "where", "note": "ayyeh, interrogative: 'where'."},
+        {"id": "19:5.7", "gloss": "the men", "note": "ha-anashim: 'the men'."},
+        {"id": "19:5.8", "gloss": "who", "note": "asher, the relative particle."},
+        {"id": "19:5.9", "gloss": "came", "sense": "Qal 2", "note": "qatal of bo', 'come'."},
+        {"id": "19:5.10", "gloss": "to you", "sense": "1", "note": "el with the 2ms suffix."},
+        {"id": "19:5.11", "gloss": "tonight", "note": "ha-laylah, 'the night': the English 'tonight'."},
+        {"id": "19:5.12", "gloss": "bring them out", "sense": "Hiph 1", "note": "hifil imperative of yatsa' with the 3mp suffix."},
+        {"id": "19:5.13", "gloss": "to us", "sense": "1", "note": "el with the 1cp suffix."},
+        {"id": "19:5.14", "gloss": "and that we may lie with", "sense": "Qal 3", "note": "cohortative of yada', 'know'. Here a euphemism for intercourse: Rashi and Ibn Ezra both take it so (see commentary)."},
+        {"id": "19:5.15", "gloss": "them", "note": "the direct object marker with the 3mp suffix; no separate English word."}
+      ],
+      "phrases": [
+        {"tokens": ["19:5.1", "19:5.2", "19:5.3"], "english": "And they called to Lot", "literal": "'and-called to Lot': the verb with el means 'call to'."},
+        {"tokens": ["19:5.4", "19:5.5"], "english": "and said to him", "literal": "'and-said to-him'."},
+        {"tokens": ["19:5.6", "19:5.7", "19:5.8", "19:5.9", "19:5.10", "19:5.11"], "english": "Where are the men who came to you tonight", "literal": "'where the-men who-came to-you the-night': the question; 'are' is supplied in the English."},
+        {"tokens": ["19:5.12", "19:5.13"], "english": "Bring them out to us", "literal": "'bring-them-out to-us': the imperative."},
+        {"tokens": ["19:5.14", "19:5.15"], "english": "that we may lie with them", "literal": "'and-that-we-know them': the vav of purpose and the cohortative, with the euphemism."}
+      ],
+      "grammar": [
+        "The imperative hotsi (19:5.12) carries the 3mp suffix 'them'; the English gives 'bring them out to us'.",
+        "The cohortative venedaah (19:5.14) is 'let us know' with the vav of purpose: 'that we may know'. The English 'lie with' follows the commentators' euphemism.",
+        "The construct qara' el (19:5.1) means 'call to'. The homograph qara' 'meet' is not used here."
+      ],
+      "note": "The speech is direct: the men speak to Lot and the English puts it in double quotes. 'Know' is the verb of 19:5.14; the English is the commentators' reading of it.",
+      "commentary": [
+        {"anchor": "rashi:19:5:1", "relation": "follows", "summary": "Rashi: 'that we may know them' means lying with a male, as in 'who had not known a man' (Bereshit Rabbah). The English 'that we may lie with them' follows."},
+        {"anchor": "ibn-ezra:19:5:1", "relation": "follows", "summary": "Ibn Ezra: 'know them' is a euphemism for lying down. The English 'lie with them' follows."},
+        {"anchor": "radak:19:5:1", "relation": "records", "summary": "Radak: 'know' means to kill them, as in Judges 19:22; some explain it as the lying of males. The English adopts the sexual sense from Rashi and Ibn Ezra; Radak's reading is recorded here."}
+      ],
+      "apparatus": [
+        "Ramban (not normative) explains the men's intent as a desire to drive out the poor from the land; the English follows the sexual reading in the normative commentators."
+      ]
+    },
+    {
+      "ref": "19:6",
+      "english": "Lot went out to them at the doorway, and shut the door behind him.",
+      "literal": "and-went-out to-them Lot to-the-doorway and-the-door shut behind-him",
+      "tokens": [
+        {"id": "19:6.1", "gloss": "and went out", "sense": "Qal 1", "note": "wayyiqtol of yatsa'."},
+        {"id": "19:6.2", "gloss": "to them", "sense": "1"},
+        {"id": "19:6.3", "gloss": "Lot"},
+        {"id": "19:6.4", "gloss": "to the doorway", "note": "directional he on petah, 'opening, doorway'."},
+        {"id": "19:6.5", "gloss": "and the door", "sense": "1", "note": "vav with the article and delet."},
+        {"id": "19:6.6", "gloss": "shut", "sense": "Qal 1", "note": "qatal of sagar, 'shut'."},
+        {"id": "19:6.7", "gloss": "behind him", "sense": "1.a", "note": "achar with the 3ms suffix."}
+      ],
+      "phrases": [
+        {"tokens": ["19:6.1", "19:6.2", "19:6.3"], "english": "Lot went out to them", "literal": "'and-went-out to-them Lot': the verb and then the subject."},
+        {"tokens": ["19:6.4"], "english": "at the doorway", "literal": "'to-the-doorway': the directional he; the English 'at'."},
+        {"tokens": ["19:6.5", "19:6.6", "19:6.7"], "english": "and shut the door behind him", "literal": "'and-the-door shut behind-him': the English puts the verb before the object."}
+      ],
+      "grammar": [
+        "The wayyiqtol 'went out' is followed by the qatal 'shut' in a second clause: the narrative continues with the act of closing.",
+        "The directional he on petah (19:6.4) gives the place towards which Lot goes: the doorway.",
+        "The preposition achar with the 3ms suffix gives 'behind him'."
+      ],
+      "note": "The subject of the shutting is Lot in the English; Radak allows the man inside to have shut it.",
+      "commentary": [
+        {"anchor": "ibn-ezra:19:6:1", "relation": "not-applicable", "summary": "Ibn Ezra comments on the form of the word petachah: the feminine ending (tav and he) and a spelling with a letter missing. A grammatical note; the English 'doorway' is unaffected."},
+        {"anchor": "radak:19:6:1", "relation": "records", "summary": "Radak (not normative): 'shut' may mean that the man inside shut the door, or that Lot shut it from outside. The English gives Lot's act; Radak's alternative is recorded."}
+      ],
+      "apparatus": []
+    },
+    {
+      "ref": "19:7",
+      "english": "And he said, \"Please, my brothers, do not act wickedly.\"",
+      "literal": "and-said do-not please my-brothers act-wickedly",
+      "tokens": [
+        {"id": "19:7.1", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "19:7.2", "gloss": "do not", "note": "al with the yiqtol: a prohibition."},
+        {"id": "19:7.3", "gloss": "please", "note": "na, 'please'."},
+        {"id": "19:7.4", "gloss": "my brothers", "sense": "1", "note": "construct plural with the 1cs suffix: 'my brothers'; addressed to the men of the city."},
+        {"id": "19:7.5", "gloss": "act wickedly", "sense": "Hiph 2", "note": "yiqtol hifil of ra'a, 'do evil, wickedly'."}
+      ],
+      "phrases": [
+        {"tokens": ["19:7.1"], "english": "And he said", "literal": "'and-said': the speech."},
+        {"tokens": ["19:7.2", "19:7.3", "19:7.4", "19:7.5"], "english": "Please, my brothers, do not act wickedly", "literal": "'do-not please my-brothers act-wickedly': the prohibition, with the English word order."}
+      ],
+      "grammar": [
+        "al with the yiqtol (19:7.2 and 19:7.5) is a prohibition: 'do not act wickedly'.",
+        "The particle na (19:7.3) softens the prohibition to a request: 'please'.",
+        "The hifil of ra'a (19:7.5) carries the sense 'do evil': the English 'act wickedly' takes the second sense listed."
+      ],
+      "note": "Lot's speech is a plea, not a command: the English 'please' keeps the particle na.",
+      "commentary": [
+        {"anchor": "radak:19:7:1", "relation": "follows", "summary": "Radak (not normative): 'please' is a request that the men do not harm these people. The English 'please' and the prohibition follow his reading."},
+        {"anchor": "radak:19:7:2", "relation": "records", "summary": "Radak: 'my brothers' means 'my neighbours', and the request is that they leave these men for the sake of his honour. The English keeps 'my brothers', the Hebrew word; the neighbour reading is recorded here."},
+        {"anchor": "onkelos:19:7:1", "relation": "records", "summary": "Targum Onkelos renders 'do not act wickedly' as 'do not shame' (la tavishun). The English keeps 'act wickedly', the plain sense of the hifil; the Targum is recorded here."}
+      ],
+      "apparatus": []
+    }
+  ]
+}

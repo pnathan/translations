@@ -119,6 +119,7 @@ const sectionHTML = `<!doctype html>
 {{if .Summary}}<div>{{.Summary}}</div>{{end}}
 <details><summary>Hebrew</summary><div class="hebtext" lang="he">{{.Hebrew}}</div></details></div>{{end}}
 </details>{{end}}
+{{if .Context}}<details><summary>Ancient Near East</summary><ul>{{range .Context}}<li>{{.}}</li>{{end}}</ul></details>{{end}}
 {{if .Apparatus}}<details><summary>Apparatus</summary><ul>{{range .Apparatus}}<li>{{.}}</li>{{end}}</ul></details>{{end}}
 </section>
 {{end}}

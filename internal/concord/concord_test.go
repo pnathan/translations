@@ -31,7 +31,7 @@ func TestDotFromHeadword(t *testing.T) {
 		{"עשר", "עָשִׁיר", "עשׁר"},
 		{"שרש", "שֹׁרֶשׁ", "שׁרשׁ"},
 		{"שמש", "שִׁמֵּשׂ", ""}, // mixed dots
-		{"עשה", "פֹּעַל", ""},  // no ש in the headword
+		{"עשה", "פֹּעַל", ""},   // no ש in the headword
 	} {
 		if got := dotFromHeadword(c.root, c.head); got != c.want {
 			t.Errorf("dotFromHeadword(%s, %s) = %q, want %q", c.root, c.head, got, c.want)

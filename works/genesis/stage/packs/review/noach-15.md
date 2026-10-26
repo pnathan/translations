@@ -176,7 +176,7 @@ Hebrew (MAM): וְאֶת־הָֽאַרְוָדִ֥י וְאֶת־הַצְּמָ�
 
 ### Commentary anchored to this verse
 
-- `rashi:10:18:1` Rashi **normative** on 10:18.7 10:18.8 «וְאַחַ֣ר נָפֹ֔צוּ» (matched; filed at 10:18) DH «ואחר נפוצו.»: מֵאֵלֶּה נָפוֹצוּ מִשְׁפָּחוֹת הַרְבֵּה:
+- `rashi:10:18:1` Rashi on 10:18.7 10:18.8 «וְאַחַ֣ר נָפֹ֔צוּ» (matched; filed at 10:18) DH «ואחר נפוצו.»: מֵאֵלֶּה נָפוֹצוּ מִשְׁפָּחוֹת הַרְבֵּה:
 - `radak:10:18:1` Radak on 10:18.7 10:18.8 «וְאַחַ֣ר נָפֹ֔צוּ» (matched; filed at 10:18) DH «וְאַחַר נָפֹצוּ.»: אַחַר הַפַּלָּגָה.
 - `radak:10:18:2` Radak on 10:18.9 10:18.10 «מִשְׁפְּח֖וֹת הַֽכְּנַעֲנִֽי׃» (matched; filed at 10:18) DH «מִשְׁפְּחוֹת הַכְּנַעֲנִי.»: אֵלֶּה הַנִּזְכָּרִים שֶׁהָיוּ בְּנֵי כְנַעַן נָפֹצוּ מִמְּקוֹמָם שֶׁהָיָה בַּמִּזְרָח עִם שְׁאָר הַמִּשְׁפָּחוֹת, וְנָפֹצוּ אֶל הָאָרֶץ הַנִּקְרֵאת אַחַר כֵּן ״אֶרֶץ כְּנַעַן״.
 - `onkelos:10:18:1` Targum Onkelos on whole 10:18 (version; filed at 10:18): וְיָת אַרְוָדָאֵי וְיָת צְמָרָאֵי וְיָת חֲמָתָאֵי וּבָתַר כֵּן אִתְבַּדָּרוּ זַרְעֲיַת כְּנַעֲנָאֵי:
@@ -244,8 +244,8 @@ Hebrew (MAM): וַיְהִ֞י גְּב֤וּל הַֽכְּנַעֲנִי֙ מ�
 
 ### Commentary anchored to this verse
 
-- `rashi:10:19:1` Rashi **normative** on 10:19.2 10:19.3 «גְּב֤וּל הַֽכְּנַעֲנִי֙» (matched; filed at 10:19) DH «גבול הכנעני.»: סוֹף אַרְצוֹ. כָּל גְּבוּל לְשׁוֹן סוֹף וְקָצֶה:
-- `rashi:10:19:2` Rashi **normative** on 10:19.5 «בֹּאֲכָ֥ה» (matched; filed at 10:19) DH «באכה.»: שֵׁם דָּבָר. וְלִי נִרְאֶה כְּאָדָם הָאוֹמֵר לַחֲבֵרוֹ, גְּבוּל זֶה מַגִּיעַ עַד אֲשֶׁר תָּבֹא לִגְבוּל פְּלוֹנִי:
+- `rashi:10:19:1` Rashi on 10:19.2 10:19.3 «גְּב֤וּל הַֽכְּנַעֲנִי֙» (matched; filed at 10:19) DH «גבול הכנעני.»: סוֹף אַרְצוֹ. כָּל גְּבוּל לְשׁוֹן סוֹף וְקָצֶה:
+- `rashi:10:19:2` Rashi on 10:19.5 «בֹּאֲכָ֥ה» (matched; filed at 10:19) DH «באכה.»: שֵׁם דָּבָר. וְלִי נִרְאֶה כְּאָדָם הָאוֹמֵר לַחֲבֵרוֹ, גְּבוּל זֶה מַגִּיעַ עַד אֲשֶׁר תָּבֹא לִגְבוּל פְּלוֹנִי:
 - `ibn-ezra:10:19:1` Ibn Ezra **normative** on 10:19.5 10:19.6 «בֹּאֲכָ֥ה גְרָ֖רָה» (matched; filed at 10:19) DH «באכה גררה.»: אל גרר:
 - `radak:10:19:1` Radak on 10:19.1 10:19.2 «וַיְהִ֞י גְּב֤וּל» (matched; filed at 10:19) DH «וַיְהִי גְּבוּל.»: וְעַתָּה זָכַר גְּבוּלָהּ מִצִּידֹן עַד סְדֹם, וְלֹא זָכַר כָּל גְּבוּלוֹתֶיהָ, כִּי עָתִיד לְזָכְרָם בְּחַלּוּקַת הָאָרֶץ. וְהָיָה הַסִּפּוּר הַזֶּה לְהוֹדִיעַ כִּי רְצוֹן הָאֵל הָיָה שֶׁיִּשְׁכְּנוּ מִשְׁפְּחוֹת הַכְּנַעֲנִי שָׁם עַד בֹּא קִצָּם, כִּי לְיִשְׂרָאֵל בְּחָרָהּ אֵל, אֶלָּא שֶׁיֵּשְׁבוּהָ בְּנֵי כְנַעַן לְצֹרֶךְ יִשְׂרָאֵל שֶׁלֹּא יִצְטָרְכוּ יִשְׂרָאֵל בְּבוֹאָם לֵישֵׁב הָאָרֶץ לִטַּע כְּרָמִים וְלִבְנוֹת בָּתִּים אֶלָּא יִמְצְאוּ אוֹתָהּ יִשְׂרָאֵל מְיֻשֶּׁבֶת מְלֵאָה כָל טוּב, כְּמוֹ שֶׁאָמַר בְּהַבְטָחָתוֹ לָהֶם (דברים ו:יא) ״וּבָתִּים מְלֵאִים כָּל טוּב אֲשֶׁר לֹא מִלֵּאתָ, וּבֹרֹת חֲצוּבִים אֲשֶׁר לֹא חָצַבְתָּ, כְּרָמִים וְזֵיתִים אֲשֶׁר לֹא נָטָעְתָּ״ וְאָמַר בְּשִׁירַת הָאֲזִינוּ (דברים לב:ח) ״יַצֵּב גְּבֻלֹת עַמִּים לְמִסְפַּר בְּנֵי יִשְׂרָאֵל״, כְּלוֹמַר הֵצִיב גְּבוּלוֹת מִשְׁפְּחוֹת הַכְּנַעֲנִי שֶׁיִּהְיוּ נֶחֱלָקִים לְמִסְפַּר בְּנֵי יִשְׂרָאֵל, כְּלוֹמַר לִשְׁנֵים עָשָׂר שְׁבָטִים, כִּי לְכֻלָּם הָיָה דַּי בָּאָרֶץ הַהִיא, וְהָיָה רְצוֹן הָאֵל שֶׁיִּהְיוּ הַכְּנַעֲנִים קוֹדְמִים לְפִי שֶׁהֵם עֲבָדִים כְּמוֹ שֶׁקִּלֵּל נֹחַ, וְהָיוּ מְכִינִים הָאָרֶץ לְיִשְׂרָאֵל כְּעֶבֶד הַמֵּכִין לִפְנֵי אֲדֹנָיו.
 - `onkelos:10:19:1` Targum Onkelos on whole 10:19 (version; filed at 10:19): וַהֲוָה תְּחוּם כְּנַעֲנָאֵי מִצִּידוֹן מָטֵי לִגְרָר עַד עַזָּה מָטֵי לִסְדוֹם וַעֲמוֹרָה וְאַדְמָה וּצְבוֹיִם עַד לָשַׁע:
@@ -320,7 +320,7 @@ Paragraph mark after this verse: ס
 
 ### Commentary anchored to this verse
 
-- `rashi:10:20:1` Rashi **normative** on 10:20.5 10:20.6 «לִלְשֹֽׁנֹתָ֑ם בְּאַרְצֹתָ֖ם» (matched; filed at 10:20) DH «ללשונותם בארצותם.»: אַעַ"פִּ שֶׁנֶּחְלְקוּ לִלְשׁוֹנוֹת וַאֲרָצוֹת, כֻּלָּם בְּנֵי חָם הֵם:
+- `rashi:10:20:1` Rashi on 10:20.5 10:20.6 «לִלְשֹֽׁנֹתָ֑ם בְּאַרְצֹתָ֖ם» (matched; filed at 10:20) DH «ללשונותם בארצותם.»: אַעַ"פִּ שֶׁנֶּחְלְקוּ לִלְשׁוֹנוֹת וַאֲרָצוֹת, כֻּלָּם בְּנֵי חָם הֵם:
 - `ibn-ezra:10:20:1` Ibn Ezra **normative** on 10:20.1 10:20.2 10:20.3 10:20.5 «אֵ֣לֶּה בְנֵי חָ֔ם לִלְשֹֽׁנֹתָ֑ם» (matched; filed at 10:20) DH «אלה בני חם ללשונותם»: . וכן אמר על בני יפת ועל בני שם:
 - `radak:10:20:1` Radak on 10:20.1 «אֵ֣לֶּה» (matched; filed at 10:20) DH «אֵלֶּה.»: מְבֹאָר.
 - `onkelos:10:20:1` Targum Onkelos on whole 10:20 (version; filed at 10:20): אִלֵּין בְּנֵי חָם לְזַרְעֲיָתְהוֹן לְלִישָׁנְהוֹן בְּאַרְעָתְהוֹן בְּעַמְמֵיהוֹן:
@@ -369,14 +369,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
 - `1.a` behind
 - `1.b` afterwards
+- `1` the hinder, following part — adv
 - `2.a` behind, after
 - `2.b` after
+- `2` the hinder, following part — prep
 - `3` after that
 
 ### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
 - `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
 
 ### `bdb:a.ea.ah` אֱמֹרִי (n.pr.m.coll): Amorites, mountain-dwellers
+- `1` Amorites, mountain-dwellers — called son of Canaan
+- `2` Amorites, mountain-dwellers — a chief people dispossessed by Hebrews
+- `3` Amorites, mountain-dwellers — adj.gent
 
 ### `bdb:a.fn.am` אַרְוָדִי (adj.gent): Arvadite
 
@@ -384,14 +392,22 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a` earth
 - `1.b` earth
 - `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
 - `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
 - `2` land
 - `3.a` ground
 - `3.b` soil
 - `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
 - `4.c` the country of the plain, level, plain country
 - `4.d` land of the living
 - `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
 - `5` lands, countries, lands of the nations
 
 ### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
@@ -421,9 +437,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:c.aj.ab` גְּבוּל (n.m) root גבל: border, boundary, territory
 - `1` border, boundary
@@ -439,24 +458,34 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal I.1.a` Qal Fall out, happen
 - `Qal I.1.b` Qal occur, take place, come about, come to pass
 - `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
 - `Qal I.2.b` Qal and it shall come to pass, came to pass
 - `Qal I.2` Qal come about, come to pass
 - `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
 - `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
 - `Qal II.2.h` Qal became the property of, come into the possession of
 - `Qal II.2` Qal become
 - `Qal II` Qal Come into being, become
 - `Qal III.1` Qal exist, be in existence
 - `Qal III.2` Qal abide, remain, continue
 - `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- `Niph 1` Niph be done, be brought about, occur, come to pass
-- `Niph 2` Niph be done, finished, gone
+- … 2 more senses
 
 ### `bdb:h.bb.ac` חִוִּי (adj.gent): villagers
 
 ### `bdb:h.dc.ad` חָם (n.pr.pers.m): Ham
 - `1` Ham
+- `2` a name (coll.) for Egyptians
 
 ### `bdb:h.du.ad` חֲמָתִי (adj.gent): Hamathite
 
@@ -465,6 +494,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:j.bn.aa` יָלַד (vb) root ילד: bear, bring forth, beget
 - `Qal 1` Qal bear, bring forth
 - `Qal 2` Qal beget
+- `Qal 3` Qal bear, bring forth, beget — of both parents
 - `Niph` Niph be born
 - `Pi` Pi cause, help, to bring forth, assist, tend as midwife
 - `Pu` Pu be born
@@ -474,6 +504,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hithp` Hithp declared their pedigree
 
 ### `bdb:k.cd.ac` כְּנַ֫עַן (n.pr.m): Canaan
+- `1` Canaan — as n. pr. m., son of Ham
+- `2.a` Canaan — land, W. of Jordan, into wh. Hebrews came, and where they settled, subduing the inhabitants
+- `2.b` Canaan — the coast, esp. Phoenicia
 
 ### `bdb:k.cd.ae` כְּנַעֲנִי (adj): Kenaanite
 
@@ -492,9 +525,18 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:o.az.an` סִינִי (adj.gent): Sinite
 
 ### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
+- `I.1` as far as, even to, up to, until, while — of space
+- `I.2` as far as, even to, up to, until, while — Of time
+- `I.3` as far as, even to, up to, until, while — Of degree
+- `I` as far as, even to, up to, until, while — prep
 - `II.1` until
 - `II.2` While
 - `II.3` to the point that, so that even
+- `II` as far as, even to, up to, until, while — conj
+- `III.1` as far as, even to, up to, until, while — of space
+- `III.2` as far as, even to, up to, until, while — Of time
+- `III.3` as far as, even to, up to, until, while — Of degree
+- `III` as far as, even to, up to, until, while — עַד לְ, a strengthened form for עַד. Thus
 
 ### `bdb:p.bw.ac` עַזָּה (n.pr.loc): Gaza
 

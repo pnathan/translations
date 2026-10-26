@@ -22,8 +22,8 @@ Hebrew (MAM): וַיַּכִּירָ֤הּ וַיֹּ֙אמֶר֙ כְּתֹ֣נ
 
 ### Commentary anchored to this verse
 
-- `rashi:37:33:1` Rashi **normative** on 37:33.2 37:33.3 37:33.4 «וַיֹּ֙אמֶר֙ כְּתֹ֣נֶת בְּנִ֔י» (matched; filed at 37:33) DH «ויאמר כתנת בני.»: הִיא זוֹ:
-- `rashi:37:33:2` Rashi **normative** on 37:33.5 37:33.6 37:33.7 «חַיָּ֥ה רָעָ֖ה אֲכָלָ֑תְהוּ» (matched; filed at 37:33) DH «חיה רעה אכלתהו.»: נִצְנְצָה בוֹ רוּחַ הַקֹּדֶשׁ, סוֹפוֹ שֶׁתִּתְגָּרֶה בוֹ אֵשֶׁת פּוֹטִיפַר. וְלָמָּה לֹא גִלָּה לוֹ הַקָּבָּ"ה? לְפִי שֶׁהֶחֱרִימוּ וְקִלְּלוּ אֶת כָּל מִי שֶׁיְּגַלֶּה, וְשִׁתְּפוּ לְהַקָּבָּ"ה עִמָּהֶם (תנחומא), אֲבָל יִצְחָק הָיָה יוֹדֵעַ שֶׁהוּא חַי, אָמַר הֵיאַךְ אֲגַלֶּה וְהַקָּבָּ"ה אֵינוֹ רוֹצֶה לְגַלּוֹת לוֹ:
+- `rashi:37:33:1` Rashi on 37:33.2 37:33.3 37:33.4 «וַיֹּ֙אמֶר֙ כְּתֹ֣נֶת בְּנִ֔י» (matched; filed at 37:33) DH «ויאמר כתנת בני.»: הִיא זוֹ:
+- `rashi:37:33:2` Rashi on 37:33.5 37:33.6 37:33.7 «חַיָּ֥ה רָעָ֖ה אֲכָלָ֑תְהוּ» (matched; filed at 37:33) DH «חיה רעה אכלתהו.»: נִצְנְצָה בוֹ רוּחַ הַקֹּדֶשׁ, סוֹפוֹ שֶׁתִּתְגָּרֶה בוֹ אֵשֶׁת פּוֹטִיפַר. וְלָמָּה לֹא גִלָּה לוֹ הַקָּבָּ"ה? לְפִי שֶׁהֶחֱרִימוּ וְקִלְּלוּ אֶת כָּל מִי שֶׁיְּגַלֶּה, וְשִׁתְּפוּ לְהַקָּבָּ"ה עִמָּהֶם (תנחומא), אֲבָל יִצְחָק הָיָה יוֹדֵעַ שֶׁהוּא חַי, אָמַר הֵיאַךְ אֲגַלֶּה וְהַקָּבָּ"ה אֵינוֹ רוֹצֶה לְגַלּוֹת לוֹ:
 - `ibn-ezra:37:33:1` Ibn Ezra **normative** on 37:33.8 37:33.9 «טָרֹ֥ף טֹרַ֖ף» (matched; filed at 37:33) DH «טרף טרף.»: פועל שלא נזכר שם פועלו ובא כן בעבור הרי"ש שלא ידגש, וכן "ומורק ושוטף" (ויקרא ו כא):
 - `onkelos:37:33:1` Targum Onkelos on whole 37:33 (version; filed at 37:33): וְאִשְׁתְּמוֹדְעַהּ וַאֲמַר כִּתּוּנָא דִבְרִי חַיְתָא בִישְׁתָא אֲכָלַתֵּיהּ מִקְטַל קְטִיל יוֹסֵף:
 
@@ -48,7 +48,7 @@ Hebrew (MAM): וַיִּקְרַ֤ע יַעֲקֹב֙ שִׂמְלֹתָ֔יו �
 
 ### Commentary anchored to this verse
 
-- `rashi:37:34:1` Rashi **normative** on 37:34.10 37:34.11 «יָמִ֥ים רַבִּֽים׃» (matched; filed at 37:34) DH «ימים רבים.»: כ"ב שָׁנָה, מִשֶּׁפֵּרֵשׁ מִמֶּנּוּ עַד שֶׁיָּרַד יַעֲקֹב לְמִצְרַיִם, שֶׁנֶּאֱמַר יוֹסֵף בֶּן שְׁבַע עֶשְׂרֵה שָׁנָה וְגוֹ', וּבֶן שְׁלֹשִׁים שָׁנָה הָיָה בְּעָמְדוֹ לִפְנֵי פַרְעֹה, וְשֶׁבַע שְׁנֵי הַשָּׂבָע, וּשְׁנָתַיִם הָרָעָב כְּשֶׁבָּא יַעֲקֹב לְמִצְרַיִם, הֲרֵי כ"ב שָׁנָה, כְּנֶגֶד כ"ב שָׁנָה שֶׁלֹּא קִיֵּם יַעֲקֹב כִּבּוּד אָב וָאֵם (מגילה ט"ז) – כ' שָׁנָה שֶׁהָיָה בְּבֵית לָבָן, וּב' שָׁנָה בַדֶּרֶךְ בְּשׁוּבוֹ מִבֵּית לָבָן, שָׁנָה וָחֵצִי בְסֻכּוֹת וְשִׁשָּׁה חֳדָשִׁים בְּבֵית אֵל – וְזֶהוּ שֶׁאָמַר לְלָבָן זֶה לִּי עֶשְׂרִים שָׁנָה בְּבֵיתֶךָ, לִי הֵן, עָלַי, וְסוֹפִי לִלְקוֹת כְּנֶגְדָּן:
+- `rashi:37:34:1` Rashi on 37:34.10 37:34.11 «יָמִ֥ים רַבִּֽים׃» (matched; filed at 37:34) DH «ימים רבים.»: כ"ב שָׁנָה, מִשֶּׁפֵּרֵשׁ מִמֶּנּוּ עַד שֶׁיָּרַד יַעֲקֹב לְמִצְרַיִם, שֶׁנֶּאֱמַר יוֹסֵף בֶּן שְׁבַע עֶשְׂרֵה שָׁנָה וְגוֹ', וּבֶן שְׁלֹשִׁים שָׁנָה הָיָה בְּעָמְדוֹ לִפְנֵי פַרְעֹה, וְשֶׁבַע שְׁנֵי הַשָּׂבָע, וּשְׁנָתַיִם הָרָעָב כְּשֶׁבָּא יַעֲקֹב לְמִצְרַיִם, הֲרֵי כ"ב שָׁנָה, כְּנֶגֶד כ"ב שָׁנָה שֶׁלֹּא קִיֵּם יַעֲקֹב כִּבּוּד אָב וָאֵם (מגילה ט"ז) – כ' שָׁנָה שֶׁהָיָה בְּבֵית לָבָן, וּב' שָׁנָה בַדֶּרֶךְ בְּשׁוּבוֹ מִבֵּית לָבָן, שָׁנָה וָחֵצִי בְסֻכּוֹת וְשִׁשָּׁה חֳדָשִׁים בְּבֵית אֵל – וְזֶהוּ שֶׁאָמַר לְלָבָן זֶה לִּי עֶשְׂרִים שָׁנָה בְּבֵיתֶךָ, לִי הֵן, עָלַי, וְסוֹפִי לִלְקוֹת כְּנֶגְדָּן:
 - `radak:37:34:1` Radak on 37:34.1 37:34.2 «וַיִּקְרַ֤ע יַעֲקֹב֙» (matched; filed at 37:34) DH «וַיִּקְרַע יַעֲקֹב וְגוֹ׳.»: הִתְאַבֵּל עָלָיו מְאֹד עַל שֶׁהָיָה אֲהָבוֹ מִכָּל בָּנָיו, וְעוֹד כִּי הוּא שְׁלָחוֹ וְאָמַר כִּי הוּא פָּשַׁע בּוֹ שֶׁשְּׁלָחוֹ יָחִיד.
 - `onkelos:37:34:1` Targum Onkelos on whole 37:34 (version; filed at 37:34): וּבְזַע יַעֲקֹב לְבוּשׁוֹהִי וַאֲסַר שַׂקָּא בְּחַרְצֵיהּ וְאִתְאַבַּל עַל בְּרֵיהּ יוֹמִין סַגִּיאִין:
 - `sforno:37:34:1` Sforno on 37:34.4 37:34.5 37:34.6 «וַיָּ֥שֶׂם שַׂ֖ק בְּמׇתְנָ֑יו» (matched; filed at 37:34) DH «וַיָּשֶׂם שַׂק בְּמָתְנָיו.»: אֵזוֹר שֶׁל מִין אֲרִיגָה נִקְרָא שַׂק, שֶׁמִּמֶּנּוּ הָיוּ עוֹשִׂים הַשַּׂקִּים לְעָבְיוֹ.
@@ -81,11 +81,11 @@ Hebrew (MAM): וַיָּקֻ֩מוּ֩ כׇל־בָּנָ֨יו וְכׇל־בּ
 
 ### Commentary anchored to this verse
 
-- `rashi:37:35:1` Rashi **normative** on 37:35.4 37:35.5 «וְכׇל בְּנֹתָ֜יו» (matched; filed at 37:35) DH «וכל בנתיו.»: רַבִּי יְהוּדָה אוֹמֵר אֲחָיוֹת תְּאוֹמוֹת נוֹלְדוּ עִם כָּל שֵׁבֶט וָשֵׁבֶט וּנְשָׂאוּם, רַבִּי נְחֶמְיָה אוֹמֵר כְּנַעֲנִיּוֹת הָיוּ, אֶלָּא מַהוּ וְכָל בְּנֹתָיו? – כַּלּוֹתָיו, שֶׁאֵין אָדָם נִמְנָע מִלִּקְרֹא לַחֲתָנוֹ בְּנוֹ וּלְכַלָּתוֹ בִתּוֹ:
-- `rashi:37:35:2` Rashi **normative** on 37:35.7 37:35.8 «וַיְמָאֵן֙ לְהִתְנַחֵ֔ם» (matched; filed at 37:35) DH «וימאן להתנחם.»: אֵין אָדָם מְקַבֵּל תַּנְחוּמִין עַל הַחַי וְסָבוּר שֶׁמֵּת, שֶׁעַל הַמֵּת נִגְזְרָה גְזֵרָה שֶׁיִּשְׁתַּכַּח מִן הַלֵּב וְלֹא עַל הַחַי (בראשית רבה):
-- `rashi:37:35:3` Rashi **normative** on 37:35.11 37:35.12 37:35.13 «אֵרֵ֧ד אֶל בְּנִ֛י» (matched; filed at 37:35) DH «ארד אל בני.»: כְּמוֹ עַל בְּנִי, וְהַרְבֵּה אֶל מְשַׁמְּשִׁין בִּלְשׁוֹן עַל, אֶל שָׁאוּל וְאֶל בֵּית הַדָּמִים (שמואל ב כ"א), אֶל הִלָּקַח אֲרוֹן הָאֱלֹהִים וְאֶל מוֹת חָמִיהָ וְאִישָׁהּ (שמואל א ד'):
-- `rashi:37:35:4` Rashi **normative** on 37:35.14 37:35.15 «אָבֵ֖ל שְׁאֹ֑לָה» (matched; filed at 37:35) DH «אבל שאלה.»: כִּפְשׁוּטוֹ לְשׁוֹן קֶבֶר הוּא – בְּאֶבְלִי אֶקָּבֵר, וְלֹא אֶתְנַחֵם כָּל יָמַי. וּמִדְרָשׁוֹ, גֵּיהִנֹּם; סִימָן זֶה הָיָה מָסוּר בְּיָדִי מִפִּי הַגְּבוּרָה, אִם לֹא יָמוּת אֶחָד מִבָּנַי בְּחַיַּי, מֻבְטָח אֲנִי שֶׁאֵינִי רוֹאֶה גֵיהִנֹּם:
-- `rashi:37:35:5` Rashi **normative** on 37:35.16 37:35.17 37:35.18 «וַיֵּ֥בְךְּ אֹת֖וֹ אָבִֽיו׃» (matched; filed at 37:35) DH «ויבך אתו אביו.»: יִצְחָק, בּוֹכֶה הָיָה מִפְּנֵי צָרָתוֹ שֶׁל יַעֲקֹב אֲבָל לֹא הָיָה מִתְאַבֵּל, שֶׁהָיָה יוֹדֵעַ שֶׁהוּא חַי:
+- `rashi:37:35:1` Rashi on 37:35.4 37:35.5 «וְכׇל בְּנֹתָ֜יו» (matched; filed at 37:35) DH «וכל בנתיו.»: רַבִּי יְהוּדָה אוֹמֵר אֲחָיוֹת תְּאוֹמוֹת נוֹלְדוּ עִם כָּל שֵׁבֶט וָשֵׁבֶט וּנְשָׂאוּם, רַבִּי נְחֶמְיָה אוֹמֵר כְּנַעֲנִיּוֹת הָיוּ, אֶלָּא מַהוּ וְכָל בְּנֹתָיו? – כַּלּוֹתָיו, שֶׁאֵין אָדָם נִמְנָע מִלִּקְרֹא לַחֲתָנוֹ בְּנוֹ וּלְכַלָּתוֹ בִתּוֹ:
+- `rashi:37:35:2` Rashi on 37:35.7 37:35.8 «וַיְמָאֵן֙ לְהִתְנַחֵ֔ם» (matched; filed at 37:35) DH «וימאן להתנחם.»: אֵין אָדָם מְקַבֵּל תַּנְחוּמִין עַל הַחַי וְסָבוּר שֶׁמֵּת, שֶׁעַל הַמֵּת נִגְזְרָה גְזֵרָה שֶׁיִּשְׁתַּכַּח מִן הַלֵּב וְלֹא עַל הַחַי (בראשית רבה):
+- `rashi:37:35:3` Rashi on 37:35.11 37:35.12 37:35.13 «אֵרֵ֧ד אֶל בְּנִ֛י» (matched; filed at 37:35) DH «ארד אל בני.»: כְּמוֹ עַל בְּנִי, וְהַרְבֵּה אֶל מְשַׁמְּשִׁין בִּלְשׁוֹן עַל, אֶל שָׁאוּל וְאֶל בֵּית הַדָּמִים (שמואל ב כ"א), אֶל הִלָּקַח אֲרוֹן הָאֱלֹהִים וְאֶל מוֹת חָמִיהָ וְאִישָׁהּ (שמואל א ד'):
+- `rashi:37:35:4` Rashi on 37:35.14 37:35.15 «אָבֵ֖ל שְׁאֹ֑לָה» (matched; filed at 37:35) DH «אבל שאלה.»: כִּפְשׁוּטוֹ לְשׁוֹן קֶבֶר הוּא – בְּאֶבְלִי אֶקָּבֵר, וְלֹא אֶתְנַחֵם כָּל יָמַי. וּמִדְרָשׁוֹ, גֵּיהִנֹּם; סִימָן זֶה הָיָה מָסוּר בְּיָדִי מִפִּי הַגְּבוּרָה, אִם לֹא יָמוּת אֶחָד מִבָּנַי בְּחַיַּי, מֻבְטָח אֲנִי שֶׁאֵינִי רוֹאֶה גֵיהִנֹּם:
+- `rashi:37:35:5` Rashi on 37:35.16 37:35.17 37:35.18 «וַיֵּ֥בְךְּ אֹת֖וֹ אָבִֽיו׃» (matched; filed at 37:35) DH «ויבך אתו אביו.»: יִצְחָק, בּוֹכֶה הָיָה מִפְּנֵי צָרָתוֹ שֶׁל יַעֲקֹב אֲבָל לֹא הָיָה מִתְאַבֵּל, שֶׁהָיָה יוֹדֵעַ שֶׁהוּא חַי:
 - `ibn-ezra:37:35:1` Ibn Ezra **normative** on 37:35.16 37:35.17 37:35.18 «וַיֵּ֥בְךְּ אֹת֖וֹ אָבִֽיו׃» (matched; filed at 37:35) DH «ויבך אותו אביו.»: קדמונינו דרשוהו על יצחק ובאמת כי לא מת יצחק עד שהיה יוסף בן כ"ט שנה וי"א כי הנבואה נסתלקה משניהם בעבור אבלם ועדותם דבר אלישע:
 - `ibn-ezra:37:35:2` Ibn Ezra **normative** on 37:35.4 37:35.5 «וְכׇל בְּנֹתָ֜יו» (matched; filed at 37:35) DH «וכל בנותיו.»: בתו ובת בנו,
 - `ibn-ezra:37:35:3` Ibn Ezra **normative** on 37:35.15 «שְׁאֹ֑לָה» (matched-unbolded; filed at 37:35) DH «שאולה.»: ומלת שאולה. כמו מטה, והטעם הקבר ופה טעה המתרגם לתועים שתרגם שאולה גיהנם, והנה כי לא שאול תודך (ישעי' לח יח), ואציעה שאול הנך (תהלים קלט ח) הפך "אם אסק שמים שם אתה" (שם) "ערום שאול נגדו" (איוב כו ו) ורבים אחרים:
@@ -124,7 +124,7 @@ Paragraph mark after this verse: פ
 
 ### Commentary anchored to this verse
 
-- `rashi:37:36:1` Rashi **normative** on 37:36.10 «הַטַּבָּחִֽים׃» (matched; filed at 37:36) DH «הטבחים.»: שׁוֹחֲטֵי בְּהֵמוֹת הַמֶּלֶךְ:
+- `rashi:37:36:1` Rashi on 37:36.10 «הַטַּבָּחִֽים׃» (matched; filed at 37:36) DH «הטבחים.»: שׁוֹחֲטֵי בְּהֵמוֹת הַמֶּלֶךְ:
 - `ibn-ezra:37:36:1` Ibn Ezra **normative** on 37:36.9 37:36.10 «שַׂ֖ר הַטַּבָּחִֽים׃» (matched; filed at 37:36) DH «שר הטבחים.»: תמצא זה הלשון על הרג ועל בישול ודברי המתרגם ארמי נכונים:
 - `ramban:37:36:1` Ramban on 37:36.9 37:36.10 «שַׂ֖ר הַטַּבָּחִֽים׃» (matched; filed at 37:36) DH «שַׂר הַטַּבָּחִים»: שׁוֹחֲטֵי בְּהֵמוֹת הַמֶּלֶךְ, לְשׁוֹן רַשִׁ"י (רש"י על בראשית ל"ז:ל"ו). וְכֵן "וַיָּרֶם הַטַּבָּח" (שמואל א ט כד), "לְרַקָּחוֹת וּלְטַבָּחוֹת" (שם ח יג). אֲבָל יוֹתֵר קָרוֹב דַּעַת אוּנְקְלוֹס (תרגום אונקלוס על בראשית ל"ז:ל"ו), בַּעֲבוּר הֱיוֹת בֵּית הַסֹּהַר בְּבֵיתוֹ, וּמָצִינוּ טְבִיחָה לַהֲרִיגַת הָאֲנָשִׁים, "הָכִינוּ לְבָנָיו מַטְבֵּחַ" (ישעיהו יד כא) "טָבַחְתָּ וְלֹא חָמָלְתָּ" (איכה ב כא), וּרְאָיָה לַדָּבָר הַכָּתוּב בְּדָנִיֵּאל (ב יד) "לְאַרְיוֹךְ רַב טַבָּחַיָּא דִּי מַלְכָּא דִּי נְפַק לְקַטָּלָא לְחַכִּימֵי בָּבֶל":
 - `radak:37:36:1` Radak on 37:36.1 «וְהַ֨מְּדָנִ֔ים» (matched; filed at 37:36) DH «וְהַמְּדָנִים.»: פֵּרַשְׁנוּהוּ.
@@ -194,6 +194,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 2` Qal weep bitterly
 - `Qal 3` Qal weep upon
 - `Qal 4` Qal bewail
+- `Qal 5` Qal weep, bewail — in sense of burden, annoy with weeping
+- `Qal 6` Qal weep, bewail — of penitent weeping
 - `Pi` Pi lament, bewail
 
 ### `bdb:b.ca.aa` בֵּן (n.m): son
@@ -201,20 +203,28 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `2` children
 - `3` youth, young men
 - `4` the young
+- `5` son — of plant shoots
 - `6` sparks, stars, arrows
 - `7.a` member
 - `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
 
 ### `bdb:b.ca.at` בַּת (n.f): daughter
 - `1` daughter
 - `2` young women, women
+- `3` daughter — with name of city, land, or people, poet. personif. of that city or inhabitants
 - `4` villages
+- `5` daughter — in phrases denoting character, quality, etc
 - `6` ostrich
+- `7` daughter — fig
 - `8` branch
+- `9` daughter — as n. relat
 
 ### `bdb:d.bh.al` מִדְיָנִי (adj.gent): Midianite
 
 ### `bdb:h.cd.ad` חַיָּה (n.f) root חיה: living thing, animal
+- `1.a` animal — in general
 - `1.b` wild animals
 - `1.c` living beings
 - `1` animal
@@ -237,20 +247,29 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `4` days
 - `5` Days
 - `6` time
+- `7` day — Phrases
 
 ### `bdb:j.bz.ab` יוֹסֵף (n.pr.m): he adds, increases
+- `1` he adds, increases — elder son of Jacob and Rachael
+- `2` he adds, increases — a man of Issachar
+- `3` he adds, increases — a son of Asaph
+- `4` he adds, increases — one of those who took strange wives
+- `5` he adds, increases — a priest
 
 ### `bdb:j.dh.aa` יָרַד (vb) root ירד: come, go down, descend
 - `Qal 1.a` Qal come, go down
 - `Qal 1.b` Qal go down
 - `Qal 1.c` Qal go down
 - `Qal 1.d` Qal go down
+- `Qal 1.e` Qal come, go down, descend — from Jerusalem
+- `Qal 1.f` Qal come, go down, descend — from altar
 - `Qal 1.g` Qal go down
 - `Qal 1.h` Qal sink
 - `Qal 1.i` Qal go down
 - `Qal 1.j` Qal going down, in tears
 - `Qal 1.k` Qal be prostrated
 - `Qal 2` Qal descend
+- `Qal 3` Qal come, go down, descend — of inanimate things
 - `Hiph 1.a` Hiph bring down
 - `Hiph 1.b` Hiph send down, cause to flow down
 - `Hiph 1.c` Hiph lay prostrate
@@ -271,7 +290,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:k.bn.ab` כֹּל (n.m) root כלל: the whole, all
 - `1` the whole of, any, every
 - `2.a` all things, all
+- `2.b.(a)` the whole, all — where the sense is limited by the context to things (or persons) just mentioned
 - `2.b.(b)` all
+- `2.b` the whole, all — with the art. הַכֹּל
+- `2` the whole, all — Absolutely
 
 ### `bdb:k.dr.ab` כֻּתֹּ֫נֶת (n.f) root כתן: tunic
 
@@ -284,7 +306,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:m.df.ab` מִצְרַ֫יִם (n.pr.terr) root מצר: Egypt, Egyptians
 - `1.a` Egypt
+- `1.b` Egypt, Egyptians — combinations
+- `2.a` Egypt, Egyptians — in table of nations, personif. as second son of Ham
 - `2.b` Egypt, Egyptians
+- `2` Egypt, Egyptians — of people
 
 ### `bdb:m.ee.ab` מׇתְנַ֫יִם (n.m.du) root מתן: loins
 
@@ -314,6 +339,9 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
 - `II.1.b` upon
 - `II.1.c` upon, on
 - `II.1.d` upon
@@ -325,15 +353,20 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `II.4` addition
 - `II.5` over, above, over
 - `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
 - `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
 - `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
-- `IV.1.a` as concerning, as upon
-- `IV.1.b` the like of, the like of
-- `IV.2` from upon, from over, from by
+- `III.c` עַל alone
+- … 6 more senses
 
 ### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
+- `1` Jacob — as n.pr.m
+- `2` Jacob — as n.pr.gent
 
 ### `bdb:q.ao.ae` פּוֹטִיפַר (n.pr.m): Potiphar
 
@@ -358,17 +391,19 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 1` Hiph cause to arise, raise
 - `Hiph 2.a` Hiph raise, set up
 - `Hiph 2.b` Hiph erect, build
+- `Hiph 2.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 3` Hiph raise up
 - `Hiph 4.a` Hiph raise up
 - `Hiph 4.b` Hiph instigate, build
+- `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- `Hiph 6` Hiph cause to stand
-- `Hoph` Hoph be raised up
+- … 2 more senses
 
 ### `bdb:s.di.aa` קָרַע (vb) root קרע: tear
 - `Qal 1.a` Qal rending
 - `Qal 1.b` Qal tear
 - `Qal 2` Qal tear away
+- `Qal 3.a` Qal tear, rend asunder — book
 - `Qal 3.b` Qal make wide, large
 - `Qal 3.c` Qal rend open
 - `Qal 3` Qal tear, rend asunder
@@ -380,10 +415,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `1.a.(1)` much
 - `1.a.(2)` numerous
 - `1.b` many
+- `1.c` much, many, great — רַב as subst. coll. pers
 - `1.d` abounding in
 - `1.e` more numerous than
 - `1.f` abundant, enough
 - `1.g` much, exceedingly
+- `1` much, many, great — (oft. opp. מְעַט)
 - `2` great
 
 ### `bdb:t.dq.ac` רַע (adj) root רעע: bad, evil
@@ -413,6 +450,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 4.a` Qal set, station
 - `Qal 4.b` Qal put
 - `Qal 4.c` Qal set up
+- `Qal 4.d` Qal put, place, set — = plant, wheat
 - `Qal 4.e` Qal set, fix
 - `Qal 5.a` Qal make, for, transform into
 - `Qal 5.b` Qal make, constitute
