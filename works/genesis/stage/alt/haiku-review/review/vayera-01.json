@@ -1,0 +1,122 @@
+{
+  "unit": "vayera-01",
+  "model": "haiku",
+  "summary": "The translation renders every token of Genesis 18:1-8 and its phrases divide the verses in order, so the fidelity is sound. The faults are a passive form given an active sense (18:4.1, Qal 6 for Pu 1), a misattributed Shevuot citation in the 18:3 summary, and two commentary entries whose relation misreports what the English adopts (ibn-ezra:18:1:2 and ibn-ezra:18:6:1). Six normative anchors are contradicted (Rashi at 18:1 on the visit reading and on Mamre as a man, at 18:6 on the starch reading of qemah, Ibn Ezra at 18:6 on lushi, at 18:7 on the three bulls, and at 18:8 on 'appeared to eat'); the English stands on each for the reason given in its verdict. The remaining anchors are consistent or are homilies with no bearing on the plain sense.",
+  "patches": [
+    {
+      "ref": "18:4",
+      "path": "token:18:4.1.sense",
+      "value": "Pu 1",
+      "severity": "error",
+      "reason": "The form יֻקַּח is passive (the Pu stem, 'be taken'). Qal 6 'fetch' is an active sense and does not match a passive gloss; the passive stem sense is Pu 1."
+    },
+    {
+      "ref": "18:4",
+      "path": "token:18:4.1.note",
+      "value": "passive jussive, 3ms: 'let be brought'. The passive stem sense is Pu 1, 'be taken'; the lexicon's Qal 6 'fetch' is active.",
+      "severity": "error",
+      "reason": "The note must match the corrected sense."
+    },
+    {
+      "ref": "18:4",
+      "path": "english",
+      "value": "\"Please, let a little water be brought, and wash your feet, and recline under the tree.\"",
+      "severity": "style",
+      "reason": "The niphal of שָׁעַן is 'lean, support oneself'. 'Rest' does not carry the verb; 'recline' does, and it fits the shade of the tree."
+    },
+    {
+      "ref": "18:4",
+      "path": "phrases",
+      "value": [
+        {"tokens": ["18:4.1", "18:4.2", "18:4.3", "18:4.4"], "english": "Please let a little water be brought", "literal": "'let-be-brought please little-of water': the passive jussive, the particle, then the object."},
+        {"tokens": ["18:4.5", "18:4.6"], "english": "and wash your feet", "literal": "'and-wash your-feet': the imperative with the conjunction."},
+        {"tokens": ["18:4.7", "18:4.8", "18:4.9"], "english": "and recline under the tree", "literal": "'and-lean-yourselves under the-tree': the niphal of 'lean, support oneself', rendered 'recline'."}
+      ],
+      "severity": "style",
+      "reason": "The English of the third phrase changes with the English of the segment."
+    },
+    {
+      "ref": "18:4",
+      "path": "token:18:4.7.gloss",
+      "value": "and recline",
+      "severity": "style",
+      "reason": "Matches the new English; the gloss carries the sense of the niphal."
+    },
+    {
+      "ref": "18:4",
+      "path": "token:18:4.7.note",
+      "value": "nifal imperative, 2mp, of 'lean, support oneself'; 'recline' gives the sense in the context of the shade.",
+      "severity": "style",
+      "reason": "The note now states the lexical sense it translates."
+    },
+    {
+      "ref": "18:3",
+      "path": "commentary:rashi:18:3:1.summary",
+      "value": "Rashi: Abraham spoke to the greatest of the three, though he called them all 'adonim' (plural), and asked the greatest not to pass by, so that his companions would stay with him; the word is secular in this sense (Shevuot 35b). Rashi also gives the view that the word is holy and was addressed to the LORD, asking Him to wait until Abraham had run to bring in the guests; that view is recorded here and not adopted.",
+      "severity": "error",
+      "reason": "Rashi cites Shevuot 35b for the secular reading ('chol'). The holy reading is attributed to 'one who says' ('d'amar'), not to Shevuot. The summary had attributed the holy view to Shevuot."
+    },
+    {
+      "ref": "18:1",
+      "path": "commentary:ibn-ezra:18:1:2",
+      "value": {
+        "relation": "follows",
+        "summary": "Ibn Ezra: 'and they ate' (18:8) means that the bread was consumed, 'like the fire consumes' (Lev. 6:3). The English at 18:8 takes this literal reading."
+      },
+      "severity": "error",
+      "reason": "The English at 18:8 adopts this reading ('and they ate', the basis noted in 18:8). An entry marked not-applicable misreports the relation; this anchor is normative and bears on 18:8."
+    },
+    {
+      "ref": "18:6",
+      "path": "commentary:ibn-ezra:18:6:1",
+      "value": {
+        "relation": "records",
+        "summary": "Ibn Ezra glosses lushi by a parallel, 'like vatalesh' (ותלש, 'and she plucked'), not by a definition. The English keeps 'knead', the plain sense, and records the parallel."
+      },
+      "severity": "error",
+      "reason": "The English does not adopt the parallel, so 'follows' misreports the relation. The summary now says that the gloss is a parallel and does not define the verb."
+    },
+    {
+      "ref": "18:2",
+      "path": "grammar",
+      "value": [
+        "Five wayyiqtols run in sequence (lifted, saw, saw again, ran, bowed down); only the second 'saw' is not a plain new action.",
+        "Hinneh introduces what the subject sees: 'and look' in the English makes the same point without 'behold'.",
+        "Standing (nitsavim) is a niphal participle used as a predicate. Its subject is the three men; the verb is plural.",
+        "Le-qiratam is an infinitive construct with the 3mp suffix: 'to meet them'. The following wayyishtachu is a hitpa'el, 'bow down'."
+      ],
+      "severity": "style",
+      "reason": "The first note says five wayyiqtols and names only four; the list now names all five."
+    }
+  ],
+  "verdicts": [
+    {"anchor": "rashi:18:1:1", "verdict": "contradicts", "comment": "English stands: niphal 'appear' (ra'ah) with the prophetic appearance of Ibn Ezra (ibn-ezra:18:1:1). Rashi's visit reading is recorded, not adopted."},
+    {"anchor": "rashi:18:1:2", "verdict": "contradicts", "comment": "English stands: Mamre is the place name (13:18, 14:13), and the phrase locates the scene by the terebinths. Rashi's reading of Mamre as the man who counselled circumcision is recorded."},
+    {"anchor": "rashi:18:1:3", "verdict": "not-applicable", "comment": "Homily on the sitting of God and of the judges."},
+    {"anchor": "rashi:18:1:4", "verdict": "not-applicable", "comment": "Purpose of the sitting, not its sense."},
+    {"anchor": "rashi:18:1:5", "verdict": "not-applicable", "comment": "Homily on the sun; the English 'in the heat of the day' is the plain word."},
+    {"anchor": "ibn-ezra:18:1:1", "verdict": "consistent", "comment": "Ibn Ezra reads the appearance as a prophetic vision of the LORD, followed by the three angels; the English 'appeared to him' follows."},
+    {"anchor": "ibn-ezra:18:1:2", "verdict": "consistent", "comment": "Ibn Ezra's 'the bread was consumed' is the reading the English adopts at 18:8 ('and they ate'); the entry is now marked follows."},
+    {"anchor": "rashi:18:2:1", "verdict": "consistent", "comment": "Three messengers with three tasks; the English keeps 'three men' and the plural verbs."},
+    {"anchor": "rashi:18:2:2", "verdict": "consistent", "comment": "Rashi's 'before him' is adopted for the idiom of standing upon him."},
+    {"anchor": "rashi:18:2:3", "verdict": "consistent", "comment": "The second 'saw' is read as 'understood'; the English follows."},
+    {"anchor": "rashi:18:3:1", "verdict": "consistent", "comment": "Abraham speaks to the greatest of the three, so the singular 'my lord' and 'do not pass by' follow."},
+    {"anchor": "rashi:18:4:1", "verdict": "consistent", "comment": "The passive keeps the agent unstated, as Rashi's reading of an agent requires."},
+    {"anchor": "rashi:18:4:2", "verdict": "not-applicable", "comment": "Reason for the request (Abraham's care about idolaters, Lot's lapse), not a reading of the words."},
+    {"anchor": "rashi:18:4:3", "verdict": "consistent", "comment": "'under the tree' is Rashi's 'under the ilan'."},
+    {"anchor": "rashi:18:5:1", "verdict": "consistent", "comment": "'sustain your hearts' is the bread that supports the heart; the English follows."},
+    {"anchor": "rashi:18:5:2", "verdict": "consistent", "comment": "'afterward you may go on' follows Rashi's 'afterwards you will go'."},
+    {"anchor": "rashi:18:5:3", "verdict": "consistent", "comment": "The reason clause 'since you have passed by your servant' follows."},
+    {"anchor": "rashi:18:5:4", "verdict": "consistent", "comment": "ki al-ken is rendered 'since', as Rashi's 'like al asher'."},
+    {"anchor": "ibn-ezra:18:5:1", "verdict": "consistent", "comment": "'since' for 'ki al-ken', equal to hu'il, as Ibn Ezra says."},
+    {"anchor": "ibn-ezra:18:5:2", "verdict": "consistent", "comment": "'Do so, as you have said' as a manner of courtesy: a morsel of bread is enough."},
+    {"anchor": "rashi:18:6:1", "verdict": "contradicts", "comment": "English stands: the plain sense takes qemah as flour to be made into fine flour, and the cakes need flour (Ramban and Radak, not normative, read it so). Rashi's reading of qemah as the cooks' starch is recorded."},
+    {"anchor": "ibn-ezra:18:6:1", "verdict": "contradicts", "comment": "English stands: 'knead' is the plain sense of lushi. Ibn Ezra's parallel 'like vatalesh' (pluck, tear off) is recorded and does not define the verb."},
+    {"anchor": "rashi:18:7:1", "verdict": "contradicts", "comment": "English stands: the Hebrew is singular (ben bakar), Radak reads one small bull, and Ibn Ezra is silent on 18:7, so Rashi's three bulls is recorded as an alternative. The translator flagged this for the editor's decision."},
+    {"anchor": "rashi:18:7:2", "verdict": "consistent", "comment": "'the lad' does not deny Ishmael; the identification is recorded."},
+    {"anchor": "rashi:18:8:1", "verdict": "consistent", "comment": "No bread is named in the Hebrew; the English adds none."},
+    {"anchor": "rashi:18:8:2", "verdict": "consistent", "comment": "'cream' follows Rashi's fat skimmed from the milk."},
+    {"anchor": "rashi:18:8:3", "verdict": "consistent", "comment": "'the young bull which he had prepared' does not deny Rashi's 'the first of the bulls'; the reading is recorded."},
+    {"anchor": "rashi:18:8:4", "verdict": "contradicts", "comment": "English stands on the plain sense 'and they ate', which Ibn Ezra gives as the bread consumed (ibn-ezra:18:1:2). Rashi's 'appeared to eat' is recorded."}
+  ]
+}
