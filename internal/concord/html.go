@@ -9,6 +9,8 @@ import (
 	"path/filepath"
 	"sort"
 	"strings"
+
+	"github.com/pnathan/translations/internal/lex"
 )
 
 var letterSlug = map[string]string{
@@ -214,7 +216,7 @@ func (c *Concordance) Write(dir string, works []Work, srcs []*Source) error {
 	for i, r := range c.Roots {
 		jr := jsRoot{Root: r.Root, Page: page[i]}
 		for _, l := range r.Lemmas {
-			jr.Heads = append(jr.Heads, l.Headword)
+			jr.Heads = append(jr.Heads, lex.StripHomograph(l.Headword))
 			if jr.Gloss == "" {
 				jr.Gloss = l.Gloss
 			}

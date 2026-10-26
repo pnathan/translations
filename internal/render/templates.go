@@ -66,6 +66,22 @@ aside#panel.open{display:block}
 .vocab td,.vocab th{border-top:1px solid var(--line);padding:4px 6px;text-align:left}
 footer{border-top:1px solid var(--line);color:var(--muted);font-size:13px;padding:16px 0 40px}
 code{font-size:12px}
+#stage{position:fixed;inset:0;z-index:20;display:none;perspective:1600px;perspective-origin:50% 40%;background:color-mix(in srgb,var(--bg) 70%,transparent)}
+#stage.open{display:block}
+#stage .deck{position:absolute;left:50%;top:46%;width:min(640px,calc(100vw - 32px));transform-style:preserve-3d}
+#stage .card{position:absolute;left:0;top:0;width:100%;transform:translate(-50%,-50%);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;box-shadow:0 18px 50px rgba(0,0,0,.28);transition:transform .55s cubic-bezier(.2,.7,.2,1),opacity .55s;cursor:pointer;backface-visibility:hidden}
+#stage .card .heb{font-size:22px;line-height:1.9;margin:4px 0 6px}
+#stage .card .hit{background:var(--hi);border-radius:4px;box-shadow:0 0 0 2px var(--accent)}
+#stage .card .en{font-size:17px}
+#stage .card .g{font-size:13px;color:var(--muted)}
+#stage .bar{position:absolute;left:16px;right:16px;top:12px;display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;z-index:2}
+#stage .bar .rt{font:600 24px/1.2 "Noto Serif Hebrew",serif}
+#stage .bar button{font:500 13px Inter,sans-serif;padding:4px 10px;border-radius:6px;border:1px solid var(--line);background:var(--bg);color:var(--fg);cursor:pointer}
+#stage .bar .sp{margin-left:auto;display:flex;gap:6px;align-items:center}
+main.wrap{transition:transform .7s cubic-bezier(.2,.7,.2,1),opacity .7s;transform-origin:0 50%}
+body.swung main.wrap{transform:perspective(1400px) rotateY(58deg);opacity:.4;pointer-events:none}
+@media (prefers-reduced-motion:reduce){main.wrap,#stage .card{transition:none}}
+@media (max-width:820px){#stage .deck{top:60%}#stage .card{max-height:60vh;overflow:auto}#stage .card .heb{font-size:20px}}
 @media (max-width:820px){aside#panel{left:0;right:0;top:auto;bottom:0;width:auto;max-height:55vh;border-radius:12px 12px 0 0}.heb{font-size:23px}.toggles{margin-left:0}}
 </style>{{end}}`
 
@@ -83,6 +99,7 @@ const sectionHTML = `<!doctype html>
 <button data-t="inter" aria-pressed="false">Interlinear</button>
 <button data-t="literal" aria-pressed="false">Literal</button>
 <button data-t="nocomm" aria-pressed="false">Hide commentary</button>
+<button data-t="three" aria-pressed="false" title="Select a word to see every verse that uses its root">3D</button>
 <button id="theme">Theme</button>
 </div>
 </div></header>
@@ -111,9 +128,11 @@ const sectionHTML = `<!doctype html>
 </table></details></section>
 </main>
 <aside id="panel" aria-live="polite"></aside>
+<div id="stage" role="dialog" aria-modal="true" aria-label="Verses with this root"><div class="bar"></div><div class="deck"></div></div>
 <footer><div class="wrap"><ul>{{.Provenance}}</ul></div></footer>
 <script>
 const DATA = {{.Data}};
+const WORK = {{.Cfg.Slug}};
 (function(){
   const root=document.documentElement, body=document.body;
   const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
@@ -149,8 +168,73 @@ const DATA = {{.Data}};
     panel.querySelector('.x').onclick=()=>{panel.classList.remove('open');if(sel)sel.classList.remove('sel')};
     panel.querySelectorAll('[data-open]').forEach(a=>a.onclick=()=>{const el=document.getElementById('c-'+a.dataset.open);if(el){const dd=el.closest('details.comms');if(dd)dd.open=true}});
   }
-  document.addEventListener('click',ev=>{const w=ev.target.closest('.w');if(w)show(w.dataset.id)});
-  document.addEventListener('keydown',ev=>{if(ev.key==='Escape')panel.classList.remove('open')});
+  // The concordance (docs/lexicon), loaded on first use.
+  let IX=null; const VERSES={};
+  const getJSON=u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u+': '+r.status);return r.json()});
+  const index=()=>IX?Promise.resolve(IX):getJSON('../lexicon/index.json').then(x=>IX=x);
+  const verses=w=>VERSES[w]?Promise.resolve(VERSES[w]):getJSON('../lexicon/verses-'+w+'.json').then(x=>VERSES[w]=x);
+  const refOf=id=>id.slice(0,id.lastIndexOf('.'));
+  function concordLink(id){
+    index().then(ix=>{
+      const i=ix.tok[WORK+':'+id]; if(i==null||!panel.classList.contains('open')||!sel||sel.dataset.id!==id) return;
+      const r=ix.roots[i], d=document.createElement('div');
+      d.innerHTML='<h3>Concordance</h3><a href="../lexicon/'+esc(r.p)+'"><span class="he" lang="he">'+esc(r.r||r.h[0])+'</span> · '+r.o.length+' words</a> · <button class="c3" style="font:500 12px Inter,sans-serif;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg);cursor:pointer">3D</button>';
+      panel.appendChild(d); d.querySelector('.c3').onclick=()=>three(id);
+    }).catch(()=>{});
+  }
+  // 3D: the page swings back and the verses that share the word's root
+  // stand behind it as a deck of cards, the selected verse first.
+  const stage=document.getElementById('stage'), deck=stage.querySelector('.deck'), bar=stage.querySelector('.bar');
+  let cards=[], cur=0;
+  function place(){
+    cards.forEach((c,i)=>{const k=i-cur;
+      if(k<-1||k>10){c.style.display='none';return}
+      c.style.display='';
+      c.style.transform=k<0?'translate(-50%,-50%) translate3d(-120%,0,200px) rotateY(-25deg)':'translate(-50%,-50%) translate3d('+(k*46)+'px,'+(-k*34)+'px,'+(-k*230)+'px) rotateY('+(-k*4)+'deg)';
+      c.style.opacity=k<0?0:Math.max(0,1-k*.11); c.style.zIndex=100-k;
+    });
+    const n=bar.querySelector('.n'); if(n) n.textContent=(cur+1)+' of '+cards.length;
+  }
+  function closeThree(){stage.classList.remove('open');body.classList.remove('swung');deck.innerHTML='';cards=[];if(sel)sel.focus()}
+  function three(id){
+    index().then(ix=>{
+      const i=ix.tok[WORK+':'+id]; if(i==null) return;
+      const r=ix.roots[i];
+      // one card per verse; this verse first, then this work, then the others
+      const by=new Map();
+      r.o.forEach(([w,sec,tid,g])=>{const k=w+'|'+refOf(tid);if(!by.has(k))by.set(k,{w,sec,ref:refOf(tid),ids:[],gl:[]});const v=by.get(k);v.ids.push(tid);if(g)v.gl.push(g)});
+      const here=WORK+'|'+refOf(id);
+      const rank=v=>(v.w+'|'+v.ref)===here?0:v.w===WORK?1:2;
+      const list=[...by.values()].sort((a,b)=>rank(a)-rank(b));
+      return Promise.all([...new Set(list.map(v=>v.w))].map(w=>verses(w))).then(()=>{
+        bar.innerHTML='<span class="rt" lang="he">'+esc(r.r||r.h[0])+'</span><span>'+esc([...new Set(r.h)].join(', '))+'</span>'+(r.g?'<span class="g" style="color:var(--muted)">'+esc(r.g)+'</span>':'')+'<a href="../lexicon/'+esc(r.p)+'">concordance</a><span class="sp"><button class="pv" aria-label="Previous">↑</button><span class="n"></span><button class="nx" aria-label="Next">↓</button><button class="cl" aria-label="Close">×</button></span>';
+        deck.innerHTML=''; cards=list.map(v=>{
+          const vs=VERSES[v.w][v.ref]; const c=document.createElement('article'); c.className='card';
+          const hit=new Set(v.ids);
+          c.innerHTML='<div class="ref">'+esc(ix.works[v.w]?ix.works[v.w].t:v.w)+' '+esc(v.ref)+'</div><div class="heb" lang="he">'+(vs?vs.w.map(([t,x])=>'<span'+(hit.has(t)?' class="hit"':'')+'>'+esc(x)+'</span>').join(' '):'')+'</div><p class="en">'+esc(vs?vs.en:'')+'</p><div class="g">'+esc([...new Set(v.gl)].join(' · '))+'</div>';
+          c.onclick=()=>{const j=cards.indexOf(c);if(j===cur)location.href='../'+v.w+'/'+v.sec+'.html#t'+v.ids[0];else{cur=j;place()}};
+          deck.appendChild(c); return c;
+        });
+        cur=0; panel.classList.remove('open'); body.classList.add('swung'); stage.classList.add('open'); place();
+        bar.querySelector('.pv').onclick=()=>{cur=Math.max(0,cur-1);place()};
+        bar.querySelector('.nx').onclick=()=>{cur=Math.min(cards.length-1,cur+1);place()};
+        bar.querySelector('.cl').onclick=closeThree; bar.querySelector('.nx').focus();
+      });
+    }).catch(e=>{panel.insertAdjacentHTML('beforeend','<div style="color:var(--muted)">The concordance could not be loaded.</div>')});
+  }
+  stage.addEventListener('wheel',ev=>{if(!cards.length)return;ev.preventDefault();cur=Math.max(0,Math.min(cards.length-1,cur+(ev.deltaY>0?1:-1)));place()},{passive:false});
+  stage.addEventListener('click',ev=>{if(ev.target===stage)closeThree()});
+  document.addEventListener('click',ev=>{const w=ev.target.closest('.w');if(!w)return;show(w.dataset.id);if(body.classList.contains('three'))three(w.dataset.id);else concordLink(w.dataset.id)});
+  document.addEventListener('keydown',ev=>{
+    if(stage.classList.contains('open')){
+      if(ev.key==='Escape')closeThree();
+      else if(ev.key==='ArrowDown'||ev.key==='ArrowRight'||ev.key==='PageDown'){cur=Math.min(cards.length-1,cur+1);place();ev.preventDefault()}
+      else if(ev.key==='ArrowUp'||ev.key==='ArrowLeft'||ev.key==='PageUp'){cur=Math.max(0,cur-1);place();ev.preventDefault()}
+      return;
+    }
+    if(ev.key==='Escape')panel.classList.remove('open')});
+  // #t<token id> opens that word: the concordance links here.
+  if(location.hash.startsWith('#t')){const id=decodeURIComponent(location.hash.slice(2));const w=document.querySelector('.w[data-id="'+CSS.escape(id)+'"]');if(w){w.scrollIntoView({block:'center'});show(id);concordLink(id)}}
 })();
 </script>
 </body>
