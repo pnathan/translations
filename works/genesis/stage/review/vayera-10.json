@@ -678,6 +678,34 @@
    ],
    "severity": "style",
    "reason": "a reader needs the sense of 'servant' for a king's men"
+  },
+  {
+   "ref": "20:4",
+   "path": "english",
+   "value": "But Abimelech had not approached her. He said, \"My Lord, will you kill a nation, even a righteous one?",
+   "severity": "style",
+   "reason": "editor: Abimelech's speech runs 20:4–5 and God's 20:6–7; each quotation opens and closes once; speech inside speech takes single quotes (decisions)."
+  },
+  {
+   "ref": "20:5",
+   "path": "english",
+   "value": "Did he not himself say to me, 'She is my sister'? And she also said, 'He is my brother.' In the integrity of my heart and in the innocence of my hands I did this.\"",
+   "severity": "style",
+   "reason": "editor: Abimelech's speech runs 20:4–5 and God's 20:6–7; each quotation opens and closes once; speech inside speech takes single quotes (decisions)."
+  },
+  {
+   "ref": "20:6",
+   "path": "english",
+   "value": "God said to him in a dream, \"I too know that in the integrity of your heart you did this, and I also held you back from sinning against me. That is why I did not let you touch her.",
+   "severity": "style",
+   "reason": "editor: Abimelech's speech runs 20:4–5 and God's 20:6–7; each quotation opens and closes once; speech inside speech takes single quotes (decisions)."
+  },
+  {
+   "ref": "20:7",
+   "path": "english",
+   "value": "Now return the man's wife, for he is a prophet, and he will pray for you, and you will live. And if you do not return her, know that you will surely die, you and all that is yours.\"",
+   "severity": "style",
+   "reason": "editor: Abimelech's speech runs 20:4–5 and God's 20:6–7; each quotation opens and closes once; speech inside speech takes single quotes (decisions)."
   }
  ],
  "verdicts": [
