@@ -536,7 +536,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 3.c` Pi cause, to pass beyond
 - `Pi 3.d` Pi cause to pass
 - `Pi 4` Pi cause to pass away, take away
-- … 2 more senses
+- `Hiph 1` Hiph cause to pass over, bring over
+- `Hiph 2` Hiph he made to pass across
 
 ### `bdb:p.bc.ad` עֵד (n.m) root עוד: witness, reiterating, emphatically affirming
 - `1` witness, testimony, evidence
@@ -569,7 +570,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
 - `III.c` עַל alone
-- … 6 more senses
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
 
 ### `bdb:p.dj.aa` עִם (prep): with
 - `1.a` aid

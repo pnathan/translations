@@ -362,7 +362,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
 - `III.c` עַל alone
-- … 6 more senses
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
 
 ### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
 - `1` Jacob — as n.pr.m
@@ -397,7 +402,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 4.b` Hiph instigate, build
 - `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- … 2 more senses
+- `Hiph 6` Hiph cause to stand
+- `Hoph` Hoph be raised up
 
 ### `bdb:s.di.aa` קָרַע (vb) root קרע: tear
 - `Qal 1.a` Qal rending

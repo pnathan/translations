@@ -567,7 +567,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal III.4` Qal Be — as copula, joining subj. & pred
 - `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- … 2 more senses
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
 
 ### `bdb:e.bn.aa` הָלַךְ (vb) root הלך: go, come, walk
 - `Qal I.1` Qal go, come, walk — of persons
@@ -594,7 +595,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 1` Pi walk
 - `Pi 2` Pi walking about
 - `Pi 3` Pi depart, go entirely away
-- … 9 more senses
+- `Pi 4` Pi fig. of mode of life, action, etc (Pi of: go, come, walk)
+- `Hithp` Hithp walk, walk about, move to and fro
+- `Hiph 1` Hiph lead, bring
+- `Hiph 2` Hiph lead away
+- `Hiph 3` Hiph carry, bring
+- `Hiph 4` Hiph fig. of influence on character (Hiph of: go, come, walk)
+- `Hiph 5.a` Hiph cause to walk, go
+- `Hiph 5.b` Hiph cause to flow, run
+- `Hiph 5.c` Hiph cause to depart, retire, go back
 
 ### `bdb:e.cf.ab` הַר (n.m) root הרר: mountain, hill, hill-country
 - `1` mountain, hill
@@ -756,7 +765,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 3.c` Pi cause, to pass beyond
 - `Pi 3.d` Pi cause to pass
 - `Pi 4` Pi cause to pass away, take away
-- … 2 more senses
+- `Hiph 1` Hiph cause to pass over, bring over
+- `Hiph 2` Hiph he made to pass across
 
 ### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
 - `I.1` as far as, even to, up to, until, while — of space

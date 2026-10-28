@@ -807,7 +807,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal III.4` Qal Be — as copula, joining subj. & pred
 - `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- … 2 more senses
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
 
 ### `bdb:e.bz.aa` הֵן (demonstr.adv): lo!, behold
 
@@ -961,7 +962,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
 - `III.c` עַל alone
-- … 6 more senses
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
 
 ### `bdb:p.di.ab` עַם (n.m) root עמם: people
 - `1` a people, nation

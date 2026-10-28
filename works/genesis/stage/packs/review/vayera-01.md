@@ -970,7 +970,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 3.c` Pi cause, to pass beyond
 - `Pi 3.d` Pi cause to pass
 - `Pi 4` Pi cause to pass away, take away
-- … 2 more senses
+- `Hiph 1` Hiph cause to pass over, bring over
+- `Hiph 2` Hiph he made to pass across
 
 ### `bdb:p.bb.ab` עֻגָה (n.f) root עוג: disc, cake of bread
 
@@ -1010,7 +1011,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
 - `III.c` עַל alone
-- … 6 more senses
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
 
 ### `bdb:p.df.aa` עָמַד (V) root עמד: take one's stand, stand
 - `Qal 1.a` Qal take one's stand, stand, be in a standing attitude
@@ -1037,7 +1043,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 5` Qal stand upright
 - `Qal 6.a` Qal arise, appear, come on the scene
 - `Qal 6.b` Qal stand forth, appear
-- … 9 more senses
+- `Qal 6.c` Qal rise up
+- `Qal 7` Qal take one's stand, stand — rare usages
+- `Hiph 1` Hiph station, set
+- `Hiph 2` Hiph cause to stand firm
+- `Hiph 3` Hiph cause to stand up, set up, erect
+- `Hiph 4` Hiph present, before
+- `Hiph 5` Hiph appoint
+- `Hiph 6` Hiph other meanings (Hiph of: take one's stand, stand)
+- `Hoph` Hoph be presented
 
 ### `bdb:p.em.ab` עֵץ (n.m) root עצה: tree, trees, wood
 - `1.a` tree

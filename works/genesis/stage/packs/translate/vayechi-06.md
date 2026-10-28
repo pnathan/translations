@@ -663,7 +663,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 6` Hiph offer, bring up
 - `Hiph 7` Hiph exalt
 - `Hiph 8` Hiph cause to ascend, offer
-- … 4 more senses
+- `Hoph 1` Hoph be carried away
+- `Hoph 2` Hoph be taken up, inserted
+- `Hoph 3` Hoph be offered
+- `Hithp` Hithp lift oneself
 
 ### `bdb:p.di.ab` עַם (n.m) root עמם: people
 - `1` a people, nation
@@ -716,7 +719,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 4.b` Hiph instigate, build
 - `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- … 2 more senses
+- `Hiph 6` Hiph cause to stand
+- `Hoph` Hoph be raised up
 
 ### `bdb:s.ds.aa` קָשָׁה (vb) root קשׁה: be hard, severe, fierce
 - `Qal 1` Qal be hard, difficult

@@ -469,7 +469,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal III.4` Qal Be — as copula, joining subj. & pred
 - `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- … 2 more senses
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
 
 ### `bdb:e.bn.aa` הָלַךְ (vb) root הלך: go, come, walk
 - `Qal I.1` Qal go, come, walk — of persons
@@ -496,7 +497,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 1` Pi walk
 - `Pi 2` Pi walking about
 - `Pi 3` Pi depart, go entirely away
-- … 9 more senses
+- `Pi 4` Pi fig. of mode of life, action, etc (Pi of: go, come, walk)
+- `Hithp` Hithp walk, walk about, move to and fro
+- `Hiph 1` Hiph lead, bring
+- `Hiph 2` Hiph lead away
+- `Hiph 3` Hiph carry, bring
+- `Hiph 4` Hiph fig. of influence on character (Hiph of: go, come, walk)
+- `Hiph 5.a` Hiph cause to walk, go
+- `Hiph 5.b` Hiph cause to flow, run
+- `Hiph 5.c` Hiph cause to depart, retire, go back
 
 ### `bdb:g.cl.ab` זֶ֫רַע (n.m) root זרע: sowing, seed, offspring
 - `1.a` sowing
@@ -609,7 +618,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
 - `III.c` עַל alone
-- … 6 more senses
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
 
 ### `bdb:p.di.ab` עַם (n.m) root עמם: people
 - `1` a people, nation
@@ -675,7 +689,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 4.b` Hiph instigate, build
 - `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- … 2 more senses
+- `Hiph 6` Hiph cause to stand
+- `Hoph` Hoph be raised up
 
 ### `bdb:s.ax.aa` קוּץ (vb) root קוץ: feel a loathing, abhorrence, sickening dread
 - `Qal 1` Qal feel a loathing, abhor

@@ -347,7 +347,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal III.4` Qal Be — as copula, joining subj. & pred
 - `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- … 2 more senses
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
 
 ### `bdb:e.bz.ac` הֵ֫נָּה (adv): hither
 - `a` hither — of place
@@ -619,7 +620,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 6` Hiph offer, bring up
 - `Hiph 7` Hiph exalt
 - `Hiph 8` Hiph cause to ascend, offer
-- … 4 more senses
+- `Hoph 1` Hoph be carried away
+- `Hoph 2` Hoph be taken up, inserted
+- `Hoph 3` Hoph be offered
+- `Hithp` Hithp lift oneself
 
 ### `bdb:p.dj.aa` עִם (prep): with
 - `1.a` aid

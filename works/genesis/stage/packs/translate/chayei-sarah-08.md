@@ -462,7 +462,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 1` Pi walk
 - `Pi 2` Pi walking about
 - `Pi 3` Pi depart, go entirely away
-- … 9 more senses
+- `Pi 4` Pi fig. of mode of life, action, etc (Pi of: go, come, walk)
+- `Hithp` Hithp walk, walk about, move to and fro
+- `Hiph 1` Hiph lead, bring
+- `Hiph 2` Hiph lead away
+- `Hiph 3` Hiph carry, bring
+- `Hiph 4` Hiph fig. of influence on character (Hiph of: go, come, walk)
+- `Hiph 5.a` Hiph cause to walk, go
+- `Hiph 5.b` Hiph cause to flow, run
+- `Hiph 5.c` Hiph cause to depart, retire, go back
 
 ### `bdb:g.al.ab` זָהָב (n.m) root זהב: gold
 - `1` gold — = gold-ore, gold in raw state

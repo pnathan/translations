@@ -522,7 +522,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal III.4` Qal Be — as copula, joining subj. & pred
 - `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- … 2 more senses
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
 
 ### `bdb:e.bz.ab` הִנֵּה (demonstr.part): lo!, behold!
 
@@ -619,7 +620,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 3.c` Pi cause, to pass beyond
 - `Pi 3.d` Pi cause to pass
 - `Pi 4` Pi cause to pass away, take away
-- … 2 more senses
+- `Hiph 1` Hiph cause to pass over, bring over
+- `Hiph 2` Hiph he made to pass across
 
 ### `bdb:p.aq.ad` עַד (prep) root עדה: as far as, even to, up to, until, while
 - `I.1` as far as, even to, up to, until, while — of space

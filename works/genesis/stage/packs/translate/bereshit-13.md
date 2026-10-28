@@ -409,7 +409,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal III.4` Qal Be — as copula, joining subj. & pred
 - `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- … 2 more senses
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
 
 ### `bdb:e.cc.aa` הָרַג (vb) root הרג: kill, slay
 - `Qal 1.a` Qal kill, slay
@@ -745,7 +746,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 4.b` Hiph instigate, build
 - `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- … 2 more senses
+- `Hiph 6` Hiph cause to stand
+- `Hoph` Hoph be raised up
 
 ### `bdb:s.bk.ae` קַ֫יִן (n.pr.m): Cain
 

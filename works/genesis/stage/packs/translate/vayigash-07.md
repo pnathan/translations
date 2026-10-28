@@ -381,7 +381,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 6` Hiph offer, bring up
 - `Hiph 7` Hiph exalt
 - `Hiph 8` Hiph cause to ascend, offer
-- … 4 more senses
+- `Hoph 1` Hoph be carried away
+- `Hoph 2` Hoph be taken up, inserted
+- `Hoph 3` Hoph be offered
+- `Hithp` Hithp lift oneself
 
 ### `bdb:p.cs.ar` עַל (subst) root עלה: above
 - `I` height
@@ -408,7 +411,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
 - `III.c` עַל alone
-- … 6 more senses
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
 
 ### `bdb:p.dj.aa` עִם (prep): with
 - `1.a` aid
@@ -460,7 +468,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 4.b` Hiph instigate, build
 - `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- … 2 more senses
+- `Hiph 6` Hiph cause to stand
+- `Hoph` Hoph be raised up
 
 ### `bdb:s.cb.ac` מִקְנֶה (n.m) root קנה: cattle
 

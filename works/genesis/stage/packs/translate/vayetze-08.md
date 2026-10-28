@@ -383,7 +383,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 1` Pi walk
 - `Pi 2` Pi walking about
 - `Pi 3` Pi depart, go entirely away
-- … 9 more senses
+- `Pi 4` Pi fig. of mode of life, action, etc (Pi of: go, come, walk)
+- `Hithp` Hithp walk, walk about, move to and fro
+- `Hiph 1` Hiph lead, bring
+- `Hiph 2` Hiph lead away
+- `Hiph 3` Hiph carry, bring
+- `Hiph 4` Hiph fig. of influence on character (Hiph of: go, come, walk)
+- `Hiph 5.a` Hiph cause to walk, go
+- `Hiph 5.b` Hiph cause to flow, run
+- `Hiph 5.c` Hiph cause to depart, retire, go back
 
 ### `bdb:g.bn.ab` זִלְפָּה (n.pr.f): Zilpah
 
@@ -540,7 +548,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 5` Qal stand upright
 - `Qal 6.a` Qal arise, appear, come on the scene
 - `Qal 6.b` Qal stand forth, appear
-- … 9 more senses
+- `Qal 6.c` Qal rise up
+- `Qal 7` Qal take one's stand, stand — rare usages
+- `Hiph 1` Hiph station, set
+- `Hiph 2` Hiph cause to stand firm
+- `Hiph 3` Hiph cause to stand up, set up, erect
+- `Hiph 4` Hiph present, before
+- `Hiph 5` Hiph appoint
+- `Hiph 6` Hiph other meanings (Hiph of: take one's stand, stand)
+- `Hoph` Hoph be presented
 
 ### `bdb:p.dj.aa` עִם (prep): with
 - `1.a` aid

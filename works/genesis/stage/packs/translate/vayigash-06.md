@@ -451,7 +451,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 1` Pi walk
 - `Pi 2` Pi walking about
 - `Pi 3` Pi depart, go entirely away
-- … 9 more senses
+- `Pi 4` Pi fig. of mode of life, action, etc (Pi of: go, come, walk)
+- `Hithp` Hithp walk, walk about, move to and fro
+- `Hiph 1` Hiph lead, bring
+- `Hiph 2` Hiph lead away
+- `Hiph 3` Hiph carry, bring
+- `Hiph 4` Hiph fig. of influence on character (Hiph of: go, come, walk)
+- `Hiph 5.a` Hiph cause to walk, go
+- `Hiph 5.b` Hiph cause to flow, run
+- `Hiph 5.c` Hiph cause to depart, retire, go back
 
 ### `bdb:e.bz.ab` הִנֵּה (demonstr.part): lo!, behold!
 
@@ -656,7 +664,10 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 6` Hiph offer, bring up
 - `Hiph 7` Hiph exalt
 - `Hiph 8` Hiph cause to ascend, offer
-- … 4 more senses
+- `Hoph 1` Hoph be carried away
+- `Hoph 2` Hoph be taken up, inserted
+- `Hoph 3` Hoph be offered
+- `Hithp` Hithp lift oneself
 
 ### `bdb:p.eu.aj` יַעֲקֹב (n.pr.m) root עקב: Jacob
 - `1` Jacob — as n.pr.m

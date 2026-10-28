@@ -399,7 +399,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal III.4` Qal Be — as copula, joining subj. & pred
 - `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- … 2 more senses
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
 
 ### `bdb:g.al.ab` זָהָב (n.m) root זהב: gold
 - `1` gold — = gold-ore, gold in raw state
@@ -540,7 +541,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pi 3.c` Pi cause, to pass beyond
 - `Pi 3.d` Pi cause to pass
 - `Pi 4` Pi cause to pass away, take away
-- … 2 more senses
+- `Hiph 1` Hiph cause to pass over, bring over
+- `Hiph 2` Hiph he made to pass across
 
 ### `bdb:p.cm.ad` עִיר (n.f): city, town
 - `1` city, town
@@ -572,7 +574,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
 - `III.c` עַל alone
-- … 6 more senses
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
 
 ### `bdb:p.df.aa` עָמַד (V) root עמד: take one's stand, stand
 - `Qal 1.a` Qal take one's stand, stand, be in a standing attitude
@@ -599,7 +606,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 5` Qal stand upright
 - `Qal 6.a` Qal arise, appear, come on the scene
 - `Qal 6.b` Qal stand forth, appear
-- … 9 more senses
+- `Qal 6.c` Qal rise up
+- `Qal 7` Qal take one's stand, stand — rare usages
+- `Hiph 1` Hiph station, set
+- `Hiph 2` Hiph cause to stand firm
+- `Hiph 3` Hiph cause to stand up, set up, erect
+- `Hiph 4` Hiph present, before
+- `Hiph 5` Hiph appoint
+- `Hiph 6` Hiph other meanings (Hiph of: take one's stand, stand)
+- `Hoph` Hoph be presented
 
 ### `bdb:p.fy.aa` עָשָׂה (vb) root עשׂה: do, make
 - `Qal I.1` Qal do

@@ -627,7 +627,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
 - `III.c` עַל alone
-- … 6 more senses
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
 
 ### `bdb:p.df.aa` עָמַד (V) root עמד: take one's stand, stand
 - `Qal 1.a` Qal take one's stand, stand, be in a standing attitude
@@ -654,7 +659,15 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 5` Qal stand upright
 - `Qal 6.a` Qal arise, appear, come on the scene
 - `Qal 6.b` Qal stand forth, appear
-- … 9 more senses
+- `Qal 6.c` Qal rise up
+- `Qal 7` Qal take one's stand, stand — rare usages
+- `Hiph 1` Hiph station, set
+- `Hiph 2` Hiph cause to stand firm
+- `Hiph 3` Hiph cause to stand up, set up, erect
+- `Hiph 4` Hiph present, before
+- `Hiph 5` Hiph appoint
+- `Hiph 6` Hiph other meanings (Hiph of: take one's stand, stand)
+- `Hoph` Hoph be presented
 
 ### `bdb:p.dt.ae` עַתָּ֫ה (adv) root ענה: now
 
@@ -739,7 +752,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Hiph 4.b` Hiph instigate, build
 - `Hiph 4.c` Hiph fig, of setting up law (Hiph of: arise, stand up, stand)
 - `Hiph 5` Hiph raise up
-- … 2 more senses
+- `Hiph 6` Hiph cause to stand
+- `Hoph` Hoph be raised up
 
 ### `bdb:t.ab.aa` רָאָה (vb) root ראה: see
 - `Qal 1.a` Qal see
@@ -798,7 +812,31 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 9` Qal turn back, return — trans
 - `Qal` Qal turn back, return
 - `Pō‛l 1` Pō‛l bring back
-- … 25 more senses
+- `Pō‛l 2.a` Pō‛l restore, refresh
+- `Pō‛l 2.b` Pō‛l restore, repair
+- `Pō‛l 3` Pō‛l lead away
+- `Pō‛l 4` Pō‛l shew turning, apostatize
+- `Hiph 1.a` Hiph bring back
+- `Hiph 1.b` Hiph put back
+- `Hiph 1.c` Hiph draw back
+- `Hiph 1.d` Hiph give back, restore
+- `Hiph 1.e` Hiph relinguish
+- `Hiph 1.f` Hiph give in payment
+- `Hiph 1.g` Hiph bring, back
+- `Hiph 2.a` Hiph bring back
+- `Hiph 2.b` Hiph refresh
+- `Hiph 3` Hiph bring back
+- `Hiph 4.a` Hiph bring back
+- `Hiph 4.b` Hiph pay
+- `Hiph 5` Hiph turn back, backward
+- `Hiph 6.a` Hiph turn away
+- `Hiph 6.b` Hiph turn toward
+- `Hiph 7` Hiph turn
+- `Hiph 8` Hiph bring back to mind
+- `Hiph 10` Hiph shew a turning away from
+- `Hiph 11` Hiph reverse, revoke
+- `Hiph` Hiph cause to return, bring back
+- `Hoph` Hoph has been returned
 
 ### `bdb:v.dc.aa` שָׁכֹל (vb) root שׁכל: be bereaved
 - `Qal` Qal be bereaved

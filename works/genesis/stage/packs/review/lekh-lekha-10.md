@@ -795,7 +795,8 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal III.4` Qal Be — as copula, joining subj. & pred
 - `Qal III.5` Qal Be — periphrastic conjug
 - `Qal III` Qal Be
-- … 2 more senses
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
 
 ### `bdb:e.bz.ab` הִנֵּה (demonstr.part): lo!, behold!
 
@@ -1040,7 +1041,12 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `III.c.(a)` because
 - `III.c.(b)` notwithstanding that, although
 - `III.c` עַל alone
-- … 6 more senses
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
 
 ### `bdb:p.dv.aa` עָנָה (vb) root ענה: be bowed down, afflicted
 - `Qal 1` Qal be put down, become low
@@ -1114,7 +1120,31 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Qal 9` Qal turn back, return — trans
 - `Qal` Qal turn back, return
 - `Pō‛l 1` Pō‛l bring back
-- … 25 more senses
+- `Pō‛l 2.a` Pō‛l restore, refresh
+- `Pō‛l 2.b` Pō‛l restore, repair
+- `Pō‛l 3` Pō‛l lead away
+- `Pō‛l 4` Pō‛l shew turning, apostatize
+- `Hiph 1.a` Hiph bring back
+- `Hiph 1.b` Hiph put back
+- `Hiph 1.c` Hiph draw back
+- `Hiph 1.d` Hiph give back, restore
+- `Hiph 1.e` Hiph relinguish
+- `Hiph 1.f` Hiph give in payment
+- `Hiph 1.g` Hiph bring, back
+- `Hiph 2.a` Hiph bring back
+- `Hiph 2.b` Hiph refresh
+- `Hiph 3` Hiph bring back
+- `Hiph 4.a` Hiph bring back
+- `Hiph 4.b` Hiph pay
+- `Hiph 5` Hiph turn back, backward
+- `Hiph 6.a` Hiph turn away
+- `Hiph 6.b` Hiph turn toward
+- `Hiph 7` Hiph turn
+- `Hiph 8` Hiph bring back to mind
+- `Hiph 10` Hiph shew a turning away from
+- `Hiph 11` Hiph reverse, revoke
+- `Hiph` Hiph cause to return, bring back
+- `Hoph` Hoph has been returned
 
 ### `bdb:v.ds.ab` שָׁלוֹם (n.m) root שׁלם: completeness, soundness, welfare, peace
 - `1` completeness
