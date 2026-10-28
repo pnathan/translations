@@ -1,0 +1,559 @@
+{
+ "unit": "vayera-05",
+ "model": "sonnet",
+ "summary": "The translation is sound in syntax and in most renderings. The main faults: הָלַךְ was given Qal II.2 'live, walk' twice though Qal I.1 'go' is the entry; 19:1 followed 'face' against Ibn Ezra's 'nostrils'; 19:4 followed Rashi's 'from one end to the other' where Ibn Ezra says the people came from places not near the house; עֶבֶד in the courtesy address was given the plain sense instead of BDB 6. Several summaries misreport commentators (Ibn Ezra on סור and on 19:2 לא, Ibn Ezra on the doorway, Onkelos on tav'ishun, Ramban on the aim of the Sodomites), and Rashi's midrash was marked 'follows' in three places. Context notes were absent and have been added.",
+ "patches": [
+  {
+   "ref": "18:33",
+   "path": "token:18:33.1.sense",
+   "value": "Qal I.1",
+   "severity": "error",
+   "reason": "The entry has Qal I.1 'go, come, walk — of persons'; Qal II.2 is 'live, walk' (of conduct). The translator's claim that Qal I lists no 'go' is wrong."
+  },
+  {
+   "ref": "18:33",
+   "path": "token:18:33.1.note",
+   "value": "wayyiqtol of הָלַךְ, 'go' (BDB Qal I.1, of persons); here 'went away', since the speaking has ended.",
+   "severity": "error",
+   "reason": "The old note wrongly said the lexicon has no plain 'go'."
+  },
+  {
+   "ref": "18:33",
+   "path": "note",
+   "value": "The sense is Qal I.1 'go' (of persons); 'went away' adds only the departure that the context gives. The vision-reading of Radak is in the apparatus.",
+   "severity": "error",
+   "reason": "The old note said the lexicon lists no plain 'go' under Qal I; it does (Qal I.1)."
+  },
+  {
+   "ref": "18:33",
+   "path": "apparatus",
+   "value": [
+    "Onkelos renders the subject as 'the Glory of the LORD' (yeqara d'Adonai); the English keeps 'the LORD', the Hebrew word.",
+    "Radak (not normative) reads the departure as the end of the prophetic vision: Abraham found himself back in his house where he had been sitting. Sforno: Abraham waited there until the Shekhinah withdrew. Neither is adopted."
+   ],
+   "severity": "style",
+   "reason": "Ramban has no comment anchored here; the pack shows Radak and Sforno only."
+  },
+  {
+   "ref": "19:1",
+   "path": "english",
+   "value": "The two angels came to Sodom in the evening, and Lot was sitting in the gate of Sodom. When Lot saw them, he rose to meet them and bowed down, nose to the ground.",
+   "severity": "error",
+   "reason": "Ibn Ezra, the normative commentator, takes אַפַּיִם as the nostrils ('until he put his nostrils on the ground; they are the nostrils, which are high on the face'). BDB lists 'nostril' first and the dual is the nostrils; the English followed the looser sense."
+  },
+  {
+   "ref": "19:1",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:1.1",
+      "19:1.2",
+      "19:1.3",
+      "19:1.4",
+      "19:1.5"
+     ],
+     "english": "The two angels came to Sodom in the evening",
+     "literal": "'and-came two the-angels to-Sodom in-the-evening': the verb comes first, the subject follows."
+    },
+    {
+     "tokens": [
+      "19:1.6",
+      "19:1.7",
+      "19:1.8",
+      "19:1.9"
+     ],
+     "english": "and Lot was sitting in the gate of Sodom",
+     "literal": "'and-Lot sitting in-gate-of Sodom': a participle gives the background to the next action."
+    },
+    {
+     "tokens": [
+      "19:1.10",
+      "19:1.11"
+     ],
+     "english": "When Lot saw them",
+     "literal": "'and-saw Lot': the object of the seeing is not written; 'them' is supplied from the context."
+    },
+    {
+     "tokens": [
+      "19:1.12",
+      "19:1.13"
+     ],
+     "english": "he rose to meet them",
+     "literal": "'and-rose to-meet-them': the sequence of the two verbs."
+    },
+    {
+     "tokens": [
+      "19:1.14",
+      "19:1.15",
+      "19:1.16"
+     ],
+     "english": "and bowed down, nose to the ground",
+     "literal": "'and-bowed-down nostrils to-the-ground': the dual אַפַּיִם is the two nostrils (Ibn Ezra); the English 'nose'."
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the change of english."
+  },
+  {
+   "ref": "19:1",
+   "path": "token:19:1.15.gloss",
+   "value": "nostrils",
+   "severity": "error",
+   "reason": "Ibn Ezra: the nostrils."
+  },
+  {
+   "ref": "19:1",
+   "path": "token:19:1.15.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "BDB 1 'nostril' is the sense Ibn Ezra gives; sense 2 'face' is the looser one."
+  },
+  {
+   "ref": "19:1",
+   "path": "token:19:1.15.note",
+   "value": "Dual of אַף: the two nostrils. 'Nose to the ground' is the plain picture of a full prostration; BDB also lists 'face' (2) for this idiom.",
+   "severity": "error",
+   "reason": "The old note spoke of 'the two faces of the dual', which is not what a dual of אַף is."
+  },
+  {
+   "ref": "19:1",
+   "path": "grammar",
+   "value": [
+    "The chain of wayyiqtols (came, saw, rose, bowed down) gives the narrative sequence: the arrival, the sighting, the rising and the bowing.",
+    "The dual shenei (two) with the definite noun 'the angels' is a construct phrase: 'two of the angels' is read as 'the two angels'.",
+    "yoshev (19:1.7) is a participle: the English 'was sitting' gives the state that Lot is in when the angels arrive.",
+    "The dual apayim (19:1.15), 'nostrils', is the adverbial accusative of the bowing: 'bowed down, nostrils to the ground'; the hitpael of shaḥah means 'prostrate oneself'."
+   ],
+   "severity": "error",
+   "reason": "The old fourth note called a dual noun 'used adverbially with the hitpael' and glossed it 'face'; it now follows Ibn Ezra."
+  },
+  {
+   "ref": "19:1",
+   "path": "apparatus",
+   "value": [
+    "Targum Onkelos renders the bowing as 'on his face (al apohi) on the ground'; Ibn Ezra takes the dual as the nostrils, and the English follows him. 'Face' (BDB 2) is the other sense."
+   ],
+   "severity": "style",
+   "reason": "The old apparatus said the English follows 'face'; it now follows Ibn Ezra."
+  },
+  {
+   "ref": "19:1",
+   "path": "context",
+   "value": [
+    "The city gate was the public space of an ancient town: a roofed or chambered passage where people met, did business and sat in judgment. A man sitting in the gate is a townsman in the public place.",
+    "Bowing to the ground was the formal greeting to a superior or an honoured guest; it expresses courtesy and respect and is not an act of worship."
+   ],
+   "severity": "style",
+   "reason": "Two notes a reader needs; both are established."
+  },
+  {
+   "ref": "19:1",
+   "path": "commentary:ibn-ezra:19:1:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Ibn Ezra's whole comment is 'and its explanation, בערב: at the Passover of Egypt' (בפסח מצרים), a cross-reference to his treatment of 'evening' in connection with the Passover in Egypt. It adds nothing to the sense of the verse; the English 'in the evening' stands."
+   },
+   "severity": "style",
+   "reason": "The old summary named Exod. 12:6 and 'between the evenings', which the comment does not say; and a cross-reference is not-applicable, not 'records'."
+  },
+  {
+   "ref": "19:1",
+   "path": "commentary:ibn-ezra:19:1:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: אַפַּיִם is 'until he put his nostrils on the earth': they are the nostrils, which are high on the face. Lot bowed with his nose to the ground. The English now follows this."
+   },
+   "severity": "error",
+   "reason": "The English followed 'face' against Ibn Ezra; now corrected."
+  },
+  {
+   "ref": "19:1",
+   "path": "commentary:rashi:19:1:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Rashi (after the Talmud and Bereshit Rabbah): of the three visitors of 18:2, one went to destroy Sodom, one to save Lot (the same who had come to heal Abraham), and the third, who came to tell Sarah, left once his task was done. A midrash on the errands; the English 'two' is the text's own number."
+   },
+   "severity": "style",
+   "reason": "Midrash on the angels' errands is not the plain sense; 'follows' overstated."
+  },
+  {
+   "ref": "19:1",
+   "path": "commentary:rashi:19:1:2",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: with Abraham they are called 'men' because the Shekhinah was with them; another explanation: Abraham's strength was great and the angels were constantly with him like men, but with Lot (who is lesser) they are called 'angels' (Bereshit Rabbah). The English 'angels' is the plain word; Rashi's reasons for the change of term are recorded."
+   },
+   "severity": "error",
+   "reason": "The old summary omitted the second explanation while saying 'the other explanation is recorded here', and 'follows' did not fit a comment about the change of term."
+  },
+  {
+   "ref": "19:2",
+   "path": "token:19:2.9.sense",
+   "value": "6",
+   "severity": "error",
+   "reason": "BDB 6 is 'thy servant, I', the polite self-reference. Sense 1 'slave, servant' is the plain entry; Lot's עַבְדְּכֶם is the courtesy form of address."
+  },
+  {
+   "ref": "19:2",
+   "path": "token:19:2.14.sense",
+   "value": "Qal I.1",
+   "severity": "error",
+   "reason": "Same fault as 18:33: Qal I.1 'go' (of persons), not Qal II.2 'live, walk'."
+  },
+  {
+   "ref": "19:2",
+   "path": "token:19:2.14.note",
+   "value": "qatal with vav (weqatal) of הָלַךְ, 'go': it continues the imperatives as a consequence ('and go'). BDB Qal I.1, of persons.",
+   "severity": "error",
+   "reason": "Old note wrongly claimed 'walk' as the nearest sense."
+  },
+  {
+   "ref": "19:2",
+   "path": "commentary:ibn-ezra:19:2:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: 'my lords' (רבותי) is secular speech, a courtesy to men and not the Name. He adds that when סור is followed by מ it means 'depart from'; when it is followed by אל with a short pataḥ (אֶל) it means that the person leaves his place and goes to the one who calls or to the place named, as in 'Turn aside to me' (Judg. 4:18). So סורו נא אל בית עבדכם is 'turn aside to your servant's house'."
+   },
+   "severity": "error",
+   "reason": "The old summary said sur with a mem is the plain 'turn aside'. Ibn Ezra says it means 'depart from'; the 'turn aside to' sense belongs to סור followed by אל."
+  },
+  {
+   "ref": "19:2",
+   "path": "commentary:ibn-ezra:19:2:2",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra glosses the refusal לא as 'if you do not press' (אם לא תפצר): a courteous 'no' that waits to be pressed. He adds that the verb 'press' (הפצר, as in 1 Sam. 15:23 'ואון ותרפים הפצר') means a multitude of words, in the sense of entreaties. The English 'No' is the plain negative; his conditional reading is recorded, and it explains why Lot presses them in 19:3."
+   },
+   "severity": "error",
+   "reason": "The old summary made lo 'part of the urging' and used 1 Sam. 15:23 wrongly; Ibn Ezra uses it for the sense of the root פצר."
+  },
+  {
+   "ref": "19:2",
+   "path": "context",
+   "value": [
+    "Washing the feet of a guest was an ordinary act of hospitality in a land of dusty roads and open sandals (see 18:4).",
+    "A traveller who reached a town at nightfall without a host could spend the night in the open square inside the town; a parallel scene is Judges 19:15-21. Taking a stranger into one's house put him under the host's protection."
+   ],
+   "severity": "style",
+   "reason": "Two notes a reader needs; both rest on the biblical text."
+  },
+  {
+   "ref": "19:3",
+   "path": "commentary:rashi:19:3:1",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: 'they turned aside to him' means they bent the road toward his house (as in his comment at 19:2, that Lot bent the road so as not to be seen). The English 'turned aside to him' is the plain departure from the road; Rashi's crooked-road sense is recorded."
+   },
+   "severity": "error",
+   "reason": "The old relation 'follows' adopted a midrashic sense (עיקמו את הדרך) that the English does not carry."
+  },
+  {
+   "ref": "19:3",
+   "path": "commentary:radak:19:3:3",
+   "value": {
+    "relation": "records",
+    "summary": "Radak (not normative): if the event was in a vision, it is as it reads; if Lot was awake and felt it, it seemed to him they ate and drank, since the food and drink, being compounds, returned to their simple first elements, each to its origin, as a miracle. The English keeps 'they ate'; the reading is recorded."
+   },
+   "severity": "style",
+   "reason": "The old summary said only 'they seemed to eat' and left out the second case, the dissolving of the food."
+  },
+  {
+   "ref": "19:3",
+   "path": "context",
+   "value": [
+    "Unleavened bread is flat bread baked at once, without waiting for the dough to rise; it was what a host could prepare in a short time for guests who arrived late (see 18:6 for the same hurry). The text does not tie it to a festival; Rashi reads it as Passover."
+   ],
+   "severity": "style",
+   "reason": "A note a reader needs; Rashi's reading is named as his."
+  },
+  {
+   "ref": "19:4",
+   "path": "english",
+   "value": "Before they lay down, the men of the city, the men of Sodom, surrounded the house, from boys to old men, all the people, from the far edge of the city.",
+   "severity": "error",
+   "reason": "Ibn Ezra takes מִקָּצֶה as 'from the end': they were not near the house. 'From one end of the city to the other' is Rashi's reading. The English now says that people came even from the far edge. 'Youth to old age' also turned persons into abstractions: נַעַר and זָקֵן are people."
+  },
+  {
+   "ref": "19:4",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:4.1",
+      "19:4.2"
+     ],
+     "english": "Before they lay down",
+     "literal": "'before they-lay-down': the temporal particle with the yiqtol."
+    },
+    {
+     "tokens": [
+      "19:4.3",
+      "19:4.4",
+      "19:4.5",
+      "19:4.6"
+     ],
+     "english": "the men of the city, the men of Sodom",
+     "literal": "'the-men-of the-city the-men-of Sodom': the second phrase names the first, the wicked men."
+    },
+    {
+     "tokens": [
+      "19:4.7",
+      "19:4.8",
+      "19:4.9"
+     ],
+     "english": "surrounded the house",
+     "literal": "'surrounded upon the-house': the preposition is absorbed in the English verb."
+    },
+    {
+     "tokens": [
+      "19:4.10",
+      "19:4.11",
+      "19:4.12"
+     ],
+     "english": "from boys to old men",
+     "literal": "'from-boy and-to old': the range from the youngest to the oldest."
+    },
+    {
+     "tokens": [
+      "19:4.13",
+      "19:4.14"
+     ],
+     "english": "all the people",
+     "literal": "'all the-people'."
+    },
+    {
+     "tokens": [
+      "19:4.15"
+     ],
+     "english": "from the far edge of the city",
+     "literal": "'from-end': from the edge, that is, from far from the house (Ibn Ezra); Rashi: from one end of the city to the other."
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the change of english."
+  },
+  {
+   "ref": "19:4",
+   "path": "token:19:4.15.gloss",
+   "value": "from the far edge",
+   "severity": "error",
+   "reason": "Ibn Ezra: they were not close to the house."
+  },
+  {
+   "ref": "19:4",
+   "path": "token:19:4.15.note",
+   "value": "מִ + קָצֶה, 'from the end, the edge'. The city is understood. Ibn Ezra: people came who were not near the house; Rashi: from one end of the city to the other.",
+   "severity": "error",
+   "reason": "The old note said the English reads Rashi."
+  },
+  {
+   "ref": "19:4",
+   "path": "token:19:4.10.gloss",
+   "value": "from boys",
+   "severity": "style",
+   "reason": "נער is a person: 'boy, lad' (BDB 1)."
+  },
+  {
+   "ref": "19:4",
+   "path": "token:19:4.12.gloss",
+   "value": "old men",
+   "severity": "style",
+   "reason": "זָקֵן as a noun is 'old man' (BDB 2.a); sense patched with it."
+  },
+  {
+   "ref": "19:4",
+   "path": "token:19:4.12.sense",
+   "value": "2.a",
+   "severity": "style",
+   "reason": "The adjective stands as a noun here, an old man (BDB 2.a)."
+  },
+  {
+   "ref": "19:4",
+   "path": "token:19:4.12.note",
+   "value": "adjective used as a noun: 'old man'; the pair נַעַר-זָקֵן names the whole age range.",
+   "severity": "style",
+   "reason": "Old note said the English adds 'age'."
+  },
+  {
+   "ref": "19:4",
+   "path": "commentary:ibn-ezra:19:4:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: 'all the people from the end' means that they were not near the house. The English now says that the crowd came even from the far edge of the city."
+   },
+   "severity": "error",
+   "reason": "The English had followed Rashi's 'one end to the other', which Ibn Ezra does not say."
+  },
+  {
+   "ref": "19:4",
+   "path": "commentary:rashi:19:4:2",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: מִקָּצֶה is 'from the end of the city to the end', so that not one of them protested and not even one righteous man was among them. The English 'from the far edge of the city' keeps the spatial sense; Rashi's 'one end to the other' and the point about the righteous are recorded."
+   },
+   "severity": "error",
+   "reason": "The English no longer adopts Rashi's wording; relation changes from follows."
+  },
+  {
+   "ref": "19:5",
+   "path": "grammar",
+   "value": [
+    "The imperative hotsi (19:5.12) carries the 3mp suffix 'them'; the English gives 'bring them out to us'.",
+    "The cohortative venedaah (19:5.14) is 'let us know' with the vav of purpose: 'that we may know'. Ibn Ezra calls the verb a euphemism for lying (כנוי לשכיבה); BDB Qal 3, 'know a person'. The English 'lie with' keeps the euphemism.",
+    "The construction qara' el (19:5.1) means 'call to'. The homograph qara' 'meet' is not used here."
+   ],
+   "severity": "style",
+   "reason": "Old note called qara' el a 'construct'."
+  },
+  {
+   "ref": "19:5",
+   "path": "commentary:ibn-ezra:19:5:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: ונדעה אותם is a euphemism (כנוי) for lying down (שכיבה): the men of Sodom ask for sexual use of the visitors. The English 'lie with' keeps the euphemism."
+   },
+   "severity": "style",
+   "reason": "Ibn Ezra says 'lying', not 'a euphemism for lying down' in general; the sexual force is the point."
+  },
+  {
+   "ref": "19:5",
+   "path": "commentary:radak:19:5:1",
+   "value": {
+    "relation": "records",
+    "summary": "Radak (not normative): 'who are they, and how did they not fear to come to our city, being strangers?' - that is, they said it to kill them, as ונדעה in the concubine at Gibeah (Judg. 19:22), where the man says 'they meant to kill me' (Judg. 20:5). Some explain it as lying with a male. The English takes Rashi's and Ibn Ezra's sexual sense; Radak's 'kill' is recorded."
+   },
+   "severity": "style",
+   "reason": "The old summary left out Radak's first clause."
+  },
+  {
+   "ref": "19:5",
+   "path": "apparatus",
+   "value": [
+    "Ramban (not normative) says the men's aim was to put an end to the traffic of strangers, as in Sanhedrin 109: they feared that the land's goodness would draw many to it, and they despised charity (Ezek. 16:49). The English follows Ibn Ezra's euphemism for lying."
+   ],
+   "severity": "error",
+   "reason": "The old apparatus said Ramban meant 'drive out the poor from the land'; Ramban says 'to end the coming and going of strangers', and the poor come in through Ezek. 16:49."
+  },
+  {
+   "ref": "19:5",
+   "path": "context",
+   "value": [
+    "The demand is for sexual abuse of strangers, which breaks the duty of hospitality; Judges 19:22-25 tells a parallel scene. The verb 'know' with a person as object is the usual Hebrew euphemism for sexual relations, but some commentators (Radak) read it here as 'to question' or 'to do them harm'."
+   ],
+   "severity": "style",
+   "reason": "A note a reader needs; the debate is named."
+  },
+  {
+   "ref": "19:6",
+   "path": "english",
+   "value": "Lot went out to them, to the doorway, and shut the door behind him.",
+   "severity": "style",
+   "reason": "The directional he is 'to the doorway', not 'at'; the note itself says 'the place towards which'. The qatal clause with the object first ('and the door he shut behind him') also reads as one act with the going out."
+  },
+  {
+   "ref": "19:6",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:6.1",
+      "19:6.2",
+      "19:6.3"
+     ],
+     "english": "Lot went out to them",
+     "literal": "'and-went-out to-them Lot': the verb and then the subject."
+    },
+    {
+     "tokens": [
+      "19:6.4"
+     ],
+     "english": "to the doorway",
+     "literal": "'to-the-doorway': the directional he, 'to the opening' (Ibn Ezra: אל הפתח)."
+    },
+    {
+     "tokens": [
+      "19:6.5",
+      "19:6.6",
+      "19:6.7"
+     ],
+     "english": "and shut the door behind him",
+     "literal": "'and-the-door shut behind-him': the object comes first in the Hebrew; the English puts the verb before it."
+    }
+   ],
+   "severity": "style",
+   "reason": "Follows the change of english."
+  },
+  {
+   "ref": "19:6",
+   "path": "token:19:6.7.sense",
+   "value": "2.a",
+   "severity": "style",
+   "reason": "אַחֲרָיו is the preposition (BDB 2.a 'behind, after'), not the adverb (1.a)."
+  },
+  {
+   "ref": "19:6",
+   "path": "commentary:ibn-ezra:19:6:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra glosses הַפֶּתְחָה as אל הפתח, 'to the opening', the final he being directional; he adds that the tav of דלת is the sign of the feminine and that the noun is 'found lacking'. A grammatical note; the English 'to the doorway' is the sense he gives."
+   },
+   "severity": "error",
+   "reason": "The old summary said 'feminine ending (tav and he)' and a missing letter for petachah itself; the remark about the tav concerns דלת, and the gloss אל הפתח is the point that bears on the English."
+  },
+  {
+   "ref": "19:7",
+   "path": "commentary:onkelos:19:7:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Targum Onkelos renders 'do not act wickedly' as la tav'ishun, 'do not do evil, do not harm'. This is the same sense as the English; it does not mean 'shame'."
+   },
+   "severity": "error",
+   "reason": "The old summary read tav'ishun as 'shame'; the root is בא״ש, 'be bad, do evil'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:18:33:1",
+   "verdict": "consistent",
+   "comment": "The English 'his place' does not name Hebron; Ibn Ezra's identification does not contradict it."
+  },
+  {
+   "anchor": "ibn-ezra:19:1:1",
+   "verdict": "not-applicable",
+   "comment": "A cross-reference to the Passover in Egypt; 'in the evening' stands."
+  },
+  {
+   "anchor": "ibn-ezra:19:1:2",
+   "verdict": "contradicts",
+   "comment": "The English said 'face', Ibn Ezra says nostrils; patched to 'nose to the ground'."
+  },
+  {
+   "anchor": "ibn-ezra:19:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:19:2:2",
+   "verdict": "consistent",
+   "comment": "'No' is the plain negative; Ibn Ezra's 'if you do not press' reading is a courteous refusal and does not alter the English."
+  },
+  {
+   "anchor": "ibn-ezra:19:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:19:4:2",
+   "verdict": "contradicts",
+   "comment": "The English gave Rashi's 'from one end to the other'; patched to 'from the far edge of the city'."
+  },
+  {
+   "anchor": "ibn-ezra:19:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:19:6:1",
+   "verdict": "consistent",
+   "comment": "After the patch 'to the doorway' matches his אל הפתח."
+  }
+ ]
+}
