@@ -463,6 +463,13 @@
    ],
    "severity": "style",
    "reason": "adds the sound-link that the explanation rests on"
+  },
+  {
+   "ref": "19:32",
+   "path": "english",
+   "value": "Come, let us make our father drink wine, and let us lie with him, and let us preserve offspring from our father.\"",
+   "severity": "style",
+   "reason": "editor: the firstborn's speech, opened in 19:31, closes here."
   }
  ],
  "verdicts": [

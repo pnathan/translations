@@ -1116,7 +1116,7 @@
   },
   {
    "ref": "19:31",
-   "english": "And the elder said to the younger, \"Our father is old, and there is no man in the land to come to us as is the way of all the earth.\"",
+   "english": "And the firstborn said to the younger, \"Our father is old, and there is no man in the land to come to us as is the way of all the earth.",
    "literal": "and-she-said the-firstborn to the-younger our-father old and-man there-is-not in-the-land to-come upon-us as-way-of all-the-earth",
    "tokens": [
     {
@@ -1127,7 +1127,7 @@
     },
     {
      "id": "19:31.2",
-     "gloss": "the elder",
+     "gloss": "the firstborn",
      "note": "הַבְּכִירָה, feminine: the elder daughter."
     },
     {
@@ -1201,7 +1201,7 @@
       "19:31.1",
       "19:31.2"
      ],
-     "english": "And the elder said",
+     "english": "And the firstborn said",
      "literal": "'and-she-said the-firstborn': the verb first, then the speaker; הַבְּכִירָה is the elder of the two"
     },
     {

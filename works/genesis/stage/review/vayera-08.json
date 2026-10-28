@@ -494,6 +494,78 @@
    },
    "severity": "error",
    "reason": "editor: the English gives the plain words; Ibn Ezra's 'in one of them' explains the plural (decisions: a gloss on what happened is commentary)."
+  },
+  {
+   "ref": "19:31",
+   "path": "english",
+   "value": "And the firstborn said to the younger, \"Our father is old, and there is no man in the land to come to us as is the way of all the earth.",
+   "severity": "style",
+   "reason": "editor: הַבְּכִירָה is 'the firstborn' throughout 19:31–37; the speech runs on into 19:32, where the quotation closes."
+  },
+  {
+   "ref": "19:31",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:31.1",
+      "19:31.2"
+     ],
+     "english": "And the firstborn said",
+     "literal": "'and-she-said the-firstborn': the verb first, then the speaker; הַבְּכִירָה is the elder of the two"
+    },
+    {
+     "tokens": [
+      "19:31.3",
+      "19:31.4"
+     ],
+     "english": "to the younger",
+     "literal": "'to the-younger'"
+    },
+    {
+     "tokens": [
+      "19:31.5",
+      "19:31.6"
+     ],
+     "english": "Our father is old",
+     "literal": "'our-father old': the speech begins"
+    },
+    {
+     "tokens": [
+      "19:31.7",
+      "19:31.8",
+      "19:31.9"
+     ],
+     "english": "and there is no man in the land",
+     "literal": "'and-man there-is-not in-the-land': the existential clause"
+    },
+    {
+     "tokens": [
+      "19:31.10",
+      "19:31.11"
+     ],
+     "english": "to come to us",
+     "literal": "'to-come upon-us': a euphemism for sexual union"
+    },
+    {
+     "tokens": [
+      "19:31.12",
+      "19:31.13",
+      "19:31.14"
+     ],
+     "english": "as is the way of all the earth",
+     "literal": "'as-way-of all-the-earth': the custom the speaker takes for granted"
+    }
+   ],
+   "severity": "style",
+   "reason": "editor: הַבְּכִירָה is 'the firstborn' throughout 19:31–37; the speech runs on into 19:32, where the quotation closes."
+  },
+  {
+   "ref": "19:31",
+   "path": "token:19:31.2.gloss",
+   "value": "the firstborn",
+   "severity": "style",
+   "reason": "editor: הַבְּכִירָה is 'the firstborn' throughout 19:31–37; the speech runs on into 19:32, where the quotation closes."
   }
  ],
  "verdicts": [
