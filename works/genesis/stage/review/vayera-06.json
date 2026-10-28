@@ -605,6 +605,20 @@
    ],
    "severity": "error",
    "reason": "The note said there are 'three objects (wife and daughters)'; there are two. A note on Ibn Ezra's use of the participle is added."
+  },
+  {
+   "ref": "19:12",
+   "path": "english",
+   "value": "And the men said to Lot, \"If you have anyone else here, a son-in-law, your sons, your daughters, and all that you have in the city, bring them out of this place.",
+   "severity": "style",
+   "reason": "editor: the angels' speech runs on through 19:13; the quotation closes there."
+  },
+  {
+   "ref": "19:13",
+   "path": "english",
+   "value": "For we are about to destroy this place, because their outcry has grown great before the LORD, and the LORD sent us to destroy it.\"",
+   "severity": "style",
+   "reason": "editor: the angels' speech runs on through 19:13; the quotation closes there."
   }
  ],
  "verdicts": [
