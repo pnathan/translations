@@ -1,0 +1,326 @@
+{
+  "unit": "vayera-12",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "20:17",
+      "english": "Abraham prayed to God, and God healed Abimelech and his wife and his maidservants, and his wife and his maidservants gave birth.",
+      "literal": "and-prayed Abraham to the-God and-healed God (object marker) Abimelech and-(object marker) his-wife and-his-maidservants and-they-gave-birth",
+      "tokens": [
+        {"id": "20:17.1", "gloss": "and prayed (interceded)", "sense": "Hithp 1", "note": "Hithpael wayyiqtol of פָּלַל. The prayer is for another person: the verse names no object, and the context (20:7) is Abimelech's illness. Hithp 1 is the lexicon's 'intercede'."},
+        {"id": "20:17.2", "gloss": "Abraham"},
+        {"id": "20:17.3", "gloss": "to"},
+        {"id": "20:17.4", "gloss": "God", "sense": "3", "note": "With the article, the God of Israel; sense 3 is 'the (true) God'."},
+        {"id": "20:17.5", "gloss": "and healed", "sense": "Qal", "note": "Qal wayyiqtol of רָפָא. God is the subject; Abimelech and his household are the object."},
+        {"id": "20:17.6", "gloss": "God", "sense": "3"},
+        {"id": "20:17.7", "gloss": "(object marker)", "note": "The object marker before Abimelech. It has no English counterpart."},
+        {"id": "20:17.8", "gloss": "Abimelech", "sense": "1", "note": "King of Gerar in this chapter; see context."},
+        {"id": "20:17.9", "gloss": "and (object marker)", "note": "The conjunction and the object marker, together: the object is his wife."},
+        {"id": "20:17.10", "gloss": "his wife", "sense": "2"},
+        {"id": "20:17.11", "gloss": "and his maidservants", "sense": "1", "note": "Plural construct of אָמָה with a suffix: the women of the household who served the wife."},
+        {"id": "20:17.12", "gloss": "and they gave birth", "sense": "Qal 1", "note": "Qal wayyiqtol of יָלַד, third masculine plural. The clause does not name its subject; see the grammar note and the commentary."}
+      ],
+      "phrases": [
+        {"tokens": ["20:17.1", "20:17.2", "20:17.3", "20:17.4"], "english": "Abraham prayed to God", "literal": "'and-prayed Abraham to the-God': the hithpael of פָּלַל with אֶל; the object of the prayer is not named"},
+        {"tokens": ["20:17.5", "20:17.6"], "english": "God healed", "literal": "'and-healed God': the qal of רָפָא, with God as its subject"},
+        {"tokens": ["20:17.7", "20:17.8"], "english": "Abimelech", "literal": "'(object marker) Abimelech': the marker is not translated"},
+        {"tokens": ["20:17.9", "20:17.10"], "english": "and his wife", "literal": "'and-(object marker)-his-wife': the marker has no English counterpart; the conjunction joins the second object"},
+        {"tokens": ["20:17.11"], "english": "and his maidservants", "literal": "'and-his-maidservants': the same object marker governs this noun"},
+        {"tokens": ["20:17.12"], "english": "gave birth", "literal": "'and-they-gave-birth': the English names the wife and the maidservants as the subject, which is Ibn Ezra's reading"}
+      ],
+      "grammar": [
+        "וַיִּתְפַּלֵּל and וַיִּרְפָּא are both wayyiqtol, the sequential form: each verb follows the one before in the narrative, so the prayer comes first and the healing follows it.",
+        "The object of the healing is a list of three: Abimelech, then his wife and his maidservants, the second and third joined by וְ. The English repeats the conjunction and the nouns where the Hebrew has them only once.",
+        "וַיֵּלֵדוּ is masculine plural, and its subject is not named in the clause. The nearest names are the wife and the maidservants. Ibn Ezra's reading, which the English follows, takes them as the subject; the verse's next clause names only the wombs of the house, not Abimelech.",
+        "The etnaḥta on הָאֱלֹהִים (20:17.4) divides the verse after the prayer. The geresh on אֱלֹהִים (20:17.6) and the silluq on וַיֵּלֵדוּ (20:17.12) close the clauses of the healing and of the birth."
+      ],
+      "note": "The English repeats 'his wife and his maidservants' after 'gave birth' so that the subject is explicit. This is the reading of Ibn Ezra (commentary); the Hebrew has only the masculine plural verb.",
+      "commentary": [
+        {"anchor": "ibn-ezra:20:17:1", "relation": "follows", "summary": "Ibn Ezra: the verb returns to 'the wife of Abimelech and his maidservants, not to Abimelech' (שב אל אשת אבימלך ואמהותיו לא אל אבימלך). He supports this with other verses where a verb has a subject other than the nearest name, and with 20:18, which says 'the wombs of the house of Abimelech' and does not name Abimelech; he is long on this because some commentators held that Abimelech himself was held back. The English makes the wife and the maidservants the subject of 'gave birth'."},
+        {"anchor": "rashi:20:17:1", "relation": "records", "summary": "Rashi, after the Targum: 'they were relieved' (ואתרוחו): their passages were opened and they expelled, and this is their birth (והיא לדה שלהם). The English does not take the opening of passages; the verb is rendered 'gave birth' (ילד)."},
+        {"anchor": "ramban:20:17:1", "relation": "follows", "summary": "Ramban: the verb means birth (לֵדָה), and not the opening of a passage, since 'womb' (רחם) cannot refer to another opening. He asks when the wombs were closed, and suggests the women were already in labour and could not deliver (אולי היו על פרקן ואחזום חבלי יולדה), with Abraham's prayer perhaps delayed for many days. He says Onkelos's 'relieved' takes the womb in its plain sense and includes Abimelech in the verb. The English takes the verb as birth."},
+        {"anchor": "radak:20:17:4", "relation": "records", "summary": "Radak: the subject may be the wife and the maidservants, or also Abimelech, and the matter is 'the emission of seed' (הוֹצָאַת זֶרַע). He allows that Onkelos's 'relieved' may mean birth, and cites the rabbinic reading of blocked passages as another possible background. The English follows Ibn Ezra's narrower subject and does not include Abimelech."},
+        {"anchor": "radak:20:17:2", "relation": "not-applicable", "summary": "Radak: the women had reached labour and could not deliver through that day, that night and the next day, though the palace physicians tried; the answer came after Abraham's prayer, and they knew it was 'the finger of God' (אֶצְבַּע אֱלֹהִים). This explains the situation and does not bear on the words."}
+      ],
+      "apparatus": [
+        "Subject of וַיֵּלֵדוּ: the wife and the maidservants (Ibn Ezra, followed here); the household, Abimelech included (Onkelos, Ramban's reading of Onkelos, Radak's alternative). See the commentary."
+      ],
+      "context": [
+        "Abimelech is the king of Gerar, which 20:1 places in the Negev. The name is Semitic (אֲבִי 'father' and מֶלֶךְ 'king'), and the lexicon lists it for several persons in the Hebrew Bible. Whether it is a personal name or a dynastic title is disputed; the text does not decide.",
+        "A maidservant (אָמָה) was a woman of the household who was not the wife. In the patriarchal narratives a maidservant could bear children on her mistress's behalf (16:2; 30:3–9). Scholars have compared this with the Nuzi tablets, but whether they are a close parallel is disputed."
+      ]
+    },
+    {
+      "ref": "20:18",
+      "english": "For the LORD had closed fast all the wombs of the house of Abimelech on account of Sarah, Abraham's wife.",
+      "literal": "for closing-fast closed the-LORD against all-the-womb to-house-of Abimelech on-account-of the-matter-of Sarah wife-of Abraham",
+      "tokens": [
+        {"id": "20:18.1", "gloss": "for", "sense": "3", "note": "A causal conjunction: it gives the reason for the healing in 20:17."},
+        {"id": "20:18.2", "gloss": "closed fast", "sense": "Qal 1", "note": "Infinitive absolute, placed before the finite verb of the same root to intensify it."},
+        {"id": "20:18.3", "gloss": "had closed fast", "sense": "Qal 1", "note": "Qatal, third masculine singular: a completed act, rendered by the past perfect."},
+        {"id": "20:18.4", "gloss": "the LORD", "sense": "I", "note": "The divine name יְהוָה, rendered LORD."},
+        {"id": "20:18.5", "gloss": "against", "note": "The preposition is disputed. BDB gives 'behind' and 'on behalf of'; Rashi reads 'against'. The English keeps the sense of the verb and does not decide it."},
+        {"id": "20:18.6", "gloss": "all", "sense": "1", "note": "כָּל with a singular noun: every womb, taken together."},
+        {"id": "20:18.7", "gloss": "wombs", "note": "The singular noun with כָּל. Ibn Ezra's point on this phrase is in the commentary."},
+        {"id": "20:18.8", "gloss": "of the house of", "sense": "4", "note": "The construct 'house' of a king is his household: the family in his power."},
+        {"id": "20:18.9", "gloss": "Abimelech", "sense": "1"},
+        {"id": "20:18.10", "gloss": "on account of", "note": "The idiom עַל דְּבַר, 'on account of'. The lexicon gives no sense path for this preposition."},
+        {"id": "20:18.11", "gloss": "the matter of", "sense": "IV", "note": "'Matter, affair' (IV), in the idiom. Rashi reads 'word' (I); see the commentary."},
+        {"id": "20:18.12", "gloss": "Sarah"},
+        {"id": "20:18.13", "gloss": "wife of", "sense": "2"},
+        {"id": "20:18.14", "gloss": "Abraham"}
+      ],
+      "phrases": [
+        {"tokens": ["20:18.1", "20:18.2", "20:18.3", "20:18.4"], "english": "For the LORD had closed fast", "literal": "'for closing-fast closed the-LORD': the infinitive absolute intensifies the finite verb; 'for' gives the reason"},
+        {"tokens": ["20:18.5", "20:18.6", "20:18.7"], "english": "all the wombs", "literal": "'against all-the-womb': the preposition has no separate English; the verb's closing is over the wombs"},
+        {"tokens": ["20:18.8", "20:18.9"], "english": "of the house of Abimelech", "literal": "'to-house-of Abimelech': the construct chain names the household"},
+        {"tokens": ["20:18.10", "20:18.11"], "english": "on account of", "literal": "'on-account-of the-matter-of': the idiom עַל דְּבַר"},
+        {"tokens": ["20:18.12"], "english": "Sarah", "literal": "'Sarah'"},
+        {"tokens": ["20:18.13", "20:18.14"], "english": "Abraham's wife", "literal": "'wife-of Abraham': the construct chain, the wife of Abraham"}
+      ],
+      "grammar": [
+        "כִּי here is causal ('for'). The verse gives the cause of the healing in 20:17: the wombs had been closed, so no one could bear.",
+        "עָצֹר עָצַר: the infinitive absolute before the perfect of the same root makes the verb emphatic, 'had surely closed'. The English has no separate word for the emphasis, and the phrase 'closed fast' carries it.",
+        "לְבֵית אֲבִימֶלֶךְ is a construct chain. 'House' here means household, the family in the king's power, and the English keeps the word 'house' for it.",
+        "עַל דְּבַר שָׂרָה is an idiom built on the noun דָּבָר, 'on account of Sarah'. Rashi reads the noun as 'word'; that reading is in the commentary.",
+        "The disjunctive accents divide the verse: the pashta on עָצַר (20:18.3), the tipḥa on רֶחֶם (20:18.7) and on שָׂרָה (20:18.12), and the silluq on אַבְרָהָם (20:18.14). The closed paragraph mark (ס) after the verse ends a section."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:20:18:1", "relation": "follows", "summary": "Ibn Ezra: 'all the wombs' (כל רחם) is an argument against those who held that Abimelech himself was restrained, and the verb וַיֵלֵדו refers to the women, as in 'ויחמו הצאן' (Genesis 30:39), where the verb is plural and its subject a collective. The English takes the wombs as the women's and does not make Abimelech the subject of the birth."},
+        {"anchor": "rashi:20:18:1", "relation": "records", "summary": "Rashi glosses בְּעַד as כְּנֶגֶד כָּל פֶּתַח, 'against every opening': the closing is a barring of each opening. The English keeps 'closed fast all the wombs' and does not adopt the gloss, so the preposition's sense is left open."},
+        {"anchor": "rashi:20:18:2", "relation": "records", "summary": "Rashi: עַל דִּבּוּרָהּ שֶׁל שָׂרָה, 'by the speech of Sarah'. He reads דָּבָר as 'word' (I), so that Sarah's speaking was the cause of the closing. The English follows the idiom 'on account of' (IV) and does not say what Sarah said."},
+        {"anchor": "radak:20:18:1", "relation": "records", "summary": "Radak: the closing was on the women, or also on the animals, as the sages said that a hen did not lay her egg (בְּנָשִׁים אוֹ גַּם בִּבְהֵמוֹת). The English 'all the wombs of the house' does not limit the wombs to women, and Radak's wider reading is recorded here; Ibn Ezra's reading is the one followed in 20:17."},
+        {"anchor": "sforno:20:18:1", "relation": "not-applicable", "summary": "Sforno: the closing was to bring death on the offspring if Abimelech did not repent, as God had warned him: 'know that you shall surely die, you and all that is yours' (20:7). This is the purpose of the closing, not a reading of the words."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "21:1",
+      "english": "The LORD attended to Sarah as he had said, and the LORD did for Sarah as he had spoken.",
+      "literal": "and-the-LORD attended-to (object marker) Sarah as-he-said, and-did the-LORD for-Sarah as-he-spoke",
+      "tokens": [
+        {"id": "21:1.1", "gloss": "and the LORD", "sense": "I", "note": "The divine name with the conjunction, the subject of the clause."},
+        {"id": "21:1.2", "gloss": "attended to", "sense": "Qal A.1.b", "note": "Qal of פָּקַד with the object marker: to attend to a person, to see to. Ramban's 'remembrance and oversight' is the same sense."},
+        {"id": "21:1.3", "gloss": "(object marker)"},
+        {"id": "21:1.4", "gloss": "Sarah"},
+        {"id": "21:1.5", "gloss": "as", "sense": "1", "note": "Conjunction 'as' ('according to that which'). It refers back to the promise of 17:16 and 18:10–14."},
+        {"id": "21:1.6", "gloss": "he had said", "sense": "Qal 1", "note": "Qatal of אָמַר. The speech is the promise of a son."},
+        {"id": "21:1.7", "gloss": "and did", "sense": "Qal I.1", "note": "Qal wayyiqtol of עָשָׂה, third masculine singular. The subject is the LORD, named again in 21:1.8."},
+        {"id": "21:1.8", "gloss": "the LORD", "sense": "I"},
+        {"id": "21:1.9", "gloss": "for Sarah", "note": "The preposition ל with the object of the act: 'for' or 'to' Sarah."},
+        {"id": "21:1.10", "gloss": "as", "sense": "1"},
+        {"id": "21:1.11", "gloss": "he had spoken", "sense": "Pi", "note": "Piel qatal of דָּבַר. The second clause repeats the promise under the verb 'speak'."}
+      ],
+      "phrases": [
+        {"tokens": ["21:1.1", "21:1.2", "21:1.3", "21:1.4"], "english": "The LORD attended to Sarah", "literal": "'and-the-LORD attended-to (object marker) Sarah': the subject is the LORD; 'and' is not translated at the start of the sentence"},
+        {"tokens": ["21:1.5", "21:1.6"], "english": "as he had said", "literal": "'as-he-said': the promise of 17:16 and 18:10–14"},
+        {"tokens": ["21:1.7", "21:1.8", "21:1.9"], "english": "and the LORD did for Sarah", "literal": "'and-did the-LORD for-Sarah': the second clause names its subject and object again"},
+        {"tokens": ["21:1.10", "21:1.11"], "english": "as he had spoken", "literal": "'as-he-spoke': the same promise under the verb 'speak'"}
+      ],
+      "grammar": [
+        "The verse has two parallel clauses, each with כַּאֲשֶׁר and a qatal: 'as he had said' (אָמָר) and 'as he had spoken' (דִּבֵּר). The English keeps both verbs.",
+        "פָּקַד here is attention, not visitation: its object is Sarah, and the sense is 'to attend to' (A.1.b).",
+        "The second clause names the LORD again, so the verse ends with the LORD's act. The subject of the first clause is the LORD, so the sentence reads as one act with two halves.",
+        "The accents divide the verse: the tevir on the divine name (21:1.1) opens the first clause, the etnaḥta on אָמָר (21:1.6) closes it, and the silluq on דִּבֵּר (21:1.11) closes the verse."
+      ],
+      "apparatus": [
+        "21:1.1: WLC points the name וַֽיהוָ֛ה (without the holem); the base text points וַֽיהֹוָ֛ה. The name is the same and the English is the same."
+      ],
+      "commentary": [
+        {"anchor": "ramban:21:1:1", "relation": "follows", "summary": "Ramban: פְּקִידָה is 'remembrance and oversight' (לְשׁוֹן זְכִירָה וְהַשְׁגָּחָה) over the one attended to, as in 'the LORD remembered Rachel'. He reads 'as he had said' as the conception and 'as he had spoken' as the birth, following Rashi. The English 'attended to' follows his sense of the verb; the split between the two clauses is not carried in the English."},
+        {"anchor": "rashi:21:1:1", "relation": "not-applicable", "summary": "Rashi: the verse is placed after the prayer to teach that one who prays for another is answered first. This is a homily, not the sense of the words."},
+        {"anchor": "rashi:21:1:2", "relation": "records", "summary": "Rashi: 'as he had said' (כַּאֲשֶׁר אָמָר) means as to the conception (בְּהֵרָיוֹן). The English leaves both clauses as 'as he had said' and 'as he had spoken' and does not assign them to conception and birth."},
+        {"anchor": "rashi:21:1:3", "relation": "records", "summary": "Rashi: 'as he had spoken' (כַּאֲשֶׁר דִּבֶּר) means as to the birth (בְּלֵדָה), since the promise of the child is the speech of 17:19. The English does not assign the clause to the birth."},
+        {"anchor": "rashi:21:1:4", "relation": "records", "summary": "Rashi glosses לְשָׂרָה as לְאַבְרָהָם, 'for Abraham'. The English keeps 'for Sarah', as the Hebrew names her."},
+        {"anchor": "sforno:21:1:1", "relation": "not-applicable", "summary": "Sforno: Abraham prayed for Abimelech, and the LORD attended to Sarah, as 'the LORD returned the captivity of Job when he prayed for his friend' (Job 42:10). He links the two events; the English states only the words."},
+        {"anchor": "sforno:21:1:2", "relation": "not-applicable", "summary": "Sforno: 'as he had said' points to 'I will bless her' (17:16), by which the LORD removed from her the curse of Eve in conception, bearing and growth. A cross-reference."}
+      ],
+      "context": []
+    },
+    {
+      "ref": "21:2",
+      "english": "Sarah conceived and bore Abraham a son in his old age, at the appointed time that God had spoken to him.",
+      "literal": "and-she-conceived and-she-bore Sarah to-Abraham son in-his-old-age at the-appointed-time which spoke with-him God",
+      "note": "The speaker of 'the appointed time' is 'God' in the Hebrew. Ibn Ezra's reading, that the speaker was the messenger of 18:9–10, is recorded in the commentary and not carried into the English.",
+      "tokens": [
+        {"id": "21:2.1", "gloss": "and she conceived", "sense": "Qal 1", "note": "Wayyiqtol of הָרָה, feminine singular, with Sarah as subject. Radak notes that the conception is not stated first; the two verbs are given as one act."},
+        {"id": "21:2.2", "gloss": "and she bore", "sense": "Qal 1", "note": "Wayyiqtol of יָלַד, feminine singular: the same subject as the verb before."},
+        {"id": "21:2.3", "gloss": "Sarah"},
+        {"id": "21:2.4", "gloss": "for Abraham", "note": "The preposition ל of the one for whom the child is born; 'bore Abraham a son' is the idiom, as with Hagar (16:15)."},
+        {"id": "21:2.5", "gloss": "a son", "sense": "1"},
+        {"id": "21:2.6", "gloss": "in his old age", "note": "The plural זְקֻנִים with a singular suffix. Radak notes that this noun keeps its plural form."},
+        {"id": "21:2.7", "gloss": "at the appointed time", "sense": "1", "note": "The appointed time of 18:10 and 18:14."},
+        {"id": "21:2.8", "gloss": "that", "note": "The relative particle."},
+        {"id": "21:2.9", "gloss": "had spoken", "sense": "Pi", "note": "Piel qatal of דָּבַר."},
+        {"id": "21:2.10", "gloss": "to him", "note": "The object marker with דִּבֶּר means 'speak to' or 'speak with'."},
+        {"id": "21:2.11", "gloss": "God", "sense": "3", "note": "The God of Israel: sense 3."}
+      ],
+      "phrases": [
+        {"tokens": ["21:2.1", "21:2.2", "21:2.3"], "english": "Sarah conceived and bore", "literal": "'and-she-conceived and-she-bore Sarah': two wayyiqtol verbs with one subject; the English puts the subject first"},
+        {"tokens": ["21:2.4", "21:2.5"], "english": "Abraham a son", "literal": "'to-Abraham son': the dative names the father; the child is his"},
+        {"tokens": ["21:2.6"], "english": "in his old age", "literal": "'in-his-old-age': the plural noun with its suffix"},
+        {"tokens": ["21:2.7", "21:2.8", "21:2.9", "21:2.10", "21:2.11"], "english": "at the appointed time that God had spoken to him", "literal": "'at the-appointed-time which spoke with-him God': a relative clause; the object marker with the verb is 'to him'"}
+      ],
+      "grammar": [
+        "Two wayyiqtol verbs share one subject, 'conceived and bore'. Radak explains the order: the conception is not mentioned first, so both are given as one act, as in 4:1.",
+        "לְאַבְרָהָם is the dative of the person for whom the child is born. The English 'bore Abraham a son' keeps the dative as the idiom has it.",
+        "לִזְקֻנָיו has a plural noun 'old age' with a singular suffix; the English 'in his old age' renders the sense, and Radak's note on the plural form is in the commentary.",
+        "לַמּוֹעֵד is 'the appointed time' with the article. It refers back to the promise of 18:10 and 18:14.",
+        "The accents divide the verse: the zaqef gadol on לַמּוֹעֵד (21:2.7) closes the first part, and the silluq on אֱלֹהִים (21:2.11) closes the verse."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:21:2:1", "relation": "records", "summary": "Ibn Ezra: 'the appointed time that he had spoken to him': the one who spoke was 'the messenger who asked, where is Sarah your wife' (18:9), who also turned back to him, for so he had said to him (המלאך ששאל איה שרה אשתך, גם שב אליו כי כן אמר לו). He identifies the speaker as the messenger rather than God. The English keeps the Hebrew subject, 'God', since the identity of the speaker is what happened, and the reading is recorded here."},
+        {"anchor": "radak:21:2:1", "relation": "follows", "summary": "Radak: the conception is not mentioned first, so 'and she conceived and bore' is given as one act, as in 'and she conceived and bore Cain' (4:1). The English gives the two verbs together."},
+        {"anchor": "radak:21:2:2", "relation": "follows", "summary": "Radak: 'bore to Abraham' is the normal idiom, as in 'Hagar bore Abraham a son' (16:15): the woman gives fruit to her husband as the earth does, and the child is named for the father. The English 'bore Abraham a son' follows it."},
+        {"anchor": "radak:21:2:4", "relation": "follows", "summary": "Radak: the plural זְקֻנִים keeps its plural form, as do נְעוּרִים and בְּתוּלִים, and Abraham stood in his old age and begot. The English 'in his old age' renders the plural as the sense of the noun."},
+        {"anchor": "radak:21:2:5", "relation": "follows", "summary": "Radak: אֲשֶׁר דִּבֶּר אֹתוֹ means 'spoke with him' (כְּמוֹ עִמּוֹ), as in 'I will speak with you' (Exodus 25:22). The English 'spoke to him' follows this."},
+        {"anchor": "rashi:21:2:1", "relation": "not-applicable", "summary": "Rashi: the appointed time was fixed by a mark. Abraham scratched a mark on the wall and said that when the sun reached it in the next year she would bear. This is a story, not the plain sense of מוֹעֵד."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "21:3",
+      "english": "Abraham named his son, who was born to him, whom Sarah bore to him, Isaac.",
+      "literal": "and-called Abraham (object marker) name-of his-son the-one-born to-him who bore to-him Sarah Isaac",
+      "tokens": [
+        {"id": "21:3.1", "gloss": "and named", "sense": "Qal 6", "note": "Wayyiqtol of קָרָא, 'call, name'. The verb takes the name of the son as its object."},
+        {"id": "21:3.2", "gloss": "Abraham"},
+        {"id": "21:3.3", "gloss": "(object marker)"},
+        {"id": "21:3.4", "gloss": "name of", "sense": "2.a", "note": "Construct of שֵׁם, 'name' (of a person). 'Called the name of his son' is 'named his son'."},
+        {"id": "21:3.5", "gloss": "his son", "sense": "1"},
+        {"id": "21:3.6", "gloss": "who was born", "sense": "Niph", "note": "Niphal with the article, used as a relative: 'the one born to him'. Its parse is perfect; the form works as a participle."},
+        {"id": "21:3.7", "gloss": "to him"},
+        {"id": "21:3.8", "gloss": "who", "note": "The relative particle."},
+        {"id": "21:3.9", "gloss": "bore", "sense": "Qal 1", "note": "Qatal of יָלַד, feminine singular, with Sarah as subject."},
+        {"id": "21:3.10", "gloss": "to him"},
+        {"id": "21:3.11", "gloss": "Sarah"},
+        {"id": "21:3.12", "gloss": "Isaac", "note": "The name is explained in 21:6, where Sarah plays on the root צחק."}
+      ],
+      "phrases": [
+        {"tokens": ["21:3.1", "21:3.2", "21:3.3", "21:3.4", "21:3.5"], "english": "Abraham named his son", "literal": "'and-called Abraham (object marker) name-of his-son': 'called the name of his son', that is, named him"},
+        {"tokens": ["21:3.6", "21:3.7"], "english": "who was born to him", "literal": "'the-one-born to-him': the niphal with the article"},
+        {"tokens": ["21:3.8", "21:3.9", "21:3.10", "21:3.11"], "english": "whom Sarah bore to him", "literal": "'who bore to-him Sarah': the relative clause repeats the birth, with Sarah as subject"},
+        {"tokens": ["21:3.12"], "english": "Isaac", "literal": "'Isaac': the name, as given"}
+      ],
+      "grammar": [
+        "וַיִּקְרָא אֶת־שֶׁם־בְּנוֹ is 'called the name of his son'. The English idiom 'named his son' keeps the sense; the name follows as an apposition.",
+        "הַנּוֹלַד־לוֹ and אֲשֶׁר יָלְדָה־לּוֹ say the same thing twice: the child was born to Abraham, and Sarah bore him. The English keeps both relative clauses.",
+        "The silluq on יִצְחָק (21:3.12) closes the verse on the name."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:21:3:1", "relation": "follows", "summary": "Ibn Ezra: the name was neither lengthened nor changed (ולא הוסיף השם על שם יצחק ולא החליפו), because God had commanded that he be called so (כִּי הוּא צִוָּה לִקְרֹאוֹ כֵּן). The English gives the name Isaac with no addition and no gloss; the meaning of the name is in 21:6."},
+        {"anchor": "radak:21:3:1", "relation": "not-applicable", "summary": "Radak: the naming is as God had told Abraham, 'you shall call his name Isaac' (17:19). A cross-reference."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "21:4",
+      "english": "Abraham circumcised his son Isaac at eight days old, as God had commanded him.",
+      "literal": "and-circumcised Abraham (object marker) Isaac his-son son-of eight days as-commanded him God",
+      "tokens": [
+        {"id": "21:4.1", "gloss": "and circumcised", "sense": "Qal", "note": "Wayyiqtol of מוּל, qal: the active, 'circumcise'."},
+        {"id": "21:4.2", "gloss": "Abraham"},
+        {"id": "21:4.3", "gloss": "(object marker)"},
+        {"id": "21:4.4", "gloss": "Isaac"},
+        {"id": "21:4.5", "gloss": "his son", "sense": "1"},
+        {"id": "21:4.6", "gloss": "at (son of)", "sense": "9", "note": "בֶּן with a period of age: 'a son of eight days', that is, eight days old."},
+        {"id": "21:4.7", "gloss": "eight"},
+        {"id": "21:4.8", "gloss": "days", "sense": "4"},
+        {"id": "21:4.9", "gloss": "as", "sense": "1", "note": "The conjunction 'as' with a verb of commanding; the command is 17:12."},
+        {"id": "21:4.10", "gloss": "had commanded"},
+        {"id": "21:4.11", "gloss": "him", "note": "The object marker with a suffix: 'him', masculine, the boy."},
+        {"id": "21:4.12", "gloss": "God", "sense": "3"}
+      ],
+      "phrases": [
+        {"tokens": ["21:4.1", "21:4.2", "21:4.3"], "english": "Abraham circumcised", "literal": "'and-circumcised Abraham (object marker)': the qal of מוּל, with Abraham as subject"},
+        {"tokens": ["21:4.4", "21:4.5"], "english": "his son Isaac", "literal": "'Isaac his-son': the object, with the possessive"},
+        {"tokens": ["21:4.6", "21:4.7", "21:4.8"], "english": "at eight days old", "literal": "'son-of eight days': the age, as the idiom has it"},
+        {"tokens": ["21:4.9", "21:4.10", "21:4.11", "21:4.12"], "english": "as God had commanded him", "literal": "'as-commanded him God': the command of 17:12"}
+      ],
+      "grammar": [
+        "וַיָּמׇל is the qal of מוּל, 'circumcise', with Abraham as subject and the boy as object. The verb comes before its subject, as narrative order has it.",
+        "בֶּן־שְׁמֹנַת יָמִים is the age in the idiom 'son of', 'a son of eight days'. The English 'at eight days old' gives the sense.",
+        "כַּאֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים refers back to the command of 17:12 with a masculine object. The etnaḥta on יָמִים (21:4.8) divides the clause from the command."
+      ],
+      "commentary": [
+        {"anchor": "radak:21:4:1", "relation": "not-applicable", "summary": "Radak: 'as he commanded' refers to 17:12, 'at eight days old every male among you shall be circumcised'. He notes that the sages derived a point from the wording (דָּרְשׁוּ); that is homily, not the plain sense."},
+        {"anchor": "radak:21:4:2", "relation": "not-applicable", "summary": "Radak: the masculine object אֹתוֹ shows that the father, not the mother, is the one commanded to circumcise. This is a point of law, and it does not bear on the English."}
+      ],
+      "apparatus": [],
+      "context": [
+        "Circumcision was practised in Egypt and among some other peoples of the region. The text gives its age as the eighth day and its meaning as a sign of the covenant (17:11). The origin of the rite is disputed; the text does not explain it beyond the covenant."
+      ]
+    },
+    {
+      "ref": "21:5",
+      "english": "And Abraham was a hundred years old when Isaac his son was born to him.",
+      "literal": "and-Abraham son-of hundred year in-being-born to-him (object marker) Isaac son-his",
+      "tokens": [
+        {"id": "21:5.1", "gloss": "and Abraham"},
+        {"id": "21:5.2", "gloss": "old (son of)", "sense": "9", "note": "בֶּן with a period of age: 'a son of a hundred years', that is, a hundred years old."},
+        {"id": "21:5.3", "gloss": "a hundred", "sense": "1"},
+        {"id": "21:5.4", "gloss": "years"},
+        {"id": "21:5.5", "gloss": "when … was born", "sense": "Niph", "note": "Niphal infinitive construct with the preposition ב: 'in his being born', rendered as a clause of time."},
+        {"id": "21:5.6", "gloss": "to him"},
+        {"id": "21:5.7", "gloss": "(object marker)", "note": "The object marker after a niphal verb: an addition for clarity (see commentary). It has no English counterpart."},
+        {"id": "21:5.8", "gloss": "Isaac"},
+        {"id": "21:5.9", "gloss": "his son", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["21:5.1", "21:5.2", "21:5.3", "21:5.4"], "english": "Abraham was a hundred years old", "literal": "'and-Abraham son-of hundred year': the age, in the idiom 'son of a hundred years'"},
+        {"tokens": ["21:5.5", "21:5.6", "21:5.7", "21:5.8", "21:5.9"], "english": "when Isaac his son was born to him", "literal": "'in-being-born to-him (object marker) Isaac son-his': the time clause, with Isaac as the subject of the niphal"}
+      ],
+      "grammar": [
+        "בֶּן־מְאַת שָׁנָה is the idiom 'son of a hundred years' for age. The English 'a hundred years old' gives the sense.",
+        "בְּהִוָּלֶד לוֹ is the niphal infinitive construct with ב, 'when he was born'; Isaac is its subject, and the marker before him is not translated.",
+        "The verse gives Abraham's age at the birth, which matches 17:17. The etnaḥta on שָׁנָה (21:5.4) divides the age from the birth clause; the silluq on בְּנוֹ (21:5.9) closes the verse."
+      ],
+      "commentary": [
+        {"anchor": "radak:21:5:1", "relation": "follows", "summary": "Radak: the את after the niphal בְּהִוָּלֶד is an addition for clarity, as in 'the land shall be divided' (יֵחָלֵק אֶת הָאָרֶץ, Numbers 26:55). The English gives Isaac as the subject of 'was born' and renders the marker as nothing."},
+        {"anchor": "sforno:21:5:1", "relation": "not-applicable", "summary": "Sforno: even so, Abraham circumcised his son, and did not spare himself because the son was a son of old age. This is a comment on his conduct, not on the words."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "21:6",
+      "english": "And Sarah said, \"God has made laughter for me; everyone who hears will laugh for me.\"",
+      "literal": "and-said Sarah laughter made for-me God; every the-one-who-hears will-laugh for-me",
+      "tokens": [
+        {"id": "21:6.1", "gloss": "and said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר, feminine singular: the speech introduces Sarah's words."},
+        {"id": "21:6.2", "gloss": "Sarah"},
+        {"id": "21:6.3", "gloss": "laughter", "note": "The noun from צחק. The name Isaac, יִצְחָק, is built on the same root (21:3), and the verse plays on it."},
+        {"id": "21:6.4", "gloss": "has made", "sense": "Qal II.1", "note": "Qatal of עָשָׂה, 'make', with 'laughter' as object: God has made laughter for her."},
+        {"id": "21:6.5", "gloss": "for me", "note": "The dative of the speaker: 'for me', or 'on my account' (Radak), or 'with me'. The English keeps the dative."},
+        {"id": "21:6.6", "gloss": "God", "sense": "3"},
+        {"id": "21:6.7", "gloss": "everyone", "sense": "1", "note": "כָּל with a participle: 'everyone who hears'."},
+        {"id": "21:6.8", "gloss": "who hears", "sense": "Qal 1", "note": "Qal participle, masculine singular, with the article: 'the one who hears'."},
+        {"id": "21:6.9", "gloss": "will laugh", "sense": "Qal", "note": "Yiqtol of צָחַק, qal: 'laugh'. Rashi and Sforno read 'rejoice'; see the commentary."},
+        {"id": "21:6.10", "gloss": "for me", "note": "The same dative as 21:6.5."}
+      ],
+      "phrases": [
+        {"tokens": ["21:6.1", "21:6.2"], "english": "Sarah said", "literal": "'and-said Sarah': the speech formula"},
+        {"tokens": ["21:6.3", "21:6.4", "21:6.5", "21:6.6"], "english": "God has made laughter for me", "literal": "'laughter made for-me God': the object comes first, the subject last"},
+        {"tokens": ["21:6.7", "21:6.8", "21:6.9", "21:6.10"], "english": "everyone who hears will laugh for me", "literal": "'every the-one-who-hears will-laugh for-me': a general statement about the hearers"}
+      ],
+      "grammar": [
+        "צְחֹק (laughter) is the noun from the root צחק, the root of the name Isaac. Sarah's words give the reason for the name, which is explained in the verse itself and is not put into the English of 21:3.",
+        "עָשָׂה has God as its subject and laughter as its object: 'God has made laughter for me'.",
+        "כָּל־הַשֹּׁמֵעַ is 'everyone who hears', with the participle with the article. The yiqtol יִצְחַק is 'will laugh'.",
+        "The accents: the zaqef qaton on שָׂרָה (21:6.2) and the zaqef gadol on צְחֹק (21:6.3) divide the speech; the silluq on לִי (21:6.10) closes the verse."
+      ],
+      "commentary": [
+        {"anchor": "rashi:21:6:1", "relation": "records", "summary": "Rashi: יִצְחַק means 'will rejoice over me' (יִשְׂמַח עָלַי). The rest of his comment is a homily on the barren women who were given children with her. The English keeps 'laugh', the sense of the qal in the lexicon."},
+        {"anchor": "radak:21:6:1", "relation": "follows", "summary": "Radak: she says the name is apt, since the birth is a wonder to her, and everyone who hears of it will laugh 'on my account' (בַּעֲבוּרִי), as one laughs at a thing that astonishes. The English 'laugh for me' keeps the dative open to this sense."},
+        {"anchor": "onkelos:21:6:1", "relation": "records", "summary": "Targum Onkelos renders צְחֹק as 'joy' (חֶדְוָא) and יִצְחַק as 'rejoice with me' (יֶחֱדֵּי לִי). The English keeps 'laughter' and 'laugh'."},
+        {"anchor": "sforno:21:6:1", "relation": "not-applicable", "summary": "Sforno: though circumcision brings pain to the child, God gave joy to her heart. This is a comment on her feeling, not on the words."},
+        {"anchor": "sforno:21:6:2", "relation": "records", "summary": "Sforno: the word means 'will rejoice on my behalf' (וְיִשְׂמַח בַּעֲדִי), and not be anxious about the pain of circumcision. The English keeps 'laugh'; the reading is recorded."}
+      ],
+      "apparatus": [],
+      "context": []
+    }
+  ]
+}
