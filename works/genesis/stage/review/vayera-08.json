@@ -1,0 +1,540 @@
+{
+ "unit": "vayera-08",
+ "model": "sonnet",
+ "summary": "A careful unit whose English is close to the Hebrew and consistent with Ibn Ezra throughout, including his reading of אֲשֶׁר בָּהֵן as 'in one of which'. The faults are in the notes and summaries: false statements about the accents (19:28) and about the object marker (19:25), a claim that the decisions require 'from the LORD', an apparatus form not in the text, and several commentary summaries that misreport or truncate Rashi (David's words), Radak (the heap of salt, the lime-kiln, the sense of בַּהֲפֹךְ), Sforno and Ibn Ezra (Zoar, the trees). In 19:27 the English lacks a verb of motion. 'The firstborn' is changed to 'the elder', and several context notes are corrected or added.",
+ "patches": [
+  {
+   "ref": "19:24",
+   "path": "note",
+   "value": "The English repeats 'the LORD' for מֵאֵת יְהוָה, as the Hebrew does. Ibn Ezra takes the repetition as elegant style (לשון צחות) for 'from him'; the English keeps the name so that the repetition he describes is visible. The decisions do not themselves require the name to be kept.",
+   "severity": "error",
+   "reason": "The note says 'as the decisions require', but decisions.md says nothing of the kind; the reason is Ibn Ezra's comment."
+  },
+  {
+   "ref": "19:24",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:24.1",
+      "19:24.2"
+     ],
+     "english": "The LORD rained",
+     "literal": "'and-the-LORD rained': the subject comes first, then the completed act"
+    },
+    {
+     "tokens": [
+      "19:24.3",
+      "19:24.4"
+     ],
+     "english": "on Sodom",
+     "literal": "'on Sodom'"
+    },
+    {
+     "tokens": [
+      "19:24.5",
+      "19:24.6"
+     ],
+     "english": "and on Gomorrah",
+     "literal": "'and-on Gomorrah': the preposition repeated before the second city"
+    },
+    {
+     "tokens": [
+      "19:24.7",
+      "19:24.8"
+     ],
+     "english": "brimstone and fire",
+     "literal": "'brimstone and-fire': the two things rained, without a preposition"
+    },
+    {
+     "tokens": [
+      "19:24.9",
+      "19:24.10"
+     ],
+     "english": "from the LORD",
+     "literal": "'from-with the-LORD': the name is repeated as in the Hebrew; Ibn Ezra takes it as 'from him'"
+    },
+    {
+     "tokens": [
+      "19:24.11",
+      "19:24.12"
+     ],
+     "english": "from the heavens",
+     "literal": "'from the-heavens': the place from which the fire came"
+    }
+   ],
+   "severity": "style",
+   "reason": "The phrase literal repeated the false 'as the decisions require'."
+  },
+  {
+   "ref": "19:24",
+   "path": "apparatus",
+   "value": [
+    "19:24.1 vowels: the WLC reads וַֽיהוָ֗ה; the base text reads וַֽיהֹוָ֗ה. The English is 'the LORD' in both."
+   ],
+   "severity": "error",
+   "reason": "The base text has no shewa under the yod (pack: וַֽיהֹוָ֗ה); the apparatus invented וַיְהֹוָה."
+  },
+  {
+   "ref": "19:24",
+   "path": "commentary:ibn-ezra:19:24:1.summary",
+   "value": "Ibn Ezra: מֵאֵת ה' is an elegant turn of speech (לשון צחות); the sense is מֵאִתּוֹ, 'from him'. He adds that one finds 'the children of Israel' several times in a single verse. The English repeats 'the LORD', as the Hebrew does, and so follows him: it is the LORD who rains, and the repeated name is style, not a second person.",
+   "severity": "error",
+   "reason": "The summary left out the second half of the comment (the parallel of repeated names in one verse)."
+  },
+  {
+   "ref": "19:24",
+   "path": "commentary:rashi:19:24:4.summary",
+   "value": "Rashi: it is the way of Scripture to speak so: 'wives of Lamech' and not 'my wives'; David says 'take with you the servants of your lord' and not 'my servants'; Ahasuerus has it written 'in the name of the king' and not 'in my name'. So here 'from the LORD' and not 'from me': God speaks of himself by name. The English keeps the third person.",
+   "severity": "error",
+   "reason": "The summary garbled the David example ('your lords'): David said 'the servants of your lord' (1 Kings 1) instead of 'my servants'."
+  },
+  {
+   "ref": "19:24",
+   "path": "context",
+   "value": [
+    "The plain (הַכִּכָּר) is the district around the lower Jordan where the text places Sodom and Gomorrah (13:10–12). Chapter 14 names five cities of the plain, one of them Bela, which is Zoar (14:2, 8).",
+    "Brimstone (גָּפְרִית) is sulphur. Some readers take the fire and sulphur to be a natural catastrophe; the text names the LORD as the one who sent it, and the English follows the text.",
+    "In the text's picture of the world the heavens (שָׁמַיִם) are the sky above the earth, from which rain comes, and also the place where God is. Fire, like rain, comes down from there."
+   ],
+   "severity": "style",
+   "reason": "The first note stated the location of the cities more firmly than the text does; a note on the heavens is needed for 'from the heavens'."
+  },
+  {
+   "ref": "19:25",
+   "path": "grammar",
+   "value": [
+    "The verse is a list of four objects of one verb. The first three are each marked by the object marker אֵת (the second and third joined by the vav as well); the fourth, וְצֶמַח הָאֲדָמָה, has the vav but no אֵת. The English keeps the repeated 'and all'.",
+    "The wayyiqtol וַיַּהֲפֹךְ continues the narrative from the qatal of v. 24 and gives the act: he overturned.",
+    "כׇּל־יֹשְׁבֵי הֶעָרִים is a construct chain: the participle יֹשְׁבֵי governs the noun 'the cities'. The English 'the inhabitants of the cities' keeps the chain.",
+    "The etnaḥta on הַכִּכָּר divides the verse. The tipḥa on צֶמַח, a construct, marks a pause before הָאֲדָמָה, and the silluq on הָאֲדָמָה ends the verse and the last object."
+   ],
+   "severity": "error",
+   "reason": "The first note said every object after the first has אֵת; the fourth (וְצֶמַח) does not. The accent note was also loose."
+  },
+  {
+   "ref": "19:25",
+   "path": "token:19:25.4.note",
+   "value": "הָאֵל is a rare short form of the demonstrative הָאֵלֶּה, 'these'; it follows its noun: 'the cities these'.",
+   "severity": "style",
+   "reason": "A learner should be told that הָאֵל is the short form of הָאֵלֶּה."
+  },
+  {
+   "ref": "19:25",
+   "path": "commentary:ibn-ezra:19:25:1.summary",
+   "value": "Ibn Ezra: נשרפו האילנות, 'the trees were burned'. He takes וְצֶמַח הָאֲדָמָה as the trees of the ground, burned in the fire. The English 'the growth of the ground' is the general word, which covers the trees he names.",
+   "severity": "style",
+   "reason": "He names the trees only, not 'plants and trees'."
+  },
+  {
+   "ref": "19:25",
+   "path": "commentary:radak:19:25:1.summary",
+   "value": "Radak: God turned the land from good to bad: it had been a land of pasture, 'all of it well watered' (13:10), and he rained brimstone and fire, burned it and felled all the cities and everything in them, men, beasts and the growth of the ground, so that the whole land was a burning and nothing grew in it again; its air too was burned, so that no bird flew over it (Job 28). That, he says, is the overthrow. The English keeps 'overturned' and records his wider reading.",
+   "severity": "style",
+   "reason": "The summary reduced Radak to a change from good to bad; he describes burning and felling of cities and all that was in them."
+  },
+  {
+   "ref": "19:26",
+   "path": "commentary:ibn-ezra:19:26:2.summary",
+   "value": "Ibn Ezra: נְצִיב is in the sense of מַצֵּבָה, a standing monument, because her substance was burned in the brimstone and she was with salt, for it is written 'brimstone and salt ... like the overthrow of Sodom' (Dt 29:22). He adds that this verse also shows she had escaped as far as Zoar, as the angel too said. The English 'pillar' keeps the sense of a standing monument.",
+   "severity": "error",
+   "reason": "The summary left out his remark that she reached Zoar, and 'body' for עצמית hides that the Hebrew says her substance."
+  },
+  {
+   "ref": "19:26",
+   "path": "commentary:radak:19:26:2.summary",
+   "value": "Radak glosses נְצִיב מֶלַח as like תֵּל מֶלַח, a mound of salt; his next comment (19:26:3) adds that she stood upright when she looked back and so turned to salt in her stature. Radak thus gives the form as a mound but a standing one; the English 'pillar' keeps the standing form and records his 'mound'.",
+   "severity": "error",
+   "reason": "The summary said Radak reads 'a heap'; his comment on נְצִיב says she became salt standing, in her stature."
+  },
+  {
+   "ref": "19:26",
+   "path": "commentary:radak:19:26:3",
+   "value": {
+    "relation": "follows",
+    "summary": "Radak on נְצִיב: as she stood upright when she looked behind her, so she turned to salt in her stature (בקומתה). This is a standing figure, and the English 'pillar' follows it."
+   },
+   "severity": "error",
+   "reason": "A Radak comment on the key word that bears on the English had no ruling."
+  },
+  {
+   "ref": "19:26",
+   "path": "context",
+   "value": [
+    "Brimstone and salt are named together in Deuteronomy 29:22 as the ruin of a land overthrown by God, so salt belongs to the picture of the destruction in the text.",
+    "The word נְצִיב is used elsewhere of an officer or garrison posted in a place; its root is נצב, 'stand'. Here it is a standing figure of salt. Ibn Ezra takes it as a monument (מַצֵּבָה), Radak compares a mound (תֵּל) of salt and says she became salt standing; the English has 'pillar'.",
+    "The shores of the Dead Sea have large deposits of salt, and many readers connect the story with such formations; the text itself does not say so."
+   ],
+   "severity": "error",
+   "reason": "The old note said Radak reads a heap, which his comments do not support, and called נְצִיב a word for a standing stone, which the lexicon (pillar, prefect, garrison, post) does not show."
+  },
+  {
+   "ref": "19:27",
+   "path": "english",
+   "value": "And Abraham rose early in the morning and went to the place where he had stood before the LORD.",
+   "severity": "error",
+   "reason": "The Hebrew has the goal אֶל־הַמָּקוֹם with the verb of motion understood; 'rose early ... to the place' is not English. The resumptive שָׁם is not repeated in English."
+  },
+  {
+   "ref": "19:27",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:27.1",
+      "19:27.2",
+      "19:27.3"
+     ],
+     "english": "And Abraham rose early in the morning",
+     "literal": "'and-rose-early Abraham in-the-morning': the verb opens, then the subject and the time"
+    },
+    {
+     "tokens": [
+      "19:27.4",
+      "19:27.5",
+      "19:27.6",
+      "19:27.7",
+      "19:27.8"
+     ],
+     "english": "and went to the place where he had stood",
+     "literal": "'to the-place which he-stood there': the Hebrew has no verb of motion after וַיַּשְׁכֵּם, only אֶל; the English supplies 'went'. The resumptive 'there' is not repeated"
+    },
+    {
+     "tokens": [
+      "19:27.9",
+      "19:27.10",
+      "19:27.11"
+     ],
+     "english": "before the LORD",
+     "literal": "'before-face-of the-LORD': the idiom of standing in the presence of a superior"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English changed, so the phrases are replaced."
+  },
+  {
+   "ref": "19:27",
+   "path": "grammar",
+   "value": [
+    "The verb וַיַּשְׁכֵּם is a hifil wayyiqtol. 'Rose early' is an idiom, with the time phrase 'in the morning' after it. No verb of motion follows; אֶל־הַמָּקוֹם carries it, and the English adds 'went'.",
+    "The relative clause אֲשֶׁר עָמַד שָׁם is a qatal with an adverb: 'where he had stood', with שָׁם repeating the place.",
+    "The phrase עָמַד אֶת־פְּנֵי יְהוָה, 'stood before the LORD', names the place as the one where Abraham stood in 18:22; there the wording is עֹמֵד לִפְנֵי יְהוָה, here אֶת־פְּנֵי.",
+    "The zaqef qaton on הַמָּקוֹם and the tipḥa on שָׁם divide the relative clause. The silluq ends the verse on the divine name."
+   ],
+   "severity": "style",
+   "reason": "Adjusted to the new English; 18:22 does not use the same words."
+  },
+  {
+   "ref": "19:27",
+   "path": "token:19:27.8.note",
+   "value": "שָׁם, 'there', repeats the place named by הַמָּקוֹם; English does not need it and leaves it out.",
+   "severity": "style",
+   "reason": "The English drops 'there'."
+  },
+  {
+   "ref": "19:27",
+   "path": "commentary:sforno:19:27:1.summary",
+   "value": "Sforno: 'to the place where he had accompanied the angels', for there the hand of the LORD had been upon him; he meant to ask mercy for the cities, having found no merit in them at judgment. The motive is not in the Hebrew, so the English does not state it.",
+   "severity": "error",
+   "reason": "Sforno says the place where Abraham accompanied (לִוָּה) the angels, not 'where the angels had been'."
+  },
+  {
+   "ref": "19:27",
+   "path": "context",
+   "value": [
+    "To stand before a god or a king in the Hebrew Bible is the posture of an attendant or a petitioner. Here the place is the one where Abraham stood before the LORD to plead for the cities (18:22–33)."
+   ],
+   "severity": "style",
+   "reason": "A reader needs the idiom 'stand before' set in its setting."
+  },
+  {
+   "ref": "19:28",
+   "path": "grammar",
+   "value": [
+    "The two wayyiqtol verbs, וַיַּשְׁקֵף and וַיַּרְא, give the look and the seeing in sequence.",
+    "The repeated noun פְּנֵי ('face') means the surface of the ground over the cities. The English repeats 'over the face of' to keep the parallel.",
+    "וְהִנֵּה introduces the seen thing. Its qatal עָלָה is rendered 'rose': after הִנֵּה the qatal states what is there to be seen.",
+    "The etnaḥta on הַכִּכָּר ends the first half of the verse, the looking; the second half gives what he saw. The silluq closes the verse on הַכִּבְשָׁן."
+   ],
+   "severity": "error",
+   "reason": "The etnaḥta stands on הַכִּכָּר, not on הַכִּבְשָׁן; the note was false."
+  },
+  {
+   "ref": "19:28",
+   "path": "token:19:28.13.note",
+   "value": "qatal after הִנֵּה: what Abraham saw, the smoke going up; English 'rose'.",
+   "severity": "style",
+   "reason": "The note said 'had risen', which contradicted the grammar note's simple past."
+  },
+  {
+   "ref": "19:28",
+   "path": "commentary:radak:19:28:2",
+   "value": {
+    "relation": "records",
+    "summary": "Radak: a כִּבְשָׁן is where stones are burned to lime, or where pots are fired. The English 'furnace' follows Ibn Ezra's general 'place of fire'; Radak's lime-kiln or potter's kiln is the alternative."
+   },
+   "severity": "style",
+   "reason": "A Radak comment on the key noun had no ruling."
+  },
+  {
+   "ref": "19:29",
+   "path": "commentary:radak:19:29:3",
+   "value": {
+    "relation": "records",
+    "summary": "Radak glosses בַּהֲפֹךְ אֶת־הֶעָרִים as 'at the time when he wished to overturn', not 'while he overturned', since the angel said 'I cannot do anything until you come there' (19:22): Lot was brought out before the overturning began. The English 'when he overturned' keeps the plain tense and records his reading."
+   },
+   "severity": "error",
+   "reason": "Relation was not-applicable but Radak gives a different sense of the infinitive; the summary omitted his gloss."
+  },
+  {
+   "ref": "19:29",
+   "path": "context",
+   "value": [
+    "In this text God 'remembering' someone is God acting on a commitment to that person; it is not a recalling of something forgotten (compare Noah, 8:1)."
+   ],
+   "severity": "style",
+   "reason": "A reader needs the sense of 'remembered'."
+  },
+  {
+   "ref": "19:30",
+   "path": "token:19:30.15.note",
+   "value": "The independent pronoun הוּא follows the verb and resumes the subject, so that the daughters can be added to it: 'he and his two daughters'.",
+   "severity": "style",
+   "reason": "'he himself' implies emphasis, but the pronoun after the predicate expresses the subject with a minimum of emphasis (entry sense 3)."
+  },
+  {
+   "ref": "19:30",
+   "path": "context",
+   "value": [
+    "Zoar is named in the text as a small town that Lot asked to be spared (19:20–22); the text ties its name to the word 'small' (19:20, 22). It is the Bela of 14:2, 8.",
+    "Caves in hill country served as shelter and dwelling places."
+   ],
+   "severity": "style",
+   "reason": "The name is explained at 19:22, not only at 19:20; a note on the cave is useful."
+  },
+  {
+   "ref": "19:31",
+   "path": "english",
+   "value": "And the elder said to the younger, \"Our father is old, and there is no man in the land to come to us as is the way of all the earth.\"",
+   "severity": "style",
+   "reason": "'Firstborn' beside 'younger' reads as 'first child' and weakens the pair; הַבְּכִירָה is the elder in the pair (Ramban; Onkelos רַבְּתָא), which the token note already says."
+  },
+  {
+   "ref": "19:31",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:31.1",
+      "19:31.2"
+     ],
+     "english": "And the elder said",
+     "literal": "'and-she-said the-firstborn': the verb first, then the speaker; הַבְּכִירָה is the elder of the two"
+    },
+    {
+     "tokens": [
+      "19:31.3",
+      "19:31.4"
+     ],
+     "english": "to the younger",
+     "literal": "'to the-younger'"
+    },
+    {
+     "tokens": [
+      "19:31.5",
+      "19:31.6"
+     ],
+     "english": "Our father is old",
+     "literal": "'our-father old': the speech begins"
+    },
+    {
+     "tokens": [
+      "19:31.7",
+      "19:31.8",
+      "19:31.9"
+     ],
+     "english": "and there is no man in the land",
+     "literal": "'and-man there-is-not in-the-land': the existential clause"
+    },
+    {
+     "tokens": [
+      "19:31.10",
+      "19:31.11"
+     ],
+     "english": "to come to us",
+     "literal": "'to-come upon-us': a euphemism for sexual union"
+    },
+    {
+     "tokens": [
+      "19:31.12",
+      "19:31.13",
+      "19:31.14"
+     ],
+     "english": "as is the way of all the earth",
+     "literal": "'as-way-of all-the-earth': the custom the speaker takes for granted"
+    }
+   ],
+   "severity": "style",
+   "reason": "The English changed."
+  },
+  {
+   "ref": "19:31",
+   "path": "token:19:31.2.gloss",
+   "value": "the elder",
+   "severity": "style",
+   "reason": "Pairs with 'the younger'."
+  },
+  {
+   "ref": "19:31",
+   "path": "grammar",
+   "value": [
+    "The speech is the words of the elder daughter, in direct speech after the verb of saying. The English gives them in double quotation marks.",
+    "אָבִינוּ זָקֵן: the qatal of זָקֵן is stative, 'is old', and the subject 'our father' is first. The speech is a reason for what follows.",
+    "לָבוֹא עָלֵינוּ: 'come upon us' is an idiom; in this context it is a euphemism for sexual union, here with the aim of children. The English 'come to us' keeps the euphemism.",
+    "כְּדֶרֶךְ כׇּל־הָאָרֶץ: 'as is the way of all the earth'. The custom is taken for granted and the text does not describe it. The plan that follows is in v. 32."
+   ],
+   "severity": "style",
+   "reason": "Adjusted to 'elder'; 'marriage' is not what the idiom says."
+  },
+  {
+   "ref": "19:31",
+   "path": "commentary:radak:19:31:2.summary",
+   "value": "Radak: most commentators say the daughters thought the whole land was like Sodom and Gomorrah, with no man or woman left; he calls this far-fetched, since they had come out of Zoar, which was not overturned, and they had heard from their father that the cities were overturned for their people's wickedness. He prefers what he heard in the name of Joseph Kara: the elder meant that no man would want to take them as wives, since people would say they were of the men of the overturning. The English keeps the words general and records the reading.",
+   "severity": "style",
+   "reason": "The summary did not say that this is a view heard in the name of Joseph Kara, nor that Radak first rejects the majority reading."
+  },
+  {
+   "ref": "19:31",
+   "path": "context",
+   "value": [
+    "The daughters speak of 'coming in to' a woman as the normal way to marriage and children. In the text's world a family was continued through its children, and marriages were arranged by the father; the text gives their words without comment."
+   ],
+   "severity": "style",
+   "reason": "The old note said little; this one states the setting without inventing detail."
+  },
+  {
+   "ref": "19:29",
+   "path": "english",
+   "value": "When God destroyed the cities of the plain, God remembered Abraham and sent Lot out of the midst of the overthrow, when he overturned the cities in which Lot had lived.",
+   "severity": "error",
+   "reason": "editor: the English gives the plain words; Ibn Ezra's 'in one of them' explains the plural (decisions: a gloss on what happened is commentary)."
+  },
+  {
+   "ref": "19:29",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:29.1",
+      "19:29.2",
+      "19:29.3",
+      "19:29.4",
+      "19:29.5",
+      "19:29.6"
+     ],
+     "english": "When God destroyed the cities of the plain",
+     "literal": "'and-it-came-to-pass in-destroying God [ACC] cities-of the-plain': a temporal clause, with the verb in the infinitive"
+    },
+    {
+     "tokens": [
+      "19:29.7",
+      "19:29.8",
+      "19:29.9",
+      "19:29.10"
+     ],
+     "english": "God remembered Abraham",
+     "literal": "'and-he-remembered God [ACC] Abraham': the main clause"
+    },
+    {
+     "tokens": [
+      "19:29.11",
+      "19:29.12",
+      "19:29.13"
+     ],
+     "english": "and sent Lot",
+     "literal": "'and-sent [ACC] Lot': the second verb of the main clause"
+    },
+    {
+     "tokens": [
+      "19:29.14",
+      "19:29.15"
+     ],
+     "english": "out of the midst of the overthrow",
+     "literal": "'out-of-midst-of the-overthrow': where Lot was taken out from"
+    },
+    {
+     "tokens": [
+      "19:29.16",
+      "19:29.17",
+      "19:29.18"
+     ],
+     "english": "when he overturned the cities",
+     "literal": "'in-overturning [ACC] the-cities': the second temporal clause"
+    },
+    {
+     "tokens": [
+      "19:29.19",
+      "19:29.20",
+      "19:29.21",
+      "19:29.22"
+     ],
+     "english": "in which Lot had lived",
+     "literal": "'which dwelt in-them Lot': the relative clause; the plural בָּהֵן is kept. Ibn Ezra reads it as 'in one of them' (Lot lived in Sodom only); that is his explanation, recorded in the commentary."
+    }
+   ],
+   "severity": "error",
+   "reason": "editor: the English gives the plain words; Ibn Ezra's 'in one of them' explains the plural (decisions: a gloss on what happened is commentary)."
+  },
+  {
+   "ref": "19:29",
+   "path": "commentary:ibn-ezra:19:29:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra reads אֲשֶׁר בָּהֵן as 'in one of them' (באחת מהן): Lot lived in one of the cities. He cites Judges 12:7, Zechariah 9:9 and Leviticus 20:14 for a plural standing for a singular. The English keeps the plural of the Hebrew, 'in which Lot had lived'."
+   },
+   "severity": "error",
+   "reason": "editor: the English gives the plain words; Ibn Ezra's 'in one of them' explains the plural (decisions: a gloss on what happened is commentary)."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:19:24:1",
+   "verdict": "consistent",
+   "comment": "The English repeats the name as the Hebrew does; Ibn Ezra calls it style for 'from him'."
+  },
+  {
+   "anchor": "ibn-ezra:19:25:1",
+   "verdict": "consistent",
+   "comment": "'Growth of the ground' includes the trees he names."
+  },
+  {
+   "anchor": "ibn-ezra:19:26:1",
+   "verdict": "consistent",
+   "comment": "'Him' is Lot."
+  },
+  {
+   "anchor": "ibn-ezra:19:26:2",
+   "verdict": "consistent",
+   "comment": "'Pillar' keeps the standing monument."
+  },
+  {
+   "anchor": "ibn-ezra:19:28:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:19:28:2",
+   "verdict": "consistent",
+   "comment": "'Furnace' is a place of fire; 'kiln' would be the stricter word."
+  },
+  {
+   "anchor": "ibn-ezra:19:29:1",
+   "verdict": "consistent",
+   "comment": "The English keeps the plain plural; his reading is recorded as an explanation, per the decisions."
+  },
+  {
+   "anchor": "ibn-ezra:19:31:1",
+   "verdict": "consistent",
+   "comment": "The English leaves 'the land' general; the possible earlier wife is not adopted."
+  }
+ ]
+}
