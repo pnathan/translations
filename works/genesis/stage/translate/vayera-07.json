@@ -217,7 +217,7 @@
     },
     {
       "ref": "19:17",
-      "english": "As they brought them outside, one of them said, \"Flee for your life; do not look back, and do not stop anywhere in the plain. Flee to the mountain, lest you be swept away.\"",
+      "english": "As they brought them outside, he said, \"Flee for your life; do not look back, and do not stop anywhere in the plain. Flee to the mountain, lest you be swept away.\"",
       "literal": "and-it-came-about as-bringing-out them the-outside and-said he: escape for-your-life not look-back-at-you and-not stand in-all the-plain the-mountain escape lest be-swept-away",
       "tokens": [
         {
@@ -246,7 +246,7 @@
           "id": "19:17.5",
           "gloss": "said",
           "sense": "Qal 1",
-          "note": "Wayyiqtol 3ms of amar: the verb is singular, so the speaker is one of the two (Radak, Rashi, Ibn Ezra; commentary)."
+          "note": "Wayyiqtol 3ms of amar: the subject is singular, so the speaker is one of the two men (Radak; commentary). The English 'he' keeps the Hebrew subject."
         },
         {
           "id": "19:17.6",
@@ -344,8 +344,8 @@
           "tokens": [
             "19:17.5"
           ],
-          "english": "one of them said",
-          "literal": "'and-said': the singular verb with one speaker; the English makes the speaker explicit."
+          "english": "he said",
+          "literal": "'and-said': the singular verb; the English keeps the Hebrew subject."
         },
         {
           "tokens": [
@@ -422,7 +422,7 @@
         {
           "anchor": "radak:19:17:2",
           "relation": "follows",
-          "summary": "Radak: the speaker is the angel who came to save Lot, though the two were as one. The English 'one of them said' takes the singular verb as one speaker."
+          "summary": "Radak: the speaker is the angel who came to save Lot, though the two were as one. The English 'he' keeps the singular subject; Radak's identification is recorded here, not in the English."
         },
         {
           "anchor": "radak:19:17:3",
