@@ -1,0 +1,1508 @@
+{
+ "unit": "vayera-07",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "19:16",
+   "english": "He lingered; then the men took hold of his hand, his wife's hand and the hands of his two daughters, in the LORD's compassion for him; they brought him out and set him down outside the city.",
+   "literal": "and-lingered and-took-hold the-men in-hand-of-him and-in-hand-of-his-wife and-in-hand-of two-of-his-daughters in-compassion-of the-LORD upon-him and-brought-him-out and-set-him-down from-outside to-the-city",
+   "tokens": [
+    {
+     "id": "19:16.1",
+     "gloss": "and he lingered",
+     "note": "Hitpalpel wayyiqtol 3ms of מָהַהּ, 'linger, tarry' (the root מהה with its first consonant doubled: mhmh). Ibn Ezra rejects a derivation from מָה 'what': both heh's are sounded. The lexicon heading gives no numbered senses, so none is cited."
+    },
+    {
+     "id": "19:16.2",
+     "gloss": "and they took hold",
+     "sense": "Hiph 6",
+     "note": "Hifil wayyiqtol 3mp of חָזַק; with bet, 'take hold of' (Hiph 6 'take, keep hold, seize, grasp'). Ibn Ezra: the verb shows that Lot was afraid and without strength to flee; Ramban: the men pulled him by force to hurry him out (cf. Exodus 12:33). The English states neither motive. The spelling is in the apparatus."
+    },
+    {
+     "id": "19:16.3",
+     "gloss": "the men"
+    },
+    {
+     "id": "19:16.4",
+     "gloss": "of his hand",
+     "sense": "1",
+     "note": "Yad with the 3ms suffix: a physical hand. The men take Lot by the hand to lead him out."
+    },
+    {
+     "id": "19:16.5",
+     "gloss": "and of the hand of",
+     "sense": "1",
+     "note": "Vav and bet on yad in the construct: the second of three hands. The singular yad is repeated for each person."
+    },
+    {
+     "id": "19:16.6",
+     "gloss": "his wife",
+     "sense": "2",
+     "note": "Ishah in the construct with the 3ms suffix: 'his wife' (Lot's)."
+    },
+    {
+     "id": "19:16.7",
+     "gloss": "and of the hand of",
+     "sense": "1",
+     "note": "The third use of bet-yad in the series, now with the vav of addition."
+    },
+    {
+     "id": "19:16.8",
+     "gloss": "two"
+    },
+    {
+     "id": "19:16.9",
+     "gloss": "his daughters",
+     "sense": "1",
+     "note": "Bat, construct plural, with the 3ms suffix: 'daughters of him'."
+    },
+    {
+     "id": "19:16.10",
+     "gloss": "in the compassion of",
+     "note": "Bet with the construct of חֶמְלָה, 'compassion', governing the divine name. Bet may mean 'by' (the means) or 'while' (the time): Ramban reads the phrase both ways; the English 'in' keeps both. The lexicon gives no senses."
+    },
+    {
+     "id": "19:16.11",
+     "gloss": "the LORD",
+     "sense": "I",
+     "note": "YHWH, rendered LORD in capitals (decisions: divine names)."
+    },
+    {
+     "id": "19:16.12",
+     "gloss": "upon him",
+     "sense": "II.1",
+     "note": "Al with the 3ms suffix. The etnahta here divides the verse: the holding is before it, the leading out after."
+    },
+    {
+     "id": "19:16.13",
+     "gloss": "and they brought him out",
+     "sense": "Hiph 1",
+     "note": "Hifil wayyiqtol 3mp of yatsa' with the 3ms suffix: 'they caused him to go out'."
+    },
+    {
+     "id": "19:16.14",
+     "gloss": "and they set him down",
+     "sense": "Hiph B.1",
+     "note": "Hifil wayyiqtol 3mp of nuah (middle-weak root): 'set down, lay down', with the 3ms suffix (Hiph B.1). Not 'rest' (Hiph A)."
+    },
+    {
+     "id": "19:16.15",
+     "gloss": "outside",
+     "note": "Min with hutz: 'from the outside', a noun used adverbially."
+    },
+    {
+     "id": "19:16.16",
+     "gloss": "the city",
+     "sense": "1",
+     "note": "Ir with the article after the preposition lamed: 'to the city', i.e. 'outside the city'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "19:16.1"
+     ],
+     "english": "He lingered",
+     "literal": "'and-lingered': wayyiqtol of the hitpalpel; no subject is stated, Lot is understood."
+    },
+    {
+     "tokens": [
+      "19:16.2",
+      "19:16.3"
+     ],
+     "english": "then the men took hold",
+     "literal": "'and-took-hold the-men': the sequential verb after the lingering; the vav is rendered 'then'."
+    },
+    {
+     "tokens": [
+      "19:16.4"
+     ],
+     "english": "of his hand",
+     "literal": "'in-hand-of-him': bet after the hifil of ḥazaq, 'take hold of'; the first of three hands."
+    },
+    {
+     "tokens": [
+      "19:16.5",
+      "19:16.6"
+     ],
+     "english": "his wife's hand",
+     "literal": "'and-in-hand-of his-wife': the second hand."
+    },
+    {
+     "tokens": [
+      "19:16.7",
+      "19:16.8",
+      "19:16.9"
+     ],
+     "english": "and the hands of his two daughters",
+     "literal": "'and-in-hand-of two-of his-daughters': the third; the Hebrew has the singular yad for the two daughters, the English the plural."
+    },
+    {
+     "tokens": [
+      "19:16.10",
+      "19:16.11",
+      "19:16.12"
+     ],
+     "english": "in the LORD's compassion for him",
+     "literal": "'in-compassion-of the-LORD upon-him': the bet is kept as 'in'; Ramban reads it either as 'by' (the means) or as 'while' (the time)."
+    },
+    {
+     "tokens": [
+      "19:16.13",
+      "19:16.14"
+     ],
+     "english": "they brought him out and set him down",
+     "literal": "'and-brought-him-out and-set-him-down': two hifil wayyiqtols with the object suffix."
+    },
+    {
+     "tokens": [
+      "19:16.15",
+      "19:16.16"
+     ],
+     "english": "outside the city",
+     "literal": "'from-outside to-the-city': the place where they set him down."
+    }
+   ],
+   "grammar": [
+    "The verbs are wayyiqtols, a chain of sequential past actions: he lingered (hitpalpel), they took hold (hifil), they brought him out (hifil), they set him down (hifil). The first has no stated subject (Lot is understood); the later ones are the men (3mp).",
+    "The Hebrew has the singular yad each time: 'in the hand of him', 'in the hand of his wife', 'in the hand of his two daughters'. Bet after the hifil of חָזַק means 'take hold of', so the men took hold of three hands.",
+    "The shalshelet on וַיִּתְמַהְמָהּ (19:16.1) is a rare accent, traditionally taken to mark hesitation, which suits the lingering. The etnaḥta on עָלָיו (19:16.12) divides the verse between the holding and the leading out.",
+    "'In the compassion of the LORD upon him' is a bet phrase; bet can mean 'by' or 'while'. Ramban gives both readings, and the English 'in' keeps both open.",
+    "The suffixes of וַיֹּצִאֻהוּ and וַיַּנִּחֻהוּ are the object 'him'; Radak takes the singular to cover Lot, his wife and his daughters (compare the plural 'them' at 19:17)."
+   ],
+   "note": "The English says only that the men took hold of the hands and led the family out. Ibn Ezra's reason for the grip (Lot was afraid and without strength to flee), Ramban's (the men pulled him by force to hurry him) and the motive for the delay (Rashi and Radak: Lot was loath to leave his property; Sforno: sloth and an alarmed spirit) are commentary and are kept out of the English line. 'In the LORD's compassion' keeps the Hebrew bet, which Ramban reads either as 'by' (not by his merit) or as 'while' the compassion was still on him.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:19:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra rejects the commentary of Ben Ephraim, who derived וַיִּתְמַהְמָהּ from מָה ('what'): he forgot that both heh's are sounded (mappiq). It is a word of delay (עִכּוּב); its root is triliteral and the first radical is doubled. The English 'lingered' follows him."
+    },
+    {
+     "anchor": "ibn-ezra:19:16:2",
+     "relation": "records",
+     "summary": "Ibn Ezra: the verb 'took hold' explains that Lot was afraid and had no strength to flee; that is the reason for the men's grip. The English line says only 'took hold of' and gives no motive, so his explanation is recorded, not adopted."
+    },
+    {
+     "anchor": "ramban:19:16:1",
+     "relation": "records",
+     "summary": "Ramban quotes Ibn Ezra (the verb shows that Lot was afraid and had no strength to flee) and holds that the right sense is like 'Egypt pressed (וַתֶּחֱזַק) the people to send them out in haste' (Exodus 12:33): here too the men were pulling at them with force to hurry them out. The English 'took hold of' fits either reading and states neither motive; both are recorded."
+    },
+    {
+     "anchor": "ramban:19:16:2",
+     "relation": "follows",
+     "summary": "Ramban: Lot was saved not by his own merit but by God's compassion and great mercies; or, the men took hold of him to hurry them out while the compassion was still on him, before the wrath should go out from before the LORD and he be swept away. The English 'in the LORD's compassion for him' keeps the Hebrew bet and leaves both readings open."
+    },
+    {
+     "anchor": "radak:19:16:1",
+     "relation": "records",
+     "summary": "Radak: Lot was still lingering, as though he took pity on the property he was leaving; so the men held back until the dawn came up and did not let him take anything in his hand, although they had said to him 'and all that is yours' (19:12). The English gives the delay without a motive; Radak's reason is recorded."
+    },
+    {
+     "anchor": "rashi:19:16:1",
+     "relation": "records",
+     "summary": "Rashi gives the purpose of the delay as saving his property (kedei lehatsil et mamono). The English does not state a motive; Rashi's reason is recorded."
+    },
+    {
+     "anchor": "radak:19:16:3",
+     "relation": "records",
+     "summary": "Radak: the men hurried to bring Lot out for Abraham's sake, though the time of the overturning had come. This names Abraham as the cause; the English names the LORD's compassion."
+    },
+    {
+     "anchor": "sforno:19:16:1",
+     "relation": "follows",
+     "summary": "Sforno: although Lot was saved in Abraham's merit ('and God remembered Abraham and sent Lot out', 19:29), since he lingered after the angels' warning he deserved to be swept away; but the compassion was on him, because his delay was not rebellion or trespass but sloth and an alarmed (נִבְהָלָה) spirit. The English follows the compassion; the reason for the delay is recorded here."
+    },
+    {
+     "anchor": "rashi:19:16:2",
+     "relation": "records",
+     "summary": "Rashi (Bereshit Rabbah): one of the two was sent to save Lot and the other to overturn Sodom; therefore the text says 'and he said' (singular, 19:17) and not 'and they said'. A midrash on the singular verb of 19:17; the English 'he said' keeps the Hebrew number."
+    },
+    {
+     "anchor": "radak:19:16:2",
+     "relation": "follows",
+     "summary": "Radak: the men took hold in order to escape for their lives. Here the text calls them 'men' because they did what men do, taking hold of their hands as though they had bodies. The English 'men' is the text's word."
+    },
+    {
+     "anchor": "radak:19:16:4",
+     "relation": "records",
+     "summary": "Radak: the singular suffix of 'brought him out and set him down' stands for Lot, his wife and his daughters. The English keeps 'him'; the plural 'them' of 19:17 confirms that the whole household is meant."
+    }
+   ],
+   "apparatus": [
+    "19:16.2: the WLC spells the verb without the yod (vayyaḥazqu); the base text has vayyaḥaziqu. The same verb; no difference of sense."
+   ]
+  },
+  {
+   "ref": "19:17",
+   "english": "As they brought them outside, he said, \"Escape for your life; do not look back, and do not stop anywhere in the plain. Escape to the mountain, lest you be swept away.\"",
+   "literal": "and-it-came-about as-their-bringing-out them to-the-outside and-said he: escape for-your-life not look after-you and-not stand in-all the-plain to-the-mountain escape lest you-be-swept-away",
+   "tokens": [
+    {
+     "id": "19:17.1",
+     "gloss": "and it came about",
+     "sense": "Qal I.2.a.(1)",
+     "note": "Wayyiqtol of hayah with the ke-infinitive that follows: the idiom 'and it came to pass as ...' opens a temporal clause."
+    },
+    {
+     "id": "19:17.2",
+     "gloss": "as they brought",
+     "sense": "Hiph 1",
+     "note": "Ke with the hifil infinitive construct of יָצָא and the suffix -ם. Ibn Ezra: כְהוֹצִיאָם is an infinitive (שם הפועל); the mem is the sign of the doers, the angels, and אֹתָם are those acted upon, unlike לְהוֹצִיאָם in Jeremiah 31:32, where the mem is the object. The ke is temporal, 'when, as'."
+    },
+    {
+     "id": "19:17.3",
+     "gloss": "them",
+     "note": "Object marker with the 3mp suffix: Lot and his household, the ones brought out."
+    },
+    {
+     "id": "19:17.4",
+     "gloss": "outside",
+     "note": "Hahuṣah: the article and the directional he: 'to the outside'."
+    },
+    {
+     "id": "19:17.5",
+     "gloss": "said",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol 3ms of amar: the subject is singular, so the speaker is one of the two men (Radak; commentary). The English 'he' keeps the Hebrew subject."
+    },
+    {
+     "id": "19:17.6",
+     "gloss": "escape",
+     "sense": "Niph 2",
+     "note": "Nifal imperative 2ms of malat. Niph 2 'escape'. First command."
+    },
+    {
+     "id": "19:17.7",
+     "gloss": "for",
+     "sense": "II",
+     "note": "Al: 'on behalf of, for'."
+    },
+    {
+     "id": "19:17.8",
+     "gloss": "your life",
+     "sense": "2",
+     "note": "Nefesh with the 2ms suffix: 'your life' (BDB 2); the idiom הִמָּלֵט עַל נַפְשֶׁךָ is 'escape for your life'."
+    },
+    {
+     "id": "19:17.9",
+     "gloss": "do not",
+     "note": "Al with the jussive: a prohibition."
+    },
+    {
+     "id": "19:17.10",
+     "gloss": "look",
+     "sense": "Hiph",
+     "note": "Hifil jussive 2ms of nabat (Hiph)."
+    },
+    {
+     "id": "19:17.11",
+     "gloss": "behind you",
+     "sense": "2.a",
+     "note": "Akhar with the 2ms suffix: 'after you, behind you'."
+    },
+    {
+     "id": "19:17.12",
+     "gloss": "and do not",
+     "note": "Vav with al: the second prohibition."
+    },
+    {
+     "id": "19:17.13",
+     "gloss": "stop",
+     "sense": "Qal 2.a",
+     "note": "Qal jussive 2ms of amad. Qal 2.a 'stand still, stop'. Ramban reads the clauses in another order (commentary)."
+    },
+    {
+     "id": "19:17.14",
+     "gloss": "anywhere in",
+     "sense": "1",
+     "note": "Bekhol: 'in all of'; the lexicon's sense 1 'the whole of, any, every'."
+    },
+    {
+     "id": "19:17.15",
+     "gloss": "the plain",
+     "note": "Kikkar: a round district, here the plain of the Jordan (context)."
+    },
+    {
+     "id": "19:17.16",
+     "gloss": "to the mountain",
+     "sense": "1",
+     "note": "Har with the directional he: 'to the mountain'."
+    },
+    {
+     "id": "19:17.17",
+     "gloss": "flee",
+     "sense": "Niph 2",
+     "note": "Nifal imperative 2ms of malat again. Second command."
+    },
+    {
+     "id": "19:17.18",
+     "gloss": "lest",
+     "note": "Pen with the imperfect."
+    },
+    {
+     "id": "19:17.19",
+     "gloss": "you be swept away",
+     "sense": "Niph 1",
+     "note": "Nifal yiqtol 2ms of sapah. Niph 1 'be swept away, destroyed'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "19:17.1",
+      "19:17.2",
+      "19:17.3",
+      "19:17.4"
+     ],
+     "english": "As they brought them outside",
+     "literal": "'and-it-came-about as-their-bringing-out them to-the-outside': a temporal clause with the ke-infinitive."
+    },
+    {
+     "tokens": [
+      "19:17.5"
+     ],
+     "english": "he said",
+     "literal": "'and-said': the singular verb; the English keeps the Hebrew subject."
+    },
+    {
+     "tokens": [
+      "19:17.6",
+      "19:17.7",
+      "19:17.8"
+     ],
+     "english": "Escape for your life",
+     "literal": "'escape for-your-life': the first command."
+    },
+    {
+     "tokens": [
+      "19:17.9",
+      "19:17.10",
+      "19:17.11"
+     ],
+     "english": "do not look back",
+     "literal": "'not look behind-you': the prohibition with the jussive; the singular 'you' is Lot."
+    },
+    {
+     "tokens": [
+      "19:17.12",
+      "19:17.13",
+      "19:17.14",
+      "19:17.15"
+     ],
+     "english": "and do not stop anywhere in the plain",
+     "literal": "'and-not stand in-all the-plain': the second prohibition, of standing still in the plain."
+    },
+    {
+     "tokens": [
+      "19:17.16",
+      "19:17.17"
+     ],
+     "english": "Escape to the mountain",
+     "literal": "'to-the-mountain escape': the second command."
+    },
+    {
+     "tokens": [
+      "19:17.18",
+      "19:17.19"
+     ],
+     "english": "lest you be swept away",
+     "literal": "'lest you-be-swept-away': the reason for the haste; the imperfect after pen."
+    }
+   ],
+   "grammar": [
+    "The clause 'as they brought them outside' is a temporal clause: wayehi with the ke-infinitive. The main verb is the next wayyiqtol, vayyomer, 'said'.",
+    "The speech has four commands: two imperatives (himmalet, both nifal) and two prohibitions (al with the jussives tabbit and ta'amod). Each is followed by its reason or its object.",
+    "Address is singular throughout: 'escape for your life', 'do not look back', 'your' (2ms). Ibn Ezra explains that the singular covers Lot with all that is his (commentary).",
+    "The etnahta on hakikkar (19:17.15) divides the speech: the prohibitions in the plain come before it, the command to the mountain after it."
+   ],
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:19:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: כְהוֹצִיאָם is an infinitive (שם הפועל), not like 'לְהוֹצִיאָם from the land of Egypt' (Jeremiah 31:32); here the mem is the sign of the doers, who are the angels, and אֹתָם are the ones acted upon, Lot and his household. The English 'As they brought them outside' follows him."
+    },
+    {
+     "anchor": "ibn-ezra:19:17:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'do not look back' is said to you and to all that is yours; so too the singular 'you shall not eat of it' covers a group. The English keeps the singular 'you'; the household sense is recorded here and in the notes."
+    },
+    {
+     "anchor": "ramban:19:17:1",
+     "relation": "records",
+     "summary": "Ramban gives the order as: do not stop anywhere in the plain, and do not look back once you are saved, since the disaster does not fall until Lot is in the mountain. The English keeps the order of the Hebrew clauses; Ramban's order is recorded."
+    },
+    {
+     "anchor": "radak:19:17:1",
+     "relation": "follows",
+     "summary": "Radak: while they were bringing Lot out, they were telling him to hurry and escape. The English 'As they brought them outside' keeps the clause simultaneous with the speech."
+    },
+    {
+     "anchor": "radak:19:17:2",
+     "relation": "follows",
+     "summary": "Radak: the speaker is the angel who came to save Lot, though the two were as one. The English 'he' keeps the singular subject; Radak's identification is recorded here, not in the English."
+    },
+    {
+     "anchor": "radak:19:17:3",
+     "relation": "follows",
+     "summary": "Radak: 'do not look back' was said so that Lot would not delay by turning to see whether the city had been overturned. The English follows this plain purpose."
+    },
+    {
+     "anchor": "radak:19:17:4",
+     "relation": "follows",
+     "summary": "Radak: all the cities of the plain were overturned, so the kikkar is the whole district. The English 'anywhere in the plain' follows him."
+    },
+    {
+     "anchor": "radak:19:17:5",
+     "relation": "follows",
+     "summary": "Radak: 'lest you be swept away' means that if Lot stays with the cities, he cannot be saved once the overturning begins, for it comes in an instant. The English follows this sense."
+    },
+    {
+     "anchor": "rashi:19:17:1",
+     "relation": "records",
+     "summary": "Rashi: 'it is enough for you to save lives (נְפָשׁוֹת); do not take pity on the property.' A paraphrase of 'for your life' that adds a warning against property; the English 'for your life' keeps the plain words."
+    },
+    {
+     "anchor": "rashi:19:17:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: Lot was condemned along with the others and saved for Abraham's merit, and he is not fit to look at their punishment. A homily on the prohibition; not the plain sense."
+    },
+    {
+     "anchor": "rashi:19:17:3",
+     "relation": "follows",
+     "summary": "Rashi identifies the kikkar as the plain of the Jordan (kikkar ha-Yarden). The English keeps 'the plain' and the context note records the place."
+    },
+    {
+     "anchor": "rashi:19:17:4",
+     "relation": "records",
+     "summary": "Rashi: 'the mountain' is where Abraham was; Lot flees to Abraham, who had dwelt on the mountain and whose tents reached to Hebron. The English keeps the general sense of the hills; Rashi's identification is recorded."
+    },
+    {
+     "anchor": "rashi:19:17:5",
+     "relation": "follows",
+     "summary": "Rashi glosses himmalet as 'slipping out', which agrees with 'escape'. The English 'flee' follows the sense."
+    },
+    {
+     "anchor": "sforno:19:17:1",
+     "relation": "follows",
+     "summary": "Sforno: the evil will spread after Lot as he walks away and will not harm him; if he lingers to look, it will cling to him, as it did to his wife. The English follows this plain warning."
+    },
+    {
+     "anchor": "radak:19:19:2",
+     "relation": "follows",
+     "summary": "Radak (on 'escape for your life'): the speaker is the one who came to save him; in truth both were engaged in saving and in destroying, but the one who spoke was greater than his fellow, for he was the one who busied himself with saving Lot, and said 'so that I may not overturn the city' (19:21) and 'for I cannot do anything' (19:22). The English keeps the singular 'he said'."
+    }
+   ],
+   "context": [
+    "The kikkar is the plain of the Jordan, where the cities stood; the text calls them 'the cities of the kikkar' (Genesis 13:10–12).",
+    "The Hebrew word kikkar means 'round': it is also a round loaf and a round weight of metal (a talent); as a place it is a round district. Where the cities of the plain lay is disputed: proposals put them south of the Dead Sea or at its northern end."
+   ]
+  },
+  {
+   "ref": "19:18",
+   "english": "Then Lot said to them, \"No, please, my lords.\"",
+   "literal": "and-said Lot to-them: no please my-lords",
+   "tokens": [
+    {
+     "id": "19:18.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol 3ms of amar: the new speech of Lot."
+    },
+    {
+     "id": "19:18.2",
+     "gloss": "Lot",
+     "note": "Proper name (decisions: the English form)."
+    },
+    {
+     "id": "19:18.3",
+     "gloss": "to them",
+     "sense": "1",
+     "note": "El with the 3mp suffix. The plural 'them' shows Lot addresses both men. The etnahta on this word divides the verse."
+    },
+    {
+     "id": "19:18.4",
+     "gloss": "no",
+     "note": "Al as a negation, 'no, not so' (Ibn Ezra, commentary), not the verb hoel 'be willing'."
+    },
+    {
+     "id": "19:18.5",
+     "gloss": "please",
+     "note": "Particle of entreaty (na): it softens the refusal."
+    },
+    {
+     "id": "19:18.6",
+     "gloss": "my lords",
+     "note": "Adonai with the 1cs suffix. The qamats is the pausal form at the end of the verse; the word is profane here (Ibn Ezra, Radak), so 'my lords' for the two men, not the divine name. Rashi reads it as sacred (commentary)."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "19:18.1",
+      "19:18.2",
+      "19:18.3"
+     ],
+     "english": "Then Lot said to them",
+     "literal": "'and-said Lot to-them': the speech begins."
+    },
+    {
+     "tokens": [
+      "19:18.4",
+      "19:18.5",
+      "19:18.6"
+     ],
+     "english": "No, please, my lords",
+     "literal": "'no please my-lords': the refusal and the entreaty, addressed to the two men."
+    }
+   ],
+   "grammar": [
+    "The etnahta on the word 'to them' (19:18.3) divides the verse: Lot's speech follows it.",
+    "The reply begins with al, the negation, and na, the entreaty: 'no, please'. It answers the command of 19:17 to flee; the content is understood from there.",
+    "The final adonai has the qamats of a pausal form, which is why its reading is disputed: profane 'my lords' for the men (Ibn Ezra, Radak), or the sacred name (Rashi, commentary)."
+   ],
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:19:18:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אֲדֹנָי here is profane (חול), pointed with qamats because it stands at the end of the verse (pause), so it is 'my lords' and not the divine name. R. Samuel the Nagid derived אַל נָא from הוֹאֵל ('be willing'); in Ibn Ezra's opinion it is like לֹא: when they said 'escape to the mountain', Lot answered 'not so, my masters' (לא כן רבותי). The English 'No, please, my lords' follows him."
+    },
+    {
+     "anchor": "rashi:19:18:1",
+     "relation": "records",
+     "summary": "Rashi, following the Talmud (Shevuot 35), takes adonai here as the sacred name, the one with power to kill and to give life, and renders its Targum as 'please, Lord'. The English 'my lords' follows Ibn Ezra; Rashi's sacred reading is recorded."
+    },
+    {
+     "anchor": "rashi:19:18:2",
+     "relation": "follows",
+     "summary": "Rashi: 'al na means 'do not say to me to flee to the mountain'. He reads the al as a refusal, as Ibn Ezra does."
+    },
+    {
+     "anchor": "rashi:19:18:3",
+     "relation": "follows",
+     "summary": "Rashi: na is a word of request. The English 'please' follows."
+    },
+    {
+     "anchor": "radak:19:18:1",
+     "relation": "follows",
+     "summary": "Radak: 'please, do not make us bring you up the mountain, for I cannot hasten my steps so much'. This agrees with the refusal and the entreaty of the English."
+    },
+    {
+     "anchor": "radak:19:18:2",
+     "relation": "follows",
+     "summary": "Radak: אֲדֹנָי is profane and pointed with qamats because of the pause, and so Onkelos renders 'please, my master' (ribboni). The Sages (Shevuot) said that every אֲדֹנָי written of Abraham is sacred and those of Lot profane, except this one, which is sacred, since Lot said 'to keep my life alive', which only one who can kill and give life can do; Radak calls their words astonishing (the comment breaks off in the pack). The English 'my lords' follows Radak."
+    },
+    {
+     "anchor": "radak:19:18:3",
+     "relation": "follows",
+     "summary": "Radak on 'Lot said to them': the plural language is addressed to the two angels; and the angel too has power to kill and to give life when God sends him, even prophets such as Elijah and Elisha. So the Sages' argument that the power over life shows the sacred name does not hold; the plural 'my lords' stands."
+    },
+    {
+     "anchor": "ibn-ezra:19:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Lot says 'your servant' (singular) to one of them because he regards that one as great, since angels too have princes. The English keeps the singular. He also explains vamatti: the tav of mut is absorbed into the tav of the first-person ending, as in otho tashhit (Deuteronomy 20:20)."
+    }
+   ],
+   "apparatus": [
+    "אֲדֹנָי with qamats (19:18.6): the Sages (Shevuot) and Rashi take it as the sacred name, 'my Lord', addressed to God; Ibn Ezra and Radak take it as profane, a pausal form of אֲדֹנַי 'my lords', addressed to the two men. The Targum is cited on both sides: Rashi reads it as 'please, O LORD', Radak as 'my master' (ribboni); some witnesses of Onkelos read the divine name. The English follows Ibn Ezra."
+   ]
+  },
+  {
+   "ref": "19:19",
+   "english": "Look, please, your servant has found favor in your eyes, and you have shown great kindness to me by saving my life. But I cannot escape to the mountain, lest the disaster overtake me and I die.",
+   "literal": "look-please has-found your-servant favour in-your-eyes and-you-made-great your-kindness which you-did with-me to-keep-alive my-life and-I not I-am-able to-escape to-the-mountain lest it-cling-to-me the-evil and-I-die",
+   "tokens": [
+    {
+     "id": "19:19.1",
+     "gloss": "look",
+     "note": "Hinneh: 'see, look'. Not 'behold' (decisions)."
+    },
+    {
+     "id": "19:19.2",
+     "gloss": "please",
+     "note": "Na: particle of entreaty."
+    },
+    {
+     "id": "19:19.3",
+     "gloss": "has found",
+     "sense": "Qal 4",
+     "note": "Qatal 3ms of matsa'. Qal 4 'attain to, find' in the noteworthy phrase 'find favour'."
+    },
+    {
+     "id": "19:19.4",
+     "gloss": "your servant",
+     "sense": "6",
+     "note": "Ebed with the 2ms suffix: the speaker's self-description, 'thy servant, I'. Singular: Lot speaks to one of the two (Ibn Ezra, commentary)."
+    },
+    {
+     "id": "19:19.5",
+     "gloss": "favor",
+     "sense": "2",
+     "note": "Hen: favour, grace."
+    },
+    {
+     "id": "19:19.6",
+     "gloss": "in your eyes",
+     "sense": "2.a",
+     "note": "Ayin in the idiom 'in the eyes of', i.e. in your judgment (BDB 2.a, eyes as showing mental qualities)."
+    },
+    {
+     "id": "19:19.7",
+     "gloss": "and you made great",
+     "sense": "Hiph 2",
+     "note": "Hifil wayyiqtol 2ms of gadal, continuing the qatal 'has found': 'magnify, make great'. The English 'shown great kindness' takes it with the next word."
+    },
+    {
+     "id": "19:19.8",
+     "gloss": "your kindness",
+     "sense": "I.1",
+     "note": "Hesed with the 2ms suffix: kindness, goodness."
+    },
+    {
+     "id": "19:19.9",
+     "gloss": "which",
+     "note": "Asher: the relative."
+    },
+    {
+     "id": "19:19.10",
+     "gloss": "you did",
+     "sense": "Qal I.2",
+     "note": "Qatal 2ms of asah with im: 'deal with, do to' (Qal I.2)."
+    },
+    {
+     "id": "19:19.11",
+     "gloss": "with me",
+     "sense": "1.d",
+     "note": "Im with the 1cs suffix: 'with, towards'."
+    },
+    {
+     "id": "19:19.12",
+     "gloss": "to keep alive",
+     "sense": "Hiph 1",
+     "note": "Lehayot: lamed with the hifil infinitive construct of hayah: 'preserve alive' (Hiph 1)."
+    },
+    {
+     "id": "19:19.13",
+     "gloss": "(object marker)",
+     "note": "Et, marking 'my life' as the object; no English word."
+    },
+    {
+     "id": "19:19.14",
+     "gloss": "my life",
+     "sense": "2",
+     "note": "Nefesh with the 1cs suffix: 'life', not 'soul' (decisions)."
+    },
+    {
+     "id": "19:19.15",
+     "gloss": "but I",
+     "note": "Vav with the pronoun: a contrast with his thanks."
+    },
+    {
+     "id": "19:19.16",
+     "gloss": "not",
+     "note": "Lo with the yiqtol."
+    },
+    {
+     "id": "19:19.17",
+     "gloss": "am able",
+     "sense": "Qal 1",
+     "note": "Yiqtol 1cs of yakhol: 'be able' (Qal 1); with lo, 'cannot'."
+    },
+    {
+     "id": "19:19.18",
+     "gloss": "to escape",
+     "sense": "Niph 2",
+     "note": "Lehimmalet: lamed with the nifal infinitive construct of malat, Niph 2 'escape'."
+    },
+    {
+     "id": "19:19.19",
+     "gloss": "to the mountain",
+     "sense": "1",
+     "note": "Har with the directional he."
+    },
+    {
+     "id": "19:19.20",
+     "gloss": "lest",
+     "note": "Pen with the imperfect."
+    },
+    {
+     "id": "19:19.21",
+     "gloss": "overtake me",
+     "sense": "Qal 1",
+     "note": "Qal yiqtol 3fs of davaq with the 1cs suffix; the subject is 'the disaster' (feminine). The qal 'cling, cleave to' gives the image; 'overtake' is the English."
+    },
+    {
+     "id": "19:19.22",
+     "gloss": "the disaster",
+     "sense": "1",
+     "note": "Ra'ah, 'misery, distress' (sense 1)."
+    },
+    {
+     "id": "19:19.23",
+     "gloss": "and I die",
+     "sense": "Qal 1",
+     "note": "Weqatal 1cs of מוּת: vav with the perfect continues the pen clause as its consequence, 'lest ... and I die'. The tav of the root merges with the tav of the ending (Ibn Ezra, on 19:18)."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "19:19.1",
+      "19:19.2"
+     ],
+     "english": "Look, please",
+     "literal": "'look please': the hinneh-na opening."
+    },
+    {
+     "tokens": [
+      "19:19.3",
+      "19:19.4",
+      "19:19.5",
+      "19:19.6"
+     ],
+     "english": "your servant has found favor in your eyes",
+     "literal": "'has-found your-servant favour in-your-eyes': the idiom of asking for favour."
+    },
+    {
+     "tokens": [
+      "19:19.7",
+      "19:19.8"
+     ],
+     "english": "and you have shown great kindness",
+     "literal": "'and-you-made-great your-kindness': the wayyiqtol continues the qatal."
+    },
+    {
+     "tokens": [
+      "19:19.9",
+      "19:19.10",
+      "19:19.11"
+     ],
+     "english": "to me",
+     "literal": "'which you-did with-me': the relative clause; the English gives the object of the kindness."
+    },
+    {
+     "tokens": [
+      "19:19.12",
+      "19:19.13",
+      "19:19.14"
+     ],
+     "english": "by saving my life",
+     "literal": "'to-keep-alive my-life': the infinitive says what the kindness was."
+    },
+    {
+     "tokens": [
+      "19:19.15",
+      "19:19.16",
+      "19:19.17",
+      "19:19.18",
+      "19:19.19"
+     ],
+     "english": "But I cannot escape to the mountain",
+     "literal": "'and-I not am-able to-escape to-the-mountain': the contrast; the plea."
+    },
+    {
+     "tokens": [
+      "19:19.20",
+      "19:19.21",
+      "19:19.22",
+      "19:19.23"
+     ],
+     "english": "lest the disaster overtake me and I die",
+     "literal": "'lest cling-to-me the-evil and-I-die': the feared result."
+    }
+   ],
+   "grammar": [
+    "The speech moves from entreaty (hinneh na, 'look, please') to a qatal, 'has found', and then to a wayyiqtol, 'and you made great', which continues the same past.",
+    "The address is singular throughout: 'your servant', 'your eyes', 'you did', 'you made great'. Lot speaks to one of the two angels, the greater (Ibn Ezra, Radak; commentary).",
+    "The etnaḥta on נַפְשִׁי (19:19.14) divides the speech: the thanks come before it, the plea after it. The vav with the pronoun in 'but I' marks the turn.",
+    "After pen the imperfect תִּדְבָּקַנִי (with pataḥ under the qof, where Radak notes that tsere would be expected) gives the feared event, and the weqatal וָמַתִּי continues it as its result: 'lest ... and I die'."
+   ],
+   "commentary": [
+    {
+     "anchor": "rashi:19:19:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'lest disaster overtake me': when I was among the men of Sodom the Holy One saw my deeds and theirs and I seemed righteous and worthy to be saved; but when I come near a righteous man I am like a wicked man, as the woman of Zarephath said to Elijah, 'you came to me to bring my iniquity to remembrance' (1 Kings 17:18). A midrash on why Lot fears; not the plain sense."
+    },
+    {
+     "anchor": "ramban:19:17:2",
+     "relation": "records",
+     "summary": "Ramban on Lot's words: 'lest the disaster overtake me while I am in the plain, for you will give me only a little time, as you said \"hurry, escape\"'. He then turns to the ban on looking back (19:17): Ibn Ezra took it as said to Lot and all that is his; Ramban holds that the angel warned them from his knowledge that harm would come from the sight, and warned Lot for his merit; Rashi's reason (Lot is not fit to see their punishment); and a further reason, that seeing a plague or contagion harms and clings, as the sight of water harms one bitten by a mad dog (Yoma); hence Lot's wife became a pillar of salt. He suggests that the destroying angel was seen in a flame between earth and heaven, as David saw one (1 Chronicles 21:16), and cites Pirkei deRabbi Eliezer: Lot's wife looked back for her married daughters and saw the back of the Shekhinah. The English states none of these causes."
+    },
+    {
+     "anchor": "radak:19:19:1",
+     "relation": "follows",
+     "summary": "Radak: 'Look, please, your servant has found favour in your eyes' is said to the one who spoke to him, that is, the greater of the two (see his comment at 19:17). The English 'you' is singular."
+    },
+    {
+     "anchor": "radak:19:19:3",
+     "relation": "not-applicable",
+     "summary": "Radak (grammar): in תִּדְבָּקַנִי the qof has a pataḥ in place of a tsere. A note on the vowel; it does not change the sense."
+    }
+   ],
+   "apparatus": [
+    "Ramban's comment on these words (ramban:19:17:2) is filed at 19:17. It first explains Lot's fear (the angel allows him only a little time) and then passes to the prohibition of looking back at 19:17."
+   ]
+  },
+  {
+   "ref": "19:20",
+   "english": "Look, please, this city is near enough to flee there, and it is small. Let me escape there, please. Is it not small? And I will live.",
+   "literal": "look-please the-city this near to-flee thither and-it small let-me-escape please thither is-not small it and-may-live my-life",
+   "tokens": [
+    {
+     "id": "19:20.1",
+     "gloss": "look",
+     "note": "Hinneh: 'see, look'."
+    },
+    {
+     "id": "19:20.2",
+     "gloss": "please",
+     "note": "Na: particle of entreaty."
+    },
+    {
+     "id": "19:20.3",
+     "gloss": "the city",
+     "sense": "1",
+     "note": "Ir, feminine: 'city, town'."
+    },
+    {
+     "id": "19:20.4",
+     "gloss": "this",
+     "sense": "2",
+     "note": "Zeh in apposition after the noun: 'this city'."
+    },
+    {
+     "id": "19:20.5",
+     "gloss": "near",
+     "sense": "2.b",
+     "note": "Qarov, feminine singular adjective, predicate of 'the city' (BDB 2.b, 'near'); with the infinitive lanus the English says 'near enough to flee there'."
+    },
+    {
+     "id": "19:20.6",
+     "gloss": "to flee",
+     "sense": "Qal 1",
+     "note": "Lanus: lamed with the qal infinitive construct of nus, 'flee'."
+    },
+    {
+     "id": "19:20.7",
+     "gloss": "there",
+     "note": "Shamma: 'there, thither'."
+    },
+    {
+     "id": "19:20.8",
+     "gloss": "and it",
+     "sense": "2",
+     "note": "Vav with the 3fs pronoun before the predicate: it resumes the subject 'the city' with emphasis."
+    },
+    {
+     "id": "19:20.9",
+     "gloss": "small",
+     "note": "Mitz'ar: the lexicon lists it as a noun, 'a small thing'; Ibn Ezra takes it as an adjective (commentary). The English 'small' follows him."
+    },
+    {
+     "id": "19:20.10",
+     "gloss": "let me escape",
+     "sense": "Niph 2",
+     "note": "Cohortative 1cs of nifal malat: 'let me escape'."
+    },
+    {
+     "id": "19:20.11",
+     "gloss": "please",
+     "note": "Na: entreaty."
+    },
+    {
+     "id": "19:20.12",
+     "gloss": "there",
+     "note": "Shamma with the directional he."
+    },
+    {
+     "id": "19:20.13",
+     "gloss": "is it not",
+     "note": "Ha-lo: interrogative with the negative; it expects 'yes'."
+    },
+    {
+     "id": "19:20.14",
+     "gloss": "small",
+     "note": "Mitz'ar again, now in the question."
+    },
+    {
+     "id": "19:20.15",
+     "gloss": "it",
+     "sense": "3",
+     "note": "Hi, the 3fs pronoun following the predicate: the least emphatic position (BDB 3)."
+    },
+    {
+     "id": "19:20.16",
+     "gloss": "and will live",
+     "sense": "Qal 1",
+     "note": "Vav with the yiqtol 3fs of hayah, the subject being 'my life' (feminine): a wish, 'may live'."
+    },
+    {
+     "id": "19:20.17",
+     "gloss": "my life",
+     "sense": "2",
+     "note": "Nefesh with the 1cs suffix: 'life'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "19:20.1",
+      "19:20.2"
+     ],
+     "english": "Look, please",
+     "literal": "'look-please': the opening of the plea."
+    },
+    {
+     "tokens": [
+      "19:20.3",
+      "19:20.4",
+      "19:20.5",
+      "19:20.6",
+      "19:20.7"
+     ],
+     "english": "this city is near enough to flee there",
+     "literal": "'the-city this near to-flee thither': the city is close enough to be reached in flight."
+    },
+    {
+     "tokens": [
+      "19:20.8",
+      "19:20.9"
+     ],
+     "english": "and it is small",
+     "literal": "'and-it small': the nominal clause; the English adds 'is'."
+    },
+    {
+     "tokens": [
+      "19:20.10",
+      "19:20.11",
+      "19:20.12"
+     ],
+     "english": "Let me escape there, please",
+     "literal": "'let-me-escape please thither': the cohortative request."
+    },
+    {
+     "tokens": [
+      "19:20.13",
+      "19:20.14",
+      "19:20.15"
+     ],
+     "english": "Is it not small",
+     "literal": "'is-not small it': the question; the pronoun follows the predicate."
+    },
+    {
+     "tokens": [
+      "19:20.16",
+      "19:20.17"
+     ],
+     "english": "And I will live",
+     "literal": "'and-may-live my-life': the qal of hayah with nefesh as subject; after the cohortative it gives the result. A nefesh with a suffix stands for the person, so the English has 'I'."
+    }
+   ],
+   "grammar": [
+    "The speech has two na's: hinneh na ('look, please') opens the plea, and na after the cohortative אִמָּלְטָה is the request ('let me escape, please'). Radak notes that אִמָּלְטָה is accented on the last syllable (milra), unlike 1 Samuel 20:29, where the accent is on the first.",
+    "The question 'is it not small?' (ha-lo, with מִצְעָר at 19:20.14) expects the answer yes. The repeated מִצְעָר is the argument: a small city should be spared.",
+    "The etnaḥta on מִצְעָר (19:20.9) divides the speech: the city's nearness and smallness come first, the request after.",
+    "The closing וּתְחִי נַפְשִׁי is a yiqtol 3fs of the qal of חָיָה, agreeing with the feminine נֶפֶשׁ; after the cohortative it gives the result of the request, 'that I may live'. Rashi adds 'in it' and Radak 'with them'; the English adds neither."
+   ],
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:19:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: mitz'ar means 'small', an adjective from tsa'ir ('little'), and it comes without the feminine ending, as shegal does. The English 'it is small' follows him."
+    },
+    {
+     "anchor": "rashi:19:20:1",
+     "relation": "records",
+     "summary": "Rashi (after Shabbat): קְרוֹבָה is 'its settlement is recent' (קְרוֹבָה יְשִׁיבָתָהּ): the city was settled lately, so its measure of sin was not yet full. By his count there were fifty-two years from the Dispersion to the overturning, and Zoar was settled a year after Sodom and its neighbours, which he finds in נָא (numerical value fifty-one). A midrashic chronology; the English takes קָרֹב of distance, as Radak does."
+    },
+    {
+     "anchor": "rashi:19:20:2",
+     "relation": "records",
+     "summary": "Rashi: 'is it not small?' means 'are not its sins few? you can spare it'. He reads smallness as few sins; the English reads it as size, following Ibn Ezra and Radak. Rashi's reading is recorded."
+    },
+    {
+     "anchor": "rashi:19:20:3",
+     "relation": "records",
+     "summary": "Rashi: 'in it' (בָּהּ) is the midrash. The plain sense of the verse: is it not a small city with few people in it? You need not be strict (אֵין לָךְ לְהַקְפִּיד) if you leave it, and my life will live in it. The English 'And I will live' does not place him in the city."
+    },
+    {
+     "anchor": "radak:19:20:1",
+     "relation": "follows",
+     "summary": "Radak: 'near to flee there' means near enough to flee to. The English follows him."
+    },
+    {
+     "anchor": "radak:19:20:2",
+     "relation": "follows",
+     "summary": "Radak: the city is small with few people in it, though they are wicked; for Lot's sake God saved them from the overturning. The English follows the 'small' reading."
+    },
+    {
+     "anchor": "radak:19:20:3",
+     "relation": "records",
+     "summary": "Radak glosses 'and my life will live' with one word, 'with them' (עִמָּהֶם), which in the light of his comment on 'and it is small' refers to the people of the city. The English has no such addition; the reading is recorded."
+    },
+    {
+     "anchor": "radak:19:20:5",
+     "relation": "follows",
+     "summary": "Radak: Lot repeats 'is it not small?' as one who pleads, recalling the city's littleness. The English keeps the question."
+    },
+    {
+     "anchor": "radak:19:20:4",
+     "relation": "follows",
+     "summary": "Radak: אִמָּלְטָה נָּא is accented on the last syllable (the tet), whereas in 'אִמָּלְטָה נָּא and I will see my brothers' (1 Samuel 20:29) the accent is on the mem. The accent of this verse agrees (qadma on the last syllable)."
+    },
+    {
+     "anchor": "radak:19:20:6",
+     "relation": "follows",
+     "summary": "Radak: מִצְעָר is from מִזְּעֵר ('little'), since the city was recently settled and its sins are not many; the Sages said Zoar's settlement was only fifty-one years old, by the count of נָא. The English 'small' follows the sense."
+    }
+   ],
+   "apparatus": [
+    "19:20.8: the WLC reads vehi (וְהִ֣יא); the base text has vehu (וְהִ֣וא). No difference of sense."
+   ],
+   "context": [
+    "Genesis 14:2 names the cities of the plain as Sodom, Gomorrah, Admah, Zeboiim and Bela, and says that Bela is Zoar. Radak notes the earlier name."
+   ]
+  },
+  {
+   "ref": "19:21",
+   "english": "He said to him, \"See, I have granted your request in this matter too, so as not to overturn the city you have spoken of.\"",
+   "literal": "and-said to-him see I-have-lifted-up your-face also to-the-matter this so-that-not my-overturning the-city which you-spoke",
+   "tokens": [
+    {
+     "id": "19:21.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol 3ms of amar: the singular speaker."
+    },
+    {
+     "id": "19:21.2",
+     "gloss": "to him",
+     "sense": "1",
+     "note": "El with the 3ms suffix: Lot."
+    },
+    {
+     "id": "19:21.3",
+     "gloss": "see",
+     "note": "Hinneh: 'see'. Not 'behold'."
+    },
+    {
+     "id": "19:21.4",
+     "gloss": "I have granted",
+     "sense": "Qal 1",
+     "note": "Qatal 1cs of nasa': the lexicon's 'lift, lift up'. The English 'granted' is the idiom of nasa' panim (see the note on 19:21.5)."
+    },
+    {
+     "id": "19:21.5",
+     "gloss": "your request",
+     "sense": "I.1",
+     "note": "Panim with the 2ms suffix in the idiom nasa' panim, 'lift up the face' = accept, grant. The English 'your request' renders the idiom; the literal is 'your face'."
+    },
+    {
+     "id": "19:21.6",
+     "gloss": "also",
+     "note": "Gam: 'also, too'."
+    },
+    {
+     "id": "19:21.7",
+     "gloss": "in this matter",
+     "sense": "IV",
+     "note": "Davar: 'matter, affair' (sense IV)."
+    },
+    {
+     "id": "19:21.8",
+     "gloss": "this",
+     "sense": "2",
+     "note": "Zeh in apposition after the noun."
+    },
+    {
+     "id": "19:21.9",
+     "gloss": "so as not",
+     "sense": "4",
+     "note": "Lebiltî with the infinitive: 'so as not to' (BDB 4, with preposition)."
+    },
+    {
+     "id": "19:21.10",
+     "gloss": "to overturn",
+     "sense": "Qal 1.b",
+     "note": "Hafkhi: the qal infinitive construct of hafakh with the 1cs suffix: 'overturn' (Qal 1.b, transitive). The 1cs is the speaker's own action."
+    },
+    {
+     "id": "19:21.11",
+     "gloss": "(object marker)",
+     "note": "Et, marking 'the city' as the object."
+    },
+    {
+     "id": "19:21.12",
+     "gloss": "the city",
+     "sense": "1",
+     "note": "Ir with the article."
+    },
+    {
+     "id": "19:21.13",
+     "gloss": "which",
+     "note": "Asher: relative pronoun."
+    },
+    {
+     "id": "19:21.14",
+     "gloss": "you have spoken",
+     "sense": "Pi",
+     "note": "Piel qatal 2ms of dabar: 'speak' (Pi). The relative clause refers back to the city Lot named."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "19:21.1",
+      "19:21.2"
+     ],
+     "english": "He said to him",
+     "literal": "'and-said to-him': the speech."
+    },
+    {
+     "tokens": [
+      "19:21.3",
+      "19:21.4",
+      "19:21.5"
+     ],
+     "english": "See, I have granted your request",
+     "literal": "'see I-have-lifted-up your-face': the idiom of grace."
+    },
+    {
+     "tokens": [
+      "19:21.6",
+      "19:21.7",
+      "19:21.8"
+     ],
+     "english": "in this matter too",
+     "literal": "'also to-the-matter this': the matter is the sparing of the city."
+    },
+    {
+     "tokens": [
+      "19:21.9",
+      "19:21.10",
+      "19:21.11",
+      "19:21.12"
+     ],
+     "english": "so as not to overturn the city",
+     "literal": "'so-that-not my-overturning the-city': the purpose of the grant."
+    },
+    {
+     "tokens": [
+      "19:21.13",
+      "19:21.14"
+     ],
+     "english": "you have spoken of",
+     "literal": "'which you-spoke': the relative clause; 'of' supplies the link to the city Lot named."
+    }
+   ],
+   "grammar": [
+    "The idiom nasa' panim, 'lift up the face', is the Hebrew for granting a request; the English 'granted your request' renders it, and the literal line keeps the face.",
+    "The purpose clause lebiltî hafkhi (with the infinitive) states what the grant serves: the city is not overturned.",
+    "The infinitive hafkhi carries the 1cs suffix: the speaker's own overturning. Rashi reads it as 'I overturn' (commentary).",
+    "The relative clause asher dibbarta returns to the city Lot named in 19:20; the English adds 'of' for the English link."
+   ],
+   "commentary": [
+    {
+     "anchor": "rashi:19:21:1",
+     "relation": "records",
+     "summary": "Rashi reads 'also in this matter' as 'not only will you be saved, but I will spare the whole city for your sake'. The English keeps 'in this matter too', the word gam with its object; Rashi's reading is recorded."
+    },
+    {
+     "anchor": "rashi:19:21:2",
+     "relation": "follows",
+     "summary": "Rashi: הָפְכִּי is 'hofekh ani', 'I overturn' (my overturning), like 'עַד בֹּאִי', 'אַחֲרֵי רֹאִי' and 'מִדֵּי דַבְּרִי בּוֹ': an infinitive with the first-person suffix as subject. The English 'so as not to overturn' takes the speaker as the agent."
+    },
+    {
+     "anchor": "radak:19:21:1",
+     "relation": "not-applicable",
+     "summary": "Radak: God allows the angels to add to or subtract a little from their commission, as they judge. A remark on the angels' discretion; not the plain sense of the words."
+    },
+    {
+     "anchor": "onkelos:19:21:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos renders the idiom as 'I have received (נְסֵיבִית) your face' and 'the city which you spoke' as 'the city of which you asked (דִּבְעֵיתָא עֲלַהּ)'. The English follows the idiom in sense."
+    }
+   ]
+  },
+  {
+   "ref": "19:22",
+   "english": "Hurry, escape there, for I cannot do anything until you arrive there. Therefore he called the name of the city Zoar.",
+   "literal": "hurry escape thither for not I-am-able to-do thing until your-coming thither upon-so he-called name-of the-city Zoar",
+   "tokens": [
+    {
+     "id": "19:22.1",
+     "gloss": "hurry",
+     "sense": "Pi 1",
+     "note": "Piel imperative 2ms of maher: 'hasten, make haste'."
+    },
+    {
+     "id": "19:22.2",
+     "gloss": "escape",
+     "sense": "Niph 2",
+     "note": "Nifal imperative 2ms of malat: the second command."
+    },
+    {
+     "id": "19:22.3",
+     "gloss": "there",
+     "note": "Shamma: 'thither'."
+    },
+    {
+     "id": "19:22.4",
+     "gloss": "for",
+     "sense": "3",
+     "note": "Ki with the causal sense: 'because, since' (BDB 3)."
+    },
+    {
+     "id": "19:22.5",
+     "gloss": "not",
+     "note": "Lo."
+    },
+    {
+     "id": "19:22.6",
+     "gloss": "I am able",
+     "sense": "Qal 1",
+     "note": "Yiqtol 1cs of yakhol. With lo, 'I cannot'. The speaker is singular (Rashi, commentary)."
+    },
+    {
+     "id": "19:22.7",
+     "gloss": "to do",
+     "sense": "Qal I.1",
+     "note": "Lia'sot: lamed with the qal infinitive construct of asah, 'do' (Qal I.1)."
+    },
+    {
+     "id": "19:22.8",
+     "gloss": "a thing",
+     "sense": "IV",
+     "note": "Davar: 'a thing, matter' (IV). In a negative clause this is 'anything'."
+    },
+    {
+     "id": "19:22.9",
+     "gloss": "until",
+     "sense": "I.2",
+     "note": "Ad: 'until', of time."
+    },
+    {
+     "id": "19:22.10",
+     "gloss": "your coming",
+     "sense": "Qal 2",
+     "note": "Bo'akha: the qal infinitive construct of bo' with the 2ms suffix: 'your coming' (Qal 2, 'come')."
+    },
+    {
+     "id": "19:22.11",
+     "gloss": "there",
+     "note": "Shamma."
+    },
+    {
+     "id": "19:22.12",
+     "gloss": "therefore",
+     "note": "Al in the idiom al ken: 'for this reason, therefore'."
+    },
+    {
+     "id": "19:22.13",
+     "gloss": "so",
+     "note": "Ken: 'so, thus', closing the idiom al ken."
+    },
+    {
+     "id": "19:22.14",
+     "gloss": "he called",
+     "sense": "Qal 6",
+     "note": "Qatal 3ms of קָרָא, 'call, name' (Qal 6), active, with the object 'the name of the city' and the name Zoar. The subject is not stated; Radak says only that the one who called it Zoar did so because its earlier name was Bela."
+    },
+    {
+     "id": "19:22.15",
+     "gloss": "the name of",
+     "sense": "1",
+     "note": "Shem in the construct: 'the name of the city' (sense 1, the designation of a city)."
+    },
+    {
+     "id": "19:22.16",
+     "gloss": "the city",
+     "sense": "1",
+     "note": "Ir with the article."
+    },
+    {
+     "id": "19:22.17",
+     "gloss": "Zoar",
+     "note": "Tso'ar, proper name. The text explains it by 'small' (mitz'ar, 19:20): a pun on the Hebrew."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "19:22.1",
+      "19:22.2",
+      "19:22.3"
+     ],
+     "english": "Hurry, escape there",
+     "literal": "'hurry escape thither': two imperatives."
+    },
+    {
+     "tokens": [
+      "19:22.4",
+      "19:22.5",
+      "19:22.6",
+      "19:22.7",
+      "19:22.8"
+     ],
+     "english": "for I cannot do anything",
+     "literal": "'for not I-am-able to-do a-thing': the reason for the urgency."
+    },
+    {
+     "tokens": [
+      "19:22.9",
+      "19:22.10",
+      "19:22.11"
+     ],
+     "english": "until you arrive there",
+     "literal": "'until your-coming thither': the time limit."
+    },
+    {
+     "tokens": [
+      "19:22.12",
+      "19:22.13"
+     ],
+     "english": "Therefore",
+     "literal": "'upon-so': the idiom al ken, 'therefore'."
+    },
+    {
+     "tokens": [
+      "19:22.14",
+      "19:22.15",
+      "19:22.16"
+     ],
+     "english": "he called the name of the city",
+     "literal": "'he-called name-of the-city': an active verb with no stated subject; Radak supplies one."
+    },
+    {
+     "tokens": [
+      "19:22.17"
+     ],
+     "english": "Zoar",
+     "literal": "'Zoar': the name."
+    }
+   ],
+   "grammar": [
+    "Two imperatives, piel maher and nifal malat, come first; the reason follows with ki and a negated yiqtol.",
+    "The speaker says 'I cannot' in the singular. Rashi takes this as the one angel who overturns, while the other saves: two angels are not sent on one matter (commentary).",
+    "The name tso'ar is a play on mitz'ar, 'small' (19:20). The Hebrew makes the link; the English gives the name and the note states the link.",
+    "The verse ends with a merkha on qara' (19:22.14) and a silluq on Zoar; the naming sentence is the closing clause of the segment."
+   ],
+   "note": "The Hebrew verb is active, 'he called'; no subject is named. The English keeps the active voice and leaves the subject open. The name Zoar (צוֹעַר) is tied to מִצְעָר 'small' of 19:20 (Rashi); its earlier name was Bela (14:2, Radak).",
+   "commentary": [
+    {
+     "anchor": "rashi:19:22:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: this is the punishment of the angels, who said 'we are destroyers' and attributed the matter to themselves, so they did not move until they had to say that the matter was not in their power. A homily; not the plain sense."
+    },
+    {
+     "anchor": "rashi:19:22:2",
+     "relation": "follows",
+     "summary": "Rashi: the singular 'I cannot' shows that one angel overturns and the other saves; two angels are not sent on one matter. The English keeps the singular 'I'."
+    },
+    {
+     "anchor": "rashi:19:22:3",
+     "relation": "records",
+     "summary": "Rashi: the city is named 'and it is small' (19:20): Zoar is named after mitz'ar. The English gives the name; the pun is recorded here."
+    },
+    {
+     "anchor": "radak:19:22:1",
+     "relation": "follows",
+     "summary": "Radak: 'for I cannot' means 'for I was commanded not to overturn until you are saved'. The English 'until you arrive there' follows him."
+    },
+    {
+     "anchor": "radak:19:22:2",
+     "relation": "records",
+     "summary": "Radak on קָרָא: the one who called the name of the city Zoar did so because Bela had been its name at first (14:2). In the part printed he does not name who called it; the English leaves the subject open."
+    },
+    {
+     "anchor": "onkelos:19:22:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos: 'I cannot do the matter until you come there'. The English follows the sense."
+    }
+   ]
+  },
+  {
+   "ref": "19:23",
+   "english": "The sun rose over the earth as Lot came to Zoar.",
+   "literal": "the-sun went-out upon the-earth and-Lot came Zoar-ward",
+   "tokens": [
+    {
+     "id": "19:23.1",
+     "gloss": "the sun",
+     "sense": "1",
+     "note": "Shemesh with the article. The noun is usually feminine, but the verb יָצָא is 3ms, so it is construed as masculine here."
+    },
+    {
+     "id": "19:23.2",
+     "gloss": "rose",
+     "sense": "Qal 1.f",
+     "note": "Qatal 3ms of yatsa', of inanimate things (Qal 1.f): 'come out, rise'."
+    },
+    {
+     "id": "19:23.3",
+     "gloss": "over",
+     "sense": "II.1",
+     "note": "Al: 'upon, over'."
+    },
+    {
+     "id": "19:23.4",
+     "gloss": "the earth",
+     "sense": "1.a",
+     "note": "Erets with the article: 'earth'."
+    },
+    {
+     "id": "19:23.5",
+     "gloss": "as Lot",
+     "note": "Vav with the proper name: the circumstantial clause."
+    },
+    {
+     "id": "19:23.6",
+     "gloss": "came",
+     "sense": "Qal 2",
+     "note": "Qatal 3ms of bo': 'come' (Qal 2)."
+    },
+    {
+     "id": "19:23.7",
+     "gloss": "to Zoar",
+     "note": "Tso'ar with the directional he: 'to Zoar'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "19:23.1",
+      "19:23.2",
+      "19:23.3",
+      "19:23.4"
+     ],
+     "english": "The sun rose over the earth",
+     "literal": "'the-sun came-out upon the-earth': the sunrise."
+    },
+    {
+     "tokens": [
+      "19:23.5",
+      "19:23.6",
+      "19:23.7"
+     ],
+     "english": "as Lot came to Zoar",
+     "literal": "'and-Lot came to-Zoar': the circumstance; the subject is named where the narrative returns to him."
+    }
+   ],
+   "grammar": [
+    "Two clauses, each with a qatal: the sun rose; Lot came. The second is a circumstantial clause, vav with a noun subject, so the English uses 'as'.",
+    "The etnahta on ha-arets (19:23.4) divides the verse: the sunrise first, then Lot's arrival."
+   ],
+   "commentary": [
+    {
+     "anchor": "radak:19:23:1",
+     "relation": "records",
+     "summary": "Radak: when Lot came to Zoar, the angel sent the rain by God's command. He reads the arrival as the point at which the destruction begins. The English keeps the two clauses simultaneous; Radak's sequence is recorded."
+    },
+    {
+     "anchor": "onkelos:19:23:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos: 'the sun went out upon the earth, and Lot came to Zoar'. The English follows the sense."
+    }
+   ]
+  }
+ ]
+}
