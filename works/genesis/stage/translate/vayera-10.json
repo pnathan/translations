@@ -1,0 +1,410 @@
+{
+  "unit": "vayera-10",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "20:1",
+      "english": "Abraham journeyed from there toward the land of the Negev, and he dwelt between Kadesh and between Shur, and he sojourned in Gerar.",
+      "literal": "and-journeyed from-there Abraham to-land the-Negev and-dwelt between Kadesh and-between Shur and-sojourned in-Gerar",
+      "tokens": [
+        {"id": "20:1.1", "gloss": "and journeyed", "sense": "Qal 3", "note": "wayyiqtol of נָסַע; 'journey, march' fits a move toward a region."},
+        {"id": "20:1.2", "gloss": "from there", "note": "The text does not name the place 'there'; 18:1 places Abraham at Mamre."},
+        {"id": "20:1.3", "gloss": "Abraham"},
+        {"id": "20:1.4", "gloss": "toward the land of", "sense": "2.b", "note": "The directional he with a construct: 'land' here is a region, the Negev."},
+        {"id": "20:1.5", "gloss": "the Negev"},
+        {"id": "20:1.6", "gloss": "and dwelt", "sense": "Qal 3", "note": "wayyiqtol of יָשַׁב: 'dwell, have one's abode'."},
+        {"id": "20:1.7", "gloss": "between", "sense": "1"},
+        {"id": "20:1.8", "gloss": "Kadesh", "sense": "1", "note": "The lexicon's first sense: the Kadesh in the south of Judah."},
+        {"id": "20:1.9", "gloss": "and between", "sense": "1"},
+        {"id": "20:1.10", "gloss": "Shur"},
+        {"id": "20:1.11", "gloss": "and sojourned", "sense": "Qal 1", "note": "wayyiqtol of גּוּר: to live as a resident without owning land."},
+        {"id": "20:1.12", "gloss": "in Gerar"}
+      ],
+      "phrases": [
+        {"tokens": ["20:1.1", "20:1.2", "20:1.3"], "english": "Abraham journeyed from there", "literal": "and-journeyed from-there Abraham: the verb leads the clause in Hebrew; the subject follows it"},
+        {"tokens": ["20:1.4", "20:1.5"], "english": "toward the land of the Negev", "literal": "to-land the-Negev: the directional he gives 'toward'"},
+        {"tokens": ["20:1.6", "20:1.7", "20:1.8"], "english": "he dwelt between Kadesh", "literal": "and-dwelt between Kadesh"},
+        {"tokens": ["20:1.9", "20:1.10"], "english": "and between Shur", "literal": "and-between Shur: the preposition repeated before the second place"},
+        {"tokens": ["20:1.11", "20:1.12"], "english": "and he sojourned in Gerar", "literal": "and-sojourned in-Gerar"}
+      ],
+      "grammar": [
+        "Three wayyiqtol verbs (וַיִּסַּע, וַיֵּשֶׁב, וַיָּגָר) carry the narrative in sequence: a move, a stay, and a longer residence.",
+        "The repeated preposition in בֵּין־קָדֵשׁ וּבֵין שׁוּר gives two separate points, with Kadesh and Shur as the ends of the place where Abraham dwelt.",
+        "The accents divide the verse at the etnaḥta on שׁ֑וּר, so the first half gives the journey and the stay and the second gives the residence in Gerar.",
+        "The place-names carry no article: קָדֵשׁ, שׁוּר and גְּרָר are proper names; the lexicon's first sense for קָדֵשׁ is the Kadesh of the south."
+      ],
+      "note": "The narrative of 20:1 moves without comment on the reason for the journey; the commentators supply motives (see commentary), which are not in the English.",
+      "commentary": [
+        {"anchor": "radak:20:1:2", "relation": "follows", "summary": "Radak: the Negev is the southern part of the land of Israel, since the inheritance of Judah lay to the south. The English keeps 'the land of the Negev' as a part of the land."},
+        {"anchor": "radak:20:1:1", "relation": "records", "summary": "Radak takes 'from there' as the oaks of Mamre, where Abraham lived, and suggests he went into the land of the Philistines, which is within the land God gave him. The English keeps 'from there' and does not name the place."},
+        {"anchor": "radak:20:1:3", "relation": "records", "summary": "Radak: 'dwelt' and 'sojourned' are one matter restated in a doubled clause; Abraham may first have dwelt by the well of Lahai, between Kadesh and Shur, and then come to Gerar. The English keeps the two verbs apart as the Hebrew does."},
+        {"anchor": "sforno:20:1:1", "relation": "records", "summary": "Sforno reads Kadesh and Shur as two great cities, and says Abraham settled between them to call on the name of the LORD, El Olam. The English takes both as places and adds nothing about cities."},
+        {"anchor": "onkelos:20:1:1", "relation": "records", "summary": "Targum Onkelos renders Kadesh as Rekem and Shur as Hagra, and keeps Gerar. The English keeps the Hebrew names, since those identifications are not settled."},
+        {"anchor": "rashi:20:1:1", "relation": "not-applicable", "summary": "Rashi gives a motive for leaving: the towns were ruined and travellers stopped, and Abraham moved away because of the bad name Lot had after his deeds with his daughters. This is a reason for the move, not the sense of the words."}
+      ],
+      "apparatus": [],
+      "context": [
+        "Gerar: a town and its king in the south of the land. Its exact site is disputed; the text places it between Kadesh and Shur.",
+        "Shur: named in 16:7 as a place on the road to Egypt, so it lay toward the south-west."
+      ]
+    },
+    {
+      "ref": "20:2",
+      "english": "Abraham said of Sarah his wife, \"She is my sister.\" Abimelech king of Gerar sent and took Sarah.",
+      "literal": "and-said Abraham to Sarah his-wife my-sister she and-sent Abimelech king of-Gerar and-took (object) Sarah",
+      "note": "The preposition אֶל before a person is read by Ibn Ezra as 'concerning', like על, and the English takes that reading. The name of Sarah's relation is Abraham's word; the English keeps the statement in the form the Hebrew gives it.",
+      "tokens": [
+        {"id": "20:2.1", "gloss": "and said", "sense": "Qal 1", "note": "wayyiqtol of אָמַר: the narrative verb that introduces the speech."},
+        {"id": "20:2.2", "gloss": "Abraham"},
+        {"id": "20:2.3", "gloss": "concerning", "note": "אֶל with a person, read by Ibn Ezra as על, 'about, concerning'."},
+        {"id": "20:2.4", "gloss": "Sarah"},
+        {"id": "20:2.5", "gloss": "his wife", "sense": "2", "note": "construct of אִשָּׁה with the 3ms suffix."},
+        {"id": "20:2.6", "gloss": "my sister", "sense": "1", "note": "construct of אָחוֹת with the 1cs suffix."},
+        {"id": "20:2.7", "gloss": "she", "note": "The pronoun is feminine, agreeing with Sarah; the statement has no verb."},
+        {"id": "20:2.8", "gloss": "and sent", "sense": "Qal 1", "note": "wayyiqtol of שָׁלַח."},
+        {"id": "20:2.9", "gloss": "Abimelech", "sense": "1", "note": "The lexicon's first sense: the king of Gerar."},
+        {"id": "20:2.10", "gloss": "king"},
+        {"id": "20:2.11", "gloss": "of Gerar"},
+        {"id": "20:2.12", "gloss": "and took", "sense": "Qal 3.a", "note": "wayyiqtol of לָקַח. What the taking means is developed in 20:3."},
+        {"id": "20:2.13", "gloss": "-", "note": "The object marker has no English counterpart."},
+        {"id": "20:2.14", "gloss": "Sarah"}
+      ],
+      "phrases": [
+        {"tokens": ["20:2.1", "20:2.2"], "english": "Abraham said", "literal": "and-said Abraham"},
+        {"tokens": ["20:2.3", "20:2.4", "20:2.5"], "english": "of Sarah his wife", "literal": "concerning Sarah his-wife: Ibn Ezra's 'like על'"},
+        {"tokens": ["20:2.6", "20:2.7"], "english": "She is my sister", "literal": "my-sister she: the subject follows the predicate; no copula in Hebrew"},
+        {"tokens": ["20:2.8", "20:2.9", "20:2.10", "20:2.11"], "english": "Abimelech king of Gerar sent", "literal": "and-sent Abimelech king of-Gerar: the subject is placed before the verb in English"},
+        {"tokens": ["20:2.12", "20:2.13", "20:2.14"], "english": "and took Sarah", "literal": "and-took (object) Sarah"}
+      ],
+      "grammar": [
+        "Three wayyiqtol verbs (וַיֹּאמֶר, וַיִּשְׁלַח, וַיִּקַּח) carry the narrative. Abraham's words are set without quotation marks in the Hebrew.",
+        "The statement אֲחֹתִי הִוא has no verb: the feminine pronoun agrees with Sarah, and the English supplies 'is'.",
+        "The etnaḥta on הִ֑וא ends Abraham's words, and the revia on וַיִּשְׁלַ֗ח begins the report of the king's act.",
+        "The object marker אֶת before שָׂרָה has no English counterpart, so it is given as '-' in the phrase."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:20:2:1", "relation": "follows", "summary": "Ibn Ezra: אל here means על, 'about, concerning', as in 1 Samuel 1:27 'concerning this boy' (אֶל הַנַּעַר הַזֶּה). So Abraham said of Sarah his wife that she was his sister."},
+        {"anchor": "rashi:20:2:2", "relation": "follows", "summary": "Rashi: אל means על here, as in the two parallel uses in 1 Samuel 4 (the taking of the ark and the death of her father-in-law). The English agrees."},
+        {"anchor": "rashi:20:2:1", "relation": "records", "summary": "Rashi on 'and Abraham said': he did not ask her leave, and spoke against her will and not for her good, since she had already been taken into Pharaoh's house. The English does not say whether she consented."},
+        {"anchor": "radak:20:2:1", "relation": "follows", "summary": "Radak: he said this of Sarah his wife, in answer to those who asked him about her; the preposition marks the subject of the question."},
+        {"anchor": "radak:20:2:3", "relation": "follows", "summary": "Radak: אל stands for על, as in 1 Samuel 17:49. He said this on coming to Gerar, because he judged the people there wicked, as Abimelech's own words in 20:11 show."},
+        {"anchor": "ramban:20:2:1", "relation": "records", "summary": "Ramban: this was not as in Egypt. The king of Gerar was honest and upright, and his men were good; Abraham suspected them without cause and said to all, 'She is my sister.'"},
+        {"anchor": "radak:20:2:4", "relation": "records", "summary": "Radak on 'and sent': after hearing of her beauty, the king had her brought and took her as his wife. The English 'took' keeps the verb open."},
+        {"anchor": "onkelos:20:2:1", "relation": "follows", "summary": "Targum Onkelos renders the phrase as 'concerning Sarah his wife', taking the preposition as 'about'. The English agrees."}
+      ],
+      "apparatus": [],
+      "context": [
+        "Abimelech: the name is usually read as 'my father is king' (אָבִי מֶלֶךְ). Whether it names one king or is a dynastic title is disputed; Psalm 34's superscription gives the name to the king whom 1 Samuel 21 calls Achish."
+      ]
+    },
+    {
+      "ref": "20:3",
+      "english": "An angel of God came to Abimelech in a dream in the night and said to him, \"You are a dead man because of the woman whom you took, and she belongs to a husband.\"",
+      "literal": "and-came God to Abimelech in-dream the-night and-said to-him here-you dead on the-woman whom you-took and-she belonging-of a-husband",
+      "note": "The subject is the plural אֱלֹהִים with a singular verb. The Hebrew allows 'God' or a divine messenger; Ibn Ezra reads the messenger (המלאך), and by the rule that the normative commentator decides among the readings the Hebrew allows, the English follows him. The honour and the contrast with Pharaoh that he gives are commentary and stay out of the English.",
+      "tokens": [
+        {"id": "20:3.1", "gloss": "came", "sense": "Qal 2", "note": "wayyiqtol of בּוֹא: 'come to' a person."},
+        {"id": "20:3.2", "gloss": "an angel of God", "sense": "1.c", "note": "Plural form with a singular verb. Sense 1.c is the reading of Ibn Ezra (המלאך). 'God' himself is the other reading, recorded in the commentary."},
+        {"id": "20:3.3", "gloss": "to"},
+        {"id": "20:3.4", "gloss": "Abimelech", "sense": "1"},
+        {"id": "20:3.5", "gloss": "in a dream", "sense": "2", "note": "The lexicon's second sense: a dream with a message."},
+        {"id": "20:3.6", "gloss": "in the night", "note": "The night is the time of the dream."},
+        {"id": "20:3.7", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "20:3.8", "gloss": "to him"},
+        {"id": "20:3.9", "gloss": "here you are", "note": "הִנְּךָ: the demonstrative with the 2ms suffix, presenting the state."},
+        {"id": "20:3.10", "gloss": "dead", "sense": "Qal 1", "note": "The active participle of מוּת, 'dying' or 'dead'. The English 'a dead man' takes the state of the participle; Sforno reads 'dying' (commentary)."},
+        {"id": "20:3.11", "gloss": "because of", "note": "עַל: 'on account of'."},
+        {"id": "20:3.12", "gloss": "the woman", "sense": "1"},
+        {"id": "20:3.13", "gloss": "whom"},
+        {"id": "20:3.14", "gloss": "you took", "sense": "Qal 3.a", "note": "qatal 2ms of לָקַח: the act for which the king is to die."},
+        {"id": "20:3.15", "gloss": "and she"},
+        {"id": "20:3.16", "gloss": "belonging", "sense": "Qal 1", "note": "Feminine construct passive participle of בָּעַל, 'to be master, to marry'. The pack parses it as qal; BDB gives the passive sense 'be married' under Niph. The English follows the parse and the passive sense."},
+        {"id": "20:3.17", "gloss": "to a husband", "sense": "I.2", "note": "The lexicon's sense I.2: husband."}
+      ],
+      "phrases": [
+        {"tokens": ["20:3.1", "20:3.2", "20:3.3", "20:3.4"], "english": "An angel of God came to Abimelech", "literal": "and-came God to Abimelech: the subject follows the verb, as Ibn Ezra reads it, an angel"},
+        {"tokens": ["20:3.5", "20:3.6"], "english": "in a dream in the night", "literal": "in-dream the-night"},
+        {"tokens": ["20:3.7", "20:3.8"], "english": "said to him", "literal": "and-said to-him"},
+        {"tokens": ["20:3.9", "20:3.10"], "english": "You are a dead man", "literal": "here-you dead: the participle gives the state; 'a' is English grammar"},
+        {"tokens": ["20:3.11", "20:3.12"], "english": "because of the woman", "literal": "on the-woman"},
+        {"tokens": ["20:3.13", "20:3.14"], "english": "whom you took", "literal": "whom you-took"},
+        {"tokens": ["20:3.15", "20:3.16", "20:3.17"], "english": "and she belongs to a husband", "literal": "and-she belonging-of a-husband: the English keeps 'husband' in the word בַּעַל"}
+      ],
+      "grammar": [
+        "The clause opens with the verb (וַיָּבֹא), then its subject, then the preposition to the king: the English order changes only the placing of the subject.",
+        "The etnaḥta on הַלָּ֑יְלָה ends the clause of the dream. The dream is בַּחֲלוֹם הַלָּיְלָה: 'in a dream of the night'.",
+        "הִנְּךָ מֵת: a demonstrative with a participle gives the present state, 'you are as one dead'.",
+        "The relative clause אֲשֶׁר לָקַחְתָּ refers back to הָאִשָּׁה; the qatal names the act. The last clause, וְהִוא בְּעֻלַת בָּעַל, explains why the taking is a wrong."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:20:3:1", "relation": "follows", "summary": "Ibn Ezra: the angel came in a dream to Abimelech for the honour of Abraham. The word for 'taking' (לקיחה) is used here as with Pharaoh, but Abimelech was not struck as Pharaoh was, since he was more righteous than Pharaoh (כִּי צַדִּיק הָיָה מִפַּרְעֹה). The English takes the angel as the subject; the honour and the contrast stay in the commentary."},
+        {"anchor": "radak:20:3:1", "relation": "follows", "summary": "Radak: a prophetic dream comes to the nations for the sake of the righteous, but Pharaoh did not deserve one, and messengers (שְׁלוּחִין) from God came to him. The messenger reading finds support here."},
+        {"anchor": "radak:20:3:2", "relation": "follows", "summary": "Radak: she is forbidden to Abimelech because a man must not take another man's wife, which the sons of Noah were also bound by. The English 'belongs to a husband' states the same prohibition."},
+        {"anchor": "radak:20:3:3", "relation": "records", "summary": "Radak: the text does not say אֵשֶׁת אִישׁ; the words בְּעֻלַת בָּעַל mean a woman who has been had by her husband, and a betrothed woman is not liable until she has been had by the betrothed. The English 'belongs to a husband' leaves this open."},
+        {"anchor": "sforno:20:3:1", "relation": "records", "summary": "Sforno: as with Laban and Balaam, no appearance of God is described, only a voice (קוֹל) came to him. The English follows the messenger reading and does not say whether a voice or a figure came."},
+        {"anchor": "sforno:20:3:2", "relation": "records", "summary": "Sforno reads הִנְּךָ מֵת as 'you are going and being consumed by the illness that began in you', so the death is in progress and not yet complete. The English gives the state of a dead man."},
+        {"anchor": "onkelos:20:3:1", "relation": "records", "summary": "Targum Onkelos makes the subject 'a word (memra) from before the LORD' that came to Abimelech in a dream. The English keeps the Hebrew subject, as Ibn Ezra reads it."}
+      ],
+      "apparatus": [
+        "The subject of 20:3 is the plural אֱלֹהִים with a singular verb. The English reads an angel of God on Ibn Ezra's ruling; in 20:6 the same speaker is 'God' (הָאֱלֹהִים), as the decisions set for that verse. The two are not reconciled in the English, and the editor may wish to review them together."
+      ],
+      "context": [
+        "A dream: the Hebrew חֲלוֹם covers an ordinary dream and a dream carrying a message (lexicon senses 1 and 2); here it carries a message from the divine speaker.",
+        "A married woman was under her husband's rights in the ancient Near East; בַּעַל is the usual word for a husband and also means 'owner, lord' (lexicon sense I.1), which is why 'belongs to' is a fair English."
+      ]
+    },
+    {
+      "ref": "20:4",
+      "english": "But Abimelech had not approached her. He said, \"My Lord, will you kill a nation, even a righteous one?\"",
+      "literal": "and-Abimelech not approached to-her and-said my-Lord interrogative-nation even righteous kill",
+      "note": "The vav of וַאֲבִימֶלֶךְ marks contrast with the man in danger: the king had not come near her. Ibn Ezra's reading of הַגּוֹי as the nation (not 'man') decides the English 'a nation'. His motives for the king's plea are commentary.",
+      "tokens": [
+        {"id": "20:4.1", "gloss": "but Abimelech", "sense": "1", "note": "The vav is contrastive: 'but'."},
+        {"id": "20:4.2", "gloss": "not"},
+        {"id": "20:4.3", "gloss": "had approached", "sense": "Qal", "note": "qatal of קָרַב with לֹא: a completed negative act in the past."},
+        {"id": "20:4.4", "gloss": "to her"},
+        {"id": "20:4.5", "gloss": "and said", "sense": "Qal 1", "note": "wayyiqtol after the qatal of the previous clause."},
+        {"id": "20:4.6", "gloss": "my Lord", "note": "אֲדֹנָי with qamats, addressing God in the dream (decisions, 18:3). The pack has no Ibn Ezra comment on this word; see apparatus."},
+        {"id": "20:4.7", "gloss": "a nation", "note": "The interrogative he is prefixed. Ibn Ezra reads 'the nation', the people under the king."},
+        {"id": "20:4.8", "gloss": "even"},
+        {"id": "20:4.9", "gloss": "righteous"},
+        {"id": "20:4.10", "gloss": "will you kill", "sense": "Qal 2", "note": "yiqtol 2ms of הָרַג with God as the subject: 'kill in judgment' (Qal 2)."}
+      ],
+      "phrases": [
+        {"tokens": ["20:4.1", "20:4.2", "20:4.3", "20:4.4"], "english": "But Abimelech had not approached her", "literal": "and-Abimelech not approached to-her: the vav is contrast"},
+        {"tokens": ["20:4.5"], "english": "he said", "literal": "and-said"},
+        {"tokens": ["20:4.6"], "english": "My Lord", "literal": "my-Lord (addressing God)"},
+        {"tokens": ["20:4.7", "20:4.8", "20:4.9", "20:4.10"], "english": "Will you kill a nation, even a righteous one", "literal": "interrogative-nation even righteous kill: the question word stands with the noun, the concessive 'even' before the adjective"}
+      ],
+      "grammar": [
+        "The qatal לֹא קָרַב states a completed negative act; the wayyiqtol וַיֹּאמַר then takes up the narrative.",
+        "The interrogative הֲ with גּוֹי makes the whole of 20:4 a question; גַּם צַדִּיק is concessive, 'even a righteous one'.",
+        "The zaqef gadol on וַאֲבִימֶ֕לֶךְ and on אֲדֹנָ֕י marks the two halves: the king's refusal, and his speech.",
+        "The speech is addressed to God, and the 2ms yiqtol תַּהֲרֹג has God as its subject: the English 'will you kill' keeps the addressee."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:20:4:1", "relation": "follows", "summary": "Ibn Ezra: the sense of 'the nation, also the righteous, you would kill' is 'on behalf of his soul, his house and his kingdom' (בְּעַד נַפְשׁוֹ וּבֵיתוֹ וּמַמְלַכְתּוֹ). He takes הַגּוֹי as the nation, and warns against the reading that makes גּוֹי 'man', which changes one word for another. The English takes 'a nation'."},
+        {"anchor": "radak:20:4:2", "relation": "follows", "summary": "Radak: 'if you kill me, it is as if my people die with me, since I am a king who leads them in justice'. He calls himself righteous, since he took her in good faith and was not guilty of a capital crime. The English 'a nation' and 'a righteous one' match this."},
+        {"anchor": "onkelos:20:4:1", "relation": "follows", "summary": "Targum Onkelos renders הַגּוֹי as 'the people' (הֲעָם), so 'will you kill the people, even a righteous one?' The English agrees on 'a nation'."},
+        {"anchor": "sforno:20:4:1", "relation": "follows", "summary": "Sforno: is it fitting that the nation be destroyed by killing its king, and that a righteous king be killed for what he did not do? He reads גּוֹי as the people; the English follows."},
+        {"anchor": "rashi:20:4:1", "relation": "records", "summary": "Rashi: the angel held him back, as God says, 'I did not let you touch her.' The English says only that he had not approached her; who held him back is not in the words."},
+        {"anchor": "rashi:20:4:2", "relation": "records", "summary": "Rashi, in his midrash: 'even if he is righteous, will you kill him? Is it your way to destroy nations for nothing? You did so to the generation of the flood and to the generation of the Dispersion.' This is an objection, not the plain sense; it is kept because a reader may take it."},
+        {"anchor": "radak:20:4:1", "relation": "not-applicable", "summary": "Radak: the desire was held back by God's will. This is a reason for the verb, not its sense."}
+      ],
+      "apparatus": [
+        "אֲדֹנָי with qamats: the pack has no Ibn Ezra comment on this word. 'My Lord' is taken as address to God, the speaker of the dream. The other reading, 'my lord' for a man, is recorded here; it would make the king address the messenger."
+      ],
+      "context": []
+    },
+    {
+      "ref": "20:5",
+      "english": "Did he not himself say to me, \"She is my sister\"? And she also said, \"He is my brother.\" In the integrity of my heart and in the innocence of my hands I did this.",
+      "literal": "did-not he himself said to-me my-sister she and-she also she said my-brother he in-integrity of-my-heart and-in-innocence of-my-hands I-did this",
+      "tokens": [
+        {"id": "20:5.1", "gloss": "did not", "note": "הֲלֹא: an interrogative that expects yes; the question asks 'did he not say?'"},
+        {"id": "20:5.2", "gloss": "he himself", "note": "The emphatic pronoun is the subject of אָמַר."},
+        {"id": "20:5.3", "gloss": "say", "sense": "Qal 1"},
+        {"id": "20:5.4", "gloss": "to me"},
+        {"id": "20:5.5", "gloss": "my sister", "sense": "1"},
+        {"id": "20:5.6", "gloss": "she"},
+        {"id": "20:5.7", "gloss": "and she"},
+        {"id": "20:5.8", "gloss": "also"},
+        {"id": "20:5.9", "gloss": "she"},
+        {"id": "20:5.10", "gloss": "said", "sense": "Qal 1"},
+        {"id": "20:5.11", "gloss": "my brother", "sense": "1"},
+        {"id": "20:5.12", "gloss": "he"},
+        {"id": "20:5.13", "gloss": "in the integrity", "sense": "3", "note": "The lexicon's sense 3: integrity."},
+        {"id": "20:5.14", "gloss": "of my heart", "sense": "II.1", "note": "The inner man, the heart."},
+        {"id": "20:5.15", "gloss": "and in the innocence", "sense": "1", "note": "Freedom from guilt."},
+        {"id": "20:5.16", "gloss": "of my hands", "note": "כַּפַּיִם is a dual construct: the palms of the hands."},
+        {"id": "20:5.17", "gloss": "I did", "sense": "Qal I.1"},
+        {"id": "20:5.18", "gloss": "this"}
+      ],
+      "phrases": [
+        {"tokens": ["20:5.1", "20:5.2", "20:5.3", "20:5.4"], "english": "Did he not himself say to me", "literal": "did-not he-himself say to-me: the question word is placed before the subject"},
+        {"tokens": ["20:5.5", "20:5.6"], "english": "She is my sister", "literal": "my-sister she"},
+        {"tokens": ["20:5.7", "20:5.8", "20:5.9", "20:5.10"], "english": "And she also said", "literal": "and-she also she said: the second statement repeats the pronoun for emphasis"},
+        {"tokens": ["20:5.11", "20:5.12"], "english": "He is my brother", "literal": "my-brother he"},
+        {"tokens": ["20:5.13", "20:5.14"], "english": "In the integrity of my heart", "literal": "in-integrity of-my-heart"},
+        {"tokens": ["20:5.15", "20:5.16"], "english": "and in the innocence of my hands", "literal": "and-in-innocence of-my-hands"},
+        {"tokens": ["20:5.17", "20:5.18"], "english": "I did this", "literal": "I-did this"}
+      ],
+      "grammar": [
+        "The two statements are parallel: הוּא ... אֲחֹתִי הִוא and וְהִיא ... אָחִי הוּא. The pronoun opens each half, and 'sister' and 'brother' answer each other.",
+        "The clause וּבְנִקְיֹן כַּפַּי is parallel with בְּתֹם לְבָבִי: two prepositional phrases describe the single act.",
+        "The silluq on זֹֽאת ends the verse; the merkha on עָשִׂ֥יתִי gives the act that the speaker claims.",
+        "The question הֲלוֹא expects the answer yes, and so shifts the weight of the charge onto the king's own words."
+      ],
+      "commentary": [
+        {"anchor": "rashi:20:5:1", "relation": "records", "summary": "Rashi: 'also' (גַּם) includes her servants, camels and donkeys; he asked them all and they told him 'he is her brother'. The English keeps 'also' in its ordinary sense and does not name the servants."},
+        {"anchor": "rashi:20:5:2", "relation": "records", "summary": "Rashi: 'in the integrity of my heart' means 'I did not intend to sin'. The English keeps the wider word 'integrity' (lexicon sense 3)."},
+        {"anchor": "rashi:20:5:3", "relation": "records", "summary": "Rashi: 'in the innocence of my hands' means 'I did not touch her'. The English keeps 'hands' as the Hebrew does."},
+        {"anchor": "radak:20:5:1", "relation": "not-applicable", "summary": "Radak: Abimelech asked Abraham about her, since he did not rely on his servants' questions. This is a gloss on the scene, not a sense of the words."},
+        {"anchor": "radak:20:5:4", "relation": "not-applicable", "summary": "Radak: his heart was not toward evil, and had he thought her another man's wife, his heart would not have been set on her. A gloss on the phrase, not a sense of its words."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "20:6",
+      "english": "God said to him in a dream, \"I also knew that in the integrity of your heart you did this, and I also kept you from sinning against me; therefore I did not let you touch her.\"",
+      "literal": "and-said to-him the-God in-dream also I knew that in-integrity of-your-heart you-did this and-I-kept-back also I you from-sinning to-me upon so not I-gave-you to-touch to-her",
+      "note": "The speaker is God (הָאֱלֹהִים), as the decisions set for this verse. The speaker of 20:3 is called 'an angel of God' on Ibn Ezra's reading, so the two verses differ in the English; see the apparatus. The 'letting' of 20:6 translates נתן with 'give' (leave), and Rashi's reading 'I did not give you the power' is adopted.",
+      "tokens": [
+        {"id": "20:6.1", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "20:6.2", "gloss": "to him"},
+        {"id": "20:6.3", "gloss": "God", "sense": "3", "note": "The article with the plural form: the God who speaks. The decisions give 'God' for this verse."},
+        {"id": "20:6.4", "gloss": "in a dream", "sense": "2", "note": "A dream with a message, as in 20:3."},
+        {"id": "20:6.5", "gloss": "also"},
+        {"id": "20:6.6", "gloss": "I"},
+        {"id": "20:6.7", "gloss": "knew", "sense": "Qal 1.a"},
+        {"id": "20:6.8", "gloss": "that"},
+        {"id": "20:6.9", "gloss": "in the integrity", "sense": "3"},
+        {"id": "20:6.10", "gloss": "of your heart", "sense": "II.1"},
+        {"id": "20:6.11", "gloss": "you did", "sense": "Qal I.1"},
+        {"id": "20:6.12", "gloss": "this"},
+        {"id": "20:6.13", "gloss": "and I kept back", "sense": "Qal 2", "note": "wayyiqtol 1cs of חָשַׂךְ: 'restrain, check' God's hand held back the king."},
+        {"id": "20:6.14", "gloss": "also"},
+        {"id": "20:6.15", "gloss": "I"},
+        {"id": "20:6.16", "gloss": "you", "note": "The object marker with the 2ms suffix: 'you'."},
+        {"id": "20:6.17", "gloss": "from sinning", "sense": "Qal 2", "note": "Infinitive construct of חָטָא with מִן: 'from sinning'."},
+        {"id": "20:6.18", "gloss": "against me", "note": "לִי with the infinitive: 'sin against me'. Radak takes it as a sin against God's command."},
+        {"id": "20:6.19", "gloss": "therefore", "note": "עַל כֵּן, the idiom."},
+        {"id": "20:6.20", "gloss": "so"},
+        {"id": "20:6.21", "gloss": "not"},
+        {"id": "20:6.22", "gloss": "I let", "sense": "Qal 1", "note": "qatal 1cs of נָתַן with the 2ms suffix: 'I gave you (leave)'; English 'let'."},
+        {"id": "20:6.23", "gloss": "to touch", "sense": "Qal 1.a", "note": "Infinitive construct with ל, which Ibn Ezra takes as a verbal noun (שֵׁם פֹּעַל)."},
+        {"id": "20:6.24", "gloss": "her"}
+      ],
+      "phrases": [
+        {"tokens": ["20:6.1", "20:6.2", "20:6.3", "20:6.4"], "english": "God said to him in a dream", "literal": "and-said to-him the-God in-dream"},
+        {"tokens": ["20:6.5", "20:6.6", "20:6.7", "20:6.8"], "english": "I also knew that", "literal": "also I knew that"},
+        {"tokens": ["20:6.9", "20:6.10"], "english": "in the integrity of your heart", "literal": "in-integrity of-your-heart"},
+        {"tokens": ["20:6.11", "20:6.12"], "english": "you did this", "literal": "you-did this"},
+        {"tokens": ["20:6.13", "20:6.14", "20:6.15", "20:6.16"], "english": "I also kept you", "literal": "and-kept-back also I you: the vav begins the clause; 'kept' stands for the restraint"},
+        {"tokens": ["20:6.17", "20:6.18"], "english": "from sinning against me", "literal": "from-sinning to-me"},
+        {"tokens": ["20:6.19", "20:6.20"], "english": "therefore", "literal": "upon so: the idiom 'therefore'"},
+        {"tokens": ["20:6.21", "20:6.22", "20:6.23", "20:6.24"], "english": "I did not let you touch her", "literal": "not I-gave-you to-touch to-her"}
+      ],
+      "grammar": [
+        "The sequence is qatal (ידעתי), wayyiqtol (ואחשך), qatal (נתתיך): knowledge, the restraint that followed, and the consequence in the last clause.",
+        "The infinitive לִנְגֹּעַ has the ל prefix and follows the negative qatal: 'did not let you (touch)'.",
+        "The form מֵחֲטוֹ is an infinitive construct of the lamed-alef root חטא, with a vav for the alef (Radak).",
+        "The silluq on אֵלֶֽיהָ ends the speech; the darga on וָאֶחְשֹׂ֧ךְ marks the restraint as the main clause."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:20:6:1", "relation": "follows", "summary": "Ibn Ezra: לנגוע is a verbal noun (שֵׁם פֹּעַל), like לנטוע (Isaiah 51:16) and לטעת (Ecclesiastes 3:2), and all such forms are of this kind. The English 'to touch' keeps the infinitive, which does not change the sense of the word."},
+        {"anchor": "rashi:20:6:2", "relation": "follows", "summary": "Rashi: 'I did not let you' means 'it was not from you that you did not touch her; I held you back and did not give you the power' (כֹּחַ). The English 'did not let you' takes נתן in this sense of giving leave."},
+        {"anchor": "rashi:20:6:1", "relation": "records", "summary": "Rashi: 'you did not sin from the start, but cleanness of hands is not here', because the taking was done. The English keeps 'integrity of heart' and says nothing of the hands in this verse."},
+        {"anchor": "radak:20:6:2", "relation": "follows", "summary": "Radak: God knew the sin, since he had commanded Noah's sons about another man's wife; the sin is against God, so 'against me' is the right sense."},
+        {"anchor": "radak:20:6:3", "relation": "follows", "summary": "Radak: the vav stands in place of the alef of the lamed-alef verb in מֵחֲטוֹ. The English reads the infinitive of 'sin' as the form requires."},
+        {"anchor": "radak:20:6:6", "relation": "follows", "summary": "Radak: לִנְגֹּעַ covers any touch short of intercourse, kissing and embracing included, so God kept the king from all intimacy. The English 'touch' keeps this breadth."},
+        {"anchor": "onkelos:20:6:1", "relation": "records", "summary": "Targum Onkelos: 'I also withheld you from sinning before me' (קָדָמַי, in my sight). The English 'against me' keeps the Hebrew dative; Onkelos's 'before me' is a near reading."},
+        {"anchor": "radak:20:6:1", "relation": "not-applicable", "summary": "Radak: the text does not say 'cleanness of hands', because the heart is known only to God. A reason for the wording, not a sense of the words."},
+        {"anchor": "radak:20:6:4", "relation": "not-applicable", "summary": "Radak: God held the king back from desire, and this was a kindness done in this way. A reason for the 'therefore', not a sense of the words."}
+      ],
+      "apparatus": [
+        "The speaker of 20:3 is 'an angel of God' on Ibn Ezra's reading, and the speaker of 20:6 is 'God' by the decision for that verse. The English does not harmonize them; a reader meets the difference that the Hebrew allows."
+      ],
+      "context": []
+    },
+    {
+      "ref": "20:7",
+      "english": "Now return the man's wife, for he is a prophet, and he will pray for you, and you will live. And if you do not return her, know that you will surely die, you and all that is yours.",
+      "literal": "and-now return wife-of the-man for prophet he and-will-pray for-you and-live and-if you-are-not returning know that surely-die you-will-die you and-all that to-you",
+      "tokens": [
+        {"id": "20:7.1", "gloss": "and now", "note": "The adverb 'now' introduces the command."},
+        {"id": "20:7.2", "gloss": "return", "note": "Imperative hifil of שׁוּב. The pack's lexicon for שׁוּב breaks off after Pō‛l and prints no hifil sense, so no sense path is given."},
+        {"id": "20:7.3", "gloss": "wife of", "sense": "2", "note": "construct of אִשָּׁה: 'wife'."},
+        {"id": "20:7.4", "gloss": "the man"},
+        {"id": "20:7.5", "gloss": "for"},
+        {"id": "20:7.6", "gloss": "prophet", "sense": "1"},
+        {"id": "20:7.7", "gloss": "he"},
+        {"id": "20:7.8", "gloss": "and he will pray", "sense": "Hithp 2", "note": "yiqtol of the hitpael of פָּלַל: 'pray'."},
+        {"id": "20:7.9", "gloss": "for you", "note": "בַּעַד: 'on your behalf'."},
+        {"id": "20:7.10", "gloss": "and you will live", "sense": "Qal 1", "note": "The Hebrew imperative after the yiqtol is a promised consequence. Radak and Sforno read 'be healed' (commentary)."},
+        {"id": "20:7.11", "gloss": "and if"},
+        {"id": "20:7.12", "gloss": "you do not", "note": "אֵין with the 2ms suffix: 'you are not' (here, not returning)."},
+        {"id": "20:7.13", "gloss": "return", "note": "Hifil participle of שׁוּב; the object 'her' is understood. The lexicon gives no hifil sense (see 20:7.2)."},
+        {"id": "20:7.14", "gloss": "know", "sense": "Qal 1.a"},
+        {"id": "20:7.15", "gloss": "that"},
+        {"id": "20:7.16", "gloss": "surely die", "sense": "Qal 1", "note": "Infinitive absolute before the yiqtol: emphasis."},
+        {"id": "20:7.17", "gloss": "you will die", "sense": "Qal 1"},
+        {"id": "20:7.18", "gloss": "you"},
+        {"id": "20:7.19", "gloss": "and all", "sense": "2.a", "note": "כָּל with the relative: 'all that belongs to you'."},
+        {"id": "20:7.20", "gloss": "that"},
+        {"id": "20:7.21", "gloss": "is yours", "note": "The preposition with the 2fs suffix; the masculine 'you' of the rest of the verse is addressed in the same breath."}
+      ],
+      "phrases": [
+        {"tokens": ["20:7.1", "20:7.2", "20:7.3", "20:7.4"], "english": "Now return the man's wife", "literal": "and-now return wife-of the-man"},
+        {"tokens": ["20:7.5", "20:7.6", "20:7.7"], "english": "for he is a prophet", "literal": "for prophet he"},
+        {"tokens": ["20:7.8", "20:7.9"], "english": "and he will pray for you", "literal": "and-will-pray for-you"},
+        {"tokens": ["20:7.10"], "english": "and you will live", "literal": "and-live"},
+        {"tokens": ["20:7.11", "20:7.12", "20:7.13"], "english": "And if you do not return her", "literal": "and-if you-are-not returning: the object is understood as 'her'"},
+        {"tokens": ["20:7.14", "20:7.15"], "english": "know that", "literal": "know that"},
+        {"tokens": ["20:7.16", "20:7.17"], "english": "you will surely die", "literal": "surely-die you-will-die"},
+        {"tokens": ["20:7.18", "20:7.19", "20:7.20", "20:7.21"], "english": "you and all that is yours", "literal": "you and-all that to-you"}
+      ],
+      "grammar": [
+        "The imperative הָשֵׁב and the yiqtol וְיִתְפַּלֵּל lead to the promise of the imperative וֶחְיֵה: the clause of consequence.",
+        "The clause כִּי נָבִיא הוּא gives the reason for the command: he is a prophet, and so his prayer will work.",
+        "The conditional וְאִם־אֵֽינְךָ מֵשִׁיב is an open condition; the participle מֵשִׁיב is a present or future.",
+        "The infinitive absolute מוֹת before the yiqtol תָּמוּת gives emphasis: 'you will surely die'. The etnaḥta on וֶֽחְיֵ֑ה ends the first part."
+      ],
+      "commentary": [
+        {"anchor": "onkelos:20:7:1", "relation": "follows", "summary": "Targum Onkelos renders the command as 'return the man's wife' (אֲתֵיב אִתַּת גַּבְרָא). The English agrees."},
+        {"anchor": "radak:20:7:1", "relation": "not-applicable", "summary": "Radak: God will not forgive until the prophet prays, so Abimelech must make his peace with Abraham even though he sinned in good faith. A reason for the prayer, not a sense of the words."},
+        {"anchor": "radak:20:7:2", "relation": "records", "summary": "Radak: וֶחְיֵה means 'be healed' (וְתֵרָפֵא), as in 'until they were healed' (Joshua 5:8) and 'he recovered' (Isaiah 38:21). The English 'you will live' keeps the basic sense."},
+        {"anchor": "sforno:20:7:1", "relation": "records", "summary": "Sforno: 'now' means before you are consumed by the illness. The English gives 'now' and says nothing of the illness."},
+        {"anchor": "sforno:20:7:2", "relation": "records", "summary": "Sforno: 'live' means 'be healed', as in 'until they were healed' (Joshua 5:8). The English keeps 'live'."},
+        {"anchor": "sforno:20:7:3", "relation": "records", "summary": "Sforno: 'all that is yours' means the children in the wombs of your wife and of your maidservants. The English keeps the general phrase."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "20:8",
+      "english": "Abimelech rose early in the morning and called all his servants and told all these words in their hearing, and the men were greatly afraid.",
+      "literal": "and-rose-early Abimelech in-the-morning and-called to-all his-servants and-told (object) all the-words these in their-ears and-feared the-men greatly",
+      "note": "The idiom 'in their ears' (בְּאׇזְנֵיהֶם) is rendered 'in their hearing', which keeps the idiom. Radak's identification of the men as the servants who had praised Sarah is kept in the commentary.",
+      "tokens": [
+        {"id": "20:8.1", "gloss": "and rose early", "note": "Hifil wayyiqtol of שָׁכַם: 'rose early', the idiom."},
+        {"id": "20:8.2", "gloss": "Abimelech", "sense": "1", "note": "The king of Gerar."},
+        {"id": "20:8.3", "gloss": "in the morning", "sense": "1"},
+        {"id": "20:8.4", "gloss": "and called", "sense": "Qal 5", "note": "wayyiqtol of קָרָא: 'summon'."},
+        {"id": "20:8.5", "gloss": "all", "sense": "1", "note": "לְ with the construct כָּל: 'all of'."},
+        {"id": "20:8.6", "gloss": "his servants", "sense": "1", "note": "The king's servants, his court."},
+        {"id": "20:8.7", "gloss": "and told", "sense": "Pi", "note": "wayyiqtol of the piel of דָּבַר."},
+        {"id": "20:8.8", "gloss": "-", "note": "The object marker has no English counterpart."},
+        {"id": "20:8.9", "gloss": "all", "sense": "1"},
+        {"id": "20:8.10", "gloss": "the words", "sense": "III", "note": "The lexicon's sense III: 'a word, words'."},
+        {"id": "20:8.11", "gloss": "these", "sense": "c", "note": "The demonstrative after a noun with the article."},
+        {"id": "20:8.12", "gloss": "in their hearing", "sense": "1", "note": "The idiom 'in the ears of'."},
+        {"id": "20:8.13", "gloss": "and were afraid", "sense": "Qal 1", "note": "wayyiqtol 3mp of יָרֵא: 'fear, be afraid'."},
+        {"id": "20:8.14", "gloss": "the men"},
+        {"id": "20:8.15", "gloss": "greatly", "sense": "2", "note": "Adverb: 'exceedingly, greatly'."}
+      ],
+      "phrases": [
+        {"tokens": ["20:8.1", "20:8.2"], "english": "Abimelech rose early", "literal": "and-rose-early Abimelech"},
+        {"tokens": ["20:8.3"], "english": "in the morning", "literal": "in-the-morning"},
+        {"tokens": ["20:8.4"], "english": "and called", "literal": "and-called"},
+        {"tokens": ["20:8.5", "20:8.6"], "english": "all his servants", "literal": "to-all his-servants"},
+        {"tokens": ["20:8.7", "20:8.8", "20:8.9", "20:8.10", "20:8.11"], "english": "told all these words", "literal": "and-told (object) all the-words these"},
+        {"tokens": ["20:8.12"], "english": "in their hearing", "literal": "in their-ears"},
+        {"tokens": ["20:8.13", "20:8.14", "20:8.15"], "english": "and the men were greatly afraid", "literal": "and-feared the-men greatly"}
+      ],
+      "grammar": [
+        "The wayyiqtol forms (וַיַּשְׁכֵּם, וַיִּקְרָא, וַיְדַבֵּר, וַיִּירְאוּ) continue the story; the change of subject is at the verb for the men.",
+        "The merkha on וַיִּירְאוּ divides the clause; the silluq on מְאֹֽד ends the verse, with the adverb as the last word.",
+        "The verb וַיַּשְׁכֵּם, from שָׁכַם, is the idiom 'to rise early', which the English keeps.",
+        "The noun phrase הַדְּבָרִים הָאֵלֶּה has the article on both noun and demonstrative, so the demonstrative stands in the sense 'these'."
+      ],
+      "commentary": [
+        {"anchor": "radak:20:8:2", "relation": "records", "summary": "Radak: the men are the servants who had agreed to take the woman and had praised her to the king so that he would take her. The English keeps the general word 'the men'."},
+        {"anchor": "radak:20:8:1", "relation": "not-applicable", "summary": "Radak: Abimelech rose early because his heart was anxious about the dream, and he would not wait for the kings to wake. A gloss on the reason, not a sense of the words."}
+      ],
+      "apparatus": [],
+      "context": []
+    }
+  ]
+}
