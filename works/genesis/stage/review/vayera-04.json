@@ -1,0 +1,475 @@
+{
+  "unit": "vayera-04",
+  "model": "opus",
+  "summary": "The English is close to the Hebrew in its verb forms and syntax. The chief fault is in 18:25, where the translator recorded Ibn Ezra's two-way reading of כַצַּדִּיק כָּרָשָׁע and gave the one-way reading; the English now follows the normative commentator. Several Ibn Ezra summaries misreported him (the ninth, not a tenth, at 18:28; the steps of quarters, thirds and a half at 18:29; הוֹאִיל מֹשֶׁה; חָלוּל 'hollow'), and Rashi's five-cities midrash was followed or recorded where Ibn Ezra rejects it. Senses for the Hiphil of מוּת and the Qal of חָרָה are added, a wrong sense for מָקוֹם is corrected, and learner notes that misplaced the LORD's speech, the subject of יִמָּצְאוּן and the end of the dialogue are fixed. Context notes are added for the title 'Judge of all the earth', the site of Sodom and 'dust and ashes'.",
+  "patches": [
+    {
+      "ref": "18:25",
+      "path": "english",
+      "value": "Far be it from you to do such a thing, to kill the righteous with the wicked, so that the righteous and the wicked would be alike. Far be it from you! Will not the Judge of all the earth do justice?",
+      "severity": "error",
+      "reason": "Ibn Ezra, the normative commentator, reads the double כ (כַצַּדִּיק כָּרָשָׁע) as a short form, 'the righteous like the wicked and the wicked like the righteous'. The English gave the one-way reading and recorded his; his reading decides the plain sense."
+    },
+    {
+      "ref": "18:25",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "18:25.1",
+            "18:25.2",
+            "18:25.3",
+            "18:25.4",
+            "18:25.5"
+          ],
+          "english": "Far be it from you to do such a thing",
+          "literal": "'far-be-it to-you from-doing like-the-thing the-this': the infinitive construct with מ and the noun with כ, rendered 'such a thing'."
+        },
+        {
+          "tokens": [
+            "18:25.6",
+            "18:25.7"
+          ],
+          "english": "to kill the righteous",
+          "literal": "'to-kill righteous': the Hifil infinitive and its object, the righteous as a class."
+        },
+        {
+          "tokens": [
+            "18:25.8",
+            "18:25.9"
+          ],
+          "english": "with the wicked",
+          "literal": "'with wicked': the preposition 'with', here 'together with'."
+        },
+        {
+          "tokens": [
+            "18:25.10",
+            "18:25.11",
+            "18:25.12"
+          ],
+          "english": "so that the righteous and the wicked would be alike",
+          "literal": "'and-would-be like-the-righteous like-the-wicked': the weqatal gives the consequence; the paired כ … כ means 'the one like the other' (Ibn Ezra)."
+        },
+        {
+          "tokens": [
+            "18:25.13",
+            "18:25.14"
+          ],
+          "english": "Far be it from you",
+          "literal": "'far-be-it to-you': the second exclamation."
+        },
+        {
+          "tokens": [
+            "18:25.15",
+            "18:25.16",
+            "18:25.17",
+            "18:25.18",
+            "18:25.19",
+            "18:25.20"
+          ],
+          "english": "Will not the Judge of all the earth do justice",
+          "literal": "'will-the-judge-of all the-earth not do justice': the rhetorical question, with the interrogative he on the participle."
+        }
+      ],
+      "severity": "error",
+      "reason": "The new English changed the phrase for 18:25.10-12."
+    },
+    {
+      "ref": "18:25",
+      "path": "literal",
+      "value": "far-be-it to-you from-doing like-the-thing the-this to-kill righteous with wicked and-would-be like-the-righteous like-the-wicked far-be-it to-you will-the-judge-of all the-earth not do justice",
+      "severity": "style",
+      "reason": "לְּךָ is 'to-you', not 'from-you'; כַּדָּבָר is absolute with the article, and כַצַּדִּיק כָּרָשָׁע carry the article."
+    },
+    {
+      "ref": "18:25",
+      "path": "token:18:25.3.sense",
+      "value": "Qal I.1",
+      "severity": "error",
+      "reason": "עָשָׂה lists senses; 'do' is Qal I.1."
+    },
+    {
+      "ref": "18:25",
+      "path": "token:18:25.4.gloss",
+      "value": "like the thing",
+      "severity": "error",
+      "reason": "כַּדָּבָר is absolute with the article, not construct: 'like the thing (this)', not 'like the matter of'."
+    },
+    {
+      "ref": "18:25",
+      "path": "token:18:25.5.sense",
+      "value": "2",
+      "severity": "error",
+      "reason": "זֶה lists senses; here it stands in apposition to the noun (sense 2)."
+    },
+    {
+      "ref": "18:25",
+      "path": "token:18:25.6.sense",
+      "value": "Hiph 2",
+      "severity": "error",
+      "reason": "The re-extracted entry lists the Hifil of מוּת; with God as subject, putting to death as a penalty, it is Hiph 2."
+    },
+    {
+      "ref": "18:25",
+      "path": "token:18:25.6.note",
+      "value": "Hifil infinitive construct of מוּת, 'cause to die, put to death'; the subject is God (Hiph 2).",
+      "severity": "error",
+      "reason": "The note said the pack gives no Hifil sense; it now does."
+    },
+    {
+      "ref": "18:25",
+      "path": "token:18:25.11.note",
+      "value": "Ibn Ezra (and Radak): two כ's together are a short form, 'the righteous like the wicked and the wicked like the righteous'; the English 'alike' follows him.",
+      "severity": "error",
+      "reason": "The English now follows Ibn Ezra's reading."
+    },
+    {
+      "ref": "18:25",
+      "path": "token:18:25.14.note",
+      "value": "לָּךְ is the pausal form of לְךָ under the zaqef qaton; the data parse it as feminine from the form, but the addressee is the LORD, as in 18:25.2.",
+      "severity": "error",
+      "reason": "A learner would take the feminine parse at face value; the pausal form needs a note."
+    },
+    {
+      "ref": "18:25",
+      "path": "grammar",
+      "value": [
+        "The two infinitive constructs, מֵעֲשֹׂת and לְהָמִית, depend on חָלִילָה לְךָ: 'far be it from you to do ... to kill'. Each carries its own preposition (מ, ל).",
+        "וְהָיָה (18:25.10) is a weqatal after the infinitives and states the result. The paired comparison כַצַּדִּיק כָּרָשָׁע, 'like the righteous, like the wicked', means 'the one like the other' (Ibn Ezra, Radak; compare כָמוֹךָ כְּפַרְעֹה, 44:18).",
+        "The question הֲשֹׁפֵט כָּל־הָאָרֶץ (18:25.15) takes the interrogative he. The English puts 'Will not' at the front to make the question clear.",
+        "The etnaḥta on כָּרָשָׁע (18:25.12) divides the verse: the first part names the act Abraham calls unthinkable, the second appeals to God's justice. The silluq on מִשְׁפָּט closes it.",
+        "לָּךְ (18:25.14) is the pausal form of לְךָ."
+      ],
+      "severity": "error",
+      "reason": "The note on the etnaḥta called the first half 'the proposal' (there is none in this verse), and the note on וְהָיָה gave the one-way reading against Ibn Ezra."
+    },
+    {
+      "ref": "18:25",
+      "path": "apparatus",
+      "value": [
+        "The Hebrew also allows the one-way reading, 'so that the righteous would be like the wicked'; the English follows Ibn Ezra's two-way reading."
+      ],
+      "severity": "error",
+      "reason": "There is no variant between witnesses here; the line described Ibn Ezra's reading as a variant against the English, which now follows it."
+    },
+    {
+      "ref": "18:25",
+      "path": "commentary:ibn-ezra:18:25:1.summary",
+      "value": "Ibn Ezra: חָלִלָה is 'a thing that cannot be' (דָּבָר שֶׁלֹּא יִתָּכֵן); some say the word has the sense of חָלוּל, 'hollow, with nothing in it'. The English 'far be it' carries the impossibility.",
+      "severity": "error",
+      "reason": "The summary said 'profane'; Ibn Ezra's alternative is חָלוּל, 'hollow, empty' (שאין בו כלום)."
+    },
+    {
+      "ref": "18:25",
+      "path": "commentary:ibn-ezra:18:25:2",
+      "value": {
+        "relation": "follows",
+        "summary": "Ibn Ezra: when two כ's are joined it is a short way of speaking: 'the righteous would be like the wicked, and the wicked like the righteous', as in 'you are like Pharaoh' (44:18), 'as my people, so your people' (1 Kgs 22:4), 'darkness and light are alike' (Ps 139:12). He ends: how could the judge of all the earth not do justice? Radak reads the same. The English 'the righteous and the wicked would be alike' follows."
+      },
+      "severity": "error",
+      "reason": "The normative reading was recorded against the English; the English now follows it. The summary also left out 1 Kgs 22:4 and the closing sentence."
+    },
+    {
+      "ref": "18:25",
+      "path": "context",
+      "value": [
+        "'Judge of all the earth' gives the LORD a title that the neighbouring literatures gave to gods of justice: in Mesopotamia the sun god Shamash was invoked as judge of heaven and earth and as guardian of right, and he is shown giving the laws on the stele of Hammurabi. Abraham's appeal rests on the same idea, that the highest judge is bound to judge rightly."
+      ],
+      "severity": "style",
+      "reason": "A reader needs the setting of the title; the parallel is well established."
+    },
+    {
+      "ref": "18:26",
+      "path": "token:18:26.1.note",
+      "value": "Wayyiqtol, the narrative form that introduces the speech. The LORD's answer is this verse alone; Abraham replies in 18:27.",
+      "severity": "error",
+      "reason": "The note said the LORD's speech runs into 18:27 and 18:28; those verses are Abraham's."
+    },
+    {
+      "ref": "18:26",
+      "path": "grammar",
+      "value": [
+        "וַיֹּאמֶר (18:26.1) is a wayyiqtol. It introduces the LORD's answer, which is this verse; Abraham speaks again in 18:27.",
+        "The condition is אִם with the yiqtol אֶמְצָא. The consequence is the weqatal וְנָשָׂאתִי: 'if I find ... I will spare'.",
+        "The etnaḥta on הָעִיר (18:26.9) divides the verse. The first part is the condition, the second the consequence.",
+        "נָשָׂא with לְ of the person or place is 'bear with, forgive': here 'spare'."
+      ],
+      "severity": "error",
+      "reason": "The first note said the LORD's speech continues through 18:27 and 18:28."
+    },
+    {
+      "ref": "18:26",
+      "path": "token:18:26.8.note",
+      "value": "Construct of תָּוֶךְ, 'midst'. Ibn Ezra: righteous who fear the LORD openly, in the public life of the city (compare Jer 5:1).",
+      "severity": "style",
+      "reason": "The normative reading of בְּתוֹךְ הָעִיר belongs in the note on the word."
+    },
+    {
+      "ref": "18:26",
+      "path": "token:18:26.12.sense",
+      "value": "4",
+      "severity": "error",
+      "reason": "Sense 6 'region' carried Rashi's reading (all the cities of the plain), which Ibn Ezra rejects (18:29: the text speaks of Sodom alone). The place is the city: 'place, locality' (4)."
+    },
+    {
+      "ref": "18:26",
+      "path": "token:18:26.12.note",
+      "value": "The place is Sodom itself (Ibn Ezra at 18:29: בִּסְדֹם לְבַדָּהּ). Rashi reads 'all the cities' (see commentary).",
+      "severity": "error",
+      "reason": "The note gave only Rashi's reading."
+    },
+    {
+      "ref": "18:26",
+      "path": "commentary:ibn-ezra:18:26:1",
+      "value": {
+        "relation": "follows",
+        "summary": "Ibn Ezra: the point of 'within the city' (בְּתוֹךְ הָעִיר) is that they fear the LORD in public (בְּפַרְהֶסְיָא), as in 'roam the streets of Jerusalem' (Jer 5:1). The English 'within the city' carries this; the note on בְּתוֹךְ gives his sense."
+      },
+      "severity": "error",
+      "reason": "The English does not depart from Ibn Ezra: his comment explains what 'within the city' means, and the English keeps the phrase. 'records' wrongly set the normative reading aside."
+    },
+    {
+      "ref": "18:26",
+      "path": "commentary:rashi:18:26:1",
+      "value": {
+        "relation": "records",
+        "summary": "Rashi: 'the whole place' means all the cities (לְכָל הַכְּרַכִּים); Sodom is named because it was the chief city, the most important of them. Ibn Ezra (18:29) rejects the reading that counts the five cities, since the text speaks of Sodom alone; the English 'the whole place' is the city, and Rashi's reading is recorded."
+      },
+      "severity": "error",
+      "reason": "The ruling said the English follows Rashi's 'all the cities'; the normative commentator takes the place as Sodom alone."
+    },
+    {
+      "ref": "18:26",
+      "path": "commentary:ramban:18:26:1",
+      "value": {
+        "relation": "records",
+        "summary": "Ramban cites Ibn Ezra's 'in public' and prefers his own reading: Abraham said 'within the city' to mean that even foreigners living in it should save it, and he said it for Lot's sake."
+      },
+      "severity": "style",
+      "reason": "An alternative reading of the same words, worth recording beside Ibn Ezra's."
+    },
+    {
+      "ref": "18:26",
+      "path": "context",
+      "value": [
+        "The site of Sodom has not been identified. Proposals place it at the southern end of the Dead Sea or on the plain north-east of it, near the Jordan; none is agreed."
+      ],
+      "severity": "style",
+      "reason": "A reader needs to know that the city is not located."
+    },
+    {
+      "ref": "18:27",
+      "path": "commentary:ibn-ezra:18:27:1.summary",
+      "value": "Ibn Ezra: הוֹאַלְתִּי is not 'I began' (הַחִלּוֹתִי, as Onkelos שָׁרֵיתִי); it means only 'I wished' (רָצִיתִי), as in הוֹאִיל מֹשֶׁה (Deut 1:5). The כ of אָנֹכִי is added, or אֲנִי and אָנֹכִי are two words with one meaning. The English 'I have been willing' follows.",
+      "severity": "error",
+      "reason": "Ibn Ezra cites הוֹאִיל מֹשֶׁה (Deut 1:5), not וַיּוֹאֶל מֹשֶׁה, which is Rashi's citation from Exod 2:21; and the summary left out his remark on אָנֹכִי."
+    },
+    {
+      "ref": "18:27",
+      "path": "commentary:ibn-ezra:18:27:2.summary",
+      "value": "Ibn Ezra: 'I am dust and ashes' means 'I was dust and to ashes I shall return'; the chief point is the foundation of the body, that is, the bones. The English 'dust and ashes' follows this plain sense.",
+      "severity": "style",
+      "reason": "Closer to the Hebrew: עפר הייתי ואפר אשוב."
+    },
+    {
+      "ref": "18:27",
+      "path": "context",
+      "value": [
+        "Dust and ashes belong to the rites of mourning and self-abasement known across the ancient Near East: mourners strewed dust on their heads and sat in ashes, as El does on hearing of Baal's death in the Ugaritic Baal cycle. Abraham names himself by the stuff of those rites."
+      ],
+      "severity": "style",
+      "reason": "A reader needs the setting of the phrase."
+    },
+    {
+      "ref": "18:28",
+      "path": "token:18:28.2.note",
+      "value": "Yiqtol 3mp of חָסֵר with paragogic nun, intransitive: 'be lacking'. Ibn Ezra: 'perhaps a tenth of the number will be lacking'.",
+      "severity": "error",
+      "reason": "Ibn Ezra's תֶּחְסַר עֲשִׂירִית is 3fs with 'a tenth' as subject, not 'you will lack'."
+    },
+    {
+      "ref": "18:28",
+      "path": "commentary:ibn-ezra:18:28:1.summary",
+      "value": "Ibn Ezra: 'perhaps a tenth of the number will be lacking' (אוּלַי תֶּחְסַר עֲשִׂירִית מֵהַמִּסְפָּר): five is a tenth of fifty. The English 'five short' is this.",
+      "severity": "error",
+      "reason": "The summary made the verb second person ('you will lack'); עֲשִׂירִית is its subject."
+    },
+    {
+      "ref": "18:28",
+      "path": "commentary:ibn-ezra:18:28:2.summary",
+      "value": "Ibn Ezra: 'will you destroy for five' means 'because of the five who will be lacking, (will you destroy) the whole?' Then Abraham said, 'perhaps a ninth of the number I named will be lacking' (five of forty-five, 18:29), and God answered that if they are found there he will not destroy them. The English 'for the lack of five' is this reading.",
+      "severity": "error",
+      "reason": "Ibn Ezra speaks of the ninth (הַתְּשִׁיעִית), the next step from forty-five to forty, not of a tenth."
+    },
+    {
+      "ref": "18:28",
+      "path": "commentary:rashi:18:28:1",
+      "value": {
+        "relation": "declines",
+        "summary": "Rashi: forty-five are nine for each of the five cities, and you, the Righteous One of the world, will join them as the tenth. Ibn Ezra (18:29) rejects the count by the five cities, since the text speaks of Sodom alone; the English keeps the plain question about the five who are lacking."
+      },
+      "severity": "error",
+      "reason": "The summary misreported Rashi (it is a count of nine to each city with God as the tenth, not a question about sweeping the righteous away), and the English does not follow this midrash."
+    },
+    {
+      "ref": "18:29",
+      "path": "token:18:29.7.note",
+      "value": "Nifal yiqtol 3mp with paragogic nun, 'will be found'; the subject is אַרְבָּעִים, 'forty'.",
+      "severity": "error",
+      "reason": "The note said the subject is not named; the numeral is the subject."
+    },
+    {
+      "ref": "18:29",
+      "path": "grammar",
+      "value": [
+        "וַיֹּסֶף עוֹד לְדַבֵּר is a hifil wayyiqtol of יָסַף with an infinitive: 'went on to speak'. The English gives the adverb 'again'.",
+        "אוּלַי with the nifal yiqtol יִמָּצְאוּן is a proposal: 'perhaps forty will be found there'. The numeral אַרְבָּעִים, after the verb, is its subject.",
+        "The answer is לֹא with the yiqtol אֶעֱשֶׂה. The object, destruction, is not written; the English 'I will not do it' keeps the Hebrew's ellipsis.",
+        "The etnaḥta on אַרְבָּעִים (18:29.9) divides the verse at Abraham's proposal; the answer follows."
+      ],
+      "severity": "error",
+      "reason": "The second note called the subject impersonal."
+    },
+    {
+      "ref": "18:29",
+      "path": "commentary:ibn-ezra:18:29:1",
+      "value": {
+        "relation": "follows",
+        "summary": "Ibn Ezra: 'I will not do' means 'I will not do destruction'. After the tenth and the ninth, Abraham did not go on joining the two lacks, but asked next for a quarter, a third and a half to be lacking (forty to thirty, twenty, ten). Some say he went no lower than ten because there would be two in each of the five cities; this is not right, since he said 'in Sodom' alone. Though the sages taught that there is no public prayer with fewer than ten, this verse too supports that tradition. The English 'I will not do it' follows."
+      },
+      "severity": "error",
+      "reason": "The summary said God will not reduce the number again; Ibn Ezra explains how Abraham's steps change from fractions of five to quarters, thirds and a half, and rejects the five-cities count."
+    },
+    {
+      "ref": "18:29",
+      "path": "commentary:rashi:18:29:1",
+      "value": {
+        "relation": "declines",
+        "summary": "Rashi: forty would save four of the cities, thirty three, twenty two, and ten one. Ibn Ezra rejects any count by the five cities, since the text speaks of Sodom alone; the English keeps the plain sense, forty righteous people in Sodom."
+      },
+      "severity": "error",
+      "reason": "The normative commentator rejects the five-cities reading; it is declined, not a live alternative."
+    },
+    {
+      "ref": "18:30",
+      "path": "literal",
+      "value": "and-said not please let-it-burn to-my-Lord and-let-me-speak perhaps will-be-found there thirty and-said not I-will-do if I-find there thirty",
+      "severity": "style",
+      "reason": "יִחַר לַאדֹנָי is impersonal: 'let it (not) burn to my Lord'."
+    },
+    {
+      "ref": "18:30",
+      "path": "token:18:30.4.sense",
+      "value": "Qal 2",
+      "severity": "error",
+      "reason": "The re-extracted entry lists the Qal of חָרָה; of God's anger it is Qal 2."
+    },
+    {
+      "ref": "18:30",
+      "path": "token:18:30.4.note",
+      "value": "Jussive qal 3ms of חָרָה, 'burn', used impersonally with לְ of the person: 'let it not burn to my Lord', that is, 'let not my Lord be angry'.",
+      "severity": "error",
+      "reason": "The note said the pack lists no Qal sense; it now does. The idiom needed a note."
+    },
+    {
+      "ref": "18:30",
+      "path": "token:18:30.10.sense",
+      "value": "1",
+      "severity": "style",
+      "reason": "שְׁלֹשִׁים lists senses; the cardinal is sense 1, not the ordinal (2)."
+    },
+    {
+      "ref": "18:30",
+      "path": "token:18:30.17.sense",
+      "value": "1",
+      "severity": "style",
+      "reason": "As 18:30.10."
+    },
+    {
+      "ref": "18:32",
+      "path": "literal",
+      "value": "and-said not please let-it-burn to-my-Lord and-let-me-speak only the-time perhaps will-be-found there ten and-said not I-will-destroy for-the-sake-of the-ten",
+      "severity": "style",
+      "reason": "As 18:30: the impersonal idiom; הַפַּעַם is 'the time'."
+    },
+    {
+      "ref": "18:32",
+      "path": "token:18:32.4.sense",
+      "value": "Qal 2",
+      "severity": "error",
+      "reason": "The re-extracted entry lists the Qal of חָרָה; of God's anger it is Qal 2."
+    },
+    {
+      "ref": "18:32",
+      "path": "token:18:32.4.note",
+      "value": "Jussive qal 3ms of חָרָה, impersonal, as at 18:30.",
+      "severity": "error",
+      "reason": "The note said no Qal sense is listed."
+    },
+    {
+      "ref": "18:32",
+      "path": "token:18:32.7.note",
+      "value": "אַךְ, here restrictive: 'only'. The pack's entry shows only its first sense, 'surely'; BDB also gives the restrictive 'only'.",
+      "severity": "error",
+      "reason": "The note implied BDB has no restrictive sense; it has."
+    },
+    {
+      "ref": "18:32",
+      "path": "grammar",
+      "value": [
+        "This is Abraham's last request: ten. In 18:33 the LORD goes his way and the dialogue ends.",
+        "אַךְ הַפַּעַם, 'only this once', restricts the request; אַךְ is restrictive here.",
+        "The jussive יִחַר and the cohortative וַאֲדַבְּרָה repeat the petition of 18:30 without change.",
+        "The etnaḥta on עֲשָׂרָה (18:32.12) divides the verse: Abraham's request and proposal come first; the LORD's reply follows."
+      ],
+      "severity": "error",
+      "reason": "The first note said the dialogue continues in 18:33, where it ends; the second implied BDB lacks the restrictive sense."
+    },
+    {
+      "ref": "18:32",
+      "path": "commentary:rashi:18:32:1",
+      "value": {
+        "relation": "records",
+        "summary": "Rashi: Abraham did not ask for fewer than ten. In the generation of the flood there were eight (Noah, his sons and their wives), and they did not save their generation; for nine, with God joined to them, he had already asked and found none. Ibn Ezra (18:29) gives another account of the steps and ties the ten to the rule of ten for public prayer; the English stops at ten, as the text does."
+      },
+      "severity": "error",
+      "reason": "The English does not adopt Rashi's midrashic reason, and the ruling said the reason was given in the notes, where it is not."
+    }
+  ],
+  "verdicts": [
+    {
+      "anchor": "ibn-ezra:18:25:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:18:25:2",
+      "verdict": "contradicts",
+      "comment": "The English gave the one-way reading; patched to Ibn Ezra's 'the righteous and the wicked would be alike'."
+    },
+    {
+      "anchor": "ibn-ezra:18:26:1",
+      "verdict": "consistent",
+      "comment": "The English keeps 'within the city', which his comment explains; the ruling is corrected to follows."
+    },
+    {
+      "anchor": "ibn-ezra:18:27:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:18:27:2",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:18:28:1",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:18:28:2",
+      "verdict": "consistent"
+    },
+    {
+      "anchor": "ibn-ezra:18:29:1",
+      "verdict": "consistent"
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+ "unit": "vayera-02",
+ "model": "opus",
+ "summary": "The syntax and most verb forms are right, but in 18:10 the English followed Rashi against Ibn Ezra, the normative commentator: 'it (the entrance) was behind him' for his 'he (the angel) was behind it (the tent)', and a dangling 'alive' for his 'with Sarah alive' (also in 18:14). Several senses were filled mechanically or wrongly (הָלַךְ as 'live', פָּנֶה, אַחַר, חַי, הָיָה), and a note falsely said the lexicon has no Qal sense of שָׁמַע. Summaries misreport Ibn Ezra on אֻמְנָם (he reports the prophets view of others) and Rashi on the dotted letters of אֵלָיו, which are three, not one. Accent notes named the wrong dividers in 18:10 and 18:11; context notes were added for the tents, 'my lord' and the site of Sodom.",
+ "patches": [
+  {
+   "ref": "18:9",
+   "path": "grammar",
+   "value": [
+    "The two wayyiqtol verbs (וַיֹּאמְרוּ, וַיֹּאמֶר) carry the narrative sequence: first the visitors speak, then the one addressed answers.",
+    "The question has no verb: אַיֵּה שָׂרָה אִשְׁתֶּךָ is 'where Sarah your wife', and the English supplies 'is'.",
+    "The etnaḥta on אִשְׁתֶּךָ closes the question; the silluq on בָאֹהֶל closes the verse.",
+    "The letters א, י and ו of אֵלָיו carry dots above them (puncta extraordinaria). Rashi and Radak, after Bereshit Rabbah, read the dotted letters as אַיּוֹ, 'where is he?': the visitors asked Sarah about Abraham too. The English reads the word as written, 'to him'."
+   ],
+   "severity": "error",
+   "reason": "The dots stand over three letters, א, י and ו (Rashi: נָקוּד עַל אי\"ו), which spell אַיּוֹ 'where is he?'; the note put a single dot on the vav."
+  },
+  {
+   "ref": "18:9",
+   "path": "apparatus",
+   "value": [
+    "Puncta extraordinaria over the letters א, י, ו of אֵלָיו (WLC note 4). Rashi and Radak, citing R. Shimon ben Elazar (Bereshit Rabbah 48), read the dotted letters as אַיּוֹ, 'where is he?'."
+   ],
+   "severity": "error",
+   "reason": "Same fault as in the grammar note: the dots are on אי\"ו, not on the vav alone."
+  },
+  {
+   "ref": "18:9",
+   "path": "commentary:rashi:18:9:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Rashi: the letters אי\"ו of אֵלָיו are dotted. R. Shimon ben Elazar: where the undotted letters outnumber the dotted, one expounds the writing; where the dotted outnumber the undotted, one expounds the dots, and here they spell אַיּוֹ 'where is he?': they asked Sarah too where Abraham was. Hence a guest asks the man about the wife and the wife about the man. Bava Metzia: the angels knew where Sarah was, but asked to make known that she was modest and so endear her to her husband; R. Yose bar Ḥanina: to send her the cup of blessing. A midrash on the dots; the English reads 'to him' as written."
+   },
+   "severity": "error",
+   "reason": "The summary put the dot on the vav and garbled the rule (a guest asks the man about the wife and the wife about the man). The comment is a midrash on the dots, which does not bear on the plain sense: not-applicable, not records."
+  },
+  {
+   "ref": "18:10",
+   "path": "english",
+   "value": "He said, \"I will surely return to you at this time next year, with Sarah alive, and Sarah your wife will have a son.\" And Sarah was listening at the entrance of the tent, and he was behind it.",
+   "severity": "error",
+   "reason": "Ibn Ezra, the normative commentator, reads חַיָּה of Sarah (ושרה חיה, like כֹּה לֶחָי) and וְהוּא אַחֲרָיו as the speaking angel behind the tent. The old English left 'alive' hanging on 'you' (the reading of Onkelos and Rashi's second comment, 'when you are alive') and followed Rashi in the last clause ('it', the entrance, 'behind him') against Ibn Ezra."
+  },
+  {
+   "ref": "18:10",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:10.1"
+     ],
+     "english": "He said",
+     "literal": "and-he-said"
+    },
+    {
+     "tokens": [
+      "18:10.2",
+      "18:10.3",
+      "18:10.4"
+     ],
+     "english": "I will surely return to you",
+     "literal": "return I-will-return to-you; the infinitive absolute gives the emphasis"
+    },
+    {
+     "tokens": [
+      "18:10.5",
+      "18:10.6"
+     ],
+     "english": "at this time next year, with Sarah alive",
+     "literal": "as-the-time living: כָּ with the article, 'at this time'. Ibn Ezra: in the next year, and the feminine חַיָּה is Sarah, alive (ושרה חיה), like כֹּה לֶחָי (1 Sam 25:6). 'next year' and 'Sarah' are supplied from his reading"
+    },
+    {
+     "tokens": [
+      "18:10.7",
+      "18:10.8",
+      "18:10.9",
+      "18:10.10"
+     ],
+     "english": "and Sarah your wife will have a son",
+     "literal": "and-look son to-Sarah your-wife; וְהִנֵּה is left unrendered, and 'will have' is supplied in the verbless clause"
+    },
+    {
+     "tokens": [
+      "18:10.11",
+      "18:10.12",
+      "18:10.13",
+      "18:10.14"
+     ],
+     "english": "and Sarah was listening at the entrance of the tent",
+     "literal": "and-Sarah listening opening-of the-tent; the participle gives the continuing act"
+    },
+    {
+     "tokens": [
+      "18:10.15",
+      "18:10.16"
+     ],
+     "english": "and he was behind it",
+     "literal": "and-he behind-it: Ibn Ezra: 'he' is the angel who spoke with Abraham, behind the tent (masculine אֹהֶל), while Abraham sat at its entrance and did not see Sarah. Rashi and Radak: the entrance was behind the angel"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "18:10",
+   "path": "literal",
+   "value": "and-he-said return I-will-return to-you as-the-time living and-look son to-Sarah your-wife and-Sarah listening opening-of the-tent and-he behind-it",
+   "severity": "error",
+   "reason": "Follows Ibn Ezra's reading of the last clause; שׁוֹב is the infinitive 'return', the emphasis belongs to the construction."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.6.sense",
+   "value": "1.b",
+   "severity": "error",
+   "reason": "Ibn Ezra takes חַיָּה of Sarah, a living person: sense 1.b 'alive, living — of man'."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.6.note",
+   "value": "feminine singular adjective without a noun. Ibn Ezra: of Sarah, 'alive' (as the greeting כֹּה לֶחָי, 1 Sam 25:6); Radak: Sarah as a woman giving birth (Mishnaic חַיָּה, 'woman in childbirth'); Onkelos and Rashi's second reading: of the time, 'when you are alive'. The lexicon's sense 3, 'reviving', takes the phrase of the season, the spring.",
+   "severity": "error",
+   "reason": "The note gave no reading of Onkelos and Rashi, which the old English followed, and did not tie the sense to Ibn Ezra."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.7.note",
+   "value": "וְהִנֵּה presents the promised son as already in view; the English leaves it unrendered, as the decisions allow.",
+   "severity": "error",
+   "reason": "The clause is part of the promise, not a report."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.12.sense",
+   "value": "Qal 1",
+   "severity": "error",
+   "reason": "The lexicon does list a Qal sense: 'Qal 1 hear — subj. pers. hum.', which fits Sarah listening. The note and apparatus said it lists none."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.12.note",
+   "value": "qal participle, feminine singular, after its subject: a circumstantial clause, 'Sarah was listening'.",
+   "severity": "error",
+   "reason": "The old note claimed the lexicon lists no Qal sense."
+  },
+  {
+   "ref": "18:10",
+   "path": "apparatus",
+   "value": [],
+   "severity": "error",
+   "reason": "The only line said the lexicon has no Qal sense for שָׁמַע; it has Qal 1 and Qal 2."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.15.gloss",
+   "value": "and he",
+   "severity": "error",
+   "reason": "Ibn Ezra: הוּא is the angel who speaks (זה המלאך המדבר עם אברהם)."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.15.note",
+   "value": "the personal pronoun as subject of a verbless clause: the visitor who speaks (Ibn Ezra). Rashi takes it of the entrance (masculine פֶּתַח).",
+   "severity": "error",
+   "reason": "Follows Ibn Ezra."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.16.gloss",
+   "value": "behind it",
+   "severity": "error",
+   "reason": "Ibn Ezra: the angel was behind the tent (היה אחרי האהל)."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.16.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "With a suffix אַחֲרֵי is the preposition (sense 2 in this entry, 'prep'); 1.a is the adverb."
+  },
+  {
+   "ref": "18:10",
+   "path": "token:18:10.16.note",
+   "value": "the preposition אַחֲרֵי with the 3rd masculine singular suffix, 'behind it' or 'behind him'. Ibn Ezra: the speaker was behind the tent (masculine אֹהֶל); Rashi and Radak: the entrance was behind the speaker.",
+   "severity": "error",
+   "reason": "Follows Ibn Ezra; the old note gave Rashi's reading as the sense."
+  },
+  {
+   "ref": "18:10",
+   "path": "grammar",
+   "value": [
+    "The infinitive absolute שׁוֹב before the yiqtol אָשׁוּב is the emphatic form: 'I will surely return'.",
+    "כָּעֵת חַיָּה is an adverbial phrase: כְּ with the article, 'at the time', and the feminine adjective חַיָּה, 'living'. Ibn Ezra: this time next year, with Sarah alive; Radak: Sarah giving birth; Onkelos: 'when you are alive'.",
+    "וְהִנֵּה־בֵן לְשָׂרָה is verbless: 'and look, a son to Sarah'; the English supplies 'will have'.",
+    "The etnaḥta on אִשְׁתֶּךָ divides the verse: the promise, then the scene at the tent. Both clauses after it are circumstantial, a subject before a participle (וְשָׂרָה שֹׁמַעַת) and a pronoun before a preposition (וְהוּא אַחֲרָיו)."
+   ],
+   "severity": "error",
+   "reason": "The old notes made the revia on וַיֹּאמֶר a divider of the verse (the main divider is the etnaḥta), called the adverbial phrase a verbless clause, and quoted the words of the son clause in the wrong order (the Hebrew is בֵן לְשָׂרָה)."
+  },
+  {
+   "ref": "18:10",
+   "path": "note",
+   "value": "Ibn Ezra reads כָּעֵת חַיָּה as 'at this time next year, with Sarah alive' (like כֹּה לֶחָי, 1 Sam 25:6); the English follows him and supplies 'next year' and Sarah's name from the feminine adjective. Rashi's second reading and Onkelos ('when you are alive') and Radak (Sarah giving birth) are in the commentary and the notes. In the last clause the English follows Ibn Ezra: 'he' is the visitor who speaks and 'it' the tent; Rashi and Radak read 'the entrance was behind him'.",
+   "severity": "error",
+   "reason": "Follows the new English; the old note gave Ibn Ezra the reading of the dangling 'alive'."
+  },
+  {
+   "ref": "18:10",
+   "path": "commentary:ibn-ezra:18:10:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: 'at this time in the next year' (כעת הזאת בשנה האחרת), and חַיָּה is Sarah, alive (ושרה חיה), like the greeting כֹּה לֶחָי, 'so to the living' (1 Sam 25:6). The English follows: 'at this time next year, with Sarah alive'."
+   },
+   "severity": "error",
+   "reason": "The old summary said the English reads 'alive' of 'the one who lives'; its English attached 'alive' to Abraham. Ibn Ezra names Sarah."
+  },
+  {
+   "ref": "18:10",
+   "path": "commentary:ibn-ezra:18:10:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: 'he' is the angel who was speaking with Abraham; he was behind the tent, and Abraham, sitting at the entrance of the tent, did not see Sarah. Others say the entrance of Sarah's tent was behind Abraham's tent (וי\"א פתח האהל שלה היה אחרי אהל אברהם). The English follows his first reading, 'he was behind it'."
+   },
+   "severity": "error",
+   "reason": "The normative commentator's reading was recorded and Rashi's adopted. The summary also left out that the angel was behind the tent."
+  },
+  {
+   "ref": "18:10",
+   "path": "commentary:rashi:18:10:4",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: הַפֶּתַח הָיָה אַחַר הַמַּלְאָךְ, the entrance was behind the angel; so Radak and Sforno. The English follows Ibn Ezra, 'he was behind it', and records this."
+   },
+   "severity": "error",
+   "reason": "The English now follows Ibn Ezra."
+  },
+  {
+   "ref": "18:10",
+   "path": "context",
+   "value": [
+    "Genesis pictures Abraham as a herdsman living in tents (12:8, 13:3, 18:1). Elsewhere in Genesis wives have tents of their own (24:67, 31:33), which is the picture behind the reading, given by Ibn Ezra, that Sarah's tent stood behind Abraham's."
+   ],
+   "severity": "error",
+   "reason": "A reader needs the tent household to follow the scene and the commentators' readings; the unit had no context note."
+  },
+  {
+   "ref": "18:11",
+   "path": "grammar",
+   "value": [
+    "חָדַל לִהְיוֹת is 'ceased to be': a qatal of cessation with an infinitive construct; its subject is אֹרַח. Rashi glosses it as 'ceased from her'.",
+    "בָּאִים בַּיָּמִים is the idiom for old age: 'coming into days', the participle of בּוֹא with ב.",
+    "אֹרַח כַּנָּשִׁים is a noun phrase with כ of comparison: 'a way like women's'. The silluq on כַּנָּשִׁים closes the verse.",
+    "The etnaḥta on בַּיָּמִים divides the verse: the age of the couple, then the cessation in Sarah."
+   ],
+   "severity": "error",
+   "reason": "The old note made the pashta on חָדַל the divider of the verse; the etnaḥta on בַּיָּמִים is."
+  },
+  {
+   "ref": "18:12",
+   "path": "token:18:12.4.sense",
+   "value": "Qal 2",
+   "severity": "error",
+   "reason": "Sarah's words are inward (Ibn Ezra בנפשה; Radak חָשְׁבָה בְּלִבָּהּ לֵאמֹר): 'Qal 2 say in the heart'."
+  },
+  {
+   "ref": "18:12",
+   "path": "token:18:12.4.note",
+   "value": "infinitive construct of אמר with ל, introducing speech; after בְּקִרְבָּהּ it is speech within herself (Radak: she thought it in her heart).",
+   "severity": "error",
+   "reason": "Follows the new sense."
+  },
+  {
+   "ref": "18:12",
+   "path": "token:18:12.7.gloss",
+   "value": "shall there be",
+   "severity": "style",
+   "reason": "הָיְתָה is 3rd feminine singular with עֶדְנָה as its subject; 'shall have' hid the person and doubled 'to me'."
+  },
+  {
+   "ref": "18:12",
+   "path": "token:18:12.7.sense",
+   "value": "Qal II.1.b",
+   "severity": "error",
+   "reason": "Ibn Ezra: איך תתחדש לי, 'how shall it be renewed for me', a coming into being for someone: 'come into being — sq. prep.'. Qal III.1 'exist' does not fit היה with ל."
+  },
+  {
+   "ref": "18:12",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:12.1",
+      "18:12.2",
+      "18:12.3"
+     ],
+     "english": "Sarah laughed to herself",
+     "literal": "and-she-laughed Sarah within-her; the laugh is inward (Ibn Ezra: בנפשה)"
+    },
+    {
+     "tokens": [
+      "18:12.4"
+     ],
+     "english": "saying",
+     "literal": "to-say"
+    },
+    {
+     "tokens": [
+      "18:12.5",
+      "18:12.6"
+     ],
+     "english": "After I am worn out",
+     "literal": "after my-being-worn-out"
+    },
+    {
+     "tokens": [
+      "18:12.7",
+      "18:12.8",
+      "18:12.9"
+     ],
+     "english": "shall I have delight",
+     "literal": "it-has-been to-me delight: Ibn Ezra reads the qatal as a future (כמו תהיה לי) and the words as a question, 'how shall delight be renewed for me?'"
+    },
+    {
+     "tokens": [
+      "18:12.10",
+      "18:12.11"
+     ],
+     "english": "and my lord is old",
+     "literal": "and-my-lord old"
+    }
+   ],
+   "severity": "error",
+   "reason": "The question was credited to Rashi's paraphrase; it is Ibn Ezra's reading (איך תתחדש לי)."
+  },
+  {
+   "ref": "18:12",
+   "path": "grammar",
+   "value": [
+    "The verse has no interrogative particle; the question is Ibn Ezra's reading of Sarah's words: 'how shall the delight of youth be renewed for me?'.",
+    "The verb הָיְתָה is a qatal used for the future (Ibn Ezra: כמו תהיה לי); the English 'shall I have' gives that sense.",
+    "The verse turns on two clauses: 'after I am worn out' (the infinitive of בלה with the suffix) and 'my lord is old' (a qatal of זקן, with the subject אֲדֹנִי).",
+    "The wayyiqtol וַתִּצְחַק and the infinitive לֵאמֹר introduce the speech; after בְּקִרְבָּהּ it is said within herself, not aloud."
+   ],
+   "severity": "error",
+   "reason": "The first note credited the question to Rashi's paraphrase; Rashi's comment here (Tanḥuma) is on her inward parts."
+  },
+  {
+   "ref": "18:12",
+   "path": "commentary:rashi:18:12:1",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: she looked at her inward parts and said, 'Can these innards carry a child? Can these withered breasts give milk?' (Tanḥuma). He reads בְּקִרְבָּהּ of her body; the English follows Ibn Ezra, 'within herself', and records this midrash."
+   },
+   "severity": "error",
+   "reason": "The English does not adopt Rashi's bodily reading of בְּקִרְבָּהּ; it follows Ibn Ezra's בנפשה."
+  },
+  {
+   "ref": "18:12",
+   "path": "commentary:ibn-ezra:18:12:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: עֶדְנָה is like עֵדֶן and עֹנֶג, delight and pleasure, as וַיִּתְעַדְּנוּ (Neh 9:25). The sense: after I am worn out and grown old, how shall the delight and pleasure of youth be renewed for me? And moreover (ועוד) my lord is old. The English gives 'delight'."
+   },
+   "severity": "error",
+   "reason": "The summary dropped 'after I am worn out and grown old' and the citation of Neh 9:25, and rendered ועוד 'and moreover' as 'since'."
+  },
+  {
+   "ref": "18:12",
+   "path": "commentary:ibn-ezra:18:12:3",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: בְּקִרְבָּהּ means within herself (בנפשה), and the LORD revealed her secret to the angel. The English gives 'to herself'."
+   },
+   "severity": "style",
+   "reason": "בנפשה is 'within herself'; 'in her soul' brings in a later word the decisions avoid for נֶפֶשׁ."
+  },
+  {
+   "ref": "18:12",
+   "path": "context",
+   "value": [
+    "Sarah calls her husband אֲדֹנִי, 'my lord', the respectful term of a woman for the man of her household (compare Judg 19:26–27); Hebrew also calls a husband בַּעַל, 'master'."
+   ],
+   "severity": "style",
+   "reason": "A reader needs to know that 'my lord' is Abraham, not God, and why a wife uses the word."
+  },
+  {
+   "ref": "18:13",
+   "path": "english",
+   "value": "The LORD said to Abraham, \"Why is it that Sarah laughed, saying, 'Is it even true that I shall bear a child, now that I have grown old?'\"",
+   "severity": "error",
+   "reason": "The English left אַף unrendered (Rashi and Radak: הֲגַם אֱמֶת, 'is it even true') and the enclitic זֶה after לָמָּה. וַאֲנִי זָקַנְתִּי is a qatal of the state reached; Ibn Ezra reads it as 'after I am worn out', which 'now that I have grown old' carries and 'though I am old' does not."
+  },
+  {
+   "ref": "18:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:13.1",
+      "18:13.2"
+     ],
+     "english": "The LORD said",
+     "literal": "and-he-said the-LORD"
+    },
+    {
+     "tokens": [
+      "18:13.3",
+      "18:13.4"
+     ],
+     "english": "to Abraham",
+     "literal": "to Abraham"
+    },
+    {
+     "tokens": [
+      "18:13.5",
+      "18:13.6",
+      "18:13.7",
+      "18:13.8"
+     ],
+     "english": "Why is it that Sarah laughed",
+     "literal": "why this laughed Sarah: זֶה after the interrogative gives force, 'why is it that'"
+    },
+    {
+     "tokens": [
+      "18:13.9"
+     ],
+     "english": "saying",
+     "literal": "saying"
+    },
+    {
+     "tokens": [
+      "18:13.10",
+      "18:13.11",
+      "18:13.12"
+     ],
+     "english": "Is it even true that I shall bear a child",
+     "literal": "is-it-even truly I-shall-bear: Rashi and Radak gloss הֲגַם אֱמֶת; 'a child' is supplied"
+    },
+    {
+     "tokens": [
+      "18:13.13",
+      "18:13.14"
+     ],
+     "english": "now that I have grown old",
+     "literal": "and-I have-grown-old: Ibn Ezra, it renders her 'after I am worn out'"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "18:13",
+   "path": "literal",
+   "value": "and-said the-LORD to Abraham why this laughed Sarah saying is-it-even truly I-shall-bear and-I have-grown-old",
+   "severity": "error",
+   "reason": "אַף is 'even, also', not 'indeed'."
+  },
+  {
+   "ref": "18:13",
+   "path": "token:18:13.6.sense",
+   "value": "4",
+   "severity": "style",
+   "reason": "The entry lists senses; this is sense 4, זֶה attached enclitically to an interrogative."
+  },
+  {
+   "ref": "18:13",
+   "path": "token:18:13.6.note",
+   "value": "enclitic זֶה after an interrogative gives the question force: 'why is it that'.",
+   "severity": "style",
+   "reason": "A learner needs the idiom."
+  },
+  {
+   "ref": "18:13",
+   "path": "token:18:13.10.gloss",
+   "value": "is it even",
+   "severity": "error",
+   "reason": "אַף is 'also, even' (the entry: 'also, yea'); Rashi and Radak gloss הֲגַם."
+  },
+  {
+   "ref": "18:13",
+   "path": "token:18:13.10.note",
+   "value": "the interrogative הֲ with אַף, 'even, also': Rashi and Radak gloss הֲגַם, 'is it even (true)'.",
+   "severity": "error",
+   "reason": "The old note gave 'indeed', which is the sense of אֻמְנָם."
+  },
+  {
+   "ref": "18:13",
+   "path": "token:18:13.11.note",
+   "value": "Ibn Ezra: the mem is an added letter, as the mem of שִׁלְשֹׁם; the base is אֹמֶן, 'truth'.",
+   "severity": "style",
+   "reason": "The normative comment on the word belongs in the learner's note."
+  },
+  {
+   "ref": "18:13",
+   "path": "token:18:13.14.gloss",
+   "value": "have grown old",
+   "severity": "error",
+   "reason": "Follows the new English; the qatal of the state reached."
+  },
+  {
+   "ref": "18:13",
+   "path": "grammar",
+   "value": [
+    "The LORD speaks in the wayyiqtol of the narrative, and the speech is direct: the double quotes are the LORD's words, and Sarah's words are inside them in single quotes.",
+    "לָמָּה זֶּה: the enclitic זֶה after the interrogative sharpens the question, 'why is it that'. The verb is a qatal (צָחֲקָה), the past reported to Abraham.",
+    "הַאַף אֻמְנָם: the interrogative הַ, אַף 'even', and אֻמְנָם 'truly', before the yiqtol אֵלֵד: 'is it even true that I shall bear?'.",
+    "The closing clause is a qatal, 1st person singular, וַאֲנִי זָקַנְתִּי, where Sarah had said 'and my lord is old' (18:12)."
+   ],
+   "severity": "error",
+   "reason": "Follows the new English; the old notes left אַף and זֶה unexplained."
+  },
+  {
+   "ref": "18:13",
+   "path": "note",
+   "value": "The LORD's words say 'I have grown old' where Sarah had thought 'after I am worn out ... and my lord is old' (18:12). Ibn Ezra: 'I have grown old' renders her 'after I am worn out', and the words are true. Rashi and Ramban add that 'my lord is old' was left out for the sake of peace. The English keeps the words as written.",
+   "severity": "error",
+   "reason": "The note gave only Rashi's account and left out the normative commentator's."
+  },
+  {
+   "ref": "18:13",
+   "path": "commentary:ibn-ezra:18:13:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: וַאֲנִי זָקַנְתִּי is the sense of her 'after I am worn out' (אחרי בלותי), and the angel spoke the truth: he reported what she said in other words. The English gives 'now that I have grown old'."
+   },
+   "severity": "style",
+   "reason": "Makes his point explicit and follows the new English."
+  },
+  {
+   "ref": "18:13",
+   "path": "commentary:ibn-ezra:18:13:2",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "The word ומ\"ם is the opening of the comment filed as ibn-ezra:18:13:3: 'and the mem [of אֻמְנָם] is added, as the mem of שִׁלְשֹׁם'. The anchoring split one sentence; its sense is given there."
+   },
+   "severity": "error",
+   "reason": "The summary said the comment's content cannot be known; it is the first word of the next comment."
+  },
+  {
+   "ref": "18:13",
+   "path": "commentary:ibn-ezra:18:13:3",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: the mem of אֻמְנָם is added, as in שִׁלְשֹׁם (31:5). He then reports other commentators: the three men were prophets; to the objection that a prophet does not come to a prophet, they answer that the men came to Sarah (hence 'where is Sarah your wife'), and two went on to Sodom; on that reading 'they ate' is literal and אֲדֹנַי in 18:3 means 'my masters'. He gives further views on the order of the chapter and says no scribal correction is needed; his own view, he says, is hinted at in the portion of Shemot. The English 'truly' follows his first words."
+   },
+   "severity": "error",
+   "reason": "The old summary made Ibn Ezra answer the objection himself. He reports the view of 'other commentators' (ומפרשים אחרים אמרו) and says his own view is elsewhere."
+  },
+  {
+   "ref": "18:13",
+   "path": "apparatus",
+   "value": [
+    "Sarah's words 'and my lord is old' (18:12) and the LORD's 'and I have grown old' (18:13) differ; the English follows the words of each speaker, and the commentators' accounts are in the commentary.",
+    "The ibn-ezra:18:13:2 entry (ומ\"ם) is the first word of the comment on אֻמְנָם filed as ibn-ezra:18:13:3; the anchoring has split one sentence in two."
+   ],
+   "severity": "error",
+   "reason": "The second line said the comment's text is missing; it is in the next entry."
+  },
+  {
+   "ref": "18:14",
+   "path": "english",
+   "value": "Is anything hidden from the LORD? At the appointed time I will return to you, at this time next year, with Sarah alive, and Sarah will have a son.",
+   "severity": "error",
+   "reason": "As in 18:10: Ibn Ezra reads חַיָּה of Sarah; the dangling 'alive' attached it to Abraham."
+  },
+  {
+   "ref": "18:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:14.1",
+      "18:14.2",
+      "18:14.3"
+     ],
+     "english": "Is anything hidden from the LORD",
+     "literal": "is-it-hidden from-the-LORD anything; the first clause is a question"
+    },
+    {
+     "tokens": [
+      "18:14.4"
+     ],
+     "english": "At the appointed time",
+     "literal": "to-the-appointed-time"
+    },
+    {
+     "tokens": [
+      "18:14.5",
+      "18:14.6"
+     ],
+     "english": "I will return to you",
+     "literal": "I-will-return to-you"
+    },
+    {
+     "tokens": [
+      "18:14.7",
+      "18:14.8"
+     ],
+     "english": "at this time next year, with Sarah alive",
+     "literal": "as-the-time living: as in 18:10; 'next year' and 'Sarah' are supplied from Ibn Ezra's reading there"
+    },
+    {
+     "tokens": [
+      "18:14.9",
+      "18:14.10"
+     ],
+     "english": "and Sarah will have a son",
+     "literal": "and-to-Sarah son; the verb is supplied"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the new English; 'next year' is Ibn Ezra's reading (18:10), not Rashi's gloss here."
+  },
+  {
+   "ref": "18:14",
+   "path": "token:18:14.8.sense",
+   "value": "1.b",
+   "severity": "error",
+   "reason": "As in 18:10, of Sarah."
+  },
+  {
+   "ref": "18:14",
+   "path": "token:18:14.8.note",
+   "value": "the feminine adjective, as in 18:10: Ibn Ezra takes it of Sarah, alive.",
+   "severity": "error",
+   "reason": "Follows the sense."
+  },
+  {
+   "ref": "18:14",
+   "path": "grammar",
+   "value": [
+    "הֲיִפָּלֵא is a question with the interrogative ה and a nifal yiqtol: 'is anything hidden from the LORD?'.",
+    "לַמּוֹעֵד, 'at the appointed time', is a noun with ל and the article: the time set in 17:21. כָּעֵת חַיָּה repeats the words of 18:10.",
+    "וּלְשָׂרָה בֵן is verbless: 'and to Sarah a son'; the English supplies 'will have'.",
+    "The etnaḥta on דָּבָר divides the verse: the question, then the promise repeated."
+   ],
+   "severity": "error",
+   "reason": "The old notes called the noun לַמּוֹעֵד 'the verb'."
+  },
+  {
+   "ref": "18:16",
+   "path": "english",
+   "value": "The men rose from there and looked down toward Sodom, and Abraham was going with them to escort them.",
+   "severity": "style",
+   "reason": "וְאַבְרָהָם הֹלֵךְ is subject and participle, a circumstantial clause; 'walked' made it a new act in the sequence."
+  },
+  {
+   "ref": "18:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:16.1",
+      "18:16.2",
+      "18:16.3"
+     ],
+     "english": "The men rose from there",
+     "literal": "and-they-rose from-there the-men"
+    },
+    {
+     "tokens": [
+      "18:16.4",
+      "18:16.5",
+      "18:16.6",
+      "18:16.7"
+     ],
+     "english": "and looked down toward Sodom",
+     "literal": "and-they-looked-down over face-of Sodom"
+    },
+    {
+     "tokens": [
+      "18:16.8",
+      "18:16.9",
+      "18:16.10",
+      "18:16.11"
+     ],
+     "english": "and Abraham was going with them to escort them",
+     "literal": "and-Abraham going with-them to-escort-them: subject before participle, a circumstantial clause"
+    }
+   ],
+   "severity": "style",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "18:16",
+   "path": "token:18:16.6.sense",
+   "value": "II",
+   "severity": "error",
+   "reason": "עַל־פְּנֵי is a prepositional phrase, 'over the face of': sense II 'with prepositions', not I.1, the face of a person."
+  },
+  {
+   "ref": "18:16",
+   "path": "token:18:16.9.gloss",
+   "value": "going",
+   "severity": "style",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "18:16",
+   "path": "token:18:16.9.sense",
+   "value": "Qal I.1",
+   "severity": "error",
+   "reason": "Qal II.2 'live, walk' is the figurative sense (to live, conduct oneself). Abraham walks with the men: Qal I.1 'go, come, walk — of persons'."
+  },
+  {
+   "ref": "18:16",
+   "path": "token:18:16.9.note",
+   "value": "qal participle, masculine singular, after its subject: a circumstantial clause, 'was going'.",
+   "severity": "error",
+   "reason": "Follows the new sense."
+  },
+  {
+   "ref": "18:16",
+   "path": "grammar",
+   "value": [
+    "Two wayyiqtol verbs (וַיָּקֻמוּ, וַיַּשְׁקִפוּ) carry the narrative; the subject הָאֲנָשִׁים stands after the first verb and its adverb.",
+    "וַיַּשְׁקִפוּ is the hiphil of שׁקף, 'look down' from a height; with עַל־פְּנֵי, 'over the face of', it is the view down over Sodom.",
+    "וְאַבְרָהָם הֹלֵךְ: subject before participle, a circumstantial clause, 'while Abraham was going with them'. The infinitive לְשַׁלְּחָם gives the purpose.",
+    "The piel of שׁלח, 'send off', is here seeing guests on their way (Rashi and Radak: לְלַוּוֹתָם)."
+   ],
+   "severity": "error",
+   "reason": "The old notes made the participle clause part of the sequence and gave the hiphil the preposition alone."
+  },
+  {
+   "ref": "18:16",
+   "path": "commentary:rashi:18:16:1",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: every הַשְׁקָפָה in Scripture is for harm, except 'look down from your holy dwelling' (Deut 26:15), for great is the power of gifts to the poor, which turns the attribute of anger into mercy. The English keeps the neutral 'looked down'."
+   },
+   "severity": "error",
+   "reason": "Rashi does not say the men looked with evil intent; he says the word bodes harm. The summary added the claim."
+  },
+  {
+   "ref": "18:16",
+   "path": "context",
+   "value": [
+    "Genesis places Sodom in the plain of the Jordan near the Dead Sea (13:10–12, 14:3). Its site is disputed, at the south end of the sea or north of it in the Jordan plain, and has not been identified with certainty. From the hill country near Hebron the land falls steeply east to that basin, the picture of 'looked down' here and in 19:28."
+   ],
+   "severity": "style",
+   "reason": "A reader needs the geography of 'looked down toward Sodom'; the dispute over the site is named without citing any work."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:18:10:1",
+   "verdict": "contradicts",
+   "comment": "the English left 'alive' on Abraham; patched to 'with Sarah alive' in 18:10 and 18:14"
+  },
+  {
+   "anchor": "ibn-ezra:18:10:2",
+   "verdict": "contradicts",
+   "comment": "the English followed Rashi ('it was behind him'); patched to Ibn Ezra, 'he was behind it'"
+  },
+  {
+   "anchor": "ibn-ezra:18:11:1",
+   "verdict": "consistent",
+   "comment": "'advanced in days'"
+  },
+  {
+   "anchor": "ibn-ezra:18:12:1",
+   "verdict": "consistent",
+   "comment": "the qatal read as future, 'shall I have'"
+  },
+  {
+   "anchor": "ibn-ezra:18:12:2",
+   "verdict": "consistent",
+   "comment": "'delight'; summary corrected"
+  },
+  {
+   "anchor": "ibn-ezra:18:12:3",
+   "verdict": "consistent",
+   "comment": "'to herself'"
+  },
+  {
+   "anchor": "ibn-ezra:18:13:1",
+   "verdict": "consistent",
+   "comment": "'now that I have grown old' carries 'after I am worn out'"
+  },
+  {
+   "anchor": "ibn-ezra:18:13:2",
+   "verdict": "not-applicable",
+   "comment": "the first word of ibn-ezra:18:13:3"
+  },
+  {
+   "anchor": "ibn-ezra:18:13:3",
+   "verdict": "consistent",
+   "comment": "'truly'; summary corrected: the prophets view is reported, not his"
+  },
+  {
+   "anchor": "ibn-ezra:18:14:1",
+   "verdict": "consistent",
+   "comment": "'hidden' (היעלם)"
+  }
+ ]
+}
