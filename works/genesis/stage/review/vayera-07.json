@@ -893,6 +893,34 @@
    "value": "Shemesh with the article. The noun is usually feminine, but the verb יָצָא is 3ms, so it is construed as masculine here.",
    "severity": "error",
    "reason": "The old note called the noun feminine, but its verb is masculine."
+  },
+  {
+   "ref": "19:18",
+   "path": "english",
+   "value": "Then Lot said to them, \"No, please, my lords.",
+   "severity": "style",
+   "reason": "editor: Lot's speech runs 19:18–20 and the angel's 19:21–22; each quotation opens and closes once."
+  },
+  {
+   "ref": "19:20",
+   "path": "english",
+   "value": "Look, please, this city is near enough to flee there, and it is small. Let me escape there, please. Is it not small? And I will live.\"",
+   "severity": "style",
+   "reason": "editor: Lot's speech runs 19:18–20 and the angel's 19:21–22; each quotation opens and closes once."
+  },
+  {
+   "ref": "19:21",
+   "path": "english",
+   "value": "He said to him, \"See, I have granted your request in this matter too, so as not to overturn the city you have spoken of.",
+   "severity": "style",
+   "reason": "editor: Lot's speech runs 19:18–20 and the angel's 19:21–22; each quotation opens and closes once."
+  },
+  {
+   "ref": "19:22",
+   "path": "english",
+   "value": "Hurry, escape there, for I cannot do anything until you arrive there.\" Therefore he called the name of the city Zoar.",
+   "severity": "style",
+   "reason": "editor: Lot's speech runs 19:18–20 and the angel's 19:21–22; each quotation opens and closes once."
   }
  ],
  "verdicts": [
