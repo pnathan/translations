@@ -1,0 +1,390 @@
+{
+  "unit": "vayera-06",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "19:8",
+      "english": "\"Look, please, I have two daughters who have never known a man. Let me bring them out to you now, and do to them as you see fit. Only to these men, do nothing; for this reason they have come under the shelter of my roof.\"",
+      "literal": "look-please to-me two-of daughters who not knew man let-me-bring-out now them to-you and-do to-them as-good in-eyes-of-you only to-the-men these not do a-thing for-on-account-of-this came in-shadow-of roof-of-me",
+      "tokens": [
+        {"id": "19:8.1", "gloss": "look", "note": "הִנֵּה calls attention: 'look', not 'behold'."},
+        {"id": "19:8.2", "gloss": "please", "note": "נָא, a particle of entreaty."},
+        {"id": "19:8.3", "gloss": "to me", "note": "לִ with the 1st singular suffix; with the numeral, 'I have'."},
+        {"id": "19:8.4", "gloss": "two"},
+        {"id": "19:8.5", "gloss": "daughters", "sense": "1"},
+        {"id": "19:8.6", "gloss": "who", "note": "relative particle."},
+        {"id": "19:8.7", "gloss": "not", "note": "negative of the verb: 'never' in English."},
+        {"id": "19:8.8", "gloss": "have known", "sense": "Qal 3", "note": "qatal, 3rd plural common, with the daughters as subject. 'Know a man' is the biblical euphemism for sexual relations."},
+        {"id": "19:8.9", "gloss": "a man"},
+        {"id": "19:8.10", "gloss": "let me bring out", "sense": "Hiph 1", "note": "hifil cohortative, 1st singular: 'let me bring out'."},
+        {"id": "19:8.11", "gloss": "now", "note": "נָא again, after the verb."},
+        {"id": "19:8.12", "gloss": "them", "note": "the object marker with the 3rd feminine plural suffix."},
+        {"id": "19:8.13", "gloss": "to you", "sense": "1"},
+        {"id": "19:8.14", "gloss": "and do", "sense": "Qal I.1", "note": "imperative with the conjunction: 'and do'."},
+        {"id": "19:8.15", "gloss": "to them"},
+        {"id": "19:8.16", "gloss": "as good", "sense": "5", "note": "כְּ 'as' with the adjective טוֹב, 'good, appropriate'."},
+        {"id": "19:8.17", "gloss": "in your eyes", "sense": "2.a", "note": "'in your eyes': in your judgment."},
+        {"id": "19:8.18", "gloss": "only", "sense": "2"},
+        {"id": "19:8.19", "gloss": "to the men"},
+        {"id": "19:8.20", "gloss": "these", "note": "הָאֵל is 'these' (אֵלֶּה, shorter form); see the Ibn Ezra comment."},
+        {"id": "19:8.21", "gloss": "not", "note": "the negative of the jussive."},
+        {"id": "19:8.22", "gloss": "do", "sense": "Qal I.1", "note": "jussive, 2nd plural: 'do not'."},
+        {"id": "19:8.23", "gloss": "anything", "sense": "IV", "note": "דָבָר as 'matter, affair', with the negative: 'nothing'."},
+        {"id": "19:8.24", "gloss": "for", "note": "כִּי עַל כֵּן is one conjunction, 'forasmuch as': the three words are a unit."},
+        {"id": "19:8.25", "gloss": "on account of"},
+        {"id": "19:8.26", "gloss": "this"},
+        {"id": "19:8.27", "gloss": "have come", "sense": "Qal 1", "note": "qatal, 3rd plural: 'they came in'."},
+        {"id": "19:8.28", "gloss": "under the shelter of", "note": "בְּצֵל, 'in the shadow of'."},
+        {"id": "19:8.29", "gloss": "my roof", "note": "קֹרָה is a beam or rafter of the house; here it stands for the house roof."}
+      ],
+      "phrases": [
+        {"tokens": ["19:8.1", "19:8.2", "19:8.3", "19:8.4", "19:8.5"], "english": "Look, please, I have two daughters", "literal": "'look-please to-me two daughters': the interjections open the speech; 'to me' with the numeral is 'I have'."},
+        {"tokens": ["19:8.6", "19:8.7", "19:8.8", "19:8.9"], "english": "who have never known a man", "literal": "'who not knew man': the negative goes with the verb, so 'never'; 'have known' keeps the euphemism."},
+        {"tokens": ["19:8.10", "19:8.11", "19:8.12", "19:8.13"], "english": "Let me bring them out to you now", "literal": "'let-me-bring-out now them to-you': the cohortative first, then the particle 'now'; 'them' is the object marker with its suffix."},
+        {"tokens": ["19:8.14", "19:8.15", "19:8.16", "19:8.17"], "english": "and do to them as you see fit", "literal": "'and-do to-them as-good in-eyes-of-you': 'as good in your eyes' is the Hebrew idiom for 'as you see fit'."},
+        {"tokens": ["19:8.18", "19:8.19", "19:8.20"], "english": "Only to these men", "literal": "'only to-the-men these': the particle comes first; 'these' follows the noun."},
+        {"tokens": ["19:8.21", "19:8.22", "19:8.23"], "english": "do nothing", "literal": "'not do a-thing': the negative and the noun 'a thing' give 'nothing'."},
+        {"tokens": ["19:8.24", "19:8.25", "19:8.26"], "english": "for this reason", "literal": "'for-on-account-of-this': forasmuch as; it gives the reason for the request."},
+        {"tokens": ["19:8.27", "19:8.28", "19:8.29"], "english": "they have come under the shelter of my roof", "literal": "'came in-shadow-of roof-of-me': the completed act of coming in, under the protection of the host's house."}
+      ],
+      "grammar": [
+        "הִנֵּה and נָא open Lot's speech to the men of Sodom: an interjection and an entreaty, 'look' and 'please'. The whole verse is direct speech, so it is set in double quotation marks.",
+        "יָדְעוּ is a qatal, 3rd plural, with the daughters as subject, and the negative לֹא belongs to it. The verb has the lexicon sense 'know a person', the biblical euphemism for sexual relations.",
+        "אוֹצִיאָה is a cohortative (hifil, 1st singular, 'let me bring out'); the particle נָא comes after it, so the request is softened twice.",
+        "כִּי עַל כֵּן ('for this reason') joins the offer to its cause: the men came in under the roof, and so they are not to be harmed. The qatal בָּאוּ gives that cause.",
+        "The pashta (disjunctive) on יָדְעוּ marks the end of the first clause, and the silluq on קֹרָתִי ends the verse."
+      ],
+      "note": "Lot's offer to the crowd is the plain sense of the verse: his daughters in place of his guests. The English keeps the offer as Lot makes it and does not comment on it; the commentators (Ramban, Sforno) discuss his motive.",
+      "commentary": [
+        {"anchor": "ibn-ezra:19:8:1", "relation": "follows", "summary": "Ibn Ezra says יָדְעוּ is the plural of the past tense used of masculine and feminine alike, with no added vav and the same vowel in both. The English takes the verb with the two daughters as its subject."},
+        {"anchor": "ibn-ezra:19:8:2", "relation": "follows", "summary": "Ibn Ezra reads הָאֵל as הָאֵלֶּה, 'these'. He calls the explanation he attributes to the Gaon (that the form lacks its third letter) remote, since both forms are found in Aramaic."},
+        {"anchor": "rashi:19:8:1", "relation": "follows", "summary": "Rashi, like Ibn Ezra, reads הָאֵל as כְּמוֹ הָאֵלֶּה, 'these'."},
+        {"anchor": "rashi:19:8:2", "relation": "records", "summary": "Rashi paraphrases the clause as 'you will do this good for my honour, because they came under the shelter of my roof'. The English keeps the causal link and does not add the honour."}
+      ],
+      "apparatus": [
+        "הָאֵל (19:8.20) is read as 'these' by Ibn Ezra and Rashi; the form is unusual, and Ibn Ezra records the view that a letter is missing from it."
+      ],
+      "context": [
+        "The shelter of the roof-beam (קֹרָה) names the host's protection of a guest who has come under his roof; Lot's plea rests on that duty.",
+        "Offering one's daughters to a crowd in place of guests recurs in Judges 19:24, where a host makes the same offer; Ramban compares the two cases."
+      ]
+    },
+    {
+      "ref": "19:9",
+      "english": "And they said, \"Get out of the way!\" And they said, \"This one came to sojourn, and he has set himself up as a judge. Now we will treat you worse than them.\" And they pressed upon the man, upon Lot, very hard; and they drew near to break the door.",
+      "literal": "and-said they get-away there-further and-said they the-one came to-sojourn and-judged judging now do-harm to-you from-them and-pressed they on-the-man on-Lot exceedingly and-drew-near they to-break the-door",
+      "tokens": [
+        {"id": "19:9.1", "gloss": "and they said", "sense": "Qal 1", "note": "wayyiqtol of amar, 3rd plural: the narrative sequence."},
+        {"id": "19:9.2", "gloss": "get", "sense": "Qal", "note": "imperative of nagash, 'draw near'; in this idiom it is a command to move off."},
+        {"id": "19:9.3", "gloss": "out of the way", "sense": "a", "note": "the adverb הָלְאָה, 'further, out there', with the directional ending."},
+        {"id": "19:9.4", "gloss": "and they said", "sense": "Qal 1", "note": "second wayyiqtol; it introduces the second speech."},
+        {"id": "19:9.5", "gloss": "this one", "sense": "1", "note": "the article with the numeral 'one': 'this one'."},
+        {"id": "19:9.6", "gloss": "came", "sense": "Qal 2", "note": "qatal, 3rd masculine singular."},
+        {"id": "19:9.7", "gloss": "to sojourn", "sense": "Qal 1", "note": "infinitive construct with the prefix lamed: 'to sojourn', to live as a resident alien."},
+        {"id": "19:9.8", "gloss": "and he set himself up", "sense": "Qal 1", "note": "wayyiqtol of shafat: 'and he acted as judge'."},
+        {"id": "19:9.9", "gloss": "as a judge", "sense": "Qal 1", "note": "infinitive absolute beside the wayyiqtol: it stresses the verb."},
+        {"id": "19:9.10", "gloss": "now"},
+        {"id": "19:9.11", "gloss": "treat worse", "sense": "Hiph 1", "note": "hifil imperfect, 1st plural: 'we will do harm'."},
+        {"id": "19:9.12", "gloss": "you"},
+        {"id": "19:9.13", "gloss": "than them", "note": "מִן with the 3rd plural suffix, the comparative 'than'."},
+        {"id": "19:9.14", "gloss": "and they pressed", "sense": "Qal", "note": "wayyiqtol of patsar: 'press hard'."},
+        {"id": "19:9.15", "gloss": "upon the man"},
+        {"id": "19:9.16", "gloss": "upon Lot"},
+        {"id": "19:9.17", "gloss": "very hard", "sense": "2"},
+        {"id": "19:9.18", "gloss": "and they drew near", "sense": "Qal", "note": "wayyiqtol of nagash: 'they came up close'."},
+        {"id": "19:9.19", "gloss": "to break", "sense": "Qal", "note": "infinitive construct of shavar, 'break'."},
+        {"id": "19:9.20", "gloss": "the door", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["19:9.1", "19:9.2", "19:9.3"], "english": "And they said, Get out of the way", "literal": "'and-said they; get-away; there-further': a command, not a request."},
+        {"tokens": ["19:9.4", "19:9.5", "19:9.6", "19:9.7", "19:9.8", "19:9.9"], "english": "and they said, This one came to sojourn, and he has set himself up as a judge", "literal": "'and-said they; the-one came to-sojourn; and-judged judging': the infinitive absolute adds emphasis to the self-appointed judging."},
+        {"tokens": ["19:9.10", "19:9.11", "19:9.12", "19:9.13"], "english": "Now we will treat you worse than them", "literal": "'now do-harm to-you from-them': the threat is that the men will do Lot more harm than they do the guests."},
+        {"tokens": ["19:9.14", "19:9.15", "19:9.16", "19:9.17"], "english": "and they pressed upon the man, upon Lot, very hard", "literal": "'and-pressed they on-the-man on-Lot exceedingly': the repeated preposition marks the force of the pressure."},
+        {"tokens": ["19:9.18", "19:9.19", "19:9.20"], "english": "and they drew near to break the door", "literal": "'and-drew-near they to-break the-door': the purpose of the approach is the breaking of the door."}
+      ],
+      "grammar": [
+        "Five wayyiqtol verbs carry the narrative: וַיֹּאמְרוּ, וַיֹּֽאמְרוּ, וַיִּשְׁפֹּט, וַיִּפְצְרוּ, and וַֽיִּגְּשׁוּ.",
+        "The first speech is two commands (גֶּשׁ הָלְאָה); the second is a charge and a threat, in which the subject 'this one' is set first and the verbs follow.",
+        "The infinitive absolute שָׁפוֹט beside the wayyiqtol וַיִּשְׁפֹּט stresses the verb: 'he set himself up, indeed as judge'.",
+        "נָרַע is a hifil imperfect, 1st plural: 'we will do harm to you, more than to them'.",
+        "The verse ends with the silluq on הַדָּלֶת; the verb לִשְׁבֹּר is the purpose of the approach."
+      ],
+      "note": "The Hebrew says only 'the man' and 'Lot'; the English keeps the name and the phrase 'upon the man, upon Lot' as the repetition of the preposition has it.",
+      "commentary": [
+        {"anchor": "rashi:19:9:1", "relation": "follows", "summary": "Rashi glosses גֶּשׁ הָלְאָה as 'move aside and keep away from him', and calls it a rebuke: 'we are not concerned about you'."},
+        {"anchor": "ramban:19:9:1", "relation": "records", "summary": "Ramban finds the word only in speeches of appeasement (פִּיּוּסִים), and suggests that the men first tried to persuade Lot to open the door, and broke it in only when he refused. The English keeps 'pressed' and does not decide between the two."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "19:10",
+      "english": "And the men stretched out their hands, and brought Lot to them, into the house, and shut the door.",
+      "literal": "and-stretched-out the-men their-hands and-brought-in (object) Lot to-them the-house and-the-door shut",
+      "tokens": [
+        {"id": "19:10.1", "gloss": "and they stretched out", "sense": "Qal 3", "note": "wayyiqtol of shalah: 'stretch out the hand' is the idiom for laying hold of someone."},
+        {"id": "19:10.2", "gloss": "the men"},
+        {"id": "19:10.3", "gloss": "(object marker)"},
+        {"id": "19:10.4", "gloss": "their hands", "sense": "1"},
+        {"id": "19:10.5", "gloss": "and they brought in", "sense": "Hiph 1", "note": "hifil wayyiqtol of bo': 'and they caused to come in'."},
+        {"id": "19:10.6", "gloss": "(object marker)"},
+        {"id": "19:10.7", "gloss": "Lot"},
+        {"id": "19:10.8", "gloss": "to them", "sense": "1"},
+        {"id": "19:10.9", "gloss": "into the house", "sense": "7", "note": "the directional ending of בַּיִת: 'housewards, inwards'."},
+        {"id": "19:10.10", "gloss": "and", "note": "conjunction with the object marker."},
+        {"id": "19:10.11", "gloss": "the door", "sense": "1"},
+        {"id": "19:10.12", "gloss": "shut", "sense": "Qal 1", "note": "qatal, 3rd plural: 'they shut'."}
+      ],
+      "phrases": [
+        {"tokens": ["19:10.1", "19:10.2", "19:10.3", "19:10.4"], "english": "And the men stretched out their hands", "literal": "'and-stretched-out the-men (object) their-hands': the idiom for laying hold of Lot."},
+        {"tokens": ["19:10.5", "19:10.6", "19:10.7", "19:10.8", "19:10.9"], "english": "and brought Lot to them, into the house", "literal": "'and-brought-in (object) Lot to-them the-house': the directional ending gives 'into the house'."},
+        {"tokens": ["19:10.10", "19:10.11", "19:10.12"], "english": "and shut the door", "literal": "'and the-door shut': the door is set first in the Hebrew."}
+      ],
+      "grammar": [
+        "The three wayyiqtol and qatal verbs in this verse are the narrative sequence: the men reached, brought in, and shut.",
+        "הַבָּיְתָה is the directional form of בַּיִת; the ending marks motion, 'into the house'.",
+        "The etnaḥta on הַבָּיְתָה and the tipḥa on אֲלֵיהֶם divide the verse into its clauses.",
+        "The verse ends with the silluq on סָגָרוּ, a qatal in the same subject as the wayyiqtols."
+      ],
+      "note": "The men who took Lot in are the two visitors of verse 1; the text calls them 'men' here and does not name them.",
+      "commentary": [
+        {"anchor": "onkelos:19:10:1", "relation": "follows", "summary": "Onkelos renders שָׁלְחוּ יָדָם as 'they extended their hands', the same reading as 'stretched out their hands'."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "19:11",
+      "english": "And the men who were at the entrance of the house they struck with blindness, from the least to the greatest; and they wore themselves out searching for the entrance.",
+      "literal": "and-the-men who at-entrance-of the-house they-struck with-blindness from-small to-great and-they-wore-out to-find the-entrance",
+      "tokens": [
+        {"id": "19:11.1", "gloss": "and", "note": "conjunction with the object marker."},
+        {"id": "19:11.2", "gloss": "the men"},
+        {"id": "19:11.3", "gloss": "who", "note": "relative particle."},
+        {"id": "19:11.4", "gloss": "at the entrance of", "note": "פֶּתַח in the construct before 'the house'."},
+        {"id": "19:11.5", "gloss": "the house", "sense": "1"},
+        {"id": "19:11.6", "gloss": "they struck", "sense": "Hiph 1.a", "note": "hifil qatal, 3rd plural: 'smite, strike'."},
+        {"id": "19:11.7", "gloss": "with blindness", "note": "סַנְוֵרִים, a sudden blindness or dazzling; see the Ibn Ezra comment."},
+        {"id": "19:11.8", "gloss": "from the least", "note": "מִן with the adjective 'small'."},
+        {"id": "19:11.9", "gloss": "to", "sense": "I.3", "note": "עַד, 'up to, as far as', of degree."},
+        {"id": "19:11.10", "gloss": "the greatest", "sense": "6", "note": "'great' in importance: the fixed pair 'from small to great' means all of them."},
+        {"id": "19:11.11", "gloss": "and they wore themselves out", "sense": "Qal", "note": "wayyiqtol of la'ah, 'be weary': 'they tired themselves out'."},
+        {"id": "19:11.12", "gloss": "searching", "sense": "Qal 1", "note": "infinitive construct of matsa' with the prefix lamed."},
+        {"id": "19:11.13", "gloss": "the entrance"}
+      ],
+      "phrases": [
+        {"tokens": ["19:11.1", "19:11.2", "19:11.3", "19:11.4", "19:11.5"], "english": "And the men who were at the entrance of the house", "literal": "'and-the-men who at-entrance-of the-house': the subject is set first, before the verb."},
+        {"tokens": ["19:11.6", "19:11.7", "19:11.8", "19:11.9", "19:11.10"], "english": "they struck with blindness, from the least to the greatest", "literal": "'they-struck with-blindness from-small to-great': a fixed pair, 'all of them'."},
+        {"tokens": ["19:11.11", "19:11.12", "19:11.13"], "english": "and they wore themselves out searching for the entrance", "literal": "'and-they-wore-out to-find the-entrance': the weariness is the result of the search."}
+      ],
+      "grammar": [
+        "The men are the two visitors of the previous verses; the verse uses the same word 'men' that it used for them there.",
+        "The pair מִקָּטֹן וְעַד־גָּדוֹל, 'from small to great', is a fixed phrase for all of the people, of every size and rank.",
+        "The wayyiqtol וַיִּלְאוּ continues the sequence, and its infinitive לִמְצֹא states the result: they could not find the door.",
+        "The verse ends with the silluq on הַפָּתַח; the entrance is named twice, first as a place and then as the thing sought."
+      ],
+      "note": "סַנְוֵרִים is rare; the English 'blindness' follows the lexicon and Rashi. Ibn Ezra's 'darkening of the eye and of the heart' is recorded in the commentary.",
+      "commentary": [
+        {"anchor": "ibn-ezra:19:11:1", "relation": "follows", "summary": "Ibn Ezra says the word is the same as the one in the story of Elisha (2 Kings 6:18), and explains it as darkening of the eye and of the heart. The English 'struck with blindness' keeps the bodily sense he gives first."},
+        {"anchor": "rashi:19:11:2", "relation": "follows", "summary": "Rashi glosses בַּסַּנְוֵרִים as מַכַּת עִוָּרוֹן, a plague of blindness."},
+        {"anchor": "rashi:19:11:3", "relation": "declines", "summary": "Rashi's midrash reads 'from small to great' as the young beginning the sin, so that the plague began with them. This is midrash, not the plain sense; the English keeps 'from the least to the greatest'."}
+      ],
+      "apparatus": [
+        "סַנְוֵרִים (19:11.7) is rare, found also in 2 Kings 6:18; the English follows the lexicon's 'sudden blindness'."
+      ],
+      "context": []
+    },
+    {
+      "ref": "19:12",
+      "english": "And the men said to Lot, \"If you have anyone else here, a son-in-law, your sons-in-law, and your daughters, and all that you have in the city, bring them out of this place.\"",
+      "literal": "and-said the-men to-Lot still who to-you here a-son-in-law and-your-sons and-your-daughters and-all which to-you in-the-city bring-out from the-place",
+      "tokens": [
+        {"id": "19:12.1", "gloss": "and they said", "sense": "Qal 1", "note": "wayyiqtol of amar, 3rd plural."},
+        {"id": "19:12.2", "gloss": "the men"},
+        {"id": "19:12.3", "gloss": "to", "sense": "1"},
+        {"id": "19:12.4", "gloss": "Lot"},
+        {"id": "19:12.5", "gloss": "if", "note": "עוֹד ('still, yet, besides'). Ibn Ezra reads it as a condition; the English keeps the conditional."},
+        {"id": "19:12.6", "gloss": "anyone", "note": "interrogative מִי used as 'anyone'."},
+        {"id": "19:12.7", "gloss": "you have", "note": "לְ with the 2nd masculine singular suffix: 'to you', 'you have'."},
+        {"id": "19:12.8", "gloss": "here"},
+        {"id": "19:12.9", "gloss": "a son-in-law", "sense": "1"},
+        {"id": "19:12.10", "gloss": "your sons-in-law", "sense": "1", "note": "בָּנֶיךָ is 'your sons'; Ibn Ezra reads 'sons-in-law who are like sons'. The literal line keeps 'sons'."},
+        {"id": "19:12.11", "gloss": "and your daughters", "sense": "1"},
+        {"id": "19:12.12", "gloss": "and all", "sense": "2.a"},
+        {"id": "19:12.13", "gloss": "that", "note": "relative particle."},
+        {"id": "19:12.14", "gloss": "you have"},
+        {"id": "19:12.15", "gloss": "in the city", "sense": "1"},
+        {"id": "19:12.16", "gloss": "bring out", "sense": "Hiph 1", "note": "hifil imperative, 2nd masculine singular: the object 'them' is understood."},
+        {"id": "19:12.17", "gloss": "out of", "sense": "1", "note": "מִן with a verb of removal: 'out of'."},
+        {"id": "19:12.18", "gloss": "this place", "sense": "4"}
+      ],
+      "phrases": [
+        {"tokens": ["19:12.1", "19:12.2", "19:12.3", "19:12.4"], "english": "And the men said to Lot", "literal": "'and-said the-men to-Lot'."},
+        {"tokens": ["19:12.5", "19:12.6", "19:12.7", "19:12.8"], "english": "If you have anyone else here", "literal": "'still who to-you here': the question is read as a condition, 'if there is anyone of yours here'."},
+        {"tokens": ["19:12.9", "19:12.10", "19:12.11", "19:12.12", "19:12.13", "19:12.14", "19:12.15"], "english": "a son-in-law, your sons-in-law, and your daughters, and all that you have in the city", "literal": "'a-son-in-law and-your-sons and-your-daughters and-all which to-you in-the-city': the list of relatives, then all the possessions."},
+        {"tokens": ["19:12.16", "19:12.17", "19:12.18"], "english": "bring them out of this place", "literal": "'bring-out from the-place': the imperative; 'them' is supplied from the list."}
+      ],
+      "grammar": [
+        "עוֹד מִי לְךָ פֹּה is an idiom: 'anyone else of yours here'. Rashi takes it as a question; Ibn Ezra reads it as a condition, 'if you have ...', and the English follows him.",
+        "The list runs son-in-law, sons, daughters, then all that is his in the city. The order names the household first and the goods last.",
+        "הוֹצֵא is a hifil imperative, 2nd masculine singular, addressed to Lot; the object is supplied from the list.",
+        "The etnaḥta on בָּעִיר divides the list from the command; the silluq on הַמָּקוֹם ends the verse."
+      ],
+      "note": "The English reads the condition (Ibn Ezra) and the sons-in-law (Ibn Ezra). Rashi and Radak read 'your sons' as the sons of the married daughters, since Lot had no sons; that reading is recorded.",
+      "commentary": [
+        {"anchor": "ibn-ezra:19:12:1", "relation": "follows", "summary": "Ibn Ezra paraphrases the phrase as 'if you have a son-in-law', so he takes the question as a condition. The English 'If you have anyone else here' keeps that reading."},
+        {"anchor": "ibn-ezra:19:12:2", "relation": "follows", "summary": "Ibn Ezra says ובניך means sons-in-law who are like sons. He argues against the view that one angel alone went out to save Lot: both speak in verse 13, and the one who speaks afterwards says 'I cannot do anything' (verse 22)."},
+        {"anchor": "rashi:19:12:3", "relation": "records", "summary": "Rashi takes ובניך as the sons of the married daughters, and Radak says the same since Lot had no sons. The English keeps 'your sons-in-law' from Ibn Ezra and records this reading."}
+      ],
+      "apparatus": [
+        "ובניך (19:12.10) can mean 'your sons' or 'your sons-in-law'; the English follows Ibn Ezra and the literal line keeps 'sons'."
+      ],
+      "context": []
+    },
+    {
+      "ref": "19:13",
+      "english": "For we are about to destroy this place, because their outcry has grown great before the LORD, and the LORD sent us to destroy it.",
+      "literal": "for destroying we the-place this for has-grown-great their-outcry before the-presence-of the-LORD and-sent-us the-LORD to-destroy-it",
+      "tokens": [
+        {"id": "19:13.1", "gloss": "for", "sense": "3", "note": "כִּי introducing a causal clause."},
+        {"id": "19:13.2", "gloss": "are about to destroy", "sense": "Hiph 1", "note": "hifil participle, masculine plural, used of an action about to happen: 'we are about to destroy'."},
+        {"id": "19:13.3", "gloss": "we", "note": "the independent pronoun of the speakers."},
+        {"id": "19:13.4", "gloss": "(object marker)"},
+        {"id": "19:13.5", "gloss": "this place", "sense": "4"},
+        {"id": "19:13.6", "gloss": "this"},
+        {"id": "19:13.7", "gloss": "because", "sense": "3", "note": "the second causal כִּי: the reason for the destruction."},
+        {"id": "19:13.8", "gloss": "has grown great", "sense": "Qal 2", "note": "qatal, 3rd feminine singular, agreeing with צַעֲקָה."},
+        {"id": "19:13.9", "gloss": "their outcry", "note": "the suffix is the object of the cry: the outcry against them."},
+        {"id": "19:13.10", "gloss": "before", "sense": "3", "note": "אֵת פְּנֵי, 'before the presence of', the lexicon's special use."},
+        {"id": "19:13.11", "gloss": "the presence of", "sense": "I.6"},
+        {"id": "19:13.12", "gloss": "the LORD", "note": "YHWH, rendered LORD in capitals."},
+        {"id": "19:13.13", "gloss": "and sent us", "sense": "Pi 1", "note": "piel wayyiqtol of shalah with the 1st plural suffix: 'and he sent us'."},
+        {"id": "19:13.14", "gloss": "the LORD"},
+        {"id": "19:13.15", "gloss": "to destroy it", "sense": "Pi 1", "note": "piel infinitive construct; the feminine suffix refers to the city of verse 14, which the place includes."}
+      ],
+      "phrases": [
+        {"tokens": ["19:13.1", "19:13.2", "19:13.3", "19:13.4", "19:13.5", "19:13.6"], "english": "For we are about to destroy this place", "literal": "'for destroying we (object) the-place this': the speakers' own intended act."},
+        {"tokens": ["19:13.7", "19:13.8", "19:13.9", "19:13.10", "19:13.11", "19:13.12"], "english": "because their outcry has grown great before the LORD", "literal": "'for has-grown-great their-outcry before the-presence-of the-LORD': the outcry reaches the LORD."},
+        {"tokens": ["19:13.13", "19:13.14", "19:13.15"], "english": "and the LORD sent us to destroy it", "literal": "'and-sent-us the-LORD to-destroy-it': the LORD is the one who sent the men."}
+      ],
+      "grammar": [
+        "כִּי opens two causal clauses: 'for we are about to destroy' and 'for their outcry has grown great'.",
+        "The participle מַשְׁחִתִים is a hifil, with the speakers as subject; it expresses an action about to happen.",
+        "גָּדְלָה is a qatal with the feminine subject צַעֲקָתָם, and the verb agrees with its subject.",
+        "The verse ends with the silluq on לְשַׁחֲתָהּ; the feminine suffix refers to the city, not to the masculine מָקוֹם."
+      ],
+      "note": "The English keeps 'their outcry' as the Hebrew has it; Radak's reading (the cry of the oppressed against them) fits the same words and is recorded.",
+      "commentary": [
+        {"anchor": "radak:19:13:1", "relation": "records", "summary": "Radak says 'their outcry' is the cry of the oppressed who call out against those people, the suffix being the object of the cry. The English keeps the literal words, which cover this reading."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "19:14",
+      "english": "And Lot went out and spoke to his sons-in-law who were to marry his daughters and said, \"Get up, get out of this place, for the LORD is destroying the city.\" But to his sons-in-law he seemed like a man joking.",
+      "literal": "and-went-out Lot and-spoke to-sons-in-law-of-him takers-of daughters-of-him and-said get-up go-out from-the-place this for destroying the-LORD the-city and-was as-one-joking in-eyes-of sons-in-law-of-him",
+      "tokens": [
+        {"id": "19:14.1", "gloss": "and went out", "sense": "Qal 1.a", "note": "wayyiqtol of yatsa', 'go out from a place'."},
+        {"id": "19:14.2", "gloss": "Lot"},
+        {"id": "19:14.3", "gloss": "and spoke", "sense": "Pi", "note": "piel wayyiqtol of dabar."},
+        {"id": "19:14.4", "gloss": "to", "sense": "1"},
+        {"id": "19:14.5", "gloss": "his sons-in-law", "sense": "1"},
+        {"id": "19:14.6", "gloss": "who were to marry", "sense": "Qal 3.a", "note": "participle construct of laqah, 'takers': the men who were to take the daughters in marriage. Rashi reads betrothal."},
+        {"id": "19:14.7", "gloss": "his daughters", "sense": "1"},
+        {"id": "19:14.8", "gloss": "and said", "sense": "Qal 1", "note": "wayyiqtol of amar."},
+        {"id": "19:14.9", "gloss": "get up", "sense": "Qal 1", "note": "imperative of qum, plural."},
+        {"id": "19:14.10", "gloss": "get out", "sense": "Qal 1.a", "note": "imperative of yatsa', plural."},
+        {"id": "19:14.11", "gloss": "of", "sense": "1"},
+        {"id": "19:14.12", "gloss": "the place", "sense": "4"},
+        {"id": "19:14.13", "gloss": "this"},
+        {"id": "19:14.14", "gloss": "for", "sense": "3", "note": "כִּי introducing the reason."},
+        {"id": "19:14.15", "gloss": "is destroying", "sense": "Hiph 1", "note": "hifil participle, masculine singular: 'is destroying'."},
+        {"id": "19:14.16", "gloss": "the LORD"},
+        {"id": "19:14.17", "gloss": "(object marker)"},
+        {"id": "19:14.18", "gloss": "the city", "sense": "1"},
+        {"id": "19:14.19", "gloss": "he seemed", "sense": "Qal II.2.c", "note": "wayyiqtol of hayah: 'he became, seemed'."},
+        {"id": "19:14.20", "gloss": "like one joking", "sense": "Pi 1", "note": "כְּ with the piel participle of tsahaq: 'like one jesting'."},
+        {"id": "19:14.21", "gloss": "in the eyes of", "sense": "2.a"},
+        {"id": "19:14.22", "gloss": "his sons-in-law", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["19:14.1", "19:14.2"], "english": "And Lot went out", "literal": "'and-went-out Lot'."},
+        {"tokens": ["19:14.3", "19:14.4", "19:14.5", "19:14.6", "19:14.7"], "english": "and spoke to his sons-in-law who were to marry his daughters", "literal": "'and-spoke to-sons-in-law-of-him takers-of daughters-of-him': the takers are the men whose marriage to the daughters is at stake."},
+        {"tokens": ["19:14.8"], "english": "and said", "literal": "'and-said': the speech follows."},
+        {"tokens": ["19:14.9", "19:14.10", "19:14.11", "19:14.12", "19:14.13"], "english": "Get up, get out of this place", "literal": "'get-up go-out from-the-place this': two plural imperatives."},
+        {"tokens": ["19:14.14", "19:14.15", "19:14.16", "19:14.17", "19:14.18"], "english": "for the LORD is destroying the city", "literal": "'for destroying the-LORD (object) the-city': the reason for the command."},
+        {"tokens": ["19:14.19", "19:14.20", "19:14.21", "19:14.22"], "english": "to his sons-in-law he seemed like a man joking", "literal": "'and-was as-one-joking in-eyes-of sons-in-law-of-him': the narrator's comment on their reaction."}
+      ],
+      "grammar": [
+        "וַיֵּצֵא, וַיְדַבֵּר, and וַיֹּאמֶר are wayyiqtol forms: Lot goes out, speaks, and says.",
+        "לֹקְחֵי בְנֹתָיו is a participle construct of laqah, 'the takers of his daughters'; the English 'who were to marry' is one reading, and Radak's 'had taken' another.",
+        "קוּמוּ and צְּאוּ are two plural imperatives addressed to the sons-in-law; the reason is given after them, in a clause with the participle מַשְׁחִית.",
+        "וַיְהִי כִמְצַחֵק: the verb 'become' with the כְּ of comparison gives 'seemed like one joking'; the narrator's comment ends the verse.",
+        "The silluq on חֲתָנָיו closes the verse; the merkha on וַיְהִי marks the narrator's line."
+      ],
+      "note": "The English keeps 'his daughters' and does not say which daughters are meant; the commentators disagree (see Ibn Ezra, Rashi, Radak).",
+      "commentary": [
+        {"anchor": "ibn-ezra:19:14:1", "relation": "records", "summary": "Ibn Ezra's comment is compressed: Lot had two other daughters who died in Sodom, and the two found there are the ones named in verse 15. The English keeps 'his daughters' and does not decide which daughters are meant."},
+        {"anchor": "rashi:19:14:1", "relation": "records", "summary": "Rashi takes 'his sons-in-law' as the husbands of two married daughters living in the city. The English keeps 'sons-in-law', which allows this reading."},
+        {"anchor": "rashi:19:14:2", "relation": "follows", "summary": "Rashi says the daughters at home were betrothed to the men: 'who were to marry his daughters'. The English adopts this."},
+        {"anchor": "radak:19:14:1", "relation": "records", "summary": "Radak takes לֹקְחֵי as 'who had taken', so that the men had already married the daughters, and the women followed their husbands' view. The English 'who were to marry' keeps Rashi's betrothal reading."}
+      ],
+      "apparatus": [
+        "לֹקְחֵי בְנֹתָיו: whether the men were betrothed or married is open (Rashi, Radak); the English uses the word 'marry' to leave the status open."
+      ],
+      "context": [
+        "A betrothed woman was treated in law as already married (Deuteronomy 22:23-24). The 'takers' of this verse may be men with a betrothal, so the status of the daughters is a question for the commentators."
+      ]
+    },
+    {
+      "ref": "19:15",
+      "english": "As the dawn rose, the angels urged Lot, saying, \"Get up, take your wife and your two daughters who are here, lest you be swept away in the guilt of the city.\"",
+      "literal": "and-as the-dawn rose and-urged the-angels Lot saying get-up take (object) your-wife and-(object) two your-daughters who-are-here lest be-swept-away in-guilt-of the-city",
+      "tokens": [
+        {"id": "19:15.1", "gloss": "and as", "note": "conjunction with כְּמוֹ, 'as' or 'when'."},
+        {"id": "19:15.2", "gloss": "the dawn"},
+        {"id": "19:15.3", "gloss": "rose", "sense": "Qal 5", "note": "qatal, 3rd masculine singular: 'go up, rise'."},
+        {"id": "19:15.4", "gloss": "urged", "sense": "Hiph.", "note": "hifil wayyiqtol of 'uts: 'press, hurry'. Ibn Ezra glosses it 'pressed'."},
+        {"id": "19:15.5", "gloss": "the angels", "sense": "2", "note": "מַלְאָךְ as 'angel', a being sent by God."},
+        {"id": "19:15.6", "gloss": "Lot", "note": "בְּ with the name: 'upon Lot'."},
+        {"id": "19:15.7", "gloss": "saying", "sense": "Qal 1", "note": "infinitive construct of amar introducing the speech."},
+        {"id": "19:15.8", "gloss": "get up", "sense": "Qal 1", "note": "imperative, 2nd masculine singular."},
+        {"id": "19:15.9", "gloss": "take", "sense": "Qal 2", "note": "imperative of laqah: 'take and carry along'."},
+        {"id": "19:15.10", "gloss": "(object marker)"},
+        {"id": "19:15.11", "gloss": "your wife", "sense": "2"},
+        {"id": "19:15.12", "gloss": "and", "note": "conjunction with the object marker."},
+        {"id": "19:15.13", "gloss": "two"},
+        {"id": "19:15.14", "gloss": "your daughters", "sense": "1"},
+        {"id": "19:15.15", "gloss": "who are here", "sense": "Niph", "note": "nifal participle, feminine plural, of matsa': 'found'. Radak: 'with you in the house'."},
+        {"id": "19:15.16", "gloss": "lest", "sense": "1", "note": "פֶּן with the imperfect: 'lest'."},
+        {"id": "19:15.17", "gloss": "be swept away", "sense": "Niph 1", "note": "nifal imperfect, 2nd masculine singular: 'be swept away, destroyed'."},
+        {"id": "19:15.18", "gloss": "in the guilt of", "note": "בַּ with עָוֹן, 'iniquity, guilt'."},
+        {"id": "19:15.19", "gloss": "the city", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["19:15.1", "19:15.2", "19:15.3"], "english": "As the dawn rose", "literal": "'and-as the-dawn rose': the clause gives the time; see Ibn Ezra."},
+        {"tokens": ["19:15.4", "19:15.5", "19:15.6", "19:15.7"], "english": "the angels urged Lot, saying", "literal": "'urged the-angels upon-Lot saying': the men urged him, as the wayyiqtol's pressure suggests."},
+        {"tokens": ["19:15.8", "19:15.9", "19:15.10", "19:15.11"], "english": "Get up, take your wife", "literal": "'get-up take (object) your-wife': two imperatives."},
+        {"tokens": ["19:15.12", "19:15.13", "19:15.14", "19:15.15"], "english": "and your two daughters who are here", "literal": "'and (object) two your-daughters who-are-found': the participle is 'those found here'."},
+        {"tokens": ["19:15.16", "19:15.17", "19:15.18", "19:15.19"], "english": "lest you be swept away in the guilt of the city", "literal": "'lest be-swept-away in-guilt-of the-city': the purpose of the command."}
+      ],
+      "grammar": [
+        "וּכְמוֹ הַשַּׁחַר עָלָה is a clause of time: 'and as the dawn rose'. Ibn Ezra defends the reading against R. Jonah's objection.",
+        "The wayyiqtol וַיָּאִיצוּ, with the subject the angels, introduces the speech with the infinitive לֵאמֹר, 'saying'.",
+        "קוּם and קַח are two imperatives; the three objects (wife and daughters) are the people to be taken out.",
+        "The participle הַנִּמְצָאֹת is nifal, feminine plural, agreeing with 'your daughters': 'who are here'.",
+        "The verse ends with the silluq on הָעִיר; the lest-clause gives the danger."
+      ],
+      "note": "The angels are called 'the men' in verses 10-12 and 'the angels' here; the verse marks the change. The English follows the Hebrew noun and keeps 'urged' for the verb.",
+      "commentary": [
+        {"anchor": "ibn-ezra:19:15:1", "relation": "follows", "summary": "Ibn Ezra quotes R. Jonah the grammarian, who held that 'and as the dawn rose' cannot be said, and says that Jonah forgot 'they multiplied as they multiplied' (Zechariah 10:8), where the same construction occurs. The English reads the clause as 'as the dawn rose'."},
+        {"anchor": "ibn-ezra:19:15:2", "relation": "follows", "summary": "Ibn Ezra glosses וַיָּאִיצוּ as ויציקו, 'they pressed', comparing the word in Exodus 5:13, where the taskmasters press the people. The English 'urged' keeps that pressure."},
+        {"anchor": "radak:19:15:3", "relation": "follows", "summary": "Radak takes הַנִּמְצָאֹת as 'those found with you in the house'. The English 'who are here' gives the same sense."},
+        {"anchor": "rashi:19:15:2", "relation": "records", "summary": "Rashi reads הַנִּמְצָאֹת as 'those prepared for you in the house, to save them'. The English keeps 'who are here' and records his reading."}
+      ],
+      "apparatus": [],
+      "context": []
+    }
+  ]
+}
