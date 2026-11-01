@@ -1,0 +1,366 @@
+{
+ "unit": "vayera-13",
+ "model": "sonnet",
+ "summary": "The translation is largely sound: the verbs, persons and senses of the tokens check against the lexicon, the quotation marks are right, and 'playing' at 21:9 follows Ibn Ezra. The main faults are in the commentary summaries: Ibn Ezra's 'bigger than her son' was rendered 'large of build', Ramban's own view at 21:9 (mocking) was misreported as a claim to the inheritance, Rashi's three senses and the arrow story were confused, and Rashi at 21:10 was reversed. At 21:14 the English left 'and the boy' open in Rashi's favour; it is patched to Ibn Ezra's reading, with the dependent notes. Two senses of עַיִן (21:11, 21:12) are queried, and the context notes at 21:7, 21:8 and 21:10 are replaced.",
+ "patches": [
+  {
+   "ref": "21:7",
+   "path": "token:21:7.5.gloss",
+   "value": "has nursed",
+   "severity": "style",
+   "reason": "The gloss repeated 'that' and 'Sarah', which belong to the phrase and to token 21:7.7; the token is the hifil perfect alone."
+  },
+  {
+   "ref": "21:7",
+   "path": "context",
+   "value": [],
+   "severity": "style",
+   "reason": "The Nuzi note is not about this verse (Sarah's nursing, not a surrogate arrangement) and ends in a vague claim; the parallel is given at 21:10, where the question of inheritance arises."
+  },
+  {
+   "ref": "21:8",
+   "path": "context",
+   "value": [
+    "The verse reports the feast as Abraham's act and does not say whether a feast at weaning was general custom in its period. Radak allows either (see the commentary).",
+    "Texts from Mesopotamia and Egypt speak of a child being nursed for about two to three years, so weaning came when the child was past infancy. The verse itself gives no age."
+   ],
+   "severity": "style",
+   "reason": "A reader needs to know that weaning was a late stage, not an early one; the added line is the general picture and claims no more."
+  },
+  {
+   "ref": "21:9",
+   "path": "commentary:ibn-ezra:21:9:1.summary",
+   "value": "Ibn Ezra: for such is the way of every boy (Ramban quotes him as 'amusing himself, as any boy does'), and Sarah envied him because he was bigger than her son (גדול מבנה). The English 'playing' follows him. The idolatry, bloodshed and illicit sex that Rashi and Ramban find in the word are not taken here.",
+   "severity": "error",
+   "reason": "'Large of build' mistakes מבנה: it is מִן + בְּנָהּ, 'than her son'. Ibn Ezra says the boy was older and bigger than Isaac."
+  },
+  {
+   "ref": "21:9",
+   "path": "commentary:rashi:21:9:1.summary",
+   "value": "Rashi: מְצַחֵק has three senses elsewhere: idolatry (Exodus 32:6 'rose up to play'), illicit sex (Genesis 39:14 'to play with me'), and bloodshed (2 Samuel 2:14 'let the young men arise and play before us'). He takes it here as bloodshed: Ishmael quarrelled with Isaac over the inheritance, claiming as firstborn a double portion, and went out into the field and shot arrows at him (Proverbs 26:18-19). The English declines these: the verse says only 'playing', and the quarrel is not in the words.",
+   "severity": "error",
+   "reason": "The inheritance quarrel and the arrows are Rashi's illustration of the third sense, bloodshed; the summary made them a fourth reading after the three senses."
+  },
+  {
+   "ref": "21:9",
+   "path": "commentary:ramban:21:9:1.summary",
+   "value": "Ramban gives Rashi's three senses and the inheritance quarrel with the arrows, and the Tosefta in which Rabbi Akiva reads the word as idolatry and Rabbi Shimon as inheritance. He objects that a quarrel over the inheritance would belong to later years, when Ishmael, about seventeen, was too big to be carried on his mother's shoulder. He cites Ibn Ezra's plain sense (a boy amusing himself, whom Sarah envied for being bigger than her son). His own view is that on the day of the weaning she saw him mocking Isaac or the great feast, which is why the verse says 'the son of Hagar the Egyptian'. The English takes Ibn Ezra's 'playing' and does not adopt Ramban's.",
+   "severity": "error",
+   "reason": "The summary said Ramban himself reads a claim to the inheritance; he rejects that reading and holds that the boy was mocking."
+  },
+  {
+   "ref": "21:9",
+   "path": "grammar",
+   "value": [
+    "The verse has one main verb, the wayyiqtol וַתֵּרֶא (21:9.1). Its object, 'the son of Hagar the Egyptian' (21:9.2–6), is defined by the relative clause that follows (21:9.7–9).",
+    "The relative clause אֲשֶׁר יָלְדָה לְאַבְרָהָם (21:9.7–9) gives the son's descent: his mother bore him to Abraham. The text does not name him.",
+    "The participle מְצַחֵק (21:9.10) is the last word of the verse and describes what Sarah saw going on: 'playing'. The verb is the root of the name יִצְחָק, 'he laughs' (21:6); English cannot show the echo.",
+    "The silluq on מְצַחֵק closes the verse."
+   ],
+   "severity": "style",
+   "reason": "The wordplay with Isaac's name is the point a learner should see; the note on the participle is otherwise kept."
+  },
+  {
+   "ref": "21:10",
+   "path": "commentary:rashi:21:10:1.summary",
+   "value": "Rashi: 'with my son, with Isaac': since he is my son, even if Ishmael is not worthy like Isaac, or worthy like Isaac though not my son, it is not fit that he inherit with him; how much more with my son, with Isaac, who is both. The English keeps both phrases.",
+   "severity": "error",
+   "reason": "The summary made the two grounds belong to Ishmael ('not worthy', 'not a full son'). Rashi's point is that Isaac has both; Ishmael lacks at least one."
+  },
+  {
+   "ref": "21:10",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:10.1",
+      "21:10.2"
+     ],
+     "english": "And she said to Abraham",
+     "literal": "and-said to-Abraham"
+    },
+    {
+     "tokens": [
+      "21:10.3",
+      "21:10.4",
+      "21:10.5"
+     ],
+     "english": "Drive out this maidservant",
+     "literal": "drive-out the-maidservant this"
+    },
+    {
+     "tokens": [
+      "21:10.6",
+      "21:10.7"
+     ],
+     "english": "and her son",
+     "literal": "and-(object marker) son-her"
+    },
+    {
+     "tokens": [
+      "21:10.8"
+     ],
+     "english": "for",
+     "literal": "for: the reason for the command"
+    },
+    {
+     "tokens": [
+      "21:10.9",
+      "21:10.10",
+      "21:10.11",
+      "21:10.12",
+      "21:10.13"
+     ],
+     "english": "the son of this maidservant shall not inherit",
+     "literal": "not shall-inherit son the-maidservant this: the English puts the negated verb before its subject"
+    },
+    {
+     "tokens": [
+      "21:10.14",
+      "21:10.15"
+     ],
+     "english": "with my son",
+     "literal": "with my-son"
+    },
+    {
+     "tokens": [
+      "21:10.16",
+      "21:10.17"
+     ],
+     "english": "with Isaac",
+     "literal": "with Isaac: the preposition repeated, naming the son; Rashi reads the pair as 'my son' and 'Isaac' together (commentary)"
+    }
+   ],
+   "severity": "style",
+   "reason": "The old literal said the second 'with' names a second ground of exclusion, which follows the mistaken summary of Rashi."
+  },
+  {
+   "ref": "21:10",
+   "path": "context",
+   "value": [
+    "Mesopotamian law collections speak to the standing of a slave-woman's sons. In the laws of Hammurabi (§§170–171) the sons of a slave-woman share the inheritance with the wife's sons if the father acknowledged them in his lifetime; if he did not, they do not share, and the slave-woman and her children are freed. How closely Genesis follows such rules is disputed.",
+    "A childless wife giving a slave-woman to her husband, with the child reckoned to the wife, is attested in the Nuzi tablets (northern Mesopotamia, fifteenth to fourteenth centuries BCE). How closely that practice bears on Genesis 16 and 21 is disputed.",
+    "Hebrew אָמָה is a female slave belonging to the household; 'maidservant' keeps that status."
+   ],
+   "severity": "style",
+   "reason": "The old note pointed back to 21:7 and said nothing a reader could use about inheritance; the replacement states what the law collections provide and names the dispute."
+  },
+  {
+   "ref": "21:11",
+   "path": "token:21:11.4.sense",
+   "value": "3",
+   "severity": "question",
+   "reason": "Sense 5 of עַיִן is 'eye for eye, in the presence of, in full view'. בְּעֵינֵי with a verb of displeasure means 'in the judgment of', which is the figurative use of the eye for mental faculties and states (sense 3)."
+  },
+  {
+   "ref": "21:12",
+   "path": "token:21:12.7.sense",
+   "value": "3",
+   "severity": "question",
+   "reason": "Same as 21:11.4: 'in your eyes' is the figurative sense of judgment (3), not 'in the presence of' (5)."
+  },
+  {
+   "ref": "21:14",
+   "path": "english",
+   "value": "Abraham rose early in the morning and took bread and a skin of water, and gave them to Hagar, putting them on her shoulder, and gave her the boy, and sent her away. She went and wandered in the wilderness of Beersheba.",
+   "severity": "question",
+   "reason": "Ibn Ezra, the normative commentator, takes 'and the boy' with 'gave': Abraham handed Hagar the boy and told her to take her son with her; Ramban and Sforno agree, and Ramban notes that Ishmael was about seventeen. The English 'putting them on her shoulder, and the boy' left it open that the boy was put on her shoulder, which is Rashi's midrashic reading. Choose the reading of the normative commentator and record the other."
+  },
+  {
+   "ref": "21:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:14.1",
+      "21:14.2",
+      "21:14.3"
+     ],
+     "english": "Abraham rose early in the morning",
+     "literal": "and-rose-early Abraham in-the-morning"
+    },
+    {
+     "tokens": [
+      "21:14.4",
+      "21:14.5",
+      "21:14.6",
+      "21:14.7"
+     ],
+     "english": "and took bread and a skin of water",
+     "literal": "and-took bread and-skin water"
+    },
+    {
+     "tokens": [
+      "21:14.8",
+      "21:14.9",
+      "21:14.10"
+     ],
+     "english": "and gave them to Hagar",
+     "literal": "and-gave to Hagar"
+    },
+    {
+     "tokens": [
+      "21:14.11",
+      "21:14.12",
+      "21:14.13"
+     ],
+     "english": "putting them on her shoulder",
+     "literal": "placing on her-shoulder"
+    },
+    {
+     "tokens": [
+      "21:14.14",
+      "21:14.15"
+     ],
+     "english": "and gave her the boy",
+     "literal": "and-(object marker) the-boy: a second object of 'gave' (21:14.8), as Ibn Ezra, Ramban and Sforno read it; the verb is carried over"
+    },
+    {
+     "tokens": [
+      "21:14.16"
+     ],
+     "english": "and sent her away",
+     "literal": "and-sent-her"
+    },
+    {
+     "tokens": [
+      "21:14.17",
+      "21:14.18"
+     ],
+     "english": "She went and wandered",
+     "literal": "she-went and-wandered"
+    },
+    {
+     "tokens": [
+      "21:14.19",
+      "21:14.20",
+      "21:14.21"
+     ],
+     "english": "in the wilderness of Beersheba",
+     "literal": "in-wilderness-of Beer-sheba"
+    }
+   ],
+   "severity": "question",
+   "reason": "The fifth phrase follows the changed English."
+  },
+  {
+   "ref": "21:14",
+   "path": "token:21:14.14.note",
+   "value": "ו with the object marker. The verb 'gave' (21:14.8) is carried over to this second object; the marker is not translated.",
+   "severity": "question",
+   "reason": "Follows the changed reading of 'and the boy'."
+  },
+  {
+   "ref": "21:14",
+   "path": "token:21:14.15.note",
+   "value": "Second object of 'gave' (Ibn Ezra, Ramban, Sforno). Rashi and Onkelos take him as also put on her shoulder; the English does not.",
+   "severity": "question",
+   "reason": "The earlier note left the grammar open."
+  },
+  {
+   "ref": "21:14",
+   "path": "token:21:14.6.note",
+   "value": "The noun is חֵמֶת (here in the construct, חֵמַת): a vessel for water (Ibn Ezra, who allows skin or wood), here a skin (the pack's 'waterskin'). The pack gives no senses.",
+   "severity": "style",
+   "reason": "The lemma is חֵמֶת, not חֵמָה."
+  },
+  {
+   "ref": "21:14",
+   "path": "grammar",
+   "value": [
+    "The verse is a sequence of wayyiqtols (21:14.1, .4, .8, .16, .17, .18): an early start, the provision, the dismissal, and the wandering.",
+    "The participle שָׂם (21:14.11) is a subordinate act: 'gave, putting on her shoulder'. The bread and the skin are the things placed.",
+    "'And the boy' (21:14.14–15), with the object marker, is a second object of וַיִּתֵּן: Abraham gave Hagar the boy. So Ibn Ezra (he told her to take her son with her), Ramban and Sforno. Rashi and Onkelos take the boy as also put on her shoulder; the English does not.",
+    "The etnaḥta on וַֽיְשַׁלְּחֶ֑הָ (21:14.16) closes the dismissal and divides the verse before the wandering."
+   ],
+   "severity": "question",
+   "reason": "Follows the changed reading of 'and the boy'."
+  },
+  {
+   "ref": "21:14",
+   "path": "apparatus",
+   "value": [
+    "חֵמֶת: the pack lists 'waterskin' (BDB); Ibn Ezra says 'a vessel, perhaps of skin or of wood'. The English gives a skin.",
+    "'And the boy' (21:14.14–15): a second object of 'gave' (Ibn Ezra, Ramban, Sforno; the English) or put on her shoulder with the bread and the skin (Rashi, Onkelos)."
+   ],
+   "severity": "question",
+   "reason": "Follows the changed reading of 'and the boy'."
+  },
+  {
+   "ref": "21:14",
+   "path": "commentary:ibn-ezra:21:14:1.summary",
+   "value": "Ibn Ezra: חֵמֶת is a vessel, perhaps of skin or of wood, like מְסַפֵּחַ חֲמָתְךָ (Habakkuk 2:15). He adds that many wonder how Abraham sent his son away with his mother empty-handed, but the wonder is misplaced: Abraham did what the LORD commanded, and had he given Hagar money against Sarah's will he would not have kept the command; later, after Sarah's death, he gave gifts to the sons of Ishmael. The English takes the vessel as a skin, one of the two materials he allows.",
+   "severity": "style",
+   "reason": "The first summary did not say what Ibn Ezra says about the giving; it is a remark on the story, not on the words, but it should be reported."
+  },
+  {
+   "ref": "21:14",
+   "path": "commentary:ibn-ezra:21:14:2.summary",
+   "value": "Ibn Ezra: he gave to Hagar, put it on her shoulder, and told her 'take your son with you', and sent her. Silver and gold may also have been given, though the verse does not say so; the bread and water were enough to bring her to Beersheba, for Abraham was then in Gerar. She went, did not know the way, and wandered; her son fell ill for lack of water, and when she saw his life going out for thirst she cast him down. The English takes 'and the boy' as given to her, and states only the bread and the water.",
+   "severity": "error",
+   "reason": "The summary left out his reading of 'and the boy', which decides the grammar of the English line."
+  },
+  {
+   "ref": "21:14",
+   "path": "commentary:rashi:21:14:2",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi reads 'and the boy' as also put on her shoulder, and adds a midrash (Bereshit Rabbah): Sarah had cast an evil eye on the boy, and fever seized him so that he could not walk. The midrash is not the plain sense; the English follows Ibn Ezra, Ramban and Sforno, who take the boy as given to Hagar."
+   },
+   "severity": "question",
+   "reason": "The English now takes a side; the old summary said it kept both open."
+  },
+  {
+   "ref": "21:14",
+   "path": "commentary:ramban:21:14:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ramban: 'and the boy' goes back to 'gave': he gave to Hagar, and also the boy, so that the boy went with her wherever she went. The English adopts this."
+   },
+   "severity": "question",
+   "reason": "Follows the changed English."
+  },
+  {
+   "ref": "21:14",
+   "path": "commentary:sforno:21:14:3",
+   "value": {
+    "relation": "follows",
+    "summary": "Sforno: he also gave her the boy. 'And the boy' is the object of 'gave'. The English adopts this."
+   },
+   "severity": "question",
+   "reason": "Follows the changed English."
+  },
+  {
+   "ref": "21:14",
+   "path": "commentary:onkelos:21:14:1",
+   "value": {
+    "relation": "records",
+    "summary": "Onkelos renders bread, a skin of water (raqbā), 'placed on her shoulder, and the boy', that is, the boy too is placed; then she went and strayed in the wilderness of Beersheba. The English does not take the boy as placed on her shoulder."
+   },
+   "severity": "question",
+   "reason": "Onkelos goes with Rashi on the boy, so the English no longer follows him on this point."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:21:9:1",
+   "verdict": "consistent",
+   "comment": "'Playing' is Ibn Ezra's plain sense (a boy at play, whom Sarah envied for being bigger than her son)."
+  },
+  {
+   "anchor": "ibn-ezra:21:11:1",
+   "verdict": "consistent",
+   "comment": "'Concerning his son' renders אוֹדוֹת as 'matter of'."
+  },
+  {
+   "anchor": "ibn-ezra:21:14:1",
+   "verdict": "consistent",
+   "comment": "'A skin' is one of the two materials he allows for the vessel."
+  },
+  {
+   "anchor": "ibn-ezra:21:14:2",
+   "verdict": "consistent",
+   "comment": "After the patch the English follows his reading of 'and the boy'; the provisions and the wandering agree with him."
+  }
+ ]
+}

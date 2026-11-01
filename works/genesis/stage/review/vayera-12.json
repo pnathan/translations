@@ -1,0 +1,406 @@
+{
+ "unit": "vayera-12",
+ "model": "sonnet",
+ "summary": "The unit is mostly sound in its token glosses and senses, but it breaks the central rule at 20:17: the English names the subject of וַיֵּלֵדוּ (the wife and the maidservants) after Ibn Ezra, instead of the bare 'they'. Other faults: several commentary summaries misreport the comment (Ramban at 20:17, Rashi at 21:1, Ibn Ezra at 20:17, 20:18 and 21:2, Sforno at 21:5, Onkelos at 21:6), a token note takes the object of the command at 21:4 to be the boy rather than Abraham, the literal lines have stray articles and prefixes, the accent notes miss the main breaks at 21:2 and 21:6, and the 20:17 context note on maidservants belongs to 16:2. Rashi's grammatical reading at 21:2 was filed as a story.",
+ "patches": [
+  {
+   "ref": "20:17",
+   "path": "english",
+   "value": "Abraham prayed to God, and God healed Abimelech, and his wife and his maidservants, and they gave birth.",
+   "severity": "error",
+   "reason": "The Hebrew says only וַיֵּלֵדוּ, 'and they bore': a masculine plural verb with no subject. The translation named the subject ('his wife and his maidservants gave birth'). A commentator's choice of subject is commentary, not the plain words; the English keeps 'they' and the notes carry Ibn Ezra."
+  },
+  {
+   "ref": "20:17",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "20:17.1",
+      "20:17.2",
+      "20:17.3",
+      "20:17.4"
+     ],
+     "english": "Abraham prayed to God",
+     "literal": "'and-prayed Abraham to the-God': the hithpael of פָּלַל with אֶל; the object of the prayer is not named"
+    },
+    {
+     "tokens": [
+      "20:17.5",
+      "20:17.6"
+     ],
+     "english": "God healed",
+     "literal": "'and-healed God': the qal of רָפָא, with God as its subject"
+    },
+    {
+     "tokens": [
+      "20:17.7",
+      "20:17.8"
+     ],
+     "english": "Abimelech",
+     "literal": "'(object marker) Abimelech': the marker is not translated"
+    },
+    {
+     "tokens": [
+      "20:17.9",
+      "20:17.10"
+     ],
+     "english": "and his wife",
+     "literal": "'and-(object marker)-his-wife': the marker has no English counterpart; the conjunction joins the second object"
+    },
+    {
+     "tokens": [
+      "20:17.11"
+     ],
+     "english": "and his maidservants",
+     "literal": "'and-his-maidservants': joined to the objects by וְ alone, without a second object marker"
+    },
+    {
+     "tokens": [
+      "20:17.12"
+     ],
+     "english": "and they gave birth",
+     "literal": "'and-they-bore': masculine plural, no subject named; Ibn Ezra takes the wife and the maidservants (see the notes)"
+    }
+   ],
+   "severity": "error",
+   "reason": "The last phrase said the English names the wife and maidservants as subject; the English now keeps the bare 'they'."
+  },
+  {
+   "ref": "20:17",
+   "path": "token:20:17.11.note",
+   "value": "Plural construct of אָמָה with the suffix 'his': his female servants. The object of the healing, joined to 'his wife' by וְ; there is no second object marker before it.",
+   "severity": "error",
+   "reason": "The note said the women 'served the wife'; the suffix is 'his', and the Hebrew does not say whom they served."
+  },
+  {
+   "ref": "20:17",
+   "path": "grammar",
+   "value": [
+    "וַיִּתְפַּלֵּל and וַיִּרְפָּא are both wayyiqtol, the sequential form: each verb follows the one before in the narrative, so the prayer comes first and the healing follows it.",
+    "וַיִּרְפָּא has three objects: Abimelech, his wife, his maidservants. אֵת stands before the first two; the third is joined by וְ alone. The English repeats 'and' as the Hebrew does.",
+    "וַיֵּלֵדוּ is a masculine plural wayyiqtol and the clause names no subject; the English says only 'they'. Ibn Ezra takes the subject to be the wife and the maidservants and not Abimelech (שב אל אשת אבימלך ואמהותיו לא אל אבימלך), and finds support in 20:18, which speaks of the wombs of the house. Others include Abimelech (Onkelos's 'were relieved', Radak's second view); see the apparatus.",
+    "The etnaḥta on הָאֱלֹהִים (20:17.4) divides the verse after the prayer. The geresh on אֱלֹהִים (20:17.6) and the silluq on וַיֵּלֵדוּ (20:17.12) close the clauses of the healing and of the birth."
+   ],
+   "severity": "error",
+   "reason": "The second note described a repeated noun phrase that no longer exists; the third said the English follows Ibn Ezra's subject. Rewritten for the plain 'they'."
+  },
+  {
+   "ref": "20:17",
+   "path": "note",
+   "value": "The English renders the verb 'they gave birth' and, like the Hebrew, names no subject. Ibn Ezra's reading (the wife and the maidservants, not Abimelech) is in the grammar notes, the apparatus and the commentary.",
+   "severity": "error",
+   "reason": "The old note said the English repeats the subject after Ibn Ezra; that put an explanation into the English line."
+  },
+  {
+   "ref": "20:17",
+   "path": "commentary:ibn-ezra:20:17:1.summary",
+   "value": "Ibn Ezra: the verb returns to 'the wife of Abimelech and his maidservants, not to Abimelech' (שב אל אשת אבימלך ואמהותיו לא אל אבימלך). He compares verses where a verb or pronoun refers to a noun other than the nearest (1 Kings 2:5, Psalm 99:7, Genesis 36:16, 30:26, Joshua 24:2), and points to the next verse, which names the closing of every womb of the house of Abimelech and does not name Abimelech. He is long on it because some interpreters said that Abimelech was held back from going out. The English says only 'they'; his subject is given in the notes.",
+   "severity": "error",
+   "reason": "The old summary said some held 'Abimelech himself was held back'; Ibn Ezra says they held he was 'restrained from going out' (עצור לצאת לחוץ), a reading of the verb as relief of the bowels, as in the Targum. It also misdescribed the parallel verses, and said the English makes the women the subject."
+  },
+  {
+   "ref": "20:17",
+   "path": "commentary:ramban:20:17:1.summary",
+   "value": "Ramban: taken plainly ('he returned to his wife and maidservants because the LORD had closed their womb') the verse puzzles him, since the closing seems to date from the first night, before any labour; he can only suggest that they were already in labour and could not deliver (אולי היו על פרקן ואחזום חבלי יולדה), or that Abraham delayed his prayer. He rejects Rashi's 'their passages opened' because רחם cannot mean another opening, and says Onkelos's 'relieved' takes רחם plainly and includes Abimelech in the verb. His own view: from the day Sarah was taken Abimelech was struck in his organs of intercourse (hence 'I did not let you touch her'); his wife and maidservants, who were pregnant, had their wombs closed so that they could not deliver, and after Abraham's prayer they gave birth. The verse names Abimelech's ailment only by hint, out of regard for Sarah.",
+   "severity": "error",
+   "reason": "The old summary gave as Ramban's view what he offers as a doubtful answer to the plain reading, and omitted his own view (Abimelech's affliction, the women unable to deliver)."
+  },
+  {
+   "ref": "20:17",
+   "path": "commentary:radak:20:17:4.summary",
+   "value": "Radak: the verb returns to his wife and maidservants, or also to Abimelech, and its sense is 'the emission of seed' (הוֹצָאַת זֶרַע). He says Onkelos's 'relieved' may point to birth (said instead of 'bore' because of the blocking they had), or may follow the rabbis (Bava Kamma 92) that passages were blocked. The English says only 'they' and keeps these readings in the notes.",
+   "severity": "style",
+   "reason": "The old closing sentence said the English excludes Abimelech; it now names no subject."
+  },
+  {
+   "ref": "20:17",
+   "path": "apparatus",
+   "value": [
+    "Subject of וַיֵּלֵדוּ is not named: the wife and the maidservants (Ibn Ezra, Radak's first view, Ramban); the household, Abimelech included (Onkelos's 'relieved', Radak's alternative). Sense of the verb: 'gave birth' (Ibn Ezra, Ramban) or 'were relieved: their passages opened and they expelled' (Targum, Rashi)."
+   ],
+   "severity": "style",
+   "reason": "The old line said Ibn Ezra's reading is 'followed here' and credited Ramban with a reading of Onkelos; the new line states the readings as they are."
+  },
+  {
+   "ref": "20:17",
+   "path": "context",
+   "value": [
+    "Abimelech is the king of Gerar, which 20:1 places in the Negev. The name is Semitic (אֲבִי 'father' and מֶלֶךְ 'king'), and the lexicon lists it for several persons in the Hebrew Bible. Whether it is a personal name or a dynastic title is disputed; the text does not decide.",
+    "In the Hebrew Bible, and generally in the ancient Near East, conception and birth were ascribed to the deity. Here God heals after Abraham's prayer; the next verse says it was the LORD who had shut up the wombs."
+   ],
+   "severity": "style",
+   "reason": "The second note (maidservants bearing for a mistress, Nuzi) concerns 16:2, not this verse, where the maidservants bear for themselves; replaced with the setting this verse needs."
+  },
+  {
+   "ref": "20:18",
+   "path": "english",
+   "value": "For the LORD had firmly shut up every womb in the house of Abimelech on account of Sarah, Abraham's wife.",
+   "severity": "style",
+   "reason": "כָּל־רֶחֶם is singular and בְּעַד, after a verb of shutting, means 'around' (cf. 7:16): 'shut up every womb', not 'closed fast all the wombs', which drops בְּעַד and turns the singular into a plural."
+  },
+  {
+   "ref": "20:18",
+   "path": "literal",
+   "value": "for closing-fast closed the-LORD around all-womb to-house-of Abimelech on-account-of matter-of Sarah wife-of Abraham",
+   "severity": "error",
+   "reason": "The literal line put an article on רֶחֶם ('all-the-womb') and on the construct 'matter-of'; the Hebrew has none. 'Against' for בְּעַד is not its sense here."
+  },
+  {
+   "ref": "20:18",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "20:18.1",
+      "20:18.2",
+      "20:18.3",
+      "20:18.4"
+     ],
+     "english": "For the LORD had firmly shut up",
+     "literal": "'for closing-fast closed the-LORD': the infinitive absolute intensifies the finite verb; 'for' gives the reason"
+    },
+    {
+     "tokens": [
+      "20:18.5",
+      "20:18.6",
+      "20:18.7"
+     ],
+     "english": "every womb",
+     "literal": "'around all-womb': בְּעַד 'around' is carried by 'shut up'; כָּל with the singular is 'every'"
+    },
+    {
+     "tokens": [
+      "20:18.8",
+      "20:18.9"
+     ],
+     "english": "in the house of Abimelech",
+     "literal": "'to-house-of Abimelech': the construct chain names the household"
+    },
+    {
+     "tokens": [
+      "20:18.10",
+      "20:18.11"
+     ],
+     "english": "on account of",
+     "literal": "'on-account-of matter-of': the idiom עַל דְּבַר"
+    },
+    {
+     "tokens": [
+      "20:18.12"
+     ],
+     "english": "Sarah",
+     "literal": "'Sarah'"
+    },
+    {
+     "tokens": [
+      "20:18.13",
+      "20:18.14"
+     ],
+     "english": "Abraham's wife",
+     "literal": "'wife-of Abraham': the construct chain, the wife of Abraham"
+    }
+   ],
+   "severity": "style",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "20:18",
+   "path": "token:20:18.2.gloss",
+   "value": "firmly shut up",
+   "severity": "style",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "20:18",
+   "path": "token:20:18.3.gloss",
+   "value": "had shut up",
+   "severity": "style",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "20:18",
+   "path": "token:20:18.5.gloss",
+   "value": "around",
+   "severity": "error",
+   "reason": "The gloss 'against' is Rashi's, not the usual sense after a verb of shutting."
+  },
+  {
+   "ref": "20:18",
+   "path": "token:20:18.5.note",
+   "value": "בְּעַד after a verb of shutting means 'around, round about': compare וַיִּסְגֹּר יְהוָה בַּעֲדוֹ (7:16), 'the LORD shut him in'. The lexicon's 'on behalf of, behind' are other uses. Rashi glosses it כְּנֶגֶד כָּל פֶּתַח, 'against every opening'.",
+   "severity": "error",
+   "reason": "The old note called the preposition disputed and said the English does not decide it; its sense with this verb is clear, and the English carries it in 'shut up'."
+  },
+  {
+   "ref": "20:18",
+   "path": "token:20:18.7.gloss",
+   "value": "womb",
+   "severity": "style",
+   "reason": "The noun is singular; the English is now 'every womb'."
+  },
+  {
+   "ref": "20:18",
+   "path": "token:20:18.7.note",
+   "value": "Singular, without the article, after כָּל: 'every womb'. Ibn Ezra takes it of all the wombs of the women of the house (see the commentary).",
+   "severity": "style",
+   "reason": "Clarifies the number."
+  },
+  {
+   "ref": "20:18",
+   "path": "token:20:18.8.gloss",
+   "value": "in the house of",
+   "severity": "style",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "20:18",
+   "path": "grammar",
+   "value": [
+    "כִּי here is causal ('for'). The verse gives the cause of the healing in 20:17: the wombs had been shut up, so no one could bear.",
+    "עָצֹר עָצַר: the infinitive absolute before the perfect of the same root makes the verb emphatic, 'had surely shut up'. The English carries the emphasis in 'firmly'.",
+    "בְּעַד כָּל־רֶחֶם: בְּעַד after a verb of shutting means 'around' (compare 7:16); רֶחֶם is singular without the article, 'every womb'. Rashi glosses 'against every opening'.",
+    "לְבֵית אֲבִימֶלֶךְ is a construct chain. 'House' here means household, the family in the king's power.",
+    "עַל דְּבַר שָׂרָה is an idiom built on the noun דָּבָר, 'on account of Sarah'. Rashi reads the noun as 'word'; that reading is in the commentary.",
+    "The accents divide the verse: the zaqef qaton on יְהוָה (20:18.4), the tipḥa on רֶחֶם (20:18.7), the etnaḥta on אֲבִימֶלֶךְ (20:18.9), the main break, between the shutting of the wombs and its cause, then the tipḥa on שָׂרָה and the silluq on אַבְרָהָם."
+   ],
+   "severity": "style",
+   "reason": "Follows the new English; the old accent note left out the etnaḥta, the main break."
+  },
+  {
+   "ref": "20:18",
+   "path": "commentary:ibn-ezra:20:18:1.summary",
+   "value": "Ibn Ezra: the words כל רחם are an argument against them (the interpreters who said Abimelech was held back), and the verb וַיֵלֵדוּ refers to the women, a masculine plural verb with feminine subjects, as in ויחמו הצאן (Genesis 30:39). The English reads 'every womb' of the house and does not make Abimelech the subject of the birth.",
+   "severity": "error",
+   "reason": "The old summary said the parallel was a plural verb with a collective subject; the point of ויחמו הצאן is a masculine plural verb with a feminine subject, which is what וַיֵּלֵדוּ is."
+  },
+  {
+   "ref": "21:1",
+   "path": "commentary:rashi:21:1:3.summary",
+   "value": "Rashi: 'as he had spoken' (כַּאֲשֶׁר דִּבֶּר) means as to the birth (בְּלֵדָה). He asks where the saying and where the speaking were: the saying is 'God said: but Sarah your wife...' (17:19), the speaking is 'the word of the LORD came to Abram' at the covenant between the pieces, where 'this one shall not be your heir' (15:4), and he brought the heir from Sarah. The English does not assign the clause to the birth.",
+   "severity": "error",
+   "reason": "The old summary said the promise of the child is 'the speech of 17:19'; Rashi makes 17:19 the saying (אמירה) and ch. 15 the speaking (דבור)."
+  },
+  {
+   "ref": "21:2",
+   "path": "literal",
+   "value": "and-she-conceived and-she-bore Sarah to-Abraham son to-his-old-age to-the-appointed-time which spoke with-him God",
+   "severity": "style",
+   "reason": "The prefix ל of לִזְקֻנָיו and לַמּוֹעֵד is 'to', not 'in' and 'at'; the English line carries the idiom."
+  },
+  {
+   "ref": "21:2",
+   "path": "token:21:2.10.note",
+   "value": "The pack parses אֹתוֹ as the object marker with a suffix. Here it is read as אִתּוֹ, 'with him' (Radak: כְּמוֹ עִמּוֹ), so דִּבֶּר אֹתוֹ is 'spoke with him'; the English 'to him' is the same sense. Rashi, after the Targum, takes it as 'the time' (see the commentary).",
+   "severity": "question",
+   "reason": "The old note said only that the marker 'means speak to or with'. The form is the preposition 'with', or the marker taking the time as its object; the note should say which readings exist. If the lexicon form is kept, the reading is Radak's."
+  },
+  {
+   "ref": "21:2",
+   "path": "grammar",
+   "value": [
+    "Two wayyiqtol verbs share one subject, 'conceived and bore'. Radak explains the order: the conception is not mentioned first, so both are given as one act, as in 4:1.",
+    "לְאַבְרָהָם is the dative of the person for whom the child is born. The English 'bore Abraham a son' keeps the dative as the idiom has it.",
+    "לִזְקֻנָיו has a plural noun 'old age' with a singular suffix; the English 'in his old age' renders the sense, and Radak's note on the plural form is in the commentary.",
+    "לַמּוֹעֵד is 'the appointed time' with the article. It refers back to the promise of 18:10 and 18:14.",
+    "The accents divide the verse: the etnaḥta on לִזְקֻנָיו (21:2.6) closes the first part, 'Sarah conceived and bore Abraham a son in his old age'; the zaqef gadol on לַמּוֹעֵד (21:2.7) sets off the time; the silluq on אֱלֹהִים closes the verse."
+   ],
+   "severity": "error",
+   "reason": "The old note said the zaqef gadol closes the first part; the main break is the etnaḥta on לִזְקֻנָיו."
+  },
+  {
+   "ref": "21:2",
+   "path": "note",
+   "value": "The English renders אֱלֹהִים plainly as 'God'. Ibn Ezra's identification of the one who spoke with the messenger of 18:9–10 is an explanation of who spoke; it is recorded in the commentary and not put into the English.",
+   "severity": "error",
+   "reason": "The old note spoke of 'the speaker of the appointed time', which confuses the subject of the verb with the time."
+  },
+  {
+   "ref": "21:2",
+   "path": "commentary:ibn-ezra:21:2:1.summary",
+   "value": "Ibn Ezra: the one who spoke 'the appointed time' was the messenger who asked 'where is Sarah your wife' (18:9), who also said he would return to him, for so he had said to him (המלאך ששאל איה שרה אשתך, גם שב אליו כי כן אמר לו). The English renders אֱלֹהִים as 'God', as the word stands; his identification of the speaker is recorded here.",
+   "severity": "error",
+   "reason": "The old summary gave a reason ('the identity of the speaker is what happened') that makes no sense; the reason for the English is that it translates the word."
+  },
+  {
+   "ref": "21:2",
+   "path": "commentary:rashi:21:2:1.relation",
+   "value": "records",
+   "severity": "error",
+   "reason": "Rashi bears on the words: after the Targum (דִּי מַלִּיל יָתֵהּ) he takes אֹתוֹ as the time itself, 'he spoke and fixed the time'. The English reads 'with him', so the reading is recorded, not 'not-applicable'."
+  },
+  {
+   "ref": "21:2",
+   "path": "commentary:rashi:21:2:1.summary",
+   "value": "Rashi, after the Targum (די מליל יתיה): 'He spoke the appointed time and fixed it' (את המועד דבר וקבע), when he said 'at the appointed time I will return to you' (18:14), taking אֹתוֹ as the time. He adds the story that Abraham scratched a mark on the wall and said that when the sun reached it the next year she would bear. The English reads אֹתוֹ as 'to him' (Radak) and keeps Rashi's reading here.",
+   "severity": "error",
+   "reason": "The old summary gave only the story and called the whole comment a story; the first half is a reading of the form."
+  },
+  {
+   "ref": "21:4",
+   "path": "token:21:4.11.note",
+   "value": "The object marker with a suffix: 'him', that is Abraham, the one commanded (not the boy). Radak notes the masculine אֹתוֹ, not אֹתָהּ.",
+   "severity": "error",
+   "reason": "The old note said the suffix is 'the boy'; it is Abraham, whom God commanded (17:9–12)."
+  },
+  {
+   "ref": "21:4",
+   "path": "grammar",
+   "value": [
+    "וַיָּמׇל is the qal of מוּל, 'circumcise', with Abraham as subject and the boy as object. The verb comes before its subject, as narrative order has it.",
+    "בֶּן־שְׁמֹנַת יָמִים is the age in the idiom 'son of', 'a son of eight days'. The English 'at eight days old' gives the sense.",
+    "כַּאֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים refers back to the command of 17:12; the object of צִוָּה is Abraham (masculine, 'him'). The etnaḥta on יָמִים (21:4.8) divides the act from the command."
+   ],
+   "severity": "error",
+   "reason": "The old note said the object of the command is the boy; it is Abraham."
+  },
+  {
+   "ref": "21:5",
+   "path": "commentary:sforno:21:5:1.summary",
+   "value": "Sforno: even so, Abraham circumcised his son and did not hold back out of pity (ולא חס) because he was a child of his old age (בֶּן זְקוּנִים). A comment on his conduct, not on the words.",
+   "severity": "error",
+   "reason": "The old summary said Abraham did 'not spare himself'; Sforno says he did not spare the son, the child of his old age."
+  },
+  {
+   "ref": "21:6",
+   "path": "grammar",
+   "value": [
+    "צְחֹק (laughter) is the noun from the root צחק, the root of the name Isaac. Sarah's words give the reason for the name, which is explained in the verse itself and is not put into the English of 21:3.",
+    "עָשָׂה has God as its subject and laughter as its object: 'God has made laughter for me'.",
+    "כָּל־הַשֹּׁמֵעַ is 'everyone who hears', with the participle with the article. The yiqtol יִצְחַק is 'will laugh'.",
+    "The accents: the etnaḥta on אֱלֹהִים (21:6.6) is the main break, after 'God has made laughter for me'; the zaqef qaton on שָׂרָה and the zaqef gadol on צְחֹק divide the opening of the speech; the silluq on לִי closes the verse."
+   ],
+   "severity": "style",
+   "reason": "The old note omitted the etnaḥta, the main break of the speech."
+  },
+  {
+   "ref": "21:6",
+   "path": "commentary:onkelos:21:6:1.summary",
+   "value": "Targum Onkelos renders צְחֹק as 'joy' (חֶדְוָא) and יִצְחַק as 'will rejoice for me' (יֶחֱדֵּי לִי). The English keeps 'laughter' and 'laugh'.",
+   "severity": "error",
+   "reason": "The old summary said 'rejoice with me'; לִי is 'for me', and the Targum has no 'with'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:20:17:1",
+   "verdict": "consistent",
+   "comment": "After the patch the English says only 'they gave birth'; Ibn Ezra's subject (the wife and the maidservants) is in the notes, which is consistent with his reading."
+  },
+  {
+   "anchor": "ibn-ezra:20:18:1",
+   "verdict": "consistent",
+   "comment": "'Every womb in the house of Abimelech' agrees with his point that כל רחם speaks of the women of the house."
+  },
+  {
+   "anchor": "ibn-ezra:21:2:1",
+   "verdict": "consistent",
+   "comment": "He identifies who spoke, which is an explanation; the English translates the word אֱלֹהִים as 'God' and the identification is in the notes."
+  },
+  {
+   "anchor": "ibn-ezra:21:3:1",
+   "verdict": "consistent",
+   "comment": "The English gives the name Isaac with no addition or change, as he says."
+  }
+ ]
+}
