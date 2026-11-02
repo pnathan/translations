@@ -1,0 +1,396 @@
+{
+  "unit": "chayei-sarah-05",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "24:9",
+      "english": "And the servant put his hand under the thigh of Abraham his master, and he swore to him concerning this matter.",
+      "literal": "and-put the-servant the-object-marker his-hand under thigh-of Abraham his-master and-swore to-him on the-matter this",
+      "tokens": [
+        {"id": "24:9.1", "gloss": "and put", "sense": "Qal 1.c", "note": "Wayyiqtol of שׂוּם, qal, third person masculine singular. The subject, the servant, follows the verb. The sense is 'lay, set': the hand is placed under the thigh."},
+        {"id": "24:9.2", "gloss": "the servant", "sense": "1", "note": "Eliezer is not named here; the word is the household servant who is sent (see the context of chapter 24)."},
+        {"id": "24:9.3", "gloss": "-", "note": "The object marker אֵת before יָד. No English counterpart."},
+        {"id": "24:9.4", "gloss": "his hand", "sense": "1"},
+        {"id": "24:9.5", "gloss": "under"},
+        {"id": "24:9.6", "gloss": "the thigh of", "note": "יֶרֶךְ in the construct: 'the thigh of Abraham'. See the context note on the oath."},
+        {"id": "24:9.7", "gloss": "Abraham"},
+        {"id": "24:9.8", "gloss": "his master", "note": "אֲדֹנָיו is a masculine plural construct form with a third person masculine singular suffix. The plural is the form of the word; the sense is singular, 'his master'."},
+        {"id": "24:9.9", "gloss": "and swore", "sense": "Niph", "note": "Nifal wayyiqtol of שָׁבַע, 'take an oath'. The one who swears is the subject."},
+        {"id": "24:9.10", "gloss": "to him", "note": "לוֹ: the person to whom the oath is sworn."},
+        {"id": "24:9.11", "gloss": "concerning", "sense": "II", "note": "עַל with the matter sworn about."},
+        {"id": "24:9.12", "gloss": "the matter", "sense": "IV", "note": "דָּבָר in the sense 'matter, affair'. The matter Abraham had set before the servant, which the commentators take to be the conditions of the oath."},
+        {"id": "24:9.13", "gloss": "this", "sense": "2", "note": "The demonstrative in apposition to the noun."}
+      ],
+      "phrases": [
+        {"tokens": ["24:9.1", "24:9.2"], "english": "And the servant put", "literal": "and-put the-servant"},
+        {"tokens": ["24:9.3", "24:9.4"], "english": "his hand", "literal": "the-object-marker his-hand: the object marker has no English word"},
+        {"tokens": ["24:9.5", "24:9.6", "24:9.7", "24:9.8"], "english": "under the thigh of Abraham his master", "literal": "under thigh-of Abraham his-master"},
+        {"tokens": ["24:9.9", "24:9.10"], "english": "and he swore to him", "literal": "and-swore to-him"},
+        {"tokens": ["24:9.11", "24:9.12", "24:9.13"], "english": "concerning this matter", "literal": "on the-matter this"}
+      ],
+      "grammar": [
+        "Two wayyiqtol verbs carry the sentence: וַיָּשֶׂם (he put) and וַיִּשָּׁבַע (and he swore). The servant is the subject of the first; the second has the same subject in the verb.",
+        "The nifal וַיִּשָּׁבַע is the form of an oath: the one who swears is the subject, the person sworn to takes לוֹ 'to him', and the matter takes עַל 'concerning'.",
+        "The etnaḥta on אֲדֹנָיו (24:9.8) divides the verse after 'his master'; the silluq on הַזֶּה ends it.",
+        "אֲדֹנָיו is a plural construct form with a singular sense ('his master'). The English reads it as singular."
+      ],
+      "note": "The English keeps the object 'his hand' and the place 'under the thigh' as the Hebrew gives them, with no explanation of the gesture.",
+      "commentary": [
+        {"anchor": "radak:24:9:1", "relation": "not-applicable", "summary": "Radak's note on the first verb is a one-word gloss (מְבֹאָר, 'explained'). It does not bear on the English."},
+        {"anchor": "onkelos:24:9:1", "relation": "records", "summary": "Onkelos renders the oath with the Aramaic וְקַיֵּם לֵיהּ, 'confirmed to him', concerning this word. The English keeps 'swore', the Hebrew verb of an oath."},
+        {"anchor": "sforno:24:9:1", "relation": "records", "summary": "Sforno: he swore 'with all the conditions that Abraham said to him' (נִשְׁבַּע עִם כָּל הַתְּנָאִים), so 'this matter' names the conditions. The English keeps 'concerning this matter', which does not say what the matter was."}
+      ],
+      "apparatus": [],
+      "context": [
+        "The oath gesture: the hand is put under the thigh (יָרֵךְ) of the one to whom the oath is sworn. Scholars differ on its meaning. Some take the thigh as the seat of descent, so that the oath is sworn on the master's offspring; others see a conventional sign of an oath. The text does not say which, and the English does not choose."
+      ]
+    },
+    {
+      "ref": "24:10",
+      "english": "And the servant took ten camels from his master's camels and went, and all the goods of his master in his hand, and he arose and went to Aram-naharaim, to the city of Nahor.",
+      "literal": "and-took the-servant ten camels from-camels-of his-master and-went and-all-of goods his-master in-his-hand and-arose and-went to Aram-naharaim to the-city-of Nahor",
+      "tokens": [
+        {"id": "24:10.1", "gloss": "and took", "sense": "Qal 2", "note": "Wayyiqtol of לָקַח, qal, third person masculine singular: 'take and carry along'."},
+        {"id": "24:10.2", "gloss": "the servant", "sense": "1"},
+        {"id": "24:10.3", "gloss": "ten", "note": "The cardinal number in the absolute state, before the noun."},
+        {"id": "24:10.4", "gloss": "camels", "sense": "2", "note": "Sense 2, beasts of burden: the camels are the master's property and are sent with the goods. The camels question is set out in the context notes."},
+        {"id": "24:10.5", "gloss": "from the camels of", "sense": "2", "note": "מִן with the construct plural: 'from the camels of his master', that is, ten of his master's camels."},
+        {"id": "24:10.6", "gloss": "his master"},
+        {"id": "24:10.7", "gloss": "and went", "sense": "Qal I.1", "note": "Wayyiqtol of הָלַךְ, qal: 'go', of a person."},
+        {"id": "24:10.8", "gloss": "and all of", "sense": "1", "note": "כָּל in the construct before a noun: 'all the goods'."},
+        {"id": "24:10.9", "gloss": "the goods", "note": "טוּב in the construct: 'the goods of his master'. The lexicon gives no sense; the word is 'good things'."},
+        {"id": "24:10.10", "gloss": "of his master"},
+        {"id": "24:10.11", "gloss": "in his hand", "sense": "1", "note": "בְּיָד with the suffix: 'in his hand'. The sentence has no verb; see the note."},
+        {"id": "24:10.12", "gloss": "and arose", "sense": "Qal 1", "note": "Wayyiqtol of קוּם, qal: 'arise'."},
+        {"id": "24:10.13", "gloss": "and went", "sense": "Qal I.1", "note": "Wayyiqtol of הָלַךְ, qal."},
+        {"id": "24:10.14", "gloss": "to", "sense": "1", "note": "אֶל: motion toward."},
+        {"id": "24:10.15", "gloss": "Aram", "sense": "b", "note": "The place name Aram-naharaim, written as two words in Hebrew. Sense b: Mesopotamia, Paddan-aram."},
+        {"id": "24:10.16", "gloss": "Naharaim", "sense": "b", "note": "The second part of the name: 'of the two rivers' in the Hebrew. The meaning is set out in the context notes."},
+        {"id": "24:10.17", "gloss": "to", "sense": "1"},
+        {"id": "24:10.18", "gloss": "the city of", "sense": "1", "note": "עִיר in the construct: 'the city of Nahor'."},
+        {"id": "24:10.19", "gloss": "Nahor", "sense": "2", "note": "Nahor, son of Terah and brother of Abraham."}
+      ],
+      "phrases": [
+        {"tokens": ["24:10.1", "24:10.2"], "english": "And the servant took", "literal": "and-took the-servant"},
+        {"tokens": ["24:10.3", "24:10.4", "24:10.5", "24:10.6"], "english": "ten camels from his master's camels", "literal": "ten camels from-the-camels-of his-master"},
+        {"tokens": ["24:10.7"], "english": "and went", "literal": "and-went"},
+        {"tokens": ["24:10.8", "24:10.9", "24:10.10", "24:10.11"], "english": "and all the goods of his master in his hand", "literal": "and-all-of goods his-master in-his-hand: no verb in the Hebrew"},
+        {"tokens": ["24:10.12"], "english": "and he arose", "literal": "and-arose"},
+        {"tokens": ["24:10.13", "24:10.14", "24:10.15", "24:10.16"], "english": "and went to Aram-naharaim", "literal": "and-went to Aram-naharaim"},
+        {"tokens": ["24:10.17", "24:10.18", "24:10.19"], "english": "to the city of Nahor", "literal": "to the-city-of Nahor"}
+      ],
+      "grammar": [
+        "Four wayyiqtol verbs move the narrative: וַיִּקַּח (took), וַיֵּלֶךְ (went), וַיָּקׇם (arose), וַיֵּלֶךְ (went).",
+        "וְכׇל־טוּב אֲדֹנָיו בְּיָדוֹ has no verb. The English keeps it verbless, so that the reader sees the open question of whether the goods are the object of 'took' or a separate clause.",
+        "מִגְּמַלֵּי אֲדֹנָיו is partitive: ten of the camels of his master, with מִ 'from' before the construct plural.",
+        "The etnaḥta on בְּיָדוֹ (24:10.11) closes the first part of the verse; the silluq on נָחוֹר (24:10.19) ends it."
+      ],
+      "note": "The clause 'and all the goods of his master in his hand' is kept verbless. Ramban reads the goods as the object of 'took' (the cargo of the ten camels); Rashi and Radak read a deed of gift. The English does not settle it.",
+      "commentary": [
+        {"anchor": "rashi:24:10:1", "relation": "not-applicable", "summary": "Rashi, from Bereshit Rabbah: the master's camels were marked out, sent out muzzled so that they would not graze in other fields. A homily about the camels; the English does not take it up."},
+        {"anchor": "rashi:24:10:2", "relation": "records", "summary": "Rashi, from Bereshit Rabbah: 'all the goods of his master in his hand' is the deed of gift Abraham wrote for Isaac, shown so that suitors would be eager to send their daughters. The English keeps the plain 'all the goods'; the deed reading is recorded here."},
+        {"anchor": "rashi:24:10:3", "relation": "records", "summary": "Rashi: Aram-naharaim 'sits between two rivers' (בֵּין שְׁתֵּי נְהָרוֹת יוֹשֶׁבֶת). The English keeps the name."},
+        {"anchor": "ramban:24:10:1", "relation": "records", "summary": "Ramban prefers to read 'all the goods of his master in his hand' as the object of 'took': the load of the ten camels, as in the gift Hazael carried (2 Kings 8:9). He rejects the deed of gift as the sense. The English keeps the verbless clause so that this syntax stays open."},
+        {"anchor": "radak:24:10:1", "relation": "records", "summary": "Radak: 'all the goods' (כָּל טוּב) means an abundance of good things, silver, gold and pearls, shown to Abraham's kin to move them to give a wife to Isaac. The English keeps 'all the goods of his master'."},
+        {"anchor": "radak:24:10:2", "relation": "records", "summary": "Radak: the goods were a deed of gift Abraham gave Isaac, which the servant brought in his hand to show them. The same reading as Rashi's deed."},
+        {"anchor": "radak:24:10:3", "relation": "records", "summary": "Radak: two rivers pass over the region (שֶׁהָיוּ שְׁתֵּי נְהָרוֹת עוֹבְרִים עָלֶיהָ). The English keeps the name Aram-naharaim."},
+        {"anchor": "radak:24:10:4", "relation": "records", "summary": "Radak identifies the city of Nahor with Ur of the Chaldeans (אוּר כַּשְׂדִּים), where Terah remained when he left with Abraham. The English keeps 'the city of Nahor' and does not identify the city."},
+        {"anchor": "onkelos:24:10:1", "relation": "records", "summary": "Onkelos renders Aram-naharaim as 'Aram which is on the Euphrates' (דִּי עַל פְּרַת), and keeps 'the city of Nahor'. This places the region on the Euphrates; the English does not decide it."},
+        {"anchor": "sforno:24:10:1", "relation": "records", "summary": "Sforno: the servant took leave of his master, after readying the camels, and went from before him. The verse says only 'went'; the English does not add a leave-taking."},
+        {"anchor": "sforno:24:10:2", "relation": "records", "summary": "Sforno: he took silver and gold vessels and garments with him, and needed no leave because all was in his hand to do with as he wished. He takes 'in his hand' as 'at his disposal'; the English keeps the literal 'in his hand'."},
+        {"anchor": "sforno:24:10:3", "relation": "not-applicable", "summary": "Sforno glosses 'and went' as 'on his way' (לְדַרְכּוֹ). The English does not need it."}
+      ],
+      "apparatus": [],
+      "context": [
+        "Camels: the verse has ten of the master's camels, set out with goods. Whether camels were domesticated and in use as baggage animals in the time of the patriarchs is disputed among scholars. The English says 'camels' and does not settle the question; sense 2 (beasts of burden) is the reading the verse suggests.",
+        "Aram-naharaim: the verse does not name the two rivers. Rashi and Radak take the name, 'Aram of the two rivers', to describe a region lying between or across two rivers; Onkelos reads 'Aram which is on the Euphrates'. The English keeps the name.",
+        "The city of Nahor: the verse names no town. Radak identifies it with Ur of the Chaldeans. The English leaves the identification open."
+      ]
+    },
+    {
+      "ref": "24:11",
+      "english": "And he made the camels kneel outside the city by the well of water at evening, at the time of the going out of the women who draw.",
+      "literal": "and-made-kneel the-camels from-outside to-the-city to the-well-of the-water to-time-of evening to-time-of going-out-of the-women drawing",
+      "tokens": [
+        {"id": "24:11.1", "gloss": "and made kneel", "sense": "Hiph", "note": "Wayyiqtol of בָּרַךְ, hifil. The root meaning 'bless' is not the sense here: the hifil is 'make kneel', as Ibn Ezra and Rashi both read it."},
+        {"id": "24:11.2", "gloss": "the camels", "sense": "2", "note": "Sense 2, beasts of burden, as in 24:10."},
+        {"id": "24:11.3", "gloss": "from outside", "note": "מִן with חוּץ: 'from outside'."},
+        {"id": "24:11.4", "gloss": "the city", "sense": "1", "note": "The ל after חוּץ gives 'outside the city'."},
+        {"id": "24:11.5", "gloss": "by", "sense": "8", "note": "אֶל of nearness: 'by, at'. Radak reads it as 'close to' the well."},
+        {"id": "24:11.6", "gloss": "the well", "sense": "1", "note": "The noun is feminine, construct: 'the well of the water'."},
+        {"id": "24:11.7", "gloss": "of the water", "note": "מַיִם, plural. The English 'water' keeps the plural's sense: the water of the well."},
+        {"id": "24:11.8", "gloss": "at the time of", "sense": "1", "note": "לְ with עֵת: 'at the time of evening'."},
+        {"id": "24:11.9", "gloss": "evening", "sense": "1.a"},
+        {"id": "24:11.10", "gloss": "at the time of", "sense": "1", "note": "The second לְעֵת, governing the infinitive construct that follows."},
+        {"id": "24:11.11", "gloss": "the going out", "sense": "Qal 1.b", "note": "Infinitive construct of יָצָא, qal: 'going out'."},
+        {"id": "24:11.12", "gloss": "the women who draw", "note": "The article with a feminine plural participle of שָׁאַב, qal: 'the drawing women'. The verse says no 'water' here; see 24:13."}
+      ],
+      "phrases": [
+        {"tokens": ["24:11.1", "24:11.2"], "english": "And he made the camels kneel", "literal": "and-made-kneel the-camels"},
+        {"tokens": ["24:11.3", "24:11.4"], "english": "outside the city", "literal": "from-outside to-the-city"},
+        {"tokens": ["24:11.5", "24:11.6", "24:11.7"], "english": "by the well of water", "literal": "to the-well-of the-water"},
+        {"tokens": ["24:11.8", "24:11.9"], "english": "at evening", "literal": "to-time-of evening"},
+        {"tokens": ["24:11.10", "24:11.11", "24:11.12"], "english": "at the time of the going out of the women who draw", "literal": "to-time-of going-out-of the-women drawing"}
+      ],
+      "grammar": [
+        "וַיַּבְרֵךְ is a hifil wayyiqtol of בָּרַךְ. The binyan gives the causative sense 'made to kneel'; the English does not say 'blessed'.",
+        "Three prepositional phrases stand in a row: outside the city, by the well of water, and the time, which is given twice (לְעֵת), the second governing the infinitive construct צֵאת.",
+        "הַשֹּׁאֲבֹת is a feminine plural participle with the article. The verse does not name the water; 'draw' is the English.",
+        "The darga on וַיַּבְרֵךְ (24:11.1) and the etnaḥta on הַמָּיִם (24:11.7) divide the verse."
+      ],
+      "commentary": [
+        {"anchor": "rashi:24:11:1", "relation": "follows", "summary": "Rashi: הִרְבִּיצָם, 'he made them lie down'. He agrees with Ibn Ezra that the hifil means making the camels kneel."},
+        {"anchor": "ibn-ezra:24:11:1", "relation": "follows", "summary": "Ibn Ezra: הבריכם על ברכיהם, 'he made them kneel on their knees'. The hifil of this root means making the camels kneel, not blessing. The English follows him."},
+        {"anchor": "radak:24:11:1", "relation": "not-applicable", "summary": "Radak: he made them kneel to rest them and water them, and meanwhile prayed to God for what he needed. The purpose and the prayer are not in the words of the verse."},
+        {"anchor": "radak:24:11:2", "relation": "follows", "summary": "Radak: אֶל here means 'close to' the well of water (סָמוּךְ לִבְאֵר הַמַּיִם). The English 'by the well of water' takes this sense."},
+        {"anchor": "onkelos:24:11:1", "relation": "not-applicable", "summary": "Onkelos's version of the verse keeps the same order: the camels, outside the town, the well, the evening, the time of the women's going out."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "24:12",
+      "english": "And he said, \"LORD God of my master Abraham, please make it happen before me today, and show kindness with my master Abraham.\"",
+      "literal": "and-said the-LORD God-of my-master Abraham make-it-happen please before-me the-day and-do kindness with my-master Abraham",
+      "tokens": [
+        {"id": "24:12.1", "gloss": "and said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר, qal. Shalshelet, which marks a speech that begins here."},
+        {"id": "24:12.2", "gloss": "the LORD", "sense": "I", "note": "The divine name יְהוָה, rendered 'the LORD' under the decisions."},
+        {"id": "24:12.3", "gloss": "God of", "sense": "4", "note": "A plural form with a singular sense: the God of Abraham, the God of Israel."},
+        {"id": "24:12.4", "gloss": "my master", "note": "Construct of אָדוֹן with the first person suffix: 'my master', the servant's master."},
+        {"id": "24:12.5", "gloss": "Abraham"},
+        {"id": "24:12.6", "gloss": "make it happen", "sense": "Hiph 1", "note": "Hifil imperative of קָרָה, 'cause to occur'. Ibn Ezra and Radak read the sense of this verb differently; see the commentary."},
+        {"id": "24:12.7", "gloss": "please", "note": "נָא, the particle of entreaty."},
+        {"id": "24:12.8", "gloss": "before me", "sense": "I.6", "note": "לְפָנַי: 'before me', in the locative sense."},
+        {"id": "24:12.9", "gloss": "today", "sense": "1", "note": "The day with the article: 'today'."},
+        {"id": "24:12.10", "gloss": "and show", "sense": "Qal I.2", "note": "Qal imperative of עָשָׂה with ו: 'deal, show'."},
+        {"id": "24:12.11", "gloss": "kindness", "sense": "I.1"},
+        {"id": "24:12.12", "gloss": "with", "sense": "1"},
+        {"id": "24:12.13", "gloss": "my master", "note": "The same form as 24:12.4."},
+        {"id": "24:12.14", "gloss": "Abraham"}
+      ],
+      "phrases": [
+        {"tokens": ["24:12.1"], "english": "And he said", "literal": "and-said"},
+        {"tokens": ["24:12.2", "24:12.3", "24:12.4", "24:12.5"], "english": "LORD God of my master Abraham", "literal": "the-LORD God-of my-master Abraham"},
+        {"tokens": ["24:12.6", "24:12.7", "24:12.8", "24:12.9"], "english": "please make it happen before me today", "literal": "make-it-happen please before-me the-day"},
+        {"tokens": ["24:12.10", "24:12.11", "24:12.12", "24:12.13", "24:12.14"], "english": "and show kindness with my master Abraham", "literal": "and-do kindness with my-master Abraham"}
+      ],
+      "grammar": [
+        "The speech is a prayer addressed to God in the second person, with no 'O' before the divine name. Its verb is the wayyiqtol וַיֹּאמַר.",
+        "The imperatives הַקְרֵה (24:12.6) and וַעֲשֵׂה (24:12.10) are requests; נָא 'please' is set on the first.",
+        "יְהֹוָה אֱלֹהֵי אֲדֹנִי אַבְרָהָם: the divine name, then the construct 'God of my master Abraham'. The first person 'my' is the servant's.",
+        "The shalshelet on וַיֹּאמַר (24:12.1) and the etnaḥta on הַיּוֹם (24:12.9) mark the start of the speech and its first division."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:24:12:1", "relation": "follows", "summary": "Ibn Ezra, normative: הַקְרֵה is in the sense of 'prepare' (הכן) and of bringing a thing about before one (הפצי לפני), as in 'for the LORD your God caused it to meet me' (כִּי הִקְרָה ד' אֱלֹהֶיךָ), which he cites. The English 'make it happen before me' takes this: a request that God bring the matter about."},
+        {"anchor": "radak:24:12:1", "relation": "records", "summary": "Radak: זַמֵּן לְפָנַי, 'arrange it before me' (appoint, provide), so that the sign the servant asks for in the next verses shows that the kindness is done. The English keeps 'make it happen'."},
+        {"anchor": "onkelos:24:12:1", "relation": "records", "summary": "Onkelos renders the verb with the Aramaic זַמִּין כְּעַן, 'now arrange', the same sense as Radak. The English keeps 'make it happen'."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "24:13",
+      "english": "Look, I am standing by the spring of water, and the women of the town are going out to draw water.",
+      "literal": "look I standing on spring-of the-waters and-daughters-of men-of the-town going-out to-draw water",
+      "tokens": [
+        {"id": "24:13.1", "gloss": "look", "note": "הִנֵּה: 'look, see'. Not 'behold'."},
+        {"id": "24:13.2", "gloss": "I", "note": "The independent first person pronoun, the servant speaking."},
+        {"id": "24:13.3", "gloss": "standing", "sense": "Niph 1.b", "note": "Niphal participle of נָצַב: 'stand, be stationed'."},
+        {"id": "24:13.4", "gloss": "by", "note": "עַל: 'by, at'."},
+        {"id": "24:13.5", "gloss": "spring of", "sense": "a", "note": "Construct of עַיִן, 'spring'."},
+        {"id": "24:13.6", "gloss": "the water", "note": "The plural 'the waters' with the article; the English 'water'."},
+        {"id": "24:13.7", "gloss": "and the women of", "sense": "2", "note": "בַּת in the construct plural: 'daughters of', meaning 'women of' in sense 2."},
+        {"id": "24:13.8", "gloss": "the men of", "note": "The construct plural of אִישׁ: 'the men of the town'."},
+        {"id": "24:13.9", "gloss": "the town", "sense": "1", "note": "The city with the article."},
+        {"id": "24:13.10", "gloss": "are going out", "sense": "Qal 1.b", "note": "Feminine plural participle of יָצָא: the subject is the women."},
+        {"id": "24:13.11", "gloss": "to draw", "note": "Infinitive construct of שָׁאַב, with לְ: purpose."},
+        {"id": "24:13.12", "gloss": "water", "note": "מַיִם, the plural with the sense 'water'."}
+      ],
+      "phrases": [
+        {"tokens": ["24:13.1", "24:13.2", "24:13.3"], "english": "Look, I am standing", "literal": "look I standing"},
+        {"tokens": ["24:13.4", "24:13.5", "24:13.6"], "english": "by the spring of water", "literal": "on spring-of the-waters"},
+        {"tokens": ["24:13.7", "24:13.8", "24:13.9"], "english": "and the women of the town", "literal": "and-daughters-of men-of the-town"},
+        {"tokens": ["24:13.10", "24:13.11", "24:13.12"], "english": "are going out to draw water", "literal": "going-out to-draw water"}
+      ],
+      "grammar": [
+        "הִנֵּה with the independent pronoun and the participle נִצָּב: 'look, I am standing'. The servant describes his present position.",
+        "The participle יֹצְאֹת agrees in gender and number with בְּנוֹת: 'going out'. The English 'are going out' supplies the auxiliary.",
+        "לִשְׁאֹב is a qal infinitive construct: the purpose of going out.",
+        "The etnaḥta on הַמָּיִם (24:13.6) divides the verse after 'the water'; the silluq on מָיִם (24:13.12) ends it."
+      ],
+      "commentary": [
+        {"anchor": "onkelos:24:13:1", "relation": "not-applicable", "summary": "Onkelos's version of the verse follows the same order: the one standing by the spring, the daughters of the men of the town going out to draw water."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "24:14",
+      "english": "And it shall be that the girl to whom I say, \"Please tilt your jar, and I will drink,\" and she will say, \"Drink, and I will also water your camels,\" you have proved her for your servant, for Isaac; and by her I shall know that you have shown kindness with my master.",
+      "literal": "and-it-shall-be the-girl which I-say to-her tilt-please your-jar and-I-will-drink and-she-will-say drink and-also your-camels I-will-water her you-proved for-your-servant for-Isaac and-by-her I-shall-know that you-did kindness with my-master",
+      "tokens": [
+        {"id": "24:14.1", "gloss": "and it shall be", "sense": "Qal I.2.b", "note": "Qatal of הָיָה used as a future in the sign: 'it shall come to pass'."},
+        {"id": "24:14.2", "gloss": "the girl", "sense": "1"},
+        {"id": "24:14.3", "gloss": "to whom", "note": "אֲשֶׁר, the relative: 'the girl to whom I say'."},
+        {"id": "24:14.4", "gloss": "I say", "sense": "Qal 1", "note": "Imperfect, first person singular, of אָמַר: 'I shall say'."},
+        {"id": "24:14.5", "gloss": "to her", "sense": "1"},
+        {"id": "24:14.6", "gloss": "tilt", "sense": "Hiph 3", "note": "Hifil imperative of נָטָה, 'turn, incline': tip the jar to pour."},
+        {"id": "24:14.7", "gloss": "please", "note": "נָא."},
+        {"id": "24:14.8", "gloss": "your jar", "note": "The noun with the second person feminine singular suffix. The girl is addressed."},
+        {"id": "24:14.9", "gloss": "and I will drink", "note": "Qal imperfect, first person singular, of שָׁתָה. The lexicon lists only the Niphal sense, so none is given."},
+        {"id": "24:14.10", "gloss": "and she will say", "sense": "Qal 1", "note": "Qatal with ו, third person feminine singular, of אָמַר: 'and she will say'."},
+        {"id": "24:14.11", "gloss": "drink", "note": "Qal imperative, second person masculine singular, of שָׁתָה."},
+        {"id": "24:14.12", "gloss": "and also", "note": "וְגַם: 'and also'."},
+        {"id": "24:14.13", "gloss": "your camels", "sense": "2", "note": "Sense 2, beasts of burden."},
+        {"id": "24:14.14", "gloss": "I will water", "sense": "Hiph 2", "note": "Hifil imperfect, first person singular, of שָׁקָה: 'give drink to'."},
+        {"id": "24:14.15", "gloss": "her", "note": "The object marker with a third person feminine singular suffix: 'her'."},
+        {"id": "24:14.16", "gloss": "you have proved", "sense": "Hiph 3", "note": "Hifil qatal, second person masculine singular, of יָכַח. Ibn Ezra reads 'prove, show to be right' (Hiph 3), and the English follows him. Radak reads 'appoint' (Hiph 2) and Rashi 'choose'; both are recorded in the commentary."},
+        {"id": "24:14.17", "gloss": "for your servant", "sense": "6", "note": "עֶבֶד with the second person masculine singular suffix: 'your servant' (sense 6), the servant speaking to God of himself."},
+        {"id": "24:14.18", "gloss": "for Isaac", "note": "לְ and the name Isaac."},
+        {"id": "24:14.19", "gloss": "and by her", "note": "The ו and ב with the feminine suffix: 'by her', the means of the knowing."},
+        {"id": "24:14.20", "gloss": "I shall know", "sense": "Qal 1.a", "note": "Imperfect, first person singular, of יָדַע: 'know'."},
+        {"id": "24:14.21", "gloss": "that", "sense": "1", "note": "כִּי: 'that'. Rashi and Radak read 'if'; see the commentary."},
+        {"id": "24:14.22", "gloss": "you have shown", "sense": "Qal I.2", "note": "Qatal, second person masculine singular, of עָשָׂה, 'deal, show'."},
+        {"id": "24:14.23", "gloss": "kindness", "sense": "I.1"},
+        {"id": "24:14.24", "gloss": "with", "sense": "1"},
+        {"id": "24:14.25", "gloss": "my master", "note": "Construct of אָדוֹן with the first person suffix."}
+      ],
+      "phrases": [
+        {"tokens": ["24:14.1", "24:14.2"], "english": "And it shall be that the girl", "literal": "and-it-shall-be the-girl"},
+        {"tokens": ["24:14.3", "24:14.4", "24:14.5"], "english": "to whom I say", "literal": "which I-say to-her"},
+        {"tokens": ["24:14.6", "24:14.7", "24:14.8"], "english": "Please tilt your jar", "literal": "tilt-please your-jar"},
+        {"tokens": ["24:14.9"], "english": "and I will drink", "literal": "and-I-will-drink"},
+        {"tokens": ["24:14.10"], "english": "and she will say", "literal": "and-she-will-say"},
+        {"tokens": ["24:14.11", "24:14.12", "24:14.13", "24:14.14"], "english": "Drink, and I will also water your camels", "literal": "drink and-also your-camels I-will-water"},
+        {"tokens": ["24:14.15", "24:14.16"], "english": "you have proved her", "literal": "her you-proved"},
+        {"tokens": ["24:14.17", "24:14.18"], "english": "for your servant, for Isaac", "literal": "for-your-servant for-Isaac"},
+        {"tokens": ["24:14.19", "24:14.20"], "english": "and by her I shall know", "literal": "and-by-her I-shall-know"},
+        {"tokens": ["24:14.21", "24:14.22"], "english": "that you have shown", "literal": "that you-did"},
+        {"tokens": ["24:14.23", "24:14.24", "24:14.25"], "english": "kindness with my master", "literal": "kindness with my-master"}
+      ],
+      "grammar": [
+        "The sign is introduced by a qatal of הָיָה, 'it shall be' (וְהָיָה), and a relative clause. Its speeches are imperfects (I say, I will drink, I will water) and a weqatal (וְאָמְרָה, 'and she will say').",
+        "The verb הֹכַחְתָּ (24:14.16) is a hifil qatal, second person masculine singular: the servant speaks to God. The English takes Ibn Ezra's sense 'prove'.",
+        "The clause וּבָהּ אֵדַע כִּי עָשִׂיתָ חֶסֶד gives the outcome of the sign: 'by her I shall know that you have shown kindness'. The כִּי is 'that' here.",
+        "The silluq on אֲדֹנִי (24:14.25) ends the verse."
+      ],
+      "note": "The sign is a prayer for a particular girl's answer to a test of generosity. The English keeps the verb 'prove' from Ibn Ezra's reading; the other readings of הֹכַחְתָּ and כִּי are in the commentary.",
+      "commentary": [
+        {"anchor": "ibn-ezra:24:14:1", "relation": "follows", "summary": "Ibn Ezra, normative: the servant relies on the prayer the prophet answered; God 'proved' one of the family of his master, in a dream through an angel, and the proof is by way of good conduct (דרך מוסר), as with 'a generous daughter'. The English 'you have proved her' follows his sense of הֹכַחְתָּ, 'prove, show to be right'. He is puzzled that others think the servant asked improperly."},
+        {"anchor": "rashi:24:14:1", "relation": "records", "summary": "Rashi: she is worthy of acts of kindness and fit to enter Abraham's house, and הֹכַחְתָּ means 'you chose' (בֵּרַרְתָּ). The English does not adopt 'choose' and follows Ibn Ezra's 'prove'."},
+        {"anchor": "rashi:24:14:2", "relation": "records", "summary": "Rashi reads וּבָהּ אֵדַע as a plea (לְשׁוֹן תְּחִנָּה): 'make me know through her'. The English reads the form as a plain 'I shall know'."},
+        {"anchor": "rashi:24:14:3", "relation": "records", "summary": "Rashi reads כִּי as 'if': 'if she is of his family and fitting for him, I shall know that you did kindness'. The English keeps 'that', the plain sense of כִּי."},
+        {"anchor": "ramban:24:14:1", "relation": "records", "summary": "Ramban finds Rashi's reading awkward and takes the clause as the outcome asked for: 'let it happen today that the girl I say to is the one you have proved for Isaac, and by her I shall know you did kindness'. He cites 'the young woman whom the LORD has designated' (v. 43). The English keeps 'you have proved her'."},
+        {"anchor": "radak:24:14:1", "relation": "not-applicable", "summary": "Radak: the clause treats the same matter as the wording 'if a girl is' in Deut 22:23 (כִּי יִהְיֶה נַעֲרָה). It does not bear on the English."},
+        {"anchor": "radak:24:14:2", "relation": "not-applicable", "summary": "Radak: the servant would not say this to a lame or blind girl; he prayed for a girl who was fit, not a maidservant or a girl outside Abraham's family."},
+        {"anchor": "radak:24:14:3", "relation": "not-applicable", "summary": "The fetched entry for this anchor has no comment text."},
+        {"anchor": "radak:24:14:4", "relation": "records", "summary": "Radak reads הֹכַחְתָּ as 'you appointed her' (זִמַּנְתָּ) for Isaac: 'her I will take for him as a wife'. The English does not adopt 'appointed' (Hiph 2)."},
+        {"anchor": "radak:24:14:5", "relation": "records", "summary": "Radak reads the knowing as conditional: if she proves good, of good people and of his family, then I shall know that you did kindness. The English keeps the plain 'by her I shall know'."},
+        {"anchor": "sforno:24:14:1", "relation": "not-applicable", "summary": "Sforno: the servant prayed that it would be so, and did not rely on divination (נַחַשׁ). The clause is about the nature of the prayer, not the English."},
+        {"anchor": "sforno:24:14:2", "relation": "not-applicable", "summary": "Sforno: it is right for the asker to ask less than he needs and for the giver to add more. A homily on the camels."},
+        {"anchor": "sforno:24:14:3", "relation": "records", "summary": "Sforno reads הֹכַחְתָּ as 'you disciplined and instructed her' (יִסַּרְתָּ וְהוֹרֵיתָ), so that she would be fit for Isaac: the verb as moral correction. The English keeps 'prove', which Ibn Ezra supports."},
+        {"anchor": "onkelos:24:14:1", "relation": "records", "summary": "Onkelos renders הֹכַחְתָּ with 'you have appointed' (זַמַּנְתָּ) for your servant Isaac, the sense Radak takes. The English keeps 'prove'."}
+      ],
+      "apparatus": [],
+      "context": [
+        "The sign is a test set by the servant in prayer: a girl who offers drink to him and to his camels. The verse does not name a custom beyond this, and the English does not add one."
+      ]
+    },
+    {
+      "ref": "24:15",
+      "english": "And it came to pass, before he finished speaking, and look, Rebekah was coming out, who was born to Bethuel son of Milcah, wife of Nahor brother of Abraham, and her jar on her shoulder.",
+      "literal": "and-it-came-to-pass he before finished to-speak and-look Rebekah coming-out who was-born to-Bethuel son-of Milcah wife-of Nahor brother-of Abraham and-her-jar on her-shoulder",
+      "tokens": [
+        {"id": "24:15.1", "gloss": "and it came to pass", "sense": "Qal I.2.a.(1)", "note": "Wayyiqtol of הָיָה: 'and it came to pass'."},
+        {"id": "24:15.2", "gloss": "he", "sense": "2", "note": "The pronoun הוּא resumes the subject: the servant, still speaking."},
+        {"id": "24:15.3", "gloss": "before", "note": "טֶרֶם, an adverb of time: 'before'."},
+        {"id": "24:15.4", "gloss": "finished", "sense": "Pi 1.a", "note": "Piel qatal, third person masculine singular, of כָּלָה: 'finish'."},
+        {"id": "24:15.5", "gloss": "speaking", "sense": "Pi", "note": "Piel infinitive construct of דָּבַר, 'speak'."},
+        {"id": "24:15.6", "gloss": "and look", "note": "וְהִנֵּה: 'and look'."},
+        {"id": "24:15.7", "gloss": "Rebekah"},
+        {"id": "24:15.8", "gloss": "coming out", "sense": "Qal 1.b", "note": "Feminine singular participle of יָצָא: 'going out'."},
+        {"id": "24:15.9", "gloss": "who", "note": "אֲשֶׁר, the relative."},
+        {"id": "24:15.10", "gloss": "was born", "sense": "Pu", "note": "Pual qatal, third person feminine singular, of יָלַד: 'be born'."},
+        {"id": "24:15.11", "gloss": "to Bethuel", "note": "לְ and the name Bethuel."},
+        {"id": "24:15.12", "gloss": "son of", "sense": "1", "note": "בֶּן in the construct: 'son of Milcah'."},
+        {"id": "24:15.13", "gloss": "Milcah", "sense": "1", "note": "The wife of Nahor."},
+        {"id": "24:15.14", "gloss": "wife of", "sense": "2", "note": "אִשָּׁה in the construct: 'wife of Nahor'."},
+        {"id": "24:15.15", "gloss": "Nahor", "sense": "2", "note": "Nahor, brother of Abraham."},
+        {"id": "24:15.16", "gloss": "brother of", "sense": "1", "note": "אָח in the construct: 'brother of Abraham'."},
+        {"id": "24:15.17", "gloss": "Abraham"},
+        {"id": "24:15.18", "gloss": "and her jar", "note": "The ו and the noun with the feminine suffix. The clause has no verb."},
+        {"id": "24:15.19", "gloss": "on", "note": "עַל: 'on'."},
+        {"id": "24:15.20", "gloss": "her shoulder", "sense": "1", "note": "The lexicon lists neck and back; 'shoulder', the root's gloss, is the nearer of the two for the place where the jar rests. The English follows the usual rendering."}
+      ],
+      "phrases": [
+        {"tokens": ["24:15.1", "24:15.2", "24:15.3", "24:15.4", "24:15.5"], "english": "And it came to pass, before he finished speaking", "literal": "and-it-came-to-pass he before finished to-speak"},
+        {"tokens": ["24:15.6", "24:15.7", "24:15.8"], "english": "and look, Rebekah was coming out", "literal": "and-look Rebekah coming-out"},
+        {"tokens": ["24:15.9", "24:15.10"], "english": "who was born", "literal": "who was-born"},
+        {"tokens": ["24:15.11", "24:15.12", "24:15.13"], "english": "to Bethuel son of Milcah", "literal": "to-Bethuel son-of Milcah"},
+        {"tokens": ["24:15.14", "24:15.15", "24:15.16", "24:15.17"], "english": "wife of Nahor brother of Abraham", "literal": "wife-of Nahor brother-of Abraham"},
+        {"tokens": ["24:15.18", "24:15.19", "24:15.20"], "english": "and her jar on her shoulder", "literal": "and-her-jar on her-shoulder"}
+      ],
+      "grammar": [
+        "וַֽיְהִי הוּא טֶרֶם כִּלָּה לְדַבֵּר: 'it came to pass, before he finished speaking'. טֶרֶם takes the qatal and then the infinitive construct.",
+        "וְהִנֵּה 'and look' introduces the arrival. The participle יֹצֵאת describes Rebekah as coming out at that moment.",
+        "The relative clause אֲשֶׁר יֻלְּדָה לִבְתוּאֵל uses a pual qatal: 'who was born to Bethuel'.",
+        "The chain 'son of Milcah, wife of Nahor brother of Abraham' is in the construct: it names Bethuel's mother, then Nahor, whose wife she was. The clause וְכַדָּהּ עַל־שִׁכְמָהּ has no verb."
+      ],
+      "commentary": [
+        {"anchor": "ramban:24:15:1", "relation": "not-applicable", "summary": "Ramban explains why the genealogy is given as 'son of Milcah' (the wife, not the concubine Reumah) and why the girl names her mother's father first. The English keeps the text's formula."},
+        {"anchor": "radak:24:15:1", "relation": "not-applicable", "summary": "Radak: the chance came as the servant asked; she was of Abraham's family, a daughter of his brother's son, and a good, unmarried girl."},
+        {"anchor": "radak:24:15:2", "relation": "records", "summary": "Radak: טֶרֶם כִּלָּה may mean the word was still in his mouth or heart, citing Isa 65:24. The English keeps 'before he finished speaking'."},
+        {"anchor": "onkelos:24:15:1", "relation": "not-applicable", "summary": "Onkelos's version keeps the same order and the same family formula."},
+        {"anchor": "sforno:24:15:1", "relation": "follows", "summary": "Sforno: טֶרֶם כִּלָּה, 'he had not yet finished', as in Isa 65:24 ('before they call I will answer'). The English 'before he finished speaking' follows him."},
+        {"anchor": "sforno:24:15:2", "relation": "records", "summary": "Sforno: 'son of Milcah' means son of the lady, not of Reumah the concubine. The English keeps the formula; the note carries the point."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "24:16",
+      "english": "And the girl was very good-looking, a virgin, and no man had known her. She went down to the spring, filled her jar, and came up.",
+      "literal": "and-the-girl good in-appearance very virgin and-man not knew-her and-went-down the-spring and-filled her-jar and-came-up",
+      "tokens": [
+        {"id": "24:16.1", "gloss": "and the girl", "sense": "1"},
+        {"id": "24:16.2", "gloss": "good-looking", "sense": "2", "note": "The adjective טוֹב in the feminine construct: 'good of appearance', pleasing to look at."},
+        {"id": "24:16.3", "gloss": "in appearance", "sense": "1.b", "note": "מַרְאֶה: 'appearance'."},
+        {"id": "24:16.4", "gloss": "very", "sense": "2", "note": "מְאֹד: 'very, exceedingly'."},
+        {"id": "24:16.5", "gloss": "a virgin", "note": "בְּתוּלָה: the word for a girl who has not known a man."},
+        {"id": "24:16.6", "gloss": "and a man", "note": "The ו with אִישׁ. The clause is negated with לֹא."},
+        {"id": "24:16.7", "gloss": "not", "note": "לֹא, the negative."},
+        {"id": "24:16.8", "gloss": "had known her", "sense": "Qal 3", "note": "Qatal, third person masculine singular, of יָדַע with the suffix. The lexicon sense 'know a person' is the sense of sexual knowledge. The English 'had known' is the past of the completed act."},
+        {"id": "24:16.9", "gloss": "and she went down", "sense": "Qal 1.b", "note": "Wayyiqtol of יָרַד, qal: 'go down'."},
+        {"id": "24:16.10", "gloss": "to the spring", "sense": "a", "note": "עַיִן with the directional ה: 'to the spring'."},
+        {"id": "24:16.11", "gloss": "and she filled", "sense": "Pi 1", "note": "Piel wayyiqtol of מָלֵא, 'fill'."},
+        {"id": "24:16.12", "gloss": "her jar"},
+        {"id": "24:16.13", "gloss": "and she came up", "sense": "Qal 1", "note": "Wayyiqtol of עָלָה, qal: 'go up, ascend'."}
+      ],
+      "phrases": [
+        {"tokens": ["24:16.1", "24:16.2", "24:16.3", "24:16.4"], "english": "And the girl was very good-looking", "literal": "and-the-girl good in-appearance very"},
+        {"tokens": ["24:16.5", "24:16.6", "24:16.7", "24:16.8"], "english": "a virgin, and no man had known her", "literal": "virgin and-man not had-known-her"},
+        {"tokens": ["24:16.9", "24:16.10"], "english": "She went down to the spring", "literal": "and-went-down the-spring"},
+        {"tokens": ["24:16.11", "24:16.12"], "english": "filled her jar", "literal": "and-filled her-jar"},
+        {"tokens": ["24:16.13"], "english": "and came up", "literal": "and-came-up"}
+      ],
+      "grammar": [
+        "טֹבַת מַרְאֶה מְאֹד בְּתוּלָה is a verbless description of the girl: the English supplies 'was' as the copula.",
+        "לֹא יְדָעָהּ is a negated qatal: 'no man had known her'. The English 'had known' is the past of the completed act.",
+        "Three wayyiqtols: וַתֵּרֶד 'went down', וַתְּמַלֵּא 'filled', וַתָּעַל 'came up'. The sequence is narrated in order.",
+        "The ה on הָעַיְנָה is the directional ending, 'to the spring'. The zaqef gadol on בְּתוּלָה (24:16.5) and the silluq on וַתָּעַל (24:16.13) mark the clause and the verse."
+      ],
+      "commentary": [
+        {"anchor": "rashi:24:16:1", "relation": "not-applicable", "summary": "Rashi glosses בְּתוּלָה as 'from the place of virginity' (מִמְּקוֹם בְּתוּלִים), quoting Bereshit Rabbah. The English keeps 'a virgin'."},
+        {"anchor": "rashi:24:16:2", "relation": "records", "summary": "Rashi: 'and no man had known her' means she was not as the custom of the women of the nations, who guarded their virginity in one place and gave themselves elsewhere; the verse testifies that she was pure. The English does not adopt the contrast with custom."},
+        {"anchor": "ibn-ezra:24:16:1", "relation": "follows", "summary": "Ibn Ezra, normative: it is far-fetched that the verse speaks of conduct outside the usual way (Rashi's reading); the plain sense is that she was a virgin and no man had known her. He adds that a virgin may still conceive if a man lies with her, and that it is not fitting to speak further of a matter of nakedness. The English keeps 'a virgin, and no man had known her'."},
+        {"anchor": "radak:24:16:1", "relation": "records", "summary": "Radak: 'even if not in her manner' (אֲפִילּוּ שֶׁלֹּא כְּדַרְכָּהּ), following the reading Rashi gives. The English keeps the plain 'no man had known her'."},
+        {"anchor": "radak:24:16:2", "relation": "not-applicable", "summary": "Radak: she drew a full jar from the spring, where the water lay near the surface, so the place is called both spring and well (עַיִן וּבְאֵר). The midrash on the water rising to meet her is not the plain sense."},
+        {"anchor": "radak:24:16:3", "relation": "follows", "summary": "Radak notes that the verb is 'filled' (וַתְּמַלֵּא), not 'drew' (וַתִּשְׁאַב), as with Hagar's water-skin (21:19). The English 'filled her jar' keeps the verb."},
+        {"anchor": "onkelos:24:16:1", "relation": "not-applicable", "summary": "Onkelos's version gives the same sequence: she went down to the spring, filled her jar, and went up."},
+        {"anchor": "sforno:24:16:1", "relation": "records", "summary": "Sforno: טוֹבַת מַרְאֶה means 'fair of colour' (יְפַת הַצֶּבַע), reading מַרְאֶה as complexion. The English 'good-looking' keeps the wider sense of appearance."}
+      ],
+      "apparatus": [],
+      "context": []
+    }
+  ]
+}
