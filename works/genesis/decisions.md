@@ -43,6 +43,11 @@ unit translated or reviewed after them; units of 1–17 were made under the earl
   between readings of the words (a sense, a form, the syntax); a gloss on what
   happened or why (18:8 ויאכלו: Ibn Ezra, "the bread was consumed, as fire consumes")
   is commentary: it goes in the notes and the commentary, never in the English line.
+- English grammar is not addition: the copula of a verbless clause ("Blessed be the
+  LORD", "you are a prince"), the article or a pronoun that English requires, and the
+  ordinary English of an idiom are translation. What the English must not supply is
+  content the Hebrew lacks: a subject or object it does not name, a verb of its own,
+  an explanation.
 - Rashi is consulted like Ramban, Radak and Sforno: his grammar and his plain-sense
   remarks are weighed where they bear on the words, his midrash is not the plain
   sense. Where the English departs from a reading of his that matters to a reader, the
