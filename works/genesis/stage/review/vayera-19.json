@@ -1,0 +1,204 @@
+{
+ "unit": "vayera-19",
+ "model": "sonnet",
+ "summary": "A sound unit. Faults: a colon before the speech in 22:20; Radak's remark on the root yod reversed (22:17); Rashi's remark on 'and lived' misreported (22:19); a false lexicon claim for עֵקֶב; a plural subject asserted where the Hebrew gives none; a wrong context note on Milcah. The quotation closes correctly at the end of 22:18. All four Ibn Ezra comments are consistent with the English.",
+ "patches": [
+  {
+   "ref": "22:20",
+   "path": "english",
+   "value": "After these things, it happened that it was told to Abraham, saying, \"Look, Milcah, she too, has borne sons to Nahor, your brother.\"",
+   "severity": "error",
+   "reason": "Speech is introduced with a comma, never a colon."
+  },
+  {
+   "ref": "22:17",
+   "path": "literal",
+   "value": "that blessing I-will-bless-you and-multiplying I-will-multiply [object] your-offspring like-stars-of the-sky and-like-the-sand which upon edge-of the-sea and-will-possess your-offspring [object] gate-of his-enemies",
+   "severity": "style",
+   "reason": "The two infinitive absolutes are shown alike ('blessing', 'multiplying'); the literal line had 'blessing' for the first and 'surely' for the second."
+  },
+  {
+   "ref": "22:17",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "22:17.1",
+      "22:17.2",
+      "22:17.3"
+     ],
+     "english": "that I will surely bless you",
+     "literal": "that blessing I-will-bless-you: the infinitive absolute gives the emphasis of 'surely'"
+    },
+    {
+     "tokens": [
+      "22:17.4",
+      "22:17.5",
+      "22:17.6",
+      "22:17.7"
+     ],
+     "english": "and I will surely multiply your offspring",
+     "literal": "and-multiplying I-will-multiply [object] your-offspring"
+    },
+    {
+     "tokens": [
+      "22:17.8",
+      "22:17.9",
+      "22:17.10"
+     ],
+     "english": "like the stars of the sky and like the sand",
+     "literal": "like-stars-of the-sky and-like-the-sand"
+    },
+    {
+     "tokens": [
+      "22:17.11",
+      "22:17.12",
+      "22:17.13",
+      "22:17.14"
+     ],
+     "english": "which is on the shore of the sea",
+     "literal": "which upon edge-of the-sea: the relative clause, with 'is' supplied"
+    },
+    {
+     "tokens": [
+      "22:17.15",
+      "22:17.16",
+      "22:17.17",
+      "22:17.18",
+      "22:17.19"
+     ],
+     "english": "and your offspring will possess the cities of his enemies",
+     "literal": "and-will-possess your-offspring [object] gate-of his-enemies: 'gate' for the town, as in the commentary"
+    }
+   ],
+   "severity": "style",
+   "reason": "Follows the literal line change."
+  },
+  {
+   "ref": "22:17",
+   "path": "commentary:radak:22:17:5.summary",
+   "value": "Radak: the form is written with the prefix yod alone (the yod of the 'ever-ready' letters); the root's own yod has dropped out of the writing. A point of form, not of sense.",
+   "severity": "error",
+   "reason": "The summary said the reverse: Radak says the one yod is the prefix, and the root yod is lost."
+  },
+  {
+   "ref": "22:18",
+   "path": "token:22:18.6.note",
+   "value": "עֵקֶב: 'reward' (Ibn Ezra, Radak, Sforno); the lexicon entry lists 'consequence, as a consequence of, because, reward, end' without numbered senses. 'In return for' carries 'reward' and 'because' together.",
+   "severity": "error",
+   "reason": "The note said the lexicon lists no sense; it lists these glosses."
+  },
+  {
+   "ref": "22:18",
+   "path": "context",
+   "value": [
+    "The verb is a hitpael. Whether it is reflexive ('bless themselves', that is, use your offspring as the example in their blessings) or passive ('be blessed') is disputed; the commentators and the Targum divide, and the apparatus records both. The promise of 12:3 is worded with a different verb form."
+   ],
+   "severity": "question",
+   "reason": "A reader needs the dispute named at the verse where it falls."
+  },
+  {
+   "ref": "22:19",
+   "path": "commentary:rashi:22:19:1",
+   "value": {
+    "relation": "declines",
+    "summary": "Rashi: 'and lived' is not a real settling, since Abraham was living in Hebron: twelve years before the binding of Isaac he left Beersheba for Hebron; 'Abraham sojourned in the land of the Philistines many days' (21:34) means more days than the first ones at Hebron, twenty-six years in all. The English keeps 'lived', as the verb means; Rashi's chronology is not in the English."
+   },
+   "severity": "error",
+   "reason": "The summary made Rashi say 'residence, not sitting'; he says the dwelling was not a true one. He is not followed, so the relation is declines."
+  },
+  {
+   "ref": "22:19",
+   "path": "token:22:19.11.note",
+   "value": "Qal wayyiqtol of יָשַׁב: 'dwell, have one's abode'. Rashi reads it as not a true settling, since Abraham lived in Hebron; the English keeps 'lived'.",
+   "severity": "error",
+   "reason": "The note said Rashi reads it as not literal sitting."
+  },
+  {
+   "ref": "22:19",
+   "path": "commentary:ibn-ezra:22:19:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra notes that the verse does not mention Isaac, because he was in Abraham's keeping; whoever says that Abraham slaughtered him, left him, and he afterwards came back to life, says the opposite of the verse. The English names only Abraham and his young men, and says nothing of Isaac, as the verse does not."
+   },
+   "severity": "style",
+   "reason": "'Afterwards lived' was ambiguous; he means revived."
+  },
+  {
+   "ref": "22:19",
+   "path": "token:22:19.5.note",
+   "value": "Qal wayyiqtol of קוּם, third person masculine plural: 'arise'. The verse states no plural subject; it is Abraham and his young men, and Isaac with Abraham as Radak and Ibn Ezra take it.",
+   "severity": "error",
+   "reason": "The note asserted a subject the Hebrew does not state; the commentators include Isaac."
+  },
+  {
+   "ref": "22:19",
+   "path": "grammar",
+   "value": [
+    "Four wayyiqtol verbs run in sequence (וַיָּשָׁב, וַיָּקֻמוּ, וַיֵּלְכוּ, וַיֵּשֶׁב): the narrative past of the English.",
+    "The two plural verbs (וַיָּקֻמוּ וַיֵּלְכוּ) have no stated subject. They follow the singular וַיָּשָׁב אַבְרָהָם, so the company is Abraham and his young men; Radak and Ibn Ezra include Isaac, who is in Abraham's keeping. יַחְדָּו, 'together', marks one company.",
+    "Isaac is not named in this verse. The English adds nothing; see the commentary on Ibn Ezra's reading.",
+    "A petuḥah (פ) follows this verse in the Masoretic text: a section ends here."
+   ],
+   "severity": "error",
+   "reason": "The old note stated the subject as if the Hebrew gave it."
+  },
+  {
+   "ref": "22:20",
+   "path": "context",
+   "value": [
+    "Nahor and Milcah are introduced in 11:29, and Milcah is named again in 24:15 as the mother of Bethuel, Rebekah's father."
+   ],
+   "severity": "error",
+   "reason": "24:15 makes Milcah Bethuel's mother, Rebekah's grandmother; 'mother of Rebekah's family' was loose."
+  },
+  {
+   "ref": "22:21",
+   "path": "note",
+   "value": "The lexicon glosses Kemuel as 'son of Nahor' and Aram as 'grandson of Nahor'. The Hebrew says only 'Kemuel the father of Aram'; Aram as Kemuel's son follows from the lexicon. Radak's suggestion that 'father of Aram' names a notable man is recorded; Ramban's suggestion of another Kemuel is recorded at 22:23.",
+   "severity": "error",
+   "reason": "The note was garbled and did not follow from its premises."
+  },
+  {
+   "ref": "22:23",
+   "path": "note",
+   "value": "The English moves the number after the demonstrative: Hebrew 'eight these' is 'these eight'.",
+   "severity": "error",
+   "reason": "The note said the English keeps the number in the Hebrew's place after the verb; it does not."
+  },
+  {
+   "ref": "22:24",
+   "path": "grammar",
+   "value": [
+    "The concubine is the subject of 'bore' (וַתֵּלֶד). Her name comes first, as a parenthesis, before the verb.",
+    "גַּם הִוא: 'she too' resumes the subject with emphasis. Radak reads גַּם as standing for 'to him too', after the suffix in וּפִילַגְשׁוֹ.",
+    "The four names follow the object marker: the sons are named, not counted.",
+    "With the eight sons of Milcah (22:23) these make twelve sons of Nahor."
+   ],
+   "severity": "error",
+   "reason": "The note had Radak read the 'too' as a return to the concubine; he reads it as 'to him'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:22:17:1",
+   "verdict": "consistent",
+   "comment": "'Cities' follows his reading of the gate as the walled town."
+  },
+  {
+   "anchor": "ibn-ezra:22:18:1",
+   "verdict": "consistent",
+   "comment": "'In return for' follows reward."
+  },
+  {
+   "anchor": "ibn-ezra:22:19:1",
+   "verdict": "consistent",
+   "comment": "The English does not mention Isaac."
+  },
+  {
+   "anchor": "ibn-ezra:22:20:1",
+   "verdict": "not-applicable",
+   "comment": "He gives the reason for the passage, not a reading."
+  }
+ ]
+}

@@ -1,0 +1,1220 @@
+{
+ "unit": "vayera-19",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "22:17",
+   "english": "that I will surely bless you, and I will surely multiply your offspring like the stars of the sky and like the sand which is on the shore of the sea, and your offspring will possess the cities of his enemies.",
+   "literal": "that blessing I-will-bless-you and-multiplying I-will-multiply [object] your-offspring like-stars-of the-sky and-like-the-sand which upon edge-of the-sea and-will-possess your-offspring [object] gate-of his-enemies",
+   "tokens": [
+    {
+     "id": "22:17.1",
+     "gloss": "that",
+     "sense": "1",
+     "note": "After the oath verb of 22:16 (I have sworn), כִּי introduces what is sworn: 'that I will surely bless you'. Sforno reads it so."
+    },
+    {
+     "id": "22:17.2",
+     "gloss": "surely",
+     "sense": "Pi 2",
+     "note": "Infinitive absolute of בָּרַךְ before the finite verb of the same root: emphasis. Piel 2 is 'God blesses'."
+    },
+    {
+     "id": "22:17.3",
+     "gloss": "I will bless you",
+     "sense": "Pi 2",
+     "note": "Piel imperfect, first person singular, with the object suffix 'you' (masculine singular)."
+    },
+    {
+     "id": "22:17.4",
+     "gloss": "and surely",
+     "sense": "Hiph 1",
+     "note": "Hifil infinitive absolute of רָבָה, the same emphatic construction as 22:17.2."
+    },
+    {
+     "id": "22:17.5",
+     "gloss": "I will multiply",
+     "sense": "Hiph 1",
+     "note": "Hifil imperfect, first person singular: 'make many'."
+    },
+    {
+     "id": "22:17.6",
+     "gloss": "[object marker]",
+     "note": "The object marker before 'your offspring'. It has no English word."
+    },
+    {
+     "id": "22:17.7",
+     "gloss": "your offspring",
+     "sense": "4",
+     "note": "Singular construct with the 2nd masculine singular suffix. The noun is collective, here 'offspring'."
+    },
+    {
+     "id": "22:17.8",
+     "gloss": "like the stars of",
+     "note": "The preposition כְּ with the construct plural 'stars of'."
+    },
+    {
+     "id": "22:17.9",
+     "gloss": "the sky",
+     "sense": "1.a",
+     "note": "Plural 'heavens', in the sense of the visible sky."
+    },
+    {
+     "id": "22:17.10",
+     "gloss": "and like the sand",
+     "note": "The conjunction and the preposition כְּ with 'sand': the second simile."
+    },
+    {
+     "id": "22:17.11",
+     "gloss": "which",
+     "note": "The relative particle. It joins 'on the shore of the sea' to the sand."
+    },
+    {
+     "id": "22:17.12",
+     "gloss": "on",
+     "sense": "II.1",
+     "note": "Preposition, with the construct that follows."
+    },
+    {
+     "id": "22:17.13",
+     "gloss": "the shore of",
+     "sense": "3",
+     "note": "Construct of שָׂפָה: edge, shore."
+    },
+    {
+     "id": "22:17.14",
+     "gloss": "the sea",
+     "note": "The sea, with the article."
+    },
+    {
+     "id": "22:17.15",
+     "gloss": "and will possess",
+     "sense": "Qal 1",
+     "note": "Qal imperfect, third person masculine singular, of יָרַשׁ, with ו. The subject is 'your offspring' (next token)."
+    },
+    {
+     "id": "22:17.16",
+     "gloss": "your offspring",
+     "sense": "4",
+     "note": "The subject of the verb above."
+    },
+    {
+     "id": "22:17.17",
+     "gloss": "[object marker]",
+     "note": "The object marker before 'the gate'."
+    },
+    {
+     "id": "22:17.18",
+     "gloss": "the cities",
+     "note": "Literally 'gate'. 'Gate' stands for the town; Ibn Ezra's reading decides 'cities' (see the commentary and context). The lexicon gives 'gate' only."
+    },
+    {
+     "id": "22:17.19",
+     "gloss": "of his enemies",
+     "note": "Participle plural construct of אָיַב with the 3rd masculine singular suffix. 'His' refers to the singular offspring."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "22:17.1",
+      "22:17.2",
+      "22:17.3"
+     ],
+     "english": "that I will surely bless you",
+     "literal": "that blessing I-will-bless-you: the infinitive absolute gives the emphasis of 'surely'"
+    },
+    {
+     "tokens": [
+      "22:17.4",
+      "22:17.5",
+      "22:17.6",
+      "22:17.7"
+     ],
+     "english": "and I will surely multiply your offspring",
+     "literal": "and-multiplying I-will-multiply [object] your-offspring"
+    },
+    {
+     "tokens": [
+      "22:17.8",
+      "22:17.9",
+      "22:17.10"
+     ],
+     "english": "like the stars of the sky and like the sand",
+     "literal": "like-stars-of the-sky and-like-the-sand"
+    },
+    {
+     "tokens": [
+      "22:17.11",
+      "22:17.12",
+      "22:17.13",
+      "22:17.14"
+     ],
+     "english": "which is on the shore of the sea",
+     "literal": "which upon edge-of the-sea: the relative clause, with 'is' supplied"
+    },
+    {
+     "tokens": [
+      "22:17.15",
+      "22:17.16",
+      "22:17.17",
+      "22:17.18",
+      "22:17.19"
+     ],
+     "english": "and your offspring will possess the cities of his enemies",
+     "literal": "and-will-possess your-offspring [object] gate-of his-enemies: 'gate' for the town, as in the commentary"
+    }
+   ],
+   "grammar": [
+    "כִּי בָרֵךְ אֲבָרֶכְךָ: the infinitive absolute before the finite verb of the same root gives emphasis, 'I will surely bless you'. The same construction returns in וְהַרְבָּה אַרְבֶּה.",
+    "The clause is the content of the oath sworn in 22:16 (נִשְׁבַּעְתִּי): 'that I will surely bless you' is what God swears.",
+    "Two similes are joined by ו: כְּכוֹכְבֵי הַשָּׁמַיִם and וְכַחוֹל אֲשֶׁר עַל־שְׂפַת הַיָּם. The etnaḥta on הַיָּם divides the verse: the promise of number first, then the promise of land.",
+    "וְיִרַשׁ זַרְעֲךָ: the yiqtol has future sense; the subject 'your offspring' follows the verb. The object is 'the gate' (שַׁעַר) with the marker אֵת.",
+    "אֹיְבָיו: the suffix 'his' refers to זֶרַע, which is singular, so the enemies are those of the offspring, not of Abraham."
+   ],
+   "note": "The English gives 'the cities of his enemies' because Ibn Ezra, the normative commentator, reads 'gate' as the walled town. The literal line keeps 'gate'. Radak's reading, the land of the enemies, is recorded in the commentary.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:22:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra glosses שַׁעַר אֹיְבָיו as 'states that have gates' (מְדִינוֹת בַּעֲלוֹת שְׁעָרִים): the gate stands for the walled town. He decides the plain sense, and the English follows him: 'the cities of his enemies'."
+    },
+    {
+     "anchor": "rashi:22:17:1",
+     "relation": "declines",
+     "summary": "Rashi reads the doubled verb as two blessings, one for Abraham and one for Isaac (אַחַת לָאָב וְאַחַת לַבֵּן). That is midrash, not the sense of the words. The English keeps one promise, with the emphasis of the infinitive absolute."
+    },
+    {
+     "anchor": "rashi:22:17:2",
+     "relation": "declines",
+     "summary": "Rashi reads the doubled 'multiply' the same way: one increase for the father and one for the son. The English keeps the emphasis only."
+    },
+    {
+     "anchor": "radak:22:17:1",
+     "relation": "records",
+     "summary": "Radak takes 'the gate of his enemies' as the land of the enemies: the gates of the land were its strength, so the whole land is called a gate. Ibn Ezra decides the sense, so the English does not follow Radak here."
+    },
+    {
+     "anchor": "radak:22:17:3",
+     "relation": "records",
+     "summary": "Radak reads the two similes, the stars and the sand, as one emphasis: a doubled comparison strengthens the matter. The English keeps two similes as the Hebrew has them."
+    },
+    {
+     "anchor": "radak:22:17:5",
+     "relation": "not-applicable",
+     "summary": "Radak: the form is written with the prefix yod alone (the yod of the 'ever-ready' letters); the root's own yod has dropped out of the writing. A point of form, not of sense."
+    },
+    {
+     "anchor": "radak:22:17:6",
+     "relation": "not-applicable",
+     "summary": "Radak finds the phrase 'that blessing I will bless' clear as it stands."
+    },
+    {
+     "anchor": "onkelos:22:17:1",
+     "relation": "follows",
+     "summary": "The Targum renders שַׁעַר as קִרְוֵי ('cities') of their enemies, agreeing with Ibn Ezra's reading. The English follows."
+    },
+    {
+     "anchor": "sforno:22:17:1",
+     "relation": "follows",
+     "summary": "Sforno reads כִּי as the object of the oath: 'that I swore that I will bless you'. The English follows with 'that I will surely bless you'."
+    }
+   ],
+   "apparatus": [
+    "'Gate' (שַׁעַר) is open to three readings: the town (Ibn Ezra, followed), the land (Radak, recorded), and the gate itself (the literal sense, kept in the literal line)."
+   ],
+   "context": [
+    "A city gate was the place of a town's defence and of its public business, so the gate could stand for the town and its authority. 'The gate of his enemies' names their towns by a part for the whole; the commentators differ on the extent (see the commentary)."
+   ]
+  },
+  {
+   "ref": "22:18",
+   "english": "and all the nations of the earth will bless themselves by your offspring, in return for your having obeyed my voice.\"",
+   "literal": "and-will-bless-themselves in-your-offspring all nations-of the-earth in-return-for that you-heard in-my-voice",
+   "tokens": [
+    {
+     "id": "22:18.1",
+     "gloss": "and will bless themselves",
+     "sense": "Hithp",
+     "note": "Hitpael weqatal, third person common plural: reflexive, 'bless oneself'. The subject, 'all the nations', comes after the verb. The WLC vowels differ (apparatus)."
+    },
+    {
+     "id": "22:18.2",
+     "gloss": "by your offspring",
+     "sense": "4",
+     "note": "The preposition ב of means, with 'offspring' (sense 4) and the 2nd masculine singular suffix."
+    },
+    {
+     "id": "22:18.3",
+     "gloss": "all",
+     "sense": "1",
+     "note": "'All' in the sense 'the whole of, every' before a construct noun."
+    },
+    {
+     "id": "22:18.4",
+     "gloss": "nations",
+     "note": "Plural construct of גּוֹי."
+    },
+    {
+     "id": "22:18.5",
+     "gloss": "of the earth",
+     "sense": "1.a",
+     "note": "'The earth', with the article: the inhabited world."
+    },
+    {
+     "id": "22:18.6",
+     "gloss": "in return for",
+     "note": "עֵקֶב: 'reward' (Ibn Ezra, Radak, Sforno); the lexicon entry lists 'consequence, as a consequence of, because, reward, end' without numbered senses. 'In return for' carries 'reward' and 'because' together."
+    },
+    {
+     "id": "22:18.7",
+     "gloss": "that",
+     "note": "The relative particle, joining the clause to 'in return for'."
+    },
+    {
+     "id": "22:18.8",
+     "gloss": "you have obeyed",
+     "sense": "Qal 1",
+     "note": "Qal perfect, second person masculine singular, of שָׁמַע. With בְּקוֹל, 'hear in the voice of' is 'obey'."
+    },
+    {
+     "id": "22:18.9",
+     "gloss": "my voice",
+     "note": "ב + קוֹל with the 1st common singular suffix: the idiom 'hear in the voice of' (obey)."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "22:18.1",
+      "22:18.2",
+      "22:18.3",
+      "22:18.4",
+      "22:18.5"
+     ],
+     "english": "and all the nations of the earth will bless themselves by your offspring",
+     "literal": "and-will-bless-themselves in-your-offspring all nations-of the-earth: the subject comes after the verb in Hebrew"
+    },
+    {
+     "tokens": [
+      "22:18.6",
+      "22:18.7",
+      "22:18.8",
+      "22:18.9"
+     ],
+     "english": "in return for your having obeyed my voice",
+     "literal": "in-return-for that you-heard in-my-voice: 'heard in the voice of' is 'obeyed'"
+    }
+   ],
+   "grammar": [
+    "וְהִתְבָּרְכוּ is a weqatal that carries on the promise of 22:17, so it is future in sense: 'will bless themselves'.",
+    "The hitpael of בָּרַךְ is reflexive. The English keeps it; the passive reading ('be blessed') of Onkelos is recorded in the commentary.",
+    "עֵקֶב אֲשֶׁר: 'in return for that'. The perfect שָׁמַעְתָּ is rendered 'your having obeyed', so that the English stays a noun phrase after 'in return for'.",
+    "This verse ends the angel's speech, which began in 22:16. The closing quotation mark is here."
+   ],
+   "note": "The English follows Ibn Ezra's reading of עֵקֶב as reward ('in return for'). Radak and Sforno agree on the word; they differ on how the nations come to bless themselves, and that is recorded.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:22:18:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra glosses עֵקֶב as 'reward, at the end' (שָׂכָר בָּאַחֲרִית): the blessing comes in return for obedience. He decides the plain sense, and the English follows: 'in return for'."
+    },
+    {
+     "anchor": "radak:22:18:1",
+     "relation": "records",
+     "summary": "Radak takes the hitpael as reflexive, but reads it as prayer: the nations will invoke the blessing on themselves, saying 'God bless us as he blessed the offspring of Abraham'. The English keeps 'bless themselves' without the prayer."
+    },
+    {
+     "anchor": "radak:22:18:2",
+     "relation": "follows",
+     "summary": "Radak takes עֵקֶב as שָׂכָר, reward, which comes at the end as the heel comes at the end of the body. He agrees with Ibn Ezra, and the English follows."
+    },
+    {
+     "anchor": "radak:22:18:3",
+     "relation": "records",
+     "summary": "Radak takes 'what you obeyed in my voice' as covering this command and all that I told you. The English keeps 'my voice' in its full scope and does not narrow it to the Akedah."
+    },
+    {
+     "anchor": "sforno:22:18:1",
+     "relation": "records",
+     "summary": "Sforno: when all of them call on the name of the LORD and serve him as one, they bless themselves by Abraham's offspring and strive to resemble them. The English keeps the reflexive; Sforno's account of how it comes about is recorded."
+    },
+    {
+     "anchor": "sforno:22:18:2",
+     "relation": "follows",
+     "summary": "Sforno also takes עֵקֶב as reward, and adds that the reward of a commandment is a further commandment, namely that Abraham's offspring will teach the nations. The English follows the reading of עֵקֶב and not the addition."
+    },
+    {
+     "anchor": "onkelos:22:18:1",
+     "relation": "records",
+     "summary": "The Targum renders the verb as passive, 'they shall be blessed for your son's sake'. The English keeps the reflexive; the Targum's sense is recorded."
+    }
+   ],
+   "apparatus": [
+    "22:18.1 vowels: the WLC reads וְהִתְבָּרֲכ֣וּ; the base text reads וְהִתְבָּרְכ֣וּ. Both are hitpael, so the English is the same.",
+    "Open question: the hitpael may be reflexive ('bless themselves', kept) or passive ('be blessed', Onkelos)."
+   ],
+   "context": [
+    "The verb is a hitpael. Whether it is reflexive ('bless themselves', that is, use your offspring as the example in their blessings) or passive ('be blessed') is disputed; the commentators and the Targum divide, and the apparatus records both. The promise of 12:3 is worded with a different verb form."
+   ]
+  },
+  {
+   "ref": "22:19",
+   "english": "Abraham returned to his young men. They rose and went together to Beersheba, and Abraham lived in Beersheba.",
+   "literal": "and-returned Abraham to his-young-men and-rose and-went together to Beersheba and-lived Abraham in-Beersheba",
+   "tokens": [
+    {
+     "id": "22:19.1",
+     "gloss": "returned",
+     "sense": "Qal 3",
+     "note": "Qal wayyiqtol of שׁוּב, third person masculine singular, with the אֶל of the next word: 'return to'."
+    },
+    {
+     "id": "22:19.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "22:19.3",
+     "gloss": "to",
+     "sense": "1",
+     "note": "The preposition אֶל."
+    },
+    {
+     "id": "22:19.4",
+     "gloss": "his young men",
+     "sense": "2",
+     "note": "Plural construct with the 3rd masculine singular suffix. Sense 2: servants of the household."
+    },
+    {
+     "id": "22:19.5",
+     "gloss": "they rose",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol of קוּם, third person masculine plural: 'arise'. The verse states no plural subject; it is Abraham and his young men, and Isaac with Abraham as Radak and Ibn Ezra take it."
+    },
+    {
+     "id": "22:19.6",
+     "gloss": "and went",
+     "sense": "Qal I.1",
+     "note": "Qal wayyiqtol, third person masculine plural, of הָלַךְ."
+    },
+    {
+     "id": "22:19.7",
+     "gloss": "together",
+     "note": "The adverb יַחְדָּו: 'together'."
+    },
+    {
+     "id": "22:19.8",
+     "gloss": "to",
+     "sense": "9",
+     "note": "The preposition אֶל with a verb of motion: direction to."
+    },
+    {
+     "id": "22:19.9",
+     "gloss": "Beersheba",
+     "note": "The place name, written in two words."
+    },
+    {
+     "id": "22:19.10",
+     "gloss": "Beersheba",
+     "note": "The second word of the same name."
+    },
+    {
+     "id": "22:19.11",
+     "gloss": "and lived",
+     "sense": "Qal 3",
+     "note": "Qal wayyiqtol of יָשַׁב: 'dwell, have one's abode'. Rashi reads it as not a true settling, since Abraham lived in Hebron; the English keeps 'lived'."
+    },
+    {
+     "id": "22:19.12",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "22:19.13",
+     "gloss": "in Beersheba",
+     "note": "ב with the place name."
+    },
+    {
+     "id": "22:19.14",
+     "gloss": "Beersheba",
+     "note": "The second word of the name."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "22:19.1",
+      "22:19.2",
+      "22:19.3",
+      "22:19.4"
+     ],
+     "english": "Abraham returned to his young men",
+     "literal": "and-returned Abraham to-his-young-men: the wayyiqtol first, then the subject"
+    },
+    {
+     "tokens": [
+      "22:19.5",
+      "22:19.6",
+      "22:19.7",
+      "22:19.8",
+      "22:19.9",
+      "22:19.10"
+     ],
+     "english": "They rose and went together to Beersheba",
+     "literal": "and-rose and-went together to Beersheba: the plural subject is Abraham and his young men"
+    },
+    {
+     "tokens": [
+      "22:19.11",
+      "22:19.12",
+      "22:19.13",
+      "22:19.14"
+     ],
+     "english": "and Abraham lived in Beersheba",
+     "literal": "and-lived Abraham in-Beersheba"
+    }
+   ],
+   "grammar": [
+    "Four wayyiqtol verbs run in sequence (וַיָּשָׁב, וַיָּקֻמוּ, וַיֵּלְכוּ, וַיֵּשֶׁב): the narrative past of the English.",
+    "The two plural verbs (וַיָּקֻמוּ וַיֵּלְכוּ) have no stated subject. They follow the singular וַיָּשָׁב אַבְרָהָם, so the company is Abraham and his young men; Radak and Ibn Ezra include Isaac, who is in Abraham's keeping. יַחְדָּו, 'together', marks one company.",
+    "Isaac is not named in this verse. The English adds nothing; see the commentary on Ibn Ezra's reading.",
+    "A petuḥah (פ) follows this verse in the Masoretic text: a section ends here."
+   ],
+   "note": "The English names only Abraham and his young men. Ibn Ezra's comment on the silence about Isaac is recorded in the commentary, not in the English.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:22:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra notes that the verse does not mention Isaac, because he was in Abraham's keeping; whoever says that Abraham slaughtered him, left him, and he afterwards came back to life, says the opposite of the verse. The English names only Abraham and his young men, and says nothing of Isaac, as the verse does not."
+    },
+    {
+     "anchor": "radak:22:19:1",
+     "relation": "follows",
+     "summary": "Radak: there is no need to say that Isaac was with him; Abraham is named as the main person. The English follows: Abraham and his young men."
+    },
+    {
+     "anchor": "radak:22:19:2",
+     "relation": "not-applicable",
+     "summary": "Radak: the verse does not say how long he stayed in Beersheba, because Sarah died in Hebron. The English adds no length of time."
+    },
+    {
+     "anchor": "rashi:22:19:1",
+     "relation": "declines",
+     "summary": "Rashi: 'and lived' is not a real settling, since Abraham was living in Hebron: twelve years before the binding of Isaac he left Beersheba for Hebron; 'Abraham sojourned in the land of the Philistines many days' (21:34) means more days than the first ones at Hebron, twenty-six years in all. The English keeps 'lived', as the verb means; Rashi's chronology is not in the English."
+    }
+   ],
+   "context": [
+    "Beersheba is named in 21:31 as a place in the south of the land, the name explained there by the well and the oath."
+   ]
+  },
+  {
+   "ref": "22:20",
+   "english": "After these things, it happened that it was told to Abraham, saying, \"Look, Milcah, she too, has borne sons to Nahor, your brother.\"",
+   "literal": "and-it-happened after the-things the-these and-it-was-told to-Abraham saying look she-bore Milcah too she sons to-Nahor your-brother",
+   "tokens": [
+    {
+     "id": "22:20.1",
+     "gloss": "it happened",
+     "sense": "Qal I.2.a.(1)",
+     "note": "Qal wayyiqtol of הָיָה: 'and it came to pass'. It opens a new episode after the Akedah."
+    },
+    {
+     "id": "22:20.2",
+     "gloss": "after",
+     "sense": "2.b",
+     "note": "Preposition: 'after'."
+    },
+    {
+     "id": "22:20.3",
+     "gloss": "these things",
+     "sense": "IV",
+     "note": "The plural 'matters, affairs', with the demonstrative that follows."
+    },
+    {
+     "id": "22:20.4",
+     "gloss": "these",
+     "sense": "c",
+     "note": "The demonstrative with the article, after a noun with the article."
+    },
+    {
+     "id": "22:20.5",
+     "gloss": "it was told",
+     "sense": "Hoph",
+     "note": "Hofal wayyiqtol of נָגַד: 'it was told'. The agent is not named in the verse."
+    },
+    {
+     "id": "22:20.6",
+     "gloss": "to Abraham"
+    },
+    {
+     "id": "22:20.7",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "Infinitive construct of אָמַר with ל: it introduces the words that follow."
+    },
+    {
+     "id": "22:20.8",
+     "gloss": "look",
+     "note": "The particle הִנֵּה: calls attention to the news."
+    },
+    {
+     "id": "22:20.9",
+     "gloss": "has borne",
+     "sense": "Qal 1",
+     "note": "Qal perfect, third person feminine singular, of יָלַד: 'bear'. Milcah is the subject."
+    },
+    {
+     "id": "22:20.10",
+     "gloss": "Milcah"
+    },
+    {
+     "id": "22:20.11",
+     "gloss": "too",
+     "note": "The particle גַּם: 'also'."
+    },
+    {
+     "id": "22:20.12",
+     "gloss": "she",
+     "sense": "2",
+     "note": "The pronoun resumes the subject 'Milcah' with emphasis."
+    },
+    {
+     "id": "22:20.13",
+     "gloss": "sons",
+     "sense": "1",
+     "note": "Plural of בֵּן: sons."
+    },
+    {
+     "id": "22:20.14",
+     "gloss": "to Nahor"
+    },
+    {
+     "id": "22:20.15",
+     "gloss": "your brother",
+     "sense": "1",
+     "note": "The noun אָח with the 2nd masculine singular suffix: Nahor is Abraham's brother."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "22:20.1",
+      "22:20.2",
+      "22:20.3",
+      "22:20.4"
+     ],
+     "english": "After these things, it happened",
+     "literal": "and-it-happened after the-things the-these: 'after these things' comes before 'it happened' in English"
+    },
+    {
+     "tokens": [
+      "22:20.5",
+      "22:20.6"
+     ],
+     "english": "that it was told to Abraham",
+     "literal": "and-it-was-told to-Abraham: the passive has no named agent"
+    },
+    {
+     "tokens": [
+      "22:20.7"
+     ],
+     "english": "saying",
+     "literal": "saying: the infinitive introduces the words"
+    },
+    {
+     "tokens": [
+      "22:20.8",
+      "22:20.9",
+      "22:20.10",
+      "22:20.11",
+      "22:20.12",
+      "22:20.13",
+      "22:20.14",
+      "22:20.15"
+     ],
+     "english": "Look, Milcah, she too, has borne sons to Nahor, your brother",
+     "literal": "look she-bore Milcah too she sons to-Nahor your-brother"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי with אַחֲרֵי opens a new episode: 'after these things', the Akedah being the last thing narrated.",
+    "The passive וַיֻּגַּד names no agent. The English keeps 'it was told' and does not say who told Abraham.",
+    "The speech after לֵאמֹר is the news that was brought, not the angel's speech of 22:16–18, which ended at 22:18.",
+    "גַּם הִוא resumes 'Milcah' with emphasis: 'she too'."
+   ],
+   "note": "The English takes 'it was told' without an agent. Rashi's identification of the one who told Abraham is not the plain sense.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:22:20:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra says the verse mentions Milcah's children 'to mention Rebekah's lineage' (להזכיר יחס רבקה). That is the reason for the passage, not a reading of the words. The English adds nothing and does not state a reason."
+    },
+    {
+     "anchor": "ramban:22:20:1",
+     "relation": "records",
+     "summary": "Ramban: the news is good news to Abraham, since his brother Nahor has many sons; the verse suggests Abraham knew none of them until now. He reads 'she too' as like Sarah, who bore late. The English keeps 'too' without naming Sarah."
+    },
+    {
+     "anchor": "radak:22:20:1",
+     "relation": "not-applicable",
+     "summary": "Radak: 'after these things' is after the Akedah of Isaac. A time reference that the English keeps as 'after these things'."
+    },
+    {
+     "anchor": "radak:22:20:2",
+     "relation": "records",
+     "summary": "Radak reads 'she too' as 'as Sarah bore to you': Milcah had stopped bearing but was not barren. The story is set down for Abraham's honour and to introduce Rebekah's lineage. The English keeps 'too' without the comparison."
+    },
+    {
+     "anchor": "rashi:22:20:1",
+     "relation": "declines",
+     "summary": "Rashi tells of Abraham pondering on his return from Moriah, and of the Holy One who told him of Rebekah's birth. The Hebrew gives no agent for the passive; the English does not name one, and Rashi's identification is not the plain sense."
+    },
+    {
+     "anchor": "rashi:22:20:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: 'these things' are the thoughts that arose through the Akedah. A homily, not a reading of the words."
+    },
+    {
+     "anchor": "rashi:22:20:3",
+     "relation": "declines",
+     "summary": "Rashi reads 'she too' as Milcah matching her family to Abraham's twelve tribes: eight sons of the principal wife and four of the concubine. That is midrash, not the plain sense; the English takes 'too' as the words give it."
+    },
+    {
+     "anchor": "sforno:22:20:1",
+     "relation": "records",
+     "summary": "Sforno reads 'look' (הִנֵּה) as 'you already know' that Milcah bore sons. The English keeps 'look' as a call to attention; his reading is recorded."
+    },
+    {
+     "anchor": "sforno:22:20:2",
+     "relation": "records",
+     "summary": "Sforno reads 'too' as 'besides the concubine', who is named in 22:24. The English keeps 'too'; his sense is recorded."
+    }
+   ],
+   "context": [
+    "Nahor and Milcah are introduced in 11:29, and Milcah is named again in 24:15 as the mother of Bethuel, Rebekah's father."
+   ]
+  },
+  {
+   "ref": "22:21",
+   "english": "Uz his firstborn, and Buz his brother, and Kemuel the father of Aram.",
+   "literal": "[object] Uz his-firstborn and-[object] Buz his-brother and-[object] Kemuel father-of Aram",
+   "tokens": [
+    {
+     "id": "22:21.1",
+     "gloss": "[object marker]",
+     "note": "The object marker before the first name. The verse has no finite verb: the names are a list."
+    },
+    {
+     "id": "22:21.2",
+     "gloss": "Uz",
+     "sense": "1.b",
+     "note": "The eldest son of Nahor."
+    },
+    {
+     "id": "22:21.3",
+     "gloss": "his firstborn",
+     "sense": "1",
+     "note": "Construct of בְּכוֹר with the 3rd masculine singular suffix: 'his firstborn', the eldest son of Nahor."
+    },
+    {
+     "id": "22:21.4",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker."
+    },
+    {
+     "id": "22:21.5",
+     "gloss": "Buz",
+     "sense": "1",
+     "note": "The second son of Nahor."
+    },
+    {
+     "id": "22:21.6",
+     "gloss": "his brother",
+     "sense": "1",
+     "note": "'His brother' refers to Uz (3rd masculine singular suffix)."
+    },
+    {
+     "id": "22:21.7",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker."
+    },
+    {
+     "id": "22:21.8",
+     "gloss": "Kemuel",
+     "sense": "1",
+     "note": "The son of Nahor named Kemuel."
+    },
+    {
+     "id": "22:21.9",
+     "gloss": "the father of",
+     "sense": "1",
+     "note": "Construct of אָב: 'father of' an individual, here of Aram."
+    },
+    {
+     "id": "22:21.10",
+     "gloss": "Aram",
+     "sense": "2",
+     "note": "The grandson of Nahor, son of Kemuel."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "22:21.1",
+      "22:21.2",
+      "22:21.3"
+     ],
+     "english": "Uz his firstborn",
+     "literal": "[object] Uz his-firstborn"
+    },
+    {
+     "tokens": [
+      "22:21.4",
+      "22:21.5",
+      "22:21.6"
+     ],
+     "english": "and Buz his brother",
+     "literal": "and-[object] Buz his-brother"
+    },
+    {
+     "tokens": [
+      "22:21.7",
+      "22:21.8",
+      "22:21.9",
+      "22:21.10"
+     ],
+     "english": "and Kemuel the father of Aram",
+     "literal": "and-[object] Kemuel father-of Aram"
+    }
+   ],
+   "grammar": [
+    "The verse has no verb. Each name follows the object marker אֵת, and the names are the sons of Nahor, the list continuing the sentence of 22:20.",
+    "בְּכוֹר is 'firstborn': Uz is the eldest of Nahor's sons, and the 'his' refers to Nahor.",
+    "The English keeps the apposition 'the father of Aram' as the Hebrew has it, with Aram the grandson."
+   ],
+   "note": "The lexicon glosses Kemuel as 'son of Nahor' and Aram as 'grandson of Nahor'. The Hebrew says only 'Kemuel the father of Aram'; Aram as Kemuel's son follows from the lexicon. Radak's suggestion that 'father of Aram' names a notable man is recorded; Ramban's suggestion of another Kemuel is recorded at 22:23.",
+   "commentary": [
+    {
+     "anchor": "radak:22:21:1",
+     "relation": "not-applicable",
+     "summary": "Radak cross-refers to his explanation of 'his firstborn' in the table of nations (10:15). A cross-reference, not a point of sense."
+    },
+    {
+     "anchor": "radak:22:21:2",
+     "relation": "records",
+     "summary": "Radak: perhaps Aram was a man of renown, so the father is named after him, as in his other examples of a father named for a notable descendant. The English gives 'the father of Aram' as the Hebrew has it; his suggestion is recorded."
+    }
+   ],
+   "context": [
+    "Aram is the grandson of Nahor. The text names the region Aram-naharaim (24:10) and the Arameans are a later people, but the text does not say they descend from this Aram; the commentators differ (see the commentary)."
+   ]
+  },
+  {
+   "ref": "22:22",
+   "english": "Kesed, Hazo, Pildash, Jidlaph, and Bethuel.",
+   "literal": "and-[object] Kesed and-[object] Hazo and-[object] Pildash and-[object] Jidlaph and-[object] Bethuel",
+   "tokens": [
+    {
+     "id": "22:22.1",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker: a list of names."
+    },
+    {
+     "id": "22:22.2",
+     "gloss": "Kesed",
+     "note": "A personal name with no sense listed."
+    },
+    {
+     "id": "22:22.3",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker."
+    },
+    {
+     "id": "22:22.4",
+     "gloss": "Hazo",
+     "note": "A personal name."
+    },
+    {
+     "id": "22:22.5",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker."
+    },
+    {
+     "id": "22:22.6",
+     "gloss": "Pildash",
+     "note": "A personal name."
+    },
+    {
+     "id": "22:22.7",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker."
+    },
+    {
+     "id": "22:22.8",
+     "gloss": "Jidlaph",
+     "note": "A personal name."
+    },
+    {
+     "id": "22:22.9",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker."
+    },
+    {
+     "id": "22:22.10",
+     "gloss": "Bethuel",
+     "note": "The father of Rebekah (22:23)."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "22:22.1",
+      "22:22.2"
+     ],
+     "english": "Kesed",
+     "literal": "and-[object] Kesed"
+    },
+    {
+     "tokens": [
+      "22:22.3",
+      "22:22.4"
+     ],
+     "english": "Hazo",
+     "literal": "and-[object] Hazo"
+    },
+    {
+     "tokens": [
+      "22:22.5",
+      "22:22.6"
+     ],
+     "english": "Pildash",
+     "literal": "and-[object] Pildash"
+    },
+    {
+     "tokens": [
+      "22:22.7",
+      "22:22.8"
+     ],
+     "english": "Jidlaph",
+     "literal": "and-[object] Jidlaph"
+    },
+    {
+     "tokens": [
+      "22:22.9",
+      "22:22.10"
+     ],
+     "english": "and Bethuel",
+     "literal": "and-[object] Bethuel"
+    }
+   ],
+   "grammar": [
+    "A list of names, each with the object marker, as in 22:21.",
+    "With 22:21 this list gives the eight sons of Milcah named in 22:23: three in 22:21 and five here, Bethuel the last.",
+    "The verse has no verb; the list continues the sentence of 22:20."
+   ],
+   "note": "Kesed is given as the transliteration 'Kesed', with no sense listed in the lexicon.",
+   "commentary": [
+    {
+     "anchor": "radak:22:22:1",
+     "relation": "not-applicable",
+     "summary": "Radak says Kesed is the ancestor of the nation called Kasdim (Chaldeans), as he wrote earlier. A link to a later people; the English keeps the name and adds nothing."
+    }
+   ],
+   "context": [
+    "The Chaldeans (Kasdim) are named in 11:28 as the people of Ur. Radak's link between Kesed and them is the commentator's claim, not stated in the text."
+   ]
+  },
+  {
+   "ref": "22:23",
+   "english": "And Bethuel fathered Rebekah; these eight Milcah bore to Nahor, Abraham's brother.",
+   "literal": "and-Bethuel fathered [object] Rebekah eight these bore Milcah to-Nahor brother-of Abraham",
+   "tokens": [
+    {
+     "id": "22:23.1",
+     "gloss": "and Bethuel",
+     "note": "Conjunction and the name Bethuel."
+    },
+    {
+     "id": "22:23.2",
+     "gloss": "fathered",
+     "sense": "Qal 2",
+     "note": "Qal perfect, third person masculine singular, of יָלַד: 'beget'. The subject is a man."
+    },
+    {
+     "id": "22:23.3",
+     "gloss": "[object marker]",
+     "note": "Object marker before 'Rebekah'."
+    },
+    {
+     "id": "22:23.4",
+     "gloss": "Rebekah",
+     "note": "The woman named as Bethuel's daughter."
+    },
+    {
+     "id": "22:23.5",
+     "gloss": "eight",
+     "note": "The cardinal number 'eight', with the demonstrative after it."
+    },
+    {
+     "id": "22:23.6",
+     "gloss": "these",
+     "sense": "b",
+     "note": "The demonstrative 'these' after the number."
+    },
+    {
+     "id": "22:23.7",
+     "gloss": "bore",
+     "sense": "Qal 1",
+     "note": "Qal perfect, third person feminine singular, of יָלַד. Milcah is the subject."
+    },
+    {
+     "id": "22:23.8",
+     "gloss": "Milcah"
+    },
+    {
+     "id": "22:23.9",
+     "gloss": "to Nahor"
+    },
+    {
+     "id": "22:23.10",
+     "gloss": "brother of",
+     "sense": "1",
+     "note": "Construct of אָח: Nahor is Abraham's brother."
+    },
+    {
+     "id": "22:23.11",
+     "gloss": "Abraham"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "22:23.1",
+      "22:23.2"
+     ],
+     "english": "And Bethuel fathered",
+     "literal": "and-Bethuel fathered"
+    },
+    {
+     "tokens": [
+      "22:23.3",
+      "22:23.4"
+     ],
+     "english": "Rebekah",
+     "literal": "[object] Rebekah"
+    },
+    {
+     "tokens": [
+      "22:23.5",
+      "22:23.6",
+      "22:23.7",
+      "22:23.8"
+     ],
+     "english": "these eight Milcah bore",
+     "literal": "eight these bore Milcah: the number comes first in Hebrew"
+    },
+    {
+     "tokens": [
+      "22:23.9",
+      "22:23.10",
+      "22:23.11"
+     ],
+     "english": "to Nahor, Abraham's brother",
+     "literal": "to-Nahor brother-of Abraham"
+    }
+   ],
+   "grammar": [
+    "The verse sums up the family: 'these eight' are the sons of Milcah listed in 22:21–22.",
+    "Bethuel fathers Rebekah, the subject of the next part of the story; the verse does not give further children of Bethuel.",
+    "The construct 'brother of Abraham' identifies Nahor by his relation to Abraham."
+   ],
+   "note": "The English moves the number after the demonstrative: Hebrew 'eight these' is 'these eight'.",
+   "commentary": [
+    {
+     "anchor": "rashi:22:23:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: all these lists of descent are written only for this verse, which names Rebekah. A reason for the genealogy, not a reading of its words."
+    },
+    {
+     "anchor": "ramban:22:23:1",
+     "relation": "records",
+     "summary": "Ramban: the verse does not name Laban, though he may be older than Rebekah, because the subject is Rebekah. He reads 'father of Aram' as identifying Kemuel, and suggests that another Kemuel may have lived in that generation. The English gives the names as the Hebrew does."
+    },
+    {
+     "anchor": "radak:22:23:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the text does not mention Laban because the story is about Rebekah."
+    },
+    {
+     "anchor": "sforno:22:23:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: the report is that Bethuel, of the principal wife's sons, fathered Rebekah, so that a wife would be found in his father's house. A reason for the news, not a reading of the words."
+    }
+   ]
+  },
+  {
+   "ref": "22:24",
+   "english": "And his concubine, whose name was Reumah, she too bore Tebah, Gaham, Tahash, and Maacah.",
+   "literal": "and-his-concubine and-her-name Reumah and-bore also she [object] Tebah and-[object] Gaham and-[object] Tahash and-[object] Maacah",
+   "tokens": [
+    {
+     "id": "22:24.1",
+     "gloss": "and his concubine",
+     "sense": "1",
+     "note": "The pilegesh, a secondary wife, with the 3rd masculine singular suffix."
+    },
+    {
+     "id": "22:24.2",
+     "gloss": "and her name",
+     "sense": "2.a",
+     "note": "The noun 'name' with the 3rd feminine singular suffix: the concubine's name."
+    },
+    {
+     "id": "22:24.3",
+     "gloss": "Reumah",
+     "note": "The name of the concubine."
+    },
+    {
+     "id": "22:24.4",
+     "gloss": "and bore",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol, third person feminine singular, of יָלַד. The concubine is the subject."
+    },
+    {
+     "id": "22:24.5",
+     "gloss": "also",
+     "note": "The particle גַּם: 'also'."
+    },
+    {
+     "id": "22:24.6",
+     "gloss": "she",
+     "sense": "2",
+     "note": "The pronoun resumes the concubine as subject, with emphasis: 'she too'."
+    },
+    {
+     "id": "22:24.7",
+     "gloss": "[object marker]",
+     "note": "Object marker before the first name."
+    },
+    {
+     "id": "22:24.8",
+     "gloss": "Tebah",
+     "note": "A personal name."
+    },
+    {
+     "id": "22:24.9",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker."
+    },
+    {
+     "id": "22:24.10",
+     "gloss": "Gaham",
+     "note": "A personal name."
+    },
+    {
+     "id": "22:24.11",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker."
+    },
+    {
+     "id": "22:24.12",
+     "gloss": "Tahash",
+     "note": "A personal name."
+    },
+    {
+     "id": "22:24.13",
+     "gloss": "and [object marker]",
+     "note": "Conjunction and object marker."
+    },
+    {
+     "id": "22:24.14",
+     "gloss": "Maacah",
+     "note": "A personal name."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "22:24.1",
+      "22:24.2",
+      "22:24.3"
+     ],
+     "english": "And his concubine, whose name was Reumah",
+     "literal": "and-his-concubine and-her-name Reumah"
+    },
+    {
+     "tokens": [
+      "22:24.4",
+      "22:24.5",
+      "22:24.6"
+     ],
+     "english": "she too bore",
+     "literal": "and-bore also she"
+    },
+    {
+     "tokens": [
+      "22:24.7",
+      "22:24.8"
+     ],
+     "english": "Tebah",
+     "literal": "[object] Tebah"
+    },
+    {
+     "tokens": [
+      "22:24.9",
+      "22:24.10"
+     ],
+     "english": "Gaham",
+     "literal": "and-[object] Gaham"
+    },
+    {
+     "tokens": [
+      "22:24.11",
+      "22:24.12"
+     ],
+     "english": "Tahash",
+     "literal": "and-[object] Tahash"
+    },
+    {
+     "tokens": [
+      "22:24.13",
+      "22:24.14"
+     ],
+     "english": "and Maacah",
+     "literal": "and-[object] Maacah"
+    }
+   ],
+   "grammar": [
+    "The concubine is the subject of 'bore' (וַתֵּלֶד). Her name comes first, as a parenthesis, before the verb.",
+    "גַּם הִוא: 'she too' resumes the subject with emphasis. Radak reads גַּם as standing for 'to him too', after the suffix in וּפִילַגְשׁוֹ.",
+    "The four names follow the object marker: the sons are named, not counted.",
+    "With the eight sons of Milcah (22:23) these make twelve sons of Nahor."
+   ],
+   "note": "The Hebrew pilegesh is a secondary wife, of lower standing than the principal wife; the English keeps the term as 'concubine'. Her sons are counted in the family here.",
+   "commentary": [
+    {
+     "anchor": "ramban:22:24:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: the verse records all the good news brought to Abraham about his brother's sons, and the whole of Nahor's line is fit to cling to Abraham's seed. A reason for the list, not a reading of the words."
+    },
+    {
+     "anchor": "radak:22:24:1",
+     "relation": "follows",
+     "summary": "Radak explains 'she bore to him, also she': after 'and his concubine' with ו, the pronoun 'also' stands as if it said 'to him'. The English follows: 'she too bore'."
+    },
+    {
+     "anchor": "sforno:22:24:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: the messenger reports that the concubine too bore sons. The English reports the same without comment."
+    },
+    {
+     "anchor": "sforno:22:24:2",
+     "relation": "not-applicable",
+     "summary": "Sforno: Maacah too would suit Isaac if he does not choose Rebekah, so that he need not cling to the seed of Canaan. A purpose, not a reading of the words."
+    }
+   ],
+   "context": [
+    "A pilegesh was a secondary wife, of lower standing than the principal wife. The Hebrew names the status; the English keeps the term 'concubine'."
+   ]
+  }
+ ]
+}
