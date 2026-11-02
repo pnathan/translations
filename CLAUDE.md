@@ -28,8 +28,10 @@ docs/                   GitHub Pages root (deployed from main)
 ## Model stages
 
 - Run from the repository root after `go build -o bin/tr ./cmd/tr`.
-- Translation and morphology: Haiku subagents. Review: Opus subagents. One
-  agent per unit; each runs `./bin/tr check WORK UNIT` until it passes.
+- Translation and morphology: Haiku subagents (medium effort). Review:
+  Sonnet subagents (the owner's instruction: Sonnet and Haiku wherever
+  possible). One agent per unit; each runs `./bin/tr check WORK UNIT` until
+  it passes. Give each agent its own scratch directory.
 - A model writes only its own stage file. It never edits the corpus, the
   packs or another stage's file. The review writes patches, never a new
   translation.
@@ -48,6 +50,9 @@ docs/                   GitHub Pages root (deployed from main)
 4. Normative commentators (marked in `work.json`) decide the plain sense;
    the check requires a ruling on every normative comment, and the review a
    verdict on each.
+   They decide between readings of the words; the English is always the
+   plain translation, and a commentator's explanation of what happened goes
+   in the notes. Genesis from chapter 18: Ibn Ezra alone is normative.
 5. No NFC normalization of stored Hebrew.
 
 ## Adding a work
