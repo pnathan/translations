@@ -1,0 +1,296 @@
+{
+ "unit": "chayei-sarah-04",
+ "model": "sonnet",
+ "summary": "The unit is sound in its word-level work. Two commentary summaries of Ibn Ezra were wrong (24:1 on the beth of Bakkol, 24:2 on who stands under whose authority), and the 24:6 ruling declined a derivation that by Ibn Ezra's own stress rule agrees with the English. 24:5 lacked the servant's opening quotation mark and dropped the infinitive absolute. The 24:2 context note put the hand under the wrong person's thigh. The 24:7 wish ('may he send') follows Ibn Ezra and is kept, with the plain future recorded.",
+ "patches": [
+  {
+   "ref": "24:1",
+   "path": "commentary:ibn-ezra:24:1:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: 'blessed in all' means in length of days, wealth, honour and sons, which he calls all of man's desire. He adds that the midrash which makes 'Bakkol' the name of a daughter of Abraham would have to add a further ב, a beth of service ('with Bakkol'), which the text lacks. The English 'in all things' takes the preposition and the word as they stand; his list of what the blessing was stays in the note."
+   },
+   "severity": "error",
+   "reason": "The summary made the ב of בַּכֹּל a beth that serves as 'in'. Ibn Ezra says the opposite: a name Bakkol would need an added serving beth, so he sets the midrash aside."
+  },
+  {
+   "ref": "24:1",
+   "path": "grammar",
+   "value": [
+    "The clause וְאַבְרָהָם זָקֵן בָּא בַּיָּמִים has a noun subject and a qatal, so it is background to the main clause, which is the blessing.",
+    "The idiom בָּא בַּיָּמִים, 'come in the days', means advanced in years; the English keeps it as one phrase and gives no age.",
+    "וַיהוָה בֵּרַךְ אֶת־אַבְרָהָם repeats the background pattern with the divine name as subject; 'had blessed' is that pluperfect.",
+    "The verse ends with בַּכֹּל, 'in all' (כֹּל with the article and ב); what the blessing consisted of is Ibn Ezra's gloss and stays in the commentary."
+   ],
+   "severity": "error",
+   "reason": "The last note said this is 'the one place in Genesis 24 where the blessing has a scope'; that is not true (24:35 speaks of the blessing again)."
+  },
+  {
+   "ref": "24:2",
+   "path": "commentary:ibn-ezra:24:2:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: some say the gesture alludes to circumcision; he answers that then the man would have sworn by the covenant of circumcision and not by the Name. His own view is that in those days it was the custom for a man to put his hand under the thigh of the one whose authority he was under: 'if you are under my authority, put your hand under my thigh'. The master sits with his thigh over the hand, as in 'here my hand is under your authority, to do your will'. He adds that the custom still exists in the land of Hodu. The English states the gesture only."
+   },
+   "severity": "error",
+   "reason": "The summary had the hand and the authority the wrong way round (the hand of the one in authority's power goes under the master's thigh) and omitted the posture."
+  },
+  {
+   "ref": "24:2",
+   "path": "grammar",
+   "value": [
+    "The main clause is a wayyiqtol, 'and said'; the speech follows it directly with no second introduction until the servant speaks in 24:5.",
+    "שִׂים נָא יָדְךָ תַּחַת יְרֵכִי is an imperative with the particle נָא, 'please'; the object is the hand, and its place is given by תַּחַת.",
+    "The servant is described by a construct chain, 'the elder of his household', and one participle with its object, 'who ruled over all that he had'; the English keeps that order.",
+    "The gesture itself is the thing to be read: the hand is placed under the thigh of the one who speaks. The meanings given to it are the commentators' and are kept out of the English."
+   ],
+   "severity": "style",
+   "reason": "The note spoke of two participial or relative phrases; there is one participle."
+  },
+  {
+   "ref": "24:2",
+   "path": "context",
+   "value": [
+    "The hand under the thigh (24:2) is a gesture with a plain description: the servant is to put his hand under Abraham's thigh, the thigh of the one who speaks. The same gesture is made by Joseph for Jacob before a promise about Jacob's burial (47:29). The meaning is not stated and is read variously. Ibn Ezra takes it as a sign that the one who places his hand is under the authority of the other, and Radak as a custom for confirming a charge; Rashi takes it as an allusion to circumcision, as the hand rests on something holy. Some also link it to the fact that descendants are said to 'come out of the thigh' (46:26), taking the thigh as the seat of procreation; that is a suggestion, not settled. The text does not choose among these, and the English does not choose."
+   ],
+   "severity": "error",
+   "reason": "The old note said the hand goes under the thigh of the one addressed (the Hebrew has 'my thigh', Abraham's) and gave Radak and Ibn Ezra's views swapped with Rashi's. Rewritten, with the parallel in 47:29, where the Hebrew has the same words."
+  },
+  {
+   "ref": "24:4",
+   "path": "token:24:4.1.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "Gloss 'but' is not a sense of the entry; the sense '1' ('that') contradicts it. The note already says 'that' is not used; the sense is removed."
+  },
+  {
+   "ref": "24:4",
+   "path": "commentary:ibn-ezra:24:4:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: 'my land' is Haran, where he lived. The English 'my country' does not name a place."
+   },
+   "severity": "style",
+   "reason": "The summary said only 'a brief clause about the place'; his clause is 'where he dwelt'."
+  },
+  {
+   "ref": "24:4",
+   "path": "context",
+   "value": [
+    "'My country' and 'my birthplace' (24:4, 24:7): Ibn Ezra and Rashi name Haran as the place where Abraham's family settled and Ur of the Chaldeans as the birthplace, though Radak takes 'my country' to be Aram-naharaim. Ramban objects to Ur and takes the two phrases together as the one land of Abraham's kin, where the servant in fact went. The text of this unit names neither place, and the English does not name them."
+   ],
+   "severity": "style",
+   "reason": "Added Ramban's dissent, which a reader needs to see the dispute; Rashi's naming placed accurately."
+  },
+  {
+   "ref": "24:5",
+   "path": "english",
+   "value": "The servant said to him, \"Perhaps the woman will not be willing to follow me to this land. Shall I indeed bring back your son to the land from which you came?\"",
+   "severity": "error",
+   "reason": "The servant's speech has no opening quotation mark (the closing mark is present). 'Indeed' carries the infinitive absolute of הֶהָשֵׁב אָשִׁיב, which the English dropped."
+  },
+  {
+   "ref": "24:5",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:5.1",
+      "24:5.2",
+      "24:5.3"
+     ],
+     "english": "The servant said to him,",
+     "literal": "and-said to-him the-servant"
+    },
+    {
+     "tokens": [
+      "24:5.4",
+      "24:5.5",
+      "24:5.6",
+      "24:5.7"
+     ],
+     "english": "\"Perhaps the woman will not be willing",
+     "literal": "perhaps not will-be-willing the-woman"
+    },
+    {
+     "tokens": [
+      "24:5.8",
+      "24:5.9",
+      "24:5.10",
+      "24:5.11",
+      "24:5.12"
+     ],
+     "english": "to follow me to this land.",
+     "literal": "to-go after-me to the-land this"
+    },
+    {
+     "tokens": [
+      "24:5.13",
+      "24:5.14"
+     ],
+     "english": "Shall I indeed bring back",
+     "literal": "bring-back I-will-bring-back"
+    },
+    {
+     "tokens": [
+      "24:5.15"
+     ],
+     "english": "-",
+     "literal": "ACC"
+    },
+    {
+     "tokens": [
+      "24:5.16",
+      "24:5.17",
+      "24:5.18"
+     ],
+     "english": "your son to the land",
+     "literal": "your-son to the-land"
+    },
+    {
+     "tokens": [
+      "24:5.19",
+      "24:5.20",
+      "24:5.21"
+     ],
+     "english": "from which you came?\"",
+     "literal": "that you-went-out from-there"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English changed."
+  },
+  {
+   "ref": "24:5",
+   "path": "token:24:5.13.gloss",
+   "value": "bring back indeed (emphatic)",
+   "severity": "style",
+   "reason": "The infinitive absolute is now carried by 'indeed'."
+  },
+  {
+   "ref": "24:5",
+   "path": "note",
+   "value": "The English gives 'shall I indeed bring back' for the emphatic question: 'indeed' carries the infinitive absolute. Ibn Ezra's comment on the pointing of the he is not a reading of the words and is kept in the commentary.",
+   "severity": "style",
+   "reason": "Note brought in line with the English."
+  },
+  {
+   "ref": "24:6",
+   "path": "commentary:ibn-ezra:24:6:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: every הִשָּׁמֶר stressed on the penultimate syllable comes from שְׁמִירָה (keeping); one stressed on the last comes from שְׁמָרִים (lees, dregs), as in 'be still and quiet' (Isaiah 7:4), like 'he is at ease on his lees' (Jeremiah 48:11). The form here has its accent on the shin, the penultimate syllable, so by his own rule it is from שׁמר 'keep', and the English 'take heed' agrees."
+   },
+   "severity": "error",
+   "reason": "The translator said Ibn Ezra's derivation was declined and said the form means 'be quiet'. His rule applies only to forms with last-syllable stress; this one is accented on the penult, so he reads it as 'guard yourself', as the English does."
+  },
+  {
+   "ref": "24:6",
+   "path": "note",
+   "value": "The English keeps the servant as 'you' throughout. The root is שׁמר, 'keep'; the nifal sense 'be on your guard' is the one the warning requires. Ibn Ezra's rule on the stress of הִשָּׁמֶר puts this form, stressed on the penult, under שְׁמִירָה, so it agrees with the English.",
+   "severity": "error",
+   "reason": "The old note said his derivation was not followed; it does not apply to this form."
+  },
+  {
+   "ref": "24:7",
+   "path": "commentary:ibn-ezra:24:7:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: 'he will send his angel' is a prayer, not a prophecy; if it were prophecy he would not go on to say 'if the woman will not be willing' (24:8). The English reads the yiqtol as a wish, 'may he send'; the plain future is the other reading and is recorded in the note and the context."
+   },
+   "severity": "error",
+   "reason": "The comment he cites is in 24:8, not 24:5."
+  },
+  {
+   "ref": "24:7",
+   "path": "note",
+   "value": "The epithet 'God of heaven' stands alone here, unlike 24:3, where 'and God of earth' is added. Rashi explains the difference; the English keeps the words as they stand. The yiqtol הוּא יִשְׁלַח can be read as a plain future, 'he will send his angel', or as a wish, 'may he send his angel'. The English takes the wish with Ibn Ezra (a prayer, since the woman may refuse in 24:8) and Sforno; the plain future is the other reading and is recorded in the context.",
+   "severity": "question",
+   "reason": "The flagged reading: it is within what the yiqtol allows and Ibn Ezra rules it, so the English stands; the plain future is now recorded."
+  },
+  {
+   "ref": "24:7",
+   "path": "context",
+   "value": [
+    "'My father's house' and 'the land of my birth' (24:7): Rashi names Haran and Ur of the Chaldeans; the text of this unit names neither.",
+    "'May he send his angel' (24:7): the verb is a yiqtol, which allows a plain future ('he will send his angel') or a wish. Ibn Ezra takes it as a prayer, because Abraham goes on to allow that the woman may be unwilling (24:8); Sforno also reads a wish. The plain future is the other reading; Abraham uses the same words when he tells the servant's story in 24:40."
+   ],
+   "severity": "question",
+   "reason": "Records the reading the English does not give."
+  },
+  {
+   "ref": "24:8",
+   "path": "commentary:ibn-ezra:24:8:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra: 'you shall not bring him back there' means that Isaac is to stay in the land of Israel; the reason for 'you shall not bring back' is Abraham, who is the principal. The English keeps the hifil with the servant as subject and Isaac as object."
+   },
+   "severity": "style",
+   "reason": "Ibn Ezra gives the point of the prohibition rather than a competing reading of the form, so 'records' rather than 'declines'; the old summary also turned 'on account of Abraham' into 'the negative serves Abraham'."
+  },
+  {
+   "ref": "24:8",
+   "path": "note",
+   "value": "The English gives the plain sense of the hifil: the servant is not to bring the son back. Ibn Ezra's remark (that Isaac is to stay in the land of Israel, for Abraham's sake) states what the prohibition secures and is recorded in the commentary. Rashi's reading of the release (a wife from the daughters of Aner, Eshkol and Mamre) is recorded and not followed.",
+   "severity": "style",
+   "reason": "The old note said Ibn Ezra's reading of the clause was not followed; he gives no different reading of the words."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:24:1:1",
+   "verdict": "consistent",
+   "comment": "'In all things' takes the words as they stand; the content of the blessing is kept out of the English."
+  },
+  {
+   "anchor": "ibn-ezra:24:2:1",
+   "verdict": "consistent",
+   "comment": "The English states the gesture only; his view of what it meant is in the notes and context."
+  },
+  {
+   "anchor": "ibn-ezra:24:3:1",
+   "verdict": "not-applicable",
+   "comment": "A reason for the epithets, not a reading of the words."
+  },
+  {
+   "anchor": "ibn-ezra:24:3:2",
+   "verdict": "consistent",
+   "comment": "'The Canaanites' is the collective."
+  },
+  {
+   "anchor": "ibn-ezra:24:4:1",
+   "verdict": "consistent",
+   "comment": "'My country' does not contradict Haran."
+  },
+  {
+   "anchor": "ibn-ezra:24:4:2",
+   "verdict": "consistent",
+   "comment": "'Birthplace' takes his sense."
+  },
+  {
+   "anchor": "ibn-ezra:24:5:1",
+   "verdict": "consistent",
+   "comment": "'Perhaps' is a sense he allows."
+  },
+  {
+   "anchor": "ibn-ezra:24:5:2",
+   "verdict": "not-applicable",
+   "comment": "A note on the pointing of the he."
+  },
+  {
+   "anchor": "ibn-ezra:24:6:1",
+   "verdict": "consistent",
+   "comment": "By his rule on stress the form is from 'keep'; the English agrees."
+  },
+  {
+   "anchor": "ibn-ezra:24:7:1",
+   "verdict": "consistent",
+   "comment": "The English 'may he send' follows his reading of the yiqtol as a prayer; the plain future is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:24:8:1",
+   "verdict": "consistent",
+   "comment": "The English forbids the servant to bring Isaac back there, which is what he says it secures."
+  }
+ ]
+}
