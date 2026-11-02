@@ -1,0 +1,789 @@
+{
+ "unit": "vayera-16",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "21:30",
+   "english": "He said, \"You are to take seven ewe-lambs from my hand, so that it may be a witness for me that I dug this well.\"",
+   "literal": "and-said that [object] seven ewe-lambs you-will-take from-my-hand in-order-that she-will-be to-me for-a-witness that I-dug [object] the-well this",
+   "tokens": [
+    {
+     "id": "21:30.1",
+     "gloss": "and he said",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol, third masculine singular, of אָמַר. The verse names no speaker. The answer to Abimelech's question in 21:29 is Abraham's, so he is the speaker."
+    },
+    {
+     "id": "21:30.2",
+     "gloss": "that (opening the speech)",
+     "sense": "1",
+     "note": "כִּי after a verb of saying opens the speech. It has no English counterpart here, so the English opens with the quotation mark."
+    },
+    {
+     "id": "21:30.3",
+     "gloss": "[object marker]",
+     "note": "The object marker before the fronted object. The seven ewe-lambs are named before the verb."
+    },
+    {
+     "id": "21:30.4",
+     "gloss": "seven",
+     "note": "שֶׁבַע, the numeral 'seven'. Numerals from three to ten take the form of the opposite gender from the noun they count: שֶׁבַע, without the final ה, is the form used with a feminine noun, and כְּבָשֹׂת is feminine. So the form is regular here. The pack labels it feminine and the lexicon lists the entry as masculine; both are labels for this one form."
+    },
+    {
+     "id": "21:30.5",
+     "gloss": "ewe-lambs",
+     "note": "כִּבְשָׂה, 'ewe-lamb' (a female lamb). Feminine plural, absolute."
+    },
+    {
+     "id": "21:30.6",
+     "gloss": "you will take",
+     "sense": "Qal 1",
+     "note": "Yiqtol, second masculine singular, of לָקַח. The addressee is Abimelech. The yiqtol is an instruction or permission, 'you are to take'; the object is placed before the verb."
+    },
+    {
+     "id": "21:30.7",
+     "gloss": "from my hand",
+     "sense": "1",
+     "note": "מִן with יָד and a first singular suffix: 'from my hand', that is, from me."
+    },
+    {
+     "id": "21:30.8",
+     "gloss": "in order that",
+     "note": "בַּעֲבוּר, ב with עֲבוּר, 'on account of'. It introduces a purpose clause, here with a yiqtol."
+    },
+    {
+     "id": "21:30.9",
+     "gloss": "it will be",
+     "sense": "Qal II.2.f",
+     "note": "Yiqtol, third feminine singular, of הָיָה, with a predicate after לְ (לְעֵדָה) and a person after לְ (לִי): 'become, be for X as Y'. The verb is singular. It does not agree with the plural כְּבָשֹׂת; the commentators supply a feminine singular subject (Rashi זאת, 'this'; Radak הַמִּקְנָה הַזֹּאת, 'this livestock'; Sforno הַבְּרִית, 'the covenant'). The English keeps 'it'."
+    },
+    {
+     "id": "21:30.10",
+     "gloss": "to me",
+     "note": "ל with a first singular suffix: 'to me, for me', the one for whom the witness stands."
+    },
+    {
+     "id": "21:30.11",
+     "gloss": "as a witness",
+     "note": "לְעֵדָה: ל with the feminine noun עֵדָה, 'testimony, witness'. Ibn Ezra takes it as the form of עֵדוּת; see commentary."
+    },
+    {
+     "id": "21:30.12",
+     "gloss": "that",
+     "sense": "1",
+     "note": "כִּי introducing the content of the witness, 'that I dug this well' (BDB sense 1, 'that'). 'Because' is also possible."
+    },
+    {
+     "id": "21:30.13",
+     "gloss": "I dug",
+     "note": "Qatal, first common singular, of חָפַר. The act is past, done before the speech."
+    },
+    {
+     "id": "21:30.14",
+     "gloss": "[object marker]",
+     "note": "The object marker before the noun."
+    },
+    {
+     "id": "21:30.15",
+     "gloss": "the well",
+     "sense": "1",
+     "note": "בְּאֵר, 'a well', with the article."
+    },
+    {
+     "id": "21:30.16",
+     "gloss": "this",
+     "sense": "2",
+     "note": "זֹאת in apposition to the noun: 'this well'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:30.1",
+      "21:30.2"
+     ],
+     "english": "He said",
+     "literal": "and-said that: the wayyiqtol opens the verse; the recitative כִּי introducing the speech has no English counterpart"
+    },
+    {
+     "tokens": [
+      "21:30.3",
+      "21:30.4",
+      "21:30.5"
+     ],
+     "english": "seven ewe-lambs",
+     "literal": "[object] seven ewe-lambs: the object stands before its verb in the Hebrew; English uses the plain order"
+    },
+    {
+     "tokens": [
+      "21:30.6"
+     ],
+     "english": "You are to take",
+     "literal": "you-will-take: a yiqtol of instruction"
+    },
+    {
+     "tokens": [
+      "21:30.7"
+     ],
+     "english": "from my hand",
+     "literal": "from-my-hand"
+    },
+    {
+     "tokens": [
+      "21:30.8",
+      "21:30.9",
+      "21:30.10",
+      "21:30.11"
+     ],
+     "english": "so that it may be a witness for me",
+     "literal": "in-order-that she-will-be to-me for-a-witness: the verb is third feminine singular"
+    },
+    {
+     "tokens": [
+      "21:30.12",
+      "21:30.13"
+     ],
+     "english": "that I dug",
+     "literal": "that I-dug"
+    },
+    {
+     "tokens": [
+      "21:30.14",
+      "21:30.15",
+      "21:30.16"
+     ],
+     "english": "this well",
+     "literal": "[object] the-well this"
+    }
+   ],
+   "grammar": [
+    "Abraham's answer to Abimelech's question of 21:29 is one speech, which runs through this verse and ends with it. The verb in 21:30.1 has no named subject; the context identifies the speaker.",
+    "כִּי after וַיֹּאמֶר (21:30.2) is the recitative 'that' which introduces direct speech and is not translated; some read it as 'because' or 'indeed', answering Abimelech's 'what are these?' (21:29). The English leaves it out and opens the quotation.",
+    "The object שֶׁבַע כְּבָשֹׂת (21:30.4–5) stands before its verb תִּקַּח (21:30.6), a second masculine singular yiqtol addressed to Abimelech, with the force of an instruction. The fronting stresses the object; the English uses the normal order. The numeral שֶׁבַע has the form used with a feminine noun.",
+    "The purpose clause is בַּעֲבוּר with a yiqtol. תִּהְיֶה is third feminine singular, so its subject is not the plural 'ewe-lambs' as such: either the set of seven or the gift taken as a whole counts as a singular, or the subject is an implied 'this' (Rashi's זאת, Radak's הַמִּקְנָה הַזֹּאת). The English 'it' keeps the singular. לִי לְעֵדָה: 'for me as a witness', with לְ marking the predicate.",
+    "The second כִּי (21:30.12) introduces what the witness attests: 'that I dug this well', a qatal of חָפַר.",
+    "Accents: the zaqef gadol on וַיֹּאמֶר (21:30.1), the zaqef qaton on כְּבָשֹׂת, the etnaḥta on מִיָּדִי (21:30.7) and the silluq on הַזֹּאת (21:30.16): the etnaḥta ends the first half of the verse, the instruction; the second half gives its purpose."
+   ],
+   "note": "The speaker is named by context only, so 'He said' is kept without a name. The verb תִּהְיֶה is singular and the English renders it 'it'; the commentators name the subject differently (see commentary). The second half of the verse gives the purpose of the gift: it is a witness to Abraham's claim to the well.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:21:30:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: לְעֵדָה is 'like לְעֵדוּת', 'as testimony', the same noun in a feminine form. He adds that the root of the word for oath, שְׁבוּעָה, is שִׁבְעָה (seven), and says he will explain this at Numbers 30:3 (אוֹ הִשָּׁבַע שְׁבֻעָה). The second remark bears on the name Beersheba (21:31), not on the English of this verse."
+    },
+    {
+     "anchor": "rashi:21:30:1",
+     "relation": "follows",
+     "summary": "Rashi's gloss on 'in order that it may be to me' is the single word זאת, 'this': the feminine singular subject of תִּהְיֶה is 'this' (the gift), not the plural ewe-lambs. The English 'it' agrees."
+    },
+    {
+     "anchor": "rashi:21:30:2",
+     "relation": "follows",
+     "summary": "Rashi reads לְעֵדָה as a feminine form of the noun for testimony, citing 'and the pillar is a witness' (Genesis 31:52). This agrees with Ibn Ezra and with the English 'a witness'."
+    },
+    {
+     "anchor": "rashi:21:30:3",
+     "relation": "not-applicable",
+     "summary": "Rashi tells how the herdsmen of Abimelech quarrelled over the well, each side claiming 'we dug it'. They agreed that whoever was seen at the well, with the water rising to meet him, owned it, and the water rose to meet Abraham. This is the story behind the claim, not the sense of 'that I dug'."
+    },
+    {
+     "anchor": "radak:21:30:1",
+     "relation": "follows",
+     "summary": "Radak supplies the subject of תִּהְיֶה: 'let this livestock (הַמִּקְנָה הַזֹּאת) which I give be to me for a witness'. A feminine singular subject, which suits the English 'it'."
+    },
+    {
+     "anchor": "onkelos:21:30:1",
+     "relation": "follows",
+     "summary": "Onkelos renders לְעֵדָה as לְסַהֲדוּ, 'as a witness'. The English agrees."
+    },
+    {
+     "anchor": "sforno:21:30:1",
+     "relation": "records",
+     "summary": "Sforno compares Ruth 4:7 (a man drew off his shoe and gave it to his fellow, 'and this was the attestation'): taking the lambs was testimony of the owners' agreement and their acknowledgment of the matter. He makes the lambs a sign of consent; the English keeps the plain 'a witness'."
+    },
+    {
+     "anchor": "sforno:21:30:2",
+     "relation": "records",
+     "summary": "Sforno's one word on 'in order that it may be to me' is הַבְּרִית, 'the covenant': he supplies the feminine singular subject, the covenant, which is to be a witness for Abraham. The English keeps 'it' without naming it."
+    },
+    {
+     "anchor": "sforno:21:30:3",
+     "relation": "records",
+     "summary": "Sforno glosses לְעֵדָה as 'on your acknowledgment' (עַל הוֹדָאָתְךָ), taking the witness to be Abimelech's acknowledgment. The English keeps 'a witness'."
+    }
+   ],
+   "context": [
+    "The seven ewe-lambs were set apart by Abraham in 21:28; the text gives only their purpose, a witness. Nothing in the verse says they were a price, a fee or a sacrifice, and the English does not say so.",
+    "In dry country a dug well was valuable, and who had dug it was the ground of a claim to it: compare 26:15–22, where the Philistines stop up the wells that Abraham's servants dug, and Isaac's servants dig them again and quarrel over them."
+   ]
+  },
+  {
+   "ref": "21:31",
+   "english": "Therefore he called that place Beersheba, because there both of them swore.",
+   "literal": "on-so he-called to-the-place the-that well-of-seven that there they-swore the-two-of-them",
+   "tokens": [
+    {
+     "id": "21:31.1",
+     "gloss": "therefore",
+     "note": "עַל כֵּן, 'on so': a compound meaning 'therefore, that is why'. It introduces the explanation of the name. Radak takes it to point back to the seven ewe-lambs; the Hebrew itself gives the reason in כִּי שָׁם נִשְׁבְּעוּ. No sense is taken for עַל."
+    },
+    {
+     "id": "21:31.2",
+     "gloss": "so",
+     "note": "כֵּן, 'so', completing the compound עַל כֵּן."
+    },
+    {
+     "id": "21:31.3",
+     "gloss": "he called",
+     "sense": "Qal 6",
+     "note": "Qatal, third masculine singular, of קָרָא. The naming construction is קָרָא with ל and the place, then the name: 'he called the place Beersheba'."
+    },
+    {
+     "id": "21:31.4",
+     "gloss": "the place",
+     "sense": "4",
+     "note": "לַ: the ל marks the place as the object of the naming verb. מָקוֹם, 'place, spot'."
+    },
+    {
+     "id": "21:31.5",
+     "gloss": "that",
+     "sense": "7",
+     "note": "הַהוּא: the article on הוּא, 'that', after the noun."
+    },
+    {
+     "id": "21:31.6",
+     "gloss": "Beer- (well of)",
+     "note": "The name בְּאֵר שֶׁבַע, 'well of seven'. The verse gives the reason for the second word in 21:31.8–10."
+    },
+    {
+     "id": "21:31.7",
+     "gloss": "-sheba (seven; oath)",
+     "note": "The second word of the name, שֶׁבַע / שָׁבַע, written here with qamets. It means 'seven' and shares its root with the verb נִשְׁבְּעוּ in 21:31.10, so the name plays on 'seven' and 'swear'. Ibn Ezra (on 21:30) takes שְׁבוּעָה to come from the root of 'seven'."
+    },
+    {
+     "id": "21:31.8",
+     "gloss": "because",
+     "sense": "3",
+     "note": "כִּי, 'because', gives the reason for the name."
+    },
+    {
+     "id": "21:31.9",
+     "gloss": "there",
+     "note": "שָׁם, 'there', the adverb of place."
+    },
+    {
+     "id": "21:31.10",
+     "gloss": "they swore",
+     "sense": "Niph",
+     "note": "Niphal, third common plural, of שָׁבַע: 'they swore', the two parties together. The name's second reading comes from this verb."
+    },
+    {
+     "id": "21:31.11",
+     "gloss": "both of them",
+     "note": "שְׁנֵיהֶם: the dual 'two' in the construct with a third masculine plural suffix, 'the two of them'. It stands in apposition to the subject already in the verb נִשְׁבְּעוּ ('they swore, the two of them')."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:31.1",
+      "21:31.2"
+     ],
+     "english": "Therefore",
+     "literal": "on-so: the compound 'therefore'"
+    },
+    {
+     "tokens": [
+      "21:31.3"
+     ],
+     "english": "he called",
+     "literal": "he-called"
+    },
+    {
+     "tokens": [
+      "21:31.4",
+      "21:31.5"
+     ],
+     "english": "that place",
+     "literal": "to-the-place the-that"
+    },
+    {
+     "tokens": [
+      "21:31.6",
+      "21:31.7"
+     ],
+     "english": "Beersheba",
+     "literal": "the-well of-seven: the name"
+    },
+    {
+     "tokens": [
+      "21:31.8",
+      "21:31.9",
+      "21:31.10",
+      "21:31.11"
+     ],
+     "english": "because there both of them swore",
+     "literal": "that there they-swore the-two-of-them"
+    }
+   ],
+   "grammar": [
+    "עַל כֵּן (21:31.1–2) is the compound 'therefore', 'on so'; it begins the explanation of the name. Radak takes it to refer to the seven lambs.",
+    "The naming construction is קָרָא with לְ, a place, and then the name: 'he called that place Beersheba'. The verse does not name the subject of קָרָא (Abraham in context); Radak reads 'they called'.",
+    "The name has two words, בְּאֵר and שֶׁבַע. The verse gives the reason for the second, 'because there they swore' (כִּי שָׁם נִשְׁבְּעוּ), which plays on the root שׁבע: 'seven' and 'swear'.",
+    "נִשְׁבְּעוּ (21:31.10) is the Niphal, third common plural, of שָׁבַע. The dual שְׁנֵיהֶם (21:31.11) stands in apposition to the subject inside the verb: the oath was sworn by both.",
+    "Accents: the revia on כֵּן (21:31.2) and the tevir on קָרָא (21:31.3) divide the first half; the etnaḥta on שָׁבַע (21:31.7) ends the first half, after the name, and the second half gives the reason; the silluq on שְׁנֵיהֶם ends the verse."
+   ],
+   "note": "The English gives the place name as the text gives it. The meaning of the name is in the grammar notes and the commentary; the English does not explain it.",
+   "commentary": [
+    {
+     "anchor": "radak:21:31:1",
+     "relation": "records",
+     "summary": "Radak: the ו of conjunction is left out (בְּאֵר and שֶׁבַע are joined without 'and', as in 'sun, moon', Habakkuk 3:11, and 'Reuben, Simeon', Exodus 1:2). 'Therefore' means on account of the seven lambs, and because they both swore there, on these two things they called the place 'Sheba'; 'Beer' was added for the well Abraham dug. The naming was a great sign that he would inherit the land, since whatever he said and named came true."
+    },
+    {
+     "anchor": "onkelos:21:31:1",
+     "relation": "records",
+     "summary": "Onkelos renders נִשְׁבְּעוּ as 'they confirmed' (קַיָּמוּ) rather than 'swore'. The English 'swore' follows the Niphal sense of שָׁבַע."
+    }
+   ],
+   "context": [
+    "The name Beersheba is read as 'well of seven' or 'well of the oath'. Both words are in the text: שֶׁבַע, 'seven' (21:28–30), and נִשְׁבְּעוּ, 'they swore', in this verse. The English gives the name only, and the notes give both readings.",
+    "Beersheba lies in the northern Negev, at the southern edge of the settled land."
+   ]
+  },
+  {
+   "ref": "21:32",
+   "english": "So they made a covenant at Beersheba, and Abimelech rose, and Phichol, commander of his army, and they returned to the land of the Philistines.",
+   "literal": "and-they-cut covenant at-well-of-seven and-rose Abimelech and-Phichol commander-of-his-army and-they-returned to-land-of Philistines",
+   "tokens": [
+    {
+     "id": "21:32.1",
+     "gloss": "and they made",
+     "sense": "Qal 4",
+     "note": "Wayyiqtol, third masculine plural, of כָּרַת. 'Cut a covenant' is the idiom for making one; the English 'made' gives its sense."
+    },
+    {
+     "id": "21:32.2",
+     "gloss": "a covenant",
+     "sense": "I",
+     "note": "בְּרִית, a covenant between men: here the sworn agreement between Abraham and Abimelech."
+    },
+    {
+     "id": "21:32.3",
+     "gloss": "at",
+     "note": "ב: 'at', the place of the covenant."
+    },
+    {
+     "id": "21:32.4",
+     "gloss": "Beersheba",
+     "note": "The name of 21:31."
+    },
+    {
+     "id": "21:32.5",
+     "gloss": "and he rose",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol, third masculine singular, of קוּם. Its subject is Abimelech; the singular verb agrees with him, and Phichol is added after it."
+    },
+    {
+     "id": "21:32.6",
+     "gloss": "Abimelech",
+     "sense": "1",
+     "note": "The king of Gerar (see 20:2 and 21:22). The lexicon lists several men of this name; this is the first."
+    },
+    {
+     "id": "21:32.7",
+     "gloss": "and Phichol",
+     "note": "פִּיכֹל, the name of Abimelech's commander, with ו 'and'."
+    },
+    {
+     "id": "21:32.8",
+     "gloss": "commander",
+     "note": "שַׂר, 'chief, commander', in the construct with the next word."
+    },
+    {
+     "id": "21:32.9",
+     "gloss": "of his army",
+     "sense": "1",
+     "note": "צָבָא, 'army, host', with the third masculine singular suffix 'his'."
+    },
+    {
+     "id": "21:32.10",
+     "gloss": "and they returned",
+     "sense": "Qal 2",
+     "note": "Wayyiqtol, third masculine plural, of שׁוּב, 'return, go back'. Both men are the subject."
+    },
+    {
+     "id": "21:32.11",
+     "gloss": "to",
+     "sense": "1",
+     "note": "אֶל, 'to', after a verb of motion."
+    },
+    {
+     "id": "21:32.12",
+     "gloss": "the land of",
+     "sense": "2.a",
+     "note": "אֶרֶץ in the construct: 'the land of the Philistines', a country or territory."
+    },
+    {
+     "id": "21:32.13",
+     "gloss": "the Philistines",
+     "note": "פְּלִשְׁתִּים, the gentilic: 'Philistines'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:32.1",
+      "21:32.2"
+     ],
+     "english": "So they made a covenant",
+     "literal": "and-they-cut covenant"
+    },
+    {
+     "tokens": [
+      "21:32.3",
+      "21:32.4"
+     ],
+     "english": "at Beersheba",
+     "literal": "at-well-of-seven"
+    },
+    {
+     "tokens": [
+      "21:32.5",
+      "21:32.6"
+     ],
+     "english": "and Abimelech rose",
+     "literal": "and-rose Abimelech"
+    },
+    {
+     "tokens": [
+      "21:32.7"
+     ],
+     "english": "and Phichol",
+     "literal": "and-Phichol"
+    },
+    {
+     "tokens": [
+      "21:32.8",
+      "21:32.9"
+     ],
+     "english": "commander of his army",
+     "literal": "commander-of-his-army"
+    },
+    {
+     "tokens": [
+      "21:32.10"
+     ],
+     "english": "and they returned",
+     "literal": "and-they-returned"
+    },
+    {
+     "tokens": [
+      "21:32.11",
+      "21:32.12",
+      "21:32.13"
+     ],
+     "english": "to the land of the Philistines",
+     "literal": "to-land-of Philistines"
+    }
+   ],
+   "grammar": [
+    "Three wayyiqtols carry the narrative: וַיִּכְרְתוּ (making the covenant), וַיָּקׇם (the rising of Abimelech) and וַיָּשֻׁבוּ (the return).",
+    "כָּרַת בְּרִית is the idiom 'cut a covenant'. The object is בְּרִית with no object marker. The English 'made a covenant' gives the sense of the idiom.",
+    "The singular וַיָּקׇם has Abimelech as subject. וּפִיכֹל, 'and Phichol', is added after it with its appositive שַׂר־צְבָאוֹ, and the plural וַיָּשֻׁבוּ takes both men as subject.",
+    "שַׂר־צְבָאוֹ is 'commander of his army': the construct, with a third masculine singular suffix on 'army'.",
+    "Accents: the etnaḥta on שָׁבַע (21:32.4) ends the first half of the verse, the covenant; the zaqef qaton on צְבָאוֹ, the tipḥa on וַיָּשֻׁבוּ (21:32.10) and the silluq on פְּלִשְׁתִּים (21:32.13) mark the rest."
+   ],
+   "note": "The English keeps the plural and singular verbs as the Hebrew has them: one subject is named first, then the second is added. 'So' renders the ו of the first wayyiqtol.",
+   "commentary": [
+    {
+     "anchor": "ramban:21:32:1",
+     "relation": "records",
+     "summary": "Ramban takes 'they returned to the land of the Philistines' to mean they returned to their city in that land: Abimelech and Phichol lived in Gerar, which is in Philistine territory, while Abraham lived in Beersheba, also in that land. The English keeps the Hebrew's 'the land'."
+    },
+    {
+     "anchor": "radak:21:32:1",
+     "relation": "not-applicable",
+     "summary": "Radak has Abraham stay at the well with his flocks a day, two days or longer, and then return to his house in Gerar. This supplies a stay the text does not state."
+    },
+    {
+     "anchor": "onkelos:21:32:1",
+     "relation": "records",
+     "summary": "Onkelos renders the covenant-making with 'they decreed' (גְּזָרוּ) and 'a confirmation' (קְיָם), and the return as 'they returned to the land of the Philistines'. The English keeps 'made a covenant'."
+    },
+    {
+     "anchor": "sforno:21:32:1",
+     "relation": "records",
+     "summary": "Sforno: they returned from Beersheba, which was not in Philistine territory. They had come there to speak with Abraham, who had gone to look at his flocks, and there Abraham gave sheep, cattle and ewe-lambs to cut the covenant. The English keeps 'returned to the land' as the Hebrew has it."
+    }
+   ],
+   "context": [
+    "Abimelech is the king of Gerar in these chapters (20:2; 21:22). The title שַׂר צָבָא, 'commander of the army', is a royal military office.",
+    "'Cut a covenant' is the standard Hebrew idiom for making a treaty or pact. It is generally linked with the slaughter of animals that accompanied an oath (compare 15:9–10, 17 and Jeremiah 34:18–19); the origin of the idiom is debated. Here the text names only the sheep and cattle given to Abimelech (21:27) and the seven ewe-lambs (21:28–30).",
+    "The Philistines of the Bible are generally identified with a people that settled the southern coast of Canaan in the early twelfth century BCE. Whether the patriarchal narrative uses the name for a people already there, or applies a later name to the region, is disputed; the English keeps the text's name."
+   ]
+  },
+  {
+   "ref": "21:33",
+   "english": "And he planted a tamarisk tree at Beersheba, and called there on the name of the LORD, El Olam.",
+   "literal": "and-he-planted tamarisk at-well-of-seven and-he-called there on-name-of the-LORD El Olam",
+   "tokens": [
+    {
+     "id": "21:33.1",
+     "gloss": "and he planted",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol, third masculine singular, of נָטַע. The object follows the verb."
+    },
+    {
+     "id": "21:33.2",
+     "gloss": "a tamarisk tree",
+     "note": "אֶשֶׁל. The lexicon gives 'tamarisk tree'. Ibn Ezra gives the word as 'a tree'; Rashi gives 'an orchard' or 'an inn'. See commentary."
+    },
+    {
+     "id": "21:33.3",
+     "gloss": "at",
+     "note": "ב: 'at', the place of the planting."
+    },
+    {
+     "id": "21:33.4",
+     "gloss": "Beersheba",
+     "note": "The name of 21:31."
+    },
+    {
+     "id": "21:33.5",
+     "gloss": "and he called",
+     "sense": "Qal 2.a",
+     "note": "Wayyiqtol, third masculine singular, of קָרָא. With בְּשֵׁם the idiom קָרָא בְּשֵׁם is either 'call on the name', invoke it in worship (Onkelos 'prayed'), or 'proclaim the name' (Ramban, Radak, Sforno); the English 'called on' keeps the first and does not exclude the second."
+    },
+    {
+     "id": "21:33.6",
+     "gloss": "there",
+     "note": "שָׁם, 'there', the adverb of place."
+    },
+    {
+     "id": "21:33.7",
+     "gloss": "on the name of",
+     "sense": "2.a",
+     "note": "בְּ with שֵׁם in the construct: 'on/by the name of', the name of the LORD being the one called on."
+    },
+    {
+     "id": "21:33.8",
+     "gloss": "the LORD",
+     "sense": "I",
+     "note": "יְהֹוָה, the divine name, rendered 'the LORD' as the decisions set. The pack prints it with the vowels of Adonai."
+    },
+    {
+     "id": "21:33.9",
+     "gloss": "El",
+     "sense": "4",
+     "note": "אֵל, the name of the god: here the epithet's first word."
+    },
+    {
+     "id": "21:33.10",
+     "gloss": "Olam (eternity)",
+     "note": "עוֹלָם, 'eternity, long duration'. The epithet 'El Olam' is transliterated; its meaning is in the notes."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:33.1",
+      "21:33.2"
+     ],
+     "english": "And he planted a tamarisk tree",
+     "literal": "and-he-planted tamarisk"
+    },
+    {
+     "tokens": [
+      "21:33.3",
+      "21:33.4"
+     ],
+     "english": "at Beersheba",
+     "literal": "at-well-of-seven"
+    },
+    {
+     "tokens": [
+      "21:33.5",
+      "21:33.6"
+     ],
+     "english": "and called there",
+     "literal": "and-he-called there"
+    },
+    {
+     "tokens": [
+      "21:33.7",
+      "21:33.8"
+     ],
+     "english": "on the name of the LORD",
+     "literal": "on-name-of the-LORD"
+    },
+    {
+     "tokens": [
+      "21:33.9",
+      "21:33.10"
+     ],
+     "english": "El Olam",
+     "literal": "El Olam (eternity)"
+    }
+   ],
+   "grammar": [
+    "וַיִּטַּע is a wayyiqtol, third masculine singular, of נָטַע. Its object אֶשֶׁל follows it and carries no object marker.",
+    "וַיִּקְרָא־שָׁם continues the narrative. 'Call on the name' (קָרָא בְּשֵׁם) is the phrase used of worship at other patriarchal sites (12:8; 26:25); it can also mean 'proclaim the name'.",
+    "The name יְהֹוָה (21:33.8) is rendered 'the LORD' as the decisions set. The epithet אֵל עוֹלָם (21:33.9–10) is two nouns, 'El' in the construct and 'eternity, long duration'; it is transliterated in the English. It occurs in Genesis only here.",
+    "Accents: the etnaḥta on שָׁבַע (21:33.4) divides the verse into planting and calling; the qadma on וַיִּקְרָא (21:33.5) and the tipḥa on יְהֹוָה (21:33.8) mark the second half; the silluq on עוֹלָם (21:33.10) ends it."
+   ],
+   "note": "El Olam is the name in apposition to 'the LORD' in the English, as the Hebrew has it. Its meaning (God of eternity, everlasting God) and the commentators' readings are in the commentary and the context notes.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:21:33:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אֶשֶׁל is a tree (אִילָן), and Abraham planted it as a sign (לְאוֹת). The English 'a tamarisk tree' follows the tree reading; the identification with the tamarisk is the lexicon's. The sign is a reason, so it stays out of the English."
+    },
+    {
+     "anchor": "rashi:21:33:1",
+     "relation": "records",
+     "summary": "Rashi, quoting Rav and Shmuel, gives two readings of אֶשֶׁל: an orchard that brought fruit to feast the guests, or an inn with every kind of fruit. He also cites the planting of tents (Daniel 11:45). Neither is the tree of the English; a reader may take the word as an orchard or an inn."
+    },
+    {
+     "anchor": "rashi:21:33:2",
+     "relation": "not-applicable",
+     "summary": "Rashi's midrash on וַיִּקְרָא שָׁם: through that tree the name of the Holy One was called God of the world, because guests were told to bless the one whose food they had eaten. This is homily, not the sense of the words."
+    },
+    {
+     "anchor": "radak:21:33:1",
+     "relation": "not-applicable",
+     "summary": "Radak: Abraham planted near the well so that the tree would witness that the well was his. This is a reason for the planting, not the sense of the words."
+    },
+    {
+     "anchor": "radak:21:33:2",
+     "relation": "follows",
+     "summary": "Radak takes אֶשֶׁל as a planting word, as in 'under the eshel in Ramah' (1 Samuel 22:6), and as large trees, citing the Talmud's 'great eshalim'. His rabbinic reading of the word as an acronym for food, drink and escort is a midrash and is not the sense."
+    },
+    {
+     "anchor": "radak:21:33:3",
+     "relation": "records",
+     "summary": "Radak reads וַיִּקְרָא as 'he gathered the sons there and called to them', in light of the dispute with Abimelech over his wife and the well. The English keeps 'called on the name of the LORD'."
+    },
+    {
+     "anchor": "radak:21:33:4",
+     "relation": "records",
+     "summary": "Radak glosses 'on the name of the LORD' as the content of the calling: that people should hold to his faith and serve no other, and by Abimelech's return of the well they would know that he is El Olam."
+    },
+    {
+     "anchor": "ramban:21:33:1",
+     "relation": "records",
+     "summary": "Ramban takes 'on the name of the LORD' as a proclamation of the LORD who governs time by his strength, and El Olam as the one who rules the whole world. He cites Maimonides (Guide II.13), who took El Olam to point to God's existence before time. Onkelos reads וַיִּקְרָא as prayer. The English keeps 'called'."
+    },
+    {
+     "anchor": "onkelos:21:33:1",
+     "relation": "records",
+     "summary": "Onkelos renders the planting as setting up a tree (נְצֵיב נִצְבָּא), the calling as prayer (וְצַלִּי), and El Olam as 'God of the world' (אֱלָהָא דְעַלְמָא). The English keeps 'called' and the transliteration."
+    },
+    {
+     "anchor": "sforno:21:33:1",
+     "relation": "records",
+     "summary": "Sforno: Abraham called and made known to the many that God the Exalted is the God of time and its maker, against the view of the new and old Epicureans. He reads the name as the eternal God; the English transliterates the epithet."
+    }
+   ],
+   "context": [
+    "Tamarisks grow in dry country where there is water near the surface. The planting at a well suits the place; the identification of אֶשֶׁל as a tamarisk is the lexicon's, and Ibn Ezra says only 'a tree'.",
+    "El is the ordinary Northwest Semitic word for 'god' and the name of the head of the Canaanite pantheon known from Ugarit; Genesis uses El with an epithet for the God worshipped at particular places (El Elyon 14:18–22; El Roi 16:13; El Bethel 35:7). Whether the title El Olam takes over a local shrine title is debated. עוֹלָם means a long or remote time, past or future; the title is rendered 'God of eternity', 'the everlasting God' or 'God of old', and the commentators read it as God who rules time or the world (Ramban, Sforno, Onkelos).",
+    "'Call on the name of the LORD' is an act of worship in the patriarchal narratives (12:8; 26:25)."
+   ]
+  },
+  {
+   "ref": "21:34",
+   "english": "And Abraham sojourned in the land of the Philistines for many days.",
+   "literal": "and-sojourned Abraham in-land-of Philistines days many",
+   "tokens": [
+    {
+     "id": "21:34.1",
+     "gloss": "and he sojourned",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol, third masculine singular, of גּוּר: to live as a resident without owning the land. The same root gives the word for a stranger, גֵּר."
+    },
+    {
+     "id": "21:34.2",
+     "gloss": "Abraham",
+     "note": "The name of the patriarch."
+    },
+    {
+     "id": "21:34.3",
+     "gloss": "in the land of",
+     "sense": "2.a",
+     "note": "ב with אֶרֶץ in the construct: 'in the land of the Philistines'."
+    },
+    {
+     "id": "21:34.4",
+     "gloss": "the Philistines",
+     "note": "The gentilic, plural."
+    },
+    {
+     "id": "21:34.5",
+     "gloss": "days",
+     "sense": "4",
+     "note": "יָמִים, the plural of יוֹם, 'days'. No preposition marks the duration."
+    },
+    {
+     "id": "21:34.6",
+     "gloss": "many",
+     "sense": "1.b",
+     "note": "רַבִּים, the plural adjective 'many', agreeing with 'days'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:34.1",
+      "21:34.2"
+     ],
+     "english": "And Abraham sojourned",
+     "literal": "and-sojourned Abraham"
+    },
+    {
+     "tokens": [
+      "21:34.3",
+      "21:34.4"
+     ],
+     "english": "in the land of the Philistines",
+     "literal": "in-land-of Philistines"
+    },
+    {
+     "tokens": [
+      "21:34.5",
+      "21:34.6"
+     ],
+     "english": "for many days",
+     "literal": "days many: the duration has no preposition in Hebrew"
+    }
+   ],
+   "grammar": [
+    "וַיָּגׇר is a wayyiqtol, third masculine singular: the verb opens the clause, and the subject follows it.",
+    "יָמִים רַבִּים has no preposition: it is an adverbial phrase of duration, 'many days'. English adds 'for'.",
+    "The adjective רַבִּים agrees with יָמִים in gender and number.",
+    "Accents: the tipḥa on פְּלִשְׁתִּים (21:34.4) divides the verse; the silluq on רַבִּים (21:34.6) ends it. The פ after the verse marks a paragraph division in the Masoretic layout."
+   ],
+   "note": "The verse closes the section about the well and the covenant. The English gives 'many days' without a number, as the Hebrew does.",
+   "commentary": [
+    {
+     "anchor": "rashi:21:34:1",
+     "relation": "not-applicable",
+     "summary": "Rashi counts the years: Abraham's stay in Hebron was twenty-five years, and here it was twenty-six, so 'many days' exceeds the earlier stay. This is chronology, not the sense of the words."
+    },
+    {
+     "anchor": "radak:21:34:1",
+     "relation": "not-applicable",
+     "summary": "Radak: Abraham stayed there many days because he had a covenant with Abimelech and feared no one. He adds that most of the land of the Philistines is called אֶרֶץ שֶׁבַע, a land of plenty, as appears from the Shunammite, who stayed there seven years because of the famine (2 Kings 8). This gives reasons for the long stay that the text does not state."
+    },
+    {
+     "anchor": "onkelos:21:34:1",
+     "relation": "follows",
+     "summary": "Onkelos renders 'many days' as יוֹמִין סַגִּיאִין, 'many days'. The English agrees."
+    }
+   ],
+   "context": [
+    "The root גּוּר names a dweller who lives in a land without owning it, under the protection of its people. Abraham's stay is not given a number of years in the text."
+   ]
+  }
+ ]
+}
