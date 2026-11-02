@@ -1,0 +1,1142 @@
+{
+ "unit": "vayera-14",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "21:15",
+   "english": "The water from the waterskin was used up, and she cast the child under one of the bushes.",
+   "literal": "and-were-used-up the-water from-the-waterskin and-cast [object] the-child under one-of the-bushes",
+   "tokens": [
+    {
+     "id": "21:15.1",
+     "gloss": "and were used up",
+     "sense": "Qal 2.a",
+     "note": "Qal wayyiqtol of כָּלָה, third masculine plural. The plural agrees with מַיִם, which is plural in form and has no singular. The verb is intransitive: the water came to an end."
+    },
+    {
+     "id": "21:15.2",
+     "gloss": "the water",
+     "note": "מַיִם is a plural noun."
+    },
+    {
+     "id": "21:15.3",
+     "gloss": "from"
+    },
+    {
+     "id": "21:15.4",
+     "gloss": "the waterskin",
+     "note": "חֵמֶת: a skin used to carry water."
+    },
+    {
+     "id": "21:15.5",
+     "gloss": "and cast",
+     "note": "Hifil wayyiqtol of שָׁלַךְ, third feminine singular, the mother as subject. The pack lists only Hoph senses for this root and none for the Hifil, so no sense is given. The commentary records the readings of the verb."
+    },
+    {
+     "id": "21:15.6",
+     "gloss": "[object marker]",
+     "note": "The object marker before הַיֶּלֶד."
+    },
+    {
+     "id": "21:15.7",
+     "gloss": "the child"
+    },
+    {
+     "id": "21:15.8",
+     "gloss": "under"
+    },
+    {
+     "id": "21:15.9",
+     "gloss": "one of",
+     "sense": "1",
+     "note": "Partitive: one of the bushes. The article is on the noun, not on אַחַד."
+    },
+    {
+     "id": "21:15.10",
+     "gloss": "the bushes",
+     "note": "שִׂיחִים: low woody plants. Ibn Ezra's gloss 'the trees' is ruled on in the commentary."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:15.1",
+      "21:15.2",
+      "21:15.3",
+      "21:15.4"
+     ],
+     "english": "The water from the waterskin was used up",
+     "literal": "and-were-used-up the-water from the-waterskin: the wayyiqtol opens the clause and the subject follows the verb"
+    },
+    {
+     "tokens": [
+      "21:15.5",
+      "21:15.6",
+      "21:15.7"
+     ],
+     "english": "and she cast the child",
+     "literal": "and-cast [object] the-child"
+    },
+    {
+     "tokens": [
+      "21:15.8",
+      "21:15.9",
+      "21:15.10"
+     ],
+     "english": "under one of the bushes",
+     "literal": "under one-of the-bushes"
+    }
+   ],
+   "grammar": [
+    "The verse has two parts, joined by wayyiqtols: the water was used up (21:15.1–4), and the mother cast the child down (21:15.5–10). The etnaḥta on הַחֵמֶת (21:15.4) divides them.",
+    "כָּלוּ (21:15.1) is a plural verb agreeing with מַיִם, a plural noun.",
+    "אֶת (21:15.6) is the object marker, with no English counterpart; הַיֶּלֶד is the direct object of the verb.",
+    "אַחַד with the article on the noun (הַשִּׂיחִם, 21:15.10) is partitive: 'one of the bushes'."
+   ],
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:21:15:1",
+     "relation": "declines",
+     "summary": "Ibn Ezra's note on 'under one of the bushes' gives only the gloss 'the trees' (האילנים) in the pack. The lexicon gives שִׂיחַ as bush, shrub or plant, and the Hebrew word for tree is not used here, so the English keeps 'bushes'. His comment is cut short in the pack."
+    },
+    {
+     "anchor": "rashi:21:15:1",
+     "relation": "not-applicable",
+     "summary": "Rashi gives the reason the water ran out: sick people drink a great deal. That is a reason for the event, not a reading of the words, and the English does not state it."
+    },
+    {
+     "anchor": "ramban:21:15:1",
+     "relation": "records",
+     "summary": "Ramban gives three readings of וַתַּשְׁלֵךְ. First: thirst overcame the boy and he could not walk, and his mother laid him under the tree 'cast down and abandoned'; or the verb is of sending away, as in 'and he cast them into another land' (Deut. 29:27) and 'do not cast me away from before you' (Ps. 51:13). Second, 'Rabbi Abraham' (Ibn Ezra): she took him into her lap and then set him down when he grew weak with thirst. Third, the Rabbis: he was sick when Abraham sent them off and Abraham put the child on her shoulder, and this is the sense of 'she cast'. Ramban adds that Abraham sent them away with no silver, gold, servants or camels because he had been told to do all that Sarah said. The English keeps 'cast' and does not choose."
+    }
+   ],
+   "apparatus": [
+    "The Ibn Ezra text in the pack ends after the gloss 'the trees' (האילנים); the rest of his comment is not in the pack."
+   ],
+   "context": [
+    "A ḥemet (חֵמֶת) is a skin used to carry water; such skins were made of animal hide."
+   ]
+  },
+  {
+   "ref": "21:16",
+   "english": "She went and sat down by herself at a distance, far off, about a bowshot away, for she said, \"Let me not see the death of the child.\" She sat down at a distance and lifted up her voice and wept.",
+   "literal": "and-went and-sat for-herself from-opposite far like-the-shootings of-bow for she-said not let-me-see in-death of-the-child and-sat from-opposite and-lifted [object] her-voice and-wept",
+   "tokens": [
+    {
+     "id": "21:16.1",
+     "gloss": "and went",
+     "sense": "Qal I.1",
+     "note": "Qal wayyiqtol of הָלַךְ, third feminine singular: the first of the five wayyiqtols that narrate the mother's acts in this verse."
+    },
+    {
+     "id": "21:16.2",
+     "gloss": "and sat down",
+     "sense": "Qal 1.b",
+     "note": "Qal wayyiqtol of יָשַׁב, third feminine singular."
+    },
+    {
+     "id": "21:16.3",
+     "gloss": "by herself",
+     "note": "לָהּ with יָשַׁב: 'for herself', that is, alone. Ibn Ezra glosses 'she sat alone'."
+    },
+    {
+     "id": "21:16.4",
+     "gloss": "at a distance",
+     "note": "נֶגֶד, with מִן: 'from in front', that is, at some distance."
+    },
+    {
+     "id": "21:16.5",
+     "gloss": "far off",
+     "sense": "Hiph 1",
+     "note": "Infinitive absolute of the Hifil of רָחַק standing for a finite verb: she removed herself far. The lexicon's Hiph 2 is 'remove, put far away'."
+    },
+    {
+     "id": "21:16.6",
+     "gloss": "like the shots of",
+     "note": "כְּ with the construct of a participle of טָחָה: 'like the shooters of'. The bowshot is a measure of distance."
+    },
+    {
+     "id": "21:16.7",
+     "gloss": "a bow",
+     "sense": "1",
+     "note": "קֶשֶׁת, the bow. The phrase, with 21:16.6, is a measure: as far as an arrow is shot."
+    },
+    {
+     "id": "21:16.8",
+     "gloss": "for",
+     "note": "כִּי introduces the reason for her withdrawal."
+    },
+    {
+     "id": "21:16.9",
+     "gloss": "she said",
+     "sense": "Qal 1",
+     "note": "Qatal of אָמַר, third feminine singular: the speech that follows is hers."
+    },
+    {
+     "id": "21:16.10",
+     "gloss": "not",
+     "note": "The negative with the cohortative that follows."
+    },
+    {
+     "id": "21:16.11",
+     "gloss": "let me see",
+     "sense": "Qal 1.a",
+     "note": "Cohortative of רָאָה, first common singular: 'let me see', negated with אַל to read 'let me not see'."
+    },
+    {
+     "id": "21:16.12",
+     "gloss": "the death of",
+     "sense": "1",
+     "note": "מָוֶת in the construct with the preposition ב: 'in the death of'. רָאָה with בְּ means 'look upon', so 'see the death of' carries the idiom."
+    },
+    {
+     "id": "21:16.13",
+     "gloss": "the child",
+     "note": "יֶלֶד, the same word as in 21:15."
+    },
+    {
+     "id": "21:16.14",
+     "gloss": "and sat down",
+     "sense": "Qal 1.b",
+     "note": "Qal wayyiqtol of יָשַׁב, third feminine singular: the second sitting, at the same distance as the first."
+    },
+    {
+     "id": "21:16.15",
+     "gloss": "at a distance",
+     "note": "מִנֶּגֶד again, closing the frame of the verse."
+    },
+    {
+     "id": "21:16.16",
+     "gloss": "and lifted",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol of נָשָׂא, third feminine singular."
+    },
+    {
+     "id": "21:16.17",
+     "gloss": "[object marker]",
+     "note": "The object marker before קֹל."
+    },
+    {
+     "id": "21:16.18",
+     "gloss": "her voice",
+     "note": "קוֹל with the third feminine singular suffix. Lifting up the voice is the idiom for weeping aloud."
+    },
+    {
+     "id": "21:16.19",
+     "gloss": "and wept",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol of בָּכָה, third feminine singular. The verse ends here."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:16.1",
+      "21:16.2",
+      "21:16.3"
+     ],
+     "english": "She went and sat down by herself",
+     "literal": "and-went and-sat for-herself"
+    },
+    {
+     "tokens": [
+      "21:16.4",
+      "21:16.5"
+     ],
+     "english": "at a distance, far off",
+     "literal": "from-opposite far"
+    },
+    {
+     "tokens": [
+      "21:16.6",
+      "21:16.7"
+     ],
+     "english": "about a bowshot away",
+     "literal": "like-the-shootings of-bow: the כְּ gives an approximate distance"
+    },
+    {
+     "tokens": [
+      "21:16.8",
+      "21:16.9"
+     ],
+     "english": "for she said",
+     "literal": "for she-said"
+    },
+    {
+     "tokens": [
+      "21:16.10",
+      "21:16.11",
+      "21:16.12",
+      "21:16.13"
+     ],
+     "english": "Let me not see the death of the child",
+     "literal": "not let-me-see in-death of-the-child"
+    },
+    {
+     "tokens": [
+      "21:16.14",
+      "21:16.15"
+     ],
+     "english": "She sat down at a distance",
+     "literal": "and-sat from-opposite"
+    },
+    {
+     "tokens": [
+      "21:16.16",
+      "21:16.17",
+      "21:16.18"
+     ],
+     "english": "and lifted up her voice",
+     "literal": "and-lifted [object] her-voice"
+    },
+    {
+     "tokens": [
+      "21:16.19"
+     ],
+     "english": "and wept",
+     "literal": "and-wept"
+    }
+   ],
+   "grammar": [
+    "Five wayyiqtols (וַתֵּלֶךְ, וַתֵּשֶׁב, וַתֵּשֶׁב, וַתִּשָּׂא, וַתֵּבְךְּ) narrate the mother's acts, with her reason (כִּי אָמְרָה) between the first sitting and the second. The second sitting (21:16.14) repeats the first, so the verse frames her distance from the child with מִנֶּגֶד twice.",
+    "The clause כִּי אָמְרָה (21:16.8–9) gives her reason for sitting apart. The negated cohortative אַל־אֶרְאֶה is her wish: 'let me not see'.",
+    "The simile כִּמְטַחֲוֵי קֶשֶׁת is a construct of a participle of טָחָה with 'bow'. It measures the distance by the shot of an arrow; the spelling of the form is discussed in the commentary.",
+    "The etnaḥta on הַיָּלֶד (21:16.13) closes the main clause of her speech, and the silluq on וַתֵּבְךְּ (21:16.19) ends the verse."
+   ],
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:21:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra glosses 'she sat alone' (בדד ישב) and says that the sense of the bowshot is known, as the throwing of an arrow. The English takes the bowshot as the distance an arrow flies: 'a bowshot away'."
+    },
+    {
+     "anchor": "rashi:21:16:2",
+     "relation": "records",
+     "summary": "Rashi glosses כִּמְטַחֲוֵי as 'two throws' (כִּשְׁתֵּי טִיחוֹת, from Genesis Rabbah) and says the word is the language of shooting an arrow. The 'two throws' is midrashic and is not taken; the arrow shot is kept, as in Ibn Ezra."
+    },
+    {
+     "anchor": "radak:21:16:3",
+     "relation": "follows",
+     "summary": "Radak takes the same measure: the distance is a bowshot and no more, so that the child is not wholly hidden from her eyes."
+    }
+   ],
+   "context": [
+    "A bowshot is a rough measure of how far an arrow flies; the text gives no figure for it."
+   ]
+  },
+  {
+   "ref": "21:17",
+   "english": "God heard the voice of the boy, and an angel of God called to Hagar from heaven and said to her, \"What is the matter with you, Hagar? Do not fear, for God has heard the voice of the boy where he is.",
+   "literal": "and-heard God [object] voice of the-boy and-called angel of God to-Hagar from-the-heavens and-said to-her what to-you Hagar not you-fear-fs for heard God to voice of the-boy in-which he there",
+   "tokens": [
+    {
+     "id": "21:17.1",
+     "gloss": "heard",
+     "sense": "Qal 2",
+     "note": "Qal wayyiqtol of שָׁמַע, third masculine singular, with God as subject. The verb is singular with the plural אֱלֹהִים."
+    },
+    {
+     "id": "21:17.2",
+     "gloss": "God",
+     "sense": "3",
+     "note": "אֱלֹהִים in the plural form, with a singular verb, as often for the God of Israel. Sense 3: the (true) God."
+    },
+    {
+     "id": "21:17.3",
+     "gloss": "[object marker]",
+     "note": "The object marker before קוֹל."
+    },
+    {
+     "id": "21:17.4",
+     "gloss": "the voice of",
+     "note": "קוֹל in the construct. The same noun is in 21:16.18, 'her voice'."
+    },
+    {
+     "id": "21:17.5",
+     "gloss": "the boy",
+     "sense": "1",
+     "note": "נַעַר: a boy or lad. It is the same boy as the יֶלֶד of 21:15–16; the narrative changes the word, not the person."
+    },
+    {
+     "id": "21:17.6",
+     "gloss": "and called",
+     "sense": "Qal 2.a",
+     "note": "Qal wayyiqtol of קָרָא, third masculine singular: 'call unto'."
+    },
+    {
+     "id": "21:17.7",
+     "gloss": "an angel",
+     "sense": "2",
+     "note": "מַלְאָךְ: a messenger. Here a being sent by God, so 'angel'. Whether this being is a theophany is debated and is not decided here."
+    },
+    {
+     "id": "21:17.8",
+     "gloss": "of God",
+     "sense": "3",
+     "note": "Construct of אֱלֹהִים, in the same plural form as 21:17.2."
+    },
+    {
+     "id": "21:17.9",
+     "gloss": "to"
+    },
+    {
+     "id": "21:17.10",
+     "gloss": "Hagar",
+     "note": "The familiar form of the name; the text gives no meaning here."
+    },
+    {
+     "id": "21:17.11",
+     "gloss": "from"
+    },
+    {
+     "id": "21:17.12",
+     "gloss": "heaven",
+     "sense": "2.a",
+     "note": "The heavens as the place where God is: the call comes from above."
+    },
+    {
+     "id": "21:17.13",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol of אָמַר, third masculine singular. The speech follows."
+    },
+    {
+     "id": "21:17.14",
+     "gloss": "to her"
+    },
+    {
+     "id": "21:17.15",
+     "gloss": "what is the matter",
+     "sense": "4",
+     "note": "מַה with לְ and suffix: 'what (is it) to you?', an idiom of concern."
+    },
+    {
+     "id": "21:17.16",
+     "gloss": "with you",
+     "note": "לְ with the second feminine singular suffix: 'to you'."
+    },
+    {
+     "id": "21:17.17",
+     "gloss": "Hagar",
+     "note": "Vocative."
+    },
+    {
+     "id": "21:17.18",
+     "gloss": "not",
+     "note": "The negative with the jussive that follows."
+    },
+    {
+     "id": "21:17.19",
+     "gloss": "fear",
+     "sense": "Qal 1",
+     "note": "Jussive of יָרֵא, second feminine singular: 'do not fear'."
+    },
+    {
+     "id": "21:17.20",
+     "gloss": "for",
+     "note": "כִּי introduces the reason for 'do not fear'."
+    },
+    {
+     "id": "21:17.21",
+     "gloss": "has heard",
+     "sense": "Qal 2",
+     "note": "Qatal of שָׁמַע, third masculine singular, with God as subject: 'has heard'."
+    },
+    {
+     "id": "21:17.22",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "21:17.23",
+     "gloss": "to",
+     "note": "אֶל with שָׁמַע, which takes the object in the preposition: the same act as 21:17.1, with a different construction."
+    },
+    {
+     "id": "21:17.24",
+     "gloss": "the voice of"
+    },
+    {
+     "id": "21:17.25",
+     "gloss": "the boy",
+     "sense": "1"
+    },
+    {
+     "id": "21:17.26",
+     "gloss": "where",
+     "sense": "b",
+     "note": "בַּאֲשֶׁר: 'in which', read here as locative 'where'. Rashi's temporal reading is in the commentary."
+    },
+    {
+     "id": "21:17.27",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "21:17.28",
+     "gloss": "there",
+     "note": "שָׁם: the adverb 'there'. Radak and Ramban read the place; see the commentary."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:17.1",
+      "21:17.2",
+      "21:17.3",
+      "21:17.4",
+      "21:17.5"
+     ],
+     "english": "God heard the voice of the boy",
+     "literal": "and-heard God [object] voice of the-boy"
+    },
+    {
+     "tokens": [
+      "21:17.6",
+      "21:17.7",
+      "21:17.8"
+     ],
+     "english": "and an angel of God called",
+     "literal": "and-called angel of God"
+    },
+    {
+     "tokens": [
+      "21:17.9",
+      "21:17.10"
+     ],
+     "english": "to Hagar",
+     "literal": "to-Hagar"
+    },
+    {
+     "tokens": [
+      "21:17.11",
+      "21:17.12"
+     ],
+     "english": "from heaven",
+     "literal": "from-the-heavens"
+    },
+    {
+     "tokens": [
+      "21:17.13",
+      "21:17.14"
+     ],
+     "english": "and said to her",
+     "literal": "and-said to-her"
+    },
+    {
+     "tokens": [
+      "21:17.15",
+      "21:17.16",
+      "21:17.17"
+     ],
+     "english": "What is the matter with you, Hagar",
+     "literal": "what to-you Hagar"
+    },
+    {
+     "tokens": [
+      "21:17.18",
+      "21:17.19"
+     ],
+     "english": "Do not fear",
+     "literal": "not you-fear-fs"
+    },
+    {
+     "tokens": [
+      "21:17.20",
+      "21:17.21",
+      "21:17.22",
+      "21:17.23",
+      "21:17.24",
+      "21:17.25"
+     ],
+     "english": "for God has heard the voice of the boy",
+     "literal": "for heard God to voice of the-boy"
+    },
+    {
+     "tokens": [
+      "21:17.26",
+      "21:17.27",
+      "21:17.28"
+     ],
+     "english": "where he is",
+     "literal": "in-which he there"
+    }
+   ],
+   "grammar": [
+    "The verse has two narrative clauses, God's hearing and the angel's call. Then comes a speech in two parts: a question (21:17.15–17) and a reassurance with its reason (21:17.18–28). The speech runs on into 21:18, so the quotation is not closed here.",
+    "תִּירְאִי (21:17.19) is a jussive with the negative אַל: 'do not fear'. The reason follows with כִּי (21:17.20).",
+    "כִּי־שָׁמַע (21:17.20–21) is a qatal after כִּי: 'for God has heard'. The hearing is the same act as in 21:17.1, with the preposition אֶל before the voice.",
+    "The etnaḥta on הָגָ֑ר (21:17.17) closes the question; the silluq on שָׁם (21:17.28) ends the verse.",
+    "שָׁמַע אֱלֹהִים, 'God heard', twice in this verse (21:17.1, 21:17.21), recalls the name יִשְׁמָעֵאל, 'God hears', which was explained at 16:11. The boy is not named in this scene."
+   ],
+   "commentary": [
+    {
+     "anchor": "rashi:21:17:1",
+     "relation": "not-applicable",
+     "summary": "Rashi draws from the verse a lesson on the prayer of a sick person, which he says is better than the prayer of others for him and is answered first (Genesis Rabbah). It is a homily and does not bear on the words."
+    },
+    {
+     "anchor": "ramban:21:17:1",
+     "relation": "follows",
+     "summary": "Ramban: the plain sense is that God heard the boy's voice in the place where he is, so that Hagar need not go to a spring or a well, since the water would come to him there at once. He gives the reading judged by present deeds as the rabbinic tradition, reported through Rashi, and does not take it."
+    },
+    {
+     "anchor": "radak:21:17:4",
+     "relation": "follows",
+     "summary": "Radak: God heard his voice in the very place where Hagar cast him down, since she thought he would die there. The English keeps 'where he is' in the spatial sense that Radak and Ramban take."
+    },
+    {
+     "anchor": "rashi:21:17:2",
+     "relation": "declines",
+     "summary": "Rashi reads 'where he is' as 'by the deeds he does now': God judges him by his present deeds, not by what he will do. He gives the midrash of the angels who accuse God, and of Israel's thirst under Nebuchadnezzar. This is midrash, not the plain sense, and the English keeps the place."
+    }
+   ]
+  },
+  {
+   "ref": "21:18",
+   "english": "Get up, lift up the boy, and hold him fast with your hand, for I will make him into a great nation.\"",
+   "literal": "rise-fs lift-fs [object] the-boy and-hold-fast-fs [object] your-hand in-him for into-nation great I-will-make-him",
+   "tokens": [
+    {
+     "id": "21:18.1",
+     "gloss": "get up",
+     "sense": "Qal 1",
+     "note": "Imperative of קוּם, second feminine singular: the first of three commands to Hagar in this verse."
+    },
+    {
+     "id": "21:18.2",
+     "gloss": "lift up",
+     "sense": "Qal 1",
+     "note": "Imperative of נָשָׂא, second feminine singular: lift up, as from the ground."
+    },
+    {
+     "id": "21:18.3",
+     "gloss": "[object marker]",
+     "note": "The object marker before הַנַּעַר."
+    },
+    {
+     "id": "21:18.4",
+     "gloss": "the boy",
+     "sense": "1"
+    },
+    {
+     "id": "21:18.5",
+     "gloss": "and hold fast",
+     "sense": "Hiph 6",
+     "note": "Imperative of the Hifil of חָזַק, second feminine singular: take hold, keep hold, grasp."
+    },
+    {
+     "id": "21:18.6",
+     "gloss": "[object marker]",
+     "note": "The object marker before יָד."
+    },
+    {
+     "id": "21:18.7",
+     "gloss": "your hand",
+     "sense": "1",
+     "note": "יָד with the second feminine singular suffix."
+    },
+    {
+     "id": "21:18.8",
+     "gloss": "him",
+     "note": "בּ with the third masculine singular suffix: the hand on him. The etnaḥta falls on this word."
+    },
+    {
+     "id": "21:18.9",
+     "gloss": "for",
+     "note": "כִּי introduces the promise that gives the reason for the commands."
+    },
+    {
+     "id": "21:18.10",
+     "gloss": "into a nation",
+     "note": "לְ with גּוֹי: 'for a nation'. With the verb 'make', the sense is 'make into'."
+    },
+    {
+     "id": "21:18.11",
+     "gloss": "great",
+     "sense": "2",
+     "note": "גָּדוֹל in the sense 'great in number', as a nation is great in its multitude. Other senses, such as 'great in importance' (6), are possible."
+    },
+    {
+     "id": "21:18.12",
+     "gloss": "I will make him",
+     "sense": "Qal 5.a",
+     "note": "Imperfect, first common singular, of שׂוּם with the third masculine singular suffix: 'make him' (into)."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:18.1"
+     ],
+     "english": "Get up",
+     "literal": "rise-fs"
+    },
+    {
+     "tokens": [
+      "21:18.2",
+      "21:18.3",
+      "21:18.4"
+     ],
+     "english": "lift up the boy",
+     "literal": "lift-fs [object] the-boy"
+    },
+    {
+     "tokens": [
+      "21:18.5",
+      "21:18.6",
+      "21:18.7",
+      "21:18.8"
+     ],
+     "english": "and hold him fast with your hand",
+     "literal": "and-hold-fast-fs [object] your-hand in-him"
+    },
+    {
+     "tokens": [
+      "21:18.9",
+      "21:18.10",
+      "21:18.11",
+      "21:18.12"
+     ],
+     "english": "for I will make him into a great nation",
+     "literal": "for into-nation great I-will-make-him"
+    }
+   ],
+   "grammar": [
+    "קוּמִי, שְׂאִי and וְהַחֲזִיקִי are three feminine singular imperatives addressed to Hagar. The first two take the boy as object.",
+    "The etnaḥta on בּוֹ (21:18.8) divides the commands from the reason. כִּי־לְגוֹי גָּדוֹל אֲשִׂימֶנּוּ is the promise: 'for I will make him into a great nation'.",
+    "The first-person yiqtol אֲשִׂימֶנּוּ with the third masculine singular suffix is the speaker's promise, not a report: 'I will make him'. The suffix refers to the boy.",
+    "The silluq on אֲשִׂימֶנּוּ ends the verse. The speech that opened in 21:17 closes here."
+   ],
+   "commentary": [
+    {
+     "anchor": "radak:21:18:1",
+     "relation": "follows",
+     "summary": "Radak reads the command as 'do not loosen your hand from him'. This is the sense of the Hifil here: to keep hold. His reason, that the boy will not die of thirst, is an inference and is not in the English."
+    }
+   ]
+  },
+  {
+   "ref": "21:19",
+   "english": "Then God opened her eyes, and she saw a well of water. She went and filled the waterskin with water and gave the boy a drink.",
+   "literal": "and-opened God [object] her-eyes and-saw a-well-of waters and-went and-filled [object] the-waterskin water and-gave-to-drink [object] the-boy",
+   "tokens": [
+    {
+     "id": "21:19.1",
+     "gloss": "and opened",
+     "sense": "Qal 1",
+     "note": "Qal wayyiqtol of פָּקַח, third masculine singular."
+    },
+    {
+     "id": "21:19.2",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "21:19.3",
+     "gloss": "[object marker]",
+     "note": "The object marker before עֵינֶיהָ."
+    },
+    {
+     "id": "21:19.4",
+     "gloss": "her eyes",
+     "sense": "1",
+     "note": "עַיִן, dual construct with the third feminine singular suffix: 'the eyes of her', the pair."
+    },
+    {
+     "id": "21:19.5",
+     "gloss": "and she saw",
+     "sense": "Qal 1.a",
+     "note": "Qal wayyiqtol of רָאָה, third feminine singular."
+    },
+    {
+     "id": "21:19.6",
+     "gloss": "a well",
+     "sense": "1",
+     "note": "בְּאֵר, a dug well, in the construct with מַיִם."
+    },
+    {
+     "id": "21:19.7",
+     "gloss": "of water",
+     "note": "מַיִם as the second term of the construct: 'a well of water'."
+    },
+    {
+     "id": "21:19.8",
+     "gloss": "and went",
+     "sense": "Qal I.1",
+     "note": "Qal wayyiqtol of הָלַךְ, third feminine singular."
+    },
+    {
+     "id": "21:19.9",
+     "gloss": "and filled",
+     "sense": "Pi 1",
+     "note": "Wayyiqtol of מָלֵא in the Piel, third feminine singular: the lexicon's Pi 1, 'fill'."
+    },
+    {
+     "id": "21:19.10",
+     "gloss": "[object marker]",
+     "note": "The object marker before הַחֵמֶת."
+    },
+    {
+     "id": "21:19.11",
+     "gloss": "the waterskin",
+     "note": "חֵמֶת, the skin that she filled."
+    },
+    {
+     "id": "21:19.12",
+     "gloss": "with water",
+     "note": "מַיִם as the material with which the skin is filled."
+    },
+    {
+     "id": "21:19.13",
+     "gloss": "and gave to drink",
+     "sense": "Hiph 2",
+     "note": "Wayyiqtol of שָׁקָה in the Hifil, third feminine singular: 'give drink to'. Radak's reading of the order is in the commentary."
+    },
+    {
+     "id": "21:19.14",
+     "gloss": "[object marker]",
+     "note": "The object marker before הַנָּעַר."
+    },
+    {
+     "id": "21:19.15",
+     "gloss": "the boy",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:19.1",
+      "21:19.2",
+      "21:19.3",
+      "21:19.4"
+     ],
+     "english": "Then God opened her eyes",
+     "literal": "and-opened God [object] her-eyes"
+    },
+    {
+     "tokens": [
+      "21:19.5",
+      "21:19.6",
+      "21:19.7"
+     ],
+     "english": "and she saw a well of water",
+     "literal": "and-saw a-well-of water"
+    },
+    {
+     "tokens": [
+      "21:19.8",
+      "21:19.9"
+     ],
+     "english": "She went and filled",
+     "literal": "and-went and-filled"
+    },
+    {
+     "tokens": [
+      "21:19.10",
+      "21:19.11",
+      "21:19.12"
+     ],
+     "english": "the waterskin with water",
+     "literal": "[object] the-waterskin water"
+    },
+    {
+     "tokens": [
+      "21:19.13",
+      "21:19.14",
+      "21:19.15"
+     ],
+     "english": "and gave the boy a drink",
+     "literal": "and-gave-to-drink [object] the-boy"
+    }
+   ],
+   "grammar": [
+    "The verse is a chain of wayyiqtols (opened, saw, went, filled, gave to drink). The English keeps the Hebrew order of the actions.",
+    "The etnaḥta on מָיִם (21:19.7) divides the verse: the sight of the well comes first, and the carrying and the drink come second.",
+    "'Opened her eyes' is the Qal of פָּקַח with עַיִן. The English keeps the words; Sforno's reading of them is in the commentary.",
+    "The Hebrew uses one verb, שָׁקָה in the Hifil, with the boy as its object: 'she made the boy drink'. The English gives 'gave the boy a drink'."
+   ],
+   "commentary": [
+    {
+     "anchor": "radak:21:19:1",
+     "relation": "records",
+     "summary": "Radak suggests that the well was there already, covered among the bushes, or that it was far from her. The English keeps 'opened her eyes' and does not say where the well lay."
+    },
+    {
+     "anchor": "sforno:21:19:1",
+     "relation": "records",
+     "summary": "Sforno reads the opening of her eyes as God giving her the perception to know where the water was, since she had not been blind before. The English keeps the words 'opened her eyes'."
+    },
+    {
+     "anchor": "radak:21:19:3",
+     "relation": "records",
+     "summary": "Radak: God either made her see the well for the moment, or the well was not there and God split the ground at that place so that water came out, as with Samson (Judges 15:19). The English does not say how the water came."
+    },
+    {
+     "anchor": "radak:21:19:4",
+     "relation": "records",
+     "summary": "Radak takes the verse out of order: she had already given him to drink, and afterwards she filled the skin to carry water with her. The English keeps the order of the Hebrew wayyiqtols."
+    }
+   ],
+   "context": [
+    "A well (בְּאֵר) is a shaft dug down to the water. In the dry south of Canaan wells were the chief water supply, and the text returns to wells at 21:25–30 and 26:15–22."
+   ]
+  },
+  {
+   "ref": "21:20",
+   "english": "God was with the boy, and he grew up and lived in the wilderness and became an archer.",
+   "literal": "and-was God with the-boy and-grew-up and-lived in-the-wilderness and-became shooter bowman",
+   "tokens": [
+    {
+     "id": "21:20.1",
+     "gloss": "and was",
+     "sense": "Qal III",
+     "note": "Wayyiqtol of הָיָה, third masculine singular, with אֶת: 'be with'."
+    },
+    {
+     "id": "21:20.2",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "21:20.3",
+     "gloss": "with",
+     "lex": "bdb:a.gn.aa",
+     "sense": "1",
+     "note": "The אֵת here is the preposition 'with', not the object marker. The lexicon gives it as a separate entry."
+    },
+    {
+     "id": "21:20.4",
+     "gloss": "the boy",
+     "sense": "1"
+    },
+    {
+     "id": "21:20.5",
+     "gloss": "and grew up",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol of גָּדַל, third masculine singular."
+    },
+    {
+     "id": "21:20.6",
+     "gloss": "and lived",
+     "sense": "Qal 3",
+     "note": "Wayyiqtol of יָשַׁב, third masculine singular: 'dwell, have one's abode'."
+    },
+    {
+     "id": "21:20.7",
+     "gloss": "in the wilderness",
+     "sense": "1",
+     "note": "מִדְבָּר: open country, used for the pasturage of flocks and herds. See the context note on Paran at 21:21."
+    },
+    {
+     "id": "21:20.8",
+     "gloss": "and became",
+     "sense": "Qal II.2.a",
+     "note": "Wayyiqtol of הָיָה with a predicate noun: 'become'."
+    },
+    {
+     "id": "21:20.9",
+     "gloss": "a shooter",
+     "note": "רֹבֶה, a participle of רָבָה, 'shoot': the one who shoots arrows. The commentary has Ibn Ezra's reading."
+    },
+    {
+     "id": "21:20.10",
+     "gloss": "a bowman",
+     "note": "קַשָּׁת, the one who uses the bow. The lexicon gives 'bowman'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:20.1",
+      "21:20.2",
+      "21:20.3",
+      "21:20.4"
+     ],
+     "english": "God was with the boy",
+     "literal": "and-was God with the-boy"
+    },
+    {
+     "tokens": [
+      "21:20.5"
+     ],
+     "english": "and he grew up",
+     "literal": "and-grew-up"
+    },
+    {
+     "tokens": [
+      "21:20.6",
+      "21:20.7"
+     ],
+     "english": "and lived in the wilderness",
+     "literal": "and-lived in-the-wilderness"
+    },
+    {
+     "tokens": [
+      "21:20.8",
+      "21:20.9",
+      "21:20.10"
+     ],
+     "english": "and became an archer",
+     "literal": "and-became shooter bowman"
+    }
+   ],
+   "grammar": [
+    "God was with the boy (21:20.1–4): הָיָה with אֵת is 'be with', and the English keeps it.",
+    "After the opening וַיְהִי, three wayyiqtols (וַיִּגְדָּל, וַיֵּשֶׁב, וַיְהִי) move from growing to dwelling to a trade.",
+    "The dataset parses רֹבֶה as a participle in the construct, but the pointing of קַשָּׁת (with dagesh) is that of a descriptive noun, 'bowman', and Ibn Ezra takes it so, like גַּנָּב 'thief'. The two words name one trade, 'shooter, bowman', and the English gives 'an archer'. Radak and Ramban discuss other ways of taking them.",
+    "The etnaḥta on וַיִּגְדָּל (21:20.5) divides the verse: the growing, then the desert life and the trade. The silluq on קַשָּׁת ends the verse."
+   ],
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:21:20:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra compares רֹבֶה with 'Call up against Babylon the many (רַבִּים)' (Jer. 50:29), where the many are 'all who bend the bow'; so רֹבֶה is the shooter, the archer. He then adds that if רבה and רבב are two roots, as שרר and שרה are, they still come from the form רבה. The English follows the archer reading."
+    },
+    {
+     "anchor": "ibn-ezra:21:20:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: קַשָּׁת is a descriptive noun (שֵׁם הַתֹּאַר), like 'thief' (gannav), so it names the man who has the bow as his craft: 'bowman'. The English agrees."
+    },
+    {
+     "anchor": "ibn-ezra:21:20:3",
+     "relation": "not-applicable",
+     "summary": "On the words 'also here' (הגם הלום) he notes that it was there that the angel first appeared to her, a cross-reference to an earlier scene. It does not bear on the words of 21:20."
+    },
+    {
+     "anchor": "ramban:21:20:1",
+     "relation": "follows",
+     "summary": "Ramban: because קַשָּׁת is a descriptive noun, some said that רֹבֶה is the one who shoots arrows (from Job 16:13 and Gen. 49:23) and קַשָּׁת the maker of bows. More correct, he says, is that רֹבֶה is a shooter in general, said of one who shoots arrows or throws stones (as 'which I cast', Gen. 31:51), and so the verse describes him again as a bowman (קַשָּׁת), like 1 Sam. 31:3. The English 'archer' agrees."
+    },
+    {
+     "anchor": "rashi:21:20:1",
+     "relation": "follows",
+     "summary": "Rashi glosses רֹבֶה as 'one who shoots arrows with the bow' (יוֹרֶה חִצִּים בְּקֶשֶׁת). The English 'archer' is the same reading."
+    },
+    {
+     "anchor": "rashi:21:20:2",
+     "relation": "follows",
+     "summary": "Rashi takes קַשָּׁת as a name of a trade, like 'donkey driver', 'camel driver' and 'hunter' (ḥammar, gammal, tzayyad), so 'bowman'. His statement that the boy robbed passers-by is midrash, not the plain sense, and the English does not take it."
+    },
+    {
+     "anchor": "radak:21:20:1",
+     "relation": "records",
+     "summary": "Radak glosses 'God was with him' as God making him succeed in many deeds. The English keeps 'was with'; the gloss is kept here."
+    },
+    {
+     "anchor": "radak:21:20:6",
+     "relation": "records",
+     "summary": "Radak allows that קַשָּׁת means a bow-maker, like 'thief', and that רֹבֶה is the shooter with the preposition dropped, 'shooting with the bow'. The English takes the bowman sense; the other readings are recorded here."
+    }
+   ],
+   "context": [
+    "A bow was the weapon of the hunter and of the warrior in the ancient Near East. Isaiah 21:17 speaks of the bowmen, the mighty men of Kedar, and Genesis 25:13 lists Kedar among the sons of Ishmael."
+   ]
+  },
+  {
+   "ref": "21:21",
+   "english": "He lived in the wilderness of Paran, and his mother took a wife for him from the land of Egypt.",
+   "literal": "and-lived in-the-wilderness of-Paran and-took-for-him his-mother a-wife from-the-land of-Egypt",
+   "tokens": [
+    {
+     "id": "21:21.1",
+     "gloss": "and lived",
+     "sense": "Qal 3",
+     "note": "Wayyiqtol of יָשַׁב, third masculine singular: the same verb as 21:20.6."
+    },
+    {
+     "id": "21:21.2",
+     "gloss": "in the wilderness of",
+     "sense": "1",
+     "note": "Construct of מִדְבָּר with the name that follows."
+    },
+    {
+     "id": "21:21.3",
+     "gloss": "Paran",
+     "note": "A desert region named in Numbers; see the context note."
+    },
+    {
+     "id": "21:21.4",
+     "gloss": "and took",
+     "sense": "Qal 3.a",
+     "note": "Wayyiqtol of לָקַח, third feminine singular: the mother is the subject."
+    },
+    {
+     "id": "21:21.5",
+     "gloss": "for him",
+     "note": "לוֹ: the dative. The wife is taken for him, by his mother."
+    },
+    {
+     "id": "21:21.6",
+     "gloss": "his mother",
+     "sense": "1",
+     "note": "אֵם in the construct with the third masculine singular suffix."
+    },
+    {
+     "id": "21:21.7",
+     "gloss": "a wife",
+     "sense": "2",
+     "note": "אִשָּׁה: 'woman', here 'wife'."
+    },
+    {
+     "id": "21:21.8",
+     "gloss": "from the land of",
+     "sense": "2.a",
+     "note": "אֶרֶץ in the sense of country, with מִן."
+    },
+    {
+     "id": "21:21.9",
+     "gloss": "Egypt",
+     "sense": "1.a",
+     "note": "The name of the country. The text calls Hagar an Egyptian in 16:1."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "21:21.1",
+      "21:21.2",
+      "21:21.3"
+     ],
+     "english": "He lived in the wilderness of Paran",
+     "literal": "and-lived in-the-wilderness of-Paran"
+    },
+    {
+     "tokens": [
+      "21:21.4",
+      "21:21.5",
+      "21:21.6",
+      "21:21.7"
+     ],
+     "english": "and his mother took a wife for him",
+     "literal": "and-took-for-him his-mother a-wife"
+    },
+    {
+     "tokens": [
+      "21:21.8",
+      "21:21.9"
+     ],
+     "english": "from the land of Egypt",
+     "literal": "from-the-land of-Egypt"
+    }
+   ],
+   "grammar": [
+    "The verse has two wayyiqtols. The boy's life in the desert is set beside his mother's act: 'and his mother took a wife for him'.",
+    "לוֹ (21:21.5) is the dative 'for him'. The verse does not say who the wife was: it names the land, not a family.",
+    "The etnaḥta on פָּארָן (21:21.3) divides the verse into where he lived and whom his mother took. The silluq on מִצְרָיִם ends it, and a paragraph mark (פ) follows."
+   ],
+   "commentary": [
+    {
+     "anchor": "radak:21:21:1",
+     "relation": "records",
+     "summary": "Radak says she took him a wife from her own family, since she saw that he was separated from his father's family, and a man should keep to his kin. The verse names the land, not a family, so the English does not take the reading."
+    }
+   ],
+   "context": [
+    "Paran is named in Numbers (10:12; 13:3) as a wilderness near Sinai and Kadesh, in the south. Its exact limits are uncertain.",
+    "In Genesis the wife of a son is normally found for him by his family: Abraham sends for a wife for Isaac (ch. 24), and Judah takes a wife for Er (38:6). Here it is his mother who does it; the text does not say why the father's family is not asked."
+   ]
+  }
+ ]
+}
