@@ -985,7 +985,7 @@
   },
   {
    "ref": "22:5",
-   "english": "Abraham said to his servants, \"Stay here with the donkey. I and the boy will go as far as there, and we will bow down and we will return to you.\"",
+   "english": "Abraham said to his servants, \"Stay here with the donkey. The boy and I will go as far as there, and we will bow down and we will return to you.\"",
    "literal": "and-he-said Abraham to his-servants stay for-yourselves here with the-donkey and-I and-the-boy we-will-go as-far-as thus and-we-will-bow-down and-we-will-return to-you",
    "tokens": [
     {
@@ -1126,7 +1126,7 @@
       "22:5.11",
       "22:5.12"
      ],
-     "english": "I and the boy will go",
+     "english": "The boy and I will go",
      "literal": "'and-I and-the-boy we-will-go'"
     },
     {

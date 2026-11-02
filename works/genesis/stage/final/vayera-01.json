@@ -344,7 +344,7 @@
   },
   {
    "ref": "18:3",
-   "english": "He said, \"My lord, if I have found favour in your sight, please do not pass by your servant.\"",
+   "english": "He said, \"My lord, if I have found favour in your sight, please do not pass by your servant.",
    "literal": "and-said my-lord if now I-found favour in-your-eyes not now pass-over from-upon your-servant",
    "tokens": [
     {
@@ -481,7 +481,7 @@
   },
   {
    "ref": "18:4",
-   "english": "\"Please, let a little water be brought, and wash your feet, and rest yourselves under the tree.\"",
+   "english": "Please, let a little water be brought, and wash your feet, and rest yourselves under the tree.",
    "literal": "let-be-brought please little-of water and-wash your-feet and-rest-yourselves under the-tree",
    "tokens": [
     {
@@ -590,7 +590,7 @@
   },
   {
    "ref": "18:5",
-   "english": "\"Let me fetch a morsel of bread, and sustain your hearts; afterward you may go on, since you have passed by your servant.\" They said, \"Do so, as you have said.\"",
+   "english": "Let me fetch a morsel of bread, and sustain your hearts; afterward you may go on, since you have passed by your servant.\" They said, \"Do so, as you have said.\"",
    "literal": "and-let-me-fetch a-morsel-of bread and-sustain your-hearts after you-will-pass-on for on-this-account you-passed upon your-servant and-they-said so you-do as-you-spoke",
    "tokens": [
     {

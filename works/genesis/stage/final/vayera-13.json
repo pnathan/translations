@@ -990,7 +990,7 @@
   },
   {
    "ref": "21:13",
-   "english": "And also the son of the maidservant, I will make him into a nation, for he is your offspring.\"",
+   "english": "As for the son of the maidservant, I will make a nation of him too, for he is your offspring.\"",
    "literal": "and-also (object marker) son-of the-maidservant to-nation I-will-make-him for your-offspring he",
    "tokens": [
     {
@@ -1049,7 +1049,7 @@
       "21:13.3",
       "21:13.4"
      ],
-     "english": "And also the son of the maidservant",
+     "english": "As for the son of the maidservant",
      "literal": "and-also (object marker) son-of the-maidservant"
     },
     {
@@ -1057,7 +1057,7 @@
       "21:13.5",
       "21:13.6"
      ],
-     "english": "I will make him into a nation",
+     "english": "I will make a nation of him too",
      "literal": "to-nation I-will-make-him: the complement comes first in the Hebrew"
     },
     {

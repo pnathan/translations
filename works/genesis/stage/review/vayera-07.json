@@ -921,6 +921,86 @@
    "value": "Hurry, escape there, for I cannot do anything until you arrive there.\" Therefore he called the name of the city Zoar.",
    "severity": "style",
    "reason": "editor: Lot's speech runs 19:18–20 and the angel's 19:21–22; each quotation opens and closes once."
+  },
+  {
+   "ref": "19:19",
+   "path": "english",
+   "value": "Look, please, your servant has found favour in your eyes, and you have shown great kindness to me by saving my life. But I cannot escape to the mountain, lest the disaster overtake me and I die.",
+   "severity": "style",
+   "reason": "consistency: spelling 'favour' as in 18:3 and the majority of the book"
+  },
+  {
+   "ref": "19:19",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:19.1",
+      "19:19.2"
+     ],
+     "english": "Look, please",
+     "literal": "'look please': the hinneh-na opening."
+    },
+    {
+     "tokens": [
+      "19:19.3",
+      "19:19.4",
+      "19:19.5",
+      "19:19.6"
+     ],
+     "english": "your servant has found favour in your eyes",
+     "literal": "'has-found your-servant favour in-your-eyes': the idiom of asking for favour."
+    },
+    {
+     "tokens": [
+      "19:19.7",
+      "19:19.8"
+     ],
+     "english": "and you have shown great kindness",
+     "literal": "'and-you-made-great your-kindness': the wayyiqtol continues the qatal."
+    },
+    {
+     "tokens": [
+      "19:19.9",
+      "19:19.10",
+      "19:19.11"
+     ],
+     "english": "to me",
+     "literal": "'which you-did with-me': the relative clause; the English gives the object of the kindness."
+    },
+    {
+     "tokens": [
+      "19:19.12",
+      "19:19.13",
+      "19:19.14"
+     ],
+     "english": "by saving my life",
+     "literal": "'to-keep-alive my-life': the infinitive says what the kindness was."
+    },
+    {
+     "tokens": [
+      "19:19.15",
+      "19:19.16",
+      "19:19.17",
+      "19:19.18",
+      "19:19.19"
+     ],
+     "english": "But I cannot escape to the mountain",
+     "literal": "'and-I not am-able to-escape to-the-mountain': the contrast; the plea."
+    },
+    {
+     "tokens": [
+      "19:19.20",
+      "19:19.21",
+      "19:19.22",
+      "19:19.23"
+     ],
+     "english": "lest the disaster overtake me and I die",
+     "literal": "'lest cling-to-me the-evil and-I-die': the feared result."
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
   }
  ],
  "verdicts": [

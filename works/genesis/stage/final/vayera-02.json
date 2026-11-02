@@ -413,7 +413,7 @@
   },
   {
    "ref": "18:12",
-   "english": "Sarah laughed to herself, saying, \"After I am worn out, shall I have delight, and my lord is old?\"",
+   "english": "Sarah laughed to herself, saying, \"After I am worn out, shall I have delight, when my lord is old?\"",
    "literal": "and-she-laughed Sarah within-her-inward-part saying after my-being-worn-out she-was to-me delight and-my-lord old",
    "tokens": [
     {
@@ -514,7 +514,7 @@
       "18:12.10",
       "18:12.11"
      ],
-     "english": "and my lord is old",
+     "english": "when my lord is old",
      "literal": "and-my-lord old"
     }
    ],
@@ -558,7 +558,7 @@
   },
   {
    "ref": "18:13",
-   "english": "The LORD said to Abraham, \"Why is it that Sarah laughed, saying, 'Is it even true that I shall bear a child, now that I have grown old?'\"",
+   "english": "The LORD said to Abraham, \"Why is it that Sarah laughed, saying, 'Is it even true that I shall bear a child, now that I have grown old?'",
    "literal": "and-said the-LORD to Abraham why this laughed Sarah saying is-it-even truly I-shall-bear and-I have-grown-old",
    "tokens": [
     {
@@ -731,7 +731,7 @@
   },
   {
    "ref": "18:14",
-   "english": "Is anything hidden from the LORD? At the appointed time I will return to you, at this time next year, with Sarah alive, and Sarah will have a son.",
+   "english": "Is anything hidden from the LORD? At the appointed time I will return to you, at this time next year, with Sarah alive, and Sarah will have a son.\"",
    "literal": "is-it-hidden from-the-LORD anything to-the-appointed-time I-will-return to-you as-the-time living and-to-Sarah son",
    "tokens": [
     {

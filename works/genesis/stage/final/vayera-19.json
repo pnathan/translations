@@ -4,7 +4,7 @@
  "segments": [
   {
    "ref": "22:17",
-   "english": "that I will surely bless you, and I will surely multiply your offspring like the stars of the sky and like the sand which is on the shore of the sea, and your offspring will possess the cities of his enemies.",
+   "english": "I will surely bless you, and I will surely multiply your offspring like the stars of the sky and like the sand which is on the shore of the sea, and your offspring will possess the cities of his enemies,",
    "literal": "that blessing I-will-bless-you and-multiplying I-will-multiply [object] your-offspring like-stars-of the-sky and-like-the-sand which upon edge-of the-sea and-will-possess your-offspring [object] gate-of his-enemies",
    "tokens": [
     {
@@ -121,7 +121,7 @@
       "22:17.2",
       "22:17.3"
      ],
-     "english": "that I will surely bless you",
+     "english": "I will surely bless you",
      "literal": "that blessing I-will-bless-you: the infinitive absolute gives the emphasis of 'surely'"
     },
     {
@@ -360,7 +360,7 @@
   },
   {
    "ref": "22:19",
-   "english": "Abraham returned to his young men. They rose and went together to Beersheba, and Abraham lived in Beersheba.",
+   "english": "Abraham returned to his servants. They rose and went together to Beersheba, and Abraham lived in Beersheba.",
    "literal": "and-returned Abraham to his-young-men and-rose and-went together to Beersheba and-lived Abraham in-Beersheba",
    "tokens": [
     {
@@ -447,7 +447,7 @@
       "22:19.3",
       "22:19.4"
      ],
-     "english": "Abraham returned to his young men",
+     "english": "Abraham returned to his servants",
      "literal": "and-returned Abraham to-his-young-men: the wayyiqtol first, then the subject"
     },
     {
@@ -508,7 +508,7 @@
   },
   {
    "ref": "22:20",
-   "english": "After these things, it happened that it was told to Abraham, saying, \"Look, Milcah, she too, has borne sons to Nahor, your brother.\"",
+   "english": "After these things, it happened that it was told to Abraham, saying, \"Look, Milcah, she too, has borne sons to Nahor, your brother.",
    "literal": "and-it-happened after the-things the-these and-it-was-told to-Abraham saying look she-bore Milcah too she sons to-Nahor your-brother",
    "tokens": [
     {
@@ -810,7 +810,7 @@
   },
   {
    "ref": "22:22",
-   "english": "Kesed, Hazo, Pildash, Jidlaph, and Bethuel.",
+   "english": "Kesed, Hazo, Pildash, Jidlaph, and Bethuel.\"",
    "literal": "and-[object] Kesed and-[object] Hazo and-[object] Pildash and-[object] Jidlaph and-[object] Bethuel",
    "tokens": [
     {

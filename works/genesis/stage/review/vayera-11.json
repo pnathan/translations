@@ -680,6 +680,117 @@
    },
    "severity": "error",
    "reason": "the summary said the people fear 'Sarah's protector' and left out Ramban's reading of וְנֹכָחַת (she argued, in her praise) and that the silver is the covering"
+  },
+  {
+   "ref": "20:13",
+   "path": "english",
+   "value": "When God made me wander from my father's house, I said to her, 'This is your kindness that you will do with me: at every place where we come, say of me, \"He is my brother.\"'\"",
+   "severity": "style",
+   "reason": "consistency: plain English; 'it came about' is a calque"
+  },
+  {
+   "ref": "20:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "20:13.1"
+     ],
+     "english": "-",
+     "literal": "'and-it-came-to-pass'"
+    },
+    {
+     "tokens": [
+      "20:13.2"
+     ],
+     "english": "when",
+     "literal": "'when'"
+    },
+    {
+     "tokens": [
+      "20:13.3",
+      "20:13.4",
+      "20:13.5"
+     ],
+     "english": "God made me wander",
+     "literal": "'they-made-wander me God'"
+    },
+    {
+     "tokens": [
+      "20:13.6",
+      "20:13.7"
+     ],
+     "english": "from my father's house",
+     "literal": "'from-house of-my-father'"
+    },
+    {
+     "tokens": [
+      "20:13.8",
+      "20:13.9"
+     ],
+     "english": "I said to her",
+     "literal": "'and-I-said to-her'"
+    },
+    {
+     "tokens": [
+      "20:13.10",
+      "20:13.11"
+     ],
+     "english": "This is your kindness",
+     "literal": "'this kindness-of-you'"
+    },
+    {
+     "tokens": [
+      "20:13.12",
+      "20:13.13",
+      "20:13.14"
+     ],
+     "english": "that you will do with me",
+     "literal": "'which you-will-do with-me'"
+    },
+    {
+     "tokens": [
+      "20:13.15",
+      "20:13.16",
+      "20:13.17"
+     ],
+     "english": "at every place",
+     "literal": "'to every the-place'"
+    },
+    {
+     "tokens": [
+      "20:13.18",
+      "20:13.19"
+     ],
+     "english": "where we come",
+     "literal": "'which we-come'"
+    },
+    {
+     "tokens": [
+      "20:13.20"
+     ],
+     "english": "-",
+     "literal": "'thither': no English counterpart after 'where we come'"
+    },
+    {
+     "tokens": [
+      "20:13.21",
+      "20:13.22"
+     ],
+     "english": "say of me",
+     "literal": "'say to-me': לי is 'of me, concerning me' (Rashi עלי; Ibn Ezra בשבילי, as in Exodus 14:3)"
+    },
+    {
+     "tokens": [
+      "20:13.23",
+      "20:13.24"
+     ],
+     "english": "He is my brother",
+     "literal": "'my-brother he'"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
   }
  ],
  "verdicts": [

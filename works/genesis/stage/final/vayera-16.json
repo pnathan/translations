@@ -353,7 +353,7 @@
   },
   {
    "ref": "21:32",
-   "english": "So they made a covenant at Beersheba, and Abimelech rose, and Phichol, commander of his army, and they returned to the land of the Philistines.",
+   "english": "So they made a covenant at Beersheba, and Abimelech rose, and Phichol, the commander of his army, and they returned to the land of the Philistines.",
    "literal": "and-they-cut covenant at-well-of-seven and-rose Abimelech and-Phichol commander-of-his-army and-they-returned to-land-of Philistines",
    "tokens": [
     {
@@ -467,7 +467,7 @@
       "21:32.8",
       "21:32.9"
      ],
-     "english": "commander of his army",
+     "english": "the commander of his army",
      "literal": "commander-of-his-army"
     },
     {

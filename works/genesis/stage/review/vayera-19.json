@@ -177,6 +177,131 @@
    ],
    "severity": "error",
    "reason": "The note had Radak read the 'too' as a return to the concubine; he reads it as 'to him'."
+  },
+  {
+   "ref": "22:17",
+   "path": "english",
+   "value": "I will surely bless you, and I will surely multiply your offspring like the stars of the sky and like the sand which is on the shore of the sea, and your offspring will possess the cities of his enemies,",
+   "severity": "style",
+   "reason": "consistency: oath clause 'because ..., that I will' is not English; 22:17 and 22:18 are one sentence (no full stop before 'and all the nations')"
+  },
+  {
+   "ref": "22:17",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "22:17.1",
+      "22:17.2",
+      "22:17.3"
+     ],
+     "english": "I will surely bless you",
+     "literal": "that blessing I-will-bless-you: the infinitive absolute gives the emphasis of 'surely'"
+    },
+    {
+     "tokens": [
+      "22:17.4",
+      "22:17.5",
+      "22:17.6",
+      "22:17.7"
+     ],
+     "english": "and I will surely multiply your offspring",
+     "literal": "and-multiplying I-will-multiply [object] your-offspring"
+    },
+    {
+     "tokens": [
+      "22:17.8",
+      "22:17.9",
+      "22:17.10"
+     ],
+     "english": "like the stars of the sky and like the sand",
+     "literal": "like-stars-of the-sky and-like-the-sand"
+    },
+    {
+     "tokens": [
+      "22:17.11",
+      "22:17.12",
+      "22:17.13",
+      "22:17.14"
+     ],
+     "english": "which is on the shore of the sea",
+     "literal": "which upon edge-of the-sea: the relative clause, with 'is' supplied"
+    },
+    {
+     "tokens": [
+      "22:17.15",
+      "22:17.16",
+      "22:17.17",
+      "22:17.18",
+      "22:17.19"
+     ],
+     "english": "and your offspring will possess the cities of his enemies",
+     "literal": "and-will-possess your-offspring [object] gate-of his-enemies: 'gate' for the town, as in the commentary"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
+  },
+  {
+   "ref": "22:19",
+   "path": "english",
+   "value": "Abraham returned to his servants. They rose and went together to Beersheba, and Abraham lived in Beersheba.",
+   "severity": "style",
+   "reason": "consistency: נְעָרָיו is 'servants' in 22:3 and 22:5"
+  },
+  {
+   "ref": "22:19",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "22:19.1",
+      "22:19.2",
+      "22:19.3",
+      "22:19.4"
+     ],
+     "english": "Abraham returned to his servants",
+     "literal": "and-returned Abraham to-his-young-men: the wayyiqtol first, then the subject"
+    },
+    {
+     "tokens": [
+      "22:19.5",
+      "22:19.6",
+      "22:19.7",
+      "22:19.8",
+      "22:19.9",
+      "22:19.10"
+     ],
+     "english": "They rose and went together to Beersheba",
+     "literal": "and-rose and-went together to Beersheba: the plural subject is Abraham and his young men"
+    },
+    {
+     "tokens": [
+      "22:19.11",
+      "22:19.12",
+      "22:19.13",
+      "22:19.14"
+     ],
+     "english": "and Abraham lived in Beersheba",
+     "literal": "and-lived Abraham in-Beersheba"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
+  },
+  {
+   "ref": "22:20",
+   "path": "english",
+   "value": "After these things, it happened that it was told to Abraham, saying, \"Look, Milcah, she too, has borne sons to Nahor, your brother.",
+   "severity": "style",
+   "reason": "consistency: speech spanning verses opens in its first verse and closes in its last (22:20-22: the report includes the list of sons)"
+  },
+  {
+   "ref": "22:22",
+   "path": "english",
+   "value": "Kesed, Hazo, Pildash, Jidlaph, and Bethuel.\"",
+   "severity": "style",
+   "reason": "consistency: speech spanning verses opens in its first verse and closes in its last (22:20-22)"
   }
  ],
  "verdicts": [

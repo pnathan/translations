@@ -319,6 +319,111 @@
    ],
    "severity": "style",
    "reason": "A reader needs why the oath is 'by myself' and that the formula is prophetic."
+  },
+  {
+   "ref": "22:11",
+   "path": "english",
+   "value": "The angel of the LORD called to him from the heavens and said, \"Abraham, Abraham.\" He said, \"Here I am.\"",
+   "severity": "style",
+   "reason": "consistency: speech introduced by a comma"
+  },
+  {
+   "ref": "22:12",
+   "path": "english",
+   "value": "He said, \"Do not stretch out your hand against the boy or do anything to him, for now I know that you fear God, and you have not withheld your son, your only one, from me.\"",
+   "severity": "style",
+   "reason": "consistency: speech introduced by a comma"
+  },
+  {
+   "ref": "22:13",
+   "path": "english",
+   "value": "Abraham lifted his eyes and saw, and here was a ram that had been caught in the thicket by its horns. Abraham went and took the ram and offered it up as a burnt offering instead of his son.",
+   "severity": "style",
+   "reason": "consistency: Ibn Ezra's temporal reading (אחר נאחז, after it was caught) in English that reads"
+  },
+  {
+   "ref": "22:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "22:13.1",
+      "22:13.2",
+      "22:13.3",
+      "22:13.4"
+     ],
+     "english": "Abraham lifted his eyes",
+     "literal": "and-lifted Abraham [object] his-eyes"
+    },
+    {
+     "tokens": [
+      "22:13.5"
+     ],
+     "english": "and saw",
+     "literal": "and-saw"
+    },
+    {
+     "tokens": [
+      "22:13.6",
+      "22:13.7",
+      "22:13.8",
+      "22:13.9",
+      "22:13.10",
+      "22:13.11"
+     ],
+     "english": "and here was a ram that had been caught in the thicket by its horns",
+     "literal": "and-here ram after caught in-the-thicket by-his-horns"
+    },
+    {
+     "tokens": [
+      "22:13.12",
+      "22:13.13"
+     ],
+     "english": "Abraham went",
+     "literal": "and-went Abraham"
+    },
+    {
+     "tokens": [
+      "22:13.14",
+      "22:13.15",
+      "22:13.16"
+     ],
+     "english": "and took the ram",
+     "literal": "and-took [object] the-ram"
+    },
+    {
+     "tokens": [
+      "22:13.17",
+      "22:13.18"
+     ],
+     "english": "offered it up as a burnt offering",
+     "literal": "and-caused-to-ascend-him for-burnt-offering"
+    },
+    {
+     "tokens": [
+      "22:13.19",
+      "22:13.20"
+     ],
+     "english": "instead of his son",
+     "literal": "instead-of his-son"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
+  },
+  {
+   "ref": "22:14",
+   "path": "english",
+   "value": "Abraham named that place Adonai-yireh, as it is said today, \"On the mountain of the LORD it will be seen.\"",
+   "severity": "style",
+   "reason": "consistency: quotation introduced by a comma"
+  },
+  {
+   "ref": "22:16",
+   "path": "english",
+   "value": "He said, \"By myself I have sworn, declares the LORD, because you have done this thing and have not withheld your son, your only one,",
+   "severity": "style",
+   "reason": "consistency: speech introduced by a comma"
   }
  ],
  "verdicts": [

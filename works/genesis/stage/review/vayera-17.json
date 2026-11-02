@@ -422,6 +422,86 @@
    "value": "Onkelos has 'Abraham said before the LORD: manifest to him is the lamb for the burnt offering, my son' (גְּלֵי לֵיהּ), taking 'will see' as 'is manifest (known)' and adding 'before the LORD', which the Hebrew does not have. The English keeps 'see for himself' and adds nothing.",
    "severity": "error",
    "reason": "גְּלֵי is 'manifest', not 'will reveal'; and Onkelos' words 'before the LORD' qualify Abraham's speech."
+  },
+  {
+   "ref": "22:5",
+   "path": "english",
+   "value": "Abraham said to his servants, \"Stay here with the donkey. The boy and I will go as far as there, and we will bow down and we will return to you.\"",
+   "severity": "style",
+   "reason": "consistency: plain English"
+  },
+  {
+   "ref": "22:5",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "22:5.1",
+      "22:5.2"
+     ],
+     "english": "Abraham said",
+     "literal": "'and-he-said Abraham'"
+    },
+    {
+     "tokens": [
+      "22:5.3",
+      "22:5.4"
+     ],
+     "english": "to his servants,",
+     "literal": "'to his-servants'"
+    },
+    {
+     "tokens": [
+      "22:5.5",
+      "22:5.6",
+      "22:5.7"
+     ],
+     "english": "\"Stay here",
+     "literal": "'stay for-yourselves here'; the dative is idiomatic"
+    },
+    {
+     "tokens": [
+      "22:5.8",
+      "22:5.9"
+     ],
+     "english": "with the donkey.",
+     "literal": "'with the-donkey'"
+    },
+    {
+     "tokens": [
+      "22:5.10",
+      "22:5.11",
+      "22:5.12"
+     ],
+     "english": "The boy and I will go",
+     "literal": "'and-I and-the-boy we-will-go'"
+    },
+    {
+     "tokens": [
+      "22:5.13",
+      "22:5.14"
+     ],
+     "english": "as far as there,",
+     "literal": "'as-far-as thus'"
+    },
+    {
+     "tokens": [
+      "22:5.15"
+     ],
+     "english": "and we will bow down",
+     "literal": "'and-we-will-bow-down'"
+    },
+    {
+     "tokens": [
+      "22:5.16",
+      "22:5.17"
+     ],
+     "english": "and we will return to you.\"",
+     "literal": "'and-we-will-return to-you'"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
   }
  ],
  "verdicts": [

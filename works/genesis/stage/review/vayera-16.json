@@ -385,6 +385,76 @@
    "value": "Radak: Abraham stayed there many days because he had a covenant with Abimelech and feared no one. He adds that most of the land of the Philistines is called אֶרֶץ שֶׁבַע, a land of plenty, as appears from the Shunammite, who stayed there seven years because of the famine (2 Kings 8). This gives reasons for the long stay that the text does not state.",
    "severity": "error",
    "reason": "The old summary made the Shunammite a comparison of the stay; Radak uses her to show the land was good to live in."
+  },
+  {
+   "ref": "21:32",
+   "path": "english",
+   "value": "So they made a covenant at Beersheba, and Abimelech rose, and Phichol, the commander of his army, and they returned to the land of the Philistines.",
+   "severity": "style",
+   "reason": "consistency: 'the commander of his army' as in 21:22"
+  },
+  {
+   "ref": "21:32",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:32.1",
+      "21:32.2"
+     ],
+     "english": "So they made a covenant",
+     "literal": "and-they-cut covenant"
+    },
+    {
+     "tokens": [
+      "21:32.3",
+      "21:32.4"
+     ],
+     "english": "at Beersheba",
+     "literal": "at-well-of-seven"
+    },
+    {
+     "tokens": [
+      "21:32.5",
+      "21:32.6"
+     ],
+     "english": "and Abimelech rose",
+     "literal": "and-rose Abimelech"
+    },
+    {
+     "tokens": [
+      "21:32.7"
+     ],
+     "english": "and Phichol",
+     "literal": "and-Phichol"
+    },
+    {
+     "tokens": [
+      "21:32.8",
+      "21:32.9"
+     ],
+     "english": "the commander of his army",
+     "literal": "commander-of-his-army"
+    },
+    {
+     "tokens": [
+      "21:32.10"
+     ],
+     "english": "and they returned",
+     "literal": "and-they-returned"
+    },
+    {
+     "tokens": [
+      "21:32.11",
+      "21:32.12",
+      "21:32.13"
+     ],
+     "english": "to the land of the Philistines",
+     "literal": "to-land-of Philistines"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
   }
  ],
  "verdicts": [

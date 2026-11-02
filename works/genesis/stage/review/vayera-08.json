@@ -566,6 +566,74 @@
    "value": "the firstborn",
    "severity": "style",
    "reason": "editor: הַבְּכִירָה is 'the firstborn' throughout 19:31–37; the speech runs on into 19:32, where the quotation closes."
+  },
+  {
+   "ref": "19:30",
+   "path": "english",
+   "value": "And Lot went up from Zoar and lived in the mountain, and his two daughters with him, because he feared to live in Zoar, and he lived in the cave, he and his two daughters.",
+   "severity": "style",
+   "reason": "consistency: ישב is 'lived' elsewhere (20:1, 21:20, 22:19), not 'dwelt'"
+  },
+  {
+   "ref": "19:30",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "19:30.1",
+      "19:30.2",
+      "19:30.3"
+     ],
+     "english": "And Lot went up from Zoar",
+     "literal": "'and-went-up Lot from-Zoar'"
+    },
+    {
+     "tokens": [
+      "19:30.4",
+      "19:30.5"
+     ],
+     "english": "and lived in the mountain",
+     "literal": "'and-dwelt in-the-mountain'"
+    },
+    {
+     "tokens": [
+      "19:30.6",
+      "19:30.7",
+      "19:30.8"
+     ],
+     "english": "and his two daughters with him",
+     "literal": "'and-two daughters-of-him with-him': the subject of the accompaniment"
+    },
+    {
+     "tokens": [
+      "19:30.9",
+      "19:30.10",
+      "19:30.11",
+      "19:30.12"
+     ],
+     "english": "because he feared to live in Zoar",
+     "literal": "'for feared to-dwell in-Zoar': the causal clause"
+    },
+    {
+     "tokens": [
+      "19:30.13",
+      "19:30.14"
+     ],
+     "english": "and he lived in the cave",
+     "literal": "'and-dwelt in-the-cave'"
+    },
+    {
+     "tokens": [
+      "19:30.15",
+      "19:30.16",
+      "19:30.17"
+     ],
+     "english": "he and his two daughters",
+     "literal": "'he and-two daughters-of-him': the independent pronoun, then the daughters"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
   }
  ],
  "verdicts": [

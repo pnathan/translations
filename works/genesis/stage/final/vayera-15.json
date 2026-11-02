@@ -222,7 +222,7 @@
   },
   {
    "ref": "21:23",
-   "english": "Now swear to me by God here that you will not deal falsely with me, or with my offspring, or with my grandson; as the kindness that I did with you, you shall do with me and with the land in which you have sojourned.\"",
+   "english": "Now swear to me by God here that you will not deal falsely with me, or with my offspring, or with my grandson; according to the kindness that I showed you, you shall deal with me and with the land in which you have sojourned.\"",
    "literal": "and-now swear to-me by-God here if you-deal-falsely to-me and-to my-offspring and-to my-grandson as-the-kindness which I-did with-you you-will-do with-me and-with the-land which you-sojourned in-it",
    "tokens": [
     {
@@ -395,7 +395,7 @@
      "tokens": [
       "21:23.11"
      ],
-     "english": "as the kindness",
+     "english": "according to the kindness",
      "literal": "as-the-kindness"
     },
     {
@@ -410,7 +410,7 @@
       "21:23.13",
       "21:23.14"
      ],
-     "english": "I did with you",
+     "english": "I showed you",
      "literal": "I-did with-you"
     },
     {
@@ -418,7 +418,7 @@
       "21:23.15",
       "21:23.16"
      ],
-     "english": "you shall do with me",
+     "english": "you shall deal with me",
      "literal": "you-will-do with-me; the yiqtol has the force of a request"
     },
     {
@@ -739,7 +739,7 @@
   },
   {
    "ref": "21:26",
-   "english": "Abimelech said, \"I did not know who did this thing. And you also did not tell me, and I also did not hear until today.\"",
+   "english": "Abimelech said, \"I did not know who did this thing. You did not tell me either, and I did not hear of it until today.\"",
    "literal": "and-said Abimelech not I-knew who did [object] the-thing this and-also you not you-told to-me and-also I not heard except the-today",
    "tokens": [
     {
@@ -899,7 +899,7 @@
       "21:26.13",
       "21:26.14"
      ],
-     "english": "And you also did not tell me",
+     "english": "You did not tell me either",
      "literal": "and-also you not told to-me"
     },
     {
@@ -911,7 +911,7 @@
       "21:26.19",
       "21:26.20"
      ],
-     "english": "and I also did not hear until today",
+     "english": "and I did not hear of it until today",
      "literal": "and-also I not heard except today"
     }
    ],

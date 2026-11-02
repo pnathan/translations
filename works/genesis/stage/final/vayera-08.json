@@ -939,7 +939,7 @@
   },
   {
    "ref": "19:30",
-   "english": "And Lot went up from Zoar and dwelt in the mountain, and his two daughters with him, because he feared to dwell in Zoar, and he dwelt in the cave, he and his two daughters.",
+   "english": "And Lot went up from Zoar and lived in the mountain, and his two daughters with him, because he feared to live in Zoar, and he lived in the cave, he and his two daughters.",
    "literal": "and-went-up Lot from-Zoar and-dwelt in-the-mountain and-two daughters-of-him with-him for feared to-dwell in-Zoar and-dwelt in-the-cave he and-two daughters-of-him",
    "tokens": [
     {
@@ -1046,7 +1046,7 @@
       "19:30.4",
       "19:30.5"
      ],
-     "english": "and dwelt in the mountain",
+     "english": "and lived in the mountain",
      "literal": "'and-dwelt in-the-mountain'"
     },
     {
@@ -1065,7 +1065,7 @@
       "19:30.11",
       "19:30.12"
      ],
-     "english": "because he feared to dwell in Zoar",
+     "english": "because he feared to live in Zoar",
      "literal": "'for feared to-dwell in-Zoar': the causal clause"
     },
     {
@@ -1073,7 +1073,7 @@
       "19:30.13",
       "19:30.14"
      ],
-     "english": "and he dwelt in the cave",
+     "english": "and he lived in the cave",
      "literal": "'and-dwelt in-the-cave'"
     },
     {

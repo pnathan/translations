@@ -907,6 +907,27 @@
    "value": "wayyiqtol, 3mp. Rashi: they appeared to eat; Ibn Ezra: the food was consumed, as by fire. See the note.",
    "severity": "error",
    "reason": "editor: from the Opus pilot review. Follows the corrected note."
+  },
+  {
+   "ref": "18:3",
+   "path": "english",
+   "value": "He said, \"My lord, if I have found favour in your sight, please do not pass by your servant.",
+   "severity": "style",
+   "reason": "consistency: speech spanning verses opens in its first verse and closes in its last (18:3-5)"
+  },
+  {
+   "ref": "18:4",
+   "path": "english",
+   "value": "Please, let a little water be brought, and wash your feet, and rest yourselves under the tree.",
+   "severity": "style",
+   "reason": "consistency: speech spanning verses opens in its first verse and closes in its last (18:3-5)"
+  },
+  {
+   "ref": "18:5",
+   "path": "english",
+   "value": "Let me fetch a morsel of bread, and sustain your hearts; afterward you may go on, since you have passed by your servant.\" They said, \"Do so, as you have said.\"",
+   "severity": "style",
+   "reason": "consistency: speech spanning verses opens in its first verse and closes in its last (18:3-5)"
   }
  ],
  "verdicts": [

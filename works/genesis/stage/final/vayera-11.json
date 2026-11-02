@@ -709,7 +709,7 @@
   },
   {
    "ref": "20:13",
-   "english": "And it came about when God made me wander from my father's house, I said to her, 'This is your kindness that you will do with me: at every place where we come, say of me, \"He is my brother.\"'\"",
+   "english": "When God made me wander from my father's house, I said to her, 'This is your kindness that you will do with me: at every place where we come, say of me, \"He is my brother.\"'\"",
    "literal": "and-it-came-to-pass when they-made-wander me God from-house of-my-father; and-I-said to-her: this kindness-of-you which you-will-do with-me; to every the-place which we-come there; say to-me: my-brother he",
    "tokens": [
     {
@@ -837,7 +837,7 @@
      "tokens": [
       "20:13.1"
      ],
-     "english": "And it came about",
+     "english": "-",
      "literal": "'and-it-came-to-pass'"
     },
     {

@@ -619,6 +619,13 @@
    "value": "For we are about to destroy this place, because their outcry has grown great before the LORD, and the LORD sent us to destroy it.\"",
    "severity": "style",
    "reason": "editor: the angels' speech runs on through 19:13; the quotation closes there."
+  },
+  {
+   "ref": "19:8",
+   "path": "english",
+   "value": "Look, please, I have two daughters who have never known a man. Let me bring them out to you now, and do to them as you see fit. Only, to these men do not do anything, since they have come under the shelter of my roof.\"",
+   "severity": "style",
+   "reason": "consistency: speech spanning verses opens in its first verse and closes in its last (19:7-8)"
   }
  ],
  "verdicts": [

@@ -616,6 +616,197 @@
    "value": "After a verb of swearing, אִם introduces the oath and makes it negative: 'that you will not ...' (an elided curse: '[may such and such befall me] if ...'). The abridged BDB lists only 'if', sense 1.",
    "severity": "error",
    "reason": "editor: אִם after 'swear' is the oath formula: 'that you will not deal falsely' (GKC §149); 'swear ... if you deal falsely' leaves the oath without sense. The speech runs 21:22–23."
+  },
+  {
+   "ref": "21:23",
+   "path": "english",
+   "value": "Now swear to me by God here that you will not deal falsely with me, or with my offspring, or with my grandson; according to the kindness that I showed you, you shall deal with me and with the land in which you have sojourned.\"",
+   "severity": "style",
+   "reason": "consistency: 'kindness that I did with you' is a calque"
+  },
+  {
+   "ref": "21:23",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:23.1"
+     ],
+     "english": "Now",
+     "literal": "and-now"
+    },
+    {
+     "tokens": [
+      "21:23.2",
+      "21:23.3"
+     ],
+     "english": "swear to me",
+     "literal": "swear to-me"
+    },
+    {
+     "tokens": [
+      "21:23.4",
+      "21:23.5"
+     ],
+     "english": "by God here",
+     "literal": "by-God here"
+    },
+    {
+     "tokens": [
+      "21:23.6"
+     ],
+     "english": "that",
+     "literal": "if: after a verb of swearing, אִם is the oath formula, \"(may it be so) if\": a negative oath, \"that ... not\""
+    },
+    {
+     "tokens": [
+      "21:23.7",
+      "21:23.8"
+     ],
+     "english": "you will not deal falsely with me",
+     "literal": "you-deal-falsely to-me: the negative comes from the oath formula אִם, not from a word of its own"
+    },
+    {
+     "tokens": [
+      "21:23.9"
+     ],
+     "english": "or with my offspring",
+     "literal": "and-to my-offspring"
+    },
+    {
+     "tokens": [
+      "21:23.10"
+     ],
+     "english": "or with my grandson",
+     "literal": "and-to my-grandson: נֶכֶד, Ibn Ezra's 'son of my son'; BDB 'progeny, posterity'"
+    },
+    {
+     "tokens": [
+      "21:23.11"
+     ],
+     "english": "according to the kindness",
+     "literal": "as-the-kindness"
+    },
+    {
+     "tokens": [
+      "21:23.12"
+     ],
+     "english": "that",
+     "literal": "which: the relative"
+    },
+    {
+     "tokens": [
+      "21:23.13",
+      "21:23.14"
+     ],
+     "english": "I showed you",
+     "literal": "I-did with-you"
+    },
+    {
+     "tokens": [
+      "21:23.15",
+      "21:23.16"
+     ],
+     "english": "you shall deal with me",
+     "literal": "you-will-do with-me; the yiqtol has the force of a request"
+    },
+    {
+     "tokens": [
+      "21:23.17",
+      "21:23.18"
+     ],
+     "english": "and with the land",
+     "literal": "and-with the-land"
+    },
+    {
+     "tokens": [
+      "21:23.19",
+      "21:23.20",
+      "21:23.21"
+     ],
+     "english": "in which you have sojourned",
+     "literal": "which you-sojourned in-it"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
+  },
+  {
+   "ref": "21:26",
+   "path": "english",
+   "value": "Abimelech said, \"I did not know who did this thing. You did not tell me either, and I did not hear of it until today.\"",
+   "severity": "style",
+   "reason": "consistency: plain English"
+  },
+  {
+   "ref": "21:26",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:26.1",
+      "21:26.2"
+     ],
+     "english": "Abimelech said",
+     "literal": "and-said Abimelech"
+    },
+    {
+     "tokens": [
+      "21:26.3",
+      "21:26.4"
+     ],
+     "english": "I did not know",
+     "literal": "not I-did-not-know"
+    },
+    {
+     "tokens": [
+      "21:26.5",
+      "21:26.6"
+     ],
+     "english": "who did",
+     "literal": "who did"
+    },
+    {
+     "tokens": [
+      "21:26.7"
+     ],
+     "english": "-",
+     "literal": "[object marker]"
+    },
+    {
+     "tokens": [
+      "21:26.8",
+      "21:26.9"
+     ],
+     "english": "this thing",
+     "literal": "the-thing this"
+    },
+    {
+     "tokens": [
+      "21:26.10",
+      "21:26.11",
+      "21:26.12",
+      "21:26.13",
+      "21:26.14"
+     ],
+     "english": "You did not tell me either",
+     "literal": "and-also you not told to-me"
+    },
+    {
+     "tokens": [
+      "21:26.15",
+      "21:26.16",
+      "21:26.17",
+      "21:26.18",
+      "21:26.19",
+      "21:26.20"
+     ],
+     "english": "and I did not hear of it until today",
+     "literal": "and-also I not heard except today"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
   }
  ],
  "verdicts": [

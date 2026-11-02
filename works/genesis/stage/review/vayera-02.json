@@ -739,6 +739,76 @@
    ],
    "severity": "style",
    "reason": "A reader needs the geography of 'looked down toward Sodom'; the dispute over the site is named without citing any work."
+  },
+  {
+   "ref": "18:12",
+   "path": "english",
+   "value": "Sarah laughed to herself, saying, \"After I am worn out, shall I have delight, when my lord is old?\"",
+   "severity": "style",
+   "reason": "consistency: plain English, 'when my lord is old'"
+  },
+  {
+   "ref": "18:12",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:12.1",
+      "18:12.2",
+      "18:12.3"
+     ],
+     "english": "Sarah laughed to herself",
+     "literal": "and-she-laughed Sarah within-her; the laugh is inward (Ibn Ezra: בנפשה)"
+    },
+    {
+     "tokens": [
+      "18:12.4"
+     ],
+     "english": "saying",
+     "literal": "to-say"
+    },
+    {
+     "tokens": [
+      "18:12.5",
+      "18:12.6"
+     ],
+     "english": "After I am worn out",
+     "literal": "after my-being-worn-out"
+    },
+    {
+     "tokens": [
+      "18:12.7",
+      "18:12.8",
+      "18:12.9"
+     ],
+     "english": "shall I have delight",
+     "literal": "it-has-been to-me delight: Ibn Ezra reads the qatal as a future (כמו תהיה לי) and the words as a question, 'how shall delight be renewed for me?'"
+    },
+    {
+     "tokens": [
+      "18:12.10",
+      "18:12.11"
+     ],
+     "english": "when my lord is old",
+     "literal": "and-my-lord old"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
+  },
+  {
+   "ref": "18:13",
+   "path": "english",
+   "value": "The LORD said to Abraham, \"Why is it that Sarah laughed, saying, 'Is it even true that I shall bear a child, now that I have grown old?'",
+   "severity": "style",
+   "reason": "consistency: speech spanning verses opens in its first verse and closes in its last (18:13-14, the LORD's speech)"
+  },
+  {
+   "ref": "18:14",
+   "path": "english",
+   "value": "Is anything hidden from the LORD? At the appointed time I will return to you, at this time next year, with Sarah alive, and Sarah will have a son.\"",
+   "severity": "style",
+   "reason": "consistency: speech spanning verses opens in its first verse and closes in its last (18:13-14)"
   }
  ],
  "verdicts": [

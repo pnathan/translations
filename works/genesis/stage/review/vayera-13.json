@@ -437,6 +437,48 @@
    "value": "And also the son of the maidservant, I will make him into a nation, for he is your offspring.\"",
    "severity": "style",
    "reason": "editor: God's speech runs 21:12–13; the quotation closes here."
+  },
+  {
+   "ref": "21:13",
+   "path": "english",
+   "value": "As for the son of the maidservant, I will make a nation of him too, for he is your offspring.\"",
+   "severity": "style",
+   "reason": "consistency: fronted object 'And also ... I will make him' is not English"
+  },
+  {
+   "ref": "21:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:13.1",
+      "21:13.2",
+      "21:13.3",
+      "21:13.4"
+     ],
+     "english": "As for the son of the maidservant",
+     "literal": "and-also (object marker) son-of the-maidservant"
+    },
+    {
+     "tokens": [
+      "21:13.5",
+      "21:13.6"
+     ],
+     "english": "I will make a nation of him too",
+     "literal": "to-nation I-will-make-him: the complement comes first in the Hebrew"
+    },
+    {
+     "tokens": [
+      "21:13.7",
+      "21:13.8",
+      "21:13.9"
+     ],
+     "english": "for he is your offspring",
+     "literal": "for your-offspring he"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
   }
  ],
  "verdicts": [

@@ -510,6 +510,13 @@
    },
    "severity": "error",
    "reason": "The old summary read tav'ishun as 'shame'; the root is בא״ש, 'be bad, do evil'."
+  },
+  {
+   "ref": "19:7",
+   "path": "english",
+   "value": "And he said, \"Please, my brothers, do not act wickedly.",
+   "severity": "style",
+   "reason": "consistency: speech spanning verses opens in its first verse and closes in its last (19:7-8)"
   }
  ],
  "verdicts": [
