@@ -7,7 +7,7 @@ the words they explain. The editions serve readers and learners of Hebrew.
 
 | Work | Text | Morphology | Commentators |
 |------|------|------------|--------------|
-| Genesis 1:1–17:27 (Bereshit, Noach, Lekh Lekha) | Miqra according to the Masorah (Sefaria), collated with the WLC | OSHB | Rashi, Ibn Ezra (normative); Ramban, Radak, Sforno |
+| Genesis 1–50 (Bereshit to Vayechi; 18–50 in progress) | Miqra according to the Masorah (Sefaria), collated with the WLC | OSHB | 1–17: Rashi, Ibn Ezra (normative); from 18: Ibn Ezra (normative); Rashi, Ramban, Radak, Sforno, Onkelos |
 | Pirkei Avot 1–6 | Torat Emet (Sefaria), collated with Vilna 1913 | model, reviewed | Bartenura, Rambam (normative); Rabbeinu Yonah |
 
 ## Pipeline
@@ -15,7 +15,8 @@ the words they explain. The editions serve readers and learners of Hebrew.
 ```
 fetch ─► build ─► [morph] ─► translate ─► review ─► apply ─► render
 Sefaria   corpus    model      model        model     merge     edition.md
-OSHB      anchors   (Mishnah)  (Haiku)      (Opus)    patches   docs/<work>/*.html
+OSHB      anchors   (Mishnah)  (Haiku)      (Sonnet)  patches   docs/<work>/*.html
+BDB       lexicon                                                docs/lexicon (concord)
 BDB       lexicon
           packs
 ```
@@ -38,6 +39,17 @@ BDB       lexicon
 5. `tr apply WORK` merges the reviews into `stage/final/`.
 6. `tr render WORK` writes `works/WORK/edition.md` and `docs/WORK/`.
 
+`tr concord WORK…` joins the final translations of the works named into
+the concordance, `docs/lexicon/`: every root, its lemmas, each lemma's
+senses, and under each sense every word whose reviewed translation chose
+it, with links into the text. Roots join across works on their consonants
+with the shin and sin dots kept; an undotted root (the Mishnah's model
+roots) takes the dot of its lemma's pointed headword, else the one dotted
+root with its consonants, else stays apart, marked undetermined. Nothing in
+it is written by a model. The section pages link each word to its root, and
+their 3D view swings the page back to show, behind it, every verse of the
+corpus that uses the word's root, the root's words highlighted.
+
 `tr report WORK` writes `works/WORK/review.md`: patch counts per unit and
 every open question the review put to the editor. `tr status WORK` lists
 the stage of every unit; `tr show WORK REF…` prints
@@ -55,6 +67,14 @@ from the repository root. Go standard library only.
   ketiv and qere, and Torat Emet against Vilna are recorded per token.
 - No Unicode normalization of stored Hebrew (NFC reorders Hebrew marks).
   Matching uses consonant skeletons.
+- The English is the plain translation of the words. A commentator decides
+  between readings of the words; his explanation of what happened or why
+  goes in the notes, never in the English line.
+- Genesis from chapter 18: Ibn Ezra is the one normative commentator;
+  Rashi is consulted, his midrash recorded. The ancient Near Eastern
+  setting is rendered as the evidence shows it, and the `context` notes
+  name disputes as disputes; they cite no modern work, since the pipeline
+  fetches none. See `works/genesis/decisions.md`.
 
 ## Models
 
@@ -63,12 +83,30 @@ Haiku drew 40 error patches (223k tokens, 6 min), Sonnet at low effort 19
 (145k tokens, 2 min). Sonnet translates; Opus reviews; Haiku tagged the
 Avot morphology. The Haiku translations are kept in `stage/alt/haiku/`.
 
+Genesis 18–50 is translated by Haiku (medium effort) and reviewed by
+Sonnet, for cost. On Genesis 18:1–8 one Haiku translation drew 26 error
+patches from Opus and 37 from Sonnet; each review found faults the other
+missed (8 shared), and the unit's review merges both
+(`stage/alt/opus-pilot/`, `stage/alt/sonnet-review/`). A Haiku review of
+the same unit found 5, two of them wrong (`stage/alt/haiku-review/`).
+Units are reviewed one by one; a consistency pass per parasha checks
+names, recurring terms and quotations that cross units.
+
 ## Known limitations
 
-- BDB senses without a `<def>` element in the OpenScriptures XML are not
-  extracted, so some entries lack senses (מֵאָה "hundred" lists only
-  "hundredth"). Reviewers removed such senses and said so in the token
-  note. Re-extraction would renumber `#k` paths; it waits for a new run.
+- The abridged OpenScriptures BDB gives many senses no `<def>` (שָׁמַע Qal:
+  "subj. pers. hum."). They are now extracted, their gloss the nearest
+  definition above and their own text; a derived stem names the
+  definition it derives from ("subj. God (Hiph of: die)"). All 6,879
+  senses cited before the change resolve to the same gloss. Genesis 1–17
+  was translated before it; some of its tokens lack a sense that now
+  exists.
+- The packs list every sense of an entry. They once cut entries at 24
+  senses, hiding the derived stems of eight long verbs (שׁוּב, הָלַךְ, עָלָה);
+  no final unit carried a derived-stem form of them without a sense.
+- Sefaria has no Ramban on Genesis 50.
+- OSHB links some forms to the wrong lemma (רָבָּה 18:20, a verb, to the
+  adjective רַב); the review removes the sense and says so.
 - Avot: a model lemma is attached to the first Sefaria candidate entry,
   which is sometimes the wrong homograph; the review repoints `lex` where
   the pack lists the right one.
