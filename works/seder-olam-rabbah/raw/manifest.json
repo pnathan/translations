@@ -1,0 +1,9 @@
+[
+  {
+    "name": "text/30.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Seder_Olam_Rabbah.30?version=hebrew%7CSeder%20Olam%2C%20Warsaw%201904&return_format=default",
+    "fetched": "2026-11-02",
+    "sha256": "2b4cde7195670fe31f34c7d2d43c9d4398518fc8776b6ee7ce14e70f368d3348",
+    "bytes": 10390
+  }
+]
