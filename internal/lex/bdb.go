@@ -268,6 +268,14 @@ func (ix *Index) readBDB(r io.Reader) error {
 						gloss = base + " — " + own
 					case own != "":
 						gloss = own
+					case base != "" && f.n == "" && !f.kids && stem != "":
+						// A bare stem with only a count (שָׁתָה: "Qal 216"):
+						// the entry's definition is the Qal's.
+						if stem == "Qal" || !inherited {
+							gloss = base
+						} else {
+							gloss = "(" + stem + " of: " + base + ")"
+						}
 					}
 				}
 				if gloss != "" {

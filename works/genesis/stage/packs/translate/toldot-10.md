@@ -627,5 +627,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:v.eb.ac` שָׁמָן (n.[m.]) root שׁמן: fat, fertile, place
 
 ### `bdb:v.gi.aa` שָׁתָה (vb) root שׁתה: drink
+- `Qal` Qal drink
 - `Niph` Niph is, drunk
 

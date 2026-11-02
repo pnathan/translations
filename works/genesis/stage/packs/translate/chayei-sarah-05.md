@@ -1005,6 +1005,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `Pu` Pu the marrow of his bones is watered
 
 ### `bdb:v.gi.aa` שָׁתָה (vb) root שׁתה: drink
+- `Qal` Qal drink
 - `Niph` Niph is, drunk
 
 ### `bdb:w.an.aa` תַּחַת (n.[m.]) root תחת: the under part, underneath, below, instead of

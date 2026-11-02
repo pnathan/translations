@@ -686,6 +686,7 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 - `5` memorial, monument
 
 ### `bdb:v.gi.aa` שָׁתָה (vb) root שׁתה: drink
+- `Qal` Qal drink
 - `Niph` Niph is, drunk
 
 ### `bdb:w.az.ad` תָּם (adj) root תמם: complete

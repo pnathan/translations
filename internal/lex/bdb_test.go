@@ -10,7 +10,7 @@ func TestReadBDBSensesWithoutDef(t *testing.T) {
 <sense><stem>Qal</stem> 1052 <sense n="1">subj. pers. hum.</sense> <sense n="2">1st of men</sense></sense>
 <sense><stem>Niph</stem>. <sense n="1"><def>be heard</def></sense></sense>
 <sense><stem>Hiph</stem>. 63 <sense n="1">of man</sense></sense>
-</entry></lexicon>`
+</entry><entry id="v.gi.aa"><w>שָׁתָה</w> <def>drink</def> <sense><stem>Qal</stem> 216</sense> <sense><stem>Hoph</stem> 2</sense></entry></lexicon>`
 	ix := &Index{bdb: map[string]*bdbEntry{}}
 	if err := ix.readBDB(strings.NewReader(x)); err != nil {
 		t.Fatal(err)
@@ -24,6 +24,17 @@ func TestReadBDBSensesWithoutDef(t *testing.T) {
 		"Qal 2":  "hear — 1st of men",
 		"Niph 1": "be heard",
 		"Hiph 1": "of man (Hiph of: hear)",
+	}
+	for p, g := range map[string]string{"Qal": "drink", "Hoph": "(Hoph of: drink)"} {
+		var have string
+		for _, s := range ix.bdb["v.gi.aa"].Senses {
+			if s.Path == p {
+				have = s.Gloss
+			}
+		}
+		if have != g {
+			t.Errorf("bare stem %s = %q, want %q", p, have, g)
+		}
 	}
 	if len(got) != len(want) {
 		t.Errorf("senses %v", got)

@@ -715,5 +715,6 @@ Senses are cited by entry key and path. BDB entries list senses by stem (binyan)
 ### `bdb:v.fq.ad` מִשְׁקָל (n.m) root שׁקל: weight
 
 ### `bdb:v.gi.aa` שָׁתָה (vb) root שׁתה: drink
+- `Qal` Qal drink
 - `Niph` Niph is, drunk
 
