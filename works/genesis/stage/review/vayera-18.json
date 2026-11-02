@@ -1,0 +1,351 @@
+{
+ "unit": "vayera-18",
+ "model": "sonnet",
+ "summary": "The unit is mostly sound in verbs, persons and senses, and the English line reads the plain Hebrew. The main faults are in the commentary and the notes: Rashi at 22:13 was marked as following Ibn Ezra when his reading (אחר joined to 'lifted his eyes') is the one Ibn Ezra rejects; the grammar note called the niphal qatal נֶאֱחַז a form with 'no finite verb'; four summaries misreport their commentator (Rashi 22:12 on who answers the Satan, Radak 22:12 on whose soul is feared for and on the causative reading, Sforno on בדין, Rashi 22:9 on עֲקֻדִּים). Two senses were taken mechanically (22:12.24 מִמֶּנִּי, 22:14.6 the place-name), the speech opened at 22:16 was closed there though it runs to 22:18, and the 22:14 context note was about translations and the pack, not the setting. Context notes were added at 22:12, 22:14 and 22:16.",
+ "patches": [
+  {
+   "ref": "22:9",
+   "path": "english",
+   "value": "They came to the place that God had told him of. Abraham built the altar there, arranged the wood, bound Isaac, his son, and laid him on the altar, on top of the wood.",
+   "severity": "style",
+   "reason": "'The place which God said to him' is not English: the relative clause has the place as the thing God spoke of (22:2), and the qatal is anterior to the coming."
+  },
+  {
+   "ref": "22:9",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "22:9.1",
+      "22:9.2",
+      "22:9.3",
+      "22:9.4",
+      "22:9.5",
+      "22:9.6",
+      "22:9.7"
+     ],
+     "english": "They came to the place that God had told him of",
+     "literal": "and-came to-the-place which said to-him the-God"
+    },
+    {
+     "tokens": [
+      "22:9.8",
+      "22:9.9",
+      "22:9.10",
+      "22:9.11",
+      "22:9.12"
+     ],
+     "english": "Abraham built the altar there",
+     "literal": "and-built there Abraham [object] the-altar: the wayyiqtol first, then the adverb and the subject"
+    },
+    {
+     "tokens": [
+      "22:9.13",
+      "22:9.14",
+      "22:9.15"
+     ],
+     "english": "arranged the wood",
+     "literal": "and-arranged [object] the-wood"
+    },
+    {
+     "tokens": [
+      "22:9.16",
+      "22:9.17",
+      "22:9.18",
+      "22:9.19"
+     ],
+     "english": "bound Isaac, his son",
+     "literal": "and-bound [object] Isaac his-son"
+    },
+    {
+     "tokens": [
+      "22:9.20",
+      "22:9.21",
+      "22:9.22",
+      "22:9.23",
+      "22:9.24",
+      "22:9.25"
+     ],
+     "english": "and laid him on the altar, on top of the wood",
+     "literal": "and-laid [object] him on the-altar from-above to-the-wood"
+    }
+   ],
+   "severity": "style",
+   "reason": "The English of the first phrase changed."
+  },
+  {
+   "ref": "22:9",
+   "path": "grammar",
+   "value": [
+    "The verse is a chain of wayyiqtols: they came (22:9.1), built (22:9.8), arranged (22:9.13), bound (22:9.16) and laid (22:9.20). Each takes ו and continues the one before.",
+    "אֲשֶׁר אָמַר לוֹ הָאֱלֹהִים is a relative clause: literally 'which God said to him', in English 'that God had told him of'. The verb is a qatal, so it is earlier than the coming (the saying is in 22:2).",
+    "The object marker אֶת comes before each definite object (הַמִּזְבֵּחַ, הָעֵצִים, יִצְחָק) and has no English counterpart. אֹתוֹ (22:9.21) is the object marker with a suffix, the object being Isaac.",
+    "מִמַּעַל לָעֵצִים (22:9.24–25): an adverb of place with the preposition ל and the noun, 'on top of the wood'.",
+    "Accents: the etnaḥta on הָעֵצִים (22:9.15) divides the verse, and the silluq on לָעֵצִים (22:9.25) ends it."
+   ],
+   "severity": "style",
+   "reason": "Follows the new English of the first clause."
+  },
+  {
+   "ref": "22:9",
+   "path": "token:22:9.25.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The same word הָעֵצִים is sense 2 ('pieces of wood') at 22:9.15; sense 1 is 'tree, trees'. The first sense was taken mechanically."
+  },
+  {
+   "ref": "22:9",
+   "path": "token:22:9.25.gloss",
+   "value": "of the wood",
+   "severity": "style",
+   "reason": "The token is לָעֵצִים with ל; after מִמַּעַל the ל gives 'on top of the wood'. The gloss 'the wood' left the prefix out."
+  },
+  {
+   "ref": "22:9",
+   "path": "token:22:9.16.note",
+   "value": "Qal wayyiqtol of עָקַד, third person masculine singular: 'bind'. The verb occurs only here in the Hebrew Bible (the adjective עָקֹד, 'striped', is used of goats in 30:35 and 31:8–12); the pack's entry lists no senses.",
+   "severity": "style",
+   "reason": "The old note only said the entry gave no sense; the learner needs the form and the fact that it is rare."
+  },
+  {
+   "ref": "22:9",
+   "path": "commentary:rashi:22:9:1.summary",
+   "value": "Rashi: his hands and feet were bound behind him. Binding hands and feet together is called עֲקִידָה (Shabbat 54), and the word is of the same family as עֲקֻדִּים (the striped goats of Jacob's flock, 30:35), whose ankles were white, so that the place where they are bound is recognizable. The English keeps the ordinary 'bound'.",
+   "severity": "error",
+   "reason": "The word עֲקֻדִּים does not mean 'ankles'; Rashi says the animals so called have white ankles where they are bound. The old summary also dropped the hands and feet bound behind him and the Talmudic reference."
+  },
+  {
+   "ref": "22:9",
+   "path": "commentary:radak:22:9:2.summary",
+   "value": "Radak: when they came together God spoke to Abraham and showed him the place in a prophetic vision (מַרְאֵה הַנְּבוּאָה). In the midrash (Bereshit Rabbah 56:2) Abraham saw a cloud tied over it or a pillar of fire, and on that view the 'saying' is this showing (radak:22:9:3). The English keeps 'told' and does not say how it was told.",
+   "severity": "style",
+   "reason": "The old summary left out the midrash that Radak adds."
+  },
+  {
+   "ref": "22:9",
+   "path": "commentary:radak:22:9:5.summary",
+   "value": "Radak: he bound Isaac's hands and feet so that he would not kick (יִבְעָט). Although Isaac was willing and was bound by his own will, he feared that the angry spirit would overcome him, and he told his father to bind him well. The verse does not state this, and the English does not add it.",
+   "severity": "style",
+   "reason": "The old summary gave only the first half and omitted Isaac's willingness and his request."
+  },
+  {
+   "ref": "22:11",
+   "path": "commentary:ibn-ezra:22:11:1.summary",
+   "value": "Ibn Ezra: פעמים כמו בחפזון, 'twice, as in haste' (or 'sometimes, as in haste'): the name is doubled as a call made in haste. The English keeps the doubled name and gives no reason for it (Rashi: affection; Radak: so that Abraham would hear quickly and not slaughter).",
+   "severity": "style",
+   "reason": "The old summary read פעמים only as 'sometimes'; the word also means 'twice', and his point is the haste."
+  },
+  {
+   "ref": "22:12",
+   "path": "token:22:12.24.sense",
+   "value": "7.b",
+   "severity": "error",
+   "reason": "The note says the preposition follows a verb of withholding. That is sense 7.b ('after verbs implying restraint, prevention, cessation'); sense 1 ('with verbs expressing separation or removal') is the first sense taken mechanically."
+  },
+  {
+   "ref": "22:12",
+   "path": "commentary:rashi:22:12:4.summary",
+   "value": "Rashi, in the voice of God: 'From now I have something to answer the Satan and the nations who wonder what my love for you is; I now have an opening of the mouth, for it is seen that you fear God.' It is a comment on the result, not on the words.",
+   "severity": "error",
+   "reason": "The old summary made Abraham the one who now has an answer to the Satan and the nations. In Rashi it is God (מַה לְּהָשִׁיב … חִבָּתִי אֶצְלְךָ) who has it."
+  },
+  {
+   "ref": "22:12",
+   "path": "commentary:radak:22:12:2.summary",
+   "value": "Radak: if ידעתי is explained as 'I have made known' (הוֹדַעְתִּי), as he explained of the 'test' (22:1), one finds no Qal of ידע with that causative sense. In his view it is like ידעתיך בשם (Exod 33:12), and he adds כי שב החלק כל ('the part has returned to the whole'), saying that this is enough for those who understand and that it cannot be explained further. The English keeps 'I know'.",
+   "severity": "error",
+   "reason": "The old summary made Radak consider the causative reading as an option; he sets it aside because the Qal is not found in that sense, and gives the Exodus parallel as his own reading."
+  },
+  {
+   "ref": "22:12",
+   "path": "commentary:radak:22:12:3.summary",
+   "value": "Radak: this fear is love. It was not fear for his body but fear for his own soul, that it not be lost from the world to come: he gave up the life of his son, whom he loved more than his own, for the sake of his soul, and that is love of God and clinging to him. The English keeps 'fear God' and leaves its nature to the commentary.",
+   "severity": "error",
+   "reason": "The old summary said the fear was that the son's soul would perish. In Radak it is Abraham's own soul (נַפְשׁוֹ) that he feared to lose."
+  },
+  {
+   "ref": "22:12",
+   "path": "commentary:sforno:22:12:1.summary",
+   "value": "Sforno makes the speaker 'I, the angel': the angel knows that God will rightly (בדין) make Abraham greater than His angels, as the sages said, 'the righteous are greater than the ministering angels' (Sanhedrin 93). The English keeps 'I know' without naming a speaker.",
+   "severity": "error",
+   "reason": "בדין is 'justly, rightly', not 'through judgement'; the old summary also dropped the saying about the righteous and the angels."
+  },
+  {
+   "ref": "22:12",
+   "path": "apparatus",
+   "value": [
+    "Vowel variant on מְאוּמָה (22:12.10): WLC reads מְא֑וּמָּה with a dagesh; the base text reads מְא֑וּמָה, as BHS does. The sense is the same."
+   ],
+   "severity": "style",
+   "reason": "The second line said the pack's text of Sforno is cut off; that is a remark on the pipeline, not a variant or an open question about the text."
+  },
+  {
+   "ref": "22:12",
+   "path": "context",
+   "value": [
+    "'Fearing God' (יִרְאַת אֱלֹהִים) names in the Bible reverence shown in obedience, not terror; in this verse the proof is the deed itself: Abraham has not withheld his son.",
+    "The angel speaks in the first person as the one who sent him: 'from me' here, 'declares the LORD' in 22:16. In the ancient Near East a messenger regularly delivered the sender's words in the sender's own voice. Sforno instead takes the 'I know' as the angel's own."
+   ],
+   "severity": "style",
+   "reason": "A reader needs the meaning of 'fear' and the reason the angel speaks as the LORD."
+  },
+  {
+   "ref": "22:13",
+   "path": "token:22:13.9.note",
+   "value": "Niphal qatal, third person masculine singular, of אָחַז: 'was caught'. After אַחַר the clause reads 'after (it) was caught'. Ibn Ezra's paraphrases are אחר שנאחז and, if the form is read as a participle (נֶאֱחָז), אחר היותו נאחז, 'after its being caught'.",
+   "severity": "error",
+   "reason": "The old note called the form a verbal noun; the pack parses it as a niphal qatal. Ibn Ezra's participle is a variant pointing, not the text's form."
+  },
+  {
+   "ref": "22:13",
+   "path": "grammar",
+   "value": [
+    "A run of wayyiqtols carries the narrative: lifted (22:13.1), saw (22:13.5), went (22:13.12), took (22:13.14), offered (22:13.17).",
+    "נֶאֱחַז is a niphal qatal, third person masculine singular, 'was caught'. With אַחַר read as 'after' it gives 'after (it) was caught' (Ibn Ezra, Radak: אחר שנאחז). Ibn Ezra adds that if the form is pointed as a participle (נֶאֱחָז, with qamats) the verb 'was' is understood: אחר היותו נאחז, 'after its being caught'. The English 'after being caught' renders this.",
+    "Some join אַחַר to the preceding clause: 'Abraham lifted his eyes after these things' (the Targum and Rashi). Ibn Ezra rejects this: the text would then have said אַחֲרֵי, אַחַר כֵּן or אַחֲרֵי זֹאת. The zaqef gadol on אַחַר sets it apart from נֶאֱחַז; אַחַר can also be 'behind' (BDB 2.a). The English follows Ibn Ezra.",
+    "וַיַּעֲלֵהוּ is the hiphil wayyiqtol of עָלָה with the object suffix -הוּ. The offering, 'as a burnt offering', is לְעֹלָה.",
+    "תַּחַת בְּנוֹ, 'instead of his son', is the preposition with the suffix; it closes the chain.",
+    "Accents: the zaqef gadol on אַחַר (22:13.8) and the etnaḥta on בְּקַרְנָיו (22:13.11) divide the verse; the silluq on בְּנוֹ (22:13.20) ends it."
+   ],
+   "severity": "error",
+   "reason": "The second note said the form has 'no finite verb', which is false: it is a finite niphal qatal. The reading Ibn Ezra rejects was not named."
+  },
+  {
+   "ref": "22:13",
+   "path": "commentary:rashi:22:13:2",
+   "value": {
+    "relation": "declines",
+    "summary": "Rashi: 'after the angel said to him, \"Do not stretch out your hand\", he saw it as it was caught', and so the Targum renders 'and Abraham lifted his eyes after these'. He joins אחר to 'lifted his eyes' (after these words), the reading Ibn Ezra rejects; the ram is then what Abraham saw as it was caught. The English does not follow it."
+   },
+   "severity": "error",
+   "reason": "The old entry made Rashi take אחר as 'after' the ram was caught, and marked it 'follows'. Rashi joins אחר to the lifting of the eyes (Onkelos בתר אלין), which is the reading Ibn Ezra rejects."
+  },
+  {
+   "ref": "22:13",
+   "path": "commentary:ibn-ezra:22:13:1.summary",
+   "value": "Ibn Ezra: אחר נאחז is 'after it was caught in the thicket by its horns'. If the ח of נאחז is pointed with qamats (a participle), the word 'was' (היה) is missing and the sense is אחר היותו נאחז, 'after its being caught', and there are many like it. Some say that אחר joins 'Abraham lifted his eyes'; he rejects this, for then the text would have said אחרי, אחר כן or אחרי זאת, as the language regularly does. The English follows him.",
+   "severity": "error",
+   "reason": "The old summary made 'was' understood after the text's own pointing (a qatal, which needs no verb) and did not say that the supplied verb belongs to the participle; the rejected reading is the one that joins אחר to the previous clause."
+  },
+  {
+   "ref": "22:13",
+   "path": "apparatus",
+   "value": [
+    "אַחַר: 'after' (Ibn Ezra, Radak), or, joined to the preceding clause, 'after these things' (Rashi, Onkelos). On the lexicon it can also be 'behind' (BDB אַחַר 2.a), 'a ram behind (him), caught'; the zaqef gadol after אַחַר sets it apart from נֶאֱחַז. Ibn Ezra takes 'after'.",
+    "נֶאֱחַז: the text has patah, a niphal qatal ('was caught'); Ibn Ezra also allows the participle נֶאֱחָז (qamats), with 'was' (היה) understood."
+   ],
+   "severity": "style",
+   "reason": "The old line only said where the remark is recorded; the reader needs the readings of אחר and of the form."
+  },
+  {
+   "ref": "22:14",
+   "path": "token:22:14.6.sense",
+   "value": "II.3",
+   "severity": "error",
+   "reason": "The entry's sense II.3 is 'used with several predicates, to form sacred names of holy places of Yahweh', which is this name. Sense I was taken mechanically."
+  },
+  {
+   "ref": "22:14",
+   "path": "token:22:14.6.note",
+   "value": "The divine name, read as Adonai (decisions: a name that contains the divine name is given as read). It is the first element of the place-name יְהוָה יִרְאֶה, a sentence-name (BDB יהוה II.3).",
+   "severity": "style",
+   "reason": "The old note did not name the kind of name."
+  },
+  {
+   "ref": "22:14",
+   "path": "grammar",
+   "value": [
+    "The verb is the qal wayyiqtol of קָרָא in the sense 'name' (Qal 6), with שֵׁם: 'named the place'. The name is given as read, Adonai-yireh, in the English.",
+    "יְהוָה יִרְאֶה is a sentence-name, 'the LORD will see' (qal yiqtol). The saying in the second half uses the niphal, יֵרָאֶה, 'it will be seen' (or 'he will appear', Niph 1): the verb is the same, the stem changes. The name also echoes 22:8, אֱלֹהִים יִרְאֶה־לּוֹ הַשֶּׂה, 'God will see for himself the sheep'.",
+    "אֲשֶׁר יֵאָמֵר הַיּוֹם: the niphal yiqtol of אָמַר with the relative, 'as it is said today'. The saying in double quotes is its content.",
+    "Accents: the tipḥa on הַהוּא (22:14.5) and the etnaḥta on יִרְאֶה (22:14.7) divide the verse; the silluq on יֵרָאֶה (22:14.13) ends it."
+   ],
+   "severity": "style",
+   "reason": "The old second note said only that the two verbs are 'the same verb'; the change of stem and the echo of 22:8 are what a learner needs."
+  },
+  {
+   "ref": "22:14",
+   "path": "context",
+   "value": [
+    "The place is not named in the verse. 2 Chronicles 3:1 says that Solomon began to build the house of the LORD on Mount Moriah, 'where the LORD appeared to David'; 22:2 sends Abraham to 'the land of Moriah'. Rashi and Radak read 'the mountain of the LORD' here as the Temple mount; the Samaritan tradition places the event at Mount Gerizim.",
+    "Naming a place after an event is a regular feature of the patriarchal stories (for example Bethel, 28:19; Beersheba, 21:31): the name carries the story."
+   ],
+   "severity": "error",
+   "reason": "The old note was about translations and the pack ('The pack's entry for רָאָה lists no such sense'), not about the ancient setting, and its remark about 'some translations' cannot be checked. The reader needs the place and the practice of naming."
+  },
+  {
+   "ref": "22:14",
+   "path": "apparatus",
+   "value": [
+    "The subject of יֵרָאֶה is open: 'it will be seen' (the matter, the provision) or 'he will appear' (the LORD; BDB Niph 1 'appear', Niph 2 'be seen'). The English keeps 'it will be seen'.",
+    "Rashi (after the Targum) takes the name to mean that the LORD will choose and see this place for His presence; Radak links it to 22:8."
+   ],
+   "severity": "question",
+   "reason": "The old line said Ibn Ezra's comment is cut off in the pack; it is in the source itself only באלה הדברים. The real open question is the sense of the verb."
+  },
+  {
+   "ref": "22:14",
+   "path": "commentary:ibn-ezra:22:14:1.summary",
+   "value": "Ibn Ezra, on 'the sense of \"on the mountain of the LORD it will be seen\"', says only באלה הדברים, 'in these words'. That is the whole comment in the source; it gives no reading of the verb or of the name. The English is the plain rendering and does not depend on it.",
+   "severity": "error",
+   "reason": "The old summary said the comment is cut short in the pack; in the source itself it is only these words."
+  },
+  {
+   "ref": "22:16",
+   "path": "english",
+   "value": "He said: \"By myself I have sworn, declares the LORD, because you have done this thing and have not withheld your son, your only one,",
+   "severity": "error",
+   "reason": "The speech opens in 22:16 and runs on through 22:18 ('I will surely bless you'), so the closing quotation mark belongs at the end of 22:18; it cannot close here."
+  },
+  {
+   "ref": "22:16",
+   "path": "grammar",
+   "value": [
+    "בִּי נִשְׁבַּעְתִּי is the oath formula: 'by myself I have sworn'. Radak compares it with 'as I live'.",
+    "נְאֻם יְהוָה is the formula 'declares the LORD', set inside the speech. The English keeps it inside the quotation.",
+    "כִּי יַעַן אֲשֶׁר gives the cause of the oath: 'because you have done this thing'. The relative clause and the verb עָשִׂיתָ are one unit; וְלֹא חָשַׂכְתָּ names the same deed from the other side.",
+    "Accents: the zaqef gadol on וַיֹּאמֶר (22:16.1) and the tipḥa on נִשְׁבַּעְתִּי (22:16.3) mark pauses in the oath formula; the etnaḥta on יְהוָה (22:16.5) ends the oath and 'declares the LORD', the main division of the verse; the revia on כִּי (22:16.6) and the yetiv on יַעַן (22:16.7) set off the reason; the silluq on יְחִידֶךָ (22:16.18) ends the verse.",
+    "The speech does not end here. The main clause of 'because you have done this' is in 22:17 (כִּי בָרֵךְ אֲבָרֶכְךָ), so the quotation is left open at the end of this verse."
+   ],
+   "severity": "error",
+   "reason": "The accent note omitted the etnaḥta on יְהוָה, the main division, and the old notes did not say that the speech continues."
+  },
+  {
+   "ref": "22:16",
+   "path": "context",
+   "value": [
+    "A person swears by a higher power called as witness (Abraham makes his servant swear 'by the LORD', 24:3); the LORD, with none higher, swears by himself (here; also Exod 32:13, Isa 45:23, Jer 22:5).",
+    "The formula נְאֻם יְהוָה, 'declares the LORD', is usual in the prophets and rare in the Torah."
+   ],
+   "severity": "style",
+   "reason": "A reader needs why the oath is 'by myself' and that the formula is prophetic."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:22:11:1",
+   "verdict": "consistent",
+   "comment": "The English keeps the doubled name 'Abraham, Abraham' and gives no reason for the doubling, which is Ibn Ezra's own remark (haste)."
+  },
+  {
+   "anchor": "ibn-ezra:22:13:1",
+   "verdict": "consistent",
+   "comment": "'After being caught' is his temporal אחר, with 'was' understood on the participle; the English does not join אחר to 'lifted his eyes', the reading he rejects."
+  },
+  {
+   "anchor": "ibn-ezra:22:14:1",
+   "verdict": "not-applicable",
+   "comment": "The comment is only באלה הדברים and gives no reading; the English is the plain rendering."
+  },
+  {
+   "anchor": "ibn-ezra:22:16:1",
+   "verdict": "consistent",
+   "comment": "'By myself I have sworn' renders the oath he calls the great, lasting oath; his remark on its force is not a matter of the English line."
+  },
+  {
+   "anchor": "ibn-ezra:22:16:2",
+   "verdict": "consistent",
+   "comment": "'Because' renders יען; his derivation from ענה, 'the deed will answer and testify', is the ground of the causal sense and does not change the English."
+  }
+ ]
+}
