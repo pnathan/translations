@@ -222,7 +222,7 @@
   },
   {
    "ref": "21:23",
-   "english": "Now swear to me by God here that you will not deal falsely with me, or with my offspring, or with my posterity; as the kindness that I did with you, you shall do with me and with the land in which you have sojourned.\"",
+   "english": "Now swear to me by God here that you will not deal falsely with me, or with my offspring, or with my grandson; as the kindness that I did with you, you shall do with me and with the land in which you have sojourned.\"",
    "literal": "and-now swear to-me by-God here if you-deal-falsely to-me and-to my-offspring and-to my-grandson as-the-kindness which I-did with-you you-will-do with-me and-with the-land which you-sojourned in-it",
    "tokens": [
     {
@@ -388,8 +388,8 @@
      "tokens": [
       "21:23.10"
      ],
-     "english": "or with my posterity",
-     "literal": "and-to my-posterity: נֶכֶד, \"progeny, posterity\" (Rashi: grandson)"
+     "english": "or with my grandson",
+     "literal": "and-to my-grandson: נֶכֶד, Ibn Ezra's 'son of my son'; BDB 'progeny, posterity'"
     },
     {
      "tokens": [

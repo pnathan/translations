@@ -492,7 +492,7 @@
   {
    "ref": "21:23",
    "path": "english",
-   "value": "Now swear to me by God here that you will not deal falsely with me, or with my offspring, or with my posterity; as the kindness that I did with you, you shall do with me and with the land in which you have sojourned.\"",
+   "value": "Now swear to me by God here that you will not deal falsely with me, or with my offspring, or with my grandson; as the kindness that I did with you, you shall do with me and with the land in which you have sojourned.\"",
    "severity": "error",
    "reason": "editor: אִם after 'swear' is the oath formula: 'that you will not deal falsely' (GKC §149); 'swear ... if you deal falsely' leaves the oath without sense. The speech runs 21:22–23."
   },
@@ -549,8 +549,8 @@
      "tokens": [
       "21:23.10"
      ],
-     "english": "or with my posterity",
-     "literal": "and-to my-posterity: נֶכֶד, \"progeny, posterity\" (Rashi: grandson)"
+     "english": "or with my grandson",
+     "literal": "and-to my-grandson: נֶכֶד, Ibn Ezra's 'son of my son'; BDB 'progeny, posterity'"
     },
     {
      "tokens": [
