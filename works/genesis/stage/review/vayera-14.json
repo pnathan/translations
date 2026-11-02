@@ -1,0 +1,241 @@
+{
+ "unit": "vayera-14",
+ "model": "sonnet",
+ "summary": "The translation is sound: the verbs, persons and senses check against the lexicon, the quotation marks are right (Hagar's speech closes in 21:16; the angel's speech opens in 21:17 and closes in 21:18), and the English supplies nothing. The faults are small. Ramban's third reading at 21:15 is misreported (Abraham, not Hagar, places the child on her shoulder), Ibn Ezra's remark on the roots at 21:20 is misreported, and Ramban at 21:20 is given without his reason. At 21:16 the verb count is wrong and הַרְחֵק has no English. At 21:17 a note says the נַעַר is not the child of the earlier verses; at 21:20 the grammar note reads קַשָּׁת as 'bow'. Context notes at 21:16, 21:20 and 21:21 are added or corrected.",
+ "patches": [
+  {
+   "ref": "21:15",
+   "path": "commentary:ramban:21:15:1.summary",
+   "value": "Ramban gives three readings of וַתַּשְׁלֵךְ. First: thirst overcame the boy and he could not walk, and his mother laid him under the tree 'cast down and abandoned'; or the verb is of sending away, as in 'and he cast them into another land' (Deut. 29:27) and 'do not cast me away from before you' (Ps. 51:13). Second, 'Rabbi Abraham' (Ibn Ezra): she took him into her lap and then set him down when he grew weak with thirst. Third, the Rabbis: he was sick when Abraham sent them off and Abraham put the child on her shoulder, and this is the sense of 'she cast'. Ramban adds that Abraham sent them away with no silver, gold, servants or camels because he had been told to do all that Sarah said. The English keeps 'cast' and does not choose.",
+   "severity": "error",
+   "reason": "The third reading was misreported: in the Rabbis' reading it is Abraham ('ושם על שכמה') who puts the child on her shoulder, not Hagar; the first reading also reads 'cast down and abandoned', and Ramban's closing remark was left out."
+  },
+  {
+   "ref": "21:16",
+   "path": "english",
+   "value": "She went and sat down by herself at a distance, far off, about a bowshot away, for she said, \"Let me not see the death of the child.\" She sat down at a distance and lifted up her voice and wept.",
+   "severity": "style",
+   "reason": "הַרְחֵק (21:16.5) had no English of its own and the כְּ of כִּמְטַחֲוֵי ('like', 'about') was dropped."
+  },
+  {
+   "ref": "21:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:16.1",
+      "21:16.2",
+      "21:16.3"
+     ],
+     "english": "She went and sat down by herself",
+     "literal": "and-went and-sat for-herself"
+    },
+    {
+     "tokens": [
+      "21:16.4",
+      "21:16.5"
+     ],
+     "english": "at a distance, far off",
+     "literal": "from-opposite far"
+    },
+    {
+     "tokens": [
+      "21:16.6",
+      "21:16.7"
+     ],
+     "english": "about a bowshot away",
+     "literal": "like-the-shootings of-bow: the כְּ gives an approximate distance"
+    },
+    {
+     "tokens": [
+      "21:16.8",
+      "21:16.9"
+     ],
+     "english": "for she said",
+     "literal": "for she-said"
+    },
+    {
+     "tokens": [
+      "21:16.10",
+      "21:16.11",
+      "21:16.12",
+      "21:16.13"
+     ],
+     "english": "Let me not see the death of the child",
+     "literal": "not let-me-see in-death of-the-child"
+    },
+    {
+     "tokens": [
+      "21:16.14",
+      "21:16.15"
+     ],
+     "english": "She sat down at a distance",
+     "literal": "and-sat from-opposite"
+    },
+    {
+     "tokens": [
+      "21:16.16",
+      "21:16.17",
+      "21:16.18"
+     ],
+     "english": "and lifted up her voice",
+     "literal": "and-lifted [object] her-voice"
+    },
+    {
+     "tokens": [
+      "21:16.19"
+     ],
+     "english": "and wept",
+     "literal": "and-wept"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "21:16",
+   "path": "token:21:16.1.gloss",
+   "value": "and went",
+   "severity": "style",
+   "reason": "The gloss left out the conjunction וַ."
+  },
+  {
+   "ref": "21:16",
+   "path": "token:21:16.1.note",
+   "value": "Qal wayyiqtol of הָלַךְ, third feminine singular: the first of the five wayyiqtols that narrate the mother's acts in this verse.",
+   "severity": "error",
+   "reason": "The verse has five wayyiqtols (went, sat, sat, lifted, wept), not four."
+  },
+  {
+   "ref": "21:16",
+   "path": "token:21:16.5.sense",
+   "value": "Hiph 1",
+   "severity": "question",
+   "reason": "The infinitive absolute here has no object; Hiph 1 'make distance, be gone for' fits 'she went far off' better than Hiph 2 'remove, put far away', which needs an object."
+  },
+  {
+   "ref": "21:16",
+   "path": "token:21:16.12.note",
+   "value": "מָוֶת in the construct with the preposition ב: 'in the death of'. רָאָה with בְּ means 'look upon', so 'see the death of' carries the idiom.",
+   "severity": "style",
+   "reason": "A learner needs the idiom: the ב is not 'in' here."
+  },
+  {
+   "ref": "21:16",
+   "path": "grammar",
+   "value": [
+    "Five wayyiqtols (וַתֵּלֶךְ, וַתֵּשֶׁב, וַתֵּשֶׁב, וַתִּשָּׂא, וַתֵּבְךְּ) narrate the mother's acts, with her reason (כִּי אָמְרָה) between the first sitting and the second. The second sitting (21:16.14) repeats the first, so the verse frames her distance from the child with מִנֶּגֶד twice.",
+    "The clause כִּי אָמְרָה (21:16.8–9) gives her reason for sitting apart. The negated cohortative אַל־אֶרְאֶה is her wish: 'let me not see'.",
+    "The simile כִּמְטַחֲוֵי קֶשֶׁת is a construct of a participle of טָחָה with 'bow'. It measures the distance by the shot of an arrow; the spelling of the form is discussed in the commentary.",
+    "The etnaḥta on הַיָּלֶד (21:16.13) closes the main clause of her speech, and the silluq on וַתֵּבְךְּ (21:16.19) ends the verse."
+   ],
+   "severity": "error",
+   "reason": "'Four wayyiqtols' miscounted: וַתֵּשֶׁב occurs twice, so there are five."
+  },
+  {
+   "ref": "21:16",
+   "path": "context",
+   "value": [
+    "A bowshot is a rough measure of how far an arrow flies; the text gives no figure for it."
+   ],
+   "severity": "style",
+   "reason": "A reader needs to know that the measure is approximate."
+  },
+  {
+   "ref": "21:17",
+   "path": "token:21:17.5.note",
+   "value": "נַעַר: a boy or lad. It is the same boy as the יֶלֶד of 21:15–16; the narrative changes the word, not the person.",
+   "severity": "error",
+   "reason": "The note said 'It is not the child', which wrongly suggests a different person."
+  },
+  {
+   "ref": "21:17",
+   "path": "grammar",
+   "value": [
+    "The verse has two narrative clauses, God's hearing and the angel's call. Then comes a speech in two parts: a question (21:17.15–17) and a reassurance with its reason (21:17.18–28). The speech runs on into 21:18, so the quotation is not closed here.",
+    "תִּירְאִי (21:17.19) is a jussive with the negative אַל: 'do not fear'. The reason follows with כִּי (21:17.20).",
+    "כִּי־שָׁמַע (21:17.20–21) is a qatal after כִּי: 'for God has heard'. The hearing is the same act as in 21:17.1, with the preposition אֶל before the voice.",
+    "The etnaḥta on הָגָ֑ר (21:17.17) closes the question; the silluq on שָׁם (21:17.28) ends the verse.",
+    "שָׁמַע אֱלֹהִים, 'God heard', twice in this verse (21:17.1, 21:17.21), recalls the name יִשְׁמָעֵאל, 'God hears', which was explained at 16:11. The boy is not named in this scene."
+   ],
+   "severity": "style",
+   "reason": "The wordplay with the boy's name, given at 16:11, is worth a learner's notice."
+  },
+  {
+   "ref": "21:20",
+   "path": "commentary:ibn-ezra:21:20:1.summary",
+   "value": "Ibn Ezra compares רֹבֶה with 'Call up against Babylon the many (רַבִּים)' (Jer. 50:29), where the many are 'all who bend the bow'; so רֹבֶה is the shooter, the archer. He then adds that if רבה and רבב are two roots, as שרר and שרה are, they still come from the form רבה. The English follows the archer reading.",
+   "severity": "error",
+   "reason": "The summary said he allows a root רבה separate from the one for 'many'. The Hebrew says that, if they are two roots (as שרר and שרה), רבה and רבב both come from the form רבה."
+  },
+  {
+   "ref": "21:20",
+   "path": "commentary:ramban:21:20:1.summary",
+   "value": "Ramban: because קַשָּׁת is a descriptive noun, some said that רֹבֶה is the one who shoots arrows (from Job 16:13 and Gen. 49:23) and קַשָּׁת the maker of bows. More correct, he says, is that רֹבֶה is a shooter in general, said of one who shoots arrows or throws stones (as 'which I cast', Gen. 31:51), and so the verse describes him again as a bowman (קַשָּׁת), like 1 Sam. 31:3. The English 'archer' agrees.",
+   "severity": "style",
+   "reason": "The earlier summary gave only the second step and gave 'because he is one' for Ramban's reason; his reason is that רֹבֶה alone covers other kinds of shooting."
+  },
+  {
+   "ref": "21:20",
+   "path": "grammar",
+   "value": [
+    "God was with the boy (21:20.1–4): הָיָה with אֵת is 'be with', and the English keeps it.",
+    "After the opening וַיְהִי, three wayyiqtols (וַיִּגְדָּל, וַיֵּשֶׁב, וַיְהִי) move from growing to dwelling to a trade.",
+    "The dataset parses רֹבֶה as a participle in the construct, but the pointing of קַשָּׁת (with dagesh) is that of a descriptive noun, 'bowman', and Ibn Ezra takes it so, like גַּנָּב 'thief'. The two words name one trade, 'shooter, bowman', and the English gives 'an archer'. Radak and Ramban discuss other ways of taking them.",
+    "The etnaḥta on וַיִּגְדָּל (21:20.5) divides the verse: the growing, then the desert life and the trade. The silluq on קַשָּׁת ends the verse."
+   ],
+   "severity": "error",
+   "reason": "'A shooter of the bow' takes קַשָּׁת as קֶשֶׁת 'bow', which the pointing does not allow, and contradicts the gloss 'bowman' on 21:20.10."
+  },
+  {
+   "ref": "21:20",
+   "path": "token:21:20.7.note",
+   "value": "מִדְבָּר: open country, used for the pasturage of flocks and herds. See the context note on Paran at 21:21.",
+   "severity": "style",
+   "reason": "There is no Paran note in this segment."
+  },
+  {
+   "ref": "21:20",
+   "path": "context",
+   "value": [
+    "A bow was the weapon of the hunter and of the warrior in the ancient Near East. Isaiah 21:17 speaks of the bowmen, the mighty men of Kedar, and Genesis 25:13 lists Kedar among the sons of Ishmael."
+   ],
+   "severity": "style",
+   "reason": "'A desert skill' is a generalisation the evidence does not state; the text's own link between Ishmael and bowmen is the sure fact."
+  },
+  {
+   "ref": "21:21",
+   "path": "context",
+   "value": [
+    "Paran is named in Numbers (10:12; 13:3) as a wilderness near Sinai and Kadesh, in the south. Its exact limits are uncertain.",
+    "In Genesis the wife of a son is normally found for him by his family: Abraham sends for a wife for Isaac (ch. 24), and Judah takes a wife for Er (38:6). Here it is his mother who does it; the text does not say why the father's family is not asked."
+   ],
+   "severity": "style",
+   "reason": "A reader needs the custom that makes the mother's act intelligible."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:21:15:1",
+   "verdict": "contradicts",
+   "comment": "Ibn Ezra glosses the bushes as 'the trees' (האילנים). The lexicon gives שִׂיחַ as bush or shrub, a lower plant than a tree, so the English keeps 'bushes'; the difference does not change the scene, and the gloss is kept in the commentary."
+  },
+  {
+   "anchor": "ibn-ezra:21:16:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:21:20:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:21:20:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:21:20:3",
+   "verdict": "not-applicable",
+   "comment": "A cross-reference to the first appearance of the angel; it bears on no word of 21:20."
+  }
+ ]
+}

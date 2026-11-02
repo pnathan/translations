@@ -1,0 +1,442 @@
+{
+ "unit": "vayera-17",
+ "model": "haiku",
+ "segments": [
+  {
+   "ref": "22:1",
+   "english": "It happened after these things that God tested Abraham. He said to him, \"Abraham.\" He said, \"Here I am.\"",
+   "literal": "and-it-happened after the-things these and-the-God tested [object] Abraham and-he-said to-him Abraham and-he-said here-I",
+   "tokens": [
+    {"id": "22:1.1", "gloss": "and it happened", "sense": "Qal I.2.a.(1)", "note": "Wayyiqtol of הָיָה in the formula that opens a new episode after the preceding chapter. The English keeps 'it happened'."},
+    {"id": "22:1.2", "gloss": "after", "sense": "2.b", "note": "The adverb אַחַר used as a preposition of time."},
+    {"id": "22:1.3", "gloss": "the things", "sense": "IV", "note": "דְּבָרִים in the sense 'matter, affair'. The verse does not name the events; the commentators differ (see commentary)."},
+    {"id": "22:1.4", "gloss": "these", "sense": "c", "note": "The demonstrative with the article, after a noun that has the article."},
+    {"id": "22:1.5", "gloss": "and God", "sense": "3", "note": "הָאֱלֹהִים with the article is the God of Israel: 'God'. Onkelos reads the divine name here as the LORD (see commentary)."},
+    {"id": "22:1.6", "gloss": "tested", "sense": "1", "note": "Qatal of נָסָה, third masculine singular, with God as subject. The sense 'test' is Ibn Ezra's ruling on the word (see commentary)."},
+    {"id": "22:1.7", "gloss": "[object marker]", "note": "The object marker before Abraham."},
+    {"id": "22:1.8", "gloss": "Abraham", "note": "The name in its familiar English form."},
+    {"id": "22:1.9", "gloss": "and he said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר; the speech that follows is the call."},
+    {"id": "22:1.10", "gloss": "to him", "sense": "1", "note": "The preposition אֶל with the third masculine singular suffix."},
+    {"id": "22:1.11", "gloss": "Abraham", "note": "The name as the address of the call, given in quotation marks."},
+    {"id": "22:1.12", "gloss": "and he said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר: the answer."},
+    {"id": "22:1.13", "gloss": "here I am", "note": "הִנֵּה with the first-person suffix: the standard answer to a call. Rashi's reading of it is in the commentary."}
+   ],
+   "phrases": [
+    {"tokens": ["22:1.1", "22:1.2", "22:1.3", "22:1.4"], "english": "It happened after these things", "literal": "'and-it-happened after the-things these'; the formula opens the episode"},
+    {"tokens": ["22:1.5", "22:1.6", "22:1.7", "22:1.8"], "english": "that God tested Abraham", "literal": "'and-the-God tested [object] Abraham'; the object marker has no English counterpart"},
+    {"tokens": ["22:1.9", "22:1.10"], "english": "He said to him,", "literal": "'and-he-said to-him'"},
+    {"tokens": ["22:1.11"], "english": "\"Abraham.\"", "literal": "'Abraham'; the address of the call"},
+    {"tokens": ["22:1.12", "22:1.13"], "english": "He said, \"Here I am.\"", "literal": "'and-he-said here-I'; the answer of readiness"}
+   ],
+   "grammar": [
+    "וַיְהִי is a wayyiqtol of הָיָה that opens a new episode; the English keeps the formula 'it happened'.",
+    "וְהָאֱלֹהִים נִסָּה: the subject comes before the qatal, which gives the situation before the speech. It is not a sequential verb.",
+    "The etnaḥta on אַבְרָהָם divides the verse. The silluq on הִנֵּנִי closes it.",
+    "The name Abraham is repeated as the address of the call, and הִנֵּנִי is the reply that accepts it."
+   ],
+   "note": "The English keeps 'God' for הָאֱלֹהִים and reads נִסָּה as 'tested', the sense Ibn Ezra fixes. The two wayyiqtols of speech carry the call and the answer.",
+   "commentary": [
+    {"anchor": "ibn-ezra:22:1:1", "relation": "follows", "summary": "Ibn Ezra: נִסָּה is to be read in its plain sense, 'tested'; a reading that changes the letters is refuted by the whole passage. He sets aside the Gaon's reading, that the test was to show Abraham's righteousness to people, since no one was present at the binding. The test was for reward, and the verse's first words remove the objection that a command could be countermanded."},
+    {"anchor": "ibn-ezra:22:1:2", "relation": "not-applicable", "summary": "On 'now I know' (22:12), outside this segment: the phrase is like 'if I do not know' (18:21), and he will explain the secret at Exodus 33:12. It does not bear on 22:1–8."},
+    {"anchor": "rashi:22:1:1", "relation": "declines", "summary": "Rashi's midrash fills 'these things' with the Adversary's accusation that Abraham gave only a small offering (Sanhedrin 89b) and with Ishmael's boast over Isaac's circumcision. The English keeps 'these things' open, since the midrash supplies a cause the verse does not state."},
+    {"anchor": "rashi:22:1:2", "relation": "follows", "summary": "Rashi: הִנֵּנִי is the answer of the righteous, a word of humility and of readiness (זִמּוּן). The English 'Here I am' carries readiness; the humility is in the commentary only."},
+    {"anchor": "radak:22:1:1", "relation": "records", "summary": "Radak takes 'these things' as the affair with Abimelech and Abraham's long stay in that land, followed by his coming to Beersheba to live. He adds that the test was to show later generations Abraham's love, which is not the plain sense. The English does not name the referent."},
+    {"anchor": "radak:22:1:2", "relation": "records", "summary": "Radak takes the call as made in a night vision, since Abraham is said to rise early in the morning (22:3). The English says nothing of a vision."},
+    {"anchor": "onkelos:22:1:1", "relation": "records", "summary": "Onkelos renders the divine name here as 'the LORD' (ייָ) and Abraham's answer as 'Here I am' (הָא אֲנָא). The English keeps 'God' for הָאֱלֹהִים, as the decisions set for the God of Israel."},
+    {"anchor": "ramban:22:1:1", "relation": "follows", "summary": "Ramban takes the test (נִסָּיוֹן) as a trial of the one tested: God commands so that the act passes from potential to deed, and Abraham receives the reward of a good deed and not only of a good heart. This is the sense 'tested' that the English gives."},
+    {"anchor": "sforno:22:1:1", "relation": "not-applicable", "summary": "Sforno: the test was so that Abraham's love and fear would pass from potential into act and he would resemble his Maker, who is good to the world in act (cf. 1:26). It gives a reason for the test, not the sense of the word."}
+   ],
+   "apparatus": [
+    "22:1.6: the reading 'tested' is the one the Hebrew gives; Ibn Ezra notes another reading of the letters and the Gaon's reading of the sense (see commentary)."
+   ],
+   "context": []
+  },
+  {
+   "ref": "22:2",
+   "english": "He said, \"Please take your son, your only one, whom you love, Isaac, and go to the land of Moriah and offer him up there as a burnt offering on one of the mountains which I will tell you.\"",
+   "literal": "and-he-said take I-pray [object] your-son [object] your-only-one which you-loved [object] Isaac and-go to-yourself to land the-Moriah and-cause-to-ascend-him there to-burnt-offering upon one the-mountains which I-will-say to-you",
+   "tokens": [
+    {"id": "22:2.1", "gloss": "and he said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר. The speaker is the one who tested Abraham in 22:1."},
+    {"id": "22:2.2", "gloss": "take", "sense": "Qal 2", "note": "Imperative, second masculine singular: take and carry along, with the son as the object."},
+    {"id": "22:2.3", "gloss": "please", "note": "The particle of entreaty נָא. Rashi reads it as a request (see commentary)."},
+    {"id": "22:2.4", "gloss": "[object marker]", "note": "The object marker before בִּנְךָ."},
+    {"id": "22:2.5", "gloss": "your son", "sense": "1", "note": "The construct form בִּנְךָ with the second masculine singular suffix."},
+    {"id": "22:2.6", "gloss": "[object marker]", "note": "The object marker before יְחִידְךָ."},
+    {"id": "22:2.7", "gloss": "your only one", "note": "The adjective יָחִיד with the suffix. The English keeps the word; Rashi reads it as 'only to his mother' (see commentary)."},
+    {"id": "22:2.8", "gloss": "whom", "note": "The relative particle."},
+    {"id": "22:2.9", "gloss": "you love", "sense": "Qal 1", "note": "Qatal of אָהֵב, second masculine singular, in a relative clause: a love that holds."},
+    {"id": "22:2.10", "gloss": "[object marker]", "note": "The object marker before יִצְחָק."},
+    {"id": "22:2.11", "gloss": "Isaac", "note": "Set after the relative clause, as an apposition that names the son."},
+    {"id": "22:2.12", "gloss": "and go", "sense": "Qal I.1", "note": "Imperative, second masculine singular, with the conjunction. Together with לְךָ, this is the idiom 'go for yourself'."},
+    {"id": "22:2.13", "gloss": "for yourself", "note": "The dative of the second person in the idiom לֶךְ־לְךָ (Radak); it has no English counterpart."},
+    {"id": "22:2.14", "gloss": "to", "sense": "9", "note": "The preposition of motion: 'to the land'."},
+    {"id": "22:2.15", "gloss": "land", "sense": "2.a", "note": "Construct 'land of': the country or territory named by the place that follows."},
+    {"id": "22:2.16", "gloss": "Moriah", "note": "The name of the place, transliterated. Its meaning and site are in the notes and context."},
+    {"id": "22:2.17", "gloss": "and offer him up", "sense": "Hiph 8", "note": "Hifil imperative, second masculine singular, with the suffix 'him'. The offering sense is the one the context gives; Ibn Ezra and Rashi read the verb (see commentary)."},
+    {"id": "22:2.18", "gloss": "there", "note": "The adverb of place."},
+    {"id": "22:2.19", "gloss": "as a burnt offering", "note": "The preposition ל with עֹלָה: the burnt offering, the animal burnt whole on the altar (see context)."},
+    {"id": "22:2.20", "gloss": "on", "sense": "II.1", "note": "The preposition עַל with the sense 'upon, on'."},
+    {"id": "22:2.21", "gloss": "one", "sense": "1", "note": "The cardinal used partitively: one of the mountains."},
+    {"id": "22:2.22", "gloss": "the mountains", "sense": "1", "note": "הָרִים: 'mountain' or 'hill'. The English keeps 'mountains'; Ibn Ezra's claim that the place is not high is recorded (see commentary)."},
+    {"id": "22:2.23", "gloss": "which", "note": "The relative particle."},
+    {"id": "22:2.24", "gloss": "I will tell", "sense": "Qal 1", "note": "Yiqtol of אָמַר, first person singular: the future of God's speech."},
+    {"id": "22:2.25", "gloss": "to you", "sense": "1", "note": "The preposition אֶל with the second masculine singular suffix."}
+   ],
+   "phrases": [
+    {"tokens": ["22:2.1"], "english": "He said,", "literal": "'and-he-said'"},
+    {"tokens": ["22:2.2", "22:2.3"], "english": "Please take", "literal": "'take I-pray'"},
+    {"tokens": ["22:2.4", "22:2.5"], "english": "your son,", "literal": "'[object] your-son'"},
+    {"tokens": ["22:2.6", "22:2.7"], "english": "your only one,", "literal": "'[object] your-only-one'"},
+    {"tokens": ["22:2.8", "22:2.9"], "english": "whom you love,", "literal": "'which you-loved'"},
+    {"tokens": ["22:2.10", "22:2.11"], "english": "Isaac,", "literal": "'[object] Isaac'"},
+    {"tokens": ["22:2.12", "22:2.13"], "english": "and go", "literal": "'and-go to-yourself'; the dative is idiomatic"},
+    {"tokens": ["22:2.14", "22:2.15", "22:2.16"], "english": "to the land of Moriah", "literal": "'to land the-Moriah'"},
+    {"tokens": ["22:2.17", "22:2.18"], "english": "and offer him up there", "literal": "'and-cause-to-ascend-him there'"},
+    {"tokens": ["22:2.19"], "english": "as a burnt offering", "literal": "'to-burnt-offering'"},
+    {"tokens": ["22:2.20", "22:2.21", "22:2.22"], "english": "on one of the mountains", "literal": "'upon one the-mountains'"},
+    {"tokens": ["22:2.23", "22:2.24", "22:2.25"], "english": "which I will tell you.\"", "literal": "'which I-will-say to-you'"}
+   ],
+   "grammar": [
+    "קַח נָא is an imperative with the particle of entreaty: 'Please take'. The request tone is Rashi's reading (see commentary).",
+    "The son is described in stages: your son, your only one, whom you love, and then Isaac. The name comes after the relative clause, as an apposition.",
+    "אָהַבְתָּ is a qatal in the relative clause, a love that holds; the English uses the present, 'whom you love'.",
+    "וְלֶךְ־לְךָ is an imperative with the dative; the idiom is the one of 12:1, and the English keeps 'go'.",
+    "וְהַעֲלֵהוּ is a hifil imperative with the suffix 'him'; the aim, 'as a burnt offering', follows with the preposition ל."
+   ],
+   "note": "The English keeps 'your only one' and 'Moriah' as the Hebrew has them. 'Offer him up' is the sense of the hifil with a burnt offering as its aim; it does not add a slaughter, which the words do not state.",
+   "commentary": [
+    {"anchor": "ibn-ezra:22:2:1", "relation": "records", "summary": "Ibn Ezra: the house was built there, as 2 Chronicles 3:1 says; it is not a high mountain, and the threshing floor of Araunah was there. The English keeps 'mountains', since har is mountain or hill and the height of the site is not in the verse. His claim of a low height is recorded, not adopted."},
+    {"anchor": "rashi:22:2:1", "relation": "follows", "summary": "Rashi: נָא is a term of request: God asks Abraham to stand by him in this test, so that the earlier righteous will not say there was no real trial. The English 'Please take' takes the request sense."},
+    {"anchor": "rashi:22:2:2", "relation": "records", "summary": "Rashi: 'your only one' means only to his mother, since Abraham had another son; 'whom you love' names both, and 'Isaac' names the one meant (Sanhedrin 89b). He explains the stages as a gradual disclosure, so that Abraham would not be thrown into confusion. The English keeps the word as it stands."},
+    {"anchor": "rashi:22:2:3", "relation": "records", "summary": "Rashi: the land of Moriah is Jerusalem, as in 2 Chronicles 3:1; the Sages say instruction went out from there, and Onkelos renders it 'the land of worship' for the incense of the place. The English keeps the name."},
+    {"anchor": "rashi:22:2:4", "relation": "follows", "summary": "Rashi: הַעֲלֵהוּ means bring him up the mountain to make him a burnt offering; God did not say 'slaughter him', and after the ascent God said to take him down (22:12). The English 'offer him up' adds no slaughter."},
+    {"anchor": "rashi:22:2:5", "relation": "not-applicable", "summary": "Rashi: God conceals the matter from the righteous and reveals it afterwards to increase their reward, as with 'the land which I will show you' (12:1). A homily on why no mountain is named; not the sense of the words."},
+    {"anchor": "ramban:22:2:1", "relation": "records", "summary": "Ramban: Isaac is called 'your only one' because he is the son of the free wife and alone is called seed, and the word magnifies the command: take your son, the only one, the beloved. The English keeps the word as it stands."},
+    {"anchor": "ramban:22:2:2", "relation": "records", "summary": "Ramban takes Moriah as Jerusalem, as Rashi does, and reads Onkelos's 'land of worship' as the place where God is served. He derives the name from 'fear' (מוֹרָא) and cites the Sages' saying that instruction went out from there."},
+    {"anchor": "radak:22:2:1", "relation": "not-applicable", "summary": "Radak: 'your only one' is said although you love him greatly, since he was born to you from your wife in your old age. A remark on the father's feeling."},
+    {"anchor": "radak:22:2:2", "relation": "not-applicable", "summary": "Radak: the matter is hard for you, that he is your only son, and all the more that he is beloved, the son of your old age."},
+    {"anchor": "radak:22:2:3", "relation": "follows", "summary": "Radak: 'go for yourself' is an idiom of the language, like 12:1, Jeremiah 5:5 and Exodus 18:27; the dative adds nothing to 'go'. The English 'go' takes it so."},
+    {"anchor": "radak:22:2:4", "relation": "records", "summary": "Radak: Jerusalem and its territory is called the land of Moriah, and the mountain of Araunah's threshing floor is called Mount Moriah (2 Chronicles 3:1). The text does not say why; the Sages say from there instruction went out. Onkelos renders 'land of worship'."},
+    {"anchor": "radak:22:2:5", "relation": "not-applicable", "summary": "Radak: God did not yet say which mountain he meant, only 'one of the mountains'."},
+    {"anchor": "radak:22:2:6", "relation": "not-applicable", "summary": "Radak: 'which I will tell you' magnifies Abraham's love. God did not say why, and sent him a three-day journey rather than at once, to give him time to think; and the place was to be the one where his sons would build God's house and altar."},
+    {"anchor": "onkelos:22:2:1", "relation": "records", "summary": "Onkelos renders the land of Moriah as 'the land of worship' and 'offer him up' as 'offer him up before me', with 'before me' not in the Hebrew. The English keeps the name and adds nothing."}
+   ],
+   "apparatus": [
+    "22:2.5: WLC note c: the edition reads one or more accents differently from BHS. No effect on the English.",
+    "22:2.22: the height of the mountain is not stated. Ibn Ezra says the place is not high; the English keeps 'mountains' (see commentary)."
+   ],
+   "context": [
+    "Moriah: the name occurs here and in 2 Chronicles 3:1, where it is the site of Solomon's house. Most commentators identify the land with Jerusalem; the verse names no city, and the identification is a reading of the name, not a fact the verse states.",
+    "An olah (a burnt offering) is an animal burnt whole on the altar, and not eaten by the worshipper. The Hebrew word comes from the root 'go up', as the smoke rises."
+   ]
+  },
+  {
+   "ref": "22:3",
+   "english": "Abraham rose early in the morning, saddled his donkey, and took his two servants with him and Isaac his son. He split the wood for a burnt offering, got up, and went to the place which God had said to him.",
+   "literal": "and-he-rose-early Abraham in-the-morning and-he-bound-on [object] his-donkey and-he-took [object] two his-servants with-him and [object] Isaac his-son and-he-split [object] wood-of burnt-offering and-he-arose and-he-went to the-place which he-had-said to-him the-God",
+   "tokens": [
+    {"id": "22:3.1", "gloss": "and he rose early", "note": "Hifil wayyiqtol of שָׁכַם: 'to rise early', the usual idiom for early action."},
+    {"id": "22:3.2", "gloss": "Abraham", "note": "The name in its familiar English form."},
+    {"id": "22:3.3", "gloss": "in the morning", "sense": "1", "note": "The preposition בְּ with the article on בֹּקֶר."},
+    {"id": "22:3.4", "gloss": "and he saddled", "sense": "Qal 1", "note": "Wayyiqtol of חָבַשׁ: 'bind on'. The Hebrew names no saddle; 'saddled' gives the sense of binding on the donkey's gear."},
+    {"id": "22:3.5", "gloss": "[object marker]", "note": "The object marker before his donkey."},
+    {"id": "22:3.6", "gloss": "his donkey", "note": "The noun חֲמוֹר with the third masculine singular suffix."},
+    {"id": "22:3.7", "gloss": "and he took", "sense": "Qal 2", "note": "Wayyiqtol of לָקַח: take and carry along."},
+    {"id": "22:3.8", "gloss": "[object marker]", "note": "The object marker before the servants."},
+    {"id": "22:3.9", "gloss": "two", "note": "The construct of שְׁנַיִם, the dual number, with the plural that follows."},
+    {"id": "22:3.10", "gloss": "his servants", "sense": "2", "note": "נַעַר with the suffix: the young men who attend a master. Rashi and Radak name them (see commentary)."},
+    {"id": "22:3.11", "gloss": "with him", "sense": "1", "lex": "bdb:a.gn.aa", "note": "The preposition אֵת with the third masculine singular suffix: 'with him'. This is not the object marker, which is a separate entry."},
+    {"id": "22:3.12", "gloss": "and", "note": "The conjunction; the object marker that follows has no English counterpart."},
+    {"id": "22:3.13", "gloss": "Isaac", "note": "The name in its familiar English form."},
+    {"id": "22:3.14", "gloss": "his son", "sense": "1", "note": "Construct בֵּן with the third masculine singular suffix; the etnaḥta divides the verse here."},
+    {"id": "22:3.15", "gloss": "and he split", "sense": "Pi", "note": "Piel wayyiqtol of בָּקַע: cleave, cut to pieces."},
+    {"id": "22:3.16", "gloss": "wood", "sense": "2", "note": "The construct plural עֲצֵי: pieces of wood."},
+    {"id": "22:3.17", "gloss": "of burnt offering", "note": "Construct עֹלָה: the wood of the burnt offering, rendered 'for a burnt offering'."},
+    {"id": "22:3.18", "gloss": "and he got up", "sense": "Qal 1", "note": "Wayyiqtol of קוּם: arise, get up."},
+    {"id": "22:3.19", "gloss": "and he went", "sense": "Qal I.1", "note": "Wayyiqtol of הָלַךְ."},
+    {"id": "22:3.20", "gloss": "to", "sense": "9", "note": "The preposition of motion."},
+    {"id": "22:3.21", "gloss": "the place", "sense": "4", "note": "The place of the verse: named in 22:2 as the land of Moriah (see commentary)."},
+    {"id": "22:3.22", "gloss": "which", "note": "The relative particle."},
+    {"id": "22:3.23", "gloss": "had said", "sense": "Qal 1", "note": "Qatal of אָמַר in a relative clause: the speech came before the going."},
+    {"id": "22:3.24", "gloss": "to him", "note": "The preposition with the third masculine singular suffix."},
+    {"id": "22:3.25", "gloss": "God", "sense": "3", "note": "הָאֱלֹהִים with the article: the God of Israel."}
+   ],
+   "phrases": [
+    {"tokens": ["22:3.1", "22:3.2", "22:3.3"], "english": "Abraham rose early in the morning,", "literal": "'and-he-rose-early Abraham in-the-morning'"},
+    {"tokens": ["22:3.4", "22:3.5", "22:3.6"], "english": "saddled his donkey,", "literal": "'and-he-bound-on [object] his-donkey'"},
+    {"tokens": ["22:3.7", "22:3.8", "22:3.9", "22:3.10", "22:3.11"], "english": "and took his two servants with him", "literal": "'and-he-took [object] two his-servants with-him'"},
+    {"tokens": ["22:3.12", "22:3.13", "22:3.14"], "english": "and Isaac his son.", "literal": "'and-[object] Isaac his-son'"},
+    {"tokens": ["22:3.15", "22:3.16", "22:3.17"], "english": "He split the wood for a burnt offering,", "literal": "'and-he-split wood-of burnt-offering'"},
+    {"tokens": ["22:3.18", "22:3.19"], "english": "got up, and went", "literal": "'and-he-arose and-he-went'"},
+    {"tokens": ["22:3.20", "22:3.21"], "english": "to the place", "literal": "'to the-place'"},
+    {"tokens": ["22:3.22", "22:3.23", "22:3.24", "22:3.25"], "english": "which God had said to him.", "literal": "'which he-had-said to-him the-God'; the English puts God before the verb"}
+   ],
+   "grammar": [
+    "A chain of wayyiqtols (וַיַּשְׁכֵּם, וַיַּחֲבֹשׁ, וַיִּקַּח, וַיְבַקַּע, וַיָּקָם, וַיֵּלֶךְ) gives the order of the acts; each takes 'and' or none, as the English sense needs.",
+    "The verb חָבַשׁ names the binding on of the donkey's gear. The Hebrew names no saddle; the English 'saddled' gives its sense.",
+    "עֲצֵי עֹלָה is a construct chain: 'the wood of a burnt offering'. The English adds 'for'.",
+    "The relative clause אֲשֶׁר אָמַר לוֹ הָאֱלֹהִים has a qatal verb: the speech came before the going, so the English has 'had said'.",
+    "The etnaḥta on בְּנוֹ divides the verse into two halves: the preparations, and the splitting and going. The silluq on הָאֱלֹהִים closes the verse."
+   ],
+   "note": "The English keeps 'the place' without naming the mountain: the place is the one of 22:2, and the commentators differ on its name. 'Saddled' gives the sense of the verb חָבַשׁ, 'bind on', which names no saddle.",
+   "commentary": [
+    {"anchor": "ibn-ezra:22:3:1", "relation": "records", "summary": "Ibn Ezra's gloss: 'and he put them on the donkey' (וּשְׂמָם עַל הַחֲמוֹר). The verb says only that he split the wood; the English adds nothing about where it was put. The gloss is recorded as what happened, not as the sense of the verb."},
+    {"anchor": "rashi:22:3:1", "relation": "not-applicable", "summary": "Rashi: Abraham hurried to do the commandment (Pesachim 4). A remark on his zeal, not on a word of the verse."},
+    {"anchor": "rashi:22:3:2", "relation": "not-applicable", "summary": "Rashi: he saddled the donkey himself and did not order a servant, for love spoils the usual order. A remark on his care, not the sense of the verb."},
+    {"anchor": "rashi:22:3:3", "relation": "records", "summary": "Rashi names the two servants as Ishmael and Eliezer, since a man of standing did not go out with one attendant (Bereshit Rabbah). The English 'his two servants' keeps the Hebrew without names."},
+    {"anchor": "rashi:22:3:4", "relation": "follows", "summary": "Rashi: וַיְבַקַּע means cleave; the Targum renders it 'cut through', as in 'they crossed the Jordan' (2 Samuel 19:19). The English 'split' follows the sense of cleaving."},
+    {"anchor": "ramban:22:3:1", "relation": "not-applicable", "summary": "Ramban gives reasons: Abraham's zeal, or that there was no wood at the place so he carried it three days, or that he rejected worm-eaten wood and took good wood from home (Middot 2:5). Reasons for the act, not its sense."},
+    {"anchor": "radak:22:3:1", "relation": "not-applicable", "summary": "Radak: he rose early to do God's will and did not tell Sarah, lest she harm herself out of love for Isaac."},
+    {"anchor": "radak:22:3:2", "relation": "records", "summary": "Radak: the two servants were those used to walk with him to attend him; the midrash names Eliezer and Ishmael. The English keeps 'servants' without names."},
+    {"anchor": "radak:22:3:3", "relation": "records", "summary": "Radak takes the wood to be laid on the donkey to carry along; the youths thought he meant to cook where they lodged, in case they found no wood there. The English says nothing of the donkey's load."},
+    {"anchor": "radak:22:3:4", "relation": "records", "summary": "Radak: the place is the land of Moriah; he did not yet know the mountain. The English keeps 'the place'."},
+    {"anchor": "onkelos:22:3:1", "relation": "records", "summary": "Onkelos renders 'saddled' by a word for 'hastened' (זָרֵז) and names the place as the LORD had told him. The English keeps 'saddled' and 'God'."},
+    {"anchor": "sforno:22:3:1", "relation": "records", "summary": "Sforno: the place is the land of Moriah. The English keeps 'the place'."}
+   ],
+   "apparatus": [],
+   "context": []
+  },
+  {
+   "ref": "22:4",
+   "english": "On the third day, Abraham lifted his eyes and saw the place from afar.",
+   "literal": "in-the-day the-third and-he-lifted Abraham [object] his-eyes and-he-saw [object] the-place from-far",
+   "tokens": [
+    {"id": "22:4.1", "gloss": "on the day", "sense": "1", "note": "The preposition ב with the article on יוֹם. The day is counted from the departure from Beersheba, as Ibn Ezra says (see commentary)."},
+    {"id": "22:4.2", "gloss": "third", "note": "The ordinal in the masculine singular."},
+    {"id": "22:4.3", "gloss": "and he lifted", "sense": "Qal 1", "note": "Wayyiqtol of נָשָׂא: lift, lift up."},
+    {"id": "22:4.4", "gloss": "Abraham", "note": "The name in its familiar English form."},
+    {"id": "22:4.5", "gloss": "[object marker]", "note": "The object marker before his eyes."},
+    {"id": "22:4.6", "gloss": "his eyes", "sense": "1", "note": "The dual construct with the third masculine singular suffix. 'Lift the eyes' is the idiom for looking up."},
+    {"id": "22:4.7", "gloss": "and he saw", "sense": "Qal 1.a", "note": "Wayyiqtol of רָאָה."},
+    {"id": "22:4.8", "gloss": "[object marker]", "note": "The object marker before the place."},
+    {"id": "22:4.9", "gloss": "the place", "sense": "4", "note": "The place of the verse (see commentary)."},
+    {"id": "22:4.10", "gloss": "from afar", "note": "The preposition מִן with the adjective רָחֹק: 'from far away'."}
+   ],
+   "phrases": [
+    {"tokens": ["22:4.1", "22:4.2"], "english": "On the third day,", "literal": "'in-the-day the-third'"},
+    {"tokens": ["22:4.3", "22:4.4"], "english": "Abraham lifted", "literal": "'and-he-lifted Abraham'"},
+    {"tokens": ["22:4.5", "22:4.6"], "english": "his eyes", "literal": "'[object] his-eyes'"},
+    {"tokens": ["22:4.7", "22:4.8", "22:4.9"], "english": "and saw the place", "literal": "'and-he-saw [object] the-place'"},
+    {"tokens": ["22:4.10"], "english": "from afar.", "literal": "'from-far'"}
+   ],
+   "grammar": [
+    "בַּיּוֹם הַשְּׁלִישִׁי: the preposition ב with the article and the ordinal. The point from which the third day is counted is not stated (Ibn Ezra).",
+    "נָשָׂא אֶת־עֵינָיו is the idiom 'lift the eyes', for looking up; the English keeps 'lifted his eyes'.",
+    "The two wayyiqtols, וַיִּשָּׂא and וַיַּרְא, carry the narrative on, with Abraham as subject.",
+    "מֵרָחֹק closes the sentence: the seeing is at a distance, and the English places 'from afar' last, as the Hebrew does."
+   ],
+   "note": "The English keeps 'the third day' open as to its reckoning point. Ibn Ezra's count from the departure is recorded in the commentary.",
+   "commentary": [
+    {"anchor": "ibn-ezra:22:4:1", "relation": "follows", "summary": "Ibn Ezra: the third day is counted from the departure from Beersheba. The English 'on the third day' leaves the reckoning point unstated, as the verse does; the count he gives is the one the journey implies."},
+    {"anchor": "rashi:22:4:1", "relation": "not-applicable", "summary": "Rashi: why was the place not seen at once? So that they would not say he was dazed and his mind was confused; had he had time to take counsel with himself, he would not have gone. A reason for the delay."},
+    {"anchor": "rashi:22:4:2", "relation": "declines", "summary": "Rashi: he saw a cloud tied on the mountain. The English says only that he saw the place from afar. The cloud is a sign from the midrash (Bereshit Rabbah 56), not in the words."},
+    {"anchor": "ramban:22:4:1", "relation": "records", "summary": "Ramban: the cloud on the mountain (Bereshit Rabbah 56) fulfils 'which I will tell you'; the plain sense is that he saw the land of Moriah, since he knew the whole land. The English 'the place' keeps both."},
+    {"anchor": "radak:22:4:1", "relation": "records", "summary": "Radak: the waw of 'and he lifted' is added, as in other places (36:24), so the day may be read with what precedes: on the third day he came near the place, and saw it from afar on entering its border; the mountain he did not yet know until God told him."},
+    {"anchor": "radak:22:4:2", "relation": "records", "summary": "Radak: he saw the place of which God had spoken, the mountain of Moriah; the Sages say likewise."},
+    {"anchor": "radak:22:4:3", "relation": "not-applicable", "summary": "Radak gives a midrash: he saw a pillar of fire on the mountain and asked Isaac and the servants what they saw; they saw nothing, and he told them to stay with the donkey. Not the plain sense."},
+    {"anchor": "onkelos:22:4:1", "relation": "follows", "summary": "Onkelos: he raised his eyes and saw the place from afar. The same sense as the English."},
+    {"anchor": "sforno:22:4:1", "relation": "records", "summary": "Sforno: 'the place' is the place of the sacrifice on Mount Moriah. The English keeps 'the place'."},
+    {"anchor": "sforno:22:4:2", "relation": "not-applicable", "summary": "Sforno: his eye was given power to see from afar by the will of God, as in 'and the LORD showed him all the land' (Deuteronomy 34:1); he understood the place of the sacrifice would be there. A reason for the seeing, not its sense."}
+   ],
+   "apparatus": [
+    "22:4.1: the point from which 'the third day' is counted is not stated; Ibn Ezra counts from the departure (see commentary)."
+   ],
+   "context": []
+  },
+  {
+   "ref": "22:5",
+   "english": "Abraham said to his servants, \"Stay here with the donkey. I and the boy will go as far as there, and we will bow down and we will return to you.\"",
+   "literal": "and-he-said Abraham to his-servants stay for-yourselves here with the-donkey and-I and-the-boy we-will-go as-far-as thus and-we-will-bow-down and-we-will-return to-you",
+   "tokens": [
+    {"id": "22:5.1", "gloss": "and he said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר."},
+    {"id": "22:5.2", "gloss": "Abraham", "note": "The name in its familiar English form."},
+    {"id": "22:5.3", "gloss": "to", "sense": "1", "note": "The preposition אֶל."},
+    {"id": "22:5.4", "gloss": "his servants", "sense": "2", "note": "נַעַר with the suffix, in the sense 'servant, retainer'."},
+    {"id": "22:5.5", "gloss": "stay", "sense": "Qal 2.a", "note": "Imperative, second masculine plural: remain, stay."},
+    {"id": "22:5.6", "gloss": "for yourselves", "note": "The dative לָכֶם with the imperative: an idiom with no English counterpart."},
+    {"id": "22:5.7", "gloss": "here", "note": "The adverb of place."},
+    {"id": "22:5.8", "gloss": "with", "sense": "1", "note": "The preposition עִם: together with."},
+    {"id": "22:5.9", "gloss": "the donkey", "note": "The article on חֲמוֹר."},
+    {"id": "22:5.10", "gloss": "and I", "note": "The conjunction with the first-person pronoun."},
+    {"id": "22:5.11", "gloss": "and the boy", "sense": "1", "note": "The same word as 'servants' in 22:3, here in the sense 'boy, lad': Isaac."},
+    {"id": "22:5.12", "gloss": "will go", "sense": "Qal I.1", "note": "Cohortative, first person common plural: 'we' are Abraham and the boy."},
+    {"id": "22:5.13", "gloss": "as far as", "sense": "I.1", "note": "The preposition עַד of space."},
+    {"id": "22:5.14", "gloss": "there", "sense": "2", "note": "The adverb כֹּה: 'here' or 'thus'; it points to the place in view."},
+    {"id": "22:5.15", "gloss": "and we will bow down", "sense": "Hithpa‛lēl 1", "note": "The pack parses the form as a yiqtol of the hishtafel, first person common plural: 'bow down'."},
+    {"id": "22:5.16", "gloss": "and we will return", "sense": "Qal 2", "note": "Cohortative of שׁוּב, first person common plural. What Abraham meant by it is in the commentary."},
+    {"id": "22:5.17", "gloss": "to you", "sense": "9", "note": "The preposition of motion with the second masculine plural suffix."}
+   ],
+   "phrases": [
+    {"tokens": ["22:5.1", "22:5.2"], "english": "Abraham said", "literal": "'and-he-said Abraham'"},
+    {"tokens": ["22:5.3", "22:5.4"], "english": "to his servants,", "literal": "'to his-servants'"},
+    {"tokens": ["22:5.5", "22:5.6", "22:5.7"], "english": "\"Stay here", "literal": "'stay for-yourselves here'; the dative is idiomatic"},
+    {"tokens": ["22:5.8", "22:5.9"], "english": "with the donkey.", "literal": "'with the-donkey'"},
+    {"tokens": ["22:5.10", "22:5.11", "22:5.12"], "english": "I and the boy will go", "literal": "'and-I and-the-boy we-will-go'"},
+    {"tokens": ["22:5.13", "22:5.14"], "english": "as far as there,", "literal": "'as-far-as thus'"},
+    {"tokens": ["22:5.15"], "english": "and we will bow down", "literal": "'and-we-will-bow-down'"},
+    {"tokens": ["22:5.16", "22:5.17"], "english": "and we will return to you.\"", "literal": "'and-we-will-return to-you'"}
+   ],
+   "grammar": [
+    "שְׁבוּ לָכֶם פֹּה: the imperative 'stay' with the dative; the English 'stay here'.",
+    "The verbs נֵלְכָה, וְנִשְׁתַּחֲוֶה, וְנָשׁוּבָה are first-person plural: 'we' are Abraham and the boy. The pack parses נֵלְכָה and נָשׁוּבָה as cohortatives and נִשְׁתַּחֲוֶה as a yiqtol.",
+    "The subject 'I and the boy' comes before its verb, and the English keeps that order.",
+    "The etnaḥta on כֹּה divides the verse: the staying and the going first, then the three verbs of Abraham's plan."
+   ],
+   "note": "Abraham's words are the speech; the English keeps 'we will return' as a statement of plan. The commentators differ on what he meant by it (see commentary).",
+   "commentary": [
+    {"anchor": "ibn-ezra:22:5:1", "relation": "records", "summary": "Ibn Ezra asks how Abraham could say 'and we will return'. Others answer that he meant to bring back Isaac's remains, or that he put them off with words so that they would not turn back and Isaac would not perceive and flee. He rejects the Sages' age of thirty-seven for Isaac, takes him to be near thirteen and bound against his will, and gives as evidence that his father hid the secret; the English keeps the words and takes no side on the intention."},
+    {"anchor": "rashi:22:5:1", "relation": "records", "summary": "Rashi: 'as far as there' means a short way to the place before us; perhaps Abraham will see where it is, as the place told him: 'so shall your seed be' (15:5). The English keeps the distance open."},
+    {"anchor": "rashi:22:5:2", "relation": "records", "summary": "Rashi: 'we will return' is a prophecy by Abraham that both would come back. The English keeps the words as a statement of plan."},
+    {"anchor": "radak:22:5:1", "relation": "not-applicable", "summary": "Radak: the servants understood that a sacrifice would be made with the bowing, since they carried wood and fire; whoever goes to a place to bow down there brings an offering (1 Samuel 1:3). A remark on what the servants understood."},
+    {"anchor": "onkelos:22:5:1", "relation": "records", "summary": "Onkelos renders 'bow down' by 'worship' (וְנִסְגּוּד). The English keeps 'bow down', the sense the verb gives."},
+    {"anchor": "sforno:22:5:1", "relation": "not-applicable", "summary": "Sforno: so that they would not hinder him or trouble him in making the sacrifice."}
+   ],
+   "apparatus": [
+    "22:5.16: the words 'and we will return' are read differently: Ibn Ezra gives others' readings of Abraham's intention (see commentary)."
+   ],
+   "context": []
+  },
+  {
+   "ref": "22:6",
+   "english": "Abraham took the wood for the burnt offering and laid on Isaac his son, and took in his hand the fire and the knife, and the two of them went together.",
+   "literal": "and-he-took Abraham [object] wood-of the-burnt-offering and-he-laid on Isaac his-son and-he-took in-his-hand [object] the-fire and-[object] the-knife and-they-went the-two-of-them together",
+   "tokens": [
+    {"id": "22:6.1", "gloss": "and he took", "sense": "Qal 1", "note": "Wayyiqtol of לָקַח: take in hand."},
+    {"id": "22:6.2", "gloss": "Abraham", "note": "The name in its familiar English form."},
+    {"id": "22:6.3", "gloss": "[object marker]", "note": "The object marker before the wood."},
+    {"id": "22:6.4", "gloss": "the wood", "sense": "2", "note": "The construct plural עֲצֵי: pieces of wood."},
+    {"id": "22:6.5", "gloss": "the burnt offering", "note": "The article on עֹלָה: the burnt offering named in 22:2."},
+    {"id": "22:6.6", "gloss": "and he laid", "sense": "Qal 1.b", "note": "Wayyiqtol of שׂוּם: put, upon. The verb has no expressed object; the wood is what is laid on him."},
+    {"id": "22:6.7", "gloss": "on", "sense": "II.1", "note": "The preposition עַל: upon."},
+    {"id": "22:6.8", "gloss": "Isaac", "note": "The name in its familiar English form."},
+    {"id": "22:6.9", "gloss": "his son", "sense": "1", "note": "Construct בֵּן with the third masculine singular suffix."},
+    {"id": "22:6.10", "gloss": "and he took", "sense": "Qal 1", "note": "Wayyiqtol of לָקַח: take in hand."},
+    {"id": "22:6.11", "gloss": "in his hand", "sense": "1", "note": "The preposition בְּ with יָד and the third masculine singular suffix."},
+    {"id": "22:6.12", "gloss": "[object marker]", "note": "The object marker before the fire."},
+    {"id": "22:6.13", "gloss": "the fire", "sense": "1", "note": "The article on אֵשׁ."},
+    {"id": "22:6.14", "gloss": "and", "note": "The conjunction; the object marker that follows has no English counterpart."},
+    {"id": "22:6.15", "gloss": "the knife", "note": "The feminine noun from אכל: 'knife, cutting'. Rashi's etymology is in the commentary."},
+    {"id": "22:6.16", "gloss": "and they went", "sense": "Qal I.1", "note": "Wayyiqtol of הָלַךְ, third masculine plural."},
+    {"id": "22:6.17", "gloss": "the two of them", "note": "The dual 'two' with the third masculine plural suffix."},
+    {"id": "22:6.18", "gloss": "together", "note": "The adverb יָחְדָּו."}
+   ],
+   "phrases": [
+    {"tokens": ["22:6.1", "22:6.2", "22:6.3", "22:6.4", "22:6.5"], "english": "Abraham took the wood for the burnt offering", "literal": "'and-he-took Abraham [object] wood-of the-burnt-offering'"},
+    {"tokens": ["22:6.6", "22:6.7", "22:6.8", "22:6.9"], "english": "and laid on Isaac his son,", "literal": "'and-he-laid on Isaac his-son'; the object is not expressed"},
+    {"tokens": ["22:6.10", "22:6.11"], "english": "and took in his hand", "literal": "'and-he-took in-his-hand'"},
+    {"tokens": ["22:6.12", "22:6.13"], "english": "the fire", "literal": "'[object] the-fire'"},
+    {"tokens": ["22:6.14", "22:6.15"], "english": "and the knife,", "literal": "'and-[object] the-knife'"},
+    {"tokens": ["22:6.16", "22:6.17", "22:6.18"], "english": "and the two of them went together.", "literal": "'and-they-went the-two-of-them together'"}
+   ],
+   "grammar": [
+    "A chain of wayyiqtols gives the order: he took the wood, laid it on Isaac, took the fire and the knife, and they went.",
+    "וַיָּשֶׂם has no object in the Hebrew; the English 'laid on Isaac his son' keeps that, and the wood is what the previous clause names.",
+    "מַאֲכֶלֶת is a feminine noun from the root אכל; its etymology is Rashi's (see commentary).",
+    "וַיֵּלְכוּ שְׁנֵיהֶם יַחְדָּו: the dual 'two of them' and the adverb 'together'. The same words close 22:8."
+   ],
+   "note": "The English 'laid on Isaac his son' keeps the verb without an object, as the Hebrew does. 'The knife' is the sense the lexicon gives.",
+   "commentary": [
+    {"anchor": "rashi:22:6:1", "relation": "follows", "summary": "Rashi: the knife is so called because it eats the flesh (cf. Deuteronomy 32:42) and makes it fit to eat. The English 'knife' follows. His further remark that it is named for Israel's eating of its reward is a midrash."},
+    {"anchor": "rashi:22:6:2", "relation": "not-applicable", "summary": "Rashi: Abraham, who knew he was going to slaughter his son, walked willingly and joyfully, and Isaac did not perceive it. A remark on their mood."},
+    {"anchor": "radak:22:6:1", "relation": "not-applicable", "summary": "Radak: he did not take the donkey, so that the youths would not think they were going far and so that no one would be left to guard it; also so that the donkey would not enter so holy a place."},
+    {"anchor": "onkelos:22:6:1", "relation": "follows", "summary": "Onkelos: the same sense: the wood, laid on Isaac his son, the fire and the knife, and the two went together. The English agrees."}
+   ],
+   "apparatus": [],
+   "context": []
+  },
+  {
+   "ref": "22:7",
+   "english": "Isaac said to Abraham his father, and he said, \"My father.\" And he said, \"Here I am, my son.\" And he said, \"Here are the fire and the wood, but where is the sheep for a burnt offering?\"",
+   "literal": "and-he-said Isaac to-Abraham father-his and-he-said my-father and-he-said here-I my-son and-he-said here the-fire and-the-wood and-where the-sheep to-burnt-offering",
+   "tokens": [
+    {"id": "22:7.1", "gloss": "and he said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר: the speech of Isaac."},
+    {"id": "22:7.2", "gloss": "Isaac", "note": "The name in its familiar English form."},
+    {"id": "22:7.3", "gloss": "to", "sense": "1", "note": "The preposition אֶל."},
+    {"id": "22:7.4", "gloss": "Abraham", "note": "The name in its familiar English form."},
+    {"id": "22:7.5", "gloss": "his father", "sense": "1", "note": "אָב with the third masculine singular suffix."},
+    {"id": "22:7.6", "gloss": "and he said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר."},
+    {"id": "22:7.7", "gloss": "my father", "sense": "1", "note": "The address, with the first-person suffix."},
+    {"id": "22:7.8", "gloss": "and he said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר: Abraham's answer."},
+    {"id": "22:7.9", "gloss": "here I am", "note": "הִנֶּנִּי: the same reply as in 22:1."},
+    {"id": "22:7.10", "gloss": "my son", "sense": "1", "note": "The address, with the first-person suffix."},
+    {"id": "22:7.11", "gloss": "and he said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר: Isaac speaks again."},
+    {"id": "22:7.12", "gloss": "here", "note": "הִנֵּה: 'here are'. The copula is the English's."},
+    {"id": "22:7.13", "gloss": "the fire", "sense": "1", "note": "The article on אֵשׁ."},
+    {"id": "22:7.14", "gloss": "and the wood", "sense": "2", "note": "The article on the plural עֵצִים: the pieces of wood."},
+    {"id": "22:7.15", "gloss": "but where", "note": "The conjunction with the interrogative אַיֵּה."},
+    {"id": "22:7.16", "gloss": "the sheep", "note": "One of a flock: a sheep or a goat (see apparatus). The article marks it as the known animal."},
+    {"id": "22:7.17", "gloss": "for a burnt offering", "note": "No article: 'for a burnt offering' in general."}
+   ],
+   "phrases": [
+    {"tokens": ["22:7.1", "22:7.2", "22:7.3", "22:7.4", "22:7.5"], "english": "Isaac said to Abraham his father,", "literal": "'and-he-said Isaac to-Abraham father-his'"},
+    {"tokens": ["22:7.6", "22:7.7"], "english": "and he said, \"My father.\"", "literal": "'and-he-said my-father'"},
+    {"tokens": ["22:7.8", "22:7.9", "22:7.10"], "english": "And he said, \"Here I am, my son.\"", "literal": "'and-he-said here-I my-son'"},
+    {"tokens": ["22:7.11", "22:7.12"], "english": "And he said, \"Here are", "literal": "'and-he-said here'"},
+    {"tokens": ["22:7.13", "22:7.14"], "english": "the fire and the wood,", "literal": "'the-fire and-the-wood'"},
+    {"tokens": ["22:7.15", "22:7.16", "22:7.17"], "english": "but where is the sheep for a burnt offering?\"", "literal": "'and-where the-sheep to-burnt-offering'"}
+   ],
+   "grammar": [
+    "The dialogue turns on the address 'father' (אָבִי) and 'son' (בְנִי), both with the first-person suffix.",
+    "הִנֵּה הָאֵשׁ וְהָעֵצִים is a sentence with no verb; the English adds 'are'.",
+    "הַשֶּׂה has the article, the known animal; לְעֹלָה has none. Isaac asks where the sheep is.",
+    "Each speech opens with wayyiqtol 'and he said'. The speaker changes between Isaac and Abraham."
+   ],
+   "note": "The English keeps the repeated 'and he said' of the Hebrew, which marks each speech. Speakers are named from the context.",
+   "commentary": [
+    {"anchor": "radak:22:7:1", "relation": "not-applicable", "summary": "Radak notes the form הִנֶּנִּי with the dagesh in the second nun. A remark on the form; the English 'Here I am' is unchanged."},
+    {"anchor": "onkelos:22:7:1", "relation": "records", "summary": "Onkelos reads 'lamb' (אִמְרָא) for the sheep (שֶׂה), an animal of the flock. The English keeps 'sheep', the Hebrew's word."}
+   ],
+   "apparatus": [
+    "22:7.16: שֶׂה is one of a flock, a sheep or a goat; Onkelos reads 'lamb'. The English keeps 'sheep'."
+   ],
+   "context": [
+    "The sheep (שֶׂה) is one of a flock. The word covers a sheep or a goat, and the text names neither the kind nor the age; the offering laws name the flock animal as the usual burnt offering (Leviticus 1:10)."
+   ]
+  },
+  {
+   "ref": "22:8",
+   "english": "Abraham said, \"God will see for himself the sheep for a burnt offering, my son.\" And the two of them went together.",
+   "literal": "and-he-said Abraham God will-see for-him the-sheep to-burnt-offering my-son and-they-went the-two-of-them together",
+   "tokens": [
+    {"id": "22:8.1", "gloss": "and he said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר: Abraham's answer."},
+    {"id": "22:8.2", "gloss": "Abraham", "note": "The name in its familiar English form."},
+    {"id": "22:8.3", "gloss": "God", "sense": "4", "note": "אֱלֹהִים without the article, the name of God."},
+    {"id": "22:8.4", "gloss": "will see", "sense": "Qal 1.a", "note": "Yiqtol of רָאָה, third masculine singular. The verb of seeing takes 'the sheep' as its object; Radak reads it as providing (see commentary)."},
+    {"id": "22:8.5", "gloss": "for himself", "note": "The preposition ל with the third masculine singular suffix."},
+    {"id": "22:8.6", "gloss": "the sheep", "note": "The article on שֶׂה."},
+    {"id": "22:8.7", "gloss": "for a burnt offering", "note": "לְעֹלָה without the article."},
+    {"id": "22:8.8", "gloss": "my son", "sense": "1", "note": "The address, with the first-person suffix. It closes Abraham's answer."},
+    {"id": "22:8.9", "gloss": "and they went", "sense": "Qal I.1", "note": "Wayyiqtol of הָלַךְ, third masculine plural: as in 22:6."},
+    {"id": "22:8.10", "gloss": "the two of them", "note": "The dual 'two' with the third masculine plural suffix."},
+    {"id": "22:8.11", "gloss": "together", "note": "The adverb יָחְדָּו, as in 22:6."}
+   ],
+   "phrases": [
+    {"tokens": ["22:8.1", "22:8.2"], "english": "Abraham said,", "literal": "'and-he-said Abraham'"},
+    {"tokens": ["22:8.3", "22:8.4", "22:8.5"], "english": "\"God will see for himself", "literal": "'God will-see for-him'"},
+    {"tokens": ["22:8.6", "22:8.7"], "english": "the sheep for a burnt offering,", "literal": "'the-sheep to-burnt-offering'"},
+    {"tokens": ["22:8.8"], "english": "my son.\"", "literal": "'my-son'"},
+    {"tokens": ["22:8.9", "22:8.10", "22:8.11"], "english": "and the two of them went together.", "literal": "'and-they-went the-two-of-them together'"}
+   ],
+   "grammar": [
+    "The subject אֱלֹהִים comes before the yiqtol יִרְאֶה, and לּוֹ is 'for himself'.",
+    "יִרְאֶה לּוֹ הַשֶּׂה: the verb of seeing takes 'the sheep' as its object. Its sense 'see for himself' is open between the readings in the commentary and the apparatus.",
+    "The vocative 'my son' comes last, after the words for the sheep; the English keeps the Hebrew order.",
+    "The last clause repeats 22:6 word for word."
+   ],
+   "note": "The English 'God will see for himself' keeps the verb's sense and does not choose between providing the sheep and the sheep being Isaac. Both readings are recorded.",
+   "commentary": [
+    {"anchor": "radak:22:8:1", "relation": "records", "summary": "Radak: the answer can be taken in two ways. God will provide the sheep, since He knows who it will be and designates it; or the sheep is Isaac himself, and Isaac understood that he would be the sheep. The English keeps the words open between the two."},
+    {"anchor": "rashi:22:8:1", "relation": "records", "summary": "Rashi: 'God will see and choose for himself the sheep'; the choosing is his gloss, and the rest of his comment is cut off in the pack. The English keeps 'see' and adds no 'choose'."},
+    {"anchor": "rashi:22:8:2", "relation": "not-applicable", "summary": "Rashi: although Isaac understood that he was to be slaughtered (the rest is cut off in the pack). A remark on Isaac's understanding, not on the words."},
+    {"anchor": "rashi:22:8:3", "relation": "records", "summary": "Rashi: 'together' means with one heart (בְּלֵב שָׁוֶה). The English keeps 'together'."},
+    {"anchor": "radak:22:8:2", "relation": "not-applicable", "summary": "Radak: 'my son' here is the answer to a call, as in 'Here I am, my son' (22:7). A remark on the formula."},
+    {"anchor": "radak:22:8:6", "relation": "not-applicable", "summary": "Radak: 'together' in one heart: the son accepted out of love to give his soul to God and offer himself before him."},
+    {"anchor": "onkelos:22:8:1", "relation": "records", "summary": "Onkelos reads 'God will see' as 'will reveal' (גְּלֵי) and adds 'before the LORD' (קֳדָם יְיָ), which the Hebrew does not have. The English keeps 'see for himself' and adds nothing."}
+   ],
+   "apparatus": [
+    "22:8.3–5: the answer has two readings (Radak): God will provide the sheep; or the sheep is Isaac himself (see commentary). The English keeps the words."
+   ],
+   "context": []
+  }
+ ]
+}
