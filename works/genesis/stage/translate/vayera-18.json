@@ -1,0 +1,396 @@
+{
+  "unit": "vayera-18",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "22:9",
+      "english": "They came to the place which God said to him. Abraham built the altar there, arranged the wood, bound Isaac, his son, and laid him on the altar, on top of the wood.",
+      "literal": "and-came to-the-place which said to-him the-God and-built there Abraham [object] the-altar and-arranged [object] the-wood and-bound [object] Isaac his-son and-laid [object] him on the-altar from-above to-the-wood",
+      "tokens": [
+        {"id": "22:9.1", "gloss": "they came", "sense": "Qal 2", "note": "Qal wayyiqtol of בּוֹא, third person masculine plural. The subject is not named in this verse."},
+        {"id": "22:9.2", "gloss": "to", "sense": "1"},
+        {"id": "22:9.3", "gloss": "the place", "sense": "2.a"},
+        {"id": "22:9.4", "gloss": "which"},
+        {"id": "22:9.5", "gloss": "said", "sense": "Qal 1", "note": "Qal qatal of אָמַר, in a relative clause: 'which God said to him'."},
+        {"id": "22:9.6", "gloss": "to him"},
+        {"id": "22:9.7", "gloss": "God", "sense": "3"},
+        {"id": "22:9.8", "gloss": "and built", "sense": "Qal", "note": "Qal wayyiqtol of בָּנָה, third person masculine singular. Abraham is the subject."},
+        {"id": "22:9.9", "gloss": "there"},
+        {"id": "22:9.10", "gloss": "Abraham"},
+        {"id": "22:9.11", "gloss": "[object marker]"},
+        {"id": "22:9.12", "gloss": "the altar"},
+        {"id": "22:9.13", "gloss": "and arranged", "sense": "Qal 1.b", "note": "Qal wayyiqtol of עָרַךְ: set in order, laid out in place."},
+        {"id": "22:9.14", "gloss": "[object marker]"},
+        {"id": "22:9.15", "gloss": "the wood", "sense": "2", "note": "Pieces of wood laid in order, not standing trees."},
+        {"id": "22:9.16", "gloss": "and bound", "note": "Qal wayyiqtol of עָקַד, third person masculine singular: bind. The verb is not given a sense in the pack's entry."},
+        {"id": "22:9.17", "gloss": "[object marker]"},
+        {"id": "22:9.18", "gloss": "Isaac"},
+        {"id": "22:9.19", "gloss": "his son", "sense": "1", "note": "The noun with the third person masculine singular suffix."},
+        {"id": "22:9.20", "gloss": "and laid", "sense": "Qal 1.b", "note": "Qal wayyiqtol of שׂוּם, with the object and עַל: put upon."},
+        {"id": "22:9.21", "gloss": "him", "note": "The object marker with the suffix: the object is Isaac."},
+        {"id": "22:9.22", "gloss": "on", "sense": "II.1"},
+        {"id": "22:9.23", "gloss": "the altar"},
+        {"id": "22:9.24", "gloss": "from above", "note": "מִמַּעַל: from above. With the next word it gives 'on top of the wood'."},
+        {"id": "22:9.25", "gloss": "the wood", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["22:9.1", "22:9.2", "22:9.3", "22:9.4", "22:9.5", "22:9.6", "22:9.7"], "english": "They came to the place which God said to him", "literal": "and-came to-the-place which said to-him the-God"},
+        {"tokens": ["22:9.8", "22:9.9", "22:9.10", "22:9.11", "22:9.12"], "english": "Abraham built the altar there", "literal": "and-built there Abraham [object] the-altar: the wayyiqtol first, then the adverb and the subject"},
+        {"tokens": ["22:9.13", "22:9.14", "22:9.15"], "english": "arranged the wood", "literal": "and-arranged [object] the-wood"},
+        {"tokens": ["22:9.16", "22:9.17", "22:9.18", "22:9.19"], "english": "bound Isaac, his son", "literal": "and-bound [object] Isaac his-son"},
+        {"tokens": ["22:9.20", "22:9.21", "22:9.22", "22:9.23", "22:9.24", "22:9.25"], "english": "and laid him on the altar, on top of the wood", "literal": "and-laid [object] him on the-altar from-above to-the-wood"}
+      ],
+      "grammar": [
+        "The verse is a chain of wayyiqtols: they came (22:9.1), built (22:9.8), arranged (22:9.13), bound (22:9.16) and laid (22:9.20). Each takes ו and continues the one before.",
+        "אֲשֶׁר אָמַר לוֹ הָאֱלֹהִים is a relative clause: 'the place which God said to him'. The verb is a qatal, so it is past in the clause.",
+        "The object marker אֶת comes before each definite object (הַמִּזְבֵּחַ, הָעֵצִים, יִצְחָק) and has no English counterpart. אֹתוֹ (22:9.21) is the object marker with a suffix, the object being Isaac.",
+        "מִמַּעַל לָעֵצִים (22:9.24–25): an adverb of place with the preposition ל and the noun, 'on top of the wood'.",
+        "Accents: the etnaḥta on הָעֵצִים (22:9.15) divides the verse, and the silluq on לָעֵצִים (22:9.25) ends it."
+      ],
+      "note": "The English is the plain reading of the chain. The place is not named in the verse.",
+      "commentary": [
+        {"anchor": "rashi:22:9:1", "relation": "records", "summary": "Rashi derives the verb from the word for ankles (עֲקֻדִּים), saying the hands and feet were tied together. The English keeps the ordinary sense 'bind', which is the sense the lexicon gives."},
+        {"anchor": "ramban:22:9:1", "relation": "not-applicable", "summary": "Ramban identifies the place as Mount Moriah. The verse does not name it, so the English says only 'the place'."},
+        {"anchor": "radak:22:9:1", "relation": "not-applicable", "summary": "Radak also identifies the place as the mountain of Moriah (הַר הַמֹּרִיָּה). The English does not name it."},
+        {"anchor": "radak:22:9:2", "relation": "records", "summary": "Radak says that when they came together God spoke to Abraham and showed him the place in a prophetic vision. The English keeps 'said' and does not say how it was said."},
+        {"anchor": "radak:22:9:4", "relation": "follows", "summary": "Radak says the wood was arranged so that it could be lit. The English gives 'arranged the wood' and leaves the purpose to the context."},
+        {"anchor": "radak:22:9:5", "relation": "not-applicable", "summary": "Radak gives the motive for binding Isaac's hands and feet: so that he would not kick. The verse does not state it, and the English does not add it."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "22:10",
+      "english": "Abraham stretched out his hand and took the knife to slaughter his son.",
+      "literal": "and-stretched-out Abraham [object] his-hand and-took [object] the-knife to-slaughter [object] his-son",
+      "tokens": [
+        {"id": "22:10.1", "gloss": "stretched out", "sense": "Qal 3", "note": "Qal wayyiqtol of שָׁלַח with יָד: stretch out the hand."},
+        {"id": "22:10.2", "gloss": "Abraham"},
+        {"id": "22:10.3", "gloss": "[object marker]"},
+        {"id": "22:10.4", "gloss": "his hand", "sense": "1"},
+        {"id": "22:10.5", "gloss": "and took", "sense": "Qal 1", "note": "Qal wayyiqtol of לָקַח."},
+        {"id": "22:10.6", "gloss": "[object marker]"},
+        {"id": "22:10.7", "gloss": "the knife", "note": "מַאֲכֶלֶת: the lexicon gives 'knife, cutting'."},
+        {"id": "22:10.8", "gloss": "to slaughter", "sense": "Qal", "note": "Infinitive construct of שָׁחַט with the preposition ל: to slaughter."},
+        {"id": "22:10.9", "gloss": "[object marker]"},
+        {"id": "22:10.10", "gloss": "his son", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["22:10.1", "22:10.2", "22:10.3", "22:10.4"], "english": "Abraham stretched out his hand", "literal": "and-stretched-out Abraham [object] his-hand"},
+        {"tokens": ["22:10.5", "22:10.6", "22:10.7"], "english": "and took the knife", "literal": "and-took [object] the-knife"},
+        {"tokens": ["22:10.8", "22:10.9", "22:10.10"], "english": "to slaughter his son", "literal": "to-slaughter [object] his-son"}
+      ],
+      "grammar": [
+        "The clauses are joined by wayyiqtols: he stretched out (22:10.1) and took (22:10.5). The infinitive לִשְׁחֹט (22:10.8) gives the purpose of taking the knife.",
+        "לִשְׁחֹט is an infinitive construct with the preposition ל. The object is בְּנוֹ, marked with אֶת.",
+        "יָדוֹ is the noun יָד with the third person masculine singular suffix: 'his hand'.",
+        "Accents: the zaqef qaton on יָדוֹ (22:10.4) and the etnaḥta on הַמַּאֲכֶלֶת (22:10.7) divide the verse; the silluq on בְּנוֹ (22:10.10) ends it."
+      ],
+      "note": "",
+      "commentary": [
+        {"anchor": "radak:22:10:1", "relation": "not-applicable", "summary": "Radak says Isaac was to be slaughtered first on the altar and the fire would then consume him, in the manner of a sacrifice. The verse does not state this, and the English does not add it."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "22:11",
+      "english": "The angel of the LORD called to him from the heavens and said: \"Abraham, Abraham.\" He said: \"Here I am.\"",
+      "literal": "and-called to-him angel-of the-LORD from the-heavens and-said Abraham Abraham and-said here-I",
+      "tokens": [
+        {"id": "22:11.1", "gloss": "and called", "sense": "Qal 2.a", "note": "Qal wayyiqtol of קָרָא with אֵלָיו: call to him."},
+        {"id": "22:11.2", "gloss": "to him", "sense": "1"},
+        {"id": "22:11.3", "gloss": "the angel", "sense": "2", "note": "A being sent by God: 'angel'."},
+        {"id": "22:11.4", "gloss": "of the LORD", "sense": "I"},
+        {"id": "22:11.5", "gloss": "from", "sense": "1"},
+        {"id": "22:11.6", "gloss": "the heavens", "sense": "1.a"},
+        {"id": "22:11.7", "gloss": "and said", "sense": "Qal 1", "note": "Qal wayyiqtol of אָמַר: the speech follows."},
+        {"id": "22:11.8", "gloss": "Abraham"},
+        {"id": "22:11.9", "gloss": "Abraham"},
+        {"id": "22:11.10", "gloss": "and said", "sense": "Qal 1", "note": "Qal wayyiqtol of אָמַר: Abraham's answer follows."},
+        {"id": "22:11.11", "gloss": "here I am", "note": "הִנֵּנִי: the particle הִנֵּה with the first person singular suffix. It is the answer to a call."}
+      ],
+      "phrases": [
+        {"tokens": ["22:11.1", "22:11.2", "22:11.3", "22:11.4", "22:11.5", "22:11.6", "22:11.7"], "english": "The angel of the LORD called to him from the heavens and said", "literal": "and-called to-him angel-of the-LORD from the-heavens and-said"},
+        {"tokens": ["22:11.8", "22:11.9"], "english": "Abraham, Abraham", "literal": "Abraham Abraham"},
+        {"tokens": ["22:11.10"], "english": "He said", "literal": "and-said"},
+        {"tokens": ["22:11.11"], "english": "Here I am", "literal": "here-I"}
+      ],
+      "grammar": [
+        "קָרָא with אֵלָיו is 'call to him' (22:11.1–2). The call comes from the heavens, the source marked by מִן (22:11.5–6).",
+        "The name is repeated in the vocative, אַבְרָהָם אַבְרָהָם (22:11.8–9). The repetition is discussed in the commentary.",
+        "Each speech is introduced by a wayyiqtol of אָמַר (22:11.7, 22:11.10).",
+        "Accents: the tipḥa on וַיֹּאמֶר (22:11.7) and the etnaḥta on the second אַבְרָהָם (22:11.9) divide the verse; the silluq on הִנֵּנִי (22:11.11) ends it."
+      ],
+      "note": "",
+      "commentary": [
+        {"anchor": "rashi:22:11:1", "relation": "records", "summary": "Rashi says the doubled name is a term of affection (לְשׁוֹן חִבָּה). The English keeps the repetition and gives no reason for it."},
+        {"anchor": "ibn-ezra:22:11:1", "relation": "follows", "summary": "Ibn Ezra says the doubling is sometimes as in haste (כְּמוֹ בַּחִפָּזוֹן). The English keeps the doubled name and does not state the reason."},
+        {"anchor": "radak:22:11:1", "relation": "records", "summary": "Radak reads 'from the heavens' to mean that Abraham heard a voice and saw no vision. The English keeps 'from the heavens' and does not add his reading."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "22:12",
+      "english": "He said: \"Do not stretch out your hand against the boy or do anything to him, for now I know that you fear God, and you have not withheld your son, your only one, from me.\"",
+      "literal": "and-said not stretch-out your-hand to the-boy and-not do to-him anything for now I-have-known that fearing God you and-not withheld [object] your-son [object] your-only-one from-me",
+      "tokens": [
+        {"id": "22:12.1", "gloss": "and said", "sense": "Qal 1", "note": "Qal wayyiqtol of אָמַר: the speech follows."},
+        {"id": "22:12.2", "gloss": "do not", "note": "The negation אַל with the jussive that follows."},
+        {"id": "22:12.3", "gloss": "stretch out", "sense": "Qal 3", "note": "Jussive, second person masculine singular, of שָׁלַח."},
+        {"id": "22:12.4", "gloss": "your hand", "sense": "1", "note": "The noun with the second person masculine singular suffix."},
+        {"id": "22:12.5", "gloss": "against", "sense": "4", "note": "אֶל after שָׁלַח יָד: here 'against'. The sense is chosen from the context of the prohibition."},
+        {"id": "22:12.6", "gloss": "the boy", "sense": "1"},
+        {"id": "22:12.7", "gloss": "or", "note": "The ו of וְאַל continues the prohibition."},
+        {"id": "22:12.8", "gloss": "do", "sense": "Qal I.1", "note": "Jussive, second person masculine singular, of עָשָׂה."},
+        {"id": "22:12.9", "gloss": "to him", "note": "The preposition with the third person masculine singular suffix."},
+        {"id": "22:12.10", "gloss": "anything", "note": "The indefinite pronoun מְאוּמָה: anything at all."},
+        {"id": "22:12.11", "gloss": "for", "sense": "3", "note": "The first כִּי gives the reason for the speech."},
+        {"id": "22:12.12", "gloss": "now"},
+        {"id": "22:12.13", "gloss": "I know", "sense": "Qal 1.a", "note": "Qal qatal, first person common singular, of יָדַע."},
+        {"id": "22:12.14", "gloss": "that", "sense": "1", "note": "The second כִּי introduces the clause that is known."},
+        {"id": "22:12.15", "gloss": "fearing", "note": "The adjective יָרֵא, construct before the noun that follows."},
+        {"id": "22:12.16", "gloss": "God", "sense": "3"},
+        {"id": "22:12.17", "gloss": "you"},
+        {"id": "22:12.18", "gloss": "and not", "note": "The ו and the negation לֹא: 'and you have not'."},
+        {"id": "22:12.19", "gloss": "withheld", "sense": "Qal 1.a", "note": "Qal qatal, second person masculine singular, of חָשַׂךְ."},
+        {"id": "22:12.20", "gloss": "[object marker]"},
+        {"id": "22:12.21", "gloss": "your son", "sense": "1"},
+        {"id": "22:12.22", "gloss": "[object marker]"},
+        {"id": "22:12.23", "gloss": "your only one", "note": "The adjective יָחִיד, with the suffix, in the construct: 'your only one', here standing for the son."},
+        {"id": "22:12.24", "gloss": "from me", "sense": "1", "note": "מִן with the first person singular suffix, after a verb of withholding."}
+      ],
+      "phrases": [
+        {"tokens": ["22:12.1"], "english": "He said", "literal": "and-said"},
+        {"tokens": ["22:12.2", "22:12.3", "22:12.4", "22:12.5", "22:12.6"], "english": "Do not stretch out your hand against the boy", "literal": "not stretch-out your-hand to the-boy"},
+        {"tokens": ["22:12.7", "22:12.8", "22:12.9", "22:12.10"], "english": "or do anything to him", "literal": "and-not do to-him anything"},
+        {"tokens": ["22:12.11", "22:12.12", "22:12.13"], "english": "for now I know", "literal": "for now I-have-known"},
+        {"tokens": ["22:12.14", "22:12.15", "22:12.16", "22:12.17"], "english": "that you fear God", "literal": "that fearing God you"},
+        {"tokens": ["22:12.18", "22:12.19"], "english": "and you have not withheld", "literal": "and-not withheld"},
+        {"tokens": ["22:12.20", "22:12.21"], "english": "your son", "literal": "[object] your-son"},
+        {"tokens": ["22:12.22", "22:12.23"], "english": "your only one", "literal": "[object] your-only-one"},
+        {"tokens": ["22:12.24"], "english": "from me", "literal": "from-me"}
+      ],
+      "grammar": [
+        "The prohibitions use אַל with the jussive: תִּשְׁלַח (do not stretch out) and תַּעַשׂ (do not do). The second is joined by וְאַל, so 'or do not' carries the same prohibition on.",
+        "כִּי עַתָּה יָדַעְתִּי: the first כִּי gives the reason, 'for now I know'. The second כִּי introduces what is known, 'that you fear God'.",
+        "יְרֵא אֱלֹהִים is an adjective with its object: 'fearing God'. The English 'fear God' keeps the verb's sense.",
+        "The qatal חָשַׂכְתָּ (22:12.19) is negated with לֹא: 'you have not withheld'. The English uses the same tense.",
+        "Accents: the etnaḥta on מְאוּמָה (22:12.10) divides the speech at the end of the prohibition; the silluq on מִמֶּנִּי (22:12.24) ends the verse."
+      ],
+      "note": "",
+      "commentary": [
+        {"anchor": "rashi:22:12:1", "relation": "records", "summary": "Rashi glosses 'do not stretch out' as 'do not slaughter', and the rest of his comment is a dialogue in which Abraham offers only to wound the boy. The English keeps 'stretch out' and lets the context of the speech give its sense."},
+        {"anchor": "rashi:22:12:2", "relation": "records", "summary": "Rashi reads 'do not do anything to him' as 'do not make a blemish (מוּם) on him'. The English keeps 'anything'."},
+        {"anchor": "rashi:22:12:3", "relation": "not-applicable", "summary": "Rashi gives a midrash in which Abraham and God speak of the earlier command. It is not the plain sense, and the English does not follow it."},
+        {"anchor": "rashi:22:12:4", "relation": "not-applicable", "summary": "Rashi says that now Abraham has an answer to the Satan and the nations, because it is seen that he fears God. This is a comment on the result and is not part of the words."},
+        {"anchor": "ramban:22:12:1", "relation": "records", "summary": "Ramban says Abraham's fear had been in potential and now it is known in the deed. He takes God as the one who tests and commands, and 'the angel of the LORD' as the one who restrains. The English keeps 'I know' and does not decide who is speaking."},
+        {"anchor": "radak:22:12:1", "relation": "follows", "summary": "Radak says the matter is repeated in different words for the sake of the warning. The English keeps both clauses."},
+        {"anchor": "radak:22:12:2", "relation": "records", "summary": "Radak considers reading ידעתי as 'I have made known' (הוֹדַעְתִּי), like 'I know you by name' (Exod. 33:12), and says that nothing more can be said. The English keeps 'I know'."},
+        {"anchor": "radak:22:12:3", "relation": "records", "summary": "Radak reads the fear as love: a fear that the son's soul should not perish in the world to come. The English keeps 'fear God' and leaves its nature to the commentary."},
+        {"anchor": "sforno:22:12:1", "relation": "records", "summary": "Sforno makes the speaker 'I, the angel', who knows that God will magnify Abraham through judgement. The English keeps 'I' without naming the speaker."},
+        {"anchor": "sforno:22:12:2", "relation": "not-applicable", "summary": "The pack's text of Sforno on מִמֶּנִּי is cut off after 'that you' (שֶׁאַתָּה), so it cannot be ruled on."},
+        {"anchor": "sforno:22:12:3", "relation": "not-applicable", "summary": "Sforno's comment on 'fearing God' is a homily that the righteous are greater than the angels; the pack's text is cut off. The English does not follow it."},
+        {"anchor": "sforno:22:12:4", "relation": "records", "summary": "Sforno says God knew earlier that Abraham was God-fearing in potential, and that God's knowledge now falls on what exists in act. The English keeps 'I know'."}
+      ],
+      "apparatus": [
+        "Vowel variant on מְאוּמָה (22:12.10): WLC reads מְא֑וּמָּה with a dagesh; the base text reads מְא֑וּמָה, as BHS does. The sense is the same.",
+        "The Sforno comments on 22:12.24 and 22:12.15–16 are cut off in the pack; the rulings above rest on what is printed."
+      ],
+      "context": []
+    },
+    {
+      "ref": "22:13",
+      "english": "Abraham lifted his eyes and saw, and here, a ram, after being caught in the thicket by its horns. Abraham went and took the ram and offered it up as a burnt offering instead of his son.",
+      "literal": "and-lifted Abraham [object] his-eyes and-saw and-here ram after caught in-the-thicket by-his-horns and-went Abraham and-took [object] the-ram and-caused-to-ascend-him for-burnt-offering instead-of his-son",
+      "tokens": [
+        {"id": "22:13.1", "gloss": "lifted", "sense": "Qal 1", "note": "Qal wayyiqtol of נָשָׂא."},
+        {"id": "22:13.2", "gloss": "Abraham"},
+        {"id": "22:13.3", "gloss": "[object marker]"},
+        {"id": "22:13.4", "gloss": "his eyes", "sense": "1", "note": "The dual עֵינַיִם with the suffix, 'his eyes'."},
+        {"id": "22:13.5", "gloss": "and saw", "sense": "Qal 1.a", "note": "Qal wayyiqtol of רָאָה."},
+        {"id": "22:13.6", "gloss": "and here", "note": "הִנֵּה with ו: 'and here', as a call of attention."},
+        {"id": "22:13.7", "gloss": "a ram"},
+        {"id": "22:13.8", "gloss": "after", "sense": "2.b", "note": "אַחַר, here before a verbal form: 'after'. Ibn Ezra reads it as the temporal sense."},
+        {"id": "22:13.9", "gloss": "being caught", "sense": "Niph", "note": "Niphal of אָחַז. The form stands after אַחַר as a verbal noun, 'after being caught'."},
+        {"id": "22:13.10", "gloss": "in the thicket", "note": "סְבַךְ: a thicket."},
+        {"id": "22:13.11", "gloss": "by its horns", "sense": "1.a", "note": "The dual קַרְנַיִם with the suffix: the ram's horns."},
+        {"id": "22:13.12", "gloss": "and went", "sense": "Qal I.1", "note": "Qal wayyiqtol of הָלַךְ, of a person."},
+        {"id": "22:13.13", "gloss": "Abraham"},
+        {"id": "22:13.14", "gloss": "and took", "sense": "Qal 1", "note": "Qal wayyiqtol of לָקַח."},
+        {"id": "22:13.15", "gloss": "[object marker]"},
+        {"id": "22:13.16", "gloss": "the ram"},
+        {"id": "22:13.17", "gloss": "and offered it up", "sense": "Hiph 8", "note": "Hiphil wayyiqtol of עָלָה with the object suffix: caused it to go up, that is, offered it."},
+        {"id": "22:13.18", "gloss": "as a burnt offering", "note": "עֹלָה: a burnt offering, the animal burnt whole on the altar."},
+        {"id": "22:13.19", "gloss": "instead of", "note": "תַּחַת: in the place of."},
+        {"id": "22:13.20", "gloss": "his son", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["22:13.1", "22:13.2", "22:13.3", "22:13.4"], "english": "Abraham lifted his eyes", "literal": "and-lifted Abraham [object] his-eyes"},
+        {"tokens": ["22:13.5"], "english": "and saw", "literal": "and-saw"},
+        {"tokens": ["22:13.6", "22:13.7", "22:13.8", "22:13.9", "22:13.10", "22:13.11"], "english": "and here, a ram, after being caught in the thicket by its horns", "literal": "and-here ram after caught in-the-thicket by-his-horns"},
+        {"tokens": ["22:13.12", "22:13.13"], "english": "Abraham went", "literal": "and-went Abraham"},
+        {"tokens": ["22:13.14", "22:13.15", "22:13.16"], "english": "and took the ram", "literal": "and-took [object] the-ram"},
+        {"tokens": ["22:13.17", "22:13.18"], "english": "offered it up as a burnt offering", "literal": "and-caused-to-ascend-him for-burnt-offering"},
+        {"tokens": ["22:13.19", "22:13.20"], "english": "instead of his son", "literal": "instead-of his-son"}
+      ],
+      "grammar": [
+        "A run of wayyiqtols carries the narrative: lifted (22:13.1), saw (22:13.5), went (22:13.12), took (22:13.14), offered (22:13.17).",
+        "נֶאֱחַז is the niphal of אָחַז with no finite verb. After אַחַר it is read as 'after being caught' (Ibn Ezra; see the commentary).",
+        "וַיַּעֲלֵהוּ is the hiphil wayyiqtol of עָלָה with the object suffix -הוּ. The offering, 'as a burnt offering', is לְעֹלָה.",
+        "תַּחַת בְּנוֹ, 'instead of his son', is the preposition with the suffix; it closes the chain.",
+        "Accents: the zaqef gadol on אַחַר (22:13.8) and the etnaḥta on בְּקַרְנָיו (22:13.11) divide the verse; the silluq on בְּנוֹ (22:13.20) ends it."
+      ],
+      "note": "",
+      "commentary": [
+        {"anchor": "rashi:22:13:1", "relation": "not-applicable", "summary": "Rashi says the ram was prepared for this from the six days of creation. This is a midrash on the ram's origin, and the English does not follow it."},
+        {"anchor": "rashi:22:13:2", "relation": "follows", "summary": "Rashi takes אַחַר as 'after': the ram was seen after it had been caught. The English takes the temporal sense of אַחַר."},
+        {"anchor": "rashi:22:13:3", "relation": "records", "summary": "Rashi glosses בַּסְּבַךְ as 'a tree' (אִילָן). The English keeps 'thicket', the sense the lexicon gives for סְבַךְ."},
+        {"anchor": "rashi:22:13:4", "relation": "not-applicable", "summary": "Rashi says the ram was running to Abraham and the Satan entangled it among the trees. This is a midrash, and the English does not include it."},
+        {"anchor": "rashi:22:13:5", "relation": "records", "summary": "Rashi asks why the verse says 'instead of his son' when it has already said 'he offered it up', and answers that Abraham prayed each rite be counted as if done to his son. The English keeps 'instead of his son'."},
+        {"anchor": "ibn-ezra:22:13:1", "relation": "follows", "summary": "Ibn Ezra takes אחר as 'after': after it was caught in the thicket by its horns. The word 'was' is understood after it, as in many like it. Some take אחר with the preceding clause; he rejects this, since then the word would be אחרי. The English follows him."},
+        {"anchor": "radak:22:13:1", "relation": "not-applicable", "summary": "Radak says Abraham lifted his eyes to see whether any clean animal was near or far, so that he could offer it. The verse does not say this, and the English does not add it."},
+        {"anchor": "radak:22:13:2", "relation": "follows", "summary": "Radak also reads אַחַר שֶׁנֶּאֱחַז as 'after it was caught in the thicket by its horns'. The English agrees. His remarks on a miracle, a shepherd and a price are not in the English."},
+        {"anchor": "sforno:22:13:1", "relation": "not-applicable", "summary": "Sforno says Abraham was sure the ram had not been taken from another, because no ram had been there before. This is about Abraham's judgement, not the words."},
+        {"anchor": "sforno:22:13:2", "relation": "records", "summary": "Sforno reads 'instead of his son' as an exchange for what Abraham intended in his heart, to slaughter his son. The English keeps 'instead of his son' and does not state the intention."}
+      ],
+      "apparatus": [
+        "Ibn Ezra's remark on the vowel of נֶאֱחַז (22:13.9) is part of his reading of the form after אַחַר. It is recorded in the commentary, not as a variant."
+      ],
+      "context": [
+        "An עֹלָה (burnt offering) is an animal offered whole and burnt on the altar. The word is from the root עלה, 'go up'."
+      ]
+    },
+    {
+      "ref": "22:14",
+      "english": "Abraham named that place Adonai-yireh, as it is said today: \"On the mountain of the LORD it will be seen.\"",
+      "literal": "and-called Abraham name-of the-place that Adonai-yireh as is-said today on-the-mountain of-the-LORD it-will-be-seen",
+      "tokens": [
+        {"id": "22:14.1", "gloss": "and named", "sense": "Qal 6", "note": "Qal wayyiqtol of קָרָא with שֵׁם: name."},
+        {"id": "22:14.2", "gloss": "Abraham"},
+        {"id": "22:14.3", "gloss": "the name of", "sense": "1", "note": "שֵׁם: the name. The English gives it as the naming of the place."},
+        {"id": "22:14.4", "gloss": "the place", "sense": "2.a"},
+        {"id": "22:14.5", "gloss": "that", "sense": "7"},
+        {"id": "22:14.6", "gloss": "Adonai", "sense": "I", "note": "The divine name, read as Adonai. In this name it is given as read."},
+        {"id": "22:14.7", "gloss": "-yireh (will see)", "sense": "Qal 1.a", "note": "Yiqtol of רָאָה. The name is יְהוָה יִרְאֶה: see the context note."},
+        {"id": "22:14.8", "gloss": "as", "note": "The relative אֲשֶׁר."},
+        {"id": "22:14.9", "gloss": "is said", "sense": "Niph", "note": "Niphal yiqtol of אָמַר, third person masculine singular: 'it is said'."},
+        {"id": "22:14.10", "gloss": "today", "sense": "1", "note": "הַיּוֹם: 'today', as in 'to this day'."},
+        {"id": "22:14.11", "gloss": "on the mountain of", "sense": "1", "note": "בְּהַר: in or on the mountain."},
+        {"id": "22:14.12", "gloss": "the LORD", "sense": "I"},
+        {"id": "22:14.13", "gloss": "it will be seen", "sense": "Niph 2", "note": "Niphal yiqtol of רָאָה, third person masculine singular: 'it will be seen'."}
+      ],
+      "phrases": [
+        {"tokens": ["22:14.1", "22:14.2"], "english": "Abraham named", "literal": "and-named Abraham"},
+        {"tokens": ["22:14.3", "22:14.4", "22:14.5"], "english": "that place", "literal": "name-of the-place that"},
+        {"tokens": ["22:14.6", "22:14.7"], "english": "Adonai-yireh", "literal": "Adonai-yireh"},
+        {"tokens": ["22:14.8", "22:14.9", "22:14.10"], "english": "as it is said today", "literal": "as is-said today"},
+        {"tokens": ["22:14.11", "22:14.12", "22:14.13"], "english": "On the mountain of the LORD it will be seen", "literal": "on-the-mountain of-the-LORD it-will-be-seen"}
+      ],
+      "grammar": [
+        "The verb is the qal wayyiqtol of קָרָא in the sense 'name' (Qal 6), with שֵׁם: 'named the place'. The name is given as read, Adonai-yireh, in the English.",
+        "יְהוָה יִרְאֶה is read as a name. The yiqtol יִרְאֶה has the same verb as the saying in the second half.",
+        "אֲשֶׁר יֵאָמֵר הַיּוֹם: the niphal yiqtol of אָמַר with the relative, 'as it is said today'. The saying in double quotes is its content.",
+        "Accents: the tipḥa on הַהוּא (22:14.5) and the etnaḥta on יִרְאֶה (22:14.7) divide the verse; the silluq on יֵרָאֶה (22:14.13) ends it."
+      ],
+      "note": "The second יְהֹוָה in the saying is the LORD, written as in the text.",
+      "commentary": [
+        {"anchor": "rashi:22:14:1", "relation": "records", "summary": "Rashi says the plain sense is as the Targum: the LORD will choose and see this place for His presence to dwell there and for sacrifices. The English keeps the name and leaves its meaning to the notes."},
+        {"anchor": "rashi:22:14:2", "relation": "records", "summary": "Rashi reads יֵאָמֵר as what later generations will say about this mountain. The English keeps 'is said'."},
+        {"anchor": "rashi:22:14:3", "relation": "records", "summary": "Rashi takes הַיּוֹם as the days to come, when later readers say 'to this day'. The English keeps 'today'."},
+        {"anchor": "ibn-ezra:22:14:1", "relation": "not-applicable", "summary": "The pack gives only the opening of Ibn Ezra's comment, 'in these words' (באלה הדברים); the rest is not in the pack. The English does not depend on it."},
+        {"anchor": "radak:22:14:1", "relation": "not-applicable", "summary": "Radak links the name to 22:8, 'God will see for himself the lamb'. This is a cross-reference, not a reading of the words here."},
+        {"anchor": "radak:22:14:2", "relation": "not-applicable", "summary": "Radak says the saying will be recounted on this mountain when the LORD appears there and an altar and Temple are built. This is a homily on the future."}
+      ],
+      "apparatus": [
+        "The Ibn Ezra comment on 22:14 is cut short in the pack ('in these words'). Its ruling above is 'not-applicable' for that reason."
+      ],
+      "context": [
+        "The name Adonai-yireh is read from יְהוָה יִרְאֶה, 'the LORD will see'. Some translations render 'the LORD will provide', taking the verb as 'see to it'. The pack's entry for רָאָה lists no such sense, so the English keeps the name."
+      ]
+    },
+    {
+      "ref": "22:15",
+      "english": "The angel of the LORD called to Abraham a second time from the heavens.",
+      "literal": "and-called angel-of the-LORD to Abraham second from the-heavens",
+      "tokens": [
+        {"id": "22:15.1", "gloss": "and called", "sense": "Qal 2.a", "note": "Qal wayyiqtol of קָרָא: call unto."},
+        {"id": "22:15.2", "gloss": "the angel", "sense": "2"},
+        {"id": "22:15.3", "gloss": "of the LORD", "sense": "I"},
+        {"id": "22:15.4", "gloss": "to", "sense": "1"},
+        {"id": "22:15.5", "gloss": "Abraham"},
+        {"id": "22:15.6", "gloss": "a second time", "note": "שֵׁנִית: the feminine ordinal used as an adverb, 'a second time'."},
+        {"id": "22:15.7", "gloss": "from", "sense": "1"},
+        {"id": "22:15.8", "gloss": "the heavens", "sense": "1.a"}
+      ],
+      "phrases": [
+        {"tokens": ["22:15.1", "22:15.2", "22:15.3"], "english": "The angel of the LORD called", "literal": "and-called angel-of the-LORD"},
+        {"tokens": ["22:15.4", "22:15.5"], "english": "to Abraham", "literal": "to Abraham"},
+        {"tokens": ["22:15.6"], "english": "a second time", "literal": "second"},
+        {"tokens": ["22:15.7", "22:15.8"], "english": "from the heavens", "literal": "from the-heavens"}
+      ],
+      "grammar": [
+        "The call is the same verb and speaker as 22:11, now a second time: שֵׁנִית (22:15.6) is the feminine ordinal used adverbially.",
+        "Accents: the etnaḥta on אַבְרָהָם (22:15.5) divides the verse; the silluq on הַשָּׁמָיִם (22:15.8) ends it."
+      ],
+      "note": "",
+      "commentary": [
+        {"anchor": "radak:22:15:1", "relation": "not-applicable", "summary": "Radak says the second call gave Abraham good news of the reward for this deed, that his sons would be rewarded for it. This is a reading of the purpose, not of the words, and the English does not state it."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "22:16",
+      "english": "He said: \"By myself I have sworn, declares the LORD, because you have done this thing and have not withheld your son, your only one.\"",
+      "literal": "and-said by-me I-have-sworn declaration-of the-LORD for because that you-have-done [object] the-thing the-this and-not you-have-withheld [object] your-son [object] your-only-one",
+      "tokens": [
+        {"id": "22:16.1", "gloss": "and said", "sense": "Qal 1", "note": "Qal wayyiqtol of אָמַר, opening the speech."},
+        {"id": "22:16.2", "gloss": "by myself", "note": "בִּי: the preposition בְּ with the first person singular suffix. The oath is sworn by the speaker."},
+        {"id": "22:16.3", "gloss": "I have sworn", "sense": "Niph", "note": "Niphal qatal, first person common singular, of שָׁבַע."},
+        {"id": "22:16.4", "gloss": "declares", "note": "נְאֻם: the oracular formula 'declares'."},
+        {"id": "22:16.5", "gloss": "the LORD", "sense": "I"},
+        {"id": "22:16.6", "gloss": "for", "sense": "3", "note": "כִּי: the reason for the oath."},
+        {"id": "22:16.7", "gloss": "because", "note": "יַעַן: 'because', in the fixed phrase with the following relative. Ibn Ezra derives it from the root ענה."},
+        {"id": "22:16.8", "gloss": "that", "note": "The relative אֲשֶׁר."},
+        {"id": "22:16.9", "gloss": "you have done", "sense": "Qal I.1", "note": "Qal qatal, second person masculine singular, of עָשָׂה."},
+        {"id": "22:16.10", "gloss": "[object marker]"},
+        {"id": "22:16.11", "gloss": "the thing", "sense": "IV", "note": "דָּבָר: a matter or affair."},
+        {"id": "22:16.12", "gloss": "this", "sense": "2"},
+        {"id": "22:16.13", "gloss": "and not", "note": "The ו and the negation לֹא."},
+        {"id": "22:16.14", "gloss": "you have withheld", "sense": "Qal 1.a", "note": "Qal qatal, second person masculine singular, of חָשַׂךְ."},
+        {"id": "22:16.15", "gloss": "[object marker]"},
+        {"id": "22:16.16", "gloss": "your son", "sense": "1"},
+        {"id": "22:16.17", "gloss": "[object marker]"},
+        {"id": "22:16.18", "gloss": "your only one", "note": "The adjective יָחִיד with the suffix, standing for the son."}
+      ],
+      "phrases": [
+        {"tokens": ["22:16.1"], "english": "He said", "literal": "and-said"},
+        {"tokens": ["22:16.2", "22:16.3"], "english": "By myself I have sworn", "literal": "by-me I-have-sworn"},
+        {"tokens": ["22:16.4", "22:16.5"], "english": "declares the LORD", "literal": "declaration-of the-LORD"},
+        {"tokens": ["22:16.6", "22:16.7"], "english": "because", "literal": "for because"},
+        {"tokens": ["22:16.8", "22:16.9", "22:16.10", "22:16.11", "22:16.12"], "english": "you have done this thing", "literal": "that you-have-done [object] the-thing the-this"},
+        {"tokens": ["22:16.13", "22:16.14"], "english": "and have not withheld", "literal": "and-not you-have-withheld"},
+        {"tokens": ["22:16.15", "22:16.16"], "english": "your son", "literal": "[object] your-son"},
+        {"tokens": ["22:16.17", "22:16.18"], "english": "your only one", "literal": "[object] your-only-one"}
+      ],
+      "grammar": [
+        "בִּי נִשְׁבַּעְתִּי is the oath formula: 'by myself I have sworn'. Radak compares it with 'as I live'.",
+        "נְאֻם יְהוָה is the formula 'declares the LORD', set inside the speech. The English keeps it inside the quotation.",
+        "כִּי יַעַן אֲשֶׁר gives the cause of the oath: 'because you have done this thing'. The relative clause and the verb עָשִׂיתָ are one unit.",
+        "Accents: the zaqef gadol on וַיֹּאמֶר (22:16.1), the tipḥa on נִשְׁבַּעְתִּי (22:16.3) and the yetiv on יַעַן (22:16.7) divide the sentence; the silluq on יְחִידֶךָ (22:16.18) ends it."
+      ],
+      "note": "",
+      "commentary": [
+        {"anchor": "ibn-ezra:22:16:1", "relation": "follows", "summary": "Ibn Ezra says this is the great oath that stands for ever. The English keeps 'By myself I have sworn' as the oath; his remark on its force is not in the English."},
+        {"anchor": "ibn-ezra:22:16:2", "relation": "follows", "summary": "Ibn Ezra derives יַעַן from ענה, 'answer': the deed will answer and bear witness. The English takes the causal sense, 'because'; the root sense is recorded here."},
+        {"anchor": "ramban:22:16:1", "relation": "records", "summary": "Ramban reads the 'because' clause as an addition to the earlier promise of many descendants: because of the deed, the seed will possess the gates of its enemies. The English keeps 'because' and the words of the oath."},
+        {"anchor": "radak:22:16:1", "relation": "follows", "summary": "Radak takes the oath 'by myself' as 'as I live': the oath is sworn by the speaker's own life. The English keeps 'By myself I have sworn'."},
+        {"anchor": "sforno:22:16:1", "relation": "follows", "summary": "Sforno paraphrases the words as 'I, the LORD, say: because you have done this'. The English keeps the same order of cause and oath."}
+      ],
+      "apparatus": [],
+      "context": []
+    }
+  ]
+}
