@@ -294,7 +294,7 @@
    "path": "token:23:6.5.gloss",
    "value": "you are",
    "severity": "error",
-   "reason": ""
+   "reason": "the English copula belongs to the gloss"
   },
   {
    "ref": "23:6",
