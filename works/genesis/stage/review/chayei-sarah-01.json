@@ -1,0 +1,572 @@
+{
+ "unit": "chayei-sarah-01",
+ "model": "sonnet",
+ "summary": "The unit is sound in structure and keeps the plain sense throughout, with Ibn Ezra's rulings followed. Its main fault is 23:1, where שְׁנֵי ('years of') was read as 'two' and the plural-form 'lives' was kept as English plural. In 23:6 the verbless clause lacked its copula and 'you' was called an appositive. Several speeches were introduced with a colon, and the summaries of Ibn Ezra (23:1, 23:4), Rashi (23:4, 23:6) and Radak (23:1) misreported their Hebrew in places.",
+ "patches": [
+  {
+   "ref": "23:1",
+   "path": "english",
+   "value": "And Sarah's life was a hundred years and twenty years and seven years: the years of Sarah's life.",
+   "severity": "error",
+   "reason": "שְׁנֵי is the construct of שָׁנִים 'years of', not the number 'two'; 'the two lives of Sarah' is wrong. 'Lives' reads as several lives; חַיִּים is a plural form with the sense 'life'."
+  },
+  {
+   "ref": "23:1",
+   "path": "literal",
+   "value": "and-were lives-of Sarah hundred year and-twenty year and-seven years years-of lives-of Sarah",
+   "severity": "error",
+   "reason": "שְׁנֵי is 'years of'"
+  },
+  {
+   "ref": "23:1",
+   "path": "token:23:1.1.gloss",
+   "value": "and was",
+   "severity": "style",
+   "reason": "subject is 'life' in English"
+  },
+  {
+   "ref": "23:1",
+   "path": "token:23:1.2.gloss",
+   "value": "life of",
+   "severity": "style",
+   "reason": "idiomatic singular for the plural-form noun"
+  },
+  {
+   "ref": "23:1",
+   "path": "token:23:1.2.note",
+   "value": "plural-form construct of חַיִּים; Ibn Ezra calls it a plural noun that is not split (no singular); the English gives 'life', as the sense requires",
+   "severity": "style",
+   "reason": "the English 'lives' suggested several lives"
+  },
+  {
+   "ref": "23:1",
+   "path": "token:23:1.10.gloss",
+   "value": "years of",
+   "severity": "error",
+   "reason": "שְׁנֵי is the construct plural of שָׁנָה 'year', not 'two'"
+  },
+  {
+   "ref": "23:1",
+   "path": "token:23:1.10.note",
+   "value": "construct plural of שָׁנָה, 'years of'; it is not the number 'two' (שְׁנֵי as the construct of שְׁנַיִם), though the pack parses it as a dual cardinal; the lemma שָׁנָה is the right one",
+   "severity": "error",
+   "reason": "wrong gloss and misleading note"
+  },
+  {
+   "ref": "23:1",
+   "path": "token:23:1.11.gloss",
+   "value": "life of",
+   "severity": "style",
+   "reason": "as 23:1.2"
+  },
+  {
+   "ref": "23:1",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "23:1.1",
+      "23:1.2",
+      "23:1.3"
+     ],
+     "english": "And Sarah's life was",
+     "literal": "'and-were lives-of Sarah': the wayyiqtol has the plural-form noun as its subject, Sarah in the construct chain, and the copula takes the sums as predicate"
+    },
+    {
+     "tokens": [
+      "23:1.4",
+      "23:1.5"
+     ],
+     "english": "a hundred years",
+     "literal": "'hundred year': the number with the singular noun"
+    },
+    {
+     "tokens": [
+      "23:1.6",
+      "23:1.7"
+     ],
+     "english": "and twenty years",
+     "literal": "'and-twenty year': the second sum in apposition"
+    },
+    {
+     "tokens": [
+      "23:1.8",
+      "23:1.9"
+     ],
+     "english": "and seven years",
+     "literal": "'and-seven years': the third sum, with the plural noun"
+    },
+    {
+     "tokens": [
+      "23:1.10",
+      "23:1.11",
+      "23:1.12"
+     ],
+     "english": "the years of Sarah's life.",
+     "literal": "'years-of lives-of Sarah': the summary of the three sums, repeating the lives as a construct chain"
+    }
+   ],
+   "severity": "error",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "23:1",
+   "path": "grammar",
+   "value": [
+    "וַיִּהְיוּ is a wayyiqtol in the plural, agreeing with חַיֵּי (a plural-form noun), not with the name Sarah. The verb is a copula, so the three sums stand as its predicate.",
+    "The three sums are in apposition to the life: 'a hundred years', 'twenty years', 'seven years'. Each number is followed by its noun, the singular after the first and second, the plural after the last.",
+    "The etnaḥta on שָׁנִים divides the verse. Before it are the three sums; after it the summary שְׁנֵי חַיֵּי שָׂרָה, closed by the silluq on the last word.",
+    "שְׁנֵי חַיֵּי שָׂרָה, 'the years of Sarah's life', is a construct chain that sums up the three numbers. The same closing phrase is used of Abraham (25:7) and Ishmael (25:17)."
+   ],
+   "severity": "error",
+   "reason": "the old note called שְׁנֵי a number in front of the chain; it is the construct of 'years'"
+  },
+  {
+   "ref": "23:1",
+   "path": "commentary:ibn-ezra:23:1:1.summary",
+   "value": "Ibn Ezra: חַיֵּי is a plural form that is not divided (לשון רבים ולא יתפרדו), that is, it has no singular. He adds that the custom of the language is to put the larger number before the smaller, and the reverse also occurs, as in 'the years of Jacob' (שני יעקב). Here the larger number comes first. The English gives the sense 'life' and keeps his order of the numbers.",
+   "severity": "error",
+   "reason": "the old summary said the order here is reversed; he says both orders occur and cites Jacob for the reverse"
+  },
+  {
+   "ref": "23:1",
+   "path": "commentary:radak:23:1:1.summary",
+   "value": "Radak: the text says 'year' and 'years' three times where one would suffice, as it does of Abraham and of Ishmael; some call this an elegance of Hebrew. With the large number it puts the singular 'year' as a general, with the small number the plural 'years' as a particular (דֶּרֶךְ כְּלָל, דֶּרֶךְ פְּרָט). He also mentions the midrash on the sums. The English uses the plural after the last number and the singular after the others, as the Hebrew does.",
+   "severity": "style",
+   "reason": "closer to what he says"
+  },
+  {
+   "ref": "23:3",
+   "path": "english",
+   "value": "And Abraham rose from before his dead and spoke to the Hittites, saying,",
+   "severity": "error",
+   "reason": "a speech is introduced with a comma, not a colon"
+  },
+  {
+   "ref": "23:4",
+   "path": "english",
+   "value": "\"I am a sojourner and a resident among you. Give me a possession of a grave among you, that I may bury my dead from before me.\"",
+   "severity": "style",
+   "reason": "the cohortative after an imperative states purpose"
+  },
+  {
+   "ref": "23:4",
+   "path": "token:23:4.10.gloss",
+   "value": "that I may bury",
+   "severity": "style",
+   "reason": "cohortative after the imperative"
+  },
+  {
+   "ref": "23:4",
+   "path": "token:23:4.10.note",
+   "value": "cohortative of קָבַר after the imperative: purpose, 'that I may bury'",
+   "severity": "style",
+   "reason": "matches the new English"
+  },
+  {
+   "ref": "23:4",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "23:4.1",
+      "23:4.2",
+      "23:4.3",
+      "23:4.4"
+     ],
+     "english": "I am a sojourner and a resident among you",
+     "literal": "'sojourner and-resident I with-you': a verbless clause; the pair names his standing among them"
+    },
+    {
+     "tokens": [
+      "23:4.5",
+      "23:4.6"
+     ],
+     "english": "Give me",
+     "literal": "'give to-me': imperative plural with the dative suffix"
+    },
+    {
+     "tokens": [
+      "23:4.7",
+      "23:4.8",
+      "23:4.9"
+     ],
+     "english": "a possession of a grave among you,",
+     "literal": "'possession-of grave with-you': the holding whose object is a grave"
+    },
+    {
+     "tokens": [
+      "23:4.10",
+      "23:4.11",
+      "23:4.12"
+     ],
+     "english": "that I may bury my dead from before me.",
+     "literal": "'and-I-will-bury dead-my from-before-me': the cohortative with its object"
+    }
+   ],
+   "severity": "style",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "23:4",
+   "path": "grammar",
+   "value": [
+    "גֵּר וְתוֹשָׁב אָנֹכִי is a verbless clause; the English supplies 'I am'.",
+    "תְּנוּ לִי is imperative plural, addressed to the Hittites of 23:3, with the dative suffix on לִי.",
+    "אֲחֻזַּת קֶבֶר is a construct chain: 'possession of a grave'. The request is for a burial holding, a possession of ground for a grave.",
+    "The etnaḥta on עִמָּכֶם divides the first clause from the second. וְאֶקְבְּרָה is a cohortative following the imperative; it states the purpose of the request."
+   ],
+   "severity": "error",
+   "reason": "the old note said the request is 'not for land'; a grave-holding is a piece of ground (Rashi: אֲחֻזַּת קַרְקַע)"
+  },
+  {
+   "ref": "23:4",
+   "path": "commentary:ibn-ezra:23:4:1.summary",
+   "value": "Ibn Ezra glosses גֵּר as the one who lodges by himself (לבדו הוא הלן). The English 'sojourner' keeps that sense.",
+   "severity": "error",
+   "reason": "לבדו is 'by himself', not 'only'; 'a stay that is not settled' is not in the comment"
+  },
+  {
+   "ref": "23:4",
+   "path": "commentary:rashi:23:4:1.summary",
+   "value": "Rashi glosses גֵּר as one from another land (גֵּר מֵאֶרֶץ אַחֶרֶת) who has settled among them. Then, as a homily: if you wish, I am a ger; if not, I will be a toshav and take it by right (וְאֶטְּלֶנָּה מִן הַדִּין), for the Holy One said to my seed 'I will give this land'. The English keeps the plain status; the homily is not the plain sense.",
+   "severity": "error",
+   "reason": "the old summary said a toshav is 'exempt from judgement'; the Hebrew says he will take the land by right"
+  },
+  {
+   "ref": "23:4",
+   "path": "context",
+   "value": [
+    "גֵּר וְתוֹשָׁב together describe a resident outsider who holds no land of his own among the people he lives with. How the two words differ is a matter of the commentators' readings (see the commentary). The burial ground asked for is a plot of ground, which is why Abraham asks for a holding and the Hittites, in 23:6, answer in terms of their graves."
+   ],
+   "severity": "question",
+   "reason": "a reader needs the standing of Abraham stated; no fact beyond the text is asserted"
+  },
+  {
+   "ref": "23:5",
+   "path": "english",
+   "value": "And the Hittites answered Abraham, saying to him,",
+   "severity": "error",
+   "reason": "a speech is introduced with a comma, not a colon"
+  },
+  {
+   "ref": "23:5",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "23:5.1",
+      "23:5.2",
+      "23:5.3"
+     ],
+     "english": "And the Hittites answered",
+     "literal": "'and-answered sons-of Heth': the verb first, the subject after"
+    },
+    {
+     "tokens": [
+      "23:5.4",
+      "23:5.5"
+     ],
+     "english": "Abraham",
+     "literal": "'(object) Abraham': the object marker has no English counterpart"
+    },
+    {
+     "tokens": [
+      "23:5.6",
+      "23:5.7"
+     ],
+     "english": "saying to him,",
+     "literal": "'saying to-him': the infinitive with its dative suffix, introducing the speech of 23:6"
+    }
+   ],
+   "severity": "error",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "23:6",
+   "path": "english",
+   "value": "\"Hear us, my lord; you are a prince of God among us. In the choicest of our graves bury your dead. No man of us will withhold his grave from you, from burying your dead.\"",
+   "severity": "error",
+   "reason": "a verbless clause needs its English copula (as 'I am' in 23:4); 'you' is the subject, not an appositive; the colon is wrong"
+  },
+  {
+   "ref": "23:6",
+   "path": "token:23:6.5.gloss",
+   "value": "you are",
+   "severity": "error",
+   "reason": ""
+  },
+  {
+   "ref": "23:6",
+   "path": "token:23:6.5.note",
+   "value": "אַתָּה is the subject of a verbless clause whose predicate is 'prince of God'; the English supplies 'are'",
+   "severity": "error",
+   "reason": "the old note called 'you' an appositive"
+  },
+  {
+   "ref": "23:6",
+   "path": "token:23:6.18.sense",
+   "value": "7.b",
+   "severity": "style",
+   "reason": "after a verb of restraint (כלא), the exact BDB sense"
+  },
+  {
+   "ref": "23:6",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "23:6.1"
+     ],
+     "english": "Hear us",
+     "literal": "'hear-us': imperative with the plural suffix"
+    },
+    {
+     "tokens": [
+      "23:6.2"
+     ],
+     "english": "my lord;",
+     "literal": "'my-lord': the singular form of address"
+    },
+    {
+     "tokens": [
+      "23:6.3",
+      "23:6.4",
+      "23:6.5",
+      "23:6.6"
+     ],
+     "english": "you are a prince of God among us.",
+     "literal": "'prince of-God you among-us': a verbless clause; the English supplies 'are'"
+    },
+    {
+     "tokens": [
+      "23:6.7",
+      "23:6.8",
+      "23:6.9"
+     ],
+     "english": "In the choicest of our graves bury",
+     "literal": "'in-choicest-of graves-of-us bury': the locative phrase placed before the imperative"
+    },
+    {
+     "tokens": [
+      "23:6.10",
+      "23:6.11"
+     ],
+     "english": "your dead.",
+     "literal": "'(object) your-dead': the object of 'bury'"
+    },
+    {
+     "tokens": [
+      "23:6.12",
+      "23:6.13",
+      "23:6.14",
+      "23:6.15",
+      "23:6.16",
+      "23:6.17"
+     ],
+     "english": "No man of us will withhold his grave",
+     "literal": "'man of-us (object) his-grave not will-withhold': the negated yiqtol with its object, the grave of the man"
+    },
+    {
+     "tokens": [
+      "23:6.18"
+     ],
+     "english": "from you,",
+     "literal": "'from-you': the one from whom it is withheld"
+    },
+    {
+     "tokens": [
+      "23:6.19"
+     ],
+     "english": "from burying",
+     "literal": "'from-burying': what is withheld, the infinitive with מִ"
+    },
+    {
+     "tokens": [
+      "23:6.20"
+     ],
+     "english": "your dead.",
+     "literal": "'your-dead': the object of the infinitive"
+    }
+   ],
+   "severity": "error",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "23:6",
+   "path": "grammar",
+   "value": [
+    "שְׁמָעֵנוּ אֲדֹנִי: the plural suffix 'us' with the singular 'my lord'. The speakers are many, the form of address is to one man (Radak).",
+    "נְשִׂיא אֱלֹהִים אַתָּה בְּתוֹכֵנוּ has no verb: אַתָּה is the subject and נְשִׂיא אֱלֹהִים the predicate; the English supplies 'are'.",
+    "בְּמִבְחַר קְבָרֵינוּ קְבֹר: the locative phrase 'in the choicest of our graves' comes before the imperative 'bury'.",
+    "לֹא־יִכְלֶה מִמְּךָ מִקְּבֹר: a negated yiqtol; 'his grave' comes first as object. The first מִ is 'from you' (a verb of withholding takes מִן of the one denied); the second, with the infinitive, gives what is withheld: 'from burying'.",
+    "The silluq on מֵתֶךָ ends the speech; the tipḥa on מִמְּךָ is a lesser stop inside the last clause."
+   ],
+   "severity": "error",
+   "reason": "wrong accent claim (tipḥa does not end the speech), a misspelled word, the appositive error and the 'purpose' reading of the last מִ"
+  },
+  {
+   "ref": "23:6",
+   "path": "commentary:ibn-ezra:23:6:2.summary",
+   "value": "Ibn Ezra: נְשִׂיא אֱלֹהִים is a way of magnifying (דֶּרֶךְ גְּדוֹלָה), because you are a prophet. He ties the title to Abraham's being a prophet. The English keeps the words 'a prince of God' and puts the reason here; the other reading, אֱלֹהִים as an intensifier ('a mighty prince'), is recorded in the context note.",
+   "severity": "style",
+   "reason": "closer to the Hebrew; the other reading recorded"
+  },
+  {
+   "ref": "23:6",
+   "path": "commentary:rashi:23:6:1.summary",
+   "value": "Rashi glosses לֹא יִכְלֶה as לֹא יִמְנַע, 'will not withhold', comparing 'You will not withhold your mercies' (לֹא תִכְלָא רַחֲמֶיךָ, Psalm 40) and 'the rain was held back' (וַיִּכָּלֵא הַגֶּשֶׁם, Genesis 8). The English agrees with him.",
+   "severity": "error",
+   "reason": "the old summary turned the Psalm phrase into a passive wish and left out the second parallel"
+  },
+  {
+   "ref": "23:6",
+   "path": "context",
+   "value": [
+    "נָשִׂיא, 'prince', is the title of the head of a tribe or clan in the text. The Hittites give it to Abraham, who is a stranger among them (23:4).",
+    "נְשִׂיא אֱלֹהִים is read in two ways. 'A prince of God' takes אֱלֹהִים as the possessor, a man raised up by God (Ibn Ezra relates it to Abraham as a prophet). Others take אֱלֹהִים as an intensifier, as in 'cedars of God' or 'mountains of God' (Psalm 80:11, 36:7), and render 'a mighty prince'. Both are readings of the words; the English keeps the first, with Ibn Ezra."
+   ],
+   "severity": "error",
+   "reason": "the second reading is a known reading of the words and is recorded; the verses cited do contain the wording 'cedars of God' (אַרְזֵי־אֵל) and 'mountains of God' (הַרְרֵי־אֵל)"
+  },
+  {
+   "ref": "23:7",
+   "path": "token:23:7.3.note",
+   "value": "hithpalel of שָׁחָה (BDB's analysis; others take it as a hishtaphel of חוה): bowing the head as a sign of respect, not an act of worship (Ibn Ezra)",
+   "severity": "style",
+   "reason": "'hithpaʿel' is not the form"
+  },
+  {
+   "ref": "23:7",
+   "path": "token:23:7.4.sense",
+   "value": "5",
+   "severity": "style",
+   "reason": "'people of the land' is a phrase under עַם"
+  },
+  {
+   "ref": "23:7",
+   "path": "grammar",
+   "value": [
+    "וַיָּקׇם וַיִּשְׁתַּחוּ: two wayyiqtols in sequence, the second a hithpalel of שָׁחָה (BDB; others analyse it as a hishtaphel).",
+    "לְעַם הָאָרֶץ לִבְנֵי חֵת: two datives. The tipḥa on הָאָרֶץ divides them, and the silluq on חֵת ends the verse.",
+    "The darga on וַיָּקׇם and the merkha on וַיִּשְׁתַּחוּ mark the two verbs; the verse is one short narrative sentence."
+   ],
+   "severity": "style",
+   "reason": "binyan name"
+  },
+  {
+   "ref": "23:7",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "23:7.1",
+      "23:7.2"
+     ],
+     "english": "And Abraham rose",
+     "literal": "'and-rose Abraham'"
+    },
+    {
+     "tokens": [
+      "23:7.3"
+     ],
+     "english": "and bowed down",
+     "literal": "'and-bowed-down': the bowing of respect"
+    },
+    {
+     "tokens": [
+      "23:7.4",
+      "23:7.5"
+     ],
+     "english": "to the people of the land,",
+     "literal": "'to-people-of the-land': the fixed phrase for the inhabitants"
+    },
+    {
+     "tokens": [
+      "23:7.6",
+      "23:7.7"
+     ],
+     "english": "to the Hittites.",
+     "literal": "'to-sons-of Heth': the Hittites, as in 23:3 and 23:5"
+    }
+   ],
+   "severity": "style",
+   "reason": "drops 'hithpaʿel'"
+  },
+  {
+   "ref": "23:7",
+   "path": "context",
+   "value": [
+    "עַם הָאָרֶץ, 'the people of the land', is here the citizens of the town who act for it; the phrase is used with other senses in later books. The text gives it as a second name for the sons of Heth, and Sforno reads it as their leading men."
+   ],
+   "severity": "question",
+   "reason": "a reader needs the phrase placed; no fact beyond the text is asserted"
+  },
+  {
+   "ref": "23:8",
+   "path": "english",
+   "value": "And he spoke with them, saying, \"If it is your will to bury my dead from before me, hear me, and entreat for me with Ephron son of Zohar.",
+   "severity": "error",
+   "reason": "a speech is introduced with a comma, not a colon"
+  },
+  {
+   "ref": "23:8",
+   "path": "token:23:8.17.note",
+   "value": "Zohar: the father of Ephron, who is called a Hittite in 23:10",
+   "severity": "style",
+   "reason": "'the pack's first entry' is not a note for a reader"
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:23:1:1",
+   "verdict": "consistent",
+   "comment": "the English gives the sense 'life' for the plural form, as he reads it as a plural noun, and keeps the order of numbers"
+  },
+  {
+   "anchor": "ibn-ezra:23:2:1",
+   "verdict": "consistent",
+   "comment": "Arba kept as a name"
+  },
+  {
+   "anchor": "ibn-ezra:23:2:2",
+   "verdict": "consistent",
+   "comment": "'weep over her'"
+  },
+  {
+   "anchor": "ibn-ezra:23:3:1",
+   "verdict": "consistent",
+   "comment": "'his dead' is the body; the English names no one"
+  },
+  {
+   "anchor": "ibn-ezra:23:4:1",
+   "verdict": "consistent",
+   "comment": "'sojourner'"
+  },
+  {
+   "anchor": "ibn-ezra:23:4:2",
+   "verdict": "consistent",
+   "comment": "'resident' and a grave only"
+  },
+  {
+   "anchor": "ibn-ezra:23:6:1",
+   "verdict": "consistent",
+   "comment": "'my lord', singular"
+  },
+  {
+   "anchor": "ibn-ezra:23:6:2",
+   "verdict": "consistent",
+   "comment": "'a prince of God' is a reading of the words and fits his 'because you are a prophet'; the intensive reading is recorded in context"
+  },
+  {
+   "anchor": "ibn-ezra:23:6:3",
+   "verdict": "consistent",
+   "comment": "'withhold'"
+  },
+  {
+   "anchor": "ibn-ezra:23:7:1",
+   "verdict": "consistent",
+   "comment": "bowing in respect, no object of worship"
+  }
+ ]
+}

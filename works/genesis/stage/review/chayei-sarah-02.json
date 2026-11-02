@@ -1,0 +1,323 @@
+{
+ "unit": "chayei-sarah-02",
+ "model": "sonnet",
+ "summary": "The unit is sound in sense; the English keeps the plain words, with Machpelah as a name and Ephron's 'No, my lord' kept against Ibn Ezra's gloss. Faults: 23:16 renders עֹבֵר לַסֹּחֵר as 'passes with the merchant' (now 'by the merchants' standard'); the pausal masculine לָךְ is called feminine at 23:11; two commentary summaries misstate Rashi (23:10, 23:16) and one Ibn Ezra's כן (23:11); colons before speeches become commas; some grammar notes on accents are wrong. Context notes added at 23:11 and 23:12.",
+ "patches": [
+  {
+   "ref": "23:10",
+   "path": "english",
+   "value": "Now Ephron was dwelling among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites, to all who came in at the gate of his city, saying,",
+   "severity": "style",
+   "reason": "A speech is introduced with a comma, not a colon."
+  },
+  {
+   "ref": "23:10",
+   "path": "commentary:rashi:23:10:1.summary",
+   "value": "Rashi: the name is written defectively (without vav, as עפרן at 23:16), and 'that day they appointed him an officer (שׁוֹטֵר) over them'; because of Abraham's importance, whom they needed, he rose to greatness. A midrash on Ephron's standing, not the plain sense of יָשַׁב; the English reads 'was dwelling'.",
+   "severity": "error",
+   "reason": "The summary said 'the verb' is written defectively; Rashi speaks of the name, and 'rose in standing (שׁוֹטֵר)' garbled his words."
+  },
+  {
+   "ref": "23:11",
+   "path": "token:23:11.1.note",
+   "value": "לֹא: the negative. Ibn Ezra glosses it כֵּן, 'yes, my lord, only hear me', as Ephron's courtesy; Rashi and Radak read it as a refusal of the price. The English keeps the negative, 'No'; see the commentary.",
+   "severity": "error",
+   "reason": "Ibn Ezra's gloss is כן, not 'so'."
+  },
+  {
+   "ref": "23:11",
+   "path": "token:23:11.6.note",
+   "value": "לָךְ: the pausal form of the masculine לְךָ (the vowel and the final ךְ of a pause accent), addressed to Abraham. The English 'you' serves.",
+   "severity": "error",
+   "reason": "The form is not feminine: it is the pausal masculine, used of Abraham."
+  },
+  {
+   "ref": "23:11",
+   "path": "token:23:11.16.note",
+   "value": "לָּךְ: pausal masculine form again (at the tipḥa), as in 23:11.6; addressed to Abraham.",
+   "severity": "error",
+   "reason": "Not feminine; pausal masculine."
+  },
+  {
+   "ref": "23:11",
+   "path": "grammar",
+   "value": [
+    "לֹא אֲדֹנִי שְׁמָעֵנִי: the negative stands before the vocative. The imperative שְׁמָעֵנִי has the first person suffix: 'hear me'.",
+    "The three qatals נָתַתִּי (23:11.5, 23:11.11, 23:11.15) are completed acts within the speech, rendered 'I have given'.",
+    "The second person suffix is written ךְ in לָךְ (23:11.6) and לָּךְ (23:11.16), the pausal form of masculine ךָ, as in לְךָ (23:11.10). All three address Abraham, and the English 'you' serves.",
+    "וְהַמְּעָרָה אֲשֶׁר־בּוֹ: the relative clause's 'in it' is the field, so the cave is the one in the field.",
+    "The imperative קְבֹר מֵתֶךָ (23:11.17–18) ends the speech: 'bury your dead'. The etnaḥta on נְתַתִּיהָ (23:11.11) divides it, and the silluq on מֵתֶךָ ends the verse."
+   ],
+   "severity": "error",
+   "reason": "The grammar note called the pausal forms feminine; they are masculine."
+  },
+  {
+   "ref": "23:11",
+   "path": "note",
+   "value": "Ephron's speech. Its opening and closing quotation marks are both in this verse. Whether the 'no' refuses the price (Rashi, Radak) or Ibn Ezra's gloss (כֵּן, 'yes, my lord, only hear me': a courtesy against the word) is right is not decided by the English, which keeps the word 'No'. Whether the field and cave are a gift (Radak) is left to 23:15, where a price is named.",
+   "severity": "error",
+   "reason": "Ibn Ezra's gloss misstated; 'courteous preface' hid that he glosses the word itself."
+  },
+  {
+   "ref": "23:11",
+   "path": "commentary:ibn-ezra:23:11:1",
+   "value": {
+    "relation": "records",
+    "summary": "Ibn Ezra glosses לֹא as כֵּן: 'yes, my lord, only that you hear me' (כֵּן אֲדֹנִי אַךְ שֶׁתִּשְׁמָעֵנִי). That makes Ephron's 'no' a courtesy against the word. The English keeps the Hebrew negative, 'No, my lord', and the gloss is recorded here."
+   },
+   "severity": "question",
+   "reason": "The summary read the gloss as 'so'; he says 'yes'. English stands; reading recorded."
+  },
+  {
+   "ref": "23:11",
+   "path": "commentary:sforno:23:11:1.summary",
+   "value": "Sforno: there is no need for the leaders of the assembled people to intercede with me (יִפְגְּעוּ בִּי). The 'no' answers the request of 23:8 that the men of the town intercede, not the price.",
+   "severity": "style",
+   "reason": "'Meet Abraham' misses פגע ב, 'entreat'."
+  },
+  {
+   "ref": "23:11",
+   "path": "context",
+   "value": [
+    "Ephron first speaks of giving the field and cave, and then, in 23:15, names a price which Abraham pays (23:16). Whether the offer is a real gift refused, or the courteous opening of a bargain, is disputed; the text does not say, and the commentators divide on it."
+   ],
+   "severity": "style",
+   "reason": "A reader needs the gift/price tension named as a dispute."
+  },
+  {
+   "ref": "23:12",
+   "path": "grammar",
+   "value": [
+    "וַיִּשְׁתַּחוּ is a hitpaʿel wayyiqtol: 'and he bowed down'. The verse is one sequential clause.",
+    "לִפְנֵי: 'before', from פְּנֵי, the construct plural of פָּנֶה; the prepositional phrase gives the place of the bow.",
+    "עַם הָאָרֶץ: a fixed phrase for the men of the land, here the Hittites of 23:7 and 23:10. It is used again in 23:13, where Abraham speaks in their hearing.",
+    "The zaqef qaton on אַבְרָהָם (23:12.2) divides the verse; the silluq on הָאָרֶץ (23:12.5) ends it."
+   ],
+   "severity": "error",
+   "reason": "23:13 is Abraham's speech, not Ephron's answer; the pashta does not mark the verse's two parts, the zaqef does."
+  },
+  {
+   "ref": "23:12",
+   "path": "context",
+   "value": [
+    "A bow to the ground before a person or a group of standing was a sign of respect. Compare 33:3, where Jacob bows seven times before Esau.",
+    "עַם הָאָרֶץ, 'the people of the land', here means the local landholding citizens, the same men the text calls 'the Hittites' (23:7, 23:10). In later books the phrase has other senses, and its meaning there is debated."
+   ],
+   "severity": "style",
+   "reason": "A reader needs the phrase placed; the later senses must not be read back."
+  },
+  {
+   "ref": "23:13",
+   "path": "english",
+   "value": "And he spoke to Ephron in the hearing of the people of the land, saying, \"But if you would hear me, I give the price of the field; take from me, and I will bury my dead there.\"",
+   "severity": "style",
+   "reason": "A speech is introduced with a comma, not a colon."
+  },
+  {
+   "ref": "23:14",
+   "path": "english",
+   "value": "And Ephron answered Abraham, saying to him,",
+   "severity": "style",
+   "reason": "A speech is introduced with a comma, not a colon."
+  },
+  {
+   "ref": "23:14",
+   "path": "grammar",
+   "value": [
+    "וַיַּעַן עֶפְרוֹן אֶת־אַבְרָהָם: the reply is a wayyiqtol with the subject after the verb and the object marker before Abraham.",
+    "לֵאמֹר לוֹ is the formula that introduces speech: 'saying to him'. The speech follows in 23:15.",
+    "The tevir on עֶפְרוֹן (23:14.2) and the tipḥa on אַבְרָהָם (23:14.4) mark pauses within the verse; the silluq on לוֹ ends it."
+   ],
+   "severity": "error",
+   "reason": "The darga is conjunctive and divides nothing."
+  },
+  {
+   "ref": "23:15",
+   "path": "token:23:15.11.note",
+   "value": "הוּא, the feminine pronoun, referring to the land. Rashi and Sforno read the question as 'it is a trifle'; Radak as 'it makes no difference, whether you give or not'.",
+   "severity": "error",
+   "reason": "Radak does not say it is nothing; he says it makes no difference."
+  },
+  {
+   "ref": "23:15",
+   "path": "note",
+   "value": "The price is a noun phrase, and the English keeps it so. The question 'what is it?' is read by Rashi and Sforno as 'it is a trifle' and by Radak as 'it makes no difference'; the English keeps the question, and the readings are recorded. Ephron's speech opens and closes here.",
+   "severity": "error",
+   "reason": "Radak's reading corrected."
+  },
+  {
+   "ref": "23:16",
+   "path": "english",
+   "value": "And Abraham listened to Ephron, and Abraham weighed out to Ephron the silver which he had spoken in the hearing of the Hittites, four hundred shekels of silver by the merchants' standard.",
+   "severity": "error",
+   "reason": "עֹבֵר לַסֹּחֵר is silver current by the merchants' standard (weighed silver), not 'passes with the merchant'."
+  },
+  {
+   "ref": "23:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "23:16.1",
+      "23:16.2",
+      "23:16.3",
+      "23:16.4"
+     ],
+     "english": "And Abraham listened to Ephron",
+     "literal": "and-listened Abraham to Ephron"
+    },
+    {
+     "tokens": [
+      "23:16.5",
+      "23:16.6",
+      "23:16.7"
+     ],
+     "english": "and Abraham weighed out to Ephron",
+     "literal": "and-weighed-out Abraham to-Ephron"
+    },
+    {
+     "tokens": [
+      "23:16.8",
+      "23:16.9",
+      "23:16.10",
+      "23:16.11",
+      "23:16.12",
+      "23:16.13",
+      "23:16.14"
+     ],
+     "english": "the silver which he had spoken in the hearing of the Hittites",
+     "literal": "[object] the-silver which spoke in-ears-of sons-of Heth"
+    },
+    {
+     "tokens": [
+      "23:16.15",
+      "23:16.16",
+      "23:16.17",
+      "23:16.18",
+      "23:16.19",
+      "23:16.20"
+     ],
+     "english": "four hundred shekels of silver by the merchants' standard",
+     "literal": "four-hundred shekels silver passing to-the-trader"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the last fragment."
+  },
+  {
+   "ref": "23:16",
+   "path": "token:23:16.4.note",
+   "value": "The spelling here is full (עֶפְרוֹן); the defective spelling is לְעֶפְרֹן in 23:16.7.",
+   "severity": "error",
+   "reason": "The note called the full spelling defective."
+  },
+  {
+   "ref": "23:16",
+   "path": "token:23:16.19.gloss",
+   "value": "by the standard",
+   "severity": "error",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "23:16",
+   "path": "token:23:16.19.note",
+   "value": "Participle of עָבַר, 'passing': silver that passes, is current, in dealings. With לַסֹּחֵר it is silver by the merchants' standard. Ibn Ezra: chosen silver, no other; Radak: full in weight, as the merchants are exact.",
+   "severity": "error",
+   "reason": "Explains the new rendering."
+  },
+  {
+   "ref": "23:16",
+   "path": "token:23:16.20.gloss",
+   "value": "of the merchants",
+   "severity": "error",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "23:16",
+   "path": "token:23:16.20.note",
+   "value": "לַסֹּחֵר: 'to the trader', the participle of סָחַר as a noun, singular for the class of merchants.",
+   "severity": "style",
+   "reason": "Clarifies the collective singular."
+  },
+  {
+   "ref": "23:16",
+   "path": "grammar",
+   "value": [
+    "וַיִּשְׁקֹל ... אֶת־הַכֶּסֶף: 'weighed out' with the silver as object. The price is weighed, not counted.",
+    "The silver is named twice: 'the silver which he had spoken' and 'four hundred shekels of silver'. The second names the amount.",
+    "אֲשֶׁר דִּבֶּר בְּאׇזְנֵי בְנֵי־חֵת: the relative clause in the qatal: the amount was named in the hearing of the Hittites (23:10, 23:15).",
+    "עֹבֵר לַסֹּחֵר: the participle of עָבַר, 'passing', with לְ and a participle used as a noun, 'the merchant': silver current by the merchants' standard.",
+    "The etnaḥta on חֵת (23:16.14) divides the verse; the silluq on לַסֹּחֵר (23:16.20) ends it."
+   ],
+   "severity": "error",
+   "reason": "Tipha does not end the verse; 23:15 is where the amount is named."
+  },
+  {
+   "ref": "23:16",
+   "path": "note",
+   "value": "The English 'by the merchants' standard' gives עֹבֵר לַסֹּחֵר: silver as current among merchants, weighed by their standard. Ibn Ezra reads 'chosen silver', and Radak 'full weight, as merchants are exact'; both are about the quality of the weighed silver, which the English carries. The weighing of silver before coined money is in the context.",
+   "severity": "error",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "23:16",
+   "path": "commentary:ibn-ezra:23:16:1.summary",
+   "value": "Ibn Ezra: he would take only chosen silver (שֶׁלֹּא יִקַּח כִּי אִם כֶּסֶף נִבְחָר). The English 'by the merchants' standard' names the standard of the silver, which is the quality the commentary names.",
+   "severity": "style",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "23:16",
+   "path": "commentary:rashi:23:16:1.summary",
+   "value": "Rashi: the name is written without a vav (עפרן), because Ephron said much and did not do even a little (Bava Metzia 87): he took from him large shekels, kantars, as 'current with the merchant' (accepted by weight everywhere; Bekhorot 50), for in some places the shekels are large, kantars (centenaria in French). The English keeps 'shekels'; the reading is recorded.",
+   "severity": "error",
+   "reason": "The summary made Abraham the one for whom 'even a little' was not enough; Rashi says Ephron said much and did not even a little."
+  },
+  {
+   "ref": "23:16",
+   "path": "commentary:radak:23:16:1.summary",
+   "value": "Radak: 'silver full by weight, as the merchants carry and pay with it, for they are exact about the weight of silver'. The English 'by the merchants' standard' agrees.",
+   "severity": "style",
+   "reason": "Matches the new English."
+  },
+  {
+   "ref": "23:16",
+   "path": "commentary:onkelos:23:16:1.summary",
+   "value": "Onkelos: 'and Abraham accepted from Ephron', renders וַיִּשְׁמַע as 'accepted', and the silver as 'shekels of silver accepted as merchandise in every province' (מִתְקַבֵּל סְחוֹרָא בְּכָל מְדִינְתָּא). The English follows his sense of silver accepted by the merchants' standard; 'listened to' keeps the Hebrew verb.",
+   "severity": "style",
+   "reason": "The summary omitted his rendering of the verb."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:23:9:1",
+   "verdict": "consistent",
+   "comment": "The name is kept as the place name; his 'cave within a cave' is the etymology, recorded."
+  },
+  {
+   "anchor": "ibn-ezra:23:9:2",
+   "verdict": "consistent",
+   "comment": "'Full' is kept; his gloss that it is the opposite of lacking agrees."
+  },
+  {
+   "anchor": "ibn-ezra:23:11:1",
+   "verdict": "contradicts",
+   "comment": "The English keeps 'No, my lord': his כן explains Ephron's courtesy against the word, which goes in the commentary, not in the plain translation."
+  },
+  {
+   "anchor": "ibn-ezra:23:12:1",
+   "verdict": "consistent",
+   "comment": "The bow is before the people of the land, as he says; that it honours Ephron is his gloss."
+  },
+  {
+   "anchor": "ibn-ezra:23:13:1",
+   "verdict": "consistent",
+   "comment": "'If you would hear me' follows his first reading; the second is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:23:16:1",
+   "verdict": "consistent",
+   "comment": "'By the merchants' standard' carries his 'chosen silver'."
+  }
+ ]
+}
