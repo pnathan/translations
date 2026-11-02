@@ -272,7 +272,7 @@ Hebrew (MAM): וַיֹּאמַ֓ר ׀ יְהֹוָ֗ה אֱלֹהֵי֙ אֲדֹ
 
 ### Translation under review (24:12)
 
-English: And he said, "LORD God of my master Abraham, please make it happen before me today, and show kindness with my master Abraham."
+English: And he said, "LORD God of my master Abraham, please make it happen before me today, and show kindness with my master Abraham.
 
 Literal: and-said the-LORD God-of my-master Abraham make-it-happen please before-me the-day and-do kindness with my-master Abraham
 
@@ -309,6 +309,7 @@ Commentary rulings:
 - `ibn-ezra:24:12:1` follows: Ibn Ezra, normative: הַקְרֵה is in the sense of 'prepare' (הכן) and of bringing a thing about before one (הפצי לפני), as in 'for the LORD your God caused it to meet me' (כִּי הִקְרָה ד' אֱלֹהֶיךָ), which he cites. The English 'make it happen before me' takes this: a request that God bring the matter about.
 - `radak:24:12:1` records: Radak: זַמֵּן לְפָנַי, 'arrange it before me' (appoint, provide), so that the sign the servant asks for in the next verses shows that the kindness is done. The English keeps 'make it happen'.
 - `onkelos:24:12:1` records: Onkelos renders the verb with the Aramaic זַמִּין כְּעַן, 'now arrange', the same sense as Radak. The English keeps 'make it happen'.
+- `radak:24:14:3` not-applicable: The fetched entry for this anchor has no comment text.
 
 ## Genesis 24:13
 
@@ -421,7 +422,7 @@ Hebrew (MAM): וְהָיָ֣ה הַֽנַּעֲרָ֗ אֲשֶׁ֨ר אֹמַ֤�
 
 ### Translation under review (24:14)
 
-English: And it shall be that the girl to whom I say, "Please tilt your jar, and I will drink," and she will say, "Drink, and I will also water your camels," you have proved her for your servant, for Isaac; and by her I shall know that you have shown kindness with my master.
+English: And it shall be that the girl to whom I say, 'Please tilt your jar, and I will drink,' and she will say, 'Drink, and I will also water your camels,' you have proved her for your servant, for Isaac; and by her I shall know that you have shown kindness with my master."
 
 Literal: and-it-shall-be the-girl which I-say to-her tilt-please your-jar and-I-will-drink and-she-will-say drink and-also your-camels I-will-water her you-proved for-your-servant for-Isaac and-by-her I-shall-know that you-did kindness with my-master
 
@@ -482,7 +483,6 @@ Commentary rulings:
 - `ramban:24:14:1` records: Ramban finds Rashi's reading awkward and takes the clause as the outcome asked for: 'let it happen today that the girl I say to is the one you have proved for Isaac, and by her I shall know you did kindness'. He cites 'the young woman whom the LORD has designated' (v. 43). The English keeps 'you have proved her'.
 - `radak:24:14:1` not-applicable: Radak: the clause treats the same matter as the wording 'if a girl is' in Deut 22:23 (כִּי יִהְיֶה נַעֲרָה). It does not bear on the English.
 - `radak:24:14:2` not-applicable: Radak: the servant would not say this to a lame or blind girl; he prayed for a girl who was fit, not a maidservant or a girl outside Abraham's family.
-- `radak:24:14:3` not-applicable: The fetched entry for this anchor has no comment text.
 - `radak:24:14:4` records: Radak reads הֹכַחְתָּ as 'you appointed her' (זִמַּנְתָּ) for Isaac: 'her I will take for him as a wife'. The English does not adopt 'appointed' (Hiph 2).
 - `radak:24:14:5` records: Radak reads the knowing as conditional: if she proves good, of good people and of his family, then I shall know that you did kindness. The English keeps the plain 'by her I shall know'.
 - `sforno:24:14:1` not-applicable: Sforno: the servant prayed that it would be so, and did not rely on divination (נַחַשׁ). The clause is about the nature of the prayer, not the English.
