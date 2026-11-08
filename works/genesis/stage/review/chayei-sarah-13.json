@@ -1,0 +1,228 @@
+{
+ "unit": "chayei-sarah-13",
+ "model": "sonnet",
+ "summary": "The unit is sound: the glosses, senses and verdicts fit, and the English is the plain translation. Faults: a wrong note on שְׁנֵי (25:7.3), a grammar note giving 'away' to the suffix (25:6), a Rashi summary that made God the one who feared (25:11), garbled or thin summaries of Ibn Ezra (25:6, 25:8), Radak and Ramban, and missing context notes for 25:8 and 25:11. 25:11 is put in plain modern English in place of 'it came to pass' and 'dwelt'.",
+ "patches": [
+  {
+   "ref": "25:6",
+   "path": "grammar",
+   "value": [
+    "The etnaḥta on מַתָּנֹת (25:6.7) closes the first clause: the gifts are set off from the sending that follows.",
+    "וַיְשַׁלְּחֵם is a wayyiqtol of the Piel continuing the narrative after נָתַן; the suffix -ם is 'them', and 'away' comes from the Piel.",
+    "The relative clause אֲשֶׁר לְאַבְרָהָם has no verb; the English adds the copula 'were'.",
+    "בְּעוֹדֶנּוּ חַי is a temporal clause with no verb: 'in his still alive'. English supplies 'was'.",
+    "קֵדְמָה is an adverb with the directional ה, and אֶל אֶרֶץ קֶדֶם repeats the direction in a noun phrase."
+   ],
+   "severity": "error",
+   "reason": "The grammar note gave 'away' to the suffix; the phrase note and the lexicon (Pi 2.a 'send away') give it to the Piel, and the suffix is only 'them'."
+  },
+  {
+   "ref": "25:6",
+   "path": "commentary:ibn-ezra:25:6:2.summary",
+   "value": "Ibn Ezra says קֵדְמָה means 'to the land of the east' (אֶל אֶרֶץ קֶדֶם), the same word said twice, as in 'which will not serve him, Nebuchadnezzar' (Jeremiah 27:8), where the object is also doubled. Qedem is the east of the land of Israel. He notes a view that it means the place of the son of Ishmael, and holds the first reading correct. The English 'eastward to the land of the east' follows him.",
+   "severity": "error",
+   "reason": "The summary left out the Jeremiah parallel, which is Ibn Ezra's grammatical argument, and his definition of qedem as east of the land of Israel."
+  },
+  {
+   "ref": "25:6",
+   "path": "commentary:ramban:25:6:1.summary",
+   "value": "Ramban says that on the plain sense all Abraham's wives were concubines to him, not counted as wives, because it was said 'in Isaac shall your seed be called' and their seed was not among his heirs. Hagar, Sarah's maidservant, was his concubine; Keturah he took as a wife, yet is called a concubine (1 Chronicles 1:32) for the same reason. He rejects Rashi's account that a concubine is one without a marriage contract.",
+   "severity": "style",
+   "reason": "The summary reduced Ramban's argument and omitted that Keturah, though taken as a wife, is called a concubine, and that he rejects Rashi's explanation."
+  },
+  {
+   "ref": "25:6",
+   "path": "commentary:sforno:25:6:1.summary",
+   "value": "Sforno says the verb 'gave' is used here not in the language of inheritance at all, so that his words would stand. The English 'gave gifts' is consistent with this.",
+   "severity": "style",
+   "reason": "'Keeps the gifts from being an inheritance' put an effect on the English that it does not have."
+  },
+  {
+   "ref": "25:6",
+   "path": "commentary:radak:25:6:3",
+   "value": {
+    "relation": "records",
+    "summary": "Radak says Abraham sent them eastward, and then names the land: eretz qedem is Haran and Ur of the Chaldeans, the districts commonly called the land of Qedem and the land of the sons of Qedem. It was the land of Abraham's family, so he sent them to live there. The English keeps 'the land of the east' and records this identification."
+   },
+   "severity": "question",
+   "reason": "A ruling is missing on a comment that gives a different identification of the land from Ibn Ezra's."
+  },
+  {
+   "ref": "25:7",
+   "path": "token:25:7.3.note",
+   "value": "שְׁנֵי is the plural construct of שָׁנָה 'year' ('years of'); it looks like the construct of 'two' (שְׁנֵי), but here the noun is meant. The parse as a cardinal number is a mislabel.",
+   "severity": "error",
+   "reason": "The note called it the dual construct; the dual of שָׁנָה is שְׁנָתַיִם, and שְׁנֵי here is the plural construct. The note also talked about the pack instead of teaching the form."
+  },
+  {
+   "ref": "25:7",
+   "path": "commentary:rashi:25:7:1.summary",
+   "value": "Rashi says that at a hundred he was as at seventy, and at seventy as at five, without sin.",
+   "severity": "style",
+   "reason": "'A hundred is like seventy' loses that the comparison is of Abraham's age and state; Rashi's wording is 'son of a hundred like son of seventy'."
+  },
+  {
+   "ref": "25:8",
+   "path": "context",
+   "value": [
+    "'Gathered to his people' is said also of Ishmael (25:17), Isaac (35:29) and Jacob (49:33). It is not burial: Abraham's burial comes next, in 25:9, in a cave far from the graves of his fathers. The commentators differ on what it says. Ibn Ezra gives two readings: the honour of the soul, which is gathered to its own once it is parted from the body; or an idiom meaning that he went the way of his fathers, as if joining them (compare 15:15). Radak takes it as joining the members of his family who had died before him. Sforno takes it as joining the righteous in the life of the world to come. What the idiom implied about the dead in the patriarchal period is disputed; the English keeps the idiom and states none of these."
+   ],
+   "severity": "question",
+   "reason": "The idiom needs a note naming the readings and the dispute; the segment had none."
+  },
+  {
+   "ref": "25:8",
+   "path": "commentary:ibn-ezra:25:8:3.summary",
+   "value": "Ibn Ezra gives two readings of וַיֵּאָסֶף אֶל עַמָּיו. Some say it speaks of the honour (kavod) of the soul: while it is occupied with the body it is as a separate part, and when it is parted from the body the honour is gathered to its people. Others say it is the usage of the language, and the sense is that he went the way of his fathers, as if joined to them, as in 'and you shall come to your fathers in peace' (15:15). The English keeps the idiom plain and records both.",
+   "severity": "style",
+   "reason": "The summary said the soul itself is gathered (Ibn Ezra says the honour), and left out his Genesis 15:15 parallel for the idiom."
+  },
+  {
+   "ref": "25:9",
+   "path": "commentary:rashi:25:9:1.summary",
+   "value": "Rashi says that from this we learn that Ishmael repented and let Isaac go before him, and that this is the 'good old age' said of Abraham.",
+   "severity": "style",
+   "reason": "'Led Isaac before him' could be read as Ishmael escorting Isaac; Rashi says he gave Isaac precedence."
+  },
+  {
+   "ref": "25:10",
+   "path": "commentary:radak:25:10:1.summary",
+   "value": "Radak says that wherever the burial in this cave is mentioned, the purchase is mentioned too, to show Abraham's love for Sarah: he found no place to bury her until he bought it, and yet he did not doubt God, who had said 'all the land that you see I will give to you' (13:15).",
+   "severity": "style",
+   "reason": "The summary left out the second half of the comment, the point about God's promise."
+  },
+  {
+   "ref": "25:10",
+   "path": "commentary:radak:25:10:3.summary",
+   "value": "Radak says (referring to what he wrote at 24:55) that the verb is stated in the form fitting the one attached to it, here Abraham, and Sarah is joined to him; so the singular קֻבַּר serves both. The English 'and Sarah his wife' takes it so.",
+   "severity": "style",
+   "reason": "The summary said the verb is 'applied to both together'; Radak's rule is that the verb is put in the form of the nearer subject."
+  },
+  {
+   "ref": "25:11",
+   "path": "english",
+   "value": "After the death of Abraham, God blessed Isaac his son, and Isaac lived by Beer-lahai-roi.",
+   "severity": "style",
+   "reason": "'And it came to pass ... that' and 'dwelt' are archaic; the decisions ask for plain, modern English. The formula וַיְהִי only dates the sentence."
+  },
+  {
+   "ref": "25:11",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "25:11.1",
+      "25:11.2",
+      "25:11.3",
+      "25:11.4"
+     ],
+     "english": "After the death of Abraham",
+     "literal": "'and-it-was after death-of Abraham'; the formula וַיְהִי dates the sentence and has no English word of its own"
+    },
+    {
+     "tokens": [
+      "25:11.5",
+      "25:11.6",
+      "25:11.7",
+      "25:11.8",
+      "25:11.9"
+     ],
+     "english": "God blessed Isaac his son",
+     "literal": "'and-blessed God (OBJ) Isaac his-son'; the object marker has no English word"
+    },
+    {
+     "tokens": [
+      "25:11.10",
+      "25:11.11",
+      "25:11.12",
+      "25:11.13",
+      "25:11.14",
+      "25:11.15"
+     ],
+     "english": "and Isaac lived by Beer-lahai-roi",
+     "literal": "'and-dwelt Isaac with well-of Lahai Roi'; the place name is one name in Hebrew and one in English"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "25:11",
+   "path": "grammar",
+   "value": [
+    "The wayyiqtol וַיְהִי is the narrative formula 'it came about'; here it only dates what follows, and the English carries it with 'After the death of Abraham'.",
+    "The object marker before יִצְחָק has no English word; the suffix of בְּנוֹ 'his son' is in apposition to Isaac.",
+    "The second verb וַיֵּשֶׁב has its own subject, Isaac, and follows the blessing."
+   ],
+   "severity": "style",
+   "reason": "The notes follow the new English."
+  },
+  {
+   "ref": "25:11",
+   "path": "token:25:11.1.gloss",
+   "value": "and it came about",
+   "severity": "style",
+   "reason": "The formula is not given its own English word; the gloss names what it is."
+  },
+  {
+   "ref": "25:11",
+   "path": "token:25:11.1.note",
+   "value": "wayyiqtol of הָיָה, the formula that opens the sentence; in the English 'After the death of Abraham' carries it",
+   "severity": "style",
+   "reason": "Explains why the English has no separate word."
+  },
+  {
+   "ref": "25:11",
+   "path": "token:25:11.10.gloss",
+   "value": "and lived",
+   "severity": "style",
+   "reason": "Plain modern English for 'dwelt'; the sense is Qal 3 'dwell, have one's abode'."
+  },
+  {
+   "ref": "25:11",
+   "path": "context",
+   "value": [
+    "Beer-lahai-roi is the well first named in 16:14, where Hagar met the one who spoke to her; the name is explained there. Isaac came from it in 24:62 and was living in the Negev. The meaning of the name, 'well of the living one who sees me', rests on that account; the English transliterates it."
+   ],
+   "severity": "question",
+   "reason": "A reader needs to know the place was already named earlier in the story."
+  },
+  {
+   "ref": "25:11",
+   "path": "commentary:rashi:25:11:1.summary",
+   "value": "Rashi says God comforted Isaac with the comforts given to mourners. Another comment: although God had handed the blessings to Abraham, Abraham was afraid to bless Isaac, because he foresaw Esau coming from him. He said, 'Let the Master of the blessings come and bless whom he pleases', and God came and blessed him.",
+   "severity": "error",
+   "reason": "The summary said God feared to bless Isaac; in Rashi it is Abraham who feared, and God who then blessed. It also omitted the first explanation, the comfort of mourners."
+  },
+  {
+   "ref": "25:11",
+   "path": "commentary:radak:25:11:2.summary",
+   "value": "Radak says עִם here is like בְּ, 'in/at' the well, as in 'you shall know in your heart' (עִם לְבָבֶךָ, Deuteronomy 8:5) and 'under the oak that is in Shechem' (35:4), and the like. The English 'by' takes it so.",
+   "severity": "error",
+   "reason": "The summary was garbled ('as at the well, as in in the well'); Radak equates עִם with בְּ and gives two parallels."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:25:6:1",
+   "verdict": "consistent",
+   "comment": "The English 'gifts' translates the word; Ibn Ezra's 'money' says what was given, and is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:25:6:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:25:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:25:8:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:25:8:3",
+   "verdict": "consistent"
+  }
+ ]
+}

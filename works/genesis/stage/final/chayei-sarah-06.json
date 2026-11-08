@@ -1,0 +1,1274 @@
+{
+ "unit": "chayei-sarah-06",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "24:17",
+   "english": "And the servant ran to meet her and said, \"Let me drink, please, a little water from your jar.\"",
+   "literal": "and-ran the-servant to-meeting-her and-said cause-me-to-drink please little-of-water from-jar-your",
+   "tokens": [
+    {
+     "id": "24:17.1",
+     "gloss": "and ran",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: the vav-consecutive carries the narrative on"
+    },
+    {
+     "id": "24:17.2",
+     "gloss": "the servant",
+     "sense": "1"
+    },
+    {
+     "id": "24:17.3",
+     "gloss": "to meet her",
+     "sense": "Qal 1",
+     "note": "ל with the infinitive construct of קָרָא and the suffix ־הּ: the set phrase 'to meet'"
+    },
+    {
+     "id": "24:17.4",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "24:17.5",
+     "gloss": "let me drink",
+     "sense": "Hiph",
+     "note": "hifil imperative, feminine singular, addressed to the girl, with the suffix ־נִי 'me'; the causative gives 'cause me to swallow', BDB 'let me drink'"
+    },
+    {
+     "id": "24:17.6",
+     "gloss": "please",
+     "note": "the entreaty particle נָא"
+    },
+    {
+     "id": "24:17.7",
+     "gloss": "a little",
+     "note": "construct of מְעַט"
+    },
+    {
+     "id": "24:17.8",
+     "gloss": "water"
+    },
+    {
+     "id": "24:17.9",
+     "gloss": "from your jar",
+     "note": "the suffix ־ךְ is second person feminine singular ('your'); the pack's parse gives third person. The data is kept; the English follows the Hebrew."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:17.1",
+      "24:17.2"
+     ],
+     "english": "And the servant ran",
+     "literal": "'and-ran the-servant': the wayyiqtol continues the sequence"
+    },
+    {
+     "tokens": [
+      "24:17.3"
+     ],
+     "english": "to meet her",
+     "literal": "'to-meeting-her'"
+    },
+    {
+     "tokens": [
+      "24:17.4"
+     ],
+     "english": "and said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "24:17.5"
+     ],
+     "english": "Let me drink",
+     "literal": "'cause-me-to-drink': the servant's request to the girl"
+    },
+    {
+     "tokens": [
+      "24:17.6"
+     ],
+     "english": "please",
+     "literal": "'please': the particle נָא"
+    },
+    {
+     "tokens": [
+      "24:17.7",
+      "24:17.8"
+     ],
+     "english": "a little water",
+     "literal": "'little-of-water': the construct מְעַט with מַיִם"
+    },
+    {
+     "tokens": [
+      "24:17.9"
+     ],
+     "english": "from your jar",
+     "literal": "'from-jar-your'"
+    }
+   ],
+   "grammar": [
+    "וַיָּרָץ and וַיֹּאמֶר are wayyiqtol forms: the vav-consecutive carries the narrative from one action to the next.",
+    "הַגְמִיאִינִי is a hifil imperative, feminine singular, addressed to the girl, with the suffix ־נִי; the speaker is the servant.",
+    "לִקְרָאתָהּ: ל with the infinitive construct of קָרָא and the suffix ־הּ forms the set phrase 'to meet her'.",
+    "The zaqef gadol on וַיֹּאמֶר divides the narrative from the speech that follows."
+   ],
+   "commentary": [
+    {
+     "anchor": "rashi:24:17:2",
+     "relation": "follows",
+     "summary": "Rashi: the word is the term for swallowing (לְשׁוֹן גְּמִיעָה), which in Old French is humer."
+    },
+    {
+     "anchor": "radak:24:17:2",
+     "relation": "follows",
+     "summary": "Radak: the word means as הַשְׁקִינִי, 'give me to drink'."
+    },
+    {
+     "anchor": "rashi:24:17:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the servant ran because he saw the water rising to meet her, citing Bereshit Rabbah."
+    },
+    {
+     "anchor": "radak:24:17:1",
+     "relation": "not-applicable",
+     "summary": "Radak: he ran because he saw she was beautiful, and he relied on God for his questions."
+    },
+    {
+     "anchor": "ramban:24:17:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: cites Rashi (he ran because he saw the water rise) and Bereshit Rabbah on 'she filled her jar and went up'; he thinks the rabbis drew the miracle from that wording and that it happened the first time, and that the servant did not tell it to the family (24:45) lest they not believe."
+    }
+   ]
+  },
+  {
+   "ref": "24:18",
+   "english": "And she said, \"Drink, my lord.\" And she hurried and let her jar down on her hand and gave him to drink.",
+   "literal": "and-said drink my-lord and-hurried and-let-down jar-her upon hand-her and-gave-him-drink",
+   "tokens": [
+    {
+     "id": "24:18.1",
+     "gloss": "And she said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "24:18.2",
+     "gloss": "Drink",
+     "note": "qal imperative, masculine singular, addressed to the man; the entry for שָׁתָה lists only a Niph sense, so no sense path is given"
+    },
+    {
+     "id": "24:18.3",
+     "gloss": "my lord",
+     "note": "addressed to the man (hiriq, אֲדֹנִי), not to God; construct with the suffix ־י 'my'"
+    },
+    {
+     "id": "24:18.4",
+     "gloss": "and hurried",
+     "sense": "Pi 1",
+     "note": "piel wayyiqtol"
+    },
+    {
+     "id": "24:18.5",
+     "gloss": "and let down",
+     "sense": "Hiph 3",
+     "note": "hifil wayyiqtol: she lowers the jar"
+    },
+    {
+     "id": "24:18.6",
+     "gloss": "her jar",
+     "note": "feminine, with the suffix ־הּ"
+    },
+    {
+     "id": "24:18.7",
+     "gloss": "upon"
+    },
+    {
+     "id": "24:18.8",
+     "gloss": "her hand",
+     "sense": "1"
+    },
+    {
+     "id": "24:18.9",
+     "gloss": "and gave him drink",
+     "sense": "Hiph 2",
+     "note": "hifil wayyiqtol, 'give drink to'; the object is the man (suffix ־הוּ) and no noun for the drink is stated"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:18.1"
+     ],
+     "english": "And she said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "24:18.2",
+      "24:18.3"
+     ],
+     "english": "Drink, my lord",
+     "literal": "'drink my-lord'"
+    },
+    {
+     "tokens": [
+      "24:18.4"
+     ],
+     "english": "And she hurried",
+     "literal": "'and-hurried'"
+    },
+    {
+     "tokens": [
+      "24:18.5",
+      "24:18.6",
+      "24:18.7",
+      "24:18.8"
+     ],
+     "english": "and let her jar down on her hand",
+     "literal": "'and-let-down jar-her upon hand-her'"
+    },
+    {
+     "tokens": [
+      "24:18.9"
+     ],
+     "english": "and gave him to drink",
+     "literal": "'and-gave-him-drink'"
+    }
+   ],
+   "grammar": [
+    "וַתֹּאמֶר שְׁתֵה אֲדֹנִי: the imperative שְׁתֵה is masculine singular, spoken to the man.",
+    "וַתְּמַהֵר and וַתֹּרֶד: a piel and a hifil wayyiqtol, both with the feminine subject, mark the quick succession of her actions.",
+    "כַּדָּהּ עַל־יָדָהּ: the jar and the hand both carry the feminine suffix ־הּ; the phrase is 'her jar upon her hand'.",
+    "וַתַּשְׁקֵהוּ: a hifil wayyiqtol with the object suffix ־הוּ; the verb carries 'give to drink' without a noun for the drink."
+   ],
+   "commentary": [
+    {
+     "anchor": "rashi:24:18:1",
+     "relation": "records",
+     "summary": "Rashi: וַתֹּרֶד means 'from her shoulder' (מֵעַל שִׁכְמָהּ): she lowered the jar from her shoulder. The English keeps the verse's 'upon her hand'."
+    },
+    {
+     "anchor": "radak:24:18:1",
+     "relation": "not-applicable",
+     "summary": "Radak: this shows she was well brought up: she did not know who he was and still called him 'my lord', and she hurried to give him water, and gave it from her hand."
+    }
+   ]
+  },
+  {
+   "ref": "24:19",
+   "english": "And she finished giving him drink, and said, \"I will draw for your camels too, until they have finished drinking.\"",
+   "literal": "and-finished to-give-him-drink and-said also to-camels-your I-will-draw until if they-finished to-drink",
+   "tokens": [
+    {
+     "id": "24:19.1",
+     "gloss": "And she finished",
+     "sense": "Pi 1.a",
+     "note": "piel wayyiqtol of כָּלָה"
+    },
+    {
+     "id": "24:19.2",
+     "gloss": "giving him drink",
+     "sense": "Hiph 2",
+     "note": "infinitive construct of שָׁקָה with the suffix ־וֹ 'him'"
+    },
+    {
+     "id": "24:19.3",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "24:19.4",
+     "gloss": "also",
+     "note": "גַּם stands before its noun as in Hebrew (גַּם לִגְמַלֶּיךָ); the English puts \"too\" after \"your camels\"."
+    },
+    {
+     "id": "24:19.5",
+     "gloss": "for your camels",
+     "sense": "2",
+     "note": "plural construct with the suffix ־ךָ 'your' (second masculine singular); camels as beasts of burden"
+    },
+    {
+     "id": "24:19.6",
+     "gloss": "I will draw",
+     "note": "imperfect, first singular. שָׁאַב has no object in this verse; the water is understood from the context"
+    },
+    {
+     "id": "24:19.7",
+     "gloss": "until",
+     "sense": "II.1",
+     "note": "עַד with אִם: a temporal clause"
+    },
+    {
+     "id": "24:19.8",
+     "gloss": "if",
+     "sense": "1",
+     "note": "אִם in a temporal clause: Rashi reads it as 'which', Radak as 'which' or 'until'; see commentary"
+    },
+    {
+     "id": "24:19.9",
+     "gloss": "have finished",
+     "sense": "Pi 1.a",
+     "note": "piel perfect, third person common plural; the camels are the subject"
+    },
+    {
+     "id": "24:19.10",
+     "gloss": "drinking",
+     "note": "qal infinitive construct; the entry lists only a Niph sense, so no sense path is given"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:19.1",
+      "24:19.2"
+     ],
+     "english": "And she finished giving him drink",
+     "literal": "'and-finished to-give-him-drink'"
+    },
+    {
+     "tokens": [
+      "24:19.3"
+     ],
+     "english": "and said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "24:19.4",
+      "24:19.5",
+      "24:19.6"
+     ],
+     "english": "I will draw for your camels too",
+     "literal": "'also to-camels-your I-will-draw': the Hebrew puts גַּם first"
+    },
+    {
+     "tokens": [
+      "24:19.7",
+      "24:19.8",
+      "24:19.9",
+      "24:19.10"
+     ],
+     "english": "until they have finished drinking",
+     "literal": "'until if they-finished to-drink'"
+    }
+   ],
+   "grammar": [
+    "The etnaḥta on לְהַשְׁקֹתוֹ closes the first clause; the revia on וַתֹּאמֶר is a disjunctive, and the speech follows it.",
+    "גַּם comes before its object, as in Hebrew, 'also for your camels'; the English puts 'too' after 'your camels'.",
+    "עַד אִם כִּלּוּ לִשְׁתֹּת: the temporal clause 'until' with אִם; the piel perfect כִּלּוּ has the camels as subject.",
+    "The piel כִּלּוּ is used without an object, 'they have finished' (drinking), and the infinitive לִשְׁתֹּת names the act."
+   ],
+   "note": "The English 'too' renders גַּם as 'also'. The speech is one verse long and closes within it.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:19:1",
+     "relation": "follows",
+     "summary": "Rashi: אִם here serves as אֲשֶׁר ('which'): until they have had enough, which is the end of their drinking."
+    },
+    {
+     "anchor": "radak:24:19:1",
+     "relation": "follows",
+     "summary": "Radak: 'but if they finish drinking, then I will stop' (I will draw for them until they finish drinking); or אִם stands in place of אֲשֶׁר, 'until they finish drinking'. The English takes the first."
+    },
+    {
+     "anchor": "sforno:24:19:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: she waited to speak until he had finished drinking, following the rule that one does not speak at a meal in case the windpipe goes down the wrong way."
+    }
+   ],
+   "context": [
+    "Camels drink large quantities of water after a long journey; the verse's own detail (until they had finished drinking) shows why the drawing took long.",
+    "Whether domesticated camels were in use as pack and riding animals in the patriarchal period is disputed: some hold that they came into common use only late in the second millennium BCE, others find earlier evidence. The English says 'camels' and takes no side."
+   ]
+  },
+  {
+   "ref": "24:20",
+   "english": "And she hurried, and poured out her jar into the trough, and ran again to the well to draw, and drew for all his camels.",
+   "literal": "and-hurried and-poured-out jar-her into the-trough and-ran again to the-well to-draw and-drew to-all-of camels-his",
+   "tokens": [
+    {
+     "id": "24:20.1",
+     "gloss": "and hurried",
+     "sense": "Pi 1",
+     "note": "piel wayyiqtol"
+    },
+    {
+     "id": "24:20.2",
+     "gloss": "and poured out",
+     "sense": "Pi 3",
+     "note": "piel wayyiqtol: she empties the jar into the trough (Rashi and Radak read 'scatter' and 'pour')"
+    },
+    {
+     "id": "24:20.3",
+     "gloss": "her jar",
+     "note": "feminine, with the suffix ־הּ"
+    },
+    {
+     "id": "24:20.4",
+     "gloss": "into",
+     "sense": "2"
+    },
+    {
+     "id": "24:20.5",
+     "gloss": "the trough",
+     "note": "שֹׁקֶת, the entry gives no senses"
+    },
+    {
+     "id": "24:20.6",
+     "gloss": "and ran",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "24:20.7",
+     "gloss": "again"
+    },
+    {
+     "id": "24:20.8",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "24:20.9",
+     "gloss": "the well",
+     "sense": "1"
+    },
+    {
+     "id": "24:20.10",
+     "gloss": "to draw",
+     "note": "ל with the qal infinitive construct of שָׁאַב; no object is stated"
+    },
+    {
+     "id": "24:20.11",
+     "gloss": "and drew",
+     "note": "qal wayyiqtol of שָׁאַב; no object is stated"
+    },
+    {
+     "id": "24:20.12",
+     "gloss": "for all",
+     "sense": "1",
+     "note": "כֹּל 'the whole of, any, every' with the construct"
+    },
+    {
+     "id": "24:20.13",
+     "gloss": "his camels",
+     "sense": "2",
+     "note": "plural with the suffix ־וֹ 'his'; camels as beasts of burden"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:20.1"
+     ],
+     "english": "And she hurried",
+     "literal": "'and-hurried'"
+    },
+    {
+     "tokens": [
+      "24:20.2",
+      "24:20.3",
+      "24:20.4",
+      "24:20.5"
+     ],
+     "english": "and poured out her jar into the trough",
+     "literal": "'and-poured-out jar-her into the-trough'"
+    },
+    {
+     "tokens": [
+      "24:20.6",
+      "24:20.7",
+      "24:20.8",
+      "24:20.9"
+     ],
+     "english": "and ran again to the well",
+     "literal": "'and-ran again to the-well'"
+    },
+    {
+     "tokens": [
+      "24:20.10"
+     ],
+     "english": "to draw",
+     "literal": "'to-draw'"
+    },
+    {
+     "tokens": [
+      "24:20.11",
+      "24:20.12",
+      "24:20.13"
+     ],
+     "english": "and drew for all his camels",
+     "literal": "'and-drew to-all-of camels-his'"
+    }
+   ],
+   "grammar": [
+    "וַתְּעַר, וַתָּרָץ, וַתִּשְׁאַב: three wayyiqtols in a sequence of quick actions, pouring, running, drawing.",
+    "עוֹד אֶל־הַבְּאֵר: 'again to the well'; the verb רוּץ returns from 24:17.",
+    "לִשְׁאֹב is an infinitive construct of שָׁאַב with no stated object; the English keeps the bare verb.",
+    "לְכָל־גְּמַלָּיו: the construct לְכָל, 'all of', with the plural גְּמַלָּיו and the suffix 'his'."
+   ],
+   "commentary": [
+    {
+     "anchor": "rashi:24:20:1",
+     "relation": "follows",
+     "summary": "Rashi: וַתְּעַר means scattering (נְפִיצָה), like the Mishnaic word for pouring from one vessel into another."
+    },
+    {
+     "anchor": "rashi:24:20:2",
+     "relation": "follows",
+     "summary": "Rashi: the שֹׁקֶת is a hollow stone from which the camels drink."
+    },
+    {
+     "anchor": "radak:24:20:1",
+     "relation": "follows",
+     "summary": "Radak: she poured it into the trough, the place where the animals are watered."
+    },
+    {
+     "anchor": "sforno:24:20:2",
+     "relation": "not-applicable",
+     "summary": "Sforno: the well is in front of the spring from which the animals drink."
+    },
+    {
+     "anchor": "sforno:24:20:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: haste in a servant's work shows that the person served is held in regard by him."
+    }
+   ],
+   "context": [
+    "A שֹׁקֶת was a trough or basin from which animals drank; Rashi glosses it as a hollow stone."
+   ]
+  },
+  {
+   "ref": "24:21",
+   "english": "And the man was astonished at her, keeping silent to find out whether the LORD had made his way prosper, or not.",
+   "literal": "and-the-man astonished to-her silent to-find-out whether the-LORD made-prosper his-way if not",
+   "tokens": [
+    {
+     "id": "24:21.1",
+     "gloss": "And the man",
+     "note": "ו with the article and אִישׁ"
+    },
+    {
+     "id": "24:21.2",
+     "gloss": "astonished",
+     "note": "hitpaʿel participle of שָׁאָה; the entry lists no senses"
+    },
+    {
+     "id": "24:21.3",
+     "gloss": "at her",
+     "note": "ל with the suffix ־הּ. Ibn Ezra: 'for her sake'"
+    },
+    {
+     "id": "24:21.4",
+     "gloss": "keeping silent",
+     "sense": "Hiph 1",
+     "note": "hifil participle of חָרֵשׁ"
+    },
+    {
+     "id": "24:21.5",
+     "gloss": "to find out",
+     "sense": "Qal 1.c",
+     "note": "ל with the qal infinitive construct of יָדַע, 'find out and discern'"
+    },
+    {
+     "id": "24:21.6",
+     "gloss": "whether ... had made prosper",
+     "sense": "Hiph 1",
+     "note": "interrogative ה with the hifil perfect of צָלֵחַ; 'make prosperous'"
+    },
+    {
+     "id": "24:21.7",
+     "gloss": "the LORD",
+     "note": "יְהֹוָה"
+    },
+    {
+     "id": "24:21.8",
+     "gloss": "his way",
+     "sense": "5",
+     "note": "דֶּרֶךְ 'course of his undertaking', the errand"
+    },
+    {
+     "id": "24:21.9",
+     "gloss": "or",
+     "sense": "2",
+     "note": "אִם in אִם לֹא"
+    },
+    {
+     "id": "24:21.10",
+     "gloss": "not"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:21.1",
+      "24:21.2",
+      "24:21.3"
+     ],
+     "english": "And the man was astonished at her",
+     "literal": "'and-the-man astonished to-her'"
+    },
+    {
+     "tokens": [
+      "24:21.4"
+     ],
+     "english": "keeping silent",
+     "literal": "'silent'"
+    },
+    {
+     "tokens": [
+      "24:21.5"
+     ],
+     "english": "to find out",
+     "literal": "'to-find-out'"
+    },
+    {
+     "tokens": [
+      "24:21.6",
+      "24:21.7",
+      "24:21.8"
+     ],
+     "english": "whether the LORD had made his way prosper",
+     "literal": "'whether made-prosper the-LORD his-way'"
+    },
+    {
+     "tokens": [
+      "24:21.9",
+      "24:21.10"
+     ],
+     "english": "or not",
+     "literal": "'if not'"
+    }
+   ],
+   "grammar": [
+    "וְהָאִישׁ מִשְׁתָּאֵה לָהּ מַחֲרִישׁ: two participles, hitpaʿel and hifil, describe the man's state; the English supplies 'was'.",
+    "לָדַעַת: the infinitive construct of יָדַע with ל of purpose, 'in order to find out'.",
+    "הַהִצְלִיחַ: the interrogative ה with the hifil perfect; the question ends in אִם לֹא, 'or not'.",
+    "The zaqef gadol on מַחֲרִישׁ divides the verse; the silluq on לֹא closes it."
+   ],
+   "note": "The LORD: יְהֹוָה is rendered in the usual English form; the decisions give no rule for the bare name. Ibn Ezra's 'like משתומם' and Rashi's 'amazed' agree on the sense of מִשְׁתָּאֵה, so the English takes it.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:21:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: מִשְׁתָּאֵה is like מִשְׁתּוֹמֵם, 'astonished', from the root of שָׁאוּ עָרִים (Isaiah 6:11)."
+    },
+    {
+     "anchor": "ibn-ezra:24:21:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: לָהּ means 'for her sake' (like בִּשְׁבִילָהּ); the ת belongs to the hitpaʿel, and the word cannot come from שָׁתָה ('drink')."
+    },
+    {
+     "anchor": "rashi:24:21:2",
+     "relation": "follows",
+     "summary": "Rashi: he was amazed and startled, seeing that his errand was close to success, but he did not know whether she was of Abraham's family."
+    },
+    {
+     "anchor": "rashi:24:21:3",
+     "relation": "follows",
+     "summary": "Rashi: מִשְׁתּוֹמֵם עָלֶיהָ, 'amazed at her'."
+    },
+    {
+     "anchor": "radak:24:21:1",
+     "relation": "follows",
+     "summary": "Radak: he was amazed at her, seeing how quickly she acted, and kept silent without asking whose daughter she was until the camels had drunk."
+    },
+    {
+     "anchor": "radak:24:21:2",
+     "relation": "records",
+     "summary": "Radak: the question 'whether the LORD had made his way prosper, or not' means whether she is a good woman of Abraham's family or not. The English keeps the plain sense of the question."
+    },
+    {
+     "anchor": "sforno:24:21:1",
+     "relation": "follows",
+     "summary": "Sforno: he was astonished at the great eagerness with which she did the kindness."
+    },
+    {
+     "anchor": "rashi:24:21:1",
+     "relation": "follows",
+     "summary": "Rashi: מִשְׁתָּאֵה is of the language of שְׁאִיָּה, as in 'cities lie waste' (שָׁאוּ עָרִים) and 'the desolation is laid waste' (תִּשָּׁאֶה שְׁמָמָה), Isaiah 6:11."
+    },
+    {
+     "anchor": "sforno:24:21:2",
+     "relation": "not-applicable",
+     "summary": "Sforno: he was silent and did not say 'do not trouble yourself so much', as courtesy would require, in order to recognise her kindness and eagerness."
+    },
+    {
+     "anchor": "sforno:24:21:3",
+     "relation": "not-applicable",
+     "summary": "Sforno: whether it would be on the side of good and complete kindness."
+    },
+    {
+     "anchor": "sforno:24:21:4",
+     "relation": "not-applicable",
+     "summary": "Sforno: and whether all this was done in hope of some reward."
+    }
+   ]
+  },
+  {
+   "ref": "24:22",
+   "english": "And it came to pass, when the camels had finished drinking, that the man took a gold ring of half a shekel by weight, and two bracelets on her hands, ten shekels of gold by weight.",
+   "literal": "and-it-was when finished the-camels to-drink and-took the-man ring of-gold half its-weight and-two bracelets upon hands-her ten gold their-weight",
+   "tokens": [
+    {
+     "id": "24:22.1",
+     "gloss": "And it came to pass",
+     "sense": "Qal I.2.a.(1)",
+     "note": "wayyiqtol of הָיָה"
+    },
+    {
+     "id": "24:22.2",
+     "gloss": "when",
+     "sense": "3",
+     "note": "כַּאֲשֶׁר, temporal"
+    },
+    {
+     "id": "24:22.3",
+     "gloss": "had finished",
+     "sense": "Pi 1.a",
+     "note": "piel perfect, common plural; the camels are the subject"
+    },
+    {
+     "id": "24:22.4",
+     "gloss": "the camels",
+     "sense": "2"
+    },
+    {
+     "id": "24:22.5",
+     "gloss": "drinking",
+     "note": "qal infinitive construct; the entry lists only a Niph sense"
+    },
+    {
+     "id": "24:22.6",
+     "gloss": "took",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "24:22.7",
+     "gloss": "the man"
+    },
+    {
+     "id": "24:22.8",
+     "gloss": "a ring",
+     "note": "נֶזֶם: a ring; Ibn Ezra says it may be worn in the nose or in the ear, and 24:47 has the servant put it on her nose. The entry gives no senses."
+    },
+    {
+     "id": "24:22.9",
+     "gloss": "of gold",
+     "sense": "6",
+     "note": "gold as material, the absolute after the construct נֶזֶם"
+    },
+    {
+     "id": "24:22.10",
+     "gloss": "half",
+     "note": "בֶּקַע: half of a shekel (Ibn Ezra)"
+    },
+    {
+     "id": "24:22.11",
+     "gloss": "by its weight",
+     "note": "מִשְׁקָל with the suffix ־וֹ 'its'"
+    },
+    {
+     "id": "24:22.12",
+     "gloss": "and two"
+    },
+    {
+     "id": "24:22.13",
+     "gloss": "bracelets",
+     "note": "plural; one bracelet on each hand (Ibn Ezra)"
+    },
+    {
+     "id": "24:22.14",
+     "gloss": "on",
+     "sense": "II.1.a.(a)"
+    },
+    {
+     "id": "24:22.15",
+     "gloss": "her hands",
+     "sense": "1",
+     "note": "dual construct with the suffix ־הָ 'her'"
+    },
+    {
+     "id": "24:22.16",
+     "gloss": "ten"
+    },
+    {
+     "id": "24:22.17",
+     "gloss": "gold",
+     "sense": "9",
+     "note": "gold as measure of weight; the Hebrew names no unit, and 'shekels' is added in the English, understood from בֶּקַע 'half (a shekel)' and the Targum's סִלְעִין"
+    },
+    {
+     "id": "24:22.18",
+     "gloss": "by their weight",
+     "note": "מִשְׁקָל with the suffix ־ם 'their'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:22.1"
+     ],
+     "english": "And it came to pass",
+     "literal": "'and-it-was'"
+    },
+    {
+     "tokens": [
+      "24:22.2",
+      "24:22.3",
+      "24:22.4",
+      "24:22.5"
+     ],
+     "english": "when the camels had finished drinking",
+     "literal": "'when finished the-camels to-drink'"
+    },
+    {
+     "tokens": [
+      "24:22.6",
+      "24:22.7"
+     ],
+     "english": "the man took",
+     "literal": "'and-took the-man'"
+    },
+    {
+     "tokens": [
+      "24:22.8",
+      "24:22.9"
+     ],
+     "english": "a gold ring",
+     "literal": "'ring of-gold'"
+    },
+    {
+     "tokens": [
+      "24:22.10",
+      "24:22.11"
+     ],
+     "english": "of half a shekel by weight",
+     "literal": "'half its-weight'"
+    },
+    {
+     "tokens": [
+      "24:22.12",
+      "24:22.13"
+     ],
+     "english": "and two bracelets",
+     "literal": "'and-two bracelets'"
+    },
+    {
+     "tokens": [
+      "24:22.14",
+      "24:22.15"
+     ],
+     "english": "on her hands",
+     "literal": "'upon hands-her'"
+    },
+    {
+     "tokens": [
+      "24:22.16",
+      "24:22.17",
+      "24:22.18"
+     ],
+     "english": "ten shekels of gold by weight",
+     "literal": "'ten gold their-weight'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי כַּאֲשֶׁר: a wayyiqtol of הָיָה with a temporal clause, 'it came to pass when'.",
+    "נֶזֶם זָהָב, בֶּקַע מִשְׁקָלוֹ, עֲשָׂרָה זָהָב מִשְׁקָלָם: the material is named, then the weight, with the suffix on מִשְׁקָל.",
+    "וּשְׁנֵי צְמִידִים עַל־יָדֶיהָ: the dual יָדֶיהָ is 'her two hands'; the bracelets are plural.",
+    "The verse has no verb for putting the ring or the bracelets on her: the placing is not stated (see Ramban in the commentary)."
+   ],
+   "note": "The Hebrew names no unit for the ten; the English supplies 'shekels', understood from בֶּקַע, half a shekel (Ibn Ezra), and the Targum's סִלְעִין. The ring is given as a ring, as the verse says; 24:47 places it on her nose. The ring and bracelets are given by weight, not by piece.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:22:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: there is a נֶזֶם worn in the nose and also in the ear; the one on the nose hangs down from a cord tied on the forehead."
+    },
+    {
+     "anchor": "ibn-ezra:24:22:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: בֶּקַע means half (a shekel), from the root of נִבְקַע, 'split'."
+    },
+    {
+     "anchor": "ibn-ezra:24:22:3",
+     "relation": "follows",
+     "summary": "Ibn Ezra: צְמִידִים comes from the root of צָמִיד, a tied cord (Numbers 19:15); there is one bracelet on each hand, so two, and their shape is known."
+    },
+    {
+     "anchor": "ramban:24:22:1",
+     "relation": "records",
+     "summary": "Ramban: the verse omits the act of giving. He takes it that the ring and bracelets were taken for her, and that after she named her family he set the ring on her nose and the bracelets on her hands, as he had said to them. The English does not adopt this."
+    },
+    {
+     "anchor": "radak:24:22:1",
+     "relation": "records",
+     "summary": "Radak: he gave her the ring after asking whose daughter she was; the narrative tells it in that order, the question first and then the gift. The verse's order is kept in the English."
+    },
+    {
+     "anchor": "radak:24:22:2",
+     "relation": "follows",
+     "summary": "Radak: בֶּקַע is half a shekel; he put it on her nose, as the servant later tells (24:47), and likewise the two bracelets on her hands."
+    },
+    {
+     "anchor": "radak:24:22:3",
+     "relation": "follows",
+     "summary": "Radak: 'ten of gold' is as the Targum renders it."
+    },
+    {
+     "anchor": "rashi:24:22:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: an allusion to the half-shekel of Israel for the head."
+    },
+    {
+     "anchor": "rashi:24:22:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: an allusion to the two tablets joined together."
+    },
+    {
+     "anchor": "rashi:24:22:3",
+     "relation": "not-applicable",
+     "summary": "Rashi: an allusion to the ten commandments."
+    },
+    {
+     "anchor": "sforno:24:22:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: this was some time after she had finished watering; he saw she asked nothing, and her deeds were all full kindness."
+    },
+    {
+     "anchor": "sforno:24:22:2",
+     "relation": "records",
+     "summary": "Sforno: the bracelets were fitting for the measure of her hands, as in 'make chains on the breastplate' (Exodus 28:22) and 'make a gold rim on it' (Exodus 25:11), 'on' meaning fitting their measures."
+    }
+   ],
+   "apparatus": [
+    "Ramban reads the verse as eliding the placing of the ring and bracelets; the English keeps the verse's own words."
+   ],
+   "context": [
+    "The shekel was a unit of weight; gold and silver were weighed in shekels before coined money came into use in the region. The text gives the weight of the gold, not the number of pieces.",
+    "This verse does not say where the ring went; at 24:47 the servant says he put it on her nose. Ibn Ezra says a נֶזֶם may be worn in the nose or in the ear, and that the nose kind hangs from a cord tied on the forehead."
+   ]
+  },
+  {
+   "ref": "24:23",
+   "english": "And he said, \"Whose daughter are you? Tell me, please: is there room in your father's house for us to lodge?\"",
+   "literal": "and-said daughter-of whose you tell please to-me is-there house-of father-your room for-us to-lodge",
+   "tokens": [
+    {
+     "id": "24:23.1",
+     "gloss": "And he said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "24:23.2",
+     "gloss": "daughter of",
+     "sense": "9",
+     "note": "בַּת as a relational noun"
+    },
+    {
+     "id": "24:23.3",
+     "gloss": "whose",
+     "sense": "b",
+     "note": "interrogative מִי"
+    },
+    {
+     "id": "24:23.4",
+     "gloss": "you",
+     "note": "independent pronoun, feminine singular"
+    },
+    {
+     "id": "24:23.5",
+     "gloss": "Tell",
+     "sense": "Hiph",
+     "note": "hifil imperative, feminine singular, addressed to the girl"
+    },
+    {
+     "id": "24:23.6",
+     "gloss": "please",
+     "note": "the particle נָא"
+    },
+    {
+     "id": "24:23.7",
+     "gloss": "me",
+     "note": "ל with the suffix 'me'"
+    },
+    {
+     "id": "24:23.8",
+     "gloss": "is there",
+     "sense": "2",
+     "note": "interrogative ה with יֵשׁ"
+    },
+    {
+     "id": "24:23.9",
+     "gloss": "house of",
+     "sense": "1",
+     "note": "construct of בַּיִת"
+    },
+    {
+     "id": "24:23.10",
+     "gloss": "your father",
+     "sense": "1",
+     "note": "construct with the suffix ־ךְ 'your' (second feminine singular); the pack's parse gives third person, and the English follows the Hebrew"
+    },
+    {
+     "id": "24:23.11",
+     "gloss": "room",
+     "sense": "5.a",
+     "note": "space, room"
+    },
+    {
+     "id": "24:23.12",
+     "gloss": "for us",
+     "note": "ל with the suffix 'us'"
+    },
+    {
+     "id": "24:23.13",
+     "gloss": "to lodge",
+     "sense": "Qal 1",
+     "note": "ל with the infinitive לִין. The parse is qal; Ibn Ezra and Radak read a hifil (causative), recorded in the commentary"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:23.1"
+     ],
+     "english": "And he said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "24:23.2",
+      "24:23.3",
+      "24:23.4"
+     ],
+     "english": "Whose daughter are you",
+     "literal": "'daughter-of whose you'"
+    },
+    {
+     "tokens": [
+      "24:23.5",
+      "24:23.6",
+      "24:23.7"
+     ],
+     "english": "Tell me, please",
+     "literal": "'tell please to-me'"
+    },
+    {
+     "tokens": [
+      "24:23.8"
+     ],
+     "english": "is there",
+     "literal": "'is-there'"
+    },
+    {
+     "tokens": [
+      "24:23.9",
+      "24:23.10"
+     ],
+     "english": "your father's house",
+     "literal": "'house-of father-your'"
+    },
+    {
+     "tokens": [
+      "24:23.11"
+     ],
+     "english": "room",
+     "literal": "'room'"
+    },
+    {
+     "tokens": [
+      "24:23.12",
+      "24:23.13"
+     ],
+     "english": "for us to lodge",
+     "literal": "'for-us to-lodge'"
+    }
+   ],
+   "grammar": [
+    "בַּת־מִי אַתְּ: a nominal clause, 'whose daughter are you', with the independent pronoun אַתְּ, feminine.",
+    "הַגִּידִי נָא לִי: a hifil imperative, feminine singular, 'tell me, please', addressed to the girl.",
+    "הֲיֵשׁ בֵּית־אָבִיךְ מָקוֹם לָנוּ לָלִין: the interrogative ה with יֵשׁ, 'is there'; the construct 'house of your father'.",
+    "לָלִין is an infinitive with ל of purpose; the parse is qal, and Ibn Ezra reads it as hifil."
+   ],
+   "note": "The form לָלִין (with yod) is kept as the pack's qal infinitive construct, so the sense path is Qal 1. Ibn Ezra's hifil reading is recorded below, not adopted, because the morphology data is not overridden.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:23:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: לָלִין is from the heavier, added binyan (hifil, the causative), since the light stem is לָלוּן. The English keeps the qal the parse gives."
+    },
+    {
+     "anchor": "radak:24:23:4",
+     "relation": "records",
+     "summary": "Radak: the form with yod is hifil and the form with waw is qal, and the two are one in meaning here: the request and the answer both concern the lodging of the men and the camels."
+    },
+    {
+     "anchor": "radak:24:23:5",
+     "relation": "records",
+     "summary": "Radak: the verb is transitive, like 'they lodge naked' (Job 24:7): he asked for a place for the camels to lodge, and she answered that there is a place for them in her father's house as well."
+    },
+    {
+     "anchor": "rashi:24:23:2",
+     "relation": "records",
+     "summary": "Rashi: לִין is a noun for a single lodging, and the form לָלוּן, which she uses, means several lodgings."
+    },
+    {
+     "anchor": "rashi:24:23:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: after he had given her the ring, he asked her, trusting in Abraham's merit that the Holy One made his way prosper."
+    },
+    {
+     "anchor": "radak:24:23:1",
+     "relation": "not-applicable",
+     "summary": "Radak: he came to her with a reason for asking whose daughter she was."
+    },
+    {
+     "anchor": "radak:24:23:3",
+     "relation": "records",
+     "summary": "Radak: לָלִין is as לְהָלִין (the causative)."
+    },
+    {
+     "anchor": "sforno:24:23:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: a place made ready for receiving guests, as was their custom then."
+    },
+    {
+     "anchor": "sforno:24:23:2",
+     "relation": "records",
+     "summary": "Sforno: לָלִין means that we lodge our camels there, a causative sense."
+    }
+   ],
+   "apparatus": [
+    "The form לָלִין (with yod): the pack's parse is qal infinitive construct; Ibn Ezra and Radak read a hifil (causative). The qal sense is used, and the hifil reading is recorded in the commentary."
+   ]
+  },
+  {
+   "ref": "24:24",
+   "english": "And she said to him, \"I am the daughter of Bethuel, son of Milcah, whom she bore to Nahor.\"",
+   "literal": "and-said to-him daughter-of Bethuel I son-of Milcah which bore to-Nahor",
+   "tokens": [
+    {
+     "id": "24:24.1",
+     "gloss": "And she said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "24:24.2",
+     "gloss": "to him",
+     "sense": "1",
+     "note": "אֶל with the suffix ־וֹ 'him'"
+    },
+    {
+     "id": "24:24.3",
+     "gloss": "daughter of",
+     "sense": "9",
+     "note": "בַּת as a relational noun"
+    },
+    {
+     "id": "24:24.4",
+     "gloss": "Bethuel",
+     "note": "proper name"
+    },
+    {
+     "id": "24:24.5",
+     "gloss": "I",
+     "note": "independent pronoun, first singular"
+    },
+    {
+     "id": "24:24.6",
+     "gloss": "son of",
+     "sense": "1",
+     "note": "בֶּן in construct with מִלְכָּה"
+    },
+    {
+     "id": "24:24.7",
+     "gloss": "Milcah",
+     "sense": "1",
+     "note": "wife of Nahor, the lexicon's first sense"
+    },
+    {
+     "id": "24:24.8",
+     "gloss": "whom",
+     "note": "relative אֲשֶׁר"
+    },
+    {
+     "id": "24:24.9",
+     "gloss": "she bore",
+     "sense": "Qal 1",
+     "note": "qatal feminine singular; Milcah is the subject"
+    },
+    {
+     "id": "24:24.10",
+     "gloss": "to Nahor",
+     "sense": "2",
+     "note": "ל with the proper name Nahor, son of Terah and brother of Abraham"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:24.1",
+      "24:24.2"
+     ],
+     "english": "And she said to him",
+     "literal": "'and-said to-him'"
+    },
+    {
+     "tokens": [
+      "24:24.3",
+      "24:24.4",
+      "24:24.5"
+     ],
+     "english": "I am the daughter of Bethuel",
+     "literal": "'daughter-of Bethuel I'"
+    },
+    {
+     "tokens": [
+      "24:24.6",
+      "24:24.7"
+     ],
+     "english": "son of Milcah",
+     "literal": "'son-of Milcah'"
+    },
+    {
+     "tokens": [
+      "24:24.8",
+      "24:24.9",
+      "24:24.10"
+     ],
+     "english": "whom she bore to Nahor",
+     "literal": "'which bore to-Nahor'"
+    }
+   ],
+   "grammar": [
+    "וַתֹּאמֶר אֵלָיו: the girl answers the man's question, 'daughter of Bethuel', first.",
+    "בַּת בְּתוּאֵל אָנֹכִי: a nominal clause with the independent pronoun אָנֹכִי, 'I', at the end.",
+    "בֶּן־מִלְכָּה אֲשֶׁר יָלְדָה לְנָחוֹר: a relative clause with אֲשֶׁר; the subject of יָלְדָה is Milcah.",
+    "The zaqef gadol on מִלְכָּה closes the first part of the answer; the silluq on לְנָחוֹר closes the verse."
+   ],
+   "commentary": [
+    {
+     "anchor": "rashi:24:24:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: she answered the first question first and the last question last."
+    },
+    {
+     "anchor": "radak:24:24:1",
+     "relation": "not-applicable",
+     "summary": "Radak: she answered the first question; Milcah and Nahor were known, so she said all of this."
+    }
+   ],
+   "context": [
+    "Nahor was Abraham's brother, and Milcah, his wife, was the daughter of their brother Haran (11:27–29; 22:20–23); Bethuel was thus Abraham's nephew and Rebekah his great-niece."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1045 @@
+{
+ "unit": "chayei-sarah-11",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "24:57",
+   "english": "They said, \"Let us call the girl and ask what she says.\"",
+   "literal": "and-they-said let-us-call to-the-girl and-let-us-ask (obj) her-mouth",
+   "tokens": [
+    {
+     "id": "24:57.1",
+     "gloss": "and they said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd masculine plural; the speakers are not named in the verse"
+    },
+    {
+     "id": "24:57.2",
+     "gloss": "let us call",
+     "sense": "Qal 5",
+     "note": "yiqtol, 1st plural, used as a cohortative: 'let us call'"
+    },
+    {
+     "id": "24:57.3",
+     "gloss": "the girl",
+     "sense": "1",
+     "note": "the lamed marks the one addressed by the call: 'call to the girl'"
+    },
+    {
+     "id": "24:57.4",
+     "gloss": "and let us ask",
+     "sense": "Qal 1.a",
+     "note": "cohortative, 1st plural, with the -ah ending"
+    },
+    {
+     "id": "24:57.5",
+     "gloss": "-"
+    },
+    {
+     "id": "24:57.6",
+     "gloss": "what she says",
+     "sense": "2.a",
+     "note": "idiom: 'her mouth' (פִּיהָ) is her own word; the construct of פֶּה with a 3rd feminine singular suffix"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:57.1"
+     ],
+     "english": "They said,",
+     "literal": "and-they-said"
+    },
+    {
+     "tokens": [
+      "24:57.2",
+      "24:57.3"
+     ],
+     "english": "let us call the girl",
+     "literal": "let-us-call to-the-girl"
+    },
+    {
+     "tokens": [
+      "24:57.4",
+      "24:57.5",
+      "24:57.6"
+     ],
+     "english": "and ask what she says",
+     "literal": "and-let-us-ask (obj) her-mouth"
+    }
+   ],
+   "grammar": [
+    "וַיֹּאמְרוּ has no named subject in the verse; the family of verse 55 is the only group the context offers, and the English keeps 'they'.",
+    "נִקְרָא and וְנִשְׁאֲלָה are both first-person plural: a yiqtol and a cohortative in -ah. Together they give 'let us call ... let us ask'.",
+    "The etnaḥta on לַנַּעֲרָ divides the verse: the call comes before it, the request to ask the girl after it.",
+    "The object marker before פִּיהָ introduces the object of the second verb; the noun is the construct of פֶּה with its suffix."
+   ],
+   "note": "פִּיהָ: 'her mouth' is the idiom for her own word. The English gives the sense; the consent it implies is named in the commentary.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:57:1",
+     "relation": "not-applicable",
+     "summary": "Rashi, on 'and let us ask her mouth', takes from it the rule that a woman is not given in marriage without her own consent (Bereshit Rabbah). This is a law drawn from the words, not their plain sense."
+    },
+    {
+     "anchor": "radak:24:57:2",
+     "relation": "records",
+     "summary": "Radak reads the words as 'what she will say if she is willing to go from now', since she had been asked about the marriage before, when the family said 'take her and go' (24:51). The English keeps 'her own word' and does not add the question of going at once."
+    },
+    {
+     "anchor": "sforno:24:57:1",
+     "relation": "records",
+     "summary": "Sforno: the asking is whether her mind is ready to go with the servant now. The English does not take up the point of going at once."
+    }
+   ],
+   "apparatus": [
+    "Targum Onkelos renders the request as 'and we will hear what she says' (ונשמע מה דהיא אמרה), which turns the asking into a hearing of her answer; the English keeps the asking."
+   ]
+  },
+  {
+   "ref": "24:58",
+   "english": "They called Rebekah and said to her, \"Will you go with this man?\" She said, \"I will go.\"",
+   "literal": "and-they-called to-Rebekah and-they-said to-her shall-you-go with the-man the-this and-she-said I-will-go",
+   "tokens": [
+    {
+     "id": "24:58.1",
+     "gloss": "and they called",
+     "sense": "Qal 5",
+     "note": "wayyiqtol, 3rd masculine plural"
+    },
+    {
+     "id": "24:58.2",
+     "gloss": "Rebekah",
+     "note": "the lamed marks the direction of the call"
+    },
+    {
+     "id": "24:58.3",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd masculine plural"
+    },
+    {
+     "id": "24:58.4",
+     "gloss": "to her",
+     "sense": "1"
+    },
+    {
+     "id": "24:58.5",
+     "gloss": "will you go",
+     "sense": "Qal I.1",
+     "note": "yiqtol, 2nd feminine singular, with the interrogative הֲ: a question, not a statement"
+    },
+    {
+     "id": "24:58.6",
+     "gloss": "with",
+     "sense": "1"
+    },
+    {
+     "id": "24:58.7",
+     "gloss": "the man"
+    },
+    {
+     "id": "24:58.8",
+     "gloss": "this",
+     "sense": "2",
+     "note": "demonstrative in apposition: 'the man, this'"
+    },
+    {
+     "id": "24:58.9",
+     "gloss": "and she said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine singular"
+    },
+    {
+     "id": "24:58.10",
+     "gloss": "I will go",
+     "sense": "Qal I.1",
+     "note": "yiqtol, 1st singular: Rebekah's answer in her own voice"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:58.1",
+      "24:58.2"
+     ],
+     "english": "They called Rebekah",
+     "literal": "'and-they-called to-Rebekah'"
+    },
+    {
+     "tokens": [
+      "24:58.3",
+      "24:58.4"
+     ],
+     "english": "and said to her,",
+     "literal": "'and-they-said to-her'"
+    },
+    {
+     "tokens": [
+      "24:58.5",
+      "24:58.6",
+      "24:58.7",
+      "24:58.8"
+     ],
+     "english": "Will you go with this man?",
+     "literal": "'shall-you-go with the-man the-this'"
+    },
+    {
+     "tokens": [
+      "24:58.9",
+      "24:58.10"
+     ],
+     "english": "She said, \"I will go.\"",
+     "literal": "'and-she-said I-will-go'"
+    }
+   ],
+   "grammar": [
+    "Two speeches: the family's question (58.5 to 58.8) and Rebekah's answer (58.10), each in the person of its speaker.",
+    "The etnaḥta on הַזֶּה (58.8) divides the verse: the summons and the question come before it, the answer after it.",
+    "הֲתֵלְכִי is a yes-or-no question put to Rebekah directly, in the second feminine singular.",
+    "אֵלֵךְ is a single first-person verb with no object; her answer is one word of motion.",
+    "The wayyiqtols carry the narration: they called, they said, she said."
+   ],
+   "note": "The question is addressed to Rebekah and is not reported; the answer is hers.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:58:1",
+     "relation": "records",
+     "summary": "Rashi glosses her answer as her own will (מֵעַצְמִי), 'even if you do not wish'. The English does not add that she went against their will; the gloss is kept here."
+    }
+   ]
+  },
+  {
+   "ref": "24:59",
+   "english": "They sent off Rebekah their sister, and her nurse, and Abraham's servant, and his men.",
+   "literal": "and-they-sent-away (obj) Rebekah their-sister and-(obj) her-nurse and-(obj) servant of-Abraham and-(obj) his-men",
+   "tokens": [
+    {
+     "id": "24:59.1",
+     "gloss": "they sent off",
+     "sense": "Pi 1",
+     "note": "wayyiqtol, piel, 3rd masculine plural: the family sends the party off"
+    },
+    {
+     "id": "24:59.2",
+     "gloss": "-"
+    },
+    {
+     "id": "24:59.3",
+     "gloss": "Rebekah"
+    },
+    {
+     "id": "24:59.4",
+     "gloss": "their sister",
+     "sense": "1",
+     "note": "construct with the 3rd masculine plural suffix"
+    },
+    {
+     "id": "24:59.5",
+     "gloss": "and"
+    },
+    {
+     "id": "24:59.6",
+     "gloss": "her nurse",
+     "sense": "Hiph",
+     "note": "Hiphil participle of 'suckle', feminine, in the construct with the 3rd feminine singular suffix"
+    },
+    {
+     "id": "24:59.7",
+     "gloss": "and"
+    },
+    {
+     "id": "24:59.8",
+     "gloss": "servant",
+     "sense": "1",
+     "note": "construct: 'servant of Abraham', with no article"
+    },
+    {
+     "id": "24:59.9",
+     "gloss": "of Abraham"
+    },
+    {
+     "id": "24:59.10",
+     "gloss": "and"
+    },
+    {
+     "id": "24:59.11",
+     "gloss": "his men"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:59.1",
+      "24:59.2",
+      "24:59.3",
+      "24:59.4"
+     ],
+     "english": "They sent off Rebekah their sister",
+     "literal": "and-they-sent-away (obj) Rebekah their-sister"
+    },
+    {
+     "tokens": [
+      "24:59.5",
+      "24:59.6"
+     ],
+     "english": "and her nurse",
+     "literal": "and-(obj) her-nurse"
+    },
+    {
+     "tokens": [
+      "24:59.7",
+      "24:59.8",
+      "24:59.9"
+     ],
+     "english": "and Abraham's servant",
+     "literal": "and-(obj) servant of-Abraham"
+    },
+    {
+     "tokens": [
+      "24:59.10",
+      "24:59.11"
+     ],
+     "english": "and his men",
+     "literal": "and-(obj) his-men"
+    }
+   ],
+   "grammar": [
+    "One verb governs four objects, and the object marker stands before each (אֵת, then וְאֵת three times), so the verse is a list.",
+    "The tipḥa on אֲחֹתָם ends the first object, Rebekah with the epithet 'their sister'; the silluq on אֲנָשָׁיו ends the list.",
+    "The nurse, מֵנִקְתָּהּ, is a Hiphil participle in the feminine with the 3rd feminine singular suffix; the English 'her nurse' keeps that form.",
+    "The servant is in the construct with Abraham (עֶבֶד אַבְרָהָם), with no article, so the English reads 'Abraham's servant'."
+   ],
+   "note": "Rebekah is called their sister, the family's sister, not his: the English 'their sister' keeps the plural suffix.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:59:1",
+     "relation": "not-applicable",
+     "summary": "On her nurse (מֵנִקְתָּהּ) the pack gives only Ibn Ezra's words 'in the ancient days' (בימים הקדמונים), with nothing after them. He gives no sense of the word, so the comment does not bear on the English."
+    }
+   ]
+  },
+  {
+   "ref": "24:60",
+   "english": "They blessed Rebekah and said to her, \"Our sister, may you become thousands of myriads, and may your seed possess the gate of those who hate him.\"",
+   "literal": "and-they-blessed (obj) Rebekah and-they-said to-her our-sister you be to-thousands-of myriad and-may-possess your-seed (obj) gate-of his-haters",
+   "tokens": [
+    {
+     "id": "24:60.1",
+     "gloss": "and they blessed",
+     "sense": "Pi 3",
+     "note": "wayyiqtol, piel, 3rd masculine plural; the lexicon glosses Pi 3 as men blessing men"
+    },
+    {
+     "id": "24:60.2",
+     "gloss": "-"
+    },
+    {
+     "id": "24:60.3",
+     "gloss": "Rebekah"
+    },
+    {
+     "id": "24:60.4",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd masculine plural"
+    },
+    {
+     "id": "24:60.5",
+     "gloss": "to her"
+    },
+    {
+     "id": "24:60.6",
+     "gloss": "our sister",
+     "sense": "1"
+    },
+    {
+     "id": "24:60.7",
+     "gloss": "you"
+    },
+    {
+     "id": "24:60.8",
+     "gloss": "may you become",
+     "sense": "Qal II.1.b",
+     "note": "imperative, 2nd feminine singular (הֲיִי), read as a wish; the he takes shewa and patah"
+    },
+    {
+     "id": "24:60.9",
+     "gloss": "thousands of"
+    },
+    {
+     "id": "24:60.10",
+     "gloss": "myriads"
+    },
+    {
+     "id": "24:60.11",
+     "gloss": "and may possess",
+     "sense": "Qal 1",
+     "note": "yiqtol, 3rd masculine singular, in a wish"
+    },
+    {
+     "id": "24:60.12",
+     "gloss": "your seed",
+     "sense": "4"
+    },
+    {
+     "id": "24:60.13",
+     "gloss": "-"
+    },
+    {
+     "id": "24:60.14",
+     "gloss": "gate"
+    },
+    {
+     "id": "24:60.15",
+     "gloss": "those who hate him",
+     "sense": "Qal",
+     "note": "participle, masculine plural, in the construct with the 3rd masculine singular suffix"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:60.1",
+      "24:60.2",
+      "24:60.3"
+     ],
+     "english": "They blessed Rebekah",
+     "literal": "'and-they-blessed (obj) Rebekah'"
+    },
+    {
+     "tokens": [
+      "24:60.4",
+      "24:60.5"
+     ],
+     "english": "and said to her,",
+     "literal": "'and-they-said to-her'"
+    },
+    {
+     "tokens": [
+      "24:60.6",
+      "24:60.7",
+      "24:60.8"
+     ],
+     "english": "Our sister, may you become",
+     "literal": "'our-sister you be'"
+    },
+    {
+     "tokens": [
+      "24:60.9",
+      "24:60.10"
+     ],
+     "english": "thousands of myriads,",
+     "literal": "'to-thousands-of myriad'"
+    },
+    {
+     "tokens": [
+      "24:60.11",
+      "24:60.12"
+     ],
+     "english": "and may your seed possess",
+     "literal": "'and-may-possess your-seed'"
+    },
+    {
+     "tokens": [
+      "24:60.13",
+      "24:60.14",
+      "24:60.15"
+     ],
+     "english": "the gate of those who hate him.",
+     "literal": "'(obj) gate-of his-haters'"
+    }
+   ],
+   "grammar": [
+    "The speech is a blessing in two wishes: the first on Rebekah (you become thousands of myriads), the second on her seed (your seed possesses the gate of his haters).",
+    "The imperative הֲיִי is second feminine singular; Radak notes that its he takes shewa and patah. The emphatic אַתְּ comes before the verb: 'you, be'.",
+    "The etnaḥta on רְבָבָה divides the blessing at 'thousands of myriads'; the second wish begins with the waw of וְיִירַשׁ.",
+    "The object marker before שַׁעַר makes the gate the object of 'possess'; the construct שַׁעַר שֹׂנְאָיו is 'the gate of his haters'.",
+    "The suffix on שֹׂנְאָיו is 3rd masculine singular; its antecedent is the masculine זֶרַע, so 'him' in the English refers to the seed."
+   ],
+   "note": "The English 'those who hate him' keeps the 3rd masculine singular suffix, whose antecedent is the masculine זֶרַע.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:60:1",
+     "relation": "records",
+     "summary": "Rashi reads the wish as a promise that Rebekah and her seed will receive the blessing said to Abraham on Mount Moriah, and that the seed will come from her and not from another wife. The English keeps a wish; Rashi's reading is recorded here."
+    }
+   ],
+   "apparatus": [
+    "24:60.1: the base text reads וַיְבָרְכוּ; the WLC reads וַיְבָרֲכוּ, with a different vowel under the second letter. The English is the same either way."
+   ],
+   "context": [
+    "רְבָבָה is ten thousand, so 'thousands of myriads' is a very great number, not a count. In the second wish, 'possess the gate' of the haters means to hold their city: the gate was the city's entry, its defence and its seat of judgment. The wording echoes the promise to Abraham in 22:17, where the seed 'shall possess the gate of his enemies'; here the word is 'those who hate him'."
+   ]
+  },
+  {
+   "ref": "24:61",
+   "english": "Rebekah rose with her maids, and they mounted the camels and went after the man. The servant took Rebekah and went.",
+   "literal": "and-she-arose Rebekah and-her-maids and-they-mounted on the-camels and-they-went after the-man and-he-took the-servant (obj) Rebekah and-he-went",
+   "tokens": [
+    {
+     "id": "24:61.1",
+     "gloss": "and she arose",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine singular: Rebekah alone rises"
+    },
+    {
+     "id": "24:61.2",
+     "gloss": "Rebekah"
+    },
+    {
+     "id": "24:61.3",
+     "gloss": "and her maids",
+     "sense": "2",
+     "note": "plural of נַעֲרָה, with the 3rd feminine singular suffix"
+    },
+    {
+     "id": "24:61.4",
+     "gloss": "and they mounted",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine plural: the maids mount"
+    },
+    {
+     "id": "24:61.5",
+     "gloss": "on",
+     "sense": "II.1"
+    },
+    {
+     "id": "24:61.6",
+     "gloss": "the camels",
+     "sense": "3",
+     "note": "for riding"
+    },
+    {
+     "id": "24:61.7",
+     "gloss": "and they went",
+     "sense": "Qal I.1",
+     "note": "wayyiqtol, 3rd feminine plural"
+    },
+    {
+     "id": "24:61.8",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "24:61.9",
+     "gloss": "the man"
+    },
+    {
+     "id": "24:61.10",
+     "gloss": "and he took",
+     "sense": "Qal 2",
+     "note": "wayyiqtol, 3rd masculine singular: take and carry along, the servant takes her with him"
+    },
+    {
+     "id": "24:61.11",
+     "gloss": "the servant",
+     "sense": "1"
+    },
+    {
+     "id": "24:61.12",
+     "gloss": "-"
+    },
+    {
+     "id": "24:61.13",
+     "gloss": "Rebekah"
+    },
+    {
+     "id": "24:61.14",
+     "gloss": "and he went",
+     "sense": "Qal I.1",
+     "note": "wayyiqtol, 3rd masculine singular"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:61.1",
+      "24:61.2",
+      "24:61.3"
+     ],
+     "english": "Rebekah rose with her maids,",
+     "literal": "'and-she-arose Rebekah and-her-maids'"
+    },
+    {
+     "tokens": [
+      "24:61.4",
+      "24:61.5",
+      "24:61.6"
+     ],
+     "english": "and they mounted the camels",
+     "literal": "'and-they-mounted on the-camels'"
+    },
+    {
+     "tokens": [
+      "24:61.7",
+      "24:61.8",
+      "24:61.9"
+     ],
+     "english": "and went after the man.",
+     "literal": "'and-they-went after the-man'"
+    },
+    {
+     "tokens": [
+      "24:61.10",
+      "24:61.11",
+      "24:61.12",
+      "24:61.13",
+      "24:61.14"
+     ],
+     "english": "The servant took Rebekah and went.",
+     "literal": "'and-he-took the-servant (obj) Rebekah and-he-went'"
+    }
+   ],
+   "grammar": [
+    "The wayyiqtol chain runs in three parts: Rebekah rises (3rd feminine singular); her maids mount and go (3rd feminine plural); the servant takes her and goes (3rd masculine singular).",
+    "The etnaḥta on הָאִישׁ (61.9) divides 'they went after the man' from 'the servant took Rebekah and went'.",
+    "The preposition עַל with the camels is 'on'; the English 'mounted the camels' carries that sense in the verb.",
+    "The object marker before רִבְקָה marks her as the object of 'took'; the servant is the subject (the verb is masculine singular)."
+   ],
+   "note": "The English 'the camels' follows the Hebrew. Ibn Ezra's identification of them as the servant's is commentary and is not in the English. See the context note on camels.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:61:1",
+     "relation": "records",
+     "summary": "Ibn Ezra says the camels are those the servant had brought (על הגמלים שהביא העבד). The English keeps 'the camels' as the text has them; his identification is recorded here, not adopted."
+    },
+    {
+     "anchor": "ibn-ezra:24:61:2",
+     "relation": "not-applicable",
+     "summary": "On the last word וַיֵּלַךְ, Ibn Ezra says the vowel is a pataḥ, not a qamets, even at the end of a verse, because it was first a short pataḥ and could not climb two steps; so with every וַיֹּאמַר. This concerns the vocalization and does not bear on the English."
+    },
+    {
+     "anchor": "ibn-ezra:24:61:3",
+     "relation": "records",
+     "summary": "Ibn Ezra says the sense of 'the servant took Rebekah and went' is that he was walking with Rebekah and did not notice until Isaac came. The English keeps 'went' and does not add that the going continued; the gloss on what happened is recorded here."
+    },
+    {
+     "anchor": "radak:24:61:3",
+     "relation": "records",
+     "summary": "Radak says the servant took her to his side so that she would not part from him by a single step, out of love and honour for her. The English keeps 'took'; the purpose he gives is recorded here."
+    }
+   ],
+   "context": [
+    "The camels (גְּמַלִּים): whether camels were in regular use as mounts and beasts of burden in the time of the patriarchs is disputed. Some scholars hold that such regular use is later than the period the text describes; others hold that the text is accurate to its period. The English says 'camels' and takes no side."
+   ]
+  },
+  {
+   "ref": "24:62",
+   "english": "Isaac had come from coming to Beer-lahai-roi, and he was living in the land of the Negeb.",
+   "literal": "and-Isaac came from-coming Beer-lahai-roi and-he dwelling in-land-of the-Negeb",
+   "tokens": [
+    {
+     "id": "24:62.1",
+     "gloss": "and Isaac"
+    },
+    {
+     "id": "24:62.2",
+     "gloss": "had come",
+     "sense": "Qal 2",
+     "note": "qatal, 3rd masculine singular: the arrival is completed before the verb of dwelling"
+    },
+    {
+     "id": "24:62.3",
+     "gloss": "from coming to",
+     "sense": "Qal 2",
+     "note": "infinitive construct with מִן; Ibn Ezra takes it as a verbal noun, see commentary"
+    },
+    {
+     "id": "24:62.4",
+     "gloss": "Beer-lahai-roi",
+     "note": "the name of a well; the lexicon glosses it 'well, living One that seeth me'"
+    },
+    {
+     "id": "24:62.5",
+     "gloss": "Lahai (part of the name)"
+    },
+    {
+     "id": "24:62.6",
+     "gloss": "Roi (part of the name)"
+    },
+    {
+     "id": "24:62.7",
+     "gloss": "and he"
+    },
+    {
+     "id": "24:62.8",
+     "gloss": "was living",
+     "sense": "Qal 3",
+     "note": "participle: a continuing state, 'was dwelling'"
+    },
+    {
+     "id": "24:62.9",
+     "gloss": "in the land of",
+     "sense": "2.b",
+     "note": "construct: 'the land of the Negeb'"
+    },
+    {
+     "id": "24:62.10",
+     "gloss": "the Negeb"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:62.1",
+      "24:62.2",
+      "24:62.3"
+     ],
+     "english": "Isaac had come from coming to",
+     "literal": "and-Isaac came from-coming"
+    },
+    {
+     "tokens": [
+      "24:62.4",
+      "24:62.5",
+      "24:62.6"
+     ],
+     "english": "Beer-lahai-roi,",
+     "literal": "Beer-lahai-roi"
+    },
+    {
+     "tokens": [
+      "24:62.7",
+      "24:62.8"
+     ],
+     "english": "and he was living",
+     "literal": "and-he dwelling"
+    },
+    {
+     "tokens": [
+      "24:62.9",
+      "24:62.10"
+     ],
+     "english": "in the land of the Negeb.",
+     "literal": "in-land-of the-Negeb"
+    }
+   ],
+   "grammar": [
+    "The qatal בָּא gives the arrival as a completed action; the English 'had come' keeps it earlier than the dwelling, as the Hebrew does.",
+    "מִבּוֹא is an infinitive with מִן, 'from the coming'. Ibn Ezra takes it as a verbal noun; the other readings are in the commentary.",
+    "The etnaḥta on רֹאִי (62.6) divides the verse at the place-name: the arrival from the well, then the dwelling in the Negeb.",
+    "The participle יוֹשֵׁב after וְהוּא is a descriptive clause with a pronoun subject: 'and he was dwelling'.",
+    "The name is a phrase in the Hebrew (well of the Living One who sees me); the English keeps the three parts hyphenated."
+   ],
+   "note": "'had come' is chosen because the verb is backgrounded. The Hebrew of the arrival and the dwelling are both given in the English.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:62:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra lists readings of בא מבוא: that it is a place name, a place called by two names; that some take it as 'from inside' (מבפנים), as they explain 'shutting every house from entering' (Isa 24:10). He prefers the infinitive, the name of the action, and so its sense is 'came from coming (to) Beer-lahai-roi'. The English follows him."
+    },
+    {
+     "anchor": "ibn-ezra:24:62:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: in those days Isaac was dwelling there, at the Negeb side of the land of Israel. The English gives the continuing dwelling ('was living'), which follows him; his placing of the Negeb at the southern edge of the land is not in the English."
+    },
+    {
+     "anchor": "rashi:24:62:1",
+     "relation": "declines",
+     "summary": "Rashi, citing Bereshit Rabbah, says Isaac had gone to bring Hagar for his father Abraham to marry. This is a midrash, not the plain sense of the words; the English rejects it."
+    },
+    {
+     "anchor": "rashi:24:62:2",
+     "relation": "records",
+     "summary": "Rashi places Isaac's dwelling near that well, since Abraham dwelt between Kadesh and Shur in the Negeb, where the well was. The English gives the Negeb only; Rashi's placing is recorded here."
+    },
+    {
+     "anchor": "ramban:24:62:1",
+     "relation": "records",
+     "summary": "Ramban says the infinitive may mean that Isaac kept going to that place, where he had a place of prayer and the angel was seen, and that he dwelt in the Negeb near it. He also reads the phrase as Isaac returning to his city from his journey to Beer-lahai-roi."
+    },
+    {
+     "anchor": "sforno:24:62:1",
+     "relation": "records",
+     "summary": "Sforno: Isaac came to pray in the place where his maidservant's prayer had been heard; the matter had already been settled in Haran before he prayed. The English does not take this reading."
+    },
+    {
+     "anchor": "radak:24:62:3",
+     "relation": "records",
+     "summary": "Radak says Isaac was not living at Beer-lahai-roi but in Hebron with his father; he had herds or business at that place and stayed there that day. The English keeps 'was living in the land of the Negeb' and does not place him at the well."
+    }
+   ],
+   "apparatus": [
+    "24:62.2 to 62.3: 'from inside' (מבפנים) is another reading of מִבּוֹא, which Ibn Ezra sets aside (see commentary); the English takes the infinitive."
+   ],
+   "context": [
+    "The Negeb is the dry southern region of the land. Commentators differ on where Isaac was at this time: Rashi places him near the well, and Radak has him at Hebron with his father, staying at the well for that day. The English keeps the text's words and does not settle the question."
+   ]
+  },
+  {
+   "ref": "24:63",
+   "english": "Isaac went out to walk in the field towards evening. He lifted his eyes and saw, and look, camels were coming.",
+   "literal": "and-he-went-out Isaac to-walk in-the-field to-turn evening and-he-lifted eyes-his and-he-saw and-look camels coming",
+   "tokens": [
+    {
+     "id": "24:63.1",
+     "gloss": "and went out",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol, 3rd masculine singular"
+    },
+    {
+     "id": "24:63.2",
+     "gloss": "Isaac"
+    },
+    {
+     "id": "24:63.3",
+     "gloss": "to walk",
+     "sense": "Qal",
+     "note": "infinitive construct of purpose; Ibn Ezra takes 'to walk' (more fully 'to walk among the bushes', ללכת בין השיחים); Rashi's 'to pray' and Sforno's 'pour out his complaint' are recorded in the apparatus"
+    },
+    {
+     "id": "24:63.4",
+     "gloss": "in the field",
+     "sense": "1"
+    },
+    {
+     "id": "24:63.5",
+     "gloss": "towards",
+     "sense": "Qal 1.e",
+     "note": "infinitive construct with ל: 'as the day turned towards'"
+    },
+    {
+     "id": "24:63.6",
+     "gloss": "evening",
+     "sense": "1.a"
+    },
+    {
+     "id": "24:63.7",
+     "gloss": "and he lifted",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "24:63.8",
+     "gloss": "his eyes",
+     "sense": "1"
+    },
+    {
+     "id": "24:63.9",
+     "gloss": "and he saw",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "24:63.10",
+     "gloss": "and look",
+     "note": "הִנֵּה introduces what is seen"
+    },
+    {
+     "id": "24:63.11",
+     "gloss": "camels",
+     "sense": "2",
+     "note": "as beasts of burden: the caravan"
+    },
+    {
+     "id": "24:63.12",
+     "gloss": "coming",
+     "sense": "Qal 2",
+     "note": "participle, masculine plural: 'were coming'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:63.1",
+      "24:63.2"
+     ],
+     "english": "Isaac went out",
+     "literal": "'and-he-went-out Isaac'"
+    },
+    {
+     "tokens": [
+      "24:63.3",
+      "24:63.4"
+     ],
+     "english": "to walk in the field",
+     "literal": "'to-walk in-the-field'"
+    },
+    {
+     "tokens": [
+      "24:63.5",
+      "24:63.6"
+     ],
+     "english": "towards evening.",
+     "literal": "'to-turn evening'"
+    },
+    {
+     "tokens": [
+      "24:63.7",
+      "24:63.8",
+      "24:63.9"
+     ],
+     "english": "He lifted his eyes and saw",
+     "literal": "'and-he-lifted eyes-his and-he-saw'"
+    },
+    {
+     "tokens": [
+      "24:63.10",
+      "24:63.11",
+      "24:63.12"
+     ],
+     "english": "and look, camels were coming.",
+     "literal": "'and-look camels coming'"
+    }
+   ],
+   "grammar": [
+    "Purpose: 'went out to walk', the infinitive with ל after the verb of motion.",
+    "The time phrase is an infinitive construct of פָּנָה with ל: 'towards evening'.",
+    "The wayyiqtols (went out, lifted, saw) give the sequence; then הִנֵּה with a participle gives the sight as a present scene: 'look, camels were coming'.",
+    "The etnaḥta on עָרֶב (63.6) divides the verse: going out to walk towards evening, then the seeing. The merkha on וַיֵּצֵא (63.1) is a conjunctive accent and divides nothing."
+   ],
+   "note": "לָשׂוּחַ is disputed: Ibn Ezra reads 'to walk', Rashi 'to pray'. The English 'to walk' follows Ibn Ezra, the normative commentator; see the apparatus.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:63:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra glosses לָשׂוּחַ as 'to walk among the bushes' (ללכת בין השיחים). The English takes it as 'to walk'."
+    },
+    {
+     "anchor": "ibn-ezra:24:63:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: לִפְנוֹת עֶרֶב means near the coming of the sun, the opposite of לִפְנוֹת בֹּקֶר; he says he will explain it fully in the parashah Ki Tetse. The English 'towards evening' follows him; the fuller treatment is not in the pack."
+    },
+    {
+     "anchor": "rashi:24:63:1",
+     "relation": "records",
+     "summary": "Rashi says לָשׂוּחַ is a term of prayer (לְשׁוֹן תְּפִלָּה), like the phrase 'he will pour out his complaint'. The English takes Ibn Ezra's 'to walk'; the prayer reading is recorded here."
+    },
+    {
+     "anchor": "sforno:24:63:1",
+     "relation": "records",
+     "summary": "Sforno: Isaac turned from the road, intending to pour out his complaint before the Lord in the field, so that passers-by would not interrupt him. The English does not take this reading."
+    }
+   ],
+   "apparatus": [
+    "לָשׂוּחַ: 'to walk' (Ibn Ezra, 'among the bushes'; Radak, 'to stroll among the bushes'; the lexicon 'go, rove about'); 'to pray' (Rashi, as in 'he pours out his complaint'; Targum Onkelos renders לְצַלָּאָה; Sforno, 'pour out his complaint before the Lord'). 'To meditate', the older English rendering, takes the verb as from שִׂיחַ 'musing, complaint', the same word Rashi and Sforno draw on; no commentator in the pack gives it, and the English does not take it."
+   ]
+  },
+  {
+   "ref": "24:64",
+   "english": "Rebekah lifted her eyes and saw Isaac, and she threw herself down from the camel.",
+   "literal": "and-she-lifted Rebekah (obj) her-eyes and-she-saw (obj) Isaac and-she-fell from-upon the-camel",
+   "tokens": [
+    {
+     "id": "24:64.1",
+     "gloss": "and she lifted",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd feminine singular"
+    },
+    {
+     "id": "24:64.2",
+     "gloss": "Rebekah"
+    },
+    {
+     "id": "24:64.3",
+     "gloss": "-"
+    },
+    {
+     "id": "24:64.4",
+     "gloss": "her eyes",
+     "sense": "1"
+    },
+    {
+     "id": "24:64.5",
+     "gloss": "and she saw",
+     "sense": "Qal 1.a",
+     "note": "wayyiqtol, 3rd feminine singular"
+    },
+    {
+     "id": "24:64.6",
+     "gloss": "-"
+    },
+    {
+     "id": "24:64.7",
+     "gloss": "Isaac"
+    },
+    {
+     "id": "24:64.8",
+     "gloss": "and she threw herself down",
+     "sense": "Qal 3.a",
+     "note": "wayyiqtol of 'fall'; Ibn Ezra reads it as deliberate, like 'fell on his face'; see commentary"
+    },
+    {
+     "id": "24:64.9",
+     "gloss": "from",
+     "sense": "IV.2"
+    },
+    {
+     "id": "24:64.10",
+     "gloss": "the camel",
+     "sense": "3",
+     "note": "the camel she was riding"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:64.1",
+      "24:64.2",
+      "24:64.3",
+      "24:64.4"
+     ],
+     "english": "Rebekah lifted her eyes",
+     "literal": "'and-she-lifted Rebekah (obj) her-eyes'"
+    },
+    {
+     "tokens": [
+      "24:64.5",
+      "24:64.6",
+      "24:64.7"
+     ],
+     "english": "and saw Isaac,",
+     "literal": "'and-she-saw (obj) Isaac'"
+    },
+    {
+     "tokens": [
+      "24:64.8",
+      "24:64.9",
+      "24:64.10"
+     ],
+     "english": "and she threw herself down from the camel.",
+     "literal": "'and-she-fell from-upon the-camel'"
+    }
+   ],
+   "grammar": [
+    "Three wayyiqtols have Rebekah as subject: lifted, saw, fell.",
+    "The etnaḥta on יִצְחָק (64.7) divides the seeing from the falling.",
+    "The verb נָפַל with מֵעַל gives 'from upon the camel': the place from which the movement starts.",
+    "The object marker before Isaac's name marks him as the object of 'saw'."
+   ],
+   "note": "'threw herself down' is the translation of Ibn Ezra's reading (ברצונה, by her will); the English does not take the verb as an accident. The other readings are in the commentary and apparatus.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:64:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: her falling was by her own will (ברצונה), as in 'and he fell on his face' (ויפול על פניו, Num 16:4): she threw herself down on purpose. The English follows him."
+    },
+    {
+     "anchor": "rashi:24:64:2",
+     "relation": "records",
+     "summary": "Rashi: she let herself down toward the ground, bending without reaching the earth. The English does not give that detail; Rashi's reading is recorded here."
+    },
+    {
+     "anchor": "ramban:24:64:2",
+     "relation": "records",
+     "summary": "Ramban rejects the reading that she let herself down from the camel to the ground. He takes her to have bent to one side while on the camel, to turn her face from him, and says Onkelos' 'from upon the camel' can mean 'on the camel'."
+    },
+    {
+     "anchor": "radak:24:64:1",
+     "relation": "records",
+     "summary": "Radak: when the servant told her that the man was Isaac, she let herself fall from the camel to the ground, covered her face with her veil, and then stood. The English does not add the veil or the standing."
+    },
+    {
+     "anchor": "sforno:24:64:1",
+     "relation": "records",
+     "summary": "Sforno: she bowed her head while still on the camel, out of honour for Isaac, comparing the wording with Naaman's falling from the chariot to meet the prophet (2 Kings 5:21)."
+    }
+   ],
+   "apparatus": [
+    "24:64.8: Targum Onkelos renders 'bowed down from upon the camel' (אִתְרְכִינַת מֵעַל גַּמְלָא). The English 'threw herself down' follows Ibn Ezra's deliberate sense.",
+    "24:64 (order): Ibn Ezra says the next verse, 24:65, is earlier in time than this one, since she had already spoken to the servant. The English keeps the order of the text."
+   ]
+  }
+ ]
+}
