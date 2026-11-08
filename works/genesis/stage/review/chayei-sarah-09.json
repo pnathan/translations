@@ -1,0 +1,552 @@
+{
+ "unit": "chayei-sarah-09",
+ "model": "sonnet",
+ "summary": "The unit is sound on vocabulary and morphology but had several unfinished or ungrammatical English clauses (24:43, 24:44, 24:45), a wrong reading of the יֶשְׁךָ clause in 24:42, and misplaced quotation marks: the whole of 24:42–44 is the servant's prayer, so its single quote now stays open from 24:42 to 24:44 with the requests inside it in double quotes. שָׁתָה is now given its Qal sense in three places. The Rashi summaries at 24:45 and 24:47 misstated what Rashi says; two grammar notes were false (24:44, 24:47). The one Ibn Ezra comment is consistent with the English.",
+ "patches": [
+  {
+   "ref": "24:41",
+   "path": "commentary:ibn-ezra:24:41:1.summary",
+   "value": "Ibn Ezra notes that the verse says מֵאָלָתִי and not מִשְׁבוּעָתִי ('from my swearing'), and gives the reason: the servant fears his master and his אָלָה (oath with its curse).",
+   "severity": "style",
+   "reason": "The summary called the second word 'his oath' and did not say that the contrast with שבועה is the point of the comment."
+  },
+  {
+   "ref": "24:41",
+   "path": "note",
+   "value": "The word is אָלָה, 'oath' with its curse (BDB senses 1 and 3). Ibn Ezra, the one normative commentator, notes that the verse does not say שבועה and gives the servant's fear of his master as the reason (commentary below); the English 'oath' is the lexicon's first sense.",
+   "severity": "style",
+   "reason": "The note said Ibn Ezra 'reads the word as the oath'; he contrasts it with שבועה."
+  },
+  {
+   "ref": "24:42",
+   "path": "english",
+   "value": "I came today to the spring and I said, 'LORD, God of my master Abraham, if you are now making my journey successful, the one on which I am going—",
+   "severity": "error",
+   "reason": "יֶשְׁךָ is 'you are' with a participle: a present condition, not 'you make'. The address has no article in English. The prayer runs on through 24:44, so the single quote stays open here (the request inside it takes double quotes in 24:43–44); the conditional breaks off and 24:43 continues it."
+  },
+  {
+   "ref": "24:42",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:42.1",
+      "24:42.2",
+      "24:42.3",
+      "24:42.4"
+     ],
+     "english": "I came today to the spring",
+     "literal": "and-I-came the-day to the-spring"
+    },
+    {
+     "tokens": [
+      "24:42.5",
+      "24:42.6",
+      "24:42.7",
+      "24:42.8",
+      "24:42.9"
+     ],
+     "english": "and I said, 'LORD, God of my master Abraham,",
+     "literal": "and-I-said the-LORD God-of my-master Abraham; the prayer opens with the name and its title, an address"
+    },
+    {
+     "tokens": [
+      "24:42.10",
+      "24:42.11",
+      "24:42.12",
+      "24:42.13",
+      "24:42.14"
+     ],
+     "english": "if you are now making my journey successful,",
+     "literal": "if there-is-you now making-successful my-journey"
+    },
+    {
+     "tokens": [
+      "24:42.15",
+      "24:42.16",
+      "24:42.17",
+      "24:42.18"
+     ],
+     "english": "the one on which I am going—",
+     "literal": "which I going upon-it; 'upon it' refers back to the feminine דֶּרֶךְ"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "24:42",
+   "path": "literal",
+   "value": "and-I-came the-day to the-spring and-I-said the-LORD God-of my-master Abraham if there-is-you now making-successful my-journey which I going upon-it",
+   "severity": "error",
+   "reason": "'there-is-with-you' adds 'with': the suffix of יֶשְׁךָ is the subject, 'you are'."
+  },
+  {
+   "ref": "24:42",
+   "path": "token:24:42.11.gloss",
+   "value": "you are",
+   "severity": "error",
+   "reason": "The suffix is the subject; there is no 'for'."
+  },
+  {
+   "ref": "24:42",
+   "path": "token:24:42.13.gloss",
+   "value": "making successful",
+   "severity": "style",
+   "reason": "Participle."
+  },
+  {
+   "ref": "24:42",
+   "path": "grammar",
+   "value": [
+    "וָאָבֹא and וָאֹמַר are wayyiqtol forms: the narrative of the servant's report, 'I came ... and I said'. The prayer that begins here runs to the end of 24:44.",
+    "יְהוָה אֱלֹהֵי אֲדֹנִי אַבְרָהָם is an address: the name, then the title in a construct chain; English gives it no article.",
+    "אִם־יֶשְׁךָ־נָּא מַצְלִיחַ: יֵשׁ with a pronoun suffix (יֶשְׁךָ, 'you are') and a participle makes a present condition, 'if you are now making successful'. The sentence breaks off, and the prayer goes on in 24:43.",
+    "עָלֶיהָ ('upon it') refers back to the feminine דֶּרֶךְ, so the relative clause closes on the way."
+   ],
+   "severity": "error",
+   "reason": "The third note said 'there is with you one who makes successful', which the Hebrew does not say."
+  },
+  {
+   "ref": "24:43",
+   "path": "english",
+   "value": "Here I stand by the spring of the water, and it shall come to pass that the young woman who comes out to draw, and I will say to her, \"Please give me a little water from your jar to drink,\"",
+   "severity": "style",
+   "reason": "The request is a speech inside the servant's prayer (24:42–44), so it takes double quotes; 'Give me to drink' is not English, and the single-quote closing was misplaced."
+  },
+  {
+   "ref": "24:43",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:43.1",
+      "24:43.2",
+      "24:43.3",
+      "24:43.4",
+      "24:43.5",
+      "24:43.6"
+     ],
+     "english": "Here I stand by the spring of the water,",
+     "literal": "here I standing upon the-spring-of the-water"
+    },
+    {
+     "tokens": [
+      "24:43.7",
+      "24:43.8",
+      "24:43.9",
+      "24:43.10"
+     ],
+     "english": "and it shall come to pass that the young woman who comes out to draw,",
+     "literal": "and-it-shall-be the-young-woman the-going-out to-draw"
+    },
+    {
+     "tokens": [
+      "24:43.11",
+      "24:43.12"
+     ],
+     "english": "and I will say to her,",
+     "literal": "and-I-will-say to-her"
+    },
+    {
+     "tokens": [
+      "24:43.13",
+      "24:43.14",
+      "24:43.15",
+      "24:43.16",
+      "24:43.17"
+     ],
+     "english": "\"Please give me a little water from your jar to drink,\"",
+     "literal": "give-me-to-drink please a-little water from-your-jar"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "24:43",
+   "path": "grammar",
+   "value": [
+    "הִנֵּה with the participle נִצָּב gives the present scene: 'here I stand'.",
+    "וְהָיָה with a following clause introduces the sign: 'and it shall come to pass that'; the waw-qatal is future in sense, and the verb is masculine before the feminine הָעַלְמָה.",
+    "The sentence opens with the young woman and has no main verb of its own; it is completed by הִוא הָאִשָּׁה in 24:44. The English leaves it open as the Hebrew does.",
+    "The tipḥa on נִצָּב and the etnaḥta on הַמָּיִם divide the scene from the sign; the request is the clause from הַשְׁקִינִי־נָא.",
+    "The imperative הַשְׁקִינִי is the Hiphil of שָׁקָה, 'give drink to', with 'a little water' as its object: 'give me a little water to drink'."
+   ],
+   "severity": "error",
+   "reason": "The English was an unfinished clause with no note; the Hebrew's open construction is named."
+  },
+  {
+   "ref": "24:44",
+   "path": "english",
+   "value": "and she will say to me, \"You also drink, and I will draw for your camels also\"—she is the woman whom the LORD has appointed for my master's son.'",
+   "severity": "error",
+   "reason": "The verbless clause needs its copula ('she is the woman'). 'Drink' is the Qal of שָׁתָה. The girl's words are a speech inside the prayer, so double quotes, and the single quote opened in 24:42 closes here."
+  },
+  {
+   "ref": "24:44",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:44.1",
+      "24:44.2"
+     ],
+     "english": "and she will say to me,",
+     "literal": "and-she-will-say to-me"
+    },
+    {
+     "tokens": [
+      "24:44.3",
+      "24:44.4",
+      "24:44.5"
+     ],
+     "english": "\"You also drink,",
+     "literal": "also you drink; the girl's words"
+    },
+    {
+     "tokens": [
+      "24:44.6",
+      "24:44.7",
+      "24:44.8"
+     ],
+     "english": "and I will draw for your camels also\"",
+     "literal": "and-also for-your-camels I-will-draw"
+    },
+    {
+     "tokens": [
+      "24:44.9",
+      "24:44.10"
+     ],
+     "english": "—she is the woman",
+     "literal": "she the-woman; a nominal clause, the English supplies 'is'"
+    },
+    {
+     "tokens": [
+      "24:44.11",
+      "24:44.12",
+      "24:44.13",
+      "24:44.14",
+      "24:44.15"
+     ],
+     "english": "whom the LORD has appointed for my master's son.'",
+     "literal": "which has-appointed the-LORD for-son-of my-master"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "24:44",
+   "path": "token:24:44.9.gloss",
+   "value": "she is",
+   "severity": "error",
+   "reason": "Copula of the verbless clause."
+  },
+  {
+   "ref": "24:44",
+   "path": "token:24:44.5.sense",
+   "value": "Qal",
+   "severity": "error",
+   "reason": "The lexicon now has Qal 'drink' for שָׁתָה."
+  },
+  {
+   "ref": "24:44",
+   "path": "token:24:44.5.note",
+   "value": "Qal imperative, masculine singular, of שָׁתָה: 'drink'.",
+   "severity": "error",
+   "reason": "The old note said no Qal sense was printed."
+  },
+  {
+   "ref": "24:44",
+   "path": "grammar",
+   "value": [
+    "וְאָמְרָה is a waw-qatal, future in sense: 'and she will say', the sign he set.",
+    "שְׁתֵה is the Qal imperative of שָׁתָה, 'drink', addressed to the servant.",
+    "הִוא הָאִשָּׁה is a verbless clause: the pronoun, then the article-noun. English supplies the copula: 'she is the woman'.",
+    "The etnaḥta on אֶשְׁאָב divides the sign from the identification; the zaqef qaton on הָאִשָּׁה sets off the relative clause.",
+    "גַּם occurs twice (גַּם אַתָּה, וְגַם לִגְמַלֶּיךָ); the English keeps 'also' in both places."
+   ],
+   "severity": "error",
+   "reason": "The old note said the English needs no verb; it needs 'is'. The accent note placed the division wrongly."
+  },
+  {
+   "ref": "24:44",
+   "path": "context",
+   "value": [
+    "Camels as pack and riding animals in the patriarchal period are disputed: some hold that domestic camels came into common use in the Near East only after the patriarchs' time, others that earlier use is attested. The text is translated as it stands, and the question is left open."
+   ],
+   "severity": "question",
+   "reason": "Camels appear in this verse and the project's rule asks the dispute to be named."
+  },
+  {
+   "ref": "24:45",
+   "path": "english",
+   "value": "Before I had finished speaking to my heart, look, Rebekah was coming out, with her jar on her shoulder; and she went down to the spring and drew, and I said to her, 'Give me a drink, please.'",
+   "severity": "error",
+   "reason": "The first clause had no main clause (a fragment); the participle takes 'was coming out', and the circumstantial 'her jar on her shoulder' is 'with her jar'. 'Give me to drink' is not English."
+  },
+  {
+   "ref": "24:45",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:45.1",
+      "24:45.2",
+      "24:45.3",
+      "24:45.4",
+      "24:45.5",
+      "24:45.6"
+     ],
+     "english": "Before I had finished speaking to my heart,",
+     "literal": "I before I-finish to-speak to my-heart"
+    },
+    {
+     "tokens": [
+      "24:45.7",
+      "24:45.8",
+      "24:45.9"
+     ],
+     "english": "look, Rebekah was coming out,",
+     "literal": "and-look Rebekah coming-out"
+    },
+    {
+     "tokens": [
+      "24:45.10",
+      "24:45.11",
+      "24:45.12"
+     ],
+     "english": "with her jar on her shoulder;",
+     "literal": "and-her-jar upon her-shoulder"
+    },
+    {
+     "tokens": [
+      "24:45.13",
+      "24:45.14",
+      "24:45.15"
+     ],
+     "english": "and she went down to the spring and drew,",
+     "literal": "and-she-went-down to-the-spring and-she-drew"
+    },
+    {
+     "tokens": [
+      "24:45.16",
+      "24:45.17",
+      "24:45.18",
+      "24:45.19"
+     ],
+     "english": "and I said to her, 'Give me a drink, please.'",
+     "literal": "and-I-said to-her give-me-to-drink please"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "24:45",
+   "path": "token:24:45.7.gloss",
+   "value": "look",
+   "severity": "style",
+   "reason": "Matches the English."
+  },
+  {
+   "ref": "24:45",
+   "path": "token:24:45.9.gloss",
+   "value": "was coming out",
+   "severity": "style",
+   "reason": "Participle of a scene."
+  },
+  {
+   "ref": "24:45",
+   "path": "token:24:45.10.gloss",
+   "value": "with her jar",
+   "severity": "style",
+   "reason": "Circumstantial waw."
+  },
+  {
+   "ref": "24:45",
+   "path": "token:24:45.18.gloss",
+   "value": "give me a drink",
+   "severity": "style",
+   "reason": "English idiom for the Hiphil."
+  },
+  {
+   "ref": "24:45",
+   "path": "token:24:45.12.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The entry's printed senses are 1 'neck' and 2 'back'; 'back' is not the shoulder."
+  },
+  {
+   "ref": "24:45",
+   "path": "token:24:45.12.note",
+   "value": "The entry's headword gloss is 'shoulder'; of its printed senses, 1 'neck' and 2 'back', neither is the shoulder, so none is given.",
+   "severity": "error",
+   "reason": "The old note said the lexicon gives only 'neck' and 'back'; the headword gives 'shoulder'."
+  },
+  {
+   "ref": "24:45",
+   "path": "grammar",
+   "value": [
+    "טֶרֶם with the imperfect אֲכַלֶּה means 'before I finish'; Rashi's reading of this present-tense form is in the commentary.",
+    "The sentence opens with the fronted pronoun אֲנִי; the revia on לִבִּי closes the opening clause, and וְהִנֵּה begins the scene.",
+    "וְהִנֵּה with the participle יֹצֵאת gives the scene: 'look, Rebekah was coming out'; the participle needs no finite verb in Hebrew, and English supplies 'was'. וְכַדָּהּ עַל־שִׁכְמָהּ is a circumstantial clause: 'with her jar on her shoulder'.",
+    "The etnaḥta on וַתִּשְׁאָב ends the first half of the verse.",
+    "The Hebrew names no object for שָׁאַב ('draw'); the English keeps it so."
+   ],
+   "severity": "error",
+   "reason": "The old accent note called the pashta the end of the scene; the pashta is a minor disjunctive."
+  },
+  {
+   "ref": "24:45",
+   "path": "commentary:rashi:24:45:1.summary",
+   "value": "Rashi says that אֲכַלֶּה is to be read as the present, 'before I am finishing': every such present-tense expression may be worded in the past (כִּי אָמַר אִיּוֹב) or in the future (כָּכָה יַעֲשֶׂה אִיּוֹב), and the meaning of both is the ongoing present ('Job used to say ... and used to do so'). The English takes the narrative past, 'had finished', and records Rashi's reading.",
+   "severity": "error",
+   "reason": "The old summary said the form 'can carry past or future meaning' and that Rashi took it as the present in this place only; Rashi's point is that past and future forms of this kind have the sense of the ongoing present."
+  },
+  {
+   "ref": "24:46",
+   "path": "english",
+   "value": "She hastened and took down her jar from upon her, and said, 'Drink, and I will water your camels also.' And I drank, and she watered the camels also.",
+   "severity": "style",
+   "reason": "Natural English order for the fronted גַּם ('also'); the sense is unchanged."
+  },
+  {
+   "ref": "24:46",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:46.1",
+      "24:46.2"
+     ],
+     "english": "She hastened and took down",
+     "literal": "and-she-hastened and-she-took-down"
+    },
+    {
+     "tokens": [
+      "24:46.3",
+      "24:46.4"
+     ],
+     "english": "her jar from upon her,",
+     "literal": "her-jar from-upon-her"
+    },
+    {
+     "tokens": [
+      "24:46.5",
+      "24:46.6"
+     ],
+     "english": "and said, 'Drink,",
+     "literal": "and-she-said drink"
+    },
+    {
+     "tokens": [
+      "24:46.7",
+      "24:46.8",
+      "24:46.9"
+     ],
+     "english": "and I will water your camels also.'",
+     "literal": "and-also your-camels I-will-water"
+    },
+    {
+     "tokens": [
+      "24:46.10",
+      "24:46.11",
+      "24:46.12",
+      "24:46.13"
+     ],
+     "english": "And I drank, and she watered the camels also.",
+     "literal": "and-I-drank and-also the-camels she-watered"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "24:46",
+   "path": "token:24:46.6.sense",
+   "value": "Qal",
+   "severity": "error",
+   "reason": "The lexicon now has Qal 'drink' for שָׁתָה."
+  },
+  {
+   "ref": "24:46",
+   "path": "token:24:46.6.note",
+   "value": "Qal imperative, masculine singular, of שָׁתָה: 'drink'.",
+   "severity": "error",
+   "reason": "The old note said no sense was printed."
+  },
+  {
+   "ref": "24:46",
+   "path": "token:24:46.10.sense",
+   "value": "Qal",
+   "severity": "error",
+   "reason": "The lexicon now has Qal 'drink' for שָׁתָה."
+  },
+  {
+   "ref": "24:46",
+   "path": "token:24:46.10.note",
+   "value": "wayyiqtol, 1st person singular, of שָׁתָה (short form וָאֵשְׁתְּ): Qal 'drink'.",
+   "severity": "error",
+   "reason": "The old note said no sense was printed."
+  },
+  {
+   "ref": "24:46",
+   "path": "grammar",
+   "value": [
+    "Three wayyiqtol forms in a row (וַתְּמַהֵר, וַתּוֹרֶד, וַתֹּאמֶר) narrate the girl's haste.",
+    "שְׁתֵה is the Qal imperative of שָׁתָה, 'drink'; וָאֵשְׁתְּ is its wayyiqtol in the first person (short form), 'and I drank'.",
+    "שָׁקָה (Hiphil, 'give drink to, water') is the servant's verb in 24:43 and 24:45 (הַשְׁקִינִי); the girl uses it for the camels: אַשְׁקֶה (yiqtol, 'I will water') and הִשְׁקָתָה (qatal, 'she watered').",
+    "Both camel clauses begin with גַּם and put the camels first; English places 'also' at the end.",
+    "The revia on וַתְּמַהֵר and the zaqef gadol on וָאֵשְׁתְּ divide the verse; the silluq on הִשְׁקָתָה closes it."
+   ],
+   "severity": "style",
+   "reason": "The old note spoke of שָׁקָה only and omitted שָׁתָה, the verb of the girl's first clause."
+  },
+  {
+   "ref": "24:47",
+   "path": "commentary:rashi:24:47:1.summary",
+   "value": "Rashi says the order is changed: the servant first gave the ring and afterwards asked, but he tells it in the other order so that they could not catch him in his words and say, 'How did you give to her when you did not yet know who she was?' The English keeps the Hebrew order, the order the words give; the explanation of what happened is recorded here only.",
+   "severity": "error",
+   "reason": "The old summary gave the wrong reason: Rashi's concern is the family's objection that he gave before he knew whose daughter she was."
+  },
+  {
+   "ref": "24:47",
+   "path": "grammar",
+   "value": [
+    "בַּת־מִי אַתְּ is a nominal question. English needs 'are'; the Hebrew has no verb.",
+    "The chain בַּת־בְּתוּאֵל בֶּן־נָחוֹר keeps its construct form: 'daughter of Bethuel, son of Nahor'.",
+    "The relative clause אֲשֶׁר יָלְדָה־לּוֹ מִלְכָּה follows the names in Hebrew as in English: 'whom Milcah bore to him', לוֹ being Nahor.",
+    "The verb וָאָשִׂם ('I put') follows the question and answer in Hebrew order; the English keeps that order."
+   ],
+   "severity": "error",
+   "reason": "The old note said the English moves the relative clause; it does not."
+  },
+  {
+   "ref": "24:48",
+   "path": "grammar",
+   "value": [
+    "וָאֶקֹּד and וָאֶשְׁתַּחֲוֶה are wayyiqtol narrative forms; the second is hishtafel, reflexive, hence 'prostrated myself'.",
+    "לָקַחַת with its object בַּת־אֲחִי אֲדֹנִי is the purpose of the leading; לִבְנוֹ closes the phrase: 'for his son'.",
+    "The etnaḥta on לַיהֹוָה ends the first half of the verse; the pashta on יְהֹוָה sets off the title; the silluq on לִבְנוֹ closes the verse."
+   ],
+   "severity": "style",
+   "reason": "The old note left out the etnaḥta, the main division, and called the tipḥa a division of the verse."
+  },
+  {
+   "ref": "24:41",
+   "path": "english",
+   "value": "Then you will be clear of my oath when you come to my kin, and if they will not give to you, you will be clear of my oath.'",
+   "severity": "error",
+   "reason": "consistency: closes Abraham's reported speech begun in 24:40, which continues in 24:41"
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:24:41:1",
+   "verdict": "consistent",
+   "comment": "The English 'oath' renders אָלָה (oath with its curse); Ibn Ezra's comment gives the servant's motive and the contrast with שבועה, and does not ask a different reading of the words."
+  }
+ ]
+}

@@ -1,0 +1,283 @@
+{
+ "unit": "chayei-sarah-14",
+ "model": "sonnet",
+ "summary": "The unit is sound: names are transliterated plainly and consistently across the twelve sons, glosses fit the lexicon, and 25:18 keeps 'fell' with the readings in the notes. The main fault is 25:16, where 'to their tribes' gave Ibn Ezra's added lamed a force he denies and his summary reversed his point about the two roots. Ramban's summary on גְּוִיעָה and Ibn Ezra's third reading at 25:18 were also misreported, and בֹּאֲכָה was wrongly called a crux. Context notes on tirot and Asshur were widened to name the disputes.",
+ "patches": [
+  {
+   "ref": "25:13",
+   "path": "token:25:13.6.note",
+   "value": "לְ with תּוֹלְדוֹת, 'according to their generations'; Rashi and Radak both take it as the order of birth (see commentary)",
+   "severity": "style",
+   "reason": "The note called the phrase disputed, but the two commentators agree."
+  },
+  {
+   "ref": "25:13",
+   "path": "commentary:radak:25:13:1.summary",
+   "value": "Radak: 'to their generations' means in the order of their generations, as they were born, in the order of their mention; the firstborn was Nebaioth.",
+   "severity": "style",
+   "reason": "'The males' for זכרם is doubtful; Radak's point is the order of naming."
+  },
+  {
+   "ref": "25:16",
+   "path": "english",
+   "value": "These are the sons of Ishmael, and these are their names, in their villages and in their palaces: twelve princes of their tribes.",
+   "severity": "error",
+   "reason": "Ibn Ezra says the lamed of לְאֻמֹּתָם is added and adds nothing to the sense, as in לְגוֹיֵיהֶם; 'to' gives it a meaning he denies."
+  },
+  {
+   "ref": "25:16",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "25:16.1",
+      "25:16.2",
+      "25:16.3",
+      "25:16.4"
+     ],
+     "english": "These are the sons of Ishmael,",
+     "literal": "these they sons-of Ishmael"
+    },
+    {
+     "tokens": [
+      "25:16.5",
+      "25:16.6"
+     ],
+     "english": "and these are their names,",
+     "literal": "and-these names-of-them"
+    },
+    {
+     "tokens": [
+      "25:16.7",
+      "25:16.8"
+     ],
+     "english": "in their villages and in their palaces:",
+     "literal": "in-their-villages and-in-their-palaces"
+    },
+    {
+     "tokens": [
+      "25:16.9",
+      "25:16.10",
+      "25:16.11",
+      "25:16.12"
+     ],
+     "english": "twelve princes of their tribes.",
+     "literal": "two-ten princes to-their-tribes"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "25:16",
+   "path": "token:25:16.12.gloss",
+   "value": "of their tribes",
+   "severity": "error",
+   "reason": "See english."
+  },
+  {
+   "ref": "25:16",
+   "path": "token:25:16.12.note",
+   "value": "אֻמָּה 'tribe, people'. Ibn Ezra: the lamed is an added preposition, as in לְגוֹיֵיהֶם, and the sense is the same with or without it; English 'of' carries the construction.",
+   "severity": "error",
+   "reason": "The note said the lamed is taken as 'to' per Ibn Ezra; he says the opposite."
+  },
+  {
+   "ref": "25:16",
+   "path": "note",
+   "value": "Palaces follows Ibn Ezra's normative reading of טירות; the lexicon's 'encampment, battlement' and Radak's fortified cities are recorded in commentary. Ibn Ezra takes the lamed of לְאֻמֹּתָם as added and without force, as in לְגוֹיֵיהֶם; the English 'of their tribes' leaves it unrendered.",
+   "severity": "error",
+   "reason": "The note said the lamed is rendered 'to' per Ibn Ezra."
+  },
+  {
+   "ref": "25:16",
+   "path": "commentary:ibn-ezra:25:16:2.summary",
+   "value": "Ibn Ezra: the word occurs with shureq elsewhere (אֻמּוֹת, אֻמִּים); the lamed of לְאֻמֹּתָם is added, like the lamed of לְגוֹיֵיהֶם, and is not a root letter as in לְאֻמִּים (Ps. 149:7), which is a root as in 'one people (לְאֹם) shall be stronger than the other' (Gen. 25:23). With the lamed or without it the sense is the same; they are two roots.",
+   "severity": "error",
+   "reason": "The summary said the word is the root of 'nation' as in Gen. 25:23; Ibn Ezra says the opposite, that לאם there is a different root from אם."
+  },
+  {
+   "ref": "25:16",
+   "path": "context",
+   "value": [
+    "The Hebrew names two kinds of settled place, ḥatserim and tirot. The commentators differ: the ḥatserim are taken as unwalled villages (Radak) or large towns without walls (Rashi), and the tirot as fortified cities (Radak) or palaces (Ibn Ezra). Elsewhere the word tirah is used of nomad encampments (Num. 31:10; Ezek. 25:4), so 'palaces' is one of several possible renderings. The commentary records the positions.",
+    "The twelve names are identified with tribes of the north Arabian desert and its edge; each identification of a name with a known people is a scholarly proposal and is disputed."
+   ],
+   "severity": "question",
+   "reason": "Adds the other use of tirah so a reader sees why the rendering is disputed."
+  },
+  {
+   "ref": "25:17",
+   "path": "commentary:ramban:25:17:2.summary",
+   "value": "Ramban: Rashi's 'expiring is said only of the righteous' is understood by the Talmud as death without painful illness or suffering; the Flood generation and the desert dead also 'expired', which the Talmud answers by 'expiring and being gathered'. The midrash instead takes גְּוִיעָה as a bowel illness or wasting, and Onkelos' וְאִתְנְגִיד (a swoon) agrees; he concludes that 'he expired and died' is a man weakening and dying, a death found among the righteous.",
+   "severity": "error",
+   "reason": "The summary gave the Talmud's explanation as Ramban's own and left out the midrash and Onkelos on which he builds his reading."
+  },
+  {
+   "ref": "25:18",
+   "path": "token:25:18.9.note",
+   "value": "infinitive construct with a 2nd masculine singular suffix, 'as you come/go'; a fixed idiom of boundary descriptions (also Gen. 10:19, 10:30, 13:10), where 'you' is the generic traveller, not an addressee",
+   "severity": "question",
+   "reason": "The note called the form a crux; it is a regular idiom."
+  },
+  {
+   "ref": "25:18",
+   "path": "grammar",
+   "value": [
+    "The verse is a wayyiqtol (וַיִּשְׁכְּנוּ) with the boundary formula 'from Havilah as far as Shur', then a relative clause placing Shur 'before Egypt', then a second boundary phrase, 'toward Asshur'.",
+    "בֹּאֲכָה is the infinitive construct of בוא with a 2nd masculine singular suffix, 'as you come'. It is the regular idiom of boundary descriptions (also Gen. 10:19, 10:30, 13:10), in which 'you' is the generic traveller; the third-person narrative is not broken by it.",
+    "נָפָל is a qatal after a wayyiqtol series, so it reads as a separate statement rather than the next step of the dwelling. The third masculine singular is unnamed; the English 'he' is the person of the form.",
+    "The etnaḥta on אַשּׁוּרָה closes the first half at Asshur, and the silluq on נָפָֽל closes the verse. The paragraph mark (פ) after it ends the section."
+   ],
+   "severity": "question",
+   "reason": "The grammar note called the suffix a mismatch with the narrative."
+  },
+  {
+   "ref": "25:18",
+   "path": "apparatus",
+   "value": [],
+   "severity": "question",
+   "reason": "The apparatus entry called בֹּאֲכָה a crux; it is a regular idiom, now stated in the grammar note, and no variant is recorded."
+  },
+  {
+   "ref": "25:18",
+   "path": "commentary:ibn-ezra:25:18:2.summary",
+   "value": "Ibn Ezra gives three readings of נָפָל: his portion or lot (fell to him); or that most of Ishmael's sons move from place to place, as in 'to the Chaldeans you fall' (Jer. 37:13), which he finds a little far, since his brothers are in the east and Egypt and Asshur are west of the Land; or, possibly, that the verse speaks of Ishmael dying in the lifetime of his brothers, as one who fell, since the cause of his death is not known.",
+   "severity": "error",
+   "reason": "The third reading is Ishmael's death in his brothers' lifetime (בחיי אחיו), not one brother's; 'possibly' (ויתכן) was dropped."
+  },
+  {
+   "ref": "25:18",
+   "path": "commentary:radak:25:18:2.summary",
+   "value": "Radak: the phrase 'before all his brothers' is as the angel told Hagar, 'before all his brothers he shall dwell' (Gen. 16:12), where he has explained it.",
+   "severity": "style",
+   "reason": "The summary spoke of the pack ('cut off in the pack'), which is not part of the comment."
+  },
+  {
+   "ref": "25:18",
+   "path": "context",
+   "value": [
+    "Havilah is a name also used in the table of nations for a land; scholars disagree on whether this Havilah is the same place, and its location is not fixed.",
+    "Shur is the desert on the route from Canaan to Egypt (Gen. 16:7); here it is located by its position 'before Egypt' (עַל־פְּנֵי), commonly understood as facing Egypt on its eastern side. The Hebrew gives no compass direction.",
+    "Asshur is generally taken as Assyria, on the upper Tigris, but some take a nearer north Arabian people (compare the Asshurim of 25:3); the identification is disputed."
+   ],
+   "severity": "question",
+   "reason": "'Asshur is Assyria' was stated as settled; the dispute is named, and a reader needs what 'before Egypt' means."
+  },
+  {
+   "ref": "25:13",
+   "path": "english",
+   "value": "These are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebaioth, and Kedar, and Adbeel, and Mibsam,",
+   "severity": "style",
+   "reason": "consistency: list continues in 25:14"
+  },
+  {
+   "ref": "25:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "25:13.1",
+      "25:13.2",
+      "25:13.3",
+      "25:13.4",
+      "25:13.5",
+      "25:13.6"
+     ],
+     "english": "These are the names of the sons of Ishmael, by their names, according to their generations:",
+     "literal": "and-these names-of sons-of Ishmael by-their-names to-their-generations"
+    },
+    {
+     "tokens": [
+      "25:13.7",
+      "25:13.8",
+      "25:13.9"
+     ],
+     "english": "the firstborn of Ishmael, Nebaioth,",
+     "literal": "firstborn-of Ishmael Nebaioth"
+    },
+    {
+     "tokens": [
+      "25:13.10"
+     ],
+     "english": "and Kedar,",
+     "literal": "and-Kedar"
+    },
+    {
+     "tokens": [
+      "25:13.11"
+     ],
+     "english": "and Adbeel,",
+     "literal": "and-Adbeel"
+    },
+    {
+     "tokens": [
+      "25:13.12"
+     ],
+     "english": "and Mibsam,",
+     "literal": "and-Mibsam"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: list continues in 25:14"
+  },
+  {
+   "ref": "25:14",
+   "path": "english",
+   "value": "and Mishma, and Dumah, and Massa,",
+   "severity": "style",
+   "reason": "consistency: list continues in 25:15"
+  },
+  {
+   "ref": "25:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "25:14.1"
+     ],
+     "english": "and Mishma,",
+     "literal": "and-Mishma"
+    },
+    {
+     "tokens": [
+      "25:14.2"
+     ],
+     "english": "and Dumah,",
+     "literal": "and-Dumah"
+    },
+    {
+     "tokens": [
+      "25:14.3"
+     ],
+     "english": "and Massa,",
+     "literal": "and-Massa"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: list continues in 25:15"
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:25:16:1",
+   "verdict": "consistent",
+   "comment": "Palaces is his reading of טירות."
+  },
+  {
+   "anchor": "ibn-ezra:25:16:2",
+   "verdict": "consistent",
+   "comment": "After the patch the lamed is not rendered 'to'; it agrees with his reading that the lamed is added and the sense unchanged."
+  },
+  {
+   "anchor": "ibn-ezra:25:18:1",
+   "verdict": "consistent",
+   "comment": "The English says 'all his brothers' without naming them; his identification is in the commentary."
+  },
+  {
+   "anchor": "ibn-ezra:25:18:2",
+   "verdict": "consistent",
+   "comment": "He gives three readings and finds none certain; 'fell' with 'before' fits the lot reading and the death reading and does not choose between them."
+  }
+ ]
+}

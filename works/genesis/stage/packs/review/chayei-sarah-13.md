@@ -1,0 +1,878 @@
+# Review pack: genesis chayei-sarah-13 (Genesis 25:6–25:11)
+
+Brief: `briefs/review.md`. Write: `works/genesis/stage/review/chayei-sarah-13.json`. Check: `go run ./cmd/tr check genesis chayei-sarah-13`.
+
+## Genesis 25:6
+
+Hebrew (MAM): וְלִבְנֵ֤י הַפִּֽילַגְשִׁים֙ אֲשֶׁ֣ר לְאַבְרָהָ֔ם נָתַ֥ן אַבְרָהָ֖ם מַתָּנֹ֑ת וַֽיְשַׁלְּחֵ֞ם מֵעַ֨ל יִצְחָ֤ק בְּנוֹ֙ בְּעוֹדֶ֣נּוּ חַ֔י קֵ֖דְמָה אֶל־אֶ֥רֶץ קֶֽדֶם׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 25:6.1 | וְלִבְנֵ֤י | וְ + לִ + בְנֵ֤י | ו: and + ל: to, for + בֵּן `bdb:b.ca.aa` | conjunction · preposition · noun: common, masculine, plural, construct |  | mahpakh |
+| 25:6.2 | הַפִּֽילַגְשִׁים֙ | הַ + פִּֽילַגְשִׁים֙ | ה: the + פִּלֶ֫גֶשׁ `bdb:q.bl.ag` | particle: definite article · noun: common, feminine, plural, absolute |  | pashta (disjunctive) |
+| 25:6.3 | אֲשֶׁ֣ר | אֲשֶׁ֣ר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר | munaḥ |
+| 25:6.4 | לְאַבְרָהָ֔ם | לְ + אַבְרָהָ֔ם | ל: to, for + אַבְרָהָם `bdb:a.ae.aw` | preposition · noun: proper name | אבה | zaqef qaton (disjunctive) |
+| 25:6.5 | נָתַ֥ן | נָתַ֥ן | נָתַן `bdb:n.gg.aa` | verb: qal, perfect (qatal), 3rd person, masculine, singular | נתן | merkha |
+| 25:6.6 | אַבְרָהָ֖ם | אַבְרָהָ֖ם | אַבְרָהָם `bdb:a.ae.aw` | noun: proper name | אבה | tipḥa (disjunctive) |
+| 25:6.7 | מַתָּנֹ֑ת | מַתָּנֹ֑ת | מַתָּנָה `bdb:n.gg.ai` | noun: common, feminine, plural, absolute | נתן | etnaḥta (disjunctive) |
+| 25:6.8 | וַֽיְשַׁלְּחֵ֞ם | וַֽ + יְשַׁלְּחֵ֞ + ם | ו: and + שָׁלַח `bdb:v.dl.aa` +  | conjunction · verb: piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular · suffix: pronominal, 3rd person, masculine, plural | שׁלח | gershayim (disjunctive) |
+| 25:6.9 | מֵעַ֨ל | מֵ + עַ֨ל | מ: from, than + עַל `bdb:p.cs.ar` | preposition · preposition | עלה | qadma |
+| 25:6.10 | יִצְחָ֤ק | יִצְחָ֤ק | יִצְחָק `bdb:r.br.ac` | noun: proper name | צחק | mahpakh |
+| 25:6.11 | בְּנוֹ֙ | בְּנ + וֹ֙ | בֵּן `bdb:b.ca.aa` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular |  | pashta (disjunctive) |
+| 25:6.12 | בְּעוֹדֶ֣נּוּ | בְּ + עוֹדֶ֣ + נּוּ | ב: in, with, by + עוֹד `bdb:p.bc.ab` +  | preposition · adverb · suffix: pronominal, 3rd person, masculine, singular | עוד | munaḥ |
+| 25:6.13 | חַ֔י | חַ֔י | חַי `bdb:h.cd.ab` | adjective: adjective, masculine, singular, absolute | חיה | zaqef qaton (disjunctive) |
+| 25:6.14 | קֵ֖דְמָה | קֵ֖דְמָ + ה | קֵ֫דֶם `bdb:s.al.ad` +  | noun: common, masculine, singular, absolute · suffix: directional he | קדם | tipḥa (disjunctive) |
+| 25:6.15 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 25:6.16 | אֶ֥רֶץ | אֶ֥רֶץ | אֶ֫רֶץ `bdb:a.fx.aa` | noun: common, both genders, singular, construct | ארץ | merkha |
+| 25:6.17 | קֶֽדֶם׃ | קֶֽדֶם | קֶ֫דֶם `bdb:s.al.ab` | noun: common, masculine, singular, absolute | קדם | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:25:6:1` Rashi on 25:6.2 «הַפִּֽילַגְשִׁים֙» (matched; filed at 25:6) DH «הפילגשים.»: חָסֵר כְּתִיב, שֶׁלֹּא הָיְתָה אֶלָּא פִּלֶגֶשׁ אַחַת, הִיא הָגָר, הִיא קְטוּרָה (בראשית רבה). נָשִׁים בִּכְתֻבָּה, פִּילַגְשִׁים בְּלֹא כְּתֻבָּה, כִּדְאָמְרִינַן בְּסַנְהֶדְרִין, בְּנָשִׁים וּפִילַגְשִׁים דְּדָוִד:
+- `rashi:25:6:2` Rashi on 25:6.5 25:6.6 25:6.7 «נָתַ֥ן אַבְרָהָ֖ם מַתָּנֹ֑ת» (matched; filed at 25:6) DH «נתן אברהם מתנות.»: פֵּרְשׁוּ רַבּוֹתֵינוּ שֵׁם טֻמְאָה מָסַר לָהֶם (סנהדרין צ"א). דָּ"אַ מַה שֶּׁנִּתַּן לוֹ עַל אוֹדוֹת שָׂרָה וּשְׁאָר מַתָּנוֹת שֶׁנִתְּנוּ לוֹ, הַכֹּל נָתַן לָהֶם, שֶׁלֹּא רָצָה לֵהָנוֹת מֵהֶם:
+- `ibn-ezra:25:6:1` Ibn Ezra **normative** on 25:6.7 «מַתָּנֹ֑ת» (matched; filed at 25:6) DH «מתנות.»: ממון נתן להם:
+- `ibn-ezra:25:6:2` Ibn Ezra **normative** on 25:6.14 «קֵ֖דְמָה» (matched-unbolded; filed at 25:6) DH «קדמה.»: קדמה. פי' אל ארץ קדם, וכן "אשר לא יעבדו אותו את נבוכדנצר" (ירמי' כז ח), וקדם מזרח א"י, וי"א אל מקום בן ישמעאל והראשון נכון:
+- `ramban:25:6:1` Ramban on 25:6.1 25:6.2 25:6.3 25:6.4 «וְלִבְנֵ֤י הַפִּֽילַגְשִׁים֙ אֲשֶׁ֣ר לְאַבְרָהָ֔ם» (matched; filed at 25:6) DH «וְלִבְנֵי הַפִּילַגְשִׁים אֲשֶׁר לְאַבְרָהָם»: עַל דֶּרֶךְ הַפְּשָׁט, בַּעֲבוּר שֶׁנֶּאֱמַר לוֹ (בראשית כ"א:י"ב) "כִּי בְיִצְחָק יִקָּרֵא לְךָ זָרַע", לֹא בְּזֶרַע אַחֵר, הָיוּ כָּל נָשָׁיו אֶצְלוֹ פִּילַגְשִׁים, לֹא הָיוּ נֶחְשָׁבוֹת לְנָשִׁים, שֶׁאֵין זַרְעָן בְּיוֹרְשָׁיו, כִּי הָגָר שִׁפְחַת שָׂרָה פִּילַגְשׁוֹ הָיְתָה, אֲבָל קְטוּרָה לְאִשָּׁה לָקַח לוֹ, וְאִם הָיְתָה שִׁפְחָה בְּבֵיתוֹ וּלְקָחָהּ לְפִילֶגֶשׁ לֹא הָיָה אוֹמֵר "וַיִּקַּח אִשָּׁה וּשְׁמָהּ קְטוּרָה", רַק תִּקָּרֵא פִּילֶגֶשׁ בַּכָּתוּב, מִפְּנֵי הַטַּעַם שֶׁפֵּרַשְׁתִּי. וּבְדִבְרֵי הַיָּמִים (א א לב) כָּתוּב "וּבְנֵי קְטוּרָה פִּילֶגֶשׁ אַבְרָהָם". וְהִנֵּה אַבְרָהָם לָקַח לוֹ אִשָּׁה מִבְּנוֹת כְּנַעַן, וְאִם תֹּאמַר שֶׁהָיְתָה מִצְרִית אוֹ מֵאֶרֶץ פְּלִשְׁתִּים, הִנֵּה לֹא שָׁלַח אֶל אַרְצוֹ וְאֶל מוֹלַדְתּוֹ כַּאֲשֶׁר עָשָׂה בִּבְנוֹ, כִּי אֵינֶנּוּ שׁוֹמֵר רַק זֶרַע יִצְחָק כִּי עָלָיו נִכְרַת הַבְּרִית. וְעוֹד שֶׁלֹּא אָמַר הַכָּתוּב "וַיִּקַּח אִשָּׁה קְטוּרָה בַּת פְּלוֹנִי הַחִוִּי אוֹ הַפְּלִשְׁתִּי וְהַמִּצְרִי מֵאֶרֶץ פְּלוֹנִית" כַּאֲשֶׁר אָמַר בִּנְשֵׁי עֵשָׂו (בראשית כ"ו:ל"ד) וְזוּלָתָן, אֲבָל הִזְכִּיר שְׁמָהּ בִּלְבַד כִּי הִיא כְּנַעֲנִית, וְקִצֵּר בְּיִחוּסָהּ, וְכֵן יַעֲשֶׂה בִּמְקוֹמוֹת רַבִּים כְּשֶׁלֹּא יַקְפִּיד בַּיִּחוּס שֶׁלָּהֶן. וְאוּלַי תִּקָּרֵא פִּילֶגֶשׁ בַּעֲבוּר הֱיוֹתָהּ שִׁפְחָה מִמִּשְׁפַּחַת הָעֲבָדִים, וְאִם הָיְתָה שִׁפְחָה בְּבֵיתוֹ וּבָא אֵלֶיהָ לֹא יַזְכִּיר יִחוּסָהּ, כִּי אֵין דֶּרֶךְ הַכָּתוּב לְהַזְכִּיר בָּאִמָּהוֹת רַק שְׁמָן, כָּעִנְיָן בְּזִלְפָּה וּבִלְהָה. וְרַשִׁ"י כָּתַב (רש"י על בראשית כ"ה:ו') נָשִׁים בִּכְתֻבָּה פִּילַגְשִׁים שֶׁלֹּא בִּכְתֻבָּה, כִּדְאָמַר בְּנָשִׁים וּפִילַגְשִׁים דְּדָוִד בְּסַנְהֶדְרִין (כא). וְאֵין הַדָּבָר כֵּן, כִּי לֹא תִּקָּרֵא פִּילֶגֶשׁ אֶלָּא כְּשֶׁהִיא בְּלֹא קִדּוּשִׁין, כִּי הַכְּתֻבָּה מִדִּבְרֵי סוֹפְרִים. וְהַגִּרְסָא בְּסַנְהֶדְרִין פִּילֶגֶשׁ בְּלֹא כְּתֻבָּה וְקִדּוּשִׁין. אֲבָל אֶפְשָׁר שֶׁגַּם בְּנֵי נֹחַ כַּאֲשֶׁר יִשְׂאוּ לָהֶם נָשִׁים כְּמִשְׁפָּטָן בִּבְעִילָה הָיוּ נוֹהֲגִים לִכְתֹּב לָהֶן מֹהַר וּמַתָּן, וַאֲשֶׁר רְצוֹנָם שֶׁתִּהְיֶה לָהֶם פִּילֶגֶשׁ וְיִשְׁלַח אוֹתָהּ כַּאֲשֶׁר יִרְצֶה, וְלֹא יִהְיוּ בָּנֶיהָ בַּנּוֹחֲלִים אֶת שֶׁלּוֹ, לֹא הָיָה כּוֹתֵב לָהּ כְּלוּם. וְעַל דַּעַת רַבּוֹתֵינוּ (ב"ר סא ד) שֶׁהִיא הָגָר הִנֵּה הִיא פִּילֶגֶשׁ וַדַּאי:
+- `radak:25:6:1` Radak on 25:6.1 25:6.2 «וְלִבְנֵ֤י הַפִּֽילַגְשִׁים֙» (matched; filed at 25:6) DH «וְלִבְנֵי הַפִּילַגְשִׁים.»: לֹא הָיוּ פִּילַגְשָׁיו שֶׁהָיוּ לוֹ בָּנִים מֵהֶם, אֶלָּא פִּילַגְשֵׁי בֵּיתוֹ הָיוּ מֵעֲבָדָיו בְּנֵי בֵיתוֹ, וְאוֹתָם הַבָּנִים הָיוּ יְלִידֵי בֵיתוֹ וְנִמֹּלוּ עִמּוֹ וְאוֹחֲזִים דַּרְכּוֹ וְנָתַן לָהֶם מַתָּנֹת מִכֶּסֶף וְזָהָב וּמִקְנֶה כְּפִי מַה שֶּׁרָאוּי, וְכָל שֶׁכֵּן שֶׁנָּתַן לְיִשְׁמָעֵאל וְלִבְנֵי קְטוּרָה אַף עַל פִּי שֶׁלֹּא זָכַר אוֹתָם, כִּי אַחַר שֶׁלִּילִידֵי בֵיתוֹ נָתַן כָּל שֶׁכֵּן לְבָנָיו.
+- `radak:25:6:2` Radak on 25:6.9 25:6.10 25:6.11 «מֵעַ֨ל יִצְחָ֤ק בְּנוֹ֙» (matched; filed at 25:6) DH «מֵעַל יִצְחָק בְּנוֹ.»: כְּדֵי שֶׁלֹּא יִהְיוּ עָלָיו לְטֹרַח וְלֹא יָרִיבוּ עִמּוֹ עַל דְּבַר הַיְרֻשָּׁה.
+- `radak:25:6:3` Radak on 25:6.14 25:6.15 25:6.16 25:6.17 «קֵ֖דְמָה אֶל אֶ֥רֶץ קֶֽדֶם׃» (matched; filed at 25:6) DH «קֵדְמָה, אֶל־אֶרֶץ קֶדֶם.»: אוֹמֵר שֶׁשְּׁלָחָם כְּלַפֵּי מִזְרָח, וּפֵרֵשׁ אַחַר כֵּן לְאֵיזוֹ אֶרֶץ מֵאַרְצוֹת הַמִּזְרָח שְׁלָחָם, וְאָמַר אֶל־אֶרֶץ קֶדֶם וְהִיא חָרָן וְאוּר כַּשְׂדִּים, וְאוֹתָן גְּלִילוֹת שֶׁנִּקְרָאוֹת בִּסְתָם אֶרֶץ קֶדֶם וְאֶרֶץ בְּנֵי קֶדֶם, וְאוֹתָהּ הָאָרֶץ הָיְתָה לְמִשְׁפַּחַת אַבְרָהָם לְפִיכָךְ שְׁלָחָם לִשְׁכֹּן שָׁם כִּי לְאַהֲבָתוֹ יְקָרְבוּם אַנְשֵׁי מִשְׁפַּחְתּוֹ.
+- `onkelos:25:6:1` Targum Onkelos on whole 25:6 (version; filed at 25:6): וְלִבְנֵי לְחֵינָתָא דִּי לְאַבְרָהָם יְהַב אַבְרָהָם מַתְּנָן וְשַׁלְּחִנּוּן מֵעַל יִצְחָק בְּרֵיהּ בְּעוֹד דְּהוּא קַיָּם קִידוּמָא לְאַרַע מָדִינְחָא:
+- `sforno:25:6:1` Sforno on 25:6.5 25:6.6 25:6.7 «נָתַ֥ן אַבְרָהָ֖ם מַתָּנֹ֑ת» (matched; filed at 25:6) DH «נָתַן אַבְרָהָם מַתָּנוֹת.»: לֹא בִּלְשׁוֹן יְרֻשָּׁה כְּלָל כְּדֵי שֶׁיִּהְיוּ דְּבָרָיו קַיָּמִים:
+- `sforno:25:6:2` Sforno on 25:6.12 25:6.13 «בְּעוֹדֶ֣נּוּ חַ֔י» (matched; filed at 25:6) DH «בְּעוֹדֶנּוּ חַי.»: וְלֹא רָצָה לִסְמֹךְ עַל דְּיָיתִיקִי וּמִינֵי הַצַּוָּאוֹת:
+
+### Translation under review (25:6)
+
+English: To the sons of the concubines who were Abraham's, Abraham gave gifts, and he sent them away from Isaac his son while he was still alive, eastward to the land of the east.
+
+Literal: and-to-sons-of the-concubines which to-Abraham gave Abraham gifts and-sent-them from-upon Isaac his-son in-still-him alive eastward to land-of east
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 25:6.1 | and to the sons of |  | 1 |  |
+| 25:6.2 | the concubines |  | 1 | plural of פִּלֶגֶשׁ with the article; a secondary wife (see context) |
+| 25:6.3 | who |  |  |  |
+| 25:6.4 | to Abraham |  |  |  |
+| 25:6.5 | gave |  | Qal 1 |  |
+| 25:6.6 | Abraham |  |  |  |
+| 25:6.7 | gifts |  |  |  |
+| 25:6.8 | and sent them away |  | Pi 2.a | wayyiqtol (sequential imperfect) of the Piel, third masculine singular, with the object suffix -ם 'them' |
+| 25:6.9 | from |  | IV.2 |  |
+| 25:6.10 | Isaac |  |  |  |
+| 25:6.11 | his son |  | 1 |  |
+| 25:6.12 | while he was still |  |  | בְּ + עוֹד + suffix נּוּ: 'in his still', a temporal clause with no verb |
+| 25:6.13 | alive |  | 1.b |  |
+| 25:6.14 | eastward |  |  |  |
+| 25:6.15 | to |  | 9 |  |
+| 25:6.16 | land of |  | 2.a |  |
+| 25:6.17 | the east |  | 1.b |  |
+
+Phrases:
+- 25:6.1 25:6.2 25:6.3 25:6.4 | To the sons of the concubines who were Abraham's | 'and-to-sons-of the-concubines which to-Abraham'; 'were' is the copula of the verbless relative clause
+- 25:6.5 25:6.6 25:6.7 | Abraham gave gifts | 'gave Abraham gifts'; the verb comes first, the subject after it
+- 25:6.8 25:6.9 25:6.10 25:6.11 | and he sent them away from Isaac his son | 'and-sent-them from-upon Isaac his-son'; 'from upon' is the spatial sense of עַל, and 'away' comes from the Piel of שָׁלַח
+- 25:6.12 25:6.13 | while he was still alive | 'in-still-him alive'; a temporal clause, the suffix is the subject of the clause
+- 25:6.14 25:6.15 25:6.16 25:6.17 | eastward to the land of the east | 'eastward to land-of east'; the adverb and the prepositional phrase name one direction
+
+Grammar notes:
+- The etnaḥta on מַתָּנֹת (25:6.7) closes the first clause: the gifts are set off from the sending that follows.
+- וַיְשַׁלְּחֵם is a wayyiqtol of the Piel continuing the narrative after נָתַן; the suffix -ם makes it 'sent them away'.
+- The relative clause אֲשֶׁר לְאַבְרָהָם has no verb; the English adds the copula 'were'.
+- בְּעוֹדֶנּוּ חַי is a temporal clause with no verb: 'in his still alive'. English supplies 'was'.
+- קֵדְמָה is an adverb with the directional ה, and אֶל אֶרֶץ קֶדֶם repeats the direction in a noun phrase.
+
+Translator's note: The English takes מַתָּנוֹת as 'gifts', the general sense of the lexicon; Ibn Ezra's 'money' is recorded in the commentary, since the Hebrew names no kind. 'Eastward to the land of the east' follows Ibn Ezra.
+
+Commentary rulings:
+- `ibn-ezra:25:6:1` records: Ibn Ezra glosses מַתָּנוֹת as money (ממון) that he gave them. The Hebrew names no kind of gift, so the English keeps 'gifts' and his reading is recorded here.
+- `ibn-ezra:25:6:2` follows: Ibn Ezra reads קֵדְמָה אֶל אֶרֶץ קֶדֶם as 'eastward, to the land of the east'. He notes a view that the phrase means a place of a son of Ishmael and holds the first reading correct.
+- `rashi:25:6:1` declines: Rashi takes the plural הַפִּילַגְשִׁים as written defectively (חָסֵר כְּתִיב), so that only one concubine, Hagar who is Keturah, is meant. The English keeps the plural: the verse names several sons, and this is a reading of the spelling, not the plain sense.
+- `rashi:25:6:2` not-applicable: Rashi, citing the Sages, says Abraham handed them 'a name of impurity' (שֵׁם טֻמְאָה) and gave them all that had been given him on account of Sarah, so as not to benefit from them. A homily, not the plain sense.
+- `ramban:25:6:1` follows: Ramban says Hagar was Sarah's maidservant and Abraham's concubine, while Keturah he took as a wife. The sons of concubines did not inherit, so their mothers are not counted as wives.
+- `radak:25:6:1` records: Radak takes the concubines as servants of Abraham's household whose sons were born in his house. He holds that Abraham gave gifts also to Ishmael and the sons of Keturah, though the verse does not name them.
+- `sforno:25:6:1` follows: Sforno says the verb נָתַן here is not the language of inheritance at all, so that his words would stand. The English 'gave gifts' keeps the gifts from being an inheritance.
+- apparatus: The identity of the concubines is open: the commentators differ (see context).
+
+## Genesis 25:7
+
+Hebrew (MAM): וְאֵ֗לֶּה יְמֵ֛י שְׁנֵֽי־חַיֵּ֥י אַבְרָהָ֖ם אֲשֶׁר־חָ֑י מְאַ֥ת שָׁנָ֛ה וְשִׁבְעִ֥ים שָׁנָ֖ה וְחָמֵ֥שׁ שָׁנִֽים׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 25:7.1 | וְאֵ֗לֶּה | וְ + אֵ֗לֶּה | ו: and + אֵ֫לֶּה `bdb:a.dk.aa` | conjunction · pronoun: demonstrative, common, plural | אלה | revia (disjunctive) |
+| 25:7.2 | יְמֵ֛י | יְמֵ֛י | יוֹם `bdb:j.ay.aa` | noun: common, masculine, plural, construct |  | tevir (disjunctive) |
+| 25:7.3 | שְׁנֵֽי־ | שְׁנֵֽי | שָׁנָה `bdb:v.ek.ab` | adjective: cardinal number, masculine, dual, construct | שׁנה |  |
+| 25:7.4 | חַיֵּ֥י | חַיֵּ֥י | חַיִּים `bdb:h.cd.ag` | noun: common, masculine, plural, construct | חיה | merkha |
+| 25:7.5 | אַבְרָהָ֖ם | אַבְרָהָ֖ם | אַבְרָהָם `bdb:a.ae.aw` | noun: proper name | אבה | tipḥa (disjunctive) |
+| 25:7.6 | אֲשֶׁר־ | אֲשֶׁר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר |  |
+| 25:7.7 | חָ֑י | חָ֑י | חָיַי `bdb:h.cd.aa` | verb: qal, perfect (qatal), 3rd person, masculine, singular | חיה | etnaḥta (disjunctive) |
+| 25:7.8 | מְאַ֥ת | מְאַ֥ת | מֵאָה `bdb:m.ac.aa` | adjective: cardinal number, feminine, singular, construct | מאה | merkha |
+| 25:7.9 | שָׁנָ֛ה | שָׁנָ֛ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | tevir (disjunctive) |
+| 25:7.10 | וְשִׁבְעִ֥ים | וְ + שִׁבְעִ֥ים | ו: and + שִׁבְעִים `bdb:v.av.ac` | conjunction · adjective: cardinal number, both genders, plural, absolute | שׁבע | merkha |
+| 25:7.11 | שָׁנָ֖ה | שָׁנָ֖ה | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, singular, absolute | שׁנה | tipḥa (disjunctive) |
+| 25:7.12 | וְחָמֵ֥שׁ | וְ + חָמֵ֥שׁ | ו: and + חָמֵשׁ `bdb:h.dr.ab` | conjunction · adjective: cardinal number, feminine, singular, absolute | חמשׁ | merkha |
+| 25:7.13 | שָׁנִֽים׃ | שָׁנִֽים | שָׁנָה `bdb:v.ek.ab` | noun: common, feminine, plural, absolute | שׁנה | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:25:7:1` Rashi on 25:7.8 25:7.9 25:7.10 25:7.11 25:7.12 25:7.13 «מְאַ֥ת שָׁנָ֛ה וְשִׁבְעִ֥ים שָׁנָ֖ה וְחָמֵ֥שׁ שָׁנִֽים׃» (matched; filed at 25:7) DH «מאת שנה ושבעים שנה וחמש שנים.»: בֶּן ק' כְּבֶן ע' וּבֶן ע' כְּבֶן ה' בְּלֹא חֵטְא:
+- `radak:25:7:1` Radak on 25:7.6 25:7.7 «אֲשֶׁר חָ֑י» (matched; filed at 25:7) DH «אֲשֶׁר־חָי.»: פֹּעַל עָבָר, שָׁרְשׁוֹ חי״י אוֹ חי״ה.
+- `onkelos:25:7:1` Targum Onkelos on whole 25:7 (version; filed at 25:7): וְאִלֵּין יוֹמֵי שְׁנֵי חַיֵּי אַבְרָהָם דַּחֲיָא מְאָה וְשַׁבְעִין וְחָמֵשׁ שְׁנִין:
+
+### Translation under review (25:7)
+
+English: These are the days of the years of the life of Abraham which he lived: a hundred and seventy-five years.
+
+Literal: and-these days-of years-of lives-of Abraham which lived hundred year and-seventy year and-five years
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 25:7.1 | and these are |  | b |  |
+| 25:7.2 | the days of |  | 4 |  |
+| 25:7.3 | the years of |  |  | the dual construct שְׁנֵי of שָׁנָה; the pack's parse calls it a cardinal number, kept as data |
+| 25:7.4 | the life of |  | 1 |  |
+| 25:7.5 | Abraham |  |  |  |
+| 25:7.6 | which |  |  |  |
+| 25:7.7 | he lived |  | Qal 1 | qatal, third masculine singular; the verb has no object |
+| 25:7.8 | a hundred |  | 2 | the hundred is a part of the larger number 175 |
+| 25:7.9 | years |  |  |  |
+| 25:7.10 | and seventy |  |  |  |
+| 25:7.11 | years |  |  |  |
+| 25:7.12 | and five |  |  |  |
+| 25:7.13 | years |  |  |  |
+
+Phrases:
+- 25:7.1 25:7.2 25:7.3 25:7.4 25:7.5 | These are the days of the years of the life of Abraham | 'and-these days-of years-of lives-of Abraham'; 'are' is the copula of a verbless clause
+- 25:7.6 25:7.7 | which he lived | 'which lived'; the verb has no object, and 'he' is the subject the verb carries
+- 25:7.8 25:7.9 25:7.10 25:7.11 25:7.12 25:7.13 | a hundred and seventy-five years | 'hundred year and-seventy year and-five years'; the Hebrew gives three parts, English one number
+
+Grammar notes:
+- וְאֵלֶּה opens a verbless clause, 'these are the days', with the demonstrative as subject.
+- The number is built by addition: מְאַת שָׁנָה, וְשִׁבְעִים שָׁנָה, וְחָמֵשׁ שָׁנִים. English combines them into one number.
+- The relative clause אֲשֶׁר־חָי has a perfect verb with no object, so 'which he lived' ends the clause before the number.
+
+Translator's note: The English reads the three numbers as one sum, a hundred and seventy-five, which is what the Hebrew adds up to.
+
+Commentary rulings:
+- `radak:25:7:1` not-applicable: Radak says חָי is a past verb whose root is ḥ-y-y or ḥ-y-h. A note on the root; the English 'lived' is the same either way.
+- `rashi:25:7:1` not-applicable: Rashi reads the figures by comparison: a hundred is like seventy, seventy like five, 'without sin'. A remark on the figures, not the plain sense.
+
+## Genesis 25:8
+
+Hebrew (MAM): וַיִּגְוַ֨ע וַיָּ֧מׇת אַבְרָהָ֛ם בְּשֵׂיבָ֥ה טוֹבָ֖ה זָקֵ֣ן וְשָׂבֵ֑עַ וַיֵּאָ֖סֶף אֶל־עַמָּֽיו׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 25:8.1 | וַיִּגְוַ֨ע | וַ + יִּגְוַ֨ע | ו: and + גָּוַע `bdb:c.bd.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | גוע | qadma |
+| 25:8.2 | וַיָּ֧מׇת | וַ + יָּ֧מָת | ו: and + מוּת `bdb:m.be.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | מות | darga |
+| 25:8.3 | אַבְרָהָ֛ם | אַבְרָהָ֛ם | אַבְרָהָם `bdb:a.ae.aw` | noun: proper name | אבה | tevir (disjunctive) |
+| 25:8.4 | בְּשֵׂיבָ֥ה | בְּ + שֵׂיבָ֥ה | ב: in, with, by + שֵׂיבָה `bdb:u.az.ac` | preposition · noun: common, feminine, singular, absolute | שׂיב | merkha |
+| 25:8.5 | טוֹבָ֖ה | טוֹבָ֖ה | טוֹב `bdb:i.ai.ab` | adjective: adjective, feminine, singular, absolute | טוב | tipḥa (disjunctive) |
+| 25:8.6 | זָקֵ֣ן | זָקֵ֣ן | זָקֵן `bdb:g.cd.ad` | adjective: adjective, masculine, singular, absolute | זקן | munaḥ |
+| 25:8.7 | וְשָׂבֵ֑עַ | וְ + שָׂבֵ֑עַ | ו: and + שָׂבֵעַ `bdb:u.ad.ae` | conjunction · adjective: adjective, masculine, singular, absolute | שׂבע | etnaḥta (disjunctive) |
+| 25:8.8 | וַיֵּאָ֖סֶף | וַ + יֵּאָ֖סֶף | ו: and + אָסַף `bdb:a.ev.aa` | conjunction · verb: nifal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | אסף | tipḥa (disjunctive) |
+| 25:8.9 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 25:8.10 | עַמָּֽיו׃ | עַמָּֽי + ו | עַם `bdb:p.dj.ad` +  | noun: common, masculine, plural, construct · suffix: pronominal, 3rd person, masculine, singular |  | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `ibn-ezra:25:8:1` Ibn Ezra **normative** on whole 25:8 (verse; filed at 25:8) DH «מלת ויגוע.»: צאת הרוח מהגוף רגע אחד בלי עינוי ועיכוב, הלא תראה "ויאסוף רגליו אל המטה" (בראשית מט ג), ומיד גוע והנה כל גויעה מיתה ואין כל מיתה גויעה על כן כתוב במבול ויגוע (בראשית ז כא):
+- `ibn-ezra:25:8:2` Ibn Ezra **normative** on 25:8.2 25:8.3 «וַיָּ֧מׇת אַבְרָהָ֛ם» (matched; filed at 25:8) DH «ופי' וימת אברהם»: . שמת בשיבה טובה:
+- `ibn-ezra:25:8:3` Ibn Ezra **normative** on 25:8.8 25:8.9 25:8.10 «וַיֵּאָ֖סֶף אֶל עַמָּֽיו׃» (matched; filed at 25:8) DH «ויאסוף אל עמיו.»: י"א כי על כבוד הנפש אמר, כי בהיותו מתעסקים עם הגוף הוא כחלק נפרד, ובהפרד מהגוף יאסף הכבוד אל עמיו, וי"א כי זה משפט הלשון, והטעם על לכתו בדרך אבותיו כאלו יתחבר אליהם, וכן "ואתה תבוא אל אבותיך בשלום" (בראשית טו טו):
+- `ramban:25:8:1` Ramban on 25:8.6 25:8.7 «זָקֵ֣ן וְשָׂבֵ֑עַ» (matched; filed at 25:8) DH «זָקֵן וְשָׂבֵעַ»: שֶׁרָאָה כָּל מִשְׁאֲלוֹת לִבּוֹ וְשָׂבַע כָּל טוֹבָה, וְכֵן "וּשְׂבַע יָמִים" (בראשית ל"ה:כ"ט), שֶׁשָּׂבְעָה נַפְשׁוֹ בַּיָּמִים וְלֹא יִתְאַוֶּה שֶׁיְּחַדְּשׁוּ בּוֹ הַיָּמִים דָּבָר, וּכְעִנְיָן שֶׁנֶּאֱמַר בְּדָוִד "וַיָּמָת בְּשֵׂיבָה טוֹבָה שְׂבַע יָמִים עֹשֶׁר וְכָבוֹד" (דהי"א כט כח), וְהוּא סִפּוּר חַסְדֵי הַשֵּׁם בַּצַּדִּיקִים וּמִדָּה טוֹבָה בָּהֶם שֶׁלֹּא יִתְאַוּוּ בַּמּוֹתָרוֹת, כְּעִנְיָן שֶׁנֶּאֱמַר בָּהֶם "תַּאֲוַת לִבּוֹ נָתַתָּ לּוֹ" (תהלים כא ג), וְלֹא כְּמוֹ שֶׁנֶּאֱמַר בִּשְׁאָר הָאֲנָשִׁים "אֹהֵב כֶּסֶף לֹא יִשְׂבַּע כֶּסֶף" (קהלת ה ט) וְאָמְרוּ בּוֹ (קהלת רבה א יג), אֵין אָדָם יוֹצֵא מִן הָעוֹלָם וַחֲצִי תַּאֲוָתוֹ בְּיָדוֹ, יֵשׁ בְּיָדוֹ מָנֶה מִתְאַוֶּה מָאתַיִם, הִשִּׂיגָה יָדוֹ לְמָאתַיִם מִתְאַוֶּה לַעֲשׂוֹת אַרְבַּע מֵאוֹת, שֶׁנֶּאֱמַר "אֹהֵב כֶּסֶף לֹא יִשְׂבַּע כֶּסֶף" (בראשית רבה ס"ב:א'), אָמְרוּ הקב"ה מַרְאֶה לָהֶם לַצַּדִּיקִים מַתַּן שְׂכָרָן שֶׁהוּא עָתִיד לִתֵּן לָהֶם לָעוֹלָם הַבָּא, וְנַפְשָׁם שְׂבֵעָה וְהֵם יְשֵׁנִים. נִתְעוֹרְרוּ הַחֲכָמִים בָּזֶה וּפֵרְשׁוּ הַכָּתוּב שֶׁאוֹמֵר "וְשָׂבֵעַ" בַּמַּרְאָה הַזּוֹ:
+- `radak:25:8:1` Radak on 25:8.1 25:8.2 «וַיִּגְוַ֨ע וַיָּ֧מׇת» (matched; filed at 25:8) DH «וַיִּגְוַע וַיָּמָת.»: גְּוִיעָה מִיתָה קַלָּה שֶׁאֵינָהּ בַּאֲרִיכוּת חֹלִי.
+- `radak:25:8:2` Radak on 25:8.4 25:8.5 «בְּשֵׂיבָ֥ה טוֹבָ֖ה» (matched; filed at 25:8) DH «בְּשֵׂיבָה טוֹבָה.»: שֶׁרָאָה לוֹ בָּנִים וּבְנֵי בָנִים, וְהָיָה בְּטוֹבָה וּבְכָבוֹד כָּל יְמֵי חַיָּיו. וּבִדְרָשׁ (בבא בתרא טז) שֶׁעָשָׂה יִשְׁמָעֵאל תְּשׁוּבָה בְּחַיָּיו.
+- `radak:25:8:3` Radak on 25:8.6 25:8.7 «זָקֵ֣ן וְשָׂבֵ֑עַ» (matched; filed at 25:8) DH «זָקֵן וְשָׂבֵעַ.»: שְׂבַעַ יָמִים.
+- `radak:25:8:4` Radak on 25:8.8 25:8.9 25:8.10 «וַיֵּאָ֖סֶף אֶל עַמָּֽיו׃» (matched; filed at 25:8) DH «וַיֵּאָסֶף אֶל־עַמָּיו.»: אֶל בְּנֵי מִשְׁפַּחְתּוֹ שֶׁמֵּתוּ וְאָסַף אֲלֵיהֶם, וְזֶה הַלָּשׁוֹן נָהוּג בַּמִּקְרָא יִהְיוּ הָאָבוֹת צַדִּיקִים אוֹ רְשָׁעִים.
+- `onkelos:25:8:1` Targum Onkelos on whole 25:8 (version; filed at 25:8): וְאִתְנְגִיד וּמִית אַבְרָהָם בְּסֵיבוּ טָבָא סִיב וּשְׂבַע יוֹמִין וְאִתְכְּנִישׁ לְעַמֵּיהּ:
+- `sforno:25:8:1` Sforno on 25:8.7 «וְשָׂבֵ֑עַ» (matched; filed at 25:8) DH «וְשָׂבֵעַ.»: מִכָּל מַה שֶּׁהִתְאַוָּה לִרְאוֹת וְלַעֲשׂוֹת בְּיָמָיו.
+- `sforno:25:8:2` Sforno on 25:8.8 25:8.9 25:8.10 «וַיֵּאָ֖סֶף אֶל עַמָּֽיו׃» (matched; filed at 25:8) DH «וַיֵּאָסֶף אֶל עַמָּיו.»: נֶאֱסַף אֶל צְרוֹר הַחַיִּים לְחַיֵּי הָעוֹלָם עִם צַדִּיקֵי הַדּוֹרוֹת שֶׁהֵם עַמָּיו וְדוֹמִים אֵלָיו. וְאָמְרוּ עַמָּיו בִּלְשׁוֹן רַבִּים, כִּי אָמְנָם רַב הַהֶבְדֵּל בֵּין הַצַּדִּיקִים בְּמַעֲלָה, עִם הֱיוֹתָם כֻּלָּם זוֹכִים לְחַיֵּי עוֹלָם, כְּאָמְרָם זִכְרוֹנָם לִבְרָכָה (בבא בתרא עה.) וְכָל אֶחָד נִכְוֶה מֵחֻפָּתוֹ שֶׁל חֲבֵרוֹ. חסלת פרשת חיי שרה.
+
+### Translation under review (25:8)
+
+English: Abraham expired and died at a good old age, old and satisfied, and was gathered to his people.
+
+Literal: and-expired and-died Abraham in-old-age good old and-satisfied and-was-gathered to his-people
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 25:8.1 | and expired |  |  | wayyiqtol of גָּוַע; Ibn Ezra reads it as a quick death, see commentary |
+| 25:8.2 | and died |  | Qal 1 | wayyiqtol of מוּת |
+| 25:8.3 | Abraham |  |  |  |
+| 25:8.4 | in old age |  |  |  |
+| 25:8.5 | good |  | 3 |  |
+| 25:8.6 | old |  | 1 |  |
+| 25:8.7 | and satisfied |  |  |  |
+| 25:8.8 | and was gathered |  | Niph 1 | wayyiqtol of the Niphal; the idiom is kept plain |
+| 25:8.9 | to |  | 1 |  |
+| 25:8.10 | his people |  |  |  |
+
+Phrases:
+- 25:8.1 25:8.2 25:8.3 | Abraham expired and died | 'expired and died Abraham'; the two wayyiqtol verbs come before the subject
+- 25:8.4 25:8.5 25:8.6 25:8.7 | at a good old age, old and satisfied | 'in-old-age good old and-satisfied'; the two adjectives describe Abraham
+- 25:8.8 25:8.9 25:8.10 | and was gathered to his people | 'and-was-gathered to his-people'; the idiom keeps the Hebrew's kin-word plural
+
+Grammar notes:
+- Two wayyiqtol verbs open the verse, and the subject follows them: 'expired and died Abraham'.
+- The verse has two adjectives, זָקֵן and שָׂבֵעַ, describing Abraham at his death, joined by ו.
+- The verse ends with the Niphal וַיֵּאָסֶף and the plural עַמָּיו, the idiom of being gathered to one's kin.
+
+Translator's note: The English keeps the two verbs apart as Ibn Ezra does: 'expired' for גָּוַע, 'died' for מוּת. Whether the death was quick is not in the English.
+
+Commentary rulings:
+- `ibn-ezra:25:8:1` follows: Ibn Ezra says גָּוַע is the departure of the spirit from the body in one moment, without suffering or delay; every גְּוִיעָה is a death, but not every death is a גְּוִיעָה. The English keeps the two verbs apart: 'expired and died'.
+- `ibn-ezra:25:8:2` follows: Ibn Ezra says וַיָּמׇת means that he died 'in a good old age' (שֶׁמֵּת בְּשֵׂיבָה טוֹבָה). The English 'died at a good old age' takes the phrase so.
+- `ibn-ezra:25:8:3` records: Ibn Ezra gives two readings of וַיֵּאָסֶף אֶל עַמָּיו: some take it of the honour of the soul, which, separated from the body, is gathered to its people; others take it as the idiom, meaning that he went in the way of his fathers, as if joining them. The English keeps the idiom plain and records both.
+- `ramban:25:8:1` records: Ramban says זָקֵן וְשָׂבֵעַ means that he saw all the desires of his heart and was sated of all good, as he says of David's death. This reading is recorded; the English 'satisfied' does not exclude it.
+- `sforno:25:8:1` records: Sforno says 'satisfied' means satisfied with all that he desired to see and do in his days.
+- `radak:25:8:4` records: Radak says 'gathered to his people' means gathered to the members of his family who had died before him, and that the phrase is used of fathers, righteous or wicked.
+- apparatus: 'Gathered to his people' is kept as the Hebrew idiom; its meaning is given in the commentary.
+
+## Genesis 25:9
+
+Hebrew (MAM): וַיִּקְבְּר֨וּ אֹת֜וֹ יִצְחָ֤ק וְיִשְׁמָעֵאל֙ בָּנָ֔יו אֶל־מְעָרַ֖ת הַמַּכְפֵּלָ֑ה אֶל־שְׂדֵ֞ה עֶפְרֹ֤ן בֶּן־צֹ֙חַר֙ הַֽחִתִּ֔י אֲשֶׁ֖ר עַל־פְּנֵ֥י מַמְרֵֽא׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 25:9.1 | וַיִּקְבְּר֨וּ | וַ + יִּקְבְּר֨וּ | ו: and + קָבַר `bdb:s.ah.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural | קבר | qadma |
+| 25:9.2 | אֹת֜וֹ | אֹת֜ + וֹ | אֵת `bdb:a.gm.aa` +  | particle: direct object marker · suffix: pronominal, 3rd person, masculine, singular | אות | geresh (disjunctive) |
+| 25:9.3 | יִצְחָ֤ק | יִצְחָ֤ק | יִצְחָק `bdb:r.br.ac` | noun: proper name | צחק | mahpakh |
+| 25:9.4 | וְיִשְׁמָעֵאל֙ | וְ + יִשְׁמָעֵאל֙ | ו: and + יִשְׁמָעֵאל `bdb:v.ed.au` | conjunction · noun: proper name |  | pashta (disjunctive) |
+| 25:9.5 | בָּנָ֔יו | בָּנָ֔י + ו | בֵּן `bdb:b.ca.aa` +  | noun: common, masculine, plural, construct · suffix: pronominal, 3rd person, masculine, singular |  | zaqef qaton (disjunctive) |
+| 25:9.6 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 25:9.7 | מְעָרַ֖ת | מְעָרַ֖ת | מְעָרָה `bdb:p.ft.ab` | noun: common, feminine, singular, construct | ערר | tipḥa (disjunctive) |
+| 25:9.8 | הַמַּכְפֵּלָ֑ה | הַ + מַּכְפֵּלָ֑ה | ה: the + מַכְפֵּלָה `bdb:k.cp.ac` | particle: definite article · noun: proper name | כפל | etnaḥta (disjunctive) |
+| 25:9.9 | אֶל־ | אֶל | אֶל `bdb:a.di.aa` | preposition |  |  |
+| 25:9.10 | שְׂדֵ֞ה | שְׂדֵ֞ה | שָׂדֶה `bdb:u.ak.ac` | noun: common, masculine, singular, construct | שׂדה | gershayim (disjunctive) |
+| 25:9.11 | עֶפְרֹ֤ן | עֶפְרֹ֤ן | עֶפְרוֹן `bdb:p.eh.af` | noun: proper name |  | mahpakh |
+| 25:9.12 | בֶּן־ | בֶּן | בֵּן `bdb:b.ca.aa` | noun: common, masculine, singular, construct |  |  |
+| 25:9.13 | צֹ֙חַר֙ | צֹ֨חַר֙ | צֹ֫חַר `bdb:r.bs.ad` | noun: proper name |  | pashta, pashta (disjunctive) |
+| 25:9.14 | הַֽחִתִּ֔י | הַֽ + חִתִּ֔י | ה: the + חִתִּי `bdb:h.gy.af` | particle: definite article · noun: gentilic, masculine, singular, absolute |  | zaqef qaton (disjunctive) |
+| 25:9.15 | אֲשֶׁ֖ר | אֲשֶׁ֖ר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר | tipḥa (disjunctive) |
+| 25:9.16 | עַל־ | עַל | עַל `bdb:p.cs.ar` | preposition | עלה |  |
+| 25:9.17 | פְּנֵ֥י | פְּנֵ֥י | פָּנֶה `bdb:q.bu.ab` | noun: common, both genders, plural, construct | פנה | merkha |
+| 25:9.18 | מַמְרֵֽא׃ | מַמְרֵֽא | מַמְרֵא `bdb:m.ck.ap` | noun: proper name |  | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:25:9:1` Rashi on 25:9.3 25:9.4 «יִצְחָ֤ק וְיִשְׁמָעֵאל֙» (matched; filed at 25:9) DH «יצחק וישמעאל.»: מִכָּאן שֶׁעָשָׂה יִשְׁמָעֵאל תְּשׁוּבָה וְהוֹלִיךְ אֶת יִצְחָק לְפָנָיו, וְהִיא שֵׂיבָה טוֹבָה שֶׁנֶּאֱמַר בְּאַבְרָהָם (בראשית רבה):
+- `ramban:25:9:1` Ramban on 25:9.1 25:9.2 25:9.3 25:9.4 25:9.5 «וַיִּקְבְּר֨וּ אֹת֜וֹ יִצְחָ֤ק וְיִשְׁמָעֵאל֙ בָּנָ֔יו» (matched; filed at 25:9) DH «וַיִּקְבְּרוּ אֹתוֹ יִצְחָק וְיִשְׁמָעֵאל בָּנָיו»: לְשׁוֹן בְּרֵאשִׁית רַבָּה (ס"ב:ב') כָּאן בֶּן הָאָמָה חוֹלֵק כָּבוֹד לְבֶן הַגְּבִירָה:
+- `radak:25:9:1` Radak on 25:9.1 25:9.3 25:9.4 25:9.5 «וַיִּקְבְּר֨וּ יִצְחָ֤ק וְיִשְׁמָעֵאל֙ בָּנָ֔יו» (matched; filed at 25:9) DH «וַיִּקְבְּרוּ יִצְחָק וְיִשְׁמָעֵאל בָּנָיו.»: כִּי הָיוּ גְּדוֹלִים וְנִכְבָּדִים מֵהַשְּׁאָר וְהָיוּ אֲהוּבִים לוֹ, לְפִיכָךְ הִתְעַסְּקוּ בּוֹ, וְאַף עַל פִּי שֶׁהָיוּ שָׁם בְּנֵי קְטוּרָה. אוֹ אֶפְשָׁר שֶׁשִּׁלְּחָם בְּחַיָּיו כְּמוֹ שֶׁשִּׁלַּח בְּנֵי הַפִּילַגְשִׁים.
+- `radak:25:9:2` Radak on 25:9.6 25:9.7 25:9.10 «אֶל מְעָרַ֖ת שְׂדֵ֞ה» (matched; filed at 25:9) DH «אֶל מְעָרַת, אֶל שְׂדֵה.»: כְּלוֹמַר בִּמְעָרַת בַּשָּׂדֶה, וְכֵן ״וְאֶל הָאָרֹן תִּתֵּן אֶת הָעֵדוּת״ (שמות כה:כא) כְּמוֹ וּבָאָרוֹן; וְהַדּוֹמִים לָהֶם רַבִּים.
+- `radak:25:9:3` Radak on 25:9.16 25:9.17 25:9.18 «עַל פְּנֵ֥י מַמְרֵֽא׃» (matched; filed at 25:9) DH «עַל־פְּנֵי מַמְרֵא.»: פֵּרַשְׁנוּהוּ (בראשית כג:יז).
+- `onkelos:25:9:1` Targum Onkelos on whole 25:9 (version; filed at 25:9): וּקְבַרוּ יָתֵיהּ יִצְחָק וְיִשְׁמָעֵאל בְּנוֹהִי בִּמְעָרַת כָּפֶלְתָּא בַּחֲקַל עֶפְרוֹן בַּר צֹחַר חִתָּאָה דִּי עַל אַפֵּי מַמְרֵא:
+
+### Translation under review (25:9)
+
+English: Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron son of Zohar the Hittite, which is before Mamre.
+
+Literal: and-buried-him Isaac and-Ishmael his-sons to cave-of the-Machpelah to field-of Ephron son-of Zohar the-Hittite which upon-face-of Mamre
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 25:9.1 | and buried |  | Qal | wayyiqtol, third masculine plural; the subject is the two sons |
+| 25:9.2 | him |  |  | the object marker אֵת with the suffix; English has no separate word for the marker |
+| 25:9.3 | Isaac |  |  |  |
+| 25:9.4 | and Ishmael |  | 1 |  |
+| 25:9.5 | his sons |  | 1 |  |
+| 25:9.6 | in |  | 2 |  |
+| 25:9.7 | the cave of |  |  | construct chain מְעָרַת הַמַּכְפֵּלָה, 'the cave of the Machpelah' |
+| 25:9.8 | Machpelah |  |  |  |
+| 25:9.9 | in |  | 2 |  |
+| 25:9.10 | the field of |  | 1 |  |
+| 25:9.11 | Ephron |  | 1 |  |
+| 25:9.12 | son of |  | 1 |  |
+| 25:9.13 | Zohar |  | 1 |  |
+| 25:9.14 | the Hittite |  |  |  |
+| 25:9.15 | which |  |  |  |
+| 25:9.16 | is before |  |  |  |
+| 25:9.17 | face of |  | I.1 |  |
+| 25:9.18 | Mamre |  |  |  |
+
+Phrases:
+- 25:9.1 25:9.2 25:9.3 25:9.4 25:9.5 | Isaac and Ishmael his sons buried him | 'and-buried-him Isaac and-Ishmael his-sons'; the verb comes first, with the object marker and suffix
+- 25:9.6 25:9.7 25:9.8 | in the cave of Machpelah | 'to cave-of the-Machpelah'; the preposition is read as position, see commentary
+- 25:9.9 25:9.10 25:9.11 25:9.12 25:9.13 25:9.14 | in the field of Ephron son of Zohar the Hittite | 'to field-of Ephron son-of Zohar the-Hittite'; the construct chain names the field's owner
+- 25:9.15 25:9.16 25:9.17 25:9.18 | which is before Mamre | 'which upon-face-of Mamre'; 'upon the face of' is the idiom for 'before'
+
+Grammar notes:
+- The verb וַיִּקְבְּרוּ is third masculine plural with two subjects, Isaac and Ishmael, so the English names both before the verb's object.
+- The cave is named in a construct chain: מְעָרַת הַמַּכְפֵּלָה, 'the cave of the Machpelah'.
+- The relative clause אֲשֶׁר עַל־פְּנֵי מַמְרֵא describes the field: 'which is before Mamre'.
+
+Translator's note: The Hebrew אֶל is 'to'; the English 'in' follows Radak's reading of the cave as in the field.
+
+Commentary rulings:
+- `radak:25:9:2` follows: Radak says 'to the cave' (אֶל מְעָרַת) means 'in the cave in the field' (כְּלוֹמַר בִּמְעָרַת בַּשָּׂדֶה). The English 'in the cave' and 'in the field' follows him.
+- `rashi:25:9:1` not-applicable: Rashi says Ishmael repented here and led Isaac before him, and that this is the 'good old age' said of Abraham. A homily, not the plain sense.
+- `ramban:25:9:1` not-applicable: Ramban says the son of the maidservant gives honour to the son of the mistress, as the Midrash has it. A homily on the order of the sons.
+
+## Genesis 25:10
+
+Hebrew (MAM): הַשָּׂדֶ֛ה אֲשֶׁר־קָנָ֥ה אַבְרָהָ֖ם מֵאֵ֣ת בְּנֵי־חֵ֑ת שָׁ֛מָּה קֻבַּ֥ר אַבְרָהָ֖ם וְשָׂרָ֥ה אִשְׁתּֽוֹ׃
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 25:10.1 | הַשָּׂדֶ֛ה | הַ + שָּׂדֶ֛ה | ה: the + שָׂדֶה `bdb:u.ak.ac` | particle: definite article · noun: common, masculine, singular, absolute | שׂדה | tevir (disjunctive) |
+| 25:10.2 | אֲשֶׁר־ | אֲשֶׁר | אֲשֶׁר `bdb:a.gk.aa` | particle: relative | אשׁר |  |
+| 25:10.3 | קָנָ֥ה | קָנָ֥ה | קָנָה `bdb:s.cb.aa` | verb: qal, perfect (qatal), 3rd person, masculine, singular | קנה | merkha |
+| 25:10.4 | אַבְרָהָ֖ם | אַבְרָהָ֖ם | אַבְרָהָם `bdb:a.ae.aw` | noun: proper name | אבה | tipḥa (disjunctive) |
+| 25:10.5 | מֵאֵ֣ת | מֵ + אֵ֣ת | מ: from, than + אֵת `bdb:a.gn.aa` | preposition · preposition |  | munaḥ |
+| 25:10.6 | בְּנֵי־ | בְּנֵי | בֵּן `bdb:b.ca.aa` | noun: common, masculine, plural, construct |  |  |
+| 25:10.7 | חֵ֑ת | חֵ֑ת | חֵת `bdb:h.gy.ae` | noun: proper name |  | etnaḥta (disjunctive) |
+| 25:10.8 | שָׁ֛מָּה | שָׁ֛מָּ + ה | שָׁם `bdb:v.dv.aa` +  | adverb · suffix: directional he |  | tevir (disjunctive) |
+| 25:10.9 | קֻבַּ֥ר | קֻבַּ֥ר | קָבַר `bdb:s.ah.aa` | verb: pual, perfect (qatal), 3rd person, masculine, singular | קבר | merkha |
+| 25:10.10 | אַבְרָהָ֖ם | אַבְרָהָ֖ם | אַבְרָהָם `bdb:a.ae.aw` | noun: proper name | אבה | tipḥa (disjunctive) |
+| 25:10.11 | וְשָׂרָ֥ה | וְ + שָׂרָ֥ה | ו: and + שָׂרָה `bdb:u.cm.ae` | conjunction · noun: proper name |  | merkha |
+| 25:10.12 | אִשְׁתּֽוֹ׃ | אִשְׁתּֽ + וֹ | אִשָּׁה `bdb:a.eq.ab` +  | noun: common, feminine, singular, construct · suffix: pronominal, 3rd person, masculine, singular | אנשׁ | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `radak:25:10:1` Radak on 25:10.1 25:10.2 25:10.3 «הַשָּׂדֶ֛ה אֲשֶׁר קָנָ֥ה» (matched; filed at 25:10) DH «הַשָּׂדֶה אֲשֶׁר־קָנָה.»: בְּכָל מָקוֹם שֶׁזָּכַר הַקְּבוּרָה בָּזֶה הַמְּעָרָה זָכַר הַמִּקְנָה, לְהוֹדִיעַ חִבָּתוֹ שֶׁל אַבְרָהָם שֶׁלֹּא מָצָא מָקוֹם לִקְבוּרָה עַד שֶׁקָּנָה אוֹתוֹ, וְאַף עַל פִּי כֵן לֹא הִרְהֵר אַחַר הָאֵל שֶׁאָמַר לוֹ ״כִּי אֶת כָּל הָאָרֶץ אֲשֶׁר אַתָּה רֹאֶה לְךָ אֶתְּנֶנָּה״ (בראשית יג:טו).
+- `radak:25:10:2` Radak on 25:10.5 25:10.6 25:10.7 «מֵאֵ֣ת בְּנֵי חֵ֑ת» (matched; filed at 25:10) DH «מֵאֵת בְּנֵי־חֵת.»: פֵּרַשְׁנוּהוּ (בראשית כג:כ).
+- `radak:25:10:3` Radak on 25:10.9 25:10.10 25:10.11 «קֻבַּ֥ר אַבְרָהָ֖ם וְשָׂרָ֥ה» (matched; filed at 25:10) DH «קֻבַּר אַבְרָהָם וְשָׂרָה.»: כְּבָר כָּתַבְנוּ כִּי זֵכֶר הַפְּעֻלָּה עַל הַדָּבֵק בּוֹ (בראשית כד:נה).
+- `onkelos:25:10:1` Targum Onkelos on whole 25:10 (version; filed at 25:10): חַקְלָא דִּי זְבַן אַבְרָהָם מִן בְּנֵי חִתָּאָה תַּמָּן אִתְקְבַר אַבְרָהָם וְשָׂרָה אִתְּתֵיהּ:
+
+### Translation under review (25:10)
+
+English: The field that Abraham bought from the Hittites; there Abraham was buried, and Sarah his wife.
+
+Literal: the-field which bought Abraham from sons-of Heth there was-buried Abraham and-Sarah his-wife
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 25:10.1 | the field |  | 1 |  |
+| 25:10.2 | which |  |  |  |
+| 25:10.3 | bought |  | Qal 2 |  |
+| 25:10.4 | Abraham |  |  |  |
+| 25:10.5 | from |  | 4 |  |
+| 25:10.6 | the Hittites |  | 1 | בְּנֵי־חֵת, 'sons of Heth', rendered 'the Hittites' as the decisions require; the literal line keeps 'sons-of Heth' |
+| 25:10.7 | Heth |  |  |  |
+| 25:10.8 | there |  |  |  |
+| 25:10.9 | was buried |  | Pu |  |
+| 25:10.10 | Abraham |  |  |  |
+| 25:10.11 | and Sarah |  |  |  |
+| 25:10.12 | his wife |  | 2 |  |
+
+Phrases:
+- 25:10.1 25:10.2 25:10.3 25:10.4 | The field that Abraham bought | 'the-field which bought Abraham'; the relative clause has a perfect verb
+- 25:10.5 25:10.6 25:10.7 | from the Hittites | 'from sons-of Heth'; see the token note on the rendering
+- 25:10.8 25:10.9 25:10.10 | there Abraham was buried | 'there was-buried Abraham'; the adverb comes first, the verb before its subject
+- 25:10.11 25:10.12 | and Sarah his wife | 'and-Sarah his-wife'; the subject is joined to Abraham by ו
+
+Grammar notes:
+- The relative clause אֲשֶׁר קָנָה has a perfect verb and no object: 'which Abraham bought'.
+- שָׁמָּה 'there' comes before the pual קֻבַּר, so the adverb stands at the head of the clause.
+- Abraham and Sarah are joined by ו and share the one verb קֻבַּר.
+
+Translator's note: 'Sons of Heth' is rendered 'the Hittites' as the decisions require.
+
+Commentary rulings:
+- `radak:25:10:1` not-applicable: Radak says wherever the cave is named the field is named with it, to show Abraham's love: he found no place to bury her until he bought it. A remark on the narrative, not on the words.
+- `radak:25:10:2` not-applicable: Radak refers the phrase מֵאֵת בְּנֵי־חֵת back to his explanation in chapter 23. A cross-reference.
+- `radak:25:10:3` follows: Radak says the singular קֻבַּר is applied to Abraham and Sarah together, since the mention of the verb applies to the one joined to it. The English 'and Sarah his wife' takes it so.
+- apparatus: 'Sons of Heth' is rendered 'the Hittites' as the decisions require; the Hebrew is kept in the literal line.
+
+## Genesis 25:11
+
+Hebrew (MAM): וַיְהִ֗י אַחֲרֵי֙ מ֣וֹת אַבְרָהָ֔ם וַיְבָ֥רֶךְ אֱלֹהִ֖ים אֶת־יִצְחָ֣ק בְּנ֑וֹ וַיֵּ֣שֶׁב יִצְחָ֔ק עִם־בְּאֵ֥ר לַחַ֖י רֹאִֽי׃
+
+Paragraph mark after this verse: פ
+
+| id | word | morphemes | lemmas | parse | root | accents |
+|---|---|---|---|---|---|---|
+| 25:11.1 | וַיְהִ֗י | וַ + יְהִ֗י | ו: and + הָיָה `bdb:e.bf.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | היה | revia (disjunctive) |
+| 25:11.2 | אַחֲרֵי֙ | אַחֲרֵי֙ | אַחַר `bdb:a.cp.ac` | preposition | אחר | pashta (disjunctive) |
+| 25:11.3 | מ֣וֹת | מ֣וֹת | מָ֫וֶת `bdb:m.be.ab` | noun: common, masculine, singular, construct | מות | munaḥ |
+| 25:11.4 | אַבְרָהָ֔ם | אַבְרָהָ֔ם | אַבְרָהָם `bdb:a.ae.aw` | noun: proper name | אבה | zaqef qaton (disjunctive) |
+| 25:11.5 | וַיְבָ֥רֶךְ | וַ + יְבָ֥רֶךְ | ו: and + בָּרַךְ `bdb:b.dd.aa` | conjunction · verb: piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | ברך | merkha |
+| 25:11.6 | אֱלֹהִ֖ים | אֱלֹהִ֖ים | אֱלֹהִים `bdb:a.dl.ad` | noun: common, masculine, plural, absolute | אלה | tipḥa (disjunctive) |
+| 25:11.7 | אֶת־ | אֶת | אֵת `bdb:a.gm.aa` | particle: direct object marker | אות |  |
+| 25:11.8 | יִצְחָ֣ק | יִצְחָ֣ק | יִצְחָק `bdb:r.br.ac` | noun: proper name | צחק | munaḥ |
+| 25:11.9 | בְּנ֑וֹ | בְּנ֑ + וֹ | בֵּן `bdb:b.ca.aa` +  | noun: common, masculine, singular, construct · suffix: pronominal, 3rd person, masculine, singular |  | etnaḥta (disjunctive) |
+| 25:11.10 | וַיֵּ֣שֶׁב | וַ + יֵּ֣שֶׁב | ו: and + יָשַׁב `bdb:j.ds.aa` | conjunction · verb: qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular | ישׁב | munaḥ |
+| 25:11.11 | יִצְחָ֔ק | יִצְחָ֔ק | יִצְחָק `bdb:r.br.ac` | noun: proper name | צחק | zaqef qaton (disjunctive) |
+| 25:11.12 | עִם־ | עִם | עִם `bdb:p.dj.aa` | preposition |  |  |
+| 25:11.13 | בְּאֵ֥ר | בְּאֵ֥ר | בְּאֵר לַחַי רֹאִי `bdb:b.ac.ad` | noun: proper name | באר | merkha |
+| 25:11.14 | לַחַ֖י | לַחַ֖י | בְּאֵר לַחַי רֹאִי `bdb:b.ac.ad` | noun: proper name | באר | tipḥa (disjunctive) |
+| 25:11.15 | רֹאִֽי׃ | רֹאִֽי | בְּאֵר לַחַי רֹאִי `bdb:b.ac.ad` | noun: proper name | באר | silluq (disjunctive) |
+
+
+### Commentary anchored to this verse
+
+- `rashi:25:11:1` Rashi on 25:11.1 25:11.2 25:11.3 25:11.4 25:11.5 «וַיְהִ֗י אַחֲרֵי֙ מ֣וֹת אַבְרָהָ֔ם וַיְבָ֥רֶךְ» (matched; filed at 25:11) DH «ויהי אחרי מות אברהם ויברך וגו'.»: נִחֲמוֹ תַּנְחוּמֵי אֲבֵלִים. דָּ"אַ אַעַ"פִּ שֶׁמָּסַר הַקָּבָּ"ה אֶת הַבְּרָכוֹת לְאַבְרָהָם, נִתְיָרֵא לְבָרֵךְ אֶת יִצְחָק מִפְּנֵי שֶׁצָּפָה אֶת עֵשָׂו יוֹצֵא מִמֶּנוּ, אָמַר יָבֹא בַּעַל הַבְּרָכוֹת וִיבָרֵךְ אֵת אֲשֶׁר יִיטַב בְּעֵינָיו, וּבָא הַקָּבָּ"ה וּבֵרְכוֹ (סוטה י"ד):
+- `ramban:25:11:1` Ramban on 25:11.10 25:11.11 25:11.12 25:11.13 25:11.14 25:11.15 «וַיֵּ֣שֶׁב יִצְחָ֔ק עִם בְּאֵ֥ר לַחַ֖י רֹאִֽי׃» (matched; filed at 25:11) DH «וַיֵּשֶׁב יִצְחָק עִם בְּאֵר לַחַי רֹאִי»: קָרוֹב אֶל הַמָּקוֹם הַהוּא, אוֹ בַּעֲבוּר שֶׁאֵינֶנּוּ עִיר אָמַר כִּי נָטָה אָהֳלוֹ אֵצֶל הַבְּאֵר:
+- `radak:25:11:1` Radak on 25:11.5 «וַיְבָ֥רֶךְ» (matched; filed at 25:11) DH «וַיְבָרֶךְ.»: הִצְלִיחוֹ בְּמַעֲשֶׂה כְּמוֹ שֶׁהִצְלִיחַ אָבִיו.
+- `radak:25:11:2` Radak on 25:11.12 25:11.13 25:11.14 25:11.15 «עִם בְּאֵ֥ר לַחַ֖י רֹאִֽי׃» (matched; filed at 25:11) DH «עִם־בְּאֵר לַחַי רֹאִי.»: כְּמוֹ בִּבְאֵר, וְכֵן ״וְיָדַעְתָּ עִם לְבָבֶךָ״ (דברים ח:ה) כְּמוֹ בִּלְבָבֶךָ, ״תַּחַת הָאֵלָה אֲשֶׁר עִם שְׁכֶם״ (בראשית לה:ד), כְּמוֹ בִּשְׁכֶם, וְהַדּוֹמִים לָהֶם.
+- `onkelos:25:11:1` Targum Onkelos on whole 25:11 (version; filed at 25:11): וַהֲוָה בָּתַר דְּמִית אַבְרָהָם וּבָרֵךְ יְיָ יָת יִצְחָק בְּרֵיהּ וִיתֵב יִצְחָק עִם בֵּירָא דְמַלְאַךְ קַיָּמָא אִתְחֲזֵי עֲלַהּ:
+
+### Translation under review (25:11)
+
+English: And it came to pass after the death of Abraham that God blessed Isaac his son, and Isaac dwelt by Beer-lahai-roi.
+
+Literal: and-it-was after death-of Abraham and-blessed God (OBJ) Isaac his-son and-dwelt Isaac with well-of Lahai Roi
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 25:11.1 | and it came to pass |  | Qal I.2.a.(1) | wayyiqtol of הָיָה, the formula that opens the sentence |
+| 25:11.2 | after |  | 2.b |  |
+| 25:11.3 | the death of |  | 1 |  |
+| 25:11.4 | Abraham |  |  |  |
+| 25:11.5 | and blessed |  | Pi 2 |  |
+| 25:11.6 | God |  | 4 |  |
+| 25:11.7 | - |  |  |  |
+| 25:11.8 | Isaac |  |  |  |
+| 25:11.9 | his son |  | 1 |  |
+| 25:11.10 | and dwelt |  | Qal 3 | wayyiqtol |
+| 25:11.11 | Isaac |  |  |  |
+| 25:11.12 | by |  | 2 |  |
+| 25:11.13 | Beer |  |  | the place name בְּאֵר לַחַי רֹאִי, 'well of the living one who sees me' (lexicon); transliterated, the meaning is in the notes |
+| 25:11.14 | Lahai |  |  |  |
+| 25:11.15 | Roi |  |  |  |
+
+Phrases:
+- 25:11.1 25:11.2 25:11.3 25:11.4 | And it came to pass after the death of Abraham | 'and-it-was after death-of Abraham'; the formula, then the temporal phrase
+- 25:11.5 25:11.6 25:11.7 25:11.8 25:11.9 | that God blessed Isaac his son | 'and-blessed God (OBJ) Isaac his-son'; 'that' introduces the clause after the formula
+- 25:11.10 25:11.11 25:11.12 25:11.13 25:11.14 25:11.15 | and Isaac dwelt by Beer-lahai-roi | 'and-dwelt Isaac with well-of Lahai Roi'; the place name is one name in Hebrew and one in English
+
+Grammar notes:
+- The wayyiqtol וַיְהִי opens the sentence with the formula 'and it came to pass', then the temporal phrase.
+- The object marker before יִצְחָק has no English word; the suffix of בְּנוֹ 'his son' is in apposition to Isaac.
+- The verb וַיֵּשֶׁב comes again with its subject Isaac, after the object clause.
+
+Translator's note: Beer-lahai-roi is transliterated; the lexicon gives 'well of the living one who sees me'.
+
+Commentary rulings:
+- `rashi:25:11:1` not-applicable: Rashi says the verse is a consolation for mourners: God, who had given the blessings to Abraham, feared to bless Isaac because he foresaw Esau coming from him, and so waited for the one who had the blessings to come and bless him. A homily, not the plain sense.
+- `ramban:25:11:1` follows: Ramban says עִם בְּאֵר לַחַי רֹאִי means near that place, or, because a well is not a city, that Isaac pitched his tent near the well. The English 'by Beer-lahai-roi' follows.
+- `radak:25:11:1` records: Radak says וַיְבָרֶךְ means that God made Isaac prosper in his doings, as his father had prospered. The English keeps 'blessed' and records this reading.
+- `radak:25:11:2` follows: Radak says עִם here means 'as at the well', as in 'in the well'. The English 'by' takes it so.
+
+## Lexicon
+
+Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
+
+### `bdb:a.ae.aw` אַבְרָם (n.pr.m) root אבה: exalted father, Abram, Abraham
+
+### `bdb:a.cp.ac` אַחַר (adv) root אחר: the hinder, following part
+- `1.a` behind
+- `1.b` afterwards
+- `1` the hinder, following part — adv
+- `2.a` behind, after
+- `2.b` after
+- `2` the hinder, following part — prep
+- `3` after that
+
+### `bdb:a.di.aa` אֶל (prep): motion to, direction towards
+- `1` to, unto
+- `2` into
+- `3` towards
+- `4` against
+- `5` Unto, in addition to
+- `6` in regard to, concerning, on account of
+- `7` according to
+- `8` against, at, by
+- `9` motion, direction to
+
+### `bdb:a.dk.aa` אֵ֫לֶּה (pr.pl.m) root אלה: these
+- `a` these — in appos. to a subst. with a pron. suff. (always without the article)
+- `b` these, those
+- `c` these — with the art. (but only after a subst. determined likewise by the art.)
+- `d` these — with preps
+
+### `bdb:a.dl.ad` אֱלֹהִים (n.m.pl) root אלה: gods
+- `1.a` rulers, judges
+- `1.b` divine ones
+- `1.c` angels
+- `1.d` gods
+- `1` pl. in number
+- `2.a` god, goddess
+- `2.b` godlike one
+- `2.c` works of God, or things belongng to him
+- `2.d` God
+- `2` pl. intensive
+- `3` the (true) God
+- `4` God
+
+### `bdb:a.eq.ab` אִשָּׁה (n.f) root אנשׁ: woman, wife, female
+- `1` woman
+- `2` Wife
+- `3` Female
+- `4` each woman from her neighbor, each one
+
+### `bdb:a.ev.aa` אָסַף (vb) root אסף: gather, remove
+- `Qal 1` Qal gather, collect
+- `Qal 2` Qal gather
+- `Qal 3` Qal bring up the rear of
+- `Qal 4` Qal gather and take away, remove, withdraw
+- `Niph 1` Niph assemble, be gathered
+- `Niph 2` Niph pass. of Qal 2 (Niph of: gather, remove)
+- `Niph 3` Niph be taken away, removed, perish
+- `Pi 1` Pi gather
+- `Pi 2` Pi take in, receive into
+- `Pi 3` Pi rearguard, rearward
+- `Pu` Pu be gathered
+- `Hithp` Hithp gather themselves
+
+### `bdb:a.fx.aa` אֶ֫רֶץ (n. f) root ארץ: earth, land
+- `1.a` earth
+- `1.b` earth
+- `1.c` earth
+- `2.a` land — country, territory
+- `2.b` land — district, region
+- `2.c` land — trial territory
+- `2.d` land — piece of ground
+- `2.e` land
+- `2.f` land — = inhabitants of land
+- `2.g` land — used even of Shᵉʼôl
+- `2` land
+- `3.a` ground
+- `3.b` soil
+- `4.a` people of the land
+- `4.b` earth, land — in measurements of distance
+- `4.c` the country of the plain, level, plain country
+- `4.d` land of the living
+- `4.e` end(s) of the earth
+- `4` earth, land — אֶרֶץ in phrases
+- `5` lands, countries, lands of the nations
+
+### `bdb:a.gk.aa` אֲשֶׁר (part. of relation) root אשׁר: who
+
+### `bdb:a.gm.aa` אֵת (T) root אות: mark of the accusative
+
+### `bdb:a.gn.aa` אֵת (prep): with, proximity, from the surroundings, belongings of, from close proximity to
+- `1` together with
+- `2` with, proximity — Of localities
+- `3.a` with, proximity — in one's possession or keeping
+- `3.b` with, proximity — in one's knowledge or memory
+- `3` with, proximity — אֵת פּ׳ denotes specially
+- `4` from proximity with
+
+### `bdb:b.ac.ad` בְּאֵר לַחַי רֹאִי (n.pr.loc) root באר: well, living One that seeth me
+
+### `bdb:b.ca.aa` בֵּן (n.m): son
+- `1` son
+- `2` children
+- `3` youth, young men
+- `4` the young
+- `5` son — of plant shoots
+- `6` sparks, stars, arrows
+- `7.a` member
+- `7.b` son of (the) herd
+- `8` son — ב׳ as n. relat. followed by word of quality, characteristic, etc
+- `9` son — n. relat. of age
+
+### `bdb:b.dd.aa` בָּרַךְ (vb) root ברך: kneel, bless
+- `Qal 1` Qal kneel down
+- `Qal 2` Qal bless
+- `Niph` Niph bless oneself
+- `Pi 1` Pi bless God
+- `Pi 2` Pi God blesses
+- `Pi 3` Pi men bless men
+- `Pi 4` Pi salute, greet
+- `Pi 5` Pi bless, curse
+- `Pu 1` Pu to be blessed, adored
+- `Pu 2` Pu prospered by God
+- `Pu 3` Pu have prosperity invoked
+- `Pu 4` Pu in gratitude
+- `Hiph` Hiph and he made his camel kneel
+- `Hithp` Hithp bless oneself
+
+### `bdb:c.bd.aa` גָּוַע (vb) root גוע: expire, perish, die
+
+### `bdb:e.bf.aa` הָיָה (vb) root היה: fall out, come to pass, become, be
+- `Qal I.1.a` Qal Fall out, happen
+- `Qal I.1.b` Qal occur, take place, come about, come to pass
+- `Qal I.2.a.(1)` Qal and it came to pass
+- `Qal I.2.a.(2)` Qal come about, come to pass — rarely also Pf. c. וְ conj. וְהָיָה
+- `Qal I.2.b` Qal and it shall come to pass, came to pass
+- `Qal I.2` Qal come about, come to pass
+- `Qal II.1.a` Qal arise, appear, come
+- `Qal II.1.b` Qal Come into being, become — sq. prep
+- `Qal II.2.a` Qal become — sq. pred. noun (to be viewed as implicit accus.)
+- `Qal II.2.b` Qal become — sq. pred. adj
+- `Qal II.2.c` Qal become like
+- `Qal II.2.d` Qal become — sq. pred. לְ pers
+- `Qal II.2.e` Qal become — sq. לְ pred
+- `Qal II.2.f` Qal become — oft. c. לְ pred. לְ pers
+- `Qal II.2.g` Qal become — with עַל and לְ
+- `Qal II.2.h` Qal became the property of, come into the possession of
+- `Qal II.2` Qal become
+- `Qal II` Qal Come into being, become
+- `Qal III.1` Qal exist, be in existence
+- `Qal III.2` Qal abide, remain, continue
+- `Qal III.3` Qal be in, at a place, be situated, stand, lie
+- `Qal III.4` Qal Be — as copula, joining subj. & pred
+- `Qal III.5` Qal Be — periphrastic conjug
+- `Qal III` Qal Be
+- `Niph 1` Niph be done, be brought about, occur, come to pass
+- `Niph 2` Niph be done, finished, gone
+
+### `bdb:g.cd.ad` זָקֵן (adj) root זקן: old
+- `1` old
+- `2.a` old man
+- `2.b` elder
+- `2` old — usu. as subst
+
+### `bdb:h.cd.aa` חָיָה (vb) root חיה: live
+- `Qal 1` Qal live
+- `Qal 2` Qal be quickened, revive
+- `Pi 1` Pi preserve alive, let live
+- `Pi 2` Pi give life
+- `Pi 3` Pi quicken, revive, refresh
+- `Hiph 1` Hiph preserve alive, let live
+- `Hiph 2` Hiph quicken, revive
+
+### `bdb:h.cd.ab` חַי (adj) root חיה: alive, living
+- `1.a` living one
+- `1.b` alive, living — of man
+- `1.c` alive, living
+- `1.d` alive, living — animals and man
+- `1.e` green
+- `1.f` fresh
+- `2` lively, active
+- `3` reviving
+
+### `bdb:h.cd.ag` חַיִּים (n.m) root חיה: life
+- `1` life
+- `2` life
+- `3` sustenance, maintenance
+
+### `bdb:h.dr.ab` חָמֵשׁ (n.m) root חמשׁ: five
+
+### `bdb:h.gy.ae` חֵת (n.pr.m): Heth
+
+### `bdb:h.gy.af` חִתִּי (adj): Hittite, s
+
+### `bdb:i.ai.ab` טוֹב (adj) root טוב: pleasant, agreeable, good
+- `1` pleasant, agreeable
+- `2` pleasant, agreeable, pleasing, well
+- `3` good, excellent
+- `4` good, rich, valuable
+- `5` good, appropriate, becoming
+- `6` better
+- `7` glad, happy, prosperous
+- `8` good understanding
+- `9` good, kind, benign
+- `10` good, right
+
+### `bdb:j.ay.aa` יוֹם (n.m): day
+- `1` day
+- `2` Day
+- `3` day of Yahweh
+- `4` days
+- `5` Days
+- `6` time
+- `7` day — Phrases
+
+### `bdb:j.ds.aa` יָשַׁב (vb) root ישׁב: sit, remain, dwell
+- `Qal 1.a` Qal sit
+- `Qal 1.b` Qal sit, sit down
+- `Qal 1.c` Qal sit down
+- `Qal 1.d` Qal sit, be set
+- `Qal 2.a` Qal remain, stay, tarry
+- `Qal 2.b` Qal sit, remain, dwell — with special emphasis of qualifying phr
+- `Qal 3` Qal dwell, have one’s abode
+- `Qal 4` Qal sit, abide, seated in its place, be inhabited
+- `Niph` Niph be inhabited
+- `Pi` Pi and they shall set their encampments in thee
+- `Hiph 1` Hiph cause to sit
+- `Hiph 2` Hiph cause to abide
+- `Hiph 3.a` Hiph cause to dwell
+- `Hiph 3.b` Hiph cause, to be inhabited
+- `Hiph 4` Hiph marry, give a dwelling
+- `Hoph` Hoph and ye be made to dwell alone in the midst of the land
+
+### `bdb:k.cp.ac` מַכְפֵּלָה (n.pr.loc) root כפל: Machpelah
+
+### `bdb:m.ac.aa` מֵאָה (n.f) root מאה: hundred
+- `1` hundred — as simple number
+- `2` hundred — as part of larger number
+- `3` hundredth
+
+### `bdb:m.be.aa` מוּת (vb) root מות: die
+- `Qal 1` Qal die
+- `Qal 2` Qal die, be put to death
+- `Po‛lel` Po‛lel kill, put to death, despatch
+- `Hiph 1` Hiph abs., elsewhere c. acc., subj. man (Hiph of: die)
+- `Hiph 2` Hiph subj. God, by inflicting penalty (Hiph of: die)
+- `Hiph 3` Hiph of animals killing men (Hiph of: die)
+- `Hiph 4` Hiph bring to a premature death (Hiph of: die)
+- `Hoph` Hoph be killed, put to death
+
+### `bdb:m.be.ab` מָ֫וֶת (n.m) root מות: death
+- `1` death
+- `2` death by violence
+- `3` state of death, place of death
+
+### `bdb:m.ck.ap` מַמְרֵא (n.pr.m): Mamre
+
+### `bdb:n.gg.aa` נָתַן (vb) root נתן: give, put, set
+- `Qal 1` Qal give
+- `Qal 2` Qal Put, set
+- `Qal 3` Qal Make, constitute
+- `Niph 1` Niph be given
+- `Niph 2` Niph Be put, set
+- `Hoph 1.a` Hoph be given, bestowed
+- `Hoph 1.b` Hoph be given
+- `Hoph 2` Hoph be put
+
+### `bdb:n.gg.ai` מַתָּנָה (n.f) root נתן: gift
+
+### `bdb:p.bc.ab` עוֹד (subst) root עוד: a going round, continuance, still, yet, again, besides
+
+### `bdb:p.cs.ar` עַל (subst) root עלה: above
+- `I` height
+- `II.1.a.(a)` Upon, upon, on — of clothing, etc., which any one wears
+- `II.1.a.(b)` Upon, upon, on — With verbs of covering or protecting, even though the cover or veil be not over or above the thing covered, but around or before it
+- `II.1.a` Upon, upon, on — —
+- `II.1.b` upon
+- `II.1.c` upon, on
+- `II.1.d` upon
+- `II.1.e` upon
+- `II.1.f` on
+- `II.1` Upon, upon, on
+- `II.2` excess
+- `II.3` elevation, pre-eminence
+- `II.4` addition
+- `II.5` over, above, over
+- `II.6` by, on
+- `II.7` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — In connection with verbs of motion (actual or fig.)
+- `II.8` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — By writers of the silver age, על is sts. used with the force of a dative
+- `II.9` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against — With other particles
+- `II` upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against
+- `III.a` because that
+- `III.b` עַל כִּי similar in meaning, but less frequent
+- `III.c.(a)` because
+- `III.c.(b)` notwithstanding that, although
+- `III.c` עַל alone
+- `III` As conj
+- `IV.1.a` as concerning, as upon
+- `IV.1.b` the like of, the like of
+- `IV.1` with כְּ (rare and late)
+- `IV.2` from upon, from over, from by
+- `IV` Compounds
+
+### `bdb:p.dj.aa` עִם (prep): with
+- `1.a` aid
+- `1.b` with
+- `1.c` with, against
+- `1.d` with, with, towards
+- `1.e` together with
+- `1.f` aid
+- `1.g` as long as
+- `1` with — of fellowship and companionship
+- `2` close to, beside
+- `3.a` in the house, family, service of
+- `3.b` In possession of
+- `3.c` In the custody, care of
+- `3.d` Beside, except
+- `3.e` With, friendly with
+- `3` with — Of persons, עִם is spec
+- `4` with
+- `5` together with, in spite of, notwithstanding
+
+### `bdb:p.dj.ad` עַם (n.[m.]): kinsman
+
+### `bdb:p.eh.af` עֶפְרוֹן (n.pr): Ephron
+- `1` m. Hittite, Abr.’s time
+- `2` loc. Kt
+- `3` mont. on N. border of Judah
+
+### `bdb:p.ft.ab` מְעָרָה (n.f) root ערר: cave
+
+### `bdb:q.bl.ag` פִּלֶ֫גֶשׁ (n.f): concubine
+- `1` concubine
+- `2` paramour, concubinage
+
+### `bdb:q.bu.ab` פָּנֶה (n.m) root פנה: face, faces
+- `I.1` face, faces
+- `I.2.a` presence, person
+- `I.2.b` see, face
+- `I.3` face
+- `I.4` face
+- `I.5` face, surface
+- `I.6` before
+- `I.7` face, faces — for other phrases
+- `II` face, faces — with prepositions
+
+### `bdb:r.br.ac` יִצְחָק (n.pr.m) root צחק: Isaac, he laugheth
+
+### `bdb:r.bs.ad` צֹ֫חַר (n.pr.m): Zohar. Compare
+- `1` father of Ephron the Hittite
+- `2` son of Simeon
+- `3` name in Judah
+
+### `bdb:s.ah.aa` קָבַר (vb) root קבר: bury
+- `Qal` Qal bury
+- `Niph` Niph be buried
+- `Pi` Pi bury
+- `Pu` Pu . Gn 25:10 (Pu of: bury)
+
+### `bdb:s.al.ab` קֶ֫דֶם (n.[m.]) root קדם: front, east, aforetime
+- `1.a` front
+- `1.b` East, eastward
+- `1` front, east, aforetime — loc
+- `2.a` ancient mts.
+- `2.b` in ancient days
+- `2.c` from of old
+- `2.d` anciently, of old
+- `2.e` beginning
+- `2` ancient time, aforetime
+
+### `bdb:s.al.ad` קֵ֫דֶם (adv) root קדם: eastward
+
+### `bdb:s.cb.aa` קָנָה (vb) root קנה: get, acquire
+- `Qal 1` Qal get, acquire
+- `Qal 2` Qal buy
+- `Niph` Niph be bought
+- `Hiph` Hiph caused, to purchase me, made me a bondman
+
+### `bdb:u.ad.ae` שָׂבֵעַ (adj) root שׂבע: sated, satisfied, surfeited
+
+### `bdb:u.ak.ac` שָׂדֶה (n.m) root שׂדה: field
+- `1` field
+- `2` field, land
+- `3` land
+
+### `bdb:u.az.ac` שֵׂיבָה (n.f) root שׂיב: hoary head, old age
+
+### `bdb:u.cm.ae` שָׂרָה (n.pr.f): princess
+
+### `bdb:v.av.ac` שִׁבְעִים (n.pl) root שׁבע: seventy
+
+### `bdb:v.dl.aa` שָׁלַח (vb) root שׁלח: send
+- `Qal 1` Qal send
+- `Qal 2` Qal send
+- `Qal 3` Qal stretch out
+- `Qal 4` Qal send away
+- `Qal 5` Qal let loose
+- `Niph` Niph letters were sent
+- `Pi 1` Pi send off, away
+- `Pi 2.a` Pi send away
+- `Pi 2.b` Pi give over
+- `Pi 2.c` Pi cast out
+- `Pi 2.d` Pi send out, forth
+- `Pi 3` Pi let go, set free
+- `Pi 4` Pi shoot forth
+- `Pi 5` Pi let down
+- `Pi 6` Pi shoot
+- `Pi 7` Pi Phrases (Pi of: send)
+- `Pu` Pu be sent off, be put away, divorced, be impelled
+- `Hiph` Hiph and I, will send
+
+### `bdb:v.dv.aa` שָׁם (adv): there, thither
+
+### `bdb:v.ed.au` יִשְׁמָעֵאל (n.pr.m): Ēl heareth
+- `1` Ēl heareth — son of Abraham and Hagar
+- `2` Ēl heareth — murderer of Gedaliah
+- `3` Ēl heareth — in Benj
+- `4` Ēl heareth — in Judah
+- `5` Ēl heareth — Jew with foreign wife
+
+### `bdb:v.ek.ab` שָׁנָה (n.f) root שׁנה: year
+

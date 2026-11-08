@@ -26,11 +26,17 @@ type pageComment struct {
 	Normative                                        bool
 }
 
+type pageReading struct {
+	Span, English, Source, Anchor, Note string
+	IDs                                 string // the span's token ids, space-separated
+}
+
 type pageSeg struct {
 	Ref, English, Literal, Note, Para string
 	Words                             []pageWord
-	Grammar, Apparatus                []string
+	Grammar, Apparatus, Context       []string
 	Comments                          []pageComment
+	Readings                          []pageReading
 	Missing                           bool
 }
 
@@ -74,6 +80,7 @@ type jsTok struct {
 	Source  string    `json:"src,omitempty"`
 	Notes   []string  `json:"wn,omitempty"`
 	Comms   []string  `json:"c,omitempty"`
+	Reads   []string  `json:"rd,omitempty"` // other readings of a span with this word
 }
 
 type jsData struct {
@@ -95,10 +102,31 @@ func (e *Edition) section(sec work.Section) (*page, error) {
 		}
 		p.Last = s.Ref
 		f := e.Final[s.Ref]
+		reads := map[string][]string{}
 		ps := pageSeg{Ref: s.Ref, Para: s.Para, Missing: f == nil}
 		if f != nil {
 			ps.English, ps.Literal, ps.Note, ps.Grammar = f.English, f.Literal, f.Note, f.Grammar
 			ps.Apparatus = append(ps.Apparatus, f.Apparatus...)
+			ps.Context = f.Context
+			for _, r := range f.Readings {
+				pr := pageReading{English: r.English, Source: r.Source, Note: r.Note, IDs: strings.Join(r.Tokens, " ")}
+				if a := e.anchor(r.Source); a != nil {
+					pr.Source, pr.Anchor = a.Commentator, a.ID
+				}
+				var words []string
+				for _, id := range r.Tokens {
+					for _, t := range s.Tokens {
+						if t.ID == id {
+							words = append(words, t.Text)
+						}
+					}
+				}
+				pr.Span = strings.Join(words, " ")
+				for _, id := range r.Tokens {
+					reads[id] = append(reads[id], fmt.Sprintf("%s: %s (%s)", pr.Span, r.English, pr.Source))
+				}
+				ps.Readings = append(ps.Readings, pr)
+			}
 		}
 		for _, v := range s.Variants {
 			ps.Apparatus = append(ps.Apparatus, fmt.Sprintf("%s — %s reads %s (%s)", v.Base, v.Witness, v.Reading, v.Kind))
@@ -127,7 +155,7 @@ func (e *Edition) section(sec work.Section) (*page, error) {
 		for _, t := range s.Tokens {
 			g := e.gloss(f, t.ID)
 			w := pageWord{ID: t.ID, Text: t.Text, Maqaf: t.Maqaf, Punct: t.Punct, Anchored: len(comms[t.ID]) > 0}
-			jt := jsTok{Text: t.Text, Root: t.Root, Accents: t.Accents, Lex: t.Lex, Ketiv: t.Ketiv, Alt: t.Alt, Source: t.MorphSource, Notes: t.Notes, Comms: comms[t.ID]}
+			jt := jsTok{Text: t.Text, Root: t.Root, Accents: t.Accents, Lex: t.Lex, Ketiv: t.Ketiv, Alt: t.Alt, Source: t.MorphSource, Notes: t.Notes, Comms: comms[t.ID], Reads: reads[t.ID]}
 			if g != nil {
 				w.Gloss = g.Gloss
 				jt.Gloss, jt.Sense, jt.Note = g.Gloss, g.Sense, g.Note

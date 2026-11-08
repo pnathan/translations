@@ -1,0 +1,1543 @@
+{
+ "unit": "vayera-11",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "20:9",
+   "english": "Then Abimelech summoned Abraham and said to him, \"What have you done to us? And what have I sinned against you, that you have brought on me and on my kingdom a great sin? You have done to me deeds that ought not to be done.\"",
+   "literal": "and-summoned Abimelech to-Abraham and-said to-him what you-have-done to-us and-what I-have-sinned to-you that you-have-brought upon-me and-upon my-kingdom sin great deeds that not should-be-done you-have-done with-me",
+   "tokens": [
+    {
+     "id": "20:9.1",
+     "gloss": "then summoned",
+     "sense": "Qal 5",
+     "note": "Wayyiqtol of qara, 'to summon'. The vav is rendered 'then'."
+    },
+    {
+     "id": "20:9.2",
+     "gloss": "Abimelech",
+     "sense": "1"
+    },
+    {
+     "id": "20:9.3",
+     "gloss": "to Abraham"
+    },
+    {
+     "id": "20:9.4",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol. The speech that follows is introduced by it."
+    },
+    {
+     "id": "20:9.5",
+     "gloss": "to him"
+    },
+    {
+     "id": "20:9.6",
+     "gloss": "what",
+     "sense": "1"
+    },
+    {
+     "id": "20:9.7",
+     "gloss": "have you done",
+     "sense": "Qal I.2",
+     "note": "Qatal, second masculine singular. With 'to us' the verb means 'deal with', not only 'make'."
+    },
+    {
+     "id": "20:9.8",
+     "gloss": "to us"
+    },
+    {
+     "id": "20:9.9",
+     "gloss": "and what",
+     "sense": "1"
+    },
+    {
+     "id": "20:9.10",
+     "gloss": "have I sinned",
+     "sense": "Qal 2"
+    },
+    {
+     "id": "20:9.11",
+     "gloss": "against you",
+     "note": "The suffix ךְ here has no vowel under it. In this pausal position (zaqef) it is the ordinary second masculine singular, spelled like the feminine לָךְ; Abimelech is speaking to Abraham, so 'against you' is masculine. The morphology data parse it as feminine; the data are kept and the note records the correction."
+    },
+    {
+     "id": "20:9.12",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "20:9.13",
+     "gloss": "you have brought",
+     "sense": "Hiph 2"
+    },
+    {
+     "id": "20:9.14",
+     "gloss": "upon me",
+     "sense": "II.1"
+    },
+    {
+     "id": "20:9.15",
+     "gloss": "and upon",
+     "sense": "II.1"
+    },
+    {
+     "id": "20:9.16",
+     "gloss": "my kingdom",
+     "sense": "1"
+    },
+    {
+     "id": "20:9.17",
+     "gloss": "sin",
+     "sense": "1"
+    },
+    {
+     "id": "20:9.18",
+     "gloss": "great",
+     "sense": "3"
+    },
+    {
+     "id": "20:9.19",
+     "gloss": "deeds"
+    },
+    {
+     "id": "20:9.20",
+     "gloss": "that"
+    },
+    {
+     "id": "20:9.21",
+     "gloss": "not"
+    },
+    {
+     "id": "20:9.22",
+     "gloss": "should be done",
+     "sense": "Niph 1"
+    },
+    {
+     "id": "20:9.23",
+     "gloss": "you have done",
+     "sense": "Qal I.1"
+    },
+    {
+     "id": "20:9.24",
+     "gloss": "with me",
+     "sense": "4"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "20:9.1",
+      "20:9.2",
+      "20:9.3"
+     ],
+     "english": "Then Abimelech summoned Abraham",
+     "literal": "'and-summoned Abimelech to-Abraham': the la- of 'to Abraham' marks the one summoned"
+    },
+    {
+     "tokens": [
+      "20:9.4",
+      "20:9.5"
+     ],
+     "english": "and said to him",
+     "literal": "'and-said to-him'"
+    },
+    {
+     "tokens": [
+      "20:9.6",
+      "20:9.7",
+      "20:9.8"
+     ],
+     "english": "What have you done to us",
+     "literal": "'what you-did to-us': the question, with the verb meaning 'deal'"
+    },
+    {
+     "tokens": [
+      "20:9.9",
+      "20:9.10",
+      "20:9.11"
+     ],
+     "english": "And what have I sinned against you",
+     "literal": "'and-what I-sinned to-you'"
+    },
+    {
+     "tokens": [
+      "20:9.12"
+     ],
+     "english": "that",
+     "literal": "'that': opens the clause that states the offence"
+    },
+    {
+     "tokens": [
+      "20:9.13",
+      "20:9.14"
+     ],
+     "english": "you have brought on me",
+     "literal": "'you-brought upon-me'"
+    },
+    {
+     "tokens": [
+      "20:9.15",
+      "20:9.16"
+     ],
+     "english": "and on my kingdom",
+     "literal": "'and-upon my-kingdom'"
+    },
+    {
+     "tokens": [
+      "20:9.17",
+      "20:9.18"
+     ],
+     "english": "a great sin",
+     "literal": "'sin great': the adjective follows the noun"
+    },
+    {
+     "tokens": [
+      "20:9.19",
+      "20:9.20",
+      "20:9.21",
+      "20:9.22"
+     ],
+     "english": "deeds that ought not to be done",
+     "literal": "'deeds which not should-be-done': the yiqtol with lo' is read as 'ought not to be done' (Radak: not fit to be done)"
+    },
+    {
+     "tokens": [
+      "20:9.23",
+      "20:9.24"
+     ],
+     "english": "You have done to me",
+     "literal": "'you-did with-me': the verb comes after its object in the Hebrew"
+    }
+   ],
+   "grammar": [
+    "Two wayyiqtol verbs carry the scene: וַיִּקְרָא 'then summoned' and וַיֹּאמֶר 'and said'. The speech that follows is two questions and one statement.",
+    "The etnaḥta on גְּדֹלָה ends the first half of the verse, the complaint with its 'great' sin. The second half is the charge, with the object before the verb: מַעֲשִׂים אֲשֶׁר לֹא יֵעָשׂוּ עָשִׂיתָ עִמָּדִי.",
+    "לֹא יֵעָשׂוּ is a yiqtol of the nifal with negation: deeds that are not done, and so, in Radak's sense, deeds that should not be done.",
+    "The form לָךְ (with a bare kaf) is the pausal form of 'to you' (masculine) and is spelled like the feminine; the context shows it is masculine."
+   ],
+   "note": "The complaint is in two parts, a question about what Abraham did and a charge that the deeds are wrong. The English keeps both questions as questions.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:20:9:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra on מֶה in מֶה עָשִׂיתָ: it has a 'small patah' (his name for the segol) under the mem because of the guttural letter (the ayin of עָשִׂיתָ) that follows. He adds that the word after it, and the rule, are the same (הבא אחריו וכן המשפט). It concerns the pointing, not the sense."
+    },
+    {
+     "anchor": "rashi:20:9:1",
+     "relation": "records",
+     "summary": "Rashi: a blow of a kind never before sent on any creature has come upon us through you: the stopping of every bodily opening (of seed, of the 'small' matter [קְטַנִּים], of dung, and of the ears and the nose). The English keeps 'deeds'; Rashi's reading of the deeds as this plague is recorded."
+    },
+    {
+     "anchor": "radak:20:9:5",
+     "relation": "follows",
+     "summary": "Radak: the deeds are not fit to be done by a man like you (לְאָדָם כָּמוֹךָ), to bring people into the stumbling of sin. This matches 'ought not to be done'."
+    }
+   ],
+   "context": [
+    "'A great sin' (חֲטָאָה גְדֹלָה): in Egyptian and Ugaritic texts a 'great sin' is a term for adultery. Abimelech's words say that the taking of a man's wife brings guilt on the king and, as the head of the people, on his kingdom."
+   ]
+  },
+  {
+   "ref": "20:10",
+   "english": "Abimelech said to Abraham, \"What did you see that you did this thing?\"",
+   "literal": "and-said Abimelech to-Abraham what you-saw that you-did (object marker) the-thing this",
+   "tokens": [
+    {
+     "id": "20:10.1",
+     "gloss": "said",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol. The vav is not rendered; the sentence opens with the verb."
+    },
+    {
+     "id": "20:10.2",
+     "gloss": "Abimelech",
+     "sense": "1"
+    },
+    {
+     "id": "20:10.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "20:10.4",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "20:10.5",
+     "gloss": "what",
+     "sense": "1"
+    },
+    {
+     "id": "20:10.6",
+     "gloss": "did you see",
+     "sense": "Qal 7",
+     "note": "Qatal, second masculine singular. The sense is mental: what Abraham saw as the ground for his act (Radak)."
+    },
+    {
+     "id": "20:10.7",
+     "gloss": "that",
+     "sense": "1"
+    },
+    {
+     "id": "20:10.8",
+     "gloss": "you did",
+     "sense": "Qal I.1"
+    },
+    {
+     "id": "20:10.9",
+     "gloss": "(object marker)",
+     "note": "The object marker before הַדָּבָר has no English counterpart."
+    },
+    {
+     "id": "20:10.10",
+     "gloss": "thing",
+     "sense": "IV"
+    },
+    {
+     "id": "20:10.11",
+     "gloss": "this",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "20:10.1",
+      "20:10.2"
+     ],
+     "english": "Abimelech said",
+     "literal": "'said Abimelech'"
+    },
+    {
+     "tokens": [
+      "20:10.3",
+      "20:10.4"
+     ],
+     "english": "to Abraham",
+     "literal": "'to Abraham'"
+    },
+    {
+     "tokens": [
+      "20:10.5",
+      "20:10.6"
+     ],
+     "english": "What did you see",
+     "literal": "'what saw you': the question word first, then the verb"
+    },
+    {
+     "tokens": [
+      "20:10.7"
+     ],
+     "english": "that",
+     "literal": "'that': introduces the clause the question is about"
+    },
+    {
+     "tokens": [
+      "20:10.8"
+     ],
+     "english": "you did",
+     "literal": "'you-did'"
+    },
+    {
+     "tokens": [
+      "20:10.9"
+     ],
+     "english": "-",
+     "literal": "object marker, no English counterpart"
+    },
+    {
+     "tokens": [
+      "20:10.10",
+      "20:10.11"
+     ],
+     "english": "this thing",
+     "literal": "'the-thing this'"
+    }
+   ],
+   "grammar": [
+    "The question is direct speech after the wayyiqtol 'said'. מָה 'what' opens it, and the verb follows.",
+    "רָאִיתָ 'you saw' is used of perceiving a reason (BDB Qal 7). Abimelech asks what Abraham saw that made him act so.",
+    "The conjunction כִּי after מָה introduces the clause the question is about: 'what [did you see] that you did this thing'.",
+    "The etnaḥta on אַבְרָהָם divides the verse: the speech tag first, then the question."
+   ],
+   "note": "The question asks for Abraham's reason, not a plain report of what he saw.",
+   "commentary": [
+    {
+     "anchor": "radak:20:10:1",
+     "relation": "follows",
+     "summary": "Radak: after Abraham was caught in what he had done, since he had not acted rightly, Abimelech asked him to say why he did it, 'what did he see', because a man like Abraham cannot do such a thing without a reason. The English asks for the reason in the same way."
+    }
+   ]
+  },
+  {
+   "ref": "20:11",
+   "english": "Abraham said, \"Because I thought, surely there is no fear of God in this place, and they will kill me on account of my wife.",
+   "literal": "and-said Abraham because I-said surely not-there-is fear-of God in-the-place this and-they-will-kill-me on account-of matter-of my-wife",
+   "tokens": [
+    {
+     "id": "20:11.1",
+     "gloss": "said",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol. The sentence opens with the speaker."
+    },
+    {
+     "id": "20:11.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "20:11.3",
+     "gloss": "because",
+     "sense": "3",
+     "note": "Conjunction introducing the reason for the act."
+    },
+    {
+     "id": "20:11.4",
+     "gloss": "I thought",
+     "sense": "Qal 2",
+     "note": "Qatal, first person. 'Say in the heart' (Qal 2): what follows is his thought, not words spoken aloud. Ramban reads it so."
+    },
+    {
+     "id": "20:11.5",
+     "gloss": "surely",
+     "sense": "2",
+     "note": "The emphatic 'surely', not 'only'. Radak reads 'only'; the note records it."
+    },
+    {
+     "id": "20:11.6",
+     "gloss": "there is no",
+     "sense": "2"
+    },
+    {
+     "id": "20:11.7",
+     "gloss": "fear of",
+     "sense": "3",
+     "note": "Construct of 'fear'; 'fear of God' is the reverence owed to God."
+    },
+    {
+     "id": "20:11.8",
+     "gloss": "God",
+     "sense": "3",
+     "note": "A plural form with a singular sense, the God whom Abraham serves."
+    },
+    {
+     "id": "20:11.9",
+     "gloss": "in the place",
+     "sense": "2.a"
+    },
+    {
+     "id": "20:11.10",
+     "gloss": "this",
+     "sense": "2"
+    },
+    {
+     "id": "20:11.11",
+     "gloss": "and they will kill me",
+     "sense": "Qal 1.a",
+     "note": "Weqatal after the clause: the consequence of the thought. The subject is impersonal, 'they', the people of the place."
+    },
+    {
+     "id": "20:11.12",
+     "gloss": "on account of",
+     "sense": "II"
+    },
+    {
+     "id": "20:11.13",
+     "gloss": "matter of",
+     "sense": "IV"
+    },
+    {
+     "id": "20:11.14",
+     "gloss": "my wife",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "20:11.1",
+      "20:11.2"
+     ],
+     "english": "Abraham said",
+     "literal": "'said Abraham'"
+    },
+    {
+     "tokens": [
+      "20:11.3"
+     ],
+     "english": "Because",
+     "literal": "'that': opens the reason"
+    },
+    {
+     "tokens": [
+      "20:11.4"
+     ],
+     "english": "I thought",
+     "literal": "'I-said' inwardly"
+    },
+    {
+     "tokens": [
+      "20:11.5",
+      "20:11.6",
+      "20:11.7",
+      "20:11.8"
+     ],
+     "english": "surely there is no fear of God",
+     "literal": "'surely not-there-is fear-of God': the thought itself"
+    },
+    {
+     "tokens": [
+      "20:11.9",
+      "20:11.10"
+     ],
+     "english": "in this place",
+     "literal": "'in-the-place this'"
+    },
+    {
+     "tokens": [
+      "20:11.11"
+     ],
+     "english": "and they will kill me",
+     "literal": "'and-they-killed-me': weqatal, the consequence"
+    },
+    {
+     "tokens": [
+      "20:11.12",
+      "20:11.13",
+      "20:11.14"
+     ],
+     "english": "on account of my wife",
+     "literal": "'on-account-of matter-of my-wife'"
+    }
+   ],
+   "grammar": [
+    "כִּי begins the reason: 'Because I thought'. The reason for the act is given before its consequence.",
+    "אָמַרְתִּי is qatal, first person, 'say' in the heart (Qal 2). The verb has no object; the sentence after it is what he thought.",
+    "רַק is the emphatic 'surely' (BDB 2). Radak's 'only' is recorded in the commentary.",
+    "וַהֲרָגוּנִי is weqatal, giving the consequence; the subject is impersonal. The etnaḥta on הַזֶּה divides the verse: the thought, then its consequence."
+   ],
+   "note": "Abraham gives his reason, not an excuse to Abimelech. The English keeps 'surely' for רַק and 'fear of God' for יִרְאַת אֱלֹהִים.",
+   "commentary": [
+    {
+     "anchor": "rashi:20:11:1",
+     "relation": "records",
+     "summary": "Rashi: when a guest comes to a town, do they ask him about eating and drinking, or about his wife ('Is she your wife or your sister?')? The question about the wife is Rashi's sign (citing Bava Kamma) that the place had no fear of God. The English keeps Abraham's own reason; Rashi's inference is recorded."
+    },
+    {
+     "anchor": "radak:20:11:1",
+     "relation": "records",
+     "summary": "Radak reads רַק as 'only': the land is good, and only this is bad in it, that its people do not fear God, so they would kill him to make his wife free to them. The English reads 'surely'; the 'only' reading is recorded."
+    },
+    {
+     "anchor": "sforno:20:11:1",
+     "relation": "declines",
+     "summary": "Sforno takes 'fear' as fear of royal authority: the Philistine lords were not full kings whom the people feared, as Goliath's words show (1 Samuel 17:8). The English keeps 'fear of God' because the Hebrew names God; Sforno's reading is recorded here for the editor."
+    }
+   ],
+   "apparatus": [
+    "Sforno's reading of 'fear' as fear of royal power is not adopted in the English."
+   ]
+  },
+  {
+   "ref": "20:12",
+   "english": "Besides, she really is my sister, the daughter of my father, but not the daughter of my mother, and she became my wife.",
+   "literal": "and-also truly my-sister daughter of-my-father she; but not daughter of-my-mother; and-became to-me for-wife",
+   "tokens": [
+    {
+     "id": "20:12.1",
+     "gloss": "and also"
+    },
+    {
+     "id": "20:12.2",
+     "gloss": "truly"
+    },
+    {
+     "id": "20:12.3",
+     "gloss": "my sister",
+     "sense": "1"
+    },
+    {
+     "id": "20:12.4",
+     "gloss": "daughter",
+     "sense": "1"
+    },
+    {
+     "id": "20:12.5",
+     "gloss": "of my father",
+     "sense": "1"
+    },
+    {
+     "id": "20:12.6",
+     "gloss": "she",
+     "sense": "3",
+     "note": "The text writes הוא (masculine 'he') with the vowels of the qere הִיא: the Pentateuch regularly writes the feminine 'she' this way. The qere is translated, 'she'. The pronoun follows the predicate, so it has the least emphasis: 'she is my sister'."
+    },
+    {
+     "id": "20:12.7",
+     "gloss": "but"
+    },
+    {
+     "id": "20:12.8",
+     "gloss": "not"
+    },
+    {
+     "id": "20:12.9",
+     "gloss": "daughter",
+     "sense": "1"
+    },
+    {
+     "id": "20:12.10",
+     "gloss": "of my mother",
+     "sense": "1"
+    },
+    {
+     "id": "20:12.11",
+     "gloss": "and she became",
+     "sense": "Qal II.2.f",
+     "note": "Wayyiqtol. 'Become' with לְ before the person and the predicate."
+    },
+    {
+     "id": "20:12.12",
+     "gloss": "to me"
+    },
+    {
+     "id": "20:12.13",
+     "gloss": "for a wife",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "20:12.1"
+     ],
+     "english": "Besides",
+     "literal": "'and-also': adds this statement to the claim of verse 11"
+    },
+    {
+     "tokens": [
+      "20:12.2"
+     ],
+     "english": "really",
+     "literal": "'truly'"
+    },
+    {
+     "tokens": [
+      "20:12.3",
+      "20:12.4",
+      "20:12.5"
+     ],
+     "english": "my sister, the daughter of my father",
+     "literal": "'my-sister daughter of-my-father'"
+    },
+    {
+     "tokens": [
+      "20:12.6"
+     ],
+     "english": "she",
+     "literal": "'she'"
+    },
+    {
+     "tokens": [
+      "20:12.7"
+     ],
+     "english": "but",
+     "literal": "'but'"
+    },
+    {
+     "tokens": [
+      "20:12.8",
+      "20:12.9",
+      "20:12.10"
+     ],
+     "english": "not the daughter of my mother",
+     "literal": "'not daughter of-my-mother'"
+    },
+    {
+     "tokens": [
+      "20:12.11"
+     ],
+     "english": "and she became",
+     "literal": "'and-became'"
+    },
+    {
+     "tokens": [
+      "20:12.12",
+      "20:12.13"
+     ],
+     "english": "my wife",
+     "literal": "'to-me for-wife'"
+    }
+   ],
+   "grammar": [
+    "Three clauses: the relation (my sister, daughter of my father, she), the exception (not the daughter of my mother), and the marriage (she became my wife).",
+    "הִוא 'she' follows the predicate and is the least emphatic pronoun (BDB 3): 'she is my sister'.",
+    "וְגַם ('and also') adds this statement to the claim of verse 11.",
+    "וַתְּהִי לִי לְאִשָּׁה: 'become' with לְ before the person and the predicate (BDB Qal II.2.f): 'became to me for a wife'. The etnaḥta on אִמִּי divides the verse."
+   ],
+   "note": "The English gives Abraham's claim as he states it, in the continuing speech that began in 20:11. Ibn Ezra's view that the statement was an answer suited to the moment, an evasion of Abimelech, is recorded in the commentary; it is an account of Abraham's purpose, not a sense of the words, and the English does not adopt it.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:20:12:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: some say 'my sister, daughter of my father' uses 'father' as in 'the God of my father Abraham', that is, of a forefather (so, a niece). The right reading in his view is that Abraham put Abimelech off with words suited to the need of the hour; he promises to bring the proofs at 27:19 ('I am Esau your firstborn'). The English keeps the plain statement; his view of its purpose is recorded."
+    },
+    {
+     "anchor": "rashi:20:12:1",
+     "relation": "records",
+     "summary": "Rashi: a daughter of the father is permitted to the sons of Noah, since there is no fatherhood among the nations; Abraham answered in this form to confirm his words. Rashi raises the objection that Haran's daughter was a niece, and answers that grandchildren are like children. The English keeps 'sister' in its plain sense; the legal reading is recorded."
+    },
+    {
+     "anchor": "radak:20:12:1",
+     "relation": "records",
+     "summary": "Radak reads 'sister' as a brother's daughter, a niece, and so Abraham did not lie: grandchildren are as children. The English reads the word as sister; Radak's reading is recorded."
+    },
+    {
+     "anchor": "ramban:20:12:1",
+     "relation": "records",
+     "summary": "Ramban: he cannot see the point of this excuse, for if Abraham told them 'she is my sister' to mislead them, he sinned against them whether it was true or false. He then suggests two answers to 'what did you see': Abraham did not know them and thought there might be no fear of God here, and he had agreed with Sarah to say this everywhere, as the thing was true and a protection. He notes that R. Abraham (Ibn Ezra) takes all these as words to put Abimelech off. The English keeps the claim; Ramban's view of its purpose is recorded."
+    }
+   ],
+   "apparatus": [
+    "הִוא (12.6): written הוא, read הִיא (the Pentateuch's regular qere); translated 'she'.",
+    "'Sister' as a niece (Radak) and as a half-sister through the father (the plain sense) are both recorded in the commentary."
+   ],
+   "context": [
+    "Later law forbids marriage with a half-sister (Leviticus 18:9 and 18:11). Genesis 20:12 is one place where the commentators debate whether the rule bound the earlier period; Rashi appeals to the sons of Noah."
+   ]
+  },
+  {
+   "ref": "20:13",
+   "english": "When God made me wander from my father's house, I said to her, 'This is your kindness that you will do with me: at every place where we come, say of me, \"He is my brother.\"'\"",
+   "literal": "and-it-came-to-pass when they-made-wander me God from-house of-my-father; and-I-said to-her: this kindness-of-you which you-will-do with-me; to every the-place which we-come there; say to-me: my-brother he",
+   "tokens": [
+    {
+     "id": "20:13.1",
+     "gloss": "and it came about",
+     "sense": "Qal I.2.a.(1)",
+     "note": "The wayehi formula opens a temporal clause: 'it came about when'."
+    },
+    {
+     "id": "20:13.2",
+     "gloss": "when",
+     "sense": "3"
+    },
+    {
+     "id": "20:13.3",
+     "gloss": "made wander",
+     "sense": "Hiph 1",
+     "note": "Hifil of ta'ah, third plural with God as subject (a plural form). Ibn Ezra reads 'to wander from place to place', not 'to mislead the heart'."
+    },
+    {
+     "id": "20:13.4",
+     "gloss": "me"
+    },
+    {
+     "id": "20:13.5",
+     "gloss": "God",
+     "sense": "3"
+    },
+    {
+     "id": "20:13.6",
+     "gloss": "from the house of",
+     "sense": "1"
+    },
+    {
+     "id": "20:13.7",
+     "gloss": "my father",
+     "sense": "1"
+    },
+    {
+     "id": "20:13.8",
+     "gloss": "and I said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "20:13.9",
+     "gloss": "to her"
+    },
+    {
+     "id": "20:13.10",
+     "gloss": "this",
+     "sense": "1"
+    },
+    {
+     "id": "20:13.11",
+     "gloss": "your kindness",
+     "sense": "I.1"
+    },
+    {
+     "id": "20:13.12",
+     "gloss": "that"
+    },
+    {
+     "id": "20:13.13",
+     "gloss": "you will do",
+     "sense": "Qal I.1"
+    },
+    {
+     "id": "20:13.14",
+     "gloss": "with me",
+     "sense": "4"
+    },
+    {
+     "id": "20:13.15",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "20:13.16",
+     "gloss": "every",
+     "sense": "1"
+    },
+    {
+     "id": "20:13.17",
+     "gloss": "the place",
+     "sense": "2.a"
+    },
+    {
+     "id": "20:13.18",
+     "gloss": "where"
+    },
+    {
+     "id": "20:13.19",
+     "gloss": "we come",
+     "sense": "Qal 2"
+    },
+    {
+     "id": "20:13.20",
+     "gloss": "thither",
+     "note": "Redundant after 'where we come' in English; no English counterpart."
+    },
+    {
+     "id": "20:13.21",
+     "gloss": "say",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "20:13.22",
+     "gloss": "of me",
+     "note": "Dative of the person spoken about: 'say of me'. Rashi glosses it עָלַי ('about me'); Ibn Ezra בשבילי ('on my account') with Exodus 14:3, 'Pharaoh will say of the children of Israel'. It does not mean 'on my behalf' as an agent."
+    },
+    {
+     "id": "20:13.23",
+     "gloss": "my brother",
+     "sense": "1"
+    },
+    {
+     "id": "20:13.24",
+     "gloss": "he",
+     "sense": "3",
+     "note": "The pronoun follows the predicate: 'he is my brother'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "20:13.1"
+     ],
+     "english": "-",
+     "literal": "'and-it-came-to-pass'"
+    },
+    {
+     "tokens": [
+      "20:13.2"
+     ],
+     "english": "when",
+     "literal": "'when'"
+    },
+    {
+     "tokens": [
+      "20:13.3",
+      "20:13.4",
+      "20:13.5"
+     ],
+     "english": "God made me wander",
+     "literal": "'they-made-wander me God'"
+    },
+    {
+     "tokens": [
+      "20:13.6",
+      "20:13.7"
+     ],
+     "english": "from my father's house",
+     "literal": "'from-house of-my-father'"
+    },
+    {
+     "tokens": [
+      "20:13.8",
+      "20:13.9"
+     ],
+     "english": "I said to her",
+     "literal": "'and-I-said to-her'"
+    },
+    {
+     "tokens": [
+      "20:13.10",
+      "20:13.11"
+     ],
+     "english": "This is your kindness",
+     "literal": "'this kindness-of-you'"
+    },
+    {
+     "tokens": [
+      "20:13.12",
+      "20:13.13",
+      "20:13.14"
+     ],
+     "english": "that you will do with me",
+     "literal": "'which you-will-do with-me'"
+    },
+    {
+     "tokens": [
+      "20:13.15",
+      "20:13.16",
+      "20:13.17"
+     ],
+     "english": "at every place",
+     "literal": "'to every the-place'"
+    },
+    {
+     "tokens": [
+      "20:13.18",
+      "20:13.19"
+     ],
+     "english": "where we come",
+     "literal": "'which we-come'"
+    },
+    {
+     "tokens": [
+      "20:13.20"
+     ],
+     "english": "-",
+     "literal": "'thither': no English counterpart after 'where we come'"
+    },
+    {
+     "tokens": [
+      "20:13.21",
+      "20:13.22"
+     ],
+     "english": "say of me",
+     "literal": "'say to-me': לי is 'of me, concerning me' (Rashi עלי; Ibn Ezra בשבילי, as in Exodus 14:3)"
+    },
+    {
+     "tokens": [
+      "20:13.23",
+      "20:13.24"
+     ],
+     "english": "He is my brother",
+     "literal": "'my-brother he'"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי כַּאֲשֶׁר 'it came about when' opens the clause. The wayehi formula gives the background to the instruction.",
+    "הִתְעוּ is hifil, third plural, with God as subject: a plural verb with אֱלֹהִים (Rashi notes the plural and gives parallels). The English takes Ibn Ezra's sense, 'wander'.",
+    "אִמְרִי־לִי is a second feminine singular imperative addressed to Sarah. The words that follow are the instruction in direct speech; לִי is 'of me'.",
+    "Abraham's speech to Abimelech began at 20:11 and ends here; inside it he reports what he said to Sarah (single quotes), and her words are in double quotes.",
+    "The etnaḥta on עִמָּדִי divides the verse: first the wandering and the request, then the words to say in each place."
+   ],
+   "note": "The English follows Ibn Ezra on the two points he decides: the wandering is travel from place to place without knowing the way, and 'say to me' means 'say of me, on my account' (his בשבילי and the example in Exodus 14:3), the same sense as Rashi's 'about me'.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:20:13:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'a language of holiness' (לשון קודש); the meaning is that he travels from place to place and does not know where he is going, as in 'and behold, he was wandering in the field' (Genesis 37:15). He adds that this is not an erring of the heart, and cites Isaiah 63:17 ('Why, LORD, do you make us wander'). The English reads 'made me wander' in this sense."
+    },
+    {
+     "anchor": "ibn-ezra:20:13:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אִמְרִי לִי means בשבילי, 'on my account, of me', as in 'and Pharaoh will say of the children of Israel' (Exodus 14:3). The English reads 'say of me'."
+    },
+    {
+     "anchor": "rashi:20:13:1",
+     "relation": "records",
+     "summary": "Rashi notes Onkelos' rendering and gives a plain reading of his own: when God took him out of his father's house to wander, he knew he would pass through wicked places. The English follows Ibn Ezra's sense of wandering; Rashi's note on the places is recorded."
+    },
+    {
+     "anchor": "onkelos:20:13:1",
+     "relation": "declines",
+     "summary": "Onkelos renders the verb as 'when the peoples went astray after their idols', making the nations the subject. The English keeps Abraham as the one made to wander, as the Hebrew does with אֹתִי."
+    },
+    {
+     "anchor": "rashi:20:13:3",
+     "relation": "follows",
+     "summary": "Rashi: the plural verb is a plural form, which Scripture often uses of divinity and lordship (אֱלֹהִים חַיִּים, אֲדֹנֵי יוֹסֵף, and others), so it is no objection. He explains הִתְעוּ: anyone exiled from his place and unsettled is called 'wandering', as Hagar 'wandered' (21:14), Psalm 119:176, Job 38:41. The English takes God as the singular subject."
+    },
+    {
+     "anchor": "rashi:20:13:4",
+     "relation": "follows",
+     "summary": "Rashi: אִמְרִי לִי means עָלַי, 'of me, about me', as in 'the men of the place asked about his wife' (26:7) and 'Pharaoh will say of the children of Israel' (Exodus 14:3). The English reads 'say of me', the same sense as Ibn Ezra's."
+    },
+    {
+     "anchor": "radak:20:13:1",
+     "relation": "follows",
+     "summary": "Radak: התעו means 'exiled'; one driven from his place wanders on roads he does not know. The English 'made me wander' covers both the exile and the wandering."
+    },
+    {
+     "anchor": "radak:20:13:6",
+     "relation": "records",
+     "summary": "Radak: the words were not meant for every place, only the places where they would pass briefly among wicked men; in places where Abraham lived, the people knew and honoured him. The English keeps 'every place'; Radak's restriction is recorded."
+    },
+    {
+     "anchor": "radak:20:13:7",
+     "relation": "follows",
+     "summary": "Radak: אִמְרִי־לִי means בַּעֲבוּרִי, 'on my account, of me', as in 'the men of the place asked about his wife' (26:7), and many others."
+    },
+    {
+     "anchor": "sforno:20:13:1",
+     "relation": "follows",
+     "summary": "Sforno: because Abraham rejected idolatry, he was driven out of his father's house to an unknown place, not one of his own choosing; so he is called 'wandering'."
+    }
+   ],
+   "apparatus": [
+    "Onkelos' rendering (the nations went astray) is recorded but not adopted."
+   ],
+   "context": [
+    "The request to call a husband 'brother' to protect him is repeated in chapter 26, where Isaac says the same of Rebekah (26:7). Radak reads the motive as fear of the people of the place (20:13)."
+   ]
+  },
+  {
+   "ref": "20:14",
+   "english": "Then Abimelech took flocks and herds, and male slaves and female slaves, and gave them to Abraham, and returned Sarah his wife to him.",
+   "literal": "and-took Abimelech flocks and-herds and-male-servants and-female-servants and-gave to-Abraham and-returned to-him (object marker) Sarah wife-his",
+   "tokens": [
+    {
+     "id": "20:14.1",
+     "gloss": "then took",
+     "sense": "Qal 3.a",
+     "note": "Wayyiqtol; the vav is 'then'."
+    },
+    {
+     "id": "20:14.2",
+     "gloss": "Abimelech",
+     "sense": "1"
+    },
+    {
+     "id": "20:14.3",
+     "gloss": "flocks"
+    },
+    {
+     "id": "20:14.4",
+     "gloss": "and herds"
+    },
+    {
+     "id": "20:14.5",
+     "gloss": "and male slaves",
+     "sense": "1"
+    },
+    {
+     "id": "20:14.6",
+     "gloss": "and female slaves"
+    },
+    {
+     "id": "20:14.7",
+     "gloss": "and gave",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "20:14.8",
+     "gloss": "to Abraham"
+    },
+    {
+     "id": "20:14.9",
+     "gloss": "and returned",
+     "sense": "Hiph 3",
+     "note": "Hifil of shuv, 'cause to return, bring back'."
+    },
+    {
+     "id": "20:14.10",
+     "gloss": "to him"
+    },
+    {
+     "id": "20:14.11",
+     "gloss": "(object marker)",
+     "note": "No English counterpart."
+    },
+    {
+     "id": "20:14.12",
+     "gloss": "Sarah"
+    },
+    {
+     "id": "20:14.13",
+     "gloss": "his wife",
+     "sense": "2"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "20:14.1",
+      "20:14.2"
+     ],
+     "english": "Then Abimelech took",
+     "literal": "'then took Abimelech'"
+    },
+    {
+     "tokens": [
+      "20:14.3",
+      "20:14.4"
+     ],
+     "english": "flocks and herds",
+     "literal": "'flocks and-herds': the usual pair for small and large livestock"
+    },
+    {
+     "tokens": [
+      "20:14.5"
+     ],
+     "english": "and male slaves",
+     "literal": "'and-male-servants'"
+    },
+    {
+     "tokens": [
+      "20:14.6"
+     ],
+     "english": "and female slaves",
+     "literal": "'and-female-servants'"
+    },
+    {
+     "tokens": [
+      "20:14.7"
+     ],
+     "english": "and gave them",
+     "literal": "'and-gave'"
+    },
+    {
+     "tokens": [
+      "20:14.8"
+     ],
+     "english": "to Abraham",
+     "literal": "'to-Abraham'"
+    },
+    {
+     "tokens": [
+      "20:14.9"
+     ],
+     "english": "and returned",
+     "literal": "'and-returned'"
+    },
+    {
+     "tokens": [
+      "20:14.10"
+     ],
+     "english": "to him",
+     "literal": "'to-him'"
+    },
+    {
+     "tokens": [
+      "20:14.11"
+     ],
+     "english": "-",
+     "literal": "object marker"
+    },
+    {
+     "tokens": [
+      "20:14.12",
+      "20:14.13"
+     ],
+     "english": "Sarah his wife",
+     "literal": "'Sarah wife-his'"
+    }
+   ],
+   "grammar": [
+    "Four objects of the gift (flocks, herds, male servants, female servants) are joined by vav. The English gives 'flocks and herds' as the usual pair.",
+    "Three wayyiqtol verbs: took, gave, returned. The hifil וַיָּשֶׁב means 'cause to return, restore', so the return of Sarah is an act of restoration.",
+    "The object marker before שָׂרָה marks Sarah as the object of 'returned'.",
+    "The etnaḥta on לְאַבְרָהָם divides the verse: the gifts first, then the return."
+   ],
+   "note": "The English keeps 'and gave them' with the pronoun supplied; the Hebrew has no object pronoun in that clause.",
+   "commentary": [
+    {
+     "anchor": "rashi:20:14:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the gift was given so that Abraham would be appeased and pray for Abimelech. This is the purpose of the gift, not the sense of the words."
+    },
+    {
+     "anchor": "radak:20:14:1",
+     "relation": "not-applicable",
+     "summary": "Radak: Abimelech appeased Abraham with words and money, asked him to forgive and pray, and offered him a place to live. The English follows the verse; the purpose is not a sense of the words."
+    }
+   ],
+   "context": [
+    "The list of gifts (flocks, herds, male and female slaves) is the list of Pharaoh's gift in 12:16, without the donkeys and camels: the same picture of a rich household.",
+    "Slaves (עֶבֶד, שִׁפְחָה) were property and could be given as gifts; the gift is paid to Abraham as compensation for the wrong done to him and Sarah."
+   ]
+  },
+  {
+   "ref": "20:15",
+   "english": "Abimelech said, \"Look, my land is before you; settle wherever it pleases you.\"",
+   "literal": "and-said Abimelech Look my-land before-you in-the-good in-eyes-your settle",
+   "tokens": [
+    {
+     "id": "20:15.1",
+     "gloss": "said",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol."
+    },
+    {
+     "id": "20:15.2",
+     "gloss": "Abimelech",
+     "sense": "1"
+    },
+    {
+     "id": "20:15.3",
+     "gloss": "look"
+    },
+    {
+     "id": "20:15.4",
+     "gloss": "my land",
+     "sense": "2.a",
+     "note": "Land as country or territory under Abimelech's rule, not the earth."
+    },
+    {
+     "id": "20:15.5",
+     "gloss": "before",
+     "sense": "I.6"
+    },
+    {
+     "id": "20:15.6",
+     "gloss": "wherever is good",
+     "sense": "2"
+    },
+    {
+     "id": "20:15.7",
+     "gloss": "in your eyes",
+     "sense": "2.a",
+     "note": "An idiom: 'what is good in your eyes', as you think fit."
+    },
+    {
+     "id": "20:15.8",
+     "gloss": "settle",
+     "sense": "Qal 3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "20:15.1",
+      "20:15.2"
+     ],
+     "english": "Abimelech said",
+     "literal": "'and-said Abimelech'"
+    },
+    {
+     "tokens": [
+      "20:15.3"
+     ],
+     "english": "Look",
+     "literal": "'look': not 'behold' (decisions)"
+    },
+    {
+     "tokens": [
+      "20:15.4"
+     ],
+     "english": "my land",
+     "literal": "'my-land'"
+    },
+    {
+     "tokens": [
+      "20:15.5"
+     ],
+     "english": "before you",
+     "literal": "'before-you'"
+    },
+    {
+     "tokens": [
+      "20:15.6",
+      "20:15.7"
+     ],
+     "english": "wherever it pleases you",
+     "literal": "'in-the-good in-eyes-your': the idiom, as you think fit"
+    },
+    {
+     "tokens": [
+      "20:15.8"
+     ],
+     "english": "settle",
+     "literal": "'dwell'"
+    }
+   ],
+   "grammar": [
+    "הִנֵּה is 'look', introducing the statement about the land.",
+    "שֵׁב is the one imperative, qal, second masculine singular: 'settle'.",
+    "בַּטּוֹב בְּעֵינֶיךָ is an idiom, 'what is good in your eyes'; the English gives its sense, 'wherever it pleases you'.",
+    "The etnaḥta on לְפָנֶיךָ divides the verse: the offer of the land, then the invitation."
+   ],
+   "note": "The English gives the sense of the idiom. A literal rendering would be 'in what is good in your eyes'.",
+   "commentary": [
+    {
+     "anchor": "rashi:20:15:1",
+     "relation": "not-applicable",
+     "summary": "Rashi contrasts Pharaoh's words to Abraham, 'here is your wife, take her and go', because the Egyptians were given to immorality. This is a comparison with another king, not the sense of Abimelech's words."
+    },
+    {
+     "anchor": "onkelos:20:15:1",
+     "relation": "follows",
+     "summary": "Onkelos renders the offer as 'here is my land before you; dwell as it is good in your eyes'. The English follows that sense."
+    }
+   ]
+  },
+  {
+   "ref": "20:16",
+   "english": "To Sarah he said, \"Look, I have given your brother a thousand pieces of silver. Look, he is for you a covering of the eyes, for all who are with you; and in regard to all, you are reproved.\"",
+   "literal": "and-to-Sarah he-said: Look I-have-given a-thousand silver to-your-brother; Look he for-you covering-of eyes for-all which with-you; and-(object marker) all and-reproved (fem. sing.)",
+   "tokens": [
+    {
+     "id": "20:16.1",
+     "gloss": "and to Sarah"
+    },
+    {
+     "id": "20:16.2",
+     "gloss": "he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "20:16.3",
+     "gloss": "look"
+    },
+    {
+     "id": "20:16.4",
+     "gloss": "I have given",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "20:16.5",
+     "gloss": "a thousand"
+    },
+    {
+     "id": "20:16.6",
+     "gloss": "pieces of silver",
+     "sense": "8",
+     "note": "The unit is not stated; 'pieces' supplies it. The usual reading is shekels."
+    },
+    {
+     "id": "20:16.7",
+     "gloss": "to your brother",
+     "sense": "1",
+     "note": "Abraham, the one she called her brother."
+    },
+    {
+     "id": "20:16.8",
+     "gloss": "look"
+    },
+    {
+     "id": "20:16.9",
+     "gloss": "he",
+     "sense": "1",
+     "note": "Read as Abraham, the nearest masculine antecedent ('your brother'). See the apparatus for the other reading."
+    },
+    {
+     "id": "20:16.10",
+     "gloss": "for you"
+    },
+    {
+     "id": "20:16.11",
+     "gloss": "covering",
+     "sense": "2"
+    },
+    {
+     "id": "20:16.12",
+     "gloss": "of the eyes",
+     "sense": "1"
+    },
+    {
+     "id": "20:16.13",
+     "gloss": "for all",
+     "sense": "2.a"
+    },
+    {
+     "id": "20:16.14",
+     "gloss": "who"
+    },
+    {
+     "id": "20:16.15",
+     "gloss": "with you",
+     "sense": "1"
+    },
+    {
+     "id": "20:16.16",
+     "gloss": "and (as to)",
+     "note": "The pack parses אֵת as the object marker, and that parse is kept: with the nifal participle it marks the respect in which the thing is said, 'in regard to all'. The same letters are the preposition 'with' (the lexicon's אֵת prep.); Ibn Ezra takes it so, 'with all people' (his second comment) or 'despite all this' (his first), and Rashi 'with all who come into the world'. Those readings are recorded, not adopted."
+    },
+    {
+     "id": "20:16.17",
+     "gloss": "all",
+     "sense": "2.a"
+    },
+    {
+     "id": "20:16.18",
+     "gloss": "you are reproved",
+     "sense": "Niph",
+     "note": "Nifal participle, feminine singular, of יכח: a state, 'you are reproved' (Ibn Ezra's נתוכחה, 'she was reproved, argued with'; the lexicon's Niph also gives 'be set right, justified'). Ibn Ezra takes it as the narrator's words ('and Sarah was reproved'); the English keeps it in Abimelech's speech, which the grammar allows, since a participle has no person."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "20:16.1"
+     ],
+     "english": "To Sarah",
+     "literal": "'and-to-Sarah': a new speech, to Sarah"
+    },
+    {
+     "tokens": [
+      "20:16.2"
+     ],
+     "english": "he said",
+     "literal": "'he-said'"
+    },
+    {
+     "tokens": [
+      "20:16.3"
+     ],
+     "english": "Look",
+     "literal": "'look'"
+    },
+    {
+     "tokens": [
+      "20:16.4"
+     ],
+     "english": "I have given",
+     "literal": "'I-have-given'"
+    },
+    {
+     "tokens": [
+      "20:16.5",
+      "20:16.6"
+     ],
+     "english": "a thousand pieces of silver",
+     "literal": "'a-thousand silver'"
+    },
+    {
+     "tokens": [
+      "20:16.7"
+     ],
+     "english": "your brother",
+     "literal": "'to-your-brother'"
+    },
+    {
+     "tokens": [
+      "20:16.8"
+     ],
+     "english": "Look",
+     "literal": "'look'"
+    },
+    {
+     "tokens": [
+      "20:16.9"
+     ],
+     "english": "he",
+     "literal": "'he'"
+    },
+    {
+     "tokens": [
+      "20:16.10"
+     ],
+     "english": "for you",
+     "literal": "'for-you'"
+    },
+    {
+     "tokens": [
+      "20:16.11",
+      "20:16.12"
+     ],
+     "english": "a covering of the eyes",
+     "literal": "'covering of-eyes'"
+    },
+    {
+     "tokens": [
+      "20:16.13",
+      "20:16.14",
+      "20:16.15"
+     ],
+     "english": "for all who are with you",
+     "literal": "'for-all which with-you'"
+    },
+    {
+     "tokens": [
+      "20:16.16",
+      "20:16.17"
+     ],
+     "english": "and in regard to all",
+     "literal": "'and-(object marker) all': the pack's parse kept; the marker read as marking the respect in which she is reproved"
+    },
+    {
+     "tokens": [
+      "20:16.18"
+     ],
+     "english": "you are reproved",
+     "literal": "'reproved': nifal feminine participle of יכח; the vav is carried by the preceding phrase"
+    }
+   ],
+   "grammar": [
+    "The verse opens with the addressee, 'To Sarah he said'. The qatal אָמַר after the fronted object is a speech report.",
+    "נָתַתִּי 'I have given' is a qatal in direct speech: a completed act, from the speaker's point of view.",
+    "הִנֵּה ('look') is used twice, first for the gift and then for its meaning.",
+    "הוּא 'he' follows הִנֵּה. The nearest masculine noun is 'your brother', so the English reads 'he' as Abraham, as Ibn Ezra does. The pronoun could also be 'it' (the silver); that reading is recorded.",
+    "וְאֵת כֹּל: אֵת is parsed as the object marker and is kept, 'in regard to all'; the same letters can be the preposition 'with' (Ibn Ezra, Rashi). The participle נוֹכָחַת (nifal, feminine singular) has no person of its own, so it may be 'you are reproved' in Abimelech's speech or, as Ibn Ezra takes it, 'she was reproved' in the narrator's. The etnaḥta on אִתָּךְ divides the verse."
+   ],
+   "note": "Three points are recorded. 'He' is Abraham (Ibn Ezra) or the silver (Radak, Sforno, who take 'covering' as a garment). 'In regard to all' keeps the pack's parse of אֵת; Ibn Ezra's 'with all people', his 'with all this' and Rashi's 'with all who come into the world' read אֵת as 'with'. For נוֹכָחַת the English has 'you are reproved' in Abimelech's speech; Ibn Ezra takes it as the narrator's words. The root is יכח, against the Gaon's נוכח.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:20:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: some say 'covering of the eyes' hints at the dimness of the eyes of her son (a derash). The right reading in his view is that the phrase does double duty, as the אַל of Psalm 38:2 does: 'he is to you as one who covers the eyes' because Abraham is her husband, so that no man lifts his eyes to her, and also for all with her, the maidservants who are the wives of his servants. The vav of וְנֹכָחַת is like the Arabic fa (as in 'on the third day, and Abraham lifted up his eyes', 22:4), and וְנֹכָחַת is the words of Moses: Sarah never again said 'he is my brother'; so the sense of וְאֵת כֹּל is 'and despite all this Sarah was reproved'. Others say 'he' is the silver, to buy clothing; he thinks it more correct that Abraham is the covering for her and for the servants with her. The English follows him that 'he' is Abraham and on the covering; his reading of וְאֵת כֹּל and of the speaker of וְנֹכָחַת is recorded."
+    },
+    {
+     "anchor": "ibn-ezra:20:16:2",
+     "relation": "records",
+     "summary": "Ibn Ezra's other reading of וְאֵת כֹּל: אֵת as 'with', 'and with all people he is for you a covering of the eyes'. The English keeps the pack's parse of אֵת (object marker) and reads 'in regard to all'; this reading is recorded."
+    },
+    {
+     "anchor": "ibn-ezra:20:16:3",
+     "relation": "records",
+     "summary": "Ibn Ezra: וְנֹכָחַת is the words of Moses (the narrator), and the vav keeps its place as 'and'; the Gaon derived it from נוכח and 'his words are not straight'. His own paraphrase נתוכחה takes it from יכח. The English takes the root יכח and the vav as 'and', but keeps the word in Abimelech's speech; his view of the speaker is recorded."
+    },
+    {
+     "anchor": "rashi:20:16:1",
+     "relation": "records",
+     "summary": "Rashi reads the speech as Abimelech's honour and payment to Sarah, to appease her: 'here I have done you this honour, and here is this money'. The English does not adopt this; it is recorded."
+    },
+    {
+     "anchor": "rashi:20:16:3",
+     "relation": "records",
+     "summary": "Rashi: the people will cover their eyes and will not mock Sarah. Had Abimelech sent her back with nothing, they would have said he had abused her and returned her; now the cost shows he returned her against his will, and by a miracle. This is recorded as an alternative to Ibn Ezra's covering."
+    },
+    {
+     "anchor": "rashi:20:16:4",
+     "relation": "records",
+     "summary": "Rashi: 'and with all' means with all who come into the world, that is, before all people. The English keeps 'despite all this'; Rashi's reading is recorded."
+    },
+    {
+     "anchor": "rashi:20:16:5",
+     "relation": "records",
+     "summary": "Rashi: the verb is 'you will have an opening of the mouth to argue and to show these matters clear'; the language of הוֹכָחָה everywhere is the clearing up of matters. Onkelos translated in another way and the Hebrew falls on his Targum: 'here is for you a covering of honour for my eyes, because I ruled over you and over all with you', and so he renders 'and I saw you and all that is with you'. The English reads 'reproved' with Ibn Ezra and Radak."
+    },
+    {
+     "anchor": "radak:20:16:1",
+     "relation": "records",
+     "summary": "Radak: besides the flocks and servants, the thousand silver was given so that Sarah could buy fine garments. This is the garment reading of 'covering'; it is recorded."
+    },
+    {
+     "anchor": "sforno:20:16:2",
+     "relation": "records",
+     "summary": "Sforno: the covering is a garment of many colours, worn by women for honour; the bridal payment shows Sarah was taken as a wife, not as a harlot or concubine. The garment reading is recorded."
+    },
+    {
+     "anchor": "ramban:20:16:1",
+     "relation": "records",
+     "summary": "Ramban: the silver is for her a covering of the eyes of all who look at her beauty; they will cover their eyes and heads from looking at her and at all that is with her, for they will fear her, saying that the king ransomed his life for laying hand on a prophet's wife. The verse tells that he appeased Abraham with money and Sarah with words; Sarah was not appeased but argued with him (מִתְוַכַּחַת), and Scripture says this in her praise. He also allows that 'elef kesef' may mean thousands of silver, a great sum, like 'the least shall become a thousand' (Isaiah 60:22). The English keeps 'a thousand pieces of silver'; his readings are recorded."
+    }
+   ],
+   "apparatus": [
+    "הוּא (16.9): Abraham, the nearest masculine antecedent (Ibn Ezra), or the silver, with 'covering' as a garment (Radak, Sforno). The English reads Abraham.",
+    "וְאֵת כֹּל (16.16–17): the pack's parse (object marker) is kept. Ibn Ezra reads אֵת as 'with': 'with all people he is a covering of the eyes for you' (comment 2), or 'despite all this Sarah was reproved' (comment 1). Rashi: 'with all who come into the world'.",
+    "נוֹכָחַת (16.18): nifal of יכח. Ibn Ezra: the narrator's words, that Sarah did not again call Abraham her brother. The Gaon's root נוכח is rejected by Ibn Ezra."
+   ],
+   "context": [
+    "Silver is given by weight: coined money did not exist in the Near East in the patriarchal period, and Genesis 23:16 weighs out silver in shekels, so the unit here is probably shekels, though the text does not name it.",
+    "The phrase 'covering of the eyes' is read three ways: a protector (Ibn Ezra), a sum that silences the people (Rashi, Ramban), and a garment (Radak, Sforno). Sforno takes the silver as the bride-price (מֹהַר), showing she was taken as a wife. The English keeps the phrase and records the readings."
+   ]
+  }
+ ]
+}

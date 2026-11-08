@@ -1,0 +1,264 @@
+{
+ "unit": "chayei-sarah-08",
+ "model": "sonnet",
+ "summary": "The unit is mostly sound: the nested quotation opens in 24:34 and stays open, the ketiv is in the apparatus, and the English adds nothing. The main fault was 24:38, where 'If not' rendered אִם־לֹא as a conditional and Abraham's quotation was closed at 24:37, so 24:38 read as the servant's own words. Smaller faults: the Rashi summaries at 24:33 and 24:37, the giver of the gifts in 24:35, three senses (silver, gold, כֹּל) and the feminine parse of אִתָּךְ.",
+ "patches": [
+  {
+   "ref": "24:33",
+   "path": "commentary:rashi:24:33:1.summary",
+   "value": "Rashi: אִם is used in the sense of both אֲשֶׁר and כִּי, as in עַד כִּי יָבֹא שִׁילֹה; and this is what the sages said, that כִּי is used in four senses, one of which is אִי, that is, אִם. The English reads 'until'.",
+   "severity": "error",
+   "reason": "The summary said 'that particle' and omitted אֲשֶׁר; Rashi's four senses belong to כִּי, whose one sense אִי he equates with אִם."
+  },
+  {
+   "ref": "24:35",
+   "path": "token:24:35.11.sense",
+   "value": "3",
+   "severity": "error",
+   "reason": "Silver in a list of the master's wealth is 'silver as wealth' (3), not 'costly gift' (6); the context note on this verse also speaks of wealth."
+  },
+  {
+   "ref": "24:35",
+   "path": "token:24:35.11.note",
+   "value": "Silver as wealth, reckoned by weight.",
+   "severity": "error",
+   "reason": "Matches the corrected sense."
+  },
+  {
+   "ref": "24:35",
+   "path": "token:24:35.12.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "Gold in a list of wealth is 'gold as wealth' (2), not 'costly gift' (5)."
+  },
+  {
+   "ref": "24:35",
+   "path": "token:24:35.12.note",
+   "value": "Gold as wealth.",
+   "severity": "error",
+   "reason": "Matches the corrected sense."
+  },
+  {
+   "ref": "24:35",
+   "path": "token:24:35.7.note",
+   "value": "Wayyiqtol 3ms. The subject continues from the blessing, the LORD; the master is the one to whom (לוֹ) the gift is given.",
+   "severity": "error",
+   "reason": "The note said the giver is not named; the master cannot be the giver to himself (לוֹ), so the sense points to the LORD, as in Onkelos."
+  },
+  {
+   "ref": "24:35",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:35.1",
+      "24:35.2",
+      "24:35.3",
+      "24:35.4",
+      "24:35.5"
+     ],
+     "english": "The LORD blessed my master greatly",
+     "literal": "and-the-LORD blessed OBJ my-master greatly: the prefix ו has no English; the object marker is not translated."
+    },
+    {
+     "tokens": [
+      "24:35.6"
+     ],
+     "english": "he became great",
+     "literal": "and-became-great: the wayyiqtol continues the sequence after the qatal of blessing."
+    },
+    {
+     "tokens": [
+      "24:35.7",
+      "24:35.8"
+     ],
+     "english": "he gave him",
+     "literal": "and-gave to-him: 'he' keeps the 3ms form; the giver is the one who blessed, and לוֹ is the master."
+    },
+    {
+     "tokens": [
+      "24:35.9",
+      "24:35.10",
+      "24:35.11",
+      "24:35.12",
+      "24:35.13",
+      "24:35.14",
+      "24:35.15",
+      "24:35.16"
+     ],
+     "english": "flocks and cattle and silver and gold and servants and maidservants and camels and donkeys",
+     "literal": "flocks and-cattle and-silver and-gold and-servants and-maidservants and-camels and-donkeys: a list of eight with ו on each item after the first."
+    }
+   ],
+   "severity": "error",
+   "reason": "Corrects the phrase note on the giver."
+  },
+  {
+   "ref": "24:35",
+   "path": "grammar",
+   "value": [
+    "The qatal בֵּרַךְ opens the verse; the two wayyiqtol verbs carry the narrative on.",
+    "The subject of וַיִּגְדָּל is the master; the subject of וַיִּתֶּן is the one who blessed, the LORD, and לוֹ is the master: he cannot give to himself. The English keeps 'he' for the 3ms verb.",
+    "The list is a run of nouns each with ו, the first without; the English 'and' follows the Hebrew."
+   ],
+   "severity": "error",
+   "reason": "The note said the Hebrew leaves open whether the LORD or the master gives; לוֹ settles it."
+  },
+  {
+   "ref": "24:35",
+   "path": "note",
+   "value": "The first verb names the LORD; the next two have no named subject, and the English keeps 'he'. The master is the subject of 'became great' and the one to whom the gifts are given.",
+   "severity": "error",
+   "reason": "Aligns the translator's note with the corrected grammar."
+  },
+  {
+   "ref": "24:36",
+   "path": "token:24:36.12.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "2.b.(a) falls under הַכֹּל with the article; here כָּל is in construct before a relative clause: 'all that...'."
+  },
+  {
+   "ref": "24:36",
+   "path": "token:24:36.12.note",
+   "value": "כֹּל in construct before a relative clause: 'all that is his'.",
+   "severity": "error",
+   "reason": "Matches the corrected sense."
+  },
+  {
+   "ref": "24:37",
+   "path": "english",
+   "value": "My master made me swear, saying, 'You shall not take a wife for my son from the daughters of the Canaanites, in whose land I dwell.",
+   "severity": "error",
+   "reason": "Abraham's words run on into 24:38 (If not... = 'but rather'); the inner quotation must stay open to the end of 24:38 so that 24:38 is not read as the servant's own words."
+  },
+  {
+   "ref": "24:37",
+   "path": "commentary:rashi:24:37:1.summary",
+   "value": "Rashi: he takes the prohibition as holding on a condition, 'if you do not first go to my father's house, and she is not willing to go after you'. The words state no condition, so the English keeps the plain prohibition.",
+   "severity": "error",
+   "reason": "The summary made the refusal to follow the servant's own ('after me'); Rashi's words are 'after you', and the unwilling one is the woman."
+  },
+  {
+   "ref": "24:37",
+   "path": "note",
+   "value": "Single quotes mark Abraham's words inside the servant's speech; the outer double quotation is left open, and Abraham's quotation runs on into 24:38.",
+   "severity": "style",
+   "reason": "Records that the inner quotation continues into the next verse."
+  },
+  {
+   "ref": "24:38",
+   "path": "english",
+   "value": "Rather, you shall go to my father's house and to my kin, and take a wife for my son.'",
+   "severity": "error",
+   "reason": "אִם־לֹא after a negative command means 'but rather' (Onkelos אֱלָהֵן), not a conditional 'if not'; 'If not,' made the sentence read as a condition with no main clause. The closing single quote ends Abraham's words begun in 24:37."
+  },
+  {
+   "ref": "24:38",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:38.1",
+      "24:38.2"
+     ],
+     "english": "Rather",
+     "literal": "if not: after the negative command of 24:37 it means 'but rather'; Onkelos has אֱלָהֵן."
+    },
+    {
+     "tokens": [
+      "24:38.3",
+      "24:38.4",
+      "24:38.5",
+      "24:38.6"
+     ],
+     "english": "you shall go to my father's house",
+     "literal": "to house-of my-father you-go: 'house of my father' is the English 'my father's house'."
+    },
+    {
+     "tokens": [
+      "24:38.7",
+      "24:38.8"
+     ],
+     "english": "and to my kin",
+     "literal": "and-to my-clan: 'and to' continues the verb 'go'."
+    },
+    {
+     "tokens": [
+      "24:38.9",
+      "24:38.10",
+      "24:38.11"
+     ],
+     "english": "and take a wife for my son",
+     "literal": "and-you-take wife for-my-son: the weqatal continues the instruction."
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the first fragment."
+  },
+  {
+   "ref": "24:38",
+   "path": "token:24:38.1.note",
+   "value": "אִם־לֹא after a negative command: 'but rather', as in Onkelos (אֱלָהֵן); the pair is not a conditional here.",
+   "severity": "error",
+   "reason": "The old note read it as a conditional alternative."
+  },
+  {
+   "ref": "24:38",
+   "path": "grammar",
+   "value": [
+    "אִם־לֹא after the prohibition of 24:37 means 'but rather': the servant is to go to the father's house and kin, nowhere else. Onkelos renders it אֱלָהֵן.",
+    "תֵּלֵךְ and וְלָקַחְתָּ are 2ms: the servant is addressed as 'you'.",
+    "בֵּית אָבִי: the father's household as the place of the bride's family.",
+    "Abraham's words, begun in 24:37, continue here; the single quotation closes at the end of this verse."
+   ],
+   "severity": "error",
+   "reason": "The first note called it 'if not'; adds the continuation of the quotation."
+  },
+  {
+   "ref": "24:40",
+   "path": "token:24:40.9.note",
+   "value": "The suffix is pointed like a 2nd feminine singular and the dataset parses it so, but the addressee is the servant, a man; the sense requires the masculine, so the suffix is read as 2ms. English 'you'.",
+   "severity": "style",
+   "reason": "The old note kept the feminine parse and said the gender is left open; the context fixes it as masculine."
+  },
+  {
+   "ref": "24:40",
+   "path": "grammar",
+   "value": [
+    "The speech of Abraham is in single quotes inside the servant's speech; the outer double quotation stays open.",
+    "הִתְהַלַּכְתִּי is hitpael: 'walk about'; with לְפָנָיו it reads 'walk before him'.",
+    "The two future clauses: the LORD will send his angel and will make the way prosper; the second is a perfect with waw continuing the future.",
+    "The suffix on אִתָּךְ is pointed like a 2nd feminine singular, but the addressee is the servant; it is read as 2ms and the English is 'you'."
+   ],
+   "severity": "style",
+   "reason": "Matches the corrected token note."
+  },
+  {
+   "ref": "24:40",
+   "path": "token:24:40.12.note",
+   "value": "Perfect with waw continuing the future of the promise; the English 'shall' keeps the force of the instruction of 24:38.",
+   "severity": "style",
+   "reason": "The weqatal continues the promise, not only the earlier instruction."
+  },
+  {
+   "ref": "24:40",
+   "path": "english",
+   "value": "He said to me, 'The LORD before whom I have walked will send his angel with you and will make your way prosper; and you shall take a wife for my son from my kin and from my father's house.",
+   "severity": "error",
+   "reason": "consistency: Abraham's reported speech opened in 24:40 continues in 24:41 and closes there; the closing quote is moved to the end of 24:41"
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:24:33:1",
+   "verdict": "consistent",
+   "comment": "The English gives the unnamed passive Ibn Ezra describes: 'there was set'; the qere hofal is translated."
+  },
+  {
+   "anchor": "ibn-ezra:24:34:1",
+   "verdict": "consistent",
+   "comment": "The English takes the words in their plain sense, as Ibn Ezra rules; the food reading is not adopted."
+  }
+ ]
+}

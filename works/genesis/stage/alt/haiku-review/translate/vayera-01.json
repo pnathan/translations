@@ -1,0 +1,325 @@
+{
+  "unit": "vayera-01",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "18:1",
+      "english": "The LORD appeared to him at the terebinths of Mamre while he was sitting at the entrance of the tent in the heat of the day.",
+      "literal": "and-appeared to-him the-LORD in-terebinths-of Mamre and-he sitting at-entrance-of the-tent like-heat-of the-day",
+      "tokens": [
+        {"id": "18:1.1", "gloss": "appeared", "sense": "Niph 1", "note": "wayyiqtol of the niphal of ra'ah; the sequential narrative form 'and he appeared'."},
+        {"id": "18:1.2", "gloss": "to him", "sense": "1"},
+        {"id": "18:1.3", "gloss": "the LORD", "note": "YHWH, rendered LORD in capitals (decisions: divine names)."},
+        {"id": "18:1.4", "gloss": "at the terebinths of", "note": "construct state: 'the terebinths of'."},
+        {"id": "18:1.5", "gloss": "Mamre", "note": "the place name, which the lexicon gives as a man's name; see the commentary."},
+        {"id": "18:1.6", "gloss": "while he", "sense": "1", "note": "the conjunction and pronoun together open a circumstantial clause."},
+        {"id": "18:1.7", "gloss": "was sitting", "sense": "Qal 1.a", "note": "qal active participle, masculine singular."},
+        {"id": "18:1.8", "gloss": "at the entrance of", "note": "construct state: 'the entrance of'."},
+        {"id": "18:1.9", "gloss": "the tent", "sense": "1"},
+        {"id": "18:1.10", "gloss": "in the heat of", "note": "construct state: 'the heat of'."},
+        {"id": "18:1.11", "gloss": "the day", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["18:1.1", "18:1.2", "18:1.3"], "english": "The LORD appeared to him", "literal": "'and-appeared to-him the-LORD': the verb comes first in the Hebrew, so the subject comes first in the English."},
+        {"tokens": ["18:1.4", "18:1.5"], "english": "at the terebinths of Mamre", "literal": "'in-terebinths-of Mamre': the preposition bet with the construct, here locating the scene."},
+        {"tokens": ["18:1.6", "18:1.7"], "english": "while he was sitting", "literal": "'and-he sitting': the conjunction and the participle give the background to the appearance."},
+        {"tokens": ["18:1.8", "18:1.9"], "english": "at the entrance of the tent", "literal": "'at-entrance-of the-tent': the construct chain; the English 'at' is supplied."},
+        {"tokens": ["18:1.10", "18:1.11"], "english": "in the heat of the day", "literal": "'like-heat-of the-day': kaf of comparison, here 'in' the heat."}
+      ],
+      "grammar": [
+        "The verb is wayyiqtol (the narrative sequential form). Here it is niphal: the English 'appeared' is the stem's sense 'appear, be seen'.",
+        "The clause 'while he was sitting' is circumstantial: the Hebrew joins a participle to the pronoun, which marks a background situation rather than a second action.",
+        "Construct chains: 'the entrance of the tent' and 'the heat of the day'. Both are read as single English noun phrases.",
+        "The etnahta on Mamre (18:1.5) divides the verse. The first part places the scene at the terebinths of Mamre; the second describes Abraham sitting at the tent in the heat."
+      ],
+      "note": "The divine name is written YHWH in the Hebrew; the English is 'the LORD' per the decisions.",
+      "commentary": [
+        {"anchor": "rashi:18:1:1", "relation": "records", "summary": "Rashi glosses the verb as 'to visit the sick': the LORD came to ask after Abraham on the third day after his circumcision (Bava Metzia 86b). The English keeps 'appeared', the niphal sense, and the visit reading is recorded here."},
+        {"anchor": "ibn-ezra:18:1:1", "relation": "follows", "summary": "Ibn Ezra rejects the view that the three men are the Name itself, since the text also says 'the two angels came to Sodom' (19:1). He takes it that the LORD appeared to Abraham in a prophetic vision, after which he lifted his eyes and saw three angels: one to bring the news to Sarah, and two to Sodom, one to destroy and one to save Lot."},
+        {"anchor": "rashi:18:1:2", "relation": "records", "summary": "Rashi takes Mamre as a man, the one who gave Abraham counsel about the circumcision, so the LORD was revealed to Abraham in Mamre's portion. The English keeps Mamre as the place name (13:18, 14:13)."},
+        {"anchor": "rashi:18:1:3", "relation": "not-applicable", "summary": "Rashi: the text is written 'sitting' because Abraham wanted to stand and the LORD told him to sit while the LORD stood; this is a sign for his children that God will stand among judges who sit (Ps. 82:1). A homily; the English 'sitting' is the plain word."},
+        {"anchor": "rashi:18:1:4", "relation": "not-applicable", "summary": "Rashi: he sat at the entrance to watch for passers-by and bring them into his house. This gives the purpose, not the sense of the words."},
+        {"anchor": "rashi:18:1:5", "relation": "not-applicable", "summary": "Rashi: the LORD brought out the sun from its sheath so as not to trouble Abraham with guests; seeing him grieve that no guests came, He sent the angels in the form of men. A homily on the heat of the day."},
+        {"anchor": "ibn-ezra:18:1:2", "relation": "not-applicable", "summary": "Ibn Ezra glosses 'and they ate' (18:8) as 'the bread was consumed', like 'which the fire consumes' (Lev. 6:3). It bears on 18:8, not on this verse; see the note there."}
+      ],
+      "apparatus": [
+        "Ramban and Radak (not normative) read the appearance as a reward for the circumcision and as the LORD's favour to Abraham; not adopted here."
+      ]
+    },
+    {
+      "ref": "18:2",
+      "english": "He lifted his eyes and saw, and look, three men were standing before him; he understood, and ran to meet them from the entrance of the tent, and bowed down to the ground.",
+      "literal": "and-lifted his-eyes and-saw and-look three men standing upon-him and-saw and-ran to-meet-them from-entrance-of the-tent and-bowed-down to-the-ground",
+      "tokens": [
+        {"id": "18:2.1", "gloss": "and lifted", "sense": "Qal 1"},
+        {"id": "18:2.2", "gloss": "his eyes", "note": "The pack's lexicon entry for 'ayin lists no sense 'eye', so no sense is given. The idiom 'lift the eyes' is literal."},
+        {"id": "18:2.3", "gloss": "and saw", "sense": "Qal 1.a", "note": "wayyiqtol, the first seeing."},
+        {"id": "18:2.4", "gloss": "and look", "note": "hinneh: 'look' (not 'behold')."},
+        {"id": "18:2.5", "gloss": "three"},
+        {"id": "18:2.6", "gloss": "men"},
+        {"id": "18:2.7", "gloss": "standing", "sense": "Niph 1.b", "note": "niphal participle, plural."},
+        {"id": "18:2.8", "gloss": "before him", "sense": "II", "note": "literally 'upon him'; Rashi reads it as 'before him', a courteous phrase for angels."},
+        {"id": "18:2.9", "gloss": "and understood", "sense": "Qal 8.a", "note": "the second wayyar: Rashi takes it as 'understood'; Radak as 'saw again'. See the commentary."},
+        {"id": "18:2.10", "gloss": "and ran", "sense": "Qal 1", "note": "wayyiqtol."},
+        {"id": "18:2.11", "gloss": "to meet them", "sense": "Qal 1", "note": "infinitive construct with the 3mp suffix."},
+        {"id": "18:2.12", "gloss": "from the entrance of", "note": "the preposition min with the construct."},
+        {"id": "18:2.13", "gloss": "the tent", "sense": "1"},
+        {"id": "18:2.14", "gloss": "and bowed down", "sense": "Hithpa‛lēl 1", "note": "wayyiqtol of the hitpa'el: 'bow down, prostrate oneself'."},
+        {"id": "18:2.15", "gloss": "to the ground", "sense": "3.a", "note": "directional he on the noun: 'to the ground'."}
+      ],
+      "phrases": [
+        {"tokens": ["18:2.1", "18:2.2", "18:2.3"], "english": "He lifted his eyes and saw", "literal": "'and-lifted his-eyes and-saw': the first two wayyiqtols of the sequence."},
+        {"tokens": ["18:2.4", "18:2.5", "18:2.6", "18:2.7", "18:2.8"], "english": "and look, three men were standing before him", "literal": "'and-look three men standing upon-him': the particle introduces what he saw; 'upon him' is rendered by Rashi's 'before him'."},
+        {"tokens": ["18:2.9"], "english": "he understood", "literal": "'and-saw': the repeated verb, read by Rashi as 'understood'."},
+        {"tokens": ["18:2.10", "18:2.11", "18:2.12", "18:2.13"], "english": "ran to meet them from the entrance of the tent", "literal": "'and-ran to-meet-them from-entrance-of the-tent': the English puts the 'from' with the entrance."},
+        {"tokens": ["18:2.14", "18:2.15"], "english": "and bowed down to the ground", "literal": "'and-bowed-down to-the-ground': the hitpa'el with the directional."}
+      ],
+      "grammar": [
+        "Five wayyiqtols run in sequence (lifted, saw, ran, bowed down) and the second 'saw' repeats the first. Only the second is not a plain new action.",
+        "Hinneh introduces what the subject sees: 'and look' in the English makes the same point without 'behold'.",
+        "Standing (nitsavim) is a niphal participle used as a predicate. Its subject is the three men; the verb is plural.",
+        "Le-qiratam is an infinitive construct with the 3mp suffix: 'to meet them'. The following wayyishtachu is a hitpa'el, 'bow down'."
+      ],
+      "note": "The second wayyar is read by Rashi as 'understood' and by Radak as 'a second time'. The English follows Rashi.",
+      "commentary": [
+        {"anchor": "rashi:18:2:1", "relation": "follows", "summary": "Rashi: the three are three messengers with three tasks (one to tell Sarah, one to overturn Sodom, one to heal Abraham), since one angel does not do two missions; the text uses the plural throughout. The English keeps 'three men' and the plural verbs."},
+        {"anchor": "rashi:18:2:2", "relation": "follows", "summary": "Rashi: 'standing upon him' means 'standing before him'; it is a courteous expression used of the angels."},
+        {"anchor": "rashi:18:2:3", "relation": "follows", "summary": "Rashi: the first 'saw' is literal; the second means understanding. They stood still out of respect, and when they saw him loosing and tying his bandage they moved away from him, and at once he ran to them (Bava Metzia 86b). The English 'he understood' follows this."},
+        {"anchor": "radak:18:2:3", "relation": "records", "summary": "Radak: the second 'and saw' means 'another time', that he saw them again. The English does not adopt it."}
+      ]
+    },
+    {
+      "ref": "18:3",
+      "english": "He said, \"My lord, if I have found favour in your sight, please do not pass by your servant.\"",
+      "literal": "and-said my-lord if now I-found favour in-your-eyes not now pass-over from-upon your-servant",
+      "tokens": [
+        {"id": "18:3.1", "gloss": "he said", "sense": "Qal 1"},
+        {"id": "18:3.2", "gloss": "my lord", "note": "The form is a plural noun with the 1cs suffix, pointed with qamats, but the verbs are singular. Rashi reads it as a singular address to the greatest of the three; see the commentary."},
+        {"id": "18:3.3", "gloss": "if", "sense": "1"},
+        {"id": "18:3.4", "gloss": "now", "note": "the particle na (entreaty), which the English carries as 'please' in the second place."},
+        {"id": "18:3.5", "gloss": "I have found", "sense": "Qal 1", "note": "qatal, 1cs."},
+        {"id": "18:3.6", "gloss": "favour", "sense": "1"},
+        {"id": "18:3.7", "gloss": "in your sight", "sense": "5", "note": "idiom: 'in your eyes' means 'in your sight'."},
+        {"id": "18:3.8", "gloss": "not", "note": "negative 'al, with the jussive that follows."},
+        {"id": "18:3.9", "gloss": "please", "note": "the second na."},
+        {"id": "18:3.10", "gloss": "pass by", "sense": "Qal 4.b", "note": "qal jussive, 2ms: a negative command."},
+        {"id": "18:3.11", "gloss": "from", "sense": "IV.2", "note": "'from upon': with 'pass by', the preposition gives the sense 'pass by from the side of'."},
+        {"id": "18:3.12", "gloss": "your servant", "sense": "6", "note": "'thy servant, I': a humble self-reference, 'I, your servant'."}
+      ],
+      "phrases": [
+        {"tokens": ["18:3.1"], "english": "He said", "literal": "'and-said': the wayyiqtol introduces the speech."},
+        {"tokens": ["18:3.2"], "english": "My lord", "literal": "'my-lord': the form is treated as singular in the English, following Rashi."},
+        {"tokens": ["18:3.3", "18:3.4", "18:3.5", "18:3.6", "18:3.7"], "english": "if I have found favour in your sight", "literal": "'if now I-found favour in-your-eyes': a conditional with a qatal; the particle na is carried by the 'please' that follows."},
+        {"tokens": ["18:3.8", "18:3.9", "18:3.10", "18:3.11", "18:3.12"], "english": "please do not pass by your servant", "literal": "'not now pass-over from-upon your-servant': a negative request; the particle na comes before the verb."}
+      ],
+      "grammar": [
+        "The protasis 'if I have found favour' is followed by the apodosis, a negative jussive, 'do not pass by'. The request comes after the condition.",
+        "The two particles na both mark entreaty. The English places 'please' before the request.",
+        "'Your servant' (avdekha) is the speaker's self-reference: 'I, your servant'. The pack's lexicon gives this as sense 6.",
+        "Accents: the silluq on servant ends the verse. The tipha on 'pass by' (18:3.10) marks the request as its main point."
+      ],
+      "note": "Ramban notes the qamats of adonai and the commentators' disagreement about its address; the English 'my lord' is the reading Rashi takes.",
+      "commentary": [
+        {"anchor": "rashi:18:3:1", "relation": "follows", "summary": "Rashi: Abraham spoke to the greatest of the three, though he called them all 'adonim' (plural), and asked the greatest not to pass by, so that his companions would stay with him. A second view (Shevuot 35b), that the word is holy and was addressed to the LORD, asking Him to wait until Abraham had run to bring in the guests, is recorded here and not adopted."}
+      ]
+    },
+    {
+      "ref": "18:4",
+      "english": "\"Please, let a little water be brought, and wash your feet, and rest yourselves under the tree.\"",
+      "literal": "let-be-brought please little-of water and-wash your-feet and-rest-yourselves under the-tree",
+      "tokens": [
+        {"id": "18:4.1", "gloss": "let be brought", "sense": "Qal 6", "note": "qal passive jussive, 3ms. The pack lists Qal 6 'fetch'; BDB's passive 'be taken' (Pu 1) is the parallel. The English keeps the passive."},
+        {"id": "18:4.2", "gloss": "please", "note": "particle na of entreaty."},
+        {"id": "18:4.3", "gloss": "a little", "note": "construct of me'at, 'a little'."},
+        {"id": "18:4.4", "gloss": "water"},
+        {"id": "18:4.5", "gloss": "and wash", "sense": "Qal 1", "note": "qal imperative, 2mp."},
+        {"id": "18:4.6", "gloss": "your feet", "sense": "1", "note": "dual with a 2mp suffix; 'your feet'."},
+        {"id": "18:4.7", "gloss": "and rest yourselves", "note": "nifal imperative, 2mp; the sense 'lean, rest' follows the context."},
+        {"id": "18:4.8", "gloss": "under"},
+        {"id": "18:4.9", "gloss": "the tree", "sense": "1.a"}
+      ],
+      "phrases": [
+        {"tokens": ["18:4.1", "18:4.2", "18:4.3", "18:4.4"], "english": "Please let a little water be brought", "literal": "'let-be-brought please little-of water': the passive jussive, the particle, then the object."},
+        {"tokens": ["18:4.5", "18:4.6"], "english": "and wash your feet", "literal": "'and-wash your-feet': the imperative with the conjunction."},
+        {"tokens": ["18:4.7", "18:4.8", "18:4.9"], "english": "and rest yourselves under the tree", "literal": "'and-rest-yourselves under the-tree'."}
+      ],
+      "grammar": [
+        "The passive jussive 'let [water] be brought' has no stated agent. Rashi takes it that a servant brings it.",
+        "The imperatives (wash, rest) are in the plural; they address the three men together.",
+        "The etnahta on feet (18:4.6) divides the verse: the water and washing first, the resting place second.",
+        "The construct me'at-mayim: 'a little of water', a quantity phrase."
+      ],
+      "commentary": [
+        {"anchor": "rashi:18:4:1", "relation": "follows", "summary": "Rashi: the passive 'let be brought' means through an agent, a servant, just as the LORD paid Israel through an agent (Num. 20:11, where Moses struck the rock). The English keeps the passive, which leaves the agent unstated."},
+        {"anchor": "rashi:18:4:2", "relation": "not-applicable", "summary": "Rashi: Abraham took them for Arabs who bow down to the dust of their feet, and so was careful not to bring idolatry into his house. Lot, who was not careful, gave lodging before washing (Gen. 19:2). A reason for the request, not a reading of the words."},
+        {"anchor": "rashi:18:4:3", "relation": "follows", "summary": "Rashi: 'under the tree' means under the ilan, the tree. The English 'under the tree' follows."}
+      ]
+    },
+    {
+      "ref": "18:5",
+      "english": "\"Let me fetch a morsel of bread, and sustain your hearts; afterward you may go on, since you have passed by your servant.\" They said, \"Do so, as you have said.\"",
+      "literal": "and-let-me-fetch a-morsel-of bread and-sustain your-hearts after you-will-pass-on for on-this-account you-passed upon your-servant and-they-said so you-do as-you-spoke",
+      "tokens": [
+        {"id": "18:5.1", "gloss": "and let me fetch", "sense": "Qal 6", "note": "cohortative, 1cs: 'let me fetch'."},
+        {"id": "18:5.2", "gloss": "a morsel of", "note": "construct of pat, 'a morsel'."},
+        {"id": "18:5.3", "gloss": "bread"},
+        {"id": "18:5.4", "gloss": "and sustain", "note": "imperative, 2mp. The verb is 'support'; the sense 'sustain' follows the phrase."},
+        {"id": "18:5.5", "gloss": "your hearts", "sense": "II.1", "note": "the inner person, used for 'heart' in the sense of 'sustain your hearts'."},
+        {"id": "18:5.6", "gloss": "afterward", "sense": "1.b"},
+        {"id": "18:5.7", "gloss": "you may go on", "sense": "Qal 5", "note": "yiqtol, 2mp: a future, here a permission or a polite instruction."},
+        {"id": "18:5.8", "gloss": "since", "note": "the conjunction ki al-ken: 'since, for this reason'."},
+        {"id": "18:5.9", "gloss": "on", "note": "part of the conjunction ki al-ken."},
+        {"id": "18:5.10", "gloss": "this", "note": "part of the conjunction ki al-ken."},
+        {"id": "18:5.11", "gloss": "you have passed", "sense": "Qal 4.b", "note": "qatal, 2mp."},
+        {"id": "18:5.12", "gloss": "by", "sense": "II.6"},
+        {"id": "18:5.13", "gloss": "your servant", "sense": "6", "note": "singular servant with a 2mp suffix: 'your servant', addressing the three together."},
+        {"id": "18:5.14", "gloss": "and they said", "sense": "Qal 1", "note": "wayyiqtol, 3mp."},
+        {"id": "18:5.15", "gloss": "so", "note": "adverb of manner."},
+        {"id": "18:5.16", "gloss": "do", "sense": "Qal I.1", "note": "yiqtol, 2ms: the speech turns to Abraham in the singular."},
+        {"id": "18:5.17", "gloss": "as", "sense": "1"},
+        {"id": "18:5.18", "gloss": "you have said", "sense": "Pi", "note": "piel qatal, 2ms."}
+      ],
+      "phrases": [
+        {"tokens": ["18:5.1", "18:5.2", "18:5.3"], "english": "Let me fetch a morsel of bread", "literal": "'and-let-me-fetch a-morsel-of bread'."},
+        {"tokens": ["18:5.4", "18:5.5"], "english": "and sustain your hearts", "literal": "'and-sustain your-hearts': see the commentary on the bread that sustains the heart."},
+        {"tokens": ["18:5.6", "18:5.7"], "english": "afterward you may go on", "literal": "'after you-will-pass-on': the English puts the future in the permissive."},
+        {"tokens": ["18:5.8", "18:5.9", "18:5.10", "18:5.11"], "english": "since you have passed", "literal": "'for on-this-account you-passed': the compound conjunction gives the reason."},
+        {"tokens": ["18:5.12", "18:5.13"], "english": "by your servant", "literal": "'upon your-servant': the preposition 'al with the 2mp suffix on servant."},
+        {"tokens": ["18:5.14", "18:5.15", "18:5.16", "18:5.17", "18:5.18"], "english": "They said, \"Do so, as you have said.\"", "literal": "'and-they-said so you-do as-you-spoke': the reply, in the singular to Abraham."}
+      ],
+      "grammar": [
+        "The speech has two parts: the offer (cohortative, imperatives and a yiqtol) and the reply (a short imperative with a qatal).",
+        "The compound ki al-ken: 'since, for this reason'. The qatal 'you have passed' is the reason clause.",
+        "The three men speak as a group (plural verbs), but address Abraham in the singular (you do, you have said).",
+        "The etnahta on 'your servant' (18:5.13) divides the verse: the offer comes first, then the speech of the reply."
+      ],
+      "commentary": [
+        {"anchor": "rashi:18:5:1", "relation": "follows", "summary": "Rashi: 'sustain your hearts' refers to the bread that supports the heart (Judg. 19:5, Ps. 104:15). The spelling of 'your hearts' without the doubled letter shows that the evil impulse does not rule over angels (R. Hama). The English follows the sense of supporting the heart."},
+        {"anchor": "rashi:18:5:2", "relation": "follows", "summary": "Rashi: 'afterward you may go on' means afterwards you may go on your way. The English follows this."},
+        {"anchor": "rashi:18:5:3", "relation": "follows", "summary": "Rashi: 'I ask this of you, since you have passed by me to honour me.' The English 'since you have passed by your servant' follows the reason clause."},
+        {"anchor": "rashi:18:5:4", "relation": "follows", "summary": "Rashi: ki al-ken means 'like al asher', 'on account of which', as in Gen. 19:8, 33:10, 38:26 and Num. 10:31. The English renders it 'since'."},
+        {"anchor": "ibn-ezra:18:5:1", "relation": "follows", "summary": "Ibn Ezra: 'since you have passed', as our predecessors said: the phrase equals 'since' (hu'il), as in 'for this they came' (19:8). The English 'since' follows."},
+        {"anchor": "ibn-ezra:18:5:2", "relation": "follows", "summary": "Ibn Ezra: 'Do so, as you have said' is a manner of courtesy: a morsel of bread is enough. The English follows, with the guests accepting the small offer Abraham made."}
+      ]
+    },
+    {
+      "ref": "18:6",
+      "english": "Abraham hurried to the tent, to Sarah, and said, \"Hurry, three seahs of flour, fine flour, knead, and make cakes.\"",
+      "literal": "and-hurried Abraham to-the-tent to Sarah and-said hurry three seahs flour fine-flour and-knead and-make cakes",
+      "tokens": [
+        {"id": "18:6.1", "gloss": "hurried", "sense": "Pi 1", "note": "wayyiqtol of the piel: 'hasten, make haste'."},
+        {"id": "18:6.2", "gloss": "Abraham"},
+        {"id": "18:6.3", "gloss": "to the tent", "sense": "1", "note": "directional he: 'to the tent'."},
+        {"id": "18:6.4", "gloss": "to", "sense": "1"},
+        {"id": "18:6.5", "gloss": "Sarah"},
+        {"id": "18:6.6", "gloss": "and said", "sense": "Qal 1", "note": "wayyiqtol, 3ms."},
+        {"id": "18:6.7", "gloss": "hurry", "sense": "Pi 1", "note": "piel imperative, 2fs: addressed to Sarah."},
+        {"id": "18:6.8", "gloss": "three", "note": "the numeral is feminine to agree with seahs."},
+        {"id": "18:6.9", "gloss": "seahs", "note": "a dry measure; the unit is not converted."},
+        {"id": "18:6.10", "gloss": "flour", "note": "qemah. Rashi takes it as the cooks' starch (see the commentary); the English keeps it as an ingredient."},
+        {"id": "18:6.11", "gloss": "fine flour", "note": "solet, the fine flour for the cakes."},
+        {"id": "18:6.12", "gloss": "knead", "note": "imperative, 2fs."},
+        {"id": "18:6.13", "gloss": "and make", "sense": "Qal II.1", "note": "imperative, 2fs, with the conjunction."},
+        {"id": "18:6.14", "gloss": "cakes", "note": "plural of 'ugah, a flat cake."}
+      ],
+      "phrases": [
+        {"tokens": ["18:6.1", "18:6.2"], "english": "Abraham hurried", "literal": "'and-hurried Abraham'."},
+        {"tokens": ["18:6.3", "18:6.4", "18:6.5"], "english": "to the tent to Sarah", "literal": "'to-the-tent to Sarah': the directional with the preposition, both 'to'."},
+        {"tokens": ["18:6.6"], "english": "and said", "literal": "'and-said'."},
+        {"tokens": ["18:6.7"], "english": "Hurry", "literal": "'hurry': the imperative addressed to Sarah."},
+        {"tokens": ["18:6.8", "18:6.9", "18:6.10", "18:6.11"], "english": "three seahs of flour, fine flour", "literal": "'three seahs flour fine-flour': the two nouns are given separately; Rashi reads them as two different things."},
+        {"tokens": ["18:6.12", "18:6.13", "18:6.14"], "english": "knead, and make cakes", "literal": "'knead and-make cakes'."}
+      ],
+      "grammar": [
+        "The imperatives Hurry, knead and make are feminine singular, addressed to Sarah.",
+        "The numeral 'three' is feminine (shelosh) to agree with the feminine noun seah.",
+        "The directional he on the tent (to the tent) marks motion; the preposition 'el introduces Sarah."
+      ],
+      "commentary": [
+        {"anchor": "rashi:18:6:1", "relation": "records", "summary": "Rashi: solet (fine flour) is for the cakes, while qemah (flour) is the cooks' starch, used to cover the pot to draw off the scum. The English keeps flour as an ingredient beside the fine flour; Rashi's reading is recorded here."},
+        {"anchor": "ibn-ezra:18:6:1", "relation": "follows", "summary": "Ibn Ezra gives only a parallel: lushi is 'like vatalesh', a verb of pulling apart. The English keeps 'knead', the plain sense."}
+      ]
+    },
+    {
+      "ref": "18:7",
+      "english": "Abraham ran to the herd and took a young bull, tender and good, and gave it to the lad, and hurried to prepare it.",
+      "literal": "and-to the-herd ran Abraham and-took son-of herd tender and-good and-gave to the-lad and-hurried to-prepare it",
+      "tokens": [
+        {"id": "18:7.1", "gloss": "to", "sense": "1"},
+        {"id": "18:7.2", "gloss": "the herd"},
+        {"id": "18:7.3", "gloss": "ran", "sense": "Qal 1", "note": "qatal, 3ms, fronted: the Hebrew puts the place first."},
+        {"id": "18:7.4", "gloss": "Abraham"},
+        {"id": "18:7.5", "gloss": "and took", "sense": "Qal 1", "note": "wayyiqtol, 3ms."},
+        {"id": "18:7.6", "gloss": "a young", "sense": "7.b", "note": "construct: 'son of the herd', a young bull."},
+        {"id": "18:7.7", "gloss": "bull", "note": "the noun 'herd, cattle' in the absolute."},
+        {"id": "18:7.8", "gloss": "tender", "note": "adjective, masculine singular."},
+        {"id": "18:7.9", "gloss": "and good", "sense": "3", "note": "adjective, masculine singular: 'good' in the sense of 'excellent'. Radak reads 'good' as 'fat' (not adopted)."},
+        {"id": "18:7.10", "gloss": "and gave", "sense": "Qal 1", "note": "wayyiqtol, 3ms."},
+        {"id": "18:7.11", "gloss": "to", "sense": "1"},
+        {"id": "18:7.12", "gloss": "the lad", "sense": "1", "note": "the young man; Rashi identifies him with Ishmael, Radak reads 'servant' (sense 2)."},
+        {"id": "18:7.13", "gloss": "and hurried", "sense": "Pi 1", "note": "wayyiqtol of the piel."},
+        {"id": "18:7.14", "gloss": "to prepare", "sense": "Qal II.3", "note": "infinitive construct."},
+        {"id": "18:7.15", "gloss": "it", "note": "the object marker with the 3ms suffix."}
+      ],
+      "phrases": [
+        {"tokens": ["18:7.1", "18:7.2", "18:7.3", "18:7.4"], "english": "Abraham ran to the herd", "literal": "'to-the-herd ran Abraham': the Hebrew puts the place first; the English puts the subject first."},
+        {"tokens": ["18:7.5", "18:7.6", "18:7.7", "18:7.8", "18:7.9"], "english": "and took a young bull, tender and good", "literal": "'and-took son-of herd tender and-good'."},
+        {"tokens": ["18:7.10", "18:7.11", "18:7.12"], "english": "and gave it to the lad", "literal": "'and-gave to the-lad': the object is the bull, unstated in the Hebrew."},
+        {"tokens": ["18:7.13", "18:7.14", "18:7.15"], "english": "and hurried to prepare it", "literal": "'and-hurried to-prepare it'."}
+      ],
+      "grammar": [
+        "The sentence begins with the fronted prepositional phrase 'to the herd'; the verb ran (qatal) follows, then a chain of wayyiqtols.",
+        "Ben bakar is a construct: 'son of the herd', the idiom for a young bull. The adjectives tender and good are masculine singular, agreeing with it.",
+        "The infinitive construct with the object marker (la-'asot oto) gives 'to prepare it'.",
+        "The accents: the tipha on 'hurried' (18:7.13) marks the last clause; the silluq comes at the end of the verse."
+      ],
+      "note": "Rashi's normative reading is that there were three bulls, so that the three guests could be fed three tongues in mustard (Bava Metzia 87a). The Hebrew is singular (ben bakar), and Radak reads a single small male, so the English keeps 'a young bull' and the Rashi reading is recorded in the commentary. This departs from the normative-commentator rule and is flagged for the reviewer.",
+      "commentary": [
+        {"anchor": "rashi:18:7:1", "relation": "records", "summary": "Rashi: there were three young bulls, so that the three guests could be fed three tongues in mustard (Bava Metzia 87a). The Hebrew is singular, so the English does not adopt this; it is recorded here and flagged as a departure from the normative reading."},
+        {"anchor": "rashi:18:7:2", "relation": "records", "summary": "Rashi: 'the lad' is Ishmael, whom Abraham trained in the commandments (Bereshit Rabba). The English keeps 'the lad' without the identification; Radak reads 'the servant'."}
+      ]
+    },
+    {
+      "ref": "18:8",
+      "english": "He took cream and milk and the young bull which he had prepared, and set them before them, and he stood by them under the tree, and they ate.",
+      "literal": "and-took cream and-milk and-son-of the-bull which made and-set before-them and-he standing upon-them under the-tree and-ate",
+      "tokens": [
+        {"id": "18:8.1", "gloss": "and took", "sense": "Qal 1", "note": "wayyiqtol, 3ms."},
+        {"id": "18:8.2", "gloss": "cream", "note": "hemah. BDB gives 'curd'; Rashi takes it as the fat skimmed from the surface of the milk, which the English renders 'cream'."},
+        {"id": "18:8.3", "gloss": "and milk"},
+        {"id": "18:8.4", "gloss": "and the young", "sense": "7.b", "note": "construct 'son of the herd', as in 18:7."},
+        {"id": "18:8.5", "gloss": "bull"},
+        {"id": "18:8.6", "gloss": "which", "note": "relative particle."},
+        {"id": "18:8.7", "gloss": "he had prepared", "sense": "Qal II.3", "note": "qatal, 3ms, in a relative clause."},
+        {"id": "18:8.8", "gloss": "and set", "sense": "Qal 2", "note": "wayyiqtol, 3ms."},
+        {"id": "18:8.9", "gloss": "before them", "sense": "I.6"},
+        {"id": "18:8.10", "gloss": "and he", "sense": "1", "note": "the conjunction and pronoun open a circumstantial clause."},
+        {"id": "18:8.11", "gloss": "standing", "sense": "Qal 1.a", "note": "qal active participle, masculine singular."},
+        {"id": "18:8.12", "gloss": "by them", "sense": "II", "note": "literally 'upon them'; the English reads it as 'by them'."},
+        {"id": "18:8.13", "gloss": "under"},
+        {"id": "18:8.14", "gloss": "the tree", "sense": "1.a"},
+        {"id": "18:8.15", "gloss": "and they ate", "sense": "Qal 1", "note": "wayyiqtol, 3mp. Rashi reads 'they appeared to eat'; see the commentary."}
+      ],
+      "phrases": [
+        {"tokens": ["18:8.1", "18:8.2"], "english": "He took cream", "literal": "'and-took cream'."},
+        {"tokens": ["18:8.3", "18:8.4", "18:8.5", "18:8.6", "18:8.7"], "english": "and milk and the young bull which he had prepared", "literal": "'and-milk and-son-of the-bull which made': the relative clause gives the bull Abraham had prepared."},
+        {"tokens": ["18:8.8", "18:8.9"], "english": "and set them before them", "literal": "'and-set before-them': the object 'them' is the food; 'before them' the men."},
+        {"tokens": ["18:8.10", "18:8.11", "18:8.12", "18:8.13", "18:8.14"], "english": "and he stood by them under the tree", "literal": "'and-he standing upon-them under the-tree'."},
+        {"tokens": ["18:8.15"], "english": "and they ate", "literal": "'and-ate': the plain verb; Rashi's 'appeared to eat' is recorded in the commentary."}
+      ],
+      "grammar": [
+        "The chain of wayyiqtols (took, set, ate) carries the meal forward; 'and he stood' is a circumstantial clause in the middle.",
+        "The relative clause 'which he had prepared' is a qatal in the past relative to the setting of the food.",
+        "No bread is named in the Hebrew, so the English names none. Rashi explains why (see the commentary).",
+        "The etnahta on 'before them' (18:8.9) divides the verse: the serving comes first, the standing and the eating second."
+      ],
+      "note": "Ibn Ezra, on 18:1, takes 'they ate' literally: the bread (food) was consumed. That is the basis of the English. The Rashi reading, that they appeared to eat, is recorded below.",
+      "commentary": [
+        {"anchor": "rashi:18:8:1", "relation": "follows", "summary": "Rashi: no bread is brought because Sarah had become a niddah that day, so the dough was made unclean. The Hebrew names no bread, so the English adds none."},
+        {"anchor": "rashi:18:8:2", "relation": "follows", "summary": "Rashi: hemah is the fat of the milk that gathers on its surface and is skimmed off. The English 'cream' follows this reading; BDB's 'curd' is the alternative."},
+        {"anchor": "rashi:18:8:3", "relation": "records", "summary": "Rashi: 'which he had prepared' means the first of the bulls he had readied, which he brought and set before them (cf. 18:7). The English keeps the singular, the young bull which he had prepared."},
+        {"anchor": "rashi:18:8:4", "relation": "records", "summary": "Rashi: 'and they ate' means they appeared to eat, and from this one learns not to change the custom of the house (Bava Metzia 87a). The English keeps the plain 'they ate', as Ibn Ezra does on 18:1."}
+      ]
+    }
+  ]
+}

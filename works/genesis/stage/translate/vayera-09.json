@@ -1,0 +1,288 @@
+{
+  "unit": "vayera-09",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "19:32",
+      "english": "Come, let us make our father drink wine, and let us lie with him, and let us keep alive seed from our father.",
+      "literal": "come, let-us-make-drink (object marker) our-father wine, and-let-us-lie with-him, and-let-us-keep-alive from-our-father seed",
+      "tokens": [
+        {"id": "19:32.1", "gloss": "come", "sense": "Qal I.1", "note": "Imperative of הָלַךְ with the paragogic ה. Radak takes לְכָה as an interjection of agreement, like לְכוּ and הָבָה: it opens a joint proposal rather than sending anyone anywhere."},
+        {"id": "19:32.2", "gloss": "let us make drink", "sense": "Hiph 2", "note": "Hifil of שָׁקָה, the causative of drinking. The form is a yiqtol in the first common plural, read here as a proposal ('let us')."},
+        {"id": "19:32.3", "gloss": "(object marker)", "lex": "bdb:a.gm.aa", "note": "The object marker אֵת, not the preposition: it marks אָבִינוּ as the one who drinks."},
+        {"id": "19:32.4", "gloss": "our father", "sense": "1"},
+        {"id": "19:32.5", "gloss": "wine"},
+        {"id": "19:32.6", "gloss": "and let us lie", "sense": "Qal 3", "note": "Cohortative of שָׁכַב. With עִם the verb means to lie with, that is, to have intercourse."},
+        {"id": "19:32.7", "gloss": "with him", "sense": "1.e"},
+        {"id": "19:32.8", "gloss": "and let us keep alive", "sense": "Pi 1", "note": "Piel of חָיָה: to preserve alive, keep alive. The seed is the object."},
+        {"id": "19:32.9", "gloss": "from our father", "sense": "1", "note": "מִן marks the source: the seed would come through the father."},
+        {"id": "19:32.10", "gloss": "seed", "sense": "4", "note": "זֶרַע here is offspring, the line that carries on."}
+      ],
+      "phrases": [
+        {"tokens": ["19:32.1"], "english": "Come", "literal": "'come': the interjection that opens the proposal (Radak)"},
+        {"tokens": ["19:32.2", "19:32.3", "19:32.4", "19:32.5"], "english": "let us make our father drink wine", "literal": "'let-us-make-drink (object marker) our-father wine': the causative hifil; the object marker is not translated"},
+        {"tokens": ["19:32.6", "19:32.7"], "english": "and let us lie with him", "literal": "'and-let-us-lie with-him': the second act of the proposal"},
+        {"tokens": ["19:32.8", "19:32.9", "19:32.10"], "english": "and let us keep alive seed from our father", "literal": "'and-let-us-keep-alive from-our-father seed': the piel 'keep alive' takes seed as its object; 'from our father' is the source"}
+      ],
+      "grammar": [
+        "לְכָה is the one word of address in the verse. It is singular and masculine, but Radak notes that such interjections do not vary for number or gender, since they express agreement.",
+        "The three verbs that follow are all first common plural: נַשְׁקֶה, וְנִשְׁכְּבָה, וּנְחַיֶּה. Each one is a step in the proposal, and the English 'let us' carries them all.",
+        "The verb נַשְׁקֶה is a yiqtol in form, a causative (hifil) of שָׁקָה. The English 'make ... drink' keeps the causative and the object.",
+        "The second and third steps are joined to the first by ו (and). The English keeps 'and' only where the Hebrew has the conjunction on the verb."
+      ],
+      "commentary": [
+        {"anchor": "radak:19:32:1", "relation": "follows", "summary": "Radak: לָכָה, like לְכוּ and הָבָה, expresses agreement and mutual help ('let us'), and does not vary for gender or number. The English 'Come' with 'let us' keeps the sense of a proposal made to companions."},
+        {"anchor": "radak:19:32:2", "relation": "not-applicable", "summary": "Radak gives the purpose of the drinking: until the father is drunk and does not know what he does. The English line states the act and leaves its purpose to the reader."},
+        {"anchor": "ramban:19:32:2", "relation": "not-applicable", "summary": "Ramban reads the women's plan as a deed they thought fitting: God would show mercy, they would bear sons and daughters, and through them the world would endure, since God had not saved them in vain. The English gives no motive."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "19:33",
+      "english": "And they made their father drink wine that night, and the firstborn came in and lay with her father, and he did not perceive when she lay down and when she rose.",
+      "literal": "and-they-made-drink (object marker) their-father wine in-the-night that, and-came-in the-firstborn and-lay with (object marker) her-father, and-not he-perceived in-her-lying-down and-in-her-rising",
+      "tokens": [
+        {"id": "19:33.1", "gloss": "and they made drink", "sense": "Hiph 2", "note": "Wayyiqtol of the hifil, feminine plural: the two daughters are the subject."},
+        {"id": "19:33.2", "gloss": "(object marker)", "lex": "bdb:a.gm.aa"},
+        {"id": "19:33.3", "gloss": "their father", "sense": "1"},
+        {"id": "19:33.4", "gloss": "wine"},
+        {"id": "19:33.5", "gloss": "in the night", "note": "The night is named with the article: הַלַּיְלָה. Radak notes that the demonstrative after it does the work of the adjective 'that'."},
+        {"id": "19:33.6", "gloss": "that", "sense": "6"},
+        {"id": "19:33.7", "gloss": "and came in", "sense": "Qal 1", "note": "Wayyiqtol of בּוֹא, the entry into the cave."},
+        {"id": "19:33.8", "gloss": "the firstborn"},
+        {"id": "19:33.9", "gloss": "and lay", "sense": "Qal 3", "note": "Wayyiqtol of שָׁכַב, the sexual sense, with the preposition אֵת that follows."},
+        {"id": "19:33.10", "gloss": "with", "lex": "bdb:a.gn.aa", "sense": "1", "note": "Here אֵת is the preposition 'with' (together with), not the object marker; the same idiom as the verb 'lie with'."},
+        {"id": "19:33.11", "gloss": "her father", "sense": "1"},
+        {"id": "19:33.12", "gloss": "and not", "note": "The negation covers both infinitives that follow."},
+        {"id": "19:33.13", "gloss": "he did not perceive", "sense": "Qal 1.b", "note": "The father did not notice her lying down or her rising. Radak notes that if he had perceived her rising he would have quarrelled with them."},
+        {"id": "19:33.14", "gloss": "when she lay down", "sense": "Qal 1", "note": "Infinitive construct with ב and a 3rd feminine singular suffix: 'in her lying down'. Ibn Ezra calls the form a verbal noun (see the commentary). The posture sense carries the euphemism."},
+        {"id": "19:33.15", "gloss": "and when she rose", "sense": "Qal 1", "note": "Infinitive construct with ו and ב: 'and in her rising'. The ו carries a puncta extraordinaria in the Masoretic text (see apparatus)."}
+      ],
+      "phrases": [
+        {"tokens": ["19:33.1", "19:33.2", "19:33.3", "19:33.4"], "english": "And they made their father drink wine", "literal": "'and-they-made-drink (object marker) their-father wine': the wayyiqtol opens the narrative; the object marker is not translated"},
+        {"tokens": ["19:33.5", "19:33.6"], "english": "that night", "literal": "'in-the-night that': the night with its demonstrative"},
+        {"tokens": ["19:33.7", "19:33.8"], "english": "and the firstborn came in", "literal": "'and-came-in the-firstborn': the verb comes before the subject"},
+        {"tokens": ["19:33.9", "19:33.10", "19:33.11"], "english": "and lay with her father", "literal": "'and-lay with (object marker) her-father': the preposition אֵת, 'with', as in 'lay with'"},
+        {"tokens": ["19:33.12", "19:33.13"], "english": "and he did not perceive", "literal": "'and-not he-perceived': the negation governs both infinitives after it"},
+        {"tokens": ["19:33.14"], "english": "when she lay down", "literal": "'in-her-lying-down': the infinitive with ב"},
+        {"tokens": ["19:33.15"], "english": "and when she rose", "literal": "'and-in-her-rising': the second infinitive, with ו"}
+      ],
+      "grammar": [
+        "The narrative is in the wayyiqtol throughout (וַתַּשְׁקֶין, וַתָּבֹא, וַתִּשְׁכַּב): the sequence of past events.",
+        "The verb of perception is the qatal יָדַע, negated, and the two infinitives that follow are what he did not notice. The sentence says the father did not notice either act.",
+        "The verb שָׁכַב takes אֵת here and עִם in 19:35. The English uses 'lay with' for both, so the difference of preposition is kept in the literal line.",
+        "The infinitives בְּשִׁכְבָהּ and וּבְקוּמָהּ are a fixed pair: the first is the lying down, the second the rising, and the verse denies notice of both."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:19:33:1", "relation": "follows", "summary": "Ibn Ezra calls בְּשִׁכְבָהּ a verbal noun (שֵׁם הַפּוֹעַל). He adds that the ב may carry a hireq, as in בְּשִׁבְרִי לָכֶם (Lev 26:26), which is the same infinitive. The English reads it as the event: 'when she lay down'."},
+        {"anchor": "radak:19:33:1", "relation": "follows", "summary": "Radak: the demonstrative הוּא stands after the noun without the article, so הַלַּיְלָה הוּא means 'that night'. The English keeps 'that night'."},
+        {"anchor": "radak:19:33:2", "relation": "follows", "summary": "Radak: 'he did not perceive' covers even her rising, because of his drunkenness; the verse says it so that the reader knows that a waking father would have quarrelled. The English keeps the negation over both acts."},
+        {"anchor": "rashi:19:33:2", "relation": "not-applicable", "summary": "Rashi reads the difference between the two verses (the firstborn 'lay with' her father and the younger 'lay with him') as a moral choice of the text, which names the elder and spares the younger. The English renders both acts alike; the wording is a point of moral reading, not of the words."},
+        {"anchor": "rashi:19:33:3", "relation": "declines", "summary": "Rashi: the puncta on the ו of בּוּקוּמָהּ show that the father knew at her rising, though he did not guard himself the second night. The English declines this: the verb's negation governs both infinitives, as Radak's plain reading also takes it, and the pointing is a midrashic reading, not the plain sense."},
+        {"anchor": "radak:19:33:5", "relation": "declines", "summary": "Radak's note on the dotted ו gives the midrashic reading that the father knew at her rising. The English does not adopt it, for the reason given at rashi:19:33:3."}
+      ],
+      "apparatus": [
+        "The ו of וּבְקוּמָהּ carries a puncta extraordinaria in the Masoretic text (the WLC note in the pack). Rashi and Radak cite the midrash that the point means he knew at her rising; the English declines it."
+      ],
+      "context": []
+    },
+    {
+      "ref": "19:34",
+      "english": "On the next day the firstborn said to the younger, \"Look, I lay with my father last night. Let us make him drink wine tonight also, and go in and lie with him, and let us keep alive seed from our father.\"",
+      "literal": "and-it-came-to-pass on-the-next-day and-said the-firstborn to the-younger; look, I-lay (with) (object marker) my-father last-night, let-us-make-drink him wine also the-night, and-go-in and-lie with-him, and-let-us-keep-alive from-our-father seed",
+      "tokens": [
+        {"id": "19:34.1", "gloss": "it came to pass", "sense": "Qal I.2.a.(1)", "note": "Wayyiqtol of הָיָה with a temporal phrase: 'and it came to pass'. A standard narrative opener."},
+        {"id": "19:34.2", "gloss": "the next day", "note": "מָחֳרָת, the morrow: the day after the night of 19:33."},
+        {"id": "19:34.3", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "19:34.4", "gloss": "the firstborn"},
+        {"id": "19:34.5", "gloss": "to", "sense": "1"},
+        {"id": "19:34.6", "gloss": "the younger", "note": "צָעִיר, adjective in the feminine: 'the younger one'. Its entry gives no sense beyond 'young'."},
+        {"id": "19:34.7", "gloss": "look", "note": "הֵן, the particle that draws attention in speech. Rendered 'look', not 'behold'."},
+        {"id": "19:34.8", "gloss": "I lay", "sense": "Qal 3", "note": "Qatal, first common singular: a completed act, reported by the elder."},
+        {"id": "19:34.9", "gloss": "last night", "note": "אֶמֶשׁ: the night just past. Radak: the night that has passed is called emesh."},
+        {"id": "19:34.10", "gloss": "with", "lex": "bdb:a.gn.aa", "sense": "1", "note": "The preposition אֵת, 'with' (together with), not the object marker."},
+        {"id": "19:34.11", "gloss": "my father", "sense": "1"},
+        {"id": "19:34.12", "gloss": "let us make him drink", "sense": "Hiph 2", "note": "Cohortative hifil with a 3rd masculine singular suffix: 'let us make him drink'."},
+        {"id": "19:34.13", "gloss": "wine"},
+        {"id": "19:34.14", "gloss": "also", "note": "גַּם: 'also', joining tonight to the night before."},
+        {"id": "19:34.15", "gloss": "tonight", "note": "הַלַּיְלָה: the coming night."},
+        {"id": "19:34.16", "gloss": "and go in", "sense": "Qal 1", "note": "Imperative feminine singular: addressed to the younger alone."},
+        {"id": "19:34.17", "gloss": "lie", "sense": "Qal 3", "note": "Imperative feminine singular of שָׁכַב, the sexual sense."},
+        {"id": "19:34.18", "gloss": "with him", "sense": "1.e"},
+        {"id": "19:34.19", "gloss": "and let us keep alive", "sense": "Pi 1"},
+        {"id": "19:34.20", "gloss": "from our father", "sense": "1"},
+        {"id": "19:34.21", "gloss": "seed", "sense": "4"}
+      ],
+      "phrases": [
+        {"tokens": ["19:34.1", "19:34.2"], "english": "On the next day", "literal": "'and-it-came-to-pass on-the-next-day': the wayyiqtol as a time opener"},
+        {"tokens": ["19:34.3", "19:34.4"], "english": "the firstborn said", "literal": "'and-said the-firstborn': the subject follows the verb"},
+        {"tokens": ["19:34.5", "19:34.6"], "english": "to the younger", "literal": "'to the-younger'"},
+        {"tokens": ["19:34.7", "19:34.8", "19:34.9", "19:34.10", "19:34.11"], "english": "Look, I lay with my father last night", "literal": "'look I-lay (with) (object marker) my-father last-night': the speech opens; the perfect states the completed act"},
+        {"tokens": ["19:34.12", "19:34.13", "19:34.14", "19:34.15"], "english": "Let us make him drink wine tonight also", "literal": "'let-us-make-drink him wine also the-night': the cohortative proposes the same act for the coming night"},
+        {"tokens": ["19:34.16"], "english": "and go in", "literal": "'and-go-in': the imperative, addressed to the younger"},
+        {"tokens": ["19:34.17", "19:34.18"], "english": "lie with him", "literal": "'lie with-him': the imperative of שָׁכַב with עִם"},
+        {"tokens": ["19:34.19", "19:34.20", "19:34.21"], "english": "and let us keep alive seed from our father", "literal": "'and-let-us-keep-alive from-our-father seed': the piel as in 19:32"}
+      ],
+      "grammar": [
+        "The speech changes person: the elder speaks of her completed act in the first singular (שָׁכַבְתִּי), then proposes in the first plural (נַשְׁקֶנּוּ, וּנְחַיֶּה), and gives the younger her part in the second feminine singular (וּבֹאִי, שִׁכְבִי).",
+        "The clause נַשְׁקֶנּוּ יַיִן גַּם הַלַּיְלָה repeats the act of 19:33 for the next night: 'also tonight' is the English of גַּם הַלַּיְלָה.",
+        "The reported act of the elder is in the qatal, and she gives its time as אֶמֶשׁ, the night just past.",
+        "The speech ends with the same final clause as 19:32, so the two proposals are set side by side: the first is the elder's and the second is the younger's to carry out."
+      ],
+      "commentary": [
+        {"anchor": "radak:19:34:1", "relation": "follows", "summary": "Radak: the night just passed is called אֶמֶשׁ. The English 'last night' gives this sense."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "19:35",
+      "english": "And they made their father drink wine also that night, and the younger arose and lay with him, and he did not perceive when she lay down and when she rose.",
+      "literal": "and-they-made-drink also in-the-night that (object marker) their-father wine, and-arose the-younger and-lay with-him, and-not he-perceived in-her-lying-down and-in-her-rising",
+      "tokens": [
+        {"id": "19:35.1", "gloss": "and they made drink", "sense": "Hiph 2", "note": "Wayyiqtol of the hifil, feminine plural, as in 19:33.1."},
+        {"id": "19:35.2", "gloss": "also", "note": "גַּם: the second night is set beside the first."},
+        {"id": "19:35.3", "gloss": "in the night"},
+        {"id": "19:35.4", "gloss": "that"},
+        {"id": "19:35.5", "gloss": "(object marker)", "lex": "bdb:a.gm.aa"},
+        {"id": "19:35.6", "gloss": "their father", "sense": "1"},
+        {"id": "19:35.7", "gloss": "wine"},
+        {"id": "19:35.8", "gloss": "and arose", "sense": "Qal 1", "note": "Wayyiqtol of קוּם: the younger rises from the act or from the place; the verb is the one used for getting up."},
+        {"id": "19:35.9", "gloss": "the younger"},
+        {"id": "19:35.10", "gloss": "and lay", "sense": "Qal 3", "note": "Wayyiqtol of שָׁכַב, the sexual sense."},
+        {"id": "19:35.11", "gloss": "with him", "sense": "1.e", "note": "The younger uses עִם; the firstborn in 19:33 used אֵת."},
+        {"id": "19:35.12", "gloss": "and not", "note": "The negation covers both infinitives."},
+        {"id": "19:35.13", "gloss": "he did not perceive", "sense": "Qal 1.b"},
+        {"id": "19:35.14", "gloss": "when she lay down", "sense": "Qal 1", "note": "Infinitive construct with ב and a 3rd feminine singular suffix."},
+        {"id": "19:35.15", "gloss": "and when she rose", "sense": "Qal 1", "note": "Infinitive construct with ו and ב; the vowels differ from 19:33.15 but the verb is the same."}
+      ],
+      "phrases": [
+        {"tokens": ["19:35.1", "19:35.2", "19:35.3", "19:35.4", "19:35.5", "19:35.6", "19:35.7"], "english": "And they made their father drink wine also that night", "literal": "'and-they-made-drink also in-the-night that (object marker) their-father wine': the object marker is not translated"},
+        {"tokens": ["19:35.8", "19:35.9"], "english": "and the younger arose", "literal": "'and-arose the-younger': the verb comes before the subject"},
+        {"tokens": ["19:35.10", "19:35.11"], "english": "and lay with him", "literal": "'and-lay with-him': the sexual sense with עִם"},
+        {"tokens": ["19:35.12", "19:35.13"], "english": "and he did not perceive", "literal": "'and-not he-perceived': the negation governs both infinitives"},
+        {"tokens": ["19:35.14"], "english": "when she lay down", "literal": "'in-her-lying-down': the infinitive with ב"},
+        {"tokens": ["19:35.15"], "english": "and when she rose", "literal": "'and-in-her-rising': the second infinitive"}
+      ],
+      "grammar": [
+        "The verse repeats the frame of 19:33. The only changes are the subject (the younger), the preposition (עִם for אֵת) and the adverb 'also'.",
+        "The elder's act is 'she made drink' (19:33) and the younger's is 'she arose and lay' (19:35); the father's ignorance is the same in both.",
+        "The adverb גַּם ties the second night to the first, as the speech in 19:34 had done."
+      ],
+      "commentary": [],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "19:36",
+      "english": "And two daughters of Lot became pregnant by their father.",
+      "literal": "and-they-became-pregnant two daughters-of Lot from-their-father",
+      "tokens": [
+        {"id": "19:36.1", "gloss": "and became pregnant", "sense": "Qal 1", "note": "Wayyiqtol of הָרָה, feminine plural: the two daughters are the subject. The text gives no separate date for the conception."},
+        {"id": "19:36.2", "gloss": "two", "note": "The feminine dual form שְׁתֵּי in the construct: 'two daughters'."},
+        {"id": "19:36.3", "gloss": "daughters", "sense": "1"},
+        {"id": "19:36.4", "gloss": "of Lot"},
+        {"id": "19:36.5", "gloss": "by their father", "sense": "1", "note": "מִן marks the father as the source, as 'from' in 19:32.9; the English gives it as 'by'."}
+      ],
+      "phrases": [
+        {"tokens": ["19:36.1", "19:36.2", "19:36.3", "19:36.4", "19:36.5"], "english": "And two daughters of Lot became pregnant by their father", "literal": "'and-they-became-pregnant two daughters-of Lot from-their-father': the verb first, then the subject and the source"}
+      ],
+      "grammar": [
+        "The verb is a wayyiqtol of הָרָה in the feminine plural, with the two daughters as subject; the English 'became pregnant' is the sense of the verb's Qal 1 entry.",
+        "The construct phrase שְׁתֵּי בְנוֹת־לוֹט is 'two daughters of Lot': the number is in the feminine dual construct form, so no article is needed.",
+        "The verse gives the conception without a separate night for each daughter: the reader is left to place it."
+      ],
+      "commentary": [
+        {"anchor": "rashi:19:36:1", "relation": "records", "summary": "Rashi: a woman does not conceive from her first coition, but these two, having thrown off restraint and exposed themselves, conceived from the first. The English does not adopt this physiological explanation; the reading is kept here because a reader may ask how both conceived in two nights."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "19:37",
+      "english": "The firstborn bore a son and named him Moab; he is the father of the Moabites to this day.",
+      "literal": "and-bore the-firstborn son and-named his-name Moab; he father-of Moab to the-day",
+      "tokens": [
+        {"id": "19:37.1", "gloss": "bore", "sense": "Qal 1", "note": "Wayyiqtol of יָלַד, the woman's bearing."},
+        {"id": "19:37.2", "gloss": "the firstborn"},
+        {"id": "19:37.3", "gloss": "a son", "sense": "1"},
+        {"id": "19:37.4", "gloss": "and named", "sense": "Qal 6", "note": "Wayyiqtol of קָרָא, 'call, name'."},
+        {"id": "19:37.5", "gloss": "his name", "sense": "2.a", "note": "The name is the object of the naming: 'called his name Moab', rendered as 'named him Moab'."},
+        {"id": "19:37.6", "gloss": "Moab", "sense": "1", "note": "The name is explained by a wordplay on מֵאָב, 'from the father' (19:36). The English keeps the transliteration; the wordplay is in the commentary."},
+        {"id": "19:37.7", "gloss": "he", "sense": "2", "note": "The pronoun resumes the son as subject of the nominal clause."},
+        {"id": "19:37.8", "gloss": "father of", "sense": "2", "note": "אָב in the sense of the founder of a people, the 'father of his people'."},
+        {"id": "19:37.9", "gloss": "the Moabites", "sense": "2.a", "note": "Moab as the nation descended from the son."},
+        {"id": "19:37.10", "gloss": "to", "sense": "I.2"},
+        {"id": "19:37.11", "gloss": "this day", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["19:37.1", "19:37.2", "19:37.3"], "english": "The firstborn bore a son", "literal": "'bore the-firstborn son': the verb first, then the subject"},
+        {"tokens": ["19:37.4", "19:37.5", "19:37.6"], "english": "and named him Moab", "literal": "'and-named his-name Moab': the idiom 'named him' for 'called his name'"},
+        {"tokens": ["19:37.7", "19:37.8", "19:37.9"], "english": "he is the father of the Moabites", "literal": "'he father-of Moab': a nominal clause, with 'is' implicit in the Hebrew"},
+        {"tokens": ["19:37.10", "19:37.11"], "english": "to this day", "literal": "'to the-day': the fixed phrase עַד הַיּוֹם"}
+      ],
+      "grammar": [
+        "The verse has two parts: the naming (wayyiqtol forms) and a nominal clause with a resumptive pronoun (הוּא אֲבִי מוֹאָב).",
+        "The name מוֹאָב is given as the son's name and then as the name of the people; the English uses 'Moab' for the son and 'the Moabites' for the people.",
+        "The final phrase עַד הַיּוֹם is a fixed idiom: 'to this day', a reference to the time of the telling."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:19:37:1", "relation": "not-applicable", "summary": "Ibn Ezra says the name is like מֵאָב, 'from the father'. This is the wordplay of the story, and the English keeps the transliteration Moab, as the decisions require, with the explanation in the note."},
+        {"anchor": "rashi:19:37:1", "relation": "not-applicable", "summary": "Rashi: the firstborn named her son with the explicit 'from my father', and the younger named hers in clean language, and was rewarded in the days of Moses. This is a homily on the two daughters and does not bear on the English."},
+        {"anchor": "radak:19:37:2", "relation": "follows", "summary": "Radak: the father of the people called Moab to this day. The English 'the father of the Moabites to this day' adopts this."},
+        {"anchor": "ibn-ezra:19:37:2", "relation": "follows", "summary": "Ibn Ezra gives two readings of עַד הַיּוֹם: that no foreign nation mixed with the Moabites up to now, or that the matter is known to this day. The English keeps 'to this day' and adopts the first, because the phrase qualifies a continuing relation of descent. The second reading, that the matter is known to this day, is recorded here as a real alternative."}
+      ],
+      "apparatus": [],
+      "context": [
+        "Moab was a people of the plateau east of the Dead Sea, a neighbour of Israel in the Transjordan. Deuteronomy 2:9 names the descendants of Lot as the people who held Ar in that country.",
+        "The text gives an origin: Moab and Ammon descend from Lot through his daughters, after the destruction of the cities (19:24-29). The story tells how two peoples of the Transjordan are kin of Israel."
+      ]
+    },
+    {
+      "ref": "19:38",
+      "english": "And the younger also bore a son, and named him Ben-Ammi; he is the father of the Ammonites to this day.",
+      "literal": "and-the-younger also she bore son, and-named his-name Ben-Ammi, he father-of sons-of Ammon to the-day",
+      "tokens": [
+        {"id": "19:38.1", "gloss": "And the younger", "note": "The subject, the younger daughter, with the conjunction and the article on צָעִיר."},
+        {"id": "19:38.2", "gloss": "also"},
+        {"id": "19:38.3", "gloss": "she", "sense": "2", "note": "The emphatic pronoun resumes the subject: 'she also'."},
+        {"id": "19:38.4", "gloss": "bore", "sense": "Qal 1", "note": "Qatal of יָלַד, third feminine singular: a completed act in the narrative."},
+        {"id": "19:38.5", "gloss": "a son", "sense": "1"},
+        {"id": "19:38.6", "gloss": "and named", "sense": "Qal 6", "note": "Wayyiqtol of קָרָא."},
+        {"id": "19:38.7", "gloss": "his name", "sense": "2.a"},
+        {"id": "19:38.8", "gloss": "Ben-", "note": "The name בֶּן־עַמִּי: 'son of my people' (Radak). The English keeps the name."},
+        {"id": "19:38.9", "gloss": "Ammi"},
+        {"id": "19:38.10", "gloss": "he", "sense": "2"},
+        {"id": "19:38.11", "gloss": "father of", "sense": "2"},
+        {"id": "19:38.12", "gloss": "the people of", "sense": "2", "note": "בְּנֵי, the sons of: the people as a whole, the descendants of the son."},
+        {"id": "19:38.13", "gloss": "Ammon"},
+        {"id": "19:38.14", "gloss": "to", "sense": "I.2"},
+        {"id": "19:38.15", "gloss": "this day", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["19:38.1", "19:38.2"], "english": "And the younger also", "literal": "'and-the-younger also': the subject, with the conjunction and the adverb"},
+        {"tokens": ["19:38.3"], "english": "-", "literal": "'she': the emphatic pronoun, resumed by the subject 'the younger'; the English does not repeat it"},
+        {"tokens": ["19:38.4", "19:38.5"], "english": "bore a son", "literal": "'bore son': the qatal, then the object"},
+        {"tokens": ["19:38.6", "19:38.7", "19:38.8", "19:38.9"], "english": "and named him Ben-Ammi", "literal": "'and-named his-name Ben-Ammi': the idiom 'named him' for 'called his name'"},
+        {"tokens": ["19:38.10", "19:38.11"], "english": "he is the father of", "literal": "'he father-of': a nominal clause with 'is' implicit"},
+        {"tokens": ["19:38.12", "19:38.13"], "english": "the Ammonites", "literal": "'sons-of Ammon': the people, as in 19:37"},
+        {"tokens": ["19:38.14", "19:38.15"], "english": "to this day", "literal": "'to the-day': the fixed phrase"}
+      ],
+      "grammar": [
+        "The verse repeats the frame of 19:37 with the younger daughter as subject. The emphatic pronoun גַם־הִוא is the one difference in the subject.",
+        "The name בֶּן־עַמִּי is the younger's naming of her son; its meaning ('son of my people') is in the note, not in the English line.",
+        "The Hebrew marks the end of a section after this verse (the ס in the Masoretic text), which closes the account of the two daughters.",
+        "בְּנֵי עַמּוֹן is a collective: 'the sons of Ammon' is the people, so the English gives 'the Ammonites'."
+      ],
+      "commentary": [
+        {"anchor": "radak:19:38:1", "relation": "not-applicable", "summary": "Radak reads the name as 'from my kin': the son was of her family. He takes the younger daughter to have been the more modest, since she did not disclose the matter to her father. The English keeps the transliteration; the reading is recorded here."},
+        {"anchor": "radak:19:38:2", "relation": "follows", "summary": "Radak: the people is called the sons of Ammon, which is why the English gives 'the Ammonites' for the Hebrew phrase."}
+      ],
+      "apparatus": [],
+      "context": [
+        "Ammon was a people of the Transjordan, north of Moab and east of the Jordan, with its centre around Rabbah, the later Amman. Deuteronomy 2:19 names the sons of Ammon as the people of Lot."
+      ]
+    }
+  ]
+}

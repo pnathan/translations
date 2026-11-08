@@ -1,0 +1,1025 @@
+{
+ "unit": "chayei-sarah-08",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "24:33",
+   "english": "Then there was set before him to eat. He said, \"I will not eat until I have spoken my words.\" Then he said, \"Speak.\"",
+   "literal": "and-was-set to-faces-of-him to-eat and-said not I-eat until if I-spoke my-words and-said speak",
+   "tokens": [
+    {
+     "id": "24:33.1",
+     "gloss": "then there was set",
+     "sense": "Hoph",
+     "note": "Hofal (passive) of שׂוּם, the doer not named. The qere form is translated; the ketiv is in the apparatus."
+    },
+    {
+     "id": "24:33.2",
+     "gloss": "before him",
+     "sense": "I.6",
+     "note": "לְפָנָיו, lit. 'to his faces': the idiom 'before him'."
+    },
+    {
+     "id": "24:33.3",
+     "gloss": "to eat",
+     "sense": "Qal 1",
+     "note": "Infinitive construct with ל: the purpose of the setting."
+    },
+    {
+     "id": "24:33.4",
+     "gloss": "he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:33.5",
+     "gloss": "not"
+    },
+    {
+     "id": "24:33.6",
+     "gloss": "I will eat",
+     "sense": "Qal 1",
+     "note": "Yiqtol 1cs with לֹא: 'I will not eat'."
+    },
+    {
+     "id": "24:33.7",
+     "gloss": "until",
+     "sense": "I.2",
+     "note": "עַד of time."
+    },
+    {
+     "id": "24:33.8",
+     "gloss": "that",
+     "sense": "1",
+     "note": "אִם here has the force of כִּי, as Rashi says; with עַד the pair means 'until'. The English 'until' carries both tokens."
+    },
+    {
+     "id": "24:33.9",
+     "gloss": "I have spoken",
+     "sense": "Pi",
+     "note": "Piel perfect 1cs: the speaking is complete before the eating."
+    },
+    {
+     "id": "24:33.10",
+     "gloss": "my words",
+     "sense": "III",
+     "note": "Plural דְּבָרִים with the 1cs suffix."
+    },
+    {
+     "id": "24:33.11",
+     "gloss": "then he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:33.12",
+     "gloss": "speak",
+     "sense": "Pi",
+     "note": "Piel imperative 2ms."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:33.1",
+      "24:33.2",
+      "24:33.3"
+     ],
+     "english": "Then there was set before him to eat",
+     "literal": "and-was-set to-faces-of-him to-eat: the hofal has no named doer, so the English passive has none; 'there was' is the English form of the unnamed passive."
+    },
+    {
+     "tokens": [
+      "24:33.4",
+      "24:33.5",
+      "24:33.6"
+     ],
+     "english": "He said, \"I will not eat",
+     "literal": "and-said not I-eat: the negative with the yiqtol makes the refusal."
+    },
+    {
+     "tokens": [
+      "24:33.7",
+      "24:33.8",
+      "24:33.9",
+      "24:33.10"
+     ],
+     "english": "until I have spoken my words",
+     "literal": "until if I-spoke my-words: 'until that I spoke my words'; the perfect is completed before the eating."
+    },
+    {
+     "tokens": [
+      "24:33.11",
+      "24:33.12"
+     ],
+     "english": "Then he said, \"Speak.\"",
+     "literal": "and-said speak: the speaker of 'speak' is not named in the Hebrew, so the English keeps 'he'."
+    }
+   ],
+   "grammar": [
+    "הוּשַׂם is the hofal of שׂוּם, a passive in the wayyiqtol; the Hebrew names no doer, and the English passive keeps that.",
+    "The infinitive לֶאֱכֹל gives the purpose of the setting; the negative לֹא אֹכַל is the refusal, and the qatal דִּבַּרְתִּי in the clause after עַד אִם is completed before the eating.",
+    "The second וַיֹּאמֶר introduces the imperative דַּבֵּר; the speaker changes without a name in the Hebrew."
+   ],
+   "note": "Ibn Ezra (normative) reads the hofal as the binyan in which the doer is not named; the English follows him. Radak's servants and his name for the second speaker are recorded, not adopted.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:33:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: this is the binyan in which the name of the doer is not mentioned, as in ויושב את משה; the English therefore gives an unnamed passive."
+    },
+    {
+     "anchor": "rashi:24:33:1",
+     "relation": "follows",
+     "summary": "Rashi: אִם is used in the sense of both אֲשֶׁר and כִּי, as in עַד כִּי יָבֹא שִׁילֹה; and this is what the sages said, that כִּי is used in four senses, one of which is אִי, that is, אִם. The English reads 'until'."
+    },
+    {
+     "anchor": "radak:24:33:1",
+     "relation": "records",
+     "summary": "Radak: the ketiv ויישם is taken from the root ישם; he sets the ketiv beside the form read here."
+    },
+    {
+     "anchor": "radak:24:33:2",
+     "relation": "records",
+     "summary": "Radak: the form is hofal, and the food was set before him by the servants of the house; the Hebrew names no servants, so the English does not add them."
+    },
+    {
+     "anchor": "radak:24:33:3",
+     "relation": "records",
+     "summary": "Radak: the one who says 'speak' is Laban or Bethuel; the Hebrew names neither, so the English keeps 'he'."
+    }
+   ],
+   "apparatus": [
+    "Ketiv ויישם; qere וַיּוּשַׂם, the form translated. Radak takes the ketiv from the root ישם."
+   ]
+  },
+  {
+   "ref": "24:34",
+   "english": "He said, \"I am Abraham's servant.",
+   "literal": "and-said servant-of Abraham I",
+   "tokens": [
+    {
+     "id": "24:34.1",
+     "gloss": "he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:34.2",
+     "gloss": "servant of",
+     "sense": "4",
+     "note": "Construct with the following name: 'the servant of Abraham'."
+    },
+    {
+     "id": "24:34.3",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "24:34.4",
+     "gloss": "I",
+     "note": "The independent pronoun is the subject of a verbless sentence; 'am' is English for the equation."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:34.1",
+      "24:34.2",
+      "24:34.3",
+      "24:34.4"
+     ],
+     "english": "He said, \"I am Abraham's servant.",
+     "literal": "and-said servant-of Abraham I: a verbless sentence, the pronoun as subject and the construct noun as predicate; 'am' is supplied by English."
+    }
+   ],
+   "grammar": [
+    "The verse is verbless after the verb of saying: 'servant of Abraham I', with the pronoun אָנֹכִי as subject; the English supplies 'am'.",
+    "The etnaḥta on וַיֹּאמַר divides the verse; the speech it opens runs on to 24:49 and is left open in this unit.",
+    "The servant is not named in this verse."
+   ],
+   "note": "Ibn Ezra (normative) rules that the words stand as their plain sense, not joined to the words about food. The English gives the plain sense.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:34:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: some take 'I am Abraham's servant' with the words about eating, so that some foods are forbidden to them; the correct reading is that his words stand in their plain meaning."
+    },
+    {
+     "anchor": "radak:24:34:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the Sages say that he first wished to be understood as only the servant of Abraham, the brother of his hearers, so that the honour they see is not his; a comment on his motive, not on the words."
+    }
+   ]
+  },
+  {
+   "ref": "24:35",
+   "english": "The LORD blessed my master greatly, and he became great; and he gave him flocks and cattle and silver and gold and servants and maidservants and camels and donkeys.",
+   "literal": "and-the-LORD blessed OBJ my-master greatly and-became-great and-gave to-him flocks and-cattle and-silver and-gold and-servants and-maidservants and-camels and-donkeys",
+   "tokens": [
+    {
+     "id": "24:35.1",
+     "gloss": "and the LORD",
+     "sense": "I",
+     "note": "יְהוָה, written here with the vowels of יְהֹוָה (see apparatus)."
+    },
+    {
+     "id": "24:35.2",
+     "gloss": "blessed",
+     "sense": "Pi 2",
+     "note": "Piel perfect 3ms with God as subject: 'God blesses'."
+    },
+    {
+     "id": "24:35.3",
+     "gloss": "(object marker)",
+     "note": "The object marker has no English counterpart."
+    },
+    {
+     "id": "24:35.4",
+     "gloss": "my master"
+    },
+    {
+     "id": "24:35.5",
+     "gloss": "greatly",
+     "sense": "2",
+     "note": "Adverb with the verb of blessing."
+    },
+    {
+     "id": "24:35.6",
+     "gloss": "and he became great",
+     "sense": "Qal 2",
+     "note": "Wayyiqtol 3ms: the subject is the master."
+    },
+    {
+     "id": "24:35.7",
+     "gloss": "and he gave",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol 3ms. The subject continues from the blessing, the LORD; the master is the one to whom (לוֹ) the gift is given."
+    },
+    {
+     "id": "24:35.8",
+     "gloss": "to him"
+    },
+    {
+     "id": "24:35.9",
+     "gloss": "flocks"
+    },
+    {
+     "id": "24:35.10",
+     "gloss": "and cattle"
+    },
+    {
+     "id": "24:35.11",
+     "gloss": "and silver",
+     "sense": "3",
+     "note": "Silver as wealth, reckoned by weight."
+    },
+    {
+     "id": "24:35.12",
+     "gloss": "and gold",
+     "sense": "2",
+     "note": "Gold as wealth."
+    },
+    {
+     "id": "24:35.13",
+     "gloss": "and servants",
+     "sense": "1",
+     "note": "Plural of עֶבֶד."
+    },
+    {
+     "id": "24:35.14",
+     "gloss": "and maidservants"
+    },
+    {
+     "id": "24:35.15",
+     "gloss": "and camels",
+     "sense": "1",
+     "note": "Camel as property."
+    },
+    {
+     "id": "24:35.16",
+     "gloss": "and donkeys"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:35.1",
+      "24:35.2",
+      "24:35.3",
+      "24:35.4",
+      "24:35.5"
+     ],
+     "english": "The LORD blessed my master greatly",
+     "literal": "and-the-LORD blessed OBJ my-master greatly: the prefix ו has no English; the object marker is not translated."
+    },
+    {
+     "tokens": [
+      "24:35.6"
+     ],
+     "english": "he became great",
+     "literal": "and-became-great: the wayyiqtol continues the sequence after the qatal of blessing."
+    },
+    {
+     "tokens": [
+      "24:35.7",
+      "24:35.8"
+     ],
+     "english": "he gave him",
+     "literal": "and-gave to-him: 'he' keeps the 3ms form; the giver is the one who blessed, and לוֹ is the master."
+    },
+    {
+     "tokens": [
+      "24:35.9",
+      "24:35.10",
+      "24:35.11",
+      "24:35.12",
+      "24:35.13",
+      "24:35.14",
+      "24:35.15",
+      "24:35.16"
+     ],
+     "english": "flocks and cattle and silver and gold and servants and maidservants and camels and donkeys",
+     "literal": "flocks and-cattle and-silver and-gold and-servants and-maidservants and-camels and-donkeys: a list of eight with ו on each item after the first."
+    }
+   ],
+   "grammar": [
+    "The qatal בֵּרַךְ opens the verse; the two wayyiqtol verbs carry the narrative on.",
+    "The subject of וַיִּגְדָּל is the master; the subject of וַיִּתֶּן is the one who blessed, the LORD, and לוֹ is the master: he cannot give to himself. The English keeps 'he' for the 3ms verb.",
+    "The list is a run of nouns each with ו, the first without; the English 'and' follows the Hebrew."
+   ],
+   "note": "The first verb names the LORD; the next two have no named subject, and the English keeps 'he'. The master is the subject of 'became great' and the one to whom the gifts are given.",
+   "commentary": [
+    {
+     "anchor": "radak:24:35:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the blessing was so great that his servant goes in great honour, as they see; this describes the effect and does not change the sense of מְאֹד."
+    },
+    {
+     "anchor": "sforno:24:35:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: without doubt many in the land were eager to marry their daughters to his son; a comment on motive, not on the words."
+    }
+   ],
+   "apparatus": [
+    "Vowels: WLC reads וַיהוָה for וַיהֹוָה; no change of sense."
+   ],
+   "context": [
+    "Silver (כֶּסֶף) here is wealth given by weight, not coinage; coined money is much later than the patriarchal period.",
+    "The date at which camels came into use as beasts of burden in the region is disputed; the English gives 'camels' without a date."
+   ]
+  },
+  {
+   "ref": "24:36",
+   "english": "Sarah, my master's wife, bore a son to my master in her old age, and he gave him all that was his.",
+   "literal": "and-bore Sarah wife-of my-master son to-my-master after her-old-age and-gave to-him OBJ all that to-him",
+   "tokens": [
+    {
+     "id": "24:36.1",
+     "gloss": "and bore",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol 3fs: the subject is Sarah."
+    },
+    {
+     "id": "24:36.2",
+     "gloss": "Sarah"
+    },
+    {
+     "id": "24:36.3",
+     "gloss": "wife of",
+     "sense": "2",
+     "note": "Construct: 'the wife of my master'."
+    },
+    {
+     "id": "24:36.4",
+     "gloss": "my master"
+    },
+    {
+     "id": "24:36.5",
+     "gloss": "a son",
+     "sense": "1"
+    },
+    {
+     "id": "24:36.6",
+     "gloss": "to my master",
+     "note": "לַ dative with the name."
+    },
+    {
+     "id": "24:36.7",
+     "gloss": "after",
+     "sense": "2.b",
+     "note": "Time sense; the English renders 'in her old age' for the idiom."
+    },
+    {
+     "id": "24:36.8",
+     "gloss": "her old age"
+    },
+    {
+     "id": "24:36.9",
+     "gloss": "and he gave",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol 3ms; the giver is not named."
+    },
+    {
+     "id": "24:36.10",
+     "gloss": "him",
+     "note": "Suffix on לוֹ."
+    },
+    {
+     "id": "24:36.11",
+     "gloss": "(object marker)",
+     "note": "No English counterpart."
+    },
+    {
+     "id": "24:36.12",
+     "gloss": "all",
+     "sense": "2.a",
+     "note": "כֹּל in construct before a relative clause: 'all that is his'."
+    },
+    {
+     "id": "24:36.13",
+     "gloss": "that"
+    },
+    {
+     "id": "24:36.14",
+     "gloss": "was his",
+     "note": "לוֹ in the relative clause, 'that to him'; 'was' is English."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:36.1",
+      "24:36.2",
+      "24:36.3",
+      "24:36.4"
+     ],
+     "english": "Sarah, my master's wife, bore",
+     "literal": "and-bore Sarah wife-of my-master: the English puts 'my master's wife' after the name."
+    },
+    {
+     "tokens": [
+      "24:36.5"
+     ],
+     "english": "a son",
+     "literal": "son: the object of 'bore'."
+    },
+    {
+     "tokens": [
+      "24:36.6",
+      "24:36.7",
+      "24:36.8"
+     ],
+     "english": "to my master in her old age",
+     "literal": "to-my-master after her-old-age: 'after' in the time sense, English 'in'."
+    },
+    {
+     "tokens": [
+      "24:36.9",
+      "24:36.10"
+     ],
+     "english": "and he gave him",
+     "literal": "and-gave to-him: the giver is not named."
+    },
+    {
+     "tokens": [
+      "24:36.11",
+      "24:36.12",
+      "24:36.13",
+      "24:36.14"
+     ],
+     "english": "all that was his",
+     "literal": "OBJ all that to-him: the relative clause has no verb; 'was' is English."
+    }
+   ],
+   "grammar": [
+    "The verse is a run of wayyiqtol and noun phrases; the gender of the first verb agrees with Sarah.",
+    "אֵשֶׁת אֲדֹנִי is a construct chain: 'the wife of my master'.",
+    "אַחֲרֵי זִקְנָתָהּ has no verb: 'after her old age'; the English idiom is 'in her old age'."
+   ],
+   "note": "The copula in 'all that was his' is English; the Hebrew has only לוֹ.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:36:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: he showed them the deed of gift; an account of how the giving was done, not of the words."
+    },
+    {
+     "anchor": "radak:24:36:1",
+     "relation": "not-applicable",
+     "summary": "Radak: though he had a son by another woman, he gave all to Isaac out of love for Sarah his kinswoman and for Isaac; a comment on motive."
+    },
+    {
+     "anchor": "sforno:24:36:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: therefore Isaac was dear to him from the time of his birth; a comment on the phrase 'in her old age'."
+    }
+   ],
+   "apparatus": [
+    "Vowels: WLC reads לּוֹ for לוֹ; no change of sense."
+   ]
+  },
+  {
+   "ref": "24:37",
+   "english": "My master made me swear, saying, 'You shall not take a wife for my son from the daughters of the Canaanites, in whose land I dwell.",
+   "literal": "and-made-swear-me my-master saying not you-take wife for-my-son from-daughters-of the-Canaanite who I dwelling in-his-land",
+   "tokens": [
+    {
+     "id": "24:37.1",
+     "gloss": "made me swear",
+     "sense": "Hiph 1",
+     "note": "Hiphil wayyiqtol 3ms with the 1cs suffix."
+    },
+    {
+     "id": "24:37.2",
+     "gloss": "my master"
+    },
+    {
+     "id": "24:37.3",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "Infinitive construct לֵאמֹר introduces the speech."
+    },
+    {
+     "id": "24:37.4",
+     "gloss": "not"
+    },
+    {
+     "id": "24:37.5",
+     "gloss": "you shall take",
+     "sense": "Qal 1",
+     "note": "Yiqtol 2ms with לֹא: a prohibition, 'you shall not take'."
+    },
+    {
+     "id": "24:37.6",
+     "gloss": "a wife",
+     "sense": "2"
+    },
+    {
+     "id": "24:37.7",
+     "gloss": "for my son"
+    },
+    {
+     "id": "24:37.8",
+     "gloss": "from the daughters of",
+     "sense": "1"
+    },
+    {
+     "id": "24:37.9",
+     "gloss": "the Canaanites",
+     "note": "The article with the gentilic is collective; the English uses the plural for it."
+    },
+    {
+     "id": "24:37.10",
+     "gloss": "who"
+    },
+    {
+     "id": "24:37.11",
+     "gloss": "I"
+    },
+    {
+     "id": "24:37.12",
+     "gloss": "dwelling",
+     "sense": "Qal 3",
+     "note": "Participle: a present state, 'I dwell'."
+    },
+    {
+     "id": "24:37.13",
+     "gloss": "in his land",
+     "sense": "2.a",
+     "note": "The suffix refers to the Canaanites."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:37.1",
+      "24:37.2"
+     ],
+     "english": "My master made me swear",
+     "literal": "and-made-swear-me my-master: the Hiphil with suffix; the English puts the subject first."
+    },
+    {
+     "tokens": [
+      "24:37.3",
+      "24:37.4",
+      "24:37.5"
+     ],
+     "english": "saying, 'You shall not take",
+     "literal": "saying not you-take: the infinitive introduces the words; the yiqtol with לֹא is a prohibition."
+    },
+    {
+     "tokens": [
+      "24:37.6"
+     ],
+     "english": "a wife",
+     "literal": "a wife: the object of the prohibition."
+    },
+    {
+     "tokens": [
+      "24:37.7"
+     ],
+     "english": "for my son",
+     "literal": "for-my-son: the beneficiary."
+    },
+    {
+     "tokens": [
+      "24:37.8",
+      "24:37.9"
+     ],
+     "english": "from the daughters of the Canaanites",
+     "literal": "from-daughters-of the-Canaanite: the gentilic is collective, so the English is plural."
+    },
+    {
+     "tokens": [
+      "24:37.10",
+      "24:37.11",
+      "24:37.12",
+      "24:37.13"
+     ],
+     "english": "in whose land I dwell",
+     "literal": "who I dwelling in-his-land: a participle, 'I dwell', with the relative 'whose' for the people."
+    }
+   ],
+   "grammar": [
+    "לֵאמֹר with the infinitive introduces the words; the English puts Abraham's words in single quotes inside the servant's speech.",
+    "לֹא תִקַּח is a yiqtol with לֹא: the prohibition 'you shall not take', addressed to the servant.",
+    "אֲשֶׁר אָנֹכִי יֹשֵׁב בְּאַרְצוֹ is a participle, 'I dwell in his land'; the suffix refers to the Canaanites."
+   ],
+   "note": "Single quotes mark Abraham's words inside the servant's speech; the outer double quotation is left open, and Abraham's quotation runs on into 24:38.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:37:1",
+     "relation": "declines",
+     "summary": "Rashi: he takes the prohibition as holding on a condition, 'if you do not first go to my father's house, and she is not willing to go after you'. The words state no condition, so the English keeps the plain prohibition."
+    },
+    {
+     "anchor": "radak:24:37:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the answer to 'why did you come so far' is that Abraham found a wife for his son among the great men of that land but would take only from his kin; a comment on motive."
+    },
+    {
+     "anchor": "sforno:24:37:1",
+     "relation": "not-applicable",
+     "summary": "Sforno: in the servant's words, since Abraham rejected the men of his land and chose his kin, the servant came to them; not because the land lacked women. A comment on motive."
+    }
+   ]
+  },
+  {
+   "ref": "24:38",
+   "english": "Rather, you shall go to my father's house and to my kin, and take a wife for my son.'",
+   "literal": "if not to house-of my-father you-go and-to my-clan and-you-take wife for-my-son",
+   "tokens": [
+    {
+     "id": "24:38.1",
+     "gloss": "if",
+     "sense": "1",
+     "note": "אִם־לֹא after a negative command: 'but rather', as in Onkelos (אֱלָהֵן); the pair is not a conditional here."
+    },
+    {
+     "id": "24:38.2",
+     "gloss": "not"
+    },
+    {
+     "id": "24:38.3",
+     "gloss": "to"
+    },
+    {
+     "id": "24:38.4",
+     "gloss": "house of",
+     "sense": "4",
+     "note": "בֵּית אָבִי: the household as a family group."
+    },
+    {
+     "id": "24:38.5",
+     "gloss": "my father",
+     "sense": "1"
+    },
+    {
+     "id": "24:38.6",
+     "gloss": "you shall go",
+     "sense": "Qal I.1",
+     "note": "Yiqtol 2ms."
+    },
+    {
+     "id": "24:38.7",
+     "gloss": "and to"
+    },
+    {
+     "id": "24:38.8",
+     "gloss": "my kin",
+     "sense": "1",
+     "note": "מִשְׁפָּחָה: the clan."
+    },
+    {
+     "id": "24:38.9",
+     "gloss": "and take",
+     "sense": "Qal 1",
+     "note": "Weqatal 2ms: continues the yiqtol of 'you shall go'."
+    },
+    {
+     "id": "24:38.10",
+     "gloss": "a wife",
+     "sense": "2"
+    },
+    {
+     "id": "24:38.11",
+     "gloss": "for my son"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:38.1",
+      "24:38.2"
+     ],
+     "english": "Rather",
+     "literal": "if not: after the negative command of 24:37 it means 'but rather'; Onkelos has אֱלָהֵן."
+    },
+    {
+     "tokens": [
+      "24:38.3",
+      "24:38.4",
+      "24:38.5",
+      "24:38.6"
+     ],
+     "english": "you shall go to my father's house",
+     "literal": "to house-of my-father you-go: 'house of my father' is the English 'my father's house'."
+    },
+    {
+     "tokens": [
+      "24:38.7",
+      "24:38.8"
+     ],
+     "english": "and to my kin",
+     "literal": "and-to my-clan: 'and to' continues the verb 'go'."
+    },
+    {
+     "tokens": [
+      "24:38.9",
+      "24:38.10",
+      "24:38.11"
+     ],
+     "english": "and take a wife for my son",
+     "literal": "and-you-take wife for-my-son: the weqatal continues the instruction."
+    }
+   ],
+   "grammar": [
+    "אִם־לֹא after the prohibition of 24:37 means 'but rather': the servant is to go to the father's house and kin, nowhere else. Onkelos renders it אֱלָהֵן.",
+    "תֵּלֵךְ and וְלָקַחְתָּ are 2ms: the servant is addressed as 'you'.",
+    "בֵּית אָבִי: the father's household as the place of the bride's family.",
+    "Abraham's words, begun in 24:37, continue here; the single quotation closes at the end of this verse."
+   ],
+   "note": "The 2ms verbs address the servant directly; the English 'you' keeps the number.",
+   "commentary": [],
+   "context": [
+    "בֵּית אָב, 'father's house', is the household or extended family as a group, not only the single family; the English 'father's house' keeps the Hebrew."
+   ]
+  },
+  {
+   "ref": "24:39",
+   "english": "I said to my master, 'Perhaps the woman will not go after me.'",
+   "literal": "and-I-said to my-master perhaps not she-goes the-woman after-me",
+   "tokens": [
+    {
+     "id": "24:39.1",
+     "gloss": "I said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:39.2",
+     "gloss": "to"
+    },
+    {
+     "id": "24:39.3",
+     "gloss": "my master"
+    },
+    {
+     "id": "24:39.4",
+     "gloss": "perhaps",
+     "sense": "1",
+     "note": "The word is written without the vav (see apparatus)."
+    },
+    {
+     "id": "24:39.5",
+     "gloss": "not"
+    },
+    {
+     "id": "24:39.6",
+     "gloss": "will go",
+     "sense": "Qal I.1",
+     "note": "Yiqtol 3fs: the subject is the woman."
+    },
+    {
+     "id": "24:39.7",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "24:39.8",
+     "gloss": "after me",
+     "sense": "2.a",
+     "note": "Following: 'after me'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:39.1",
+      "24:39.2",
+      "24:39.3"
+     ],
+     "english": "I said to my master",
+     "literal": "and-I-said to my-master: the speech is the servant's report of his own earlier words."
+    },
+    {
+     "tokens": [
+      "24:39.4",
+      "24:39.5",
+      "24:39.6",
+      "24:39.7",
+      "24:39.8"
+     ],
+     "english": "Perhaps the woman will not go after me",
+     "literal": "perhaps not she-goes the-woman after-me: a fear, not a prohibition; the negative is with the yiqtol."
+    }
+   ],
+   "grammar": [
+    "אֻלַי is the adverb 'perhaps', here without the vav.",
+    "לֹא תֵלֵךְ is a yiqtol 3fs with לֹא: the clause states a fear, 'perhaps she will not go'.",
+    "The speech is quoted as the servant's own words earlier; the English gives it in single quotes inside his speech."
+   ],
+   "note": "The written form lacks the vav; the English reads the word as 'perhaps'.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:39:1",
+     "relation": "declines",
+     "summary": "Rashi reads the written אלי as 'to me' and tells that Eliezer had a daughter and sought a way for Abraham to speak to him of her marriage; Abraham answered that his son is blessed and Eliezer cursed. This is midrash; the English keeps 'perhaps', the plain sense of the word."
+    },
+    {
+     "anchor": "radak:24:39:1",
+     "relation": "declines",
+     "summary": "Radak: the vav is missing (defective spelling). A derash reads Eliezer's design into the word; he rejects it, holding that the speeches are reported as they were said, and that variant wording in repeated speeches keeps the same sense."
+    }
+   ],
+   "apparatus": [
+    "Written without the vav (אֻלַי; the usual form is אוּלַי). Rashi reads the written form as 'to me'; Radak calls the spelling defective and keeps the same sense."
+   ]
+  },
+  {
+   "ref": "24:40",
+   "english": "He said to me, 'The LORD before whom I have walked will send his angel with you and will make your way prosper; and you shall take a wife for my son from my kin and from my father's house.",
+   "literal": "and-he-said to-me the-LORD who I-walked-about before-him he-will-send his-angel with-you and-he-made-prosper your-way and-you-took wife for-my-son from-my-clan and-from-house-of my-father",
+   "tokens": [
+    {
+     "id": "24:40.1",
+     "gloss": "and he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:40.2",
+     "gloss": "to me",
+     "sense": "1"
+    },
+    {
+     "id": "24:40.3",
+     "gloss": "the LORD",
+     "sense": "I"
+    },
+    {
+     "id": "24:40.4",
+     "gloss": "who"
+    },
+    {
+     "id": "24:40.5",
+     "gloss": "I have walked",
+     "sense": "Hithp",
+     "note": "Hitpael perfect 1cs: 'walk about' before him."
+    },
+    {
+     "id": "24:40.6",
+     "gloss": "before him",
+     "sense": "I.6"
+    },
+    {
+     "id": "24:40.7",
+     "gloss": "will send",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:40.8",
+     "gloss": "his angel",
+     "sense": "2",
+     "note": "The angel is sent by the LORD: 'angel'."
+    },
+    {
+     "id": "24:40.9",
+     "gloss": "with you",
+     "sense": "1",
+     "note": "The suffix is pointed like a 2nd feminine singular and the dataset parses it so, but the addressee is the servant, a man; the sense requires the masculine, so the suffix is read as 2ms. English 'you'."
+    },
+    {
+     "id": "24:40.10",
+     "gloss": "and will make prosper",
+     "sense": "Hiph 1",
+     "note": "Perfect with waw continuing the future of the clause."
+    },
+    {
+     "id": "24:40.11",
+     "gloss": "your way",
+     "sense": "5",
+     "note": "Fig. for the course of the journey."
+    },
+    {
+     "id": "24:40.12",
+     "gloss": "and you shall take",
+     "sense": "Qal 1",
+     "note": "Perfect with waw continuing the future of the promise; the English 'shall' keeps the force of the instruction of 24:38."
+    },
+    {
+     "id": "24:40.13",
+     "gloss": "a wife",
+     "sense": "2"
+    },
+    {
+     "id": "24:40.14",
+     "gloss": "for my son"
+    },
+    {
+     "id": "24:40.15",
+     "gloss": "from my kin",
+     "sense": "1"
+    },
+    {
+     "id": "24:40.16",
+     "gloss": "and from the house of",
+     "sense": "4"
+    },
+    {
+     "id": "24:40.17",
+     "gloss": "my father",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:40.1",
+      "24:40.2"
+     ],
+     "english": "He said to me",
+     "literal": "and-he-said to-me: Abraham speaks to the servant."
+    },
+    {
+     "tokens": [
+      "24:40.3",
+      "24:40.4",
+      "24:40.5",
+      "24:40.6"
+     ],
+     "english": "The LORD before whom I have walked",
+     "literal": "the-LORD who I-walked-about before-him: the relative 'before whom' is the English for 'who' with 'before him'."
+    },
+    {
+     "tokens": [
+      "24:40.7",
+      "24:40.8",
+      "24:40.9"
+     ],
+     "english": "will send his angel with you",
+     "literal": "he-will-send his-angel with-you: the angel is sent by the LORD."
+    },
+    {
+     "tokens": [
+      "24:40.10",
+      "24:40.11"
+     ],
+     "english": "and will make your way prosper",
+     "literal": "and-he-made-prosper your-way: the perfect with waw continues the future; 'make prosper' is the causative."
+    },
+    {
+     "tokens": [
+      "24:40.12",
+      "24:40.13",
+      "24:40.14"
+     ],
+     "english": "and you shall take a wife for my son",
+     "literal": "and-you-took wife for-my-son: the perfect with waw continues the instruction."
+    },
+    {
+     "tokens": [
+      "24:40.15",
+      "24:40.16",
+      "24:40.17"
+     ],
+     "english": "from my kin and from my father's house",
+     "literal": "from-my-clan and-from-house-of my-father: the two sources of the wife."
+    }
+   ],
+   "grammar": [
+    "The speech of Abraham is in single quotes inside the servant's speech; the outer double quotation stays open.",
+    "הִתְהַלַּכְתִּי is hitpael: 'walk about'; with לְפָנָיו it reads 'walk before him'.",
+    "The two future clauses: the LORD will send his angel and will make the way prosper; the second is a perfect with waw continuing the future.",
+    "The suffix on אִתָּךְ is pointed like a 2nd feminine singular, but the addressee is the servant; it is read as 2ms and the English is 'you'."
+   ],
+   "note": "The subject of the final instruction is 'you' (the servant), as in 24:38.",
+   "commentary": []
+  }
+ ]
+}

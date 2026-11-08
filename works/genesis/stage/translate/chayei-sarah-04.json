@@ -1,0 +1,1309 @@
+{
+ "unit": "chayei-sarah-04",
+ "model": "haiku",
+ "segments": [
+  {
+   "ref": "24:1",
+   "english": "Abraham was old and advanced in years, and the LORD had blessed Abraham in all things.",
+   "literal": "and-Abraham old came in-days; and-LORD blessed ACC-Abraham in-all",
+   "tokens": [
+    {
+     "id": "24:1.1",
+     "gloss": "and Abraham"
+    },
+    {
+     "id": "24:1.2",
+     "gloss": "was old",
+     "sense": "Qal",
+     "lex": "bdb:g.cd.ac",
+     "note": "verb 'be old', perfect (qatal), 3rd masculine singular; it opens the background clause"
+    },
+    {
+     "id": "24:1.3",
+     "gloss": "came (advanced)",
+     "sense": "Qal 2",
+     "note": "idiom: 'come in the days' = be advanced in years"
+    },
+    {
+     "id": "24:1.4",
+     "gloss": "in years",
+     "sense": "4",
+     "note": "idiom: the plural 'days' with ב; 'in days' = advanced in years"
+    },
+    {
+     "id": "24:1.5",
+     "gloss": "and the LORD",
+     "sense": "I",
+     "note": "the divine name; the pointing differs between witnesses (see apparatus)"
+    },
+    {
+     "id": "24:1.6",
+     "gloss": "had blessed",
+     "sense": "Pi 2",
+     "note": "piel perfect, God as subject: 'bless' (Pi 2); the perfect after the subject is background"
+    },
+    {
+     "id": "24:1.7",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "24:1.8",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "24:1.9",
+     "gloss": "in all things",
+     "sense": "2.a",
+     "note": "בַּכֹּל: ב 'in' with כֹּל 'all'; the English adds 'things' for the idiom 'in all'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:1.1",
+      "24:1.2",
+      "24:1.3",
+      "24:1.4"
+     ],
+     "english": "Abraham was old and advanced in years,",
+     "literal": "and-Abraham old came in-days"
+    },
+    {
+     "tokens": [
+      "24:1.5",
+      "24:1.6",
+      "24:1.7",
+      "24:1.8",
+      "24:1.9"
+     ],
+     "english": "and the LORD had blessed Abraham in all things.",
+     "literal": "and-LORD blessed ACC-Abraham in-all"
+    }
+   ],
+   "grammar": [
+    "The clause וְאַבְרָהָם זָקֵן בָּא בַּיָּמִים has a noun subject and a qatal, so it is background to the main clause, which is the blessing.",
+    "The idiom בָּא בַּיָּמִים, 'come in the days', means advanced in years; the English keeps it as one phrase and gives no age.",
+    "וַיהוָה בֵּרַךְ אֶת־אַבְרָהָם repeats the background pattern with the divine name as subject; 'had blessed' is that pluperfect.",
+    "The verse ends with בַּכֹּל, the one place in Genesis 24 where the blessing has a scope: 'in all' (Ibn Ezra's reading, in the commentary)."
+   ],
+   "note": "The English gives the words only. What the blessing consisted of (length of days, wealth, honour, sons) is Ibn Ezra's gloss and is kept in the commentary. Rashi's numerical reading of בַּכֹּל is a midrash and is recorded, not followed.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:1:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'blessed in all' means in length of days, wealth, honour and sons, which he calls all of man's desire. He says the ב of בַּכֹּל is to be read as a beth that serves as 'in', so the phrase is 'in all'; the English follows that reading of the preposition, and his list of what the blessing was stays in the note."
+    },
+    {
+     "anchor": "rashi:24:1:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: בַּכֹּל has the numerical value of בֵּן (son, 52), and since Abraham had a son he had to marry him off. A numerical reading and a reason for the errand; it does not bear on the English."
+    }
+   ],
+   "apparatus": [
+    "24:1.5: the pack's base vowels for the divine name differ from the WLC pointing (יְהֹוָה in the base, יְהוָה in the WLC); the English is the same either way."
+   ],
+   "context": []
+  },
+  {
+   "ref": "24:2",
+   "english": "Abraham said to his servant, the elder of his household, who ruled over all that he had, \"Put your hand under my thigh, please,",
+   "literal": "and-said Abraham to his-servant elder-of his-household the-ruling over-all that to-him; put pray your-hand under my-thigh",
+   "tokens": [
+    {
+     "id": "24:2.1",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol: the vav with the imperfect carries the narrative on"
+    },
+    {
+     "id": "24:2.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "24:2.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "24:2.4",
+     "gloss": "his servant",
+     "sense": "1"
+    },
+    {
+     "id": "24:2.5",
+     "gloss": "the elder of",
+     "sense": "2.b",
+     "lex": "bdb:g.cd.ad",
+     "note": "adjective 'old' used as a noun; the construct form זְקַן (bound to the next word) is the form Rashi explains"
+    },
+    {
+     "id": "24:2.6",
+     "gloss": "his household",
+     "sense": "5",
+     "note": "construct chain זְקַן בֵּיתוֹ, 'the elder of his household'"
+    },
+    {
+     "id": "24:2.7",
+     "gloss": "who ruled",
+     "sense": "Qal 1",
+     "note": "qal participle of מָשַׁל, 'rule'; it qualifies the servant"
+    },
+    {
+     "id": "24:2.8",
+     "gloss": "over all",
+     "sense": "2.a",
+     "note": "ב with כֹּל after מָשַׁל: rule 'over' all"
+    },
+    {
+     "id": "24:2.9",
+     "gloss": "that"
+    },
+    {
+     "id": "24:2.10",
+     "gloss": "he had",
+     "note": "לוֹ, 'to him': the relative clause reads 'that is to him', i.e. he had"
+    },
+    {
+     "id": "24:2.11",
+     "gloss": "put",
+     "sense": "Qal 1.c",
+     "note": "imperative of שׂוּם"
+    },
+    {
+     "id": "24:2.12",
+     "gloss": "please",
+     "note": "נָא, the particle of entreaty"
+    },
+    {
+     "id": "24:2.13",
+     "gloss": "your hand",
+     "sense": "1"
+    },
+    {
+     "id": "24:2.14",
+     "gloss": "under"
+    },
+    {
+     "id": "24:2.15",
+     "gloss": "my thigh",
+     "note": "יָרֵךְ, 'thigh'; the gesture is discussed in the commentary and context"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:2.1",
+      "24:2.2",
+      "24:2.3",
+      "24:2.4",
+      "24:2.5",
+      "24:2.6",
+      "24:2.7",
+      "24:2.8",
+      "24:2.9",
+      "24:2.10"
+     ],
+     "english": "Abraham said to his servant, the elder of his household, who ruled over all that he had,",
+     "literal": "and-said Abraham to his-servant elder-of his-household the-ruling over-all that to-him"
+    },
+    {
+     "tokens": [
+      "24:2.11",
+      "24:2.12",
+      "24:2.13",
+      "24:2.14",
+      "24:2.15"
+     ],
+     "english": "\"Put your hand under my thigh, please,",
+     "literal": "put pray your-hand under my-thigh"
+    }
+   ],
+   "grammar": [
+    "The main clause is a wayyiqtol, 'and said'; the speech follows it directly with no second introduction until the servant speaks in 24:5.",
+    "שִׂים נָא יָדְךָ תַּחַת יְרֵכִי is an imperative with the particle נָא, 'please'; the object is the hand, and its place is given by תַּחַת.",
+    "The servant is described by a construct chain and two participial or relative phrases before the command; the English keeps that order.",
+    "The gesture itself is the thing to be read: the hand is placed under the thigh of the one who speaks. The meanings given to it are the commentators' and are kept out of the English."
+   ],
+   "note": "The gesture is described plainly. Three readings are recorded: an oath gesture, a sign of being under another's authority, and an allusion to circumcision. Ibn Ezra's choice is not adopted in the English because his explanation is what the gesture meant, which the English does not state.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:2:1",
+     "relation": "records",
+     "summary": "Ibn Ezra gives two readings. Some say the gesture alludes to circumcision; he answers that then the oath would be by the covenant of circumcision and not by the Name. His own view is that in those days a man put his hand under the thigh of one in his power, as in 'my hand is under your power'; he adds that the custom still exists in the land of Hodu. The English states the gesture only."
+    },
+    {
+     "anchor": "rashi:24:2:1",
+     "relation": "follows",
+     "summary": "Rashi: זקן is pointed as a bound form because it is joined to בית; the vowel is the construct, and the English reads 'the elder of his household'."
+    },
+    {
+     "anchor": "rashi:24:2:2",
+     "relation": "records",
+     "summary": "Rashi: an oath needs the hand on a holy object, such as a Torah scroll or tefillin; the thigh here is circumcision, the first commandment given to Abraham, which cost him pain and was dear to him. A midrashic-symbolic reading of the gesture; it is recorded, not followed."
+    },
+    {
+     "anchor": "radak:24:2:2",
+     "relation": "records",
+     "summary": "Radak: it was a custom that one who charges another puts the hand under his thigh to confirm the matter, as a hand under the thigh is under one's power; it was a strong custom for every agreement, like a covenant between two men."
+    }
+   ],
+   "apparatus": [
+    "24:2: the gesture is read three ways in the commentary (oath, subjection, circumcision); the English line gives only 'put your hand under my thigh'."
+   ],
+   "context": [
+    "The hand under the thigh (24:2) is a gesture with the same plain meaning in every reading: the hand is placed under the thigh of the one addressed. Radak takes it as an oath gesture, Ibn Ezra as a sign of being under another's authority, Rashi as an allusion to circumcision. The text does not settle which, and the English does not choose."
+   ]
+  },
+  {
+   "ref": "24:3",
+   "english": "and I will make you swear by the LORD, God of heaven and God of earth, that you shall not take a wife for my son from the daughters of the Canaanites among whom I dwell.",
+   "literal": "and-I-will-make-you-swear by-LORD God-of heavens and-God-of earth; that not you-will-take wife for-my-son from-daughters-of the-Canaanite; that I dwell in-its-midst",
+   "tokens": [
+    {
+     "id": "24:3.1",
+     "gloss": "and I will make you swear",
+     "sense": "Hiph 1",
+     "note": "hifil imperfect 1st singular with a 2nd masculine suffix; the causative 'make swear'"
+    },
+    {
+     "id": "24:3.2",
+     "gloss": "by the LORD",
+     "sense": "I",
+     "note": "the oath formula: ב with the divine name"
+    },
+    {
+     "id": "24:3.3",
+     "gloss": "God of",
+     "sense": "3",
+     "note": "construct plural אֱלֹהֵי with 'heavens' and 'earth' as the genitive"
+    },
+    {
+     "id": "24:3.4",
+     "gloss": "heaven",
+     "sense": "1.a"
+    },
+    {
+     "id": "24:3.5",
+     "gloss": "and God of",
+     "sense": "3",
+     "note": "the second construct, with ו"
+    },
+    {
+     "id": "24:3.6",
+     "gloss": "earth",
+     "sense": "1.a"
+    },
+    {
+     "id": "24:3.7",
+     "gloss": "that"
+    },
+    {
+     "id": "24:3.8",
+     "gloss": "not"
+    },
+    {
+     "id": "24:3.9",
+     "gloss": "you shall take",
+     "sense": "Qal 3.a",
+     "note": "qal imperfect 2nd masculine singular of לָקַח, 'take (a wife)'"
+    },
+    {
+     "id": "24:3.10",
+     "gloss": "a wife",
+     "sense": "2"
+    },
+    {
+     "id": "24:3.11",
+     "gloss": "for my son",
+     "sense": "1",
+     "note": "ל with בֵּן and the suffix"
+    },
+    {
+     "id": "24:3.12",
+     "gloss": "from the daughters of",
+     "sense": "1",
+     "note": "מִ with the construct plural of בַּת"
+    },
+    {
+     "id": "24:3.13",
+     "gloss": "the Canaanites",
+     "note": "הַכְּנַעֲנִי is the collective in the singular with the article (Ibn Ezra)"
+    },
+    {
+     "id": "24:3.14",
+     "gloss": "among whom"
+    },
+    {
+     "id": "24:3.15",
+     "gloss": "I"
+    },
+    {
+     "id": "24:3.16",
+     "gloss": "dwell",
+     "sense": "Qal 3",
+     "note": "qal participle of יָשַׁב, 'dwell, have one's abode'"
+    },
+    {
+     "id": "24:3.17",
+     "gloss": "among them",
+     "note": "בְּקִרְבּוֹ: the suffix is the collective Canaanites"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:3.1",
+      "24:3.2",
+      "24:3.3",
+      "24:3.4",
+      "24:3.5",
+      "24:3.6"
+     ],
+     "english": "and I will make you swear by the LORD, God of heaven and God of earth,",
+     "literal": "and-I-will-make-you-swear by-LORD God-of heavens and-God-of earth"
+    },
+    {
+     "tokens": [
+      "24:3.7",
+      "24:3.8",
+      "24:3.9",
+      "24:3.10",
+      "24:3.11",
+      "24:3.12",
+      "24:3.13"
+     ],
+     "english": "that you shall not take a wife for my son from the daughters of the Canaanites",
+     "literal": "that not you-will-take wife for-my-son from-daughters-of the-Canaanite"
+    },
+    {
+     "tokens": [
+      "24:3.14",
+      "24:3.15",
+      "24:3.16",
+      "24:3.17"
+     ],
+     "english": "among whom I dwell.",
+     "literal": "that I dwell in-its-midst"
+    }
+   ],
+   "grammar": [
+    "The oath is a hifil with a 1st-person subject: 'I will make you swear'. The content of the oath follows in the relative clause אֲשֶׁר לֹא־תִקַּח.",
+    "The relative clause is the object of the oath, not a clause about the daughters: 'that you shall not take a wife'.",
+    "The epithet is a construct plural, 'God of the heavens and God of the earth'; both parts are kept in the English.",
+    "הַכְּנַעֲנִי is singular with the article but collective; the English uses the plural 'Canaanites' for the group."
+   ],
+   "note": "The English keeps the two-part epithet of the oath and the collective Canaanite. The reasons Ibn Ezra gives for the epithet are not part of the English.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:3:1",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra explains the two epithets here: the match of a daughter to a man on earth is made from heaven, and he says this is a secret. It is a reason for the epithets, not a reading of their words."
+    },
+    {
+     "anchor": "ibn-ezra:24:3:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: הַכְּנַעֲנִי is a general term for the eleven nations; the English 'the Canaanites' is the collective."
+    }
+   ],
+   "apparatus": [
+    "24:3.2: the pack's base vowels for the divine name differ from the WLC pointing; the English is the same either way."
+   ],
+   "context": []
+  },
+  {
+   "ref": "24:4",
+   "english": "but to my country and to my birthplace you shall go, and take a wife for my son Isaac.\"",
+   "literal": "for to my-land and-to my-birthplace you-will-go; and-you-will-take wife for-my-son for-Isaac",
+   "tokens": [
+    {
+     "id": "24:4.1",
+     "gloss": "but",
+     "sense": "1",
+     "note": "כִּי is contrastive after the negative of 24:3: 'but rather'; 'that' is the entry's first sense and is not used here"
+    },
+    {
+     "id": "24:4.2",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "24:4.3",
+     "gloss": "my country",
+     "sense": "2.a"
+    },
+    {
+     "id": "24:4.4",
+     "gloss": "and to",
+     "sense": "1"
+    },
+    {
+     "id": "24:4.5",
+     "gloss": "my birthplace",
+     "note": "מוֹלַדְתִּי; the English reads it as the place of birth (see commentary)"
+    },
+    {
+     "id": "24:4.6",
+     "gloss": "you shall go",
+     "sense": "Qal I.1",
+     "note": "qal imperfect 2nd masculine singular of הָלַךְ"
+    },
+    {
+     "id": "24:4.7",
+     "gloss": "and take",
+     "sense": "Qal 3.a",
+     "note": "waw with a perfect, continuing the command of the imperfect before it"
+    },
+    {
+     "id": "24:4.8",
+     "gloss": "a wife",
+     "sense": "2"
+    },
+    {
+     "id": "24:4.9",
+     "gloss": "for my son",
+     "sense": "1"
+    },
+    {
+     "id": "24:4.10",
+     "gloss": "Isaac",
+     "note": "לְיִצְחָק: 'for Isaac', the name in apposition to 'my son'"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:4.1",
+      "24:4.2",
+      "24:4.3",
+      "24:4.4",
+      "24:4.5",
+      "24:4.6"
+     ],
+     "english": "but to my country and to my birthplace you shall go,",
+     "literal": "for to my-land and-to my-birthplace you-will-go"
+    },
+    {
+     "tokens": [
+      "24:4.7",
+      "24:4.8",
+      "24:4.9",
+      "24:4.10"
+     ],
+     "english": "and take a wife for my son Isaac.\"",
+     "literal": "and-you-will-take wife for-my-son for-Isaac"
+    }
+   ],
+   "grammar": [
+    "כִּי at the start of the verse turns the negative of 24:3 into a positive command: 'but rather to my country you shall go'.",
+    "The two verbs of the command are an imperfect (תֵּלֵךְ) and a perfect with vav (וְלָקַחְתָּ) that continues it.",
+    "לִבְנִי לְיִצְחָק gives the son twice, with ל and then the name; the English makes this 'my son Isaac'.",
+    "The speech of Abraham that opened in 24:2 closes here."
+   ],
+   "note": "'Birthplace' takes the place sense of מוֹלֶדֶת that Ibn Ezra, Radak and Rashi give. The kindred sense of the word is in the lexicon entry and is not used in the English.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:4:1",
+     "relation": "records",
+     "summary": "Ibn Ezra identifies 'my land' (אַרְצִי) with Haran and adds a brief clause about the place. The English 'my country' does not name a place."
+    },
+    {
+     "anchor": "ibn-ezra:24:4:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra identifies 'my birthplace' (מוֹלַדְתִּי) with Ur of the Chaldeans. The English takes his sense of the word, 'birthplace'; the name of the place is not in the English."
+    },
+    {
+     "anchor": "radak:24:4:1",
+     "relation": "records",
+     "summary": "Radak identifies 'my country' with Aram-naharaim, the land of the two rivers. A different identification of the same word; the English does not name the place."
+    }
+   ],
+   "apparatus": [],
+   "context": [
+    "'My country' and 'my birthplace' (24:4, 24:7): the commentators name Haran as the place of settlement and Ur of the Chaldeans as the birthplace, though Ibn Ezra and Radak differ on 'my country' (Haran against Aram-naharaim). The text of this unit names neither, and the English does not name them."
+   ]
+  },
+  {
+   "ref": "24:5",
+   "english": "The servant said to him, Perhaps the woman will not be willing to follow me to this land. Shall I bring back your son to the land from which you came?\"",
+   "literal": "and-said to-him the-servant; perhaps not will-be-willing the-woman; to-go after-me to the-land this; bring-back I-will-bring-back; ACC; your-son to the-land; that you-went-out from-there",
+   "tokens": [
+    {
+     "id": "24:5.1",
+     "gloss": "and said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:5.2",
+     "gloss": "to him",
+     "sense": "1"
+    },
+    {
+     "id": "24:5.3",
+     "gloss": "the servant",
+     "sense": "1"
+    },
+    {
+     "id": "24:5.4",
+     "gloss": "perhaps",
+     "sense": "1",
+     "note": "אוּלַי: the adverb 'perhaps' (sense 1); Ibn Ezra says the word has several senses"
+    },
+    {
+     "id": "24:5.5",
+     "gloss": "not"
+    },
+    {
+     "id": "24:5.6",
+     "gloss": "will be willing",
+     "sense": "Qal",
+     "note": "qal imperfect 3rd feminine singular of אָבָה, 'be willing, consent'"
+    },
+    {
+     "id": "24:5.7",
+     "gloss": "the woman",
+     "sense": "1",
+     "note": "the woman who might come (not yet a wife): sense 1"
+    },
+    {
+     "id": "24:5.8",
+     "gloss": "to follow",
+     "sense": "Qal I.1",
+     "note": "infinitive construct with ל; 'to walk after' is 'to follow'"
+    },
+    {
+     "id": "24:5.9",
+     "gloss": "after me",
+     "sense": "2.b",
+     "note": "אַחֲרַי, the preposition 'after' with the suffix"
+    },
+    {
+     "id": "24:5.10",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "24:5.11",
+     "gloss": "land",
+     "sense": "2.a"
+    },
+    {
+     "id": "24:5.12",
+     "gloss": "this",
+     "sense": "2",
+     "note": "the demonstrative in apposition to the noun"
+    },
+    {
+     "id": "24:5.13",
+     "gloss": "bring back (emphatic)",
+     "sense": "Hiph 1.a",
+     "note": "infinitive absolute of שׁוּב before the yiqtol, with the interrogative he: an emphatic question"
+    },
+    {
+     "id": "24:5.14",
+     "gloss": "shall I bring",
+     "sense": "Hiph 1.a",
+     "note": "hifil imperfect 1st singular of שׁוּב; the subject is the servant"
+    },
+    {
+     "id": "24:5.15",
+     "gloss": "(object marker)",
+     "note": "object marker: no English"
+    },
+    {
+     "id": "24:5.16",
+     "gloss": "your son",
+     "sense": "1"
+    },
+    {
+     "id": "24:5.17",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "24:5.18",
+     "gloss": "land",
+     "sense": "2.a"
+    },
+    {
+     "id": "24:5.19",
+     "gloss": "from which",
+     "note": "relative with the preposition of 5.20"
+    },
+    {
+     "id": "24:5.20",
+     "gloss": "you came",
+     "sense": "Qal 1.a",
+     "note": "qal perfect 2nd masculine singular of יָצָא, 'go out (from a place)'"
+    },
+    {
+     "id": "24:5.21",
+     "gloss": "from there",
+     "note": "מִשָּׁם"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:5.1",
+      "24:5.2",
+      "24:5.3"
+     ],
+     "english": "The servant said to him,",
+     "literal": "and-said to-him the-servant"
+    },
+    {
+     "tokens": [
+      "24:5.4",
+      "24:5.5",
+      "24:5.6",
+      "24:5.7"
+     ],
+     "english": "Perhaps the woman will not be willing",
+     "literal": "perhaps not will-be-willing the-woman"
+    },
+    {
+     "tokens": [
+      "24:5.8",
+      "24:5.9",
+      "24:5.10",
+      "24:5.11",
+      "24:5.12"
+     ],
+     "english": "to follow me to this land.",
+     "literal": "to-go after-me to the-land this"
+    },
+    {
+     "tokens": [
+      "24:5.13",
+      "24:5.14"
+     ],
+     "english": "Shall I bring back",
+     "literal": "bring-back I-will-bring-back"
+    },
+    {
+     "tokens": [
+      "24:5.15"
+     ],
+     "english": "-",
+     "literal": "ACC"
+    },
+    {
+     "tokens": [
+      "24:5.16",
+      "24:5.17",
+      "24:5.18"
+     ],
+     "english": "your son to the land",
+     "literal": "your-son to the-land"
+    },
+    {
+     "tokens": [
+      "24:5.19",
+      "24:5.20",
+      "24:5.21"
+     ],
+     "english": "from which you came?\"",
+     "literal": "that you-went-out from-there"
+    }
+   ],
+   "grammar": [
+    "The servant's speech is two questions: a doubt, 'perhaps the woman will not be willing', and a question, 'shall I bring your son back?'",
+    "הֶהָשֵׁב אָשִׁיב is an infinitive absolute before a finite form of the same root: an emphatic question that the English states once.",
+    "The same noun, 'the land', is used twice: once with the demonstrative 'this', once with a relative clause 'from which you came'.",
+    "The servant speaks of Abraham's son by the suffix 'your son', and of the woman as the object of 'follow me'."
+   ],
+   "note": "The English gives 'shall I bring back' for the emphatic question; the emphasis is not a separate word. Ibn Ezra's comment on the pointing of the he is not a reading of the words and is kept in the commentary.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:5:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: אוּלַי has many senses and he cites another occurrence of the word. The English takes 'perhaps', the first sense in the entry."
+    },
+    {
+     "anchor": "ibn-ezra:24:5:2",
+     "relation": "not-applicable",
+     "summary": "Ibn Ezra explains the short patah under the he of הֶהָשֵׁב: a long patah would be heavy on the tongue, because the he of the hifil carries a qamets. A note on the pointing; the English does not depend on it."
+    },
+    {
+     "anchor": "sforno:24:5:1",
+     "relation": "records",
+     "summary": "Sforno reads the relative clause 'from which you came' as implying that you have despised that place, so the woman will not want to come here. The English keeps the plain relative clause."
+    }
+   ],
+   "apparatus": [],
+   "context": []
+  },
+  {
+   "ref": "24:6",
+   "english": "Abraham said to him, \"Take heed to yourself, lest you bring back my son there.",
+   "literal": "and-said to-him Abraham; take-heed to-you; lest you-will-bring-back; ACC; my-son there",
+   "tokens": [
+    {
+     "id": "24:6.1",
+     "gloss": "and said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:6.2",
+     "gloss": "to him",
+     "sense": "1"
+    },
+    {
+     "id": "24:6.3",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "24:6.4",
+     "gloss": "take heed",
+     "sense": "Niph 1",
+     "note": "nifal imperative of שָׁמַר, 'be on your guard'"
+    },
+    {
+     "id": "24:6.5",
+     "gloss": "to yourself",
+     "note": "ל with the suffix: the reflexive 'to yourself'"
+    },
+    {
+     "id": "24:6.6",
+     "gloss": "lest",
+     "sense": "1",
+     "note": "פֶּן with the imperfect: the feared result"
+    },
+    {
+     "id": "24:6.7",
+     "gloss": "you bring back",
+     "sense": "Hiph 1.a",
+     "note": "hifil imperfect 2nd masculine singular of שׁוּב, the servant as subject"
+    },
+    {
+     "id": "24:6.8",
+     "gloss": "(object marker)",
+     "note": "object marker: no English"
+    },
+    {
+     "id": "24:6.9",
+     "gloss": "my son",
+     "sense": "1"
+    },
+    {
+     "id": "24:6.10",
+     "gloss": "there"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:6.1",
+      "24:6.2",
+      "24:6.3"
+     ],
+     "english": "Abraham said to him,",
+     "literal": "and-said to-him Abraham"
+    },
+    {
+     "tokens": [
+      "24:6.4",
+      "24:6.5"
+     ],
+     "english": "\"Take heed to yourself,",
+     "literal": "take-heed to-you"
+    },
+    {
+     "tokens": [
+      "24:6.6",
+      "24:6.7"
+     ],
+     "english": "lest you bring back",
+     "literal": "lest you-will-bring-back"
+    },
+    {
+     "tokens": [
+      "24:6.8"
+     ],
+     "english": "-",
+     "literal": "ACC"
+    },
+    {
+     "tokens": [
+      "24:6.9",
+      "24:6.10"
+     ],
+     "english": "my son there.",
+     "literal": "my-son there"
+    }
+   ],
+   "grammar": [
+    "הִשָּׁמֶר לְךָ is a nifal imperative with a dative suffix: 'take heed to yourself'.",
+    "פֶּן with the imperfect gives the result Abraham fears: 'lest you bring back my son there'.",
+    "Abraham's answer is one speech that opens here and runs to the end of 24:8."
+   ],
+   "note": "The English keeps the servant as 'you' throughout. The root is שׁמר, 'keep'; the nifal sense 'be on your guard' is the one the warning requires. Ibn Ezra's derivation of this form is not followed (see commentary).",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:6:1",
+     "relation": "declines",
+     "summary": "Ibn Ezra: every השמר stressed on the last syllable comes from שְׁמָרִים (lees, dregs), not from שְׁמִירָה (keeping); he cites Isaiah 7:4 and Jeremiah 48:11. The English keeps the root שׁמר, the root the parse and the lexicon give. His derivation would make the verb 'be quiet', which does not fit a warning followed by a 'lest' clause."
+    },
+    {
+     "anchor": "radak:24:6:1",
+     "relation": "not-applicable",
+     "summary": "Radak: Abraham did not want the son to leave the land that God gave him and his seed. A reason for the warning; not a reading of the words."
+    }
+   ],
+   "apparatus": [],
+   "context": []
+  },
+  {
+   "ref": "24:7",
+   "english": "The LORD, God of heaven, who took me from my father's house and from the land of my birth, and who spoke to me and who swore to me, saying, 'To your offspring I will give this land'; may he send his angel before you, and you shall take a wife for my son from there.",
+   "literal": "the-LORD God-of heavens; who took-me from-house-of my-father and-from-land-of my-birth; and-who spoke to-me; and-who swore to-me; saying to-your-offspring I-will-give; ACC; the-land this; he will-send his-angel before-you; and-you-will-take wife for-my-son from-there",
+   "tokens": [
+    {
+     "id": "24:7.1",
+     "gloss": "the LORD",
+     "sense": "I",
+     "note": "the divine name, read Adonai"
+    },
+    {
+     "id": "24:7.2",
+     "gloss": "God of",
+     "sense": "3",
+     "note": "construct plural אֱלֹהֵי"
+    },
+    {
+     "id": "24:7.3",
+     "gloss": "heaven",
+     "sense": "1.a"
+    },
+    {
+     "id": "24:7.4",
+     "gloss": "who",
+     "note": "relative אֲשֶׁר"
+    },
+    {
+     "id": "24:7.5",
+     "gloss": "took me",
+     "sense": "Qal 3.b",
+     "note": "qal perfect 3rd masculine singular of לָקַח with the 1st-person suffix: 'take, carry away'"
+    },
+    {
+     "id": "24:7.6",
+     "gloss": "from the house of",
+     "sense": "4",
+     "note": "מִבֵּית: the house as the family, 'the house of my father'"
+    },
+    {
+     "id": "24:7.7",
+     "gloss": "my father",
+     "sense": "1"
+    },
+    {
+     "id": "24:7.8",
+     "gloss": "and from the land of",
+     "sense": "2.a"
+    },
+    {
+     "id": "24:7.9",
+     "gloss": "my birth",
+     "note": "מוֹלַדְתִּי, the birth land; see commentary"
+    },
+    {
+     "id": "24:7.10",
+     "gloss": "and who",
+     "note": "וַאֲשֶׁר: relative with the conjunction"
+    },
+    {
+     "id": "24:7.11",
+     "gloss": "spoke",
+     "sense": "Pi",
+     "note": "piel perfect of דָּבַר"
+    },
+    {
+     "id": "24:7.12",
+     "gloss": "to me",
+     "note": "לִי: the preposition with the suffix"
+    },
+    {
+     "id": "24:7.13",
+     "gloss": "and who",
+     "note": "וַאֲשֶׁר"
+    },
+    {
+     "id": "24:7.14",
+     "gloss": "swore",
+     "sense": "Niph",
+     "note": "nifal perfect of שָׁבַע, 'swear'"
+    },
+    {
+     "id": "24:7.15",
+     "gloss": "to me",
+     "note": "לִי"
+    },
+    {
+     "id": "24:7.16",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "infinitive construct of אָמַר with ל"
+    },
+    {
+     "id": "24:7.17",
+     "gloss": "to your offspring",
+     "sense": "4",
+     "note": "לְזַרְעֲךָ: 'seed, offspring' with the 2nd-person suffix"
+    },
+    {
+     "id": "24:7.18",
+     "gloss": "I will give",
+     "sense": "Qal 1",
+     "note": "qal imperfect 1st singular of נָתַן"
+    },
+    {
+     "id": "24:7.19",
+     "gloss": "(object marker)",
+     "note": "object marker: no English"
+    },
+    {
+     "id": "24:7.20",
+     "gloss": "the land",
+     "sense": "2.a"
+    },
+    {
+     "id": "24:7.21",
+     "gloss": "this",
+     "sense": "2"
+    },
+    {
+     "id": "24:7.22",
+     "gloss": "he",
+     "sense": "2",
+     "note": "the emphatic subject, resuming הוּא: 'he himself'"
+    },
+    {
+     "id": "24:7.23",
+     "gloss": "may he send",
+     "sense": "Qal 1",
+     "note": "qal imperfect of שָׁלַח, read as a wish with Ibn Ezra and Sforno"
+    },
+    {
+     "id": "24:7.24",
+     "gloss": "his angel",
+     "sense": "2",
+     "note": "מַלְאָךְ: angel, for a being sent by God"
+    },
+    {
+     "id": "24:7.25",
+     "gloss": "before you",
+     "sense": "I.6",
+     "note": "לְפָנֶיךָ: 'before (you)'"
+    },
+    {
+     "id": "24:7.26",
+     "gloss": "and you shall take",
+     "sense": "Qal 3.a",
+     "note": "waw with a perfect, continuing the purpose of the sending"
+    },
+    {
+     "id": "24:7.27",
+     "gloss": "a wife",
+     "sense": "2"
+    },
+    {
+     "id": "24:7.28",
+     "gloss": "for my son",
+     "sense": "1"
+    },
+    {
+     "id": "24:7.29",
+     "gloss": "from there",
+     "note": "מִשָּׁם"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:7.1",
+      "24:7.2",
+      "24:7.3"
+     ],
+     "english": "The LORD, God of heaven,",
+     "literal": "the-LORD God-of heavens"
+    },
+    {
+     "tokens": [
+      "24:7.4",
+      "24:7.5",
+      "24:7.6",
+      "24:7.7",
+      "24:7.8",
+      "24:7.9"
+     ],
+     "english": "who took me from my father's house and from the land of my birth,",
+     "literal": "who took-me from-house-of my-father and-from-land-of my-birth"
+    },
+    {
+     "tokens": [
+      "24:7.10",
+      "24:7.11",
+      "24:7.12"
+     ],
+     "english": "and who spoke to me",
+     "literal": "and-who spoke to-me"
+    },
+    {
+     "tokens": [
+      "24:7.13",
+      "24:7.14",
+      "24:7.15"
+     ],
+     "english": "and who swore to me,",
+     "literal": "and-who swore to-me"
+    },
+    {
+     "tokens": [
+      "24:7.16",
+      "24:7.17",
+      "24:7.18"
+     ],
+     "english": "saying, 'To your offspring I will give",
+     "literal": "saying to-your-offspring I-will-give"
+    },
+    {
+     "tokens": [
+      "24:7.19"
+     ],
+     "english": "-",
+     "literal": "ACC"
+    },
+    {
+     "tokens": [
+      "24:7.20",
+      "24:7.21"
+     ],
+     "english": "this land';",
+     "literal": "the-land this"
+    },
+    {
+     "tokens": [
+      "24:7.22",
+      "24:7.23",
+      "24:7.24",
+      "24:7.25"
+     ],
+     "english": "may he send his angel before you,",
+     "literal": "he will-send his-angel before-you"
+    },
+    {
+     "tokens": [
+      "24:7.26",
+      "24:7.27",
+      "24:7.28",
+      "24:7.29"
+     ],
+     "english": "and you shall take a wife for my son from there.",
+     "literal": "and-you-will-take wife for-my-son from-there"
+    }
+   ],
+   "grammar": [
+    "Three relative clauses, each with אֲשֶׁר, hang from 'the LORD, God of heaven': who took me, who spoke to me, who swore to me. The main clause begins with 'he will send'.",
+    "לֵאמֹר לְזַרְעֲךָ אֶתֵּן אֶת־הָאָרֶץ הַזֹּאת is speech inside Abraham's speech, so it is in single quotes.",
+    "The yiqtol הוּא יִשְׁלַח is read as a wish, 'may he send'; the next verse's 'if the woman will not be willing' supports Ibn Ezra's reading (see commentary).",
+    "The weqatal וְלָקַחְתָּ continues the purpose of the sending: 'and you shall take a wife'."
+   ],
+   "note": "The epithet 'God of heaven' stands alone here, unlike 24:3, where 'and God of earth' is added. Rashi explains the difference; the English keeps the words as they stand.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:7:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'he will send his angel' is a prayer, not a prophecy; if it were prophecy he would not say 'if the woman will not be willing' (24:5). The English reads the yiqtol as a wish, 'may he send'."
+    },
+    {
+     "anchor": "sforno:24:7:1",
+     "relation": "follows",
+     "summary": "Sforno reads the clause as a wish: may he send his angel from his holy dwelling in the heavens, since he took me from there, so that my son need not go there. This supports the wish reading."
+    },
+    {
+     "anchor": "rashi:24:7:1",
+     "relation": "not-applicable",
+     "summary": "Rashi explains why the epithet here is 'God of heaven' alone: when God took Abraham from his father's house he was 'God of heaven and not God of earth', because the people of the world did not know him and his name was not common in the land. A reason for the wording, not a reading of its grammar."
+    },
+    {
+     "anchor": "rashi:24:7:2",
+     "relation": "records",
+     "summary": "Rashi: 'my father's house' is Haran. The English keeps 'my father's house'."
+    },
+    {
+     "anchor": "rashi:24:7:3",
+     "relation": "records",
+     "summary": "Rashi: 'the land of my birth' is Ur of the Chaldeans. The English keeps 'the land of my birth'."
+    },
+    {
+     "anchor": "rashi:24:7:4",
+     "relation": "records",
+     "summary": "Rashi: לִי here means 'for my sake', 'about me' (like עָלַי), as with verbs of speaking; the English 'spoke to me' keeps the plain preposition."
+    }
+   ],
+   "apparatus": [
+    "24:7.1: the epithet is 'God of heaven' without 'and God of earth' as in 24:3; the commentators' explanations are in the commentary."
+   ],
+   "context": [
+    "'My father's house' and 'the land of my birth' (24:7): Rashi names Haran and Ur of the Chaldeans; the text of this unit names neither."
+   ]
+  },
+  {
+   "ref": "24:8",
+   "english": "If the woman will not be willing to follow you, then you shall be clear of this oath of mine; only my son you shall not bring back there.\"",
+   "literal": "and-if not she-will-be-willing the-woman to-go after-you; and-you-shall-be-clear from-my-oath this; only ACC my-son; not you-shall-bring-back there",
+   "tokens": [
+    {
+     "id": "24:8.1",
+     "gloss": "if",
+     "sense": "1",
+     "note": "וְאִם: the conditional with the vav"
+    },
+    {
+     "id": "24:8.2",
+     "gloss": "not"
+    },
+    {
+     "id": "24:8.3",
+     "gloss": "will be willing",
+     "sense": "Qal",
+     "note": "qal imperfect 3rd feminine singular of אָבָה"
+    },
+    {
+     "id": "24:8.4",
+     "gloss": "the woman",
+     "sense": "1"
+    },
+    {
+     "id": "24:8.5",
+     "gloss": "to follow",
+     "sense": "Qal I.1",
+     "note": "infinitive construct with ל"
+    },
+    {
+     "id": "24:8.6",
+     "gloss": "after you",
+     "sense": "2.b",
+     "note": "אַחֲרֶיךָ"
+    },
+    {
+     "id": "24:8.7",
+     "gloss": "then you shall be clear",
+     "sense": "Niph 4",
+     "note": "nifal perfect of נָקָה, a III-he verb; the perfect after the conditional gives the consequence"
+    },
+    {
+     "id": "24:8.8",
+     "gloss": "of my oath",
+     "note": "מִשְּׁבֻעָתִי: from my oath"
+    },
+    {
+     "id": "24:8.9",
+     "gloss": "this",
+     "sense": "2",
+     "note": "זֹאת in apposition: 'this oath of mine'"
+    },
+    {
+     "id": "24:8.10",
+     "gloss": "only",
+     "sense": "2",
+     "note": "רַק, 'only' (sense 2)"
+    },
+    {
+     "id": "24:8.11",
+     "gloss": "(object marker)",
+     "note": "object marker: no English"
+    },
+    {
+     "id": "24:8.12",
+     "gloss": "my son",
+     "sense": "1"
+    },
+    {
+     "id": "24:8.13",
+     "gloss": "not"
+    },
+    {
+     "id": "24:8.14",
+     "gloss": "you shall bring back",
+     "sense": "Hiph 1.a",
+     "note": "hifil imperfect 2nd masculine singular of שׁוּב"
+    },
+    {
+     "id": "24:8.15",
+     "gloss": "there"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:8.1",
+      "24:8.2",
+      "24:8.3",
+      "24:8.4",
+      "24:8.5",
+      "24:8.6"
+     ],
+     "english": "If the woman will not be willing to follow you,",
+     "literal": "and-if not she-will-be-willing the-woman to-go after-you"
+    },
+    {
+     "tokens": [
+      "24:8.7",
+      "24:8.8",
+      "24:8.9"
+     ],
+     "english": "then you shall be clear of this oath of mine;",
+     "literal": "and-you-shall-be-clear from-my-oath this"
+    },
+    {
+     "tokens": [
+      "24:8.10",
+      "24:8.11",
+      "24:8.12"
+     ],
+     "english": "only my son",
+     "literal": "only ACC my-son"
+    },
+    {
+     "tokens": [
+      "24:8.13",
+      "24:8.14",
+      "24:8.15"
+     ],
+     "english": "you shall not bring back there.\"",
+     "literal": "not you-shall-bring-back there"
+    }
+   ],
+   "grammar": [
+    "The conditional has a protasis (8.1 to 8.6), 'if the woman will not be willing', and an apodosis (8.7) introduced by the vav of נִקִּיתָ: 'then you shall be clear'.",
+    "נִקִּיתָ is a nifal perfect of a III-he verb: the pattern is regular, and the English 'shall be clear' gives the nifal sense of freedom from an obligation.",
+    "The last clause puts the object first: רַק אֶת־בְּנִי לֹא תָשֵׁב שָׁמָּה, 'only my son you shall not bring back there'. The restriction applies to the son alone.",
+    "The speech closes here, at the end of the unit's last verse."
+   ],
+   "note": "The English gives the plain sense of the hifil: the servant is not to bring the son back. Ibn Ezra's and Rashi's readings of this clause are recorded in the commentary and not followed.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:8:1",
+     "relation": "declines",
+     "summary": "Ibn Ezra: 'you shall not bring him back there' means that he (Isaac) is to remain in the land of Israel, and the negative serves Abraham, who is the principal. The English keeps the hifil with the servant as subject and Isaac as object, 'bring back', which the form requires; his reason is not a reading of the words, and 'remain' is not in the form."
+    },
+    {
+     "anchor": "rashi:24:8:1",
+     "relation": "declines",
+     "summary": "Rashi reads the release from the oath as permission to take a wife for Isaac from the daughters of Aner, Eshkol and Mamre. The Hebrew here names no family; the English keeps 'be clear of this oath'."
+    },
+    {
+     "anchor": "rashi:24:8:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: רַק is a limit, 'my son does not return', and Jacob his grandson will in the end return. A later reading; the English 'only' is the same word."
+    }
+   ],
+   "apparatus": [],
+   "context": [
+    "Aner, Eshkol and Mamre (24:8, Rashi) are named in chapter 14 as Abraham's allies; the text of this unit does not name them as the family for Isaac's wife."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,341 @@
+{
+  "unit": "vayera-04",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "18:25",
+      "english": "Far be it from you to do such a thing, to kill the righteous with the wicked, so that the righteous would be like the wicked. Far be it from you! Will not the Judge of all the earth do justice?",
+      "literal": "far-be-it from-you from-doing like-the-matter this to-kill righteous with wicked and-would-be like-righteous like-wicked far-be-it to-you the-judge of-all the-earth not will-do justice",
+      "tokens": [
+        {"id": "18:25.1", "gloss": "far be it", "note": "Ad profanum, far from the holy. Rashi reads 'profane'; Ibn Ezra reads 'impossible' (see commentary)."},
+        {"id": "18:25.2", "gloss": "from you"},
+        {"id": "18:25.3", "gloss": "to do", "note": "The preposition מ on the infinitive is the 'from' of 'far be it from you'."},
+        {"id": "18:25.4", "gloss": "like the matter of", "sense": "IV", "note": "כ 'like' with דָּבָר, here 'matter, affair'."},
+        {"id": "18:25.5", "gloss": "this", "note": "Rashi: 'neither this nor anything like it'; the English 'such a thing' covers both."},
+        {"id": "18:25.6", "gloss": "to kill", "note": "Hifil infinitive construct. The pack gives no Hifil sense for מוּת (only Qal, Po'lel and Hoph), so no sense is entered; Po'lel 'kill' is not the parsed binyan."},
+        {"id": "18:25.7", "gloss": "righteous", "note": "Indefinite adjective used as a class; the English 'the righteous' is generic."},
+        {"id": "18:25.8", "gloss": "with", "sense": "1.e", "note": "'together with'."},
+        {"id": "18:25.9", "gloss": "wicked", "note": "Generic singular, as 18:25.7."},
+        {"id": "18:25.10", "gloss": "and would be", "sense": "Qal II.2.c", "note": "Weqatal of היה, the consequence of the two infinitives: 'become like'."},
+        {"id": "18:25.11", "gloss": "like the righteous", "note": "Ibn Ezra's reciprocal reading of this clause is recorded in the commentary."},
+        {"id": "18:25.12", "gloss": "like the wicked", "note": "Etnaḥta on this word divides the verse."},
+        {"id": "18:25.13", "gloss": "far be it", "note": "The second exclamation, a reply to the question that follows."},
+        {"id": "18:25.14", "gloss": "from you"},
+        {"id": "18:25.15", "gloss": "will the judge", "sense": "Qal 1", "note": "Participle with the interrogative he (הֲ). The question is rhetorical; Rashi reads the hataf patah under the he as a sign of astonishment."},
+        {"id": "18:25.16", "gloss": "all of", "sense": "1", "note": "Construct: 'the whole of'."},
+        {"id": "18:25.17", "gloss": "the earth", "sense": "1.a"},
+        {"id": "18:25.18", "gloss": "not"},
+        {"id": "18:25.19", "gloss": "do", "sense": "Qal I.1"},
+        {"id": "18:25.20", "gloss": "justice", "sense": "2"}
+      ],
+      "phrases": [
+        {"tokens": ["18:25.1", "18:25.2", "18:25.3", "18:25.4", "18:25.5"], "english": "Far be it from you to do such a thing", "literal": "'far-be-it from-you from-doing like-the-matter this': the infinitive construct with מ and the noun with כ, rendered 'such a thing'."},
+        {"tokens": ["18:25.6", "18:25.7"], "english": "to kill the righteous", "literal": "'to-kill righteous': the Hifil infinitive and its object, the righteous as a class."},
+        {"tokens": ["18:25.8", "18:25.9"], "english": "with the wicked", "literal": "'with wicked': the preposition 'with', here 'together with'."},
+        {"tokens": ["18:25.10", "18:25.11", "18:25.12"], "english": "so that the righteous would be like the wicked", "literal": "'and-would-be like-righteous like-wicked': the weqatal gives the consequence of the two infinitives."},
+        {"tokens": ["18:25.13", "18:25.14"], "english": "Far be it from you", "literal": "'far-be-it to-you': the second exclamation."},
+        {"tokens": ["18:25.15", "18:25.16", "18:25.17", "18:25.18", "18:25.19", "18:25.20"], "english": "Will not the Judge of all the earth do justice", "literal": "'will-the-judge all-of the-earth not will-do justice': the rhetorical question, with the interrogative he on the participle."}
+      ],
+      "grammar": [
+        "The two infinitive constructs, מֵעֲשֹׂת and לְהָמִית, depend on חָלִילָה לְךָ: 'far be it from you to do ... to kill'. Each carries its own preposition (מ, ל).",
+        "וְהָיָה (18:25.10) is a weqatal after the infinitives. It states the result of the act: the righteous would become like the wicked.",
+        "The question הֲשֹׁפֵט כָּל־הָאָרֶץ (18:25.15) takes the interrogative he. The English puts 'Will not' at the front to make the question clear.",
+        "The etnaḥta on כָּרָשָׁע (18:25.12) divides the verse: the first part is the proposal, the second the appeal to God's justice. The silluq on מִשְׁפָּט closes it."
+      ],
+      "note": "Both occurrences of חָלִילָה are rendered 'Far be it'. The second opens the appeal, and the English keeps it as a separate sentence.",
+      "commentary": [
+        {"anchor": "rashi:18:25:1", "relation": "follows", "summary": "Rashi glosses חָלִילָה לְךָ as חֻלִּין הוּא לְךָ, 'it is profane (not holy) for you'. He adds that people would say God's craft is to sweep away all, righteous and wicked alike, as in the flood and the dispersal. The English adopts the sense 'far be it'; the charge itself is not in the English."},
+        {"anchor": "rashi:18:25:2", "relation": "follows", "summary": "Rashi: כַּדָּבָר הַזֶּה means 'not this, and not anything like it' (לֹא הוּא וְלֹא כַּיּוֹצֵא בוֹ). The English 'such a thing' follows this."},
+        {"anchor": "rashi:18:25:3", "relation": "records", "summary": "Rashi refers the second חָלִילָה לָּךְ to the world to come (לָעוֹלָם הַבָּא). The English does not adopt this temporal reference; it is recorded here."},
+        {"anchor": "rashi:18:25:4", "relation": "follows", "summary": "Rashi: the he of הֲשֹׁפֵט takes a hataf patah and gives the clause an interrogative tone: 'וְכִי מִי שֶׁהוּא שׁוֹפֵט לֹא יַעֲשֶׂה מִשְׁפַּט אֱמֶת', is it possible that a judge would not do true justice? The English is a question."},
+        {"anchor": "ibn-ezra:18:25:1", "relation": "follows", "summary": "Ibn Ezra: דָּבָר שֶׁלֹּא יִתָּכֵן, a thing that cannot be; some take the word as profane, with nothing in it. The English 'far be it' carries the impossibility."},
+        {"anchor": "ibn-ezra:18:25:2", "relation": "records", "summary": "Ibn Ezra reads כַצַּדִּיק כָּרָשָׁע as a short form of 'the righteous like the wicked and the wicked like the righteous', citing Gen 44:18 and Ps 139:12. Radak takes the same two-way sense. The English gives the one-way reading, which the Hebrew also allows; the reciprocal is recorded here."}
+      ],
+      "apparatus": [
+        "Ibn Ezra's reciprocal reading of כַצַּדִּיק כָּרָשָׁע (18:25.11-12) is the chief variant of this verse."
+      ]
+    },
+    {
+      "ref": "18:26",
+      "english": "The LORD said, \"If I find in Sodom fifty righteous people within the city, I will spare the whole place for their sake.\"",
+      "literal": "and-said the-LORD if I-find in-Sodom fifty righteous in-midst-of the-city and-I-spare to-all-of the-place for-their-sake",
+      "tokens": [
+        {"id": "18:26.1", "gloss": "said", "sense": "Qal 1", "note": "Wayyiqtol, the narrative form that introduces the speech. The speech runs on into 18:27 and 18:28."},
+        {"id": "18:26.2", "gloss": "the LORD", "note": "YHWH, rendered LORD in capitals (decisions: divine names)."},
+        {"id": "18:26.3", "gloss": "if", "sense": "1"},
+        {"id": "18:26.4", "gloss": "I find", "sense": "Qal 1", "note": "Yiqtol 1cs in a conditional clause."},
+        {"id": "18:26.5", "gloss": "in Sodom", "note": "The ב of place with the proper name סְדֹם."},
+        {"id": "18:26.6", "gloss": "fifty"},
+        {"id": "18:26.7", "gloss": "righteous people", "note": "The adjective has no noun in the Hebrew; 'people' is supplied."},
+        {"id": "18:26.8", "gloss": "within", "note": "Construct of תָּוֶךְ, 'midst'."},
+        {"id": "18:26.9", "gloss": "the city", "sense": "1"},
+        {"id": "18:26.10", "gloss": "and I will spare", "sense": "Qal 3", "note": "Weqatal 1cs: the consequence of the condition. Qal 3 'take away'; here 'spare'. Radak: the cities and their towns, not destroyed."},
+        {"id": "18:26.11", "gloss": "the whole of", "sense": "1", "note": "לְכָל: 'for all of'."},
+        {"id": "18:26.12", "gloss": "the place", "sense": "6", "note": "Rashi reads 'all the cities' (לְכָל הַכְּרַכִּים) (see commentary)."},
+        {"id": "18:26.13", "gloss": "for their sake", "note": "בַּ with עָבוּר and the suffix 3mp: 'for the sake of them'."}
+      ],
+      "phrases": [
+        {"tokens": ["18:26.1", "18:26.2"], "english": "The LORD said", "literal": "'and-said the-LORD': the wayyiqtol, with the subject after the verb in the Hebrew."},
+        {"tokens": ["18:26.3", "18:26.4", "18:26.5"], "english": "If I find in Sodom", "literal": "'if I-find in-Sodom': the conditional clause, with the place before the object of the clause."},
+        {"tokens": ["18:26.6", "18:26.7"], "english": "fifty righteous people", "literal": "'fifty righteous': the number and the adjective; the noun is supplied."},
+        {"tokens": ["18:26.8", "18:26.9"], "english": "within the city", "literal": "'in-midst-of the-city': the construct, 'within the city'."},
+        {"tokens": ["18:26.10", "18:26.11", "18:26.12", "18:26.13"], "english": "I will spare the whole place for their sake", "literal": "'and-I-spare to-all-of the-place for-their-sake': the consequence, with the weqatal."}
+      ],
+      "grammar": [
+        "וַיֹּאמֶר (18:26.1) is a wayyiqtol. It introduces the speech of the LORD, which continues through 18:27 and 18:28.",
+        "The condition is אִם with the yiqtol אֶמְצָא. The consequence is the weqatal וְנָשָׂאתִי: 'if I find ... I will spare'.",
+        "The etnaḥta on הָעִיר (18:26.9) divides the verse. The first part is the condition, the second the consequence.",
+        "The divine name here is יְהוָה, the LORD. The sense of 'within the city' (בְּתוֹךְ הָעִיר) is taken up in the commentary."
+      ],
+      "commentary": [
+        {"anchor": "rashi:18:26:1", "relation": "follows", "summary": "Rashi: לְכָל הַכְּרַכִּים, 'for all the cities'. The verse names Sodom because it was the metropolis, the most important of them, and the whole is hung on it. The English keeps 'the whole place', which Rashi reads as all the cities of the plain."},
+        {"anchor": "ibn-ezra:18:26:1", "relation": "records", "summary": "Ibn Ezra explains בְּתוֹךְ הָעִיר as the righteous fearing the Name openly, in public (בְּפַרְהֶסְיָא), citing Jer 5:1, 'wander the streets of Jerusalem'. The English keeps the locative 'within the city'; the reading is recorded."}
+      ]
+    },
+    {
+      "ref": "18:27",
+      "english": "Abraham answered and said, \"Now, please, I have been willing to speak to my Lord, though I am dust and ashes.",
+      "literal": "and-answered Abraham and-said look-pray I-have-been-willing to-speak to-my-Lord and-I dust and-ashes",
+      "tokens": [
+        {"id": "18:27.1", "gloss": "answered", "sense": "Qal 1", "note": "Wayyiqtol of ענה. The verb opens Abraham's speech; the Hebrew gives no object."},
+        {"id": "18:27.2", "gloss": "Abraham"},
+        {"id": "18:27.3", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "18:27.4", "gloss": "look", "note": "הִנֵּה with נָא: the interjection and the entreaty together; 'Behold' is not used."},
+        {"id": "18:27.5", "gloss": "please", "note": "Entreaty, as in 18:31 and 18:32."},
+        {"id": "18:27.6", "gloss": "I have been willing", "note": "Hifil perfect 1cs of יָאַל, 'be willing'. The pack lists no sense for the hifil. Rashi and Ibn Ezra both read 'I wished' (רָצִיתִי)."},
+        {"id": "18:27.7", "gloss": "to speak", "sense": "Pi", "note": "Infinitive construct, piel, with לְ."},
+        {"id": "18:27.8", "gloss": "to", "sense": "1"},
+        {"id": "18:27.9", "gloss": "my Lord", "note": "Qamats: the address is to God, 'my Lord' (decisions, Genesis 18-50)."},
+        {"id": "18:27.10", "gloss": "though I", "note": "The ו sets the clause in contrast: 'though I am dust and ashes'."},
+        {"id": "18:27.11", "gloss": "dust"},
+        {"id": "18:27.12", "gloss": "and ashes", "note": "The pair is the formula of abasement before God."}
+      ],
+      "phrases": [
+        {"tokens": ["18:27.1", "18:27.2", "18:27.3"], "english": "Abraham answered and said", "literal": "'and-answered Abraham and-said': the two wayyiqtol forms open the speech."},
+        {"tokens": ["18:27.4", "18:27.5"], "english": "Now, please", "literal": "'look-pray': the interjection with the entreaty; 'now' for the sense."},
+        {"tokens": ["18:27.6", "18:27.7"], "english": "I have been willing to speak", "literal": "'I-have-been-willing to-speak': the hifil perfect followed by the infinitive."},
+        {"tokens": ["18:27.8", "18:27.9"], "english": "to my Lord", "literal": "'to-my-Lord': the address to God."},
+        {"tokens": ["18:27.10", "18:27.11", "18:27.12"], "english": "though I am dust and ashes", "literal": "'and-I dust and-ashes': a verbless clause, the English supplies 'am'."}
+      ],
+      "grammar": [
+        "וַיַּעַן (18:27.1) and וַיֹּאמַר (18:27.3) are two wayyiqtol forms. Together they open the speech, which runs on into 18:28.",
+        "הוֹאַלְתִּי is a hifil qatal 1cs of יָאַל. Rashi and Ibn Ezra take it as 'I wished', the English 'I have been willing'.",
+        "הִנֵּה־נָא is an interjection with an entreaty: 'look, please'. The English 'Now, please' keeps both.",
+        "וְאָנֹכִי עָפָר וָאֵפֶר is verbless: 'and I dust and ashes'. The ו is contrastive, and the English supplies 'am'."
+      ],
+      "commentary": [
+        {"anchor": "rashi:18:27:1", "relation": "follows", "summary": "Rashi: הוֹאַלְתִּי means רָצִיתִי, 'I wanted', as in וַיּוֹאֶל מֹשֶׁה (Exod 2:21). The English 'I have been willing' is this sense."},
+        {"anchor": "rashi:18:27:2", "relation": "records", "summary": "Rashi: 'I deserved already to be dust at the hands of kings and ashes at the hands of Nimrod, but for your mercy which stood for me.' The English gives the plain abasement; Rashi's history is recorded here."},
+        {"anchor": "ibn-ezra:18:27:1", "relation": "follows", "summary": "Ibn Ezra: הוֹאַלְתִּי is not 'I began' (החילותי); it means only רָצִיתִי, 'I wished', as in וַיּוֹאֶל משה (Deut 1:5)."},
+        {"anchor": "ibn-ezra:18:27:2", "relation": "follows", "summary": "Ibn Ezra: 'dust and ashes' means I was dust and I shall return to ashes; the chief point is the foundation of the body, the bones. The English 'dust and ashes' follows this plain sense."}
+      ]
+    },
+    {
+      "ref": "18:28",
+      "english": "Perhaps the fifty righteous will be five short. Will you destroy the whole city for the lack of five?\" He said, \"I will not destroy if I find there forty-five.\"",
+      "literal": "perhaps will-be-lacking fifty the-righteous five will-you-destroy for-five [obj] the-whole-of the-city and-he-said not I-will-destroy if I-find there forty and-five",
+      "tokens": [
+        {"id": "18:28.1", "gloss": "perhaps", "sense": "1"},
+        {"id": "18:28.2", "gloss": "will be short", "sense": "Qal 2", "note": "Yiqtol 3mp of חָסֵר with paragogic nun, intransitive: 'be lacking'. Ibn Ezra: 'you will lack a tenth of the number'."},
+        {"id": "18:28.3", "gloss": "fifty"},
+        {"id": "18:28.4", "gloss": "the righteous"},
+        {"id": "18:28.5", "gloss": "five", "note": "The five that are lacking from the fifty."},
+        {"id": "18:28.6", "gloss": "will you destroy", "sense": "Hiph 1", "note": "Interrogative he with yiqtol 2ms: 'will you destroy?' Abraham addresses God."},
+        {"id": "18:28.7", "gloss": "for the lack of five", "note": "בְּ 'because of': the five who are missing (Ibn Ezra)."},
+        {"id": "18:28.8", "gloss": "(object marker)", "note": "The object marker אֵת has no English counterpart."},
+        {"id": "18:28.9", "gloss": "the whole of", "sense": "1"},
+        {"id": "18:28.10", "gloss": "the city", "sense": "1"},
+        {"id": "18:28.11", "gloss": "and he said", "sense": "Qal 1", "note": "The LORD's reply begins here."},
+        {"id": "18:28.12", "gloss": "not"},
+        {"id": "18:28.13", "gloss": "I will destroy", "sense": "Hiph 1", "note": "Yiqtol 1cs."},
+        {"id": "18:28.14", "gloss": "if", "sense": "1"},
+        {"id": "18:28.15", "gloss": "I find", "sense": "Qal 1"},
+        {"id": "18:28.16", "gloss": "there"},
+        {"id": "18:28.17", "gloss": "forty"},
+        {"id": "18:28.18", "gloss": "and five", "note": "The ו joins 'and five': forty-five."}
+      ],
+      "phrases": [
+        {"tokens": ["18:28.1", "18:28.2", "18:28.3", "18:28.4", "18:28.5"], "english": "Perhaps the fifty righteous will be five short", "literal": "'perhaps will-be-lacking fifty the-righteous five': the doubt is expressed by אוּלַי with yiqtol."},
+        {"tokens": ["18:28.6"], "english": "Will you destroy", "literal": "'will-you-destroy': the interrogative he with the hifil yiqtol 2ms."},
+        {"tokens": ["18:28.7"], "english": "for the lack of five", "literal": "'for-five': the preposition ב, 'because of the five'."},
+        {"tokens": ["18:28.8", "18:28.9", "18:28.10"], "english": "the whole city", "literal": "'[obj] the-whole-of the-city': the object marker is not rendered."},
+        {"tokens": ["18:28.11"], "english": "He said", "literal": "'and-he-said': the wayyiqtol, the LORD's reply."},
+        {"tokens": ["18:28.12", "18:28.13"], "english": "I will not destroy", "literal": "'not I-will-destroy': the negative with the hifil yiqtol 1cs."},
+        {"tokens": ["18:28.14", "18:28.15", "18:28.16"], "english": "if I find there", "literal": "'if I-find there': the conditional."},
+        {"tokens": ["18:28.17", "18:28.18"], "english": "forty-five", "literal": "'forty and-five': the sum of the two numerals."}
+      ],
+      "grammar": [
+        "הֲתַשְׁחִית (18:28.6) is the interrogative he with the hifil yiqtol 2ms of שָׁחַת. The question is Abraham's protest, addressed to God.",
+        "יַחְסְרוּן is Qal 2 'be lacking': five are missing from the fifty. The construction with אוּלַי (perhaps) expresses doubt; Abraham does not assert that five are lacking.",
+        "The etnaḥta on הָעִיר (18:28.10) closes Abraham's question. The reply, וַיֹּאמֶר (18:28.11), begins God's answer.",
+        "Abraham's speech begins in 18:27 and runs through 18:28, so the English opens the quotation in 18:27 and closes it after 'five?'."
+      ],
+      "commentary": [
+        {"anchor": "rashi:18:28:1", "relation": "follows", "summary": "Rashi: 'Are they not nine for every city, and you, righteous one of the world, would be joined with them?' The question asks whether God would sweep the righteous into the destruction of the wicked. The English adopts the question; the count of nine to each city is not adopted."},
+        {"anchor": "ibn-ezra:18:28:1", "relation": "follows", "summary": "Ibn Ezra: אוּלַי תֶּחְסַר עֲשִׂירִית מֵהַמִּסְפָּר, perhaps you will lack a tenth of the number. Five is a tenth of fifty; the English 'five short' is this."},
+        {"anchor": "ibn-ezra:18:28:2", "relation": "follows", "summary": "Ibn Ezra: בַּחֲמִשָּׁה means 'because of the five who will be lacking'. Abraham speaks of the five first and then of the tenth. The English 'for the lack of five' is this reading."}
+      ]
+    },
+    {
+      "ref": "18:29",
+      "english": "He spoke to him again and said, \"Perhaps forty will be found there.\" He said, \"I will not do it for the sake of the forty.\"",
+      "literal": "and-added again to-speak to-him and-said perhaps will-be-found there forty and-said not I-will-do for-the-sake-of the-forty",
+      "tokens": [
+        {"id": "18:29.1", "gloss": "went on", "sense": "Hiph 2.a", "note": "Wayyiqtol hifil of יָסַף with the infinitive that follows: 'added to speak', 'went on again'."},
+        {"id": "18:29.2", "gloss": "again", "note": "The adverb עוֹד goes with the verb in 18:29.1."},
+        {"id": "18:29.3", "gloss": "to speak", "sense": "Pi"},
+        {"id": "18:29.4", "gloss": "to him", "sense": "1"},
+        {"id": "18:29.5", "gloss": "and said", "sense": "Qal 1"},
+        {"id": "18:29.6", "gloss": "perhaps", "sense": "1"},
+        {"id": "18:29.7", "gloss": "will be found", "sense": "Niph", "note": "Nifal yiqtol 3mp; the subject is not named: 'there will be found'."},
+        {"id": "18:29.8", "gloss": "there"},
+        {"id": "18:29.9", "gloss": "forty", "note": "The first of the successive numbers: forty, thirty, twenty, ten."},
+        {"id": "18:29.10", "gloss": "and he said", "sense": "Qal 1", "note": "The LORD's reply."},
+        {"id": "18:29.11", "gloss": "not"},
+        {"id": "18:29.12", "gloss": "I will do", "sense": "Qal I.1", "note": "Yiqtol 1cs. The object, destruction, is supplied from the context (Ibn Ezra)."},
+        {"id": "18:29.13", "gloss": "for the sake of", "note": "בַּ with עָבוּר: 'for the sake of'."},
+        {"id": "18:29.14", "gloss": "the forty"}
+      ],
+      "phrases": [
+        {"tokens": ["18:29.1", "18:29.2", "18:29.3", "18:29.4"], "english": "He spoke to him again", "literal": "'and-added again to-speak to-him': the hifil wayyiqtol with the infinitive, 'went on to speak to him again'."},
+        {"tokens": ["18:29.5", "18:29.6"], "english": "and said, \"Perhaps", "literal": "'and-said perhaps': the verb of speech and the particle of doubt that opens the proposal."},
+        {"tokens": ["18:29.7", "18:29.8", "18:29.9"], "english": "forty will be found there", "literal": "'will-be-found there forty': the nifal, the number last."},
+        {"tokens": ["18:29.10", "18:29.11", "18:29.12"], "english": "He said, \"I will not do", "literal": "'and-he-said not I-will-do': the LORD's answer."},
+        {"tokens": ["18:29.13", "18:29.14"], "english": "for the sake of the forty", "literal": "'for-the-sake-of the-forty': the reason for the refusal."}
+      ],
+      "grammar": [
+        "וַיֹּסֶף עוֹד לְדַבֵּר is a hifil wayyiqtol of יָסַף with an infinitive: 'went on to speak'. The English gives the adverb 'again'.",
+        "אוּלַי with the nifal yiqtol יִמָּצְאוּן is a proposal: 'perhaps forty will be found there'. The subject is impersonal.",
+        "The answer is לֹא with the yiqtol אֶעֱשֶׂה. The object, destruction, is not written; the English 'I will not do it' keeps the Hebrew's ellipsis.",
+        "The etnaḥta on אַרְבָּעִים (18:29.9) divides the verse at Abraham's proposal; the answer follows."
+      ],
+      "note": "The English keeps 'do it' for the ellipsis. Ibn Ezra makes the object 'destruction' explicit (commentary).",
+      "commentary": [
+        {"anchor": "rashi:18:29:1", "relation": "records", "summary": "Rashi reads the numbers as cities: forty would save four cities, thirty three, twenty two, and ten one. The English keeps the plain sense, forty righteous people, and records Rashi's reading."},
+        {"anchor": "ibn-ezra:18:29:1", "relation": "follows", "summary": "Ibn Ezra: לֹא אֶעֱשֶׂה בַּעֲבוּר הָאַרְבָּעִים means 'I will not do destruction'; God will not reduce the number again in the next round. The English 'I will not do it' follows this sense."}
+      ]
+    },
+    {
+      "ref": "18:30",
+      "english": "Abraham said, \"Please, let not my Lord be angry, and let me speak. Perhaps thirty will be found there.\" He said, \"I will not do it if I find thirty there.\"",
+      "literal": "and-said let-not please be-angry to-my-Lord and-let-me-speak perhaps will-be-found there thirty and-said not I-will-do if I-find there thirty",
+      "tokens": [
+        {"id": "18:30.1", "gloss": "and said", "sense": "Qal 1", "note": "The speaker is Abraham; the verse begins a new speech after the LORD's reply."},
+        {"id": "18:30.2", "gloss": "let not", "note": "The negative אַל with a jussive: 'let not'."},
+        {"id": "18:30.3", "gloss": "please", "note": "Entreaty; with אַל it softens the request."},
+        {"id": "18:30.4", "gloss": "be angry", "note": "Jussive qal 3ms of חָרָה. The pack lists no Qal sense for this verb (only Niph, Hiph and Hithp), so no sense is entered; the gloss is from the entry."},
+        {"id": "18:30.5", "gloss": "my Lord", "note": "Qamats: the address is to God (decisions, Genesis 18-50)."},
+        {"id": "18:30.6", "gloss": "and let me speak", "sense": "Pi", "note": "Cohortative piel 1cs of דָּבַר: 'let me speak'."},
+        {"id": "18:30.7", "gloss": "perhaps", "sense": "1"},
+        {"id": "18:30.8", "gloss": "will be found", "sense": "Niph"},
+        {"id": "18:30.9", "gloss": "there"},
+        {"id": "18:30.10", "gloss": "thirty"},
+        {"id": "18:30.11", "gloss": "and he said", "sense": "Qal 1", "note": "The LORD's reply."},
+        {"id": "18:30.12", "gloss": "not"},
+        {"id": "18:30.13", "gloss": "I will do", "sense": "Qal I.1", "note": "As at 18:29: the sense is 'I will not destroy'."},
+        {"id": "18:30.14", "gloss": "if", "sense": "1"},
+        {"id": "18:30.15", "gloss": "I find", "sense": "Qal 1"},
+        {"id": "18:30.16", "gloss": "there"},
+        {"id": "18:30.17", "gloss": "thirty"}
+      ],
+      "phrases": [
+        {"tokens": ["18:30.1", "18:30.2", "18:30.3"], "english": "Abraham said, Please, let not", "literal": "'and-said let-not please': the speaker, then the negative and the entreaty."},
+        {"tokens": ["18:30.4", "18:30.5"], "english": "my Lord be angry", "literal": "'be-angry to-my-Lord': the jussive, the address to God."},
+        {"tokens": ["18:30.6"], "english": "and let me speak", "literal": "'and-let-me-speak': the cohortative."},
+        {"tokens": ["18:30.7", "18:30.8", "18:30.9", "18:30.10"], "english": "Perhaps thirty will be found there", "literal": "'perhaps will-be-found there thirty': the proposal."},
+        {"tokens": ["18:30.11", "18:30.12", "18:30.13"], "english": "He said, I will not do", "literal": "'and-he-said not I-will-do': the LORD's answer."},
+        {"tokens": ["18:30.14", "18:30.15", "18:30.16", "18:30.17"], "english": "if I find thirty there", "literal": "'if I-find there thirty': the conditional."}
+      ],
+      "grammar": [
+        "וַאֲדַבֵּרָה is a cohortative: 'let me speak'. The cohortative after the jussive makes Abraham's request a double petition.",
+        "יִחַר is a jussive after אַל: 'let not ... be angry'. God is addressed as 'my Lord'.",
+        "The request repeats 18:29 with thirty in place of forty. The answer repeats too, 'I will not do it', and the English keeps the parallel.",
+        "The etnaḥta on שְׁלֹשִׁים (18:30.10) divides the verse: Abraham's plea and proposal come first; God's reply follows."
+      ],
+      "commentary": [
+        {"anchor": "radak:18:30:1", "relation": "not-applicable", "summary": "Radak: Abraham says 'let not my Lord be angry' out of fear that the judgment before God be too heavy, and so he shortened the fifties to tens. This is his motive; it does not change the English."}
+      ]
+    },
+    {
+      "ref": "18:31",
+      "english": "Abraham said, \"Now, please, I have been willing to speak to my Lord. Perhaps twenty will be found there.\" He said, \"I will not destroy for the sake of the twenty.\"",
+      "literal": "and-said look-pray I-have-been-willing to-speak to-my-Lord perhaps will-be-found there twenty and-said not I-will-destroy for-the-sake-of the-twenty",
+      "tokens": [
+        {"id": "18:31.1", "gloss": "and said", "sense": "Qal 1", "note": "Abraham again; the wayyiqtol opens the next speech."},
+        {"id": "18:31.2", "gloss": "now", "note": "הִנֵּה with נָא: 'look, please', as at 18:27."},
+        {"id": "18:31.3", "gloss": "please"},
+        {"id": "18:31.4", "gloss": "I have been willing", "note": "Hifil perfect 1cs of יָאַל; the pack lists no sense for the hifil. See 18:27."},
+        {"id": "18:31.5", "gloss": "to speak", "sense": "Pi"},
+        {"id": "18:31.6", "gloss": "to", "sense": "1"},
+        {"id": "18:31.7", "gloss": "my Lord", "note": "Qamats: God (decisions, Genesis 18-50)."},
+        {"id": "18:31.8", "gloss": "perhaps", "sense": "1"},
+        {"id": "18:31.9", "gloss": "will be found", "sense": "Niph"},
+        {"id": "18:31.10", "gloss": "there"},
+        {"id": "18:31.11", "gloss": "twenty"},
+        {"id": "18:31.12", "gloss": "and he said", "sense": "Qal 1", "note": "The LORD's reply."},
+        {"id": "18:31.13", "gloss": "not"},
+        {"id": "18:31.14", "gloss": "I will destroy", "sense": "Hiph 1", "note": "Yiqtol 1cs."},
+        {"id": "18:31.15", "gloss": "for the sake of", "note": "בַּ with עָבוּר."},
+        {"id": "18:31.16", "gloss": "the twenty"}
+      ],
+      "phrases": [
+        {"tokens": ["18:31.1", "18:31.2", "18:31.3"], "english": "Abraham said, Now, please", "literal": "'and-said look-pray': the speaker, then the interjection with the entreaty."},
+        {"tokens": ["18:31.4", "18:31.5"], "english": "I have been willing to speak", "literal": "'I-have-been-willing to-speak'."},
+        {"tokens": ["18:31.6", "18:31.7"], "english": "to my Lord", "literal": "'to-my-Lord': the address to God."},
+        {"tokens": ["18:31.8", "18:31.9", "18:31.10", "18:31.11"], "english": "Perhaps twenty will be found there", "literal": "'perhaps will-be-found there twenty': the proposal."},
+        {"tokens": ["18:31.12", "18:31.13", "18:31.14"], "english": "He said, I will not destroy", "literal": "'and-he-said not I-will-destroy': the LORD's answer."},
+        {"tokens": ["18:31.15", "18:31.16"], "english": "for the sake of the twenty", "literal": "'for-the-sake-of the-twenty'."}
+      ],
+      "grammar": [
+        "The speech repeats the form of 18:27 with 'twenty' in place of forty: Abraham lowers the number again by ten.",
+        "The hifil of יָאַל is as in 18:27, 'I have been willing'.",
+        "The LORD's reply uses לֹא with the hifil yiqtol אַשְׁחִית: 'I will not destroy'.",
+        "The etnaḥta on עֶשְׂרִים (18:31.11) divides the verse; the second half is God's reply."
+      ],
+      "commentary": [
+        {"anchor": "rashi:18:31:1", "relation": "follows", "summary": "Rashi: הוֹאַלְתִּי means רָצִיתִי, 'I wished', as in וַיּוֹאֶל מֹשֶׁה. The English 'I have been willing' is this sense."}
+      ]
+    },
+    {
+      "ref": "18:32",
+      "english": "Abraham said, \"Please, let not my Lord be angry, and let me speak only this once. Perhaps ten will be found there.\" He said, \"I will not destroy for the sake of the ten.\"",
+      "literal": "and-said let-not please be-angry to-my-Lord and-let-me-speak only the-once perhaps will-be-found there ten and-said not I-will-destroy for-the-sake-of the-ten",
+      "tokens": [
+        {"id": "18:32.1", "gloss": "and said", "sense": "Qal 1", "note": "Abraham speaks."},
+        {"id": "18:32.2", "gloss": "let not", "note": "The negative אַל with a jussive."},
+        {"id": "18:32.3", "gloss": "please"},
+        {"id": "18:32.4", "gloss": "be angry", "note": "Jussive qal 3ms of חָרָה, as at 18:30; no Qal sense is listed in the pack."},
+        {"id": "18:32.5", "gloss": "my Lord", "note": "Qamats: God."},
+        {"id": "18:32.6", "gloss": "and let me speak", "sense": "Pi", "note": "Cohortative piel 1cs of דָּבַר."},
+        {"id": "18:32.7", "gloss": "only", "note": "BDB gives 'surely' for אַךְ; here it restricts the request to one more attempt."},
+        {"id": "18:32.8", "gloss": "this once", "note": "הַפַּעַם, 'the time': 'this once'."},
+        {"id": "18:32.9", "gloss": "perhaps", "sense": "1"},
+        {"id": "18:32.10", "gloss": "will be found", "sense": "Niph"},
+        {"id": "18:32.11", "gloss": "there"},
+        {"id": "18:32.12", "gloss": "ten", "note": "The last number in the bargaining."},
+        {"id": "18:32.13", "gloss": "and he said", "sense": "Qal 1", "note": "The LORD's reply."},
+        {"id": "18:32.14", "gloss": "not"},
+        {"id": "18:32.15", "gloss": "I will destroy", "sense": "Hiph 1", "note": "Yiqtol 1cs."},
+        {"id": "18:32.16", "gloss": "for the sake of", "note": "בַּ with עָבוּר."},
+        {"id": "18:32.17", "gloss": "the ten"}
+      ],
+      "phrases": [
+        {"tokens": ["18:32.1", "18:32.2", "18:32.3"], "english": "Abraham said, Please, let not", "literal": "'and-said let-not please': the speaker, then the negative and the entreaty."},
+        {"tokens": ["18:32.4", "18:32.5"], "english": "my Lord be angry", "literal": "'be-angry to-my-Lord': the jussive, the address to God."},
+        {"tokens": ["18:32.6", "18:32.7", "18:32.8"], "english": "and let me speak only this once", "literal": "'and-let-me-speak only the-once': the cohortative, with the restriction to one more attempt."},
+        {"tokens": ["18:32.9", "18:32.10", "18:32.11", "18:32.12"], "english": "Perhaps ten will be found there", "literal": "'perhaps will-be-found there ten': the last proposal."},
+        {"tokens": ["18:32.13", "18:32.14", "18:32.15"], "english": "He said, I will not destroy", "literal": "'and-he-said not I-will-destroy': the LORD's answer."},
+        {"tokens": ["18:32.16", "18:32.17"], "english": "for the sake of the ten", "literal": "'for-the-sake-of the-ten'."}
+      ],
+      "grammar": [
+        "This is Abraham's last request in the bargaining: ten. The dialogue continues in 18:33, the next verse.",
+        "אַךְ הַפַּעַם, 'only this once', restricts the request. BDB gives 'surely' for אַךְ; the context requires the restrictive sense.",
+        "The jussive יִחַר and the cohortative וַאֲדַבְּרָה repeat the petition of 18:30 without change.",
+        "The etnaḥta on עֲשָׂרָה (18:32.12) divides the verse: Abraham's request and proposal come first; the LORD's reply follows."
+      ],
+      "commentary": [
+        {"anchor": "rashi:18:32:1", "relation": "follows", "summary": "Rashi: Abraham did not ask for fewer than ten. The generation of the flood had eight (Noah, his sons and their wives) who saved none of their generation; for nine, through an addition, he had already asked and found none. The English stops at ten; the reason is Rashi's, given in the notes."}
+      ]
+    }
+  ]
+}

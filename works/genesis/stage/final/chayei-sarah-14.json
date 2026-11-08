@@ -1,0 +1,859 @@
+{
+ "unit": "chayei-sarah-14",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "25:12",
+   "english": "These are the generations of Ishmael, son of Abraham, whom Hagar the Egyptian, Sarah's maidservant, bore to Abraham.",
+   "literal": "and-these generations-of Ishmael son-of Abraham who bore Hagar the-Egyptian maidservant-of Sarah to-Abraham",
+   "tokens": [
+    {
+     "id": "25:12.1",
+     "gloss": "and these",
+     "sense": "b",
+     "note": "verbless clause: the English supplies 'are' as its copula"
+    },
+    {
+     "id": "25:12.2",
+     "gloss": "generations of",
+     "note": "construct; the lexicon sense is 'account of a man and his descendants', and it governs the names that follow"
+    },
+    {
+     "id": "25:12.3",
+     "gloss": "Ishmael",
+     "sense": "1"
+    },
+    {
+     "id": "25:12.4",
+     "gloss": "son of",
+     "sense": "1"
+    },
+    {
+     "id": "25:12.5",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "25:12.6",
+     "gloss": "who"
+    },
+    {
+     "id": "25:12.7",
+     "gloss": "bore",
+     "sense": "Qal 1",
+     "note": "qatal in a relative clause; its subject Hagar comes after the verb"
+    },
+    {
+     "id": "25:12.8",
+     "gloss": "Hagar"
+    },
+    {
+     "id": "25:12.9",
+     "gloss": "the Egyptian"
+    },
+    {
+     "id": "25:12.10",
+     "gloss": "maidservant of"
+    },
+    {
+     "id": "25:12.11",
+     "gloss": "Sarah"
+    },
+    {
+     "id": "25:12.12",
+     "gloss": "to Abraham"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:12.1",
+      "25:12.2",
+      "25:12.3",
+      "25:12.4",
+      "25:12.5"
+     ],
+     "english": "These are the generations of Ishmael, son of Abraham,",
+     "literal": "and-these generations-of Ishmael son-of Abraham"
+    },
+    {
+     "tokens": [
+      "25:12.6",
+      "25:12.7",
+      "25:12.8",
+      "25:12.9",
+      "25:12.10",
+      "25:12.11",
+      "25:12.12"
+     ],
+     "english": "whom Hagar the Egyptian, Sarah's maidservant, bore to Abraham.",
+     "literal": "who bore Hagar the-Egyptian maidservant-of Sarah to-Abraham"
+    }
+   ],
+   "grammar": [
+    "וְאֵלֶּה תּוֹלְדוֹת is a verbless clause, 'these (are) the generations'; 'are' in the English is the copula.",
+    "The etnaḥta on אַבְרָהָם closes the first clause at 'son of Abraham'; the relative clause that follows is set off from it.",
+    "יָלְדָה is qatal, 3rd feminine singular, with Hagar named after the verb; the appositions 'the Egyptian' and 'maidservant of Sarah' stand after her name."
+   ],
+   "commentary": [
+    {
+     "anchor": "radak:25:12:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the Torah records Ishmael's line out of honour to Abraham, his firstborn, and to show that Ishmael had twelve princes, as God told Abraham."
+    },
+    {
+     "anchor": "radak:25:12:3",
+     "relation": "not-applicable",
+     "summary": "Radak: though Ishmael was the son of a maidservant, Abraham loved him as firstborn; God blessed him for Abraham's sake and prospered him, and he fathered the twelve princes."
+    }
+   ],
+   "context": [
+    "Hagar was an Egyptian maidservant of Sarah. The giving of a maidservant to a childless wife, so that her children are counted to the wife, is cited from the Nuzi tablets; scholars differ on how closely the Nuzi practice matches Genesis."
+   ]
+  },
+  {
+   "ref": "25:13",
+   "english": "These are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebaioth, and Kedar, and Adbeel, and Mibsam,",
+   "literal": "and-these names-of sons-of Ishmael by-their-names to-their-generations firstborn-of Ishmael Nebaioth and-Kedar and-Adbeel and-Mibsam",
+   "tokens": [
+    {
+     "id": "25:13.1",
+     "gloss": "and these",
+     "sense": "b"
+    },
+    {
+     "id": "25:13.2",
+     "gloss": "names of",
+     "sense": "2.a"
+    },
+    {
+     "id": "25:13.3",
+     "gloss": "sons of",
+     "sense": "1"
+    },
+    {
+     "id": "25:13.4",
+     "gloss": "Ishmael",
+     "sense": "1"
+    },
+    {
+     "id": "25:13.5",
+     "gloss": "by their names",
+     "sense": "2.a",
+     "note": "the same noun as 25:13.2, with the preposition ב and a 3rd masculine plural suffix"
+    },
+    {
+     "id": "25:13.6",
+     "gloss": "according to their generations",
+     "note": "לְ with תּוֹלְדוֹת, 'according to their generations'; Rashi and Radak both take it as the order of birth (see commentary)"
+    },
+    {
+     "id": "25:13.7",
+     "gloss": "the firstborn of",
+     "sense": "1",
+     "note": "construct of בְּכוֹר; the names that follow are in apposition to it"
+    },
+    {
+     "id": "25:13.8",
+     "gloss": "Ishmael",
+     "sense": "1"
+    },
+    {
+     "id": "25:13.9",
+     "gloss": "Nebaioth"
+    },
+    {
+     "id": "25:13.10",
+     "gloss": "and Kedar",
+     "sense": "2"
+    },
+    {
+     "id": "25:13.11",
+     "gloss": "and Adbeel"
+    },
+    {
+     "id": "25:13.12",
+     "gloss": "and Mibsam",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:13.1",
+      "25:13.2",
+      "25:13.3",
+      "25:13.4",
+      "25:13.5",
+      "25:13.6"
+     ],
+     "english": "These are the names of the sons of Ishmael, by their names, according to their generations:",
+     "literal": "and-these names-of sons-of Ishmael by-their-names to-their-generations"
+    },
+    {
+     "tokens": [
+      "25:13.7",
+      "25:13.8",
+      "25:13.9"
+     ],
+     "english": "the firstborn of Ishmael, Nebaioth,",
+     "literal": "firstborn-of Ishmael Nebaioth"
+    },
+    {
+     "tokens": [
+      "25:13.10"
+     ],
+     "english": "and Kedar,",
+     "literal": "and-Kedar"
+    },
+    {
+     "tokens": [
+      "25:13.11"
+     ],
+     "english": "and Adbeel,",
+     "literal": "and-Adbeel"
+    },
+    {
+     "tokens": [
+      "25:13.12"
+     ],
+     "english": "and Mibsam,",
+     "literal": "and-Mibsam"
+    }
+   ],
+   "grammar": [
+    "The verse opens a list with a verbless clause, 'these (are) the names'; the copula is English.",
+    "The etnaḥta on לְתוֹלְדֹתָם closes the heading. The two prepositional phrases 'by their names' and 'to their generations' each have a 3rd masculine plural suffix.",
+    "בְּכֹר יִשְׁמָעֵאל is a construct, 'the firstborn of Ishmael'. The first son is named (Nebaioth), and the others follow, each joined by ו."
+   ],
+   "commentary": [
+    {
+     "anchor": "rashi:25:13:1",
+     "relation": "records",
+     "summary": "Rashi: 'by their names, by their generations' means the order of their births, one after another."
+    },
+    {
+     "anchor": "radak:25:13:1",
+     "relation": "records",
+     "summary": "Radak: 'to their generations' means in the order of their generations, as they were born, in the order of their mention; the firstborn was Nebaioth."
+    }
+   ],
+   "context": [
+    "Nebaioth is generally identified with the Nabaiate of the Assyrian royal inscriptions, a people of the north Arabian desert; the identification is not beyond dispute.",
+    "Kedar is a tribe of the Arabian desert (Isa. 21:17)."
+   ]
+  },
+  {
+   "ref": "25:14",
+   "english": "and Mishma, and Dumah, and Massa,",
+   "literal": "and-Mishma and-Dumah and-Massa",
+   "tokens": [
+    {
+     "id": "25:14.1",
+     "gloss": "and Mishma",
+     "sense": "1"
+    },
+    {
+     "id": "25:14.2",
+     "gloss": "and Dumah",
+     "sense": "1"
+    },
+    {
+     "id": "25:14.3",
+     "gloss": "and Massa",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:14.1"
+     ],
+     "english": "and Mishma,",
+     "literal": "and-Mishma"
+    },
+    {
+     "tokens": [
+      "25:14.2"
+     ],
+     "english": "and Dumah,",
+     "literal": "and-Dumah"
+    },
+    {
+     "tokens": [
+      "25:14.3"
+     ],
+     "english": "and Massa,",
+     "literal": "and-Massa"
+    }
+   ],
+   "grammar": [
+    "A list of three names, each with ו, and no verb. The list continues from 25:13 and is completed in 25:15.",
+    "The accents divide the names: merkha on מִשְׁמָע, tipḥa on דּוּמָה, and silluq on מַשָּׂא, which closes the verse."
+   ],
+   "commentary": []
+  },
+  {
+   "ref": "25:15",
+   "english": "Hadad, and Tema, Jetur, Naphish, and Kedemah.",
+   "literal": "Hadad and-Tema Jetur Naphish and-Kedemah",
+   "tokens": [
+    {
+     "id": "25:15.1",
+     "gloss": "Hadad"
+    },
+    {
+     "id": "25:15.2",
+     "gloss": "and Tema"
+    },
+    {
+     "id": "25:15.3",
+     "gloss": "Jetur"
+    },
+    {
+     "id": "25:15.4",
+     "gloss": "Naphish"
+    },
+    {
+     "id": "25:15.5",
+     "gloss": "and Kedemah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:15.1"
+     ],
+     "english": "Hadad,",
+     "literal": "Hadad"
+    },
+    {
+     "tokens": [
+      "25:15.2"
+     ],
+     "english": "and Tema,",
+     "literal": "and-Tema"
+    },
+    {
+     "tokens": [
+      "25:15.3"
+     ],
+     "english": "Jetur,",
+     "literal": "Jetur"
+    },
+    {
+     "tokens": [
+      "25:15.4"
+     ],
+     "english": "Naphish,",
+     "literal": "Naphish"
+    },
+    {
+     "tokens": [
+      "25:15.5"
+     ],
+     "english": "and Kedemah.",
+     "literal": "and-Kedemah"
+    }
+   ],
+   "grammar": [
+    "Five names. With the four of 25:13 and the three of 25:14 they make the twelve of 25:16.",
+    "ו stands before the second and fifth names only; the English repeats 'and' where the Hebrew does.",
+    "The accents munaḥ, zaqef qaton, merkha, tipḥa and silluq each mark one name; silluq ends the verse."
+   ],
+   "commentary": []
+  },
+  {
+   "ref": "25:16",
+   "english": "These are the sons of Ishmael, and these are their names, in their villages and in their palaces: twelve princes of their tribes.",
+   "literal": "these they sons-of Ishmael and-these names-of-them in-their-villages and-in-their-palaces two-ten princes to-their-tribes",
+   "tokens": [
+    {
+     "id": "25:16.1",
+     "gloss": "these",
+     "sense": "b"
+    },
+    {
+     "id": "25:16.2",
+     "gloss": "they",
+     "note": "the pronoun repeats 'these'; 'are' in the English is the copula of the verbless clause"
+    },
+    {
+     "id": "25:16.3",
+     "gloss": "sons of",
+     "sense": "1"
+    },
+    {
+     "id": "25:16.4",
+     "gloss": "Ishmael",
+     "sense": "1"
+    },
+    {
+     "id": "25:16.5",
+     "gloss": "and these",
+     "sense": "b"
+    },
+    {
+     "id": "25:16.6",
+     "gloss": "names of",
+     "sense": "2.a"
+    },
+    {
+     "id": "25:16.7",
+     "gloss": "in their villages",
+     "note": "חָצֵר: the lexicon gives 'settled abode, settlement, village'; how the place was built is disputed (see context)"
+    },
+    {
+     "id": "25:16.8",
+     "gloss": "and in their palaces",
+     "note": "טִירָה: the lexicon gives 'encampment, battlement'. 'Palaces' follows Ibn Ezra, the normative reading; Radak's 'fortified cities' is recorded"
+    },
+    {
+     "id": "25:16.9",
+     "gloss": "two",
+     "note": "the numeral 'twelve' is written as two plus ten"
+    },
+    {
+     "id": "25:16.10",
+     "gloss": "ten"
+    },
+    {
+     "id": "25:16.11",
+     "gloss": "princes"
+    },
+    {
+     "id": "25:16.12",
+     "gloss": "of their tribes",
+     "note": "אֻמָּה 'tribe, people'. Ibn Ezra: the lamed is an added preposition, as in לְגוֹיֵיהֶם, and the sense is the same with or without it; English 'of' carries the construction."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:16.1",
+      "25:16.2",
+      "25:16.3",
+      "25:16.4"
+     ],
+     "english": "These are the sons of Ishmael,",
+     "literal": "these they sons-of Ishmael"
+    },
+    {
+     "tokens": [
+      "25:16.5",
+      "25:16.6"
+     ],
+     "english": "and these are their names,",
+     "literal": "and-these names-of-them"
+    },
+    {
+     "tokens": [
+      "25:16.7",
+      "25:16.8"
+     ],
+     "english": "in their villages and in their palaces:",
+     "literal": "in-their-villages and-in-their-palaces"
+    },
+    {
+     "tokens": [
+      "25:16.9",
+      "25:16.10",
+      "25:16.11",
+      "25:16.12"
+     ],
+     "english": "twelve princes of their tribes.",
+     "literal": "two-ten princes to-their-tribes"
+    }
+   ],
+   "grammar": [
+    "אֵלֶּה הֵם is a verbless clause; the pronoun הֵם repeats the subject, and 'are' is the English copula.",
+    "The second clause, 'and these are their names', is verbless too. The names are those of 25:13 to 15.",
+    "The two locatives בְּחַצְרֵיהֶם וּבְטִירֹתָם are parallel, each with ב and a 3rd masculine plural suffix. The etnaḥta on וּבְטִירֹתָם closes them; the numeral and the title come after it.",
+    "The numeral is compound, שְׁנֵים עָשָׂר ('two and ten'), with the plural noun נְשִׂיאִם; it stands in apposition to the names above."
+   ],
+   "note": "Palaces follows Ibn Ezra's normative reading of טירות; the lexicon's 'encampment, battlement' and Radak's fortified cities are recorded in commentary. Ibn Ezra takes the lamed of לְאֻמֹּתָם as added and without force, as in לְגוֹיֵיהֶם; the English 'of their tribes' leaves it unrendered.",
+   "commentary": [
+    {
+     "anchor": "radak:25:16:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the general statement 'these are the sons' comes after the particulars, a usual form in Scripture; the repetition adds clarity."
+    },
+    {
+     "anchor": "rashi:25:16:1",
+     "relation": "records",
+     "summary": "Rashi: חצרים are large cities without walls, and he takes the Targum's word for them as 'opened places'."
+    },
+    {
+     "anchor": "ibn-ezra:25:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: טירות are palaces (ארמונים), like the טירת כסף of the Song of Songs."
+    },
+    {
+     "anchor": "ibn-ezra:25:16:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the word occurs with shureq elsewhere (אֻמּוֹת, אֻמִּים); the lamed of לְאֻמֹּתָם is added, like the lamed of לְגוֹיֵיהֶם, and is not a root letter as in לְאֻמִּים (Ps. 149:7), which is a root as in 'one people (לְאֹם) shall be stronger than the other' (Gen. 25:23). With the lamed or without it the sense is the same; they are two roots."
+    },
+    {
+     "anchor": "radak:25:16:2",
+     "relation": "not-applicable",
+     "summary": "Radak: the repetition tells the reader that wherever a people is named with one of these names, it is one of Ishmael's sons."
+    },
+    {
+     "anchor": "radak:25:16:3",
+     "relation": "records",
+     "summary": "Radak: where their portion fell they lived in greatness, in their ḥatserim (open towns) and their tirot (great cities and fortresses)."
+    },
+    {
+     "anchor": "radak:25:16:4",
+     "relation": "follows",
+     "summary": "Radak: each of the twelve was a prince and the head of a great family named after him, as Jetur Naphish in the war of the Hagrites; Kedar, Dumah, Massa and Tema are each named in the prophets as a separate nation."
+    },
+    {
+     "anchor": "onkelos:25:16:1",
+     "relation": "records",
+     "summary": "Onkelos renders the two locatives as 'open places' (פַּצְחֵיהוֹן) and 'great cities' (כַּרְכֵּיהוֹן)."
+    }
+   ],
+   "context": [
+    "The Hebrew names two kinds of settled place, ḥatserim and tirot. The commentators differ: the ḥatserim are taken as unwalled villages (Radak) or large towns without walls (Rashi), and the tirot as fortified cities (Radak) or palaces (Ibn Ezra). Elsewhere the word tirah is used of nomad encampments (Num. 31:10; Ezek. 25:4), so 'palaces' is one of several possible renderings. The commentary records the positions.",
+    "The twelve names are identified with tribes of the north Arabian desert and its edge; each identification of a name with a known people is a scholarly proposal and is disputed."
+   ]
+  },
+  {
+   "ref": "25:17",
+   "english": "These are the years of the life of Ishmael, a hundred and thirty-seven years; and he expired, and he died, and he was gathered to his people.",
+   "literal": "and-these years-of life-of Ishmael hundred years and-thirty years and-seven years and-he-expired and-he-died and-he-was-gathered to his-people",
+   "tokens": [
+    {
+     "id": "25:17.1",
+     "gloss": "and these",
+     "sense": "b"
+    },
+    {
+     "id": "25:17.2",
+     "gloss": "years of",
+     "note": "the form is parsed as the dual construct of שָׁנָה; the phrase reads 'the years of the life of'"
+    },
+    {
+     "id": "25:17.3",
+     "gloss": "the life of",
+     "sense": "1"
+    },
+    {
+     "id": "25:17.4",
+     "gloss": "Ishmael",
+     "sense": "1"
+    },
+    {
+     "id": "25:17.5",
+     "gloss": "a hundred",
+     "sense": "2",
+     "note": "a hundred as part of a larger number (137)"
+    },
+    {
+     "id": "25:17.6",
+     "gloss": "years"
+    },
+    {
+     "id": "25:17.7",
+     "gloss": "and thirty",
+     "sense": "1",
+     "note": "before a singular noun (שָׁנָה)"
+    },
+    {
+     "id": "25:17.8",
+     "gloss": "years"
+    },
+    {
+     "id": "25:17.9",
+     "gloss": "and seven"
+    },
+    {
+     "id": "25:17.10",
+     "gloss": "years"
+    },
+    {
+     "id": "25:17.11",
+     "gloss": "and he expired",
+     "note": "wayyiqtol: the verb series continues the sequence"
+    },
+    {
+     "id": "25:17.12",
+     "gloss": "and he died",
+     "sense": "Qal 1",
+     "note": "wayyiqtol"
+    },
+    {
+     "id": "25:17.13",
+     "gloss": "and he was gathered",
+     "sense": "Niph 1",
+     "note": "idiom for death: 'gathered to his people' (see context)"
+    },
+    {
+     "id": "25:17.14",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "25:17.15",
+     "gloss": "his people",
+     "note": "עַם: the lexicon gives 'kinsman'; 'people' is the plain sense of the idiom"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:17.1",
+      "25:17.2",
+      "25:17.3",
+      "25:17.4"
+     ],
+     "english": "These are the years of the life of Ishmael,",
+     "literal": "and-these years-of life-of Ishmael"
+    },
+    {
+     "tokens": [
+      "25:17.5",
+      "25:17.6",
+      "25:17.7",
+      "25:17.8",
+      "25:17.9",
+      "25:17.10"
+     ],
+     "english": "a hundred and thirty-seven years;",
+     "literal": "hundred years and-thirty years and-seven years"
+    },
+    {
+     "tokens": [
+      "25:17.11",
+      "25:17.12"
+     ],
+     "english": "and he expired, and he died,",
+     "literal": "and-he-expired and-he-died"
+    },
+    {
+     "tokens": [
+      "25:17.13",
+      "25:17.14",
+      "25:17.15"
+     ],
+     "english": "and he was gathered to his people.",
+     "literal": "and-he-was-gathered to his-people"
+    }
+   ],
+   "grammar": [
+    "The age is given as three sums in sequence, a hundred years, and thirty years, and seven years; the English adds them as one figure, and the literal keeps the Hebrew's three.",
+    "Three wayyiqtol verbs, וַיִּגְוַע וַיָּמָת וַיֵּאָסֶף, carry the sequence: 'expired', 'died', and the idiom of being gathered to one's people.",
+    "The etnaḥta on שָׁנִים closes the clause of the age; the silluq on עַמָּיו closes the verse."
+   ],
+   "commentary": [
+    {
+     "anchor": "rashi:25:17:1",
+     "relation": "not-applicable",
+     "summary": "Rashi (midrash): asks why Ishmael's years are counted, so that Jacob's years can be set against them; Jacob spent fourteen years in Eber's house before he left his father, since Ishmael died when Jacob left."
+    },
+    {
+     "anchor": "rashi:25:17:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: the verb גְּוִיעָה is said only of the righteous."
+    },
+    {
+     "anchor": "ramban:25:17:1",
+     "relation": "not-applicable",
+     "summary": "Ramban: the plain sense is that the text gives the years of the righteous' offspring to show that the seed of the righteous is blessed; of the midrash's reasons for Ishmael's years, he finds most correct that Ishmael repented."
+    },
+    {
+     "anchor": "ramban:25:17:2",
+     "relation": "records",
+     "summary": "Ramban: Rashi's 'expiring is said only of the righteous' is understood by the Talmud as death without painful illness or suffering; the Flood generation and the desert dead also 'expired', which the Talmud answers by 'expiring and being gathered'. The midrash instead takes גְּוִיעָה as a bowel illness or wasting, and Onkelos' וְאִתְנְגִיד (a swoon) agrees; he concludes that 'he expired and died' is a man weakening and dying, a death found among the righteous."
+    },
+    {
+     "anchor": "radak:25:17:1",
+     "relation": "not-applicable",
+     "summary": "Radak: the years are recorded in Abraham's honour; the rabbis record them only to compare Jacob's years."
+    },
+    {
+     "anchor": "onkelos:25:17:1",
+     "relation": "records",
+     "summary": "Onkelos renders וַיִּגְוַע as וְאִתְנְגִיד, which Ramban glosses as a swoon (עִלּוּף)."
+    }
+   ],
+   "context": [
+    "'Gathered to his people' (וַיֵּאָסֶף אֶל־עַמָּיו) is the Hebrew idiom for death; by itself it does not describe a burial."
+   ]
+  },
+  {
+   "ref": "25:18",
+   "english": "And they dwelt from Havilah as far as Shur, which is before Egypt, as you go toward Asshur; he fell before all his brothers.",
+   "literal": "and-they-dwelt from-Havilah as-far-as Shur which upon face-of Egypt in-your-coming Asshur-ward; upon face-of all his-brothers fell",
+   "tokens": [
+    {
+     "id": "25:18.1",
+     "gloss": "and they dwelt",
+     "sense": "Qal 2",
+     "note": "wayyiqtol, 3rd masculine plural; the subject is Ishmael's sons"
+    },
+    {
+     "id": "25:18.2",
+     "gloss": "from Havilah"
+    },
+    {
+     "id": "25:18.3",
+     "gloss": "as far as",
+     "sense": "I.1"
+    },
+    {
+     "id": "25:18.4",
+     "gloss": "Shur"
+    },
+    {
+     "id": "25:18.5",
+     "gloss": "which"
+    },
+    {
+     "id": "25:18.6",
+     "gloss": "upon",
+     "sense": "II.1",
+     "note": "על פְּנֵי is one idiom; the English 'before' belongs to the whole phrase"
+    },
+    {
+     "id": "25:18.7",
+     "gloss": "before",
+     "sense": "I.6"
+    },
+    {
+     "id": "25:18.8",
+     "gloss": "Egypt",
+     "sense": "1.a"
+    },
+    {
+     "id": "25:18.9",
+     "gloss": "as you go",
+     "sense": "Qal 4",
+     "note": "infinitive construct with a 2nd masculine singular suffix, 'as you come/go'; a fixed idiom of boundary descriptions (also Gen. 10:19, 10:30, 13:10), where 'you' is the generic traveller, not an addressee"
+    },
+    {
+     "id": "25:18.10",
+     "gloss": "toward Asshur",
+     "note": "the directional ה on אַשּׁוּר"
+    },
+    {
+     "id": "25:18.11",
+     "gloss": "upon",
+     "sense": "II.1",
+     "note": "עַל פְּנֵי כָל־אֶחָיו: the idiom 'before all his brothers'"
+    },
+    {
+     "id": "25:18.12",
+     "gloss": "before",
+     "sense": "I.6"
+    },
+    {
+     "id": "25:18.13",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "25:18.14",
+     "gloss": "his brothers",
+     "sense": "1"
+    },
+    {
+     "id": "25:18.15",
+     "gloss": "fell",
+     "sense": "Qal 1",
+     "note": "qatal after a wayyiqtol series: a separate statement; the sense of נָפַל is disputed (see commentary)"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:18.1",
+      "25:18.2",
+      "25:18.3",
+      "25:18.4"
+     ],
+     "english": "And they dwelt from Havilah as far as Shur,",
+     "literal": "and-they-dwelt from-Havilah as-far-as Shur"
+    },
+    {
+     "tokens": [
+      "25:18.5",
+      "25:18.6",
+      "25:18.7",
+      "25:18.8"
+     ],
+     "english": "which is before Egypt,",
+     "literal": "which upon face-of Egypt"
+    },
+    {
+     "tokens": [
+      "25:18.9",
+      "25:18.10"
+     ],
+     "english": "as you go toward Asshur;",
+     "literal": "in-your-coming Asshur-ward"
+    },
+    {
+     "tokens": [
+      "25:18.11",
+      "25:18.12",
+      "25:18.13",
+      "25:18.14",
+      "25:18.15"
+     ],
+     "english": "he fell before all his brothers.",
+     "literal": "upon face-of all his-brothers fell"
+    }
+   ],
+   "grammar": [
+    "The verse is a wayyiqtol (וַיִּשְׁכְּנוּ) with the boundary formula 'from Havilah as far as Shur', then a relative clause placing Shur 'before Egypt', then a second boundary phrase, 'toward Asshur'.",
+    "בֹּאֲכָה is the infinitive construct of בוא with a 2nd masculine singular suffix, 'as you come'. It is the regular idiom of boundary descriptions (also Gen. 10:19, 10:30, 13:10), in which 'you' is the generic traveller; the third-person narrative is not broken by it.",
+    "נָפָל is a qatal after a wayyiqtol series, so it reads as a separate statement rather than the next step of the dwelling. The third masculine singular is unnamed; the English 'he' is the person of the form.",
+    "The etnaḥta on אַשּׁוּרָה closes the first half at Asshur, and the silluq on נָפָֽל closes the verse. The paragraph mark (פ) after it ends the section."
+   ],
+   "note": "English 'fell' keeps the verb. Rashi, Radak and Onkelos read 'dwelt', and Ibn Ezra offers three readings (lot, movement, death in a brother's lifetime); all are recorded in commentary, since the words do not settle the sense. 'Before' is the idiom על פני, which leaves Ibn Ezra's death reading open without choosing it.",
+   "commentary": [
+    {
+     "anchor": "rashi:25:18:1",
+     "relation": "records",
+     "summary": "Rashi: נָפָל here means 'dwelt' (שָׁכַן), as in the Midianites and Amalekites who lay in the valley (Judg. 7:12). He notes Gen. 16:12, 'before all his brothers he shall dwell': before Abraham died Ishmael dwelt, and after Abraham died he fell."
+    },
+    {
+     "anchor": "ibn-ezra:25:18:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: 'all his brothers' (על פני כל אחיו) are Zimran and Jokshan."
+    },
+    {
+     "anchor": "ibn-ezra:25:18:2",
+     "relation": "records",
+     "summary": "Ibn Ezra gives three readings of נָפָל: his portion or lot (fell to him); or that most of Ishmael's sons move from place to place, as in 'to the Chaldeans you fall' (Jer. 37:13), which he finds a little far, since his brothers are in the east and Egypt and Asshur are west of the Land; or, possibly, that the verse speaks of Ishmael dying in the lifetime of his brothers, as one who fell, since the cause of his death is not known."
+    },
+    {
+     "anchor": "radak:25:18:1",
+     "relation": "records",
+     "summary": "Radak: the sons and their generations dwelt from Havilah to Shur, for there their portion fell to them."
+    },
+    {
+     "anchor": "radak:25:18:2",
+     "relation": "records",
+     "summary": "Radak: the phrase 'before all his brothers' is as the angel told Hagar, 'before all his brothers he shall dwell' (Gen. 16:12), where he has explained it."
+    },
+    {
+     "anchor": "radak:25:18:3",
+     "relation": "records",
+     "summary": "Radak: נָפָל means 'dwelt', as in 'lying in the valley' (Judg. 7:12)."
+    },
+    {
+     "anchor": "onkelos:25:18:1",
+     "relation": "records",
+     "summary": "Onkelos renders נָפָל as שְׁרָא, 'dwelt'."
+    }
+   ],
+   "context": [
+    "Havilah is a name also used in the table of nations for a land; scholars disagree on whether this Havilah is the same place, and its location is not fixed.",
+    "Shur is the desert on the route from Canaan to Egypt (Gen. 16:7); here it is located by its position 'before Egypt' (עַל־פְּנֵי), commonly understood as facing Egypt on its eastern side. The Hebrew gives no compass direction.",
+    "Asshur is generally taken as Assyria, on the upper Tigris, but some take a nearer north Arabian people (compare the Asshurim of 25:3); the identification is disputed."
+   ]
+  }
+ ]
+}

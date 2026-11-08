@@ -174,11 +174,9 @@ func writeLexicon(b *strings.Builder, c *corpus.Corpus, refs []string, lexicon m
 			fmt.Fprintf(b, ": %s", e.Gloss)
 		}
 		b.WriteString("\n")
-		for i, s := range e.Senses {
-			if i >= 24 {
-				fmt.Fprintf(b, "- … %d more senses\n", len(e.Senses)-i)
-				break
-			}
+		// Every sense: the derived stems come last in BDB, and a cut
+		// would hide the senses a Hiphil or Hophal form needs.
+		for _, s := range e.Senses {
 			st := ""
 			if s.Stem != "" {
 				st = s.Stem + " "

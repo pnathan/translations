@@ -1,0 +1,463 @@
+{
+ "unit": "vayera-01",
+ "model": "opus",
+ "summary": "The translation is accurate in its syntax and verb forms, and most senses are right. The serious fault is in 18:3, where Rashi has Abraham call all three 'my lords' and the English read a singular 'My lord', against the normative commentator and the decisions. Several commentary summaries misreport their sources: Mamre at 14:13 is a man, not a place; Ibn Ezra's וַתָּלָשׁ means 'kneaded'; Ibn Ezra does not take 'they ate' literally; Rashi 18:8 is about serving each dish as it was ready; Rashi 18:1 does not gloss וַיֵּרָא. Two senses (חֵן, לֵב) were wrong, and some learner notes and literal lines are corrected.",
+ "patches": [
+  {
+   "ref": "18:1",
+   "path": "commentary:rashi:18:1:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Rashi: the LORD appeared to him 'to visit the sick' (לְבַקֵּר אֶת הַחוֹלֶה): it was the third day after his circumcision, and the Holy One came to ask after his welfare (Bava Metzia 86b). Rashi gives the purpose of the appearance, not a sense of the verb; the English 'appeared' stands."
+   },
+   "severity": "error",
+   "reason": "The summary says Rashi 'glosses the verb as to visit the sick'. Rashi does not gloss וַיֵּרָא; he states why God appeared. It is not an alternative English rendering, so 'records' is the wrong relation."
+  },
+  {
+   "ref": "18:1",
+   "path": "commentary:rashi:18:1:2",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: Mamre is the man who gave Abraham counsel about the circumcision; therefore God revealed Himself to Abraham in Mamre's portion (Bereshit Rabba). 'The terebinths of Mamre' are the grove that belongs to Mamre, the Amorite of 14:13, and the English agrees with this."
+   },
+   "severity": "error",
+   "reason": "The summary sets Rashi against the English and cites 14:13 for Mamre as a place name, but 14:13 (מַמְרֵא הָאֱמֹרִי) is a man. Rashi takes Mamre as the owner of the grove, and 'the terebinths of Mamre' says just that. The relation is 'follows'."
+  },
+  {
+   "ref": "18:1",
+   "path": "token:18:1.5.note",
+   "value": "A man's name (BDB: n.pr.m), as at 14:13, 'Mamre the Amorite'; the terebinths are his. Rashi: in his portion. See the commentary.",
+   "severity": "error",
+   "reason": "The old note set the place name against the lexicon. The Hebrew 'terebinths of Mamre' names the grove after its owner, the man of 14:13."
+  },
+  {
+   "ref": "18:1",
+   "path": "commentary:rashi:18:1:3",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Rashi: the word is written ישב without a vav, so it can be read יָשַׁב 'he sat': Abraham wanted to stand, and the Holy One said to him, 'Sit, and I will stand'. This is a sign for his children that God will stand among the judges while they sit (Ps. 82:1). A homily; the English keeps the participle 'sitting'."
+   },
+   "severity": "error",
+   "reason": "Rashi's point is the defective spelling ישב (כְּתִיב), which allows the reading 'he sat'. The summary said only that 'the text is written sitting', which leaves out the point of the comment."
+  },
+  {
+   "ref": "18:3",
+   "path": "english",
+   "value": "He said, \"My lords, if I have found favour in your sight, please do not pass by your servant.\"",
+   "severity": "error",
+   "reason": "Rashi does not read אֲדֹנָי as a singular. He says לַגָּדוֹל שֶׁבָּהֶם אָמַר וּקְרָאָם כֻּלָּם אֲדוֹנִים: Abraham addressed all three as 'lords' and spoke only the singular request to the greatest. By the decisions (Genesis 18–50, divine names), the English takes the normative reading, so 'My lords', and the holy reading ('my Lord', God) is recorded."
+  },
+  {
+   "ref": "18:3",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:3.1"
+     ],
+     "english": "He said",
+     "literal": "'and-said': the wayyiqtol introduces the speech."
+    },
+    {
+     "tokens": [
+      "18:3.2"
+     ],
+     "english": "My lords",
+     "literal": "'my-lords': אֲדֹנָי with qamats, a plural with the 1cs suffix. Rashi's first reading: Abraham called all three 'lords' and spoke the singular verbs to the greatest of them."
+    },
+    {
+     "tokens": [
+      "18:3.3",
+      "18:3.4",
+      "18:3.5",
+      "18:3.6",
+      "18:3.7"
+     ],
+     "english": "if I have found favour in your sight",
+     "literal": "'if now I-found favour in-your-eyes': a conditional with a qatal; the particle na is carried by the 'please' that follows."
+    },
+    {
+     "tokens": [
+      "18:3.8",
+      "18:3.9",
+      "18:3.10",
+      "18:3.11",
+      "18:3.12"
+     ],
+     "english": "please do not pass by your servant",
+     "literal": "'not now pass-over from-upon your-servant': a negative request; the particle na comes before the verb."
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changes the vocative, so the phrase for 18:3.2 changes with it."
+  },
+  {
+   "ref": "18:3",
+   "path": "literal",
+   "value": "and-said my-lords if now I-found favour in-your-eyes not now pass-over from-upon your-servant",
+   "severity": "error",
+   "reason": "אֲדֹנָי is a plural with the 1cs suffix: 'my-lords'."
+  },
+  {
+   "ref": "18:3",
+   "path": "token:18:3.2.gloss",
+   "value": "my lords",
+   "severity": "error",
+   "reason": "See the English patch: the plural of address, as Rashi reads it."
+  },
+  {
+   "ref": "18:3",
+   "path": "token:18:3.2.note",
+   "value": "Plural of אָדוֹן with the 1cs suffix, pointed with qamats (אֲדֹנָי, not אֲדֹנַי). Rashi's first reading (Shevuot 35b, 'profane'): Abraham called all three 'my lords', and the singular verbs that follow ('your eyes', 'do not pass') are spoken to the greatest of them. His second reading takes the word as holy, 'my Lord', addressed to God.",
+   "severity": "error",
+   "reason": "The old note said Rashi reads a singular address. He reads a plural address with a singular request."
+  },
+  {
+   "ref": "18:3",
+   "path": "note",
+   "value": "Ramban notes the qamats of אֲדֹנָי. The English 'My lords' is Rashi's first reading (חֹל, addressed to the three, the request to the greatest); his second reading (קֹדֶשׁ, 'my Lord', asking God to wait) is recorded in the commentary.",
+   "severity": "error",
+   "reason": "The note claimed that 'my lord' is the reading Rashi takes."
+  },
+  {
+   "ref": "18:3",
+   "path": "commentary:rashi:18:3:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: Abraham spoke to the greatest of the three but called them all 'lords' (אֲדוֹנִים); he asked the greatest not to pass by, since if he stayed his companions would stay with him. In this reading the word is profane (Shevuot 35b). Another reading: the word is holy, and Abraham asked the Holy One to wait for him while he ran and brought in the guests; the words were said before 'he ran to meet them', though written after. Both readings are in Bereshit Rabba. The English follows the first ('My lords') and records the second."
+   },
+   "severity": "error",
+   "reason": "The summary attached the Shevuot 35b citation to the holy reading; Rashi cites Shevuot for the profane one. It also did not say that the English 'My lord' differed from Rashi's plural address."
+  },
+  {
+   "ref": "18:3",
+   "path": "token:18:3.6.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "BDB's sense 2 'favour, acceptance' is the sense of מָצָא חֵן בְּעֵינֵי; sense 1 is grace or elegance of form."
+  },
+  {
+   "ref": "18:3",
+   "path": "grammar",
+   "value": [
+    "The protasis 'if I have found favour' is followed by the apodosis, a negative jussive, 'do not pass by'. The request comes after the condition.",
+    "The two particles na both mark entreaty. The English places 'please' before the request.",
+    "'Your servant' (avdekha) is the speaker's self-reference: 'I, your servant'. The pack's lexicon gives this as sense 6.",
+    "The etnaḥta falls on the first word, וַיֹּאמַר: all of Abraham's speech stands in the second half of the verse. The silluq on 'your servant' ends it."
+   ],
+   "severity": "error",
+   "reason": "The old accent note said the tipḥa on 'pass by' marks the request as its main point. The tipḥa is only the disjunctive before the silluq. The accent worth a learner's attention is the etnaḥta on וַיֹּאמַר."
+  },
+  {
+   "ref": "18:5",
+   "path": "token:18:5.5.sense",
+   "value": "II.8",
+   "severity": "error",
+   "reason": "In 'sustain your hearts' (with bread) the heart is the seat of the appetites (BDB's sense II.8, which cites this verse with Judg. 19:5 and Ps. 104:15), not 'the inner man'."
+  },
+  {
+   "ref": "18:5",
+   "path": "token:18:5.5.note",
+   "value": "the heart as the seat of the appetites: 'sustain your hearts' means 'refresh yourselves' with food. Rashi notes the spelling לִבְּכֶם, not לְבַבְכֶם.",
+   "severity": "error",
+   "reason": "Follows the new sense."
+  },
+  {
+   "ref": "18:5",
+   "path": "grammar",
+   "value": [
+    "The speech has two parts: Abraham's offer (a cohortative, an imperative and a yiqtol) and the men's reply (a yiqtol, 'you shall do', and a qatal, 'you have spoken').",
+    "The compound ki al-ken: 'since, for this reason'. The qatal 'you have passed' is the reason clause.",
+    "The three men speak as a group (plural verbs), but address Abraham in the singular (you do, you have said).",
+    "The etnahta on 'your servant' (18:5.13) divides the verse: the offer comes first, then the speech of the reply."
+   ],
+   "severity": "error",
+   "reason": "תַּעֲשֶׂה is a yiqtol, not an imperative; the old note called the reply 'a short imperative'."
+  },
+  {
+   "ref": "18:5",
+   "path": "commentary:rashi:18:5:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: in the Torah, the Prophets and the Writings, bread is 'the support of the heart': 'sustain your hearts' here, 'sustain your heart with a morsel of bread' (Judg. 19:5), 'bread that sustains the heart of man' (Ps. 104:15). R. Hama: the text writes לִבְּכֶם, not לְבַבְכֶם (with two bets, the two inclinations), which shows that the evil inclination does not rule over angels. The English follows the plain sense."
+   },
+   "severity": "error",
+   "reason": "The summary said the spelling was 'without the doubled letter'. לִבְּכֶם has a doubled (dagesh) bet. Rashi's point is that it is not לְבַבְכֶם, with two bets written."
+  },
+  {
+   "ref": "18:6",
+   "path": "literal",
+   "value": "and-hurried Abraham to-the-tent to Sarah and-said hurry three seahs flour fine-flour knead and-make cakes",
+   "severity": "error",
+   "reason": "לוּשִׁי has no conjunction; the literal line wrote 'and-knead'."
+  },
+  {
+   "ref": "18:6",
+   "path": "commentary:ibn-ezra:18:6:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Ibn Ezra: לוּשִׁי is 'like וַתָּלָשׁ' (2 Sam. 13:8, Tamar 'kneaded' the dough), a form of the same root לוּשׁ. The English 'knead' follows."
+   },
+   "severity": "error",
+   "reason": "The summary called וַתָּלָשׁ 'a verb of pulling apart'. It is the wayyiqtol of לוּשׁ 'knead' (2 Sam. 13:8), and Ibn Ezra cites it as the same verb."
+  },
+  {
+   "ref": "18:7",
+   "path": "commentary:rashi:18:7:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Rashi: there were three bulls, so as to serve the guests three tongues with mustard (Bava Metzia 87a). An aggadah drawn from the three words בֶּן בָּקָר, רַךְ and טוֹב. The Hebrew is singular, and the English stays with it."
+   },
+   "severity": "error",
+   "reason": "The comment is a talmudic aggadah. It is not a rival plain sense of the singular בֶּן־בָּקָר. The English is not departing from the normative commentator, so the relation is not-applicable."
+  },
+  {
+   "ref": "18:7",
+   "path": "note",
+   "value": "Rashi's comment that there were three bulls (Bava Metzia 87a) is an aggadah, not a reading of the singular בֶּן־בָּקָר. The English keeps 'a young bull', and the comment is given in the commentary. Radak reads a young male, tender and fat.",
+   "severity": "error",
+   "reason": "The old note said the English departs from the normative-commentator rule. It does not: Rashi's comment does not bear on the plain sense of the words."
+  },
+  {
+   "ref": "18:8",
+   "path": "english",
+   "value": "He took cream and milk and the young bull which he had prepared, and set them before them, while he stood by them under the tree, and they ate.",
+   "severity": "style",
+   "reason": "וְהוּא עֹמֵד is pronoun and participle, a circumstantial clause like וְהוּא יֹשֵׁב in 18:1, where the English has 'while he was sitting'. 'and he stood' reads it as a new action."
+  },
+  {
+   "ref": "18:8",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:8.1",
+      "18:8.2"
+     ],
+     "english": "He took cream",
+     "literal": "'and-took cream'."
+    },
+    {
+     "tokens": [
+      "18:8.3",
+      "18:8.4",
+      "18:8.5",
+      "18:8.6",
+      "18:8.7"
+     ],
+     "english": "and milk and the young bull which he had prepared",
+     "literal": "'and-milk and-son-of the-herd which he-made': עָשָׂה is 'prepared' (Rashi: אֲשֶׁר תִּקֵּן)."
+    },
+    {
+     "tokens": [
+      "18:8.8",
+      "18:8.9"
+     ],
+     "english": "and set them before them",
+     "literal": "'and-set before-them': the object 'them' is the food; 'before them' the men."
+    },
+    {
+     "tokens": [
+      "18:8.10",
+      "18:8.11",
+      "18:8.12",
+      "18:8.13",
+      "18:8.14"
+     ],
+     "english": "while he stood by them under the tree",
+     "literal": "'and-he standing upon-them under-the-tree': pronoun and participle, a circumstantial clause, as at 18:1; 'upon them' is 'before them' (Radak, Rashi at 18:2)."
+    },
+    {
+     "tokens": [
+      "18:8.15"
+     ],
+     "english": "and they ate",
+     "literal": "'and-they-ate': the plain verb. Rashi: they appeared to eat; Ibn Ezra: the food was consumed. See the note."
+    }
+   ],
+   "severity": "style",
+   "reason": "The English for 18:8.10–14 changes; the literal lines are corrected."
+  },
+  {
+   "ref": "18:8",
+   "path": "literal",
+   "value": "and-took cream and-milk and-son-of the-herd which he-made and-set before-them and-he standing upon-them under the-tree and-they-ate",
+   "severity": "error",
+   "reason": "בָּקָר is 'herd' (as in 18:7), not 'bull'; וַיֹּאכְלוּ is 3mp."
+  },
+  {
+   "ref": "18:8",
+   "path": "note",
+   "value": "Rashi and Ibn Ezra agree that the angels did not eat as men eat. Rashi: they appeared to eat (נִרְאוּ כְמִי שֶׁאָכְלוּ). Ibn Ezra (on 18:1): the food was consumed, as 'the fire consumes' (Lev. 6:3). The English translates the verb, 'they ate', and leaves how they ate to the notes.",
+   "severity": "error",
+   "reason": "The note said Ibn Ezra takes 'they ate' literally and is the basis of the English. He says the opposite: the food was consumed as fire consumes, not eaten."
+  },
+  {
+   "ref": "18:8",
+   "path": "token:18:8.15.note",
+   "value": "wayyiqtol, 3mp. Rashi: they appeared to eat; Ibn Ezra: the food was consumed, as by fire. See the note.",
+   "severity": "error",
+   "reason": "Follows the corrected note."
+  },
+  {
+   "ref": "18:8",
+   "path": "commentary:rashi:18:8:3",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: אֲשֶׁר עָשָׂה means 'which he had prepared' (תִּקֵּן); each dish, as soon as he had prepared it, he carried and set before them, one after another. The English 'which he had prepared' follows."
+   },
+   "severity": "error",
+   "reason": "Rashi says each item (קַמָּא קַמָּא) was brought as soon as it was ready. He does not say 'the first of the bulls'. His gloss תִּקֵּן is the English 'prepared', so the relation is 'follows'."
+  },
+  {
+   "ref": "18:8",
+   "path": "commentary:rashi:18:8:4",
+   "value": {
+    "relation": "records",
+    "summary": "Rashi: 'and they ate' means they appeared to eat; from this one learns that a man should not depart from the custom of the place (Bava Metzia 86b). Ibn Ezra agrees that they did not eat as men do: the food was consumed, as fire consumes. The English keeps the verb 'they ate', and the readings are given in the note."
+   },
+   "severity": "error",
+   "reason": "The summary said the English follows Ibn Ezra in taking 'they ate' plainly. Ibn Ezra, like Rashi, denies ordinary eating."
+  },
+  {
+   "ref": "18:4",
+   "path": "token:18:4.1.sense",
+   "value": "Pu 1",
+   "severity": "error",
+   "reason": "editor: יֻקַּח is passive (BDB files the form under Pu'al, 'be taken'); Qal 6 'fetch' is active. Found by the Haiku pilot review."
+  },
+  {
+   "ref": "18:4",
+   "path": "token:18:4.1.note",
+   "value": "passive jussive, 3rd masculine singular: 'let be brought'. BDB files the form under Pu'al (Pu 1, 'be taken'); it is often read as a Qal passive, as the parse gives it.",
+   "severity": "error",
+   "reason": "editor: the note follows the corrected sense."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "rashi:18:1:1",
+   "verdict": "consistent",
+   "comment": "the purpose of the appearance; relation corrected to not-applicable"
+  },
+  {
+   "anchor": "rashi:18:1:2",
+   "verdict": "consistent",
+   "comment": "'the terebinths of Mamre' fits Mamre as the owner of the grove"
+  },
+  {
+   "anchor": "rashi:18:1:3",
+   "verdict": "consistent",
+   "comment": "a homily on the defective spelling; the participle stands"
+  },
+  {
+   "anchor": "rashi:18:1:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:1:5",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:18:1:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:18:1:2",
+   "verdict": "not-applicable",
+   "comment": "bears on 18:8 'they ate'; see the note there"
+  },
+  {
+   "anchor": "rashi:18:2:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:2:2",
+   "verdict": "consistent",
+   "comment": "'before him' is Rashi's gloss"
+  },
+  {
+   "anchor": "rashi:18:2:3",
+   "verdict": "consistent",
+   "comment": "'he understood' is Rashi's reading of the second וַיַּרְא"
+  },
+  {
+   "anchor": "rashi:18:3:1",
+   "verdict": "contradicts",
+   "comment": "the English 'My lord' read a singular address; patched to 'My lords'"
+  },
+  {
+   "anchor": "rashi:18:4:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:4:2",
+   "verdict": "not-applicable"
+  },
+  {
+   "anchor": "rashi:18:4:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:5:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:5:4",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:18:5:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:18:5:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:6:1",
+   "verdict": "consistent",
+   "comment": "'flour, fine flour' keeps the two nouns apart, as Rashi does"
+  },
+  {
+   "anchor": "ibn-ezra:18:6:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:7:1",
+   "verdict": "not-applicable",
+   "comment": "an aggadah; the singular stands"
+  },
+  {
+   "anchor": "rashi:18:7:2",
+   "verdict": "consistent",
+   "comment": "'the lad' does not exclude Rashi's identification with Ishmael"
+  },
+  {
+   "anchor": "rashi:18:8:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:8:2",
+   "verdict": "consistent",
+   "comment": "'cream' is Rashi's reading of חֶמְאָה"
+  },
+  {
+   "anchor": "rashi:18:8:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "rashi:18:8:4",
+   "verdict": "contradicts",
+   "comment": "The English stands. The line translates the verb וַיֹּאכְלוּ. Rashi and Ibn Ezra agree that the angels did not truly eat, and the note now says so. Putting 'appeared to eat' in the English would explain the text, which the decisions forbid."
+  }
+ ]
+}

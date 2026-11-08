@@ -1,0 +1,658 @@
+{
+ "unit": "chayei-sarah-03",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "23:17",
+   "english": "And the field of Ephron which was in Machpelah, which was before Mamre, was made over: the field and the cave which was in it, and all the trees which were in the field, which were within its whole border all around.",
+   "literal": "and-stood field-of Ephron which in-the-Machpelah which before Mamre the-field and-the-cave which in-it and-all-of the-tree which in-the-field which in-all-of its-border round-about",
+   "tokens": [
+    {
+     "id": "23:17.1",
+     "gloss": "and stood",
+     "sense": "Qal 7",
+     "note": "Wayyiqtol of קוּם, Qal, third person masculine singular. The verb takes the masculine singular with the first noun of its subject, the field. The sense is 'stand', used of a sale that stands good and remains in force (Ibn Ezra: נתקיים ועמד, 'was confirmed and stood'). The verb comes first in the Hebrew; the English places it after the place names."
+    },
+    {
+     "id": "23:17.2",
+     "gloss": "the field of",
+     "sense": "1",
+     "note": "Construct state: 'the field of' Ephron. A plot of ground."
+    },
+    {
+     "id": "23:17.3",
+     "gloss": "Ephron",
+     "note": "A proper name: the seller of the field."
+    },
+    {
+     "id": "23:17.4",
+     "gloss": "which"
+    },
+    {
+     "id": "23:17.5",
+     "gloss": "in Machpelah",
+     "note": "Preposition ב with the place name Machpelah. The article in the Hebrew form is part of the name (as in 23:19)."
+    },
+    {
+     "id": "23:17.6",
+     "gloss": "which"
+    },
+    {
+     "id": "23:17.7",
+     "gloss": "before",
+     "sense": "I.6",
+     "note": "לִפְנֵי: the noun פָּנֶה, 'face', in the locative sense 'before, in front of'."
+    },
+    {
+     "id": "23:17.8",
+     "gloss": "Mamre",
+     "note": "A place name. Radak takes the city before which the field lay to be Hebron, also called Mamre (see 23:19)."
+    },
+    {
+     "id": "23:17.9",
+     "gloss": "the field",
+     "sense": "1",
+     "note": "Named again after the subject: the field, with the cave and the trees, is what is conveyed."
+    },
+    {
+     "id": "23:17.10",
+     "gloss": "and the cave"
+    },
+    {
+     "id": "23:17.11",
+     "gloss": "which"
+    },
+    {
+     "id": "23:17.12",
+     "gloss": "in it"
+    },
+    {
+     "id": "23:17.13",
+     "gloss": "and all of",
+     "sense": "1",
+     "note": "כֹּל in the construct before a noun: 'all the' trees."
+    },
+    {
+     "id": "23:17.14",
+     "gloss": "the trees",
+     "sense": "1",
+     "note": "Collective: 'tree, trees, wood'. The singular with כָּל names the trees of the plot together."
+    },
+    {
+     "id": "23:17.15",
+     "gloss": "which"
+    },
+    {
+     "id": "23:17.16",
+     "gloss": "in the field",
+     "sense": "1"
+    },
+    {
+     "id": "23:17.17",
+     "gloss": "which"
+    },
+    {
+     "id": "23:17.18",
+     "gloss": "within all of",
+     "sense": "1",
+     "note": "ב with כֹּל: 'within all of'."
+    },
+    {
+     "id": "23:17.19",
+     "gloss": "its border",
+     "sense": "1",
+     "note": "The noun with the third person masculine singular suffix: 'its border'."
+    },
+    {
+     "id": "23:17.20",
+     "gloss": "round about",
+     "note": "A noun of place used adverbially: 'all around' the border."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:17.1",
+      "23:17.2",
+      "23:17.3",
+      "23:17.4",
+      "23:17.5",
+      "23:17.6",
+      "23:17.7",
+      "23:17.8"
+     ],
+     "english": "And the field of Ephron which was in Machpelah, which was before Mamre, was made over",
+     "literal": "and-stood the-field-of Ephron which in-Machpelah which before Mamre: the verb first in the Hebrew, placed last in the English"
+    },
+    {
+     "tokens": [
+      "23:17.9",
+      "23:17.10",
+      "23:17.11",
+      "23:17.12"
+     ],
+     "english": "the field and the cave which was in it",
+     "literal": "the-field and-the-cave which in-it"
+    },
+    {
+     "tokens": [
+      "23:17.13",
+      "23:17.14",
+      "23:17.15",
+      "23:17.16"
+     ],
+     "english": "and all the trees which were in the field",
+     "literal": "and-all-of the-trees which in-the-field"
+    },
+    {
+     "tokens": [
+      "23:17.17",
+      "23:17.18",
+      "23:17.19",
+      "23:17.20"
+     ],
+     "english": "which were within its whole border all around",
+     "literal": "which in-all-of its-border round-about"
+    }
+   ],
+   "grammar": [
+    "The verse is a chain of nouns, each with an אֲשֶׁר clause that attaches it to the nearest place or thing: 'in Machpelah', 'before Mamre', 'in it', 'in the field', 'within its border'. The English uses 'which' for each.",
+    "The verb וַיָּקָם is a wayyiqtol, third person masculine singular: it continues the narrative in the past, and its subject follows it. It agrees with the first noun, שְׂדֵה עֶפְרוֹן, 'the field of Ephron', and the rest of the verse spells out what the field comprises.",
+    "הַשָּׂדֶה in 23:17.9 repeats the field, now with the article, in apposition: the field, and the cave and the trees that are in it and within its border.",
+    "Accents: the etnaḥta on מַמְרֵא (23:17.8) divides the verse, after the place names; the silluq on סָבִיב (23:17.20) ends it."
+   ],
+   "note": "The English puts the verb after the place names, as the sense of the whole sentence requires. The Hebrew gives no preposition for the buyer in this verse; 'to Abraham' comes in 23:18, and the English adds nothing here.",
+   "commentary": [
+    {
+     "anchor": "rashi:23:17:1",
+     "relation": "follows",
+     "summary": "Rashi says the field's standing (תְּקוּמָה) was that it passed from a commoner's hand to a king's, which is a midrashic remark; his plain sense is that the field, the cave and the trees stand for Abraham as a purchase. The English follows the plain sense (the sale stood good) and not the king."
+    },
+    {
+     "anchor": "ibn-ezra:23:17:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'נתקיים ועמד השדה למקנה', the field was confirmed and stood as a purchase. He says this verse is joined (דבק) to the verse above it, likewise 'גר ותושב אנכי' (23:4), and that the ten that the Gaon mentioned are not joined. The comment ends at 'וטעם:' in the source edition itself. The English takes קום as 'stood' in the sense of standing good."
+    },
+    {
+     "anchor": "radak:23:17:1",
+     "relation": "follows",
+     "summary": "Radak: it stood for Abraham as a purchase, like 'and it shall stand to him' (Lev 27:19 as he cites it), that is, it was confirmed in his hand. This supports 'stood' as standing good."
+    },
+    {
+     "anchor": "radak:23:17:2",
+     "relation": "records",
+     "summary": "Radak: the field and the cave lay before the city, and the city is called Mamre and is also called Hebron, as in 'on the face of Mamre, that is Hebron' (23:19). The English keeps 'before Mamre' and names Hebron in 23:19."
+    },
+    {
+     "anchor": "onkelos:23:17:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos renders the verb as וְקָם, 'stood', and the field as חֲקַל, 'field', and keeps the cave and the trees. It agrees with the English."
+    },
+    {
+     "anchor": "sforno:23:17:1",
+     "relation": "records",
+     "summary": "Sforno: the field was confirmed by the seals of the deed of purchase (נִתְקַיֵּם בְּחוֹתָמָיו שֶׁל סֵפֶר הַמִּקְנָה). This says how it was confirmed, an account of what happened; the English keeps 'stood' and does not name the seals."
+    }
+   ],
+   "apparatus": [
+    "The sense 'stood good' (a legal sense) is the reading taken. The Hebrew of the verse does not say how it was confirmed; Sforno's seals and Radak's 'in his hand' are readings of that, not of the words."
+   ],
+   "context": [
+    "The field is conveyed with its cave and with the trees within its borders, so the whole plot is named, not the field alone. The text describes it by its border on all sides."
+   ]
+  },
+  {
+   "ref": "23:18",
+   "english": "to Abraham as a purchase, in the sight of the Hittites, among all who came in at the gate of his city.",
+   "literal": "to-Abraham to-purchase to-eyes-of sons-of Heth in-all-of those-coming-in-of gate-of city-his",
+   "tokens": [
+    {
+     "id": "23:18.1",
+     "gloss": "to Abraham",
+     "note": "The lamed with the name: the one for whom the purchase is made. The verse has no finite verb."
+    },
+    {
+     "id": "23:18.2",
+     "gloss": "as a purchase",
+     "sense": "1",
+     "note": "מִקְנָה, 'purchase' (sense 1), the thing acquired. Sense 3, 'possession', is also possible; the English keeps 'purchase' because the chapter records a sale. Radak says that a deed of purchase (סֵפֶר מִקְנָה) was made; that is his account of what was done, not a gloss of the word."
+    },
+    {
+     "id": "23:18.3",
+     "gloss": "in the sight of",
+     "sense": "5",
+     "note": "לְעֵינֵי: the dual of עַיִן, 'eyes', used as the fixed phrase 'in the presence of, in full view of'."
+    },
+    {
+     "id": "23:18.4",
+     "gloss": "the sons of",
+     "sense": "2",
+     "note": "Plural construct: the group of people, 'the sons of Heth'."
+    },
+    {
+     "id": "23:18.5",
+     "gloss": "Heth",
+     "note": "A people's name, rendered 'the Hittites' by the decisions. The question whether they are the Hittites of Anatolia is in the context note."
+    },
+    {
+     "id": "23:18.6",
+     "gloss": "among all of",
+     "sense": "1",
+     "note": "ב with כֹּל: 'in the midst of all'. Rashi reads it as 'in the midst of all of them'."
+    },
+    {
+     "id": "23:18.7",
+     "gloss": "who came in",
+     "sense": "Qal 1",
+     "note": "Participle, qal of בּוֹא, masculine plural construct: 'those coming in' at the gate. Ibn Ezra reads the group as everyone who passes and returns."
+    },
+    {
+     "id": "23:18.8",
+     "gloss": "the gate of",
+     "note": "Construct: 'the gate of his city'. The entry has no senses."
+    },
+    {
+     "id": "23:18.9",
+     "gloss": "his city",
+     "sense": "1",
+     "note": "The noun with the third person masculine singular suffix."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:18.1",
+      "23:18.2"
+     ],
+     "english": "to Abraham as a purchase",
+     "literal": "to-Abraham to-purchase"
+    },
+    {
+     "tokens": [
+      "23:18.3",
+      "23:18.4",
+      "23:18.5"
+     ],
+     "english": "in the sight of the Hittites",
+     "literal": "to-eyes-of sons-of Heth: the decisions render בְּנֵי־חֵת 'the Hittites'"
+    },
+    {
+     "tokens": [
+      "23:18.6",
+      "23:18.7",
+      "23:18.8",
+      "23:18.9"
+     ],
+     "english": "among all who came in at the gate of his city",
+     "literal": "in-all-of those-coming-in gate-of city-his"
+    }
+   ],
+   "grammar": [
+    "The verse has no finite verb. It is a set of prepositional phrases that go with the verb 'stood' of 23:17: to Abraham, as a purchase, in the sight of the Hittites, among the people at the gate.",
+    "בָּאֵי שַׁעַר עִירוֹ is a participle in the construct: 'those coming in' (of) the gate of his city. The clause names the people who went through the gate, the public of the city.",
+    "לְעֵינֵי is a dual construct form ('the eyes of'), used as a fixed phrase meaning 'in the sight of'.",
+    "Accents: the etnaḥta on חֵת (23:18.5) divides the verse into two halves, 'to Abraham as a purchase, in the sight of the sons of Heth' and 'among all who came in at the gate of his city'. The tipḥa on לְמִקְנָה and on בְּכֹל are lesser disjunctives; the merkha on לְאַבְרָהָם and the munaḥ on לְעֵינֵי are conjunctive; the silluq on עִירוֹ ends the verse."
+   ],
+   "note": "The verse is a fragment with no verb. The English keeps it as a fragment; the sense of the verb comes from 23:17.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:23:18:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'in the sight of the sons of Heth' means 'the men of the place' (את אנשי המקום). The sons of Heth are the local population. The comment ends at 'וטעם:' in the source edition itself, so no reason is given there. The English keeps 'the Hittites' (the decisions) as the name of that group."
+    },
+    {
+     "anchor": "ibn-ezra:23:18:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra, normative: 'all who came in at the gate of his city' means 'every one who passes and returns' (כָּל עוֹבֵר וָשָׁב). The phrase is everyone who went through the gate. The English keeps 'came in at the gate' and adopts his reading of who the group is."
+    },
+    {
+     "anchor": "rashi:23:18:1",
+     "relation": "follows",
+     "summary": "Rashi reads בְּכֹל as 'in the midst of all of them, and in the presence of all of them he transferred it to him' (בְּקֶרֶב כֻּלָּם וּבְמַעֲמַד כֻּלָּם הִקְנָהוּ לוֹ). The English takes the preposition as 'among' in his first sense."
+    },
+    {
+     "anchor": "radak:23:18:1",
+     "relation": "records",
+     "summary": "Radak: Abraham weighed the silver before them, Ephron sold to him before them, and the deed of purchase was made. He takes the witnesses to be present at the weighing and the sale. That is an account of what happened, so it stays in the note; the English keeps the words."
+    },
+    {
+     "anchor": "radak:23:18:2",
+     "relation": "follows",
+     "summary": "Radak: all who came in at the gate of his city, who were there at the time of the purchase. He takes the group as the people present as witnesses, which the English keeps."
+    },
+    {
+     "anchor": "radak:23:18:3",
+     "relation": "not-applicable",
+     "summary": "Radak gives a masoretic note on the spelling בְּכֹל: one verse is its sign (וְחַד פֶּסֶק סִימָן, 'one verse is the sign'), Exodus 27:19, 'לְכֹל כְּלֵי הַמִּשְׁכָּן בְּכָל עֲבֹדָתוֹ'. It concerns the spelling and does not bear on the sense."
+    },
+    {
+     "anchor": "onkelos:23:18:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos renders למקנה as לִזְבִינוֹהִי, 'as his purchase' (a noun with a suffix), which agrees with 'purchase'. He renders בְּנֵי־חֵת as בְּנֵי חִתָּאָה, and בָּאֵי שַׁעַר as עָלֵי תְּרַע, 'those who enter the gate'. The English 'came in at the gate' agrees."
+    }
+   ],
+   "context": [
+    "בְּנֵי־חֵת, 'the sons of Heth', is rendered 'the Hittites' as the decisions require. Whether this people is connected with the Hittites of Anatolia (Hatti) is disputed. Some take the name as the same as that of the Anatolian Hittites, who had a kingdom in Anatolia in the second millennium BCE; others note that the names in this chapter (Ephron, Zohar) are West Semitic and the setting is the hill country of Canaan, and take them as a local people of Canaan. Ramban holds that the Hittites were of the families of Canaan, as he says on 23:19. The English does not decide the question.",
+    "The city gate was the usual place for public business in the ancient Near East, and dealings there were witnessed by the people present. The verse names that public as the witnesses of the sale."
+   ]
+  },
+  {
+   "ref": "23:19",
+   "english": "And afterwards Abraham buried Sarah, his wife, in the cave of the field of Machpelah, before Mamre, that is Hebron, in the land of Canaan.",
+   "literal": "and-after that buried Abraham [object] Sarah his-wife to the-cave-of field-of the-Machpelah upon face-of Mamre she Hebron in-land-of Canaan",
+   "tokens": [
+    {
+     "id": "23:19.1",
+     "gloss": "and after",
+     "sense": "3",
+     "note": "אַחֲרֵי with ו: the idiom 'after that', 'afterwards'. The lemma is an adverb and a preposition; the sense is 'after that'."
+    },
+    {
+     "id": "23:19.2",
+     "gloss": "that",
+     "note": "With the preceding אַחֲרֵי, the idiom 'after that', 'afterwards'. The entry has no senses."
+    },
+    {
+     "id": "23:19.3",
+     "gloss": "buried",
+     "sense": "Qal",
+     "note": "Qatal of קָבַר, Qal, third person masculine singular. After a fronted time phrase the verb stays a qatal and is past; it is not a wayyiqtol."
+    },
+    {
+     "id": "23:19.4",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "23:19.5",
+     "gloss": "[object marker]",
+     "note": "אֶת before the definite object. No English counterpart."
+    },
+    {
+     "id": "23:19.6",
+     "gloss": "Sarah"
+    },
+    {
+     "id": "23:19.7",
+     "gloss": "his wife",
+     "sense": "2",
+     "note": "The construct of אִשָּׁה with the third person masculine singular suffix: 'his wife'."
+    },
+    {
+     "id": "23:19.8",
+     "gloss": "into",
+     "sense": "2",
+     "note": "אֶל of motion: 'into' the cave. Radak and Onkelos read 'in' (בִּמְעָרַת); the English keeps the sense of motion and records theirs."
+    },
+    {
+     "id": "23:19.9",
+     "gloss": "the cave of",
+     "note": "Construct chain: the cave of the field of Machpelah. The entry has no senses."
+    },
+    {
+     "id": "23:19.10",
+     "gloss": "the field of",
+     "sense": "1",
+     "note": "Construct: 'the field of' Machpelah."
+    },
+    {
+     "id": "23:19.11",
+     "gloss": "Machpelah",
+     "note": "The article is in the Hebrew form, on the last noun of the chain; the English gives the name."
+    },
+    {
+     "id": "23:19.12",
+     "gloss": "facing",
+     "sense": "II.1",
+     "note": "עַל with פְּנֵי: 'on the face of', that is, facing Mamre."
+    },
+    {
+     "id": "23:19.13",
+     "gloss": "the face of",
+     "sense": "I.6",
+     "note": "Construct of פָּנֶה, 'face', in the locative sense 'before, in front of'."
+    },
+    {
+     "id": "23:19.14",
+     "gloss": "Mamre",
+     "note": "A place name."
+    },
+    {
+     "id": "23:19.15",
+     "gloss": "that is",
+     "sense": "6",
+     "note": "The feminine personal pronoun, written הוא (ketiv) and read הִיא (qere), as regularly in the Pentateuch; here it is a copula in an identity clause: 'Mamre, it is Hebron'. Sense 6, 'that, it'."
+    },
+    {
+     "id": "23:19.16",
+     "gloss": "Hebron",
+     "note": "The name of the city. The verse says that the place called Mamre is Hebron; Radak takes Mamre as a name of the city (see 23:17)."
+    },
+    {
+     "id": "23:19.17",
+     "gloss": "in the land of",
+     "sense": "2.a",
+     "note": "ב with אֶרֶץ, 'land, country, territory'."
+    },
+    {
+     "id": "23:19.18",
+     "gloss": "Canaan",
+     "sense": "2.a",
+     "note": "The land west of the Jordan, into which the Hebrews came and where they settled."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:19.1",
+      "23:19.2"
+     ],
+     "english": "And afterwards",
+     "literal": "and-after that"
+    },
+    {
+     "tokens": [
+      "23:19.3",
+      "23:19.4",
+      "23:19.5",
+      "23:19.6",
+      "23:19.7"
+     ],
+     "english": "Abraham buried Sarah, his wife",
+     "literal": "buried Abraham [object] Sarah his-wife: the verb first in the Hebrew"
+    },
+    {
+     "tokens": [
+      "23:19.8",
+      "23:19.9",
+      "23:19.10",
+      "23:19.11"
+     ],
+     "english": "in the cave of the field of Machpelah",
+     "literal": "to the-cave-of field-of the-Machpelah"
+    },
+    {
+     "tokens": [
+      "23:19.12",
+      "23:19.13",
+      "23:19.14"
+     ],
+     "english": "before Mamre",
+     "literal": "upon face-of Mamre"
+    },
+    {
+     "tokens": [
+      "23:19.15",
+      "23:19.16"
+     ],
+     "english": "that is Hebron",
+     "literal": "she Hebron"
+    },
+    {
+     "tokens": [
+      "23:19.17",
+      "23:19.18"
+     ],
+     "english": "in the land of Canaan",
+     "literal": "in-land-of Canaan"
+    }
+   ],
+   "grammar": [
+    "The phrase ואחרי כן is an idiom, 'after that'. It links this sentence to the purchase of 23:17 and 23:18.",
+    "The verb is a qatal after a fronted time phrase, so it is past. The verb comes first, then the subject Abraham, then the object Sarah, marked with אֶת.",
+    "The pronoun הִוא (23:19.15) is the Pentateuch's spelling הוא for the feminine, read הִיא (qere). It is feminine, 'she, it', and works as the copula: the place called Mamre, it is Hebron. In 23:2 the same city is 'Kiriath-arba, that is Hebron'.",
+    "The construct chain מְעָרַת שְׂדֵה הַמַּכְפֵּלָה is 'the cave of the field of Machpelah', with the article on the last noun.",
+    "Accents: tevir on הַמַּכְפֵּלָה (23:19.11) and etnaḥta on חֶבְרוֹן (23:19.16) divide the verse; the silluq on כְּנָעַן (23:19.18) ends it."
+   ],
+   "note": "The English reads the verb in the past and keeps the Hebrew order of the place phrases. 'Into' keeps the preposition's sense of motion; see the token note.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:23:19:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra, normative: 'and from then the field stood as a burial holding for him and his seed' (ומאז נתקיים השדה לאחוזת קבר לו ולזרעו). The passage is told, he says, to make known the excellence of the land of Israel over all lands, for the living and the dead, and to fulfil God's word to Abraham that he should have a possession. The English 'afterwards' is consistent with this; the purposes he gives are homily and are not in the English."
+    },
+    {
+     "anchor": "ramban:23:19:2",
+     "relation": "follows",
+     "summary": "Ramban: 'in the land of Canaan' is written to show that the place is in the land of Canaan, in the mountain where the Canaanite dwells, and not in the land of the Philistines, where Abraham had lived many days (21:34). He says the Hittites are of the families of Canaan. He gives homiletic reasons for the passage (God's kindness to Abraham, the patriarchs' burial place to be honoured) and says he does not understand the reason of 'Rabbi Abraham' (Ibn Ezra) that it shows the excellence of the land. The English follows his plain point about the land."
+    },
+    {
+     "anchor": "radak:23:19:1",
+     "relation": "records",
+     "summary": "Radak: אֶל מְעָרַת means 'in the cave' (כְּמוֹ בִּמְעָרַת), as 'to the ark' means 'in the ark' (Exod 25:21 as he cites it). The English keeps 'into', the sense of motion; his 'in' is recorded here."
+    },
+    {
+     "anchor": "onkelos:23:19:1",
+     "relation": "records",
+     "summary": "Targum Onkelos renders the phrase as 'in the cave of the field of Machpelah' (בִּמְעָרַת חֲקַל כָּפֶלְתָּא), reading אֶל as 'in', as Radak does. The English keeps 'into'; the other reading is recorded here. The rest of his rendering, 'on the face of Mamre' and 'in the land of Canaan', agrees with the English."
+    }
+   ],
+   "apparatus": [
+    "Ketiv and qere: the consonantal text has הוא ('he') for the feminine pronoun, as everywhere in the Pentateuch; the qere הִיא ('she, it') is read and translated.",
+    "Radak identifies Mamre and Hebron as one city (see 23:17); the verse itself says 'Mamre, that is Hebron'. Radak and Onkelos read אֶל מְעָרַת as 'in the cave'; the English keeps 'into'."
+   ],
+   "context": [
+    "Mamre and Hebron: the verse says 'before Mamre, that is Hebron'. The Torah gives this place more than one name: here Mamre and Hebron, in 23:2 'Kiriath-arba, that is Hebron', and in 35:27 'Mamre, Kiriath-arba, that is Hebron'. Radak takes Mamre as a name of the city. The English gives the names as the verse gives them.",
+    "Canaan: the land is named as the land of Canaan, west of the Jordan. Ramban's point is that the text names Canaan, not the land of the Philistines, to place this city in the hill country."
+   ]
+  },
+  {
+   "ref": "23:20",
+   "english": "And the field and the cave which was in it were made over to Abraham as a possession for a grave from the Hittites.",
+   "literal": "and-stood the-field and-the-cave which in-it to-Abraham to-possession-of grave from-with sons-of Heth",
+   "tokens": [
+    {
+     "id": "23:20.1",
+     "gloss": "and stood",
+     "sense": "Qal 7",
+     "note": "Wayyiqtol of קוּם, Qal, third person masculine singular. The same sense as 23:17.1: the transaction stood, remained in force."
+    },
+    {
+     "id": "23:20.2",
+     "gloss": "the field",
+     "sense": "1"
+    },
+    {
+     "id": "23:20.3",
+     "gloss": "and the cave"
+    },
+    {
+     "id": "23:20.4",
+     "gloss": "which"
+    },
+    {
+     "id": "23:20.5",
+     "gloss": "in it"
+    },
+    {
+     "id": "23:20.6",
+     "gloss": "to Abraham"
+    },
+    {
+     "id": "23:20.7",
+     "gloss": "as a possession of",
+     "note": "ל with the construct of אֲחֻזָּה, 'holding, possession': the field is held as a possession. The entry has no senses."
+    },
+    {
+     "id": "23:20.8",
+     "gloss": "a grave",
+     "note": "קֶבֶר, 'grave, burial place', is in the absolute state: the construct is אֲחֻזַּת before it. The vowel of קָבֶר is the pausal form, under the etnaḥta. The English 'for a grave' keeps the noun's sense."
+    },
+    {
+     "id": "23:20.9",
+     "gloss": "from",
+     "sense": "4",
+     "note": "מִן with אֵת, 'with, from the side of': the source. The field came from the Hittites."
+    },
+    {
+     "id": "23:20.10",
+     "gloss": "the sons of",
+     "sense": "2",
+     "note": "Plural construct: the group, 'the sons of Heth'."
+    },
+    {
+     "id": "23:20.11",
+     "gloss": "Heth",
+     "note": "The people's name; the English is 'the Hittites', see the context note at 23:18."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:20.1",
+      "23:20.2",
+      "23:20.3",
+      "23:20.4",
+      "23:20.5"
+     ],
+     "english": "And the field and the cave which was in it were made over",
+     "literal": "and-stood the-field and-the-cave which in-it"
+    },
+    {
+     "tokens": [
+      "23:20.6",
+      "23:20.7",
+      "23:20.8"
+     ],
+     "english": "to Abraham as a possession for a grave",
+     "literal": "to-Abraham to-possession-of grave"
+    },
+    {
+     "tokens": [
+      "23:20.9",
+      "23:20.10",
+      "23:20.11"
+     ],
+     "english": "from the Hittites",
+     "literal": "from-with sons-of Heth"
+    }
+   ],
+   "grammar": [
+    "The verse returns to the verb of 23:17, 'and stood', with the field and the cave as the subject. The verb is masculine singular for a compound subject, as in 23:17.",
+    "לַאֲחֻזַּת קָבֶר is 'as a holding of burial': the lamed marks what the field became ('as, for'). אֲחֻזַּת is the construct and קָבֶר the absolute, in its pausal form.",
+    "The source is named as 'from the sons of Heth' (מֵאֵת), not as Ephron, who is the seller named in 23:17. The English keeps the Hebrew's source.",
+    "Accents: etnaḥta on קָ֑בֶר (23:20.8) divides the verse; the silluq on חֵֽת (23:20.11) ends it. The paragraph mark after the verse closes the section of the field."
+   ],
+   "note": "The English gives the Hebrew's source, 'from the Hittites', as the people, as the Hebrew does.",
+   "commentary": [
+    {
+     "anchor": "radak:23:20:1",
+     "relation": "records",
+     "summary": "Radak: Ephron gave it with their consent and will, since it seemed good in the eyes of all of them that Abraham should have a holding among them. This explains 'from' as the people's agreement. It is an account of what happened, so it stays in the note; the English keeps 'from the Hittites'."
+    },
+    {
+     "anchor": "onkelos:23:20:1",
+     "relation": "follows",
+     "summary": "Targum Onkelos: 'stood the field and the cave in it to Abraham as a holding of burial from the sons of Heth' (וְקָם חַקְלָא וּמְעַרְתָּא דִּי בֵיהּ לְאַבְרָהָם לְאַחֲסָנַת קְבוּרָא מִן בְּנֵי חִתָּאָה). It is close to the English line."
+    },
+    {
+     "anchor": "sforno:23:20:1",
+     "relation": "records",
+     "summary": "Sforno: the whole community agreed that it should be his as a grave-holding (לַאֲחֻזַּת קֶבֶר). This explains 'from' by the people's agreement. The English keeps the words and leaves the agreement to the note."
+    }
+   ],
+   "context": [
+    "The sons of Heth are the Hittites of the text, see the context note at 23:18. The verse names them as the source of the holding; the seller of 23:17 is Ephron, named in the same chapter."
+   ]
+  }
+ ]
+}

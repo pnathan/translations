@@ -1,0 +1,385 @@
+{
+  "unit": "vayera-13",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "21:7",
+      "english": "Sarah said, \"Who would have said to Abraham that Sarah has nursed children? For I have borne a son in his old age.\"",
+      "literal": "and-said who spoke to-Abraham has-nursed children Sarah for I-have-borne son to-his-old-age",
+      "tokens": [
+        {"id": "21:7.1", "gloss": "and she said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר, third feminine singular: Sarah is the speaker, and the speech that follows is hers."},
+        {"id": "21:7.2", "gloss": "who", "sense": "a", "note": "The interrogative מִי, used of a person. The clause is a question of wonder, not a request for information."},
+        {"id": "21:7.3", "gloss": "would have said", "note": "Piel perfect of מָלַל, third masculine singular. In a question with מִי the perfect is read as a rhetorical perfect: no one would have said such a thing."},
+        {"id": "21:7.4", "gloss": "to Abraham"},
+        {"id": "21:7.5", "gloss": "that Sarah has nursed", "sense": "Hiph", "note": "Hifil perfect of יָנַק, third feminine singular: the causative 'to give suck'. It is the content of the question."},
+        {"id": "21:7.6", "gloss": "children", "sense": "2", "note": "The plural of בֵּן in the sense 'children'. The plural is explained in different ways in the commentary."},
+        {"id": "21:7.7", "gloss": "Sarah"},
+        {"id": "21:7.8", "gloss": "for", "sense": "3", "note": "כִּי introduces the reason and the proof: she has borne a son herself."},
+        {"id": "21:7.9", "gloss": "I have borne", "sense": "Qal 1", "note": "Qal perfect of יָלַד, first common singular. Of a mother the verb is 'bear, bring forth' (Qal 1), not 'beget' (Qal 2)."},
+        {"id": "21:7.10", "gloss": "a son", "sense": "1"},
+        {"id": "21:7.11", "gloss": "in his old age", "note": "לִ with זְקֻנִים, a plural noun with the third masculine singular suffix: 'to his old ages', idiomatically 'in his old age'. The noun has no senses in the pack."}
+      ],
+      "phrases": [
+        {"tokens": ["21:7.1"], "english": "Sarah said", "literal": "and-she-said: the wayyiqtol opens the speech"},
+        {"tokens": ["21:7.2", "21:7.3", "21:7.4"], "english": "Who would have said to Abraham", "literal": "who spoke to-Abraham: an interrogative clause, read as a question of wonder"},
+        {"tokens": ["21:7.5", "21:7.6", "21:7.7"], "english": "that Sarah has nursed children?", "literal": "has-nursed children Sarah: 'that' supplies the clause that the verb of saying takes"},
+        {"tokens": ["21:7.8", "21:7.9", "21:7.10", "21:7.11"], "english": "For I have borne a son in his old age.", "literal": "for I-have-borne son to-his-old-age: the reason, in the first person"}
+      ],
+      "grammar": [
+        "The speech of verse 7 is Sarah's. The wayyiqtol וַתֹּאמֶר (21:7.1) introduces it, and the first clause is a question of wonder: the interrogative מִי and the perfect מִלֵּל ask who could have said such a thing.",
+        "הֵינִיקָה (21:7.5) is a hifil perfect of יָנַק, 'to give suck'. In the first clause Sarah speaks of herself in the third person; in the second, with כִּי, she speaks as 'I'.",
+        "The clause כִּי יָלַדְתִּי בֵן לִזְקֻנָיו (21:7.8–11) gives the reason and the proof. The bearing is of a son of her own, the same act that the question sets against the nursing.",
+        "The etnaḥta on שָׂרָה (21:7.7) divides the question from the reason that follows it.",
+        "בָּנִים is plural. The English keeps 'children'; why the plural is used is disputed (see the commentary)."
+      ],
+      "commentary": [
+        {"anchor": "rashi:21:7:1", "relation": "records", "summary": "Rashi reads מִי as a word of praise: 'see who he is, and how great is the One who keeps His promise and fulfils it'. The English reads a question of wonder and does not adopt the praise sense; it is kept here."},
+        {"anchor": "rashi:21:7:2", "relation": "declines", "summary": "Rashi notes that the verse uses מִלֵּל and not דִּבֵּר, and that its numerical value is 100, meaning 'at the end of a hundred years for Abraham'. This is a homiletic reading of the letters, not the sense of the verb, which the English renders as 'said'."},
+        {"anchor": "rashi:21:7:3", "relation": "records", "summary": "Rashi asks why 'children' is plural: at the feast the women of rank brought their own sons, and Sarah nursed them, because they said she had not borne a son but had taken in a foundling from the market."},
+        {"anchor": "ramban:21:7:1", "relation": "follows", "summary": "Ramban first gives Rashi's praise sense, then holds that the question means that no one would have said to Abraham, even to comfort him, that Sarah would nurse children, since it never came into anyone's heart. The English follows this sense of the question."},
+        {"anchor": "radak:21:7:2", "relation": "follows", "summary": "Radak takes the question the same way: who would have spoken to Abraham that Sarah nurses children, so new a thing, were it not that God had done a wonder with him in giving him a son in his old age."},
+        {"anchor": "radak:21:7:4", "relation": "records", "summary": "Radak reads 'children' as nursing children in general, and allows that she nursed her own son and might nurse other children later. He also gives the midrashic reading that the women, doubting her, brought their sons, and she nursed them."},
+        {"anchor": "onkelos:21:7:1", "relation": "records", "summary": "Onkelos renders the question as 'Who would believe him who said to Abraham that Sarah would nurse sons?', reading it as a question of belief rather than of who spoke, and renders 'children' as 'sons'."}
+      ],
+      "apparatus": [
+        "The sense of מִי is open: a question of wonder (the English) or a word of praise (Rashi, and Ramban's first reading)."
+      ],
+      "context": [
+        "A childless wife's arrangement by which a slave-woman bore a child to her husband, with the child reckoned to the wife, is attested in the Nuzi tablets (northern Mesopotamia, fifteenth to fourteenth centuries BCE). How closely that practice bears on Genesis 16 and 21 is disputed. The verse itself gives Sarah's own bearing as the point."
+      ]
+    },
+    {
+      "ref": "21:8",
+      "english": "The child grew up and was weaned, and Abraham made a great feast on the day Isaac was weaned.",
+      "literal": "and-grew the-child and-was-weaned and-made Abraham feast great in-day-of being-weaned (object marker) Isaac",
+      "tokens": [
+        {"id": "21:8.1", "gloss": "and grew up", "sense": "Qal 1", "note": "Wayyiqtol of גָּדַל. Qal 1, 'grow up', is the sense of a child growing; Qal 2, 'become great', is the other reading in the lexicon."},
+        {"id": "21:8.2", "gloss": "the child"},
+        {"id": "21:8.3", "gloss": "and was weaned", "sense": "Niph", "note": "Nifal wayyiqtol of גָּמַל, 'be weaned'. The verse gives no age; see the commentary."},
+        {"id": "21:8.4", "gloss": "and made", "sense": "Qal II.1", "note": "Wayyiqtol of עָשָׂה, 'make'. The verb is the ordinary one for holding a feast."},
+        {"id": "21:8.5", "gloss": "Abraham"},
+        {"id": "21:8.6", "gloss": "a feast"},
+        {"id": "21:8.7", "gloss": "great", "sense": "1", "note": "The adjective follows its noun, as adjectives do in Hebrew. 'Great' here is great in extent: a large feast."},
+        {"id": "21:8.8", "gloss": "on the day", "sense": "1", "note": "בְּ with יוֹם: 'in the day of', the time of the event."},
+        {"id": "21:8.9", "gloss": "being weaned", "sense": "Niph", "note": "Nifal infinitive construct of גָּמַל. The verb has its own subject, Isaac, marked by the object marker."},
+        {"id": "21:8.10", "gloss": "(object marker)", "note": "The object marker אֵת before the subject of the infinitive. It is not translated."},
+        {"id": "21:8.11", "gloss": "Isaac"}
+      ],
+      "phrases": [
+        {"tokens": ["21:8.1", "21:8.2"], "english": "The child grew up", "literal": "and-grew the-child"},
+        {"tokens": ["21:8.3"], "english": "and was weaned", "literal": "and-was-weaned"},
+        {"tokens": ["21:8.4", "21:8.5", "21:8.6", "21:8.7"], "english": "and Abraham made a great feast", "literal": "and-made Abraham feast great"},
+        {"tokens": ["21:8.8", "21:8.9", "21:8.10", "21:8.11"], "english": "on the day Isaac was weaned", "literal": "in-day-of being-weaned (object marker) Isaac: the infinitive with its subject"}
+      ],
+      "grammar": [
+        "Three wayyiqtols (21:8.1, .3, .4) carry the narrative in sequence: the child grows and is weaned, and then Abraham makes the feast.",
+        "The infinitive construct הִגָּמֵל (21:8.9) has Isaac as its subject, marked with the object marker (21:8.10–11). The literal is 'on the day of Isaac's being weaned'; the English reads the infinitive as a clause, 'the day Isaac was weaned'.",
+        "The adjective גָּדוֹל follows מִשְׁתֶּה, as adjectives do in Hebrew; the English puts 'great' before the noun.",
+        "The etnaḥta on וַיִּגָּמַל (21:8.3) divides the verse: the child's story ends with the weaning, and the feast begins the second clause."
+      ],
+      "commentary": [
+        {"anchor": "rashi:21:8:1", "relation": "records", "summary": "Rashi gives the weaning as the end of twenty-four months. The verse gives no age, and the English states none."},
+        {"anchor": "rashi:21:8:2", "relation": "declines", "summary": "Rashi, from Bereshit Rabbah, says the guests at the feast were the great men of the generation, Shem, Eber and Abimelech. This is midrash, not the plain sense of 'a great feast', and the English does not adopt it."},
+        {"anchor": "radak:21:8:1", "relation": "records", "summary": "Radak says the nursing ended twenty-four months after birth, the usual time for a child to nurse. The English gives no age."},
+        {"anchor": "radak:21:8:2", "relation": "not-applicable", "summary": "Radak gives the reason for the feast: either it was the custom of the time, or Abraham made it for joy in Isaac; a child who has finished nursing begins to speak and is taught. This is an explanation, not a reading of the words."},
+        {"anchor": "onkelos:21:8:1", "relation": "records", "summary": "Onkelos renders the feast as 'a great drinking' (mishtiyā rabbā) and the child as 'the boy' (ravyā). The English keeps 'feast'."}
+      ],
+      "apparatus": [],
+      "context": [
+        "The verse reports the feast as Abraham's act and does not say whether a feast at weaning was general custom in its period. Radak allows either (see the commentary)."
+      ]
+    },
+    {
+      "ref": "21:9",
+      "english": "Sarah saw the son of Hagar the Egyptian, whom she had borne to Abraham, playing.",
+      "literal": "and-saw Sarah (object marker) son Hagar the-Egyptian who she-bore to-Abraham playing",
+      "tokens": [
+        {"id": "21:9.1", "gloss": "and saw", "sense": "Qal 1.a", "note": "Wayyiqtol of רָאָה, third feminine singular: the subject is Sarah."},
+        {"id": "21:9.2", "gloss": "Sarah"},
+        {"id": "21:9.3", "gloss": "(object marker)", "note": "The object marker אֵת before the object of the seeing. It is not translated."},
+        {"id": "21:9.4", "gloss": "son", "sense": "1", "note": "The construct form בֶּן־ before the proper name Hagar: 'son of Hagar'."},
+        {"id": "21:9.5", "gloss": "Hagar"},
+        {"id": "21:9.6", "gloss": "the Egyptian", "note": "The gentilic with the article: Hagar is named an Egyptian (see 16:1). The pack gives no senses for the adjective."},
+        {"id": "21:9.7", "gloss": "whom", "note": "The relative אֲשֶׁר begins the clause that describes the son."},
+        {"id": "21:9.8", "gloss": "she had borne", "sense": "Qal 1", "note": "Qatal of יָלַד with a woman as the subject: 'bear' (Qal 1), not 'beget'."},
+        {"id": "21:9.9", "gloss": "to Abraham"},
+        {"id": "21:9.10", "gloss": "playing", "sense": "Pi 2", "note": "Piel participle of צָחַק. The Piel has two senses in the lexicon: 'jest' (Pi 1) and 'sport, play' (Pi 2). Ibn Ezra takes it as play, and the English follows him."}
+      ],
+      "phrases": [
+        {"tokens": ["21:9.1", "21:9.2"], "english": "Sarah saw", "literal": "and-saw Sarah"},
+        {"tokens": ["21:9.3", "21:9.4", "21:9.5", "21:9.6"], "english": "the son of Hagar the Egyptian", "literal": "(object marker) son Hagar the-Egyptian"},
+        {"tokens": ["21:9.7", "21:9.8", "21:9.9"], "english": "whom she had borne to Abraham", "literal": "who she-bore to-Abraham"},
+        {"tokens": ["21:9.10"], "english": "playing", "literal": "playing: the participle describes the action seen"}
+      ],
+      "grammar": [
+        "The verse has one main verb, the wayyiqtol וַתֵּרֶא (21:9.1). Its object, 'the son of Hagar the Egyptian' (21:9.2–6), is defined by the relative clause that follows (21:9.7–9).",
+        "The relative clause אֲשֶׁר יָלְדָה לְאַבְרָהָם (21:9.7–9) gives the son's descent: his mother bore him to Abraham.",
+        "The participle מְצַחֵק (21:9.10) is the last word of the verse. The participle describes an action going on as Sarah saw it: 'playing'.",
+        "The silluq on מְצַחֵק closes the verse."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:21:9:1", "relation": "follows", "summary": "Ibn Ezra: this is the usual play of a boy, and Sarah envied him for being large of build. The English 'playing' follows him. The idolatry, bloodshed and illicit sex that Rashi and Ramban find in the word are not taken here."},
+        {"anchor": "rashi:21:9:1", "relation": "declines", "summary": "Rashi lists three senses of the word from other verses (idolatry, bloodshed, illicit sex), and then reads it as a quarrel with Isaac over the inheritance, the son claiming the firstborn's double portion and shooting arrows at Isaac in the field. The English declines these: the verse says only 'playing', and the quarrel is not in the words."},
+        {"anchor": "ramban:21:9:1", "relation": "records", "summary": "Ramban gives Rashi's inheritance quarrel and the three senses, and cites a Tosefta in which Rabbi Akiva reads the word as idolatry. Ramban himself holds that the word here means only a claim to the inheritance. The English does not adopt these readings."},
+        {"anchor": "radak:21:9:1", "relation": "records", "summary": "Radak: as if he mocked Isaac, who was born to the old. The English keeps 'playing' and does not say whom the boy mocked."},
+        {"anchor": "sforno:21:9:1", "relation": "not-applicable", "summary": "Sforno gives Sarah's thought: she supposed the mockery came from what the boy had heard from his mother, as the saying goes that a child's talk in the street is what he hears at home. This is an explanation of the cause, not a reading of the word."},
+        {"anchor": "sforno:21:9:2", "relation": "records", "summary": "Sforno reads the mockery as aimed at the feast in Abraham's house, the boy saying that Sarah had conceived by Abimelech. He heard such talk later from the scoffers of the time, and if he had mocked at Isaac's birth, Sarah, busy then, did not notice."},
+        {"anchor": "onkelos:21:9:1", "relation": "records", "summary": "Onkelos renders the participle as 'laughing' (mechayyekh). The English keeps 'playing', as Ibn Ezra does."}
+      ],
+      "apparatus": [
+        "The piel מְצַחֵק: 'playing' (Pi 2, the English, on Ibn Ezra's reading), 'jest' (Pi 1), 'mocking' (Rashi, Radak, and Sforno's second reading), 'laughing' (Onkelos). The choice rests on the normative commentator, Ibn Ezra."
+      ],
+      "context": []
+    },
+    {
+      "ref": "21:10",
+      "english": "And she said to Abraham, \"Drive out this maidservant and her son, for the son of this maidservant shall not inherit with my son, with Isaac.\"",
+      "literal": "and-said to-Abraham drive-out the-maidservant this and-(object marker) son-her for not shall-inherit son the-maidservant this with my-son with Isaac",
+      "tokens": [
+        {"id": "21:10.1", "gloss": "And she said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר, third feminine singular: Sarah speaks to Abraham."},
+        {"id": "21:10.2", "gloss": "to Abraham"},
+        {"id": "21:10.3", "gloss": "drive out", "sense": "Pi", "note": "Piel imperative, second masculine singular, of גָּרַשׁ: 'drive out, away'. Abraham is the one addressed."},
+        {"id": "21:10.4", "gloss": "the maidservant", "sense": "1", "note": "אָמָה: a female slave. The English 'maidservant' keeps her status."},
+        {"id": "21:10.5", "gloss": "this", "sense": "2", "note": "The demonstrative with the article, in apposition to the noun: 'this maidservant'."},
+        {"id": "21:10.6", "gloss": "and", "note": "ו with the object marker. The object marker is not translated."},
+        {"id": "21:10.7", "gloss": "her son", "sense": "1", "note": "The construct בֶּן with the third feminine singular suffix: 'her son'."},
+        {"id": "21:10.8", "gloss": "for", "sense": "3", "note": "כִּי here is causal: the reason for the command."},
+        {"id": "21:10.9", "gloss": "not"},
+        {"id": "21:10.10", "gloss": "shall inherit", "sense": "Qal 2", "note": "Yiqtol of יָרַשׁ, third masculine singular, with the negative: 'shall not be heir'."},
+        {"id": "21:10.11", "gloss": "the son of", "sense": "1"},
+        {"id": "21:10.12", "gloss": "the maidservant", "sense": "1"},
+        {"id": "21:10.13", "gloss": "this", "sense": "2"},
+        {"id": "21:10.14", "gloss": "with", "sense": "1", "note": "עִם of fellowship: 'with my son'. The preposition is repeated before Isaac (21:10.16)."},
+        {"id": "21:10.15", "gloss": "my son", "sense": "1", "note": "The construct בֶּן with the first common singular suffix."},
+        {"id": "21:10.16", "gloss": "with", "sense": "1"},
+        {"id": "21:10.17", "gloss": "Isaac"}
+      ],
+      "phrases": [
+        {"tokens": ["21:10.1", "21:10.2"], "english": "And she said to Abraham", "literal": "and-said to-Abraham"},
+        {"tokens": ["21:10.3", "21:10.4", "21:10.5"], "english": "Drive out this maidservant", "literal": "drive-out the-maidservant this"},
+        {"tokens": ["21:10.6", "21:10.7"], "english": "and her son", "literal": "and-(object marker) son-her"},
+        {"tokens": ["21:10.8"], "english": "for", "literal": "for: the reason for the command"},
+        {"tokens": ["21:10.9", "21:10.10", "21:10.11", "21:10.12", "21:10.13"], "english": "the son of this maidservant shall not inherit", "literal": "not shall-inherit son the-maidservant this: the English puts the negated verb before its subject"},
+        {"tokens": ["21:10.14", "21:10.15"], "english": "with my son", "literal": "with my-son"},
+        {"tokens": ["21:10.16", "21:10.17"], "english": "with Isaac", "literal": "with Isaac: the second 'with' names the other ground of exclusion (commentary)"}
+      ],
+      "grammar": [
+        "The speech is a command, 'Drive out' (singular imperative), followed by its reason, introduced by כִּי, 'for'.",
+        "The accent etnaḥta on בְּנָהּ (21:10.7) divides the command, 'drive out this maidservant and her son', from the reason that follows.",
+        "לֹא goes with the yiqtol יִירַשׁ (21:10.9–10): 'shall not inherit'. The subject is 'the son of this maidservant', placed after the verb.",
+        "The double preposition עִם (21:10.14–17) names 'my son' and then 'Isaac'. The English keeps both 'with'; the commentary gives Rashi's reading of the pair.",
+        "The silluq on יִצְחָק (21:10.17) ends the speech and the verse."
+      ],
+      "commentary": [
+        {"anchor": "rashi:21:10:1", "relation": "records", "summary": "Rashi reads 'with my son, with Isaac' as two grounds for exclusion: the son is not worthy as Isaac is, and he is not Abraham's son in the full sense. Both grounds hold of him, so the verse names both. The English keeps the two phrases without choosing between the grounds."},
+        {"anchor": "radak:21:10:1", "relation": "not-applicable", "summary": "Radak: the son cannot be driven out without the mother, since she would not remain after him. This explains why the mother is named with the son."},
+        {"anchor": "radak:21:10:2", "relation": "not-applicable", "summary": "Radak: Ishmael thought himself equal to Isaac in the inheritance, since he too was Abraham's son, and so he mocked and jeered at Isaac. This is Sarah's reason as Radak reads it."},
+        {"anchor": "radak:21:10:4", "relation": "not-applicable", "summary": "Radak: it is as if Sarah said, Has not God told you that he would establish his covenant with Isaac, whom Sarah shall bear to you (17:21)? This is her appeal, not a reading of the words."},
+        {"anchor": "onkelos:21:10:1", "relation": "follows", "summary": "Onkelos renders the verse the same way, 'with my son, with Isaac'. The English follows."},
+        {"anchor": "sforno:21:10:2", "relation": "records", "summary": "Sforno: her son would take everything, so the son is driven out, since it is not right that he inherit with Isaac."},
+        {"anchor": "sforno:21:10:3", "relation": "records", "summary": "Sforno takes 'shall not inherit' to exclude even a part of the inheritance. The English leaves the scope as the verse does."},
+        {"anchor": "sforno:21:10:4", "relation": "records", "summary": "Sforno: the son is not reckoned to Abraham's line, since a child follows the blemished parent, that is, the maidservant."}
+      ],
+      "apparatus": [],
+      "context": [
+        "The verse states Sarah's claim about inheritance without citing a law. Whose child a slave-woman's child is, in the household, is the question behind the claim; see the note on 21:7 for the Nuzi parallel and its dispute."
+      ]
+    },
+    {
+      "ref": "21:11",
+      "english": "The matter was very displeasing in Abraham's eyes concerning his son.",
+      "literal": "and-was-displeasing the-matter very in-eyes-of Abraham concerning matter-of son-his",
+      "tokens": [
+        {"id": "21:11.1", "gloss": "and was displeasing", "sense": "Qal 1", "note": "Wayyiqtol of רָעַע, Qal 1, 'be displeasing'. The subject is the matter, not Abraham."},
+        {"id": "21:11.2", "gloss": "the matter", "sense": "IV", "note": "דָּבָר in the sense 'matter, affair' (IV): Sarah's demand."},
+        {"id": "21:11.3", "gloss": "very", "sense": "2", "note": "The adverb מְאֹד after its verb and subject."},
+        {"id": "21:11.4", "gloss": "in the eyes of", "sense": "5", "note": "The plural construct of עַיִן with ב: 'in the eyes of', as judged by someone."},
+        {"id": "21:11.5", "gloss": "Abraham"},
+        {"id": "21:11.6", "gloss": "concerning", "sense": "II", "note": "עַל with אוֹדֹת: 'on account of', 'concerning'."},
+        {"id": "21:11.7", "gloss": "the matter of", "note": "אוֹדֹת, a noun used here with עַל. The lexicon gives the root sense 'cause, circumstance'; Ibn Ezra explains it by דָּבָר, 'matter'. The pack gives no senses."},
+        {"id": "21:11.8", "gloss": "his son", "sense": "1"}
+      ],
+      "phrases": [
+        {"tokens": ["21:11.1", "21:11.2", "21:11.3"], "english": "The matter was very displeasing", "literal": "was-displeasing the-matter very"},
+        {"tokens": ["21:11.4", "21:11.5"], "english": "in Abraham's eyes", "literal": "in-eyes-of Abraham"},
+        {"tokens": ["21:11.6", "21:11.7", "21:11.8"], "english": "concerning his son.", "literal": "concerning matter-of son-his"}
+      ],
+      "grammar": [
+        "The verb is a wayyiqtol with a noun subject, 'the matter'. The order is verb, subject, adverb: 'was displeasing, the matter, very'.",
+        "'In Abraham's eyes' is an idiom for what seems good or bad to a person. The phrase is the plural construct of עַיִן with ב.",
+        "The noun אוֹדֹת stands with עַל. Its sense is taken from דָּבָר, 'matter' (Ibn Ezra); the English 'concerning his son' keeps that sense.",
+        "The etnaḥta on אַבְרָהָם (21:11.5) divides the clause before 'concerning his son'."
+      ],
+      "commentary": [
+        {"anchor": "ibn-ezra:21:11:1", "relation": "follows", "summary": "Ibn Ezra: אוֹדוֹת is 'like' דָּבָר, a matter or affair, so 'concerning his son' means 'the matter of his son'. The English adopts this reading."},
+        {"anchor": "rashi:21:11:1", "relation": "records", "summary": "Rashi: the matter is that Ishmael had gone into bad company (Bereshit Rabbah); the plain sense, he says, is that the matter concerned Sarah's request that he be sent away. The English leaves the matter as the verse states it."},
+        {"anchor": "ramban:21:11:1", "relation": "records", "summary": "Ramban: the verse honours Abraham. He was not greatly displeased for love of the maidservant, and he would have done Sarah's will had she asked only for the maidservant to be sent away; he was grieved for his son. God told him not to be displeased over the boy or the maidservant at all."},
+        {"anchor": "radak:21:11:1", "relation": "records", "summary": "Radak: Abraham loved Ishmael as his firstborn, had taught him the way of the LORD, and was grieved to send him from home. He bore his wife's quarrel until the word came to him."},
+        {"anchor": "onkelos:21:11:1", "relation": "records", "summary": "Onkelos renders the matter as 'the word' (pitgamā) and keeps the sense of its being grievous to Abraham."}
+      ],
+      "apparatus": [
+        "The lexicon gives the root of אוֹדָה as 'cause, circumstance'. Ibn Ezra's 'matter' (דָּבָר) is the reading the English follows."
+      ],
+      "context": []
+    },
+    {
+      "ref": "21:12",
+      "english": "God said to Abraham, \"Do not let it be displeasing in your eyes concerning the boy and concerning your maidservant. Whatever Sarah says to you, listen to her voice, for through Isaac shall your offspring be named.\"",
+      "literal": "and-said God to-Abraham not let-be-displeasing in-eyes-your concerning the-boy and-concerning maidservant-your all which says to-you Sarah listen voice-her for in-Isaac shall-be-named to-you seed",
+      "tokens": [
+        {"id": "21:12.1", "gloss": "God said", "sense": "Qal 1", "note": "Wayyiqtol of אָמַר, third masculine singular: God speaks."},
+        {"id": "21:12.2", "gloss": "God", "sense": "3", "note": "אֱלֹהִים of the God of Israel, rendered 'God' (the decision on divine names). The plural form takes a singular verb."},
+        {"id": "21:12.3", "gloss": "to", "sense": "1"},
+        {"id": "21:12.4", "gloss": "Abraham"},
+        {"id": "21:12.5", "gloss": "not"},
+        {"id": "21:12.6", "gloss": "let be displeasing", "sense": "Qal 1", "note": "Jussive of רָעַע, third masculine singular, with אַל: 'let it not be displeasing'."},
+        {"id": "21:12.7", "gloss": "in your eyes", "sense": "5", "note": "The plural construct of עַיִן with the second masculine singular suffix."},
+        {"id": "21:12.8", "gloss": "concerning", "sense": "II"},
+        {"id": "21:12.9", "gloss": "the boy", "sense": "1"},
+        {"id": "21:12.10", "gloss": "and concerning", "sense": "II"},
+        {"id": "21:12.11", "gloss": "your maidservant", "sense": "1", "note": "אָמָה with the second masculine singular suffix."},
+        {"id": "21:12.12", "gloss": "whatever", "sense": "2.a", "note": "כֹּל with the relative: 'all, all things', so 'whatever'. Radak restricts it to this matter (commentary)."},
+        {"id": "21:12.13", "gloss": "which"},
+        {"id": "21:12.14", "gloss": "says", "sense": "Qal 1", "note": "Yiqtol of אָמַר, third feminine singular: Sarah is the subject."},
+        {"id": "21:12.15", "gloss": "to you", "sense": "1"},
+        {"id": "21:12.16", "gloss": "Sarah"},
+        {"id": "21:12.17", "gloss": "listen", "sense": "Qal 1", "note": "Imperative of שָׁמַע, second masculine singular. With בְּקוֹל it means 'listen to', that is, obey."},
+        {"id": "21:12.18", "gloss": "to her voice"},
+        {"id": "21:12.19", "gloss": "for", "sense": "3"},
+        {"id": "21:12.20", "gloss": "through Isaac"},
+        {"id": "21:12.21", "gloss": "shall be named", "sense": "Niph 2", "note": "Nifal yiqtol of קָרָא, third masculine singular: 'be called', 'be named'."},
+        {"id": "21:12.22", "gloss": "for you", "note": "לְ with the second masculine singular suffix: 'for you', that is, reckoned as yours."},
+        {"id": "21:12.23", "gloss": "offspring", "sense": "4", "note": "זֶרַע: seed, offspring (sense 4). The subject comes last in the clause."}
+      ],
+      "phrases": [
+        {"tokens": ["21:12.1", "21:12.2", "21:12.3", "21:12.4"], "english": "God said to Abraham", "literal": "and-said God to-Abraham"},
+        {"tokens": ["21:12.5", "21:12.6", "21:12.7", "21:12.8", "21:12.9"], "english": "Do not let it be displeasing in your eyes concerning the boy", "literal": "not let-be-displeasing in-eyes-your concerning the-boy"},
+        {"tokens": ["21:12.10", "21:12.11"], "english": "and concerning your maidservant", "literal": "and-concerning maidservant-your"},
+        {"tokens": ["21:12.12", "21:12.13", "21:12.14", "21:12.15", "21:12.16"], "english": "Whatever Sarah says to you", "literal": "all which says to-you Sarah"},
+        {"tokens": ["21:12.17", "21:12.18"], "english": "listen to her voice", "literal": "listen voice-her"},
+        {"tokens": ["21:12.19", "21:12.20", "21:12.21", "21:12.22", "21:12.23"], "english": "for through Isaac shall your offspring be named", "literal": "for in-Isaac shall-be-named to-you seed: the subject 'seed' comes last"}
+      ],
+      "grammar": [
+        "God's speech has a negative jussive, 'let not be displeasing' (21:12.5–6), and then a positive command, 'listen' (21:12.17).",
+        "כֹּל אֲשֶׁר תֹּאמַר (21:12.12–14) is 'all which she says', a relative clause that the English renders 'whatever Sarah says'.",
+        "The nifal יִקָּרֵא (21:12.21) has זָרַע as its subject, placed last in the clause. The English moves it to the end as 'your offspring shall be named'.",
+        "The etnaḥta on בְּקֹלָהּ (21:12.18) divides the command from its reason, which begins with כִּי."
+      ],
+      "commentary": [
+        {"anchor": "rashi:21:12:1", "relation": "declines", "summary": "Rashi infers that Abraham was subordinate to Sarah in prophecy, since he must hear her voice. The verse gives a command from God. Rashi's inference from it is not a reading of the words, and the English does not adopt it."},
+        {"anchor": "radak:21:12:1", "relation": "follows", "summary": "Radak: God, who knew his heart, named the maidservant too, because Abraham had been grieved for her as well as for the boy; she had served him for years and had borne him a son. The English keeps 'concerning your maidservant' as the verse states it."},
+        {"anchor": "radak:21:12:2", "relation": "records", "summary": "Radak restricts 'whatever Sarah says' to this matter, the sending away of the boy and the maidservant, since she speaks truly that he will not inherit with Isaac. The English keeps 'whatever'."},
+        {"anchor": "radak:21:12:3", "relation": "follows", "summary": "Radak: the promise 'to you and to your seed' (17:8) was said only of Isaac, since he is the seed set apart for Abraham. The English follows the Hebrew 'through Isaac your offspring shall be named'."},
+        {"anchor": "onkelos:21:12:1", "relation": "records", "summary": "Onkelos renders 'God' as 'the LORD' here and 'seed' as 'sons' ('through Isaac sons shall be named to you'). The English keeps 'God' and 'offspring'."},
+        {"anchor": "sforno:21:12:3", "relation": "not-applicable", "summary": "Sforno: she spoke rightly in asking for this. This is an evaluation of her request, not a reading of the words."},
+        {"anchor": "sforno:21:12:4", "relation": "records", "summary": "Sforno: Ishmael and his sons shall be servants to Isaac, since the seed is named through Isaac and not through Ishmael. The English does not state the exclusion."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "21:13",
+      "english": "And also the son of the maidservant, I will make him into a nation, for he is your offspring.",
+      "literal": "and-also (object marker) son-of the-maidservant to-nation I-will-make-him for your-offspring he",
+      "tokens": [
+        {"id": "21:13.1", "gloss": "and also", "note": "וְגַם: 'and also', a conjunction with an adverb. The pack gives it no senses."},
+        {"id": "21:13.2", "gloss": "(object marker)", "note": "The object marker before 'son of the maidservant'. It is not translated."},
+        {"id": "21:13.3", "gloss": "the son of", "sense": "1"},
+        {"id": "21:13.4", "gloss": "the maidservant", "sense": "1"},
+        {"id": "21:13.5", "gloss": "into a nation", "note": "לְ with גּוֹי, 'a nation'. The noun has no senses in the pack."},
+        {"id": "21:13.6", "gloss": "I will make him", "sense": "Qal 5.a", "note": "Yiqtol of שׂוּם, first common singular, with the third masculine singular suffix: 'make him' (Qal 5.a, 'make, for, transform into')."},
+        {"id": "21:13.7", "gloss": "for", "sense": "3"},
+        {"id": "21:13.8", "gloss": "your offspring", "sense": "4"},
+        {"id": "21:13.9", "gloss": "he", "sense": "3", "note": "The independent pronoun follows its predicate, with minimal emphasis, and resumes the subject, the son."}
+      ],
+      "phrases": [
+        {"tokens": ["21:13.1", "21:13.2", "21:13.3", "21:13.4"], "english": "And also the son of the maidservant", "literal": "and-also (object marker) son-of the-maidservant"},
+        {"tokens": ["21:13.5", "21:13.6"], "english": "I will make him into a nation", "literal": "to-nation I-will-make-him: the complement comes first in the Hebrew"},
+        {"tokens": ["21:13.7", "21:13.8", "21:13.9"], "english": "for he is your offspring", "literal": "for your-offspring he"}
+      ],
+      "grammar": [
+        "The verse opens with גַּם (also), which adds the son of the maidservant to the one just named (21:12). It is the same command for the same speaker, God.",
+        "לְגוֹי stands before its verb: 'for a nation I will make him'. The English puts the complement after the verb, 'make him into a nation'.",
+        "The pronoun הוּא follows its predicate 'your offspring', so it has the least emphasis and resumes the subject, the son. The English keeps the order: 'he is your offspring'.",
+        "The etnaḥta on אֲשִׂימֶנּוּ (21:13.6) divides the promise from its reason, and the silluq on הוּא closes the verse."
+      ],
+      "commentary": [
+        {"anchor": "radak:21:13:1", "relation": "not-applicable", "summary": "Radak: do not worry about him if he goes out of your house. This is consolation, not a reading of the words."},
+        {"anchor": "onkelos:21:13:1", "relation": "records", "summary": "Onkelos renders 'I will make into a people' and 'for he is your son', where the Hebrew has 'offspring'. The English keeps 'offspring'."},
+        {"anchor": "sforno:21:13:1", "relation": "records", "summary": "Sforno: Abraham should not grieve at sending the boy away, since he sends away the son of the maidservant and not his own son."},
+        {"anchor": "sforno:21:13:2", "relation": "records", "summary": "Sforno: 'for he is your offspring' does not say that he is himself fit for that. The English keeps the bare statement."}
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "21:14",
+      "english": "Abraham rose early in the morning and took bread and a skin of water, and gave them to Hagar, putting them on her shoulder, and the boy, and sent her away. She went and wandered in the wilderness of Beersheba.",
+      "literal": "and-rose-early Abraham in-the-morning and-took bread and-skin water and-gave to Hagar placing on her-shoulder and-(object marker) the-boy and-sent-her and-went and-wandered in-wilderness-of Beer-sheba",
+      "tokens": [
+        {"id": "21:14.1", "gloss": "rose early", "note": "Hifil wayyiqtol of שָׁכַם, 'rise early': an idiom for setting out at dawn. The pack gives it no senses."},
+        {"id": "21:14.2", "gloss": "Abraham"},
+        {"id": "21:14.3", "gloss": "in the morning", "sense": "1", "note": "בְּ with the article and בֹּקֶר: 'in the morning'."},
+        {"id": "21:14.4", "gloss": "and took", "sense": "Qal 1", "note": "Wayyiqtol of לָקַח, 'take, take in hand'."},
+        {"id": "21:14.5", "gloss": "bread"},
+        {"id": "21:14.6", "gloss": "and a skin", "note": "חֵמָה: a vessel for water (Ibn Ezra), here a skin (the pack's 'waterskin'). The pack gives no senses."},
+        {"id": "21:14.7", "gloss": "of water"},
+        {"id": "21:14.8", "gloss": "and gave", "sense": "Qal 1", "note": "Wayyiqtol of נָתַן, 'give'. The object is the bread and the skin, understood from the verb before."},
+        {"id": "21:14.9", "gloss": "to", "sense": "1"},
+        {"id": "21:14.10", "gloss": "Hagar"},
+        {"id": "21:14.11", "gloss": "putting", "sense": "Qal 1.b", "note": "Participle of שׂוּם, 'put upon'. It attaches to the giving, 'gave, putting on her shoulder'."},
+        {"id": "21:14.12", "gloss": "on", "sense": "II.1"},
+        {"id": "21:14.13", "gloss": "her shoulder", "sense": "1", "note": "שְׁכֶם with the third feminine singular suffix. The pack gives neck and back; 'shoulder' is the part the load rests on, and sense 1 is the nearer."},
+        {"id": "21:14.14", "gloss": "and", "note": "ו with the object marker, which is not translated."},
+        {"id": "21:14.15", "gloss": "the boy", "note": "The object of the giving or of the placing: the grammar allows either (see the grammar notes and the commentary)."},
+        {"id": "21:14.16", "gloss": "and sent her away", "sense": "Pi 2.a", "note": "Piel wayyiqtol of שָׁלַח with the third feminine singular suffix. Sforno reads 'escorted her' (commentary)."},
+        {"id": "21:14.17", "gloss": "she went", "sense": "Qal I.1", "note": "Wayyiqtol of הָלַךְ, third feminine singular: 'go, walk'."},
+        {"id": "21:14.18", "gloss": "and wandered", "sense": "Qal 1", "note": "Wayyiqtol of תָּעָה, 'wander about'. Ibn Ezra: she did not know the way."},
+        {"id": "21:14.19", "gloss": "in the wilderness", "sense": "1", "note": "בְּ with מִדְבַּר: the uncultivated land used for pasture."},
+        {"id": "21:14.20", "gloss": "Beer-", "note": "The first word of the place name Beersheba."},
+        {"id": "21:14.21", "gloss": "-sheba", "note": "The second word of the place name; English reads it as one name."}
+      ],
+      "phrases": [
+        {"tokens": ["21:14.1", "21:14.2", "21:14.3"], "english": "Abraham rose early in the morning", "literal": "and-rose-early Abraham in-the-morning"},
+        {"tokens": ["21:14.4", "21:14.5", "21:14.6", "21:14.7"], "english": "and took bread and a skin of water", "literal": "and-took bread and-skin water"},
+        {"tokens": ["21:14.8", "21:14.9", "21:14.10"], "english": "and gave them to Hagar", "literal": "and-gave to Hagar"},
+        {"tokens": ["21:14.11", "21:14.12", "21:14.13"], "english": "putting them on her shoulder", "literal": "placing on her-shoulder"},
+        {"tokens": ["21:14.14", "21:14.15"], "english": "and the boy", "literal": "and-(object marker) the-boy"},
+        {"tokens": ["21:14.16"], "english": "and sent her away", "literal": "and-sent-her"},
+        {"tokens": ["21:14.17", "21:14.18"], "english": "She went and wandered", "literal": "she-went and-wandered"},
+        {"tokens": ["21:14.19", "21:14.20", "21:14.21"], "english": "in the wilderness of Beersheba", "literal": "in-wilderness-of Beer-sheba"}
+      ],
+      "grammar": [
+        "The verse is a sequence of wayyiqtols (21:14.1, .4, .8, .16, .17, .18): an early start, the provision, the dismissal, and the wandering.",
+        "The participle שָׂם (21:14.11) is a subordinate act: 'gave, putting on her shoulder'. The bread and the skin are the things placed.",
+        "'And the boy' (21:14.14–15) is ambiguous. It may be the object of 'gave' (Ramban, Sforno) or a thing placed on her shoulder with the bread and the skin (Rashi). The English keeps both readings open.",
+        "The etnaḥta on וַֽיְשַׁלְּחֶ֑הָ (21:14.16) closes the dismissal and divides the verse before the wandering."
+      ],
+      "commentary": [
+        {"anchor": "rashi:21:14:1", "relation": "records", "summary": "Rashi gives the reason for bread and water rather than silver and gold: Abraham hated the boy for going out into bad company. The English gives the list without a motive, and Rashi's motive is recorded here."},
+        {"anchor": "rashi:21:14:2", "relation": "records", "summary": "Rashi reads 'and the boy' as also placed on her shoulder, the grammatical reading, and adds a midrash (Bereshit Rabbah): Sarah had cast an evil eye on the boy, and the heat seized him so that he could not walk. The midrash is not the plain sense; the English keeps 'and the boy' open between the readings."},
+        {"anchor": "rashi:21:14:3", "relation": "declines", "summary": "Rashi, from Pirkei de-Rabbi Eliezer, says that 'she wandered' means she went back to the idols of her father's house. The English gives the plain sense of wandering, and the idols are not in the words."},
+        {"anchor": "ibn-ezra:21:14:1", "relation": "follows", "summary": "Ibn Ezra: the חֵמָה is a vessel, which may be of skin or of wood (cf. Habakkuk 2:15, מְסַפֵּחַ חֲמָתְךָ). The English follows the vessel and takes it as a skin, the material the lexicon gives. His remark on those who wonder at Abraham's obedience is not a reading of the words."},
+        {"anchor": "ibn-ezra:21:14:2", "relation": "follows", "summary": "Ibn Ezra: the bread and the water were enough to reach Beersheba, for Abraham was then in Gerar. She went and did not know the way, and wandered. The English follows this. He says that silver and gold may have been given, but the verse does not say so, and the English does not say it."},
+        {"anchor": "ramban:21:14:1", "relation": "records", "summary": "Ramban: 'and the boy' goes back to 'gave': he gave to Hagar, and also the boy, so that the boy went with her wherever she went."},
+        {"anchor": "radak:21:14:1", "relation": "not-applicable", "summary": "Radak: Abraham rose early to do God's command. This is a reason, not a reading of the words."},
+        {"anchor": "radak:21:14:2", "relation": "records", "summary": "Radak: he gave food for a day or two, and water. She was going back toward Egypt or to her kin, since she was an Egyptian. He also gave silver and gold, though the verse does not say so. The English states only the bread and the water."},
+        {"anchor": "radak:21:14:4", "relation": "records", "summary": "Radak: the boy was fifteen and walked ahead of her; when he tired she carried him on her shoulder or in her lap. The English gives no age and no order of walking."},
+        {"anchor": "radak:21:14:5", "relation": "records", "summary": "Radak: 'sent her away' means that he sent her from his house, or that he escorted her out of the city. The English keeps the verb's plain sense, 'sent her away'."},
+        {"anchor": "radak:21:14:6", "relation": "not-applicable", "summary": "Radak: she did not know the way once she had entered the wilderness. This explains why she wandered."},
+        {"anchor": "sforno:21:14:2", "relation": "records", "summary": "Sforno: the skin of water is given as a mark of her status as a maidservant (cf. 16:9), but the righteous man did not withhold what they needed. After they strayed, the only thing they lacked was water."},
+        {"anchor": "sforno:21:14:3", "relation": "records", "summary": "Sforno: he also gave her the boy. 'And the boy' is the object of 'gave'."},
+        {"anchor": "sforno:21:14:4", "relation": "records", "summary": "Sforno: he 'escorted' her out of his great kindness, as in 'and Abraham went with them to send them' (18:16). The English keeps 'sent her away'."},
+        {"anchor": "onkelos:21:14:1", "relation": "follows", "summary": "Onkelos renders the verse the same way: bread, a skin of water (raqbā), placed on her shoulder with the boy, and she went and strayed in the wilderness of Beersheba. The English follows."}
+      ],
+      "apparatus": [
+        "חֵמָה: the pack lists 'waterskin' (BDB); Ibn Ezra says 'a vessel, perhaps of skin or of wood'. The English gives a skin.",
+        "'And the boy' (21:14.14–15): object of the giving (Ramban, Sforno) or of the placing (Rashi). The English keeps both open."
+      ],
+      "context": [
+        "Water on a journey in the arid south was carried in skins of leather or goatskin, the usual containers. The verse does not name the material.",
+        "Beersheba lies at the southern edge of the land, in the arid Negev. The verse names its wilderness as the place where Hagar wandered."
+      ]
+    }
+  ]
+}

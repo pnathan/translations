@@ -1,0 +1,472 @@
+{
+ "unit": "vayera-16",
+ "model": "sonnet",
+ "summary": "The unit is careful in its token analysis but has one grammatical fault at its centre: תִּהְיֶה in 21:30 is third feminine singular and the translation, notes and commentary summaries treat it as having the plural lambs as its subject; the English now reads 'it' and the notes say that the commentators supply a feminine singular subject. The numeral שֶׁבַע was wrongly called irregular. In 21:33 the sense chosen for שֵׁם is the mechanical first one, the context note cites Isaiah 40:28 for an epithet that is not there, and the meaning of El Olam was missing. Several commentary summaries (Ibn Ezra, Rashi, Radak, Sforno on 21:30; Radak on 21:31 and 21:34) misreported the Hebrew, and several accent notes named minor accents for the main divisions.",
+ "patches": [
+  {
+   "ref": "21:30",
+   "path": "english",
+   "value": "He said, \"You are to take seven ewe-lambs from my hand, so that it may be a witness for me that I dug this well.\"",
+   "severity": "error",
+   "reason": "תִּהְיֶה is third feminine SINGULAR, so 'they will be' misreports the verb; its subject is not the plural noun כְּבָשֹׂת (compare Rashi's זאת, Radak's הַמִּקְנָה הַזֹּאת, Sforno's הַבְּרִית, all feminine singular). 'It' keeps the singular and leaves open what it stands for. Also the yiqtol of תִּקַּח is an instruction ('you are to take'), which the translator's own note says; 'you will take' reads as a bare prediction."
+  },
+  {
+   "ref": "21:30",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:30.1",
+      "21:30.2"
+     ],
+     "english": "He said",
+     "literal": "and-said that: the wayyiqtol opens the verse; the recitative כִּי introducing the speech has no English counterpart"
+    },
+    {
+     "tokens": [
+      "21:30.3",
+      "21:30.4",
+      "21:30.5"
+     ],
+     "english": "seven ewe-lambs",
+     "literal": "[object] seven ewe-lambs: the object stands before its verb in the Hebrew; English uses the plain order"
+    },
+    {
+     "tokens": [
+      "21:30.6"
+     ],
+     "english": "You are to take",
+     "literal": "you-will-take: a yiqtol of instruction"
+    },
+    {
+     "tokens": [
+      "21:30.7"
+     ],
+     "english": "from my hand",
+     "literal": "from-my-hand"
+    },
+    {
+     "tokens": [
+      "21:30.8",
+      "21:30.9",
+      "21:30.10",
+      "21:30.11"
+     ],
+     "english": "so that it may be a witness for me",
+     "literal": "in-order-that she-will-be to-me for-a-witness: the verb is third feminine singular"
+    },
+    {
+     "tokens": [
+      "21:30.12",
+      "21:30.13"
+     ],
+     "english": "that I dug",
+     "literal": "that I-dug"
+    },
+    {
+     "tokens": [
+      "21:30.14",
+      "21:30.15",
+      "21:30.16"
+     ],
+     "english": "this well",
+     "literal": "[object] the-well this"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "21:30",
+   "path": "token:21:30.4.note",
+   "value": "שֶׁבַע, the numeral 'seven'. Numerals from three to ten take the form of the opposite gender from the noun they count: שֶׁבַע, without the final ה, is the form used with a feminine noun, and כְּבָשֹׂת is feminine. So the form is regular here. The pack labels it feminine and the lexicon lists the entry as masculine; both are labels for this one form.",
+   "severity": "error",
+   "reason": "The note called the form irregular. It is the regular form of seven with a feminine plural noun (the feminine counterpart שִׁבְעָה goes with masculine nouns)."
+  },
+  {
+   "ref": "21:30",
+   "path": "token:21:30.5.note",
+   "value": "כִּבְשָׂה, 'ewe-lamb' (a female lamb). Feminine plural, absolute.",
+   "severity": "error",
+   "reason": "'Of the first year' is in neither the lexicon nor the text; removed."
+  },
+  {
+   "ref": "21:30",
+   "path": "token:21:30.6.note",
+   "value": "Yiqtol, second masculine singular, of לָקַח. The addressee is Abimelech. The yiqtol is an instruction or permission, 'you are to take'; the object is placed before the verb.",
+   "severity": "style",
+   "reason": "The brief says the form has the force of a request; the English now carries it."
+  },
+  {
+   "ref": "21:30",
+   "path": "token:21:30.9.gloss",
+   "value": "it will be",
+   "severity": "error",
+   "reason": "Third feminine singular, not plural."
+  },
+  {
+   "ref": "21:30",
+   "path": "token:21:30.9.note",
+   "value": "Yiqtol, third feminine singular, of הָיָה, with a predicate after לְ (לְעֵדָה) and a person after לְ (לִי): 'become, be for X as Y'. The verb is singular. It does not agree with the plural כְּבָשֹׂת; the commentators supply a feminine singular subject (Rashi זאת, 'this'; Radak הַמִּקְנָה הַזֹּאת, 'this livestock'; Sforno הַבְּרִית, 'the covenant'). The English keeps 'it'.",
+   "severity": "error",
+   "reason": "The note said the subject is the seven ewe-lambs; the verb's number does not allow that without comment."
+  },
+  {
+   "ref": "21:30",
+   "path": "token:21:30.10.note",
+   "value": "ל with a first singular suffix: 'to me, for me', the one for whom the witness stands.",
+   "severity": "style",
+   "reason": "The note presupposed the lambs as the subject."
+  },
+  {
+   "ref": "21:30",
+   "path": "token:21:30.11.gloss",
+   "value": "as a witness",
+   "severity": "style",
+   "reason": "לְ here marks the predicate: 'for/as testimony', which the gloss 'a witness' leaves implicit."
+  },
+  {
+   "ref": "21:30",
+   "path": "token:21:30.12.note",
+   "value": "כִּי introducing the content of the witness, 'that I dug this well' (BDB sense 1, 'that'). 'Because' is also possible.",
+   "severity": "style",
+   "reason": "Both readings of the second כִּי are open; the note only gave one."
+  },
+  {
+   "ref": "21:30",
+   "path": "grammar",
+   "value": [
+    "Abraham's answer to Abimelech's question of 21:29 is one speech, which runs through this verse and ends with it. The verb in 21:30.1 has no named subject; the context identifies the speaker.",
+    "כִּי after וַיֹּאמֶר (21:30.2) is the recitative 'that' which introduces direct speech and is not translated; some read it as 'because' or 'indeed', answering Abimelech's 'what are these?' (21:29). The English leaves it out and opens the quotation.",
+    "The object שֶׁבַע כְּבָשֹׂת (21:30.4–5) stands before its verb תִּקַּח (21:30.6), a second masculine singular yiqtol addressed to Abimelech, with the force of an instruction. The fronting stresses the object; the English uses the normal order. The numeral שֶׁבַע has the form used with a feminine noun.",
+    "The purpose clause is בַּעֲבוּר with a yiqtol. תִּהְיֶה is third feminine singular, so its subject is not the plural 'ewe-lambs' as such: either the set of seven or the gift taken as a whole counts as a singular, or the subject is an implied 'this' (Rashi's זאת, Radak's הַמִּקְנָה הַזֹּאת). The English 'it' keeps the singular. לִי לְעֵדָה: 'for me as a witness', with לְ marking the predicate.",
+    "The second כִּי (21:30.12) introduces what the witness attests: 'that I dug this well', a qatal of חָפַר.",
+    "Accents: the zaqef gadol on וַיֹּאמֶר (21:30.1), the zaqef qaton on כְּבָשֹׂת, the etnaḥta on מִיָּדִי (21:30.7) and the silluq on הַזֹּאת (21:30.16): the etnaḥta ends the first half of the verse, the instruction; the second half gives its purpose."
+   ],
+   "severity": "error",
+   "reason": "The third note claimed a plural subject for a singular verb and said the English 'they' takes the lambs; the second note said the English 'moves the object to the front', which the old English did not do and the new does not either."
+  },
+  {
+   "ref": "21:30",
+   "path": "note",
+   "value": "The speaker is named by context only, so 'He said' is kept without a name. The verb תִּהְיֶה is singular and the English renders it 'it'; the commentators name the subject differently (see commentary). The second half of the verse gives the purpose of the gift: it is a witness to Abraham's claim to the well.",
+   "severity": "error",
+   "reason": "The old note said 'the English gives no reason for the gift', but the English gives the purpose, 'a witness that I dug this well'."
+  },
+  {
+   "ref": "21:30",
+   "path": "commentary:ibn-ezra:21:30:1.summary",
+   "value": "Ibn Ezra: לְעֵדָה is 'like לְעֵדוּת', 'as testimony', the same noun in a feminine form. He adds that the root of the word for oath, שְׁבוּעָה, is שִׁבְעָה (seven), and says he will explain this at Numbers 30:3 (אוֹ הִשָּׁבַע שְׁבֻעָה). The second remark bears on the name Beersheba (21:31), not on the English of this verse.",
+   "severity": "error",
+   "reason": "The old summary added 'so the lambs are the witness', which Ibn Ezra does not say, and said the oath remark does not bear on the English; it bears on the play seven/swear that gives the name."
+  },
+  {
+   "ref": "21:30",
+   "path": "commentary:rashi:21:30:1.summary",
+   "value": "Rashi's gloss on 'in order that it may be to me' is the single word זאת, 'this': the feminine singular subject of תִּהְיֶה is 'this' (the gift), not the plural ewe-lambs. The English 'it' agrees.",
+   "severity": "error",
+   "reason": "The old summary said 'the lambs themselves'; Rashi's word supplies a feminine singular subject, which is why the verb is singular."
+  },
+  {
+   "ref": "21:30",
+   "path": "commentary:rashi:21:30:3.summary",
+   "value": "Rashi tells how the herdsmen of Abimelech quarrelled over the well, each side claiming 'we dug it'. They agreed that whoever was seen at the well, with the water rising to meet him, owned it, and the water rose to meet Abraham. This is the story behind the claim, not the sense of 'that I dug'.",
+   "severity": "style",
+   "reason": "The old summary left out that the water rose to meet Abraham, which is the point of the story."
+  },
+  {
+   "ref": "21:30",
+   "path": "commentary:radak:21:30:1.summary",
+   "value": "Radak supplies the subject of תִּהְיֶה: 'let this livestock (הַמִּקְנָה הַזֹּאת) which I give be to me for a witness'. A feminine singular subject, which suits the English 'it'.",
+   "severity": "error",
+   "reason": "The old summary ('these lambs will be to me is the thing that I give as a witness') garbled the comment and missed that Radak names a singular subject."
+  },
+  {
+   "ref": "21:30",
+   "path": "commentary:sforno:21:30:1.summary",
+   "value": "Sforno compares Ruth 4:7 (a man drew off his shoe and gave it to his fellow, 'and this was the attestation'): taking the lambs was testimony of the owners' agreement and their acknowledgment of the matter. He makes the lambs a sign of consent; the English keeps the plain 'a witness'.",
+   "severity": "style",
+   "reason": "The old summary said the lambs were the acknowledgment, and called the shoe 'a sign of agreement' only loosely."
+  },
+  {
+   "ref": "21:30",
+   "path": "commentary:sforno:21:30:2.summary",
+   "value": "Sforno's one word on 'in order that it may be to me' is הַבְּרִית, 'the covenant': he supplies the feminine singular subject, the covenant, which is to be a witness for Abraham. The English keeps 'it' without naming it.",
+   "severity": "error",
+   "reason": "The old summary read the gloss as the purpose; it names the subject of תִּהְיֶה."
+  },
+  {
+   "ref": "21:30",
+   "path": "context",
+   "value": [
+    "The seven ewe-lambs were set apart by Abraham in 21:28; the text gives only their purpose, a witness. Nothing in the verse says they were a price, a fee or a sacrifice, and the English does not say so.",
+    "In dry country a dug well was valuable, and who had dug it was the ground of a claim to it: compare 26:15–22, where the Philistines stop up the wells that Abraham's servants dug, and Isaac's servants dig them again and quarrel over them."
+   ],
+   "severity": "style",
+   "reason": "The second old note ('scholars compare ... disputed') said nothing a reader could use; replaced by a fact the text itself shows."
+  },
+  {
+   "ref": "21:31",
+   "path": "token:21:31.1.note",
+   "value": "עַל כֵּן, 'on so': a compound meaning 'therefore, that is why'. It introduces the explanation of the name. Radak takes it to point back to the seven ewe-lambs; the Hebrew itself gives the reason in כִּי שָׁם נִשְׁבְּעוּ. No sense is taken for עַל.",
+   "severity": "style",
+   "reason": "The note said it refers to the lambs and the agreement; that is Radak's reading, not the plain sense."
+  },
+  {
+   "ref": "21:31",
+   "path": "token:21:31.6.gloss",
+   "value": "Beer- (well of)",
+   "severity": "style",
+   "reason": "The meaning of a name the text explains goes in the gloss (decisions)."
+  },
+  {
+   "ref": "21:31",
+   "path": "token:21:31.7.gloss",
+   "value": "-sheba (seven; oath)",
+   "severity": "style",
+   "reason": "The second element means both 'seven' (21:28–30) and, as the verse says, the oath."
+  },
+  {
+   "ref": "21:31",
+   "path": "token:21:31.7.note",
+   "value": "The second word of the name, שֶׁבַע / שָׁבַע, written here with qamets. It means 'seven' and shares its root with the verb נִשְׁבְּעוּ in 21:31.10, so the name plays on 'seven' and 'swear'. Ibn Ezra (on 21:30) takes שְׁבוּעָה to come from the root of 'seven'.",
+   "severity": "style",
+   "reason": "'It is the root of the verb' was loose; the name's two readings are now stated."
+  },
+  {
+   "ref": "21:31",
+   "path": "token:21:31.11.note",
+   "value": "שְׁנֵיהֶם: the dual 'two' in the construct with a third masculine plural suffix, 'the two of them'. It stands in apposition to the subject already in the verb נִשְׁבְּעוּ ('they swore, the two of them').",
+   "severity": "style",
+   "reason": "It is not itself the subject of the verb."
+  },
+  {
+   "ref": "21:31",
+   "path": "grammar",
+   "value": [
+    "עַל כֵּן (21:31.1–2) is the compound 'therefore', 'on so'; it begins the explanation of the name. Radak takes it to refer to the seven lambs.",
+    "The naming construction is קָרָא with לְ, a place, and then the name: 'he called that place Beersheba'. The verse does not name the subject of קָרָא (Abraham in context); Radak reads 'they called'.",
+    "The name has two words, בְּאֵר and שֶׁבַע. The verse gives the reason for the second, 'because there they swore' (כִּי שָׁם נִשְׁבְּעוּ), which plays on the root שׁבע: 'seven' and 'swear'.",
+    "נִשְׁבְּעוּ (21:31.10) is the Niphal, third common plural, of שָׁבַע. The dual שְׁנֵיהֶם (21:31.11) stands in apposition to the subject inside the verb: the oath was sworn by both.",
+    "Accents: the revia on כֵּן (21:31.2) and the tevir on קָרָא (21:31.3) divide the first half; the etnaḥta on שָׁבַע (21:31.7) ends the first half, after the name, and the second half gives the reason; the silluq on שְׁנֵיהֶם ends the verse."
+   ],
+   "severity": "error",
+   "reason": "The old accent note said the etnaḥta divides the name; it ends the first half of the verse, after the whole name. The old note called the Niphal 'masculine' against its own token note, and made שְׁנֵיהֶם the subject."
+  },
+  {
+   "ref": "21:31",
+   "path": "commentary:radak:21:31:1.summary",
+   "value": "Radak: the ו of conjunction is left out (בְּאֵר and שֶׁבַע are joined without 'and', as in 'sun, moon', Habakkuk 3:11, and 'Reuben, Simeon', Exodus 1:2). 'Therefore' means on account of the seven lambs, and because they both swore there, on these two things they called the place 'Sheba'; 'Beer' was added for the well Abraham dug. The naming was a great sign that he would inherit the land, since whatever he said and named came true.",
+   "severity": "error",
+   "reason": "The old summary missed that the name rests on two things, the lambs and the oath, and the omitted ו."
+  },
+  {
+   "ref": "21:32",
+   "path": "grammar",
+   "value": [
+    "Three wayyiqtols carry the narrative: וַיִּכְרְתוּ (making the covenant), וַיָּקׇם (the rising of Abimelech) and וַיָּשֻׁבוּ (the return).",
+    "כָּרַת בְּרִית is the idiom 'cut a covenant'. The object is בְּרִית with no object marker. The English 'made a covenant' gives the sense of the idiom.",
+    "The singular וַיָּקׇם has Abimelech as subject. וּפִיכֹל, 'and Phichol', is added after it with its appositive שַׂר־צְבָאוֹ, and the plural וַיָּשֻׁבוּ takes both men as subject.",
+    "שַׂר־צְבָאוֹ is 'commander of his army': the construct, with a third masculine singular suffix on 'army'.",
+    "Accents: the etnaḥta on שָׁבַע (21:32.4) ends the first half of the verse, the covenant; the zaqef qaton on צְבָאוֹ, the tipḥa on וַיָּשֻׁבוּ (21:32.10) and the silluq on פְּלִשְׁתִּים (21:32.13) mark the rest."
+   ],
+   "severity": "style",
+   "reason": "The old accent note left out the etnaḥta, the main division."
+  },
+  {
+   "ref": "21:32",
+   "path": "context",
+   "value": [
+    "Abimelech is the king of Gerar in these chapters (20:2; 21:22). The title שַׂר צָבָא, 'commander of the army', is a royal military office.",
+    "'Cut a covenant' is the standard Hebrew idiom for making a treaty or pact. It is generally linked with the slaughter of animals that accompanied an oath (compare 15:9–10, 17 and Jeremiah 34:18–19); the origin of the idiom is debated. Here the text names only the sheep and cattle given to Abimelech (21:27) and the seven ewe-lambs (21:28–30).",
+    "The Philistines of the Bible are generally identified with a people that settled the southern coast of Canaan in the early twelfth century BCE. Whether the patriarchal narrative uses the name for a people already there, or applies a later name to the region, is disputed; the English keeps the text's name."
+   ],
+   "severity": "style",
+   "reason": "The old Philistine note stated as fact that the settlement was 'long after the patriarchs', which depends on a disputed dating; the decisions require neutrality here. A note on the idiom was added."
+  },
+  {
+   "ref": "21:33",
+   "path": "token:21:33.5.note",
+   "value": "Wayyiqtol, third masculine singular, of קָרָא. With בְּשֵׁם the idiom קָרָא בְּשֵׁם is either 'call on the name', invoke it in worship (Onkelos 'prayed'), or 'proclaim the name' (Ramban, Radak, Sforno); the English 'called on' keeps the first and does not exclude the second.",
+   "severity": "style",
+   "reason": "The ambiguity of the idiom was not recorded."
+  },
+  {
+   "ref": "21:33",
+   "path": "token:21:33.7.sense",
+   "value": "2.a",
+   "severity": "error",
+   "reason": "שֵׁם here is the name of a person (God), not 'the exact designation of a river, beast or city' (sense 1), the mechanical first sense."
+  },
+  {
+   "ref": "21:33",
+   "path": "token:21:33.7.note",
+   "value": "בְּ with שֵׁם in the construct: 'on/by the name of', the name of the LORD being the one called on.",
+   "severity": "error",
+   "reason": "'The exact designation invoked' was a gloss on sense 1."
+  },
+  {
+   "ref": "21:33",
+   "path": "grammar",
+   "value": [
+    "וַיִּטַּע is a wayyiqtol, third masculine singular, of נָטַע. Its object אֶשֶׁל follows it and carries no object marker.",
+    "וַיִּקְרָא־שָׁם continues the narrative. 'Call on the name' (קָרָא בְּשֵׁם) is the phrase used of worship at other patriarchal sites (12:8; 26:25); it can also mean 'proclaim the name'.",
+    "The name יְהֹוָה (21:33.8) is rendered 'the LORD' as the decisions set. The epithet אֵל עוֹלָם (21:33.9–10) is two nouns, 'El' in the construct and 'eternity, long duration'; it is transliterated in the English. It occurs in Genesis only here.",
+    "Accents: the etnaḥta on שָׁבַע (21:33.4) divides the verse into planting and calling; the qadma on וַיִּקְרָא (21:33.5) and the tipḥa on יְהֹוָה (21:33.8) mark the second half; the silluq on עוֹלָם (21:33.10) ends it."
+   ],
+   "severity": "style",
+   "reason": "The old accent note left out the etnaḥta, the main division, and gave the minor accents as the divisions."
+  },
+  {
+   "ref": "21:33",
+   "path": "context",
+   "value": [
+    "Tamarisks grow in dry country where there is water near the surface. The planting at a well suits the place; the identification of אֶשֶׁל as a tamarisk is the lexicon's, and Ibn Ezra says only 'a tree'.",
+    "El is the ordinary Northwest Semitic word for 'god' and the name of the head of the Canaanite pantheon known from Ugarit; Genesis uses El with an epithet for the God worshipped at particular places (El Elyon 14:18–22; El Roi 16:13; El Bethel 35:7). Whether the title El Olam takes over a local shrine title is debated. עוֹלָם means a long or remote time, past or future; the title is rendered 'God of eternity', 'the everlasting God' or 'God of old', and the commentators read it as God who rules time or the world (Ramban, Sforno, Onkelos).",
+    "'Call on the name of the LORD' is an act of worship in the patriarchal narratives (12:8; 26:25)."
+   ],
+   "severity": "error",
+   "reason": "The old note said Isaiah 40:28 uses the same epithet; it reads אֱלֹהֵי עוֹלָם, not אֵל עוֹלָם. The decisions require the meaning of El Olam in the notes, and the old notes did not give it."
+  },
+  {
+   "ref": "21:34",
+   "path": "english",
+   "value": "And Abraham sojourned in the land of the Philistines for many days.",
+   "severity": "style",
+   "reason": "Plain English for an adverbial accusative of duration is 'for many days'; the bare 'many days' reads as a fragment."
+  },
+  {
+   "ref": "21:34",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:34.1",
+      "21:34.2"
+     ],
+     "english": "And Abraham sojourned",
+     "literal": "and-sojourned Abraham"
+    },
+    {
+     "tokens": [
+      "21:34.3",
+      "21:34.4"
+     ],
+     "english": "in the land of the Philistines",
+     "literal": "in-land-of Philistines"
+    },
+    {
+     "tokens": [
+      "21:34.5",
+      "21:34.6"
+     ],
+     "english": "for many days",
+     "literal": "days many: the duration has no preposition in Hebrew"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "21:34",
+   "path": "grammar",
+   "value": [
+    "וַיָּגׇר is a wayyiqtol, third masculine singular: the verb opens the clause, and the subject follows it.",
+    "יָמִים רַבִּים has no preposition: it is an adverbial phrase of duration, 'many days'. English adds 'for'.",
+    "The adjective רַבִּים agrees with יָמִים in gender and number.",
+    "Accents: the tipḥa on פְּלִשְׁתִּים (21:34.4) divides the verse; the silluq on רַבִּים (21:34.6) ends it. The פ after the verse marks a paragraph division in the Masoretic layout."
+   ],
+   "severity": "error",
+   "reason": "The old note said the darga on the first word and the silluq 'end the verse'; the darga is a minor accent and the main division is the tipḥa."
+  },
+  {
+   "ref": "21:34",
+   "path": "commentary:radak:21:34:1.summary",
+   "value": "Radak: Abraham stayed there many days because he had a covenant with Abimelech and feared no one. He adds that most of the land of the Philistines is called אֶרֶץ שֶׁבַע, a land of plenty, as appears from the Shunammite, who stayed there seven years because of the famine (2 Kings 8). This gives reasons for the long stay that the text does not state.",
+   "severity": "error",
+   "reason": "The old summary made the Shunammite a comparison of the stay; Radak uses her to show the land was good to live in."
+  },
+  {
+   "ref": "21:32",
+   "path": "english",
+   "value": "So they made a covenant at Beersheba, and Abimelech rose, and Phichol, the commander of his army, and they returned to the land of the Philistines.",
+   "severity": "style",
+   "reason": "consistency: 'the commander of his army' as in 21:22"
+  },
+  {
+   "ref": "21:32",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "21:32.1",
+      "21:32.2"
+     ],
+     "english": "So they made a covenant",
+     "literal": "and-they-cut covenant"
+    },
+    {
+     "tokens": [
+      "21:32.3",
+      "21:32.4"
+     ],
+     "english": "at Beersheba",
+     "literal": "at-well-of-seven"
+    },
+    {
+     "tokens": [
+      "21:32.5",
+      "21:32.6"
+     ],
+     "english": "and Abimelech rose",
+     "literal": "and-rose Abimelech"
+    },
+    {
+     "tokens": [
+      "21:32.7"
+     ],
+     "english": "and Phichol",
+     "literal": "and-Phichol"
+    },
+    {
+     "tokens": [
+      "21:32.8",
+      "21:32.9"
+     ],
+     "english": "the commander of his army",
+     "literal": "commander-of-his-army"
+    },
+    {
+     "tokens": [
+      "21:32.10"
+     ],
+     "english": "and they returned",
+     "literal": "and-they-returned"
+    },
+    {
+     "tokens": [
+      "21:32.11",
+      "21:32.12",
+      "21:32.13"
+     ],
+     "english": "to the land of the Philistines",
+     "literal": "to-land-of Philistines"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: the English of a phrase changed with the verse"
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:21:30:1",
+   "verdict": "consistent",
+   "comment": "He takes לְעֵדָה as לְעֵדוּת, 'as testimony'; the English 'a witness' agrees."
+  },
+  {
+   "anchor": "ibn-ezra:21:33:1",
+   "verdict": "consistent",
+   "comment": "He takes אֶשֶׁל as a tree; the English 'a tamarisk tree' is a tree, with the species from the lexicon."
+  }
+ ]
+}

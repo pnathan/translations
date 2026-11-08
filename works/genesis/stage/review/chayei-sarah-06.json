@@ -1,0 +1,460 @@
+{
+ "unit": "chayei-sarah-06",
+ "model": "sonnet",
+ "summary": "A sound translation with a few real faults. 24:19 has the wrong tense (\"had finished\" in her promise) and two false grammar notes; 24:22 adds \"nose-ring\" where the verse has only נֶזֶם, and the note and Ibn Ezra's summary wrongly make him say this one is a nose-ring; Radak's summary at 24:19 was wrong. Style and context patches: 24:24 relative clause, the camels dispute (24:19), Nahor's family (24:24), the missing rulings. Ibn Ezra's hifil reading of לָלִין is correctly recorded, not adopted.",
+ "patches": [
+  {
+   "ref": "24:19",
+   "path": "english",
+   "value": "And she finished giving him drink, and said, \"I will draw for your camels too, until they have finished drinking.\"",
+   "severity": "error",
+   "reason": "In her promise the clause is future: until they have finished, not \"had finished\"."
+  },
+  {
+   "ref": "24:19",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:19.1",
+      "24:19.2"
+     ],
+     "english": "And she finished giving him drink",
+     "literal": "'and-finished to-give-him-drink'"
+    },
+    {
+     "tokens": [
+      "24:19.3"
+     ],
+     "english": "and said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "24:19.4",
+      "24:19.5",
+      "24:19.6"
+     ],
+     "english": "I will draw for your camels too",
+     "literal": "'also to-camels-your I-will-draw': the Hebrew puts גַּם first"
+    },
+    {
+     "tokens": [
+      "24:19.7",
+      "24:19.8",
+      "24:19.9",
+      "24:19.10"
+     ],
+     "english": "until they have finished drinking",
+     "literal": "'until if they-finished to-drink'"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English changed; the last phrase follows it."
+  },
+  {
+   "ref": "24:19",
+   "path": "token:24:19.9.gloss",
+   "value": "have finished",
+   "severity": "error",
+   "reason": "Tense follows the English."
+  },
+  {
+   "ref": "24:19",
+   "path": "token:24:19.4.note",
+   "value": "גַּם stands before its noun as in Hebrew (גַּם לִגְמַלֶּיךָ); the English puts \"too\" after \"your camels\".",
+   "severity": "error",
+   "reason": "The note said \"after the verb\"; the English has \"too\" after \"your camels\"."
+  },
+  {
+   "ref": "24:19",
+   "path": "grammar",
+   "value": [
+    "The etnaḥta on לְהַשְׁקֹתוֹ closes the first clause; the revia on וַתֹּאמֶר is a disjunctive, and the speech follows it.",
+    "גַּם comes before its object, as in Hebrew, 'also for your camels'; the English puts 'too' after 'your camels'.",
+    "עַד אִם כִּלּוּ לִשְׁתֹּת: the temporal clause 'until' with אִם; the piel perfect כִּלּוּ has the camels as subject.",
+    "The piel כִּלּוּ is used without an object, 'they have finished' (drinking), and the infinitive לִשְׁתֹּת names the act."
+   ],
+   "severity": "error",
+   "reason": "Two notes were untrue: the placing of \"too\", and the tense."
+  },
+  {
+   "ref": "24:19",
+   "path": "commentary:radak:24:19:1.summary",
+   "value": "Radak: 'but if they finish drinking, then I will stop' (I will draw for them until they finish drinking); or אִם stands in place of אֲשֶׁר, 'until they finish drinking'. The English takes the first.",
+   "severity": "error",
+   "reason": "The summary said \"until they are able to drink\"; Radak writes עַד אֲשֶׁר יְכַלּוּ לִשְׁתּוֹת, \"until they finish drinking\"."
+  },
+  {
+   "ref": "24:19",
+   "path": "context",
+   "value": [
+    "Camels drink large quantities of water after a long journey; the verse's own detail (until they had finished drinking) shows why the drawing took long.",
+    "Whether domesticated camels were in use as pack and riding animals in the patriarchal period is disputed: some hold that they came into common use only late in the second millennium BCE, others find earlier evidence. The English says 'camels' and takes no side."
+   ],
+   "severity": "question",
+   "reason": "Decisions: where the evidence on camels is in dispute, the context notes name the positions."
+  },
+  {
+   "ref": "24:18",
+   "path": "commentary:radak:24:18:1.summary",
+   "value": "Radak: this shows she was well brought up: she did not know who he was and still called him 'my lord', and she hurried to give him water, and gave it from her hand.",
+   "severity": "style",
+   "reason": "The summary left out Radak's point (בַּת מוּסָר, \"of good upbringing\") and his \"from her hand\"."
+  },
+  {
+   "ref": "24:21",
+   "path": "token:24:21.9.sense",
+   "value": "2",
+   "severity": "style",
+   "reason": "אִם in הֲ ... אִם־לֹא is the disjunctive \"or\" of a double question, BDB 2 (interrogative particle), not \"if\"."
+  },
+  {
+   "ref": "24:22",
+   "path": "english",
+   "value": "And it came to pass, when the camels had finished drinking, that the man took a gold ring of half a shekel by weight, and two bracelets on her hands, ten shekels of gold by weight.",
+   "severity": "error",
+   "reason": "נֶזֶם alone: the verse does not say it is a nose-ring (24:47 says he put it on her nose; Ibn Ezra says a נֶזֶם may be for nose or ear). The English adds what this verse lacks."
+  },
+  {
+   "ref": "24:22",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:22.1"
+     ],
+     "english": "And it came to pass",
+     "literal": "'and-it-was'"
+    },
+    {
+     "tokens": [
+      "24:22.2",
+      "24:22.3",
+      "24:22.4",
+      "24:22.5"
+     ],
+     "english": "when the camels had finished drinking",
+     "literal": "'when finished the-camels to-drink'"
+    },
+    {
+     "tokens": [
+      "24:22.6",
+      "24:22.7"
+     ],
+     "english": "the man took",
+     "literal": "'and-took the-man'"
+    },
+    {
+     "tokens": [
+      "24:22.8",
+      "24:22.9"
+     ],
+     "english": "a gold ring",
+     "literal": "'ring of-gold'"
+    },
+    {
+     "tokens": [
+      "24:22.10",
+      "24:22.11"
+     ],
+     "english": "of half a shekel by weight",
+     "literal": "'half its-weight'"
+    },
+    {
+     "tokens": [
+      "24:22.12",
+      "24:22.13"
+     ],
+     "english": "and two bracelets",
+     "literal": "'and-two bracelets'"
+    },
+    {
+     "tokens": [
+      "24:22.14",
+      "24:22.15"
+     ],
+     "english": "on her hands",
+     "literal": "'upon hands-her'"
+    },
+    {
+     "tokens": [
+      "24:22.16",
+      "24:22.17",
+      "24:22.18"
+     ],
+     "english": "ten shekels of gold by weight",
+     "literal": "'ten gold their-weight'"
+    }
+   ],
+   "severity": "error",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "24:22",
+   "path": "token:24:22.8.gloss",
+   "value": "a ring",
+   "severity": "error",
+   "reason": "Follows the English."
+  },
+  {
+   "ref": "24:22",
+   "path": "token:24:22.8.note",
+   "value": "נֶזֶם: a ring; Ibn Ezra says it may be worn in the nose or in the ear, and 24:47 has the servant put it on her nose. The entry gives no senses.",
+   "severity": "error",
+   "reason": "The note said Ibn Ezra makes this a nose-ring; he gives both uses."
+  },
+  {
+   "ref": "24:22",
+   "path": "token:24:22.17.note",
+   "value": "gold as measure of weight; the Hebrew names no unit, and 'shekels' is added in the English, understood from בֶּקַע 'half (a shekel)' and the Targum's סִלְעִין",
+   "severity": "error",
+   "reason": "The note called \"shekels\" the text's own measure; the text does not name it."
+  },
+  {
+   "ref": "24:22",
+   "path": "token:24:22.14.sense",
+   "value": "II.1.a.(a)",
+   "severity": "style",
+   "reason": "Of things worn (bracelets): BDB II.1.a.(a)."
+  },
+  {
+   "ref": "24:22",
+   "path": "note",
+   "value": "The Hebrew names no unit for the ten; the English supplies 'shekels', understood from בֶּקַע, half a shekel (Ibn Ezra), and the Targum's סִלְעִין. The ring is given as a ring, as the verse says; 24:47 places it on her nose. The ring and bracelets are given by weight, not by piece.",
+   "severity": "error",
+   "reason": "The note called the shekel the text's unit; it is understood, not stated."
+  },
+  {
+   "ref": "24:22",
+   "path": "commentary:ibn-ezra:24:22:1.summary",
+   "value": "Ibn Ezra: there is a נֶזֶם worn in the nose and also in the ear; the one on the nose hangs down from a cord tied on the forehead.",
+   "severity": "error",
+   "reason": "The summary said \"this one is the nose-ring\"; Ibn Ezra speaks of the word in general."
+  },
+  {
+   "ref": "24:22",
+   "path": "context",
+   "value": [
+    "The shekel was a unit of weight; gold and silver were weighed in shekels before coined money came into use in the region. The text gives the weight of the gold, not the number of pieces.",
+    "This verse does not say where the ring went; at 24:47 the servant says he put it on her nose. Ibn Ezra says a נֶזֶם may be worn in the nose or in the ear, and that the nose kind hangs from a cord tied on the forehead."
+   ],
+   "severity": "error",
+   "reason": "The note said the text puts this one on the nose; this verse does not."
+  },
+  {
+   "ref": "24:24",
+   "path": "english",
+   "value": "And she said to him, \"I am the daughter of Bethuel, son of Milcah, whom she bore to Nahor.\"",
+   "severity": "style",
+   "reason": "\"who bore to Nahor\" reads as if Milcah bore to Nahor with no object and attaches to Milcah only; אֲשֶׁר is the relative of Bethuel, \"whom she bore\". The accent (zaqef gadol on Milcah) separates the clause."
+  },
+  {
+   "ref": "24:24",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:24.1",
+      "24:24.2"
+     ],
+     "english": "And she said to him",
+     "literal": "'and-said to-him'"
+    },
+    {
+     "tokens": [
+      "24:24.3",
+      "24:24.4",
+      "24:24.5"
+     ],
+     "english": "I am the daughter of Bethuel",
+     "literal": "'daughter-of Bethuel I'"
+    },
+    {
+     "tokens": [
+      "24:24.6",
+      "24:24.7"
+     ],
+     "english": "son of Milcah",
+     "literal": "'son-of Milcah'"
+    },
+    {
+     "tokens": [
+      "24:24.8",
+      "24:24.9",
+      "24:24.10"
+     ],
+     "english": "whom she bore to Nahor",
+     "literal": "'which bore to-Nahor'"
+    }
+   ],
+   "severity": "style",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "24:24",
+   "path": "token:24:24.8.gloss",
+   "value": "whom",
+   "severity": "style",
+   "reason": "Follows the English."
+  },
+  {
+   "ref": "24:24",
+   "path": "token:24:24.9.gloss",
+   "value": "she bore",
+   "severity": "style",
+   "reason": "Follows the English."
+  },
+  {
+   "ref": "24:24",
+   "path": "context",
+   "value": [
+    "Nahor was Abraham's brother, and Milcah, his wife, was the daughter of their brother Haran (11:27–29; 22:20–23); Bethuel was thus Abraham's nephew and Rebekah his great-niece."
+   ],
+   "severity": "question",
+   "reason": "A reader needs the relationship the verse assumes."
+  },
+  {
+   "ref": "24:17",
+   "path": "commentary:ramban:24:17:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Ramban: cites Rashi (he ran because he saw the water rise) and Bereshit Rabbah on 'she filled her jar and went up'; he thinks the rabbis drew the miracle from that wording and that it happened the first time, and that the servant did not tell it to the family (24:45) lest they not believe."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:20",
+   "path": "commentary:sforno:24:20:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Sforno: haste in a servant's work shows that the person served is held in regard by him."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:21",
+   "path": "commentary:rashi:24:21:1",
+   "value": {
+    "relation": "follows",
+    "summary": "Rashi: מִשְׁתָּאֵה is of the language of שְׁאִיָּה, as in 'cities lie waste' (שָׁאוּ עָרִים) and 'the desolation is laid waste' (תִּשָּׁאֶה שְׁמָמָה), Isaiah 6:11."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:21",
+   "path": "commentary:sforno:24:21:2",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Sforno: he was silent and did not say 'do not trouble yourself so much', as courtesy would require, in order to recognise her kindness and eagerness."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:21",
+   "path": "commentary:sforno:24:21:3",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Sforno: whether it would be on the side of good and complete kindness."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:21",
+   "path": "commentary:sforno:24:21:4",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Sforno: and whether all this was done in hope of some reward."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:22",
+   "path": "commentary:sforno:24:22:2",
+   "value": {
+    "relation": "records",
+    "summary": "Sforno: the bracelets were fitting for the measure of her hands, as in 'make chains on the breastplate' (Exodus 28:22) and 'make a gold rim on it' (Exodus 25:11), 'on' meaning fitting their measures."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:23",
+   "path": "commentary:radak:24:23:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Radak: he came to her with a reason for asking whose daughter she was."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:23",
+   "path": "commentary:radak:24:23:3",
+   "value": {
+    "relation": "records",
+    "summary": "Radak: לָלִין is as לְהָלִין (the causative)."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:23",
+   "path": "commentary:sforno:24:23:1",
+   "value": {
+    "relation": "not-applicable",
+    "summary": "Sforno: a place made ready for receiving guests, as was their custom then."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  },
+  {
+   "ref": "24:23",
+   "path": "commentary:sforno:24:23:2",
+   "value": {
+    "relation": "records",
+    "summary": "Sforno: לָלִין means that we lodge our camels there, a causative sense."
+   },
+   "severity": "question",
+   "reason": "No ruling was recorded for this comment."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:24:21:1",
+   "verdict": "consistent",
+   "comment": "'Astonished' is Ibn Ezra's sense (like מִשְׁתּוֹמֵם)."
+  },
+  {
+   "anchor": "ibn-ezra:24:21:2",
+   "verdict": "consistent",
+   "comment": "'Astonished at her' carries his 'for her sake' (about her); the hitpaʿel is kept and the root שָׁתָה is not used."
+  },
+  {
+   "anchor": "ibn-ezra:24:22:1",
+   "verdict": "consistent",
+   "comment": "After the patch the English says only 'ring', which fits his both uses."
+  },
+  {
+   "anchor": "ibn-ezra:24:22:2",
+   "verdict": "consistent",
+   "comment": "'Half a shekel' follows him."
+  },
+  {
+   "anchor": "ibn-ezra:24:22:3",
+   "verdict": "consistent",
+   "comment": "'Two bracelets', one on each hand, follows him."
+  },
+  {
+   "anchor": "ibn-ezra:24:23:1",
+   "verdict": "consistent",
+   "comment": "He reads a hifil; the pack's data is a qal infinitive. The data is kept and his reading recorded (token note, ruling, apparatus); 'for us to lodge' fits either reading."
+  }
+ ]
+}

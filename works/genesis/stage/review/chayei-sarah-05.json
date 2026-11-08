@@ -1,0 +1,400 @@
+{
+ "unit": "chayei-sarah-05",
+ "model": "sonnet",
+ "summary": "The translation is sound and plain. Faults: 24:13 drops אַנְשֵׁי (\"the daughters of the men of the city\" became \"the women of the town\"); the literal line of 24:12 adds an article to the divine name; Ibn Ezra's comment at 24:14 and Ramban's at 24:15 are summarised wrongly; the shalshelet is given a function it lacks; וְהָיָה in 24:14 is a weqatal. \"Kindness with\" is changed to \"kindness to\". The prayer quotation (24:12-14) and the single quotes inside it are correct. Ibn Ezra is followed at every anchor.",
+ "patches": [
+  {
+   "ref": "24:12",
+   "path": "english",
+   "value": "And he said, \"LORD God of my master Abraham, please make it happen before me today, and show kindness to my master Abraham.",
+   "severity": "style",
+   "reason": "\"kindness with\" is not English idiom; עִם here is \"to, toward\". The prayer opens here and stays open to the end of 24:14."
+  },
+  {
+   "ref": "24:12",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:12.1"
+     ],
+     "english": "And he said",
+     "literal": "and-said"
+    },
+    {
+     "tokens": [
+      "24:12.2",
+      "24:12.3",
+      "24:12.4",
+      "24:12.5"
+     ],
+     "english": "LORD God of my master Abraham",
+     "literal": "the-LORD God-of my-master Abraham"
+    },
+    {
+     "tokens": [
+      "24:12.6",
+      "24:12.7",
+      "24:12.8",
+      "24:12.9"
+     ],
+     "english": "please make it happen before me today",
+     "literal": "make-it-happen please before-me the-day"
+    },
+    {
+     "tokens": [
+      "24:12.10",
+      "24:12.11",
+      "24:12.12",
+      "24:12.13",
+      "24:12.14"
+     ],
+     "english": "and show kindness to my master Abraham",
+     "literal": "and-do kindness with my-master Abraham"
+    }
+   ],
+   "severity": "style",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "24:12",
+   "path": "literal",
+   "value": "and-said LORD God-of my-master Abraham make-it-happen please before-me the-day and-do kindness with my-master Abraham",
+   "severity": "error",
+   "reason": "the Hebrew has no article on the divine name; the literal line added \"the\""
+  },
+  {
+   "ref": "24:12",
+   "path": "token:24:12.2.gloss",
+   "value": "LORD",
+   "severity": "error",
+   "reason": "no article in the Hebrew"
+  },
+  {
+   "ref": "24:12",
+   "path": "token:24:12.1.note",
+   "value": "Wayyiqtol of אָמַר, qal. The shalshelet is a rare accent; the speech that follows is the servant's prayer, running to the end of 24:14.",
+   "severity": "error",
+   "reason": "a shalshelet does not mark the start of a speech"
+  },
+  {
+   "ref": "24:12",
+   "path": "grammar",
+   "value": [
+    "The speech is a prayer addressed to God in the second person, with no 'O' before the divine name. Its verb is the wayyiqtol וַיֹּאמַר.",
+    "The imperatives הַקְרֵה (24:12.6) and וַעֲשֵׂה (24:12.10) are requests; נָא 'please' is set on the first.",
+    "יְהֹוָה אֱלֹהֵי אֲדֹנִי אַבְרָהָם: the divine name, then the construct 'God of my master Abraham'. The first person 'my' is the servant's.",
+    "The shalshelet on וַיֹּאמַר (24:12.1) is a rare accent that sets this verb apart; it does not itself mark a speech. The etnaḥta on הַיּוֹם (24:12.9) divides the verse after 'today'."
+   ],
+   "severity": "error",
+   "reason": "the grammar note gave the shalshelet a function it does not have"
+  },
+  {
+   "ref": "24:12",
+   "path": "token:24:12.3.note",
+   "value": "A plural form (אֱלֹהִים) with a singular sense when it names the one God, here in the construct: \"God of my master Abraham\".",
+   "severity": "style",
+   "reason": "\"God of Israel\" is not in the verse"
+  },
+  {
+   "ref": "24:12",
+   "path": "commentary:ibn-ezra:24:12:1.summary",
+   "value": "Ibn Ezra: הַקְרֵה has the sense of \"prepare\" as in \"prepare my desire before me\" (הכן הפצי לפני), and he cites \"for the LORD your God caused it to meet me\" (כִּי הִקְרָה ה' אֱלֹהֶיךָ, 27:20). The English \"make it happen before me\" takes this: a request that God bring the matter about.",
+   "severity": "error",
+   "reason": "הפצי means \"my desire\"; the old summary made it a gloss meaning \"bringing a thing about\""
+  },
+  {
+   "ref": "24:13",
+   "path": "english",
+   "value": "Look, I am standing by the spring of water, and the daughters of the men of the city are going out to draw water.",
+   "severity": "error",
+   "reason": "בְּנוֹת אַנְשֵׁי הָעִיר is \"the daughters of the men of the city\"; \"the women of the town\" dropped אַנְשֵׁי and changed עִיר, rendered \"city\" in 24:10-11"
+  },
+  {
+   "ref": "24:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:13.1",
+      "24:13.2",
+      "24:13.3"
+     ],
+     "english": "Look, I am standing",
+     "literal": "look I standing"
+    },
+    {
+     "tokens": [
+      "24:13.4",
+      "24:13.5",
+      "24:13.6"
+     ],
+     "english": "by the spring of water",
+     "literal": "on spring-of the-waters"
+    },
+    {
+     "tokens": [
+      "24:13.7",
+      "24:13.8",
+      "24:13.9"
+     ],
+     "english": "and the daughters of the men of the city",
+     "literal": "and-daughters-of men-of the-town"
+    },
+    {
+     "tokens": [
+      "24:13.10",
+      "24:13.11",
+      "24:13.12"
+     ],
+     "english": "are going out to draw water",
+     "literal": "going-out to-draw water"
+    }
+   ],
+   "severity": "error",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "24:13",
+   "path": "token:24:13.7.gloss",
+   "value": "and the daughters of",
+   "severity": "error",
+   "reason": "plain sense of בַּת in the construct plural"
+  },
+  {
+   "ref": "24:13",
+   "path": "token:24:13.7.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "sense 2 \"young women\" is not needed; the Hebrew says \"daughters\""
+  },
+  {
+   "ref": "24:13",
+   "path": "token:24:13.9.gloss",
+   "value": "the city",
+   "severity": "style",
+   "reason": "עִיר is \"city\" in 24:10-11; keep one word"
+  },
+  {
+   "ref": "24:14",
+   "path": "english",
+   "value": "And it shall be that the girl to whom I say, 'Please tilt your jar, and I will drink,' and she will say, 'Drink, and I will also water your camels,' you have proved her for your servant, for Isaac; and by her I shall know that you have shown kindness to my master.\"",
+   "severity": "style",
+   "reason": "\"kindness with\" is not English idiom; the prayer closes here, at the end of 24:14"
+  },
+  {
+   "ref": "24:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:14.1",
+      "24:14.2"
+     ],
+     "english": "And it shall be that the girl",
+     "literal": "and-it-shall-be the-girl"
+    },
+    {
+     "tokens": [
+      "24:14.3",
+      "24:14.4",
+      "24:14.5"
+     ],
+     "english": "to whom I say",
+     "literal": "which I-say to-her"
+    },
+    {
+     "tokens": [
+      "24:14.6",
+      "24:14.7",
+      "24:14.8"
+     ],
+     "english": "Please tilt your jar",
+     "literal": "tilt-please your-jar"
+    },
+    {
+     "tokens": [
+      "24:14.9"
+     ],
+     "english": "and I will drink",
+     "literal": "and-I-will-drink"
+    },
+    {
+     "tokens": [
+      "24:14.10"
+     ],
+     "english": "and she will say",
+     "literal": "and-she-will-say"
+    },
+    {
+     "tokens": [
+      "24:14.11",
+      "24:14.12",
+      "24:14.13",
+      "24:14.14"
+     ],
+     "english": "Drink, and I will also water your camels",
+     "literal": "drink and-also your-camels I-will-water"
+    },
+    {
+     "tokens": [
+      "24:14.15",
+      "24:14.16"
+     ],
+     "english": "you have proved her",
+     "literal": "her you-proved"
+    },
+    {
+     "tokens": [
+      "24:14.17",
+      "24:14.18"
+     ],
+     "english": "for your servant, for Isaac",
+     "literal": "for-your-servant for-Isaac"
+    },
+    {
+     "tokens": [
+      "24:14.19",
+      "24:14.20"
+     ],
+     "english": "and by her I shall know",
+     "literal": "and-by-her I-shall-know"
+    },
+    {
+     "tokens": [
+      "24:14.21",
+      "24:14.22"
+     ],
+     "english": "that you have shown",
+     "literal": "that you-did"
+    },
+    {
+     "tokens": [
+      "24:14.23",
+      "24:14.24",
+      "24:14.25"
+     ],
+     "english": "kindness to my master",
+     "literal": "kindness with my-master"
+    }
+   ],
+   "severity": "style",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "24:14",
+   "path": "token:24:14.1.note",
+   "value": "Weqatal of הָיָה (וְהָיָה), qal, third person masculine singular, with future sense: \"and it shall be\", \"it shall come to pass\".",
+   "severity": "error",
+   "reason": "the form is a weqatal (ו on a perfect), not a plain qatal"
+  },
+  {
+   "ref": "24:14",
+   "path": "grammar",
+   "value": [
+    "The sign is introduced by a weqatal of הָיָה, 'it shall be' (וְהָיָה), and a relative clause. The speeches in it are imperfects (I say, I will drink, I will water) and a weqatal (וְאָמְרָה, 'and she will say').",
+    "The verb הֹכַחְתָּ (24:14.16) is a hifil qatal, second person masculine singular: the servant speaks to God. The English takes Ibn Ezra's sense 'prove'.",
+    "The clause וּבָהּ אֵדַע כִּי עָשִׂיתָ חֶסֶד gives the outcome of the sign: 'by her I shall know that you have shown kindness'. The כִּי is 'that' here.",
+    "The silluq on אֲדֹנִי (24:14.25) ends the verse."
+   ],
+   "severity": "error",
+   "reason": "וְהָיָה is a weqatal, not a qatal"
+  },
+  {
+   "ref": "24:14",
+   "path": "commentary:ibn-ezra:24:14:1.summary",
+   "value": "Ibn Ezra: the servant relied on the prayer of the prophet (Abraham), which God answered; he was shown in a dream, through the angel, that God's messenger was sent to help him. The servant thought that no one is as generous as his master's family. Ibn Ezra does not know why others are surprised that the servant did not ask in a fitting way, for if another girl had watered him and his camels and then turned out to be of another family, he would have left her and lost nothing; and \"whose daughter are you\" was already said to her before he gave her anything. The sum: he prayed that God would prove one of his master's family, and the proof she gives is by way of good conduct (דרך מוסר), like a \"generous daughter\" (בת נדיב); God heard his prayer. The English \"you have proved her\" follows his sense of הֹכַחְתָּ.",
+   "severity": "error",
+   "reason": "the old summary made God the one proved and put the dream where Ibn Ezra puts the servant's assurance; it also left out the \"whose daughter are you\" point"
+  },
+  {
+   "ref": "24:15",
+   "path": "commentary:ramban:24:15:1.summary",
+   "value": "Ramban explains why the genealogy is given as 'son of Milcah' (the wife, not the concubine Reumah, whose sons Nahor also had), and why the girl names her father's mother first, as girls do (compare 24:28, 'her mother's house'). The English keeps the text's formula.",
+   "severity": "error",
+   "reason": "she names her father's mother (אֵם אָבִיהָ, Milcah), not her mother's father"
+  },
+  {
+   "ref": "24:15",
+   "path": "token:24:15.20.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "sense 1 of שְׁכֶם is \"neck\"; the verse means shoulder, which the entry lists as its root gloss and not as a sense. The note says so."
+  },
+  {
+   "ref": "24:12",
+   "path": "english",
+   "value": "And he said, \"LORD, God of my master Abraham, please make it happen before me today, and show kindness to my master Abraham.",
+   "severity": "style",
+   "reason": "consistency: same form as 24:42, 24:48"
+  },
+  {
+   "ref": "24:12",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:12.1"
+     ],
+     "english": "And he said",
+     "literal": "and-said"
+    },
+    {
+     "tokens": [
+      "24:12.2",
+      "24:12.3",
+      "24:12.4",
+      "24:12.5"
+     ],
+     "english": "LORD, God of my master Abraham",
+     "literal": "the-LORD God-of my-master Abraham"
+    },
+    {
+     "tokens": [
+      "24:12.6",
+      "24:12.7",
+      "24:12.8",
+      "24:12.9"
+     ],
+     "english": "please make it happen before me today",
+     "literal": "make-it-happen please before-me the-day"
+    },
+    {
+     "tokens": [
+      "24:12.10",
+      "24:12.11",
+      "24:12.12",
+      "24:12.13",
+      "24:12.14"
+     ],
+     "english": "and show kindness to my master Abraham",
+     "literal": "and-do kindness with my-master Abraham"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: same form as 24:42, 24:48"
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:24:11:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra reads the hifil of ברך as making the camels kneel; the English follows him."
+  },
+  {
+   "anchor": "ibn-ezra:24:12:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra takes הקרה as \"prepare, bring about before me\"; the English follows him."
+  },
+  {
+   "anchor": "ibn-ezra:24:14:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra takes הוכחת as \"prove\"; the English follows him."
+  },
+  {
+   "anchor": "ibn-ezra:24:16:1",
+   "verdict": "consistent",
+   "comment": "Ibn Ezra takes the clause as plain: no man had known her; the English follows him."
+  }
+ ]
+}

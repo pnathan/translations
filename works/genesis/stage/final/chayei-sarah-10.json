@@ -1,0 +1,1168 @@
+{
+ "unit": "chayei-sarah-10",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "24:49",
+   "english": "And now, if you are dealing kindly and faithfully with my master, tell me; and if not, tell me, and I will turn to the right or to the left.\"",
+   "literal": "and-now if there-are-you doing kindness and-faithfulness with my-lord tell to-me and-if not tell to-me and-I-will-turn upon right or upon left",
+   "tokens": [
+    {
+     "id": "24:49.1",
+     "gloss": "and now",
+     "note": "The servant's request begins here; ועתה marks the turn from the narrative to the request."
+    },
+    {
+     "id": "24:49.2",
+     "gloss": "if",
+     "sense": "1"
+    },
+    {
+     "id": "24:49.3",
+     "gloss": "you are",
+     "sense": "2",
+     "note": "The existential יֵשׁ with the 2nd person plural suffix ־כֶם: 'there are to you', i.e. 'you are'."
+    },
+    {
+     "id": "24:49.4",
+     "gloss": "dealing",
+     "sense": "Qal I.2",
+     "note": "Participle, plural, after יֵשׁ: 'if you are dealing'. It names the action asked of them now, not how often they act."
+    },
+    {
+     "id": "24:49.5",
+     "gloss": "kindly",
+     "sense": "I.1",
+     "note": "Ibn Ezra's gloss on this word is recorded in the commentary."
+    },
+    {
+     "id": "24:49.6",
+     "gloss": "and faithfully",
+     "sense": "3",
+     "note": "Ibn Ezra reads it as the faithfulness that carries out the kindness."
+    },
+    {
+     "id": "24:49.7",
+     "gloss": "with",
+     "sense": "1"
+    },
+    {
+     "id": "24:49.8",
+     "gloss": "my lord",
+     "note": "Singular, with the 1st person suffix: a man addressed as lord."
+    },
+    {
+     "id": "24:49.9",
+     "gloss": "tell",
+     "sense": "Hiph",
+     "note": "Imperative, plural, addressed to Laban and Bethuel."
+    },
+    {
+     "id": "24:49.10",
+     "gloss": "to me"
+    },
+    {
+     "id": "24:49.11",
+     "gloss": "and if",
+     "sense": "1"
+    },
+    {
+     "id": "24:49.12",
+     "gloss": "not"
+    },
+    {
+     "id": "24:49.13",
+     "gloss": "tell",
+     "sense": "Hiph",
+     "note": "The imperative is repeated: the second clause is the same request."
+    },
+    {
+     "id": "24:49.14",
+     "gloss": "to me"
+    },
+    {
+     "id": "24:49.15",
+     "gloss": "and I will turn",
+     "sense": "Qal 1.e",
+     "note": "Yiqtol, 1st person singular, with waw: the servant's own action in the alternative."
+    },
+    {
+     "id": "24:49.16",
+     "gloss": "to",
+     "sense": "II.7",
+     "note": "Preposition with a verb of motion."
+    },
+    {
+     "id": "24:49.17",
+     "gloss": "right",
+     "sense": "2"
+    },
+    {
+     "id": "24:49.18",
+     "gloss": "or",
+     "sense": "2"
+    },
+    {
+     "id": "24:49.19",
+     "gloss": "to",
+     "sense": "II.7"
+    },
+    {
+     "id": "24:49.20",
+     "gloss": "left",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:49.1",
+      "24:49.2"
+     ],
+     "english": "And now, if",
+     "literal": "and-now if"
+    },
+    {
+     "tokens": [
+      "24:49.3",
+      "24:49.4",
+      "24:49.5",
+      "24:49.6",
+      "24:49.7",
+      "24:49.8"
+     ],
+     "english": "you are dealing kindly and faithfully with my master",
+     "literal": "there-are-you doing kindness and-faithfulness with my-lord"
+    },
+    {
+     "tokens": [
+      "24:49.9",
+      "24:49.10"
+     ],
+     "english": "tell me",
+     "literal": "tell to-me"
+    },
+    {
+     "tokens": [
+      "24:49.11",
+      "24:49.12",
+      "24:49.13",
+      "24:49.14"
+     ],
+     "english": "and if not, tell me",
+     "literal": "and-if not tell to-me"
+    },
+    {
+     "tokens": [
+      "24:49.15"
+     ],
+     "english": "and I will turn",
+     "literal": "and-I-will-turn"
+    },
+    {
+     "tokens": [
+      "24:49.16",
+      "24:49.17"
+     ],
+     "english": "to the right",
+     "literal": "upon right"
+    },
+    {
+     "tokens": [
+      "24:49.18"
+     ],
+     "english": "or",
+     "literal": "or"
+    },
+    {
+     "tokens": [
+      "24:49.19",
+      "24:49.20"
+     ],
+     "english": "to the left",
+     "literal": "upon left"
+    }
+   ],
+   "grammar": [
+    "The etnaḥta on לִי (24:49.10) divides the verse: the first conditional, with its request, ends there, and the second begins with וְאִם.",
+    "The first conditional is יֶשְׁכֶם עֹשִׂים 'you are dealing' (יֵשׁ with a participle); its main clause is the imperative הַגִּידוּ. The second clause repeats that imperative, so the English repeats 'tell me'.",
+    "יֶשְׁכֶם is יֵשׁ with the suffix ־כֶם: 'there are to you', which introduces the participle עֹשִׂים.",
+    "This segment closes the servant's speech, opened in an earlier unit: the closing quotation mark is at the end of the verse."
+   ],
+   "note": "The servant asks the family to decide now between a yes and a no, and he will go to the right or the left either way. The English keeps the two alternatives parallel as the Hebrew does.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:49:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: חסד here is 'a thing that is not obligatory' (דבר שאינו חיוב): the servant asks for a kindness that is freely done, not one the family owes. The English 'kindly' keeps the sense of the word; the point about obligation is recorded here."
+    },
+    {
+     "anchor": "ibn-ezra:24:49:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: ואמת is there to carry out the matter of kindness (לקיים דבר החסד). The word comes from the root אמן, and its ת is feminine. The English takes it as faithfulness."
+    },
+    {
+     "anchor": "rashi:24:49:1",
+     "relation": "declines",
+     "summary": "Rashi: 'on the right' stands for the daughters of Ishmael. The words give directions, not a people, so the English does not adopt this."
+    },
+    {
+     "anchor": "rashi:24:49:2",
+     "relation": "declines",
+     "summary": "Rashi: 'on the left' stands for the daughters of Lot, who sat at Abraham's left. The words do not say this; the English does not adopt it."
+    }
+   ]
+  },
+  {
+   "ref": "24:50",
+   "english": "Laban and Bethuel answered and said, \"From the LORD the thing has come; we cannot speak to you bad or good.",
+   "literal": "answered Laban and-Bethuel and-said from-the-LORD came-out the-thing not we-are-able to-speak to-you bad or good",
+   "tokens": [
+    {
+     "id": "24:50.1",
+     "gloss": "answered",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol, the narrative link to the speech."
+    },
+    {
+     "id": "24:50.2",
+     "gloss": "Laban"
+    },
+    {
+     "id": "24:50.3",
+     "gloss": "and Bethuel"
+    },
+    {
+     "id": "24:50.4",
+     "gloss": "and said",
+     "sense": "Qal 1",
+     "note": "The speech follows the verb and is introduced with a comma."
+    },
+    {
+     "id": "24:50.5",
+     "gloss": "from the LORD",
+     "sense": "I",
+     "note": "מִ with the divine name: the source of the matter."
+    },
+    {
+     "id": "24:50.6",
+     "gloss": "has come",
+     "sense": "Qal 1.g",
+     "note": "Perfect: the matter has come out, with emphasis on its origin."
+    },
+    {
+     "id": "24:50.7",
+     "gloss": "the thing",
+     "sense": "IV",
+     "note": "Matter, affair."
+    },
+    {
+     "id": "24:50.8",
+     "gloss": "not"
+    },
+    {
+     "id": "24:50.9",
+     "gloss": "we are able",
+     "sense": "Qal 1",
+     "note": "Yiqtol, 1st person plural; 'cannot' is the negative of ability."
+    },
+    {
+     "id": "24:50.10",
+     "gloss": "to speak",
+     "sense": "Pi",
+     "note": "Infinitive construct after the verb of ability."
+    },
+    {
+     "id": "24:50.11",
+     "gloss": "to you",
+     "sense": "1"
+    },
+    {
+     "id": "24:50.12",
+     "gloss": "bad",
+     "sense": "5"
+    },
+    {
+     "id": "24:50.13",
+     "gloss": "or",
+     "sense": "2"
+    },
+    {
+     "id": "24:50.14",
+     "gloss": "good",
+     "sense": "3"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:50.1",
+      "24:50.2",
+      "24:50.3",
+      "24:50.4"
+     ],
+     "english": "Laban and Bethuel answered and said",
+     "literal": "answered Laban and-Bethuel and-said"
+    },
+    {
+     "tokens": [
+      "24:50.5"
+     ],
+     "english": "From the LORD",
+     "literal": "from-the-LORD"
+    },
+    {
+     "tokens": [
+      "24:50.6",
+      "24:50.7"
+     ],
+     "english": "the thing has come",
+     "literal": "the-thing came-out"
+    },
+    {
+     "tokens": [
+      "24:50.8",
+      "24:50.9",
+      "24:50.10",
+      "24:50.11",
+      "24:50.12",
+      "24:50.13",
+      "24:50.14"
+     ],
+     "english": "we cannot speak to you bad or good",
+     "literal": "not we-are-able to-speak to-you bad or good"
+    }
+   ],
+   "grammar": [
+    "The speech of Laban and Bethuel opens here and continues into 24:51, where it closes; this verse has no closing quotation mark.",
+    "The verb וַיַּעַן is singular before the compound subject 'Laban and Bethuel'; וַיֹּאמְרוּ is plural after it.",
+    "The English fronts 'From the LORD' as the Hebrew does: the Hebrew puts the source before the verb of coming out.",
+    "לֹא נוּכַל דַּבֵּר: the yiqtol 'we are able' with the infinitive 'to speak' gives 'we cannot speak'. The adjectives 'bad' and 'good' are set side by side with אוֹ, and they stand without an article."
+   ],
+   "note": "The sentence says that the matter has come from the LORD and that the family cannot answer it either way. The English does not add 'either' or 'neither'.",
+   "commentary": []
+  },
+  {
+   "ref": "24:51",
+   "english": "Here is Rebekah before you; take and go, and let her be a wife to your master's son, as the LORD has spoken.\"",
+   "literal": "lo Rebekah before-your-face take and-go and-let-her-be wife to-son-of your-lords as spoke the-LORD",
+   "tokens": [
+    {
+     "id": "24:51.1",
+     "gloss": "here",
+     "note": "הִנֵּה points to the woman who stands before them."
+    },
+    {
+     "id": "24:51.2",
+     "gloss": "Rebekah"
+    },
+    {
+     "id": "24:51.3",
+     "gloss": "before you",
+     "sense": "I.6",
+     "note": "לְ with פָּנֶה: 'before your face', that is, before you."
+    },
+    {
+     "id": "24:51.4",
+     "gloss": "take",
+     "sense": "Qal 2",
+     "note": "Imperative, 2nd person masculine singular, with no object expressed: the woman named is taken."
+    },
+    {
+     "id": "24:51.5",
+     "gloss": "and go",
+     "sense": "Qal I.1",
+     "note": "Imperative, with waw: 'take and go'."
+    },
+    {
+     "id": "24:51.6",
+     "gloss": "and let her be",
+     "sense": "Qal II.2.a",
+     "note": "Jussive, 3rd person feminine singular, with the predicate noun אִשָּׁה."
+    },
+    {
+     "id": "24:51.7",
+     "gloss": "a wife",
+     "sense": "2",
+     "note": "No article: 'a wife', not 'the wife'."
+    },
+    {
+     "id": "24:51.8",
+     "gloss": "to the son of",
+     "sense": "1",
+     "note": "Construct: 'son of' your lord."
+    },
+    {
+     "id": "24:51.9",
+     "gloss": "your lord",
+     "note": "The plural form אֲדֹנֶיךָ is used here of one master; the English reads it as singular."
+    },
+    {
+     "id": "24:51.10",
+     "gloss": "as",
+     "sense": "1"
+    },
+    {
+     "id": "24:51.11",
+     "gloss": "has spoken",
+     "sense": "Pi",
+     "note": "Piel perfect, 3rd person masculine singular. Ibn Ezra glosses it 'decreed' (גזר) or 'showed in a dream'; the English keeps the plain 'spoken', which both fit."
+    },
+    {
+     "id": "24:51.12",
+     "gloss": "the LORD",
+     "sense": "I"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:51.1",
+      "24:51.2"
+     ],
+     "english": "Here is Rebekah",
+     "literal": "lo Rebekah"
+    },
+    {
+     "tokens": [
+      "24:51.3"
+     ],
+     "english": "before you",
+     "literal": "before-your-face"
+    },
+    {
+     "tokens": [
+      "24:51.4",
+      "24:51.5",
+      "24:51.6"
+     ],
+     "english": "take and go, and let her be",
+     "literal": "take and-go and-let-her-be"
+    },
+    {
+     "tokens": [
+      "24:51.7"
+     ],
+     "english": "a wife",
+     "literal": "wife"
+    },
+    {
+     "tokens": [
+      "24:51.8",
+      "24:51.9"
+     ],
+     "english": "to your master's son",
+     "literal": "to-son-of your-lords"
+    },
+    {
+     "tokens": [
+      "24:51.10",
+      "24:51.11",
+      "24:51.12"
+     ],
+     "english": "as the LORD has spoken",
+     "literal": "as spoke the-LORD"
+    }
+   ],
+   "grammar": [
+    "הִנֵּה is 'here', not 'behold': it presents the woman standing before the speakers.",
+    "קַח וָלֵךְ: two imperatives joined by waw, 'take and go'; the object of 'take' is the woman just named.",
+    "וּתְהִי is a jussive, 'let her be', with the predicate noun אִשָּׁה, which has no article.",
+    "The speech of Laban and Bethuel, opened in 24:50, closes at the end of this verse."
+   ],
+   "note": "The verb דִּבֶּר is the Piel of דָבַר, 'speak'. Ibn Ezra glosses it 'decreed' (גזר), citing Psalm 33:6, or else 'showed in a dream'; the English keeps the plain 'spoken', which fits both, and the glosses are recorded in the commentary.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:51:1",
+     "relation": "records",
+     "summary": "Ibn Ezra: דבר ד' means 'decreed' (גזר), as in 'by the word of the LORD the heavens were made' (Ps 33:6); or else he showed it in a dream (הוכיח בחלום). The English keeps the plain 'has spoken', which both readings fit; the glosses are recorded here."
+    }
+   ]
+  },
+  {
+   "ref": "24:52",
+   "english": "And it came about that, as Abraham's servant heard their words, he bowed down to the ground, to the LORD.",
+   "literal": "and-it-came-about as heard servant-of Abraham (object) words-of-them and-he-bowed-down to-the-ground to-the-LORD",
+   "tokens": [
+    {
+     "id": "24:52.1",
+     "gloss": "and it came about",
+     "sense": "Qal I.2.a.(1)",
+     "note": "Wayyiqtol of היה: the formula for a new event."
+    },
+    {
+     "id": "24:52.2",
+     "gloss": "as",
+     "sense": "1"
+    },
+    {
+     "id": "24:52.3",
+     "gloss": "heard",
+     "sense": "Qal 1",
+     "note": "Perfect, 3rd person masculine singular."
+    },
+    {
+     "id": "24:52.4",
+     "gloss": "servant",
+     "sense": "1"
+    },
+    {
+     "id": "24:52.5",
+     "gloss": "of Abraham"
+    },
+    {
+     "id": "24:52.6",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "24:52.7",
+     "gloss": "their words",
+     "sense": "III",
+     "note": "Plural of דָּבָר, with the 3rd person masculine plural suffix."
+    },
+    {
+     "id": "24:52.8",
+     "gloss": "and bowed down",
+     "sense": "Hithpa‛lēl 2",
+     "note": "Hishtaphel (BDB: Hithpa‛lēl) of שָׁחָה, a stem found only in this verb: 'bowed himself down'."
+    },
+    {
+     "id": "24:52.9",
+     "gloss": "to the ground",
+     "sense": "3.a",
+     "note": "The directional ה: toward the ground."
+    },
+    {
+     "id": "24:52.10",
+     "gloss": "to the LORD",
+     "sense": "I",
+     "note": "ל with the divine name: the bowing is directed to the LORD."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:52.1",
+      "24:52.2"
+     ],
+     "english": "And it came about that, as",
+     "literal": "and-it-came-about as"
+    },
+    {
+     "tokens": [
+      "24:52.3",
+      "24:52.4",
+      "24:52.5"
+     ],
+     "english": "Abraham's servant heard",
+     "literal": "heard servant-of-Abraham"
+    },
+    {
+     "tokens": [
+      "24:52.6"
+     ],
+     "english": "-",
+     "literal": "(object)"
+    },
+    {
+     "tokens": [
+      "24:52.7"
+     ],
+     "english": "their words",
+     "literal": "words-of-them"
+    },
+    {
+     "tokens": [
+      "24:52.8"
+     ],
+     "english": "he bowed down",
+     "literal": "and-he-bowed-down"
+    },
+    {
+     "tokens": [
+      "24:52.9"
+     ],
+     "english": "to the ground",
+     "literal": "to-the-ground"
+    },
+    {
+     "tokens": [
+      "24:52.10"
+     ],
+     "english": "to the LORD",
+     "literal": "to-the-LORD"
+    }
+   ],
+   "grammar": [
+    "וַיְהִי כַּאֲשֶׁר: 'it came about that, as' opens a temporal clause; the main clause begins with the wayyiqtol וַיִּשְׁתַּחוּ.",
+    "וַיִּשְׁתַּחוּ is the hishtaphel (BDB: Hithpa‛lēl) of שָׁחָה, 'bow oneself down'. The directional ה of אַרְצָה gives 'to the ground'.",
+    "The object marker אֵת before 'their words' has no English counterpart."
+   ],
+   "note": "The bowing is the servant's reaction to hearing the answer of the family. The English keeps 'to the ground' and does not describe the posture.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:52:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: from this verse one learns to give thanks for good news. A lesson, not the plain sense of the words."
+    },
+    {
+     "anchor": "radak:24:52:1",
+     "relation": "records",
+     "summary": "Radak: the bowing is a full prostration, flat on the ground with hands and feet stretched out. The English says only 'to the ground'."
+    }
+   ]
+  },
+  {
+   "ref": "24:53",
+   "english": "And the servant brought out vessels of silver and vessels of gold and garments, and gave to Rebekah; and choice things he gave to her brother and to her mother.",
+   "literal": "and-brought-out the-servant vessels-of silver and-vessels-of gold and-garments and-gave to-Rebekah and-choice-things he-gave to-brother-of-her and-to-mother-of-her",
+   "tokens": [
+    {
+     "id": "24:53.1",
+     "gloss": "and brought out",
+     "sense": "Hiph 3",
+     "note": "Wayyiqtol, hifil of יָצָא."
+    },
+    {
+     "id": "24:53.2",
+     "gloss": "the servant",
+     "sense": "1"
+    },
+    {
+     "id": "24:53.3",
+     "gloss": "vessels of",
+     "note": "Construct plural of כְּלִי."
+    },
+    {
+     "id": "24:53.4",
+     "gloss": "silver",
+     "sense": "7",
+     "note": "Silver as material."
+    },
+    {
+     "id": "24:53.5",
+     "gloss": "and vessels of"
+    },
+    {
+     "id": "24:53.6",
+     "gloss": "gold",
+     "sense": "6",
+     "note": "Gold as material."
+    },
+    {
+     "id": "24:53.7",
+     "gloss": "and garments"
+    },
+    {
+     "id": "24:53.8",
+     "gloss": "and gave",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol. No object is expressed for the gift to Rebekah."
+    },
+    {
+     "id": "24:53.9",
+     "gloss": "to Rebekah"
+    },
+    {
+     "id": "24:53.10",
+     "gloss": "and choice things",
+     "note": "BDB: 'choice, excellent thing'. Rashi takes it as kinds of fruit (from מגדים); Ibn Ezra derives it from מגדים (Song 4:13), or reads it as 'noble garments'; Radak takes it as every choice thing, fruits, vessels and garments. The English keeps the entry's wide sense."
+    },
+    {
+     "id": "24:53.11",
+     "gloss": "he gave",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:53.12",
+     "gloss": "to her brother",
+     "sense": "1"
+    },
+    {
+     "id": "24:53.13",
+     "gloss": "and to her mother",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:53.1",
+      "24:53.2"
+     ],
+     "english": "And the servant brought out",
+     "literal": "and-brought-out the-servant"
+    },
+    {
+     "tokens": [
+      "24:53.3",
+      "24:53.4"
+     ],
+     "english": "vessels of silver",
+     "literal": "vessels-of silver"
+    },
+    {
+     "tokens": [
+      "24:53.5",
+      "24:53.6"
+     ],
+     "english": "and vessels of gold",
+     "literal": "and-vessels-of gold"
+    },
+    {
+     "tokens": [
+      "24:53.7"
+     ],
+     "english": "and garments",
+     "literal": "and-garments"
+    },
+    {
+     "tokens": [
+      "24:53.8",
+      "24:53.9"
+     ],
+     "english": "and gave to Rebekah",
+     "literal": "and-gave to-Rebekah"
+    },
+    {
+     "tokens": [
+      "24:53.10",
+      "24:53.11"
+     ],
+     "english": "and choice things he gave",
+     "literal": "and-choice-things he-gave"
+    },
+    {
+     "tokens": [
+      "24:53.12",
+      "24:53.13"
+     ],
+     "english": "to her brother and to her mother",
+     "literal": "to-brother-of-her and-to-mother-of-her"
+    }
+   ],
+   "grammar": [
+    "The gifts are three: vessels of silver, vessels of gold, and garments. The construct 'vessels of' stands before each material.",
+    "The etnaḥta on לְרִבְקָה (24:53.9) divides the gifts to Rebekah from the gifts to her family.",
+    "וַיִּתֵּן לְרִבְקָה has no object, and the English does not supply one; the gifts named before it are understood.",
+    "מִגְדָּנֹת is a feminine plural noun, BDB 'choice, excellent things'; the specific meaning is disputed (fruit, garments, or any choice thing), and the English keeps the general sense."
+   ],
+   "note": "The English 'choice things' keeps the general sense of the word (BDB: choice, excellent thing). Rashi reads 'fruits'; Ibn Ezra derives it from מגדים (Song 4:13), or else reads 'noble garments'; both are recorded in the commentary.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:53:1",
+     "relation": "records",
+     "summary": "Rashi: מִגְדָּנוֹת is from מְגָדִים, 'delicacies'; he brought with him kinds of fruit from the land of Israel. The English keeps the wider 'choice things'."
+    },
+    {
+     "anchor": "ibn-ezra:24:53:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the word is from מגדים (Song 4:13); or it means 'noble garments' (מלבושים נכבדים), the נ being a root letter, as in מטפחות. The English 'choice things' fits the first derivation and the entry; the second reading is recorded here."
+    }
+   ],
+   "context": [
+    "Gifts given to the bride and to her family when the marriage is agreed are known from the ancient Near East. The text does not call them a bride-price; the word מֹהַר, which Genesis uses of Shechem's offer (34:12), does not occur here."
+   ]
+  },
+  {
+   "ref": "24:54",
+   "english": "They ate and drank, he and the men who were with him, and they spent the night; and they rose in the morning, and he said, \"Send me away to my master.\"",
+   "literal": "and-they-ate and-they-drank he and-the-men who with-him and-they-spent-the-night and-they-rose in-the-morning and-he-said send-me-away to-my-lord",
+   "tokens": [
+    {
+     "id": "24:54.1",
+     "gloss": "they ate",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol, 3rd person masculine plural."
+    },
+    {
+     "id": "24:54.2",
+     "gloss": "and drank",
+     "sense": "Qal"
+    },
+    {
+     "id": "24:54.3",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "24:54.4",
+     "gloss": "and the men"
+    },
+    {
+     "id": "24:54.5",
+     "gloss": "who"
+    },
+    {
+     "id": "24:54.6",
+     "gloss": "with him",
+     "sense": "3"
+    },
+    {
+     "id": "24:54.7",
+     "gloss": "and they spent the night",
+     "sense": "Qal 1",
+     "note": "Rashi notes that the verb means a single night's lodging."
+    },
+    {
+     "id": "24:54.8",
+     "gloss": "and they rose",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:54.9",
+     "gloss": "in the morning",
+     "sense": "1"
+    },
+    {
+     "id": "24:54.10",
+     "gloss": "and he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:54.11",
+     "gloss": "send me away",
+     "sense": "Pi 1",
+     "note": "Imperative, 2nd person masculine plural, with the 1st person singular suffix."
+    },
+    {
+     "id": "24:54.12",
+     "gloss": "to my lord"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:54.1"
+     ],
+     "english": "They ate",
+     "literal": "and-they-ate"
+    },
+    {
+     "tokens": [
+      "24:54.2"
+     ],
+     "english": "and drank",
+     "literal": "and-they-drank"
+    },
+    {
+     "tokens": [
+      "24:54.3",
+      "24:54.4"
+     ],
+     "english": "he and the men",
+     "literal": "he and-the-men"
+    },
+    {
+     "tokens": [
+      "24:54.5",
+      "24:54.6"
+     ],
+     "english": "who were with him",
+     "literal": "who with-him"
+    },
+    {
+     "tokens": [
+      "24:54.7"
+     ],
+     "english": "and they spent the night",
+     "literal": "and-they-spent-the-night"
+    },
+    {
+     "tokens": [
+      "24:54.8",
+      "24:54.9"
+     ],
+     "english": "and they rose in the morning",
+     "literal": "and-they-rose in-the-morning"
+    },
+    {
+     "tokens": [
+      "24:54.10"
+     ],
+     "english": "and he said",
+     "literal": "and-he-said"
+    },
+    {
+     "tokens": [
+      "24:54.11",
+      "24:54.12"
+     ],
+     "english": "Send me away to my master",
+     "literal": "send-me-away to-my-lord"
+    }
+   ],
+   "grammar": [
+    "The subject of the verbs is 'they', the servant's party; 'he and the men who were with him' is added after the verbs, as the Hebrew places it.",
+    "The wayyiqtol chain 'and they ate … and they spent the night … and they rose … and he said' gives the order of the morning.",
+    "שַׁלְּחֻנִי is an imperative plural addressed to the family, with the 1st person singular suffix: 'send me away'.",
+    "The speech is a single clause, 'Send me away to my lord', opened and closed in this verse."
+   ],
+   "note": "The sequence is eating, drinking, lodging, then departure. The servant's request is brief and is repeated in 24:56.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:54:1",
+     "relation": "follows",
+     "summary": "Rashi: every 'lodging' (לִינָה) in Scripture is a lodging for one night. The English 'spent the night' keeps this."
+    }
+   ]
+  },
+  {
+   "ref": "24:55",
+   "english": "Her brother and her mother said, \"Let the girl stay with us some days, or ten; after that she will go.\"",
+   "literal": "and-said brother-of-her and-mother-of-her will-stay the-girl with-us days or ten after she-will-go",
+   "tokens": [
+    {
+     "id": "24:55.1",
+     "gloss": "said",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol, singular before a compound subject."
+    },
+    {
+     "id": "24:55.2",
+     "gloss": "her brother",
+     "sense": "1"
+    },
+    {
+     "id": "24:55.3",
+     "gloss": "and her mother",
+     "sense": "1"
+    },
+    {
+     "id": "24:55.4",
+     "gloss": "stay",
+     "sense": "Qal 2.a",
+     "note": "Yiqtol, 3rd person feminine singular, read as a request: 'let the girl stay'."
+    },
+    {
+     "id": "24:55.5",
+     "gloss": "the girl",
+     "sense": "1"
+    },
+    {
+     "id": "24:55.6",
+     "gloss": "with us",
+     "sense": "1"
+    },
+    {
+     "id": "24:55.7",
+     "gloss": "days",
+     "sense": "4",
+     "note": "Plural of יוֹם. The length of time is in dispute; see the commentary."
+    },
+    {
+     "id": "24:55.8",
+     "gloss": "or",
+     "sense": "2"
+    },
+    {
+     "id": "24:55.9",
+     "gloss": "ten",
+     "note": "עָשׂוֹר, 'a ten' (BDB); the Hebrew names no unit."
+    },
+    {
+     "id": "24:55.10",
+     "gloss": "after that",
+     "sense": "3"
+    },
+    {
+     "id": "24:55.11",
+     "gloss": "she will go",
+     "sense": "Qal I.1",
+     "note": "Yiqtol; the form is 2nd masculine or 3rd feminine singular (the dataset parses it 2nd masculine). The subject continues from תֵּשֵׁב: the girl."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:55.1",
+      "24:55.2",
+      "24:55.3"
+     ],
+     "english": "Her brother and her mother said",
+     "literal": "said brother-of-her and-mother-of-her"
+    },
+    {
+     "tokens": [
+      "24:55.4",
+      "24:55.5",
+      "24:55.6"
+     ],
+     "english": "Let the girl stay with us",
+     "literal": "will-stay the-girl with-us"
+    },
+    {
+     "tokens": [
+      "24:55.7",
+      "24:55.8",
+      "24:55.9"
+     ],
+     "english": "some days, or ten",
+     "literal": "days or ten"
+    },
+    {
+     "tokens": [
+      "24:55.10"
+     ],
+     "english": "after that",
+     "literal": "after"
+    },
+    {
+     "tokens": [
+      "24:55.11"
+     ],
+     "english": "she will go",
+     "literal": "she-will-go"
+    }
+   ],
+   "grammar": [
+    "The subject is compound, 'brother and mother', and the verb וַיֹּאמֶר is singular before it.",
+    "תֵּשֵׁב is a yiqtol with the sense of a request. Its subject is the girl.",
+    "The etnaḥta on עָשׂוֹר (24:55.9) closes the proposal before אַחַר. תֵּלֵךְ may be 2nd masculine or 3rd feminine; the girl, the subject of תֵּשֵׁב, is the subject here.",
+    "יָמִים אוֹ עָשׂוֹר is literal: 'days or ten'. The unit is not stated, and the commentators disagree about it."
+   ],
+   "note": "The speech is the family's request. The period is not fixed in the words. Rashi and Radak read it as months or a year; the English keeps the Hebrew.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:55:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the brother and the mother spoke because they had received the gifts, and the father kept silent. Laban may have been greater than Bethuel in wisdom and honour, since the text says 'Laban and Bethuel answered' (24:50)."
+    },
+    {
+     "anchor": "rashi:24:55:1",
+     "relation": "declines",
+     "summary": "Rashi asks where Bethuel was; he wished to delay the matter and an angel came and killed him. This is not in the words, and the English does not adopt it."
+    },
+    {
+     "anchor": "rashi:24:55:2",
+     "relation": "records",
+     "summary": "Rashi: יָמִים here means a year, as in 'days shall his redemption be' (Lev 25:29); so a betrothed girl is given twelve months to provide herself with ornaments (Ketubot 57). The English keeps 'days'."
+    },
+    {
+     "anchor": "rashi:24:55:3",
+     "relation": "records",
+     "summary": "Rashi: עָשׂוֹר is ten months; for if you say plain days, petitioners do not ask for a small thing; and if you will not, give us more than this. The English keeps 'days or ten'."
+    }
+   ],
+   "context": [
+    "The Hebrew says 'days, or a ten' and names no unit. Onkelos reads 'ten months'; Rashi and Radak read a year or ten months; the plain words leave the unit open. The English keeps the Hebrew's openness."
+   ]
+  },
+  {
+   "ref": "24:56",
+   "english": "He said to them, \"Do not hold me back; the LORD has made my journey prosper. Send me away, and I will go to my master.\"",
+   "literal": "and-said to-them not hold-back-me and-the-LORD has-made-prosper my-journey send-me-away and-I-will-go to-my-lord",
+   "tokens": [
+    {
+     "id": "24:56.1",
+     "gloss": "he said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:56.2",
+     "gloss": "to them",
+     "sense": "1"
+    },
+    {
+     "id": "24:56.3",
+     "gloss": "do not"
+    },
+    {
+     "id": "24:56.4",
+     "gloss": "hold back",
+     "sense": "Pi 2",
+     "note": "Jussive, 2nd person masculine plural, Piel: 'cause to be delayed'."
+    },
+    {
+     "id": "24:56.5",
+     "gloss": "me",
+     "note": "The object marker with the 1st person suffix."
+    },
+    {
+     "id": "24:56.6",
+     "gloss": "the LORD",
+     "sense": "I",
+     "note": "The waw is not rendered separately."
+    },
+    {
+     "id": "24:56.7",
+     "gloss": "has made prosper",
+     "sense": "Hiph 1",
+     "note": "Perfect, hifil: the LORD has made the journey succeed."
+    },
+    {
+     "id": "24:56.8",
+     "gloss": "my journey",
+     "sense": "2"
+    },
+    {
+     "id": "24:56.9",
+     "gloss": "send me away",
+     "sense": "Pi 1",
+     "note": "Imperative, 2nd person masculine plural."
+    },
+    {
+     "id": "24:56.10",
+     "gloss": "and I will go",
+     "sense": "Qal I.1",
+     "note": "Cohortative, 1st person singular: his resolve."
+    },
+    {
+     "id": "24:56.11",
+     "gloss": "to my lord"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:56.1",
+      "24:56.2"
+     ],
+     "english": "He said to them",
+     "literal": "and-said to-them"
+    },
+    {
+     "tokens": [
+      "24:56.3",
+      "24:56.4",
+      "24:56.5"
+     ],
+     "english": "Do not hold me back",
+     "literal": "not hold-back-me"
+    },
+    {
+     "tokens": [
+      "24:56.6",
+      "24:56.7",
+      "24:56.8"
+     ],
+     "english": "the LORD has made my journey prosper",
+     "literal": "and-the-LORD has-made-prosper my-journey"
+    },
+    {
+     "tokens": [
+      "24:56.9"
+     ],
+     "english": "Send me away",
+     "literal": "send-me-away"
+    },
+    {
+     "tokens": [
+      "24:56.10",
+      "24:56.11"
+     ],
+     "english": "and I will go to my master",
+     "literal": "and-I-will-go to-my-lord"
+    }
+   ],
+   "grammar": [
+    "תְּאַחֲרוּ is a Piel jussive, 2nd person plural, addressed to the family: 'do not hold me back'.",
+    "הִצְלִיחַ is a hifil perfect with the LORD as subject: the servant reads his journey as already successful.",
+    "שַׁלְּחוּנִי is the same imperative as in 24:54: 'send me away'.",
+    "וְאֵלְכָה is a cohortative, 'and I will go', which marks his resolve."
+   ],
+   "note": "This is the servant's closing speech in the unit; it closes at the end of the verse.",
+   "commentary": []
+  }
+ ]
+}

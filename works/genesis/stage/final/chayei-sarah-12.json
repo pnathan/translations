@@ -1,0 +1,1022 @@
+{
+ "unit": "chayei-sarah-12",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "24:65",
+   "english": "And she said to the servant, \"Who is this man walking in the field to meet us?\" And the servant said, \"He is my master.\" And she took the veil and covered herself.",
+   "literal": "and-she-said to the-servant who the-man this the-walking in-the-field for-meeting-us and-said the-servant he my-lord and-she-took the-veil and-she-covered-herself",
+   "tokens": [
+    {
+     "id": "24:65.1",
+     "gloss": "and she said",
+     "sense": "Qal 1",
+     "note": "wayyiqtol (sequential imperfect), 3rd person feminine singular: the sequential form carries the narrative on."
+    },
+    {
+     "id": "24:65.2",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "24:65.3",
+     "gloss": "the servant",
+     "sense": "1"
+    },
+    {
+     "id": "24:65.4",
+     "gloss": "who",
+     "sense": "a",
+     "note": "interrogative of persons; the lexicon notes it is rarely used of things."
+    },
+    {
+     "id": "24:65.5",
+     "gloss": "the man"
+    },
+    {
+     "id": "24:65.6",
+     "gloss": "this"
+    },
+    {
+     "id": "24:65.7",
+     "gloss": "walking",
+     "sense": "Qal I.1",
+     "note": "participle with the article, attributive to 'the man': 'the man who is walking'."
+    },
+    {
+     "id": "24:65.8",
+     "gloss": "in the field",
+     "sense": "1"
+    },
+    {
+     "id": "24:65.9",
+     "gloss": "to meet us",
+     "sense": "Qal 1",
+     "note": "lamed with the infinitive construct of qara and the 1st person plural suffix: 'for meeting us', idiomatically 'to meet us'."
+    },
+    {
+     "id": "24:65.10",
+     "gloss": "and said",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:65.11",
+     "gloss": "the servant",
+     "sense": "1"
+    },
+    {
+     "id": "24:65.12",
+     "gloss": "he",
+     "sense": "1"
+    },
+    {
+     "id": "24:65.13",
+     "gloss": "my lord",
+     "note": "construct form of adon with the 1st person singular suffix, אֲדֹנִי (hiriq, not the divine title אֲדֹנָי with qamats); addressed here to a man, so 'my lord'."
+    },
+    {
+     "id": "24:65.14",
+     "gloss": "and she took",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "24:65.15",
+     "gloss": "the veil",
+     "note": "a wrap or shawl; 'veil' is the English choice, and the text gives no detail of its shape."
+    },
+    {
+     "id": "24:65.16",
+     "gloss": "and she covered herself",
+     "sense": "Hithp",
+     "note": "hitpaʿel wayyiqtol, 3rd person feminine singular: the reflexive 'she covered herself'; the verb has no object."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:65.1",
+      "24:65.2",
+      "24:65.3"
+     ],
+     "english": "And she said to the servant",
+     "literal": "'and-she-said to the-servant': the wayyiqtol gives the narrative sequence; the feminine verb names her as subject."
+    },
+    {
+     "tokens": [
+      "24:65.4",
+      "24:65.5",
+      "24:65.6"
+     ],
+     "english": "Who is this man",
+     "literal": "'who the-man this': an interrogative question about a person; 'is' is the English copula."
+    },
+    {
+     "tokens": [
+      "24:65.7",
+      "24:65.8",
+      "24:65.9"
+     ],
+     "english": "walking in the field to meet us",
+     "literal": "'the-walking in-the-field for-meeting-us': the participle is attributive to 'the man'."
+    },
+    {
+     "tokens": [
+      "24:65.10",
+      "24:65.11"
+     ],
+     "english": "And the servant said",
+     "literal": "'and-said the-servant': the verb is followed by its subject."
+    },
+    {
+     "tokens": [
+      "24:65.12",
+      "24:65.13"
+     ],
+     "english": "He is my master",
+     "literal": "'he my-lord': a verbless clause; 'is' is the English copula."
+    },
+    {
+     "tokens": [
+      "24:65.14",
+      "24:65.15",
+      "24:65.16"
+     ],
+     "english": "And she took the veil and covered herself",
+     "literal": "'and-she-took the-veil and-she-covered-herself': two wayyiqtol verbs, the second reflexive."
+    }
+   ],
+   "grammar": [
+    "וַתֹּאמֶר is a wayyiqtol (sequential imperfect); the English 'and she said' keeps its feminine subject.",
+    "The interrogative מִי is followed by הַלָּזֶה and the attributive participle הַהֹלֵךְ, so the question reads 'who is this man walking in the field'.",
+    "The etnaḥta on אֲדֹנִי closes the servant's answer; the merkha on וַתִּקַּח and the tipḥa on הַצָּעִיף carry the last clause to the silluq on וַתִּתְכָּס.",
+    "וַתִּתְכָּס is hitpaʿel (reflexive), so the verb has no separate object: 'she covered herself'."
+   ],
+   "note": "The two speeches are each introduced with a comma and close within this verse. 'Veil' renders צָעִיף, which the lexicon gives as wrapper, shawl or veil. Ibn Ezra's ruling on the binyan of וַתִּתְכָּס is followed; Radak's account of what happened before the question is recorded in the commentary, not the English.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:65:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the form is of the hitpaʿel; its first tav is the feminine marker, which does not occur in the root, and its second tav is the hitpaʿel's."
+    },
+    {
+     "anchor": "rashi:24:65:1",
+     "relation": "follows",
+     "summary": "Rashi: the form is of the wattitpaʿel pattern, like the forms wattiqqaber and wattishshaber."
+    },
+    {
+     "anchor": "radak:24:65:1",
+     "relation": "not-applicable",
+     "summary": "Radak: before she fell from the camel she asked the servant who the man was, since she feared he was Isaac or one of his household."
+    }
+   ]
+  },
+  {
+   "ref": "24:66",
+   "english": "And the servant told Isaac all the things that he did.",
+   "literal": "and-told the-servant to-Isaac [acc] all the-things that he-did",
+   "tokens": [
+    {
+     "id": "24:66.1",
+     "gloss": "and told",
+     "sense": "Pi",
+     "note": "piel wayyiqtol of saphar: 'recount, relate'; not the qal 'count'."
+    },
+    {
+     "id": "24:66.2",
+     "gloss": "the servant",
+     "sense": "1"
+    },
+    {
+     "id": "24:66.3",
+     "gloss": "to Isaac"
+    },
+    {
+     "id": "24:66.4",
+     "gloss": "-",
+     "note": "object marker; no English counterpart."
+    },
+    {
+     "id": "24:66.5",
+     "gloss": "all",
+     "sense": "1"
+    },
+    {
+     "id": "24:66.6",
+     "gloss": "the things",
+     "sense": "IV",
+     "note": "'matter, affair': the deeds of 24:66, as the verb 'did' fixes them."
+    },
+    {
+     "id": "24:66.7",
+     "gloss": "that",
+     "note": "relative particle."
+    },
+    {
+     "id": "24:66.8",
+     "gloss": "he did",
+     "sense": "Qal I.1",
+     "note": "perfect (qatal), 3rd person masculine singular, in a relative clause after its noun."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:66.1",
+      "24:66.2",
+      "24:66.3"
+     ],
+     "english": "And the servant told Isaac",
+     "literal": "'and-told the-servant to-Isaac': a wayyiqtol with its subject after the verb."
+    },
+    {
+     "tokens": [
+      "24:66.4",
+      "24:66.5",
+      "24:66.6",
+      "24:66.7",
+      "24:66.8"
+     ],
+     "english": "all the things that he did",
+     "literal": "'[acc] all the-things that he-did': the object marker has no English; the relative clause follows its noun."
+    }
+   ],
+   "grammar": [
+    "וַיְסַפֵּר is the piel wayyiqtol of סָפַר, 'recount, relate', not the qal 'count'.",
+    "The object is כׇּל־הַדְּבָרִים with the object marker before it; אֲשֶׁר עָשָׂה is a relative clause whose subject is the servant.",
+    "The merkha on וַיְסַפֵּר and the tipḥa on הָעֶבֶד and on הַדְּבָרִים divide the verse into short units."
+   ],
+   "note": "The English keeps 'the things that he did' as the Hebrew has it. Radak's wider reading (what the servant said as well) is recorded in the commentary.",
+   "commentary": [
+    {
+     "anchor": "rashi:24:66:1",
+     "relation": "not-applicable",
+     "summary": "Rashi: the servant told Isaac the miracles done for him: the earth shrank before him, and Rebekah was brought to meet him in answer to his prayer (Bereshit Rabbah)."
+    },
+    {
+     "anchor": "radak:24:66:1",
+     "relation": "records",
+     "summary": "Radak: 'all the matters' covers what he said and what he did and how the business came about; he told it all on the way until they reached the city."
+    }
+   ]
+  },
+  {
+   "ref": "24:67",
+   "english": "Isaac brought her into the tent of Sarah his mother. He took Rebekah, and she became his wife, and he loved her. Isaac was comforted after his mother.",
+   "literal": "and-brought-her Isaac the-tent-ward Sarah his-mother and-took [acc] Rebekah and-she-became to-him for-wife and-he-loved-her and-was-comforted Isaac after his-mother",
+   "tokens": [
+    {
+     "id": "24:67.1",
+     "gloss": "and brought her",
+     "sense": "Hiph 1",
+     "note": "hifil wayyiqtol, 3rd person masculine singular, with the 3rd person feminine singular suffix as object."
+    },
+    {
+     "id": "24:67.2",
+     "gloss": "Isaac"
+    },
+    {
+     "id": "24:67.3",
+     "gloss": "into the tent",
+     "sense": "1",
+     "note": "the directional he on the noun gives motion 'into'. The English 'of' before Sarah follows Ibn Ezra's reading of the elided construct."
+    },
+    {
+     "id": "24:67.4",
+     "gloss": "Sarah"
+    },
+    {
+     "id": "24:67.5",
+     "gloss": "his mother",
+     "sense": "1"
+    },
+    {
+     "id": "24:67.6",
+     "gloss": "and he took",
+     "sense": "Qal 1",
+     "note": "taking a wife: the lexicon's sense 'take'."
+    },
+    {
+     "id": "24:67.7",
+     "gloss": "-",
+     "note": "object marker."
+    },
+    {
+     "id": "24:67.8",
+     "gloss": "Rebekah"
+    },
+    {
+     "id": "24:67.9",
+     "gloss": "and she became",
+     "sense": "Qal II.2.d",
+     "note": "wayyiqtol of hayah with the lamed of the person: 'became to him' (as a wife)."
+    },
+    {
+     "id": "24:67.10",
+     "gloss": "his"
+    },
+    {
+     "id": "24:67.11",
+     "gloss": "wife",
+     "sense": "2"
+    },
+    {
+     "id": "24:67.12",
+     "gloss": "and he loved her",
+     "sense": "Qal 1",
+     "note": "the suffix is the object."
+    },
+    {
+     "id": "24:67.13",
+     "gloss": "and he was comforted",
+     "sense": "Niph 3",
+     "note": "niphal wayyiqtol: 'was comforted'."
+    },
+    {
+     "id": "24:67.14",
+     "gloss": "Isaac"
+    },
+    {
+     "id": "24:67.15",
+     "gloss": "after",
+     "sense": "2.b"
+    },
+    {
+     "id": "24:67.16",
+     "gloss": "his mother",
+     "sense": "1"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "24:67.1",
+      "24:67.2",
+      "24:67.3",
+      "24:67.4",
+      "24:67.5"
+     ],
+     "english": "Isaac brought her into the tent of Sarah his mother",
+     "literal": "'brought-her Isaac the-tent-ward Sarah his-mother': the English 'of' supplies the elided construct, on Ibn Ezra's reading."
+    },
+    {
+     "tokens": [
+      "24:67.6",
+      "24:67.7",
+      "24:67.8"
+     ],
+     "english": "he took Rebekah",
+     "literal": "'and-took [acc] Rebekah': the object marker has no English."
+    },
+    {
+     "tokens": [
+      "24:67.9",
+      "24:67.10",
+      "24:67.11"
+     ],
+     "english": "and she became his wife",
+     "literal": "'and-she-became to-him for-wife': the lamed gives 'his'."
+    },
+    {
+     "tokens": [
+      "24:67.12"
+     ],
+     "english": "and he loved her",
+     "literal": "'and-he-loved-her': the suffix is the object."
+    },
+    {
+     "tokens": [
+      "24:67.13",
+      "24:67.14",
+      "24:67.15",
+      "24:67.16"
+     ],
+     "english": "Isaac was comforted after his mother",
+     "literal": "'and-was-comforted Isaac after his-mother': the Hebrew says 'after his mother', not 'after her death'."
+    }
+   ],
+   "grammar": [
+    "וַיְבִאֶהָ is a hifil wayyiqtol with the feminine suffix as object: 'brought her'.",
+    "הָאֹהֱלָה שָׂרָה אִמּוֹ has no verb or preposition of its own; the directional he and the construct give 'into the tent of Sarah his mother' on Ibn Ezra's elided reading.",
+    "וַיִּנָּחֵם is a niphal wayyiqtol, 'was comforted', from נָחַם; the sentence has a chain of wayyiqtol verbs.",
+    "The etnaḥta on וַיֶּאֱהָבֶהָ divides the verse; the verse ends a section of the text (the paragraph mark after it)."
+   ],
+   "note": "'Of Sarah' follows Ibn Ezra's reading of the words as an elided construct (the tent [of] Sarah his mother); Rashi's reading, that Rebekah became like Sarah his mother, is recorded. 'After his mother' keeps the Hebrew; Onkelos' 'after the death of his mother' and Rashi's reading of the custom are recorded.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:24:67:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: a short way of speaking, 'the tent (of) Sarah his mother'; he cites the same ellipsis in 'the prophecy, Oded the prophet' (2 Chronicles 15:8) and 'your throne, God' (Psalm 45:7)."
+    },
+    {
+     "anchor": "rashi:24:67:1",
+     "relation": "records",
+     "summary": "Rashi: Isaac brought her into the tent, and she became the likeness of Sarah his mother, as if to say, here she was Sarah his mother; for as long as Sarah lived a lamp burned from Sabbath eve to Sabbath eve, there was a blessing in the dough and a cloud tied over the tent; these ceased at her death and returned when Rebekah came (Bereshit Rabbah)."
+    },
+    {
+     "anchor": "rashi:24:67:2",
+     "relation": "records",
+     "summary": "Rashi: it is the custom of the land that while a man's mother lives he clings to her, and after her death he is comforted by his wife."
+    },
+    {
+     "anchor": "ramban:24:67:1",
+     "relation": "follows",
+     "summary": "Ramban: the construct is elided, 'the tent (of) Sarah his mother'; since Sarah died they did not pitch her tent, and Isaac brought Rebekah into it as a mark of honour to his mother."
+    },
+    {
+     "anchor": "onkelos:24:67:1",
+     "relation": "records",
+     "summary": "Onkelos: Isaac was comforted after the death of his mother (batar demitat immeh)."
+    },
+    {
+     "anchor": "radak:24:67:5",
+     "relation": "not-applicable",
+     "summary": "Radak: 'and he loved her' means a greater love, because he saw in her good qualities and modesty like his mother's; most men love their wives."
+    }
+   ]
+  },
+  {
+   "ref": "25:1",
+   "english": "And Abraham again took a wife, and her name was Keturah.",
+   "literal": "and-added Abraham and-took wife and-her-name Keturah",
+   "tokens": [
+    {
+     "id": "25:1.1",
+     "gloss": "again",
+     "sense": "Hiph 2.a",
+     "note": "hifil of yasaph used adverbially, 'add again'; the wayyiqtol that follows gives the action."
+    },
+    {
+     "id": "25:1.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "25:1.3",
+     "gloss": "took",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "25:1.4",
+     "gloss": "a wife",
+     "sense": "2",
+     "note": "the word means woman or wife; 'wife' here, with the indefinite article English requires."
+    },
+    {
+     "id": "25:1.5",
+     "gloss": "and her name",
+     "sense": "2.a",
+     "note": "construct of shem with the 3rd person feminine singular suffix: 'her name'."
+    },
+    {
+     "id": "25:1.6",
+     "gloss": "Keturah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:1.1",
+      "25:1.2",
+      "25:1.3",
+      "25:1.4"
+     ],
+     "english": "And Abraham again took a wife",
+     "literal": "'added Abraham and-took wife': the hifil of yasaph with the wayyiqtol."
+    },
+    {
+     "tokens": [
+      "25:1.5",
+      "25:1.6"
+     ],
+     "english": "and her name was Keturah",
+     "literal": "'and-her-name Keturah': a verbless clause; 'was' is the English copula."
+    }
+   ],
+   "grammar": [
+    "וַיֹּסֶף is the hifil of יָסַף used adverbially: 'again', and the next wayyiqtol, 'took', gives the action.",
+    "וּשְׁמָהּ קְטוּרָה is a verbless clause, 'and her name Keturah'; the copula 'was' is English.",
+    "The merkha on וַיִּקַּח and the tipḥa on אִשָּׁה divide the clause; the silluq on קְטוּרָה ends the verse."
+   ],
+   "note": "Keturah is named as a wife, and the English does not identify her with Hagar: Ibn Ezra's ruling (normative) is followed. Rashi and Radak identify her with Hagar; both are recorded.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:25:1:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: Keturah is not Hagar. Verse 6 speaks of 'the sons of the concubines'; he takes pilegesh as a handmaid, a word that does not apply to a man, and so reads 'concubines' as women."
+    },
+    {
+     "anchor": "rashi:25:1:1",
+     "relation": "records",
+     "summary": "Rashi: Keturah is Hagar, so called because her deeds were fragrant like incense, and because she tied up her opening and did not couple with a man from the day she parted from Abraham."
+    },
+    {
+     "anchor": "radak:25:1:1",
+     "relation": "records",
+     "summary": "Radak: the sages say Keturah is Hagar and that Abraham had only one concubine, deriving this from the missing yod in 'the concubines' of verse 6; Radak found the yod in all accurate copies."
+    }
+   ]
+  },
+  {
+   "ref": "25:2",
+   "english": "She bore him Zimran, Jokshan, Medan, Midian, Ishbak and Shuah.",
+   "literal": "and-she-bore to-him [acc] Zimran and-[acc] Jokshan and-[acc] Medan and-[acc] Midian and-[acc] Ishbak and-[acc] Shuah",
+   "tokens": [
+    {
+     "id": "25:2.1",
+     "gloss": "and she bore",
+     "sense": "Qal 1",
+     "note": "wayyiqtol, 3rd person feminine singular: the subject is Keturah (25:1). Yalad is 'bear, bring forth'."
+    },
+    {
+     "id": "25:2.2",
+     "gloss": "him"
+    },
+    {
+     "id": "25:2.3",
+     "gloss": "-",
+     "note": "object marker."
+    },
+    {
+     "id": "25:2.4",
+     "gloss": "Zimran"
+    },
+    {
+     "id": "25:2.5",
+     "gloss": "and"
+    },
+    {
+     "id": "25:2.6",
+     "gloss": "Jokshan"
+    },
+    {
+     "id": "25:2.7",
+     "gloss": "and"
+    },
+    {
+     "id": "25:2.8",
+     "gloss": "Medan"
+    },
+    {
+     "id": "25:2.9",
+     "gloss": "and"
+    },
+    {
+     "id": "25:2.10",
+     "gloss": "Midian",
+     "sense": "1",
+     "note": "son of Abraham and Keturah."
+    },
+    {
+     "id": "25:2.11",
+     "gloss": "and"
+    },
+    {
+     "id": "25:2.12",
+     "gloss": "Ishbak"
+    },
+    {
+     "id": "25:2.13",
+     "gloss": "and"
+    },
+    {
+     "id": "25:2.14",
+     "gloss": "Shuah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:2.1",
+      "25:2.2"
+     ],
+     "english": "She bore him",
+     "literal": "'and-she-bore to-him': the verb's object is the list that follows, and 'him' is the dative."
+    },
+    {
+     "tokens": [
+      "25:2.3",
+      "25:2.4"
+     ],
+     "english": "Zimran",
+     "literal": "'[acc] Zimran'."
+    },
+    {
+     "tokens": [
+      "25:2.5",
+      "25:2.6"
+     ],
+     "english": "Jokshan",
+     "literal": "'and-[acc] Jokshan'."
+    },
+    {
+     "tokens": [
+      "25:2.7",
+      "25:2.8"
+     ],
+     "english": "Medan",
+     "literal": "'and-[acc] Medan'."
+    },
+    {
+     "tokens": [
+      "25:2.9",
+      "25:2.10"
+     ],
+     "english": "Midian",
+     "literal": "'and-[acc] Midian'."
+    },
+    {
+     "tokens": [
+      "25:2.11",
+      "25:2.12"
+     ],
+     "english": "Ishbak",
+     "literal": "'and-[acc] Ishbak'."
+    },
+    {
+     "tokens": [
+      "25:2.13",
+      "25:2.14"
+     ],
+     "english": "and Shuah",
+     "literal": "'and-[acc] Shuah'."
+    }
+   ],
+   "grammar": [
+    "וַתֵּלֶד is a wayyiqtol with the feminine subject of 25:1 and the dative לוֹ: 'she bore him'.",
+    "Each name is marked with the object marker, with the conjunction in front, so the six names are the objects of one verb.",
+    "The etnaḥta on מִדְיָן divides the list; the tipḥa on יִשְׁבָּק and the silluq on שׁוּחַ close it."
+   ],
+   "note": "The verb is rendered 'bore' as the lexicon's sense 'bear, bring forth'. Sforno reads it as 'reared' and that is recorded. The names are kept as names.",
+   "commentary": [
+    {
+     "anchor": "sforno:25:2:1",
+     "relation": "records",
+     "summary": "Sforno: 'she bore' means she reared them in her house, as with the five sons of Michal who were not her own (2 Samuel 21:8); Abraham fathered only Isaac and Ishmael, as Chronicles shows."
+    }
+   ],
+   "context": [
+    "The names in 25:2–4 are read in the commentaries as persons, as peoples, or as both; the English keeps them as names, and the commentators differ on their meanings (see 25:3)."
+   ]
+  },
+  {
+   "ref": "25:3",
+   "english": "And Jokshan begot Sheba and Dedan, and the sons of Dedan were Asshurim, Letushim and Leummim.",
+   "literal": "and-Jokshan begot [acc] Sheba and-[acc] Dedan and-sons-of Dedan were Asshurim and-Letushim and-Leummim",
+   "tokens": [
+    {
+     "id": "25:3.1",
+     "gloss": "and Jokshan"
+    },
+    {
+     "id": "25:3.2",
+     "gloss": "begot",
+     "sense": "Qal 2",
+     "note": "qatal (perfect), 3rd person masculine singular, with the father as subject: 'beget'."
+    },
+    {
+     "id": "25:3.3",
+     "gloss": "-",
+     "note": "object marker."
+    },
+    {
+     "id": "25:3.4",
+     "gloss": "Sheba"
+    },
+    {
+     "id": "25:3.5",
+     "gloss": "and"
+    },
+    {
+     "id": "25:3.6",
+     "gloss": "Dedan",
+     "sense": "2",
+     "note": "as son of Jokshan, a sense the lexicon gives."
+    },
+    {
+     "id": "25:3.7",
+     "gloss": "and the sons of",
+     "sense": "1"
+    },
+    {
+     "id": "25:3.8",
+     "gloss": "Dedan",
+     "sense": "2",
+     "note": "as father of the names that follow, the lexicon's sense 2."
+    },
+    {
+     "id": "25:3.9",
+     "gloss": "were",
+     "sense": "Qal III.4",
+     "note": "copula, 3rd person common plural: it links the sons of Dedan to the names that follow."
+    },
+    {
+     "id": "25:3.10",
+     "gloss": "Asshurim"
+    },
+    {
+     "id": "25:3.11",
+     "gloss": "and Letushim"
+    },
+    {
+     "id": "25:3.12",
+     "gloss": "and Leummim"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:3.1",
+      "25:3.2"
+     ],
+     "english": "And Jokshan begot",
+     "literal": "'and-Jokshan begot': a qatal (perfect) with its subject placed first, so the clause opens on the father."
+    },
+    {
+     "tokens": [
+      "25:3.3",
+      "25:3.4"
+     ],
+     "english": "Sheba",
+     "literal": "'[acc] Sheba'."
+    },
+    {
+     "tokens": [
+      "25:3.5",
+      "25:3.6"
+     ],
+     "english": "and Dedan",
+     "literal": "'and-[acc] Dedan'."
+    },
+    {
+     "tokens": [
+      "25:3.7",
+      "25:3.8"
+     ],
+     "english": "and the sons of Dedan",
+     "literal": "'and-sons-of Dedan': the sons of the same Dedan."
+    },
+    {
+     "tokens": [
+      "25:3.9"
+     ],
+     "english": "were",
+     "literal": "'were': qal perfect of hayah, 3rd person common plural, agreeing with 'the sons of Dedan'."
+    },
+    {
+     "tokens": [
+      "25:3.10",
+      "25:3.11",
+      "25:3.12"
+     ],
+     "english": "Asshurim, Letushim and Leummim",
+     "literal": "'Asshurim and-Letushim and-Leummim': the three names are transliterated."
+    }
+   ],
+   "grammar": [
+    "וְיָקְשָׁן יָלַד is a qatal with Jokshan as subject, 'Jokshan begot'; the verb is the father's act, as in 25:2.",
+    "The etnaḥta on דְּדָן divides the verse: the sons of Jokshan first, then the sons of Dedan.",
+    "הָיוּ is the copula with a plural subject, 'were', joining the sons of Dedan to the three names.",
+    "The three names end in the plural -im; the form is kept as the text gives it."
+   ],
+   "note": "Asshurim, Letushim and Leummim are transliterated as names, following Ibn Ezra's ruling (normative). The reading of them as heads of nations, as caravan-men or as tent-dwellers is recorded in the commentary. The apparatus records the one spelling difference.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:25:3:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: some say Asshurim were men who knew the roads and Letushim were watchers from afar; he holds that they are names with no adjectival sense, and that is the correct view."
+    },
+    {
+     "anchor": "rashi:25:3:1",
+     "relation": "records",
+     "summary": "Rashi: they are names of the heads of nations (Bereshit Rabbah). He cannot reconcile Onkelos' rendering (mashiryan, 'camp') with the wording of the text; and if one objects that the aleph of Asshurim is not a root letter, he answers that other words gain an aleph (as in 'a wall of anakh', 'asukh of oil')."
+    },
+    {
+     "anchor": "ramban:25:3:1",
+     "relation": "records",
+     "summary": "Ramban: Onkelos took Asshurim as travelling caravans and Letushim as people who dwell in tents, reading the words as common nouns rather than names."
+    },
+    {
+     "anchor": "radak:25:3:2",
+     "relation": "records",
+     "summary": "Radak: these are three sons; he does not know why the names take the plural ending, and by Onkelos' rendering they are not names at all."
+    }
+   ],
+   "apparatus": [
+    "25:3.11 spelling: WLC reads וּלְטוּשִׁים; the base text reads וּלְטוּשִׁם."
+   ],
+   "context": [
+    "Sheba and Dedan appear also in the genealogy of chapter 10 (10:7, where both are sons of Raamah, and 10:28, where Sheba is a son of Joktan). The text does not explain why the same names stand in different lines; the lists name peoples and places as ancestors."
+   ]
+  },
+  {
+   "ref": "25:4",
+   "english": "The sons of Midian were Ephah, Epher, Hanoch, Abida and Eldaah; all these were sons of Keturah.",
+   "literal": "and-sons-of Midian Ephah and-Epher and-Hanoch and-Abida and-Eldaah all these sons-of Keturah",
+   "tokens": [
+    {
+     "id": "25:4.1",
+     "gloss": "and the sons of",
+     "sense": "1"
+    },
+    {
+     "id": "25:4.2",
+     "gloss": "Midian",
+     "sense": "1",
+     "note": "son of Abraham and Keturah."
+    },
+    {
+     "id": "25:4.3",
+     "gloss": "Ephah",
+     "sense": "1",
+     "note": "as son of Midian."
+    },
+    {
+     "id": "25:4.4",
+     "gloss": "and Epher",
+     "sense": "1",
+     "note": "as son of Midian."
+    },
+    {
+     "id": "25:4.5",
+     "gloss": "and Hanoch",
+     "sense": "3",
+     "note": "as a son of Midian."
+    },
+    {
+     "id": "25:4.6",
+     "gloss": "and Abida"
+    },
+    {
+     "id": "25:4.7",
+     "gloss": "and Eldaah"
+    },
+    {
+     "id": "25:4.8",
+     "gloss": "all",
+     "sense": "2.b.(a)",
+     "note": "limited by the context to the names just given."
+    },
+    {
+     "id": "25:4.9",
+     "gloss": "these",
+     "sense": "b"
+    },
+    {
+     "id": "25:4.10",
+     "gloss": "sons of",
+     "sense": "1"
+    },
+    {
+     "id": "25:4.11",
+     "gloss": "Keturah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:4.1",
+      "25:4.2"
+     ],
+     "english": "The sons of Midian were",
+     "literal": "'and-sons-of Midian': a verbless clause; 'were' is the English copula."
+    },
+    {
+     "tokens": [
+      "25:4.3"
+     ],
+     "english": "Ephah",
+     "literal": "'Ephah'."
+    },
+    {
+     "tokens": [
+      "25:4.4"
+     ],
+     "english": "Epher",
+     "literal": "'and-Epher': the conjunction has no separate English."
+    },
+    {
+     "tokens": [
+      "25:4.5"
+     ],
+     "english": "Hanoch",
+     "literal": "'and-Hanoch'."
+    },
+    {
+     "tokens": [
+      "25:4.6"
+     ],
+     "english": "Abida",
+     "literal": "'and-Abida'."
+    },
+    {
+     "tokens": [
+      "25:4.7"
+     ],
+     "english": "and Eldaah",
+     "literal": "'and-Eldaah'."
+    },
+    {
+     "tokens": [
+      "25:4.8",
+      "25:4.9",
+      "25:4.10",
+      "25:4.11"
+     ],
+     "english": "all these were sons of Keturah",
+     "literal": "'all these sons-of Keturah': the summary of the list; 'were' is the copula."
+    }
+   ],
+   "grammar": [
+    "The sentence has no verb: 'the sons of Midian (were) Ephah...' and the closing clause is verbless; the English supplies 'were'.",
+    "The list is joined by the conjunction and closed by the summary כׇּל־אֵלֶּה, 'all these'.",
+    "The etnaḥta on וְאֶלְדָּעָה closes the list; the silluq on קְטוּרָה closes the verse."
+   ],
+   "note": "The names are transliterated as they are in 25:3; Ephah and Epher are the lexicon's sons of Midian.",
+   "commentary": []
+  },
+  {
+   "ref": "25:5",
+   "english": "And Abraham gave Isaac all that was his.",
+   "literal": "and-gave Abraham [acc] all that-to-him to-Isaac",
+   "tokens": [
+    {
+     "id": "25:5.1",
+     "gloss": "and gave",
+     "sense": "Qal 1"
+    },
+    {
+     "id": "25:5.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "25:5.3",
+     "gloss": "-",
+     "note": "object marker."
+    },
+    {
+     "id": "25:5.4",
+     "gloss": "all",
+     "sense": "2.a"
+    },
+    {
+     "id": "25:5.5",
+     "gloss": "that"
+    },
+    {
+     "id": "25:5.6",
+     "gloss": "is his",
+     "note": "lamed with the suffix: the possession 'to him'; 'is' is the English copula."
+    },
+    {
+     "id": "25:5.7",
+     "gloss": "to Isaac",
+     "note": "the recipient, placed last in the Hebrew."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "25:5.1",
+      "25:5.2"
+     ],
+     "english": "And Abraham gave",
+     "literal": "'and-gave Abraham': the wayyiqtol with its subject."
+    },
+    {
+     "tokens": [
+      "25:5.3",
+      "25:5.4",
+      "25:5.5",
+      "25:5.6"
+     ],
+     "english": "all that was his",
+     "literal": "'[acc] all that-to-him': the object of the verb."
+    },
+    {
+     "tokens": [
+      "25:5.7"
+     ],
+     "english": "Isaac",
+     "literal": "'to-Isaac': the recipient."
+    }
+   ],
+   "grammar": [
+    "וַיִּתֵּן is the qal wayyiqtol of נָתַן, 'gave', with Abraham as subject.",
+    "The object is כׇּל־אֲשֶׁר־לוֹ, 'all that is his', with the object marker before כׇּל; the recipient לְיִצְחָק comes last.",
+    "The darga on וַיִּתֵּן and the silluq on לְיִצְחָק make a single clause."
+   ],
+   "note": "'All that is his' keeps the Hebrew without an explanation. Rashi's and Radak's accounts of the giving (a blessing handed on, a division of property during his life) are recorded in the commentary.",
+   "commentary": [
+    {
+     "anchor": "rashi:25:5:1",
+     "relation": "not-applicable",
+     "summary": "Rashi, citing R. Nehemiah: the blessing is a diatiki (a testamentary deed). God told Abraham to be a blessing, the blessings were handed to him to give to whom he chose, and he gave them to Isaac."
+    },
+    {
+     "anchor": "radak:25:5:1",
+     "relation": "not-applicable",
+     "summary": "Radak: he divided his property during his life so there would be no dispute over the inheritance, and made Isaac heir, as God had told him that his seed would be called through Isaac."
+    }
+   ]
+  }
+ ]
+}

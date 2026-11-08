@@ -1,0 +1,902 @@
+{
+ "unit": "vayera-03",
+ "model": "sonnet",
+ "summary": "The translation was careful about the structure of the unit but followed Rashi's glosses against the Hebrew in three places: לְמַעַן in 18:19 read as 'because' (it is purpose), אַף in 18:23 and 18:24 read as 'in anger' against the pack's own entry (also, yea), and 18:21, where a verb 'I will bring destruction' was supplied for כָּלָה against Ibn Ezra's own reading ('whether they all did'). Several senses were wrong (פָּנָה 1.d 'decline', הָלַךְ II.2 'live', גָּדוֹל 10, דֶּרֶךְ 4 for 'way of י׳'), the sense for רָבָּה was taken from an adjective entry and is removed, the 18:17 grammar note had the subject after the verb, and five summaries misreported the comment (Rashi on 18:17, 18:19 twice, 18:21, 18:23). Context notes were added for the treaty sense of 'know', the outcry, the descent, standing before, and צַדִּיק/רָשָׁע.",
+ "patches": [
+  {
+   "ref": "18:17",
+   "path": "english",
+   "value": "The LORD said, \"Shall I hide from Abraham what I am about to do,",
+   "severity": "style",
+   "reason": "The question does not end at 18:17: it runs on through 18:18 ('seeing that Abraham ...?'). The participle עֹשֶׂה of an act at hand is 'am about to do'."
+  },
+  {
+   "ref": "18:17",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:17.1",
+      "18:17.2"
+     ],
+     "english": "The LORD said",
+     "literal": "'and-the-LORD said'; the Hebrew names no addressee"
+    },
+    {
+     "tokens": [
+      "18:17.3",
+      "18:17.4",
+      "18:17.5",
+      "18:17.6",
+      "18:17.7",
+      "18:17.8"
+     ],
+     "english": "Shall I hide from Abraham what I am about to do",
+     "literal": "'question-covering I from-Abraham what I doing'; the question opens the divine speech and is completed in 18:18"
+    }
+   ],
+   "severity": "style",
+   "reason": "follows the new english"
+  },
+  {
+   "ref": "18:17",
+   "path": "token:18:17.8.gloss",
+   "value": "am about to do",
+   "severity": "style",
+   "reason": "Participle of an action that is imminent; the destruction has not yet happened."
+  },
+  {
+   "ref": "18:17",
+   "path": "grammar",
+   "value": [
+    "וַיהוָה אָמָר: a vav, then the subject, then a qatal (pausal אָמָר). Because the subject stands before the verb, this is not the plain wayyiqtol of narrative: it is a clause that pauses the story ('now the LORD had said'), or reports a thought (Ramban). The Hebrew gives no addressee.",
+    "הַמְכַסֶּה: a piel participle with the interrogative ה, 'am I hiding?'; Rashi reads the ה as a question of astonishment (בִּתְמִיהָ), 'can I hide?'.",
+    "אֲשֶׁר אֲנִי עֹשֶׂה is a relative clause with an active participle, which can mean an act in progress or one about to happen; the object is not stated (Rashi supplies 'in Sodom').",
+    "The tipḥa on וַיהוָה and the etnaḥta on אָמָר set off the introduction; the mahpakh on הַמְכַסֶּה begins the question, and the silluq closes the verse at עֹשֶׂה."
+   ],
+   "severity": "error",
+   "reason": "The grammar note says the subject follows the verb and puts the tipḥa on אָמָר: the subject (וַיהוָה) comes first and carries the tipḥa; אָמָר carries the etnaḥta."
+  },
+  {
+   "ref": "18:17",
+   "path": "apparatus",
+   "value": [
+    "Addressee of the saying: Ramban takes it to be the host of heaven or the messengers, or an inner thought ('every saying with the heart is a thought'); Radak takes it as the God who appeared to Abraham telling him of Sodom in the same vision. The Hebrew names no one."
+   ],
+   "severity": "style",
+   "reason": "The reading is open in the commentators and the translation recorded none of it."
+  },
+  {
+   "ref": "18:17",
+   "path": "commentary:rashi:18:17:2.summary",
+   "value": "Rashi: the object is 'in Sodom'. It is not fitting for God to do this without Abraham's knowledge: God gave him this land, and these five cities are his (he cites Gen. 10:19, the border of the Canaanite 'toward Sodom and Gomorrah'); God called him Abraham, father of a multitude of nations, so will he destroy the sons and not tell the father, who loves him? The English 'what I am about to do' does not name Sodom; the supplied object is recorded here.",
+   "severity": "error",
+   "reason": "The summary left out Rashi's main argument, the name Abraham, 'father of a multitude of nations', and so misreports why the matter may not be hidden."
+  },
+  {
+   "ref": "18:18",
+   "path": "english",
+   "value": "seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed through him?",
+   "severity": "style",
+   "reason": "The sentence is the end of the question begun in 18:17; 'Since ...' with a full stop left a fragment. The vav is Rashi's plain-sense reason ('he is dear to me'), kept as 'seeing that'."
+  },
+  {
+   "ref": "18:18",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:18.1",
+      "18:18.2",
+      "18:18.3"
+     ],
+     "english": "seeing that Abraham shall surely become",
+     "literal": "'and-Abraham surely-become shall-become'; the vav gives the reason for the question, as in Rashi's plain sense"
+    },
+    {
+     "tokens": [
+      "18:18.4",
+      "18:18.5",
+      "18:18.6"
+     ],
+     "english": "a great and mighty nation",
+     "literal": "'to-nation great and-mighty'; the lamed is predicative"
+    },
+    {
+     "tokens": [
+      "18:18.7",
+      "18:18.8",
+      "18:18.9",
+      "18:18.10",
+      "18:18.11"
+     ],
+     "english": "and all the nations of the earth shall be blessed through him",
+     "literal": "'and-shall-be-blessed through-him all nations-of the-earth'; the passive follows Ibn Ezra"
+    }
+   ],
+   "severity": "style",
+   "reason": "follows the new english"
+  },
+  {
+   "ref": "18:18",
+   "path": "token:18:18.1.gloss",
+   "value": "seeing that Abraham",
+   "severity": "style",
+   "reason": "matches the new English"
+  },
+  {
+   "ref": "18:18",
+   "path": "token:18:18.2.sense",
+   "value": "Qal II.2.e",
+   "severity": "style",
+   "reason": "The entry has a sense for exactly this use: 'become, with לְ and the predicate'. II.2 is the general heading."
+  },
+  {
+   "ref": "18:18",
+   "path": "token:18:18.3.sense",
+   "value": "Qal II.2.e",
+   "severity": "style",
+   "reason": "Same: הָיָה + לְ + predicate."
+  },
+  {
+   "ref": "18:18",
+   "path": "token:18:18.5.sense",
+   "value": "2",
+   "severity": "error",
+   "reason": "The translator wrote that the lexicon prints no sense for 'great' and took 10 ('greatness', a noun sense). The entry does list senses: 1 magnitude, 2 number, 3 intensity, 6 importance. A great nation, paired with עָצוּם 'numerous', is great in number (2)."
+  },
+  {
+   "ref": "18:18",
+   "path": "token:18:18.5.note",
+   "value": "גָּדוֹל of a nation: great in number and power; sense 2 'great in number' is the one that suits the pairing with עָצוּם ('mighty, numerous').",
+   "severity": "error",
+   "reason": "The old note said the lexicon prints no sense and that 10 was the nearest."
+  },
+  {
+   "ref": "18:19",
+   "path": "english",
+   "value": "For I have known him, so that he may charge his sons and his household after him to keep the way of the LORD by doing righteousness and justice, in order that the LORD may bring upon Abraham what he spoke concerning him.\"",
+   "severity": "error",
+   "reason": "לְמַעַן is a preposition of purpose ('for the sake of', 'in order that': the pack's entry), and the verb after אֲשֶׁר is a yiqtol: 'so that he may charge'. 'Because he commands' follows Rashi's gloss, but Rashi himself says that the Targum's reading 'I know that he will command' does not fit לְמַעַן, and his 'because' is not a sense of the word. Ramban takes the same purpose reading (ידעתיו, 'I raised him up so that he would command'). The weqatal וְשָׁמְרוּ continues the purpose: the sons and household are to keep the way."
+  },
+  {
+   "ref": "18:19",
+   "path": "literal",
+   "value": "for I-have-known-him, in-order-that he-will-charge [object-marker] his-sons and-[object-marker] his-household after-him, and-they-keep the-way-of the-LORD to-do righteousness and-justice, in-order-that the-LORD bring upon-Abraham [object-marker] that he-spoke concerning-him",
+   "severity": "error",
+   "reason": "The literal line had 'because-that'."
+  },
+  {
+   "ref": "18:19",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:19.1",
+      "18:19.2"
+     ],
+     "english": "For I have known him",
+     "literal": "'for I-have-known-him'; the word keeps the root 'know' (see context)"
+    },
+    {
+     "tokens": [
+      "18:19.3",
+      "18:19.4",
+      "18:19.5"
+     ],
+     "english": "so that he may charge",
+     "literal": "'in-order-that he-will-charge'; לְמַעַן is purpose"
+    },
+    {
+     "tokens": [
+      "18:19.6",
+      "18:19.7"
+     ],
+     "english": "his sons",
+     "literal": "'[object-marker] his-sons'"
+    },
+    {
+     "tokens": [
+      "18:19.8",
+      "18:19.9",
+      "18:19.10"
+     ],
+     "english": "and his household after him",
+     "literal": "'and-[object-marker] his-household after-him'"
+    },
+    {
+     "tokens": [
+      "18:19.11",
+      "18:19.12",
+      "18:19.13"
+     ],
+     "english": "to keep the way of the LORD",
+     "literal": "'and-they-keep the-way-of the-LORD'; the weqatal continues the purpose: they are to keep"
+    },
+    {
+     "tokens": [
+      "18:19.14",
+      "18:19.15",
+      "18:19.16"
+     ],
+     "english": "by doing righteousness and justice",
+     "literal": "'to-do righteousness and-justice'"
+    },
+    {
+     "tokens": [
+      "18:19.17",
+      "18:19.18",
+      "18:19.19"
+     ],
+     "english": "in order that the LORD may bring",
+     "literal": "'in-order-that the-LORD bring'; the second purpose"
+    },
+    {
+     "tokens": [
+      "18:19.20",
+      "18:19.21"
+     ],
+     "english": "upon Abraham",
+     "literal": "'upon-Abraham'"
+    },
+    {
+     "tokens": [
+      "18:19.22",
+      "18:19.23",
+      "18:19.24"
+     ],
+     "english": "what he spoke",
+     "literal": "'[object-marker] that he-spoke'"
+    },
+    {
+     "tokens": [
+      "18:19.25"
+     ],
+     "english": "concerning him",
+     "literal": "'concerning-him'"
+    }
+   ],
+   "severity": "error",
+   "reason": "follows the new english"
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.1.note",
+   "value": "כִּי: 'for'; it gives the reason why God will not hide his plan (18:17).",
+   "severity": "style",
+   "reason": "The old note said Rashi reads כִּי as 'because'; Rashi has no comment on this word."
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.3.gloss",
+   "value": "so that",
+   "severity": "error",
+   "reason": "לְמַעַן: 'for the sake of, in order that'. 'Because' is not a sense of it."
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.3.note",
+   "value": "לְמַעַן אֲשֶׁר + yiqtol: purpose, 'in order that he may ...'. Rashi glosses it 'because' (לְפִי שֶׁ) but allows that it does not suit the Targum's reading; Ramban takes it as purpose.",
+   "severity": "error",
+   "reason": "The old note adopted Rashi's 'because'."
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.5.gloss",
+   "value": "may charge",
+   "severity": "error",
+   "reason": "A yiqtol after לְמַעַן אֲשֶׁר is a purpose clause: 'may charge', not a habitual present."
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.5.note",
+   "value": "yiqtol piel after לְמַעַן אֲשֶׁר: 'so that he may charge'. The entry gives צָוָה 'lay charge, give charge, command' with no sub-senses. Rashi reads it as a present tense (like Job 1:5), recorded in the commentary.",
+   "severity": "error",
+   "reason": "The old note adopted the present-tense reading."
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.11.note",
+   "value": "weqatal continuing the purpose clause (יְצַוֶּה): 'and they are to keep'; the subject is the sons and the household.",
+   "severity": "style",
+   "reason": "The weqatal continues the purpose, not a habitual present."
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.12.sense",
+   "value": "6.e",
+   "severity": "error",
+   "reason": "The entry lists 'way of י׳' as sense 6.e; the translator took 4 'way, manner' and described it as 'the ethical way'."
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.12.note",
+   "value": "דֶּרֶךְ יְהוָה: the way the LORD requires, in the entry 'way of י׳' (6.e); it is spelled out as 'doing righteousness and justice'.",
+   "severity": "style",
+   "reason": "fits the corrected sense"
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.17.gloss",
+   "value": "in order that",
+   "severity": "style",
+   "reason": "same word and same sense as 18:19.3"
+  },
+  {
+   "ref": "18:19",
+   "path": "token:18:19.17.note",
+   "value": "the second לְמַעַן: purpose, 'in order that'; Rashi reads it so (on 'upon Abraham').",
+   "severity": "style",
+   "reason": "wording"
+  },
+  {
+   "ref": "18:19",
+   "path": "grammar",
+   "value": [
+    "כִּי יְדַעְתִּיו: qatal, first person singular, with the suffix 'him'; the clause gives the reason why God will not hide the matter. יָדַע with a person as object is 'know a person' (acquaintance, regard, choice).",
+    "לְמַעַן אֲשֶׁר יְצַוֶּה: לְמַעַן is a preposition of purpose; with אֲשֶׁר it opens a purpose clause and the yiqtol is 'may charge'. The same word opens the second purpose clause (לְמַעַן הָבִיא).",
+    "וְשָׁמְרוּ: the weqatal continues the yiqtol of יְצַוֶּה, so the sons and the household are to keep the way of the LORD; לַעֲשׂוֹת states how: by doing righteousness and justice.",
+    "הָבִיא is a hifil infinitive construct with לְמַעַן: 'in order that the LORD may bring'.",
+    "The revia on יְדַעְתִּיו closes the first clause; the zaqef on אַחֲרָיו and the etnaḥta on וּמִשְׁפָּט mark the later divisions; the silluq closes the verse at עָלָיו."
+   ],
+   "severity": "error",
+   "reason": "The grammar notes built on 'because'."
+  },
+  {
+   "ref": "18:19",
+   "path": "note",
+   "value": "Rashi glosses לְמַעַן אֲשֶׁר as 'because' and יְצַוֶּה as a present; but the word is a preposition of purpose and the English reads it so, as Ramban does. The English keeps 'known' for יְדַעְתִּיו, which is Ramban's own choice (knowledge as God's regard for the righteous); Rashi's 'affection' and Ramban's 'I raised him up' are recorded in the commentary. The quotation of the LORD's speech closes here.",
+   "severity": "error",
+   "reason": "The old note said the English follows Rashi's 'because'."
+  },
+  {
+   "ref": "18:19",
+   "path": "commentary:rashi:18:19:2.relation",
+   "value": "declines",
+   "severity": "error",
+   "reason": "The English reads לְמַעַן as purpose."
+  },
+  {
+   "ref": "18:19",
+   "path": "commentary:rashi:18:19:2.summary",
+   "value": "Rashi: לְמַעַן אֲשֶׁר יְצַוֶּה means 'because he commands his sons concerning me to keep my ways'. He adds that if one explains it like the Targum ('I know that he will command ...'), לְמַעַן would not fit the wording. The English declines 'because': it reads לְמַעַן as 'so that', a purpose.",
+   "severity": "error",
+   "reason": "The old summary said the English reads 'because'."
+  },
+  {
+   "ref": "18:19",
+   "path": "commentary:rashi:18:19:3.relation",
+   "value": "records",
+   "severity": "error",
+   "reason": "The English does not give the present tense."
+  },
+  {
+   "ref": "18:19",
+   "path": "commentary:rashi:18:19:3.summary",
+   "value": "Rashi: יְצַוֶּה is present tense (לְשׁוֹן הוֹוֶה), like 'so Job did' (Job 1:5). The English takes it as the subjunctive of the purpose clause, 'may charge'; his present is recorded here.",
+   "severity": "error",
+   "reason": "The old summary said the English gives 'he commands'."
+  },
+  {
+   "ref": "18:19",
+   "path": "commentary:rashi:18:19:4.summary",
+   "value": "Rashi: this is how Abraham commands his sons, 'keep the way of the LORD', in order that the LORD may bring upon Abraham what he spoke. He notes that the verse says 'upon Abraham' and not 'upon the house of Abraham', and draws the homily that whoever leaves a righteous son is as if he had not died. The English reads the second לְמַעַן as purpose; the homily is not the plain sense.",
+   "severity": "error",
+   "reason": "The old summary left out that the point is a homily and presented it as a reading the English keeps."
+  },
+  {
+   "ref": "18:19",
+   "path": "commentary:ramban:18:19:1.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "The English keeps 'known' and reads לְמַעַן as purpose, as Ramban does."
+  },
+  {
+   "ref": "18:19",
+   "path": "commentary:ramban:18:19:1.summary",
+   "value": "Ramban: he first repeats Rashi (ידעתיו as a word of affection, like 'known to her husband') and adds that if it is explained 'I know that he will command', לְמַעַן does not fit. Another possibility: 'I raised him up so that he would command his sons' (compare Exod. 33:12). He holds that the right sense is knowledge itself: God's knowledge is his providence, which watches the righteous in particular. The English keeps 'known' and reads לְמַעַן as purpose; the 'raised him up' reading is recorded here.",
+   "severity": "error",
+   "reason": "The old summary said Ramban's purpose reading is not adopted and mixed up his alternatives with his own view."
+  },
+  {
+   "ref": "18:19",
+   "path": "context",
+   "value": [
+    "The verb 'know' with a person as object can be covenant language: in the treaties of the ancient Near East a great king 'knows' a vassal when he recognizes him as his own partner. Many scholars read 'I have known him' in that sense, 'I have chosen him', and compare Amos 3:2. The medieval commentators differ: Rashi, affection; Ramban, God's attentive regard (and, as a second possibility, 'raised him up')."
+   ],
+   "severity": "style",
+   "reason": "A reader needs to know that the plain 'known' may carry the sense of choosing."
+  },
+  {
+   "ref": "18:20",
+   "path": "token:18:20.6.note",
+   "value": "כִּי: 'that', or 'indeed': the outcry of Sodom and Gomorrah, indeed it has grown great; and their sin, indeed it is very heavy.",
+   "severity": "style",
+   "reason": "The old note spoke of an 'apposition', which is not what the clause is."
+  },
+  {
+   "ref": "18:20",
+   "path": "token:18:20.7.sense",
+   "value": "",
+   "severity": "error",
+   "reason": "The pack parses רָבָּה as a qal perfect, third feminine singular, but its only entry is the adjective רַב (bdb:t.ae.ab); no entry for the verb רָבָה ('be or become many, great') is in the pack, so no sense can be given."
+  },
+  {
+   "ref": "18:20",
+   "path": "token:18:20.7.note",
+   "value": "The parse is a qal qatal, third feminine singular ('has grown great'), but the lemma link in the data goes to the adjective רַב, a different entry; the pack lists no entry for the verb, so no sense is given. Rashi: the accent on the resh marks the verb, 'has grown', not the adjective 'great'.",
+   "severity": "error",
+   "reason": "The old note kept an adjective sense for a verb."
+  },
+  {
+   "ref": "18:20",
+   "path": "token:18:20.10.note",
+   "value": "Ibn Ezra: so heavy that 'the land cannot hold it' (ולא תכילנה הארץ).",
+   "severity": "style",
+   "reason": "The summary of Ibn Ezra said his image is recorded in the note; it was not."
+  },
+  {
+   "ref": "18:20",
+   "path": "context",
+   "value": [
+    "Sodom and Gomorrah are named in the text among the cities of the plain: Gen. 13:12 has Lot settle among them, and Gen. 14:2 names five kings and their cities, Sodom, Gomorrah, Admah, Zeboiim and Bela (that is Zoar). The text does not say how many people lived in them.",
+    "זְעָקָה is the cry of someone who has been wronged and appeals for redress (compare Gen. 4:10 and Exod. 22:22). In the text's picture of the world such a cry goes up to the deity as judge, who then hears the case."
+   ],
+   "severity": "style",
+   "reason": "One fact a reader needs about the word: what an outcry is in the text's own world."
+  },
+  {
+   "ref": "18:21",
+   "path": "english",
+   "value": "Let me go down now and see whether they have done altogether according to the outcry that has come to me; and if not, I will find out.\"",
+   "severity": "error",
+   "reason": "The translator supplied a verb ('I will bring destruction') for כָּלָה, which has none in the Hebrew, and took Rashi's apodosis. Ibn Ezra, the normative commentator, gives his own sense at 'ואם לא אדעה': 'I will see whether they all did like this evil' (אראה אם עשו כלם כרעה הזאת), that is, כָּלָה is 'altogether, all of them' and the clause is one question. Sforno has the same (עשו כלם). The cohortatives are 'let me go down'."
+  },
+  {
+   "ref": "18:21",
+   "path": "literal",
+   "value": "I-will-go-down please and-I-will-see whether-according-to-its-outcry the-coming to-me they-have-done completion, and-if not I-will-know",
+   "severity": "error",
+   "reason": "follows the new english; the literal line had added 'destruction' as an apodosis"
+  },
+  {
+   "ref": "18:21",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:21.1",
+      "18:21.2",
+      "18:21.3"
+     ],
+     "english": "Let me go down now and see",
+     "literal": "'I-will-go-down please and-I-will-see'; two cohortatives, softened by נָא"
+    },
+    {
+     "tokens": [
+      "18:21.4",
+      "18:21.5",
+      "18:21.6",
+      "18:21.7",
+      "18:21.8"
+     ],
+     "english": "whether they have done altogether according to the outcry that has come to me",
+     "literal": "'whether-according-to-its-outcry the-coming to-me they-have-done completion'; כָּלָה as an adverbial accusative, 'completely, altogether', Ibn Ezra's 'all of them'; the pesiq after עָשׂוּ makes it a separate word"
+    },
+    {
+     "tokens": [
+      "18:21.9",
+      "18:21.10",
+      "18:21.11"
+     ],
+     "english": "and if not, I will find out",
+     "literal": "'and-if not I-will-know'; Ibn Ezra: 'I will see whether they all did this evil'"
+    }
+   ],
+   "severity": "error",
+   "reason": "follows the new english"
+  },
+  {
+   "ref": "18:21",
+   "path": "token:18:21.1.gloss",
+   "value": "let me go down",
+   "severity": "style",
+   "reason": "cohortative"
+  },
+  {
+   "ref": "18:21",
+   "path": "token:18:21.3.gloss",
+   "value": "and see",
+   "severity": "style",
+   "reason": "cohortative, continuing 'let me go down'"
+  },
+  {
+   "ref": "18:21",
+   "path": "token:18:21.4.gloss",
+   "value": "whether, according to its outcry",
+   "severity": "style",
+   "reason": "The interrogative ה is 'whether'; the English had 'if', which made the clause a condition."
+  },
+  {
+   "ref": "18:21",
+   "path": "token:18:21.8.gloss",
+   "value": "altogether",
+   "severity": "error",
+   "reason": "כָּלָה has no verb of its own. Ibn Ezra reads it as 'all of them', so 'altogether'."
+  },
+  {
+   "ref": "18:21",
+   "path": "token:18:21.8.note",
+   "value": "כָּלָה: the noun 'completion, complete destruction' used as an adverb, 'completely, altogether'. Ibn Ezra, at 'ואם לא אדעה': 'I will see whether they all did like this evil'. Rashi and Radak take it as the consequence ('I will make an end of them'); that reading is recorded in the commentary.",
+   "severity": "error",
+   "reason": "The old note said Ibn Ezra and Rashi both take it as God's act and supplied a verb."
+  },
+  {
+   "ref": "18:21",
+   "path": "token:18:21.11.note",
+   "value": "Ibn Ezra, the normative commentator: 'I will see whether they all did like this evil'. Rashi: 'I will know what to do' in punishing them with afflictions; recorded in the commentary. Others (in Ibn Ezra): 'I will have mercy' (like 'God knew', Exod. 2:25).",
+   "severity": "style",
+   "reason": "fuller and accurate"
+  },
+  {
+   "ref": "18:21",
+   "path": "grammar",
+   "value": [
+    "אֵרְדָה־נָּא וְאֶרְאֶה: two cohortatives, first person singular, 'let me go down' and 'let me see'; נָא softens them.",
+    "הַכְּצַעֲקָתָהּ: the interrogative ה, 'whether', with כְּ 'according to' and the noun 'outcry' with the feminine suffix ('its outcry', the outcry of the city; Rashi 'of the city'). הַבָּאָה: the article before the qatal makes a relative clause, 'that has come to me'.",
+    "עָשׂוּ כָּלָה: a qatal, third common plural, with כָּלָה. Rashi, Radak and the first view that Ibn Ezra reports take כָּלָה as the consequence ('they will be made an end of'); the pesiq between the words points that way. Ibn Ezra's own view, and Sforno's, take it as 'altogether, all of them'.",
+    "וְאִם־לֹא אֵדָעָה: the other half of the alternative, 'and if not, I will know'; the sense is 'see and discern' (Qal 1.c)."
+   ],
+   "severity": "error",
+   "reason": "The grammar notes described a conditional with a supplied apodosis."
+  },
+  {
+   "ref": "18:21",
+   "path": "note",
+   "value": "The English reads one question: God goes down to see whether they have done altogether according to the outcry, and if not, to find out. This is Ibn Ezra's own reading ('I will see whether they all did like this evil'); the apodosis reading ('then I will make an end', Rashi, Radak, and the view he reports first) is recorded. The vowel variant at 18:21.1 does not change the reading.",
+   "severity": "error",
+   "reason": "The old note said the English reads a conditional with destruction."
+  },
+  {
+   "ref": "18:21",
+   "path": "commentary:rashi:18:21:3.summary",
+   "value": "Rashi: if they stand in their rebellion, 'I am making an end of them' (כָּלָה אֲנִי עוֹשֶׂה בָהֶם); if they do not, 'I will know what to do' to punish them with afflictions and not destroy them (compare Exod. 33:5). A pesiq separates עָשׂוּ from כָּלָה. The English does not supply a consequence: it takes כָּלָה as 'altogether', as Ibn Ezra does, and Rashi's reading is recorded here.",
+   "severity": "error",
+   "reason": "The old summary said the destruction agrees with the English; the English no longer supplies it."
+  },
+  {
+   "ref": "18:21",
+   "path": "commentary:ibn-ezra:18:21:1.relation",
+   "value": "records",
+   "severity": "error",
+   "reason": "Ibn Ezra reports this as the view of others ('some say'); the English follows his own view, given in his next comment."
+  },
+  {
+   "ref": "18:21",
+   "path": "commentary:ibn-ezra:18:21:1.summary",
+   "value": "Ibn Ezra reports a view ('some say') on הכצעקתה: 'if so, they did, I will make an end of them' (אם כן עשו אעשה בהם כלה), taking כלה as the consequence. His own view is in the next comment ('I will see whether they all did'); the English follows that, not this reading.",
+   "severity": "error",
+   "reason": "The old summary said the English follows him and that this was the same consequence as Rashi."
+  },
+  {
+   "ref": "18:21",
+   "path": "commentary:ibn-ezra:18:21:2.summary",
+   "value": "Ibn Ezra: of 'and if not, I will know', some explain 'I will have mercy on them' (like 'and God knew', Exod. 2:25); in his own opinion it means 'I will see whether they all did like this evil', since God knows the whole by way of the whole and not by way of a part. (He adds a remark on the pointing of the interrogative ה in הַאַף, 18:23.) The English adopts his view: 'whether they have done altogether ... if not, I will find out'. The mercy reading is recorded here.",
+   "severity": "style",
+   "reason": "fuller; the old summary left out how the sense reaches כָּלָה"
+  },
+  {
+   "ref": "18:21",
+   "path": "apparatus",
+   "value": [
+    "18:21.1 vowels: WLC reads אֵֽרֲדָה; the base text reads אֵֽרְדָה. The verb is the same; only the vowels differ.",
+    "18:21.7–8 עָשׂוּ ׀ כָּלָה: a pesiq stands between the two words. Rashi, Radak and the first view in Ibn Ezra read 'if they have done according to the outcry, I will make an end (of them)'; Ibn Ezra's own view and Sforno read כָּלָה as 'altogether, all of them'."
+   ],
+   "severity": "style",
+   "reason": "The disputed reading of כָּלָה was not kept in the apparatus."
+  },
+  {
+   "ref": "18:21",
+   "path": "context",
+   "value": [
+    "The LORD 'goes down' to see before judging: in the text's picture of the world he dwells above and comes down to examine a matter on the earth, as in Gen. 11:5. Radak and Rashi take the 'seeing' as teaching men to judge only after looking into a case."
+   ],
+   "severity": "style",
+   "reason": "The picture of the world behind 'go down' was not explained."
+  },
+  {
+   "ref": "18:22",
+   "path": "token:18:22.1.sense",
+   "value": "Qal 1.a",
+   "severity": "error",
+   "reason": "Sense 1.d is 'turn, decline' (of a day declining); the men are not declining. They turn away: the plain 'turn' (1.a)."
+  },
+  {
+   "ref": "18:22",
+   "path": "token:18:22.1.note",
+   "value": "wayyiqtol; 'turned' from the place, i.e. left Abraham's company. Rashi: from the place where Abraham had been escorting them.",
+   "severity": "error",
+   "reason": "The old note said 'decline'."
+  },
+  {
+   "ref": "18:22",
+   "path": "token:18:22.4.sense",
+   "value": "Qal I.1",
+   "severity": "error",
+   "reason": "Sense II.2 is the figurative 'live, walk' (of life and conduct). The men go to Sodom: Qal I.1, 'go, come, walk, of persons'."
+  },
+  {
+   "ref": "18:22",
+   "path": "token:18:22.4.note",
+   "value": "wayyiqtol; הָלַךְ of persons going (Qal I.1).",
+   "severity": "error",
+   "reason": "The old note said the only sense for going is 'walk' and took the figurative sense."
+  },
+  {
+   "ref": "18:22",
+   "path": "context",
+   "value": [
+    "To 'stand before' a king or a god is the idiom for serving or petitioning him in his presence (compare Deut. 10:8; 1 Kgs 10:8). The tradition that the wording is a scribal correction (תִּקּוּן סוֹפְרִים) is rabbinic; the text as pointed has Abraham standing before the LORD."
+   ],
+   "severity": "style",
+   "reason": "A reader needs the idiom 'stand before'."
+  },
+  {
+   "ref": "18:23",
+   "path": "english",
+   "value": "Abraham drew near and said, \"Will you indeed sweep away a righteous person along with a wicked one?",
+   "severity": "error",
+   "reason": "הַאַף: the interrogative ה (pataḥ before alef, as Ibn Ezra notes on 18:21) and אַף, which the pack parses as an adverb and lists as 'also, yea'. 'In anger' is the Targum's reading and Radak's; Rashi's own gloss is הֲגַם, 'even, also', and the Targum is introduced as 'according to the Targum of Onkelos'. צַדִּיק and רָשָׁע are singular and have no article: 'a righteous person ... a wicked one'."
+  },
+  {
+   "ref": "18:23",
+   "path": "literal",
+   "value": "and-drew-near Abraham and-said: will-also sweep-away you a-righteous with a-wicked?",
+   "severity": "error",
+   "reason": "follows the new english"
+  },
+  {
+   "ref": "18:23",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:23.1",
+      "18:23.2"
+     ],
+     "english": "Abraham drew near",
+     "literal": "'and-drew-near Abraham'"
+    },
+    {
+     "tokens": [
+      "18:23.3"
+     ],
+     "english": "and said",
+     "literal": "'and-said'"
+    },
+    {
+     "tokens": [
+      "18:23.4",
+      "18:23.5"
+     ],
+     "english": "Will you indeed sweep away",
+     "literal": "'will-also you-sweep-away'; Rashi: הֲגַם; the Targum and Radak read 'in anger'"
+    },
+    {
+     "tokens": [
+      "18:23.6",
+      "18:23.7",
+      "18:23.8"
+     ],
+     "english": "a righteous person along with a wicked one",
+     "literal": "'a-righteous with a-wicked'"
+    }
+   ],
+   "severity": "error",
+   "reason": "follows the new english"
+  },
+  {
+   "ref": "18:23",
+   "path": "token:18:23.4.gloss",
+   "value": "indeed",
+   "severity": "error",
+   "reason": "The lexicon entry is אַף 'also, yea', and OSHB parses it as an adverb; there is no entry for 'anger' in the pack."
+  },
+  {
+   "ref": "18:23",
+   "path": "token:18:23.4.note",
+   "value": "הַ is the interrogative; אַף is 'also, even', so 'will you also / indeed sweep away'. Rashi: הֲגַם. Onkelos and Radak read אַף as 'anger'; recorded in the apparatus.",
+   "severity": "error",
+   "reason": "The old note said the lexicon prints no sense and took 'anger'."
+  },
+  {
+   "ref": "18:23",
+   "path": "token:18:23.6.gloss",
+   "value": "a righteous person",
+   "severity": "style",
+   "reason": "no article in the Hebrew; singular"
+  },
+  {
+   "ref": "18:23",
+   "path": "token:18:23.8.gloss",
+   "value": "a wicked one",
+   "severity": "style",
+   "reason": "no article in the Hebrew; singular"
+  },
+  {
+   "ref": "18:23",
+   "path": "grammar",
+   "value": [
+    "וַיִּגַּשׁ אַבְרָהָם וַיֹּאמַר: two wayyiqtol verbs; the approach comes first, and the speech follows it.",
+    "הַאַף: the interrogative ה (pointed with pataḥ before the guttural alef; the article would take qamets) and the adverb אַף, 'also, even': 'will you also ...?'. The Targum and Radak read אַף as 'anger'.",
+    "תִּסְפֶּה: the yiqtol is second person singular, Abraham speaking to God; the verb is transitive (Ibn Ezra) with an object left unsaid.",
+    "צַדִּיק עִם־רָשָׁע: two singular adjectives without the article, 'a righteous person with a wicked one'; the question is whether one sentence may fall on both."
+   ],
+   "severity": "error",
+   "reason": "The grammar note called אַף a noun, against the data."
+  },
+  {
+   "ref": "18:23",
+   "path": "note",
+   "value": "Rashi's own gloss of הַאַף is הֲגַם, 'even, also'; the Targum's 'in anger' is the reading he introduces for Onkelos. The English follows the data (אַף 'also') and keeps the anger reading in the apparatus. Ibn Ezra takes the verb as transitive, 'consume'. The quotation runs on into 18:24.",
+   "severity": "error",
+   "reason": "The old note said the English follows Rashi's conclusion to 'anger'."
+  },
+  {
+   "ref": "18:23",
+   "path": "commentary:rashi:18:23:2.relation",
+   "value": "follows",
+   "severity": "error",
+   "reason": "The English follows Rashi's own gloss, 'also'."
+  },
+  {
+   "ref": "18:23",
+   "path": "commentary:rashi:18:23:2.summary",
+   "value": "Rashi: הַאַף is הֲגַם, 'will you also ...'. According to the Targum of Onkelos, who rendered it with a word of anger, the meaning is 'will anger make you sweep away a righteous with a wicked?'. The English gives Rashi's own gloss and records the Targum's reading in the apparatus.",
+   "severity": "error",
+   "reason": "The old summary made the Targum's reading Rashi's conclusion."
+  },
+  {
+   "ref": "18:23",
+   "path": "apparatus",
+   "value": [
+    "18:23.4 הַאַף: Onkelos (בִּרְגַז) and Radak take אַף as 'anger', 'will you in anger sweep away?'; Rashi's own gloss is הֲגַם, 'even, also'."
+   ],
+   "severity": "style",
+   "reason": "The disputed reading of אַף was not kept in the apparatus."
+  },
+  {
+   "ref": "18:23",
+   "path": "context",
+   "value": [
+    "צַדִּיק and רָשָׁע are also court words: the צַדִּיק is the one declared in the right and the רָשָׁע the one declared in the wrong (compare Deut. 25:1). Abraham's question is whether a judge may pass one sentence on both."
+   ],
+   "severity": "style",
+   "reason": "A reader needs the legal sense of the pair."
+  },
+  {
+   "ref": "18:24",
+   "path": "english",
+   "value": "Perhaps there are fifty righteous within the city. Will you indeed sweep away, and not spare Sodom for the sake of the fifty righteous who are within it?",
+   "severity": "error",
+   "reason": "הַאַף is 'will you indeed', as in 18:23 (the pack's entry is אַף 'also, yea'); 'in anger' was the Targum's reading."
+  },
+  {
+   "ref": "18:24",
+   "path": "literal",
+   "value": "perhaps there-are fifty righteous within the-city; will-also you-sweep-away and-not you-will-bear the-place for-the-sake-of fifty the-righteous who within-her",
+   "severity": "error",
+   "reason": "follows the new english"
+  },
+  {
+   "ref": "18:24",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "18:24.1",
+      "18:24.2",
+      "18:24.3",
+      "18:24.4"
+     ],
+     "english": "Perhaps there are fifty righteous",
+     "literal": "'perhaps there-are fifty righteous'"
+    },
+    {
+     "tokens": [
+      "18:24.5",
+      "18:24.6"
+     ],
+     "english": "within the city",
+     "literal": "'within the-city'"
+    },
+    {
+     "tokens": [
+      "18:24.7",
+      "18:24.8"
+     ],
+     "english": "Will you indeed sweep away",
+     "literal": "'will-also you-sweep-away'"
+    },
+    {
+     "tokens": [
+      "18:24.9",
+      "18:24.10",
+      "18:24.11"
+     ],
+     "english": "and not spare Sodom",
+     "literal": "'and-not you-will-bear the-place'; Ibn Ezra: the place is Sodom, and bearing here is forgiving"
+    },
+    {
+     "tokens": [
+      "18:24.12",
+      "18:24.13",
+      "18:24.14",
+      "18:24.15",
+      "18:24.16"
+     ],
+     "english": "for the sake of the fifty righteous who are within it",
+     "literal": "'for-the-sake-of fifty the-righteous who within-her'"
+    }
+   ],
+   "severity": "error",
+   "reason": "follows the new english"
+  },
+  {
+   "ref": "18:24",
+   "path": "token:18:24.7.gloss",
+   "value": "indeed",
+   "severity": "error",
+   "reason": "as 18:23.4"
+  },
+  {
+   "ref": "18:24",
+   "path": "token:18:24.7.note",
+   "value": "the interrogative ה with אַף 'also, even', as in 18:23.4.",
+   "severity": "error",
+   "reason": "The old note repeated 'in anger'."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:18:18:1",
+   "verdict": "consistent",
+   "comment": "nifal, passive: 'shall be blessed through him'."
+  },
+  {
+   "anchor": "ibn-ezra:18:20:1",
+   "verdict": "consistent",
+   "comment": "'outcry' leaves both his readings open."
+  },
+  {
+   "anchor": "ibn-ezra:18:20:2",
+   "verdict": "consistent",
+   "comment": "'very heavy'; his image is in the token note."
+  },
+  {
+   "anchor": "ibn-ezra:18:21:1",
+   "verdict": "consistent",
+   "comment": "The patched English follows his own reading (next comment); the apodosis he reports first is recorded."
+  },
+  {
+   "anchor": "ibn-ezra:18:21:2",
+   "verdict": "consistent",
+   "comment": "'whether they have done altogether ... and if not, I will find out' is his 'I will see whether they all did like this evil'."
+  },
+  {
+   "anchor": "ibn-ezra:18:23:1",
+   "verdict": "consistent",
+   "comment": "'sweep away' is transitive; his remark on the pointing of הַאַף agrees with the interrogative ה."
+  },
+  {
+   "anchor": "ibn-ezra:18:24:1",
+   "verdict": "consistent",
+   "comment": "'spare' for נשא, as he reads it, 'forgive'."
+  },
+  {
+   "anchor": "ibn-ezra:18:24:2",
+   "verdict": "consistent",
+   "comment": "'the place' is named Sodom."
+  }
+ ]
+}

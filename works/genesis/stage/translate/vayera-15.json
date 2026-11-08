@@ -1,0 +1,1290 @@
+{
+  "unit": "vayera-15",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "21:22",
+      "english": "At that time Abimelech and Phichol, the commander of his army, said to Abraham, \"God is with you in all that you do.\"",
+      "literal": "and-it-came-to-pass in-the-time the-that and-said Abimelech and-Phichol commander-of his-army to Abraham saying God with-you in-all that you-doing",
+      "tokens": [
+        {
+          "id": "21:22.1",
+          "gloss": "and it came to pass",
+          "sense": "Qal I.2.a.(1)",
+          "note": "Wayyiqtol of הָיָה, 3rd masculine singular. It is the narrative formula that opens the scene; the English has no word for it."
+        },
+        {
+          "id": "21:22.2",
+          "gloss": "at the time",
+          "sense": "1"
+        },
+        {
+          "id": "21:22.3",
+          "gloss": "that",
+          "sense": "7",
+          "note": "הַהִוא: the demonstrative with the article, after a noun that has the article."
+        },
+        {
+          "id": "21:22.4",
+          "gloss": "and said",
+          "sense": "Qal 1",
+          "note": "Wayyiqtol of אָמַר; the subject follows the verb."
+        },
+        {
+          "id": "21:22.5",
+          "gloss": "Abimelech",
+          "sense": "1",
+          "note": "King of Gerar, the first sense the pack lists for this name."
+        },
+        {
+          "id": "21:22.6",
+          "gloss": "and Phichol"
+        },
+        {
+          "id": "21:22.7",
+          "gloss": "the commander of",
+          "note": "שַׂר in the construct state, with the noun that follows."
+        },
+        {
+          "id": "21:22.8",
+          "gloss": "his army",
+          "sense": "1"
+        },
+        {
+          "id": "21:22.9",
+          "gloss": "to",
+          "sense": "1"
+        },
+        {
+          "id": "21:22.10",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "21:22.11",
+          "gloss": "saying",
+          "sense": "Qal 1",
+          "note": "Infinitive construct with לְ. It introduces the speech; the English marks the speech with quotation marks."
+        },
+        {
+          "id": "21:22.12",
+          "gloss": "God",
+          "sense": "4",
+          "note": "Plural in form, used of the God whom Abraham serves. The pack's 'the (true) God' (3) is not chosen: the speaker does not set this God against other gods."
+        },
+        {
+          "id": "21:22.13",
+          "gloss": "with you",
+          "sense": "1"
+        },
+        {
+          "id": "21:22.14",
+          "gloss": "in all",
+          "sense": "2.a",
+          "note": "כֹּל with the relative clause that follows: 'everything that'."
+        },
+        {
+          "id": "21:22.15",
+          "gloss": "that"
+        },
+        {
+          "id": "21:22.16",
+          "gloss": "you"
+        },
+        {
+          "id": "21:22.17",
+          "gloss": "do",
+          "sense": "Qal I.1",
+          "note": "Active participle, masculine singular, in a relative clause: 'you are doing', rendered 'you do'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "21:22.1"
+          ],
+          "english": "-",
+          "literal": "and-it-came-to-pass: the narrative formula, with no English counterpart"
+        },
+        {
+          "tokens": [
+            "21:22.2",
+            "21:22.3"
+          ],
+          "english": "At that time",
+          "literal": "in-the-time the-that"
+        },
+        {
+          "tokens": [
+            "21:22.4"
+          ],
+          "english": "said",
+          "literal": "and-said"
+        },
+        {
+          "tokens": [
+            "21:22.5",
+            "21:22.6"
+          ],
+          "english": "Abimelech and Phichol",
+          "literal": "Abimelech and-Phichol"
+        },
+        {
+          "tokens": [
+            "21:22.7",
+            "21:22.8"
+          ],
+          "english": "the commander of his army",
+          "literal": "commander-of his-army"
+        },
+        {
+          "tokens": [
+            "21:22.9",
+            "21:22.10"
+          ],
+          "english": "to Abraham",
+          "literal": "to Abraham"
+        },
+        {
+          "tokens": [
+            "21:22.11"
+          ],
+          "english": "-",
+          "literal": "to-say: introduces the speech, which the quotation marks render"
+        },
+        {
+          "tokens": [
+            "21:22.12",
+            "21:22.13"
+          ],
+          "english": "God is with you",
+          "literal": "God with-you; the clause has no verb, and 'is' is the English copula"
+        },
+        {
+          "tokens": [
+            "21:22.14"
+          ],
+          "english": "in all",
+          "literal": "in-all"
+        },
+        {
+          "tokens": [
+            "21:22.15",
+            "21:22.16",
+            "21:22.17"
+          ],
+          "english": "that you do",
+          "literal": "that you-doing"
+        }
+      ],
+      "grammar": [
+        "The verse opens a scene. The wayyiqtol וַיְהִי (21:22.1) is a narrative formula, and the wayyiqtol וַיֹּאמֶר (21:22.4) carries the story on; its subject follows the verb, as usual in this construction.",
+        "אֱלֹהִים עִמְּךָ בְּכֹל אֲשֶׁר־אַתָּה עֹשֶׂה is a verbless clause. 'Is' in the English is the copula the Hebrew does not express.",
+        "לֵאמֹר (21:22.11) is the infinitive construct that introduces direct speech. Its etnaḥta divides the verse before the speech.",
+        "The participle עֹשֶׂה (21:22.17) in the relative clause gives a continuing practice: 'in all that you do'."
+      ],
+      "note": "The copula 'is' is the only word added to the verbless clause. The divine name takes the sense 'God' (4); the note on 21:22.12 gives the reason.",
+      "commentary": [
+        {
+          "anchor": "radak:21:22:1",
+          "relation": "records",
+          "summary": "Radak dates the time to when Isaac was born or weaned, while Abraham was still in Gerar in the land of the Philistines. The English keeps 'that time' and does not fix a date."
+        },
+        {
+          "anchor": "rashi:21:22:1",
+          "relation": "not-applicable",
+          "summary": "Rashi gives the reason for the speech: the Philistines saw that Abraham had come out of Sodom's neighbourhood in peace, had fought the kings and won, and had a son in his old age. That is a motive, not a reading of the words."
+        },
+        {
+          "anchor": "radak:21:22:2",
+          "relation": "not-applicable",
+          "summary": "Radak explains why the verse says 'said' and not 'went to': Abimelech wanted Abraham as an ally after he saw Abraham's success. A reason for the speech, not a reading of its words."
+        },
+        {
+          "anchor": "radak:21:22:3",
+          "relation": "not-applicable",
+          "summary": "Radak says Phichol's counsel lay behind Abimelech's words. A motive, not a reading of the words."
+        },
+        {
+          "anchor": "onkelos:21:22:1",
+          "relation": "declines",
+          "summary": "Onkelos renders the clause as 'the Memra of the LORD is at your side', a targumic rendering of the divine name. The English keeps 'God' for אֱלֹהִים, as the decisions set."
+        },
+        {
+          "anchor": "sforno:21:22:1",
+          "relation": "not-applicable",
+          "summary": "Sforno gives Abimelech's motive: he fears Abraham's standing with God, not his might, and so asks for an oath. A reason for the speech, not a reading of its words."
+        }
+      ],
+      "apparatus": [],
+      "context": [
+        "Gerar is the town where Abimelech holds court (20:1; 26:1). Its site is not established by the text.",
+        "Abimelech's people are called Philistines in 21:32 and 26:1. Most historians date the settlement of Philistines on the coast to the 12th century BCE, long after the patriarchal period. Some read the name here as a later label; others take it as a term the narrator used in his own time. The English does not use the word in this verse."
+      ]
+    },
+    {
+      "ref": "21:23",
+      "english": "Now swear to me by God here: if you deal falsely with me, and with my offspring, and with my grandson, as the kindness I did with you, you will deal with me and with the land in which you sojourned.",
+      "literal": "and-now swear to-me by-God here if you-deal-falsely with-me and-to my-offspring and-to my-grandson as the-kindness which I-did with-you you-will-deal with-me and-with the-land which you-sojourned in-it",
+      "tokens": [
+        {
+          "id": "21:23.1",
+          "gloss": "and now",
+          "note": "וְ with עַתָּה: 'now', marking the turn from the past kindness to the request."
+        },
+        {
+          "id": "21:23.2",
+          "gloss": "swear",
+          "sense": "Niph",
+          "note": "Niphal imperative, masculine singular, with the paragogic ה (הִשָּׁבְעָה). Its Niphal sense is 'swear, take an oath'."
+        },
+        {
+          "id": "21:23.3",
+          "gloss": "to me",
+          "note": "The preposition לְ with the first person suffix."
+        },
+        {
+          "id": "21:23.4",
+          "gloss": "by God",
+          "sense": "4",
+          "note": "בְּ with the plural divine name, in an oath formula."
+        },
+        {
+          "id": "21:23.5",
+          "gloss": "here",
+          "sense": "a",
+          "note": "The adverb 'here, hither': the oath is taken in the present company."
+        },
+        {
+          "id": "21:23.6",
+          "gloss": "if",
+          "sense": "1",
+          "note": "The conditional of the oath formula. The apodosis is not stated; see the note on the segment."
+        },
+        {
+          "id": "21:23.7",
+          "gloss": "deal falsely",
+          "sense": "Qal",
+          "note": "Qal yiqtol, 2nd masculine singular. It is the only form of the root שָׁקַר in the verse; the Qal is the light binyan (Ibn Ezra)."
+        },
+        {
+          "id": "21:23.8",
+          "gloss": "with me"
+        },
+        {
+          "id": "21:23.9",
+          "gloss": "and with my offspring",
+          "note": "נִין: a descendant. Radak takes it as 'son'; see the commentary."
+        },
+        {
+          "id": "21:23.10",
+          "gloss": "and with my grandson",
+          "note": "נֶכֶד: Ibn Ezra's 'son of my son'. The lexicon's 'progeny' is wider; see the commentary."
+        },
+        {
+          "id": "21:23.11",
+          "gloss": "as the kindness",
+          "sense": "I.1",
+          "note": "כְּ 'as, like' with חֶסֶד, the kindness that Abraham showed Abimelech."
+        },
+        {
+          "id": "21:23.12",
+          "gloss": "that (relative)"
+        },
+        {
+          "id": "21:23.13",
+          "gloss": "I did",
+          "sense": "Qal I.2",
+          "note": "Qatal 1st common singular. The sense 'deal', with the preposition עִם that follows."
+        },
+        {
+          "id": "21:23.14",
+          "gloss": "with you",
+          "sense": "1"
+        },
+        {
+          "id": "21:23.15",
+          "gloss": "you will deal",
+          "sense": "Qal I.2",
+          "note": "Yiqtol 2nd masculine singular: the future of the request."
+        },
+        {
+          "id": "21:23.16",
+          "gloss": "with me",
+          "sense": "1"
+        },
+        {
+          "id": "21:23.17",
+          "gloss": "and with",
+          "sense": "1"
+        },
+        {
+          "id": "21:23.18",
+          "gloss": "the land",
+          "sense": "2.a",
+          "note": "The country in which Abraham sojourned, the sense 'country, territory'."
+        },
+        {
+          "id": "21:23.19",
+          "gloss": "which (relative)"
+        },
+        {
+          "id": "21:23.20",
+          "gloss": "you sojourned",
+          "sense": "Qal 1",
+          "note": "Qatal 2nd masculine singular of גּוּר: to live as a resident who is not a citizen."
+        },
+        {
+          "id": "21:23.21",
+          "gloss": "in it",
+          "note": "בָּהּ: the feminine suffix refers to אֶרֶץ, 'land'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "21:23.1"
+          ],
+          "english": "Now",
+          "literal": "and-now"
+        },
+        {
+          "tokens": [
+            "21:23.2",
+            "21:23.3"
+          ],
+          "english": "swear to me",
+          "literal": "swear to-me"
+        },
+        {
+          "tokens": [
+            "21:23.4",
+            "21:23.5"
+          ],
+          "english": "by God here",
+          "literal": "by-God here"
+        },
+        {
+          "tokens": [
+            "21:23.6"
+          ],
+          "english": "if",
+          "literal": "if"
+        },
+        {
+          "tokens": [
+            "21:23.7",
+            "21:23.8"
+          ],
+          "english": "you deal falsely with me",
+          "literal": "you-deal-falsely with-me"
+        },
+        {
+          "tokens": [
+            "21:23.9"
+          ],
+          "english": "and with my offspring",
+          "literal": "and-with my-offspring"
+        },
+        {
+          "tokens": [
+            "21:23.10"
+          ],
+          "english": "and with my grandson",
+          "literal": "and-with my-grandson"
+        },
+        {
+          "tokens": [
+            "21:23.11"
+          ],
+          "english": "as the kindness",
+          "literal": "as the-kindness"
+        },
+        {
+          "tokens": [
+            "21:23.12"
+          ],
+          "english": "-",
+          "literal": "which: the relative, untranslated"
+        },
+        {
+          "tokens": [
+            "21:23.13",
+            "21:23.14"
+          ],
+          "english": "I did with you",
+          "literal": "I-did with-you"
+        },
+        {
+          "tokens": [
+            "21:23.15",
+            "21:23.16"
+          ],
+          "english": "you will deal with me",
+          "literal": "you-will-deal with-me"
+        },
+        {
+          "tokens": [
+            "21:23.17",
+            "21:23.18"
+          ],
+          "english": "and with the land",
+          "literal": "and-with the-land"
+        },
+        {
+          "tokens": [
+            "21:23.19",
+            "21:23.20",
+            "21:23.21"
+          ],
+          "english": "in which you sojourned",
+          "literal": "which you-sojourned in-it"
+        }
+      ],
+      "grammar": [
+        "The oath opens with the Niphal imperative הִשָּׁבְעָה and the conditional אִם, and the conditional has no apodosis. The curse that would complete it is left unstated, as Ramban explains; the English keeps the clause open.",
+        "The verb תִּשְׁקֹר (21:23.7) is a yiqtol in a conditional clause. Ibn Ezra notes that it is in the light binyan, Qal, and the English reads it as Qal.",
+        "The verb takes three objects joined by ו: 'me', 'my offspring', 'my grandson'. The preposition ל is repeated before each, so the English repeats 'with'.",
+        "כַּחֶסֶד אֲשֶׁר־עָשִׂיתִי עִמְּךָ (21:23.11–14) is a comparison, 'as the kindness I did with you'. The main verb that follows, תַּעֲשֶׂה עִמָּדִי (21:23.15–16), is a yiqtol: 'you will deal with me'.",
+        "The etnaḥta on וּלְנֶכְדִּי (21:23.10) closes the list of persons. The comparison runs on to the geresh on כַּחֶסֶד (21:23.11).",
+        "The last clause (21:23.17–21) adds the land as a second object of the same request. The feminine suffix in בָּהּ (21:23.21) refers to אֶרֶץ."
+      ],
+      "note": "The oath is a conditional with no apodosis: 'if you deal falsely with me' stands by itself, and the English does not complete it. A reading that completes it as 'that you will not deal falsely' is common, but the Hebrew has no negative, so the English does not add one.",
+      "commentary": [
+        {
+          "anchor": "ibn-ezra:21:23:1",
+          "relation": "follows",
+          "summary": "Ibn Ezra, on תִּשְׁקֹר: «מֵהַבִּנְיָן הַקַּל וְאֵין לוֹ אָח», 'from the light binyan, and it has no brother'. He places the form in Qal, which has no sibling binyan. The English reads Qal, 'deal falsely'."
+        },
+        {
+          "anchor": "ibn-ezra:21:23:2",
+          "relation": "follows",
+          "summary": "Ibn Ezra, on נכדי: «בֶּן בְּנִי», 'son of my son'. The English gives 'grandson'."
+        },
+        {
+          "anchor": "rashi:21:23:1",
+          "relation": "not-applicable",
+          "summary": "Rashi remarks that the father's compassion for the son extends only as far as the grandson. A remark on the list of persons, not a reading of the words."
+        },
+        {
+          "anchor": "rashi:21:23:2",
+          "relation": "declines",
+          "summary": "Rashi, citing Genesis Rabbah, reads the kindness as Abraham's earlier words: 'here is my land before you'. A midrashic reading; the plain sense of כַּחֶסֶד is kindness, and the English keeps it."
+        },
+        {
+          "anchor": "ramban:21:23:1",
+          "relation": "follows",
+          "summary": "Ramban explains that אִם in an oath is a conditional whose curse is left unstated, with parallels in 1 Samuel 3:14 and Psalm 89:36. The English keeps the clause without its apodosis, as the Hebrew has it."
+        },
+        {
+          "anchor": "radak:21:23:1",
+          "relation": "records",
+          "summary": "Radak reads אִם as 'perhaps' (אוּלַי), not as a condition: 'perhaps you will deal falsely with me'. The English keeps 'if'."
+        },
+        {
+          "anchor": "radak:21:23:2",
+          "relation": "not-applicable",
+          "summary": "Radak gives the purpose of the oath: that Abraham's sons will keep it. A reason, not a reading of the words."
+        },
+        {
+          "anchor": "radak:21:23:3",
+          "relation": "records",
+          "summary": "Radak takes נִין as 'son' and נֶכֶד as 'son's son', citing Isaiah 14:22. The English keeps 'offspring' for נִין, which covers descendants more widely."
+        },
+        {
+          "anchor": "radak:21:23:4",
+          "relation": "records",
+          "summary": "Radak says the kindness was Abraham's gift of his land to Abimelech to dwell in as he wished. The Hebrew names no particular kindness, so the English does not state one."
+        },
+        {
+          "anchor": "radak:21:23:5",
+          "relation": "records",
+          "summary": "Radak reads עִם הָאָרֶץ as 'with its inhabitants' and says the oath binds them too. The English keeps 'the land'."
+        },
+        {
+          "anchor": "sforno:21:23:1",
+          "relation": "not-applicable",
+          "summary": "Sforno gives the purpose of the kindness: that Abimelech should be sworn to on behalf of his sons. A reason, not a reading of the words."
+        }
+      ],
+      "apparatus": [
+        "Radak reads אִם as 'perhaps' rather than 'if'. The English keeps 'if'; the commentary records his reading."
+      ],
+      "context": [
+        "חֶסֶד (21:23.11) names loyalty owed between parties bound by an agreement. Scholars disagree about whether the word is a technical term of treaties; the English uses 'kindness' only.",
+        "גּוּר (21:23.20) describes a resident who lives in a land that is not his own. The text does not say what rights that status brought."
+      ]
+    },
+    {
+      "ref": "21:24",
+      "english": "Abraham said, \"I will swear.\"",
+      "literal": "and-said Abraham I will-swear",
+      "tokens": [
+        {
+          "id": "21:24.1",
+          "gloss": "and said",
+          "sense": "Qal 1",
+          "note": "Wayyiqtol; the reply follows at once."
+        },
+        {
+          "id": "21:24.2",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "21:24.3",
+          "gloss": "I",
+          "note": "The independent pronoun, emphatic: it sets Abraham's answer against the request."
+        },
+        {
+          "id": "21:24.4",
+          "gloss": "will swear",
+          "sense": "Niph",
+          "note": "Niphal yiqtol, 1st common singular. The Niphal of שָׁבַע is the form used of the one who takes the oath."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "21:24.1",
+            "21:24.2"
+          ],
+          "english": "Abraham said",
+          "literal": "and-said Abraham"
+        },
+        {
+          "tokens": [
+            "21:24.3"
+          ],
+          "english": "I",
+          "literal": "I"
+        },
+        {
+          "tokens": [
+            "21:24.4"
+          ],
+          "english": "will swear",
+          "literal": "will-swear"
+        }
+      ],
+      "grammar": [
+        "The reply has three parts: a wayyiqtol, the name, and a pronoun with a yiqtol. The pronoun אָנֹכִי adds emphasis; the English shows it only through the choice of 'I' at the start of the reply.",
+        "אִשָּׁבֵעַ is the Niphal yiqtol of שָׁבַע, the same stem as the imperative in 21:23.",
+        "Accents: pashta on the verb and zaqef qaton on the name divide the narrative frame from the reply. The silluq on אִשָּׁבֵעַ ends the verse."
+      ],
+      "commentary": [
+        {
+          "anchor": "radak:21:24:1",
+          "relation": "records",
+          "summary": "Radak adds 'and you too swear likewise', reading Abraham's answer as a call for a mutual oath. The English does not add it."
+        },
+        {
+          "anchor": "radak:21:24:2",
+          "relation": "not-applicable",
+          "summary": "Radak notes the vowel of the first letter of the Niphal form. A point of form that the English does not depend on."
+        },
+        {
+          "anchor": "onkelos:21:24:1",
+          "relation": "records",
+          "summary": "Onkelos renders the verb as 'I will confirm' (אֲנָא אֲקַיֵּם), taking it as making a word good. The English keeps 'swear', the sense of the Niphal in the lexicon."
+        },
+        {
+          "anchor": "sforno:21:24:1",
+          "relation": "not-applicable",
+          "summary": "Sforno reads the reply as a contrast: Abraham will do the kindness and swear, but Abimelech did not do kindness to him. A reading of the reply's logic that the words do not state."
+        }
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "21:25",
+      "english": "Abraham rebuked Abimelech concerning the well of the water which the servants of Abimelech seized.",
+      "literal": "and-rebuked Abraham [object] Abimelech on account-of well-of the-water which seized servants-of Abimelech",
+      "tokens": [
+        {
+          "id": "21:25.1",
+          "gloss": "and rebuked",
+          "sense": "Hiph 5",
+          "note": "Hifil qatal, 3rd masculine singular, of יָכַח: 'reprove, chide'. Rashi reads a reciprocal sense; see the commentary."
+        },
+        {
+          "id": "21:25.2",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "21:25.3",
+          "gloss": "[object marker]",
+          "note": "The object marker before the name; no English counterpart."
+        },
+        {
+          "id": "21:25.4",
+          "gloss": "Abimelech",
+          "sense": "1"
+        },
+        {
+          "id": "21:25.5",
+          "gloss": "about",
+          "note": "עַל: 'on', with the noun that follows."
+        },
+        {
+          "id": "21:25.6",
+          "gloss": "account of",
+          "note": "אֹדוֹת: a construct noun in a fixed phrase, 'concerning'. The pack lists no senses for it."
+        },
+        {
+          "id": "21:25.7",
+          "gloss": "the well of",
+          "sense": "1",
+          "note": "בְּאֵר in the construct state: 'well of'."
+        },
+        {
+          "id": "21:25.8",
+          "gloss": "the water",
+          "note": "מַיִם: a plural noun, with the article."
+        },
+        {
+          "id": "21:25.9",
+          "gloss": "which (relative)"
+        },
+        {
+          "id": "21:25.10",
+          "gloss": "seized",
+          "sense": "Qal",
+          "note": "Qatal 3rd common plural of גָּזַל: 'tear away, seize, rob'. The subject is the servants."
+        },
+        {
+          "id": "21:25.11",
+          "gloss": "the servants of",
+          "sense": "1"
+        },
+        {
+          "id": "21:25.12",
+          "gloss": "Abimelech",
+          "sense": "1"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "21:25.1",
+            "21:25.2"
+          ],
+          "english": "Abraham rebuked",
+          "literal": "and-rebuked Abraham"
+        },
+        {
+          "tokens": [
+            "21:25.3"
+          ],
+          "english": "-",
+          "literal": "[object marker]"
+        },
+        {
+          "tokens": [
+            "21:25.4"
+          ],
+          "english": "Abimelech",
+          "literal": "Abimelech"
+        },
+        {
+          "tokens": [
+            "21:25.5",
+            "21:25.6"
+          ],
+          "english": "concerning",
+          "literal": "about account-of"
+        },
+        {
+          "tokens": [
+            "21:25.7",
+            "21:25.8"
+          ],
+          "english": "the well of the water",
+          "literal": "well-of the-water"
+        },
+        {
+          "tokens": [
+            "21:25.9",
+            "21:25.10",
+            "21:25.11",
+            "21:25.12"
+          ],
+          "english": "which the servants of Abimelech seized",
+          "literal": "which seized servants-of Abimelech"
+        }
+      ],
+      "grammar": [
+        "The verb וְהוֹכִחַ (21:25.1) is a Hifil qatal, 3rd masculine singular, with Abraham as subject and Abimelech as object, marked by אֶת (21:25.3).",
+        "אֹדוֹת (21:25.6) is a noun in a fixed phrase meaning 'concerning'. The pack lists no senses for it.",
+        "The relative clause (21:25.9–12) has the servants as subject. The seizure is theirs, and the verb is qatal.",
+        "The object marker אֶת has no English counterpart; the English gives the name as the object of 'rebuked' by word order."
+      ],
+      "commentary": [
+        {
+          "anchor": "rashi:21:25:1",
+          "relation": "records",
+          "summary": "Rashi reads וְהוֹכִחַ as reciprocal: 'they argued with him about this' (נִתְוַכֵּחַ עִמּוֹ). The English keeps Abraham's reproof, the sense of the Hifil form."
+        },
+        {
+          "anchor": "radak:21:25:1",
+          "relation": "records",
+          "summary": "Radak places the well inside the border of Beersheba, which Abraham had dug, and says the parties went to Gerar to see whether it lay on Beersheba's border or on Philistine land. The Hebrew does not give the location, so the English does not state it."
+        },
+        {
+          "anchor": "sforno:21:25:1",
+          "relation": "records",
+          "summary": "Sforno takes the rebuke more widely: against Abimelech's failure to stop robbery in his land, and against the wicked in his household. The English gives the rebuke about the well only."
+        }
+      ],
+      "apparatus": [],
+      "context": [
+        "In dry country a dug well carried a claim to the grazing land around it. The dispute in this verse is over water and the rights that go with it. The text does not say where the well lay."
+      ]
+    },
+    {
+      "ref": "21:26",
+      "english": "Abimelech said, \"I did not know who did this thing. And you also did not tell me, and I also did not hear until today.\"",
+      "literal": "and-said Abimelech not I-knew who did [object] the-thing this and-also you not you-told to-me and-also I not heard except the-today",
+      "tokens": [
+        {
+          "id": "21:26.1",
+          "gloss": "and said",
+          "sense": "Qal 1",
+          "note": "Wayyiqtol of אָמַר; the subject follows the verb."
+        },
+        {
+          "id": "21:26.2",
+          "gloss": "Abimelech",
+          "sense": "1"
+        },
+        {
+          "id": "21:26.3",
+          "gloss": "not",
+          "note": "The negation of the qatal that follows."
+        },
+        {
+          "id": "21:26.4",
+          "gloss": "did not know",
+          "sense": "Qal 1.h",
+          "note": "Qatal 1st common singular of יָדַע with לֹא: 'not know', the sense the pack lists as Qal 1.h."
+        },
+        {
+          "id": "21:26.5",
+          "gloss": "who",
+          "sense": "c",
+          "note": "Interrogative in an indirect question inside the speech."
+        },
+        {
+          "id": "21:26.6",
+          "gloss": "did",
+          "sense": "Qal I.1",
+          "note": "Qatal 3rd masculine singular of עָשָׂה."
+        },
+        {
+          "id": "21:26.7",
+          "gloss": "[object marker]",
+          "note": "The object marker before the noun phrase."
+        },
+        {
+          "id": "21:26.8",
+          "gloss": "the thing",
+          "sense": "IV",
+          "note": "דָּבָר in the sense 'matter, affair'."
+        },
+        {
+          "id": "21:26.9",
+          "gloss": "this",
+          "sense": "2",
+          "note": "The demonstrative in apposition to the noun."
+        },
+        {
+          "id": "21:26.10",
+          "gloss": "and also",
+          "note": "וְגַם: the first of two parallel clauses."
+        },
+        {
+          "id": "21:26.11",
+          "gloss": "you"
+        },
+        {
+          "id": "21:26.12",
+          "gloss": "not",
+          "note": "The negation of the qatal that follows."
+        },
+        {
+          "id": "21:26.13",
+          "gloss": "did tell",
+          "sense": "Hiph",
+          "note": "Hifil qatal 2nd masculine singular of נָגַד: 'declare, tell'."
+        },
+        {
+          "id": "21:26.14",
+          "gloss": "me",
+          "note": "The preposition לְ with the first person suffix."
+        },
+        {
+          "id": "21:26.15",
+          "gloss": "and also",
+          "note": "וְגַם: the second clause of the parallel."
+        },
+        {
+          "id": "21:26.16",
+          "gloss": "I"
+        },
+        {
+          "id": "21:26.17",
+          "gloss": "not",
+          "note": "The negation of the qatal that follows."
+        },
+        {
+          "id": "21:26.18",
+          "gloss": "heard",
+          "sense": "Qal 1",
+          "note": "Qatal 1st common singular of שָׁמַע."
+        },
+        {
+          "id": "21:26.19",
+          "gloss": "except",
+          "sense": "2",
+          "note": "בִּלְתִּי: 'not, except'. Here the phrase is 'except today', rendered 'until today'."
+        },
+        {
+          "id": "21:26.20",
+          "gloss": "today",
+          "sense": "7",
+          "note": "הַיּוֹם: the noun 'day' with the article, in the adverbial phrase 'today'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "21:26.1",
+            "21:26.2"
+          ],
+          "english": "Abimelech said",
+          "literal": "and-said Abimelech"
+        },
+        {
+          "tokens": [
+            "21:26.3",
+            "21:26.4"
+          ],
+          "english": "I did not know",
+          "literal": "not I-did-not-know"
+        },
+        {
+          "tokens": [
+            "21:26.5",
+            "21:26.6"
+          ],
+          "english": "who did",
+          "literal": "who did"
+        },
+        {
+          "tokens": [
+            "21:26.7"
+          ],
+          "english": "-",
+          "literal": "[object marker]"
+        },
+        {
+          "tokens": [
+            "21:26.8",
+            "21:26.9"
+          ],
+          "english": "this thing",
+          "literal": "the-thing this"
+        },
+        {
+          "tokens": [
+            "21:26.10",
+            "21:26.11",
+            "21:26.12",
+            "21:26.13",
+            "21:26.14"
+          ],
+          "english": "And you also did not tell me",
+          "literal": "and-also you not told to-me"
+        },
+        {
+          "tokens": [
+            "21:26.15",
+            "21:26.16",
+            "21:26.17",
+            "21:26.18",
+            "21:26.19",
+            "21:26.20"
+          ],
+          "english": "and I also did not hear until today",
+          "literal": "and-also I not heard except today"
+        }
+      ],
+      "grammar": [
+        "לֹא יָדַעְתִּי (21:26.3–4) is a qatal with the negative. The Qal of יָדַע with לֹא means 'not know', the sense the pack lists as Qal 1.h.",
+        "מִי עָשָׂה אֶת־הַדָּבָר הַזֶּה (21:26.5–9) is an indirect question inside the speech: 'who did this thing'.",
+        "The two clauses joined by וְגַם (21:26.10–18) form a parallel pair: 'you did not tell me' and 'I did not hear'. The English keeps the parallel with 'and also'.",
+        "בִּלְתִּי הַיּוֹם (21:26.19–20) is literally 'except today'. The English 'until today' gives the sense the phrase has in this clause.",
+        "הִגַּדְתָּ (21:26.13) is a Hifil qatal, 2nd masculine singular: 'you told'. The thing told is not named, so the English leaves it unstated."
+      ],
+      "commentary": [
+        {
+          "anchor": "sforno:21:26:1",
+          "relation": "follows",
+          "summary": "Sforno: even now that Abraham has told him the robbery was done by his servants, Abimelech cannot say which of them did it, since none is suspect to him. The English keeps 'I did not know who did this thing'."
+        },
+        {
+          "anchor": "sforno:21:26:2",
+          "relation": "not-applicable",
+          "summary": "Sforno explains why Abimelech as king would have acted had he known: the king would act on a cry from the robbed or on public report. A reason, not a reading of the words."
+        },
+        {
+          "anchor": "radak:21:26:1",
+          "relation": "not-applicable",
+          "summary": "Radak says that since Abraham has now told him, Abimelech bears no guilt. A conclusion drawn from the speech, which the English does not state."
+        }
+      ],
+      "apparatus": [
+        "בִּלְתִּי הַיּוֹם is literally 'except today'. The English renders it 'until today', the sense of the phrase in this clause."
+      ],
+      "context": []
+    },
+    {
+      "ref": "21:27",
+      "english": "Abraham took flocks and cattle and gave to Abimelech, and they both made a covenant.",
+      "literal": "and-took Abraham flocks and-cattle and-gave to-Abimelech and-cut they-both a-covenant",
+      "tokens": [
+        {
+          "id": "21:27.1",
+          "gloss": "and took",
+          "sense": "Qal 1",
+          "note": "Wayyiqtol of לָקַח, 3rd masculine singular. The things taken are the flocks and cattle."
+        },
+        {
+          "id": "21:27.2",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "21:27.3",
+          "gloss": "flocks",
+          "note": "צֹאן: small livestock, sheep and goats. The pack lists no senses."
+        },
+        {
+          "id": "21:27.4",
+          "gloss": "and cattle",
+          "note": "בָּקָר: cattle, herd. The pack lists no senses."
+        },
+        {
+          "id": "21:27.5",
+          "gloss": "and gave",
+          "sense": "Qal 1",
+          "note": "Wayyiqtol of נָתַן. The verb has no stated object: the animals are the things given."
+        },
+        {
+          "id": "21:27.6",
+          "gloss": "to Abimelech",
+          "sense": "1"
+        },
+        {
+          "id": "21:27.7",
+          "gloss": "and they made",
+          "sense": "Qal 4",
+          "note": "Wayyiqtol 3rd masculine plural of כָּרַת. The idiom is 'cut a covenant'; the English is 'make a covenant'."
+        },
+        {
+          "id": "21:27.8",
+          "gloss": "both of them",
+          "note": "The dual construct with the pronominal suffix: 'both of them'."
+        },
+        {
+          "id": "21:27.9",
+          "gloss": "a covenant",
+          "sense": "I",
+          "note": "בְּרִית between men: an agreement between Abraham and Abimelech."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "21:27.1",
+            "21:27.2"
+          ],
+          "english": "Abraham took",
+          "literal": "and-took Abraham"
+        },
+        {
+          "tokens": [
+            "21:27.3",
+            "21:27.4"
+          ],
+          "english": "flocks and cattle",
+          "literal": "flocks and-cattle"
+        },
+        {
+          "tokens": [
+            "21:27.5",
+            "21:27.6"
+          ],
+          "english": "and gave to Abimelech",
+          "literal": "and-gave to-Abimelech"
+        },
+        {
+          "tokens": [
+            "21:27.7",
+            "21:27.8",
+            "21:27.9"
+          ],
+          "english": "they both made a covenant",
+          "literal": "and-they-both cut a-covenant"
+        }
+      ],
+      "grammar": [
+        "Three wayyiqtols carry the verse: took, gave, and made a covenant. The subject of the last is 'they', the two men together.",
+        "נָתַן (21:27.5) has no stated object. The English gives 'gave to Abimelech' without an object, as the Hebrew does; the reader supplies the flocks and cattle from the clause before.",
+        "וַיִּכְרְתוּ בְּרִית (21:27.7–9) is 'they cut a covenant'. The English 'made' is the idiom; the literal line keeps 'cut'.",
+        "שְׁנֵיהֶם (21:27.8) is 'both of them': it stresses that both parties made the covenant."
+      ],
+      "note": "The object of נָתַן is not stated, so the English leaves it unstated.",
+      "commentary": [
+        {
+          "anchor": "radak:21:27:1",
+          "relation": "not-applicable",
+          "summary": "Radak explains that the gift was for confirming the covenant, and that the covenant was made for the two parties and their sons. A reason, not a reading of the words."
+        }
+      ],
+      "apparatus": [],
+      "context": [
+        "The text gives the gift of livestock and the oath together, and calls the agreement 'cut'. What the gift signified, and where the idiom comes from, are not settled by the text; the English keeps to the words."
+      ]
+    },
+    {
+      "ref": "21:28",
+      "english": "Abraham set seven ewe-lambs of the flock by themselves.",
+      "literal": "and-set Abraham [object] seven ewe-lambs of-the-flock by-themselves",
+      "tokens": [
+        {
+          "id": "21:28.1",
+          "gloss": "and set",
+          "sense": "Hiph 1",
+          "note": "Hifil wayyiqtol of נָצַב: 'station, set'. Its object is the seven ewe-lambs."
+        },
+        {
+          "id": "21:28.2",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "21:28.3",
+          "gloss": "[object marker]",
+          "note": "The object marker before the noun phrase; no English counterpart."
+        },
+        {
+          "id": "21:28.4",
+          "gloss": "seven"
+        },
+        {
+          "id": "21:28.5",
+          "gloss": "ewe-lambs",
+          "note": "כִּבְשׂוֹת: the construct plural of כִּבְשָׂה, 'ewe-lamb'."
+        },
+        {
+          "id": "21:28.6",
+          "gloss": "of the flock",
+          "note": "הַצֹּאן: the second term of the construct chain."
+        },
+        {
+          "id": "21:28.7",
+          "gloss": "by themselves",
+          "sense": "1",
+          "note": "לְבַדָּהֶן: בַּד with לְ and a feminine plural suffix: 'by themselves'."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "21:28.1",
+            "21:28.2"
+          ],
+          "english": "Abraham set",
+          "literal": "and-set Abraham"
+        },
+        {
+          "tokens": [
+            "21:28.3"
+          ],
+          "english": "-",
+          "literal": "[object marker]"
+        },
+        {
+          "tokens": [
+            "21:28.4",
+            "21:28.5",
+            "21:28.6"
+          ],
+          "english": "seven ewe-lambs of the flock",
+          "literal": "seven ewe-lambs-of the-flock"
+        },
+        {
+          "tokens": [
+            "21:28.7"
+          ],
+          "english": "by themselves",
+          "literal": "by-themselves"
+        }
+      ],
+      "grammar": [
+        "The Hifil of נָצַב means 'station, set'. Its object here is the seven ewe-lambs, which Abraham sets apart.",
+        "כִּבְשׂוֹת הַצֹּאן (21:28.5–6) is a construct chain: 'ewe-lambs of the flock'.",
+        "לְבַדָּהֶן (21:28.7) has the feminine plural suffix, which refers back to the ewe-lambs.",
+        "Wordplay: שֶׁבַע, 'seven', shares its root with the verb שָׁבַע, 'swear' (21:23). The text makes the link explicit at 21:31."
+      ],
+      "commentary": [
+        {
+          "anchor": "radak:21:28:1",
+          "relation": "follows",
+          "summary": "Radak: Abraham took seven ewe-lambs and set them apart by themselves. The English keeps that reading of the verb and the separation."
+        },
+        {
+          "anchor": "radak:21:28:2",
+          "relation": "not-applicable",
+          "summary": "Radak treats the number seven as the oath and the name of the place. The name is explained in 21:31, not here."
+        }
+      ],
+      "apparatus": [],
+      "context": []
+    },
+    {
+      "ref": "21:29",
+      "english": "Abimelech said to Abraham, \"What are these seven ewe-lambs that you set by themselves?\"",
+      "literal": "and-said Abimelech to Abraham what these seven ewe-lambs these which you-set by-themselves",
+      "tokens": [
+        {
+          "id": "21:29.1",
+          "gloss": "and said",
+          "sense": "Qal 1",
+          "note": "Wayyiqtol of אָמַר."
+        },
+        {
+          "id": "21:29.2",
+          "gloss": "Abimelech",
+          "sense": "1"
+        },
+        {
+          "id": "21:29.3",
+          "gloss": "to",
+          "sense": "1"
+        },
+        {
+          "id": "21:29.4",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "21:29.5",
+          "gloss": "what",
+          "sense": "1",
+          "note": "The interrogative מָה: 'what'."
+        },
+        {
+          "id": "21:29.6",
+          "gloss": "these",
+          "note": "הֵנָּה: the feminine plural pronoun, agreeing with the ewe-lambs. Ibn Ezra notes the feminine form."
+        },
+        {
+          "id": "21:29.7",
+          "gloss": "seven"
+        },
+        {
+          "id": "21:29.8",
+          "gloss": "ewe-lambs"
+        },
+        {
+          "id": "21:29.9",
+          "gloss": "these",
+          "sense": "b",
+          "note": "The demonstrative after the noun. The noun has no article, so the demonstrative is attributive: 'these', not 'the ... these'."
+        },
+        {
+          "id": "21:29.10",
+          "gloss": "that (relative)"
+        },
+        {
+          "id": "21:29.11",
+          "gloss": "you set",
+          "sense": "Hiph 1",
+          "note": "Hifil qatal, 2nd masculine singular: 'you set'."
+        },
+        {
+          "id": "21:29.12",
+          "gloss": "by themselves",
+          "sense": "1",
+          "note": "לְבַדָּנָה: a feminine form with the suffix נָה; Ibn Ezra's comment is in the commentary."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "21:29.1",
+            "21:29.2"
+          ],
+          "english": "Abimelech said",
+          "literal": "and-said Abimelech"
+        },
+        {
+          "tokens": [
+            "21:29.3",
+            "21:29.4"
+          ],
+          "english": "to Abraham",
+          "literal": "to Abraham"
+        },
+        {
+          "tokens": [
+            "21:29.5",
+            "21:29.6"
+          ],
+          "english": "What are these",
+          "literal": "what these"
+        },
+        {
+          "tokens": [
+            "21:29.7",
+            "21:29.8",
+            "21:29.9"
+          ],
+          "english": "these seven ewe-lambs",
+          "literal": "seven ewe-lambs these"
+        },
+        {
+          "tokens": [
+            "21:29.10",
+            "21:29.11",
+            "21:29.12"
+          ],
+          "english": "that you set by themselves",
+          "literal": "which you-set by-themselves"
+        }
+      ],
+      "grammar": [
+        "מָה הֵנָּה (21:29.5–6) is a verbless question: 'what (are) these?'. The English supplies the copula 'are'.",
+        "הָאֵלֶּה (21:29.9) follows the noun without an article on the noun, so it is attributive: 'these seven ewe-lambs'.",
+        "אֲשֶׁר הִצַּבְתָּ (21:29.10–11) is a relative clause with a Hifil qatal, 2nd masculine singular. The addressee is Abraham.",
+        "The feminine forms הֵנָּה and לְבַדָּנָה agree with כְּבָשׂוֹת. The English 'these' and 'by themselves' are plural, which agrees with the noun.",
+        "The question ends with the silluq on לְבַדָּנָה (21:29.12). The zaqef qaton on הָאֵלֶּה (21:29.9) divides the question from the relative clause."
+      ],
+      "note": "Ibn Ezra's reading of לְבַדָּנָה is in the commentary and the apparatus; the English keeps the plural.",
+      "commentary": [
+        {
+          "anchor": "ibn-ezra:21:29:1",
+          "relation": "follows",
+          "summary": "Ibn Ezra, on מָה הֵנָּה: «לְשׁוֹן נְקֵבוֹת», 'a feminine form'. The English 'these' agrees with the feminine ewe-lambs, and the feminine gender is noted here since English cannot show it."
+        },
+        {
+          "anchor": "ibn-ezra:21:29:2",
+          "relation": "follows",
+          "summary": "Ibn Ezra, on לְבַדָּנָה: «עִם ה״א וְהִיא לְבַדָּהּ», 'with a heh; it is the same as lebadah'. He takes the word as the feminine form of 'alone, by herself'. The English keeps the sense 'by themselves' and the plural that the -nah suffix marks, since he does not discuss the number and the word agrees with the plural ewe-lambs."
+        }
+      ],
+      "apparatus": [
+        "Ibn Ezra's לְבַדָּהּ (alone, feminine singular) would give 'by herself'. The English keeps the plural that the suffix -nah marks, agreeing with the ewe-lambs."
+      ],
+      "context": []
+    }
+  ]
+}

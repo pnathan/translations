@@ -119,6 +119,237 @@
     "bytes": 14560
   },
   {
+    "name": "commentary/ibn-ezra/18.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.18?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "5299e82d73dfb0705b060dc74ab7f421022a8d46dc71ada9968f84665d4fffe7",
+    "bytes": 26180
+  },
+  {
+    "name": "commentary/ibn-ezra/19.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.19?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d6f6d384ad426289d2ce61bab29ce795351a13124bdde881c03facab98a68ee9",
+    "bytes": 18220
+  },
+  {
+    "name": "commentary/ibn-ezra/20.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.20?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d58cd5ef2333a58ffdd28a8a27513d06e4b71a6c50dd878c41086ee8d52bf201",
+    "bytes": 15599
+  },
+  {
+    "name": "commentary/ibn-ezra/21.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.21?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "8f09e2f14de4b3d8f8678733c907f98b04378b46b31b8b64a6348f23b3b05b2c",
+    "bytes": 11710
+  },
+  {
+    "name": "commentary/ibn-ezra/22.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.22?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d70ed0e10504c1aa73227d1d5dc46cd2d3188ab47b02d866c94de56a718ce275",
+    "bytes": 13487
+  },
+  {
+    "name": "commentary/ibn-ezra/23.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.23?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f4baef412f9db95d7db3479e7ef092c2120636e3eb9bb19db8200099d95614ff",
+    "bytes": 12559
+  },
+  {
+    "name": "commentary/ibn-ezra/24.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.24?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "7703b20da9308465824e6ccac70cb827fcdf20523e81212607ea85eed5c27904",
+    "bytes": 23023
+  },
+  {
+    "name": "commentary/ibn-ezra/25.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.25?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a3fe1fb0777d1610204626d5c5dbfb2c8d2dfbc668bfa7481235625b11cf6ef5",
+    "bytes": 25786
+  },
+  {
+    "name": "commentary/ibn-ezra/26.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.26?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "023a5556ec8e51385c04fd42b51236d37ee377d1822f7e99098f47066b22c019",
+    "bytes": 10748
+  },
+  {
+    "name": "commentary/ibn-ezra/27.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.27?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "c31bd2633a66326eb416e280e469c50c22ce09c911ea49dbd5b0eeac806cafea",
+    "bytes": 24248
+  },
+  {
+    "name": "commentary/ibn-ezra/28.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.28?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "27257d6de06bdbfbd2b86f73b3bfb749752b178efb8bb655fe3c0e838f4f966a",
+    "bytes": 14056
+  },
+  {
+    "name": "commentary/ibn-ezra/29.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.29?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "6de99f4cc2c83824861d1a99ad143aba186bfb907837315bf2e4bcdcfdac44af",
+    "bytes": 12595
+  },
+  {
+    "name": "commentary/ibn-ezra/30.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.30?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "1f7ac2c74b21d6d7ed83f4766914fe3bd351f4b8ca057c49b3d6cc1eadb26872",
+    "bytes": 25455
+  },
+  {
+    "name": "commentary/ibn-ezra/31.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.31?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "44b224e4ec54f9f4ea3c525c2237868b774bd4ec2f909e0d3ffcc49276894863",
+    "bytes": 26146
+  },
+  {
+    "name": "commentary/ibn-ezra/32.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.32?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4a129dc29e8be89e6189e6b1d12b65c21409b8c033b389189a8e74ae94ed6487",
+    "bytes": 18414
+  },
+  {
+    "name": "commentary/ibn-ezra/33.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.33?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2bfdf1a89c0454f8ada28bde80c915ebad14d8429558f13aa764da308b78c41f",
+    "bytes": 17464
+  },
+  {
+    "name": "commentary/ibn-ezra/34.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.34?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "5371a252885251dd1064f0311575bbd26f79919e6b9283d124a09af943695484",
+    "bytes": 12468
+  },
+  {
+    "name": "commentary/ibn-ezra/35.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.35?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "5b5f49f5f60a0011da27932d602b344692023e58516d5fb56614dc44ff20edcd",
+    "bytes": 11620
+  },
+  {
+    "name": "commentary/ibn-ezra/36.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.36?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "0650880aaba7664e2406114384186bfe419d7102a18358f7d8c0dbb7a05cd159",
+    "bytes": 18625
+  },
+  {
+    "name": "commentary/ibn-ezra/37.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.37?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "55c883e7846d8683572695f3a5141ae44d7195e996e998d7d5975453dfbc2842",
+    "bytes": 19907
+  },
+  {
+    "name": "commentary/ibn-ezra/38.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.38?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "9a2e5c8746611a42293314525dddf7e936ae3ef01596f1f639ca8f2efd103dde",
+    "bytes": 18402
+  },
+  {
+    "name": "commentary/ibn-ezra/39.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.39?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "09444f7568fb9feda0c883f1519cd7d80db65eeb97c60fc2df6affbc07786e87",
+    "bytes": 9389
+  },
+  {
+    "name": "commentary/ibn-ezra/40.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.40?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "9478313f1ed6d1e184c996302a7dd082e2bc04717b3861021ffd00a85ab919ce",
+    "bytes": 13499
+  },
+  {
+    "name": "commentary/ibn-ezra/41.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.41?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "b6ed4ea5d04b7de48e79a39623779c60a811ccd15c2aa8bffa385fa7bc78b97d",
+    "bytes": 29396
+  },
+  {
+    "name": "commentary/ibn-ezra/42.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.42?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4a6c33f2a1e5cc28f2e51f2239cb5b8c8342459ea2767f478e1b97df79ffbd6a",
+    "bytes": 12829
+  },
+  {
+    "name": "commentary/ibn-ezra/43.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.43?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "24291b9d9313aa413eb9f76e434db6f0e97a98adc08651307b096455d7293b78",
+    "bytes": 10393
+  },
+  {
+    "name": "commentary/ibn-ezra/44.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.44?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "ae80b45c05228362c96d0141f135fcb95f786f6705798e8d20169491b811bfd4",
+    "bytes": 9544
+  },
+  {
+    "name": "commentary/ibn-ezra/45.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.45?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "68a822c4256092abc8aa87fed595254b03ad81047c8e411aebcc45c5a9303d1f",
+    "bytes": 12414
+  },
+  {
+    "name": "commentary/ibn-ezra/46.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.46?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "b2e6d36ebd095d4a8c9bc673699a0ae7b02d113d6bf7a15eca6a516baac186c1",
+    "bytes": 13399
+  },
+  {
+    "name": "commentary/ibn-ezra/47.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.47?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "e2714d22a5c9f6bb76038a28acef529a0739f2f8dc3612fe4efd60a1158364aa",
+    "bytes": 10361
+  },
+  {
+    "name": "commentary/ibn-ezra/48.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.48?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f62e54ac7bb576e5ece1584349aed72e41af2b8740892d8e90f56f11eb745c77",
+    "bytes": 14996
+  },
+  {
+    "name": "commentary/ibn-ezra/49.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.49?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "974442983470eb957a74efd315bd2728d6e73245ed569b9ea30e61c62fc670fd",
+    "bytes": 55018
+  },
+  {
+    "name": "commentary/ibn-ezra/50.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ibn_Ezra_on_Genesis.50?version=hebrew%7CPiotrkow%2C+1907-1911\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "79cb58609b2fd33dc2972781581312dd785649b8be28fe258d9e9fbbe96bc19d",
+    "bytes": 9479
+  },
+  {
     "name": "commentary/onkelos/01.json",
     "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.1?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
     "fetched": "2026-10-17",
@@ -236,6 +467,237 @@
     "fetched": "2026-10-17",
     "sha256": "bc6f87dc0d1d45968dbbbd3c00bede9ebb27f2b627b5593d7ddf0315bdce83c1",
     "bytes": 12571
+  },
+  {
+    "name": "commentary/onkelos/18.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.18?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "41eade483d367c5ee3c3472126ccc8f467cae8315c952d405874dfe4b920239b",
+    "bytes": 14605
+  },
+  {
+    "name": "commentary/onkelos/19.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.19?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "315b029b9e8c891996291a47f2b00ce73e6227abd273981ae441da32c0c41902",
+    "bytes": 15995
+  },
+  {
+    "name": "commentary/onkelos/20.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.20?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "960a1b136408c728af20a9b4af9be3ebb3668e81462483507917cf37d62fa36f",
+    "bytes": 10906
+  },
+  {
+    "name": "commentary/onkelos/21.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.21?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "3d87ebb7e5b530b5fc9db5d17a4a648b7bf1126a9ecaace3fc9afa454e12f2c9",
+    "bytes": 13565
+  },
+  {
+    "name": "commentary/onkelos/22.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.22?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "bd0511153a2f467bcc1b7e51a466e093f87aa685958e93c8df44121a16bcc870",
+    "bytes": 12971
+  },
+  {
+    "name": "commentary/onkelos/23.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.23?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "7e56b7490fd7fd69f0ef4261f4df3a87f0c780e87265d2149a40112a831cde03",
+    "bytes": 11107
+  },
+  {
+    "name": "commentary/onkelos/24.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.24?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d37e2fa952f5db5aedf030df02e0161ca92e21e42c8b0d2689940489c922b652",
+    "bytes": 22310
+  },
+  {
+    "name": "commentary/onkelos/25.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.25?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "81314a5720f704fb07a972f45e123cba7d618b259d8deec4a4d849418087d117",
+    "bytes": 13522
+  },
+  {
+    "name": "commentary/onkelos/26.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.26?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4ba32c486987c5d3ec5fed706af715fe7d141be39c768f1a13b49743457c4e89",
+    "bytes": 15141
+  },
+  {
+    "name": "commentary/onkelos/27.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.27?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "10ee611e43224ba3009630b08430d1c67e8c2c7df97dc525c70af347b481427a",
+    "bytes": 17299
+  },
+  {
+    "name": "commentary/onkelos/28.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.28?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "ef67d948f69e416484ebc7fef6b1cbf77c714d3157e621f23e49354994775103",
+    "bytes": 12047
+  },
+  {
+    "name": "commentary/onkelos/29.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.29?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "1a6dbf0e084f415b60aab6bc4bfe645dae65ad782c27cfb46a39da0694bae616",
+    "bytes": 13722
+  },
+  {
+    "name": "commentary/onkelos/30.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.30?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "427dbcf1407ee9be4237d9846640867eb4e12937d4f6806348a743eda94875ba",
+    "bytes": 15966
+  },
+  {
+    "name": "commentary/onkelos/31.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.31?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "c02cccd3ab2c53c6ef33519134e39db7cfcf766424e85b35a2a0bdadc78244be",
+    "bytes": 19296
+  },
+  {
+    "name": "commentary/onkelos/32.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.32?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "1467231c402392c032a8cf6be984627d17d3336da497567a476e2b1dc9631280",
+    "bytes": 14504
+  },
+  {
+    "name": "commentary/onkelos/33.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.33?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d13d0aae17a3080ced9f547dbe9759121eeb318e47286ca34c59d0400ce829cb",
+    "bytes": 11427
+  },
+  {
+    "name": "commentary/onkelos/34.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.34?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4b318da16d68aa8a0c0c0adb12706d84c491f9acca038b72a6c871fdbb65991e",
+    "bytes": 13436
+  },
+  {
+    "name": "commentary/onkelos/35.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.35?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a096456f34862714e2b8028a13f1a72b74306148275dbd71c255dc7ceaa3fce4",
+    "bytes": 12521
+  },
+  {
+    "name": "commentary/onkelos/36.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.36?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "9429eed661b8f740d006c6e99fff2f5350bfb093bf5aa7c7ae5bba6cf6d9f4d4",
+    "bytes": 14273
+  },
+  {
+    "name": "commentary/onkelos/37.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.37?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "fef06c73df94a8397e9ebbd10c0f0bce63b120d76c55f97b2582a19294912065",
+    "bytes": 15712
+  },
+  {
+    "name": "commentary/onkelos/38.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.38?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "880052d755f96e7893f15b7c8e8bace224572ea7545e52c074e26b4fae355655",
+    "bytes": 13671
+  },
+  {
+    "name": "commentary/onkelos/39.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.39?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "b260f6131a4868a51973cf51769c634629bcda403d368e54e07f6bf9f7c95610",
+    "bytes": 12235
+  },
+  {
+    "name": "commentary/onkelos/40.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.40?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "8e9358da0d6e76e47d9f90dad078f1925ea218a7d9718d4ce920a807572627b6",
+    "bytes": 11520
+  },
+  {
+    "name": "commentary/onkelos/41.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.41?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a8d8a730fdb871a2f8ee246c2cb424eb6d512c6ad130145de6288a32ec9b8a45",
+    "bytes": 20461
+  },
+  {
+    "name": "commentary/onkelos/42.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.42?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "e7a2aa978a893a3eaba6cf43aa178b681e7cee961ae65a9d4af856f982bce76d",
+    "bytes": 15461
+  },
+  {
+    "name": "commentary/onkelos/43.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.43?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "9f488d11007707fdbf3ef832c0441eb2dd0ca986670a4b0b6dbb6c4c65acfc62",
+    "bytes": 15998
+  },
+  {
+    "name": "commentary/onkelos/44.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.44?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "fe92e6cf3db4ef3eb0aff7ff16631cca10bc13a8e1eed53b728c6c0cba725803",
+    "bytes": 14328
+  },
+  {
+    "name": "commentary/onkelos/45.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.45?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "9d1eb0bc55933ae4fd67b5f4a63400ec572e6e1c2188af8f91c31dd13b0d3147",
+    "bytes": 13408
+  },
+  {
+    "name": "commentary/onkelos/46.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.46?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "de1a5ef716f74762fe04f35ca26fa045e73332442144392c18b089cd6e441250",
+    "bytes": 13228
+  },
+  {
+    "name": "commentary/onkelos/47.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.47?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f3bb30e481c5d8ccba79488ddbc41db209978985213905ed3aa2be60de123a9c",
+    "bytes": 15232
+  },
+  {
+    "name": "commentary/onkelos/48.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.48?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2944804ec76532f2f61855c5ba7cad170b7b01f207c75b160e9f903cf2adaa8f",
+    "bytes": 12362
+  },
+  {
+    "name": "commentary/onkelos/49.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.49?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "ca7c0f51e59e9e7905d91386fadefc4fc559a00e5ab6ac8ee8e507f339306388",
+    "bytes": 16341
+  },
+  {
+    "name": "commentary/onkelos/50.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Onkelos_Genesis.50?version=hebrew%7CSifsei+Chachomim+Chumash%2C+Metsudah+Publications%2C+2009\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "8cc3af4652bb8a75c7f3b7f2486c3b4fe57ab404c28e6292922ed3512823e5c4",
+    "bytes": 12475
   },
   {
     "name": "commentary/radak/01.json",
@@ -357,6 +819,237 @@
     "bytes": 45333
   },
   {
+    "name": "commentary/radak/18.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.18?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "21f3e12111bdfbbefde6fb87dcc7dd7cd861de725da8bdd167b8dc13e6f31c24",
+    "bytes": 53842
+  },
+  {
+    "name": "commentary/radak/19.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.19?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d8398743af5ae734346573d2c0820311a9eb4d137dfaeeef2bebcfedf602731c",
+    "bytes": 35233
+  },
+  {
+    "name": "commentary/radak/20.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.20?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "e05478987dece1e77aaebadec499bd5e4ac94dd0ef6621680fbea24b06845229",
+    "bytes": 31345
+  },
+  {
+    "name": "commentary/radak/21.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.21?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f4af43a1a7584679b1425c563497eef848e5f2f29c88e929b12f6fcb29465157",
+    "bytes": 36512
+  },
+  {
+    "name": "commentary/radak/22.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.22?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "bb3bb954b767dcaf6630ea940d03a746165c2450c2d7966a4e916070489e7716",
+    "bytes": 31204
+  },
+  {
+    "name": "commentary/radak/23.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.23?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d470b1454c3b4aa7b2c92d07d06d3e371fca46a78901a5749375b4dd6dd7258b",
+    "bytes": 18207
+  },
+  {
+    "name": "commentary/radak/24.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.24?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "709cd66662b4bf9fbec68f75442d20f5a82305bcc68419a061431daa829ca540",
+    "bytes": 46309
+  },
+  {
+    "name": "commentary/radak/25.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.25?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "88a4420472a386d874fa4d9def6d618515b42a621a6fe2447b7144aa281a94a7",
+    "bytes": 43570
+  },
+  {
+    "name": "commentary/radak/26.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.26?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "6086ec7d7468391d91e6c288cbb5dfba82248fd38cce6aa2f24fc5e5eff64a4e",
+    "bytes": 33464
+  },
+  {
+    "name": "commentary/radak/27.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.27?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "08292ba1f34abf42585944cc7293cb5cb894a24507a598ad5337208e2b5d8bd1",
+    "bytes": 35996
+  },
+  {
+    "name": "commentary/radak/28.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.28?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "ef1cb7731a7f6138ca4dc44ff45767d031bd1c3388ce96fc2b5037230d29b744",
+    "bytes": 27457
+  },
+  {
+    "name": "commentary/radak/29.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.29?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "1bdc03c1b1738a0b321f0c907821c6e08acb0e218da1a036491040450e76b977",
+    "bytes": 24818
+  },
+  {
+    "name": "commentary/radak/30.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.30?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "fbfc89b39223e4cadecf03f37ca6ab5804e3ce047f2e5c346eac36dfc76ba53c",
+    "bytes": 42625
+  },
+  {
+    "name": "commentary/radak/31.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.31?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "1344adcf1ca3120db88b6798a0347c9719bc740e2045f8cbbb1bd5b51186a6bc",
+    "bytes": 37199
+  },
+  {
+    "name": "commentary/radak/32.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.32?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "0e972052235c59f7c3ebfb828a099652217e7e261d08c659c5a20739658ba4ec",
+    "bytes": 43259
+  },
+  {
+    "name": "commentary/radak/33.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.33?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d2b6c3561d03cdf095de95c87cfb0861130d033ee1a57203b135d4b1ec4ce62d",
+    "bytes": 17735
+  },
+  {
+    "name": "commentary/radak/34.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.34?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4168b86333c8c8493f0d654570e49e6afc5e4bc1b662ae80f5b194b766c97e35",
+    "bytes": 14314
+  },
+  {
+    "name": "commentary/radak/35.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.35?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "c9247dd8e29f02e9dbfd83cb25366d2d6d9559ac922592a29b908291a5f731b4",
+    "bytes": 27390
+  },
+  {
+    "name": "commentary/radak/36.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.36?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4ba626c50b159a1e654339a6877ac1efe18a6743cdec4485aba019dd5f3a1ad6",
+    "bytes": 20196
+  },
+  {
+    "name": "commentary/radak/37.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.37?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "0a29d5829b507804212ae06ce2708bf4e7d457842218d89da080182b625a5f47",
+    "bytes": 31082
+  },
+  {
+    "name": "commentary/radak/38.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.38?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "03416df19acf87aa1bc55cbfa429ba96929d0b82249ed0d151dad8f3a9cdedad",
+    "bytes": 25201
+  },
+  {
+    "name": "commentary/radak/39.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.39?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "b2c5bfba3e86194d9d6700e5a3751254cd8a2f5901145c2ff3e1bfa655ce6c8f",
+    "bytes": 13811
+  },
+  {
+    "name": "commentary/radak/40.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.40?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "ae3b2858f641fd4cffa09bde4a693a43d71e38371835ce712f0ddaf101cab344",
+    "bytes": 17680
+  },
+  {
+    "name": "commentary/radak/41.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.41?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "df29e26abed142c724f8e6591fba8195e932f4dc80722b8919b8614e9b41fc0e",
+    "bytes": 25111
+  },
+  {
+    "name": "commentary/radak/42.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.42?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "0b7ed73d6e153dcc131f1fdab7872d4d313799f605a99928db51bd8e9032cd6a",
+    "bytes": 25485
+  },
+  {
+    "name": "commentary/radak/43.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.43?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a7eca0d01e43f373792a649a96805b9702ae0a724ba49b8f1b33e43a39c4bf2a",
+    "bytes": 18773
+  },
+  {
+    "name": "commentary/radak/44.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.44?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "5ed6df33171d10b9ac62d1ac1f92c9866b687bd9374bbfe23e15293700d22e0e",
+    "bytes": 11240
+  },
+  {
+    "name": "commentary/radak/45.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.45?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "fc90db8ecc6dc0049c329ae6903ab917d2fbabc5c5d3337b4d5d2a5f55e57f29",
+    "bytes": 14475
+  },
+  {
+    "name": "commentary/radak/46.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.46?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4845f187735a4879b8c3d8fd250f49b713516d7faaafbab729d6a920202de822",
+    "bytes": 16136
+  },
+  {
+    "name": "commentary/radak/47.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.47?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "3e79ffbd24ed90be5e7238c0e31d434ed745ec0a4441eded662c8ecf0629985c",
+    "bytes": 16754
+  },
+  {
+    "name": "commentary/radak/48.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.48?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "22efca23befcae3e1fb8e5b4c7aa103a90573ab7b417453f4ad2ec423fc94aaf",
+    "bytes": 21638
+  },
+  {
+    "name": "commentary/radak/49.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.49?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "54cf6e8860022200958e890c9f8d8e80ab7f08005afa0e58ec349253e2ac7b9f",
+    "bytes": 56575
+  },
+  {
+    "name": "commentary/radak/50.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Radak_on_Genesis.50?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d91349ec27b1296009de6133262ba48ac2258290c8d7a5b39d69770ea9dab512",
+    "bytes": 4930
+  },
+  {
     "name": "commentary/ramban/01.json",
     "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.1?version=hebrew%7CVocalized+Edition\u0026return_format=default",
     "fetched": "2026-10-17",
@@ -474,6 +1167,230 @@
     "fetched": "2026-10-17",
     "sha256": "3441219898488d1238544b34325da87ba2767690001715c879e655670ca99675",
     "bytes": 31986
+  },
+  {
+    "name": "commentary/ramban/18.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.18?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "802f1170da4aa7d643526d7909bc58a3d7c690f51e7463a230ea8a476e4c8fba",
+    "bytes": 60291
+  },
+  {
+    "name": "commentary/ramban/19.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.19?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "3443bc8e517cece4217359420678d4b0ad2c22cccda5cc7913f1b78a8da970c1",
+    "bytes": 41884
+  },
+  {
+    "name": "commentary/ramban/20.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.20?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "273bd9f81a6f365a923800721c6acc37c905d67544b205ecd0bdd4f8698ec621",
+    "bytes": 17855
+  },
+  {
+    "name": "commentary/ramban/21.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.21?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "67d0ad07eb2286f0d48b987b869ff5d6c291fa8f433166f1d26bff4f477a0059",
+    "bytes": 23862
+  },
+  {
+    "name": "commentary/ramban/22.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.22?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "c1be2ce6aa0bd161977a075755d5d49d7f0cf96ababc0188da6a8187356f7992",
+    "bytes": 19409
+  },
+  {
+    "name": "commentary/ramban/23.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.23?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "24372b395331b6ce91bd5e01a2b2c34e76d53d968f584f734d2e9a0fd983da0f",
+    "bytes": 29470
+  },
+  {
+    "name": "commentary/ramban/24.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.24?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "5b4ba1864dc603da026d4fc7c1f7e979054ef453ddc187ddcc9a797bed4d157b",
+    "bytes": 50945
+  },
+  {
+    "name": "commentary/ramban/25.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.25?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "c25f8a8ffd8972f9233170f7fdb4a4e3b4d649229dc320438bac65734fc0c32d",
+    "bytes": 46353
+  },
+  {
+    "name": "commentary/ramban/26.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.26?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "fb7df7051e9421be7ef976871e9cb92fafaf341ce50b246f395b2968e8938470",
+    "bytes": 38672
+  },
+  {
+    "name": "commentary/ramban/27.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.27?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "675b1b2e32af1109d29b33e19830a1af8e12cc02efc40699a967631f8560c52d",
+    "bytes": 28474
+  },
+  {
+    "name": "commentary/ramban/28.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.28?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "9e8566690375e825841ed3ca429200a564fb916be0297468cc6dd7a372d406f6",
+    "bytes": 32648
+  },
+  {
+    "name": "commentary/ramban/29.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.29?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f820a3b3c85adc29946753dda464e53f94a3f8ed25399370c97490b5cf2bcd81",
+    "bytes": 24091
+  },
+  {
+    "name": "commentary/ramban/30.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.30?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "37265c99c67e385e80638388f3e1d9b4fdd6d7f359a50700423244300c31c722",
+    "bytes": 40380
+  },
+  {
+    "name": "commentary/ramban/31.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.31?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4605d928ca437238c7d504060b2a7cb370260d9a43d41ffc7c7b3fe369fdfe40",
+    "bytes": 39030
+  },
+  {
+    "name": "commentary/ramban/32.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.32?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "0b04cfcc61944dca546b02e4ba0bbfe7bfa8639300a181f08b5c30cb28ce8ab0",
+    "bytes": 42065
+  },
+  {
+    "name": "commentary/ramban/33.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.33?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "123a7a08d21b5addc0766c67eb5b51571fa7fee2adf18acfb0ee14f8d8273085",
+    "bytes": 22508
+  },
+  {
+    "name": "commentary/ramban/34.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.34?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "bade1487cb3f87aa190cf23df5579e071cd67724eb1e6bda5395c550f82bc05a",
+    "bytes": 26579
+  },
+  {
+    "name": "commentary/ramban/35.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.35?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "c36b92108f8975aae06d4d75b894a8ace1fd4f396a81c109186631001ece3471",
+    "bytes": 30955
+  },
+  {
+    "name": "commentary/ramban/36.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.36?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "c3ab618f2ffe1ec5b0acea3bb799485a206e3aa7b86afddebfdc4bc819e95b17",
+    "bytes": 40021
+  },
+  {
+    "name": "commentary/ramban/37.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.37?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "8881b830cf7fcb6128b1bbbf2634b385473783863775ce5bd1823611e493d008",
+    "bytes": 45948
+  },
+  {
+    "name": "commentary/ramban/38.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.38?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "6fa1645b36696cefe7d4e2ce8bc0d8065e57a4f6e6e8f0b0bc4123ddca1ad5de",
+    "bytes": 41651
+  },
+  {
+    "name": "commentary/ramban/39.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.39?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f4c12312a8ea38751ff52609ecce31c8a8c7a6457b5ac7075f33c0497750e350",
+    "bytes": 21921
+  },
+  {
+    "name": "commentary/ramban/40.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.40?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d2a70ea71b439c028285188d5f1c1f7c47b27a4b6f9802ba29a6a840a6a2596e",
+    "bytes": 20109
+  },
+  {
+    "name": "commentary/ramban/41.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.41?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "6c0d8d272527c7c9055c08a03277fb4fc88aecaad3aa6d8071343e4a3cffd020",
+    "bytes": 42577
+  },
+  {
+    "name": "commentary/ramban/42.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.42?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2360a276b9a1448abd9678098cccbfaf3bf39dfd418d797c5d2cba500caa7a9e",
+    "bytes": 33145
+  },
+  {
+    "name": "commentary/ramban/43.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.43?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "9ebf25f65ca1fe5cf8f7ab8afb3a1a54d4b84cae3f37012664f8577ff8c77294",
+    "bytes": 17477
+  },
+  {
+    "name": "commentary/ramban/44.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.44?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "71771814afedb5c7132359995aa8664114995d35bbe417b6cd2e175333b2d730",
+    "bytes": 28167
+  },
+  {
+    "name": "commentary/ramban/45.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.45?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a057bbc19007cb007fe87b4c08383ad4bf7011f6af05d53d58b79bdee8ba3fc2",
+    "bytes": 24404
+  },
+  {
+    "name": "commentary/ramban/46.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.46?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "82bb9d1dd2e499192ca8186c3ce4f45157cd00a34b01f823360c4a5af0b096ed",
+    "bytes": 53843
+  },
+  {
+    "name": "commentary/ramban/47.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.47?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "1934ad448d2e0f03b4c4c5929cb2b5697d380ec0404cf7eb4a7a8c839b3ca209",
+    "bytes": 28118
+  },
+  {
+    "name": "commentary/ramban/48.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.48?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "dd87d0cce17066c63f80dc66524f51f581d68f143e7e1088a826793c643b44d5",
+    "bytes": 31492
+  },
+  {
+    "name": "commentary/ramban/49.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Ramban_on_Genesis.49?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "544dbbd880d7503e46caed75e782bf1115b044ff8c45024ba03e4c537e0657b5",
+    "bytes": 69390
   },
   {
     "name": "commentary/rashi/01.json",
@@ -595,6 +1512,237 @@
     "bytes": 20140
   },
   {
+    "name": "commentary/rashi/18.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.18?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "7b71ab06ab6d4f37defb8892ea9d572e5a93bea3750c7d4f61e78f419575aa00",
+    "bytes": 32817
+  },
+  {
+    "name": "commentary/rashi/19.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.19?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "ef79c5f04e6b32d5bf3d9521e3dc14f6ab05bba06ea7accc5949fe3f63050e10",
+    "bytes": 31062
+  },
+  {
+    "name": "commentary/rashi/20.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.20?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "52b8e84918996ab8eee9d3df93b8fadb31100f77d0d8af55673d895ace54cfdd",
+    "bytes": 16711
+  },
+  {
+    "name": "commentary/rashi/21.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.21?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "910bfa8aa5732a52f7ab71e2d7f79d0f9d701d74be0cff327db07c47415b4fc7",
+    "bytes": 22479
+  },
+  {
+    "name": "commentary/rashi/22.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.22?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "61d1574be284980fd76152407fc36e2cef100ed10c0a987d63be7917fe0e8949",
+    "bytes": 22195
+  },
+  {
+    "name": "commentary/rashi/23.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.23?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "455c0c82c4007f09a5cb9d410c98b3317c6960e5c0e4fc0af06baeec7dbfa58a",
+    "bytes": 13644
+  },
+  {
+    "name": "commentary/rashi/24.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.24?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f8831ec355b26ea531e4ad457173980532ead8c066edf9ac46a2c063df3a4e17",
+    "bytes": 27966
+  },
+  {
+    "name": "commentary/rashi/25.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.25?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4e29bb4664c9631dfe3f97b28cb59cb2a728375a0f58b7eea4ccc1c797126a0d",
+    "bytes": 29388
+  },
+  {
+    "name": "commentary/rashi/26.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.26?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2e34fadf5b2ac7bd269e53521ecf30df26944154c8f9d160794e3d3dc0c889c6",
+    "bytes": 17340
+  },
+  {
+    "name": "commentary/rashi/27.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.27?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "8414381fa0fe0f574809098d2c5b5dc8824f9743506022668d0a1fe1930e1a5b",
+    "bytes": 21388
+  },
+  {
+    "name": "commentary/rashi/28.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.28?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "45405ec0524b31c72d431b21a938f3561514d2a87e9289434cdf138d739e4f52",
+    "bytes": 27454
+  },
+  {
+    "name": "commentary/rashi/29.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.29?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d343983ccedc07f84be0586eab629688b882678446c65a66ebcc4d6ea7880ee7",
+    "bytes": 19709
+  },
+  {
+    "name": "commentary/rashi/30.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.30?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2d12a71f88eb5ae4a56e2d7cbe4d6351a8aa852cda13e19b98594d98861f76ae",
+    "bytes": 25745
+  },
+  {
+    "name": "commentary/rashi/31.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.31?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "779e503f3da73447b99563a42912d83bbe8f71ff3546056ab7ca957f37833245",
+    "bytes": 21953
+  },
+  {
+    "name": "commentary/rashi/32.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.32?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "736d554de6e6d01ba82e42285712066b5a0c79d1ae7aa36abde20fba7e6a3f19",
+    "bytes": 27896
+  },
+  {
+    "name": "commentary/rashi/33.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.33?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "181afc56b802f6b7eafd100de7ede72d34c0879c73df29518c12293094924007",
+    "bytes": 20786
+  },
+  {
+    "name": "commentary/rashi/34.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.34?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "06d648681d042eb93097d16b63ea8a67332b352010e073cbc70facc7cc7e49b0",
+    "bytes": 14001
+  },
+  {
+    "name": "commentary/rashi/35.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.35?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2503792f481cfb8ac223fa1ab72e651a86dc4516fb7f141c91edbb6e3e95ab73",
+    "bytes": 20635
+  },
+  {
+    "name": "commentary/rashi/36.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.36?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "958b8cb6ca9ce601a0c5817baadf2e4d2a7ce8f2762cf4d5fb91a118055e26d2",
+    "bytes": 16538
+  },
+  {
+    "name": "commentary/rashi/37.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.37?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "9fe7b6d2ff634834a8824bc0802ce5634bb9c0f53db7d977b0f3daa7cc1b7791",
+    "bytes": 29161
+  },
+  {
+    "name": "commentary/rashi/38.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.38?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "14889457414fecee35345b5e37206b82480fd992626749f9e1685e11366dea49",
+    "bytes": 18764
+  },
+  {
+    "name": "commentary/rashi/39.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.39?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a8c3e5d075f5fbeb78310688a5e7dbe32424ea9fadf8ac23fd687a417db05aa1",
+    "bytes": 11796
+  },
+  {
+    "name": "commentary/rashi/40.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.40?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "556429d3337312f4195446d002001763edb70cbbaf5b4073ea37aaa927c733a9",
+    "bytes": 13153
+  },
+  {
+    "name": "commentary/rashi/41.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.41?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "fc226e5504e441e8d1c2f81d12e07c1274940e3fbaca1304a920e2ca20dc63d7",
+    "bytes": 24306
+  },
+  {
+    "name": "commentary/rashi/42.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.42?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "7bb09034dcfcb8cd317456ac84ed679ed5a0f8773dec3849fedfbc2396c8f55a",
+    "bytes": 19405
+  },
+  {
+    "name": "commentary/rashi/43.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.43?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "ef2b9ff7ae0c2144d4eaa927dfd8fe13257c6d24310c3cbbb01c6a5832702d0a",
+    "bytes": 22034
+  },
+  {
+    "name": "commentary/rashi/44.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.44?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "776b5c3eefd016ae5213e1ce2fc74e44719380fdcc19176ae148cc6402f237a1",
+    "bytes": 15259
+  },
+  {
+    "name": "commentary/rashi/45.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.45?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "e53b27d8dafc5c3d4f18cdf91d9eb7241bc1fc93e3fb7ea8142aef7882c82e46",
+    "bytes": 15077
+  },
+  {
+    "name": "commentary/rashi/46.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.46?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f91d5d591afd58c311806eb72d96fd20483a80491dbb9228fe3b6c9c441c1625",
+    "bytes": 15089
+  },
+  {
+    "name": "commentary/rashi/47.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.47?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "961f70d1af4ea5225670d804a4cd5a09a9d35633fcd7dcf08067a63bc96a7e1c",
+    "bytes": 18243
+  },
+  {
+    "name": "commentary/rashi/48.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.48?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "831331e6a2872bd7372e99abfdb690e9a53e1004a0ef2b988d7f77ab09657ab6",
+    "bytes": 20920
+  },
+  {
+    "name": "commentary/rashi/49.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.49?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "1acbf3936479177db6512c0d441bdf17a751bf58c4bcd4c60d705dbe901a0d92",
+    "bytes": 49051
+  },
+  {
+    "name": "commentary/rashi/50.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.50?version=hebrew%7CPentateuch+with+Rashi%27s+commentary+by+M.+Rosenbaum+and+A.M.+Silbermann%2C+1929-1934\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f539b221d8d5c1b90482dbb7fd4d79da009d2de5be549484362f2b6ccd6495d1",
+    "bytes": 16868
+  },
+  {
     "name": "commentary/sforno/01.json",
     "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.1?version=hebrew%7CVocalized+Edition\u0026return_format=default",
     "fetched": "2026-10-17",
@@ -712,6 +1860,237 @@
     "fetched": "2026-10-17",
     "sha256": "d8bedca5e1cc8180705c235fc2c2941ec21a2c108d4db5f591ec602cb4262b40",
     "bytes": 12929
+  },
+  {
+    "name": "commentary/sforno/18.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.18?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "3ff9815347bb37b014e064c0d81b5baf24cd1512be3b07646aedfd12f48c837b",
+    "bytes": 21618
+  },
+  {
+    "name": "commentary/sforno/19.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.19?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "c27748fdb92e9d64b52dca99a53b10a66fbe5f83bb16a91a6f092de665298596",
+    "bytes": 14482
+  },
+  {
+    "name": "commentary/sforno/20.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.20?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a183a420a709d4412877b1b76b729503592d02624dd37afc198b545eec916eee",
+    "bytes": 11514
+  },
+  {
+    "name": "commentary/sforno/21.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.21?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "b81dd86b15f9cd8ec3404a645b836c5104f885a6d8be6c62b1649d82fb692110",
+    "bytes": 15899
+  },
+  {
+    "name": "commentary/sforno/22.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.22?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "fcfb070f10826f8717b6858b12bcc4fcc6f5998e857ef3393f18ce8e33228e76",
+    "bytes": 11304
+  },
+  {
+    "name": "commentary/sforno/23.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.23?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "fbe34bf4683a683d1c15f1e33228edd26c84948b2f2cfd05657606e5a23b0d98",
+    "bytes": 13859
+  },
+  {
+    "name": "commentary/sforno/24.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.24?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4a89f67f274a2af661ddde9ecaa6decc29d819871b6aaf36d2ee64dddaa67b3b",
+    "bytes": 22699
+  },
+  {
+    "name": "commentary/sforno/25.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.25?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "cc64cc81ac79000d5657b10836d5e00196c24598a5bdb732ac3273425a2c75c3",
+    "bytes": 14255
+  },
+  {
+    "name": "commentary/sforno/26.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.26?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2b6aa8e2b8939319d22b5aa1140004e4a64c2d7f9db26bc3e6b4a307da96a26f",
+    "bytes": 17077
+  },
+  {
+    "name": "commentary/sforno/27.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.27?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "494e1133e96e04d4f3d78a34d8aee985cdf71dfeee7c4f94d50e3a5f34c59c82",
+    "bytes": 18799
+  },
+  {
+    "name": "commentary/sforno/28.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.28?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "fd1c48c2565ef5edb4ef600c3236960d3c455f185afd1b9289af8641b945f91e",
+    "bytes": 17764
+  },
+  {
+    "name": "commentary/sforno/29.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.29?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "7fe585f1a9ed26045cd23425f945231e69372a4dbffb8c5112ef2245a4b35eed",
+    "bytes": 15755
+  },
+  {
+    "name": "commentary/sforno/30.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.30?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a9248d934e218a6b278496f85abe9aac9667b1f5a1fe2dfddbb3b119b2350e00",
+    "bytes": 24880
+  },
+  {
+    "name": "commentary/sforno/31.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.31?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "28c08353be7802c5f07c2e80d6ed6afeb422e8d2c58150451450a519cfaa8443",
+    "bytes": 17448
+  },
+  {
+    "name": "commentary/sforno/32.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.32?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "e511930526dc734e25b7f59f38d6ebee6cd4a0dfc97cb622650d066c69bae494",
+    "bytes": 19456
+  },
+  {
+    "name": "commentary/sforno/33.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.33?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "681412ef33f2b92dacab8b859bc6e6172533b8972505f5b48d716ac0672b7a75",
+    "bytes": 10500
+  },
+  {
+    "name": "commentary/sforno/34.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.34?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "6dbbf5c317fd57d7290a165ebcd1e286d6ab3dd06758858ed3320a24df25f762",
+    "bytes": 9717
+  },
+  {
+    "name": "commentary/sforno/35.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.35?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "553662319e77e428995c84ff25dff4a4c19acbe37e9c8284e0aa48452bab390d",
+    "bytes": 17424
+  },
+  {
+    "name": "commentary/sforno/36.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.36?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "c50b7d5622e764f504f9a1b20fde2485fc8fef286522ffab5129276ec9403faa",
+    "bytes": 9141
+  },
+  {
+    "name": "commentary/sforno/37.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.37?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "4899d6ff3775cdc5dc47884c4ffd10ffc93783e79fd9e3bf90e4ca7931d7bc37",
+    "bytes": 23776
+  },
+  {
+    "name": "commentary/sforno/38.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.38?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "31513fcf5664fb2870c41a2a262a6eddc245a4df32cb04241a37e8e435322c67",
+    "bytes": 14831
+  },
+  {
+    "name": "commentary/sforno/39.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.39?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "ae223f4db4644c8a055e6aaf38a14872f8b76566eb0ab006182929d81ad47025",
+    "bytes": 10423
+  },
+  {
+    "name": "commentary/sforno/40.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.40?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "b350d8d21180e474aa74aa162a9418469f22285c34d70c9f3e9ab429e3130880",
+    "bytes": 8984
+  },
+  {
+    "name": "commentary/sforno/41.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.41?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "ed3e15b8fc05d600371bf818246598663d0632a3830333dee6a390481fc6ede5",
+    "bytes": 16027
+  },
+  {
+    "name": "commentary/sforno/42.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.42?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "16a88584ee5616cb83dddb2fc7cd70e4826ee359743e93e041999c31ec1a8fdd",
+    "bytes": 16026
+  },
+  {
+    "name": "commentary/sforno/43.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.43?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2dcd0692fae731018e0cb5b1625bd991054ec345b748189f4758d5fdd23f8da5",
+    "bytes": 13341
+  },
+  {
+    "name": "commentary/sforno/44.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.44?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "6f845a73b57747ecf8e67b7ca0d376262a097e6b42f1ab1fa3930da0fc6636d7",
+    "bytes": 14769
+  },
+  {
+    "name": "commentary/sforno/45.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.45?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "36fa1433a35a0b303921b484324ca99c32872b61d42946bfa8c73fcda00c834f",
+    "bytes": 12022
+  },
+  {
+    "name": "commentary/sforno/46.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.46?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "374aa931411a60aba974d435920d03f90e5fb9e18d42fc30de66abc004444c39",
+    "bytes": 11654
+  },
+  {
+    "name": "commentary/sforno/47.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.47?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "55cf0397f7b71518e8b601c10d410903a60e137826153ceab2ad84607a2cf987",
+    "bytes": 15108
+  },
+  {
+    "name": "commentary/sforno/48.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.48?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "3457765a9fb644e6d2a5a4ca6c0f6fe28fa797a2e10bd4ae0346e42f43eed026",
+    "bytes": 17203
+  },
+  {
+    "name": "commentary/sforno/49.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.49?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "6f266c79213d84f0df0c1eb9b0cef9bd0f12b85a5367ff31c2605a670a5b0720",
+    "bytes": 37643
+  },
+  {
+    "name": "commentary/sforno/50.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Sforno_on_Genesis.50?version=hebrew%7CVocalized+Edition\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "10122979869f6d278b647c6d3a7b0c6127184559f62b81125134252897739121",
+    "bytes": 8226
   },
   {
     "name": "oshb/Gen.xml",
@@ -838,5 +2217,236 @@
     "fetched": "2026-10-17",
     "sha256": "913f5a6a555ebd26c0dcedfbd6e04322c39aa6e628eab0bd586f1b7e0b2f50fc",
     "bytes": 43074
+  },
+  {
+    "name": "text/18.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.18?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "930dbce86294dd279e13169f4eff9ef2d7ad7a11fa3c00ea52e97079e56c5c61",
+    "bytes": 44690
+  },
+  {
+    "name": "text/19.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.19?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "dae92aa02060f9de675ab77cb768fdc62d8bc862f8d09f4616d361711038ae19",
+    "bytes": 47414
+  },
+  {
+    "name": "text/20.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.20?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a5b3f1da946a72a4ae0e65b350367238ad4985d65c58e884bec23502b41d9166",
+    "bytes": 41227
+  },
+  {
+    "name": "text/21.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.21?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a400621f4cb5c365d736e5d55f359ad7ca11a74c2d9424de641636f3fccd0ffd",
+    "bytes": 43686
+  },
+  {
+    "name": "text/22.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.22?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a16ab8f30a2d584991379064eb28f4478e133a33b8f66242a0f4dbf14eb49f14",
+    "bytes": 43737
+  },
+  {
+    "name": "text/23.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.23?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2d85b18c320fbeb88465e78ba53eb2a0527142892452684d6fb8b7826a4f874e",
+    "bytes": 40836
+  },
+  {
+    "name": "text/24.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.24?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "0c95b0ce0f1cf3abb2e7c1cfa15c6942b82c1a27072157815556c321024d7e63",
+    "bytes": 52733
+  },
+  {
+    "name": "text/25.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.25?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "a0db93489c013456aabb7ba347824e6e514d162296526f5cedbe8623039ef5a0",
+    "bytes": 44286
+  },
+  {
+    "name": "text/26.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.26?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "9c5fb854eb2221820a2f2d8e61a4f03e7a8f65c36a848eb74d90c269f5634428",
+    "bytes": 45131
+  },
+  {
+    "name": "text/27.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.27?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "5e65fd9709820e37ff19b541305921a46dd2907f8c73f4d596bf9cc7b6b4f2b7",
+    "bytes": 47193
+  },
+  {
+    "name": "text/28.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.28?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "795564f417e03c7ea46426489e943fedc86284a9f078d1474abcd319bfccd272",
+    "bytes": 43200
+  },
+  {
+    "name": "text/29.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.29?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "23427de1c101c01a88a57c32a5aeaf3823305846a3e757ff7360c1a923b977ad",
+    "bytes": 43844
+  },
+  {
+    "name": "text/30.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.30?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "5989e00be78bb8106d55093dd9c9f14f4f7de8c1632466f8475cc34a05bf2d00",
+    "bytes": 45974
+  },
+  {
+    "name": "text/31.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.31?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "e6602cf2edd470bb7e870b9d36ec7c1a54fcda46d261a1ef30d89afe84952cc5",
+    "bytes": 49896
+  },
+  {
+    "name": "text/32.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.32?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "b841b9af751075bc9110a131e899e8045bc1a3413e732069603a963171cf41f0",
+    "bytes": 45655
+  },
+  {
+    "name": "text/33.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.33?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "b6309c3657f6bf0129a18eb60ee22923b419c0a125e95bf1df762dfcf9e27751",
+    "bytes": 41354
+  },
+  {
+    "name": "text/34.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.34?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "6b49cc3eab6d1f3abbe42c8cb734c9d971688ae8636fe23207bcc728e1592d4a",
+    "bytes": 43821
+  },
+  {
+    "name": "text/35.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.35?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "8f893da0c16a4de6988f24aad6a4e19465a51d3be1b041ebca3ee163ab347e6f",
+    "bytes": 43331
+  },
+  {
+    "name": "text/36.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.36?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "d9ba961192564df563dcb60f6c148e2e81dbc98a8c2d708669b3634fb0cc553a",
+    "bytes": 44783
+  },
+  {
+    "name": "text/37.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.37?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "248c9ebc198223838add71f35784dee653affa267cb6de915054c2a44750be95",
+    "bytes": 45845
+  },
+  {
+    "name": "text/38.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.38?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "2e66521522cfbfbc31661f6464ee212122ad4ed73c991195c0cd43282c3334f8",
+    "bytes": 42891
+  },
+  {
+    "name": "text/39.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.39?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "e843dc35bbe0dce9b7811e47ebb662ded4fdc6647d8014628db35b7526b1524c",
+    "bytes": 42087
+  },
+  {
+    "name": "text/40.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.40?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "bc32f611a938287d8a847d4f0684930133f5c66b54e388b8c7e5ca12e2cd8139",
+    "bytes": 41346
+  },
+  {
+    "name": "text/41.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.41?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "907356e23d7d684a0a9dd052e65818b30a7562dfccd585da2caca4bfc4ac2470",
+    "bytes": 50287
+  },
+  {
+    "name": "text/42.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.42?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "7542f90d439ce8440570c6200f1f382373c22f3a8c6b454cae4391fa43eb6798",
+    "bytes": 45179
+  },
+  {
+    "name": "text/43.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.43?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "59f86c25b10910c8d013b3e70957c1a23e0a0cdf65f1e20f69be3acbcf425208",
+    "bytes": 45149
+  },
+  {
+    "name": "text/44.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.44?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "24285ad9297cccff6bb0fc4525d0c1d4d88536df3fa029d1e5f37e769c2f6e54",
+    "bytes": 44049
+  },
+  {
+    "name": "text/45.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.45?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "1cec5313f5d11fe5e010accea478bad2d3a3dcb780fe131ecac2629a3ebf82e9",
+    "bytes": 43035
+  },
+  {
+    "name": "text/46.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.46?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "279c20fd4ff6b0edac91ed6a1b92be901079e7d696511ce4a19fba3a53acc6a8",
+    "bytes": 43652
+  },
+  {
+    "name": "text/47.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.47?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "869eaa30bf7bf99ccf377152a737e7b1125e01ba8f256913ea37d15b4f93e7b7",
+    "bytes": 45109
+  },
+  {
+    "name": "text/48.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.48?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "37b3498093d5c7135748d0031d0c3410ebf90834e434990657b23b446ebc619e",
+    "bytes": 42174
+  },
+  {
+    "name": "text/49.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.49?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "5182770b216b9c2951a2f9c7925e164d287e62e618d78ae156d149f677b3a240",
+    "bytes": 44187
+  },
+  {
+    "name": "text/50.json",
+    "url": "https://www.sefaria.org/api/v3/texts/Genesis.50?version=hebrew%7CMiqra+according+to+the+Masorah\u0026return_format=default",
+    "fetched": "2026-10-25",
+    "sha256": "f14dc7a9a50da3f07f9e01c493678773c850411c5e013fb75b2f5554f3a14360",
+    "bytes": 43033
   }
 ]

@@ -1,0 +1,1494 @@
+{
+ "unit": "chayei-sarah-02",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "23:9",
+   "english": "that he may give me the cave of Machpelah, which is his, which is at the end of his field; for full silver let him give it to me among you as a possession of a grave.\"",
+   "literal": "and-let-him-give to-me [object] the-cave-of the-Machpelah which to-him which at-end-of his-field for-silver full let-him-give-it to-me in-midst-of-you for-possession-of grave",
+   "tokens": [
+    {
+     "id": "23:9.1",
+     "gloss": "that he may give",
+     "sense": "Qal 1",
+     "note": "Jussive qal of נָתַן, third person masculine singular, after ו. The request goes on from 23:8; the one asked is Ephron, named there."
+    },
+    {
+     "id": "23:9.2",
+     "gloss": "me",
+     "note": "לִי: the recipient."
+    },
+    {
+     "id": "23:9.3",
+     "gloss": "[object marker]",
+     "note": "The object marker before מְעָרַת."
+    },
+    {
+     "id": "23:9.4",
+     "gloss": "the cave of",
+     "note": "Construct state: 'cave of'."
+    },
+    {
+     "id": "23:9.5",
+     "gloss": "Machpelah",
+     "note": "A proper name. Its meaning is discussed in the commentary and the notes, not in the English."
+    },
+    {
+     "id": "23:9.6",
+     "gloss": "which",
+     "note": "The relative particle; the clause is nominal, 'which to him'."
+    },
+    {
+     "id": "23:9.7",
+     "gloss": "is his",
+     "note": "לוֹ: 'to him', in a relative clause about possession."
+    },
+    {
+     "id": "23:9.8",
+     "gloss": "which",
+     "note": "The second relative, describing the cave's place."
+    },
+    {
+     "id": "23:9.9",
+     "gloss": "at the end of",
+     "note": "בִּ + קְצֵה: 'at the end of', the edge of the field."
+    },
+    {
+     "id": "23:9.10",
+     "gloss": "his field",
+     "sense": "1",
+     "note": "The noun with the masculine third person singular suffix: Ephron's field."
+    },
+    {
+     "id": "23:9.11",
+     "gloss": "for silver",
+     "sense": "8",
+     "note": "The ב marks the price. Silver here is a measure of weight and value, not coin."
+    },
+    {
+     "id": "23:9.12",
+     "gloss": "full",
+     "note": "Adjective, 'full'. Ibn Ezra and Radak: full in weight, lacking nothing; see the commentary."
+    },
+    {
+     "id": "23:9.13",
+     "gloss": "let him give it",
+     "sense": "Qal 1",
+     "note": "Jussive with a feminine third person suffix. 'It' is the cave, which is feminine."
+    },
+    {
+     "id": "23:9.14",
+     "gloss": "to me",
+     "note": "לִי: the recipient, as in 23:9.2."
+    },
+    {
+     "id": "23:9.15",
+     "gloss": "among you",
+     "note": "בְּתוֹךְ with the suffix: 'in the midst of you'. Sforno takes it as 'in your presence'."
+    },
+    {
+     "id": "23:9.16",
+     "gloss": "as a possession of",
+     "note": "לַ + אֲחֻזַּת: 'for a possession of'. The grave is what is held."
+    },
+    {
+     "id": "23:9.17",
+     "gloss": "a grave",
+     "note": "קֶבֶר: a grave, a place of burial."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:9.1",
+      "23:9.2"
+     ],
+     "english": "that he may give me",
+     "literal": "and-let-him-give to-me"
+    },
+    {
+     "tokens": [
+      "23:9.3",
+      "23:9.4",
+      "23:9.5"
+     ],
+     "english": "the cave of Machpelah",
+     "literal": "[object] the-cave-of the-Machpelah"
+    },
+    {
+     "tokens": [
+      "23:9.6",
+      "23:9.7"
+     ],
+     "english": "which is his",
+     "literal": "which to-him"
+    },
+    {
+     "tokens": [
+      "23:9.8",
+      "23:9.9",
+      "23:9.10"
+     ],
+     "english": "which is at the end of his field",
+     "literal": "which at-end-of his-field"
+    },
+    {
+     "tokens": [
+      "23:9.11",
+      "23:9.12"
+     ],
+     "english": "for full silver",
+     "literal": "for-silver full"
+    },
+    {
+     "tokens": [
+      "23:9.13",
+      "23:9.14"
+     ],
+     "english": "let him give it to me",
+     "literal": "let-him-give-it to-me"
+    },
+    {
+     "tokens": [
+      "23:9.15"
+     ],
+     "english": "among you",
+     "literal": "in-midst-of-you"
+    },
+    {
+     "tokens": [
+      "23:9.16",
+      "23:9.17"
+     ],
+     "english": "as a possession of a grave",
+     "literal": "for-possession-of grave"
+    }
+   ],
+   "grammar": [
+    "וְיִתֶּן לִי (23:9.1–2) is a jussive after ו: 'that he may give me'. The clause carries on Abraham's speech, which began in 23:8.",
+    "The two relatives אֲשֶׁר־לוֹ and אֲשֶׁר בִּקְצֵה שָׂדֵהוּ both describe the cave: 'which is his, which is at the end of his field'. The field is named as the cave's location.",
+    "בְּכֶסֶף מָלֵא: the ב is the price, 'for full silver'. The verb יִתְּנֶנָּה (23:9.13) repeats the request; its feminine suffix refers back to מְעָרָה, the cave.",
+    "The etnaḥta on שָׂדֵהוּ (23:9.10) divides the verse. לַאֲחֻזַּת קָבֶר, a noun phrase, ends it with the silluq on קָבֶר (23:9.17)."
+   ],
+   "note": "Abraham's speech opens in 23:8, in the previous unit, and closes at the end of this verse; the closing quotation mark is here. The Hebrew asks for the cave: Radak: Abraham asked only for the cave, not the field. The verb is 'give', not 'sell' (see Ramban). 'Full silver' is silver with nothing short (Ibn Ezra).",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:23:9:1",
+     "relation": "records",
+     "summary": "Ibn Ezra explains the name as 'a cave within a cave' (מערה בתוך מערה). The English keeps Machpelah as the name of the place, which the text uses as a name (23:17, 23:19), and the reading is kept here."
+    },
+    {
+     "anchor": "ibn-ezra:23:9:2",
+     "relation": "follows",
+     "summary": "Ibn Ezra: the opposite of מָלֵא is חָסֵר, 'lacking'. Full silver is silver with no shortfall, that is, full weight. The English keeps 'full' and the note gives the sense."
+    },
+    {
+     "anchor": "rashi:23:9:1",
+     "relation": "records",
+     "summary": "Rashi takes the word as a building, 'a house and an upper room on top of it', or as 'doubled in pairs' (Eruvin 53). The English keeps the name, and the reading is recorded."
+    },
+    {
+     "anchor": "rashi:23:9:2",
+     "relation": "follows",
+     "summary": "Rashi: מָלֵא means 'complete, all its worth', as David's 'for full silver' (1 Chronicles 21). This agrees with Ibn Ezra."
+    },
+    {
+     "anchor": "ramban:23:9:2",
+     "relation": "follows",
+     "summary": "Ramban: the verb is 'give', not 'sell' (לֹא הִזְכִּיר לְשׁוֹן מְכִירָה), since Abraham would count it a gift if he took it for full silver; or it is the idiom of sale (Deuteronomy 2:28). The English keeps the Hebrew's 'give'."
+    },
+    {
+     "anchor": "ramban:23:9:3",
+     "relation": "follows",
+     "summary": "Ramban rejects Rashi's building and the midrash of Adam's doubled body (Bereshit Rabbah). The name is the place's name, the field 'in Machpelah' (23:17). The English keeps the name."
+    },
+    {
+     "anchor": "radak:23:9:1",
+     "relation": "follows",
+     "summary": "Radak: Abraham asked from him only the cave, not the field (לֹא שָׁאַל מִמֶּנּוּ אֶלָּא הַמְּעָרָה). The English asks for the cave; the field appears only as its location."
+    },
+    {
+     "anchor": "radak:23:9:2",
+     "relation": "follows",
+     "summary": "Radak: the word is a name in the pattern of מִשְׁטַמָּה; as an adjective it would be spelled מְעָרָה with a final ה. He allows also that the place took its name from the doubled cave. The English keeps the name."
+    },
+    {
+     "anchor": "radak:23:9:3",
+     "relation": "follows",
+     "summary": "Radak: 'full silver' is silver full in its weight, lacking nothing, as merchants require. He speaks of a coin, which the Hebrew does not say; the context note on weighing applies. The sense agrees with Ibn Ezra."
+    },
+    {
+     "anchor": "onkelos:23:9:1",
+     "relation": "follows",
+     "summary": "Onkelos keeps the name in an Aramaic form, כָּפֶלְתָּא, and renders 'at the end of his field' as 'at the side of his field' (בִּסְטַר חַקְלֵיהּ). The English keeps 'end' and the name."
+    },
+    {
+     "anchor": "sforno:23:9:1",
+     "relation": "follows",
+     "summary": "Sforno: Machpelah is a place whose name it is, as in 'the field of Ephron which is in Machpelah' (23:17). The English keeps the name."
+    },
+    {
+     "anchor": "sforno:23:9:2",
+     "relation": "not-applicable",
+     "summary": "Sforno: Ephron would not spoil his inheritance by selling the cave at the edge of his field. This is a motive, not a reading of the words."
+    },
+    {
+     "anchor": "sforno:23:9:3",
+     "relation": "follows",
+     "summary": "Sforno: Abraham does not want the price lowered, out of respect for them. This agrees with 'full' as full, not short."
+    },
+    {
+     "anchor": "sforno:23:9:4",
+     "relation": "follows",
+     "summary": "Sforno: 'among you' means in your presence; Abraham asks no time to pay, and he weighed the silver before them (23:16). The English keeps 'among you'."
+    },
+    {
+     "anchor": "sforno:23:9:5",
+     "relation": "follows",
+     "summary": "Sforno: even if Ephron sells, he may later dispute Abraham's burial near his border, so Abraham asks that the sale be a possession for a grave. The English keeps the words 'as a possession of a grave'."
+    }
+   ],
+   "apparatus": [
+    "23:9.14: the WLC vowels read לִ֛י; the base text reads לִּ֛י. The word is the same and the English is not affected."
+   ],
+   "context": [
+    "Machpelah: the text gives a cave in a field and places the cave at the edge of the field (23:9), near Mamre at Hebron (23:17, 23:19). The meaning of the name is not settled; see the commentary.",
+    "The price is stated as a weight of silver, without a coin or a unit of currency. Coined money came much later than the time of this story; the silver was weighed out (see 23:16)."
+   ]
+  },
+  {
+   "ref": "23:10",
+   "english": "Now Ephron was dwelling among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites, to all who came in at the gate of his city, saying,",
+   "literal": "and-Ephron sitting in-midst-of sons-of Heth and-answered Ephron the-Hittite [object] Abraham in-ears-of sons-of Heth to-all comers-of gate-of his-city saying",
+   "tokens": [
+    {
+     "id": "23:10.1",
+     "gloss": "now Ephron",
+     "sense": "1",
+     "note": "Here ו is circumstantial: 'now'. Ephron, the Hittite of Abraham's time."
+    },
+    {
+     "id": "23:10.2",
+     "gloss": "was dwelling",
+     "sense": "Qal 3",
+     "note": "Qal participle of יָשַׁב: a state, 'was dwelling'. The participle gives the setting of the scene."
+    },
+    {
+     "id": "23:10.3",
+     "gloss": "among",
+     "note": "בְּתוֹךְ: in the midst of."
+    },
+    {
+     "id": "23:10.4",
+     "gloss": "the Hittites",
+     "sense": "1",
+     "note": "בְּנֵי־חֵת, 'the sons of Heth', the name of the people. Rendered 'the Hittites' by the decision; see the context note."
+    },
+    {
+     "id": "23:10.5",
+     "gloss": "Heth",
+     "note": "The second part of the name of the people."
+    },
+    {
+     "id": "23:10.6",
+     "gloss": "and answered",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol qal of עָנָה, with the subject after the verb."
+    },
+    {
+     "id": "23:10.7",
+     "gloss": "Ephron",
+     "sense": "1"
+    },
+    {
+     "id": "23:10.8",
+     "gloss": "the Hittite",
+     "note": "The gentilic, 'the Hittite'. The pack gives no sense for this form."
+    },
+    {
+     "id": "23:10.9",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "23:10.10",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "23:10.11",
+     "gloss": "in the hearing of",
+     "sense": "2",
+     "note": "Lit. 'in the ears of': the idiom for in the presence of those who hear."
+    },
+    {
+     "id": "23:10.12",
+     "gloss": "the Hittites",
+     "sense": "1",
+     "note": "The same people as 23:10.4: the audience."
+    },
+    {
+     "id": "23:10.13",
+     "gloss": "Heth"
+    },
+    {
+     "id": "23:10.14",
+     "gloss": "to all",
+     "sense": "1",
+     "note": "לְ + כֹּל: 'to all', the whole of the company."
+    },
+    {
+     "id": "23:10.15",
+     "gloss": "who came in",
+     "sense": "Qal 1",
+     "note": "Participle construct of בּוֹא: 'those coming in'."
+    },
+    {
+     "id": "23:10.16",
+     "gloss": "at the gate of",
+     "note": "The construct: 'the gate of his city'."
+    },
+    {
+     "id": "23:10.17",
+     "gloss": "his city",
+     "sense": "1",
+     "note": "With the masculine third person singular suffix."
+    },
+    {
+     "id": "23:10.18",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "לֵאמֹר introduces the speech, which opens in 23:11."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:10.1",
+      "23:10.2",
+      "23:10.3",
+      "23:10.4",
+      "23:10.5"
+     ],
+     "english": "Now Ephron was dwelling among the Hittites",
+     "literal": "and-Ephron sitting in-midst-of sons-of Heth"
+    },
+    {
+     "tokens": [
+      "23:10.6",
+      "23:10.7",
+      "23:10.8",
+      "23:10.9",
+      "23:10.10"
+     ],
+     "english": "and Ephron the Hittite answered Abraham",
+     "literal": "and-answered Ephron the-Hittite [object] Abraham: the verb first, the subject after it"
+    },
+    {
+     "tokens": [
+      "23:10.11",
+      "23:10.12",
+      "23:10.13"
+     ],
+     "english": "in the hearing of the Hittites",
+     "literal": "in-ears-of sons-of Heth"
+    },
+    {
+     "tokens": [
+      "23:10.14",
+      "23:10.15",
+      "23:10.16",
+      "23:10.17"
+     ],
+     "english": "to all who came in at the gate of his city",
+     "literal": "to-all comers-of gate-of his-city"
+    },
+    {
+     "tokens": [
+      "23:10.18"
+     ],
+     "english": "saying",
+     "literal": "saying"
+    }
+   ],
+   "grammar": [
+    "וְעֶפְרוֹן יֹשֵׁב (23:10.1–2) is a clause of situation: the participle gives the setting of Ephron when Abraham spoke.",
+    "וַיַּעַן עֶפְרוֹן הַחִתִּי אֶת־אַבְרָהָם (23:10.6–10) is a wayyiqtol. The subject comes after the verb, and the English puts it first.",
+    "בְּאׇזְנֵי בְנֵי־חֵת (23:10.11–13) names the audience as the same people as 23:10.4–5: the Hittites are the witnesses.",
+    "לְכֹל בָּאֵי שַׁעַר עִירוֹ (23:10.14–17) is a construct chain: 'to all of those coming in at the gate of his city'. The gate is where the men of the town were gathered.",
+    "The etnaḥta on חֵת (23:10.5) divides the verse; the silluq on לֵאמֹר (23:10.18) ends it."
+   ],
+   "note": "The quotation opens in 23:11, the first verse of Ephron's speech, so this verse ends with 'saying' and no quotation mark. The decision renders בְּנֵי־חֵת as 'the Hittites'; its relation to the Hittites of Anatolia is disputed (see the context). Rashi's remarks on this verse are midrash and are not followed.",
+   "commentary": [
+    {
+     "anchor": "rashi:23:10:1",
+     "relation": "declines",
+     "summary": "Rashi: the name is written defectively (without vav, as עפרן at 23:16), and 'that day they appointed him an officer (שׁוֹטֵר) over them'; because of Abraham's importance, whom they needed, he rose to greatness. A midrash on Ephron's standing, not the plain sense of יָשַׁב; the English reads 'was dwelling'."
+    },
+    {
+     "anchor": "rashi:23:10:2",
+     "relation": "not-applicable",
+     "summary": "Rashi: they all left their work and came to show kindness to Sarah. A motive, which the English does not give."
+    },
+    {
+     "anchor": "radak:23:10:1",
+     "relation": "follows",
+     "summary": "Radak: 'in the ears of' means in a loud voice, so that all of them hear. The English 'in the hearing of' gives the same sense."
+    },
+    {
+     "anchor": "radak:23:10:2",
+     "relation": "follows",
+     "summary": "Radak: 'in the ears of' is the same as 'in the eyes of' used later (23:11), and Job 29:11 shows that the ear and the eye both witness. The English keeps 'in the hearing of'."
+    },
+    {
+     "anchor": "radak:23:10:3",
+     "relation": "follows",
+     "summary": "Radak: 'all who came in at the gate' means all the men of the city, since great and small gather at the gate. The English keeps the words; the reading is given here."
+    },
+    {
+     "anchor": "radak:23:10:4",
+     "relation": "follows",
+     "summary": "Radak: 'those who come in' can stand alone for those who come in and go out, meaning all the men of the city (Jeremiah 17:19 uses both). The English keeps 'came in'."
+    },
+    {
+     "anchor": "onkelos:23:10:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'to all those who come to the gate of his city'. It agrees with the English: the men at the gate."
+    }
+   ],
+   "apparatus": [
+    "Rashi notes a defective spelling (כְּתִיב חָסֵר) in this verse without naming a word. The pack gives no variant, and the English is unaffected."
+   ],
+   "context": [
+    "בְּנֵי־חֵת, 'the sons of Heth', is the Hebrew name for the people here. Whether they were Hittites of Anatolia, or a Canaanite group named after Heth, son of Canaan (Genesis 10:15), is disputed. The English stays neutral, rendering 'the Hittites' as the decision requires.",
+    "The city gate was the public place where business was done before the men of the town. A land transaction made at the gate before the elders and witnesses is described in Ruth 4:1–11."
+   ]
+  },
+  {
+   "ref": "23:11",
+   "english": "\"No, my lord, hear me. The field I have given to you, and the cave which is in it I have given to you; in the sight of my people I have given it to you. Bury your dead.\"",
+   "literal": "no my-lord hear-me the-field I-have-given to-you and-the-cave which in-it to-you I-have-given-it in-eyes-of sons-of my-people I-have-given-it to-you bury dead-of-you",
+   "tokens": [
+    {
+     "id": "23:11.1",
+     "gloss": "no",
+     "note": "לֹא: the negative. Ibn Ezra glosses it כֵּן, 'yes, my lord, only hear me', as Ephron's courtesy; Rashi and Radak read it as a refusal of the price. The English keeps the negative, 'No'; see the commentary."
+    },
+    {
+     "id": "23:11.2",
+     "gloss": "my lord",
+     "note": "אֲדֹנִי: 'my lord', addressed to a man, Abraham."
+    },
+    {
+     "id": "23:11.3",
+     "gloss": "hear me",
+     "sense": "Qal 1",
+     "note": "Imperative qal of שָׁמַע with the first person suffix."
+    },
+    {
+     "id": "23:11.4",
+     "gloss": "the field",
+     "sense": "1"
+    },
+    {
+     "id": "23:11.5",
+     "gloss": "I have given",
+     "sense": "Qal 1",
+     "note": "Qatal: a completed act within the speech. Radak: given from now on; Sforno: intended since Abraham spoke."
+    },
+    {
+     "id": "23:11.6",
+     "gloss": "to you",
+     "note": "לָךְ: the pausal form of the masculine לְךָ (the vowel and the final ךְ of a pause accent), addressed to Abraham. The English 'you' serves."
+    },
+    {
+     "id": "23:11.7",
+     "gloss": "and the cave"
+    },
+    {
+     "id": "23:11.8",
+     "gloss": "which",
+     "note": "The relative particle."
+    },
+    {
+     "id": "23:11.9",
+     "gloss": "in it",
+     "note": "The suffix בּוֹ is masculine: it refers to the field, not to the cave."
+    },
+    {
+     "id": "23:11.10",
+     "gloss": "to you",
+     "note": "לְךָ: the masculine form, in the same speech."
+    },
+    {
+     "id": "23:11.11",
+     "gloss": "I have given it",
+     "sense": "Qal 1",
+     "note": "The feminine suffix refers to the cave."
+    },
+    {
+     "id": "23:11.12",
+     "gloss": "in the sight of",
+     "sense": "5",
+     "note": "לְעֵינֵי: 'in the presence of, in full view of'."
+    },
+    {
+     "id": "23:11.13",
+     "gloss": "the sons of",
+     "sense": "1",
+     "note": "בְּנֵי־: 'the sons of my people', the men of the town as witnesses."
+    },
+    {
+     "id": "23:11.14",
+     "gloss": "my people",
+     "sense": "4",
+     "note": "עַם with the first person suffix: the people present, as witnesses."
+    },
+    {
+     "id": "23:11.15",
+     "gloss": "I have given it",
+     "sense": "Qal 1",
+     "note": "The second qatal, with the feminine suffix: the cave."
+    },
+    {
+     "id": "23:11.16",
+     "gloss": "to you",
+     "note": "לָּךְ: pausal masculine form again (at the tipḥa), as in 23:11.6; addressed to Abraham."
+    },
+    {
+     "id": "23:11.17",
+     "gloss": "bury",
+     "sense": "Qal",
+     "note": "Imperative qal of קָבַר."
+    },
+    {
+     "id": "23:11.18",
+     "gloss": "your dead",
+     "sense": "Qal 1",
+     "note": "The participle of מוּת used as a noun: 'your dead', lit. 'the dead of you'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:11.1",
+      "23:11.2",
+      "23:11.3"
+     ],
+     "english": "No, my lord, hear me",
+     "literal": "no my-lord hear-me"
+    },
+    {
+     "tokens": [
+      "23:11.4",
+      "23:11.5",
+      "23:11.6"
+     ],
+     "english": "The field I have given to you",
+     "literal": "the-field I-have-given to-you"
+    },
+    {
+     "tokens": [
+      "23:11.7",
+      "23:11.8",
+      "23:11.9",
+      "23:11.10",
+      "23:11.11"
+     ],
+     "english": "and the cave which is in it I have given to you",
+     "literal": "and-the-cave which in-it to-you I-have-given-it"
+    },
+    {
+     "tokens": [
+      "23:11.12",
+      "23:11.13",
+      "23:11.14"
+     ],
+     "english": "in the sight of my people",
+     "literal": "in-eyes-of sons-of my-people"
+    },
+    {
+     "tokens": [
+      "23:11.15",
+      "23:11.16"
+     ],
+     "english": "I have given it to you",
+     "literal": "I-have-given-it to-you"
+    },
+    {
+     "tokens": [
+      "23:11.17",
+      "23:11.18"
+     ],
+     "english": "bury your dead",
+     "literal": "bury dead-of-you"
+    }
+   ],
+   "grammar": [
+    "לֹא אֲדֹנִי שְׁמָעֵנִי: the negative stands before the vocative. The imperative שְׁמָעֵנִי has the first person suffix: 'hear me'.",
+    "The three qatals נָתַתִּי (23:11.5, 23:11.11, 23:11.15) are completed acts within the speech, rendered 'I have given'.",
+    "The second person suffix is written ךְ in לָךְ (23:11.6) and לָּךְ (23:11.16), the pausal form of masculine ךָ, as in לְךָ (23:11.10). All three address Abraham, and the English 'you' serves.",
+    "וְהַמְּעָרָה אֲשֶׁר־בּוֹ: the relative clause's 'in it' is the field, so the cave is the one in the field.",
+    "The imperative קְבֹר מֵתֶךָ (23:11.17–18) ends the speech: 'bury your dead'. The etnaḥta on נְתַתִּיהָ (23:11.11) divides it, and the silluq on מֵתֶךָ ends the verse."
+   ],
+   "note": "Ephron's speech. Its opening and closing quotation marks are both in this verse. Whether the 'no' refuses the price (Rashi, Radak) or Ibn Ezra's gloss (כֵּן, 'yes, my lord, only hear me': a courtesy against the word) is right is not decided by the English, which keeps the word 'No'. Whether the field and cave are a gift (Radak) is left to 23:15, where a price is named.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:23:11:1",
+     "relation": "records",
+     "summary": "Ibn Ezra glosses לֹא as כֵּן: 'yes, my lord, only that you hear me' (כֵּן אֲדֹנִי אַךְ שֶׁתִּשְׁמָעֵנִי). That makes Ephron's 'no' a courtesy against the word. The English keeps the Hebrew negative, 'No, my lord', and the gloss is recorded here."
+    },
+    {
+     "anchor": "rashi:23:11:1",
+     "relation": "records",
+     "summary": "Rashi: 'you shall not buy it for money' (לֹא תִּקְנֶה אוֹתָהּ בְּדָמִים). He reads the 'no' as refusing the price. The English keeps 'No' without saying what it refers to."
+    },
+    {
+     "anchor": "rashi:23:11:2",
+     "relation": "follows",
+     "summary": "Rashi: 'it is as though I had given it to you already'. The qatal is a completed act, and the English 'I have given' follows it."
+    },
+    {
+     "anchor": "radak:23:11:1",
+     "relation": "records",
+     "summary": "Radak: 'no', not for full silver as you say; I give it free, and both the field and the cave, not only the cave as you asked. The English does not say 'for nothing'; Radak's reading is recorded."
+    },
+    {
+     "anchor": "radak:23:11:2",
+     "relation": "follows",
+     "summary": "Radak: 'from now I have given it to you' (מֵעַתָּה נְתַתִּיהָ לְךָ). The English 'I have given' reads the act as made now."
+    },
+    {
+     "anchor": "radak:23:11:3",
+     "relation": "follows",
+     "summary": "Radak: 'in the sight of my people' so that they are all witnesses between Ephron and Abraham."
+    },
+    {
+     "anchor": "ramban:23:11:2",
+     "relation": "follows",
+     "summary": "Ramban: 'here are all the people, the knowers and the witnesses; do not be concerned about denial or retraction; bury your dead from now on, for it is yours.' Ramban adds that Abraham then took possession before the men of the city (23:17–18) before burying. The English keeps 'in the sight of my people'."
+    },
+    {
+     "anchor": "onkelos:23:11:1",
+     "relation": "records",
+     "summary": "Onkelos renders 'hear me' as 'accept from me' (קַבֵּיל מִנִּי), and keeps 'No' (לָא). The reading of 'hear me' is recorded."
+    },
+    {
+     "anchor": "sforno:23:11:1",
+     "relation": "records",
+     "summary": "Sforno: there is no need for the leaders of the assembled people to intercede with me (יִפְגְּעוּ בִּי). The 'no' answers the request of 23:8 that the men of the town intercede, not the price."
+    },
+    {
+     "anchor": "sforno:23:11:2",
+     "relation": "follows",
+     "summary": "Sforno: 'hear me', you, without any intermediary (אַתָּה בִּלְתִּי שׁוּם אֶמְצָעִי). The English addresses Abraham directly."
+    },
+    {
+     "anchor": "sforno:23:11:3",
+     "relation": "follows",
+     "summary": "Sforno: the gift is in Ephron's intention since Abraham spoke (בְּמַחֲשַׁבְתִּי מֵאָז שֶׁדִּבַּרְתָּ). The perfect records a decision already made."
+    },
+    {
+     "anchor": "sforno:23:11:4",
+     "relation": "not-applicable",
+     "summary": "Sforno: it is not fitting that Abraham should cross another field to bury; so the cave and the field are given together. A reason, not a reading of the words."
+    },
+    {
+     "anchor": "sforno:23:11:5",
+     "relation": "declines",
+     "summary": "Sforno: 'in their sight I say I give to you on condition that you can bury your dead there.' The Hebrew states no condition; the English gives the words of the command only."
+    }
+   ],
+   "context": [
+    "Ephron first speaks of giving the field and cave, and then, in 23:15, names a price which Abraham pays (23:16). Whether the offer is a real gift refused, or the courteous opening of a bargain, is disputed; the text does not say, and the commentators divide on it."
+   ]
+  },
+  {
+   "ref": "23:12",
+   "english": "And Abraham bowed down before the people of the land.",
+   "literal": "and-bowed-down Abraham before people-of the-land",
+   "tokens": [
+    {
+     "id": "23:12.1",
+     "gloss": "and bowed down",
+     "sense": "Hithpa‛lēl 1",
+     "note": "Hitpaʿel wayyiqtol of שָׁחָה: 'he bowed himself down'. No object is named."
+    },
+    {
+     "id": "23:12.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "23:12.3",
+     "gloss": "before",
+     "sense": "I.6",
+     "note": "לִפְנֵי: 'before', lit. 'to the faces of'."
+    },
+    {
+     "id": "23:12.4",
+     "gloss": "people of",
+     "sense": "5",
+     "note": "עַם הָאָרֶץ, a fixed phrase: 'the people of the land'."
+    },
+    {
+     "id": "23:12.5",
+     "gloss": "the land",
+     "sense": "4.a",
+     "note": "In 'the people of the land', the land's inhabitants."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:12.1",
+      "23:12.2"
+     ],
+     "english": "And Abraham bowed down",
+     "literal": "and-bowed-down Abraham"
+    },
+    {
+     "tokens": [
+      "23:12.3",
+      "23:12.4",
+      "23:12.5"
+     ],
+     "english": "before the people of the land",
+     "literal": "before people-of the-land"
+    }
+   ],
+   "grammar": [
+    "וַיִּשְׁתַּחוּ is a hitpaʿel wayyiqtol: 'and he bowed down'. The verse is one sequential clause.",
+    "לִפְנֵי: 'before', from פְּנֵי, the construct plural of פָּנֶה; the prepositional phrase gives the place of the bow.",
+    "עַם הָאָרֶץ: a fixed phrase for the men of the land, here the Hittites of 23:7 and 23:10. It is used again in 23:13, where Abraham speaks in their hearing.",
+    "The zaqef qaton on אַבְרָהָם (23:12.2) divides the verse; the silluq on הָאָרֶץ (23:12.5) ends it."
+   ],
+   "note": "The Hebrew names the people, not the one bowed to. Ibn Ezra takes the bow to be before the people, given to Ephron as praise; Radak takes it to be to Ephron. The English keeps the words.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:23:12:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'this bowing was before the people of the land, to Ephron, to give him praise' (לְעֶפְרוֹן לָתֵת שֶׁבַח לוֹ). The English keeps 'before the people of the land' as the words have it; that the bow honours Ephron is the commentary's reading."
+    },
+    {
+     "anchor": "radak:23:12:1",
+     "relation": "records",
+     "summary": "Radak: Abraham bowed to Ephron before them all (לְעֶפְרוֹן הִשְׁתַּחֲוָה לִפְנֵי כֻלָּם). The English names no object, so the reading is recorded here."
+    },
+    {
+     "anchor": "onkelos:23:12:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and Abraham bowed before the people of the land' (וּסְגִיד אַבְרָהָם קֳדָם עַמָּא דְאַרְעָא). The same words, with no object named."
+    },
+    {
+     "anchor": "sforno:23:12:1",
+     "relation": "records",
+     "summary": "Sforno: the bow was thanks to them, since Ephron agreed to the request out of respect for them. A reason; the English gives only the act."
+    }
+   ],
+   "context": [
+    "A bow to the ground before a person or a group of standing was a sign of respect. Compare 33:3, where Jacob bows seven times before Esau.",
+    "עַם הָאָרֶץ, 'the people of the land', here means the local landholding citizens, the same men the text calls 'the Hittites' (23:7, 23:10). In later books the phrase has other senses, and its meaning there is debated."
+   ]
+  },
+  {
+   "ref": "23:13",
+   "english": "And he spoke to Ephron in the hearing of the people of the land, saying, \"But if you would hear me, I give the price of the field; take from me, and I will bury my dead there.\"",
+   "literal": "and-he-spoke to-Ephron in-ears-of people-of the-land saying but if you if-only hear-me I-have-given the-silver of-the-field take from-me and-I-bury [object] my-dead there",
+   "tokens": [
+    {
+     "id": "23:13.1",
+     "gloss": "and he spoke",
+     "sense": "Pi",
+     "note": "Piel wayyiqtol of דָּבַר, third person masculine singular: 'and he spoke'. The subject is Abraham."
+    },
+    {
+     "id": "23:13.2",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "23:13.3",
+     "gloss": "Ephron",
+     "sense": "1"
+    },
+    {
+     "id": "23:13.4",
+     "gloss": "in the hearing of",
+     "sense": "2",
+     "note": "Lit. 'in the ears of'."
+    },
+    {
+     "id": "23:13.5",
+     "gloss": "people of",
+     "sense": "5",
+     "note": "עַם הָאָרֶץ, as in 23:12."
+    },
+    {
+     "id": "23:13.6",
+     "gloss": "the land",
+     "sense": "4.a"
+    },
+    {
+     "id": "23:13.7",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "לֵאמֹר introduces the speech, which opens in this verse."
+    },
+    {
+     "id": "23:13.8",
+     "gloss": "but",
+     "note": "אַךְ: a restrictive particle, 'only' or 'but'."
+    },
+    {
+     "id": "23:13.9",
+     "gloss": "if",
+     "sense": "1",
+     "note": "אִם: 'if', with אַךְ: 'but if'."
+    },
+    {
+     "id": "23:13.10",
+     "gloss": "you",
+     "note": "The emphatic pronoun: 'you' is the one asked."
+    },
+    {
+     "id": "23:13.11",
+     "gloss": "would",
+     "sense": "2",
+     "note": "לוּ with the imperative: 'if only you would'. Rashi and Radak read a wish; Ibn Ezra reads 'if'."
+    },
+    {
+     "id": "23:13.12",
+     "gloss": "hear me",
+     "sense": "Qal 1",
+     "note": "Imperative qal of שָׁמַע, with the first person suffix."
+    },
+    {
+     "id": "23:13.13",
+     "gloss": "I give",
+     "sense": "Qal 1",
+     "note": "Qatal used as a performative: the price is offered now. Lit. 'I have given'; Rashi: 'ready with me'."
+    },
+    {
+     "id": "23:13.14",
+     "gloss": "the price",
+     "sense": "8",
+     "note": "כֶּסֶף: silver as the measure of value, the price."
+    },
+    {
+     "id": "23:13.15",
+     "gloss": "of the field",
+     "sense": "1",
+     "note": "The construct: the price of the field."
+    },
+    {
+     "id": "23:13.16",
+     "gloss": "take",
+     "sense": "Qal 1",
+     "note": "Imperative qal of לָקַח: take in hand. The object is understood from 23:13.14."
+    },
+    {
+     "id": "23:13.17",
+     "gloss": "from me",
+     "sense": "1",
+     "note": "מִמֶּנִּי: 'from me', with the verb of taking."
+    },
+    {
+     "id": "23:13.18",
+     "gloss": "and I will bury",
+     "sense": "Qal",
+     "note": "Cohortative qal of קָבַר: 'let me bury', rendered 'I will bury'."
+    },
+    {
+     "id": "23:13.19",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "23:13.20",
+     "gloss": "my dead",
+     "sense": "Qal 1",
+     "note": "Participle of מוּת with the first person suffix: 'my dead'."
+    },
+    {
+     "id": "23:13.21",
+     "gloss": "there",
+     "note": "שָׁמָּה: 'there', in the place of the cave."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:13.1",
+      "23:13.2",
+      "23:13.3"
+     ],
+     "english": "And he spoke to Ephron",
+     "literal": "and-he-spoke to-Ephron"
+    },
+    {
+     "tokens": [
+      "23:13.4",
+      "23:13.5",
+      "23:13.6"
+     ],
+     "english": "in the hearing of the people of the land",
+     "literal": "in-ears-of people-of the-land"
+    },
+    {
+     "tokens": [
+      "23:13.7"
+     ],
+     "english": "saying",
+     "literal": "saying"
+    },
+    {
+     "tokens": [
+      "23:13.8",
+      "23:13.9",
+      "23:13.10",
+      "23:13.11",
+      "23:13.12"
+     ],
+     "english": "But if you would hear me",
+     "literal": "but if you if-only hear-me"
+    },
+    {
+     "tokens": [
+      "23:13.13",
+      "23:13.14",
+      "23:13.15"
+     ],
+     "english": "I give the price of the field",
+     "literal": "I-have-given the-silver of-the-field"
+    },
+    {
+     "tokens": [
+      "23:13.16",
+      "23:13.17"
+     ],
+     "english": "take from me",
+     "literal": "take from-me"
+    },
+    {
+     "tokens": [
+      "23:13.18",
+      "23:13.19",
+      "23:13.20",
+      "23:13.21"
+     ],
+     "english": "and I will bury my dead there",
+     "literal": "and-I-bury [object] my-dead there"
+    }
+   ],
+   "grammar": [
+    "וַיְדַבֵּר ... לֵאמֹר: the speech introduction. The quotation opens here, at the start of Abraham's speech.",
+    "אַךְ אִם ... לוּ שְׁמָעֵנִי: 'but if you would hear me'. The particle אַךְ restricts the condition, and לוּ with the imperative makes it a wish.",
+    "נָתַתִּי כֶּסֶף הַשָּׂדֶה: the qatal is performative, 'I give the price of the field'. Rashi reads 'ready with me'.",
+    "קַח מִמֶּנִּי: the imperative with מִן, 'take from me'. The object, the silver, is understood from the clause before.",
+    "וְאֶקְבְּרָה: a cohortative after ו, 'and I will bury'; the burial is the result of taking the price."
+   ],
+   "note": "The English 'I give' takes the qatal as performative, as Radak does ('from now I will give'). Ibn Ezra's second reading, that the silver is already given, is recorded in the commentary. 'Take from me' carries no object: the Hebrew names none in the verb.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:23:13:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: 'if you do so, you will hear me'; or, as another reading, 'if you do so, I have given the silver of the field' (נָתַתִּי כֶּסֶף הַשָּׂדֶה). The English follows the first, as a condition on hearing. The second, the silver already given, is recorded here; the English 'I give' does not take the qatal as past."
+    },
+    {
+     "anchor": "rashi:23:13:1",
+     "relation": "records",
+     "summary": "Rashi reads the clause as Abraham's refusal of a free gift: 'you tell me to listen to you and take it for nothing; I am not willing'. The English keeps the offer of a price; Rashi's reading is recorded."
+    },
+    {
+     "anchor": "rashi:23:13:2",
+     "relation": "follows",
+     "summary": "Rashi: 'would that you would hear me' (הַלְוַאי וְתִשְׁמָעֵנִי). This is the wish of לוּ, which the English renders 'if you would hear me'."
+    },
+    {
+     "anchor": "rashi:23:13:3",
+     "relation": "records",
+     "summary": "Rashi glosses נָתַתִּי as 'ready with me', and adds 'would that I had already given it to you'. The English 'I give' keeps 'ready'; the past wish is recorded here."
+    },
+    {
+     "anchor": "ramban:23:13:1",
+     "relation": "follows",
+     "summary": "Ramban: אִם אַתָּה לוּ is a doubled condition for emphasis, 'if you, if you would hear me'. The English keeps one 'if' and stresses 'you'."
+    },
+    {
+     "anchor": "radak:23:13:1",
+     "relation": "follows",
+     "summary": "Radak: 'but, would that you would hear me' (הַלְוַאי שֶׁתִּשְׁמָעֵנִי). The English follows the wish."
+    },
+    {
+     "anchor": "radak:23:13:2",
+     "relation": "follows",
+     "summary": "Radak: 'from now, and now I will give the silver; take it from me, and in this you do me a kindness.' The English 'I give' agrees with his performative."
+    },
+    {
+     "anchor": "radak:23:13:3",
+     "relation": "follows",
+     "summary": "Radak: 'there is no need for delay' (כִּי אֵין צָרִיךְ עִכּוּב). The English 'and I will bury' follows the sequence without delay."
+    },
+    {
+     "anchor": "onkelos:23:13:1",
+     "relation": "records",
+     "summary": "Onkelos: 'if you do me a kindness' (אִם אַתְּ עָבֵד לִי טִיבוּ), and 'accept from me' for 'take'. He reads the 'if' clause as a request for a favour; the English keeps 'hear me'."
+    },
+    {
+     "anchor": "sforno:23:13:1",
+     "relation": "records",
+     "summary": "Sforno: Abraham will do as Ephron asks and bury there, but only once the price of the field is given, and not otherwise. The English does not add the condition."
+    },
+    {
+     "anchor": "sforno:23:13:2",
+     "relation": "follows",
+     "summary": "Sforno: 'you, by request, hear me; take from me' (אַתָּה בְּבַקָּשָׁה שְׁמָעֵנִי, קַח מִמֶּנִּי). This is the sense of the wish and the imperative together."
+    },
+    {
+     "anchor": "sforno:23:13:3",
+     "relation": "follows",
+     "summary": "Sforno: 'afterward' (אַחַר כָּךְ). The ו of 'and I will bury' gives the burial after the taking."
+    }
+   ]
+  },
+  {
+   "ref": "23:14",
+   "english": "And Ephron answered Abraham, saying to him,",
+   "literal": "and-answered Ephron [object] Abraham saying to-him",
+   "tokens": [
+    {
+     "id": "23:14.1",
+     "gloss": "and answered",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol qal of עָנָה."
+    },
+    {
+     "id": "23:14.2",
+     "gloss": "Ephron",
+     "sense": "1"
+    },
+    {
+     "id": "23:14.3",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "23:14.4",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "23:14.5",
+     "gloss": "saying",
+     "sense": "Qal 1",
+     "note": "לֵאמֹר: the infinitive with ל, introducing the speech of 23:15."
+    },
+    {
+     "id": "23:14.6",
+     "gloss": "to him",
+     "note": "לוֹ: 'to him', with 'saying'."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:14.1",
+      "23:14.2",
+      "23:14.3",
+      "23:14.4"
+     ],
+     "english": "And Ephron answered Abraham",
+     "literal": "and-answered Ephron [object] Abraham"
+    },
+    {
+     "tokens": [
+      "23:14.5",
+      "23:14.6"
+     ],
+     "english": "saying to him",
+     "literal": "saying to-him"
+    }
+   ],
+   "grammar": [
+    "וַיַּעַן עֶפְרוֹן אֶת־אַבְרָהָם: the reply is a wayyiqtol with the subject after the verb and the object marker before Abraham.",
+    "לֵאמֹר לוֹ is the formula that introduces speech: 'saying to him'. The speech follows in 23:15.",
+    "The tevir on עֶפְרוֹן (23:14.2) and the tipḥa on אַבְרָהָם (23:14.4) mark pauses within the verse; the silluq on לוֹ ends it."
+   ],
+   "note": "The quotation opens at the start of 23:15, so this verse ends with the introduction and no quotation mark.",
+   "commentary": [
+    {
+     "anchor": "onkelos:23:14:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and Ephron answered Abraham, saying to him' (וְאָתֵיב עֶפְרוֹן יָת אַבְרָהָם לְמֵימַר לֵיהּ). The same words, with no addition."
+    }
+   ]
+  },
+  {
+   "ref": "23:15",
+   "english": "\"My lord, hear me. Land, four hundred shekels of silver, between me and you: what is it? And bury your dead.\"",
+   "literal": "my-lord hear-me land four-hundred shekels-of silver between-me and-between-you what is-it and-[object] your-dead bury",
+   "tokens": [
+    {
+     "id": "23:15.1",
+     "gloss": "my lord",
+     "note": "אֲדֹנִי: 'my lord', addressed to Abraham."
+    },
+    {
+     "id": "23:15.2",
+     "gloss": "hear me",
+     "sense": "Qal 1",
+     "note": "Imperative qal of שָׁמַע with the first person suffix."
+    },
+    {
+     "id": "23:15.3",
+     "gloss": "land",
+     "sense": "2.d",
+     "note": "A piece of ground, 'land', as a noun in apposition to the price: no verb in the Hebrew."
+    },
+    {
+     "id": "23:15.4",
+     "gloss": "four"
+    },
+    {
+     "id": "23:15.5",
+     "gloss": "hundred",
+     "sense": "1",
+     "note": "The cardinal, as a simple number."
+    },
+    {
+     "id": "23:15.6",
+     "gloss": "shekels of",
+     "note": "The construct: 'shekels of silver'. A shekel is a unit of weight."
+    },
+    {
+     "id": "23:15.7",
+     "gloss": "silver",
+     "sense": "8",
+     "note": "The silver as the measure of weight and value."
+    },
+    {
+     "id": "23:15.8",
+     "gloss": "between me",
+     "sense": "1",
+     "note": "בֵּין: 'between'."
+    },
+    {
+     "id": "23:15.9",
+     "gloss": "and between you",
+     "sense": "1",
+     "note": "וּבֵינְךָ: 'and between you'."
+    },
+    {
+     "id": "23:15.10",
+     "gloss": "what",
+     "sense": "1",
+     "note": "The interrogative: 'what?'"
+    },
+    {
+     "id": "23:15.11",
+     "gloss": "is it",
+     "sense": "1",
+     "note": "הוּא, the feminine pronoun, referring to the land. Rashi and Sforno read the question as 'it is a trifle'; Radak as 'it makes no difference, whether you give or not'."
+    },
+    {
+     "id": "23:15.12",
+     "gloss": "and",
+     "note": "ו with the object marker. The clause is a conclusion."
+    },
+    {
+     "id": "23:15.13",
+     "gloss": "your dead",
+     "sense": "Qal 1",
+     "note": "Participle of מוּת with the second person suffix: 'your dead'."
+    },
+    {
+     "id": "23:15.14",
+     "gloss": "bury",
+     "sense": "Qal",
+     "note": "Imperative qal of קָבַר."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:15.1",
+      "23:15.2"
+     ],
+     "english": "My lord, hear me",
+     "literal": "my-lord hear-me"
+    },
+    {
+     "tokens": [
+      "23:15.3",
+      "23:15.4",
+      "23:15.5",
+      "23:15.6",
+      "23:15.7"
+     ],
+     "english": "land, four hundred shekels of silver",
+     "literal": "land four-hundred shekels-of silver"
+    },
+    {
+     "tokens": [
+      "23:15.8",
+      "23:15.9"
+     ],
+     "english": "between me and you",
+     "literal": "between-me and-between-you"
+    },
+    {
+     "tokens": [
+      "23:15.10",
+      "23:15.11"
+     ],
+     "english": "what is it",
+     "literal": "what is-it"
+    },
+    {
+     "tokens": [
+      "23:15.12",
+      "23:15.13",
+      "23:15.14"
+     ],
+     "english": "And bury your dead",
+     "literal": "and-[object] your-dead bury"
+    }
+   ],
+   "grammar": [
+    "אֶרֶץ אַרְבַּע מֵאֹת שֶׁקֶל־כֶּסֶף is a noun phrase with no verb: 'land, four hundred shekels of silver'. The English adds no verb.",
+    "בֵּינִי וּבֵינְךָ מַה־הִוא: 'between me and you, what is it?' The question asks what the land is, between the two of them, in silver.",
+    "וְאֶת־מֵתְךָ קְבֹֽר: an imperative after the question, 'and bury your dead'.",
+    "The etnaḥta on הִוא (23:15.11) divides the speech; the silluq on קְבֹֽר (23:15.14) ends it."
+   ],
+   "note": "The price is a noun phrase, and the English keeps it so. The question 'what is it?' is read by Rashi and Sforno as 'it is a trifle' and by Radak as 'it makes no difference'; the English keeps the question, and the readings are recorded. Ephron's speech opens and closes here.",
+   "commentary": [
+    {
+     "anchor": "rashi:23:15:1",
+     "relation": "records",
+     "summary": "Rashi, from Bereshit Rabbah: 'between two loved ones like us, what is it worth? Leave the sale and bury your dead.' A midrash on the question, not the plain sense; the English keeps the question."
+    },
+    {
+     "anchor": "ramban:23:15:2",
+     "relation": "records",
+     "summary": "Ramban, after Onkelos: the price was fixed by the custom of that place for land of that size; or Ephron, or his ancestors, had bought it for that price. The English keeps the noun phrase without 'worth'."
+    },
+    {
+     "anchor": "radak:23:15:1",
+     "relation": "records",
+     "summary": "Radak: 'whether you give or do not give, and your dead shall not be delayed on account of it.' The English keeps 'what is it?'; the reading that the price does not matter is recorded here."
+    },
+    {
+     "anchor": "onkelos:23:15:1",
+     "relation": "records",
+     "summary": "Onkelos: 'the land worth four hundred silver sela' (שַׁוְיָא). He adds 'worth', a verb the Hebrew does not have; the English keeps the noun phrase."
+    },
+    {
+     "anchor": "sforno:23:15:1",
+     "relation": "records",
+     "summary": "Sforno: 'what is it?' means 'is it not small?' The speech settles the transfer now, so that Abraham can bury in his own land though the money is not yet paid. The English keeps the question."
+    }
+   ],
+   "context": [
+    "The text gives the land's price as a weight of silver. The unit is the shekel, a weight; see 23:16 for how such silver was paid."
+   ]
+  },
+  {
+   "ref": "23:16",
+   "english": "And Abraham listened to Ephron, and Abraham weighed out to Ephron the silver which he had spoken in the hearing of the Hittites, four hundred shekels of silver by the merchants' standard.",
+   "literal": "and-listened Abraham to Ephron and-weighed Abraham to-Ephron [object] the-silver which spoke in-ears-of sons-of Heth four-hundred shekels silver passing to-the-trader",
+   "tokens": [
+    {
+     "id": "23:16.1",
+     "gloss": "and listened",
+     "sense": "Qal 1",
+     "note": "Wayyiqtol qal of שָׁמַע with אֶל: 'listened to'. Sforno takes it as agreeing to Ephron's view."
+    },
+    {
+     "id": "23:16.2",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "23:16.3",
+     "gloss": "to",
+     "sense": "1"
+    },
+    {
+     "id": "23:16.4",
+     "gloss": "Ephron",
+     "sense": "1",
+     "note": "The spelling here is full (עֶפְרוֹן); the defective spelling is לְעֶפְרֹן in 23:16.7."
+    },
+    {
+     "id": "23:16.5",
+     "gloss": "and weighed out",
+     "sense": "Qal 2",
+     "note": "Wayyiqtol qal of שָׁקַל: 'weigh out', pay by weight."
+    },
+    {
+     "id": "23:16.6",
+     "gloss": "Abraham"
+    },
+    {
+     "id": "23:16.7",
+     "gloss": "to Ephron",
+     "sense": "1"
+    },
+    {
+     "id": "23:16.8",
+     "gloss": "[object marker]"
+    },
+    {
+     "id": "23:16.9",
+     "gloss": "the silver",
+     "sense": "8",
+     "note": "The price, weighed."
+    },
+    {
+     "id": "23:16.10",
+     "gloss": "which",
+     "note": "The relative particle."
+    },
+    {
+     "id": "23:16.11",
+     "gloss": "he had spoken",
+     "sense": "Pi",
+     "note": "Piel qatal of דָּבַר: 'he had spoken', the price named in the hearing of the Hittites."
+    },
+    {
+     "id": "23:16.12",
+     "gloss": "in the hearing of",
+     "sense": "2",
+     "note": "Lit. 'in the ears of'."
+    },
+    {
+     "id": "23:16.13",
+     "gloss": "the Hittites",
+     "sense": "1"
+    },
+    {
+     "id": "23:16.14",
+     "gloss": "Heth"
+    },
+    {
+     "id": "23:16.15",
+     "gloss": "four"
+    },
+    {
+     "id": "23:16.16",
+     "gloss": "hundred",
+     "sense": "1"
+    },
+    {
+     "id": "23:16.17",
+     "gloss": "shekels of",
+     "note": "The construct: 'shekels of silver'."
+    },
+    {
+     "id": "23:16.18",
+     "gloss": "silver",
+     "sense": "8"
+    },
+    {
+     "id": "23:16.19",
+     "gloss": "by the standard",
+     "sense": "Qal 4.a",
+     "note": "Participle of עָבַר, 'passing': silver that passes, is current, in dealings. With לַסֹּחֵר it is silver by the merchants' standard. Ibn Ezra: chosen silver, no other; Radak: full in weight, as the merchants are exact."
+    },
+    {
+     "id": "23:16.20",
+     "gloss": "of the merchants",
+     "sense": "Qal 2",
+     "note": "לַסֹּחֵר: 'to the trader', the participle of סָחַר as a noun, singular for the class of merchants."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "23:16.1",
+      "23:16.2",
+      "23:16.3",
+      "23:16.4"
+     ],
+     "english": "And Abraham listened to Ephron",
+     "literal": "and-listened Abraham to Ephron"
+    },
+    {
+     "tokens": [
+      "23:16.5",
+      "23:16.6",
+      "23:16.7"
+     ],
+     "english": "and Abraham weighed out to Ephron",
+     "literal": "and-weighed-out Abraham to-Ephron"
+    },
+    {
+     "tokens": [
+      "23:16.8",
+      "23:16.9",
+      "23:16.10",
+      "23:16.11",
+      "23:16.12",
+      "23:16.13",
+      "23:16.14"
+     ],
+     "english": "the silver which he had spoken in the hearing of the Hittites",
+     "literal": "[object] the-silver which spoke in-ears-of sons-of Heth"
+    },
+    {
+     "tokens": [
+      "23:16.15",
+      "23:16.16",
+      "23:16.17",
+      "23:16.18",
+      "23:16.19",
+      "23:16.20"
+     ],
+     "english": "four hundred shekels of silver by the merchants' standard",
+     "literal": "four-hundred shekels silver passing to-the-trader"
+    }
+   ],
+   "grammar": [
+    "וַיִּשְׁקֹל ... אֶת־הַכֶּסֶף: 'weighed out' with the silver as object. The price is weighed, not counted.",
+    "The silver is named twice: 'the silver which he had spoken' and 'four hundred shekels of silver'. The second names the amount.",
+    "אֲשֶׁר דִּבֶּר בְּאׇזְנֵי בְנֵי־חֵת: the relative clause in the qatal: the amount was named in the hearing of the Hittites (23:10, 23:15).",
+    "עֹבֵר לַסֹּחֵר: the participle of עָבַר, 'passing', with לְ and a participle used as a noun, 'the merchant': silver current by the merchants' standard.",
+    "The etnaḥta on חֵת (23:16.14) divides the verse; the silluq on לַסֹּחֵר (23:16.20) ends it."
+   ],
+   "note": "The English 'by the merchants' standard' gives עֹבֵר לַסֹּחֵר: silver as current among merchants, weighed by their standard. Ibn Ezra reads 'chosen silver', and Radak 'full weight, as merchants are exact'; both are about the quality of the weighed silver, which the English carries. The weighing of silver before coined money is in the context.",
+   "commentary": [
+    {
+     "anchor": "ibn-ezra:23:16:1",
+     "relation": "follows",
+     "summary": "Ibn Ezra: he would take only chosen silver (שֶׁלֹּא יִקַּח כִּי אִם כֶּסֶף נִבְחָר). The English 'by the merchants' standard' names the standard of the silver, which is the quality the commentary names."
+    },
+    {
+     "anchor": "rashi:23:16:1",
+     "relation": "records",
+     "summary": "Rashi: the name is written without a vav (עפרן), because Ephron said much and did not do even a little (Bava Metzia 87): he took from him large shekels, kantars, as 'current with the merchant' (accepted by weight everywhere; Bekhorot 50), for in some places the shekels are large, kantars (centenaria in French). The English keeps 'shekels'; the reading is recorded."
+    },
+    {
+     "anchor": "radak:23:16:1",
+     "relation": "follows",
+     "summary": "Radak: 'silver full by weight, as the merchants carry and pay with it, for they are exact about the weight of silver'. The English 'by the merchants' standard' agrees."
+    },
+    {
+     "anchor": "onkelos:23:16:1",
+     "relation": "follows",
+     "summary": "Onkelos: 'and Abraham accepted from Ephron', renders וַיִּשְׁמַע as 'accepted', and the silver as 'shekels of silver accepted as merchandise in every province' (מִתְקַבֵּל סְחוֹרָא בְּכָל מְדִינְתָּא). The English follows his sense of silver accepted by the merchants' standard; 'listened to' keeps the Hebrew verb."
+    },
+    {
+     "anchor": "sforno:23:16:1",
+     "relation": "records",
+     "summary": "Sforno: Abraham agreed to Ephron's view of the field's value (הִסְכִּים לְדַעְתּוֹ בְּעֵרֶךְ הַשָּׂדֶה). The English keeps 'listened to'; the agreement is recorded."
+    },
+    {
+     "anchor": "sforno:23:16:2",
+     "relation": "follows",
+     "summary": "Sforno: וַיִּשְׁקֹל means 'paid', as in 'a talent of silver you shall weigh' (1 Kings 20:39). The English 'weighed out' keeps the payment by weight."
+    }
+   ],
+   "apparatus": [
+    "Rashi remarks on a missing vav in this phrase (חָסֵר וָי״ו) and draws a lesson from it. The defective spelling of the name, לְעֶפְרֹן (23:16.7), is the same name; the English is unaffected."
+   ],
+   "context": [
+    "Before coined money, silver was paid by weight: it was weighed on a balance, and the shekel was first a unit of weight. Coins came much later, so the 'money' of this passage is weighed silver.",
+    "The silver is named in the hearing of the Hittites and weighed in their presence, so that the transfer is witnessed (compare 23:17–18 for the record of the sale)."
+   ]
+  }
+ ]
+}

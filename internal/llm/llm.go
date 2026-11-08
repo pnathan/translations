@@ -43,6 +43,23 @@ type CommentUse struct {
 	Summary  string `json:"summary"`  // the comment's point, in English
 }
 
+// Reading is another reading of a span of the segment's words: what the
+// English would be if the words were read as a commentator (or a version,
+// or the grammar) reads them. The English line keeps the chosen reading.
+type Reading struct {
+	Tokens  []string       `json:"tokens"`           // a contiguous span, in order
+	English string         `json:"english"`          // the span under this reading
+	Source  string         `json:"source"`           // an anchor id, or a short label ("plain future")
+	Senses  []ReadingSense `json:"senses,omitempty"` // the senses this reading takes
+	Note    string         `json:"note,omitempty"`
+}
+
+type ReadingSense struct {
+	ID    string `json:"id"`
+	Sense string `json:"sense"`
+	Lex   string `json:"lex,omitempty"`
+}
+
 type SegmentTr struct {
 	Ref        string       `json:"ref"`
 	English    string       `json:"english"`
@@ -53,6 +70,8 @@ type SegmentTr struct {
 	Note       string       `json:"note,omitempty"`
 	Commentary []CommentUse `json:"commentary"`
 	Apparatus  []string     `json:"apparatus,omitempty"`
+	Context    []string     `json:"context,omitempty"` // the ancient Near Eastern setting: realia, institutions, names
+	Readings   []Reading    `json:"readings,omitempty"`
 }
 
 type TranslationUnit struct {
@@ -63,7 +82,7 @@ type TranslationUnit struct {
 
 // Patch replaces one field. Paths:
 //
-//	english | literal | note | grammar | phrases | apparatus
+//	english | literal | note | grammar | phrases | apparatus | context | readings
 //	token:<id>.gloss | token:<id>.lex | token:<id>.sense | token:<id>.note
 //	commentary:<anchor>.relation | commentary:<anchor>.summary | commentary:<anchor> (add)
 //	morph:<id> (a whole analysis; mishnah only)
