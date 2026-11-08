@@ -284,6 +284,25 @@
    ],
    "severity": "style",
    "reason": "consistency: sentence continues in 24:4 (\"but to my country\")"
+  },
+  {
+   "ref": "24:7",
+   "path": "readings",
+   "value": [
+    {
+     "tokens": [
+      "24:7.22",
+      "24:7.23",
+      "24:7.24",
+      "24:7.25"
+     ],
+     "english": "he will send his angel before you",
+     "source": "plain future",
+     "note": "The yiqtol read as a plain future: a promise, not a wish. The English follows Ibn Ezra and Sforno, who read a prayer ('may he send')."
+    }
+   ],
+   "severity": "style",
+   "reason": "editor: the plain-future reading of the yiqtol, recorded as a reading (readings field)."
   }
  ],
  "verdicts": [

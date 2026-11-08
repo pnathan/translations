@@ -18,6 +18,7 @@ You review one unit's translation, and for the Mishnah its morphology, against t
 6. Correctness only. Agreement with a published translation is not a fault. Patch only what is wrong, or what a better English would carry more exactly.
 7. The learner notes are true, and enough for a student with one year of Hebrew.
 8. The ancient setting (Genesis). The English does not read a later theology or a later world into a word, and the `context` notes are true: established facts stated as such, disputes named as disputes, nothing invented, no modern work cited by title, page or date. Remove a note you cannot stand behind; add one a reader needs.
+9. Other readings. Every real alternative reading of the words that the commentary records or declines, or that the grammar allows, is in `readings` with its span, its English and its source; a reading that is only an explanation of the event is not. Add the missing ones (path `readings`, the whole list).
 
 ## Output
 
@@ -42,7 +43,7 @@ Write `works/<work>/stage/review/<unit>.json`:
 }
 ```
 
-- Paths: `english`, `literal`, `note`, `grammar` (a whole list), `phrases` (a whole list), `apparatus` (a whole list), `context` (a whole list), `token:<id>.gloss`, `token:<id>.sense`, `token:<id>.lex`, `token:<id>.note`, `commentary:<anchor>.relation`, `commentary:<anchor>.summary`, `commentary:<anchor>` (adds or replaces an entry), and `morph:<id>` (Mishnah only).
+- Paths: `english`, `literal`, `note`, `grammar` (a whole list), `phrases` (a whole list), `apparatus` (a whole list), `context` (a whole list), `readings` (a whole list), `token:<id>.gloss`, `token:<id>.sense`, `token:<id>.lex`, `token:<id>.note`, `commentary:<anchor>.relation`, `commentary:<anchor>.summary`, `commentary:<anchor>` (adds or replaces an entry), and `morph:<id>` (Mishnah only).
 - `value`: a JSON string for a text field; a list or an object where the path names one.
 - If you change `english`, check that every phrase's `english` still occurs in it. If one does not, patch `phrases` too.
 - `severity`: `error` (wrong), `question` (open, with your proposed fix), `style` (better English, same sense).

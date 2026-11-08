@@ -1140,6 +1140,19 @@
    "context": [
     "'My father's house' and 'the land of my birth' (24:7): Rashi names Haran and Ur of the Chaldeans; the text of this unit names neither.",
     "'May he send his angel' (24:7): the verb is a yiqtol, which allows a plain future ('he will send his angel') or a wish. Ibn Ezra takes it as a prayer, because Abraham goes on to allow that the woman may be unwilling (24:8); Sforno also reads a wish. The plain future is the other reading; Abraham uses the same words when he tells the servant's story in 24:40."
+   ],
+   "readings": [
+    {
+     "tokens": [
+      "24:7.22",
+      "24:7.23",
+      "24:7.24",
+      "24:7.25"
+     ],
+     "english": "he will send his angel before you",
+     "source": "plain future",
+     "note": "The yiqtol read as a plain future: a promise, not a wish. The English follows Ibn Ezra and Sforno, who read a prayer ('may he send')."
+    }
    ]
   },
   {

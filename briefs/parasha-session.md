@@ -95,7 +95,9 @@ explanation the Hebrew lacks (a copula or article English needs is
 grammar); summaries say what the comment says; speech introduced with a
 comma, opening in its first verse and closing in its last, inner speech in
 single quotes; never "behold"; context notes only what is sure, disputes
-named, no modern work cited, no verse cited for a wording not checked.
+named, no modern work cited, no verse cited for a wording not checked;
+every real alternative reading of the words in `readings` (span, English,
+source: the comment's anchor id or a label).
 <unit-specific points: speeches crossing unit boundaries, disputed words>
 Run `./bin/tr check <work> <unit> | head -30` until ok; fix only reported
 fields. Write only that file; never go build, tr build/apply/render, git;
@@ -117,7 +119,9 @@ the notes; English grammar is not addition. Check segment by segment: every
 gloss and sense against its entry; the literal line word by word; every
 summary of every commentator against the Hebrew; every note for truth;
 context notes (true, disputes named, nothing cited that cannot be checked);
-quotation marks across verses and units. Patch only what is wrong or what
+quotation marks across verses and units; `readings` complete (every
+reading of the words the commentary records or declines, or the grammar
+allows, with span, English and source). Patch only what is wrong or what
 better English carries more exactly. <unit-specific points>
 Write works/<work>/stage/review/<unit>.json ("model": "sonnet", a verdict
 per normative anchor). Run `./bin/tr check <work> <unit> | head -30` until

@@ -227,6 +227,54 @@ func (e *Env) CheckSegment(st *SegmentTr) []string {
 	if next != len(seg.Tokens) {
 		add("phrases cover %d of %d tokens", next, len(seg.Tokens))
 	}
+	// Readings: a contiguous span of this segment's tokens, English, a
+	// source, senses that exist.
+	for k, r := range st.Readings {
+		if len(r.Tokens) == 0 {
+			add("reading %d has no tokens", k+1)
+		}
+		for j, id := range r.Tokens {
+			i, ok := tokIdx[id]
+			if !ok {
+				add("reading %d: token %s not in this segment", k+1, id)
+				continue
+			}
+			if j > 0 {
+				if p, ok := tokIdx[r.Tokens[j-1]]; ok && i != p+1 {
+					add("reading %d: tokens not contiguous at %s", k+1, id)
+				}
+			}
+		}
+		if strings.TrimSpace(r.English) == "" {
+			add("reading %d: english is empty", k+1)
+		}
+		if hasHebrew(r.English) {
+			add("reading %d: english contains Hebrew letters", k+1)
+		}
+		if strings.TrimSpace(r.Source) == "" {
+			add("reading %d: no source", k+1)
+		} else if strings.Contains(r.Source, ":") && e.anchor(r.Source) == nil {
+			add("reading %d: source %s is not an anchor", k+1, r.Source)
+		}
+		in := map[string]bool{}
+		for _, id := range r.Tokens {
+			in[id] = true
+		}
+		for _, rs := range r.Senses {
+			i, ok := tokIdx[rs.ID]
+			if !ok || !in[rs.ID] {
+				add("reading %d: sense for token %s outside the span", k+1, rs.ID)
+				continue
+			}
+			key := rs.Lex
+			if key == "" {
+				key = seg.Tokens[i].Lex
+			}
+			if !e.senseOK(key, rs.Sense) {
+				add("reading %d: sense %q is not a sense of %s", k+1, rs.Sense, key)
+			}
+		}
+	}
 	// Commentary: every normative comment anchored here is ruled on.
 	used := map[string]bool{}
 	for _, c := range st.Commentary {

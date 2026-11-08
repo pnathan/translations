@@ -45,7 +45,10 @@ Write `works/<work>/stage/translate/<unit>.json`:
         {"anchor": "rashi:1:1:2", "relation": "follows", "summary": "Rashi: רֵאשִׁית is always bound to the next word, so the verse is a time clause ..."}
       ],
       "apparatus": ["variant readings or open questions, one per line"],
-      "context": ["the ancient Near Eastern setting of a word or custom, one note per line"]
+      "context": ["the ancient Near Eastern setting of a word or custom, one note per line"],
+      "readings": [
+        {"tokens": ["1:1.1"], "english": "In the beginning", "source": "ibn-ezra:1:1:1", "senses": [{"id": "1:1.1", "sense": "1"}], "note": "the absolute reading of the first word"}
+      ]
     }
   ]
 }
@@ -70,6 +73,8 @@ The example values show the format only; they are not decisions.
   `summary` gives in English, in one to three sentences, what the commentator says about the words. Quote his Hebrew where it matters.
 
 - `context` (optional): notes on the ancient setting where a reader needs one: an object, a measure, a title, an institution, a custom, a name, the picture of the world. State what is established; where scholars disagree, say so and give the positions. Cite no modern book, article or excavation by title, page or date. Do not invent: if you are not sure of a fact, leave it out.
+
+- `readings`: every other reading of the words that a reader should be able to see: a commentator's reading of a word or a phrase that differs from the English (where `commentary` says `records` or `declines` and the difference is in the words, not an explanation of the event), a reading of the grammar the Hebrew allows (a yiqtol as wish or future, a clause as question or statement), an ancient version's reading. Each: `tokens` a contiguous span of the segment's tokens, `english` the span as that reading renders it, `source` the anchor id of the comment that gives it (or a short label: "plain future", "Onkelos"), `senses` where the reading takes another sense, `note` in one sentence. The English line keeps the reading chosen; the others go here, not in notes only.
 
 ## Check
 

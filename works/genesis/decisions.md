@@ -43,6 +43,9 @@ unit translated or reviewed after them; units of 1–17 were made under the earl
   between readings of the words (a sense, a form, the syntax); a gloss on what
   happened or why (18:8 ויאכלו: Ibn Ezra, "the bread was consumed, as fire consumes")
   is commentary: it goes in the notes and the commentary, never in the English line.
+- Readings the English does not take, when they are readings of the words (a
+  commentator's, a version's, or one the grammar allows), go in `readings` with their
+  span, English and source, so that a reader can see them beside the English line.
 - English grammar is not addition: the copula of a verbless clause ("Blessed be the
   LORD", "you are a prince"), the article or a pronoun that English requires, and the
   ordinary English of an idiom are translation. What the English must not supply is

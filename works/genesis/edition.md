@@ -26092,6 +26092,10 @@ Commentary:
 - Ibn Ezra (follows): Ibn Ezra: 'he will send his angel' is a prayer, not a prophecy; if it were prophecy he would not go on to say 'if the woman will not be willing' (24:8). The English reads the yiqtol as a wish, 'may he send'; the plain future is the other reading and is recorded in the note and the context.
 - Sforno (follows): Sforno reads the clause as a wish: may he send his angel from his holy dwelling in the heavens, since he took me from there, so that my son need not go there. This supports the wish reading.
 
+Other readings:
+
+- ה֗וּא יִשְׁלַ֤ח מַלְאָכוֹ֙ לְפָנֶ֔יךָ: he will send his angel before you (plain future). The yiqtol read as a plain future: a promise, not a wish. The English follows Ibn Ezra and Sforno, who read a prayer ('may he send').
+
 Ancient Near East:
 
 - 'My father's house' and 'the land of my birth' (24:7): Rashi names Haran and Ur of the Chaldeans; the text of this unit names neither.

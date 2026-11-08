@@ -37,6 +37,28 @@ func (e *Edition) anchorsOf(ref string) []anchor.Anchor {
 	return out
 }
 
+// span joins the Hebrew of the tokens named.
+func (e *Edition) span(s corpus.Segment, ids []string) string {
+	var w []string
+	for _, id := range ids {
+		for _, t := range s.Tokens {
+			if t.ID == id {
+				w = append(w, t.Text)
+			}
+		}
+	}
+	return strings.Join(w, " ")
+}
+
+func (e *Edition) anchor(id string) *anchor.Anchor {
+	for i := range e.Anchors {
+		if e.Anchors[i].ID == id {
+			return &e.Anchors[i]
+		}
+	}
+	return nil
+}
+
 func (e *Edition) ruling(seg *llm.SegmentTr, id string) *llm.CommentUse {
 	if seg == nil {
 		return nil
@@ -160,6 +182,21 @@ func (e *Edition) Markdown(path string) error {
 			}
 			if len(cs) > 0 {
 				b.WriteString("Commentary:\n\n" + strings.Join(cs, "\n") + "\n\n")
+			}
+			if len(f.Readings) > 0 {
+				b.WriteString("Other readings:\n\n")
+				for _, r := range f.Readings {
+					src := r.Source
+					if a := e.anchor(r.Source); a != nil {
+						src = a.Commentator
+					}
+					fmt.Fprintf(&b, "- %s: %s (%s)", e.span(*s, r.Tokens), r.English, src)
+					if r.Note != "" {
+						fmt.Fprintf(&b, ". %s", r.Note)
+					}
+					b.WriteString("\n")
+				}
+				b.WriteString("\n")
 			}
 			if len(f.Context) > 0 {
 				b.WriteString("Ancient Near East:\n\n")

@@ -119,6 +119,7 @@ const sectionHTML = `<!doctype html>
 {{if .Summary}}<div>{{.Summary}}</div>{{end}}
 <details><summary>Hebrew</summary><div class="hebtext" lang="he">{{.Hebrew}}</div></details></div>{{end}}
 </details>{{end}}
+{{if .Readings}}<details class="reads"><summary>Other readings ({{len .Readings}})</summary><ul>{{range .Readings}}<li data-ids="{{.IDs}}"><span class="he" lang="he">{{.Span}}</span>: {{.English}} <span class="tag">{{if .Anchor}}<a href="#c-{{.Anchor}}">{{.Source}}</a>{{else}}{{.Source}}{{end}}</span>{{if .Note}} {{.Note}}{{end}}</li>{{end}}</ul></details>{{end}}
 {{if .Context}}<details><summary>Ancient Near East</summary><ul>{{range .Context}}<li>{{.}}</li>{{end}}</ul></details>{{end}}
 {{if .Apparatus}}<details><summary>Apparatus</summary><ul>{{range .Apparatus}}<li>{{.}}</li>{{end}}</ul></details>{{end}}
 </section>
@@ -163,6 +164,7 @@ const WORK = {{.Cfg.Slug}};
     if(d.kt) h+='<h3>Ketiv</h3><div class="he" lang="he">'+esc(d.kt)+'</div>';
     if(d.alt) h+='<h3>Other witness</h3><div class="he" lang="he">'+esc(d.alt)+'</div>';
     if(d.wn&&d.wn.length) h+='<h3>Textual notes</h3><ul>'+d.wn.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>';
+    if(d.rd&&d.rd.length){h+='<h3>Other readings</h3><ul>'+d.rd.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>'}
     if(d.c&&d.c.length){h+='<h3>Commentary on this word</h3><ul>';d.c.forEach(c=>{const el=document.getElementById('c-'+c);if(el){el.classList.add('lit-on');const s=el.querySelector('strong');h+='<li><a href="#c-'+esc(c)+'" data-open="'+esc(c)+'">'+esc(s?s.textContent:c)+'</a></li>'}});h+='</ul>'}
     if(d.src) h+='<div style="font-size:12px;color:var(--muted);margin-top:10px">Morphology: '+esc(d.src)+'</div>';
     panel.innerHTML=h; panel.classList.add('open');
@@ -225,6 +227,10 @@ const WORK = {{.Cfg.Slug}};
   }
   stage.addEventListener('wheel',ev=>{if(!cards.length)return;ev.preventDefault();cur=Math.max(0,Math.min(cards.length-1,cur+(ev.deltaY>0?1:-1)));place()},{passive:false});
   stage.addEventListener('click',ev=>{if(ev.target===stage)closeThree()});
+  // Hovering a reading highlights its words in the verse.
+  document.querySelectorAll('.reads li[data-ids]').forEach(li=>{const ids=li.dataset.ids.split(' ');
+    const on=v=>ids.forEach(id=>{const w=document.querySelector('.w[data-id="'+CSS.escape(id)+'"]');if(w)w.classList.toggle('sel',v)});
+    li.addEventListener('mouseenter',()=>on(true));li.addEventListener('mouseleave',()=>on(false))});
   document.addEventListener('click',ev=>{const w=ev.target.closest('.w');if(!w)return;show(w.dataset.id);if(body.classList.contains('three'))three(w.dataset.id);else concordLink(w.dataset.id)});
   document.addEventListener('keydown',ev=>{
     if(stage.classList.contains('open')){
