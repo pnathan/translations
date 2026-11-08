@@ -32,6 +32,8 @@ docs/                   GitHub Pages root (deployed from main)
   Sonnet subagents (the owner's instruction: Sonnet and Haiku wherever
   possible). One agent per unit; each runs `./bin/tr check WORK UNIT` until
   it passes. Give each agent its own scratch directory.
+- Large works run one parasha (or section) per session, on its own branch,
+  from its GitHub issue: follow `briefs/parasha-session.md`.
 - A model writes only its own stage file. It never edits the corpus, the
   packs or another stage's file. The review writes patches, never a new
   translation.
