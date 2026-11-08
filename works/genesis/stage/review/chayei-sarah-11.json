@@ -1,0 +1,270 @@
+{
+ "unit": "chayei-sarah-11",
+ "model": "sonnet",
+ "summary": "The unit is sound and close to the Hebrew, and its rulings follow Ibn Ezra. The main fault is 24:62, where 'came from Beer-lahai-roi' drops the infinitive that Ibn Ezra reads as 'from coming to' and his summary was misdescribed ('its accent agrees'). 24:57 'her own word' is not English. Two grammar notes were wrong (a 'second took' in 24:61; a conjunctive merkha said to divide 24:63). 24:63 לָשׂוּחַ is correctly 'to walk' with prayer recorded; 'meditate' is now added; context for 'thousands of myriads' and the gate is added.",
+ "patches": [
+  {
+   "ref": "24:57",
+   "path": "english",
+   "value": "They said, \"Let us call the girl and ask what she says.\"",
+   "severity": "style",
+   "reason": "'ask her own word' is not English; the idiom 'ask her mouth' means to ask what she says"
+  },
+  {
+   "ref": "24:57",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:57.1"
+     ],
+     "english": "They said,",
+     "literal": "and-they-said"
+    },
+    {
+     "tokens": [
+      "24:57.2",
+      "24:57.3"
+     ],
+     "english": "let us call the girl",
+     "literal": "let-us-call to-the-girl"
+    },
+    {
+     "tokens": [
+      "24:57.4",
+      "24:57.5",
+      "24:57.6"
+     ],
+     "english": "and ask what she says",
+     "literal": "and-let-us-ask (obj) her-mouth"
+    }
+   ],
+   "severity": "style",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "24:57",
+   "path": "token:24:57.6.gloss",
+   "value": "what she says",
+   "severity": "style",
+   "reason": "idiom 'her mouth', as the speech of her mouth"
+  },
+  {
+   "ref": "24:59",
+   "path": "english",
+   "value": "They sent off Rebekah their sister, and her nurse, and Abraham's servant, and his men.",
+   "severity": "style",
+   "reason": "Pi 1 'send off' is the sending of a party on its way; 'sent away' reads as dismissal"
+  },
+  {
+   "ref": "24:59",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:59.1",
+      "24:59.2",
+      "24:59.3",
+      "24:59.4"
+     ],
+     "english": "They sent off Rebekah their sister",
+     "literal": "and-they-sent-away (obj) Rebekah their-sister"
+    },
+    {
+     "tokens": [
+      "24:59.5",
+      "24:59.6"
+     ],
+     "english": "and her nurse",
+     "literal": "and-(obj) her-nurse"
+    },
+    {
+     "tokens": [
+      "24:59.7",
+      "24:59.8",
+      "24:59.9"
+     ],
+     "english": "and Abraham's servant",
+     "literal": "and-(obj) servant of-Abraham"
+    },
+    {
+     "tokens": [
+      "24:59.10",
+      "24:59.11"
+     ],
+     "english": "and his men",
+     "literal": "and-(obj) his-men"
+    }
+   ],
+   "severity": "style",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "24:59",
+   "path": "token:24:59.1.gloss",
+   "value": "they sent off",
+   "severity": "style",
+   "reason": "as above"
+  },
+  {
+   "ref": "24:59",
+   "path": "token:24:59.1.sense",
+   "value": "Pi 1",
+   "severity": "style",
+   "reason": "entry sense 'send off, away' fits sending a party on its way"
+  },
+  {
+   "ref": "24:60",
+   "path": "context",
+   "value": [
+    "רְבָבָה is ten thousand, so 'thousands of myriads' is a very great number, not a count. In the second wish, 'possess the gate' of the haters means to hold their city: the gate was the city's entry, its defence and its seat of judgment. The wording echoes the promise to Abraham in 22:17, where the seed 'shall possess the gate of his enemies'; here the word is 'those who hate him'."
+   ],
+   "severity": "style",
+   "reason": "a reader needs the number and the gate; Radak and Rashi both link the verse to 22:17"
+  },
+  {
+   "ref": "24:61",
+   "path": "grammar",
+   "value": [
+    "The wayyiqtol chain runs in three parts: Rebekah rises (3rd feminine singular); her maids mount and go (3rd feminine plural); the servant takes her and goes (3rd masculine singular).",
+    "The etnaḥta on הָאִישׁ (61.9) divides 'they went after the man' from 'the servant took Rebekah and went'.",
+    "The preposition עַל with the camels is 'on'; the English 'mounted the camels' carries that sense in the verb.",
+    "The object marker before רִבְקָה marks her as the object of 'took'; the servant is the subject (the verb is masculine singular)."
+   ],
+   "severity": "error",
+   "reason": "'the second took': the verse has one 'took'"
+  },
+  {
+   "ref": "24:62",
+   "path": "english",
+   "value": "Isaac had come from coming to Beer-lahai-roi, and he was living in the land of the Negeb.",
+   "severity": "question",
+   "reason": "Ibn Ezra, normative, reads מִבּוֹא as the verbal noun, 'came from coming (to) Beer-lahai-roi'; 'from Beer-lahai-roi' drops the infinitive and reads as though he lived there (the point Ramban raises)"
+  },
+  {
+   "ref": "24:62",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:62.1",
+      "24:62.2",
+      "24:62.3"
+     ],
+     "english": "Isaac had come from coming to",
+     "literal": "and-Isaac came from-coming"
+    },
+    {
+     "tokens": [
+      "24:62.4",
+      "24:62.5",
+      "24:62.6"
+     ],
+     "english": "Beer-lahai-roi,",
+     "literal": "Beer-lahai-roi"
+    },
+    {
+     "tokens": [
+      "24:62.7",
+      "24:62.8"
+     ],
+     "english": "and he was living",
+     "literal": "and-he dwelling"
+    },
+    {
+     "tokens": [
+      "24:62.9",
+      "24:62.10"
+     ],
+     "english": "in the land of the Negeb.",
+     "literal": "in-land-of the-Negeb"
+    }
+   ],
+   "severity": "question",
+   "reason": "follows the new English"
+  },
+  {
+   "ref": "24:62",
+   "path": "token:24:62.3.gloss",
+   "value": "from coming to",
+   "severity": "question",
+   "reason": "the infinitive with the place that follows, as in Ibn Ezra"
+  },
+  {
+   "ref": "24:62",
+   "path": "commentary:ibn-ezra:24:62:1.summary",
+   "value": "Ibn Ezra lists readings of בא מבוא: that it is a place name, a place called by two names; that some take it as 'from inside' (מבפנים), as they explain 'shutting every house from entering' (Isa 24:10). He prefers the infinitive, the name of the action, and so its sense is 'came from coming (to) Beer-lahai-roi'. The English follows him.",
+   "severity": "error",
+   "reason": "the summary omitted the first reading and invented 'its accent agrees': וכן טעמו means 'and so its sense'"
+  },
+  {
+   "ref": "24:63",
+   "path": "token:24:63.3.note",
+   "value": "infinitive construct of purpose; Ibn Ezra takes 'to walk' (more fully 'to walk among the bushes', ללכת בין השיחים); Rashi's 'to pray' and Sforno's 'pour out his complaint' are recorded in the apparatus",
+   "severity": "style",
+   "reason": "the note dropped Ibn Ezra's 'among the bushes'"
+  },
+  {
+   "ref": "24:63",
+   "path": "grammar",
+   "value": [
+    "Purpose: 'went out to walk', the infinitive with ל after the verb of motion.",
+    "The time phrase is an infinitive construct of פָּנָה with ל: 'towards evening'.",
+    "The wayyiqtols (went out, lifted, saw) give the sequence; then הִנֵּה with a participle gives the sight as a present scene: 'look, camels were coming'.",
+    "The etnaḥta on עָרֶב (63.6) divides the verse: going out to walk towards evening, then the seeing. The merkha on וַיֵּצֵא (63.1) is a conjunctive accent and divides nothing."
+   ],
+   "severity": "error",
+   "reason": "the merkha is conjunctive and does not divide the verse"
+  },
+  {
+   "ref": "24:63",
+   "path": "apparatus",
+   "value": [
+    "לָשׂוּחַ: 'to walk' (Ibn Ezra, 'among the bushes'; Radak, 'to stroll among the bushes'; the lexicon 'go, rove about'); 'to pray' (Rashi, as in 'he pours out his complaint'; Targum Onkelos renders לְצַלָּאָה; Sforno, 'pour out his complaint before the Lord'). 'To meditate', the older English rendering, takes the verb as from שִׂיחַ 'musing, complaint', the same word Rashi and Sforno draw on; no commentator in the pack gives it, and the English does not take it."
+   ],
+   "severity": "style",
+   "reason": "'meditate' is a recorded reading; the old note said only that it was absent"
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:24:59:1",
+   "verdict": "not-applicable",
+   "comment": "only 'in the ancient days' survives; no sense of the word"
+  },
+  {
+   "anchor": "ibn-ezra:24:61:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:24:61:2",
+   "verdict": "not-applicable",
+   "comment": "vocalization only"
+  },
+  {
+   "anchor": "ibn-ezra:24:61:3",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:24:62:1",
+   "verdict": "consistent",
+   "comment": "after the patch; the old English dropped the infinitive"
+  },
+  {
+   "anchor": "ibn-ezra:24:62:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:24:63:1",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:24:63:2",
+   "verdict": "consistent"
+  },
+  {
+   "anchor": "ibn-ezra:24:64:1",
+   "verdict": "consistent"
+  }
+ ]
+}
