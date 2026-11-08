@@ -1,0 +1,122 @@
+{
+ "unit": "chayei-sarah-12",
+ "model": "sonnet",
+ "summary": "A sound unit; the English is the plain translation throughout, the glosses and senses fit their entries, and the names of Keturah's descendants are transliterated consistently. 24:67 follows Ibn Ezra's ellipsis ('the tent of Sarah his mother') correctly and uses 'of' only as English grammar. Faults were in the apparatus: Rashi's remark on 24:67 was reported as the tent becoming like Sarah's (it is Rebekah who becomes like Sarah), his remark on 25:3 was garbled, a token note called אֲדֹנִי a qamats form, and a phrase note called a qatal wayyiqtol-like. One context note was added on the recurring names Sheba and Dedan.",
+ "patches": [
+  {
+   "ref": "24:65",
+   "path": "token:24:65.13.note",
+   "value": "construct form of adon with the 1st person singular suffix, אֲדֹנִי (hiriq, not the divine title אֲדֹנָי with qamats); addressed here to a man, so 'my lord'.",
+   "severity": "error",
+   "reason": "The note called this a 'qamats form'; the word is pointed with hiriq under the nun. The divine-title form is the one with qamats."
+  },
+  {
+   "ref": "24:67",
+   "path": "commentary:rashi:24:67:1.summary",
+   "value": "Rashi: Isaac brought her into the tent, and she became the likeness of Sarah his mother, as if to say, here she was Sarah his mother; for as long as Sarah lived a lamp burned from Sabbath eve to Sabbath eve, there was a blessing in the dough and a cloud tied over the tent; these ceased at her death and returned when Rebekah came (Bereshit Rabbah).",
+   "severity": "error",
+   "reason": "Rashi says Rebekah became like Sarah (נעשית דוגמת שרה אמו), not that the tent became like Sarah's tent."
+  },
+  {
+   "ref": "24:67",
+   "path": "note",
+   "value": "'Of Sarah' follows Ibn Ezra's reading of the words as an elided construct (the tent [of] Sarah his mother); Rashi's reading, that Rebekah became like Sarah his mother, is recorded. 'After his mother' keeps the Hebrew; Onkelos' 'after the death of his mother' and Rashi's reading of the custom are recorded.",
+   "severity": "error",
+   "reason": "The note misstated Rashi: it is Rebekah, not the tent, who 'became like Sarah'."
+  },
+  {
+   "ref": "25:3",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "25:3.1",
+      "25:3.2"
+     ],
+     "english": "And Jokshan begot",
+     "literal": "'and-Jokshan begot': a qatal (perfect) with its subject placed first, so the clause opens on the father."
+    },
+    {
+     "tokens": [
+      "25:3.3",
+      "25:3.4"
+     ],
+     "english": "Sheba",
+     "literal": "'[acc] Sheba'."
+    },
+    {
+     "tokens": [
+      "25:3.5",
+      "25:3.6"
+     ],
+     "english": "and Dedan",
+     "literal": "'and-[acc] Dedan'."
+    },
+    {
+     "tokens": [
+      "25:3.7",
+      "25:3.8"
+     ],
+     "english": "and the sons of Dedan",
+     "literal": "'and-sons-of Dedan': the sons of the same Dedan."
+    },
+    {
+     "tokens": [
+      "25:3.9"
+     ],
+     "english": "were",
+     "literal": "'were': qal perfect of hayah, 3rd person common plural, agreeing with 'the sons of Dedan'."
+    },
+    {
+     "tokens": [
+      "25:3.10",
+      "25:3.11",
+      "25:3.12"
+     ],
+     "english": "Asshurim, Letushim and Leummim",
+     "literal": "'Asshurim and-Letushim and-Leummim': the three names are transliterated."
+    }
+   ],
+   "severity": "error",
+   "reason": "The first phrase called a qatal 'wayyiqtol-like', which is false (the verb is a perfect, as the grammar note says); the note on 'were' also said the verb was no Hebrew word."
+  },
+  {
+   "ref": "25:3",
+   "path": "commentary:rashi:25:3:1.summary",
+   "value": "Rashi: they are names of the heads of nations (Bereshit Rabbah). He cannot reconcile Onkelos' rendering (mashiryan, 'camp') with the wording of the text; and if one objects that the aleph of Asshurim is not a root letter, he answers that other words gain an aleph (as in 'a wall of anakh', 'asukh of oil').",
+   "severity": "error",
+   "reason": "The summary made Rashi say the aleph is an added letter as his own claim; he offers it only as the answer to the objection to Onkelos, while saying he cannot fit Onkelos to the text."
+  },
+  {
+   "ref": "25:3",
+   "path": "context",
+   "value": [
+    "Sheba and Dedan appear also in the genealogy of chapter 10 (10:7, where both are sons of Raamah, and 10:28, where Sheba is a son of Joktan). The text does not explain why the same names stand in different lines; the lists name peoples and places as ancestors."
+   ],
+   "severity": "question",
+   "reason": "A reader meets the same names with different parentage; the overlap should be named, without a solution the text does not give."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:24:65:1",
+   "verdict": "consistent",
+   "comment": "'She covered herself' is the reflexive hitpael he names."
+  },
+  {
+   "anchor": "ibn-ezra:24:67:1",
+   "verdict": "consistent",
+   "comment": "'The tent of Sarah his mother' takes the elided construct as he does; the English adds only the English 'of'."
+  },
+  {
+   "anchor": "ibn-ezra:25:1:1",
+   "verdict": "consistent",
+   "comment": "Keturah is named as a wife and not identified with Hagar."
+  },
+  {
+   "anchor": "ibn-ezra:25:3:1",
+   "verdict": "consistent",
+   "comment": "The three are transliterated as names, not rendered as descriptions."
+  }
+ ]
+}
