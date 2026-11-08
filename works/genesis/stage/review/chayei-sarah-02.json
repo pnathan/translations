@@ -286,6 +286,75 @@
    "value": "Onkelos: 'and Abraham accepted from Ephron', renders וַיִּשְׁמַע as 'accepted', and the silver as 'shekels of silver accepted as merchandise in every province' (מִתְקַבֵּל סְחוֹרָא בְּכָל מְדִינְתָּא). The English follows his sense of silver accepted by the merchants' standard; 'listened to' keeps the Hebrew verb.",
    "severity": "style",
    "reason": "The summary omitted his rendering of the verb."
+  },
+  {
+   "ref": "23:11",
+   "path": "english",
+   "value": "\"No, my lord, hear me. The field I have given to you, and the cave which is in it I have given to you; in the sight of my people I have given it to you. Bury your dead.\"",
+   "severity": "style",
+   "reason": "consistency: resumptive \"it\" is a Hebrew calque"
+  },
+  {
+   "ref": "23:11",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "23:11.1",
+      "23:11.2",
+      "23:11.3"
+     ],
+     "english": "No, my lord, hear me",
+     "literal": "no my-lord hear-me"
+    },
+    {
+     "tokens": [
+      "23:11.4",
+      "23:11.5",
+      "23:11.6"
+     ],
+     "english": "The field I have given to you",
+     "literal": "the-field I-have-given to-you"
+    },
+    {
+     "tokens": [
+      "23:11.7",
+      "23:11.8",
+      "23:11.9",
+      "23:11.10",
+      "23:11.11"
+     ],
+     "english": "and the cave which is in it I have given to you",
+     "literal": "and-the-cave which in-it to-you I-have-given-it"
+    },
+    {
+     "tokens": [
+      "23:11.12",
+      "23:11.13",
+      "23:11.14"
+     ],
+     "english": "in the sight of my people",
+     "literal": "in-eyes-of sons-of my-people"
+    },
+    {
+     "tokens": [
+      "23:11.15",
+      "23:11.16"
+     ],
+     "english": "I have given it to you",
+     "literal": "I-have-given-it to-you"
+    },
+    {
+     "tokens": [
+      "23:11.17",
+      "23:11.18"
+     ],
+     "english": "bury your dead",
+     "literal": "bury dead-of-you"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: resumptive \"it\" is a Hebrew calque"
   }
  ],
  "verdicts": [

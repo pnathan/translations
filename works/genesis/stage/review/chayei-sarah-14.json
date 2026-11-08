@@ -163,6 +163,99 @@
    ],
    "severity": "question",
    "reason": "'Asshur is Assyria' was stated as settled; the dispute is named, and a reader needs what 'before Egypt' means."
+  },
+  {
+   "ref": "25:13",
+   "path": "english",
+   "value": "These are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebaioth, and Kedar, and Adbeel, and Mibsam,",
+   "severity": "style",
+   "reason": "consistency: list continues in 25:14"
+  },
+  {
+   "ref": "25:13",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "25:13.1",
+      "25:13.2",
+      "25:13.3",
+      "25:13.4",
+      "25:13.5",
+      "25:13.6"
+     ],
+     "english": "These are the names of the sons of Ishmael, by their names, according to their generations:",
+     "literal": "and-these names-of sons-of Ishmael by-their-names to-their-generations"
+    },
+    {
+     "tokens": [
+      "25:13.7",
+      "25:13.8",
+      "25:13.9"
+     ],
+     "english": "the firstborn of Ishmael, Nebaioth,",
+     "literal": "firstborn-of Ishmael Nebaioth"
+    },
+    {
+     "tokens": [
+      "25:13.10"
+     ],
+     "english": "and Kedar,",
+     "literal": "and-Kedar"
+    },
+    {
+     "tokens": [
+      "25:13.11"
+     ],
+     "english": "and Adbeel,",
+     "literal": "and-Adbeel"
+    },
+    {
+     "tokens": [
+      "25:13.12"
+     ],
+     "english": "and Mibsam,",
+     "literal": "and-Mibsam"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: list continues in 25:14"
+  },
+  {
+   "ref": "25:14",
+   "path": "english",
+   "value": "and Mishma, and Dumah, and Massa,",
+   "severity": "style",
+   "reason": "consistency: list continues in 25:15"
+  },
+  {
+   "ref": "25:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "25:14.1"
+     ],
+     "english": "and Mishma,",
+     "literal": "and-Mishma"
+    },
+    {
+     "tokens": [
+      "25:14.2"
+     ],
+     "english": "and Dumah,",
+     "literal": "and-Dumah"
+    },
+    {
+     "tokens": [
+      "25:14.3"
+     ],
+     "english": "and Massa,",
+     "literal": "and-Massa"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: list continues in 25:15"
   }
  ],
  "verdicts": [

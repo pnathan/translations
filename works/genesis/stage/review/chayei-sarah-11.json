@@ -224,6 +224,174 @@
    ],
    "severity": "style",
    "reason": "'meditate' is a recorded reading; the old note said only that it was absent"
+  },
+  {
+   "ref": "24:60",
+   "path": "english",
+   "value": "They blessed Rebekah and said to her, \"Our sister, may you become thousands of myriads, and may your offspring possess the gate of those who hate him.\"",
+   "severity": "style",
+   "reason": "consistency: זֶרַע \"offspring\" as at 24:7"
+  },
+  {
+   "ref": "24:60",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:60.1",
+      "24:60.2",
+      "24:60.3"
+     ],
+     "english": "They blessed Rebekah",
+     "literal": "'and-they-blessed (obj) Rebekah'"
+    },
+    {
+     "tokens": [
+      "24:60.4",
+      "24:60.5"
+     ],
+     "english": "and said to her,",
+     "literal": "'and-they-said to-her'"
+    },
+    {
+     "tokens": [
+      "24:60.6",
+      "24:60.7",
+      "24:60.8"
+     ],
+     "english": "Our sister, may you become",
+     "literal": "'our-sister you be'"
+    },
+    {
+     "tokens": [
+      "24:60.9",
+      "24:60.10"
+     ],
+     "english": "thousands of myriads,",
+     "literal": "'to-thousands-of myriad'"
+    },
+    {
+     "tokens": [
+      "24:60.11",
+      "24:60.12"
+     ],
+     "english": "and may your offspring possess",
+     "literal": "'and-may-possess your-seed'"
+    },
+    {
+     "tokens": [
+      "24:60.13",
+      "24:60.14",
+      "24:60.15"
+     ],
+     "english": "the gate of those who hate him.",
+     "literal": "'(obj) gate-of his-haters'"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: זֶרַע \"offspring\" as at 24:7"
+  },
+  {
+   "ref": "24:61",
+   "path": "english",
+   "value": "Rebekah rose with her girls, and they mounted the camels and went after the man. The servant took Rebekah and went.",
+   "severity": "style",
+   "reason": "consistency: נְעָרוֹת: \"girl\" as for נַעֲרָה elsewhere; \"maid\" suggests שִׁפְחָה"
+  },
+  {
+   "ref": "24:61",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:61.1",
+      "24:61.2",
+      "24:61.3"
+     ],
+     "english": "Rebekah rose with her girls,",
+     "literal": "'and-she-arose Rebekah and-her-maids'"
+    },
+    {
+     "tokens": [
+      "24:61.4",
+      "24:61.5",
+      "24:61.6"
+     ],
+     "english": "and they mounted the camels",
+     "literal": "'and-they-mounted on the-camels'"
+    },
+    {
+     "tokens": [
+      "24:61.7",
+      "24:61.8",
+      "24:61.9"
+     ],
+     "english": "and went after the man.",
+     "literal": "'and-they-went after the-man'"
+    },
+    {
+     "tokens": [
+      "24:61.10",
+      "24:61.11",
+      "24:61.12",
+      "24:61.13",
+      "24:61.14"
+     ],
+     "english": "The servant took Rebekah and went.",
+     "literal": "'and-he-took the-servant (obj) Rebekah and-he-went'"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: נְעָרוֹת: \"girl\" as for נַעֲרָה elsewhere; \"maid\" suggests שִׁפְחָה"
+  },
+  {
+   "ref": "24:62",
+   "path": "english",
+   "value": "Isaac had come from the way to Beer-lahai-roi, and he was living in the land of the Negeb.",
+   "severity": "style",
+   "reason": "consistency: \"from coming to\" breaks English"
+  },
+  {
+   "ref": "24:62",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:62.1",
+      "24:62.2",
+      "24:62.3"
+     ],
+     "english": "Isaac had come from the way to",
+     "literal": "and-Isaac came from-coming"
+    },
+    {
+     "tokens": [
+      "24:62.4",
+      "24:62.5",
+      "24:62.6"
+     ],
+     "english": "Beer-lahai-roi,",
+     "literal": "Beer-lahai-roi"
+    },
+    {
+     "tokens": [
+      "24:62.7",
+      "24:62.8"
+     ],
+     "english": "and he was living",
+     "literal": "and-he dwelling"
+    },
+    {
+     "tokens": [
+      "24:62.9",
+      "24:62.10"
+     ],
+     "english": "in the land of the Negeb.",
+     "literal": "in-land-of the-Negeb"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: \"from coming to\" breaks English"
   }
  ],
  "verdicts": [

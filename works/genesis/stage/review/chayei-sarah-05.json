@@ -320,6 +320,59 @@
    "value": "",
    "severity": "error",
    "reason": "sense 1 of שְׁכֶם is \"neck\"; the verse means shoulder, which the entry lists as its root gloss and not as a sense. The note says so."
+  },
+  {
+   "ref": "24:12",
+   "path": "english",
+   "value": "And he said, \"LORD, God of my master Abraham, please make it happen before me today, and show kindness to my master Abraham.",
+   "severity": "style",
+   "reason": "consistency: same form as 24:42, 24:48"
+  },
+  {
+   "ref": "24:12",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:12.1"
+     ],
+     "english": "And he said",
+     "literal": "and-said"
+    },
+    {
+     "tokens": [
+      "24:12.2",
+      "24:12.3",
+      "24:12.4",
+      "24:12.5"
+     ],
+     "english": "LORD, God of my master Abraham",
+     "literal": "the-LORD God-of my-master Abraham"
+    },
+    {
+     "tokens": [
+      "24:12.6",
+      "24:12.7",
+      "24:12.8",
+      "24:12.9"
+     ],
+     "english": "please make it happen before me today",
+     "literal": "make-it-happen please before-me the-day"
+    },
+    {
+     "tokens": [
+      "24:12.10",
+      "24:12.11",
+      "24:12.12",
+      "24:12.13",
+      "24:12.14"
+     ],
+     "english": "and show kindness to my master Abraham",
+     "literal": "and-do kindness with my-master Abraham"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: same form as 24:42, 24:48"
   }
  ],
  "verdicts": [

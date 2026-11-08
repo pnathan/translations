@@ -95,6 +95,113 @@
    ],
    "severity": "question",
    "reason": "A reader meets the same names with different parentage; the overlap should be named, without a solution the text does not give."
+  },
+  {
+   "ref": "24:65",
+   "path": "english",
+   "value": "And she said to the servant, \"Who is this man walking in the field to meet us?\" And the servant said, \"He is my master.\" And she took the veil and covered herself.",
+   "severity": "style",
+   "reason": "consistency: servant for Isaac: \"my master\" (אדני as in 24:9-48)"
+  },
+  {
+   "ref": "24:65",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:65.1",
+      "24:65.2",
+      "24:65.3"
+     ],
+     "english": "And she said to the servant",
+     "literal": "'and-she-said to the-servant': the wayyiqtol gives the narrative sequence; the feminine verb names her as subject."
+    },
+    {
+     "tokens": [
+      "24:65.4",
+      "24:65.5",
+      "24:65.6"
+     ],
+     "english": "Who is this man",
+     "literal": "'who the-man this': an interrogative question about a person; 'is' is the English copula."
+    },
+    {
+     "tokens": [
+      "24:65.7",
+      "24:65.8",
+      "24:65.9"
+     ],
+     "english": "walking in the field to meet us",
+     "literal": "'the-walking in-the-field for-meeting-us': the participle is attributive to 'the man'."
+    },
+    {
+     "tokens": [
+      "24:65.10",
+      "24:65.11"
+     ],
+     "english": "And the servant said",
+     "literal": "'and-said the-servant': the verb is followed by its subject."
+    },
+    {
+     "tokens": [
+      "24:65.12",
+      "24:65.13"
+     ],
+     "english": "He is my master",
+     "literal": "'he my-lord': a verbless clause; 'is' is the English copula."
+    },
+    {
+     "tokens": [
+      "24:65.14",
+      "24:65.15",
+      "24:65.16"
+     ],
+     "english": "And she took the veil and covered herself",
+     "literal": "'and-she-took the-veil and-she-covered-herself': two wayyiqtol verbs, the second reflexive."
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: servant for Isaac: \"my master\" (אדני as in 24:9-48)"
+  },
+  {
+   "ref": "25:5",
+   "path": "english",
+   "value": "And Abraham gave Isaac all that was his.",
+   "severity": "style",
+   "reason": "consistency: כָּל־אֲשֶׁר לוֹ: \"was\" as at 24:36"
+  },
+  {
+   "ref": "25:5",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "25:5.1",
+      "25:5.2"
+     ],
+     "english": "And Abraham gave",
+     "literal": "'and-gave Abraham': the wayyiqtol with its subject."
+    },
+    {
+     "tokens": [
+      "25:5.3",
+      "25:5.4",
+      "25:5.5",
+      "25:5.6"
+     ],
+     "english": "all that was his",
+     "literal": "'[acc] all that-to-him': the object of the verb."
+    },
+    {
+     "tokens": [
+      "25:5.7"
+     ],
+     "english": "Isaac",
+     "literal": "'to-Isaac': the recipient."
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: כָּל־אֲשֶׁר לוֹ: \"was\" as at 24:36"
   }
  ],
  "verdicts": [

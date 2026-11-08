@@ -533,6 +533,13 @@
    ],
    "severity": "style",
    "reason": "The old note left out the etnaḥta, the main division, and called the tipḥa a division of the verse."
+  },
+  {
+   "ref": "24:41",
+   "path": "english",
+   "value": "Then you will be clear of my oath when you come to my kin, and if they will not give to you, you will be clear of my oath.'",
+   "severity": "error",
+   "reason": "consistency: closes Abraham's reported speech begun in 24:40, which continues in 24:41"
   }
  ],
  "verdicts": [

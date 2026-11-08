@@ -518,6 +518,339 @@
    ],
    "severity": "style",
    "reason": "The old note named Laban and Bethuel; the verse says only 'them', which includes the mother."
+  },
+  {
+   "ref": "24:49",
+   "path": "english",
+   "value": "And now, if you are dealing kindly and faithfully with my master, tell me; and if not, tell me, and I will turn to the right or to the left.\"",
+   "severity": "style",
+   "reason": "consistency: servant for Abraham: \"my master\""
+  },
+  {
+   "ref": "24:49",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:49.1",
+      "24:49.2"
+     ],
+     "english": "And now, if",
+     "literal": "and-now if"
+    },
+    {
+     "tokens": [
+      "24:49.3",
+      "24:49.4",
+      "24:49.5",
+      "24:49.6",
+      "24:49.7",
+      "24:49.8"
+     ],
+     "english": "you are dealing kindly and faithfully with my master",
+     "literal": "there-are-you doing kindness and-faithfulness with my-lord"
+    },
+    {
+     "tokens": [
+      "24:49.9",
+      "24:49.10"
+     ],
+     "english": "tell me",
+     "literal": "tell to-me"
+    },
+    {
+     "tokens": [
+      "24:49.11",
+      "24:49.12",
+      "24:49.13",
+      "24:49.14"
+     ],
+     "english": "and if not, tell me",
+     "literal": "and-if not tell to-me"
+    },
+    {
+     "tokens": [
+      "24:49.15"
+     ],
+     "english": "and I will turn",
+     "literal": "and-I-will-turn"
+    },
+    {
+     "tokens": [
+      "24:49.16",
+      "24:49.17"
+     ],
+     "english": "to the right",
+     "literal": "upon right"
+    },
+    {
+     "tokens": [
+      "24:49.18"
+     ],
+     "english": "or",
+     "literal": "or"
+    },
+    {
+     "tokens": [
+      "24:49.19",
+      "24:49.20"
+     ],
+     "english": "to the left",
+     "literal": "upon left"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: servant for Abraham: \"my master\""
+  },
+  {
+   "ref": "24:51",
+   "path": "english",
+   "value": "Here is Rebekah before you; take and go, and let her be a wife to your master's son, as the LORD has spoken.\"",
+   "severity": "style",
+   "reason": "consistency: בֶּן־אֲדֹנֶיךָ: \"master\" as in the servant's speech"
+  },
+  {
+   "ref": "24:51",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:51.1",
+      "24:51.2"
+     ],
+     "english": "Here is Rebekah",
+     "literal": "lo Rebekah"
+    },
+    {
+     "tokens": [
+      "24:51.3"
+     ],
+     "english": "before you",
+     "literal": "before-your-face"
+    },
+    {
+     "tokens": [
+      "24:51.4",
+      "24:51.5",
+      "24:51.6"
+     ],
+     "english": "take and go, and let her be",
+     "literal": "take and-go and-let-her-be"
+    },
+    {
+     "tokens": [
+      "24:51.7"
+     ],
+     "english": "a wife",
+     "literal": "wife"
+    },
+    {
+     "tokens": [
+      "24:51.8",
+      "24:51.9"
+     ],
+     "english": "to your master's son",
+     "literal": "to-son-of your-lords"
+    },
+    {
+     "tokens": [
+      "24:51.10",
+      "24:51.11",
+      "24:51.12"
+     ],
+     "english": "as the LORD has spoken",
+     "literal": "as spoke the-LORD"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: בֶּן־אֲדֹנֶיךָ: \"master\" as in the servant's speech"
+  },
+  {
+   "ref": "24:54",
+   "path": "english",
+   "value": "They ate and drank, he and the men who were with him, and they spent the night; and they rose in the morning, and he said, \"Send me away to my master.\"",
+   "severity": "style",
+   "reason": "consistency: servant for Abraham: \"my master\""
+  },
+  {
+   "ref": "24:54",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:54.1"
+     ],
+     "english": "They ate",
+     "literal": "and-they-ate"
+    },
+    {
+     "tokens": [
+      "24:54.2"
+     ],
+     "english": "and drank",
+     "literal": "and-they-drank"
+    },
+    {
+     "tokens": [
+      "24:54.3",
+      "24:54.4"
+     ],
+     "english": "he and the men",
+     "literal": "he and-the-men"
+    },
+    {
+     "tokens": [
+      "24:54.5",
+      "24:54.6"
+     ],
+     "english": "who were with him",
+     "literal": "who with-him"
+    },
+    {
+     "tokens": [
+      "24:54.7"
+     ],
+     "english": "and they spent the night",
+     "literal": "and-they-spent-the-night"
+    },
+    {
+     "tokens": [
+      "24:54.8",
+      "24:54.9"
+     ],
+     "english": "and they rose in the morning",
+     "literal": "and-they-rose in-the-morning"
+    },
+    {
+     "tokens": [
+      "24:54.10"
+     ],
+     "english": "and he said",
+     "literal": "and-he-said"
+    },
+    {
+     "tokens": [
+      "24:54.11",
+      "24:54.12"
+     ],
+     "english": "Send me away to my master",
+     "literal": "send-me-away to-my-lord"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: servant for Abraham: \"my master\""
+  },
+  {
+   "ref": "24:56",
+   "path": "english",
+   "value": "He said to them, \"Do not hold me back; the LORD has made my journey prosper. Send me away, and I will go to my master.\"",
+   "severity": "style",
+   "reason": "consistency: servant for Abraham: \"my master\""
+  },
+  {
+   "ref": "24:56",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:56.1",
+      "24:56.2"
+     ],
+     "english": "He said to them",
+     "literal": "and-said to-them"
+    },
+    {
+     "tokens": [
+      "24:56.3",
+      "24:56.4",
+      "24:56.5"
+     ],
+     "english": "Do not hold me back",
+     "literal": "not hold-back-me"
+    },
+    {
+     "tokens": [
+      "24:56.6",
+      "24:56.7",
+      "24:56.8"
+     ],
+     "english": "the LORD has made my journey prosper",
+     "literal": "and-the-LORD has-made-prosper my-journey"
+    },
+    {
+     "tokens": [
+      "24:56.9"
+     ],
+     "english": "Send me away",
+     "literal": "send-me-away"
+    },
+    {
+     "tokens": [
+      "24:56.10",
+      "24:56.11"
+     ],
+     "english": "and I will go to my master",
+     "literal": "and-I-will-go to-my-lord"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: servant for Abraham: \"my master\""
+  },
+  {
+   "ref": "24:55",
+   "path": "english",
+   "value": "Her brother and her mother said, \"Let the girl stay with us some days, or ten; after that she will go.\"",
+   "severity": "style",
+   "reason": "consistency: \"days or ten\" breaks English"
+  },
+  {
+   "ref": "24:55",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:55.1",
+      "24:55.2",
+      "24:55.3"
+     ],
+     "english": "Her brother and her mother said",
+     "literal": "said brother-of-her and-mother-of-her"
+    },
+    {
+     "tokens": [
+      "24:55.4",
+      "24:55.5",
+      "24:55.6"
+     ],
+     "english": "Let the girl stay with us",
+     "literal": "will-stay the-girl with-us"
+    },
+    {
+     "tokens": [
+      "24:55.7",
+      "24:55.8",
+      "24:55.9"
+     ],
+     "english": "some days, or ten",
+     "literal": "days or ten"
+    },
+    {
+     "tokens": [
+      "24:55.10"
+     ],
+     "english": "after that",
+     "literal": "after"
+    },
+    {
+     "tokens": [
+      "24:55.11"
+     ],
+     "english": "she will go",
+     "literal": "she-will-go"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: \"days or ten\" breaks English"
   }
  ],
  "verdicts": [

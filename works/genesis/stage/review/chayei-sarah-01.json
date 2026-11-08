@@ -515,6 +515,74 @@
    "value": "Zohar: the father of Ephron, who is called a Hittite in 23:10",
    "severity": "style",
    "reason": "'the pack's first entry' is not a note for a reader"
+  },
+  {
+   "ref": "23:8",
+   "path": "english",
+   "value": "And he spoke with them, saying, \"If it is your will to bury my dead from before me, hear me, and entreat for me with Ephron son of Zohar,",
+   "severity": "style",
+   "reason": "consistency: speech continues in 23:9 (lowercase \"that\"); full stop becomes comma"
+  },
+  {
+   "ref": "23:8",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "23:8.1",
+      "23:8.2",
+      "23:8.3"
+     ],
+     "english": "And he spoke with them, saying",
+     "literal": "'and-spoke with-them saying': the speech is introduced"
+    },
+    {
+     "tokens": [
+      "23:8.4",
+      "23:8.5",
+      "23:8.6",
+      "23:8.7"
+     ],
+     "english": "If it is your will",
+     "literal": "'if there-is with your-soul': the idiom 'if you are willing'"
+    },
+    {
+     "tokens": [
+      "23:8.8",
+      "23:8.9",
+      "23:8.10",
+      "23:8.11"
+     ],
+     "english": "to bury my dead from before me,",
+     "literal": "'to-bury (object) my-dead from-before-me': the content of the will"
+    },
+    {
+     "tokens": [
+      "23:8.12"
+     ],
+     "english": "hear me,",
+     "literal": "'hear-me': the apodosis of the condition"
+    },
+    {
+     "tokens": [
+      "23:8.13",
+      "23:8.14",
+      "23:8.15"
+     ],
+     "english": "and entreat for me with Ephron",
+     "literal": "'and-entreat for-me in-Ephron': the request made on his behalf, with the man approached"
+    },
+    {
+     "tokens": [
+      "23:8.16",
+      "23:8.17"
+     ],
+     "english": "son of Zohar,",
+     "literal": "'son-of Zohar'"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: speech continues in 23:9 (lowercase \"that\"); full stop becomes comma"
   }
  ],
  "verdicts": [

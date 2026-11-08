@@ -234,6 +234,56 @@
    "value": "The English gives the plain sense of the hifil: the servant is not to bring the son back. Ibn Ezra's remark (that Isaac is to stay in the land of Israel, for Abraham's sake) states what the prohibition secures and is recorded in the commentary. Rashi's reading of the release (a wife from the daughters of Aner, Eshkol and Mamre) is recorded and not followed.",
    "severity": "style",
    "reason": "The old note said Ibn Ezra's reading of the clause was not followed; he gives no different reading of the words."
+  },
+  {
+   "ref": "24:3",
+   "path": "english",
+   "value": "and I will make you swear by the LORD, God of heaven and God of earth, that you shall not take a wife for my son from the daughters of the Canaanites among whom I dwell,",
+   "severity": "style",
+   "reason": "consistency: sentence continues in 24:4 (\"but to my country\")"
+  },
+  {
+   "ref": "24:3",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:3.1",
+      "24:3.2",
+      "24:3.3",
+      "24:3.4",
+      "24:3.5",
+      "24:3.6"
+     ],
+     "english": "and I will make you swear by the LORD, God of heaven and God of earth,",
+     "literal": "and-I-will-make-you-swear by-LORD God-of heavens and-God-of earth"
+    },
+    {
+     "tokens": [
+      "24:3.7",
+      "24:3.8",
+      "24:3.9",
+      "24:3.10",
+      "24:3.11",
+      "24:3.12",
+      "24:3.13"
+     ],
+     "english": "that you shall not take a wife for my son from the daughters of the Canaanites",
+     "literal": "that not you-will-take wife for-my-son from-daughters-of the-Canaanite"
+    },
+    {
+     "tokens": [
+      "24:3.14",
+      "24:3.15",
+      "24:3.16",
+      "24:3.17"
+     ],
+     "english": "among whom I dwell,",
+     "literal": "that I dwell in-its-midst"
+    }
+   ],
+   "severity": "style",
+   "reason": "consistency: sentence continues in 24:4 (\"but to my country\")"
   }
  ],
  "verdicts": [
