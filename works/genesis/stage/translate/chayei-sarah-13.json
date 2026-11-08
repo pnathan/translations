@@ -1,0 +1,875 @@
+{
+  "unit": "chayei-sarah-13",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "25:6",
+      "english": "To the sons of the concubines who were Abraham's, Abraham gave gifts, and he sent them away from Isaac his son while he was still alive, eastward to the land of the east.",
+      "literal": "and-to-sons-of the-concubines which to-Abraham gave Abraham gifts and-sent-them from-upon Isaac his-son in-still-him alive eastward to land-of east",
+      "tokens": [
+        {
+          "id": "25:6.1",
+          "gloss": "and to the sons of",
+          "sense": "1"
+        },
+        {
+          "id": "25:6.2",
+          "gloss": "the concubines",
+          "sense": "1",
+          "note": "plural of פִּלֶגֶשׁ with the article; a secondary wife (see context)"
+        },
+        {
+          "id": "25:6.3",
+          "gloss": "who"
+        },
+        {
+          "id": "25:6.4",
+          "gloss": "to Abraham"
+        },
+        {
+          "id": "25:6.5",
+          "gloss": "gave",
+          "sense": "Qal 1"
+        },
+        {
+          "id": "25:6.6",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "25:6.7",
+          "gloss": "gifts"
+        },
+        {
+          "id": "25:6.8",
+          "gloss": "and sent them away",
+          "sense": "Pi 2.a",
+          "note": "wayyiqtol (sequential imperfect) of the Piel, third masculine singular, with the object suffix -ם 'them'"
+        },
+        {
+          "id": "25:6.9",
+          "gloss": "from",
+          "sense": "IV.2"
+        },
+        {
+          "id": "25:6.10",
+          "gloss": "Isaac"
+        },
+        {
+          "id": "25:6.11",
+          "gloss": "his son",
+          "sense": "1"
+        },
+        {
+          "id": "25:6.12",
+          "gloss": "while he was still",
+          "note": "בְּ + עוֹד + suffix נּוּ: 'in his still', a temporal clause with no verb"
+        },
+        {
+          "id": "25:6.13",
+          "gloss": "alive",
+          "sense": "1.b"
+        },
+        {
+          "id": "25:6.14",
+          "gloss": "eastward"
+        },
+        {
+          "id": "25:6.15",
+          "gloss": "to",
+          "sense": "9"
+        },
+        {
+          "id": "25:6.16",
+          "gloss": "land of",
+          "sense": "2.a"
+        },
+        {
+          "id": "25:6.17",
+          "gloss": "the east",
+          "sense": "1.b"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "25:6.1",
+            "25:6.2",
+            "25:6.3",
+            "25:6.4"
+          ],
+          "english": "To the sons of the concubines who were Abraham's",
+          "literal": "'and-to-sons-of the-concubines which to-Abraham'; 'were' is the copula of the verbless relative clause"
+        },
+        {
+          "tokens": [
+            "25:6.5",
+            "25:6.6",
+            "25:6.7"
+          ],
+          "english": "Abraham gave gifts",
+          "literal": "'gave Abraham gifts'; the verb comes first, the subject after it"
+        },
+        {
+          "tokens": [
+            "25:6.8",
+            "25:6.9",
+            "25:6.10",
+            "25:6.11"
+          ],
+          "english": "and he sent them away from Isaac his son",
+          "literal": "'and-sent-them from-upon Isaac his-son'; 'from upon' is the spatial sense of עַל, and 'away' comes from the Piel of שָׁלַח"
+        },
+        {
+          "tokens": [
+            "25:6.12",
+            "25:6.13"
+          ],
+          "english": "while he was still alive",
+          "literal": "'in-still-him alive'; a temporal clause, the suffix is the subject of the clause"
+        },
+        {
+          "tokens": [
+            "25:6.14",
+            "25:6.15",
+            "25:6.16",
+            "25:6.17"
+          ],
+          "english": "eastward to the land of the east",
+          "literal": "'eastward to land-of east'; the adverb and the prepositional phrase name one direction"
+        }
+      ],
+      "grammar": [
+        "The etnaḥta on מַתָּנֹת (25:6.7) closes the first clause: the gifts are set off from the sending that follows.",
+        "וַיְשַׁלְּחֵם is a wayyiqtol of the Piel continuing the narrative after נָתַן; the suffix -ם makes it 'sent them away'.",
+        "The relative clause אֲשֶׁר לְאַבְרָהָם has no verb; the English adds the copula 'were'.",
+        "בְּעוֹדֶנּוּ חַי is a temporal clause with no verb: 'in his still alive'. English supplies 'was'.",
+        "קֵדְמָה is an adverb with the directional ה, and אֶל אֶרֶץ קֶדֶם repeats the direction in a noun phrase."
+      ],
+      "commentary": [
+        {
+          "anchor": "ibn-ezra:25:6:1",
+          "relation": "records",
+          "summary": "Ibn Ezra glosses מַתָּנוֹת as money (ממון) that he gave them. The Hebrew names no kind of gift, so the English keeps 'gifts' and his reading is recorded here."
+        },
+        {
+          "anchor": "ibn-ezra:25:6:2",
+          "relation": "follows",
+          "summary": "Ibn Ezra reads קֵדְמָה אֶל אֶרֶץ קֶדֶם as 'eastward, to the land of the east'. He notes a view that the phrase means a place of a son of Ishmael and holds the first reading correct."
+        },
+        {
+          "anchor": "rashi:25:6:1",
+          "relation": "declines",
+          "summary": "Rashi takes the plural הַפִּילַגְשִׁים as written defectively (חָסֵר כְּתִיב), so that only one concubine, Hagar who is Keturah, is meant. The English keeps the plural: the verse names several sons, and this is a reading of the spelling, not the plain sense."
+        },
+        {
+          "anchor": "rashi:25:6:2",
+          "relation": "not-applicable",
+          "summary": "Rashi, citing the Sages, says Abraham handed them 'a name of impurity' (שֵׁם טֻמְאָה) and gave them all that had been given him on account of Sarah, so as not to benefit from them. A homily, not the plain sense."
+        },
+        {
+          "anchor": "ramban:25:6:1",
+          "relation": "follows",
+          "summary": "Ramban says Hagar was Sarah's maidservant and Abraham's concubine, while Keturah he took as a wife. The sons of concubines did not inherit, so their mothers are not counted as wives."
+        },
+        {
+          "anchor": "radak:25:6:1",
+          "relation": "records",
+          "summary": "Radak takes the concubines as servants of Abraham's household whose sons were born in his house. He holds that Abraham gave gifts also to Ishmael and the sons of Keturah, though the verse does not name them."
+        },
+        {
+          "anchor": "sforno:25:6:1",
+          "relation": "follows",
+          "summary": "Sforno says the verb נָתַן here is not the language of inheritance at all, so that his words would stand. The English 'gave gifts' keeps the gifts from being an inheritance."
+        }
+      ],
+      "apparatus": [
+        "The identity of the concubines is open: the commentators differ (see context)."
+      ],
+      "context": [
+        "A pilegesh is a secondary partner, not the principal wife. The commentators differ on who these women were: Rashi takes them as one concubine, Hagar; Radak as servants of the household; Ramban as women not counted as wives because their sons did not inherit. The English keeps 'concubines' and leaves the status open.",
+        "Eretz qedem, 'the land of the east', is the region east of the land (Ibn Ezra). Radak names Haran and Ur of the Chaldeans. The text names no place, and Ibn Ezra records a view that it means a place of a son of Ishmael."
+      ],
+      "note": "The English takes מַתָּנוֹת as 'gifts', the general sense of the lexicon; Ibn Ezra's 'money' is recorded in the commentary, since the Hebrew names no kind. 'Eastward to the land of the east' follows Ibn Ezra."
+    },
+    {
+      "ref": "25:7",
+      "english": "These are the days of the years of the life of Abraham which he lived: a hundred and seventy-five years.",
+      "literal": "and-these days-of years-of lives-of Abraham which lived hundred year and-seventy year and-five years",
+      "tokens": [
+        {
+          "id": "25:7.1",
+          "gloss": "and these are",
+          "sense": "b"
+        },
+        {
+          "id": "25:7.2",
+          "gloss": "the days of",
+          "sense": "4"
+        },
+        {
+          "id": "25:7.3",
+          "gloss": "the years of",
+          "note": "the dual construct שְׁנֵי of שָׁנָה; the pack's parse calls it a cardinal number, kept as data"
+        },
+        {
+          "id": "25:7.4",
+          "gloss": "the life of",
+          "sense": "1"
+        },
+        {
+          "id": "25:7.5",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "25:7.6",
+          "gloss": "which"
+        },
+        {
+          "id": "25:7.7",
+          "gloss": "he lived",
+          "sense": "Qal 1",
+          "note": "qatal, third masculine singular; the verb has no object"
+        },
+        {
+          "id": "25:7.8",
+          "gloss": "a hundred",
+          "sense": "2",
+          "note": "the hundred is a part of the larger number 175"
+        },
+        {
+          "id": "25:7.9",
+          "gloss": "years"
+        },
+        {
+          "id": "25:7.10",
+          "gloss": "and seventy"
+        },
+        {
+          "id": "25:7.11",
+          "gloss": "years"
+        },
+        {
+          "id": "25:7.12",
+          "gloss": "and five"
+        },
+        {
+          "id": "25:7.13",
+          "gloss": "years"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "25:7.1",
+            "25:7.2",
+            "25:7.3",
+            "25:7.4",
+            "25:7.5"
+          ],
+          "english": "These are the days of the years of the life of Abraham",
+          "literal": "'and-these days-of years-of lives-of Abraham'; 'are' is the copula of a verbless clause"
+        },
+        {
+          "tokens": [
+            "25:7.6",
+            "25:7.7"
+          ],
+          "english": "which he lived",
+          "literal": "'which lived'; the verb has no object, and 'he' is the subject the verb carries"
+        },
+        {
+          "tokens": [
+            "25:7.8",
+            "25:7.9",
+            "25:7.10",
+            "25:7.11",
+            "25:7.12",
+            "25:7.13"
+          ],
+          "english": "a hundred and seventy-five years",
+          "literal": "'hundred year and-seventy year and-five years'; the Hebrew gives three parts, English one number"
+        }
+      ],
+      "grammar": [
+        "וְאֵלֶּה opens a verbless clause, 'these are the days', with the demonstrative as subject.",
+        "The number is built by addition: מְאַת שָׁנָה, וְשִׁבְעִים שָׁנָה, וְחָמֵשׁ שָׁנִים. English combines them into one number.",
+        "The relative clause אֲשֶׁר־חָי has a perfect verb with no object, so 'which he lived' ends the clause before the number."
+      ],
+      "commentary": [
+        {
+          "anchor": "radak:25:7:1",
+          "relation": "not-applicable",
+          "summary": "Radak says חָי is a past verb whose root is ḥ-y-y or ḥ-y-h. A note on the root; the English 'lived' is the same either way."
+        },
+        {
+          "anchor": "rashi:25:7:1",
+          "relation": "not-applicable",
+          "summary": "Rashi reads the figures by comparison: a hundred is like seventy, seventy like five, 'without sin'. A remark on the figures, not the plain sense."
+        }
+      ],
+      "apparatus": [],
+      "context": [],
+      "note": "The English reads the three numbers as one sum, a hundred and seventy-five, which is what the Hebrew adds up to."
+    },
+    {
+      "ref": "25:8",
+      "english": "Abraham expired and died at a good old age, old and satisfied, and was gathered to his people.",
+      "literal": "and-expired and-died Abraham in-old-age good old and-satisfied and-was-gathered to his-people",
+      "tokens": [
+        {
+          "id": "25:8.1",
+          "gloss": "and expired",
+          "note": "wayyiqtol of גָּוַע; Ibn Ezra reads it as a quick death, see commentary"
+        },
+        {
+          "id": "25:8.2",
+          "gloss": "and died",
+          "sense": "Qal 1",
+          "note": "wayyiqtol of מוּת"
+        },
+        {
+          "id": "25:8.3",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "25:8.4",
+          "gloss": "in old age"
+        },
+        {
+          "id": "25:8.5",
+          "gloss": "good",
+          "sense": "3"
+        },
+        {
+          "id": "25:8.6",
+          "gloss": "old",
+          "sense": "1"
+        },
+        {
+          "id": "25:8.7",
+          "gloss": "and satisfied"
+        },
+        {
+          "id": "25:8.8",
+          "gloss": "and was gathered",
+          "sense": "Niph 1",
+          "note": "wayyiqtol of the Niphal; the idiom is kept plain"
+        },
+        {
+          "id": "25:8.9",
+          "gloss": "to",
+          "sense": "1"
+        },
+        {
+          "id": "25:8.10",
+          "gloss": "his people"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "25:8.1",
+            "25:8.2",
+            "25:8.3"
+          ],
+          "english": "Abraham expired and died",
+          "literal": "'expired and died Abraham'; the two wayyiqtol verbs come before the subject"
+        },
+        {
+          "tokens": [
+            "25:8.4",
+            "25:8.5",
+            "25:8.6",
+            "25:8.7"
+          ],
+          "english": "at a good old age, old and satisfied",
+          "literal": "'in-old-age good old and-satisfied'; the two adjectives describe Abraham"
+        },
+        {
+          "tokens": [
+            "25:8.8",
+            "25:8.9",
+            "25:8.10"
+          ],
+          "english": "and was gathered to his people",
+          "literal": "'and-was-gathered to his-people'; the idiom keeps the Hebrew's kin-word plural"
+        }
+      ],
+      "grammar": [
+        "Two wayyiqtol verbs open the verse, and the subject follows them: 'expired and died Abraham'.",
+        "The verse has two adjectives, זָקֵן and שָׂבֵעַ, describing Abraham at his death, joined by ו.",
+        "The verse ends with the Niphal וַיֵּאָסֶף and the plural עַמָּיו, the idiom of being gathered to one's kin."
+      ],
+      "commentary": [
+        {
+          "anchor": "ibn-ezra:25:8:1",
+          "relation": "follows",
+          "summary": "Ibn Ezra says גָּוַע is the departure of the spirit from the body in one moment, without suffering or delay; every גְּוִיעָה is a death, but not every death is a גְּוִיעָה. The English keeps the two verbs apart: 'expired and died'."
+        },
+        {
+          "anchor": "ibn-ezra:25:8:2",
+          "relation": "follows",
+          "summary": "Ibn Ezra says וַיָּמׇת means that he died 'in a good old age' (שֶׁמֵּת בְּשֵׂיבָה טוֹבָה). The English 'died at a good old age' takes the phrase so."
+        },
+        {
+          "anchor": "ibn-ezra:25:8:3",
+          "relation": "records",
+          "summary": "Ibn Ezra gives two readings of וַיֵּאָסֶף אֶל עַמָּיו: some take it of the honour of the soul, which, separated from the body, is gathered to its people; others take it as the idiom, meaning that he went in the way of his fathers, as if joining them. The English keeps the idiom plain and records both."
+        },
+        {
+          "anchor": "ramban:25:8:1",
+          "relation": "records",
+          "summary": "Ramban says זָקֵן וְשָׂבֵעַ means that he saw all the desires of his heart and was sated of all good, as he says of David's death. This reading is recorded; the English 'satisfied' does not exclude it."
+        },
+        {
+          "anchor": "sforno:25:8:1",
+          "relation": "records",
+          "summary": "Sforno says 'satisfied' means satisfied with all that he desired to see and do in his days."
+        },
+        {
+          "anchor": "radak:25:8:4",
+          "relation": "records",
+          "summary": "Radak says 'gathered to his people' means gathered to the members of his family who had died before him, and that the phrase is used of fathers, righteous or wicked."
+        }
+      ],
+      "apparatus": [
+        "'Gathered to his people' is kept as the Hebrew idiom; its meaning is given in the commentary."
+      ],
+      "context": [],
+      "note": "The English keeps the two verbs apart as Ibn Ezra does: 'expired' for גָּוַע, 'died' for מוּת. Whether the death was quick is not in the English."
+    },
+    {
+      "ref": "25:9",
+      "english": "Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron son of Zohar the Hittite, which is before Mamre.",
+      "literal": "and-buried-him Isaac and-Ishmael his-sons to cave-of the-Machpelah to field-of Ephron son-of Zohar the-Hittite which upon-face-of Mamre",
+      "tokens": [
+        {
+          "id": "25:9.1",
+          "gloss": "and buried",
+          "sense": "Qal",
+          "note": "wayyiqtol, third masculine plural; the subject is the two sons"
+        },
+        {
+          "id": "25:9.2",
+          "gloss": "him",
+          "note": "the object marker אֵת with the suffix; English has no separate word for the marker"
+        },
+        {
+          "id": "25:9.3",
+          "gloss": "Isaac"
+        },
+        {
+          "id": "25:9.4",
+          "gloss": "and Ishmael",
+          "sense": "1"
+        },
+        {
+          "id": "25:9.5",
+          "gloss": "his sons",
+          "sense": "1"
+        },
+        {
+          "id": "25:9.6",
+          "gloss": "in",
+          "sense": "2"
+        },
+        {
+          "id": "25:9.7",
+          "gloss": "the cave of",
+          "note": "construct chain מְעָרַת הַמַּכְפֵּלָה, 'the cave of the Machpelah'"
+        },
+        {
+          "id": "25:9.8",
+          "gloss": "Machpelah"
+        },
+        {
+          "id": "25:9.9",
+          "gloss": "in",
+          "sense": "2"
+        },
+        {
+          "id": "25:9.10",
+          "gloss": "the field of",
+          "sense": "1"
+        },
+        {
+          "id": "25:9.11",
+          "gloss": "Ephron",
+          "sense": "1"
+        },
+        {
+          "id": "25:9.12",
+          "gloss": "son of",
+          "sense": "1"
+        },
+        {
+          "id": "25:9.13",
+          "gloss": "Zohar",
+          "sense": "1"
+        },
+        {
+          "id": "25:9.14",
+          "gloss": "the Hittite"
+        },
+        {
+          "id": "25:9.15",
+          "gloss": "which"
+        },
+        {
+          "id": "25:9.16",
+          "gloss": "is before"
+        },
+        {
+          "id": "25:9.17",
+          "gloss": "face of",
+          "sense": "I.1"
+        },
+        {
+          "id": "25:9.18",
+          "gloss": "Mamre"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "25:9.1",
+            "25:9.2",
+            "25:9.3",
+            "25:9.4",
+            "25:9.5"
+          ],
+          "english": "Isaac and Ishmael his sons buried him",
+          "literal": "'and-buried-him Isaac and-Ishmael his-sons'; the verb comes first, with the object marker and suffix"
+        },
+        {
+          "tokens": [
+            "25:9.6",
+            "25:9.7",
+            "25:9.8"
+          ],
+          "english": "in the cave of Machpelah",
+          "literal": "'to cave-of the-Machpelah'; the preposition is read as position, see commentary"
+        },
+        {
+          "tokens": [
+            "25:9.9",
+            "25:9.10",
+            "25:9.11",
+            "25:9.12",
+            "25:9.13",
+            "25:9.14"
+          ],
+          "english": "in the field of Ephron son of Zohar the Hittite",
+          "literal": "'to field-of Ephron son-of Zohar the-Hittite'; the construct chain names the field's owner"
+        },
+        {
+          "tokens": [
+            "25:9.15",
+            "25:9.16",
+            "25:9.17",
+            "25:9.18"
+          ],
+          "english": "which is before Mamre",
+          "literal": "'which upon-face-of Mamre'; 'upon the face of' is the idiom for 'before'"
+        }
+      ],
+      "grammar": [
+        "The verb וַיִּקְבְּרוּ is third masculine plural with two subjects, Isaac and Ishmael, so the English names both before the verb's object.",
+        "The cave is named in a construct chain: מְעָרַת הַמַּכְפֵּלָה, 'the cave of the Machpelah'.",
+        "The relative clause אֲשֶׁר עַל־פְּנֵי מַמְרֵא describes the field: 'which is before Mamre'."
+      ],
+      "commentary": [
+        {
+          "anchor": "radak:25:9:2",
+          "relation": "follows",
+          "summary": "Radak says 'to the cave' (אֶל מְעָרַת) means 'in the cave in the field' (כְּלוֹמַר בִּמְעָרַת בַּשָּׂדֶה). The English 'in the cave' and 'in the field' follows him."
+        },
+        {
+          "anchor": "rashi:25:9:1",
+          "relation": "not-applicable",
+          "summary": "Rashi says Ishmael repented here and led Isaac before him, and that this is the 'good old age' said of Abraham. A homily, not the plain sense."
+        },
+        {
+          "anchor": "ramban:25:9:1",
+          "relation": "not-applicable",
+          "summary": "Ramban says the son of the maidservant gives honour to the son of the mistress, as the Midrash has it. A homily on the order of the sons."
+        }
+      ],
+      "apparatus": [],
+      "context": [],
+      "note": "The Hebrew אֶל is 'to'; the English 'in' follows Radak's reading of the cave as in the field."
+    },
+    {
+      "ref": "25:10",
+      "english": "The field that Abraham bought from the Hittites; there Abraham was buried, and Sarah his wife.",
+      "literal": "the-field which bought Abraham from sons-of Heth there was-buried Abraham and-Sarah his-wife",
+      "tokens": [
+        {
+          "id": "25:10.1",
+          "gloss": "the field",
+          "sense": "1"
+        },
+        {
+          "id": "25:10.2",
+          "gloss": "which"
+        },
+        {
+          "id": "25:10.3",
+          "gloss": "bought",
+          "sense": "Qal 2"
+        },
+        {
+          "id": "25:10.4",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "25:10.5",
+          "gloss": "from",
+          "sense": "4"
+        },
+        {
+          "id": "25:10.6",
+          "gloss": "the Hittites",
+          "sense": "1",
+          "note": "בְּנֵי־חֵת, 'sons of Heth', rendered 'the Hittites' as the decisions require; the literal line keeps 'sons-of Heth'"
+        },
+        {
+          "id": "25:10.7",
+          "gloss": "Heth"
+        },
+        {
+          "id": "25:10.8",
+          "gloss": "there"
+        },
+        {
+          "id": "25:10.9",
+          "gloss": "was buried",
+          "sense": "Pu"
+        },
+        {
+          "id": "25:10.10",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "25:10.11",
+          "gloss": "and Sarah"
+        },
+        {
+          "id": "25:10.12",
+          "gloss": "his wife",
+          "sense": "2"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "25:10.1",
+            "25:10.2",
+            "25:10.3",
+            "25:10.4"
+          ],
+          "english": "The field that Abraham bought",
+          "literal": "'the-field which bought Abraham'; the relative clause has a perfect verb"
+        },
+        {
+          "tokens": [
+            "25:10.5",
+            "25:10.6",
+            "25:10.7"
+          ],
+          "english": "from the Hittites",
+          "literal": "'from sons-of Heth'; see the token note on the rendering"
+        },
+        {
+          "tokens": [
+            "25:10.8",
+            "25:10.9",
+            "25:10.10"
+          ],
+          "english": "there Abraham was buried",
+          "literal": "'there was-buried Abraham'; the adverb comes first, the verb before its subject"
+        },
+        {
+          "tokens": [
+            "25:10.11",
+            "25:10.12"
+          ],
+          "english": "and Sarah his wife",
+          "literal": "'and-Sarah his-wife'; the subject is joined to Abraham by ו"
+        }
+      ],
+      "grammar": [
+        "The relative clause אֲשֶׁר קָנָה has a perfect verb and no object: 'which Abraham bought'.",
+        "שָׁמָּה 'there' comes before the pual קֻבַּר, so the adverb stands at the head of the clause.",
+        "Abraham and Sarah are joined by ו and share the one verb קֻבַּר."
+      ],
+      "commentary": [
+        {
+          "anchor": "radak:25:10:1",
+          "relation": "not-applicable",
+          "summary": "Radak says wherever the cave is named the field is named with it, to show Abraham's love: he found no place to bury her until he bought it. A remark on the narrative, not on the words."
+        },
+        {
+          "anchor": "radak:25:10:2",
+          "relation": "not-applicable",
+          "summary": "Radak refers the phrase מֵאֵת בְּנֵי־חֵת back to his explanation in chapter 23. A cross-reference."
+        },
+        {
+          "anchor": "radak:25:10:3",
+          "relation": "follows",
+          "summary": "Radak says the singular קֻבַּר is applied to Abraham and Sarah together, since the mention of the verb applies to the one joined to it. The English 'and Sarah his wife' takes it so."
+        }
+      ],
+      "apparatus": [
+        "'Sons of Heth' is rendered 'the Hittites' as the decisions require; the Hebrew is kept in the literal line."
+      ],
+      "context": [
+        "The Hittites (בְּנֵי־חֵת): their relation to the Hittites of Anatolia is disputed. Scholars differ on whether the people named here are the Anatolian people of that name or a local group in Canaan. The English keeps 'the Hittites' and leaves the question open."
+      ],
+      "note": "'Sons of Heth' is rendered 'the Hittites' as the decisions require."
+    },
+    {
+      "ref": "25:11",
+      "english": "And it came to pass after the death of Abraham that God blessed Isaac his son, and Isaac dwelt by Beer-lahai-roi.",
+      "literal": "and-it-was after death-of Abraham and-blessed God (OBJ) Isaac his-son and-dwelt Isaac with well-of Lahai Roi",
+      "tokens": [
+        {
+          "id": "25:11.1",
+          "gloss": "and it came to pass",
+          "sense": "Qal I.2.a.(1)",
+          "note": "wayyiqtol of הָיָה, the formula that opens the sentence"
+        },
+        {
+          "id": "25:11.2",
+          "gloss": "after",
+          "sense": "2.b"
+        },
+        {
+          "id": "25:11.3",
+          "gloss": "the death of",
+          "sense": "1"
+        },
+        {
+          "id": "25:11.4",
+          "gloss": "Abraham"
+        },
+        {
+          "id": "25:11.5",
+          "gloss": "and blessed",
+          "sense": "Pi 2"
+        },
+        {
+          "id": "25:11.6",
+          "gloss": "God",
+          "sense": "4"
+        },
+        {
+          "id": "25:11.7",
+          "gloss": "-"
+        },
+        {
+          "id": "25:11.8",
+          "gloss": "Isaac"
+        },
+        {
+          "id": "25:11.9",
+          "gloss": "his son",
+          "sense": "1"
+        },
+        {
+          "id": "25:11.10",
+          "gloss": "and dwelt",
+          "sense": "Qal 3",
+          "note": "wayyiqtol"
+        },
+        {
+          "id": "25:11.11",
+          "gloss": "Isaac"
+        },
+        {
+          "id": "25:11.12",
+          "gloss": "by",
+          "sense": "2"
+        },
+        {
+          "id": "25:11.13",
+          "gloss": "Beer",
+          "note": "the place name בְּאֵר לַחַי רֹאִי, 'well of the living one who sees me' (lexicon); transliterated, the meaning is in the notes"
+        },
+        {
+          "id": "25:11.14",
+          "gloss": "Lahai"
+        },
+        {
+          "id": "25:11.15",
+          "gloss": "Roi"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "25:11.1",
+            "25:11.2",
+            "25:11.3",
+            "25:11.4"
+          ],
+          "english": "And it came to pass after the death of Abraham",
+          "literal": "'and-it-was after death-of Abraham'; the formula, then the temporal phrase"
+        },
+        {
+          "tokens": [
+            "25:11.5",
+            "25:11.6",
+            "25:11.7",
+            "25:11.8",
+            "25:11.9"
+          ],
+          "english": "that God blessed Isaac his son",
+          "literal": "'and-blessed God (OBJ) Isaac his-son'; 'that' introduces the clause after the formula"
+        },
+        {
+          "tokens": [
+            "25:11.10",
+            "25:11.11",
+            "25:11.12",
+            "25:11.13",
+            "25:11.14",
+            "25:11.15"
+          ],
+          "english": "and Isaac dwelt by Beer-lahai-roi",
+          "literal": "'and-dwelt Isaac with well-of Lahai Roi'; the place name is one name in Hebrew and one in English"
+        }
+      ],
+      "grammar": [
+        "The wayyiqtol וַיְהִי opens the sentence with the formula 'and it came to pass', then the temporal phrase.",
+        "The object marker before יִצְחָק has no English word; the suffix of בְּנוֹ 'his son' is in apposition to Isaac.",
+        "The verb וַיֵּשֶׁב comes again with its subject Isaac, after the object clause."
+      ],
+      "commentary": [
+        {
+          "anchor": "rashi:25:11:1",
+          "relation": "not-applicable",
+          "summary": "Rashi says the verse is a consolation for mourners: God, who had given the blessings to Abraham, feared to bless Isaac because he foresaw Esau coming from him, and so waited for the one who had the blessings to come and bless him. A homily, not the plain sense."
+        },
+        {
+          "anchor": "ramban:25:11:1",
+          "relation": "follows",
+          "summary": "Ramban says עִם בְּאֵר לַחַי רֹאִי means near that place, or, because a well is not a city, that Isaac pitched his tent near the well. The English 'by Beer-lahai-roi' follows."
+        },
+        {
+          "anchor": "radak:25:11:1",
+          "relation": "records",
+          "summary": "Radak says וַיְבָרֶךְ means that God made Isaac prosper in his doings, as his father had prospered. The English keeps 'blessed' and records this reading."
+        },
+        {
+          "anchor": "radak:25:11:2",
+          "relation": "follows",
+          "summary": "Radak says עִם here means 'as at the well', as in 'in the well'. The English 'by' takes it so."
+        }
+      ],
+      "apparatus": [],
+      "context": [],
+      "note": "Beer-lahai-roi is transliterated; the lexicon gives 'well of the living one who sees me'."
+    }
+  ]
+}
