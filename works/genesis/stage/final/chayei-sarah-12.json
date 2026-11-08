@@ -4,7 +4,7 @@
  "segments": [
   {
    "ref": "24:65",
-   "english": "And she said to the servant, \"Who is this man walking in the field to meet us?\" And the servant said, \"He is my lord.\" And she took the veil and covered herself.",
+   "english": "And she said to the servant, \"Who is this man walking in the field to meet us?\" And the servant said, \"He is my master.\" And she took the veil and covered herself.",
    "literal": "and-she-said to the-servant who the-man this the-walking in-the-field for-meeting-us and-said the-servant he my-lord and-she-took the-veil and-she-covered-herself",
    "tokens": [
     {
@@ -132,7 +132,7 @@
       "24:65.12",
       "24:65.13"
      ],
-     "english": "He is my lord",
+     "english": "He is my master",
      "literal": "'he my-lord': a verbless clause; 'is' is the English copula."
     },
     {
@@ -935,7 +935,7 @@
   },
   {
    "ref": "25:5",
-   "english": "And Abraham gave Isaac all that is his.",
+   "english": "And Abraham gave Isaac all that was his.",
    "literal": "and-gave Abraham [acc] all that-to-him to-Isaac",
    "tokens": [
     {
@@ -988,7 +988,7 @@
       "25:5.5",
       "25:5.6"
      ],
-     "english": "all that is his",
+     "english": "all that was his",
      "literal": "'[acc] all that-to-him': the object of the verb."
     },
     {

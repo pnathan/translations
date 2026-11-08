@@ -2,7 +2,7 @@
 
 Translated from the Hebrew (MAM) by a model pipeline; every unit reviewed. Provenance at the end.
 
-Units without a reviewed translation: chayei-sarah-04, chayei-sarah-06, chayei-sarah-07, chayei-sarah-08, chayei-sarah-09, chayei-sarah-10, chayei-sarah-11, chayei-sarah-12, chayei-sarah-13, chayei-sarah-14, toldot-01, toldot-02, toldot-03, toldot-04, toldot-05, toldot-06, toldot-07, toldot-08, toldot-09, toldot-10, toldot-11, toldot-12, toldot-13, toldot-14, vayetze-01, vayetze-02, vayetze-03, vayetze-04, vayetze-05, vayetze-06, vayetze-07, vayetze-08, vayetze-09, vayetze-10, vayetze-11, vayetze-12, vayetze-13, vayetze-14, vayetze-15, vayetze-16, vayetze-17, vayetze-18, vayetze-19, vayishlach-01, vayishlach-02, vayishlach-03, vayishlach-04, vayishlach-05, vayishlach-06, vayishlach-07, vayishlach-08, vayishlach-09, vayishlach-10, vayishlach-11, vayishlach-12, vayishlach-13, vayishlach-14, vayishlach-15, vayishlach-16, vayishlach-17, vayishlach-18, vayishlach-19, vayishlach-20, vayeshev-01, vayeshev-02, vayeshev-03, vayeshev-04, vayeshev-05, vayeshev-06, vayeshev-07, vayeshev-08, vayeshev-09, vayeshev-10, vayeshev-11, vayeshev-12, vayeshev-13, vayeshev-14, vayeshev-15, miketz-01, miketz-02, miketz-03, miketz-04, miketz-05, miketz-06, miketz-07, miketz-08, miketz-09, miketz-10, miketz-11, miketz-12, miketz-13, miketz-14, miketz-15, miketz-16, miketz-17, miketz-18, miketz-19, vayigash-01, vayigash-02, vayigash-03, vayigash-04, vayigash-05, vayigash-06, vayigash-07, vayigash-08, vayigash-09, vayigash-10, vayigash-11, vayigash-12, vayigash-13, vayigash-14, vayigash-15, vayechi-01, vayechi-02, vayechi-03, vayechi-04, vayechi-05, vayechi-06, vayechi-07, vayechi-08, vayechi-09, vayechi-10, vayechi-11, vayechi-12, vayechi-13.
+Units without a reviewed translation: toldot-01, toldot-02, toldot-03, toldot-04, toldot-05, toldot-06, toldot-07, toldot-08, toldot-09, toldot-10, toldot-11, toldot-12, toldot-13, toldot-14, vayetze-01, vayetze-02, vayetze-03, vayetze-04, vayetze-05, vayetze-06, vayetze-07, vayetze-08, vayetze-09, vayetze-10, vayetze-11, vayetze-12, vayetze-13, vayetze-14, vayetze-15, vayetze-16, vayetze-17, vayetze-18, vayetze-19, vayishlach-01, vayishlach-02, vayishlach-03, vayishlach-04, vayishlach-05, vayishlach-06, vayishlach-07, vayishlach-08, vayishlach-09, vayishlach-10, vayishlach-11, vayishlach-12, vayishlach-13, vayishlach-14, vayishlach-15, vayishlach-16, vayishlach-17, vayishlach-18, vayishlach-19, vayishlach-20, vayeshev-01, vayeshev-02, vayeshev-03, vayeshev-04, vayeshev-05, vayeshev-06, vayeshev-07, vayeshev-08, vayeshev-09, vayeshev-10, vayeshev-11, vayeshev-12, vayeshev-13, vayeshev-14, vayeshev-15, miketz-01, miketz-02, miketz-03, miketz-04, miketz-05, miketz-06, miketz-07, miketz-08, miketz-09, miketz-10, miketz-11, miketz-12, miketz-13, miketz-14, miketz-15, miketz-16, miketz-17, miketz-18, miketz-19, vayigash-01, vayigash-02, vayigash-03, vayigash-04, vayigash-05, vayigash-06, vayigash-07, vayigash-08, vayigash-09, vayigash-10, vayigash-11, vayigash-12, vayigash-13, vayigash-14, vayigash-15, vayechi-01, vayechi-02, vayechi-03, vayechi-04, vayechi-05, vayechi-06, vayechi-07, vayechi-08, vayechi-09, vayechi-10, vayechi-11, vayechi-12, vayechi-13.
 
 ## Bereshit — בְּרֵאשִׁית (Genesis 1:1–6:8)
 
@@ -24836,9 +24836,13 @@ Ancient Near East:
 
 ### Reading text
 
-<sup>23:1</sup> And Sarah's life was a hundred years and twenty years and seven years: the years of Sarah's life. <sup>23:2</sup> And Sarah died in Kiriath-arba, that is Hebron, in the land of Canaan; and Abraham came to mourn for Sarah and to weep over her. <sup>23:3</sup> And Abraham rose from before his dead and spoke to the Hittites, saying, <sup>23:4</sup> "I am a sojourner and a resident among you. Give me a possession of a grave among you, that I may bury my dead from before me." <sup>23:5</sup> And the Hittites answered Abraham, saying to him, <sup>23:6</sup> "Hear us, my lord; you are a prince of God among us. In the choicest of our graves bury your dead. No man of us will withhold his grave from you, from burying your dead." <sup>23:7</sup> And Abraham rose and bowed down to the people of the land, to the Hittites. <sup>23:8</sup> And he spoke with them, saying, "If it is your will to bury my dead from before me, hear me, and entreat for me with Ephron son of Zohar. <sup>23:9</sup> that he may give me the cave of Machpelah, which is his, which is at the end of his field; for full silver let him give it to me among you as a possession of a grave." <sup>23:10</sup> Now Ephron was dwelling among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites, to all who came in at the gate of his city, saying, <sup>23:11</sup> "No, my lord, hear me. The field I have given to you, and the cave which is in it I have given it to you; in the sight of my people I have given it to you. Bury your dead." <sup>23:12</sup> And Abraham bowed down before the people of the land. <sup>23:13</sup> And he spoke to Ephron in the hearing of the people of the land, saying, "But if you would hear me, I give the price of the field; take from me, and I will bury my dead there." <sup>23:14</sup> And Ephron answered Abraham, saying to him, <sup>23:15</sup> "My lord, hear me. Land, four hundred shekels of silver, between me and you: what is it? And bury your dead." <sup>23:16</sup> And Abraham listened to Ephron, and Abraham weighed out to Ephron the silver which he had spoken in the hearing of the Hittites, four hundred shekels of silver by the merchants' standard. <sup>23:17</sup> And the field of Ephron which was in Machpelah, which was before Mamre, stood: the field and the cave which was in it, and all the trees which were in the field, which were within all its border all around. <sup>23:18</sup> To Abraham as a purchase, in the sight of the Hittites, among all who came in at the gate of his city. <sup>23:19</sup> And afterwards Abraham buried Sarah, his wife, into the cave of the field of Machpelah, facing Mamre, that is Hebron, in the land of Canaan. <sup>23:20</sup> And the field and the cave which was in it stood to Abraham as a possession for a grave from the Hittites.
+<sup>23:1</sup> And Sarah's life was a hundred years and twenty years and seven years: the years of Sarah's life. <sup>23:2</sup> And Sarah died in Kiriath-arba, that is Hebron, in the land of Canaan; and Abraham came to mourn for Sarah and to weep over her. <sup>23:3</sup> And Abraham rose from before his dead and spoke to the Hittites, saying, <sup>23:4</sup> "I am a sojourner and a resident among you. Give me a possession of a grave among you, that I may bury my dead from before me." <sup>23:5</sup> And the Hittites answered Abraham, saying to him, <sup>23:6</sup> "Hear us, my lord; you are a prince of God among us. In the choicest of our graves bury your dead. No man of us will withhold his grave from you, from burying your dead." <sup>23:7</sup> And Abraham rose and bowed down to the people of the land, to the Hittites. <sup>23:8</sup> And he spoke with them, saying, "If it is your will to bury my dead from before me, hear me, and entreat for me with Ephron son of Zohar, <sup>23:9</sup> that he may give me the cave of Machpelah, which is his, which is at the end of his field; for full silver let him give it to me among you as a possession of a grave." <sup>23:10</sup> Now Ephron was dwelling among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites, to all who came in at the gate of his city, saying, <sup>23:11</sup> "No, my lord, hear me. The field I have given to you, and the cave which is in it I have given to you; in the sight of my people I have given it to you. Bury your dead." <sup>23:12</sup> And Abraham bowed down before the people of the land. <sup>23:13</sup> And he spoke to Ephron in the hearing of the people of the land, saying, "But if you would hear me, I give the price of the field; take from me, and I will bury my dead there." <sup>23:14</sup> And Ephron answered Abraham, saying to him, <sup>23:15</sup> "My lord, hear me. Land, four hundred shekels of silver, between me and you: what is it? And bury your dead." <sup>23:16</sup> And Abraham listened to Ephron, and Abraham weighed out to Ephron the silver which he had spoken in the hearing of the Hittites, four hundred shekels of silver by the merchants' standard. <sup>23:17</sup> And the field of Ephron which was in Machpelah, which was before Mamre, was made over: the field and the cave which was in it, and all the trees which were in the field, which were within its whole border all around. <sup>23:18</sup> to Abraham as a purchase, in the sight of the Hittites, among all who came in at the gate of his city. <sup>23:19</sup> And afterwards Abraham buried Sarah, his wife, in the cave of the field of Machpelah, before Mamre, that is Hebron, in the land of Canaan. <sup>23:20</sup> And the field and the cave which was in it were made over to Abraham as a possession for a grave from the Hittites.
 
-<sup>24:9</sup> And the servant put his hand under the thigh of Abraham his master, and he swore to him concerning this matter. <sup>24:10</sup> And the servant took ten camels from his master's camels and went, and all the goods of his master in his hand, and he arose and went to Aram-naharaim, to the city of Nahor. <sup>24:11</sup> And he made the camels kneel outside the city by the well of water at evening, at the time of the going out of the women who draw. <sup>24:12</sup> And he said, "LORD God of my master Abraham, please make it happen before me today, and show kindness to my master Abraham. <sup>24:13</sup> Look, I am standing by the spring of water, and the daughters of the men of the city are going out to draw water. <sup>24:14</sup> And it shall be that the girl to whom I say, 'Please tilt your jar, and I will drink,' and she will say, 'Drink, and I will also water your camels,' you have proved her for your servant, for Isaac; and by her I shall know that you have shown kindness to my master." <sup>24:15</sup> And it came to pass, before he finished speaking, and look, Rebekah was coming out, who was born to Bethuel son of Milcah, wife of Nahor brother of Abraham, and her jar on her shoulder. <sup>24:16</sup> And the girl was very good-looking, a virgin, and no man had known her. She went down to the spring, filled her jar, and came up.
+<sup>24:1</sup> Abraham was old and advanced in years, and the LORD had blessed Abraham in all things. <sup>24:2</sup> Abraham said to his servant, the elder of his household, who ruled over all that he had, "Put your hand under my thigh, please, <sup>24:3</sup> and I will make you swear by the LORD, God of heaven and God of earth, that you shall not take a wife for my son from the daughters of the Canaanites among whom I dwell, <sup>24:4</sup> but to my country and to my birthplace you shall go, and take a wife for my son Isaac." <sup>24:5</sup> The servant said to him, "Perhaps the woman will not be willing to follow me to this land. Shall I indeed bring back your son to the land from which you came?" <sup>24:6</sup> Abraham said to him, "Take heed to yourself, lest you bring back my son there. <sup>24:7</sup> The LORD, God of heaven, who took me from my father's house and from the land of my birth, and who spoke to me and who swore to me, saying, 'To your offspring I will give this land'; may he send his angel before you, and you shall take a wife for my son from there. <sup>24:8</sup> If the woman will not be willing to follow you, then you shall be clear of this oath of mine; only my son you shall not bring back there." <sup>24:9</sup> And the servant put his hand under the thigh of Abraham his master, and he swore to him concerning this matter. <sup>24:10</sup> And the servant took ten camels from his master's camels and went, and all the goods of his master in his hand, and he arose and went to Aram-naharaim, to the city of Nahor. <sup>24:11</sup> And he made the camels kneel outside the city by the well of water at evening, at the time of the going out of the women who draw. <sup>24:12</sup> And he said, "LORD, God of my master Abraham, please make it happen before me today, and show kindness to my master Abraham. <sup>24:13</sup> Look, I am standing by the spring of water, and the daughters of the men of the city are going out to draw water. <sup>24:14</sup> And it shall be that the girl to whom I say, 'Please tilt your jar, and I will drink,' and she will say, 'Drink, and I will also water your camels,' you have proved her for your servant, for Isaac; and by her I shall know that you have shown kindness to my master." <sup>24:15</sup> And it came to pass, before he finished speaking, and look, Rebekah was coming out, who was born to Bethuel son of Milcah, wife of Nahor brother of Abraham, and her jar on her shoulder. <sup>24:16</sup> And the girl was very good-looking, a virgin, and no man had known her. She went down to the spring, filled her jar, and came up. <sup>24:17</sup> And the servant ran to meet her and said, "Let me drink, please, a little water from your jar." <sup>24:18</sup> And she said, "Drink, my lord." And she hurried and let her jar down on her hand and gave him to drink. <sup>24:19</sup> And she finished giving him drink, and said, "I will draw for your camels too, until they have finished drinking." <sup>24:20</sup> And she hurried, and poured out her jar into the trough, and ran again to the well to draw, and drew for all his camels. <sup>24:21</sup> And the man was astonished at her, keeping silent to find out whether the LORD had made his way prosper, or not. <sup>24:22</sup> And it came to pass, when the camels had finished drinking, that the man took a gold ring of half a shekel by weight, and two bracelets on her hands, ten shekels of gold by weight. <sup>24:23</sup> And he said, "Whose daughter are you? Tell me, please: is there room in your father's house for us to lodge?" <sup>24:24</sup> And she said to him, "I am the daughter of Bethuel, son of Milcah, whom she bore to Nahor." <sup>24:25</sup> She said to him, "We have straw and fodder in plenty, and room to lodge too." <sup>24:26</sup> The man bowed down and prostrated himself to the LORD. <sup>24:27</sup> He said, "Blessed be the LORD, the God of my master Abraham, who has not forsaken his kindness and his faithfulness from my master; as for me, the LORD led me on the way to the house of my master's brothers." <sup>24:28</sup> The girl ran and told her mother's household in these words. <sup>24:29</sup> Rebekah had a brother whose name was Laban. And Laban ran to the man outside, to the spring. <sup>24:30</sup> When he saw the ring and the bracelets on his sister's hands, and when he heard the words of Rebekah his sister, saying, "Thus the man spoke to me," he came to the man; and look, he was standing by the camels at the spring. <sup>24:31</sup> He said, "Come in, blessed of the LORD! Why do you stand outside? Now I have cleared the house and a place for the camels." <sup>24:32</sup> The man came into the house, and loosened the camels, and gave straw and fodder to the camels, and water to wash his feet and the feet of the men with him. <sup>24:33</sup> Then there was set before him to eat. He said, "I will not eat until I have spoken my words." Then he said, "Speak." <sup>24:34</sup> He said, "I am Abraham's servant. <sup>24:35</sup> The LORD blessed my master greatly, and he became great; and he gave him flocks and cattle and silver and gold and servants and maidservants and camels and donkeys. <sup>24:36</sup> Sarah, my master's wife, bore a son to my master in her old age, and he gave him all that was his. <sup>24:37</sup> My master made me swear, saying, 'You shall not take a wife for my son from the daughters of the Canaanites, in whose land I dwell. <sup>24:38</sup> Rather, you shall go to my father's house and to my kin, and take a wife for my son.' <sup>24:39</sup> I said to my master, 'Perhaps the woman will not go after me.' <sup>24:40</sup> He said to me, 'The LORD before whom I have walked will send his angel with you and will make your way prosper; and you shall take a wife for my son from my kin and from my father's house. <sup>24:41</sup> Then you will be clear of my oath when you come to my kin, and if they will not give to you, you will be clear of my oath.' <sup>24:42</sup> I came today to the spring and I said, 'LORD, God of my master Abraham, if you are now making my journey successful, the one on which I am going— <sup>24:43</sup> Here I stand by the spring of the water, and it shall come to pass that the young woman who comes out to draw, and I will say to her, "Please give me a little water from your jar to drink," <sup>24:44</sup> and she will say to me, "You also drink, and I will draw for your camels also"—she is the woman whom the LORD has appointed for my master's son.' <sup>24:45</sup> Before I had finished speaking to my heart, look, Rebekah was coming out, with her jar on her shoulder; and she went down to the spring and drew, and I said to her, 'Give me a drink, please.' <sup>24:46</sup> She hastened and took down her jar from upon her, and said, 'Drink, and I will water your camels also.' And I drank, and she watered the camels also. <sup>24:47</sup> I asked her and I said, 'Whose daughter are you?' And she said, 'Daughter of Bethuel, son of Nahor, whom Milcah bore to him.' And I put the ring on her nose and the bracelets on her hands. <sup>24:48</sup> I bowed down and prostrated myself to the LORD, and I blessed the LORD, God of my master Abraham, who has led me on the way of truth to take the daughter of my master's brother for his son. <sup>24:49</sup> And now, if you are dealing kindly and faithfully with my master, tell me; and if not, tell me, and I will turn to the right or to the left." <sup>24:50</sup> Laban and Bethuel answered and said, "From the LORD the thing has come; we cannot speak to you bad or good. <sup>24:51</sup> Here is Rebekah before you; take and go, and let her be a wife to your master's son, as the LORD has spoken." <sup>24:52</sup> And it came about that, as Abraham's servant heard their words, he bowed down to the ground, to the LORD. <sup>24:53</sup> And the servant brought out vessels of silver and vessels of gold and garments, and gave to Rebekah; and choice things he gave to her brother and to her mother. <sup>24:54</sup> They ate and drank, he and the men who were with him, and they spent the night; and they rose in the morning, and he said, "Send me away to my master." <sup>24:55</sup> Her brother and her mother said, "Let the girl stay with us some days, or ten; after that she will go." <sup>24:56</sup> He said to them, "Do not hold me back; the LORD has made my journey prosper. Send me away, and I will go to my master." <sup>24:57</sup> They said, "Let us call the girl and ask what she says." <sup>24:58</sup> They called Rebekah and said to her, "Will you go with this man?" She said, "I will go." <sup>24:59</sup> They sent off Rebekah their sister, and her nurse, and Abraham's servant, and his men. <sup>24:60</sup> They blessed Rebekah and said to her, "Our sister, may you become thousands of myriads, and may your offspring possess the gate of those who hate him." <sup>24:61</sup> Rebekah rose with her girls, and they mounted the camels and went after the man. The servant took Rebekah and went. <sup>24:62</sup> Isaac had come from the way to Beer-lahai-roi, and he was living in the land of the Negeb. <sup>24:63</sup> Isaac went out to walk in the field towards evening. He lifted his eyes and saw, and look, camels were coming. <sup>24:64</sup> Rebekah lifted her eyes and saw Isaac, and she threw herself down from the camel. <sup>24:65</sup> And she said to the servant, "Who is this man walking in the field to meet us?" And the servant said, "He is my master." And she took the veil and covered herself. <sup>24:66</sup> And the servant told Isaac all the things that he did. <sup>24:67</sup> Isaac brought her into the tent of Sarah his mother. He took Rebekah, and she became his wife, and he loved her. Isaac was comforted after his mother.
+
+<sup>25:1</sup> And Abraham again took a wife, and her name was Keturah. <sup>25:2</sup> She bore him Zimran, Jokshan, Medan, Midian, Ishbak and Shuah. <sup>25:3</sup> And Jokshan begot Sheba and Dedan, and the sons of Dedan were Asshurim, Letushim and Leummim. <sup>25:4</sup> The sons of Midian were Ephah, Epher, Hanoch, Abida and Eldaah; all these were sons of Keturah. <sup>25:5</sup> And Abraham gave Isaac all that was his. <sup>25:6</sup> To the sons of the concubines who were Abraham's, Abraham gave gifts, and he sent them away from Isaac his son while he was still alive, eastward to the land of the east. <sup>25:7</sup> These are the days of the years of the life of Abraham which he lived: a hundred and seventy-five years. <sup>25:8</sup> Abraham expired and died at a good old age, old and satisfied, and was gathered to his people. <sup>25:9</sup> Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron son of Zohar the Hittite, which is before Mamre. <sup>25:10</sup> The field that Abraham bought from the Hittites; there Abraham was buried, and Sarah his wife. <sup>25:11</sup> After the death of Abraham, God blessed Isaac his son, and Isaac lived by Beer-lahai-roi.
+
+<sup>25:12</sup> These are the generations of Ishmael, son of Abraham, whom Hagar the Egyptian, Sarah's maidservant, bore to Abraham. <sup>25:13</sup> These are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebaioth, and Kedar, and Adbeel, and Mibsam, <sup>25:14</sup> and Mishma, and Dumah, and Massa, <sup>25:15</sup> Hadad, and Tema, Jetur, Naphish, and Kedemah. <sup>25:16</sup> These are the sons of Ishmael, and these are their names, in their villages and in their palaces: twelve princes of their tribes. <sup>25:17</sup> These are the years of the life of Ishmael, a hundred and thirty-seven years; and he expired, and he died, and he was gathered to his people. <sup>25:18</sup> And they dwelt from Havilah as far as Shur, which is before Egypt, as you go toward Asshur; he fell before all his brothers.
 
 ### Chayei Sarah by verse
 
@@ -25126,7 +25130,7 @@ Ancient Near East:
 
 > וַיְדַבֵּ֥ר אִתָּ֖ם לֵאמֹ֑ר אִם־יֵ֣שׁ אֶֽת־נַפְשְׁכֶ֗ם לִקְבֹּ֤ר אֶת־מֵתִי֙ מִלְּפָנַ֔י שְׁמָע֕וּנִי וּפִגְעוּ־לִ֖י בְּעֶפְר֥וֹן בֶּן־צֹֽחַר׃
 
-**And he spoke with them, saying, "If it is your will to bury my dead from before me, hear me, and entreat for me with Ephron son of Zohar.**
+**And he spoke with them, saying, "If it is your will to bury my dead from before me, hear me, and entreat for me with Ephron son of Zohar,**
 
 Literal: and-spoke with-them saying if there-is with your-soul to-bury (object) my-dead from-before-me hear-me and-entreat for-me in-Ephron son-of Zohar
 
@@ -25292,7 +25296,7 @@ Apparatus:
 
 > לֹֽא־אֲדֹנִ֣י שְׁמָעֵ֔נִי הַשָּׂדֶה֙ נָתַ֣תִּי לָ֔ךְ וְהַמְּעָרָ֥ה אֲשֶׁר־בּ֖וֹ לְךָ֣ נְתַתִּ֑יהָ לְעֵינֵ֧י בְנֵי־עַמִּ֛י נְתַתִּ֥יהָ לָּ֖ךְ קְבֹ֥ר מֵתֶֽךָ׃
 
-**"No, my lord, hear me. The field I have given to you, and the cave which is in it I have given it to you; in the sight of my people I have given it to you. Bury your dead."**
+**"No, my lord, hear me. The field I have given to you, and the cave which is in it I have given to you; in the sight of my people I have given it to you. Bury your dead."**
 
 Literal: no my-lord hear-me the-field I-have-given to-you and-the-cave which in-it to-you I-have-given-it in-eyes-of sons-of my-people I-have-given-it to-you bury dead-of-you
 
@@ -25579,7 +25583,7 @@ Apparatus:
 
 > וַיָּ֣קׇם ׀ שְׂדֵ֣ה עֶפְר֗וֹן אֲשֶׁר֙ בַּמַּכְפֵּלָ֔ה אֲשֶׁ֖ר לִפְנֵ֣י מַמְרֵ֑א הַשָּׂדֶה֙ וְהַמְּעָרָ֣ה אֲשֶׁר־בּ֔וֹ וְכׇל־הָעֵץ֙ אֲשֶׁ֣ר בַּשָּׂדֶ֔ה אֲשֶׁ֥ר בְּכׇל־גְּבֻל֖וֹ סָבִֽיב׃
 
-**And the field of Ephron which was in Machpelah, which was before Mamre, stood: the field and the cave which was in it, and all the trees which were in the field, which were within all its border all around.**
+**And the field of Ephron which was in Machpelah, which was before Mamre, was made over: the field and the cave which was in it, and all the trees which were in the field, which were within its whole border all around.**
 
 Literal: and-stood field-of Ephron which in-the-Machpelah which before Mamre the-field and-the-cave which in-it and-all-of the-tree which in-the-field which in-all-of its-border round-about
 
@@ -25636,7 +25640,7 @@ Apparatus:
 
 > לְאַבְרָהָ֥ם לְמִקְנָ֖ה לְעֵינֵ֣י בְנֵי־חֵ֑ת בְּכֹ֖ל בָּאֵ֥י שַֽׁעַר־עִירֽוֹ׃
 
-**To Abraham as a purchase, in the sight of the Hittites, among all who came in at the gate of his city.**
+**to Abraham as a purchase, in the sight of the Hittites, among all who came in at the gate of his city.**
 
 Literal: to-Abraham to-purchase to-eyes-of sons-of Heth in-all-of those-coming-in-of gate-of city-his
 
@@ -25680,7 +25684,7 @@ Ancient Near East:
 
 > וְאַחֲרֵי־כֵן֩ קָבַ֨ר אַבְרָהָ֜ם אֶת־שָׂרָ֣ה אִשְׁתּ֗וֹ אֶל־מְעָרַ֞ת שְׂדֵ֧ה הַמַּכְפֵּלָ֛ה עַל־פְּנֵ֥י מַמְרֵ֖א הִ֣וא חֶבְר֑וֹן בְּאֶ֖רֶץ כְּנָֽעַן׃
 
-**And afterwards Abraham buried Sarah, his wife, into the cave of the field of Machpelah, facing Mamre, that is Hebron, in the land of Canaan.**
+**And afterwards Abraham buried Sarah, his wife, in the cave of the field of Machpelah, before Mamre, that is Hebron, in the land of Canaan.**
 
 Literal: and-after that buried Abraham [object] Sarah his-wife to the-cave-of field-of the-Machpelah upon face-of Mamre she Hebron in-land-of Canaan
 
@@ -25736,7 +25740,7 @@ Apparatus:
 
 > וַיָּ֨קׇם הַשָּׂדֶ֜ה וְהַמְּעָרָ֧ה אֲשֶׁר־בּ֛וֹ לְאַבְרָהָ֖ם לַאֲחֻזַּת־קָ֑בֶר מֵאֵ֖ת בְּנֵי־חֵֽת׃
 
-**And the field and the cave which was in it stood to Abraham as a possession for a grave from the Hittites.**
+**And the field and the cave which was in it were made over to Abraham as a possession for a grave from the Hittites.**
 
 Literal: and-stood the-field and-the-cave which in-it to-Abraham to-possession-of grave from-with sons-of Heth
 
@@ -25777,49 +25781,370 @@ Ancient Near East:
 
 > וְאַבְרָהָ֣ם זָקֵ֔ן בָּ֖א בַּיָּמִ֑ים וַֽיהֹוָ֛ה בֵּרַ֥ךְ אֶת־אַבְרָהָ֖ם בַּכֹּֽל׃
 
-_Not yet translated._
+**Abraham was old and advanced in years, and the LORD had blessed Abraham in all things.**
+
+Literal: and-Abraham old came in-days; and-LORD blessed ACC-Abraham in-all
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאַבְרָהָ֣ם | and Abraham | ו: and + אַבְרָהָם | אבה | conjunction + noun (proper name) |  |
+| זָקֵ֔ן | was old — verb 'be old', perfect (qatal), 3rd masculine singular; it opens the background clause | זָקֵן | זקן | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal |
+| בָּ֖א | came (advanced) — idiom: 'come in the days' = be advanced in years | בּוֹא | בוא | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+| בַּיָּמִ֑ים | in years — idiom: the plural 'days' with ב; 'in days' = advanced in years | ב: in, with, by + יוֹם |  | preposition (with definite article) + noun (common, masculine, plural, absolute) | 4 |
+| וַֽיהֹוָ֛ה | and the LORD — the divine name; the pointing differs between witnesses (see apparatus) | ו: and + יהוה | הוה | conjunction + noun (proper name) | I |
+| בֵּרַ֥ךְ | had blessed — piel perfect, God as subject: 'bless' (Pi 2); the perfect after the subject is background | בָּרַךְ | ברך | verb (piel, perfect (qatal), 3rd person, masculine, singular) | Pi 2 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| אַבְרָהָ֖ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| בַּכֹּֽל׃ | in all things — בַּכֹּל: ב 'in' with כֹּל 'all'; the English adds 'things' for the idiom 'in all' | ב: in, with, by + כֹּל | כלל | preposition (with definite article) + noun (common, masculine, singular, absolute) | 2.a |
+
+Grammar:
+
+- The clause וְאַבְרָהָם זָקֵן בָּא בַּיָּמִים has a noun subject and a qatal, so it is background to the main clause, which is the blessing.
+- The idiom בָּא בַּיָּמִים, 'come in the days', means advanced in years; the English keeps it as one phrase and gives no age.
+- וַיהוָה בֵּרַךְ אֶת־אַבְרָהָם repeats the background pattern with the divine name as subject; 'had blessed' is that pluperfect.
+- The verse ends with בַּכֹּל, 'in all' (כֹּל with the article and ב); what the blessing consisted of is Ibn Ezra's gloss and stays in the commentary.
+
+Note: The English gives the words only. What the blessing consisted of (length of days, wealth, honour, sons) is Ibn Ezra's gloss and is kept in the commentary. Rashi's numerical reading of בַּכֹּל is a midrash and is recorded, not followed.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: בַּכֹּל has the numerical value of בֵּן (son, 52), and since Abraham had a son he had to marry him off. A numerical reading and a reason for the errand; it does not bear on the English.
+- Ibn Ezra (follows): Ibn Ezra: 'blessed in all' means in length of days, wealth, honour and sons, which he calls all of man's desire. He adds that the midrash which makes 'Bakkol' the name of a daughter of Abraham would have to add a further ב, a beth of service ('with Bakkol'), which the text lacks. The English 'in all things' takes the preposition and the word as they stand; his list of what the blessing was stays in the note.
+
+Apparatus:
+
+- 24:1.5: the pack's base vowels for the divine name differ from the WLC pointing (יְהֹוָה in the base, יְהוָה in the WLC); the English is the same either way.
+- וַֽיהֹוָ֛ה: WLC reads וַֽיהוָ֛ה (vowels)
 
 #### Genesis 24:2
 
 > וַיֹּ֣אמֶר אַבְרָהָ֗ם אֶל־עַבְדּוֹ֙ זְקַ֣ן בֵּית֔וֹ הַמֹּשֵׁ֖ל בְּכׇל־אֲשֶׁר־ל֑וֹ שִֽׂים־נָ֥א יָדְךָ֖ תַּ֥חַת יְרֵכִֽי׃
 
-_Not yet translated._
+**Abraham said to his servant, the elder of his household, who ruled over all that he had, "Put your hand under my thigh, please,**
+
+Literal: and-said Abraham to his-servant elder-of his-household the-ruling over-all that to-him; put pray your-hand under my-thigh
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֣אמֶר | and said — wayyiqtol: the vav with the imperfect carries the narrative on | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אַבְרָהָ֗ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| אֶל | to | אֶל |  | preposition | 1 |
+| עַבְדּוֹ֙ | his servant | עֶ֫בֶד | עבד | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| זְקַ֣ן | the elder of — adjective 'old' used as a noun; the construct form זְקַן (bound to the next word) is the form Rashi explains | זָקֵן | זקן | adjective (adjective, masculine, singular, construct) | 2.b |
+| בֵּית֔וֹ | his household — construct chain זְקַן בֵּיתוֹ, 'the elder of his household' | בַּ֫יִת |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 5 |
+| הַמֹּשֵׁ֖ל | who ruled — qal participle of מָשַׁל, 'rule'; it qualifies the servant | ה: the + מָשַׁל | משׁל | particle (definite article) + verb (qal, participle active, masculine, singular, absolute) | Qal 1 |
+| בְּכׇל | over all — ב with כֹּל after מָשַׁל: rule 'over' all | ב: in, with, by + כֹּל | כלל | preposition + noun (common, masculine, singular, construct) | 2.a |
+| אֲשֶׁר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| ל֑וֹ | he had — לוֹ, 'to him': the relative clause reads 'that is to him', i.e. he had | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| שִֽׂים | put — imperative of שׂוּם | שׂוּם | שׂום | verb (qal, imperative, 2nd person, masculine, singular) | Qal 1.c |
+| נָ֥א | please — נָא, the particle of entreaty | נָא |  | particle (exhortation) |  |
+| יָדְךָ֖ | your hand | יָד |  | noun (common, both genders, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+| תַּ֥חַת | under | תַּחַת | תחת | preposition |  |
+| יְרֵכִֽי׃ | my thigh — יָרֵךְ, 'thigh'; the gesture is discussed in the commentary and context | יָרֵךְ | ירך | noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+
+Grammar:
+
+- The main clause is a wayyiqtol, 'and said'; the speech follows it directly with no second introduction until the servant speaks in 24:5.
+- שִׂים נָא יָדְךָ תַּחַת יְרֵכִי is an imperative with the particle נָא, 'please'; the object is the hand, and its place is given by תַּחַת.
+- The servant is described by a construct chain, 'the elder of his household', and one participle with its object, 'who ruled over all that he had'; the English keeps that order.
+- The gesture itself is the thing to be read: the hand is placed under the thigh of the one who speaks. The meanings given to it are the commentators' and are kept out of the English.
+
+Note: The gesture is described plainly. Three readings are recorded: an oath gesture, a sign of being under another's authority, and an allusion to circumcision. Ibn Ezra's choice is not adopted in the English because his explanation is what the gesture meant, which the English does not state.
+
+Commentary:
+
+- Rashi (follows): Rashi: זקן is pointed as a bound form because it is joined to בית; the vowel is the construct, and the English reads 'the elder of his household'.
+- Rashi (records): Rashi: an oath needs the hand on a holy object, such as a Torah scroll or tefillin; the thigh here is circumcision, the first commandment given to Abraham, which cost him pain and was dear to him. A midrashic-symbolic reading of the gesture; it is recorded, not followed.
+- Ibn Ezra (records): Ibn Ezra: some say the gesture alludes to circumcision; he answers that then the man would have sworn by the covenant of circumcision and not by the Name. His own view is that in those days it was the custom for a man to put his hand under the thigh of the one whose authority he was under: 'if you are under my authority, put your hand under my thigh'. The master sits with his thigh over the hand, as in 'here my hand is under your authority, to do your will'. He adds that the custom still exists in the land of Hodu. The English states the gesture only.
+- Radak (records): Radak: it was a custom that one who charges another puts the hand under his thigh to confirm the matter, as a hand under the thigh is under one's power; it was a strong custom for every agreement, like a covenant between two men.
+
+Ancient Near East:
+
+- The hand under the thigh (24:2) is a gesture with a plain description: the servant is to put his hand under Abraham's thigh, the thigh of the one who speaks. The same gesture is made by Joseph for Jacob before a promise about Jacob's burial (47:29). The meaning is not stated and is read variously. Ibn Ezra takes it as a sign that the one who places his hand is under the authority of the other, and Radak as a custom for confirming a charge; Rashi takes it as an allusion to circumcision, as the hand rests on something holy. Some also link it to the fact that descendants are said to 'come out of the thigh' (46:26), taking the thigh as the seat of procreation; that is a suggestion, not settled. The text does not choose among these, and the English does not choose.
+
+Apparatus:
+
+- 24:2: the gesture is read three ways in the commentary (oath, subjection, circumcision); the English line gives only 'put your hand under my thigh'.
 
 #### Genesis 24:3
 
 > וְאַשְׁבִּ֣יעֲךָ֔ בַּֽיהֹוָה֙ אֱלֹהֵ֣י הַשָּׁמַ֔יִם וֵֽאלֹהֵ֖י הָאָ֑רֶץ אֲשֶׁ֨ר לֹֽא־תִקַּ֤ח אִשָּׁה֙ לִבְנִ֔י מִבְּנוֹת֙ הַֽכְּנַעֲנִ֔י אֲשֶׁ֥ר אָנֹכִ֖י יוֹשֵׁ֥ב בְּקִרְבּֽוֹ׃
 
-_Not yet translated._
+**and I will make you swear by the LORD, God of heaven and God of earth, that you shall not take a wife for my son from the daughters of the Canaanites among whom I dwell,**
+
+Literal: and-I-will-make-you-swear by-LORD God-of heavens and-God-of earth; that not you-will-take wife for-my-son from-daughters-of the-Canaanite; that I dwell in-its-midst
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאַשְׁבִּ֣יעֲךָ֔ | and I will make you swear — hifil imperfect 1st singular with a 2nd masculine suffix; the causative 'make swear' | ו: and + שָׁבַע | שׁבע | conjunction + verb (hifil, imperfect (yiqtol), 1st person, common, singular) + suffix (pronominal, 2nd person, masculine, singular) | Hiph 1 |
+| בַּֽיהֹוָה֙ | by the LORD — the oath formula: ב with the divine name | ב: in, with, by + יהוה | הוה | preposition + noun (proper name) | I |
+| אֱלֹהֵ֣י | God of — construct plural אֱלֹהֵי with 'heavens' and 'earth' as the genitive | אֱלֹהִים | אלה | noun (common, masculine, plural, construct) | 3 |
+| הַשָּׁמַ֔יִם | heaven | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| וֵֽאלֹהֵ֖י | and God of — the second construct, with ו | ו: and + אֱלֹהִים | אלה | conjunction + noun (common, masculine, plural, construct) | 3 |
+| הָאָ֑רֶץ | earth | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 1.a |
+| אֲשֶׁ֨ר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| לֹֽא | not | לֹא |  | particle (negative) |  |
+| תִקַּ֤ח | you shall take — qal imperfect 2nd masculine singular of לָקַח, 'take (a wife)' | לָקַח | לקח | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 3.a |
+| אִשָּׁה֙ | a wife | אִשָּׁה | אנשׁ | noun (common, feminine, singular, absolute) | 2 |
+| לִבְנִ֔י | for my son — ל with בֵּן and the suffix | ל: to, for + בֵּן |  | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| מִבְּנוֹת֙ | from the daughters of — מִ with the construct plural of בַּת | מ: from, than + בַּת |  | preposition + noun (common, feminine, plural, construct) | 1 |
+| הַֽכְּנַעֲנִ֔י | the Canaanites — הַכְּנַעֲנִי is the collective in the singular with the article (Ibn Ezra) | ה: the + כְּנַעֲנִי |  | particle (definite article) + noun (gentilic, masculine, singular, absolute) |  |
+| אֲשֶׁ֥ר | among whom | אֲשֶׁר | אשׁר | particle (relative) |  |
+| אָנֹכִ֖י | I | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
+| יוֹשֵׁ֥ב | dwell — qal participle of יָשַׁב, 'dwell, have one's abode' | יָשַׁב | ישׁב | verb (qal, participle active, masculine, singular, absolute) | Qal 3 |
+| בְּקִרְבּֽוֹ׃ | among them — בְּקִרְבּוֹ: the suffix is the collective Canaanites | ב: in, with, by + קֶ֫רֶב | קרב | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+
+Grammar:
+
+- The oath is a hifil with a 1st-person subject: 'I will make you swear'. The content of the oath follows in the relative clause אֲשֶׁר לֹא־תִקַּח.
+- The relative clause is the object of the oath, not a clause about the daughters: 'that you shall not take a wife'.
+- The epithet is a construct plural, 'God of the heavens and God of the earth'; both parts are kept in the English.
+- הַכְּנַעֲנִי is singular with the article but collective; the English uses the plural 'Canaanites' for the group.
+
+Note: The English keeps the two-part epithet of the oath and the collective Canaanite. The reasons Ibn Ezra gives for the epithet are not part of the English.
+
+Commentary:
+
+- Ibn Ezra (not-applicable): Ibn Ezra explains the two epithets here: the match of a daughter to a man on earth is made from heaven, and he says this is a secret. It is a reason for the epithets, not a reading of their words.
+- Ibn Ezra (follows): Ibn Ezra: הַכְּנַעֲנִי is a general term for the eleven nations; the English 'the Canaanites' is the collective.
+
+Apparatus:
+
+- 24:3.2: the pack's base vowels for the divine name differ from the WLC pointing; the English is the same either way.
+- בַּֽיהֹוָה֙: WLC reads בַּֽיהוָה֙ (vowels)
 
 #### Genesis 24:4
 
 > כִּ֧י אֶל־אַרְצִ֛י וְאֶל־מוֹלַדְתִּ֖י תֵּלֵ֑ךְ וְלָקַחְתָּ֥ אִשָּׁ֖ה לִבְנִ֥י לְיִצְחָֽק׃
 
-_Not yet translated._
+**but to my country and to my birthplace you shall go, and take a wife for my son Isaac."**
+
+Literal: for to my-land and-to my-birthplace you-will-go; and-you-will-take wife for-my-son for-Isaac
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| כִּ֧י | but — כִּי is contrastive after the negative of 24:3: 'but rather'; 'that' is the entry's first sense and is not used here | כִּי |  | conjunction |  |
+| אֶל | to | אֶל |  | preposition | 1 |
+| אַרְצִ֛י | my country | אֶ֫רֶץ | ארץ | noun (common, both genders, singular, construct) + suffix (pronominal, 1st person, common, singular) | 2.a |
+| וְאֶל | and to | ו: and + אֶל |  | conjunction + preposition | 1 |
+| מוֹלַדְתִּ֖י | my birthplace — מוֹלַדְתִּי; the English reads it as the place of birth (see commentary) | מוֹלֶ֫דֶת | ילד | noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| תֵּלֵ֑ךְ | you shall go — qal imperfect 2nd masculine singular of הָלַךְ | יָלַךְ | הלך | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal I.1 |
+| וְלָקַחְתָּ֥ | and take — waw with a perfect, continuing the command of the imperfect before it | ו: and + לָקַח | לקח | conjunction + verb (qal, perfect (qatal), 2nd person, masculine, singular) | Qal 3.a |
+| אִשָּׁ֖ה | a wife | אִשָּׁה | אנשׁ | noun (common, feminine, singular, absolute) | 2 |
+| לִבְנִ֥י | for my son | ל: to, for + בֵּן |  | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| לְיִצְחָֽק׃ | Isaac — לְיִצְחָק: 'for Isaac', the name in apposition to 'my son' | ל: to, for + יִצְחָק | צחק | preposition + noun (proper name) |  |
+
+Grammar:
+
+- כִּי at the start of the verse turns the negative of 24:3 into a positive command: 'but rather to my country you shall go'.
+- The two verbs of the command are an imperfect (תֵּלֵךְ) and a perfect with vav (וְלָקַחְתָּ) that continues it.
+- לִבְנִי לְיִצְחָק gives the son twice, with ל and then the name; the English makes this 'my son Isaac'.
+- The speech of Abraham that opened in 24:2 closes here.
+
+Note: 'Birthplace' takes the place sense of מוֹלֶדֶת that Ibn Ezra, Radak and Rashi give. The kindred sense of the word is in the lexicon entry and is not used in the English.
+
+Commentary:
+
+- Ibn Ezra (records): Ibn Ezra: 'my land' is Haran, where he lived. The English 'my country' does not name a place.
+- Ibn Ezra (follows): Ibn Ezra identifies 'my birthplace' (מוֹלַדְתִּי) with Ur of the Chaldeans. The English takes his sense of the word, 'birthplace'; the name of the place is not in the English.
+- Radak (records): Radak identifies 'my country' with Aram-naharaim, the land of the two rivers. A different identification of the same word; the English does not name the place.
+
+Ancient Near East:
+
+- 'My country' and 'my birthplace' (24:4, 24:7): Ibn Ezra and Rashi name Haran as the place where Abraham's family settled and Ur of the Chaldeans as the birthplace, though Radak takes 'my country' to be Aram-naharaim. Ramban objects to Ur and takes the two phrases together as the one land of Abraham's kin, where the servant in fact went. The text of this unit names neither place, and the English does not name them.
 
 #### Genesis 24:5
 
 > וַיֹּ֤אמֶר אֵלָיו֙ הָעֶ֔בֶד אוּלַי֙ לֹא־תֹאבֶ֣ה הָֽאִשָּׁ֔ה לָלֶ֥כֶת אַחֲרַ֖י אֶל־הָאָ֣רֶץ הַזֹּ֑את הֶֽהָשֵׁ֤ב אָשִׁיב֙ אֶת־בִּנְךָ֔ אֶל־הָאָ֖רֶץ אֲשֶׁר־יָצָ֥אתָ מִשָּֽׁם׃
 
-_Not yet translated._
+**The servant said to him, "Perhaps the woman will not be willing to follow me to this land. Shall I indeed bring back your son to the land from which you came?"**
+
+Literal: and-said to-him the-servant; perhaps not will-be-willing the-woman; to-go after-me to the-land this; bring-back I-will-bring-back; ACC; your-son to the-land; that you-went-out from-there
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֤אמֶר | and said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֵלָיו֙ | to him | אֶל |  | preposition + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| הָעֶ֔בֶד | the servant | ה: the + עֶ֫בֶד | עבד | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| אוּלַי֙ | perhaps — אוּלַי: the adverb 'perhaps' (sense 1); Ibn Ezra says the word has several senses | אוּלַי |  | adverb | 1 |
+| לֹא | not | לֹא |  | particle (negative) |  |
+| תֹאבֶ֣ה | will be willing — qal imperfect 3rd feminine singular of אָבָה, 'be willing, consent' | אָבָה | אבה | verb (qal, imperfect (yiqtol), 3rd person, feminine, singular) | Qal |
+| הָֽאִשָּׁ֔ה | the woman — the woman who might come (not yet a wife): sense 1 | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| לָלֶ֥כֶת | to follow — infinitive construct with ל; 'to walk after' is 'to follow' | ל: to, for + יָלַךְ | הלך | preposition + verb (qal, infinitive construct) | Qal I.1 |
+| אַחֲרַ֖י | after me — אַחֲרַי, the preposition 'after' with the suffix | אַחַר | אחר | preposition + suffix (pronominal, 1st person, common, singular) | 2.b |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָאָ֣רֶץ | land | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 2.a |
+| הַזֹּ֑את | this — the demonstrative in apposition to the noun | ה: the + זֹאת |  | particle (definite article) + pronoun (demonstrative, feminine, singular) | 2 |
+| הֶֽהָשֵׁ֤ב | bring back indeed (emphatic) — infinitive absolute of שׁוּב before the yiqtol, with the interrogative he: an emphatic question | ה: interrogative + שׁוּב | שׁוב | particle (interrogative) + verb (hifil, infinitive absolute) | Hiph 1.a |
+| אָשִׁיב֙ | shall I bring — hifil imperfect 1st singular of שׁוּב; the subject is the servant | שׁוּב | שׁוב | verb (hifil, imperfect (yiqtol), 1st person, common, singular) | Hiph 1.a |
+| אֶת | (object marker) — object marker: no English | אֵת | אות | particle (direct object marker) |  |
+| בִּנְךָ֔ | your son | בֵּן |  | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָאָ֖רֶץ | land | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 2.a |
+| אֲשֶׁר | from which — relative with the preposition of 5.20 | אֲשֶׁר | אשׁר | particle (relative) |  |
+| יָצָ֥אתָ | you came — qal perfect 2nd masculine singular of יָצָא, 'go out (from a place)' | יָצָא | יצא | verb (qal, perfect (qatal), 2nd person, masculine, singular) | Qal 1.a |
+| מִשָּֽׁם׃ | from there — מִשָּׁם | מ: from, than + שָׁם |  | preposition + adverb |  |
+
+Grammar:
+
+- The servant's speech is two questions: a doubt, 'perhaps the woman will not be willing', and a question, 'shall I bring your son back?'
+- הֶהָשֵׁב אָשִׁיב is an infinitive absolute before a finite form of the same root: an emphatic question that the English states once.
+- The same noun, 'the land', is used twice: once with the demonstrative 'this', once with a relative clause 'from which you came'.
+- The servant speaks of Abraham's son by the suffix 'your son', and of the woman as the object of 'follow me'.
+
+Note: The English gives 'shall I indeed bring back' for the emphatic question: 'indeed' carries the infinitive absolute. Ibn Ezra's comment on the pointing of the he is not a reading of the words and is kept in the commentary.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: אוּלַי has many senses and he cites another occurrence of the word. The English takes 'perhaps', the first sense in the entry.
+- Ibn Ezra (not-applicable): Ibn Ezra explains the short patah under the he of הֶהָשֵׁב: a long patah would be heavy on the tongue, because the he of the hifil carries a qamets. A note on the pointing; the English does not depend on it.
+- Sforno (records): Sforno reads the relative clause 'from which you came' as implying that you have despised that place, so the woman will not want to come here. The English keeps the plain relative clause.
 
 #### Genesis 24:6
 
 > וַיֹּ֥אמֶר אֵלָ֖יו אַבְרָהָ֑ם הִשָּׁ֣מֶר לְךָ֔ פֶּן־תָּשִׁ֥יב אֶת־בְּנִ֖י שָֽׁמָּה׃
 
-_Not yet translated._
+**Abraham said to him, "Take heed to yourself, lest you bring back my son there.**
+
+Literal: and-said to-him Abraham; take-heed to-you; lest you-will-bring-back; ACC; my-son there
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֥אמֶר | and said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֵלָ֖יו | to him | אֶל |  | preposition + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| אַבְרָהָ֑ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| הִשָּׁ֣מֶר | take heed — nifal imperative of שָׁמַר, 'be on your guard' | שָׁמַר | שׁמר | verb (nifal, imperative, 2nd person, masculine, singular) | Niph 1 |
+| לְךָ֔ | to yourself — ל with the suffix: the reflexive 'to yourself' | ל: to, for |  | preposition + suffix (pronominal, 2nd person, masculine, singular) |  |
+| פֶּן | lest — פֶּן with the imperfect: the feared result | פֶּן־ |  | conjunction | 1 |
+| תָּשִׁ֥יב | you bring back — hifil imperfect 2nd masculine singular of שׁוּב, the servant as subject | שׁוּב | שׁוב | verb (hifil, imperfect (yiqtol), 2nd person, masculine, singular) | Hiph 1.a |
+| אֶת | (object marker) — object marker: no English | אֵת | אות | particle (direct object marker) |  |
+| בְּנִ֖י | my son | בֵּן |  | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| שָֽׁמָּה׃ | there | שָׁם |  | adverb + suffix (directional he) |  |
+
+Grammar:
+
+- הִשָּׁמֶר לְךָ is a nifal imperative with a dative suffix: 'take heed to yourself'.
+- פֶּן with the imperfect gives the result Abraham fears: 'lest you bring back my son there'.
+- Abraham's answer is one speech that opens here and runs to the end of 24:8.
+
+Note: The English keeps the servant as 'you' throughout. The root is שׁמר, 'keep'; the nifal sense 'be on your guard' is the one the warning requires. Ibn Ezra's rule on the stress of הִשָּׁמֶר puts this form, stressed on the penult, under שְׁמִירָה, so it agrees with the English.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: every הִשָּׁמֶר stressed on the penultimate syllable comes from שְׁמִירָה (keeping); one stressed on the last comes from שְׁמָרִים (lees, dregs), as in 'be still and quiet' (Isaiah 7:4), like 'he is at ease on his lees' (Jeremiah 48:11). The form here has its accent on the shin, the penultimate syllable, so by his own rule it is from שׁמר 'keep', and the English 'take heed' agrees.
+- Radak (not-applicable): Radak: Abraham did not want the son to leave the land that God gave him and his seed. A reason for the warning; not a reading of the words.
 
 #### Genesis 24:7
 
 > יְהֹוָ֣ה ׀ אֱלֹהֵ֣י הַשָּׁמַ֗יִם אֲשֶׁ֨ר לְקָחַ֜נִי מִבֵּ֣ית אָבִי֮ וּמֵאֶ֣רֶץ מֽוֹלַדְתִּי֒ וַאֲשֶׁ֨ר דִּבֶּר־לִ֜י וַאֲשֶׁ֤ר נִֽשְׁבַּֽע־לִי֙ לֵאמֹ֔ר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת־הָאָ֣רֶץ הַזֹּ֑את ה֗וּא יִשְׁלַ֤ח מַלְאָכוֹ֙ לְפָנֶ֔יךָ וְלָקַחְתָּ֥ אִשָּׁ֛ה לִבְנִ֖י מִשָּֽׁם׃
 
-_Not yet translated._
+**The LORD, God of heaven, who took me from my father's house and from the land of my birth, and who spoke to me and who swore to me, saying, 'To your offspring I will give this land'; may he send his angel before you, and you shall take a wife for my son from there.**
+
+Literal: the-LORD God-of heavens; who took-me from-house-of my-father and-from-land-of my-birth; and-who spoke to-me; and-who swore to-me; saying to-your-offspring I-will-give; ACC; the-land this; he will-send his-angel before-you; and-you-will-take wife for-my-son from-there
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| יְהֹוָ֣ה | the LORD — the divine name, read Adonai | יהוה | הוה | noun (proper name) | I |
+| אֱלֹהֵ֣י | God of — construct plural אֱלֹהֵי | אֱלֹהִים | אלה | noun (common, masculine, plural, construct) | 3 |
+| הַשָּׁמַ֗יִם | heaven | ה: the + שָׁמַיִם | שׁמה | particle (definite article) + noun (common, masculine, plural, absolute) | 1.a |
+| אֲשֶׁ֨ר | who — relative אֲשֶׁר | אֲשֶׁר | אשׁר | particle (relative) |  |
+| לְקָחַ֜נִי | took me — qal perfect 3rd masculine singular of לָקַח with the 1st-person suffix: 'take, carry away' | לָקַח | לקח | verb (qal, perfect (qatal), 3rd person, masculine, singular) + suffix (pronominal, 1st person, common, singular) | Qal 3.b |
+| מִבֵּ֣ית | from the house of — מִבֵּית: the house as the family, 'the house of my father' | מ: from, than + בַּ֫יִת |  | preposition + noun (common, masculine, singular, construct) | 4 |
+| אָבִי֮ | my father | אָב | אבה | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| וּמֵאֶ֣רֶץ | and from the land of | ו: and + מ: from, than + אֶ֫רֶץ | ארץ | conjunction + preposition + noun (common, both genders, singular, construct) | 2.a |
+| מֽוֹלַדְתִּי֒ | my birth — מוֹלַדְתִּי, the birth land; see commentary | מוֹלֶ֫דֶת | ילד | noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| וַאֲשֶׁ֨ר | and who — וַאֲשֶׁר: relative with the conjunction | ו: and + אֲשֶׁר | אשׁר | conjunction + particle (relative) |  |
+| דִּבֶּר | spoke — piel perfect of דָּבַר | דָבַר | דבר | verb (piel, perfect (qatal), 3rd person, masculine, singular) | Pi |
+| לִ֜י | to me — לִי: the preposition with the suffix | ל: to, for |  | preposition + suffix (pronominal, 1st person, common, singular) |  |
+| וַאֲשֶׁ֤ר | and who — וַאֲשֶׁר | ו: and + אֲשֶׁר | אשׁר | conjunction + particle (relative) |  |
+| נִֽשְׁבַּֽע | swore — nifal perfect of שָׁבַע, 'swear' | שָׁבַע | שׁבע | verb (nifal, perfect (qatal), 3rd person, masculine, singular) | Niph |
+| לִי֙ | to me — לִי | ל: to, for |  | preposition + suffix (pronominal, 1st person, common, singular) |  |
+| לֵאמֹ֔ר | saying — infinitive construct of אָמַר with ל | ל: to, for + אָמַר | אמר | preposition + verb (qal, infinitive construct) | Qal 1 |
+| לְזַ֨רְעֲךָ֔ | to your offspring — לְזַרְעֲךָ: 'seed, offspring' with the 2nd-person suffix | ל: to, for + זֶ֫רַע | זרע | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 4 |
+| אֶתֵּ֖ן | I will give — qal imperfect 1st singular of נָתַן | נָתַן | נתן | verb (qal, imperfect (yiqtol), 1st person, common, singular) | Qal 1 |
+| אֶת | (object marker) — object marker: no English | אֵת | אות | particle (direct object marker) |  |
+| הָאָ֣רֶץ | the land | ה: the + אֶ֫רֶץ | ארץ | particle (definite article) + noun (common, both genders, singular, absolute) | 2.a |
+| הַזֹּ֑את | this | ה: the + זֹאת |  | particle (definite article) + pronoun (demonstrative, feminine, singular) | 2 |
+| ה֗וּא | he — the emphatic subject, resuming הוּא: 'he himself' | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 2 |
+| יִשְׁלַ֤ח | may he send — qal imperfect of שָׁלַח, read as a wish with Ibn Ezra and Sforno | שָׁלַח | שׁלח | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 1 |
+| מַלְאָכוֹ֙ | his angel — מַלְאָךְ: angel, for a being sent by God | מַלְאָךְ | לאך | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| לְפָנֶ֔יךָ | before you — לְפָנֶיךָ: 'before (you)' | ל: to, for + פָּנֶה | פנה | preposition + noun (common, both genders, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | I.6 |
+| וְלָקַחְתָּ֥ | and you shall take — waw with a perfect, continuing the purpose of the sending | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential perfect (weqatal), 2nd person, masculine, singular) | Qal 3.a |
+| אִשָּׁ֛ה | a wife | אִשָּׁה | אנשׁ | noun (common, feminine, singular, absolute) | 2 |
+| לִבְנִ֖י | for my son | ל: to, for + בֵּן |  | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| מִשָּֽׁם׃ | from there — מִשָּׁם | מ: from, than + שָׁם |  | preposition + adverb |  |
+
+Grammar:
+
+- Three relative clauses, each with אֲשֶׁר, hang from 'the LORD, God of heaven': who took me, who spoke to me, who swore to me. The main clause begins with 'he will send'.
+- לֵאמֹר לְזַרְעֲךָ אֶתֵּן אֶת־הָאָרֶץ הַזֹּאת is speech inside Abraham's speech, so it is in single quotes.
+- The yiqtol הוּא יִשְׁלַח is read as a wish, 'may he send'; the next verse's 'if the woman will not be willing' supports Ibn Ezra's reading (see commentary).
+- The weqatal וְלָקַחְתָּ continues the purpose of the sending: 'and you shall take a wife'.
+
+Note: The epithet 'God of heaven' stands alone here, unlike 24:3, where 'and God of earth' is added. Rashi explains the difference; the English keeps the words as they stand. The yiqtol הוּא יִשְׁלַח can be read as a plain future, 'he will send his angel', or as a wish, 'may he send his angel'. The English takes the wish with Ibn Ezra (a prayer, since the woman may refuse in 24:8) and Sforno; the plain future is the other reading and is recorded in the context.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi explains why the epithet here is 'God of heaven' alone: when God took Abraham from his father's house he was 'God of heaven and not God of earth', because the people of the world did not know him and his name was not common in the land. A reason for the wording, not a reading of its grammar.
+- Rashi (records): Rashi: 'my father's house' is Haran. The English keeps 'my father's house'.
+- Rashi (records): Rashi: 'the land of my birth' is Ur of the Chaldeans. The English keeps 'the land of my birth'.
+- Rashi (records): Rashi: לִי here means 'for my sake', 'about me' (like עָלַי), as with verbs of speaking; the English 'spoke to me' keeps the plain preposition.
+- Ibn Ezra (follows): Ibn Ezra: 'he will send his angel' is a prayer, not a prophecy; if it were prophecy he would not go on to say 'if the woman will not be willing' (24:8). The English reads the yiqtol as a wish, 'may he send'; the plain future is the other reading and is recorded in the note and the context.
+- Sforno (follows): Sforno reads the clause as a wish: may he send his angel from his holy dwelling in the heavens, since he took me from there, so that my son need not go there. This supports the wish reading.
+
+Ancient Near East:
+
+- 'My father's house' and 'the land of my birth' (24:7): Rashi names Haran and Ur of the Chaldeans; the text of this unit names neither.
+- 'May he send his angel' (24:7): the verb is a yiqtol, which allows a plain future ('he will send his angel') or a wish. Ibn Ezra takes it as a prayer, because Abraham goes on to allow that the woman may be unwilling (24:8); Sforno also reads a wish. The plain future is the other reading; Abraham uses the same words when he tells the servant's story in 24:40.
+
+Apparatus:
+
+- 24:7.1: the epithet is 'God of heaven' without 'and God of earth' as in 24:3; the commentators' explanations are in the commentary.
 
 #### Genesis 24:8
 
 > וְאִם־לֹ֨א תֹאבֶ֤ה הָֽאִשָּׁה֙ לָלֶ֣כֶת אַחֲרֶ֔יךָ וְנִקִּ֕יתָ מִשְּׁבֻעָתִ֖י זֹ֑את רַ֣ק אֶת־בְּנִ֔י לֹ֥א תָשֵׁ֖ב שָֽׁמָּה׃
 
-_Not yet translated._
+**If the woman will not be willing to follow you, then you shall be clear of this oath of mine; only my son you shall not bring back there."**
+
+Literal: and-if not she-will-be-willing the-woman to-go after-you; and-you-shall-be-clear from-my-oath this; only ACC my-son; not you-shall-bring-back there
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאִם | if — וְאִם: the conditional with the vav | ו: and + אִם |  | conjunction + conjunction | 1 |
+| לֹ֨א | not | לֹא |  | particle (negative) |  |
+| תֹאבֶ֤ה | will be willing — qal imperfect 3rd feminine singular of אָבָה | אָבָה | אבה | verb (qal, imperfect (yiqtol), 3rd person, feminine, singular) | Qal |
+| הָֽאִשָּׁה֙ | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| לָלֶ֣כֶת | to follow — infinitive construct with ל | ל: to, for + יָלַךְ | הלך | preposition + verb (qal, infinitive construct) | Qal I.1 |
+| אַחֲרֶ֔יךָ | after you — אַחֲרֶיךָ | אַחַר | אחר | preposition + suffix (pronominal, 2nd person, masculine, singular) | 2.b |
+| וְנִקִּ֕יתָ | then you shall be clear — nifal perfect of נָקָה, a III-he verb; the perfect after the conditional gives the consequence | ו: and + נָקָה | נקה | conjunction + verb (nifal, perfect (qatal), 2nd person, masculine, singular) | Niph 4 |
+| מִשְּׁבֻעָתִ֖י | of my oath — מִשְּׁבֻעָתִי: from my oath | מ: from, than + שְׁבוּעָה | שׁבע | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| זֹ֑את | this — זֹאת in apposition: 'this oath of mine' | זֹאת |  | pronoun (demonstrative, feminine, singular) | 2 |
+| רַ֣ק | only — רַק, 'only' (sense 2) | רַק | רקק | particle (affirmation) | 2 |
+| אֶת | (object marker) — object marker: no English | אֵת | אות | particle (direct object marker) |  |
+| בְּנִ֔י | my son | בֵּן |  | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| לֹ֥א | not | לֹא |  | particle (negative) |  |
+| תָשֵׁ֖ב | you shall bring back — hifil imperfect 2nd masculine singular of שׁוּב | שׁוּב | שׁוב | verb (hifil, imperfect (yiqtol), 2nd person, masculine, singular) | Hiph 1.a |
+| שָֽׁמָּה׃ | there | שָׁם |  | adverb + suffix (directional he) |  |
+
+Grammar:
+
+- The conditional has a protasis (8.1 to 8.6), 'if the woman will not be willing', and an apodosis (8.7) introduced by the vav of נִקִּיתָ: 'then you shall be clear'.
+- נִקִּיתָ is a nifal perfect of a III-he verb: the pattern is regular, and the English 'shall be clear' gives the nifal sense of freedom from an obligation.
+- The last clause puts the object first: רַק אֶת־בְּנִי לֹא תָשֵׁב שָׁמָּה, 'only my son you shall not bring back there'. The restriction applies to the son alone.
+- The speech closes here, at the end of the unit's last verse.
+
+Note: The English gives the plain sense of the hifil: the servant is not to bring the son back. Ibn Ezra's remark (that Isaac is to stay in the land of Israel, for Abraham's sake) states what the prohibition secures and is recorded in the commentary. Rashi's reading of the release (a wife from the daughters of Aner, Eshkol and Mamre) is recorded and not followed.
+
+Commentary:
+
+- Rashi (declines): Rashi reads the release from the oath as permission to take a wife for Isaac from the daughters of Aner, Eshkol and Mamre. The Hebrew here names no family; the English keeps 'be clear of this oath'.
+- Rashi (not-applicable): Rashi: רַק is a limit, 'my son does not return', and Jacob his grandson will in the end return. A later reading; the English 'only' is the same word.
+- Ibn Ezra (records): Ibn Ezra: 'you shall not bring him back there' means that Isaac is to stay in the land of Israel; the reason for 'you shall not bring back' is Abraham, who is the principal. The English keeps the hifil with the servant as subject and Isaac as object.
+
+Ancient Near East:
+
+- Aner, Eshkol and Mamre (24:8, Rashi) are named in chapter 14 as Abraham's allies; the text of this unit does not name them as the family for Isaac's wife.
 
 #### Genesis 24:9
 
@@ -25966,7 +26291,7 @@ Commentary:
 
 > וַיֹּאמַ֓ר ׀ יְהֹוָ֗ה אֱלֹהֵי֙ אֲדֹנִ֣י אַבְרָהָ֔ם הַקְרֵה־נָ֥א לְפָנַ֖י הַיּ֑וֹם וַעֲשֵׂה־חֶ֕סֶד עִ֖ם אֲדֹנִ֥י אַבְרָהָֽם׃
 
-**And he said, "LORD God of my master Abraham, please make it happen before me today, and show kindness to my master Abraham.**
+**And he said, "LORD, God of my master Abraham, please make it happen before me today, and show kindness to my master Abraham.**
 
 Literal: and-said LORD God-of my-master Abraham make-it-happen please before-me the-day and-do kindness with my-master Abraham
 
@@ -26193,415 +26518,2824 @@ Commentary:
 
 > וַיָּ֥רׇץ הָעֶ֖בֶד לִקְרָאתָ֑הּ וַיֹּ֕אמֶר הַגְמִיאִ֥ינִי נָ֛א מְעַט־מַ֖יִם מִכַּדֵּֽךְ׃
 
-_Not yet translated._
+**And the servant ran to meet her and said, "Let me drink, please, a little water from your jar."**
+
+Literal: and-ran the-servant to-meeting-her and-said cause-me-to-drink please little-of-water from-jar-your
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיָּ֥רׇץ | and ran — wayyiqtol: the vav-consecutive carries the narrative on | ו: and + רוּץ | רוץ | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| הָעֶ֖בֶד | the servant | ה: the + עֶ֫בֶד | עבד | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| לִקְרָאתָ֑הּ | to meet her — ל with the infinitive construct of קָרָא and the suffix ־הּ: the set phrase 'to meet' | ל: to, for + קִרְאָה | קרא | preposition + verb (qal, infinitive construct) + suffix (pronominal, 3rd person, feminine, singular) | Qal 1 |
+| וַיֹּ֕אמֶר | and said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| הַגְמִיאִ֥ינִי | let me drink — hifil imperative, feminine singular, addressed to the girl, with the suffix ־נִי 'me'; the causative gives 'cause me to swallow', BDB 'let me drink' | גָּמָא | גמא | verb (hifil, imperative, 2nd person, feminine, singular) + suffix (pronominal, 1st person, common, singular) | Hiph |
+| נָ֛א | please — the entreaty particle נָא | נָא |  | particle (exhortation) |  |
+| מְעַט | a little — construct of מְעַט | מְעַט | מעט | noun (common, masculine, singular, construct) |  |
+| מַ֖יִם | water | מַי |  | noun (common, masculine, plural, absolute) |  |
+| מִכַּדֵּֽךְ׃ | from your jar — the suffix ־ךְ is second person feminine singular ('your'); the pack's parse gives third person. The data is kept; the English follows the Hebrew. | מ: from, than + כַּד | כדד | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+
+Grammar:
+
+- וַיָּרָץ and וַיֹּאמֶר are wayyiqtol forms: the vav-consecutive carries the narrative from one action to the next.
+- הַגְמִיאִינִי is a hifil imperative, feminine singular, addressed to the girl, with the suffix ־נִי; the speaker is the servant.
+- לִקְרָאתָהּ: ל with the infinitive construct of קָרָא and the suffix ־הּ forms the set phrase 'to meet her'.
+- The zaqef gadol on וַיֹּאמֶר divides the narrative from the speech that follows.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: the servant ran because he saw the water rising to meet her, citing Bereshit Rabbah.
+- Rashi (follows): Rashi: the word is the term for swallowing (לְשׁוֹן גְּמִיעָה), which in Old French is humer.
+- Ramban (not-applicable): Ramban: cites Rashi (he ran because he saw the water rise) and Bereshit Rabbah on 'she filled her jar and went up'; he thinks the rabbis drew the miracle from that wording and that it happened the first time, and that the servant did not tell it to the family (24:45) lest they not believe.
+- Radak (not-applicable): Radak: he ran because he saw she was beautiful, and he relied on God for his questions.
+- Radak (follows): Radak: the word means as הַשְׁקִינִי, 'give me to drink'.
 
 #### Genesis 24:18
 
 > וַתֹּ֖אמֶר שְׁתֵ֣ה אֲדֹנִ֑י וַתְּמַהֵ֗ר וַתֹּ֧רֶד כַּדָּ֛הּ עַל־יָדָ֖הּ וַתַּשְׁקֵֽהוּ׃
 
-_Not yet translated._
+**And she said, "Drink, my lord." And she hurried and let her jar down on her hand and gave him to drink.**
+
+Literal: and-said drink my-lord and-hurried and-let-down jar-her upon hand-her and-gave-him-drink
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֹּ֖אמֶר | And she said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| שְׁתֵ֣ה | Drink — qal imperative, masculine singular, addressed to the man; the entry for שָׁתָה lists only a Niph sense, so no sense path is given | שָׁתָה | שׁתה | verb (qal, imperative, 2nd person, masculine, singular) |  |
+| אֲדֹנִ֑י | my lord — addressed to the man (hiriq, אֲדֹנִי), not to God; construct with the suffix ־י 'my' | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| וַתְּמַהֵ֗ר | and hurried — piel wayyiqtol | ו: and + מָהַר | מהר | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Pi 1 |
+| וַתֹּ֧רֶד | and let down — hifil wayyiqtol: she lowers the jar | ו: and + יָרַד | ירד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Hiph 3 |
+| כַּדָּ֛הּ | her jar — feminine, with the suffix ־הּ | כַּד | כדד | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| עַל | upon | עַל | עלה | preposition |  |
+| יָדָ֖הּ | her hand | יָד |  | noun (common, both genders, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| וַתַּשְׁקֵֽהוּ׃ | and gave him drink — hifil wayyiqtol, 'give drink to'; the object is the man (suffix ־הוּ) and no noun for the drink is stated | ו: and + שָׁקָה | שׁקה | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) + suffix (pronominal, 3rd person, masculine, singular) | Hiph 2 |
+
+Grammar:
+
+- וַתֹּאמֶר שְׁתֵה אֲדֹנִי: the imperative שְׁתֵה is masculine singular, spoken to the man.
+- וַתְּמַהֵר and וַתֹּרֶד: a piel and a hifil wayyiqtol, both with the feminine subject, mark the quick succession of her actions.
+- כַּדָּהּ עַל־יָדָהּ: the jar and the hand both carry the feminine suffix ־הּ; the phrase is 'her jar upon her hand'.
+- וַתַּשְׁקֵהוּ: a hifil wayyiqtol with the object suffix ־הוּ; the verb carries 'give to drink' without a noun for the drink.
+
+Commentary:
+
+- Rashi (records): Rashi: וַתֹּרֶד means 'from her shoulder' (מֵעַל שִׁכְמָהּ): she lowered the jar from her shoulder. The English keeps the verse's 'upon her hand'.
+- Radak (not-applicable): Radak: this shows she was well brought up: she did not know who he was and still called him 'my lord', and she hurried to give him water, and gave it from her hand.
 
 #### Genesis 24:19
 
 > וַתְּכַ֖ל לְהַשְׁקֹת֑וֹ וַתֹּ֗אמֶר גַּ֤ם לִגְמַלֶּ֙יךָ֙ אֶשְׁאָ֔ב עַ֥ד אִם־כִּלּ֖וּ לִשְׁתֹּֽת׃
 
-_Not yet translated._
+**And she finished giving him drink, and said, "I will draw for your camels too, until they have finished drinking."**
+
+Literal: and-finished to-give-him-drink and-said also to-camels-your I-will-draw until if they-finished to-drink
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתְּכַ֖ל | And she finished — piel wayyiqtol of כָּלָה | ו: and + כָּלָה | כלה | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Pi 1.a |
+| לְהַשְׁקֹת֑וֹ | giving him drink — infinitive construct of שָׁקָה with the suffix ־וֹ 'him' | ל: to, for + שָׁקָה | שׁקה | preposition + verb (hifil, infinitive construct) + suffix (pronominal, 3rd person, masculine, singular) | Hiph 2 |
+| וַתֹּ֗אמֶר | and said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| גַּ֤ם | also — גַּם stands before its noun as in Hebrew (גַּם לִגְמַלֶּיךָ); the English puts "too" after "your camels". | גַּם | גמם | particle (affirmation) |  |
+| לִגְמַלֶּ֙יךָ֙ | for your camels — plural construct with the suffix ־ךָ 'your' (second masculine singular); camels as beasts of burden | ל: to, for + גָּמָל | גמל | preposition + noun (common, masculine, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | 2 |
+| אֶשְׁאָ֔ב | I will draw — imperfect, first singular. שָׁאַב has no object in this verse; the water is understood from the context | שָׁאַב | שׁאב | verb (qal, imperfect (yiqtol), 1st person, common, singular) |  |
+| עַ֥ד | until — עַד with אִם: a temporal clause | עַד | עדה | preposition | II.1 |
+| אִם | if — אִם in a temporal clause: Rashi reads it as 'which', Radak as 'which' or 'until'; see commentary | אִם |  | conjunction | 1 |
+| כִּלּ֖וּ | have finished — piel perfect, third person common plural; the camels are the subject | כָּלָה | כלה | verb (piel, perfect (qatal), 3rd person, common, plural) | Pi 1.a |
+| לִשְׁתֹּֽת׃ | drinking — qal infinitive construct; the entry lists only a Niph sense, so no sense path is given | ל: to, for + שָׁתָה | שׁתה | preposition + verb (qal, infinitive construct) |  |
+
+Grammar:
+
+- The etnaḥta on לְהַשְׁקֹתוֹ closes the first clause; the revia on וַתֹּאמֶר is a disjunctive, and the speech follows it.
+- גַּם comes before its object, as in Hebrew, 'also for your camels'; the English puts 'too' after 'your camels'.
+- עַד אִם כִּלּוּ לִשְׁתֹּת: the temporal clause 'until' with אִם; the piel perfect כִּלּוּ has the camels as subject.
+- The piel כִּלּוּ is used without an object, 'they have finished' (drinking), and the infinitive לִשְׁתֹּת names the act.
+
+Note: The English 'too' renders גַּם as 'also'. The speech is one verse long and closes within it.
+
+Commentary:
+
+- Rashi (follows): Rashi: אִם here serves as אֲשֶׁר ('which'): until they have had enough, which is the end of their drinking.
+- Radak (follows): Radak: 'but if they finish drinking, then I will stop' (I will draw for them until they finish drinking); or אִם stands in place of אֲשֶׁר, 'until they finish drinking'. The English takes the first.
+- Sforno (not-applicable): Sforno: she waited to speak until he had finished drinking, following the rule that one does not speak at a meal in case the windpipe goes down the wrong way.
+
+Ancient Near East:
+
+- Camels drink large quantities of water after a long journey; the verse's own detail (until they had finished drinking) shows why the drawing took long.
+- Whether domesticated camels were in use as pack and riding animals in the patriarchal period is disputed: some hold that they came into common use only late in the second millennium BCE, others find earlier evidence. The English says 'camels' and takes no side.
 
 #### Genesis 24:20
 
 > וַתְּמַהֵ֗ר וַתְּעַ֤ר כַּדָּהּ֙ אֶל־הַשֹּׁ֔קֶת וַתָּ֥רׇץ ע֛וֹד אֶֽל־הַבְּאֵ֖ר לִשְׁאֹ֑ב וַתִּשְׁאַ֖ב לְכׇל־גְּמַלָּֽיו׃
 
-_Not yet translated._
+**And she hurried, and poured out her jar into the trough, and ran again to the well to draw, and drew for all his camels.**
+
+Literal: and-hurried and-poured-out jar-her into the-trough and-ran again to the-well to-draw and-drew to-all-of camels-his
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתְּמַהֵ֗ר | and hurried — piel wayyiqtol | ו: and + מָהַר | מהר | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Pi 1 |
+| וַתְּעַ֤ר | and poured out — piel wayyiqtol: she empties the jar into the trough (Rashi and Radak read 'scatter' and 'pour') | ו: and + עָרָה | ערה | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Pi 3 |
+| כַּדָּהּ֙ | her jar — feminine, with the suffix ־הּ | כַּד | כדד | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| אֶל | into | אֶל |  | preposition | 2 |
+| הַשֹּׁ֔קֶת | the trough — שֹׁקֶת, the entry gives no senses | ה: the + שֹׁ֫קֶת | שׁקה | particle (definite article) + noun (common, feminine, singular, absolute) |  |
+| וַתָּ֥רׇץ | and ran — wayyiqtol | ו: and + רוּץ | רוץ | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| ע֛וֹד | again | עוֹד | עוד | adverb |  |
+| אֶֽל | to | אֶל |  | preposition | 1 |
+| הַבְּאֵ֖ר | the well | ה: the + בְּאֵר | באר | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| לִשְׁאֹ֑ב | to draw — ל with the qal infinitive construct of שָׁאַב; no object is stated | ל: to, for + שָׁאַב | שׁאב | preposition + verb (qal, infinitive construct) |  |
+| וַתִּשְׁאַ֖ב | and drew — qal wayyiqtol of שָׁאַב; no object is stated | ו: and + שָׁאַב | שׁאב | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) |  |
+| לְכׇל | for all — כֹּל 'the whole of, any, every' with the construct | ל: to, for + כֹּל | כלל | preposition + noun (common, masculine, singular, construct) | 1 |
+| גְּמַלָּֽיו׃ | his camels — plural with the suffix ־וֹ 'his'; camels as beasts of burden | גָּמָל | גמל | noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+
+Grammar:
+
+- וַתְּעַר, וַתָּרָץ, וַתִּשְׁאַב: three wayyiqtols in a sequence of quick actions, pouring, running, drawing.
+- עוֹד אֶל־הַבְּאֵר: 'again to the well'; the verb רוּץ returns from 24:17.
+- לִשְׁאֹב is an infinitive construct of שָׁאַב with no stated object; the English keeps the bare verb.
+- לְכָל־גְּמַלָּיו: the construct לְכָל, 'all of', with the plural גְּמַלָּיו and the suffix 'his'.
+
+Commentary:
+
+- Rashi (follows): Rashi: וַתְּעַר means scattering (נְפִיצָה), like the Mishnaic word for pouring from one vessel into another.
+- Rashi (follows): Rashi: the שֹׁקֶת is a hollow stone from which the camels drink.
+- Radak (follows): Radak: she poured it into the trough, the place where the animals are watered.
+- Sforno (not-applicable): Sforno: haste in a servant's work shows that the person served is held in regard by him.
+- Sforno (not-applicable): Sforno: the well is in front of the spring from which the animals drink.
+
+Ancient Near East:
+
+- A שֹׁקֶת was a trough or basin from which animals drank; Rashi glosses it as a hollow stone.
 
 #### Genesis 24:21
 
 > וְהָאִ֥ישׁ מִשְׁתָּאֵ֖ה לָ֑הּ מַחֲרִ֕ישׁ לָדַ֗עַת הַֽהִצְלִ֧יחַ יְהֹוָ֛ה דַּרְכּ֖וֹ אִם־לֹֽא׃
 
-_Not yet translated._
+**And the man was astonished at her, keeping silent to find out whether the LORD had made his way prosper, or not.**
+
+Literal: and-the-man astonished to-her silent to-find-out whether the-LORD made-prosper his-way if not
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְהָאִ֥ישׁ | And the man — ו with the article and אִישׁ | ו: and + ה: the + אִישׁ | אישׁ | conjunction + particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| מִשְׁתָּאֵ֖ה | astonished — hitpaʿel participle of שָׁאָה; the entry lists no senses | שָׁאָה | שׁאה | verb (hitpael, participle, masculine, singular, absolute) |  |
+| לָ֑הּ | at her — ל with the suffix ־הּ. Ibn Ezra: 'for her sake' | ל: to, for |  | preposition + suffix (pronominal, 3rd person, feminine, singular) |  |
+| מַחֲרִ֕ישׁ | keeping silent — hifil participle of חָרֵשׁ | חָרֵשׁ | חרשׁ | verb (hifil, participle, masculine, singular, absolute) | Hiph 1 |
+| לָדַ֗עַת | to find out — ל with the qal infinitive construct of יָדַע, 'find out and discern' | ל: to, for + יָדַע | ידע | preposition + verb (qal, infinitive construct) | Qal 1.c |
+| הַֽהִצְלִ֧יחַ | whether ... had made prosper — interrogative ה with the hifil perfect of צָלֵחַ; 'make prosperous' | ה: interrogative + צָלֵחַ | צלח | particle (interrogative) + verb (hifil, perfect (qatal), 3rd person, masculine, singular) | Hiph 1 |
+| יְהֹוָ֛ה | the LORD — יְהֹוָה | יהוה | הוה | noun (proper name) |  |
+| דַּרְכּ֖וֹ | his way — דֶּרֶךְ 'course of his undertaking', the errand | דֶּ֫רֶךְ | דרך | noun (common, both genders, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 5 |
+| אִם | or — אִם in אִם לֹא | אִם |  | conjunction | 2 |
+| לֹֽא׃ | not | לֹא |  | particle (negative) |  |
+
+Grammar:
+
+- וְהָאִישׁ מִשְׁתָּאֵה לָהּ מַחֲרִישׁ: two participles, hitpaʿel and hifil, describe the man's state; the English supplies 'was'.
+- לָדַעַת: the infinitive construct of יָדַע with ל of purpose, 'in order to find out'.
+- הַהִצְלִיחַ: the interrogative ה with the hifil perfect; the question ends in אִם לֹא, 'or not'.
+- The zaqef gadol on מַחֲרִישׁ divides the verse; the silluq on לֹא closes it.
+
+Note: The LORD: יְהֹוָה is rendered in the usual English form; the decisions give no rule for the bare name. Ibn Ezra's 'like משתומם' and Rashi's 'amazed' agree on the sense of מִשְׁתָּאֵה, so the English takes it.
+
+Commentary:
+
+- Rashi (follows): Rashi: מִשְׁתָּאֵה is of the language of שְׁאִיָּה, as in 'cities lie waste' (שָׁאוּ עָרִים) and 'the desolation is laid waste' (תִּשָּׁאֶה שְׁמָמָה), Isaiah 6:11.
+- Rashi (follows): Rashi: he was amazed and startled, seeing that his errand was close to success, but he did not know whether she was of Abraham's family.
+- Rashi (follows): Rashi: מִשְׁתּוֹמֵם עָלֶיהָ, 'amazed at her'.
+- Ibn Ezra (follows): Ibn Ezra: מִשְׁתָּאֵה is like מִשְׁתּוֹמֵם, 'astonished', from the root of שָׁאוּ עָרִים (Isaiah 6:11).
+- Ibn Ezra (follows): Ibn Ezra: לָהּ means 'for her sake' (like בִּשְׁבִילָהּ); the ת belongs to the hitpaʿel, and the word cannot come from שָׁתָה ('drink').
+- Radak (follows): Radak: he was amazed at her, seeing how quickly she acted, and kept silent without asking whose daughter she was until the camels had drunk.
+- Radak (records): Radak: the question 'whether the LORD had made his way prosper, or not' means whether she is a good woman of Abraham's family or not. The English keeps the plain sense of the question.
+- Sforno (follows): Sforno: he was astonished at the great eagerness with which she did the kindness.
+- Sforno (not-applicable): Sforno: he was silent and did not say 'do not trouble yourself so much', as courtesy would require, in order to recognise her kindness and eagerness.
+- Sforno (not-applicable): Sforno: whether it would be on the side of good and complete kindness.
+- Sforno (not-applicable): Sforno: and whether all this was done in hope of some reward.
 
 #### Genesis 24:22
 
 > וַיְהִ֗י כַּאֲשֶׁ֨ר כִּלּ֤וּ הַגְּמַלִּים֙ לִשְׁתּ֔וֹת וַיִּקַּ֤ח הָאִישׁ֙ נֶ֣זֶם זָהָ֔ב בֶּ֖קַע מִשְׁקָל֑וֹ וּשְׁנֵ֤י צְמִידִים֙ עַל־יָדֶ֔יהָ עֲשָׂרָ֥ה זָהָ֖ב מִשְׁקָלָֽם׃
 
-_Not yet translated._
+**And it came to pass, when the camels had finished drinking, that the man took a gold ring of half a shekel by weight, and two bracelets on her hands, ten shekels of gold by weight.**
+
+Literal: and-it-was when finished the-camels to-drink and-took the-man ring of-gold half its-weight and-two bracelets upon hands-her ten gold their-weight
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְהִ֗י | And it came to pass — wayyiqtol of הָיָה | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.2.a.(1) |
+| כַּאֲשֶׁ֨ר | when — כַּאֲשֶׁר, temporal | כ: like, as + כַּאֲשֶׁר |  | preposition + particle (relative) | 3 |
+| כִּלּ֤וּ | had finished — piel perfect, common plural; the camels are the subject | כָּלָה | כלה | verb (piel, perfect (qatal), 3rd person, common, plural) | Pi 1.a |
+| הַגְּמַלִּים֙ | the camels | ה: the + גָּמָל | גמל | particle (definite article) + noun (common, masculine, plural, absolute) | 2 |
+| לִשְׁתּ֔וֹת | drinking — qal infinitive construct; the entry lists only a Niph sense | ל: to, for + שָׁתָה | שׁתה | preposition + verb (qal, infinitive construct) |  |
+| וַיִּקַּ֤ח | took — wayyiqtol | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| הָאִישׁ֙ | the man | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| נֶ֣זֶם | a ring — נֶזֶם: a ring; Ibn Ezra says it may be worn in the nose or in the ear, and 24:47 has the servant put it on her nose. The entry gives no senses. | נֶ֫זֶם | נזם | noun (common, masculine, singular, construct) |  |
+| זָהָ֔ב | of gold — gold as material, the absolute after the construct נֶזֶם | זָהָב | זהב | noun (common, masculine, singular, absolute) | 6 |
+| בֶּ֖קַע | half — בֶּקַע: half of a shekel (Ibn Ezra) | בֶּ֫קַע | בקע | noun (common, masculine, singular, absolute) |  |
+| מִשְׁקָל֑וֹ | by its weight — מִשְׁקָל with the suffix ־וֹ 'its' | מִשְׁקָל | שׁקל | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| וּשְׁנֵ֤י | and two | ו: and + שְׁנַ֫יִם | שׁנה | conjunction + adjective (cardinal number, masculine, dual, construct) |  |
+| צְמִידִים֙ | bracelets — plural; one bracelet on each hand (Ibn Ezra) | צָמִיד | צמד | noun (common, masculine, plural, absolute) |  |
+| עַל | on | עַל | עלה | preposition | II.1.a.(a) |
+| יָדֶ֔יהָ | her hands — dual construct with the suffix ־הָ 'her' | יָד |  | noun (common, both genders, dual, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| עֲשָׂרָ֥ה | ten | עֶשֶׂר | עשׂר | adjective (cardinal number, masculine, singular, absolute) |  |
+| זָהָ֖ב | gold — gold as measure of weight; the Hebrew names no unit, and 'shekels' is added in the English, understood from בֶּקַע 'half (a shekel)' and the Targum's סִלְעִין | זָהָב | זהב | noun (common, masculine, singular, absolute) | 9 |
+| מִשְׁקָלָֽם׃ | by their weight — מִשְׁקָל with the suffix ־ם 'their' | מִשְׁקָל | שׁקל | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, plural) |  |
+
+Grammar:
+
+- וַיְהִי כַּאֲשֶׁר: a wayyiqtol of הָיָה with a temporal clause, 'it came to pass when'.
+- נֶזֶם זָהָב, בֶּקַע מִשְׁקָלוֹ, עֲשָׂרָה זָהָב מִשְׁקָלָם: the material is named, then the weight, with the suffix on מִשְׁקָל.
+- וּשְׁנֵי צְמִידִים עַל־יָדֶיהָ: the dual יָדֶיהָ is 'her two hands'; the bracelets are plural.
+- The verse has no verb for putting the ring or the bracelets on her: the placing is not stated (see Ramban in the commentary).
+
+Note: The Hebrew names no unit for the ten; the English supplies 'shekels', understood from בֶּקַע, half a shekel (Ibn Ezra), and the Targum's סִלְעִין. The ring is given as a ring, as the verse says; 24:47 places it on her nose. The ring and bracelets are given by weight, not by piece.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: an allusion to the half-shekel of Israel for the head.
+- Rashi (not-applicable): Rashi: an allusion to the two tablets joined together.
+- Rashi (not-applicable): Rashi: an allusion to the ten commandments.
+- Ibn Ezra (follows): Ibn Ezra: there is a נֶזֶם worn in the nose and also in the ear; the one on the nose hangs down from a cord tied on the forehead.
+- Ibn Ezra (follows): Ibn Ezra: בֶּקַע means half (a shekel), from the root of נִבְקַע, 'split'.
+- Ibn Ezra (follows): Ibn Ezra: צְמִידִים comes from the root of צָמִיד, a tied cord (Numbers 19:15); there is one bracelet on each hand, so two, and their shape is known.
+- Ramban (records): Ramban: the verse omits the act of giving. He takes it that the ring and bracelets were taken for her, and that after she named her family he set the ring on her nose and the bracelets on her hands, as he had said to them. The English does not adopt this.
+- Radak (records): Radak: he gave her the ring after asking whose daughter she was; the narrative tells it in that order, the question first and then the gift. The verse's order is kept in the English.
+- Radak (follows): Radak: בֶּקַע is half a shekel; he put it on her nose, as the servant later tells (24:47), and likewise the two bracelets on her hands.
+- Radak (follows): Radak: 'ten of gold' is as the Targum renders it.
+- Sforno (not-applicable): Sforno: this was some time after she had finished watering; he saw she asked nothing, and her deeds were all full kindness.
+- Sforno (records): Sforno: the bracelets were fitting for the measure of her hands, as in 'make chains on the breastplate' (Exodus 28:22) and 'make a gold rim on it' (Exodus 25:11), 'on' meaning fitting their measures.
+
+Ancient Near East:
+
+- The shekel was a unit of weight; gold and silver were weighed in shekels before coined money came into use in the region. The text gives the weight of the gold, not the number of pieces.
+- This verse does not say where the ring went; at 24:47 the servant says he put it on her nose. Ibn Ezra says a נֶזֶם may be worn in the nose or in the ear, and that the nose kind hangs from a cord tied on the forehead.
+
+Apparatus:
+
+- Ramban reads the verse as eliding the placing of the ring and bracelets; the English keeps the verse's own words.
 
 #### Genesis 24:23
 
 > וַיֹּ֙אמֶר֙ בַּת־מִ֣י אַ֔תְּ הַגִּ֥ידִי נָ֖א לִ֑י הֲיֵ֧שׁ בֵּית־אָבִ֛יךְ מָק֥וֹם לָ֖נוּ לָלִֽין׃
 
-_Not yet translated._
+**And he said, "Whose daughter are you? Tell me, please: is there room in your father's house for us to lodge?"**
+
+Literal: and-said daughter-of whose you tell please to-me is-there house-of father-your room for-us to-lodge
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֙אמֶר֙ | And he said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| בַּת | daughter of — בַּת as a relational noun | בַּת |  | noun (common, feminine, singular, construct) | 9 |
+| מִ֣י | whose — interrogative מִי | מִי |  | particle (interrogative) | b |
+| אַ֔תְּ | you — independent pronoun, feminine singular | אַתְּ | אנת | pronoun (personal, 2nd person, feminine, singular) |  |
+| הַגִּ֥ידִי | Tell — hifil imperative, feminine singular, addressed to the girl | נָגַד | נגד | verb (hifil, imperative, 2nd person, feminine, singular) | Hiph |
+| נָ֖א | please — the particle נָא | נָא |  | particle (exhortation) |  |
+| לִ֑י | me — ל with the suffix 'me' | ל: to, for |  | preposition + suffix (pronominal, 1st person, common, singular) |  |
+| הֲיֵ֧שׁ | is there — interrogative ה with יֵשׁ | ה: interrogative + יֵשׁ | ישׂם | particle (interrogative) + particle (demonstrative) | 2 |
+| בֵּית | house of — construct of בַּיִת | בַּ֫יִת |  | noun (common, masculine, singular, construct) | 1 |
+| אָבִ֛יךְ | your father — construct with the suffix ־ךְ 'your' (second feminine singular); the pack's parse gives third person, and the English follows the Hebrew | אָב | אבה | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| מָק֥וֹם | room — space, room | מָקוֹם | קום | noun (common, masculine, singular, absolute) | 5.a |
+| לָ֖נוּ | for us — ל with the suffix 'us' | ל: to, for |  | preposition + suffix (pronominal, 1st person, common, plural) |  |
+| לָלִֽין׃ | to lodge — ל with the infinitive לִין. The parse is qal; Ibn Ezra and Radak read a hifil (causative), recorded in the commentary | ל: to, for + לוּן | לון | preposition + verb (qal, infinitive construct) | Qal 1 |
+
+Grammar:
+
+- בַּת־מִי אַתְּ: a nominal clause, 'whose daughter are you', with the independent pronoun אַתְּ, feminine.
+- הַגִּידִי נָא לִי: a hifil imperative, feminine singular, 'tell me, please', addressed to the girl.
+- הֲיֵשׁ בֵּית־אָבִיךְ מָקוֹם לָנוּ לָלִין: the interrogative ה with יֵשׁ, 'is there'; the construct 'house of your father'.
+- לָלִין is an infinitive with ל of purpose; the parse is qal, and Ibn Ezra reads it as hifil.
+
+Note: The form לָלִין (with yod) is kept as the pack's qal infinitive construct, so the sense path is Qal 1. Ibn Ezra's hifil reading is recorded below, not adopted, because the morphology data is not overridden.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: after he had given her the ring, he asked her, trusting in Abraham's merit that the Holy One made his way prosper.
+- Rashi (records): Rashi: לִין is a noun for a single lodging, and the form לָלוּן, which she uses, means several lodgings.
+- Ibn Ezra (records): Ibn Ezra: לָלִין is from the heavier, added binyan (hifil, the causative), since the light stem is לָלוּן. The English keeps the qal the parse gives.
+- Radak (not-applicable): Radak: he came to her with a reason for asking whose daughter she was.
+- Radak (records): Radak: לָלִין is as לְהָלִין (the causative).
+- Radak (records): Radak: the form with yod is hifil and the form with waw is qal, and the two are one in meaning here: the request and the answer both concern the lodging of the men and the camels.
+- Radak (records): Radak: the verb is transitive, like 'they lodge naked' (Job 24:7): he asked for a place for the camels to lodge, and she answered that there is a place for them in her father's house as well.
+- Sforno (not-applicable): Sforno: a place made ready for receiving guests, as was their custom then.
+- Sforno (records): Sforno: לָלִין means that we lodge our camels there, a causative sense.
+
+Apparatus:
+
+- The form לָלִין (with yod): the pack's parse is qal infinitive construct; Ibn Ezra and Radak read a hifil (causative). The qal sense is used, and the hifil reading is recorded in the commentary.
 
 #### Genesis 24:24
 
 > וַתֹּ֣אמֶר אֵלָ֔יו בַּת־בְּתוּאֵ֖ל אָנֹ֑כִי בֶּן־מִלְכָּ֕ה אֲשֶׁ֥ר יָלְדָ֖ה לְנָחֽוֹר׃
 
-_Not yet translated._
+**And she said to him, "I am the daughter of Bethuel, son of Milcah, whom she bore to Nahor."**
+
+Literal: and-said to-him daughter-of Bethuel I son-of Milcah which bore to-Nahor
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֹּ֣אמֶר | And she said — wayyiqtol | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| אֵלָ֔יו | to him — אֶל with the suffix ־וֹ 'him' | אֶל |  | preposition + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| בַּת | daughter of — בַּת as a relational noun | בַּת |  | noun (common, feminine, singular, construct) | 9 |
+| בְּתוּאֵ֖ל | Bethuel — proper name | בְּתוּאֵל |  | noun (proper name) |  |
+| אָנֹ֑כִי | I — independent pronoun, first singular | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
+| בֶּן | son of — בֶּן in construct with מִלְכָּה | בֵּן |  | noun (common, masculine, singular, construct) | 1 |
+| מִלְכָּ֕ה | Milcah — wife of Nahor, the lexicon's first sense | מִלְכָּה |  | noun (proper name) | 1 |
+| אֲשֶׁ֥ר | whom — relative אֲשֶׁר | אֲשֶׁר | אשׁר | particle (relative) |  |
+| יָלְדָ֖ה | she bore — qatal feminine singular; Milcah is the subject | יָלַד | ילד | verb (qal, perfect (qatal), 3rd person, feminine, singular) | Qal 1 |
+| לְנָחֽוֹר׃ | to Nahor — ל with the proper name Nahor, son of Terah and brother of Abraham | ל: to, for + נָחוֹר |  | preposition + noun (proper name) | 2 |
+
+Grammar:
+
+- וַתֹּאמֶר אֵלָיו: the girl answers the man's question, 'daughter of Bethuel', first.
+- בַּת בְּתוּאֵל אָנֹכִי: a nominal clause with the independent pronoun אָנֹכִי, 'I', at the end.
+- בֶּן־מִלְכָּה אֲשֶׁר יָלְדָה לְנָחוֹר: a relative clause with אֲשֶׁר; the subject of יָלְדָה is Milcah.
+- The zaqef gadol on מִלְכָּה closes the first part of the answer; the silluq on לְנָחוֹר closes the verse.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: she answered the first question first and the last question last.
+- Radak (not-applicable): Radak: she answered the first question; Milcah and Nahor were known, so she said all of this.
+
+Ancient Near East:
+
+- Nahor was Abraham's brother, and Milcah, his wife, was the daughter of their brother Haran (11:27–29; 22:20–23); Bethuel was thus Abraham's nephew and Rebekah his great-niece.
 
 #### Genesis 24:25
 
 > וַתֹּ֣אמֶר אֵלָ֔יו גַּם־תֶּ֥בֶן גַּם־מִסְפּ֖וֹא רַ֣ב עִמָּ֑נוּ גַּם־מָק֖וֹם לָלֽוּן׃
 
-_Not yet translated._
+**She said to him, "We have straw and fodder in plenty, and room to lodge too."**
+
+Literal: and-said she to-him also straw also fodder much with-us also place to-lodge
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֹּ֣אמֶר | and she said — wayyiqtol; the answer follows the question at once | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| אֵלָ֔יו | to him | אֶל |  | preposition + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| גַּם | also | גַּם | גמם | particle (affirmation) |  |
+| תֶּ֥בֶן | straw | תֶּ֫בֶן |  | noun (common, masculine, singular, absolute) |  |
+| גַּם | also | גַּם | גמם | particle (affirmation) |  |
+| מִסְפּ֖וֹא | fodder | מִסְפּוֹא | ספא | noun (common, masculine, singular, absolute) |  |
+| רַ֣ב | plenty | רַב | רבב | adjective (adjective, masculine, singular, absolute) | 1.f |
+| עִמָּ֑נוּ | with us | עִם |  | preposition + suffix (pronominal, 1st person, common, plural) | 1 |
+| גַּם | also | גַּם | גמם | particle (affirmation) |  |
+| מָק֖וֹם | room | מָקוֹם | קום | noun (common, masculine, singular, absolute) | 5.a |
+| לָלֽוּן׃ | to lodge — infinitive with the preposition ל | ל: to, for + לוּן | לון | preposition + verb (qal, infinitive construct) | Qal 1 |
+
+Grammar:
+
+- וַתֹּאמֶר אֵלָיו is a wayyiqtol: the answer comes straight after the question, with no new subject named.
+- Three גַּם stand in the answer, each before its own item (straw, fodder, room); the English keeps all three so that the list reads as the Hebrew gives it.
+- רַב עִמָּנוּ has no verb; the English keeps it verbless as "plenty with us".
+- The etnaḥta on עִמָּנוּ divides the answer: the feed for the animals before it, the room for the night after it.
+
+Note: The answer gives feed and room, more than a yes or no. Radak's reading that she answered beyond the question is recorded in the commentary, not in the English.
+
+Commentary:
+
+- Rashi (follows): Rashi: every food of the camels is called מִסְפּוֹא, such as straw and barley.
+- Radak (not-applicable): Radak: she answered more than he asked, to show that she was generous of heart.
+- Radak (follows): Radak: מִסְפּוֹא is the general word for the food of beasts apart from straw, that is, barley and oats (שִׁבֹּלֶת שׁוּעָל).
+- Radak (follows): Radak: the repeated גַּם is the idiom of the language, each item adding to the one before.
+- Sforno (records): Sforno: it is not only a place for the camels; there is also straw and fodder to feed them.
+- Sforno (records): Sforno: the room is for you and your men.
 
 #### Genesis 24:26
 
 > וַיִּקֹּ֣ד הָאִ֔ישׁ וַיִּשְׁתַּ֖חוּ לַֽיהֹוָֽה׃
 
-_Not yet translated._
+**The man bowed down and prostrated himself to the LORD.**
+
+Literal: and-bowed the-man and-prostrated-himself to-the-LORD
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּקֹּ֣ד | and bowed down — wayyiqtol; the first of two acts | ו: and + קָדַד | קדד | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) |  |
+| הָאִ֔ישׁ | the man | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| וַיִּשְׁתַּ֖חוּ | and prostrated himself — hitpaʿel, reflexive: he bows himself to the ground | ו: and + שָׁחָה | שׁחה | conjunction + verb (hitpael, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hithpa‛lēl 2 |
+| לַֽיהֹוָֽה׃ | to the LORD | ל: to, for + יהוה | הוה | preposition + noun (proper name) | I |
+
+Grammar:
+
+- Two wayyiqtol verbs in sequence: the man first bows down (קָדַד), then prostrates himself (שָׁחָה).
+- וַיִּשְׁתַּחוּ is the wayyiqtol of the reflexive stem that the lexicon lists under שָׁחָה (Hithpa‛lēl); the form is reflexive, so the English has "himself".
+- The ל of לַיהוָה marks the one worshipped; the English keeps "to" as the Hebrew has it.
+- The zaqef qaton on הָאִישׁ closes the first act; the second act and the name follow, and the silluq on the name ends the verse.
+
+Commentary:
+
+- Radak (follows): Radak: הִשְׁתַּחֲוָיָה is more than קִידָה; the sages say קִידָה is bowing on the face and הִשְׁתַּחֲוָיָה is spreading out the hands and feet. He thanked God that his way succeeded.
+
+Apparatus:
+
+- 24:26.4 vowels: WLC reads לַֽיהוָֽה; the base text reads לַֽיהֹוָֽה׃ (the same name, differently pointed).
+- לַֽיהֹוָֽה׃: WLC reads לַֽיהוָֽה (vowels)
 
 #### Genesis 24:27
 
 > וַיֹּ֗אמֶר בָּר֤וּךְ יְהֹוָה֙ אֱלֹהֵי֙ אֲדֹנִ֣י אַבְרָהָ֔ם אֲ֠שֶׁ֠ר לֹֽא־עָזַ֥ב חַסְדּ֛וֹ וַאֲמִתּ֖וֹ מֵעִ֣ם אֲדֹנִ֑י אָנֹכִ֗י בַּדֶּ֙רֶךְ֙ נָחַ֣נִי יְהֹוָ֔ה בֵּ֖ית אֲחֵ֥י אֲדֹנִֽי׃
 
-_Not yet translated._
+**He said, "Blessed be the LORD, the God of my master Abraham, who has not forsaken his kindness and his faithfulness from my master; as for me, the LORD led me on the way to the house of my master's brothers."**
+
+Literal: and-said blessed the-LORD God-of my-lord Abraham who not forsook his-kindness and-his-faithfulness from-with my-lord; I on-the-way led-me the-LORD house brothers-of my-lord
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֗אמֶר | and said — wayyiqtol; the speech that follows is his | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| בָּר֤וּךְ | blessed — qal passive participle used as a predicate; the Hebrew has no verb, so "be" is the English copula | בָּרַךְ | ברך | verb (qal, participle passive, masculine, singular, absolute) | Qal 2 |
+| יְהֹוָה֙ | the LORD | יהוה | הוה | noun (proper name) | I |
+| אֱלֹהֵי֙ | God of | אֱלֹהִים | אלה | noun (common, masculine, plural, construct) | 4 |
+| אֲדֹנִ֣י | my lord — construct with suffix: "my lord", the title of a man | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| אַבְרָהָ֔ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| אֲ֠שֶׁ֠ר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| לֹֽא | not | לֹא |  | particle (negative) |  |
+| עָזַ֥ב | has forsaken — qatal, negated: a completed act | עָזַב | עזב | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+| חַסְדּ֛וֹ | his kindness | חֶ֫סֶד | חסד | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | II |
+| וַאֲמִתּ֖וֹ | and his faithfulness | ו: and + אֱמֶת | אמן | conjunction + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| מֵעִ֣ם | from | מ: from, than + מֵעִם |  | preposition + preposition |  |
+| אֲדֹנִ֑י | my lord | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| אָנֹכִ֗י | as for me | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
+| בַּדֶּ֙רֶךְ֙ | on the way — ב with the article: the way he was on | ב: in, with, by + דֶּ֫רֶךְ | דרך | preposition (with definite article) + noun (common, both genders, singular, absolute) | 1 |
+| נָחַ֣נִי | led me — qatal with a 1cs suffix | נָחָה | נחה | verb (qal, perfect (qatal), 3rd person, masculine, singular) + suffix (pronominal, 1st person, common, singular) | Qal |
+| יְהֹוָ֔ה | the LORD | יהוה | הוה | noun (proper name) | I |
+| בֵּ֖ית | the house of | בַּ֫יִת |  | noun (common, masculine, singular, construct) | 4 |
+| אֲחֵ֥י | brothers of — plural construct, literally "brothers of"; Radak explains the plural by Nahor being Abraham's brother and Milcah the daughter of his brother | אָח | אחה | noun (common, masculine, plural, construct) | 1 |
+| אֲדֹנִֽי׃ | my lord | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+
+Grammar:
+
+- בָּרוּךְ יְהוָה has no verb: the participle is a predicate, and the English "Blessed be" supplies the copula that the form needs. It is the one copula this translation adds.
+- אֲשֶׁר לֹא־עָזַב is a relative clause with a negated qatal: "who has not forsaken" reports a completed act.
+- חַסְדּוֹ וַאֲמִתּוֹ is a pair of nouns, חֶסֶד and אֱמֶת, each with its own suffix; the pair recurs in the Hebrew Bible for steady loyalty and reliability.
+- בַּדֶּרֶךְ: the ב carries the article, so the word is "on the way" he was on; Rashi reads it as the road he needed.
+- The etnaḥta on אֲדֹנִי divides the speech: the blessing before it, the account of the journey after it.
+
+Note: The English supplies "be" in the first clause; see the grammar note. Otherwise the speech keeps the Hebrew's order and its verbless clauses.
+
+Commentary:
+
+- Rashi (follows): Rashi: דֶּרֶךְ is the appointed way, the straight road, the very road he needed; a ב, ל or ה prefix pointed with pataḥ speaks of a matter already mentioned elsewhere or clearly known.
+- Radak (records): Radak: for one who pursues good, the good God owes him provision, which is emet; ḥesed is the surplus of good, and that is why he found him a wife from his father's house.
+- Radak (not-applicable): Radak: he did not know where he would lodge.
+- Radak (follows): Radak: the plural אֲחֵי is used because Nahor was Abraham's brother and Milcah the daughter of his brother; "daughter of my lord's brother" in verse 48 is the singular and means the same; the first has ṣere under the ḥet, the last ḥiriq.
 
 #### Genesis 24:28
 
 > וַתָּ֙רׇץ֙ הַֽנַּעֲרָ֔ וַתַּגֵּ֖ד לְבֵ֣ית אִמָּ֑הּ כַּדְּבָרִ֖ים הָאֵֽלֶּה׃
 
-_Not yet translated._
+**The girl ran and told her mother's household in these words.**
+
+Literal: and-ran the-girl and-told to-house mother-her like-the-words these
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתָּ֙רׇץ֙ | and ran — wayyiqtol | ו: and + רוּץ | רוץ | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| הַֽנַּעֲרָ֔ | the girl | ה: the + נַעֲרָה | נער | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| וַתַּגֵּ֖ד | and told — hifil wayyiqtol | ו: and + נָגַד | נגד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Hiph |
+| לְבֵ֣ית | to the household of — lexicon sense 5: the house as the family that lives in it | ל: to, for + בַּ֫יִת |  | preposition + noun (common, masculine, singular, construct) | 5 |
+| אִמָּ֑הּ | her mother | אֵם | אמם | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| כַּדְּבָרִ֖ים | as these words — כְּ gives a likeness, not an identity: the report is in the manner of these words | כ: like, as + דָּבָר | דבר | preposition (with definite article) + noun (common, masculine, plural, absolute) | III |
+| הָאֵֽלֶּה׃ | these | ה: the + אֵ֫לֶּה | אלה | particle (definite article) + pronoun (demonstrative, common, plural) | c |
+
+Grammar:
+
+- וַתָּרָץ and וַתַּגֵּד are two wayyiqtol verbs in sequence: she ran, then she told.
+- לְבֵית אִמָּהּ, "the house of her mother", is the household; the English uses "household" for the family.
+- כַּדְּבָרִים הָאֵלֶּה: the כְּ gives a likeness, "according to these words"; Radak reads it as allowing for less, more or different wording in the telling.
+- The etnaḥta on אִמָּהּ divides the verse after those she told; the silluq on הָאֵלֶּה ends it.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: women had a house in which to sit at their work, and a daughter reports only to her mother.
+- Radak (not-applicable): Radak: she ran to the house with joy.
+- Radak (not-applicable): Radak: the daughter's stories and talk are with her mother, not with her father.
+- Radak (follows): Radak: "as these words" allows for less, more, or different wording; that is the manner of the narrator.
 
 #### Genesis 24:29
 
 > וּלְרִבְקָ֥ה אָ֖ח וּשְׁמ֣וֹ לָבָ֑ן וַיָּ֨רׇץ לָבָ֧ן אֶל־הָאִ֛ישׁ הַח֖וּצָה אֶל־הָעָֽיִן׃
 
-_Not yet translated._
+**Rebekah had a brother whose name was Laban. And Laban ran to the man outside, to the spring.**
+
+Literal: and-to-Rebekah brother, and-his-name Laban; and-ran Laban to-the-man outside to-the-spring
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וּלְרִבְקָ֥ה | and to Rebekah | ו: and + ל: to, for + רִבְקָה |  | conjunction + preposition + noun (proper name) |  |
+| אָ֖ח | a brother — a brother of hers; the noun is indefinite because Laban is introduced here | אָח | אחה | noun (common, masculine, singular, absolute) | 1 |
+| וּשְׁמ֣וֹ | and his name | ו: and + שֵׁם |  | conjunction + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2.a |
+| לָבָ֑ן | Laban | לָבָן |  | noun (proper name) |  |
+| וַיָּ֨רׇץ | and ran — wayyiqtol | ו: and + רוּץ | רוץ | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| לָבָ֧ן | Laban | לָבָן |  | noun (proper name) |  |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָאִ֛ישׁ | the man | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| הַח֖וּצָה | outside — the directional ה on חוּץ | ה: the + חוּץ | חוץ | particle (definite article) + noun (common, masculine, singular, absolute) + suffix (directional he) |  |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָעָֽיִן׃ | the spring | ה: the + עַ֫יִן | עין | particle (definite article) + noun (common, both genders, singular, absolute) | a |
+
+Grammar:
+
+- The first two clauses, וּלְרִבְקָה אָח and וּשְׁמוֹ לָבָן, have no verb; the English keeps them verbless.
+- וַיָּרָץ returns the narrative to action after the two clauses.
+- The ה on חוּצָה is directional: the man is outside, and Laban runs to him at the spring.
+- The etnaḥta on לָבָן divides the two clauses about Laban from the action; the silluq on הָעָיִן ends the verse.
+
+Note: Both clauses are verbless in the Hebrew; the English supplies "had" and "was" as the ordinary English of the possessive ל and of a name. Radak's comment explains why Laban is introduced here: he is not written in the account of Nahor's descendants. It does not make "brother" mean "relative".
+
+Commentary:
+
+- Rashi (not-applicable): Rashi asks why Laban ran and for what purpose he ran.
+- Radak (records): Radak: the text introduces him here as Rebekah's brother because he was not written in the account of Nahor's descendants.
+- Sforno (not-applicable): Sforno: Laban ran to see a rich guest who had come to the city, not to bring him into his house.
 
 #### Genesis 24:30
 
 > וַיְהִ֣י ׀ כִּרְאֹ֣ת אֶת־הַנֶּ֗זֶם וְֽאֶת־הַצְּמִדִים֮ עַל־יְדֵ֣י אֲחֹתוֹ֒ וּכְשׇׁמְע֗וֹ אֶת־דִּבְרֵ֞י רִבְקָ֤ה אֲחֹתוֹ֙ לֵאמֹ֔ר כֹּֽה־דִבֶּ֥ר אֵלַ֖י הָאִ֑ישׁ וַיָּבֹא֙ אֶל־הָאִ֔ישׁ וְהִנֵּ֛ה עֹמֵ֥ד עַל־הַגְּמַלִּ֖ים עַל־הָעָֽיִן׃
 
-_Not yet translated._
+**When he saw the ring and the bracelets on his sister's hands, and when he heard the words of Rebekah his sister, saying, "Thus the man spoke to me," he came to the man; and look, he was standing by the camels at the spring.**
+
+Literal: and-it-was as-seeing (object) the-ring and-(object) the-bracelets upon-hands-of his-sister, and-as-hearing (object) words-of Rebekah his-sister saying: thus spoke to-me the-man; and-came to-the-man, and-look standing upon the-camels upon the-spring
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְהִ֣י | when — wayyiqtol of היה with a temporal infinitive; "it was" is not rendered | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.2.a.(1) |
+| כִּרְאֹ֣ת | as he saw | כ: like, as + רָאָה | ראה | preposition + verb (qal, infinitive construct) | Qal 1.a |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| הַנֶּ֗זֶם | the ring | ה: the + נֶ֫זֶם | נזם | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| וְֽאֶת | and (object marker) | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| הַצְּמִדִים֮ | the bracelets | ה: the + צָמִיד | צמד | particle (definite article) + noun (common, masculine, plural, absolute) |  |
+| עַל | on | עַל | עלה | preposition | II.1 |
+| יְדֵ֣י | hands — dual construct: "hands of" | יָד |  | noun (common, both genders, dual, construct) | 1 |
+| אֲחֹתוֹ֒ | his sister | אָחוֹת | אחה | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וּכְשׇׁמְע֗וֹ | and when he heard | ו: and + כ: like, as + שָׁמַע | שׁמע | conjunction + preposition + verb (qal, infinitive construct) + suffix (pronominal, 3rd person, masculine, singular) | Qal 1 |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| דִּבְרֵ֞י | the words of | דָּבָר | דבר | noun (common, masculine, plural, construct) | III |
+| רִבְקָ֤ה | Rebekah | רִבְקָה |  | noun (proper name) |  |
+| אֲחֹתוֹ֙ | his sister | אָחוֹת | אחה | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| לֵאמֹ֔ר | saying | ל: to, for + אָמַר | אמר | preposition + verb (qal, infinitive construct) | Qal 1 |
+| כֹּֽה | thus | כֹּה |  | adverb | 1 |
+| דִבֶּ֥ר | spoke | דָבַר | דבר | verb (piel, perfect (qatal), 3rd person, masculine, singular) | Pi |
+| אֵלַ֖י | to me | אֶל |  | preposition + suffix (pronominal, 1st person, common, singular) | 1 |
+| הָאִ֑ישׁ | the man | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| וַיָּבֹא֙ | and he came | ו: and + בּוֹא | בוא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 2 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָאִ֔ישׁ | the man | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| וְהִנֵּ֛ה | and look — הִנֵּה: "look", as the sense requires | ו: and + הִנֵּה |  | conjunction + particle (demonstrative) |  |
+| עֹמֵ֥ד | standing — participle; its subject is the man, the traveller with the camels | עָמַד | עמד | verb (qal, participle active, masculine, singular, absolute) | Qal 1.a |
+| עַל | by | עַל | עלה | preposition | II.6 |
+| הַגְּמַלִּ֖ים | the camels | ה: the + גָּמָל | גמל | particle (definite article) + noun (common, masculine, plural, absolute) | 2 |
+| עַל | at | עַל | עלה | preposition | II.6 |
+| הָעָֽיִן׃ | the spring | ה: the + עַ֫יִן | עין | particle (definite article) + noun (common, both genders, singular, absolute) | a |
+
+Grammar:
+
+- וַיְהִי כִּרְאֹת is "when he saw": the wayehi with a temporal infinitive; the English does not render "it was".
+- The two object markers אֵת before הַנֶּזֶם and הַצְּמִדִים are not rendered; the English has "the ring and the bracelets".
+- The second clause, וּכְשָׁמְעוֹ, repeats the first: "and when he heard" the words of Rebekah.
+- לֵאמֹר introduces Rebekah's words, which are quoted inside the narrative; the speech closes before "he came".
+- The etnaḥta on הָאִישׁ (24:30.19) closes Rebekah's quoted words; the silluq on הָעָיִן ends the verse with the scene.
+
+Note: The sentence is long because the Hebrew is: when he saw, when he heard, he came, and look. The English keeps that order. The subject of עֹמֵד is the man, not Laban.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: Laban said, "this one is rich," and fixed his eyes on the money.
+- Rashi (records): Rashi: he stood over the camels to guard them, as in 18:8, that is, to attend to them.
+- Radak (not-applicable): Radak: Laban was grudging with his sister; when he saw the ring and the bracelets he ran to bring the man home.
+- Radak (not-applicable): Radak: it seems the man spoke to her about coming to the city to take a wife for his master's son.
+- Radak (not-applicable): Radak: he stood waiting, expecting the girl, her father or her brother to come back and bring him in.
+- Sforno (not-applicable): Sforno: Laban thought it not fitting to be ungrateful for the gift.
+- Sforno (not-applicable): Sforno: Eliezer asked her whether her father's house had room for them to lodge.
+- Sforno (not-applicable): Sforno: Laban came to the man to bring him into his house.
+- Sforno (records): Sforno: he stood by the camels to look after their needs, not expecting to lodge in the house until word came from the man.
+
+Ancient Near East:
+
+- The נֶזֶם is a jewel worn at the nose or the ear; this verse does not say which, so the English keeps the general word "ring".
+- Camels (גְּמַלִּים) are the animals of the caravan in this chapter. When camels came into use for riding and transport in this region is disputed; the English takes no side on it.
 
 #### Genesis 24:31
 
 > וַיֹּ֕אמֶר בּ֖וֹא בְּר֣וּךְ יְהֹוָ֑ה לָ֤מָּה תַעֲמֹד֙ בַּח֔וּץ וְאָנֹכִי֙ פִּנִּ֣יתִי הַבַּ֔יִת וּמָק֖וֹם לַגְּמַלִּֽים׃
 
-_Not yet translated._
+**He said, "Come in, blessed of the LORD! Why do you stand outside? Now I have cleared the house and a place for the camels."**
+
+Literal: and-said come blessed the-LORD why you-will-stand outside and-I cleared the-house and-place for-the-camels
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֕אמֶר | and he said — wayyiqtol; the speech is Laban's | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| בּ֖וֹא | come in — imperative | בּוֹא | בוא | verb (qal, imperative, 2nd person, masculine, singular) | Qal 1 |
+| בְּר֣וּךְ | blessed — qal passive participle; "blessed of the LORD" | בָּרַךְ | ברך | verb (qal, participle passive, masculine, singular, construct) | Qal 2 |
+| יְהֹוָ֑ה | the LORD | יהוה | הוה | noun (proper name) | I |
+| לָ֤מָּה | why — לָמָּה: why, the interrogative with ל | ל: to, for + מָה |  | preposition + particle (interrogative) | 4 |
+| תַעֲמֹד֙ | do you stand — yiqtol, 2ms: the present form in a question | עָמַד | עמד | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1.a |
+| בַּח֔וּץ | outside | ב: in, with, by + חוּץ | חוץ | preposition (with definite article) + noun (common, masculine, singular, absolute) |  |
+| וְאָנֹכִי֙ | now I — the conjunction ו rendered "now" | ו: and + אָֽנֹכִ֫י |  | conjunction + pronoun (personal, 1st person, common, singular) |  |
+| פִּנִּ֣יתִי | have cleared — piʿel perfect 1cs; the lexicon entry for פָּנָה lists no piʿel sense, so no sense is given; "cleared" is from the context | פָּנָה | פנה | verb (piel, perfect (qatal), 1st person, common, singular) |  |
+| הַבַּ֔יִת | the house | ה: the + בַּ֫יִת |  | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| וּמָק֖וֹם | and a place | ו: and + מָקוֹם | קום | conjunction + noun (common, masculine, singular, absolute) | 2.a |
+| לַגְּמַלִּֽים׃ | for the camels | ל: to, for + גָּמָל | גמל | preposition (with definite article) + noun (common, masculine, plural, absolute) | 2 |
+
+Grammar:
+
+- בּוֹא is an imperative; בְּרוּךְ יְהוָה is a form of address to the man, "blessed of the LORD".
+- לָמָּה is "why": the interrogative מָה with the preposition ל.
+- תַעֲמֹד is a yiqtol, 2ms; "do you stand" is the English form for a question in the present.
+- פִּנִּיתִי is a piʿel perfect; the lexicon has no piʿel sense, so the English "cleared" comes from the sense of the clause.
+- The zaqef gadol on וַיֹּאמֶר sets off the introduction; the etnaḥta on יְהוָה divides the greeting from the question; the silluq on לַגְּמַלִּים ends the verse.
+
+Commentary:
+
+- Rashi (declines): Rashi: he cleared the house of idolatry, from Bereshit Rabbah; this is midrash, not the plain sense of the verb.
+- Radak (follows): Radak: "blessed of the LORD" means that the LORD has blessed him with wealth, as Laban sees it.
+- Radak (not-applicable): Radak: the house was cleared for him and his men, and a place for the camels too.
+- Sforno (not-applicable): Sforno: since you asked only for a place to lodge the camels, why do you want to stand outside, you and your men?
+
+Apparatus:
+
+- פִּנִּיתִי: the lexicon entry for פָּנָה lists no piʿel sense; the English takes its sense from the context.
 
 #### Genesis 24:32
 
 > וַיָּבֹ֤א הָאִישׁ֙ הַבַּ֔יְתָה וַיְפַתַּ֖ח הַגְּמַלִּ֑ים וַיִּתֵּ֨ן תֶּ֤בֶן וּמִסְפּוֹא֙ לַגְּמַלִּ֔ים וּמַ֙יִם֙ לִרְחֹ֣ץ רַגְלָ֔יו וְרַגְלֵ֥י הָאֲנָשִׁ֖ים אֲשֶׁ֥ר אִתּֽוֹ׃
 
-_Not yet translated._
+**The man came into the house, and loosened the camels, and gave straw and fodder to the camels, and water to wash his feet and the feet of the men with him.**
+
+Literal: and-came the-man to-the-house and-loosened the-camels and-gave straw and-fodder to-the-camels and-water to-wash feet-his and-feet-of the-men who with-him
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיָּבֹ֤א | and came into — wayyiqtol | ו: and + בּוֹא | בוא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| הָאִישׁ֙ | the man | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| הַבַּ֔יְתָה | the house — directional ה: "into the house" | ה: the + בַּ֫יִת |  | particle (definite article) + noun (common, masculine, singular, absolute) + suffix (directional he) | 1 |
+| וַיְפַתַּ֖ח | and loosened — piʿel wayyiqtol: "loosened" | ו: and + פָּתַח | פתח | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Pi 2 |
+| הַגְּמַלִּ֑ים | the camels | ה: the + גָּמָל | גמל | particle (definite article) + noun (common, masculine, plural, absolute) | 2 |
+| וַיִּתֵּ֨ן | and gave — wayyiqtol | ו: and + נָתַן | נתן | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| תֶּ֤בֶן | straw | תֶּ֫בֶן |  | noun (common, masculine, singular, absolute) |  |
+| וּמִסְפּוֹא֙ | and fodder — Ibn Ezra reads מִסְפּוֹא as a general word for the food of beasts, with barley as one kind under it; the English keeps the general word | ו: and + מִסְפּוֹא | ספא | conjunction + noun (common, masculine, singular, absolute) |  |
+| לַגְּמַלִּ֔ים | to the camels | ל: to, for + גָּמָל | גמל | preposition (with definite article) + noun (common, masculine, plural, absolute) | 2 |
+| וּמַ֙יִם֙ | and water | ו: and + מַי |  | conjunction + noun (common, masculine, plural, absolute) |  |
+| לִרְחֹ֣ץ | to wash — infinitive construct with ל | ל: to, for + רָחַץ | רחץ | preposition + verb (qal, infinitive construct) | Qal 1 |
+| רַגְלָ֔יו | his feet — dual construct with suffix | רֶ֫גֶל | רגל | noun (common, feminine, dual, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וְרַגְלֵ֥י | and the feet of | ו: and + רֶ֫גֶל | רגל | conjunction + noun (common, feminine, dual, construct) | 1 |
+| הָאֲנָשִׁ֖ים | the men | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, plural, absolute) |  |
+| אֲשֶׁ֥ר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| אִתּֽוֹ׃ | with him | אֵת |  | preposition + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+
+Grammar:
+
+- The wayyiqtol chain וַיָּבֹא, וַיְפַתַּח, וַיִּתֵּן keeps the order of the actions: came, loosened, gave.
+- וַיְפַתַּח is a piʿel: "loosened". The lexicon gives "loosen" for this sense; the object is the camels.
+- לִרְחֹץ is an infinitive construct after מַיִם: "water to wash".
+- אֲשֶׁר אִתּוֹ is a relative with אֵת: "who with him"; the English keeps "with him" without a relative verb.
+- The pashta on וּמִסְפּוֹא divides the gift of feed from the water; the silluq on אִתּוֹ ends the verse.
+
+Note: The Hebrew names no new subject for וַיְפַתַּח and the two verbs after it; the wayyiqtol chain continues from הָאִישׁ, and the English keeps it. Ramban takes the subject to be Laban (commentary).
+
+Commentary:
+
+- Rashi (records): Rashi: he untied their muzzles, which stopped their mouths so that they would not graze in other fields on the way.
+- Ibn Ezra (follows): Ibn Ezra: מִסְפּוֹא is the name of the food of beasts, a general name, and barley is included under it.
+- Ramban (records): Ramban: the man who came is Eliezer, but the subject of "and loosened the camels" is Laban, who did this for his guests; he finds it far-fetched that Eliezer gave the water to wash his own feet.
+- Radak (follows): Radak: he freed the camels from their bonds, as one frees beasts from the road; the sages' reading of the muzzles he gives as midrash.
+
+Ancient Near East:
+
+- Washing the feet of a traveller was part of hospitality in the region (compare 18:4, 19:2 and 43:24).
+
+Apparatus:
+
+- The subject of וַיְפַתַּח is not named; the chain continues from הָאִישׁ, and Ramban reads Laban.
 
 #### Genesis 24:33
 
 > וַיּוּשַׂ֤ם לְפָנָיו֙ לֶאֱכֹ֔ל וַיֹּ֙אמֶר֙ לֹ֣א אֹכַ֔ל עַ֥ד אִם־דִּבַּ֖רְתִּי דְּבָרָ֑י וַיֹּ֖אמֶר דַּבֵּֽר׃
 
-_Not yet translated._
+**Then there was set before him to eat. He said, "I will not eat until I have spoken my words." Then he said, "Speak."**
+
+Literal: and-was-set to-faces-of-him to-eat and-said not I-eat until if I-spoke my-words and-said speak
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיּוּשַׂ֤ם | then there was set — Hofal (passive) of שׂוּם, the doer not named. The qere form is translated; the ketiv is in the apparatus. | ו: and + שׂוּם | שׂום | conjunction + verb (hofal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hoph |
+| לְפָנָיו֙ | before him — לְפָנָיו, lit. 'to his faces': the idiom 'before him'. | ל: to, for + פָּנֶה | פנה | preposition + noun (common, both genders, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) | I.6 |
+| לֶאֱכֹ֔ל | to eat — Infinitive construct with ל: the purpose of the setting. | ל: to, for + אָכַל | אכל | preposition + verb (qal, infinitive construct) | Qal 1 |
+| וַיֹּ֙אמֶר֙ | he said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| לֹ֣א | not | לֹא |  | particle (negative) |  |
+| אֹכַ֔ל | I will eat — Yiqtol 1cs with לֹא: 'I will not eat'. | אָכַל | אכל | verb (qal, imperfect (yiqtol), 1st person, common, singular) | Qal 1 |
+| עַ֥ד | until — עַד of time. | עַד | עדה | preposition | I.2 |
+| אִם | that — אִם here has the force of כִּי, as Rashi says; with עַד the pair means 'until'. The English 'until' carries both tokens. | אִם |  | conjunction | 1 |
+| דִּבַּ֖רְתִּי | I have spoken — Piel perfect 1cs: the speaking is complete before the eating. | דָבַר | דבר | verb (piel, perfect (qatal), 1st person, common, singular) | Pi |
+| דְּבָרָ֑י | my words — Plural דְּבָרִים with the 1cs suffix. | דָּבָר | דבר | noun (common, masculine, plural, construct) + suffix (pronominal, 1st person, common, singular) | III |
+| וַיֹּ֖אמֶר | then he said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| דַּבֵּֽר׃ | speak — Piel imperative 2ms. | דָבַר | דבר | verb (piel, imperative, 2nd person, masculine, singular) | Pi |
+
+Grammar:
+
+- הוּשַׂם is the hofal of שׂוּם, a passive in the wayyiqtol; the Hebrew names no doer, and the English passive keeps that.
+- The infinitive לֶאֱכֹל gives the purpose of the setting; the negative לֹא אֹכַל is the refusal, and the qatal דִּבַּרְתִּי in the clause after עַד אִם is completed before the eating.
+- The second וַיֹּאמֶר introduces the imperative דַּבֵּר; the speaker changes without a name in the Hebrew.
+
+Note: Ibn Ezra (normative) reads the hofal as the binyan in which the doer is not named; the English follows him. Radak's servants and his name for the second speaker are recorded, not adopted.
+
+Commentary:
+
+- Rashi (follows): Rashi: אִם is used in the sense of both אֲשֶׁר and כִּי, as in עַד כִּי יָבֹא שִׁילֹה; and this is what the sages said, that כִּי is used in four senses, one of which is אִי, that is, אִם. The English reads 'until'.
+- Ibn Ezra (follows): Ibn Ezra: this is the binyan in which the name of the doer is not mentioned, as in ויושב את משה; the English therefore gives an unnamed passive.
+- Radak (records): Radak: the ketiv ויישם is taken from the root ישם; he sets the ketiv beside the form read here.
+- Radak (records): Radak: the form is hofal, and the food was set before him by the servants of the house; the Hebrew names no servants, so the English does not add them.
+- Radak (records): Radak: the one who says 'speak' is Laban or Bethuel; the Hebrew names neither, so the English keeps 'he'.
+
+Apparatus:
+
+- Ketiv ויישם; qere וַיּוּשַׂם, the form translated. Radak takes the ketiv from the root ישם.
+- וַיּוּשַׂ֤ם: ketiv reads ויישם (ketiv-qere)
 
 #### Genesis 24:34
 
 > וַיֹּאמַ֑ר עֶ֥בֶד אַבְרָהָ֖ם אָנֹֽכִי׃
 
-_Not yet translated._
+**He said, "I am Abraham's servant.**
+
+Literal: and-said servant-of Abraham I
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּאמַ֑ר | he said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| עֶ֥בֶד | servant of — Construct with the following name: 'the servant of Abraham'. | עֶ֫בֶד | עבד | noun (common, masculine, singular, construct) | 4 |
+| אַבְרָהָ֖ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| אָנֹֽכִי׃ | I — The independent pronoun is the subject of a verbless sentence; 'am' is English for the equation. | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
+
+Grammar:
+
+- The verse is verbless after the verb of saying: 'servant of Abraham I', with the pronoun אָנֹכִי as subject; the English supplies 'am'.
+- The etnaḥta on וַיֹּאמַר divides the verse; the speech it opens runs on to 24:49 and is left open in this unit.
+- The servant is not named in this verse.
+
+Note: Ibn Ezra (normative) rules that the words stand as their plain sense, not joined to the words about food. The English gives the plain sense.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra: some take 'I am Abraham's servant' with the words about eating, so that some foods are forbidden to them; the correct reading is that his words stand in their plain meaning.
+- Radak (not-applicable): Radak: the Sages say that he first wished to be understood as only the servant of Abraham, the brother of his hearers, so that the honour they see is not his; a comment on his motive, not on the words.
 
 #### Genesis 24:35
 
 > וַיהֹוָ֞ה בֵּרַ֧ךְ אֶת־אֲדֹנִ֛י מְאֹ֖ד וַיִּגְדָּ֑ל וַיִּתֶּן־ל֞וֹ צֹ֤אן וּבָקָר֙ וְכֶ֣סֶף וְזָהָ֔ב וַעֲבָדִם֙ וּשְׁפָחֹ֔ת וּגְמַלִּ֖ים וַחֲמֹרִֽים׃
 
-_Not yet translated._
+**The LORD blessed my master greatly, and he became great; and he gave him flocks and cattle and silver and gold and servants and maidservants and camels and donkeys.**
+
+Literal: and-the-LORD blessed OBJ my-master greatly and-became-great and-gave to-him flocks and-cattle and-silver and-gold and-servants and-maidservants and-camels and-donkeys
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיהֹוָ֞ה | and the LORD — יְהוָה, written here with the vowels of יְהֹוָה (see apparatus). | ו: and + יהוה | הוה | conjunction + noun (proper name) | I |
+| בֵּרַ֧ךְ | blessed — Piel perfect 3ms with God as subject: 'God blesses'. | בָּרַךְ | ברך | verb (piel, perfect (qatal), 3rd person, masculine, singular) | Pi 2 |
+| אֶת | (object marker) — The object marker has no English counterpart. | אֵת | אות | particle (direct object marker) |  |
+| אֲדֹנִ֛י | my master | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| מְאֹ֖ד | greatly — Adverb with the verb of blessing. | מְאֹד | מאד | adverb | 2 |
+| וַיִּגְדָּ֑ל | and he became great — Wayyiqtol 3ms: the subject is the master. | ו: and + גָּדַל | גדל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 2 |
+| וַיִּתֶּן | and he gave — Wayyiqtol 3ms. The subject continues from the blessing, the LORD; the master is the one to whom (לוֹ) the gift is given. | ו: and + נָתַן | נתן | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| ל֞וֹ | to him | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| צֹ֤אן | flocks | צֹאן | צאן | noun (common, both genders, singular, absolute) |  |
+| וּבָקָר֙ | and cattle | ו: and + בָּקָר | בקר | conjunction + noun (common, both genders, singular, absolute) |  |
+| וְכֶ֣סֶף | and silver — Silver as wealth, reckoned by weight. | ו: and + כֶּ֫סֶף | כסף | conjunction + noun (common, masculine, singular, absolute) | 3 |
+| וְזָהָ֔ב | and gold — Gold as wealth. | ו: and + זָהָב | זהב | conjunction + noun (common, masculine, singular, absolute) | 2 |
+| וַעֲבָדִם֙ | and servants — Plural of עֶבֶד. | ו: and + עֶ֫בֶד | עבד | conjunction + noun (common, masculine, plural, absolute) | 1 |
+| וּשְׁפָחֹ֔ת | and maidservants | ו: and + שִׁפְחָה | שׁפח | conjunction + noun (common, feminine, plural, absolute) |  |
+| וּגְמַלִּ֖ים | and camels — Camel as property. | ו: and + גָּמָל | גמל | conjunction + noun (common, masculine, plural, absolute) | 1 |
+| וַחֲמֹרִֽים׃ | and donkeys | ו: and + חֲמוֹר | חמר | conjunction + noun (common, both genders, plural, absolute) |  |
+
+Grammar:
+
+- The qatal בֵּרַךְ opens the verse; the two wayyiqtol verbs carry the narrative on.
+- The subject of וַיִּגְדָּל is the master; the subject of וַיִּתֶּן is the one who blessed, the LORD, and לוֹ is the master: he cannot give to himself. The English keeps 'he' for the 3ms verb.
+- The list is a run of nouns each with ו, the first without; the English 'and' follows the Hebrew.
+
+Note: The first verb names the LORD; the next two have no named subject, and the English keeps 'he'. The master is the subject of 'became great' and the one to whom the gifts are given.
+
+Commentary:
+
+- Radak (not-applicable): Radak: the blessing was so great that his servant goes in great honour, as they see; this describes the effect and does not change the sense of מְאֹד.
+- Sforno (not-applicable): Sforno: without doubt many in the land were eager to marry their daughters to his son; a comment on motive, not on the words.
+
+Ancient Near East:
+
+- Silver (כֶּסֶף) here is wealth given by weight, not coinage; coined money is much later than the patriarchal period.
+- The date at which camels came into use as beasts of burden in the region is disputed; the English gives 'camels' without a date.
+
+Apparatus:
+
+- Vowels: WLC reads וַיהוָה for וַיהֹוָה; no change of sense.
+- וַיהֹוָ֞ה: WLC reads וַיהוָ֞ה (vowels)
 
 #### Genesis 24:36
 
 > וַתֵּ֡לֶד שָׂרָה֩ אֵ֨שֶׁת אֲדֹנִ֥י בֵן֙ לַֽאדֹנִ֔י אַחֲרֵ֖י זִקְנָתָ֑הּ וַיִּתֶּן־ל֖וֹ אֶת־כׇּל־אֲשֶׁר־לֽוֹ׃
 
-_Not yet translated._
+**Sarah, my master's wife, bore a son to my master in her old age, and he gave him all that was his.**
+
+Literal: and-bore Sarah wife-of my-master son to-my-master after her-old-age and-gave to-him OBJ all that to-him
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֵּ֡לֶד | and bore — Wayyiqtol 3fs: the subject is Sarah. | ו: and + יָלַד | ילד | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| שָׂרָה֩ | Sarah | שָׂרָה |  | noun (proper name) |  |
+| אֵ֨שֶׁת | wife of — Construct: 'the wife of my master'. | אִשָּׁה | אנשׁ | noun (common, feminine, singular, construct) | 2 |
+| אֲדֹנִ֥י | my master | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| בֵן֙ | a son | בֵּן |  | noun (common, masculine, singular, absolute) | 1 |
+| לַֽאדֹנִ֔י | to my master — לַ dative with the name. | ל: to, for + אָדוֹן | אדן | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| אַחֲרֵ֖י | after — Time sense; the English renders 'in her old age' for the idiom. | אַחַר | אחר | preposition | 2.b |
+| זִקְנָתָ֑הּ | her old age | זִקְנָה | זקן | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| וַיִּתֶּן | and he gave — Wayyiqtol 3ms; the giver is not named. | ו: and + נָתַן | נתן | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| ל֖וֹ | him — Suffix on לוֹ. | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| אֶת | (object marker) — No English counterpart. | אֵת | אות | particle (direct object marker) |  |
+| כׇּל | all — כֹּל in construct before a relative clause: 'all that is his'. | כֹּל | כלל | noun (common, masculine, singular, construct) | 2.a |
+| אֲשֶׁר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| לֽוֹ׃ | was his — לוֹ in the relative clause, 'that to him'; 'was' is English. | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+
+Grammar:
+
+- The verse is a run of wayyiqtol and noun phrases; the gender of the first verb agrees with Sarah.
+- אֵשֶׁת אֲדֹנִי is a construct chain: 'the wife of my master'.
+- אַחֲרֵי זִקְנָתָהּ has no verb: 'after her old age'; the English idiom is 'in her old age'.
+
+Note: The copula in 'all that was his' is English; the Hebrew has only לוֹ.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: he showed them the deed of gift; an account of how the giving was done, not of the words.
+- Radak (not-applicable): Radak: though he had a son by another woman, he gave all to Isaac out of love for Sarah his kinswoman and for Isaac; a comment on motive.
+- Sforno (not-applicable): Sforno: therefore Isaac was dear to him from the time of his birth; a comment on the phrase 'in her old age'.
+
+Apparatus:
+
+- Vowels: WLC reads לּוֹ for לוֹ; no change of sense.
+- ל֖וֹ: WLC reads לּ֖וֹ (vowels)
 
 #### Genesis 24:37
 
 > וַיַּשְׁבִּעֵ֥נִי אֲדֹנִ֖י לֵאמֹ֑ר לֹא־תִקַּ֤ח אִשָּׁה֙ לִבְנִ֔י מִבְּנוֹת֙ הַֽכְּנַעֲנִ֔י אֲשֶׁ֥ר אָנֹכִ֖י יֹשֵׁ֥ב בְּאַרְצֽוֹ׃
 
-_Not yet translated._
+**My master made me swear, saying, 'You shall not take a wife for my son from the daughters of the Canaanites, in whose land I dwell.**
+
+Literal: and-made-swear-me my-master saying not you-take wife for-my-son from-daughters-of the-Canaanite who I dwelling in-his-land
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיַּשְׁבִּעֵ֥נִי | made me swear — Hiphil wayyiqtol 3ms with the 1cs suffix. | ו: and + שָׁבַע | שׁבע | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) + suffix (pronominal, 1st person, common, singular) | Hiph 1 |
+| אֲדֹנִ֖י | my master | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| לֵאמֹ֑ר | saying — Infinitive construct לֵאמֹר introduces the speech. | ל: to, for + אָמַר | אמר | preposition + verb (qal, infinitive construct) | Qal 1 |
+| לֹא | not | לֹא |  | particle (negative) |  |
+| תִקַּ֤ח | you shall take — Yiqtol 2ms with לֹא: a prohibition, 'you shall not take'. | לָקַח | לקח | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 1 |
+| אִשָּׁה֙ | a wife | אִשָּׁה | אנשׁ | noun (common, feminine, singular, absolute) | 2 |
+| לִבְנִ֔י | for my son | ל: to, for + בֵּן |  | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| מִבְּנוֹת֙ | from the daughters of | מ: from, than + בַּת |  | preposition + noun (common, feminine, plural, construct) | 1 |
+| הַֽכְּנַעֲנִ֔י | the Canaanites — The article with the gentilic is collective; the English uses the plural for it. | ה: the + כְּנַעֲנִי |  | particle (definite article) + noun (gentilic, masculine, singular, absolute) |  |
+| אֲשֶׁ֥ר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| אָנֹכִ֖י | I | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
+| יֹשֵׁ֥ב | dwelling — Participle: a present state, 'I dwell'. | יָשַׁב | ישׁב | verb (qal, participle active, masculine, singular, absolute) | Qal 3 |
+| בְּאַרְצֽוֹ׃ | in his land — The suffix refers to the Canaanites. | ב: in, with, by + אֶ֫רֶץ | ארץ | preposition + noun (common, both genders, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2.a |
+
+Grammar:
+
+- לֵאמֹר with the infinitive introduces the words; the English puts Abraham's words in single quotes inside the servant's speech.
+- לֹא תִקַּח is a yiqtol with לֹא: the prohibition 'you shall not take', addressed to the servant.
+- אֲשֶׁר אָנֹכִי יֹשֵׁב בְּאַרְצוֹ is a participle, 'I dwell in his land'; the suffix refers to the Canaanites.
+
+Note: Single quotes mark Abraham's words inside the servant's speech; the outer double quotation is left open, and Abraham's quotation runs on into 24:38.
+
+Commentary:
+
+- Rashi (declines): Rashi: he takes the prohibition as holding on a condition, 'if you do not first go to my father's house, and she is not willing to go after you'. The words state no condition, so the English keeps the plain prohibition.
+- Radak (not-applicable): Radak: the answer to 'why did you come so far' is that Abraham found a wife for his son among the great men of that land but would take only from his kin; a comment on motive.
+- Sforno (not-applicable): Sforno: in the servant's words, since Abraham rejected the men of his land and chose his kin, the servant came to them; not because the land lacked women. A comment on motive.
 
 #### Genesis 24:38
 
 > אִם־לֹ֧א אֶל־בֵּית־אָבִ֛י תֵּלֵ֖ךְ וְאֶל־מִשְׁפַּחְתִּ֑י וְלָקַחְתָּ֥ אִשָּׁ֖ה לִבְנִֽי׃
 
-_Not yet translated._
+**Rather, you shall go to my father's house and to my kin, and take a wife for my son.'**
+
+Literal: if not to house-of my-father you-go and-to my-clan and-you-take wife for-my-son
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| אִם | if — אִם־לֹא after a negative command: 'but rather', as in Onkelos (אֱלָהֵן); the pair is not a conditional here. | אִם |  | conjunction | 1 |
+| לֹ֧א | not | לֹא |  | particle (negative) |  |
+| אֶל | to | אֶל |  | preposition |  |
+| בֵּית | house of — בֵּית אָבִי: the household as a family group. | בַּ֫יִת |  | noun (common, masculine, singular, construct) | 4 |
+| אָבִ֛י | my father | אָב | אבה | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| תֵּלֵ֖ךְ | you shall go — Yiqtol 2ms. | יָלַךְ | הלך | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal I.1 |
+| וְאֶל | and to | ו: and + אֶל |  | conjunction + preposition |  |
+| מִשְׁפַּחְתִּ֑י | my kin — מִשְׁפָּחָה: the clan. | מִשְׁפָּחָה | שׁפח | noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| וְלָקַחְתָּ֥ | and take — Weqatal 2ms: continues the yiqtol of 'you shall go'. | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential perfect (weqatal), 2nd person, masculine, singular) | Qal 1 |
+| אִשָּׁ֖ה | a wife | אִשָּׁה | אנשׁ | noun (common, feminine, singular, absolute) | 2 |
+| לִבְנִֽי׃ | for my son | ל: to, for + בֵּן |  | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+
+Grammar:
+
+- אִם־לֹא after the prohibition of 24:37 means 'but rather': the servant is to go to the father's house and kin, nowhere else. Onkelos renders it אֱלָהֵן.
+- תֵּלֵךְ and וְלָקַחְתָּ are 2ms: the servant is addressed as 'you'.
+- בֵּית אָבִי: the father's household as the place of the bride's family.
+- Abraham's words, begun in 24:37, continue here; the single quotation closes at the end of this verse.
+
+Note: The 2ms verbs address the servant directly; the English 'you' keeps the number.
+
+Ancient Near East:
+
+- בֵּית אָב, 'father's house', is the household or extended family as a group, not only the single family; the English 'father's house' keeps the Hebrew.
 
 #### Genesis 24:39
 
 > וָאֹמַ֖ר אֶל־אֲדֹנִ֑י אֻלַ֛י לֹא־תֵלֵ֥ךְ הָאִשָּׁ֖ה אַחֲרָֽי׃
 
-_Not yet translated._
+**I said to my master, 'Perhaps the woman will not go after me.'**
+
+Literal: and-I-said to my-master perhaps not she-goes the-woman after-me
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וָאֹמַ֖ר | I said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 1 |
+| אֶל | to | אֶל |  | preposition |  |
+| אֲדֹנִ֑י | my master | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| אֻלַ֛י | perhaps — The word is written without the vav (see apparatus). | אוּלַי |  | adverb | 1 |
+| לֹא | not | לֹא |  | particle (negative) |  |
+| תֵלֵ֥ךְ | will go — Yiqtol 3fs: the subject is the woman. | יָלַךְ | הלך | verb (qal, imperfect (yiqtol), 3rd person, feminine, singular) | Qal I.1 |
+| הָאִשָּׁ֖ה | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אַחֲרָֽי׃ | after me — Following: 'after me'. | אַחַר | אחר | preposition + suffix (pronominal, 1st person, common, singular) | 2.a |
+
+Grammar:
+
+- אֻלַי is the adverb 'perhaps', here without the vav.
+- לֹא תֵלֵךְ is a yiqtol 3fs with לֹא: the clause states a fear, 'perhaps she will not go'.
+- The speech is quoted as the servant's own words earlier; the English gives it in single quotes inside his speech.
+
+Note: The written form lacks the vav; the English reads the word as 'perhaps'.
+
+Commentary:
+
+- Rashi (declines): Rashi reads the written אלי as 'to me' and tells that Eliezer had a daughter and sought a way for Abraham to speak to him of her marriage; Abraham answered that his son is blessed and Eliezer cursed. This is midrash; the English keeps 'perhaps', the plain sense of the word.
+- Radak (declines): Radak: the vav is missing (defective spelling). A derash reads Eliezer's design into the word; he rejects it, holding that the speeches are reported as they were said, and that variant wording in repeated speeches keeps the same sense.
+
+Apparatus:
+
+- Written without the vav (אֻלַי; the usual form is אוּלַי). Rashi reads the written form as 'to me'; Radak calls the spelling defective and keeps the same sense.
 
 #### Genesis 24:40
 
 > וַיֹּ֖אמֶר אֵלָ֑י יְהֹוָ֞ה אֲשֶׁר־הִתְהַלַּ֣כְתִּי לְפָנָ֗יו יִשְׁלַ֨ח מַלְאָכ֤וֹ אִתָּךְ֙ וְהִצְלִ֣יחַ דַּרְכֶּ֔ךָ וְלָקַחְתָּ֤ אִשָּׁה֙ לִבְנִ֔י מִמִּשְׁפַּחְתִּ֖י וּמִבֵּ֥ית אָבִֽי׃
 
-_Not yet translated._
+**He said to me, 'The LORD before whom I have walked will send his angel with you and will make your way prosper; and you shall take a wife for my son from my kin and from my father's house.**
+
+Literal: and-he-said to-me the-LORD who I-walked-about before-him he-will-send his-angel with-you and-he-made-prosper your-way and-you-took wife for-my-son from-my-clan and-from-house-of my-father
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֖אמֶר | and he said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֵלָ֑י | to me | אֶל |  | preposition + suffix (pronominal, 1st person, common, singular) | 1 |
+| יְהֹוָ֞ה | the LORD | יהוה | הוה | noun (proper name) | I |
+| אֲשֶׁר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| הִתְהַלַּ֣כְתִּי | I have walked — Hitpael perfect 1cs: 'walk about' before him. | הָלַךְ | הלך | verb (hitpael, perfect (qatal), 1st person, common, singular) | Hithp |
+| לְפָנָ֗יו | before him | ל: to, for + פָּנֶה | פנה | preposition + noun (common, both genders, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) | I.6 |
+| יִשְׁלַ֨ח | will send | שָׁלַח | שׁלח | verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 1 |
+| מַלְאָכ֤וֹ | his angel — The angel is sent by the LORD: 'angel'. | מַלְאָךְ | לאך | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+| אִתָּךְ֙ | with you — The suffix is pointed like a 2nd feminine singular and the dataset parses it so, but the addressee is the servant, a man; the sense requires the masculine, so the suffix is read as 2ms. English 'you'. | אֵת |  | preposition + suffix (pronominal, 2nd person, feminine, singular) | 1 |
+| וְהִצְלִ֣יחַ | and will make prosper — Perfect with waw continuing the future of the clause. | ו: and + צָלֵחַ | צלח | conjunction + verb (hifil, perfect (qatal), 3rd person, masculine, singular) | Hiph 1 |
+| דַּרְכֶּ֔ךָ | your way — Fig. for the course of the journey. | דֶּ֫רֶךְ | דרך | noun (common, both genders, singular, construct) + suffix (pronominal, 2nd person, masculine, singular) | 5 |
+| וְלָקַחְתָּ֤ | and you shall take — Perfect with waw continuing the future of the promise; the English 'shall' keeps the force of the instruction of 24:38. | ו: and + לָקַח | לקח | conjunction + verb (qal, perfect (qatal), 2nd person, masculine, singular) | Qal 1 |
+| אִשָּׁה֙ | a wife | אִשָּׁה | אנשׁ | noun (common, feminine, singular, absolute) | 2 |
+| לִבְנִ֔י | for my son | ל: to, for + בֵּן |  | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| מִמִּשְׁפַּחְתִּ֖י | from my kin | מ: from, than + מִשְׁפָּחָה | שׁפח | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| וּמִבֵּ֥ית | and from the house of | ו: and + מ: from, than + בַּ֫יִת |  | conjunction + preposition + noun (common, masculine, singular, construct) | 4 |
+| אָבִֽי׃ | my father | אָב | אבה | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+
+Grammar:
+
+- The speech of Abraham is in single quotes inside the servant's speech; the outer double quotation stays open.
+- הִתְהַלַּכְתִּי is hitpael: 'walk about'; with לְפָנָיו it reads 'walk before him'.
+- The two future clauses: the LORD will send his angel and will make the way prosper; the second is a perfect with waw continuing the future.
+- The suffix on אִתָּךְ is pointed like a 2nd feminine singular, but the addressee is the servant; it is read as 2ms and the English is 'you'.
+
+Note: The subject of the final instruction is 'you' (the servant), as in 24:38.
 
 #### Genesis 24:41
 
 > אָ֤ז תִּנָּקֶה֙ מֵאָ֣לָתִ֔י כִּ֥י תָב֖וֹא אֶל־מִשְׁפַּחְתִּ֑י וְאִם־לֹ֤א יִתְּנוּ֙ לָ֔ךְ וְהָיִ֥יתָ נָקִ֖י מֵאָלָתִֽי׃
 
-_Not yet translated._
+**Then you will be clear of my oath when you come to my kin, and if they will not give to you, you will be clear of my oath.'**
+
+Literal: then you-will-be-cleared from-my-oath when you-come to my-clan and-if not they-will-give to-you and-you-will-be clean from-my-oath
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| אָ֤ז | then | אָז |  | adverb | 2 |
+| תִּנָּקֶה֙ | you will be clear | נָקָה | נקה | verb (nifal, imperfect (yiqtol), 2nd person, masculine, singular) | Niph 4 |
+| מֵאָ֣לָתִ֔י | of my oath | מ: from, than + אָלָה | אלה | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| כִּ֥י | when | כִּי |  | conjunction | 2.a |
+| תָב֖וֹא | you come | בּוֹא | בוא | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal 2 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| מִשְׁפַּחְתִּ֑י | my kin | מִשְׁפָּחָה | שׁפח | noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+| וְאִם | and if | ו: and + אִם |  | conjunction + conjunction | 1 |
+| לֹ֤א | not | לֹא |  | particle (negative) |  |
+| יִתְּנוּ֙ | they will give — 3rd person plural: 'they' are the kin named in 24:41.7; the object is not written. | נָתַן | נתן | verb (qal, imperfect (yiqtol), 3rd person, masculine, plural) | Qal 1 |
+| לָ֔ךְ | to you | ל: to, for |  | preposition + suffix (pronominal, 2nd person, feminine, singular) |  |
+| וְהָיִ֥יתָ | and you will be — waw with the perfect: a future in sense, 'and you shall be'. | ו: and + הָיָה | היה | conjunction + verb (qal, perfect (qatal), 2nd person, masculine, singular) | Qal III.4 |
+| נָקִ֖י | clear | נָקִי | נקה | adjective (adjective, masculine, singular, absolute) |  |
+| מֵאָלָתִֽי׃ | of my oath | מ: from, than + אָלָה | אלה | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, singular) | 1 |
+
+Grammar:
+
+- תִּנָּקֶה is nifal yiqtol of נָקָה: 'be free from an obligation' (Niph 4), with מֵאָלָתִי the thing one is freed from.
+- The accents divide the verse at תָּבוֹא (tipḥa) and at מִשְׁפַּחְתִּי (etnaḥta): the going to the clan, then the conditional clause from וְאִם־לֹא.
+- The conditional clause וְאִם־לֹא יִתְּנוּ לָךְ names no object for the giving; the English adds none.
+- וְהָיִיתָ נָקִי is a waw-qatal with future force, repeating the verdict of the first clause.
+
+Note: The word is אָלָה, 'oath' with its curse (BDB senses 1 and 3). Ibn Ezra, the one normative commentator, notes that the verse does not say שבועה and gives the servant's fear of his master as the reason (commentary below); the English 'oath' is the lexicon's first sense.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra notes that the verse says מֵאָלָתִי and not מִשְׁבוּעָתִי ('from my swearing'), and gives the reason: the servant fears his master and his אָלָה (oath with its curse).
+
+Ancient Near East:
+
+- In the ancient Near East an oath could carry a curse on whoever broke it. Hebrew אָלָה covers both the oath and the curse, and the lexicon gives both; the English 'oath' is the undertaking that binds the servant to his master.
 
 #### Genesis 24:42
 
 > וָאָבֹ֥א הַיּ֖וֹם אֶל־הָעָ֑יִן וָאֹמַ֗ר יְהֹוָה֙ אֱלֹהֵי֙ אֲדֹנִ֣י אַבְרָהָ֔ם אִם־יֶשְׁךָ־נָּא֙ מַצְלִ֣יחַ דַּרְכִּ֔י אֲשֶׁ֥ר אָנֹכִ֖י הֹלֵ֥ךְ עָלֶֽיהָ׃
 
-_Not yet translated._
+**I came today to the spring and I said, 'LORD, God of my master Abraham, if you are now making my journey successful, the one on which I am going—**
+
+Literal: and-I-came the-day to the-spring and-I-said the-LORD God-of my-master Abraham if there-is-you now making-successful my-journey which I going upon-it
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וָאָבֹ֥א | I came — wayyiqtol: the narrative 'and I came'. | ו: and + בּוֹא | בוא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 2 |
+| הַיּ֖וֹם | today | ה: the + יוֹם |  | particle (definite article) + noun (common, masculine, singular, absolute) | 7 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָעָ֑יִן | the spring | ה: the + עַ֫יִן | עין | particle (definite article) + noun (common, both genders, singular, absolute) | a |
+| וָאֹמַ֗ר | and I said — wayyiqtol, first person singular. | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 1 |
+| יְהֹוָה֙ | the LORD — the name with the title אֱלֹהֵי: II.1 (used with אלהים). | יהוה | הוה | noun (proper name) | II.1 |
+| אֱלֹהֵי֙ | God of | אֱלֹהִים | אלה | noun (common, masculine, plural, construct) | 3 |
+| אֲדֹנִ֣י | my master | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| אַבְרָהָ֔ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| אִם | if | אִם |  | conjunction | 1 |
+| יֶשְׁךָ | you are — יֶשְׁךָ: יֵשׁ with a suffix; with the participle that follows it makes a periphrasis, 'you make ... succeed'. | יֵשׁ | ישׂם | particle (demonstrative) + suffix (pronominal, 2nd person, masculine, singular) | 2 |
+| נָּא֙ | now | נָא |  | particle (interjection) |  |
+| מַצְלִ֣יחַ | making successful | צָלֵחַ | צלח | verb (hifil, participle, masculine, singular, absolute) | Hiph 1 |
+| דַּרְכִּ֔י | my journey | דֶּ֫רֶךְ | דרך | noun (common, both genders, singular, construct) + suffix (pronominal, 1st person, common, singular) | 2 |
+| אֲשֶׁ֥ר | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| אָנֹכִ֖י | I | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
+| הֹלֵ֥ךְ | am going | הָלַךְ | הלך | verb (qal, participle active, masculine, singular, absolute) | Qal I.1 |
+| עָלֶֽיהָ׃ | on it | עַל | עלה | preposition + suffix (pronominal, 3rd person, feminine, singular) | II.1 |
+
+Grammar:
+
+- וָאָבֹא and וָאֹמַר are wayyiqtol forms: the narrative of the servant's report, 'I came ... and I said'. The prayer that begins here runs to the end of 24:44.
+- יְהוָה אֱלֹהֵי אֲדֹנִי אַבְרָהָם is an address: the name, then the title in a construct chain; English gives it no article.
+- אִם־יֶשְׁךָ־נָּא מַצְלִיחַ: יֵשׁ with a pronoun suffix (יֶשְׁךָ, 'you are') and a participle makes a present condition, 'if you are now making successful'. The sentence breaks off, and the prayer goes on in 24:43.
+- עָלֶיהָ ('upon it') refers back to the feminine דֶּרֶךְ, so the relative clause closes on the way.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi glosses the word for today as 'I went out today and I came today', and cites a midrash that the earth was folded up for him. This is a homily on the journey, not a reading of the words.
 
 #### Genesis 24:43
 
 > הִנֵּ֛ה אָנֹכִ֥י נִצָּ֖ב עַל־עֵ֣ין הַמָּ֑יִם וְהָיָ֤ה הָֽעַלְמָה֙ הַיֹּצֵ֣את לִשְׁאֹ֔ב וְאָמַרְתִּ֣י אֵלֶ֔יהָ הַשְׁקִֽינִי־נָ֥א מְעַט־מַ֖יִם מִכַּדֵּֽךְ׃
 
-_Not yet translated._
+**Here I stand by the spring of the water, and it shall come to pass that the young woman who comes out to draw, and I will say to her, "Please give me a little water from your jar to drink,"**
+
+Literal: here I standing upon the-spring-of the-water and-it-shall-be the-young-woman the-going-out to-draw and-I-will-say to-her give-me-to-drink please a-little water from-your-jar
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| הִנֵּ֛ה | here | הִנֵּה |  | particle (demonstrative) |  |
+| אָנֹכִ֥י | I | אָֽנֹכִ֫י |  | pronoun (personal, 1st person, common, singular) |  |
+| נִצָּ֖ב | stand — participle with הִנֵּה: the present scene, 'here I stand'. | נָצַב | נצב | verb (nifal, participle, masculine, singular, absolute) | Niph 1.b |
+| עַל | by | עַל | עלה | preposition | II |
+| עֵ֣ין | the spring of | עַ֫יִן | עין | noun (common, both genders, singular, construct) | a |
+| הַמָּ֑יִם | the water | ה: the + מַי |  | particle (definite article) + noun (common, masculine, plural, absolute) |  |
+| וְהָיָ֤ה | and it shall come to pass that — waw with the perfect introducing the sign: 'and it shall come to pass'. | ו: and + הָיָה | היה | conjunction + verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal I.2.b |
+| הָֽעַלְמָה֙ | the young woman | ה: the + עַלְמָה | עלם | particle (definite article) + noun (common, feminine, singular, absolute) |  |
+| הַיֹּצֵ֣את | who comes out | ה: the + יָצָא | יצא | particle (definite article) + verb (qal, participle active, feminine, singular, absolute) | Qal 1.a |
+| לִשְׁאֹ֔ב | to draw | ל: to, for + שָׁאַב | שׁאב | preposition + verb (qal, infinitive construct) |  |
+| וְאָמַרְתִּ֣י | and I will say — waw with the perfect: future in sense. | ו: and + אָמַר | אמר | conjunction + verb (qal, perfect (qatal), 1st person, common, singular) | Qal 1 |
+| אֵלֶ֔יהָ | to her | אֶל |  | preposition + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| הַשְׁקִֽינִי | give me to drink | שָׁקָה | שׁקה | verb (hifil, imperative, 2nd person, feminine, singular) + suffix (pronominal, 1st person, common, singular) | Hiph 2 |
+| נָ֥א | please | נָא |  | particle (exhortation) |  |
+| מְעַט | a little | מְעַט | מעט | noun (common, masculine, singular, construct) |  |
+| מַ֖יִם | water | מַי |  | noun (common, masculine, plural, absolute) |  |
+| מִכַּדֵּֽךְ׃ | from your jar | מ: from, than + כַּד | כדד | preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 2nd person, feminine, singular) |  |
+
+Grammar:
+
+- הִנֵּה with the participle נִצָּב gives the present scene: 'here I stand'.
+- וְהָיָה with a following clause introduces the sign: 'and it shall come to pass that'; the waw-qatal is future in sense, and the verb is masculine before the feminine הָעַלְמָה.
+- The sentence opens with the young woman and has no main verb of its own; it is completed by הִוא הָאִשָּׁה in 24:44. The English leaves it open as the Hebrew does.
+- The tipḥa on נִצָּב and the etnaḥta on הַמָּיִם divide the scene from the sign; the request is the clause from הַשְׁקִינִי־נָא.
+- The imperative הַשְׁקִינִי is the Hiphil of שָׁקָה, 'give drink to', with 'a little water' as its object: 'give me a little water to drink'.
+
+Ancient Near East:
+
+- A jar carried on the shoulder was the ordinary water vessel of the period; the verse names no other vessel.
 
 #### Genesis 24:44
 
 > וְאָמְרָ֤ה אֵלַי֙ גַּם־אַתָּ֣ה שְׁתֵ֔ה וְגַ֥ם לִגְמַלֶּ֖יךָ אֶשְׁאָ֑ב הִ֣וא הָֽאִשָּׁ֔ה אֲשֶׁר־הֹכִ֥יחַ יְהֹוָ֖ה לְבֶן־אֲדֹנִֽי׃
 
-_Not yet translated._
+**and she will say to me, "You also drink, and I will draw for your camels also"—she is the woman whom the LORD has appointed for my master's son.'**
+
+Literal: and-she-will-say to-me also you drink and-also for-your-camels I-will-draw she the-woman which has-appointed the-LORD for-son-of my-master
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאָמְרָ֤ה | and she will say — waw with the perfect: future in sense. | ו: and + אָמַר | אמר | conjunction + verb (qal, perfect (qatal), 3rd person, feminine, singular) | Qal 1 |
+| אֵלַי֙ | to me | אֶל |  | preposition + suffix (pronominal, 1st person, common, singular) | 1 |
+| גַּם | also | גַּם | גמם | particle (affirmation) |  |
+| אַתָּ֣ה | you | אַתָּ֫ה | אנת | pronoun (personal, 2nd person, masculine, singular) |  |
+| שְׁתֵ֔ה | drink — Qal imperative, masculine singular, of שָׁתָה: 'drink'. | שָׁתָה | שׁתה | verb (qal, imperative, 2nd person, masculine, singular) | Qal |
+| וְגַ֥ם | and also | ו: and + גַּם | גמם | conjunction + particle (affirmation) |  |
+| לִגְמַלֶּ֖יךָ | for your camels | ל: to, for + גָּמָל | גמל | preposition + noun (common, masculine, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | 2 |
+| אֶשְׁאָ֑ב | I will draw | שָׁאַב | שׁאב | verb (qal, imperfect (yiqtol), 1st person, common, singular) |  |
+| הִ֣וא | she is | הוּא |  | pronoun (personal, 3rd person, feminine, singular) | 1 |
+| הָֽאִשָּׁ֔ה | the woman | ה: the + אִשָּׁה | אנשׁ | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אֲשֶׁר | whom | אֲשֶׁר | אשׁר | particle (relative) |  |
+| הֹכִ֥יחַ | has appointed — Hiph of יָכַח; Rashi reads 'chose and made known' (commentary). | יָכַח | יכח | verb (hifil, perfect (qatal), 3rd person, masculine, singular) | Hiph 2 |
+| יְהֹוָ֖ה | the LORD | יהוה | הוה | noun (proper name) | II.1 |
+| לְבֶן | for the son of | ל: to, for + בֵּן |  | preposition + noun (common, masculine, singular, construct) | 1 |
+| אֲדֹנִֽי׃ | my master | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+
+Grammar:
+
+- וְאָמְרָה is a waw-qatal, future in sense: 'and she will say', the sign he set.
+- שְׁתֵה is the Qal imperative of שָׁתָה, 'drink', addressed to the servant.
+- הִוא הָאִשָּׁה is a verbless clause: the pronoun, then the article-noun. English supplies the copula: 'she is the woman'.
+- The etnaḥta on אֶשְׁאָב divides the sign from the identification; the zaqef qaton on הָאִשָּׁה sets off the relative clause.
+- גַּם occurs twice (גַּם אַתָּה, וְגַם לִגְמַלֶּיךָ); the English keeps 'also' in both places.
+
+Commentary:
+
+- Rashi (records): Rashi reads גַּם in גַּם אַתָּה as including the men who were with the servant. The English keeps 'also' as the servant's own request and records Rashi's reading here.
+- Rashi (follows): Rashi glosses הוֹכִיחַ as בֵּרֵר וְהוֹדִיעַ, 'chose and made known'. The English 'has appointed' takes this sense of choosing (Hiph 2).
+- Sforno (not-applicable): Sforno cites the tradition of a heavenly voice declaring 'בַּת פְּלוֹנִי לִפְלוֹנִי' (the daughter of so-and-so to so-and-so) and reads הִיא הָאִשָּׁה אֲשֶׁר הוֹכִיחַ as that declaration. This is a homily on the verse, not a reading of its words.
+
+Ancient Near East:
+
+- Camels as pack and riding animals in the patriarchal period are disputed: some hold that domestic camels came into common use in the Near East only after the patriarchs' time, others that earlier use is attested. The text is translated as it stands, and the question is left open.
 
 #### Genesis 24:45
 
 > אֲנִי֩ טֶ֨רֶם אֲכַלֶּ֜ה לְדַבֵּ֣ר אֶל־לִבִּ֗י וְהִנֵּ֨ה רִבְקָ֤ה יֹצֵאת֙ וְכַדָּ֣הּ עַל־שִׁכְמָ֔הּ וַתֵּ֥רֶד הָעַ֖יְנָה וַתִּשְׁאָ֑ב וָאֹמַ֥ר אֵלֶ֖יהָ הַשְׁקִ֥ינִי נָֽא׃
 
-_Not yet translated._
+**Before I had finished speaking to my heart, look, Rebekah was coming out, with her jar on her shoulder; and she went down to the spring and drew, and I said to her, 'Give me a drink, please.'**
+
+Literal: I before I-finish to-speak to my-heart and-look Rebekah coming-out and-her-jar upon her-shoulder and-she-went-down to-the-spring and-she-drew and-I-said to-her give-me-to-drink please
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| אֲנִי֩ | I | אֲנִי |  | pronoun (personal, 1st person, common, singular) |  |
+| טֶ֨רֶם | before | טֶ֫רֶם | טרם | adverb |  |
+| אֲכַלֶּ֜ה | I had finished — yiqtol with טֶרֶם: 'before I finish'; the English takes the narrative past. | כָּלָה | כלה | verb (piel, imperfect (yiqtol), 1st person, common, singular) | Pi 1.c |
+| לְדַבֵּ֣ר | speaking | ל: to, for + דָבַר | דבר | preposition + verb (piel, infinitive construct) | Pi |
+| אֶל | to | אֶל |  | preposition | 1 |
+| לִבִּ֗י | my heart | לֵב | לבב | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) | II.1 |
+| וְהִנֵּ֨ה | look | ו: and + הִנֵּה |  | conjunction + particle (demonstrative) |  |
+| רִבְקָ֤ה | Rebekah | רִבְקָה |  | noun (proper name) |  |
+| יֹצֵאת֙ | was coming out | יָצָא | יצא | verb (qal, participle active, feminine, singular, absolute) | Qal 1.a |
+| וְכַדָּ֣הּ | with her jar | ו: and + כַּד | כדד | conjunction + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| עַל | on | עַל | עלה | preposition | II.1 |
+| שִׁכְמָ֔הּ | her shoulder — The entry's headword gloss is 'shoulder'; of its printed senses, 1 'neck' and 2 'back', neither is the shoulder, so none is given. | שְׁכֶם | שׁכם | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| וַתֵּ֥רֶד | and she went down — wayyiqtol. | ו: and + יָרַד | ירד | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1.b |
+| הָעַ֖יְנָה | to the spring | ה: the + עַ֫יִן | עין | particle (definite article) + noun (common, both genders, singular, absolute) + suffix (directional he) | a |
+| וַתִּשְׁאָ֑ב | and drew | ו: and + שָׁאַב | שׁאב | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) |  |
+| וָאֹמַ֥ר | and I said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 1 |
+| אֵלֶ֖יהָ | to her | אֶל |  | preposition + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| הַשְׁקִ֥ינִי | give me a drink | שָׁקָה | שׁקה | verb (hifil, imperative, 2nd person, feminine, singular) + suffix (pronominal, 1st person, common, singular) | Hiph 2 |
+| נָֽא׃ | please | נָא |  | particle (exhortation) |  |
+
+Grammar:
+
+- טֶרֶם with the imperfect אֲכַלֶּה means 'before I finish'; Rashi's reading of this present-tense form is in the commentary.
+- The sentence opens with the fronted pronoun אֲנִי; the revia on לִבִּי closes the opening clause, and וְהִנֵּה begins the scene.
+- וְהִנֵּה with the participle יֹצֵאת gives the scene: 'look, Rebekah was coming out'; the participle needs no finite verb in Hebrew, and English supplies 'was'. וְכַדָּהּ עַל־שִׁכְמָהּ is a circumstantial clause: 'with her jar on her shoulder'.
+- The etnaḥta on וַתִּשְׁאָב ends the first half of the verse.
+- The Hebrew names no object for שָׁאַב ('draw'); the English keeps it so.
+
+Commentary:
+
+- Rashi (records): Rashi says that אֲכַלֶּה is to be read as the present, 'before I am finishing': every such present-tense expression may be worded in the past (כִּי אָמַר אִיּוֹב) or in the future (כָּכָה יַעֲשֶׂה אִיּוֹב), and the meaning of both is the ongoing present ('Job used to say ... and used to do so'). The English takes the narrative past, 'had finished', and records Rashi's reading.
+- Ramban (not-applicable): Ramban explains how the servant knew her name: either he heard it while at her house, or she told him her name at first, though the text does not record it.
+- Sforno (not-applicable): Sforno calls the sequence of events a sign (הוֹרָאָה) that the matter is right from God (נָכוֹן הַדָּבָר מֵעִם הָאֱלֹהִים).
+
+Ancient Near East:
+
+- A jar (כַּד) carried on the shoulder was the ordinary water vessel of the period; the verse names no other vessel.
 
 #### Genesis 24:46
 
 > וַתְּמַהֵ֗ר וַתּ֤וֹרֶד כַּדָּהּ֙ מֵֽעָלֶ֔יהָ וַתֹּ֣אמֶר שְׁתֵ֔ה וְגַם־גְּמַלֶּ֖יךָ אַשְׁקֶ֑ה וָאֵ֕שְׁתְּ וְגַ֥ם הַגְּמַלִּ֖ים הִשְׁקָֽתָה׃
 
-_Not yet translated._
+**She hastened and took down her jar from upon her, and said, 'Drink, and I will water your camels also.' And I drank, and she watered the camels also.**
+
+Literal: and-she-hastened and-she-took-down her-jar from-upon-her and-she-said drink and-also your-camels I-will-water and-I-drank and-also the-camels she-watered
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתְּמַהֵ֗ר | she hastened — wayyiqtol. | ו: and + מָהַר | מהר | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Pi 1 |
+| וַתּ֤וֹרֶד | and took down — wayyiqtol of יָרַד with the hifil: 'took down' the jar. | ו: and + יָרַד | ירד | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Hiph 2 |
+| כַּדָּהּ֙ | her jar | כַּד | כדד | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| מֵֽעָלֶ֔יהָ | from upon her | מ: from, than + עַל | עלה | preposition + preposition + suffix (pronominal, 3rd person, feminine, singular) | II.1 |
+| וַתֹּ֣אמֶר | and said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| שְׁתֵ֔ה | drink — Qal imperative, masculine singular, of שָׁתָה: 'drink'. | שָׁתָה | שׁתה | verb (qal, imperative, 2nd person, masculine, singular) | Qal |
+| וְגַם | and also | ו: and + גַּם | גמם | conjunction + particle (affirmation) |  |
+| גְּמַלֶּ֖יךָ | your camels | גָּמָל | גמל | noun (common, masculine, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | 2 |
+| אַשְׁקֶ֑ה | I will water | שָׁקָה | שׁקה | verb (hifil, imperfect (yiqtol), 1st person, common, singular) | Hiph 2 |
+| וָאֵ֕שְׁתְּ | and I drank — wayyiqtol, 1st person singular, of שָׁתָה (short form וָאֵשְׁתְּ): Qal 'drink'. | ו: and + שָׁתָה | שׁתה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal |
+| וְגַ֥ם | and also | ו: and + גַּם | גמם | conjunction + particle (affirmation) |  |
+| הַגְּמַלִּ֖ים | the camels | ה: the + גָּמָל | גמל | particle (definite article) + noun (common, masculine, plural, absolute) | 2 |
+| הִשְׁקָֽתָה׃ | she watered | שָׁקָה | שׁקה | verb (hifil, perfect (qatal), 3rd person, feminine, singular) | Hiph 2 |
+
+Grammar:
+
+- Three wayyiqtol forms in a row (וַתְּמַהֵר, וַתּוֹרֶד, וַתֹּאמֶר) narrate the girl's haste.
+- שְׁתֵה is the Qal imperative of שָׁתָה, 'drink'; וָאֵשְׁתְּ is its wayyiqtol in the first person (short form), 'and I drank'.
+- שָׁקָה (Hiphil, 'give drink to, water') is the servant's verb in 24:43 and 24:45 (הַשְׁקִינִי); the girl uses it for the camels: אַשְׁקֶה (yiqtol, 'I will water') and הִשְׁקָתָה (qatal, 'she watered').
+- Both camel clauses begin with גַּם and put the camels first; English places 'also' at the end.
+- The revia on וַתְּמַהֵר and the zaqef gadol on וָאֵשְׁתְּ divide the verse; the silluq on הִשְׁקָתָה closes it.
 
 #### Genesis 24:47
 
 > וָאֶשְׁאַ֣ל אֹתָ֗הּ וָאֹמַר֮ בַּת־מִ֣י אַתְּ֒ וַתֹּ֗אמֶר בַּת־בְּתוּאֵל֙ בֶּן־נָח֔וֹר אֲשֶׁ֥ר יָֽלְדָה־לּ֖וֹ מִלְכָּ֑ה וָאָשִׂ֤ם הַנֶּ֙זֶם֙ עַל־אַפָּ֔הּ וְהַצְּמִידִ֖ים עַל־יָדֶֽיהָ׃
 
-_Not yet translated._
+**I asked her and I said, 'Whose daughter are you?' And she said, 'Daughter of Bethuel, son of Nahor, whom Milcah bore to him.' And I put the ring on her nose and the bracelets on her hands.**
+
+Literal: and-I-asked her and-I-said daughter-of whose you and-she-said daughter-of Bethuel son-of Nahor which bore to-him Milcah and-I-put the-ring upon her-nose and-the-bracelets upon her-hands
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וָאֶשְׁאַ֣ל | I asked — wayyiqtol: 'inquire of' the woman. | ו: and + שָׁאַל | שׁאל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 2.a |
+| אֹתָ֗הּ | her | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, feminine, singular) |  |
+| וָאֹמַר֮ | and I said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 1 |
+| בַּת | daughter of | בַּת |  | noun (common, feminine, singular, construct) | 1 |
+| מִ֣י | whose | מִי |  | particle (interrogative) | b |
+| אַתְּ֒ | you | אַתְּ | אנת | pronoun (personal, 2nd person, feminine, singular) |  |
+| וַתֹּ֗אמֶר | and she said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| בַּת | daughter of | בַּת |  | noun (common, feminine, singular, construct) | 1 |
+| בְּתוּאֵל֙ | Bethuel | בְּתוּאֵל |  | noun (proper name) |  |
+| בֶּן | son of | בֵּן |  | noun (common, masculine, singular, construct) | 1 |
+| נָח֔וֹר | Nahor — Abraham's brother, the second sense of the name in the lexicon. | נָחוֹר |  | noun (proper name) | 2 |
+| אֲשֶׁ֥ר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| יָֽלְדָה | bore | יָלַד | ילד | verb (qal, perfect (qatal), 3rd person, feminine, singular) | Qal 1 |
+| לּ֖וֹ | to him | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| מִלְכָּ֑ה | Milcah | מִלְכָּה |  | noun (proper name) | 1 |
+| וָאָשִׂ֤ם | and I put — wayyiqtol: 'put upon'. | ו: and + שׂוּם | שׂום | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) | Qal 1.b |
+| הַנֶּ֙זֶם֙ | the ring | ה: the + נֶ֫זֶם | נזם | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| עַל | on | עַל | עלה | preposition | II.1 |
+| אַפָּ֔הּ | her nose | אַף | אנף | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| וְהַצְּמִידִ֖ים | and the bracelets | ו: and + ה: the + צָמִיד | צמד | conjunction + particle (definite article) + noun (common, masculine, plural, absolute) |  |
+| עַל | on | עַל | עלה | preposition | II.1 |
+| יָדֶֽיהָ׃ | her hands | יָד |  | noun (common, both genders, dual, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+
+Grammar:
+
+- בַּת־מִי אַתְּ is a nominal question. English needs 'are'; the Hebrew has no verb.
+- The chain בַּת־בְּתוּאֵל בֶּן־נָחוֹר keeps its construct form: 'daughter of Bethuel, son of Nahor'.
+- The relative clause אֲשֶׁר יָלְדָה־לּוֹ מִלְכָּה follows the names in Hebrew as in English: 'whom Milcah bore to him', לוֹ being Nahor.
+- The verb וָאָשִׂם ('I put') follows the question and answer in Hebrew order; the English keeps that order.
+
+Commentary:
+
+- Rashi (declines): Rashi says the order is changed: the servant first gave the ring and afterwards asked, but he tells it in the other order so that they could not catch him in his words and say, 'How did you give to her when you did not yet know who she was?' The English keeps the Hebrew order, the order the words give; the explanation of what happened is recorded here only.
+
+Ancient Near East:
+
+- Rings and bracelets were worn by women in the ancient Near East; the verse does not say what metal they were made of.
 
 #### Genesis 24:48
 
 > וָאֶקֹּ֥ד וָֽאֶשְׁתַּחֲוֶ֖ה לַיהֹוָ֑ה וָאֲבָרֵ֗ךְ אֶת־יְהֹוָה֙ אֱלֹהֵי֙ אֲדֹנִ֣י אַבְרָהָ֔ם אֲשֶׁ֤ר הִנְחַ֙נִי֙ בְּדֶ֣רֶךְ אֱמֶ֔ת לָקַ֛חַת אֶת־בַּת־אֲחִ֥י אֲדֹנִ֖י לִבְנֽוֹ׃
 
-_Not yet translated._
+**I bowed down and prostrated myself to the LORD, and I blessed the LORD, God of my master Abraham, who has led me on the way of truth to take the daughter of my master's brother for his son.**
+
+Literal: and-I-bowed-down and-I-prostrated-myself to-the-LORD and-I-blessed ET-the-LORD God-of my-master Abraham which has-led-me on-the-way-of truth to-take ET-daughter-of brother-of my-master for-his-son
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וָאֶקֹּ֥ד | I bowed down | ו: and + קָדַד | קדד | conjunction + verb (qal, sequential imperfect (wayyiqtol), 1st person, common, singular) |  |
+| וָֽאֶשְׁתַּחֲוֶ֖ה | and prostrated myself — hishtafel: reflexive, 'prostrated myself'. | ו: and + שָׁחָה | שׁחה | conjunction + verb (hishtafel, sequential imperfect (wayyiqtol), 1st person, common, singular) | Hithpa‛lēl 1 |
+| לַיהֹוָ֑ה | to the LORD | ל: to, for + יהוה | הוה | preposition + noun (proper name) | II.1 |
+| וָאֲבָרֵ֗ךְ | and I blessed — bless God. | ו: and + בָּרַךְ | ברך | conjunction + verb (piel, sequential imperfect (wayyiqtol), 1st person, common, singular) | Pi 1 |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| יְהֹוָה֙ | the LORD | יהוה | הוה | noun (proper name) | II.1 |
+| אֱלֹהֵי֙ | God of | אֱלֹהִים | אלה | noun (common, masculine, plural, construct) | 3 |
+| אֲדֹנִ֣י | my master | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| אַבְרָהָ֔ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| אֲשֶׁ֤ר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| הִנְחַ֙נִי֙ | has led me | נָחָה | נחה | verb (hifil, perfect (qatal), 3rd person, masculine, singular) + suffix (pronominal, 1st person, common, singular) | Hiph |
+| בְּדֶ֣רֶךְ | on the way of | ב: in, with, by + דֶּ֫רֶךְ | דרך | preposition + noun (common, both genders, singular, construct) | 6.a |
+| אֱמֶ֔ת | truth | אֱמֶת | אמן | noun (common, feminine, singular, absolute) | 4 |
+| לָקַ֛חַת | to take | ל: to, for + לָקַח | לקח | preposition + verb (qal, infinitive construct) | Qal 3.a |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| בַּת | the daughter of | בַּת |  | noun (common, feminine, singular, construct) | 1 |
+| אֲחִ֥י | brother of | אָח | אחה | noun (common, masculine, singular, construct) | 1 |
+| אֲדֹנִ֖י | my master | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| לִבְנֽוֹ׃ | for his son | ל: to, for + בֵּן |  | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+
+Grammar:
+
+- וָאֶקֹּד and וָאֶשְׁתַּחֲוֶה are wayyiqtol narrative forms; the second is hishtafel, reflexive, hence 'prostrated myself'.
+- לָקַחַת with its object בַּת־אֲחִי אֲדֹנִי is the purpose of the leading; לִבְנוֹ closes the phrase: 'for his son'.
+- The etnaḥta on לַיהֹוָה ends the first half of the verse; the pashta on יְהֹוָה sets off the title; the silluq on לִבְנוֹ closes the verse.
+
+Apparatus:
+
+- 24:48.3 vowels: WLC reads לַיהוָה; base לַיהֹוָה. The name is the same in both; the English is unchanged.
+- לַיהֹוָ֑ה: WLC reads לַיהוָ֑ה (vowels)
 
 #### Genesis 24:49
 
 > וְ֠עַתָּ֠ה אִם־יֶשְׁכֶ֨ם עֹשִׂ֜ים חֶ֧סֶד וֶֽאֱמֶ֛ת אֶת־אֲדֹנִ֖י הַגִּ֣ידוּ לִ֑י וְאִם־לֹ֕א הַגִּ֣ידוּ לִ֔י וְאֶפְנֶ֥ה עַל־יָמִ֖ין א֥וֹ עַל־שְׂמֹֽאל׃
 
-_Not yet translated._
+**And now, if you are dealing kindly and faithfully with my master, tell me; and if not, tell me, and I will turn to the right or to the left."**
+
+Literal: and-now if there-are-you doing kindness and-faithfulness with my-lord tell to-me and-if not tell to-me and-I-will-turn upon right or upon left
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְ֠עַתָּ֠ה | and now — The servant's request begins here; ועתה marks the turn from the narrative to the request. | ו: and + עַתָּ֫ה | ענה | conjunction + adverb |  |
+| אִם | if | אִם |  | conjunction | 1 |
+| יֶשְׁכֶ֨ם | you are — The existential יֵשׁ with the 2nd person plural suffix ־כֶם: 'there are to you', i.e. 'you are'. | יֵשׁ | ישׂם | particle (demonstrative) + suffix (pronominal, 2nd person, masculine, plural) | 2 |
+| עֹשִׂ֜ים | dealing — Participle, plural, after יֵשׁ: 'if you are dealing'. It names the action asked of them now, not how often they act. | עָשָׂה | עשׂה | verb (qal, participle active, masculine, plural, absolute) | Qal I.2 |
+| חֶ֧סֶד | kindly — Ibn Ezra's gloss on this word is recorded in the commentary. | חֶ֫סֶד | חסד | noun (common, masculine, singular, absolute) | I.1 |
+| וֶֽאֱמֶ֛ת | and faithfully — Ibn Ezra reads it as the faithfulness that carries out the kindness. | ו: and + אֱמֶת | אמן | conjunction + noun (common, feminine, singular, absolute) | 3 |
+| אֶת | with | אֵת |  | preposition | 1 |
+| אֲדֹנִ֖י | my lord — Singular, with the 1st person suffix: a man addressed as lord. | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| הַגִּ֣ידוּ | tell — Imperative, plural, addressed to Laban and Bethuel. | נָגַד | נגד | verb (hifil, imperative, 2nd person, masculine, plural) | Hiph |
+| לִ֑י | to me | ל: to, for |  | preposition + suffix (pronominal, 1st person, common, singular) |  |
+| וְאִם | and if | ו: and + אִם |  | conjunction + conjunction | 1 |
+| לֹ֕א | not | לֹא |  | particle (negative) |  |
+| הַגִּ֣ידוּ | tell — The imperative is repeated: the second clause is the same request. | נָגַד | נגד | verb (hifil, imperative, 2nd person, masculine, plural) | Hiph |
+| לִ֔י | to me | ל: to, for |  | preposition + suffix (pronominal, 1st person, common, singular) |  |
+| וְאֶפְנֶ֥ה | and I will turn — Yiqtol, 1st person singular, with waw: the servant's own action in the alternative. | ו: and + פָּנָה | פנה | conjunction + verb (qal, imperfect (yiqtol), 1st person, common, singular) | Qal 1.e |
+| עַל | to — Preposition with a verb of motion. | עַל | עלה | preposition | II.7 |
+| יָמִ֖ין | right | יָמִין | ימן | noun (common, feminine, singular, absolute) | 2 |
+| א֥וֹ | or | אוֹ |  | conjunction | 2 |
+| עַל | to | עַל | עלה | preposition | II.7 |
+| שְׂמֹֽאל׃ | left | שְׂמֹאל | שׂמאל | noun (common, masculine, singular, absolute) | 1 |
+
+Grammar:
+
+- The etnaḥta on לִי (24:49.10) divides the verse: the first conditional, with its request, ends there, and the second begins with וְאִם.
+- The first conditional is יֶשְׁכֶם עֹשִׂים 'you are dealing' (יֵשׁ with a participle); its main clause is the imperative הַגִּידוּ. The second clause repeats that imperative, so the English repeats 'tell me'.
+- יֶשְׁכֶם is יֵשׁ with the suffix ־כֶם: 'there are to you', which introduces the participle עֹשִׂים.
+- This segment closes the servant's speech, opened in an earlier unit: the closing quotation mark is at the end of the verse.
+
+Note: The servant asks the family to decide now between a yes and a no, and he will go to the right or the left either way. The English keeps the two alternatives parallel as the Hebrew does.
+
+Commentary:
+
+- Rashi (declines): Rashi: 'on the right' stands for the daughters of Ishmael. The words give directions, not a people, so the English does not adopt this.
+- Rashi (declines): Rashi: 'on the left' stands for the daughters of Lot, who sat at Abraham's left. The words do not say this; the English does not adopt it.
+- Ibn Ezra (follows): Ibn Ezra: חסד here is 'a thing that is not obligatory' (דבר שאינו חיוב): the servant asks for a kindness that is freely done, not one the family owes. The English 'kindly' keeps the sense of the word; the point about obligation is recorded here.
+- Ibn Ezra (follows): Ibn Ezra: ואמת is there to carry out the matter of kindness (לקיים דבר החסד). The word comes from the root אמן, and its ת is feminine. The English takes it as faithfulness.
 
 #### Genesis 24:50
 
 > וַיַּ֨עַן לָבָ֤ן וּבְתוּאֵל֙ וַיֹּ֣אמְר֔וּ מֵיְהֹוָ֖ה יָצָ֣א הַדָּבָ֑ר לֹ֥א נוּכַ֛ל דַּבֵּ֥ר אֵלֶ֖יךָ רַ֥ע אוֹ־טֽוֹב׃
 
-_Not yet translated._
+**Laban and Bethuel answered and said, "From the LORD the thing has come; we cannot speak to you bad or good.**
+
+Literal: answered Laban and-Bethuel and-said from-the-LORD came-out the-thing not we-are-able to-speak to-you bad or good
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיַּ֨עַן | answered — Wayyiqtol, the narrative link to the speech. | ו: and + עָנָה | ענה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| לָבָ֤ן | Laban | לָבָן |  | noun (proper name) |  |
+| וּבְתוּאֵל֙ | and Bethuel | ו: and + בְּתוּאֵל |  | conjunction + noun (proper name) |  |
+| וַיֹּ֣אמְר֔וּ | and said — The speech follows the verb and is introduced with a comma. | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
+| מֵיְהֹוָ֖ה | from the LORD — מִ with the divine name: the source of the matter. | מ: from, than + יהוה | הוה | preposition + noun (proper name) | I |
+| יָצָ֣א | has come — Perfect: the matter has come out, with emphasis on its origin. | יָצָא | יצא | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1.g |
+| הַדָּבָ֑ר | the thing — Matter, affair. | ה: the + דָּבָר | דבר | particle (definite article) + noun (common, masculine, singular, absolute) | IV |
+| לֹ֥א | not | לֹא |  | particle (negative) |  |
+| נוּכַ֛ל | we are able — Yiqtol, 1st person plural; 'cannot' is the negative of ability. | יָכֹל | יכל | verb (qal, imperfect (yiqtol), 1st person, common, plural) | Qal 1 |
+| דַּבֵּ֥ר | to speak — Infinitive construct after the verb of ability. | דָבַר | דבר | verb (piel, infinitive construct) | Pi |
+| אֵלֶ֖יךָ | to you | אֶל |  | preposition + suffix (pronominal, 2nd person, masculine, singular) | 1 |
+| רַ֥ע | bad | רַע | רעע | adjective (adjective, masculine, singular, absolute) | 5 |
+| אוֹ | or | אוֹ |  | conjunction | 2 |
+| טֽוֹב׃ | good | טוֹב | טוב | adjective (adjective, masculine, singular, absolute) | 3 |
+
+Grammar:
+
+- The speech of Laban and Bethuel opens here and continues into 24:51, where it closes; this verse has no closing quotation mark.
+- The verb וַיַּעַן is singular before the compound subject 'Laban and Bethuel'; וַיֹּאמְרוּ is plural after it.
+- The English fronts 'From the LORD' as the Hebrew does: the Hebrew puts the source before the verb of coming out.
+- לֹא נוּכַל דַּבֵּר: the yiqtol 'we are able' with the infinitive 'to speak' gives 'we cannot speak'. The adjectives 'bad' and 'good' are set side by side with אוֹ, and they stand without an article.
+
+Note: The sentence says that the matter has come from the LORD and that the family cannot answer it either way. The English does not add 'either' or 'neither'.
+
+Apparatus:
+
+- מֵיְהֹוָ֖ה: WLC reads מֵיְהוָ֖ה (vowels)
 
 #### Genesis 24:51
 
 > הִנֵּֽה־רִבְקָ֥ה לְפָנֶ֖יךָ קַ֣ח וָלֵ֑ךְ וּתְהִ֤י אִשָּׁה֙ לְבֶן־אֲדֹנֶ֔יךָ כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהֹוָֽה׃
 
-_Not yet translated._
+**Here is Rebekah before you; take and go, and let her be a wife to your master's son, as the LORD has spoken."**
+
+Literal: lo Rebekah before-your-face take and-go and-let-her-be wife to-son-of your-lords as spoke the-LORD
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| הִנֵּֽה | here — הִנֵּה points to the woman who stands before them. | הִנֵּה |  | particle (demonstrative) |  |
+| רִבְקָ֥ה | Rebekah | רִבְקָה |  | noun (proper name) |  |
+| לְפָנֶ֖יךָ | before you — לְ with פָּנֶה: 'before your face', that is, before you. | ל: to, for + פָּנֶה | פנה | preposition + noun (common, both genders, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) | I.6 |
+| קַ֣ח | take — Imperative, 2nd person masculine singular, with no object expressed: the woman named is taken. | לָקַח | לקח | verb (qal, imperative, 2nd person, masculine, singular) | Qal 2 |
+| וָלֵ֑ךְ | and go — Imperative, with waw: 'take and go'. | ו: and + יָלַךְ | הלך | conjunction + verb (qal, imperative, 2nd person, masculine, singular) | Qal I.1 |
+| וּתְהִ֤י | and let her be — Jussive, 3rd person feminine singular, with the predicate noun אִשָּׁה. | ו: and + הָיָה | היה | conjunction + verb (qal, jussive, 3rd person, feminine, singular) | Qal II.2.a |
+| אִשָּׁה֙ | a wife — No article: 'a wife', not 'the wife'. | אִשָּׁה | אנשׁ | noun (common, feminine, singular, absolute) | 2 |
+| לְבֶן | to the son of — Construct: 'son of' your lord. | ל: to, for + בֵּן |  | preposition + noun (common, masculine, singular, construct) | 1 |
+| אֲדֹנֶ֔יךָ | your lord — The plural form אֲדֹנֶיךָ is used here of one master; the English reads it as singular. | אָדוֹן | אדן | noun (common, masculine, plural, construct) + suffix (pronominal, 2nd person, masculine, singular) |  |
+| כַּאֲשֶׁ֖ר | as | כ: like, as + כַּאֲשֶׁר |  | preposition + particle (relative) | 1 |
+| דִּבֶּ֥ר | has spoken — Piel perfect, 3rd person masculine singular. Ibn Ezra glosses it 'decreed' (גזר) or 'showed in a dream'; the English keeps the plain 'spoken', which both fit. | דָבַר | דבר | verb (piel, perfect (qatal), 3rd person, masculine, singular) | Pi |
+| יְהֹוָֽה׃ | the LORD | יהוה | הוה | noun (proper name) | I |
+
+Grammar:
+
+- הִנֵּה is 'here', not 'behold': it presents the woman standing before the speakers.
+- קַח וָלֵךְ: two imperatives joined by waw, 'take and go'; the object of 'take' is the woman just named.
+- וּתְהִי is a jussive, 'let her be', with the predicate noun אִשָּׁה, which has no article.
+- The speech of Laban and Bethuel, opened in 24:50, closes at the end of this verse.
+
+Note: The verb דִּבֶּר is the Piel of דָבַר, 'speak'. Ibn Ezra glosses it 'decreed' (גזר), citing Psalm 33:6, or else 'showed in a dream'; the English keeps the plain 'spoken', which fits both, and the glosses are recorded in the commentary.
+
+Commentary:
+
+- Ibn Ezra (records): Ibn Ezra: דבר ד' means 'decreed' (גזר), as in 'by the word of the LORD the heavens were made' (Ps 33:6); or else he showed it in a dream (הוכיח בחלום). The English keeps the plain 'has spoken', which both readings fit; the glosses are recorded here.
 
 #### Genesis 24:52
 
 > וַיְהִ֕י כַּאֲשֶׁ֥ר שָׁמַ֛ע עֶ֥בֶד אַבְרָהָ֖ם אֶת־דִּבְרֵיהֶ֑ם וַיִּשְׁתַּ֥חוּ אַ֖רְצָה לַֽיהֹוָֽה׃
 
-_Not yet translated._
+**And it came about that, as Abraham's servant heard their words, he bowed down to the ground, to the LORD.**
+
+Literal: and-it-came-about as heard servant-of Abraham (object) words-of-them and-he-bowed-down to-the-ground to-the-LORD
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְהִ֕י | and it came about — Wayyiqtol of היה: the formula for a new event. | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.2.a.(1) |
+| כַּאֲשֶׁ֥ר | as | כ: like, as + כַּאֲשֶׁר |  | preposition + particle (relative) | 1 |
+| שָׁמַ֛ע | heard — Perfect, 3rd person masculine singular. | שָׁמַע | שׁמע | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| עֶ֥בֶד | servant | עֶ֫בֶד | עבד | noun (common, masculine, singular, construct) | 1 |
+| אַבְרָהָ֖ם | of Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| אֶת | (object marker) | אֵת | אות | particle (direct object marker) |  |
+| דִּבְרֵיהֶ֑ם | their words — Plural of דָּבָר, with the 3rd person masculine plural suffix. | דָּבָר | דבר | noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, plural) | III |
+| וַיִּשְׁתַּ֥חוּ | and bowed down — Hishtaphel (BDB: Hithpa‛lēl) of שָׁחָה, a stem found only in this verb: 'bowed himself down'. | ו: and + שָׁחָה | שׁחה | conjunction + verb (hitpael, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hithpa‛lēl 2 |
+| אַ֖רְצָה | to the ground — The directional ה: toward the ground. | אֶ֫רֶץ | ארץ | noun (common, both genders, singular, absolute) + suffix (directional he) | 3.a |
+| לַֽיהֹוָֽה׃ | to the LORD — ל with the divine name: the bowing is directed to the LORD. | ל: to, for + יהוה | הוה | preposition + noun (proper name) | I |
+
+Grammar:
+
+- וַיְהִי כַּאֲשֶׁר: 'it came about that, as' opens a temporal clause; the main clause begins with the wayyiqtol וַיִּשְׁתַּחוּ.
+- וַיִּשְׁתַּחוּ is the hishtaphel (BDB: Hithpa‛lēl) of שָׁחָה, 'bow oneself down'. The directional ה of אַרְצָה gives 'to the ground'.
+- The object marker אֵת before 'their words' has no English counterpart.
+
+Note: The bowing is the servant's reaction to hearing the answer of the family. The English keeps 'to the ground' and does not describe the posture.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: from this verse one learns to give thanks for good news. A lesson, not the plain sense of the words.
+- Radak (records): Radak: the bowing is a full prostration, flat on the ground with hands and feet stretched out. The English says only 'to the ground'.
+
+Apparatus:
+
+- לַֽיהֹוָֽה׃: WLC reads לַֽיהוָֽה (vowels)
 
 #### Genesis 24:53
 
 > וַיּוֹצֵ֨א הָעֶ֜בֶד כְּלֵי־כֶ֨סֶף וּכְלֵ֤י זָהָב֙ וּבְגָדִ֔ים וַיִּתֵּ֖ן לְרִבְקָ֑ה וּמִ֨גְדָּנֹ֔ת נָתַ֥ן לְאָחִ֖יהָ וּלְאִמָּֽהּ׃
 
-_Not yet translated._
+**And the servant brought out vessels of silver and vessels of gold and garments, and gave to Rebekah; and choice things he gave to her brother and to her mother.**
+
+Literal: and-brought-out the-servant vessels-of silver and-vessels-of gold and-garments and-gave to-Rebekah and-choice-things he-gave to-brother-of-her and-to-mother-of-her
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיּוֹצֵ֨א | and brought out — Wayyiqtol, hifil of יָצָא. | ו: and + יָצָא | יצא | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 3 |
+| הָעֶ֜בֶד | the servant | ה: the + עֶ֫בֶד | עבד | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| כְּלֵי | vessels of — Construct plural of כְּלִי. | כְּלִי | כלה | noun (common, masculine, plural, construct) |  |
+| כֶ֨סֶף | silver — Silver as material. | כֶּ֫סֶף | כסף | noun (common, masculine, singular, absolute) | 7 |
+| וּכְלֵ֤י | and vessels of | ו: and + כְּלִי | כלה | conjunction + noun (common, masculine, plural, construct) |  |
+| זָהָב֙ | gold — Gold as material. | זָהָב | זהב | noun (common, masculine, singular, absolute) | 6 |
+| וּבְגָדִ֔ים | and garments | ו: and + בֶּ֫גֶד | בגד | conjunction + noun (common, masculine, plural, absolute) |  |
+| וַיִּתֵּ֖ן | and gave — Wayyiqtol. No object is expressed for the gift to Rebekah. | ו: and + נָתַן | נתן | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| לְרִבְקָ֑ה | to Rebekah | ל: to, for + רִבְקָה |  | preposition + noun (proper name) |  |
+| וּמִ֨גְדָּנֹ֔ת | and choice things — BDB: 'choice, excellent thing'. Rashi takes it as kinds of fruit (from מגדים); Ibn Ezra derives it from מגדים (Song 4:13), or reads it as 'noble garments'; Radak takes it as every choice thing, fruits, vessels and garments. The English keeps the entry's wide sense. | ו: and + מִגְדָּנָה | מגד | conjunction + noun (common, feminine, plural, absolute) |  |
+| נָתַ֥ן | he gave | נָתַן | נתן | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| לְאָחִ֖יהָ | to her brother | ל: to, for + אָח | אחה | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| וּלְאִמָּֽהּ׃ | and to her mother | ו: and + ל: to, for + אֵם | אמם | conjunction + preposition + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+
+Grammar:
+
+- The gifts are three: vessels of silver, vessels of gold, and garments. The construct 'vessels of' stands before each material.
+- The etnaḥta on לְרִבְקָה (24:53.9) divides the gifts to Rebekah from the gifts to her family.
+- וַיִּתֵּן לְרִבְקָה has no object, and the English does not supply one; the gifts named before it are understood.
+- מִגְדָּנֹת is a feminine plural noun, BDB 'choice, excellent things'; the specific meaning is disputed (fruit, garments, or any choice thing), and the English keeps the general sense.
+
+Note: The English 'choice things' keeps the general sense of the word (BDB: choice, excellent thing). Rashi reads 'fruits'; Ibn Ezra derives it from מגדים (Song 4:13), or else reads 'noble garments'; both are recorded in the commentary.
+
+Commentary:
+
+- Rashi (records): Rashi: מִגְדָּנוֹת is from מְגָדִים, 'delicacies'; he brought with him kinds of fruit from the land of Israel. The English keeps the wider 'choice things'.
+- Ibn Ezra (follows): Ibn Ezra: the word is from מגדים (Song 4:13); or it means 'noble garments' (מלבושים נכבדים), the נ being a root letter, as in מטפחות. The English 'choice things' fits the first derivation and the entry; the second reading is recorded here.
+
+Ancient Near East:
+
+- Gifts given to the bride and to her family when the marriage is agreed are known from the ancient Near East. The text does not call them a bride-price; the word מֹהַר, which Genesis uses of Shechem's offer (34:12), does not occur here.
 
 #### Genesis 24:54
 
 > וַיֹּאכְל֣וּ וַיִּשְׁתּ֗וּ ה֛וּא וְהָאֲנָשִׁ֥ים אֲשֶׁר־עִמּ֖וֹ וַיָּלִ֑ינוּ וַיָּק֣וּמוּ בַבֹּ֔קֶר וַיֹּ֖אמֶר שַׁלְּחֻ֥נִי לַֽאדֹנִֽי׃
 
-_Not yet translated._
+**They ate and drank, he and the men who were with him, and they spent the night; and they rose in the morning, and he said, "Send me away to my master."**
+
+Literal: and-they-ate and-they-drank he and-the-men who with-him and-they-spent-the-night and-they-rose in-the-morning and-he-said send-me-away to-my-lord
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּאכְל֣וּ | they ate — Wayyiqtol, 3rd person masculine plural. | ו: and + אָכַל | אכל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
+| וַיִּשְׁתּ֗וּ | and drank | ו: and + שָׁתָה | שׁתה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal |
+| ה֛וּא | he | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| וְהָאֲנָשִׁ֥ים | and the men | ו: and + ה: the + אִישׁ | אישׁ | conjunction + particle (definite article) + noun (common, masculine, plural, absolute) |  |
+| אֲשֶׁר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| עִמּ֖וֹ | with him | עִם |  | preposition + suffix (pronominal, 3rd person, masculine, singular) | 3 |
+| וַיָּלִ֑ינוּ | and they spent the night — Rashi notes that the verb means a single night's lodging. | ו: and + לוּן | לון | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
+| וַיָּק֣וּמוּ | and they rose | ו: and + קוּם | קום | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
+| בַבֹּ֔קֶר | in the morning | ב: in, with, by + בֹּ֫קֶר | בקר | preposition (with definite article) + noun (common, masculine, singular, absolute) | 1 |
+| וַיֹּ֖אמֶר | and he said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| שַׁלְּחֻ֥נִי | send me away — Imperative, 2nd person masculine plural, with the 1st person singular suffix. | שָׁלַח | שׁלח | verb (piel, imperative, 2nd person, masculine, plural) + suffix (pronominal, 1st person, common, singular) | Pi 1 |
+| לַֽאדֹנִֽי׃ | to my lord | ל: to, for + אָדוֹן | אדן | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+
+Grammar:
+
+- The subject of the verbs is 'they', the servant's party; 'he and the men who were with him' is added after the verbs, as the Hebrew places it.
+- The wayyiqtol chain 'and they ate … and they spent the night … and they rose … and he said' gives the order of the morning.
+- שַׁלְּחֻנִי is an imperative plural addressed to the family, with the 1st person singular suffix: 'send me away'.
+- The speech is a single clause, 'Send me away to my lord', opened and closed in this verse.
+
+Note: The sequence is eating, drinking, lodging, then departure. The servant's request is brief and is repeated in 24:56.
+
+Commentary:
+
+- Rashi (follows): Rashi: every 'lodging' (לִינָה) in Scripture is a lodging for one night. The English 'spent the night' keeps this.
 
 #### Genesis 24:55
 
 > וַיֹּ֤אמֶר אָחִ֙יהָ֙ וְאִמָּ֔הּ תֵּשֵׁ֨ב הַנַּעֲרָ֥ אִתָּ֛נוּ יָמִ֖ים א֣וֹ עָשׂ֑וֹר אַחַ֖ר תֵּלֵֽךְ׃
 
-_Not yet translated._
+**Her brother and her mother said, "Let the girl stay with us some days, or ten; after that she will go."**
+
+Literal: and-said brother-of-her and-mother-of-her will-stay the-girl with-us days or ten after she-will-go
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֤אמֶר | said — Wayyiqtol, singular before a compound subject. | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אָחִ֙יהָ֙ | her brother | אָח | אחה | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| וְאִמָּ֔הּ | and her mother | ו: and + אֵם | אמם | conjunction + noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| תֵּשֵׁ֨ב | stay — Yiqtol, 3rd person feminine singular, read as a request: 'let the girl stay'. | יָשַׁב | ישׁב | verb (qal, imperfect (yiqtol), 3rd person, feminine, singular) | Qal 2.a |
+| הַנַּעֲרָ֥ | the girl | ה: the + נַעֲרָה | נער | particle (definite article) + noun (common, feminine, singular, absolute) | 1 |
+| אִתָּ֛נוּ | with us | אֵת |  | preposition + suffix (pronominal, 1st person, common, plural) | 1 |
+| יָמִ֖ים | days — Plural of יוֹם. The length of time is in dispute; see the commentary. | יוֹם |  | noun (common, masculine, plural, absolute) | 4 |
+| א֣וֹ | or | אוֹ |  | conjunction | 2 |
+| עָשׂ֑וֹר | ten — עָשׂוֹר, 'a ten' (BDB); the Hebrew names no unit. | עָשׂוֹר | עשׂר | noun (common, masculine, singular, absolute) |  |
+| אַחַ֖ר | after that | אַחַר | אחר | preposition | 3 |
+| תֵּלֵֽךְ׃ | she will go — Yiqtol; the form is 2nd masculine or 3rd feminine singular (the dataset parses it 2nd masculine). The subject continues from תֵּשֵׁב: the girl. | יָלַךְ | הלך | verb (qal, imperfect (yiqtol), 2nd person, masculine, singular) | Qal I.1 |
+
+Grammar:
+
+- The subject is compound, 'brother and mother', and the verb וַיֹּאמֶר is singular before it.
+- תֵּשֵׁב is a yiqtol with the sense of a request. Its subject is the girl.
+- The etnaḥta on עָשׂוֹר (24:55.9) closes the proposal before אַחַר. תֵּלֵךְ may be 2nd masculine or 3rd feminine; the girl, the subject of תֵּשֵׁב, is the subject here.
+- יָמִים אוֹ עָשׂוֹר is literal: 'days or ten'. The unit is not stated, and the commentators disagree about it.
+
+Note: The speech is the family's request. The period is not fixed in the words. Rashi and Radak read it as months or a year; the English keeps the Hebrew.
+
+Commentary:
+
+- Rashi (declines): Rashi asks where Bethuel was; he wished to delay the matter and an angel came and killed him. This is not in the words, and the English does not adopt it.
+- Rashi (records): Rashi: יָמִים here means a year, as in 'days shall his redemption be' (Lev 25:29); so a betrothed girl is given twelve months to provide herself with ornaments (Ketubot 57). The English keeps 'days'.
+- Rashi (records): Rashi: עָשׂוֹר is ten months; for if you say plain days, petitioners do not ask for a small thing; and if you will not, give us more than this. The English keeps 'days or ten'.
+- Ibn Ezra (follows): Ibn Ezra: the brother and the mother spoke because they had received the gifts, and the father kept silent. Laban may have been greater than Bethuel in wisdom and honour, since the text says 'Laban and Bethuel answered' (24:50).
+
+Ancient Near East:
+
+- The Hebrew says 'days, or a ten' and names no unit. Onkelos reads 'ten months'; Rashi and Radak read a year or ten months; the plain words leave the unit open. The English keeps the Hebrew's openness.
 
 #### Genesis 24:56
 
 > וַיֹּ֤אמֶר אֲלֵהֶם֙ אַל־תְּאַחֲר֣וּ אֹתִ֔י וַֽיהֹוָ֖ה הִצְלִ֣יחַ דַּרְכִּ֑י שַׁלְּח֕וּנִי וְאֵלְכָ֖ה לַֽאדֹנִֽי׃
 
-_Not yet translated._
+**He said to them, "Do not hold me back; the LORD has made my journey prosper. Send me away, and I will go to my master."**
+
+Literal: and-said to-them not hold-back-me and-the-LORD has-made-prosper my-journey send-me-away and-I-will-go to-my-lord
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֤אמֶר | he said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֲלֵהֶם֙ | to them | אֶל |  | preposition + suffix (pronominal, 3rd person, masculine, plural) | 1 |
+| אַל | do not | אַל |  | particle (negative) |  |
+| תְּאַחֲר֣וּ | hold back — Jussive, 2nd person masculine plural, Piel: 'cause to be delayed'. | אָחַר | אחר | verb (piel, jussive, 2nd person, masculine, plural) | Pi 2 |
+| אֹתִ֔י | me — The object marker with the 1st person suffix. | אֵת | אות | particle (direct object marker) + suffix (pronominal, 1st person, common, singular) |  |
+| וַֽיהֹוָ֖ה | the LORD — The waw is not rendered separately. | ו: and + יהוה | הוה | conjunction + noun (proper name) | I |
+| הִצְלִ֣יחַ | has made prosper — Perfect, hifil: the LORD has made the journey succeed. | צָלֵחַ | צלח | verb (hifil, perfect (qatal), 3rd person, masculine, singular) | Hiph 1 |
+| דַּרְכִּ֑י | my journey | דֶּ֫רֶךְ | דרך | noun (common, both genders, singular, construct) + suffix (pronominal, 1st person, common, singular) | 2 |
+| שַׁלְּח֕וּנִי | send me away — Imperative, 2nd person masculine plural. | שָׁלַח | שׁלח | verb (piel, imperative, 2nd person, masculine, plural) + suffix (pronominal, 1st person, common, singular) | Pi 1 |
+| וְאֵלְכָ֖ה | and I will go — Cohortative, 1st person singular: his resolve. | ו: and + יָלַךְ | הלך | conjunction + verb (qal, cohortative, 1st person, common, singular) | Qal I.1 |
+| לַֽאדֹנִֽי׃ | to my lord | ל: to, for + אָדוֹן | אדן | preposition + noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+
+Grammar:
+
+- תְּאַחֲרוּ is a Piel jussive, 2nd person plural, addressed to the family: 'do not hold me back'.
+- הִצְלִיחַ is a hifil perfect with the LORD as subject: the servant reads his journey as already successful.
+- שַׁלְּחוּנִי is the same imperative as in 24:54: 'send me away'.
+- וְאֵלְכָה is a cohortative, 'and I will go', which marks his resolve.
+
+Note: This is the servant's closing speech in the unit; it closes at the end of the verse.
+
+Apparatus:
+
+- וַֽיהֹוָ֖ה: WLC reads וַֽיהוָ֖ה (vowels)
 
 #### Genesis 24:57
 
 > וַיֹּאמְר֖וּ נִקְרָ֣א לַֽנַּעֲרָ֑ וְנִשְׁאֲלָ֖ה אֶת־פִּֽיהָ׃
 
-_Not yet translated._
+**They said, "Let us call the girl and ask what she says."**
+
+Literal: and-they-said let-us-call to-the-girl and-let-us-ask (obj) her-mouth
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּאמְר֖וּ | and they said — wayyiqtol, 3rd masculine plural; the speakers are not named in the verse | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
+| נִקְרָ֣א | let us call — yiqtol, 1st plural, used as a cohortative: 'let us call' | קָרָא | קרא | verb (qal, imperfect (yiqtol), 1st person, common, plural) | Qal 5 |
+| לַֽנַּעֲרָ֑ | the girl — the lamed marks the one addressed by the call: 'call to the girl' | ל: to, for + נַעֲרָה | נער | preposition (with definite article) + noun (common, feminine, singular, absolute) | 1 |
+| וְנִשְׁאֲלָ֖ה | and let us ask — cohortative, 1st plural, with the -ah ending | ו: and + שָׁאַל | שׁאל | conjunction + verb (qal, cohortative, 1st person, common, plural) | Qal 1.a |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| פִּֽיהָ׃ | what she says — idiom: 'her mouth' (פִּיהָ) is her own word; the construct of פֶּה with a 3rd feminine singular suffix | פֶּה |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 2.a |
+
+Grammar:
+
+- וַיֹּאמְרוּ has no named subject in the verse; the family of verse 55 is the only group the context offers, and the English keeps 'they'.
+- נִקְרָא and וְנִשְׁאֲלָה are both first-person plural: a yiqtol and a cohortative in -ah. Together they give 'let us call ... let us ask'.
+- The etnaḥta on לַנַּעֲרָ divides the verse: the call comes before it, the request to ask the girl after it.
+- The object marker before פִּיהָ introduces the object of the second verb; the noun is the construct of פֶּה with its suffix.
+
+Note: פִּיהָ: 'her mouth' is the idiom for her own word. The English gives the sense; the consent it implies is named in the commentary.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi, on 'and let us ask her mouth', takes from it the rule that a woman is not given in marriage without her own consent (Bereshit Rabbah). This is a law drawn from the words, not their plain sense.
+- Radak (records): Radak reads the words as 'what she will say if she is willing to go from now', since she had been asked about the marriage before, when the family said 'take her and go' (24:51). The English keeps 'her own word' and does not add the question of going at once.
+- Sforno (records): Sforno: the asking is whether her mind is ready to go with the servant now. The English does not take up the point of going at once.
+
+Apparatus:
+
+- Targum Onkelos renders the request as 'and we will hear what she says' (ונשמע מה דהיא אמרה), which turns the asking into a hearing of her answer; the English keeps the asking.
 
 #### Genesis 24:58
 
 > וַיִּקְרְא֤וּ לְרִבְקָה֙ וַיֹּאמְר֣וּ אֵלֶ֔יהָ הֲתֵלְכִ֖י עִם־הָאִ֣ישׁ הַזֶּ֑ה וַתֹּ֖אמֶר אֵלֵֽךְ׃
 
-_Not yet translated._
+**They called Rebekah and said to her, "Will you go with this man?" She said, "I will go."**
+
+Literal: and-they-called to-Rebekah and-they-said to-her shall-you-go with the-man the-this and-she-said I-will-go
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּקְרְא֤וּ | and they called — wayyiqtol, 3rd masculine plural | ו: and + קָרָא | קרא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 5 |
+| לְרִבְקָה֙ | Rebekah — the lamed marks the direction of the call | ל: to, for + רִבְקָה |  | preposition + noun (proper name) |  |
+| וַיֹּאמְר֣וּ | and said — wayyiqtol, 3rd masculine plural | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
+| אֵלֶ֔יהָ | to her | אֶל |  | preposition + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| הֲתֵלְכִ֖י | will you go — yiqtol, 2nd feminine singular, with the interrogative הֲ: a question, not a statement | ה: interrogative + יָלַךְ | הלך | particle (interrogative) + verb (qal, imperfect (yiqtol), 2nd person, feminine, singular) | Qal I.1 |
+| עִם | with | עִם |  | preposition | 1 |
+| הָאִ֣ישׁ | the man | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| הַזֶּ֑ה | this — demonstrative in apposition: 'the man, this' | ה: the + זֶה |  | particle (definite article) + pronoun (demonstrative, masculine, singular) | 2 |
+| וַתֹּ֖אמֶר | and she said — wayyiqtol, 3rd feminine singular | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| אֵלֵֽךְ׃ | I will go — yiqtol, 1st singular: Rebekah's answer in her own voice | יָלַךְ | הלך | verb (qal, imperfect (yiqtol), 1st person, common, singular) | Qal I.1 |
+
+Grammar:
+
+- Two speeches: the family's question (58.5 to 58.8) and Rebekah's answer (58.10), each in the person of its speaker.
+- The etnaḥta on הַזֶּה (58.8) divides the verse: the summons and the question come before it, the answer after it.
+- הֲתֵלְכִי is a yes-or-no question put to Rebekah directly, in the second feminine singular.
+- אֵלֵךְ is a single first-person verb with no object; her answer is one word of motion.
+- The wayyiqtols carry the narration: they called, they said, she said.
+
+Note: The question is addressed to Rebekah and is not reported; the answer is hers.
+
+Commentary:
+
+- Rashi (records): Rashi glosses her answer as her own will (מֵעַצְמִי), 'even if you do not wish'. The English does not add that she went against their will; the gloss is kept here.
 
 #### Genesis 24:59
 
 > וַֽיְשַׁלְּח֛וּ אֶת־רִבְקָ֥ה אֲחֹתָ֖ם וְאֶת־מֵנִקְתָּ֑הּ וְאֶת־עֶ֥בֶד אַבְרָהָ֖ם וְאֶת־אֲנָשָֽׁיו׃
 
-_Not yet translated._
+**They sent off Rebekah their sister, and her nurse, and Abraham's servant, and his men.**
+
+Literal: and-they-sent-away (obj) Rebekah their-sister and-(obj) her-nurse and-(obj) servant of-Abraham and-(obj) his-men
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַֽיְשַׁלְּח֛וּ | they sent off — wayyiqtol, piel, 3rd masculine plural: the family sends the party off | ו: and + שָׁלַח | שׁלח | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Pi 1 |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| רִבְקָ֥ה | Rebekah | רִבְקָה |  | noun (proper name) |  |
+| אֲחֹתָ֖ם | their sister — construct with the 3rd masculine plural suffix | אָחוֹת | אחה | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, plural) | 1 |
+| וְאֶת | and | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| מֵנִקְתָּ֑הּ | her nurse — Hiphil participle of 'suckle', feminine, in the construct with the 3rd feminine singular suffix | יָנַק | ינק | verb (hifil, participle, feminine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | Hiph |
+| וְאֶת | and | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| עֶ֥בֶד | servant — construct: 'servant of Abraham', with no article | עֶ֫בֶד | עבד | noun (common, masculine, singular, construct) | 1 |
+| אַבְרָהָ֖ם | of Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| וְאֶת | and | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| אֲנָשָֽׁיו׃ | his men | אִישׁ | אישׁ | noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+
+Grammar:
+
+- One verb governs four objects, and the object marker stands before each (אֵת, then וְאֵת three times), so the verse is a list.
+- The tipḥa on אֲחֹתָם ends the first object, Rebekah with the epithet 'their sister'; the silluq on אֲנָשָׁיו ends the list.
+- The nurse, מֵנִקְתָּהּ, is a Hiphil participle in the feminine with the 3rd feminine singular suffix; the English 'her nurse' keeps that form.
+- The servant is in the construct with Abraham (עֶבֶד אַבְרָהָם), with no article, so the English reads 'Abraham's servant'.
+
+Note: Rebekah is called their sister, the family's sister, not his: the English 'their sister' keeps the plural suffix.
+
+Commentary:
+
+- Ibn Ezra (not-applicable): On her nurse (מֵנִקְתָּהּ) the pack gives only Ibn Ezra's words 'in the ancient days' (בימים הקדמונים), with nothing after them. He gives no sense of the word, so the comment does not bear on the English.
 
 #### Genesis 24:60
 
 > וַיְבָרְכ֤וּ אֶת־רִבְקָה֙ וַיֹּ֣אמְרוּ לָ֔הּ אֲחֹתֵ֕נוּ אַ֥תְּ הֲיִ֖י לְאַלְפֵ֣י רְבָבָ֑ה וְיִירַ֣שׁ זַרְעֵ֔ךְ אֵ֖ת שַׁ֥עַר שֹׂנְאָֽיו׃
 
-_Not yet translated._
+**They blessed Rebekah and said to her, "Our sister, may you become thousands of myriads, and may your offspring possess the gate of those who hate him."**
+
+Literal: and-they-blessed (obj) Rebekah and-they-said to-her our-sister you be to-thousands-of myriad and-may-possess your-seed (obj) gate-of his-haters
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְבָרְכ֤וּ | and they blessed — wayyiqtol, piel, 3rd masculine plural; the lexicon glosses Pi 3 as men blessing men | ו: and + בָּרַךְ | ברך | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Pi 3 |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| רִבְקָה֙ | Rebekah | רִבְקָה |  | noun (proper name) |  |
+| וַיֹּ֣אמְרוּ | and said — wayyiqtol, 3rd masculine plural | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 1 |
+| לָ֔הּ | to her | ל: to, for |  | preposition + suffix (pronominal, 3rd person, feminine, singular) |  |
+| אֲחֹתֵ֕נוּ | our sister | אָחוֹת | אחה | noun (common, feminine, singular, construct) + suffix (pronominal, 1st person, common, plural) | 1 |
+| אַ֥תְּ | you | אַתְּ | אנת | pronoun (personal, 2nd person, feminine, singular) |  |
+| הֲיִ֖י | may you become — imperative, 2nd feminine singular (הֲיִי), read as a wish; the he takes shewa and patah | הָיָה | היה | verb (qal, imperative, 2nd person, feminine, singular) | Qal II.1.b |
+| לְאַלְפֵ֣י | thousands of | ל: to, for + אֶ֫לֶף | אלף | preposition + adjective (cardinal number, both genders, plural, construct) |  |
+| רְבָבָ֑ה | myriads | רְבָבָה | רבב | noun (common, feminine, singular, absolute) |  |
+| וְיִירַ֣שׁ | and may possess — yiqtol, 3rd masculine singular, in a wish | ו: and + יָרַשׁ | ירשׁ | conjunction + verb (qal, imperfect (yiqtol), 3rd person, masculine, singular) | Qal 1 |
+| זַרְעֵ֔ךְ | your seed | זֶ֫רַע | זרע | noun (common, masculine, singular, construct) + suffix (pronominal, 2nd person, feminine, singular) | 4 |
+| אֵ֖ת | - | אֵת | אות | particle (direct object marker) |  |
+| שַׁ֥עַר | gate | שַׁ֫עַר | שׁער | noun (common, masculine, singular, construct) |  |
+| שֹׂנְאָֽיו׃ | those who hate him — participle, masculine plural, in the construct with the 3rd masculine singular suffix | שָׂנֵא | שׂנא | verb (qal, participle active, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) | Qal |
+
+Grammar:
+
+- The speech is a blessing in two wishes: the first on Rebekah (you become thousands of myriads), the second on her seed (your seed possesses the gate of his haters).
+- The imperative הֲיִי is second feminine singular; Radak notes that its he takes shewa and patah. The emphatic אַתְּ comes before the verb: 'you, be'.
+- The etnaḥta on רְבָבָה divides the blessing at 'thousands of myriads'; the second wish begins with the waw of וְיִירַשׁ.
+- The object marker before שַׁעַר makes the gate the object of 'possess'; the construct שַׁעַר שֹׂנְאָיו is 'the gate of his haters'.
+- The suffix on שֹׂנְאָיו is 3rd masculine singular; its antecedent is the masculine זֶרַע, so 'him' in the English refers to the seed.
+
+Note: The English 'those who hate him' keeps the 3rd masculine singular suffix, whose antecedent is the masculine זֶרַע.
+
+Commentary:
+
+- Rashi (records): Rashi reads the wish as a promise that Rebekah and her seed will receive the blessing said to Abraham on Mount Moriah, and that the seed will come from her and not from another wife. The English keeps a wish; Rashi's reading is recorded here.
+
+Ancient Near East:
+
+- רְבָבָה is ten thousand, so 'thousands of myriads' is a very great number, not a count. In the second wish, 'possess the gate' of the haters means to hold their city: the gate was the city's entry, its defence and its seat of judgment. The wording echoes the promise to Abraham in 22:17, where the seed 'shall possess the gate of his enemies'; here the word is 'those who hate him'.
+
+Apparatus:
+
+- 24:60.1: the base text reads וַיְבָרְכוּ; the WLC reads וַיְבָרֲכוּ, with a different vowel under the second letter. The English is the same either way.
+- וַיְבָרְכ֤וּ: WLC reads וַיְבָרֲכ֤וּ (vowels)
 
 #### Genesis 24:61
 
 > וַתָּ֨קׇם רִבְקָ֜ה וְנַעֲרֹתֶ֗יהָ וַתִּרְכַּ֙בְנָה֙ עַל־הַגְּמַלִּ֔ים וַתֵּלַ֖כְנָה אַחֲרֵ֣י הָאִ֑ישׁ וַיִּקַּ֥ח הָעֶ֛בֶד אֶת־רִבְקָ֖ה וַיֵּלַֽךְ׃
 
-_Not yet translated._
+**Rebekah rose with her girls, and they mounted the camels and went after the man. The servant took Rebekah and went.**
+
+Literal: and-she-arose Rebekah and-her-maids and-they-mounted on the-camels and-they-went after the-man and-he-took the-servant (obj) Rebekah and-he-went
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתָּ֨קׇם | and she arose — wayyiqtol, 3rd feminine singular: Rebekah alone rises | ו: and + קוּם | קום | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| רִבְקָ֜ה | Rebekah | רִבְקָה |  | noun (proper name) |  |
+| וְנַעֲרֹתֶ֗יהָ | and her maids — plural of נַעֲרָה, with the 3rd feminine singular suffix | ו: and + נַעֲרָה | נער | conjunction + noun (common, feminine, plural, construct) + suffix (pronominal, 3rd person, feminine, singular) | 2 |
+| וַתִּרְכַּ֙בְנָה֙ | and they mounted — wayyiqtol, 3rd feminine plural: the maids mount | ו: and + רָכַב | רכב | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, plural) | Qal 1 |
+| עַל | on | עַל | עלה | preposition | II.1 |
+| הַגְּמַלִּ֔ים | the camels — for riding | ה: the + גָּמָל | גמל | particle (definite article) + noun (common, masculine, plural, absolute) | 3 |
+| וַתֵּלַ֖כְנָה | and they went — wayyiqtol, 3rd feminine plural | ו: and + יָלַךְ | הלך | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, plural) | Qal I.1 |
+| אַחֲרֵ֣י | after | אַחַר | אחר | preposition | 2.b |
+| הָאִ֑ישׁ | the man | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| וַיִּקַּ֥ח | and he took — wayyiqtol, 3rd masculine singular: take and carry along, the servant takes her with him | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 2 |
+| הָעֶ֛בֶד | the servant | ה: the + עֶ֫בֶד | עבד | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| רִבְקָ֖ה | Rebekah | רִבְקָה |  | noun (proper name) |  |
+| וַיֵּלַֽךְ׃ | and he went — wayyiqtol, 3rd masculine singular | ו: and + יָלַךְ | הלך | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.1 |
+
+Grammar:
+
+- The wayyiqtol chain runs in three parts: Rebekah rises (3rd feminine singular); her maids mount and go (3rd feminine plural); the servant takes her and goes (3rd masculine singular).
+- The etnaḥta on הָאִישׁ (61.9) divides 'they went after the man' from 'the servant took Rebekah and went'.
+- The preposition עַל with the camels is 'on'; the English 'mounted the camels' carries that sense in the verb.
+- The object marker before רִבְקָה marks her as the object of 'took'; the servant is the subject (the verb is masculine singular).
+
+Note: The English 'the camels' follows the Hebrew. Ibn Ezra's identification of them as the servant's is commentary and is not in the English. See the context note on camels.
+
+Commentary:
+
+- Ibn Ezra (records): Ibn Ezra says the camels are those the servant had brought (על הגמלים שהביא העבד). The English keeps 'the camels' as the text has them; his identification is recorded here, not adopted.
+- Ibn Ezra (not-applicable): On the last word וַיֵּלַךְ, Ibn Ezra says the vowel is a pataḥ, not a qamets, even at the end of a verse, because it was first a short pataḥ and could not climb two steps; so with every וַיֹּאמַר. This concerns the vocalization and does not bear on the English.
+- Ibn Ezra (records): Ibn Ezra says the sense of 'the servant took Rebekah and went' is that he was walking with Rebekah and did not notice until Isaac came. The English keeps 'went' and does not add that the going continued; the gloss on what happened is recorded here.
+- Radak (records): Radak says the servant took her to his side so that she would not part from him by a single step, out of love and honour for her. The English keeps 'took'; the purpose he gives is recorded here.
+
+Ancient Near East:
+
+- The camels (גְּמַלִּים): whether camels were in regular use as mounts and beasts of burden in the time of the patriarchs is disputed. Some scholars hold that such regular use is later than the period the text describes; others hold that the text is accurate to its period. The English says 'camels' and takes no side.
 
 #### Genesis 24:62
 
 > וְיִצְחָק֙ בָּ֣א מִבּ֔וֹא בְּאֵ֥ר לַחַ֖י רֹאִ֑י וְה֥וּא יוֹשֵׁ֖ב בְּאֶ֥רֶץ הַנֶּֽגֶב׃
 
-_Not yet translated._
+**Isaac had come from the way to Beer-lahai-roi, and he was living in the land of the Negeb.**
+
+Literal: and-Isaac came from-coming Beer-lahai-roi and-he dwelling in-land-of the-Negeb
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְיִצְחָק֙ | and Isaac | ו: and + יִצְחָק | צחק | conjunction + noun (proper name) |  |
+| בָּ֣א | had come — qatal, 3rd masculine singular: the arrival is completed before the verb of dwelling | בּוֹא | בוא | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+| מִבּ֔וֹא | from coming to — infinitive construct with מִן; Ibn Ezra takes it as a verbal noun, see commentary | מ: from, than + בּוֹא | בוא | preposition + verb (qal, infinitive construct) | Qal 2 |
+| בְּאֵ֥ר | Beer-lahai-roi — the name of a well; the lexicon glosses it 'well, living One that seeth me' | בְּאֵר לַחַי רֹאִי | באר | noun (proper name) |  |
+| לַחַ֖י | Lahai (part of the name) | בְּאֵר לַחַי רֹאִי | באר | noun (proper name) |  |
+| רֹאִ֑י | Roi (part of the name) | בְּאֵר לַחַי רֹאִי | באר | noun (proper name) |  |
+| וְה֥וּא | and he | ו: and + הוּא |  | conjunction + pronoun (personal, 3rd person, masculine, singular) |  |
+| יוֹשֵׁ֖ב | was living — participle: a continuing state, 'was dwelling' | יָשַׁב | ישׁב | verb (qal, participle active, masculine, singular, absolute) | Qal 3 |
+| בְּאֶ֥רֶץ | in the land of — construct: 'the land of the Negeb' | ב: in, with, by + אֶ֫רֶץ | ארץ | preposition + noun (common, both genders, singular, construct) | 2.b |
+| הַנֶּֽגֶב׃ | the Negeb | ה: the + נֶ֫גֶב | נגב | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+
+Grammar:
+
+- The qatal בָּא gives the arrival as a completed action; the English 'had come' keeps it earlier than the dwelling, as the Hebrew does.
+- מִבּוֹא is an infinitive with מִן, 'from the coming'. Ibn Ezra takes it as a verbal noun; the other readings are in the commentary.
+- The etnaḥta on רֹאִי (62.6) divides the verse at the place-name: the arrival from the well, then the dwelling in the Negeb.
+- The participle יוֹשֵׁב after וְהוּא is a descriptive clause with a pronoun subject: 'and he was dwelling'.
+- The name is a phrase in the Hebrew (well of the Living One who sees me); the English keeps the three parts hyphenated.
+
+Note: 'had come' is chosen because the verb is backgrounded. The Hebrew of the arrival and the dwelling are both given in the English.
+
+Commentary:
+
+- Rashi (declines): Rashi, citing Bereshit Rabbah, says Isaac had gone to bring Hagar for his father Abraham to marry. This is a midrash, not the plain sense of the words; the English rejects it.
+- Rashi (records): Rashi places Isaac's dwelling near that well, since Abraham dwelt between Kadesh and Shur in the Negeb, where the well was. The English gives the Negeb only; Rashi's placing is recorded here.
+- Ibn Ezra (follows): Ibn Ezra lists readings of בא מבוא: that it is a place name, a place called by two names; that some take it as 'from inside' (מבפנים), as they explain 'shutting every house from entering' (Isa 24:10). He prefers the infinitive, the name of the action, and so its sense is 'came from coming (to) Beer-lahai-roi'. The English follows him.
+- Ibn Ezra (follows): Ibn Ezra: in those days Isaac was dwelling there, at the Negeb side of the land of Israel. The English gives the continuing dwelling ('was living'), which follows him; his placing of the Negeb at the southern edge of the land is not in the English.
+- Ramban (records): Ramban says the infinitive may mean that Isaac kept going to that place, where he had a place of prayer and the angel was seen, and that he dwelt in the Negeb near it. He also reads the phrase as Isaac returning to his city from his journey to Beer-lahai-roi.
+- Radak (records): Radak says Isaac was not living at Beer-lahai-roi but in Hebron with his father; he had herds or business at that place and stayed there that day. The English keeps 'was living in the land of the Negeb' and does not place him at the well.
+- Sforno (records): Sforno: Isaac came to pray in the place where his maidservant's prayer had been heard; the matter had already been settled in Haran before he prayed. The English does not take this reading.
+
+Ancient Near East:
+
+- The Negeb is the dry southern region of the land. Commentators differ on where Isaac was at this time: Rashi places him near the well, and Radak has him at Hebron with his father, staying at the well for that day. The English keeps the text's words and does not settle the question.
+
+Apparatus:
+
+- 24:62.2 to 62.3: 'from inside' (מבפנים) is another reading of מִבּוֹא, which Ibn Ezra sets aside (see commentary); the English takes the infinitive.
 
 #### Genesis 24:63
 
 > וַיֵּצֵ֥א יִצְחָ֛ק לָשׂ֥וּחַ בַּשָּׂדֶ֖ה לִפְנ֣וֹת עָ֑רֶב וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּ֥ה גְמַלִּ֖ים בָּאִֽים׃
 
-_Not yet translated._
+**Isaac went out to walk in the field towards evening. He lifted his eyes and saw, and look, camels were coming.**
+
+Literal: and-he-went-out Isaac to-walk in-the-field to-turn evening and-he-lifted eyes-his and-he-saw and-look camels coming
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֵּצֵ֥א | and went out — wayyiqtol, 3rd masculine singular | ו: and + יָצָא | יצא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1.a |
+| יִצְחָ֛ק | Isaac | יִצְחָק | צחק | noun (proper name) |  |
+| לָשׂ֥וּחַ | to walk — infinitive construct of purpose; Ibn Ezra takes 'to walk' (more fully 'to walk among the bushes', ללכת בין השיחים); Rashi's 'to pray' and Sforno's 'pour out his complaint' are recorded in the apparatus | ל: to, for + שׂוּחַ |  | preposition + verb (qal, infinitive construct) | Qal |
+| בַּשָּׂדֶ֖ה | in the field | ב: in, with, by + שָׂדֶה | שׂדה | preposition (with definite article) + noun (common, masculine, singular, absolute) | 1 |
+| לִפְנ֣וֹת | towards — infinitive construct with ל: 'as the day turned towards' | ל: to, for + פָּנָה | פנה | preposition + verb (qal, infinitive construct) | Qal 1.e |
+| עָ֑רֶב | evening | עֶ֫רֶב | ערב | noun (common, masculine, singular, absolute) | 1.a |
+| וַיִּשָּׂ֤א | and he lifted — wayyiqtol | ו: and + נָשָׂא | נשׂא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| עֵינָיו֙ | his eyes | עַ֫יִן | עין | noun (common, both genders, dual, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וַיַּ֔רְא | and he saw — wayyiqtol | ו: and + רָאָה | ראה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1.a |
+| וְהִנֵּ֥ה | and look — הִנֵּה introduces what is seen | ו: and + הִנֵּה |  | conjunction + particle (demonstrative) |  |
+| גְמַלִּ֖ים | camels — as beasts of burden: the caravan | גָּמָל | גמל | noun (common, masculine, plural, absolute) | 2 |
+| בָּאִֽים׃ | coming — participle, masculine plural: 'were coming' | בּוֹא | בוא | verb (qal, participle active, masculine, plural, absolute) | Qal 2 |
+
+Grammar:
+
+- Purpose: 'went out to walk', the infinitive with ל after the verb of motion.
+- The time phrase is an infinitive construct of פָּנָה with ל: 'towards evening'.
+- The wayyiqtols (went out, lifted, saw) give the sequence; then הִנֵּה with a participle gives the sight as a present scene: 'look, camels were coming'.
+- The etnaḥta on עָרֶב (63.6) divides the verse: going out to walk towards evening, then the seeing. The merkha on וַיֵּצֵא (63.1) is a conjunctive accent and divides nothing.
+
+Note: לָשׂוּחַ is disputed: Ibn Ezra reads 'to walk', Rashi 'to pray'. The English 'to walk' follows Ibn Ezra, the normative commentator; see the apparatus.
+
+Commentary:
+
+- Rashi (records): Rashi says לָשׂוּחַ is a term of prayer (לְשׁוֹן תְּפִלָּה), like the phrase 'he will pour out his complaint'. The English takes Ibn Ezra's 'to walk'; the prayer reading is recorded here.
+- Ibn Ezra (follows): Ibn Ezra glosses לָשׂוּחַ as 'to walk among the bushes' (ללכת בין השיחים). The English takes it as 'to walk'.
+- Ibn Ezra (follows): Ibn Ezra: לִפְנוֹת עֶרֶב means near the coming of the sun, the opposite of לִפְנוֹת בֹּקֶר; he says he will explain it fully in the parashah Ki Tetse. The English 'towards evening' follows him; the fuller treatment is not in the pack.
+- Sforno (records): Sforno: Isaac turned from the road, intending to pour out his complaint before the Lord in the field, so that passers-by would not interrupt him. The English does not take this reading.
+
+Apparatus:
+
+- לָשׂוּחַ: 'to walk' (Ibn Ezra, 'among the bushes'; Radak, 'to stroll among the bushes'; the lexicon 'go, rove about'); 'to pray' (Rashi, as in 'he pours out his complaint'; Targum Onkelos renders לְצַלָּאָה; Sforno, 'pour out his complaint before the Lord'). 'To meditate', the older English rendering, takes the verb as from שִׂיחַ 'musing, complaint', the same word Rashi and Sforno draw on; no commentator in the pack gives it, and the English does not take it.
 
 #### Genesis 24:64
 
 > וַתִּשָּׂ֤א רִבְקָה֙ אֶת־עֵינֶ֔יהָ וַתֵּ֖רֶא אֶת־יִצְחָ֑ק וַתִּפֹּ֖ל מֵעַ֥ל הַגָּמָֽל׃
 
-_Not yet translated._
+**Rebekah lifted her eyes and saw Isaac, and she threw herself down from the camel.**
+
+Literal: and-she-lifted Rebekah (obj) her-eyes and-she-saw (obj) Isaac and-she-fell from-upon the-camel
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתִּשָּׂ֤א | and she lifted — wayyiqtol, 3rd feminine singular | ו: and + נָשָׂא | נשׂא | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| רִבְקָה֙ | Rebekah | רִבְקָה |  | noun (proper name) |  |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| עֵינֶ֔יהָ | her eyes | עַ֫יִן | עין | noun (common, both genders, dual, construct) + suffix (pronominal, 3rd person, feminine, singular) | 1 |
+| וַתֵּ֖רֶא | and she saw — wayyiqtol, 3rd feminine singular | ו: and + רָאָה | ראה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1.a |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| יִצְחָ֑ק | Isaac | יִצְחָק | צחק | noun (proper name) |  |
+| וַתִּפֹּ֖ל | and she threw herself down — wayyiqtol of 'fall'; Ibn Ezra reads it as deliberate, like 'fell on his face'; see commentary | ו: and + נָפַל | נפל | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 3.a |
+| מֵעַ֥ל | from | מ: from, than + עַל | עלה | preposition + preposition | IV.2 |
+| הַגָּמָֽל׃ | the camel — the camel she was riding | ה: the + גָּמָל | גמל | particle (definite article) + noun (common, masculine, singular, absolute) | 3 |
+
+Grammar:
+
+- Three wayyiqtols have Rebekah as subject: lifted, saw, fell.
+- The etnaḥta on יִצְחָק (64.7) divides the seeing from the falling.
+- The verb נָפַל with מֵעַל gives 'from upon the camel': the place from which the movement starts.
+- The object marker before Isaac's name marks him as the object of 'saw'.
+
+Note: 'threw herself down' is the translation of Ibn Ezra's reading (ברצונה, by her will); the English does not take the verb as an accident. The other readings are in the commentary and apparatus.
+
+Commentary:
+
+- Rashi (records): Rashi: she let herself down toward the ground, bending without reaching the earth. The English does not give that detail; Rashi's reading is recorded here.
+- Ibn Ezra (follows): Ibn Ezra: her falling was by her own will (ברצונה), as in 'and he fell on his face' (ויפול על פניו, Num 16:4): she threw herself down on purpose. The English follows him.
+- Ramban (records): Ramban rejects the reading that she let herself down from the camel to the ground. He takes her to have bent to one side while on the camel, to turn her face from him, and says Onkelos' 'from upon the camel' can mean 'on the camel'.
+- Radak (records): Radak: when the servant told her that the man was Isaac, she let herself fall from the camel to the ground, covered her face with her veil, and then stood. The English does not add the veil or the standing.
+- Sforno (records): Sforno: she bowed her head while still on the camel, out of honour for Isaac, comparing the wording with Naaman's falling from the chariot to meet the prophet (2 Kings 5:21).
+
+Apparatus:
+
+- 24:64.8: Targum Onkelos renders 'bowed down from upon the camel' (אִתְרְכִינַת מֵעַל גַּמְלָא). The English 'threw herself down' follows Ibn Ezra's deliberate sense.
+- 24:64 (order): Ibn Ezra says the next verse, 24:65, is earlier in time than this one, since she had already spoken to the servant. The English keeps the order of the text.
 
 #### Genesis 24:65
 
 > וַתֹּ֣אמֶר אֶל־הָעֶ֗בֶד מִֽי־הָאִ֤ישׁ הַלָּזֶה֙ הַהֹלֵ֤ךְ בַּשָּׂדֶה֙ לִקְרָאתֵ֔נוּ וַיֹּ֥אמֶר הָעֶ֖בֶד ה֣וּא אֲדֹנִ֑י וַתִּקַּ֥ח הַצָּעִ֖יף וַתִּתְכָּֽס׃
 
-_Not yet translated._
+**And she said to the servant, "Who is this man walking in the field to meet us?" And the servant said, "He is my master." And she took the veil and covered herself.**
+
+Literal: and-she-said to the-servant who the-man this the-walking in-the-field for-meeting-us and-said the-servant he my-lord and-she-took the-veil and-she-covered-herself
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֹּ֣אמֶר | and she said — wayyiqtol (sequential imperfect), 3rd person feminine singular: the sequential form carries the narrative on. | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| הָעֶ֗בֶד | the servant | ה: the + עֶ֫בֶד | עבד | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| מִֽי | who — interrogative of persons; the lexicon notes it is rarely used of things. | מִי |  | particle (interrogative) | a |
+| הָאִ֤ישׁ | the man | ה: the + אִישׁ | אישׁ | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| הַלָּזֶה֙ | this | הַלָּזֶה |  | pronoun (demonstrative, masculine, singular) |  |
+| הַהֹלֵ֤ךְ | walking — participle with the article, attributive to 'the man': 'the man who is walking'. | ה: the + הָלַךְ | הלך | particle (definite article) + verb (qal, participle active, masculine, singular, absolute) | Qal I.1 |
+| בַּשָּׂדֶה֙ | in the field | ב: in, with, by + שָׂדֶה | שׂדה | preposition (with definite article) + noun (common, masculine, singular, absolute) | 1 |
+| לִקְרָאתֵ֔נוּ | to meet us — lamed with the infinitive construct of qara and the 1st person plural suffix: 'for meeting us', idiomatically 'to meet us'. | ל: to, for + קִרְאָה | קרא | preposition + verb (qal, infinitive construct) + suffix (pronominal, 1st person, common, plural) | Qal 1 |
+| וַיֹּ֥אמֶר | and said | ו: and + אָמַר | אמר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| הָעֶ֖בֶד | the servant | ה: the + עֶ֫בֶד | עבד | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| ה֣וּא | he | הוּא |  | pronoun (personal, 3rd person, masculine, singular) | 1 |
+| אֲדֹנִ֑י | my lord — construct form of adon with the 1st person singular suffix, אֲדֹנִי (hiriq, not the divine title אֲדֹנָי with qamats); addressed here to a man, so 'my lord'. | אָדוֹן | אדן | noun (common, masculine, singular, construct) + suffix (pronominal, 1st person, common, singular) |  |
+| וַתִּקַּ֥ח | and she took | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| הַצָּעִ֖יף | the veil — a wrap or shawl; 'veil' is the English choice, and the text gives no detail of its shape. | ה: the + צָעִיף | צעף | particle (definite article) + noun (common, masculine, singular, absolute) |  |
+| וַתִּתְכָּֽס׃ | and she covered herself — hitpaʿel wayyiqtol, 3rd person feminine singular: the reflexive 'she covered herself'; the verb has no object. | ו: and + כָּסָה | כסה | conjunction + verb (hitpael, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Hithp |
+
+Grammar:
+
+- וַתֹּאמֶר is a wayyiqtol (sequential imperfect); the English 'and she said' keeps its feminine subject.
+- The interrogative מִי is followed by הַלָּזֶה and the attributive participle הַהֹלֵךְ, so the question reads 'who is this man walking in the field'.
+- The etnaḥta on אֲדֹנִי closes the servant's answer; the merkha on וַתִּקַּח and the tipḥa on הַצָּעִיף carry the last clause to the silluq on וַתִּתְכָּס.
+- וַתִּתְכָּס is hitpaʿel (reflexive), so the verb has no separate object: 'she covered herself'.
+
+Note: The two speeches are each introduced with a comma and close within this verse. 'Veil' renders צָעִיף, which the lexicon gives as wrapper, shawl or veil. Ibn Ezra's ruling on the binyan of וַתִּתְכָּס is followed; Radak's account of what happened before the question is recorded in the commentary, not the English.
+
+Commentary:
+
+- Rashi (follows): Rashi: the form is of the wattitpaʿel pattern, like the forms wattiqqaber and wattishshaber.
+- Ibn Ezra (follows): Ibn Ezra: the form is of the hitpaʿel; its first tav is the feminine marker, which does not occur in the root, and its second tav is the hitpaʿel's.
+- Radak (not-applicable): Radak: before she fell from the camel she asked the servant who the man was, since she feared he was Isaac or one of his household.
 
 #### Genesis 24:66
 
 > וַיְסַפֵּ֥ר הָעֶ֖בֶד לְיִצְחָ֑ק אֵ֥ת כׇּל־הַדְּבָרִ֖ים אֲשֶׁ֥ר עָשָֽׂה׃
 
-_Not yet translated._
+**And the servant told Isaac all the things that he did.**
+
+Literal: and-told the-servant to-Isaac [acc] all the-things that he-did
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְסַפֵּ֥ר | and told — piel wayyiqtol of saphar: 'recount, relate'; not the qal 'count'. | ו: and + סָפַר | ספר | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Pi |
+| הָעֶ֖בֶד | the servant | ה: the + עֶ֫בֶד | עבד | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| לְיִצְחָ֑ק | to Isaac | ל: to, for + יִצְחָק | צחק | preposition + noun (proper name) |  |
+| אֵ֥ת | - — object marker; no English counterpart. | אֵת | אות | particle (direct object marker) |  |
+| כׇּל | all | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| הַדְּבָרִ֖ים | the things — 'matter, affair': the deeds of 24:66, as the verb 'did' fixes them. | ה: the + דָּבָר | דבר | particle (definite article) + noun (common, masculine, plural, absolute) | IV |
+| אֲשֶׁ֥ר | that — relative particle. | אֲשֶׁר | אשׁר | particle (relative) |  |
+| עָשָֽׂה׃ | he did — perfect (qatal), 3rd person masculine singular, in a relative clause after its noun. | עָשָׂה | עשׂה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal I.1 |
+
+Grammar:
+
+- וַיְסַפֵּר is the piel wayyiqtol of סָפַר, 'recount, relate', not the qal 'count'.
+- The object is כׇּל־הַדְּבָרִים with the object marker before it; אֲשֶׁר עָשָׂה is a relative clause whose subject is the servant.
+- The merkha on וַיְסַפֵּר and the tipḥa on הָעֶבֶד and on הַדְּבָרִים divide the verse into short units.
+
+Note: The English keeps 'the things that he did' as the Hebrew has it. Radak's wider reading (what the servant said as well) is recorded in the commentary.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi: the servant told Isaac the miracles done for him: the earth shrank before him, and Rebekah was brought to meet him in answer to his prayer (Bereshit Rabbah).
+- Radak (records): Radak: 'all the matters' covers what he said and what he did and how the business came about; he told it all on the way until they reached the city.
 
 #### Genesis 24:67
 
 > וַיְבִאֶ֣הָ יִצְחָ֗ק הָאֹ֙הֱלָה֙ שָׂרָ֣ה אִמּ֔וֹ וַיִּקַּ֧ח אֶת־רִבְקָ֛ה וַתְּהִי־ל֥וֹ לְאִשָּׁ֖ה וַיֶּאֱהָבֶ֑הָ וַיִּנָּחֵ֥ם יִצְחָ֖ק אַחֲרֵ֥י אִמּֽוֹ׃
 
-_Not yet translated._
+**Isaac brought her into the tent of Sarah his mother. He took Rebekah, and she became his wife, and he loved her. Isaac was comforted after his mother.**
+
+Literal: and-brought-her Isaac the-tent-ward Sarah his-mother and-took [acc] Rebekah and-she-became to-him for-wife and-he-loved-her and-was-comforted Isaac after his-mother
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְבִאֶ֣הָ | and brought her — hifil wayyiqtol, 3rd person masculine singular, with the 3rd person feminine singular suffix as object. | ו: and + בּוֹא | בוא | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, feminine, singular) | Hiph 1 |
+| יִצְחָ֗ק | Isaac | יִצְחָק | צחק | noun (proper name) |  |
+| הָאֹ֙הֱלָה֙ | into the tent — the directional he on the noun gives motion 'into'. The English 'of' before Sarah follows Ibn Ezra's reading of the elided construct. | ה: the + אֹ֫הֶל | אהל | particle (definite article) + noun (common, masculine, singular, absolute) + suffix (directional he) | 1 |
+| שָׂרָ֣ה | Sarah | שָׂרָה |  | noun (proper name) |  |
+| אִמּ֔וֹ | his mother | אֵם | אמם | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וַיִּקַּ֧ח | and he took — taking a wife: the lexicon's sense 'take'. | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אֶת | - — object marker. | אֵת | אות | particle (direct object marker) |  |
+| רִבְקָ֛ה | Rebekah | רִבְקָה |  | noun (proper name) |  |
+| וַתְּהִי | and she became — wayyiqtol of hayah with the lamed of the person: 'became to him' (as a wife). | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal II.2.d |
+| ל֥וֹ | his | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| לְאִשָּׁ֖ה | wife | ל: to, for + אִשָּׁה | אנשׁ | preposition + noun (common, feminine, singular, absolute) | 2 |
+| וַיֶּאֱהָבֶ֑הָ | and he loved her — the suffix is the object. | ו: and + אָהֵב | אהב | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, feminine, singular) | Qal 1 |
+| וַיִּנָּחֵ֥ם | and he was comforted — niphal wayyiqtol: 'was comforted'. | ו: and + נָחַם | נחם | conjunction + verb (nifal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Niph 3 |
+| יִצְחָ֖ק | Isaac | יִצְחָק | צחק | noun (proper name) |  |
+| אַחֲרֵ֥י | after | אַחַר | אחר | preposition | 2.b |
+| אִמּֽוֹ׃ | his mother | אֵם | אמם | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+
+Grammar:
+
+- וַיְבִאֶהָ is a hifil wayyiqtol with the feminine suffix as object: 'brought her'.
+- הָאֹהֱלָה שָׂרָה אִמּוֹ has no verb or preposition of its own; the directional he and the construct give 'into the tent of Sarah his mother' on Ibn Ezra's elided reading.
+- וַיִּנָּחֵם is a niphal wayyiqtol, 'was comforted', from נָחַם; the sentence has a chain of wayyiqtol verbs.
+- The etnaḥta on וַיֶּאֱהָבֶהָ divides the verse; the verse ends a section of the text (the paragraph mark after it).
+
+Note: 'Of Sarah' follows Ibn Ezra's reading of the words as an elided construct (the tent [of] Sarah his mother); Rashi's reading, that Rebekah became like Sarah his mother, is recorded. 'After his mother' keeps the Hebrew; Onkelos' 'after the death of his mother' and Rashi's reading of the custom are recorded.
+
+Commentary:
+
+- Rashi (records): Rashi: Isaac brought her into the tent, and she became the likeness of Sarah his mother, as if to say, here she was Sarah his mother; for as long as Sarah lived a lamp burned from Sabbath eve to Sabbath eve, there was a blessing in the dough and a cloud tied over the tent; these ceased at her death and returned when Rebekah came (Bereshit Rabbah).
+- Rashi (records): Rashi: it is the custom of the land that while a man's mother lives he clings to her, and after her death he is comforted by his wife.
+- Ibn Ezra (follows): Ibn Ezra: a short way of speaking, 'the tent (of) Sarah his mother'; he cites the same ellipsis in 'the prophecy, Oded the prophet' (2 Chronicles 15:8) and 'your throne, God' (Psalm 45:7).
+- Ramban (follows): Ramban: the construct is elided, 'the tent (of) Sarah his mother'; since Sarah died they did not pitch her tent, and Isaac brought Rebekah into it as a mark of honour to his mother.
+- Radak (not-applicable): Radak: 'and he loved her' means a greater love, because he saw in her good qualities and modesty like his mother's; most men love their wives.
+- Targum Onkelos (records): Onkelos: Isaac was comforted after the death of his mother (batar demitat immeh).
 
 #### Genesis 25:1
 
 > וַיֹּ֧סֶף אַבְרָהָ֛ם וַיִּקַּ֥ח אִשָּׁ֖ה וּשְׁמָ֥הּ קְטוּרָֽה׃
 
-_Not yet translated._
+**And Abraham again took a wife, and her name was Keturah.**
+
+Literal: and-added Abraham and-took wife and-her-name Keturah
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיֹּ֧סֶף | again — hifil of yasaph used adverbially, 'add again'; the wayyiqtol that follows gives the action. | ו: and + יָסַף | יסף | conjunction + verb (hifil, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Hiph 2.a |
+| אַבְרָהָ֛ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| וַיִּקַּ֥ח | took | ו: and + לָקַח | לקח | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אִשָּׁ֖ה | a wife — the word means woman or wife; 'wife' here, with the indefinite article English requires. | אִשָּׁה | אנשׁ | noun (common, feminine, singular, absolute) | 2 |
+| וּשְׁמָ֥הּ | and her name — construct of shem with the 3rd person feminine singular suffix: 'her name'. | ו: and + שֵׁם |  | conjunction + noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, feminine, singular) | 2.a |
+| קְטוּרָֽה׃ | Keturah | קְטוּרָה |  | noun (proper name) |  |
+
+Grammar:
+
+- וַיֹּסֶף is the hifil of יָסַף used adverbially: 'again', and the next wayyiqtol, 'took', gives the action.
+- וּשְׁמָהּ קְטוּרָה is a verbless clause, 'and her name Keturah'; the copula 'was' is English.
+- The merkha on וַיִּקַּח and the tipḥa on אִשָּׁה divide the clause; the silluq on קְטוּרָה ends the verse.
+
+Note: Keturah is named as a wife, and the English does not identify her with Hagar: Ibn Ezra's ruling (normative) is followed. Rashi and Radak identify her with Hagar; both are recorded.
+
+Commentary:
+
+- Rashi (records): Rashi: Keturah is Hagar, so called because her deeds were fragrant like incense, and because she tied up her opening and did not couple with a man from the day she parted from Abraham.
+- Ibn Ezra (follows): Ibn Ezra: Keturah is not Hagar. Verse 6 speaks of 'the sons of the concubines'; he takes pilegesh as a handmaid, a word that does not apply to a man, and so reads 'concubines' as women.
+- Radak (records): Radak: the sages say Keturah is Hagar and that Abraham had only one concubine, deriving this from the missing yod in 'the concubines' of verse 6; Radak found the yod in all accurate copies.
 
 #### Genesis 25:2
 
 > וַתֵּ֣לֶד ל֗וֹ אֶת־זִמְרָן֙ וְאֶת־יׇקְשָׁ֔ן וְאֶת־מְדָ֖ן וְאֶת־מִדְיָ֑ן וְאֶת־יִשְׁבָּ֖ק וְאֶת־שֽׁוּחַ׃
 
-_Not yet translated._
+**She bore him Zimran, Jokshan, Medan, Midian, Ishbak and Shuah.**
+
+Literal: and-she-bore to-him [acc] Zimran and-[acc] Jokshan and-[acc] Medan and-[acc] Midian and-[acc] Ishbak and-[acc] Shuah
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַתֵּ֣לֶד | and she bore — wayyiqtol, 3rd person feminine singular: the subject is Keturah (25:1). Yalad is 'bear, bring forth'. | ו: and + יָלַד | ילד | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, feminine, singular) | Qal 1 |
+| ל֗וֹ | him | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| אֶת | - — object marker. | אֵת | אות | particle (direct object marker) |  |
+| זִמְרָן֙ | Zimran | זִמְרָן |  | noun (proper name) |  |
+| וְאֶת | and | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| יׇקְשָׁ֔ן | Jokshan | יׇקְשָׁן |  | noun (proper name) |  |
+| וְאֶת | and | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| מְדָ֖ן | Medan | מְדָן |  | noun (proper name) |  |
+| וְאֶת | and | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| מִדְיָ֑ן | Midian — son of Abraham and Keturah. | מִדְיָן |  | noun (proper name) | 1 |
+| וְאֶת | and | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| יִשְׁבָּ֖ק | Ishbak | יִשְׁבָּק | שׁבק | noun (proper name) |  |
+| וְאֶת | and | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| שֽׁוּחַ׃ | Shuah | שׁוּחַ |  | noun (proper name) |  |
+
+Grammar:
+
+- וַתֵּלֶד is a wayyiqtol with the feminine subject of 25:1 and the dative לוֹ: 'she bore him'.
+- Each name is marked with the object marker, with the conjunction in front, so the six names are the objects of one verb.
+- The etnaḥta on מִדְיָן divides the list; the tipḥa on יִשְׁבָּק and the silluq on שׁוּחַ close it.
+
+Note: The verb is rendered 'bore' as the lexicon's sense 'bear, bring forth'. Sforno reads it as 'reared' and that is recorded. The names are kept as names.
+
+Commentary:
+
+- Sforno (records): Sforno: 'she bore' means she reared them in her house, as with the five sons of Michal who were not her own (2 Samuel 21:8); Abraham fathered only Isaac and Ishmael, as Chronicles shows.
+
+Ancient Near East:
+
+- The names in 25:2–4 are read in the commentaries as persons, as peoples, or as both; the English keeps them as names, and the commentators differ on their meanings (see 25:3).
 
 #### Genesis 25:3
 
 > וְיׇקְשָׁ֣ן יָלַ֔ד אֶת־שְׁבָ֖א וְאֶת־דְּדָ֑ן וּבְנֵ֣י דְדָ֔ן הָי֛וּ אַשּׁוּרִ֥ם וּלְטוּשִׁ֖ם וּלְאֻמִּֽים׃
 
-_Not yet translated._
+**And Jokshan begot Sheba and Dedan, and the sons of Dedan were Asshurim, Letushim and Leummim.**
+
+Literal: and-Jokshan begot [acc] Sheba and-[acc] Dedan and-sons-of Dedan were Asshurim and-Letushim and-Leummim
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְיׇקְשָׁ֣ן | and Jokshan | ו: and + יׇקְשָׁן |  | conjunction + noun (proper name) |  |
+| יָלַ֔ד | begot — qatal (perfect), 3rd person masculine singular, with the father as subject: 'beget'. | יָלַד | ילד | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+| אֶת | - — object marker. | אֵת | אות | particle (direct object marker) |  |
+| שְׁבָ֖א | Sheba | שְׁבָא |  | noun (proper name) |  |
+| וְאֶת | and | ו: and + אֵת | אות | conjunction + particle (direct object marker) |  |
+| דְּדָ֑ן | Dedan — as son of Jokshan, a sense the lexicon gives. | דְּדָן |  | noun (proper name) | 2 |
+| וּבְנֵ֣י | and the sons of | ו: and + בֵּן |  | conjunction + noun (common, masculine, plural, construct) | 1 |
+| דְדָ֔ן | Dedan — as father of the names that follow, the lexicon's sense 2. | דְּדָן |  | noun (proper name) | 2 |
+| הָי֛וּ | were — copula, 3rd person common plural: it links the sons of Dedan to the names that follow. | הָיָה | היה | verb (qal, perfect (qatal), 3rd person, common, plural) | Qal III.4 |
+| אַשּׁוּרִ֥ם | Asshurim | אַשּׁוּרִם |  | noun (proper name) |  |
+| וּלְטוּשִׁ֖ם | and Letushim | ו: and + לְטוּשִׁם |  | conjunction + noun (proper name) |  |
+| וּלְאֻמִּֽים׃ | and Leummim | ו: and + לְאֻמִּ֑ים |  | conjunction + noun (proper name) |  |
+
+Grammar:
+
+- וְיָקְשָׁן יָלַד is a qatal with Jokshan as subject, 'Jokshan begot'; the verb is the father's act, as in 25:2.
+- The etnaḥta on דְּדָן divides the verse: the sons of Jokshan first, then the sons of Dedan.
+- הָיוּ is the copula with a plural subject, 'were', joining the sons of Dedan to the three names.
+- The three names end in the plural -im; the form is kept as the text gives it.
+
+Note: Asshurim, Letushim and Leummim are transliterated as names, following Ibn Ezra's ruling (normative). The reading of them as heads of nations, as caravan-men or as tent-dwellers is recorded in the commentary. The apparatus records the one spelling difference.
+
+Commentary:
+
+- Rashi (records): Rashi: they are names of the heads of nations (Bereshit Rabbah). He cannot reconcile Onkelos' rendering (mashiryan, 'camp') with the wording of the text; and if one objects that the aleph of Asshurim is not a root letter, he answers that other words gain an aleph (as in 'a wall of anakh', 'asukh of oil').
+- Ibn Ezra (follows): Ibn Ezra: some say Asshurim were men who knew the roads and Letushim were watchers from afar; he holds that they are names with no adjectival sense, and that is the correct view.
+- Ramban (records): Ramban: Onkelos took Asshurim as travelling caravans and Letushim as people who dwell in tents, reading the words as common nouns rather than names.
+- Radak (records): Radak: these are three sons; he does not know why the names take the plural ending, and by Onkelos' rendering they are not names at all.
+
+Ancient Near East:
+
+- Sheba and Dedan appear also in the genealogy of chapter 10 (10:7, where both are sons of Raamah, and 10:28, where Sheba is a son of Joktan). The text does not explain why the same names stand in different lines; the lists name peoples and places as ancestors.
+
+Apparatus:
+
+- 25:3.11 spelling: WLC reads וּלְטוּשִׁים; the base text reads וּלְטוּשִׁם.
+- וּלְטוּשִׁ֖ם: WLC reads וּלְטוּשִׁ֖ים (spelling)
 
 #### Genesis 25:4
 
 > וּבְנֵ֣י מִדְיָ֗ן עֵיפָ֤ה וָעֵ֙פֶר֙ וַחֲנֹ֔ךְ וַאֲבִידָ֖ע וְאֶלְדָּעָ֑ה כׇּל־אֵ֖לֶּה בְּנֵ֥י קְטוּרָֽה׃
 
-_Not yet translated._
+**The sons of Midian were Ephah, Epher, Hanoch, Abida and Eldaah; all these were sons of Keturah.**
+
+Literal: and-sons-of Midian Ephah and-Epher and-Hanoch and-Abida and-Eldaah all these sons-of Keturah
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וּבְנֵ֣י | and the sons of | ו: and + בֵּן |  | conjunction + noun (common, masculine, plural, construct) | 1 |
+| מִדְיָ֗ן | Midian — son of Abraham and Keturah. | מִדְיָן |  | noun (proper name) | 1 |
+| עֵיפָ֤ה | Ephah — as son of Midian. | עֵיפָה |  | noun (proper name) | 1 |
+| וָעֵ֙פֶר֙ | and Epher — as son of Midian. | ו: and + עֵ֫פֶר |  | conjunction + noun (proper name) | 1 |
+| וַחֲנֹ֔ךְ | and Hanoch — as a son of Midian. | ו: and + חֲנוֹךְ |  | conjunction + noun (proper name) | 3 |
+| וַאֲבִידָ֖ע | and Abida | ו: and + אֲבִידָע |  | conjunction + noun (proper name) |  |
+| וְאֶלְדָּעָ֑ה | and Eldaah | ו: and + אֶלְדָּעָה |  | conjunction + noun (proper name) |  |
+| כׇּל | all — limited by the context to the names just given. | כֹּל | כלל | noun (common, masculine, singular, construct) | 2.b.(a) |
+| אֵ֖לֶּה | these | אֵ֫לֶּה | אלה | pronoun (demonstrative, common, plural) | b |
+| בְּנֵ֥י | sons of | בֵּן |  | noun (common, masculine, plural, construct) | 1 |
+| קְטוּרָֽה׃ | Keturah | קְטוּרָה |  | noun (proper name) |  |
+
+Grammar:
+
+- The sentence has no verb: 'the sons of Midian (were) Ephah...' and the closing clause is verbless; the English supplies 'were'.
+- The list is joined by the conjunction and closed by the summary כׇּל־אֵלֶּה, 'all these'.
+- The etnaḥta on וְאֶלְדָּעָה closes the list; the silluq on קְטוּרָה closes the verse.
+
+Note: The names are transliterated as they are in 25:3; Ephah and Epher are the lexicon's sons of Midian.
 
 #### Genesis 25:5
 
 > וַיִּתֵּ֧ן אַבְרָהָ֛ם אֶת־כׇּל־אֲשֶׁר־ל֖וֹ לְיִצְחָֽק׃
 
-_Not yet translated._
+**And Abraham gave Isaac all that was his.**
+
+Literal: and-gave Abraham [acc] all that-to-him to-Isaac
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּתֵּ֧ן | and gave | ו: and + נָתַן | נתן | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אַבְרָהָ֛ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| אֶת | - — object marker. | אֵת | אות | particle (direct object marker) |  |
+| כׇּל | all | כֹּל | כלל | noun (common, masculine, singular, construct) | 2.a |
+| אֲשֶׁר | that | אֲשֶׁר | אשׁר | particle (relative) |  |
+| ל֖וֹ | is his — lamed with the suffix: the possession 'to him'; 'is' is the English copula. | ל: to, for |  | preposition + suffix (pronominal, 3rd person, masculine, singular) |  |
+| לְיִצְחָֽק׃ | to Isaac — the recipient, placed last in the Hebrew. | ל: to, for + יִצְחָק | צחק | preposition + noun (proper name) |  |
+
+Grammar:
+
+- וַיִּתֵּן is the qal wayyiqtol of נָתַן, 'gave', with Abraham as subject.
+- The object is כׇּל־אֲשֶׁר־לוֹ, 'all that is his', with the object marker before כׇּל; the recipient לְיִצְחָק comes last.
+- The darga on וַיִּתֵּן and the silluq on לְיִצְחָק make a single clause.
+
+Note: 'All that is his' keeps the Hebrew without an explanation. Rashi's and Radak's accounts of the giving (a blessing handed on, a division of property during his life) are recorded in the commentary.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi, citing R. Nehemiah: the blessing is a diatiki (a testamentary deed). God told Abraham to be a blessing, the blessings were handed to him to give to whom he chose, and he gave them to Isaac.
+- Radak (not-applicable): Radak: he divided his property during his life so there would be no dispute over the inheritance, and made Isaac heir, as God had told him that his seed would be called through Isaac.
 
 #### Genesis 25:6
 
 > וְלִבְנֵ֤י הַפִּֽילַגְשִׁים֙ אֲשֶׁ֣ר לְאַבְרָהָ֔ם נָתַ֥ן אַבְרָהָ֖ם מַתָּנֹ֑ת וַֽיְשַׁלְּחֵ֞ם מֵעַ֨ל יִצְחָ֤ק בְּנוֹ֙ בְּעוֹדֶ֣נּוּ חַ֔י קֵ֖דְמָה אֶל־אֶ֥רֶץ קֶֽדֶם׃
 
-_Not yet translated._
+**To the sons of the concubines who were Abraham's, Abraham gave gifts, and he sent them away from Isaac his son while he was still alive, eastward to the land of the east.**
+
+Literal: and-to-sons-of the-concubines which to-Abraham gave Abraham gifts and-sent-them from-upon Isaac his-son in-still-him alive eastward to land-of east
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְלִבְנֵ֤י | and to the sons of | ו: and + ל: to, for + בֵּן |  | conjunction + preposition + noun (common, masculine, plural, construct) | 1 |
+| הַפִּֽילַגְשִׁים֙ | the concubines — plural of פִּלֶגֶשׁ with the article; a secondary wife (see context) | ה: the + פִּלֶ֫גֶשׁ |  | particle (definite article) + noun (common, feminine, plural, absolute) | 1 |
+| אֲשֶׁ֣ר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| לְאַבְרָהָ֔ם | to Abraham | ל: to, for + אַבְרָהָם | אבה | preposition + noun (proper name) |  |
+| נָתַ֥ן | gave | נָתַן | נתן | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| אַבְרָהָ֖ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| מַתָּנֹ֑ת | gifts | מַתָּנָה | נתן | noun (common, feminine, plural, absolute) |  |
+| וַֽיְשַׁלְּחֵ֞ם | and sent them away — wayyiqtol (sequential imperfect) of the Piel, third masculine singular, with the object suffix -ם 'them' | ו: and + שָׁלַח | שׁלח | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) + suffix (pronominal, 3rd person, masculine, plural) | Pi 2.a |
+| מֵעַ֨ל | from | מ: from, than + עַל | עלה | preposition + preposition | IV.2 |
+| יִצְחָ֤ק | Isaac | יִצְחָק | צחק | noun (proper name) |  |
+| בְּנוֹ֙ | his son | בֵּן |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| בְּעוֹדֶ֣נּוּ | while he was still — בְּ + עוֹד + suffix נּוּ: 'in his still', a temporal clause with no verb | ב: in, with, by + עוֹד | עוד | preposition + adverb + suffix (pronominal, 3rd person, masculine, singular) |  |
+| חַ֔י | alive | חַי | חיה | adjective (adjective, masculine, singular, absolute) | 1.b |
+| קֵ֖דְמָה | eastward | קֵ֫דֶם | קדם | noun (common, masculine, singular, absolute) + suffix (directional he) |  |
+| אֶל | to | אֶל |  | preposition | 9 |
+| אֶ֥רֶץ | land of | אֶ֫רֶץ | ארץ | noun (common, both genders, singular, construct) | 2.a |
+| קֶֽדֶם׃ | the east | קֶ֫דֶם | קדם | noun (common, masculine, singular, absolute) | 1.b |
+
+Grammar:
+
+- The etnaḥta on מַתָּנֹת (25:6.7) closes the first clause: the gifts are set off from the sending that follows.
+- וַיְשַׁלְּחֵם is a wayyiqtol of the Piel continuing the narrative after נָתַן; the suffix -ם is 'them', and 'away' comes from the Piel.
+- The relative clause אֲשֶׁר לְאַבְרָהָם has no verb; the English adds the copula 'were'.
+- בְּעוֹדֶנּוּ חַי is a temporal clause with no verb: 'in his still alive'. English supplies 'was'.
+- קֵדְמָה is an adverb with the directional ה, and אֶל אֶרֶץ קֶדֶם repeats the direction in a noun phrase.
+
+Note: The English takes מַתָּנוֹת as 'gifts', the general sense of the lexicon; Ibn Ezra's 'money' is recorded in the commentary, since the Hebrew names no kind. 'Eastward to the land of the east' follows Ibn Ezra.
+
+Commentary:
+
+- Rashi (declines): Rashi takes the plural הַפִּילַגְשִׁים as written defectively (חָסֵר כְּתִיב), so that only one concubine, Hagar who is Keturah, is meant. The English keeps the plural: the verse names several sons, and this is a reading of the spelling, not the plain sense.
+- Rashi (not-applicable): Rashi, citing the Sages, says Abraham handed them 'a name of impurity' (שֵׁם טֻמְאָה) and gave them all that had been given him on account of Sarah, so as not to benefit from them. A homily, not the plain sense.
+- Ibn Ezra (records): Ibn Ezra glosses מַתָּנוֹת as money (ממון) that he gave them. The Hebrew names no kind of gift, so the English keeps 'gifts' and his reading is recorded here.
+- Ibn Ezra (follows): Ibn Ezra says קֵדְמָה means 'to the land of the east' (אֶל אֶרֶץ קֶדֶם), the same word said twice, as in 'which will not serve him, Nebuchadnezzar' (Jeremiah 27:8), where the object is also doubled. Qedem is the east of the land of Israel. He notes a view that it means the place of the son of Ishmael, and holds the first reading correct. The English 'eastward to the land of the east' follows him.
+- Ramban (follows): Ramban says that on the plain sense all Abraham's wives were concubines to him, not counted as wives, because it was said 'in Isaac shall your seed be called' and their seed was not among his heirs. Hagar, Sarah's maidservant, was his concubine; Keturah he took as a wife, yet is called a concubine (1 Chronicles 1:32) for the same reason. He rejects Rashi's account that a concubine is one without a marriage contract.
+- Radak (records): Radak takes the concubines as servants of Abraham's household whose sons were born in his house. He holds that Abraham gave gifts also to Ishmael and the sons of Keturah, though the verse does not name them.
+- Radak (records): Radak says Abraham sent them eastward, and then names the land: eretz qedem is Haran and Ur of the Chaldeans, the districts commonly called the land of Qedem and the land of the sons of Qedem. It was the land of Abraham's family, so he sent them to live there. The English keeps 'the land of the east' and records this identification.
+- Sforno (follows): Sforno says the verb 'gave' is used here not in the language of inheritance at all, so that his words would stand. The English 'gave gifts' is consistent with this.
+
+Ancient Near East:
+
+- A pilegesh is a secondary partner, not the principal wife. The commentators differ on who these women were: Rashi takes them as one concubine, Hagar; Radak as servants of the household; Ramban as women not counted as wives because their sons did not inherit. The English keeps 'concubines' and leaves the status open.
+- Eretz qedem, 'the land of the east', is the region east of the land (Ibn Ezra). Radak names Haran and Ur of the Chaldeans. The text names no place, and Ibn Ezra records a view that it means a place of a son of Ishmael.
+
+Apparatus:
+
+- The identity of the concubines is open: the commentators differ (see context).
 
 #### Genesis 25:7
 
 > וְאֵ֗לֶּה יְמֵ֛י שְׁנֵֽי־חַיֵּ֥י אַבְרָהָ֖ם אֲשֶׁר־חָ֑י מְאַ֥ת שָׁנָ֛ה וְשִׁבְעִ֥ים שָׁנָ֖ה וְחָמֵ֥שׁ שָׁנִֽים׃
 
-_Not yet translated._
+**These are the days of the years of the life of Abraham which he lived: a hundred and seventy-five years.**
+
+Literal: and-these days-of years-of lives-of Abraham which lived hundred year and-seventy year and-five years
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאֵ֗לֶּה | and these are | ו: and + אֵ֫לֶּה | אלה | conjunction + pronoun (demonstrative, common, plural) | b |
+| יְמֵ֛י | the days of | יוֹם |  | noun (common, masculine, plural, construct) | 4 |
+| שְׁנֵֽי | the years of — שְׁנֵי is the plural construct of שָׁנָה 'year' ('years of'); it looks like the construct of 'two' (שְׁנֵי), but here the noun is meant. The parse as a cardinal number is a mislabel. | שָׁנָה | שׁנה | adjective (cardinal number, masculine, dual, construct) |  |
+| חַיֵּ֥י | the life of | חַיִּים | חיה | noun (common, masculine, plural, construct) | 1 |
+| אַבְרָהָ֖ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| אֲשֶׁר | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| חָ֑י | he lived — qatal, third masculine singular; the verb has no object | חָיַי | חיה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+| מְאַ֥ת | a hundred — the hundred is a part of the larger number 175 | מֵאָה | מאה | adjective (cardinal number, feminine, singular, construct) | 2 |
+| שָׁנָ֛ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וְשִׁבְעִ֥ים | and seventy | ו: and + שִׁבְעִים | שׁבע | conjunction + adjective (cardinal number, both genders, plural, absolute) |  |
+| שָׁנָ֖ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וְחָמֵ֥שׁ | and five | ו: and + חָמֵשׁ | חמשׁ | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| שָׁנִֽים׃ | years | שָׁנָה | שׁנה | noun (common, feminine, plural, absolute) |  |
+
+Grammar:
+
+- וְאֵלֶּה opens a verbless clause, 'these are the days', with the demonstrative as subject.
+- The number is built by addition: מְאַת שָׁנָה, וְשִׁבְעִים שָׁנָה, וְחָמֵשׁ שָׁנִים. English combines them into one number.
+- The relative clause אֲשֶׁר־חָי has a perfect verb with no object, so 'which he lived' ends the clause before the number.
+
+Note: The English reads the three numbers as one sum, a hundred and seventy-five, which is what the Hebrew adds up to.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi says that at a hundred he was as at seventy, and at seventy as at five, without sin.
+- Radak (not-applicable): Radak says חָי is a past verb whose root is ḥ-y-y or ḥ-y-h. A note on the root; the English 'lived' is the same either way.
 
 #### Genesis 25:8
 
 > וַיִּגְוַ֨ע וַיָּ֧מׇת אַבְרָהָ֛ם בְּשֵׂיבָ֥ה טוֹבָ֖ה זָקֵ֣ן וְשָׂבֵ֑עַ וַיֵּאָ֖סֶף אֶל־עַמָּֽיו׃
 
-_Not yet translated._
+**Abraham expired and died at a good old age, old and satisfied, and was gathered to his people.**
+
+Literal: and-expired and-died Abraham in-old-age good old and-satisfied and-was-gathered to his-people
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּגְוַ֨ע | and expired — wayyiqtol of גָּוַע; Ibn Ezra reads it as a quick death, see commentary | ו: and + גָּוַע | גוע | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) |  |
+| וַיָּ֧מׇת | and died — wayyiqtol of מוּת | ו: and + מוּת | מות | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| אַבְרָהָ֛ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| בְּשֵׂיבָ֥ה | in old age | ב: in, with, by + שֵׂיבָה | שׂיב | preposition + noun (common, feminine, singular, absolute) |  |
+| טוֹבָ֖ה | good | טוֹב | טוב | adjective (adjective, feminine, singular, absolute) | 3 |
+| זָקֵ֣ן | old | זָקֵן | זקן | adjective (adjective, masculine, singular, absolute) | 1 |
+| וְשָׂבֵ֑עַ | and satisfied | ו: and + שָׂבֵעַ | שׂבע | conjunction + adjective (adjective, masculine, singular, absolute) |  |
+| וַיֵּאָ֖סֶף | and was gathered — wayyiqtol of the Niphal; the idiom is kept plain | ו: and + אָסַף | אסף | conjunction + verb (nifal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Niph 1 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| עַמָּֽיו׃ | his people | עַם |  | noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+
+Grammar:
+
+- Two wayyiqtol verbs open the verse, and the subject follows them: 'expired and died Abraham'.
+- The verse has two adjectives, זָקֵן and שָׂבֵעַ, describing Abraham at his death, joined by ו.
+- The verse ends with the Niphal וַיֵּאָסֶף and the plural עַמָּיו, the idiom of being gathered to one's kin.
+
+Note: The English keeps the two verbs apart as Ibn Ezra does: 'expired' for גָּוַע, 'died' for מוּת. Whether the death was quick is not in the English.
+
+Commentary:
+
+- Ibn Ezra (follows): Ibn Ezra says גָּוַע is the departure of the spirit from the body in one moment, without suffering or delay; every גְּוִיעָה is a death, but not every death is a גְּוִיעָה. The English keeps the two verbs apart: 'expired and died'.
+- Ibn Ezra (follows): Ibn Ezra says וַיָּמׇת means that he died 'in a good old age' (שֶׁמֵּת בְּשֵׂיבָה טוֹבָה). The English 'died at a good old age' takes the phrase so.
+- Ibn Ezra (records): Ibn Ezra gives two readings of וַיֵּאָסֶף אֶל עַמָּיו. Some say it speaks of the honour (kavod) of the soul: while it is occupied with the body it is as a separate part, and when it is parted from the body the honour is gathered to its people. Others say it is the usage of the language, and the sense is that he went the way of his fathers, as if joined to them, as in 'and you shall come to your fathers in peace' (15:15). The English keeps the idiom plain and records both.
+- Ramban (records): Ramban says זָקֵן וְשָׂבֵעַ means that he saw all the desires of his heart and was sated of all good, as he says of David's death. This reading is recorded; the English 'satisfied' does not exclude it.
+- Radak (records): Radak says 'gathered to his people' means gathered to the members of his family who had died before him, and that the phrase is used of fathers, righteous or wicked.
+- Sforno (records): Sforno says 'satisfied' means satisfied with all that he desired to see and do in his days.
+
+Ancient Near East:
+
+- 'Gathered to his people' is said also of Ishmael (25:17), Isaac (35:29) and Jacob (49:33). It is not burial: Abraham's burial comes next, in 25:9, in a cave far from the graves of his fathers. The commentators differ on what it says. Ibn Ezra gives two readings: the honour of the soul, which is gathered to its own once it is parted from the body; or an idiom meaning that he went the way of his fathers, as if joining them (compare 15:15). Radak takes it as joining the members of his family who had died before him. Sforno takes it as joining the righteous in the life of the world to come. What the idiom implied about the dead in the patriarchal period is disputed; the English keeps the idiom and states none of these.
+
+Apparatus:
+
+- 'Gathered to his people' is kept as the Hebrew idiom; its meaning is given in the commentary.
 
 #### Genesis 25:9
 
 > וַיִּקְבְּר֨וּ אֹת֜וֹ יִצְחָ֤ק וְיִשְׁמָעֵאל֙ בָּנָ֔יו אֶל־מְעָרַ֖ת הַמַּכְפֵּלָ֑ה אֶל־שְׂדֵ֞ה עֶפְרֹ֤ן בֶּן־צֹ֙חַר֙ הַֽחִתִּ֔י אֲשֶׁ֖ר עַל־פְּנֵ֥י מַמְרֵֽא׃
 
-_Not yet translated._
+**Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron son of Zohar the Hittite, which is before Mamre.**
+
+Literal: and-buried-him Isaac and-Ishmael his-sons to cave-of the-Machpelah to field-of Ephron son-of Zohar the-Hittite which upon-face-of Mamre
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּקְבְּר֨וּ | and buried — wayyiqtol, third masculine plural; the subject is the two sons | ו: and + קָבַר | קבר | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal |
+| אֹת֜וֹ | him — the object marker אֵת with the suffix; English has no separate word for the marker | אֵת | אות | particle (direct object marker) + suffix (pronominal, 3rd person, masculine, singular) |  |
+| יִצְחָ֤ק | Isaac | יִצְחָק | צחק | noun (proper name) |  |
+| וְיִשְׁמָעֵאל֙ | and Ishmael | ו: and + יִשְׁמָעֵאל |  | conjunction + noun (proper name) | 1 |
+| בָּנָ֔יו | his sons | בֵּן |  | noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| אֶל | in | אֶל |  | preposition | 2 |
+| מְעָרַ֖ת | the cave of — construct chain מְעָרַת הַמַּכְפֵּלָה, 'the cave of the Machpelah' | מְעָרָה | ערר | noun (common, feminine, singular, construct) |  |
+| הַמַּכְפֵּלָ֑ה | Machpelah | ה: the + מַכְפֵּלָה | כפל | particle (definite article) + noun (proper name) |  |
+| אֶל | in | אֶל |  | preposition | 2 |
+| שְׂדֵ֞ה | the field of | שָׂדֶה | שׂדה | noun (common, masculine, singular, construct) | 1 |
+| עֶפְרֹ֤ן | Ephron | עֶפְרוֹן |  | noun (proper name) | 1 |
+| בֶּן | son of | בֵּן |  | noun (common, masculine, singular, construct) | 1 |
+| צֹ֙חַר֙ | Zohar | צֹ֫חַר |  | noun (proper name) | 1 |
+| הַֽחִתִּ֔י | the Hittite | ה: the + חִתִּי |  | particle (definite article) + noun (gentilic, masculine, singular, absolute) |  |
+| אֲשֶׁ֖ר | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| עַל | is before | עַל | עלה | preposition |  |
+| פְּנֵ֥י | face of | פָּנֶה | פנה | noun (common, both genders, plural, construct) | I.1 |
+| מַמְרֵֽא׃ | Mamre | מַמְרֵא |  | noun (proper name) |  |
+
+Grammar:
+
+- The verb וַיִּקְבְּרוּ is third masculine plural with two subjects, Isaac and Ishmael, so the English names both before the verb's object.
+- The cave is named in a construct chain: מְעָרַת הַמַּכְפֵּלָה, 'the cave of the Machpelah'.
+- The relative clause אֲשֶׁר עַל־פְּנֵי מַמְרֵא describes the field: 'which is before Mamre'.
+
+Note: The Hebrew אֶל is 'to'; the English 'in' follows Radak's reading of the cave as in the field.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi says that from this we learn that Ishmael repented and let Isaac go before him, and that this is the 'good old age' said of Abraham.
+- Ramban (not-applicable): Ramban says the son of the maidservant gives honour to the son of the mistress, as the Midrash has it. A homily on the order of the sons.
+- Radak (follows): Radak says 'to the cave' (אֶל מְעָרַת) means 'in the cave in the field' (כְּלוֹמַר בִּמְעָרַת בַּשָּׂדֶה). The English 'in the cave' and 'in the field' follows him.
 
 #### Genesis 25:10
 
 > הַשָּׂדֶ֛ה אֲשֶׁר־קָנָ֥ה אַבְרָהָ֖ם מֵאֵ֣ת בְּנֵי־חֵ֑ת שָׁ֛מָּה קֻבַּ֥ר אַבְרָהָ֖ם וְשָׂרָ֥ה אִשְׁתּֽוֹ׃
 
-_Not yet translated._
+**The field that Abraham bought from the Hittites; there Abraham was buried, and Sarah his wife.**
+
+Literal: the-field which bought Abraham from sons-of Heth there was-buried Abraham and-Sarah his-wife
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| הַשָּׂדֶ֛ה | the field | ה: the + שָׂדֶה | שׂדה | particle (definite article) + noun (common, masculine, singular, absolute) | 1 |
+| אֲשֶׁר | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| קָנָ֥ה | bought | קָנָה | קנה | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 2 |
+| אַבְרָהָ֖ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| מֵאֵ֣ת | from | מ: from, than + אֵת |  | preposition + preposition | 4 |
+| בְּנֵי | the Hittites — בְּנֵי־חֵת, 'sons of Heth', rendered 'the Hittites' as the decisions require; the literal line keeps 'sons-of Heth' | בֵּן |  | noun (common, masculine, plural, construct) | 1 |
+| חֵ֑ת | Heth | חֵת |  | noun (proper name) |  |
+| שָׁ֛מָּה | there | שָׁם |  | adverb + suffix (directional he) |  |
+| קֻבַּ֥ר | was buried | קָבַר | קבר | verb (pual, perfect (qatal), 3rd person, masculine, singular) | Pu |
+| אַבְרָהָ֖ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| וְשָׂרָ֥ה | and Sarah | ו: and + שָׂרָה |  | conjunction + noun (proper name) |  |
+| אִשְׁתּֽוֹ׃ | his wife | אִשָּׁה | אנשׁ | noun (common, feminine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 2 |
+
+Grammar:
+
+- The relative clause אֲשֶׁר קָנָה has a perfect verb and no object: 'which Abraham bought'.
+- שָׁמָּה 'there' comes before the pual קֻבַּר, so the adverb stands at the head of the clause.
+- Abraham and Sarah are joined by ו and share the one verb קֻבַּר.
+
+Note: 'Sons of Heth' is rendered 'the Hittites' as the decisions require.
+
+Commentary:
+
+- Radak (not-applicable): Radak says that wherever the burial in this cave is mentioned, the purchase is mentioned too, to show Abraham's love for Sarah: he found no place to bury her until he bought it, and yet he did not doubt God, who had said 'all the land that you see I will give to you' (13:15).
+- Radak (not-applicable): Radak refers the phrase מֵאֵת בְּנֵי־חֵת back to his explanation in chapter 23. A cross-reference.
+- Radak (follows): Radak says (referring to what he wrote at 24:55) that the verb is stated in the form fitting the one attached to it, here Abraham, and Sarah is joined to him; so the singular קֻבַּר serves both. The English 'and Sarah his wife' takes it so.
+
+Ancient Near East:
+
+- The Hittites (בְּנֵי־חֵת): their relation to the Hittites of Anatolia is disputed. Scholars differ on whether the people named here are the Anatolian people of that name or a local group in Canaan. The English keeps 'the Hittites' and leaves the question open.
+
+Apparatus:
+
+- 'Sons of Heth' is rendered 'the Hittites' as the decisions require; the Hebrew is kept in the literal line.
 
 #### Genesis 25:11
 
 > וַיְהִ֗י אַחֲרֵי֙ מ֣וֹת אַבְרָהָ֔ם וַיְבָ֥רֶךְ אֱלֹהִ֖ים אֶת־יִצְחָ֣ק בְּנ֑וֹ וַיֵּ֣שֶׁב יִצְחָ֔ק עִם־בְּאֵ֥ר לַחַ֖י רֹאִֽי׃
 
-_Not yet translated._
+**After the death of Abraham, God blessed Isaac his son, and Isaac lived by Beer-lahai-roi.**
+
+Literal: and-it-was after death-of Abraham and-blessed God (OBJ) Isaac his-son and-dwelt Isaac with well-of Lahai Roi
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיְהִ֗י | and it came about — wayyiqtol of הָיָה, the formula that opens the sentence; in the English 'After the death of Abraham' carries it | ו: and + הָיָה | היה | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal I.2.a.(1) |
+| אַחֲרֵי֙ | after | אַחַר | אחר | preposition | 2.b |
+| מ֣וֹת | the death of | מָ֫וֶת | מות | noun (common, masculine, singular, construct) | 1 |
+| אַבְרָהָ֔ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| וַיְבָ֥רֶךְ | and blessed | ו: and + בָּרַךְ | ברך | conjunction + verb (piel, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Pi 2 |
+| אֱלֹהִ֖ים | God | אֱלֹהִים | אלה | noun (common, masculine, plural, absolute) | 4 |
+| אֶת | - | אֵת | אות | particle (direct object marker) |  |
+| יִצְחָ֣ק | Isaac | יִצְחָק | צחק | noun (proper name) |  |
+| בְּנ֑וֹ | his son | בֵּן |  | noun (common, masculine, singular, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| וַיֵּ֣שֶׁב | and lived — wayyiqtol | ו: and + יָשַׁב | ישׁב | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 3 |
+| יִצְחָ֔ק | Isaac | יִצְחָק | צחק | noun (proper name) |  |
+| עִם | by | עִם |  | preposition | 2 |
+| בְּאֵ֥ר | Beer — the place name בְּאֵר לַחַי רֹאִי, 'well of the living one who sees me' (lexicon); transliterated, the meaning is in the notes | בְּאֵר לַחַי רֹאִי | באר | noun (proper name) |  |
+| לַחַ֖י | Lahai | בְּאֵר לַחַי רֹאִי | באר | noun (proper name) |  |
+| רֹאִֽי׃ | Roi | בְּאֵר לַחַי רֹאִי | באר | noun (proper name) |  |
+
+Grammar:
+
+- The wayyiqtol וַיְהִי is the narrative formula 'it came about'; here it only dates what follows, and the English carries it with 'After the death of Abraham'.
+- The object marker before יִצְחָק has no English word; the suffix of בְּנוֹ 'his son' is in apposition to Isaac.
+- The second verb וַיֵּשֶׁב has its own subject, Isaac, and follows the blessing.
+
+Note: Beer-lahai-roi is transliterated; the lexicon gives 'well of the living one who sees me'.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi says God comforted Isaac with the comforts given to mourners. Another comment: although God had handed the blessings to Abraham, Abraham was afraid to bless Isaac, because he foresaw Esau coming from him. He said, 'Let the Master of the blessings come and bless whom he pleases', and God came and blessed him.
+- Ramban (follows): Ramban says עִם בְּאֵר לַחַי רֹאִי means near that place, or, because a well is not a city, that Isaac pitched his tent near the well. The English 'by Beer-lahai-roi' follows.
+- Radak (records): Radak says וַיְבָרֶךְ means that God made Isaac prosper in his doings, as his father had prospered. The English keeps 'blessed' and records this reading.
+- Radak (follows): Radak says עִם here is like בְּ, 'in/at' the well, as in 'you shall know in your heart' (עִם לְבָבֶךָ, Deuteronomy 8:5) and 'under the oak that is in Shechem' (35:4), and the like. The English 'by' takes it so.
+
+Ancient Near East:
+
+- Beer-lahai-roi is the well first named in 16:14, where Hagar met the one who spoke to her; the name is explained there. Isaac came from it in 24:62 and was living in the Negev. The meaning of the name, 'well of the living one who sees me', rests on that account; the English transliterates it.
 
 #### Genesis 25:12
 
 > וְאֵ֛לֶּה תֹּלְדֹ֥ת יִשְׁמָעֵ֖אל בֶּן־אַבְרָהָ֑ם אֲשֶׁ֨ר יָלְדָ֜ה הָגָ֧ר הַמִּצְרִ֛ית שִׁפְחַ֥ת שָׂרָ֖ה לְאַבְרָהָֽם׃
 
-_Not yet translated._
+**These are the generations of Ishmael, son of Abraham, whom Hagar the Egyptian, Sarah's maidservant, bore to Abraham.**
+
+Literal: and-these generations-of Ishmael son-of Abraham who bore Hagar the-Egyptian maidservant-of Sarah to-Abraham
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאֵ֛לֶּה | and these — verbless clause: the English supplies 'are' as its copula | ו: and + אֵ֫לֶּה | אלה | conjunction + pronoun (demonstrative, common, plural) | b |
+| תֹּלְדֹ֥ת | generations of — construct; the lexicon sense is 'account of a man and his descendants', and it governs the names that follow | תּוֹלֵדוֹת | ילד | noun (common, feminine, plural, construct) |  |
+| יִשְׁמָעֵ֖אל | Ishmael | יִשְׁמָעֵאל |  | noun (proper name) | 1 |
+| בֶּן | son of | בֵּן |  | noun (common, masculine, singular, construct) | 1 |
+| אַבְרָהָ֑ם | Abraham | אַבְרָהָם | אבה | noun (proper name) |  |
+| אֲשֶׁ֨ר | who | אֲשֶׁר | אשׁר | particle (relative) |  |
+| יָלְדָ֜ה | bore — qatal in a relative clause; its subject Hagar comes after the verb | יָלַד | ילד | verb (qal, perfect (qatal), 3rd person, feminine, singular) | Qal 1 |
+| הָגָ֧ר | Hagar | הָגָר | הגר | noun (proper name) |  |
+| הַמִּצְרִ֛ית | the Egyptian | ה: the + מִצְרִי |  | particle (definite article) + noun (gentilic, feminine, singular, absolute) |  |
+| שִׁפְחַ֥ת | maidservant of | שִׁפְחָה | שׁפח | noun (common, feminine, singular, construct) |  |
+| שָׂרָ֖ה | Sarah | שָׂרָה |  | noun (proper name) |  |
+| לְאַבְרָהָֽם׃ | to Abraham | ל: to, for + אַבְרָהָם | אבה | preposition + noun (proper name) |  |
+
+Grammar:
+
+- וְאֵלֶּה תּוֹלְדוֹת is a verbless clause, 'these (are) the generations'; 'are' in the English is the copula.
+- The etnaḥta on אַבְרָהָם closes the first clause at 'son of Abraham'; the relative clause that follows is set off from it.
+- יָלְדָה is qatal, 3rd feminine singular, with Hagar named after the verb; the appositions 'the Egyptian' and 'maidservant of Sarah' stand after her name.
+
+Commentary:
+
+- Radak (not-applicable): Radak: the Torah records Ishmael's line out of honour to Abraham, his firstborn, and to show that Ishmael had twelve princes, as God told Abraham.
+- Radak (not-applicable): Radak: though Ishmael was the son of a maidservant, Abraham loved him as firstborn; God blessed him for Abraham's sake and prospered him, and he fathered the twelve princes.
+
+Ancient Near East:
+
+- Hagar was an Egyptian maidservant of Sarah. The giving of a maidservant to a childless wife, so that her children are counted to the wife, is cited from the Nuzi tablets; scholars differ on how closely the Nuzi practice matches Genesis.
 
 #### Genesis 25:13
 
 > וְאֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י יִשְׁמָעֵ֔אל בִּשְׁמֹתָ֖ם לְתוֹלְדֹתָ֑ם בְּכֹ֤ר יִשְׁמָעֵאל֙ נְבָיֹ֔ת וְקֵדָ֥ר וְאַדְבְּאֵ֖ל וּמִבְשָֽׂם׃
 
-_Not yet translated._
+**These are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebaioth, and Kedar, and Adbeel, and Mibsam,**
+
+Literal: and-these names-of sons-of Ishmael by-their-names to-their-generations firstborn-of Ishmael Nebaioth and-Kedar and-Adbeel and-Mibsam
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאֵ֗לֶּה | and these | ו: and + אֵ֫לֶּה | אלה | conjunction + pronoun (demonstrative, common, plural) | b |
+| שְׁמוֹת֙ | names of | שֵׁם |  | noun (common, masculine, plural, construct) | 2.a |
+| בְּנֵ֣י | sons of | בֵּן |  | noun (common, masculine, plural, construct) | 1 |
+| יִשְׁמָעֵ֔אל | Ishmael | יִשְׁמָעֵאל |  | noun (proper name) | 1 |
+| בִּשְׁמֹתָ֖ם | by their names — the same noun as 25:13.2, with the preposition ב and a 3rd masculine plural suffix | ב: in, with, by + שֵׁם |  | preposition + noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, plural) | 2.a |
+| לְתוֹלְדֹתָ֑ם | according to their generations — לְ with תּוֹלְדוֹת, 'according to their generations'; Rashi and Radak both take it as the order of birth (see commentary) | ל: to, for + תּוֹלֵדוֹת | ילד | preposition + noun (common, feminine, plural, construct) + suffix (pronominal, 3rd person, masculine, plural) |  |
+| בְּכֹ֤ר | the firstborn of — construct of בְּכוֹר; the names that follow are in apposition to it | בְּכוֹר | בכר | noun (common, masculine, singular, construct) | 1 |
+| יִשְׁמָעֵאל֙ | Ishmael | יִשְׁמָעֵאל |  | noun (proper name) | 1 |
+| נְבָיֹ֔ת | Nebaioth | נְבָיוֹת |  | noun (proper name) |  |
+| וְקֵדָ֥ר | and Kedar | ו: and + קֵדָר |  | conjunction + noun (proper name) | 2 |
+| וְאַדְבְּאֵ֖ל | and Adbeel | ו: and + אַדְבְּאֵל |  | conjunction + noun (proper name) |  |
+| וּמִבְשָֽׂם׃ | and Mibsam | ו: and + מִבְשָׂם |  | conjunction + noun (proper name) | 1 |
+
+Grammar:
+
+- The verse opens a list with a verbless clause, 'these (are) the names'; the copula is English.
+- The etnaḥta on לְתוֹלְדֹתָם closes the heading. The two prepositional phrases 'by their names' and 'to their generations' each have a 3rd masculine plural suffix.
+- בְּכֹר יִשְׁמָעֵאל is a construct, 'the firstborn of Ishmael'. The first son is named (Nebaioth), and the others follow, each joined by ו.
+
+Commentary:
+
+- Rashi (records): Rashi: 'by their names, by their generations' means the order of their births, one after another.
+- Radak (records): Radak: 'to their generations' means in the order of their generations, as they were born, in the order of their mention; the firstborn was Nebaioth.
+
+Ancient Near East:
+
+- Nebaioth is generally identified with the Nabaiate of the Assyrian royal inscriptions, a people of the north Arabian desert; the identification is not beyond dispute.
+- Kedar is a tribe of the Arabian desert (Isa. 21:17).
 
 #### Genesis 25:14
 
 > וּמִשְׁמָ֥ע וְדוּמָ֖ה וּמַשָּֽׂא׃
 
-_Not yet translated._
+**and Mishma, and Dumah, and Massa,**
+
+Literal: and-Mishma and-Dumah and-Massa
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וּמִשְׁמָ֥ע | and Mishma | ו: and + מִשְׁמָע |  | conjunction + noun (proper name) | 1 |
+| וְדוּמָ֖ה | and Dumah | ו: and + דּוּמָה |  | conjunction + noun (proper name) | 1 |
+| וּמַשָּֽׂא׃ | and Massa | ו: and + מַשָּׂא |  | conjunction + noun (proper name) | 1 |
+
+Grammar:
+
+- A list of three names, each with ו, and no verb. The list continues from 25:13 and is completed in 25:15.
+- The accents divide the names: merkha on מִשְׁמָע, tipḥa on דּוּמָה, and silluq on מַשָּׂא, which closes the verse.
 
 #### Genesis 25:15
 
 > חֲדַ֣ד וְתֵימָ֔א יְט֥וּר נָפִ֖ישׁ וָקֵֽדְמָה׃
 
-_Not yet translated._
+**Hadad, and Tema, Jetur, Naphish, and Kedemah.**
+
+Literal: Hadad and-Tema Jetur Naphish and-Kedemah
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| חֲדַ֣ד | Hadad | חֲדַד |  | noun (proper name) |  |
+| וְתֵימָ֔א | and Tema | ו: and + תֵּימָא |  | conjunction + noun (proper name) |  |
+| יְט֥וּר | Jetur | יְטוּר |  | noun (proper name) |  |
+| נָפִ֖ישׁ | Naphish | נָפִישׁ |  | noun (proper name) |  |
+| וָקֵֽדְמָה׃ | and Kedemah | ו: and + קֵ֑דְמָה |  | conjunction + noun (proper name) |  |
+
+Grammar:
+
+- Five names. With the four of 25:13 and the three of 25:14 they make the twelve of 25:16.
+- ו stands before the second and fifth names only; the English repeats 'and' where the Hebrew does.
+- The accents munaḥ, zaqef qaton, merkha, tipḥa and silluq each mark one name; silluq ends the verse.
 
 #### Genesis 25:16
 
 > אֵ֣לֶּה הֵ֞ם בְּנֵ֤י יִשְׁמָעֵאל֙ וְאֵ֣לֶּה שְׁמֹתָ֔ם בְּחַצְרֵיהֶ֖ם וּבְטִֽירֹתָ֑ם שְׁנֵים־עָשָׂ֥ר נְשִׂיאִ֖ם לְאֻמֹּתָֽם׃
 
-_Not yet translated._
+**These are the sons of Ishmael, and these are their names, in their villages and in their palaces: twelve princes of their tribes.**
+
+Literal: these they sons-of Ishmael and-these names-of-them in-their-villages and-in-their-palaces two-ten princes to-their-tribes
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| אֵ֣לֶּה | these | אֵ֫לֶּה | אלה | pronoun (demonstrative, common, plural) | b |
+| הֵ֞ם | they — the pronoun repeats 'these'; 'are' in the English is the copula of the verbless clause | הֵ֫מָּה |  | pronoun (personal, 3rd person, masculine, plural) |  |
+| בְּנֵ֤י | sons of | בֵּן |  | noun (common, masculine, plural, construct) | 1 |
+| יִשְׁמָעֵאל֙ | Ishmael | יִשְׁמָעֵאל |  | noun (proper name) | 1 |
+| וְאֵ֣לֶּה | and these | ו: and + אֵ֫לֶּה | אלה | conjunction + pronoun (demonstrative, common, plural) | b |
+| שְׁמֹתָ֔ם | names of | שֵׁם |  | noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, plural) | 2.a |
+| בְּחַצְרֵיהֶ֖ם | in their villages — חָצֵר: the lexicon gives 'settled abode, settlement, village'; how the place was built is disputed (see context) | ב: in, with, by + חָצֵר | חצר | preposition + noun (common, both genders, plural, construct) + suffix (pronominal, 3rd person, masculine, plural) |  |
+| וּבְטִֽירֹתָ֑ם | and in their palaces — טִירָה: the lexicon gives 'encampment, battlement'. 'Palaces' follows Ibn Ezra, the normative reading; Radak's 'fortified cities' is recorded | ו: and + ב: in, with, by + טִירָה | טור | conjunction + preposition + noun (common, feminine, plural, construct) + suffix (pronominal, 3rd person, masculine, plural) |  |
+| שְׁנֵים | two — the numeral 'twelve' is written as two plus ten | שְׁנַ֫יִם | שׁנה | adjective (cardinal number, masculine, dual, absolute) |  |
+| עָשָׂ֥ר | ten | עָשָׂר | עשׂר | adjective (cardinal number, masculine, singular, absolute) |  |
+| נְשִׂיאִ֖ם | princes | נָשִׂיא | נשׂא | noun (common, masculine, plural, absolute) |  |
+| לְאֻמֹּתָֽם׃ | of their tribes — אֻמָּה 'tribe, people'. Ibn Ezra: the lamed is an added preposition, as in לְגוֹיֵיהֶם, and the sense is the same with or without it; English 'of' carries the construction. | ל: to, for + אֻמָּה | אמם | preposition + noun (common, feminine, plural, construct) + suffix (pronominal, 3rd person, masculine, plural) |  |
+
+Grammar:
+
+- אֵלֶּה הֵם is a verbless clause; the pronoun הֵם repeats the subject, and 'are' is the English copula.
+- The second clause, 'and these are their names', is verbless too. The names are those of 25:13 to 15.
+- The two locatives בְּחַצְרֵיהֶם וּבְטִירֹתָם are parallel, each with ב and a 3rd masculine plural suffix. The etnaḥta on וּבְטִירֹתָם closes them; the numeral and the title come after it.
+- The numeral is compound, שְׁנֵים עָשָׂר ('two and ten'), with the plural noun נְשִׂיאִם; it stands in apposition to the names above.
+
+Note: Palaces follows Ibn Ezra's normative reading of טירות; the lexicon's 'encampment, battlement' and Radak's fortified cities are recorded in commentary. Ibn Ezra takes the lamed of לְאֻמֹּתָם as added and without force, as in לְגוֹיֵיהֶם; the English 'of their tribes' leaves it unrendered.
+
+Commentary:
+
+- Rashi (records): Rashi: חצרים are large cities without walls, and he takes the Targum's word for them as 'opened places'.
+- Ibn Ezra (follows): Ibn Ezra: טירות are palaces (ארמונים), like the טירת כסף of the Song of Songs.
+- Ibn Ezra (follows): Ibn Ezra: the word occurs with shureq elsewhere (אֻמּוֹת, אֻמִּים); the lamed of לְאֻמֹּתָם is added, like the lamed of לְגוֹיֵיהֶם, and is not a root letter as in לְאֻמִּים (Ps. 149:7), which is a root as in 'one people (לְאֹם) shall be stronger than the other' (Gen. 25:23). With the lamed or without it the sense is the same; they are two roots.
+- Radak (not-applicable): Radak: the general statement 'these are the sons' comes after the particulars, a usual form in Scripture; the repetition adds clarity.
+- Radak (not-applicable): Radak: the repetition tells the reader that wherever a people is named with one of these names, it is one of Ishmael's sons.
+- Radak (records): Radak: where their portion fell they lived in greatness, in their ḥatserim (open towns) and their tirot (great cities and fortresses).
+- Radak (follows): Radak: each of the twelve was a prince and the head of a great family named after him, as Jetur Naphish in the war of the Hagrites; Kedar, Dumah, Massa and Tema are each named in the prophets as a separate nation.
+- Targum Onkelos (records): Onkelos renders the two locatives as 'open places' (פַּצְחֵיהוֹן) and 'great cities' (כַּרְכֵּיהוֹן).
+
+Ancient Near East:
+
+- The Hebrew names two kinds of settled place, ḥatserim and tirot. The commentators differ: the ḥatserim are taken as unwalled villages (Radak) or large towns without walls (Rashi), and the tirot as fortified cities (Radak) or palaces (Ibn Ezra). Elsewhere the word tirah is used of nomad encampments (Num. 31:10; Ezek. 25:4), so 'palaces' is one of several possible renderings. The commentary records the positions.
+- The twelve names are identified with tribes of the north Arabian desert and its edge; each identification of a name with a known people is a scholarly proposal and is disputed.
 
 #### Genesis 25:17
 
 > וְאֵ֗לֶּה שְׁנֵי֙ חַיֵּ֣י יִשְׁמָעֵ֔אל מְאַ֥ת שָׁנָ֛ה וּשְׁלֹשִׁ֥ים שָׁנָ֖ה וְשֶׁ֣בַע שָׁנִ֑ים וַיִּגְוַ֣ע וַיָּ֔מׇת וַיֵּאָ֖סֶף אֶל־עַמָּֽיו׃
 
-_Not yet translated._
+**These are the years of the life of Ishmael, a hundred and thirty-seven years; and he expired, and he died, and he was gathered to his people.**
+
+Literal: and-these years-of life-of Ishmael hundred years and-thirty years and-seven years and-he-expired and-he-died and-he-was-gathered to his-people
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וְאֵ֗לֶּה | and these | ו: and + אֵ֫לֶּה | אלה | conjunction + pronoun (demonstrative, common, plural) | b |
+| שְׁנֵי֙ | years of — the form is parsed as the dual construct of שָׁנָה; the phrase reads 'the years of the life of' | שָׁנָה | שׁנה | adjective (cardinal number, masculine, dual, construct) |  |
+| חַיֵּ֣י | the life of | חַיִּים | חיה | noun (common, masculine, plural, construct) | 1 |
+| יִשְׁמָעֵ֔אל | Ishmael | יִשְׁמָעֵאל |  | noun (proper name) | 1 |
+| מְאַ֥ת | a hundred — a hundred as part of a larger number (137) | מֵאָה | מאה | adjective (cardinal number, feminine, singular, construct) | 2 |
+| שָׁנָ֛ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וּשְׁלֹשִׁ֥ים | and thirty — before a singular noun (שָׁנָה) | ו: and + שְׁלֹשִׁים | שׁלשׁ | conjunction + adjective (cardinal number, both genders, plural, absolute) | 1 |
+| שָׁנָ֖ה | years | שָׁנָה | שׁנה | noun (common, feminine, singular, absolute) |  |
+| וְשֶׁ֣בַע | and seven | ו: and + שֶׁ֫בַע | שׁבע | conjunction + adjective (cardinal number, feminine, singular, absolute) |  |
+| שָׁנִ֑ים | years | שָׁנָה | שׁנה | noun (common, feminine, plural, absolute) |  |
+| וַיִּגְוַ֣ע | and he expired — wayyiqtol: the verb series continues the sequence | ו: and + גָּוַע | גוע | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) |  |
+| וַיָּ֔מׇת | and he died — wayyiqtol | ו: and + מוּת | מות | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Qal 1 |
+| וַיֵּאָ֖סֶף | and he was gathered — idiom for death: 'gathered to his people' (see context) | ו: and + אָסַף | אסף | conjunction + verb (nifal, sequential imperfect (wayyiqtol), 3rd person, masculine, singular) | Niph 1 |
+| אֶל | to | אֶל |  | preposition | 1 |
+| עַמָּֽיו׃ | his people — עַם: the lexicon gives 'kinsman'; 'people' is the plain sense of the idiom | עַם |  | noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) |  |
+
+Grammar:
+
+- The age is given as three sums in sequence, a hundred years, and thirty years, and seven years; the English adds them as one figure, and the literal keeps the Hebrew's three.
+- Three wayyiqtol verbs, וַיִּגְוַע וַיָּמָת וַיֵּאָסֶף, carry the sequence: 'expired', 'died', and the idiom of being gathered to one's people.
+- The etnaḥta on שָׁנִים closes the clause of the age; the silluq on עַמָּיו closes the verse.
+
+Commentary:
+
+- Rashi (not-applicable): Rashi (midrash): asks why Ishmael's years are counted, so that Jacob's years can be set against them; Jacob spent fourteen years in Eber's house before he left his father, since Ishmael died when Jacob left.
+- Rashi (not-applicable): Rashi: the verb גְּוִיעָה is said only of the righteous.
+- Ramban (not-applicable): Ramban: the plain sense is that the text gives the years of the righteous' offspring to show that the seed of the righteous is blessed; of the midrash's reasons for Ishmael's years, he finds most correct that Ishmael repented.
+- Ramban (records): Ramban: Rashi's 'expiring is said only of the righteous' is understood by the Talmud as death without painful illness or suffering; the Flood generation and the desert dead also 'expired', which the Talmud answers by 'expiring and being gathered'. The midrash instead takes גְּוִיעָה as a bowel illness or wasting, and Onkelos' וְאִתְנְגִיד (a swoon) agrees; he concludes that 'he expired and died' is a man weakening and dying, a death found among the righteous.
+- Radak (not-applicable): Radak: the years are recorded in Abraham's honour; the rabbis record them only to compare Jacob's years.
+- Targum Onkelos (records): Onkelos renders וַיִּגְוַע as וְאִתְנְגִיד, which Ramban glosses as a swoon (עִלּוּף).
+
+Ancient Near East:
+
+- 'Gathered to his people' (וַיֵּאָסֶף אֶל־עַמָּיו) is the Hebrew idiom for death; by itself it does not describe a burial.
 
 #### Genesis 25:18
 
 > וַיִּשְׁכְּנ֨וּ מֵֽחֲוִילָ֜ה עַד־שׁ֗וּר אֲשֶׁר֙ עַל־פְּנֵ֣י מִצְרַ֔יִם בֹּאֲכָ֖ה אַשּׁ֑וּרָה עַל־פְּנֵ֥י כׇל־אֶחָ֖יו נָפָֽל׃
 
-_Not yet translated._
+**And they dwelt from Havilah as far as Shur, which is before Egypt, as you go toward Asshur; he fell before all his brothers.**
+
+Literal: and-they-dwelt from-Havilah as-far-as Shur which upon face-of Egypt in-your-coming Asshur-ward; upon face-of all his-brothers fell
+
+| word | gloss | lemma | root | parse | sense |
+|---|---|---|---|---|---|
+| וַיִּשְׁכְּנ֨וּ | and they dwelt — wayyiqtol, 3rd masculine plural; the subject is Ishmael's sons | ו: and + שָׁכַן | שׁכן | conjunction + verb (qal, sequential imperfect (wayyiqtol), 3rd person, masculine, plural) | Qal 2 |
+| מֵֽחֲוִילָ֜ה | from Havilah | מ: from, than + חֲוִילָה |  | preposition + noun (proper name) |  |
+| עַד | as far as | עַד | עדה | preposition | I.1 |
+| שׁ֗וּר | Shur | שׁוּר |  | noun (proper name) |  |
+| אֲשֶׁר֙ | which | אֲשֶׁר | אשׁר | particle (relative) |  |
+| עַל | upon — על פְּנֵי is one idiom; the English 'before' belongs to the whole phrase | עַל | עלה | preposition | II.1 |
+| פְּנֵ֣י | before | פָּנֶה | פנה | noun (common, both genders, plural, construct) | I.6 |
+| מִצְרַ֔יִם | Egypt | מִצְרַ֫יִם | מצר | noun (proper name) | 1.a |
+| בֹּאֲכָ֖ה | as you go — infinitive construct with a 2nd masculine singular suffix, 'as you come/go'; a fixed idiom of boundary descriptions (also Gen. 10:19, 10:30, 13:10), where 'you' is the generic traveller, not an addressee | בּוֹא | בוא | verb (qal, infinitive construct) + suffix (pronominal, 2nd person, masculine, singular) | Qal 4 |
+| אַשּׁ֑וּרָה | toward Asshur — the directional ה on אַשּׁוּר | אַשּׁוּר |  | noun (proper name) + suffix (directional he) |  |
+| עַל | upon — עַל פְּנֵי כָל־אֶחָיו: the idiom 'before all his brothers' | עַל | עלה | preposition | II.1 |
+| פְּנֵ֥י | before | פָּנֶה | פנה | noun (common, both genders, plural, construct) | I.6 |
+| כׇל | all | כֹּל | כלל | noun (common, masculine, singular, construct) | 1 |
+| אֶחָ֖יו | his brothers | אָח | אחה | noun (common, masculine, plural, construct) + suffix (pronominal, 3rd person, masculine, singular) | 1 |
+| נָפָֽל׃ | fell — qatal after a wayyiqtol series: a separate statement; the sense of נָפַל is disputed (see commentary) | נָפַל | נפל | verb (qal, perfect (qatal), 3rd person, masculine, singular) | Qal 1 |
+
+Grammar:
+
+- The verse is a wayyiqtol (וַיִּשְׁכְּנוּ) with the boundary formula 'from Havilah as far as Shur', then a relative clause placing Shur 'before Egypt', then a second boundary phrase, 'toward Asshur'.
+- בֹּאֲכָה is the infinitive construct of בוא with a 2nd masculine singular suffix, 'as you come'. It is the regular idiom of boundary descriptions (also Gen. 10:19, 10:30, 13:10), in which 'you' is the generic traveller; the third-person narrative is not broken by it.
+- נָפָל is a qatal after a wayyiqtol series, so it reads as a separate statement rather than the next step of the dwelling. The third masculine singular is unnamed; the English 'he' is the person of the form.
+- The etnaḥta on אַשּׁוּרָה closes the first half at Asshur, and the silluq on נָפָֽל closes the verse. The paragraph mark (פ) after it ends the section.
+
+Note: English 'fell' keeps the verb. Rashi, Radak and Onkelos read 'dwelt', and Ibn Ezra offers three readings (lot, movement, death in a brother's lifetime); all are recorded in commentary, since the words do not settle the sense. 'Before' is the idiom על פני, which leaves Ibn Ezra's death reading open without choosing it.
+
+Commentary:
+
+- Rashi (records): Rashi: נָפָל here means 'dwelt' (שָׁכַן), as in the Midianites and Amalekites who lay in the valley (Judg. 7:12). He notes Gen. 16:12, 'before all his brothers he shall dwell': before Abraham died Ishmael dwelt, and after Abraham died he fell.
+- Ibn Ezra (records): Ibn Ezra: 'all his brothers' (על פני כל אחיו) are Zimran and Jokshan.
+- Ibn Ezra (records): Ibn Ezra gives three readings of נָפָל: his portion or lot (fell to him); or that most of Ishmael's sons move from place to place, as in 'to the Chaldeans you fall' (Jer. 37:13), which he finds a little far, since his brothers are in the east and Egypt and Asshur are west of the Land; or, possibly, that the verse speaks of Ishmael dying in the lifetime of his brothers, as one who fell, since the cause of his death is not known.
+- Radak (records): Radak: the sons and their generations dwelt from Havilah to Shur, for there their portion fell to them.
+- Radak (records): Radak: the phrase 'before all his brothers' is as the angel told Hagar, 'before all his brothers he shall dwell' (Gen. 16:12), where he has explained it.
+- Radak (records): Radak: נָפָל means 'dwelt', as in 'lying in the valley' (Judg. 7:12).
+- Targum Onkelos (records): Onkelos renders נָפָל as שְׁרָא, 'dwelt'.
+
+Ancient Near East:
+
+- Havilah is a name also used in the table of nations for a land; scholars disagree on whether this Havilah is the same place, and its location is not fixed.
+- Shur is the desert on the route from Canaan to Egypt (Gen. 16:7); here it is located by its position 'before Egypt' (עַל־פְּנֵי), commonly understood as facing Egypt on its eastern side. The Hebrew gives no compass direction.
+- Asshur is generally taken as Assyria, on the upper Tigris, but some take a nearer north Arabian people (compare the Asshurim of 25:3); the identification is disputed.
 
 ## Toldot — תּוֹלְדֹת (Genesis 25:19–28:9)
 
@@ -31793,6 +34527,6 @@ _Not yet translated._
 - Commentary: Targum Onkelos, Sefaria version “Sifsei Chachomim Chumash, Metsudah Publications, 2009”.
 - Commentary: Sforno, Sefaria version “Vocalized Edition”.
 - Translation: sonnet, reviewed by opus — 62 units.
-- Translation: haiku, reviewed by sonnet — 21 units.
+- Translation: haiku, reviewed by sonnet — 31 units.
 - Translation: haiku, reviewed by opus — 2 units.
 - Fetched sources, with dates and SHA-256: `works/genesis/raw/manifest.json`.

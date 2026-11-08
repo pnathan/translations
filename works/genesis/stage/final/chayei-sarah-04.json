@@ -255,7 +255,7 @@
   },
   {
    "ref": "24:3",
-   "english": "and I will make you swear by the LORD, God of heaven and God of earth, that you shall not take a wife for my son from the daughters of the Canaanites among whom I dwell.",
+   "english": "and I will make you swear by the LORD, God of heaven and God of earth, that you shall not take a wife for my son from the daughters of the Canaanites among whom I dwell,",
    "literal": "and-I-will-make-you-swear by-LORD God-of heavens and-God-of earth; that not you-will-take wife for-my-son from-daughters-of the-Canaanite; that I dwell in-its-midst",
    "tokens": [
     {
@@ -381,7 +381,7 @@
       "24:3.16",
       "24:3.17"
      ],
-     "english": "among whom I dwell.",
+     "english": "among whom I dwell,",
      "literal": "that I dwell in-its-midst"
     }
    ],

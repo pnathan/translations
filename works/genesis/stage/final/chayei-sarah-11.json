@@ -321,7 +321,7 @@
   },
   {
    "ref": "24:60",
-   "english": "They blessed Rebekah and said to her, \"Our sister, may you become thousands of myriads, and may your seed possess the gate of those who hate him.\"",
+   "english": "They blessed Rebekah and said to her, \"Our sister, may you become thousands of myriads, and may your offspring possess the gate of those who hate him.\"",
    "literal": "and-they-blessed (obj) Rebekah and-they-said to-her our-sister you be to-thousands-of myriad and-may-possess your-seed (obj) gate-of his-haters",
    "tokens": [
     {
@@ -437,7 +437,7 @@
       "24:60.11",
       "24:60.12"
      ],
-     "english": "and may your seed possess",
+     "english": "and may your offspring possess",
      "literal": "'and-may-possess your-seed'"
     },
     {
@@ -474,7 +474,7 @@
   },
   {
    "ref": "24:61",
-   "english": "Rebekah rose with her maids, and they mounted the camels and went after the man. The servant took Rebekah and went.",
+   "english": "Rebekah rose with her girls, and they mounted the camels and went after the man. The servant took Rebekah and went.",
    "literal": "and-she-arose Rebekah and-her-maids and-they-mounted on the-camels and-they-went after the-man and-he-took the-servant (obj) Rebekah and-he-went",
    "tokens": [
     {
@@ -558,7 +558,7 @@
       "24:61.2",
       "24:61.3"
      ],
-     "english": "Rebekah rose with her maids,",
+     "english": "Rebekah rose with her girls,",
      "literal": "'and-she-arose Rebekah and-her-maids'"
     },
     {
@@ -626,7 +626,7 @@
   },
   {
    "ref": "24:62",
-   "english": "Isaac had come from coming to Beer-lahai-roi, and he was living in the land of the Negeb.",
+   "english": "Isaac had come from the way to Beer-lahai-roi, and he was living in the land of the Negeb.",
    "literal": "and-Isaac came from-coming Beer-lahai-roi and-he dwelling in-land-of the-Negeb",
    "tokens": [
     {
@@ -686,7 +686,7 @@
       "24:62.2",
       "24:62.3"
      ],
-     "english": "Isaac had come from coming to",
+     "english": "Isaac had come from the way to",
      "literal": "and-Isaac came from-coming"
     },
     {

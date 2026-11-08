@@ -4,7 +4,7 @@
  "segments": [
   {
    "ref": "24:49",
-   "english": "And now, if you are dealing kindly and faithfully with my lord, tell me; and if not, tell me, and I will turn to the right or to the left.\"",
+   "english": "And now, if you are dealing kindly and faithfully with my master, tell me; and if not, tell me, and I will turn to the right or to the left.\"",
    "literal": "and-now if there-are-you doing kindness and-faithfulness with my-lord tell to-me and-if not tell to-me and-I-will-turn upon right or upon left",
    "tokens": [
     {
@@ -131,7 +131,7 @@
       "24:49.7",
       "24:49.8"
      ],
-     "english": "you are dealing kindly and faithfully with my lord",
+     "english": "you are dealing kindly and faithfully with my master",
      "literal": "there-are-you doing kindness and-faithfulness with my-lord"
     },
     {
@@ -344,7 +344,7 @@
   },
   {
    "ref": "24:51",
-   "english": "Here is Rebekah before you; take and go, and let her be a wife to your lord's son, as the LORD has spoken.\"",
+   "english": "Here is Rebekah before you; take and go, and let her be a wife to your master's son, as the LORD has spoken.\"",
    "literal": "lo Rebekah before-your-face take and-go and-let-her-be wife to-son-of your-lords as spoke the-LORD",
    "tokens": [
     {
@@ -451,7 +451,7 @@
       "24:51.8",
       "24:51.9"
      ],
-     "english": "to your lord's son",
+     "english": "to your master's son",
      "literal": "to-son-of your-lords"
     },
     {
@@ -766,7 +766,7 @@
   },
   {
    "ref": "24:54",
-   "english": "They ate and drank, he and the men who were with him, and they spent the night; and they rose in the morning, and he said, \"Send me away to my lord.\"",
+   "english": "They ate and drank, he and the men who were with him, and they spent the night; and they rose in the morning, and he said, \"Send me away to my master.\"",
    "literal": "and-they-ate and-they-drank he and-the-men who with-him and-they-spent-the-night and-they-rose in-the-morning and-he-said send-me-away to-my-lord",
    "tokens": [
     {
@@ -888,7 +888,7 @@
       "24:54.11",
       "24:54.12"
      ],
-     "english": "Send me away to my lord",
+     "english": "Send me away to my master",
      "literal": "send-me-away to-my-lord"
     }
    ],
@@ -909,7 +909,7 @@
   },
   {
    "ref": "24:55",
-   "english": "Her brother and her mother said, \"Let the girl stay with us days or ten; after that she will go.\"",
+   "english": "Her brother and her mother said, \"Let the girl stay with us some days, or ten; after that she will go.\"",
    "literal": "and-said brother-of-her and-mother-of-her will-stay the-girl with-us days or ten after she-will-go",
    "tokens": [
     {
@@ -997,7 +997,7 @@
       "24:55.8",
       "24:55.9"
      ],
-     "english": "days or ten",
+     "english": "some days, or ten",
      "literal": "days or ten"
     },
     {
@@ -1050,7 +1050,7 @@
   },
   {
    "ref": "24:56",
-   "english": "He said to them, \"Do not hold me back; the LORD has made my journey prosper. Send me away, and I will go to my lord.\"",
+   "english": "He said to them, \"Do not hold me back; the LORD has made my journey prosper. Send me away, and I will go to my master.\"",
    "literal": "and-said to-them not hold-back-me and-the-LORD has-made-prosper my-journey send-me-away and-I-will-go to-my-lord",
    "tokens": [
     {
@@ -1151,7 +1151,7 @@
       "24:56.10",
       "24:56.11"
      ],
-     "english": "and I will go to my lord",
+     "english": "and I will go to my master",
      "literal": "and-I-will-go to-my-lord"
     }
    ],

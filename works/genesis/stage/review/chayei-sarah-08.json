@@ -246,7 +246,7 @@
    "path": "english",
    "value": "He said to me, 'The LORD before whom I have walked will send his angel with you and will make your way prosper; and you shall take a wife for my son from my kin and from my father's house.",
    "severity": "error",
-   "reason": "consistency: Abraham's reported speech continues in 24:41; the single quote opened at 24:37... is not closed here (24:41 closes it)"
+   "reason": "consistency: Abraham's reported speech opened in 24:40 continues in 24:41 and closes there; the closing quote is moved to the end of 24:41"
   }
  ],
  "verdicts": [

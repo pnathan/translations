@@ -464,7 +464,7 @@
   },
   {
    "ref": "23:11",
-   "english": "\"No, my lord, hear me. The field I have given to you, and the cave which is in it I have given it to you; in the sight of my people I have given it to you. Bury your dead.\"",
+   "english": "\"No, my lord, hear me. The field I have given to you, and the cave which is in it I have given to you; in the sight of my people I have given it to you. Bury your dead.\"",
    "literal": "no my-lord hear-me the-field I-have-given to-you and-the-cave which in-it to-you I-have-given-it in-eyes-of sons-of my-people I-have-given-it to-you bury dead-of-you",
    "tokens": [
     {
@@ -593,7 +593,7 @@
       "23:11.10",
       "23:11.11"
      ],
-     "english": "and the cave which is in it I have given it to you",
+     "english": "and the cave which is in it I have given to you",
      "literal": "and-the-cave which in-it to-you I-have-given-it"
     },
     {

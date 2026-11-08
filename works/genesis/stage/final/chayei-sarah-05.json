@@ -554,7 +554,7 @@
   },
   {
    "ref": "24:12",
-   "english": "And he said, \"LORD God of my master Abraham, please make it happen before me today, and show kindness to my master Abraham.",
+   "english": "And he said, \"LORD, God of my master Abraham, please make it happen before me today, and show kindness to my master Abraham.",
    "literal": "and-said LORD God-of my-master Abraham make-it-happen please before-me the-day and-do kindness with my-master Abraham",
    "tokens": [
     {
@@ -648,7 +648,7 @@
       "24:12.4",
       "24:12.5"
      ],
-     "english": "LORD God of my master Abraham",
+     "english": "LORD, God of my master Abraham",
      "literal": "the-LORD God-of my-master Abraham"
     },
     {

@@ -112,7 +112,7 @@
   },
   {
    "ref": "25:13",
-   "english": "These are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebaioth, and Kedar, and Adbeel, and Mibsam.",
+   "english": "These are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebaioth, and Kedar, and Adbeel, and Mibsam,",
    "literal": "and-these names-of sons-of Ishmael by-their-names to-their-generations firstborn-of Ishmael Nebaioth and-Kedar and-Adbeel and-Mibsam",
    "tokens": [
     {
@@ -216,7 +216,7 @@
      "tokens": [
       "25:13.12"
      ],
-     "english": "and Mibsam.",
+     "english": "and Mibsam,",
      "literal": "and-Mibsam"
     }
    ],
@@ -244,7 +244,7 @@
   },
   {
    "ref": "25:14",
-   "english": "and Mishma, and Dumah, and Massa.",
+   "english": "and Mishma, and Dumah, and Massa,",
    "literal": "and-Mishma and-Dumah and-Massa",
    "tokens": [
     {
@@ -282,7 +282,7 @@
      "tokens": [
       "25:14.3"
      ],
-     "english": "and Massa.",
+     "english": "and Massa,",
      "literal": "and-Massa"
     }
    ],

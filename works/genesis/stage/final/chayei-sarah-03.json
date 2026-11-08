@@ -4,7 +4,7 @@
  "segments": [
   {
    "ref": "23:17",
-   "english": "And the field of Ephron which was in Machpelah, which was before Mamre, stood: the field and the cave which was in it, and all the trees which were in the field, which were within all its border all around.",
+   "english": "And the field of Ephron which was in Machpelah, which was before Mamre, was made over: the field and the cave which was in it, and all the trees which were in the field, which were within its whole border all around.",
    "literal": "and-stood field-of Ephron which in-the-Machpelah which before Mamre the-field and-the-cave which in-it and-all-of the-tree which in-the-field which in-all-of its-border round-about",
    "tokens": [
     {
@@ -121,7 +121,7 @@
       "23:17.7",
       "23:17.8"
      ],
-     "english": "And the field of Ephron which was in Machpelah, which was before Mamre, stood",
+     "english": "And the field of Ephron which was in Machpelah, which was before Mamre, was made over",
      "literal": "and-stood the-field-of Ephron which in-Machpelah which before Mamre: the verb first in the Hebrew, placed last in the English"
     },
     {
@@ -151,7 +151,7 @@
       "23:17.19",
       "23:17.20"
      ],
-     "english": "which were within all its border all around",
+     "english": "which were within its whole border all around",
      "literal": "which in-all-of its-border round-about"
     }
    ],
@@ -203,7 +203,7 @@
   },
   {
    "ref": "23:18",
-   "english": "To Abraham as a purchase, in the sight of the Hittites, among all who came in at the gate of his city.",
+   "english": "to Abraham as a purchase, in the sight of the Hittites, among all who came in at the gate of his city.",
    "literal": "to-Abraham to-purchase to-eyes-of sons-of Heth in-all-of those-coming-in-of gate-of city-his",
    "tokens": [
     {
@@ -264,7 +264,7 @@
       "23:18.1",
       "23:18.2"
      ],
-     "english": "To Abraham as a purchase",
+     "english": "to Abraham as a purchase",
      "literal": "to-Abraham to-purchase"
     },
     {
@@ -338,7 +338,7 @@
   },
   {
    "ref": "23:19",
-   "english": "And afterwards Abraham buried Sarah, his wife, into the cave of the field of Machpelah, facing Mamre, that is Hebron, in the land of Canaan.",
+   "english": "And afterwards Abraham buried Sarah, his wife, in the cave of the field of Machpelah, before Mamre, that is Hebron, in the land of Canaan.",
    "literal": "and-after that buried Abraham [object] Sarah his-wife to the-cave-of field-of the-Machpelah upon face-of Mamre she Hebron in-land-of Canaan",
    "tokens": [
     {
@@ -467,7 +467,7 @@
       "23:19.10",
       "23:19.11"
      ],
-     "english": "into the cave of the field of Machpelah",
+     "english": "in the cave of the field of Machpelah",
      "literal": "to the-cave-of field-of the-Machpelah"
     },
     {
@@ -476,7 +476,7 @@
       "23:19.13",
       "23:19.14"
      ],
-     "english": "facing Mamre",
+     "english": "before Mamre",
      "literal": "upon face-of Mamre"
     },
     {
@@ -537,7 +537,7 @@
   },
   {
    "ref": "23:20",
-   "english": "And the field and the cave which was in it stood to Abraham as a possession for a grave from the Hittites.",
+   "english": "And the field and the cave which was in it were made over to Abraham as a possession for a grave from the Hittites.",
    "literal": "and-stood the-field and-the-cave which in-it to-Abraham to-possession-of grave from-with sons-of Heth",
    "tokens": [
     {
@@ -604,7 +604,7 @@
       "23:20.4",
       "23:20.5"
      ],
-     "english": "And the field and the cave which was in it stood",
+     "english": "And the field and the cave which was in it were made over",
      "literal": "and-stood the-field and-the-cave which in-it"
     },
     {

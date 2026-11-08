@@ -4,7 +4,7 @@
  "segments": [
   {
    "ref": "24:25",
-   "english": "She said to him, \"Also straw, also fodder, plenty with us, also room to lodge.\"",
+   "english": "She said to him, \"We have straw and fodder in plenty, and room to lodge too.\"",
    "literal": "and-said she to-him also straw also fodder much with-us also place to-lodge",
    "tokens": [
     {
@@ -74,7 +74,7 @@
       "24:25.3",
       "24:25.4"
      ],
-     "english": "Also straw",
+     "english": "We have straw",
      "literal": "'also straw': the first of three gam, each set before its item"
     },
     {
@@ -82,7 +82,7 @@
       "24:25.5",
       "24:25.6"
      ],
-     "english": "also fodder",
+     "english": "and fodder",
      "literal": "'also fodder'"
     },
     {
@@ -90,7 +90,7 @@
       "24:25.7",
       "24:25.8"
      ],
-     "english": "plenty with us",
+     "english": "in plenty",
      "literal": "'much with-us': a verbless clause, kept verbless in the English"
     },
     {
@@ -99,7 +99,7 @@
       "24:25.10",
       "24:25.11"
      ],
-     "english": "also room to lodge",
+     "english": "and room to lodge too",
      "literal": "'also place to-lodge': the last item, a place to spend the night"
     }
    ],
@@ -212,7 +212,7 @@
   },
   {
    "ref": "24:27",
-   "english": "He said, \"Blessed be the LORD, the God of my lord Abraham, who has not forsaken his kindness and his faithfulness from my lord; as for me, the LORD led me on the way to the house of my lord's brothers.\"",
+   "english": "He said, \"Blessed be the LORD, the God of my master Abraham, who has not forsaken his kindness and his faithfulness from my master; as for me, the LORD led me on the way to the house of my master's brothers.\"",
    "literal": "and-said blessed the-LORD God-of my-lord Abraham who not forsook his-kindness and-his-faithfulness from-with my-lord; I on-the-way led-me the-LORD house brothers-of my-lord",
    "tokens": [
     {
@@ -342,7 +342,7 @@
       "24:27.4",
       "24:27.5"
      ],
-     "english": "the God of my lord",
+     "english": "the God of my master",
      "literal": "'God-of my-lord'"
     },
     {
@@ -374,7 +374,7 @@
       "24:27.12",
       "24:27.13"
      ],
-     "english": "and his faithfulness from my lord",
+     "english": "and his faithfulness from my master",
      "literal": "'and-his-faithfulness from-with my-lord'"
     },
     {
@@ -399,7 +399,7 @@
       "24:27.19",
       "24:27.20"
      ],
-     "english": "to the house of my lord's brothers",
+     "english": "to the house of my master's brothers",
      "literal": "'house brothers-of my-lord': a construct chain; the English adds 'to' for the verb of leading"
     }
    ],

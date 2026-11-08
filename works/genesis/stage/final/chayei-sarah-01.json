@@ -992,7 +992,7 @@
   },
   {
    "ref": "23:8",
-   "english": "And he spoke with them, saying, \"If it is your will to bury my dead from before me, hear me, and entreat for me with Ephron son of Zohar.",
+   "english": "And he spoke with them, saying, \"If it is your will to bury my dead from before me, hear me, and entreat for me with Ephron son of Zohar,",
    "literal": "and-spoke with-them saying if there-is with your-soul to-bury (object) my-dead from-before-me hear-me and-entreat for-me in-Ephron son-of Zohar",
    "tokens": [
     {
@@ -1149,7 +1149,7 @@
       "23:8.16",
       "23:8.17"
      ],
-     "english": "son of Zohar.",
+     "english": "son of Zohar,",
      "literal": "'son-of Zohar'"
     }
    ],
