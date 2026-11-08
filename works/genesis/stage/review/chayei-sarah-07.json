@@ -1,0 +1,536 @@
+{
+ "unit": "chayei-sarah-07",
+ "model": "sonnet",
+ "summary": "The unit is sound in its words, glosses and Ibn Ezra's one comment. The faults are a false count of four גַּם (there are three), two wrong lexicon senses for אָח (24:27, 24:29) with a note that makes Radak say Laban is a relative, a misreading of Rashi's דרך המזומן, a translator's note that says the subject of וַיְפַתַּח is open when the English gives it to the man, and several accent notes that treat conjunctive accents as dividers. The English is faithful; three verses get smoother English with nothing added.",
+ "patches": [
+  {
+   "ref": "24:25",
+   "path": "grammar",
+   "value": [
+    "וַתֹּאמֶר אֵלָיו is a wayyiqtol: the answer comes straight after the question, with no new subject named.",
+    "Three גַּם stand in the answer, each before its own item (straw, fodder, room); the English keeps all three so that the list reads as the Hebrew gives it.",
+    "רַב עִמָּנוּ has no verb; the English keeps it verbless as \"plenty with us\".",
+    "The etnaḥta on עִמָּנוּ divides the answer: the feed for the animals before it, the room for the night after it."
+   ],
+   "severity": "error",
+   "reason": "The note says four גַּם; the verse has three (before תֶּבֶן, מִסְפּוֹא and מָקוֹם)."
+  },
+  {
+   "ref": "24:25",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:25.1",
+      "24:25.2"
+     ],
+     "english": "She said to him",
+     "literal": "'and-said she to-him': the wayyiqtol continues the answer"
+    },
+    {
+     "tokens": [
+      "24:25.3",
+      "24:25.4"
+     ],
+     "english": "Also straw",
+     "literal": "'also straw': the first of three gam, each set before its item"
+    },
+    {
+     "tokens": [
+      "24:25.5",
+      "24:25.6"
+     ],
+     "english": "also fodder",
+     "literal": "'also fodder'"
+    },
+    {
+     "tokens": [
+      "24:25.7",
+      "24:25.8"
+     ],
+     "english": "plenty with us",
+     "literal": "'much with-us': a verbless clause, kept verbless in the English"
+    },
+    {
+     "tokens": [
+      "24:25.9",
+      "24:25.10",
+      "24:25.11"
+     ],
+     "english": "also room to lodge",
+     "literal": "'also place to-lodge': the last item, a place to spend the night"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase note repeats the false count of four גַּם."
+  },
+  {
+   "ref": "24:25",
+   "path": "commentary:sforno:24:25:1.summary",
+   "value": "Sforno: it is not only a place for the camels; there is also straw and fodder to feed them.",
+   "severity": "style",
+   "reason": "The summary made the particle גַּם the subject of the sentence; Sforno says there is not only room for the camels but also feed."
+  },
+  {
+   "ref": "24:25",
+   "path": "commentary:radak:24:25:3.summary",
+   "value": "Radak: מִסְפּוֹא is the general word for the food of beasts apart from straw, that is, barley and oats (שִׁבֹּלֶת שׁוּעָל).",
+   "severity": "style",
+   "reason": "שִׁבֹּלֶת שׁוּעָל is oats (literally fox-ear); \"foxtail\" names a different plant."
+  },
+  {
+   "ref": "24:26",
+   "path": "token:24:26.3.sense",
+   "value": "Hithpa‛lēl 2",
+   "severity": "style",
+   "reason": "The lexicon has a separate sense for the Hithpa‛lēl before God in worship, which is the context; sense 1 is the general bowing down."
+  },
+  {
+   "ref": "24:26",
+   "path": "grammar",
+   "value": [
+    "Two wayyiqtol verbs in sequence: the man first bows down (קָדַד), then prostrates himself (שָׁחָה).",
+    "וַיִּשְׁתַּחוּ is the wayyiqtol of the reflexive stem that the lexicon lists under שָׁחָה (Hithpa‛lēl); the form is reflexive, so the English has \"himself\".",
+    "The ל of לַיהוָה marks the one worshipped; the English keeps \"to\" as the Hebrew has it.",
+    "The zaqef qaton on הָאִישׁ closes the first act; the second act and the name follow, and the silluq on the name ends the verse."
+   ],
+   "severity": "error",
+   "reason": "The old note called הִשְׁתַּחֲוָיָה the verb of the verse (the verse has וַיִּשְׁתַּחוּ) and treated the conjunctive munaḥ and tipḥa as dividing accents."
+  },
+  {
+   "ref": "24:27",
+   "path": "english",
+   "value": "He said, \"Blessed be the LORD, the God of my lord Abraham, who has not forsaken his kindness and his faithfulness from my lord; as for me, the LORD led me on the way to the house of my lord's brothers.\"",
+   "severity": "style",
+   "reason": "\"on the way the LORD led me to the house\" can be read as a relative clause (\"the way that the LORD led me\"); the Hebrew order is a main clause with the LORD as subject, and this keeps it so."
+  },
+  {
+   "ref": "24:27",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:27.1"
+     ],
+     "english": "He said,",
+     "literal": "'and-said': the speech follows"
+    },
+    {
+     "tokens": [
+      "24:27.2"
+     ],
+     "english": "Blessed be",
+     "literal": "'blessed': the participle, the Hebrew has no verb"
+    },
+    {
+     "tokens": [
+      "24:27.3"
+     ],
+     "english": "the LORD",
+     "literal": "'the-LORD'"
+    },
+    {
+     "tokens": [
+      "24:27.4",
+      "24:27.5"
+     ],
+     "english": "the God of my lord",
+     "literal": "'God-of my-lord'"
+    },
+    {
+     "tokens": [
+      "24:27.6"
+     ],
+     "english": "Abraham",
+     "literal": "'Abraham'"
+    },
+    {
+     "tokens": [
+      "24:27.7",
+      "24:27.8",
+      "24:27.9"
+     ],
+     "english": "who has not forsaken",
+     "literal": "'who not forsook': a relative clause with a negated qatal"
+    },
+    {
+     "tokens": [
+      "24:27.10"
+     ],
+     "english": "his kindness",
+     "literal": "'his-kindness'"
+    },
+    {
+     "tokens": [
+      "24:27.11",
+      "24:27.12",
+      "24:27.13"
+     ],
+     "english": "and his faithfulness from my lord",
+     "literal": "'and-his-faithfulness from-with my-lord'"
+    },
+    {
+     "tokens": [
+      "24:27.14"
+     ],
+     "english": "as for me",
+     "literal": "'I': the pronoun opens the second clause"
+    },
+    {
+     "tokens": [
+      "24:27.15",
+      "24:27.16",
+      "24:27.17"
+     ],
+     "english": "the LORD led me on the way",
+     "literal": "'on-the-way led-me the-LORD'"
+    },
+    {
+     "tokens": [
+      "24:27.18",
+      "24:27.19",
+      "24:27.20"
+     ],
+     "english": "to the house of my lord's brothers",
+     "literal": "'house brothers-of my-lord': a construct chain; the English adds 'to' for the verb of leading"
+    }
+   ],
+   "severity": "style",
+   "reason": "The new English changes the fragment for tokens 15-17."
+  },
+  {
+   "ref": "24:27",
+   "path": "token:24:27.19.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "The lexicon sense 2 (\"indefinite = relative\") is for an indefinite אָח; here the plural construct names Abraham's brothers, so sense 1."
+  },
+  {
+   "ref": "24:27",
+   "path": "token:24:27.19.note",
+   "value": "plural construct, literally \"brothers of\"; Radak explains the plural by Nahor being Abraham's brother and Milcah the daughter of his brother",
+   "severity": "error",
+   "reason": "The note called this the wider sense of a relative; Radak takes it as literal brothers."
+  },
+  {
+   "ref": "24:27",
+   "path": "commentary:rashi:24:27:1.summary",
+   "value": "Rashi: דֶּרֶךְ is the appointed way, the straight road, the very road he needed; a ב, ל or ה prefix pointed with pataḥ speaks of a matter already mentioned elsewhere or clearly known.",
+   "severity": "error",
+   "reason": "Rashi's opening words are דרך המזומן (the appointed, prepared way), not \"known\"; \"known\" belongs to his general rule about the pataḥ."
+  },
+  {
+   "ref": "24:27",
+   "path": "commentary:radak:24:27:3.summary",
+   "value": "Radak: the plural אֲחֵי is used because Nahor was Abraham's brother and Milcah the daughter of his brother; \"daughter of my lord's brother\" in verse 48 is the singular and means the same; the first has ṣere under the ḥet, the last ḥiriq.",
+   "severity": "style",
+   "reason": "The summary left out the reason Radak gives for the plural."
+  },
+  {
+   "ref": "24:28",
+   "path": "grammar",
+   "value": [
+    "וַתָּרָץ and וַתַּגֵּד are two wayyiqtol verbs in sequence: she ran, then she told.",
+    "לְבֵית אִמָּהּ, \"the house of her mother\", is the household; the English uses \"household\" for the family.",
+    "כַּדְּבָרִים הָאֵלֶּה: the כְּ gives a likeness, \"according to these words\"; Radak reads it as allowing for less, more or different wording in the telling.",
+    "The etnaḥta on אִמָּהּ divides the verse after those she told; the silluq on הָאֵלֶּה ends it."
+   ],
+   "severity": "style",
+   "reason": "The old note made the conjunctive munaḥ on לְבֵית a dividing accent, and stated Radak's reading of the likeness as the grammar itself."
+  },
+  {
+   "ref": "24:29",
+   "path": "english",
+   "value": "Rebekah had a brother whose name was Laban. And Laban ran to the man outside, to the spring.",
+   "severity": "style",
+   "reason": "A verbless clause with the ל of possession is English \"had\"; \"And to Rebekah a brother, his name Laban\" is not English. Nothing is added to the Hebrew."
+  },
+  {
+   "ref": "24:29",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:29.1",
+      "24:29.2"
+     ],
+     "english": "Rebekah had a brother",
+     "literal": "'and-to Rebekah brother': verbless, the ל of possession; the brother is introduced here"
+    },
+    {
+     "tokens": [
+      "24:29.3",
+      "24:29.4"
+     ],
+     "english": "whose name was Laban",
+     "literal": "'and-his-name Laban': verbless"
+    },
+    {
+     "tokens": [
+      "24:29.5",
+      "24:29.6"
+     ],
+     "english": "And Laban ran",
+     "literal": "'and-ran Laban': the wayyiqtol returns to the action"
+    },
+    {
+     "tokens": [
+      "24:29.7",
+      "24:29.8",
+      "24:29.9"
+     ],
+     "english": "to the man outside",
+     "literal": "'to the-man outside'"
+    },
+    {
+     "tokens": [
+      "24:29.10",
+      "24:29.11"
+     ],
+     "english": "to the spring",
+     "literal": "'to the-spring'"
+    }
+   ],
+   "severity": "style",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "24:29",
+   "path": "token:24:29.2.sense",
+   "value": "1",
+   "severity": "error",
+   "reason": "Laban is Rebekah's own brother (verse 24 and 22:23 make her Bethuel's daughter); sense 2 (\"indefinite = relative\") is wrong here."
+  },
+  {
+   "ref": "24:29",
+   "path": "token:24:29.2.note",
+   "value": "a brother of hers; the noun is indefinite because Laban is introduced here",
+   "severity": "error",
+   "reason": "The note read the word as \"relative\"."
+  },
+  {
+   "ref": "24:29",
+   "path": "note",
+   "value": "Both clauses are verbless in the Hebrew; the English supplies \"had\" and \"was\" as the ordinary English of the possessive ל and of a name. Radak's comment explains why Laban is introduced here: he is not written in the account of Nahor's descendants. It does not make \"brother\" mean \"relative\".",
+   "severity": "error",
+   "reason": "The old note said Radak supports \"brother\" as a relative; Radak says nothing of the kind."
+  },
+  {
+   "ref": "24:29",
+   "path": "commentary:radak:24:29:1.summary",
+   "value": "Radak: the text introduces him here as Rebekah's brother because he was not written in the account of Nahor's descendants.",
+   "severity": "error",
+   "reason": "Radak explains why Laban is named here, not that the word means something else."
+  },
+  {
+   "ref": "24:29",
+   "path": "commentary:radak:24:29:1.relation",
+   "value": "records",
+   "severity": "style",
+   "reason": "The comment explains the verse; it does not decide a reading of the words."
+  },
+  {
+   "ref": "24:30",
+   "path": "english",
+   "value": "When he saw the ring and the bracelets on his sister's hands, and when he heard the words of Rebekah his sister, saying, \"Thus the man spoke to me,\" he came to the man; and look, he was standing by the camels at the spring.",
+   "severity": "style",
+   "reason": "\"and look, standing by the camels\" leaves English without a subject for the participle; the pronoun is what English needs and names nothing the Hebrew lacks."
+  },
+  {
+   "ref": "24:30",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "24:30.1",
+      "24:30.2"
+     ],
+     "english": "When he saw",
+     "literal": "'and-it-was as-seeing': a temporal clause"
+    },
+    {
+     "tokens": [
+      "24:30.3"
+     ],
+     "english": "-",
+     "literal": "'(object marker)': no English counterpart"
+    },
+    {
+     "tokens": [
+      "24:30.4"
+     ],
+     "english": "the ring",
+     "literal": "'the ring'"
+    },
+    {
+     "tokens": [
+      "24:30.5",
+      "24:30.6"
+     ],
+     "english": "and the bracelets",
+     "literal": "'and (object marker) the-bracelets'"
+    },
+    {
+     "tokens": [
+      "24:30.7",
+      "24:30.8",
+      "24:30.9"
+     ],
+     "english": "on his sister's hands",
+     "literal": "'upon hands-of his-sister'"
+    },
+    {
+     "tokens": [
+      "24:30.10"
+     ],
+     "english": "and when he heard",
+     "literal": "'and-as-hearing': the second temporal clause"
+    },
+    {
+     "tokens": [
+      "24:30.11"
+     ],
+     "english": "-",
+     "literal": "'(object marker)': no English counterpart"
+    },
+    {
+     "tokens": [
+      "24:30.12",
+      "24:30.13",
+      "24:30.14"
+     ],
+     "english": "the words of Rebekah his sister",
+     "literal": "'words-of Rebekah his-sister'"
+    },
+    {
+     "tokens": [
+      "24:30.15"
+     ],
+     "english": "saying,",
+     "literal": "'saying': introduces Rebekah's report"
+    },
+    {
+     "tokens": [
+      "24:30.16",
+      "24:30.17",
+      "24:30.18",
+      "24:30.19"
+     ],
+     "english": "Thus the man spoke to me",
+     "literal": "'thus spoke to-me the-man': the report, in her words"
+    },
+    {
+     "tokens": [
+      "24:30.20",
+      "24:30.21",
+      "24:30.22"
+     ],
+     "english": "he came to the man",
+     "literal": "'and-came to-the-man'"
+    },
+    {
+     "tokens": [
+      "24:30.23"
+     ],
+     "english": "and look,",
+     "literal": "'and-look': the attention of the narrative"
+    },
+    {
+     "tokens": [
+      "24:30.24",
+      "24:30.25",
+      "24:30.26",
+      "24:30.27",
+      "24:30.28"
+     ],
+     "english": "he was standing by the camels at the spring",
+     "literal": "'standing upon the-camels upon the-spring'"
+    }
+   ],
+   "severity": "style",
+   "reason": "Follows the new English."
+  },
+  {
+   "ref": "24:30",
+   "path": "grammar",
+   "value": [
+    "וַיְהִי כִּרְאֹת is \"when he saw\": the wayehi with a temporal infinitive; the English does not render \"it was\".",
+    "The two object markers אֵת before הַנֶּזֶם and הַצְּמִדִים are not rendered; the English has \"the ring and the bracelets\".",
+    "The second clause, וּכְשָׁמְעוֹ, repeats the first: \"and when he heard\" the words of Rebekah.",
+    "לֵאמֹר introduces Rebekah's words, which are quoted inside the narrative; the speech closes before \"he came\".",
+    "The etnaḥta on הָאִישׁ (24:30.19) closes Rebekah's quoted words; the silluq on הָעָיִן ends the verse with the scene."
+   ],
+   "severity": "style",
+   "reason": "The accent does not divide \"two clauses\"; it ends the quotation."
+  },
+  {
+   "ref": "24:30",
+   "path": "context",
+   "value": [
+    "The נֶזֶם is a jewel worn at the nose or the ear; this verse does not say which, so the English keeps the general word \"ring\".",
+    "Camels (גְּמַלִּים) are the animals of the caravan in this chapter. When camels came into use for riding and transport in this region is disputed; the English takes no side on it."
+   ],
+   "severity": "style",
+   "reason": "Camels first appear in this unit in this verse; the note stood only at verse 32."
+  },
+  {
+   "ref": "24:31",
+   "path": "grammar",
+   "value": [
+    "בּוֹא is an imperative; בְּרוּךְ יְהוָה is a form of address to the man, \"blessed of the LORD\".",
+    "לָמָּה is \"why\": the interrogative מָה with the preposition ל.",
+    "תַעֲמֹד is a yiqtol, 2ms; \"do you stand\" is the English form for a question in the present.",
+    "פִּנִּיתִי is a piʿel perfect; the lexicon has no piʿel sense, so the English \"cleared\" comes from the sense of the clause.",
+    "The zaqef gadol on וַיֹּאמֶר sets off the introduction; the etnaḥta on יְהוָה divides the greeting from the question; the silluq on לַגְּמַלִּים ends the verse."
+   ],
+   "severity": "style",
+   "reason": "The first note called the participle part of the imperative; it is a vocative. The accent note said a zaqef gadol \"marks the speech\"."
+  },
+  {
+   "ref": "24:32",
+   "path": "commentary:ibn-ezra:24:32:1.summary",
+   "value": "Ibn Ezra: מִסְפּוֹא is the name of the food of beasts, a general name, and barley is included under it.",
+   "severity": "style",
+   "reason": "He says \"ותחתיו שעורה\": barley is a kind under the general name, not a replacement for it."
+  },
+  {
+   "ref": "24:32",
+   "path": "token:24:32.8.note",
+   "value": "Ibn Ezra reads מִסְפּוֹא as a general word for the food of beasts, with barley as one kind under it; the English keeps the general word",
+   "severity": "style",
+   "reason": "Matches his wording."
+  },
+  {
+   "ref": "24:32",
+   "path": "note",
+   "value": "The Hebrew names no new subject for וַיְפַתַּח and the two verbs after it; the wayyiqtol chain continues from הָאִישׁ, and the English keeps it. Ramban takes the subject to be Laban (commentary).",
+   "severity": "error",
+   "reason": "The old note said the English leaves the subject open; the English comma chain (\"The man came ... and loosened\") gives it to the man."
+  },
+  {
+   "ref": "24:32",
+   "path": "apparatus",
+   "value": [
+    "The subject of וַיְפַתַּח is not named; the chain continues from הָאִישׁ, and Ramban reads Laban."
+   ],
+   "severity": "error",
+   "reason": "The old line said the English leaves the subject open, which it does not."
+  },
+  {
+   "ref": "24:32",
+   "path": "context",
+   "value": [
+    "Washing the feet of a traveller was part of hospitality in the region (compare 18:4, 19:2 and 43:24)."
+   ],
+   "severity": "style",
+   "reason": "Camels are now noted at 24:30; this note replaces the duplicate and explains the water for the feet."
+  }
+ ],
+ "verdicts": [
+  {
+   "anchor": "ibn-ezra:24:32:1",
+   "verdict": "consistent",
+   "comment": "The English \"fodder\" keeps the general word he describes; barley is one kind under it."
+  }
+ ]
+}
