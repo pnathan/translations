@@ -12,12 +12,15 @@ import (
 )
 
 // Kind of text: "tanakh" has OSHB morphology; "mishnah" has none, and its
-// morphology is a model stage reviewed like a translation.
+// morphology is a model stage reviewed like a translation; "prose" is
+// continuous unpointed prose with neither morphology nor lexicon (each word
+// is glossed in the translation stage alone) and units sized by words.
 type Kind string
 
 const (
 	Tanakh  Kind = "tanakh"
 	Mishnah Kind = "mishnah"
+	Prose   Kind = "prose"
 )
 
 type Text struct {
@@ -57,8 +60,9 @@ type Config struct {
 	Witnesses    []Text        `json:"witnesses,omitempty"` // further Sefaria versions, collated
 	Commentators []Commentator `json:"commentators"`
 	Sections     []Section     `json:"sections"`
-	UnitMax      int           `json:"unitMax"` // most segments in one unit
-	Segment      string        `json:"segment"` // "verse" or "mishnah"
+	UnitMax      int           `json:"unitMax"`             // most segments in one unit
+	UnitWords    int           `json:"unitWords,omitempty"` // prose: close a unit once it holds this many words (a segment is never split)
+	Segment      string        `json:"segment"`             // "verse" or "mishnah"
 	Dir          string        `json:"-"`
 }
 

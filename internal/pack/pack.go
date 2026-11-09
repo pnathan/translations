@@ -204,11 +204,13 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 	os.MkdirAll(filepath.Dir(llm.ReviewPackPath(cfg, "x")), 0o755)
 	counts := map[string]int{}
 	for _, u := range c.Units {
-		hasMorph := true
-		for _, r := range u.Refs {
-			for _, t := range c.Segment(r).Tokens {
-				if len(t.Morphemes) == 0 {
-					hasMorph = false
+		hasMorph := true // a prose work has no morphology stage
+		if cfg.Kind != work.Prose {
+			for _, r := range u.Refs {
+				for _, t := range c.Segment(r).Tokens {
+					if len(t.Morphemes) == 0 {
+						hasMorph = false
+					}
 				}
 			}
 		}
@@ -232,7 +234,7 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 		header(&b, cfg, u, "Translation", "briefs/translate.md", rel(llm.TranslationPath(cfg, u.ID)))
 		llm.Variant = v
 		for _, r := range u.Refs {
-			writeSegment(&b, cfg, c, c.Segment(r), anchors, secondaryLimit, true)
+			writeSegment(&b, cfg, c, c.Segment(r), anchors, secondaryLimit, cfg.Kind != work.Prose)
 		}
 		writeLexicon(&b, c, u.Refs, lexicon)
 		if err := writeAtomic(cfg.Path("stage", "packs", "translate", u.ID+".md"), b.String()); err != nil {
@@ -246,7 +248,7 @@ func Write(cfg *work.Config, c *corpus.Corpus, lexicon map[string]*lex.Entry, an
 		var r strings.Builder
 		header(&r, cfg, u, "Review", "briefs/review.md", rel(llm.ReviewPath(cfg, u.ID)))
 		for i, ref := range u.Refs {
-			writeSegment(&r, cfg, c, c.Segment(ref), anchors, 0, true)
+			writeSegment(&r, cfg, c, c.Segment(ref), anchors, 0, cfg.Kind != work.Prose)
 			if i < len(tu.Segments) {
 				writeTranslation(&r, &tu.Segments[i])
 			}

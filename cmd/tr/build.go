@@ -100,6 +100,17 @@ func build(cfg *work.Config) error {
 		if err != nil {
 			return err
 		}
+	case work.Prose:
+		wit := map[string][][]string{}
+		for _, w := range cfg.Witnesses {
+			g, err := chapters(cfg, "witness/"+slug(w.Name), w.Version)
+			if err != nil {
+				return err
+			}
+			wit[w.Name] = firsts(g)
+		}
+		c = corpus.BuildProse(cfg, firsts(base), wit)
+		lexicon = map[string]*lex.Entry{}
 	case work.Mishnah:
 		wit := map[string][][]string{}
 		for _, w := range cfg.Witnesses {

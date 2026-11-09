@@ -87,6 +87,9 @@ func fetch(cfg *work.Config, args []string) error {
 		}
 		return shared.Save()
 	}
+	if cfg.Kind == work.Prose {
+		return nil // no morphology, so no lexicon lookups
+	}
 	// Mishnah: lexicon lookups for the lemmas of the morphology stage.
 	c, err := corpus.Load(cfg.Path("stage", "corpus.json"))
 	if err != nil {

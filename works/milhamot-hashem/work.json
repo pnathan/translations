@@ -1,0 +1,90 @@
+{
+  "slug": "milhamot-hashem",
+  "title": "Milḥamot ha-Shem (The Wars of God)",
+  "he": "מלחמות ה׳",
+  "kind": "prose",
+  "refName": "Milḥamot ha-Shem",
+  "chapters": 10,
+  "segment": "paragraph",
+  "unitMax": 99,
+  "unitWords": 250,
+  "text": {
+    "sefaria": "The_Wars_of_God",
+    "version": "ויקיטקסט",
+    "name": "Wikisource"
+  },
+  "witnesses": [],
+  "commentators": [],
+  "sections": [
+    {
+      "slug": "perek-1",
+      "name": "Chapter 1",
+      "he": "פרק 1",
+      "from": "1:1",
+      "to": "1:999"
+    },
+    {
+      "slug": "perek-2",
+      "name": "Chapter 2",
+      "he": "פרק 2",
+      "from": "2:1",
+      "to": "2:999"
+    },
+    {
+      "slug": "perek-3",
+      "name": "Chapter 3",
+      "he": "פרק 3",
+      "from": "3:1",
+      "to": "3:999"
+    },
+    {
+      "slug": "perek-4",
+      "name": "Chapter 4",
+      "he": "פרק 4",
+      "from": "4:1",
+      "to": "4:999"
+    },
+    {
+      "slug": "perek-5",
+      "name": "Chapter 5",
+      "he": "פרק 5",
+      "from": "5:1",
+      "to": "5:999"
+    },
+    {
+      "slug": "perek-6",
+      "name": "Chapter 6",
+      "he": "פרק 6",
+      "from": "6:1",
+      "to": "6:999"
+    },
+    {
+      "slug": "perek-7",
+      "name": "Chapter 7",
+      "he": "פרק 7",
+      "from": "7:1",
+      "to": "7:999"
+    },
+    {
+      "slug": "perek-8",
+      "name": "Chapter 8",
+      "he": "פרק 8",
+      "from": "8:1",
+      "to": "8:999"
+    },
+    {
+      "slug": "perek-9",
+      "name": "Chapter 9",
+      "he": "פרק 9",
+      "from": "9:1",
+      "to": "9:999"
+    },
+    {
+      "slug": "perek-10",
+      "name": "Chapter 10",
+      "he": "פרק 10",
+      "from": "10:1",
+      "to": "10:999"
+    }
+  ]
+}

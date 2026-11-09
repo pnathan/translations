@@ -25,6 +25,16 @@ sources/openscriptures/ shared lexicon files
 docs/                   GitHub Pages root (deployed from main)
 ```
 
+## Work kinds
+
+`tanakh` (OSHB morphology, BDB), `mishnah` (model morphology, reviewed),
+`prose` (continuous unpointed prose: no morphology stage, no lexicon, no
+commentators needed; every word is still glossed in the translation stage).
+A prose work sets `segment` to `paragraph` and `unitWords`; a unit closes
+once it holds that many words, and a paragraph is never split, so one long
+paragraph can make a unit larger than `unitWords`. `tr fetch` and
+`tr build` skip the morphology and lexicon steps for it.
+
 ## Model stages
 
 - Run from the repository root after `go build -o bin/tr ./cmd/tr`.
