@@ -1,0 +1,1756 @@
+{
+ "unit": "perek-1-05",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "1:7",
+   "english": "All the more so, a fortiori, regarding our God, blessed be He, and blessed be His name, that the Torah insisted that one should not attach to Him or associate with Him anything of all created things, whether corporeal or spiritual, as it is said: \"He who sacrifices to the gods shall be destroyed, save to the LORD alone.\" And Rabbi Shimon bar Yochai the Tanna, peace be upon him, said: \"Whoever associates the name of Heaven with something else is uprooted from the world.\" And we should not say that He is one as the others are one, since the Torah has made clear plainly in many places that He is one, unique, apart from all the other ones. Thus, you who mention the LORD, do not stay silent about making known His oneness, may He be blessed, to your children and your disciples, as you are commanded.",
+   "literal": "all the-more-so and-light-and-heavy in-our-God blessed He and-blessed His-name that-the-Torah insisted that-not to-attach and-to-associate with-Him any thing of-all the-created-beings whether corporeal or spiritual as it-is-said he-who-sacrifices to-gods shall-be-devoted-to-destruction except to-the-LORD alone and-he-said Rabbi-Shimon-bar-Yochai the-Tanna peace-be-upon-him everyone-who associates the-name of-Heaven with-something else is-uprooted from the-world and-not we-say as-one one since the-Torah has-made-clear plainly in-many places that-He one unique from-all the-other the-ones so thus you-who-mention (object) the-LORD not silence for-you from-making-known His-oneness may-He-be-blessed to-your-children and-to-your-disciples as-is-commanded upon-you",
+   "tokens": [
+    {
+     "id": "1:7.1",
+     "gloss": "all",
+     "note": "The two Talmudic forms of the a fortiori argument: כל שכן ('all the more so') and וקל וחומר ('light and heavy')."
+    },
+    {
+     "id": "1:7.2",
+     "gloss": "the more so"
+    },
+    {
+     "id": "1:7.3",
+     "gloss": "and light"
+    },
+    {
+     "id": "1:7.4",
+     "gloss": "and heavy"
+    },
+    {
+     "id": "1:7.5",
+     "gloss": "in our God"
+    },
+    {
+     "id": "1:7.6",
+     "gloss": "blessed"
+    },
+    {
+     "id": "1:7.7",
+     "gloss": "He"
+    },
+    {
+     "id": "1:7.8",
+     "gloss": "and blessed"
+    },
+    {
+     "id": "1:7.9",
+     "gloss": "His name"
+    },
+    {
+     "id": "1:7.10",
+     "gloss": "that the Torah"
+    },
+    {
+     "id": "1:7.11",
+     "gloss": "insisted"
+    },
+    {
+     "id": "1:7.12",
+     "gloss": "that not"
+    },
+    {
+     "id": "1:7.13",
+     "gloss": "to attach",
+     "note": "The verb is paired with לשתף below; the English renders it as attaching one thing to another."
+    },
+    {
+     "id": "1:7.14",
+     "gloss": "and to associate"
+    },
+    {
+     "id": "1:7.15",
+     "gloss": "with Him"
+    },
+    {
+     "id": "1:7.16",
+     "gloss": "any"
+    },
+    {
+     "id": "1:7.17",
+     "gloss": "thing"
+    },
+    {
+     "id": "1:7.18",
+     "gloss": "of all"
+    },
+    {
+     "id": "1:7.19",
+     "gloss": "the created beings"
+    },
+    {
+     "id": "1:7.20",
+     "gloss": "whether"
+    },
+    {
+     "id": "1:7.21",
+     "gloss": "corporeal"
+    },
+    {
+     "id": "1:7.22",
+     "gloss": "or"
+    },
+    {
+     "id": "1:7.23",
+     "gloss": "spiritual"
+    },
+    {
+     "id": "1:7.24",
+     "gloss": "as"
+    },
+    {
+     "id": "1:7.25",
+     "gloss": "it is said"
+    },
+    {
+     "id": "1:7.26",
+     "gloss": "he who sacrifices"
+    },
+    {
+     "id": "1:7.27",
+     "gloss": "to gods"
+    },
+    {
+     "id": "1:7.28",
+     "gloss": "shall be devoted to destruction"
+    },
+    {
+     "id": "1:7.29",
+     "gloss": "except"
+    },
+    {
+     "id": "1:7.30",
+     "gloss": "to the LORD"
+    },
+    {
+     "id": "1:7.31",
+     "gloss": "alone"
+    },
+    {
+     "id": "1:7.32",
+     "gloss": "and he said"
+    },
+    {
+     "id": "1:7.33",
+     "gloss": "Rabbi Shimon bar Yochai"
+    },
+    {
+     "id": "1:7.34",
+     "gloss": "the Tanna"
+    },
+    {
+     "id": "1:7.35",
+     "gloss": "peace be upon him"
+    },
+    {
+     "id": "1:7.36",
+     "gloss": "everyone who"
+    },
+    {
+     "id": "1:7.37",
+     "gloss": "associates"
+    },
+    {
+     "id": "1:7.38",
+     "gloss": "the name"
+    },
+    {
+     "id": "1:7.39",
+     "gloss": "of Heaven"
+    },
+    {
+     "id": "1:7.40",
+     "gloss": "with something"
+    },
+    {
+     "id": "1:7.41",
+     "gloss": "else"
+    },
+    {
+     "id": "1:7.42",
+     "gloss": "is uprooted"
+    },
+    {
+     "id": "1:7.43",
+     "gloss": "from"
+    },
+    {
+     "id": "1:7.44",
+     "gloss": "the world"
+    },
+    {
+     "id": "1:7.45",
+     "gloss": "and not"
+    },
+    {
+     "id": "1:7.46",
+     "gloss": "we say"
+    },
+    {
+     "id": "1:7.47",
+     "gloss": "as one",
+     "note": "כלא חד is an Aramaic-style idiom, literally 'as one'; rendered by its sense in the context."
+    },
+    {
+     "id": "1:7.48",
+     "gloss": "one"
+    },
+    {
+     "id": "1:7.49",
+     "gloss": "since"
+    },
+    {
+     "id": "1:7.50",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "1:7.51",
+     "gloss": "has made clear"
+    },
+    {
+     "id": "1:7.52",
+     "gloss": "plainly"
+    },
+    {
+     "id": "1:7.53",
+     "gloss": "in many"
+    },
+    {
+     "id": "1:7.54",
+     "gloss": "places"
+    },
+    {
+     "id": "1:7.55",
+     "gloss": "that He"
+    },
+    {
+     "id": "1:7.56",
+     "gloss": "one"
+    },
+    {
+     "id": "1:7.57",
+     "gloss": "unique"
+    },
+    {
+     "id": "1:7.58",
+     "gloss": "from all"
+    },
+    {
+     "id": "1:7.59",
+     "gloss": "other"
+    },
+    {
+     "id": "1:7.60",
+     "gloss": "the ones"
+    },
+    {
+     "id": "1:7.61",
+     "gloss": "so"
+    },
+    {
+     "id": "1:7.62",
+     "gloss": "thus"
+    },
+    {
+     "id": "1:7.63",
+     "gloss": "you who mention"
+    },
+    {
+     "id": "1:7.64",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "1:7.65",
+     "gloss": "the LORD",
+     "note": "The Tetragrammaton as written, ה׳: 'the LORD'."
+    },
+    {
+     "id": "1:7.66",
+     "gloss": "do not"
+    },
+    {
+     "id": "1:7.67",
+     "gloss": "be silent",
+     "note": "אל דמי: \"do not be silent\", from Isa 62:6, where the watchmen \"who mention the LORD\" are told not to keep silent or rest. The noun דמי is silence/rest; it is not from דמה \"seem\"."
+    },
+    {
+     "id": "1:7.68",
+     "gloss": "to you",
+     "note": "לכם is an ethical dative (\"for yourselves\"); the English does not render it separately."
+    },
+    {
+     "id": "1:7.69",
+     "gloss": "from making known",
+     "note": "מלהודיע: \"from making known\". After אל דמי the sense is \"do not stay silent about making known\". The earlier note (\"let it not seem right to you to refrain\") was wrong."
+    },
+    {
+     "id": "1:7.70",
+     "gloss": "His oneness"
+    },
+    {
+     "id": "1:7.71",
+     "gloss": "may He be blessed"
+    },
+    {
+     "id": "1:7.72",
+     "gloss": "to your children"
+    },
+    {
+     "id": "1:7.73",
+     "gloss": "and to your disciples"
+    },
+    {
+     "id": "1:7.74",
+     "gloss": "as is commanded"
+    },
+    {
+     "id": "1:7.75",
+     "gloss": "upon you"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:7.1",
+      "1:7.2",
+      "1:7.3",
+      "1:7.4"
+     ],
+     "english": "All the more so, a fortiori,",
+     "literal": "all the-more-so and-light-and-heavy"
+    },
+    {
+     "tokens": [
+      "1:7.5",
+      "1:7.6",
+      "1:7.7"
+     ],
+     "english": "regarding our God, blessed be He,",
+     "literal": "in-our-God blessed He"
+    },
+    {
+     "tokens": [
+      "1:7.8",
+      "1:7.9"
+     ],
+     "english": "and blessed be His name,",
+     "literal": "and-blessed His-name"
+    },
+    {
+     "tokens": [
+      "1:7.10",
+      "1:7.11",
+      "1:7.12",
+      "1:7.13",
+      "1:7.14",
+      "1:7.15"
+     ],
+     "english": "that the Torah insisted that one should not attach to Him or associate with Him",
+     "literal": "that-the-Torah insisted that-not to-attach and-to-associate with-Him"
+    },
+    {
+     "tokens": [
+      "1:7.16",
+      "1:7.17",
+      "1:7.18",
+      "1:7.19"
+     ],
+     "english": "anything of all created things,",
+     "literal": "any thing of-all the-created-beings"
+    },
+    {
+     "tokens": [
+      "1:7.20",
+      "1:7.21",
+      "1:7.22",
+      "1:7.23"
+     ],
+     "english": "whether corporeal or spiritual,",
+     "literal": "whether corporeal or spiritual"
+    },
+    {
+     "tokens": [
+      "1:7.24",
+      "1:7.25",
+      "1:7.26",
+      "1:7.27",
+      "1:7.28",
+      "1:7.29",
+      "1:7.30",
+      "1:7.31"
+     ],
+     "english": "as it is said: \"He who sacrifices to the gods shall be destroyed, save to the LORD alone.\"",
+     "literal": "as it-is-said he-who-sacrifices to-gods shall-be-devoted-to-destruction except to-the-LORD alone"
+    },
+    {
+     "tokens": [
+      "1:7.32",
+      "1:7.33",
+      "1:7.34",
+      "1:7.35"
+     ],
+     "english": "And Rabbi Shimon bar Yochai the Tanna, peace be upon him, said:",
+     "literal": "and-he-said Rabbi-Shimon-bar-Yochai the-Tanna peace-be-upon-him"
+    },
+    {
+     "tokens": [
+      "1:7.36",
+      "1:7.37",
+      "1:7.38",
+      "1:7.39",
+      "1:7.40",
+      "1:7.41",
+      "1:7.42",
+      "1:7.43",
+      "1:7.44"
+     ],
+     "english": "\"Whoever associates the name of Heaven with something else is uprooted from the world.\"",
+     "literal": "everyone-who associates the-name the-name-of-Heaven with-something else is-uprooted from the-world"
+    },
+    {
+     "tokens": [
+      "1:7.45",
+      "1:7.46",
+      "1:7.47",
+      "1:7.48"
+     ],
+     "english": "And we should not say that He is one as the others are one,",
+     "literal": "and-not we-say as-one one"
+    },
+    {
+     "tokens": [
+      "1:7.49",
+      "1:7.50",
+      "1:7.51",
+      "1:7.52",
+      "1:7.53",
+      "1:7.54",
+      "1:7.55",
+      "1:7.56",
+      "1:7.57",
+      "1:7.58",
+      "1:7.59",
+      "1:7.60"
+     ],
+     "english": "since the Torah has made clear plainly in many places that He is one, unique, apart from all the other ones.",
+     "literal": "since the-Torah has-made-clear plainly in-many places that-He one unique from-all the-other the-ones"
+    },
+    {
+     "tokens": [
+      "1:7.61",
+      "1:7.62",
+      "1:7.63",
+      "1:7.64",
+      "1:7.65",
+      "1:7.66",
+      "1:7.67",
+      "1:7.68"
+     ],
+     "english": "Thus, you who mention the LORD, do not stay silent",
+     "literal": "so thus you-who-mention (object) the-LORD not silence for-you"
+    },
+    {
+     "tokens": [
+      "1:7.69",
+      "1:7.70",
+      "1:7.71"
+     ],
+     "english": "about making known His oneness, may He be blessed,",
+     "literal": "from-making-known His-oneness may-He-be-blessed"
+    },
+    {
+     "tokens": [
+      "1:7.72",
+      "1:7.73"
+     ],
+     "english": "to your children and your disciples,",
+     "literal": "to-your-children and-to-your-disciples"
+    },
+    {
+     "tokens": [
+      "1:7.74",
+      "1:7.75"
+     ],
+     "english": "as you are commanded.",
+     "literal": "as-is-commanded upon-you"
+    }
+   ],
+   "grammar": [
+    "כל שכן and וקל וחומר are the two Talmudic forms of the a fortiori argument, and the English names the argument once, at the start.",
+    "The שלא clause depends on הקפידה: the Torah insisted that one not attach to God or associate with Him anything created.",
+    "Exod 22:19 is quoted with שנאמר, an explicit quotation, so it takes double quotation marks; the verse itself is in the apparatus.",
+    "ולא אמרינן כלא חד כיון ש… is the reasoning: since the Torah has made clear that He is one, we may not speak of Him as one of the ones.",
+    "הנה כן המזכירים את ה׳ אל דמי לכם takes Isa 62:6 (\"you who mention the LORD, do not be silent\") and applies it to teaching God's oneness. אל דמי is \"do not be silent\" (דמי, silence or rest), לכם is an ethical dative, and מלהודיע \"from making known\" completes it: \"do not stay silent about making known His oneness\"."
+   ],
+   "note": "Rendered by sense: כלא חד is the one clause whose sense is taken from its context; the literal is 'as one'.",
+   "commentary": [],
+   "apparatus": [
+    "Exod 22:19, quoted with שנאמר: זובח לאלהים יחרם בלתי לה׳ לבדו. The author writes לה׳ where the verse has ליהוה; the English gives 'the LORD'.",
+    "Isa 62:6, embedded without quotation marks: המזכירים את יהוה אל דמי לכם (\"you who mention the LORD, do not be silent\"). The author writes ה׳ for יהוה and continues the clause with מלהודיע אחדותו."
+   ],
+   "readings": [
+    {
+     "tokens": [
+      "1:7.45",
+      "1:7.46",
+      "1:7.47",
+      "1:7.48"
+     ],
+     "english": "and we do not say, \"All is one,\"",
+     "source": "Kabbalistic formula כולא חד",
+     "note": "כלא חד may be the Aramaic formula \"all is one\", which the author disowns; the English reads it as \"as one\", which supplies \"that He is one as the others are one\"."
+    }
+   ]
+  },
+  {
+   "ref": "1:8",
+   "english": "Because the beginning of this composition was made at first by the question of one student: whom shall we worship? Therefore I placed at its opening the question of the student, and its reply from one of the learners who persisted the first, second and third time.",
+   "literal": "and-since that-the-beginning-of this-composition was-made at-first by-way-of the-hand-of the-question-of a-student one (object) whom we-shall-worship on-so I-placed its-beginning the-question-of the-student and-its-reply from-one of-the-learners who-persisted the-time first and-second and-third",
+   "tokens": [
+    {
+     "id": "1:8.1",
+     "gloss": "and since"
+    },
+    {
+     "id": "1:8.2",
+     "gloss": "that the beginning of"
+    },
+    {
+     "id": "1:8.3",
+     "gloss": "the composition"
+    },
+    {
+     "id": "1:8.4",
+     "gloss": "this"
+    },
+    {
+     "id": "1:8.5",
+     "gloss": "was made"
+    },
+    {
+     "id": "1:8.6",
+     "gloss": "at first"
+    },
+    {
+     "id": "1:8.7",
+     "gloss": "by way of"
+    },
+    {
+     "id": "1:8.8",
+     "gloss": "the hand of"
+    },
+    {
+     "id": "1:8.9",
+     "gloss": "the question of"
+    },
+    {
+     "id": "1:8.10",
+     "gloss": "a student"
+    },
+    {
+     "id": "1:8.11",
+     "gloss": "one"
+    },
+    {
+     "id": "1:8.12",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "1:8.13",
+     "gloss": "whom",
+     "note": "The student's question in direct speech: the Hebrew has no question mark, and the English adds one."
+    },
+    {
+     "id": "1:8.14",
+     "gloss": "we shall worship",
+     "note": "את מי נעבוד is the question itself, 'whom shall we worship?'"
+    },
+    {
+     "id": "1:8.15",
+     "gloss": "therefore",
+     "note": "על כן, two words: 'therefore'."
+    },
+    {
+     "id": "1:8.16",
+     "gloss": "so"
+    },
+    {
+     "id": "1:8.17",
+     "gloss": "I placed"
+    },
+    {
+     "id": "1:8.18",
+     "gloss": "its beginning"
+    },
+    {
+     "id": "1:8.19",
+     "gloss": "the question of"
+    },
+    {
+     "id": "1:8.20",
+     "gloss": "the student"
+    },
+    {
+     "id": "1:8.21",
+     "gloss": "and its reply"
+    },
+    {
+     "id": "1:8.22",
+     "gloss": "from one"
+    },
+    {
+     "id": "1:8.23",
+     "gloss": "of the learners"
+    },
+    {
+     "id": "1:8.24",
+     "gloss": "who persisted"
+    },
+    {
+     "id": "1:8.25",
+     "gloss": "the time"
+    },
+    {
+     "id": "1:8.26",
+     "gloss": "first"
+    },
+    {
+     "id": "1:8.27",
+     "gloss": "and second"
+    },
+    {
+     "id": "1:8.28",
+     "gloss": "and third"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:8.1",
+      "1:8.2",
+      "1:8.3",
+      "1:8.4",
+      "1:8.5",
+      "1:8.6"
+     ],
+     "english": "Because the beginning of this composition was made at first",
+     "literal": "and-since that-the-beginning-of this-composition this was-made at-first"
+    },
+    {
+     "tokens": [
+      "1:8.7",
+      "1:8.8",
+      "1:8.9",
+      "1:8.10",
+      "1:8.11"
+     ],
+     "english": "by the question of one student:",
+     "literal": "by-way-of the-hand-of the-question-of a-student one"
+    },
+    {
+     "tokens": [
+      "1:8.12",
+      "1:8.13",
+      "1:8.14"
+     ],
+     "english": "whom shall we worship?",
+     "literal": "(object) whom we-shall-worship"
+    },
+    {
+     "tokens": [
+      "1:8.15",
+      "1:8.16"
+     ],
+     "english": "Therefore",
+     "literal": "on-so"
+    },
+    {
+     "tokens": [
+      "1:8.17",
+      "1:8.18"
+     ],
+     "english": "I placed at its opening",
+     "literal": "I-placed its-beginning"
+    },
+    {
+     "tokens": [
+      "1:8.19",
+      "1:8.20"
+     ],
+     "english": "the question of the student,",
+     "literal": "the-question-of the-student"
+    },
+    {
+     "tokens": [
+      "1:8.21",
+      "1:8.22",
+      "1:8.23",
+      "1:8.24"
+     ],
+     "english": "and its reply from one of the learners who persisted",
+     "literal": "and-its-reply from-one of-the-learners who-persisted"
+    },
+    {
+     "tokens": [
+      "1:8.25",
+      "1:8.26",
+      "1:8.27",
+      "1:8.28"
+     ],
+     "english": "the first, second and third time.",
+     "literal": "the-time first and-second and-third"
+    }
+   ],
+   "grammar": [
+    "ולפי שתחלת החבור הזה נעשה… על ידי שאלת תלמיד אחד: the clause gives the reason for the book's form, a dialogue opened by a student's question.",
+    "The student's question את מי נעבוד is a direct question inside the author's sentence; it is kept as a question.",
+    "על כן הנחתי התחלתו: 'therefore I placed its beginning', in the author's first person.",
+    "פעם ראשונה ושנייה ושלישית is an adverbial string: 'the first, second and third time'."
+   ],
+   "note": "The student's question is kept as a question; the English places the question mark, which the Hebrew does not write.",
+   "commentary": []
+  },
+  {
+   "ref": "1:9",
+   "english": "The humble Yichya, son of Sali' al-Kafich, may his Rock keep him and give him life.",
+   "literal": "the-humble Yichya son-of Sali' al-Kafich may-his-Rock-keep-him-and-give-him-life",
+   "tokens": [
+    {
+     "id": "1:9.1",
+     "gloss": "the humble",
+     "note": "הצעיר is literally \"the young/small one\"; authors use it as a self-effacing epithet, hence \"the humble\"."
+    },
+    {
+     "id": "1:9.2",
+     "gloss": "Yichya"
+    },
+    {
+     "id": "1:9.3",
+     "gloss": "son of"
+    },
+    {
+     "id": "1:9.4",
+     "gloss": "Sali'",
+     "note": "The patronymic is abbreviated in the text and is kept as written."
+    },
+    {
+     "id": "1:9.5",
+     "gloss": "al-Kafich"
+    },
+    {
+     "id": "1:9.6",
+     "gloss": "may his Rock keep him and give him life",
+     "note": "Abbreviation יצ״ו = ישמרהו צורו ויחייהו, \"may his Rock keep him and give him life\": an optative blessing after the name of a living person. \"Rock\" (צור) is a name of God."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:9.1",
+      "1:9.2"
+     ],
+     "english": "The humble Yichya,",
+     "literal": "the-humble Yichya"
+    },
+    {
+     "tokens": [
+      "1:9.3",
+      "1:9.4",
+      "1:9.5"
+     ],
+     "english": "son of Sali' al-Kafich,",
+     "literal": "son-of Sali' al-Kafich"
+    },
+    {
+     "tokens": [
+      "1:9.6"
+     ],
+     "english": "may his Rock keep him and give him life.",
+     "literal": "may-his-Rock-keep-him-and-give-him-life"
+    }
+   ],
+   "grammar": [
+    "הצעיר is an adjective in apposition to יחיה: the author's self-description, 'the humble'.",
+    "בן סלי׳ אלקאפח is the patronymic and the surname; the abbreviated form is kept as written.",
+    "יצ״ו is an abbreviated blessing in the optative: 'may his Rock keep him and give him life'."
+   ],
+   "note": "The signature as in the decisions for this work.",
+   "commentary": []
+  },
+  {
+   "ref": "1:10",
+   "english": "The Publisher's Introduction.",
+   "literal": "the-introduction of-the-publisher",
+   "tokens": [
+    {
+     "id": "1:10.1",
+     "gloss": "the introduction"
+    },
+    {
+     "id": "1:10.2",
+     "gloss": "the publisher",
+     "note": "המו״ל is an abbreviation of המוציא לאור, \"the one who brings out to the light\", i.e. the publisher. The publisher's voice runs through 1:10 to 1:13."
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:10.1",
+      "1:10.2"
+     ],
+     "english": "The Publisher's Introduction.",
+     "literal": "the-introduction of-the-publisher"
+    }
+   ],
+   "grammar": [
+    "הקדמת המו״ל is a construct chain: 'the introduction of the publisher'.",
+    "The heading is in the publisher's voice, not the author's (see the decisions)."
+   ],
+   "commentary": []
+  },
+  {
+   "ref": "1:11",
+   "english": "The book The Wars of the LORD makes known the way of the truths of His unity, may He be blessed, according to the Torah and its interpreters, our Rabbis of blessed memory, in the Mishnah, in the Talmud, Bavli and Yerushalmi, and the Midrashim of our Rabbis of blessed memory, and in accordance with the view of the Geonim, Rabbi Saadia Gaon, and Rabbeinu Bachya in Chovot ha-Levavot, and Rabbi Yehuda Halevi in his poems, and in the Kuzari, the Rambam, the Semag (Sefer Mitzvot Gadol) and the author of the Ikkarim, of blessed memory, and as is accepted by every Jew. In it is a severe warning not to worship any created thing, in accordance with the tradition of all our prophets and all our sages, the Tannaim, the Amoraim, the Geonim and the early decisors, from the mouth of Moses, Aaron and the elders, not to deviate from them and not to add to them.",
+   "literal": "the-book the-wars-of the-LORD that-makes-known the-way-of the-truths-of His-unity may-He-be-blessed according-to the-Torah and-its-interpreters our-Rabbis-of-blessed-memory in-the-Mishnah and-in-the-Talmud Bavli and-Yerushalmi and-the-Midrashim-of our-Rabbis-of-blessed-memory and-in-accordance-with the-Geonim Rabbi-Saadia-Gaon and-Rabbeinu Bachya in-Chovot-ha-Levavot and-Rabbi Yehuda Halevi in-his-poems and-in-the-Kuzari the-Rambam and-the-Semag and-the-author-of the-Ikkarim of-blessed-memory and-as-is-accepted by every man-of Israel and-in-it a-warning severe that-not to-worship any created-thing in-accordance-with the-tradition-of all our-prophets and-all our-sages the-Tannaim and-the-Amoraim and-the-Geonim and-the-decisors the-early from-the-mouth-of Moses and-Aaron and-the-elders not to-deviate from-them and-not to-add to-them",
+   "tokens": [
+    {
+     "id": "1:11.1",
+     "gloss": "the book",
+     "note": "The title: The Wars of the LORD (Num 21:14), as the title page gives it."
+    },
+    {
+     "id": "1:11.2",
+     "gloss": "the wars of"
+    },
+    {
+     "id": "1:11.3",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "1:11.4",
+     "gloss": "that makes known"
+    },
+    {
+     "id": "1:11.5",
+     "gloss": "the way of"
+    },
+    {
+     "id": "1:11.6",
+     "gloss": "the truths of"
+    },
+    {
+     "id": "1:11.7",
+     "gloss": "His unity"
+    },
+    {
+     "id": "1:11.8",
+     "gloss": "may He be blessed"
+    },
+    {
+     "id": "1:11.9",
+     "gloss": "according to"
+    },
+    {
+     "id": "1:11.10",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "1:11.11",
+     "gloss": "and its interpreters"
+    },
+    {
+     "id": "1:11.12",
+     "gloss": "our Rabbis of blessed memory"
+    },
+    {
+     "id": "1:11.13",
+     "gloss": "in the Mishnah"
+    },
+    {
+     "id": "1:11.14",
+     "gloss": "and in the Talmud"
+    },
+    {
+     "id": "1:11.15",
+     "gloss": "Bavli",
+     "note": "Bavli: the Babylonian Talmud."
+    },
+    {
+     "id": "1:11.16",
+     "gloss": "and the Yerushalmi",
+     "note": "Yerushalmi: the Jerusalem Talmud."
+    },
+    {
+     "id": "1:11.17",
+     "gloss": "and the Midrashim of"
+    },
+    {
+     "id": "1:11.18",
+     "gloss": "our Rabbis of blessed memory"
+    },
+    {
+     "id": "1:11.19",
+     "gloss": "and in accordance with"
+    },
+    {
+     "id": "1:11.20",
+     "gloss": "the Geonim"
+    },
+    {
+     "id": "1:11.21",
+     "gloss": "Rabbi Saadia Gaon"
+    },
+    {
+     "id": "1:11.22",
+     "gloss": "and Rabbeinu"
+    },
+    {
+     "id": "1:11.23",
+     "gloss": "Bachya"
+    },
+    {
+     "id": "1:11.24",
+     "gloss": "in Chovot"
+    },
+    {
+     "id": "1:11.25",
+     "gloss": "ha-Levavot",
+     "note": "Chovot ha-Levavot, \"Duties of the Hearts\", by Rabbeinu Bachya."
+    },
+    {
+     "id": "1:11.26",
+     "gloss": "and Rabbi"
+    },
+    {
+     "id": "1:11.27",
+     "gloss": "Yehuda"
+    },
+    {
+     "id": "1:11.28",
+     "gloss": "Halevi",
+     "note": "Yehuda Halevi, poet and author of the Kuzari."
+    },
+    {
+     "id": "1:11.29",
+     "gloss": "in his poems"
+    },
+    {
+     "id": "1:11.30",
+     "gloss": "and in the Kuzari",
+     "note": "The Kuzari, Halevi's dialogue set at the court of the Khazar king."
+    },
+    {
+     "id": "1:11.31",
+     "gloss": "the Rambam"
+    },
+    {
+     "id": "1:11.32",
+     "gloss": "and the Semag (Sefer Mitzvot Gadol)",
+     "note": "Semag: the acronym סמ״ג, expanded as Sefer Mitzvot Gadol, the medieval code of the commandments."
+    },
+    {
+     "id": "1:11.33",
+     "gloss": "and the author of"
+    },
+    {
+     "id": "1:11.34",
+     "gloss": "the Ikkarim",
+     "note": "Ikkarim: 'Principles', the book of the principles of faith."
+    },
+    {
+     "id": "1:11.35",
+     "gloss": "of blessed memory"
+    },
+    {
+     "id": "1:11.36",
+     "gloss": "and as is accepted"
+    },
+    {
+     "id": "1:11.37",
+     "gloss": "by"
+    },
+    {
+     "id": "1:11.38",
+     "gloss": "every"
+    },
+    {
+     "id": "1:11.39",
+     "gloss": "man"
+    },
+    {
+     "id": "1:11.40",
+     "gloss": "Israel"
+    },
+    {
+     "id": "1:11.41",
+     "gloss": "and in it"
+    },
+    {
+     "id": "1:11.42",
+     "gloss": "a warning"
+    },
+    {
+     "id": "1:11.43",
+     "gloss": "severe"
+    },
+    {
+     "id": "1:11.44",
+     "gloss": "that not"
+    },
+    {
+     "id": "1:11.45",
+     "gloss": "to worship"
+    },
+    {
+     "id": "1:11.46",
+     "gloss": "any"
+    },
+    {
+     "id": "1:11.47",
+     "gloss": "created thing"
+    },
+    {
+     "id": "1:11.48",
+     "gloss": "in accordance with"
+    },
+    {
+     "id": "1:11.49",
+     "gloss": "the tradition of",
+     "note": "The Hebrew is the word for Kabbalah. The author claims it here, for the chain of tradition from the prophets and sages, not for the Kabbalists."
+    },
+    {
+     "id": "1:11.50",
+     "gloss": "all"
+    },
+    {
+     "id": "1:11.51",
+     "gloss": "our prophets"
+    },
+    {
+     "id": "1:11.52",
+     "gloss": "and all"
+    },
+    {
+     "id": "1:11.53",
+     "gloss": "our sages"
+    },
+    {
+     "id": "1:11.54",
+     "gloss": "the Tannaim"
+    },
+    {
+     "id": "1:11.55",
+     "gloss": "the Amoraim"
+    },
+    {
+     "id": "1:11.56",
+     "gloss": "and the Geonim"
+    },
+    {
+     "id": "1:11.57",
+     "gloss": "and the decisors"
+    },
+    {
+     "id": "1:11.58",
+     "gloss": "the early"
+    },
+    {
+     "id": "1:11.59",
+     "gloss": "from the mouth of",
+     "note": "From the mouth of: the chain Moses, Aaron and the elders."
+    },
+    {
+     "id": "1:11.60",
+     "gloss": "Moses"
+    },
+    {
+     "id": "1:11.61",
+     "gloss": "and Aaron"
+    },
+    {
+     "id": "1:11.62",
+     "gloss": "and the elders"
+    },
+    {
+     "id": "1:11.63",
+     "gloss": "not"
+    },
+    {
+     "id": "1:11.64",
+     "gloss": "to deviate"
+    },
+    {
+     "id": "1:11.65",
+     "gloss": "from them"
+    },
+    {
+     "id": "1:11.66",
+     "gloss": "and not"
+    },
+    {
+     "id": "1:11.67",
+     "gloss": "to add"
+    },
+    {
+     "id": "1:11.68",
+     "gloss": "to them"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:11.1",
+      "1:11.2",
+      "1:11.3"
+     ],
+     "english": "The book The Wars of the LORD",
+     "literal": "the-book the-wars-of the-LORD"
+    },
+    {
+     "tokens": [
+      "1:11.4",
+      "1:11.5",
+      "1:11.6",
+      "1:11.7",
+      "1:11.8"
+     ],
+     "english": "makes known the way of the truths of His unity, may He be blessed,",
+     "literal": "that-makes-known the-way-of the-truths-of His-unity may-He-be-blessed"
+    },
+    {
+     "tokens": [
+      "1:11.9",
+      "1:11.10",
+      "1:11.11",
+      "1:11.12"
+     ],
+     "english": "according to the Torah and its interpreters, our Rabbis of blessed memory,",
+     "literal": "according-to the-Torah and-its-interpreters our-Rabbis-of-blessed-memory"
+    },
+    {
+     "tokens": [
+      "1:11.13",
+      "1:11.14",
+      "1:11.15",
+      "1:11.16"
+     ],
+     "english": "in the Mishnah, in the Talmud, Bavli and Yerushalmi,",
+     "literal": "in-the-Mishnah and-in-the-Talmud Bavli and-Yerushalmi"
+    },
+    {
+     "tokens": [
+      "1:11.17",
+      "1:11.18"
+     ],
+     "english": "and the Midrashim of our Rabbis of blessed memory,",
+     "literal": "and-the-Midrashim-of our-Rabbis-of-blessed-memory"
+    },
+    {
+     "tokens": [
+      "1:11.19",
+      "1:11.20",
+      "1:11.21"
+     ],
+     "english": "and in accordance with the view of the Geonim, Rabbi Saadia Gaon,",
+     "literal": "and-in-accordance-with the-Geonim Rabbi-Saadia-Gaon"
+    },
+    {
+     "tokens": [
+      "1:11.22",
+      "1:11.23",
+      "1:11.24",
+      "1:11.25"
+     ],
+     "english": "and Rabbeinu Bachya in Chovot ha-Levavot,",
+     "literal": "and-our-Rabbi Bahya in-Chovot-ha-Levavot"
+    },
+    {
+     "tokens": [
+      "1:11.26",
+      "1:11.27",
+      "1:11.28",
+      "1:11.29"
+     ],
+     "english": "and Rabbi Yehuda Halevi in his poems,",
+     "literal": "and-Rabbi Yehuda Halevi in-his-poems"
+    },
+    {
+     "tokens": [
+      "1:11.30",
+      "1:11.31"
+     ],
+     "english": "and in the Kuzari, the Rambam,",
+     "literal": "and-in-the-Kuzari the-Rambam"
+    },
+    {
+     "tokens": [
+      "1:11.32",
+      "1:11.33",
+      "1:11.34",
+      "1:11.35"
+     ],
+     "english": "the Semag (Sefer Mitzvot Gadol) and the author of the Ikkarim, of blessed memory,",
+     "literal": "and-the-SeMaG and-the-author-of the-Ikkarim of-blessed-memory"
+    },
+    {
+     "tokens": [
+      "1:11.36",
+      "1:11.37",
+      "1:11.38",
+      "1:11.39",
+      "1:11.40"
+     ],
+     "english": "and as is accepted by every Jew.",
+     "literal": "and-as-is-accepted by every man-of Israel"
+    },
+    {
+     "tokens": [
+      "1:11.41",
+      "1:11.42",
+      "1:11.43",
+      "1:11.44",
+      "1:11.45",
+      "1:11.46",
+      "1:11.47"
+     ],
+     "english": "In it is a severe warning not to worship any created thing,",
+     "literal": "and-in-it a-warning severe that-not to-worship any created-thing"
+    },
+    {
+     "tokens": [
+      "1:11.48",
+      "1:11.49",
+      "1:11.50",
+      "1:11.51"
+     ],
+     "english": "in accordance with the tradition of all our prophets",
+     "literal": "in-accordance-with the-tradition-of all our-prophets"
+    },
+    {
+     "tokens": [
+      "1:11.52",
+      "1:11.53",
+      "1:11.54",
+      "1:11.55",
+      "1:11.56",
+      "1:11.57",
+      "1:11.58"
+     ],
+     "english": "and all our sages, the Tannaim, the Amoraim, the Geonim and the early decisors,",
+     "literal": "and-all our-sages the-Tannaim and-the-Amoraim and-the-Geonim and-the-decisors the-early"
+    },
+    {
+     "tokens": [
+      "1:11.59",
+      "1:11.60",
+      "1:11.61",
+      "1:11.62"
+     ],
+     "english": "from the mouth of Moses, Aaron and the elders,",
+     "literal": "from-the-mouth-of Moses and-Aaron and-the-elders"
+    },
+    {
+     "tokens": [
+      "1:11.63",
+      "1:11.64",
+      "1:11.65",
+      "1:11.66",
+      "1:11.67",
+      "1:11.68"
+     ],
+     "english": "not to deviate from them and not to add to them.",
+     "literal": "not to-deviate from-them and-not to-add to-them"
+    }
+   ],
+   "grammar": [
+    "The sentence has the subject ספר with the participle המודיע and the object דרך אמתות יחודו; the rest is a list of sources.",
+    "The list is joined by ו and by ב (in): 'in the Mishnah', 'in the Bavli', 'in the Kuzari'.",
+    "ובו אזהרה חמורה שלא לעבוד: 'and in it a severe warning not to worship'; the שלא clause gives the content of the warning.",
+    "כפי קבלת … מפי משה ואהרן וזקנים לא לזוז מהם ולא להוסיף עליהם: the chain of tradition ends in two infinitives, 'not to deviate' and 'not to add'."
+   ],
+   "note": "Title per the decisions (Q1). The Geonim and the Kuzari are given as context.",
+   "commentary": [],
+   "apparatus": [
+    "Num 21:14, the title: ספר מלחמת ה׳ (The Wars of the LORD), as the title page gives it."
+   ],
+   "context": [
+    "The Geonim (singular Gaon) were the heads of the Babylonian academies in the centuries after the Talmud.",
+    "The Kuzari is set at the court of the king of the Khazars."
+   ]
+  },
+  {
+   "ref": "1:12",
+   "english": "Know, esteemed reader, that you will not grasp the intention of this book, unless you read and study all of it, for its author made nights as days, and labored and scrutinized many books, and drew from seas and rivers proofs strong as a cast mirror, and the matters did not come from his own opinion. Therefore I ask you, esteemed reader, that you not come with the fist of Esau, in mockery, but with the voice of Jacob, and to consider the matters, and whoever is lacking in strength, let him be silent from speech and be still, and may El Shaddai give you mercy, and the merit of the author will protect us, and upon all His people Israel.",
+   "literal": "and-know to-you reader esteemed that not you-will-grasp the-intention-of the-book this unless after you-read and-you-study (object) all-of-it for its-author made nights as-days and-labored and-examined in-many books and-drew from-seas and-rivers proofs like-a-mirror molten strong and-not from-his-mind came-out the-matters and-therefore I-ask-you reader esteemed that-not you-come with-his-fist of Esau in-mockery but with-his-voice of Jacob and-to-consider the-matters and-whoever who-is lacking of-strength let-him-be-silent from-speech and-be-still and-El Shaddai may-he-grant to-you mercy and-the-merit-of the-author shall-shield us and-upon-all His-people Israel",
+   "tokens": [
+    {
+     "id": "1:12.1",
+     "gloss": "and know",
+     "note": "Imperative 'know', with 'to you'; the author addresses the reader."
+    },
+    {
+     "id": "1:12.2",
+     "gloss": "to you"
+    },
+    {
+     "id": "1:12.3",
+     "gloss": "reader"
+    },
+    {
+     "id": "1:12.4",
+     "gloss": "esteemed"
+    },
+    {
+     "id": "1:12.5",
+     "gloss": "that"
+    },
+    {
+     "id": "1:12.6",
+     "gloss": "not"
+    },
+    {
+     "id": "1:12.7",
+     "gloss": "you will grasp",
+     "note": "Second-person future with לא: 'you will not grasp'."
+    },
+    {
+     "id": "1:12.8",
+     "gloss": "the intention of"
+    },
+    {
+     "id": "1:12.9",
+     "gloss": "the book"
+    },
+    {
+     "id": "1:12.10",
+     "gloss": "this"
+    },
+    {
+     "id": "1:12.11",
+     "gloss": "unless"
+    },
+    {
+     "id": "1:12.12",
+     "gloss": "after"
+    },
+    {
+     "id": "1:12.13",
+     "gloss": "you read"
+    },
+    {
+     "id": "1:12.14",
+     "gloss": "and you study"
+    },
+    {
+     "id": "1:12.15",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "1:12.16",
+     "gloss": "all of it"
+    },
+    {
+     "id": "1:12.17",
+     "gloss": "for"
+    },
+    {
+     "id": "1:12.18",
+     "gloss": "its author"
+    },
+    {
+     "id": "1:12.19",
+     "gloss": "made"
+    },
+    {
+     "id": "1:12.20",
+     "gloss": "nights"
+    },
+    {
+     "id": "1:12.21",
+     "gloss": "as days"
+    },
+    {
+     "id": "1:12.22",
+     "gloss": "and labored"
+    },
+    {
+     "id": "1:12.23",
+     "gloss": "and examined"
+    },
+    {
+     "id": "1:12.24",
+     "gloss": "many"
+    },
+    {
+     "id": "1:12.25",
+     "gloss": "books"
+    },
+    {
+     "id": "1:12.26",
+     "gloss": "and drew"
+    },
+    {
+     "id": "1:12.27",
+     "gloss": "from seas"
+    },
+    {
+     "id": "1:12.28",
+     "gloss": "and rivers"
+    },
+    {
+     "id": "1:12.29",
+     "gloss": "proofs"
+    },
+    {
+     "id": "1:12.30",
+     "gloss": "like a mirror"
+    },
+    {
+     "id": "1:12.31",
+     "gloss": "molten",
+     "note": "מוצק: molten or cast metal; the mirror was of cast metal."
+    },
+    {
+     "id": "1:12.32",
+     "gloss": "strong"
+    },
+    {
+     "id": "1:12.33",
+     "gloss": "and not"
+    },
+    {
+     "id": "1:12.34",
+     "gloss": "from his mind"
+    },
+    {
+     "id": "1:12.35",
+     "gloss": "came out"
+    },
+    {
+     "id": "1:12.36",
+     "gloss": "the matters"
+    },
+    {
+     "id": "1:12.37",
+     "gloss": "and therefore"
+    },
+    {
+     "id": "1:12.38",
+     "gloss": "I ask you"
+    },
+    {
+     "id": "1:12.39",
+     "gloss": "reader"
+    },
+    {
+     "id": "1:12.40",
+     "gloss": "esteemed"
+    },
+    {
+     "id": "1:12.41",
+     "gloss": "that not"
+    },
+    {
+     "id": "1:12.42",
+     "gloss": "you come"
+    },
+    {
+     "id": "1:12.43",
+     "gloss": "with his fist",
+     "note": "באגרונו: the word אגרון is not an attested word for \"fist\"; it is probably a misprint for אגרופו (\"his fist\"), the usual image beside \"the voice of Jacob\" (Gen 27:22). Translated \"fist\"."
+    },
+    {
+     "id": "1:12.44",
+     "gloss": "of"
+    },
+    {
+     "id": "1:12.45",
+     "gloss": "Esau"
+    },
+    {
+     "id": "1:12.46",
+     "gloss": "in mockery"
+    },
+    {
+     "id": "1:12.47",
+     "gloss": "but"
+    },
+    {
+     "id": "1:12.48",
+     "gloss": "with his voice"
+    },
+    {
+     "id": "1:12.49",
+     "gloss": "of"
+    },
+    {
+     "id": "1:12.50",
+     "gloss": "Jacob"
+    },
+    {
+     "id": "1:12.51",
+     "gloss": "and to consider"
+    },
+    {
+     "id": "1:12.52",
+     "gloss": "the matters"
+    },
+    {
+     "id": "1:12.53",
+     "gloss": "and whoever"
+    },
+    {
+     "id": "1:12.54",
+     "gloss": "who is"
+    },
+    {
+     "id": "1:12.55",
+     "gloss": "lacking"
+    },
+    {
+     "id": "1:12.56",
+     "gloss": "of strength"
+    },
+    {
+     "id": "1:12.57",
+     "gloss": "let him be silent"
+    },
+    {
+     "id": "1:12.58",
+     "gloss": "from speech"
+    },
+    {
+     "id": "1:12.59",
+     "gloss": "and be still"
+    },
+    {
+     "id": "1:12.60",
+     "gloss": "and El",
+     "note": "El Shaddai, a divine name."
+    },
+    {
+     "id": "1:12.61",
+     "gloss": "Shaddai"
+    },
+    {
+     "id": "1:12.62",
+     "gloss": "may he grant"
+    },
+    {
+     "id": "1:12.63",
+     "gloss": "to you"
+    },
+    {
+     "id": "1:12.64",
+     "gloss": "mercy"
+    },
+    {
+     "id": "1:12.65",
+     "gloss": "and the merit of"
+    },
+    {
+     "id": "1:12.66",
+     "gloss": "the author"
+    },
+    {
+     "id": "1:12.67",
+     "gloss": "shall shield"
+    },
+    {
+     "id": "1:12.68",
+     "gloss": "us"
+    },
+    {
+     "id": "1:12.69",
+     "gloss": "and upon all",
+     "note": "ע״כ is read as ועל כל, 'and upon all', here. Elsewhere it closes a quotation or means 'thus far'."
+    },
+    {
+     "id": "1:12.70",
+     "gloss": "His people"
+    },
+    {
+     "id": "1:12.71",
+     "gloss": "Israel"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "1:12.1",
+      "1:12.2",
+      "1:12.3",
+      "1:12.4"
+     ],
+     "english": "Know, esteemed reader,",
+     "literal": "and-know to-you reader esteemed"
+    },
+    {
+     "tokens": [
+      "1:12.5",
+      "1:12.6",
+      "1:12.7",
+      "1:12.8",
+      "1:12.9",
+      "1:12.10"
+     ],
+     "english": "that you will not grasp the intention of this book,",
+     "literal": "that not you-will-grasp the-intention-of the-book this"
+    },
+    {
+     "tokens": [
+      "1:12.11",
+      "1:12.12",
+      "1:12.13",
+      "1:12.14",
+      "1:12.15",
+      "1:12.16"
+     ],
+     "english": "unless you read and study all of it,",
+     "literal": "unless after you-read and-you-study (object) all-of-it"
+    },
+    {
+     "tokens": [
+      "1:12.17",
+      "1:12.18",
+      "1:12.19",
+      "1:12.20",
+      "1:12.21"
+     ],
+     "english": "for its author made nights as days,",
+     "literal": "for its-author made nights as-days"
+    },
+    {
+     "tokens": [
+      "1:12.22",
+      "1:12.23",
+      "1:12.24",
+      "1:12.25"
+     ],
+     "english": "and labored and scrutinized many books,",
+     "literal": "and-labored and-examined in-many books"
+    },
+    {
+     "tokens": [
+      "1:12.26",
+      "1:12.27",
+      "1:12.28",
+      "1:12.29",
+      "1:12.30",
+      "1:12.31",
+      "1:12.32"
+     ],
+     "english": "and drew from seas and rivers proofs strong as a cast mirror,",
+     "literal": "and-drew from-seas and-rivers proofs like-a-mirror molten strong"
+    },
+    {
+     "tokens": [
+      "1:12.33",
+      "1:12.34",
+      "1:12.35",
+      "1:12.36"
+     ],
+     "english": "and the matters did not come from his own opinion.",
+     "literal": "and-not from-his-mind came-out the-matters"
+    },
+    {
+     "tokens": [
+      "1:12.37",
+      "1:12.38",
+      "1:12.39",
+      "1:12.40"
+     ],
+     "english": "Therefore I ask you, esteemed reader,",
+     "literal": "and-therefore I-ask-you reader esteemed"
+    },
+    {
+     "tokens": [
+      "1:12.41",
+      "1:12.42",
+      "1:12.43",
+      "1:12.44",
+      "1:12.45",
+      "1:12.46"
+     ],
+     "english": "that you not come with the fist of Esau, in mockery,",
+     "literal": "that-not you-come with-his-fist of Esau in-mockery"
+    },
+    {
+     "tokens": [
+      "1:12.47",
+      "1:12.48",
+      "1:12.49",
+      "1:12.50",
+      "1:12.51",
+      "1:12.52"
+     ],
+     "english": "but with the voice of Jacob, and to consider the matters,",
+     "literal": "but with-his-voice of Jacob and-to-consider the-matters"
+    },
+    {
+     "tokens": [
+      "1:12.53",
+      "1:12.54",
+      "1:12.55",
+      "1:12.56",
+      "1:12.57",
+      "1:12.58",
+      "1:12.59"
+     ],
+     "english": "and whoever is lacking in strength, let him be silent from speech and be still,",
+     "literal": "and-whoever who-is lacking of-strength let-him-be-silent from-speech and-be-still"
+    },
+    {
+     "tokens": [
+      "1:12.60",
+      "1:12.61",
+      "1:12.62",
+      "1:12.63",
+      "1:12.64"
+     ],
+     "english": "and may El Shaddai give you mercy,",
+     "literal": "and-El Shaddai may-he-grant to-you mercy"
+    },
+    {
+     "tokens": [
+      "1:12.65",
+      "1:12.66",
+      "1:12.67",
+      "1:12.68"
+     ],
+     "english": "and the merit of the author will protect us,",
+     "literal": "and-the-merit-of the-author shall-shield us"
+    },
+    {
+     "tokens": [
+      "1:12.69",
+      "1:12.70",
+      "1:12.71"
+     ],
+     "english": "and upon all His people Israel.",
+     "literal": "and-upon-all His-people Israel"
+    }
+   ],
+   "grammar": [
+    "ודע לך: an imperative with 'to you', 'know'; the author addresses the reader in the second person throughout.",
+    "לא תשיג כונת הספר הזה אלא אחרי שתקרא: 'you will not grasp… unless after you read…'.",
+    "כי מחברו עשה לילות כימים: the second כי is causal, 'for its author made nights as days'.",
+    "ולכן אבקשך שלא תבוא באגרונו של עשו בהתולים אלא בקולו של יעקב: the request contrasts the fist of Esau with the voice of Jacob."
+   ],
+   "note": "The allusion to Gen 27:22 is kept without quotation marks; the author's 'fist' is kept where the verse has 'hands'.",
+   "commentary": [],
+   "apparatus": [
+    "Gen 27:22, an allusion without quotation marks: 'the voice is the voice of Jacob, but the hands are the hands of Esau'. The author writes אגרון (fist) where the verse has ידים (hands).",
+    "Job 37:18, embedded without quotation marks: חזקים כראי מוצק (\"strong as a cast mirror\"). The author puts כראי מוצק before חזקים.",
+    "Gen 43:14, embedded without quotation marks: ואל שדי יתן לכם רחמים (\"and may El Shaddai grant you mercy\"). The author stops the verse there, without לפני האיש."
+   ]
+  }
+ ]
+}

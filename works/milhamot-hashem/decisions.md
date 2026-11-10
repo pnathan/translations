@@ -483,6 +483,40 @@ senses are allowed, chosen by the use.
 - `context` may carry a short note on a story the author cites (the Pardes
   story), without a reference unless the author gives one.
 
+## Rulings from the pilot reviews, by the editor
+
+- ריבה / לרבות (the derashic ribbui): "include", never "multiply".
+- מורא: "fear" (so that "the fear of Heaven" and Deut 6:13 connect).
+- An abbreviation with an apostrophe that no ruling covers (ורבי'): expand it
+  by the author's usage, with a note; if two expansions are possible, the
+  shorter, and the other in `apparatus`.
+- אבות: lower-case "fathers", "patriarchs" in a token note. Never a title.
+- ד' + number after a cited book: keep the numerals ("4, 12") with a note
+  when the author writes דף in full nearby.
+- הל' X after the Rambam: "Laws of X", noting once per unit that it is the
+  Mishneh Torah. No reference the author lacks.
+- Poetic phrases quoted from a verse (הר המור): translate the words
+  ("the mountain of myrrh"); a note names the verse's referent.
+- ר"א: "Rabbi Eleazar" only where the paragraph names him, else "R. A." with
+  a note.
+- ולא אמרינן כלא חד (1:7) and באגרונו (1:12) are for the owner: the main
+  English stands as translated; the reviewer's alternative is in `readings`
+  / `apparatus`.
+
+## Translator's checklist (the pilot reviews found these faults most often)
+
+Before running the check, read your English once against the Hebrew:
+1. Every Hebrew word has its English; none is added (no "who received it",
+   no parenthetical explanation). A full stop in the Hebrew is a full stop in
+   the English, and every sentence has a main clause.
+2. Recognise Bible verses, even in pieces (Isa 62:6, Job 37:18, Gen 43:14,
+   Lev 26:44); translate them from the Hebrew, check each verb's form, and
+   list the verse in `apparatus`.
+3. Use the fixed renderings of this file for every term, name and abbreviation.
+4. A passive participle is passive; a participle is not a perfect.
+5. Capitalise only what the file capitalises. Begin each sentence with a
+   capital.
+
 ## Owner's answers and defaults
 
 Answered by the owner (2026-11-10):
