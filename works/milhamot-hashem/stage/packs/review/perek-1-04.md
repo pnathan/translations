@@ -1,0 +1,1122 @@
+# Review pack: milhamot-hashem perek-1-04 (Milchamot ha-Shem 1:5–1:6)
+
+Brief: `briefs/review.md`. Write: `works/milhamot-hashem/stage/review/perek-1-04.json`. Check: `go run ./cmd/tr check milhamot-hashem perek-1-04`.
+
+## Milchamot ha-Shem 1:5
+
+Hebrew (Wikisource): וקראתי שם הספר מלחמות ה' על יחודו כי הפילסוף מחבר הספר הזהר קלקל עלינו את אמיתת ייחוד השי״ת, ונמשכו אחריו כמה רבנים וגדולים בתורה בעצימת עינים ועליהם אמר שלמה בחכמתו, כי רבים חללים הפילה ועצומים כל הרוגיה כמו שדרשו רז״ל (סנהדרין רי״ף) כי רבים חללים הפילה זה תלמיד שלא הגיע להוראה ומורה (כמו שעינינו רואות כמה מחברים דמעיילי פילא בקופא דמחטא ממיעוט בקיאותם) ועצומים כל הרוגיה זה תלמיד שהגיע להוראה ואינו מורה, (שאינו נותן לב להורות לאחרים כהלכה, ועצומים לשון ועוצם עיניו רש״י ז״ל) וכל שכן אם משדל אחרים לעסוק בספ' החיצון ס' הזהר ואינו נותן לב להבין הסתירה רק הולך בעצימת עין השכל ומכשיל אחרים באמונה כוזבת שעליו נאמר ועצומים כל הרוגיה ועובר על ולפני עור לא תתן מכשול, ושגגת תלמוד עולה זדון, והוא חוטא ומחטיא את הרבים וחטא הרבים תלוי בו.
+
+| id | word | punctuation after |
+|---|---|---|
+| 1:5.1 | וקראתי |  |
+| 1:5.2 | שם |  |
+| 1:5.3 | הספר |  |
+| 1:5.4 | מלחמות |  |
+| 1:5.5 | ה | ' |
+| 1:5.6 | על |  |
+| 1:5.7 | יחודו |  |
+| 1:5.8 | כי |  |
+| 1:5.9 | הפילסוף |  |
+| 1:5.10 | מחבר |  |
+| 1:5.11 | הספר |  |
+| 1:5.12 | הזהר |  |
+| 1:5.13 | קלקל |  |
+| 1:5.14 | עלינו |  |
+| 1:5.15 | את |  |
+| 1:5.16 | אמיתת |  |
+| 1:5.17 | ייחוד |  |
+| 1:5.18 | השי״ת | , |
+| 1:5.19 | ונמשכו |  |
+| 1:5.20 | אחריו |  |
+| 1:5.21 | כמה |  |
+| 1:5.22 | רבנים |  |
+| 1:5.23 | וגדולים |  |
+| 1:5.24 | בתורה |  |
+| 1:5.25 | בעצימת |  |
+| 1:5.26 | עינים |  |
+| 1:5.27 | ועליהם |  |
+| 1:5.28 | אמר |  |
+| 1:5.29 | שלמה |  |
+| 1:5.30 | בחכמתו | , |
+| 1:5.31 | כי |  |
+| 1:5.32 | רבים |  |
+| 1:5.33 | חללים |  |
+| 1:5.34 | הפילה |  |
+| 1:5.35 | ועצומים |  |
+| 1:5.36 | כל |  |
+| 1:5.37 | הרוגיה |  |
+| 1:5.38 | כמו |  |
+| 1:5.39 | שדרשו |  |
+| 1:5.40 | רז״ל |  |
+| 1:5.41 | סנהדרין |  |
+| 1:5.42 | רי״ף | ) |
+| 1:5.43 | כי |  |
+| 1:5.44 | רבים |  |
+| 1:5.45 | חללים |  |
+| 1:5.46 | הפילה |  |
+| 1:5.47 | זה |  |
+| 1:5.48 | תלמיד |  |
+| 1:5.49 | שלא |  |
+| 1:5.50 | הגיע |  |
+| 1:5.51 | להוראה |  |
+| 1:5.52 | ומורה |  |
+| 1:5.53 | כמו |  |
+| 1:5.54 | שעינינו |  |
+| 1:5.55 | רואות |  |
+| 1:5.56 | כמה |  |
+| 1:5.57 | מחברים |  |
+| 1:5.58 | דמעיילי |  |
+| 1:5.59 | פילא |  |
+| 1:5.60 | בקופא |  |
+| 1:5.61 | דמחטא |  |
+| 1:5.62 | ממיעוט |  |
+| 1:5.63 | בקיאותם | ) |
+| 1:5.64 | ועצומים |  |
+| 1:5.65 | כל |  |
+| 1:5.66 | הרוגיה |  |
+| 1:5.67 | זה |  |
+| 1:5.68 | תלמיד |  |
+| 1:5.69 | שהגיע |  |
+| 1:5.70 | להוראה |  |
+| 1:5.71 | ואינו |  |
+| 1:5.72 | מורה | , |
+| 1:5.73 | שאינו |  |
+| 1:5.74 | נותן |  |
+| 1:5.75 | לב |  |
+| 1:5.76 | להורות |  |
+| 1:5.77 | לאחרים |  |
+| 1:5.78 | כהלכה | , |
+| 1:5.79 | ועצומים |  |
+| 1:5.80 | לשון |  |
+| 1:5.81 | ועוצם |  |
+| 1:5.82 | עיניו |  |
+| 1:5.83 | רש״י |  |
+| 1:5.84 | ז״ל | ) |
+| 1:5.85 | וכל |  |
+| 1:5.86 | שכן |  |
+| 1:5.87 | אם |  |
+| 1:5.88 | משדל |  |
+| 1:5.89 | אחרים |  |
+| 1:5.90 | לעסוק |  |
+| 1:5.91 | בספ | ' |
+| 1:5.92 | החיצון |  |
+| 1:5.93 | ס | ' |
+| 1:5.94 | הזהר |  |
+| 1:5.95 | ואינו |  |
+| 1:5.96 | נותן |  |
+| 1:5.97 | לב |  |
+| 1:5.98 | להבין |  |
+| 1:5.99 | הסתירה |  |
+| 1:5.100 | רק |  |
+| 1:5.101 | הולך |  |
+| 1:5.102 | בעצימת |  |
+| 1:5.103 | עין |  |
+| 1:5.104 | השכל |  |
+| 1:5.105 | ומכשיל |  |
+| 1:5.106 | אחרים |  |
+| 1:5.107 | באמונה |  |
+| 1:5.108 | כוזבת |  |
+| 1:5.109 | שעליו |  |
+| 1:5.110 | נאמר |  |
+| 1:5.111 | ועצומים |  |
+| 1:5.112 | כל |  |
+| 1:5.113 | הרוגיה |  |
+| 1:5.114 | ועובר |  |
+| 1:5.115 | על |  |
+| 1:5.116 | ולפני |  |
+| 1:5.117 | עור |  |
+| 1:5.118 | לא |  |
+| 1:5.119 | תתן |  |
+| 1:5.120 | מכשול | , |
+| 1:5.121 | ושגגת |  |
+| 1:5.122 | תלמוד |  |
+| 1:5.123 | עולה |  |
+| 1:5.124 | זדון | , |
+| 1:5.125 | והוא |  |
+| 1:5.126 | חוטא |  |
+| 1:5.127 | ומחטיא |  |
+| 1:5.128 | את |  |
+| 1:5.129 | הרבים |  |
+| 1:5.130 | וחטא |  |
+| 1:5.131 | הרבים |  |
+| 1:5.132 | תלוי |  |
+| 1:5.133 | בו | . |
+
+
+### Translation under review (1:5)
+
+English: And I named the book The Wars of the LORD for His unity, because the philosopher, the author of the Zohar, spoiled for us the truth of the unity of the Name, may He be blessed, and several rabbis and great men of the Torah followed him with eyes shut. And of them Solomon said in his wisdom: "For she has cast down many slain, and mighty are all her slain." As our Rabbis of blessed memory expounded (Sanhedrin, Ri'f): "For she has cast down many slain" this is a student who has not reached instruction and teaches, (as we see with our own eyes how many authors who bring an elephant through the eye of a needle, from the scantness of their expertise) "and mighty are all her slain" is a student who has reached instruction and does not teach (who does not give heart to teach others correctly; "mighty" is the word of "and he shuts his eyes", Rashi of blessed memory). And all the more so, if he entices others to occupy themselves with the external book, the Zohar, and does not give heart to understand the contradiction, but walks with the eye of reason shut, and makes others stumble in a false faith, of whom it is said, "and mighty are all her slain"; and transgresses and before the blind you shall not place a stumbling block; and error in study counts as wilful sin, and he sins and causes the many to sin, and the sin of the many hangs on him.
+
+Literal: and-I-named the-name-of the-book The-Wars-of the-LORD for His-unity because the-philosopher the-author-of the-book the-Zohar spoiled for-us object-marker the-truth-of the-unity-of the-Name-may-He-be-blessed and-followed after-him several rabbis and-great-men of-the-Torah with-shut eyes and-of-them said Solomon in-his-wisdom for many slain she-has-cast-down and-mighty-are all her-slain as expounded our-Rabbis-of-blessed-memory Sanhedrin Rif for many slain she-has-cast-down this-is a-student who-has-not reached instruction and-teaches as our-eyes see how-many authors who-bring-in an-elephant through-the-eye-of a-needle from-the-scantness-of their-expertise and-mighty-are all her-slain this-is a-student who-has-reached instruction and-does-not teach who-does-not give heart to-teach to-others correctly mighty the-word-of and-he-shuts his-eyes Rashi of-blessed-memory and-all the-more-so if entices others to-occupy-themselves in-the-book external the-book the-Zohar and-does-not give heart to-understand the-contradiction but walks with-shut the-eye of-reason and-makes-stumble others in-a-faith false of-whom it-is-said and-mighty-are all her-slain and-transgresses governs-the-verb-above and-before the-blind not you-shall-place a-stumbling-block and-the-error-of study counts-as wilful-sin and-he sins and-causes object-marker the-many and-the-sin of-the-many hangs on-him
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 1:5.1 | and I named |  |  |  |
+| 1:5.2 | the name of |  |  |  |
+| 1:5.3 | the book |  |  |  |
+| 1:5.4 | The Wars of |  |  |  |
+| 1:5.5 | the LORD |  |  | The Tetragrammaton written as ה׳; read here as the name in the title of the book, so 'the LORD'. |
+| 1:5.6 | for |  |  |  |
+| 1:5.7 | His unity |  |  |  |
+| 1:5.8 | because |  |  |  |
+| 1:5.9 | the philosopher |  |  |  |
+| 1:5.10 | the author of |  |  |  |
+| 1:5.11 | the book |  |  |  |
+| 1:5.12 | the Zohar |  |  |  |
+| 1:5.13 | spoiled |  |  |  |
+| 1:5.14 | for us |  |  |  |
+| 1:5.15 | (object marker) |  |  |  |
+| 1:5.16 | the truth of |  |  |  |
+| 1:5.17 | the unity of |  |  |  |
+| 1:5.18 | the Name, may He be blessed |  |  |  |
+| 1:5.19 | and followed |  |  |  |
+| 1:5.20 | after him |  |  |  |
+| 1:5.21 | several |  |  |  |
+| 1:5.22 | rabbis |  |  |  |
+| 1:5.23 | and great men |  |  |  |
+| 1:5.24 | of the Torah |  |  |  |
+| 1:5.25 | with shut |  |  |  |
+| 1:5.26 | eyes |  |  |  |
+| 1:5.27 | and of them |  |  |  |
+| 1:5.28 | said |  |  |  |
+| 1:5.29 | Solomon |  |  |  |
+| 1:5.30 | in his wisdom |  |  |  |
+| 1:5.31 | for |  |  |  |
+| 1:5.32 | many |  |  |  |
+| 1:5.33 | slain |  |  |  |
+| 1:5.34 | she has cast down |  |  |  |
+| 1:5.35 | and mighty are |  |  |  |
+| 1:5.36 | all |  |  |  |
+| 1:5.37 | her slain |  |  |  |
+| 1:5.38 | as |  |  |  |
+| 1:5.39 | expounded |  |  |  |
+| 1:5.40 | our Rabbis of blessed memory |  |  |  |
+| 1:5.41 | Sanhedrin |  |  |  |
+| 1:5.42 | Ri'f |  |  | Ri'f: the reference as the author writes it (Sanhedrin, רי״ף); not converted or completed. |
+| 1:5.43 | for |  |  |  |
+| 1:5.44 | many |  |  |  |
+| 1:5.45 | slain |  |  |  |
+| 1:5.46 | she has cast down |  |  |  |
+| 1:5.47 | this is |  |  |  |
+| 1:5.48 | a student |  |  |  |
+| 1:5.49 | who has not |  |  |  |
+| 1:5.50 | reached |  |  |  |
+| 1:5.51 | instruction |  |  |  |
+| 1:5.52 | and teaches |  |  |  |
+| 1:5.53 | as |  |  |  |
+| 1:5.54 | our eyes |  |  |  |
+| 1:5.55 | see |  |  |  |
+| 1:5.56 | how many |  |  |  |
+| 1:5.57 | authors |  |  |  |
+| 1:5.58 | who bring in |  |  |  |
+| 1:5.59 | an elephant |  |  |  |
+| 1:5.60 | through the eye of |  |  |  |
+| 1:5.61 | a needle |  |  |  |
+| 1:5.62 | from the scantness of |  |  |  |
+| 1:5.63 | their expertise |  |  |  |
+| 1:5.64 | and mighty are |  |  |  |
+| 1:5.65 | all |  |  |  |
+| 1:5.66 | her slain |  |  |  |
+| 1:5.67 | this is |  |  |  |
+| 1:5.68 | a student |  |  |  |
+| 1:5.69 | who has reached |  |  |  |
+| 1:5.70 | instruction |  |  |  |
+| 1:5.71 | and does not |  |  |  |
+| 1:5.72 | teach |  |  |  |
+| 1:5.73 | who does not |  |  |  |
+| 1:5.74 | give |  |  |  |
+| 1:5.75 | heart |  |  |  |
+| 1:5.76 | to teach |  |  |  |
+| 1:5.77 | to others |  |  |  |
+| 1:5.78 | correctly |  |  |  |
+| 1:5.79 | mighty |  |  | Rashi reads ועצומים as 'shutting' (from עוצם עיניו), so the verse's 'mighty' is glossed by 'shut eyes' earlier in the paragraph. |
+| 1:5.80 | the word of |  |  |  |
+| 1:5.81 | and he shuts |  |  |  |
+| 1:5.82 | his eyes |  |  |  |
+| 1:5.83 | Rashi |  |  |  |
+| 1:5.84 | of blessed memory |  |  |  |
+| 1:5.85 | and all |  |  |  |
+| 1:5.86 | the more so |  |  |  |
+| 1:5.87 | if |  |  |  |
+| 1:5.88 | entices |  |  |  |
+| 1:5.89 | others |  |  |  |
+| 1:5.90 | to occupy themselves |  |  |  |
+| 1:5.91 | in the book |  |  |  |
+| 1:5.92 | external |  |  |  |
+| 1:5.93 | the book |  |  |  |
+| 1:5.94 | the Zohar |  |  |  |
+| 1:5.95 | and does not |  |  |  |
+| 1:5.96 | give |  |  |  |
+| 1:5.97 | heart |  |  |  |
+| 1:5.98 | to understand |  |  |  |
+| 1:5.99 | the contradiction |  |  |  |
+| 1:5.100 | but |  |  |  |
+| 1:5.101 | walks |  |  |  |
+| 1:5.102 | with shut |  |  |  |
+| 1:5.103 | the eye |  |  |  |
+| 1:5.104 | of reason |  |  |  |
+| 1:5.105 | and makes stumble |  |  |  |
+| 1:5.106 | others |  |  |  |
+| 1:5.107 | in a faith |  |  |  |
+| 1:5.108 | false |  |  |  |
+| 1:5.109 | of whom |  |  |  |
+| 1:5.110 | it is said |  |  |  |
+| 1:5.111 | and mighty are |  |  |  |
+| 1:5.112 | all |  |  |  |
+| 1:5.113 | her slain |  |  |  |
+| 1:5.114 | and transgresses |  |  |  |
+| 1:5.115 | (governs the verb above) |  |  |  |
+| 1:5.116 | and before |  |  |  |
+| 1:5.117 | the blind |  |  |  |
+| 1:5.118 | not |  |  |  |
+| 1:5.119 | you shall place |  |  |  |
+| 1:5.120 | a stumbling block |  |  |  |
+| 1:5.121 | and the error of |  |  | A Talmudic maxim given without an introductory formula, so it takes no quotation marks. |
+| 1:5.122 | study |  |  |  |
+| 1:5.123 | counts as |  |  |  |
+| 1:5.124 | wilful sin |  |  |  |
+| 1:5.125 | and he |  |  |  |
+| 1:5.126 | sins |  |  |  |
+| 1:5.127 | and causes |  |  |  |
+| 1:5.128 | (object marker) |  |  |  |
+| 1:5.129 | the many |  |  |  |
+| 1:5.130 | and the sin |  |  |  |
+| 1:5.131 | of the many |  |  |  |
+| 1:5.132 | hangs |  |  |  |
+| 1:5.133 | on him |  |  |  |
+
+Phrases:
+- 1:5.1 1:5.2 1:5.3 1:5.4 1:5.5 | And I named the book The Wars of the LORD | and-I-named the-name-of the-book The-Wars-of the-LORD
+- 1:5.6 1:5.7 | for His unity, | for His-unity
+- 1:5.8 1:5.9 1:5.10 1:5.11 1:5.12 | because the philosopher, the author of the Zohar, | because the-philosopher the-author-of the-book the-Zohar
+- 1:5.13 1:5.14 | spoiled for us | spoiled for-us
+- 1:5.15 | - | object-marker
+- 1:5.16 1:5.17 1:5.18 | the truth of the unity of the Name, may He be blessed, | the-truth-of the-unity-of the-Name-may-He-be-blessed
+- 1:5.19 1:5.20 1:5.21 1:5.22 1:5.23 1:5.24 | and several rabbis and great men of the Torah followed him | and-followed after-him several rabbis and-great-men of-the-Torah
+- 1:5.25 1:5.26 | with eyes shut. | with-shut eyes
+- 1:5.27 1:5.28 1:5.29 1:5.30 | And of them Solomon said in his wisdom: | and-of-them said Solomon in-his-wisdom
+- 1:5.31 1:5.32 1:5.33 1:5.34 1:5.35 1:5.36 1:5.37 | "For she has cast down many slain, and mighty are all her slain." | for many slain she-has-cast-down and-mighty-are all her-slain
+- 1:5.38 1:5.39 1:5.40 1:5.41 1:5.42 | As our Rabbis of blessed memory expounded (Sanhedrin, Ri'f): | as expounded our-Rabbis-of-blessed-memory Sanhedrin Rif
+- 1:5.43 1:5.44 1:5.45 1:5.46 | "For she has cast down many slain" | for many slain she-has-cast-down
+- 1:5.47 1:5.48 1:5.49 1:5.50 1:5.51 1:5.52 | this is a student who has not reached instruction and teaches, | this-is a-student who-has-not reached instruction and-teaches
+- 1:5.53 1:5.54 1:5.55 1:5.56 1:5.57 | (as we see with our own eyes how many authors | as our-eyes see how-many authors
+- 1:5.58 1:5.59 1:5.60 1:5.61 1:5.62 1:5.63 | who bring an elephant through the eye of a needle, from the scantness of their expertise) | who-bring-in an-elephant through-the-eye-of a-needle from-the-scantness-of their-expertise
+- 1:5.64 1:5.65 1:5.66 | "and mighty are all her slain" | and-mighty-are all her-slain
+- 1:5.67 1:5.68 1:5.69 1:5.70 1:5.71 1:5.72 | is a student who has reached instruction and does not teach | this-is a-student who-has-reached instruction and-does-not teach
+- 1:5.73 1:5.74 1:5.75 1:5.76 1:5.77 1:5.78 | (who does not give heart to teach others correctly; | who-does-not give heart to-teach to-others correctly
+- 1:5.79 1:5.80 1:5.81 1:5.82 1:5.83 1:5.84 | "mighty" is the word of "and he shuts his eyes", Rashi of blessed memory). | mighty the-word-of and-he-shuts his-eyes Rashi of-blessed-memory
+- 1:5.85 1:5.86 1:5.87 1:5.88 1:5.89 1:5.90 | And all the more so, if he entices others to occupy themselves | and-all the-more-so if entices others to-occupy-themselves
+- 1:5.91 1:5.92 1:5.93 1:5.94 | with the external book, the Zohar, | in-the-book external the-book the-Zohar
+- 1:5.95 1:5.96 1:5.97 1:5.98 1:5.99 | and does not give heart to understand the contradiction, | and-does-not give heart to-understand the-contradiction
+- 1:5.100 1:5.101 1:5.102 1:5.103 1:5.104 1:5.105 1:5.106 1:5.107 1:5.108 | but walks with the eye of reason shut, and makes others stumble in a false faith, | but walks with-shut the-eye of-reason and-makes-stumble others in-a-faith false
+- 1:5.109 1:5.110 | of whom it is said, | of-whom it-is-said
+- 1:5.111 1:5.112 1:5.113 | "and mighty are all her slain"; | and-mighty-are all her-slain
+- 1:5.114 1:5.115 | and transgresses | and-transgresses governs-the-verb-above
+- 1:5.116 1:5.117 1:5.118 1:5.119 1:5.120 | and before the blind you shall not place a stumbling block; | and-before the-blind not you-shall-place a-stumbling-block
+- 1:5.121 1:5.122 1:5.123 1:5.124 | and error in study counts as wilful sin, | and-the-error-of study counts-as wilful-sin
+- 1:5.125 1:5.126 1:5.127 | and he sins and causes | and-he sins and-causes
+- 1:5.128 | - | object-marker
+- 1:5.129 | the many to sin, | the-many
+- 1:5.130 1:5.131 1:5.132 1:5.133 | and the sin of the many hangs on him. | and-the-sin of-the-many hangs on-him
+
+Grammar notes:
+- וקראתי is a perfect with waw ('and I called'); with שם הספר it means 'named the book'.
+- The clause from כי to the end of 1:5 gives the author's reason: the philosopher spoiled the truth of the unity, and the followers went after him with eyes shut.
+- כי רבים חללים הפילה is Prov 7:26, said of the 'strange woman' of Prov 7 and here applied to the author of the Zohar; הפילה is a perfect, third feminine singular.
+- Each זה ('this is') in the Talmudic exposition introduces a rabbinic identification of one of the verse's words; the English keeps 'this is' at each point.
+
+Translator's note: The author's own Hebrew, with the Talmud's gloss on Prov 7:26 translated as his paraphrase. The English keeps his lists of 'this is' and 'who' clauses in order.
+
+Commentary rulings:
+- apparatus: Prov 7:26, quoted: 'For she has cast down many slain, and mighty are all her slain' (translated from the verse as he quotes it).
+- apparatus: Lev 19:14, embedded as 'ולפני עור לא תתן מכשול' (no quotation marks: an embedded verse).
+- apparatus: Sanhedrin 'Ri'f' as written; the Talmudic gloss on the verse is his paraphrase and is not marked as a quotation.
+
+## Milchamot ha-Shem 1:6
+
+Hebrew (Wikisource): ועל אמונה החיצונה הלזו של הפילסוף מחבר הזהר דרשו רז״ל (ילקוט פרשת קדושים ומדרש הגדול שם ורמב״ם בס' המצות לאוין י') אל תפנו אל האלילים ואלהי אם אתה פונה אחרים (לכבדם ספורנו) סופך לעשותם אלוהות ע״כ, וכך אירע באמונת הפילסוף מחבר הזהר כי הלומדים הראשונים אשר למדו בו בחשבם שהוא לרשב״י התנא, חשבו לישב דבריו ולקרות את הפרצופים כלים, והחשיבום וכיבדו אותם והבאים אחריהם עשו אותם אלוהות כמחשבת הפילסוף המחבר וקיבלום עליהם באלוהות כמו שיתבאר בפנים וכן דרשו רז״ל בפסוק יין ושכר אל תשת וז״ל ר' חייא פתח פקודי ה' ישרים וכתיב ביין יתהלך במישרים וכתיב משמחי לב וכתיב ויין ישמח לבב אנוש מה היין הזה משמח את הלב כך דברי תורה משמחין את הלב מה היין הזה השותה ממנו יותר מצרכו לסוף מקיא את הכל כך דברי תורה העוסק בהן ומחשב בהן יותר מדאי סוף שהוא יוצא למינות ע״כ (מדרש הגדול פרשת שמיני פסוק יין ושכר) כדבר הזה עשה הפילסוף נביא השקר מחבר הזהר לתור אחרי לבבו לחשב בדברי תורה יותר מדאי בדרכים הרחוקים מן האמת, ורחוקים מאד מן המדות שקבלו חכמים איש מפי איש שהתורה נדרשת בהן והן הי״ג מדות דר' ישמעאל ול״ג מדות דר' יוסי הגלילי דאגדתא כמו שיראה המעיין הנבון והסית והדיח לחכמים ישרי לב ההולכים לתומם, להאמינו לשקריו שנגלה לו הקב״ה הנקרא אצלו סבא דסבין ומשה רבינו ‏ע״ה ואליהו וגילו לו סתרים של מינות שאסור לחשב בהן אפי' בבית הכסא והבטיח לעוסק בתורתו בלי מבין לשכר רב יותר מגופי תורה כדי להעור עיני חכמים ולסתום דרך העיון בדבריו שלא להבין את נכליו ולהגדיל מעלת העוסקים בתורתו החדשה המלאה אלילים שונים בעצמותם ופעוליהם מבלי להקפיד על תוספת ורבוי באלהינו המיוחד מכל שאר האחדים ולא יתנו לב איך הקפידה תורה על בל תוסיף בין בתפילין בין במזוזה בין בארבעה מינין שבלולב וכן בשאר מצות אע״פ שנותן חמש הפרשיות בעור אחד והוא מחברן להיות אחד, וכן אם מוסיף במזוזה פרשה אחת אע״פ שקלף מחברן לחיות אחד לא אמרינן כלא חד וכן בציצית ובאגודת ארבעה מינין אם הוסיף מין חמישי באגודה פסל ולא אמרינן כלא חד.
+
+| id | word | punctuation after |
+|---|---|---|
+| 1:6.1 | ועל |  |
+| 1:6.2 | אמונה |  |
+| 1:6.3 | החיצונה |  |
+| 1:6.4 | הלזו |  |
+| 1:6.5 | של |  |
+| 1:6.6 | הפילסוף |  |
+| 1:6.7 | מחבר |  |
+| 1:6.8 | הזהר |  |
+| 1:6.9 | דרשו |  |
+| 1:6.10 | רז״ל |  |
+| 1:6.11 | ילקוט |  |
+| 1:6.12 | פרשת |  |
+| 1:6.13 | קדושים |  |
+| 1:6.14 | ומדרש |  |
+| 1:6.15 | הגדול |  |
+| 1:6.16 | שם |  |
+| 1:6.17 | ורמב״ם |  |
+| 1:6.18 | בס | ' |
+| 1:6.19 | המצות |  |
+| 1:6.20 | לאוין |  |
+| 1:6.21 | י | ') |
+| 1:6.22 | אל |  |
+| 1:6.23 | תפנו |  |
+| 1:6.24 | אל |  |
+| 1:6.25 | האלילים |  |
+| 1:6.26 | ואלהי |  |
+| 1:6.27 | אם |  |
+| 1:6.28 | אתה |  |
+| 1:6.29 | פונה |  |
+| 1:6.30 | אחרים |  |
+| 1:6.31 | לכבדם |  |
+| 1:6.32 | ספורנו | ) |
+| 1:6.33 | סופך |  |
+| 1:6.34 | לעשותם |  |
+| 1:6.35 | אלוהות |  |
+| 1:6.36 | ע״כ | , |
+| 1:6.37 | וכך |  |
+| 1:6.38 | אירע |  |
+| 1:6.39 | באמונת |  |
+| 1:6.40 | הפילסוף |  |
+| 1:6.41 | מחבר |  |
+| 1:6.42 | הזהר |  |
+| 1:6.43 | כי |  |
+| 1:6.44 | הלומדים |  |
+| 1:6.45 | הראשונים |  |
+| 1:6.46 | אשר |  |
+| 1:6.47 | למדו |  |
+| 1:6.48 | בו |  |
+| 1:6.49 | בחשבם |  |
+| 1:6.50 | שהוא |  |
+| 1:6.51 | לרשב״י |  |
+| 1:6.52 | התנא | , |
+| 1:6.53 | חשבו |  |
+| 1:6.54 | לישב |  |
+| 1:6.55 | דבריו |  |
+| 1:6.56 | ולקרות |  |
+| 1:6.57 | את |  |
+| 1:6.58 | הפרצופים |  |
+| 1:6.59 | כלים | , |
+| 1:6.60 | והחשיבום |  |
+| 1:6.61 | וכיבדו |  |
+| 1:6.62 | אותם |  |
+| 1:6.63 | והבאים |  |
+| 1:6.64 | אחריהם |  |
+| 1:6.65 | עשו |  |
+| 1:6.66 | אותם |  |
+| 1:6.67 | אלוהות |  |
+| 1:6.68 | כמחשבת |  |
+| 1:6.69 | הפילסוף |  |
+| 1:6.70 | המחבר |  |
+| 1:6.71 | וקיבלום |  |
+| 1:6.72 | עליהם |  |
+| 1:6.73 | באלוהות |  |
+| 1:6.74 | כמו |  |
+| 1:6.75 | שיתבאר |  |
+| 1:6.76 | בפנים |  |
+| 1:6.77 | וכן |  |
+| 1:6.78 | דרשו |  |
+| 1:6.79 | רז״ל |  |
+| 1:6.80 | בפסוק |  |
+| 1:6.81 | יין |  |
+| 1:6.82 | ושכר |  |
+| 1:6.83 | אל |  |
+| 1:6.84 | תשת |  |
+| 1:6.85 | וז״ל |  |
+| 1:6.86 | ר | ' |
+| 1:6.87 | חייא |  |
+| 1:6.88 | פתח |  |
+| 1:6.89 | פקודי |  |
+| 1:6.90 | ה | ' |
+| 1:6.91 | ישרים |  |
+| 1:6.92 | וכתיב |  |
+| 1:6.93 | ביין |  |
+| 1:6.94 | יתהלך |  |
+| 1:6.95 | במישרים |  |
+| 1:6.96 | וכתיב |  |
+| 1:6.97 | משמחי |  |
+| 1:6.98 | לב |  |
+| 1:6.99 | וכתיב |  |
+| 1:6.100 | ויין |  |
+| 1:6.101 | ישמח |  |
+| 1:6.102 | לבב |  |
+| 1:6.103 | אנוש |  |
+| 1:6.104 | מה |  |
+| 1:6.105 | היין |  |
+| 1:6.106 | הזה |  |
+| 1:6.107 | משמח |  |
+| 1:6.108 | את |  |
+| 1:6.109 | הלב |  |
+| 1:6.110 | כך |  |
+| 1:6.111 | דברי |  |
+| 1:6.112 | תורה |  |
+| 1:6.113 | משמחין |  |
+| 1:6.114 | את |  |
+| 1:6.115 | הלב |  |
+| 1:6.116 | מה |  |
+| 1:6.117 | היין |  |
+| 1:6.118 | הזה |  |
+| 1:6.119 | השותה |  |
+| 1:6.120 | ממנו |  |
+| 1:6.121 | יותר |  |
+| 1:6.122 | מצרכו |  |
+| 1:6.123 | לסוף |  |
+| 1:6.124 | מקיא |  |
+| 1:6.125 | את |  |
+| 1:6.126 | הכל |  |
+| 1:6.127 | כך |  |
+| 1:6.128 | דברי |  |
+| 1:6.129 | תורה |  |
+| 1:6.130 | העוסק |  |
+| 1:6.131 | בהן |  |
+| 1:6.132 | ומחשב |  |
+| 1:6.133 | בהן |  |
+| 1:6.134 | יותר |  |
+| 1:6.135 | מדאי |  |
+| 1:6.136 | סוף |  |
+| 1:6.137 | שהוא |  |
+| 1:6.138 | יוצא |  |
+| 1:6.139 | למינות |  |
+| 1:6.140 | ע״כ |  |
+| 1:6.141 | מדרש |  |
+| 1:6.142 | הגדול |  |
+| 1:6.143 | פרשת |  |
+| 1:6.144 | שמיני |  |
+| 1:6.145 | פסוק |  |
+| 1:6.146 | יין |  |
+| 1:6.147 | ושכר | ) |
+| 1:6.148 | כדבר |  |
+| 1:6.149 | הזה |  |
+| 1:6.150 | עשה |  |
+| 1:6.151 | הפילסוף |  |
+| 1:6.152 | נביא |  |
+| 1:6.153 | השקר |  |
+| 1:6.154 | מחבר |  |
+| 1:6.155 | הזהר |  |
+| 1:6.156 | לתור |  |
+| 1:6.157 | אחרי |  |
+| 1:6.158 | לבבו |  |
+| 1:6.159 | לחשב |  |
+| 1:6.160 | בדברי |  |
+| 1:6.161 | תורה |  |
+| 1:6.162 | יותר |  |
+| 1:6.163 | מדאי |  |
+| 1:6.164 | בדרכים |  |
+| 1:6.165 | הרחוקים |  |
+| 1:6.166 | מן |  |
+| 1:6.167 | האמת | , |
+| 1:6.168 | ורחוקים |  |
+| 1:6.169 | מאד |  |
+| 1:6.170 | מן |  |
+| 1:6.171 | המדות |  |
+| 1:6.172 | שקבלו |  |
+| 1:6.173 | חכמים |  |
+| 1:6.174 | איש |  |
+| 1:6.175 | מפי |  |
+| 1:6.176 | איש |  |
+| 1:6.177 | שהתורה |  |
+| 1:6.178 | נדרשת |  |
+| 1:6.179 | בהן |  |
+| 1:6.180 | והן |  |
+| 1:6.181 | הי״ג |  |
+| 1:6.182 | מדות |  |
+| 1:6.183 | דר | ' |
+| 1:6.184 | ישמעאל |  |
+| 1:6.185 | ול״ג |  |
+| 1:6.186 | מדות |  |
+| 1:6.187 | דר | ' |
+| 1:6.188 | יוסי |  |
+| 1:6.189 | הגלילי |  |
+| 1:6.190 | דאגדתא |  |
+| 1:6.191 | כמו |  |
+| 1:6.192 | שיראה |  |
+| 1:6.193 | המעיין |  |
+| 1:6.194 | הנבון |  |
+| 1:6.195 | והסית |  |
+| 1:6.196 | והדיח |  |
+| 1:6.197 | לחכמים |  |
+| 1:6.198 | ישרי |  |
+| 1:6.199 | לב |  |
+| 1:6.200 | ההולכים |  |
+| 1:6.201 | לתומם | , |
+| 1:6.202 | להאמינו |  |
+| 1:6.203 | לשקריו |  |
+| 1:6.204 | שנגלה |  |
+| 1:6.205 | לו |  |
+| 1:6.206 | הקב״ה |  |
+| 1:6.207 | הנקרא |  |
+| 1:6.208 | אצלו |  |
+| 1:6.209 | סבא |  |
+| 1:6.210 | דסבין |  |
+| 1:6.211 | ומשה |  |
+| 1:6.212 | רבינו |  |
+| 1:6.213 | ע״ה |  |
+| 1:6.214 | ואליהו |  |
+| 1:6.215 | וגילו |  |
+| 1:6.216 | לו |  |
+| 1:6.217 | סתרים |  |
+| 1:6.218 | של |  |
+| 1:6.219 | מינות |  |
+| 1:6.220 | שאסור |  |
+| 1:6.221 | לחשב |  |
+| 1:6.222 | בהן |  |
+| 1:6.223 | אפי | ' |
+| 1:6.224 | בבית |  |
+| 1:6.225 | הכסא |  |
+| 1:6.226 | והבטיח |  |
+| 1:6.227 | לעוסק |  |
+| 1:6.228 | בתורתו |  |
+| 1:6.229 | בלי |  |
+| 1:6.230 | מבין |  |
+| 1:6.231 | לשכר |  |
+| 1:6.232 | רב |  |
+| 1:6.233 | יותר |  |
+| 1:6.234 | מגופי |  |
+| 1:6.235 | תורה |  |
+| 1:6.236 | כדי |  |
+| 1:6.237 | להעור |  |
+| 1:6.238 | עיני |  |
+| 1:6.239 | חכמים |  |
+| 1:6.240 | ולסתום |  |
+| 1:6.241 | דרך |  |
+| 1:6.242 | העיון |  |
+| 1:6.243 | בדבריו |  |
+| 1:6.244 | שלא |  |
+| 1:6.245 | להבין |  |
+| 1:6.246 | את |  |
+| 1:6.247 | נכליו |  |
+| 1:6.248 | ולהגדיל |  |
+| 1:6.249 | מעלת |  |
+| 1:6.250 | העוסקים |  |
+| 1:6.251 | בתורתו |  |
+| 1:6.252 | החדשה |  |
+| 1:6.253 | המלאה |  |
+| 1:6.254 | אלילים |  |
+| 1:6.255 | שונים |  |
+| 1:6.256 | בעצמותם |  |
+| 1:6.257 | ופעוליהם |  |
+| 1:6.258 | מבלי |  |
+| 1:6.259 | להקפיד |  |
+| 1:6.260 | על |  |
+| 1:6.261 | תוספת |  |
+| 1:6.262 | ורבוי |  |
+| 1:6.263 | באלהינו |  |
+| 1:6.264 | המיוחד |  |
+| 1:6.265 | מכל |  |
+| 1:6.266 | שאר |  |
+| 1:6.267 | האחדים |  |
+| 1:6.268 | ולא |  |
+| 1:6.269 | יתנו |  |
+| 1:6.270 | לב |  |
+| 1:6.271 | איך |  |
+| 1:6.272 | הקפידה |  |
+| 1:6.273 | תורה |  |
+| 1:6.274 | על |  |
+| 1:6.275 | בל |  |
+| 1:6.276 | תוסיף |  |
+| 1:6.277 | בין |  |
+| 1:6.278 | בתפילין |  |
+| 1:6.279 | בין |  |
+| 1:6.280 | במזוזה |  |
+| 1:6.281 | בין |  |
+| 1:6.282 | בארבעה |  |
+| 1:6.283 | מינין |  |
+| 1:6.284 | שבלולב |  |
+| 1:6.285 | וכן |  |
+| 1:6.286 | בשאר |  |
+| 1:6.287 | מצות |  |
+| 1:6.288 | אע״פ |  |
+| 1:6.289 | שנותן |  |
+| 1:6.290 | חמש |  |
+| 1:6.291 | הפרשיות |  |
+| 1:6.292 | בעור |  |
+| 1:6.293 | אחד |  |
+| 1:6.294 | והוא |  |
+| 1:6.295 | מחברן |  |
+| 1:6.296 | להיות |  |
+| 1:6.297 | אחד | , |
+| 1:6.298 | וכן |  |
+| 1:6.299 | אם |  |
+| 1:6.300 | מוסיף |  |
+| 1:6.301 | במזוזה |  |
+| 1:6.302 | פרשה |  |
+| 1:6.303 | אחת |  |
+| 1:6.304 | אע״פ |  |
+| 1:6.305 | שקלף |  |
+| 1:6.306 | מחברן |  |
+| 1:6.307 | לחיות |  |
+| 1:6.308 | אחד |  |
+| 1:6.309 | לא |  |
+| 1:6.310 | אמרינן |  |
+| 1:6.311 | כלא |  |
+| 1:6.312 | חד |  |
+| 1:6.313 | וכן |  |
+| 1:6.314 | בציצית |  |
+| 1:6.315 | ובאגודת |  |
+| 1:6.316 | ארבעה |  |
+| 1:6.317 | מינין |  |
+| 1:6.318 | אם |  |
+| 1:6.319 | הוסיף |  |
+| 1:6.320 | מין |  |
+| 1:6.321 | חמישי |  |
+| 1:6.322 | באגודה |  |
+| 1:6.323 | פסל |  |
+| 1:6.324 | ולא |  |
+| 1:6.325 | אמרינן |  |
+| 1:6.326 | כלא |  |
+| 1:6.327 | חד | . |
+
+
+### Translation under review (1:6)
+
+English: And concerning this external faith of the philosopher, the author of the Zohar, our Rabbis of blessed memory expounded (Yalkut, Parashat Kedoshim, and the Midrash ha-Gadol there, and the Rambam in Sefer ha-Mitzvot, negative commandment 10): "Do not turn to the idols, and gods; if you turn to others (Sforno: to honor them), your end is to make them divinities." Thus far. And so it befell the faith of the philosopher, the author of the Zohar, for the early students who learned from it, thinking that he was Rabbi Shimon bar Yochai the Tanna, they thought to make sense of his words; and to call the partzufim vessels, and they esteemed them and honored them, and those who came after them made them divinities, according to the thought of the philosopher, the author, and accepted them upon themselves as divinities, as will be explained within. And likewise our Rabbis of blessed memory expounded in the verse: wine and strong drink you shall not drink, and these are his words: "Rabbi Chiya opened: 'The precepts of the LORD are right; and it is written: 'wine goes down smoothly'; and it is written: 'rejoicing the heart'; and it is written: 'and wine gladdens the heart of man.' Just as this wine gladdens the heart, so the words of Torah gladden the heart; just as this wine, one who drinks of it more than his need in the end vomits everything; so the words of Torah, one who occupies himself with them and reasons about them more than enough, in the end that he goes out into heresy." Thus far. (Midrash ha-Gadol, Parashat Shemini, verse 'wine and strong drink'). In this way did the philosopher, the false prophet, the author of the Zohar, to search after his heart to reckon in the words of Torah too much, in paths far from the truth, and very far from the rules that the Sages received, a man from a man, by which the Torah is expounded, and these are the thirteen rules of Rabbi Ishmael and the thirty-two rules of Rabbi Yose the Galilean, for the Aggadah, as the discerning, attentive reader will see and he enticed and seduced the sages, the upright of heart, who walk in their simplicity, to believe his lies: that there was revealed to him the Holy One, blessed be He, whom he calls the Elder of Elders, and Moses our teacher, peace be upon him, and Elijah, and they revealed to him secrets of heresy, which it is forbidden to reckon about them, even in the lavatory; and he promised one who occupies himself with his Torah without understanding, a reward greater than the plain text of the Torah, in order to blind the eyes of the sages and to stop up the way of study in his words so as not to understand his machinations, and to magnify the merit of those who occupy themselves with his new Torah, full of various idols in their essences, and their activities, without being particular about the addition and multiplicity, in our God, the Unique, above all other ones; and do not consider how the Torah was strict about the prohibition: 'you shall not add' whether in tefillin, or in a mezuzah, or in the four species of the lulav, and likewise in the other commandments, even though he puts five sections on one parchment and he joins them to make one, And likewise, if he adds one section to a mezuzah, even though he scraped their join so that they are one, we do not say 'as though it were not one'. and likewise in tzitzit, and in the bundle of four species, if he added a fifth species to the bundle, it is disqualified; and we do not say 'as though it were not one'.
+
+Literal: and-concerning the-faith the-external this of the-philosopher author-of the-Zohar expounded our-Rabbis-of-blessed-memory Yalkut Parashat Kedoshim and-Midrash ha-Gadol there and-the-Rambam in-the-book of-Commandments negative-commandment 10 do-not turn to the-idols and-gods if you turn to-others to-honor-them Sforno your-end to-make-them divinities thus-far and-so it-befell the-faith-of the-philosopher author-of the-Zohar for the-students the-early who learned from-it thinking that-he Rabbi-Shimon-bar-Yochai the-Tanna they-thought to-make-sense-of his-words and-to-call object-marker the-partzufim vessels and-they-esteemed-them and-honored them and-those-who-came after-them made them divinities according-to-the-thought-of the-philosopher the-author and-accepted-them upon-themselves as-divinities as will-be-explained within and-likewise expounded our-Rabbis-of-blessed-memory in-the-verse wine and-strong-drink do-not drink and-these-are-his-words Rabbi Chiya opened the-precepts-of the-LORD are-right and-it-is-written of-wine goes-down smoothly and-it-is-written rejoicing the-heart and-it-is-written and-wine gladdens the-heart of-man just-as the-wine this gladdens object-marker the-heart so the-words-of Torah gladden object-marker the-heart just-as the-wine this who-drinks of-it more than-his-need in-the-end vomits object-marker everything so the-words-of Torah one-who-occupies-himself with-them and-reasons about-them too-much beyond-measure in-the-end that goes-out into-heresy thus-far Midrash ha-Gadol Parashat Shemini verse wine and-strong-drink in-this-way this did the-philosopher prophet of-falsehood the-author-of the-Zohar to-search after his-heart to-reckon in-the-words-of Torah too beyond-measure in-paths distant from the-truth and-far very from the-rules that-they-received the-Sages a-man from-the-mouth-of a-man by-which-the-Torah is-expounded by-them and-these-are the-thirteen rules of-Rabbi Ishmael and-the-thirty-two rules of-Rabbi Yose the-Galilean for-the-Aggadah as will-see the-attentive-reader the-discerning and-enticed and-seduced the-sages the-upright of-heart who-walk in-their-simplicity to-believe-him his-lies that-there-was-revealed to-him the-Holy-One-blessed-be-He who-is-called by-him the-Elder of-Elders and-Moses our-teacher peace-be-upon-him and-Elijah and-they-revealed to-him secrets of heresy which-is-forbidden to-reckon about-them even in-the lavatory and-promised one-who-occupies-himself with-his-Torah without understanding a-reward great more than-the-plain-text-of the-Torah in-order-to to-blind the-eyes-of the-sages and-to-stop-up the-way of-study in-his-words so-that-not to-understand object-marker his-machinations and-to-magnify the-merit-of those-who-occupy-themselves with-his-Torah new full-of idols various in-their-essences and-their-activities without being-particular about addition and-multiplicity in-our-God the-Unique above-all other ones and-not they-give heart how was-strict the-Torah about the-prohibition of-adding whether in-tefillin or in-a-mezuzah or in-the-four species of-the-lulav and-likewise in-the-other commandments even-though he-puts five sections on one and-he joins-them to-make one and-likewise if adds to-a-mezuzah a-section one even-though he-scraped their-join so-that-they-are one we-do-not say as-if-not one and-likewise in-tzitzit and-in-the-bundle-of four species if he-added a-species fifth to-the-bundle it-is-disqualified and-not we-say as-if-not one
+
+| token | gloss | lex | sense | note |
+|---|---|---|---|---|
+| 1:6.1 | and concerning |  |  |  |
+| 1:6.2 | the faith |  |  |  |
+| 1:6.3 | the external |  |  |  |
+| 1:6.4 | this |  |  |  |
+| 1:6.5 | of |  |  |  |
+| 1:6.6 | the philosopher |  |  |  |
+| 1:6.7 | author of |  |  |  |
+| 1:6.8 | the Zohar |  |  |  |
+| 1:6.9 | expounded |  |  |  |
+| 1:6.10 | our Rabbis of blessed memory |  |  |  |
+| 1:6.11 | Yalkut |  |  |  |
+| 1:6.12 | Parashat |  |  |  |
+| 1:6.13 | Kedoshim |  |  |  |
+| 1:6.14 | and Midrash |  |  |  |
+| 1:6.15 | ha-Gadol |  |  |  |
+| 1:6.16 | there |  |  |  |
+| 1:6.17 | and the Rambam |  |  |  |
+| 1:6.18 | in the book |  |  |  |
+| 1:6.19 | of Commandments |  |  |  |
+| 1:6.20 | negative commandment |  |  |  |
+| 1:6.21 | 10 |  |  |  |
+| 1:6.22 | do not |  |  |  |
+| 1:6.23 | turn |  |  |  |
+| 1:6.24 | to |  |  |  |
+| 1:6.25 | the idols |  |  |  |
+| 1:6.26 | and gods |  |  | The author's wording of the quoted Lev 19:4 ('ואלהי אם אתה פונה'), followed as he gives it; see apparatus. |
+| 1:6.27 | if |  |  |  |
+| 1:6.28 | you |  |  |  |
+| 1:6.29 | turn |  |  |  |
+| 1:6.30 | to others |  |  |  |
+| 1:6.31 | to honor them |  |  |  |
+| 1:6.32 | Sforno |  |  |  |
+| 1:6.33 | your end |  |  |  |
+| 1:6.34 | to make them |  |  |  |
+| 1:6.35 | divinities |  |  |  |
+| 1:6.36 | thus far |  |  | ע״כ closes the quotation: 'thus far'. |
+| 1:6.37 | and so |  |  |  |
+| 1:6.38 | it befell |  |  |  |
+| 1:6.39 | the faith of |  |  |  |
+| 1:6.40 | the philosopher |  |  |  |
+| 1:6.41 | author of |  |  |  |
+| 1:6.42 | the Zohar |  |  |  |
+| 1:6.43 | for |  |  |  |
+| 1:6.44 | the students |  |  |  |
+| 1:6.45 | the early |  |  |  |
+| 1:6.46 | who |  |  |  |
+| 1:6.47 | learned |  |  |  |
+| 1:6.48 | from it |  |  |  |
+| 1:6.49 | thinking |  |  |  |
+| 1:6.50 | that he |  |  |  |
+| 1:6.51 | Rabbi Shimon bar Yochai |  |  |  |
+| 1:6.52 | the Tanna |  |  |  |
+| 1:6.53 | they thought |  |  |  |
+| 1:6.54 | to make sense of |  |  |  |
+| 1:6.55 | his words |  |  |  |
+| 1:6.56 | and to call |  |  |  |
+| 1:6.57 | (object marker) |  |  |  |
+| 1:6.58 | the partzufim |  |  |  |
+| 1:6.59 | vessels |  |  |  |
+| 1:6.60 | and they esteemed them |  |  |  |
+| 1:6.61 | and honored |  |  |  |
+| 1:6.62 | them |  |  |  |
+| 1:6.63 | and those who came |  |  |  |
+| 1:6.64 | after them |  |  |  |
+| 1:6.65 | made |  |  |  |
+| 1:6.66 | them |  |  |  |
+| 1:6.67 | divinities |  |  |  |
+| 1:6.68 | according to the thought of |  |  |  |
+| 1:6.69 | the philosopher |  |  |  |
+| 1:6.70 | the author |  |  |  |
+| 1:6.71 | and accepted them |  |  |  |
+| 1:6.72 | upon themselves |  |  |  |
+| 1:6.73 | as divinities |  |  |  |
+| 1:6.74 | as |  |  |  |
+| 1:6.75 | will be explained |  |  |  |
+| 1:6.76 | within |  |  |  |
+| 1:6.77 | and likewise |  |  |  |
+| 1:6.78 | expounded |  |  |  |
+| 1:6.79 | our Rabbis of blessed memory |  |  |  |
+| 1:6.80 | in the verse |  |  |  |
+| 1:6.81 | wine |  |  |  |
+| 1:6.82 | and strong drink |  |  |  |
+| 1:6.83 | do not |  |  |  |
+| 1:6.84 | drink |  |  |  |
+| 1:6.85 | and these are his words |  |  | וז״ל introduces a quotation: 'and these are his words'. |
+| 1:6.86 | Rabbi |  |  |  |
+| 1:6.87 | Chiya |  |  |  |
+| 1:6.88 | opened |  |  |  |
+| 1:6.89 | the precepts of |  |  |  |
+| 1:6.90 | the LORD |  |  |  |
+| 1:6.91 | are right |  |  |  |
+| 1:6.92 | and it is written |  |  |  |
+| 1:6.93 | of wine |  |  |  |
+| 1:6.94 | goes down |  |  |  |
+| 1:6.95 | smoothly |  |  |  |
+| 1:6.96 | and it is written |  |  |  |
+| 1:6.97 | rejoicing |  |  |  |
+| 1:6.98 | the heart |  |  |  |
+| 1:6.99 | and it is written |  |  |  |
+| 1:6.100 | and wine |  |  |  |
+| 1:6.101 | gladdens |  |  |  |
+| 1:6.102 | the heart |  |  |  |
+| 1:6.103 | of man |  |  |  |
+| 1:6.104 | just as |  |  | מה ... כך: an analogy, 'just as ... so'. The Midrash sets the wine against the words of Torah. |
+| 1:6.105 | the wine |  |  |  |
+| 1:6.106 | this |  |  |  |
+| 1:6.107 | gladdens |  |  |  |
+| 1:6.108 | (object marker) |  |  |  |
+| 1:6.109 | the heart |  |  |  |
+| 1:6.110 | so |  |  |  |
+| 1:6.111 | the words of |  |  |  |
+| 1:6.112 | Torah |  |  |  |
+| 1:6.113 | gladden |  |  |  |
+| 1:6.114 | (object marker) |  |  |  |
+| 1:6.115 | the heart |  |  |  |
+| 1:6.116 | just as |  |  |  |
+| 1:6.117 | the wine |  |  |  |
+| 1:6.118 | this |  |  |  |
+| 1:6.119 | who drinks |  |  |  |
+| 1:6.120 | of it |  |  |  |
+| 1:6.121 | more |  |  |  |
+| 1:6.122 | than his need |  |  |  |
+| 1:6.123 | in the end |  |  |  |
+| 1:6.124 | vomits |  |  |  |
+| 1:6.125 | (object marker) |  |  |  |
+| 1:6.126 | everything |  |  |  |
+| 1:6.127 | so |  |  |  |
+| 1:6.128 | the words of |  |  |  |
+| 1:6.129 | Torah |  |  |  |
+| 1:6.130 | one who occupies himself |  |  |  |
+| 1:6.131 | with them |  |  |  |
+| 1:6.132 | and reasons |  |  |  |
+| 1:6.133 | about them |  |  |  |
+| 1:6.134 | too much |  |  |  |
+| 1:6.135 | beyond measure |  |  |  |
+| 1:6.136 | in the end |  |  |  |
+| 1:6.137 | that |  |  |  |
+| 1:6.138 | goes out |  |  |  |
+| 1:6.139 | into heresy |  |  |  |
+| 1:6.140 | thus far |  |  | ע״כ closes the Midrash quotation. |
+| 1:6.141 | Midrash |  |  |  |
+| 1:6.142 | ha-Gadol |  |  |  |
+| 1:6.143 | Parashat |  |  |  |
+| 1:6.144 | Shemini |  |  |  |
+| 1:6.145 | verse |  |  |  |
+| 1:6.146 | wine |  |  |  |
+| 1:6.147 | and strong drink |  |  |  |
+| 1:6.148 | in this way |  |  |  |
+| 1:6.149 | this |  |  |  |
+| 1:6.150 | did |  |  |  |
+| 1:6.151 | the philosopher |  |  |  |
+| 1:6.152 | prophet |  |  |  |
+| 1:6.153 | of falsehood |  |  |  |
+| 1:6.154 | the author of |  |  |  |
+| 1:6.155 | the Zohar |  |  |  |
+| 1:6.156 | to search |  |  |  |
+| 1:6.157 | after |  |  |  |
+| 1:6.158 | his heart |  |  |  |
+| 1:6.159 | to reckon |  |  |  |
+| 1:6.160 | in the words of |  |  |  |
+| 1:6.161 | Torah |  |  |  |
+| 1:6.162 | too |  |  |  |
+| 1:6.163 | beyond measure |  |  |  |
+| 1:6.164 | in paths |  |  |  |
+| 1:6.165 | distant |  |  |  |
+| 1:6.166 | from |  |  |  |
+| 1:6.167 | the truth |  |  |  |
+| 1:6.168 | and far |  |  |  |
+| 1:6.169 | very |  |  |  |
+| 1:6.170 | from |  |  |  |
+| 1:6.171 | the rules |  |  | Literally 'measures'; the hermeneutical rules, as in 1:5 and the decisions. |
+| 1:6.172 | that they received |  |  |  |
+| 1:6.173 | the Sages |  |  |  |
+| 1:6.174 | a man |  |  |  |
+| 1:6.175 | from the mouth of |  |  |  |
+| 1:6.176 | a man |  |  |  |
+| 1:6.177 | by which the Torah |  |  |  |
+| 1:6.178 | is expounded |  |  |  |
+| 1:6.179 | by them |  |  |  |
+| 1:6.180 | and these are |  |  |  |
+| 1:6.181 | the thirteen |  |  |  |
+| 1:6.182 | rules |  |  |  |
+| 1:6.183 | of Rabbi |  |  |  |
+| 1:6.184 | Ishmael |  |  |  |
+| 1:6.185 | and the thirty-two |  |  | ל״ג is written as the letters for thirty-three; the work renders thirty-two, as the decisions give for Rabbi Yose the Galilean's rules. |
+| 1:6.186 | rules |  |  |  |
+| 1:6.187 | of Rabbi |  |  |  |
+| 1:6.188 | Yose |  |  |  |
+| 1:6.189 | the Galilean |  |  |  |
+| 1:6.190 | for the Aggadah |  |  |  |
+| 1:6.191 | as |  |  |  |
+| 1:6.192 | will see |  |  |  |
+| 1:6.193 | the attentive reader |  |  |  |
+| 1:6.194 | the discerning |  |  |  |
+| 1:6.195 | and enticed |  |  |  |
+| 1:6.196 | and seduced |  |  |  |
+| 1:6.197 | the sages |  |  |  |
+| 1:6.198 | the upright |  |  |  |
+| 1:6.199 | of heart |  |  |  |
+| 1:6.200 | who walk |  |  |  |
+| 1:6.201 | in their simplicity |  |  |  |
+| 1:6.202 | to believe him |  |  |  |
+| 1:6.203 | his lies |  |  |  |
+| 1:6.204 | that there was revealed |  |  |  |
+| 1:6.205 | to him |  |  |  |
+| 1:6.206 | the Holy One, blessed be He |  |  |  |
+| 1:6.207 | who is called |  |  |  |
+| 1:6.208 | by him |  |  |  |
+| 1:6.209 | the Elder |  |  |  |
+| 1:6.210 | of Elders |  |  |  |
+| 1:6.211 | and Moses |  |  |  |
+| 1:6.212 | our teacher |  |  |  |
+| 1:6.213 | peace be upon him |  |  |  |
+| 1:6.214 | and Elijah |  |  |  |
+| 1:6.215 | and they revealed |  |  |  |
+| 1:6.216 | to him |  |  |  |
+| 1:6.217 | secrets |  |  |  |
+| 1:6.218 | of |  |  |  |
+| 1:6.219 | heresy |  |  |  |
+| 1:6.220 | which is forbidden |  |  |  |
+| 1:6.221 | to reckon |  |  |  |
+| 1:6.222 | about them |  |  |  |
+| 1:6.223 | even |  |  |  |
+| 1:6.224 | in the |  |  |  |
+| 1:6.225 | lavatory |  |  |  |
+| 1:6.226 | and promised |  |  |  |
+| 1:6.227 | one who occupies himself |  |  |  |
+| 1:6.228 | with his Torah |  |  |  |
+| 1:6.229 | without |  |  |  |
+| 1:6.230 | understanding |  |  |  |
+| 1:6.231 | a reward |  |  |  |
+| 1:6.232 | great |  |  |  |
+| 1:6.233 | more |  |  |  |
+| 1:6.234 | than the plain text of |  |  |  |
+| 1:6.235 | the Torah |  |  |  |
+| 1:6.236 | in order to |  |  |  |
+| 1:6.237 | to blind |  |  |  |
+| 1:6.238 | the eyes of |  |  |  |
+| 1:6.239 | the sages |  |  |  |
+| 1:6.240 | and to stop up |  |  |  |
+| 1:6.241 | the way |  |  |  |
+| 1:6.242 | of study |  |  |  |
+| 1:6.243 | in his words |  |  |  |
+| 1:6.244 | so that not |  |  |  |
+| 1:6.245 | to understand |  |  |  |
+| 1:6.246 | (object marker) |  |  |  |
+| 1:6.247 | his machinations |  |  |  |
+| 1:6.248 | and to magnify |  |  |  |
+| 1:6.249 | the merit of |  |  |  |
+| 1:6.250 | those who occupy themselves |  |  |  |
+| 1:6.251 | with his Torah |  |  |  |
+| 1:6.252 | new |  |  |  |
+| 1:6.253 | full of |  |  |  |
+| 1:6.254 | idols |  |  |  |
+| 1:6.255 | various |  |  |  |
+| 1:6.256 | in their essences |  |  |  |
+| 1:6.257 | and their activities |  |  |  |
+| 1:6.258 | without |  |  |  |
+| 1:6.259 | being particular |  |  |  |
+| 1:6.260 | about |  |  |  |
+| 1:6.261 | addition |  |  |  |
+| 1:6.262 | and multiplicity |  |  |  |
+| 1:6.263 | in our God |  |  |  |
+| 1:6.264 | the Unique |  |  |  |
+| 1:6.265 | above all |  |  |  |
+| 1:6.266 | other |  |  |  |
+| 1:6.267 | ones |  |  |  |
+| 1:6.268 | and not |  |  |  |
+| 1:6.269 | they give |  |  |  |
+| 1:6.270 | heart |  |  |  |
+| 1:6.271 | how |  |  |  |
+| 1:6.272 | was strict |  |  |  |
+| 1:6.273 | the Torah |  |  |  |
+| 1:6.274 | about |  |  |  |
+| 1:6.275 | the prohibition |  |  | בל תוסיף: the prohibition 'you shall not add', named by its opening words; no verse is identified here. |
+| 1:6.276 | of adding |  |  |  |
+| 1:6.277 | whether |  |  |  |
+| 1:6.278 | in tefillin |  |  |  |
+| 1:6.279 | or |  |  |  |
+| 1:6.280 | in a mezuzah |  |  |  |
+| 1:6.281 | or |  |  |  |
+| 1:6.282 | in the four |  |  |  |
+| 1:6.283 | species |  |  |  |
+| 1:6.284 | of the lulav |  |  |  |
+| 1:6.285 | and likewise |  |  |  |
+| 1:6.286 | in the other |  |  |  |
+| 1:6.287 | commandments |  |  |  |
+| 1:6.288 | even though |  |  |  |
+| 1:6.289 | he puts |  |  |  |
+| 1:6.290 | five |  |  |  |
+| 1:6.291 | sections |  |  |  |
+| 1:6.292 | on |  |  |  |
+| 1:6.293 | one |  |  |  |
+| 1:6.294 | and he |  |  |  |
+| 1:6.295 | joins them |  |  |  |
+| 1:6.296 | to make |  |  |  |
+| 1:6.297 | one |  |  |  |
+| 1:6.298 | and likewise |  |  |  |
+| 1:6.299 | if |  |  |  |
+| 1:6.300 | adds |  |  |  |
+| 1:6.301 | to a mezuzah |  |  |  |
+| 1:6.302 | a section |  |  |  |
+| 1:6.303 | one |  |  |  |
+| 1:6.304 | even though |  |  |  |
+| 1:6.305 | he scraped |  |  | שקלף: he scraped or peeled apart the joining of the parchments. |
+| 1:6.306 | their join |  |  |  |
+| 1:6.307 | so that they are |  |  |  |
+| 1:6.308 | one |  |  |  |
+| 1:6.309 | we do not |  |  |  |
+| 1:6.310 | say |  |  |  |
+| 1:6.311 | as if not |  |  | כלא חד: 'as if not one'; the phrase is the author's halakhic formula, kept as the decisions require. |
+| 1:6.312 | one |  |  |  |
+| 1:6.313 | and likewise |  |  |  |
+| 1:6.314 | in tzitzit |  |  |  |
+| 1:6.315 | and in the bundle of |  |  |  |
+| 1:6.316 | four |  |  |  |
+| 1:6.317 | species |  |  |  |
+| 1:6.318 | if |  |  |  |
+| 1:6.319 | he added |  |  |  |
+| 1:6.320 | a species |  |  |  |
+| 1:6.321 | fifth |  |  |  |
+| 1:6.322 | to the bundle |  |  |  |
+| 1:6.323 | it is disqualified |  |  |  |
+| 1:6.324 | and not |  |  |  |
+| 1:6.325 | we say |  |  |  |
+| 1:6.326 | as if not |  |  |  |
+| 1:6.327 | one |  |  |  |
+
+Phrases:
+- 1:6.1 1:6.2 1:6.3 1:6.4 1:6.5 1:6.6 1:6.7 1:6.8 | And concerning this external faith of the philosopher, the author of the Zohar, | and-concerning the-faith the-external this of the-philosopher author-of the-Zohar
+- 1:6.9 1:6.10 | our Rabbis of blessed memory expounded | expounded our-Rabbis-of-blessed-memory
+- 1:6.11 1:6.12 1:6.13 1:6.14 1:6.15 1:6.16 | (Yalkut, Parashat Kedoshim, and the Midrash ha-Gadol there, | Yalkut Parashat Kedoshim and-Midrash ha-Gadol there
+- 1:6.17 1:6.18 1:6.19 1:6.20 1:6.21 | and the Rambam in Sefer ha-Mitzvot, negative commandment 10): | and-the-Rambam in-the-book of-Commandments negative-commandment 10
+- 1:6.22 1:6.23 1:6.24 1:6.25 | "Do not turn to the idols, | do-not turn to the-idols
+- 1:6.26 1:6.27 1:6.28 1:6.29 1:6.30 | and gods; if you turn to others | and-gods if you turn to-others
+- 1:6.31 1:6.32 | (Sforno: to honor them), | to-honor-them Sforno
+- 1:6.33 1:6.34 1:6.35 1:6.36 | your end is to make them divinities." Thus far. | your-end to-make-them divinities thus-far
+- 1:6.37 1:6.38 1:6.39 1:6.40 1:6.41 1:6.42 | And so it befell the faith of the philosopher, the author of the Zohar, | and-so it-befell the-faith-of the-philosopher author-of the-Zohar
+- 1:6.43 1:6.44 1:6.45 1:6.46 1:6.47 1:6.48 1:6.49 | for the early students who learned from it, thinking | for the-students the-early who learned from-it thinking
+- 1:6.50 1:6.51 1:6.52 | that he was Rabbi Shimon bar Yochai the Tanna, | that-he Rabbi-Shimon-bar-Yochai the-Tanna
+- 1:6.53 1:6.54 1:6.55 | they thought to make sense of his words; | they-thought to-make-sense-of his-words
+- 1:6.56 | and to call | and-to-call
+- 1:6.57 | - | object-marker
+- 1:6.58 1:6.59 | the partzufim vessels, | the-partzufim vessels
+- 1:6.60 1:6.61 1:6.62 | and they esteemed them and honored them, | and-they-esteemed-them and-honored them
+- 1:6.63 1:6.64 | and those who came after them | and-those-who-came after-them
+- 1:6.65 1:6.66 1:6.67 1:6.68 1:6.69 1:6.70 | made them divinities, according to the thought of the philosopher, the author, | made them divinities according-to-the-thought-of the-philosopher the-author
+- 1:6.71 1:6.72 1:6.73 | and accepted them upon themselves as divinities, | and-accepted-them upon-themselves as-divinities
+- 1:6.74 1:6.75 1:6.76 | as will be explained within. | as will-be-explained within
+- 1:6.77 1:6.78 1:6.79 | And likewise our Rabbis of blessed memory expounded | and-likewise expounded our-Rabbis-of-blessed-memory
+- 1:6.80 1:6.81 1:6.82 1:6.83 1:6.84 | in the verse: wine and strong drink you shall not drink, | in-the-verse wine and-strong-drink do-not drink
+- 1:6.85 | and these are his words: | and-these-are-his-words
+- 1:6.86 1:6.87 1:6.88 | "Rabbi Chiya opened: | Rabbi Chiya opened
+- 1:6.89 1:6.90 1:6.91 | 'The precepts of the LORD are right; | the-precepts-of the-LORD are-right
+- 1:6.92 1:6.93 1:6.94 1:6.95 | and it is written: 'wine goes down smoothly'; | and-it-is-written of-wine goes-down smoothly
+- 1:6.96 1:6.97 1:6.98 | and it is written: 'rejoicing the heart'; | and-it-is-written rejoicing the-heart
+- 1:6.99 1:6.100 1:6.101 1:6.102 1:6.103 | and it is written: 'and wine gladdens the heart of man.' | and-it-is-written and-wine gladdens the-heart of-man
+- 1:6.104 1:6.105 1:6.106 1:6.107 1:6.108 1:6.109 | Just as this wine gladdens the heart, | just-as the-wine this gladdens object-marker the-heart
+- 1:6.110 1:6.111 1:6.112 1:6.113 1:6.114 1:6.115 | so the words of Torah gladden the heart; | so the-words-of Torah gladden object-marker the-heart
+- 1:6.116 1:6.117 1:6.118 1:6.119 1:6.120 1:6.121 1:6.122 1:6.123 1:6.124 | just as this wine, one who drinks of it more than his need in the end vomits | just-as the-wine this who-drinks of-it more than-his-need in-the-end vomits
+- 1:6.125 1:6.126 | everything; | object-marker everything
+- 1:6.127 1:6.128 1:6.129 | so the words of Torah, | so the-words-of Torah
+- 1:6.130 1:6.131 1:6.132 1:6.133 | one who occupies himself with them and reasons about them | one-who-occupies-himself with-them and-reasons about-them
+- 1:6.134 1:6.135 1:6.136 | more than enough, in the end | too-much beyond-measure in-the-end
+- 1:6.137 1:6.138 1:6.139 1:6.140 | that he goes out into heresy." Thus far. | that goes-out into-heresy thus-far
+- 1:6.141 1:6.142 1:6.143 1:6.144 1:6.145 1:6.146 1:6.147 | (Midrash ha-Gadol, Parashat Shemini, verse 'wine and strong drink'). | Midrash ha-Gadol Parashat Shemini verse wine and-strong-drink
+- 1:6.148 1:6.149 1:6.150 1:6.151 | In this way did the philosopher, | in-this-way this did the-philosopher
+- 1:6.152 1:6.153 1:6.154 1:6.155 | the false prophet, the author of the Zohar, | prophet of-falsehood the-author-of the-Zohar
+- 1:6.156 1:6.157 1:6.158 | to search after his heart | to-search after his-heart
+- 1:6.159 1:6.160 1:6.161 1:6.162 1:6.163 | to reckon in the words of Torah too much, | to-reckon in-the-words-of Torah too beyond-measure
+- 1:6.164 1:6.165 1:6.166 1:6.167 | in paths far from the truth, | in-paths distant from the-truth
+- 1:6.168 1:6.169 1:6.170 | and very far from | and-far very from
+- 1:6.171 1:6.172 1:6.173 | the rules that the Sages received, | the-rules that-they-received the-Sages
+- 1:6.174 1:6.175 1:6.176 | a man from a man, | a-man from-the-mouth-of a-man
+- 1:6.177 1:6.178 1:6.179 | by which the Torah is expounded, | by-which-the-Torah is-expounded by-them
+- 1:6.180 1:6.181 1:6.182 | and these are the thirteen rules | and-these-are the-thirteen rules
+- 1:6.183 1:6.184 | of Rabbi Ishmael | of-Rabbi Ishmael
+- 1:6.185 1:6.186 | and the thirty-two rules | and-the-thirty-two rules
+- 1:6.187 1:6.188 1:6.189 1:6.190 | of Rabbi Yose the Galilean, for the Aggadah, | of-Rabbi Yose the-Galilean for-the-Aggadah
+- 1:6.191 1:6.192 1:6.193 1:6.194 | as the discerning, attentive reader will see | as will-see the-attentive-reader the-discerning
+- 1:6.195 1:6.196 1:6.197 | and he enticed and seduced the sages, | and-enticed and-seduced the-sages
+- 1:6.198 1:6.199 1:6.200 1:6.201 | the upright of heart, who walk in their simplicity, | the-upright of-heart who-walk in-their-simplicity
+- 1:6.202 1:6.203 | to believe his lies: | to-believe-him his-lies
+- 1:6.204 1:6.205 | that there was revealed to him | that-there-was-revealed to-him
+- 1:6.206 1:6.207 1:6.208 | the Holy One, blessed be He, whom he calls | the-Holy-One-blessed-be-He who-is-called by-him
+- 1:6.209 1:6.210 | the Elder of Elders, | the-Elder of-Elders
+- 1:6.211 1:6.212 1:6.213 | and Moses our teacher, peace be upon him, | and-Moses our-teacher peace-be-upon-him
+- 1:6.214 1:6.215 1:6.216 | and Elijah, and they revealed to him | and-Elijah and-they-revealed to-him
+- 1:6.217 1:6.218 1:6.219 1:6.220 | secrets of heresy, which it is forbidden | secrets of heresy which-is-forbidden
+- 1:6.221 1:6.222 1:6.223 1:6.224 1:6.225 | to reckon about them, even in the lavatory; | to-reckon about-them even in-the lavatory
+- 1:6.226 1:6.227 1:6.228 | and he promised one who occupies himself with his Torah | and-promised one-who-occupies-himself with-his-Torah
+- 1:6.229 1:6.230 1:6.231 | without understanding, a reward | without understanding a-reward
+- 1:6.232 1:6.233 1:6.234 1:6.235 | greater than the plain text of the Torah, | great more than-the-plain-text-of the-Torah
+- 1:6.236 1:6.237 1:6.238 1:6.239 | in order to blind the eyes of the sages | in-order-to to-blind the-eyes-of the-sages
+- 1:6.240 1:6.241 1:6.242 1:6.243 | and to stop up the way of study in his words | and-to-stop-up the-way of-study in-his-words
+- 1:6.244 1:6.245 | so as not to understand | so-that-not to-understand
+- 1:6.246 | - | object-marker
+- 1:6.247 | his machinations, | his-machinations
+- 1:6.248 1:6.249 1:6.250 | and to magnify the merit of those who occupy themselves | and-to-magnify the-merit-of those-who-occupy-themselves
+- 1:6.251 1:6.252 1:6.253 | with his new Torah, full of | with-his-Torah new full-of
+- 1:6.254 1:6.255 1:6.256 | various idols in their essences, | idols various in-their-essences
+- 1:6.257 1:6.258 1:6.259 | and their activities, without being particular | and-their-activities without being-particular
+- 1:6.260 1:6.261 1:6.262 | about the addition and multiplicity, | about addition and-multiplicity
+- 1:6.263 1:6.264 1:6.265 1:6.266 1:6.267 | in our God, the Unique, above all other ones; | in-our-God the-Unique above-all other ones
+- 1:6.268 1:6.269 1:6.270 1:6.271 | and do not consider how | and-not they-give heart how
+- 1:6.272 1:6.273 1:6.274 | the Torah was strict about | was-strict the-Torah about
+- 1:6.275 1:6.276 | the prohibition: 'you shall not add' | the-prohibition of-adding
+- 1:6.277 1:6.278 1:6.279 1:6.280 | whether in tefillin, or in a mezuzah, | whether in-tefillin or in-a-mezuzah
+- 1:6.281 1:6.282 1:6.283 1:6.284 | or in the four species of the lulav, | or in-the-four species of-the-lulav
+- 1:6.285 1:6.286 1:6.287 | and likewise in the other commandments, | and-likewise in-the-other commandments
+- 1:6.288 1:6.289 1:6.290 1:6.291 | even though he puts five sections | even-though he-puts five sections
+- 1:6.292 1:6.293 | on one parchment | on one
+- 1:6.294 1:6.295 1:6.296 1:6.297 | and he joins them to make one, | and-he joins-them to-make one
+- 1:6.298 1:6.299 1:6.300 | And likewise, if he adds | and-likewise if adds
+- 1:6.301 1:6.302 1:6.303 | one section to a mezuzah, | to-a-mezuzah a-section one
+- 1:6.304 1:6.305 1:6.306 1:6.307 1:6.308 | even though he scraped their join so that they are one, | even-though he-scraped their-join so-that-they-are one
+- 1:6.309 1:6.310 1:6.311 1:6.312 | we do not say 'as though it were not one'. | we-do-not say as-if-not one
+- 1:6.313 1:6.314 | and likewise in tzitzit, | and-likewise in-tzitzit
+- 1:6.315 1:6.316 1:6.317 | and in the bundle of four species, | and-in-the-bundle-of four species
+- 1:6.318 1:6.319 1:6.320 1:6.321 | if he added a fifth species | if he-added a-species fifth
+- 1:6.322 1:6.323 | to the bundle, it is disqualified; | to-the-bundle it-is-disqualified
+- 1:6.324 1:6.325 1:6.326 1:6.327 | and we do not say 'as though it were not one'. | and-not we-say as-if-not one
+
+Grammar notes:
+- The paragraph is one long period. The quotation from Lev 19:4 (in the Yalkut, Midrash ha-Gadol and Rambam) runs from 'Do not turn' to 'Thus far'; its parenthesis is Sforno's gloss, kept in parentheses.
+- The chain of 'and it is written' (וכתיב) introduces each verse of Ps 19:9 and Ps 104:15 in the Midrash; the Midrash's analogy 'just as ... so' (מה ... כך) carries the argument, and its second half turns on 'beyond measure' (מדאי).
+- The infinitives after עשה (לתור, לחשב, להעור, ולסתום, ולהגדיל) give the purpose of the philosopher's deed; לתור אחרי לבבו alludes to Num 15:39.
+- The verbs in the sentence about the early students (חשבו, והחשיבום, וכיבדו, עשו, וקיבלום) narrate what followed from the first error, in the past tense of the perfect with waw.
+- The last two clauses, with לא אמרינן כלא חד, are the halakhic conclusion of the paragraph; the English keeps them as parallel sentences.
+
+Translator's note: One period in the Hebrew, divided at the quotation boundaries and at the Midrash's clauses. Each quotation formula is translated and each closing ע״כ is 'Thus far'.
+
+Commentary rulings:
+- apparatus: Lev 19:4, quoted words 'Do not turn to the idols' (אל תפנו אל האלילים). The rest of the quotation is the author's wording (ואלהי אם אתה פונה אחרים) and is rendered as he gives it.
+- apparatus: Lev 10:9, 'Wine and strong drink you shall not drink' (in the verse: wine and strong drink).
+- apparatus: Ps 19:9: 'The precepts of the LORD are right' and 'rejoicing the heart' (משמחי לב).
+- apparatus: Ps 104:15: 'and wine gladdens the heart of man' (ויין ישמח לבב אנוש).
+- apparatus: Num 15:39, alluded to in 'לתור אחרי לבבו' (to search after his heart).
+- apparatus: 'ביין יתהלך במישרים' ('wine goes down smoothly'): the verse is not identified here; the words are rendered as the Midrash gives them.
+- apparatus: ל״ג in 'ול״ג מדות דר׳ יוסי הגלילי' is written as thirty-three by letters; the English follows the decisions (thirty-two).
+
+## Lexicon
+
+Senses are cited by entry key and path. BDB entries list senses by stem (binyan).
+

@@ -503,6 +503,27 @@ senses are allowed, chosen by the use.
   English stands as translated; the reviewer's alternative is in `readings`
   / `apparatus`.
 
+## Rulings from wave 1 (chapter 1), by the editor
+
+- סתו"מ: always "Torah scrolls, tefillin and mezuzot", with a note.
+- Turkish and Arabic personal names and titles: transliterate by the project
+  scheme as the text spells them; keep the titles (Effendi, Bey, Pasha);
+  identify no one.
+- ה' as an honorific before a personal name: "Mr." (1:2). Elsewhere ה' is
+  the LORD.
+- בית רבן in "תינוקות של בית רבן": "schoolchildren" (literally "the house of
+  the master/teacher"), with a note.
+- עשתונות איש ירושלים (a title): translate the words, "the thoughts of the man
+  of Jerusalem", with a note; no identification beyond the text.
+- משכילים / השכלה: "the educated" / "enlightenment" in the sense of the
+  Haskalah only where the paragraph speaks of that movement; otherwise
+  "those of understanding".
+- ובפתרון הכתובים: "the verses" (of the Torah) when the example is from the
+  Torah; "the Writings" only for כתובים as the third part of the Bible.
+- Wikisource additions (Q2): the pack marks none; the translator does not
+  add a flag per word. A general line in `apparatus` on the unit's first
+  segment is enough until the 1931 scan is collated.
+
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:
