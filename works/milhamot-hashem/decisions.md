@@ -564,6 +564,14 @@ senses are allowed, chosen by the use.
 - Fixed forms: "Roke'ach" (the Rokeach); "Ein Sof" never "without end" for the
   noun (but לאין סוף "without end" in the Rambam passage when it is not the
   name).
+- ר"ל with a named authority as subject: "means to say".
+- פ' + numeral after a book title: "chapter" when the numeral exceeds the
+  parashot of that book (Midrash Rabbah 143 is a section/chapter number as
+  the author gives it); otherwise "parashah". Note the choice.
+- אם ... או after a full stop: translate as the author punctuates it only if
+  the English has a main clause; otherwise join it to the previous sentence
+  with a colon or render it as a direct alternative question.
+- באצילות: "in Emanation" (the noun the Kabbalists use), without "World of".
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
