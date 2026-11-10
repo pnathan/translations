@@ -534,6 +534,17 @@ senses are allowed, chosen by the use.
   (אל דבר ה', בטרם תחיל), the verse's wording governs the sense of the
   words; list the verse in `apparatus`.
 - מרגל לרגל: "from festival to festival" (Num 20 ff. sense), not "foot".
+- Keep every word of a cited title: מחבר הספר הזהר = "the author of the book the
+  Zohar"; the fixed "the author of the Zohar" is for מחבר הזהר only.
+- A quotation cut short in the author's text (ואלהי in Lev 19:4): translate what
+  is written ("and the gods of"), add nothing, say so in a note.
+- גופי תורה: "the essentials of the Torah", with "bodies of the Torah" in a
+  token note.
+- שלשה פנים / ל before a person's name as possessive: ל = "of" / "belonging to"
+  (לרשב"י = Rabbi Shimon's); never read as the subject.
+- כלא חד / כולא חד: the same English at every occurrence (1:5-1:7); the
+  owner's ruling on the sense is pending; until then, the alternative is in
+  `apparatus`.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.

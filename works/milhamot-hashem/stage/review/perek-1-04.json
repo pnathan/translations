@@ -1,0 +1,1651 @@
+{
+  "unit": "perek-1-04",
+  "model": "sonnet",
+  "summary": "Both paragraphs are close to the Hebrew and keep the ruled terms, but 1:6 has real faults. In 1:5 several words were dropped (הספר, a second 'this is', ס' of the Zohar, על of עובר על) and 'Ri'f' departs from the ruled 'the Rif'. In 1:6 the clause about the early students misreads לרשב״י as 'he was', ל״ג is rendered 32 against the wave 1 ruling, the nested quotation marks are broken, and 'he scraped their join' and 'on one parchment' misread שקלף and בעור. The Num 15:39, Deut 16:19 and Prov 23:31 verses were missed or not identified, and the notes on 1:6.171, 1:6.185 and 1:6.305 are false.",
+  "patches": [
+    {
+      "ref": "1:5",
+      "path": "english",
+      "value": "And I named the book The Wars of the LORD for His unity, because the philosopher, the author of the book the Zohar, spoiled for us the truth of the unity of the Name, may He be blessed, and several rabbis and great men of the Torah followed him with eyes shut. And of them Solomon said in his wisdom: \"For she has cast down many slain, and mighty are all her slain.\" As our Rabbis of blessed memory expounded (Sanhedrin, the Rif): \"For she has cast down many slain\" this is a student who has not reached instruction and teaches, (as we see with our own eyes how many authors who bring an elephant through the eye of a needle, from the scantness of their expertise) \"and mighty are all her slain\" this is a student who has reached instruction and does not teach (who does not set his mind to teach others correctly; \"mighty\" is the word of \"and he shuts his eyes\", Rashi of blessed memory). And all the more so, if he entices others to occupy themselves with the external book, the book of the Zohar, and does not set his mind to understand the contradiction, but walks with the eye of reason shut, and makes others stumble in a false faith, of whom it is said, \"and mighty are all her slain\"; and transgresses against \"and before the blind you shall not place a stumbling block\"; and error in study counts as wilful sin, and he sins and causes the many to sin, and the sin of the many hangs on him.",
+      "severity": "error",
+      "reason": "Fidelity and decisions. (1) הספר in מחבר הספר הזהר was dropped: 'the author of the book the Zohar'. (2) 'Sanhedrin, [in] the Rif' is the ruled form, not 'Ri'f'. (3) The second 'this is' (זה, 1:5.67) was left out; the first exposition has it. (4) ס' הזהר, 'the book of the Zohar', lost its ס'. (5) עובר על: the preposition על was left unrendered and glossed '(governs the verb above)', and the cited Lev 19:14 was left running on as if a clause of the author. (6) נותן לב is an idiom: translated by its sense (checklist and Talmudic idiom rule), not 'give heart'."
+    },
+    {
+      "ref": "1:5",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "1:5.1",
+            "1:5.2",
+            "1:5.3",
+            "1:5.4",
+            "1:5.5"
+          ],
+          "english": "And I named the book The Wars of the LORD",
+          "literal": "and-I-named the-name-of the-book The-Wars-of the-LORD"
+        },
+        {
+          "tokens": [
+            "1:5.6",
+            "1:5.7"
+          ],
+          "english": "for His unity,",
+          "literal": "for His-unity"
+        },
+        {
+          "tokens": [
+            "1:5.8",
+            "1:5.9",
+            "1:5.10",
+            "1:5.11",
+            "1:5.12"
+          ],
+          "english": "because the philosopher, the author of the book the Zohar,",
+          "literal": "because the-philosopher the-author-of the-book the-Zohar"
+        },
+        {
+          "tokens": [
+            "1:5.13",
+            "1:5.14"
+          ],
+          "english": "spoiled for us",
+          "literal": "spoiled for-us"
+        },
+        {
+          "tokens": [
+            "1:5.15"
+          ],
+          "english": "-",
+          "literal": "object-marker"
+        },
+        {
+          "tokens": [
+            "1:5.16",
+            "1:5.17",
+            "1:5.18"
+          ],
+          "english": "the truth of the unity of the Name, may He be blessed,",
+          "literal": "the-truth-of the-unity-of the-Name-may-He-be-blessed"
+        },
+        {
+          "tokens": [
+            "1:5.19",
+            "1:5.20",
+            "1:5.21",
+            "1:5.22",
+            "1:5.23",
+            "1:5.24"
+          ],
+          "english": "and several rabbis and great men of the Torah followed him",
+          "literal": "and-followed after-him several rabbis and-great-men of-the-Torah"
+        },
+        {
+          "tokens": [
+            "1:5.25",
+            "1:5.26"
+          ],
+          "english": "with eyes shut.",
+          "literal": "with-shut eyes"
+        },
+        {
+          "tokens": [
+            "1:5.27",
+            "1:5.28",
+            "1:5.29",
+            "1:5.30"
+          ],
+          "english": "And of them Solomon said in his wisdom:",
+          "literal": "and-of-them said Solomon in-his-wisdom"
+        },
+        {
+          "tokens": [
+            "1:5.31",
+            "1:5.32",
+            "1:5.33",
+            "1:5.34",
+            "1:5.35",
+            "1:5.36",
+            "1:5.37"
+          ],
+          "english": "\"For she has cast down many slain, and mighty are all her slain.\"",
+          "literal": "for many slain she-has-cast-down and-mighty-are all her-slain"
+        },
+        {
+          "tokens": [
+            "1:5.38",
+            "1:5.39",
+            "1:5.40",
+            "1:5.41",
+            "1:5.42"
+          ],
+          "english": "As our Rabbis of blessed memory expounded (Sanhedrin, the Rif):",
+          "literal": "as expounded our-Rabbis-of-blessed-memory Sanhedrin the-Rif"
+        },
+        {
+          "tokens": [
+            "1:5.43",
+            "1:5.44",
+            "1:5.45",
+            "1:5.46"
+          ],
+          "english": "\"For she has cast down many slain\"",
+          "literal": "for many slain she-has-cast-down"
+        },
+        {
+          "tokens": [
+            "1:5.47",
+            "1:5.48",
+            "1:5.49",
+            "1:5.50",
+            "1:5.51",
+            "1:5.52"
+          ],
+          "english": "this is a student who has not reached instruction and teaches,",
+          "literal": "this-is a-student who-has-not reached instruction and-teaches"
+        },
+        {
+          "tokens": [
+            "1:5.53",
+            "1:5.54",
+            "1:5.55",
+            "1:5.56",
+            "1:5.57"
+          ],
+          "english": "(as we see with our own eyes how many authors",
+          "literal": "as our-eyes see how-many authors"
+        },
+        {
+          "tokens": [
+            "1:5.58",
+            "1:5.59",
+            "1:5.60",
+            "1:5.61",
+            "1:5.62",
+            "1:5.63"
+          ],
+          "english": "who bring an elephant through the eye of a needle, from the scantness of their expertise)",
+          "literal": "who-bring-in an-elephant through-the-eye-of a-needle from-the-scantness-of their-expertise"
+        },
+        {
+          "tokens": [
+            "1:5.64",
+            "1:5.65",
+            "1:5.66"
+          ],
+          "english": "\"and mighty are all her slain\"",
+          "literal": "and-mighty-are all her-slain"
+        },
+        {
+          "tokens": [
+            "1:5.67",
+            "1:5.68",
+            "1:5.69",
+            "1:5.70",
+            "1:5.71",
+            "1:5.72"
+          ],
+          "english": "this is a student who has reached instruction and does not teach",
+          "literal": "this-is a-student who-has-reached instruction and-does-not teach"
+        },
+        {
+          "tokens": [
+            "1:5.73",
+            "1:5.74",
+            "1:5.75",
+            "1:5.76",
+            "1:5.77",
+            "1:5.78"
+          ],
+          "english": "(who does not set his mind to teach others correctly;",
+          "literal": "who-does-not set-his mind to-teach to-others correctly"
+        },
+        {
+          "tokens": [
+            "1:5.79",
+            "1:5.80",
+            "1:5.81",
+            "1:5.82",
+            "1:5.83",
+            "1:5.84"
+          ],
+          "english": "\"mighty\" is the word of \"and he shuts his eyes\", Rashi of blessed memory).",
+          "literal": "mighty the-word-of and-he-shuts his-eyes Rashi of-blessed-memory"
+        },
+        {
+          "tokens": [
+            "1:5.85",
+            "1:5.86",
+            "1:5.87",
+            "1:5.88",
+            "1:5.89",
+            "1:5.90"
+          ],
+          "english": "And all the more so, if he entices others to occupy themselves",
+          "literal": "and-all the-more-so if entices others to-occupy-themselves"
+        },
+        {
+          "tokens": [
+            "1:5.91",
+            "1:5.92",
+            "1:5.93",
+            "1:5.94"
+          ],
+          "english": "with the external book, the book of the Zohar,",
+          "literal": "in-the-book external the-book-of the-Zohar"
+        },
+        {
+          "tokens": [
+            "1:5.95",
+            "1:5.96",
+            "1:5.97",
+            "1:5.98",
+            "1:5.99"
+          ],
+          "english": "and does not set his mind to understand the contradiction,",
+          "literal": "and-does-not set-his mind to-understand the-contradiction"
+        },
+        {
+          "tokens": [
+            "1:5.100",
+            "1:5.101",
+            "1:5.102",
+            "1:5.103",
+            "1:5.104",
+            "1:5.105",
+            "1:5.106",
+            "1:5.107",
+            "1:5.108"
+          ],
+          "english": "but walks with the eye of reason shut, and makes others stumble in a false faith,",
+          "literal": "but walks with-shut the-eye of-reason and-makes-stumble others in-a-faith false"
+        },
+        {
+          "tokens": [
+            "1:5.109",
+            "1:5.110"
+          ],
+          "english": "of whom it is said,",
+          "literal": "of-whom it-is-said"
+        },
+        {
+          "tokens": [
+            "1:5.111",
+            "1:5.112",
+            "1:5.113"
+          ],
+          "english": "\"and mighty are all her slain\";",
+          "literal": "and-mighty-are all her-slain"
+        },
+        {
+          "tokens": [
+            "1:5.114",
+            "1:5.115"
+          ],
+          "english": "and transgresses against",
+          "literal": "and-transgresses against"
+        },
+        {
+          "tokens": [
+            "1:5.116",
+            "1:5.117",
+            "1:5.118",
+            "1:5.119",
+            "1:5.120"
+          ],
+          "english": "\"and before the blind you shall not place a stumbling block\";",
+          "literal": "and-before the-blind not you-shall-place a-stumbling-block"
+        },
+        {
+          "tokens": [
+            "1:5.121",
+            "1:5.122",
+            "1:5.123",
+            "1:5.124"
+          ],
+          "english": "and error in study counts as wilful sin,",
+          "literal": "and-the-error-of study counts-as wilful-sin"
+        },
+        {
+          "tokens": [
+            "1:5.125",
+            "1:5.126",
+            "1:5.127"
+          ],
+          "english": "and he sins and causes",
+          "literal": "and-he sins and-causes"
+        },
+        {
+          "tokens": [
+            "1:5.128"
+          ],
+          "english": "-",
+          "literal": "object-marker"
+        },
+        {
+          "tokens": [
+            "1:5.129"
+          ],
+          "english": "the many to sin,",
+          "literal": "the-many"
+        },
+        {
+          "tokens": [
+            "1:5.130",
+            "1:5.131",
+            "1:5.132",
+            "1:5.133"
+          ],
+          "english": "and the sin of the many hangs on him.",
+          "literal": "and-the-sin of-the-many hangs on-him"
+        }
+      ],
+      "severity": "error",
+      "reason": "Phrases follow the new English."
+    },
+    {
+      "ref": "1:5",
+      "path": "literal",
+      "value": "and-I-named the-name-of the-book The-Wars-of the-LORD for His-unity because the-philosopher the-author-of the-book the-Zohar spoiled for-us object-marker the-truth-of the-unity-of the-Name-may-He-be-blessed and-followed after-him several rabbis and-great-men of-the-Torah with-shut eyes and-of-them said Solomon in-his-wisdom for many slain she-has-cast-down and-mighty-are all her-slain as expounded our-Rabbis-of-blessed-memory Sanhedrin the-Rif for many slain she-has-cast-down this-is a-student who-has-not reached instruction and-teaches as our-eyes see how-many authors who-bring-in an-elephant through-the-eye-of a-needle from-the-scantness-of their-expertise and-mighty-are all her-slain this-is a-student who-has-reached instruction and-does-not teach who-does-not set-his mind to-teach to-others correctly mighty the-word-of and-he-shuts his-eyes Rashi of-blessed-memory and-all the-more-so if entices others to-occupy-themselves in-the-book external the-book-of the-Zohar and-does-not set-his mind to-understand the-contradiction but walks with-shut the-eye of-reason and-makes-stumble others in-a-faith false of-whom it-is-said and-mighty-are all her-slain and-transgresses against and-before the-blind not you-shall-place a-stumbling-block and-the-error-of study counts-as wilful-sin and-he sins and-causes object-marker the-many and-the-sin of-the-many hangs on-him",
+      "severity": "error",
+      "reason": "The literal follows the corrected English and the corrected tokens."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.11.note",
+      "value": "הספר: 'the book'. The decisions fix 'the author of the Zohar' for מחבר הזהר; here the Hebrew has מחבר הספר הזהר, so the English keeps 'the book': 'the author of the book the Zohar'.",
+      "severity": "question",
+      "reason": "Decisions are silent on the longer form מחבר הספר הזהר. Proposed ruling: keep every word, 'the author of the book the Zohar', and keep 'the author of the Zohar' only for מחבר הזהר."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.42.gloss",
+      "value": "the Rif",
+      "severity": "error",
+      "reason": "Ruling (wave 1): 'Sanhedrin, [in] the Rif', as written."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.42.note",
+      "value": "רי״ף: the Rif (Rabbi Yitzchak Alfasi); the reference is kept as the author writes it, 'Sanhedrin, the Rif', with no volume or folio added.",
+      "severity": "error",
+      "reason": "The note named the old spelling 'Ri'f' and did not say who is meant (decisions: say in a note who is meant)."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.74.gloss",
+      "value": "set",
+      "severity": "style",
+      "reason": "נותן לב is an idiom ('gives heart'), 'sets his mind'."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.75.gloss",
+      "value": "his mind",
+      "severity": "style",
+      "reason": "See 1:5.74."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.74.note",
+      "value": "נותן לב: idiom, literally 'gives heart': to pay attention, to set one's mind to something.",
+      "severity": "style",
+      "reason": "A learner needs the literal sense of the idiom."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.96.gloss",
+      "value": "set",
+      "severity": "style",
+      "reason": "Same idiom as 1:5.74."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.97.gloss",
+      "value": "his mind",
+      "severity": "style",
+      "reason": "Same idiom as 1:5.74."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.96.note",
+      "value": "נותן לב: the same idiom, 'gives heart': to set one's mind to understanding the contradiction.",
+      "severity": "style",
+      "reason": "A learner needs the literal sense of the idiom."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.79.note",
+      "value": "Rashi (quoted by the author at 1:5.83) connects ועצומים with the verb עוצם, 'he shuts': so 'mighty' is glossed 'he shuts his eyes', which echoes 'with eyes shut' (1:5.25-26) and 'the eye of reason shut' (1:5.102-104).",
+      "severity": "error",
+      "reason": "The old note said the gloss came 'earlier in the paragraph'. The gloss is the words that follow, in 1:5.80-82, and the old note is confused."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.91.note",
+      "value": "בספ׳ is the abbreviation of בספר, 'in the book of'; here the sense is 'in the book'.",
+      "severity": "style",
+      "reason": "Abbreviations are named in a token note (decisions)."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.93.gloss",
+      "value": "the book of",
+      "severity": "error",
+      "reason": "ס׳ is ספר, 'book of', construct before הזהר; the gloss 'the book' lost the construct."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.93.note",
+      "value": "ס׳ is the abbreviation of ספר.",
+      "severity": "style",
+      "reason": "Abbreviations are named in a token note (decisions)."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.115.gloss",
+      "value": "against",
+      "severity": "error",
+      "reason": "על is 'against' in עובר על; '(governs the verb above)' is not a gloss and the word was left unrendered."
+    },
+    {
+      "ref": "1:5",
+      "path": "token:1:5.115.note",
+      "value": "עובר על: 'transgresses against'. על takes the cited prohibition that follows, Lev 19:14 (ולפני עור לא תתן מכשול).",
+      "severity": "style",
+      "reason": "A learner needs the construction."
+    },
+    {
+      "ref": "1:5",
+      "path": "grammar",
+      "value": [
+        "וקראתי is a perfect with waw ('and I called'); with שם הספר it means 'named the book'.",
+        "The reason clause runs from כי (1:5.8) to בעצימת עינים (1:5.25-26): the philosopher spoiled the truth of the unity, and the followers went after him with eyes shut. From ועליהם a new sentence begins.",
+        "כי רבים חללים הפילה is Prov 7:26, said of the 'strange woman' of Prov 7 and here applied to the author of the Zohar; הפילה is a perfect, third feminine singular.",
+        "Each זה ('this is') in the Talmudic exposition introduces a rabbinic identification of one of the verse's words; the English keeps 'this is' at each point.",
+        "דמעיילי פילא בקופא דמחטא is a Talmudic Aramaic idiom for doing the impossible; the English gives its sense, 'who bring an elephant through the eye of a needle'.",
+        "ועובר על takes the cited prohibition, Lev 19:14, as its object; ושגגת תלמוד עולה זדון is a rabbinic maxim cited without a formula."
+      ],
+      "severity": "error",
+      "reason": "The old second note said the reason clause ran to the end of the paragraph. It ends at 1:5.26. The old list also left the Aramaic idiom and the על construction unexplained."
+    },
+    {
+      "ref": "1:5",
+      "path": "apparatus",
+      "value": [
+        "The text is the Wikisource base text; Wikisource additions and corrections are not flagged word by word until the 1931 scan is collated (decisions, Q2).",
+        "The title: מלחמות ה׳ takes the form of Num 21:14, 'ספר מלחמת ה׳' (the book of the Wars of the LORD).",
+        "Prov 7:26, quoted: 'For she has cast down many slain, and mighty are all her slain' (translated from the verse as he quotes it).",
+        "Lev 19:14, 'ולפני עור לא תתן מכשול', cited after 'ועובר על': 'and before the blind you shall not place a stumbling block'.",
+        "'Sanhedrin' and 'the Rif' as written; the Talmudic gloss on the verse is his paraphrase and is not marked as a quotation."
+      ],
+      "severity": "error",
+      "reason": "The decisions require a general Wikisource line on the unit's first segment (Q2), which was missing. The Num 21:14 source of the title was not given, and the Lev 19:14 line said 'no quotation marks' although the verse is the object of עובר על."
+    },
+    {
+      "ref": "1:6",
+      "path": "english",
+      "value": "And concerning this external faith of the philosopher, the author of the Zohar, our Rabbis of blessed memory expounded (Yalkut, Parashat Kedoshim, and the Midrash ha-Gadol there, and the Rambam in Sefer ha-Mitzvot, negative commandment 10): \"Do not turn to the idols, and the gods of; if you turn to others (to honor them, Sforno), your end is to make them divinities.\" Thus far. And so it befell the faith of the philosopher, the author of the Zohar, for the early students who learned from it, thinking that it was Rabbi Shimon bar Yochai the Tanna's, they thought to make sense of his words; and to call the partzufim vessels, and they esteemed them and honored them, and those who came after them made them divinities, according to the thought of the philosopher, the author, and accepted them upon themselves as divinities, as will be explained within. And likewise our Rabbis of blessed memory expounded in the verse: wine and strong drink you shall not drink, and these are his words: \"Rabbi Chiya opened: 'The precepts of the LORD are right'; and it is written of wine: 'it goes down smoothly'; and it is written: 'rejoicing the heart'; and it is written: 'and wine gladdens the heart of man.' Just as this wine gladdens the heart, so the words of Torah gladden the heart; just as this wine, one who drinks of it more than his need in the end vomits everything; so the words of Torah, one who occupies himself with them and thinks about them too much, in the end he goes out into heresy.\" Thus far. (Midrash ha-Gadol, Parashat Shemini, verse 'wine and strong drink'). In this way did the philosopher, the false prophet, the author of the Zohar, act, to follow after his heart, to think about the words of Torah too much, in paths far from the truth, and very far from the rules that the Sages received, a man from the mouth of a man, by which the Torah is expounded, and these are the thirteen rules of Rabbi Ishmael and the thirty-three rules of Rabbi Yose the Galilean, for the Aggadah, as the discerning, attentive reader will see; and he enticed and seduced the sages, the upright of heart, who walk in their simplicity, to believe him in his lies: that there was revealed to him the Holy One, blessed be He, who is called by him the Elder of Elders, and Moses our teacher, peace be upon him, and Elijah, and they revealed to him secrets of heresy, which it is forbidden to think about them, even in the lavatory; and he promised one who occupies himself with his Torah without understanding, a reward greater than the essentials of the Torah, in order to blind the eyes of the sages and to stop up the way of study in his words so as not to understand his machinations, and to magnify the merit of those who occupy themselves with his new Torah, full of idols different in their essences and their activities, without being particular about the addition and multiplicity, in our God, the Unique, above all other ones; and do not take note how the Torah was strict about 'you shall not add', whether in tefillin, or in a mezuzah, or in the four species of the lulav, and likewise in the other commandments, even though he puts five sections in one hide and he joins them to be one, and likewise, if he adds one section to a mezuzah, even though parchment joins them to be one, we do not say 'as though it were not one'; and likewise in tzitzit, and in the bundle of four species, if he added a fifth species to the bundle, it is disqualified; and we do not say 'as though it were not one'.",
+      "severity": "error",
+      "reason": "Fidelity and decisions. (1) בחשבם שהוא לרשב״י התנא: ל is possessive; the students thought the BOOK was Rabbi Shimon bar Yochai the Tanna's, not that 'he' (the author) was Rabbi Shimon bar Yochai; the old English also says something the Hebrew does not. (2) ול״ג מדות is 'thirty-three' as written (wave 1 ruling; the old English and note applied the superseded 32). (3) The nested quotation marks were broken (an unclosed single quote) and ביין was folded into the quotation. (4) 'that he goes out' is no sentence; 'In this way did ... to search' has no main verb (checklist 1), and לתור אחרי לבבו is Num 15:39, 'to follow after his heart'. (5) איש מפי איש lost מפי. (6) להאמינו lost the pronoun. (7) הנקרא is passive (checklist 4). (8) גופי תורה is 'the essentials of the Torah' ('bodies of'), not 'plain text'. (9) בל תוסיף is the name of the prohibition, quoted: 'the prohibition' was an added word. (10) בעור אחד is 'in one hide' (עור was unrendered, glossed 'on'); שקלף is ש + קלף 'that parchment' joining the sections, not 'he scraped their join' (invented word); להיות is 'to be', not 'to make'. (11) The Hebrew has one full stop; the English had stray full stops and a capital 'And' / lower-case 'and' after a stop. (12) The idiom נותן לב and the verb חשב are rendered consistently by sense. (13) '(Sforno: to honor them)' reordered the author's gloss."
+    },
+    {
+      "ref": "1:6",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "1:6.1",
+            "1:6.2",
+            "1:6.3",
+            "1:6.4",
+            "1:6.5",
+            "1:6.6",
+            "1:6.7",
+            "1:6.8"
+          ],
+          "english": "And concerning this external faith of the philosopher, the author of the Zohar,",
+          "literal": "and-concerning the-faith the-external this of the-philosopher author-of the-Zohar"
+        },
+        {
+          "tokens": [
+            "1:6.9",
+            "1:6.10"
+          ],
+          "english": "our Rabbis of blessed memory expounded",
+          "literal": "expounded our-Rabbis-of-blessed-memory"
+        },
+        {
+          "tokens": [
+            "1:6.11",
+            "1:6.12",
+            "1:6.13",
+            "1:6.14",
+            "1:6.15",
+            "1:6.16"
+          ],
+          "english": "(Yalkut, Parashat Kedoshim, and the Midrash ha-Gadol there,",
+          "literal": "Yalkut Parashat Kedoshim and-Midrash ha-Gadol there"
+        },
+        {
+          "tokens": [
+            "1:6.17",
+            "1:6.18",
+            "1:6.19",
+            "1:6.20",
+            "1:6.21"
+          ],
+          "english": "and the Rambam in Sefer ha-Mitzvot, negative commandment 10):",
+          "literal": "and-the-Rambam in-the-book of-Commandments negative-commandment 10"
+        },
+        {
+          "tokens": [
+            "1:6.22",
+            "1:6.23",
+            "1:6.24",
+            "1:6.25"
+          ],
+          "english": "\"Do not turn to the idols,",
+          "literal": "do-not turn to the-idols"
+        },
+        {
+          "tokens": [
+            "1:6.26",
+            "1:6.27",
+            "1:6.28",
+            "1:6.29",
+            "1:6.30"
+          ],
+          "english": "and the gods of; if you turn to others",
+          "literal": "and-gods-of if you turn to-others"
+        },
+        {
+          "tokens": [
+            "1:6.31",
+            "1:6.32"
+          ],
+          "english": "(to honor them, Sforno),",
+          "literal": "to-honor-them Sforno"
+        },
+        {
+          "tokens": [
+            "1:6.33",
+            "1:6.34",
+            "1:6.35",
+            "1:6.36"
+          ],
+          "english": "your end is to make them divinities.\" Thus far.",
+          "literal": "your-end to-make-them divinities thus-far"
+        },
+        {
+          "tokens": [
+            "1:6.37",
+            "1:6.38",
+            "1:6.39",
+            "1:6.40",
+            "1:6.41",
+            "1:6.42"
+          ],
+          "english": "And so it befell the faith of the philosopher, the author of the Zohar,",
+          "literal": "and-so it-befell the-faith-of the-philosopher author-of the-Zohar"
+        },
+        {
+          "tokens": [
+            "1:6.43",
+            "1:6.44",
+            "1:6.45",
+            "1:6.46",
+            "1:6.47",
+            "1:6.48",
+            "1:6.49"
+          ],
+          "english": "for the early students who learned from it, thinking",
+          "literal": "for the-students the-early who learned from-it thinking"
+        },
+        {
+          "tokens": [
+            "1:6.50",
+            "1:6.51",
+            "1:6.52"
+          ],
+          "english": "that it was Rabbi Shimon bar Yochai the Tanna's,",
+          "literal": "that-it of-Rabbi-Shimon-bar-Yochai the-Tanna"
+        },
+        {
+          "tokens": [
+            "1:6.53",
+            "1:6.54",
+            "1:6.55"
+          ],
+          "english": "they thought to make sense of his words;",
+          "literal": "they-thought to-make-sense-of his-words"
+        },
+        {
+          "tokens": [
+            "1:6.56"
+          ],
+          "english": "and to call",
+          "literal": "and-to-call"
+        },
+        {
+          "tokens": [
+            "1:6.57"
+          ],
+          "english": "-",
+          "literal": "object-marker"
+        },
+        {
+          "tokens": [
+            "1:6.58",
+            "1:6.59"
+          ],
+          "english": "the partzufim vessels,",
+          "literal": "the-partzufim vessels"
+        },
+        {
+          "tokens": [
+            "1:6.60",
+            "1:6.61",
+            "1:6.62"
+          ],
+          "english": "and they esteemed them and honored them,",
+          "literal": "and-they-esteemed-them and-honored them"
+        },
+        {
+          "tokens": [
+            "1:6.63",
+            "1:6.64"
+          ],
+          "english": "and those who came after them",
+          "literal": "and-those-who-came after-them"
+        },
+        {
+          "tokens": [
+            "1:6.65",
+            "1:6.66",
+            "1:6.67",
+            "1:6.68",
+            "1:6.69",
+            "1:6.70"
+          ],
+          "english": "made them divinities, according to the thought of the philosopher, the author,",
+          "literal": "made them divinities according-to-the-thought-of the-philosopher the-author"
+        },
+        {
+          "tokens": [
+            "1:6.71",
+            "1:6.72",
+            "1:6.73"
+          ],
+          "english": "and accepted them upon themselves as divinities,",
+          "literal": "and-accepted-them upon-themselves as-divinities"
+        },
+        {
+          "tokens": [
+            "1:6.74",
+            "1:6.75",
+            "1:6.76"
+          ],
+          "english": "as will be explained within.",
+          "literal": "as will-be-explained within"
+        },
+        {
+          "tokens": [
+            "1:6.77",
+            "1:6.78",
+            "1:6.79"
+          ],
+          "english": "And likewise our Rabbis of blessed memory expounded",
+          "literal": "and-likewise expounded our-Rabbis-of-blessed-memory"
+        },
+        {
+          "tokens": [
+            "1:6.80",
+            "1:6.81",
+            "1:6.82",
+            "1:6.83",
+            "1:6.84"
+          ],
+          "english": "in the verse: wine and strong drink you shall not drink,",
+          "literal": "in-the-verse wine and-strong-drink do-not drink"
+        },
+        {
+          "tokens": [
+            "1:6.85"
+          ],
+          "english": "and these are his words:",
+          "literal": "and-these-are-his-words"
+        },
+        {
+          "tokens": [
+            "1:6.86",
+            "1:6.87",
+            "1:6.88"
+          ],
+          "english": "\"Rabbi Chiya opened:",
+          "literal": "Rabbi Chiya opened"
+        },
+        {
+          "tokens": [
+            "1:6.89",
+            "1:6.90",
+            "1:6.91"
+          ],
+          "english": "'The precepts of the LORD are right';",
+          "literal": "the-precepts-of the-LORD are-right"
+        },
+        {
+          "tokens": [
+            "1:6.92",
+            "1:6.93",
+            "1:6.94",
+            "1:6.95"
+          ],
+          "english": "and it is written of wine: 'it goes down smoothly';",
+          "literal": "and-it-is-written of-wine it-goes-down smoothly"
+        },
+        {
+          "tokens": [
+            "1:6.96",
+            "1:6.97",
+            "1:6.98"
+          ],
+          "english": "and it is written: 'rejoicing the heart';",
+          "literal": "and-it-is-written rejoicing the-heart"
+        },
+        {
+          "tokens": [
+            "1:6.99",
+            "1:6.100",
+            "1:6.101",
+            "1:6.102",
+            "1:6.103"
+          ],
+          "english": "and it is written: 'and wine gladdens the heart of man.'",
+          "literal": "and-it-is-written and-wine gladdens the-heart of-man"
+        },
+        {
+          "tokens": [
+            "1:6.104",
+            "1:6.105",
+            "1:6.106",
+            "1:6.107",
+            "1:6.108",
+            "1:6.109"
+          ],
+          "english": "Just as this wine gladdens the heart,",
+          "literal": "just-as the-wine this gladdens object-marker the-heart"
+        },
+        {
+          "tokens": [
+            "1:6.110",
+            "1:6.111",
+            "1:6.112",
+            "1:6.113",
+            "1:6.114",
+            "1:6.115"
+          ],
+          "english": "so the words of Torah gladden the heart;",
+          "literal": "so the-words-of Torah gladden object-marker the-heart"
+        },
+        {
+          "tokens": [
+            "1:6.116",
+            "1:6.117",
+            "1:6.118",
+            "1:6.119",
+            "1:6.120",
+            "1:6.121",
+            "1:6.122",
+            "1:6.123",
+            "1:6.124"
+          ],
+          "english": "just as this wine, one who drinks of it more than his need in the end vomits",
+          "literal": "just-as the-wine this who-drinks of-it more than-his-need in-the-end vomits"
+        },
+        {
+          "tokens": [
+            "1:6.125",
+            "1:6.126"
+          ],
+          "english": "everything;",
+          "literal": "object-marker everything"
+        },
+        {
+          "tokens": [
+            "1:6.127",
+            "1:6.128",
+            "1:6.129"
+          ],
+          "english": "so the words of Torah,",
+          "literal": "so the-words-of Torah"
+        },
+        {
+          "tokens": [
+            "1:6.130",
+            "1:6.131",
+            "1:6.132",
+            "1:6.133"
+          ],
+          "english": "one who occupies himself with them and thinks about them",
+          "literal": "one-who-occupies-himself with-them and-thinks about-them"
+        },
+        {
+          "tokens": [
+            "1:6.134",
+            "1:6.135",
+            "1:6.136"
+          ],
+          "english": "too much, in the end",
+          "literal": "too-much beyond-measure in-the-end"
+        },
+        {
+          "tokens": [
+            "1:6.137",
+            "1:6.138",
+            "1:6.139",
+            "1:6.140"
+          ],
+          "english": "he goes out into heresy.\" Thus far.",
+          "literal": "that goes-out into-heresy thus-far"
+        },
+        {
+          "tokens": [
+            "1:6.141",
+            "1:6.142",
+            "1:6.143",
+            "1:6.144",
+            "1:6.145",
+            "1:6.146",
+            "1:6.147"
+          ],
+          "english": "(Midrash ha-Gadol, Parashat Shemini, verse 'wine and strong drink').",
+          "literal": "Midrash ha-Gadol Parashat Shemini verse wine and-strong-drink"
+        },
+        {
+          "tokens": [
+            "1:6.148",
+            "1:6.149",
+            "1:6.150",
+            "1:6.151"
+          ],
+          "english": "In this way did the philosopher,",
+          "literal": "in-this-way this did the-philosopher"
+        },
+        {
+          "tokens": [
+            "1:6.152",
+            "1:6.153",
+            "1:6.154",
+            "1:6.155"
+          ],
+          "english": "the false prophet, the author of the Zohar, act,",
+          "literal": "prophet of-falsehood the-author-of the-Zohar"
+        },
+        {
+          "tokens": [
+            "1:6.156",
+            "1:6.157",
+            "1:6.158"
+          ],
+          "english": "to follow after his heart,",
+          "literal": "to-follow after his-heart"
+        },
+        {
+          "tokens": [
+            "1:6.159",
+            "1:6.160",
+            "1:6.161",
+            "1:6.162",
+            "1:6.163"
+          ],
+          "english": "to think about the words of Torah too much,",
+          "literal": "to-think about-the-words-of Torah too beyond-measure"
+        },
+        {
+          "tokens": [
+            "1:6.164",
+            "1:6.165",
+            "1:6.166",
+            "1:6.167"
+          ],
+          "english": "in paths far from the truth,",
+          "literal": "in-paths distant from the-truth"
+        },
+        {
+          "tokens": [
+            "1:6.168",
+            "1:6.169",
+            "1:6.170"
+          ],
+          "english": "and very far from",
+          "literal": "and-far very from"
+        },
+        {
+          "tokens": [
+            "1:6.171",
+            "1:6.172",
+            "1:6.173"
+          ],
+          "english": "the rules that the Sages received,",
+          "literal": "the-rules that-they-received the-Sages"
+        },
+        {
+          "tokens": [
+            "1:6.174",
+            "1:6.175",
+            "1:6.176"
+          ],
+          "english": "a man from the mouth of a man,",
+          "literal": "a-man from-the-mouth-of a-man"
+        },
+        {
+          "tokens": [
+            "1:6.177",
+            "1:6.178",
+            "1:6.179"
+          ],
+          "english": "by which the Torah is expounded,",
+          "literal": "by-which-the-Torah is-expounded by-them"
+        },
+        {
+          "tokens": [
+            "1:6.180",
+            "1:6.181",
+            "1:6.182"
+          ],
+          "english": "and these are the thirteen rules",
+          "literal": "and-these-are the-thirteen rules"
+        },
+        {
+          "tokens": [
+            "1:6.183",
+            "1:6.184"
+          ],
+          "english": "of Rabbi Ishmael",
+          "literal": "of-Rabbi Ishmael"
+        },
+        {
+          "tokens": [
+            "1:6.185",
+            "1:6.186"
+          ],
+          "english": "and the thirty-three rules",
+          "literal": "and-the-thirty-three rules"
+        },
+        {
+          "tokens": [
+            "1:6.187",
+            "1:6.188",
+            "1:6.189",
+            "1:6.190"
+          ],
+          "english": "of Rabbi Yose the Galilean, for the Aggadah,",
+          "literal": "of-Rabbi Yose the-Galilean for-the-Aggadah"
+        },
+        {
+          "tokens": [
+            "1:6.191",
+            "1:6.192",
+            "1:6.193",
+            "1:6.194"
+          ],
+          "english": "as the discerning, attentive reader will see;",
+          "literal": "as will-see the-attentive-reader the-discerning"
+        },
+        {
+          "tokens": [
+            "1:6.195",
+            "1:6.196",
+            "1:6.197"
+          ],
+          "english": "and he enticed and seduced the sages,",
+          "literal": "and-enticed and-seduced the-sages"
+        },
+        {
+          "tokens": [
+            "1:6.198",
+            "1:6.199",
+            "1:6.200",
+            "1:6.201"
+          ],
+          "english": "the upright of heart, who walk in their simplicity,",
+          "literal": "the-upright of-heart who-walk in-their-simplicity"
+        },
+        {
+          "tokens": [
+            "1:6.202",
+            "1:6.203"
+          ],
+          "english": "to believe him in his lies:",
+          "literal": "to-believe-him his-lies"
+        },
+        {
+          "tokens": [
+            "1:6.204",
+            "1:6.205"
+          ],
+          "english": "that there was revealed to him",
+          "literal": "that-there-was-revealed to-him"
+        },
+        {
+          "tokens": [
+            "1:6.206",
+            "1:6.207",
+            "1:6.208"
+          ],
+          "english": "the Holy One, blessed be He, who is called by him",
+          "literal": "the-Holy-One-blessed-be-He who-is-called by-him"
+        },
+        {
+          "tokens": [
+            "1:6.209",
+            "1:6.210"
+          ],
+          "english": "the Elder of Elders,",
+          "literal": "the-Elder of-Elders"
+        },
+        {
+          "tokens": [
+            "1:6.211",
+            "1:6.212",
+            "1:6.213"
+          ],
+          "english": "and Moses our teacher, peace be upon him,",
+          "literal": "and-Moses our-teacher peace-be-upon-him"
+        },
+        {
+          "tokens": [
+            "1:6.214",
+            "1:6.215",
+            "1:6.216"
+          ],
+          "english": "and Elijah, and they revealed to him",
+          "literal": "and-Elijah and-they-revealed to-him"
+        },
+        {
+          "tokens": [
+            "1:6.217",
+            "1:6.218",
+            "1:6.219",
+            "1:6.220"
+          ],
+          "english": "secrets of heresy, which it is forbidden",
+          "literal": "secrets of heresy which-is-forbidden"
+        },
+        {
+          "tokens": [
+            "1:6.221",
+            "1:6.222",
+            "1:6.223",
+            "1:6.224",
+            "1:6.225"
+          ],
+          "english": "to think about them, even in the lavatory;",
+          "literal": "to-think about-them even in-the lavatory"
+        },
+        {
+          "tokens": [
+            "1:6.226",
+            "1:6.227",
+            "1:6.228"
+          ],
+          "english": "and he promised one who occupies himself with his Torah",
+          "literal": "and-promised one-who-occupies-himself with-his-Torah"
+        },
+        {
+          "tokens": [
+            "1:6.229",
+            "1:6.230",
+            "1:6.231"
+          ],
+          "english": "without understanding, a reward",
+          "literal": "without understanding a-reward"
+        },
+        {
+          "tokens": [
+            "1:6.232",
+            "1:6.233",
+            "1:6.234",
+            "1:6.235"
+          ],
+          "english": "greater than the essentials of the Torah,",
+          "literal": "great more than-bodies-of Torah"
+        },
+        {
+          "tokens": [
+            "1:6.236",
+            "1:6.237",
+            "1:6.238",
+            "1:6.239"
+          ],
+          "english": "in order to blind the eyes of the sages",
+          "literal": "in-order-to to-blind the-eyes-of the-sages"
+        },
+        {
+          "tokens": [
+            "1:6.240",
+            "1:6.241",
+            "1:6.242",
+            "1:6.243"
+          ],
+          "english": "and to stop up the way of study in his words",
+          "literal": "and-to-stop-up the-way of-study in-his-words"
+        },
+        {
+          "tokens": [
+            "1:6.244",
+            "1:6.245"
+          ],
+          "english": "so as not to understand",
+          "literal": "so-that-not to-understand"
+        },
+        {
+          "tokens": [
+            "1:6.246"
+          ],
+          "english": "-",
+          "literal": "object-marker"
+        },
+        {
+          "tokens": [
+            "1:6.247"
+          ],
+          "english": "his machinations,",
+          "literal": "his-machinations"
+        },
+        {
+          "tokens": [
+            "1:6.248",
+            "1:6.249",
+            "1:6.250"
+          ],
+          "english": "and to magnify the merit of those who occupy themselves",
+          "literal": "and-to-magnify the-merit-of those-who-occupy-themselves"
+        },
+        {
+          "tokens": [
+            "1:6.251",
+            "1:6.252",
+            "1:6.253"
+          ],
+          "english": "with his new Torah, full of",
+          "literal": "with-his-Torah new full-of"
+        },
+        {
+          "tokens": [
+            "1:6.254",
+            "1:6.255",
+            "1:6.256"
+          ],
+          "english": "idols different in their essences",
+          "literal": "idols different in-their-essences"
+        },
+        {
+          "tokens": [
+            "1:6.257",
+            "1:6.258",
+            "1:6.259"
+          ],
+          "english": "and their activities, without being particular",
+          "literal": "and-their-activities without being-particular"
+        },
+        {
+          "tokens": [
+            "1:6.260",
+            "1:6.261",
+            "1:6.262"
+          ],
+          "english": "about the addition and multiplicity,",
+          "literal": "about addition and-multiplicity"
+        },
+        {
+          "tokens": [
+            "1:6.263",
+            "1:6.264",
+            "1:6.265",
+            "1:6.266",
+            "1:6.267"
+          ],
+          "english": "in our God, the Unique, above all other ones;",
+          "literal": "in-our-God the-Unique above-all other ones"
+        },
+        {
+          "tokens": [
+            "1:6.268",
+            "1:6.269",
+            "1:6.270",
+            "1:6.271"
+          ],
+          "english": "and do not take note how",
+          "literal": "and-not they-take note how"
+        },
+        {
+          "tokens": [
+            "1:6.272",
+            "1:6.273",
+            "1:6.274"
+          ],
+          "english": "the Torah was strict about",
+          "literal": "was-strict the-Torah about"
+        },
+        {
+          "tokens": [
+            "1:6.275",
+            "1:6.276"
+          ],
+          "english": "'you shall not add',",
+          "literal": "not you-shall-add"
+        },
+        {
+          "tokens": [
+            "1:6.277",
+            "1:6.278",
+            "1:6.279",
+            "1:6.280"
+          ],
+          "english": "whether in tefillin, or in a mezuzah,",
+          "literal": "whether in-tefillin or in-a-mezuzah"
+        },
+        {
+          "tokens": [
+            "1:6.281",
+            "1:6.282",
+            "1:6.283",
+            "1:6.284"
+          ],
+          "english": "or in the four species of the lulav,",
+          "literal": "or in-the-four species of-the-lulav"
+        },
+        {
+          "tokens": [
+            "1:6.285",
+            "1:6.286",
+            "1:6.287"
+          ],
+          "english": "and likewise in the other commandments,",
+          "literal": "and-likewise in-the-other commandments"
+        },
+        {
+          "tokens": [
+            "1:6.288",
+            "1:6.289",
+            "1:6.290",
+            "1:6.291"
+          ],
+          "english": "even though he puts five sections",
+          "literal": "even-though he-puts five sections"
+        },
+        {
+          "tokens": [
+            "1:6.292",
+            "1:6.293"
+          ],
+          "english": "in one hide",
+          "literal": "in-hide one"
+        },
+        {
+          "tokens": [
+            "1:6.294",
+            "1:6.295",
+            "1:6.296",
+            "1:6.297"
+          ],
+          "english": "and he joins them to be one,",
+          "literal": "and-he joins-them to-be one"
+        },
+        {
+          "tokens": [
+            "1:6.298",
+            "1:6.299",
+            "1:6.300"
+          ],
+          "english": "and likewise, if he adds",
+          "literal": "and-likewise if adds"
+        },
+        {
+          "tokens": [
+            "1:6.301",
+            "1:6.302",
+            "1:6.303"
+          ],
+          "english": "one section to a mezuzah,",
+          "literal": "to-a-mezuzah a-section one"
+        },
+        {
+          "tokens": [
+            "1:6.304",
+            "1:6.305",
+            "1:6.306",
+            "1:6.307",
+            "1:6.308"
+          ],
+          "english": "even though parchment joins them to be one,",
+          "literal": "even-though that-parchment joins-them to-be one"
+        },
+        {
+          "tokens": [
+            "1:6.309",
+            "1:6.310",
+            "1:6.311",
+            "1:6.312"
+          ],
+          "english": "we do not say 'as though it were not one';",
+          "literal": "we-do-not say as-if-not one"
+        },
+        {
+          "tokens": [
+            "1:6.313",
+            "1:6.314"
+          ],
+          "english": "and likewise in tzitzit,",
+          "literal": "and-likewise in-tzitzit"
+        },
+        {
+          "tokens": [
+            "1:6.315",
+            "1:6.316",
+            "1:6.317"
+          ],
+          "english": "and in the bundle of four species,",
+          "literal": "and-in-the-bundle-of four species"
+        },
+        {
+          "tokens": [
+            "1:6.318",
+            "1:6.319",
+            "1:6.320",
+            "1:6.321"
+          ],
+          "english": "if he added a fifth species",
+          "literal": "if he-added a-species fifth"
+        },
+        {
+          "tokens": [
+            "1:6.322",
+            "1:6.323"
+          ],
+          "english": "to the bundle, it is disqualified;",
+          "literal": "to-the-bundle it-is-disqualified"
+        },
+        {
+          "tokens": [
+            "1:6.324",
+            "1:6.325",
+            "1:6.326",
+            "1:6.327"
+          ],
+          "english": "and we do not say 'as though it were not one'.",
+          "literal": "and-not we-say as-if-not one"
+        }
+      ],
+      "severity": "error",
+      "reason": "Phrases follow the new English."
+    },
+    {
+      "ref": "1:6",
+      "path": "literal",
+      "value": "and-concerning the-faith the-external this of the-philosopher author-of the-Zohar expounded our-Rabbis-of-blessed-memory Yalkut Parashat Kedoshim and-Midrash ha-Gadol there and-the-Rambam in-the-book of-Commandments negative-commandment 10 do-not turn to the-idols and-gods-of if you turn to-others to-honor-them Sforno your-end to-make-them divinities thus-far and-so it-befell the-faith-of the-philosopher author-of the-Zohar for the-students the-early who learned from-it thinking that-it of-Rabbi-Shimon-bar-Yochai the-Tanna they-thought to-make-sense-of his-words and-to-call object-marker the-partzufim vessels and-they-esteemed-them and-honored them and-those-who-came after-them made them divinities according-to-the-thought-of the-philosopher the-author and-accepted-them upon-themselves as-divinities as will-be-explained within and-likewise expounded our-Rabbis-of-blessed-memory in-the-verse wine and-strong-drink do-not drink and-these-are-his-words Rabbi Chiya opened the-precepts-of the-LORD are-right and-it-is-written of-wine it-goes-down smoothly and-it-is-written rejoicing the-heart and-it-is-written and-wine gladdens the-heart of-man just-as the-wine this gladdens object-marker the-heart so the-words-of Torah gladden object-marker the-heart just-as the-wine this who-drinks of-it more than-his-need in-the-end vomits object-marker everything so the-words-of Torah one-who-occupies-himself with-them and-thinks about-them too-much beyond-measure in-the-end that goes-out into-heresy thus-far Midrash ha-Gadol Parashat Shemini verse wine and-strong-drink in-this-way this did the-philosopher prophet of-falsehood the-author-of the-Zohar to-follow after his-heart to-think about-the-words-of Torah too beyond-measure in-paths distant from the-truth and-far very from the-rules that-they-received the-Sages a-man from-the-mouth-of a-man by-which-the-Torah is-expounded by-them and-these-are the-thirteen rules of-Rabbi Ishmael and-the-thirty-three rules of-Rabbi Yose the-Galilean for-the-Aggadah as will-see the-attentive-reader the-discerning and-enticed and-seduced the-sages the-upright of-heart who-walk in-their-simplicity to-believe-him his-lies that-there-was-revealed to-him the-Holy-One-blessed-be-He who-is-called by-him the-Elder of-Elders and-Moses our-teacher peace-be-upon-him and-Elijah and-they-revealed to-him secrets of heresy which-is-forbidden to-think about-them even in-the lavatory and-promised one-who-occupies-himself with-his-Torah without understanding a-reward great more than-bodies-of Torah in-order-to to-blind the-eyes-of the-sages and-to-stop-up the-way of-study in-his-words so-that-not to-understand object-marker his-machinations and-to-magnify the-merit-of those-who-occupy-themselves with-his-Torah new full-of idols different in-their-essences and-their-activities without being-particular about addition and-multiplicity in-our-God the-Unique above-all other ones and-not they-take note how was-strict the-Torah about not you-shall-add whether in-tefillin or in-a-mezuzah or in-the-four species of-the-lulav and-likewise in-the-other commandments even-though he-puts five sections in-hide one and-he joins-them to-be one and-likewise if adds to-a-mezuzah a-section one even-though that-parchment joins-them to-be one we-do-not say as-if-not one and-likewise in-tzitzit and-in-the-bundle-of four species if he-added a-species fifth to-the-bundle it-is-disqualified and-not we-say as-if-not one",
+      "severity": "error",
+      "reason": "The literal follows the corrected English and the corrected tokens."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.26.gloss",
+      "value": "and the gods of",
+      "severity": "question",
+      "reason": "ואלהי is construct ('gods of'), and in Lev 19:4 it continues 'מסכה'. The author's quotation breaks off. Proposed ruling: translate the construct as written, 'and the gods of', add nothing, and say in a note that the quotation is cut short."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.26.note",
+      "value": "ואלהי: construct state, 'gods of'. Lev 19:4 reads 'ואלהי מסכה'; the author's wording is cut off after ואלהי and followed by his own words, which are translated as he gives them.",
+      "severity": "style",
+      "reason": "The old note called the wording 'followed as he gives it' but the English had dropped the construct."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.50.gloss",
+      "value": "that it",
+      "severity": "error",
+      "reason": "שהוא refers to the book (הזהר), not to a person."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.51.gloss",
+      "value": "Rabbi Shimon bar Yochai's",
+      "severity": "error",
+      "reason": "לרשב״י has the possessive ל."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.51.note",
+      "value": "רשב״י is written out in full (decisions). ל־ is possessive: the early students thought the book was Rabbi Shimon bar Yochai the Tanna's. The English does not say more than the Hebrew about who wrote it.",
+      "severity": "style",
+      "reason": "A learner needs the construction; the decisions keep the two figures apart."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.52.gloss",
+      "value": "the Tanna's",
+      "severity": "error",
+      "reason": "Apposition to the possessive of 1:6.51."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.94.gloss",
+      "value": "it goes down",
+      "severity": "error",
+      "reason": "יתהלך is a verb (yiqtol, 'it goes'); the old gloss had no subject and ביין (1:6.93) is 'of wine'."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.132.gloss",
+      "value": "and thinks",
+      "severity": "style",
+      "reason": "ומחשב is the verb חשב, rendered 'think' consistently (also 1:6.159, 1:6.221)."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.156.gloss",
+      "value": "to follow",
+      "severity": "style",
+      "reason": "לתור אחרי לבבו alludes to Num 15:39 (ולא תתורו אחרי לבבכם): 'to follow after the heart'."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.156.note",
+      "value": "לתור אחרי לבבו alludes to Num 15:39, ולא תתורו אחרי לבבכם, 'and you shall not follow after your heart'.",
+      "severity": "style",
+      "reason": "The allusion must be recognised (decisions: Bible verses)."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.159.gloss",
+      "value": "to think",
+      "severity": "style",
+      "reason": "Consistent rendering of חשב."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.160.gloss",
+      "value": "about the words of",
+      "severity": "style",
+      "reason": "ב after חשב is 'about'."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.171.note",
+      "value": "Literally 'measures' (המדות); the hermeneutical rules by which the Torah is expounded, as the next clauses show (the thirteen rules of Rabbi Ishmael and the rules of Rabbi Yose the Galilean).",
+      "severity": "error",
+      "reason": "The old note sent the learner to a use 'in 1:5' where the word does not occur."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.185.gloss",
+      "value": "and the thirty-three",
+      "severity": "error",
+      "reason": "Wave 1 ruling: translate the number as written (ל״ג is 33)."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.185.note",
+      "value": "ל״ג is the letters for thirty-three, as written. The tradition counts thirty-two rules of Rabbi Yose the Galilean.",
+      "severity": "error",
+      "reason": "The old note says the work renders thirty-two; the wave 1 ruling overrides that entry."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.221.gloss",
+      "value": "to think",
+      "severity": "style",
+      "reason": "Consistent rendering of חשב."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.234.gloss",
+      "value": "than the essentials of",
+      "severity": "question",
+      "reason": "גופי תורה is an idiom (literally 'bodies of Torah'): the main substance of the Torah, not its 'plain text'. Proposed ruling: 'the essentials of the Torah', literal 'bodies' in the token note."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.234.note",
+      "value": "מגופי תורה: literally 'than the bodies of Torah'; גופי תורה are the essentials, the main body of the Torah's law.",
+      "severity": "style",
+      "reason": "A learner needs the literal sense of the idiom."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.255.gloss",
+      "value": "different",
+      "severity": "style",
+      "reason": "שונים is 'different, differing' (in essences and activities)."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.269.gloss",
+      "value": "they take",
+      "severity": "style",
+      "reason": "ולא יתנו לב: idiom, 'take note'."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.270.gloss",
+      "value": "note",
+      "severity": "style",
+      "reason": "See 1:6.269."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.275.gloss",
+      "value": "you shall not",
+      "severity": "error",
+      "reason": "בל תוסיף is quoted by its words; the gloss 'the prohibition' added a word."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.275.note",
+      "value": "בל תוסיף: 'you shall not add', the rabbinic name of the prohibition against adding to the commandments (Deut 4:2, 13:1), quoted by its words.",
+      "severity": "style",
+      "reason": "A learner needs the name; the verse goes in apparatus."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.276.gloss",
+      "value": "add",
+      "severity": "error",
+      "reason": "See 1:6.275."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.292.gloss",
+      "value": "in hide",
+      "severity": "error",
+      "reason": "בעור is 'in hide / leather'; 'on' is the wrong preposition and עור was not rendered anywhere."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.296.gloss",
+      "value": "to be",
+      "severity": "error",
+      "reason": "להיות is 'to be', not 'to make'."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.305.gloss",
+      "value": "that parchment",
+      "severity": "error",
+      "reason": "שקלף is ש + קלף, the noun 'parchment', subject of מחברן; compare the tefillin case, 'in one hide ... joins them'. 'He scraped' leaves מחברן without sense and invents 'their join'."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.305.note",
+      "value": "שקלף: ש + קלף, 'that parchment'. The sections are joined into one piece by the parchment, as in the tefillin case above (בעור אחד).",
+      "severity": "error",
+      "reason": "The old note gave the verb reading 'scraped', which the sentence does not support."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.306.gloss",
+      "value": "joins them",
+      "severity": "error",
+      "reason": "מחברן is the participle 'joins them', not 'their join'."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.307.gloss",
+      "value": "to be",
+      "severity": "error",
+      "reason": "לחיות is a spelling of להיות."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.307.note",
+      "value": "לחיות: the spelling in the witness for להיות, 'to be'; translated as the evident word and recorded in apparatus.",
+      "severity": "style",
+      "reason": "Decisions: variant spellings are recorded."
+    },
+    {
+      "ref": "1:6",
+      "path": "token:1:6.311.note",
+      "value": "כלא חד: Aramaic, the author's halakhic formula. Rendered 'as though it were not one' (the same ruling as 1:7, which the owner will review); a possible alternative is כולא חד, 'it is all one'.",
+      "severity": "question",
+      "reason": "The owner holds ולא אמרינן כלא חד for 1:7. The same words occur twice here (1:6.309-312, 1:6.324-327). Proposed ruling: the same English in all three places and the alternative kept in apparatus until the owner decides."
+    },
+    {
+      "ref": "1:6",
+      "path": "grammar",
+      "value": [
+        "The paragraph is one long period. The quotation from Lev 19:4 (in the Yalkut, Midrash ha-Gadol and Rambam) runs from 'Do not turn' to 'Thus far'; its parenthesis is Sforno's gloss, kept in parentheses.",
+        "The Midrash ha-Gadol passage (Rabbinic Hebrew) chains verses with 'and it is written' (וכתיב): Ps 19:9, Prov 23:31 (in the Midrash's wording) and Ps 104:15. Its analogy 'just as ... so' (מה ... כך) carries the argument, and the second half turns on 'too much' (מדאי).",
+        "The infinitives after עשה (לתור, לחשב, להעור, ולסתום, ולהגדיל) give the purpose of the philosopher's deed; לתור אחרי לבבו alludes to Num 15:39, and להעור עיני חכמים to Deut 16:19.",
+        "בחשבם שהוא לרשב״י התנא: the ל of לרשב״י is possessive. The early students thought the book was Rabbi Shimon bar Yochai the Tanna's.",
+        "The verbs in the sentence about the early students (חשבו, והחשיבום, וכיבדו, עשו, וקיבלום) narrate what followed from the first error, in the perfect with waw.",
+        "דאגדתא, מינין and לא אמרינן כלא חד are Talmudic Aramaic inside the author's Hebrew; the last two clauses are the halakhic conclusion of the paragraph and the English keeps them as parallel sentences."
+      ],
+      "severity": "error",
+      "reason": "The old list left the possessive ל of לרשב״י unexplained, omitted Prov 23:31 from the chain of verses, and did not label the Aramaic."
+    },
+    {
+      "ref": "1:6",
+      "path": "apparatus",
+      "value": [
+        "Lev 19:4, quoted words 'Do not turn to the idols' (אל תפנו אל האלילים). The rest of the quotation is the author's wording (ואלהי אם אתה פונה אחרים) and is rendered as he gives it; in the verse ואלהי continues 'מסכה'.",
+        "Lev 10:9, 'Wine and strong drink you shall not drink' (in the verse: wine and strong drink).",
+        "Ps 19:9: 'The precepts of the LORD are right' and 'rejoicing the heart' (משמחי לב).",
+        "Prov 23:31: 'ביין יתהלך במישרים' ('of wine: it goes down smoothly'); the verse has 'כי יתן בכוס עינו יתהלך במישרים' and the Midrash's wording is rendered as he gives it.",
+        "Ps 104:15: 'and wine gladdens the heart of man' (ויין ישמח לבב אנוש).",
+        "Num 15:39, alluded to in 'לתור אחרי לבבו' (to follow after his heart).",
+        "Deut 16:19, alluded to in 'להעור עיני חכמים' (a bribe 'blinds the eyes of the wise').",
+        "'בל תוסיף', the rabbinic name of the prohibition of Deut 4:2 and 13:1 (לא תספו / לא תסף עליו).",
+        "ל״ג in 'ול״ג מדות דר׳ יוסי הגלילי' is written as thirty-three by letters; the English follows the wave 1 ruling (thirty-three). The usual count of Rabbi Yose the Galilean's rules is thirty-two.",
+        "לחיות (1:6.307) is the witness's spelling of להיות; translated 'to be'.",
+        "כלא חד (1:6.311, 1:6.326): rendered 'as though it were not one' under the owner's reservation on 1:7; a possible alternative reading is כולא חד, 'it is all one'."
+      ],
+      "severity": "error",
+      "reason": "The old list identified Prov 23:31 as 'not identified', followed the superseded 32, and did not give Deut 16:19, the source of בל תוסיף, the spelling לחיות or the כלא חד reservation."
+    }
+  ],
+  "verdicts": []
+}
