@@ -555,6 +555,15 @@ senses are allowed, chosen by the use.
 - ס' before a quoted verse is "verse" (סימן = "section" in the author's
   numbered sections); read it from the context and note the choice.
 - אלוה (singular): "God" as in Job/Deut 32:15; not "the first God".
+- הר' / הרב before a book title (הר' כסא אליהו, הר' עץ יוסף): "the Rabbi, the author
+  of [title]", with a note; the title is never a personal name.
+- עה"ת: "on the Torah"; "a book on the Torah" where it follows a book's name
+  and the work is unidentified. Do not guess Etz Chayyim.
+- מ"ו = "our teacher" (מורנו) in the formula יודיענו מורנו; ב"ו = "blessed be
+  He" only before הוא elsewhere ב"ו = בשר ודם ("flesh and blood").
+- Fixed forms: "Roke'ach" (the Rokeach); "Ein Sof" never "without end" for the
+  noun (but לאין סוף "without end" in the Rambam passage when it is not the
+  name).
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
