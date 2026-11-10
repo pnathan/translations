@@ -520,6 +520,10 @@ senses are allowed, chosen by the use.
   "those of understanding".
 - ובפתרון הכתובים: "the verses" (of the Torah) when the example is from the
   Torah; "the Writings" only for כתובים as the third part of the Bible.
+- Numbers: translate the number as written (ל"ג = thirty-three), whatever the
+  tradition counts; the usual count goes in a note (the thirty-two rules of
+  R. Yose the Galilean). This overrides the "32" in the מדות entry for 1:6.
+- סנהדרין רי"ף: "Sanhedrin, [in] the Rif", as written; no volume or folio added.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
