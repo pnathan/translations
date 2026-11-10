@@ -1,0 +1,37 @@
+{
+  "unit": "perek-1-06",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "1:13",
+      "english": "The publisher",
+      "literal": "the-publisher",
+      "tokens": [
+        {
+          "id": "1:13.1",
+          "gloss": "the publisher",
+          "note": "Abbreviation of המוציא לאור (the one who brings out to the light), written with gershayim before the final letter. It is the heading of the publisher's voice, not the author's."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "1:13.1"
+          ],
+          "english": "The publisher",
+          "literal": "the-publisher"
+        }
+      ],
+      "grammar": [
+        "המו\"ל is a one-word heading with no verb and no syntax; it names the speaker of the paragraph that follows.",
+        "The abbreviation stands for המוציא לאור, and the English gives the ordinary title 'the publisher'.",
+        "The publisher's voice (1:10 to 1:13) is not the author's, as the decisions for this work require."
+      ],
+      "note": "Heading only; the section it introduces is translated in its own unit.",
+      "commentary": [],
+      "apparatus": [],
+      "context": [],
+      "readings": []
+    }
+  ]
+}
