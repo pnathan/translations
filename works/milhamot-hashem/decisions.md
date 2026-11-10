@@ -10,14 +10,34 @@ General rule for technical terms: the English names the thing the words name
 and goes no further. Kabbalistic technical names are transliterated, because
 every English equivalent in use takes a side. Either it carries the
 Kabbalists' defence ("configuration", "emanation", "the Infinite", "Divine
-Presence") or it carries Qafich's charge against them ("god", "idol"). Qafich
+Presence") or it carries Kafich's charge against them ("god", "idol"). Kafich
 makes his charge in his own words ("אליל", "אלוהות", "אל זר"), and the English
 translates those words where he uses them.
 
 Transliteration: the project's plain scheme, as in Avot and Genesis (Shetach,
 Chayei Sarah, Lekh Lekha): no diacritics; ח = ch, כ = kh, צ = tz, ק = k.
 The author's name follows it: Yichya Kafich (owner's ruling, 2026-11-10; the
-conventional "Yihya Qafih" is named once in the edition's front matter).
+conventional "Yihya Kafich" is named once in the edition's front matter).
+
+## Output format for this work (prose)
+
+Read this whole file before translating. A segment is a paragraph of prose.
+The pack has no morphemes, lemmas, lexicon or commentary, so:
+
+- `tokens`: one entry per word: `id`, `gloss`, and a `note` where a learner
+  needs one. No `sense`, no `lex`.
+- `commentary`: `[]`. `context`: only for a realia a reader needs (a Yemenite
+  custom, a book, a person); say what is established; cite no modern work.
+- `grammar`: 2 to 6 notes per paragraph; in a long paragraph, notes on the
+  hardest sentences, not on all. `literal`: a word-for-word line.
+- `phrases` divide every token of the paragraph, in order. In a long
+  paragraph make a phrase a clause, not a word, so that the file stays
+  checkable; each phrase's `english` must occur in the paragraph's `english`.
+- Quoted passages (Bible, Talmud, Zohar, Judeo-Arabic) follow the Quotations
+  section; Bible verses are translated from the Hebrew of the verse as the
+  author quotes it and the reference goes in `apparatus`.
+- Every Hebrew abbreviation is expanded in `gloss` (the reading line carries
+  the full word).
 
 ## Names and titles
 
@@ -26,7 +46,7 @@ conventional "Yihya Qafih" is named once in the edition's front matter).
   In 1:5 the author explains the name: "וקראתי שם הספר מלחמות ה' על יחודו" →
   "I named the book The Wars of the LORD, for His unity". (See open question 1.)
 - The author's signature (1:9) "הצעיר יחיה בן סלי' אלקאפח יצ״ו" → "The humble
-  Yichya son of Sali' al-Qafich, may his Rock keep him and give him life".
+  Yichya son of Sali' al-Kafich, may his Rock keep him and give him life".
   Keep the abbreviated patronymic as it is written (open question 6). הקדמת
   המחבר: "The Author's Introduction". הקדמת המו"ל / המו"ל: "The Publisher's
   Introduction" / "The publisher": 1:10–1:13 are in the publisher's voice,
