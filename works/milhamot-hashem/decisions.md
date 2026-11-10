@@ -572,6 +572,16 @@ senses are allowed, chosen by the use.
   the English has a main clause; otherwise join it to the previous sentence
   with a colon or render it as a direct alternative question.
 - באצילות: "in Emanation" (the noun the Kabbalists use), without "World of".
+- מהר"י + surname, like other titles formed as acronyms (Rambam, Mahari): keep
+  the acronym as the author's name for the man ("Mahari Lopes"), with a note
+  expanding it (morenu ha-Rav Rabbi Y.) at its first occurrence in the unit.
+  Same for הרב מקדש מלך: "the Rav Mikdash Melekh", noting who is meant.
+- ריש מלין אמר echoing Dan 7:1: by the verse's sense ("he stated the sum of the
+  matter"); the verse in `apparatus`.
+- A variant spelling of a word the text does not gloss (ברותא for ברייתא):
+  transliterate it ("berota"), with a note.
+- An Aramaic word found once and unclear (דחלות): the best reading by its
+  grammar, the alternatives in `readings`.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
