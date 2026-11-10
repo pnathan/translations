@@ -524,6 +524,16 @@ senses are allowed, chosen by the use.
   tradition counts; the usual count goes in a note (the thirty-two rules of
   R. Yose the Galilean). This overrides the "32" in the מדות entry for 1:6.
 - סנהדרין רי"ף: "Sanhedrin, [in] the Rif", as written; no volume or folio added.
+- A word that does not fit its context but is close to a likelier one (יכינו
+  for יבינו / יוכלו): translate by the sense of the context, and give the
+  printed word and the likelier one in a token note and `apparatus`.
+- An infinitive after an adjective of motion (הגיע חתור): follow the
+  grammar of the Hebrew as written; the reviewer's reading may be recorded in
+  `readings`.
+- Allusions to Isaiah and other prophets: when a phrase echoes a verse
+  (אל דבר ה', בטרם תחיל), the verse's wording governs the sense of the
+  words; list the verse in `apparatus`.
+- מרגל לרגל: "from festival to festival" (Num 20 ff. sense), not "foot".
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
