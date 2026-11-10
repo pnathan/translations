@@ -460,6 +460,29 @@ senses are allowed, chosen by the use.
   מכתבי עתים) takes its ordinary modern sense: "school", "organisation",
   "newspapers".
 
+## Rulings from the pilot (perek-1-05, 2-07, 4-10), by the editor
+
+- Ambiguous Judeo-Arabic spelling: translate the evident word, say so in
+  `note`, and give the alternative in `apparatus`.
+- A direct quotation with no introductory formula takes quotation marks when
+  the source is certain; when it is not, no marks and a note.
+- Book titles keep their conventional English spelling (Kisse Eliyahu, Sefer
+  ha-Kavanot, Machberet ha-Kodesh); the scheme (kh for a כ without dagesh)
+  applies to names and terms the project has no fixed form for.
+- Fixed forms: רבינו בחיי = "Rabbeinu Bachya"; בעל העיקרים = "the author of
+  the Ikkarim"; סמ"ג = "the Semag (Sefer Mitzvot Gadol)"; ר"א = "Rabbi Eleazar"
+  only where the paragraph names him, else "R. A." with a note.
+- שם meaning "there" or "the name": choose by context; record the other in
+  `apparatus`. העתיק: "rendered" (translated), with "copied" in a token note
+  when the sense could be copying. פנים in שלשה פנים: "aspects", with the
+  literal "faces" in a token note.
+- A Biblical quotation whose wording differs from the verse follows the
+  author's wording; the difference goes in `apparatus`.
+- `literal` on a long paragraph: the glosses in Hebrew order, hyphens joining
+  the parts of one word. No reasoning in it; reasons go in `note`.
+- `context` may carry a short note on a story the author cites (the Pardes
+  story), without a reference unless the author gives one.
+
 ## Owner's answers and defaults
 
 Answered by the owner (2026-11-10):
