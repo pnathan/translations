@@ -545,6 +545,16 @@ senses are allowed, chosen by the use.
 - כלא חד / כולא חד: the same English at every occurrence (1:5-1:7); the
   owner's ruling on the sense is pending; until then, the alternative is in
   `apparatus`.
+- אלהים / אלהי- and the case of "God": the English does not editorialise by
+  case. "God" where the Hebrew names the God of Israel, also inside the
+  Kabbalists' quoted words (their "our God"); "god(s)" only where the Hebrew
+  itself marks foreignness or plurality (אלהים אחרים, אל זר, אלילים) or where
+  the author calls the Kabbalists' object of worship a god in his own voice
+  (his charge, in his words). In a doubtful case use "God" and put the
+  alternative in a token note.
+- ס' before a quoted verse is "verse" (סימן = "section" in the author's
+  numbered sections); read it from the context and note the choice.
+- אלוה (singular): "God" as in Job/Deut 32:15; not "the first God".
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
