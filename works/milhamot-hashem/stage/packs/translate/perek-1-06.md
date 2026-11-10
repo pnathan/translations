@@ -1,8 +1,8 @@
-# Translation pack: milhamot-hashem perek-1-06 (Milḥamot ha-Shem 1:13–1:13)
+# Translation pack: milhamot-hashem perek-1-06 (Milchamot ha-Shem 1:13–1:13)
 
 Brief: `briefs/translate.md`. Write: `works/milhamot-hashem/stage/translate/perek-1-06.json`. Check: `go run ./cmd/tr check milhamot-hashem perek-1-06`.
 
-## Milḥamot ha-Shem 1:13
+## Milchamot ha-Shem 1:13
 
 Hebrew (Wikisource): המו"ל.
 

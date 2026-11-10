@@ -1,6 +1,6 @@
-# Milḥamot ha-Shem: decisions for every unit
+# Milchamot ha-Shem: decisions for every unit
 
-> DRAFT (Opus, 2026-11-09). Seven open questions at the end await the owner; no unit is translated until they are answered.
+> Owner answered Q4 and Q7 on 2026-11-10; Q1-3, Q5-6 stand at the defaults (see "Owner's answers and defaults" at the end).
 
 Editorial decisions set before translation. A reviewer may question one in a
 `question` patch; the project owner decides. The rulings below come from the
@@ -10,28 +10,29 @@ General rule for technical terms: the English names the thing the words name
 and goes no further. Kabbalistic technical names are transliterated, because
 every English equivalent in use takes a side. Either it carries the
 Kabbalists' defence ("configuration", "emanation", "the Infinite", "Divine
-Presence") or it carries Qafiḥ's charge against them ("god", "idol"). Qafiḥ
+Presence") or it carries Qafich's charge against them ("god", "idol"). Qafich
 makes his charge in his own words ("אליל", "אלוהות", "אל זר"), and the English
 translates those words where he uses them.
 
-Transliteration (names and terms): ח = ḥ, כ without dagesh = kh, צ = tz,
-ק = k, ' for א/ע only where needed (Ze'ir, Tif'eret). The exception is the
-author's name, written Qafiḥ as in `work.json`.
+Transliteration: the project's plain scheme, as in Avot and Genesis (Shetach,
+Chayei Sarah, Lekh Lekha): no diacritics; ח = ch, כ = kh, צ = tz, ק = k.
+The author's name follows it: Yichya Kafich (owner's ruling, 2026-11-10; the
+conventional "Yihya Qafih" is named once in the edition's front matter).
 
 ## Names and titles
 
 - The book: מלחמות ה׳ → *The Wars of the LORD* (Num 21:14, "ספר מלחמת ה'",
-  the form of the title page, 1:11). Transliterated title: *Milḥamot ha-Shem*.
+  the form of the title page, 1:11). Transliterated title: *Milchamot ha-Shem*.
   In 1:5 the author explains the name: "וקראתי שם הספר מלחמות ה' על יחודו" →
   "I named the book The Wars of the LORD, for His unity". (See open question 1.)
 - The author's signature (1:9) "הצעיר יחיה בן סלי' אלקאפח יצ״ו" → "The humble
-  Yiḥya son of Sali' al-Qafiḥ, may his Rock keep him and give him life".
+  Yichya son of Sali' al-Qafich, may his Rock keep him and give him life".
   Keep the abbreviated patronymic as it is written (open question 6). הקדמת
   המחבר: "The Author's Introduction". הקדמת המו"ל / המו"ל: "The Publisher's
   Introduction" / "The publisher": 1:10–1:13 are in the publisher's voice,
   not the author's.
-- רשב"י → "Rabbi Shimon bar Yoḥai", always written out. רשב"י התנא →
-  "Rabbi Shimon bar Yoḥai the Tanna". The author separates the Tanna from
+- רשב"י → "Rabbi Shimon bar Yochai", always written out. רשב"י התנא →
+  "Rabbi Shimon bar Yochai the Tanna". The author separates the Tanna from
   the writer who "named himself" after him (1:4: "אשר כינה את עצמו בשם רשב״י
   התנא"). Keep exactly the qualifier he gives. Do not add "pseudo-" or
   "the so-called", and do not settle in the English which of the two he
@@ -71,13 +72,13 @@ author's name, written Qafiḥ as in `work.json`.
   author gives to opponents. Add none.
 - Authorities: keep the acronyms that English uses as names: Rashi, the
   Rambam, the Ramban, the Ari, the Ribash, the Rashba. Write out the rest:
-  רס"ג/הרס"ג → "Rabbi Saadia Gaon"; הרח"ו/מהרח"ו → "Rabbi Ḥayyim Vital";
-  בעל חובת הלבבות → "the author of Ḥovot ha-Levavot". הר' המורה / רבינו, where
+  רס"ג/הרס"ג → "Rabbi Saadia Gaon"; הרח"ו/מהרח"ו → "Rabbi Chayyim Vital";
+  בעל חובת הלבבות → "the author of Chovot ha-Levavot". הר' המורה / רבינו, where
   they mean the Rambam → "the Master, the Guide" / "our Master". Translate
   what is written, and say in a note who is meant.
-- Book titles: transliterate them (Kisse Eliyahu, Yosher Levav, Etz Ḥayyim,
+- Book titles: transliterate them (Kisse Eliyahu, Yosher Levav, Etz Chayyim,
   Mikdash Melekh, Emunot ve-De'ot, Moreh Nevukhim, the Kuzari, Sefer ha-Berit,
-  Tikkunei Zohar, Zohar Ḥadash, Idra of Naso), with the meaning in a note at
+  Tikkunei Zohar, Zohar Chadash, Idra of Naso), with the meaning in a note at
   the first occurrence in a unit. Abbreviations are written out (כס"א →
   Kisse Eliyahu). Bible books take their English names. Tractates are
   transliterated.
@@ -95,9 +96,9 @@ senses are allowed, chosen by the use.
 
 - **ספירה / ספירות**: fixed, "sefirah / sefirot". Not "emanations",
   "spheres" or "numbers". The names of the sefirot are transliterated, with a
-  gloss at the first occurrence in a unit: Keter (Crown), Ḥokhmah,
-  Binah, Ḥesed, Gevurah, Tif'eret, Netzaḥ, Hod, Yesod, Malkhut. "לספירה
-  הנקראת חסד שהיא מדת רחמים" (2:30) → "to the sefirah called Ḥesed, which is
+  gloss at the first occurrence in a unit: Keter (Crown), Chokhmah,
+  Binah, Chesed, Gevurah, Tif'eret, Netzach, Hod, Yesod, Malkhut. "לספירה
+  הנקראת חסד שהיא מדת רחמים" (2:30) → "to the sefirah called Chesed, which is
   the attribute of mercy".
 - **מדה / מדות / מידות**: context. Do not render it "sefirot" even where that
   is the referent.
@@ -368,20 +369,20 @@ senses are allowed, chosen by the use.
   author glosses an Aramaic saying himself ("תעלא בעידניה סגיד ליה, ר"ל: אדם
   פחות…", 2:16), translate both, and do not merge them.
 - **The medieval authors** (the Rambam, Saadia, Halevi, Bahya, the SeMaG,
-  Albo, the Roke'aḥ, Shevilei Emunah) are translated from the Hebrew the
+  Albo, the Roke'ach, Shevilei Emunah) are translated from the Hebrew the
   author quotes. Do not translate them from the Arabic originals, from the
   standard Hebrew editions, or from published English translations (Pines,
   Hyamson, Rosenblatt, Hirschfeld). Where his Hebrew differs from the known
   text, the English follows his Hebrew. A difference may be noted in
   `apparatus` only if it is certain.
-- **Judeo-Arabic** (7:24 Saadia on Job; 5:3 Ḥoter ben Shelomo; 9:10 a Muslim
+- **Judeo-Arabic** (7:24 Saadia on Job; 5:3 Choter ben Shelomo; 9:10 a Muslim
   polemic against the Trinity, "ספר אצהאר אלחק", called "גילוי האמת" in 10:9;
   the one-line proverb in 2:13, "ואן כאן פי בוצע ולא יחסן יער"). It is
   translated from the Arabic as it stands. The Hebrew or Aramaic glosses the
   author puts inside the Arabic ("אתתלית (תלת קשרי דמהימנותא)", 9:10, which
   glosses the Arabic "trinity" with a Zohar phrase; "(העתק ועיין בסוף
   הספר)") stay in parentheses and are translated as his. The title is
-  transliterated as each place writes it ("Iẓhar al-Ḥaqq", "Gilui ha-Emet"),
+  transliterated as each place writes it ("Iẓhar al-Chaqq", "Gilui ha-Emet"),
   with a note that the two are the same book. Its author is not named.
   The author's own Hebrew translations (10:7–10:9, and the bracketed "[תרגום
   הרב המחבר: …]" in 5:3) are separate segments: each is translated from its
@@ -396,7 +397,7 @@ senses are allowed, chosen by the use.
   Branch / Treatise"; tractate and folio → "Sanhedrin 99". Numbers are
   written in Arabic numerals. Do not add a reference he lacks, complete a
   partial one, convert it to a modern edition, or correct it: "בשלח דף ס"ד
-  (ח"ב סז, א)" (4:11) stays "Be-shallaḥ, folio 64 (vol. 2, 67a)". Never import
+  (ח"ב סז, א)" (4:11) stays "Be-shallach, folio 64 (vol. 2, 67a)". Never import
   the references the 2015 PDF adds. For Zohar and Talmud passages without a
   reference, nothing is added, even in `apparatus`. Bible verses are the
   only exception, and they go in `apparatus`.
@@ -439,28 +440,23 @@ senses are allowed, chosen by the use.
   מכתבי עתים) takes its ordinary modern sense: "school", "organisation",
   "newspapers".
 
-## Open questions for the owner
+## Owner's answers and defaults
 
-1. **Title.** `work.json` has "The Wars of God" (Sefaria's English). This file
-   proposes "The Wars of the LORD", the title's source (Num 21:14) and the
-   project's rendering of ה'. Which?
-2. **Wikisource additions.** Are the modern Zohar references in parentheses
-   ("(ח"א קיב, א)", 7 places in 4:7–5:5) and the bracketed "[תרגום הרב המחבר:
-   …]" in 5:3 part of the 1931 print, or the transcriber's? Until the 1931 scan
-   is collated they are translated as base text and flagged in `apparatus`.
-   If they are additions, should they be dropped or marked as editorial?
-3. **The epithet formula.** Is "the Name, may He be blessed" for השי"ת (about
-   100 occurrences) acceptable, or should the reading line use "God, may He be
-   blessed" with the literal in the gloss?
-4. **Judeo-Arabic.** The passages need an Arabic reader, and Haiku is weak
-   there. Should those paragraphs (5:3, 7:24, 9:10) go to a stronger model? Should the `lang` tags (now "heb" on
-   all 83,104 tokens) mark Aramaic and Arabic, so that the pack and the
-   render show them?
-5. **קבלה for the rabbinic chain.** Is "the true tradition" with a note right,
-   or should the English keep "Kabbalah" there too ("the true Kabbalah"), so
-   that the author's reclaiming of the word is visible in the English line?
-6. **The author's name.** In 1:9, "יחיה בן סלי' אלקאפח": should the abbreviated
-   patronymic be expanded (Salim / Sulayman for Shelomo), and should the
-   English name be "Yiḥya" or follow the print's "יחיה"?
-7. **Transliteration.** Avot's decisions use plain spellings ("Shetach"); this
-   work uses ḥ, as in the title. Should one scheme cover the whole project?
+Answered by the owner (2026-11-10):
+
+- Q4: Judeo-Arabic and Aramaic are Sonnet's, not Haiku's. `models.json`
+  lists the units Sonnet translates: the four Judeo-Arabic units (5:3, 7:24,
+  9:10, 2:13) and the units with at least six Aramaic marker words (15 of 179;
+  a heuristic, and the Sonnet review covers every unit). The `lang` tags
+  stay "heb".
+- Q7: the project's transliteration scheme (above).
+
+Not yet answered; the draft's proposal stands as the default and can be
+changed before the review stage (a change to 1, 3 or 5 is a find-and-patch):
+
+- Q1 title: "The Wars of the LORD" (Num 21:14).
+- Q2 Wikisource additions: translated as base text, flagged in `apparatus`
+  until the 1931 scan is collated.
+- Q3 השי"ת: "the Name, may He be blessed".
+- Q5 קבלה האמתית: "the true tradition", with a note.
+- Q6 author's name: patronymic kept as written, "Sali'".

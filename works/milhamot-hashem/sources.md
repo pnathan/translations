@@ -1,4 +1,4 @@
-# Milḥamot ha-Shem (מלחמות ה׳), Yiḥya Qafiḥ: sources and status
+# Milchamot ha-Shem (מלחמות ה׳), Yichya Qafich: sources and status
 
 Acquired 2026-11-09. Nothing translated yet; no `work.json` (the pipeline has
 only the `tanakh` and `mishnah` kinds; this is continuous prose with no
@@ -6,7 +6,7 @@ commentators and no dataset morphology).
 
 ## Work
 
-Yiḥya ben Shelomo Qafiḥ (Sanaa, 1850–1931), *Sefer Milḥamot ha-Shem*,
+Yichya ben Shelomo Qafich (Sanaa, 1850–1931), *Sefer Milchamot ha-Shem*,
 Jerusalem 1931 (5691/2). Composed 1914. Ten chapters (Sefaria: 10 chapters,
 225 paragraphs). Against the attribution of the Zohar and against Kabbalah.
 
