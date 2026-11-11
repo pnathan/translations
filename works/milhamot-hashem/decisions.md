@@ -719,6 +719,16 @@ senses are allowed, chosen by the use.
 - A word with no function in its context (סדר): "Seder" as printed, with a
   note; the other reading in `readings`.
 - אלפין: "alefs" (the letter).
+- בעל + a book title (המקובל בעל היכל הברכה): "the Kabbalist, the author of
+  Heikhal ha-Berakhah" (the title translated once in a note: "Palace of
+  Blessing"). Identify no author the text does not name.
+- וז"ל followed by a name: "and these are the words of X:"; the named speaker
+  stands outside the quotation.
+- Lev 19:16: translate what the author writes; "stand idly by" adds "idly": use
+  "stand by the blood of your fellow".
+- וכ' read as וכו' ("etc.") where it closes a quotation.
+- The words of a verse quoted in the plural (Job 32:16, עמדו): plural, no
+  subject added.
 
 ## Pending consistency pass (before the PR)
 
@@ -728,6 +738,8 @@ senses are allowed, chosen by the use.
   unlearned" by the ruling above.
 - 3:3 (perek-3-02): "Beit Din" becomes "court" ("the Great Court") by the ruling
   above.
+- 3:7-3:8 (perek-3-04): remove the named author (Safrin of Komarno) from the note
+  and context on היכל הברכה: the text does not name him.
 
 ## Translator's checklist (the pilot reviews found these faults most often)
 

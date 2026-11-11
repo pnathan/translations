@@ -1,0 +1,2064 @@
+{
+  "unit": "perek-3-06",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "3:10",
+      "english": "10) And now, with the help of the Name, may He be blessed, let us return to the main point of our question, which we asked you to inform us according to the system of the Kabbalists, to whom do we call upon in our prayers, and bless all our blessings and our worship, and from whom do we seek forgiveness and atonement. And your answer was in the words of a grumbler, like the flustered who claim wheat and concede barley to him, and you deny what is known and famous in their books to all, like one who swears about the man that he is a woman, and about the woman that she is a man, and about a pillar of marble that it is gold. And your anger burned against the book Metzaref ha-Emunah, and you mocked it and scorned it, and you called it the book the Mesharef etc., and thereby you revealed to all that you are the one who scorns the sages; And as to our questions: since Ze'ir Anpin, according to their words, is our God, and he feeds us and sustains us, and Him we worship; If so, all the worlds above the World of Emanation, who feeds and sustains them? If he casts their flow down, and their sustenance is from below upward, and they serve and bow down to him, or perhaps their gods fed and sustained them, he being the First Cause, and to him they serve, and we serve Ze'ir Anpin, who feeds us and sustains us? And if so, is the God of the upper ones not the God of the lower ones, God forbid? And this is the point of contradiction which we asked you to inform us and to instruct us, and to this your answer came: that the case is not like proof, and do they bring proof to overturn a halakha given to Moses at Sinai? And the sages of Kabbalah say thus: they received it from Moses.",
+      "literal": "10) and-now in-the-help-of the-Name-may-He-be-blessed we-return to-the-point-of our-question which we-asked you to-inform-us according-to the-system-of the-Kabbalists, to-whom we call-upon in-our-prayers and-bless all our-blessings and-our-worship and-from-whom we seek forgiveness and-atonement. and-was your-answer in-the-words-of a-grumbler like-the-flustered who-claim wheat and-concede to-him barley, and-you-deny (object) what-is-known and-famous in-their-books to-all, like-one-who-swears about the-man that-he-is a-woman, and-about the-woman that-she-is a-man, and-about a-pillar of marble that-it-is gold. and-burned your-anger against the-book Metzaref ha-Emunah, and-you-mocked at-it and-scorned it, and-you-called it the-book the-Mesharef etc., and-thereby you-revealed to-all that-you (emphatic) the-one-who-scorns (object) the-sages; and-as-to our-questions since Ze'ir Anpin according-to their-words is our-God, and-he feeds-us and-sustains-us, and-Him we-worship; if-so all the-worlds that-are-above from-the-World-of Emanation who-feeds-them and-sustains-them? if he-casts their-flow, and-their-sustenance from-below upward, and-they serve and-bow-down to-him, or perhaps their-gods fed-them and-sustained-them, he (is) the-cause, the-first, and-to-him they serve, and-we serve to-Ze'ir Anpin, who-feeds-us and-sustains-us? and-if-so the-God-of the-upper-ones is-not the-God-of the-lower-ones, God-forbid? and-this the-point-of contradiction which we-asked of-you to-inform-us and-to-instruct-us, and-to this your-answer came: that-not the-case is-like proof, and-do they-bring proof to-overturn a-halakha given-to Moses at-Sinai? and-the-sages-of Kabbalah say thus: they-received it from-Moses.",
+      "tokens": [
+        {
+          "id": "3:10.1",
+          "gloss": "10)",
+          "note": "printed paragraph number, kept as printed"
+        },
+        {
+          "id": "3:10.2",
+          "gloss": "and now"
+        },
+        {
+          "id": "3:10.3",
+          "gloss": "with the help of"
+        },
+        {
+          "id": "3:10.4",
+          "gloss": "the Name, may He be blessed",
+          "note": "the Name, may He be blessed: the project's fixed form for the Hebrew abbreviation"
+        },
+        {
+          "id": "3:10.5",
+          "gloss": "let us return"
+        },
+        {
+          "id": "3:10.6",
+          "gloss": "to the main point of"
+        },
+        {
+          "id": "3:10.7",
+          "gloss": "our question"
+        },
+        {
+          "id": "3:10.8",
+          "gloss": "which we asked"
+        },
+        {
+          "id": "3:10.9",
+          "gloss": "you"
+        },
+        {
+          "id": "3:10.10",
+          "gloss": "to inform us"
+        },
+        {
+          "id": "3:10.11",
+          "gloss": "according to"
+        },
+        {
+          "id": "3:10.12",
+          "gloss": "(lit. on the mouth of)"
+        },
+        {
+          "id": "3:10.13",
+          "gloss": "the system of"
+        },
+        {
+          "id": "3:10.14",
+          "gloss": "the Kabbalists"
+        },
+        {
+          "id": "3:10.15",
+          "gloss": "to whom"
+        },
+        {
+          "id": "3:10.16",
+          "gloss": "do we"
+        },
+        {
+          "id": "3:10.17",
+          "gloss": "call upon"
+        },
+        {
+          "id": "3:10.18",
+          "gloss": "in our prayers"
+        },
+        {
+          "id": "3:10.19",
+          "gloss": "and bless"
+        },
+        {
+          "id": "3:10.20",
+          "gloss": "all"
+        },
+        {
+          "id": "3:10.21",
+          "gloss": "our blessings"
+        },
+        {
+          "id": "3:10.22",
+          "gloss": "and our worship"
+        },
+        {
+          "id": "3:10.23",
+          "gloss": "and from whom"
+        },
+        {
+          "id": "3:10.24",
+          "gloss": "do we"
+        },
+        {
+          "id": "3:10.25",
+          "gloss": "seek"
+        },
+        {
+          "id": "3:10.26",
+          "gloss": "forgiveness"
+        },
+        {
+          "id": "3:10.27",
+          "gloss": "and atonement"
+        },
+        {
+          "id": "3:10.28",
+          "gloss": "and was"
+        },
+        {
+          "id": "3:10.29",
+          "gloss": "your answer"
+        },
+        {
+          "id": "3:10.30",
+          "gloss": "in the words of"
+        },
+        {
+          "id": "3:10.31",
+          "gloss": "a grumbler"
+        },
+        {
+          "id": "3:10.32",
+          "gloss": "like the flustered",
+          "note": "the Hebrew word is obscure; 'like the flustered' is the sense the context gives"
+        },
+        {
+          "id": "3:10.33",
+          "gloss": "who claim"
+        },
+        {
+          "id": "3:10.34",
+          "gloss": "wheat"
+        },
+        {
+          "id": "3:10.35",
+          "gloss": "and concede"
+        },
+        {
+          "id": "3:10.36",
+          "gloss": "to him"
+        },
+        {
+          "id": "3:10.37",
+          "gloss": "barley",
+          "note": "the image 'claim wheat, concede barley' is an idiom for a disputant who gives way on the small point; the English keeps the image"
+        },
+        {
+          "id": "3:10.38",
+          "gloss": "and you deny"
+        },
+        {
+          "id": "3:10.39",
+          "gloss": "(object marker)"
+        },
+        {
+          "id": "3:10.40",
+          "gloss": "what is known"
+        },
+        {
+          "id": "3:10.41",
+          "gloss": "and famous"
+        },
+        {
+          "id": "3:10.42",
+          "gloss": "in their books"
+        },
+        {
+          "id": "3:10.43",
+          "gloss": "to all"
+        },
+        {
+          "id": "3:10.44",
+          "gloss": "like one who swears"
+        },
+        {
+          "id": "3:10.45",
+          "gloss": "about"
+        },
+        {
+          "id": "3:10.46",
+          "gloss": "the man"
+        },
+        {
+          "id": "3:10.47",
+          "gloss": "that he is"
+        },
+        {
+          "id": "3:10.48",
+          "gloss": "a woman"
+        },
+        {
+          "id": "3:10.49",
+          "gloss": "and about"
+        },
+        {
+          "id": "3:10.50",
+          "gloss": "the woman"
+        },
+        {
+          "id": "3:10.51",
+          "gloss": "that she is"
+        },
+        {
+          "id": "3:10.52",
+          "gloss": "a man"
+        },
+        {
+          "id": "3:10.53",
+          "gloss": "and about"
+        },
+        {
+          "id": "3:10.54",
+          "gloss": "a pillar"
+        },
+        {
+          "id": "3:10.55",
+          "gloss": "of"
+        },
+        {
+          "id": "3:10.56",
+          "gloss": "marble"
+        },
+        {
+          "id": "3:10.57",
+          "gloss": "that it is"
+        },
+        {
+          "id": "3:10.58",
+          "gloss": "gold"
+        },
+        {
+          "id": "3:10.59",
+          "gloss": "and burned"
+        },
+        {
+          "id": "3:10.60",
+          "gloss": "your anger"
+        },
+        {
+          "id": "3:10.61",
+          "gloss": "against"
+        },
+        {
+          "id": "3:10.62",
+          "gloss": "the book"
+        },
+        {
+          "id": "3:10.63",
+          "gloss": "Metzaref",
+          "note": "Metzaref ha-Emunah: 'the refining of faith', a book title, transliterated"
+        },
+        {
+          "id": "3:10.64",
+          "gloss": "ha-Emunah"
+        },
+        {
+          "id": "3:10.65",
+          "gloss": "and you mocked"
+        },
+        {
+          "id": "3:10.66",
+          "gloss": "at it"
+        },
+        {
+          "id": "3:10.67",
+          "gloss": "and scorned"
+        },
+        {
+          "id": "3:10.68",
+          "gloss": "it"
+        },
+        {
+          "id": "3:10.69",
+          "gloss": "and you called"
+        },
+        {
+          "id": "3:10.70",
+          "gloss": "it"
+        },
+        {
+          "id": "3:10.71",
+          "gloss": "the book"
+        },
+        {
+          "id": "3:10.72",
+          "gloss": "the Mesharef",
+          "note": "the Mesharef: a pun on Metzaref ha-Emunah; 'mesharef' (a burner) for 'metzaref' (a refiner)"
+        },
+        {
+          "id": "3:10.73",
+          "gloss": "etc.",
+          "note": "etc.: the author's own mark that the quotation is cut short"
+        },
+        {
+          "id": "3:10.74",
+          "gloss": "and thereby"
+        },
+        {
+          "id": "3:10.75",
+          "gloss": "you revealed"
+        },
+        {
+          "id": "3:10.76",
+          "gloss": "to all"
+        },
+        {
+          "id": "3:10.77",
+          "gloss": "that you"
+        },
+        {
+          "id": "3:10.78",
+          "gloss": "(emphatic: you are)"
+        },
+        {
+          "id": "3:10.79",
+          "gloss": "the one who scorns"
+        },
+        {
+          "id": "3:10.80",
+          "gloss": "(object marker)"
+        },
+        {
+          "id": "3:10.81",
+          "gloss": "the sages"
+        },
+        {
+          "id": "3:10.82",
+          "gloss": "and as to"
+        },
+        {
+          "id": "3:10.83",
+          "gloss": "our questions"
+        },
+        {
+          "id": "3:10.84",
+          "gloss": "since"
+        },
+        {
+          "id": "3:10.85",
+          "gloss": "that Ze'ir",
+          "note": "Ze'ir Anpin: 'Small Face', the name of a partzuf; the name is transliterated and its sense given here at its first occurrence in the unit"
+        },
+        {
+          "id": "3:10.86",
+          "gloss": "Anpin"
+        },
+        {
+          "id": "3:10.87",
+          "gloss": "according to"
+        },
+        {
+          "id": "3:10.88",
+          "gloss": "their words"
+        },
+        {
+          "id": "3:10.89",
+          "gloss": "is"
+        },
+        {
+          "id": "3:10.90",
+          "gloss": "our God",
+          "note": "'our God' is the author's report of the Kabbalists' view ('according to their words')"
+        },
+        {
+          "id": "3:10.91",
+          "gloss": "and he"
+        },
+        {
+          "id": "3:10.92",
+          "gloss": "feeds"
+        },
+        {
+          "id": "3:10.93",
+          "gloss": "us"
+        },
+        {
+          "id": "3:10.94",
+          "gloss": "and sustains us"
+        },
+        {
+          "id": "3:10.95",
+          "gloss": "and Him"
+        },
+        {
+          "id": "3:10.96",
+          "gloss": "we worship"
+        },
+        {
+          "id": "3:10.97",
+          "gloss": "if"
+        },
+        {
+          "id": "3:10.98",
+          "gloss": "so"
+        },
+        {
+          "id": "3:10.99",
+          "gloss": "all"
+        },
+        {
+          "id": "3:10.100",
+          "gloss": "the worlds"
+        },
+        {
+          "id": "3:10.101",
+          "gloss": "that are above"
+        },
+        {
+          "id": "3:10.102",
+          "gloss": "the world of"
+        },
+        {
+          "id": "3:10.103",
+          "gloss": "Emanation"
+        },
+        {
+          "id": "3:10.104",
+          "gloss": "who"
+        },
+        {
+          "id": "3:10.105",
+          "gloss": "feeds"
+        },
+        {
+          "id": "3:10.106",
+          "gloss": "them"
+        },
+        {
+          "id": "3:10.107",
+          "gloss": "and sustains them"
+        },
+        {
+          "id": "3:10.108",
+          "gloss": "if"
+        },
+        {
+          "id": "3:10.109",
+          "gloss": "he casts"
+        },
+        {
+          "id": "3:10.110",
+          "gloss": "he",
+          "note": "he: the question opens with the pronoun, 'he casts'"
+        },
+        {
+          "id": "3:10.111",
+          "gloss": "their flow",
+          "note": "the flow (השפע) with the suffix 'their'"
+        },
+        {
+          "id": "3:10.112",
+          "gloss": "and their sustenance"
+        },
+        {
+          "id": "3:10.113",
+          "gloss": "from below"
+        },
+        {
+          "id": "3:10.114",
+          "gloss": "upward"
+        },
+        {
+          "id": "3:10.115",
+          "gloss": "and they"
+        },
+        {
+          "id": "3:10.116",
+          "gloss": "serve"
+        },
+        {
+          "id": "3:10.117",
+          "gloss": "and bow down"
+        },
+        {
+          "id": "3:10.118",
+          "gloss": "to him"
+        },
+        {
+          "id": "3:10.119",
+          "gloss": "or"
+        },
+        {
+          "id": "3:10.120",
+          "gloss": "perhaps"
+        },
+        {
+          "id": "3:10.121",
+          "gloss": "their gods",
+          "note": "plural 'their gods', in the author's voice; the alternative is 'their God'"
+        },
+        {
+          "id": "3:10.122",
+          "gloss": "fed them"
+        },
+        {
+          "id": "3:10.123",
+          "gloss": "and sustained them"
+        },
+        {
+          "id": "3:10.124",
+          "gloss": "he"
+        },
+        {
+          "id": "3:10.125",
+          "gloss": "cause",
+          "note": "cause: the First Cause (עלה הראשונה)"
+        },
+        {
+          "id": "3:10.126",
+          "gloss": "first"
+        },
+        {
+          "id": "3:10.127",
+          "gloss": "and to him"
+        },
+        {
+          "id": "3:10.128",
+          "gloss": "they"
+        },
+        {
+          "id": "3:10.129",
+          "gloss": "serve"
+        },
+        {
+          "id": "3:10.130",
+          "gloss": "and we"
+        },
+        {
+          "id": "3:10.131",
+          "gloss": "serve"
+        },
+        {
+          "id": "3:10.132",
+          "gloss": "Ze'ir"
+        },
+        {
+          "id": "3:10.133",
+          "gloss": "Anpin"
+        },
+        {
+          "id": "3:10.134",
+          "gloss": "who feeds us"
+        },
+        {
+          "id": "3:10.135",
+          "gloss": "and sustains us"
+        },
+        {
+          "id": "3:10.136",
+          "gloss": "and if"
+        },
+        {
+          "id": "3:10.137",
+          "gloss": "so"
+        },
+        {
+          "id": "3:10.138",
+          "gloss": "the God of",
+          "note": "plural construct 'elohei' with the singular verb 'eino'; 'God' by the ruling; the alternative is 'gods'"
+        },
+        {
+          "id": "3:10.139",
+          "gloss": "the upper ones"
+        },
+        {
+          "id": "3:10.140",
+          "gloss": "is not"
+        },
+        {
+          "id": "3:10.141",
+          "gloss": "the God of"
+        },
+        {
+          "id": "3:10.142",
+          "gloss": "the lower ones"
+        },
+        {
+          "id": "3:10.143",
+          "gloss": "God forbid",
+          "note": "ח\"ו: God forbid"
+        },
+        {
+          "id": "3:10.144",
+          "gloss": "and this"
+        },
+        {
+          "id": "3:10.145",
+          "gloss": "the point"
+        },
+        {
+          "id": "3:10.146",
+          "gloss": "of contradiction"
+        },
+        {
+          "id": "3:10.147",
+          "gloss": "which"
+        },
+        {
+          "id": "3:10.148",
+          "gloss": "we asked"
+        },
+        {
+          "id": "3:10.149",
+          "gloss": "of you"
+        },
+        {
+          "id": "3:10.150",
+          "gloss": "to inform us"
+        },
+        {
+          "id": "3:10.151",
+          "gloss": "and to instruct us"
+        },
+        {
+          "id": "3:10.152",
+          "gloss": "and to"
+        },
+        {
+          "id": "3:10.153",
+          "gloss": "this"
+        },
+        {
+          "id": "3:10.154",
+          "gloss": "came"
+        },
+        {
+          "id": "3:10.155",
+          "gloss": "your answer"
+        },
+        {
+          "id": "3:10.156",
+          "gloss": "that not"
+        },
+        {
+          "id": "3:10.157",
+          "gloss": "the case"
+        },
+        {
+          "id": "3:10.158",
+          "gloss": "is like"
+        },
+        {
+          "id": "3:10.159",
+          "gloss": "proof"
+        },
+        {
+          "id": "3:10.160",
+          "gloss": "and do"
+        },
+        {
+          "id": "3:10.161",
+          "gloss": "they bring"
+        },
+        {
+          "id": "3:10.162",
+          "gloss": "proof"
+        },
+        {
+          "id": "3:10.163",
+          "gloss": "to overturn"
+        },
+        {
+          "id": "3:10.164",
+          "gloss": "a halakha"
+        },
+        {
+          "id": "3:10.165",
+          "gloss": "given to Moses"
+        },
+        {
+          "id": "3:10.166",
+          "gloss": "at Sinai"
+        },
+        {
+          "id": "3:10.167",
+          "gloss": "And the sages of"
+        },
+        {
+          "id": "3:10.168",
+          "gloss": "Kabbalah",
+          "note": "Kabbalah: the word for the tradition the Kabbalists claim; here it is 'the sages of Kabbalah'"
+        },
+        {
+          "id": "3:10.169",
+          "gloss": "say"
+        },
+        {
+          "id": "3:10.170",
+          "gloss": "thus"
+        },
+        {
+          "id": "3:10.171",
+          "gloss": "they received"
+        },
+        {
+          "id": "3:10.172",
+          "gloss": "it from Moses"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:10.1",
+            "3:10.2",
+            "3:10.3",
+            "3:10.4",
+            "3:10.5",
+            "3:10.6",
+            "3:10.7"
+          ],
+          "english": "10) And now, with the help of the Name, may He be blessed, let us return to the main point of our question,",
+          "literal": "10) and-now in-the-help-of the-Name-may-He-be-blessed we-return to-the-point-of our-question"
+        },
+        {
+          "tokens": [
+            "3:10.8",
+            "3:10.9",
+            "3:10.10"
+          ],
+          "english": "which we asked you to inform us",
+          "literal": "which we-asked you to-inform-us"
+        },
+        {
+          "tokens": [
+            "3:10.11",
+            "3:10.12",
+            "3:10.13",
+            "3:10.14",
+            "3:10.15",
+            "3:10.16",
+            "3:10.17",
+            "3:10.18",
+            "3:10.19",
+            "3:10.20",
+            "3:10.21",
+            "3:10.22",
+            "3:10.23",
+            "3:10.24",
+            "3:10.25",
+            "3:10.26",
+            "3:10.27"
+          ],
+          "english": "according to the system of the Kabbalists, to whom do we call upon in our prayers, and bless all our blessings and our worship, and from whom do we seek forgiveness and atonement.",
+          "literal": "according-to the-system-of the-Kabbalists, to-whom we call-upon in-our-prayers and-bless all our-blessings and-our-worship and-from-whom we seek forgiveness and-atonement."
+        },
+        {
+          "tokens": [
+            "3:10.28",
+            "3:10.29",
+            "3:10.30",
+            "3:10.31",
+            "3:10.32",
+            "3:10.33",
+            "3:10.34",
+            "3:10.35",
+            "3:10.36",
+            "3:10.37"
+          ],
+          "english": "And your answer was in the words of a grumbler, like the flustered who claim wheat and concede barley to him,",
+          "literal": "and-was your-answer in-the-words-of a-grumbler like-the-flustered who-claim wheat and-concede to-him barley,"
+        },
+        {
+          "tokens": [
+            "3:10.38",
+            "3:10.39",
+            "3:10.40",
+            "3:10.41",
+            "3:10.42",
+            "3:10.43"
+          ],
+          "english": "and you deny what is known and famous in their books to all,",
+          "literal": "and-you-deny (object) what-is-known and-famous in-their-books to-all,"
+        },
+        {
+          "tokens": [
+            "3:10.44",
+            "3:10.45",
+            "3:10.46",
+            "3:10.47",
+            "3:10.48"
+          ],
+          "english": "like one who swears about the man that he is a woman,",
+          "literal": "like-one-who-swears about the-man that-he-is a-woman,"
+        },
+        {
+          "tokens": [
+            "3:10.49",
+            "3:10.50",
+            "3:10.51",
+            "3:10.52"
+          ],
+          "english": "and about the woman that she is a man,",
+          "literal": "and-about the-woman that-she-is a-man,"
+        },
+        {
+          "tokens": [
+            "3:10.53",
+            "3:10.54",
+            "3:10.55",
+            "3:10.56",
+            "3:10.57",
+            "3:10.58"
+          ],
+          "english": "and about a pillar of marble that it is gold.",
+          "literal": "and-about a-pillar of marble that-it-is gold."
+        },
+        {
+          "tokens": [
+            "3:10.59",
+            "3:10.60",
+            "3:10.61",
+            "3:10.62",
+            "3:10.63",
+            "3:10.64"
+          ],
+          "english": "And your anger burned against the book Metzaref ha-Emunah,",
+          "literal": "and-burned your-anger against the-book Metzaref ha-Emunah,"
+        },
+        {
+          "tokens": [
+            "3:10.65",
+            "3:10.66",
+            "3:10.67",
+            "3:10.68"
+          ],
+          "english": "and you mocked it and scorned it,",
+          "literal": "and-you-mocked at-it and-scorned it,"
+        },
+        {
+          "tokens": [
+            "3:10.69",
+            "3:10.70",
+            "3:10.71",
+            "3:10.72",
+            "3:10.73"
+          ],
+          "english": "and you called it the book the Mesharef etc.,",
+          "literal": "and-you-called it the-book the-Mesharef etc.,"
+        },
+        {
+          "tokens": [
+            "3:10.74",
+            "3:10.75",
+            "3:10.76",
+            "3:10.77",
+            "3:10.78",
+            "3:10.79",
+            "3:10.80",
+            "3:10.81"
+          ],
+          "english": "and thereby you revealed to all that you are the one who scorns the sages;",
+          "literal": "and-thereby you-revealed to-all that-you (emphatic) the-one-who-scorns (object) the-sages;"
+        },
+        {
+          "tokens": [
+            "3:10.82",
+            "3:10.83",
+            "3:10.84",
+            "3:10.85",
+            "3:10.86",
+            "3:10.87",
+            "3:10.88",
+            "3:10.89",
+            "3:10.90",
+            "3:10.91",
+            "3:10.92",
+            "3:10.93",
+            "3:10.94",
+            "3:10.95",
+            "3:10.96"
+          ],
+          "english": "And as to our questions: since Ze'ir Anpin, according to their words, is our God, and he feeds us and sustains us, and Him we worship;",
+          "literal": "and-as-to our-questions since Ze'ir Anpin according-to their-words is our-God, and-he feeds-us and-sustains-us, and-Him we-worship;"
+        },
+        {
+          "tokens": [
+            "3:10.97",
+            "3:10.98",
+            "3:10.99",
+            "3:10.100",
+            "3:10.101",
+            "3:10.102",
+            "3:10.103",
+            "3:10.104",
+            "3:10.105",
+            "3:10.106",
+            "3:10.107"
+          ],
+          "english": "If so, all the worlds above the World of Emanation, who feeds and sustains them?",
+          "literal": "if-so all the-worlds that-are-above from-the-World-of Emanation who-feeds-them and-sustains-them?"
+        },
+        {
+          "tokens": [
+            "3:10.108",
+            "3:10.109",
+            "3:10.110",
+            "3:10.111",
+            "3:10.112",
+            "3:10.113",
+            "3:10.114",
+            "3:10.115",
+            "3:10.116",
+            "3:10.117",
+            "3:10.118"
+          ],
+          "english": "If he casts their flow down, and their sustenance is from below upward, and they serve and bow down to him,",
+          "literal": "if he-casts their-flow, and-their-sustenance from-below upward, and-they serve and-bow-down to-him,"
+        },
+        {
+          "tokens": [
+            "3:10.119",
+            "3:10.120",
+            "3:10.121",
+            "3:10.122",
+            "3:10.123"
+          ],
+          "english": "or perhaps their gods fed and sustained them,",
+          "literal": "or perhaps their-gods fed-them and-sustained-them,"
+        },
+        {
+          "tokens": [
+            "3:10.124",
+            "3:10.125",
+            "3:10.126"
+          ],
+          "english": "he being the First Cause,",
+          "literal": "he (is) the-cause, the-first,"
+        },
+        {
+          "tokens": [
+            "3:10.127",
+            "3:10.128",
+            "3:10.129",
+            "3:10.130",
+            "3:10.131",
+            "3:10.132",
+            "3:10.133",
+            "3:10.134",
+            "3:10.135"
+          ],
+          "english": "and to him they serve, and we serve Ze'ir Anpin, who feeds us and sustains us?",
+          "literal": "and-to-him they serve, and-we serve to-Ze'ir Anpin, who-feeds-us and-sustains-us?"
+        },
+        {
+          "tokens": [
+            "3:10.136",
+            "3:10.137",
+            "3:10.138",
+            "3:10.139",
+            "3:10.140",
+            "3:10.141",
+            "3:10.142",
+            "3:10.143"
+          ],
+          "english": "And if so, is the God of the upper ones not the God of the lower ones, God forbid?",
+          "literal": "and-if-so the-God-of the-upper-ones is-not the-God-of the-lower-ones, God-forbid?"
+        },
+        {
+          "tokens": [
+            "3:10.144",
+            "3:10.145",
+            "3:10.146",
+            "3:10.147",
+            "3:10.148",
+            "3:10.149",
+            "3:10.150",
+            "3:10.151"
+          ],
+          "english": "And this is the point of contradiction which we asked you to inform us and to instruct us,",
+          "literal": "and-this the-point-of contradiction which we-asked of-you to-inform-us and-to-instruct-us,"
+        },
+        {
+          "tokens": [
+            "3:10.152",
+            "3:10.153",
+            "3:10.154",
+            "3:10.155",
+            "3:10.156",
+            "3:10.157",
+            "3:10.158",
+            "3:10.159"
+          ],
+          "english": "and to this your answer came: that the case is not like proof,",
+          "literal": "and-to this your-answer came: that-not the-case is-like proof,"
+        },
+        {
+          "tokens": [
+            "3:10.160",
+            "3:10.161",
+            "3:10.162",
+            "3:10.163",
+            "3:10.164",
+            "3:10.165",
+            "3:10.166"
+          ],
+          "english": "and do they bring proof to overturn a halakha given to Moses at Sinai?",
+          "literal": "and-do they-bring proof to-overturn a-halakha given-to Moses at-Sinai?"
+        },
+        {
+          "tokens": [
+            "3:10.167",
+            "3:10.168",
+            "3:10.169",
+            "3:10.170",
+            "3:10.171",
+            "3:10.172"
+          ],
+          "english": "And the sages of Kabbalah say thus: they received it from Moses.",
+          "literal": "and-the-sages-of Kabbalah say thus: they-received it from-Moses."
+        }
+      ],
+      "grammar": [
+        "והיתה (3:10.28) is a vav-prefixed perfect in the consecutive sense, 'and your answer was'; the subject 'your answer' follows the verb.",
+        "The verbs of 3:10.59-72 (וחרה, והלעגת, ובזית, וקראת) are a series of waw-prefixed perfects, each a separate verb of the sentence, so the English keeps them as a series.",
+        "ואם כן (3:10.136) opens a question. אלהי העליונים is a plural construct with the singular verb אינו; the English reads 'the God of' (see the token note on 3:10.138).",
+        "ועל שאלותינו (3:10.82) has no verb of its own: it is a topic phrase, and the main clause is the question that begins אם כן (3:10.97).",
+        "The simile כמתלהמים טענו חטים והודה לו בשעורים (3:10.32-37) is kept by its image; the English gives its sense, not a word-for-word match."
+      ],
+      "commentary": [],
+      "apparatus": [
+        "Base text: the Wikisource transcription of the paragraph; not yet collated against the 1931 scan (Q2 default: flagged until collated)."
+      ]
+    },
+    {
+      "ref": "3:11",
+      "english": "11) We are very astonished and amazed at your words and at this reply of yours, and is it a halakha given to Moses at Sinai to believe in many divinities? and to worship other gods apart from the LORD our God, the First, and Rock of all? And He is the cause of all causes, all of them, and with deceit you came in your replies to these stubborn-hearted people, whom you boasted over, and showed them these words of yours, saying: \"See, I have overturned their words, and rejected their proofs in haste, and your pamphlet goes round to all the diners, and after they praised and lauded you, that you are sharp and keen, you brought it to us.\" And behold, all of it is deceptions, as if you did not know what our question turns on, and to this false error of yours we shall return again, since it is known and famous in the rules of the decisors (Kenesset ha-Gedolah, the Radbaz, and Sh\"Z), that wherever the Kabbalah disagrees with the ruling, one goes after the ruling, and this rule is famous in Israel. And if your words are that this Kabbalah is a halakha given to Moses at Sinai, and do you reject a halakha given to Moses on account of the reasoning of some tanna or amora, and all the more so a later decisor (see below, §15), and you must bring a proof and inform us where we have found this, that any tanna or amora would be so bold to dispute and to rule against the halakha received from Moses, our Rabbi, peace be upon him. Would he not be called a fool, or a wicked and arrogant man? And in many places in the Talmud it is a saying in the mouths of the Rabbis to say: \"If it is a halakha, we accept it, and if it is a judgment, there is an answer.\"",
+      "literal": "11) very we are-astonished and-amazed at your-words and-at your-reply, this, and-is-it a-halakha given-to Moses from-Sinai to-believe in-many-divinities? and-to-worship other gods apart-from the-LORD our-God, the-First and-Rock of-all? and-He the-cause of-all the-causes, all-of-them, and-with-deceit you came in-your-replies to these people stubborn of-heart, whom you-boasted over-them, and-showed-them your-words these, saying: \"see that I-overturned their-words, and-I-rejected their-proofs in-haste, and-your-pamphlet goes-round to-all the-diners, and-after that they-praised-you and-lauded-you, that you sharp and-keen, you-brought it to-us.\" and-behold all-of-it deceptions, as-if you knew-not about what turns our-question, and-to your-error the-false this, we-shall-return again, since known and-famous in-the-rules of-the-decisors (Kenesset ha-Gedolah, the-Radbaz, and-Sh\"Z), that wherever the-Kabbalah disagrees with the-ruling, one-goes after the-ruling, and-this rule is-famous in-Israel. and-if your-words that this-Kabbalah is a-halakha given-to Moses from-Sinai, and-do you-reject a-halakha given-to Moses on-account-of the-reasoning-of some tanna or amora, and-all-the-more-so a-decisor later (see below, section 15), and-you-must bring proof and-inform-us where we-found this, that-any tanna or amora would-be-so-bold (to-brazen his-face) to-dispute and-to-rule against the-halakha received from-Moses, our-Rabbi, peace-be-upon-him. would-he-not be-called a-fool, or a-wicked-man and-arrogant? and-in many places in-the-Talmud it-is a-saying in-their-mouths of-the-Rabbis to-say: \"if halakha we-accept, and-if (as-to) a-judgment there-is an-answer.\"",
+      "tokens": [
+        {
+          "id": "3:11.1",
+          "gloss": "11)",
+          "note": "printed paragraph number, kept as printed"
+        },
+        {
+          "id": "3:11.2",
+          "gloss": "very"
+        },
+        {
+          "id": "3:11.3",
+          "gloss": "we"
+        },
+        {
+          "id": "3:11.4",
+          "gloss": "are astonished"
+        },
+        {
+          "id": "3:11.5",
+          "gloss": "and amazed"
+        },
+        {
+          "id": "3:11.6",
+          "gloss": "at"
+        },
+        {
+          "id": "3:11.7",
+          "gloss": "your words"
+        },
+        {
+          "id": "3:11.8",
+          "gloss": "and at"
+        },
+        {
+          "id": "3:11.9",
+          "gloss": "your reply"
+        },
+        {
+          "id": "3:11.10",
+          "gloss": "this"
+        },
+        {
+          "id": "3:11.11",
+          "gloss": "and is it",
+          "note": "rhetorical question, as the Hebrew has it (וכי)"
+        },
+        {
+          "id": "3:11.12",
+          "gloss": "a halakha"
+        },
+        {
+          "id": "3:11.13",
+          "gloss": "given to Moses"
+        },
+        {
+          "id": "3:11.14",
+          "gloss": "at Sinai"
+        },
+        {
+          "id": "3:11.15",
+          "gloss": "to believe"
+        },
+        {
+          "id": "3:11.16",
+          "gloss": "in"
+        },
+        {
+          "id": "3:11.17",
+          "gloss": "many divinities",
+          "note": "divinities: the plural is counted ('many'), so the English is plural"
+        },
+        {
+          "id": "3:11.18",
+          "gloss": "and to worship"
+        },
+        {
+          "id": "3:11.19",
+          "gloss": "gods",
+          "note": "other gods: the wording of Exod 20:3 (see apparatus)"
+        },
+        {
+          "id": "3:11.20",
+          "gloss": "other"
+        },
+        {
+          "id": "3:11.21",
+          "gloss": "apart from"
+        },
+        {
+          "id": "3:11.22",
+          "gloss": "the LORD",
+          "note": "the LORD: the Tetragrammaton, written ה' in the text"
+        },
+        {
+          "id": "3:11.23",
+          "gloss": "our God"
+        },
+        {
+          "id": "3:11.24",
+          "gloss": "the First",
+          "note": "the First: an allusion to Isa 44:6 (see apparatus)"
+        },
+        {
+          "id": "3:11.25",
+          "gloss": "and Rock"
+        },
+        {
+          "id": "3:11.26",
+          "gloss": "of all"
+        },
+        {
+          "id": "3:11.27",
+          "gloss": "and He"
+        },
+        {
+          "id": "3:11.28",
+          "gloss": "cause"
+        },
+        {
+          "id": "3:11.29",
+          "gloss": "of all"
+        },
+        {
+          "id": "3:11.30",
+          "gloss": "causes"
+        },
+        {
+          "id": "3:11.31",
+          "gloss": "all of them"
+        },
+        {
+          "id": "3:11.32",
+          "gloss": "and with deceit"
+        },
+        {
+          "id": "3:11.33",
+          "gloss": "you",
+          "note": "את here is the second-person pronoun 'you', the subject, not the object marker"
+        },
+        {
+          "id": "3:11.34",
+          "gloss": "came"
+        },
+        {
+          "id": "3:11.35",
+          "gloss": "in your replies"
+        },
+        {
+          "id": "3:11.36",
+          "gloss": "these"
+        },
+        {
+          "id": "3:11.37",
+          "gloss": "to people"
+        },
+        {
+          "id": "3:11.38",
+          "gloss": "stubborn"
+        },
+        {
+          "id": "3:11.39",
+          "gloss": "of heart"
+        },
+        {
+          "id": "3:11.40",
+          "gloss": "whom"
+        },
+        {
+          "id": "3:11.41",
+          "gloss": "you boasted"
+        },
+        {
+          "id": "3:11.42",
+          "gloss": "over them"
+        },
+        {
+          "id": "3:11.43",
+          "gloss": "and showed"
+        },
+        {
+          "id": "3:11.44",
+          "gloss": "them"
+        },
+        {
+          "id": "3:11.45",
+          "gloss": "your words"
+        },
+        {
+          "id": "3:11.46",
+          "gloss": "these"
+        },
+        {
+          "id": "3:11.47",
+          "gloss": "saying",
+          "note": "לאמר introduces the quotation, which is given in double marks; the quoted words keep the Hebrew's shift between 'I' and 'you'"
+        },
+        {
+          "id": "3:11.48",
+          "gloss": "See"
+        },
+        {
+          "id": "3:11.49",
+          "gloss": "that"
+        },
+        {
+          "id": "3:11.50",
+          "gloss": "I overturned"
+        },
+        {
+          "id": "3:11.51",
+          "gloss": "(object marker)"
+        },
+        {
+          "id": "3:11.52",
+          "gloss": "their words"
+        },
+        {
+          "id": "3:11.53",
+          "gloss": "and I rejected"
+        },
+        {
+          "id": "3:11.54",
+          "gloss": "(object marker)"
+        },
+        {
+          "id": "3:11.55",
+          "gloss": "their proofs"
+        },
+        {
+          "id": "3:11.56",
+          "gloss": "in haste",
+          "note": "בקש: 'in haste' is one reading; 'in brief' is another; the sense is not settled"
+        },
+        {
+          "id": "3:11.57",
+          "gloss": "and goes round"
+        },
+        {
+          "id": "3:11.58",
+          "gloss": "your pamphlet",
+          "note": "קונדריס: a small book, a pamphlet"
+        },
+        {
+          "id": "3:11.59",
+          "gloss": "to"
+        },
+        {
+          "id": "3:11.60",
+          "gloss": "all"
+        },
+        {
+          "id": "3:11.61",
+          "gloss": "the diners",
+          "note": "המסובין: those reclining at a meal"
+        },
+        {
+          "id": "3:11.62",
+          "gloss": "and after"
+        },
+        {
+          "id": "3:11.63",
+          "gloss": "that"
+        },
+        {
+          "id": "3:11.64",
+          "gloss": "they praised you"
+        },
+        {
+          "id": "3:11.65",
+          "gloss": "and lauded you"
+        },
+        {
+          "id": "3:11.66",
+          "gloss": "that you are"
+        },
+        {
+          "id": "3:11.67",
+          "gloss": "sharp"
+        },
+        {
+          "id": "3:11.68",
+          "gloss": "and keen"
+        },
+        {
+          "id": "3:11.69",
+          "gloss": "you brought"
+        },
+        {
+          "id": "3:11.70",
+          "gloss": "it"
+        },
+        {
+          "id": "3:11.71",
+          "gloss": "to us"
+        },
+        {
+          "id": "3:11.72",
+          "gloss": "And behold"
+        },
+        {
+          "id": "3:11.73",
+          "gloss": "all of it"
+        },
+        {
+          "id": "3:11.74",
+          "gloss": "deceptions"
+        },
+        {
+          "id": "3:11.75",
+          "gloss": "as if"
+        },
+        {
+          "id": "3:11.76",
+          "gloss": "not"
+        },
+        {
+          "id": "3:11.77",
+          "gloss": "you knew"
+        },
+        {
+          "id": "3:11.78",
+          "gloss": "about"
+        },
+        {
+          "id": "3:11.79",
+          "gloss": "what"
+        },
+        {
+          "id": "3:11.80",
+          "gloss": "turns"
+        },
+        {
+          "id": "3:11.81",
+          "gloss": "our question"
+        },
+        {
+          "id": "3:11.82",
+          "gloss": "and to"
+        },
+        {
+          "id": "3:11.83",
+          "gloss": "your error"
+        },
+        {
+          "id": "3:11.84",
+          "gloss": "the false"
+        },
+        {
+          "id": "3:11.85",
+          "gloss": "this"
+        },
+        {
+          "id": "3:11.86",
+          "gloss": "we shall return"
+        },
+        {
+          "id": "3:11.87",
+          "gloss": "again"
+        },
+        {
+          "id": "3:11.88",
+          "gloss": "since"
+        },
+        {
+          "id": "3:11.89",
+          "gloss": "it is known"
+        },
+        {
+          "id": "3:11.90",
+          "gloss": "and famous"
+        },
+        {
+          "id": "3:11.91",
+          "gloss": "in the rules of"
+        },
+        {
+          "id": "3:11.92",
+          "gloss": "the decisors"
+        },
+        {
+          "id": "3:11.93",
+          "gloss": "Kenesset ha-Gedolah",
+          "note": "כנה\"ג: Kenesset ha-Gedolah, written out"
+        },
+        {
+          "id": "3:11.94",
+          "gloss": "the Radbaz",
+          "note": "ורדב\"ז: the Radbaz (David ibn Zimra)"
+        },
+        {
+          "id": "3:11.95",
+          "gloss": "and Sh\"Z",
+          "note": "ושה\"ז: the abbreviation is not expanded here, since its expansion is not established; kept as written"
+        },
+        {
+          "id": "3:11.96",
+          "gloss": "that"
+        },
+        {
+          "id": "3:11.97",
+          "gloss": "wherever"
+        },
+        {
+          "id": "3:11.98",
+          "gloss": "the Kabbalah"
+        },
+        {
+          "id": "3:11.99",
+          "gloss": "disagrees"
+        },
+        {
+          "id": "3:11.100",
+          "gloss": "with"
+        },
+        {
+          "id": "3:11.101",
+          "gloss": "the ruling"
+        },
+        {
+          "id": "3:11.102",
+          "gloss": "one goes"
+        },
+        {
+          "id": "3:11.103",
+          "gloss": "after"
+        },
+        {
+          "id": "3:11.104",
+          "gloss": "the ruling"
+        },
+        {
+          "id": "3:11.105",
+          "gloss": "and this"
+        },
+        {
+          "id": "3:11.106",
+          "gloss": "rule"
+        },
+        {
+          "id": "3:11.107",
+          "gloss": "is famous"
+        },
+        {
+          "id": "3:11.108",
+          "gloss": "in Israel"
+        },
+        {
+          "id": "3:11.109",
+          "gloss": "and if"
+        },
+        {
+          "id": "3:11.110",
+          "gloss": "your words"
+        },
+        {
+          "id": "3:11.111",
+          "gloss": "that"
+        },
+        {
+          "id": "3:11.112",
+          "gloss": "this Kabbalah"
+        },
+        {
+          "id": "3:11.113",
+          "gloss": "is"
+        },
+        {
+          "id": "3:11.114",
+          "gloss": "a halakha"
+        },
+        {
+          "id": "3:11.115",
+          "gloss": "given to Moses"
+        },
+        {
+          "id": "3:11.116",
+          "gloss": "at Sinai"
+        },
+        {
+          "id": "3:11.117",
+          "gloss": "and do"
+        },
+        {
+          "id": "3:11.118",
+          "gloss": "you reject"
+        },
+        {
+          "id": "3:11.119",
+          "gloss": "a halakha"
+        },
+        {
+          "id": "3:11.120",
+          "gloss": "given to Moses"
+        },
+        {
+          "id": "3:11.121",
+          "gloss": "on account of"
+        },
+        {
+          "id": "3:11.122",
+          "gloss": "the reasoning of"
+        },
+        {
+          "id": "3:11.123",
+          "gloss": "some"
+        },
+        {
+          "id": "3:11.124",
+          "gloss": "tanna"
+        },
+        {
+          "id": "3:11.125",
+          "gloss": "or"
+        },
+        {
+          "id": "3:11.126",
+          "gloss": "amora"
+        },
+        {
+          "id": "3:11.127",
+          "gloss": "and all the more so"
+        },
+        {
+          "id": "3:11.128",
+          "gloss": "a decisor"
+        },
+        {
+          "id": "3:11.129",
+          "gloss": "later"
+        },
+        {
+          "id": "3:11.130",
+          "gloss": "see"
+        },
+        {
+          "id": "3:11.131",
+          "gloss": "below"
+        },
+        {
+          "id": "3:11.132",
+          "gloss": "section",
+          "note": "סי': the author's section number, §15"
+        },
+        {
+          "id": "3:11.133",
+          "gloss": "15"
+        },
+        {
+          "id": "3:11.134",
+          "gloss": "and you must"
+        },
+        {
+          "id": "3:11.135",
+          "gloss": "bring"
+        },
+        {
+          "id": "3:11.136",
+          "gloss": "a proof"
+        },
+        {
+          "id": "3:11.137",
+          "gloss": "and inform us"
+        },
+        {
+          "id": "3:11.138",
+          "gloss": "where"
+        },
+        {
+          "id": "3:11.139",
+          "gloss": "we have found"
+        },
+        {
+          "id": "3:11.140",
+          "gloss": "this"
+        },
+        {
+          "id": "3:11.141",
+          "gloss": "that any"
+        },
+        {
+          "id": "3:11.142",
+          "gloss": "tanna"
+        },
+        {
+          "id": "3:11.143",
+          "gloss": "or"
+        },
+        {
+          "id": "3:11.144",
+          "gloss": "amora"
+        },
+        {
+          "id": "3:11.145",
+          "gloss": "would be so bold"
+        },
+        {
+          "id": "3:11.146",
+          "gloss": "to brazen (lit. his face)",
+          "note": "יעיז פניו: 'brazen his face', the idiom for daring"
+        },
+        {
+          "id": "3:11.147",
+          "gloss": "to dispute"
+        },
+        {
+          "id": "3:11.148",
+          "gloss": "and to rule"
+        },
+        {
+          "id": "3:11.149",
+          "gloss": "against"
+        },
+        {
+          "id": "3:11.150",
+          "gloss": "the halakha"
+        },
+        {
+          "id": "3:11.151",
+          "gloss": "received"
+        },
+        {
+          "id": "3:11.152",
+          "gloss": "from Moses"
+        },
+        {
+          "id": "3:11.153",
+          "gloss": "our Rabbi",
+          "note": "רבי': 'our Rabbi', of Moses"
+        },
+        {
+          "id": "3:11.154",
+          "gloss": "peace be upon him",
+          "note": "ע\"ה: peace be upon him"
+        },
+        {
+          "id": "3:11.155",
+          "gloss": "would he not"
+        },
+        {
+          "id": "3:11.156",
+          "gloss": "a fool"
+        },
+        {
+          "id": "3:11.157",
+          "gloss": "or"
+        },
+        {
+          "id": "3:11.158",
+          "gloss": "a wicked man"
+        },
+        {
+          "id": "3:11.159",
+          "gloss": "and arrogant"
+        },
+        {
+          "id": "3:11.160",
+          "gloss": "of spirit"
+        },
+        {
+          "id": "3:11.161",
+          "gloss": "be called"
+        },
+        {
+          "id": "3:11.162",
+          "gloss": "And in many"
+        },
+        {
+          "id": "3:11.163",
+          "gloss": "places"
+        },
+        {
+          "id": "3:11.164",
+          "gloss": "in the Talmud"
+        },
+        {
+          "id": "3:11.165",
+          "gloss": "a saying",
+          "note": "מרגלא בפומיהו דרבנן: a common saying in the Aramaic of the Talmud, as the author gives it"
+        },
+        {
+          "id": "3:11.166",
+          "gloss": "in their mouths"
+        },
+        {
+          "id": "3:11.167",
+          "gloss": "of the Rabbis"
+        },
+        {
+          "id": "3:11.168",
+          "gloss": "to say"
+        },
+        {
+          "id": "3:11.169",
+          "gloss": "if",
+          "note": "the saying is quoted without a reference in the author's text; nothing is added"
+        },
+        {
+          "id": "3:11.170",
+          "gloss": "halakha"
+        },
+        {
+          "id": "3:11.171",
+          "gloss": "we accept"
+        },
+        {
+          "id": "3:11.172",
+          "gloss": "and if"
+        },
+        {
+          "id": "3:11.173",
+          "gloss": "as to a judgment"
+        },
+        {
+          "id": "3:11.174",
+          "gloss": "there is"
+        },
+        {
+          "id": "3:11.175",
+          "gloss": "an answer"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:11.1",
+            "3:11.2",
+            "3:11.3",
+            "3:11.4",
+            "3:11.5",
+            "3:11.6",
+            "3:11.7",
+            "3:11.8",
+            "3:11.9",
+            "3:11.10"
+          ],
+          "english": "11) We are very astonished and amazed at your words and at this reply of yours,",
+          "literal": "11) very we are-astonished and-amazed at your-words and-at your-reply, this,"
+        },
+        {
+          "tokens": [
+            "3:11.11",
+            "3:11.12",
+            "3:11.13",
+            "3:11.14",
+            "3:11.15",
+            "3:11.16",
+            "3:11.17"
+          ],
+          "english": "and is it a halakha given to Moses at Sinai to believe in many divinities?",
+          "literal": "and-is-it a-halakha given-to Moses from-Sinai to-believe in-many-divinities?"
+        },
+        {
+          "tokens": [
+            "3:11.18",
+            "3:11.19",
+            "3:11.20",
+            "3:11.21",
+            "3:11.22",
+            "3:11.23",
+            "3:11.24",
+            "3:11.25",
+            "3:11.26"
+          ],
+          "english": "and to worship other gods apart from the LORD our God, the First, and Rock of all?",
+          "literal": "and-to-worship other gods apart-from the-LORD our-God, the-First and-Rock of-all?"
+        },
+        {
+          "tokens": [
+            "3:11.27",
+            "3:11.28",
+            "3:11.29",
+            "3:11.30",
+            "3:11.31"
+          ],
+          "english": "And He is the cause of all causes, all of them,",
+          "literal": "and-He the-cause of-all the-causes, all-of-them,"
+        },
+        {
+          "tokens": [
+            "3:11.32",
+            "3:11.33",
+            "3:11.34",
+            "3:11.35",
+            "3:11.36",
+            "3:11.37",
+            "3:11.38",
+            "3:11.39",
+            "3:11.40",
+            "3:11.41",
+            "3:11.42",
+            "3:11.43",
+            "3:11.44",
+            "3:11.45",
+            "3:11.46",
+            "3:11.47"
+          ],
+          "english": "and with deceit you came in your replies to these stubborn-hearted people, whom you boasted over, and showed them these words of yours, saying:",
+          "literal": "and-with-deceit you came in-your-replies to these people stubborn of-heart, whom you-boasted over-them, and-showed-them your-words these, saying:"
+        },
+        {
+          "tokens": [
+            "3:11.48",
+            "3:11.49",
+            "3:11.50",
+            "3:11.51",
+            "3:11.52",
+            "3:11.53",
+            "3:11.54",
+            "3:11.55",
+            "3:11.56",
+            "3:11.57",
+            "3:11.58",
+            "3:11.59",
+            "3:11.60",
+            "3:11.61"
+          ],
+          "english": "\"See, I have overturned their words, and rejected their proofs in haste, and your pamphlet goes round to all the diners,",
+          "literal": "\"see that I-overturned their-words, and-I-rejected their-proofs in-haste, and-your-pamphlet goes-round to-all the-diners,"
+        },
+        {
+          "tokens": [
+            "3:11.62",
+            "3:11.63",
+            "3:11.64",
+            "3:11.65",
+            "3:11.66",
+            "3:11.67",
+            "3:11.68",
+            "3:11.69",
+            "3:11.70",
+            "3:11.71"
+          ],
+          "english": "and after they praised and lauded you, that you are sharp and keen, you brought it to us.\"",
+          "literal": "and-after that they-praised-you and-lauded-you, that you sharp and-keen, you-brought it to-us.\""
+        },
+        {
+          "tokens": [
+            "3:11.72",
+            "3:11.73",
+            "3:11.74",
+            "3:11.75",
+            "3:11.76",
+            "3:11.77",
+            "3:11.78",
+            "3:11.79",
+            "3:11.80",
+            "3:11.81"
+          ],
+          "english": "And behold, all of it is deceptions, as if you did not know what our question turns on,",
+          "literal": "and-behold all-of-it deceptions, as-if you knew-not about what turns our-question,"
+        },
+        {
+          "tokens": [
+            "3:11.82",
+            "3:11.83",
+            "3:11.84",
+            "3:11.85",
+            "3:11.86",
+            "3:11.87"
+          ],
+          "english": "and to this false error of yours we shall return again,",
+          "literal": "and-to your-error the-false this, we-shall-return again,"
+        },
+        {
+          "tokens": [
+            "3:11.88",
+            "3:11.89",
+            "3:11.90",
+            "3:11.91",
+            "3:11.92",
+            "3:11.93",
+            "3:11.94",
+            "3:11.95"
+          ],
+          "english": "since it is known and famous in the rules of the decisors (Kenesset ha-Gedolah, the Radbaz, and Sh\"Z),",
+          "literal": "since known and-famous in-the-rules of-the-decisors (Kenesset ha-Gedolah, the-Radbaz, and-Sh\"Z),"
+        },
+        {
+          "tokens": [
+            "3:11.96",
+            "3:11.97",
+            "3:11.98",
+            "3:11.99",
+            "3:11.100",
+            "3:11.101",
+            "3:11.102",
+            "3:11.103",
+            "3:11.104",
+            "3:11.105",
+            "3:11.106",
+            "3:11.107",
+            "3:11.108"
+          ],
+          "english": "that wherever the Kabbalah disagrees with the ruling, one goes after the ruling, and this rule is famous in Israel.",
+          "literal": "that wherever the-Kabbalah disagrees with the-ruling, one-goes after the-ruling, and-this rule is-famous in-Israel."
+        },
+        {
+          "tokens": [
+            "3:11.109",
+            "3:11.110",
+            "3:11.111",
+            "3:11.112",
+            "3:11.113",
+            "3:11.114",
+            "3:11.115",
+            "3:11.116"
+          ],
+          "english": "And if your words are that this Kabbalah is a halakha given to Moses at Sinai,",
+          "literal": "and-if your-words that this-Kabbalah is a-halakha given-to Moses from-Sinai,"
+        },
+        {
+          "tokens": [
+            "3:11.117",
+            "3:11.118",
+            "3:11.119",
+            "3:11.120",
+            "3:11.121",
+            "3:11.122",
+            "3:11.123",
+            "3:11.124",
+            "3:11.125",
+            "3:11.126",
+            "3:11.127",
+            "3:11.128",
+            "3:11.129",
+            "3:11.130",
+            "3:11.131",
+            "3:11.132",
+            "3:11.133"
+          ],
+          "english": "and do you reject a halakha given to Moses on account of the reasoning of some tanna or amora, and all the more so a later decisor (see below, §15),",
+          "literal": "and-do you-reject a-halakha given-to Moses on-account-of the-reasoning-of some tanna or amora, and-all-the-more-so a-decisor later (see below, section 15),"
+        },
+        {
+          "tokens": [
+            "3:11.134",
+            "3:11.135",
+            "3:11.136",
+            "3:11.137",
+            "3:11.138",
+            "3:11.139",
+            "3:11.140",
+            "3:11.141",
+            "3:11.142",
+            "3:11.143",
+            "3:11.144",
+            "3:11.145",
+            "3:11.146"
+          ],
+          "english": "and you must bring a proof and inform us where we have found this, that any tanna or amora would be so bold",
+          "literal": "and-you-must bring proof and-inform-us where we-found this, that-any tanna or amora would-be-so-bold (to-brazen his-face)"
+        },
+        {
+          "tokens": [
+            "3:11.147",
+            "3:11.148",
+            "3:11.149",
+            "3:11.150",
+            "3:11.151",
+            "3:11.152",
+            "3:11.153",
+            "3:11.154"
+          ],
+          "english": "to dispute and to rule against the halakha received from Moses, our Rabbi, peace be upon him.",
+          "literal": "to-dispute and-to-rule against the-halakha received from-Moses, our-Rabbi, peace-be-upon-him."
+        },
+        {
+          "tokens": [
+            "3:11.155",
+            "3:11.156",
+            "3:11.157",
+            "3:11.158",
+            "3:11.159",
+            "3:11.160",
+            "3:11.161"
+          ],
+          "english": "Would he not be called a fool, or a wicked and arrogant man?",
+          "literal": "would-he-not be-called a-fool, or a-wicked-man and-arrogant?"
+        },
+        {
+          "tokens": [
+            "3:11.162",
+            "3:11.163",
+            "3:11.164",
+            "3:11.165",
+            "3:11.166",
+            "3:11.167",
+            "3:11.168"
+          ],
+          "english": "And in many places in the Talmud it is a saying in the mouths of the Rabbis to say:",
+          "literal": "and-in many places in-the-Talmud it-is a-saying in-their-mouths of-the-Rabbis to-say:"
+        },
+        {
+          "tokens": [
+            "3:11.169",
+            "3:11.170",
+            "3:11.171",
+            "3:11.172",
+            "3:11.173",
+            "3:11.174",
+            "3:11.175"
+          ],
+          "english": "\"If it is a halakha, we accept it, and if it is a judgment, there is an answer.\"",
+          "literal": "\"if halakha we-accept, and-if (as-to) a-judgment there-is an-answer.\""
+        }
+      ],
+      "grammar": [
+        "הלכה למשה מסיני להאמין (3:11.11-16) and ולעבוד (3:11.18) are infinitives after the question 'is it a halakha': 'to believe' and 'to worship' are its content.",
+        "את in ובמרמה את בא (3:11.32-34) is the second-person pronoun 'you', the subject, not the object marker; the English reads 'you came'.",
+        "ראו כי סתרתי... (3:11.48-71) is the quotation that follows לאמר (3:11.47); its shifts between 'I' and 'you' are kept as in the Hebrew.",
+        "מרגלא בפומיהו דרבנן (3:11.165-168) is Bavli Aramaic, the frame of the saying; the saying itself (3:11.169-175) is in Hebrew and Aramaic words, quoted without a reference."
+      ],
+      "commentary": [],
+      "apparatus": [
+        "Allusion to Isa 44:6 ('I am the first and I am the last, and besides Me there is no God'): 'the First' (3:11.24).",
+        "Allusion to Isa 44:8 ('Is there a God besides Me? There is no Rock; I know none'): 'and Rock' (3:11.25), and 'other' with מבלעדי (3:11.21).",
+        "Allusion to Exod 20:3 ('You shall have no other gods before Me'): 'other gods' (3:11.19-20)."
+      ]
+    }
+  ]
+}
