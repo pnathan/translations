@@ -751,6 +751,15 @@ senses are allowed, chosen by the use.
 - כמתלהמים (an echo of Prov 26:18): "ravers", the verse in `apparatus`.
 - רבי' with an apostrophe before a name of a lawgiver: "Moses our teacher".
 - A plural אלהים with a singular verb for the God of Israel: "God".
+- עבודה: "worship" for God and idols; the one exception is Exod 12:26 (מה העבודה
+  הזאת לכם), "this service", the Passover rite, with a note. This amends the
+  earlier "never service".
+- Judeo-Arabic: an alif maqsura written with geresh (אלי') is ilā "to"; a scribal
+  letter change (ר for ד) is noted, not corrected in the English.
+- ממש after a comparison: attach to the comparison ("exactly as the words of
+  ...") unless the syntax forbids it.
+- אמנתא / אמונתנו pairs in Saadia: the Arabic word as written; the author's
+  Hebrew gloss in a note.
 
 ## Pending consistency pass (before the PR)
 
@@ -762,6 +771,8 @@ senses are allowed, chosen by the use.
   above.
 - 3:7-3:8 (perek-3-04): remove the named author (Safrin of Komarno) from the note
   and context on היכל הברכה: the text does not name him.
+- 3:9 (perek-3-05): check the rendering of העבודה הזאת in the Exod 12:26 allusion
+  against the amended עבודה ruling ("this service").
 
 ## Translator's checklist (the pilot reviews found these faults most often)
 
