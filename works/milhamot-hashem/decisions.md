@@ -687,11 +687,21 @@ senses are allowed, chosen by the use.
   Kabbalistic "unify" in the note.
 - קורין אל: "call upon"; חכמי הקבלה: "sages of Kabbalah"; גבורה as a name of God:
   "the Power".
+- עמי הארץ: "the unlearned", as in the project's Avot (עם הארץ, "an unlearned
+  person"), the Hebrew term in a note; not "common folk".
+- The author's own section labels (ו), ז) at a section's head, numbered through
+  the book): "§6."; list markers inside a sentence stay "1)", "2)".
+- אחד ... ואחד in "one ... and one" about two kinds of case: "alike" ("civil
+  cases and capital cases alike").
+- ואין צריך לומר: "needless to say"; עבודה (worship) is never "service".
+- אורה זו תורה (the exegetic formula, Esth 8:16): "'orah' means Torah".
 
 ## Pending consistency pass (before the PR)
 
 - 2:18 (perek-2-09) closes the Menasseh quotation too early; 2:19-2:22
   (perek-2-10) carry no opening marks. Patch both by the ruling above.
+- 3:6 (perek-3-03): the gloss/English "the ignorant" for עמי הארץ becomes "the
+  unlearned" by the ruling above.
 
 ## Translator's checklist (the pilot reviews found these faults most often)
 
