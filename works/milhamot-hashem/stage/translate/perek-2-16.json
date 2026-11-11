@@ -1,0 +1,1719 @@
+{
+  "unit": "perek-2-16",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "2:32",
+      "english": "And behold, my beloved, like my brother of blessed memory, the ruler of the land of Israel, the Nimshal, for the going far toward the place of the Name in the grasp of the secret is the shortness of the one who grasps and the depth of what is grasped, and the multitude of propositions, which are preventing causes in every grasp of wisdom, and especially in the wisdom of Kabbalah, in several respects, and over all of them is the sin, which obstructs and separates between the intellect and the intelligible, etc., and indeed, even though the author of Pardes Rimonim, because of the greatness of his holiness and his piety, is very careful in many places, and warns greatly against a strange thought that is of division, and limit, and dominion of similitudes, etc., we too shall say: would that a spirit from on high be poured out upon us, that we might grasp and understand the matters without inclining from the truth and from the roots of the religion, etc. And by these, take this rule in your hand: all things that are forbidden in the books of the Kabbalists, which they mention without dispute on the matter and without inquiry, and their plain sense will be understood, and the joining of the things: bind them on a white tablet, and let them be frontlets between your eyes. And even when things are read before you that appear astonishing in themselves, or from the side that it seems, God forbid, that there is division, number, corporeality and change, you shall accept them in the faith of an artisan, and say in your heart that your mind is short, and your knowledge in the depth of understanding, without your doubting, God forbid, one of the roots of the religion that are stated in Yigdal and in several places, for even those fundamental ones, it is not possible to descend to their roots by human reason, etc. And now go and learn that it is forbidden to innovate and to understand a matter from what is written in the book, lest he not aim at the truth, however, to explain verses according to what the Kabbalists said, that the premise is agreed; only that on this he explains the verse, or says that there is an allusion in it, by means of gematria, or the initial and final letters of words. It is good and fine that he only say it as a possibility, without deciding the matter, etc., only let him not waste his time on them, and whatever the LORD has put in his heart, and it is correctly tasted without strain, he should not cast it behind his back, but rather let him write it down for memory, and let it be in his eyes as one who finds great spoil, for it is a sign for his soul, a portion of God from on high, which has nourishment and access in a high place, and a holy one will say to him: and now, behold, I have revealed to you the secrets of my heart. And you, the king, in your reflection and your knowledge, holy and broad, tell me, please, your ways, and I will set aside my opinion before your opinion. Yair Chayyim Bakhrakh.",
+      "literal": "and-behold my-beloved like-my-brother of-blessed-memory the-ruler-of the-land-of Israel the-Nimshal for the-going far toward the-place-of the-Name in-the-grasp-of the-secret is the-shortness-of the-one-who-grasps and-the-depth-of what-is-grasped and-the-multitude-of the-propositions which-are causes preventing in-every grasp-of wisdom and-especially in-the-wisdom-of Kabbalah in-several respects and-over all-of-them the-sin which-is obstructing and-separating between the-intellect and-the-intelligible etc. and-indeed even though the-author-of Pardes Rimonim because-of-the-greatness-of his-holiness and-his-piety is-careful very in-many places and-warns greatly against a-thought strange that-is-of-division and-limit and-dominion of-similitudes etc. and-even we shall-say who will-give and-be-poured-out upon-us a-spirit from-on-high that-we-might-grasp and-understand the-matters without inclining from the-truth and-from-the-roots-of the-religion etc. and-by-these take this rule in-your-hand all things that-are-forbidden in-the-books-of the-Kabbalists which-they-mention without dispute on-the-matter and-without inquiry will-be-understood their-plain-sense of the-things and-the-joining-of the-things bind-them on a-tablet white and-let-them-be frontlets between your-eyes and-even when are-read before-you things that-appear astonishing from-the-side-of themselves or from-the-side-of that-it-seems God-forbid that-there-is division and-number and-corporeality and-change you-shall-accept-them in-the-faith-of an-artisan and-say in-your-heart that is-short your-mind and-your-knowledge in-the-depth-of understanding without your-doubting God-forbid one-of the-roots-of the-religion that-are-stated in-Yigdal and-in-several places for even those the-fundamental-ones it-is-not possible to-descend to-their-roots from-the-side-of reason human etc. and-now go and-learn that-it-is-forbidden to-innovate and-to-understand a-matter from-within what-is-written in-the-book lest not aim at the-truth however to-explain verses by the-mouth-of what they-said the-Kabbalists that-the-premise is-agreed only that-on this he-explains the-verse or says that-there-is-an-allusion in-it by means-of gematria or the-initials-of and-the-finals-of words it-is-good and-fine it-is that-only he-say-it as-a-way a-possibility without deciding the-matter etc. only not let-him-waste his-time on-them and-whatever has-put the-LORD in-his-heart and-it is-correctly-tasted rightly without strain he-should-not cast-it behind his-back but-rather let-him-write-it for-memory and-let-it-be in-his-eyes as-one-who-finds spoil great for it is-a-sign for-his-soul a-portion of-God from-on-high which-has to-it nourishment and-access in-a-place high and-a-holy-one will-say to-him and-now behold I-have-revealed to-you the-secrets-of my-heart and-you the-king in-your-reflection and-your-knowledge holy and-broad tell-me please (object-marker) your-ways and-I-will-set-aside my-opinion before your-opinion Yair Chayyim Bakhrakh",
+      "tokens": [
+        {
+          "id": "2:32.1",
+          "gloss": "and behold",
+          "note": "והנה: 'and behold'; at 2:32.45 the same word opens the next clause, 'and indeed'."
+        },
+        {
+          "id": "2:32.2",
+          "gloss": "my beloved"
+        },
+        {
+          "id": "2:32.3",
+          "gloss": "like my brother"
+        },
+        {
+          "id": "2:32.4",
+          "gloss": "of blessed memory"
+        },
+        {
+          "id": "2:32.5",
+          "gloss": "the ruler of",
+          "note": "ממשל: a noun 'rule' or the word mashal (parable). The epithet plays on mashal and nimshal. Read as 'ruler' here; the parable reading is in readings."
+        },
+        {
+          "id": "2:32.6",
+          "gloss": "the land of"
+        },
+        {
+          "id": "2:32.7",
+          "gloss": "Israel"
+        },
+        {
+          "id": "2:32.8",
+          "gloss": "the Nimshal",
+          "note": "הנמשל: the referent of a parable (nimshal). The epithet pairs it with ממשל."
+        },
+        {
+          "id": "2:32.9",
+          "gloss": "for"
+        },
+        {
+          "id": "2:32.10",
+          "gloss": "the going"
+        },
+        {
+          "id": "2:32.11",
+          "gloss": "far",
+          "note": "הרב: 'much, many', here 'far'."
+        },
+        {
+          "id": "2:32.12",
+          "gloss": "toward"
+        },
+        {
+          "id": "2:32.13",
+          "gloss": "the place of"
+        },
+        {
+          "id": "2:32.14",
+          "gloss": "the Name"
+        },
+        {
+          "id": "2:32.15",
+          "gloss": "in the grasp of"
+        },
+        {
+          "id": "2:32.16",
+          "gloss": "the secret"
+        },
+        {
+          "id": "2:32.17",
+          "gloss": "is"
+        },
+        {
+          "id": "2:32.18",
+          "gloss": "the shortness of"
+        },
+        {
+          "id": "2:32.19",
+          "gloss": "the one who grasps"
+        },
+        {
+          "id": "2:32.20",
+          "gloss": "and the depth of"
+        },
+        {
+          "id": "2:32.21",
+          "gloss": "what is grasped"
+        },
+        {
+          "id": "2:32.22",
+          "gloss": "and the multitude of"
+        },
+        {
+          "id": "2:32.23",
+          "gloss": "the propositions",
+          "note": "הצעות: propositions or premises put forward for the mind."
+        },
+        {
+          "id": "2:32.24",
+          "gloss": "which are"
+        },
+        {
+          "id": "2:32.25",
+          "gloss": "causes",
+          "note": "סבות: causes. The following adjective, מונעות, is 'preventing'."
+        },
+        {
+          "id": "2:32.26",
+          "gloss": "preventing"
+        },
+        {
+          "id": "2:32.27",
+          "gloss": "in every"
+        },
+        {
+          "id": "2:32.28",
+          "gloss": "grasp of"
+        },
+        {
+          "id": "2:32.29",
+          "gloss": "wisdom"
+        },
+        {
+          "id": "2:32.30",
+          "gloss": "and especially"
+        },
+        {
+          "id": "2:32.31",
+          "gloss": "in the wisdom of"
+        },
+        {
+          "id": "2:32.32",
+          "gloss": "Kabbalah"
+        },
+        {
+          "id": "2:32.33",
+          "gloss": "in several"
+        },
+        {
+          "id": "2:32.34",
+          "gloss": "respects",
+          "note": "פנים: literally 'faces'; here 'respects' (aspects)."
+        },
+        {
+          "id": "2:32.35",
+          "gloss": "and over"
+        },
+        {
+          "id": "2:32.36",
+          "gloss": "all of them"
+        },
+        {
+          "id": "2:32.37",
+          "gloss": "the sin"
+        },
+        {
+          "id": "2:32.38",
+          "gloss": "which is"
+        },
+        {
+          "id": "2:32.39",
+          "gloss": "obstructing",
+          "note": "מוסך: obstructs, stands in the way."
+        },
+        {
+          "id": "2:32.40",
+          "gloss": "and separating"
+        },
+        {
+          "id": "2:32.41",
+          "gloss": "between"
+        },
+        {
+          "id": "2:32.42",
+          "gloss": "the intellect"
+        },
+        {
+          "id": "2:32.43",
+          "gloss": "and the intelligible"
+        },
+        {
+          "id": "2:32.44",
+          "gloss": "etc.",
+          "note": "וכו': 'etc.' marks an omitted continuation in the author's own text."
+        },
+        {
+          "id": "2:32.45",
+          "gloss": "and indeed"
+        },
+        {
+          "id": "2:32.46",
+          "gloss": "even"
+        },
+        {
+          "id": "2:32.47",
+          "gloss": "though"
+        },
+        {
+          "id": "2:32.48",
+          "gloss": "the author of"
+        },
+        {
+          "id": "2:32.49",
+          "gloss": "Pardes",
+          "note": "פרדס רמונים: Pardes Rimonim, 'Pomegranate Orchard', the title of a Kabbalistic book. בעל: 'the author of'. The text does not name him."
+        },
+        {
+          "id": "2:32.50",
+          "gloss": "Rimonim"
+        },
+        {
+          "id": "2:32.51",
+          "gloss": "because of the greatness of"
+        },
+        {
+          "id": "2:32.52",
+          "gloss": "his holiness"
+        },
+        {
+          "id": "2:32.53",
+          "gloss": "and his piety"
+        },
+        {
+          "id": "2:32.54",
+          "gloss": "is careful"
+        },
+        {
+          "id": "2:32.55",
+          "gloss": "very"
+        },
+        {
+          "id": "2:32.56",
+          "gloss": "in many"
+        },
+        {
+          "id": "2:32.57",
+          "gloss": "places"
+        },
+        {
+          "id": "2:32.58",
+          "gloss": "and warns"
+        },
+        {
+          "id": "2:32.59",
+          "gloss": "greatly"
+        },
+        {
+          "id": "2:32.60",
+          "gloss": "against"
+        },
+        {
+          "id": "2:32.61",
+          "gloss": "a thought"
+        },
+        {
+          "id": "2:32.62",
+          "gloss": "strange",
+          "note": "זרה: 'strange, foreign'."
+        },
+        {
+          "id": "2:32.63",
+          "gloss": "that is of division",
+          "note": "פירוד: division, separation."
+        },
+        {
+          "id": "2:32.64",
+          "gloss": "and limit"
+        },
+        {
+          "id": "2:32.65",
+          "gloss": "and dominion"
+        },
+        {
+          "id": "2:32.66",
+          "gloss": "of similitudes"
+        },
+        {
+          "id": "2:32.67",
+          "gloss": "etc.",
+          "note": "וכו': 'etc.' as at 2:32.44."
+        },
+        {
+          "id": "2:32.68",
+          "gloss": "and even"
+        },
+        {
+          "id": "2:32.69",
+          "gloss": "we"
+        },
+        {
+          "id": "2:32.70",
+          "gloss": "shall say"
+        },
+        {
+          "id": "2:32.71",
+          "gloss": "who",
+          "note": "מי יתן: an optative idiom, literally 'who will give', rendered 'would that'."
+        },
+        {
+          "id": "2:32.72",
+          "gloss": "will give"
+        },
+        {
+          "id": "2:32.73",
+          "gloss": "and be poured out",
+          "note": "ויערה: 'and be poured out', a yiqtol with wish sense. Allusion to Isa 32:15 (apparatus)."
+        },
+        {
+          "id": "2:32.74",
+          "gloss": "upon us"
+        },
+        {
+          "id": "2:32.75",
+          "gloss": "a spirit"
+        },
+        {
+          "id": "2:32.76",
+          "gloss": "from on high"
+        },
+        {
+          "id": "2:32.77",
+          "gloss": "that we might grasp"
+        },
+        {
+          "id": "2:32.78",
+          "gloss": "and understand"
+        },
+        {
+          "id": "2:32.79",
+          "gloss": "the matters"
+        },
+        {
+          "id": "2:32.80",
+          "gloss": "without"
+        },
+        {
+          "id": "2:32.81",
+          "gloss": "inclining"
+        },
+        {
+          "id": "2:32.82",
+          "gloss": "from"
+        },
+        {
+          "id": "2:32.83",
+          "gloss": "the truth"
+        },
+        {
+          "id": "2:32.84",
+          "gloss": "and from the roots of"
+        },
+        {
+          "id": "2:32.85",
+          "gloss": "the religion"
+        },
+        {
+          "id": "2:32.86",
+          "gloss": "etc.",
+          "note": "וכו': 'etc.', and the full stop follows in the Hebrew."
+        },
+        {
+          "id": "2:32.87",
+          "gloss": "and by these"
+        },
+        {
+          "id": "2:32.88",
+          "gloss": "take"
+        },
+        {
+          "id": "2:32.89",
+          "gloss": "this",
+          "note": "האיי: the spelling of האי, 'this'."
+        },
+        {
+          "id": "2:32.90",
+          "gloss": "rule",
+          "note": "כללא: the Aramaic word for 'rule' (kelala)."
+        },
+        {
+          "id": "2:32.91",
+          "gloss": "in your hand"
+        },
+        {
+          "id": "2:32.92",
+          "gloss": "all",
+          "note": "שכל: the Aramaic word for 'all' (kol)."
+        },
+        {
+          "id": "2:32.93",
+          "gloss": "things"
+        },
+        {
+          "id": "2:32.94",
+          "gloss": "that are forbidden"
+        },
+        {
+          "id": "2:32.95",
+          "gloss": "in the books of"
+        },
+        {
+          "id": "2:32.96",
+          "gloss": "the Kabbalists"
+        },
+        {
+          "id": "2:32.97",
+          "gloss": "which they mention"
+        },
+        {
+          "id": "2:32.98",
+          "gloss": "without"
+        },
+        {
+          "id": "2:32.99",
+          "gloss": "dispute"
+        },
+        {
+          "id": "2:32.100",
+          "gloss": "on the matter"
+        },
+        {
+          "id": "2:32.101",
+          "gloss": "and without"
+        },
+        {
+          "id": "2:32.102",
+          "gloss": "inquiry"
+        },
+        {
+          "id": "2:32.103",
+          "gloss": "will be understood",
+          "note": "ויובנו: passive, 'will be understood'."
+        },
+        {
+          "id": "2:32.104",
+          "gloss": "their plain sense"
+        },
+        {
+          "id": "2:32.105",
+          "gloss": "of"
+        },
+        {
+          "id": "2:32.106",
+          "gloss": "the things"
+        },
+        {
+          "id": "2:32.107",
+          "gloss": "and the joining of"
+        },
+        {
+          "id": "2:32.108",
+          "gloss": "the things"
+        },
+        {
+          "id": "2:32.109",
+          "gloss": "bind them",
+          "note": "קשרם: imperative, 'bind them'."
+        },
+        {
+          "id": "2:32.110",
+          "gloss": "on"
+        },
+        {
+          "id": "2:32.111",
+          "gloss": "a tablet"
+        },
+        {
+          "id": "2:32.112",
+          "gloss": "white",
+          "note": "לבן: literally 'white'. Prov 3:3 reads 'the tablet of your heart' (see apparatus); translated as written."
+        },
+        {
+          "id": "2:32.113",
+          "gloss": "and let them be",
+          "note": "ויהיו: 'and let them be', a jussive."
+        },
+        {
+          "id": "2:32.114",
+          "gloss": "frontlets"
+        },
+        {
+          "id": "2:32.115",
+          "gloss": "between"
+        },
+        {
+          "id": "2:32.116",
+          "gloss": "your eyes"
+        },
+        {
+          "id": "2:32.117",
+          "gloss": "and even"
+        },
+        {
+          "id": "2:32.118",
+          "gloss": "when"
+        },
+        {
+          "id": "2:32.119",
+          "gloss": "are read",
+          "note": "יקרא: 'is read', passive."
+        },
+        {
+          "id": "2:32.120",
+          "gloss": "before you"
+        },
+        {
+          "id": "2:32.121",
+          "gloss": "things"
+        },
+        {
+          "id": "2:32.122",
+          "gloss": "that appear"
+        },
+        {
+          "id": "2:32.123",
+          "gloss": "astonishing"
+        },
+        {
+          "id": "2:32.124",
+          "gloss": "from the side of"
+        },
+        {
+          "id": "2:32.125",
+          "gloss": "themselves"
+        },
+        {
+          "id": "2:32.126",
+          "gloss": "or"
+        },
+        {
+          "id": "2:32.127",
+          "gloss": "from the side of"
+        },
+        {
+          "id": "2:32.128",
+          "gloss": "that it seems"
+        },
+        {
+          "id": "2:32.129",
+          "gloss": "God forbid",
+          "note": "חלילה: an oath formula, 'far be it'; rendered 'God forbid' as at 2:32.148."
+        },
+        {
+          "id": "2:32.130",
+          "gloss": "that there is"
+        },
+        {
+          "id": "2:32.131",
+          "gloss": "division"
+        },
+        {
+          "id": "2:32.132",
+          "gloss": "and number"
+        },
+        {
+          "id": "2:32.133",
+          "gloss": "and corporeality"
+        },
+        {
+          "id": "2:32.134",
+          "gloss": "and change"
+        },
+        {
+          "id": "2:32.135",
+          "gloss": "you shall accept them"
+        },
+        {
+          "id": "2:32.136",
+          "gloss": "in the faith of",
+          "note": "באמונת אומן: literally 'with the faith of an artisan'; here, accepting on trust without proof."
+        },
+        {
+          "id": "2:32.137",
+          "gloss": "an artisan"
+        },
+        {
+          "id": "2:32.138",
+          "gloss": "and say"
+        },
+        {
+          "id": "2:32.139",
+          "gloss": "in your heart"
+        },
+        {
+          "id": "2:32.140",
+          "gloss": "that"
+        },
+        {
+          "id": "2:32.141",
+          "gloss": "is short"
+        },
+        {
+          "id": "2:32.142",
+          "gloss": "your mind"
+        },
+        {
+          "id": "2:32.143",
+          "gloss": "and your knowledge"
+        },
+        {
+          "id": "2:32.144",
+          "gloss": "in the depth of"
+        },
+        {
+          "id": "2:32.145",
+          "gloss": "understanding"
+        },
+        {
+          "id": "2:32.146",
+          "gloss": "without"
+        },
+        {
+          "id": "2:32.147",
+          "gloss": "your doubting"
+        },
+        {
+          "id": "2:32.148",
+          "gloss": "God forbid"
+        },
+        {
+          "id": "2:32.149",
+          "gloss": "one of"
+        },
+        {
+          "id": "2:32.150",
+          "gloss": "the roots of"
+        },
+        {
+          "id": "2:32.151",
+          "gloss": "the religion"
+        },
+        {
+          "id": "2:32.152",
+          "gloss": "that are stated"
+        },
+        {
+          "id": "2:32.153",
+          "gloss": "in Yigdal",
+          "note": "ביגדל: Yigdal, the hymn that lists the principles of faith."
+        },
+        {
+          "id": "2:32.154",
+          "gloss": "and in several"
+        },
+        {
+          "id": "2:32.155",
+          "gloss": "places"
+        },
+        {
+          "id": "2:32.156",
+          "gloss": "for"
+        },
+        {
+          "id": "2:32.157",
+          "gloss": "even"
+        },
+        {
+          "id": "2:32.158",
+          "gloss": "those"
+        },
+        {
+          "id": "2:32.159",
+          "gloss": "the fundamental ones",
+          "note": "העיקרי: 'the fundamental ones', the principles."
+        },
+        {
+          "id": "2:32.160",
+          "gloss": "it is not"
+        },
+        {
+          "id": "2:32.161",
+          "gloss": "possible"
+        },
+        {
+          "id": "2:32.162",
+          "gloss": "to descend"
+        },
+        {
+          "id": "2:32.163",
+          "gloss": "to their roots"
+        },
+        {
+          "id": "2:32.164",
+          "gloss": "from the side of"
+        },
+        {
+          "id": "2:32.165",
+          "gloss": "reason"
+        },
+        {
+          "id": "2:32.166",
+          "gloss": "human"
+        },
+        {
+          "id": "2:32.167",
+          "gloss": "etc."
+        },
+        {
+          "id": "2:32.168",
+          "gloss": "and now"
+        },
+        {
+          "id": "2:32.169",
+          "gloss": "go"
+        },
+        {
+          "id": "2:32.170",
+          "gloss": "and learn"
+        },
+        {
+          "id": "2:32.171",
+          "gloss": "that it is forbidden"
+        },
+        {
+          "id": "2:32.172",
+          "gloss": "to innovate"
+        },
+        {
+          "id": "2:32.173",
+          "gloss": "and to understand"
+        },
+        {
+          "id": "2:32.174",
+          "gloss": "a matter"
+        },
+        {
+          "id": "2:32.175",
+          "gloss": "from within"
+        },
+        {
+          "id": "2:32.176",
+          "gloss": "what is written",
+          "note": "הנכתב: passive participle, 'what is written'."
+        },
+        {
+          "id": "2:32.177",
+          "gloss": "in the book"
+        },
+        {
+          "id": "2:32.178",
+          "gloss": "lest"
+        },
+        {
+          "id": "2:32.179",
+          "gloss": "not"
+        },
+        {
+          "id": "2:32.180",
+          "gloss": "aim"
+        },
+        {
+          "id": "2:32.181",
+          "gloss": "at"
+        },
+        {
+          "id": "2:32.182",
+          "gloss": "the truth"
+        },
+        {
+          "id": "2:32.183",
+          "gloss": "however"
+        },
+        {
+          "id": "2:32.184",
+          "gloss": "to explain"
+        },
+        {
+          "id": "2:32.185",
+          "gloss": "verses"
+        },
+        {
+          "id": "2:32.186",
+          "gloss": "by"
+        },
+        {
+          "id": "2:32.187",
+          "gloss": "the mouth of",
+          "note": "פי: literally 'mouth of'; with על, the idiom 'according to'."
+        },
+        {
+          "id": "2:32.188",
+          "gloss": "what"
+        },
+        {
+          "id": "2:32.189",
+          "gloss": "they said"
+        },
+        {
+          "id": "2:32.190",
+          "gloss": "the Kabbalists"
+        },
+        {
+          "id": "2:32.191",
+          "gloss": "that the premise"
+        },
+        {
+          "id": "2:32.192",
+          "gloss": "is agreed"
+        },
+        {
+          "id": "2:32.193",
+          "gloss": "only"
+        },
+        {
+          "id": "2:32.194",
+          "gloss": "that on"
+        },
+        {
+          "id": "2:32.195",
+          "gloss": "this"
+        },
+        {
+          "id": "2:32.196",
+          "gloss": "he explains"
+        },
+        {
+          "id": "2:32.197",
+          "gloss": "the verse",
+          "note": "הפ': the verse (Hebrew פסוק). The author does not name the verse."
+        },
+        {
+          "id": "2:32.198",
+          "gloss": "or"
+        },
+        {
+          "id": "2:32.199",
+          "gloss": "says"
+        },
+        {
+          "id": "2:32.200",
+          "gloss": "that there is an allusion",
+          "note": "שנרמז: 'is alluded to', from remez."
+        },
+        {
+          "id": "2:32.201",
+          "gloss": "in it"
+        },
+        {
+          "id": "2:32.202",
+          "gloss": "by"
+        },
+        {
+          "id": "2:32.203",
+          "gloss": "means of",
+          "note": "על פי: 'by means of' with gematria."
+        },
+        {
+          "id": "2:32.204",
+          "gloss": "gematria"
+        },
+        {
+          "id": "2:32.205",
+          "gloss": "or"
+        },
+        {
+          "id": "2:32.206",
+          "gloss": "the initials of",
+          "note": "ראשי: 'the initials of'."
+        },
+        {
+          "id": "2:32.207",
+          "gloss": "and the finals of"
+        },
+        {
+          "id": "2:32.208",
+          "gloss": "words",
+          "note": "תיבות: words."
+        },
+        {
+          "id": "2:32.209",
+          "gloss": "it is good"
+        },
+        {
+          "id": "2:32.210",
+          "gloss": "and fine"
+        },
+        {
+          "id": "2:32.211",
+          "gloss": "it is"
+        },
+        {
+          "id": "2:32.212",
+          "gloss": "that only"
+        },
+        {
+          "id": "2:32.213",
+          "gloss": "he say it"
+        },
+        {
+          "id": "2:32.214",
+          "gloss": "as a way"
+        },
+        {
+          "id": "2:32.215",
+          "gloss": "a possibility",
+          "note": "אפשר: 'a possibility'."
+        },
+        {
+          "id": "2:32.216",
+          "gloss": "without"
+        },
+        {
+          "id": "2:32.217",
+          "gloss": "deciding"
+        },
+        {
+          "id": "2:32.218",
+          "gloss": "the matter"
+        },
+        {
+          "id": "2:32.219",
+          "gloss": "etc."
+        },
+        {
+          "id": "2:32.220",
+          "gloss": "only"
+        },
+        {
+          "id": "2:32.221",
+          "gloss": "not"
+        },
+        {
+          "id": "2:32.222",
+          "gloss": "let him waste",
+          "note": "יכלה: 'waste, use up'."
+        },
+        {
+          "id": "2:32.223",
+          "gloss": "his time"
+        },
+        {
+          "id": "2:32.224",
+          "gloss": "on them"
+        },
+        {
+          "id": "2:32.225",
+          "gloss": "and whatever"
+        },
+        {
+          "id": "2:32.226",
+          "gloss": "has put"
+        },
+        {
+          "id": "2:32.227",
+          "gloss": "the LORD",
+          "note": "ה': the Tetragrammaton as written, here the LORD."
+        },
+        {
+          "id": "2:32.228",
+          "gloss": "in his heart"
+        },
+        {
+          "id": "2:32.229",
+          "gloss": "and it"
+        },
+        {
+          "id": "2:32.230",
+          "gloss": "is correctly tasted"
+        },
+        {
+          "id": "2:32.231",
+          "gloss": "rightly"
+        },
+        {
+          "id": "2:32.232",
+          "gloss": "without"
+        },
+        {
+          "id": "2:32.233",
+          "gloss": "strain"
+        },
+        {
+          "id": "2:32.234",
+          "gloss": "he should not"
+        },
+        {
+          "id": "2:32.235",
+          "gloss": "cast it"
+        },
+        {
+          "id": "2:32.236",
+          "gloss": "behind"
+        },
+        {
+          "id": "2:32.237",
+          "gloss": "his back",
+          "note": "גיוו: literally 'his back' or 'his inner part'. 'Behind his back' is the idiom for ignoring something. See apparatus."
+        },
+        {
+          "id": "2:32.238",
+          "gloss": "but rather"
+        },
+        {
+          "id": "2:32.239",
+          "gloss": "let him write it"
+        },
+        {
+          "id": "2:32.240",
+          "gloss": "for memory"
+        },
+        {
+          "id": "2:32.241",
+          "gloss": "and let it be"
+        },
+        {
+          "id": "2:32.242",
+          "gloss": "in his eyes"
+        },
+        {
+          "id": "2:32.243",
+          "gloss": "as one who finds",
+          "note": "במוצא: 'as one who finds'. Allusion to Ps 119:162 (apparatus)."
+        },
+        {
+          "id": "2:32.244",
+          "gloss": "spoil"
+        },
+        {
+          "id": "2:32.245",
+          "gloss": "great"
+        },
+        {
+          "id": "2:32.246",
+          "gloss": "for"
+        },
+        {
+          "id": "2:32.247",
+          "gloss": "it"
+        },
+        {
+          "id": "2:32.248",
+          "gloss": "is a sign"
+        },
+        {
+          "id": "2:32.249",
+          "gloss": "for his soul"
+        },
+        {
+          "id": "2:32.250",
+          "gloss": "a portion"
+        },
+        {
+          "id": "2:32.251",
+          "gloss": "of God",
+          "note": "אלוה: 'God' (singular). Allusion to Job 31:2 (apparatus)."
+        },
+        {
+          "id": "2:32.252",
+          "gloss": "from on high"
+        },
+        {
+          "id": "2:32.253",
+          "gloss": "which has"
+        },
+        {
+          "id": "2:32.254",
+          "gloss": "to it"
+        },
+        {
+          "id": "2:32.255",
+          "gloss": "nourishment"
+        },
+        {
+          "id": "2:32.256",
+          "gloss": "and access"
+        },
+        {
+          "id": "2:32.257",
+          "gloss": "in a place"
+        },
+        {
+          "id": "2:32.258",
+          "gloss": "high"
+        },
+        {
+          "id": "2:32.259",
+          "gloss": "and a holy one"
+        },
+        {
+          "id": "2:32.260",
+          "gloss": "will say"
+        },
+        {
+          "id": "2:32.261",
+          "gloss": "to him"
+        },
+        {
+          "id": "2:32.262",
+          "gloss": "and now"
+        },
+        {
+          "id": "2:32.263",
+          "gloss": "behold"
+        },
+        {
+          "id": "2:32.264",
+          "gloss": "I have revealed"
+        },
+        {
+          "id": "2:32.265",
+          "gloss": "to you"
+        },
+        {
+          "id": "2:32.266",
+          "gloss": "the secrets of"
+        },
+        {
+          "id": "2:32.267",
+          "gloss": "my heart"
+        },
+        {
+          "id": "2:32.268",
+          "gloss": "and you"
+        },
+        {
+          "id": "2:32.269",
+          "gloss": "the king"
+        },
+        {
+          "id": "2:32.270",
+          "gloss": "in your reflection"
+        },
+        {
+          "id": "2:32.271",
+          "gloss": "and your knowledge"
+        },
+        {
+          "id": "2:32.272",
+          "gloss": "holy"
+        },
+        {
+          "id": "2:32.273",
+          "gloss": "and broad"
+        },
+        {
+          "id": "2:32.274",
+          "gloss": "tell me"
+        },
+        {
+          "id": "2:32.275",
+          "gloss": "please"
+        },
+        {
+          "id": "2:32.276",
+          "gloss": "(object marker)",
+          "note": "את: the object marker, with no English counterpart."
+        },
+        {
+          "id": "2:32.277",
+          "gloss": "your ways"
+        },
+        {
+          "id": "2:32.278",
+          "gloss": "and I will set aside"
+        },
+        {
+          "id": "2:32.279",
+          "gloss": "my opinion"
+        },
+        {
+          "id": "2:32.280",
+          "gloss": "before"
+        },
+        {
+          "id": "2:32.281",
+          "gloss": "your opinion"
+        },
+        {
+          "id": "2:32.282",
+          "gloss": "Yair"
+        },
+        {
+          "id": "2:32.283",
+          "gloss": "Chayyim"
+        },
+        {
+          "id": "2:32.284",
+          "gloss": "Bakhrakh",
+          "note": "בכרך: the surname is unvocalized in the text; the English is a transliteration and its vowels are a guess."
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "2:32.1",
+            "2:32.2",
+            "2:32.3",
+            "2:32.4",
+            "2:32.5",
+            "2:32.6",
+            "2:32.7",
+            "2:32.8"
+          ],
+          "english": "And behold, my beloved, like my brother of blessed memory, the ruler of the land of Israel, the Nimshal,",
+          "literal": "and-behold my-beloved like-my-brother of-blessed-memory the-ruler-of the-land-of Israel the-Nimshal"
+        },
+        {
+          "tokens": [
+            "2:32.9",
+            "2:32.10",
+            "2:32.11",
+            "2:32.12",
+            "2:32.13",
+            "2:32.14",
+            "2:32.15",
+            "2:32.16",
+            "2:32.17"
+          ],
+          "english": "for the going far toward the place of the Name in the grasp of the secret is",
+          "literal": "for the-going far toward the-place-of the-Name in-the-grasp-of the-secret is"
+        },
+        {
+          "tokens": [
+            "2:32.18",
+            "2:32.19",
+            "2:32.20",
+            "2:32.21"
+          ],
+          "english": "the shortness of the one who grasps and the depth of what is grasped,",
+          "literal": "the-shortness-of the-one-who-grasps and-the-depth-of what-is-grasped"
+        },
+        {
+          "tokens": [
+            "2:32.22",
+            "2:32.23",
+            "2:32.24",
+            "2:32.25",
+            "2:32.26",
+            "2:32.27",
+            "2:32.28",
+            "2:32.29"
+          ],
+          "english": "and the multitude of propositions, which are preventing causes in every grasp of wisdom,",
+          "literal": "and-the-multitude-of the-propositions which-are causes preventing in-every grasp-of wisdom"
+        },
+        {
+          "tokens": [
+            "2:32.30",
+            "2:32.31",
+            "2:32.32",
+            "2:32.33",
+            "2:32.34"
+          ],
+          "english": "and especially in the wisdom of Kabbalah, in several respects,",
+          "literal": "and-especially in-the-wisdom-of Kabbalah in-several respects"
+        },
+        {
+          "tokens": [
+            "2:32.35",
+            "2:32.36",
+            "2:32.37",
+            "2:32.38",
+            "2:32.39",
+            "2:32.40",
+            "2:32.41",
+            "2:32.42",
+            "2:32.43",
+            "2:32.44"
+          ],
+          "english": "and over all of them is the sin, which obstructs and separates between the intellect and the intelligible, etc.,",
+          "literal": "and-over all-of-them the-sin which-is obstructing and-separating between the-intellect and-the-intelligible etc."
+        },
+        {
+          "tokens": [
+            "2:32.45",
+            "2:32.46",
+            "2:32.47",
+            "2:32.48",
+            "2:32.49",
+            "2:32.50",
+            "2:32.51",
+            "2:32.52",
+            "2:32.53",
+            "2:32.54",
+            "2:32.55",
+            "2:32.56",
+            "2:32.57",
+            "2:32.58",
+            "2:32.59",
+            "2:32.60",
+            "2:32.61",
+            "2:32.62",
+            "2:32.63",
+            "2:32.64",
+            "2:32.65",
+            "2:32.66",
+            "2:32.67"
+          ],
+          "english": "and indeed, even though the author of Pardes Rimonim, because of the greatness of his holiness and his piety, is very careful in many places, and warns greatly against a strange thought that is of division, and limit, and dominion of similitudes, etc.,",
+          "literal": "and-indeed even though the-author-of Pardes Rimonim because-of-the-greatness-of his-holiness and-his-piety is-careful very in-many places and-warns greatly against a-thought strange that-is-of-division and-limit and-dominion of-similitudes etc."
+        },
+        {
+          "tokens": [
+            "2:32.68",
+            "2:32.69",
+            "2:32.70",
+            "2:32.71",
+            "2:32.72",
+            "2:32.73",
+            "2:32.74",
+            "2:32.75",
+            "2:32.76"
+          ],
+          "english": "we too shall say: would that a spirit from on high be poured out upon us,",
+          "literal": "and-even we shall-say who will-give and-be-poured-out upon-us a-spirit from-on-high"
+        },
+        {
+          "tokens": [
+            "2:32.77",
+            "2:32.78",
+            "2:32.79",
+            "2:32.80",
+            "2:32.81",
+            "2:32.82",
+            "2:32.83",
+            "2:32.84",
+            "2:32.85",
+            "2:32.86"
+          ],
+          "english": "that we might grasp and understand the matters without inclining from the truth and from the roots of the religion, etc.",
+          "literal": "that-we-might-grasp and-understand the-matters without inclining from the-truth and-from-the-roots-of the-religion etc."
+        },
+        {
+          "tokens": [
+            "2:32.87",
+            "2:32.88",
+            "2:32.89",
+            "2:32.90",
+            "2:32.91",
+            "2:32.92",
+            "2:32.93"
+          ],
+          "english": "And by these, take this rule in your hand: all things",
+          "literal": "and-by-these take this rule in-your-hand all things"
+        },
+        {
+          "tokens": [
+            "2:32.94",
+            "2:32.95",
+            "2:32.96",
+            "2:32.97",
+            "2:32.98",
+            "2:32.99",
+            "2:32.100",
+            "2:32.101",
+            "2:32.102"
+          ],
+          "english": "that are forbidden in the books of the Kabbalists, which they mention without dispute on the matter and without inquiry,",
+          "literal": "that-are-forbidden in-the-books-of the-Kabbalists which-they-mention without dispute on-the-matter and-without inquiry"
+        },
+        {
+          "tokens": [
+            "2:32.103",
+            "2:32.104",
+            "2:32.105",
+            "2:32.106",
+            "2:32.107",
+            "2:32.108"
+          ],
+          "english": "and their plain sense will be understood, and the joining of the things:",
+          "literal": "will-be-understood their-plain-sense of the-things and-the-joining-of the-things"
+        },
+        {
+          "tokens": [
+            "2:32.109",
+            "2:32.110",
+            "2:32.111",
+            "2:32.112",
+            "2:32.113",
+            "2:32.114",
+            "2:32.115",
+            "2:32.116"
+          ],
+          "english": "bind them on a white tablet, and let them be frontlets between your eyes.",
+          "literal": "bind-them on a-tablet white and-let-them-be frontlets between your-eyes"
+        },
+        {
+          "tokens": [
+            "2:32.117",
+            "2:32.118",
+            "2:32.119",
+            "2:32.120",
+            "2:32.121",
+            "2:32.122",
+            "2:32.123",
+            "2:32.124",
+            "2:32.125",
+            "2:32.126",
+            "2:32.127",
+            "2:32.128",
+            "2:32.129",
+            "2:32.130",
+            "2:32.131",
+            "2:32.132",
+            "2:32.133",
+            "2:32.134"
+          ],
+          "english": "And even when things are read before you that appear astonishing in themselves, or from the side that it seems, God forbid, that there is division, number, corporeality and change,",
+          "literal": "and-even when are-read before-you things that-appear astonishing from-the-side-of themselves or from-the-side-of that-it-seems God-forbid that-there-is division and-number and-corporeality and-change"
+        },
+        {
+          "tokens": [
+            "2:32.135",
+            "2:32.136",
+            "2:32.137",
+            "2:32.138",
+            "2:32.139"
+          ],
+          "english": "you shall accept them in the faith of an artisan, and say in your heart",
+          "literal": "you-shall-accept-them in-the-faith-of an-artisan and-say in-your-heart"
+        },
+        {
+          "tokens": [
+            "2:32.140",
+            "2:32.141",
+            "2:32.142",
+            "2:32.143",
+            "2:32.144",
+            "2:32.145",
+            "2:32.146",
+            "2:32.147"
+          ],
+          "english": "that your mind is short, and your knowledge in the depth of understanding, without your doubting,",
+          "literal": "that is-short your-mind and-your-knowledge in-the-depth-of understanding without your-doubting"
+        },
+        {
+          "tokens": [
+            "2:32.148",
+            "2:32.149",
+            "2:32.150",
+            "2:32.151",
+            "2:32.152",
+            "2:32.153",
+            "2:32.154",
+            "2:32.155"
+          ],
+          "english": "God forbid, one of the roots of the religion that are stated in Yigdal and in several places,",
+          "literal": "God-forbid one-of the-roots-of the-religion that-are-stated in-Yigdal and-in-several places"
+        },
+        {
+          "tokens": [
+            "2:32.156",
+            "2:32.157",
+            "2:32.158",
+            "2:32.159",
+            "2:32.160",
+            "2:32.161",
+            "2:32.162",
+            "2:32.163",
+            "2:32.164",
+            "2:32.165",
+            "2:32.166",
+            "2:32.167"
+          ],
+          "english": "for even those fundamental ones, it is not possible to descend to their roots by human reason, etc.",
+          "literal": "for even those the-fundamental-ones it-is-not possible to-descend to-their-roots from-the-side-of reason human etc."
+        },
+        {
+          "tokens": [
+            "2:32.168",
+            "2:32.169",
+            "2:32.170",
+            "2:32.171",
+            "2:32.172",
+            "2:32.173",
+            "2:32.174"
+          ],
+          "english": "And now go and learn that it is forbidden to innovate and to understand a matter",
+          "literal": "and-now go and-learn that-it-is-forbidden to-innovate and-to-understand a-matter"
+        },
+        {
+          "tokens": [
+            "2:32.175",
+            "2:32.176",
+            "2:32.177",
+            "2:32.178",
+            "2:32.179",
+            "2:32.180",
+            "2:32.181",
+            "2:32.182"
+          ],
+          "english": "from what is written in the book, lest he not aim at the truth,",
+          "literal": "from-within what-is-written in-the-book lest not aim at the-truth"
+        },
+        {
+          "tokens": [
+            "2:32.183",
+            "2:32.184",
+            "2:32.185",
+            "2:32.186",
+            "2:32.187",
+            "2:32.188",
+            "2:32.189",
+            "2:32.190"
+          ],
+          "english": "however, to explain verses according to what the Kabbalists said,",
+          "literal": "however to-explain verses by the-mouth-of what they-said the-Kabbalists"
+        },
+        {
+          "tokens": [
+            "2:32.191",
+            "2:32.192",
+            "2:32.193",
+            "2:32.194",
+            "2:32.195",
+            "2:32.196",
+            "2:32.197"
+          ],
+          "english": "that the premise is agreed; only that on this he explains the verse,",
+          "literal": "that-the-premise is-agreed only that-on this he-explains the-verse"
+        },
+        {
+          "tokens": [
+            "2:32.198",
+            "2:32.199",
+            "2:32.200",
+            "2:32.201",
+            "2:32.202",
+            "2:32.203",
+            "2:32.204",
+            "2:32.205",
+            "2:32.206",
+            "2:32.207",
+            "2:32.208"
+          ],
+          "english": "or says that there is an allusion in it, by means of gematria, or the initial and final letters of words.",
+          "literal": "or says that-there-is-an-allusion in-it by means-of gematria or the-initials-of and-the-finals-of words"
+        },
+        {
+          "tokens": [
+            "2:32.209",
+            "2:32.210",
+            "2:32.211",
+            "2:32.212",
+            "2:32.213",
+            "2:32.214",
+            "2:32.215",
+            "2:32.216",
+            "2:32.217",
+            "2:32.218",
+            "2:32.219"
+          ],
+          "english": "It is good and fine that he only say it as a possibility, without deciding the matter, etc.,",
+          "literal": "it-is-good and-fine it-is that-only he-say-it as-a-way a-possibility without deciding the-matter etc."
+        },
+        {
+          "tokens": [
+            "2:32.220",
+            "2:32.221",
+            "2:32.222",
+            "2:32.223",
+            "2:32.224"
+          ],
+          "english": "only let him not waste his time on them,",
+          "literal": "only not let-him-waste his-time on-them"
+        },
+        {
+          "tokens": [
+            "2:32.225",
+            "2:32.226",
+            "2:32.227",
+            "2:32.228",
+            "2:32.229",
+            "2:32.230",
+            "2:32.231",
+            "2:32.232",
+            "2:32.233"
+          ],
+          "english": "and whatever the LORD has put in his heart, and it is correctly tasted without strain,",
+          "literal": "and-whatever has-put the-LORD in-his-heart and-it is-correctly-tasted rightly without strain"
+        },
+        {
+          "tokens": [
+            "2:32.234",
+            "2:32.235",
+            "2:32.236",
+            "2:32.237"
+          ],
+          "english": "he should not cast it behind his back,",
+          "literal": "he-should-not cast-it behind his-back"
+        },
+        {
+          "tokens": [
+            "2:32.238",
+            "2:32.239",
+            "2:32.240",
+            "2:32.241",
+            "2:32.242",
+            "2:32.243",
+            "2:32.244",
+            "2:32.245"
+          ],
+          "english": "but rather let him write it down for memory, and let it be in his eyes as one who finds great spoil,",
+          "literal": "but-rather let-him-write-it for-memory and-let-it-be in-his-eyes as-one-who-finds spoil great"
+        },
+        {
+          "tokens": [
+            "2:32.246",
+            "2:32.247",
+            "2:32.248",
+            "2:32.249",
+            "2:32.250",
+            "2:32.251",
+            "2:32.252",
+            "2:32.253",
+            "2:32.254",
+            "2:32.255",
+            "2:32.256",
+            "2:32.257",
+            "2:32.258"
+          ],
+          "english": "for it is a sign for his soul, a portion of God from on high, which has nourishment and access in a high place,",
+          "literal": "for it is-a-sign for-his-soul a-portion of-God from-on-high which-has to-it nourishment and-access in-a-place high"
+        },
+        {
+          "tokens": [
+            "2:32.259",
+            "2:32.260",
+            "2:32.261",
+            "2:32.262",
+            "2:32.263",
+            "2:32.264",
+            "2:32.265"
+          ],
+          "english": "and a holy one will say to him: and now, behold, I have revealed to you",
+          "literal": "and-a-holy-one will-say to-him and-now behold I-have-revealed to-you"
+        },
+        {
+          "tokens": [
+            "2:32.266",
+            "2:32.267"
+          ],
+          "english": "the secrets of my heart.",
+          "literal": "the-secrets-of my-heart"
+        },
+        {
+          "tokens": [
+            "2:32.268",
+            "2:32.269",
+            "2:32.270",
+            "2:32.271",
+            "2:32.272",
+            "2:32.273",
+            "2:32.274",
+            "2:32.275",
+            "2:32.276",
+            "2:32.277"
+          ],
+          "english": "And you, the king, in your reflection and your knowledge, holy and broad, tell me, please, your ways,",
+          "literal": "and-you the-king in-your-reflection and-your-knowledge holy and-broad tell-me please (object-marker) your-ways"
+        },
+        {
+          "tokens": [
+            "2:32.278",
+            "2:32.279",
+            "2:32.280",
+            "2:32.281"
+          ],
+          "english": "and I will set aside my opinion before your opinion.",
+          "literal": "and-I-will-set-aside my-opinion before your-opinion"
+        },
+        {
+          "tokens": [
+            "2:32.282",
+            "2:32.283",
+            "2:32.284"
+          ],
+          "english": "Yair Chayyim Bakhrakh.",
+          "literal": "Yair Chayyim Bakhrakh"
+        }
+      ],
+      "grammar": [
+        "One long period runs from the opening to 'etc.' (2:32.44). Its subject is 'the going far toward the place of the Name in the grasp of the secret'; its predicate is 'is the shortness of the one who grasps and the depth of what is grasped'. The list that follows (the propositions, the sin) hangs on the same clause.",
+        "'Even when' (2:32.117-118, ואף כי) and 'even though' (2:32.46-47, והנה אף כי) open concessive clauses. The main clause of the first is at 2:32.135-139, and of the second at 2:32.68-70 'we too shall say'. The English keeps the Hebrew's order, and has no full stop where the Hebrew has none (2:32.44, 2:32.67).",
+        "'Would that' is the optative 'who will give' (2:32.71-72). 'And be poured out' (2:32.73) is the wish, and 'that we might grasp' (2:32.77) is its purpose clause, with the verb in the form שנשכיל.",
+        "Imperatives and jussives: 'take' (2:32.88), 'go and learn' (2:32.169-170), 'let them be' (2:32.113), 'let him write it' (2:32.239). 'He should not cast' (2:32.234-235) is a negative command with אל.",
+        "Passive forms, each rendered passive: 'will be understood' (2:32.103), 'are read' (2:32.119), 'is correctly tasted' (2:32.230), 'what is written' (2:32.176), 'is agreed' (2:32.192)."
+      ],
+      "note": "Single prose paragraph in the writer's own voice, addressed to a correspondent ('my beloved'; 'you, the king'). The English follows the Hebrew's order. Where the Hebrew has no full stop (2:32.44, 2:32.67), the English has none. Three choices bear on the words and are recorded in apparatus or readings: ממשל (2:32.5, 'ruler' or the parable), גיוו (2:32.237, 'back' or 'inner part'), and the signature surname (2:32.284), which is unvocalized in the text.",
+      "commentary": [],
+      "apparatus": [
+        "Base text: Wikisource. The 1931 scan is not yet collated, and Wikisource additions are translated as base text and flagged here (Q2).",
+        "'ויערה עלינו רוח ממרום' (2:32.73-76): allusion to Isa 32:15, 'until a spirit be poured out upon us from on high'.",
+        "'לטטפות בין עיניך' (2:32.114-116): allusion to Deut 6:8, 'and they shall be frontlets between your eyes'.",
+        "'קשרם על לוח לבן' (2:32.109-112): allusion to Prov 3:3, which reads 'the tablet of your heart' (לוח לבך). The author writes לבן, 'white', and the English follows his wording.",
+        "'כמוצא שלל רב' (2:32.243-245): allusion to Ps 119:162, 'as one who finds great spoil'.",
+        "'חלק אלוה ממעל' (2:32.250-252): allusion to Job 31:2, 'a portion of God from on high'.",
+        "'ממשל' (2:32.5): read here as 'ruler'. The alternative, 'mashal' (parable), gives 'the parable of the land of Israel, the referent'; it is in readings and is not adopted.",
+        "'גיוו' (2:32.237): 'back' or 'inner part'. The English takes the idiom 'behind his back', to ignore; the literal sense is in the token note.",
+        "'הפ'' (2:32.197): read as 'the verse' by the rule for ס' before a verse. The author does not name the verse.",
+        "Signature (2:32.282-284): the surname בכרך is unvocalized. 'Bakhrakh' is a guess at the vowels, not a fixed form. The first two names are as written."
+      ],
+      "context": [
+        "Pardes Rimonim (Pomegranate Orchard) is a Kabbalistic book. The paragraph refers to its author without naming him."
+      ],
+      "readings": [
+        {
+          "tokens": [
+            "2:32.5",
+            "2:32.6",
+            "2:32.7",
+            "2:32.8"
+          ],
+          "english": "the parable of the land of Israel, the referent",
+          "source": "alternative reading of the word",
+          "note": "mashal, parable; the nimshal is what the parable refers to. Not adopted in the English."
+        }
+      ]
+    }
+  ]
+}
