@@ -652,6 +652,17 @@ senses are allowed, chosen by the use.
   stays an initial with a note, as with R. A. and ר"י חיים ("Rabbi Y. Chayyim").
 - דרך ארץ: "worldly occupation", as in the project's Avot.
 - Mishnah/Talmud references the author lacks are not added to `apparatus`.
+- הינ"ץ: keep "H.N.Ts." with a token note giving the conjecture (ה + ינ"ץ, "may
+  his Rock protect him", of the Imam); no person is named in the English.
+- ב"ע: "in Aramaic" (בארמית) where it is set against בערבי; the other readings in
+  `readings`.
+- A fragment after a Hebrew full stop (ושהם, והפטרה, ולדעת, ורבינו): supply a main
+  clause when it continues the verb of the sentence before; join with a comma
+  when it continues a list; say which in a token note.
+- גיזומיו: by context, "exaggerations" if the sentence is about claims, else
+  "trimmings"; the other in a token note.
+- Names of works: "Guide for the Perplexed" is rendered as the Moreh
+  Nevukhim; ממלכי as "of the kings of".
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
