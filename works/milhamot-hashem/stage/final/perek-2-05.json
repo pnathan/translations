@@ -1,0 +1,2506 @@
+{
+ "unit": "perek-2-05",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "2:10",
+   "english": "In the Yerushalmi, Shabbat, chapter Bemah Ishah, our Sages of blessed memory said: \"'And the appearance of the fourth is like a son of the gods.' Rabbi Reuven said: At that hour an angel came down and slapped that wicked one on his mouth, and said to him: 'Is your word right, and is there a son for him?' He returned and said: 'Blessed be the God of Shadrach, Meishach and Abed-nego, who sent His angel and saved His servants.' 'His son' is not written here, but 'His angel.' Thus far.\" That is to say, Nebuchadnezzar the wicked thought that the angels are effects, descending in a chain of descent from him by nature, like a son from the father, according to the words of the Kabbalists concerning the sefirot of all the worlds, and likewise the souls; and for this the angel slapped him. And he returned and said: 'who sent His angel, etc.' Here you have it explicit, coming out of the words of Midrash Rabbah and the Yerushalmi, contrary to the words of the Kabbalists. And all that exists, the Holy One, blessed be He, brought into being in His kindness, something from nothing, from the first form down to a small gnat; and not that they are drawn from His essence, as the son comes into being by the power of the seed drawn from his father.",
+   "literal": "in the Yerushalmi Shabbat chapter Bemah Ishah said our Sages of blessed memory the appearance of the fourth is like a son of gods said Rabbi Reuven in that hour came down an angel and slapped that wicked one on his mouth and said to him right his word and a son is there for him he returned and said Blessed their God of Shadrach Meishach and Abed Nego who sent his angel and saved his servants his son not written here but his angel thus far that is to say that Nebuchadnezzar the wicked thought that the angels they are effects and descend in a chain of descent from him by nature like a son from the father according to the words of the Kabbalists concerning the sefirot of all the worlds and likewise the souls and for this slapped him the angel and returned and said who sent his angel etc. here for you explicit comes out from the words of Midrash Rabbah and the Yerushalmi contrary to the words of the Kabbalists and all what exists brought into being the Holy One, blessed be He in His kindness something from nothing from the form first down to a gnat small and not that they are drawn from His essence as that the son comes into being by the power of the seed drawn from his father",
+   "tokens": [
+    {
+     "id": "2:10.1",
+     "gloss": "in the Yerushalmi"
+    },
+    {
+     "id": "2:10.2",
+     "gloss": "Shabbat"
+    },
+    {
+     "id": "2:10.3",
+     "gloss": "chapter",
+     "note": "פ' = פרק: chapter."
+    },
+    {
+     "id": "2:10.4",
+     "gloss": "Bemah"
+    },
+    {
+     "id": "2:10.5",
+     "gloss": "Ishah"
+    },
+    {
+     "id": "2:10.6",
+     "gloss": "said"
+    },
+    {
+     "id": "2:10.7",
+     "gloss": "our Sages of blessed memory",
+     "note": "Hazal: 'our Sages of blessed memory'. The Yerushalmi passage that follows is quoted (Shabbat, chapter Bemah Ishah), up to 2:10.53."
+    },
+    {
+     "id": "2:10.8",
+     "gloss": "the appearance",
+     "note": "Aramaic: the appearance of the fourth figure in Dan 3:25 (וריויה, 'and the appearance')."
+    },
+    {
+     "id": "2:10.9",
+     "gloss": "of"
+    },
+    {
+     "id": "2:10.10",
+     "gloss": "the fourth"
+    },
+    {
+     "id": "2:10.11",
+     "gloss": "is like"
+    },
+    {
+     "id": "2:10.12",
+     "gloss": "a son"
+    },
+    {
+     "id": "2:10.13",
+     "gloss": "of gods",
+     "note": "Aramaic bar elahin: 'son of the gods' (Dan 3:25)."
+    },
+    {
+     "id": "2:10.14",
+     "gloss": "said"
+    },
+    {
+     "id": "2:10.15",
+     "gloss": "Rabbi",
+     "note": "ר' = Rabbi."
+    },
+    {
+     "id": "2:10.16",
+     "gloss": "Reuven"
+    },
+    {
+     "id": "2:10.17",
+     "gloss": "in that"
+    },
+    {
+     "id": "2:10.18",
+     "gloss": "hour"
+    },
+    {
+     "id": "2:10.19",
+     "gloss": "came down"
+    },
+    {
+     "id": "2:10.20",
+     "gloss": "an angel"
+    },
+    {
+     "id": "2:10.21",
+     "gloss": "and slapped",
+     "note": "סטר: to slap."
+    },
+    {
+     "id": "2:10.22",
+     "gloss": "that"
+    },
+    {
+     "id": "2:10.23",
+     "gloss": "wicked one",
+     "note": "רשיעא: the wicked one, Nebuchadnezzar, named at 2:10.55."
+    },
+    {
+     "id": "2:10.24",
+     "gloss": "on"
+    },
+    {
+     "id": "2:10.25",
+     "gloss": "his mouth"
+    },
+    {
+     "id": "2:10.26",
+     "gloss": "and said"
+    },
+    {
+     "id": "2:10.27",
+     "gloss": "to him"
+    },
+    {
+     "id": "2:10.28",
+     "gloss": "right",
+     "note": "תקין: right, correct (Aramaic)."
+    },
+    {
+     "id": "2:10.29",
+     "gloss": "his word"
+    },
+    {
+     "id": "2:10.30",
+     "gloss": "and a son"
+    },
+    {
+     "id": "2:10.31",
+     "gloss": "is there"
+    },
+    {
+     "id": "2:10.32",
+     "gloss": "for him"
+    },
+    {
+     "id": "2:10.33",
+     "gloss": "he returned"
+    },
+    {
+     "id": "2:10.34",
+     "gloss": "and said"
+    },
+    {
+     "id": "2:10.35",
+     "gloss": "Blessed",
+     "note": "The blessing is Dan 3:28 (Aramaic), in the Yerushalmi's wording."
+    },
+    {
+     "id": "2:10.36",
+     "gloss": "their God",
+     "note": "אלההון: Aramaic 'their God'. The suffix is redundant before 'די שדרך מישך ועביד נגו' ('of Shadrach, Meshach and Abed-nego'), so Dan 3:28 is read 'the God of Shadrach …'; the English does the same."
+    },
+    {
+     "id": "2:10.37",
+     "gloss": "of"
+    },
+    {
+     "id": "2:10.38",
+     "gloss": "Shadrach"
+    },
+    {
+     "id": "2:10.39",
+     "gloss": "Meishach"
+    },
+    {
+     "id": "2:10.40",
+     "gloss": "and Abed"
+    },
+    {
+     "id": "2:10.41",
+     "gloss": "Nego"
+    },
+    {
+     "id": "2:10.42",
+     "gloss": "who"
+    },
+    {
+     "id": "2:10.43",
+     "gloss": "sent"
+    },
+    {
+     "id": "2:10.44",
+     "gloss": "his angel"
+    },
+    {
+     "id": "2:10.45",
+     "gloss": "and saved"
+    },
+    {
+     "id": "2:10.46",
+     "gloss": "his servants"
+    },
+    {
+     "id": "2:10.47",
+     "gloss": "his son",
+     "note": "בריה: 'son'. The Yerushalmi says the verse writes 'angel' here, not 'son'."
+    },
+    {
+     "id": "2:10.48",
+     "gloss": "not"
+    },
+    {
+     "id": "2:10.49",
+     "gloss": "written"
+    },
+    {
+     "id": "2:10.50",
+     "gloss": "here"
+    },
+    {
+     "id": "2:10.51",
+     "gloss": "but"
+    },
+    {
+     "id": "2:10.52",
+     "gloss": "his angel"
+    },
+    {
+     "id": "2:10.53",
+     "gloss": "thus far",
+     "note": "ע\"כ: 'thus far', closing the Yerushalmi quotation."
+    },
+    {
+     "id": "2:10.54",
+     "gloss": "that is to say",
+     "note": "ור\"ל: 'that is to say' (רוצה לומר). From here the author speaks in his own voice."
+    },
+    {
+     "id": "2:10.55",
+     "gloss": "that Nebuchadnezzar",
+     "note": "Nebuchadnezzar, king of Babylon, of Dan 3."
+    },
+    {
+     "id": "2:10.56",
+     "gloss": "the wicked"
+    },
+    {
+     "id": "2:10.57",
+     "gloss": "thought"
+    },
+    {
+     "id": "2:10.58",
+     "gloss": "that the angels"
+    },
+    {
+     "id": "2:10.59",
+     "gloss": "they"
+    },
+    {
+     "id": "2:10.60",
+     "gloss": "are effects",
+     "note": "עלולים: effects, the things caused (עלה / עלול, cause and effect)."
+    },
+    {
+     "id": "2:10.61",
+     "gloss": "and descend in a chain of descent",
+     "note": "משתלשלים: descend in a chain, from השתלשלות: the chain of descent."
+    },
+    {
+     "id": "2:10.62",
+     "gloss": "from him"
+    },
+    {
+     "id": "2:10.63",
+     "gloss": "by nature"
+    },
+    {
+     "id": "2:10.64",
+     "gloss": "like a son"
+    },
+    {
+     "id": "2:10.65",
+     "gloss": "from"
+    },
+    {
+     "id": "2:10.66",
+     "gloss": "the father"
+    },
+    {
+     "id": "2:10.67",
+     "gloss": "according to the words of"
+    },
+    {
+     "id": "2:10.68",
+     "gloss": "the Kabbalists",
+     "note": "המקובלים: the Kabbalists (the author's term)."
+    },
+    {
+     "id": "2:10.69",
+     "gloss": "concerning the sefirot",
+     "note": "ספירות: sefirot."
+    },
+    {
+     "id": "2:10.70",
+     "gloss": "of"
+    },
+    {
+     "id": "2:10.71",
+     "gloss": "all"
+    },
+    {
+     "id": "2:10.72",
+     "gloss": "the worlds"
+    },
+    {
+     "id": "2:10.73",
+     "gloss": "and likewise"
+    },
+    {
+     "id": "2:10.74",
+     "gloss": "the souls"
+    },
+    {
+     "id": "2:10.75",
+     "gloss": "and for this"
+    },
+    {
+     "id": "2:10.76",
+     "gloss": "slapped him"
+    },
+    {
+     "id": "2:10.77",
+     "gloss": "the angel"
+    },
+    {
+     "id": "2:10.78",
+     "gloss": "and returned"
+    },
+    {
+     "id": "2:10.79",
+     "gloss": "and said"
+    },
+    {
+     "id": "2:10.80",
+     "gloss": "who"
+    },
+    {
+     "id": "2:10.81",
+     "gloss": "sent"
+    },
+    {
+     "id": "2:10.82",
+     "gloss": "his angel"
+    },
+    {
+     "id": "2:10.83",
+     "gloss": "etc.",
+     "note": "וכו': 'etc.'. The quotation is cut short."
+    },
+    {
+     "id": "2:10.84",
+     "gloss": "here"
+    },
+    {
+     "id": "2:10.85",
+     "gloss": "for you"
+    },
+    {
+     "id": "2:10.86",
+     "gloss": "explicit"
+    },
+    {
+     "id": "2:10.87",
+     "gloss": "comes out"
+    },
+    {
+     "id": "2:10.88",
+     "gloss": "from the words of"
+    },
+    {
+     "id": "2:10.89",
+     "gloss": "Midrash"
+    },
+    {
+     "id": "2:10.90",
+     "gloss": "Rabbah"
+    },
+    {
+     "id": "2:10.91",
+     "gloss": "and the Yerushalmi"
+    },
+    {
+     "id": "2:10.92",
+     "gloss": "contrary to"
+    },
+    {
+     "id": "2:10.93",
+     "gloss": "the words of"
+    },
+    {
+     "id": "2:10.94",
+     "gloss": "the Kabbalists"
+    },
+    {
+     "id": "2:10.95",
+     "gloss": "and all",
+     "note": "ושכל: the ש is 'that'. It continues the previous sentence ('here you have it explicit … and that all that exists …'); the English starts a new sentence because the Hebrew has a full stop. PROPOSED RULING: keep the full stop and the main clause; the note records that the ש is a complementizer ('and that all')."
+    },
+    {
+     "id": "2:10.96",
+     "gloss": "what exists"
+    },
+    {
+     "id": "2:10.97",
+     "gloss": "brought into being"
+    },
+    {
+     "id": "2:10.98",
+     "gloss": "the Holy One, blessed be He"
+    },
+    {
+     "id": "2:10.99",
+     "gloss": "in His kindness"
+    },
+    {
+     "id": "2:10.100",
+     "gloss": "something",
+     "note": "יש מאין: 'something from nothing' (creation ex nihilo). The phrase is translated, not transliterated (decisions, wave 1: יש מאין / יש מיש)."
+    },
+    {
+     "id": "2:10.101",
+     "gloss": "from nothing"
+    },
+    {
+     "id": "2:10.102",
+     "gloss": "from the form"
+    },
+    {
+     "id": "2:10.103",
+     "gloss": "first"
+    },
+    {
+     "id": "2:10.104",
+     "gloss": "down to"
+    },
+    {
+     "id": "2:10.105",
+     "gloss": "a gnat"
+    },
+    {
+     "id": "2:10.106",
+     "gloss": "small"
+    },
+    {
+     "id": "2:10.107",
+     "gloss": "and not"
+    },
+    {
+     "id": "2:10.108",
+     "gloss": "that they"
+    },
+    {
+     "id": "2:10.109",
+     "gloss": "are drawn"
+    },
+    {
+     "id": "2:10.110",
+     "gloss": "from His essence"
+    },
+    {
+     "id": "2:10.111",
+     "gloss": "as"
+    },
+    {
+     "id": "2:10.112",
+     "gloss": "that the son"
+    },
+    {
+     "id": "2:10.113",
+     "gloss": "comes into being"
+    },
+    {
+     "id": "2:10.114",
+     "gloss": "by the power of"
+    },
+    {
+     "id": "2:10.115",
+     "gloss": "the seed"
+    },
+    {
+     "id": "2:10.116",
+     "gloss": "drawn"
+    },
+    {
+     "id": "2:10.117",
+     "gloss": "from his father"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:10.1",
+      "2:10.2",
+      "2:10.3",
+      "2:10.4",
+      "2:10.5",
+      "2:10.6",
+      "2:10.7"
+     ],
+     "english": "In the Yerushalmi, Shabbat, chapter Bemah Ishah, our Sages of blessed memory said:",
+     "literal": "in the Yerushalmi Shabbat chapter Bemah Ishah said our Sages of blessed memory"
+    },
+    {
+     "tokens": [
+      "2:10.8",
+      "2:10.9",
+      "2:10.10",
+      "2:10.11",
+      "2:10.12",
+      "2:10.13"
+     ],
+     "english": "\"'And the appearance of the fourth is like a son of the gods.'",
+     "literal": "the appearance of the fourth is like a son of gods"
+    },
+    {
+     "tokens": [
+      "2:10.14",
+      "2:10.15",
+      "2:10.16",
+      "2:10.17",
+      "2:10.18",
+      "2:10.19",
+      "2:10.20",
+      "2:10.21",
+      "2:10.22",
+      "2:10.23",
+      "2:10.24",
+      "2:10.25"
+     ],
+     "english": "Rabbi Reuven said: At that hour an angel came down and slapped that wicked one on his mouth,",
+     "literal": "said Rabbi Reuven in that hour came down an angel and slapped that wicked one on his mouth"
+    },
+    {
+     "tokens": [
+      "2:10.26",
+      "2:10.27",
+      "2:10.28",
+      "2:10.29",
+      "2:10.30",
+      "2:10.31",
+      "2:10.32"
+     ],
+     "english": "and said to him: 'Is your word right, and is there a son for him?'",
+     "literal": "and said to him right his word and a son is there for him"
+    },
+    {
+     "tokens": [
+      "2:10.33",
+      "2:10.34"
+     ],
+     "english": "He returned and said:",
+     "literal": "he returned and said"
+    },
+    {
+     "tokens": [
+      "2:10.35",
+      "2:10.36",
+      "2:10.37",
+      "2:10.38",
+      "2:10.39",
+      "2:10.40",
+      "2:10.41",
+      "2:10.42",
+      "2:10.43",
+      "2:10.44",
+      "2:10.45",
+      "2:10.46"
+     ],
+     "english": "'Blessed be the God of Shadrach, Meishach and Abed-nego, who sent His angel and saved His servants.'",
+     "literal": "Blessed their God of Shadrach Meishach and Abed Nego who sent his angel and saved his servants"
+    },
+    {
+     "tokens": [
+      "2:10.47",
+      "2:10.48",
+      "2:10.49",
+      "2:10.50",
+      "2:10.51",
+      "2:10.52",
+      "2:10.53"
+     ],
+     "english": "'His son' is not written here, but 'His angel.' Thus far.\"",
+     "literal": "his son not written here but his angel thus far"
+    },
+    {
+     "tokens": [
+      "2:10.54",
+      "2:10.55",
+      "2:10.56",
+      "2:10.57",
+      "2:10.58",
+      "2:10.59",
+      "2:10.60",
+      "2:10.61",
+      "2:10.62",
+      "2:10.63",
+      "2:10.64",
+      "2:10.65",
+      "2:10.66",
+      "2:10.67",
+      "2:10.68",
+      "2:10.69",
+      "2:10.70",
+      "2:10.71",
+      "2:10.72",
+      "2:10.73",
+      "2:10.74",
+      "2:10.75",
+      "2:10.76",
+      "2:10.77"
+     ],
+     "english": "That is to say, Nebuchadnezzar the wicked thought that the angels are effects, descending in a chain of descent from him by nature, like a son from the father, according to the words of the Kabbalists concerning the sefirot of all the worlds, and likewise the souls; and for this the angel slapped him.",
+     "literal": "that is to say that Nebuchadnezzar the wicked thought that the angels they are effects and descend in a chain of descent from him by nature like a son from the father according to the words of the Kabbalists concerning the sefirot of all the worlds and likewise the souls and for this slapped him the angel"
+    },
+    {
+     "tokens": [
+      "2:10.78",
+      "2:10.79",
+      "2:10.80",
+      "2:10.81",
+      "2:10.82",
+      "2:10.83"
+     ],
+     "english": "And he returned and said: 'who sent His angel, etc.'",
+     "literal": "and returned and said who sent his angel etc."
+    },
+    {
+     "tokens": [
+      "2:10.84",
+      "2:10.85",
+      "2:10.86",
+      "2:10.87",
+      "2:10.88",
+      "2:10.89",
+      "2:10.90",
+      "2:10.91",
+      "2:10.92",
+      "2:10.93",
+      "2:10.94"
+     ],
+     "english": "Here you have it explicit, coming out of the words of Midrash Rabbah and the Yerushalmi, contrary to the words of the Kabbalists.",
+     "literal": "here for you explicit comes out from the words of Midrash Rabbah and the Yerushalmi contrary to the words of the Kabbalists"
+    },
+    {
+     "tokens": [
+      "2:10.95",
+      "2:10.96",
+      "2:10.97",
+      "2:10.98",
+      "2:10.99",
+      "2:10.100",
+      "2:10.101",
+      "2:10.102",
+      "2:10.103",
+      "2:10.104",
+      "2:10.105",
+      "2:10.106",
+      "2:10.107",
+      "2:10.108",
+      "2:10.109",
+      "2:10.110",
+      "2:10.111",
+      "2:10.112",
+      "2:10.113",
+      "2:10.114",
+      "2:10.115",
+      "2:10.116",
+      "2:10.117"
+     ],
+     "english": "And all that exists, the Holy One, blessed be He, brought into being in His kindness, something from nothing, from the first form down to a small gnat; and not that they are drawn from His essence, as the son comes into being by the power of the seed drawn from his father.",
+     "literal": "and all what exists brought into being the Holy One, blessed be He in His kindness something from nothing from the form first down to a gnat small and not that they are drawn from His essence as that the son comes into being by the power of the seed drawn from his father"
+    }
+   ],
+   "grammar": [
+    "The Yerushalmi is quoted as the author's source, and its Aramaic is translated as he gives it. Dan 3:25 and 3:28 are quoted inside it, in single quotation marks.",
+    "'ע\"כ' (2:10.53) closes the Yerushalmi quotation. From 2:10.54 the author argues in his own voice, and his argument turns on the words 'בר' (son) and 'מלאכיה' (his angel).",
+    "'ובר אית ליה?' is an Aramaic question, 'and is there a son for him?'. 'סטרו' (2:10.21, 2:10.76) is a verb of the angel's action, 'slapped him'.",
+    "'ולא שהם נמשכים' (2:10.107-109) is 'and not that they are drawn': the negative ולא rejects the Kabbalists' claim that the angels and all things are drawn from His essence like a son from the seed. 'ושכל' (2:10.95) opens with ש, 'that'."
+   ],
+   "note": "The Yerushalmi passage is the author's source. The argument of the paragraph is set by 2:10.54 onward, where the author draws his conclusion from it against the Kabbalists.",
+   "commentary": [],
+   "apparatus": [
+    "Dan 3:25 (Aramaic): the Yerushalmi's wording 'וריויה די רביעאה דמי לבר אלהין' is kept; 'son of the gods' is the verse's phrase.",
+    "Dan 3:28 (Aramaic): the blessing of the three men, with 'בריה' contrasted with 'מלאכיה' as the Yerushalmi gives them.",
+    "Yerushalmi: tractate and chapter as the author gives them (Shabbat, 'Bemah Ishah'); no folio or halakhah number is added.",
+    "Q2 (Wikisource additions): the base text is translated; no word is flagged until the 1931 scan is collated."
+   ],
+   "context": [
+    "Nebuchadnezzar, king of Babylon, had Shadrach, Meishach and Abed-nego thrown into a furnace (Dan 3), and called the fourth figure he saw there 'like a son of the gods' (Dan 3:25). In the Yerushalmi's story an angel strikes him for it. The author quotes it against the Kabbalists' claim that the angels descend from God as a son from a father."
+   ]
+  },
+  {
+   "ref": "2:11",
+   "english": "The conclusion from all this is that no face or form is to be worshipped of all the created things that exist in the upper and the lower world, which the Name, may He be blessed, brought into being in His kindness. For to Him alone it is fitting to worship and to pray, and for this the commandment and the warning came at Sinai: \"I am the LORD your God. You shall have no other gods,\" as the Rambam of blessed memory wrote in chapter two of the Laws of Idolatry. And in chapter three of the Laws of Repentance he wrote, and these are his words: \"And these are those who have no share in the world to come, but are cut off and perish for the greatness of their wickedness and their sins, forever and ever: the heretics and the apikorsim, etc.\" And in the law that follows it he wrote: \"Five are those that are called heretics. The one who says that there is no God, and no ruler of the world, and the one who says that there is a ruler, but they are two or more, and the one who says that there is one Lord, but He is a body and possessed of a form, and the one who says that He is not alone the first and the rock of all. Likewise one who worships one other than Him in order to be an intercessor between him and the Lord of the worlds. Each of these five is a heretic. Thus far.\" And the Rav Lechem Mishneh wrote on the fourth division that our Master wrote, \"and the one who says that He is not alone the first, etc.\" The Ravad wrote: \"like one who said, your God is a great painter, but He found for Himself great pigments, formlessness and void, and darkness and water and wind, and with them made what He made.\" Thus far, the words of the Ravad. And the Rav Lechem Mishneh explains that his intention is to add to the words of our Master that although he concedes that no cause preceded our God, for whose sake He came to be, but says that He created the world something from something, then this one is a heretic; see there. In our case, the belief of the new Kabbalah, as explained in their books, according to our understanding and the understanding of many great ones, wise of heart, among our Rabbis who separated from it, early and late, like the Ribash and Chavot Yair, cited in Pitchei Teshuvah and the other later authorities: in it have gathered and come three or four of these words that our Rabbis said, that whoever believes thus has no share in the world to come. First, a multiplicity of divinities: Ein Sof, and Adam Kadma'ah, and Adam Kadmon, and Atik, and Arikh Anpin, and Abba and Imma, and Ze'ir and his Nukva! Second, that they have a subtle body, namely light, and Ein Sof is a soul to these bodies. Third, that the worship is not to the First Cause, which they call Ein Sof, but to Ze'ir Anpin, which is the last cause among these causes. Fourth, that he is an intermediary drawing down the flow from those upper attributes, which are Atik, Arikh Anpin, Abba and Imma, and they call him son of Abba and Imma, and he is also father to the Keter of Creation, according to the chain of descent of the worlds, in their opinion, the Merciful One save us.",
+   "literal": "the conclusion from this that not to worship any face and form of all the created things that exist in the world the upper and the lower that brought into being the Name, may He be blessed in His kindness for to Him alone fitting to worship and to pray and on this came the commandment and the warning at Sinai I am the LORD your God not there shall be for you gods other as wrote the Rambam of blessed memory in chapter two of the Laws of Idolatry and in chapter three of the Laws of Repentance wrote and these are his words and these are who have no for them share in the world to come but are cut off and perish for the greatness of their wickedness and their sins forever and to ages the heretics and the apikorsim etc. and in the law that follows it wrote five are that are called heretics the one who says that there is no there God and no for the world ruler the one who says that there is there a ruler but they are two or more the one who says that there is there a Lord one but that he is a body and possessed of a form the one who says that he is not alone the first and rock of all and likewise the one who worships one-other-than-him in order to be an intercessor between him and the Lord of the worlds each one of the five these a heretic thus far and wrote the Rav Lechem Mishneh on the division the fourth that he wrote our Master the one who says that he is not alone the first etc. wrote the Ravad like the one who said your God a painter great he is but who found for himself pigments great formlessness and void and darkness and water and wind and with them he made what that he made thus far the Ravad and explains the Rav the Lechem Mishneh that his intention is to add to the words of our Master that although he concedes that no preceded any cause our God for whose sake he came to be but says that He created the world something from something then this one is a heretic see there and in our case the belief of the Kabbalah the new according to as explained in their books according to our understanding and the understanding of many great wise of heart among our Rabbis who separated from it early and late the Ribash Chavot Yair cited in Pitchei Teshuvah and the other later authorities gathered came in-it three and four words of these that said our Rabbis whoever believes thus has no to him a share in the world to come first a multiplicity of divinities Ein Sof and Adam Kadma'ah and Adam Kadmon and Atik and Arikh Anpin and Abba and Imma and Ze'ir and his Nukva second that they are possessors of a body subtle namely light and Ein Sof a soul to these bodies these third that the worship is not to the cause first which is called by them Ein Sof but to Ze'ir Anpin which is a cause last among these causes fourth that he is an intermediary drawing down the flow from those attributes upper which are Atik and Arikh Anpin and Abba and Imma and they call him son of Abba and Imma and he also father to the Keter of Creation according to the chain of descent of the worlds according to their opinion the Merciful One save us",
+   "tokens": [
+    {
+     "id": "2:11.1",
+     "gloss": "the conclusion",
+     "note": "המורם: the conclusion, what is inferred from what precedes."
+    },
+    {
+     "id": "2:11.2",
+     "gloss": "from"
+    },
+    {
+     "id": "2:11.3",
+     "gloss": "this"
+    },
+    {
+     "id": "2:11.4",
+     "gloss": "that not"
+    },
+    {
+     "id": "2:11.5",
+     "gloss": "to worship"
+    },
+    {
+     "id": "2:11.6",
+     "gloss": "any"
+    },
+    {
+     "id": "2:11.7",
+     "gloss": "face",
+     "note": "פרצוף: 'face', in the generic sense (not the Kabbalistic partzuf)."
+    },
+    {
+     "id": "2:11.8",
+     "gloss": "and form",
+     "note": "צורה: form."
+    },
+    {
+     "id": "2:11.9",
+     "gloss": "of all"
+    },
+    {
+     "id": "2:11.10",
+     "gloss": "the created things"
+    },
+    {
+     "id": "2:11.11",
+     "gloss": "that exist"
+    },
+    {
+     "id": "2:11.12",
+     "gloss": "in the world"
+    },
+    {
+     "id": "2:11.13",
+     "gloss": "the upper"
+    },
+    {
+     "id": "2:11.14",
+     "gloss": "and the lower"
+    },
+    {
+     "id": "2:11.15",
+     "gloss": "that brought into being"
+    },
+    {
+     "id": "2:11.16",
+     "gloss": "the Name, may He be blessed",
+     "note": "השי\"ת = 'the Name, may He be blessed'."
+    },
+    {
+     "id": "2:11.17",
+     "gloss": "in His kindness"
+    },
+    {
+     "id": "2:11.18",
+     "gloss": "for"
+    },
+    {
+     "id": "2:11.19",
+     "gloss": "to Him"
+    },
+    {
+     "id": "2:11.20",
+     "gloss": "alone"
+    },
+    {
+     "id": "2:11.21",
+     "gloss": "fitting"
+    },
+    {
+     "id": "2:11.22",
+     "gloss": "to worship"
+    },
+    {
+     "id": "2:11.23",
+     "gloss": "and to pray"
+    },
+    {
+     "id": "2:11.24",
+     "gloss": "and on"
+    },
+    {
+     "id": "2:11.25",
+     "gloss": "this"
+    },
+    {
+     "id": "2:11.26",
+     "gloss": "came"
+    },
+    {
+     "id": "2:11.27",
+     "gloss": "the commandment"
+    },
+    {
+     "id": "2:11.28",
+     "gloss": "and the warning"
+    },
+    {
+     "id": "2:11.29",
+     "gloss": "at Sinai"
+    },
+    {
+     "id": "2:11.30",
+     "gloss": "I am"
+    },
+    {
+     "id": "2:11.31",
+     "gloss": "the LORD",
+     "note": "ה' = the Tetragrammaton, read as 'the LORD' in the verse."
+    },
+    {
+     "id": "2:11.32",
+     "gloss": "your God"
+    },
+    {
+     "id": "2:11.33",
+     "gloss": "not"
+    },
+    {
+     "id": "2:11.34",
+     "gloss": "there shall be"
+    },
+    {
+     "id": "2:11.35",
+     "gloss": "for you"
+    },
+    {
+     "id": "2:11.36",
+     "gloss": "gods"
+    },
+    {
+     "id": "2:11.37",
+     "gloss": "other",
+     "note": "Exod 20:2-3 is cut short by the author after 'אחרים': the English gives only what is written (no 'who brought you out …', no 'before Me'). See `apparatus`."
+    },
+    {
+     "id": "2:11.38",
+     "gloss": "as"
+    },
+    {
+     "id": "2:11.39",
+     "gloss": "wrote",
+     "note": "שכ' = שכתב: 'wrote'."
+    },
+    {
+     "id": "2:11.40",
+     "gloss": "the Rambam",
+     "note": "הרמב\"ם: the Rambam (Moses Maimonides)."
+    },
+    {
+     "id": "2:11.41",
+     "gloss": "of blessed memory",
+     "note": "ז\"ל: 'of blessed memory'."
+    },
+    {
+     "id": "2:11.42",
+     "gloss": "in chapter"
+    },
+    {
+     "id": "2:11.43",
+     "gloss": "two"
+    },
+    {
+     "id": "2:11.44",
+     "gloss": "of the Laws"
+    },
+    {
+     "id": "2:11.45",
+     "gloss": "of Idolatry",
+     "note": "ע\"ז: Avodah Zarah, 'strange worship'. Here the Laws of Idolatry of the Mishneh Torah."
+    },
+    {
+     "id": "2:11.46",
+     "gloss": "and in chapter"
+    },
+    {
+     "id": "2:11.47",
+     "gloss": "three"
+    },
+    {
+     "id": "2:11.48",
+     "gloss": "of the Laws"
+    },
+    {
+     "id": "2:11.49",
+     "gloss": "of Repentance",
+     "note": "Hilchot Teshuvah: the Laws of Repentance of the Mishneh Torah."
+    },
+    {
+     "id": "2:11.50",
+     "gloss": "wrote"
+    },
+    {
+     "id": "2:11.51",
+     "gloss": "and these are his words",
+     "note": "וז\"ל: 'and these are his words'."
+    },
+    {
+     "id": "2:11.52",
+     "gloss": "and these are"
+    },
+    {
+     "id": "2:11.53",
+     "gloss": "who have no"
+    },
+    {
+     "id": "2:11.54",
+     "gloss": "for them"
+    },
+    {
+     "id": "2:11.55",
+     "gloss": "share"
+    },
+    {
+     "id": "2:11.56",
+     "gloss": "in the world"
+    },
+    {
+     "id": "2:11.57",
+     "gloss": "to come"
+    },
+    {
+     "id": "2:11.58",
+     "gloss": "but"
+    },
+    {
+     "id": "2:11.59",
+     "gloss": "are cut off"
+    },
+    {
+     "id": "2:11.60",
+     "gloss": "and perish"
+    },
+    {
+     "id": "2:11.61",
+     "gloss": "for"
+    },
+    {
+     "id": "2:11.62",
+     "gloss": "the greatness of"
+    },
+    {
+     "id": "2:11.63",
+     "gloss": "their wickedness"
+    },
+    {
+     "id": "2:11.64",
+     "gloss": "and their sins"
+    },
+    {
+     "id": "2:11.65",
+     "gloss": "forever"
+    },
+    {
+     "id": "2:11.66",
+     "gloss": "and to"
+    },
+    {
+     "id": "2:11.67",
+     "gloss": "ages"
+    },
+    {
+     "id": "2:11.68",
+     "gloss": "the heretics",
+     "note": "המינין: the heretics (singular min)."
+    },
+    {
+     "id": "2:11.69",
+     "gloss": "and the apikorsim",
+     "note": "האפיקורסין: the apikorsim (singular apikoros), as the decisions fix it ('apikoros'); a heretic of another kind than the מינים before them."
+    },
+    {
+     "id": "2:11.70",
+     "gloss": "etc.",
+     "note": "וכו': 'etc.'. The quotation is cut short."
+    },
+    {
+     "id": "2:11.71",
+     "gloss": "and in the law"
+    },
+    {
+     "id": "2:11.72",
+     "gloss": "that follows it"
+    },
+    {
+     "id": "2:11.73",
+     "gloss": "wrote",
+     "note": "כ': 'wrote' (כתב)."
+    },
+    {
+     "id": "2:11.74",
+     "gloss": "five"
+    },
+    {
+     "id": "2:11.75",
+     "gloss": "are"
+    },
+    {
+     "id": "2:11.76",
+     "gloss": "that are called"
+    },
+    {
+     "id": "2:11.77",
+     "gloss": "heretics"
+    },
+    {
+     "id": "2:11.78",
+     "gloss": "the one who says"
+    },
+    {
+     "id": "2:11.79",
+     "gloss": "that there is no"
+    },
+    {
+     "id": "2:11.80",
+     "gloss": "there",
+     "note": "שם: 'there' in the existential 'שאין שם' ('that there is no … there'), not 'name' and not 'any'."
+    },
+    {
+     "id": "2:11.81",
+     "gloss": "God"
+    },
+    {
+     "id": "2:11.82",
+     "gloss": "and no"
+    },
+    {
+     "id": "2:11.83",
+     "gloss": "for the world"
+    },
+    {
+     "id": "2:11.84",
+     "gloss": "ruler",
+     "note": "מנהיג: ruler, governor."
+    },
+    {
+     "id": "2:11.85",
+     "gloss": "the one who says"
+    },
+    {
+     "id": "2:11.86",
+     "gloss": "that there is"
+    },
+    {
+     "id": "2:11.87",
+     "gloss": "there",
+     "note": "שם: 'there', as at 2:11.80."
+    },
+    {
+     "id": "2:11.88",
+     "gloss": "a ruler"
+    },
+    {
+     "id": "2:11.89",
+     "gloss": "but"
+    },
+    {
+     "id": "2:11.90",
+     "gloss": "they are"
+    },
+    {
+     "id": "2:11.91",
+     "gloss": "two"
+    },
+    {
+     "id": "2:11.92",
+     "gloss": "or"
+    },
+    {
+     "id": "2:11.93",
+     "gloss": "more"
+    },
+    {
+     "id": "2:11.94",
+     "gloss": "the one who says"
+    },
+    {
+     "id": "2:11.95",
+     "gloss": "that there is"
+    },
+    {
+     "id": "2:11.96",
+     "gloss": "there",
+     "note": "שם: 'there', as at 2:11.80."
+    },
+    {
+     "id": "2:11.97",
+     "gloss": "a Lord"
+    },
+    {
+     "id": "2:11.98",
+     "gloss": "one"
+    },
+    {
+     "id": "2:11.99",
+     "gloss": "but"
+    },
+    {
+     "id": "2:11.100",
+     "gloss": "that he is"
+    },
+    {
+     "id": "2:11.101",
+     "gloss": "a body"
+    },
+    {
+     "id": "2:11.102",
+     "gloss": "and possessed of"
+    },
+    {
+     "id": "2:11.103",
+     "gloss": "a form",
+     "note": "תמונה: a visible form."
+    },
+    {
+     "id": "2:11.104",
+     "gloss": "the one who says"
+    },
+    {
+     "id": "2:11.105",
+     "gloss": "that he is not"
+    },
+    {
+     "id": "2:11.106",
+     "gloss": "alone"
+    },
+    {
+     "id": "2:11.107",
+     "gloss": "the first"
+    },
+    {
+     "id": "2:11.108",
+     "gloss": "and rock"
+    },
+    {
+     "id": "2:11.109",
+     "gloss": "of all"
+    },
+    {
+     "id": "2:11.110",
+     "gloss": "and likewise"
+    },
+    {
+     "id": "2:11.111",
+     "gloss": "the one who worships"
+    },
+    {
+     "id": "2:11.112",
+     "gloss": "one other than Him",
+     "note": "לזולתו: 'other than Him'; the suffix refers to God."
+    },
+    {
+     "id": "2:11.113",
+     "gloss": "in order"
+    },
+    {
+     "id": "2:11.114",
+     "gloss": "to be"
+    },
+    {
+     "id": "2:11.115",
+     "gloss": "an intercessor",
+     "note": "מליץ: intercessor."
+    },
+    {
+     "id": "2:11.116",
+     "gloss": "between him"
+    },
+    {
+     "id": "2:11.117",
+     "gloss": "and"
+    },
+    {
+     "id": "2:11.118",
+     "gloss": "the Lord"
+    },
+    {
+     "id": "2:11.119",
+     "gloss": "of the worlds"
+    },
+    {
+     "id": "2:11.120",
+     "gloss": "each"
+    },
+    {
+     "id": "2:11.121",
+     "gloss": "one"
+    },
+    {
+     "id": "2:11.122",
+     "gloss": "of the five"
+    },
+    {
+     "id": "2:11.123",
+     "gloss": "these"
+    },
+    {
+     "id": "2:11.124",
+     "gloss": "a heretic"
+    },
+    {
+     "id": "2:11.125",
+     "gloss": "thus far",
+     "note": "ע\"כ: 'thus far', closing the Rambam's quotation."
+    },
+    {
+     "id": "2:11.126",
+     "gloss": "and wrote"
+    },
+    {
+     "id": "2:11.127",
+     "gloss": "the Rav",
+     "note": "הרב: 'the Rav'; the English keeps it ('the Rav Lechem Mishneh'), as 'the Rav Mikdash Melekh' in the decisions. The Lechem Mishneh is the commentary on the Mishneh Torah; the author of it is meant."
+    },
+    {
+     "id": "2:11.128",
+     "gloss": "Lechem"
+    },
+    {
+     "id": "2:11.129",
+     "gloss": "Mishneh"
+    },
+    {
+     "id": "2:11.130",
+     "gloss": "on"
+    },
+    {
+     "id": "2:11.131",
+     "gloss": "the division"
+    },
+    {
+     "id": "2:11.132",
+     "gloss": "the fourth"
+    },
+    {
+     "id": "2:11.133",
+     "gloss": "that he wrote"
+    },
+    {
+     "id": "2:11.134",
+     "gloss": "our Master",
+     "note": "רבינו: 'our Master', the Rambam."
+    },
+    {
+     "id": "2:11.135",
+     "gloss": "the one who says"
+    },
+    {
+     "id": "2:11.136",
+     "gloss": "that he is not"
+    },
+    {
+     "id": "2:11.137",
+     "gloss": "alone"
+    },
+    {
+     "id": "2:11.138",
+     "gloss": "the first"
+    },
+    {
+     "id": "2:11.139",
+     "gloss": "etc.",
+     "note": "וכו': 'etc.'."
+    },
+    {
+     "id": "2:11.140",
+     "gloss": "wrote"
+    },
+    {
+     "id": "2:11.141",
+     "gloss": "the Ravad",
+     "note": "הראב\"ד: the Ravad (Rabad), whose criticisms of the Mishneh Torah the Lechem Mishneh cites."
+    },
+    {
+     "id": "2:11.142",
+     "gloss": "like the one"
+    },
+    {
+     "id": "2:11.143",
+     "gloss": "who said"
+    },
+    {
+     "id": "2:11.144",
+     "gloss": "your God"
+    },
+    {
+     "id": "2:11.145",
+     "gloss": "a painter"
+    },
+    {
+     "id": "2:11.146",
+     "gloss": "great"
+    },
+    {
+     "id": "2:11.147",
+     "gloss": "he is"
+    },
+    {
+     "id": "2:11.148",
+     "gloss": "but"
+    },
+    {
+     "id": "2:11.149",
+     "gloss": "who found"
+    },
+    {
+     "id": "2:11.150",
+     "gloss": "for himself"
+    },
+    {
+     "id": "2:11.151",
+     "gloss": "pigments"
+    },
+    {
+     "id": "2:11.152",
+     "gloss": "great"
+    },
+    {
+     "id": "2:11.153",
+     "gloss": "formlessness",
+     "note": "תהו ובהו: Gen 1:2, 'formless and void'. The Ravad's list takes them as materials, so 'formlessness and void'."
+    },
+    {
+     "id": "2:11.154",
+     "gloss": "and void"
+    },
+    {
+     "id": "2:11.155",
+     "gloss": "and darkness"
+    },
+    {
+     "id": "2:11.156",
+     "gloss": "and water"
+    },
+    {
+     "id": "2:11.157",
+     "gloss": "and wind"
+    },
+    {
+     "id": "2:11.158",
+     "gloss": "and with them"
+    },
+    {
+     "id": "2:11.159",
+     "gloss": "he made"
+    },
+    {
+     "id": "2:11.160",
+     "gloss": "what"
+    },
+    {
+     "id": "2:11.161",
+     "gloss": "that he made"
+    },
+    {
+     "id": "2:11.162",
+     "gloss": "thus far",
+     "note": "עכ\"ל: 'thus far, the words of', closing the Ravad's quotation."
+    },
+    {
+     "id": "2:11.163",
+     "gloss": "the Ravad"
+    },
+    {
+     "id": "2:11.164",
+     "gloss": "and explains"
+    },
+    {
+     "id": "2:11.165",
+     "gloss": "the Rav"
+    },
+    {
+     "id": "2:11.166",
+     "gloss": "the Lechem Mishneh",
+     "note": "לח\"מ: the Lechem Mishneh."
+    },
+    {
+     "id": "2:11.167",
+     "gloss": "that his intention"
+    },
+    {
+     "id": "2:11.168",
+     "gloss": "is to add"
+    },
+    {
+     "id": "2:11.169",
+     "gloss": "to"
+    },
+    {
+     "id": "2:11.170",
+     "gloss": "the words of"
+    },
+    {
+     "id": "2:11.171",
+     "gloss": "our Master",
+     "note": "רבי': 'our Master' (the Rambam)."
+    },
+    {
+     "id": "2:11.172",
+     "gloss": "that although"
+    },
+    {
+     "id": "2:11.173",
+     "gloss": "he concedes"
+    },
+    {
+     "id": "2:11.174",
+     "gloss": "that no"
+    },
+    {
+     "id": "2:11.175",
+     "gloss": "preceded"
+    },
+    {
+     "id": "2:11.176",
+     "gloss": "any"
+    },
+    {
+     "id": "2:11.177",
+     "gloss": "cause"
+    },
+    {
+     "id": "2:11.178",
+     "gloss": "our God"
+    },
+    {
+     "id": "2:11.179",
+     "gloss": "for whose sake"
+    },
+    {
+     "id": "2:11.180",
+     "gloss": "he came to be"
+    },
+    {
+     "id": "2:11.181",
+     "gloss": "but"
+    },
+    {
+     "id": "2:11.182",
+     "gloss": "says"
+    },
+    {
+     "id": "2:11.183",
+     "gloss": "that He created"
+    },
+    {
+     "id": "2:11.184",
+     "gloss": "the world"
+    },
+    {
+     "id": "2:11.185",
+     "gloss": "something",
+     "note": "יש מיש: 'something from something' (the phrase is translated, not transliterated; decisions, wave 1). The Lechem Mishneh's point: creation from a prior matter."
+    },
+    {
+     "id": "2:11.186",
+     "gloss": "from something"
+    },
+    {
+     "id": "2:11.187",
+     "gloss": "then"
+    },
+    {
+     "id": "2:11.188",
+     "gloss": "this one"
+    },
+    {
+     "id": "2:11.189",
+     "gloss": "is a heretic"
+    },
+    {
+     "id": "2:11.190",
+     "gloss": "see there",
+     "note": "ע\"ש: 'see there' (עיין שם)."
+    },
+    {
+     "id": "2:11.191",
+     "gloss": "and in"
+    },
+    {
+     "id": "2:11.192",
+     "gloss": "our case",
+     "note": "דידן: 'ours'; 'in our case'."
+    },
+    {
+     "id": "2:11.193",
+     "gloss": "the belief of"
+    },
+    {
+     "id": "2:11.194",
+     "gloss": "the Kabbalah",
+     "note": "הקבלה: the Kabbalah. The author's term is 'the new Kabbalah'."
+    },
+    {
+     "id": "2:11.195",
+     "gloss": "the new"
+    },
+    {
+     "id": "2:11.196",
+     "gloss": "according to"
+    },
+    {
+     "id": "2:11.197",
+     "gloss": "as explained"
+    },
+    {
+     "id": "2:11.198",
+     "gloss": "in their books"
+    },
+    {
+     "id": "2:11.199",
+     "gloss": "according to"
+    },
+    {
+     "id": "2:11.200",
+     "gloss": "our understanding"
+    },
+    {
+     "id": "2:11.201",
+     "gloss": "and the understanding of"
+    },
+    {
+     "id": "2:11.202",
+     "gloss": "many"
+    },
+    {
+     "id": "2:11.203",
+     "gloss": "great"
+    },
+    {
+     "id": "2:11.204",
+     "gloss": "wise of"
+    },
+    {
+     "id": "2:11.205",
+     "gloss": "heart",
+     "note": "לב: 'heart'; 'wise of heart'."
+    },
+    {
+     "id": "2:11.206",
+     "gloss": "among our Rabbis"
+    },
+    {
+     "id": "2:11.207",
+     "gloss": "who separated"
+    },
+    {
+     "id": "2:11.208",
+     "gloss": "from it"
+    },
+    {
+     "id": "2:11.209",
+     "gloss": "early"
+    },
+    {
+     "id": "2:11.210",
+     "gloss": "and late"
+    },
+    {
+     "id": "2:11.211",
+     "gloss": "the Ribash",
+     "note": "הריב\"ש: the Ribash."
+    },
+    {
+     "id": "2:11.212",
+     "gloss": "Chavot Yair",
+     "note": "חו\"י: read as Chavot Yair, the fixed spelling of the decisions. The expansion is not certain."
+    },
+    {
+     "id": "2:11.213",
+     "gloss": "cited"
+    },
+    {
+     "id": "2:11.214",
+     "gloss": "in Pitchei",
+     "note": "פתחי תשובה: Pitchei Teshuvah, a commentary on the Shulchan Arukh."
+    },
+    {
+     "id": "2:11.215",
+     "gloss": "Teshuvah"
+    },
+    {
+     "id": "2:11.216",
+     "gloss": "and the other"
+    },
+    {
+     "id": "2:11.217",
+     "gloss": "later authorities"
+    },
+    {
+     "id": "2:11.218",
+     "gloss": "have gathered",
+     "note": "נקבצו באו בה: the subject is 'תלת וארבע מלי' (2:11.221-223), 'three or four words'; see `readings` for the other parse."
+    },
+    {
+     "id": "2:11.219",
+     "gloss": "and come"
+    },
+    {
+     "id": "2:11.220",
+     "gloss": "in it",
+     "note": "בה: 'in it', the belief of the new Kabbalah (2:11.193-195)."
+    },
+    {
+     "id": "2:11.221",
+     "gloss": "three"
+    },
+    {
+     "id": "2:11.222",
+     "gloss": "and four"
+    },
+    {
+     "id": "2:11.223",
+     "gloss": "words"
+    },
+    {
+     "id": "2:11.224",
+     "gloss": "of these"
+    },
+    {
+     "id": "2:11.225",
+     "gloss": "that said"
+    },
+    {
+     "id": "2:11.226",
+     "gloss": "our Rabbis"
+    },
+    {
+     "id": "2:11.227",
+     "gloss": "whoever believes"
+    },
+    {
+     "id": "2:11.228",
+     "gloss": "thus"
+    },
+    {
+     "id": "2:11.229",
+     "gloss": "has no"
+    },
+    {
+     "id": "2:11.230",
+     "gloss": "to him"
+    },
+    {
+     "id": "2:11.231",
+     "gloss": "a share"
+    },
+    {
+     "id": "2:11.232",
+     "gloss": "in the world to come",
+     "note": "לעה\"ב: le-olam ha-ba, 'the world to come'."
+    },
+    {
+     "id": "2:11.233",
+     "gloss": "first"
+    },
+    {
+     "id": "2:11.234",
+     "gloss": "a multiplicity"
+    },
+    {
+     "id": "2:11.235",
+     "gloss": "of divinities"
+    },
+    {
+     "id": "2:11.236",
+     "gloss": "Ein Sof",
+     "note": "א\"ס: Ein Sof, literally 'without end'. This is the first occurrence in the unit."
+    },
+    {
+     "id": "2:11.237",
+     "gloss": "and Adam"
+    },
+    {
+     "id": "2:11.238",
+     "gloss": "Kadma'ah",
+     "note": "קדמאה: Adam Kadma'ah, a distinct entity from Adam Kadmon."
+    },
+    {
+     "id": "2:11.239",
+     "gloss": "and Adam"
+    },
+    {
+     "id": "2:11.240",
+     "gloss": "Kadmon",
+     "note": "קדמון: Adam Kadmon, 'Primordial Man'."
+    },
+    {
+     "id": "2:11.241",
+     "gloss": "and Atik",
+     "note": "עתיק: Atik, literally 'Ancient', a partzuf."
+    },
+    {
+     "id": "2:11.242",
+     "gloss": "and Arikh",
+     "note": "אריך אנפין: Arikh Anpin, 'Long Face'."
+    },
+    {
+     "id": "2:11.243",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "2:11.244",
+     "gloss": "and Abba",
+     "note": "אבא: Abba, 'Father'."
+    },
+    {
+     "id": "2:11.245",
+     "gloss": "and Imma",
+     "note": "אימא: Imma, 'Mother'."
+    },
+    {
+     "id": "2:11.246",
+     "gloss": "and Ze'ir",
+     "note": "זעיר: Ze'ir Anpin, 'Small Face'."
+    },
+    {
+     "id": "2:11.247",
+     "gloss": "and his Nukva",
+     "note": "נוקביה: his Nukva, 'female'."
+    },
+    {
+     "id": "2:11.248",
+     "gloss": "second"
+    },
+    {
+     "id": "2:11.249",
+     "gloss": "that they are"
+    },
+    {
+     "id": "2:11.250",
+     "gloss": "possessors of"
+    },
+    {
+     "id": "2:11.251",
+     "gloss": "a body"
+    },
+    {
+     "id": "2:11.252",
+     "gloss": "subtle"
+    },
+    {
+     "id": "2:11.253",
+     "gloss": "namely"
+    },
+    {
+     "id": "2:11.254",
+     "gloss": "light"
+    },
+    {
+     "id": "2:11.255",
+     "gloss": "and Ein Sof"
+    },
+    {
+     "id": "2:11.256",
+     "gloss": "a soul",
+     "note": "נשמה: soul."
+    },
+    {
+     "id": "2:11.257",
+     "gloss": "to these bodies"
+    },
+    {
+     "id": "2:11.258",
+     "gloss": "these"
+    },
+    {
+     "id": "2:11.259",
+     "gloss": "third"
+    },
+    {
+     "id": "2:11.260",
+     "gloss": "that the worship"
+    },
+    {
+     "id": "2:11.261",
+     "gloss": "is not"
+    },
+    {
+     "id": "2:11.262",
+     "gloss": "to the cause"
+    },
+    {
+     "id": "2:11.263",
+     "gloss": "first"
+    },
+    {
+     "id": "2:11.264",
+     "gloss": "which"
+    },
+    {
+     "id": "2:11.265",
+     "gloss": "is called"
+    },
+    {
+     "id": "2:11.266",
+     "gloss": "by them"
+    },
+    {
+     "id": "2:11.267",
+     "gloss": "Ein Sof"
+    },
+    {
+     "id": "2:11.268",
+     "gloss": "but"
+    },
+    {
+     "id": "2:11.269",
+     "gloss": "to Ze'ir Anpin",
+     "note": "לז\"א: Ze'ir Anpin, 'small face'."
+    },
+    {
+     "id": "2:11.270",
+     "gloss": "which is"
+    },
+    {
+     "id": "2:11.271",
+     "gloss": "a cause"
+    },
+    {
+     "id": "2:11.272",
+     "gloss": "last"
+    },
+    {
+     "id": "2:11.273",
+     "gloss": "among these"
+    },
+    {
+     "id": "2:11.274",
+     "gloss": "causes"
+    },
+    {
+     "id": "2:11.275",
+     "gloss": "fourth"
+    },
+    {
+     "id": "2:11.276",
+     "gloss": "that he is"
+    },
+    {
+     "id": "2:11.277",
+     "gloss": "an intermediary"
+    },
+    {
+     "id": "2:11.278",
+     "gloss": "drawing down"
+    },
+    {
+     "id": "2:11.279",
+     "gloss": "the flow"
+    },
+    {
+     "id": "2:11.280",
+     "gloss": "from those"
+    },
+    {
+     "id": "2:11.281",
+     "gloss": "attributes"
+    },
+    {
+     "id": "2:11.282",
+     "gloss": "upper"
+    },
+    {
+     "id": "2:11.283",
+     "gloss": "which are"
+    },
+    {
+     "id": "2:11.284",
+     "gloss": "Atik"
+    },
+    {
+     "id": "2:11.285",
+     "gloss": "and Arikh"
+    },
+    {
+     "id": "2:11.286",
+     "gloss": "Anpin"
+    },
+    {
+     "id": "2:11.287",
+     "gloss": "and Abba"
+    },
+    {
+     "id": "2:11.288",
+     "gloss": "and Imma"
+    },
+    {
+     "id": "2:11.289",
+     "gloss": "and they call"
+    },
+    {
+     "id": "2:11.290",
+     "gloss": "him"
+    },
+    {
+     "id": "2:11.291",
+     "gloss": "son of"
+    },
+    {
+     "id": "2:11.292",
+     "gloss": "Abba and Imma",
+     "note": "לאו\"א: 'Abba and Imma'. The author argues from the name, 'son of Abba and Imma'."
+    },
+    {
+     "id": "2:11.293",
+     "gloss": "and he"
+    },
+    {
+     "id": "2:11.294",
+     "gloss": "also"
+    },
+    {
+     "id": "2:11.295",
+     "gloss": "father"
+    },
+    {
+     "id": "2:11.296",
+     "gloss": "to the Keter",
+     "note": "כתר: Keter, the crown."
+    },
+    {
+     "id": "2:11.297",
+     "gloss": "of Creation",
+     "note": "דבריאה: 'of Creation', Beriah, the second of the four worlds (Emanation, Creation, Formation, Making); the decisions translate the names of the four worlds."
+    },
+    {
+     "id": "2:11.298",
+     "gloss": "according to"
+    },
+    {
+     "id": "2:11.299",
+     "gloss": "the chain of descent"
+    },
+    {
+     "id": "2:11.300",
+     "gloss": "of the worlds"
+    },
+    {
+     "id": "2:11.301",
+     "gloss": "according to"
+    },
+    {
+     "id": "2:11.302",
+     "gloss": "their opinion"
+    },
+    {
+     "id": "2:11.303",
+     "gloss": "the Merciful One",
+     "note": "רחמנא ליצלן: 'the Merciful One save us', the formula kept, with its irony."
+    },
+    {
+     "id": "2:11.304",
+     "gloss": "save us"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "2:11.1",
+      "2:11.2",
+      "2:11.3",
+      "2:11.4",
+      "2:11.5",
+      "2:11.6",
+      "2:11.7",
+      "2:11.8"
+     ],
+     "english": "The conclusion from all this is that no face or form is to be worshipped",
+     "literal": "the conclusion from this that not to worship any face and form"
+    },
+    {
+     "tokens": [
+      "2:11.9",
+      "2:11.10",
+      "2:11.11",
+      "2:11.12",
+      "2:11.13",
+      "2:11.14",
+      "2:11.15",
+      "2:11.16",
+      "2:11.17"
+     ],
+     "english": "of all the created things that exist in the upper and the lower world, which the Name, may He be blessed, brought into being in His kindness.",
+     "literal": "of all the created things that exist in the world the upper and the lower that brought into being the Name, may He be blessed in His kindness"
+    },
+    {
+     "tokens": [
+      "2:11.18",
+      "2:11.19",
+      "2:11.20",
+      "2:11.21",
+      "2:11.22",
+      "2:11.23"
+     ],
+     "english": "For to Him alone it is fitting to worship and to pray,",
+     "literal": "for to Him alone fitting to worship and to pray"
+    },
+    {
+     "tokens": [
+      "2:11.24",
+      "2:11.25",
+      "2:11.26",
+      "2:11.27",
+      "2:11.28",
+      "2:11.29"
+     ],
+     "english": "and for this the commandment and the warning came at Sinai:",
+     "literal": "and on this came the commandment and the warning at Sinai"
+    },
+    {
+     "tokens": [
+      "2:11.30",
+      "2:11.31",
+      "2:11.32",
+      "2:11.33",
+      "2:11.34",
+      "2:11.35",
+      "2:11.36",
+      "2:11.37"
+     ],
+     "english": "\"I am the LORD your God. You shall have no other gods,\"",
+     "literal": "I am the LORD your God not there shall be for you gods other"
+    },
+    {
+     "tokens": [
+      "2:11.38",
+      "2:11.39",
+      "2:11.40",
+      "2:11.41",
+      "2:11.42",
+      "2:11.43",
+      "2:11.44",
+      "2:11.45"
+     ],
+     "english": "as the Rambam of blessed memory wrote in chapter two of the Laws of Idolatry.",
+     "literal": "as wrote the Rambam of blessed memory in chapter two of the Laws of Idolatry"
+    },
+    {
+     "tokens": [
+      "2:11.46",
+      "2:11.47",
+      "2:11.48",
+      "2:11.49",
+      "2:11.50",
+      "2:11.51"
+     ],
+     "english": "And in chapter three of the Laws of Repentance he wrote, and these are his words:",
+     "literal": "and in chapter three of the Laws of Repentance wrote and these are his words"
+    },
+    {
+     "tokens": [
+      "2:11.52",
+      "2:11.53",
+      "2:11.54",
+      "2:11.55",
+      "2:11.56",
+      "2:11.57",
+      "2:11.58",
+      "2:11.59",
+      "2:11.60",
+      "2:11.61",
+      "2:11.62",
+      "2:11.63",
+      "2:11.64",
+      "2:11.65",
+      "2:11.66",
+      "2:11.67"
+     ],
+     "english": "\"And these are those who have no share in the world to come, but are cut off and perish for the greatness of their wickedness and their sins, forever and ever:",
+     "literal": "and these are who have no for them share in the world to come but are cut off and perish for the greatness of their wickedness and their sins forever and to ages"
+    },
+    {
+     "tokens": [
+      "2:11.68",
+      "2:11.69",
+      "2:11.70"
+     ],
+     "english": "the heretics and the apikorsim, etc.\"",
+     "literal": "the heretics and the Epicureans etc."
+    },
+    {
+     "tokens": [
+      "2:11.71",
+      "2:11.72",
+      "2:11.73",
+      "2:11.74",
+      "2:11.75",
+      "2:11.76",
+      "2:11.77"
+     ],
+     "english": "And in the law that follows it he wrote: \"Five are those that are called heretics.",
+     "literal": "and in the law that follows it wrote five are that are called heretics"
+    },
+    {
+     "tokens": [
+      "2:11.78",
+      "2:11.79",
+      "2:11.80",
+      "2:11.81",
+      "2:11.82",
+      "2:11.83",
+      "2:11.84"
+     ],
+     "english": "The one who says that there is no God, and no ruler of the world,",
+     "literal": "the one who says that there is no any God and no for the world ruler"
+    },
+    {
+     "tokens": [
+      "2:11.85",
+      "2:11.86",
+      "2:11.87",
+      "2:11.88",
+      "2:11.89",
+      "2:11.90",
+      "2:11.91",
+      "2:11.92",
+      "2:11.93"
+     ],
+     "english": "and the one who says that there is a ruler, but they are two or more,",
+     "literal": "the one who says that there is a ruler but they are two or more"
+    },
+    {
+     "tokens": [
+      "2:11.94",
+      "2:11.95",
+      "2:11.96",
+      "2:11.97",
+      "2:11.98",
+      "2:11.99",
+      "2:11.100",
+      "2:11.101",
+      "2:11.102",
+      "2:11.103"
+     ],
+     "english": "and the one who says that there is one Lord, but He is a body and possessed of a form,",
+     "literal": "the one who says that there is a Lord one but that he is a body and possessed of a form"
+    },
+    {
+     "tokens": [
+      "2:11.104",
+      "2:11.105",
+      "2:11.106",
+      "2:11.107",
+      "2:11.108",
+      "2:11.109"
+     ],
+     "english": "and the one who says that He is not alone the first and the rock of all.",
+     "literal": "the one who says that he is not alone the first and rock of all"
+    },
+    {
+     "tokens": [
+      "2:11.110",
+      "2:11.111",
+      "2:11.112",
+      "2:11.113",
+      "2:11.114",
+      "2:11.115",
+      "2:11.116",
+      "2:11.117",
+      "2:11.118",
+      "2:11.119",
+      "2:11.120",
+      "2:11.121",
+      "2:11.122",
+      "2:11.123",
+      "2:11.124",
+      "2:11.125"
+     ],
+     "english": "Likewise one who worships one other than Him in order to be an intercessor between him and the Lord of the worlds. Each of these five is a heretic. Thus far.\"",
+     "literal": "and likewise the one who worships another in order to be an intercessor between him and the Lord of the worlds each one of the five these a heretic thus far"
+    },
+    {
+     "tokens": [
+      "2:11.126",
+      "2:11.127",
+      "2:11.128",
+      "2:11.129",
+      "2:11.130",
+      "2:11.131",
+      "2:11.132",
+      "2:11.133",
+      "2:11.134",
+      "2:11.135",
+      "2:11.136",
+      "2:11.137",
+      "2:11.138",
+      "2:11.139"
+     ],
+     "english": "And the Rav Lechem Mishneh wrote on the fourth division that our Master wrote, \"and the one who says that He is not alone the first, etc.\"",
+     "literal": "and wrote the Rav Lechem Mishneh on the division the fourth that he wrote our Master the one who says that he is not alone the first etc."
+    },
+    {
+     "tokens": [
+      "2:11.140",
+      "2:11.141",
+      "2:11.142",
+      "2:11.143",
+      "2:11.144",
+      "2:11.145",
+      "2:11.146",
+      "2:11.147",
+      "2:11.148",
+      "2:11.149",
+      "2:11.150",
+      "2:11.151",
+      "2:11.152",
+      "2:11.153",
+      "2:11.154",
+      "2:11.155",
+      "2:11.156",
+      "2:11.157",
+      "2:11.158",
+      "2:11.159",
+      "2:11.160",
+      "2:11.161",
+      "2:11.162",
+      "2:11.163"
+     ],
+     "english": "The Ravad wrote: \"like one who said, your God is a great painter, but He found for Himself great pigments, formlessness and void, and darkness and water and wind, and with them made what He made.\" Thus far, the words of the Ravad.",
+     "literal": "wrote the Ravad like the one who said your God a painter great he is but who found for himself pigments great tohu and bohu and darkness and water and wind and with them he made what that he made thus far the Ravad"
+    },
+    {
+     "tokens": [
+      "2:11.164",
+      "2:11.165",
+      "2:11.166",
+      "2:11.167",
+      "2:11.168",
+      "2:11.169",
+      "2:11.170",
+      "2:11.171"
+     ],
+     "english": "And the Rav Lechem Mishneh explains that his intention is to add to the words of our Master",
+     "literal": "and explains the Rav the Lechem Mishneh that his intention is to add to the words of our Master"
+    },
+    {
+     "tokens": [
+      "2:11.172",
+      "2:11.173",
+      "2:11.174",
+      "2:11.175",
+      "2:11.176",
+      "2:11.177",
+      "2:11.178",
+      "2:11.179",
+      "2:11.180",
+      "2:11.181",
+      "2:11.182",
+      "2:11.183",
+      "2:11.184",
+      "2:11.185",
+      "2:11.186",
+      "2:11.187",
+      "2:11.188",
+      "2:11.189",
+      "2:11.190"
+     ],
+     "english": "that although he concedes that no cause preceded our God, for whose sake He came to be, but says that He created the world something from something, then this one is a heretic; see there.",
+     "literal": "that although he concedes that no preceded any cause our God for whose sake he came to be but says that He created the world something from something then this one is a heretic see there"
+    },
+    {
+     "tokens": [
+      "2:11.191",
+      "2:11.192",
+      "2:11.193",
+      "2:11.194",
+      "2:11.195",
+      "2:11.196",
+      "2:11.197",
+      "2:11.198",
+      "2:11.199"
+     ],
+     "english": "In our case, the belief of the new Kabbalah, as explained in their books, according to",
+     "literal": "and in our case the belief of the Kabbalah the new according to as explained in their books according to"
+    },
+    {
+     "tokens": [
+      "2:11.200",
+      "2:11.201",
+      "2:11.202",
+      "2:11.203",
+      "2:11.204",
+      "2:11.205",
+      "2:11.206"
+     ],
+     "english": "our understanding and the understanding of many great ones, wise of heart, among our Rabbis",
+     "literal": "our understanding and the understanding of many great wise of heart among our Rabbis"
+    },
+    {
+     "tokens": [
+      "2:11.207",
+      "2:11.208",
+      "2:11.209",
+      "2:11.210",
+      "2:11.211",
+      "2:11.212",
+      "2:11.213",
+      "2:11.214",
+      "2:11.215",
+      "2:11.216",
+      "2:11.217"
+     ],
+     "english": "who separated from it, early and late, like the Ribash and Chavot Yair, cited in Pitchei Teshuvah and the other later authorities:",
+     "literal": "who separated from it early and late the Ribash Chavat Yair cited in Pitchei Teshuvah and the other later authorities"
+    },
+    {
+     "tokens": [
+      "2:11.218",
+      "2:11.219",
+      "2:11.220",
+      "2:11.221",
+      "2:11.222",
+      "2:11.223",
+      "2:11.224",
+      "2:11.225",
+      "2:11.226",
+      "2:11.227",
+      "2:11.228",
+      "2:11.229",
+      "2:11.230",
+      "2:11.231",
+      "2:11.232"
+     ],
+     "english": "in it have gathered and come three or four of these words that our Rabbis said, that whoever believes thus has no share in the world to come.",
+     "literal": "gathered came against it three and four words of these that said our Rabbis whoever believes thus has no to him a share in the world to come"
+    },
+    {
+     "tokens": [
+      "2:11.233",
+      "2:11.234",
+      "2:11.235",
+      "2:11.236",
+      "2:11.237",
+      "2:11.238",
+      "2:11.239",
+      "2:11.240",
+      "2:11.241",
+      "2:11.242",
+      "2:11.243",
+      "2:11.244",
+      "2:11.245",
+      "2:11.246",
+      "2:11.247"
+     ],
+     "english": "First, a multiplicity of divinities: Ein Sof, and Adam Kadma'ah, and Adam Kadmon, and Atik, and Arikh Anpin, and Abba and Imma, and Ze'ir and his Nukva!",
+     "literal": "first a multiplicity of divinities Ein Sof and Adam Kadma'ah and Adam Kadmon and Atik and Arikh Anpin and Abba and Imma and Ze'ir and his Nukva"
+    },
+    {
+     "tokens": [
+      "2:11.248",
+      "2:11.249",
+      "2:11.250",
+      "2:11.251",
+      "2:11.252",
+      "2:11.253",
+      "2:11.254",
+      "2:11.255",
+      "2:11.256",
+      "2:11.257",
+      "2:11.258"
+     ],
+     "english": "Second, that they have a subtle body, namely light, and Ein Sof is a soul to these bodies.",
+     "literal": "second that they are possessors of a body subtle namely light and Ein Sof a soul to these bodies these"
+    },
+    {
+     "tokens": [
+      "2:11.259",
+      "2:11.260",
+      "2:11.261",
+      "2:11.262",
+      "2:11.263",
+      "2:11.264",
+      "2:11.265",
+      "2:11.266",
+      "2:11.267",
+      "2:11.268",
+      "2:11.269",
+      "2:11.270",
+      "2:11.271",
+      "2:11.272",
+      "2:11.273",
+      "2:11.274"
+     ],
+     "english": "Third, that the worship is not to the First Cause, which they call Ein Sof, but to Ze'ir Anpin, which is the last cause among these causes.",
+     "literal": "third that the worship is not to the cause first which is called by them Ein Sof but to Ze'ir Anpin which is a cause last among these causes"
+    },
+    {
+     "tokens": [
+      "2:11.275",
+      "2:11.276",
+      "2:11.277",
+      "2:11.278",
+      "2:11.279",
+      "2:11.280",
+      "2:11.281",
+      "2:11.282",
+      "2:11.283",
+      "2:11.284",
+      "2:11.285",
+      "2:11.286",
+      "2:11.287",
+      "2:11.288",
+      "2:11.289",
+      "2:11.290",
+      "2:11.291",
+      "2:11.292"
+     ],
+     "english": "Fourth, that he is an intermediary drawing down the flow from those upper attributes, which are Atik, Arikh Anpin, Abba and Imma, and they call him son of Abba and Imma,",
+     "literal": "fourth that he is intermediary drawing down the flow from those attributes upper which are Atik and Arikh Anpin and Abba and Imma and they call him son of Abba and Imma"
+    },
+    {
+     "tokens": [
+      "2:11.293",
+      "2:11.294",
+      "2:11.295",
+      "2:11.296",
+      "2:11.297",
+      "2:11.298",
+      "2:11.299",
+      "2:11.300",
+      "2:11.301",
+      "2:11.302",
+      "2:11.303",
+      "2:11.304"
+     ],
+     "english": "and he is also father to the Keter of Creation, according to the chain of descent of the worlds, in their opinion, the Merciful One save us.",
+     "literal": "and he also father to the Keter of Beriah according to the chain of descent of the worlds according to their opinion the Merciful One save us"
+    }
+   ],
+   "grammar": [
+    "The Rambam's words run from 2:11.51 ('וז\"ל') to 2:11.125 ('ע\"כ'). They are cut short at 'וכו'' (2:11.70); 'ובדין שאחריו כ'' (2:11.71-73) is the author's link, so the quotation marks close and open again around it. The author's gloss starts at 2:11.126.",
+    "'כ'' (2:11.73, 2:11.140) is 'wrote', an abbreviation of כתב; 'שכ'' (2:11.39) is 'that wrote'. 'הרב' (2:11.127, 2:11.165) is a word of the text, 'the Rav', before the book's name.",
+    "'שאין לעבוד' (2:11.4-5) is 'that one must not worship': 'לעבוד' is the verb 'to worship', used of God throughout the paragraph.",
+    "'שם' in 'שאין שם אלוה' (2:11.79-81), 'שיש שם מנהיג' (2:11.86-88) and 'שיש שם רבון' (2:11.95-97) is the adverb 'there' of the existential 'there is', not 'name'.",
+    "In the long sentence at 2:11.191-232 the subject of 'נקבצו באו' (2:11.218-219) is 'תלת וארבע מלי' (2:11.221-223), 'three or four words'; 'בה' is 'in it', the belief of the new Kabbalah. The words between ('כפי המבואר … ושאר אחרונים') say by whose understanding. 'דאמור רבנן' is Aramaic: 'that the Rabbis said'.",
+    "'חדא', 'שנית', 'שלישית', 'רביעית' (2:11.233, 248, 259, 275) number the four 'words'. The first is a noun phrase (רבוי האלוהות); the others open with שהם, שהעבודה, שהוא."
+   ],
+   "note": "The paragraph is the author's conclusion from the Rambam's law (the Rambam, the Lechem Mishneh and the Ravad are quoted), followed by the four 'words' of the Rabbis that he finds in the new Kabbalah.",
+   "commentary": [],
+   "apparatus": [
+    "Exod 20:2-3: the author quotes 'אנכי ה' אלהיך לא יהיה לך אלהים אחרים', leaving out 'who brought you out of the land of Egypt …' (v. 2) and 'על פני' (v. 3); the English follows his wording, without 'before Me'.",
+    "Rambam, Laws of Idolatry ch. 2 and Laws of Repentance ch. 3 (Mishneh Torah), as the author gives them; no halakhah number is added. The Rambam's quotation is cut short at 'וכו'' (2:11.70).",
+    "Gen 1:2: 'תהו ובהו וחשך ומים ורוח' in the Ravad's words echoes the verse ('formless and void, and darkness … and the wind (or spirit) of God … the waters'); here the words are the painter's materials, so 'formlessness and void' and 'wind'.",
+    "The Lechem Mishneh and the Ravad are quoted as the author gives them; 'וכו'' is kept as 'etc.'.",
+    "יש מיש: 'something from something', translated, not transliterated (decisions, wave 1: יש מאין / יש מיש).",
+    "חו\"י: the expansion Chavot Yair (the fixed spelling in the decisions) is a reading, not a certainty.",
+    "שם (2:11.80, 87, 96) is 'there'; 'name' is not possible in the grammar of 'שיש שם'."
+   ],
+   "context": [
+    "The Mishneh Torah is the Rambam's code of Jewish law; the Laws of Idolatry and the Laws of Repentance are two of its sections, as cited here.",
+    "The Lechem Mishneh is a commentary on the Mishneh Torah. Pitchei Teshuvah is a commentary on the Shulchan Arukh."
+   ],
+   "readings": [
+    {
+     "tokens": [
+      "2:11.218",
+      "2:11.219",
+      "2:11.220",
+      "2:11.221",
+      "2:11.222",
+      "2:11.223",
+      "2:11.224",
+      "2:11.225",
+      "2:11.226",
+      "2:11.227",
+      "2:11.228",
+      "2:11.229",
+      "2:11.230",
+      "2:11.231",
+      "2:11.232"
+     ],
+     "english": "the authorities gathered and came against it: three or four of these words that our Rabbis said, \"Whoever believes thus has no share in the world to come.\"",
+     "source": "alternative subject",
+     "note": "The reading of the draft, which makes the Ribash, Chavot Yair and the later authorities the subject and בה 'against it'; the English chosen takes 'three or four words' as the subject and בה as 'in it'."
+    }
+   ]
+  }
+ ]
+}
