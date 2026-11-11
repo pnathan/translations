@@ -701,6 +701,15 @@ senses are allowed, chosen by the use.
 - A reply introduced by ויאמר inside a quotation takes double marks; the
   author's report of a sage's question stays unmarked.
 - חמותי (Isa 44:16): "I am warm"; נדנוד: "qualm"; נתקע: "got involved".
+- ב"ד: "court" ("the Great Court" for ב"ד הגדול); "Beit Din" only as a title the
+  author gives in transliteration.
+- A title the printed text spells wrongly (ונור אלצלאם): translate the printed
+  spelling ("Nur al-Tzalam"); the likelier title (Nur al-Zulam, Me'or ha-Afelah)
+  goes in the token note and `apparatus`, not in the English.
+- ר' before a name: "Rabbi" (בר' בחיי: "Rabbi Bachya"); רבינו = "Rabbeinu".
+- A Hebrew period with no main clause that is completed in the next segment:
+  keep the Hebrew full stops and record the continuation in the segment `note`;
+  join with semicolons only where the English becomes unreadable.
 
 ## Pending consistency pass (before the PR)
 
@@ -708,6 +717,8 @@ senses are allowed, chosen by the use.
   (perek-2-10) carry no opening marks. Patch both by the ruling above.
 - 3:6 (perek-3-03): the gloss/English "the ignorant" for עמי הארץ becomes "the
   unlearned" by the ruling above.
+- 3:3 (perek-3-02): "Beit Din" becomes "court" ("the Great Court") by the ruling
+  above.
 
 ## Translator's checklist (the pilot reviews found these faults most often)
 
