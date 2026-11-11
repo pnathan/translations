@@ -467,6 +467,8 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
+- קורין אל: "call upon"; חכמי הקבלה: "sages of Kabbalah"; גבורה as a name of God:
+  "the Power".
 
 ## Translator's checklist (the pilot reviews found these faults most often)
 

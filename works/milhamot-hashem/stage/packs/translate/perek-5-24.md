@@ -465,7 +465,8 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
-
+- מערב in a list with Ashkenaz, Sefarad, Yemen: "the Maghreb", "the West" in the
+  note.
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:
