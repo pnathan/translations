@@ -620,6 +620,15 @@ senses are allowed, chosen by the use.
   "meal offering" only in a sacrificial context.
 - אלוה as the object of worship of a human being (קבלו באלוה): "a god"; "God"
   elsewhere (this refines the אלוה ruling above).
+- והוא שלא: "provided that" (fixed).
+- משותף in the Maimonidean sense (a term said of God and of creatures by
+  equivocation): "equivocal"; "shared" only for a thing held in common.
+- אלוה of a man who makes himself an object of worship (Haman): "a god".
+- An unexplained word in a quoted Judeo-Arabic passage (שברא): translate what
+  can be read, mark the rest "[unclear]" in the English, and give the Hebrew
+  letters in `apparatus`.
+- Ambiguous לעבד / לעבד כ-: choose by the verse or context; the other reading
+  in `readings`.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
