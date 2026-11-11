@@ -1,0 +1,912 @@
+{
+  "unit": "perek-3-06",
+  "model": "sonnet",
+  "summary": "The unit is mostly faithful and complete, but has several errors against the rulings and the Hebrew: the section labels, the direction and objects of 'casts their flow and their sustenance from below upward', 'serve' for עבודה, 'their gods' for a singular אלהיהם, the wheat/barley simile, 'these' attached to the people, the quotation after לאמר running past its end, 'our Rabbi' for Moses, and 'a judgment' for דין. Verse echoes (Prov 18:8/26:22, Deut 6:13) were missing from the apparatus. Three questions are open: מתלהמים, בקש, and דין.",
+  "patches": [
+    {
+      "ref": "3:10",
+      "path": "english",
+      "value": "§10. And now, with the help of the Name, may He be blessed, let us return to the main point of our question, which we asked you to inform us according to the system of the Kabbalists, whom do we call upon in our prayers, and bless all our blessings and our worship, and from whom do we seek forgiveness and atonement. And your answer was in the words of a grumbler, like ravers: he claimed wheat from him, and he admitted barley to him, and you deny what is known and famous in their books to all, like one who swears about the man that he is a woman, and about the woman that she is a man, and about a pillar of marble that it is gold. And your anger burned against the book Metzaref ha-Emunah, and you mocked it and scorned it, and you called it the book the Mesharef etc., and thereby you revealed to all that you are the one who scorns the sages; and as to our questions: since Ze'ir Anpin, according to their words, is our God, and he feeds us and sustains us, and Him we worship; if so, all the worlds above the World of Emanation, who feeds and sustains them? If he casts their flow and their sustenance from below upward, and they worship and bow down to him, or perhaps their God fed and sustained them, he being the First Cause, and Him they worship, and we worship Ze'ir Anpin, who feeds us and sustains us? And if so, is the God of the upper ones not the God of the lower ones, God forbid? And this is the point of contradiction which we asked you to inform us and to instruct us, and to this your answer came: that the case is not like the proof, and does one bring proof to overturn a halakha given to Moses at Sinai? And that the sages of Kabbalah say thus: they received it from Moses.",
+      "severity": "error",
+      "reason": "The English adds 'down' and splits 'their flow and their sustenance from below upward' (both objects of זורק); renders עובדים/עבודה as 'serve' where the decisions fix 'worship'; renders אלהיהם, with singular verb and 'he being the First Cause', as 'their gods'; reads the wheat/barley simile as 'claim ... and concede' by the same party; and opens with '10)' where the decisions give the author's section label as '§10.'. Also 'to whom do we call upon' is ungrammatical; 'the proof' for לראיה; 'does one bring' (impersonal, not the Kabbalists); the ש of ושחכמי is dropped; capitals after semicolons."
+    },
+    {
+      "ref": "3:10",
+      "path": "literal",
+      "value": "§10 and-now in-the-help-of the-Name-may-He-be-blessed we-return to-the-point-of our-question which we-asked you to-inform-us according-to the-system-of the-Kabbalists, to-whom we call-upon in-our-prayers and-bless all our-blessings and-our-worship and-from-whom we seek forgiveness and-atonement. and-was your-answer in-the-words-of a-grumbler like-ravers he-claimed-from-him wheat and-he-admitted to-him barley, and-you-deny (object) what-is-known and-famous in-their-books to-all, like-one-who-swears about the-man that-he-is a-woman, and-about the-woman that-she-is a-man, and-about a-pillar of marble that-it-is gold. and-burned your-anger against the-book Metzaref ha-Emunah, and-you-mocked at-it and-scorned it, and-you-called it the-book the-Mesharef etc., and-thereby you-revealed to-all that-you (emphatic) the-one-who-scorns (object) the-sages; and-as-to our-questions since Ze'ir Anpin according-to their-words is our-God, and-he feeds-us and-sustains-us, and-Him we-worship; if-so all the-worlds that-are-above from-the-World-of Emanation who-feeds-them and-sustains-them? if he-casts their-flow, and-their-sustenance from-below upward, and-they worship and-bow-down to-him, or perhaps their-God fed-them and-sustained-them, he (is) the-cause, the-first, and-Him they worship, and-we worship to-Ze'ir Anpin, who-feeds-us and-sustains-us? and-if-so the-God-of the-upper-ones is-not the-God-of the-lower-ones, God-forbid? and-this the-point-of contradiction which we-asked of-you to-inform-us and-to-instruct-us, and-to this your-answer came: that-not the-case is-like the-proof, and-do they-bring proof to-overturn a-halakha given-to Moses at-Sinai? and-that-the-sages-of Kabbalah say thus: they-received it from-Moses.",
+      "severity": "error",
+      "reason": "Follows the corrected English."
+    },
+    {
+      "ref": "3:10",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "3:10.1",
+            "3:10.2",
+            "3:10.3",
+            "3:10.4",
+            "3:10.5",
+            "3:10.6",
+            "3:10.7"
+          ],
+          "english": "§10. And now, with the help of the Name, may He be blessed, let us return to the main point of our question,",
+          "literal": "§10 and-now in-the-help-of the-Name-may-He-be-blessed we-return to-the-point-of our-question"
+        },
+        {
+          "tokens": [
+            "3:10.8",
+            "3:10.9",
+            "3:10.10"
+          ],
+          "english": "which we asked you to inform us",
+          "literal": "which we-asked you to-inform-us"
+        },
+        {
+          "tokens": [
+            "3:10.11",
+            "3:10.12",
+            "3:10.13",
+            "3:10.14",
+            "3:10.15",
+            "3:10.16",
+            "3:10.17",
+            "3:10.18",
+            "3:10.19",
+            "3:10.20",
+            "3:10.21",
+            "3:10.22",
+            "3:10.23",
+            "3:10.24",
+            "3:10.25",
+            "3:10.26",
+            "3:10.27"
+          ],
+          "english": "according to the system of the Kabbalists, whom do we call upon in our prayers, and bless all our blessings and our worship, and from whom do we seek forgiveness and atonement.",
+          "literal": "according-to the-system-of the-Kabbalists, to-whom we call-upon in-our-prayers and-bless all our-blessings and-our-worship and-from-whom we seek forgiveness and-atonement."
+        },
+        {
+          "tokens": [
+            "3:10.28",
+            "3:10.29",
+            "3:10.30",
+            "3:10.31",
+            "3:10.32",
+            "3:10.33",
+            "3:10.34",
+            "3:10.35",
+            "3:10.36",
+            "3:10.37"
+          ],
+          "english": "And your answer was in the words of a grumbler, like ravers: he claimed wheat from him, and he admitted barley to him,",
+          "literal": "and-was your-answer in-the-words-of a-grumbler like-ravers he-claimed-from-him wheat and-he-admitted to-him barley,"
+        },
+        {
+          "tokens": [
+            "3:10.38",
+            "3:10.39",
+            "3:10.40",
+            "3:10.41",
+            "3:10.42",
+            "3:10.43"
+          ],
+          "english": "and you deny what is known and famous in their books to all,",
+          "literal": "and-you-deny (object) what-is-known and-famous in-their-books to-all,"
+        },
+        {
+          "tokens": [
+            "3:10.44",
+            "3:10.45",
+            "3:10.46",
+            "3:10.47",
+            "3:10.48"
+          ],
+          "english": "like one who swears about the man that he is a woman,",
+          "literal": "like-one-who-swears about the-man that-he-is a-woman,"
+        },
+        {
+          "tokens": [
+            "3:10.49",
+            "3:10.50",
+            "3:10.51",
+            "3:10.52"
+          ],
+          "english": "and about the woman that she is a man,",
+          "literal": "and-about the-woman that-she-is a-man,"
+        },
+        {
+          "tokens": [
+            "3:10.53",
+            "3:10.54",
+            "3:10.55",
+            "3:10.56",
+            "3:10.57",
+            "3:10.58"
+          ],
+          "english": "and about a pillar of marble that it is gold.",
+          "literal": "and-about a-pillar of marble that-it-is gold."
+        },
+        {
+          "tokens": [
+            "3:10.59",
+            "3:10.60",
+            "3:10.61",
+            "3:10.62",
+            "3:10.63",
+            "3:10.64"
+          ],
+          "english": "And your anger burned against the book Metzaref ha-Emunah,",
+          "literal": "and-burned your-anger against the-book Metzaref ha-Emunah,"
+        },
+        {
+          "tokens": [
+            "3:10.65",
+            "3:10.66",
+            "3:10.67",
+            "3:10.68"
+          ],
+          "english": "and you mocked it and scorned it,",
+          "literal": "and-you-mocked at-it and-scorned it,"
+        },
+        {
+          "tokens": [
+            "3:10.69",
+            "3:10.70",
+            "3:10.71",
+            "3:10.72",
+            "3:10.73"
+          ],
+          "english": "and you called it the book the Mesharef etc.,",
+          "literal": "and-you-called it the-book the-Mesharef etc.,"
+        },
+        {
+          "tokens": [
+            "3:10.74",
+            "3:10.75",
+            "3:10.76",
+            "3:10.77",
+            "3:10.78",
+            "3:10.79",
+            "3:10.80",
+            "3:10.81"
+          ],
+          "english": "and thereby you revealed to all that you are the one who scorns the sages;",
+          "literal": "and-thereby you-revealed to-all that-you (emphatic) the-one-who-scorns (object) the-sages;"
+        },
+        {
+          "tokens": [
+            "3:10.82",
+            "3:10.83",
+            "3:10.84",
+            "3:10.85",
+            "3:10.86",
+            "3:10.87",
+            "3:10.88",
+            "3:10.89",
+            "3:10.90",
+            "3:10.91",
+            "3:10.92",
+            "3:10.93",
+            "3:10.94",
+            "3:10.95",
+            "3:10.96"
+          ],
+          "english": "and as to our questions: since Ze'ir Anpin, according to their words, is our God, and he feeds us and sustains us, and Him we worship;",
+          "literal": "and-as-to our-questions since Ze'ir Anpin according-to their-words is our-God, and-he feeds-us and-sustains-us, and-Him we-worship;"
+        },
+        {
+          "tokens": [
+            "3:10.97",
+            "3:10.98",
+            "3:10.99",
+            "3:10.100",
+            "3:10.101",
+            "3:10.102",
+            "3:10.103",
+            "3:10.104",
+            "3:10.105",
+            "3:10.106",
+            "3:10.107"
+          ],
+          "english": "if so, all the worlds above the World of Emanation, who feeds and sustains them?",
+          "literal": "if-so all the-worlds that-are-above from-the-World-of Emanation who-feeds-them and-sustains-them?"
+        },
+        {
+          "tokens": [
+            "3:10.108",
+            "3:10.109",
+            "3:10.110",
+            "3:10.111",
+            "3:10.112",
+            "3:10.113",
+            "3:10.114",
+            "3:10.115",
+            "3:10.116",
+            "3:10.117",
+            "3:10.118"
+          ],
+          "english": "If he casts their flow and their sustenance from below upward, and they worship and bow down to him,",
+          "literal": "if he-casts their-flow, and-their-sustenance from-below upward, and-they worship and-bow-down to-him,"
+        },
+        {
+          "tokens": [
+            "3:10.119",
+            "3:10.120",
+            "3:10.121",
+            "3:10.122",
+            "3:10.123"
+          ],
+          "english": "or perhaps their God fed and sustained them,",
+          "literal": "or perhaps their-God fed-them and-sustained-them,"
+        },
+        {
+          "tokens": [
+            "3:10.124",
+            "3:10.125",
+            "3:10.126"
+          ],
+          "english": "he being the First Cause,",
+          "literal": "he (is) the-cause, the-first,"
+        },
+        {
+          "tokens": [
+            "3:10.127",
+            "3:10.128",
+            "3:10.129",
+            "3:10.130",
+            "3:10.131",
+            "3:10.132",
+            "3:10.133",
+            "3:10.134",
+            "3:10.135"
+          ],
+          "english": "and Him they worship, and we worship Ze'ir Anpin, who feeds us and sustains us?",
+          "literal": "and-Him they worship, and-we worship to-Ze'ir Anpin, who-feeds-us and-sustains-us?"
+        },
+        {
+          "tokens": [
+            "3:10.136",
+            "3:10.137",
+            "3:10.138",
+            "3:10.139",
+            "3:10.140",
+            "3:10.141",
+            "3:10.142",
+            "3:10.143"
+          ],
+          "english": "And if so, is the God of the upper ones not the God of the lower ones, God forbid?",
+          "literal": "and-if-so the-God-of the-upper-ones is-not the-God-of the-lower-ones, God-forbid?"
+        },
+        {
+          "tokens": [
+            "3:10.144",
+            "3:10.145",
+            "3:10.146",
+            "3:10.147",
+            "3:10.148",
+            "3:10.149",
+            "3:10.150",
+            "3:10.151"
+          ],
+          "english": "And this is the point of contradiction which we asked you to inform us and to instruct us,",
+          "literal": "and-this the-point-of contradiction which we-asked of-you to-inform-us and-to-instruct-us,"
+        },
+        {
+          "tokens": [
+            "3:10.152",
+            "3:10.153",
+            "3:10.154",
+            "3:10.155",
+            "3:10.156",
+            "3:10.157",
+            "3:10.158",
+            "3:10.159"
+          ],
+          "english": "and to this your answer came: that the case is not like the proof,",
+          "literal": "and-to this your-answer came: that-not the-case is-like the-proof,"
+        },
+        {
+          "tokens": [
+            "3:10.160",
+            "3:10.161",
+            "3:10.162",
+            "3:10.163",
+            "3:10.164",
+            "3:10.165",
+            "3:10.166"
+          ],
+          "english": "and does one bring proof to overturn a halakha given to Moses at Sinai?",
+          "literal": "and-do they-bring proof to-overturn a-halakha given-to Moses at-Sinai?"
+        },
+        {
+          "tokens": [
+            "3:10.167",
+            "3:10.168",
+            "3:10.169",
+            "3:10.170",
+            "3:10.171",
+            "3:10.172"
+          ],
+          "english": "And that the sages of Kabbalah say thus: they received it from Moses.",
+          "literal": "and-that-the-sages-of Kabbalah say thus: they-received it from-Moses."
+        }
+      ],
+      "severity": "error",
+      "reason": "The corrected English changed these fragments."
+    },
+    {
+      "ref": "3:10",
+      "path": "grammar",
+      "value": [
+        "והיתה (3:10.28) is a vav-prefixed perfect in the consecutive sense, 'and your answer was'; the subject 'your answer' follows the verb.",
+        "The verbs of 3:10.59-72 (וחרה, והלעגת, ובזית, וקראת) are a series of waw-prefixed perfects, each a separate verb of the sentence, so the English keeps them as a series.",
+        "ואם כן (3:10.136) opens a question. אלהי העליונים is a plural construct with the singular verb אינו; the English reads 'the God of' (see the token note on 3:10.138).",
+        "ועל שאלותינו (3:10.82) has no verb of its own: it is a topic phrase, and the main clause is the question that begins אם כן (3:10.97).",
+        "אם זורק הוא שפעם ופרנסתם מלמטה למעלה (3:10.108-114): 'from below upward' goes with the verb זורק, and 'their flow' and 'their sustenance' are both its objects; the lower beings are the ones that send the flow up. The upper worlds are those that 'worship and bow down' (עובדים ומשתחוים, 3:10.116-117).",
+        "The simile כמתלהמים טענו חטים והודה לו בשעורים (3:10.32-37): טענו is 'he claimed from him' (the verb with an object suffix) and והודה 'and he admitted': one claims wheat and the other admits barley, the Mishnaic case of a claim answered by an admission of something else, so that the answer misses the claim. כמתלהמים follows דברי נרגן as in Prov 18:8 and 26:22 (see apparatus)."
+      ],
+      "severity": "error",
+      "reason": "Note on the simile was wrong in method (it is not an idiom of conceding the small point), and the clause זורק ... מלמטה למעלה needed a note."
+    },
+    {
+      "ref": "3:10",
+      "path": "apparatus",
+      "value": [
+        "Base text: the Wikisource transcription of the paragraph; not yet collated against the 1931 scan (Q2 default: flagged until collated).",
+        "Echo of Prov 18:8 and 26:22 ('דברי נרגן כמתלהמים'): 'in the words of a grumbler, like ravers' (3:10.30-32). The sense of מתלהמים in the verses is itself disputed; here the context decides (cf. Prov 26:18, 'like a madman').",
+        "Echo of Deut 6:13 ('The LORD your God you shall fear, and Him you shall worship'): 'and Him we worship' (3:10.95-96)."
+      ],
+      "severity": "error",
+      "reason": "Verse echoes not listed: Prov 18:8/26:22 and Deut 6:13 (the decisions require every verse and allusion recognised)."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.1.gloss",
+      "value": "§10.",
+      "severity": "error",
+      "reason": "The author's section label (י) is given as '§10.' by the decisions."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.1.note",
+      "value": "printed section number (י), the author's own section label",
+      "severity": "error",
+      "reason": "Follows the gloss."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.15.gloss",
+      "value": "whom",
+      "severity": "style",
+      "reason": "Follows the corrected English."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.32.gloss",
+      "value": "like ravers",
+      "severity": "style",
+      "reason": "'Flustered' fits neither the context nor Prov 26:18 (מתלהלה, a madman)."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.33.gloss",
+      "value": "he claimed from him",
+      "severity": "error",
+      "reason": "טענו is a verb with an object suffix, not a plural participle: 'who claim'."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.35.gloss",
+      "value": "and he admitted",
+      "severity": "error",
+      "reason": "והודה is a different subject from טענו (the other party)."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.37.note",
+      "value": "the case of one who claims wheat and the other admits barley (an answer that does not meet the claim); the English keeps the image",
+      "severity": "error",
+      "reason": "The old note said the idiom is of a disputant who gives way on the small point; that is not what the case is."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.116.gloss",
+      "value": "worship",
+      "severity": "error",
+      "reason": "עבודה is 'worship' (decisions); 'serve' only of a human master."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.121.gloss",
+      "value": "their God",
+      "severity": "error",
+      "reason": "Singular verb (הזנם) and 'he' (הוא עלה הראשונה); nothing marks plurality or foreignness, so 'God' by the ruling."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.121.note",
+      "value": "אלהיהם with singular verbs and 'he being the First Cause': 'their God'; the form is plural, and 'their gods' is the alternative",
+      "severity": "error",
+      "reason": "Follows the gloss; alternative kept in the note as the ruling requires."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.127.gloss",
+      "value": "and Him",
+      "severity": "style",
+      "reason": "Follows the corrected English."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.129.gloss",
+      "value": "worship",
+      "severity": "error",
+      "reason": "עבודה is 'worship'."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.131.gloss",
+      "value": "worship",
+      "severity": "error",
+      "reason": "עבודה is 'worship'."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.159.gloss",
+      "value": "the proof",
+      "severity": "style",
+      "reason": "לראיה carries the article."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.160.gloss",
+      "value": "and does",
+      "severity": "style",
+      "reason": "Impersonal מביאין: 'one'."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.161.gloss",
+      "value": "one bring",
+      "severity": "style",
+      "reason": "Impersonal מביאין, not the Kabbalists."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.167.gloss",
+      "value": "And that the sages of",
+      "severity": "style",
+      "reason": "The ש of ושחכמי continues 'your answer came: that ...'."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.167.note",
+      "value": "ש continues 'your answer came: that ...'; the clause has no main verb of its own, so the English keeps 'that'",
+      "severity": "style",
+      "reason": "Records the dependent clause."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.95.note",
+      "value": "ואותו: the wording of Deut 6:13 ('and Him you shall worship'), see apparatus",
+      "severity": "error",
+      "reason": "Allusion not marked."
+    },
+    {
+      "ref": "3:10",
+      "path": "token:3:10.32.note",
+      "value": "כמתלהמים echoes דברי נרגן כמתלהמים (Prov 18:8, 26:22). The verses' sense (delicacies / wounds / something swallowed greedily) does not fit the author's use; he means those who rave. Proposed ruling: 'ravers' (cf. מתלהלה, Prov 26:18), with this note and the apparatus entry.",
+      "severity": "question",
+      "reason": "The decisions say a verse's wording governs the sense of an echo, but here the verse's own sense is disputed and does not suit the context; ruling needed."
+    },
+    {
+      "ref": "3:11",
+      "path": "english",
+      "value": "§11. We are very astonished and amazed at your words and at this reply of yours, and is it a halakha given to Moses at Sinai to believe in many divinities? And to worship other gods apart from the LORD our God, the First, and Rock of all? And He is the cause of all causes, all of them, and with deceit you came in these replies of yours to stubborn-hearted people, whom you boasted over, and showed them these words of yours, saying: \"See, I have overturned their words, and rejected their proofs in haste,\" and your pamphlet goes round to all the diners, and after they praised and lauded you, that you are sharp and keen, you brought it to us. And behold, all of it is deceptions, as if you did not know what our question turns on, and to this false error of yours we shall return again, since it is known and famous in the rules of the decisors (Kenesset ha-Gedolah, the Radbaz, and Sh\"Z), that wherever the Kabbalah disagrees with the ruling, one goes after the ruling, and this rule is famous in Israel. And if your words are that this Kabbalah is a halakha given to Moses at Sinai, and do you reject a halakha given to Moses on account of the reasoning of some tanna or amora, and all the more so a later decisor (see below, §15), and you must bring a proof and inform us where we have found this, that any tanna or amora would be so bold to dispute and to rule against the halakha received from Moses our teacher, peace be upon him. Would he not be called a fool, or a wicked and arrogant man? And in many places in the Talmud it is a saying in the mouths of the Rabbis to say: \"If it is a halakha, we accept it, and if it is reasoning, there is an answer.\"",
+      "severity": "error",
+      "reason": "Opens with '11)' (the decisions give '§11.'); 'these' belongs to 'replies' (בתשובותיך אלה), not to the people; the quotation after לאמר ends at בקש, because 'your pamphlet' and 'to us' cannot be the respondent's own words; Moses רבינו is 'Moses our teacher' (decisions, 2:34); דין in the Talmudic saying is reasoning, not a 'judgment' (verdict). 'And to worship' begins a new sentence after the question mark."
+    },
+    {
+      "ref": "3:11",
+      "path": "literal",
+      "value": "§11 very we are-astonished and-amazed at your-words and-at your-reply, this, and-is-it a-halakha given-to Moses from-Sinai to-believe in-many-divinities? and-to-worship other gods apart-from the-LORD our-God, the-First and-Rock of-all? and-He the-cause of-all the-causes, all-of-them, and-with-deceit you came in-your-replies these to people stubborn of-heart, whom you-boasted over-them, and-showed-them your-words these, saying: \"see that I-overturned their-words, and-I-rejected their-proofs in-haste,\" and-your-pamphlet goes-round to-all the-diners, and-after that they-praised-you and-lauded-you, that you sharp and-keen, you-brought it to-us. and-behold all-of-it deceptions, as-if you knew-not about what turns our-question, and-to your-error the-false this, we-shall-return again, since known and-famous in-the-rules of-the-decisors (Kenesset ha-Gedolah, the-Radbaz, and-Sh\"Z), that wherever the-Kabbalah disagrees with the-ruling, one-goes after the-ruling, and-this rule is-famous in-Israel. and-if your-words that this-Kabbalah is a-halakha given-to Moses from-Sinai, and-do you-reject a-halakha given-to Moses on-account-of the-reasoning-of some tanna or amora, and-all-the-more-so a-decisor later (see below, section 15), and-you-must bring proof and-inform-us where we-found this, that-any tanna or amora would-be-so-bold (to-brazen his-face) to-dispute and-to-rule against the-halakha received from-Moses our-teacher, peace-be-upon-him. would-he-not be-called a-fool, or a-wicked-man and-arrogant? and-in many places in-the-Talmud it-is a-saying in-their-mouths of-the-Rabbis to-say: \"if halakha we-accept, and-if (as-to) reasoning there-is an-answer.\"",
+      "severity": "error",
+      "reason": "Follows the corrected English."
+    },
+    {
+      "ref": "3:11",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "3:11.1",
+            "3:11.2",
+            "3:11.3",
+            "3:11.4",
+            "3:11.5",
+            "3:11.6",
+            "3:11.7",
+            "3:11.8",
+            "3:11.9",
+            "3:11.10"
+          ],
+          "english": "§11. We are very astonished and amazed at your words and at this reply of yours,",
+          "literal": "§11 very we are-astonished and-amazed at your-words and-at your-reply, this,"
+        },
+        {
+          "tokens": [
+            "3:11.11",
+            "3:11.12",
+            "3:11.13",
+            "3:11.14",
+            "3:11.15",
+            "3:11.16",
+            "3:11.17"
+          ],
+          "english": "and is it a halakha given to Moses at Sinai to believe in many divinities?",
+          "literal": "and-is-it a-halakha given-to Moses from-Sinai to-believe in-many-divinities?"
+        },
+        {
+          "tokens": [
+            "3:11.18",
+            "3:11.19",
+            "3:11.20",
+            "3:11.21",
+            "3:11.22",
+            "3:11.23",
+            "3:11.24",
+            "3:11.25",
+            "3:11.26"
+          ],
+          "english": "And to worship other gods apart from the LORD our God, the First, and Rock of all?",
+          "literal": "and-to-worship other gods apart-from the-LORD our-God, the-First and-Rock of-all?"
+        },
+        {
+          "tokens": [
+            "3:11.27",
+            "3:11.28",
+            "3:11.29",
+            "3:11.30",
+            "3:11.31"
+          ],
+          "english": "And He is the cause of all causes, all of them,",
+          "literal": "and-He the-cause of-all the-causes, all-of-them,"
+        },
+        {
+          "tokens": [
+            "3:11.32",
+            "3:11.33",
+            "3:11.34",
+            "3:11.35",
+            "3:11.36",
+            "3:11.37",
+            "3:11.38",
+            "3:11.39",
+            "3:11.40",
+            "3:11.41",
+            "3:11.42",
+            "3:11.43",
+            "3:11.44",
+            "3:11.45",
+            "3:11.46",
+            "3:11.47"
+          ],
+          "english": "and with deceit you came in these replies of yours to stubborn-hearted people, whom you boasted over, and showed them these words of yours, saying:",
+          "literal": "and-with-deceit you came in-your-replies these to people stubborn of-heart, whom you-boasted over-them, and-showed-them your-words these, saying:"
+        },
+        {
+          "tokens": [
+            "3:11.48",
+            "3:11.49",
+            "3:11.50",
+            "3:11.51",
+            "3:11.52",
+            "3:11.53",
+            "3:11.54",
+            "3:11.55",
+            "3:11.56"
+          ],
+          "english": "\"See, I have overturned their words, and rejected their proofs in haste,\"",
+          "literal": "\"see that I-overturned their-words, and-I-rejected their-proofs in-haste,\""
+        },
+        {
+          "tokens": [
+            "3:11.57",
+            "3:11.58",
+            "3:11.59",
+            "3:11.60",
+            "3:11.61"
+          ],
+          "english": "and your pamphlet goes round to all the diners,",
+          "literal": "and-your-pamphlet goes-round to-all the-diners,"
+        },
+        {
+          "tokens": [
+            "3:11.62",
+            "3:11.63",
+            "3:11.64",
+            "3:11.65",
+            "3:11.66",
+            "3:11.67",
+            "3:11.68",
+            "3:11.69",
+            "3:11.70",
+            "3:11.71"
+          ],
+          "english": "and after they praised and lauded you, that you are sharp and keen, you brought it to us.",
+          "literal": "and-after that they-praised-you and-lauded-you, that you sharp and-keen, you-brought it to-us."
+        },
+        {
+          "tokens": [
+            "3:11.72",
+            "3:11.73",
+            "3:11.74",
+            "3:11.75",
+            "3:11.76",
+            "3:11.77",
+            "3:11.78",
+            "3:11.79",
+            "3:11.80",
+            "3:11.81"
+          ],
+          "english": "And behold, all of it is deceptions, as if you did not know what our question turns on,",
+          "literal": "and-behold all-of-it deceptions, as-if you knew-not about what turns our-question,"
+        },
+        {
+          "tokens": [
+            "3:11.82",
+            "3:11.83",
+            "3:11.84",
+            "3:11.85",
+            "3:11.86",
+            "3:11.87"
+          ],
+          "english": "and to this false error of yours we shall return again,",
+          "literal": "and-to your-error the-false this, we-shall-return again,"
+        },
+        {
+          "tokens": [
+            "3:11.88",
+            "3:11.89",
+            "3:11.90",
+            "3:11.91",
+            "3:11.92",
+            "3:11.93",
+            "3:11.94",
+            "3:11.95"
+          ],
+          "english": "since it is known and famous in the rules of the decisors (Kenesset ha-Gedolah, the Radbaz, and Sh\"Z),",
+          "literal": "since known and-famous in-the-rules of-the-decisors (Kenesset ha-Gedolah, the-Radbaz, and-Sh\"Z),"
+        },
+        {
+          "tokens": [
+            "3:11.96",
+            "3:11.97",
+            "3:11.98",
+            "3:11.99",
+            "3:11.100",
+            "3:11.101",
+            "3:11.102",
+            "3:11.103",
+            "3:11.104",
+            "3:11.105",
+            "3:11.106",
+            "3:11.107",
+            "3:11.108"
+          ],
+          "english": "that wherever the Kabbalah disagrees with the ruling, one goes after the ruling, and this rule is famous in Israel.",
+          "literal": "that wherever the-Kabbalah disagrees with the-ruling, one-goes after the-ruling, and-this rule is-famous in-Israel."
+        },
+        {
+          "tokens": [
+            "3:11.109",
+            "3:11.110",
+            "3:11.111",
+            "3:11.112",
+            "3:11.113",
+            "3:11.114",
+            "3:11.115",
+            "3:11.116"
+          ],
+          "english": "And if your words are that this Kabbalah is a halakha given to Moses at Sinai,",
+          "literal": "and-if your-words that this-Kabbalah is a-halakha given-to Moses from-Sinai,"
+        },
+        {
+          "tokens": [
+            "3:11.117",
+            "3:11.118",
+            "3:11.119",
+            "3:11.120",
+            "3:11.121",
+            "3:11.122",
+            "3:11.123",
+            "3:11.124",
+            "3:11.125",
+            "3:11.126",
+            "3:11.127",
+            "3:11.128",
+            "3:11.129",
+            "3:11.130",
+            "3:11.131",
+            "3:11.132",
+            "3:11.133"
+          ],
+          "english": "and do you reject a halakha given to Moses on account of the reasoning of some tanna or amora, and all the more so a later decisor (see below, §15),",
+          "literal": "and-do you-reject a-halakha given-to Moses on-account-of the-reasoning-of some tanna or amora, and-all-the-more-so a-decisor later (see below, section 15),"
+        },
+        {
+          "tokens": [
+            "3:11.134",
+            "3:11.135",
+            "3:11.136",
+            "3:11.137",
+            "3:11.138",
+            "3:11.139",
+            "3:11.140",
+            "3:11.141",
+            "3:11.142",
+            "3:11.143",
+            "3:11.144",
+            "3:11.145",
+            "3:11.146"
+          ],
+          "english": "and you must bring a proof and inform us where we have found this, that any tanna or amora would be so bold",
+          "literal": "and-you-must bring proof and-inform-us where we-found this, that-any tanna or amora would-be-so-bold (to-brazen his-face)"
+        },
+        {
+          "tokens": [
+            "3:11.147",
+            "3:11.148",
+            "3:11.149",
+            "3:11.150",
+            "3:11.151",
+            "3:11.152",
+            "3:11.153",
+            "3:11.154"
+          ],
+          "english": "to dispute and to rule against the halakha received from Moses our teacher, peace be upon him.",
+          "literal": "to-dispute and-to-rule against the-halakha received from-Moses our-teacher, peace-be-upon-him."
+        },
+        {
+          "tokens": [
+            "3:11.155",
+            "3:11.156",
+            "3:11.157",
+            "3:11.158",
+            "3:11.159",
+            "3:11.160",
+            "3:11.161"
+          ],
+          "english": "Would he not be called a fool, or a wicked and arrogant man?",
+          "literal": "would-he-not be-called a-fool, or a-wicked-man and-arrogant?"
+        },
+        {
+          "tokens": [
+            "3:11.162",
+            "3:11.163",
+            "3:11.164",
+            "3:11.165",
+            "3:11.166",
+            "3:11.167",
+            "3:11.168"
+          ],
+          "english": "And in many places in the Talmud it is a saying in the mouths of the Rabbis to say:",
+          "literal": "and-in many places in-the-Talmud it-is a-saying in-their-mouths of-the-Rabbis to-say:"
+        },
+        {
+          "tokens": [
+            "3:11.169",
+            "3:11.170",
+            "3:11.171",
+            "3:11.172",
+            "3:11.173",
+            "3:11.174",
+            "3:11.175"
+          ],
+          "english": "\"If it is a halakha, we accept it, and if it is reasoning, there is an answer.\"",
+          "literal": "\"if halakha we-accept, and-if (as-to) reasoning there-is an-answer.\""
+        }
+      ],
+      "severity": "error",
+      "reason": "The corrected English and the shortened quotation changed these fragments."
+    },
+    {
+      "ref": "3:11",
+      "path": "grammar",
+      "value": [
+        "הלכה למשה מסיני להאמין (3:11.11-16) and ולעבוד (3:11.18) are infinitives after the question 'is it a halakha': 'to believe' and 'to worship' are its content.",
+        "את in ובמרמה את בא (3:11.32-34) is the second-person pronoun 'you', the subject, not the object marker; the English reads 'you came'.",
+        "ראו כי סתרתי ... בקש (3:11.48-56) is the quotation that follows לאמר (3:11.47). It ends at בקש: וחוזר קונדריסך ('your pamphlet goes round') and הבאת אותה לנו ('you brought it to us') speak of the respondent in the second person and of the questioners as 'us', so they are the author's voice, not the respondent's.",
+        "אלה in בתשובותיך אלה (3:11.35-36) belongs to 'your replies' ('these replies of yours'), not to the people that follow.",
+        "מרגלא בפומיהו דרבנן (3:11.165-168) is Bavli Aramaic, the frame of the saying; the saying itself (3:11.169-175) is in Hebrew, quoted without a reference.",
+        "ואם לדין יש תשובה (3:11.172-175): דין here is reasoning (a logical argument), set against a received halakha; 'judgment' would read as a court's verdict."
+      ],
+      "severity": "error",
+      "reason": "The note on the quotation claimed shifts between 'I' and 'you' inside it; the note on the saying called it Hebrew and Aramaic words, but it is Hebrew; the note on אלה and the note on דין were needed."
+    },
+    {
+      "ref": "3:11",
+      "path": "apparatus",
+      "value": [
+        "Allusion to Isa 44:6 ('I am the first and I am the last, and besides Me there is no God'): 'the First' (3:11.24).",
+        "Allusion to Isa 44:8 ('Is there a God besides Me? There is no Rock; I know none'): 'and Rock' (3:11.25), and 'other' with מבלעדי (3:11.21).",
+        "Allusion to Exod 20:3 ('You shall have no other gods before Me'): 'other gods' (3:11.19-20).",
+        "ושה\"ז (3:11.95): an unclear abbreviation; kept as written in the English and not expanded. No conjecture is offered."
+      ],
+      "severity": "error",
+      "reason": "The decisions require the Hebrew letters of an unclear abbreviation in the apparatus."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.1.gloss",
+      "value": "§11.",
+      "severity": "error",
+      "reason": "The author's section label (יא) is given as '§11.' by the decisions."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.1.note",
+      "value": "printed section number (יא), the author's own section label",
+      "severity": "error",
+      "reason": "Follows the gloss."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.36.note",
+      "value": "אלה modifies בתשובותיך ('these replies of yours'), not the people",
+      "severity": "error",
+      "reason": "The English had attached 'these' to the people."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.47.note",
+      "value": "לאמר introduces the quotation, which ends at בקש (3:11.56); what follows is the author's voice",
+      "severity": "error",
+      "reason": "The old note said the quotation shifts between 'I' and 'you'; it ends earlier."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.93.note",
+      "value": "כנה\"ג: Kenesset ha-Gedolah ('the Great Assembly'), a book, written out",
+      "severity": "style",
+      "reason": "The decisions require the meaning of a transliterated title at its first occurrence in the unit."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.153.gloss",
+      "value": "our teacher",
+      "severity": "error",
+      "reason": "רבי' is רבינו; Moses is 'Moses our teacher' by the decisions (2:34)."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.153.note",
+      "value": "רבי': רבינו, 'our teacher', of Moses; the fixed form 'Moses our teacher'",
+      "severity": "error",
+      "reason": "Follows the gloss."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.173.gloss",
+      "value": "as to reasoning",
+      "severity": "error",
+      "reason": "דין in the saying is reasoning (argument), not a verdict."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.56.note",
+      "value": "בקש is read as ב + קש, 'with straw': to dismiss with a straw is to dismiss lightly, without effort (the Talmudic idiom of pushing aside with a straw or reed). Proposed ruling: 'rejected their proofs with a straw' (note: 'dismissed lightly'). 'In haste' and 'in brief' are not supported by the word.",
+      "severity": "question",
+      "reason": "The translator left בקש open between 'in haste' and 'in brief'; neither reads the letters of the word, and the decisions are silent. The English keeps 'in haste' until the owner rules."
+    },
+    {
+      "ref": "3:11",
+      "path": "token:3:11.173.note",
+      "value": "דין in the saying 'אם הלכה נקבל ואם לדין יש תשובה' means reasoning (a logical argument), as against a received halakha; it is not a court's verdict. Proposed ruling: render דין as 'reasoning' in this saying, with this note; 'judgment' is not used.",
+      "severity": "question",
+      "reason": "The decisions do not rule on דין. The English has been patched to 'reasoning' as an error; the owner is asked to confirm the term for later units."
+    }
+  ],
+  "verdicts": []
+}

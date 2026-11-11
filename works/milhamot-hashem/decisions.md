@@ -745,6 +745,12 @@ senses are allowed, chosen by the use.
   identification beyond that.
 - הרא"ש: "the Rosh"; ר"ת: "Rabbeinu Tam"; הגאון alone: "the Gaon", unidentified.
   (Acronym authorities keep the acronym, by the ruling above.)
+- דין in the saying אם הלכה נקבל ואם לדין יש תשובה: "reasoning"; בקש: keep the
+  printed word's most likely sense ("in haste") with the conjecture ("with
+  straw", dismissed lightly) in a token note.
+- כמתלהמים (an echo of Prov 26:18): "ravers", the verse in `apparatus`.
+- רבי' with an apostrophe before a name of a lawgiver: "Moses our teacher".
+- A plural אלהים with a singular verb for the God of Israel: "God".
 
 ## Pending consistency pass (before the PR)
 
