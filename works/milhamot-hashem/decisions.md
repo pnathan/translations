@@ -629,6 +629,11 @@ senses are allowed, chosen by the use.
   letters in `apparatus`.
 - Ambiguous לעבד / לעבד כ-: choose by the verse or context; the other reading
   in `readings`.
+- עבודה אחרת: "other worship" (the Talmudic euphemism for idolatry), noted at
+  first occurrence in the unit; with אל אחר = "another god".
+- A printed word that echoes a verse's likelier word (נבוש for נמוש, Job 23:12):
+  translate the printed word, record the likelier one in the token note and
+  `apparatus`.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.

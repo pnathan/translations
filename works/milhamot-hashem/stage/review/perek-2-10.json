@@ -1,0 +1,602 @@
+{
+  "unit": "perek-2-10",
+  "model": "sonnet",
+  "summary": "The unit is a sound, complete translation of four short paragraphs; every word is glossed and the Hebrew-letter and phrase checks hold. Faults: 2:19 left the 'lowly to the honoured' clause without a main clause and misrendered 'men of understanding' (Job 34:10) and 'from the commandments'; 2:20 renders עבודה אחרת two ways and splits 'kneel and bow down'; 2:21 mistranslates the weqatal verb of 1 Kgs 19:18 ('Yet I have left') and adds 'then' for הוא. Several allusions (Gen 15:6, Job 34:10, Job 23:12, Job 6:18, Eccl 7:14) were not recognised.",
+  "patches": [
+    {
+      "ref": "2:19",
+      "path": "english",
+      "value": "The first: there is a great difference between one who worships and prays to something, and one who only honours something. To pray to something and to worship something with worship is forbidden to us, whether it be a man or an angel, corporeal or spiritual; but to bestow honour, as a youth honours an elder, a servant his master, and the lowly the honoured, is permitted. So too we find of our father Abraham, who believed in the LORD, that he shattered the monuments of idols and disowned them, and bowed down to the ground before three angels standing over him, even though they appeared to him as men. So too Joshua did at Jericho: when he saw a man standing before him and took him for an angel, he fell to the ground before him. And if men of understanding like them, in whose ways we walk and from the commandments of whose lips we do not shrink, did this, and it was not counted to them as a sin of idolatry; it is clear that to honour a Torah scroll is not the worship of idols.",
+      "severity": "error",
+      "reason": "The second half of the contrast has no main clause ('it is permitted for the lowly to the honoured' adds 'it' and 'for'; the Hebrew's subject is the infinitive לחלוק כבוד with its three examples, and מותר is its predicate). Also: 'idol-monuments' is an invented compound for מצבות אלילים (construct); אנשי לבב is Job 34:10, 'men of understanding' (the verse's sense governs, per the allusion ruling); 'whose commandments of their lips' is ungrammatical and מ in וממצות is 'from'."
+    },
+    {
+      "ref": "2:19",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "2:19.1",
+            "2:19.2",
+            "2:19.3",
+            "2:19.4",
+            "2:19.5",
+            "2:19.6",
+            "2:19.7",
+            "2:19.8",
+            "2:19.9",
+            "2:19.10",
+            "2:19.11",
+            "2:19.12",
+            "2:19.13"
+          ],
+          "english": "The first: there is a great difference between one who worships and prays to something, and one who only honours something.",
+          "literal": "the-first the-difference great between the-worshipper and-the-prayer to-some-thing and-between the-honourer some-thing only"
+        },
+        {
+          "tokens": [
+            "2:19.14",
+            "2:19.15",
+            "2:19.16",
+            "2:19.17",
+            "2:19.18",
+            "2:19.19",
+            "2:19.20",
+            "2:19.21",
+            "2:19.22",
+            "2:19.23",
+            "2:19.24",
+            "2:19.25",
+            "2:19.26",
+            "2:19.27"
+          ],
+          "english": "To pray to something and to worship something with worship is forbidden to us, whether it be a man or an angel, corporeal or spiritual;",
+          "literal": "to-pray and-to-worship worship to-some-thing forbidden to-us, be-it man or angel, corporeal or spiritual"
+        },
+        {
+          "tokens": [
+            "2:19.28",
+            "2:19.29",
+            "2:19.30",
+            "2:19.31",
+            "2:19.32",
+            "2:19.33",
+            "2:19.34",
+            "2:19.35",
+            "2:19.36",
+            "2:19.37",
+            "2:19.38",
+            "2:19.39",
+            "2:19.40",
+            "2:19.41"
+          ],
+          "english": "but to bestow honour, as a youth honours an elder, a servant his master, and the lowly the honoured, is permitted.",
+          "literal": "but to-bestow honour, as the-youth honours the-elder, the-servant [object] his-master, and-the-lowly to-the-honoured is-permitted"
+        },
+        {
+          "tokens": [
+            "2:19.42",
+            "2:19.43",
+            "2:19.44",
+            "2:19.45",
+            "2:19.46",
+            "2:19.47",
+            "2:19.48",
+            "2:19.49",
+            "2:19.50",
+            "2:19.51",
+            "2:19.52",
+            "2:19.53",
+            "2:19.54"
+          ],
+          "english": "So too we find of our father Abraham, who believed in the LORD, that he shattered the monuments of idols and disowned them,",
+          "literal": "and-so we-found in-Abraham our-father who believed in-the-LORD, shattered and-broke the-monuments-of idols and-disowned them"
+        },
+        {
+          "tokens": [
+            "2:19.55",
+            "2:19.56",
+            "2:19.57",
+            "2:19.58",
+            "2:19.59",
+            "2:19.60",
+            "2:19.61",
+            "2:19.62",
+            "2:19.63",
+            "2:19.64",
+            "2:19.65",
+            "2:19.66"
+          ],
+          "english": "and bowed down to the ground before three angels standing over him, even though they appeared to him as men.",
+          "literal": "bowed-down to-the-ground before three angels the-standing over-him, even-though they-appeared to-him as-men"
+        },
+        {
+          "tokens": [
+            "2:19.67",
+            "2:19.68",
+            "2:19.69",
+            "2:19.70",
+            "2:19.71",
+            "2:19.72",
+            "2:19.73",
+            "2:19.74",
+            "2:19.75",
+            "2:19.76",
+            "2:19.77",
+            "2:19.78",
+            "2:19.79"
+          ],
+          "english": "So too Joshua did at Jericho: when he saw a man standing before him and took him for an angel, he fell to the ground before him.",
+          "literal": "and-so Joshua did at-Jericho when-he-saw a-man standing before-him and-took-him for-an-angel, fell before-him to-the-ground"
+        },
+        {
+          "tokens": [
+            "2:19.80",
+            "2:19.81",
+            "2:19.82",
+            "2:19.83",
+            "2:19.84",
+            "2:19.85",
+            "2:19.86",
+            "2:19.87",
+            "2:19.88",
+            "2:19.89",
+            "2:19.90",
+            "2:19.91",
+            "2:19.92"
+          ],
+          "english": "And if men of understanding like them, in whose ways we walk and from the commandments of whose lips we do not shrink, did this,",
+          "literal": "and-if men-of heart like-them in-whose ways we-walk and-by-commandments-of their-lips not we-shrink-from did this"
+        },
+        {
+          "tokens": [
+            "2:19.93",
+            "2:19.94",
+            "2:19.95",
+            "2:19.96",
+            "2:19.97",
+            "2:19.98",
+            "2:19.99",
+            "2:19.100",
+            "2:19.101",
+            "2:19.102",
+            "2:19.103",
+            "2:19.104",
+            "2:19.105",
+            "2:19.106"
+          ],
+          "english": "and it was not counted to them as a sin of idolatry; it is clear that to honour a Torah scroll is not the worship of idols.",
+          "literal": "and-not was-counted to-them as-sin idolatry; clear it-is that to-honour a-scroll-of the-Torah is-not the-worship-of idols"
+        }
+      ],
+      "severity": "error",
+      "reason": "The new English changed the fragments."
+    },
+    {
+      "ref": "2:19",
+      "path": "token:2:19.40.note",
+      "value": "לנכבד: the honoured (the one to whom honour is given); the verb 'honours' is understood from the previous clause",
+      "severity": "style",
+      "reason": "Elliptical clause needs a note for a learner."
+    },
+    {
+      "ref": "2:19",
+      "path": "token:2:19.51.gloss",
+      "value": "monuments of",
+      "severity": "style",
+      "reason": "Construct without article; the gloss added 'the'."
+    },
+    {
+      "ref": "2:19",
+      "path": "token:2:19.60.gloss",
+      "value": "who were standing",
+      "severity": "style",
+      "reason": "הנצבים is a participle, not a perfect (checklist 4)."
+    },
+    {
+      "ref": "2:19",
+      "path": "token:2:19.82.gloss",
+      "value": "understanding",
+      "severity": "style",
+      "reason": "לבב in אנשי לבב is Job 34:10, 'men of understanding'."
+    },
+    {
+      "ref": "2:19",
+      "path": "token:2:19.82.note",
+      "value": "לבב: literally 'heart'; the phrase אנשי לבב is Job 34:10, where it means men of understanding",
+      "severity": "style",
+      "reason": "Note for the learner."
+    },
+    {
+      "ref": "2:19",
+      "path": "token:2:19.87.gloss",
+      "value": "and from the commandments of",
+      "severity": "error",
+      "reason": "The prefix מ in וממצות is 'from', not 'by'."
+    },
+    {
+      "ref": "2:19",
+      "path": "token:2:19.90.note",
+      "value": "נבוש: 'we are ashamed / shrink from'. Question: the phrase echoes Job 23:12, 'מצות שפתיו ולא אמיש' (I have not departed from the commandment of His lips); the author may intend נמוש, 'we depart'. 'Shrink from' fits both; the printed word is translated and the alternative recorded in apparatus.",
+      "severity": "question",
+      "reason": "Decisions have a ruling for a printed word close to a likelier one (יכינו for יבינו): proposed ruling, translate by the sense, give printed word and likelier in token note and apparatus. Owner to confirm נבוש/נמוש."
+    },
+    {
+      "ref": "2:19",
+      "path": "apparatus",
+      "value": [
+        "Text translated from Wikisource as the base text; not yet collated with the 1931 scan.",
+        "Gen 15:6: 'אשר האמין בה'' echoes 'והאמן בה''.",
+        "Gen 18:2: the verse behind 'השתחווה ארצה לפני שלשה מלאכים' (Abraham bows to the ground before the three men); the author calls them angels.",
+        "Josh 5:13-14: the verse behind Joshua's falling to the ground before the man who stands before him.",
+        "Job 34:10: אנשי לבב, 'men of understanding'.",
+        "Job 23:12: cf. 'מצות שפתיו ולא אמיש'; the printed נבוש may be a variant of נמוש (see the note on 2:19.90)."
+      ],
+      "severity": "style",
+      "reason": "Allusions not recognised (Gen 15:6, Job 34:10, Job 23:12); Q2 default line on Wikisource base text missing from the unit's first segment."
+    },
+    {
+      "ref": "2:20",
+      "path": "english",
+      "value": "Second: the Jews are very careful in matters of other worship, and even to appear as one who honours it is forbidden to them. As they said in the Talmud and in the Rambam: \"If a man turned aside from the road he was taking near a house of idolatry, and a thorn lodged in his foot, he may not bend, nor even kneel and bow down to remove it there, so that he should not appear in the eyes of passers-by as one who bows down and honours idolatry.\" And if the prostration before the Ark were like other worship, the Jews would not have kept this custom; and since they kept it from the days of their fathers, it is a sign of truth that it is not corrupted.",
+      "severity": "error",
+      "reason": "'עבודה אחרת' is rendered 'other worship' in the first sentence and 'worship of another kind' in the second: same phrase, same English. Also 'nor bow down' makes a third negated verb; the Hebrew is 'nor even kneel and bow down' (אף לא יכרע וישתחוה)."
+    },
+    {
+      "ref": "2:20",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "2:20.1",
+            "2:20.2",
+            "2:20.3",
+            "2:20.4",
+            "2:20.5",
+            "2:20.6",
+            "2:20.7",
+            "2:20.8",
+            "2:20.9",
+            "2:20.10",
+            "2:20.11",
+            "2:20.12"
+          ],
+          "english": "Second: the Jews are very careful in matters of other worship, and even to appear as one who honours it is forbidden to them.",
+          "literal": "second the-Jews are-careful very in-matters-of worship other, and-even to-appear as-honouring-it forbidden to-them"
+        },
+        {
+          "tokens": [
+            "2:20.13",
+            "2:20.14",
+            "2:20.15",
+            "2:20.16"
+          ],
+          "english": "As they said in the Talmud and in the Rambam:",
+          "literal": "as they-said in-the-Talmud and-in-the-Rambam:"
+        },
+        {
+          "tokens": [
+            "2:20.17",
+            "2:20.18",
+            "2:20.19",
+            "2:20.20",
+            "2:20.21",
+            "2:20.22",
+            "2:20.23",
+            "2:20.24",
+            "2:20.25",
+            "2:20.26",
+            "2:20.27",
+            "2:20.28"
+          ],
+          "english": "\"If a man turned aside from the road he was taking near a house of idolatry, and a thorn lodged in his foot,",
+          "literal": "if a-man turned-aside the-road of his-way near a-house-of idolatry, and-lodged in-him a-thorn in-his-foot"
+        },
+        {
+          "tokens": [
+            "2:20.29",
+            "2:20.30",
+            "2:20.31",
+            "2:20.32",
+            "2:20.33",
+            "2:20.34",
+            "2:20.35",
+            "2:20.36",
+            "2:20.37",
+            "2:20.38",
+            "2:20.39",
+            "2:20.40",
+            "2:20.41",
+            "2:20.42",
+            "2:20.43",
+            "2:20.44"
+          ],
+          "english": "he may not bend, nor even kneel and bow down to remove it there, so that he should not appear in the eyes of passers-by as one who bows down and honours idolatry.\"",
+          "literal": "not bend, nor not kneel, and bow-down to-remove-it there, so-that not appear in-the-eyes-of the-passers-by as-bowing-down and-honouring idolatry"
+        },
+        {
+          "tokens": [
+            "2:20.45",
+            "2:20.46",
+            "2:20.47",
+            "2:20.48",
+            "2:20.49",
+            "2:20.50",
+            "2:20.51"
+          ],
+          "english": "And if the prostration before the Ark were like other worship,",
+          "literal": "and-if was the-prostration before the-Ark like-worship of-another"
+        },
+        {
+          "tokens": [
+            "2:20.52",
+            "2:20.53",
+            "2:20.54",
+            "2:20.55",
+            "2:20.56",
+            "2:20.57"
+          ],
+          "english": "the Jews would not have kept this custom;",
+          "literal": "not would-be the-Jews keeping in-the-custom of-this"
+        },
+        {
+          "tokens": [
+            "2:20.58",
+            "2:20.59",
+            "2:20.60",
+            "2:20.61",
+            "2:20.62",
+            "2:20.63",
+            "2:20.64",
+            "2:20.65",
+            "2:20.66",
+            "2:20.67",
+            "2:20.68"
+          ],
+          "english": "and since they kept it from the days of their fathers, it is a sign of truth that it is not corrupted.",
+          "literal": "and-since they-kept it from-the-days-of their-fathers, a-sign of-truth it that it-is-not corrupted"
+        }
+      ],
+      "severity": "error",
+      "reason": "The new English changed the fragments."
+    },
+    {
+      "ref": "2:20",
+      "path": "literal",
+      "value": "second the-Jews are-careful very in-matters-of worship other, and-even to-appear as-honouring-it forbidden to-them. as they-said in-the-Talmud and-in-the-Rambam: if turned-aside a-man the-paths-of his-way near a-house-of idolatry, and-lodged in-him a-thorn in-his-foot, not bend, even not kneel and-bow-down to-remove-it there, so-that not appear in-the-eyes-of the-passers-by as-bowing-down and-honouring idolatry; and-if was the-prostration before the-Ark like-worship other; not would-be the-Jews keeping in-the-custom of-this, and-since they-kept in-it from-the-days-of their-fathers, a-sign of-truth it that it-is-not corrupted.",
+      "severity": "style",
+      "reason": "Literal in Hebrew order: 'nor not' for אף לא; 'other' for אחרת; ארחות is 'paths'."
+    },
+    {
+      "ref": "2:20",
+      "path": "token:2:20.31.gloss",
+      "value": "even",
+      "severity": "error",
+      "reason": "אף is 'even'; it was glossed 'nor'."
+    },
+    {
+      "ref": "2:20",
+      "path": "token:2:20.51.gloss",
+      "value": "other",
+      "severity": "error",
+      "reason": "אחרת is 'other'; the gloss 'of another kind' differs from 2:20.7."
+    },
+    {
+      "ref": "2:20",
+      "path": "token:2:20.7.note",
+      "value": "עבודה אחרת: 'other worship', the Talmudic euphemism for idolatry (עבודה זרה). Proposed ruling: render 'other worship' every time, as with אל אחר 'another god', so that the euphemism shows.",
+      "severity": "question",
+      "reason": "Decisions are silent on עבודה אחרת."
+    },
+    {
+      "ref": "2:20",
+      "path": "grammar",
+      "value": [
+        "כמו שאמרו בתלמוד וברמב\"ם: the formula אמרו introduces the passage that follows, which is therefore in quotation marks; no reference is given.",
+        "לא ישח אף לא יכרע וישתחוה להוציאו: the negative governs all three verbs: he may not stoop, nor even kneel and bow down; the clause 'so that he should not appear' gives the reason.",
+        "ואם היתה ... לא היו היהודים מחזיקים: a counterfactual, both clauses in the past; the author argues from what the Jews would not have done.",
+        "וכיון שהחזיקו בו מימי אבותיהם אות אמת הוא כי אינה משובשת: the argument from custom; 'since they kept it' is causal, and 'that it is not corrupted' gives the sign's content."
+      ],
+      "severity": "error",
+      "reason": "The note said 'two negated' of three verbs, and described the quoted passage as given in the author's own wording, which the pack does not establish."
+    },
+    {
+      "ref": "2:20",
+      "path": "apparatus",
+      "value": [
+        "Job 6:18: cf. 'ילפתו ארחות דרכם' (they turn aside the paths of their way), the source of the wording לפת ארחות דרכו.",
+        "The author names no tractate or chapter for the Talmud and Rambam passage."
+      ],
+      "severity": "style",
+      "reason": "Allusion recognised; the earlier line asserted 'paraphrase', which the pack does not show."
+    },
+    {
+      "ref": "2:21",
+      "path": "english",
+      "value": "Third: one of the customs of honour by which they once honoured idolatry was kissing. So too we find in Scripture: \"And I will leave in Israel seven thousand, all the knees that have not bowed to Baal, and every mouth that has not kissed him.\" And it is said: \"Those who sacrifice men kiss calves.\" And if it is so, will all who kiss the Torah scroll be worshippers of idols? But the matter is not so, for this is only honour, that they honour their Torah, and not worship; and therefore the prostration before the Ark is also only honour and not worship.",
+      "severity": "error",
+      "reason": "1 Kgs 19:18: והשארתי is weqatal, 'and I will leave'; 'Yet' and 'I have left' are not in the Hebrew. ואם כן הוא is 'and if it is so': the translation drops 'and' and 'it is'."
+    },
+    {
+      "ref": "2:21",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "2:21.1",
+            "2:21.2",
+            "2:21.3",
+            "2:21.4",
+            "2:21.5",
+            "2:21.6",
+            "2:21.7",
+            "2:21.8",
+            "2:21.9",
+            "2:21.10",
+            "2:21.11"
+          ],
+          "english": "Third: one of the customs of honour by which they once honoured idolatry was kissing.",
+          "literal": "third one of-the-customs-of the-honour by-which they-honoured formerly [object] idolatry was the-kissing"
+        },
+        {
+          "tokens": [
+            "2:21.12",
+            "2:21.13",
+            "2:21.14",
+            "2:21.15",
+            "2:21.16",
+            "2:21.17",
+            "2:21.18",
+            "2:21.19",
+            "2:21.20",
+            "2:21.21",
+            "2:21.22",
+            "2:21.23",
+            "2:21.24",
+            "2:21.25",
+            "2:21.26",
+            "2:21.27",
+            "2:21.28",
+            "2:21.29",
+            "2:21.30"
+          ],
+          "english": "So too we find in Scripture: \"And I will leave in Israel seven thousand, all the knees that have not bowed to Baal, and every mouth that has not kissed him.\"",
+          "literal": "and-so we-found in-Scripture: I-have-left in-Israel seven-thousand, all the-knees which not bowed to-Baal, and-every the-mouth which not kissed to-him"
+        },
+        {
+          "tokens": [
+            "2:21.31",
+            "2:21.32",
+            "2:21.33",
+            "2:21.34",
+            "2:21.35"
+          ],
+          "english": "And it is said: \"Those who sacrifice men kiss calves.\"",
+          "literal": "and-it-is-said: sacrificers-of men calves kiss"
+        },
+        {
+          "tokens": [
+            "2:21.36",
+            "2:21.37",
+            "2:21.38",
+            "2:21.39",
+            "2:21.40",
+            "2:21.41",
+            "2:21.42",
+            "2:21.43",
+            "2:21.44",
+            "2:21.45",
+            "2:21.46"
+          ],
+          "english": "And if it is so, will all who kiss the Torah scroll be worshippers of idols?",
+          "literal": "and-if so then will-be all the-kissers [object] scroll-of the-Torah worshippers-of idols?"
+        },
+        {
+          "tokens": [
+            "2:21.47",
+            "2:21.48",
+            "2:21.49",
+            "2:21.50",
+            "2:21.51",
+            "2:21.52",
+            "2:21.53",
+            "2:21.54",
+            "2:21.55",
+            "2:21.56",
+            "2:21.57",
+            "2:21.58",
+            "2:21.59",
+            "2:21.60"
+          ],
+          "english": "But the matter is not so, for this is only honour, that they honour their Torah, and not worship;",
+          "literal": "but the-matter not so, for not is this only honour that they-honour [object] their-Torah and-not worship"
+        },
+        {
+          "tokens": [
+            "2:21.61",
+            "2:21.62",
+            "2:21.63",
+            "2:21.64",
+            "2:21.65",
+            "2:21.66",
+            "2:21.67",
+            "2:21.68",
+            "2:21.69",
+            "2:21.70"
+          ],
+          "english": "and therefore the prostration before the Ark is also only honour and not worship.",
+          "literal": "and-therefore the-prostration before the-Ark it also only honour and-not worship"
+        }
+      ],
+      "severity": "error",
+      "reason": "The new English changed the fragments."
+    },
+    {
+      "ref": "2:21",
+      "path": "literal",
+      "value": "third one of-the-customs-of the-honour which they-honoured formerly [object] the-idolatry was the-kissing. and-so we-found in-Scripture: and-I-will-leave in-Israel seven-thousand, all the-knees which not bowed to-Baal, and-every the-mouth which not kissed to-him; and-it-is-said: sacrificers-of men calves they-kiss. and-if so it-is will-be all the-kissers [object] scroll-of the-Torah worshippers-of idols? but the-matter not so, for not is this only honour that they-honour [object] their-Torah, and-not worship; and-therefore the-prostration before the-Ark it also only honour and-not worship.",
+      "severity": "error",
+      "reason": "Literal follows the corrected verse; 'then' is not in the Hebrew."
+    },
+    {
+      "ref": "2:21",
+      "path": "token:2:21.15.gloss",
+      "value": "and I will leave",
+      "severity": "error",
+      "reason": "weqatal."
+    },
+    {
+      "ref": "2:21",
+      "path": "token:2:21.15.note",
+      "value": "והשארתי: weqatal, 'and I will leave' (God to Elijah, 1 Kgs 19:18); the earlier note that the author takes it as a sign of kissing Baal is not in the text",
+      "severity": "error",
+      "reason": "The old note said something the Hebrew does not."
+    },
+    {
+      "ref": "2:21",
+      "path": "token:2:21.38.gloss",
+      "value": "it is",
+      "severity": "error",
+      "reason": "הוא is 'it is'; it was glossed 'then', a word the Hebrew lacks."
+    },
+    {
+      "ref": "2:21",
+      "path": "token:2:21.38.note",
+      "value": "ואם כן הוא: 'and if it is so'",
+      "severity": "error",
+      "reason": "Replaces a note that justified an added 'then'."
+    },
+    {
+      "ref": "2:21",
+      "path": "grammar",
+      "value": [
+        "וכן מצינו במקרא: the verse is 1 Kgs 19:18, quoted in the words of the verse; 'we find' introduces it without a formula.",
+        "ונאמר זובחי אדם עגלים ישקון: the second verse, Hos 13:2, with the spelling זובחי (the verse has זבחי); the subject is the sacrificers and ישקון is the plural imperfect, 'kiss' (or, as a wish, 'let them kiss').",
+        "ואם כן הוא יהיו כל המנשקים ... עובדי ע\"ז?: a question about the future, answered by 'but this is not so'.",
+        "כי אין זה רק כבוד שיכבדו את תורתם ולא עבודה: 'for this is only honour, that they honour their Torah and not worship' explains 'this'."
+      ],
+      "severity": "error",
+      "reason": "The old note said the 1 Kgs verse was in the author's wording as if it differed; it is verbatim. Hos 13:2 spelling not recorded."
+    },
+    {
+      "ref": "2:21",
+      "path": "apparatus",
+      "value": [
+        "1 Kgs 19:18: quoted in the verse's own words.",
+        "Hos 13:2: the author writes זובחי, the verse זבחי; ישקון may also be read as a wish, 'let them kiss calves'."
+      ],
+      "severity": "error",
+      "reason": "Apparatus claimed a difference in wording that is not there and missed the spelling difference that is."
+    },
+    {
+      "ref": "2:22",
+      "path": "apparatus",
+      "value": [
+        "Eccl 7:14: cf. 'זה לעמת זה' (the one over against the other)."
+      ],
+      "severity": "style",
+      "reason": "The idiom זה לעומת זה is Eccl 7:14."
+    }
+  ],
+  "verdicts": []
+}
