@@ -495,6 +495,11 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - אורה זו תורה (the exegetic formula, Esth 8:16): "'orah' means Torah".
 - "World to Come" in the author's mouth: "world to come" (as in Avot); the Hebrew
   for בחיי alone is "Bachya".
+- ר' before a name: "Rabbi" (בר' בחיי: "Rabbi Bachya"); רבינו = "Rabbeinu".
+- A Hebrew period with no main clause that is completed in the next segment:
+  keep the Hebrew full stops and record the continuation in the segment `note`;
+  join with semicolons only where the English becomes unreadable.
+
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:

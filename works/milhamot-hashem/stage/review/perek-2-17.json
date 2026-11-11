@@ -1,0 +1,1565 @@
+{
+ "unit": "perek-2-17",
+ "model": "sonnet",
+ "summary": "The paragraph is faithful in outline but has several errors of fact and reading: the section numbers are 172 and 176 (not 272/276); פירש is 'separated' not 'explained'; אלפין are alefs, and the two verses 1 Kgs 7:26 and 2 Chr 4:5 were left unidentified; מספר יהי אור is 'the number of Let there be light' (232), not a book; the Deut verse is 30:8 verbatim and several verses (Isa 32:15, Neh 6:8, Gen 46:1, Exod 19:21) were unrecognised while an Avot reference was added against the ruling. Quotation marks around the Menorat ha-Ma'or passages were broken, fragments began in lower case, and 'lore', 'own' and 'that' were added. The open points are decided from context: the Chavot Yair quotation ends at 267, העליון is 'the above-mentioned', לי\"ח is conjecturally 'to the initiates', לחשוב is 'to think' after 'break through', סדר is left as 'Seder'.",
+ "patches": [
+  {
+   "ref": "2:33",
+   "path": "english",
+   "value": "Have you seen, to know the words of the Gaon Chavot Yair, how afraid and trembling he is to teach about separation, and relies on the words of the Gaon, the author of Shemen la-Ma'or, whose words were cited above, yet he is still afraid to say it outright, lest it slacken the hands from engaging in this holy wisdom, and how much he praises this wisdom, for one who merits it, to learn it from the mouth of a Kabbalist, and admits that anyone who holds himself back from studying it, after receiving it, is pushed away from his precinct; and also he permits engaging in the words of Kabbalah, and if he sees puzzling things before him, he should accept them in the faith of an artisan, and attribute it to the shortness of his understanding. If so, your two witnesses, the Ribash and Chavot Yair, will testify and bear witness against you that you invent things from your own heart; and where is his separation, that he separated, as you said? Did he not himself say, \"Would that a spirit from on high were poured upon us,\" etc.? And I bring you proof that he merited the wisdom of Kabbalah, for in section 172 he wrote, and these are his words: \"that it is possible there are further matters of secret and concealment in two verses, 'two thousand bath it held' and 'three thousand baths,' for at the sin of the first man three alefs were corrupted, of truth, of Adonai and of man, and there remained mat-din-dam against idolatry, illicit unions and bloodshed. And King David repaired truth; therefore he did not taste sleep at night, and did not manage to repair judgment, and also blood, as the Holy One, blessed be He, said: 'You shall not build the house, for you have shed much blood; only your son Solomon, for peace, etc.' And Solomon repaired two alefs, and with the alef of his father, three alefs were repaired, and the matter of bat is known to the initiates, for the main flaw is there, and he further expanded on the secret of the matter there. And section 176, on the matter of one who feeds a man blind in one of his eyes, and with all this I protested, for it seems to me that in both cases there is room to distinguish. However, where there is another fitting and suitable one like him, for it is known that the 248 limbs are a throne and a likeness of the 248 supernal lights, and the 248 limbs of the soul. And so, in every such case the throne is flawed, for according to the hidden there are heaps upon heaps of secret mysteries in the parts of the body, and there is a lack of flow in the cup of blessing.\" The above-mentioned, too, in the colophon of the book, wrote that he made 635 responsa and gathered from them 232, the number of \"Let there be light,\" and it has the gematria of the four fillings of YHVH, 72, 63, 45, 52: the son who is in Abba and Imma, and Ze'ir and his Nukva. And further, \"Let there be light\" is Yah ya'ir (\"Yah will give light\"). These are the sources of Tif'eret (Beauty) and Malkhut (Kingship) in Binah (Understanding), which is the light emanated on the first day. And he further expanded on many matters of secret and concealment. Also his father, the author of Shemen la-Ma'or, was a divine Kabbalist, for his verses were printed at the end of the book. And these are according to the Name of forty-two, and the twelve combinations of YHVH, and the twenty-four combinations of Adonai, and the Name of twenty-two. Also the true sage, the author of Menorat ha-Ma'or, was a divine Kabbalist, for in chapter 93 he wrote on \"Baruch She'amar\": \"its way in it, the number of the ten, the ten, etc.\" And in chapter 95 he wrote: \"Kaddish is not said with fewer than ten, and the reason is that with ten the holiness is completed, which is above the ten sefirot.\" And in chapter 133 he wrote: \"When Jacob was going down to Egypt, he saw that the exile had begun in him and in his seed, and he feared it and sacrificed sacrifices to the Fear of his father Isaac, so that the attribute of judgment would not be stretched out against him; and did this at Beersheba, which is a house of prayer for his fathers, and offered peace-offerings to complete to him all the attributes, as they expounded: 'shelamim, which cast peace', to complete to him the attribute of Gevurah (Might).\" And in chapter 147 he wrote: \"It is found that the completeness of holiness is in the ten, which allude to the ten havayot, and they are the ten sayings by which the world was created.\" And in chapter 153 he wrote: \"And in the way of truth, that in six days the LORD made, etc. and on the seventh day it is Sabbath, and it has no male mate, and the Assembly of Israel is its female mate, as it is said: 'and the earth,' and behold, it is the Eighth Day of Assembly, for there everything is held back. And this is their saying: 'The eighth is a festival in itself,' and it is the completion of the first, for it is the emanation of the first ones, and it is not in their unity, and whoever understands the havayot will be wise and find the truth.\" And in the colophon of the book he wrote: \"And the fifth, I left out the grave matters, which are hidden and lofty, and there is no one who can attain them but a single individual in a generation.\" Thus he wished to write secret matters in his work, but because they are not fit for every person. Have you seen, to know that no one disputes the Kabbalah: neither the early ones nor the later ones, neither the many nor the individuals, neither the great nor the small. On the contrary, all agree that whoever merits Kabbalah from mouth to ear, there is no finer virtue for you than it, and that it is forbidden to expound and investigate it; but if he wishes, he should accept it in complete faith and not explain it by his human intellect. For he should attribute what troubles him to the shortness of his understanding, and not break through to think anything of the soul. And with this, all the words of the lowest of the low are complete. Seder. And you shall return and listen to the voice of the LORD.",
+   "severity": "error",
+   "reason": "Section numbers are 172 and 176 (קע\"ב, קע\"ו), not 272/276, and external sections are 'section', not '§'. פירש in 'פרישתו שפירש' is 'separated', not 'explained'. אלפין are alefs (the letters), not 'alafin'; the two verses are 1 Kgs 7:26 and 2 Chr 4:5 ('two thousand bath it held', 'three thousand baths'). לדזכי is Aramaic 'for one who merits it'; ממחיצתו is 'his' precinct. מספר יהי אור is 'the number of \"Let there be light\"' (232, the point of the gematria), not a book title; תשובות is 'responsa'; יה יאיר is 'Yah will give light'. 'Lore' and 'own' are added; 'that' in the Baruch She'amar quotation is added. The Menorat ha-Ma'or quotations are closed where they end (chapter 95 and 153 ran past their closing marks), with nested single marks and capitals fixed; בן זוג / בת זוגו keep male/female; ותשלומי ראשון הוא כי הוא is 'it is the completion of the first, for it is the emanation of the first ones'; 'and the earth' is the end of Exod 20:11 and 'and behold' is the author's; שמיני רגל has no 'Day'; fragments joined (ruling on אם...או / full stops); קבלה kept as 'Kabbalah'; פ' + numeral is 'chapter' (ruling: numeral exceeds any parashot count); יהרוס לחשוב is 'break through to think' (Exod 19:21,24); סדר is left as 'Seder'; 'hearken' modernised."
+  },
+  {
+   "ref": "2:33",
+   "path": "literal",
+   "value": "have you seen to know the words of the Gaon Chavot Yair how he afraid and trembling to teach about separation and relies on the words of the Gaon the author of Shemen la-Ma'or were brought his words above yet he afraid to say it outright lest it cause slackening of the hands from engaging the wisdom the holy this and how much he praises the wisdom this for-one-who-merits it to learn it from the mouth of a Kabbalist and admits that anyone who holds back himself from studying it after that he received it he is pushed away from his precinct and also also he permits to engage in the words of Kabbalah and if he sees before him things puzzling that he accept them in the faith of an artisan and attribute it to the shortness of his understanding if so two your witnesses the Ribash and Chavot Yair will testify and will bear witness against you that you invent things from your heart and where is it his separation that he separated as you said did not he himself say would that be given and be poured upon us a spirit from on high etc. and I bring to you proof that he merited the wisdom of Kabbalah for behold in section 172 he wrote and these are his words that it is possible that there are further matters of secret and hidden in two verses of-two-thousand bath it-held and three thousand baths for at the sin of Adam the first were corrupted three alefs of truth and of Adonai and of man and there remained mat-din-dam against idolatry uncovering illicit unions and shedding of blood and David the king repaired truth therefore not tasted sleep at night and not manage to repair judgment also blood as that said the Holy One, blessed be He not you shall build the house for blood much you have shed only your son Solomon for peace etc. and repaired Solomon two alefs and with the alef of his father were repaired three alefs and the matter of bat is known to the-initiates for the main flaw there and further expanded on the secret of the matter there and section 176 on the matter of the one who feeds a blind man in one (of) his eyes and with all this I protested a challenge for it seems to me that in both of them there is room to distinguish however where there is another fitting and suitable like him for it is known that the 248 limbs they are a throne and a likeness of the 248 lights supernal and the 248 limbs of the soul and if so every that such case the throne flawed for according to the mouth of the hidden there are heaps upon heaps secrets hidden in the limbs of the body and there is a lack of flow in the cup of blessing the above-mentioned also in the colophon of the book wrote that he made 635 responsa and gathered from them 232 the number of let-there-be light and it is of the gematria four fillings of YHVH 72 63 45 52, the son who is in Abba and Imma and Ze'ir and his Nukva and further let-there-be light Yah ya'ir these are the sources of Tif'eret (Beauty) and Malkhut (Kingship) in Binah (Understanding) which is the light emanated on the day first and further expanded on the words of secret and hidden much also his father the author of Shemen la-Ma'or was a Kabbalist divine for were printed his verses at the end of the book and these according to the mouth of the Name of forty-two and twelve combinations of YHVH and twenty-four combinations of Adonai and the Name of twenty-two also the sage the true the author of Menorat ha-Ma'or was a Kabbalist divine for he wrote in chapter 93 on Baruch She-amar its way in it the number of the ten the ten etc. and in chapter 95 wrote not they say Kaddish with fewer than ten and the reason is that in ten is completed the holiness which is above the ten sefirot and in chapter 133 he wrote when Jacob was going down to Egypt he saw that the exile had begun in him and in his seed and feared it and sacrificed sacrifices to the Fear of his father Isaac so that not would be the attribute of judgment stretched against him and did this at Beersheba Beersheba which is a house of prayer for his fathers and offered peace-offerings to complete to him all the attributes as they expounded shelamim which cast peace to complete to him the attribute of Gevurah (Might) and in chapter 147 he wrote it is found that the completeness of holiness is in the ten which allude to the ten havayot and they are ten sayings by which was created the world and in chapter 153 he wrote and in the way of truth that six days made the LORD etc. and on the day the seventh it is Sabbath and there is no for it a male mate and the Assembly of Israel is the female mate of its as it is said and the earth and behold it is the eighth of Assembly for there is held back everything and this is their saying the eighth festival in itself and it the completion of the first for it emanation of the first ones and it is not in the unity of theirs and whoever understands the havayot will be wise and will find the truth and in the colophon of the book he wrote and the fifth I left out the matters the grave which are hidden and lofty and there is no one who can attain them but a single individual in a generation thus that he was wishing to write words of secret in his work but because of that they are not fit for every person have you seen to know that there is no one who disputes about the Kabbalah neither the early ones nor the later ones neither the many nor the individuals neither the great nor the small on the contrary all agree that whoever merits Kabbalah from mouth to ear there is no for you virtue finer than it and that it is forbidden to expound and investigate it but if he wishes he should accept it in faith complete and not explain it by his intellect human for he should attribute what he found difficult for him to the shortness of his understanding and not he should break-through to-think any the soul and with this are complete all the words of the lowest of the lowly seder and you shall return and listen to the voice of the LORD",
+   "severity": "error",
+   "reason": "Follows the corrected English: sections 172/176, 'separated', alefs, the number of 'let-there-be light', chapter, Kabbalah, break-through."
+  },
+  {
+   "ref": "2:33",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:33.1",
+      "2:33.2",
+      "2:33.3",
+      "2:33.4",
+      "2:33.5",
+      "2:33.6",
+      "2:33.7",
+      "2:33.8",
+      "2:33.9",
+      "2:33.10",
+      "2:33.11",
+      "2:33.12",
+      "2:33.13"
+     ],
+     "english": "Have you seen, to know the words of the Gaon Chavot Yair, how afraid and trembling he is to teach about separation,",
+     "literal": "have you seen to know the words of the Gaon Chavot Yair how he afraid and trembling to teach about separation"
+    },
+    {
+     "tokens": [
+      "2:33.14",
+      "2:33.15",
+      "2:33.16",
+      "2:33.17",
+      "2:33.18",
+      "2:33.19",
+      "2:33.20",
+      "2:33.21",
+      "2:33.22"
+     ],
+     "english": "and relies on the words of the Gaon, the author of Shemen la-Ma'or, whose words were cited above,",
+     "literal": "and relies on the words of the Gaon the author of Shemen la-Ma'or were brought his words above"
+    },
+    {
+     "tokens": [
+      "2:33.23",
+      "2:33.24",
+      "2:33.25",
+      "2:33.26",
+      "2:33.27",
+      "2:33.28",
+      "2:33.29",
+      "2:33.30",
+      "2:33.31",
+      "2:33.32",
+      "2:33.33",
+      "2:33.34",
+      "2:33.35"
+     ],
+     "english": "yet he is still afraid to say it outright, lest it slacken the hands from engaging in this holy wisdom,",
+     "literal": "yet he afraid to say it outright lest it cause slackening of the hands from engaging the wisdom the holy this"
+    },
+    {
+     "tokens": [
+      "2:33.36",
+      "2:33.37",
+      "2:33.38",
+      "2:33.39",
+      "2:33.40",
+      "2:33.41",
+      "2:33.42",
+      "2:33.43",
+      "2:33.44",
+      "2:33.45",
+      "2:33.46",
+      "2:33.47",
+      "2:33.48",
+      "2:33.49",
+      "2:33.50",
+      "2:33.51",
+      "2:33.52",
+      "2:33.53",
+      "2:33.54",
+      "2:33.55",
+      "2:33.56"
+     ],
+     "english": "and how much he praises this wisdom, for one who merits it, to learn it from the mouth of a Kabbalist, and admits that anyone who holds himself back from studying it, after receiving it, is pushed away from his precinct;",
+     "literal": "and how much he praises the wisdom this for-one-who-merits it to learn it from the mouth of a Kabbalist and admits that anyone who holds back himself from studying it after that he received it he is pushed away from his precinct"
+    },
+    {
+     "tokens": [
+      "2:33.57",
+      "2:33.58",
+      "2:33.59",
+      "2:33.60",
+      "2:33.61",
+      "2:33.62",
+      "2:33.63",
+      "2:33.64",
+      "2:33.65",
+      "2:33.66",
+      "2:33.67",
+      "2:33.68",
+      "2:33.69",
+      "2:33.70",
+      "2:33.71",
+      "2:33.72",
+      "2:33.73",
+      "2:33.74"
+     ],
+     "english": "and also he permits engaging in the words of Kabbalah, and if he sees puzzling things before him, he should accept them in the faith of an artisan, and attribute it to the shortness of his understanding.",
+     "literal": "and also also he permits to engage in the words of Kabbalah and if he sees before him things puzzling that he accept them in the faith of an artisan and attribute it to the shortness of his understanding"
+    },
+    {
+     "tokens": [
+      "2:33.75",
+      "2:33.76",
+      "2:33.77",
+      "2:33.78",
+      "2:33.79",
+      "2:33.80",
+      "2:33.81",
+      "2:33.82",
+      "2:33.83",
+      "2:33.84",
+      "2:33.85",
+      "2:33.86",
+      "2:33.87"
+     ],
+     "english": "If so, your two witnesses, the Ribash and Chavot Yair, will testify and bear witness against you that you invent things from your own heart;",
+     "literal": "if so two your witnesses the Ribash and Chavot Yair will testify and will bear witness against you that you invent things from your heart"
+    },
+    {
+     "tokens": [
+      "2:33.88",
+      "2:33.89",
+      "2:33.90",
+      "2:33.91",
+      "2:33.92",
+      "2:33.93"
+     ],
+     "english": "and where is his separation, that he separated, as you said?",
+     "literal": "and where is it his separation that he separated as you said"
+    },
+    {
+     "tokens": [
+      "2:33.94",
+      "2:33.95",
+      "2:33.96",
+      "2:33.97",
+      "2:33.98",
+      "2:33.99",
+      "2:33.100",
+      "2:33.101",
+      "2:33.102",
+      "2:33.103",
+      "2:33.104"
+     ],
+     "english": "Did he not himself say, \"Would that a spirit from on high were poured upon us,\" etc.?",
+     "literal": "did not he himself say would that be given and be poured upon us a spirit from on high etc."
+    },
+    {
+     "tokens": [
+      "2:33.105",
+      "2:33.106",
+      "2:33.107",
+      "2:33.108",
+      "2:33.109",
+      "2:33.110",
+      "2:33.111"
+     ],
+     "english": "And I bring you proof that he merited the wisdom of Kabbalah,",
+     "literal": "and I bring to you proof that he merited the wisdom of Kabbalah"
+    },
+    {
+     "tokens": [
+      "2:33.112",
+      "2:33.113",
+      "2:33.114",
+      "2:33.115",
+      "2:33.116"
+     ],
+     "english": "for in section 172 he wrote, and these are his words:",
+     "literal": "for behold in section 172 he wrote and these are his words"
+    },
+    {
+     "tokens": [
+      "2:33.117",
+      "2:33.118",
+      "2:33.119",
+      "2:33.120",
+      "2:33.121",
+      "2:33.122",
+      "2:33.123",
+      "2:33.124",
+      "2:33.125",
+      "2:33.126",
+      "2:33.127",
+      "2:33.128",
+      "2:33.129",
+      "2:33.130",
+      "2:33.131",
+      "2:33.132",
+      "2:33.133",
+      "2:33.134"
+     ],
+     "english": "\"that it is possible there are further matters of secret and concealment in two verses, 'two thousand bath it held' and 'three thousand baths,' for at the sin of the first man",
+     "literal": "that it is possible that there are further matters of secret and hidden in two verses of-two-thousand bath it-held and three thousand baths for at the sin of Adam the first"
+    },
+    {
+     "tokens": [
+      "2:33.135",
+      "2:33.136",
+      "2:33.137",
+      "2:33.138",
+      "2:33.139",
+      "2:33.140",
+      "2:33.141",
+      "2:33.142",
+      "2:33.143",
+      "2:33.144",
+      "2:33.145",
+      "2:33.146",
+      "2:33.147",
+      "2:33.148"
+     ],
+     "english": "three alefs were corrupted, of truth, of Adonai and of man, and there remained mat-din-dam against idolatry, illicit unions and bloodshed.",
+     "literal": "were corrupted three alefs of truth and of Adonai and of man and there remained mat-din-dam against idolatry uncovering illicit unions and shedding of blood"
+    },
+    {
+     "tokens": [
+      "2:33.149",
+      "2:33.150",
+      "2:33.151",
+      "2:33.152",
+      "2:33.153",
+      "2:33.154",
+      "2:33.155",
+      "2:33.156",
+      "2:33.157",
+      "2:33.158",
+      "2:33.159",
+      "2:33.160",
+      "2:33.161",
+      "2:33.162",
+      "2:33.163"
+     ],
+     "english": "And King David repaired truth; therefore he did not taste sleep at night, and did not manage to repair judgment, and also blood,",
+     "literal": "and David the king repaired truth therefore not tasted sleep at night and not manage to repair judgment also blood"
+    },
+    {
+     "tokens": [
+      "2:33.164",
+      "2:33.165",
+      "2:33.166",
+      "2:33.167",
+      "2:33.168",
+      "2:33.169",
+      "2:33.170",
+      "2:33.171",
+      "2:33.172",
+      "2:33.173",
+      "2:33.174",
+      "2:33.175",
+      "2:33.176",
+      "2:33.177",
+      "2:33.178",
+      "2:33.179"
+     ],
+     "english": "as the Holy One, blessed be He, said: 'You shall not build the house, for you have shed much blood; only your son Solomon, for peace, etc.'",
+     "literal": "as that said the Holy One, blessed be He not you shall build the house for blood much you have shed only your son Solomon for peace etc."
+    },
+    {
+     "tokens": [
+      "2:33.180",
+      "2:33.181",
+      "2:33.182",
+      "2:33.183",
+      "2:33.184",
+      "2:33.185",
+      "2:33.186",
+      "2:33.187",
+      "2:33.188",
+      "2:33.189"
+     ],
+     "english": "And Solomon repaired two alefs, and with the alef of his father, three alefs were repaired,",
+     "literal": "and repaired Solomon two alefs and with the alef of his father were repaired three alefs"
+    },
+    {
+     "tokens": [
+      "2:33.190",
+      "2:33.191",
+      "2:33.192",
+      "2:33.193",
+      "2:33.194",
+      "2:33.195",
+      "2:33.196",
+      "2:33.197",
+      "2:33.198",
+      "2:33.199",
+      "2:33.200",
+      "2:33.201",
+      "2:33.202"
+     ],
+     "english": "and the matter of bat is known to the initiates, for the main flaw is there, and he further expanded on the secret of the matter there.",
+     "literal": "and the matter of bat is known to the-initiates for the main flaw there and further expanded on the secret of the matter there"
+    },
+    {
+     "tokens": [
+      "2:33.203",
+      "2:33.204",
+      "2:33.205",
+      "2:33.206",
+      "2:33.207",
+      "2:33.208",
+      "2:33.209"
+     ],
+     "english": "And section 176, on the matter of one who feeds a man blind in one of his eyes,",
+     "literal": "and section 176 on the matter of the one who feeds a blind man in one (of) his eyes"
+    },
+    {
+     "tokens": [
+      "2:33.210",
+      "2:33.211",
+      "2:33.212",
+      "2:33.213",
+      "2:33.214",
+      "2:33.215",
+      "2:33.216",
+      "2:33.217",
+      "2:33.218",
+      "2:33.219",
+      "2:33.220",
+      "2:33.221"
+     ],
+     "english": "and with all this I protested, for it seems to me that in both cases there is room to distinguish. However,",
+     "literal": "and with all this I protested a challenge for it seems to me that in both of them there is room to distinguish however"
+    },
+    {
+     "tokens": [
+      "2:33.222",
+      "2:33.223",
+      "2:33.224",
+      "2:33.225",
+      "2:33.226",
+      "2:33.227",
+      "2:33.228"
+     ],
+     "english": "where there is another fitting and suitable one like him,",
+     "literal": "where there is another fitting and suitable like him"
+    },
+    {
+     "tokens": [
+      "2:33.229",
+      "2:33.230",
+      "2:33.231",
+      "2:33.232",
+      "2:33.233",
+      "2:33.234",
+      "2:33.235",
+      "2:33.236",
+      "2:33.237",
+      "2:33.238",
+      "2:33.239",
+      "2:33.240",
+      "2:33.241",
+      "2:33.242"
+     ],
+     "english": "for it is known that the 248 limbs are a throne and a likeness of the 248 supernal lights, and the 248 limbs of the soul.",
+     "literal": "for it is known that the 248 limbs they are a throne and a likeness of the 248 lights supernal and the 248 limbs of the soul"
+    },
+    {
+     "tokens": [
+      "2:33.243",
+      "2:33.244",
+      "2:33.245",
+      "2:33.246",
+      "2:33.247",
+      "2:33.248",
+      "2:33.249",
+      "2:33.250",
+      "2:33.251",
+      "2:33.252",
+      "2:33.253",
+      "2:33.254",
+      "2:33.255",
+      "2:33.256",
+      "2:33.257",
+      "2:33.258",
+      "2:33.259",
+      "2:33.260",
+      "2:33.261",
+      "2:33.262",
+      "2:33.263",
+      "2:33.264",
+      "2:33.265",
+      "2:33.266",
+      "2:33.267"
+     ],
+     "english": "And so, in every such case the throne is flawed, for according to the hidden there are heaps upon heaps of secret mysteries in the parts of the body, and there is a lack of flow in the cup of blessing.\"",
+     "literal": "and if so every that such case the throne flawed for according to the mouth of the hidden there are heaps upon heaps secrets hidden in the limbs of the body and there is a lack of flow in the cup of blessing"
+    },
+    {
+     "tokens": [
+      "2:33.268",
+      "2:33.269",
+      "2:33.270",
+      "2:33.271",
+      "2:33.272",
+      "2:33.273",
+      "2:33.274",
+      "2:33.275"
+     ],
+     "english": "The above-mentioned, too, in the colophon of the book, wrote that he made 635 responsa",
+     "literal": "the above-mentioned also in the colophon of the book wrote that he made 635 responsa"
+    },
+    {
+     "tokens": [
+      "2:33.276",
+      "2:33.277",
+      "2:33.278",
+      "2:33.279",
+      "2:33.280",
+      "2:33.281"
+     ],
+     "english": "and gathered from them 232, the number of \"Let there be light,\"",
+     "literal": "and gathered from them 232 the number of let-there-be light"
+    },
+    {
+     "tokens": [
+      "2:33.282",
+      "2:33.283",
+      "2:33.284",
+      "2:33.285",
+      "2:33.286",
+      "2:33.287",
+      "2:33.288",
+      "2:33.289",
+      "2:33.290",
+      "2:33.291",
+      "2:33.292",
+      "2:33.293",
+      "2:33.294"
+     ],
+     "english": "and it has the gematria of the four fillings of YHVH, 72, 63, 45, 52: the son who is in Abba and Imma, and Ze'ir and his Nukva.",
+     "literal": "and it is of the gematria four fillings of YHVH 72 63 45 52, the son who is in Abba and Imma and Ze'ir and his Nukva"
+    },
+    {
+     "tokens": [
+      "2:33.295",
+      "2:33.296",
+      "2:33.297",
+      "2:33.298",
+      "2:33.299",
+      "2:33.300",
+      "2:33.301",
+      "2:33.302",
+      "2:33.303",
+      "2:33.304",
+      "2:33.305",
+      "2:33.306",
+      "2:33.307",
+      "2:33.308",
+      "2:33.309"
+     ],
+     "english": "And further, \"Let there be light\" is Yah ya'ir (\"Yah will give light\"). These are the sources of Tif'eret (Beauty) and Malkhut (Kingship) in Binah (Understanding), which is the light emanated on the first day.",
+     "literal": "and further let-there-be light Yah ya'ir these are the sources of Tif'eret (Beauty) and Malkhut (Kingship) in Binah (Understanding) which is the light emanated on the day first"
+    },
+    {
+     "tokens": [
+      "2:33.310",
+      "2:33.311",
+      "2:33.312",
+      "2:33.313",
+      "2:33.314",
+      "2:33.315"
+     ],
+     "english": "And he further expanded on many matters of secret and concealment.",
+     "literal": "and further expanded on the words of secret and hidden much"
+    },
+    {
+     "tokens": [
+      "2:33.316",
+      "2:33.317",
+      "2:33.318",
+      "2:33.319",
+      "2:33.320",
+      "2:33.321",
+      "2:33.322",
+      "2:33.323",
+      "2:33.324",
+      "2:33.325",
+      "2:33.326",
+      "2:33.327",
+      "2:33.328"
+     ],
+     "english": "Also his father, the author of Shemen la-Ma'or, was a divine Kabbalist, for his verses were printed at the end of the book.",
+     "literal": "also his father the author of Shemen la-Ma'or was a Kabbalist divine for were printed his verses at the end of the book"
+    },
+    {
+     "tokens": [
+      "2:33.329",
+      "2:33.330",
+      "2:33.331",
+      "2:33.332",
+      "2:33.333",
+      "2:33.334",
+      "2:33.335",
+      "2:33.336",
+      "2:33.337",
+      "2:33.338",
+      "2:33.339",
+      "2:33.340",
+      "2:33.341",
+      "2:33.342",
+      "2:33.343"
+     ],
+     "english": "And these are according to the Name of forty-two, and the twelve combinations of YHVH, and the twenty-four combinations of Adonai, and the Name of twenty-two.",
+     "literal": "and these according to the mouth of the Name of forty-two and twelve combinations of YHVH and twenty-four combinations of Adonai and the Name of twenty-two"
+    },
+    {
+     "tokens": [
+      "2:33.344",
+      "2:33.345",
+      "2:33.346",
+      "2:33.347",
+      "2:33.348",
+      "2:33.349",
+      "2:33.350",
+      "2:33.351",
+      "2:33.352",
+      "2:33.353",
+      "2:33.354",
+      "2:33.355",
+      "2:33.356"
+     ],
+     "english": "Also the true sage, the author of Menorat ha-Ma'or, was a divine Kabbalist, for in chapter 93 he wrote",
+     "literal": "also the sage the true the author of Menorat ha-Ma'or was a Kabbalist divine for he wrote in chapter 93"
+    },
+    {
+     "tokens": [
+      "2:33.357",
+      "2:33.358",
+      "2:33.359",
+      "2:33.360",
+      "2:33.361",
+      "2:33.362",
+      "2:33.363",
+      "2:33.364",
+      "2:33.365"
+     ],
+     "english": "on \"Baruch She'amar\": \"its way in it, the number of the ten, the ten, etc.\"",
+     "literal": "on Baruch She-amar its way in it the number of the ten the ten etc."
+    },
+    {
+     "tokens": [
+      "2:33.366",
+      "2:33.367",
+      "2:33.368",
+      "2:33.369",
+      "2:33.370",
+      "2:33.371",
+      "2:33.372",
+      "2:33.373",
+      "2:33.374",
+      "2:33.375",
+      "2:33.376",
+      "2:33.377",
+      "2:33.378",
+      "2:33.379",
+      "2:33.380",
+      "2:33.381",
+      "2:33.382"
+     ],
+     "english": "And in chapter 95 he wrote: \"Kaddish is not said with fewer than ten, and the reason is that with ten the holiness is completed, which is above the ten sefirot.\"",
+     "literal": "and in chapter 95 wrote not they say Kaddish with fewer than ten and the reason is that in ten is completed the holiness which is above the ten sefirot"
+    },
+    {
+     "tokens": [
+      "2:33.383",
+      "2:33.384",
+      "2:33.385",
+      "2:33.386",
+      "2:33.387",
+      "2:33.388",
+      "2:33.389",
+      "2:33.390",
+      "2:33.391",
+      "2:33.392",
+      "2:33.393",
+      "2:33.394",
+      "2:33.395",
+      "2:33.396",
+      "2:33.397"
+     ],
+     "english": "And in chapter 133 he wrote: \"When Jacob was going down to Egypt, he saw that the exile had begun in him and in his seed, and he feared it",
+     "literal": "and in chapter 133 he wrote when Jacob was going down to Egypt he saw that the exile had begun in him and in his seed and feared it"
+    },
+    {
+     "tokens": [
+      "2:33.398",
+      "2:33.399",
+      "2:33.400",
+      "2:33.401",
+      "2:33.402",
+      "2:33.403",
+      "2:33.404",
+      "2:33.405",
+      "2:33.406",
+      "2:33.407",
+      "2:33.408"
+     ],
+     "english": "and sacrificed sacrifices to the Fear of his father Isaac, so that the attribute of judgment would not be stretched out against him;",
+     "literal": "and sacrificed sacrifices to the Fear of his father Isaac so that not would be the attribute of judgment stretched against him"
+    },
+    {
+     "tokens": [
+      "2:33.409",
+      "2:33.410",
+      "2:33.411",
+      "2:33.412",
+      "2:33.413",
+      "2:33.414",
+      "2:33.415",
+      "2:33.416",
+      "2:33.417",
+      "2:33.418",
+      "2:33.419",
+      "2:33.420"
+     ],
+     "english": "and did this at Beersheba, which is a house of prayer for his fathers, and offered peace-offerings to complete to him",
+     "literal": "and did this at Beersheba Beersheba which is a house of prayer for his fathers and offered peace-offerings to complete to him"
+    },
+    {
+     "tokens": [
+      "2:33.421",
+      "2:33.422",
+      "2:33.423",
+      "2:33.424",
+      "2:33.425",
+      "2:33.426",
+      "2:33.427",
+      "2:33.428",
+      "2:33.429",
+      "2:33.430",
+      "2:33.431"
+     ],
+     "english": "all the attributes, as they expounded: 'shelamim, which cast peace', to complete to him the attribute of Gevurah (Might).\"",
+     "literal": "all the attributes as they expounded shelamim which cast peace to complete to him the attribute of Gevurah (Might)"
+    },
+    {
+     "tokens": [
+      "2:33.432",
+      "2:33.433",
+      "2:33.434",
+      "2:33.435",
+      "2:33.436",
+      "2:33.437",
+      "2:33.438",
+      "2:33.439",
+      "2:33.440",
+      "2:33.441",
+      "2:33.442",
+      "2:33.443",
+      "2:33.444",
+      "2:33.445",
+      "2:33.446",
+      "2:33.447",
+      "2:33.448",
+      "2:33.449"
+     ],
+     "english": "And in chapter 147 he wrote: \"It is found that the completeness of holiness is in the ten, which allude to the ten havayot, and they are the ten sayings by which the world was created.\"",
+     "literal": "and in chapter 147 he wrote it is found that the completeness of holiness is in the ten which allude to the ten havayot and they are ten sayings by which was created the world"
+    },
+    {
+     "tokens": [
+      "2:33.450",
+      "2:33.451",
+      "2:33.452",
+      "2:33.453",
+      "2:33.454",
+      "2:33.455",
+      "2:33.456",
+      "2:33.457",
+      "2:33.458",
+      "2:33.459",
+      "2:33.460",
+      "2:33.461"
+     ],
+     "english": "And in chapter 153 he wrote: \"And in the way of truth, that in six days the LORD made, etc.",
+     "literal": "and in chapter 153 he wrote and in the way of truth that six days made the LORD etc."
+    },
+    {
+     "tokens": [
+      "2:33.462",
+      "2:33.463",
+      "2:33.464",
+      "2:33.465",
+      "2:33.466",
+      "2:33.467",
+      "2:33.468",
+      "2:33.469"
+     ],
+     "english": "and on the seventh day it is Sabbath, and it has no male mate,",
+     "literal": "and on the day the seventh it is Sabbath and there is no for it a male mate"
+    },
+    {
+     "tokens": [
+      "2:33.470",
+      "2:33.471",
+      "2:33.472",
+      "2:33.473",
+      "2:33.474",
+      "2:33.475"
+     ],
+     "english": "and the Assembly of Israel is its female mate, as it is said:",
+     "literal": "and the Assembly of Israel is the female mate of its as it is said"
+    },
+    {
+     "tokens": [
+      "2:33.476",
+      "2:33.477",
+      "2:33.478",
+      "2:33.479",
+      "2:33.480",
+      "2:33.481"
+     ],
+     "english": "'and the earth,' and behold, it is the Eighth Day of Assembly,",
+     "literal": "and the earth and behold it is the eighth of Assembly"
+    },
+    {
+     "tokens": [
+      "2:33.482",
+      "2:33.483",
+      "2:33.484",
+      "2:33.485"
+     ],
+     "english": "for there everything is held back.",
+     "literal": "for there is held back everything"
+    },
+    {
+     "tokens": [
+      "2:33.486",
+      "2:33.487",
+      "2:33.488",
+      "2:33.489",
+      "2:33.490",
+      "2:33.491",
+      "2:33.492",
+      "2:33.493",
+      "2:33.494",
+      "2:33.495"
+     ],
+     "english": "And this is their saying: 'The eighth is a festival in itself,' and it is the completion of the first, for",
+     "literal": "and this is their saying the eighth festival in itself and it the completion of the first for"
+    },
+    {
+     "tokens": [
+      "2:33.496",
+      "2:33.497",
+      "2:33.498",
+      "2:33.499",
+      "2:33.500",
+      "2:33.501"
+     ],
+     "english": "it is the emanation of the first ones, and it is not in their unity,",
+     "literal": "it emanation of the first ones and it is not in the unity of theirs"
+    },
+    {
+     "tokens": [
+      "2:33.502",
+      "2:33.503",
+      "2:33.504",
+      "2:33.505",
+      "2:33.506",
+      "2:33.507"
+     ],
+     "english": "and whoever understands the havayot will be wise and find the truth.\"",
+     "literal": "and whoever understands the havayot will be wise and will find the truth"
+    },
+    {
+     "tokens": [
+      "2:33.508",
+      "2:33.509",
+      "2:33.510",
+      "2:33.511",
+      "2:33.512",
+      "2:33.513",
+      "2:33.514",
+      "2:33.515",
+      "2:33.516",
+      "2:33.517",
+      "2:33.518",
+      "2:33.519",
+      "2:33.520",
+      "2:33.521",
+      "2:33.522",
+      "2:33.523",
+      "2:33.524"
+     ],
+     "english": "And in the colophon of the book he wrote: \"And the fifth, I left out the grave matters, which are hidden and lofty, and there is no one who can attain them but a single individual in a generation.\"",
+     "literal": "and in the colophon of the book he wrote and the fifth I left out the matters the grave which are hidden and lofty and there is no one who can attain them but a single individual in a generation"
+    },
+    {
+     "tokens": [
+      "2:33.525",
+      "2:33.526",
+      "2:33.527",
+      "2:33.528",
+      "2:33.529",
+      "2:33.530",
+      "2:33.531",
+      "2:33.532",
+      "2:33.533",
+      "2:33.534",
+      "2:33.535",
+      "2:33.536",
+      "2:33.537"
+     ],
+     "english": "Thus he wished to write secret matters in his work, but because they are not fit for every person.",
+     "literal": "thus that he was wishing to write words of secret in his work but because of that they are not fit for every person"
+    },
+    {
+     "tokens": [
+      "2:33.538",
+      "2:33.539",
+      "2:33.540",
+      "2:33.541",
+      "2:33.542",
+      "2:33.543",
+      "2:33.544"
+     ],
+     "english": "Have you seen, to know that no one disputes the Kabbalah:",
+     "literal": "have you seen to know that there is no one who disputes about the Kabbalah"
+    },
+    {
+     "tokens": [
+      "2:33.545",
+      "2:33.546",
+      "2:33.547",
+      "2:33.548",
+      "2:33.549",
+      "2:33.550",
+      "2:33.551",
+      "2:33.552",
+      "2:33.553",
+      "2:33.554",
+      "2:33.555",
+      "2:33.556"
+     ],
+     "english": "neither the early ones nor the later ones, neither the many nor the individuals, neither the great nor the small.",
+     "literal": "neither the early ones nor the later ones neither the many nor the individuals neither the great nor the small"
+    },
+    {
+     "tokens": [
+      "2:33.557",
+      "2:33.558",
+      "2:33.559",
+      "2:33.560",
+      "2:33.561",
+      "2:33.562",
+      "2:33.563",
+      "2:33.564",
+      "2:33.565",
+      "2:33.566",
+      "2:33.567",
+      "2:33.568",
+      "2:33.569"
+     ],
+     "english": "On the contrary, all agree that whoever merits Kabbalah from mouth to ear, there is no finer virtue for you than it,",
+     "literal": "on the contrary all agree that whoever merits Kabbalah from mouth to ear there is no for you virtue finer than it"
+    },
+    {
+     "tokens": [
+      "2:33.570",
+      "2:33.571",
+      "2:33.572",
+      "2:33.573",
+      "2:33.574",
+      "2:33.575",
+      "2:33.576",
+      "2:33.577",
+      "2:33.578",
+      "2:33.579",
+      "2:33.580",
+      "2:33.581",
+      "2:33.582",
+      "2:33.583"
+     ],
+     "english": "and that it is forbidden to expound and investigate it; but if he wishes, he should accept it in complete faith and not explain it by his human intellect.",
+     "literal": "and that it is forbidden to expound and investigate it but if he wishes he should accept it in faith complete and not explain it by his intellect human"
+    },
+    {
+     "tokens": [
+      "2:33.584",
+      "2:33.585",
+      "2:33.586",
+      "2:33.587",
+      "2:33.588",
+      "2:33.589",
+      "2:33.590",
+      "2:33.591",
+      "2:33.592",
+      "2:33.593",
+      "2:33.594",
+      "2:33.595"
+     ],
+     "english": "For he should attribute what troubles him to the shortness of his understanding, and not break through to think anything of the soul.",
+     "literal": "for he should attribute what he found difficult for him to the shortness of his understanding and not he should break-through to-think any the soul"
+    },
+    {
+     "tokens": [
+      "2:33.596",
+      "2:33.597",
+      "2:33.598",
+      "2:33.599",
+      "2:33.600",
+      "2:33.601"
+     ],
+     "english": "And with this, all the words of the lowest of the low are complete.",
+     "literal": "and with this are complete all the words of the lowest of the lowly"
+    },
+    {
+     "tokens": [
+      "2:33.602",
+      "2:33.603",
+      "2:33.604",
+      "2:33.605",
+      "2:33.606",
+      "2:33.607"
+     ],
+     "english": "Seder. And you shall return and listen to the voice of the LORD.",
+     "literal": "seder and you shall return and listen to the voice of the LORD"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments; each still occurs in the English, in order."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.41.gloss",
+   "value": "for one who merits",
+   "severity": "error",
+   "reason": "לדזכי is Aramaic d-zakei 'who merits', not an infinitive 'to merit'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.41.note",
+   "value": "Aramaic dezakei, 'who merits'; the ל is 'for': 'for one who merits it, to learn it from a Kabbalist'. The reading lizkot ('to merit') is in readings.",
+   "severity": "style",
+   "reason": "Note matches the gloss."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.56.gloss",
+   "value": "from his precinct",
+   "severity": "error",
+   "reason": "ממחיצתו is masculine, 'his' (חכמה is feminine, so not 'its')."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.56.note",
+   "value": "'his precinct': the Hebrew does not say whose (the one who holds back, or the Kabbalists'); it is not 'its', which would be ממחיצתה.",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.91.gloss",
+   "value": "that he separated",
+   "severity": "error",
+   "reason": "פירש after פרישתו is 'separated' (root פרש), the abstention at issue."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.91.note",
+   "value": "pirash, 'separated', from the root of פרישתו and הפרישה; the unpointed word could also be piresh 'explained', but the question is where his abstention is.",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.104.note",
+   "value": "the author's truncated quotation; the wording echoes Isa 32:15 (עד יערה עלינו רוח ממרום), which is the likely source",
+   "severity": "error",
+   "reason": "The verse is Isa 32:15 and can be verified; 'not verified' was wrong."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.114.gloss",
+   "value": "172",
+   "severity": "error",
+   "reason": "קע\"ב = 100+70+2 = 172."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.114.note",
+   "value": "the letters kuf-ayin-bet, 172; a section of Chavot Yair",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.125.gloss",
+   "value": "that of 'two thousand",
+   "severity": "error",
+   "reason": "דאלפים בת יכיל is 1 Kgs 7:26, 'two thousand bath it held'; it is a verse, not a Kabbalistic designation."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.125.note",
+   "value": "Aramaic d-, 'that of'; 1 Kgs 7:26 (the Sea of Solomon). The author also reads alafim as 'two alefs'.",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.126.gloss",
+   "value": "bath",
+   "severity": "error",
+   "reason": "Bath, the liquid measure (a homograph of bat, 'daughter')."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.126.note",
+   "value": "a liquid measure; the same letters are bat 'daughter', the term the author takes up below",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.127.gloss",
+   "value": "it held",
+   "severity": "error",
+   "reason": "יכיל is 'it held', part of the verse."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.128.gloss",
+   "value": "and three",
+   "severity": "error",
+   "reason": "וג' is 'and three' (gimel as a numeral), not the letter name."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.128.note",
+   "value": "gimel used as the number 3, for 'three thousand'",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.129.gloss",
+   "value": "thousand",
+   "severity": "error",
+   "reason": "אלפים here is 'thousand(s)' in the verse; the author also hears 'two/three alefs'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.129.note",
+   "value": "alafim 'thousands'; the author's play is on alef, the letter (see the grammar note)",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.130.gloss",
+   "value": "baths",
+   "severity": "error",
+   "reason": "בת' is the abbreviated בתים 'baths' (2 Chr 4:5 in the author's wording)."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.137.gloss",
+   "value": "alefs",
+   "severity": "error",
+   "reason": "אלפין is the Aramaic plural of אלף, the letter: the three alefs of אמת, אדנות, אדם."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.137.note",
+   "value": "plural of alef, the letter; the alefs that begin emet, adnut and adam",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.142.note",
+   "value": "what is left of אמת, אדנות and אדם without the alef: mat 'dead', din 'judgment', dam 'blood'; kept as printed, hyphenated",
+   "severity": "style",
+   "reason": "Explains the exegesis (ruling on exegesis that turns on a Hebrew word)."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.183.gloss",
+   "value": "alefs",
+   "severity": "error",
+   "reason": "As 137."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.189.gloss",
+   "value": "alefs",
+   "severity": "error",
+   "reason": "As 137."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.191.gloss",
+   "value": "bat",
+   "severity": "style",
+   "reason": "Lower case, as the term, not a name."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.193.gloss",
+   "value": "to the initiates",
+   "severity": "question",
+   "reason": "לי\"ח is unresolved in the translation. Proposed ruling: read as an abbreviation of ליודעי חן, the common 'known to the initiates'; it fits 'for the main flaw is there'. Conjectural, so recorded in the note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.193.note",
+   "value": "li-yach: read, conjecturally, as an abbreviation of ליודעי חן, 'to the initiates' (the common phrase 'known to the initiates')",
+   "severity": "question",
+   "reason": "Records the conjecture."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.204.gloss",
+   "value": "176",
+   "severity": "error",
+   "reason": "קע\"ו = 100+70+6 = 176."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.206.note",
+   "value": "'one who feeds' as printed (הזן); the context (another suitable one like him, a flawed 'throne') may point to החזן, the cantor; see readings",
+   "severity": "question",
+   "reason": "Proposed ruling: keep the printed word in the English, record the cantor reading."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.231.note",
+   "value": "rmach (resh-mem-chet): the number 248",
+   "severity": "style",
+   "reason": "The note had 'ramah', which is a different word."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.268.gloss",
+   "value": "the above-mentioned",
+   "severity": "style",
+   "reason": "'The one above' is not English; העליון is 'the above-mentioned' (the Gaon)."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.268.note",
+   "value": "העליון: 'the one above', i.e. the Gaon just quoted. Taken as the subject of the new sentence with ג\"כ, not with 'cup of blessing' before it (the adjective would not agree with it).",
+   "severity": "question",
+   "reason": "Decision of the unresolved marker: the Chavot Yair quotation ends at 267."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.275.gloss",
+   "value": "responsa",
+   "severity": "error",
+   "reason": "תשובות is 'responsa'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.279.gloss",
+   "value": "the number of",
+   "severity": "error",
+   "reason": "מספר here is the number 232, the point of the gematria; a book Yehi Or is not in the text. The book reading is recorded in readings."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.279.note",
+   "value": "mispar: 'the number of'; 232 is the gematria of יהי אור",
+   "severity": "style",
+   "reason": "Matches the gloss."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.280.gloss",
+   "value": "'Let there be",
+   "severity": "error",
+   "reason": "Gen 1:3, the phrase whose number is 232."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.280.note",
+   "value": "Gen 1:3, יהי אור: 10+5+10+1+6+200 = 232",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.281.gloss",
+   "value": "light,'",
+   "severity": "style",
+   "reason": "Closes the phrase."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.298.note",
+   "value": "a divine name; יה יאיר is almost the same letters as יהי אור (vav read as yod), and יאיר is also the Gaon's own name",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.299.gloss",
+   "value": "ya'ir (will give light)",
+   "severity": "error",
+   "reason": "יאיר is a verb, 'will give light', as well as the Gaon's name."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.355.gloss",
+   "value": "in chapter",
+   "severity": "question",
+   "reason": "פ' + numeral after a book title: the ruling gives 'chapter' where the numeral exceeds the parashot; Menorat ha-Ma'or has no parashot. Proposed ruling: 'chapter'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.355.note",
+   "value": "פ' (perek or parashah): the book has no parashot, so 'chapter'; the numeral 93 is kept as written",
+   "severity": "question",
+   "reason": "Records the choice, as the ruling requires."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.366.gloss",
+   "value": "and in chapter",
+   "severity": "question",
+   "reason": "פ' + numeral after a book title: the ruling gives 'chapter' where the numeral exceeds the parashot; Menorat ha-Ma'or has no parashot. Proposed ruling: 'chapter'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.366.note",
+   "value": "פ' (perek or parashah): the book has no parashot, so 'chapter'; the numeral 95 is kept as written",
+   "severity": "question",
+   "reason": "Records the choice, as the ruling requires."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.383.gloss",
+   "value": "and in chapter",
+   "severity": "question",
+   "reason": "פ' + numeral after a book title: the ruling gives 'chapter' where the numeral exceeds the parashot; Menorat ha-Ma'or has no parashot. Proposed ruling: 'chapter'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.383.note",
+   "value": "פ' (perek or parashah): the book has no parashot, so 'chapter'; the numeral 133 is kept as written",
+   "severity": "question",
+   "reason": "Records the choice, as the ruling requires."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.432.gloss",
+   "value": "and in chapter",
+   "severity": "question",
+   "reason": "פ' + numeral after a book title: the ruling gives 'chapter' where the numeral exceeds the parashot; Menorat ha-Ma'or has no parashot. Proposed ruling: 'chapter'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.432.note",
+   "value": "פ' (perek or parashah): the book has no parashot, so 'chapter'; the numeral 147 is kept as written",
+   "severity": "question",
+   "reason": "Records the choice, as the ruling requires."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.450.gloss",
+   "value": "and in chapter",
+   "severity": "question",
+   "reason": "פ' + numeral after a book title: the ruling gives 'chapter' where the numeral exceeds the parashot; Menorat ha-Ma'or has no parashot. Proposed ruling: 'chapter'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.450.note",
+   "value": "פ' (perek or parashah): the book has no parashot, so 'chapter'; the numeral 153 is kept as written",
+   "severity": "question",
+   "reason": "Records the choice, as the ruling requires."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.416.note",
+   "value": "'fathers' lower case; the patriarchs",
+   "severity": "style",
+   "reason": "Ruling on אבות: 'patriarchs' in a token note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.443.note",
+   "value": "plural of havayah, the Name YHVH as a name; the ten havayot are ten forms of the Name, matched to the ten sayings",
+   "severity": "style",
+   "reason": "Ruling: never 'being'; the note gave 'being'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.446.note",
+   "value": "the ten sayings of creation",
+   "severity": "error",
+   "reason": "'Avot 5:1' is a Mishnah reference the author does not give; the ruling forbids adding it."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.468.gloss",
+   "value": "a male",
+   "severity": "error",
+   "reason": "בן זוג is the male partner (against בת זוגו)."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.473.gloss",
+   "value": "the female",
+   "severity": "error",
+   "reason": "בת זוגו is the female partner."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.476.note",
+   "value": "Exod 20:11, 'and the earth' (the end of the verse that וכו' left out); 'and behold' is the author's, not the verse",
+   "severity": "question",
+   "reason": "Proposed ruling: the fragment is ואת הארץ of Exod 20:11; והנה הוא שמיני עצרת is the author's own clause."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.478.note",
+   "value": "the author's own 'and behold', not part of the verse",
+   "severity": "question",
+   "reason": "As 476."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.494.gloss",
+   "value": "it is",
+   "severity": "style",
+   "reason": "'ותשלומי ראשון הוא' is 'and it is the completion of the first'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.495.gloss",
+   "value": "for",
+   "severity": "error",
+   "reason": "כי here is 'for' (the reason), not 'that'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.498.gloss",
+   "value": "of the first ones",
+   "severity": "style",
+   "reason": "הראשונים is 'the first ones'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.562.gloss",
+   "value": "Kabbalah",
+   "severity": "style",
+   "reason": "The same word as in 'no one disputes the Kabbalah' a sentence before; 'tradition' changes the term mid-argument."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.562.note",
+   "value": "the word is קבלה, the same as above; 'from mouth to ear' says how it is received",
+   "severity": "style",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.592.gloss",
+   "value": "he should break through",
+   "severity": "question",
+   "reason": "See token 593."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.593.gloss",
+   "value": "to think",
+   "severity": "question",
+   "reason": "See note."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.593.note",
+   "value": "Unresolved in the translation. Proposed ruling: יהרוס is 'break through' (cf. Exod 19:21, 24 'lest they break through to the LORD to see'), with לחשוב 'to think' as its purpose: not to break through the limit set on speculation. 'Ruin by thinking' would need ב-. The words שום הנשמה are not clear; 'anything of the soul'.",
+   "severity": "question",
+   "reason": "Decision of לחשוב from context, offered as a question since the sentence may be corrupt."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.594.gloss",
+   "value": "anything",
+   "severity": "style",
+   "reason": "שום is 'any'."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.595.gloss",
+   "value": "of the soul",
+   "severity": "style",
+   "reason": "Follows the English."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.602.gloss",
+   "value": "Seder",
+   "severity": "question",
+   "reason": "סדר: the function is not stated. Proposed ruling: transliterate it ('Seder') as a heading or portion marker rather than 'Order', which reads as an imperative; the verse that follows is Deut 30:8, as the verse reads."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.602.note",
+   "value": "a marker whose function the text does not state: perhaps a heading, or the name of a weekly portion; left as printed",
+   "severity": "question",
+   "reason": "Records the proposed ruling."
+  },
+  {
+   "ref": "2:33",
+   "path": "token:2:33.605.gloss",
+   "value": "and listen",
+   "severity": "style",
+   "reason": "Plain modern English for ושמעת בקול (not 'hearken')."
+  },
+  {
+   "ref": "2:33",
+   "path": "grammar",
+   "value": [
+    "The opening and the closing both begin 'Have you seen, to know' (הראית לדעת, 1 and 538): the speaker addresses the questioner with a rhetorical question.",
+    "The quotation from Chavot Yair is opened by כתב וז\"ל (115-116) and runs to 267; it includes the passage on section 176, whose 'I protested' (213) is the Gaon's own voice. The Holy One's words inside it (164-179) take single marks. The next sentence (268 on) is the author's own report.",
+    "לדזכי לה ללמדה (41-43): דזכי is Aramaic, 'who merits': 'for one who merits it, to learn it from the mouth of a Kabbalist'. פרישתו שפירש (90-91): the verb is pirash 'separated', of the same root as הפרישה (13).",
+    "The exegesis at 123-148 turns on alef: אלפין is the Aramaic plural of אלף, the letter. The three alefs are the first letters of אמת, אדנות and אדם; without them what remains is מת, דין and דם, 'mat-din-dam', set against idolatry, illicit unions and bloodshed. The two verses (1 Kgs 7:26, 2 Chr 4:5) speak of 'two thousand' and 'three thousand' baths; the author hears אלפים as 'two alefs'. בת is both the measure 'bath' and 'bat', 'daughter'.",
+    "שמיני רגל (488) is the Talmudic formula for the Eighth Day, which is Shemini Atzeret (481); the author argues from its separateness to the emanation of the first ones.",
+    "ולא יהרוס לחשוב (592-593): 'break through to think', as in Exod 19:21, 24; the sentence after a full stop that begins with שהם (300) is given a main clause ('These are'), as the ruling provides."
+   ],
+   "severity": "style",
+   "reason": "The old notes mentioned §272 and a conditional list; these notes carry the points a learner needs (the alef exegesis, the Aramaic, the verb)."
+  },
+  {
+   "ref": "2:33",
+   "path": "note",
+   "value": "The paragraph is the respondent's rebuke of the questioner, in the respondent's voice. The quotation from Chavot Yair opens at 117 and closes at 267 (the end is inferred, since 268 resumes the author's report). Words the translator left open: העליון (268) is 'the above-mentioned'; לי\"ח (193) is read, conjecturally, as ליודעי חן; לחשוב (593) is 'to think' after 'break through'; סדר (602) is left as 'Seder'. 'קראתי תיגר' (213) is the quoted Gaon's own protest.",
+   "severity": "style",
+   "reason": "Records the decisions on the open words."
+  },
+  {
+   "ref": "2:33",
+   "path": "apparatus",
+   "value": [
+    "Base text from Wikisource; the 1931 scan is not yet collated, so the base text is translated as it stands.",
+    "Quotation boundaries: the Chavot Yair quotation, opened by כתב וז\"ל (115-116), is taken to run from שאפשר (117) to the cup of blessing (267), including the passage on section 176; the Hebrew marks no closing formula, and the end is inferred because 268 (העליון ג\"כ ... כ') resumes the author's own report. The quotations from Menorat ha-Ma'or have no formula either; each is closed where its passage ends.",
+    "Neh 6:8: מלבך אתה בודאם, echoed in בודה דברים מלבך (85-87).",
+    "Isa 32:15: עד יערה עלינו רוח ממרום, echoed in the Gaon's מי יתן ויערה עלינו רוח ממרום (98-103), in the author's wording.",
+    "1 Kgs 7:26: אלפים בת יכיל (125-127); 2 Chr 4:5 for 'three thousand baths' (128-130), in the author's wording, which differs from the verse.",
+    "1 Chr 22:8-9: the words 'לא תבנה הבית כי דמים רבים שפכת, רק בנך שלמה כי שלום' follow the author's wording, which differs from the verse.",
+    "Gen 1:3: יהי אור (280-281, 296-297), the phrase whose number is 232.",
+    "Gen 31:42: פחד יצחק, 'Fear of Isaac' as a divine epithet (400-402); Gen 46:1: ויזבח זבחים (398-399).",
+    "Exod 20:11: ששת ימים עשה ה' (457-460), cut short with וכו' (461); ואת הארץ (476-477) is the end of the same verse.",
+    "Exod 19:21, 24: פן יהרסו / ואל יהרסו, a possible echo in ולא יהרוס לחשוב (592-593).",
+    "Deut 30:8: ואתה תשוב ושמעת בקול ה' (603-607), exactly as the verse reads."
+   ],
+   "severity": "error",
+   "reason": "Deut 30:2 was the wrong verse and 'in the author's wording' false (it is Deut 30:8, verbatim); Avot 5:1 is a Mishnah reference the author lacks and must not be added; Isa 32:15, Neh 6:8, 1 Kgs 7:26, 2 Chr 4:5, Gen 46:1, Exod 19:21/24 are the verses left unrecognised; the 'Numbers' line named a book Yehi Or that the text does not have."
+  },
+  {
+   "ref": "2:33",
+   "path": "context",
+   "value": [
+    "Rabbi Isaac ben Sheshet (the Ribash) was a responsa author of the fourteenth century. Here he and Chavot Yair are 'your two witnesses', the authorities the questioner has cited for abstaining from Kabbalah.",
+    "Chavot Yair is the collection of responsa of Rabbi Yair Chayyim Bacharach (1638-1702); the author cites it by section number."
+   ],
+   "severity": "error",
+   "reason": "The Ribash note said he was 'cited as an authority on Kabbalah's critics', which the text does not say; he is the questioner's witness for the abstention. Chavot Yair needs a realia note."
+  },
+  {
+   "ref": "2:33",
+   "path": "readings",
+   "value": [
+    {
+     "tokens": [
+      "2:33.41",
+      "2:33.42",
+      "2:33.43",
+      "2:33.44",
+      "2:33.45"
+     ],
+     "english": "that one may merit it by learning it from a Kabbalist",
+     "source": "plain"
+    },
+    {
+     "tokens": [
+      "2:33.205",
+      "2:33.206",
+      "2:33.207",
+      "2:33.208",
+      "2:33.209"
+     ],
+     "english": "on the matter of the cantor who is blind in one of his eyes",
+     "source": "plain"
+    },
+    {
+     "tokens": [
+      "2:33.279",
+      "2:33.280",
+      "2:33.281"
+     ],
+     "english": "the book Yehi Or",
+     "source": "plain"
+    },
+    {
+     "tokens": [
+      "2:33.290",
+      "2:33.291",
+      "2:33.292",
+      "2:33.293",
+      "2:33.294"
+     ],
+     "english": "52 (BaN), which are in Abba and Imma, and Ze'ir and his Nukva",
+     "source": "plain"
+    },
+    {
+     "tokens": [
+      "2:33.476",
+      "2:33.477",
+      "2:33.478"
+     ],
+     "english": "'and the earth, and behold,'",
+     "source": "plain"
+    },
+    {
+     "tokens": [
+      "2:33.591",
+      "2:33.592",
+      "2:33.593",
+      "2:33.594",
+      "2:33.595"
+     ],
+     "english": "and not ruin any soul by thinking",
+     "source": "plain"
+    }
+   ],
+   "severity": "question",
+   "reason": "Alternatives the grammar allows: lizkot for דזכי; החזן for הזן (printed without the ח); מספר as 'book'; בן as ב\"ן (52) rather than 'son' (printed without gershayim); 'and behold' inside the verse; יהרוס as 'ruin'. The main English follows the first alternative in each pair except where a patch above changes it."
+  }
+ ],
+ "verdicts": []
+}

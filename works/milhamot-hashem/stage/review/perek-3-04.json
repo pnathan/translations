@@ -1,0 +1,989 @@
+{
+ "unit": "perek-3-04",
+ "model": "sonnet",
+ "summary": "Both paragraphs are mostly faithful, but each has errors that change the sense or the framing. In 3:7 the Kabbalist named by וז\"ל is the speaker and stands outside the quotation, and בעל היכל הברכה is the author of a book (Heikhal ha-Berakhah, transliterated); וז\"ל of 3:7.94 was dropped, אף שמדבר mistranslated, and Song 5:12 and Deut 17:6 unlisted. In 3:8, עמדו ולא ענו עוד is Job 32:16 (plural: 'they stood and answered no more'), 'the Shekhinah of our strength' was made an apposition, 'or whispers' reversed the subject, and several punctuation and capital faults need correcting; Job 20:26, 1 Kgs 18:17 and Deut 13:6 are added to apparatus. The Aramaic source of the maiden without eyes is rightly left unnamed (decisions: no unreferenced sources); Da'at is correctly transliterated; כ' = כתב is confirmed. Open questions: וכ' (3:7.87) as וכו', the 'idly' of Lev 19:16, and the כ of כשומע כעונה כמדבר.",
+ "patches": [
+  {
+   "ref": "3:7",
+   "path": "english",
+   "value": "§7. And these are the words of the Kabbalist, the author of Heikhal ha-Berakhah: \"A positive commandment on the court to inquire into and to examine the witnesses with seven inquiries, etc. There are also examinations, which are questions: what clothing he wore; the dust of the ground on which he stood, whether black, or sand, or clay; and if they contradict one another, the testimony is void. From the roots of this commandment: the included bride, the beautiful young maiden who has no eyes, the governance of this world, that there be free choice, whose eyes are like doves, a deception to the sons of man. Her eyes in the Palace of Merit: the eyes of the congregation, who judge with knowledge on the testimony of two witnesses, two crowns; and the Da'at is the secret of the eyes, as is known; and this light spreads in seven aspects, etc.\" See there. And concerning the commandment \"You shall not go about as a talebearer,\" he wrote, and these are his words: \" that one should not tell his fellow that his adversary has spoken evil about him, as it is said, 'You shall not go about as a talebearer.' And among the laws of the commandment: even though he speaks the truth, there is a great sin in this. And also within the scope of this prohibition: that one should not speak in disparagement of his fellow, even if true, and this is as if he denied the fundamental principle, etc.\" And he expanded further on the punishment of the one who tells slander and on the reward of the one who guards from it; see there.",
+   "severity": "error",
+   "reason": "Three faults. (1) וז\"ל followed by a name is 'and these are the words of X:' (decisions: וז\"ל הזהר), so the Kabbalist is the named speaker and stands outside the opening quotation mark; the translation put him inside the quotation and rendered 'his words' with no antecedent. (2) בעל היכל הברכה: Heikhal ha-Berakhah is a book title, and 'בעל + title' is 'the author of' (cf. בעל חובת הלבבות); titles are transliterated, with the meaning in a note. (3) The וז\"ל of 3:7.94 was dropped from the English though glossed; a stray space after the opening quotation mark is removed. Also: וכ' ע\"ש read as וכו' (etc.) with ע\"ש outside the quotation (see the token note); אף שמדבר is 'even though he speaks', not 'even one who speaks'; 'And the laws' is 'And among the laws'."
+  },
+  {
+   "ref": "3:7",
+   "path": "literal",
+   "value": "section-7 and-these-are-the-words-of the-Kabbalist the-author-of Heikhal ha-Berakhah a-commandment positive incumbent-on the-court-(beit-din) to-inquire and-to-examine - the-witnesses with-seven inquiries etc. also there-are examinations which-are questions what was clothing the-dust of-the-ground that-was standing upon-it black or sand or clay and-if they-contradicted one the-other is-void the-testimony from-the-roots-of the-commandment this the-bride the-included the-young-maiden beautiful who-has-not in-her eyes the-governance-of the-world this that-there-be choice free its-eyes like-doves a-deception for-the-sons-of man and-her-eyes of-hers in-the-palace of-merit the-eyes-of the-congregation who-judge with-knowledge on the-testimony-of two witnesses two crowns and-the-Da'at is the-secret of-the-eyes as-is-known and-the-light this spreads in-seven aspects etc. see-there and-concerning not go-about as-a-talebearer he-wrote and-these-are-his-words that-one-should-not tell his-fellow his-adversary spoke about-him evil as-it-is-said not go-about as-a-talebearer and-among-the-laws-of the-commandment even-though he-speaks the-truth and-there-is a-sin great in-this and-also within-the-scope-of the-prohibition this that-one-should-not speak in-disparagement-of his-fellow even true and-this as-if he-denied the-fundamental-principle etc. and-he-expanded further on-the-punishment-of the-one-who-tells slander evil and-on-the-reward-of the-one-who-guards-himself from-it see-there",
+   "severity": "error",
+   "reason": "Follows the corrected English."
+  },
+  {
+   "ref": "3:7",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:7.1"
+     ],
+     "english": "§7.",
+     "literal": "section-7"
+    },
+    {
+     "tokens": [
+      "3:7.2",
+      "3:7.3",
+      "3:7.4",
+      "3:7.5",
+      "3:7.6"
+     ],
+     "english": "And these are the words of the Kabbalist, the author of Heikhal ha-Berakhah:",
+     "literal": "and-these-are-the-words-of the-Kabbalist the-author-of Heikhal ha-Berakhah"
+    },
+    {
+     "tokens": [
+      "3:7.7",
+      "3:7.8",
+      "3:7.9",
+      "3:7.10",
+      "3:7.11",
+      "3:7.12",
+      "3:7.13",
+      "3:7.14",
+      "3:7.15",
+      "3:7.16",
+      "3:7.17"
+     ],
+     "english": "\"A positive commandment on the court to inquire into and to examine the witnesses with seven inquiries, etc.",
+     "literal": "a-commandment positive incumbent-on the-court-(beit-din) to-inquire and-to-examine - the-witnesses with-seven inquiries etc."
+    },
+    {
+     "tokens": [
+      "3:7.18",
+      "3:7.19",
+      "3:7.20",
+      "3:7.21",
+      "3:7.22",
+      "3:7.23",
+      "3:7.24",
+      "3:7.25"
+     ],
+     "english": "There are also examinations, which are questions: what clothing he wore;",
+     "literal": "also there-are examinations which-are questions what was clothing"
+    },
+    {
+     "tokens": [
+      "3:7.26",
+      "3:7.27",
+      "3:7.28",
+      "3:7.29",
+      "3:7.30",
+      "3:7.31",
+      "3:7.32",
+      "3:7.33",
+      "3:7.34",
+      "3:7.35"
+     ],
+     "english": "the dust of the ground on which he stood, whether black, or sand, or clay;",
+     "literal": "the-dust of-the-ground that-was standing upon-it black or sand or clay"
+    },
+    {
+     "tokens": [
+      "3:7.36",
+      "3:7.37",
+      "3:7.38",
+      "3:7.39",
+      "3:7.40",
+      "3:7.41"
+     ],
+     "english": "and if they contradict one another, the testimony is void.",
+     "literal": "and-if they-contradicted one the-other is-void the-testimony"
+    },
+    {
+     "tokens": [
+      "3:7.42",
+      "3:7.43",
+      "3:7.44",
+      "3:7.45",
+      "3:7.46",
+      "3:7.47",
+      "3:7.48",
+      "3:7.49",
+      "3:7.50",
+      "3:7.51"
+     ],
+     "english": "From the roots of this commandment: the included bride, the beautiful young maiden who has no eyes,",
+     "literal": "from-the-roots-of the-commandment this the-bride the-included the-young-maiden beautiful who-has-not in-her eyes"
+    },
+    {
+     "tokens": [
+      "3:7.52",
+      "3:7.53",
+      "3:7.54",
+      "3:7.55",
+      "3:7.56",
+      "3:7.57",
+      "3:7.58",
+      "3:7.59",
+      "3:7.60",
+      "3:7.61",
+      "3:7.62"
+     ],
+     "english": "the governance of this world, that there be free choice, whose eyes are like doves, a deception to the sons of man.",
+     "literal": "the-governance-of the-world this that-there-be choice free its-eyes like-doves a-deception for-the-sons-of man"
+    },
+    {
+     "tokens": [
+      "3:7.63",
+      "3:7.64",
+      "3:7.65",
+      "3:7.66",
+      "3:7.67",
+      "3:7.68"
+     ],
+     "english": "Her eyes in the Palace of Merit: the eyes of the congregation,",
+     "literal": "and-her-eyes of-hers in-the-palace of-merit the-eyes-of the-congregation"
+    },
+    {
+     "tokens": [
+      "3:7.69",
+      "3:7.70",
+      "3:7.71",
+      "3:7.72",
+      "3:7.73",
+      "3:7.74"
+     ],
+     "english": "who judge with knowledge on the testimony of two witnesses,",
+     "literal": "who-judge with-knowledge on the-testimony-of two witnesses"
+    },
+    {
+     "tokens": [
+      "3:7.75",
+      "3:7.76"
+     ],
+     "english": "two crowns;",
+     "literal": "two crowns"
+    },
+    {
+     "tokens": [
+      "3:7.77",
+      "3:7.78",
+      "3:7.79",
+      "3:7.80",
+      "3:7.81"
+     ],
+     "english": "and the Da'at is the secret of the eyes, as is known;",
+     "literal": "and-the-Da'at is the-secret of-the-eyes as-is-known"
+    },
+    {
+     "tokens": [
+      "3:7.82",
+      "3:7.83",
+      "3:7.84",
+      "3:7.85",
+      "3:7.86",
+      "3:7.87"
+     ],
+     "english": "and this light spreads in seven aspects, etc.\"",
+     "literal": "and-the-light this spreads in-seven aspects etc."
+    },
+    {
+     "tokens": [
+      "3:7.88"
+     ],
+     "english": "See there.",
+     "literal": "see-there"
+    },
+    {
+     "tokens": [
+      "3:7.89",
+      "3:7.90",
+      "3:7.91",
+      "3:7.92",
+      "3:7.93",
+      "3:7.94"
+     ],
+     "english": "And concerning the commandment \"You shall not go about as a talebearer,\" he wrote, and these are his words: \"",
+     "literal": "and-concerning not go-about as-a-talebearer he-wrote and-these-are-his-words"
+    },
+    {
+     "tokens": [
+      "3:7.95",
+      "3:7.96",
+      "3:7.97",
+      "3:7.98",
+      "3:7.99",
+      "3:7.100",
+      "3:7.101"
+     ],
+     "english": "that one should not tell his fellow that his adversary has spoken evil about him,",
+     "literal": "that-one-should-not tell his-fellow his-adversary spoke about-him evil"
+    },
+    {
+     "tokens": [
+      "3:7.102",
+      "3:7.103",
+      "3:7.104",
+      "3:7.105"
+     ],
+     "english": "as it is said, 'You shall not go about as a talebearer.'",
+     "literal": "as-it-is-said not go-about as-a-talebearer"
+    },
+    {
+     "tokens": [
+      "3:7.106",
+      "3:7.107",
+      "3:7.108",
+      "3:7.109",
+      "3:7.110"
+     ],
+     "english": "And among the laws of the commandment: even though he speaks the truth,",
+     "literal": "and-among-the-laws-of the-commandment even-though he-speaks the-truth"
+    },
+    {
+     "tokens": [
+      "3:7.111",
+      "3:7.112",
+      "3:7.113",
+      "3:7.114"
+     ],
+     "english": "there is a great sin in this.",
+     "literal": "and-there-is a-sin great in-this"
+    },
+    {
+     "tokens": [
+      "3:7.115",
+      "3:7.116",
+      "3:7.117",
+      "3:7.118"
+     ],
+     "english": "And also within the scope of this prohibition:",
+     "literal": "and-also within-the-scope-of the-prohibition this"
+    },
+    {
+     "tokens": [
+      "3:7.119",
+      "3:7.120",
+      "3:7.121",
+      "3:7.122",
+      "3:7.123",
+      "3:7.124"
+     ],
+     "english": "that one should not speak in disparagement of his fellow, even if true,",
+     "literal": "that-one-should-not speak in-disparagement-of his-fellow even true"
+    },
+    {
+     "tokens": [
+      "3:7.125",
+      "3:7.126",
+      "3:7.127",
+      "3:7.128",
+      "3:7.129"
+     ],
+     "english": "and this is as if he denied the fundamental principle, etc.\"",
+     "literal": "and-this as-if he-denied the-fundamental-principle etc."
+    },
+    {
+     "tokens": [
+      "3:7.130",
+      "3:7.131",
+      "3:7.132",
+      "3:7.133",
+      "3:7.134",
+      "3:7.135",
+      "3:7.136",
+      "3:7.137",
+      "3:7.138"
+     ],
+     "english": "And he expanded further on the punishment of the one who tells slander and on the reward of the one who guards from it;",
+     "literal": "and-he-expanded further on-the-punishment-of the-one-who-tells slander evil and-on-the-reward-of the-one-who-guards-himself from-it"
+    },
+    {
+     "tokens": [
+      "3:7.139"
+     ],
+     "english": "see there.",
+     "literal": "see-there"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.2.gloss",
+   "value": "and these are the words of",
+   "severity": "error",
+   "reason": "וז\"ל + name: \"and these are the words of X:\"."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.2.note",
+   "value": "Opening formula: וז\"ל = וזה לשון, \"and these are the words of\"; the name that follows (3:7.3-3:7.6) is the speaker, and the quotation opens after it, at 3:7.7.",
+   "severity": "error",
+   "reason": "The note placed the quotation mark before the speaker."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.4.gloss",
+   "value": "the author of",
+   "severity": "error",
+   "reason": "בעל + book title: \"the author of\" (decisions: בעל חובת הלבבות)."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.5.gloss",
+   "value": "Heikhal",
+   "severity": "error",
+   "reason": "Book title, transliterated."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.5.note",
+   "value": "היכל הברכה is a book title, Heikhal ha-Berakhah (literally \"Palace of Blessing\"), a Kabbalistic commentary on the Torah by R. Yitzchak Yehudah Yechiel Safrin of Komarno. The title is transliterated by the project scheme; the meaning is given here at the first occurrence.",
+   "severity": "error",
+   "reason": "Meaning of the title in a note, as the decisions require."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.6.gloss",
+   "value": "ha-Berakhah",
+   "severity": "error",
+   "reason": "Part of the transliterated title."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.56.gloss",
+   "value": "choice",
+   "severity": "style",
+   "reason": "חפשית is glossed separately in 3:7.57; \"free choice\" on 3:7.56 doubled it."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.77.note",
+   "value": "Da'at (literally \"knowledge\"): the Kabbalistic name of one of the sefirot, transliterated by the project's rule for Kabbalistic technical names. It is the author's word-link to בידיעה, \"with knowledge\" (3:7.70), from the same root.",
+   "severity": "style",
+   "reason": "The decisions require the literal sense in a note at the first occurrence; the transliteration itself is correct."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.87.gloss",
+   "value": "etc.",
+   "severity": "error",
+   "reason": "וכ' is וכו' (etc.): the quotation is cut short and ע\"ש sends the reader to the source."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.87.note",
+   "value": "וכ' is read as וכו' (etc.), the mark of a cut quotation, with ע\"ש as the author's own \"see there\" outside it. Open: the other reading is וכתב, \"and he wrote\", which would repeat what the quotation has just given; the translator's own grammar note also takes וכ' as וכו'.",
+   "severity": "question",
+   "reason": "Proposed ruling: וכ' = וכו' here; the owner may decide."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.94.gloss",
+   "value": "and these are his words",
+   "severity": "error",
+   "reason": "The ו of וז\"ל is part of the formula; the English must carry it."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.106.gloss",
+   "value": "and among the laws of",
+   "severity": "style",
+   "reason": "ומדיני = \"and from/among the laws of\"."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.108.gloss",
+   "value": "even though",
+   "severity": "error",
+   "reason": "אף ש introduces a concession; it is not \"even\" before a participle."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.109.gloss",
+   "value": "he speaks",
+   "severity": "error",
+   "reason": "שמדבר = \"that he speaks\", with אף: \"even though he speaks\"."
+  },
+  {
+   "ref": "3:7",
+   "path": "token:3:7.121.note",
+   "value": "Printed כגנות; the likelier word is בגנות, \"in disparagement of\" (the idiom דבר בגנות). Translated by the sense of the context.",
+   "severity": "error",
+   "reason": "Decisions: a printed word that does not fit its context is translated by the likelier word, and both are given in a token note and apparatus."
+  },
+  {
+   "ref": "3:7",
+   "path": "note",
+   "value": "The first quotation opens after the formula and the name of the speaker, and closes after \"etc.\"; the author's ע\"ש stands outside it. The second quotation has a Bible verse inside it, in single marks.",
+   "severity": "error",
+   "reason": "Follows the corrected quotation boundaries."
+  },
+  {
+   "ref": "3:7",
+   "path": "grammar",
+   "value": [
+    "The paragraph is two quotations. The first is introduced by וז\"ל המקובל בעל היכל הברכה (3:7.2-3:7.6), 'and these are the words of the Kabbalist, the author of Heikhal ha-Berakhah', and runs to וכו' (3:7.87); the author's own ע\"ש (3:7.88) stands outside it. The words עולימתא שפירתא דלית בה עינין, ועינין דילה, תרין עטרין and בני נשא are Aramaic and are rendered by sense. The text does not name their source, and none is added.",
+    "מצות עשה על הב\"ד לדרוש ולחקור: 'a positive commandment on the court to inquire and examine'. על with a noun reads 'incumbent upon'; the infinitives give the content of the commandment.",
+    "ואם כחשו זה לזה בטל העדות: a conditional with a perfect verb; the result clause is בטל, 'is void'. The two witnesses are the subject of the conflict (כחשו).",
+    "וז\"ל followed by a name means 'and these are the words of X:', so the Kabbalist (3:7.3-3:7.6) is the speaker named by the formula and not part of the quotation. בעל + a book title is 'the author of'.",
+    "אף שמדבר אמת: אף ש is 'even though'; the clause is a concession to the main clause ויש עון גדול בזה, 'there is a great sin in this'.",
+    "The second quotation begins at כתב וז\"ל (3:7.93-3:7.94) and ends at וכו' (3:7.129); the closing words והאריך עוד are the author's own report and take no quotation marks."
+   ],
+   "severity": "style",
+   "reason": "Corrects the first note and records the formula and the Aramaic words the first note missed."
+  },
+  {
+   "ref": "3:7",
+   "path": "apparatus",
+   "value": [
+    "Wikisource transcription. The 1931 scan is not yet collated; Wikisource additions are translated as base text (decisions, Q2).",
+    "Lev 19:16: 'לא תלך רכיל' (3:7.90-3:7.92 and 3:7.102-3:7.105). The quotation stops before בעמיך, so only the words on the page are translated.",
+    "Song 5:12: 'עיניו כיונים', 'his eyes are like doves' (3:7.58-3:7.59), embedded in the Kabbalist's text.",
+    "Deut 17:6: 'על פי שנים עדים', 'on the testimony of two witnesses' (3:7.71-3:7.74); cf. Deut 19:15.",
+    "3:7.121: printed כגנות; the likelier word is בגנות ('in disparagement of'), translated by the sense."
+   ],
+   "severity": "error",
+   "reason": "Bible verses embedded in the text must be listed (decisions); the printed-word variance must be recorded."
+  },
+  {
+   "ref": "3:7",
+   "path": "context",
+   "value": [
+    "Heikhal ha-Berakhah (\"Palace of Blessing\") is a Kabbalistic commentary on the Torah by R. Yitzchak Yehudah Yechiel Safrin of Komarno; the author of Milchamot ha-Shem cites it here for its remarks on the commandments."
+   ],
+   "severity": "style",
+   "reason": "A book a reader needs; says only what is established."
+  },
+  {
+   "ref": "3:8",
+   "path": "english",
+   "value": "§8. And in the warning, \"You shall not stand idly by the blood of your fellow,\" he wrote: \"even standing by, to any degree. You shall not see your fellow's distress when one puts him to shame, and you are silent; they stood and answered no more. But you shall protest with all your power against him who disgraces your fellow, or speaks about him with talebearing and slander; you shall not be one who hears and is silent, but you shall say to him: 'Wicked one, troubler of Israel, why do you speak defiance against the likeness of our Maker, and against the Shekhinah of our strength, which is the yod in \"among your people,\" and departs through this sin.' Therefore this was juxtaposed to that, 'You shall not go about as a talebearer,' and you might say: since I do not speak, I will listen and be silent, and take pleasure in what his fellow, a wicked man, speaks. This listener too is an utterly wicked person. And he transgresses 'You shall not stand idly by the blood of your fellow.' And he has no portion in the God of Israel when he hears a wicked one speak defiance against a righteous person, or whisper a whisper of lies about his fellow; rather, you shall immediately push him away and say to him: 'Wicked one, go away from me, I do not listen to you.' But if he hears and is silent, and all the more so if he takes pleasure, his end is to be judged in unblown fire, and he will not merit to stand in the company of the righteous, as listener, as answerer, as speaker. All of them shall perish from the world in this one, and in the world to come.\" Thus far his words.",
+   "severity": "error",
+   "reason": "(1) עמדו ולא ענו עוד: both verbs are third-person plural and the words are Job 32:16 (כי עמדו לא ענו עוד), 'they stood still, they answered no more'; 'he stood and did not answer again' is wrong (see the token note). (2) 'the Shekhinah, our strength' turns the construct שכינת עוזינו into an apposition: 'the Shekhinah of our strength'. (3) 'or whispers' makes the listener the whisperer; לוחש is parallel to מדבר under כששומע: 'or whisper'. (4) 'evil talk' for לשון הרע, against 'slander' in 3:7 and the token gloss. (5) 'evil talk, You shall not' is a comma splice with a capital; ועובר starts a sentence and needs 'And he'; ואין needs 'And'. (6) Style: 'that one puts him to shame' is ungrammatical English for שאחד מלבין פניו ('when one'); 'a listener and silent' is 'one who hears and is silent'; ותאמר is second person, 'and you might say'; 'the wicked one' is indefinite (רשע)."
+  },
+  {
+   "ref": "3:8",
+   "path": "literal",
+   "value": "section-8 and-in-the-warning not stand-idly by the-blood-of your-fellow he-wrote even standing-by any degree not you-see his-distress of your-fellow when one puts-to-shame his-face and-you are-silent they-stood and-not they-answered any-more but you-shall-be protesting with-all your-power against who-disgraces your-fellow or speaks about-him talebearing and-slander evil you not be one-who-hears and-silent but you-shall-say to-him wicked-one troubler of-Israel why do-you-speak defiance against the-likeness-of our-Maker and-against the-Shekhinah of-our-strength which-is the-yod in-'among-your-people' and-departs through this-sin therefore was-juxtaposed this to-that not go-about as-a-talebearer and-you-might-say since I-am-not speaking I-will-hear and-be-silent and-take-pleasure in-what his-fellow wicked-one speaks also this listener wicked utterly and-he-transgresses against not stand by blood-of your-fellow and-he-has-no for-him portion in-the-God-of Israel when-he-hears a-wicked-one speaks defiance against a-righteous-person or whispers a-whisper of-lies about his-fellow but immediately you-push him and-say to-him wicked-one go away-from-me I-do-not listen to-you but if he hears and-is-silent and-all the-more-so if he-takes-pleasure his-end is-judged in-fire not blown and-not he-will-merit to-stand in-the-enclosure of-the-righteous as-listener as-answerer as-speaker all-of-them shall-perish from the-world in-this and-in-the-world-to-come Thus-far-his-words",
+   "severity": "error",
+   "reason": "Follows the corrected English."
+  },
+  {
+   "ref": "3:8",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:8.1"
+     ],
+     "english": "§8.",
+     "literal": "section-8"
+    },
+    {
+     "tokens": [
+      "3:8.2",
+      "3:8.3",
+      "3:8.4",
+      "3:8.5",
+      "3:8.6",
+      "3:8.7"
+     ],
+     "english": "And in the warning, \"You shall not stand idly by the blood of your fellow,\"",
+     "literal": "and-in-the-warning not stand-idly by the-blood-of your-fellow"
+    },
+    {
+     "tokens": [
+      "3:8.8",
+      "3:8.9",
+      "3:8.10",
+      "3:8.11",
+      "3:8.12"
+     ],
+     "english": "he wrote: \"even standing by, to any degree.",
+     "literal": "he-wrote even standing-by any degree"
+    },
+    {
+     "tokens": [
+      "3:8.13",
+      "3:8.14",
+      "3:8.15",
+      "3:8.16",
+      "3:8.17",
+      "3:8.18",
+      "3:8.19",
+      "3:8.20"
+     ],
+     "english": "You shall not see your fellow's distress when one puts him to shame,",
+     "literal": "not you-see his-distress of your-fellow when one puts-to-shame his-face"
+    },
+    {
+     "tokens": [
+      "3:8.21",
+      "3:8.22"
+     ],
+     "english": "and you are silent;",
+     "literal": "and-you are-silent"
+    },
+    {
+     "tokens": [
+      "3:8.23",
+      "3:8.24",
+      "3:8.25",
+      "3:8.26"
+     ],
+     "english": "they stood and answered no more.",
+     "literal": "they-stood and-not they-answered any-more"
+    },
+    {
+     "tokens": [
+      "3:8.27",
+      "3:8.28",
+      "3:8.29",
+      "3:8.30",
+      "3:8.31"
+     ],
+     "english": "But you shall protest with all your power",
+     "literal": "but you-shall-be protesting with-all your-power"
+    },
+    {
+     "tokens": [
+      "3:8.32",
+      "3:8.33",
+      "3:8.34"
+     ],
+     "english": "against him who disgraces your fellow,",
+     "literal": "against who-disgraces your-fellow"
+    },
+    {
+     "tokens": [
+      "3:8.35",
+      "3:8.36",
+      "3:8.37",
+      "3:8.38",
+      "3:8.39",
+      "3:8.40"
+     ],
+     "english": "or speaks about him with talebearing and slander;",
+     "literal": "or speaks about-him talebearing and-slander evil"
+    },
+    {
+     "tokens": [
+      "3:8.41",
+      "3:8.42",
+      "3:8.43",
+      "3:8.44",
+      "3:8.45"
+     ],
+     "english": "you shall not be one who hears and is silent,",
+     "literal": "you not be one-who-hears and-silent"
+    },
+    {
+     "tokens": [
+      "3:8.46",
+      "3:8.47",
+      "3:8.48",
+      "3:8.49",
+      "3:8.50",
+      "3:8.51"
+     ],
+     "english": "but you shall say to him: 'Wicked one, troubler of Israel,",
+     "literal": "but you-shall-say to-him wicked-one troubler of-Israel"
+    },
+    {
+     "tokens": [
+      "3:8.52",
+      "3:8.53",
+      "3:8.54",
+      "3:8.55",
+      "3:8.56",
+      "3:8.57"
+     ],
+     "english": "why do you speak defiance against the likeness of our Maker,",
+     "literal": "why do-you-speak defiance against the-likeness-of our-Maker"
+    },
+    {
+     "tokens": [
+      "3:8.58",
+      "3:8.59",
+      "3:8.60",
+      "3:8.61",
+      "3:8.62",
+      "3:8.63"
+     ],
+     "english": "and against the Shekhinah of our strength, which is the yod in \"among your people,\"",
+     "literal": "and-against the-Shekhinah of-our-strength which-is the-yod in-'among-your-people'"
+    },
+    {
+     "tokens": [
+      "3:8.64",
+      "3:8.65",
+      "3:8.66"
+     ],
+     "english": "and departs through this sin.'",
+     "literal": "and-departs through this-sin"
+    },
+    {
+     "tokens": [
+      "3:8.67",
+      "3:8.68",
+      "3:8.69",
+      "3:8.70"
+     ],
+     "english": "Therefore this was juxtaposed to that,",
+     "literal": "therefore was-juxtaposed this to-that"
+    },
+    {
+     "tokens": [
+      "3:8.71",
+      "3:8.72",
+      "3:8.73"
+     ],
+     "english": "'You shall not go about as a talebearer,'",
+     "literal": "not go-about as-a-talebearer"
+    },
+    {
+     "tokens": [
+      "3:8.74",
+      "3:8.75",
+      "3:8.76",
+      "3:8.77"
+     ],
+     "english": "and you might say: since I do not speak,",
+     "literal": "and-you-might-say since I-am-not speaking"
+    },
+    {
+     "tokens": [
+      "3:8.78",
+      "3:8.79",
+      "3:8.80",
+      "3:8.81",
+      "3:8.82",
+      "3:8.83",
+      "3:8.84"
+     ],
+     "english": "I will listen and be silent, and take pleasure in what his fellow, a wicked man, speaks.",
+     "literal": "I-will-hear and-be-silent and-take-pleasure in-what his-fellow wicked-one speaks"
+    },
+    {
+     "tokens": [
+      "3:8.85",
+      "3:8.86",
+      "3:8.87",
+      "3:8.88",
+      "3:8.89"
+     ],
+     "english": "This listener too is an utterly wicked person.",
+     "literal": "also this listener wicked utterly"
+    },
+    {
+     "tokens": [
+      "3:8.90",
+      "3:8.91",
+      "3:8.92",
+      "3:8.93",
+      "3:8.94",
+      "3:8.95",
+      "3:8.96"
+     ],
+     "english": "And he transgresses 'You shall not stand idly by the blood of your fellow.'",
+     "literal": "and-he-transgresses against not stand by blood-of your-fellow"
+    },
+    {
+     "tokens": [
+      "3:8.97",
+      "3:8.98",
+      "3:8.99",
+      "3:8.100",
+      "3:8.101"
+     ],
+     "english": "And he has no portion in the God of Israel",
+     "literal": "and-he-has-no for-him portion in-the-God-of Israel"
+    },
+    {
+     "tokens": [
+      "3:8.102",
+      "3:8.103",
+      "3:8.104",
+      "3:8.105",
+      "3:8.106",
+      "3:8.107"
+     ],
+     "english": "when he hears a wicked one speak defiance against a righteous person,",
+     "literal": "when-he-hears a-wicked-one speaks defiance against a-righteous-person"
+    },
+    {
+     "tokens": [
+      "3:8.108",
+      "3:8.109",
+      "3:8.110",
+      "3:8.111",
+      "3:8.112",
+      "3:8.113"
+     ],
+     "english": "or whisper a whisper of lies about his fellow;",
+     "literal": "or whispers a-whisper of-lies about his-fellow"
+    },
+    {
+     "tokens": [
+      "3:8.114",
+      "3:8.115",
+      "3:8.116",
+      "3:8.117"
+     ],
+     "english": "rather, you shall immediately push him away",
+     "literal": "but immediately you-push him"
+    },
+    {
+     "tokens": [
+      "3:8.118",
+      "3:8.119",
+      "3:8.120",
+      "3:8.121",
+      "3:8.122"
+     ],
+     "english": "and say to him: 'Wicked one, go away from me,",
+     "literal": "and-say to-him wicked-one go away-from-me"
+    },
+    {
+     "tokens": [
+      "3:8.123",
+      "3:8.124",
+      "3:8.125"
+     ],
+     "english": "I do not listen to you.'",
+     "literal": "I-do-not listen to-you"
+    },
+    {
+     "tokens": [
+      "3:8.126",
+      "3:8.127",
+      "3:8.128",
+      "3:8.129",
+      "3:8.130"
+     ],
+     "english": "But if he hears and is silent,",
+     "literal": "but if he hears and-is-silent"
+    },
+    {
+     "tokens": [
+      "3:8.131",
+      "3:8.132",
+      "3:8.133",
+      "3:8.134"
+     ],
+     "english": "and all the more so if he takes pleasure,",
+     "literal": "and-all the-more-so if he-takes-pleasure"
+    },
+    {
+     "tokens": [
+      "3:8.135",
+      "3:8.136",
+      "3:8.137",
+      "3:8.138",
+      "3:8.139"
+     ],
+     "english": "his end is to be judged in unblown fire,",
+     "literal": "his-end is-judged in-fire not blown"
+    },
+    {
+     "tokens": [
+      "3:8.140",
+      "3:8.141",
+      "3:8.142",
+      "3:8.143",
+      "3:8.144"
+     ],
+     "english": "and he will not merit to stand in the company of the righteous,",
+     "literal": "and-not he-will-merit to-stand in-the-enclosure of-the-righteous"
+    },
+    {
+     "tokens": [
+      "3:8.145",
+      "3:8.146",
+      "3:8.147"
+     ],
+     "english": "as listener, as answerer, as speaker.",
+     "literal": "as-listener as-answerer as-speaker"
+    },
+    {
+     "tokens": [
+      "3:8.148",
+      "3:8.149",
+      "3:8.150",
+      "3:8.151",
+      "3:8.152"
+     ],
+     "english": "All of them shall perish from the world in this one,",
+     "literal": "all-of-them shall-perish from the-world in-this"
+    },
+    {
+     "tokens": [
+      "3:8.153"
+     ],
+     "english": "and in the world to come.\"",
+     "literal": "and-in-the-world-to-come"
+    },
+    {
+     "tokens": [
+      "3:8.154"
+     ],
+     "english": "Thus far his words.",
+     "literal": "Thus-far-his-words"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.4.note",
+   "value": "תעמוד על: 'idly' is not in the Hebrew, and the author's gloss, 'even any standing (עמידה)', reads the verb as standing itself. Proposed ruling for Lev 19:16 in this work: 'You shall not stand by the blood of your fellow', without 'idly', in 3:8.2-3:8.7 and 3:8.90-3:8.96; the owner decides.",
+   "severity": "question",
+   "reason": "Rulings are silent on the rendering of Lev 19:16 second half; \"idly\" is an addition to the verse."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.18.gloss",
+   "value": "when one",
+   "severity": "style",
+   "reason": "ש here is \"when\", not \"that\"."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.23.gloss",
+   "value": "they stood",
+   "severity": "error",
+   "reason": "עמדו is third-person plural, as is ענו."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.23.note",
+   "value": "עמדו: third-person plural, from Job 32:16, 'כי עמדו לא ענו עוד' ('they stood still, they answered no more'). The author names no subject and none is added. 'He stood' and 'his standing' do not fit the plural ענו.",
+   "severity": "error",
+   "reason": "Resolves the ambiguity the translator left open: the verse fixes the plural verb."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.25.gloss",
+   "value": "they answered",
+   "severity": "error",
+   "reason": "ענו is plural."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.26.gloss",
+   "value": "any more",
+   "severity": "error",
+   "reason": "As in Job 32:16: \"answered no more\"."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.44.gloss",
+   "value": "one who hears",
+   "severity": "style",
+   "reason": "Participle."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.45.gloss",
+   "value": "and is silent",
+   "severity": "style",
+   "reason": "Follows the English."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.50.note",
+   "value": "עוכר ישראל: 'troubler of Israel', the phrase of 1 Kgs 18:17 (Ahab to Elijah); see the root in Josh 7:25.",
+   "severity": "style",
+   "reason": "A verse the reviewer can verify; the phrase is an allusion."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.54.note",
+   "value": "דבר סרה: 'speak defiance, rebellion', as in Deut 13:6 (דבר סרה על ה') and Jer 28:16; the verse's sense governs the word.",
+   "severity": "style",
+   "reason": "Allusion to be recognised and listed."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.60.gloss",
+   "value": "of our strength",
+   "severity": "error",
+   "reason": "Construct state: שכינת עוזינו."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.74.note",
+   "value": "ותאמר: 'and you might say', the second-person objection the author answers.",
+   "severity": "style",
+   "reason": "Second-person address is kept."
+  },
+  {
+   "ref": "3:8",
+   "path": "token:3:8.139.note",
+   "value": "לא נופח: fire that is not fanned; the phrase is from Job 20:26 (אש לא נפח, 'a fire not fanned').",
+   "severity": "style",
+   "reason": "Allusion to be recognised and listed."
+  },
+  {
+   "ref": "3:8",
+   "path": "grammar",
+   "value": [
+    "The quotation opens with כ' (he wrote) after the verse לא תעמוד על דם רעך, and closes at עכ\"ל. Within it, direct address is in single marks, and the verse לא תעמוד על דם רעך is a single-marked quotation inside the outer quotation.",
+    "ולכך נסמכה זה לזה: 'for this reason this was placed next to that'. The verse לא תלך רכיל is the second member of the pair; ותאמר ('and you might say') begins the objection that the author answers.",
+    "עמדו ולא ענו עוד: both verbs are third-person plural, and the words are Job 32:16. 'They stood and answered no more' follows the verse; the Hebrew names no subject and none is added.",
+    "כששומע רשע מדבר סרה על צדיק, או לוחש מלחש בשקרים על חברו: לוחש is a participle parallel to מדבר, both governed by כששומע ('when he hears a wicked one speak ... or whisper ...'), so the wicked one is the whisperer.",
+    "וכל שכן ('all the more so') introduces the consequence. The three participles כשומע, כעונה, כמדבר ('as listener, as answerer, as speaker') are the ways of taking part, and כולם יספו ('all of them shall perish') refers back to them; for the other reading of the כ ('like'), see readings."
+   ],
+   "severity": "error",
+   "reason": "The first notes miss the Job verse that fixes עמדו ענו, and the parallel of לוחש with מדבר."
+  },
+  {
+   "ref": "3:8",
+   "path": "apparatus",
+   "value": [
+    "Lev 19:16: 'לא תעמוד על דם רעך' (3:8.2-3:8.7 and 3:8.90-3:8.96), and 'לא תלך רכיל' (3:8.71-3:8.73), quoted as the author gives them.",
+    "Lev 19:16, 'בעמיך', is the source of the yod of the Shekhinah (3:8.62-3:8.63); the author's reading, not a translation of the verse's sense.",
+    "Job 32:16: 'כי עמדו לא ענו עוד', 'they stood still, they answered no more' (3:8.23-3:8.26); the author's words are 'עמדו ולא ענו עוד'.",
+    "1 Kgs 18:17: 'עכר ישראל', 'troubler of Israel' (3:8.50-3:8.51); cf. Josh 7:25.",
+    "Deut 13:6: 'דבר סרה על ה'' (3:8.53-3:8.57, 3:8.103-3:8.107); cf. Jer 28:16.",
+    "Job 20:26: 'אש לא נפח', 'a fire not fanned' (3:8.138-3:8.139); the author's printed word is נופח."
+   ],
+   "severity": "error",
+   "reason": "Bible verses embedded in the text must be listed (decisions); these were not."
+  },
+  {
+   "ref": "3:8",
+   "path": "readings",
+   "value": [
+    {
+     "tokens": [
+      "3:8.81",
+      "3:8.82",
+      "3:8.83",
+      "3:8.84"
+     ],
+     "english": "in what a wicked man speaks about his fellow",
+     "source": "grammar (object of מדבר)",
+     "note": "The translation takes חברו as the speaker's own fellow ('his fellow, a wicked man'); the context (3:8.102-3:8.113, hearing a wicked one speak against another) allows the sense 'what a wicked man says of his fellow'."
+    },
+    {
+     "tokens": [
+      "3:8.145",
+      "3:8.146",
+      "3:8.147",
+      "3:8.148"
+     ],
+     "english": "the one who hears, like the one who answers, like the one who speaks: all of them shall perish",
+     "source": "grammar (כ as like)",
+     "note": "The prefix כ is 'like' in its ordinary sense; the English of the translation ('as listener, as answerer, as speaker') attaches the three to 'stand in the company of the righteous'. Proposed ruling: keep the main English and record this reading; the owner decides."
+    }
+   ],
+   "severity": "question",
+   "reason": "Alternative readings the grammar allows (brief, check 9)."
+  }
+ ],
+ "verdicts": []
+}

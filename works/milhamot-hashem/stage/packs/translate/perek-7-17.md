@@ -566,6 +566,11 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
   for בחיי alone is "Bachya".
 - A reply introduced by ויאמר inside a quotation takes double marks; the
   author's report of a sage's question stays unmarked.
+- ר' before a name: "Rabbi" (בר' בחיי: "Rabbi Bachya"); רבינו = "Rabbeinu".
+- A Hebrew period with no main clause that is completed in the next segment:
+  keep the Hebrew full stops and record the continuation in the segment `note`;
+  join with semicolons only where the English becomes unreadable.
+
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:
