@@ -2,6 +2,7 @@
  "default": "haiku",
  "sonnet": [
   "perek-2-07",
+  "perek-3-07",
   "perek-4-01",
   "perek-4-02",
   "perek-4-04",
@@ -17,5 +18,6 @@
   "perek-8-19",
   "perek-9-08"
  ],
- "why": "Sonnet translates units with Aramaic quotation (>=6 marker words: דא איהו אינון בגין דלא ההוא כדין זכאה ...) and the Judeo-Arabic units 5:3, 7:24, 9:10, 2:13. Heuristic; the Sonnet review covers every unit."
+ "why": "Sonnet translates units with Aramaic quotation (>=6 marker words: דא איהו אינון בגין דלא ההוא כדין זכאה ...) and the Judeo-Arabic units 5:3, 7:24, 9:10, 2:13. Heuristic; the Sonnet review covers every unit.",
+ "note": "perek-3-07 added: it carries Judeo-Arabic (Saadia, 3:12) that the first heuristic missed; Haiku translated it before the list was updated, so Sonnet reviews it with attention to the Arabic."
 }

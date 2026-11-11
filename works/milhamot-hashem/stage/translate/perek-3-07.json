@@ -1,0 +1,2058 @@
+{
+  "unit": "perek-3-07",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "3:12",
+      "english": "§12. Behold, then, surely that all your words are exaggerations and embellishments, to alarm the fools and the madmen who love wonders and impossibilities, and you speak without knowledge. And all your words are without reason. And in deceit you refuse to know the LORD, as the prophet Jeremiah, peace be upon him, said in the name of the LORD: \"You dwell in the midst of deceit; through deceit they have refused to know Me, declares the LORD.\" And already one of the deceivers among you has said: \"We know that the truth is with you.\" But what business is it of yours to reveal this matter and to publicize it to some of the students. It would be better for you to leave them in their error entirely, as the words of the wicked one among the four sons, who says: \"What is this service to you? etc.\" And the proof that you are a blind and insipid man: for in this letter of yours you published that the Rabbi, the author of Matzref ha-Emunah, is, God forbid, a heretic and a denier. And you read his book, Mesharef ha-Emunah. And he, in his integrity, walks without turning aside from the words of the Zohar, and Mikdash Melekh, and Kisse Eliyahu, and the RaShB, and Yosher Levav, and Sefer ha-Berit, and Rabbi the Ari, and Rabbi Chayyim Vital in the book Etz Chayyim, and Nachalat Yosef, and their finest flour, right and left. As will be explained below, but first I will bring you several proofs. This Kabbalah is not a halakhah given to Moses at Sinai, for our Rabbis of blessed memory said in Eruvin: \"Any baraita that is not taught in the house of Rabbi Oshaya, it is not a baraita, and you may not object from it, for it is corrupted.\" Thus, any baraita that did not enter the study-house of Rabbi Chiyya or of Rabbi Oshaya, it goes without saying that it is not a halakhah given to Moses at Sinai. But one may not even raise an objection from it against an Amora. And in the Yerushalmi, Eruvin, chapter one, in the passage de-Lechayyim, it is written. And these are his words: \"Acha said to him: So said Rabbi Shimon ben Lakish: any mishnah that did not enter the fellowship, one does not rely on it.\" Thus far. And see below, §42. And in an old notebook of the compositions of our forefathers I found written in the name of Rabbi Saadia Gaon, and these are his words: \"The book Shiur Komah: no trustworthy transmission has come down concerning it, for it is not in the Mishnah and not in the Talmud. And there is no proof by which one can establish whether Rabbi Ishmael truly said it, or another said it and it is ascribed to him, as many of the books attributed to him are ascribed to some of the famous scholars.\" Thus far his words. (The author's own translation: \"The book Shiur Komah: we have no tradition concerning it from the sages of our faith, since it is neither in the Mishnah nor in the Talmud, and also there is no proof to be drawn from it whether Rabbi Ishmael truly said it, or others besides him said it and ascribed it to Rabbi Ishmael, as they ascribe many of the books made for some of the famous sages.\")",
+      "literal": "§12 behold indeed so, then surely that all your words exaggerations and embellishments to alarm - the fools and the madmen lovers of the wonders and the impossibilities and not with knowledge you speak and all your words not with reason and in deceit you refuse to know - the LORD as the words of the prophet Jeremiah peace be upon him in the name of the LORD you dwell in the midst of deceit through deceit have refused to know Me declares the LORD and already has said one of the deceivers among you we know that the truth is with you but what to you to reveal matter this and to publicize to some the students better for you to leave them in their error entirely as the words of the wicked one among the four sons who says what the service this to you etc. and the proof that you are blind insipid for you published in your letter this that the Rabbi the author of Matzref ha-Emunah is God forbid a heretic and a denier and you read - his book Mesharef ha-Emunah and he in his integrity walks not turning aside from the words of the Zohar and Mikdash Melekh and Kisse Eliyahu and the RaShB and Yosher Levav and Sefer ha-Berit and Rabbi the Ari and Rabbi Chayyim Vital in the book Etz Chayyim and Nachalat Yosef and their finest flour right and left and as will be explained below but first I will bring to you several proofs is not the Kabbalah this a halakhah given to Moses at Sinai for said our Rabbis of blessed memory in Eruvin any baraita that is not taught in the house of Rabbi Oshaya it is not a baraita it and you may not object from it for it is corrupted it thus any baraita that did not enter into the house of his study-house of Rabbi Chiyya or of Rabbi Oshaya not it goes without saying that not it is a halakhah given to Moses at Sinai but even to object from it against an Amora not we raise and in the Yerushalmi Eruvin chapter the first in the passage de-Lechayyim and these are his words: said to him Acha so said Rabbi Shimon ben Lakish any mishnah that did not enter the fellowship one does not rely on it thus far and see below section §42 and in a notebook old the compositions of our forefathers I found written in the name of Rabbi Saadia Gaon and these are his words: the book Shiur Komah no has come down concerning it transmission trustworthy for is not it in the Mishnah and not in the Talmud and there is not proof one can establish by which whether said it Rabbi Ishmael in truth or another said it and it is ascribed to him as are ascribed many of the books attributed to him to some scholars famous thus far his words translation by the Rabbi the author the book Shiur Komah there is not for us tradition concerning it from the sages of our faith since it is not neither in the Mishnah nor in the Talmud and also there is no proof to be drawn from it whether said Rabbi Ishmael truly or others besides him said it and ascribed it to Rabbi Ishmael as as they ascribe many of the books made for some of the sages famous",
+      "tokens": [
+        {
+          "id": "3:12.1",
+          "gloss": "§12",
+          "note": "The section number as the author gives it; the book's sections are numbered through the whole book, from §2 at 3:1 to §144 at 10:6."
+        },
+        {
+          "id": "3:12.2",
+          "gloss": "behold"
+        },
+        {
+          "id": "3:12.3",
+          "gloss": "indeed"
+        },
+        {
+          "id": "3:12.4",
+          "gloss": "so, then"
+        },
+        {
+          "id": "3:12.5",
+          "gloss": "surely"
+        },
+        {
+          "id": "3:12.6",
+          "gloss": "that all",
+          "note": "The ש opens a clause; the English makes 'all your words are' the main predicate after 'surely'."
+        },
+        {
+          "id": "3:12.7",
+          "gloss": "your words"
+        },
+        {
+          "id": "3:12.8",
+          "gloss": "exaggerations"
+        },
+        {
+          "id": "3:12.9",
+          "gloss": "and embellishments",
+          "note": "Literal 'and cuttings'; set beside הפלגות as a second word for the same fault of speech."
+        },
+        {
+          "id": "3:12.10",
+          "gloss": "to alarm"
+        },
+        {
+          "id": "3:12.11",
+          "gloss": "-",
+          "note": "The object marker את; no English counterpart."
+        },
+        {
+          "id": "3:12.12",
+          "gloss": "the fools"
+        },
+        {
+          "id": "3:12.13",
+          "gloss": "and the madmen"
+        },
+        {
+          "id": "3:12.14",
+          "gloss": "lovers of",
+          "note": "Construct chain: 'lovers of the wonders and the impossibilities'."
+        },
+        {
+          "id": "3:12.15",
+          "gloss": "the wonders"
+        },
+        {
+          "id": "3:12.16",
+          "gloss": "and the impossibilities"
+        },
+        {
+          "id": "3:12.17",
+          "gloss": "and not"
+        },
+        {
+          "id": "3:12.18",
+          "gloss": "with knowledge",
+          "note": "The negation ולא governs 'with knowledge'."
+        },
+        {
+          "id": "3:12.19",
+          "gloss": "you speak"
+        },
+        {
+          "id": "3:12.20",
+          "gloss": "and all"
+        },
+        {
+          "id": "3:12.21",
+          "gloss": "your words"
+        },
+        {
+          "id": "3:12.22",
+          "gloss": "not",
+          "note": "לא negates 'with reason'."
+        },
+        {
+          "id": "3:12.23",
+          "gloss": "with reason",
+          "note": "השכל: reason, understanding."
+        },
+        {
+          "id": "3:12.24",
+          "gloss": "and in deceit"
+        },
+        {
+          "id": "3:12.25",
+          "gloss": "you"
+        },
+        {
+          "id": "3:12.26",
+          "gloss": "refuse"
+        },
+        {
+          "id": "3:12.27",
+          "gloss": "to know"
+        },
+        {
+          "id": "3:12.28",
+          "gloss": "-",
+          "note": "The object marker את; no English counterpart."
+        },
+        {
+          "id": "3:12.29",
+          "gloss": "the LORD",
+          "note": "The Tetragrammaton as written. The pack splits it into ה and the apostrophe, which is punctuation."
+        },
+        {
+          "id": "3:12.30",
+          "gloss": "as the words of"
+        },
+        {
+          "id": "3:12.31",
+          "gloss": "the prophet"
+        },
+        {
+          "id": "3:12.32",
+          "gloss": "Jeremiah"
+        },
+        {
+          "id": "3:12.33",
+          "gloss": "peace be upon him",
+          "note": "ע\"ה: 'peace be upon him', an honorific for a prophet."
+        },
+        {
+          "id": "3:12.34",
+          "gloss": "in the name of"
+        },
+        {
+          "id": "3:12.35",
+          "gloss": "the LORD"
+        },
+        {
+          "id": "3:12.36",
+          "gloss": "you dwell"
+        },
+        {
+          "id": "3:12.37",
+          "gloss": "in the midst of"
+        },
+        {
+          "id": "3:12.38",
+          "gloss": "deceit"
+        },
+        {
+          "id": "3:12.39",
+          "gloss": "through deceit"
+        },
+        {
+          "id": "3:12.40",
+          "gloss": "have refused",
+          "note": "A perfect (מאנו), rendered 'have refused' as in the verse."
+        },
+        {
+          "id": "3:12.41",
+          "gloss": "to know"
+        },
+        {
+          "id": "3:12.42",
+          "gloss": "Me"
+        },
+        {
+          "id": "3:12.43",
+          "gloss": "declares"
+        },
+        {
+          "id": "3:12.44",
+          "gloss": "the LORD",
+          "note": "The Tetragrammaton as written, closing the verse's 'נאם ה''."
+        },
+        {
+          "id": "3:12.45",
+          "gloss": "and already"
+        },
+        {
+          "id": "3:12.46",
+          "gloss": "has said"
+        },
+        {
+          "id": "3:12.47",
+          "gloss": "one"
+        },
+        {
+          "id": "3:12.48",
+          "gloss": "of"
+        },
+        {
+          "id": "3:12.49",
+          "gloss": "the deceivers",
+          "note": "The word for deceivers shares the root of מרמה, 'deceit', in the verse above."
+        },
+        {
+          "id": "3:12.50",
+          "gloss": "among you"
+        },
+        {
+          "id": "3:12.51",
+          "gloss": "we know"
+        },
+        {
+          "id": "3:12.52",
+          "gloss": "that the truth"
+        },
+        {
+          "id": "3:12.53",
+          "gloss": "is with you"
+        },
+        {
+          "id": "3:12.54",
+          "gloss": "but"
+        },
+        {
+          "id": "3:12.55",
+          "gloss": "what"
+        },
+        {
+          "id": "3:12.56",
+          "gloss": "to you",
+          "note": "מה לכם: the idiom 'what is it to you', rendered as 'what business is it of yours'."
+        },
+        {
+          "id": "3:12.57",
+          "gloss": "to reveal"
+        },
+        {
+          "id": "3:12.58",
+          "gloss": "matter",
+          "note": "'matter', with 'this' in the next token."
+        },
+        {
+          "id": "3:12.59",
+          "gloss": "this"
+        },
+        {
+          "id": "3:12.60",
+          "gloss": "and to publicize"
+        },
+        {
+          "id": "3:12.61",
+          "gloss": "to some"
+        },
+        {
+          "id": "3:12.62",
+          "gloss": "the students"
+        },
+        {
+          "id": "3:12.63",
+          "gloss": "better"
+        },
+        {
+          "id": "3:12.64",
+          "gloss": "for you"
+        },
+        {
+          "id": "3:12.65",
+          "gloss": "to leave them"
+        },
+        {
+          "id": "3:12.66",
+          "gloss": "in their error"
+        },
+        {
+          "id": "3:12.67",
+          "gloss": "entirely",
+          "note": "ממש: 'entirely' here."
+        },
+        {
+          "id": "3:12.68",
+          "gloss": "as the words of"
+        },
+        {
+          "id": "3:12.69",
+          "gloss": "the wicked one",
+          "note": "The wicked son of the four sons of the Passover Haggadah."
+        },
+        {
+          "id": "3:12.70",
+          "gloss": "among the four"
+        },
+        {
+          "id": "3:12.71",
+          "gloss": "sons"
+        },
+        {
+          "id": "3:12.72",
+          "gloss": "who says"
+        },
+        {
+          "id": "3:12.73",
+          "gloss": "what"
+        },
+        {
+          "id": "3:12.74",
+          "gloss": "the service",
+          "note": "Not 'worship': the Haggadah's word for the rite."
+        },
+        {
+          "id": "3:12.75",
+          "gloss": "this"
+        },
+        {
+          "id": "3:12.76",
+          "gloss": "to you"
+        },
+        {
+          "id": "3:12.77",
+          "gloss": "etc.",
+          "note": "Truncated quotation: וכו' is kept as 'etc.'."
+        },
+        {
+          "id": "3:12.78",
+          "gloss": "and the proof"
+        },
+        {
+          "id": "3:12.79",
+          "gloss": "that you are"
+        },
+        {
+          "id": "3:12.80",
+          "gloss": "blind",
+          "note": "טח: plastered over; here 'blind'."
+        },
+        {
+          "id": "3:12.81",
+          "gloss": "insipid",
+          "note": "תפל: insipid, tasteless; here 'foolish'."
+        },
+        {
+          "id": "3:12.82",
+          "gloss": "for"
+        },
+        {
+          "id": "3:12.83",
+          "gloss": "you published"
+        },
+        {
+          "id": "3:12.84",
+          "gloss": "in your letter"
+        },
+        {
+          "id": "3:12.85",
+          "gloss": "this"
+        },
+        {
+          "id": "3:12.86",
+          "gloss": "that the Rabbi"
+        },
+        {
+          "id": "3:12.87",
+          "gloss": "the author of",
+          "note": "בעל: 'the author of' (the Hebrew says בעל, so the English keeps it)."
+        },
+        {
+          "id": "3:12.88",
+          "gloss": "Matzref",
+          "note": "Matzref ha-Emunah: 'the refining of faith', from צרף, 'refine'. The title of the book the author defends."
+        },
+        {
+          "id": "3:12.89",
+          "gloss": "ha-Emunah"
+        },
+        {
+          "id": "3:12.90",
+          "gloss": "is"
+        },
+        {
+          "id": "3:12.91",
+          "gloss": "God forbid",
+          "note": "ח\"ו: God forbid."
+        },
+        {
+          "id": "3:12.92",
+          "gloss": "a heretic"
+        },
+        {
+          "id": "3:12.93",
+          "gloss": "and a denier"
+        },
+        {
+          "id": "3:12.94",
+          "gloss": "and you read"
+        },
+        {
+          "id": "3:12.95",
+          "gloss": "-"
+        },
+        {
+          "id": "3:12.96",
+          "gloss": "his book"
+        },
+        {
+          "id": "3:12.97",
+          "gloss": "Mesharef",
+          "note": "Mesharef ha-Emunah: 'the burning of faith', from שרף, 'burn'. The critic's version of the title, a play on Matzref in the token above."
+        },
+        {
+          "id": "3:12.98",
+          "gloss": "ha-Emunah"
+        },
+        {
+          "id": "3:12.99",
+          "gloss": "and he"
+        },
+        {
+          "id": "3:12.100",
+          "gloss": "in his integrity"
+        },
+        {
+          "id": "3:12.101",
+          "gloss": "walks"
+        },
+        {
+          "id": "3:12.102",
+          "gloss": "not"
+        },
+        {
+          "id": "3:12.103",
+          "gloss": "turning aside"
+        },
+        {
+          "id": "3:12.104",
+          "gloss": "from the words of"
+        },
+        {
+          "id": "3:12.105",
+          "gloss": "the Zohar"
+        },
+        {
+          "id": "3:12.106",
+          "gloss": "and Mikdash",
+          "note": "Mikdash Melekh: 'the sanctuary of the king'; a book title, transliterated."
+        },
+        {
+          "id": "3:12.107",
+          "gloss": "Melekh"
+        },
+        {
+          "id": "3:12.108",
+          "gloss": "and Kisse Eliyahu",
+          "note": "Kisse Eliyahu: 'Elijah's throne'; the abbreviation כס\"א is written out."
+        },
+        {
+          "id": "3:12.109",
+          "gloss": "and the RaShB",
+          "note": "The acronym is kept as the author writes it; the work it names is not identified in this unit."
+        },
+        {
+          "id": "3:12.110",
+          "gloss": "and Yosher",
+          "note": "Yosher Levav: 'uprightness of heart'."
+        },
+        {
+          "id": "3:12.111",
+          "gloss": "Levav"
+        },
+        {
+          "id": "3:12.112",
+          "gloss": "and Sefer"
+        },
+        {
+          "id": "3:12.113",
+          "gloss": "ha-Berit",
+          "note": "Sefer ha-Berit: 'the book of the covenant'."
+        },
+        {
+          "id": "3:12.114",
+          "gloss": "and Rabbi"
+        },
+        {
+          "id": "3:12.115",
+          "gloss": "the Ari",
+          "note": "The Ari: the name by which these texts call Isaac Luria."
+        },
+        {
+          "id": "3:12.116",
+          "gloss": "and Rabbi Chayyim Vital",
+          "note": "מהרח\"ו: Rabbi Chayyim Vital, the acronym written out."
+        },
+        {
+          "id": "3:12.117",
+          "gloss": "in the book"
+        },
+        {
+          "id": "3:12.118",
+          "gloss": "Etz",
+          "note": "Etz Chayyim: 'tree of life'."
+        },
+        {
+          "id": "3:12.119",
+          "gloss": "Chayyim"
+        },
+        {
+          "id": "3:12.120",
+          "gloss": "and Nachalat",
+          "note": "Nachalat Yosef: 'the inheritance of Joseph'."
+        },
+        {
+          "id": "3:12.121",
+          "gloss": "Yosef"
+        },
+        {
+          "id": "3:12.122",
+          "gloss": "and their finest flour",
+          "note": "Literal 'their fine flour' (סולת). With ימין ושמאל the figure is 'the best of them, right and left'."
+        },
+        {
+          "id": "3:12.123",
+          "gloss": "right"
+        },
+        {
+          "id": "3:12.124",
+          "gloss": "and left"
+        },
+        {
+          "id": "3:12.125",
+          "gloss": "and as"
+        },
+        {
+          "id": "3:12.126",
+          "gloss": "will be explained"
+        },
+        {
+          "id": "3:12.127",
+          "gloss": "below"
+        },
+        {
+          "id": "3:12.128",
+          "gloss": "but first"
+        },
+        {
+          "id": "3:12.129",
+          "gloss": "I will bring"
+        },
+        {
+          "id": "3:12.130",
+          "gloss": "to you"
+        },
+        {
+          "id": "3:12.131",
+          "gloss": "several"
+        },
+        {
+          "id": "3:12.132",
+          "gloss": "proofs"
+        },
+        {
+          "id": "3:12.133",
+          "gloss": "is not",
+          "note": "The ש opens a clause; the English makes 'This Kabbalah is not...' the main clause, after the full stop kept before it."
+        },
+        {
+          "id": "3:12.134",
+          "gloss": "the Kabbalah",
+          "note": "הקבלה: 'the Kabbalah', the lore, set against the halakhah given to Moses at Sinai."
+        },
+        {
+          "id": "3:12.135",
+          "gloss": "this"
+        },
+        {
+          "id": "3:12.136",
+          "gloss": "a halakhah",
+          "note": "הלכה למשה מסיני: 'a halakhah given to Moses at Sinai'."
+        },
+        {
+          "id": "3:12.137",
+          "gloss": "given to Moses"
+        },
+        {
+          "id": "3:12.138",
+          "gloss": "at Sinai"
+        },
+        {
+          "id": "3:12.139",
+          "gloss": "for"
+        },
+        {
+          "id": "3:12.140",
+          "gloss": "said"
+        },
+        {
+          "id": "3:12.141",
+          "gloss": "our Rabbis of blessed memory"
+        },
+        {
+          "id": "3:12.142",
+          "gloss": "in Eruvin",
+          "note": "Eruvin: the tractate, transliterated."
+        },
+        {
+          "id": "3:12.143",
+          "gloss": "any"
+        },
+        {
+          "id": "3:12.144",
+          "gloss": "baraita",
+          "note": "מתניתא: 'baraita', a tannaitic text outside the Mishnah."
+        },
+        {
+          "id": "3:12.145",
+          "gloss": "that is not"
+        },
+        {
+          "id": "3:12.146",
+          "gloss": "taught"
+        },
+        {
+          "id": "3:12.147",
+          "gloss": "in the house of",
+          "note": "בי: 'the house of', here the study-house of Rabbi Oshaya."
+        },
+        {
+          "id": "3:12.148",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:12.149",
+          "gloss": "Oshaya"
+        },
+        {
+          "id": "3:12.150",
+          "gloss": "it is not"
+        },
+        {
+          "id": "3:12.151",
+          "gloss": "a baraita"
+        },
+        {
+          "id": "3:12.152",
+          "gloss": "it",
+          "note": "The subject pronoun 'it'; the English gives it once, before 'is not'."
+        },
+        {
+          "id": "3:12.153",
+          "gloss": "and you may not"
+        },
+        {
+          "id": "3:12.154",
+          "gloss": "object"
+        },
+        {
+          "id": "3:12.155",
+          "gloss": "from it"
+        },
+        {
+          "id": "3:12.156",
+          "gloss": "for it is corrupted",
+          "note": "דמשבשתא: 'that it is corrupted'."
+        },
+        {
+          "id": "3:12.157",
+          "gloss": "it",
+          "note": "The copula 'it is'."
+        },
+        {
+          "id": "3:12.158",
+          "gloss": "thus"
+        },
+        {
+          "id": "3:12.159",
+          "gloss": "any"
+        },
+        {
+          "id": "3:12.160",
+          "gloss": "baraita"
+        },
+        {
+          "id": "3:12.161",
+          "gloss": "that did not"
+        },
+        {
+          "id": "3:12.162",
+          "gloss": "enter"
+        },
+        {
+          "id": "3:12.163",
+          "gloss": "into the house of"
+        },
+        {
+          "id": "3:12.164",
+          "gloss": "his study-house",
+          "note": "מדרשו: 'his study-house', with 'of' before it in the English."
+        },
+        {
+          "id": "3:12.165",
+          "gloss": "of"
+        },
+        {
+          "id": "3:12.166",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:12.167",
+          "gloss": "Chiyya"
+        },
+        {
+          "id": "3:12.168",
+          "gloss": "or"
+        },
+        {
+          "id": "3:12.169",
+          "gloss": "of"
+        },
+        {
+          "id": "3:12.170",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:12.171",
+          "gloss": "Oshaya"
+        },
+        {
+          "id": "3:12.172",
+          "gloss": "not"
+        },
+        {
+          "id": "3:12.173",
+          "gloss": "it goes without saying",
+          "note": "לא מיבעיא: Aramaic, 'there is no need to ask': 'it goes without saying'."
+        },
+        {
+          "id": "3:12.174",
+          "gloss": "that not"
+        },
+        {
+          "id": "3:12.175",
+          "gloss": "it is"
+        },
+        {
+          "id": "3:12.176",
+          "gloss": "a halakhah"
+        },
+        {
+          "id": "3:12.177",
+          "gloss": "given to Moses"
+        },
+        {
+          "id": "3:12.178",
+          "gloss": "at Sinai"
+        },
+        {
+          "id": "3:12.179",
+          "gloss": "but"
+        },
+        {
+          "id": "3:12.180",
+          "gloss": "even"
+        },
+        {
+          "id": "3:12.181",
+          "gloss": "to object"
+        },
+        {
+          "id": "3:12.182",
+          "gloss": "from it"
+        },
+        {
+          "id": "3:12.183",
+          "gloss": "against"
+        },
+        {
+          "id": "3:12.184",
+          "gloss": "an Amora",
+          "note": "An Amora: a Talmudic sage of the generations after the tannaim."
+        },
+        {
+          "id": "3:12.185",
+          "gloss": "not"
+        },
+        {
+          "id": "3:12.186",
+          "gloss": "we raise"
+        },
+        {
+          "id": "3:12.187",
+          "gloss": "and in the Yerushalmi"
+        },
+        {
+          "id": "3:12.188",
+          "gloss": "Eruvin"
+        },
+        {
+          "id": "3:12.189",
+          "gloss": "chapter"
+        },
+        {
+          "id": "3:12.190",
+          "gloss": "the first",
+          "note": "קמא: 'the first', chapter one."
+        },
+        {
+          "id": "3:12.191",
+          "gloss": "in the passage",
+          "note": "The Yerushalmi passage is named by its opening word. The Hebrew has no verb here, so 'it is written' supplies the main clause."
+        },
+        {
+          "id": "3:12.192",
+          "gloss": "de-Lechayyim",
+          "note": "'de-Lechayyim': 'of life'; the passage is named by its first word."
+        },
+        {
+          "id": "3:12.193",
+          "gloss": "and these are his words:"
+        },
+        {
+          "id": "3:12.194",
+          "gloss": "said"
+        },
+        {
+          "id": "3:12.195",
+          "gloss": "to him"
+        },
+        {
+          "id": "3:12.196",
+          "gloss": "Acha"
+        },
+        {
+          "id": "3:12.197",
+          "gloss": "so"
+        },
+        {
+          "id": "3:12.198",
+          "gloss": "said"
+        },
+        {
+          "id": "3:12.199",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:12.200",
+          "gloss": "Shimon"
+        },
+        {
+          "id": "3:12.201",
+          "gloss": "ben"
+        },
+        {
+          "id": "3:12.202",
+          "gloss": "Lakish"
+        },
+        {
+          "id": "3:12.203",
+          "gloss": "any"
+        },
+        {
+          "id": "3:12.204",
+          "gloss": "mishnah"
+        },
+        {
+          "id": "3:12.205",
+          "gloss": "that did not"
+        },
+        {
+          "id": "3:12.206",
+          "gloss": "enter"
+        },
+        {
+          "id": "3:12.207",
+          "gloss": "the fellowship",
+          "note": "חבורה: the study fellowship (chaburah)."
+        },
+        {
+          "id": "3:12.208",
+          "gloss": "one does not"
+        },
+        {
+          "id": "3:12.209",
+          "gloss": "rely"
+        },
+        {
+          "id": "3:12.210",
+          "gloss": "on it"
+        },
+        {
+          "id": "3:12.211",
+          "gloss": "thus far",
+          "note": "ע\"כ: the closing formula of the quotation, 'thus far'."
+        },
+        {
+          "id": "3:12.212",
+          "gloss": "and see"
+        },
+        {
+          "id": "3:12.213",
+          "gloss": "below"
+        },
+        {
+          "id": "3:12.214",
+          "gloss": "section"
+        },
+        {
+          "id": "3:12.215",
+          "gloss": "§42",
+          "note": "§42: the author's section number."
+        },
+        {
+          "id": "3:12.216",
+          "gloss": "and in a notebook",
+          "note": "קונדריס: a notebook."
+        },
+        {
+          "id": "3:12.217",
+          "gloss": "old"
+        },
+        {
+          "id": "3:12.218",
+          "gloss": "the compositions of"
+        },
+        {
+          "id": "3:12.219",
+          "gloss": "our forefathers"
+        },
+        {
+          "id": "3:12.220",
+          "gloss": "I found"
+        },
+        {
+          "id": "3:12.221",
+          "gloss": "written"
+        },
+        {
+          "id": "3:12.222",
+          "gloss": "in the name of"
+        },
+        {
+          "id": "3:12.223",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:12.224",
+          "gloss": "Saadia"
+        },
+        {
+          "id": "3:12.225",
+          "gloss": "Gaon"
+        },
+        {
+          "id": "3:12.226",
+          "gloss": "and these are his words:"
+        },
+        {
+          "id": "3:12.227",
+          "gloss": "the book",
+          "note": "Judeo-Arabic kitāb, 'book'; translated from the Arabic as it stands."
+        },
+        {
+          "id": "3:12.228",
+          "gloss": "Shiur"
+        },
+        {
+          "id": "3:12.229",
+          "gloss": "Komah",
+          "note": "Shiur Komah: 'measure of the stature', a mystical text on the measurements of the divine body."
+        },
+        {
+          "id": "3:12.230",
+          "gloss": "no"
+        },
+        {
+          "id": "3:12.231",
+          "gloss": "has come down"
+        },
+        {
+          "id": "3:12.232",
+          "gloss": "concerning it"
+        },
+        {
+          "id": "3:12.233",
+          "gloss": "transmission"
+        },
+        {
+          "id": "3:12.234",
+          "gloss": "trustworthy"
+        },
+        {
+          "id": "3:12.235",
+          "gloss": "for",
+          "note": "The Arabic particle that gives the reason; rendered 'for' with the clause that follows."
+        },
+        {
+          "id": "3:12.236",
+          "gloss": "is not"
+        },
+        {
+          "id": "3:12.237",
+          "gloss": "it"
+        },
+        {
+          "id": "3:12.238",
+          "gloss": "in"
+        },
+        {
+          "id": "3:12.239",
+          "gloss": "the"
+        },
+        {
+          "id": "3:12.240",
+          "gloss": "Mishnah"
+        },
+        {
+          "id": "3:12.241",
+          "gloss": "and not"
+        },
+        {
+          "id": "3:12.242",
+          "gloss": "in"
+        },
+        {
+          "id": "3:12.243",
+          "gloss": "the"
+        },
+        {
+          "id": "3:12.244",
+          "gloss": "Talmud"
+        },
+        {
+          "id": "3:12.245",
+          "gloss": "and there is not"
+        },
+        {
+          "id": "3:12.246",
+          "gloss": "proof"
+        },
+        {
+          "id": "3:12.247",
+          "gloss": "one can establish",
+          "note": "Judeo-Arabic yastadill: 'one can establish', 'one can rely on'."
+        },
+        {
+          "id": "3:12.248",
+          "gloss": "by which"
+        },
+        {
+          "id": "3:12.249",
+          "gloss": "whether"
+        },
+        {
+          "id": "3:12.250",
+          "gloss": "said it"
+        },
+        {
+          "id": "3:12.251",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:12.252",
+          "gloss": "Ishmael"
+        },
+        {
+          "id": "3:12.253",
+          "gloss": "in"
+        },
+        {
+          "id": "3:12.254",
+          "gloss": "truth"
+        },
+        {
+          "id": "3:12.255",
+          "gloss": "or"
+        },
+        {
+          "id": "3:12.256",
+          "gloss": "another"
+        },
+        {
+          "id": "3:12.257",
+          "gloss": "said it"
+        },
+        {
+          "id": "3:12.258",
+          "gloss": "and it is ascribed"
+        },
+        {
+          "id": "3:12.259",
+          "gloss": "to him"
+        },
+        {
+          "id": "3:12.260",
+          "gloss": "as"
+        },
+        {
+          "id": "3:12.261",
+          "gloss": "are ascribed"
+        },
+        {
+          "id": "3:12.262",
+          "gloss": "many"
+        },
+        {
+          "id": "3:12.263",
+          "gloss": "of"
+        },
+        {
+          "id": "3:12.264",
+          "gloss": "the books"
+        },
+        {
+          "id": "3:12.265",
+          "gloss": "attributed",
+          "note": "'Attributed'; literally 'made up'."
+        },
+        {
+          "id": "3:12.266",
+          "gloss": "to him"
+        },
+        {
+          "id": "3:12.267",
+          "gloss": "to some"
+        },
+        {
+          "id": "3:12.268",
+          "gloss": "scholars"
+        },
+        {
+          "id": "3:12.269",
+          "gloss": "famous"
+        },
+        {
+          "id": "3:12.270",
+          "gloss": "thus far his words",
+          "note": "עכ\"ל: closing formula, 'thus far his words'."
+        },
+        {
+          "id": "3:12.271",
+          "gloss": "translation"
+        },
+        {
+          "id": "3:12.272",
+          "gloss": "by"
+        },
+        {
+          "id": "3:12.273",
+          "gloss": "the Rabbi"
+        },
+        {
+          "id": "3:12.274",
+          "gloss": "the author"
+        },
+        {
+          "id": "3:12.275",
+          "gloss": "the book"
+        },
+        {
+          "id": "3:12.276",
+          "gloss": "Shiur"
+        },
+        {
+          "id": "3:12.277",
+          "gloss": "Komah"
+        },
+        {
+          "id": "3:12.278",
+          "gloss": "there is not"
+        },
+        {
+          "id": "3:12.279",
+          "gloss": "for us"
+        },
+        {
+          "id": "3:12.280",
+          "gloss": "tradition",
+          "note": "קבלה: tradition; here the tradition about the book, in the author's own Hebrew."
+        },
+        {
+          "id": "3:12.281",
+          "gloss": "concerning it"
+        },
+        {
+          "id": "3:12.282",
+          "gloss": "from the sages"
+        },
+        {
+          "id": "3:12.283",
+          "gloss": "of our faith"
+        },
+        {
+          "id": "3:12.284",
+          "gloss": "since"
+        },
+        {
+          "id": "3:12.285",
+          "gloss": "it is not"
+        },
+        {
+          "id": "3:12.286",
+          "gloss": "neither"
+        },
+        {
+          "id": "3:12.287",
+          "gloss": "in the Mishnah"
+        },
+        {
+          "id": "3:12.288",
+          "gloss": "nor"
+        },
+        {
+          "id": "3:12.289",
+          "gloss": "in the Talmud"
+        },
+        {
+          "id": "3:12.290",
+          "gloss": "and also"
+        },
+        {
+          "id": "3:12.291",
+          "gloss": "there is no"
+        },
+        {
+          "id": "3:12.292",
+          "gloss": "proof"
+        },
+        {
+          "id": "3:12.293",
+          "gloss": "to be drawn"
+        },
+        {
+          "id": "3:12.294",
+          "gloss": "from it"
+        },
+        {
+          "id": "3:12.295",
+          "gloss": "whether"
+        },
+        {
+          "id": "3:12.296",
+          "gloss": "said"
+        },
+        {
+          "id": "3:12.297",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:12.298",
+          "gloss": "Ishmael"
+        },
+        {
+          "id": "3:12.299",
+          "gloss": "truly"
+        },
+        {
+          "id": "3:12.300",
+          "gloss": "or"
+        },
+        {
+          "id": "3:12.301",
+          "gloss": "others"
+        },
+        {
+          "id": "3:12.302",
+          "gloss": "besides him"
+        },
+        {
+          "id": "3:12.303",
+          "gloss": "said it"
+        },
+        {
+          "id": "3:12.304",
+          "gloss": "and ascribed it"
+        },
+        {
+          "id": "3:12.305",
+          "gloss": "to Rabbi"
+        },
+        {
+          "id": "3:12.306",
+          "gloss": "Ishmael"
+        },
+        {
+          "id": "3:12.307",
+          "gloss": "as"
+        },
+        {
+          "id": "3:12.308",
+          "gloss": "as they ascribe"
+        },
+        {
+          "id": "3:12.309",
+          "gloss": "many"
+        },
+        {
+          "id": "3:12.310",
+          "gloss": "of"
+        },
+        {
+          "id": "3:12.311",
+          "gloss": "the books"
+        },
+        {
+          "id": "3:12.312",
+          "gloss": "made",
+          "note": "העשויים: 'made', 'composed'."
+        },
+        {
+          "id": "3:12.313",
+          "gloss": "for some",
+          "note": "לקצת: 'for some'."
+        },
+        {
+          "id": "3:12.314",
+          "gloss": "of"
+        },
+        {
+          "id": "3:12.315",
+          "gloss": "the sages"
+        },
+        {
+          "id": "3:12.316",
+          "gloss": "famous"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:12.1"
+          ],
+          "english": "§12.",
+          "literal": "§12"
+        },
+        {
+          "tokens": [
+            "3:12.2",
+            "3:12.3",
+            "3:12.4",
+            "3:12.5"
+          ],
+          "english": "Behold, then, surely",
+          "literal": "behold indeed so, then surely"
+        },
+        {
+          "tokens": [
+            "3:12.6",
+            "3:12.7",
+            "3:12.8",
+            "3:12.9"
+          ],
+          "english": "that all your words are exaggerations and embellishments,",
+          "literal": "that all your words exaggerations and embellishments"
+        },
+        {
+          "tokens": [
+            "3:12.10",
+            "3:12.11",
+            "3:12.12",
+            "3:12.13",
+            "3:12.14",
+            "3:12.15",
+            "3:12.16"
+          ],
+          "english": "to alarm the fools and the madmen who love wonders and impossibilities,",
+          "literal": "to alarm - the fools and the madmen lovers of the wonders and the impossibilities"
+        },
+        {
+          "tokens": [
+            "3:12.17",
+            "3:12.18",
+            "3:12.19"
+          ],
+          "english": "and you speak without knowledge.",
+          "literal": "and not with knowledge you speak"
+        },
+        {
+          "tokens": [
+            "3:12.20",
+            "3:12.21",
+            "3:12.22",
+            "3:12.23"
+          ],
+          "english": "And all your words are without reason.",
+          "literal": "and all your words not with reason"
+        },
+        {
+          "tokens": [
+            "3:12.24",
+            "3:12.25",
+            "3:12.26",
+            "3:12.27",
+            "3:12.28",
+            "3:12.29"
+          ],
+          "english": "And in deceit you refuse to know the LORD,",
+          "literal": "and in deceit you refuse to know - the LORD"
+        },
+        {
+          "tokens": [
+            "3:12.30",
+            "3:12.31",
+            "3:12.32",
+            "3:12.33"
+          ],
+          "english": "as the prophet Jeremiah, peace be upon him, said",
+          "literal": "as the words of the prophet Jeremiah peace be upon him"
+        },
+        {
+          "tokens": [
+            "3:12.34",
+            "3:12.35",
+            "3:12.36",
+            "3:12.37",
+            "3:12.38",
+            "3:12.39",
+            "3:12.40",
+            "3:12.41",
+            "3:12.42",
+            "3:12.43",
+            "3:12.44"
+          ],
+          "english": "in the name of the LORD: \"You dwell in the midst of deceit; through deceit they have refused to know Me, declares the LORD.\"",
+          "literal": "in the name of the LORD you dwell in the midst of deceit through deceit have refused to know Me declares the LORD"
+        },
+        {
+          "tokens": [
+            "3:12.45",
+            "3:12.46",
+            "3:12.47",
+            "3:12.48",
+            "3:12.49",
+            "3:12.50",
+            "3:12.51",
+            "3:12.52",
+            "3:12.53"
+          ],
+          "english": "And already one of the deceivers among you has said: \"We know that the truth is with you.\"",
+          "literal": "and already has said one of the deceivers among you we know that the truth is with you"
+        },
+        {
+          "tokens": [
+            "3:12.54",
+            "3:12.55",
+            "3:12.56",
+            "3:12.57",
+            "3:12.58",
+            "3:12.59",
+            "3:12.60",
+            "3:12.61",
+            "3:12.62"
+          ],
+          "english": "But what business is it of yours to reveal this matter and to publicize it to some of the students.",
+          "literal": "but what to you to reveal matter this and to publicize to some the students"
+        },
+        {
+          "tokens": [
+            "3:12.63",
+            "3:12.64",
+            "3:12.65",
+            "3:12.66",
+            "3:12.67"
+          ],
+          "english": "It would be better for you to leave them in their error entirely,",
+          "literal": "better for you to leave them in their error entirely"
+        },
+        {
+          "tokens": [
+            "3:12.68",
+            "3:12.69",
+            "3:12.70",
+            "3:12.71"
+          ],
+          "english": "as the words of the wicked one among the four sons,",
+          "literal": "as the words of the wicked one among the four sons"
+        },
+        {
+          "tokens": [
+            "3:12.72",
+            "3:12.73",
+            "3:12.74",
+            "3:12.75",
+            "3:12.76",
+            "3:12.77"
+          ],
+          "english": "who says: \"What is this service to you? etc.\"",
+          "literal": "who says what the service this to you etc."
+        },
+        {
+          "tokens": [
+            "3:12.78",
+            "3:12.79",
+            "3:12.80",
+            "3:12.81"
+          ],
+          "english": "And the proof that you are a blind and insipid man:",
+          "literal": "and the proof that you are blind insipid"
+        },
+        {
+          "tokens": [
+            "3:12.82",
+            "3:12.83",
+            "3:12.84",
+            "3:12.85"
+          ],
+          "english": "for in this letter of yours you published",
+          "literal": "for you published in your letter this"
+        },
+        {
+          "tokens": [
+            "3:12.86",
+            "3:12.87",
+            "3:12.88",
+            "3:12.89",
+            "3:12.90"
+          ],
+          "english": "that the Rabbi, the author of Matzref ha-Emunah, is,",
+          "literal": "that the Rabbi the author of Matzref ha-Emunah is"
+        },
+        {
+          "tokens": [
+            "3:12.91",
+            "3:12.92",
+            "3:12.93"
+          ],
+          "english": "God forbid, a heretic and a denier.",
+          "literal": "God forbid a heretic and a denier"
+        },
+        {
+          "tokens": [
+            "3:12.94",
+            "3:12.95",
+            "3:12.96",
+            "3:12.97",
+            "3:12.98"
+          ],
+          "english": "And you read his book, Mesharef ha-Emunah.",
+          "literal": "and you read - his book Mesharef ha-Emunah"
+        },
+        {
+          "tokens": [
+            "3:12.99",
+            "3:12.100",
+            "3:12.101",
+            "3:12.102",
+            "3:12.103",
+            "3:12.104",
+            "3:12.105"
+          ],
+          "english": "And he, in his integrity, walks without turning aside from the words of the Zohar,",
+          "literal": "and he in his integrity walks not turning aside from the words of the Zohar"
+        },
+        {
+          "tokens": [
+            "3:12.106",
+            "3:12.107"
+          ],
+          "english": "and Mikdash Melekh,",
+          "literal": "and Mikdash Melekh"
+        },
+        {
+          "tokens": [
+            "3:12.108"
+          ],
+          "english": "and Kisse Eliyahu,",
+          "literal": "and Kisse Eliyahu"
+        },
+        {
+          "tokens": [
+            "3:12.109"
+          ],
+          "english": "and the RaShB,",
+          "literal": "and the RaShB"
+        },
+        {
+          "tokens": [
+            "3:12.110",
+            "3:12.111"
+          ],
+          "english": "and Yosher Levav,",
+          "literal": "and Yosher Levav"
+        },
+        {
+          "tokens": [
+            "3:12.112",
+            "3:12.113"
+          ],
+          "english": "and Sefer ha-Berit,",
+          "literal": "and Sefer ha-Berit"
+        },
+        {
+          "tokens": [
+            "3:12.114",
+            "3:12.115"
+          ],
+          "english": "and Rabbi the Ari,",
+          "literal": "and Rabbi the Ari"
+        },
+        {
+          "tokens": [
+            "3:12.116"
+          ],
+          "english": "and Rabbi Chayyim Vital",
+          "literal": "and Rabbi Chayyim Vital"
+        },
+        {
+          "tokens": [
+            "3:12.117",
+            "3:12.118",
+            "3:12.119"
+          ],
+          "english": "in the book Etz Chayyim,",
+          "literal": "in the book Etz Chayyim"
+        },
+        {
+          "tokens": [
+            "3:12.120",
+            "3:12.121"
+          ],
+          "english": "and Nachalat Yosef,",
+          "literal": "and Nachalat Yosef"
+        },
+        {
+          "tokens": [
+            "3:12.122",
+            "3:12.123",
+            "3:12.124"
+          ],
+          "english": "and their finest flour, right and left.",
+          "literal": "and their finest flour right and left"
+        },
+        {
+          "tokens": [
+            "3:12.125",
+            "3:12.126",
+            "3:12.127",
+            "3:12.128",
+            "3:12.129",
+            "3:12.130",
+            "3:12.131",
+            "3:12.132"
+          ],
+          "english": "As will be explained below, but first I will bring you several proofs.",
+          "literal": "and as will be explained below but first I will bring to you several proofs"
+        },
+        {
+          "tokens": [
+            "3:12.133",
+            "3:12.134",
+            "3:12.135",
+            "3:12.136",
+            "3:12.137",
+            "3:12.138"
+          ],
+          "english": "This Kabbalah is not a halakhah given to Moses at Sinai,",
+          "literal": "is not the Kabbalah this a halakhah given to Moses at Sinai"
+        },
+        {
+          "tokens": [
+            "3:12.139",
+            "3:12.140",
+            "3:12.141"
+          ],
+          "english": "for our Rabbis of blessed memory said",
+          "literal": "for said our Rabbis of blessed memory"
+        },
+        {
+          "tokens": [
+            "3:12.142",
+            "3:12.143",
+            "3:12.144",
+            "3:12.145",
+            "3:12.146",
+            "3:12.147",
+            "3:12.148",
+            "3:12.149"
+          ],
+          "english": "in Eruvin: \"Any baraita that is not taught in the house of Rabbi Oshaya,",
+          "literal": "in Eruvin any baraita that is not taught in the house of Rabbi Oshaya"
+        },
+        {
+          "tokens": [
+            "3:12.150",
+            "3:12.151",
+            "3:12.152"
+          ],
+          "english": "it is not a baraita,",
+          "literal": "it is not a baraita it"
+        },
+        {
+          "tokens": [
+            "3:12.153",
+            "3:12.154",
+            "3:12.155"
+          ],
+          "english": "and you may not object from it,",
+          "literal": "and you may not object from it"
+        },
+        {
+          "tokens": [
+            "3:12.156",
+            "3:12.157"
+          ],
+          "english": "for it is corrupted.\"",
+          "literal": "for it is corrupted it"
+        },
+        {
+          "tokens": [
+            "3:12.158",
+            "3:12.159",
+            "3:12.160",
+            "3:12.161",
+            "3:12.162",
+            "3:12.163",
+            "3:12.164",
+            "3:12.165",
+            "3:12.166",
+            "3:12.167",
+            "3:12.168",
+            "3:12.169",
+            "3:12.170",
+            "3:12.171"
+          ],
+          "english": "Thus, any baraita that did not enter the study-house of Rabbi Chiyya or of Rabbi Oshaya,",
+          "literal": "thus any baraita that did not enter into the house of his study-house of Rabbi Chiyya or of Rabbi Oshaya"
+        },
+        {
+          "tokens": [
+            "3:12.172",
+            "3:12.173",
+            "3:12.174",
+            "3:12.175",
+            "3:12.176",
+            "3:12.177",
+            "3:12.178"
+          ],
+          "english": "it goes without saying that it is not a halakhah given to Moses at Sinai.",
+          "literal": "not it goes without saying that not it is a halakhah given to Moses at Sinai"
+        },
+        {
+          "tokens": [
+            "3:12.179",
+            "3:12.180",
+            "3:12.181",
+            "3:12.182",
+            "3:12.183",
+            "3:12.184",
+            "3:12.185",
+            "3:12.186"
+          ],
+          "english": "But one may not even raise an objection from it against an Amora.",
+          "literal": "but even to object from it against an Amora not we raise"
+        },
+        {
+          "tokens": [
+            "3:12.187",
+            "3:12.188",
+            "3:12.189",
+            "3:12.190",
+            "3:12.191",
+            "3:12.192",
+            "3:12.193"
+          ],
+          "english": "And in the Yerushalmi, Eruvin, chapter one, in the passage de-Lechayyim, it is written. And these are his words:",
+          "literal": "and in the Yerushalmi Eruvin chapter the first in the passage de-Lechayyim and these are his words:"
+        },
+        {
+          "tokens": [
+            "3:12.194",
+            "3:12.195",
+            "3:12.196",
+            "3:12.197",
+            "3:12.198",
+            "3:12.199",
+            "3:12.200",
+            "3:12.201",
+            "3:12.202",
+            "3:12.203",
+            "3:12.204",
+            "3:12.205",
+            "3:12.206",
+            "3:12.207",
+            "3:12.208",
+            "3:12.209",
+            "3:12.210"
+          ],
+          "english": "\"Acha said to him: So said Rabbi Shimon ben Lakish: any mishnah that did not enter the fellowship, one does not rely on it.\"",
+          "literal": "said to him Acha so said Rabbi Shimon ben Lakish any mishnah that did not enter the fellowship one does not rely on it"
+        },
+        {
+          "tokens": [
+            "3:12.211"
+          ],
+          "english": "Thus far.",
+          "literal": "thus far"
+        },
+        {
+          "tokens": [
+            "3:12.212",
+            "3:12.213",
+            "3:12.214",
+            "3:12.215"
+          ],
+          "english": "And see below, §42.",
+          "literal": "and see below section §42"
+        },
+        {
+          "tokens": [
+            "3:12.216",
+            "3:12.217",
+            "3:12.218",
+            "3:12.219",
+            "3:12.220",
+            "3:12.221"
+          ],
+          "english": "And in an old notebook of the compositions of our forefathers I found written",
+          "literal": "and in a notebook old the compositions of our forefathers I found written"
+        },
+        {
+          "tokens": [
+            "3:12.222",
+            "3:12.223",
+            "3:12.224",
+            "3:12.225",
+            "3:12.226"
+          ],
+          "english": "in the name of Rabbi Saadia Gaon, and these are his words:",
+          "literal": "in the name of Rabbi Saadia Gaon and these are his words:"
+        },
+        {
+          "tokens": [
+            "3:12.227",
+            "3:12.228",
+            "3:12.229"
+          ],
+          "english": "\"The book Shiur Komah:",
+          "literal": "the book Shiur Komah"
+        },
+        {
+          "tokens": [
+            "3:12.230",
+            "3:12.231",
+            "3:12.232",
+            "3:12.233",
+            "3:12.234"
+          ],
+          "english": "no trustworthy transmission has come down concerning it,",
+          "literal": "no has come down concerning it transmission trustworthy"
+        },
+        {
+          "tokens": [
+            "3:12.235",
+            "3:12.236",
+            "3:12.237"
+          ],
+          "english": "for it is not",
+          "literal": "for is not it"
+        },
+        {
+          "tokens": [
+            "3:12.238",
+            "3:12.239",
+            "3:12.240",
+            "3:12.241",
+            "3:12.242",
+            "3:12.243",
+            "3:12.244"
+          ],
+          "english": "in the Mishnah and not in the Talmud.",
+          "literal": "in the Mishnah and not in the Talmud"
+        },
+        {
+          "tokens": [
+            "3:12.245",
+            "3:12.246",
+            "3:12.247",
+            "3:12.248",
+            "3:12.249"
+          ],
+          "english": "And there is no proof by which one can establish whether",
+          "literal": "and there is not proof one can establish by which whether"
+        },
+        {
+          "tokens": [
+            "3:12.250",
+            "3:12.251",
+            "3:12.252",
+            "3:12.253",
+            "3:12.254",
+            "3:12.255"
+          ],
+          "english": "Rabbi Ishmael truly said it, or",
+          "literal": "said it Rabbi Ishmael in truth or"
+        },
+        {
+          "tokens": [
+            "3:12.256",
+            "3:12.257",
+            "3:12.258",
+            "3:12.259"
+          ],
+          "english": "another said it and it is ascribed to him,",
+          "literal": "another said it and it is ascribed to him"
+        },
+        {
+          "tokens": [
+            "3:12.260",
+            "3:12.261",
+            "3:12.262",
+            "3:12.263",
+            "3:12.264",
+            "3:12.265",
+            "3:12.266",
+            "3:12.267",
+            "3:12.268",
+            "3:12.269"
+          ],
+          "english": "as many of the books attributed to him are ascribed to some of the famous scholars.\"",
+          "literal": "as are ascribed many of the books attributed to him to some scholars famous"
+        },
+        {
+          "tokens": [
+            "3:12.270"
+          ],
+          "english": "Thus far his words.",
+          "literal": "thus far his words"
+        },
+        {
+          "tokens": [
+            "3:12.271",
+            "3:12.272",
+            "3:12.273",
+            "3:12.274"
+          ],
+          "english": "(The author's own translation:",
+          "literal": "translation by the Rabbi the author"
+        },
+        {
+          "tokens": [
+            "3:12.275",
+            "3:12.276",
+            "3:12.277"
+          ],
+          "english": "\"The book Shiur Komah:",
+          "literal": "the book Shiur Komah"
+        },
+        {
+          "tokens": [
+            "3:12.278",
+            "3:12.279",
+            "3:12.280",
+            "3:12.281",
+            "3:12.282",
+            "3:12.283"
+          ],
+          "english": "we have no tradition concerning it from the sages of our faith,",
+          "literal": "there is not for us tradition concerning it from the sages of our faith"
+        },
+        {
+          "tokens": [
+            "3:12.284",
+            "3:12.285",
+            "3:12.286",
+            "3:12.287",
+            "3:12.288",
+            "3:12.289"
+          ],
+          "english": "since it is neither in the Mishnah nor in the Talmud,",
+          "literal": "since it is not neither in the Mishnah nor in the Talmud"
+        },
+        {
+          "tokens": [
+            "3:12.290",
+            "3:12.291",
+            "3:12.292",
+            "3:12.293",
+            "3:12.294",
+            "3:12.295"
+          ],
+          "english": "and also there is no proof to be drawn from it whether",
+          "literal": "and also there is no proof to be drawn from it whether"
+        },
+        {
+          "tokens": [
+            "3:12.296",
+            "3:12.297",
+            "3:12.298",
+            "3:12.299"
+          ],
+          "english": "Rabbi Ishmael truly said it,",
+          "literal": "said Rabbi Ishmael truly"
+        },
+        {
+          "tokens": [
+            "3:12.300",
+            "3:12.301",
+            "3:12.302",
+            "3:12.303",
+            "3:12.304",
+            "3:12.305",
+            "3:12.306"
+          ],
+          "english": "or others besides him said it and ascribed it to Rabbi Ishmael,",
+          "literal": "or others besides him said it and ascribed it to Rabbi Ishmael"
+        },
+        {
+          "tokens": [
+            "3:12.307",
+            "3:12.308",
+            "3:12.309",
+            "3:12.310",
+            "3:12.311",
+            "3:12.312",
+            "3:12.313",
+            "3:12.314",
+            "3:12.315",
+            "3:12.316"
+          ],
+          "english": "as they ascribe many of the books made for some of the famous sages.\")",
+          "literal": "as as they ascribe many of the books made for some of the sages famous"
+        }
+      ],
+      "grammar": [
+        "The paragraph opens with the author's section label §12 (token 1). 'Behold, then, surely' opens a clause whose subject is 'all your words' (כל דבריך) and whose predicate is 'exaggerations and embellishments' (הפלגות וגיזומים); 'to alarm' (להבהיל) gives the purpose.",
+        "The Jeremiah verse is quoted after the formula כמאמר ... בשם ה'. The verb מאנו is a perfect, rendered 'have refused'.",
+        "The Haggadah quotation (האומר ... וכו') is given as the author cuts it, and וכו' is kept as 'etc.'.",
+        "Languages of the quotations: the Eruvin passage is Bavli Aramaic; the Yerushalmi passage is Yerushalmi Aramaic; the Saadia passage is Judeo-Arabic, with the author's own Hebrew translation in parentheses.",
+        "לא מיבעיא דלא הויא is an Aramaic idiom: 'it goes without saying that it is not'."
+      ],
+      "note": "The Saadia passage is Judeo-Arabic and is translated from the Arabic as it stands. The author's own Hebrew translation, in parentheses, is translated from its own Hebrew and not copied from the Arabic; the differences are in apparatus. The owner's Q4 answer lists the Judeo-Arabic units for Sonnet (5:3, 7:24, 9:10, 2:13); 3:12 carries Judeo-Arabic but is not on that list. Flagged for the owner. The Yerushalmi passage has no verb in the Hebrew, so 'it is written' supplies the main clause.",
+      "commentary": [],
+      "apparatus": [
+        "Base text from Wikisource; collation with the 1931 scan not yet made (open question 2).",
+        "Jer 9:5, quoted by the author: 'שבתך בתוך מרמה במרמה מאנו דעת אותי נאם ה''.",
+        "The Eruvin (Bavli) and Yerushalmi passages carry no folio or column in the author's text, and none is added.",
+        "Judeo-Arabic passage: translated from the Arabic. The author's Hebrew translation has 'we have no tradition concerning it' where the Arabic has 'no trustworthy transmission has come down'; the Hebrew adds 'from the sages of our faith', which the Arabic does not have.",
+        "Haggadah quotation: 'What is this service to you?' (Passover Haggadah, the wicked son); the author gives it with וכו'."
+      ],
+      "context": [
+        "The four sons of the Passover Haggadah: the wise, the wicked, the simple, and the one who does not know how to ask. The wicked son asks, 'What is this service to you?'",
+        "Shiur Komah ('measure of the stature') is a mystical text describing the measurements of the divine body, attributed to Rabbi Ishmael. The author and the Saadia passage both say that it is not in the Mishnah or the Talmud."
+      ],
+      "readings": []
+    }
+  ]
+}
