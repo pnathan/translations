@@ -607,6 +607,13 @@ senses are allowed, chosen by the use.
 - A Judeo-Arabic rendering the author quotes from Saadia (אלבלד שברא): translate
   the Arabic as he gives it and name Saadia's translation in `apparatus`; the
   Arabic is not transliterated in the English line.
+- דמיון: "analogy" for an argument, "likeness" for resemblance.
+- דברי תימה: "astonishing words" (words that astonish).
+- מעמד: "assembly" or "occasion" by context; "the Standing at Sinai" where the
+  author names that event.
+- כלי: "vessel" only for the Kabbalistic כלים; "tool" for a craftsman's object.
+- Two verses the author joins with a comma and no וגו': render the comma;
+  an ellipsis only where he omits words and marks it (וכו', וגו').
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
