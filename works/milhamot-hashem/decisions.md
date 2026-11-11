@@ -592,6 +592,16 @@ senses are allowed, chosen by the use.
   words; a paraphrase takes none.
 - דמי: "blood", or "price/value" where the context is a sale (דמי השור); the
   other sense in a token note.
+- הרב before a book title (הרב לחם משנה): "the Rav Lechem Mishneh", never drop
+  הרב. (Applies with the "author of" ruling: use "the Rabbi, the author of
+  [title]" only where the Hebrew says בעל / מחבר.)
+- Fixed terms: אפיקורסים = "apikorsim"; בריאה in the four worlds = "Creation";
+  תהו ובהו = "formlessness and void" (Gen 1:2), listed in `apparatus`.
+- A verse the author cuts short or continues with his own comma: render only
+  the words on the page; no completion ("before Me") added; the fixed wording of
+  the verse applies to the words that are quoted.
+- A sentence opening שכל / שהוא after a full stop: keep the full stop and
+  supply a main clause by the author's syntax, with a token note on the ש.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
