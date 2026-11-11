@@ -562,6 +562,11 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - bat kol: "bat kol", "daughter of a voice" in the note.
 - The Hebrew for "Machzor" follows the scheme (ח = ch): "Machzor Vitry".
 - רשע בן רשע: "Wicked one, son of a wicked one"; רוע לב: "wickedness of heart".
+- Authorities cited by acronym or title (the Rema, Radbaz, Maharshal, Maharam
+  al-Shakar, Beit Yosef, Kenesset ha-Gedolah, Maran, the Ra'em): the plain
+  transliteration, a note at first occurrence in the unit saying what the
+  acronym stands for where the text or the usual expansion is certain; no
+  identification beyond that.
 
 ## Translator's checklist (the pilot reviews found these faults most often)
 
