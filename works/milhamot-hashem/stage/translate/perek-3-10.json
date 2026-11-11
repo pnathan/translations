@@ -1,0 +1,2005 @@
+{
+  "unit": "perek-3-10",
+  "model": "haiku",
+  "segments": [
+    {
+      "ref": "3:16",
+      "english": "§16. You who objected to me and said, \"Who gave you permission to inquire into and investigate their words?\" I am greatly astonished at these words of yours? Was the Torah given to be read in like a chirping bird, or like a bellowing beast that does not know what it is saying? Is not one who does so called a wicked and crafty person, as we learn in Sotah (folio 22): \"Ulla said: this is one who read and studied and did not serve the Torah scholars. Rabbi Eliezer said: this one is an unlearned person. Rabbi Shmuel bar Nachmani said: this one is an ignoramus. Rabbi Yannai said: this one is a Kuthean. Rabbi Acha bar Yaakov said: this one is a Magian. Rav Nachman bar Yitzchak said: it stands to reason like Rav Acha bar Yaakov, as people say, 'a Magian's rtin and does not know what rtin is'; a tanna taught, and did not know what he taught.\" Thus far. And according to your words, the affairs of the body and commercial letters, which are among the affairs of bodily life, are preferable to the affairs of the Torah, which are the life of the soul, through which we merit the life of the world to come, and through them greet the face of our God, our King? For if they bring you two letters of commerce that contradict each other, you pay attention to them, to understand, so that you do not lose, and do not accept them on a craftsman's faith! And in the Torah, which is the life of the soul, would you accept what contradicts your faith, for a craftsman's faith, whether good or bad, without understanding? Is not the main business of the Torah to know and to understand its commandments and statutes! And King David, peace be upon him, said, pleading before the Holy One, blessed be He, \"Give me understanding, that I may learn Your commandments.\" And he said further: \"Teach me good judgment and knowledge, for I have trusted in Your commandments.\" And this is an a fortiori argument: if in the other commandments of the Torah one needs a heart to understand, lest he err by permitting the forbidden, or even by forbidding the permitted, and as our Sages of blessed memory said: Be careful in study, for the error of study counts as wilful sin? how much more so in the commandment of knowing the Name, may He be blessed, and His unity, in accordance with truth and justice, which the Name, may He be blessed, commanded us in the Torah, as it is written: \"Know this day, and take it to your heart: that the LORD is God in heaven above, and on the earth below; there is no other.\" And King David, peace be upon him, charged his son, saying: \"Know the God of your father and serve Him.\" And the prophet Jeremiah proclaims, saying: \"Let not the wise man glory in his wisdom, let not the strong man glory in his strength, let not the rich man glory in his riches; but in this let him who glories glory, that he has understanding and knows Me, that I am the LORD who performs His kindness, etc.\" All the more so that we need to know whom we serve.",
+      "literal": "16 - you who objected to me and said: who gave you permission to inquire and to investigate after their words? Astonished I greatly at your words, these? Is it indeed that the Torah was given to be read in it, like a bird that chirps, or like a beast that bellows and does not know what it is saying? Is it not that one who does so is called wicked, crafty, as we learn in Sotah folio 22: Ulla said: this is one who read and studied and not served the Torah scholars. Rabbi Eliezer said: this one is people of the land. Rabbi Shmuel bar Nachmani said: behold this one an ignoramus. Rabbi Yannai said: this one is a Kuthean. Rabbi Acha bar Yaakov said: this one is a Magian. Said Rav Nachman bar Yitzchak: it stands to reason like Rav Acha bar Yaakov, as they say, people: rtin of a Magian, and not knows what rtin; taught a tanna and not knows what he taught. Thus far. And according to your words the affairs of the body, and letters of commerce which are of the affairs of life of the bodies, are preferable to the affair of the Torah which are life of the soul, in which we merit to the life of the world, the coming, and we greet with them the face of our God, our King? For if they bring to you two letters of commerce which contradict one the other, you give heart to them, to understand so that not you lose, and not you accept them with faith of a craftsman! And in the Torah which is life of the soul, will you accept the contradicting your faith, for faith of a craftsman whether good or bad without understanding? Is it not the main business of the Torah to know and to understand its commandments and its statutes! And David the king, peace on him, said, pleading before the Holy One, blessed be He: make me understand and that I learn Your commandments. And said further: good judgment and knowledge teach me, for in Your commandments I trusted. Light and heavy this is: if in the rest of commandments of the Torah needs a heart to understand, lest he err by permitting - the forbidden, or even by forbidding - the permitted, and as the saying of our Sages of blessed memory: be careful in study, that the error of study counts as wilful sin? in the commandment of knowing the Name, may He be blessed, and His unity, according to the mouth of truth and justice which commanded us the Name in the Torah, as it is written: and know this day and take to your heart that the LORD He is God in heaven above and on the earth below there is no other. And David the king, peace on him, charged his son saying: know - the God of your father and serve Him. And the prophet Jeremiah proclaims saying: let not the wise glory in his wisdom, and let not the strong glory in his strength, let not the rich glory in his riches; but only in this let glory the one who glories, has understanding and knows Me, that I the LORD who performs His kindness, etc. For one how much and how much, that we need to know - whom we serve.",
+      "note": "The paragraph is the author's reply to an objector (§16). The Sotah 22 passage is quoted at length; its Aramaic words are translated by sense. The kal va-chomer in the middle has an elided apodosis, supplied as 'how much more so'. Ulla's saying takes the main clause 'this is'. The closing ע״כ is 'Thus far', outside the quotation mark. The author's rtin is left untranslated, since no sense is given in the text.",
+      "tokens": [
+        {
+          "id": "3:16.1",
+          "gloss": "§16.",
+          "note": "The author's section label (טז) is the book's continuous numbering: §16."
+        },
+        {
+          "id": "3:16.2",
+          "gloss": "and who"
+        },
+        {
+          "id": "3:16.3",
+          "gloss": "objected"
+        },
+        {
+          "id": "3:16.4",
+          "gloss": "to me"
+        },
+        {
+          "id": "3:16.5",
+          "gloss": "and said"
+        },
+        {
+          "id": "3:16.6",
+          "gloss": "who"
+        },
+        {
+          "id": "3:16.7",
+          "gloss": "gave"
+        },
+        {
+          "id": "3:16.8",
+          "gloss": "to you"
+        },
+        {
+          "id": "3:16.9",
+          "gloss": "permission"
+        },
+        {
+          "id": "3:16.10",
+          "gloss": "to inquire"
+        },
+        {
+          "id": "3:16.11",
+          "gloss": "and to investigate"
+        },
+        {
+          "id": "3:16.12",
+          "gloss": "into"
+        },
+        {
+          "id": "3:16.13",
+          "gloss": "their words"
+        },
+        {
+          "id": "3:16.14",
+          "gloss": "astonished"
+        },
+        {
+          "id": "3:16.15",
+          "gloss": "I"
+        },
+        {
+          "id": "3:16.16",
+          "gloss": "greatly"
+        },
+        {
+          "id": "3:16.17",
+          "gloss": "at"
+        },
+        {
+          "id": "3:16.18",
+          "gloss": "your words"
+        },
+        {
+          "id": "3:16.19",
+          "gloss": "these"
+        },
+        {
+          "id": "3:16.20",
+          "gloss": "is it indeed that"
+        },
+        {
+          "id": "3:16.21",
+          "gloss": "was given"
+        },
+        {
+          "id": "3:16.22",
+          "gloss": "the Torah"
+        },
+        {
+          "id": "3:16.23",
+          "gloss": "to be read"
+        },
+        {
+          "id": "3:16.24",
+          "gloss": "in it"
+        },
+        {
+          "id": "3:16.25",
+          "gloss": "like a bird"
+        },
+        {
+          "id": "3:16.26",
+          "gloss": "that chirps"
+        },
+        {
+          "id": "3:16.27",
+          "gloss": "or"
+        },
+        {
+          "id": "3:16.28",
+          "gloss": "like a beast"
+        },
+        {
+          "id": "3:16.29",
+          "gloss": "that bellows"
+        },
+        {
+          "id": "3:16.30",
+          "gloss": "and does not"
+        },
+        {
+          "id": "3:16.31",
+          "gloss": "know"
+        },
+        {
+          "id": "3:16.32",
+          "gloss": "what"
+        },
+        {
+          "id": "3:16.33",
+          "gloss": "it is saying"
+        },
+        {
+          "id": "3:16.34",
+          "gloss": "is it not that"
+        },
+        {
+          "id": "3:16.35",
+          "gloss": "one who does"
+        },
+        {
+          "id": "3:16.36",
+          "gloss": "so"
+        },
+        {
+          "id": "3:16.37",
+          "gloss": "is called"
+        },
+        {
+          "id": "3:16.38",
+          "gloss": "wicked"
+        },
+        {
+          "id": "3:16.39",
+          "gloss": "crafty"
+        },
+        {
+          "id": "3:16.40",
+          "gloss": "as we learn"
+        },
+        {
+          "id": "3:16.41",
+          "gloss": "in Sotah"
+        },
+        {
+          "id": "3:16.42",
+          "gloss": "folio"
+        },
+        {
+          "id": "3:16.43",
+          "gloss": "22",
+          "note": "The author writes 'כב.' with no a or b; the side is not supplied."
+        },
+        {
+          "id": "3:16.44",
+          "gloss": "Ulla"
+        },
+        {
+          "id": "3:16.45",
+          "gloss": "said"
+        },
+        {
+          "id": "3:16.46",
+          "gloss": "this"
+        },
+        {
+          "id": "3:16.47",
+          "gloss": "one who read"
+        },
+        {
+          "id": "3:16.48",
+          "gloss": "and studied"
+        },
+        {
+          "id": "3:16.49",
+          "gloss": "and not"
+        },
+        {
+          "id": "3:16.50",
+          "gloss": "served"
+        },
+        {
+          "id": "3:16.51",
+          "gloss": "the Torah scholars",
+          "note": "ת״ח = talmidei ḥakhamim, Torah scholars."
+        },
+        {
+          "id": "3:16.52",
+          "gloss": "Rabbi",
+          "note": "ר׳ = Rabbi."
+        },
+        {
+          "id": "3:16.53",
+          "gloss": "Eliezer"
+        },
+        {
+          "id": "3:16.54",
+          "gloss": "said"
+        },
+        {
+          "id": "3:16.55",
+          "gloss": "this one is",
+          "note": "ה״ז = הרי זה, 'this one is'."
+        },
+        {
+          "id": "3:16.56",
+          "gloss": "people of",
+          "note": "עם הארץ: 'the unlearned', as in Avot (the Hebrew term is עם הארץ)."
+        },
+        {
+          "id": "3:16.57",
+          "gloss": "the land"
+        },
+        {
+          "id": "3:16.58",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:16.59",
+          "gloss": "Shmuel"
+        },
+        {
+          "id": "3:16.60",
+          "gloss": "bar"
+        },
+        {
+          "id": "3:16.61",
+          "gloss": "Nachmani"
+        },
+        {
+          "id": "3:16.62",
+          "gloss": "said"
+        },
+        {
+          "id": "3:16.63",
+          "gloss": "this one is",
+          "note": "הרי זה: the full form of ה״ז, 'this one is'."
+        },
+        {
+          "id": "3:16.64",
+          "gloss": "this one"
+        },
+        {
+          "id": "3:16.65",
+          "gloss": "an ignoramus",
+          "note": "בור: an uneducated, ignorant man, the Talmud's term."
+        },
+        {
+          "id": "3:16.66",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:16.67",
+          "gloss": "Yannai"
+        },
+        {
+          "id": "3:16.68",
+          "gloss": "said"
+        },
+        {
+          "id": "3:16.69",
+          "gloss": "this one is"
+        },
+        {
+          "id": "3:16.70",
+          "gloss": "a Kuthean",
+          "note": "כותי: the Talmud's term for a Samaritan."
+        },
+        {
+          "id": "3:16.71",
+          "gloss": "Rabbi"
+        },
+        {
+          "id": "3:16.72",
+          "gloss": "Acha"
+        },
+        {
+          "id": "3:16.73",
+          "gloss": "bar"
+        },
+        {
+          "id": "3:16.74",
+          "gloss": "Yaakov"
+        },
+        {
+          "id": "3:16.75",
+          "gloss": "said"
+        },
+        {
+          "id": "3:16.76",
+          "gloss": "this one is"
+        },
+        {
+          "id": "3:16.77",
+          "gloss": "a Magian",
+          "note": "Singular of אמגושים: a Magian."
+        },
+        {
+          "id": "3:16.78",
+          "gloss": "said"
+        },
+        {
+          "id": "3:16.79",
+          "gloss": "Rav"
+        },
+        {
+          "id": "3:16.80",
+          "gloss": "Nachman"
+        },
+        {
+          "id": "3:16.81",
+          "gloss": "bar"
+        },
+        {
+          "id": "3:16.82",
+          "gloss": "Yitzchak"
+        },
+        {
+          "id": "3:16.83",
+          "gloss": "it stands to reason"
+        },
+        {
+          "id": "3:16.84",
+          "gloss": "like Rav"
+        },
+        {
+          "id": "3:16.85",
+          "gloss": "Acha"
+        },
+        {
+          "id": "3:16.86",
+          "gloss": "bar"
+        },
+        {
+          "id": "3:16.87",
+          "gloss": "Yaakov",
+          "note": "The author writes רב here and ר׳ earlier; see apparatus."
+        },
+        {
+          "id": "3:16.88",
+          "gloss": "as they say"
+        },
+        {
+          "id": "3:16.89",
+          "gloss": "people"
+        },
+        {
+          "id": "3:16.90",
+          "gloss": "rtin",
+          "note": "An unexplained Aramaic word; the Talmud gives no sense, so it stays a transliteration."
+        },
+        {
+          "id": "3:16.91",
+          "gloss": "of a Magian"
+        },
+        {
+          "id": "3:16.92",
+          "gloss": "and not"
+        },
+        {
+          "id": "3:16.93",
+          "gloss": "knows"
+        },
+        {
+          "id": "3:16.94",
+          "gloss": "what"
+        },
+        {
+          "id": "3:16.95",
+          "gloss": "rtin"
+        },
+        {
+          "id": "3:16.96",
+          "gloss": "taught"
+        },
+        {
+          "id": "3:16.97",
+          "gloss": "a tanna",
+          "note": "תנא: a tanna, a teacher of the Mishnaic tradition."
+        },
+        {
+          "id": "3:16.98",
+          "gloss": "and not"
+        },
+        {
+          "id": "3:16.99",
+          "gloss": "knows"
+        },
+        {
+          "id": "3:16.100",
+          "gloss": "what"
+        },
+        {
+          "id": "3:16.101",
+          "gloss": "he taught"
+        },
+        {
+          "id": "3:16.102",
+          "gloss": "thus far",
+          "note": "ע״כ closes the quotation: 'Thus far.'"
+        },
+        {
+          "id": "3:16.103",
+          "gloss": "and according to"
+        },
+        {
+          "id": "3:16.104",
+          "gloss": "your words"
+        },
+        {
+          "id": "3:16.105",
+          "gloss": "the affairs of"
+        },
+        {
+          "id": "3:16.106",
+          "gloss": "the body"
+        },
+        {
+          "id": "3:16.107",
+          "gloss": "and letters of"
+        },
+        {
+          "id": "3:16.108",
+          "gloss": "commerce"
+        },
+        {
+          "id": "3:16.109",
+          "gloss": "which are"
+        },
+        {
+          "id": "3:16.110",
+          "gloss": "of the affairs of"
+        },
+        {
+          "id": "3:16.111",
+          "gloss": "life of"
+        },
+        {
+          "id": "3:16.112",
+          "gloss": "the bodies"
+        },
+        {
+          "id": "3:16.113",
+          "gloss": "are preferable"
+        },
+        {
+          "id": "3:16.114",
+          "gloss": "to the affair of"
+        },
+        {
+          "id": "3:16.115",
+          "gloss": "the Torah"
+        },
+        {
+          "id": "3:16.116",
+          "gloss": "which are"
+        },
+        {
+          "id": "3:16.117",
+          "gloss": "the life of"
+        },
+        {
+          "id": "3:16.118",
+          "gloss": "the soul"
+        },
+        {
+          "id": "3:16.119",
+          "gloss": "in which"
+        },
+        {
+          "id": "3:16.120",
+          "gloss": "in them"
+        },
+        {
+          "id": "3:16.121",
+          "gloss": "we merit"
+        },
+        {
+          "id": "3:16.122",
+          "gloss": "the life of"
+        },
+        {
+          "id": "3:16.123",
+          "gloss": "the world"
+        },
+        {
+          "id": "3:16.124",
+          "gloss": "to come"
+        },
+        {
+          "id": "3:16.125",
+          "gloss": "and we greet"
+        },
+        {
+          "id": "3:16.126",
+          "gloss": "with them"
+        },
+        {
+          "id": "3:16.127",
+          "gloss": "the face of"
+        },
+        {
+          "id": "3:16.128",
+          "gloss": "our God"
+        },
+        {
+          "id": "3:16.129",
+          "gloss": "our King"
+        },
+        {
+          "id": "3:16.130",
+          "gloss": "for indeed"
+        },
+        {
+          "id": "3:16.131",
+          "gloss": "if"
+        },
+        {
+          "id": "3:16.132",
+          "gloss": "they bring"
+        },
+        {
+          "id": "3:16.133",
+          "gloss": "to you"
+        },
+        {
+          "id": "3:16.134",
+          "gloss": "two"
+        },
+        {
+          "id": "3:16.135",
+          "gloss": "letters"
+        },
+        {
+          "id": "3:16.136",
+          "gloss": "of the affairs of"
+        },
+        {
+          "id": "3:16.137",
+          "gloss": "commerce"
+        },
+        {
+          "id": "3:16.138",
+          "gloss": "which"
+        },
+        {
+          "id": "3:16.139",
+          "gloss": "contradict"
+        },
+        {
+          "id": "3:16.140",
+          "gloss": "one"
+        },
+        {
+          "id": "3:16.141",
+          "gloss": "-",
+          "note": "את זה: 'each other' (literally 'this with this')."
+        },
+        {
+          "id": "3:16.142",
+          "gloss": "the other"
+        },
+        {
+          "id": "3:16.143",
+          "gloss": "you"
+        },
+        {
+          "id": "3:16.144",
+          "gloss": "give"
+        },
+        {
+          "id": "3:16.145",
+          "gloss": "heart"
+        },
+        {
+          "id": "3:16.146",
+          "gloss": "to them"
+        },
+        {
+          "id": "3:16.147",
+          "gloss": "to understand"
+        },
+        {
+          "id": "3:16.148",
+          "gloss": "so as"
+        },
+        {
+          "id": "3:16.149",
+          "gloss": "lest"
+        },
+        {
+          "id": "3:16.150",
+          "gloss": "you lose"
+        },
+        {
+          "id": "3:16.151",
+          "gloss": "and not you"
+        },
+        {
+          "id": "3:16.152",
+          "gloss": "accept them"
+        },
+        {
+          "id": "3:16.153",
+          "gloss": "with the faith of"
+        },
+        {
+          "id": "3:16.154",
+          "gloss": "a craftsman",
+          "note": "אמונת אומן: trust in a craftsman's word without understanding of his work."
+        },
+        {
+          "id": "3:16.155",
+          "gloss": "and in the Torah"
+        },
+        {
+          "id": "3:16.156",
+          "gloss": "which is"
+        },
+        {
+          "id": "3:16.157",
+          "gloss": "the life of"
+        },
+        {
+          "id": "3:16.158",
+          "gloss": "the soul"
+        },
+        {
+          "id": "3:16.159",
+          "gloss": "would you accept"
+        },
+        {
+          "id": "3:16.160",
+          "gloss": "-"
+        },
+        {
+          "id": "3:16.161",
+          "gloss": "what contradicts"
+        },
+        {
+          "id": "3:16.162",
+          "gloss": "your faith"
+        },
+        {
+          "id": "3:16.163",
+          "gloss": "for the faith of"
+        },
+        {
+          "id": "3:16.164",
+          "gloss": "a craftsman"
+        },
+        {
+          "id": "3:16.165",
+          "gloss": "whether"
+        },
+        {
+          "id": "3:16.166",
+          "gloss": "good"
+        },
+        {
+          "id": "3:16.167",
+          "gloss": "or"
+        },
+        {
+          "id": "3:16.168",
+          "gloss": "bad"
+        },
+        {
+          "id": "3:16.169",
+          "gloss": "without"
+        },
+        {
+          "id": "3:16.170",
+          "gloss": "understanding"
+        },
+        {
+          "id": "3:16.171",
+          "gloss": "is it not"
+        },
+        {
+          "id": "3:16.172",
+          "gloss": "the main"
+        },
+        {
+          "id": "3:16.173",
+          "gloss": "business of"
+        },
+        {
+          "id": "3:16.174",
+          "gloss": "the Torah"
+        },
+        {
+          "id": "3:16.175",
+          "gloss": "to know"
+        },
+        {
+          "id": "3:16.176",
+          "gloss": "and to understand"
+        },
+        {
+          "id": "3:16.177",
+          "gloss": "its commandments"
+        },
+        {
+          "id": "3:16.178",
+          "gloss": "and its statutes"
+        },
+        {
+          "id": "3:16.179",
+          "gloss": "and David"
+        },
+        {
+          "id": "3:16.180",
+          "gloss": "the king"
+        },
+        {
+          "id": "3:16.181",
+          "gloss": "peace be upon him",
+          "note": "ע״ה: peace be upon him."
+        },
+        {
+          "id": "3:16.182",
+          "gloss": "said"
+        },
+        {
+          "id": "3:16.183",
+          "gloss": "pleading"
+        },
+        {
+          "id": "3:16.184",
+          "gloss": "before"
+        },
+        {
+          "id": "3:16.185",
+          "gloss": "the Holy One, blessed be He",
+          "note": "הקב״ה: the Holy One, blessed be He."
+        },
+        {
+          "id": "3:16.186",
+          "gloss": "make me understand"
+        },
+        {
+          "id": "3:16.187",
+          "gloss": "that I may learn"
+        },
+        {
+          "id": "3:16.188",
+          "gloss": "Your commandments"
+        },
+        {
+          "id": "3:16.189",
+          "gloss": "and said"
+        },
+        {
+          "id": "3:16.190",
+          "gloss": "further"
+        },
+        {
+          "id": "3:16.191",
+          "gloss": "good"
+        },
+        {
+          "id": "3:16.192",
+          "gloss": "judgment"
+        },
+        {
+          "id": "3:16.193",
+          "gloss": "and knowledge"
+        },
+        {
+          "id": "3:16.194",
+          "gloss": "teach me"
+        },
+        {
+          "id": "3:16.195",
+          "gloss": "for"
+        },
+        {
+          "id": "3:16.196",
+          "gloss": "in Your commandments"
+        },
+        {
+          "id": "3:16.197",
+          "gloss": "I have trusted"
+        },
+        {
+          "id": "3:16.198",
+          "gloss": "light",
+          "note": "קל וחומר: 'light and heavy', the a fortiori argument."
+        },
+        {
+          "id": "3:16.199",
+          "gloss": "and heavy"
+        },
+        {
+          "id": "3:16.200",
+          "gloss": "this is"
+        },
+        {
+          "id": "3:16.201",
+          "gloss": "if",
+          "note": "The first clause of the kal va-chomer; 'how much more so' is the implied second clause (see the phrase note)."
+        },
+        {
+          "id": "3:16.202",
+          "gloss": "in the rest of"
+        },
+        {
+          "id": "3:16.203",
+          "gloss": "commandments"
+        },
+        {
+          "id": "3:16.204",
+          "gloss": "of"
+        },
+        {
+          "id": "3:16.205",
+          "gloss": "the Torah"
+        },
+        {
+          "id": "3:16.206",
+          "gloss": "needs"
+        },
+        {
+          "id": "3:16.207",
+          "gloss": "a heart"
+        },
+        {
+          "id": "3:16.208",
+          "gloss": "to understand"
+        },
+        {
+          "id": "3:16.209",
+          "gloss": "lest"
+        },
+        {
+          "id": "3:16.210",
+          "gloss": "he err"
+        },
+        {
+          "id": "3:16.211",
+          "gloss": "by permitting"
+        },
+        {
+          "id": "3:16.212",
+          "gloss": "-",
+          "note": "את is the object marker, with no English counterpart."
+        },
+        {
+          "id": "3:16.213",
+          "gloss": "the forbidden"
+        },
+        {
+          "id": "3:16.214",
+          "gloss": "or"
+        },
+        {
+          "id": "3:16.215",
+          "gloss": "even"
+        },
+        {
+          "id": "3:16.216",
+          "gloss": "by forbidding"
+        },
+        {
+          "id": "3:16.217",
+          "gloss": "-",
+          "note": "את is the object marker, with no English counterpart."
+        },
+        {
+          "id": "3:16.218",
+          "gloss": "the permitted"
+        },
+        {
+          "id": "3:16.219",
+          "gloss": "and as the saying of"
+        },
+        {
+          "id": "3:16.220",
+          "gloss": "our Sages of blessed memory",
+          "note": "רז״ל: our Sages of blessed memory."
+        },
+        {
+          "id": "3:16.221",
+          "gloss": "Be",
+          "note": "A saying of the Sages with no source given; no quotation marks, as the source is not certain."
+        },
+        {
+          "id": "3:16.222",
+          "gloss": "careful"
+        },
+        {
+          "id": "3:16.223",
+          "gloss": "in study"
+        },
+        {
+          "id": "3:16.224",
+          "gloss": "that the error of"
+        },
+        {
+          "id": "3:16.225",
+          "gloss": "study"
+        },
+        {
+          "id": "3:16.226",
+          "gloss": "counts as"
+        },
+        {
+          "id": "3:16.227",
+          "gloss": "wilful sin"
+        },
+        {
+          "id": "3:16.228",
+          "gloss": "in the commandment of"
+        },
+        {
+          "id": "3:16.229",
+          "gloss": "knowing"
+        },
+        {
+          "id": "3:16.230",
+          "gloss": "the Name, may He be blessed",
+          "note": "השי״ת = השם יתברך: the Name, may He be blessed."
+        },
+        {
+          "id": "3:16.231",
+          "gloss": "and His unity"
+        },
+        {
+          "id": "3:16.232",
+          "gloss": "according to"
+        },
+        {
+          "id": "3:16.233",
+          "gloss": "the mouth of"
+        },
+        {
+          "id": "3:16.234",
+          "gloss": "truth"
+        },
+        {
+          "id": "3:16.235",
+          "gloss": "and justice"
+        },
+        {
+          "id": "3:16.236",
+          "gloss": "which commanded us"
+        },
+        {
+          "id": "3:16.237",
+          "gloss": "the Name, may He be blessed",
+          "note": "השי״ת: the Name, may He be blessed."
+        },
+        {
+          "id": "3:16.238",
+          "gloss": "in the Torah"
+        },
+        {
+          "id": "3:16.239",
+          "gloss": "as"
+        },
+        {
+          "id": "3:16.240",
+          "gloss": "it is written"
+        },
+        {
+          "id": "3:16.241",
+          "gloss": "and know"
+        },
+        {
+          "id": "3:16.242",
+          "gloss": "this day"
+        },
+        {
+          "id": "3:16.243",
+          "gloss": "and take to heart"
+        },
+        {
+          "id": "3:16.244",
+          "gloss": "to"
+        },
+        {
+          "id": "3:16.245",
+          "gloss": "your heart"
+        },
+        {
+          "id": "3:16.246",
+          "gloss": "that"
+        },
+        {
+          "id": "3:16.247",
+          "gloss": "the LORD",
+          "note": "ה׳ as the Tetragrammaton: the LORD."
+        },
+        {
+          "id": "3:16.248",
+          "gloss": "He"
+        },
+        {
+          "id": "3:16.249",
+          "gloss": "is God"
+        },
+        {
+          "id": "3:16.250",
+          "gloss": "in heaven"
+        },
+        {
+          "id": "3:16.251",
+          "gloss": "above"
+        },
+        {
+          "id": "3:16.252",
+          "gloss": "and on"
+        },
+        {
+          "id": "3:16.253",
+          "gloss": "the earth"
+        },
+        {
+          "id": "3:16.254",
+          "gloss": "below"
+        },
+        {
+          "id": "3:16.255",
+          "gloss": "there is no"
+        },
+        {
+          "id": "3:16.256",
+          "gloss": "other"
+        },
+        {
+          "id": "3:16.257",
+          "gloss": "and David"
+        },
+        {
+          "id": "3:16.258",
+          "gloss": "the king"
+        },
+        {
+          "id": "3:16.259",
+          "gloss": "peace be upon him",
+          "note": "ע״ה: peace be upon him."
+        },
+        {
+          "id": "3:16.260",
+          "gloss": "charged"
+        },
+        {
+          "id": "3:16.261",
+          "gloss": "-"
+        },
+        {
+          "id": "3:16.262",
+          "gloss": "his son"
+        },
+        {
+          "id": "3:16.263",
+          "gloss": "saying"
+        },
+        {
+          "id": "3:16.264",
+          "gloss": "know"
+        },
+        {
+          "id": "3:16.265",
+          "gloss": "-"
+        },
+        {
+          "id": "3:16.266",
+          "gloss": "the God of"
+        },
+        {
+          "id": "3:16.267",
+          "gloss": "your father"
+        },
+        {
+          "id": "3:16.268",
+          "gloss": "and serve Him"
+        },
+        {
+          "id": "3:16.269",
+          "gloss": "and the prophet"
+        },
+        {
+          "id": "3:16.270",
+          "gloss": "Jeremiah"
+        },
+        {
+          "id": "3:16.271",
+          "gloss": "proclaims"
+        },
+        {
+          "id": "3:16.272",
+          "gloss": "saying"
+        },
+        {
+          "id": "3:16.273",
+          "gloss": "let not"
+        },
+        {
+          "id": "3:16.274",
+          "gloss": "glory"
+        },
+        {
+          "id": "3:16.275",
+          "gloss": "the wise man"
+        },
+        {
+          "id": "3:16.276",
+          "gloss": "in his wisdom"
+        },
+        {
+          "id": "3:16.277",
+          "gloss": "and let not"
+        },
+        {
+          "id": "3:16.278",
+          "gloss": "glory"
+        },
+        {
+          "id": "3:16.279",
+          "gloss": "the strong man"
+        },
+        {
+          "id": "3:16.280",
+          "gloss": "in his strength"
+        },
+        {
+          "id": "3:16.281",
+          "gloss": "let not"
+        },
+        {
+          "id": "3:16.282",
+          "gloss": "glory"
+        },
+        {
+          "id": "3:16.283",
+          "gloss": "the rich man"
+        },
+        {
+          "id": "3:16.284",
+          "gloss": "in his riches"
+        },
+        {
+          "id": "3:16.285",
+          "gloss": "but"
+        },
+        {
+          "id": "3:16.286",
+          "gloss": "only"
+        },
+        {
+          "id": "3:16.287",
+          "gloss": "in this"
+        },
+        {
+          "id": "3:16.288",
+          "gloss": "let glory"
+        },
+        {
+          "id": "3:16.289",
+          "gloss": "he who glories"
+        },
+        {
+          "id": "3:16.290",
+          "gloss": "has understanding"
+        },
+        {
+          "id": "3:16.291",
+          "gloss": "and knows"
+        },
+        {
+          "id": "3:16.292",
+          "gloss": "Me"
+        },
+        {
+          "id": "3:16.293",
+          "gloss": "that"
+        },
+        {
+          "id": "3:16.294",
+          "gloss": "I"
+        },
+        {
+          "id": "3:16.295",
+          "gloss": "the LORD"
+        },
+        {
+          "id": "3:16.296",
+          "gloss": "who performs"
+        },
+        {
+          "id": "3:16.297",
+          "gloss": "His kindness"
+        },
+        {
+          "id": "3:16.298",
+          "gloss": "etc.",
+          "note": "The author cuts the verse with וכו׳; 'etc.' is kept."
+        },
+        {
+          "id": "3:16.299",
+          "gloss": "for",
+          "note": "על אחת כמה וכמה: 'all the more so' (literally 'for one, how much and how much')."
+        },
+        {
+          "id": "3:16.300",
+          "gloss": "one"
+        },
+        {
+          "id": "3:16.301",
+          "gloss": "how much"
+        },
+        {
+          "id": "3:16.302",
+          "gloss": "and how much"
+        },
+        {
+          "id": "3:16.303",
+          "gloss": "that we"
+        },
+        {
+          "id": "3:16.304",
+          "gloss": "need"
+        },
+        {
+          "id": "3:16.305",
+          "gloss": "to know"
+        },
+        {
+          "id": "3:16.306",
+          "gloss": "-"
+        },
+        {
+          "id": "3:16.307",
+          "gloss": "whom"
+        },
+        {
+          "id": "3:16.308",
+          "gloss": "we serve"
+        }
+      ],
+      "phrases": [
+        {
+          "tokens": [
+            "3:16.1",
+            "3:16.2",
+            "3:16.3",
+            "3:16.4",
+            "3:16.5"
+          ],
+          "english": "§16. You who objected to me and said,",
+          "literal": "16 - you-who objected to-me and-said"
+        },
+        {
+          "tokens": [
+            "3:16.6",
+            "3:16.7",
+            "3:16.8",
+            "3:16.9",
+            "3:16.10",
+            "3:16.11",
+            "3:16.12",
+            "3:16.13"
+          ],
+          "english": "\"Who gave you permission to inquire into and investigate their words?\"",
+          "literal": "who gave to-you permission to-inquire and-to-investigate after their-words"
+        },
+        {
+          "tokens": [
+            "3:16.14",
+            "3:16.15",
+            "3:16.16",
+            "3:16.17",
+            "3:16.18",
+            "3:16.19"
+          ],
+          "english": "I am greatly astonished at these words of yours?",
+          "literal": "astonished I greatly at your-words these"
+        },
+        {
+          "tokens": [
+            "3:16.20",
+            "3:16.21",
+            "3:16.22",
+            "3:16.23",
+            "3:16.24"
+          ],
+          "english": "Was the Torah given to be read in",
+          "literal": "is-it-indeed given the-Torah to-be-read in-it"
+        },
+        {
+          "tokens": [
+            "3:16.25",
+            "3:16.26"
+          ],
+          "english": "like a chirping bird,",
+          "literal": "like-a-bird that-chirps"
+        },
+        {
+          "tokens": [
+            "3:16.27",
+            "3:16.28",
+            "3:16.29"
+          ],
+          "english": "or like a bellowing beast",
+          "literal": "or like-a-beast that-bellows"
+        },
+        {
+          "tokens": [
+            "3:16.30",
+            "3:16.31",
+            "3:16.32",
+            "3:16.33"
+          ],
+          "english": "that does not know what it is saying?",
+          "literal": "and-not knows what it-says"
+        },
+        {
+          "tokens": [
+            "3:16.34",
+            "3:16.35",
+            "3:16.36",
+            "3:16.37",
+            "3:16.38",
+            "3:16.39"
+          ],
+          "english": "Is not one who does so called a wicked and crafty person,",
+          "literal": "is-it-not one who-does so is-called wicked crafty"
+        },
+        {
+          "tokens": [
+            "3:16.40",
+            "3:16.41"
+          ],
+          "english": "as we learn in Sotah",
+          "literal": "as-we-learn in-Sotah"
+        },
+        {
+          "tokens": [
+            "3:16.42",
+            "3:16.43"
+          ],
+          "english": "(folio 22):",
+          "literal": "folio 22"
+        },
+        {
+          "tokens": [
+            "3:16.44",
+            "3:16.45"
+          ],
+          "english": "\"Ulla said:",
+          "literal": "Ulla said"
+        },
+        {
+          "tokens": [
+            "3:16.46",
+            "3:16.47",
+            "3:16.48",
+            "3:16.49",
+            "3:16.50",
+            "3:16.51"
+          ],
+          "english": "this is one who read and studied and did not serve the Torah scholars.",
+          "literal": "this (is) one who-read and-studied and-not served the-Torah-scholars"
+        },
+        {
+          "tokens": [
+            "3:16.52",
+            "3:16.53",
+            "3:16.54",
+            "3:16.55",
+            "3:16.56",
+            "3:16.57"
+          ],
+          "english": "Rabbi Eliezer said: this one is an unlearned person.",
+          "literal": "Rabbi Eliezer said: this-one-is people-of the-land"
+        },
+        {
+          "tokens": [
+            "3:16.58",
+            "3:16.59",
+            "3:16.60",
+            "3:16.61",
+            "3:16.62",
+            "3:16.63",
+            "3:16.64",
+            "3:16.65"
+          ],
+          "english": "Rabbi Shmuel bar Nachmani said: this one is an ignoramus.",
+          "literal": "Rabbi Shmuel bar Nachmani said: behold this-one an-ignoramus"
+        },
+        {
+          "tokens": [
+            "3:16.66",
+            "3:16.67",
+            "3:16.68",
+            "3:16.69",
+            "3:16.70"
+          ],
+          "english": "Rabbi Yannai said: this one is a Kuthean.",
+          "literal": "Rabbi Yannai said: this-one-is a-Kuthean"
+        },
+        {
+          "tokens": [
+            "3:16.71",
+            "3:16.72",
+            "3:16.73",
+            "3:16.74",
+            "3:16.75",
+            "3:16.76",
+            "3:16.77"
+          ],
+          "english": "Rabbi Acha bar Yaakov said: this one is a Magian.",
+          "literal": "Rabbi Acha bar Yaakov said: this-one-is a-Magian"
+        },
+        {
+          "tokens": [
+            "3:16.78",
+            "3:16.79",
+            "3:16.80",
+            "3:16.81",
+            "3:16.82"
+          ],
+          "english": "Rav Nachman bar Yitzchak said:",
+          "literal": "said Rav Nachman bar Yitzchak"
+        },
+        {
+          "tokens": [
+            "3:16.83",
+            "3:16.84",
+            "3:16.85",
+            "3:16.86",
+            "3:16.87"
+          ],
+          "english": "it stands to reason like Rav Acha bar Yaakov,",
+          "literal": "it-stands-to-reason like-Rav Acha bar Yaakov"
+        },
+        {
+          "tokens": [
+            "3:16.88",
+            "3:16.89",
+            "3:16.90",
+            "3:16.91"
+          ],
+          "english": "as people say, 'a Magian's rtin",
+          "literal": "as-they-say people: rtin of-a-Magian"
+        },
+        {
+          "tokens": [
+            "3:16.92",
+            "3:16.93",
+            "3:16.94",
+            "3:16.95"
+          ],
+          "english": "and does not know what rtin is';",
+          "literal": "and-not knows what rtin"
+        },
+        {
+          "tokens": [
+            "3:16.96",
+            "3:16.97",
+            "3:16.98",
+            "3:16.99",
+            "3:16.100",
+            "3:16.101"
+          ],
+          "english": "a tanna taught, and did not know what he taught.\"",
+          "literal": "taught a-tanna and-not knows what he-taught"
+        },
+        {
+          "tokens": [
+            "3:16.102"
+          ],
+          "english": "Thus far.",
+          "literal": "thus far"
+        },
+        {
+          "tokens": [
+            "3:16.103",
+            "3:16.104",
+            "3:16.105",
+            "3:16.106"
+          ],
+          "english": "And according to your words, the affairs of the body",
+          "literal": "and-according-to your-words the-affairs-of the-body"
+        },
+        {
+          "tokens": [
+            "3:16.107",
+            "3:16.108",
+            "3:16.109",
+            "3:16.110",
+            "3:16.111",
+            "3:16.112"
+          ],
+          "english": "and commercial letters, which are among the affairs of bodily life,",
+          "literal": "and letters-of commerce which-are of-the-affairs-of life-of the-bodies"
+        },
+        {
+          "tokens": [
+            "3:16.113",
+            "3:16.114",
+            "3:16.115",
+            "3:16.116",
+            "3:16.117",
+            "3:16.118"
+          ],
+          "english": "are preferable to the affairs of the Torah, which are the life of the soul,",
+          "literal": "are-preferable to-the-affair-of the-Torah which-are life-of the-soul"
+        },
+        {
+          "tokens": [
+            "3:16.119",
+            "3:16.120",
+            "3:16.121",
+            "3:16.122",
+            "3:16.123",
+            "3:16.124"
+          ],
+          "english": "through which we merit the life of the world to come,",
+          "literal": "in-which we-merit to-life-of the-world the-coming"
+        },
+        {
+          "tokens": [
+            "3:16.125",
+            "3:16.126",
+            "3:16.127",
+            "3:16.128",
+            "3:16.129"
+          ],
+          "english": "and through them greet the face of our God, our King?",
+          "literal": "and-we-greet with-them the-face-of our-God our-King"
+        },
+        {
+          "tokens": [
+            "3:16.130",
+            "3:16.131",
+            "3:16.132",
+            "3:16.133"
+          ],
+          "english": "For if they bring you",
+          "literal": "for if they-bring to-you"
+        },
+        {
+          "tokens": [
+            "3:16.134",
+            "3:16.135",
+            "3:16.136",
+            "3:16.137",
+            "3:16.138",
+            "3:16.139"
+          ],
+          "english": "two letters of commerce that contradict",
+          "literal": "two letters of-commerce which contradict"
+        },
+        {
+          "tokens": [
+            "3:16.140",
+            "3:16.141",
+            "3:16.142"
+          ],
+          "english": "each other,",
+          "literal": "one the-other"
+        },
+        {
+          "tokens": [
+            "3:16.143",
+            "3:16.144",
+            "3:16.145",
+            "3:16.146"
+          ],
+          "english": "you pay attention to them,",
+          "literal": "you give heart to-them"
+        },
+        {
+          "tokens": [
+            "3:16.147",
+            "3:16.148",
+            "3:16.149",
+            "3:16.150"
+          ],
+          "english": "to understand, so that you do not lose,",
+          "literal": "to-understand so-that not you-lose"
+        },
+        {
+          "tokens": [
+            "3:16.151",
+            "3:16.152",
+            "3:16.153",
+            "3:16.154"
+          ],
+          "english": "and do not accept them on a craftsman's faith!",
+          "literal": "and-not you accept-them with-faith-of a-craftsman"
+        },
+        {
+          "tokens": [
+            "3:16.155",
+            "3:16.156",
+            "3:16.157",
+            "3:16.158"
+          ],
+          "english": "And in the Torah, which is the life of the soul,",
+          "literal": "and-in-the-Torah which-is life-of the-soul"
+        },
+        {
+          "tokens": [
+            "3:16.159",
+            "3:16.160",
+            "3:16.161",
+            "3:16.162"
+          ],
+          "english": "would you accept what contradicts your faith,",
+          "literal": "will-you-accept the-contradicting your-faith"
+        },
+        {
+          "tokens": [
+            "3:16.163",
+            "3:16.164",
+            "3:16.165",
+            "3:16.166",
+            "3:16.167",
+            "3:16.168",
+            "3:16.169",
+            "3:16.170"
+          ],
+          "english": "for a craftsman's faith, whether good or bad, without understanding?",
+          "literal": "for faith-of a-craftsman whether good or-bad without understanding"
+        },
+        {
+          "tokens": [
+            "3:16.171",
+            "3:16.172",
+            "3:16.173",
+            "3:16.174",
+            "3:16.175",
+            "3:16.176",
+            "3:16.177",
+            "3:16.178"
+          ],
+          "english": "Is not the main business of the Torah to know and to understand its commandments and statutes!",
+          "literal": "is-it-not the-main business-of the-Torah to-know and-to-understand its-commandments and-its-statutes"
+        },
+        {
+          "tokens": [
+            "3:16.179",
+            "3:16.180",
+            "3:16.181",
+            "3:16.182",
+            "3:16.183",
+            "3:16.184",
+            "3:16.185"
+          ],
+          "english": "And King David, peace be upon him, said, pleading before the Holy One, blessed be He,",
+          "literal": "and-David the-king peace-on-him said pleading before the-Holy-One-blessed-be-He"
+        },
+        {
+          "tokens": [
+            "3:16.186",
+            "3:16.187",
+            "3:16.188"
+          ],
+          "english": "\"Give me understanding, that I may learn Your commandments.\"",
+          "literal": "make-me-understand and-that-I-learn Your-commandments"
+        },
+        {
+          "tokens": [
+            "3:16.189",
+            "3:16.190"
+          ],
+          "english": "And he said further:",
+          "literal": "and-said further"
+        },
+        {
+          "tokens": [
+            "3:16.191",
+            "3:16.192",
+            "3:16.193",
+            "3:16.194",
+            "3:16.195",
+            "3:16.196",
+            "3:16.197"
+          ],
+          "english": "\"Teach me good judgment and knowledge, for I have trusted in Your commandments.\"",
+          "literal": "good judgment and-knowledge teach-me for in-Your-commandments I-trusted"
+        },
+        {
+          "tokens": [
+            "3:16.198",
+            "3:16.199",
+            "3:16.200"
+          ],
+          "english": "And this is an a fortiori argument:",
+          "literal": "light and-heavy this-is"
+        },
+        {
+          "tokens": [
+            "3:16.201",
+            "3:16.202",
+            "3:16.203",
+            "3:16.204",
+            "3:16.205",
+            "3:16.206",
+            "3:16.207",
+            "3:16.208"
+          ],
+          "english": "if in the other commandments of the Torah one needs a heart to understand,",
+          "literal": "if in-the-rest-of commandments-of the-Torah needs a-heart to-understand"
+        },
+        {
+          "tokens": [
+            "3:16.209",
+            "3:16.210",
+            "3:16.211"
+          ],
+          "english": "lest he err by permitting",
+          "literal": "lest he-err by-permitting"
+        },
+        {
+          "tokens": [
+            "3:16.212",
+            "3:16.213"
+          ],
+          "english": "the forbidden,",
+          "literal": "- the-forbidden"
+        },
+        {
+          "tokens": [
+            "3:16.214",
+            "3:16.215",
+            "3:16.216"
+          ],
+          "english": "or even by forbidding",
+          "literal": "or even by-forbidding"
+        },
+        {
+          "tokens": [
+            "3:16.217",
+            "3:16.218"
+          ],
+          "english": "the permitted,",
+          "literal": "- the-permitted"
+        },
+        {
+          "tokens": [
+            "3:16.219",
+            "3:16.220"
+          ],
+          "english": "and as our Sages of blessed memory said:",
+          "literal": "and-as the-saying-of our-Sages of-blessed-memory"
+        },
+        {
+          "tokens": [
+            "3:16.221",
+            "3:16.222",
+            "3:16.223",
+            "3:16.224",
+            "3:16.225",
+            "3:16.226",
+            "3:16.227"
+          ],
+          "english": "Be careful in study, for the error of study counts as wilful sin?",
+          "literal": "be careful in-study that-the-error-of study counts-as wilful-sin"
+        },
+        {
+          "tokens": [
+            "3:16.228",
+            "3:16.229",
+            "3:16.230",
+            "3:16.231"
+          ],
+          "english": "how much more so in the commandment of knowing the Name, may He be blessed, and His unity,",
+          "literal": "in-the-commandment-of knowing the-Name-may-He-be-blessed and-His-unity"
+        },
+        {
+          "tokens": [
+            "3:16.232",
+            "3:16.233",
+            "3:16.234",
+            "3:16.235",
+            "3:16.236",
+            "3:16.237",
+            "3:16.238"
+          ],
+          "english": "in accordance with truth and justice, which the Name, may He be blessed, commanded us in the Torah,",
+          "literal": "according-to the-mouth-of truth and-justice which-commanded-us the-Name in-the-Torah"
+        },
+        {
+          "tokens": [
+            "3:16.239",
+            "3:16.240"
+          ],
+          "english": "as it is written:",
+          "literal": "as it-is-written"
+        },
+        {
+          "tokens": [
+            "3:16.241",
+            "3:16.242",
+            "3:16.243",
+            "3:16.244",
+            "3:16.245"
+          ],
+          "english": "\"Know this day, and take it to your heart:",
+          "literal": "and-know this-day and-take-to to-your-heart"
+        },
+        {
+          "tokens": [
+            "3:16.246",
+            "3:16.247",
+            "3:16.248",
+            "3:16.249",
+            "3:16.250",
+            "3:16.251"
+          ],
+          "english": "that the LORD is God in heaven above,",
+          "literal": "that the-LORD He is-God in-heaven above"
+        },
+        {
+          "tokens": [
+            "3:16.252",
+            "3:16.253",
+            "3:16.254",
+            "3:16.255",
+            "3:16.256"
+          ],
+          "english": "and on the earth below; there is no other.\"",
+          "literal": "and-on the-earth below there-is-no other"
+        },
+        {
+          "tokens": [
+            "3:16.257",
+            "3:16.258",
+            "3:16.259",
+            "3:16.260",
+            "3:16.261",
+            "3:16.262",
+            "3:16.263"
+          ],
+          "english": "And King David, peace be upon him, charged his son, saying:",
+          "literal": "and-David the-king peace-on-him charged his-son saying"
+        },
+        {
+          "tokens": [
+            "3:16.264",
+            "3:16.265",
+            "3:16.266",
+            "3:16.267",
+            "3:16.268"
+          ],
+          "english": "\"Know the God of your father and serve Him.\"",
+          "literal": "know - the-God-of your-father and-serve-Him"
+        },
+        {
+          "tokens": [
+            "3:16.269",
+            "3:16.270",
+            "3:16.271",
+            "3:16.272"
+          ],
+          "english": "And the prophet Jeremiah proclaims, saying:",
+          "literal": "and-the-prophet Jeremiah proclaims saying"
+        },
+        {
+          "tokens": [
+            "3:16.273",
+            "3:16.274",
+            "3:16.275",
+            "3:16.276"
+          ],
+          "english": "\"Let not the wise man glory in his wisdom,",
+          "literal": "let-not the-wise glory in-his-wisdom"
+        },
+        {
+          "tokens": [
+            "3:16.277",
+            "3:16.278",
+            "3:16.279",
+            "3:16.280"
+          ],
+          "english": "let not the strong man glory in his strength,",
+          "literal": "and-let-not the-strong glory in-his-strength"
+        },
+        {
+          "tokens": [
+            "3:16.281",
+            "3:16.282",
+            "3:16.283",
+            "3:16.284"
+          ],
+          "english": "let not the rich man glory in his riches;",
+          "literal": "let-not the-rich glory in-his-riches"
+        },
+        {
+          "tokens": [
+            "3:16.285",
+            "3:16.286",
+            "3:16.287",
+            "3:16.288",
+            "3:16.289"
+          ],
+          "english": "but in this let him who glories glory,",
+          "literal": "but only in-this let-glory the-one-who-glories"
+        },
+        {
+          "tokens": [
+            "3:16.290",
+            "3:16.291",
+            "3:16.292",
+            "3:16.293",
+            "3:16.294"
+          ],
+          "english": "that he has understanding and knows Me, that I",
+          "literal": "has-understanding and-knows Me that I"
+        },
+        {
+          "tokens": [
+            "3:16.295",
+            "3:16.296",
+            "3:16.297",
+            "3:16.298"
+          ],
+          "english": "am the LORD who performs His kindness, etc.\"",
+          "literal": "the-LORD who-performs His-kindness etc."
+        },
+        {
+          "tokens": [
+            "3:16.299",
+            "3:16.300",
+            "3:16.301",
+            "3:16.302"
+          ],
+          "english": "All the more so",
+          "literal": "for one how-much and-how-much"
+        },
+        {
+          "tokens": [
+            "3:16.303",
+            "3:16.304",
+            "3:16.305",
+            "3:16.306",
+            "3:16.307",
+            "3:16.308"
+          ],
+          "english": "that we need to know whom we serve.",
+          "literal": "that we need to-know - whom we-serve"
+        }
+      ],
+      "grammar": [
+        "ואשר טענת עלי ואמרת: the author addresses an objector in the second person ('you'), and the English keeps that voice to the end of the objection.",
+        "The Sotah 22 quotation is Talmudic; its proverb 'דאמרי אינשי רטין מגושא' and the words מסתברא, תני תנא are Bavli Aramaic, translated by sense.",
+        "ומה בשאר מצות של תורה צריך לב להבין: a kal va-chomer. The protasis is complete; the apodosis ('how much more so') is elided and is supplied in the English.",
+        "Deut 4:39 and Ps 119:66 and 119:73 are quoted with the Hebrew imperatives and perfects rendered in the sense of the verse ('Know'; 'Teach me'; 'Give me understanding').",
+        "אל יתהלל is a negative jussive, 'let not ... glory'; כי אם בזאת יתהלל is the same verb, 'but in this let ... glory', and the English keeps the parallel."
+      ],
+      "commentary": [],
+      "apparatus": [
+        "Wikisource additions (Q2): translated as base text, flagged here until the 1931 scan is collated.",
+        "Section number: the opening label טז) is §16.",
+        "Sotah 22: the author writes 'דף כב.' with no a or b; nothing is added.",
+        "The author writes רב in 'כרב אחא בר יעקב' and ר׳ in 'ר׳ אחא בר יעקב'; the same name appears to be meant.",
+        "Deut 4:39: the author quotes 'וידעת היום והשבות אל לבבך כי ה׳ הוא האלהים בשמים ממעל ועל הארץ מתחת אין עוד' in full.",
+        "1 Chron 28:9: the author quotes 'דע את אלהי אביך ועבדהו' and stops there; the verse continues 'בלבב שלם', and nothing is added.",
+        "Ps 119:73: 'הבינני ואלמדה מצותיך'. Ps 119:66: 'טוב טעם ודעת למדני כי במצותיך האמנתי'.",
+        "Jer 9:22–23: the author writes 'עושה חסדו' where the verse reads 'עושה חסד משפט וצדקה בארץ'; the author's wording is followed and 'וכו׳' keeps the cut."
+      ],
+      "context": [
+        "Magian (אמגוש): a member of the Magi, the priestly class of the Persian religion (Zoroastrianism).",
+        "Kuthean (כותי): the Talmud's term for a Samaritan."
+      ],
+      "readings": []
+    }
+  ]
+}

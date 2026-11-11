@@ -760,6 +760,13 @@ senses are allowed, chosen by the use.
   ...") unless the syntax forbids it.
 - אמנתא / אמונתנו pairs in Saadia: the Arabic word as written; the author's
   Hebrew gloss in a note.
+- An unresolvable כ' in a list of names stays "K." with a token note.
+- The printed spelling of a surname is transliterated as printed (אלקבולי:
+  "Alkaboli"), with the likelier person (Alkabetz) in the note; the same
+  surname is spelled one way across the work: check earlier units on the
+  consistency pass.
+- נעלם / קורא נעים as the author's address to the reader: "pleasant reader".
+- אין לנו להחמיר: "we may not be stringent" (a prohibition).
 
 ## Pending consistency pass (before the PR)
 
@@ -773,6 +780,8 @@ senses are allowed, chosen by the use.
   and context on היכל הברכה: the text does not name him.
 - 3:9 (perek-3-05): check the rendering of העבודה הזאת in the Exod 12:26 allusion
   against the amended עבודה ruling ("this service").
+- Spell the surname אלקבולי / Alkabetz one way across units (search the final
+  files for "Alkabetz" and "Alkaboli").
 
 ## Translator's checklist (the pilot reviews found these faults most often)
 

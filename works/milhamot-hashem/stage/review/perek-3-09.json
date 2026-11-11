@@ -1,0 +1,1037 @@
+{
+ "unit": "perek-3-09",
+ "model": "sonnet",
+ "summary": "Prose unit, two paragraphs, a chain of citations of authorities. Most words are carried, but both paragraphs have faults of fidelity: 'there is no need' for אין לנו להחמיר (a prohibition), 'a single work' for חיבור אחד האחרונים, 'he brought ... the Rabbi' and 'he wrote about him, the Rema' (the Rav and the Rema are the subjects), 'the words of' dropped, and a fragment ('But after the criticism ... came out.') with no main clause. The printed 'הרב רבי הזהב' is a misprint for the book Ravid ha-Zahav, and 'קורא נעלם' for 'pleasant reader'; ruling-conformity patches for הר' before a title, responsa, the printed אלקבולי, and four Bible echoes in apparatus (Ps 137:7, Job 38:29, Exod 28:3, Deut 27:8). One open question: כ' at 3:15.119. כ' at 3:14.50 is decided as כתב.",
+ "patches": [
+  {
+   "ref": "3:14",
+   "path": "english",
+   "value": "§14. See and understand, our friend the pleasant reader, how our honored Rabbi Tam, the aforementioned, cried out like a herald against those who engage in the new Kabbalah, for they breached the fences of the Torah, and laid bare, laid bare, its foundations and its roots in the unity of the Name, may He be blessed, as will be explained below. Instead of thinking to draw near to the Name, may He be blessed, they strayed from the way and came to believe in many other gods, and to worship them! And like the words of Rabbi Tam ben Yachya, Mahari Albo also wrote in the Ikkarim, chapter 28, of the second. And further he expounded at length in the book Ravid ha-Zahav, and also brought the words of the great Rabbi Maharshal, in his responsa and in the work Yam shel Shlomo, against those who boast of the novelties they study in Kabbalah. And he wrote that since the Talmud was sealed, we may not be stringent against the Gemara, and it is like heresy, as explained at length in Chok Ya'akov, section 489, subsection 11. All this is according to the assumption and the ascription whereby they ascribed the Zohar to Rabbi Shimon bar Yochai, the Tanna, but after the criticism which the wise of heart examined and investigated after him, from whose womb the things mentioned in it came out, and when the work mentioned came out, and from whose hand it came out, it was explained very plainly that it is a work of one of the latter ones, and those ideas did not come out of Rabbi Shimon bar Yochai, the Tanna, peace be upon him, at all, for in it are found many things in the fundamentals of the faith of our holy Torah contrary to the words of Rabbi Shimon bar Yochai in the Talmud and in the Midrashim of our Rabbis of blessed memory, famous in Israel, certainly one must not rely on it in any matter touching the customs of Israel that our forebears practised. And the sages of the Middle Ages did not do well, who changed upon us several things in the prayer books, according to the Zohar and the Kabbalists, for some of those changes lead to heresy, to believe in many powers and to worship other gods, as will be explained below.",
+   "severity": "error",
+   "reason": "Several faults: (1) אין לנו להחמיר means 'we may not / it is not for us to be stringent', a prohibition (it is the ground for 'like heresy'), not 'there is no need'; (2) חיבור אחד האחרונים is 'a work of one of the latter ones' (construct), not 'a single work of the latter ones'; (3) 'ובמבטן... ומיד מי יצא.' has no main clause of its own: the Hebrew full stop is followed by ונתבאר, so the English fragment 'But after the criticism ... came out.' is joined by a comma to the main clause (per the ruling on a clause whose main clause follows a Hebrew full stop), and 'at all. for' (full stop before lowercase, where the Hebrew has a comma) is corrected; (4) נעלם printed for the fixed address 'pleasant reader' (see token note); (5) ונתבאר באר היטב echoes Deut 27:8 'very plainly'; (6) 'And' of וכדברי restored; 'responsa' for תשובות; 'whereby they ascribed' for the ungrammatical 'which they ascribed'."
+  },
+  {
+   "ref": "3:14",
+   "path": "literal",
+   "value": "§14 see and understand our friend the reader pleasant how our honored Rabbi Tam the aforementioned cried out like a herald against those who engage in Kabbalah the new for breached the fences of the Torah and laid bare laid bare its foundations and its roots in the unity the Name, may He be blessed as will be explained below and instead of thought to draw near to the Name, may He be blessed strayed from the way and came and believed in gods many other and to worship them and as the words of Rabbi Tam ben Yachya wrote also likewise Mahari Albo in the book Ikkarim chapter 28 of the second and further expounded at length in the book Ravid ha-Zahav and brought also the words the Rabbi great Maharshal in his responses and in the work Yam of Shlomo against those who boast of novelties which they study in Kabbalah and he wrote that since was sealed the Talmud it is not for us to be stringent against the Gemara and it is like heresy as explained in Chok Ya'akov section 489 subsection 11 at length and all this is according to the assumption and the ascription which they ascribed the Zohar to Rabbi Shimon bar Yochai the Tanna but after the criticism which they examined and investigated the wise of heart after him from the womb of whose came out the things mentioned in it and when came out the work mentioned and from the hand of whom came out and it was explained plainly well that it a work of one of the latter ones and not came out those ideas from Rabbi Shimon bar Yochai the Tanna peace be upon him at all for is found in it many things in the fundamentals of the faith of our Torah holy contrary to the words of Rabbi Shimon bar Yochai in the Talmud and in the Midrashim of our Rabbis of blessed memory famous in Israel certainly one must not rely on it in any matter touching the customs of Israel which they practised in our forebears and not well did the sages of the days of the Middle Ages who changed upon us several things in the prayer books the prayers according to the word of the Zohar and the Kabbalists for changes those there are of them that lead to heresy to believe in powers many and to worship gods other as will be explained below",
+   "severity": "error",
+   "reason": "Follows the English: נעלם read as נעים, אין לנו, חיבור אחד האחרונים, ונתבאר באר היטב, כמה\"ר."
+  },
+  {
+   "ref": "3:14",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:14.1",
+      "3:14.2",
+      "3:14.3",
+      "3:14.4",
+      "3:14.5",
+      "3:14.6",
+      "3:14.7",
+      "3:14.8"
+     ],
+     "english": "§14. See and understand, our friend the pleasant reader, how our honored Rabbi",
+     "literal": "§14 see and understand our friend the reader pleasant how our honored Rabbi"
+    },
+    {
+     "tokens": [
+      "3:14.9",
+      "3:14.10"
+     ],
+     "english": "Tam, the aforementioned,",
+     "literal": "Tam the aforementioned"
+    },
+    {
+     "tokens": [
+      "3:14.11",
+      "3:14.12",
+      "3:14.13",
+      "3:14.14",
+      "3:14.15",
+      "3:14.16"
+     ],
+     "english": "cried out like a herald against those who engage in the new Kabbalah,",
+     "literal": "cried out like a herald against those who engage in Kabbalah the new"
+    },
+    {
+     "tokens": [
+      "3:14.17",
+      "3:14.18",
+      "3:14.19",
+      "3:14.20",
+      "3:14.21"
+     ],
+     "english": "for they breached the fences of the Torah,",
+     "literal": "for breached the fences of the Torah"
+    },
+    {
+     "tokens": [
+      "3:14.22",
+      "3:14.23",
+      "3:14.24",
+      "3:14.25"
+     ],
+     "english": "and laid bare, laid bare, its foundations and its roots",
+     "literal": "and laid bare laid bare its foundations and its roots"
+    },
+    {
+     "tokens": [
+      "3:14.26",
+      "3:14.27",
+      "3:14.28",
+      "3:14.29",
+      "3:14.30"
+     ],
+     "english": "in the unity of the Name, may He be blessed, as will be explained below.",
+     "literal": "in the unity the Name, may He be blessed as will be explained below"
+    },
+    {
+     "tokens": [
+      "3:14.31",
+      "3:14.32"
+     ],
+     "english": "Instead of",
+     "literal": "and instead of"
+    },
+    {
+     "tokens": [
+      "3:14.33",
+      "3:14.34",
+      "3:14.35",
+      "3:14.36",
+      "3:14.37",
+      "3:14.38"
+     ],
+     "english": "thinking to draw near to the Name, may He be blessed, they strayed from the way",
+     "literal": "thought to draw near to the Name, may He be blessed strayed from the way"
+    },
+    {
+     "tokens": [
+      "3:14.39",
+      "3:14.40",
+      "3:14.41",
+      "3:14.42",
+      "3:14.43"
+     ],
+     "english": "and came to believe in many other gods,",
+     "literal": "and came and believed in gods many other"
+    },
+    {
+     "tokens": [
+      "3:14.44"
+     ],
+     "english": "and to worship them!",
+     "literal": "and to worship them"
+    },
+    {
+     "tokens": [
+      "3:14.45",
+      "3:14.46",
+      "3:14.47",
+      "3:14.48",
+      "3:14.49",
+      "3:14.50",
+      "3:14.51",
+      "3:14.52",
+      "3:14.53",
+      "3:14.54"
+     ],
+     "english": "And like the words of Rabbi Tam ben Yachya, Mahari Albo also wrote",
+     "literal": "and as the words of Rabbi Tam ben Yachya wrote also likewise Mahari Albo"
+    },
+    {
+     "tokens": [
+      "3:14.55",
+      "3:14.56",
+      "3:14.57",
+      "3:14.58",
+      "3:14.59"
+     ],
+     "english": "in the Ikkarim, chapter 28, of the second.",
+     "literal": "in the book Ikkarim chapter 28 of the second"
+    },
+    {
+     "tokens": [
+      "3:14.60",
+      "3:14.61",
+      "3:14.62",
+      "3:14.63",
+      "3:14.64"
+     ],
+     "english": "And further he expounded at length in the book Ravid ha-Zahav,",
+     "literal": "and further expounded at length in the book Ravid ha-Zahav"
+    },
+    {
+     "tokens": [
+      "3:14.65",
+      "3:14.66",
+      "3:14.67",
+      "3:14.68",
+      "3:14.69",
+      "3:14.70"
+     ],
+     "english": "and also brought the words of the great Rabbi Maharshal,",
+     "literal": "and brought also the words the Rabbi great Maharshal"
+    },
+    {
+     "tokens": [
+      "3:14.71",
+      "3:14.72",
+      "3:14.73",
+      "3:14.74",
+      "3:14.75"
+     ],
+     "english": "in his responsa and in the work Yam shel Shlomo,",
+     "literal": "in his responses and in the work Yam of Shlomo"
+    },
+    {
+     "tokens": [
+      "3:14.76",
+      "3:14.77",
+      "3:14.78",
+      "3:14.79",
+      "3:14.80"
+     ],
+     "english": "against those who boast of the novelties they study in Kabbalah.",
+     "literal": "against those who boast of novelties which they study in Kabbalah"
+    },
+    {
+     "tokens": [
+      "3:14.81",
+      "3:14.82",
+      "3:14.83",
+      "3:14.84",
+      "3:14.85",
+      "3:14.86",
+      "3:14.87",
+      "3:14.88",
+      "3:14.89",
+      "3:14.90"
+     ],
+     "english": "And he wrote that since the Talmud was sealed, we may not be stringent against the Gemara, and it is",
+     "literal": "and he wrote that since was sealed the Talmud it is not for us to be stringent against the Gemara and it is"
+    },
+    {
+     "tokens": [
+      "3:14.91",
+      "3:14.92",
+      "3:14.93",
+      "3:14.94",
+      "3:14.95",
+      "3:14.96",
+      "3:14.97",
+      "3:14.98",
+      "3:14.99",
+      "3:14.100"
+     ],
+     "english": "like heresy, as explained at length in Chok Ya'akov, section 489, subsection 11.",
+     "literal": "like heresy as explained in Chok Ya'akov section 489 subsection 11 at length"
+    },
+    {
+     "tokens": [
+      "3:14.101",
+      "3:14.102",
+      "3:14.103",
+      "3:14.104",
+      "3:14.105",
+      "3:14.106",
+      "3:14.107",
+      "3:14.108",
+      "3:14.109",
+      "3:14.110"
+     ],
+     "english": "All this is according to the assumption and the ascription whereby they ascribed the Zohar to Rabbi Shimon bar Yochai, the Tanna,",
+     "literal": "and all this is according to the assumption and the ascription which they ascribed the Zohar to Rabbi Shimon bar Yochai the Tanna"
+    },
+    {
+     "tokens": [
+      "3:14.111",
+      "3:14.112",
+      "3:14.113",
+      "3:14.114",
+      "3:14.115",
+      "3:14.116",
+      "3:14.117",
+      "3:14.118",
+      "3:14.119",
+      "3:14.120"
+     ],
+     "english": "but after the criticism which the wise of heart examined and investigated after him, from whose womb",
+     "literal": "but after the criticism which they examined and investigated the wise of heart after him from the womb of whose"
+    },
+    {
+     "tokens": [
+      "3:14.121",
+      "3:14.122",
+      "3:14.123",
+      "3:14.124",
+      "3:14.125",
+      "3:14.126",
+      "3:14.127",
+      "3:14.128",
+      "3:14.129",
+      "3:14.130",
+      "3:14.131"
+     ],
+     "english": "the things mentioned in it came out, and when the work mentioned came out, and from whose hand it came out,",
+     "literal": "came out the things mentioned in it and when came out the work mentioned and from the hand of whom came out"
+    },
+    {
+     "tokens": [
+      "3:14.132",
+      "3:14.133",
+      "3:14.134",
+      "3:14.135",
+      "3:14.136"
+     ],
+     "english": "it was explained very plainly that it",
+     "literal": "and it was explained plainly well that it"
+    },
+    {
+     "tokens": [
+      "3:14.137",
+      "3:14.138",
+      "3:14.139"
+     ],
+     "english": "is a work of one of the latter ones,",
+     "literal": "a work of one of the latter ones"
+    },
+    {
+     "tokens": [
+      "3:14.140",
+      "3:14.141",
+      "3:14.142",
+      "3:14.143",
+      "3:14.144",
+      "3:14.145",
+      "3:14.146",
+      "3:14.147"
+     ],
+     "english": "and those ideas did not come out of Rabbi Shimon bar Yochai, the Tanna, peace be upon him, at all,",
+     "literal": "and not came out those ideas from Rabbi Shimon bar Yochai the Tanna peace be upon him at all"
+    },
+    {
+     "tokens": [
+      "3:14.148",
+      "3:14.149",
+      "3:14.150",
+      "3:14.151",
+      "3:14.152",
+      "3:14.153",
+      "3:14.154",
+      "3:14.155",
+      "3:14.156",
+      "3:14.157",
+      "3:14.158",
+      "3:14.159",
+      "3:14.160",
+      "3:14.161",
+      "3:14.162",
+      "3:14.163",
+      "3:14.164"
+     ],
+     "english": "for in it are found many things in the fundamentals of the faith of our holy Torah contrary to the words of Rabbi Shimon bar Yochai in the Talmud and in the Midrashim of our Rabbis of blessed memory, famous in Israel,",
+     "literal": "for is found in it many things in the fundamentals of the faith of our Torah holy contrary to the words of Rabbi Shimon bar Yochai in the Talmud and in the Midrashim of our Rabbis of blessed memory famous in Israel"
+    },
+    {
+     "tokens": [
+      "3:14.165",
+      "3:14.166",
+      "3:14.167",
+      "3:14.168",
+      "3:14.169",
+      "3:14.170",
+      "3:14.171",
+      "3:14.172",
+      "3:14.173",
+      "3:14.174",
+      "3:14.175",
+      "3:14.176"
+     ],
+     "english": "certainly one must not rely on it in any matter touching the customs of Israel that our forebears practised.",
+     "literal": "certainly one must not rely on it in any matter touching the customs of Israel which they practised in our forebears"
+    },
+    {
+     "tokens": [
+      "3:14.177",
+      "3:14.178",
+      "3:14.179",
+      "3:14.180",
+      "3:14.181",
+      "3:14.182",
+      "3:14.183",
+      "3:14.184",
+      "3:14.185",
+      "3:14.186"
+     ],
+     "english": "And the sages of the Middle Ages did not do well, who changed upon us several things",
+     "literal": "and not well did the sages of the days of the Middle Ages who changed upon us several things"
+    },
+    {
+     "tokens": [
+      "3:14.187",
+      "3:14.188",
+      "3:14.189",
+      "3:14.190",
+      "3:14.191"
+     ],
+     "english": "in the prayer books, according to the Zohar",
+     "literal": "in the prayer books the prayers according to the word of the Zohar"
+    },
+    {
+     "tokens": [
+      "3:14.192",
+      "3:14.193",
+      "3:14.194",
+      "3:14.195",
+      "3:14.196",
+      "3:14.197",
+      "3:14.198",
+      "3:14.199",
+      "3:14.200"
+     ],
+     "english": "and the Kabbalists, for some of those changes lead to heresy,",
+     "literal": "and the Kabbalists for changes those there are of them that lead to heresy"
+    },
+    {
+     "tokens": [
+      "3:14.201",
+      "3:14.202",
+      "3:14.203",
+      "3:14.204",
+      "3:14.205",
+      "3:14.206",
+      "3:14.207",
+      "3:14.208",
+      "3:14.209"
+     ],
+     "english": "to believe in many powers and to worship other gods, as will be explained below.",
+     "literal": "to believe in powers many and to worship gods other as will be explained below"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.6.gloss",
+   "value": "pleasant",
+   "severity": "error",
+   "reason": "The printed נעלם ('hidden') does not fit 'ידידנו קורא'; the author's fixed address is 'קורא נעים' (5 times in the corpus, 'pleasant reader'). Per the ruling on a printed word that does not fit its context, translate by the context and record the printed word."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.6.note",
+   "value": "The printed word is נעלם (\"hidden\"); the context and the author's address elsewhere (\"קורא נעים\", \"pleasant reader\") point to נעים. Translated as \"pleasant\"; see apparatus.",
+   "severity": "error",
+   "reason": "Records the printed and the likelier word (ruling)."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.8.gloss",
+   "value": "our honored Rabbi",
+   "severity": "error",
+   "reason": "כ- in כמה\"ר is not 'as': the abbreviation is כבוד מורנו הרב רבי, 'our honored teacher, Rabbi'."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.8.note",
+   "value": "כמה\"ר: כבוד מורנו הרב רבי, \"the honored Morenu ha-Rav Rabbi\", an honorific; the author gives it to Rabbi Tam.",
+   "severity": "error",
+   "reason": "Expands the abbreviation."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.40.note",
+   "value": "והאמין: the Hebrew has the singular verb after the plural ובאו; translated as plural (\"came to believe\").",
+   "severity": "style",
+   "reason": "A printed singular is silently normalised."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.50.note",
+   "value": "כ': כתב, \"wrote\" (the author's abbreviation for the verb, as in 3:14.81 וכתב).",
+   "severity": "style",
+   "reason": "Decides the ambiguous abbreviation from context: the verb of Albo, with גם כן."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.70.note",
+   "value": "מהרש\"ל: the acronym of morenu ha-Rav Rabbi Shlomo Luria; the text gives only the acronym and the title of his book.",
+   "severity": "style",
+   "reason": "The ruling asks for a note at first occurrence saying what the acronym stands for."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.85.gloss",
+   "value": "it is not for",
+   "severity": "error",
+   "reason": "אין לנו + infinitive is 'it is not for us to ...' (we may not), not 'there is no need'."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.86.gloss",
+   "value": "us",
+   "severity": "error",
+   "reason": "Follows 3:14.85."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.85.note",
+   "value": "אין לנו להחמיר: \"it is not for us to be stringent\", i.e. we may not; it is the ground for \"like heresy\".",
+   "severity": "error",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.117.note",
+   "value": "חכמי לב: \"the wise of heart\", Exod 28:3 (also 31:6).",
+   "severity": "style",
+   "reason": "Biblical phrase recognised."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.119.note",
+   "value": "מבטן מי יצאו: echoes Job 38:29 \"מבטן מי יצא הקרח\" (\"from whose womb did the ice come forth\"); the author uses the question form for the origin of the Zohar.",
+   "severity": "style",
+   "reason": "Allusion recognised."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.131.note",
+   "value": "The Hebrew full stop after יצא ends a clause with no main clause: the main clause is ונתבאר in the next sentence. The English joins them with a comma.",
+   "severity": "style",
+   "reason": "Ruling on a clause whose main clause follows a Hebrew full stop."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.132.gloss",
+   "value": "and it was explained",
+   "severity": "style",
+   "reason": "ונתבאר is 'was explained / made clear'; 'shown' is looser."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.133.gloss",
+   "value": "plainly",
+   "severity": "error",
+   "reason": "באר היטב (Deut 27:8): 'very plainly', not 'clearly and well' as two adverbs."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.133.note",
+   "value": "באר היטב: Deut 27:8 \"באר היטב\" (\"very plainly\"); the English reads the two words as one adverb phrase.",
+   "severity": "style",
+   "reason": "Allusion recognised."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.137.gloss",
+   "value": "a work of",
+   "severity": "error",
+   "reason": "חיבור is in the construct before אחד האחרונים."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.138.gloss",
+   "value": "one of",
+   "severity": "error",
+   "reason": "אחד האחרונים is 'one of the latter ones', not 'a single'."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.139.gloss",
+   "value": "the latter ones",
+   "severity": "error",
+   "reason": "Follows 3:14.138."
+  },
+  {
+   "ref": "3:14",
+   "path": "token:3:14.137.note",
+   "value": "חיבור אחד האחרונים: construct, \"a work of one of the latter ones\" (the Aharonim, the later authorities), not \"a single work\".",
+   "severity": "error",
+   "reason": "Learner note."
+  },
+  {
+   "ref": "3:14",
+   "path": "grammar",
+   "value": [
+    "ראה והבן ... איך ... צוח: 'see and understand how ... cried out'; the two imperatives open one long period, which runs to the end of the paragraph.",
+    "ותחת אשר חשבו להתקרב ... תעו: 'instead of thinking to draw near, they strayed'; the author sets the intention against the act.",
+    "וכדברי ר' תם ... כ' גם כן מהר\"י אלבו: כ' is כתב; the verb comes first in the Hebrew and the English places it after the name.",
+    "וכתב דמאחר ... אין לנו להחמיר ... והוי כמו מינות: an indirect report with no quotation marks; אין לנו + infinitive is 'it is not for us to ...' (we may not), so the stringency against the Gemara is itself 'like heresy'.",
+    "וכל זה הוא לפי ההנחה והיחוס: 'all this is according to the assumption and the ascription'; the ascription to Rabbi Shimon bar Yochai is what is disputed.",
+    "אך אחרי הבקורת ... ומיד מי יצא. ונתבאר ... כי הוא חיבור אחד האחרונים: the long clause after אחרי has no main clause of its own; the main clause is ונתבאר. The English joins them with a comma. חיבור אחד האחרונים is a construct, 'a work of one of the latter ones'."
+   ],
+   "severity": "style",
+   "reason": "Notes updated for the corrected readings (kept to six)."
+  },
+  {
+   "ref": "3:14",
+   "path": "apparatus",
+   "value": [
+    "Allusion, not quotation: 'אלהים אחרים' echoes Exod 20:3 ('other gods'); the English follows the author's wording.",
+    "Printed 'קורא נעלם' (3:14.5-6), 'hidden reader': translated 'pleasant reader' (the author's 'קורא נעים'); the printed word is likely a misprint for נעים.",
+    "Ps 137:7 'ערו ערו עד היסוד בה' ('Strip it, strip it, down to its foundation'): echoed in 'וערו ערו יסודותיה' (3:14.22-24); the English keeps 'laid bare, laid bare'.",
+    "Exod 28:3 (also 31:6, 36:1): 'חכמי לב', 'the wise of heart' (3:14.116-117).",
+    "Job 38:29: 'מבטן מי יצא' ('from whose womb did ... come forth') in 'מבטן מי יצאו הדברים' (3:14.119-121).",
+    "Deut 27:8: 'באר היטב', 'very plainly' (3:14.133-134).",
+    "Base text is Wikisource; a general line until the 1931 scan is collated (open question 2)."
+   ],
+   "severity": "error",
+   "reason": "Bible echoes recognised and listed (ruling: every verse the reviewer can verify); the printed word recorded."
+  },
+  {
+   "ref": "3:15",
+   "path": "english",
+   "value": "§15. Also the Rav Ravid ha-Zahav brought further the words of Maran in Beit Yosef, who was concerned about the words of the Zohar in a place where the Gemara does not mention anything contrary to its words. And the Rema, of blessed memory, wrote about him that although the Gemara does not mention anything contrary to its words, there is no basis for this in the words of the decisors, and one need not be concerned with the words of the Zohar, see there. Further he brought the words of the Radbaz, of blessed memory, that he wrote that every matter mentioned in the Gemara or in one of the decisors or the masters of the halakhot, even if it be contrary to what is written in the books of Kabbalah, I rule on it, both to be lenient and to be strict, and I will not be concerned with what is written in those books. As for myself, if it is a stringency, I follow it and if a leniency, I will not be concerned with it. Further he wrote in the name of the Ra'em and other decisors that one need not be concerned about the words of the Kabbalists against any decisor, see there. Say now, that from the words of the decisors mentioned in the responsum of the Rav Ravid ha-Zahav, and they are Maran, of blessed memory, and Moreinu ha-Rav Moshe, and the Radbaz, and the Kenesset ha-Gedolah, and Mahari ha-Levi, K., Maharash ha-Levi and Rabbi Eliyahu ha-Levi, and Rabbi Moshe Alkaboli, and Rabbi Tam ben Yachya, and the Rav Chok Ya'akov, and Maharshal, and Maharam al-Shakar, who say that one need not be concerned with the words of the Zohar and the Kabbalists, when they are against the Mishnah and the Talmud, and even against a single decisor. Behold, from this prove to yourself that you wrote that they are a law of Moses from Sinai, that your words are a fabrication and utter folly.",
+   "severity": "error",
+   "reason": "(1) 'Also he brought further the Rabbi, the author of Ravid ha-Zahav, the words' adds a 'he' and makes the Rav an apposition; in the Hebrew the Rav is the subject of הביא; הר' before a title without בעל/מחבר is 'the Rav [title]' (ruling: never drop הרב), likewise 'the Rav Chok Ya'akov'. (2) 'And he wrote about him, the Rema' reads the Rema as the object: the Rema is the subject of וכתב עליו. (3) 'contrary to them' for מדבריו: 'its words' as in 3:15.28-29. (4) 'I rule on' lacks its object (בו). (5) שמדברי הפוסקים: 'words of' dropped. (6) 'הרב רבי הזהב' read as a person 'Rabbi ha-Zahav' who does not exist; by context it is a misprint for רביד, the book named at 3:15.5-7 (ruling: translate by the context, record the printed word). (7) the printed אלקבולי is transliterated as printed (Alkaboli) with Alkabetz as a possibility in the note and apparatus. (8) 'Mahari ha-Levi wrote, Maharash ha-Levi' has a verb with no object in a list of names: see the question."
+  },
+  {
+   "ref": "3:15",
+   "path": "literal",
+   "value": "§15 also brought further the Rav Ravid ha-Zahav the words of Maran in Beit Yosef who was concerned about the words of the Zohar in a place where not mentioned in the Gemara contrary to its words and wrote about him the Rema of blessed memory that although that not mentioned in the Gemara contrary to its words there is no for this in the words of the decisors and one need not be concerned about the words of the Zohar see there further he brought the words of the Radbaz of blessed memory that he wrote that every matter mentioned in the Gemara or in one of the decisors or the masters of the halakhot even if it be contrary to what is written in the books of Kabbalah I rule on it both to be lenient and to be strict and not I will be concerned with what is written in those books as for myself if it is a stringency I follow it and if a leniency not I will be concerned with it further he wrote in the name of the Ra'em and other decisors that one need not be concerned about words the Kabbalists against any decisor see there say now that from the words of the decisors mentioned in the responsum of the Rav Ravid ha-Zahav and they are Maran of blessed memory and Moreinu ha-Rav Moshe and the Radbaz and the Kenesset ha-Gedolah and Mahari ha-Levi K. Maharash ha-Levi and Rabbi Eliyahu ha-Levi and Rabbi Moshe Alkaboli and Rabbi Tam ben Yachya and the Rav Chok Ya'akov and Maharshal and Maharam al-Shakar who say that one need not be concerned about words the Zohar and the Kabbalists when they are against the Mishnah and the Talmud and even against a decisor single behold from this prove to yourself that you wrote that they are a law of Moses from Sinai that your words are a fabrication and folly utter",
+   "severity": "error",
+   "reason": "Follows the English corrections."
+  },
+  {
+   "ref": "3:15",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "3:15.1",
+      "3:15.2"
+     ],
+     "english": "§15. Also",
+     "literal": "§15 also"
+    },
+    {
+     "tokens": [
+      "3:15.3",
+      "3:15.4",
+      "3:15.5",
+      "3:15.6",
+      "3:15.7"
+     ],
+     "english": "the Rav Ravid ha-Zahav brought further",
+     "literal": "brought further the Rav Ravid ha-Zahav"
+    },
+    {
+     "tokens": [
+      "3:15.8",
+      "3:15.9",
+      "3:15.10",
+      "3:15.11"
+     ],
+     "english": "the words of Maran in Beit Yosef, who was concerned",
+     "literal": "the words of Maran in Beit Yosef who was concerned"
+    },
+    {
+     "tokens": [
+      "3:15.12",
+      "3:15.13",
+      "3:15.14",
+      "3:15.15",
+      "3:15.16",
+      "3:15.17",
+      "3:15.18",
+      "3:15.19"
+     ],
+     "english": "about the words of the Zohar in a place where the Gemara does not mention anything contrary to its words.",
+     "literal": "about the words of the Zohar in a place where not mentioned in the Gemara contrary to its words"
+    },
+    {
+     "tokens": [
+      "3:15.20",
+      "3:15.21",
+      "3:15.22",
+      "3:15.23"
+     ],
+     "english": "And the Rema, of blessed memory, wrote about him",
+     "literal": "and wrote about him the Rema of blessed memory"
+    },
+    {
+     "tokens": [
+      "3:15.24",
+      "3:15.25",
+      "3:15.26",
+      "3:15.27",
+      "3:15.28",
+      "3:15.29"
+     ],
+     "english": "that although the Gemara does not mention anything contrary to its words,",
+     "literal": "that although that not mentioned in the Gemara contrary to its words"
+    },
+    {
+     "tokens": [
+      "3:15.30",
+      "3:15.31",
+      "3:15.32",
+      "3:15.33",
+      "3:15.34",
+      "3:15.35",
+      "3:15.36",
+      "3:15.37",
+      "3:15.38"
+     ],
+     "english": "there is no basis for this in the words of the decisors, and one need not be concerned with the words of the Zohar, see there.",
+     "literal": "there is no for this in the words of the decisors and one need not be concerned about the words of the Zohar see there"
+    },
+    {
+     "tokens": [
+      "3:15.39",
+      "3:15.40",
+      "3:15.41",
+      "3:15.42",
+      "3:15.43"
+     ],
+     "english": "Further he brought the words of the Radbaz, of blessed memory,",
+     "literal": "further he brought the words of the Radbaz of blessed memory"
+    },
+    {
+     "tokens": [
+      "3:15.44",
+      "3:15.45",
+      "3:15.46",
+      "3:15.47",
+      "3:15.48",
+      "3:15.49",
+      "3:15.50",
+      "3:15.51",
+      "3:15.52",
+      "3:15.53",
+      "3:15.54",
+      "3:15.55",
+      "3:15.56",
+      "3:15.57",
+      "3:15.58",
+      "3:15.59",
+      "3:15.60",
+      "3:15.61",
+      "3:15.62",
+      "3:15.63",
+      "3:15.64",
+      "3:15.65",
+      "3:15.66",
+      "3:15.67",
+      "3:15.68",
+      "3:15.69",
+      "3:15.70",
+      "3:15.71",
+      "3:15.72",
+      "3:15.73",
+      "3:15.74",
+      "3:15.75"
+     ],
+     "english": "that he wrote that every matter mentioned in the Gemara or in one of the decisors or the masters of the halakhot, even if it be contrary to what is written in the books of Kabbalah, I rule on it, both to be lenient and to be strict, and I will not be concerned with what is written in those books.",
+     "literal": "that he wrote that every matter mentioned in the Gemara or in one of the decisors or the masters of the halakhot even if it be contrary to what is written in the books of Kabbalah I rule on it both to be lenient and to be strict and not I will be concerned with what is written in those books"
+    },
+    {
+     "tokens": [
+      "3:15.76",
+      "3:15.77",
+      "3:15.78",
+      "3:15.79",
+      "3:15.80",
+      "3:15.81",
+      "3:15.82"
+     ],
+     "english": "As for myself, if it is a stringency, I follow it",
+     "literal": "as for myself if it is a stringency I follow it"
+    },
+    {
+     "tokens": [
+      "3:15.83",
+      "3:15.84",
+      "3:15.85",
+      "3:15.86",
+      "3:15.87"
+     ],
+     "english": "and if a leniency, I will not be concerned with it.",
+     "literal": "and if a leniency not I will be concerned with it"
+    },
+    {
+     "tokens": [
+      "3:15.88",
+      "3:15.89",
+      "3:15.90",
+      "3:15.91",
+      "3:15.92",
+      "3:15.93",
+      "3:15.94",
+      "3:15.95",
+      "3:15.96",
+      "3:15.97",
+      "3:15.98",
+      "3:15.99",
+      "3:15.100",
+      "3:15.101"
+     ],
+     "english": "Further he wrote in the name of the Ra'em and other decisors that one need not be concerned about the words of the Kabbalists against any decisor, see there.",
+     "literal": "further he wrote in the name of the Ra'em and other decisors that one need not be concerned about words the Kabbalists against any decisor see there"
+    },
+    {
+     "tokens": [
+      "3:15.102",
+      "3:15.103",
+      "3:15.104",
+      "3:15.105",
+      "3:15.106",
+      "3:15.107",
+      "3:15.108",
+      "3:15.109",
+      "3:15.110"
+     ],
+     "english": "Say now, that from the words of the decisors mentioned in the responsum of the Rav Ravid ha-Zahav,",
+     "literal": "say now that from the words of the decisors mentioned in the responsum of the Rav Ravid ha-Zahav"
+    },
+    {
+     "tokens": [
+      "3:15.111",
+      "3:15.112",
+      "3:15.113",
+      "3:15.114",
+      "3:15.115",
+      "3:15.116",
+      "3:15.117",
+      "3:15.118",
+      "3:15.119",
+      "3:15.120",
+      "3:15.121",
+      "3:15.122",
+      "3:15.123",
+      "3:15.124"
+     ],
+     "english": "and they are Maran, of blessed memory, and Moreinu ha-Rav Moshe, and the Radbaz, and the Kenesset ha-Gedolah, and Mahari ha-Levi, K., Maharash ha-Levi and Rabbi Eliyahu ha-Levi,",
+     "literal": "and they are Maran of blessed memory and Moreinu ha-Rav Moshe and the Radbaz and the Kenesset ha-Gedolah and Mahari ha-Levi K. Maharash ha-Levi and Rabbi Eliyahu ha-Levi"
+    },
+    {
+     "tokens": [
+      "3:15.125",
+      "3:15.126",
+      "3:15.127",
+      "3:15.128",
+      "3:15.129"
+     ],
+     "english": "and Rabbi Moshe Alkaboli, and Rabbi Tam ben Yachya,",
+     "literal": "and Rabbi Moshe Alkaboli and Rabbi Tam ben Yachya"
+    },
+    {
+     "tokens": [
+      "3:15.130",
+      "3:15.131",
+      "3:15.132",
+      "3:15.133",
+      "3:15.134",
+      "3:15.135"
+     ],
+     "english": "and the Rav Chok Ya'akov, and Maharshal, and Maharam al-Shakar,",
+     "literal": "and the Rav Chok Ya'akov and Maharshal and Maharam al-Shakar"
+    },
+    {
+     "tokens": [
+      "3:15.136",
+      "3:15.137",
+      "3:15.138",
+      "3:15.139",
+      "3:15.140",
+      "3:15.141",
+      "3:15.142",
+      "3:15.143",
+      "3:15.144",
+      "3:15.145",
+      "3:15.146",
+      "3:15.147",
+      "3:15.148",
+      "3:15.149"
+     ],
+     "english": "who say that one need not be concerned with the words of the Zohar and the Kabbalists, when they are against the Mishnah and the Talmud, and even against a single decisor.",
+     "literal": "who say that one need not be concerned about words the Zohar and the Kabbalists when they are against the Mishnah and the Talmud and even against a decisor single"
+    },
+    {
+     "tokens": [
+      "3:15.150",
+      "3:15.151",
+      "3:15.152",
+      "3:15.153",
+      "3:15.154",
+      "3:15.155",
+      "3:15.156",
+      "3:15.157",
+      "3:15.158",
+      "3:15.159",
+      "3:15.160",
+      "3:15.161",
+      "3:15.162"
+     ],
+     "english": "Behold, from this prove to yourself that you wrote that they are a law of Moses from Sinai, that your words are a fabrication and utter folly.",
+     "literal": "behold from this prove to yourself that you wrote that they are a law of Moses from Sinai that your words are a fabrication and folly utter"
+    }
+   ],
+   "severity": "error",
+   "reason": "The new English changed the fragments; phrases still divide every token in order."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.3.gloss",
+   "value": "brought",
+   "severity": "error",
+   "reason": "No 'he' in הביא: the subject is the Rav (3:15.5)."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.5.gloss",
+   "value": "the Rav",
+   "severity": "error",
+   "reason": "הר' = ha-Rav; the ruling forbids dropping הרב before a title and limits 'the Rabbi, the author of' to בעל/מחבר."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.5.note",
+   "value": "הר': ha-Rav, before the title of a book (no בעל or מחבר): \"the Rav Ravid ha-Zahav\". The text names no one.",
+   "severity": "error",
+   "reason": "Note matched to the ruling."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.19.gloss",
+   "value": "to its words",
+   "severity": "style",
+   "reason": "מדבריו is 'of his/its words'; same as 3:15.29."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.20.gloss",
+   "value": "and wrote",
+   "severity": "error",
+   "reason": "No 'he': the Rema is the subject (3:15.22)."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.30.note",
+   "value": "אין לזה מדברי הפוסקים: elliptical, \"there is nothing for this from the words of the decisors\"; \"basis\" is supplied by the English to complete it.",
+   "severity": "style",
+   "reason": "Marks the supplied word."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.38.note",
+   "value": "ע\"ש: עיין שם, \"see there\".",
+   "severity": "style",
+   "reason": "Ambiguous abbreviation: the expansion is named in the note (ruling)."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.101.note",
+   "value": "ע\"ש: עיין שם, \"see there\".",
+   "severity": "style",
+   "reason": "Same."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.109.gloss",
+   "value": "Ravid",
+   "severity": "error",
+   "reason": "Read by context as רביד (the book of 3:15.6), not 'Rabbi'."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.109.note",
+   "value": "The Hebrew prints רבי (\"Rabbi\"); the likelier word is רביד, as at 3:15.6. Translated by the context; see apparatus.",
+   "severity": "error",
+   "reason": "Ruling: printed and likelier word in a token note."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.110.note",
+   "value": "הזהב: the Hebrew prints \"הרב רבי הזהב\"; read as \"the Rav Ravid ha-Zahav\" (see 3:15.109 and apparatus).",
+   "severity": "error",
+   "reason": "Note replaced to match."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.114.note",
+   "value": "ומור\"ם: ומורנו הרב משה, \"and Moreinu ha-Rav Moshe\"; the text gives only this form.",
+   "severity": "style",
+   "reason": "Abbreviation expanded in a note; no identification added."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.119.gloss",
+   "value": "K.",
+   "severity": "question",
+   "reason": "Proposed: כ' stands in a list of names with no object, so 'wrote' leaves a verb without a complement; the abbreviation is not certain (כתב, כבוד, כן). Per the ruling on an unresolved initial, keep it as the initial with a note."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.119.note",
+   "value": "כ': an abbreviation inside a list of names; \"wrote\" (כתב) leaves the verb without an object, and כבוד (\"the honored\") or כן (\"likewise\") are also possible. Left as the initial \"K.\" (see apparatus).",
+   "severity": "question",
+   "reason": "As above."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.126.gloss",
+   "value": "Alkaboli",
+   "severity": "error",
+   "reason": "The printed word is אלקבולי; transliterate what is printed."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.126.note",
+   "value": "The Hebrew prints אלקבולי; possibly a form of Alkabetz (אלקבץ), but the printed spelling is kept.",
+   "severity": "error",
+   "reason": "Record the printed word."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.130.gloss",
+   "value": "and the Rav",
+   "severity": "error",
+   "reason": "הר' before the title Chok Ya'akov: 'the Rav' (ruling)."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.142.note",
+   "value": "שהוא: the Hebrew has the singular \"that it is\"; the English reads it of the words of the Zohar and the Kabbalists together (\"when they are\").",
+   "severity": "style",
+   "reason": "A printed singular recorded."
+  },
+  {
+   "ref": "3:15",
+   "path": "token:3:15.152.note",
+   "value": "הוכיח: the printed form is the perfect \"he proved\"; read as the imperative הוכח, \"prove\", after אמור in the same passage.",
+   "severity": "style",
+   "reason": "Printed form recorded."
+  },
+  {
+   "ref": "3:15",
+   "path": "grammar",
+   "value": [
+    "גם הביא עוד ... וכתב עליו ... שכתב שכל דבר: the reporting verbs carry indirect speech throughout the paragraph, so the English has no quotation marks.",
+    "שכתב שכל דבר ... אני מורה בו ... ולעצמי: the Radbaz's words are reported in indirect speech, and the first person ('I rule', 'I follow') is kept.",
+    "הנה מזה הוכיח לעצמך: the closing turn is addressed to a second person, whom the author charges with calling these rulings 'a law of Moses from Sinai'.",
+    "אמור מעתה שמדברי הפוסקים ... והם ... שאומרים ... הנה מזה: the sentence breaks off after the list of decisors and the closing turn begins at הנה; the words 'the words of' (מדברי) are kept in the English."
+   ],
+   "severity": "style",
+   "reason": "Adds a note on the broken construction."
+  },
+  {
+   "ref": "3:15",
+   "path": "apparatus",
+   "value": [
+    "The printed 'הרב רבי הזהב' (3:15.108-110) is read as 'the Rav Ravid ha-Zahav' (רביד הזהב): the printed רבי lacks the final ד of רביד, and the same book is named at 3:15.5-7; the printed Hebrew is kept in the token note.",
+    "The printed 'אלקבולי' (3:15.126) is transliterated as printed ('Alkaboli'); it may be a form of Alkabetz (אלקבץ). 'הר\"מ' is read 'Rabbi Moshe' without a surname that fixes him.",
+    "The printed 'כ'' (3:15.119) in the list of names is left as the initial 'K.' (see the question).",
+    "Base text is Wikisource; a general line until the 1931 scan is collated (open question 2)."
+   ],
+   "severity": "error",
+   "reason": "Apparatus corrected to match the reading."
+  }
+ ],
+ "verdicts": []
+}
