@@ -469,7 +469,11 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - A Hebrew period with no main clause that is completed in the next segment:
   keep the Hebrew full stops and record the continuation in the segment `note`;
   join with semicolons only where the English becomes unreadable.
-
+- A section number of a book the author cites: "section 172", not "§"; "§" is
+  only for the author's own numbered sections.
+- פ' + number after a book with no parashot (Menorat ha-Ma'or): "chapter".
+- A word with no function in its context (סדר): "Seder" as printed, with a
+  note; the other reading in `readings`.
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:

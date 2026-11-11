@@ -1,0 +1,1761 @@
+{
+ "unit": "perek-3-03",
+ "model": "haiku, reviewed by sonnet",
+ "segments": [
+  {
+   "ref": "3:5",
+   "english": "And for the third time your answer was like the question of one of the four sons: \"What is this worship to you? To you and not to him.\" As if we had not been commanded in the Torah, \"And know this day and take it to your heart, that the LORD, He is God, etc.\" And many verses came in the Torah, in the Prophets and in the Writings on this, and all the more so in the words of our Rabbis of blessed memory. You have also returned to be of the company of tellers of evil talk and of those who receive it, when you say that already there are several witnesses against us, that we despise the Sages and can no longer deny it, etc. And it is known and notorious that testimony is accepted only in the presence of the party to the suit. From the Torah, civil cases and capital cases alike require inquiry and examination, as the Rambam of blessed memory wrote in chapter 3 of the Laws of Testimony. But the Sages said, \"So that you do not lock the door before borrowers, monetary witnesses do not require inquiry and examination, etc.\" In what matters is this said? In admissions and loans, gifts and sales. But in fines, inquiry and examination are required, and needless to say in lashes and exile, and in a case of deception, even in civil cases, inquiry and examination are required.",
+   "literal": "and for the third time was your reply like the question of one of the four sons what the worship this to you to you and not to him as if not we were commanded in the Torah and know this day and take to your heart that the LORD He is God etc. And many verses came in the Torah and in the Prophets and in the Writings on this and all the more so in the words of our Rabbis of blessed memory also you have returned to be of the company of the tellers of evil talk and of those who receive it when you say that already there are against us several witnesses that we despise (object marker) the Sages and cannot deny any longer etc. And indeed it is known and notorious that there is no accept testimony except in the presence of the party to the suit And from the Torah one of the laws of civil matters and one of the laws of capital cases in inquiry and examination as wrote the Rambam of blessed memory in chapter 3 of the Laws of Testimony But said the Sages so that not you lock the door before borrowers there is no witnesses of money need inquiry and examination etc. In what matters are said in admissions and loans gifts and sales But in the cases of fines require inquiry and examination and there is no need to say in lashes and in exile and in a case of deception even in the cases of civil requires inquiry and examination",
+   "tokens": [
+    {
+     "id": "3:5.1",
+     "gloss": "and for the"
+    },
+    {
+     "id": "3:5.2",
+     "gloss": "third time"
+    },
+    {
+     "id": "3:5.3",
+     "gloss": "was"
+    },
+    {
+     "id": "3:5.4",
+     "gloss": "your reply"
+    },
+    {
+     "id": "3:5.5",
+     "gloss": "like the question of"
+    },
+    {
+     "id": "3:5.6",
+     "gloss": "one"
+    },
+    {
+     "id": "3:5.7",
+     "gloss": "of the four"
+    },
+    {
+     "id": "3:5.8",
+     "gloss": "sons"
+    },
+    {
+     "id": "3:5.9",
+     "gloss": "what",
+     "note": "What: the wicked son's question in the Passover Haggadah (Exod 12:26)."
+    },
+    {
+     "id": "3:5.10",
+     "gloss": "the worship"
+    },
+    {
+     "id": "3:5.11",
+     "gloss": "this"
+    },
+    {
+     "id": "3:5.12",
+     "gloss": "to you",
+     "note": "לכם (to you) is repeated as in the Haggadah's wording; the dative of interest."
+    },
+    {
+     "id": "3:5.13",
+     "gloss": "to you"
+    },
+    {
+     "id": "3:5.14",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:5.15",
+     "gloss": "to him"
+    },
+    {
+     "id": "3:5.16",
+     "gloss": "as if"
+    },
+    {
+     "id": "3:5.17",
+     "gloss": "not"
+    },
+    {
+     "id": "3:5.18",
+     "gloss": "we were commanded"
+    },
+    {
+     "id": "3:5.19",
+     "gloss": "in the Torah"
+    },
+    {
+     "id": "3:5.20",
+     "gloss": "and know"
+    },
+    {
+     "id": "3:5.21",
+     "gloss": "this day"
+    },
+    {
+     "id": "3:5.22",
+     "gloss": "and take",
+     "note": "והשבות אל לבבך is the idiom 'take it to heart' (the Hiphil of שוב, 'bring back, return to'). The verse (Deut 4:39) reads והשבת; the printed text has the plene spelling והשבות."
+    },
+    {
+     "id": "3:5.23",
+     "gloss": "to"
+    },
+    {
+     "id": "3:5.24",
+     "gloss": "your heart"
+    },
+    {
+     "id": "3:5.25",
+     "gloss": "that"
+    },
+    {
+     "id": "3:5.26",
+     "gloss": "the LORD"
+    },
+    {
+     "id": "3:5.27",
+     "gloss": "He"
+    },
+    {
+     "id": "3:5.28",
+     "gloss": "is God"
+    },
+    {
+     "id": "3:5.29",
+     "gloss": "etc.",
+     "note": "וכו' marks a truncated verse; only the words on the page are rendered, and the verse goes on (see apparatus)."
+    },
+    {
+     "id": "3:5.30",
+     "gloss": "And many"
+    },
+    {
+     "id": "3:5.31",
+     "gloss": "verses"
+    },
+    {
+     "id": "3:5.32",
+     "gloss": "came"
+    },
+    {
+     "id": "3:5.33",
+     "gloss": "in the Torah"
+    },
+    {
+     "id": "3:5.34",
+     "gloss": "and in the Prophets"
+    },
+    {
+     "id": "3:5.35",
+     "gloss": "and in the Writings"
+    },
+    {
+     "id": "3:5.36",
+     "gloss": "on"
+    },
+    {
+     "id": "3:5.37",
+     "gloss": "this"
+    },
+    {
+     "id": "3:5.38",
+     "gloss": "and all"
+    },
+    {
+     "id": "3:5.39",
+     "gloss": "the more so"
+    },
+    {
+     "id": "3:5.40",
+     "gloss": "in the words of"
+    },
+    {
+     "id": "3:5.41",
+     "gloss": "our Rabbis of blessed memory",
+     "note": "רז\"ל: our Rabbis of blessed memory (honorific)."
+    },
+    {
+     "id": "3:5.42",
+     "gloss": "also"
+    },
+    {
+     "id": "3:5.43",
+     "gloss": "you have returned"
+    },
+    {
+     "id": "3:5.44",
+     "gloss": "to be"
+    },
+    {
+     "id": "3:5.45",
+     "gloss": "of the company",
+     "note": "מכת: 'company, band'."
+    },
+    {
+     "id": "3:5.46",
+     "gloss": "of the tellers"
+    },
+    {
+     "id": "3:5.47",
+     "gloss": "of"
+    },
+    {
+     "id": "3:5.48",
+     "gloss": "evil talk"
+    },
+    {
+     "id": "3:5.49",
+     "gloss": "and of those who receive it"
+    },
+    {
+     "id": "3:5.50",
+     "gloss": "when you say"
+    },
+    {
+     "id": "3:5.51",
+     "gloss": "that already"
+    },
+    {
+     "id": "3:5.52",
+     "gloss": "there are"
+    },
+    {
+     "id": "3:5.53",
+     "gloss": "against us"
+    },
+    {
+     "id": "3:5.54",
+     "gloss": "several"
+    },
+    {
+     "id": "3:5.55",
+     "gloss": "witnesses"
+    },
+    {
+     "id": "3:5.56",
+     "gloss": "that we"
+    },
+    {
+     "id": "3:5.57",
+     "gloss": "despise"
+    },
+    {
+     "id": "3:5.58",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "3:5.59",
+     "gloss": "the Sages"
+    },
+    {
+     "id": "3:5.60",
+     "gloss": "and"
+    },
+    {
+     "id": "3:5.61",
+     "gloss": "cannot"
+    },
+    {
+     "id": "3:5.62",
+     "gloss": "deny"
+    },
+    {
+     "id": "3:5.63",
+     "gloss": "any longer"
+    },
+    {
+     "id": "3:5.64",
+     "gloss": "etc."
+    },
+    {
+     "id": "3:5.65",
+     "gloss": "And indeed",
+     "note": "והן: 'and indeed', introducing a statement presented as known."
+    },
+    {
+     "id": "3:5.66",
+     "gloss": "it is known"
+    },
+    {
+     "id": "3:5.67",
+     "gloss": "and notorious"
+    },
+    {
+     "id": "3:5.68",
+     "gloss": "that there is no"
+    },
+    {
+     "id": "3:5.69",
+     "gloss": "accept"
+    },
+    {
+     "id": "3:5.70",
+     "gloss": "testimony"
+    },
+    {
+     "id": "3:5.71",
+     "gloss": "except"
+    },
+    {
+     "id": "3:5.72",
+     "gloss": "in the presence of"
+    },
+    {
+     "id": "3:5.73",
+     "gloss": "the party"
+    },
+    {
+     "id": "3:5.74",
+     "gloss": "to the suit"
+    },
+    {
+     "id": "3:5.75",
+     "gloss": "And from"
+    },
+    {
+     "id": "3:5.76",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "3:5.77",
+     "gloss": "both",
+     "note": "אחד ... ואחד: 'one ... and one', the idiom for 'both ... and' / 'whether ... or'. So the sentence says that civil and capital cases alike are tried with inquiry and examination."
+    },
+    {
+     "id": "3:5.78",
+     "gloss": "of the laws of"
+    },
+    {
+     "id": "3:5.79",
+     "gloss": "civil matters"
+    },
+    {
+     "id": "3:5.80",
+     "gloss": "and"
+    },
+    {
+     "id": "3:5.81",
+     "gloss": "of the laws of"
+    },
+    {
+     "id": "3:5.82",
+     "gloss": "capital cases"
+    },
+    {
+     "id": "3:5.83",
+     "gloss": "in inquiry"
+    },
+    {
+     "id": "3:5.84",
+     "gloss": "and examination"
+    },
+    {
+     "id": "3:5.85",
+     "gloss": "as"
+    },
+    {
+     "id": "3:5.86",
+     "gloss": "wrote",
+     "note": "שכ' is שכתב, 'wrote'."
+    },
+    {
+     "id": "3:5.87",
+     "gloss": "the Rambam"
+    },
+    {
+     "id": "3:5.88",
+     "gloss": "of blessed memory"
+    },
+    {
+     "id": "3:5.89",
+     "gloss": "in chapter"
+    },
+    {
+     "id": "3:5.90",
+     "gloss": "3",
+     "note": "ג' is the numeral 3 (chapter 3)."
+    },
+    {
+     "id": "3:5.91",
+     "gloss": "of the Laws of",
+     "note": "Mishneh Torah (the Rambam's code), Laws of Testimony (Hilkhot Edut), chapter 3; the one work named in this unit."
+    },
+    {
+     "id": "3:5.92",
+     "gloss": "Testimony"
+    },
+    {
+     "id": "3:5.93",
+     "gloss": "But"
+    },
+    {
+     "id": "3:5.94",
+     "gloss": "said"
+    },
+    {
+     "id": "3:5.95",
+     "gloss": "the Sages"
+    },
+    {
+     "id": "3:5.96",
+     "gloss": "so that"
+    },
+    {
+     "id": "3:5.97",
+     "gloss": "not"
+    },
+    {
+     "id": "3:5.98",
+     "gloss": "you lock"
+    },
+    {
+     "id": "3:5.99",
+     "gloss": "the door"
+    },
+    {
+     "id": "3:5.100",
+     "gloss": "before"
+    },
+    {
+     "id": "3:5.101",
+     "gloss": "borrowers",
+     "note": "לוין: borrowers (plural of לוה)."
+    },
+    {
+     "id": "3:5.102",
+     "gloss": "there is no"
+    },
+    {
+     "id": "3:5.103",
+     "gloss": "witnesses"
+    },
+    {
+     "id": "3:5.104",
+     "gloss": "of money",
+     "note": "עדי ממון: witnesses in monetary matters."
+    },
+    {
+     "id": "3:5.105",
+     "gloss": "need"
+    },
+    {
+     "id": "3:5.106",
+     "gloss": "inquiry"
+    },
+    {
+     "id": "3:5.107",
+     "gloss": "and examination"
+    },
+    {
+     "id": "3:5.108",
+     "gloss": "etc."
+    },
+    {
+     "id": "3:5.109",
+     "gloss": "In what"
+    },
+    {
+     "id": "3:5.110",
+     "gloss": "matters"
+    },
+    {
+     "id": "3:5.111",
+     "gloss": "are said"
+    },
+    {
+     "id": "3:5.112",
+     "gloss": "in admissions"
+    },
+    {
+     "id": "3:5.113",
+     "gloss": "and loans"
+    },
+    {
+     "id": "3:5.114",
+     "gloss": "gifts"
+    },
+    {
+     "id": "3:5.115",
+     "gloss": "and sales"
+    },
+    {
+     "id": "3:5.116",
+     "gloss": "But"
+    },
+    {
+     "id": "3:5.117",
+     "gloss": "in the cases of"
+    },
+    {
+     "id": "3:5.118",
+     "gloss": "fines"
+    },
+    {
+     "id": "3:5.119",
+     "gloss": "require"
+    },
+    {
+     "id": "3:5.120",
+     "gloss": "inquiry"
+    },
+    {
+     "id": "3:5.121",
+     "gloss": "and examination"
+    },
+    {
+     "id": "3:5.122",
+     "gloss": "and there is no"
+    },
+    {
+     "id": "3:5.123",
+     "gloss": "need"
+    },
+    {
+     "id": "3:5.124",
+     "gloss": "to say"
+    },
+    {
+     "id": "3:5.125",
+     "gloss": "in lashes"
+    },
+    {
+     "id": "3:5.126",
+     "gloss": "and in exile"
+    },
+    {
+     "id": "3:5.127",
+     "gloss": "and in a case of",
+     "note": "ובדין מרומה: 'and in a case of deception'."
+    },
+    {
+     "id": "3:5.128",
+     "gloss": "deception",
+     "note": "מרומה: a case of deception or fraud, a technical term in the Talmud; the author gives no further sense."
+    },
+    {
+     "id": "3:5.129",
+     "gloss": "even"
+    },
+    {
+     "id": "3:5.130",
+     "gloss": "in the cases of"
+    },
+    {
+     "id": "3:5.131",
+     "gloss": "civil"
+    },
+    {
+     "id": "3:5.132",
+     "gloss": "requires"
+    },
+    {
+     "id": "3:5.133",
+     "gloss": "inquiry"
+    },
+    {
+     "id": "3:5.134",
+     "gloss": "and examination"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:5.1",
+      "3:5.2",
+      "3:5.3",
+      "3:5.4",
+      "3:5.5",
+      "3:5.6",
+      "3:5.7",
+      "3:5.8"
+     ],
+     "english": "And for the third time your answer was like the question of one of the four sons",
+     "literal": "and for the third time was your reply like the question of one of the four sons"
+    },
+    {
+     "tokens": [
+      "3:5.9",
+      "3:5.10",
+      "3:5.11",
+      "3:5.12",
+      "3:5.13"
+     ],
+     "english": "What is this worship to you? To you",
+     "literal": "what the worship this to you to you"
+    },
+    {
+     "tokens": [
+      "3:5.14",
+      "3:5.15"
+     ],
+     "english": "and not to him",
+     "literal": "and not to him"
+    },
+    {
+     "tokens": [
+      "3:5.16",
+      "3:5.17",
+      "3:5.18",
+      "3:5.19"
+     ],
+     "english": "As if we had not been commanded in the Torah",
+     "literal": "as if not we were commanded in the Torah"
+    },
+    {
+     "tokens": [
+      "3:5.20",
+      "3:5.21",
+      "3:5.22",
+      "3:5.23",
+      "3:5.24",
+      "3:5.25",
+      "3:5.26",
+      "3:5.27",
+      "3:5.28",
+      "3:5.29"
+     ],
+     "english": "And know this day and take it to your heart, that the LORD, He is God, etc",
+     "literal": "and know this day and take to your heart that the LORD He is God etc."
+    },
+    {
+     "tokens": [
+      "3:5.30",
+      "3:5.31",
+      "3:5.32",
+      "3:5.33",
+      "3:5.34",
+      "3:5.35",
+      "3:5.36",
+      "3:5.37",
+      "3:5.38",
+      "3:5.39",
+      "3:5.40",
+      "3:5.41"
+     ],
+     "english": "And many verses came in the Torah, in the Prophets and in the Writings on this, and all the more so in the words of our Rabbis of blessed memory",
+     "literal": "And many verses came in the Torah and in the Prophets and in the Writings on this and all the more so in the words of our Rabbis of blessed memory"
+    },
+    {
+     "tokens": [
+      "3:5.42",
+      "3:5.43",
+      "3:5.44",
+      "3:5.45",
+      "3:5.46",
+      "3:5.47",
+      "3:5.48",
+      "3:5.49",
+      "3:5.50"
+     ],
+     "english": "You have also returned to be of the company of tellers of evil talk and of those who receive it, when you say",
+     "literal": "also you have returned to be of the company of the tellers of evil talk and of those who receive it when you say"
+    },
+    {
+     "tokens": [
+      "3:5.51",
+      "3:5.52",
+      "3:5.53",
+      "3:5.54",
+      "3:5.55",
+      "3:5.56",
+      "3:5.57",
+      "3:5.58",
+      "3:5.59",
+      "3:5.60",
+      "3:5.61",
+      "3:5.62",
+      "3:5.63",
+      "3:5.64"
+     ],
+     "english": "that already there are several witnesses against us, that we despise the Sages and can no longer deny it, etc",
+     "literal": "that already there are against us several witnesses that we despise (object marker) the Sages and cannot deny any longer etc."
+    },
+    {
+     "tokens": [
+      "3:5.65",
+      "3:5.66",
+      "3:5.67",
+      "3:5.68",
+      "3:5.69",
+      "3:5.70",
+      "3:5.71",
+      "3:5.72",
+      "3:5.73",
+      "3:5.74"
+     ],
+     "english": "And it is known and notorious that testimony is accepted only in the presence of the party to the suit",
+     "literal": "And indeed it is known and notorious that there is no accept testimony except in the presence of the party to the suit"
+    },
+    {
+     "tokens": [
+      "3:5.75",
+      "3:5.76",
+      "3:5.77",
+      "3:5.78",
+      "3:5.79",
+      "3:5.80",
+      "3:5.81",
+      "3:5.82",
+      "3:5.83",
+      "3:5.84"
+     ],
+     "english": "From the Torah, civil cases and capital cases alike require inquiry and examination",
+     "literal": "And from the Torah one of the laws of civil matters and one of the laws of capital cases in inquiry and examination"
+    },
+    {
+     "tokens": [
+      "3:5.85",
+      "3:5.86",
+      "3:5.87",
+      "3:5.88",
+      "3:5.89",
+      "3:5.90",
+      "3:5.91",
+      "3:5.92"
+     ],
+     "english": "as the Rambam of blessed memory wrote in chapter 3 of the Laws of Testimony",
+     "literal": "as wrote the Rambam of blessed memory in chapter 3 of the Laws of Testimony"
+    },
+    {
+     "tokens": [
+      "3:5.93",
+      "3:5.94",
+      "3:5.95",
+      "3:5.96",
+      "3:5.97",
+      "3:5.98",
+      "3:5.99",
+      "3:5.100",
+      "3:5.101",
+      "3:5.102",
+      "3:5.103",
+      "3:5.104",
+      "3:5.105",
+      "3:5.106",
+      "3:5.107"
+     ],
+     "english": "But the Sages said, \"So that you do not lock the door before borrowers, monetary witnesses do not require inquiry and examination",
+     "literal": "But said the Sages so that not you lock the door before borrowers there is no witnesses of money need inquiry and examination"
+    },
+    {
+     "tokens": [
+      "3:5.108"
+     ],
+     "english": "etc.",
+     "literal": "etc."
+    },
+    {
+     "tokens": [
+      "3:5.109",
+      "3:5.110",
+      "3:5.111",
+      "3:5.112",
+      "3:5.113",
+      "3:5.114",
+      "3:5.115"
+     ],
+     "english": "In what matters is this said? In admissions and loans, gifts and sales",
+     "literal": "In what matters are said in admissions and loans gifts and sales"
+    },
+    {
+     "tokens": [
+      "3:5.116",
+      "3:5.117",
+      "3:5.118",
+      "3:5.119",
+      "3:5.120",
+      "3:5.121"
+     ],
+     "english": "But in fines, inquiry and examination are required",
+     "literal": "But in the cases of fines require inquiry and examination"
+    },
+    {
+     "tokens": [
+      "3:5.122",
+      "3:5.123",
+      "3:5.124",
+      "3:5.125",
+      "3:5.126"
+     ],
+     "english": "and needless to say in lashes and exile",
+     "literal": "and there is no need to say in lashes and in exile"
+    },
+    {
+     "tokens": [
+      "3:5.127",
+      "3:5.128",
+      "3:5.129",
+      "3:5.130",
+      "3:5.131",
+      "3:5.132",
+      "3:5.133",
+      "3:5.134"
+     ],
+     "english": "and in a case of deception, even in civil cases, inquiry and examination are required",
+     "literal": "and in a case of deception even in the cases of civil requires inquiry and examination"
+    }
+   ],
+   "grammar": [
+    "The Haggadah's wicked son asks 'What is this worship to you?' (מה העבודה הזאת לכם, Exod 12:26) and the Haggadah adds 'לכם ולא לו'; the author quotes both, and the English sets them in quotation marks as a quoted question.",
+    "In 'וידעת היום והשבות אל לבבך' the verbs are second-person forms of Deut 4:39; 'כי ה' הוא האלהים' has no copula in Hebrew, so 'is God' supplies it.",
+    "'ומן התורה אחד דיני ממונות ואחד דיני נפשות בדרישה וחקירה' has no finite verb; אחד ... ואחד means 'both ... and', so civil and capital cases alike are subject to inquiry and examination; 'require' is supplied from 'צריכים' in the next sentences.",
+    "'אמרו חכמים' is an explicit quotation formula, so the words it introduces take double quotation marks; the author gives no source, and none is added. The quotation is closed after 'וכו'', because what follows ('במה דברים אמורים') carries no formula.",
+    "'במה דברים אמורים' is a fixed Mishnaic question: 'in what case is this said?' 'ואין צריך לומר' is 'needless to say', and its object is understood from the preceding clause."
+   ],
+   "commentary": [],
+   "apparatus": [
+    "Exod 12:26: 'מה העבודה הזאת לכם' (the wicked son of the Passover Haggadah); 'לכם ולא לו' is the Haggadah's addition.",
+    "Deut 4:39: 'וידעת היום והשבת אל לבבך כי ה' הוא האלהים'; the printed text has והשבות; the author stops at וכו', and the verse continues beyond the words quoted.",
+    "Wikisource base text (Q2): translated as it stands; flagged until the 1931 scan is collated."
+   ],
+   "context": [
+    "The four sons: the four children of the Passover Haggadah. The question 'What is this service to you?' (Exod 12:26) is the wicked son's, as the Haggadah gives it."
+   ]
+  },
+  {
+   "ref": "3:6",
+   "english": "§6. And in our case all of them are in it, and how did your heart dare to accept evil talk from foolish men who walk barefoot, like men banned by heaven, and to consider it complete testimony, to hold your fellow in the Torah and in the commandments of Scriptural and rabbinic law as apikorsim and heretics, who are among those whom one lowers and does not raise? And it is known and notorious that this generation, a generation of vanity and falsehood, and it is among the princes of Israel, and each one takes pride in the disgrace of his fellow and of his teacher, whom they set up in their examination; 'orah' means Torah. And on those who make nights as days, and those who toil for the Torah, so that it not be forgotten from Israel according to their ability, you poured out contempt, and you made the students of the Torah and those who hold to it despised and lowly, like a vessel in which there is no delight. And all who do evil are good in your eyes, and more honored than them, and by means of false rumors you made the students of Torah a disgrace in the eyes of all who see them, until they came to a very low rank, that the ignorant boast of themselves, saying, \"Happy are we, how good is our portion and pleasant our sleep until the rising of the sun, and we shall inherit honor more than those who stand in the house of the LORD at night\"; to fulfill what was said, \"And if you despise My statutes, if you despise those who teach My statutes,\" as the Rambam of blessed memory wrote in the Laws of the Study of Torah.",
+   "literal": "§6. and in the case of our all of them are in it and how has filled-you your heart to accept the talk of evil from men foolish who walk barefoot like banned by heaven and to consider it as complete testimony to hold (object marker) your fellow in the Torah and in the commandments of Scriptural law and rabbinic as apikorsim and heretics who are among those whom one lowers and not raise And it is known and notorious that this generation a generation of vanity and falsehood and it is among the princes of Israel and each one takes pride in the disgrace of his fellow and his teacher whom they set up in their examination light this Torah And on-those-who make nights as days and those who work for the Torah so that not be forgotten from Israel according to their ability you poured out contempt and you made (object marker) the students of the Torah and those who hold to it despised and lowly like a vessel there-is-not delight in-it And all those who do evil good in your eyes and honored more than them and by means of rumors of falsehood you made the students of Torah a disgrace in the eyes of all who see them until they came to a rank low very that the people-of-the-land boast of themselves saying Happy are we how good our portion and pleasant our sleep until the rising of the sun and honor we shall inherit more than those who stand in the house of the LORD at night to fulfill what was said And-if in My statutes you despise if in those who teach My statutes you despise as wrote the Rambam of blessed memory in the Laws of the study of Torah",
+   "tokens": [
+    {
+     "id": "3:6.1",
+     "gloss": "§6.",
+     "note": "ו) is the author's section number (Hebrew letter vav = 6); the numbering runs through the whole book."
+    },
+    {
+     "id": "3:6.2",
+     "gloss": "and in the case of"
+    },
+    {
+     "id": "3:6.3",
+     "gloss": "our"
+    },
+    {
+     "id": "3:6.4",
+     "gloss": "all of them"
+    },
+    {
+     "id": "3:6.5",
+     "gloss": "are"
+    },
+    {
+     "id": "3:6.6",
+     "gloss": "in it"
+    },
+    {
+     "id": "3:6.7",
+     "gloss": "and how"
+    },
+    {
+     "id": "3:6.8",
+     "gloss": "dared (lit. filled you)",
+     "note": "מלאך: 'has filled you' (מלא + suffix ך), the idiom of Esth 7:5 (אשר מלאו לבו): 'whose heart has filled him', that is, 'who has dared'. The heart is the subject of a rhetorical question."
+    },
+    {
+     "id": "3:6.9",
+     "gloss": "your heart"
+    },
+    {
+     "id": "3:6.10",
+     "gloss": "to accept"
+    },
+    {
+     "id": "3:6.11",
+     "gloss": "the talk of"
+    },
+    {
+     "id": "3:6.12",
+     "gloss": "evil"
+    },
+    {
+     "id": "3:6.13",
+     "gloss": "from men"
+    },
+    {
+     "id": "3:6.14",
+     "gloss": "foolish"
+    },
+    {
+     "id": "3:6.15",
+     "gloss": "who walk"
+    },
+    {
+     "id": "3:6.16",
+     "gloss": "barefoot"
+    },
+    {
+     "id": "3:6.17",
+     "gloss": "like men banned"
+    },
+    {
+     "id": "3:6.18",
+     "gloss": "by heaven"
+    },
+    {
+     "id": "3:6.19",
+     "gloss": "and to consider"
+    },
+    {
+     "id": "3:6.20",
+     "gloss": "it"
+    },
+    {
+     "id": "3:6.21",
+     "gloss": "as"
+    },
+    {
+     "id": "3:6.22",
+     "gloss": "complete testimony"
+    },
+    {
+     "id": "3:6.23",
+     "gloss": "to hold"
+    },
+    {
+     "id": "3:6.24",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "3:6.25",
+     "gloss": "your fellow"
+    },
+    {
+     "id": "3:6.26",
+     "gloss": "in the Torah"
+    },
+    {
+     "id": "3:6.27",
+     "gloss": "and in the commandments"
+    },
+    {
+     "id": "3:6.28",
+     "gloss": "of Scriptural law",
+     "note": "דאוריתא: Aramaic 'de-oraita', of the Torah (Scriptural law); ודרבנן: 'and rabbinic' (de-rabbanan)."
+    },
+    {
+     "id": "3:6.29",
+     "gloss": "and rabbinic"
+    },
+    {
+     "id": "3:6.30",
+     "gloss": "as apikorsim",
+     "note": "אפיקורסים: transliterated (fixed term 'apikorsim')."
+    },
+    {
+     "id": "3:6.31",
+     "gloss": "and heretics"
+    },
+    {
+     "id": "3:6.32",
+     "gloss": "who are"
+    },
+    {
+     "id": "3:6.33",
+     "gloss": "among"
+    },
+    {
+     "id": "3:6.34",
+     "gloss": "those"
+    },
+    {
+     "id": "3:6.35",
+     "gloss": "whom one lowers",
+     "note": "שמורידין ולא מעלין: a Talmudic phrase for heretics, who may be lowered into a pit and not lifted out, that is, left to perish."
+    },
+    {
+     "id": "3:6.36",
+     "gloss": "and not"
+    },
+    {
+     "id": "3:6.37",
+     "gloss": "raise",
+     "note": "The sentence ends with a question mark in the Hebrew."
+    },
+    {
+     "id": "3:6.38",
+     "gloss": "And it is"
+    },
+    {
+     "id": "3:6.39",
+     "gloss": "known"
+    },
+    {
+     "id": "3:6.40",
+     "gloss": "and notorious"
+    },
+    {
+     "id": "3:6.41",
+     "gloss": "that"
+    },
+    {
+     "id": "3:6.42",
+     "gloss": "this"
+    },
+    {
+     "id": "3:6.43",
+     "gloss": "generation"
+    },
+    {
+     "id": "3:6.44",
+     "gloss": "a generation of"
+    },
+    {
+     "id": "3:6.45",
+     "gloss": "vanity"
+    },
+    {
+     "id": "3:6.46",
+     "gloss": "and falsehood"
+    },
+    {
+     "id": "3:6.47",
+     "gloss": "and it is",
+     "note": "והיא is feminine while הדור is masculine; read 'and it', the vanity and falsehood just named (or the generation)."
+    },
+    {
+     "id": "3:6.48",
+     "gloss": "among the princes of"
+    },
+    {
+     "id": "3:6.49",
+     "gloss": "Israel"
+    },
+    {
+     "id": "3:6.50",
+     "gloss": "and each"
+    },
+    {
+     "id": "3:6.51",
+     "gloss": "one"
+    },
+    {
+     "id": "3:6.52",
+     "gloss": "takes pride"
+    },
+    {
+     "id": "3:6.53",
+     "gloss": "in the disgrace of"
+    },
+    {
+     "id": "3:6.54",
+     "gloss": "his fellow"
+    },
+    {
+     "id": "3:6.55",
+     "gloss": "and his teacher"
+    },
+    {
+     "id": "3:6.56",
+     "gloss": "whom"
+    },
+    {
+     "id": "3:6.57",
+     "gloss": "they set up"
+    },
+    {
+     "id": "3:6.58",
+     "gloss": "in their examination",
+     "note": "בקרו is obscure and the clause is tentative. העמידו may be 'they set up' or 'he raised him' (cf. 'raise up disciples'), and בקרו may come from בקר 'inquire' or be corrupt; the sense is uncertain. אורה זו תורה is the saying on 'orah' (light, Esth 8:16): 'orah' means Torah."
+    },
+    {
+     "id": "3:6.59",
+     "gloss": "light",
+     "note": "אורה: 'light'; in the saying אורה זו תורה it is the word of Esth 8:16 that the sages explain as 'Torah'."
+    },
+    {
+     "id": "3:6.60",
+     "gloss": "this"
+    },
+    {
+     "id": "3:6.61",
+     "gloss": "Torah"
+    },
+    {
+     "id": "3:6.62",
+     "gloss": "And on those who make",
+     "note": "ובמשימי: ו 'and' + ב 'on' + participle 'those who make'; the object of 'poured out contempt' is fronted: 'on those who make nights as days (Job 17:12)'."
+    },
+    {
+     "id": "3:6.63",
+     "gloss": "nights"
+    },
+    {
+     "id": "3:6.64",
+     "gloss": "as days"
+    },
+    {
+     "id": "3:6.65",
+     "gloss": "and those who toil"
+    },
+    {
+     "id": "3:6.66",
+     "gloss": "to the Torah"
+    },
+    {
+     "id": "3:6.67",
+     "gloss": "so that not"
+    },
+    {
+     "id": "3:6.68",
+     "gloss": "be forgotten"
+    },
+    {
+     "id": "3:6.69",
+     "gloss": "from Israel"
+    },
+    {
+     "id": "3:6.70",
+     "gloss": "according to"
+    },
+    {
+     "id": "3:6.71",
+     "gloss": "their ability"
+    },
+    {
+     "id": "3:6.72",
+     "gloss": "you poured out"
+    },
+    {
+     "id": "3:6.73",
+     "gloss": "contempt"
+    },
+    {
+     "id": "3:6.74",
+     "gloss": "and you made"
+    },
+    {
+     "id": "3:6.75",
+     "gloss": "(object marker)"
+    },
+    {
+     "id": "3:6.76",
+     "gloss": "the students of"
+    },
+    {
+     "id": "3:6.77",
+     "gloss": "the Torah"
+    },
+    {
+     "id": "3:6.78",
+     "gloss": "and those who hold"
+    },
+    {
+     "id": "3:6.79",
+     "gloss": "to it"
+    },
+    {
+     "id": "3:6.80",
+     "gloss": "despised"
+    },
+    {
+     "id": "3:6.81",
+     "gloss": "and lowly"
+    },
+    {
+     "id": "3:6.82",
+     "gloss": "like a vessel"
+    },
+    {
+     "id": "3:6.83",
+     "gloss": "for which there is"
+    },
+    {
+     "id": "3:6.84",
+     "gloss": "no delight"
+    },
+    {
+     "id": "3:6.85",
+     "gloss": "in it"
+    },
+    {
+     "id": "3:6.86",
+     "gloss": "And all"
+    },
+    {
+     "id": "3:6.87",
+     "gloss": "those who do"
+    },
+    {
+     "id": "3:6.88",
+     "gloss": "evil"
+    },
+    {
+     "id": "3:6.89",
+     "gloss": "good"
+    },
+    {
+     "id": "3:6.90",
+     "gloss": "in your eyes"
+    },
+    {
+     "id": "3:6.91",
+     "gloss": "and honored"
+    },
+    {
+     "id": "3:6.92",
+     "gloss": "more"
+    },
+    {
+     "id": "3:6.93",
+     "gloss": "than them"
+    },
+    {
+     "id": "3:6.94",
+     "gloss": "and by"
+    },
+    {
+     "id": "3:6.95",
+     "gloss": "means of"
+    },
+    {
+     "id": "3:6.96",
+     "gloss": "rumors"
+    },
+    {
+     "id": "3:6.97",
+     "gloss": "of falsehood"
+    },
+    {
+     "id": "3:6.98",
+     "gloss": "you made"
+    },
+    {
+     "id": "3:6.99",
+     "gloss": "the students of"
+    },
+    {
+     "id": "3:6.100",
+     "gloss": "Torah"
+    },
+    {
+     "id": "3:6.101",
+     "gloss": "a disgrace"
+    },
+    {
+     "id": "3:6.102",
+     "gloss": "in the eyes of"
+    },
+    {
+     "id": "3:6.103",
+     "gloss": "all"
+    },
+    {
+     "id": "3:6.104",
+     "gloss": "who see them"
+    },
+    {
+     "id": "3:6.105",
+     "gloss": "until"
+    },
+    {
+     "id": "3:6.106",
+     "gloss": "they came"
+    },
+    {
+     "id": "3:6.107",
+     "gloss": "to a rank"
+    },
+    {
+     "id": "3:6.108",
+     "gloss": "low"
+    },
+    {
+     "id": "3:6.109",
+     "gloss": "very"
+    },
+    {
+     "id": "3:6.110",
+     "gloss": "that the"
+    },
+    {
+     "id": "3:6.111",
+     "gloss": "the ignorant (lit. people of the land)",
+     "note": "עמי הארץ (amei ha-aretz): in rabbinic usage the unlearned, those ignorant of Torah; here they boast against the students who study at night."
+    },
+    {
+     "id": "3:6.112",
+     "gloss": "boast"
+    },
+    {
+     "id": "3:6.113",
+     "gloss": "of themselves"
+    },
+    {
+     "id": "3:6.114",
+     "gloss": "saying"
+    },
+    {
+     "id": "3:6.115",
+     "gloss": "Happy are we",
+     "note": "אשרינו מה טוב חלקנו echoes the opening of the daily morning prayer: 'Happy are we, how good is our portion'."
+    },
+    {
+     "id": "3:6.116",
+     "gloss": "how"
+    },
+    {
+     "id": "3:6.117",
+     "gloss": "good"
+    },
+    {
+     "id": "3:6.118",
+     "gloss": "our portion"
+    },
+    {
+     "id": "3:6.119",
+     "gloss": "and pleasant",
+     "note": "וערבה שנתינו: cf. Prov 3:24 'וערבה שנתך'."
+    },
+    {
+     "id": "3:6.120",
+     "gloss": "our sleep"
+    },
+    {
+     "id": "3:6.121",
+     "gloss": "until"
+    },
+    {
+     "id": "3:6.122",
+     "gloss": "the rising of"
+    },
+    {
+     "id": "3:6.123",
+     "gloss": "the sun"
+    },
+    {
+     "id": "3:6.124",
+     "gloss": "and honor"
+    },
+    {
+     "id": "3:6.125",
+     "gloss": "we shall inherit"
+    },
+    {
+     "id": "3:6.126",
+     "gloss": "more"
+    },
+    {
+     "id": "3:6.127",
+     "gloss": "than those"
+    },
+    {
+     "id": "3:6.128",
+     "gloss": "who stand"
+    },
+    {
+     "id": "3:6.129",
+     "gloss": "in the house of"
+    },
+    {
+     "id": "3:6.130",
+     "gloss": "the LORD",
+     "note": "ה': the Tetragrammaton written as ה' (the LORD), as in Ps 134:1."
+    },
+    {
+     "id": "3:6.131",
+     "gloss": "at night"
+    },
+    {
+     "id": "3:6.132",
+     "gloss": "to fulfill"
+    },
+    {
+     "id": "3:6.133",
+     "gloss": "what"
+    },
+    {
+     "id": "3:6.134",
+     "gloss": "was said"
+    },
+    {
+     "id": "3:6.135",
+     "gloss": "And if"
+    },
+    {
+     "id": "3:6.136",
+     "gloss": "in My statutes"
+    },
+    {
+     "id": "3:6.137",
+     "gloss": "you despise"
+    },
+    {
+     "id": "3:6.138",
+     "gloss": "if"
+    },
+    {
+     "id": "3:6.139",
+     "gloss": "in those who teach"
+    },
+    {
+     "id": "3:6.140",
+     "gloss": "My statutes"
+    },
+    {
+     "id": "3:6.141",
+     "gloss": "you despise",
+     "note": "תמאסו: 'you despise', second person plural of the verb of Lev 26:15; the author writes בחקותי."
+    },
+    {
+     "id": "3:6.142",
+     "gloss": "as"
+    },
+    {
+     "id": "3:6.143",
+     "gloss": "wrote"
+    },
+    {
+     "id": "3:6.144",
+     "gloss": "the Rambam"
+    },
+    {
+     "id": "3:6.145",
+     "gloss": "of blessed memory"
+    },
+    {
+     "id": "3:6.146",
+     "gloss": "in the Laws of",
+     "note": "בהל': Mishneh Torah, Laws of Torah Study (Hilkhot Talmud Torah), the same work as in 3:5.91."
+    },
+    {
+     "id": "3:6.147",
+     "gloss": "the study of"
+    },
+    {
+     "id": "3:6.148",
+     "gloss": "Torah"
+    }
+   ],
+   "phrases": [
+    {
+     "tokens": [
+      "3:6.1"
+     ],
+     "english": "§6.",
+     "literal": "6)"
+    },
+    {
+     "tokens": [
+      "3:6.2",
+      "3:6.3",
+      "3:6.4",
+      "3:6.5",
+      "3:6.6"
+     ],
+     "english": "And in our case all of them are in it",
+     "literal": "and in the case of our all of them are in it"
+    },
+    {
+     "tokens": [
+      "3:6.7",
+      "3:6.8",
+      "3:6.9",
+      "3:6.10"
+     ],
+     "english": "and how did your heart dare to accept",
+     "literal": "and how has filled-you your heart to accept"
+    },
+    {
+     "tokens": [
+      "3:6.11",
+      "3:6.12",
+      "3:6.13",
+      "3:6.14",
+      "3:6.15",
+      "3:6.16",
+      "3:6.17",
+      "3:6.18"
+     ],
+     "english": "evil talk from foolish men who walk barefoot, like men banned by heaven",
+     "literal": "the talk of evil from men foolish who walk barefoot like banned by heaven"
+    },
+    {
+     "tokens": [
+      "3:6.19",
+      "3:6.20",
+      "3:6.21",
+      "3:6.22"
+     ],
+     "english": "and to consider it complete testimony",
+     "literal": "and to consider it as complete testimony"
+    },
+    {
+     "tokens": [
+      "3:6.23",
+      "3:6.24",
+      "3:6.25",
+      "3:6.26",
+      "3:6.27",
+      "3:6.28",
+      "3:6.29",
+      "3:6.30",
+      "3:6.31"
+     ],
+     "english": "to hold your fellow in the Torah and in the commandments of Scriptural and rabbinic law as apikorsim and heretics",
+     "literal": "to hold (object marker) your fellow in the Torah and in the commandments of Scriptural law and rabbinic as apikorsim and heretics"
+    },
+    {
+     "tokens": [
+      "3:6.32",
+      "3:6.33",
+      "3:6.34",
+      "3:6.35",
+      "3:6.36",
+      "3:6.37"
+     ],
+     "english": "who are among those whom one lowers and does not raise",
+     "literal": "who are among those whom one lowers and not raise"
+    },
+    {
+     "tokens": [
+      "3:6.38",
+      "3:6.39",
+      "3:6.40"
+     ],
+     "english": "And it is known and notorious",
+     "literal": "And it is known and notorious"
+    },
+    {
+     "tokens": [
+      "3:6.41",
+      "3:6.42",
+      "3:6.43",
+      "3:6.44",
+      "3:6.45",
+      "3:6.46"
+     ],
+     "english": "that this generation, a generation of vanity and falsehood",
+     "literal": "that this generation a generation of vanity and falsehood"
+    },
+    {
+     "tokens": [
+      "3:6.47",
+      "3:6.48",
+      "3:6.49"
+     ],
+     "english": "and it is among the princes of Israel",
+     "literal": "and it is among the princes of Israel"
+    },
+    {
+     "tokens": [
+      "3:6.50",
+      "3:6.51",
+      "3:6.52",
+      "3:6.53",
+      "3:6.54",
+      "3:6.55",
+      "3:6.56",
+      "3:6.57",
+      "3:6.58",
+      "3:6.59",
+      "3:6.60",
+      "3:6.61"
+     ],
+     "english": "and each one takes pride in the disgrace of his fellow and of his teacher, whom they set up in their examination; 'orah' means Torah",
+     "literal": "and each one takes pride in the disgrace of his fellow and his teacher whom they set up in their examination 'orah' this Torah"
+    },
+    {
+     "tokens": [
+      "3:6.62",
+      "3:6.63",
+      "3:6.64",
+      "3:6.65",
+      "3:6.66"
+     ],
+     "english": "And on those who make nights as days, and those who toil for the Torah",
+     "literal": "And on-those-who make nights as days and those who work for the Torah"
+    },
+    {
+     "tokens": [
+      "3:6.67",
+      "3:6.68",
+      "3:6.69",
+      "3:6.70",
+      "3:6.71"
+     ],
+     "english": "so that it not be forgotten from Israel according to their ability",
+     "literal": "so that not be forgotten from Israel according to their ability"
+    },
+    {
+     "tokens": [
+      "3:6.72",
+      "3:6.73"
+     ],
+     "english": "you poured out contempt",
+     "literal": "you poured out contempt"
+    },
+    {
+     "tokens": [
+      "3:6.74",
+      "3:6.75",
+      "3:6.76",
+      "3:6.77",
+      "3:6.78",
+      "3:6.79",
+      "3:6.80",
+      "3:6.81",
+      "3:6.82",
+      "3:6.83",
+      "3:6.84",
+      "3:6.85"
+     ],
+     "english": "and you made the students of the Torah and those who hold to it despised and lowly, like a vessel in which there is no delight",
+     "literal": "and you made (object marker) the students of the Torah and those who hold to it despised and lowly like a vessel there-is-not delight in-it"
+    },
+    {
+     "tokens": [
+      "3:6.86",
+      "3:6.87",
+      "3:6.88",
+      "3:6.89",
+      "3:6.90",
+      "3:6.91",
+      "3:6.92",
+      "3:6.93"
+     ],
+     "english": "And all who do evil are good in your eyes, and more honored than them",
+     "literal": "And all those who do evil good in your eyes and honored more than them"
+    },
+    {
+     "tokens": [
+      "3:6.94",
+      "3:6.95",
+      "3:6.96",
+      "3:6.97",
+      "3:6.98",
+      "3:6.99",
+      "3:6.100"
+     ],
+     "english": "and by means of false rumors you made the students of Torah",
+     "literal": "and by means of rumors of falsehood you made the students of Torah"
+    },
+    {
+     "tokens": [
+      "3:6.101",
+      "3:6.102",
+      "3:6.103",
+      "3:6.104"
+     ],
+     "english": "a disgrace in the eyes of all who see them",
+     "literal": "a disgrace in the eyes of all who see them"
+    },
+    {
+     "tokens": [
+      "3:6.105",
+      "3:6.106",
+      "3:6.107",
+      "3:6.108",
+      "3:6.109"
+     ],
+     "english": "until they came to a very low rank",
+     "literal": "until they came to a rank low very"
+    },
+    {
+     "tokens": [
+      "3:6.110",
+      "3:6.111",
+      "3:6.112",
+      "3:6.113",
+      "3:6.114"
+     ],
+     "english": "that the ignorant boast of themselves, saying",
+     "literal": "that the people-of-the-land boast of themselves saying"
+    },
+    {
+     "tokens": [
+      "3:6.115",
+      "3:6.116",
+      "3:6.117",
+      "3:6.118",
+      "3:6.119",
+      "3:6.120",
+      "3:6.121",
+      "3:6.122",
+      "3:6.123"
+     ],
+     "english": "Happy are we, how good is our portion and pleasant our sleep until the rising of the sun",
+     "literal": "Happy are we how good our portion and pleasant our sleep until the rising of the sun"
+    },
+    {
+     "tokens": [
+      "3:6.124",
+      "3:6.125",
+      "3:6.126",
+      "3:6.127",
+      "3:6.128",
+      "3:6.129"
+     ],
+     "english": "and we shall inherit honor more than those who stand in the house of",
+     "literal": "and honor we shall inherit more than those who stand in the house of"
+    },
+    {
+     "tokens": [
+      "3:6.130",
+      "3:6.131"
+     ],
+     "english": "the LORD at night",
+     "literal": "the LORD at night"
+    },
+    {
+     "tokens": [
+      "3:6.132",
+      "3:6.133",
+      "3:6.134"
+     ],
+     "english": "to fulfill what was said",
+     "literal": "to fulfill what was said"
+    },
+    {
+     "tokens": [
+      "3:6.135",
+      "3:6.136",
+      "3:6.137",
+      "3:6.138",
+      "3:6.139",
+      "3:6.140",
+      "3:6.141"
+     ],
+     "english": "And if you despise My statutes, if you despise those who teach My statutes",
+     "literal": "And-if in My statutes you despise if in those who teach My statutes you despise"
+    },
+    {
+     "tokens": [
+      "3:6.142",
+      "3:6.143",
+      "3:6.144",
+      "3:6.145",
+      "3:6.146",
+      "3:6.147",
+      "3:6.148"
+     ],
+     "english": "as the Rambam of blessed memory wrote in the Laws of the Study of Torah",
+     "literal": "as wrote the Rambam of blessed memory in the Laws of the study of Torah"
+    }
+   ],
+   "grammar": [
+    "The paragraph opens with an Aramaic sentence (Bavli Aramaic): 'ובנדון דידן כולהו איתינהו ביה' is 'and in our case all of them are in it'. Its only question is marked '?' after 'ולא מעלין'.",
+    "'ואיך מלאך לבך לקבל' is rhetorical and perfect: 'how did your heart dare to accept'; מלאך is מלא with the suffix ך (Esth 7:5).",
+    "'לאפיקורסים ומינים' is the object of 'להחזיק' with a double predicate: 'to hold him as apikorsim and heretics'.",
+    "'כי זה הדור, דור שוא ושקר' repeats 'דור' as an apposition: 'this generation, a generation of vanity and falsehood'.",
+    "'ובמשימי ... שפכתם בוז' puts the object first with ב ('on'): 'you poured out contempt on those who make nights as days'.",
+    "The quotations are 'Happy are we' (the speech of the unlearned) and 'And if you despise My statutes' (Lev 26:15, the second clause not in the verse), introduced by 'לומר' and 'שנאמר'."
+   ],
+   "commentary": [],
+   "apparatus": [
+    "Lev 26:15: 'ואם בחקתי תמאסו'; the author writes בחקותי, and the second clause 'אם במלמדי חקותי תמאסו' is not in the verse.",
+    "Ps 134:1: 'העומדים בבית ה' בלילות'.",
+    "Hos 8:8: 'ככלי אין חפץ בו'; cf. Jer 22:28 'כלי אין חפץ בו'.",
+    "Esth 8:16: 'אורה' (the saying 'אורה זו תורה' is the sages' explanation of it).",
+    "Job 17:12: 'לילה ליום ישימו' (echoed in 'משימי לילות כימים').",
+    "Job 12:21 and Ps 107:40: 'שופך בוז על ...' (echoed in 'שפכתם בוז').",
+    "Mal 2:17: 'כל עשה רע טוב בעיני ה'' (echoed in 'וכל עושי רע טוב בעיניכם').",
+    "Esth 7:5: 'אשר מלאו לבו' (echoed in 'מלאך לבך').",
+    "Prov 3:24: 'וערבה שנתך' (echoed in 'וערבה שנתינו').",
+    "'בקרו' (3:6.58) is uncertain; see the token note.",
+    "Wikisource base text (Q2): translated as it stands; flagged until the 1931 scan is collated."
+   ]
+  }
+ ]
+}
