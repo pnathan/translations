@@ -663,6 +663,14 @@ senses are allowed, chosen by the use.
   "trimmings"; the other in a token note.
 - Names of works: "Guide for the Perplexed" is rendered as the Moreh
   Nevukhim; ממלכי as "of the kings of".
+- Closing formulas (וחתם דבריו, עכ"ל, ע"כ) stand outside the closing quotation
+  mark; opening formulas (וז"ל, כ' וז"ל) stand outside the opening one.
+- לדעת before a noun: "according to the understanding of" when the sentence
+  has no infinitive sense; the infinitive in `readings`.
+- A conditional whose main clause follows a Hebrew full stop (ואם ראיתי. הם
+  מגלים): join with a comma and say so in a token note.
+- המתפלספים: "would-be philosophers"; הנצרים = "the Christians" (spelling variant
+  of הנוצרים, noted); העשיריות: "the tens" (the ten sefirot, noted).
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.

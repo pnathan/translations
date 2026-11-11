@@ -1,0 +1,806 @@
+{
+  "unit": "perek-2-14",
+  "model": "sonnet",
+  "summary": "The translation is close to the Hebrew, keeps the fixed terms and the honorifics, and handles the nested quotation well. The faults: סמנים ('ingredients') rendered 'signs'; תוקע עצמי rendered 'commit myself'; the Rambam's words given as 'that they are five' without marks; 'a specific intention' and 'your own understanding' add words; the Kabbalist's one speech closed and reopened; כי and ש dropped. The closing formula וחתם דבריו belongs outside the Ribash quotation. The four open points are decided: 'would-be philosophers', 'the Christians' (the spelling הנצרים is a variant) and 'the tens' stand; לדעת זה התינוק is read as the construct.",
+  "patches": [
+    {
+      "ref": "2:30",
+      "path": "english",
+      "value": "As for what you wrote, that Ze'ir Anpin is the son of Abba and Imma, and that he is the father of the effects that come after him, and he has a sister, his Nukva; all of it is a parable and an allusion concerning the sefirot. As for what you wrote, that no partzuf is to be worshipped, this is known on the lips of all the Kabbalists, and they have no need of your warning. As for what you wrote in the name of the Rambam: \"Five are those called heretics, etc.\" Who is the one who says there is no God, or that there are two, or that He has a body, or that He is not the One alone, or that he worships another besides Him in order to be an intercessor, or the one who says he found ingredients, or the one who says the world was created something from something, God forbid. But a grudge has already risen in your heart, and you study the holy books, take the words in their plain sense, and rely on your understanding. And you forgot what the wisest of the wise said: \"and do not lean on your understanding.\" Since you have already informed me that you understand, resolve my doubts, which I sent you and which I am about to send. As for what you wrote, that you understood that many and great men of wise heart, early and late, withdraw from it: God forbid that there be any sage who withdraws from it. And if there is one who withdraws from it, he himself admits openly that it is from his lack of knowledge of it. As for what you wrote, as the Ribash and the Chavot Yair wrote, you speak falsehood about them. And they are two valid witnesses to testify against you that you speak lies. And these are the words of the Ribash, in brief: \"that Rabbi Peretz ha-Kohen did not speak of those sefirot and did not attach importance to them. Also he heard from his mouth that Rabbi Shimshon of Kinon used to say: 'I pray according to the understanding of this child,' that is, to remove from the hearts of the Kabbalists the idea that they pray at one time to one sefirah and at another time to another sefirah. Also in the Eighteen Benedictions they have, in each and every one, an intention toward a known sefirah. And all this is a very strange thing in the eyes of anyone who is not a Kabbalist like them, and they think it is the belief in duality. And he heard one of the would-be philosophers speaking in disparagement of the Kabbalists, and he would say: 'The Christians are believers in the Trinity, and the Kabbalists are believers in the tens.' And he asked the elderly sage Don Yosef ibn Shushan, who was a sage in the Talmud, who had looked into philosophy and was a Kabbalist, pious, great, and scrupulous in the commandments. And he said to him: 'How is it that you Kabbalists direct one blessing to one known sefirah and another blessing to another sefirah. Furthermore, is it so that there are divinities for the sefirot? That a man should pray to them?' And they answered him: 'God forbid that the prayer be anything but to the Name, may He be blessed, the Cause of causes; but one directs the thought to draw the flow to that sefirah which relates to the thing he asks for, just as you would say that in the blessing for the righteous one should direct to the sefirah called Chesed, which is the attribute of mercy, etc.' And he brought him a parable on this. He answered and said: 'And behold, very good.' And he said: 'I do not thrust myself into that wisdom, since I did not receive it from the mouth of a Kabbalist sage. And if I have seen commentaries on the secrets of the Ramban, they reveal a handbreadth and cover handbreadths.' And he said that a certain sage explained the Kabbalah not as the Ramban holds, and therefore he said that the words of that sage shall be his alone.\" And he ended his words. Therefore I say that one must not rely on such words, except from the mouth of a Kabbalist sage.",
+      "severity": "error",
+      "reason": "Fidelity and punctuation. (1) The Rambam's words (חמשה הן הנקראים מינים) have no ש: 'that they are five' adds a 'that' and makes הן ('they are') look like a subject; the words are a direct quotation, with the author's introduction and a certain source, so they take marks (decisions: direct quotation without a formula). (2) סמנים is 'ingredients, materials', not 'signs'. (3) שאינו לבדו האחד is 'that He is not the One alone'. (4) זולתו is 'another besides Him'. (5) תוקע עצמי is 'thrust myself into', not 'commit myself to'. (6) 'I do not commit ... Kabbalist sage.' 'And if I have seen' closed and reopened the quotation in the middle of one speech; the speech is one. (7) לדעת זה התינוק: the construct 'in the view of this child' (see the question on token 191). (8) 'a specific intention': 'specific' is not in כוונה; ידועה is 'known' and is already rendered. (9) כי before ר' פרץ is kept ('that'). (10) 'your own understanding' adds 'own' to Prov 3:5. (11) מעיין is 'study', ראה is 'looked into', הכי is rendered ('is it so that'), לוקח הדברים 'the words' without the added 'their'. (12) וחתם דבריו is the respondent's closing formula, outside the Ribash quotation (see the question on token 373)."
+    },
+    {
+      "ref": "2:30",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "2:30.1",
+            "2:30.2",
+            "2:30.3",
+            "2:30.4",
+            "2:30.5",
+            "2:30.6",
+            "2:30.7",
+            "2:30.8",
+            "2:30.9",
+            "2:30.10"
+          ],
+          "english": "As for what you wrote, that Ze'ir Anpin is the son of Abba and Imma, and that he is the father of the effects that come after him,",
+          "literal": "and what you wrote that Ze'ir Anpin son of of Abba of Imma and he father of of effects that come after him"
+        },
+        {
+          "tokens": [
+            "2:30.11",
+            "2:30.12",
+            "2:30.13",
+            "2:30.14",
+            "2:30.15",
+            "2:30.16",
+            "2:30.17",
+            "2:30.18",
+            "2:30.19"
+          ],
+          "english": "and he has a sister, his Nukva; all of it is a parable and an allusion concerning the sefirot.",
+          "literal": "and there is to him a sister his Nukva his all parable and allusion concerning the sefirot"
+        },
+        {
+          "tokens": [
+            "2:30.20",
+            "2:30.21",
+            "2:30.22",
+            "2:30.23",
+            "2:30.24",
+            "2:30.25",
+            "2:30.26",
+            "2:30.27",
+            "2:30.28",
+            "2:30.29",
+            "2:30.30",
+            "2:30.31",
+            "2:30.32",
+            "2:30.33"
+          ],
+          "english": "As for what you wrote, that no partzuf is to be worshipped, this is known on the lips of all the Kabbalists, and they have no need of your warning.",
+          "literal": "and what you wrote that no to worship any partzuf this is known on the lips of all the Kabbalists and not need for your warning"
+        },
+        {
+          "tokens": [
+            "2:30.34",
+            "2:30.35",
+            "2:30.36",
+            "2:30.37",
+            "2:30.38",
+            "2:30.39",
+            "2:30.40",
+            "2:30.41",
+            "2:30.42"
+          ],
+          "english": "As for what you wrote in the name of the Rambam: \"Five are those called heretics, etc.\"",
+          "literal": "and what you wrote in the name of the Rambam five they are the ones called heretics etc."
+        },
+        {
+          "tokens": [
+            "2:30.43",
+            "2:30.44",
+            "2:30.45",
+            "2:30.46",
+            "2:30.47",
+            "2:30.48",
+            "2:30.49",
+            "2:30.50",
+            "2:30.51",
+            "2:30.52",
+            "2:30.53",
+            "2:30.54",
+            "2:30.55",
+            "2:30.56",
+            "2:30.57",
+            "2:30.58",
+            "2:30.59",
+            "2:30.60",
+            "2:30.61",
+            "2:30.62",
+            "2:30.63",
+            "2:30.64",
+            "2:30.65",
+            "2:30.66",
+            "2:30.67",
+            "2:30.68",
+            "2:30.69",
+            "2:30.70",
+            "2:30.71",
+            "2:30.72",
+            "2:30.73",
+            "2:30.74",
+            "2:30.75",
+            "2:30.76"
+          ],
+          "english": "Who is the one who says there is no God, or that there are two, or that He has a body, or that He is not the One alone, or that he worships another besides Him in order to be an intercessor, or the one who says he found ingredients, or the one who says the world was created something from something, God forbid.",
+          "literal": "who is he the one who says that there is not there God or that they are two or that He is possessor of a body or that not alone the One or that worships other-than-Him in order to be intercessor or the one who says that he found ingredients or the one who says that was created the world something from something God forbid"
+        },
+        {
+          "tokens": [
+            "2:30.77",
+            "2:30.78",
+            "2:30.79",
+            "2:30.80",
+            "2:30.81",
+            "2:30.82",
+            "2:30.83",
+            "2:30.84",
+            "2:30.85",
+            "2:30.86",
+            "2:30.87",
+            "2:30.88",
+            "2:30.89",
+            "2:30.90",
+            "2:30.91",
+            "2:30.92"
+          ],
+          "english": "But a grudge has already risen in your heart, and you study the holy books, take the words in their plain sense, and rely on your understanding.",
+          "literal": "but already rose up a grudge in your heart and you study the books the holy and take for yourself the matters as their plain sense and rely on your understanding"
+        },
+        {
+          "tokens": [
+            "2:30.93",
+            "2:30.94",
+            "2:30.95",
+            "2:30.96",
+            "2:30.97",
+            "2:30.98",
+            "2:30.99",
+            "2:30.100",
+            "2:30.101"
+          ],
+          "english": "And you forgot what the wisest of the wise said: \"and do not lean on your understanding.\"",
+          "literal": "and you forgot what that said wise one of the wise and to your understanding not lean"
+        },
+        {
+          "tokens": [
+            "2:30.102",
+            "2:30.103",
+            "2:30.104",
+            "2:30.105",
+            "2:30.106",
+            "2:30.107",
+            "2:30.108",
+            "2:30.109",
+            "2:30.110",
+            "2:30.111",
+            "2:30.112",
+            "2:30.113",
+            "2:30.114",
+            "2:30.115",
+            "2:30.116",
+            "2:30.117"
+          ],
+          "english": "Since you have already informed me that you understand, resolve my doubts, which I sent you and which I am about to send.",
+          "literal": "and since already you informed to me that you understand resolve for me my doubts which I sent to you and which I about to send"
+        },
+        {
+          "tokens": [
+            "2:30.118",
+            "2:30.119",
+            "2:30.120",
+            "2:30.121",
+            "2:30.122",
+            "2:30.123",
+            "2:30.124",
+            "2:30.125",
+            "2:30.126",
+            "2:30.127",
+            "2:30.128",
+            "2:30.129",
+            "2:30.130",
+            "2:30.131",
+            "2:30.132",
+            "2:30.133",
+            "2:30.134"
+          ],
+          "english": "As for what you wrote, that you understood that many and great men of wise heart, early and late, withdraw from it: God forbid that there be any sage who withdraws from it.",
+          "literal": "and what you wrote and you understood many and great sages of heart the withdrawers from it the early and the late God forbid that there is any sage withdraws from it"
+        },
+        {
+          "tokens": [
+            "2:30.135",
+            "2:30.136",
+            "2:30.137",
+            "2:30.138",
+            "2:30.139",
+            "2:30.140",
+            "2:30.141",
+            "2:30.142",
+            "2:30.143",
+            "2:30.144",
+            "2:30.145",
+            "2:30.146",
+            "2:30.147"
+          ],
+          "english": "And if there is one who withdraws from it, he himself admits openly that it is from his lack of knowledge of it.",
+          "literal": "and if there is one who withdraws from it he himself admits with mouth full that it is from lack of knowledge of it"
+        },
+        {
+          "tokens": [
+            "2:30.148",
+            "2:30.149",
+            "2:30.150",
+            "2:30.151",
+            "2:30.152",
+            "2:30.153",
+            "2:30.154",
+            "2:30.155",
+            "2:30.156",
+            "2:30.157"
+          ],
+          "english": "As for what you wrote, as the Ribash and the Chavot Yair wrote, you speak falsehood about them.",
+          "literal": "and what you wrote as wrote the Ribash and the Chavot Yair falsehood you speak about them"
+        },
+        {
+          "tokens": [
+            "2:30.158",
+            "2:30.159",
+            "2:30.160",
+            "2:30.161",
+            "2:30.162",
+            "2:30.163",
+            "2:30.164",
+            "2:30.165",
+            "2:30.166"
+          ],
+          "english": "And they are two valid witnesses to testify against you that you speak lies.",
+          "literal": "and they two witnesses valid to testify against you that you speak lies"
+        },
+        {
+          "tokens": [
+            "2:30.167",
+            "2:30.168",
+            "2:30.169",
+            "2:30.170",
+            "2:30.171",
+            "2:30.172",
+            "2:30.173",
+            "2:30.174",
+            "2:30.175",
+            "2:30.176",
+            "2:30.177",
+            "2:30.178",
+            "2:30.179",
+            "2:30.180"
+          ],
+          "english": "And these are the words of the Ribash, in brief: \"that Rabbi Peretz ha-Kohen did not speak of those sefirot and did not attach importance to them.",
+          "literal": "and these are the words of the Ribash in brief that Rabbi Peretz ha-Kohen not was speak and not attach importance to those the sefirot"
+        },
+        {
+          "tokens": [
+            "2:30.181",
+            "2:30.182",
+            "2:30.183",
+            "2:30.184",
+            "2:30.185",
+            "2:30.186",
+            "2:30.187",
+            "2:30.188",
+            "2:30.189",
+            "2:30.190",
+            "2:30.191",
+            "2:30.192",
+            "2:30.193",
+            "2:30.194",
+            "2:30.195",
+            "2:30.196",
+            "2:30.197",
+            "2:30.198",
+            "2:30.199",
+            "2:30.200",
+            "2:30.201",
+            "2:30.202",
+            "2:30.203",
+            "2:30.204",
+            "2:30.205"
+          ],
+          "english": "Also he heard from his mouth that Rabbi Shimshon of Kinon used to say: 'I pray according to the understanding of this child,' that is, to remove from the hearts of the Kabbalists the idea that they pray at one time to one sefirah and at another time to another sefirah.",
+          "literal": "also heard from his mouth that Rabbi Shimshon of Kinon used to say I pray according-to-the-view-of this the child that is to remove from the heart of the Kabbalists that they pray once to a sefirah one and once to a sefirah another"
+        },
+        {
+          "tokens": [
+            "2:30.206",
+            "2:30.207",
+            "2:30.208",
+            "2:30.209",
+            "2:30.210",
+            "2:30.211",
+            "2:30.212",
+            "2:30.213",
+            "2:30.214",
+            "2:30.215",
+            "2:30.216"
+          ],
+          "english": "Also in the Eighteen Benedictions they have, in each and every one, an intention toward a known sefirah.",
+          "literal": "also in the prayer of the eighteen there is for them in every one and one an intention toward a sefirah known"
+        },
+        {
+          "tokens": [
+            "2:30.217",
+            "2:30.218",
+            "2:30.219",
+            "2:30.220",
+            "2:30.221",
+            "2:30.222",
+            "2:30.223",
+            "2:30.224",
+            "2:30.225",
+            "2:30.226",
+            "2:30.227",
+            "2:30.228",
+            "2:30.229",
+            "2:30.230",
+            "2:30.231"
+          ],
+          "english": "And all this is a very strange thing in the eyes of anyone who is not a Kabbalist like them, and they think it is the belief in duality.",
+          "literal": "and all this is a thing strange very in the eyes of anyone who is not a Kabbalist like them and they think that this the belief in duality"
+        },
+        {
+          "tokens": [
+            "2:30.232",
+            "2:30.233",
+            "2:30.234",
+            "2:30.235",
+            "2:30.236",
+            "2:30.237",
+            "2:30.238",
+            "2:30.239",
+            "2:30.240"
+          ],
+          "english": "And he heard one of the would-be philosophers speaking in disparagement of the Kabbalists, and he would say:",
+          "literal": "and he heard one of the would-be philosophers speaking in disparagement of the Kabbalists and he would say"
+        },
+        {
+          "tokens": [
+            "2:30.241",
+            "2:30.242",
+            "2:30.243",
+            "2:30.244",
+            "2:30.245",
+            "2:30.246"
+          ],
+          "english": "'The Christians are believers in the Trinity, and the Kabbalists are believers in the tens.'",
+          "literal": "the Christians believers in the Trinity and the Kabbalists believers in the tens"
+        },
+        {
+          "tokens": [
+            "2:30.247",
+            "2:30.248",
+            "2:30.249",
+            "2:30.250",
+            "2:30.251",
+            "2:30.252",
+            "2:30.253",
+            "2:30.254",
+            "2:30.255",
+            "2:30.256",
+            "2:30.257"
+          ],
+          "english": "And he asked the elderly sage Don Yosef ibn Shushan, who was a sage in the Talmud,",
+          "literal": "and he asked the sage the elderly Don Yosef ibn Shushan who was a sage in the Talmud"
+        },
+        {
+          "tokens": [
+            "2:30.258",
+            "2:30.259",
+            "2:30.260",
+            "2:30.261",
+            "2:30.262",
+            "2:30.263",
+            "2:30.264",
+            "2:30.265"
+          ],
+          "english": "who had looked into philosophy and was a Kabbalist, pious, great, and scrupulous in the commandments.",
+          "literal": "and had seen philosophy and was a Kabbalist pious great and scrupulous in the commandments"
+        },
+        {
+          "tokens": [
+            "2:30.266",
+            "2:30.267",
+            "2:30.268",
+            "2:30.269",
+            "2:30.270",
+            "2:30.271",
+            "2:30.272",
+            "2:30.273",
+            "2:30.274",
+            "2:30.275",
+            "2:30.276",
+            "2:30.277",
+            "2:30.278",
+            "2:30.279"
+          ],
+          "english": "And he said to him: 'How is it that you Kabbalists direct one blessing to one known sefirah and another blessing to another sefirah.",
+          "literal": "and said to him how you the Kabbalists direct in a blessing one to a sefirah known and in a blessing one to a sefirah another"
+        },
+        {
+          "tokens": [
+            "2:30.280",
+            "2:30.281",
+            "2:30.282",
+            "2:30.283",
+            "2:30.284",
+            "2:30.285",
+            "2:30.286",
+            "2:30.287"
+          ],
+          "english": "Furthermore, is it so that there are divinities for the sefirot? That a man should pray to them?'",
+          "literal": "and furthermore so is there divinities for sefirot that one should pray a man to them"
+        },
+        {
+          "tokens": [
+            "2:30.288",
+            "2:30.289",
+            "2:30.290",
+            "2:30.291",
+            "2:30.292",
+            "2:30.293",
+            "2:30.294",
+            "2:30.295",
+            "2:30.296",
+            "2:30.297"
+          ],
+          "english": "And they answered him: 'God forbid that the prayer be anything but to the Name, may He be blessed, the Cause of causes;",
+          "literal": "and they answered him far be it that there be the prayer but only to the Name, may He be blessed cause of the causes"
+        },
+        {
+          "tokens": [
+            "2:30.298",
+            "2:30.299",
+            "2:30.300",
+            "2:30.301",
+            "2:30.302",
+            "2:30.303",
+            "2:30.304",
+            "2:30.305",
+            "2:30.306",
+            "2:30.307",
+            "2:30.308",
+            "2:30.309",
+            "2:30.310"
+          ],
+          "english": "but one directs the thought to draw the flow to that sefirah which relates to the thing he asks for,",
+          "literal": "but that one directs the thought to draw the flow to that sefirah that relates to that matter which he asks for it"
+        },
+        {
+          "tokens": [
+            "2:30.311",
+            "2:30.312",
+            "2:30.313",
+            "2:30.314",
+            "2:30.315",
+            "2:30.316",
+            "2:30.317",
+            "2:30.318",
+            "2:30.319",
+            "2:30.320",
+            "2:30.321",
+            "2:30.322",
+            "2:30.323"
+          ],
+          "english": "just as you would say that in the blessing for the righteous one should direct to the sefirah called Chesed, which is the attribute of mercy, etc.'",
+          "literal": "as you would say that in the blessing of for the righteous one should direct to a sefirah called Chesed which is attribute of mercy etc."
+        },
+        {
+          "tokens": [
+            "2:30.324",
+            "2:30.325",
+            "2:30.326",
+            "2:30.327",
+            "2:30.328"
+          ],
+          "english": "And he brought him a parable on this.",
+          "literal": "and brought him a parable on this"
+        },
+        {
+          "tokens": [
+            "2:30.329",
+            "2:30.330",
+            "2:30.331",
+            "2:30.332",
+            "2:30.333"
+          ],
+          "english": "He answered and said: 'And behold, very good.'",
+          "literal": "he answered and said and behold good very"
+        },
+        {
+          "tokens": [
+            "2:30.334",
+            "2:30.335",
+            "2:30.336",
+            "2:30.337",
+            "2:30.338",
+            "2:30.339",
+            "2:30.340",
+            "2:30.341",
+            "2:30.342",
+            "2:30.343",
+            "2:30.344",
+            "2:30.345"
+          ],
+          "english": "And he said: 'I do not thrust myself into that wisdom, since I did not receive it from the mouth of a Kabbalist sage.",
+          "literal": "and said I am not thrusting myself into that wisdom since not I received it from the mouth of a sage Kabbalist"
+        },
+        {
+          "tokens": [
+            "2:30.346",
+            "2:30.347",
+            "2:30.348",
+            "2:30.349",
+            "2:30.350",
+            "2:30.351",
+            "2:30.352",
+            "2:30.353",
+            "2:30.354",
+            "2:30.355",
+            "2:30.356"
+          ],
+          "english": "And if I have seen commentaries on the secrets of the Ramban, they reveal a handbreadth and cover handbreadths.'",
+          "literal": "and if I saw in commentaries (lights) on the secrets of the Ramban they reveal a handbreadth and cover handbreadths"
+        },
+        {
+          "tokens": [
+            "2:30.357",
+            "2:30.358",
+            "2:30.359",
+            "2:30.360",
+            "2:30.361",
+            "2:30.362",
+            "2:30.363",
+            "2:30.364",
+            "2:30.365",
+            "2:30.366"
+          ],
+          "english": "And he said that a certain sage explained the Kabbalah not as the Ramban holds, and therefore he said",
+          "literal": "and said that a sage one explained the Kabbalah not as the view of the Ramban therefore said"
+        },
+        {
+          "tokens": [
+            "2:30.367",
+            "2:30.368",
+            "2:30.369",
+            "2:30.370",
+            "2:30.371",
+            "2:30.372"
+          ],
+          "english": "that the words of that sage shall be his alone.\"",
+          "literal": "that the words of the sage that shall be his alone"
+        },
+        {
+          "tokens": [
+            "2:30.373",
+            "2:30.374"
+          ],
+          "english": "And he ended his words.",
+          "literal": "and ended his words"
+        },
+        {
+          "tokens": [
+            "2:30.375",
+            "2:30.376",
+            "2:30.377",
+            "2:30.378",
+            "2:30.379",
+            "2:30.380",
+            "2:30.381",
+            "2:30.382",
+            "2:30.383",
+            "2:30.384",
+            "2:30.385"
+          ],
+          "english": "Therefore I say that one must not rely on such words, except from the mouth of a Kabbalist sage.",
+          "literal": "and therefore I say that not to rely on words such as these except from the mouth of a sage a Kabbalist"
+        }
+      ],
+      "severity": "error",
+      "reason": "The new English changed the phrases' wording and the quotation marks; the last phrase is split so that the closing formula stands outside the quotation."
+    },
+    {
+      "ref": "2:30",
+      "path": "literal",
+      "value": "and what you wrote that Ze'ir Anpin son of of Abba of Imma and he father of of effects that come after him and there is to him a sister his Nukva his all parable and allusion concerning the sefirot and what you wrote that no to worship any partzuf this is known on the lips of all the Kabbalists and not need for your warning and what you wrote in the name of the Rambam five they are the ones called heretics etc. who is he the one who says that there is not there God or that they are two or that He is possessor of a body or that not alone the One or that worships other-than-Him in order to be intercessor or the one who says that he found ingredients or the one who says that was created the world something from something God forbid but already rose up a grudge in your heart and you study the books the holy and take for yourself the matters as their plain sense and rely on your understanding and you forgot what that said wise one of the wise and to your understanding not lean and since already you informed to me that you understand resolve for me my doubts which I sent to you and which I about to send and what you wrote and you understood many and great sages of heart the withdrawers from it the early and the late God forbid that there is any sage withdraws from it and if there is one who withdraws from it he himself admits with mouth full that it is from lack of knowledge of it and what you wrote as wrote the Ribash and the Chavot Yair falsehood you speak about them and they two witnesses valid to testify against you that you speak lies and these are the words of the Ribash in brief that Rabbi Peretz ha-Kohen not was speak and not attach importance to those the sefirot also heard from his mouth that Rabbi Shimshon of Kinon used to say I pray according-to-the-view-of this the child that is to remove from the heart of the Kabbalists that they pray once to a sefirah one and once to a sefirah another also in the prayer of the eighteen there is for them in every one and one an intention toward a sefirah known and all this is a thing strange very in the eyes of anyone who is not a Kabbalist like them and they think that this the belief in duality and he heard one of the would-be philosophers speaking in disparagement of the Kabbalists and he would say the Christians believers in the Trinity and the Kabbalists believers in the tens and he asked the sage the elderly Don Yosef ibn Shushan who was a sage in the Talmud and had seen philosophy and was a Kabbalist pious great and scrupulous in the commandments and said to him how you the Kabbalists direct in a blessing one to a sefirah known and in a blessing one to a sefirah another and furthermore so is there divinities for sefirot that one should pray a man to them and they answered him far be it that there be the prayer but only to the Name, may He be blessed cause of the causes but that one directs the thought to draw the flow to that sefirah that relates to that matter which he asks for it as you would say that in the blessing of for the righteous one should direct to a sefirah called Chesed which is attribute of mercy etc. and brought him a parable on this he answered and said and behold good very and said I am not thrusting myself into that wisdom since not I received it from the mouth of a sage Kabbalist and if I saw in commentaries (lights) on the secrets of the Ramban they reveal a handbreadth and cover handbreadths and said that a sage one explained the Kabbalah not as the view of the Ramban therefore said that the words of the sage that shall be his alone and ended his words and therefore I say that not to rely on words such as these except from the mouth of a sage a Kabbalist",
+      "severity": "error",
+      "reason": "The literal line followed the old readings of סמנים, תוקע עצמי and לדעת, and read זולתו as 'another'."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.69.gloss",
+      "value": "ingredients",
+      "severity": "error",
+      "reason": "סמנים is 'ingredients, materials' (plural of סם, as in סמני הקטורת), not סימנים 'signs'. The view is that He found materials and made the world from them, the pairing of 'something from something' in the next clause."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.69.note",
+      "value": "סמנים: 'ingredients, materials' (the plural of סם, as in the ingredients of the incense). The one who says that He found materials and made the world from them. Not 'signs' (סימנים).",
+      "severity": "error",
+      "reason": "The old note gave 'signs' as the literal sense; the word is סמנים, not סימנים."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.336.gloss",
+      "value": "thrusting",
+      "severity": "error",
+      "reason": "תקע עצמו בדבר is to thrust oneself into a matter, to involve oneself; 'commit' means to pledge."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.336.note",
+      "value": "איני תוקע עצמי: an idiom, 'I do not thrust myself into' (I do not involve myself in) that wisdom.",
+      "severity": "error",
+      "reason": "The sense of the idiom."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.62.gloss",
+      "value": "another besides Him",
+      "severity": "style",
+      "reason": "זולתו is 'other than Him', with the pronoun suffix; the English now carries it."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.83.gloss",
+      "value": "study",
+      "severity": "style",
+      "reason": "מעיין is to study closely, not simply to read."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.87.note",
+      "value": "לך: the 'ethical dative' ('for yourself'); it has no separate English word in the reading line.",
+      "severity": "style",
+      "reason": "A word with no English counterpart in the reading line needs a note."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.170.note",
+      "value": "כי: 'that', as the Ribash's report opens: 'that Rabbi Peretz ha-Kohen did not speak ...'. Kept in the English.",
+      "severity": "style",
+      "reason": "The word was glossed but dropped from the English."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.191.gloss",
+      "value": "according to the understanding of",
+      "severity": "question",
+      "reason": "See the note."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.191.note",
+      "value": "לדעת: either the infinitive 'to know' (so the translator: 'I pray to know this child', which makes no sense) or the construct 'according to the understanding of', as in כדעת (2:30.363). The English takes the construct: R. Shimshon prays as this child prays, simply. PROPOSED RULING: לדעת before a noun is 'according to the understanding of'; the infinitive reading is in `readings`.",
+      "severity": "question",
+      "reason": "Decisions are silent on this phrase. 'To know this child' gives no sense; 'according to the understanding of this child' fits 'that is, to remove from the heart of the Kabbalists ...'."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.193.note",
+      "value": "התינוק: 'the child'; the phrase זה התינוק is not explained in the text, and the Ribash's pointing (this child) is not known. Kept as written.",
+      "severity": "style",
+      "reason": "Consistent with the new reading of לדעת."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.196.note",
+      "value": "להוציא מלב המקובלים שהם מתפללים: 'to remove from the heart of the Kabbalists [the notion] that they pray'. 'The idea' is supplied in the English because the Hebrew leaves the object of להוציא to the ש-clause; 'heart' is the collective singular.",
+      "severity": "style",
+      "reason": "An English word with no Hebrew counterpart must be marked."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.232.note",
+      "value": "וששמע: the ש is 'that'. It continues the Ribash's report ('that Rabbi Peretz ... heard'); the English begins a new sentence.",
+      "severity": "style",
+      "reason": "The ש was not accounted for."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.235.note",
+      "value": "המתפלספים: the hitpael participle of a denominative from 'philosopher', like מתחסד or מתחכם: 'those who play the philosopher'. 'Would-be philosophers' keeps the form's disparaging tone, which is the Ribash's, and adds no word of the translator's.",
+      "severity": "style",
+      "reason": "Decision recorded: 'would-be philosophers' stands."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.241.note",
+      "value": "הנצרים (Notzrim) is the older spelling of הנוצרים, 'the Christians'; the decisions fix 'the Christians' and the spelling goes in `apparatus`.",
+      "severity": "style",
+      "reason": "Decision recorded: the spelling variant is not a different word."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.246.note",
+      "value": "העשיריות: the plural of עשיריה, 'a group of ten', set against השלוש, 'the three, the Trinity'; 'the tens' keeps the literal plural. The ten sefirot are meant.",
+      "severity": "style",
+      "reason": "Decision recorded: 'the tens' stands; the note says who is meant."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.314.note",
+      "value": "על הצדיקים: the blessing is named by its opening words, 'On the righteous' (the 'Al ha-tzaddikim' blessing of the Eighteen).",
+      "severity": "style",
+      "reason": "A learner needs to know it is a title."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.346.note",
+      "value": "ואם: 'and if'. The main clause (הם מגלים טפח ...) follows a full stop in the Hebrew; the English joins it with a comma, as one sentence of the same speech. PROPOSED RULING: where a conditional's main clause stands after the Hebrew's full stop, join with a comma and say so in this note.",
+      "severity": "question",
+      "reason": "The checklist keeps a Hebrew full stop; here the English cannot, since 'And if I have seen ... .' has no main clause."
+    },
+    {
+      "ref": "2:30",
+      "path": "token:2:30.373.note",
+      "value": "וחתם דבריו: 'and he ended his words', the respondent's closing formula (like עכ\"ל); it follows the Ribash's last word (לבדו) and stands outside the quotation marks. PROPOSED RULING: a closing formula (וחתם דבריו, עכ\"ל, ע\"כ) stands after the closing mark.",
+      "severity": "question",
+      "reason": "Decisions say the formulas carry the boundaries but not on which side of the mark they fall."
+    },
+    {
+      "ref": "2:30",
+      "path": "grammar",
+      "value": [
+        "This paragraph is the respondent's letter, answering the questioner in the second person. Each point opens with ומה שכתבת ('as for what you wrote') and is answered in turn.",
+        "The Ribash passage opens with the formula וז\"ל and is given in double quotation marks; it closes at לבדו, and וחתם דבריו ('and he ended his words') is the respondent's closing formula outside the marks. The speakers inside it are in single quotation marks.",
+        "ואל בינתך אל תשען (Prov 3:5) is a verse quoted as a saying. תשען is the imperfect with אל, a negative command: 'do not lean'.",
+        "שאין לעבוד is impersonal: 'one may not worship', rendered 'that no partzuf is to be worshipped'.",
+        "היה with the participle (היה אומר) gives a habitual past: 'used to say'.",
+        "לדעת זה התינוק can be read as an infinitive ('to know this child') or as a construct ('according to the understanding of this child'); the English takes the construct (see `readings`)."
+      ],
+      "severity": "style",
+      "reason": "The note on the quotation's close was changed, and the last note records the one open reading."
+    },
+    {
+      "ref": "2:30",
+      "path": "note",
+      "value": "The paragraph is in the respondent's voice. The quotation from the Ribash opens at וז\"ל and closes at לו לבדו; וחתם דבריו is the respondent's closing formula and stands outside the marks. 'The Christians' renders הנצרים and 'something from something' renders יש מיש, both by the ruling. 'Ingredients' renders סמנים, the materials of the world's making. The Kabbalists' answer in the story is kept as Don Yosef's account gives it.",
+      "severity": "style",
+      "reason": "The old note put the closing formula inside the quotation."
+    },
+    {
+      "ref": "2:30",
+      "path": "apparatus",
+      "value": [
+        "Base text from Wikisource; the 1931 scan is not yet collated (Q2).",
+        "Prov 3:5: 'ואל בינתך אל תשען' ('and do not lean on your understanding'), quoted as the sage's words.",
+        "Gen 1:31: 'והנה טוב מאד' ('and behold, it was very good') is echoed in the answer 'והנה טוב מאד'.",
+        "Exod 28:3: 'חכמי לב' ('the wise of heart') is echoed in 'חכמי לב הפורשים ממנה'.",
+        "The text writes הנצרים (Notzrim) for the Christians; the decisions fix 'the Christians'."
+      ],
+      "severity": "style",
+      "reason": "Gen 1:31 and Exod 28:3 are verifiable echoes; Prov 3:5 had 'own' added."
+    },
+    {
+      "ref": "2:30",
+      "path": "readings",
+      "value": [
+        {
+          "tokens": [
+            "2:30.191",
+            "2:30.192",
+            "2:30.193"
+          ],
+          "english": "to know this child",
+          "source": "plain infinitive",
+          "note": "לדעת as the infinitive 'to know', with זה התינוק as its object; the English reads the construct, 'according to the understanding of this child'."
+        },
+        {
+          "tokens": [
+            "2:30.235"
+          ],
+          "english": "the philosophizers",
+          "source": "literal participle",
+          "note": "המתפלספים without the nuance of pretence that the hitpael form can carry."
+        }
+      ],
+      "severity": "style",
+      "reason": "Decisions: an unclear phrase takes its best reading by the grammar and the alternative goes in readings."
+    }
+  ],
+  "verdicts": []
+}
