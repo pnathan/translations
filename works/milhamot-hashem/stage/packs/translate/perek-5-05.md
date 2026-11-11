@@ -472,6 +472,13 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
+- The author's own section labels (ו), ז) at a section's head, numbered through
+  the book): "§6."; list markers inside a sentence stay "1)", "2)".
+- אחד ... ואחד in "one ... and one" about two kinds of case: "alike" ("civil
+  cases and capital cases alike").
+- ואין צריך לומר: "needless to say"; עבודה (worship) is never "service".
+- "World to Come" in the author's mouth: "world to come" (as in Avot); the Hebrew
+  for בחיי alone is "Bachya".
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:

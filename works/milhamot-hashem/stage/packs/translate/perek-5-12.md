@@ -498,7 +498,12 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
   segment is enough until the 1931 scan is collated.
 - קורין אל: "call upon"; חכמי הקבלה: "sages of Kabbalah"; גבורה as a name of God:
   "the Power".
-
+- The author's own section labels (ו), ז) at a section's head, numbered through
+  the book): "§6."; list markers inside a sentence stay "1)", "2)".
+- ואין צריך לומר: "needless to say"; עבודה (worship) is never "service".
+- אורה זו תורה (the exegetic formula, Esth 8:16): "'orah' means Torah".
+- "World to Come" in the author's mouth: "world to come" (as in Avot); the Hebrew
+  for בחיי alone is "Bachya".
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:
