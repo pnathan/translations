@@ -1,0 +1,814 @@
+{
+ "unit": "perek-2-09",
+ "model": "sonnet",
+ "summary": "The unit is mostly faithful, but 2:17 has several real faults: המזבח is rendered 'at the altar' (twice, and in the learner note) though it is the participle 'one who sacrifices'; פ' ד' מיתות is read as 'chapter four' with the numeral doubled, where it is the chapter's title; לעבדו is 'serve' where the argument is worship; ולא שמעו and the Nedarim perfects have the wrong voice and tense; והגשת מנחה is 'meal offering' against the author's own 'gift'; and the grammar note wrongly says the Mishnah's list ends with 'even not in the usual way'. 2:18 is sound except for a full stop and lower-case 'namely' for a Hebrew run-on, and two allusion citations that are not the exact verses. No commentary or morphology applies, so verdicts is empty.",
+ "patches": [
+  {
+   "ref": "2:17",
+   "path": "english",
+   "value": "And greater than this is what they also do: they sacrifice sheep and cattle before a king or a minister. It is one of the inner worships. Whoever does it for one of the kinds of idolatry, even though its worship is not in that way, is liable, as we learned in Sanhedrin, in the chapter “Four Death Penalties”: “The worshipper of idolatry: one who worships, and one who sacrifices, and one who burns incense, and one who pours libation, and one who bows down, etc.” And we say in the Gemara: On this: “What is ‘one who worships’?” Rabbi Yirmiyah said: “This is what it means: one who worships in the usual way, and one who sacrifices, and one who burns incense, and one who pours libation, and one who bows down, even not in the usual way.” And so all the decisors ruled that for the four worships one is liable even if not in the usual way. And this practice is still observed to this day among our brethren, the people of the villages and the towns: that if one of them had an enemy who seeks his harm, he brings a lamb and slaughters it before his minister, to save him from his enemy. And Scripture also says: “Offer it now to your governor, etc.” Our forebears also had this rule: when the king came to the province, they would sacrifice an ox before him, and they would take the price of the ox from the communal chest. And they heard of no one who doubted this on account of idolatry, since one does not intend to worship him by this or to accept him upon oneself as a god; it is only a sign of honor that one makes to him. Our father Jacob, peace be upon him, said to his sons: “Take of the choicest of the land's produce in your vessels, and bring down to the man a gift,” and it is said: “And they brought him the gift that was in their hands to the house, and bowed down to him, faces, etc.” And concerning Saul, the LORD's chosen one, it is said: “And sons of Belial said, ‘How can this one save us?’ and did not bring him a gift.” And in Nedarim we learned: “One who vowed by an offering and said, ‘I vowed only by the offerings of kings.’” So it is clear that bowing down, sacrifice, presenting a gift, and all four inner worships are permitted to do for a man who is not worshipped like Haman; but if he is worshipped like Haman it is forbidden, for Mordechai refrained from bowing down to Haman, because he made himself an object of idolatry.",
+   "severity": "error",
+   "reason": "המזבח is the participle 'one who sacrifices', not 'the altar' ('at the altar' is added, twice in the quotations); פ' ד' מיתות is the chapter's title 'Four Death Penalties', not 'chapter four'; ולא שמעו is active ('they heard of no one'), not 'no one was heard'; לעבדו here is 'to worship him' (the whole argument is whether this is avodah zarah); נדר ... ואמר are perfects ('vowed', 'said'), not presents; הגשת מנחה follows the minchah-as-gift of the two verses just cited, and the translator's own note says the word is 'gift' above; נמנע is 'refrained', as the token gloss has it; החק is 'law/rule' (חק), not 'custom' (מנהג), and ונוטלים is a participle ('would take'); the word order of the first sentence put the objects after 'a minister'."
+  },
+  {
+   "ref": "2:17",
+   "path": "literal",
+   "value": "and-great from-this that-they-do also so to-sacrifice before king or minister sheep and-cattle and-it of-worships of-the-inside that-the-one-who-does for-one of-kinds-of idolatry even though-not its-worship in-that liable as-we-learned in-Sanhedrin chapter four deaths the-worshipper-of idolatry one who-worships and-one the-sacrificer and-one the-burner and-one the-pourer and-one the-bower etc and-we-say in-the-Gemara on-this what-is one who-worships said Rabbi Yirmiyah this-is what-it-means one who-worships in-its-way and-one the-sacrificer and-one the-burner and-one the-pourer and-one the-bower even not in-its-way and-so all the-decisors ruled that-for the-four worships liable-on-them even not in-its-way and-this practised until the-day among our-brethren the-people-of the-villages and-the-towns that-if to-one of-them was enemy who-seeks his-harm he brings lamb and-slaughters-it before the-minister his to-save-him from-his-enemy and-Scripture also says offer-it now to-your-governor etc our-forebears had upon-them also the-law this when came the-king to the-province to-sacrifice before-him ox and-they-take the-bloods-of-the-ox from-chest of-community and-not they-heard any doubter in-this on-account-of idolatry since not intends to-worship-him by-this and-to-accept-him upon-him as-a-god only sign of-honor it making to-him and-Jacob our-father peace-upon-him said to-his-sons take the-choicest of-the-land in-your-vessels and-bring-down to-the-man gift and-it-is-said and-they-brought to-him the-gift that in-their-hands to-the-house and-bowed to-him faces etc and-concerning-Saul chosen of-the-LORD it-is-said and-sons-of Belial said how will-save-us this and-not brought to-him gift and-in-Nedarim we-learned one-who-vowed by-offering and-said not I-vowed only by-offerings of-kings so-clear that-bowing and-sacrifice and-presenting gift and-all the-four worships inner are-permitted to-do-them for-man who-is-not worshipped like-Haman but-if he is-worshipped like-Haman forbidden for refrained Mordechai to-bow-down to-Haman because he-made himself an-object-of idolatry",
+   "severity": "error",
+   "reason": "Literal line follows the corrected glosses: 'the-altar' for המזבח, 'to-serve-him', 'one vows ... and-says', 'meal-offering'."
+  },
+  {
+   "ref": "2:17",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:17.1",
+      "2:17.2",
+      "2:17.3",
+      "2:17.4",
+      "2:17.5",
+      "2:17.6",
+      "2:17.7",
+      "2:17.8",
+      "2:17.9",
+      "2:17.10",
+      "2:17.11",
+      "2:17.12"
+     ],
+     "english": "And greater than this is what they also do: they sacrifice sheep and cattle before a king or a minister.",
+     "literal": "and-great from-this that-they-do also so to-sacrifice before king or minister sheep and-cattle"
+    },
+    {
+     "tokens": [
+      "2:17.13",
+      "2:17.14",
+      "2:17.15"
+     ],
+     "english": "It is one of the inner worships.",
+     "literal": "and-it of-worships of-the-inside"
+    },
+    {
+     "tokens": [
+      "2:17.16",
+      "2:17.17",
+      "2:17.18",
+      "2:17.19",
+      "2:17.20",
+      "2:17.21",
+      "2:17.22",
+      "2:17.23",
+      "2:17.24"
+     ],
+     "english": "Whoever does it for one of the kinds of idolatry, even though its worship is not in that way, is liable,",
+     "literal": "that-the-one-who-does for-one of-kinds-of idolatry even though-not its-worship in-that liable"
+    },
+    {
+     "tokens": [
+      "2:17.25",
+      "2:17.26",
+      "2:17.27",
+      "2:17.28",
+      "2:17.29"
+     ],
+     "english": "as we learned in Sanhedrin, in the chapter “Four Death Penalties”:",
+     "literal": "as-we-learned in-Sanhedrin chapter four deaths"
+    },
+    {
+     "tokens": [
+      "2:17.30",
+      "2:17.31",
+      "2:17.32",
+      "2:17.33",
+      "2:17.34",
+      "2:17.35",
+      "2:17.36",
+      "2:17.37",
+      "2:17.38",
+      "2:17.39",
+      "2:17.40",
+      "2:17.41",
+      "2:17.42"
+     ],
+     "english": "“The worshipper of idolatry: one who worships, and one who sacrifices, and one who burns incense, and one who pours libation, and one who bows down, etc.”",
+     "literal": "the-worshipper-of idolatry one who-worships and-one the-sacrificer and-one the-burner and-one the-pourer and-one the-bower etc"
+    },
+    {
+     "tokens": [
+      "2:17.43",
+      "2:17.44"
+     ],
+     "english": "And we say in the Gemara:",
+     "literal": "and-we-say in-the-Gemara"
+    },
+    {
+     "tokens": [
+      "2:17.45",
+      "2:17.46",
+      "2:17.47",
+      "2:17.48"
+     ],
+     "english": "On this: “What is ‘one who worships’?”",
+     "literal": "on-this what-is one who-worships"
+    },
+    {
+     "tokens": [
+      "2:17.49",
+      "2:17.50",
+      "2:17.51",
+      "2:17.52",
+      "2:17.53"
+     ],
+     "english": "Rabbi Yirmiyah said: “This is what it means:",
+     "literal": "said Rabbi Yirmiyah this-is what-it-means"
+    },
+    {
+     "tokens": [
+      "2:17.54",
+      "2:17.55",
+      "2:17.56",
+      "2:17.57",
+      "2:17.58",
+      "2:17.59",
+      "2:17.60",
+      "2:17.61",
+      "2:17.62",
+      "2:17.63",
+      "2:17.64",
+      "2:17.65",
+      "2:17.66",
+      "2:17.67"
+     ],
+     "english": "one who worships in the usual way, and one who sacrifices, and one who burns incense, and one who pours libation, and one who bows down, even not in the usual way.”",
+     "literal": "one who-worships in-its-way and-one the-sacrificer and-one the-burner and-one the-pourer and-one the-bower even not in-its-way"
+    },
+    {
+     "tokens": [
+      "2:17.68",
+      "2:17.69",
+      "2:17.70",
+      "2:17.71",
+      "2:17.72",
+      "2:17.73",
+      "2:17.74",
+      "2:17.75",
+      "2:17.76",
+      "2:17.77",
+      "2:17.78"
+     ],
+     "english": "And so all the decisors ruled that for the four worships one is liable even if not in the usual way.",
+     "literal": "and-so all the-decisors ruled that-for the-four worships liable-on-them even not in-its-way"
+    },
+    {
+     "tokens": [
+      "2:17.79",
+      "2:17.80",
+      "2:17.81",
+      "2:17.82",
+      "2:17.83",
+      "2:17.84",
+      "2:17.85",
+      "2:17.86",
+      "2:17.87",
+      "2:17.88"
+     ],
+     "english": "And this practice is still observed to this day among our brethren, the people of the villages and the towns:",
+     "literal": "and-this practised until the-day among our-brethren the-people-of the-villages and-the-towns"
+    },
+    {
+     "tokens": [
+      "2:17.89",
+      "2:17.90",
+      "2:17.91",
+      "2:17.92",
+      "2:17.93",
+      "2:17.94",
+      "2:17.95",
+      "2:17.96",
+      "2:17.97",
+      "2:17.98",
+      "2:17.99",
+      "2:17.100",
+      "2:17.101",
+      "2:17.102",
+      "2:17.103",
+      "2:17.104",
+      "2:17.105"
+     ],
+     "english": "that if one of them had an enemy who seeks his harm, he brings a lamb and slaughters it before his minister, to save him from his enemy.",
+     "literal": "that-if to-one of-them was enemy who-seeks his-harm he brings lamb and-slaughters-it before the-minister his to-save-him from-his-enemy"
+    },
+    {
+     "tokens": [
+      "2:17.106",
+      "2:17.107",
+      "2:17.108",
+      "2:17.109",
+      "2:17.110",
+      "2:17.111",
+      "2:17.112"
+     ],
+     "english": "And Scripture also says: “Offer it now to your governor, etc.”",
+     "literal": "and-Scripture also says offer-it now to-your-governor etc"
+    },
+    {
+     "tokens": [
+      "2:17.113",
+      "2:17.114",
+      "2:17.115",
+      "2:17.116",
+      "2:17.117",
+      "2:17.118",
+      "2:17.119",
+      "2:17.120",
+      "2:17.121",
+      "2:17.122",
+      "2:17.123",
+      "2:17.124",
+      "2:17.125"
+     ],
+     "english": "Our forebears also had this rule: when the king came to the province, they would sacrifice an ox before him,",
+     "literal": "our-forebears had upon-them also the-law this when came the-king to the-province to-sacrifice before-him ox"
+    },
+    {
+     "tokens": [
+      "2:17.126",
+      "2:17.127",
+      "2:17.128",
+      "2:17.129",
+      "2:17.130",
+      "2:17.131",
+      "2:17.132"
+     ],
+     "english": "and they would take the price of the ox from the communal chest.",
+     "literal": "and-they-take the-bloods-of-the-ox from-chest of-community"
+    },
+    {
+     "tokens": [
+      "2:17.133",
+      "2:17.134",
+      "2:17.135",
+      "2:17.136",
+      "2:17.137",
+      "2:17.138",
+      "2:17.139"
+     ],
+     "english": "And they heard of no one who doubted this on account of idolatry,",
+     "literal": "and-not they-heard any doubter in-this on-account-of idolatry"
+    },
+    {
+     "tokens": [
+      "2:17.140",
+      "2:17.141",
+      "2:17.142",
+      "2:17.143",
+      "2:17.144",
+      "2:17.145",
+      "2:17.146",
+      "2:17.147"
+     ],
+     "english": "since one does not intend to worship him by this or to accept him upon oneself as a god;",
+     "literal": "since not intends to-worship-him by-this and-to-accept-him upon-him as-a-god"
+    },
+    {
+     "tokens": [
+      "2:17.148",
+      "2:17.149",
+      "2:17.150",
+      "2:17.151",
+      "2:17.152",
+      "2:17.153"
+     ],
+     "english": "it is only a sign of honor that one makes to him.",
+     "literal": "only sign of-honor it making to-him"
+    },
+    {
+     "tokens": [
+      "2:17.154",
+      "2:17.155",
+      "2:17.156",
+      "2:17.157",
+      "2:17.158",
+      "2:17.159",
+      "2:17.160",
+      "2:17.161",
+      "2:17.162",
+      "2:17.163",
+      "2:17.164",
+      "2:17.165",
+      "2:17.166"
+     ],
+     "english": "Our father Jacob, peace be upon him, said to his sons: “Take of the choicest of the land's produce in your vessels, and bring down to the man a gift,” and it is said:",
+     "literal": "and-Jacob our-father peace-upon-him said to-his-sons take the-choicest of-the-land in-your-vessels and-bring-down to-the-man gift and-it-is-said"
+    },
+    {
+     "tokens": [
+      "2:17.167",
+      "2:17.168",
+      "2:17.169",
+      "2:17.170",
+      "2:17.171",
+      "2:17.172",
+      "2:17.173",
+      "2:17.174",
+      "2:17.175",
+      "2:17.176",
+      "2:17.177"
+     ],
+     "english": "“And they brought him the gift that was in their hands to the house, and bowed down to him, faces, etc.”",
+     "literal": "and-they-brought to-him the-gift that in-their-hands to-the-house and-bowed to-him faces etc"
+    },
+    {
+     "tokens": [
+      "2:17.178",
+      "2:17.179",
+      "2:17.180",
+      "2:17.181"
+     ],
+     "english": "And concerning Saul, the LORD's chosen one, it is said:",
+     "literal": "and-concerning-Saul chosen of-the-LORD it-is-said"
+    },
+    {
+     "tokens": [
+      "2:17.182",
+      "2:17.183",
+      "2:17.184",
+      "2:17.185",
+      "2:17.186",
+      "2:17.187",
+      "2:17.188",
+      "2:17.189",
+      "2:17.190",
+      "2:17.191"
+     ],
+     "english": "“And sons of Belial said, ‘How can this one save us?’ and did not bring him a gift.”",
+     "literal": "and-sons-of Belial said how will-save-us this and-not brought to-him gift"
+    },
+    {
+     "tokens": [
+      "2:17.192",
+      "2:17.193",
+      "2:17.194",
+      "2:17.195",
+      "2:17.196",
+      "2:17.197",
+      "2:17.198",
+      "2:17.199",
+      "2:17.200",
+      "2:17.201"
+     ],
+     "english": "And in Nedarim we learned: “One who vowed by an offering and said, ‘I vowed only by the offerings of kings.’”",
+     "literal": "and-in-Nedarim we-learned one-who-vowed by-offering and-said not I-vowed only by-offerings of-kings"
+    },
+    {
+     "tokens": [
+      "2:17.202",
+      "2:17.203",
+      "2:17.204",
+      "2:17.205",
+      "2:17.206",
+      "2:17.207",
+      "2:17.208",
+      "2:17.209",
+      "2:17.210",
+      "2:17.211",
+      "2:17.212"
+     ],
+     "english": "So it is clear that bowing down, sacrifice, presenting a gift, and all four inner worships are permitted to do",
+     "literal": "so-clear that-bowing and-sacrifice and-presenting gift and-all the-four worships inner are-permitted to-do-them"
+    },
+    {
+     "tokens": [
+      "2:17.213",
+      "2:17.214",
+      "2:17.215",
+      "2:17.216"
+     ],
+     "english": "for a man who is not worshipped like Haman;",
+     "literal": "for-man who-is-not worshipped like-Haman"
+    },
+    {
+     "tokens": [
+      "2:17.217",
+      "2:17.218",
+      "2:17.219",
+      "2:17.220",
+      "2:17.221"
+     ],
+     "english": "but if he is worshipped like Haman it is forbidden,",
+     "literal": "but-if he is-worshipped like-Haman forbidden"
+    },
+    {
+     "tokens": [
+      "2:17.222",
+      "2:17.223",
+      "2:17.224",
+      "2:17.225",
+      "2:17.226",
+      "2:17.227",
+      "2:17.228",
+      "2:17.229",
+      "2:17.230"
+     ],
+     "english": "for Mordechai refrained from bowing down to Haman, because he made himself an object of idolatry.",
+     "literal": "for refrained Mordechai to-bow-down to-Haman because he-made himself an-object-of idolatry"
+    }
+   ],
+   "severity": "error",
+   "reason": "The English of the segment changed (see english); the affected phrases are updated, and every phrase still occurs in the English."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.35.gloss",
+   "value": "who sacrifices",
+   "severity": "error",
+   "reason": "המזבח is the participle of זבח, parallel to המקטר and המנסך; it is not 'the altar'."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.35.note",
+   "value": "המזבח is ה + the participle מזבח, 'the one who sacrifices' (like המקטר, המנסך); it is not מזבח 'altar'. The Mishnah has 'one who sacrifices' with no 'at the altar'.",
+   "severity": "error",
+   "reason": "The note states the wrong sense and an added word."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.58.gloss",
+   "value": "who sacrifices",
+   "severity": "error",
+   "reason": "Same word as 2:17.35; 'at the altar' is not in the Hebrew."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.28.note",
+   "value": "ד' מיתות is read as ארבע מיתות, 'Four Death Penalties', the title of the chapter of Sanhedrin; the ד' is not a chapter number.",
+   "severity": "error",
+   "reason": "פ' ד' מיתות cannot be 'chapter four, death penalties' and then 'the four death penalties' again; the English doubled the numeral."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.134.gloss",
+   "value": "they heard",
+   "severity": "error",
+   "reason": "שמעו is an active perfect, third plural; the gloss 'was heard' is passive."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.143.gloss",
+   "value": "to worship him",
+   "severity": "error",
+   "reason": "לעבדו: the verb of avodah zarah in the argument; the decisions reserve 'serve' for a human master where no worship is in question, and here worship is exactly the question."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.126.gloss",
+   "value": "and they take",
+   "severity": "style",
+   "reason": "ונוטלים is a participle, not a perfect (checklist 4); the English 'would take' carries its habitual sense."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.117.gloss",
+   "value": "the law",
+   "severity": "style",
+   "reason": "החק is 'statute, law'; מנהג would be 'custom'."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.194.gloss",
+   "value": "one vowed",
+   "severity": "error",
+   "reason": "נדר is a perfect."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.196.gloss",
+   "value": "and said",
+   "severity": "error",
+   "reason": "ואמר is a perfect (the Mishnah's narrative of a vower), not a present."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.205.gloss",
+   "value": "and presenting",
+   "severity": "error",
+   "reason": "והגשת is a noun, 'presenting'; the English had 'bringing'."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.206.gloss",
+   "value": "a gift",
+   "severity": "error",
+   "reason": "The sentence draws its conclusion from Jacob's gift and Saul's missing gift; the same word is 'gift' in both verses."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.206.note",
+   "value": "minchah: 'gift', as in the two verses cited just above (Gen 43:11, 1 Sam 10:27). It is not the cultic meal offering, which is not among the four inner worships.",
+   "severity": "question",
+   "reason": "Proposed ruling: מנחה where the author argues from Gen 43 and 1 Sam 10 is 'gift' throughout the paragraph; the decisions are silent on מנחה."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.147.note",
+   "value": "be-eloah (singular): 'as a god', because the object is a human king and the verb is whether he is made a deity. By the ruling on אלוה in Job / Deut 32:15 the alternative is 'as God'.",
+   "severity": "question",
+   "reason": "The decisions say אלוה singular is 'God' and that in a doubtful case 'God' is used with the alternative in a token note; but 'god(s)' is allowed where the author calls an object of worship a god in his own voice. Proposed ruling: 'a god' where a human is the object (his own usage here), 'God' elsewhere."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.79.gloss",
+   "value": "and the matter",
+   "severity": "style",
+   "reason": "ודבר is 'and the matter/thing'; 'and this' duplicates the gloss of the next token."
+  },
+  {
+   "ref": "2:17",
+   "path": "token:2:17.80.gloss",
+   "value": "this",
+   "severity": "style",
+   "reason": "זה = 'this' (the next word), unchanged; listed for the pair."
+  },
+  {
+   "ref": "2:17",
+   "path": "grammar",
+   "value": [
+    "שעושים לזבוח: the relative clause שעושים ('that they do') governs the infinitive לזבוח ('to sacrifice'); the object is 'sheep and cattle' and the place is 'before a king or a minister'. והיא refers back to that act, and עבודות פנים is the Mishnah's term for the inner worships.",
+    "Bavli Aramaic: ואמרינן ('and we say'), עלה ('on it', the Mishnah), מאי ('what is'), הכי קאמר ('this is what he means'); the Gemara asks what the Mishnah's first 'one who worships' means, and Rabbi Yirmiyah answers.",
+    "Mishnaic Hebrew: the Mishnah's list has four participles with ה: העובד, המזבח ('one who sacrifices'), המקטר ('one who burns incense'), המנסך ('one who pours libation'), and המשתחוה. The Mishnah quotation is cut off by וכו'; the words ואפי' שלא כדרכה ('even not in the usual way') belong to Rabbi Yirmiyah's explanation, and the author repeats them in his own ruling.",
+    "בסנהדרין פ' ד' מיתות: ד' stands for ארבע, so the words are the title of the chapter, 'Four Death Penalties'; the English does not turn it into 'chapter four'.",
+    "נעבד (passive, 'is worshipped'), נמנע ('refrained') and the adjective אסור ('forbidden') carry the last sentences; the English keeps the passive, and the participle ונוטלים ('and they take') is habitual.",
+    "שאם היה לאחד מהם אויב ... הוא מביא: a past verb in the conditional clause and a present verb in the main clause, with a habitual sense: 'if one of them had an enemy, he brings'."
+   ],
+   "severity": "error",
+   "reason": "The note that the Mishnah's list closes with 'even not in the usual way' is false: only Rabbi Yirmiyah's list does. The Aramaic of the Gemara is not marked, and the notes on המזבח and the chapter title are missing; the first two notes are merged to stay within six."
+  },
+  {
+   "ref": "2:17",
+   "path": "apparatus",
+   "value": [
+    "Mal 1:8: 'הקריבהו נא לפחתך' (Offer it now to your governor), quoted by the author with וכו'.",
+    "Gen 43:11: 'קחו מזמרת הארץ בכליכם והורידו לאיש מנחה' (Take of the choicest of the land's produce in your vessels and bring down to the man a gift).",
+    "Gen 43:26: 'ויביאו לו את המנחה אשר בידם הביתה'; the verse continues 'וישתחוו לו ארצה'. The author's 'וישתחו לו אפים וכו'' has the wording of Gen 42:6 ('וישתחוו לו אפים ארצה'); the English follows his wording.",
+    "1 Sam 10:27: 'ובני בליעל אמרו מה יושיענו זה ולא הביאו לו מנחה'; the verse has an extra clause, 'ויבזהו', before 'ולא הביאו' that the author omits, and the English omits it too.",
+    "'בחיר ה'' for Saul echoes 2 Sam 21:6 ('Saul, the chosen of the LORD').",
+    "Esth 3:2: Mordechai's refusal to bow to Haman, given by the author in his own words.",
+    "The Mishnah of Sanhedrin is cited as 'פ' ד' מיתות', read as the chapter's title 'Four Death Penalties'; the reference is kept as written and none is added.",
+    "The quotation from Nedarim gives no reference, and none is added."
+   ],
+   "severity": "error",
+   "reason": "The note on the chapter reference changes with the reading of פ' ד' מיתות; Gen 43:26 does not contain 'אפים' (its source for the author's wording is Gen 42:6); 'בחיר ה'' is an allusion to 2 Sam 21:6 not listed."
+  },
+  {
+   "ref": "2:17",
+   "path": "note",
+   "value": "The Mishnah's list and Rabbi Yirmiyah's gloss are given as the author quotes them; המזבח is 'one who sacrifices'. 'Idolatry' and 'inner worships' follow the fixed terms. פ' ד' מיתות is read as the chapter's title, 'Four Death Penalties' (ד' = ארבע), not as 'chapter four'.",
+   "severity": "question",
+   "reason": "Proposed ruling: where פ' is followed by ד' and the name of the subject, read the chapter by its title and not by number; the decisions' rule on references (do not complete, convert or correct) is kept, since this changes no reference but reads the one given."
+  },
+  {
+   "ref": "2:17",
+   "path": "readings",
+   "value": [
+    {
+     "tokens": [
+      "2:17.27",
+      "2:17.28",
+      "2:17.29"
+     ],
+     "english": "chapter four, death penalties",
+     "source": "plain numeral",
+     "note": "The letters could be read as the numeral 4 followed by מיתות; the English reads ד' as ארבע, the chapter's title."
+    },
+    {
+     "tokens": [
+      "2:17.143"
+     ],
+     "english": "to serve him",
+     "source": "plain sense of עבד",
+     "note": "עבד also means serve a master; here, with ולקבלו עליו באלוה, it is the worship due to a god."
+    },
+    {
+     "tokens": [
+      "2:17.147"
+     ],
+     "english": "as God",
+     "source": "ruling on אלוה",
+     "note": "The ruling on singular אלוה would give 'God'; kept as 'a god' because the king is the object."
+    }
+   ],
+   "severity": "style",
+   "reason": "Readings the Hebrew allows and the pack's decisions bear on."
+  },
+  {
+   "ref": "2:18",
+   "path": "english",
+   "value": "And in the book Teshu'at Yisrael by Rabbi Menasseh ben Israel he wrote, and these are his words: “I have been required to make known the customs of honor and submission with which the Jews honor the Torah scroll, for our enemies, who do not know what this is, provoke us, saying that we are worshippers of idols, and that we bow down to a wooden ark and to the sheets of skin within it. Therefore I shall set out my reply in proper order, as the good hand of the LORD is upon me, namely, every man of Israel will see himself obliged to rise and stand at the removal of a Torah scroll from the holy ark until it is placed on the reading platform, to show it to all the people and to read from it. And we find that they did so in the days of Nehemiah, as it is written: ‘And when he opened, all the people stood.’ And this they do out of the fear and honor with which they honor the words of the living God written in it, and for that same reason they bow their heads when carrying it from the ark to the reading platform, and not because of any other of the reasons that we shall mention.”",
+   "severity": "error",
+   "reason": "The Hebrew has no full stop before והוא; the English put one and began a sentence with lower-case 'namely' (checklist 1 and 5)."
+  },
+  {
+   "ref": "2:18",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:18.1",
+      "2:18.2",
+      "2:18.3",
+      "2:18.4",
+      "2:18.5",
+      "2:18.6",
+      "2:18.7",
+      "2:18.8",
+      "2:18.9"
+     ],
+     "english": "And in the book Teshu'at Yisrael by Rabbi Menasseh ben Israel he wrote, and these are his words:",
+     "literal": "and-in-the-book Teshu'at Yisrael by-Rabbi Menasseh son-of Israel wrote and-these-his-words"
+    },
+    {
+     "tokens": [
+      "2:18.10",
+      "2:18.11",
+      "2:18.12",
+      "2:18.13",
+      "2:18.14",
+      "2:18.15",
+      "2:18.16",
+      "2:18.17",
+      "2:18.18"
+     ],
+     "english": "“I have been required to make known the customs of honor and submission with which the Jews honor",
+     "literal": "I-have-been-required to-make-known customs-of honor and-submission with-which-they-honor with-them the-Jews"
+    },
+    {
+     "tokens": [
+      "2:18.19",
+      "2:18.20",
+      "2:18.21"
+     ],
+     "english": "the Torah scroll,",
+     "literal": "object scroll-of the-Torah"
+    },
+    {
+     "tokens": [
+      "2:18.22",
+      "2:18.23",
+      "2:18.24",
+      "2:18.25",
+      "2:18.26",
+      "2:18.27",
+      "2:18.28",
+      "2:18.29",
+      "2:18.30",
+      "2:18.31",
+      "2:18.32",
+      "2:18.33",
+      "2:18.34",
+      "2:18.35"
+     ],
+     "english": "for our enemies, who do not know what this is, provoke us, saying that we are worshippers of idols,",
+     "literal": "for our-enemies who not know what this provoke us saying that worshippers-of idols we"
+    },
+    {
+     "tokens": [
+      "2:18.36",
+      "2:18.37",
+      "2:18.38",
+      "2:18.39",
+      "2:18.40",
+      "2:18.41",
+      "2:18.42",
+      "2:18.43"
+     ],
+     "english": "and that we bow down to a wooden ark and to the sheets of skin within it.",
+     "literal": "and-that we-bow to-ark of-wood and-to-sheets of-skin which within-it"
+    },
+    {
+     "tokens": [
+      "2:18.44",
+      "2:18.45",
+      "2:18.46",
+      "2:18.47",
+      "2:18.48",
+      "2:18.49",
+      "2:18.50",
+      "2:18.51",
+      "2:18.52"
+     ],
+     "english": "Therefore I shall set out my reply in proper order, as the good hand of the LORD is upon me,",
+     "literal": "therefore I-shall-arrange my-reply in-order proper as-hand-of the-LORD good upon-me"
+    },
+    {
+     "tokens": [
+      "2:18.53",
+      "2:18.54",
+      "2:18.55",
+      "2:18.56",
+      "2:18.57",
+      "2:18.58",
+      "2:18.59",
+      "2:18.60",
+      "2:18.61",
+      "2:18.62",
+      "2:18.63",
+      "2:18.64",
+      "2:18.65",
+      "2:18.66",
+      "2:18.67",
+      "2:18.68",
+      "2:18.69",
+      "2:18.70",
+      "2:18.71",
+      "2:18.72",
+      "2:18.73",
+      "2:18.74",
+      "2:18.75",
+      "2:18.76"
+     ],
+     "english": "namely, every man of Israel will see himself obliged to rise and stand at the removal of a Torah scroll from the holy ark until it is placed on the reading platform, to show it to all the people and to read from it.",
+     "literal": "and-it every man of-Israel will-see himself obliged to-rise and-stand at-removal-of scroll-of Torah from-ark the-holy until is-placed on the-reading-platform to-show-it to-all the-people and-to-read from-it"
+    },
+    {
+     "tokens": [
+      "2:18.77",
+      "2:18.78",
+      "2:18.79",
+      "2:18.80",
+      "2:18.81",
+      "2:18.82",
+      "2:18.83",
+      "2:18.84",
+      "2:18.85",
+      "2:18.86",
+      "2:18.87"
+     ],
+     "english": "And we find that they did so in the days of Nehemiah, as it is written: ‘And when he opened, all the people stood.’",
+     "literal": "and-we-find that-so they-did in-days-of Nehemiah as-it-is-written and-when-he-opened stood all the-people"
+    },
+    {
+     "tokens": [
+      "2:18.88",
+      "2:18.89",
+      "2:18.90",
+      "2:18.91",
+      "2:18.92",
+      "2:18.93",
+      "2:18.94",
+      "2:18.95",
+      "2:18.96",
+      "2:18.97",
+      "2:18.98",
+      "2:18.99"
+     ],
+     "english": "And this they do out of the fear and honor with which they honor the words of the living God written in it,",
+     "literal": "and-this they-do from the-fear and-the-honor which they-honor the-words-of God living written in-it"
+    },
+    {
+     "tokens": [
+      "2:18.100",
+      "2:18.101",
+      "2:18.102",
+      "2:18.103",
+      "2:18.104",
+      "2:18.105",
+      "2:18.106",
+      "2:18.107",
+      "2:18.108"
+     ],
+     "english": "and for that same reason they bow their heads when carrying it from the ark to the reading platform,",
+     "literal": "and-for-that reason they-bow their-heads when-carrying-it from-the-ark until the-reading-platform"
+    },
+    {
+     "tokens": [
+      "2:18.109",
+      "2:18.110",
+      "2:18.111",
+      "2:18.112",
+      "2:18.113",
+      "2:18.114",
+      "2:18.115",
+      "2:18.116"
+     ],
+     "english": "and not because of any other of the reasons that we shall mention.”",
+     "literal": "and-not because-of other-thing of the-reasons which we-shall-mention"
+    }
+   ],
+   "severity": "error",
+   "reason": "The phrase that ends 'upon me' now ends with the comma; the phrases still divide all the tokens."
+  },
+  {
+   "ref": "2:18",
+   "path": "apparatus",
+   "value": [
+    "Allusion to Neh 2:8 ('כיד אלהי הטובה עלי'; cf. Ezra 7:9, 8:18, 7:28); the English follows the author's wording.",
+    "Allusion to Jer 23:36 ('דברי אלהים חיים'; cf. Jer 10:10, Deut 5:23 for 'אלהים חיים').",
+    "Neh 8:5: the author writes 'וכפתחו עמדו כל העם'; his wording is followed.",
+    "The title of the book is transliterated per the project scheme; its meaning is at token 2."
+   ],
+   "severity": "error",
+   "reason": "Ezra 7:28 has 'כיד ה' אלהי עלי' without הטובה; the exact wording of 'כיד ... הטובה עלי' is Neh 2:8. 'דברי אלהים חיים' is Jer 23:36 exactly; Jer 10:10 has only 'אלהים חיים'."
+  }
+ ],
+ "verdicts": []
+}

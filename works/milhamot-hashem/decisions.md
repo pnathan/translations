@@ -614,6 +614,12 @@ senses are allowed, chosen by the use.
 - כלי: "vessel" only for the Kabbalistic כלים; "tool" for a craftsman's object.
 - Two verses the author joins with a comma and no וגו': render the comma;
   an ellipsis only where he omits words and marks it (וכו', וגו').
+- פ' + a mishnah/tractate title (פ' ד' מיתות): the chapter's title, "Four Death
+  Penalties"; no numeral added.
+- מנחה in הגשת מנחה where the author argues from Gen 43 / 1 Sam 10: "gift";
+  "meal offering" only in a sacrificial context.
+- אלוה as the object of worship of a human being (קבלו באלוה): "a god"; "God"
+  elsewhere (this refines the אלוה ruling above).
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
