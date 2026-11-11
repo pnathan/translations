@@ -729,6 +729,15 @@ senses are allowed, chosen by the use.
 - וכ' read as וכו' ("etc.") where it closes a quotation.
 - The words of a verse quoted in the plural (Job 32:16, עמדו): plural, no
   subject added.
+- ראב"ע: "Rabbi Eleazar ben Azariah" where a Talmudic passage is cited;
+  "Ibn Ezra" where the author cites the commentator; a note says which.
+- כ' ע"ש: "he writes, see there:"; the quotation opens after it; ע"ש as על שם in
+  `readings`.
+- בבחירתא: "in the Bechirta" (transliterated), "chosen" in the note.
+- bat kol: "bat kol", "daughter of a voice" in the note.
+- קטיגורין: "accuser", the transliteration in the note only.
+- The Hebrew for "Machzor" follows the scheme (ח = ch): "Machzor Vitry".
+- רשע בן רשע: "Wicked one, son of a wicked one"; רוע לב: "wickedness of heart".
 
 ## Pending consistency pass (before the PR)
 
