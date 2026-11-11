@@ -475,7 +475,6 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
   transliteration, a note at first occurrence in the unit saying what the
   acronym stands for where the text or the usual expansion is certain; no
   identification beyond that.
-
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:

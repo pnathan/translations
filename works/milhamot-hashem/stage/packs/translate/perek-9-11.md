@@ -550,6 +550,8 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
   transliteration, a note at first occurrence in the unit saying what the
   acronym stands for where the text or the usual expansion is certain; no
   identification beyond that.
+- הרא"ש: "the Rosh"; ר"ת: "Rabbeinu Tam"; הגאון alone: "the Gaon", unidentified.
+  (Acronym authorities keep the acronym, by the ruling above.)
 
 ## Translator's checklist (the pilot reviews found these faults most often)
 
