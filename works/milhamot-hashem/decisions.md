@@ -695,6 +695,12 @@ senses are allowed, chosen by the use.
   cases and capital cases alike").
 - ואין צריך לומר: "needless to say"; עבודה (worship) is never "service".
 - אורה זו תורה (the exegetic formula, Esth 8:16): "'orah' means Torah".
+- צחצחות (a Kabbalistic term): transliterate "tzachtzachot".
+- "World to Come" in the author's mouth: "world to come" (as in Avot); the Hebrew
+  for בחיי alone is "Bachya".
+- A reply introduced by ויאמר inside a quotation takes double marks; the
+  author's report of a sage's question stays unmarked.
+- חמותי (Isa 44:16): "I am warm"; נדנוד: "qualm"; נתקע: "got involved".
 
 ## Pending consistency pass (before the PR)
 
