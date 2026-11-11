@@ -644,6 +644,14 @@ senses are allowed, chosen by the use.
 
 - 2:18 (perek-2-09) closes the Menasseh quotation too early; 2:19-2:22
   (perek-2-10) carry no opening marks. Patch both by the ruling above.
+- לשבר את האזן: "to accommodate the ear" (literal "to break the ear" in a
+  note); never "shock".
+- האלהי before a name: "the divine", with a note; never dropped.
+- An initial before a surname that fixes the person (ר"מ ריקנטי): expand and
+  name him in a note ("Rabbi Menachem Rikanti"); an initial no surname fixes
+  stays an initial with a note, as with R. A. and ר"י חיים ("Rabbi Y. Chayyim").
+- דרך ארץ: "worldly occupation", as in the project's Avot.
+- Mishnah/Talmud references the author lacks are not added to `apparatus`.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
