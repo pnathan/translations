@@ -587,6 +587,11 @@ senses are allowed, chosen by the use.
 - Authority names by their books or acronyms: Ravad (הראב"ד), Lechem Mishneh
   (לח"מ), Chavot Yair (חו"י, a note if the expansion is uncertain), Pitchei
   Teshuvah: the project's plain transliteration, a note at first occurrence.
+- Quotation formulas also include שנינו, הכי קאמר, אמר ר' X and the like: a passage
+  so introduced takes quotation marks when the author gives a source's own
+  words; a paraphrase takes none.
+- דמי: "blood", or "price/value" where the context is a sale (דמי השור); the
+  other sense in a token note.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
