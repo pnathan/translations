@@ -431,6 +431,24 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - A quotation that runs over several paragraphs (Rabbi Menasseh ben Israel,
   Teshu'at Yisrael, 2:18-2:25, opened by כ' וז"ל, closed by עכ"ל): each paragraph
   opens with a double mark, and only the last closes it.
+- לשבר את האזן: "to accommodate the ear" (literal "to break the ear" in a
+  note); never "shock".
+- Mishnah/Talmud references the author lacks are not added to `apparatus`.
+- Names of works: "Guide for the Perplexed" is rendered as the Moreh
+  Nevukhim; ממלכי as "of the kings of".
+- Closing formulas (וחתם דבריו, עכ"ל, ע"כ) stand outside the closing quotation
+  mark; opening formulas (וז"ל, כ' וז"ל) stand outside the opening one.
+- A conditional whose main clause follows a Hebrew full stop (ואם ראיתי. הם
+  מגלים): join with a comma and say so in a token note.
+- Nested quotations: double marks for the outer quotation, single marks for a
+  quotation inside it, double again inside that.
+- Printed list markers (א), ב)): keep as the author's own, "1)", "2)"; a token
+  note.
+- בא"י: "in the Land of Israel"; תוה"ק: "the holy Torah".
+- Wikisource additions (Q2): the pack marks none; the translator does not
+  add a flag per word. A general line in `apparatus` on the unit's first
+  segment is enough until the 1931 scan is collated.
+
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:

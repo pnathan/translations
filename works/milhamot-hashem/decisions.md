@@ -640,10 +640,6 @@ senses are allowed, chosen by the use.
 - קצוצי פאה (Jer 9:25): the literal "those with clipped temples"; a context
   note that in the verse the phrase names desert peoples.
 
-## Pending consistency pass (before the PR)
-
-- 2:18 (perek-2-09) closes the Menasseh quotation too early; 2:19-2:22
-  (perek-2-10) carry no opening marks. Patch both by the ruling above.
 - לשבר את האזן: "to accommodate the ear" (literal "to break the ear" in a
   note); never "shock".
 - האלהי before a name: "the divine", with a note; never dropped.
@@ -682,6 +678,11 @@ senses are allowed, chosen by the use.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
+
+## Pending consistency pass (before the PR)
+
+- 2:18 (perek-2-09) closes the Menasseh quotation too early; 2:19-2:22
+  (perek-2-10) carry no opening marks. Patch both by the ruling above.
 
 ## Translator's checklist (the pilot reviews found these faults most often)
 
