@@ -671,6 +671,14 @@ senses are allowed, chosen by the use.
   מגלים): join with a comma and say so in a token note.
 - המתפלספים: "would-be philosophers"; הנצרים = "the Christians" (spelling variant
   of הנוצרים, noted); העשיריות: "the tens" (the ten sefirot, noted).
+- Nested quotations: double marks for the outer quotation, single marks for a
+  quotation inside it, double again inside that.
+- Printed list markers (א), ב)): keep as the author's own, "1)", "2)"; a token
+  note.
+- בא"י: "in the Land of Israel"; תוה"ק: "the holy Torah".
+- Acronym names of persons with a place (יש"ר מקנדי"א): expand by the usual form
+  ("Yish'ar of Candia"), noting that the expansion is conjectural if the
+  surname does not fix it.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
