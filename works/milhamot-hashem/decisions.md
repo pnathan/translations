@@ -602,6 +602,11 @@ senses are allowed, chosen by the use.
   the verse applies to the words that are quoted.
 - A sentence opening שכל / שהוא after a full stop: keep the full stop and
   supply a main clause by the author's syntax, with a token note on the ש.
+- אנדרטא: "statue"; אשם תלוי: "suspended guilt offering"; ביהכנ"ס: "synagogue".
+  Each with a token note if the term is technical.
+- A Judeo-Arabic rendering the author quotes from Saadia (אלבלד שברא): translate
+  the Arabic as he gives it and name Saadia's translation in `apparatus`; the
+  Arabic is not transliterated in the English line.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
