@@ -1,0 +1,1024 @@
+{
+ "unit": "perek-2-13",
+ "model": "sonnet",
+ "summary": "The paragraph is complete and mostly faithful, with its quotations, honorifics and Bible verses handled well. The main faults: קבלתי was dropped from the English, תפלותי was read as 'foolish talk' instead of 'my prayers', לשבר את האזן was rendered 'to shock the ear' (the sense is 'to accommodate the ear') and a 'so that' was added, רב became 'great', and דרך ארץ and כלי were not rendered by the sense and the decisions. Punctuation and capitals were corrected, Ricanti is Rikanti by the scheme, and two Bible allusions (Job 31:28, Num 14:36) and the alternative readings were added. The unresolved honorific האלהי stays 'the divine', R. M. is Rabbi Menachem, and R. Y. stays an initial; questions are raised for each.",
+ "patches": [
+  {
+   "ref": "2:29",
+   "path": "english",
+   "value": "I have gone on at length about all this, to reconcile for you the words of Kisse Eliyahu, but my tradition I have already mentioned above. And there is proof from this that what you ask me is not from the motive of your request for the truth, as you said, but rather to seek some pretext. And who am I that you should hold me to be a Kabbalist, for I am brutish and do not know. And all my prayers are not even like the chirping of birds, for the birds are fed without distress, and on them there lies neither the yoke of kingship nor the yoke of worldly occupation, and chirping can be done with intent, but I, under so much burden of the times and the cares of livelihood, have my mind and my thoughts confused. And furthermore, I have not received from a wise Kabbalist mouth to mouth. Would that the LORD relieve me of the troubles of time and of livelihood, and provide me a Kabbalist master who would set me on the paths of uprightness, and that I might merit to be among the sons of ascent. As for what I answered you the second time, it is the words of Kisse Eliyahu that you turned a blind eye to. And as for what you wrote, that you do not ascribe corporeality to the sefirot, but did you not write: \"If so, there would be a force in a body\"? And this time you say that light is a subtle body. And I already wrote to you that what they called them by the name light is only in order to accommodate the ear; one time you ascribe corporeality and another time you make excuses. And why do all these doubts come into your mind, except because you ascribe corporeality? As for what you wrote: \"Who is it that governs all these hidden worlds?\" The one who brings them into being is the one who keeps them alive. And as for what you wrote, that Ze'ir Anpin is found to be the god of the lower ones. Have I not written to you that he is nothing but a tool for the acts of the Creator? And as for what you wrote, that some of them said \"all the great work of the LORD,\" from which it follows that there is a small one? Those who say so have themselves already explained that they meant Metatron, whose name is like his master's, as they said in the Talmud: \"And to Moses He said, 'Come up to the LORD'; it should have said 'to Me'. But this is Metatron, whose name is like his master's\"; and so it is in the Yalkut. And as for what you wrote, that our true rabbis said, it is cited in Menorat ha-Ma'or that at the time of the giving of the Torah the Holy One, blessed be He, tore 7 heavens, etc. And in Midrash Rabbah they said: \"I am the LORD your God; I am the first and I am the last. I am the first, for I have no father, and I am the last, for I have no son; and besides Me there is no God, for I have no brother.\" Who is it that says he has a father, or a son, or a brother? Rather, you spread slander against the sages who say so, and they have already explained their words, of blessed memory, that all the epithets and the attributes are in the sefirot, to accommodate the ear. Go now and see what Mahari Gikatilia wrote in the introduction to Sha'arei Orah, and the divine Rabbi Menachem Rikanti, and Rabbi Y. Chayyim, and these are his words: \"In sum, wherever you see things that are not fitting to say of the Creator, may He be blessed, such as measure of stature and the like, it is all said of the sefirot; and when you see them speak in the manner of praise and thanksgiving, it is all said of the Creator, may He be blessed, who is within them and outside them, for nothing limits Him; therefore one may not say of the Creator, may He be blessed, not right and not left, not face and not back, etc.\" See there. And as for what you wrote, that the opinion of the Kabbalists is that the sefirot descend in a chain, by nature like a son from the father, far be it that they said so. On the contrary, they said: \"Far be it to believe or to bring to mind that the sefirot are part of Ein Sof that came out of it and descended from cause to effect, for it is a criminal sin. For Ein Sof is not divided into parts, God forbid, and it receives no addition and no diminution, but its existence is constant always, without any change whatever, and He originated them, an absolute origination.\"",
+   "severity": "error",
+   "reason": "Several faults against the Hebrew and the decisions; see the token and literal patches. Main ones: קבלתי was dropped ('I have taken up' appears in the gloss but not in the English); תפלותי is 'my prayers' (the plural, with כוונה and the confused mind that follow), not 'foolish talk'; לישב is 'to reconcile/resolve', not 'to set out'; רב is 'master', not 'great'; לשבר את האזן is 'to accommodate the ear', not 'to shock'; 'so that' is an added connective; a sentence began lower-case after '?' and two began capitalised after a comma; דרך ארץ is 'worldly occupation'; כלי is 'tool' by the decisions; Ricanti is Rikanti by the scheme."
+  },
+  {
+   "ref": "2:29",
+   "path": "phrases",
+   "value": [
+    {
+     "tokens": [
+      "2:29.1",
+      "2:29.2",
+      "2:29.3",
+      "2:29.4",
+      "2:29.5",
+      "2:29.6",
+      "2:29.7"
+     ],
+     "english": "I have gone on at length about all this, to reconcile for you the words of Kisse Eliyahu,",
+     "literal": "I have gone on at length about all this to reconcile for you the words of Kisse Eliyahu"
+    },
+    {
+     "tokens": [
+      "2:29.8",
+      "2:29.9",
+      "2:29.10",
+      "2:29.11",
+      "2:29.12"
+     ],
+     "english": "but my tradition I have already mentioned above.",
+     "literal": "but my tradition already I mentioned it above"
+    },
+    {
+     "tokens": [
+      "2:29.13",
+      "2:29.14",
+      "2:29.15"
+     ],
+     "english": "And there is proof from this",
+     "literal": "and there is proof from this"
+    },
+    {
+     "tokens": [
+      "2:29.16",
+      "2:29.17",
+      "2:29.18",
+      "2:29.19",
+      "2:29.20",
+      "2:29.21",
+      "2:29.22",
+      "2:29.23",
+      "2:29.24",
+      "2:29.25",
+      "2:29.26",
+      "2:29.27",
+      "2:29.28",
+      "2:29.29"
+     ],
+     "english": "that what you ask me is not from the motive of your request for the truth, as you said, but rather to seek some pretext.",
+     "literal": "that what you ask me is not from the motive of your request for the truth as you said but rather to seek some pretext"
+    },
+    {
+     "tokens": [
+      "2:29.30",
+      "2:29.31",
+      "2:29.32",
+      "2:29.33",
+      "2:29.34",
+      "2:29.35",
+      "2:29.36",
+      "2:29.37",
+      "2:29.38",
+      "2:29.39",
+      "2:29.40"
+     ],
+     "english": "And who am I that you should hold me to be a Kabbalist, for I am brutish and do not know.",
+     "literal": "and what am I that you hold me as a Kabbalist for I am brutish and do not know"
+    },
+    {
+     "tokens": [
+      "2:29.41",
+      "2:29.42",
+      "2:29.43",
+      "2:29.44",
+      "2:29.45",
+      "2:29.46"
+     ],
+     "english": "And all my prayers are not even like the chirping of birds,",
+     "literal": "and all my prayers even like the chirping of birds is not"
+    },
+    {
+     "tokens": [
+      "2:29.47",
+      "2:29.48",
+      "2:29.49",
+      "2:29.50",
+      "2:29.51",
+      "2:29.52",
+      "2:29.53",
+      "2:29.54",
+      "2:29.55",
+      "2:29.56",
+      "2:29.57",
+      "2:29.58",
+      "2:29.59",
+      "2:29.60"
+     ],
+     "english": "for the birds are fed without distress, and on them there lies neither the yoke of kingship nor the yoke of worldly occupation,",
+     "literal": "for the birds are fed without distress and there is not on them neither the yoke of kingship nor the yoke of the way of the land"
+    },
+    {
+     "tokens": [
+      "2:29.61",
+      "2:29.62",
+      "2:29.63",
+      "2:29.64",
+      "2:29.65",
+      "2:29.66",
+      "2:29.67",
+      "2:29.68",
+      "2:29.69",
+      "2:29.70",
+      "2:29.71",
+      "2:29.72",
+      "2:29.73"
+     ],
+     "english": "and chirping can be done with intent, but I, under so much burden of the times and the cares of livelihood, have my mind and my thoughts confused.",
+     "literal": "and it is possible chirping with intent but I so much burden of the times and the worry of livelihood confuse my mind and my thoughts"
+    },
+    {
+     "tokens": [
+      "2:29.74",
+      "2:29.75",
+      "2:29.76",
+      "2:29.77",
+      "2:29.78",
+      "2:29.79",
+      "2:29.80",
+      "2:29.81"
+     ],
+     "english": "And furthermore, I have not received from a wise Kabbalist mouth to mouth.",
+     "literal": "and furthermore that not I have received from a wise man Kabbalist from mouth to mouth"
+    },
+    {
+     "tokens": [
+      "2:29.82",
+      "2:29.83",
+      "2:29.84",
+      "2:29.85",
+      "2:29.86",
+      "2:29.87",
+      "2:29.88",
+      "2:29.89"
+     ],
+     "english": "Would that the LORD relieve me of the troubles of time and of livelihood,",
+     "literal": "and would that will give and relieve me the LORD of the troubles of time and of livelihood"
+    },
+    {
+     "tokens": [
+      "2:29.90",
+      "2:29.91",
+      "2:29.92",
+      "2:29.93",
+      "2:29.94",
+      "2:29.95",
+      "2:29.96"
+     ],
+     "english": "and provide me a Kabbalist master who would set me on the paths of uprightness,",
+     "literal": "and provide me a master Kabbalist who would set me on the paths of uprightness"
+    },
+    {
+     "tokens": [
+      "2:29.97",
+      "2:29.98",
+      "2:29.99",
+      "2:29.100"
+     ],
+     "english": "and that I might merit to be among the sons of ascent.",
+     "literal": "and I will merit to be from the sons of ascent"
+    },
+    {
+     "tokens": [
+      "2:29.101",
+      "2:29.102",
+      "2:29.103",
+      "2:29.104",
+      "2:29.105",
+      "2:29.106",
+      "2:29.107",
+      "2:29.108",
+      "2:29.109",
+      "2:29.110",
+      "2:29.111"
+     ],
+     "english": "As for what I answered you the second time, it is the words of Kisse Eliyahu that you turned a blind eye to.",
+     "literal": "as for what I answered to you time second is the words of Kisse Eliyahu that you turned a blind eye to them"
+    },
+    {
+     "tokens": [
+      "2:29.112",
+      "2:29.113",
+      "2:29.114",
+      "2:29.115",
+      "2:29.116"
+     ],
+     "english": "And as for what you wrote, that you do not ascribe corporeality to the sefirot,",
+     "literal": "and as for what you wrote that you are not ascribing corporeality to the sefirot"
+    },
+    {
+     "tokens": [
+      "2:29.117",
+      "2:29.118",
+      "2:29.119",
+      "2:29.120",
+      "2:29.121",
+      "2:29.122"
+     ],
+     "english": "but did you not write: \"If so, there would be a force in a body\"?",
+     "literal": "but did not you write if so there would be a force in a body"
+    },
+    {
+     "tokens": [
+      "2:29.123",
+      "2:29.124",
+      "2:29.125",
+      "2:29.126",
+      "2:29.127",
+      "2:29.128",
+      "2:29.129",
+      "2:29.130"
+     ],
+     "english": "And this time you say that light is a subtle body.",
+     "literal": "and at this time this you say that light a body subtle"
+    },
+    {
+     "tokens": [
+      "2:29.131",
+      "2:29.132",
+      "2:29.133",
+      "2:29.134",
+      "2:29.135",
+      "2:29.136",
+      "2:29.137",
+      "2:29.138",
+      "2:29.139",
+      "2:29.140",
+      "2:29.141",
+      "2:29.142",
+      "2:29.143",
+      "2:29.144",
+      "2:29.145",
+      "2:29.146",
+      "2:29.147",
+      "2:29.148",
+      "2:29.149"
+     ],
+     "english": "And I already wrote to you that what they called them by the name light is only in order to accommodate the ear; one time you ascribe corporeality and another time you make excuses.",
+     "literal": "and already I wrote to you that what they called them by the name light is not but in order to break (object marker) the ear at one time you ascribe corporeality and another time you make excuses"
+    },
+    {
+     "tokens": [
+      "2:29.150",
+      "2:29.151",
+      "2:29.152",
+      "2:29.153",
+      "2:29.154",
+      "2:29.155",
+      "2:29.156",
+      "2:29.157",
+      "2:29.158",
+      "2:29.159"
+     ],
+     "english": "And why do all these doubts come into your mind, except because you ascribe corporeality?",
+     "literal": "and why come up in your mind all these doubts except because you ascribe corporeality"
+    },
+    {
+     "tokens": [
+      "2:29.160",
+      "2:29.161",
+      "2:29.162",
+      "2:29.163",
+      "2:29.164",
+      "2:29.165",
+      "2:29.166",
+      "2:29.167",
+      "2:29.168"
+     ],
+     "english": "As for what you wrote: \"Who is it that governs all these hidden worlds?\"",
+     "literal": "as for what you wrote who is it that governs all these worlds hidden"
+    },
+    {
+     "tokens": [
+      "2:29.169",
+      "2:29.170",
+      "2:29.171",
+      "2:29.172"
+     ],
+     "english": "The one who brings them into being is the one who keeps them alive.",
+     "literal": "the one who brings into being is keeps alive them"
+    },
+    {
+     "tokens": [
+      "2:29.173",
+      "2:29.174",
+      "2:29.175",
+      "2:29.176",
+      "2:29.177",
+      "2:29.178"
+     ],
+     "english": "And as for what you wrote, that Ze'ir Anpin is found to be the god of the lower ones.",
+     "literal": "and as for what you wrote that is found Ze'ir Anpin god of the lower ones"
+    },
+    {
+     "tokens": [
+      "2:29.179",
+      "2:29.180",
+      "2:29.181",
+      "2:29.182",
+      "2:29.183",
+      "2:29.184",
+      "2:29.185",
+      "2:29.186"
+     ],
+     "english": "Have I not written to you that he is nothing but a tool for the acts of the Creator?",
+     "literal": "have I not written to you that he is not but a vessel for the acts of the Creator"
+    },
+    {
+     "tokens": [
+      "2:29.187",
+      "2:29.188",
+      "2:29.189",
+      "2:29.190",
+      "2:29.191",
+      "2:29.192",
+      "2:29.193",
+      "2:29.194",
+      "2:29.195",
+      "2:29.196",
+      "2:29.197",
+      "2:29.198"
+     ],
+     "english": "And as for what you wrote, that some of them said \"all the great work of the LORD,\" from which it follows that there is a small one?",
+     "literal": "and as for what you wrote that some of them said (object marker) all the work of the LORD great from which it follows that there is a small one"
+    },
+    {
+     "tokens": [
+      "2:29.199",
+      "2:29.200",
+      "2:29.201",
+      "2:29.202",
+      "2:29.203",
+      "2:29.204",
+      "2:29.205",
+      "2:29.206",
+      "2:29.207",
+      "2:29.208",
+      "2:29.209"
+     ],
+     "english": "Those who say so have themselves already explained that they meant Metatron, whose name is like his master's,",
+     "literal": "those who say so already have explained they their intent was on Metatron whose name is like the name of his master"
+    },
+    {
+     "tokens": [
+      "2:29.210",
+      "2:29.211",
+      "2:29.212",
+      "2:29.213",
+      "2:29.214",
+      "2:29.215",
+      "2:29.216",
+      "2:29.217",
+      "2:29.218",
+      "2:29.219",
+      "2:29.220",
+      "2:29.221",
+      "2:29.222",
+      "2:29.223",
+      "2:29.224",
+      "2:29.225",
+      "2:29.226",
+      "2:29.227"
+     ],
+     "english": "as they said in the Talmud: \"And to Moses He said, 'Come up to the LORD'; it should have said 'to Me'. But this is Metatron, whose name is like his master's\"",
+     "literal": "as they said in the Talmud and to Moses he said come up to the LORD to Me it should have said it but this is Metatron whose name is like his master's name"
+    },
+    {
+     "tokens": [
+      "2:29.228",
+      "2:29.229"
+     ],
+     "english": "and so it is in the Yalkut.",
+     "literal": "and so it is in the Yalkut"
+    },
+    {
+     "tokens": [
+      "2:29.230",
+      "2:29.231",
+      "2:29.232",
+      "2:29.233",
+      "2:29.234"
+     ],
+     "english": "And as for what you wrote, that our true rabbis said,",
+     "literal": "and as for what you wrote that our rabbis the true ones said"
+    },
+    {
+     "tokens": [
+      "2:29.235",
+      "2:29.236",
+      "2:29.237",
+      "2:29.238",
+      "2:29.239",
+      "2:29.240",
+      "2:29.241",
+      "2:29.242",
+      "2:29.243",
+      "2:29.244",
+      "2:29.245"
+     ],
+     "english": "it is cited in Menorat ha-Ma'or that at the time of the giving of the Torah the Holy One, blessed be He, tore 7 heavens, etc.",
+     "literal": "it is cited in Menorat ha-Ma'or that at the time of the giving of the Torah tore the Holy One, blessed be He 7 heavens etc."
+    },
+    {
+     "tokens": [
+      "2:29.246",
+      "2:29.247",
+      "2:29.248",
+      "2:29.249",
+      "2:29.250",
+      "2:29.251",
+      "2:29.252",
+      "2:29.253",
+      "2:29.254",
+      "2:29.255"
+     ],
+     "english": "And in Midrash Rabbah they said: \"I am the LORD your God; I am the first and I am the last.",
+     "literal": "and in Midrash Rabbah they said I am the LORD your God I the first and I last"
+    },
+    {
+     "tokens": [
+      "2:29.256",
+      "2:29.257",
+      "2:29.258",
+      "2:29.259",
+      "2:29.260",
+      "2:29.261",
+      "2:29.262",
+      "2:29.263",
+      "2:29.264",
+      "2:29.265",
+      "2:29.266",
+      "2:29.267",
+      "2:29.268",
+      "2:29.269",
+      "2:29.270",
+      "2:29.271"
+     ],
+     "english": "I am the first, for I have no father, and I am the last, for I have no son; and besides Me there is no God, for I have no brother.\"",
+     "literal": "I am first for I have no father and I am last for I have no son and besides Me there is no God for I have no brother"
+    },
+    {
+     "tokens": [
+      "2:29.272",
+      "2:29.273",
+      "2:29.274",
+      "2:29.275",
+      "2:29.276",
+      "2:29.277",
+      "2:29.278",
+      "2:29.279",
+      "2:29.280",
+      "2:29.281"
+     ],
+     "english": "Who is it that says he has a father, or a son, or a brother?",
+     "literal": "who is it that says he has to him a father or a son or a brother"
+    },
+    {
+     "tokens": [
+      "2:29.282",
+      "2:29.283",
+      "2:29.284",
+      "2:29.285",
+      "2:29.286",
+      "2:29.287",
+      "2:29.288",
+      "2:29.289",
+      "2:29.290"
+     ],
+     "english": "Rather, you spread slander against the sages who say so,",
+     "literal": "rather you spread slander against the sages who say so"
+    },
+    {
+     "tokens": [
+      "2:29.291",
+      "2:29.292",
+      "2:29.293",
+      "2:29.294",
+      "2:29.295"
+     ],
+     "english": "and they have already explained their words, of blessed memory,",
+     "literal": "and they already have explained their words of blessed memory"
+    },
+    {
+     "tokens": [
+      "2:29.296",
+      "2:29.297",
+      "2:29.298",
+      "2:29.299",
+      "2:29.300",
+      "2:29.301",
+      "2:29.302",
+      "2:29.303"
+     ],
+     "english": "that all the epithets and the attributes are in the sefirot, to accommodate the ear.",
+     "literal": "that all the epithets and the attributes are in the sefirot to break (object marker) the ear"
+    },
+    {
+     "tokens": [
+      "2:29.304",
+      "2:29.305",
+      "2:29.306",
+      "2:29.307",
+      "2:29.308",
+      "2:29.309",
+      "2:29.310",
+      "2:29.311",
+      "2:29.312",
+      "2:29.313"
+     ],
+     "english": "Go now and see what Mahari Gikatilia wrote in the introduction to Sha'arei Orah,",
+     "literal": "go now and see what wrote Mahari Gikatilia in the introduction to Sha'arei Orah"
+    },
+    {
+     "tokens": [
+      "2:29.314",
+      "2:29.315",
+      "2:29.316",
+      "2:29.317",
+      "2:29.318",
+      "2:29.319"
+     ],
+     "english": "and the divine Rabbi Menachem Rikanti, and Rabbi Y. Chayyim, and these are his words:",
+     "literal": "and the divine Rabbi Menachem Rikanti and Rabbi Y. Chayyim and these are his words"
+    },
+    {
+     "tokens": [
+      "2:29.320",
+      "2:29.321",
+      "2:29.322",
+      "2:29.323",
+      "2:29.324",
+      "2:29.325",
+      "2:29.326",
+      "2:29.327",
+      "2:29.328",
+      "2:29.329",
+      "2:29.330",
+      "2:29.331",
+      "2:29.332",
+      "2:29.333",
+      "2:29.334",
+      "2:29.335",
+      "2:29.336",
+      "2:29.337",
+      "2:29.338",
+      "2:29.339"
+     ],
+     "english": "\"In sum, wherever you see things that are not fitting to say of the Creator, may He be blessed, such as measure of stature and the like, it is all said of the sefirot;",
+     "literal": "in sum the end of the matter all wherever you see things that are not fitting to say of the Creator may He be blessed such as measure of stature and the like of them all is said of the sefirot"
+    },
+    {
+     "tokens": [
+      "2:29.340",
+      "2:29.341",
+      "2:29.342",
+      "2:29.343",
+      "2:29.344",
+      "2:29.345",
+      "2:29.346",
+      "2:29.347",
+      "2:29.348",
+      "2:29.349",
+      "2:29.350",
+      "2:29.351",
+      "2:29.352"
+     ],
+     "english": "and when you see them speak in the manner of praise and thanksgiving, it is all said of the Creator, may He be blessed, who is within them and outside them,",
+     "literal": "and when you see them speak in the manner of praise and thanksgiving all is said of the Creator may He be blessed who is within and outside them"
+    },
+    {
+     "tokens": [
+      "2:29.353",
+      "2:29.354",
+      "2:29.355",
+      "2:29.356"
+     ],
+     "english": "for nothing limits Him;",
+     "literal": "for there is not anything that limits Him"
+    },
+    {
+     "tokens": [
+      "2:29.357",
+      "2:29.358",
+      "2:29.359",
+      "2:29.360",
+      "2:29.361",
+      "2:29.362",
+      "2:29.363",
+      "2:29.364",
+      "2:29.365",
+      "2:29.366",
+      "2:29.367",
+      "2:29.368",
+      "2:29.369",
+      "2:29.370",
+      "2:29.371"
+     ],
+     "english": "therefore one may not say of the Creator, may He be blessed, not right and not left, not face and not back, etc.\"",
+     "literal": "therefore so one may not say of the Creator may He be blessed not right and not left not face and not back etc."
+    },
+    {
+     "tokens": [
+      "2:29.372"
+     ],
+     "english": "See there.",
+     "literal": "see there"
+    },
+    {
+     "tokens": [
+      "2:29.373",
+      "2:29.374",
+      "2:29.375",
+      "2:29.376",
+      "2:29.377",
+      "2:29.378",
+      "2:29.379",
+      "2:29.380",
+      "2:29.381",
+      "2:29.382"
+     ],
+     "english": "And as for what you wrote, that the opinion of the Kabbalists is that the sefirot descend in a chain, by nature like a son from the father,",
+     "literal": "and as for what you wrote that the opinion of the Kabbalists that the sefirot descend in a chain by nature like a son from the father"
+    },
+    {
+     "tokens": [
+      "2:29.383",
+      "2:29.384",
+      "2:29.385",
+      "2:29.386"
+     ],
+     "english": "far be it that they said so.",
+     "literal": "far be it that they said so"
+    },
+    {
+     "tokens": [
+      "2:29.387",
+      "2:29.388"
+     ],
+     "english": "On the contrary, they said:",
+     "literal": "on the contrary they said"
+    },
+    {
+     "tokens": [
+      "2:29.389",
+      "2:29.390",
+      "2:29.391",
+      "2:29.392",
+      "2:29.393",
+      "2:29.394",
+      "2:29.395",
+      "2:29.396",
+      "2:29.397",
+      "2:29.398"
+     ],
+     "english": "\"Far be it to believe or to bring to mind that the sefirot are part of Ein Sof",
+     "literal": "far be it to believe or to bring to mind the heart that the sefirot are part of Ein Sof"
+    },
+    {
+     "tokens": [
+      "2:29.399",
+      "2:29.400",
+      "2:29.401",
+      "2:29.402",
+      "2:29.403",
+      "2:29.404",
+      "2:29.405",
+      "2:29.406",
+      "2:29.407"
+     ],
+     "english": "that came out of it and descended from cause to effect, for it is a criminal sin.",
+     "literal": "that came out from it and descended from cause to effect for it is a sin criminal"
+    },
+    {
+     "tokens": [
+      "2:29.408",
+      "2:29.409",
+      "2:29.410",
+      "2:29.411",
+      "2:29.412",
+      "2:29.413"
+     ],
+     "english": "For Ein Sof is not divided into parts, God forbid,",
+     "literal": "that Ein Sof is not divided into parts God forbid"
+    },
+    {
+     "tokens": [
+      "2:29.414",
+      "2:29.415",
+      "2:29.416",
+      "2:29.417",
+      "2:29.418",
+      "2:29.419",
+      "2:29.420",
+      "2:29.421",
+      "2:29.422",
+      "2:29.423",
+      "2:29.424",
+      "2:29.425",
+      "2:29.426"
+     ],
+     "english": "and it receives no addition and no diminution, but its existence is constant always, without any change whatever,",
+     "literal": "and it does not receive addition and not diminution but its existence is constant always without any change whatever"
+    },
+    {
+     "tokens": [
+      "2:29.427",
+      "2:29.428",
+      "2:29.429",
+      "2:29.430"
+     ],
+     "english": "and He originated them, an absolute origination.\"",
+     "literal": "and He originated them origination absolute"
+    }
+   ],
+   "severity": "error",
+   "reason": "Phrases follow the corrected English."
+  },
+  {
+   "ref": "2:29",
+   "path": "literal",
+   "value": "I have gone on at length about all this to reconcile for you the words of Kisse Eliyahu but my tradition already I mentioned it above and there is proof from this that what you ask me is not from the motive of your request for the truth as you said but rather to seek some pretext and what am I that you hold me as a Kabbalist for I am brutish and do not know and all my prayers even like the chirping of birds is not for the birds are fed without distress and there is not on them neither the yoke of kingship nor the yoke of the way of the land and it is possible chirping with intent but I so much burden of the times and the worry of livelihood confuse my mind and my thoughts and furthermore that not I have received from a wise man Kabbalist from mouth to mouth and would that will give and relieve me the LORD of the troubles of time and of livelihood and provide me a master Kabbalist who would set me on the paths of uprightness and I will merit to be from the sons of ascent as for what I answered to you time second is the words of Kisse Eliyahu that you turned a blind eye to them and as for what you wrote that you are not ascribing corporeality to the sefirot but did not you write if so there would be a force in a body and at this time this you say that light a body subtle and already I wrote to you that what they called them by the name light is not but in order to break (object marker) the ear at one time you ascribe corporeality and another time you make excuses and why come up in your mind all these doubts except because you ascribe corporeality as for what you wrote who is it that governs all these worlds hidden the one who brings into being is keeps alive them and as for what you wrote that is found Ze'ir Anpin god of the lower ones have I not written to you that he is not but a vessel for the acts of the Creator and as for what you wrote that some of them said (object marker) all the work of the LORD great from which it follows that there is a small one those who say so already have explained they their intent was on Metatron whose name is like the name of his master as they said in the Talmud and to Moses he said come up to the LORD to Me it should have said it but this is Metatron whose name is like his master's name and so it is in the Yalkut and as for what you wrote that our rabbis the true ones said it is cited in Menorat ha-Ma'or that at the time of the giving of the Torah tore the Holy One, blessed be He 7 heavens etc. and in Midrash Rabbah they said I am the LORD your God I the first and I last I am first for I have no father and I am last for I have no son and besides Me there is no God for I have no brother who is it that says he has to him a father or a son or a brother rather you spread slander against the sages who say so and they already have explained their words of blessed memory that all the epithets and the attributes are in the sefirot to break (object marker) the ear go now and see what wrote Mahari Gikatilia in the introduction to Sha'arei Orah and the divine Rabbi Menachem Rikanti and Rabbi Y. Chayyim and these are his words in sum the end of the matter all wherever you see things that are not fitting to say of the Creator may He be blessed such as measure of stature and the like of them all is said of the sefirot and when you see them speak in the manner of praise and thanksgiving all is said of the Creator may He be blessed who is within and outside them for there is not anything that limits Him therefore so one may not say of the Creator may He be blessed not right and not left not face and not back etc. see there and as for what you wrote that the opinion of the Kabbalists that the sefirot descend in a chain by nature like a son from the father far be it that they said so on the contrary they said far be it to believe or to bring to mind the heart that the sefirot are part of Ein Sof that came out from it and descended from cause to effect for it is a sin criminal that Ein Sof is not divided into parts God forbid and it does not receive addition and not diminution but its existence is constant always without any change whatever and He originated them origination absolute",
+   "severity": "error",
+   "reason": "Literal brought into line with the corrected glosses (קבלתי, תפלותי, רב, לשבר, לישב, אלא)."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.4.gloss",
+   "value": "to reconcile",
+   "severity": "error",
+   "reason": "לישב (ליישב) is 'to reconcile / resolve' a difficulty; 'to set out' is not the sense."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.4.note",
+   "value": "לישב (ליישב): literally 'to settle'; said of a difficult passage it means to resolve or reconcile it.",
+   "severity": "error",
+   "reason": "Learner note for the idiom."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.9.gloss",
+   "value": "my tradition",
+   "severity": "error",
+   "reason": "קבלתי with the suffix is the noun 'my tradition'; the feminine זכרתיה ('I mentioned it') takes it as object. The English dropped the word."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.9.note",
+   "value": "קבלתי: from קבלה, the received tradition, with the first-person suffix: 'my tradition', which the writer says he has already mentioned above. The verb 'I received' is also possible; see readings.",
+   "severity": "error",
+   "reason": "The old note ('I have taken up ... dealt with it') has no basis in the Hebrew."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.11.gloss",
+   "value": "I mentioned it",
+   "severity": "error",
+   "reason": "זכרתיה is a finite verb ('I mentioned it'), not a participle-like 'mentioned it'."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.42.gloss",
+   "value": "my prayers",
+   "severity": "error",
+   "reason": "תפלותי is the plural of תפלה with a suffix, written without the yod; it fits כצפצוף ('chirping'), בכוונה ('with intent') and the mind confused in prayer. 'Foolish talk' would be תפלות, which does not fit the next lines."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.42.note",
+   "value": "תפלותי: 'my prayers' (תפלות, plural of תפלה, written without the yod). The same consonants could mean 'my foolishness'; see readings.",
+   "severity": "error",
+   "reason": "Note for the spelling and the alternative."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.59.gloss",
+   "value": "of worldly",
+   "severity": "error",
+   "reason": "דרך ארץ is the Mishnaic term for worldly occupation, earning a living; 'the way of the land' is the literal form, not the English sense."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.59.note",
+   "value": "דרך ארץ, literally 'the way of the land': worldly occupation, earning a living. The pair 'the yoke of kingship and the yoke of worldly occupation' is the Mishnah's wording.",
+   "severity": "error",
+   "reason": "Replaces the old note."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.60.gloss",
+   "value": "occupation",
+   "severity": "error",
+   "reason": "Goes with the gloss of 2:29.59 (דרך ארץ)."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.92.gloss",
+   "value": "a master",
+   "severity": "error",
+   "reason": "רב is 'master, teacher'; 'a great' makes it an adjective."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.93.gloss",
+   "value": "Kabbalist",
+   "severity": "style",
+   "reason": "The gloss is right; the note belongs with the Kabbalist master of 2:29.92."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.100.note",
+   "value": "'sons of ascent' (בני עליה): a Talmudic phrase for the elevated, those few who have risen to a high spiritual rank; the writer hopes to be among them. The old note ('a higher stage of learning') narrows it.",
+   "severity": "error",
+   "reason": "The phrase is about spiritual rank, not a stage of learning."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.143.gloss",
+   "value": "to accommodate",
+   "severity": "error",
+   "reason": "לשבר את האזן is an idiom: to bring a matter within what the ear can take in, to accommodate the hearer. It does not mean 'to shock', which turns the Kabbalists' defence upside down: the epithets are said of the sefirot to suit human hearing."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.143.note",
+   "value": "לשבר את האזן, literally 'to break the ear': to make a matter fit what the hearer can take in. It is the Kabbalists' reason for speaking of God in physical terms, and it is the writer's answer to the charge of corporeality.",
+   "severity": "error",
+   "reason": "Learner note for the idiom."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.145.note",
+   "value": "The idiom לשבר את האזן, 'to break the ear' = 'to accommodate the ear'; the same at 2:29.301-303.",
+   "severity": "question",
+   "reason": "Decisions are silent on לשבר את האזן. Proposed ruling: always 'to accommodate the ear', with the literal 'to break the ear' in a note at each occurrence; never 'shock'."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.184.gloss",
+   "value": "a tool",
+   "severity": "error",
+   "reason": "Decisions: כלי is 'vessel' only for the Kabbalistic כלים and 'tool' for an instrument. Here Ze'ir Anpin is an instrument for the Creator's acts."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.203.gloss",
+   "value": "they themselves",
+   "severity": "style",
+   "reason": "הם after ביארו is emphatic; the English now carries it ('have themselves already explained')."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.228.note",
+   "value": "וכ\"ה = וכן הוא, 'and so it is'.",
+   "severity": "style",
+   "reason": "Abbreviation named in the note."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.282.gloss",
+   "value": "rather",
+   "severity": "error",
+   "reason": "אלא after a question is 'rather', not a bare 'but'; the sentence begins a new sentence in the English."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.301.gloss",
+   "value": "to accommodate",
+   "severity": "error",
+   "reason": "See 2:29.143: לשבר את האזן is 'to accommodate the ear'."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.301.note",
+   "value": "Literally 'to break the ear': to make a matter fit what the hearer can take in. The same idiom as at 2:29.143-145.",
+   "severity": "error",
+   "reason": "The old note ('shocking the hearer') is wrong."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.314.note",
+   "value": "'the divine' (האלהי): the honorific before the name, kept as written; it is not a claim about the man.",
+   "severity": "question",
+   "reason": "Decisions are silent on האלהי before a name. Proposed ruling: 'the divine', as the written honorific, with this note; never 'the god' and never dropped, like the other honorifics."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.315.gloss",
+   "value": "Rabbi Menachem",
+   "severity": "error",
+   "reason": "The reading line carries the full word. ר\"מ before the surname ריקנטי is Menachem (Recanati); the Hebrew itself gives only the initial."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.315.note",
+   "value": "ר\"מ: the initial M. is expanded from the surname: Menachem Recanati, the Italian Kabbalist, is meant. The text gives only the initial.",
+   "severity": "question",
+   "reason": "Decisions have ר\"א only. Proposed ruling: an initial before a surname that fixes the person is expanded and named in a note; an initial that no surname fixes stays 'R. A.' with a note."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.316.gloss",
+   "value": "Rikanti",
+   "severity": "error",
+   "reason": "Names follow the project's scheme (ק = k): Rikanti, as Gikatilia is written with k."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.317.gloss",
+   "value": "and Rabbi Y.",
+   "severity": "error",
+   "reason": "ר' is 'Rabbi'; the initial Y. stays, since nothing in the text fixes it."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.317.note",
+   "value": "ר\"י חיים: only the initial Y. and the surname Chayyim are given; no expansion is certain, so the initial stays.",
+   "severity": "question",
+   "reason": "Decisions give no ruling for an initial with a first name unknown. Proposed ruling: keep the initial with a note, as for ר\"א; do not guess."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.332.note",
+   "value": "שיעור קומה, 'the measure of the stature': the title of the early mystical text that describes the dimensions of the Divine Body; the writer uses it as an example of such language.",
+   "severity": "style",
+   "reason": "A learner needs the term explained."
+  },
+  {
+   "ref": "2:29",
+   "path": "token:2:29.408.note",
+   "value": "The ש opens a sentence after a full stop; the English supplies 'For' and keeps the main clause.",
+   "severity": "error",
+   "reason": "Decisions: a sentence opening שכל / שהוא after a full stop keeps the full stop, with a token note on the ש."
+  },
+  {
+   "ref": "2:29",
+   "path": "apparatus",
+   "value": [
+    "Witness: Wikisource base text. The 1931 scan is not yet collated, so the text is translated as read and this is flagged here (decisions, Q2).",
+    "Bible verses: Exod 20:2 ('I am the LORD your God', 2:29.249-251, in the Midrash quotation); Isa 44:6 ('I am the first and I am the last, and besides Me there is no God', 2:29.252-271); Exod 24:1 ('And to Moses He said: Come up to the LORD', 2:29.213-218, in the Talmud quotation); Deut 11:7 ('all the great work of the LORD', 2:29.191-194); Ps 73:22 ('I am brutish and do not know', 2:29.38-40); Prov 4:11 ('the paths of uprightness', 2:29.95-96).",
+    "Variant: the printed 'בם' (2:29.279), 'in them'. Read as 'בן' (son), the likelier word in 'a father or a son or a brother'. The printed word is kept in the Hebrew; the English follows the sense.",
+    "The Talmud and Midrash passages carry no reference in the text, and none is added.",
+    "The quotation 'In sum ...' ends at 2:29.371 and is followed by 'See there' (2:29.372). The quotation 'Far be it ...' closes at 2:29.430.",
+    "Bible allusions: 'a criminal sin' (2:29.406-407) is Job 31:28 ('this too is a criminal sin'; cf. 31:11); 'spread slander' (2:29.284-285) is Num 14:36 ('and they spread slander') and Prov 10:18."
+   ],
+   "severity": "error",
+   "reason": "Two verbal allusions to Scripture were not recognised (decisions: verses and allusions go in apparatus)."
+  },
+  {
+   "ref": "2:29",
+   "path": "grammar",
+   "value": [
+    "The paragraph is the respondent's reply to his questioner, in the respondent's own voice. 'You' is the questioner, and the English keeps the second person.",
+    "Each point of the questioner's letter is answered in turn, opening with 'as for what you wrote' (2:29.101, 112, 160, 173, 187, 230, 373). The questions with 'but did you not' and 'and why' keep their force as questions.",
+    "Clauses with 'that' after 'you wrote' are reported speech and take no quotation marks. 'You wrote: if so ...' and 'you wrote: who is it ...' quote the questioner's own words, so they are in quotation marks.",
+    "The Talmud passage turns on the word 'to Me' (אלי): the verse should have said 'to Me', and the Talmud draws its conclusion from the difference. The English gives the Hebrew point in single quotation marks inside the double ones. 'אלי מבעי ליה' is Aramaic in the Talmud's wording; מכלל דאיכא קטן is Aramaic too.",
+    "The verb 'to ascribe corporeality' (להגשים) and its forms run through the paragraph. It is the error the writer charges against the questioner, and it is rendered the same way each time.",
+    "The idiom לשבר את האזן (2:29.143-145, 301-303), 'to break the ear', means to accommodate the ear, that is, to bring a matter within what the hearer can take in. The respondent uses it twice for the Kabbalists' physical epithets."
+   ],
+   "severity": "error",
+   "reason": "The Aramaic of the Talmud passage and the idiom each need a note for a learner."
+  },
+  {
+   "ref": "2:29",
+   "path": "readings",
+   "value": [
+    {
+     "tokens": [
+      "2:29.9"
+     ],
+     "english": "I received",
+     "source": "verb reading",
+     "note": "קבלתי as a verb: 'but I received, I already mentioned it above'; the English takes the noun 'my tradition'."
+    },
+    {
+     "tokens": [
+      "2:29.42"
+     ],
+     "english": "my foolish talk",
+     "source": "alternative spelling",
+     "note": "תפלות 'foolishness' has the same consonants; the English takes 'prayers' from the context."
+    },
+    {
+     "tokens": [
+      "2:29.279"
+     ],
+     "english": "in them",
+     "source": "printed text",
+     "note": "The printed בם is 'in them'; the English reads the likelier בן, 'son'."
+    }
+   ],
+   "severity": "error",
+   "reason": "Real alternative readings of the words were not listed."
+  }
+ ],
+ "verdicts": []
+}

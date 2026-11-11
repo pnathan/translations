@@ -634,6 +634,16 @@ senses are allowed, chosen by the use.
 - A printed word that echoes a verse's likelier word (נבוש for נמוש, Job 23:12):
   translate the printed word, record the likelier one in the token note and
   `apparatus`.
+- A quotation that runs over several paragraphs (Rabbi Menasseh ben Israel,
+  Teshu'at Yisrael, 2:18-2:25, opened by כ' וז"ל, closed by עכ"ל): each paragraph
+  opens with a double mark, and only the last closes it.
+- קצוצי פאה (Jer 9:25): the literal "those with clipped temples"; a context
+  note that in the verse the phrase names desert peoples.
+
+## Pending consistency pass (before the PR)
+
+- 2:18 (perek-2-09) closes the Menasseh quotation too early; 2:19-2:22
+  (perek-2-10) carry no opening marks. Patch both by the ruling above.
 - Wikisource additions (Q2): the pack marks none; the translator does not
   add a flag per word. A general line in `apparatus` on the unit's first
   segment is enough until the 1931 scan is collated.
