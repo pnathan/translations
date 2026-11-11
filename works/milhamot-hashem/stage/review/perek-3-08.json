@@ -1,0 +1,905 @@
+{
+  "unit": "perek-3-08",
+  "model": "sonnet",
+  "summary": "The paragraph is faithful in most clauses, but it leaves the rulings for הרא\"ש and ר\"ת unapplied, makes the destroyers rather than the pillars (Job 9:6) the subject of יתפלצון, drops מראות (Isa 44:18), renders והדבר אין בהם (Jer 5:13) as 'substance', and reads אין ספק בידם as an affirmation against its context (read סיפק). Many allusions were missing from apparatus (Job 28, Esth 4:11, Josh 1:18, Gen 19:11, Ps 106:36, 107:30, 73:28, and others) and three citations were misquoted. כבשונו, מחצצים and עמם are open questions for the owner.",
+  "patches": [
+    {
+      "ref": "3:13",
+      "path": "english",
+      "value": "13) We learned from the words of the Gaon that there are many books that are ascribed to the names of the great sages of Israel (falsely), for the sake of some benefit that accrues to them, and we learned also that whatever is not stated explicitly in the Mishnah and in the Gemara, and that we see is the opposite of the plain sense of the Talmud, is not a tradition, and we do not rely on it. And for this reason no decisors rule from the midrashim where they disagree with the Talmud, and even the Jerusalem Talmud we do not heed where it disagrees with the Babylonian, on which all the house of Israel rely, both for leniency and for stringency, as all this is made clear in the words of our rabbis the decisors in several places. And see below, §42, what I wrote there in the name of the Rosh, and go and learn from what Rabbeinu Tam ben Yichya wrote, cited in the book Rivid ha-Zahav in the laws of Passover, and these are his words: \"In our time knowledge has ceased, and the hidden matters of the Torah have been hidden from the eyes of every living thing; no man knows the order of this wisdom; and whoever holds to this, there befalls him a great share of the harm and the danger (that is to say, the harm and the danger of heresy, in that there is no share for him in the God of Israel). And concerning such things our Rabbis of blessed memory warned us, 'Do not seek what is too wondrous for you, and do not inquire into what is hidden from you.' And it is enough for us what the sages of the true tradition, agreed upon from every side, have taught us in the explanation of the Torah and its commandments. According to the tradition, from man to man, until the days of Moses; and it is called the Oral Torah, on account of which Moses went up on high and stood there forty days to learn its general principles and its particulars by the rules transmitted to him from the mouth of the Power. And with these matters we are bound to occupy ourselves, for they are our life and the length of our days, and in not one of them shall we err. His one law is to put to death whoever defies their word, and whoever transgresses the words of the Sages is liable to death. But the remaining allusions in them, which the sages of Kabbalah did not exhaust in their lifetimes, although they are hidden matters of the Torah and matters of the intellect; we were not commanded concerning them. For these remained for the select few to be occupied with them, in the times that were before us, etc. And not everyone who wishes to take the Name takes it. For these are matters that are like its furnace; they are so forever. And in our time the merit of the fathers has ended, and no one holds this wisdom justly: on the contrary, they destroy the corners of the Torah, and its pillars shudder at the sound of the trumpeters; the blind, who pass over, do not know the way where light dwells; they grope like the blind, and weary themselves seeking the door. And where they thought to gain, suddenly they shall be broken, and there is no healing. And many of the unlearned boast, saying: 'The secret of the LORD is ours; the upper waters are our heritage, not yours, you masters of the Talmud who walk in darkness.' Their heart is not with their people; their eyes are plastered over, so that they cannot see, and the word is not in them; they are wise to do harm to themselves. For they hold fast to what the hand of their intellect is too short to reach. And they want to climb the rungs; it is not in their power to reach the goal. And they bring up a potsherd in their hands to scrape with it. And they become a snare to them, etc. For there comes out from them a stumbling-block, to breach the fence of the Torah and to tear down its walls. One boasts of what he does not understand, and errs in the beginnings of the Torah and its roots, and comes to heresy. And he is distanced from the haven of his desire, which is the nearness of God; it would have been better for him had he not been created, all the more so to change a midrash and to annul a halakhah.\" Thus far his words.",
+      "severity": "error",
+      "reason": "Decisions: הרא\"ש is 'the Rosh' and ר\"ת is 'Rabbeinu Tam'. The Hebrew has a comma before וצא, so 'And go' is lower-case 'and go'. ועמודיה יתפלצון is Job 9:6, so the pillars are the subject of 'shudder'. טח מראות is Isa 44:18, 'plastered over from seeing', and מראות was left out. והדבר אין בהם is Jer 5:13, 'the word is not in them', not 'substance'. אין ספק בידם להגיע is read as אין סיפק בידם, 'it is not in their power', since the sense of the context requires it (decisions: a word that does not fit its context). Smaller: 'in not one of them shall we err' (the old order made 'err' transitive); 'take the Name' (no 'up' in the Hebrew); 'haven' for מחוז (Ps 107:30)."
+    },
+    {
+      "ref": "3:13",
+      "path": "phrases",
+      "value": [
+        {
+          "tokens": [
+            "3:13.1"
+          ],
+          "english": "13)",
+          "literal": "13) list marker"
+        },
+        {
+          "tokens": [
+            "3:13.2",
+            "3:13.3",
+            "3:13.4",
+            "3:13.5",
+            "3:13.6",
+            "3:13.7",
+            "3:13.8",
+            "3:13.9",
+            "3:13.10",
+            "3:13.11",
+            "3:13.12",
+            "3:13.13",
+            "3:13.14",
+            "3:13.15",
+            "3:13.16",
+            "3:13.17",
+            "3:13.18",
+            "3:13.19",
+            "3:13.20",
+            "3:13.21"
+          ],
+          "english": "We learned from the words of the Gaon that there are many books that are ascribed to the names of the great sages of Israel (falsely), for the sake of some benefit that accrues to them,",
+          "literal": "learned-we from-words-of the-Gaon that many books there-are that-ascribe them to the-name-of the-great sages-of Israel falsely for-the-sake-of some benefit that-accrues to-them"
+        },
+        {
+          "tokens": [
+            "3:13.22",
+            "3:13.23",
+            "3:13.24",
+            "3:13.25",
+            "3:13.26",
+            "3:13.27",
+            "3:13.28",
+            "3:13.29",
+            "3:13.30",
+            "3:13.31",
+            "3:13.32",
+            "3:13.33",
+            "3:13.34",
+            "3:13.35",
+            "3:13.36"
+          ],
+          "english": "and we learned also that whatever is not stated explicitly in the Mishnah and in the Gemara, and that we see is the opposite of the plain sense of the Talmud, is not a tradition,",
+          "literal": "and-learned-we also that-whatever is-not stated-explicitly in-the-Mishnah and-in-the-Gemara and-we-see that-it the-opposite-of the-plain-sense-of the-Talmud is-not tradition it"
+        },
+        {
+          "tokens": [
+            "3:13.37",
+            "3:13.38",
+            "3:13.39"
+          ],
+          "english": "and we do not rely on it.",
+          "literal": "and-not we-rely on-it"
+        },
+        {
+          "tokens": [
+            "3:13.40",
+            "3:13.41",
+            "3:13.42",
+            "3:13.43",
+            "3:13.44",
+            "3:13.45",
+            "3:13.46",
+            "3:13.47",
+            "3:13.48",
+            "3:13.49",
+            "3:13.50"
+          ],
+          "english": "And for this reason no decisors rule from the midrashim where they disagree with the Talmud,",
+          "literal": "and-for this-reason no decisors from the-midrashim where they disagree with the-Talmud"
+        },
+        {
+          "tokens": [
+            "3:13.51",
+            "3:13.52",
+            "3:13.53",
+            "3:13.54",
+            "3:13.55",
+            "3:13.56",
+            "3:13.57",
+            "3:13.58",
+            "3:13.59",
+            "3:13.60",
+            "3:13.61"
+          ],
+          "english": "and even the Jerusalem Talmud we do not heed where it disagrees with the Babylonian,",
+          "literal": "and-even the-Talmud Jerusalem not-we heed it where it disagrees with the-Babylonian"
+        },
+        {
+          "tokens": [
+            "3:13.62",
+            "3:13.63",
+            "3:13.64",
+            "3:13.65",
+            "3:13.66",
+            "3:13.67",
+            "3:13.68",
+            "3:13.69",
+            "3:13.70",
+            "3:13.71",
+            "3:13.72",
+            "3:13.73",
+            "3:13.74",
+            "3:13.75",
+            "3:13.76",
+            "3:13.77",
+            "3:13.78",
+            "3:13.79"
+          ],
+          "english": "on which all the house of Israel rely, both for leniency and for stringency, as all this is made clear in the words of our rabbis the decisors in several places.",
+          "literal": "which all the-house-of Israel rely on-it both for-leniency and for-stringency as-is-made-clear all this in-the-words-of our-rabbis the-decisors in-several places"
+        },
+        {
+          "tokens": [
+            "3:13.80",
+            "3:13.81",
+            "3:13.82",
+            "3:13.83",
+            "3:13.84",
+            "3:13.85",
+            "3:13.86",
+            "3:13.87",
+            "3:13.88"
+          ],
+          "english": "And see below, §42, what I wrote there in the name of the Rosh,",
+          "literal": "and-see below section 42 what I-wrote there in-the-name-of the-Rosh"
+        },
+        {
+          "tokens": [
+            "3:13.89",
+            "3:13.90",
+            "3:13.91",
+            "3:13.92",
+            "3:13.93",
+            "3:13.94",
+            "3:13.95",
+            "3:13.96",
+            "3:13.97",
+            "3:13.98",
+            "3:13.99",
+            "3:13.100",
+            "3:13.101",
+            "3:13.102"
+          ],
+          "english": "and go and learn from what Rabbeinu Tam ben Yichya wrote, cited in the book Rivid ha-Zahav in the laws of Passover, and these are his words:",
+          "literal": "and-go-and learn from-what wrote Rabbeinu-Tam ben Yichya cited in-the-book Rivid ha-Zahav in-the-laws-of Passover and-these are-his-words"
+        },
+        {
+          "tokens": [
+            "3:13.103",
+            "3:13.104",
+            "3:13.105",
+            "3:13.106",
+            "3:13.107",
+            "3:13.108",
+            "3:13.109",
+            "3:13.110",
+            "3:13.111",
+            "3:13.112",
+            "3:13.113",
+            "3:13.114",
+            "3:13.115"
+          ],
+          "english": "\"In our time knowledge has ceased, and the hidden matters of the Torah have been hidden from the eyes of every living thing; no man",
+          "literal": "in-our-time this has-ceased knowledge and-hidden-matters-of the-Torah have-been-hidden from-the-eyes-of every living-thing no knows man"
+        },
+        {
+          "tokens": [
+            "3:13.116",
+            "3:13.117",
+            "3:13.118"
+          ],
+          "english": "knows the order of this wisdom;",
+          "literal": "the-order-of the-wisdom this"
+        },
+        {
+          "tokens": [
+            "3:13.119",
+            "3:13.120",
+            "3:13.121",
+            "3:13.122",
+            "3:13.123",
+            "3:13.124",
+            "3:13.125",
+            "3:13.126",
+            "3:13.127"
+          ],
+          "english": "and whoever holds to this, there befalls him a great share of the harm and the danger",
+          "literal": "and-whoever holds-to this befalls him of-the-harm and-the-danger a-share great"
+        },
+        {
+          "tokens": [
+            "3:13.128",
+            "3:13.129",
+            "3:13.130",
+            "3:13.131",
+            "3:13.132",
+            "3:13.133",
+            "3:13.134",
+            "3:13.135",
+            "3:13.136"
+          ],
+          "english": "(that is to say, the harm and the danger of heresy, in that there is no share for him in the God of Israel).",
+          "literal": "that-is-to-say the-harm and-the-danger-of heresy in-that-there-is-no for-him share in-the-God-of Israel"
+        },
+        {
+          "tokens": [
+            "3:13.137",
+            "3:13.138",
+            "3:13.139",
+            "3:13.140",
+            "3:13.141",
+            "3:13.142",
+            "3:13.143",
+            "3:13.144",
+            "3:13.145",
+            "3:13.146",
+            "3:13.147",
+            "3:13.148",
+            "3:13.149"
+          ],
+          "english": "And concerning such things our Rabbis of blessed memory warned us, 'Do not seek what is too wondrous for you, and do not inquire into what is hidden from you.'",
+          "literal": "and-concerning such things warned-us our-Rabbis-of-blessed-memory what-is-too-wondrous for-you do-not seek and-what-is-hidden from-you do-not inquire"
+        },
+        {
+          "tokens": [
+            "3:13.150",
+            "3:13.151",
+            "3:13.152",
+            "3:13.153",
+            "3:13.154",
+            "3:13.155",
+            "3:13.156",
+            "3:13.157",
+            "3:13.158",
+            "3:13.159",
+            "3:13.160",
+            "3:13.161",
+            "3:13.162"
+          ],
+          "english": "And it is enough for us what the sages of the true tradition, agreed upon from every side, have taught us in the explanation of the Torah and its commandments.",
+          "literal": "and-enough for-us what that-taught-us the-sages-of tradition true agreed-upon from-every side in-the-explanation-of the-Torah and-its-commandments"
+        },
+        {
+          "tokens": [
+            "3:13.163",
+            "3:13.164",
+            "3:13.165",
+            "3:13.166",
+            "3:13.167",
+            "3:13.168",
+            "3:13.169",
+            "3:13.170"
+          ],
+          "english": "According to the tradition, from man to man, until the days of Moses;",
+          "literal": "according-to the-tradition man from-the-mouth-of man until the-days-of Moses"
+        },
+        {
+          "tokens": [
+            "3:13.171",
+            "3:13.172",
+            "3:13.173",
+            "3:13.174"
+          ],
+          "english": "and it is called the Oral Torah,",
+          "literal": "and-it is-called the Torah of-the-mouth"
+        },
+        {
+          "tokens": [
+            "3:13.175",
+            "3:13.176",
+            "3:13.177",
+            "3:13.178",
+            "3:13.179",
+            "3:13.180",
+            "3:13.181",
+            "3:13.182",
+            "3:13.183",
+            "3:13.184",
+            "3:13.185",
+            "3:13.186"
+          ],
+          "english": "on account of which Moses went up on high and stood there forty days to learn its general principles and its particulars",
+          "literal": "which on-account-of-it Moses went-up on-high and-stood there forty days to-learn its-general-principles and-its-particulars"
+        },
+        {
+          "tokens": [
+            "3:13.187",
+            "3:13.188",
+            "3:13.189",
+            "3:13.190",
+            "3:13.191"
+          ],
+          "english": "by the rules transmitted to him from the mouth of the Power.",
+          "literal": "by-the-measures transmitted to-him from-the-mouth-of the-Power"
+        },
+        {
+          "tokens": [
+            "3:13.192",
+            "3:13.193",
+            "3:13.194",
+            "3:13.195",
+            "3:13.196",
+            "3:13.197",
+            "3:13.198",
+            "3:13.199",
+            "3:13.200",
+            "3:13.201",
+            "3:13.202",
+            "3:13.203",
+            "3:13.204",
+            "3:13.205",
+            "3:13.206"
+          ],
+          "english": "And with these matters we are bound to occupy ourselves, for they are our life and the length of our days, and in not one of them shall we err.",
+          "literal": "and-with these we are-bound to-occupy-ourselves with-them for they our-life and-the-length-of our-days and-one of-them not we-shall-err"
+        },
+        {
+          "tokens": [
+            "3:13.207",
+            "3:13.208",
+            "3:13.209",
+            "3:13.210",
+            "3:13.211",
+            "3:13.212",
+            "3:13.213",
+            "3:13.214",
+            "3:13.215",
+            "3:13.216",
+            "3:13.217",
+            "3:13.218",
+            "3:13.219",
+            "3:13.220"
+          ],
+          "english": "His one law is to put to death whoever defies their word, and whoever transgresses the words of the Sages is liable to death.",
+          "literal": "his-one law to-put-to-death who defies the-mouth-of-them and-whoever transgresses against the-words-of the-Sages is-liable death"
+        },
+        {
+          "tokens": [
+            "3:13.221",
+            "3:13.222",
+            "3:13.223",
+            "3:13.224",
+            "3:13.225",
+            "3:13.226",
+            "3:13.227",
+            "3:13.228",
+            "3:13.229",
+            "3:13.230"
+          ],
+          "english": "But the remaining allusions in them, which the sages of Kabbalah did not exhaust in their lifetimes,",
+          "literal": "but the-remaining allusions which in-them not exhausted their-days the-sages-of Kabbalah"
+        },
+        {
+          "tokens": [
+            "3:13.231",
+            "3:13.232",
+            "3:13.233",
+            "3:13.234",
+            "3:13.235",
+            "3:13.236",
+            "3:13.237",
+            "3:13.238",
+            "3:13.239"
+          ],
+          "english": "although they are hidden matters of the Torah and matters of the intellect; we were not commanded concerning them.",
+          "literal": "although they-are hidden-matters-of the-Torah and-matters-of the-intellect we were-not commanded concerning-them"
+        },
+        {
+          "tokens": [
+            "3:13.240",
+            "3:13.241",
+            "3:13.242",
+            "3:13.243",
+            "3:13.244",
+            "3:13.245",
+            "3:13.246",
+            "3:13.247",
+            "3:13.248",
+            "3:13.249",
+            "3:13.250",
+            "3:13.251"
+          ],
+          "english": "For these remained for the select few to be occupied with them, in the times that were before us, etc.",
+          "literal": "for these remained to-be-occupied with-them the-select few in-the-times that were before-us etc"
+        },
+        {
+          "tokens": [
+            "3:13.252",
+            "3:13.253",
+            "3:13.254",
+            "3:13.255",
+            "3:13.256",
+            "3:13.257",
+            "3:13.258"
+          ],
+          "english": "And not everyone who wishes to take the Name takes it.",
+          "literal": "and-not everyone who-wishes to-take the-Name takes"
+        },
+        {
+          "tokens": [
+            "3:13.259",
+            "3:13.260",
+            "3:13.261",
+            "3:13.262",
+            "3:13.263",
+            "3:13.264"
+          ],
+          "english": "For these are matters that are like its furnace; they are so forever.",
+          "literal": "for matters that like-its-furnace forever they are"
+        },
+        {
+          "tokens": [
+            "3:13.265",
+            "3:13.266",
+            "3:13.267",
+            "3:13.268",
+            "3:13.269",
+            "3:13.270",
+            "3:13.271",
+            "3:13.272",
+            "3:13.273",
+            "3:13.274"
+          ],
+          "english": "And in our time the merit of the fathers has ended, and no one holds this wisdom justly:",
+          "literal": "and-in-our-time this has-ended the-merit of-the-fathers and-no-one holds justly this wisdom"
+        },
+        {
+          "tokens": [
+            "3:13.275",
+            "3:13.276",
+            "3:13.277",
+            "3:13.278",
+            "3:13.279"
+          ],
+          "english": "on the contrary, they destroy the corners of the Torah,",
+          "literal": "on-the-contrary they destroy the-corners-of the-Torah"
+        },
+        {
+          "tokens": [
+            "3:13.280",
+            "3:13.281",
+            "3:13.282",
+            "3:13.283"
+          ],
+          "english": "and its pillars shudder at the sound of the trumpeters;",
+          "literal": "and-its-pillars they-shudder at-the-sound-of the-trumpeters"
+        },
+        {
+          "tokens": [
+            "3:13.284",
+            "3:13.285",
+            "3:13.286",
+            "3:13.287",
+            "3:13.288",
+            "3:13.289",
+            "3:13.290"
+          ],
+          "english": "the blind, who pass over, do not know the way where light dwells;",
+          "literal": "the-passers-over the-blind not know the-way where dwells light"
+        },
+        {
+          "tokens": [
+            "3:13.291",
+            "3:13.292",
+            "3:13.293",
+            "3:13.294",
+            "3:13.295"
+          ],
+          "english": "they grope like the blind, and weary themselves seeking the door.",
+          "literal": "they-grope like-the-blind and-they-weary seeking the-door"
+        },
+        {
+          "tokens": [
+            "3:13.296",
+            "3:13.297",
+            "3:13.298",
+            "3:13.299",
+            "3:13.300",
+            "3:13.301",
+            "3:13.302"
+          ],
+          "english": "And where they thought to gain, suddenly they shall be broken, and there is no healing.",
+          "literal": "and-where they-thought to-gain suddenly they-shall-be-broken and-there-is no healing"
+        },
+        {
+          "tokens": [
+            "3:13.303",
+            "3:13.304",
+            "3:13.305",
+            "3:13.306",
+            "3:13.307",
+            "3:13.308",
+            "3:13.309",
+            "3:13.310"
+          ],
+          "english": "And many of the unlearned boast, saying: 'The secret of the LORD is ours;",
+          "literal": "and-many of-the-unlearned boast saying the-secret-of the-LORD for-us"
+        },
+        {
+          "tokens": [
+            "3:13.311",
+            "3:13.312",
+            "3:13.313",
+            "3:13.314",
+            "3:13.315",
+            "3:13.316",
+            "3:13.317",
+            "3:13.318",
+            "3:13.319",
+            "3:13.320"
+          ],
+          "english": "the upper waters are our heritage, not yours, you masters of the Talmud who walk in darkness.'",
+          "literal": "a-heritage for-us the-waters the-upper not for-you the-masters-of the-Talmud who walk in-darkness"
+        },
+        {
+          "tokens": [
+            "3:13.321",
+            "3:13.322",
+            "3:13.323",
+            "3:13.324",
+            "3:13.325",
+            "3:13.326"
+          ],
+          "english": "Their heart is not with their people; their eyes are plastered over, so that they cannot see,",
+          "literal": "and-their-heart not with-their-people plastered-over from-seeing their-eyes"
+        },
+        {
+          "tokens": [
+            "3:13.327",
+            "3:13.328",
+            "3:13.329",
+            "3:13.330",
+            "3:13.331",
+            "3:13.332"
+          ],
+          "english": "and the word is not in them; they are wise to do harm to themselves.",
+          "literal": "and-the-word not in-them wise to-do-harm to-themselves"
+        },
+        {
+          "tokens": [
+            "3:13.333",
+            "3:13.334",
+            "3:13.335",
+            "3:13.336",
+            "3:13.337",
+            "3:13.338"
+          ],
+          "english": "For they hold fast to what the hand of their intellect is too short to reach.",
+          "literal": "for they hold-fast to-what is-short the-hand of-their-intellect"
+        },
+        {
+          "tokens": [
+            "3:13.339",
+            "3:13.340",
+            "3:13.341",
+            "3:13.342",
+            "3:13.343",
+            "3:13.344",
+            "3:13.345",
+            "3:13.346",
+            "3:13.347"
+          ],
+          "english": "And they want to climb the rungs; it is not in their power to reach the goal.",
+          "literal": "and-they-want to-climb up-the-rungs there-is-no capacity in-their-hands to-reach to the-goal"
+        },
+        {
+          "tokens": [
+            "3:13.348",
+            "3:13.349",
+            "3:13.350",
+            "3:13.351",
+            "3:13.352"
+          ],
+          "english": "And they bring up a potsherd in their hands to scrape with it.",
+          "literal": "and-they-bring-up a-potsherd in-their-hands to-scrape with-it"
+        },
+        {
+          "tokens": [
+            "3:13.353",
+            "3:13.354",
+            "3:13.355",
+            "3:13.356"
+          ],
+          "english": "And they become a snare to them, etc.",
+          "literal": "and-they-become to-them a-snare etc"
+        },
+        {
+          "tokens": [
+            "3:13.357",
+            "3:13.358",
+            "3:13.359",
+            "3:13.360",
+            "3:13.361",
+            "3:13.362",
+            "3:13.363",
+            "3:13.364",
+            "3:13.365"
+          ],
+          "english": "For there comes out from them a stumbling-block, to breach the fence of the Torah and to tear down its walls.",
+          "literal": "for comes-out from-them a-stumbling-block to-breach the-fence-of the-Torah and-to-tear-down its-walls"
+        },
+        {
+          "tokens": [
+            "3:13.366",
+            "3:13.367",
+            "3:13.368",
+            "3:13.369",
+            "3:13.370",
+            "3:13.371",
+            "3:13.372",
+            "3:13.373",
+            "3:13.374",
+            "3:13.375",
+            "3:13.376"
+          ],
+          "english": "One boasts of what he does not understand, and errs in the beginnings of the Torah and its roots, and comes to heresy.",
+          "literal": "one-boasts of-what that-he-not understands and-errs in-the-beginnings-of the-Torah and-its-roots and-comes to heresy"
+        },
+        {
+          "tokens": [
+            "3:13.377",
+            "3:13.378",
+            "3:13.379",
+            "3:13.380",
+            "3:13.381",
+            "3:13.382",
+            "3:13.383",
+            "3:13.384",
+            "3:13.385",
+            "3:13.386"
+          ],
+          "english": "And he is distanced from the haven of his desire, which is the nearness of God; it would have been better for him had he not been created,",
+          "literal": "and-he-is-distanced from-the-haven-of his-desire which is the-nearness-of God it-would-have-been-better for-him that-he-not been-created"
+        },
+        {
+          "tokens": [
+            "3:13.387",
+            "3:13.388",
+            "3:13.389",
+            "3:13.390",
+            "3:13.391",
+            "3:13.392"
+          ],
+          "english": "all the more so to change a midrash and to annul a halakhah.\"",
+          "literal": "all the-more-so to-change a-midrash and-to-annul a-halakhah"
+        },
+        {
+          "tokens": [
+            "3:13.393"
+          ],
+          "english": "Thus far his words.",
+          "literal": "thus far his words"
+        }
+      ],
+      "severity": "error",
+      "reason": "The English changed in the places above; the phrase boundaries of 3:13.275-290 move because the pillars are now the subject of 'shudder'."
+    },
+    {
+      "ref": "3:13",
+      "path": "literal",
+      "value": "13) list marker learned-we from-words-of the-Gaon that many books there-are that-ascribe them to the-name-of the-great sages-of Israel falsely for-the-sake-of some benefit that-accrues to-them and-learned-we also that-whatever is-not stated-explicitly in-the-Mishnah and-in-the-Gemara and-we-see that-it the-opposite-of the-plain-sense-of the-Talmud is-not tradition it and-not we-rely on-it and-for this-reason no decisors from the-midrashim where they disagree with the-Talmud and-even the-Talmud Jerusalem not-we heed it where it disagrees with the-Babylonian which all the-house-of Israel rely on-it both for-leniency and for-stringency as-is-made-clear all this in-the-words-of our-rabbis the-decisors in-several places and-see below section 42 what I-wrote there in-the-name-of the-Rosh and-go-and learn from-what wrote Rabbeinu-Tam ben Yichya cited in-the-book Rivid ha-Zahav in-the-laws-of Passover and-these are-his-words in-our-time this has-ceased knowledge and-hidden-matters-of the-Torah have-been-hidden from-the-eyes-of every living-thing no knows man the-order-of the-wisdom this and-whoever holds-to this befalls him of-the-harm and-the-danger a-share great that-is-to-say the-harm and-the-danger-of heresy in-that-there-is-no for-him share in-the-God-of Israel and-concerning such things warned-us our-Rabbis-of-blessed-memory what-is-too-wondrous for-you do-not seek and-what-is-hidden from-you do-not inquire and-enough for-us what that-taught-us the-sages-of tradition true agreed-upon from-every side in-the-explanation-of the-Torah and-its-commandments according-to the-tradition man from-the-mouth-of man until the-days-of Moses and-it is-called the Torah of-the-mouth which on-account-of-it Moses went-up on-high and-stood there forty days to-learn its-general-principles and-its-particulars by-the-measures transmitted to-him from-the-mouth-of the-Power and-with these we are-bound to-occupy-ourselves with-them for they our-life and-the-length-of our-days and-one of-them not we-shall-err his-one law to-put-to-death who defies the-mouth-of-them and-whoever transgresses against the-words-of the-Sages is-liable death but the-remaining allusions which in-them not exhausted their-days the-sages-of Kabbalah although they-are hidden-matters-of the-Torah and-matters-of the-intellect we were-not commanded concerning-them for these remained to-be-occupied with-them the-select few in-the-times that were before-us etc and-not everyone who-wishes to-take the-Name takes for matters that like-its-furnace forever they are and-in-our-time this has-ended the-merit of-the-fathers and-no-one holds justly this wisdom on-the-contrary they destroy the-corners-of the-Torah and-its-pillars they-shudder at-the-sound-of the-trumpeters the-passers-over the-blind not know the-way where dwells light they-grope like-the-blind and-they-weary seeking the-door and-where they-thought to-gain suddenly they-shall-be-broken and-there-is no healing and-many of-the-unlearned boast saying the-secret-of the-LORD for-us a-heritage for-us the-waters the-upper not for-you the-masters-of the-Talmud who walk in-darkness and-their-heart not with-their-people plastered-over from-seeing their-eyes and-the-word not in-them wise to-do-harm to-themselves for they hold-fast to-what is-short the-hand of-their-intellect and-they-want to-climb up-the-rungs there-is-no capacity in-their-hands to-reach to the-goal and-they-bring-up a-potsherd in-their-hands to-scrape with-it and-they-become to-them a-snare etc for comes-out from-them a-stumbling-block to-breach the-fence-of the-Torah and-to-tear-down its-walls one-boasts of-what that-he-not understands and-errs in-the-beginnings-of the-Torah and-its-roots and-comes to heresy and-he-is-distanced from-the-haven-of his-desire which is the-nearness-of God it-would-have-been-better for-him that-he-not been-created all the-more-so to-change a-midrash and-to-annul a-halakhah thus far his words",
+      "severity": "error",
+      "reason": "Follows the new English: the Rosh, Rabbeinu Tam, from seeing, the word, capacity, haven."
+    },
+    {
+      "ref": "3:13",
+      "path": "note",
+      "value": "Paragraph 13 of the book's third chapter. The opening 'we learned' frame is the author's; the central quotation is Rabbeinu Tam's, and it closes with the author's 'Thus far his words'.",
+      "severity": "error",
+      "reason": "Rabbeinu Tam, by the ruling."
+    },
+    {
+      "ref": "3:13",
+      "path": "grammar",
+      "value": [
+        "The paragraph is the author's own argument in its first half. From וז\"ל (3:13.102) to עכ\"ל (3:13.393) the words are Rabbeinu Tam's, as cited in Rivid ha-Zahav, and the quotation is marked in double quotation marks.",
+        "ולא סמכינן עליה (3:13.37-39): סמכינן is the Talmudic Aramaic first-person plural of 'to rely', and the English gives it as the plain 'we do not rely on it'.",
+        "ועמודיה יתפלצון (3:13.280-281) is Job 9:6, where the pillars shudder. The pillars of the Torah are therefore the subject of יתפלצון, and the destroyers have only 'the corners of the Torah' as their object. The pillars shudder at the sound of the מחצצים (Judg 5:11, a word of disputed sense).",
+        "The speech of the unlearned (3:13.307-320) has no introductory formula beyond באמרם. It is marked as direct speech inside the quotation, in single quotation marks.",
+        "אין ספק בידם להגיע (3:13.342-345): the printed ספק is 'doubt', but after קצרה יד שכלם (the hand of their intellect is too short) and before the potsherd (3:13.349-352) the clause must say that they lack the means to arrive. The word is read as סיפק, 'capacity, means' (the rabbinic idiom אין סיפק בידו, 'it is not in his power'), and the English follows the sense of the context. The plain reading of ספק as 'doubt' is in readings."
+      ],
+      "severity": "error",
+      "reason": "The note on the subject of יתפלצון is now settled by Job 9:6, the note on אין ספק is changed, and Rabbi Tam becomes Rabbeinu Tam."
+    },
+    {
+      "ref": "3:13",
+      "path": "apparatus",
+      "value": [
+        "Base text: Wikisource, as translated for the unit under Q2 (the 1931 scan is not yet collated for this paragraph).",
+        "ר\"ת (3:13.93): 'Rabbeinu Tam' by the editor's ruling; 'Rabbi Tam' (ר' תם) is the other expansion.",
+        "Job 28:21: ונעלמה מעיני כל חי; the author writes נעלמו מעיני כל חי (3:13.109-112). Job 28:13: לא ידע אנוש ערכה; echoed in לא ידע אנוש סדר (3:13.113-116).",
+        "Cf. Josh 22:25: ואין לכם חלק בה'; echoed in שאין לו חלק באלהי ישראל (3:13.132-136).",
+        "Deut 30:20: כי הוא חייך ואורך ימיך; the author writes כי הם חיינו ואורך ימינו (3:13.198-202).",
+        "Esth 4:11: אחת דתו להמית (3:13.207-209). Josh 1:18: כל איש אשר ימרה את פיך; the author writes אשר ימרה את פיהם (3:13.210-213).",
+        "Job 9:6: ועמודיה יתפלצון (3:13.280-281). Judg 5:11: מקול מחצצים בין משאבים (3:13.282-283).",
+        "Job 38:19: אי זה הדרך ישכן אור; the author writes דרך ישכן אור.",
+        "Isa 59:10: נגששה כעורים קיר, and Deut 28:29: כאשר ימשש העור באפלה; the author writes ימששו כעורים (3:13.291-292).",
+        "Gen 19:11: וילאו למצא הפתח (3:13.293-295).",
+        "Prov 6:15: פתע ישבר ואין מרפא; the author writes פתע ישברו ואין מרפא.",
+        "Ps 25:14: סוד ה' ליראיו; the author writes סוד ה' לנו. Deut 33:4: מורשה קהלת יעקב; the author writes מורשה לנו (3:13.311-312). Cf. Isa 9:1: ההלכים בחשך (3:13.319-320).",
+        "Isa 44:18: טח מראות עיניהם (מראות, 'from seeing'; the verse governs the sense of 3:13.324-326).",
+        "Jer 5:13: והדבר אין בהם (3:13.327-329). Jer 4:22: חכמים המה להרע; echoed in חכמים להרע לנפשם (3:13.330-332).",
+        "Isa 59:1: הן לא קצרה יד ה' מהושיע; cf. Num 11:23: היד ה' תקצר; echoed in קצרה יד שכלם (3:13.336-338).",
+        "אין ספק (3:13.342-343): printed ספק 'doubt'; the likelier word is סיפק 'capacity, means' (decisions, wave 1: a word that does not fit its context).",
+        "Job 2:8: ויקח לו חרש להתגרד בו; echoed in חרס בידם להתגרד בו (3:13.349-351).",
+        "Ps 106:36: ויהיו להם למוקש, cut short by the author with וכו' (3:13.353-356). Cf. Eccl 10:8: ופרץ גדר (3:13.361-362).",
+        "Ps 107:30: אל מחוז חפצם (3:13.378-379). Ps 73:28: קרבת אלהים (3:13.381-382)."
+      ],
+      "severity": "error",
+      "reason": "Allusions not listed: Job 28:21 and 28:13, Esth 4:11, Josh 1:18, Deut 30:20, Job 9:6, Judg 5:11, Gen 19:11 (וילאו למצא הפתח), Deut 33:4, Isa 9:1, Jer 5:13, Ps 106:36, Ps 107:30, Ps 73:28. Misquoted: Isa 59:10 has נגששה כעורים קיר (ימששו is Deut 28:29, Job 12:25); Isa 59:1 begins הן; Prov 6:15 reads פתע ישבר. The ר\"ת line follows the ruling."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.88.gloss",
+      "value": "the Rosh",
+      "severity": "error",
+      "reason": "Decisions: הרא\"ש is 'the Rosh'."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.88.note",
+      "value": "הרא\"ש: 'the Rosh' (Rabbeinu Asher); the acronym is kept as an authority's name, by the ruling.",
+      "severity": "error",
+      "reason": "Decisions."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.93.gloss",
+      "value": "Rabbeinu Tam",
+      "severity": "error",
+      "reason": "Decisions: ר\"ת is 'Rabbeinu Tam'."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.93.note",
+      "value": "ר\"ת: 'Rabbeinu Tam', by the ruling. The text adds ן' יחיא ('ben Yichya'), and the English identifies him no further. The other expansion, 'Rabbi Tam', is in apparatus.",
+      "severity": "error",
+      "reason": "Decisions."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.325.gloss",
+      "value": "from seeing",
+      "severity": "error",
+      "reason": "מראות is מ plus ראות (Isa 44:18), 'from seeing'; the word was left out."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.325.note",
+      "value": "מראות: 'from seeing' (Isa 44:18, 'He has plastered over their eyes so that they cannot see').",
+      "severity": "error",
+      "reason": "Explains the gloss."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.327.gloss",
+      "value": "and the word",
+      "severity": "error",
+      "reason": "והדבר אין בהם is Jer 5:13: 'the word is not in them'. 'Substance' is not a sense the verse gives."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.327.note",
+      "value": "והדבר אין בהם: Jer 5:13 (the prophets who are wind), 'the word is not in them'. The verse governs the sense (decisions, wave 1).",
+      "severity": "error",
+      "reason": "Explains the gloss."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.342.gloss",
+      "value": "it is not",
+      "severity": "error",
+      "reason": "Follows the sense of the context (see 343)."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.343.gloss",
+      "value": "capacity",
+      "severity": "error",
+      "reason": "ספק as printed is 'doubt', but the clause needs סיפק, 'capacity, means' (אין סיפק בידו, 'it is not in his power'). After קצרה יד שכלם and before 'a potsherd in their hands' an affirmative 'no doubt that it is in their power' contradicts the argument."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.343.note",
+      "value": "The printed word is ספק, 'doubt'. The context needs סיפק, 'capacity, means', as in the rabbinic אין סיפק בידו, 'it is not in his power'. Translated by the sense of the context, with the printed word here and in apparatus (decisions, wave 1). The plain reading is in readings.",
+      "severity": "error",
+      "reason": "The ruling for a printed word that does not fit its context."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.344.gloss",
+      "value": "in their hands",
+      "severity": "style",
+      "reason": "Literal; the English has 'in their power'."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.345.note",
+      "value": "להגיע depends on סיפק: 'capacity to reach'.",
+      "severity": "error",
+      "reason": "The old note said the clause is affirmative; it is not."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.262.note",
+      "value": "כבשונו שלעולם: probably the rabbinic idiom כבשונו של עולם ('the furnace of the world'), meaning the Creator's inscrutable secret; the printed text joins של and עולם. The English keeps 'like its furnace' until the owner rules.",
+      "severity": "question",
+      "reason": "Decisions are silent. The translator's 'like its furnace; they are so forever' leaves 'its' with no antecedent and takes שלעולם as 'forever'. Proposed ruling: read כבשונו של עולם as one idiom and translate 'the furnace of the world', with the meaning in a note. If accepted, the clause becomes: For these are matters that are the furnace of the world, they are. (the second הם is emphatic; the owner may prefer to drop it). The translator's version is kept as the main text until the owner rules."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.283.note",
+      "value": "מחצצים is the word of Judg 5:11 (מקול מחצצים בין משאבים), where its sense is disputed ('archers', 'dividers of spoil', 'musicians'). 'Trumpeters' would be מחצצרים, a different word. The English keeps 'trumpeters' until the owner rules.",
+      "severity": "question",
+      "reason": "Decisions are silent. The old note derives the word from blowing a trumpet, but the Hebrew has no ר and the phrase is Judg 5:11. Proposed ruling: render 'the sound of the archers' (Judg 5:11), with the other senses in a note, or transliterate the word. The translator's version stays until the owner rules."
+    },
+    {
+      "ref": "3:13",
+      "path": "token:3:13.323.note",
+      "value": "עמם is עִמָּם, 'with them' (their heart is not with them: they have no sense), or עַמָּם, 'their people'. The English has 'their people'.",
+      "severity": "question",
+      "reason": "Decisions are silent. 'Their heart is not with their people' makes no point beside 'there is no word in them' and 'they are wise to do harm'. Proposed ruling: 'Their heart is not with them' (they have no sense). The translator's version stays until the owner rules."
+    },
+    {
+      "ref": "3:13",
+      "path": "readings",
+      "value": [
+        {
+          "tokens": [
+            "3:13.342",
+            "3:13.343",
+            "3:13.344",
+            "3:13.345",
+            "3:13.346",
+            "3:13.347"
+          ],
+          "english": "there is no doubt that it is in their power to reach the goal",
+          "source": "plain reading of ספק as 'doubt'",
+          "note": "The translator's first reading. It makes the clause an affirmation, against קצרה יד שכלם before it and the potsherd after it, so the main English reads סיפק, 'capacity'."
+        },
+        {
+          "tokens": [
+            "3:13.259",
+            "3:13.260",
+            "3:13.261",
+            "3:13.262",
+            "3:13.263",
+            "3:13.264"
+          ],
+          "english": "For these are matters that are the furnace of the world",
+          "source": "the rabbinic idiom כבשונו של עולם",
+          "note": "The printed שלעולם is read as של עולם; the main English keeps the translator's 'like its furnace'."
+        },
+        {
+          "tokens": [
+            "3:13.282",
+            "3:13.283"
+          ],
+          "english": "at the sound of the archers",
+          "source": "Judg 5:11 (the sense of מחצצים is disputed)",
+          "note": "Others take 'dividers of spoil' or 'musicians'; the main English keeps 'trumpeters'."
+        },
+        {
+          "tokens": [
+            "3:13.321",
+            "3:13.322",
+            "3:13.323"
+          ],
+          "english": "Their heart is not with them",
+          "source": "grammar: עמם as עִמָּם",
+          "note": "The main English keeps 'with their people'."
+        }
+      ],
+      "severity": "question",
+      "reason": "Alternative readings of the words, listed with the questions raised on the tokens above. The first is the translator's own reading, now replaced in the main English."
+    }
+  ],
+  "verdicts": []
+}
