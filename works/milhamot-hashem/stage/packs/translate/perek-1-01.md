@@ -487,6 +487,12 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
   is the sole sense that fits.
 - A word with no function in its context (סדר): "Seder" as printed, with a
   note; the other reading in `readings`.
+- בעל + a book title (המקובל בעל היכל הברכה): "the Kabbalist, the author of
+  Heikhal ha-Berakhah" (the title translated once in a note: "Palace of
+  Blessing"). Identify no author the text does not name.
+- Lev 19:16: translate what the author writes; "stand idly by" adds "idly": use
+  "stand by the blood of your fellow".
+- וכ' read as וכו' ("etc.") where it closes a quotation.
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:

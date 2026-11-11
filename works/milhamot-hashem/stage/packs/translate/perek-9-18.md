@@ -525,6 +525,9 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - An unclear abbreviation (לי"ח): the conjecture in a token note, the Hebrew
   letters kept in `apparatus`; the English carries the conjecture only if it
   is the sole sense that fits.
+- Lev 19:16: translate what the author writes; "stand idly by" adds "idly": use
+  "stand by the blood of your fellow".
+- וכ' read as וכו' ("etc.") where it closes a quotation.
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:

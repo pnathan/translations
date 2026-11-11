@@ -460,6 +460,12 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - A section number of a book the author cites: "section 172", not "§"; "§" is
   only for the author's own numbered sections.
 - פ' + number after a book with no parashot (Menorat ha-Ma'or): "chapter".
+- בעל + a book title (המקובל בעל היכל הברכה): "the Kabbalist, the author of
+  Heikhal ha-Berakhah" (the title translated once in a note: "Palace of
+  Blessing"). Identify no author the text does not name.
+- Lev 19:16: translate what the author writes; "stand idly by" adds "idly": use
+  "stand by the blood of your fellow".
+- וכ' read as וכו' ("etc.") where it closes a quotation.
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:
