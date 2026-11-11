@@ -519,7 +519,10 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - וכ' read as וכו' ("etc.") where it closes a quotation.
 - The words of a verse quoted in the plural (Job 32:16, עמדו): plural, no
   subject added.
-
+- כ' ע"ש: "he writes, see there:"; the quotation opens after it; ע"ש as על שם in
+  `readings`.
+- bat kol: "bat kol", "daughter of a voice" in the note.
+- The Hebrew for "Machzor" follows the scheme (ח = ch): "Machzor Vitry".
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:

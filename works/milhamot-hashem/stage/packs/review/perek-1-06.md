@@ -377,6 +377,8 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - פ' + number after a book with no parashot (Menorat ha-Ma'or): "chapter".
 - Lev 19:16: translate what the author writes; "stand idly by" adds "idly": use
   "stand by the blood of your fellow".
+- bat kol: "bat kol", "daughter of a voice" in the note.
+- The Hebrew for "Machzor" follows the scheme (ח = ch): "Machzor Vitry".
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:

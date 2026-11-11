@@ -493,6 +493,10 @@ The pack has no morphemes, lemmas, lexicon or commentary, so:
 - Lev 19:16: translate what the author writes; "stand idly by" adds "idly": use
   "stand by the blood of your fellow".
 - וכ' read as וכו' ("etc.") where it closes a quotation.
+- כ' ע"ש: "he writes, see there:"; the quotation opens after it; ע"ש as על שם in
+  `readings`.
+- bat kol: "bat kol", "daughter of a voice" in the note.
+- The Hebrew for "Machzor" follows the scheme (ח = ch): "Machzor Vitry".
 ## Translator's checklist (the pilot reviews found these faults most often)
 
 Before running the check, read your English once against the Hebrew:
